@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ラスターマシナリー | 中古工作機械・修理サービス</title>
+  <style>
+    :root{
+      --primary:#2c3e50;
+      --accent:#3498db;
+      --muted:#ecf0f1;
+      --green:#27ae60;
+      --card-bg:#ffffff;
+    }
+    html, body {
+      margin: 0; padding: 0;
+      background-color: #f4f4f4; color: #333;
+      font-family: 'Arial', sans-serif;
+      line-height: 1.6;
+      font-size: 18px;
+    }
+    header {
+      background-color: var(--primary);
+      color: white;
+      padding: 2vw 1vw;
+      text-align: center;
+    }
+    header .header-inner {
+      width: 100%;
+      max-width: none;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 2vw;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    header img {
+      max-width: 10vw;
+      min-width: 100px;
+      height: auto;
+      display: block;
+    }
+    header h1 {
+      margin: 0; font-size:2.5vw; color: #fff;
+      min-width: 240px;
+    }
+    .page {
+      width: 100vw;
+      display: flex;
+      gap: 2vw;
+      align-items: flex-start;
+      min-height: 80vh;
+      box-sizing: border-box;
+      padding: 2vw 2vw 0 2vw;
+    }
+    main { flex:1 1 0%; min-width:0; }
+    aside.sidebar {
+      width: 340px; max-width: 32vw; min-width: 260px;
+    }
+    .card {
+      background: var(--card-bg);
+      padding: 1.5vw 1.5vw 1.2vw 1.5vw;
+      border-radius: 1vw;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+      margin-bottom: 1.5vw;
+      box-sizing: border-box;
+    }
+    h2 {
+      color: #34495e; margin-top:0;
+      border-bottom: 2px solid var(--accent);
+      padding-bottom:0.4vw;
+      font-size:1.3em;
+    }
+    ul.service-list { list-style:none; padding:0; margin:0; display:grid; gap:1vw; }
+    ul.service-list li {
+      background:var(--muted);
+      padding:1vw; border-radius:0.7vw;
+      display:flex; gap:1vw; align-items:flex-start;
+      min-height: 120px;
+    }
+    .service-img {
+      width:10vw; min-width:110px; height:auto;
+      border-radius:0.7vw; object-fit:cover;
+      background:#eee;
+      max-height: 160px;
+      box-shadow: 0 2px 10px rgba(80,80,80,0.06);
+    }
+    .service-text { flex:1; }
+    .contact {
+      background-color: #e8f5e8;
+      padding: 1vw 1vw 1vw 1vw;
+      border-radius: 1vw;
+      margin: 2vw 0;
+      text-align: center;
+    }
+    .contact a.btn {
+      background: var(--green); color: white;
+      padding: 0.7vw 1.2vw;
+      text-decoration:none;
+      border-radius:0.5vw;
+      display:inline-block;
+      font-size:1.1em;
+      margin-top:0.5vw;
+    }
+    footer {
+      text-align: center;
+      padding: 2vw 0 1vw 0;
+      background-color: var(--primary);
+      color: white;
+      margin-top: 1vw;
+      font-size:1em;
+    }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* 修理実績表 */
+    .repair-table {
+      width: 100%;
+      border-collapse: separate;
+      border-spacing: 0;
+      background: #fafdff;
+      font-size: 1.04em;
+      box-shadow: 0 2px 10px rgba(50,80,120,0.03);
+      margin-bottom: 4px;
+      min-width: 700px;
+    }
+    .repair-table th, .repair-table td {
+      border: 1.3px solid #e0e7ef;
+      padding: 10px 8px;
+      text-align: center;
+      vertical-align: middle;
+    }
+    .repair-table th {
+      background: #e9f3fb;
+      color: #234;
+      font-weight: 700;
+      font-size: 1.01em;
+      letter-spacing: 0.03em;
+      position: sticky;
+      top: 0;
+      z-index: 2;
+    }
+    .repair-table td {
+      background: #fff;
+      color: #223;
+      font-weight: 500;
+    }
+    .repair-table tr:nth-child(even) td {
+      background: #f5fafe;
+    }
+    .repair-table td:nth-child(5) { color: #c0392b; }
+    .repair-table td:nth-child(6) { color: #2274a5; }
+    @media (max-width:1000px) {
+      .page { flex-direction: column; gap:0; }
+      aside.sidebar{ width:100%; max-width:100%; min-width:0; margin-top:2vw;}
+      .repair-table {font-size:0.99em;}
+    }
+    @media (max-width:700px){
+      .repair-table th, .repair-table td { font-size:0.9em; padding:7px 2px;}
+      .repair-table {font-size:0.95em; min-width:540px;}
+      .service-img { width:27vw; min-width:70px; max-width:120px;}
+      .card {padding:3vw 2vw;}
+      header .header-inner{flex-direction:column;}
+      header img {max-width:150px;}
+      header h1 {font-size:1.3em;}
+    }
+    @media (max-width:500px){
+      .repair-table th, .repair-table td { font-size:0.89em; padding:5px 1px;}
+      .repair-table {min-width:420px;}
+    }
+  </style>
+</head>
+<body>
+  <a id="top"></a>
+  <header>
+    <div class="header-inner">
+      <img src="./images/logo.png" alt="ラスターマシナリー ロゴ" />
+      <div>
+        <h1>ラスターマシナリー (Luster Machinery)</h1>
+        <p style="margin:4px 0 0 0; color:#dfe9ef;">中古工作機械の販売・修理で製造業をサポート</p>
+      </div>
+    </div>
+  </header>
+
+  <div class="page">
+    <main>
+      <section class="hero card">
+        <h2>最新CM（リール）</h2>
+        <div class="reel-wrapper insta-embed">
+          <blockquote class="instagram-media"
+            data-instgrm-permalink="https://www.instagram.com/reel/DLVA_KhAlHj/"
+            data-instgrm-version="14"
+            style="background:#fff; border:0; margin:0 auto; width:100%;">
+            <div style="padding:8px 0;">
+              <a href="https://www.instagram.com/reel/DLVA_KhAlHj/" target="_blank" rel="noopener noreferrer">Instagramでリールを表示</a>
+            </div>
+          </blockquote>
+        </div>
+      </section>
+
+      <section class="card" id="company-overview">
+        <h2>会社概要</h2>
+        <p><strong>会社名：</strong>ラスターマシナリー（Luster Machinery）</p>
+        <p><strong>代表：</strong>田中 健太郎</p>
+        <p><strong>所在地：</strong>広島県福山市沼隈町常石 2743</p>
+        <p><strong>設立：</strong>2019年10月</p>
+        <p><strong>事業内容：</strong>工作機械修理、出張修理・メンテナンス、新品中古機械販売、マッスルスーツ販売および保守</p>
+        <p><strong>連絡先：</strong><a href="tel:080-3880-4695">080-3880-4695</a> / <a href="mailto:info@kikai.work">info@kikai.work</a></p>
+      </section>
+
+      <section class="card">
+        <h2>主なサービス</h2>
+        <ul class="service-list">
+          <li>
+            <!-- 修理・メンテナンス画像をImage 1に差し替え -->
+            <img src="https://files.oaiusercontent.com/file-68b922b1-15ef-4e8e-bf6a-ddd3a6b076a9/8e5f7e7a-0197-41a2-91b6-2e0a0e715d8b.png" alt="修理・メンテナンス" class="service-img">
+            <div class="service-text">
+              <strong>修理・メンテナンス</strong>
+              <p style="margin:6px 0 0 0;">
+                古い機械、汎用工作機械の修理実績があります。なるべく早く—基本的に1週間以内での訪問解決を目指します。
+              </p>
+            </div>
+          </li>
+          <li>
+            <img src="./images/service1.jpg" alt="工作機械・機械販売" class="service-img">
+            <div class="service-text">
+              <strong>工作機械・機械販売</strong>
+              <p style="margin:6px 0 0 0;">
+                メーカー問わず、お客様に最適な機械を検討・ご提案します。新品でも中古でも対応します。
+              </p>
+            </div>
+          </li>
+          <li>
+            <img src="./images/service3.jpg" alt="マッスルスーツ" class="service-img">
+            <div class="service-text">
+              <strong>マッスルスーツ</strong>
+              <p style="margin:6px 0 0 0;">作業の効率化をサポートします。導入相談・販売・保守まで対応。</p>
+            </div>
+          </li>
+        </ul>
+      </section>
+
+      <!-- 修理実績（表） -->
+      <section class="card" id="repair-records" aria-labelledby="repair-records-title">
+        <h2 id="repair-records-title">修理実績</h2>
+        <div style="overflow-x:auto;">
+          <table class="repair-table">
+            <thead>
+              <tr>
+                <th>年月</th>
+                <th>会社名</th>
+                <th>機械の種類</th>
+                <th>型式</th>
+                <th>不具合の内容</th>
+                <th>対応策</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>2019-10</td>
+                <td>T社製</td>
+                <td>汎用旋盤</td>
+                <td>TAL-510</td>
+                <td>刃物台不良</td>
+                <td>カミソリ調整・歯車交換</td>
+              </tr>
+              <tr>
+                <td>2021-7</td>
+                <td>M社製</td>
+                <td>NC旋盤</td>
+                <td>SL-35</td>
+                <td>油漏れ</td>
+                <td>高圧ホース製作交換</td>
+              </tr>
+              <tr>
+                <td>2021-12</td>
+                <td>M社製</td>
+                <td>ラジアルボール盤</td>
+                <td>YR5-150</td>
+                <td>主軸動作不能</td>
+                <td>マグネットスイッチ・シーケンサ交換</td>
+              </tr>
+              <tr>
+                <td>2022-1</td>
+                <td>O社製</td>
+                <td>ラジアルボール盤</td>
+                <td>DRA-J</td>
+                <td>クランプ不良</td>
+                <td>給油・点検</td>
+              </tr>
+              <tr>
+                <td>2022-9</td>
+                <td>Ｋ社製</td>
+                <td>直立ボール盤</td>
+                <td>KUD-530</td>
+                <td>送り不良</td>
+                <td>スプリングピン交換</td>
+              </tr>
+              <tr>
+                <td>2022-10</td>
+                <td>O社製</td>
+                <td>ラジアルボール盤</td>
+                <td>RE1400</td>
+                <td>主軸回転不良</td>
+                <td>クラッチ調整</td>
+              </tr>
+              <tr>
+                <td>2022-11</td>
+                <td>A社製</td>
+                <td>帯鋸盤</td>
+                <td>HA250</td>
+                <td>メインシリンダー油漏れ</td>
+                <td>シリンダー交換</td>
+              </tr>
+              <tr>
+                <td>2024-3</td>
+                <td>D社製</td>
+                <td>帯鋸盤</td>
+                <td>FTR-230</td>
+                <td>昇降不良</td>
+                <td>スイッチ交換</td>
+              </tr>
+              <tr>
+                <td>2024-3</td>
+                <td>S社製</td>
+                <td>チップコンベアー</td>
+                <td>-</td>
+                <td>動作不良</td>
+                <td>部品交換</td>
+              </tr>
+              <tr>
+                <td>2024-4</td>
+                <td>W社製</td>
+                <td>汎用旋盤</td>
+                <td>LEO型</td>
+                <td>送りキー破損</td>
+                <td>Ｔ字キー交換</td>
+              </tr>
+              <tr>
+                <td>2024-4</td>
+                <td>N社製</td>
+                <td>転造盤</td>
+                <td>ＦＡ16</td>
+                <td>圧力ゲージ不良</td>
+                <td>ゲージ交換</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div style="margin-top:18px; color:#333; font-weight:500; font-size:1.06rem; text-align:center;">
+          他多数の修理実績あります。<br>
+          一度お問い合わせください。<br>
+          <a href="tel:08038804695" style="color:#2c3e50; font-size:1.18em; text-decoration:underline;">080-3880-4695</a>
+        </div>
+      </section>
+
+      <section class="contact card">
+        <h2>お問い合わせ</h2>
+        <p>お気軽にご相談ください！</p>
+        <a class="btn" href="mailto:info@kikai.work?subject=お問い合わせ">メールで問い合わせる</a>
+      </section>
+    </main>
+
+    <aside class="sidebar">
+      <div class="card">
+        <h2>Instagram</h2>
+        <div class="insta-profile">
+          <img class="avatar" src="./images/insta-avatar.jpg" alt="luster_machinery">
+          <div>
+            <div style="font-weight:700;">@luster_machinery</div>
+            <div style="color:#666; font-size:0.9rem;">中古機械・修理 / 動画で修理事例を公開</div>
+            <a class="follow-btn" href="https://www.instagram.com/luster_machinery/" target="_blank" rel="noopener noreferrer">Instagramを開く</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h2>最新投稿</h2>
+        <blockquote class="instagram-media"
+          data-instgrm-permalink="https://www.instagram.com/reel/DLVA_KhAlHj/"
+          data-instgrm-version="14"
+          style="background:#fff; border:0; margin:0 auto; width:100%;">
+          <div style="padding:8px 0;">
+            <a href="https://www.instagram.com/reel/DLVA_KhAlHj/" target="_blank" rel="noopener noreferrer">Instagramでリールを表示</a>
+          </div>
+        </blockquote>
+        <p style="font-size:0.9rem; color:#666; margin-top:8px;">アカウントの他の投稿をここに追加できます。</p>
+      </div>
+
+      <div class="card">
+        <h2>その他リンク</h2>
+        <ul style="padding-left:16px; margin:0;">
+          <li><a href="#top">トップに戻る</a></li>
+          <li><a href="#repair-records">修理実績</a></li>
+          <li><a href="https://www.facebook.com/luster50m/" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+          <li><a href="https://luster55.hateblo.jp/" target="_blank" rel="noopener noreferrer">ブログ（キカイブログ）</a></li>
+        </ul>
+      </div>
+    </aside>
+  </div>
+  <footer>
+    <p>&copy; 2025 ラスターマシナリー. All rights reserved.</p>
+  </footer>
+  <script async defer src="https://www.instagram.com/embed.js"></script>
+</body>
+</html>
