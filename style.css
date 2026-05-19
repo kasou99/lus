@@ -154,7 +154,8 @@ button:hover {
   margin-bottom: 12px;
 }
 
-.select-label {
+.select-label,
+.sync-label {
   display: grid;
   gap: 6px;
   min-width: 170px;
@@ -495,6 +496,33 @@ textarea {
 
 .event-form button {
   width: 100%;
+}
+
+.sync-label {
+  min-width: 0;
+  margin-bottom: 8px;
+}
+
+.sync-actions {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.sync-actions button {
+  min-height: 38px;
+  padding: 0 8px;
+  background: #26343c;
+  font-size: 13px;
+}
+
+.sync-status {
+  min-height: 20px;
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 1.45;
 }
 
 .prompt-buttons {
