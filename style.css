@@ -117,6 +117,7 @@ button:hover {
 }
 
 .weather-panel,
+.news-panel,
 .calendar-panel,
 .side-panel section {
   border: 1px solid var(--line);
@@ -125,7 +126,8 @@ button:hover {
   box-shadow: 0 18px 45px rgba(15, 28, 36, 0.08);
 }
 
-.weather-panel {
+.weather-panel,
+.news-panel {
   grid-column: 1 / -1;
   padding: 22px;
 }
@@ -306,6 +308,89 @@ textarea {
   margin: 8px 0 6px;
   font-size: 22px;
   color: var(--strong);
+}
+
+.news-panel {
+  padding-top: 18px;
+}
+
+.news-head {
+  align-items: center;
+  margin-bottom: 14px;
+}
+
+.news-grid {
+  display: grid;
+  grid-template-columns: 1.35fr 1fr 1fr;
+  gap: 10px;
+}
+
+.news-card {
+  display: grid;
+  align-content: start;
+  gap: 8px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel-2);
+  padding: 14px;
+  min-height: 190px;
+}
+
+.news-card.main-news {
+  background: #f3fbfb;
+  border-color: #b9dfe0;
+}
+
+.news-card.wide-news {
+  grid-column: span 2;
+}
+
+.news-card span {
+  width: fit-content;
+  border-radius: 999px;
+  background: #e7ecef;
+  color: #33414a;
+  padding: 4px 8px;
+  font-size: 11px;
+  font-weight: 900;
+}
+
+.news-card h3 {
+  margin: 0;
+  color: var(--strong);
+  font-size: 18px;
+  line-height: 1.25;
+}
+
+.news-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.news-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 2px;
+}
+
+.news-links a {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--accent);
+  padding: 7px 10px;
+  font-size: 12px;
+  font-weight: 900;
+  line-height: 1.2;
+  text-decoration: none;
+}
+
+.news-links a:hover {
+  border-color: var(--accent);
+  background: #eaf7f7;
 }
 
 .ghost-button {
@@ -553,6 +638,15 @@ textarea {
   .metric-row div {
     min-height: 120px;
   }
+
+  .news-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .news-card.main-news,
+  .news-card.wide-news {
+    grid-column: span 2;
+  }
 }
 
 @media (max-width: 760px) {
@@ -580,8 +674,14 @@ textarea {
   }
 
   .weather-grid,
-  .metric-row {
+  .metric-row,
+  .news-grid {
     grid-template-columns: 1fr;
+  }
+
+  .news-card.main-news,
+  .news-card.wide-news {
+    grid-column: auto;
   }
 
   .temperature-block strong {
