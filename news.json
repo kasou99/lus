@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-05-19T19:39:18.048Z",
+  "updatedAt": "2026-05-19T20:42:21.640Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:05",
+        "title": "エヌ・エス・エス、軸受用潤滑油100分の1 スピンドル試作",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzN1JZUldvY0FLSTlET25WTzk2NDRwUWxUYk8zd3lJamo2R3lGUTRqUE10RjU1aG9mVDYyc3pMTUZsRHZHSWRRYzA3RGxPTmNoQ0ZiOHM2bmJtY0U?oc=5",
+        "publishedAt": "2026-05-19T20:05:50.000Z"
+      },
       {
         "time": "07:12",
         "title": "芝浦機械、米超精密工作機械メーカーを買収 - logi-today.com",
@@ -17,11 +24,11 @@
         "publishedAt": "2026-05-18T20:58:39.000Z"
       },
       {
-        "time": "13:34",
-        "title": "2026年から2033年までの工作機械プローブ市場規模に関する包括的なレポート: 技術、",
+        "time": "15:11",
+        "title": "産業用ロボットサーボモーター市場の展望2026-2033：包括的な市場規模と予測CAGR",
         "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BMFRQb0ZnTWVYVWtqVmdhVTNMSEFvdG5mbkpXaUg4NjItUVdySGFmandtNVFPbVV5TU50SFlzVHlJcDlrR2QzeFpn?oc=5",
-        "publishedAt": "2026-05-19T04:34:19.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NN0RFaVNyYzVLOWJNT013YXN5VktCUG5qVWNSa2lkVXN6SVZzcDBxY3UzejRsRnRGOXZlNE5DSE94c1M1RHZ5WWZn?oc=5",
+        "publishedAt": "2026-05-19T06:11:32.000Z"
       },
       {
         "time": "10:46",
@@ -31,25 +38,11 @@
         "publishedAt": "2026-05-19T01:46:16.000Z"
       },
       {
-        "time": "13:48",
-        "title": "経営のこころ（55）ユニオンツール会長・片山貴雄氏 自ら切り拓くDNA継承",
+        "time": "05:05",
+        "title": "日産のモノづくり 真価を発揮（上）／日産、九州に次世代工場モデル 多様な人材生かし競争力",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52YUllTlhWUmNJd3l6Zm8xVVRISkROYU42Y09kQ19wUEM4SUNleHlabWllVFh5UzBLS3VMZDdvR1lodENuSXhmMERvY3htRkJTdTk1NElTUHBxNFk?oc=5",
-        "publishedAt": "2026-05-19T04:48:18.000Z"
-      },
-      {
-        "time": "06:02",
-        "title": "[特別企画 ロボット切削の最前線vol.2]想定以上の引き合い／スギノマシン",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZUmVuc1lMelJ5X05OalF3azZsZERrd2FBcGI3NGRyM2lVb1hCeWVNSHhlYzJJcThZRzk4TEV3VVR3WXprMHBkSVJJZ0RtNnpCamFCTl8tTVdBaGZTZm9PaEhQSzFRSlhVcS1R?oc=5",
-        "publishedAt": "2026-05-18T21:02:48.000Z"
-      },
-      {
-        "time": "11:30",
-        "title": "外部循環ボールねじの世界市場：メーカー、地域、タイプ、アプリケーション別、2026-2032年の予測",
-        "source": "dreamnews.jp",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83UXRWQkJHZ2lCeWg5WFpKS1ZmZGZtemZZYjROUnFYTWl4MHQxUDFGcXdtQlRldU1XWjg4eUZPdVN5WDVVWXVldE1YeHE4MmItMURz?oc=5",
-        "publishedAt": "2026-05-19T02:30:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MSTlFN1Z6RXFObDYzc0dpY3JCcVhEcGZCZGhaLUVPUXVfaWdIVEVWakpSTTFVUk5MOGw4M0hWSHVCRWtEMjd2aC05SW4zRUQtelV2bk5yc0tZRTg?oc=5",
+        "publishedAt": "2026-05-19T20:05:10.000Z"
       },
       {
         "time": "18:15",
@@ -57,6 +50,13 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0d04xZlA1RVJVMHBvT2JQWGZIRFIyQXI5UmxkUGJ4R3VhcHBieVpDQVRzMjdrM2t6RmU5MG9vTDdyZEZLakpPejl6UlNWMFM0NTlsUk5Gaw?oc=5",
         "publishedAt": "2026-05-19T09:15:08.000Z"
+      },
+      {
+        "time": "06:02",
+        "title": "[特別企画 ロボット切削の最前線vol.2]想定以上の引き合い／スギノマシン",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZUmVuc1lMelJ5X05OalF3azZsZERrd2FBcGI3NGRyM2lVb1hCeWVNSHhlYzJJcThZRzk4TEV3VVR3WXprMHBkSVJJZ0RtNnpCamFCTl8tTVdBaGZTZm9PaEhQSzFRSlhVcS1R?oc=5",
+        "publishedAt": "2026-05-18T21:02:48.000Z"
       }
     ],
     "worldHeadlines": [
