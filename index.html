@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>LUS Repair Base</title>
-    <link rel="stylesheet" href="style.css?v=20260519-2">
+    <link rel="stylesheet" href="style.css?v=20260519-3">
   </head>
   <body>
     <header class="app-header">
@@ -15,7 +15,7 @@
       </div>
       <div class="header-meta">
         <span id="todayLabel"></span>
-        <span class="status-pill">端末内保存</span>
+        <span class="status-pill">端末内保存 + Sheets同期</span>
       </div>
     </header>
 
@@ -116,6 +116,25 @@
           <div class="selected-events" id="selectedEvents"></div>
         </section>
 
+        <section class="sync-block">
+          <div class="section-head compact">
+            <div>
+              <p class="eyebrow">同期</p>
+              <h2>Google Sheets</h2>
+            </div>
+          </div>
+          <label class="sync-label">
+            Apps Script URL
+            <input id="syncUrl" type="url" placeholder="https://script.google.com/macros/s/.../exec">
+          </label>
+          <div class="sync-actions">
+            <button type="button" id="saveSyncUrl">URL保存</button>
+            <button type="button" id="pullEvents">読み込み</button>
+            <button type="button" id="pushEvents">保存</button>
+          </div>
+          <p class="sync-status" id="syncStatus">未設定</p>
+        </section>
+
         <section class="prompt-block">
           <div class="section-head compact">
             <div>
@@ -133,6 +152,6 @@
       </aside>
     </main>
 
-    <script src="app.js?v=20260519-2"></script>
+    <script src="app.js?v=20260519-3"></script>
   </body>
 </html>
