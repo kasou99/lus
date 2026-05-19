@@ -1,29 +1,32 @@
 const compactNewsStyle = document.createElement("style");
 compactNewsStyle.textContent = `
-  .news-panel { padding: 12px !important; }
-  .news-head { margin-bottom: 8px !important; }
-  .news-head h2 { font-size: 18px !important; }
-  .news-grid.headline-mode { gap: 6px !important; grid-template-columns: 1.45fr 1fr 1fr !important; }
-  .headline-card { gap: 4px !important; padding: 8px !important; min-height: 0 !important; }
-  .headline-card h3 { font-size: 13px !important; line-height: 1.15 !important; }
-  .headline-top { gap: 6px !important; }
-  .headline-top span { padding: 2px 6px !important; font-size: 9px !important; line-height: 1.1 !important; }
-  .headline-top a { font-size: 10px !important; line-height: 1.1 !important; }
-  .headline-updated { font-size: 9px !important; line-height: 1.1 !important; }
-  .headline-item { grid-template-columns: 39px minmax(0, 1fr) !important; gap: 5px !important; padding: 4px 0 !important; }
-  .headline-time { font-size: 9px !important; line-height: 1.15 !important; }
-  .headline-title { font-size: 11px !important; line-height: 1.22 !important; }
-  .main-news .headline-title { font-size: 11.3px !important; }
-  .headline-source { margin-top: 1px !important; font-size: 9px !important; line-height: 1.1 !important; }
-  .headline-loading, .headline-error { font-size: 11px !important; padding-top: 6px !important; }
+  .news-panel { padding: 10px !important; }
+  .news-head { margin-bottom: 6px !important; }
+  .news-head h2 { font-size: 17px !important; }
+  .news-grid.headline-mode { gap: 6px !important; grid-template-columns: 1.35fr 1fr 1fr 1fr !important; }
+  .headline-card { gap: 3px !important; padding: 7px !important; min-height: 0 !important; }
+  .headline-card.subsidy-card { grid-column: span 2 !important; }
+  .headline-card h3 { font-size: 12px !important; line-height: 1.1 !important; }
+  .headline-top { gap: 5px !important; }
+  .headline-top span { padding: 2px 5px !important; font-size: 9px !important; line-height: 1.05 !important; }
+  .headline-top a { font-size: 10px !important; line-height: 1.05 !important; }
+  .headline-updated { font-size: 9px !important; line-height: 1.05 !important; }
+  .headline-item { grid-template-columns: 36px minmax(0, 1fr) !important; gap: 5px !important; padding: 3px 0 !important; }
+  .headline-time { font-size: 9px !important; line-height: 1.1 !important; }
+  .headline-title { font-size: 10.5px !important; line-height: 1.18 !important; }
+  .main-news .headline-title { font-size: 10.8px !important; }
+  .headline-source { margin-top: 0 !important; font-size: 8.5px !important; line-height: 1.05 !important; }
+  .headline-loading, .headline-error { font-size: 10.5px !important; padding-top: 5px !important; }
   @media (max-width: 1120px) {
     .news-grid.headline-mode { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
+    .headline-card.subsidy-card { grid-column: span 2 !important; }
   }
   @media (max-width: 760px) {
-    .news-panel { padding: 10px !important; }
+    .news-panel { padding: 9px !important; }
     .news-grid.headline-mode { grid-template-columns: 1fr !important; }
-    .headline-item { grid-template-columns: 38px minmax(0, 1fr) !important; }
-    .headline-title { font-size: 11px !important; }
+    .headline-card.subsidy-card { grid-column: auto !important; }
+    .headline-item { grid-template-columns: 36px minmax(0, 1fr) !important; }
+    .headline-title { font-size: 10.8px !important; }
   }
 `;
 document.head.appendChild(compactNewsStyle);
@@ -33,18 +36,21 @@ const newsConfig = [
     target: "machineHeadlines",
     updated: "machineUpdated",
     search: "machineNewsSearch",
+    limit: 4,
     query: "工作機械 OR NC旋盤 OR マシニングセンタ OR 設備保全 OR 制御盤 OR サーボモータ when:1d"
   },
   {
     target: "worldHeadlines",
     updated: "worldUpdated",
     search: "worldNewsSearch",
+    limit: 3,
     query: "世界情勢 製造業 サプライチェーン 半導体 物流 エネルギー when:1d"
   },
   {
     target: "economyHeadlines",
     updated: "economyUpdated",
     search: "economyNewsSearch",
+    limit: 3,
     query: "製造業 景況感 設備投資 円相場 金利 中小企業 when:1d"
   },
   {
@@ -52,12 +58,14 @@ const newsConfig = [
     updated: "localUpdated",
     search: "localNewsSearch",
     regional: true,
+    limit: 3,
     query: "製造業 工場 設備 交通 経済 when:1d"
   },
   {
     target: "subsidyHeadlines",
     updated: "subsidyUpdated",
     search: "subsidyNewsSearch",
+    limit: 4,
     query: "福山市 広島県 補助金 助成金 中小企業 設備投資 省力化 ものづくり when:30d"
   }
 ];
@@ -108,7 +116,7 @@ function renderNewsGroup(config, items, updatedAt) {
     return;
   }
 
-  box.innerHTML = items.slice(0, config.target === "machineHeadlines" ? 8 : 6).map((item) => `
+  box.innerHTML = items.slice(0, config.limit || 3).map((item) => `
     <a class="headline-item" href="${escapeNews(item.url || newsSearchUrl(query))}" target="_blank" rel="noopener">
       <span class="headline-time">${escapeNews(item.time || "速報")}</span>
       <span>
