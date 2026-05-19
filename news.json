@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T22:34:39.846Z",
+  "updatedAt": "2026-05-19T23:31:42.060Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-05-19T03:13:00.000Z"
       },
       {
-        "time": "10:46",
-        "title": "設備保全・点検ノウハウをサービス化 プラント向け日常点検支援アプリ「RECOMOTI(TM)」を販売開始",
-        "source": "RBB TODAY",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15Qk5BZFk2anQ2bjdtRnVTYW9TUGxpTzB0YWhadnFUbWZjR3dRMkgzeEI4QzZQTU5fSDJRbVJKcWVNOVNpZy12eVI1YmdZeG00MnA3Q21nMlItakZ5SFh3VzYwaFhoRWZ6ekc4bmJ5ZGkxbG1abkk3Ng?oc=5",
-        "publishedAt": "2026-05-19T01:46:16.000Z"
-      },
-      {
         "time": "05:52",
         "title": "経営ひと言／東京都金属プレス工業会・増田靖治会長「効率化が必須」",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12dG5JQ1ZsdUlyR010MG42U05PY2F4Z0MxcnRyVzhJSUduZktOdVMwb1N4Y05Gdk9jS2pDT2pVUEdXRnBjVFJ6S1B3ZzZtaGhCOFl3bzhFTk1faFZWd2prVHJxOXJsMnRvS0twX1ZmUHplTjdHSFpVTWVZOA?oc=5",
         "publishedAt": "2026-05-19T20:52:31.000Z"
+      },
+      {
+        "time": "10:46",
+        "title": "設備保全・点検ノウハウをサービス化 プラント向け日常点検支援アプリ「RECOMOTI(TM)」を販売開始",
+        "source": "RBB TODAY",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15Qk5BZFk2anQ2bjdtRnVTYW9TUGxpTzB0YWhadnFUbWZjR3dRMkgzeEI4QzZQTU5fSDJRbVJKcWVNOVNpZy12eVI1YmdZeG00MnA3Q21nMlItakZ5SFh3VzYwaFhoRWZ6ekc4bmJ5ZGkxbG1abkk3Ng?oc=5",
+        "publishedAt": "2026-05-19T01:46:16.000Z"
       },
       {
         "time": "18:15",
@@ -61,11 +61,18 @@
     ],
     "worldHeadlines": [
       {
-        "time": "07:35",
-        "title": "トランプ氏 イラン再攻撃「延期」",
+        "time": "08:20",
+        "title": "エボラ死者131人 WHOが拡大懸念",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580741?source=rss",
-        "publishedAt": "2026-05-18T22:35:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580897?source=rss",
+        "publishedAt": "2026-05-19T23:20:43.000Z"
+      },
+      {
+        "time": "07:34",
+        "title": "プーチン氏が北京到着 首脳会談へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580891?source=rss",
+        "publishedAt": "2026-05-19T22:34:28.000Z"
       },
       {
         "time": "20:51",
@@ -94,16 +101,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6580757?source=rss",
         "publishedAt": "2026-05-19T00:23:22.000Z"
-      },
-      {
-        "time": "08:15",
-        "title": "米でハンタ感染者死亡 船と無関係",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580749?source=rss",
-        "publishedAt": "2026-05-18T23:15:36.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "08:07",
+        "title": "預金5割超が首都圏集中 相続要因",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580893?source=rss",
+        "publishedAt": "2026-05-19T23:07:24.000Z"
+      },
       {
         "time": "06:44",
         "title": "米長官 日銀利上げ望む可能性示唆",
@@ -133,21 +140,21 @@
         "publishedAt": "2026-05-19T10:49:54.000Z"
       },
       {
-        "time": "19:22",
-        "title": "鶏もも肉の価格 最高値を更新",
+        "time": "08:09",
+        "title": "北京に「一蘭」酷似の店 波紋",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580844?source=rss",
-        "publishedAt": "2026-05-19T10:22:37.000Z"
-      },
-      {
-        "time": "19:34",
-        "title": "完全養殖ウナギ試験販売へ 世界初",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580846?source=rss",
-        "publishedAt": "2026-05-19T10:34:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580896?source=rss",
+        "publishedAt": "2026-05-19T23:09:49.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "07:21",
+        "title": "栃木強殺 複数Gが関与の可能性",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580889?source=rss",
+        "publishedAt": "2026-05-19T22:21:55.000Z"
+      },
       {
         "time": "19:16",
         "title": "栃木強殺 夫婦が事前に凶器準備か",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6580876?source=rss",
         "publishedAt": "2026-05-19T14:13:52.000Z"
-      },
-      {
-        "time": "21:49",
-        "title": "車で警官20m引きずった疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580862?source=rss",
-        "publishedAt": "2026-05-19T12:49:09.000Z"
       }
     ],
     "subsidyHeadlines": [
