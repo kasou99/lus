@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T15:04:09.353Z",
+  "updatedAt": "2026-05-19T16:37:16.610Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-05-19T01:46:16.000Z"
       },
       {
-        "time": "06:02",
-        "title": "[特別企画 ロボット切削の最前線vol.2]想定以上の引き合い／スギノマシン",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZUmVuc1lMelJ5X05OalF3azZsZERrd2FBcGI3NGRyM2lVb1hCeWVNSHhlYzJJcThZRzk4TEV3VVR3WXprMHBkSVJJZ0RtNnpCamFCTl8tTVdBaGZTZm9PaEhQSzFRSlhVcS1R?oc=5",
-        "publishedAt": "2026-05-18T21:02:48.000Z"
-      },
-      {
         "time": "13:48",
         "title": "経営のこころ（55）ユニオンツール会長・片山貴雄氏 自ら切り拓くDNA継承",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52YUllTlhWUmNJd3l6Zm8xVVRISkROYU42Y09kQ19wUEM4SUNleHlabWllVFh5UzBLS3VMZDdvR1lodENuSXhmMERvY3htRkJTdTk1NElTUHBxNFk?oc=5",
         "publishedAt": "2026-05-19T04:48:18.000Z"
+      },
+      {
+        "time": "06:02",
+        "title": "[特別企画 ロボット切削の最前線vol.2]想定以上の引き合い／スギノマシン",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZUmVuc1lMelJ5X05OalF3azZsZERrd2FBcGI3NGRyM2lVb1hCeWVNSHhlYzJJcThZRzk4TEV3VVR3WXprMHBkSVJJZ0RtNnpCamFCTl8tTVdBaGZTZm9PaEhQSzFRSlhVcS1R?oc=5",
+        "publishedAt": "2026-05-18T21:02:48.000Z"
       },
       {
         "time": "18:15",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-05-19T09:15:08.000Z"
       },
       {
-        "time": "00:05",
-        "title": "工作機械業界、中国での需要に期待",
-        "source": "nna.jp",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHOVZ2NEtrY2pKUWVWR1dHUGxSdmZzRTdvTXRpNE1VMWhvWFlYZ05CNWZ4bWdvTUlNV1hGSDhVYVJLWF9nQkE?oc=5",
-        "publishedAt": "2026-05-18T15:05:57.000Z"
+        "time": "11:30",
+        "title": "外部循環ボールねじの世界市場：メーカー、地域、タイプ、アプリケーション別、2026-2032年の予測",
+        "source": "dreamnews.jp",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83UXRWQkJHZ2lCeWg5WFpKS1ZmZGZtemZZYjROUnFYTWl4MHQxUDFGcXdtQlRldU1XWjg4eUZPdVN5WDVVWXVldE1YeHE4MmItMURz?oc=5",
+        "publishedAt": "2026-05-19T02:30:00.000Z"
       }
     ],
     "worldHeadlines": [
