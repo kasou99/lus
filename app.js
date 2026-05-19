@@ -50,6 +50,7 @@ const state = {
   events: loadEvents(),
   selectedDate: formatDate(new Date()),
   locationIndex: Number(localStorage.getItem("lus-location-index") || 0),
+  syncUrl: localStorage.getItem("lus-sync-url") || "",
   weather: null
 };
 
@@ -76,6 +77,11 @@ const el = {
   eventTitle: document.querySelector("#eventTitle"),
   eventMemo: document.querySelector("#eventMemo"),
   goTodayButton: document.querySelector("#goTodayButton"),
+  syncUrl: document.querySelector("#syncUrl"),
+  saveSyncUrl: document.querySelector("#saveSyncUrl"),
+  pullEvents: document.querySelector("#pullEvents"),
+  pushEvents: document.querySelector("#pushEvents"),
+  syncStatus: document.querySelector("#syncStatus"),
   promptOutput: document.querySelector("#promptOutput")
 };
 
@@ -93,6 +99,7 @@ function init() {
   renderCalendar();
   renderSelectedDate();
   renderAgenda();
+  renderSyncStatus();
   bindEvents();
   fetchWeather();
 }
@@ -112,23 +119,36 @@ function bindEvents() {
 
   el.eventForm.addEventListener("submit", (event) => {
     event.preventDefault();
+    const now = new Date().toISOString();
     const item = {
       id: String(Date.now()),
       date: state.selectedDate,
       time: el.eventTime.value,
       type: el.eventType.value,
       title: el.eventTitle.value.trim(),
-      memo: el.eventMemo.value.trim()
+      memo: el.eventMemo.value.trim(),
+      createdAt: now,
+      updatedAt: now
     };
     if (!item.title) return;
     state.events.push(item);
     saveEvents();
+    renderSyncStatus("この端末に保存しました。同期するにはGoogle Sheetsの保存も押してください。");
     el.eventForm.reset();
     el.eventType.value = "repair";
     renderCalendar();
     renderAgenda();
     renderSelectedDate();
   });
+
+  el.saveSyncUrl.addEventListener("click", () => {
+    state.syncUrl = el.syncUrl.value.trim();
+    localStorage.setItem("lus-sync-url", state.syncUrl);
+    renderSyncStatus(state.syncUrl ? "同期URLをこの端末に保存しました。" : "同期URLを削除しました。");
+  });
+
+  el.pullEvents.addEventListener("click", pullEventsFromSheet);
+  el.pushEvents.addEventListener("click", pushEventsToSheet);
 
   document.querySelectorAll("[data-prompt]").forEach((button) => {
     button.addEventListener("click", () => {
@@ -341,6 +361,7 @@ function renderSelectedDate() {
     button.addEventListener("click", () => {
       state.events = state.events.filter((event) => event.id !== button.dataset.delete);
       saveEvents();
+      renderSyncStatus("この端末から削除しました。同期先にも反映するにはGoogle Sheetsの保存を押してください。");
       renderCalendar();
       renderAgenda();
       renderSelectedDate();
@@ -351,14 +372,93 @@ function renderSelectedDate() {
 function renderEventItem(event, withDelete = false) {
   const time = event.time ? `${event.time} ` : "";
   const date = formatDisplayDate(event.date, true);
+  const label = eventTypeLabels[event.type] || "予定";
   return `
     <article class="event-item ${event.type}">
-      <span>${date} ${time}${eventTypeLabels[event.type]}</span>
+      <span>${date} ${time}${label}</span>
       <strong>${escapeHtml(event.title)}</strong>
       ${event.memo ? `<p>${escapeHtml(event.memo)}</p>` : ""}
       ${withDelete ? `<button class="delete-event" type="button" data-delete="${event.id}">削除</button>` : ""}
     </article>
   `;
+}
+
+function renderSyncStatus(message) {
+  if (el.syncUrl) {
+    el.syncUrl.value = state.syncUrl;
+  }
+  if (!el.syncStatus) return;
+  if (message) {
+    el.syncStatus.textContent = message;
+    return;
+  }
+  el.syncStatus.textContent = state.syncUrl
+    ? "同期URLあり。保存でSheetsへ送信、読み込みでSheetsから取得します。"
+    : "Apps Script URLを入れると、iPhone・PC間で予定を同期できます。";
+}
+
+async function pullEventsFromSheet() {
+  state.syncUrl = el.syncUrl.value.trim() || state.syncUrl;
+  if (!state.syncUrl) {
+    renderSyncStatus("先にApps Script URLを入れてください。");
+    return;
+  }
+
+  renderSyncStatus("Google Sheetsから読み込み中です...");
+  try {
+    const response = await fetch(`${state.syncUrl}?action=getEvents&ts=${Date.now()}`);
+    if (!response.ok) throw new Error("sync response error");
+    const data = await response.json();
+    if (!data.ok) throw new Error(data.error || "sync data error");
+    state.events = normalizeEvents(data.events || []);
+    saveEvents();
+    localStorage.setItem("lus-sync-url", state.syncUrl);
+    renderCalendar();
+    renderAgenda();
+    renderSelectedDate();
+    renderSyncStatus(`${state.events.length}件の予定を読み込みました。`);
+  } catch (error) {
+    renderSyncStatus("読み込みできませんでした。Apps Scriptの公開設定とURLを確認してください。");
+  }
+}
+
+async function pushEventsToSheet() {
+  state.syncUrl = el.syncUrl.value.trim() || state.syncUrl;
+  if (!state.syncUrl) {
+    renderSyncStatus("先にApps Script URLを入れてください。");
+    return;
+  }
+
+  renderSyncStatus("Google Sheetsへ保存中です...");
+  try {
+    const response = await fetch(state.syncUrl, {
+      method: "POST",
+      body: JSON.stringify({ action: "syncEvents", events: normalizeEvents(state.events) })
+    });
+    if (!response.ok) throw new Error("sync response error");
+    const data = await response.json();
+    if (!data.ok) throw new Error(data.error || "sync data error");
+    localStorage.setItem("lus-sync-url", state.syncUrl);
+    renderSyncStatus(`${state.events.length}件の予定をGoogle Sheetsに保存しました。`);
+  } catch (error) {
+    renderSyncStatus("保存できませんでした。Apps Scriptの公開設定とURLを確認してください。");
+  }
+}
+
+function normalizeEvents(events) {
+  return events
+    .filter((event) => event && event.date && event.title)
+    .map((event) => ({
+      id: String(event.id || Date.now()),
+      date: String(event.date || ""),
+      time: String(event.time || ""),
+      type: eventTypeLabels[event.type] ? event.type : "repair",
+      title: String(event.title || ""),
+      memo: String(event.memo || ""),
+      createdAt: String(event.createdAt || ""),
+      updatedAt: String(event.updatedAt || new Date().toISOString())
+    }))
+    .sort(sortEvents);
 }
 
 function getEventsForDate(dateKey) {
