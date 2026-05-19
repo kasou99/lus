@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-05-19T20:42:21.640Z",
+  "updatedAt": "2026-05-19T21:38:07.750Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:03",
+        "title": "[特別企画 ロボット切削の最前線vol.3]大型ワークを省スペースで／桜井製作所",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVY0o3Qnc3VkNiWjdwcGtFMkM5LXdYYjVRLVB3TlJueUt6R0doZi12NEwtNFVpSTQzTFlSVEFOb3RFNUJwY1A3dWJrYWVhaE81aGRrVXBCZ2pnRFNrdTRJaUZkRFRnNmxoNVYw?oc=5",
+        "publishedAt": "2026-05-19T21:03:55.000Z"
+      },
       {
         "time": "05:05",
         "title": "エヌ・エス・エス、軸受用潤滑油100分の1 スピンドル試作",
@@ -17,18 +24,18 @@
         "publishedAt": "2026-05-18T22:12:32.000Z"
       },
       {
-        "time": "05:58",
-        "title": "芝浦機械が米工作機械を買収 238億円投資で北米開拓",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQldnampoYVFHOHdOSDJHMVcyVmhZWC1jLU84MXdxMHBBX1NsYmNVbVpKUmxwWjRha0hpeGs2VjkwNmc5aFpueDQ2MFhSN3BqeHFubzJXbllZOXdURF9CX2lzZ3ZCQzZsZklOYTI1MllZdDM4MTluYnlIanMtQ0VZcHhqUFF6MmlzLTZaLU45V05RcTNBUGtqNWFMWWxMMTN1dE9aVnJGTFA?oc=5",
-        "publishedAt": "2026-05-18T20:58:39.000Z"
+        "time": "04:47",
+        "title": "2033年までの機械工具オイル市場の予測CAGR13％の主要要因",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wSDZDb0I5N1lSeFBneXp2MXF6WG5GSFhRYXQ0QXVvVVV4enQzbFFEaW5kUnZOeDlULUY2ZEtWNGh6dENtMkhXeU13?oc=5",
+        "publishedAt": "2026-05-19T19:47:31.000Z"
       },
       {
-        "time": "15:11",
-        "title": "産業用ロボットサーボモーター市場の展望2026-2033：包括的な市場規模と予測CAGR",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NN0RFaVNyYzVLOWJNT013YXN5VktCUG5qVWNSa2lkVXN6SVZzcDBxY3UzejRsRnRGOXZlNE5DSE94c1M1RHZ5WWZn?oc=5",
-        "publishedAt": "2026-05-19T06:11:32.000Z"
+        "time": "12:13",
+        "title": "日本経済新聞 印刷画面",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZThDUnF3V2pFaG9FUG94N3NiQURsSGJnRzVIT3RZSWxkNTQxVk1VUElOMnBJS3p5S2FEaVg1bjJrbjRWNEV2b284VmFXN1RfQ0lTekxranJQam5XalFUYXViMERVV3FkejFwRm1qWGRhRFFaQ2dUZXROR2VMb2hOUThTc3IwM094X0s1NmhNRnE?oc=5",
+        "publishedAt": "2026-05-19T03:13:00.000Z"
       },
       {
         "time": "10:46",
@@ -50,13 +57,6 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0d04xZlA1RVJVMHBvT2JQWGZIRFIyQXI5UmxkUGJ4R3VhcHBieVpDQVRzMjdrM2t6RmU5MG9vTDdyZEZLakpPejl6UlNWMFM0NTlsUk5Gaw?oc=5",
         "publishedAt": "2026-05-19T09:15:08.000Z"
-      },
-      {
-        "time": "06:02",
-        "title": "[特別企画 ロボット切削の最前線vol.2]想定以上の引き合い／スギノマシン",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZUmVuc1lMelJ5X05OalF3azZsZERrd2FBcGI3NGRyM2lVb1hCeWVNSHhlYzJJcThZRzk4TEV3VVR3WXprMHBkSVJJZ0RtNnpCamFCTl8tTVdBaGZTZm9PaEhQSzFRSlhVcS1R?oc=5",
-        "publishedAt": "2026-05-18T21:02:48.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "06:23",
+        "title": "行方不明の小4女児 23年続く捜査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580884?source=rss",
+        "publishedAt": "2026-05-19T21:23:27.000Z"
+      },
+      {
         "time": "23:26",
         "title": "住宅に女性2人の遺体 複数刺し傷",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6580843?source=rss",
         "publishedAt": "2026-05-19T10:16:02.000Z"
-      },
-      {
-        "time": "17:17",
-        "title": "内田梨瑚被告 殺人実行は否定方針",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580825?source=rss",
-        "publishedAt": "2026-05-19T08:17:40.000Z"
       },
       {
         "time": "21:08",
