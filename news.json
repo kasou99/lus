@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-05-19T21:38:07.750Z",
+  "updatedAt": "2026-05-19T22:34:39.846Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "芝浦機械、米国の超精密工作機械メーカーを子会社化",
+        "source": "化学工業日報 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCelU2ZkZEcEh6dXoySGNzYjBKRXlIZjZPcGxUbXoyU1p3TkdWNFRNbG5vYkIwRGFKRl9aejREdGtsaUVjMTFmVWVadmJ1Nzl2Nmhv?oc=5",
+        "publishedAt": "2026-05-19T20:00:39.000Z"
+      },
       {
         "time": "06:03",
         "title": "[特別企画 ロボット切削の最前線vol.3]大型ワークを省スペースで／桜井製作所",
@@ -15,13 +22,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzN1JZUldvY0FLSTlET25WTzk2NDRwUWxUYk8zd3lJamo2R3lGUTRqUE10RjU1aG9mVDYyc3pMTUZsRHZHSWRRYzA3RGxPTmNoQ0ZiOHM2bmJtY0U?oc=5",
         "publishedAt": "2026-05-19T20:05:50.000Z"
-      },
-      {
-        "time": "07:12",
-        "title": "芝浦機械、米超精密工作機械メーカーを買収 - logi-today.com",
-        "source": "logi-today.com",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAyX3FveHhuWlRDY2FjQ0FTRzQwTWM2TVNibGdjYXZMX20zRGRLX0Focml6YzJOSGh5blJ4X0lrd2w1SmZDZ2FBcQ?oc=5",
-        "publishedAt": "2026-05-18T22:12:32.000Z"
       },
       {
         "time": "04:47",
@@ -45,11 +45,11 @@
         "publishedAt": "2026-05-19T01:46:16.000Z"
       },
       {
-        "time": "05:05",
-        "title": "日産のモノづくり 真価を発揮（上）／日産、九州に次世代工場モデル 多様な人材生かし競争力",
+        "time": "05:52",
+        "title": "経営ひと言／東京都金属プレス工業会・増田靖治会長「効率化が必須」",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MSTlFN1Z6RXFObDYzc0dpY3JCcVhEcGZCZGhaLUVPUXVfaWdIVEVWakpSTTFVUk5MOGw4M0hWSHVCRWtEMjd2aC05SW4zRUQtelV2bk5yc0tZRTg?oc=5",
-        "publishedAt": "2026-05-19T20:05:10.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12dG5JQ1ZsdUlyR010MG42U05PY2F4Z0MxcnRyVzhJSUduZktOdVMwb1N4Y05Gdk9jS2pDT2pVUEdXRnBjVFJ6S1B3ZzZtaGhCOFl3bzhFTk1faFZWd2prVHJxOXJsMnRvS0twX1ZmUHplTjdHSFpVTWVZOA?oc=5",
+        "publishedAt": "2026-05-19T20:52:31.000Z"
       },
       {
         "time": "18:15",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "06:44",
+        "title": "米長官 日銀利上げ望む可能性示唆",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580886?source=rss",
+        "publishedAt": "2026-05-19T21:44:37.000Z"
+      },
+      {
         "time": "19:03",
         "title": "政府 夏の節電要請見送りへ",
         "source": "Yahoo!ニュース",
@@ -138,16 +145,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6580846?source=rss",
         "publishedAt": "2026-05-19T10:34:36.000Z"
-      },
-      {
-        "time": "21:17",
-        "title": "「峠の親子めし」食中毒 販売停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580860?source=rss",
-        "publishedAt": "2026-05-19T12:17:43.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "19:16",
+        "title": "栃木強殺 夫婦が事前に凶器準備か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580843?source=rss",
+        "publishedAt": "2026-05-19T10:16:02.000Z"
+      },
       {
         "time": "06:23",
         "title": "行方不明の小4女児 23年続く捜査",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6580878?source=rss",
         "publishedAt": "2026-05-19T14:26:54.000Z"
-      },
-      {
-        "time": "19:16",
-        "title": "栃木強殺 夫婦が事前に凶器準備か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580843?source=rss",
-        "publishedAt": "2026-05-19T10:16:02.000Z"
       },
       {
         "time": "21:08",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-05-19T14:13:52.000Z"
       },
       {
-        "time": "17:40",
-        "title": "奥多摩の山中に遺体 クマ襲ったか",
+        "time": "21:49",
+        "title": "車で警官20m引きずった疑い 逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580830?source=rss",
-        "publishedAt": "2026-05-19T08:40:08.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580862?source=rss",
+        "publishedAt": "2026-05-19T12:49:09.000Z"
       }
     ],
     "subsidyHeadlines": [
