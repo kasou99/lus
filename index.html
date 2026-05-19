@@ -9,13 +9,13 @@
   <body>
     <header class="app-header">
       <div>
-        <p class="eyebrow">Field Dashboard</p>
+        <p class="eyebrow">現場ダッシュボード</p>
         <h1>LUS Repair Base</h1>
-        <p class="header-copy">Weather, schedule, and sales prompts for machine-tool repair work.</p>
+        <p class="header-copy">工作機械修理のための天気、予定、営業メモをまとめる現場基地。</p>
       </div>
       <div class="header-meta">
         <span id="todayLabel"></span>
-        <span class="status-pill">local save</span>
+        <span class="status-pill">端末内保存</span>
       </div>
     </header>
 
@@ -23,71 +23,71 @@
       <section class="weather-panel" aria-labelledby="weatherTitle">
         <div class="section-head">
           <div>
-            <p class="eyebrow">Weather</p>
-            <h2 id="weatherTitle">Jobsite condition</h2>
+            <p class="eyebrow">天気</p>
+            <h2 id="weatherTitle">今日の現場コンディション</h2>
           </div>
           <label class="select-label">
-            Area
+            地域
             <select id="locationSelect"></select>
           </label>
         </div>
 
         <div class="weather-grid">
           <div class="temperature-block">
-            <span class="location-name" id="locationName">Loading</span>
-            <strong id="currentTemp">-- C</strong>
-            <span id="weatherSummary">Fetching weather</span>
+            <span class="location-name" id="locationName">読み込み中</span>
+            <strong id="currentTemp">--℃</strong>
+            <span id="weatherSummary">天気を取得しています</span>
           </div>
-          <div class="metric-row" aria-label="weather metrics">
+          <div class="metric-row" aria-label="気象データ">
             <div>
-              <span>High</span>
-              <strong id="maxTemp">-- C</strong>
+              <span>最高</span>
+              <strong id="maxTemp">--℃</strong>
             </div>
             <div>
-              <span>Low</span>
-              <strong id="minTemp">-- C</strong>
+              <span>最低</span>
+              <strong id="minTemp">--℃</strong>
             </div>
             <div>
-              <span>Humidity</span>
+              <span>湿度</span>
               <strong id="humidity">--%</strong>
             </div>
             <div>
-              <span>Rain</span>
+              <span>降水</span>
               <strong id="rainChance">--%</strong>
             </div>
             <div>
-              <span>Wind</span>
+              <span>風速</span>
               <strong id="windSpeed">--m/s</strong>
             </div>
           </div>
         </div>
 
         <div class="alert-band" id="heatAlert">
-          <span>Heat risk</span>
-          <strong>Checking</strong>
-          <p>Temperature and humidity drive the jobsite comment.</p>
+          <span>暑さ注意</span>
+          <strong>判定中</strong>
+          <p>気温と湿度から現場向けの注意コメントを出します。</p>
         </div>
 
-        <div class="forecast-strip" id="forecastStrip" aria-label="forecast"></div>
+        <div class="forecast-strip" id="forecastStrip" aria-label="数日予報"></div>
       </section>
 
       <section class="calendar-panel" aria-labelledby="calendarTitle">
         <div class="section-head">
           <div>
-            <p class="eyebrow">Schedule</p>
-            <h2 id="calendarTitle">Three-month view</h2>
+            <p class="eyebrow">予定</p>
+            <h2 id="calendarTitle">3カ月カレンダー</h2>
           </div>
-          <button class="ghost-button" id="goTodayButton" type="button">Today</button>
+          <button class="ghost-button" id="goTodayButton" type="button">今日へ</button>
         </div>
         <div class="months" id="months"></div>
       </section>
 
-      <aside class="side-panel" aria-label="schedule and sales memo">
+      <aside class="side-panel" aria-label="予定と営業メモ">
         <section class="agenda-block">
           <div class="section-head compact">
             <div>
-              <p class="eyebrow">Next</p>
-              <h2>Next 14 days</h2>
+              <p class="eyebrow">直近</p>
+              <h2>向こう14日の予定</h2>
             </div>
           </div>
           <div class="agenda-list" id="agendaList"></div>
@@ -96,22 +96,22 @@
         <section class="day-editor">
           <div class="section-head compact">
             <div>
-              <p class="eyebrow">Selected Day</p>
-              <h2 id="selectedDateTitle">Select a date</h2>
+              <p class="eyebrow">選択日</p>
+              <h2 id="selectedDateTitle">日付を選択</h2>
             </div>
           </div>
           <form id="eventForm" class="event-form">
-            <input id="eventTime" type="time" aria-label="time">
-            <select id="eventType" aria-label="type">
-              <option value="repair">Repair</option>
-              <option value="inspection">Inspection</option>
-              <option value="estimate">Estimate</option>
-              <option value="contact">Contact</option>
-              <option value="move">Move</option>
+            <input id="eventTime" type="time" aria-label="時間">
+            <select id="eventType" aria-label="種別">
+              <option value="repair">修理</option>
+              <option value="inspection">点検</option>
+              <option value="estimate">見積</option>
+              <option value="contact">連絡</option>
+              <option value="move">移動</option>
             </select>
-            <input id="eventTitle" type="text" placeholder="Plan, e.g. A Co. NC lathe noise" required>
-            <textarea id="eventMemo" placeholder="Memo, e.g. Check alarm history onsite"></textarea>
-            <button type="submit">Add plan</button>
+            <input id="eventTitle" type="text" placeholder="予定名 例: A社 NC旋盤 異音確認" required>
+            <textarea id="eventMemo" placeholder="メモ 例: 現地でアラーム履歴を確認"></textarea>
+            <button type="submit">予定を追加</button>
           </form>
           <div class="selected-events" id="selectedEvents"></div>
         </section>
@@ -120,13 +120,13 @@
           <div class="section-head compact">
             <div>
               <p class="eyebrow">Grok / X</p>
-              <h2>Sales prompts</h2>
+              <h2>営業プロンプト</h2>
             </div>
           </div>
           <div class="prompt-buttons">
-            <button type="button" data-prompt="weather">Heat post idea</button>
-            <button type="button" data-prompt="news">Manufacturing news angle</button>
-            <button type="button" data-prompt="case">Repair case copy</button>
+            <button type="button" data-prompt="weather">暑さ注意を投稿文に</button>
+            <button type="button" data-prompt="news">製造業ニュースを営業ネタに</button>
+            <button type="button" data-prompt="case">修理事例を説明文に</button>
           </div>
           <textarea id="promptOutput" readonly></textarea>
         </section>
