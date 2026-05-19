@@ -1,10 +1,137 @@
-<video
-  class="video-embed-full"
-  src="videos/CM2.mp4"
-  loading="lazy"
-  preload="metadata"
-  muted
-  playsinline
-  controls
-  poster=""
->
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>LUS Repair Base</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header class="app-header">
+      <div>
+        <p class="eyebrow">Machine Repair Base</p>
+        <h1>LUS Repair Base</h1>
+      </div>
+      <div class="header-meta">
+        <span id="todayLabel"></span>
+        <span class="status-pill">local save</span>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="weather-panel" aria-labelledby="weatherTitle">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Field Condition</p>
+            <h2 id="weatherTitle">Weather and jobsite condition</h2>
+          </div>
+          <label class="select-label">
+            Area
+            <select id="locationSelect"></select>
+          </label>
+        </div>
+
+        <div class="weather-grid">
+          <div class="temperature-block">
+            <span class="location-name" id="locationName">Loading</span>
+            <strong id="currentTemp">-- C</strong>
+            <span id="weatherSummary">Fetching weather</span>
+          </div>
+          <div class="metric-row" aria-label="weather metrics">
+            <div>
+              <span>High</span>
+              <strong id="maxTemp">-- C</strong>
+            </div>
+            <div>
+              <span>Low</span>
+              <strong id="minTemp">-- C</strong>
+            </div>
+            <div>
+              <span>Humidity</span>
+              <strong id="humidity">--%</strong>
+            </div>
+            <div>
+              <span>Rain</span>
+              <strong id="rainChance">--%</strong>
+            </div>
+            <div>
+              <span>Wind</span>
+              <strong id="windSpeed">--m/s</strong>
+            </div>
+          </div>
+        </div>
+
+        <div class="alert-band" id="heatAlert">
+          <span>Heat risk</span>
+          <strong>Checking</strong>
+          <p>Temperature and humidity drive the jobsite comment.</p>
+        </div>
+
+        <div class="forecast-strip" id="forecastStrip" aria-label="forecast"></div>
+      </section>
+
+      <section class="calendar-panel" aria-labelledby="calendarTitle">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Schedule</p>
+            <h2 id="calendarTitle">3-month calendar</h2>
+          </div>
+          <button class="ghost-button" id="goTodayButton" type="button">Today</button>
+        </div>
+        <div class="months" id="months"></div>
+      </section>
+
+      <aside class="side-panel" aria-label="schedule and sales memo">
+        <section class="agenda-block">
+          <div class="section-head compact">
+            <div>
+              <p class="eyebrow">Next</p>
+              <h2>Next 14 days</h2>
+            </div>
+          </div>
+          <div class="agenda-list" id="agendaList"></div>
+        </section>
+
+        <section class="day-editor">
+          <div class="section-head compact">
+            <div>
+              <p class="eyebrow">Selected Day</p>
+              <h2 id="selectedDateTitle">Select a date</h2>
+            </div>
+          </div>
+          <form id="eventForm" class="event-form">
+            <input id="eventTime" type="time" aria-label="time">
+            <select id="eventType" aria-label="type">
+              <option value="repair">Repair</option>
+              <option value="inspection">Inspection</option>
+              <option value="estimate">Estimate</option>
+              <option value="contact">Contact</option>
+              <option value="move">Move</option>
+            </select>
+            <input id="eventTitle" type="text" placeholder="Plan, e.g. A Co. NC lathe noise" required>
+            <textarea id="eventMemo" placeholder="Memo, e.g. Check alarm history onsite"></textarea>
+            <button type="submit">Add plan</button>
+          </form>
+          <div class="selected-events" id="selectedEvents"></div>
+        </section>
+
+        <section class="prompt-block">
+          <div class="section-head compact">
+            <div>
+              <p class="eyebrow">Grok / X</p>
+              <h2>Sales prompts</h2>
+            </div>
+          </div>
+          <div class="prompt-buttons">
+            <button type="button" data-prompt="weather">Heat post idea</button>
+            <button type="button" data-prompt="news">Manufacturing news angle</button>
+            <button type="button" data-prompt="case">Repair case copy</button>
+          </div>
+          <textarea id="promptOutput" readonly></textarea>
+        </section>
+      </aside>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
