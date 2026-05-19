@@ -5,6 +5,113 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>LUS Repair Base</title>
     <link rel="stylesheet" href="style.css?v=20260519-4">
+    <style>
+      .news-grid.headline-mode {
+        grid-template-columns: 1.35fr 1fr 1fr;
+        align-items: start;
+      }
+
+      .headline-card {
+        min-height: 0;
+        gap: 10px;
+      }
+
+      .headline-card.subsidy-card {
+        grid-column: span 2;
+        background: #fffaf0;
+        border-color: #ead48d;
+      }
+
+      .headline-top {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 10px;
+      }
+
+      .headline-top span {
+        flex: 0 0 auto;
+      }
+
+      .headline-top a {
+        color: var(--accent);
+        font-size: 12px;
+        font-weight: 900;
+        text-decoration: none;
+      }
+
+      .headline-list {
+        display: grid;
+        gap: 0;
+        border-top: 1px solid var(--line);
+      }
+
+      .headline-item {
+        display: grid;
+        grid-template-columns: 58px minmax(0, 1fr);
+        gap: 9px;
+        border-bottom: 1px solid var(--line);
+        padding: 9px 0;
+        color: inherit;
+        text-decoration: none;
+      }
+
+      .headline-time {
+        color: var(--muted);
+        font-size: 11px;
+        font-weight: 900;
+        line-height: 1.35;
+      }
+
+      .headline-title {
+        display: block;
+        color: var(--strong);
+        font-size: 13px;
+        font-weight: 900;
+        line-height: 1.4;
+      }
+
+      .headline-source {
+        display: block;
+        margin-top: 3px;
+        color: var(--muted);
+        font-size: 11px;
+        font-weight: 800;
+        line-height: 1.3;
+      }
+
+      .headline-loading,
+      .headline-error {
+        border-top: 1px solid var(--line);
+        color: var(--muted);
+        font-size: 13px;
+        font-weight: 800;
+        padding: 11px 0 0;
+        line-height: 1.5;
+      }
+
+      @media (max-width: 1120px) {
+        .news-grid.headline-mode {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+
+        .headline-card.main-news,
+        .headline-card.subsidy-card {
+          grid-column: span 2;
+        }
+      }
+
+      @media (max-width: 760px) {
+        .news-grid.headline-mode {
+          grid-template-columns: 1fr;
+        }
+
+        .headline-card.main-news,
+        .headline-card.subsidy-card {
+          grid-column: auto;
+        }
+      }
+    </style>
   </head>
   <body>
     <header class="app-header">
@@ -39,26 +146,11 @@
             <span id="weatherSummary">天気を取得しています</span>
           </div>
           <div class="metric-row" aria-label="気象データ">
-            <div>
-              <span>最高</span>
-              <strong id="maxTemp">--℃</strong>
-            </div>
-            <div>
-              <span>最低</span>
-              <strong id="minTemp">--℃</strong>
-            </div>
-            <div>
-              <span>湿度</span>
-              <strong id="humidity">--%</strong>
-            </div>
-            <div>
-              <span>降水</span>
-              <strong id="rainChance">--%</strong>
-            </div>
-            <div>
-              <span>風速</span>
-              <strong id="windSpeed">--m/s</strong>
-            </div>
+            <div><span>最高</span><strong id="maxTemp">--℃</strong></div>
+            <div><span>最低</span><strong id="minTemp">--℃</strong></div>
+            <div><span>湿度</span><strong id="humidity">--%</strong></div>
+            <div><span>降水</span><strong id="rainChance">--%</strong></div>
+            <div><span>風速</span><strong id="windSpeed">--m/s</strong></div>
           </div>
         </div>
 
@@ -75,7 +167,7 @@
         <div class="section-head news-head">
           <div>
             <p class="eyebrow">ニュース</p>
-            <h2 id="newsTitle">仕事につながる情報面</h2>
+            <h2 id="newsTitle">速報見出し</h2>
           </div>
           <label class="select-label">
             ニュース地域
@@ -91,40 +183,50 @@
           </label>
         </div>
 
-        <div class="news-grid">
-          <article class="news-card main-news">
-            <span>重点</span>
+        <div class="news-grid headline-mode">
+          <article class="news-card headline-card main-news">
+            <div class="headline-top">
+              <span>工作機械</span>
+              <a id="machineNewsSearch" target="_blank" rel="noopener">検索</a>
+            </div>
             <h3>工作機械・設備保全</h3>
-            <p>工作機械、NC旋盤、マシニング、制御盤、サーボ、部品供給、設備投資、保全ネタを優先して確認。</p>
-            <div class="news-links" id="machineNewsLinks"></div>
+            <div class="headline-list" id="machineHeadlines"><p class="headline-loading">見出しを取得中</p></div>
           </article>
 
-          <article class="news-card">
-            <span>経済</span>
-            <h3>為替・金利・設備投資</h3>
-            <p>円相場、材料費、金利、補助金、製造業景況感。見積や更新提案の温度感を見る。</p>
-            <div class="news-links" id="economyNewsLinks"></div>
+          <article class="news-card headline-card">
+            <div class="headline-top">
+              <span>世界</span>
+              <a id="worldNewsSearch" target="_blank" rel="noopener">検索</a>
+            </div>
+            <h3>世界情勢</h3>
+            <div class="headline-list" id="worldHeadlines"><p class="headline-loading">見出しを取得中</p></div>
           </article>
 
-          <article class="news-card">
-            <span>世界</span>
-            <h3>世界情勢・サプライチェーン</h3>
-            <p>海外リスク、物流、半導体、エネルギー、輸出入。部品納期や客先説明の材料にする。</p>
-            <div class="news-links" id="worldNewsLinks"></div>
+          <article class="news-card headline-card">
+            <div class="headline-top">
+              <span>経済</span>
+              <a id="economyNewsSearch" target="_blank" rel="noopener">検索</a>
+            </div>
+            <h3>経済・為替・設備投資</h3>
+            <div class="headline-list" id="economyHeadlines"><p class="headline-loading">見出しを取得中</p></div>
           </article>
 
-          <article class="news-card">
-            <span>地域</span>
-            <h3>福山ローカル</h3>
-            <p>福山、常石、港湾、造船、鉄工、地場企業、道路情報。移動前と営業前に見る。</p>
-            <div class="news-links" id="localNewsLinks"></div>
+          <article class="news-card headline-card">
+            <div class="headline-top">
+              <span>地域</span>
+              <a id="localNewsSearch" target="_blank" rel="noopener">検索</a>
+            </div>
+            <h3>福山・広島岡山</h3>
+            <div class="headline-list" id="localHeadlines"><p class="headline-loading">見出しを取得中</p></div>
           </article>
 
-          <article class="news-card wide-news">
-            <span>広域</span>
-            <h3>広島・岡山の製造業</h3>
-            <p>備後、井笠、倉敷、水島、広島の工場・設備・雇用・投資ニュースをまとめて確認。</p>
-            <div class="news-links" id="regionalNewsLinks"></div>
+          <article class="news-card headline-card subsidy-card">
+            <div class="headline-top">
+              <span>補助金</span>
+              <a id="subsidyNewsSearch" target="_blank" rel="noopener">検索</a>
+            </div>
+            <h3>広島県福山市で確認したい補助金・助成金</h3>
+            <div class="headline-list" id="subsidyHeadlines"><p class="headline-loading">見出しを取得中</p></div>
           </article>
         </div>
       </section>
@@ -212,48 +314,126 @@
 
     <script src="app.js?v=20260519-3"></script>
     <script>
-      const newsGroups = [
+      const headlineGroups = [
         {
-          target: "machineNewsLinks",
-          queries: ["工作機械 ニュース", "NC旋盤 マシニングセンタ 設備保全", "制御盤 サーボモータ 修理 部品供給"]
+          target: "machineHeadlines",
+          search: "machineNewsSearch",
+          query: "工作機械 OR NC旋盤 OR マシニングセンタ OR 設備保全 OR 制御盤 OR サーボモータ",
+          fallback: ["工作機械ニュース", "NC旋盤・マシニングセンタ", "設備保全 制御盤 サーボ"]
         },
         {
-          target: "economyNewsLinks",
-          queries: ["製造業 景況感 設備投資", "円相場 金利 中小企業", "ものづくり補助金 省力化投資"]
+          target: "worldHeadlines",
+          search: "worldNewsSearch",
+          query: "世界情勢 製造業 サプライチェーン 半導体 物流 エネルギー",
+          fallback: ["世界情勢と製造業", "半導体・物流・エネルギー", "海外リスクとサプライチェーン"]
         },
         {
-          target: "worldNewsLinks",
-          queries: ["世界情勢 製造業 サプライチェーン", "半導体 物流 エネルギー ニュース", "中国 米国 欧州 製造業"]
+          target: "economyHeadlines",
+          search: "economyNewsSearch",
+          query: "製造業 景況感 設備投資 円相場 金利 中小企業",
+          fallback: ["製造業 景況感", "設備投資・金利", "円相場 中小企業"]
         },
         {
-          target: "localNewsLinks",
+          target: "localHeadlines",
+          search: "localNewsSearch",
           regional: true,
-          queries: ["製造業", "工場 設備", "道路 交通"]
+          query: "製造業 工場 設備 交通 経済",
+          fallback: ["地域の製造業ニュース", "工場・設備・交通", "地場企業と経済"]
         },
         {
-          target: "regionalNewsLinks",
-          queries: ["広島 岡山 製造業", "福山 倉敷 工場 設備投資", "備後 井笠 ものづくり"]
+          target: "subsidyHeadlines",
+          search: "subsidyNewsSearch",
+          query: "福山市 広島県 補助金 助成金 中小企業 設備投資 省力化 ものづくり",
+          fallback: ["福山市 補助金 助成金", "広島県 中小企業 補助金", "設備投資 省力化 ものづくり補助金"]
         }
       ];
 
       const newsRegionSelect = document.querySelector("#newsRegionSelect");
       const googleNewsBase = "https://news.google.com/search?q=";
+      const gdeltBase = "https://api.gdeltproject.org/api/v2/doc/doc";
 
-      function renderNewsLinks() {
-        const region = newsRegionSelect.value;
-        newsGroups.forEach((group) => {
-          const box = document.querySelector(`#${group.target}`);
-          if (!box) return;
-          box.innerHTML = group.queries.map((query) => {
-            const fullQuery = group.regional ? `${region} ${query}` : query;
-            const url = `${googleNewsBase}${encodeURIComponent(fullQuery)}&hl=ja&gl=JP&ceid=JP:ja`;
-            return `<a href="${url}" target="_blank" rel="noopener">${fullQuery}</a>`;
-          }).join("");
-        });
+      function googleNewsUrl(query) {
+        return `${googleNewsBase}${encodeURIComponent(query)}&hl=ja&gl=JP&ceid=JP:ja`;
       }
 
-      newsRegionSelect.addEventListener("change", renderNewsLinks);
-      renderNewsLinks();
+      function gdeltUrl(query) {
+        const params = new URLSearchParams({
+          query,
+          mode: "ArtList",
+          format: "json",
+          maxrecords: "5",
+          sort: "HybridRel",
+          sourcelang: "jpn"
+        });
+        return `${gdeltBase}?${params.toString()}`;
+      }
+
+      function renderFallback(group, fullQuery) {
+        const box = document.querySelector(`#${group.target}`);
+        box.innerHTML = group.fallback.map((title) => {
+          const query = group.regional ? `${newsRegionSelect.value} ${title}` : title;
+          return `
+            <a class="headline-item" href="${googleNewsUrl(query)}" target="_blank" rel="noopener">
+              <span class="headline-time">確認</span>
+              <span><strong class="headline-title">${title}</strong><span class="headline-source">Googleニュースで開く</span></span>
+            </a>
+          `;
+        }).join("");
+        const search = document.querySelector(`#${group.search}`);
+        if (search) search.href = googleNewsUrl(fullQuery);
+      }
+
+      function formatHeadlineTime(value) {
+        if (!value) return "速報";
+        const compact = String(value).replace(/[^0-9]/g, "");
+        if (compact.length < 12) return "速報";
+        const date = new Date(`${compact.slice(0, 4)}-${compact.slice(4, 6)}-${compact.slice(6, 8)}T${compact.slice(8, 10)}:${compact.slice(10, 12)}:00Z`);
+        if (Number.isNaN(date.getTime())) return "速報";
+        return new Intl.DateTimeFormat("ja-JP", { hour: "2-digit", minute: "2-digit" }).format(date);
+      }
+
+      function escapeHeadline(value) {
+        return String(value || "").replace(/[&<>"']/g, (char) => ({
+          "&": "&amp;",
+          "<": "&lt;",
+          ">": "&gt;",
+          '"': "&quot;",
+          "'": "&#039;"
+        }[char]));
+      }
+
+      async function loadHeadlines() {
+        const region = newsRegionSelect.value;
+        await Promise.all(headlineGroups.map(async (group) => {
+          const fullQuery = group.regional ? `${region} ${group.query}` : group.query;
+          const box = document.querySelector(`#${group.target}`);
+          const search = document.querySelector(`#${group.search}`);
+          if (search) search.href = googleNewsUrl(fullQuery);
+          box.innerHTML = `<p class="headline-loading">見出しを取得中</p>`;
+
+          try {
+            const response = await fetch(gdeltUrl(fullQuery));
+            if (!response.ok) throw new Error("news response error");
+            const data = await response.json();
+            const articles = (data.articles || []).filter((article) => article.title && article.url).slice(0, 5);
+            if (!articles.length) {
+              renderFallback(group, fullQuery);
+              return;
+            }
+            box.innerHTML = articles.map((article) => `
+              <a class="headline-item" href="${article.url}" target="_blank" rel="noopener">
+                <span class="headline-time">${formatHeadlineTime(article.seendate)}</span>
+                <span><strong class="headline-title">${escapeHeadline(article.title)}</strong><span class="headline-source">${escapeHeadline(article.domain || article.sourceCountry || "ニュース")}</span></span>
+              </a>
+            `).join("");
+          } catch (error) {
+            renderFallback(group, fullQuery);
+          }
+        }));
+      }
+
+      newsRegionSelect.addEventListener("change", loadHeadlines);
+      loadHeadlines();
     </script>
   </body>
 </html>
