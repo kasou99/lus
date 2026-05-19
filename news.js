@@ -1,3 +1,22 @@
+const compactNewsStyle = document.createElement("style");
+compactNewsStyle.textContent = `
+  .news-panel { padding: 16px !important; }
+  .news-head { margin-bottom: 10px !important; }
+  .news-grid.headline-mode { gap: 8px !important; }
+  .headline-card { gap: 6px !important; padding: 10px !important; min-height: 0 !important; }
+  .headline-card h3 { font-size: 15px !important; line-height: 1.2 !important; }
+  .headline-top span { padding: 3px 7px !important; font-size: 10px !important; }
+  .headline-top a { font-size: 11px !important; }
+  .headline-updated { font-size: 10px !important; line-height: 1.2 !important; }
+  .headline-item { grid-template-columns: 46px minmax(0, 1fr) !important; gap: 7px !important; padding: 6px 0 !important; }
+  .headline-time { font-size: 10px !important; line-height: 1.25 !important; }
+  .headline-title { font-size: 12px !important; line-height: 1.32 !important; }
+  .main-news .headline-title { font-size: 12.5px !important; }
+  .headline-source { margin-top: 2px !important; font-size: 10px !important; line-height: 1.2 !important; }
+  .headline-loading, .headline-error { font-size: 12px !important; padding-top: 8px !important; }
+`;
+document.head.appendChild(compactNewsStyle);
+
 const newsConfig = [
   {
     target: "machineHeadlines",
