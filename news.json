@@ -1,0 +1,69 @@
+{
+  "updatedAt": "2026-05-19T16:30:00+09:00",
+  "groups": {
+    "machineHeadlines": [
+      {
+        "time": "確認",
+        "title": "工作機械業界の新製品・設備投資・受注動向を確認",
+        "source": "Googleニュース検索",
+        "url": "https://news.google.com/search?q=%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%20when%3A1d&hl=ja&gl=JP&ceid=JP:ja"
+      },
+      {
+        "time": "確認",
+        "title": "NC旋盤・マシニングセンタ・設備保全の最新記事を確認",
+        "source": "Googleニュース検索",
+        "url": "https://news.google.com/search?q=NC%E6%97%8B%E7%9B%A4%20%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%20%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%20when%3A1d&hl=ja&gl=JP&ceid=JP:ja"
+      }
+    ],
+    "worldHeadlines": [
+      {
+        "time": "確認",
+        "title": "世界情勢・製造業サプライチェーン・半導体物流の最新記事を確認",
+        "source": "Googleニュース検索",
+        "url": "https://news.google.com/search?q=%E4%B8%96%E7%95%8C%E6%83%85%E5%8B%A2%20%E8%A3%BD%E9%80%A0%E6%A5%AD%20%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%20when%3A1d&hl=ja&gl=JP&ceid=JP:ja"
+      }
+    ],
+    "economyHeadlines": [
+      {
+        "time": "15:46",
+        "title": "東京マーケットダイジェスト・19日　円小幅安・株まちまち・債券安",
+        "source": "OANDA FX/CFD Lab",
+        "url": "https://www.oanda.jp/lab-education/market_news/mn_1014901_202605191546/"
+      }
+    ],
+    "localHeadlines": [
+      {
+        "time": "確認",
+        "title": "福山市・広島岡山の製造業、工場、交通、地域経済ニュースを確認",
+        "source": "Googleニュース検索",
+        "url": "https://news.google.com/search?q=%E7%A6%8F%E5%B1%B1%E5%B8%82%20%E5%BA%83%E5%B3%B6%20%E5%B2%A1%E5%B1%B1%20%E8%A3%BD%E9%80%A0%E6%A5%AD%20when%3A1d&hl=ja&gl=JP&ceid=JP:ja"
+      }
+    ],
+    "subsidyHeadlines": [
+      {
+        "time": "5/15",
+        "title": "2026年度 事業者向け創エネ・蓄エネ・省エネ設備導入等補助金交付事業について",
+        "source": "福山市",
+        "url": "https://www.city.fukuyama.hiroshima.jp/site/kankyo/394078.html"
+      },
+      {
+        "time": "3/2",
+        "title": "グリーンな企業賃上げ環境整備支援事業補助金について",
+        "source": "福山市",
+        "url": "https://www.city.fukuyama.hiroshima.jp/soshiki/sangyou/391140.html"
+      },
+      {
+        "time": "4/3",
+        "title": "広島県 中小企業省エネ設備等導入支援補助金について",
+        "source": "広島県",
+        "url": "https://www.pref.hiroshima.lg.jp/site/eco/shoenehojokin-r8.html"
+      },
+      {
+        "time": "確認",
+        "title": "中小企業省力化投資補助金の公募・採択情報を確認",
+        "source": "中小機構",
+        "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      }
+    ]
+  }
+}
