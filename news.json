@@ -1,42 +1,194 @@
 {
-  "updatedAt": "2026-05-19T16:30:00+09:00",
+  "updatedAt": "2026-05-19T15:04:09.353Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "確認",
-        "title": "工作機械業界の新製品・設備投資・受注動向を確認",
-        "source": "Googleニュース検索",
-        "url": "https://news.google.com/search?q=%E5%B7%A5%E4%BD%9C%E6%A9%9F%E6%A2%B0%20when%3A1d&hl=ja&gl=JP&ceid=JP:ja"
+        "time": "07:12",
+        "title": "芝浦機械、米超精密工作機械メーカーを買収 - logi-today.com",
+        "source": "logi-today.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAyX3FveHhuWlRDY2FjQ0FTRzQwTWM2TVNibGdjYXZMX20zRGRLX0Focml6YzJOSGh5blJ4X0lrd2w1SmZDZ2FBcQ?oc=5",
+        "publishedAt": "2026-05-18T22:12:32.000Z"
       },
       {
-        "time": "確認",
-        "title": "NC旋盤・マシニングセンタ・設備保全の最新記事を確認",
-        "source": "Googleニュース検索",
-        "url": "https://news.google.com/search?q=NC%E6%97%8B%E7%9B%A4%20%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF%20%E8%A8%AD%E5%82%99%E4%BF%9D%E5%85%A8%20when%3A1d&hl=ja&gl=JP&ceid=JP:ja"
+        "time": "05:58",
+        "title": "芝浦機械が米工作機械を買収 238億円投資で北米開拓",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQldnampoYVFHOHdOSDJHMVcyVmhZWC1jLU84MXdxMHBBX1NsYmNVbVpKUmxwWjRha0hpeGs2VjkwNmc5aFpueDQ2MFhSN3BqeHFubzJXbllZOXdURF9CX2lzZ3ZCQzZsZklOYTI1MllZdDM4MTluYnlIanMtQ0VZcHhqUFF6MmlzLTZaLU45V05RcTNBUGtqNWFMWWxMMTN1dE9aVnJGTFA?oc=5",
+        "publishedAt": "2026-05-18T20:58:39.000Z"
+      },
+      {
+        "time": "13:34",
+        "title": "2026年から2033年までの工作機械プローブ市場規模に関する包括的なレポート: 技術、",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BMFRQb0ZnTWVYVWtqVmdhVTNMSEFvdG5mbkpXaUg4NjItUVdySGFmandtNVFPbVV5TU50SFlzVHlJcDlrR2QzeFpn?oc=5",
+        "publishedAt": "2026-05-19T04:34:19.000Z"
+      },
+      {
+        "time": "10:46",
+        "title": "設備保全・点検ノウハウをサービス化 プラント向け日常点検支援アプリ「RECOMOTI(TM)」を販売開始",
+        "source": "RBB TODAY",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15Qk5BZFk2anQ2bjdtRnVTYW9TUGxpTzB0YWhadnFUbWZjR3dRMkgzeEI4QzZQTU5fSDJRbVJKcWVNOVNpZy12eVI1YmdZeG00MnA3Q21nMlItakZ5SFh3VzYwaFhoRWZ6ekc4bmJ5ZGkxbG1abkk3Ng?oc=5",
+        "publishedAt": "2026-05-19T01:46:16.000Z"
+      },
+      {
+        "time": "06:02",
+        "title": "[特別企画 ロボット切削の最前線vol.2]想定以上の引き合い／スギノマシン",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZUmVuc1lMelJ5X05OalF3azZsZERrd2FBcGI3NGRyM2lVb1hCeWVNSHhlYzJJcThZRzk4TEV3VVR3WXprMHBkSVJJZ0RtNnpCamFCTl8tTVdBaGZTZm9PaEhQSzFRSlhVcS1R?oc=5",
+        "publishedAt": "2026-05-18T21:02:48.000Z"
+      },
+      {
+        "time": "13:48",
+        "title": "経営のこころ（55）ユニオンツール会長・片山貴雄氏 自ら切り拓くDNA継承",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52YUllTlhWUmNJd3l6Zm8xVVRISkROYU42Y09kQ19wUEM4SUNleHlabWllVFh5UzBLS3VMZDdvR1lodENuSXhmMERvY3htRkJTdTk1NElTUHBxNFk?oc=5",
+        "publishedAt": "2026-05-19T04:48:18.000Z"
+      },
+      {
+        "time": "18:15",
+        "title": "電磁ブレーキ調査レポート：市場規模、産業分析、最新動向、予測2026-2032｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0d04xZlA1RVJVMHBvT2JQWGZIRFIyQXI5UmxkUGJ4R3VhcHBieVpDQVRzMjdrM2t6RmU5MG9vTDdyZEZLakpPejl6UlNWMFM0NTlsUk5Gaw?oc=5",
+        "publishedAt": "2026-05-19T09:15:08.000Z"
+      },
+      {
+        "time": "00:05",
+        "title": "工作機械業界、中国での需要に期待",
+        "source": "nna.jp",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHOVZ2NEtrY2pKUWVWR1dHUGxSdmZzRTdvTXRpNE1VMWhvWFlYZ05CNWZ4bWdvTUlNV1hGSDhVYVJLWF9nQkE?oc=5",
+        "publishedAt": "2026-05-18T15:05:57.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "確認",
-        "title": "世界情勢・製造業サプライチェーン・半導体物流の最新記事を確認",
-        "source": "Googleニュース検索",
-        "url": "https://news.google.com/search?q=%E4%B8%96%E7%95%8C%E6%83%85%E5%8B%A2%20%E8%A3%BD%E9%80%A0%E6%A5%AD%20%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%20when%3A1d&hl=ja&gl=JP&ceid=JP:ja"
+        "time": "07:35",
+        "title": "トランプ氏 イラン再攻撃「延期」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580741?source=rss",
+        "publishedAt": "2026-05-18T22:35:42.000Z"
+      },
+      {
+        "time": "20:51",
+        "title": "ロシア 3日間の核演習開始と発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580856?source=rss",
+        "publishedAt": "2026-05-19T11:51:57.000Z"
+      },
+      {
+        "time": "22:33",
+        "title": "日韓首脳夕食会 料理は唐辛子抜き",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580868?source=rss",
+        "publishedAt": "2026-05-19T13:33:48.000Z"
+      },
+      {
+        "time": "16:30",
+        "title": "台湾野党トップ「習近平氏」語る",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580813?source=rss",
+        "publishedAt": "2026-05-19T07:30:52.000Z"
+      },
+      {
+        "time": "09:23",
+        "title": "米のモスクで銃撃事件 3人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580757?source=rss",
+        "publishedAt": "2026-05-19T00:23:22.000Z"
+      },
+      {
+        "time": "08:15",
+        "title": "米でハンタ感染者死亡 船と無関係",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580749?source=rss",
+        "publishedAt": "2026-05-18T23:15:36.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "15:46",
-        "title": "東京マーケットダイジェスト・19日　円小幅安・株まちまち・債券安",
-        "source": "OANDA FX/CFD Lab",
-        "url": "https://www.oanda.jp/lab-education/market_news/mn_1014901_202605191546/"
+        "time": "19:03",
+        "title": "政府 夏の節電要請見送りへ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580840?source=rss",
+        "publishedAt": "2026-05-19T10:03:20.000Z"
+      },
+      {
+        "time": "23:53",
+        "title": "食品トレー 6月から相次ぎ値上げ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580881?source=rss",
+        "publishedAt": "2026-05-19T14:53:29.000Z"
+      },
+      {
+        "time": "19:49",
+        "title": "スターフライヤー厳重注意 国交省",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580848?source=rss",
+        "publishedAt": "2026-05-19T10:49:54.000Z"
+      },
+      {
+        "time": "19:22",
+        "title": "鶏もも肉の価格 最高値を更新",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580844?source=rss",
+        "publishedAt": "2026-05-19T10:22:37.000Z"
+      },
+      {
+        "time": "19:34",
+        "title": "完全養殖ウナギ試験販売へ 世界初",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580846?source=rss",
+        "publishedAt": "2026-05-19T10:34:36.000Z"
+      },
+      {
+        "time": "21:17",
+        "title": "「峠の親子めし」食中毒 販売停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580860?source=rss",
+        "publishedAt": "2026-05-19T12:17:43.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "確認",
-        "title": "福山市・広島岡山の製造業、工場、交通、地域経済ニュースを確認",
-        "source": "Googleニュース検索",
-        "url": "https://news.google.com/search?q=%E7%A6%8F%E5%B1%B1%E5%B8%82%20%E5%BA%83%E5%B3%B6%20%E5%B2%A1%E5%B1%B1%20%E8%A3%BD%E9%80%A0%E6%A5%AD%20when%3A1d&hl=ja&gl=JP&ceid=JP:ja"
+        "time": "23:26",
+        "title": "住宅に女性2人の遺体 複数刺し傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580878?source=rss",
+        "publishedAt": "2026-05-19T14:26:54.000Z"
+      },
+      {
+        "time": "19:16",
+        "title": "栃木強殺 夫婦が事前に凶器準備か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580843?source=rss",
+        "publishedAt": "2026-05-19T10:16:02.000Z"
+      },
+      {
+        "time": "17:17",
+        "title": "内田梨瑚被告 殺人実行は否定方針",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580825?source=rss",
+        "publishedAt": "2026-05-19T08:17:40.000Z"
+      },
+      {
+        "time": "21:08",
+        "title": "津市の山林火災 消防車は近づけず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580858?source=rss",
+        "publishedAt": "2026-05-19T12:08:46.000Z"
+      },
+      {
+        "time": "23:13",
+        "title": "バイク教習中に事故 女性意識不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580876?source=rss",
+        "publishedAt": "2026-05-19T14:13:52.000Z"
+      },
+      {
+        "time": "17:40",
+        "title": "奥多摩の山中に遺体 クマ襲ったか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580830?source=rss",
+        "publishedAt": "2026-05-19T08:40:08.000Z"
       }
     ],
     "subsidyHeadlines": [
