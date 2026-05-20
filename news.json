@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-05-20T19:20:55.668Z",
+  "updatedAt": "2026-05-20T20:19:28.472Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:04",
+        "title": "生産ライン 競争力の源泉（105）山田ドビー 大型工作機械22台導入",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzMFBvdjZvMmFPSlZiX21tdmN4dHNGcmhDOGFmOWV5aTlRS093Q1dsRTczbHItUWJGWnF1TV9BT01UZjA0QmkxTFp0RTBqYzh6bXV6eXZPaU4yeFE?oc=5",
+        "publishedAt": "2026-05-20T20:04:18.000Z"
+      },
       {
         "time": "00:00",
         "title": "工作機械の重大トラブルはこう防ぐ、1ミリ秒で異常を捉える高速検知技術",
@@ -18,17 +25,10 @@
       },
       {
         "time": "05:00",
-        "title": "山田ドビー、大型工作機械22台導入",
+        "title": "牧野フライス、大型5軸MC短納期 山梨新工場が来月稼働",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03NzJqX1BCQmVab2FtQ2pucHJWc3hKN0laa0l4bXJscUIwendqQnA0TV84QmdBcTFGcDM1Y0xmaUE3Z25EYm8wLTNOa0JDMUNUeWVuMnpWVWNOOFU?oc=5",
-        "publishedAt": "2026-05-19T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "芝浦機械、米国の超精密工作機械メーカーを子会社化",
-        "source": "化学工業日報 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCelU2ZkZEcEh6dXoySGNzYjBKRXlIZjZPcGxUbXoyU1p3TkdWNFRNbG5vYkIwRGFKRl9aejREdGtsaUVjMTFmVWVadmJ1Nzl2Nmhv?oc=5",
-        "publishedAt": "2026-05-19T20:00:39.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nYVRFM01TbFlhZnpoNU9CcTJVUmtlRzNFWFJYdmpLWmZhdWVOem1TalFyb0RKXzZVTnYtSy14bk5qQmhKb0VFcDcwQ3ZXdDVPYUwySldaRkp0ckU?oc=5",
+        "publishedAt": "2026-05-20T20:00:49.000Z"
       },
       {
         "time": "12:50",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-05-20T06:42:05.000Z"
       },
       {
+        "time": "19:01",
+        "title": "キーエンス、売上高1兆1692億円 国内への新商品の投入効果、北中南米・アジアも堅調",
+        "source": "オートメーション新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KYWFpc2t0bkVhcXlsRHNUVW9hQ01vTGlPQ3JHODFXWW80MThiUFpzOG83clBnVi1IUm5LN1ZudmdTTGFEUWh3aEJDbWtpVmhKdjVNUmlnS0tkZw?oc=5",
+        "publishedAt": "2026-05-20T10:01:06.000Z"
+      },
+      {
         "time": "01:45",
         "title": "デルタ電子、DINレール型産業用電源の新製品を発売",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80VmhOUzFyQ3BnbmU1SUEzRlIwTGtiMlVsMnBVU2hWbzJqQ3h3SGpoT1d4YTYwM1lLcEI2Y2R1UUFmQ2NwZzZwNVlJZDZnYmRBcDhicmpRcU9LTmdNSVpDMy1INl8xaXpoaW5kZ2RUekY5TDgxZnc?oc=5",
         "publishedAt": "2026-05-20T16:45:18.000Z"
-      },
-      {
-        "time": "14:15",
-        "title": "【ひと・交差点】三成興業の渡辺大輔社長 よろず支援拠点の優良事例で表彰 - 山陽新聞デジタル｜さんデジ",
-        "source": "山陽新聞デジタル｜さんデジ",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55VW9LazNRd3hXVXRXcXhSem1WdFlKa3lOZjA4cFRPZFRQVVpkN0pDU1VSU3lWdkNXMm04SEUwWlRXelJnQ184bHlBOWJPSUI2T19WVVpfZEd5ZFR2dC13VnF3V3pnbEhNUGpRNm8wN0U5NWhuTFhj?oc=5",
-        "publishedAt": "2026-05-20T05:15:49.000Z"
       }
     ],
     "worldHeadlines": [
