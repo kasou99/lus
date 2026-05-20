@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T13:08:06.978Z",
+  "updatedAt": "2026-05-20T14:23:39.805Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-05-20T06:42:05.000Z"
       },
       {
+        "time": "15:30",
+        "title": "横型多穴ドリル盤の世界市場（2026年～2032年）、市場規模（半自動、自動）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tMGs3V0lOY2d0NG5CY09IYnhsWFlkd3ZSaFM0dnZQMG5mdklSeHZmZ0hUNmNyVjRYX1VrS1JyVWx6TGxLMmMyblJ0TzVCQWc?oc=5",
+        "publishedAt": "2026-05-20T06:30:00.000Z"
+      },
+      {
         "time": "14:15",
         "title": "【ひと・交差点】三成興業の渡辺大輔社長 よろず支援拠点の優良事例で表彰 - 山陽新聞デジタル｜さんデジ",
         "source": "山陽新聞デジタル｜さんデジ",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55VW9LazNRd3hXVXRXcXhSem1WdFlKa3lOZjA4cFRPZFRQVVpkN0pDU1VSU3lWdkNXMm04SEUwWlRXelJnQ184bHlBOWJPSUI2T19WVVpfZEd5ZFR2dC13VnF3V3pnbEhNUGpRNm8wN0U5NWhuTFhj?oc=5",
         "publishedAt": "2026-05-20T05:15:49.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "独シェフラー、人型ロボットにシフト 部品供給と工場導入の好循環で覇権へ（2ページ目）",
-        "source": "日経クロステック",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11SUtNcGV4bnFUMWxZQzdmRGs4YXVRNzdaRDJoZVJvd25DdEJKT3ZrenJvdVNndWJodDNOWEphRkJKNXJyV0hqdUtJcDhlVk5Kb3pmWXZvRDRIYnZMT0lhbUdvY1hxSXdrQXRaelZTZFcwdw?oc=5",
-        "publishedAt": "2026-05-19T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,11 +89,11 @@
         "publishedAt": "2026-05-20T03:03:27.000Z"
       },
       {
-        "time": "08:20",
-        "title": "エボラ死者131人 WHOが拡大懸念",
+        "time": "22:49",
+        "title": "ホルムズ タンカー含む26隻が通過",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580897?source=rss",
-        "publishedAt": "2026-05-19T23:20:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581028?source=rss",
+        "publishedAt": "2026-05-20T13:49:50.000Z"
       },
       {
         "time": "21:50",
@@ -104,13 +104,6 @@
       }
     ],
     "economyHeadlines": [
-      {
-        "time": "15:55",
-        "title": "東京株終値 約3週間ぶり6万円割れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580962?source=rss",
-        "publishedAt": "2026-05-20T06:55:46.000Z"
-      },
       {
         "time": "19:32",
         "title": "ナフサ不足 食品ロス見直す契機か",
@@ -133,6 +126,13 @@
         "publishedAt": "2026-05-20T08:35:38.000Z"
       },
       {
+        "time": "22:34",
+        "title": "SOMPOHDが社名を変更へ 3回目",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581025?source=rss",
+        "publishedAt": "2026-05-20T13:34:29.000Z"
+      },
+      {
         "time": "19:23",
         "title": "キリン「一番搾り」など値下げ",
         "source": "Yahoo!ニュース",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "19:22",
-        "title": "栃木強殺 脅されたと少年が供述",
+        "time": "22:27",
+        "title": "強殺 当日まで普通のバイトかと",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580999?source=rss",
-        "publishedAt": "2026-05-20T10:22:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581024?source=rss",
+        "publishedAt": "2026-05-20T13:27:01.000Z"
       },
       {
-        "time": "15:16",
-        "title": "兵庫母娘遺体 母に比較的多くの傷",
+        "time": "23:17",
+        "title": "栃木強殺 被害者の飼い犬も殺害か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580956?source=rss",
-        "publishedAt": "2026-05-20T06:16:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581029?source=rss",
+        "publishedAt": "2026-05-20T14:17:22.000Z"
       },
       {
         "time": "18:24",
