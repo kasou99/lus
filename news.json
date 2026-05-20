@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T05:31:06.665Z",
+  "updatedAt": "2026-05-20T07:28:22.001Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-05-20T02:30:00.000Z"
       },
       {
-        "time": "10:36",
-        "title": "製紙大手6社の通期見通し、営業益下押し 中東情勢で原燃料費増加",
+        "time": "09:43",
+        "title": "エヌ・エス・エス、軸受用潤滑油100分の1 スピンドル試作",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pZGV0R1JfYWltaDJHYS16b1hmM1ROZExxcWFRT3Q1TFJBZ2hfZkZ3VkdxanFnVV85clNwYW1lOFp1MHZOdEJjSk9Id2I5QU9ENHlWZ1pKNXo5YVE?oc=5",
-        "publishedAt": "2026-05-20T01:36:48.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WckZIUFVGOExGd3Boa0EzbktScjRtYTZxbFZWUFhMbENYcWhKZ3RhMlJLZWhaMjhWQThraFRlZGxZcU1Kd1ZicDZ2cWxKMXY5Tm5rc3NVTjQ?oc=5",
+        "publishedAt": "2026-05-20T00:43:23.000Z"
       },
       {
-        "time": "15:11",
-        "title": "産業用ロボットサーボモーター市場の展望2026-2033：包括的な市場規模と予測CAGR",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NN0RFaVNyYzVLOWJNT013YXN5VktCUG5qVWNSa2lkVXN6SVZzcDBxY3UzejRsRnRGOXZlNE5DSE94c1M1RHZ5WWZn?oc=5",
-        "publishedAt": "2026-05-19T06:11:32.000Z"
+        "time": "12:50",
+        "title": "高速動作が可能な新型協働ロボットを発表／ABB Robotics Japan",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KbnlfYWFKS0tKM1lHSE42MTZCWTFnUHJpdFMzc1QyUEZwLWM1ZFFIMWEzNmFOb0tSS2dINVpSRmkzcmFqYU9UVk5LUEVURkpQalZxWUNPcWtVWTF5Sl9ZUUtRdXNKUm9IV21J?oc=5",
+        "publishedAt": "2026-05-20T03:50:33.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6580941?source=rss",
         "publishedAt": "2026-05-20T03:48:07.000Z"
+      },
+      {
+        "time": "15:55",
+        "title": "台湾総統就任2年 防衛強化を表明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580960?source=rss",
+        "publishedAt": "2026-05-20T06:55:52.000Z"
       },
       {
         "time": "12:03",
@@ -94,22 +101,15 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6580931?source=rss",
         "publishedAt": "2026-05-20T02:43:01.000Z"
-      },
-      {
-        "time": "22:33",
-        "title": "日韓首脳夕食会 料理は唐辛子抜き",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580868?source=rss",
-        "publishedAt": "2026-05-19T13:33:48.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "09:46",
-        "title": "東京株が一時6万円割れ 3週間ぶり",
+        "time": "15:55",
+        "title": "東京株終値 約3週間ぶり6万円割れ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580910?source=rss",
-        "publishedAt": "2026-05-20T00:46:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580962?source=rss",
+        "publishedAt": "2026-05-20T06:55:46.000Z"
       },
       {
         "time": "08:34",
@@ -156,11 +156,11 @@
         "publishedAt": "2026-05-20T05:22:53.000Z"
       },
       {
-        "time": "11:34",
-        "title": "住宅に母娘の遺体 家の外にも血痕",
+        "time": "15:16",
+        "title": "兵庫母娘遺体 母に比較的多くの傷",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580928?source=rss",
-        "publishedAt": "2026-05-20T02:34:32.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580956?source=rss",
+        "publishedAt": "2026-05-20T06:16:44.000Z"
       },
       {
         "time": "12:41",
@@ -170,25 +170,25 @@
         "publishedAt": "2026-05-20T03:41:11.000Z"
       },
       {
-        "time": "12:17",
-        "title": "女性死亡 ひき逃げ疑いで78歳逮捕",
+        "time": "14:30",
+        "title": "福島のマンホール転落 1人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580939?source=rss",
-        "publishedAt": "2026-05-20T03:17:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580953?source=rss",
+        "publishedAt": "2026-05-20T05:30:00.000Z"
       },
       {
-        "time": "14:00",
-        "title": "放課後児童クラブで虐待5件 謝罪",
+        "time": "15:28",
+        "title": "「消えずの火」宮島の霊火堂全焼",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580946?source=rss",
-        "publishedAt": "2026-05-20T05:00:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580957?source=rss",
+        "publishedAt": "2026-05-20T06:28:58.000Z"
       },
       {
-        "time": "11:31",
-        "title": "80代男性 8.7億円の投資詐欺被害",
+        "time": "16:24",
+        "title": "中1の給食250人分が届かず 横浜",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580930?source=rss",
-        "publishedAt": "2026-05-20T02:31:40.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580965?source=rss",
+        "publishedAt": "2026-05-20T07:24:51.000Z"
       }
     ],
     "subsidyHeadlines": [
