@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-20T20:19:29.432Z",
+  "updatedAt": "2026-05-20T21:14:15.331Z",
   "items": [
     {
-      "time": "22:04",
-      "title": "習氏 中露は軍国主義復活に反対",
+      "time": "06:07",
+      "title": "米 キューバのカストロ氏を起訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581022?source=rss",
-      "publishedAt": "2026-05-20T13:04:07.000Z",
-      "xQuery": "習氏 中露は軍国主義復活に反対"
+      "url": "https://news.yahoo.co.jp/pickup/6581031?source=rss",
+      "publishedAt": "2026-05-20T21:07:06.000Z",
+      "xQuery": "米 キューバのカストロ氏を起訴"
     },
     {
       "time": "22:49",

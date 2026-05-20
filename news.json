@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T20:19:28.472Z",
+  "updatedAt": "2026-05-20T21:14:14.217Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzMFBvdjZvMmFPSlZiX21tdmN4dHNGcmhDOGFmOWV5aTlRS093Q1dsRTczbHItUWJGWnF1TV9BT01UZjA0QmkxTFp0RTBqYzh6bXV6eXZPaU4yeFE?oc=5",
         "publishedAt": "2026-05-20T20:04:18.000Z"
+      },
+      {
+        "time": "06:04",
+        "title": "[特別企画 ロボット切削の最前線vol.4]“常識”にとらわれない／トライエンジニアリング",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBydVdCdmloUjhNaGZCdmxVMDA5ZHJZZERmREFBWVR6ejE2VVZIWDZQNzF2RFdJcGtpWHZQa3JudW9TQ3BRbTN0NDdqeTEzb04yZGpUMlRWLXI0N1dOTF93Y3hNeTVrc0c5NjZ3?oc=5",
+        "publishedAt": "2026-05-20T21:04:24.000Z"
       },
       {
         "time": "00:00",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-05-20T20:00:49.000Z"
       },
       {
-        "time": "12:50",
-        "title": "高速動作が可能な新型協働ロボットを発表／ABB Robotics Japan",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KbnlfYWFKS0tKM1lHSE42MTZCWTFnUHJpdFMzc1QyUEZwLWM1ZFFIMWEzNmFOb0tSS2dINVpSRmkzcmFqYU9UVk5LUEVURkpQalZxWUNPcWtVWTF5Sl9ZUUtRdXNKUm9IV21J?oc=5",
-        "publishedAt": "2026-05-20T03:50:33.000Z"
-      },
-      {
         "time": "15:42",
         "title": "三菱電機、パワー半導体の新製品投入 産業用機器向けインバーターの低消費電力化を後押し",
         "source": "電波新聞デジタル",
@@ -52,14 +52,21 @@
         "publishedAt": "2026-05-20T10:01:06.000Z"
       },
       {
-        "time": "01:45",
-        "title": "デルタ電子、DINレール型産業用電源の新製品を発売",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80VmhOUzFyQ3BnbmU1SUEzRlIwTGtiMlVsMnBVU2hWbzJqQ3h3SGpoT1d4YTYwM1lLcEI2Y2R1UUFmQ2NwZzZwNVlJZDZnYmRBcDhicmpRcU9LTmdNSVpDMy1INl8xaXpoaW5kZ2RUekY5TDgxZnc?oc=5",
-        "publishedAt": "2026-05-20T16:45:18.000Z"
+        "time": "15:30",
+        "title": "横型多穴ドリル盤の世界市場（2026年～2032年）、市場規模（半自動、自動）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tMGs3V0lOY2d0NG5CY09IYnhsWFlkd3ZSaFM0dnZQMG5mdklSeHZmZ0hUNmNyVjRYX1VrS1JyVWx6TGxLMmMyblJ0TzVCQWc?oc=5",
+        "publishedAt": "2026-05-20T06:30:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "06:07",
+        "title": "米 キューバのカストロ氏を起訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581031?source=rss",
+        "publishedAt": "2026-05-20T21:07:06.000Z"
+      },
       {
         "time": "20:47",
         "title": "中露首脳が会談 強固な関係を称賛",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581022?source=rss",
         "publishedAt": "2026-05-20T13:04:07.000Z"
-      },
-      {
-        "time": "15:55",
-        "title": "台湾総統就任2年 防衛強化を表明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580960?source=rss",
-        "publishedAt": "2026-05-20T06:55:52.000Z"
       },
       {
         "time": "12:03",
