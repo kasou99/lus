@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-05-20T18:19:46.426Z",
+  "updatedAt": "2026-05-20T19:20:55.668Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "00:00",
+        "title": "工作機械の重大トラブルはこう防ぐ、1ミリ秒で異常を捉える高速検知技術",
+        "source": "日経クロステック Active",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51bzVHcmdIZzFFcTVJZGFpNUo0NlJhbEN1TG1xQVhqeFdpMHBOd2ttbS04VFREYmg0VlJiU1lQRzhDVEJIbDA3UzBYcF9RYm1ZdWhya1VFSTdlTlZrTmllRjE2bkRDdw?oc=5",
+        "publishedAt": "2026-05-20T15:00:00.000Z"
+      },
       {
         "time": "09:24",
         "title": "工作機械の上海拓璞数控科技が２０日香港上場、グレーで４７．８％高(サーチナ)",
@@ -13,7 +20,7 @@
         "time": "05:00",
         "title": "山田ドビー、大型工作機械22台導入",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51cnByYlRBMGR4WFFCZy0xdHZ6RDlCREJZMV9VbkcwQ013cjJ1RzhtNzNvb2k0ZkFKdXJmWEprYlpoU2x1Nk14YkZmd0F0TVR3ZDZVSWxRVnViVUlvbXQ3UnloY05Wb1lEWWFIUUs4NmVydW9p?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03NzJqX1BCQmVab2FtQ2pucHJWc3hKN0laa0l4bXJscUIwendqQnA0TV84QmdBcTFGcDM1Y0xmaUE3Z25EYm8wLTNOa0JDMUNUeWVuMnpWVWNOOFU?oc=5",
         "publishedAt": "2026-05-19T20:00:00.000Z"
       },
       {
@@ -50,13 +57,6 @@
         "source": "山陽新聞デジタル｜さんデジ",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55VW9LazNRd3hXVXRXcXhSem1WdFlKa3lOZjA4cFRPZFRQVVpkN0pDU1VSU3lWdkNXMm04SEUwWlRXelJnQ184bHlBOWJPSUI2T19WVVpfZEd5ZFR2dC13VnF3V3pnbEhNUGpRNm8wN0U5NWhuTFhj?oc=5",
         "publishedAt": "2026-05-20T05:15:49.000Z"
-      },
-      {
-        "time": "11:30",
-        "title": "【速報】日本郵便元社員逮捕 配送業務の委託先に便宜をはかり賄賂を受け取ったか 警視庁（2026年5月19日掲載）",
-        "source": "日テレNEWS NNN",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IelJnR2lCOEpKbWxxMzNWQ1diRi1VVVMycDZnVEJlLWJSMThmaDJGZUlmZmliRXBFUjFLV0VIZnNQUlpHUlRHY0twZlhxRWpEc1IzUTZpczJMeTFmNTY3NURGbmJtMXFsMlZPWDhSUjZrczE5SnZLU2VBcDE?oc=5",
-        "publishedAt": "2026-05-20T02:30:00.000Z"
       }
     ],
     "worldHeadlines": [
