@@ -5,7 +5,7 @@ compactNewsStyle.textContent = `
   .news-head h2 { font-size: 17px !important; }
   .news-grid.headline-mode { gap: 6px !important; grid-template-columns: 1.35fr 1fr 1fr 1fr !important; }
   .headline-card { gap: 3px !important; padding: 7px !important; min-height: 0 !important; }
-  .headline-card.subsidy-card { grid-column: span 2 !important; }
+  .headline-card.subsidy-card, .headline-card.x-trend-card { grid-column: span 2 !important; }
   .headline-card h3 { font-size: 12px !important; line-height: 1.1 !important; }
   .headline-top { gap: 5px !important; }
   .headline-top span { padding: 2px 5px !important; font-size: 9px !important; line-height: 1.05 !important; }
@@ -17,21 +17,26 @@ compactNewsStyle.textContent = `
   .main-news .headline-title { font-size: 10.8px !important; }
   .headline-source { margin-top: 0 !important; font-size: 8.5px !important; line-height: 1.05 !important; }
   .headline-loading, .headline-error { font-size: 10.5px !important; padding-top: 5px !important; }
-  .field-map-panel { grid-column: 1 / -1; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); box-shadow: 0 18px 45px rgba(15, 28, 36, 0.08); padding: 12px; }
-  .field-map-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 8px; }
-  .field-map-head h2 { margin: 0; font-size: 18px; line-height: 1.15; }
-  .field-map-controls { display: grid; grid-template-columns: minmax(160px, 1fr) auto; gap: 8px; margin-bottom: 8px; }
-  .field-map-controls input { min-height: 36px; padding: 7px 9px; }
-  .field-map-controls button { min-height: 36px; padding: 0 10px; background: #26343c; }
-  .field-map-frame { display: block; width: 100%; height: 210px; border: 1px solid var(--line); border-radius: 6px; background: #eef4f5; margin-bottom: 8px; }
-  .map-shortcuts { display: grid; grid-template-columns: repeat(10, minmax(82px, 1fr)); gap: 6px; }
-  .map-shortcuts a { border: 1px solid var(--line); border-radius: 6px; background: var(--panel-2); color: var(--accent); padding: 7px 6px; font-size: 11px; font-weight: 900; line-height: 1.2; text-align: center; text-decoration: none; }
+  .custom-location-row { display: grid; grid-template-columns: minmax(170px, 1fr) auto; gap: 6px; width: 100%; }
+  .custom-location-row input { min-height: 34px; padding: 7px 9px; }
+  .custom-location-row button { min-height: 34px; padding: 0 10px; }
+  .field-map-panel { grid-column: 1 / -1; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); box-shadow: 0 18px 45px rgba(15, 28, 36, 0.08); padding: 10px; }
+  .field-map-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 6px; }
+  .field-map-head h2 { margin: 0; font-size: 17px; line-height: 1.15; }
+  .field-map-controls { display: grid; grid-template-columns: minmax(160px, 1fr) auto; gap: 6px; margin-bottom: 6px; }
+  .field-map-controls input { min-height: 32px; padding: 6px 8px; }
+  .field-map-controls button { min-height: 32px; padding: 0 9px; background: #26343c; }
+  .field-map-body { display: grid; grid-template-columns: minmax(220px, 0.9fr) minmax(320px, 1.6fr); gap: 8px; align-items: stretch; }
+  .field-map-frame { display: block; width: 100%; height: 170px; border: 1px solid var(--line); border-radius: 6px; background: #eef4f5; }
+  .map-shortcuts { display: grid; grid-template-columns: repeat(5, minmax(70px, 1fr)); gap: 5px; align-content: start; }
+  .map-shortcuts a { border: 1px solid var(--line); border-radius: 6px; background: var(--panel-2); color: var(--accent); padding: 7px 5px; font-size: 10.5px; font-weight: 900; line-height: 1.1; text-align: center; text-decoration: none; }
   .map-shortcuts a:hover { border-color: var(--accent); background: #eaf7f7; }
-  .field-map-status { margin: 6px 0 0; color: var(--muted); font-size: 11px; font-weight: 800; line-height: 1.35; }
+  .field-map-status { margin: 4px 0 0; color: var(--muted); font-size: 10.5px; font-weight: 800; line-height: 1.3; }
   @media (max-width: 1120px) {
     .news-grid.headline-mode { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
-    .headline-card.subsidy-card { grid-column: span 2 !important; }
-    .map-shortcuts { grid-template-columns: repeat(5, minmax(82px, 1fr)); }
+    .headline-card.subsidy-card, .headline-card.x-trend-card { grid-column: span 2 !important; }
+    .field-map-body { grid-template-columns: 1fr; }
+    .map-shortcuts { grid-template-columns: repeat(5, minmax(70px, 1fr)); }
   }
   @media (max-width: 760px) {
     body { background-size: 100% 150px !important; }
@@ -46,8 +51,9 @@ compactNewsStyle.textContent = `
     .section-head h2, .news-head h2, .field-map-head h2 { font-size: 15px !important; line-height: 1.1 !important; }
     .eyebrow { font-size: 9px !important; line-height: 1.05 !important; }
     .section-actions, .sync-controls { gap: 5px !important; }
-    .section-actions button, .sync-controls button, .field-map-controls button { min-height: 31px !important; padding: 0 7px !important; font-size: 10px !important; }
-    .section-actions select, .section-actions input, .sync-controls input, .field-map-controls input { min-height: 31px !important; padding: 5px 7px !important; font-size: 11px !important; }
+    .section-actions button, .sync-controls button, .field-map-controls button, .custom-location-row button { min-height: 31px !important; padding: 0 7px !important; font-size: 10px !important; }
+    .section-actions select, .section-actions input, .sync-controls input, .field-map-controls input, .custom-location-row input { min-height: 31px !important; padding: 5px 7px !important; font-size: 11px !important; }
+    .custom-location-row { grid-template-columns: 1fr auto; gap: 5px; }
     .weather-grid { grid-template-columns: 108px minmax(0, 1fr) !important; gap: 6px !important; }
     .temperature-block { min-height: 108px !important; padding: 10px !important; }
     .temperature-block strong { font-size: 40px !important; line-height: 0.95 !important; }
@@ -66,7 +72,7 @@ compactNewsStyle.textContent = `
     .news-panel { padding: 8px !important; }
     .news-head { align-items: flex-start !important; margin-bottom: 5px !important; }
     .news-grid.headline-mode { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; gap: 5px !important; }
-    .headline-card.subsidy-card { grid-column: span 2 !important; }
+    .headline-card.subsidy-card, .headline-card.x-trend-card { grid-column: span 2 !important; }
     .headline-card { padding: 6px !important; gap: 2px !important; border-radius: 6px !important; }
     .headline-card h3 { font-size: 10.5px !important; }
     .headline-top span { font-size: 8px !important; padding: 2px 4px !important; }
@@ -79,9 +85,10 @@ compactNewsStyle.textContent = `
     .field-map-head { align-items: flex-start; flex-direction: column; gap: 3px !important; margin-bottom: 5px !important; }
     .field-map-status { margin: 0 !important; font-size: 9.5px !important; }
     .field-map-controls { grid-template-columns: 1fr auto !important; gap: 5px !important; margin-bottom: 6px !important; }
-    .field-map-frame { height: 145px !important; margin-bottom: 6px !important; border-radius: 5px !important; }
+    .field-map-body { gap: 6px; }
+    .field-map-frame { height: 125px !important; border-radius: 5px !important; }
     .map-shortcuts { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 4px; }
-    .map-shortcuts a { min-height: 28px; padding: 5px 3px; font-size: 8.8px; line-height: 1.05; display: grid; place-items: center; }
+    .map-shortcuts a { min-height: 27px; padding: 5px 3px; font-size: 8.8px; line-height: 1.05; display: grid; place-items: center; }
     .calendar-grid { gap: 5px !important; }
     .month-card { padding: 6px !important; border-radius: 6px !important; }
     .month-card h3 { font-size: 12px !important; margin-bottom: 5px !important; }
@@ -96,7 +103,7 @@ compactNewsStyle.textContent = `
     .weather-grid { grid-template-columns: 100px minmax(0, 1fr) !important; }
     .temperature-block strong { font-size: 36px !important; }
     .news-grid.headline-mode { grid-template-columns: 1fr !important; }
-    .headline-card.subsidy-card { grid-column: auto !important; }
+    .headline-card.subsidy-card, .headline-card.x-trend-card { grid-column: auto !important; }
     .map-shortcuts { grid-template-columns: repeat(4, minmax(0, 1fr)); }
   }
 `;
@@ -115,6 +122,10 @@ const googleNewsBase = "https://news.google.com/search?q=";
 
 function newsSearchUrl(query) {
   return `${googleNewsBase}${encodeURIComponent(query)}&hl=ja&gl=JP&ceid=JP:ja`;
+}
+
+function xSearchUrl(title) {
+  return `https://x.com/search?q=${encodeURIComponent(`"${title}" lang:ja`)}&src=typed_query&f=live`;
 }
 
 function escapeNews(value) {
@@ -150,14 +161,48 @@ function renderNewsGroup(config, items, updatedAt) {
   `).join("");
 }
 
+function renderXTrendNews(data) {
+  const grid = document.querySelector(".news-grid.headline-mode");
+  if (!grid) return;
+  let card = document.querySelector("#xTrendCard");
+  if (!card) {
+    card = document.createElement("article");
+    card.className = "headline-card x-trend-card";
+    card.id = "xTrendCard";
+    grid.prepend(card);
+  }
+
+  const groups = data.groups || {};
+  const items = [
+    ...(groups.machineHeadlines || []),
+    ...(groups.worldHeadlines || []),
+    ...(groups.economyHeadlines || []),
+    ...(groups.localHeadlines || [])
+  ].filter((item) => item && item.title).slice(0, 5);
+
+  card.innerHTML = `
+    <div class="headline-top"><h3>Xで追う人気ニュースTop5</h3><span>X検索</span></div>
+    <div id="xTrendHeadlines">
+      ${items.length ? items.map((item, index) => `
+        <a class="headline-item" href="${xSearchUrl(item.title)}" target="_blank" rel="noopener">
+          <span class="headline-time">${index + 1}</span>
+          <span><strong class="headline-title">${escapeNews(item.title)}</strong><span class="headline-source">Xで反応を見る</span></span>
+        </a>
+      `).join("") : `<p class="headline-error">Xで追う見出しを準備中です。</p>`}
+    </div>
+  `;
+}
+
 async function loadNewsJson() {
   try {
     const response = await fetch(`news.json?v=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) throw new Error("news.json response error");
     const data = await response.json();
     newsConfig.forEach((config) => renderNewsGroup(config, data.groups?.[config.target] || [], data.updatedAt));
+    renderXTrendNews(data);
   } catch (error) {
     newsConfig.forEach((config) => renderNewsGroup(config, [], ""));
+    renderXTrendNews({ groups: {} });
   }
 }
 
@@ -177,7 +222,7 @@ const mapKeywords = [
   "建機レンタル"
 ];
 
-const mapState = { coords: null, keyword: "ホームセンター" };
+const mapState = { coords: null, keyword: "" };
 
 function currentMapArea() {
   const manual = document.querySelector("#mapAreaInput")?.value.trim();
@@ -186,9 +231,20 @@ function currentMapArea() {
   return selectedWeather || "広島県福山市常石";
 }
 
+function activeMapCoords() {
+  if (mapState.coords) return mapState.coords;
+  const weatherLocation = window.lusCurrentLocation;
+  if (weatherLocation && Number.isFinite(Number(weatherLocation.lat)) && Number.isFinite(Number(weatherLocation.lon))) {
+    return { lat: Number(weatherLocation.lat).toFixed(6), lon: Number(weatherLocation.lon).toFixed(6) };
+  }
+  return null;
+}
+
 function mapQuery(keyword = mapState.keyword) {
-  if (mapState.coords) return `${keyword} near ${mapState.coords.lat},${mapState.coords.lon}`;
-  return `${currentMapArea()} ${keyword}`;
+  const coords = activeMapCoords();
+  if (coords && keyword) return `${keyword} near ${coords.lat},${coords.lon}`;
+  if (coords) return `${coords.lat},${coords.lon}`;
+  return keyword ? `${currentMapArea()} ${keyword}` : currentMapArea();
 }
 
 function mapUrl(keyword) {
@@ -196,17 +252,18 @@ function mapUrl(keyword) {
 }
 
 function mapEmbedUrl(keyword = mapState.keyword) {
-  return `https://www.google.com/maps?q=${encodeURIComponent(mapQuery(keyword))}&output=embed`;
+  return `https://www.google.com/maps?q=${encodeURIComponent(mapQuery(keyword))}&z=10&output=embed`;
 }
 
 function updateMapFrame(keyword = mapState.keyword) {
-  mapState.keyword = keyword || "ホームセンター";
+  mapState.keyword = keyword || "";
   const frame = document.querySelector("#fieldMapFrame");
   const status = document.querySelector("#mapStatus");
   if (frame) frame.src = mapEmbedUrl(mapState.keyword);
-  if (status) status.textContent = mapState.coords
-    ? `現在地周辺の${mapState.keyword}を表示中。`
-    : `${currentMapArea()}周辺の${mapState.keyword}を表示中。`;
+  if (status) {
+    const target = mapState.keyword ? `${mapState.keyword}を検索` : "周辺20km目安";
+    status.textContent = `${currentMapArea()} / ${target}`;
+  }
 }
 
 function renderMapLinks() {
@@ -230,14 +287,16 @@ function injectFieldMap() {
   panel.innerHTML = `
     <div class="field-map-head">
       <div><p class="eyebrow">出張先</p><h2>近くの資材・工具マップ</h2></div>
-      <p class="field-map-status" id="mapStatus">地域名または現在地からGoogle Mapsを表示します。</p>
+      <p class="field-map-status" id="mapStatus">地域周辺を20km目安で表示します。</p>
     </div>
     <div class="field-map-controls">
       <input id="mapAreaInput" type="text" placeholder="例: 広島県福山市 / 倉敷市水島 / 現場住所">
       <button type="button" id="useCurrentLocation">現在地</button>
     </div>
-    <iframe id="fieldMapFrame" class="field-map-frame" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="近くの資材・工具マップ"></iframe>
-    <div class="map-shortcuts" id="mapShortcuts"></div>
+    <div class="field-map-body">
+      <iframe id="fieldMapFrame" class="field-map-frame" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="近くの資材・工具マップ"></iframe>
+      <div class="map-shortcuts" id="mapShortcuts"></div>
+    </div>
   `;
   newsPanel.insertAdjacentElement("afterend", panel);
 
@@ -265,6 +324,9 @@ function injectFieldMap() {
   document.querySelector("#locationSelect")?.addEventListener("change", () => {
     mapState.coords = null;
     renderMapLinks();
+  });
+  window.addEventListener("lus-location-change", () => {
+    if (!document.querySelector("#mapAreaInput")?.value.trim()) renderMapLinks();
   });
   renderMapLinks();
 }
