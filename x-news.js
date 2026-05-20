@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-20T22:58:48.646Z",
+  "updatedAt": "2026-05-20T23:36:28.277Z",
   "items": [
+    {
+      "time": "08:03",
+      "title": "21日 関東～近畿で警報級大雨恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581045?source=rss",
+      "publishedAt": "2026-05-20T23:03:32.000Z",
+      "xQuery": "21日 関東～近畿で警報級大雨恐れ"
+    },
     {
       "time": "07:26",
       "title": "民事裁判の手続き 全面デジタル化",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581037?source=rss",
       "publishedAt": "2026-05-20T22:30:12.000Z",
       "xQuery": "米NVIDIA純利益3倍超 2～4月期"
-    },
-    {
-      "time": "06:07",
-      "title": "米 キューバのカストロ氏を起訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581031?source=rss",
-      "publishedAt": "2026-05-20T21:07:06.000Z",
-      "xQuery": "米 キューバのカストロ氏を起訴"
     },
     {
       "time": "07:16",
