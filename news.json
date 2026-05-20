@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T22:07:44.385Z",
+  "updatedAt": "2026-05-20T22:58:47.783Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "07:46",
+        "title": "米大統領 イランとの交渉最終段階",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581039?source=rss",
+        "publishedAt": "2026-05-20T22:46:44.000Z"
+      },
+      {
         "time": "06:07",
         "title": "米 キューバのカストロ氏を起訴",
         "source": "Yahoo!ニュース",
@@ -82,13 +89,6 @@
         "publishedAt": "2026-05-20T13:04:07.000Z"
       },
       {
-        "time": "12:03",
-        "title": "米大統領 G7サミット出席の方針",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580936?source=rss",
-        "publishedAt": "2026-05-20T03:03:27.000Z"
-      },
-      {
         "time": "22:49",
         "title": "ホルムズ タンカー含む26隻が通過",
         "source": "Yahoo!ニュース",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "07:30",
+        "title": "米NVIDIA純利益3倍超 2～4月期",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581037?source=rss",
+        "publishedAt": "2026-05-20T22:30:12.000Z"
+      },
+      {
         "time": "19:32",
         "title": "ナフサ不足 食品ロス見直す契機か",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6580980?source=rss",
         "publishedAt": "2026-05-20T08:50:54.000Z"
-      },
-      {
-        "time": "17:35",
-        "title": "「玉出」元役員逮捕 特別背任疑い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580978?source=rss",
-        "publishedAt": "2026-05-20T08:35:38.000Z"
       },
       {
         "time": "22:34",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-05-20T10:23:50.000Z"
       },
       {
-        "time": "18:50",
-        "title": "「小池一夫作品普及会」が破産",
+        "time": "07:49",
+        "title": "角上魚類「魚離れ」でも好調の訳",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580993?source=rss",
-        "publishedAt": "2026-05-20T09:50:50.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581043?source=rss",
+        "publishedAt": "2026-05-20T22:49:10.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,11 +163,18 @@
         "publishedAt": "2026-05-20T14:17:22.000Z"
       },
       {
-        "time": "18:24",
-        "title": "爆破予告騒動 東大生当事者ら語る",
+        "time": "07:20",
+        "title": "薬の処方ミス 難病発症し患者死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580984?source=rss",
-        "publishedAt": "2026-05-20T09:24:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581035?source=rss",
+        "publishedAt": "2026-05-20T22:20:52.000Z"
+      },
+      {
+        "time": "07:16",
+        "title": "無免許で死亡ひき逃げ疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581034?source=rss",
+        "publishedAt": "2026-05-20T22:16:59.000Z"
       },
       {
         "time": "20:08",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581030?source=rss",
         "publishedAt": "2026-05-20T14:38:08.000Z"
-      },
-      {
-        "time": "06:21",
-        "title": "全国最年少の女性市長 産休取得へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581032?source=rss",
-        "publishedAt": "2026-05-20T21:21:39.000Z"
       }
     ],
     "subsidyHeadlines": [

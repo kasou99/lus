@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-20T22:07:45.139Z",
+  "updatedAt": "2026-05-20T22:58:48.646Z",
   "items": [
+    {
+      "time": "07:26",
+      "title": "民事裁判の手続き 全面デジタル化",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581038?source=rss",
+      "publishedAt": "2026-05-20T22:26:48.000Z",
+      "xQuery": "民事裁判の手続き 全面デジタル化"
+    },
+    {
+      "time": "07:30",
+      "title": "米NVIDIA純利益3倍超 2～4月期",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581037?source=rss",
+      "publishedAt": "2026-05-20T22:30:12.000Z",
+      "xQuery": "米NVIDIA純利益3倍超 2～4月期"
+    },
     {
       "time": "06:07",
       "title": "米 キューバのカストロ氏を起訴",
@@ -10,36 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米 キューバのカストロ氏を起訴"
     },
     {
-      "time": "06:37",
-      "title": "OpenAI 数週間内IPO非公開申請へ",
+      "time": "07:16",
+      "title": "無免許で死亡ひき逃げ疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581033?source=rss",
-      "publishedAt": "2026-05-20T21:37:39.000Z",
-      "xQuery": "OpenAI 数週間内IPO非公開申請へ"
+      "url": "https://news.yahoo.co.jp/pickup/6581034?source=rss",
+      "publishedAt": "2026-05-20T22:16:59.000Z",
+      "xQuery": "無免許で死亡ひき逃げ疑い 逮捕"
     },
     {
-      "time": "23:17",
-      "title": "栃木強殺 被害者の飼い犬も殺害か",
+      "time": "07:20",
+      "title": "薬の処方ミス 難病発症し患者死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581029?source=rss",
-      "publishedAt": "2026-05-20T14:17:22.000Z",
-      "xQuery": "栃木強殺 被害者の飼い犬も殺害か"
-    },
-    {
-      "time": "23:38",
-      "title": "クマ追い払おうとし 女性転び骨折",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581030?source=rss",
-      "publishedAt": "2026-05-20T14:38:08.000Z",
-      "xQuery": "クマ追い払おうとし 女性転び骨折"
-    },
-    {
-      "time": "06:21",
-      "title": "全国最年少の女性市長 産休取得へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581032?source=rss",
-      "publishedAt": "2026-05-20T21:21:39.000Z",
-      "xQuery": "全国最年少の女性市長 産休取得へ"
+      "url": "https://news.yahoo.co.jp/pickup/6581035?source=rss",
+      "publishedAt": "2026-05-20T22:20:52.000Z",
+      "xQuery": "薬の処方ミス 難病発症し患者死亡"
     }
   ]
 };
