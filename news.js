@@ -17,6 +17,8 @@ compactNewsStyle.textContent = `
   .main-news .headline-title { font-size: 10.8px !important; }
   .headline-source { margin-top: 0 !important; font-size: 8.5px !important; line-height: 1.05 !important; }
   .headline-loading, .headline-error { font-size: 10.5px !important; padding-top: 5px !important; }
+  .x-trend-card .headline-item { grid-template-columns: 52px minmax(0, 1fr) !important; }
+  .x-trend-card .headline-time { color: #0f6770; font-weight: 950; }
   .custom-location-row { display: grid; grid-template-columns: minmax(170px, 1fr) auto; gap: 6px; width: 100%; }
   .custom-location-row input { min-height: 34px; padding: 7px 9px; }
   .custom-location-row button { min-height: 34px; padding: 0 10px; }
@@ -26,17 +28,18 @@ compactNewsStyle.textContent = `
   .field-map-controls { display: grid; grid-template-columns: minmax(160px, 1fr) auto; gap: 6px; margin-bottom: 6px; }
   .field-map-controls input { min-height: 32px; padding: 6px 8px; }
   .field-map-controls button { min-height: 32px; padding: 0 9px; background: #26343c; }
-  .field-map-body { display: grid; grid-template-columns: minmax(220px, 0.9fr) minmax(320px, 1.6fr); gap: 8px; align-items: stretch; }
-  .field-map-frame { display: block; width: 100%; height: 170px; border: 1px solid var(--line); border-radius: 6px; background: #eef4f5; }
+  .field-map-body { display: grid; grid-template-columns: minmax(210px, 260px) minmax(260px, 1fr); gap: 8px; align-items: start; }
+  .field-map-frame { display: block; width: 100%; aspect-ratio: 1 / 1; height: auto; border: 1px solid var(--line); border-radius: 6px; background: #eef4f5; }
   .map-shortcuts { display: grid; grid-template-columns: repeat(5, minmax(70px, 1fr)); gap: 5px; align-content: start; }
-  .map-shortcuts a { border: 1px solid var(--line); border-radius: 6px; background: var(--panel-2); color: var(--accent); padding: 7px 5px; font-size: 10.5px; font-weight: 900; line-height: 1.1; text-align: center; text-decoration: none; }
-  .map-shortcuts a:hover { border-color: var(--accent); background: #eaf7f7; }
+  .map-shortcuts button { border: 1px solid var(--line); border-radius: 6px; background: var(--panel-2); color: var(--accent); padding: 7px 5px; font-size: 10.5px; font-weight: 900; line-height: 1.1; text-align: center; cursor: pointer; }
+  .map-shortcuts button.active { border-color: #0f6770; background: #dff4f3; color: #173840; box-shadow: inset 0 0 0 1px rgba(15, 103, 112, 0.15); }
+  .map-shortcuts button:hover { border-color: var(--accent); background: #eaf7f7; }
   .field-map-status { margin: 4px 0 0; color: var(--muted); font-size: 10.5px; font-weight: 800; line-height: 1.3; }
   @media (max-width: 1120px) {
     .news-grid.headline-mode { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
     .headline-card.subsidy-card, .headline-card.x-trend-card { grid-column: span 2 !important; }
-    .field-map-body { grid-template-columns: 1fr; }
-    .map-shortcuts { grid-template-columns: repeat(5, minmax(70px, 1fr)); }
+    .field-map-body { grid-template-columns: minmax(210px, 260px) minmax(240px, 1fr); }
+    .map-shortcuts { grid-template-columns: repeat(4, minmax(66px, 1fr)); }
   }
   @media (max-width: 760px) {
     body { background-size: 100% 150px !important; }
@@ -79,16 +82,17 @@ compactNewsStyle.textContent = `
     .headline-top a { font-size: 9px !important; }
     .headline-updated { font-size: 8px !important; }
     .headline-item { grid-template-columns: 31px minmax(0, 1fr) !important; gap: 4px !important; padding: 2px 0 !important; }
+    .x-trend-card .headline-item { grid-template-columns: 42px minmax(0, 1fr) !important; }
     .headline-time { font-size: 8px !important; }
     .headline-title, .main-news .headline-title { font-size: 9.2px !important; line-height: 1.18 !important; }
     .headline-source { font-size: 7.8px !important; }
     .field-map-head { align-items: flex-start; flex-direction: column; gap: 3px !important; margin-bottom: 5px !important; }
     .field-map-status { margin: 0 !important; font-size: 9.5px !important; }
     .field-map-controls { grid-template-columns: 1fr auto !important; gap: 5px !important; margin-bottom: 6px !important; }
-    .field-map-body { gap: 6px; }
-    .field-map-frame { height: 125px !important; border-radius: 5px !important; }
-    .map-shortcuts { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 4px; }
-    .map-shortcuts a { min-height: 27px; padding: 5px 3px; font-size: 8.8px; line-height: 1.05; display: grid; place-items: center; }
+    .field-map-body { grid-template-columns: 128px minmax(0, 1fr); gap: 6px; }
+    .field-map-frame { width: 128px; height: 128px; aspect-ratio: auto; border-radius: 5px !important; }
+    .map-shortcuts { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 4px; }
+    .map-shortcuts button { min-height: 28px; padding: 5px 3px; font-size: 8.8px; line-height: 1.05; display: grid; place-items: center; }
     .calendar-grid { gap: 5px !important; }
     .month-card { padding: 6px !important; border-radius: 6px !important; }
     .month-card h3 { font-size: 12px !important; margin-bottom: 5px !important; }
@@ -104,7 +108,9 @@ compactNewsStyle.textContent = `
     .temperature-block strong { font-size: 36px !important; }
     .news-grid.headline-mode { grid-template-columns: 1fr !important; }
     .headline-card.subsidy-card, .headline-card.x-trend-card { grid-column: auto !important; }
-    .map-shortcuts { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+    .field-map-body { grid-template-columns: 116px minmax(0, 1fr); }
+    .field-map-frame { width: 116px; height: 116px; }
+    .map-shortcuts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   }
 `;
 document.head.appendChild(compactNewsStyle);
@@ -181,12 +187,12 @@ function renderXTrendNews(data) {
   ].filter((item) => item && item.title).slice(0, 5);
 
   card.innerHTML = `
-    <div class="headline-top"><h3>Xで追う人気ニュースTop5</h3><span>X検索</span></div>
+    <div class="headline-top"><h3>Xで追う人気ニュースTop5</h3><span>新着順</span></div>
     <div id="xTrendHeadlines">
-      ${items.length ? items.map((item, index) => `
+      ${items.length ? items.map((item) => `
         <a class="headline-item" href="${xSearchUrl(item.title)}" target="_blank" rel="noopener">
-          <span class="headline-time">${index + 1}</span>
-          <span><strong class="headline-title">${escapeNews(item.title)}</strong><span class="headline-source">Xで反応を見る</span></span>
+          <span class="headline-time">${escapeNews(item.time || "速報")}</span>
+          <span><strong class="headline-title">${escapeNews(item.title)}</strong><span class="headline-source">Xの新着投稿を開く / ${escapeNews(item.source || "ニュース")}</span></span>
         </a>
       `).join("") : `<p class="headline-error">Xで追う見出しを準備中です。</p>`}
     </div>
@@ -210,6 +216,7 @@ if (newsRegionSelect) newsRegionSelect.addEventListener("change", loadNewsJson);
 loadNewsJson();
 
 const mapKeywords = [
+  "周辺",
   "ホームセンター",
   "ねじ屋",
   "工具店",
@@ -247,33 +254,33 @@ function mapQuery(keyword = mapState.keyword) {
   return keyword ? `${currentMapArea()} ${keyword}` : currentMapArea();
 }
 
-function mapUrl(keyword) {
-  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(mapQuery(keyword))}`;
-}
-
 function mapEmbedUrl(keyword = mapState.keyword) {
   return `https://www.google.com/maps?q=${encodeURIComponent(mapQuery(keyword))}&z=10&output=embed`;
 }
 
 function updateMapFrame(keyword = mapState.keyword) {
-  mapState.keyword = keyword || "";
+  mapState.keyword = keyword === "周辺" ? "" : keyword || "";
   const frame = document.querySelector("#fieldMapFrame");
   const status = document.querySelector("#mapStatus");
   if (frame) frame.src = mapEmbedUrl(mapState.keyword);
   if (status) {
-    const target = mapState.keyword ? `${mapState.keyword}を検索` : "周辺20km目安";
+    const target = mapState.keyword ? `${mapState.keyword}を地図内表示` : "周辺20km目安";
     status.textContent = `${currentMapArea()} / ${target}`;
   }
+  document.querySelectorAll("[data-map-keyword]").forEach((button) => {
+    const activeValue = mapState.keyword || "周辺";
+    button.classList.toggle("active", button.dataset.mapKeyword === activeValue);
+  });
 }
 
 function renderMapLinks() {
   const box = document.querySelector("#mapShortcuts");
   if (!box) return;
-  box.innerHTML = mapKeywords.map((keyword) => `<a href="${mapUrl(keyword)}" target="_blank" rel="noopener" data-map-keyword="${keyword}">${keyword}</a>`).join("");
-  box.querySelectorAll("[data-map-keyword]").forEach((link) => {
-    link.addEventListener("click", () => updateMapFrame(link.dataset.mapKeyword));
+  box.innerHTML = mapKeywords.map((keyword) => `<button type="button" data-map-keyword="${keyword}">${keyword}</button>`).join("");
+  box.querySelectorAll("[data-map-keyword]").forEach((button) => {
+    button.addEventListener("click", () => updateMapFrame(button.dataset.mapKeyword));
   });
-  updateMapFrame(mapState.keyword);
+  updateMapFrame(mapState.keyword || "周辺");
 }
 
 function injectFieldMap() {
