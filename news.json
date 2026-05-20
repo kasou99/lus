@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T01:10:39.728Z",
+  "updatedAt": "2026-05-20T02:25:58.168Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,11 @@
         "publishedAt": "2026-05-19T21:03:55.000Z"
       },
       {
-        "time": "08:48",
-        "title": "日本TCS、JAL系と戦略提携 AI活用 DX人材育成",
+        "time": "10:36",
+        "title": "製紙大手6社の通期見通し、営業益下押し 中東情勢で原燃料費増加",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82enh2aUxaRTlUMHpZRnJZMVRIdTlVaW5oOUxReXo1Zmk3dVRPNl90SEJ5TUpyNFJTZWYyRTJVS0pzZnB0VlBZMjRWdjRHbHN6NmtvVWJDOFA4azg?oc=5",
-        "publishedAt": "2026-05-19T23:48:45.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pZGV0R1JfYWltaDJHYS16b1hmM1ROZExxcWFRT3Q1TFJBZ2hfZkZ3VkdxanFnVV85clNwYW1lOFp1MHZOdEJjSk9Id2I5QU9ENHlWZ1pKNXo5YVE?oc=5",
+        "publishedAt": "2026-05-20T01:36:48.000Z"
       },
       {
         "time": "15:11",
@@ -45,11 +45,11 @@
         "publishedAt": "2026-05-19T03:13:00.000Z"
       },
       {
-        "time": "10:46",
-        "title": "設備保全・点検ノウハウをサービス化 プラント向け日常点検支援アプリ「RECOMOTI(TM)」を販売開始",
-        "source": "RBB TODAY",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15Qk5BZFk2anQ2bjdtRnVTYW9TUGxpTzB0YWhadnFUbWZjR3dRMkgzeEI4QzZQTU5fSDJRbVJKcWVNOVNpZy12eVI1YmdZeG00MnA3Q21nMlItakZ5SFh3VzYwaFhoRWZ6ekc4bmJ5ZGkxbG1abkk3Ng?oc=5",
-        "publishedAt": "2026-05-19T01:46:16.000Z"
+        "time": "13:36",
+        "title": "設立５３年…宇多津町の「松川鉄工」破産開始決定 取引先の工場撤退で受注回復見込めず【香川】",
+        "source": "OHK 岡山放送",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDLUpZT2dYQU9kMEYzTl9MN2lfSlFfQnQydS1RenJtZFROa0dPdE01Um00dVZ1dFJhS2daekdLU3NpQk1Fc2xMY3kxbno5WHFRenlMemtPNDFER3hxT0dYbENYNGg?oc=5",
+        "publishedAt": "2026-05-19T04:36:21.000Z"
       },
       {
         "time": "18:15",
@@ -61,11 +61,25 @@
     ],
     "worldHeadlines": [
       {
+        "time": "11:02",
+        "title": "米大統領G7サミット出席へ 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580920?source=rss",
+        "publishedAt": "2026-05-20T02:02:57.000Z"
+      },
+      {
         "time": "08:20",
         "title": "エボラ死者131人 WHOが拡大懸念",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6580897?source=rss",
         "publishedAt": "2026-05-19T23:20:43.000Z"
+      },
+      {
+        "time": "10:42",
+        "title": "米 危機時のNATO支援を縮小意向",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580922?source=rss",
+        "publishedAt": "2026-05-20T01:42:40.000Z"
       },
       {
         "time": "07:34",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6580868?source=rss",
         "publishedAt": "2026-05-19T13:33:48.000Z"
-      },
-      {
-        "time": "16:30",
-        "title": "台湾野党トップ「習近平氏」語る",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580813?source=rss",
-        "publishedAt": "2026-05-19T07:30:52.000Z"
-      },
-      {
-        "time": "09:23",
-        "title": "米のモスクで銃撃事件 3人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580757?source=rss",
-        "publishedAt": "2026-05-19T00:23:22.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-05-20T00:46:47.000Z"
       },
       {
+        "time": "10:26",
+        "title": "「消えずの火」がある霊火堂火事",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580918?source=rss",
+        "publishedAt": "2026-05-20T01:26:17.000Z"
+      },
+      {
         "time": "06:23",
         "title": "行方不明の小4女児 23年続く捜査",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6580876?source=rss",
         "publishedAt": "2026-05-19T14:13:52.000Z"
-      },
-      {
-        "time": "21:49",
-        "title": "車で警官20m引きずった疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580862?source=rss",
-        "publishedAt": "2026-05-19T12:49:09.000Z"
       }
     ],
     "subsidyHeadlines": [
