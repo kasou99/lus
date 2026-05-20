@@ -23,6 +23,7 @@ compactNewsStyle.textContent = `
   .field-map-controls { display: grid; grid-template-columns: minmax(160px, 1fr) auto; gap: 8px; margin-bottom: 8px; }
   .field-map-controls input { min-height: 36px; padding: 7px 9px; }
   .field-map-controls button { min-height: 36px; padding: 0 10px; background: #26343c; }
+  .field-map-frame { display: block; width: 100%; height: 210px; border: 1px solid var(--line); border-radius: 6px; background: #eef4f5; margin-bottom: 8px; }
   .map-shortcuts { display: grid; grid-template-columns: repeat(10, minmax(82px, 1fr)); gap: 6px; }
   .map-shortcuts a { border: 1px solid var(--line); border-radius: 6px; background: var(--panel-2); color: var(--accent); padding: 7px 6px; font-size: 11px; font-weight: 900; line-height: 1.2; text-align: center; text-decoration: none; }
   .map-shortcuts a:hover { border-color: var(--accent); background: #eaf7f7; }
@@ -33,14 +34,70 @@ compactNewsStyle.textContent = `
     .map-shortcuts { grid-template-columns: repeat(5, minmax(82px, 1fr)); }
   }
   @media (max-width: 760px) {
-    .news-panel { padding: 9px !important; }
+    body { background-size: 100% 150px !important; }
+    .app-header { padding: 10px 10px 6px !important; gap: 5px !important; }
+    .app-header h1 { font-size: 24px !important; line-height: 1.05 !important; }
+    .header-copy { font-size: 11px !important; line-height: 1.35 !important; max-width: 100% !important; }
+    .tagline { font-size: 10px !important; letter-spacing: 0 !important; }
+    .layout { padding: 0 7px 12px !important; gap: 7px !important; }
+    .main-column, .side-panel { gap: 7px !important; }
+    .weather-panel, .calendar-panel, .news-panel, .field-map-panel, .side-panel section { border-radius: 6px !important; padding: 8px !important; }
+    .section-head { margin-bottom: 6px !important; gap: 6px !important; }
+    .section-head h2, .news-head h2, .field-map-head h2 { font-size: 15px !important; line-height: 1.1 !important; }
+    .eyebrow { font-size: 9px !important; line-height: 1.05 !important; }
+    .section-actions, .sync-controls { gap: 5px !important; }
+    .section-actions button, .sync-controls button, .field-map-controls button { min-height: 31px !important; padding: 0 7px !important; font-size: 10px !important; }
+    .section-actions select, .section-actions input, .sync-controls input, .field-map-controls input { min-height: 31px !important; padding: 5px 7px !important; font-size: 11px !important; }
+    .weather-grid { grid-template-columns: 108px minmax(0, 1fr) !important; gap: 6px !important; }
+    .temperature-block { min-height: 108px !important; padding: 10px !important; }
+    .temperature-block strong { font-size: 40px !important; line-height: 0.95 !important; }
+    .location-name, .temperature-block p { font-size: 10px !important; line-height: 1.25 !important; }
+    .metric-row { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; gap: 5px !important; }
+    .metric-row div { min-height: 48px !important; padding: 6px !important; }
+    .metric-row span { font-size: 8.5px !important; line-height: 1.05 !important; }
+    .metric-row strong { font-size: 16px !important; line-height: 1.1 !important; }
+    .alert-band { grid-template-columns: auto auto 1fr !important; gap: 5px !important; padding: 7px !important; font-size: 10.5px !important; line-height: 1.25 !important; }
+    .alert-band strong { font-size: 11px !important; }
+    .forecast-strip { grid-template-columns: repeat(7, 78px) !important; gap: 5px !important; margin-top: 7px !important; padding-bottom: 2px !important; }
+    .forecast-day { min-height: 58px !important; padding: 6px !important; }
+    .forecast-day span { font-size: 9px !important; }
+    .forecast-day strong { font-size: 14px !important; }
+    .forecast-day small { font-size: 9px !important; }
+    .news-panel { padding: 8px !important; }
+    .news-head { align-items: flex-start !important; margin-bottom: 5px !important; }
+    .news-grid.headline-mode { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; gap: 5px !important; }
+    .headline-card.subsidy-card { grid-column: span 2 !important; }
+    .headline-card { padding: 6px !important; gap: 2px !important; border-radius: 6px !important; }
+    .headline-card h3 { font-size: 10.5px !important; }
+    .headline-top span { font-size: 8px !important; padding: 2px 4px !important; }
+    .headline-top a { font-size: 9px !important; }
+    .headline-updated { font-size: 8px !important; }
+    .headline-item { grid-template-columns: 31px minmax(0, 1fr) !important; gap: 4px !important; padding: 2px 0 !important; }
+    .headline-time { font-size: 8px !important; }
+    .headline-title, .main-news .headline-title { font-size: 9.2px !important; line-height: 1.18 !important; }
+    .headline-source { font-size: 7.8px !important; }
+    .field-map-head { align-items: flex-start; flex-direction: column; gap: 3px !important; margin-bottom: 5px !important; }
+    .field-map-status { margin: 0 !important; font-size: 9.5px !important; }
+    .field-map-controls { grid-template-columns: 1fr auto !important; gap: 5px !important; margin-bottom: 6px !important; }
+    .field-map-frame { height: 145px !important; margin-bottom: 6px !important; border-radius: 5px !important; }
+    .map-shortcuts { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 4px; }
+    .map-shortcuts a { min-height: 28px; padding: 5px 3px; font-size: 8.8px; line-height: 1.05; display: grid; place-items: center; }
+    .calendar-grid { gap: 5px !important; }
+    .month-card { padding: 6px !important; border-radius: 6px !important; }
+    .month-card h3 { font-size: 12px !important; margin-bottom: 5px !important; }
+    .weekdays, .days { gap: 2px !important; }
+    .day-button { min-height: 24px !important; font-size: 10px !important; border-radius: 4px !important; }
+    .event-list { gap: 5px !important; }
+    .event-card { padding: 6px !important; border-radius: 6px !important; }
+    .event-card strong { font-size: 11px !important; }
+    .event-card p { font-size: 10px !important; line-height: 1.3 !important; }
+  }
+  @media (max-width: 390px) {
+    .weather-grid { grid-template-columns: 100px minmax(0, 1fr) !important; }
+    .temperature-block strong { font-size: 36px !important; }
     .news-grid.headline-mode { grid-template-columns: 1fr !important; }
     .headline-card.subsidy-card { grid-column: auto !important; }
-    .headline-item { grid-template-columns: 36px minmax(0, 1fr) !important; }
-    .headline-title { font-size: 10.8px !important; }
-    .field-map-head { align-items: flex-start; flex-direction: column; }
-    .field-map-controls { grid-template-columns: 1fr; }
-    .map-shortcuts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .map-shortcuts { grid-template-columns: repeat(4, minmax(0, 1fr)); }
   }
 `;
 document.head.appendChild(compactNewsStyle);
@@ -120,26 +177,46 @@ const mapKeywords = [
   "建機レンタル"
 ];
 
-const mapState = { coords: null };
+const mapState = { coords: null, keyword: "ホームセンター" };
 
 function currentMapArea() {
   const manual = document.querySelector("#mapAreaInput")?.value.trim();
   if (manual) return manual;
   const selectedWeather = document.querySelector("#locationSelect option:checked")?.textContent;
-  return selectedWeather || "福山市 常石";
+  return selectedWeather || "広島県福山市常石";
+}
+
+function mapQuery(keyword = mapState.keyword) {
+  if (mapState.coords) return `${keyword} near ${mapState.coords.lat},${mapState.coords.lon}`;
+  return `${currentMapArea()} ${keyword}`;
 }
 
 function mapUrl(keyword) {
-  const query = mapState.coords
-    ? `${keyword} near ${mapState.coords.lat},${mapState.coords.lon}`
-    : `${currentMapArea()} ${keyword}`;
-  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(mapQuery(keyword))}`;
+}
+
+function mapEmbedUrl(keyword = mapState.keyword) {
+  return `https://www.google.com/maps?q=${encodeURIComponent(mapQuery(keyword))}&output=embed`;
+}
+
+function updateMapFrame(keyword = mapState.keyword) {
+  mapState.keyword = keyword || "ホームセンター";
+  const frame = document.querySelector("#fieldMapFrame");
+  const status = document.querySelector("#mapStatus");
+  if (frame) frame.src = mapEmbedUrl(mapState.keyword);
+  if (status) status.textContent = mapState.coords
+    ? `現在地周辺の${mapState.keyword}を表示中。`
+    : `${currentMapArea()}周辺の${mapState.keyword}を表示中。`;
 }
 
 function renderMapLinks() {
   const box = document.querySelector("#mapShortcuts");
   if (!box) return;
-  box.innerHTML = mapKeywords.map((keyword) => `<a href="${mapUrl(keyword)}" target="_blank" rel="noopener">${keyword}</a>`).join("");
+  box.innerHTML = mapKeywords.map((keyword) => `<a href="${mapUrl(keyword)}" target="_blank" rel="noopener" data-map-keyword="${keyword}">${keyword}</a>`).join("");
+  box.querySelectorAll("[data-map-keyword]").forEach((link) => {
+    link.addEventListener("click", () => updateMapFrame(link.dataset.mapKeyword));
+  });
+  updateMapFrame(mapState.keyword);
 }
 
 function injectFieldMap() {
@@ -153,12 +230,13 @@ function injectFieldMap() {
   panel.innerHTML = `
     <div class="field-map-head">
       <div><p class="eyebrow">出張先</p><h2>近くの資材・工具マップ</h2></div>
-      <p class="field-map-status" id="mapStatus">地域名または現在地からGoogle Mapsを開きます。</p>
+      <p class="field-map-status" id="mapStatus">地域名または現在地からGoogle Mapsを表示します。</p>
     </div>
     <div class="field-map-controls">
       <input id="mapAreaInput" type="text" placeholder="例: 広島県福山市 / 倉敷市水島 / 現場住所">
-      <button type="button" id="useCurrentLocation">現在地を使う</button>
+      <button type="button" id="useCurrentLocation">現在地</button>
     </div>
+    <iframe id="fieldMapFrame" class="field-map-frame" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="近くの資材・工具マップ"></iframe>
     <div class="map-shortcuts" id="mapShortcuts"></div>
   `;
   newsPanel.insertAdjacentElement("afterend", panel);
@@ -179,13 +257,15 @@ function injectFieldMap() {
         lat: position.coords.latitude.toFixed(6),
         lon: position.coords.longitude.toFixed(6)
       };
-      if (status) status.textContent = "現在地から検索します。";
       renderMapLinks();
     }, () => {
       if (status) status.textContent = "現在地を取得できませんでした。地域名で検索してください。";
     }, { enableHighAccuracy: true, timeout: 8000 });
   });
-  document.querySelector("#locationSelect")?.addEventListener("change", renderMapLinks);
+  document.querySelector("#locationSelect")?.addEventListener("change", () => {
+    mapState.coords = null;
+    renderMapLinks();
+  });
   renderMapLinks();
 }
 
