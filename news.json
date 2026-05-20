@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T15:15:29.341Z",
+  "updatedAt": "2026-05-20T15:49:21.286Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -20,7 +20,7 @@
         "time": "05:00",
         "title": "山田ドビー、大型工作機械22台導入",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51cnByYlRBMGR4WFFCZy0xdHZ6RDlCREJZMV9VbkcwQ013cjJ1RzhtNzNvb2k0ZkFKdXJmWEprYlpoU2x1Nk14YkZmd0F0TVR3ZDZVSWxRVnViVUlvbXQ3UnloY05Wb1lEWWFIUUs4NmVydW9p?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03NzJqX1BCQmVab2FtQ2pucHJWc3hKN0laa0l4bXJscUIwendqQnA0TV84QmdBcTFGcDM1Y0xmaUE3Z25EYm8wLTNOa0JDMUNUeWVuMnpWVWNOOFU?oc=5",
         "publishedAt": "2026-05-19T20:00:00.000Z"
       },
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-05-20T03:50:33.000Z"
       },
       {
+        "time": "15:42",
+        "title": "三菱電機、パワー半導体の新製品投入 産業用機器向けインバーターの低消費電力化を後押し",
+        "source": "電波新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JSTl2U0JLMUR6TU9wNHprbmJEUlhCbmotUHlPbFFGRWdtSG1aWElnZHU5WVVLaXMwZmZPYnJRYVlnOEZKb1U5T1dLd200dlNzWVE?oc=5",
+        "publishedAt": "2026-05-20T06:42:05.000Z"
+      },
+      {
         "time": "11:30",
         "title": "【速報】日本郵便元社員逮捕 配送業務の委託先に便宜をはかり賄賂を受け取ったか 警視庁（2026年5月19日掲載）",
         "source": "日テレNEWS NNN",
@@ -50,13 +57,6 @@
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85ME11TmhnVnV4dE1pc1A5M05BTkM4NVB4UTFNN2I4TjNfSko3eUFBVk5oNnFXWWxEVFNUcWJMUEt2dUotR3drVGlGR0Z3M1FvLU8xUGRIa3puSUpqMjJQcmhn?oc=5",
         "publishedAt": "2026-05-20T03:44:00.000Z"
-      },
-      {
-        "time": "01:48",
-        "title": "パワー半導体「産業用NXタイプ 1.2kV IGBTモジュール」サンプル提供開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zTmxqSllZenBRbzJzbGR2dTh0RzVSR19wa1J5dVRKTDBERHNielZTYTltLXoxZE9vQ21aNHMzYU9mcC1YdE92cm1UNmpab1hqYzNydXBRVHYxS2t2QnhwMmhlbmZIa1pmX2NDOU1JdTVuOEh0Q0tuQTVFUQ?oc=5",
-        "publishedAt": "2026-05-19T16:48:26.000Z"
       }
     ],
     "worldHeadlines": [
