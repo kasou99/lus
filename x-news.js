@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-20T21:14:15.331Z",
+  "updatedAt": "2026-05-20T22:07:45.139Z",
   "items": [
     {
       "time": "06:07",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米 キューバのカストロ氏を起訴"
     },
     {
-      "time": "22:49",
-      "title": "ホルムズ タンカー含む26隻が通過",
+      "time": "06:37",
+      "title": "OpenAI 数週間内IPO非公開申請へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581028?source=rss",
-      "publishedAt": "2026-05-20T13:49:50.000Z",
-      "xQuery": "ホルムズ タンカー含む26隻が通過"
+      "url": "https://news.yahoo.co.jp/pickup/6581033?source=rss",
+      "publishedAt": "2026-05-20T21:37:39.000Z",
+      "xQuery": "OpenAI 数週間内IPO非公開申請へ"
     },
     {
       "time": "23:17",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "クマ追い払おうとし 女性転び骨折"
     },
     {
-      "time": "19:23",
-      "title": "キリン「一番搾り」など値下げ",
+      "time": "06:21",
+      "title": "全国最年少の女性市長 産休取得へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581000?source=rss",
-      "publishedAt": "2026-05-20T10:23:50.000Z",
-      "xQuery": "キリン「一番搾り」など値下げ"
+      "url": "https://news.yahoo.co.jp/pickup/6581032?source=rss",
+      "publishedAt": "2026-05-20T21:21:39.000Z",
+      "xQuery": "全国最年少の女性市長 産休取得へ"
     }
   ]
 };

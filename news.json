@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T21:14:14.217Z",
+  "updatedAt": "2026-05-20T22:07:44.385Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-05-20T00:24:00.000Z"
       },
       {
-        "time": "05:00",
+        "time": "06:22",
         "title": "牧野フライス、大型5軸MC短納期 山梨新工場が来月稼働",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nYVRFM01TbFlhZnpoNU9CcTJVUmtlRzNFWFJYdmpLWmZhdWVOem1TalFyb0RKXzZVTnYtSy14bk5qQmhKb0VFcDcwQ3ZXdDVPYUwySldaRkp0ckU?oc=5",
-        "publishedAt": "2026-05-20T20:00:49.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3NmtHazA1eTd6cm5GaFc5WEpkcXZHOGxLS3FKOE5OSnhISlVpeXg1ajE1ZDJoQ19xaXNzbG1Kclc0YlM4a25rTkUzRGNndzhyUVRmM3lSbC0?oc=5",
+        "publishedAt": "2026-05-20T21:22:17.000Z"
       },
       {
         "time": "15:42",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-05-20T11:08:21.000Z"
       },
       {
-        "time": "15:28",
-        "title": "「消えずの火」宮島の霊火堂全焼",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580957?source=rss",
-        "publishedAt": "2026-05-20T06:28:58.000Z"
-      },
-      {
         "time": "23:38",
         "title": "クマ追い払おうとし 女性転び骨折",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581030?source=rss",
         "publishedAt": "2026-05-20T14:38:08.000Z"
+      },
+      {
+        "time": "06:21",
+        "title": "全国最年少の女性市長 産休取得へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581032?source=rss",
+        "publishedAt": "2026-05-20T21:21:39.000Z"
       }
     ],
     "subsidyHeadlines": [
