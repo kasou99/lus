@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-05-19T23:31:42.060Z",
+  "updatedAt": "2026-05-20T01:10:39.728Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:24",
+        "title": "工作機械の上海拓璞数控科技が２０日香港上場、グレーで４７．８％高(サーチナ)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTWNVbFQxX1hRTjE1VEZCa1o2YWRBdkRJUlVvMnZLVGkyQlRidWdWdVRWdGFRY1VtYkhlYzhnRzJ0NXBYNTZJVmFXYXNCNm55VTNQa3ZKWWtkbUhobXY4ZV9oOV8wS1B6eVZORmpDOVpyU2ZVY1YyOGdDUzFqU3U2MHNONUpZa1k?oc=5",
+        "publishedAt": "2026-05-20T00:24:00.000Z"
+      },
       {
         "time": "05:00",
         "title": "芝浦機械、米国の超精密工作機械メーカーを子会社化",
@@ -17,18 +24,18 @@
         "publishedAt": "2026-05-19T21:03:55.000Z"
       },
       {
-        "time": "05:05",
-        "title": "エヌ・エス・エス、軸受用潤滑油100分の1 スピンドル試作",
+        "time": "08:48",
+        "title": "日本TCS、JAL系と戦略提携 AI活用 DX人材育成",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzN1JZUldvY0FLSTlET25WTzk2NDRwUWxUYk8zd3lJamo2R3lGUTRqUE10RjU1aG9mVDYyc3pMTUZsRHZHSWRRYzA3RGxPTmNoQ0ZiOHM2bmJtY0U?oc=5",
-        "publishedAt": "2026-05-19T20:05:50.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82enh2aUxaRTlUMHpZRnJZMVRIdTlVaW5oOUxReXo1Zmk3dVRPNl90SEJ5TUpyNFJTZWYyRTJVS0pzZnB0VlBZMjRWdjRHbHN6NmtvVWJDOFA4azg?oc=5",
+        "publishedAt": "2026-05-19T23:48:45.000Z"
       },
       {
-        "time": "04:47",
-        "title": "2033年までの機械工具オイル市場の予測CAGR13％の主要要因",
+        "time": "15:11",
+        "title": "産業用ロボットサーボモーター市場の展望2026-2033：包括的な市場規模と予測CAGR",
         "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wSDZDb0I5N1lSeFBneXp2MXF6WG5GSFhRYXQ0QXVvVVV4enQzbFFEaW5kUnZOeDlULUY2ZEtWNGh6dENtMkhXeU13?oc=5",
-        "publishedAt": "2026-05-19T19:47:31.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NN0RFaVNyYzVLOWJNT013YXN5VktCUG5qVWNSa2lkVXN6SVZzcDBxY3UzejRsRnRGOXZlNE5DSE94c1M1RHZ5WWZn?oc=5",
+        "publishedAt": "2026-05-19T06:11:32.000Z"
       },
       {
         "time": "12:13",
@@ -36,13 +43,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZThDUnF3V2pFaG9FUG94N3NiQURsSGJnRzVIT3RZSWxkNTQxVk1VUElOMnBJS3p5S2FEaVg1bjJrbjRWNEV2b284VmFXN1RfQ0lTekxranJQam5XalFUYXViMERVV3FkejFwRm1qWGRhRFFaQ2dUZXROR2VMb2hOUThTc3IwM094X0s1NmhNRnE?oc=5",
         "publishedAt": "2026-05-19T03:13:00.000Z"
-      },
-      {
-        "time": "05:52",
-        "title": "経営ひと言／東京都金属プレス工業会・増田靖治会長「効率化が必須」",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12dG5JQ1ZsdUlyR010MG42U05PY2F4Z0MxcnRyVzhJSUduZktOdVMwb1N4Y05Gdk9jS2pDT2pVUEdXRnBjVFJ6S1B3ZzZtaGhCOFl3bzhFTk1faFZWd2prVHJxOXJsMnRvS0twX1ZmUHplTjdHSFpVTWVZOA?oc=5",
-        "publishedAt": "2026-05-19T20:52:31.000Z"
       },
       {
         "time": "10:46",
@@ -105,6 +105,20 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:46",
+        "title": "東京株が一時6万円割れ 3週間ぶり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580910?source=rss",
+        "publishedAt": "2026-05-20T00:46:04.000Z"
+      },
+      {
+        "time": "08:34",
+        "title": "北海道新幹線の談合疑い 影響懸念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580901?source=rss",
+        "publishedAt": "2026-05-19T23:34:12.000Z"
+      },
+      {
         "time": "08:07",
         "title": "預金5割超が首都圏集中 相続要因",
         "source": "Yahoo!ニュース",
@@ -119,13 +133,6 @@
         "publishedAt": "2026-05-19T21:44:37.000Z"
       },
       {
-        "time": "19:03",
-        "title": "政府 夏の節電要請見送りへ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580840?source=rss",
-        "publishedAt": "2026-05-19T10:03:20.000Z"
-      },
-      {
         "time": "23:53",
         "title": "食品トレー 6月から相次ぎ値上げ",
         "source": "Yahoo!ニュース",
@@ -133,18 +140,11 @@
         "publishedAt": "2026-05-19T14:53:29.000Z"
       },
       {
-        "time": "19:49",
-        "title": "スターフライヤー厳重注意 国交省",
+        "time": "09:36",
+        "title": "矯正歯科が突然閉院 返金どうなる",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580848?source=rss",
-        "publishedAt": "2026-05-19T10:49:54.000Z"
-      },
-      {
-        "time": "08:09",
-        "title": "北京に「一蘭」酷似の店 波紋",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580896?source=rss",
-        "publishedAt": "2026-05-19T23:09:49.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580909?source=rss",
+        "publishedAt": "2026-05-20T00:36:33.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-05-19T22:21:55.000Z"
       },
       {
-        "time": "19:16",
-        "title": "栃木強殺 夫婦が事前に凶器準備か",
+        "time": "09:46",
+        "title": "磐越道バス事故 容疑者宅を捜索",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580843?source=rss",
-        "publishedAt": "2026-05-19T10:16:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580911?source=rss",
+        "publishedAt": "2026-05-20T00:46:47.000Z"
       },
       {
         "time": "06:23",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-05-19T14:26:54.000Z"
       },
       {
-        "time": "21:08",
-        "title": "津市の山林火災 消防車は近づけず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580858?source=rss",
-        "publishedAt": "2026-05-19T12:08:46.000Z"
-      },
-      {
         "time": "23:13",
         "title": "バイク教習中に事故 女性意識不明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6580876?source=rss",
         "publishedAt": "2026-05-19T14:13:52.000Z"
+      },
+      {
+        "time": "21:49",
+        "title": "車で警官20m引きずった疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580862?source=rss",
+        "publishedAt": "2026-05-19T12:49:09.000Z"
       }
     ],
     "subsidyHeadlines": [
