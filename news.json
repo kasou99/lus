@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T02:25:58.168Z",
+  "updatedAt": "2026-05-20T03:50:18.836Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTWNVbFQxX1hRTjE1VEZCa1o2YWRBdkRJUlVvMnZLVGkyQlRidWdWdVRWdGFRY1VtYkhlYzhnRzJ0NXBYNTZJVmFXYXNCNm55VTNQa3ZKWWtkbUhobXY4ZV9oOV8wS1B6eVZORmpDOVpyU2ZVY1YyOGdDUzFqU3U2MHNONUpZa1k?oc=5",
         "publishedAt": "2026-05-20T00:24:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "山田ドビー、大型工作機械22台導入",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43djNvcUNFRGR2VEd1T01ld0gzR1I4RGxoS08wQ0hIU2hGR2JGWHhLNy1Wbm45N3lTZFVkenN1VDFXanpoRm9jU09MbnluMkhCTVh4aUhmLS1QQQ?oc=5",
+        "publishedAt": "2026-05-19T20:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -24,6 +31,13 @@
         "publishedAt": "2026-05-19T21:03:55.000Z"
       },
       {
+        "time": "11:30",
+        "title": "【速報】日本郵便元社員逮捕 配送業務の委託先に便宜をはかり賄賂を受け取ったか 警視庁（2026年5月19日掲載）",
+        "source": "日テレNEWS NNN",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IelJnR2lCOEpKbWxxMzNWQ1diRi1VVVMycDZnVEJlLWJSMThmaDJGZUlmZmliRXBFUjFLV0VIZnNQUlpHUlRHY0twZlhxRWpEc1IzUTZpczJMeTFmNTY3NURGbmJtMXFsMlZPWDhSUjZrczE5SnZLU2VBcDE?oc=5",
+        "publishedAt": "2026-05-20T02:30:00.000Z"
+      },
+      {
         "time": "10:36",
         "title": "製紙大手6社の通期見通し、営業益下押し 中東情勢で原燃料費増加",
         "source": "日刊工業新聞",
@@ -38,20 +52,6 @@
         "publishedAt": "2026-05-19T06:11:32.000Z"
       },
       {
-        "time": "12:13",
-        "title": "日本経済新聞 印刷画面",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZThDUnF3V2pFaG9FUG94N3NiQURsSGJnRzVIT3RZSWxkNTQxVk1VUElOMnBJS3p5S2FEaVg1bjJrbjRWNEV2b284VmFXN1RfQ0lTekxranJQam5XalFUYXViMERVV3FkejFwRm1qWGRhRFFaQ2dUZXROR2VMb2hOUThTc3IwM094X0s1NmhNRnE?oc=5",
-        "publishedAt": "2026-05-19T03:13:00.000Z"
-      },
-      {
-        "time": "13:36",
-        "title": "設立５３年…宇多津町の「松川鉄工」破産開始決定 取引先の工場撤退で受注回復見込めず【香川】",
-        "source": "OHK 岡山放送",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDLUpZT2dYQU9kMEYzTl9MN2lfSlFfQnQydS1RenJtZFROa0dPdE01Um00dVZ1dFJhS2daekdLU3NpQk1Fc2xMY3kxbno5WHFRenlMemtPNDFER3hxT0dYbENYNGg?oc=5",
-        "publishedAt": "2026-05-19T04:36:21.000Z"
-      },
-      {
         "time": "18:15",
         "title": "電磁ブレーキ調査レポート：市場規模、産業分析、最新動向、予測2026-2032｜QYResearch",
         "source": "note",
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "11:02",
-        "title": "米大統領G7サミット出席へ 報道",
+        "time": "12:03",
+        "title": "米大統領 G7サミット出席の方針",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580920?source=rss",
-        "publishedAt": "2026-05-20T02:02:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580936?source=rss",
+        "publishedAt": "2026-05-20T03:03:27.000Z"
       },
       {
         "time": "08:20",
@@ -82,18 +82,18 @@
         "publishedAt": "2026-05-20T01:42:40.000Z"
       },
       {
-        "time": "07:34",
-        "title": "プーチン氏が北京到着 首脳会談へ",
+        "time": "12:48",
+        "title": "中露会談 イランやウ情勢を議論か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580891?source=rss",
-        "publishedAt": "2026-05-19T22:34:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580941?source=rss",
+        "publishedAt": "2026-05-20T03:48:07.000Z"
       },
       {
-        "time": "20:51",
-        "title": "ロシア 3日間の核演習開始と発表",
+        "time": "11:43",
+        "title": "NYで女性がマンホールに落ち死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580856?source=rss",
-        "publishedAt": "2026-05-19T11:51:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580931?source=rss",
+        "publishedAt": "2026-05-20T02:43:01.000Z"
       },
       {
         "time": "22:33",
@@ -149,11 +149,25 @@
     ],
     "localHeadlines": [
       {
-        "time": "07:21",
-        "title": "栃木強殺 複数Gが関与の可能性",
+        "time": "11:34",
+        "title": "住宅に母娘の遺体 家の外にも血痕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580889?source=rss",
-        "publishedAt": "2026-05-19T22:21:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580928?source=rss",
+        "publishedAt": "2026-05-20T02:34:32.000Z"
+      },
+      {
+        "time": "12:41",
+        "title": "日本郵便元社員を逮捕 収賄の疑い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580940?source=rss",
+        "publishedAt": "2026-05-20T03:41:11.000Z"
+      },
+      {
+        "time": "12:17",
+        "title": "女性死亡 ひき逃げ疑いで78歳逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580939?source=rss",
+        "publishedAt": "2026-05-20T03:17:54.000Z"
       },
       {
         "time": "09:46",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-05-20T01:26:17.000Z"
       },
       {
-        "time": "06:23",
-        "title": "行方不明の小4女児 23年続く捜査",
+        "time": "11:31",
+        "title": "80代男性 8.7億円の投資詐欺被害",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580884?source=rss",
-        "publishedAt": "2026-05-19T21:23:27.000Z"
-      },
-      {
-        "time": "23:26",
-        "title": "住宅に女性2人の遺体 複数刺し傷",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580878?source=rss",
-        "publishedAt": "2026-05-19T14:26:54.000Z"
-      },
-      {
-        "time": "23:13",
-        "title": "バイク教習中に事故 女性意識不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580876?source=rss",
-        "publishedAt": "2026-05-19T14:13:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580930?source=rss",
+        "publishedAt": "2026-05-20T02:31:40.000Z"
       }
     ],
     "subsidyHeadlines": [
