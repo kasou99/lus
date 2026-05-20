@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T03:50:18.836Z",
+  "updatedAt": "2026-05-20T05:31:06.665Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTWNVbFQxX1hRTjE1VEZCa1o2YWRBdkRJUlVvMnZLVGkyQlRidWdWdVRWdGFRY1VtYkhlYzhnRzJ0NXBYNTZJVmFXYXNCNm55VTNQa3ZKWWtkbUhobXY4ZV9oOV8wS1B6eVZORmpDOVpyU2ZVY1YyOGdDUzFqU3U2MHNONUpZa1k?oc=5",
         "publishedAt": "2026-05-20T00:24:00.000Z"
+      },
+      {
+        "time": "01:00",
+        "title": "設備保全・点検ノウハウをサービス化 プラント向け日常点検支援アプリ「RECOMOTI™」を販売開始 | 旭化成株式会社 - asahi-kasei.com",
+        "source": "asahi-kasei.com",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85aTNYUEpjREFLMjF6TDhycHpxOTRTNS11dl9COFphbm5lS1FieXdVcGY0WEtZcEhydElSdDBKNTdVRXE5bldmbk5UMXh1WHd0YWF4YWlXNkpaczY0d1E?oc=5",
+        "publishedAt": "2026-05-19T16:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -50,16 +57,16 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NN0RFaVNyYzVLOWJNT013YXN5VktCUG5qVWNSa2lkVXN6SVZzcDBxY3UzejRsRnRGOXZlNE5DSE94c1M1RHZ5WWZn?oc=5",
         "publishedAt": "2026-05-19T06:11:32.000Z"
-      },
-      {
-        "time": "18:15",
-        "title": "電磁ブレーキ調査レポート：市場規模、産業分析、最新動向、予測2026-2032｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0d04xZlA1RVJVMHBvT2JQWGZIRFIyQXI5UmxkUGJ4R3VhcHBieVpDQVRzMjdrM2t6RmU5MG9vTDdyZEZLakpPejl6UlNWMFM0NTlsUk5Gaw?oc=5",
-        "publishedAt": "2026-05-19T09:15:08.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "12:48",
+        "title": "中露会談 イランやウ情勢を議論か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580941?source=rss",
+        "publishedAt": "2026-05-20T03:48:07.000Z"
+      },
       {
         "time": "12:03",
         "title": "米大統領 G7サミット出席の方針",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6580922?source=rss",
         "publishedAt": "2026-05-20T01:42:40.000Z"
-      },
-      {
-        "time": "12:48",
-        "title": "中露会談 イランやウ情勢を議論か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580941?source=rss",
-        "publishedAt": "2026-05-20T03:48:07.000Z"
       },
       {
         "time": "11:43",
@@ -119,25 +119,18 @@
         "publishedAt": "2026-05-19T23:34:12.000Z"
       },
       {
-        "time": "08:07",
-        "title": "預金5割超が首都圏集中 相続要因",
+        "time": "13:02",
+        "title": "四国電力も法廷で無断録音 判明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580893?source=rss",
-        "publishedAt": "2026-05-19T23:07:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580942?source=rss",
+        "publishedAt": "2026-05-20T04:02:10.000Z"
       },
       {
-        "time": "06:44",
-        "title": "米長官 日銀利上げ望む可能性示唆",
+        "time": "13:25",
+        "title": "メガバンも参戦「高専生」争奪戦",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580886?source=rss",
-        "publishedAt": "2026-05-19T21:44:37.000Z"
-      },
-      {
-        "time": "23:53",
-        "title": "食品トレー 6月から相次ぎ値上げ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580881?source=rss",
-        "publishedAt": "2026-05-19T14:53:29.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580943?source=rss",
+        "publishedAt": "2026-05-20T04:25:17.000Z"
       },
       {
         "time": "09:36",
@@ -145,9 +138,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6580909?source=rss",
         "publishedAt": "2026-05-20T00:36:33.000Z"
+      },
+      {
+        "time": "11:27",
+        "title": "ココイチ価格に批判 でもなぜ強い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580925?source=rss",
+        "publishedAt": "2026-05-20T02:27:38.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "14:22",
+        "title": "栃木強殺 リアルタイムで指示か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6580950?source=rss",
+        "publishedAt": "2026-05-20T05:22:53.000Z"
+      },
       {
         "time": "11:34",
         "title": "住宅に母娘の遺体 家の外にも血痕",
@@ -170,18 +177,11 @@
         "publishedAt": "2026-05-20T03:17:54.000Z"
       },
       {
-        "time": "09:46",
-        "title": "磐越道バス事故 容疑者宅を捜索",
+        "time": "14:00",
+        "title": "放課後児童クラブで虐待5件 謝罪",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580911?source=rss",
-        "publishedAt": "2026-05-20T00:46:47.000Z"
-      },
-      {
-        "time": "10:26",
-        "title": "「消えずの火」がある霊火堂火事",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580918?source=rss",
-        "publishedAt": "2026-05-20T01:26:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580946?source=rss",
+        "publishedAt": "2026-05-20T05:00:47.000Z"
       },
       {
         "time": "11:31",
