@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T07:28:22.001Z",
+  "updatedAt": "2026-05-20T08:39:58.110Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -39,17 +39,10 @@
       },
       {
         "time": "11:30",
-        "title": "【速報】日本郵便元社員逮捕 配送業務の委託先に便宜をはかり賄賂を受け取ったか 警視庁（2026年5月19日掲載）",
+        "title": "【速報】日本郵便元社員逮捕 配送業務の委託先に便宜をはかり賄賂を受け取ったか 警視庁",
         "source": "日テレNEWS NNN",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IelJnR2lCOEpKbWxxMzNWQ1diRi1VVVMycDZnVEJlLWJSMThmaDJGZUlmZmliRXBFUjFLV0VIZnNQUlpHUlRHY0twZlhxRWpEc1IzUTZpczJMeTFmNTY3NURGbmJtMXFsMlZPWDhSUjZrczE5SnZLU2VBcDE?oc=5",
         "publishedAt": "2026-05-20T02:30:00.000Z"
-      },
-      {
-        "time": "09:43",
-        "title": "エヌ・エス・エス、軸受用潤滑油100分の1 スピンドル試作",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WckZIUFVGOExGd3Boa0EzbktScjRtYTZxbFZWUFhMbENYcWhKZ3RhMlJLZWhaMjhWQThraFRlZGxZcU1Kd1ZicDZ2cWxKMXY5Tm5rc3NVTjQ?oc=5",
-        "publishedAt": "2026-05-20T00:43:23.000Z"
       },
       {
         "time": "12:50",
@@ -57,6 +50,13 @@
         "source": "robot digest",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KbnlfYWFKS0tKM1lHSE42MTZCWTFnUHJpdFMzc1QyUEZwLWM1ZFFIMWEzNmFOb0tSS2dINVpSRmkzcmFqYU9UVk5LUEVURkpQalZxWUNPcWtVWTF5Sl9ZUUtRdXNKUm9IV21J?oc=5",
         "publishedAt": "2026-05-20T03:50:33.000Z"
+      },
+      {
+        "time": "05:05",
+        "title": "エヌ・エス・エス、軸受用潤滑油100分の1 スピンドル試作",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzN1JZUldvY0FLSTlET25WTzk2NDRwUWxUYk8zd3lJamo2R3lGUTRqUE10RjU1aG9mVDYyc3pMTUZsRHZHSWRRYzA3RGxPTmNoQ0ZiOHM2bmJtY0U?oc=5",
+        "publishedAt": "2026-05-19T20:05:50.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,11 +112,11 @@
         "publishedAt": "2026-05-20T06:55:46.000Z"
       },
       {
-        "time": "08:34",
-        "title": "北海道新幹線の談合疑い 影響懸念",
+        "time": "17:35",
+        "title": "「玉出」元役員逮捕 特別背任疑い",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580901?source=rss",
-        "publishedAt": "2026-05-19T23:34:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580978?source=rss",
+        "publishedAt": "2026-05-20T08:35:38.000Z"
       },
       {
         "time": "13:02",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-05-20T00:36:33.000Z"
       },
       {
-        "time": "11:27",
-        "title": "ココイチ価格に批判 でもなぜ強い",
+        "time": "17:23",
+        "title": "天然炭酸水が湧き出る町 移住が増",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580925?source=rss",
-        "publishedAt": "2026-05-20T02:27:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6580977?source=rss",
+        "publishedAt": "2026-05-20T08:23:04.000Z"
       }
     ],
     "localHeadlines": [
