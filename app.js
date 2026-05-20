@@ -1,19 +1,36 @@
 const locations = [
   { name: "広島県福山市常石", lat: 34.3867, lon: 133.3879 },
   { name: "広島県福山市", lat: 34.4859, lon: 133.3623 },
+  { name: "広島県福山市松永", lat: 34.4481, lon: 133.2589 },
+  { name: "広島県福山市神辺", lat: 34.5457, lon: 133.3792 },
+  { name: "広島県福山市駅家", lat: 34.5535, lon: 133.3314 },
+  { name: "広島県福山市新市", lat: 34.5555, lon: 133.2737 },
+  { name: "広島県福山市鞆町", lat: 34.3830, lon: 133.3814 },
   { name: "広島県尾道市", lat: 34.4089, lon: 133.2050 },
+  { name: "広島県尾道市因島", lat: 34.3078, lon: 133.1777 },
   { name: "広島県三原市", lat: 34.3974, lon: 133.0786 },
   { name: "広島県府中市", lat: 34.5683, lon: 133.2366 },
+  { name: "広島県世羅町", lat: 34.5868, lon: 133.0567 },
+  { name: "広島県東広島市", lat: 34.4266, lon: 132.7436 },
   { name: "広島県広島市", lat: 34.3853, lon: 132.4553 },
+  { name: "広島県呉市", lat: 34.2493, lon: 132.5658 },
   { name: "岡山県笠岡市", lat: 34.5072, lon: 133.5072 },
+  { name: "岡山県井原市", lat: 34.5977, lon: 133.4637 },
+  { name: "岡山県浅口市", lat: 34.5278, lon: 133.5847 },
+  { name: "岡山県里庄町", lat: 34.5135, lon: 133.5561 },
   { name: "岡山県倉敷市", lat: 34.5850, lon: 133.7722 },
+  { name: "岡山県倉敷市水島", lat: 34.5351, lon: 133.7379 },
+  { name: "岡山県総社市", lat: 34.6728, lon: 133.7467 },
   { name: "岡山県岡山市", lat: 34.6551, lon: 133.9195 },
   { name: "愛媛県今治市", lat: 34.0660, lon: 132.9978 },
+  { name: "愛媛県松山市", lat: 33.8392, lon: 132.7657 },
   { name: "香川県高松市", lat: 34.3428, lon: 134.0466 },
+  { name: "兵庫県姫路市", lat: 34.8151, lon: 134.6852 },
   { name: "大阪府大阪市", lat: 34.6937, lon: 135.5023 },
   { name: "愛知県名古屋市", lat: 35.1815, lon: 136.9066 },
   { name: "東京都千代田区", lat: 35.6812, lon: 139.7671 },
-  { name: "福岡県福岡市", lat: 33.5902, lon: 130.4017 }
+  { name: "福岡県福岡市", lat: 33.5902, lon: 130.4017 },
+  ...loadCustomLocations()
 ];
 
 const weatherCodes = {
@@ -88,6 +105,8 @@ const el = {
 init();
 
 function init() {
+  if (state.locationIndex < 0 || state.locationIndex >= locations.length) state.locationIndex = 0;
+
   el.todayLabel.textContent = new Intl.DateTimeFormat("ja-JP", {
     year: "numeric",
     month: "long",
@@ -96,6 +115,7 @@ function init() {
   }).format(new Date());
 
   renderLocationOptions();
+  installCustomLocationInput();
   renderCalendar();
   renderSelectedDate();
   renderAgenda();
@@ -166,8 +186,84 @@ function renderLocationOptions() {
   el.locationSelect.value = String(state.locationIndex);
 }
 
+function installCustomLocationInput() {
+  if (!el.locationSelect || document.querySelector("#customLocationInput")) return;
+  const row = document.createElement("div");
+  row.className = "custom-location-row";
+  row.innerHTML = `
+    <input id="customLocationInput" type="text" placeholder="地域を手入力 例: 広島県福山市御幸町">
+    <button id="addCustomLocation" type="button">追加</button>
+  `;
+  el.locationSelect.insertAdjacentElement("afterend", row);
+
+  const input = row.querySelector("#customLocationInput");
+  const button = row.querySelector("#addCustomLocation");
+  button.addEventListener("click", () => addCustomLocationFromText(input.value));
+  input.addEventListener("keydown", (event) => {
+    if (event.key === "Enter") {
+      event.preventDefault();
+      addCustomLocationFromText(input.value);
+    }
+  });
+}
+
+async function addCustomLocationFromText(value) {
+  const query = String(value || "").trim();
+  const input = document.querySelector("#customLocationInput");
+  const button = document.querySelector("#addCustomLocation");
+  if (!query) return;
+
+  if (button) {
+    button.disabled = true;
+    button.textContent = "検索中";
+  }
+
+  try {
+    const url = new URL("https://geocoding-api.open-meteo.com/v1/search");
+    url.search = new URLSearchParams({ name: query, count: "1", language: "ja", format: "json" }).toString();
+    const response = await fetch(url);
+    if (!response.ok) throw new Error("geocoding response error");
+    const data = await response.json();
+    const result = data.results?.[0];
+    if (!result) throw new Error("location not found");
+
+    const parts = [result.admin1, result.admin2, result.name].filter(Boolean);
+    const name = parts.length ? Array.from(new Set(parts)).join("") : query;
+    const location = {
+      name: name.includes("日本") ? name : name,
+      lat: Number(result.latitude),
+      lon: Number(result.longitude),
+      custom: true
+    };
+
+    const existingIndex = locations.findIndex((item) => item.name === location.name);
+    if (existingIndex >= 0) {
+      state.locationIndex = existingIndex;
+    } else {
+      locations.push(location);
+      state.locationIndex = locations.length - 1;
+      saveCustomLocations();
+      renderLocationOptions();
+    }
+    localStorage.setItem("lus-location-index", String(state.locationIndex));
+    el.locationSelect.value = String(state.locationIndex);
+    if (input) input.value = "";
+    fetchWeather();
+  } catch (error) {
+    if (input) input.value = query;
+    renderSyncStatus("地域を見つけられませんでした。市町村名や県名を入れて試してください。");
+  } finally {
+    if (button) {
+      button.disabled = false;
+      button.textContent = "追加";
+    }
+  }
+}
+
 async function fetchWeather() {
   const location = locations[state.locationIndex] || locations[0];
+  window.lusCurrentLocation = location;
+  window.dispatchEvent(new CustomEvent("lus-location-change", { detail: location }));
   el.locationName.textContent = location.name;
   el.weatherSummary.textContent = "天気を取得しています";
 
@@ -494,6 +590,21 @@ function loadEvents() {
 
 function saveEvents() {
   localStorage.setItem("lus-events", JSON.stringify(state.events));
+}
+
+function loadCustomLocations() {
+  try {
+    return JSON.parse(localStorage.getItem("lus-custom-locations") || "[]")
+      .filter((item) => item && item.name && Number.isFinite(Number(item.lat)) && Number.isFinite(Number(item.lon)))
+      .map((item) => ({ name: String(item.name), lat: Number(item.lat), lon: Number(item.lon), custom: true }));
+  } catch (error) {
+    return [];
+  }
+}
+
+function saveCustomLocations() {
+  const custom = locations.filter((location) => location.custom);
+  localStorage.setItem("lus-custom-locations", JSON.stringify(custom));
 }
 
 function formatDate(date) {
