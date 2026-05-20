@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-20T15:12:48.359Z",
+  "updatedAt": "2026-05-20T15:15:30.108Z",
   "items": [
     {
       "time": "22:04",
@@ -48,18 +48,18 @@ window.LUS_X_NEWS = {
   const data = window.LUS_X_NEWS || { items: [] };
 
   function escapeX(value) {
-    return String(value || "").replace(/[&<>"']/g, (char) => ({
-      "&": "&amp;",
-      "<": "&lt;",
-      ">": "&gt;",
-      "\\"": "&quot;",
-      "'": "&#039;"
-    }[char]));
+    return String(value || "").replace(/[&<>"']/g, (char) => {
+      if (char === "&") return "&amp;";
+      if (char === "<") return "&lt;";
+      if (char === ">") return "&gt;";
+      if (char === '"') return "&quot;";
+      return "&#039;";
+    });
   }
 
   function xSearchUrl(item) {
     const query = item.xQuery || item.originalTitle || item.title || "";
-    return "https://x.com/search?q=" + encodeURIComponent("\\"" + query + "\\" lang:ja") + "&src=typed_query&f=live";
+    return "https://x.com/search?q=" + encodeURIComponent(query + " lang:ja") + "&src=typed_query&f=live";
   }
 
   function render() {
