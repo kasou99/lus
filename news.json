@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T01:11:27.288Z",
+  "updatedAt": "2026-05-21T02:26:49.609Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-05-20T06:42:05.000Z"
       },
       {
+        "time": "19:01",
+        "title": "キーエンス、売上高1兆1692億円 国内への新商品の投入効果、北中南米・アジアも堅調",
+        "source": "オートメーション新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KYWFpc2t0bkVhcXlsRHNUVW9hQ01vTGlPQ3JHODFXWW80MThiUFpzOG83clBnVi1IUm5LN1ZudmdTTGFEUWh3aEJDbWtpVmhKdjVNUmlnS0tkZw?oc=5",
+        "publishedAt": "2026-05-20T10:01:06.000Z"
+      },
+      {
         "time": "15:30",
         "title": "横型多穴ドリル盤の世界市場（2026年～2032年）、市場規模（半自動、自動）・分析レポートを発表",
         "source": "アットプレス",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLeW04TFZhWTJ1c1lCNThGdVNUaEN4XzA1N2I3bF9NU0JkZGozbnB1b0ZLamxkQXdEeHBBc0FtY1ZLWUljWnZiUzdkTDhnM3Nocy1xRQ?oc=5",
         "publishedAt": "2026-05-20T16:45:18.000Z"
-      },
-      {
-        "time": "12:58",
-        "title": "[特別企画 ロボット切削の最前線vol.3]大型ワークを省スペースで／桜井製作所",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVY0o3Qnc3VkNiWjdwcGtFMkM5LXdYYjVRLVB3TlJueUt6R0doZi12NEwtNFVpSTQzTFlSVEFOb3RFNUJwY1A3dWJrYWVhaE81aGRrVXBCZ2pnRFNrdTRJaUZkRFRnNmxoNVYw?oc=5",
-        "publishedAt": "2026-05-20T03:58:48.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581031?source=rss",
         "publishedAt": "2026-05-20T21:07:06.000Z"
+      },
+      {
+        "time": "11:20",
+        "title": "中国で切り付け 在留邦人は不安",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581064?source=rss",
+        "publishedAt": "2026-05-21T02:20:14.000Z"
       },
       {
         "time": "20:47",
@@ -94,22 +101,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581028?source=rss",
         "publishedAt": "2026-05-20T13:49:50.000Z"
-      },
-      {
-        "time": "21:50",
-        "title": "MANGO創業者死亡 殺人事件捜査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581020?source=rss",
-        "publishedAt": "2026-05-20T12:50:56.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "09:55",
-        "title": "日経平均上昇 一時6万円台を回復",
+        "time": "10:15",
+        "title": "日経平均 一時2000円超上昇",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581056?source=rss",
-        "publishedAt": "2026-05-21T00:55:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581060?source=rss",
+        "publishedAt": "2026-05-21T01:15:25.000Z"
+      },
+      {
+        "time": "10:25",
+        "title": "中東からの原油輸入量67%減 4月",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581058?source=rss",
+        "publishedAt": "2026-05-21T01:25:35.000Z"
       },
       {
         "time": "07:30",
@@ -133,13 +140,6 @@
         "publishedAt": "2026-05-20T13:34:29.000Z"
       },
       {
-        "time": "19:23",
-        "title": "キリン「一番搾り」など値下げ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581000?source=rss",
-        "publishedAt": "2026-05-20T10:23:50.000Z"
-      },
-      {
         "time": "07:49",
         "title": "角上魚類「魚離れ」でも好調の訳",
         "source": "Yahoo!ニュース",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "23:17",
-        "title": "栃木強殺 被害者の飼い犬も殺害か",
+        "time": "10:54",
+        "title": "栃木強殺 容疑者夫婦の自宅捜索",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581029?source=rss",
-        "publishedAt": "2026-05-20T14:17:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581061?source=rss",
+        "publishedAt": "2026-05-21T01:54:39.000Z"
       },
       {
         "time": "08:34",
@@ -170,11 +170,11 @@
         "publishedAt": "2026-05-20T22:20:52.000Z"
       },
       {
-        "time": "07:16",
-        "title": "無免許で死亡ひき逃げ疑い 逮捕",
+        "time": "10:37",
+        "title": "警察署で男が液体まく 6人搬送",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581034?source=rss",
-        "publishedAt": "2026-05-20T22:16:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581059?source=rss",
+        "publishedAt": "2026-05-21T01:37:39.000Z"
       },
       {
         "time": "09:33",
