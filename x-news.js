@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-20T23:36:28.277Z",
+  "updatedAt": "2026-05-21T01:11:28.530Z",
   "items": [
     {
-      "time": "08:03",
-      "title": "21日 関東～近畿で警報級大雨恐れ",
+      "time": "09:04",
+      "title": "税額控除 当面給付に一本化の方向",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581045?source=rss",
-      "publishedAt": "2026-05-20T23:03:32.000Z",
-      "xQuery": "21日 関東～近畿で警報級大雨恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6581052?source=rss",
+      "publishedAt": "2026-05-21T00:04:36.000Z",
+      "xQuery": "税額控除 当面給付に一本化の方向"
     },
     {
-      "time": "07:26",
-      "title": "民事裁判の手続き 全面デジタル化",
+      "time": "09:55",
+      "title": "日経平均上昇 一時6万円台を回復",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581038?source=rss",
-      "publishedAt": "2026-05-20T22:26:48.000Z",
-      "xQuery": "民事裁判の手続き 全面デジタル化"
+      "url": "https://news.yahoo.co.jp/pickup/6581056?source=rss",
+      "publishedAt": "2026-05-21T00:55:42.000Z",
+      "xQuery": "日経平均上昇 一時6万円台を回復"
     },
     {
-      "time": "07:30",
-      "title": "米NVIDIA純利益3倍超 2～4月期",
+      "time": "08:34",
+      "title": "警棒で失明 元少年と沖縄県示談へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581037?source=rss",
-      "publishedAt": "2026-05-20T22:30:12.000Z",
-      "xQuery": "米NVIDIA純利益3倍超 2～4月期"
+      "url": "https://news.yahoo.co.jp/pickup/6581049?source=rss",
+      "publishedAt": "2026-05-20T23:34:29.000Z",
+      "xQuery": "警棒で失明 元少年と沖縄県示談へ"
     },
     {
-      "time": "07:16",
-      "title": "無免許で死亡ひき逃げ疑い 逮捕",
+      "time": "09:33",
+      "title": "覆面パト装い飲酒運転疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581034?source=rss",
-      "publishedAt": "2026-05-20T22:16:59.000Z",
-      "xQuery": "無免許で死亡ひき逃げ疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6581054?source=rss",
+      "publishedAt": "2026-05-21T00:33:31.000Z",
+      "xQuery": "覆面パト装い飲酒運転疑い 逮捕"
     },
     {
-      "time": "07:20",
-      "title": "薬の処方ミス 難病発症し患者死亡",
+      "time": "08:30",
+      "title": "准教授が約半年無断欠勤 懲戒解雇",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581035?source=rss",
-      "publishedAt": "2026-05-20T22:20:52.000Z",
-      "xQuery": "薬の処方ミス 難病発症し患者死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6581048?source=rss",
+      "publishedAt": "2026-05-20T23:30:10.000Z",
+      "xQuery": "准教授が約半年無断欠勤 懲戒解雇"
     }
   ]
 };

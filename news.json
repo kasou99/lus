@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T23:36:27.213Z",
+  "updatedAt": "2026-05-21T01:11:27.288Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-05-20T15:00:00.000Z"
       },
       {
-        "time": "09:24",
-        "title": "工作機械の上海拓璞数控科技が２０日香港上場、グレーで４７．８％高(サーチナ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTWNVbFQxX1hRTjE1VEZCa1o2YWRBdkRJUlVvMnZLVGkyQlRidWdWdVRWdGFRY1VtYkhlYzhnRzJ0NXBYNTZJVmFXYXNCNm55VTNQa3ZKWWtkbUhobXY4ZV9oOV8wS1B6eVZORmpDOVpyU2ZVY1YyOGdDUzFqU3U2MHNONUpZa1k?oc=5",
-        "publishedAt": "2026-05-20T00:24:00.000Z"
-      },
-      {
         "time": "06:22",
         "title": "牧野フライス、大型5軸MC短納期 山梨新工場が来月稼働",
         "source": "日刊工業新聞",
@@ -45,6 +38,13 @@
         "publishedAt": "2026-05-20T06:42:05.000Z"
       },
       {
+        "time": "15:30",
+        "title": "横型多穴ドリル盤の世界市場（2026年～2032年）、市場規模（半自動、自動）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tMGs3V0lOY2d0NG5CY09IYnhsWFlkd3ZSaFM0dnZQMG5mdklSeHZmZ0hUNmNyVjRYX1VrS1JyVWx6TGxLMmMyblJ0TzVCQWc?oc=5",
+        "publishedAt": "2026-05-20T06:30:00.000Z"
+      },
+      {
         "time": "01:45",
         "title": "デルタ電子、DINレール型産業用電源の新製品を発売",
         "source": "ニコニコニュース",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-05-20T16:45:18.000Z"
       },
       {
-        "time": "11:30",
-        "title": "【速報】日本郵便元社員逮捕 配送業務の委託先に便宜をはかり賄賂を受け取ったか 警視庁（2026年5月19日掲載）",
-        "source": "日テレNEWS NNN",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IelJnR2lCOEpKbWxxMzNWQ1diRi1VVVMycDZnVEJlLWJSMThmaDJGZUlmZmliRXBFUjFLV0VIZnNQUlpHUlRHY0twZlhxRWpEc1IzUTZpczJMeTFmNTY3NURGbmJtMXFsMlZPWDhSUjZrczE5SnZLU2VBcDE?oc=5",
-        "publishedAt": "2026-05-20T02:30:00.000Z"
+        "time": "12:58",
+        "title": "[特別企画 ロボット切削の最前線vol.3]大型ワークを省スペースで／桜井製作所",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVY0o3Qnc3VkNiWjdwcGtFMkM5LXdYYjVRLVB3TlJueUt6R0doZi12NEwtNFVpSTQzTFlSVEFOb3RFNUJwY1A3dWJrYWVhaE81aGRrVXBCZ2pnRFNrdTRJaUZkRFRnNmxoNVYw?oc=5",
+        "publishedAt": "2026-05-20T03:58:48.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:55",
+        "title": "日経平均上昇 一時6万円台を回復",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581056?source=rss",
+        "publishedAt": "2026-05-21T00:55:42.000Z"
+      },
+      {
         "time": "07:30",
         "title": "米NVIDIA純利益3倍超 2～4月期",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6580991?source=rss",
         "publishedAt": "2026-05-20T10:32:22.000Z"
-      },
-      {
-        "time": "17:50",
-        "title": "新幹線談合疑い JR北社長が謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580980?source=rss",
-        "publishedAt": "2026-05-20T08:50:54.000Z"
       },
       {
         "time": "22:34",
@@ -148,13 +148,6 @@
       }
     ],
     "localHeadlines": [
-      {
-        "time": "22:27",
-        "title": "強殺 当日まで普通のバイトかと",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581024?source=rss",
-        "publishedAt": "2026-05-20T13:27:01.000Z"
-      },
       {
         "time": "23:17",
         "title": "栃木強殺 被害者の飼い犬も殺害か",
@@ -184,11 +177,18 @@
         "publishedAt": "2026-05-20T22:16:59.000Z"
       },
       {
-        "time": "23:38",
-        "title": "クマ追い払おうとし 女性転び骨折",
+        "time": "09:33",
+        "title": "覆面パト装い飲酒運転疑い 逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581030?source=rss",
-        "publishedAt": "2026-05-20T14:38:08.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581054?source=rss",
+        "publishedAt": "2026-05-21T00:33:31.000Z"
+      },
+      {
+        "time": "08:38",
+        "title": "千葉県が人口減少 1920年以降で初",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581051?source=rss",
+        "publishedAt": "2026-05-20T23:38:21.000Z"
       }
     ],
     "subsidyHeadlines": [
