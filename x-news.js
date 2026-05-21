@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-21T22:03:05.426Z",
+  "updatedAt": "2026-05-21T22:54:17.430Z",
   "items": [
     {
       "time": "23:45",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "神戸山口組長宅 競売で所有権移転"
     },
     {
-      "time": "22:02",
-      "title": "NHK受信契約巡り 岐阜知事が要請",
+      "time": "07:24",
+      "title": "女性職員にセクハラ 市長辞職意向",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581146?source=rss",
-      "publishedAt": "2026-05-21T13:02:33.000Z",
-      "xQuery": "NHK受信契約巡り 岐阜知事が要請"
+      "url": "https://news.yahoo.co.jp/pickup/6581163?source=rss",
+      "publishedAt": "2026-05-21T22:24:38.000Z",
+      "xQuery": "女性職員にセクハラ 市長辞職意向"
     }
   ]
 };
