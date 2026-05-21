@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T07:32:25.343Z",
+  "updatedAt": "2026-05-21T09:20:11.561Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,20 @@
         "source": "オートメーション新聞",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ekpiWW5ZZl91M2hOS3lZa3FLZVBnbXpuaFEwWm4yZTZfRHlCaTVVc1VvWnQ1d21sUWVGOUh1RzN0dDd3TUllX0FiWlhhQk5ueTlYSGlZRDVEZw?oc=5",
         "publishedAt": "2026-05-21T07:03:09.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "生産ライン 競争力の源泉（105）山田ドビー 大型工作機械22台導入",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzMFBvdjZvMmFPSlZiX21tdmN4dHNGcmhDOGFmOWV5aTlRS093Q1dsRTczbHItUWJGWnF1TV9BT01UZjA0QmkxTFp0RTBqYzh6bXV6eXZPaU4yeFE?oc=5",
+        "publishedAt": "2026-05-20T20:00:00.000Z"
+      },
+      {
+        "time": "17:34",
+        "title": "「ドイツ経済は中国にのみ込まれる」 欧州報告書が警鐘",
+        "source": "NewSphere",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ma0ZfcWJDWmVnVFdmalRCbXF1Ujl3Yk9ncEw2dWtEYjluNUFvcGVIWXVybzg0bzVoTm94RHVzVWFoZ1FtZlpWSUdMZHdSSkgyX3RJT284TTA?oc=5",
+        "publishedAt": "2026-05-21T08:34:59.000Z"
       },
       {
         "time": "06:04",
@@ -43,20 +57,6 @@
         "source": "オリコンニュース",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xdFo4LVZvTm5LWU9waFZ4VnpoTmdnemt5ZkNmM00xZ2RzQVM4V3ozZTJUSS00NWQ3V2RCQ19iT1lidkdWejE3ZW0tT3VkQWVjN1U1ZE9HTHRCdw?oc=5",
         "publishedAt": "2026-05-20T16:07:09.000Z"
-      },
-      {
-        "time": "01:45",
-        "title": "デルタ電子、DINレール型産業用電源の新製品を発売",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLeW04TFZhWTJ1c1lCNThGdVNUaEN4XzA1N2I3bF9NU0JkZGozbnB1b0ZLamxkQXdEeHBBc0FtY1ZLWUljWnZiUzdkTDhnM3Nocy1xRQ?oc=5",
-        "publishedAt": "2026-05-20T16:45:18.000Z"
-      },
-      {
-        "time": "19:01",
-        "title": "キーエンス、売上高1兆1692億円 国内への新商品の投入効果、北中南米・アジアも堅調",
-        "source": "オートメーション新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KYWFpc2t0bkVhcXlsRHNUVW9hQ01vTGlPQ3JHODFXWW80MThiUFpzOG83clBnVi1IUm5LN1ZudmdTTGFEUWh3aEJDbWtpVmhKdjVNUmlnS0tkZw?oc=5",
-        "publishedAt": "2026-05-20T10:01:06.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-05-21T06:16:21.000Z"
       },
       {
+        "time": "17:11",
+        "title": "新幹線のぞみ 三連休も全席指定席",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581114?source=rss",
+        "publishedAt": "2026-05-21T08:11:48.000Z"
+      },
+      {
         "time": "11:42",
         "title": "森永製菓 キャラメル2商品を休売",
         "source": "Yahoo!ニュース",
@@ -138,29 +145,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581090?source=rss",
         "publishedAt": "2026-05-21T04:50:40.000Z"
-      },
-      {
-        "time": "13:26",
-        "title": "ハーフパンツ勤務巡り 都庁が説明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581084?source=rss",
-        "publishedAt": "2026-05-21T04:26:42.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "17:57",
+        "title": "動物園職員 殺人容疑で再逮捕方針",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581119?source=rss",
+        "publishedAt": "2026-05-21T08:57:39.000Z"
+      },
       {
         "time": "12:12",
         "title": "スカウトGトップ 起訴内容認める",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581072?source=rss",
         "publishedAt": "2026-05-21T03:12:40.000Z"
-      },
-      {
-        "time": "10:54",
-        "title": "栃木強殺 容疑者夫婦の自宅捜索",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581061?source=rss",
-        "publishedAt": "2026-05-21T01:54:39.000Z"
       },
       {
         "time": "15:14",
@@ -170,11 +170,11 @@
         "publishedAt": "2026-05-21T06:14:14.000Z"
       },
       {
-        "time": "13:52",
-        "title": "カンボジアに女性を誘拐疑い 逮捕",
+        "time": "17:16",
+        "title": "事故起こした運転手逃走 5人搬送",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581089?source=rss",
-        "publishedAt": "2026-05-21T04:52:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581116?source=rss",
+        "publishedAt": "2026-05-21T08:16:54.000Z"
       },
       {
         "time": "16:09",

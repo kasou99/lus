@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-21T07:32:26.309Z",
+  "updatedAt": "2026-05-21T09:20:12.361Z",
   "items": [
     {
-      "time": "15:09",
-      "title": "2月の衆院選は「合憲」東京高裁",
+      "time": "16:21",
+      "title": "高市内閣の支持率は横ばい 時事",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581098?source=rss",
-      "publishedAt": "2026-05-21T06:09:08.000Z",
-      "xQuery": "2月の衆院選は「合憲」東京高裁"
+      "url": "https://news.yahoo.co.jp/pickup/6581108?source=rss",
+      "publishedAt": "2026-05-21T07:21:01.000Z",
+      "xQuery": "高市内閣の支持率は横ばい 時事"
     },
     {
-      "time": "14:35",
-      "title": "江田憲司氏 政界引退を表明",
+      "time": "17:57",
+      "title": "動物園職員 殺人容疑で再逮捕方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581094?source=rss",
-      "publishedAt": "2026-05-21T05:35:53.000Z",
-      "xQuery": "江田憲司氏 政界引退を表明"
-    },
-    {
-      "time": "15:14",
-      "title": "圏央道で事故 8人搬送うち1人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581100?source=rss",
-      "publishedAt": "2026-05-21T06:14:14.000Z",
-      "xQuery": "圏央道で事故 8人搬送うち1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6581119?source=rss",
+      "publishedAt": "2026-05-21T08:57:39.000Z",
+      "xQuery": "動物園職員 殺人容疑で再逮捕方針"
     },
     {
       "time": "15:58",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ナフサ不足 スーパーの風景が一変"
     },
     {
-      "time": "16:01",
-      "title": "薬服用後20人死亡 注意呼びかけへ",
+      "time": "16:34",
+      "title": "服用後20人死亡の治療薬 注意喚起",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581105?source=rss",
-      "publishedAt": "2026-05-21T07:01:50.000Z",
-      "xQuery": "薬服用後20人死亡 注意呼びかけへ"
+      "url": "https://news.yahoo.co.jp/pickup/6581110?source=rss",
+      "publishedAt": "2026-05-21T07:34:38.000Z",
+      "xQuery": "服用後20人死亡の治療薬 注意喚起"
+    },
+    {
+      "time": "18:04",
+      "title": "官邸官僚 キー局記者に不適切行為",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581122?source=rss",
+      "publishedAt": "2026-05-21T09:04:02.000Z",
+      "xQuery": "官邸官僚 キー局記者に不適切行為"
     }
   ]
 };
