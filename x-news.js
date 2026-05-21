@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-21T03:51:42.589Z",
+  "updatedAt": "2026-05-21T05:34:34.208Z",
   "items": [
     {
-      "time": "12:44",
-      "title": "夏の電気ガス補助 5000億円で調整",
+      "time": "12:01",
+      "title": "習主席が近く訪朝か 韓国側注視",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581074?source=rss",
-      "publishedAt": "2026-05-21T03:44:48.000Z",
-      "xQuery": "夏の電気ガス補助 5000億円で調整"
+      "url": "https://news.yahoo.co.jp/pickup/6581071?source=rss",
+      "publishedAt": "2026-05-21T03:01:40.000Z",
+      "xQuery": "習主席が近く訪朝か 韓国側注視"
     },
     {
-      "time": "08:40",
-      "title": "エボラ ワクチン開発に数カ月か",
+      "time": "11:20",
+      "title": "中国で切り付け 在留邦人は不安",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581050?source=rss",
-      "publishedAt": "2026-05-20T23:40:30.000Z",
-      "xQuery": "エボラ ワクチン開発に数カ月か"
+      "url": "https://news.yahoo.co.jp/pickup/6581064?source=rss",
+      "publishedAt": "2026-05-21T02:20:14.000Z",
+      "xQuery": "中国で切り付け 在留邦人は不安"
     },
     {
-      "time": "12:12",
-      "title": "スカウトGトップ 起訴内容認める",
+      "time": "13:23",
+      "title": "法廷内の無断録音 東電でも発覚",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581072?source=rss",
-      "publishedAt": "2026-05-21T03:12:40.000Z",
-      "xQuery": "スカウトGトップ 起訴内容認める"
+      "url": "https://news.yahoo.co.jp/pickup/6581085?source=rss",
+      "publishedAt": "2026-05-21T04:23:03.000Z",
+      "xQuery": "法廷内の無断録音 東電でも発覚"
     },
     {
       "time": "11:42",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "森永製菓 キャラメル2商品を休売"
     },
     {
-      "time": "11:52",
-      "title": "ウルトラマン 中国での収入大幅減",
+      "time": "13:50",
+      "title": "酒税改正へ ビール業界競争変化か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581068?source=rss",
-      "publishedAt": "2026-05-21T02:52:51.000Z",
-      "xQuery": "ウルトラマン 中国での収入大幅減"
+      "url": "https://news.yahoo.co.jp/pickup/6581090?source=rss",
+      "publishedAt": "2026-05-21T04:50:40.000Z",
+      "xQuery": "酒税改正へ ビール業界競争変化か"
     }
   ]
 };

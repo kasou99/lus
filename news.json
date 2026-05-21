@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-05-21T03:51:41.846Z",
+  "updatedAt": "2026-05-21T05:34:33.548Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "05:04",
-        "title": "生産ライン 競争力の源泉（105）山田ドビー 大型工作機械22台導入",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzMFBvdjZvMmFPSlZiX21tdmN4dHNGcmhDOGFmOWV5aTlRS093Q1dsRTczbHItUWJGWnF1TV9BT01UZjA0QmkxTFp0RTBqYzh6bXV6eXZPaU4yeFE?oc=5",
-        "publishedAt": "2026-05-20T20:04:18.000Z"
-      },
       {
         "time": "06:04",
         "title": "[特別企画 ロボット切削の最前線vol.4]“常識”にとらわれない／トライエンジニアリング",
@@ -31,6 +24,20 @@
         "publishedAt": "2026-05-20T21:22:17.000Z"
       },
       {
+        "time": "01:07",
+        "title": "元TOKIO・長瀬智也、今後の俳優活動に本音 “友人”滝沢眞規子の問いかけに「もちろん」と語るも軽々しく言い切れない理由",
+        "source": "オリコンニュース",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xdFo4LVZvTm5LWU9waFZ4VnpoTmdnemt5ZkNmM00xZ2RzQVM4V3ozZTJUSS00NWQ3V2RCQ19iT1lidkdWejE3ZW0tT3VkQWVjN1U1ZE9HTHRCdw?oc=5",
+        "publishedAt": "2026-05-20T16:07:09.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "【産官学連携で臨む酪農DX】「小型・低コストの餌寄せロボット」の開発がスマート農業技術の開発・供給に関する事業に採択",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aM2ZJZmpqSmFVYzVNMUtGT3ZOTk5fS1FOb3dhczlGUS0zNnhrazYzT1JpdGtZRldNa1ZtMkItWTczUjBITVRtcmZKRkRPTnhEdWYwbnRNc21yZGdpRk9tbHhtU3plRkZCa0NkOWUtRjFsbzlMNlpfVENhYw?oc=5",
+        "publishedAt": "2026-05-21T04:00:44.000Z"
+      },
+      {
         "time": "19:01",
         "title": "キーエンス、売上高1兆1692億円 国内への新商品の投入効果、北中南米・アジアも堅調",
         "source": "オートメーション新聞",
@@ -43,13 +50,6 @@
         "source": "電波新聞デジタル",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JSTl2U0JLMUR6TU9wNHprbmJEUlhCbmotUHlPbFFGRWdtSG1aWElnZHU5WVVLaXMwZmZPYnJRYVlnOEZKb1U5T1dLd200dlNzWVE?oc=5",
         "publishedAt": "2026-05-20T06:42:05.000Z"
-      },
-      {
-        "time": "01:45",
-        "title": "デルタ電子、DINレール型産業用電源の新製品を発売",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLeW04TFZhWTJ1c1lCNThGdVNUaEN4XzA1N2I3bF9NU0JkZGozbnB1b0ZLamxkQXdEeHBBc0FtY1ZLWUljWnZiUzdkTDhnM3Nocy1xRQ?oc=5",
-        "publishedAt": "2026-05-20T16:45:18.000Z"
       },
       {
         "time": "15:30",
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:15",
-        "title": "日経平均 一時2000円超上昇",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581060?source=rss",
-        "publishedAt": "2026-05-21T01:15:25.000Z"
-      },
-      {
         "time": "10:25",
         "title": "中東からの原油輸入量67%減 4月",
         "source": "Yahoo!ニュース",
@@ -119,18 +112,11 @@
         "publishedAt": "2026-05-21T01:25:35.000Z"
       },
       {
-        "time": "07:30",
-        "title": "米NVIDIA純利益3倍超 2～4月期",
+        "time": "13:23",
+        "title": "法廷内の無断録音 東電でも発覚",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581037?source=rss",
-        "publishedAt": "2026-05-20T22:30:12.000Z"
-      },
-      {
-        "time": "22:34",
-        "title": "SOMPOHDが社名を変更へ 3回目",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581025?source=rss",
-        "publishedAt": "2026-05-20T13:34:29.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581085?source=rss",
+        "publishedAt": "2026-05-21T04:23:03.000Z"
       },
       {
         "time": "07:49",
@@ -145,6 +131,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581067?source=rss",
         "publishedAt": "2026-05-21T02:42:20.000Z"
+      },
+      {
+        "time": "13:50",
+        "title": "酒税改正へ ビール業界競争変化か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581090?source=rss",
+        "publishedAt": "2026-05-21T04:50:40.000Z"
+      },
+      {
+        "time": "13:26",
+        "title": "ハーフパンツ勤務巡り 都庁が説明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581084?source=rss",
+        "publishedAt": "2026-05-21T04:26:42.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-05-21T01:37:39.000Z"
       },
       {
+        "time": "13:52",
+        "title": "カンボジアに女性を誘拐疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581089?source=rss",
+        "publishedAt": "2026-05-21T04:52:24.000Z"
+      },
+      {
         "time": "09:33",
         "title": "覆面パト装い飲酒運転疑い 逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581054?source=rss",
         "publishedAt": "2026-05-21T00:33:31.000Z"
-      },
-      {
-        "time": "08:38",
-        "title": "千葉県が人口減少 1920年以降で初",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581051?source=rss",
-        "publishedAt": "2026-05-20T23:38:21.000Z"
       }
     ],
     "subsidyHeadlines": [
