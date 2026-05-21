@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-21T12:07:30.352Z",
+  "updatedAt": "2026-05-21T13:38:40.814Z",
   "items": [
     {
-      "time": "19:23",
-      "title": "首相を支援 340人超の巨大議連",
+      "time": "22:09",
+      "title": "補正予算3兆円程度で調整へ 政府",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581128?source=rss",
-      "publishedAt": "2026-05-21T10:23:26.000Z",
-      "xQuery": "首相を支援 340人超の巨大議連"
-    },
-    {
-      "time": "19:34",
-      "title": "エチレン生産3.6%増 稼働率最低",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581130?source=rss",
-      "publishedAt": "2026-05-21T10:34:23.000Z",
-      "xQuery": "エチレン生産3.6%増 稼働率最低"
+      "url": "https://news.yahoo.co.jp/pickup/6581145?source=rss",
+      "publishedAt": "2026-05-21T13:09:21.000Z",
+      "xQuery": "補正予算3兆円程度で調整へ 政府"
     },
     {
       "time": "20:44",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "殺した日燃やした 動物園職員供述"
     },
     {
-      "time": "20:24",
-      "title": "物価高で居酒屋悲鳴 値上げ望む客",
+      "time": "22:02",
+      "title": "NHK受信契約巡り 岐阜知事が要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581138?source=rss",
-      "publishedAt": "2026-05-21T11:24:37.000Z",
-      "xQuery": "物価高で居酒屋悲鳴 値上げ望む客"
+      "url": "https://news.yahoo.co.jp/pickup/6581146?source=rss",
+      "publishedAt": "2026-05-21T13:02:33.000Z",
+      "xQuery": "NHK受信契約巡り 岐阜知事が要請"
     },
     {
-      "time": "20:32",
-      "title": "トラック同士衝突 1人死亡1人重体",
+      "time": "22:06",
+      "title": "村上世彰氏長女 近鉄GHD大株主に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581139?source=rss",
-      "publishedAt": "2026-05-21T11:32:19.000Z",
-      "xQuery": "トラック同士衝突 1人死亡1人重体"
+      "url": "https://news.yahoo.co.jp/pickup/6581147?source=rss",
+      "publishedAt": "2026-05-21T13:06:28.000Z",
+      "xQuery": "村上世彰氏長女 近鉄GHD大株主に"
+    },
+    {
+      "time": "22:27",
+      "title": "神戸殺傷 賠償金時効も再提訴せず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581149?source=rss",
+      "publishedAt": "2026-05-21T13:27:18.000Z",
+      "xQuery": "神戸殺傷 賠償金時効も再提訴せず"
     }
   ]
 };
