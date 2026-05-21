@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-21T21:07:18.032Z",
+  "updatedAt": "2026-05-21T22:03:05.426Z",
   "items": [
-    {
-      "time": "22:09",
-      "title": "補正予算3兆円程度で調整へ 政府",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581145?source=rss",
-      "publishedAt": "2026-05-21T13:09:21.000Z",
-      "xQuery": "補正予算3兆円程度で調整へ 政府"
-    },
     {
       "time": "23:45",
       "title": "露司令部攻撃し100人死傷 ウ主張",
@@ -18,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "露司令部攻撃し100人死傷 ウ主張"
     },
     {
-      "time": "23:27",
-      "title": "兵庫の民家に母娘遺体 他殺と断定",
+      "time": "22:09",
+      "title": "補正予算3兆円程度で調整へ 政府",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581156?source=rss",
-      "publishedAt": "2026-05-21T14:27:48.000Z",
-      "xQuery": "兵庫の民家に母娘遺体 他殺と断定"
+      "url": "https://news.yahoo.co.jp/pickup/6581145?source=rss",
+      "publishedAt": "2026-05-21T13:09:21.000Z",
+      "xQuery": "補正予算3兆円程度で調整へ 政府"
+    },
+    {
+      "time": "06:36",
+      "title": "姫路独協大の譲渡巡り現金授受か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581161?source=rss",
+      "publishedAt": "2026-05-21T21:36:40.000Z",
+      "xQuery": "姫路独協大の譲渡巡り現金授受か"
+    },
+    {
+      "time": "06:52",
+      "title": "神戸山口組長宅 競売で所有権移転",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581162?source=rss",
+      "publishedAt": "2026-05-21T21:52:27.000Z",
+      "xQuery": "神戸山口組長宅 競売で所有権移転"
     },
     {
       "time": "22:02",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581146?source=rss",
       "publishedAt": "2026-05-21T13:02:33.000Z",
       "xQuery": "NHK受信契約巡り 岐阜知事が要請"
-    },
-    {
-      "time": "22:06",
-      "title": "村上世彰氏長女 近鉄GHD大株主に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581147?source=rss",
-      "publishedAt": "2026-05-21T13:06:28.000Z",
-      "xQuery": "村上世彰氏長女 近鉄GHD大株主に"
     }
   ]
 };
