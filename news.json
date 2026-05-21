@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T02:26:49.609Z",
+  "updatedAt": "2026-05-21T03:51:41.846Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-05-20T21:22:17.000Z"
       },
       {
-        "time": "15:42",
-        "title": "三菱電機、パワー半導体の新製品投入 産業用機器向けインバーターの低消費電力化を後押し",
-        "source": "電波新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JSTl2U0JLMUR6TU9wNHprbmJEUlhCbmotUHlPbFFGRWdtSG1aWElnZHU5WVVLaXMwZmZPYnJRYVlnOEZKb1U5T1dLd200dlNzWVE?oc=5",
-        "publishedAt": "2026-05-20T06:42:05.000Z"
-      },
-      {
         "time": "19:01",
         "title": "キーエンス、売上高1兆1692億円 国内への新商品の投入効果、北中南米・アジアも堅調",
         "source": "オートメーション新聞",
@@ -45,11 +38,11 @@
         "publishedAt": "2026-05-20T10:01:06.000Z"
       },
       {
-        "time": "15:30",
-        "title": "横型多穴ドリル盤の世界市場（2026年～2032年）、市場規模（半自動、自動）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tMGs3V0lOY2d0NG5CY09IYnhsWFlkd3ZSaFM0dnZQMG5mdklSeHZmZ0hUNmNyVjRYX1VrS1JyVWx6TGxLMmMyblJ0TzVCQWc?oc=5",
-        "publishedAt": "2026-05-20T06:30:00.000Z"
+        "time": "15:42",
+        "title": "三菱電機、パワー半導体の新製品投入 産業用機器向けインバーターの低消費電力化を後押し",
+        "source": "電波新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JSTl2U0JLMUR6TU9wNHprbmJEUlhCbmotUHlPbFFGRWdtSG1aWElnZHU5WVVLaXMwZmZPYnJRYVlnOEZKb1U5T1dLd200dlNzWVE?oc=5",
+        "publishedAt": "2026-05-20T06:42:05.000Z"
       },
       {
         "time": "01:45",
@@ -57,6 +50,13 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLeW04TFZhWTJ1c1lCNThGdVNUaEN4XzA1N2I3bF9NU0JkZGozbnB1b0ZLamxkQXdEeHBBc0FtY1ZLWUljWnZiUzdkTDhnM3Nocy1xRQ?oc=5",
         "publishedAt": "2026-05-20T16:45:18.000Z"
+      },
+      {
+        "time": "15:30",
+        "title": "横型多穴ドリル盤の世界市場（2026年～2032年）、市場規模（半自動、自動）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tMGs3V0lOY2d0NG5CY09IYnhsWFlkd3ZSaFM0dnZQMG5mdklSeHZmZ0hUNmNyVjRYX1VrS1JyVWx6TGxLMmMyblJ0TzVCQWc?oc=5",
+        "publishedAt": "2026-05-20T06:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-05-21T02:20:14.000Z"
       },
       {
+        "time": "12:01",
+        "title": "習主席が近く訪朝か 韓国側注視",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581071?source=rss",
+        "publishedAt": "2026-05-21T03:01:40.000Z"
+      },
+      {
         "time": "20:47",
         "title": "中露首脳が会談 強固な関係を称賛",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581022?source=rss",
         "publishedAt": "2026-05-20T13:04:07.000Z"
-      },
-      {
-        "time": "22:49",
-        "title": "ホルムズ タンカー含む26隻が通過",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581028?source=rss",
-        "publishedAt": "2026-05-20T13:49:50.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,13 +126,6 @@
         "publishedAt": "2026-05-20T22:30:12.000Z"
       },
       {
-        "time": "19:32",
-        "title": "ナフサ不足 食品ロス見直す契機か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6580991?source=rss",
-        "publishedAt": "2026-05-20T10:32:22.000Z"
-      },
-      {
         "time": "22:34",
         "title": "SOMPOHDが社名を変更へ 3回目",
         "source": "Yahoo!ニュース",
@@ -145,9 +138,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581043?source=rss",
         "publishedAt": "2026-05-20T22:49:10.000Z"
+      },
+      {
+        "time": "11:42",
+        "title": "森永製菓 キャラメル2商品を休売",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581067?source=rss",
+        "publishedAt": "2026-05-21T02:42:20.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "12:12",
+        "title": "スカウトGトップ 起訴内容認める",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581072?source=rss",
+        "publishedAt": "2026-05-21T03:12:40.000Z"
+      },
       {
         "time": "10:54",
         "title": "栃木強殺 容疑者夫婦の自宅捜索",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581049?source=rss",
         "publishedAt": "2026-05-20T23:34:29.000Z"
-      },
-      {
-        "time": "07:20",
-        "title": "薬の処方ミス 難病発症し患者死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581035?source=rss",
-        "publishedAt": "2026-05-20T22:20:52.000Z"
       },
       {
         "time": "10:37",

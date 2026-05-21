@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-21T02:26:50.585Z",
+  "updatedAt": "2026-05-21T03:51:42.589Z",
   "items": [
     {
-      "time": "10:25",
-      "title": "中東からの原油輸入量67%減 4月",
+      "time": "12:44",
+      "title": "夏の電気ガス補助 5000億円で調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581058?source=rss",
-      "publishedAt": "2026-05-21T01:25:35.000Z",
-      "xQuery": "中東からの原油輸入量67%減 4月"
+      "url": "https://news.yahoo.co.jp/pickup/6581074?source=rss",
+      "publishedAt": "2026-05-21T03:44:48.000Z",
+      "xQuery": "夏の電気ガス補助 5000億円で調整"
     },
     {
-      "time": "07:46",
-      "title": "米大統領 イランとの交渉最終段階",
+      "time": "08:40",
+      "title": "エボラ ワクチン開発に数カ月か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581039?source=rss",
-      "publishedAt": "2026-05-20T22:46:44.000Z",
-      "xQuery": "米大統領 イランとの交渉最終段階"
+      "url": "https://news.yahoo.co.jp/pickup/6581050?source=rss",
+      "publishedAt": "2026-05-20T23:40:30.000Z",
+      "xQuery": "エボラ ワクチン開発に数カ月か"
     },
     {
-      "time": "10:54",
-      "title": "栃木強殺 容疑者夫婦の自宅捜索",
+      "time": "12:12",
+      "title": "スカウトGトップ 起訴内容認める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581061?source=rss",
-      "publishedAt": "2026-05-21T01:54:39.000Z",
-      "xQuery": "栃木強殺 容疑者夫婦の自宅捜索"
+      "url": "https://news.yahoo.co.jp/pickup/6581072?source=rss",
+      "publishedAt": "2026-05-21T03:12:40.000Z",
+      "xQuery": "スカウトGトップ 起訴内容認める"
     },
     {
-      "time": "10:37",
-      "title": "警察署で男が液体まく 6人搬送",
+      "time": "11:42",
+      "title": "森永製菓 キャラメル2商品を休売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581059?source=rss",
-      "publishedAt": "2026-05-21T01:37:39.000Z",
-      "xQuery": "警察署で男が液体まく 6人搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6581067?source=rss",
+      "publishedAt": "2026-05-21T02:42:20.000Z",
+      "xQuery": "森永製菓 キャラメル2商品を休売"
     },
     {
-      "time": "09:33",
-      "title": "覆面パト装い飲酒運転疑い 逮捕",
+      "time": "11:52",
+      "title": "ウルトラマン 中国での収入大幅減",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581054?source=rss",
-      "publishedAt": "2026-05-21T00:33:31.000Z",
-      "xQuery": "覆面パト装い飲酒運転疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6581068?source=rss",
+      "publishedAt": "2026-05-21T02:52:51.000Z",
+      "xQuery": "ウルトラマン 中国での収入大幅減"
     }
   ]
 };
