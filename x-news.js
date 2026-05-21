@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-21T09:20:12.361Z",
+  "updatedAt": "2026-05-21T10:47:22.701Z",
   "items": [
     {
-      "time": "16:21",
-      "title": "高市内閣の支持率は横ばい 時事",
+      "time": "19:23",
+      "title": "首相を支援 340人超の巨大議連",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581108?source=rss",
-      "publishedAt": "2026-05-21T07:21:01.000Z",
-      "xQuery": "高市内閣の支持率は横ばい 時事"
+      "url": "https://news.yahoo.co.jp/pickup/6581128?source=rss",
+      "publishedAt": "2026-05-21T10:23:26.000Z",
+      "xQuery": "首相を支援 340人超の巨大議連"
+    },
+    {
+      "time": "19:34",
+      "title": "エチレン生産3.6%増 稼働率最低",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581130?source=rss",
+      "publishedAt": "2026-05-21T10:34:23.000Z",
+      "xQuery": "エチレン生産3.6%増 稼働率最低"
     },
     {
       "time": "17:57",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "動物園職員 殺人容疑で再逮捕方針"
     },
     {
-      "time": "15:58",
-      "title": "ナフサ不足 スーパーの風景が一変",
+      "time": "18:43",
+      "title": "官邸官僚 女性記者に不適切行為",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581101?source=rss",
-      "publishedAt": "2026-05-21T06:58:53.000Z",
-      "xQuery": "ナフサ不足 スーパーの風景が一変"
+      "url": "https://news.yahoo.co.jp/pickup/6581126?source=rss",
+      "publishedAt": "2026-05-21T09:43:09.000Z",
+      "xQuery": "官邸官僚 女性記者に不適切行為"
     },
     {
-      "time": "16:34",
-      "title": "服用後20人死亡の治療薬 注意喚起",
+      "time": "19:25",
+      "title": "マンホール事故 死因は低酸素脳症",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581110?source=rss",
-      "publishedAt": "2026-05-21T07:34:38.000Z",
-      "xQuery": "服用後20人死亡の治療薬 注意喚起"
-    },
-    {
-      "time": "18:04",
-      "title": "官邸官僚 キー局記者に不適切行為",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581122?source=rss",
-      "publishedAt": "2026-05-21T09:04:02.000Z",
-      "xQuery": "官邸官僚 キー局記者に不適切行為"
+      "url": "https://news.yahoo.co.jp/pickup/6581129?source=rss",
+      "publishedAt": "2026-05-21T10:25:09.000Z",
+      "xQuery": "マンホール事故 死因は低酸素脳症"
     }
   ]
 };

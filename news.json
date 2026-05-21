@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-21T09:20:11.561Z",
+  "updatedAt": "2026-05-21T10:47:21.859Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "16:03",
+        "time": "16:49",
         "title": "リタール、制御盤用クーラー「Blue e+」「Blue e+ S」のノンフロンモデル発売",
         "source": "オートメーション新聞",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ekpiWW5ZZl91M2hOS3lZa3FLZVBnbXpuaFEwWm4yZTZfRHlCaTVVc1VvWnQ1d21sUWVGOUh1RzN0dDd3TUllX0FiWlhhQk5ueTlYSGlZRDVEZw?oc=5",
-        "publishedAt": "2026-05-21T07:03:09.000Z"
+        "publishedAt": "2026-05-21T07:49:08.000Z"
       },
       {
         "time": "05:00",
@@ -38,6 +38,13 @@
         "publishedAt": "2026-05-20T15:00:00.000Z"
       },
       {
+        "time": "17:23",
+        "title": "低電圧電気機器世界市場レポート：主要企業、ランキング、成長予測2026-2032",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WNkVxTnVNbk5EVUVFNkk2NTBKc3RoZzNSXzBDR0M2RVAxM2hmWl9vSTIyN192WW54UzlxYkdMWEJLM3hhNUdFSHJGTkhJZw?oc=5",
+        "publishedAt": "2026-05-21T08:23:00.000Z"
+      },
+      {
         "time": "06:22",
         "title": "牧野フライス、大型5軸MC短納期 山梨新工場が来月稼働",
         "source": "日刊工業新聞",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96TnhleXNyN3FkcDF1TElfU0JIaFNyLUlwc3lOckdCSWNOQ0N0REloRlFUT0k0YTdlYVNlX2JZUkE1ZmM1SjNJVndSYk5oX1B6eHROVjNHc2ttWFk5aEZIZE83STFSR0hwTXp5eW5oVVYtd0h4RWk0MkFaVQ?oc=5",
         "publishedAt": "2026-05-21T04:00:44.000Z"
-      },
-      {
-        "time": "01:07",
-        "title": "元TOKIO・長瀬智也、今後の俳優活動に本音 “友人”滝沢眞規子の問いかけに「もちろん」と語るも軽々しく言い切れない理由",
-        "source": "オリコンニュース",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xdFo4LVZvTm5LWU9waFZ4VnpoTmdnemt5ZkNmM00xZ2RzQVM4V3ozZTJUSS00NWQ3V2RCQ19iT1lidkdWejE3ZW0tT3VkQWVjN1U1ZE9HTHRCdw?oc=5",
-        "publishedAt": "2026-05-20T16:07:09.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "19:34",
+        "title": "エチレン生産3.6%増 稼働率最低",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581130?source=rss",
+        "publishedAt": "2026-05-21T10:34:23.000Z"
+      },
+      {
         "time": "15:58",
         "title": "ナフサ不足 スーパーの風景が一変",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581067?source=rss",
         "publishedAt": "2026-05-21T02:42:20.000Z"
-      },
-      {
-        "time": "13:50",
-        "title": "酒税改正へ ビール業界競争変化か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581090?source=rss",
-        "publishedAt": "2026-05-21T04:50:40.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-05-21T03:12:40.000Z"
       },
       {
+        "time": "19:25",
+        "title": "マンホール事故 死因は低酸素脳症",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581129?source=rss",
+        "publishedAt": "2026-05-21T10:25:09.000Z"
+      },
+      {
         "time": "15:14",
         "title": "圏央道で事故 8人搬送うち1人死亡",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581116?source=rss",
         "publishedAt": "2026-05-21T08:16:54.000Z"
-      },
-      {
-        "time": "16:09",
-        "title": "「XG」元P初公判 起訴内容認める",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581107?source=rss",
-        "publishedAt": "2026-05-21T07:09:51.000Z"
       },
       {
         "time": "16:26",
