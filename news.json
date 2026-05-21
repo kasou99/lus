@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-21T22:54:16.537Z",
+  "updatedAt": "2026-05-21T23:29:33.400Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "18:56",
-        "title": "日本の工作機械市場調査の発展、傾向、需要、成長分析および予測2026―2035年",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvZ2Y1M1pMZ19ySlhnclE3YXEtSmZvVkdhQkE5WWtZQXU4cTlXUFl2R2VCd2pLcWFDd1RwUjdQaDFuUnZMamZpSG9zeXRmWFk?oc=5",
-        "publishedAt": "2026-05-21T09:56:00.000Z"
+        "time": "07:45",
+        "title": "AIでOTデータと匠のスキルを融合、日立はいかに熟練者の思考を再現したか：製造現場向けAI技術",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ybVdLdWUtckdjSUg0NFRxc3NWektwU2ZTTkZ3MktlU0xEam9qRGkwcy0yU3NKNDNmalNuU1ZEM0IyenA5MVdiRmcwMFFaWXFJdzJtcnJBM3N6V1ZMMG5ZalBmaWJBTENkRWhIZEZ1RQ?oc=5",
+        "publishedAt": "2026-05-21T22:45:00.000Z"
       },
       {
         "time": "16:49",
@@ -75,6 +75,13 @@
         "publishedAt": "2026-05-20T22:46:44.000Z"
       },
       {
+        "time": "08:01",
+        "title": "ウラン国外搬出を禁止 モジタバ師",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581171?source=rss",
+        "publishedAt": "2026-05-21T23:01:24.000Z"
+      },
+      {
         "time": "06:07",
         "title": "米 キューバのカストロ氏を起訴",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581071?source=rss",
         "publishedAt": "2026-05-21T03:01:40.000Z"
-      },
-      {
-        "time": "20:47",
-        "title": "中露首脳が会談 強固な関係を称賛",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581011?source=rss",
-        "publishedAt": "2026-05-20T11:47:45.000Z"
       }
     ],
     "economyHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-05-21T22:24:38.000Z"
       },
       {
+        "time": "08:21",
+        "title": "辺野古転覆 学校が船長に6回謝礼",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581175?source=rss",
+        "publishedAt": "2026-05-21T23:21:38.000Z"
+      },
+      {
         "time": "06:52",
         "title": "神戸山口組長宅 競売で所有権移転",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581149?source=rss",
         "publishedAt": "2026-05-21T13:27:18.000Z"
-      },
-      {
-        "time": "19:25",
-        "title": "マンホール事故 死因は低酸素脳症",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581129?source=rss",
-        "publishedAt": "2026-05-21T10:25:09.000Z"
       }
     ],
     "subsidyHeadlines": [
