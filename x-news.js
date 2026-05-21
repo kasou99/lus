@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-21T13:38:40.814Z",
+  "updatedAt": "2026-05-21T15:16:00.126Z",
   "items": [
     {
       "time": "22:09",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "補正予算3兆円程度で調整へ 政府"
     },
     {
-      "time": "20:44",
-      "title": "殺した日燃やした 動物園職員供述",
+      "time": "23:45",
+      "title": "露司令部攻撃し100人死傷 ウ主張",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581140?source=rss",
-      "publishedAt": "2026-05-21T11:44:10.000Z",
-      "xQuery": "殺した日燃やした 動物園職員供述"
+      "url": "https://news.yahoo.co.jp/pickup/6581158?source=rss",
+      "publishedAt": "2026-05-21T14:45:25.000Z",
+      "xQuery": "露司令部攻撃し100人死傷 ウ主張"
+    },
+    {
+      "time": "23:27",
+      "title": "兵庫の民家に母娘遺体 他殺と断定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581156?source=rss",
+      "publishedAt": "2026-05-21T14:27:48.000Z",
+      "xQuery": "兵庫の民家に母娘遺体 他殺と断定"
     },
     {
       "time": "22:02",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581147?source=rss",
       "publishedAt": "2026-05-21T13:06:28.000Z",
       "xQuery": "村上世彰氏長女 近鉄GHD大株主に"
-    },
-    {
-      "time": "22:27",
-      "title": "神戸殺傷 賠償金時効も再提訴せず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581149?source=rss",
-      "publishedAt": "2026-05-21T13:27:18.000Z",
-      "xQuery": "神戸殺傷 賠償金時効も再提訴せず"
     }
   ]
 };
