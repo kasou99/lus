@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-21T23:29:34.221Z",
+  "updatedAt": "2026-05-21T23:56:48.451Z",
   "items": [
     {
       "time": "07:53",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "辺野古転覆 学校が船長に6回謝礼"
     },
     {
-      "time": "06:52",
-      "title": "神戸山口組長宅 競売で所有権移転",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581162?source=rss",
-      "publishedAt": "2026-05-21T21:52:27.000Z",
-      "xQuery": "神戸山口組長宅 競売で所有権移転"
-    },
-    {
       "time": "07:24",
       "title": "女性職員にセクハラ 市長辞職意向",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6581163?source=rss",
       "publishedAt": "2026-05-21T22:24:38.000Z",
       "xQuery": "女性職員にセクハラ 市長辞職意向"
+    },
+    {
+      "time": "08:33",
+      "title": "食道がん細胞を破壊 新製剤承認へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581177?source=rss",
+      "publishedAt": "2026-05-21T23:33:14.000Z",
+      "xQuery": "食道がん細胞を破壊 新製剤承認へ"
     }
   ]
 };

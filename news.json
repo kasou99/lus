@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T23:29:33.400Z",
+  "updatedAt": "2026-05-21T23:56:47.411Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "オートメーション新聞",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ekpiWW5ZZl91M2hOS3lZa3FLZVBnbXpuaFEwWm4yZTZfRHlCaTVVc1VvWnQ1d21sUWVGOUh1RzN0dDd3TUllX0FiWlhhQk5ueTlYSGlZRDVEZw?oc=5",
         "publishedAt": "2026-05-21T07:49:08.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "だから日経平均の「6万円突破」は当然…トランプ関税・ホルムズ海峡封鎖があっても株価が爆上げしている理由",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04bmlIcFpyY2U3S3Y1bkRSZTJxWTlXRExwZ0lINHc2am1JSHZoTkYwb29wZE0yWjBjNVpyUTJUWWJtZ1FZa0NsRmg4LTNSaTdHMmgzcDgzNXVCWEMzckJXQjVvOVlSWXdTb0tGZ0V4MVRUMEw2TU5leEdCOEdlOW_SAX9BVV95cUxNOG5pSHBacmNlN0t2NW5EUmUycVk5V0RMcGdJSDR3NmptSUh2aE5GMG9vcGRNMlowYzVaclEyVFlibWdRWWtDbEZoOC0zUmk3RzJoM3A4MzV1QlhDM3JCV0I1bzlZUll3U29LRmdFeDFUVDBMNk1OZXhHQjhHZTlv?oc=5",
+        "publishedAt": "2026-05-21T21:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-05-21T08:23:00.000Z"
       },
       {
-        "time": "17:00",
-        "title": "データ分析市場は2035年に804億米ドル規模へ拡大、CAGR",
+        "time": "13:00",
+        "title": "【産官学連携で臨む酪農DX】「小型・低コストの餌寄せロボット」の開発がスマート農業技術の開発・供給に関する事業に採択",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBybGJMcHFGUEpRaFJTcDN5SFRsZDRkZmdhQi1rUWFuQmVXUzhiRzA4RFl2RmhMZGZyX2lRY2N6dFhVUzlqU1cySEY2Zk1CLWtsTkpETUloelUzaklJZzd6ZHNxeUlJVXEwZWVfMWdNM2ZOYWNtMWc?oc=5",
-        "publishedAt": "2026-05-21T08:00:31.000Z"
-      },
-      {
-        "time": "11:59",
-        "title": "【ぽこあポケモン】そうさばん(操作盤)のレシピと入手方法【ぽこポケ】",
-        "source": "GameWith",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFYjEzVnpKbjR0MWZfeDJLZmllUHN6SjkwWE9hQnpZQzJPU3J0UUN1TUxOSDhwV2Q5OFFFVHVvQXhYblRtZFl1QnRFUTgyVnRT?oc=5",
-        "publishedAt": "2026-05-21T02:59:06.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96TnhleXNyN3FkcDF1TElfU0JIaFNyLUlwc3lOckdCSWNOQ0N0REloRlFUT0k0YTdlYVNlX2JZUkE1ZmM1SjNJVndSYk5oX1B6eHROVjNHc2ttWFk5aEZIZE83STFSR0hwTXp5eW5oVVYtd0h4RWk0MkFaVQ?oc=5",
+        "publishedAt": "2026-05-21T04:00:44.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-05-21T23:01:24.000Z"
       },
       {
+        "time": "08:49",
+        "title": "支援のランドセル届かず 中東緊迫",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581180?source=rss",
+        "publishedAt": "2026-05-21T23:49:24.000Z"
+      },
+      {
         "time": "06:07",
         "title": "米 キューバのカストロ氏を起訴",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581064?source=rss",
         "publishedAt": "2026-05-21T02:20:14.000Z"
-      },
-      {
-        "time": "12:01",
-        "title": "習主席が近く訪朝か 韓国側注視",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581071?source=rss",
-        "publishedAt": "2026-05-21T03:01:40.000Z"
       }
     ],
     "economyHeadlines": [
