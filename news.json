@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-05-21T05:34:33.548Z",
+  "updatedAt": "2026-05-21T07:32:25.343Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:03",
+        "title": "リタール、制御盤用クーラー「Blue e+」「Blue e+ S」のノンフロンモデル発売",
+        "source": "オートメーション新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ekpiWW5ZZl91M2hOS3lZa3FLZVBnbXpuaFEwWm4yZTZfRHlCaTVVc1VvWnQ1d21sUWVGOUh1RzN0dDd3TUllX0FiWlhhQk5ueTlYSGlZRDVEZw?oc=5",
+        "publishedAt": "2026-05-21T07:03:09.000Z"
+      },
       {
         "time": "06:04",
         "title": "[特別企画 ロボット切削の最前線vol.4]“常識”にとらわれない／トライエンジニアリング",
@@ -24,6 +31,13 @@
         "publishedAt": "2026-05-20T21:22:17.000Z"
       },
       {
+        "time": "13:00",
+        "title": "【産官学連携で臨む酪農DX】「小型・低コストの餌寄せロボット」の開発がスマート農業技術の開発・供給に関する事業に採択",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96TnhleXNyN3FkcDF1TElfU0JIaFNyLUlwc3lOckdCSWNOQ0N0REloRlFUT0k0YTdlYVNlX2JZUkE1ZmM1SjNJVndSYk5oX1B6eHROVjNHc2ttWFk5aEZIZE83STFSR0hwTXp5eW5oVVYtd0h4RWk0MkFaVQ?oc=5",
+        "publishedAt": "2026-05-21T04:00:44.000Z"
+      },
+      {
         "time": "01:07",
         "title": "元TOKIO・長瀬智也、今後の俳優活動に本音 “友人”滝沢眞規子の問いかけに「もちろん」と語るも軽々しく言い切れない理由",
         "source": "オリコンニュース",
@@ -31,11 +45,11 @@
         "publishedAt": "2026-05-20T16:07:09.000Z"
       },
       {
-        "time": "13:00",
-        "title": "【産官学連携で臨む酪農DX】「小型・低コストの餌寄せロボット」の開発がスマート農業技術の開発・供給に関する事業に採択",
+        "time": "01:45",
+        "title": "デルタ電子、DINレール型産業用電源の新製品を発売",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aM2ZJZmpqSmFVYzVNMUtGT3ZOTk5fS1FOb3dhczlGUS0zNnhrazYzT1JpdGtZRldNa1ZtMkItWTczUjBITVRtcmZKRkRPTnhEdWYwbnRNc21yZGdpRk9tbHhtU3plRkZCa0NkOWUtRjFsbzlMNlpfVENhYw?oc=5",
-        "publishedAt": "2026-05-21T04:00:44.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLeW04TFZhWTJ1c1lCNThGdVNUaEN4XzA1N2I3bF9NU0JkZGozbnB1b0ZLamxkQXdEeHBBc0FtY1ZLWUljWnZiUzdkTDhnM3Nocy1xRQ?oc=5",
+        "publishedAt": "2026-05-20T16:45:18.000Z"
       },
       {
         "time": "19:01",
@@ -43,20 +57,6 @@
         "source": "オートメーション新聞",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KYWFpc2t0bkVhcXlsRHNUVW9hQ01vTGlPQ3JHODFXWW80MThiUFpzOG83clBnVi1IUm5LN1ZudmdTTGFEUWh3aEJDbWtpVmhKdjVNUmlnS0tkZw?oc=5",
         "publishedAt": "2026-05-20T10:01:06.000Z"
-      },
-      {
-        "time": "15:42",
-        "title": "三菱電機、パワー半導体の新製品投入 産業用機器向けインバーターの低消費電力化を後押し",
-        "source": "電波新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JSTl2U0JLMUR6TU9wNHprbmJEUlhCbmotUHlPbFFGRWdtSG1aWElnZHU5WVVLaXMwZmZPYnJRYVlnOEZKb1U5T1dLd200dlNzWVE?oc=5",
-        "publishedAt": "2026-05-20T06:42:05.000Z"
-      },
-      {
-        "time": "15:30",
-        "title": "横型多穴ドリル盤の世界市場（2026年～2032年）、市場規模（半自動、自動）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tMGs3V0lOY2d0NG5CY09IYnhsWFlkd3ZSaFM0dnZQMG5mdklSeHZmZ0hUNmNyVjRYX1VrS1JyVWx6TGxLMmMyblJ0TzVCQWc?oc=5",
-        "publishedAt": "2026-05-20T06:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:25",
-        "title": "中東からの原油輸入量67%減 4月",
+        "time": "15:58",
+        "title": "ナフサ不足 スーパーの風景が一変",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581058?source=rss",
-        "publishedAt": "2026-05-21T01:25:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581101?source=rss",
+        "publishedAt": "2026-05-21T06:58:53.000Z"
       },
       {
         "time": "13:23",
@@ -119,11 +119,11 @@
         "publishedAt": "2026-05-21T04:23:03.000Z"
       },
       {
-        "time": "07:49",
-        "title": "角上魚類「魚離れ」でも好調の訳",
+        "time": "15:16",
+        "title": "マツダ「CX-5」9年ぶり全面刷新",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581043?source=rss",
-        "publishedAt": "2026-05-20T22:49:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581096?source=rss",
+        "publishedAt": "2026-05-21T06:16:21.000Z"
       },
       {
         "time": "11:42",
@@ -163,18 +163,11 @@
         "publishedAt": "2026-05-21T01:54:39.000Z"
       },
       {
-        "time": "08:34",
-        "title": "警棒で失明 元少年と沖縄県示談へ",
+        "time": "15:14",
+        "title": "圏央道で事故 8人搬送うち1人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581049?source=rss",
-        "publishedAt": "2026-05-20T23:34:29.000Z"
-      },
-      {
-        "time": "10:37",
-        "title": "警察署で男が液体まく 6人搬送",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581059?source=rss",
-        "publishedAt": "2026-05-21T01:37:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581100?source=rss",
+        "publishedAt": "2026-05-21T06:14:14.000Z"
       },
       {
         "time": "13:52",
@@ -184,11 +177,18 @@
         "publishedAt": "2026-05-21T04:52:24.000Z"
       },
       {
-        "time": "09:33",
-        "title": "覆面パト装い飲酒運転疑い 逮捕",
+        "time": "16:09",
+        "title": "「XG」元P初公判 起訴内容認める",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581054?source=rss",
-        "publishedAt": "2026-05-21T00:33:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581107?source=rss",
+        "publishedAt": "2026-05-21T07:09:51.000Z"
+      },
+      {
+        "time": "16:26",
+        "title": "替え玉受験事件 本人と鉢合わせか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581109?source=rss",
+        "publishedAt": "2026-05-21T07:26:52.000Z"
       }
     ],
     "subsidyHeadlines": [

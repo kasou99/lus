@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-21T05:34:34.208Z",
+  "updatedAt": "2026-05-21T07:32:26.309Z",
   "items": [
     {
-      "time": "12:01",
-      "title": "習主席が近く訪朝か 韓国側注視",
+      "time": "15:09",
+      "title": "2月の衆院選は「合憲」東京高裁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581071?source=rss",
-      "publishedAt": "2026-05-21T03:01:40.000Z",
-      "xQuery": "習主席が近く訪朝か 韓国側注視"
+      "url": "https://news.yahoo.co.jp/pickup/6581098?source=rss",
+      "publishedAt": "2026-05-21T06:09:08.000Z",
+      "xQuery": "2月の衆院選は「合憲」東京高裁"
     },
     {
-      "time": "11:20",
-      "title": "中国で切り付け 在留邦人は不安",
+      "time": "14:35",
+      "title": "江田憲司氏 政界引退を表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581064?source=rss",
-      "publishedAt": "2026-05-21T02:20:14.000Z",
-      "xQuery": "中国で切り付け 在留邦人は不安"
+      "url": "https://news.yahoo.co.jp/pickup/6581094?source=rss",
+      "publishedAt": "2026-05-21T05:35:53.000Z",
+      "xQuery": "江田憲司氏 政界引退を表明"
     },
     {
-      "time": "13:23",
-      "title": "法廷内の無断録音 東電でも発覚",
+      "time": "15:14",
+      "title": "圏央道で事故 8人搬送うち1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581085?source=rss",
-      "publishedAt": "2026-05-21T04:23:03.000Z",
-      "xQuery": "法廷内の無断録音 東電でも発覚"
+      "url": "https://news.yahoo.co.jp/pickup/6581100?source=rss",
+      "publishedAt": "2026-05-21T06:14:14.000Z",
+      "xQuery": "圏央道で事故 8人搬送うち1人死亡"
     },
     {
-      "time": "11:42",
-      "title": "森永製菓 キャラメル2商品を休売",
+      "time": "15:58",
+      "title": "ナフサ不足 スーパーの風景が一変",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581067?source=rss",
-      "publishedAt": "2026-05-21T02:42:20.000Z",
-      "xQuery": "森永製菓 キャラメル2商品を休売"
+      "url": "https://news.yahoo.co.jp/pickup/6581101?source=rss",
+      "publishedAt": "2026-05-21T06:58:53.000Z",
+      "xQuery": "ナフサ不足 スーパーの風景が一変"
     },
     {
-      "time": "13:50",
-      "title": "酒税改正へ ビール業界競争変化か",
+      "time": "16:01",
+      "title": "薬服用後20人死亡 注意呼びかけへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581090?source=rss",
-      "publishedAt": "2026-05-21T04:50:40.000Z",
-      "xQuery": "酒税改正へ ビール業界競争変化か"
+      "url": "https://news.yahoo.co.jp/pickup/6581105?source=rss",
+      "publishedAt": "2026-05-21T07:01:50.000Z",
+      "xQuery": "薬服用後20人死亡 注意呼びかけへ"
     }
   ]
 };
