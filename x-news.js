@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-21T10:47:22.701Z",
+  "updatedAt": "2026-05-21T12:07:30.352Z",
   "items": [
     {
       "time": "19:23",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "エチレン生産3.6%増 稼働率最低"
     },
     {
-      "time": "17:57",
-      "title": "動物園職員 殺人容疑で再逮捕方針",
+      "time": "20:44",
+      "title": "殺した日燃やした 動物園職員供述",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581119?source=rss",
-      "publishedAt": "2026-05-21T08:57:39.000Z",
-      "xQuery": "動物園職員 殺人容疑で再逮捕方針"
+      "url": "https://news.yahoo.co.jp/pickup/6581140?source=rss",
+      "publishedAt": "2026-05-21T11:44:10.000Z",
+      "xQuery": "殺した日燃やした 動物園職員供述"
     },
     {
-      "time": "18:43",
-      "title": "官邸官僚 女性記者に不適切行為",
+      "time": "20:24",
+      "title": "物価高で居酒屋悲鳴 値上げ望む客",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581126?source=rss",
-      "publishedAt": "2026-05-21T09:43:09.000Z",
-      "xQuery": "官邸官僚 女性記者に不適切行為"
+      "url": "https://news.yahoo.co.jp/pickup/6581138?source=rss",
+      "publishedAt": "2026-05-21T11:24:37.000Z",
+      "xQuery": "物価高で居酒屋悲鳴 値上げ望む客"
     },
     {
-      "time": "19:25",
-      "title": "マンホール事故 死因は低酸素脳症",
+      "time": "20:32",
+      "title": "トラック同士衝突 1人死亡1人重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581129?source=rss",
-      "publishedAt": "2026-05-21T10:25:09.000Z",
-      "xQuery": "マンホール事故 死因は低酸素脳症"
+      "url": "https://news.yahoo.co.jp/pickup/6581139?source=rss",
+      "publishedAt": "2026-05-21T11:32:19.000Z",
+      "xQuery": "トラック同士衝突 1人死亡1人重体"
     }
   ]
 };
