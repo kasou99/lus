@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T22:29:02.880Z",
+  "updatedAt": "2026-05-22T22:55:44.091Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-05-22T09:35:07.000Z"
       },
       {
-        "time": "17:25",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-05-22T08:25:14.000Z"
-      },
-      {
         "time": "17:17",
         "title": "日本産業用火炎検知器市場：世界規模、シェア、トレンド、企業動向、将来予測2026-2032",
         "source": "アットプレス",
@@ -45,6 +38,13 @@
         "publishedAt": "2026-05-22T07:45:23.000Z"
       },
       {
+        "time": "13:16",
+        "title": "【ひと・交差点】三成興業の渡辺大輔社長 よろず支援拠点の優良事例で表彰",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55VW9LazNRd3hXVXRXcXhSem1WdFlKa3lOZjA4cFRPZFRQVVpkN0pDU1VSU3lWdkNXMm04SEUwWlRXelJnQ184bHlBOWJPSUI2T19WVVpfZEd5ZFR2dC13VnF3V3pnbEhNUGpRNm8wN0U5NWhuTFhj?oc=5",
+        "publishedAt": "2026-05-22T04:16:23.000Z"
+      },
+      {
         "time": "12:04",
         "title": "DINスイッチング電源市場統計2026：2032年1243百万米ドル規模へ発展",
         "source": "ニコニコニュース",
@@ -52,14 +52,21 @@
         "publishedAt": "2026-05-22T03:04:51.000Z"
       },
       {
-        "time": "13:16",
-        "title": "【ひと・交差点】三成興業の渡辺大輔社長 よろず支援拠点の優良事例で表彰",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55VW9LazNRd3hXVXRXcXhSem1WdFlKa3lOZjA4cFRPZFRQVVpkN0pDU1VSU3lWdkNXMm04SEUwWlRXelJnQ184bHlBOWJPSUI2T19WVVpfZEd5ZFR2dC13VnF3V3pnbEhNUGpRNm8wN0U5NWhuTFhj?oc=5",
-        "publishedAt": "2026-05-22T04:16:23.000Z"
+        "time": "17:41",
+        "title": "リニアエンコーダ市場規模は2026年1295百万米ドル、成長率5.9%で拡大予測｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RenQ5c2dsXzZjUDlnVzFlZU5QcDJJZGhVUUFyTU1JS1l2NDZGRThjNWw2S0pZU0swUXY4amRRR3h2V2x5SG1nc2x4QWM4WkRJU2w5cVJJUQ?oc=5",
+        "publishedAt": "2026-05-22T08:41:28.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:48",
+        "title": "NPT会議 成果文書採択できず決裂",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581307?source=rss",
+        "publishedAt": "2026-05-22T22:48:31.000Z"
+      },
       {
         "time": "08:01",
         "title": "ウラン国外搬出を禁止 モジタバ師",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581180?source=rss",
         "publishedAt": "2026-05-21T23:49:24.000Z"
-      },
-      {
-        "time": "16:52",
-        "title": "NPT 北の非核化支持巡る項目削除",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581242?source=rss",
-        "publishedAt": "2026-05-22T07:52:42.000Z"
       },
       {
         "time": "11:19",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:28",
+        "title": "車8台絡む事故 逃走した少年逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581306?source=rss",
+        "publishedAt": "2026-05-22T22:28:39.000Z"
+      },
+      {
         "time": "19:57",
         "title": "転覆事故 同志社が再発防止策発表",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581300?source=rss",
         "publishedAt": "2026-05-22T14:41:55.000Z"
-      },
-      {
-        "time": "20:49",
-        "title": "1.4万人個人情報漏洩か 静岡県警",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581275?source=rss",
-        "publishedAt": "2026-05-22T11:49:06.000Z"
       }
     ],
     "subsidyHeadlines": [

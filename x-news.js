@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-22T22:29:03.977Z",
+  "updatedAt": "2026-05-22T22:55:44.635Z",
   "items": [
     {
       "time": "21:18",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "首相が参院幹部と会食 化粧水贈る"
     },
     {
-      "time": "07:18",
-      "title": "生成AIで津田健次郎さん模倣 提訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581302?source=rss",
-      "publishedAt": "2026-05-22T22:18:33.000Z",
-      "xQuery": "生成AIで津田健次郎さん模倣 提訴"
-    },
-    {
       "time": "22:20",
       "title": "鉄板落ちてきたと通報 作業員死亡",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "鉄板落ちてきたと通報 作業員死亡"
     },
     {
-      "time": "23:41",
-      "title": "分離帯に車乗り上げ横転 2人重体",
+      "time": "07:18",
+      "title": "生成AIで津田健次郎さん模倣 提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581300?source=rss",
-      "publishedAt": "2026-05-22T14:41:55.000Z",
-      "xQuery": "分離帯に車乗り上げ横転 2人重体"
+      "url": "https://news.yahoo.co.jp/pickup/6581302?source=rss",
+      "publishedAt": "2026-05-22T22:18:33.000Z",
+      "xQuery": "生成AIで津田健次郎さん模倣 提訴"
+    },
+    {
+      "time": "07:28",
+      "title": "車8台絡む事故 逃走した少年逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581306?source=rss",
+      "publishedAt": "2026-05-22T22:28:39.000Z",
+      "xQuery": "車8台絡む事故 逃走した少年逮捕"
     }
   ]
 };
