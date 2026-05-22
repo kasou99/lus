@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T10:11:15.732Z",
+  "updatedAt": "2026-05-22T11:29:09.883Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-05-22T06:35:00.000Z"
       },
       {
-        "time": "07:45",
-        "title": "AIでOTデータと匠のスキルを融合、日立はいかに熟練者の思考を再現したか：製造現場向けAI技術",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ybVdLdWUtckdjSUg0NFRxc3NWektwU2ZTTkZ3MktlU0xEam9qRGkwcy0yU3NKNDNmalNuU1ZEM0IyenA5MVdiRmcwMFFaWXFJdzJtcnJBM3N6V1ZMMG5ZalBmaWJBTENkRWhIZEZ1RQ?oc=5",
-        "publishedAt": "2026-05-21T22:45:00.000Z"
+        "time": "18:35",
+        "title": "AIでOTデータと匠のスキルを融合、日立はいかに熟練者の思考を再現したか（MONOist）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83YmtudGh6QzhzT1dCa2EwZF9PVnBWLWlvRmdHYWZxcTROTEVpbFI4M0Q2cnFsS2txN2o4blBINDMzLUxPa2JpU2g0dUZldXhvMmtzc2JkV0F2V3k5cnREY3pCQjNjRzlEd1gtb3NqdTdYX29wdGlYYzNWNXBnWlk?oc=5",
+        "publishedAt": "2026-05-22T09:35:07.000Z"
       },
       {
         "time": "17:17",
@@ -45,11 +45,11 @@
         "publishedAt": "2026-05-22T07:45:23.000Z"
       },
       {
-        "time": "13:16",
-        "title": "【ひと・交差点】三成興業の渡辺大輔社長 よろず支援拠点の優良事例で表彰",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55VW9LazNRd3hXVXRXcXhSem1WdFlKa3lOZjA4cFRPZFRQVVpkN0pDU1VSU3lWdkNXMm04SEUwWlRXelJnQ184bHlBOWJPSUI2T19WVVpfZEd5ZFR2dC13VnF3V3pnbEhNUGpRNm8wN0U5NWhuTFhj?oc=5",
-        "publishedAt": "2026-05-22T04:16:23.000Z"
+        "time": "07:53",
+        "title": "住商、電池リサイクル 30年めど供給網",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45NG9lY1RUdEN1UzQ0WTFQdFd6bzlkdUw3Zl9KS3VfVmdJZXFCa1BHei1URW5pYkZIdzJPUDhpMjczWGFKMmN0RzlWS1c2cDFYN1pKTHlSRHhPYkJocXZ3TjRhRDY2TDlDS1dDTTQ3ZU54S1lo?oc=5",
+        "publishedAt": "2026-05-21T22:53:50.000Z"
       },
       {
         "time": "12:04",
@@ -60,13 +60,6 @@
       }
     ],
     "worldHeadlines": [
-      {
-        "time": "23:45",
-        "title": "露司令部攻撃し100人死傷 ウ主張",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581158?source=rss",
-        "publishedAt": "2026-05-21T14:45:25.000Z"
-      },
       {
         "time": "08:01",
         "title": "ウラン国外搬出を禁止 モジタバ師",
@@ -96,6 +89,13 @@
         "publishedAt": "2026-05-22T02:19:18.000Z"
       },
       {
+        "time": "19:29",
+        "title": "韓国のスターバックスで不買運動",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581267?source=rss",
+        "publishedAt": "2026-05-22T10:29:26.000Z"
+      },
+      {
         "time": "09:04",
         "title": "エボラ巡り 仏発旅客機目的地変更",
         "source": "Yahoo!ニュース",
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "19:18",
+        "title": "YKKAP会長ら不正請求 3人退任へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581266?source=rss",
+        "publishedAt": "2026-05-22T10:18:42.000Z"
+      },
+      {
         "time": "16:00",
         "title": "東京株終値6万3339円 最高値更新",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581232?source=rss",
         "publishedAt": "2026-05-22T07:00:34.000Z"
-      },
-      {
-        "time": "13:47",
-        "title": "シニア起業 地域経済への効果期待",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581210?source=rss",
-        "publishedAt": "2026-05-22T04:47:57.000Z"
       },
       {
         "time": "13:49",
@@ -126,18 +126,18 @@
         "publishedAt": "2026-05-22T04:49:55.000Z"
       },
       {
+        "time": "13:47",
+        "title": "シニア起業 地域経済への効果期待",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581210?source=rss",
+        "publishedAt": "2026-05-22T04:47:57.000Z"
+      },
+      {
         "time": "17:24",
         "title": "デニム老舗「Lee」売却先が決定",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581246?source=rss",
         "publishedAt": "2026-05-22T08:24:38.000Z"
-      },
-      {
-        "time": "13:36",
-        "title": "大手チェーンが町中華に参入 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581209?source=rss",
-        "publishedAt": "2026-05-22T04:36:50.000Z"
       },
       {
         "time": "17:45",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "13:26",
-        "title": "栃木強殺 遺族がコメント公表",
+        "time": "19:57",
+        "title": "転覆事故 同志社が再発防止策発表",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581214?source=rss",
-        "publishedAt": "2026-05-22T04:26:50.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581270?source=rss",
+        "publishedAt": "2026-05-22T10:57:29.000Z"
       },
       {
         "time": "15:33",

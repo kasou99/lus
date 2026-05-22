@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-22T10:11:16.531Z",
+  "updatedAt": "2026-05-22T11:29:10.661Z",
   "items": [
     {
-      "time": "16:52",
-      "title": "NPT 北の非核化支持巡る項目削除",
+      "time": "19:57",
+      "title": "転覆事故 同志社が再発防止策発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581242?source=rss",
-      "publishedAt": "2026-05-22T07:52:42.000Z",
-      "xQuery": "NPT 北の非核化支持巡る項目削除"
+      "url": "https://news.yahoo.co.jp/pickup/6581270?source=rss",
+      "publishedAt": "2026-05-22T10:57:29.000Z",
+      "xQuery": "転覆事故 同志社が再発防止策発表"
     },
     {
       "time": "18:46",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "首相の国会出席大幅削減を 吉村氏"
     },
     {
-      "time": "18:17",
-      "title": "「トランプ氏批判」の米番組 終了",
+      "time": "19:29",
+      "title": "韓国のスターバックスで不買運動",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581255?source=rss",
-      "publishedAt": "2026-05-22T09:17:13.000Z",
-      "xQuery": "「トランプ氏批判」の米番組 終了"
+      "url": "https://news.yahoo.co.jp/pickup/6581267?source=rss",
+      "publishedAt": "2026-05-22T10:29:26.000Z",
+      "xQuery": "韓国のスターバックスで不買運動"
     },
     {
-      "time": "18:33",
-      "title": "公園の木の上にクマ居座る 駆除",
+      "time": "17:24",
+      "title": "デニム老舗「Lee」売却先が決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581260?source=rss",
-      "publishedAt": "2026-05-22T09:33:02.000Z",
-      "xQuery": "公園の木の上にクマ居座る 駆除"
+      "url": "https://news.yahoo.co.jp/pickup/6581246?source=rss",
+      "publishedAt": "2026-05-22T08:24:38.000Z",
+      "xQuery": "デニム老舗「Lee」売却先が決定"
     },
     {
-      "time": "18:28",
-      "title": "男児が車にはねられ重体 82歳逮捕",
+      "time": "19:56",
+      "title": "潜在患者1000万人超 気象病に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581259?source=rss",
-      "publishedAt": "2026-05-22T09:28:40.000Z",
-      "xQuery": "男児が車にはねられ重体 82歳逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6581269?source=rss",
+      "publishedAt": "2026-05-22T10:56:01.000Z",
+      "xQuery": "潜在患者1000万人超 気象病に注意"
     }
   ]
 };
