@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-22T13:21:56.431Z",
+  "updatedAt": "2026-05-22T14:21:34.610Z",
   "items": [
     {
-      "time": "20:25",
-      "title": "ミュトス悪用対策 金融庁など要請",
+      "time": "21:18",
+      "title": "首相が日銀に「適切な政策」要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581274?source=rss",
-      "publishedAt": "2026-05-22T11:25:32.000Z",
-      "xQuery": "ミュトス悪用対策 金融庁など要請"
+      "url": "https://news.yahoo.co.jp/pickup/6581279?source=rss",
+      "publishedAt": "2026-05-22T12:18:31.000Z",
+      "xQuery": "首相が日銀に「適切な政策」要請"
     },
     {
-      "time": "19:57",
-      "title": "転覆事故 同志社が再発防止策発表",
+      "time": "22:51",
+      "title": "首相が参院幹部と会食 化粧水贈る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581270?source=rss",
-      "publishedAt": "2026-05-22T10:57:29.000Z",
-      "xQuery": "転覆事故 同志社が再発防止策発表"
+      "url": "https://news.yahoo.co.jp/pickup/6581291?source=rss",
+      "publishedAt": "2026-05-22T13:51:49.000Z",
+      "xQuery": "首相が参院幹部と会食 化粧水贈る"
     },
     {
       "time": "20:59",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "沖合でダイビング 女性溺れ死亡"
     },
     {
-      "time": "19:29",
-      "title": "韓国のスターバックスで不買運動",
+      "time": "22:20",
+      "title": "鉄板落ちてきたと通報 作業員死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581267?source=rss",
-      "publishedAt": "2026-05-22T10:29:26.000Z",
-      "xQuery": "韓国のスターバックスで不買運動"
+      "url": "https://news.yahoo.co.jp/pickup/6581286?source=rss",
+      "publishedAt": "2026-05-22T13:20:47.000Z",
+      "xQuery": "鉄板落ちてきたと通報 作業員死亡"
     }
   ]
 };
