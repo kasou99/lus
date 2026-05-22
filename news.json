@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T22:55:44.091Z",
+  "updatedAt": "2026-05-22T23:31:54.237Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,34 +45,41 @@
         "publishedAt": "2026-05-22T04:16:23.000Z"
       },
       {
+        "time": "16:00",
+        "title": "マクロスコープ：牧野フ買収中止勧告、「線引き」どこに 論点なお交錯",
+        "source": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQdzBvMUF1OFN3cmg3Wk5MYXU4dzdCOUViZncxWE0zT1hIanpoaEZ0eUJDcnpIQ3hGb1MwS2ZaZE4xSVQ3UmtWOE90R1ZjVERIUHpjeGpxS0pzSmQxTE9DUVZSZ2k1N1R6Rk9OaVgtNlhDeE9EMnlWd2d0X0RzcGV3dTZ5QWYzTlFYS1lGZUNlc0dTSUo0UkdaME4tQUNiWUVVN1VhRDdEVjZ2VXloQ2kxNnFXUE5CdE02TElBNkRIVEx6bDJDZ3hGandsX20tbkpsTzZzSUZpWVFmdFJkcmpCYmJSQVI1SXpOWkRPZ2YyRDNUMkE1b0MzTG9fRFkyUjBza3VCUkxUQy13TjdybW5hdE5VeTk3Vzhrb3poMl9tNjFQbkFaenktaGpJcXNURlpjZk1vemtsRFYyOVBwbnBPTWhqNGpOaHNDcTZCTVZZOXNyaXNuR1l5ZDlWcE5wY2FsSC1aRW9WUTRES3RRWDFzWUhuQWpZdm4wWERhYjM5TnpTNjVfZE16UlNwcUVkV2FIRVJweGItQjhpYUlfbi14d0tSWmQzdUtvTHBOMTlOLUtVUQ?oc=5",
+        "publishedAt": "2026-05-22T07:00:34.000Z"
+      },
+      {
         "time": "12:04",
         "title": "DINスイッチング電源市場統計2026：2032年1243百万米ドル規模へ発展",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZX04ybjZGRkpzTW5obl9Rd2g4Wmg0aHlyUlFkZFNyMGNPVHdxb2EzSmJIWFhhOHpPelVWU0VSX0ljRF93Qk8tcTQwakRKd1ZLVjRpUWljTldFejNFbjFWMVh6eHYza2pw?oc=5",
         "publishedAt": "2026-05-22T03:04:51.000Z"
-      },
-      {
-        "time": "17:41",
-        "title": "リニアエンコーダ市場規模は2026年1295百万米ドル、成長率5.9%で拡大予測｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RenQ5c2dsXzZjUDlnVzFlZU5QcDJJZGhVUUFyTU1JS1l2NDZGRThjNWw2S0pZU0swUXY4amRRR3h2V2x5SG1nc2x4QWM4WkRJU2w5cVJJUQ?oc=5",
-        "publishedAt": "2026-05-22T08:41:28.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "08:16",
+        "title": "米FRB ウォーシュ新議長が就任",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581312?source=rss",
+        "publishedAt": "2026-05-22T23:16:22.000Z"
+      },
+      {
+        "time": "08:03",
+        "title": "米国家情報長官が辞任 閣僚4人目",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581311?source=rss",
+        "publishedAt": "2026-05-22T23:03:32.000Z"
+      },
       {
         "time": "07:48",
         "title": "NPT会議 成果文書採択できず決裂",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581307?source=rss",
         "publishedAt": "2026-05-22T22:48:31.000Z"
-      },
-      {
-        "time": "08:01",
-        "title": "ウラン国外搬出を禁止 モジタバ師",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581171?source=rss",
-        "publishedAt": "2026-05-21T23:01:24.000Z"
       },
       {
         "time": "08:49",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581267?source=rss",
         "publishedAt": "2026-05-22T10:29:26.000Z"
-      },
-      {
-        "time": "09:04",
-        "title": "エボラ巡り 仏発旅客機目的地変更",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581181?source=rss",
-        "publishedAt": "2026-05-22T00:04:59.000Z"
       }
     ],
     "economyHeadlines": [
@@ -140,27 +140,34 @@
         "publishedAt": "2026-05-22T08:24:38.000Z"
       },
       {
-        "time": "17:45",
-        "title": "ラーメン屋でカレー ラーカレとは",
+        "time": "08:18",
+        "title": "中国の「ニセ一蘭」丼まで模倣",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581250?source=rss",
-        "publishedAt": "2026-05-22T08:45:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581314?source=rss",
+        "publishedAt": "2026-05-22T23:18:01.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "08:06",
+        "title": "辺野古転覆事故 救助行動に不備",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581308?source=rss",
+        "publishedAt": "2026-05-22T23:06:10.000Z"
+      },
+      {
+        "time": "08:12",
+        "title": "飲酒運転で子3人奪われ 伝える母",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581313?source=rss",
+        "publishedAt": "2026-05-22T23:12:58.000Z"
+      },
       {
         "time": "07:28",
         "title": "車8台絡む事故 逃走した少年逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581306?source=rss",
         "publishedAt": "2026-05-22T22:28:39.000Z"
-      },
-      {
-        "time": "19:57",
-        "title": "転覆事故 同志社が再発防止策発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581270?source=rss",
-        "publishedAt": "2026-05-22T10:57:29.000Z"
       },
       {
         "time": "21:32",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581286?source=rss",
         "publishedAt": "2026-05-22T13:20:47.000Z"
-      },
-      {
-        "time": "23:41",
-        "title": "分離帯に車乗り上げ横転 2人重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581300?source=rss",
-        "publishedAt": "2026-05-22T14:41:55.000Z"
       }
     ],
     "subsidyHeadlines": [

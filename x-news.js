@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-22T22:55:44.635Z",
+  "updatedAt": "2026-05-22T23:31:55.049Z",
   "items": [
     {
-      "time": "21:18",
-      "title": "首相が日銀に「適切な政策」要請",
+      "time": "08:12",
+      "title": "飲酒運転で子3人奪われ 伝える母",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581279?source=rss",
-      "publishedAt": "2026-05-22T12:18:31.000Z",
-      "xQuery": "首相が日銀に「適切な政策」要請"
+      "url": "https://news.yahoo.co.jp/pickup/6581313?source=rss",
+      "publishedAt": "2026-05-22T23:12:58.000Z",
+      "xQuery": "飲酒運転で子3人奪われ 伝える母"
     },
     {
-      "time": "22:51",
-      "title": "首相が参院幹部と会食 化粧水贈る",
+      "time": "07:48",
+      "title": "NPT会議 成果文書採択できず決裂",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581291?source=rss",
-      "publishedAt": "2026-05-22T13:51:49.000Z",
-      "xQuery": "首相が参院幹部と会食 化粧水贈る"
+      "url": "https://news.yahoo.co.jp/pickup/6581307?source=rss",
+      "publishedAt": "2026-05-22T22:48:31.000Z",
+      "xQuery": "NPT会議 成果文書採択できず決裂"
     },
     {
       "time": "22:20",
