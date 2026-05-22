@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-22T14:21:34.610Z",
+  "updatedAt": "2026-05-22T15:34:56.351Z",
   "items": [
     {
       "time": "21:18",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "首相が参院幹部と会食 化粧水贈る"
     },
     {
-      "time": "20:59",
-      "title": "ふるさと納税手数料減 総務省要請",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581276?source=rss",
-      "publishedAt": "2026-05-22T11:59:08.000Z",
-      "xQuery": "ふるさと納税手数料減 総務省要請"
-    },
-    {
-      "time": "22:10",
-      "title": "沖合でダイビング 女性溺れ死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581287?source=rss",
-      "publishedAt": "2026-05-22T13:10:45.000Z",
-      "xQuery": "沖合でダイビング 女性溺れ死亡"
-    },
-    {
       "time": "22:20",
       "title": "鉄板落ちてきたと通報 作業員死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6581286?source=rss",
       "publishedAt": "2026-05-22T13:20:47.000Z",
       "xQuery": "鉄板落ちてきたと通報 作業員死亡"
+    },
+    {
+      "time": "23:41",
+      "title": "分離帯に車乗り上げ横転 2人重体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581300?source=rss",
+      "publishedAt": "2026-05-22T14:41:55.000Z",
+      "xQuery": "分離帯に車乗り上げ横転 2人重体"
+    },
+    {
+      "time": "19:29",
+      "title": "韓国のスターバックスで不買運動",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581267?source=rss",
+      "publishedAt": "2026-05-22T10:29:26.000Z",
+      "xQuery": "韓国のスターバックスで不買運動"
     }
   ]
 };

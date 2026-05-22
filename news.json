@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-05-22T14:21:33.578Z",
+  "updatedAt": "2026-05-22T15:34:55.784Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "19:18",
+        "title": "ファナック・稲葉清右衛門氏の功績を振り返る",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWldVYUkzZFVIWUtFMndydmNhbjBnU3ZoaGRHSFNkZFpNT1YyOUJJZ0RqUlJURHZDYS1hYUM2TGRuSURfVVZINXpuVEFnbGF3N2N1ZnA0blJWaVFzSUxWcDVBZ1lYX2l5VGxLLUQxWFdTQmpsTWVpY1Flb0xGSk1hdjZaWTdXZlZXdU9zZHA5Z180RV9XLWEzbC1KZTAwcFZqWFBr?oc=5",
+        "publishedAt": "2026-05-22T10:18:20.000Z"
+      },
       {
         "time": "15:35",
         "title": "インタビュー：技術流出防止へ「経済安保ファンド」創設を＝元国家安保局長・北村氏",
@@ -17,18 +24,18 @@
         "publishedAt": "2026-05-22T09:35:07.000Z"
       },
       {
-        "time": "17:17",
-        "title": "日本産業用火炎検知器市場：世界規模、シェア、トレンド、企業動向、将来予測2026-2032",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4Y0VhbGlpM1dmMmpJRjhsN2ZlYWFWeFB0Y3AxRk43NGgxT182OUJXNzNxMDhNWjB4c3Y3RkdhTTVyNm1faUE3YXA4RThQQQ?oc=5",
-        "publishedAt": "2026-05-22T08:17:00.000Z"
-      },
-      {
         "time": "10:30",
         "title": "宮本工業所、新本社建設 来年秋に移転",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yUnlsekZXUDJTUUFDTTVRTXB6dHdXVERubi1SZjQxdE9qYVhDa05tUmEzX2FJUEptNzM0eWRLZ0pYTGo4eTZYV0hBWjI2SU84UHJSRElPOVBQYUk?oc=5",
         "publishedAt": "2026-05-22T01:30:12.000Z"
+      },
+      {
+        "time": "17:17",
+        "title": "日本産業用火炎検知器市場：世界規模、シェア、トレンド、企業動向、将来予測2026-2032",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4Y0VhbGlpM1dmMmpJRjhsN2ZlYWFWeFB0Y3AxRk43NGgxT182OUJXNzNxMDhNWjB4c3Y3RkdhTTVyNm1faUE3YXA4RThQQQ?oc=5",
+        "publishedAt": "2026-05-22T08:17:00.000Z"
       },
       {
         "time": "06:00",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZX04ybjZGRkpzTW5obl9Rd2g4Wmg0aHlyUlFkZFNyMGNPVHdxb2EzSmJIWFhhOHpPelVWU0VSX0ljRF93Qk8tcTQwakRKd1ZLVjRpUWljTldFejNFbjFWMVh6eHYza2pw?oc=5",
         "publishedAt": "2026-05-22T03:04:51.000Z"
-      },
-      {
-        "time": "12:05",
-        "title": "AC-DC産業用DINレール電源市場2026-2032：世界市場規模、成長、動向、予測の最新分析 「Globalinforesearch」",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43YnBSY0p6c3piaHB3Z1ZqeXMzQ3c5OEFsVE9wU003a0ZsUHR6MmhpV3JJTzRxaG9sRElHOG9HcjRrbDBoTlIwcGVvSEJzejRXajdNajJDUTR6dXl2VTdmX1RUVEFleFFO?oc=5",
-        "publishedAt": "2026-05-22T03:05:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-05-22T10:57:29.000Z"
       },
       {
-        "time": "17:35",
-        "title": "議会棟の取材制限 福岡県議会検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581248?source=rss",
-        "publishedAt": "2026-05-22T08:35:12.000Z"
-      },
-      {
         "time": "21:32",
         "title": "電話に違和感 詐欺防いだ中学生",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581286?source=rss",
         "publishedAt": "2026-05-22T13:20:47.000Z"
+      },
+      {
+        "time": "23:41",
+        "title": "分離帯に車乗り上げ横転 2人重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581300?source=rss",
+        "publishedAt": "2026-05-22T14:41:55.000Z"
       },
       {
         "time": "20:49",
