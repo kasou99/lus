@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T18:46:24.686Z",
+  "updatedAt": "2026-05-22T19:38:17.329Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQckw5T0dfX2RvRjhrcEdDbS1PLUx1OUdsUXgxWk5udEd1bk1zckFnOVUwTjdPaVJOT0VINFhqVEU1OVNhbXBnUm93QmhQM0RKcnppQkhPbDJtTlNDcTZSOGdERDl5RnRLUDNfMllTM1BiUGhWSFFvUW4yYWFKcXlYZFNR?oc=5",
         "publishedAt": "2026-05-22T06:35:00.000Z"
+      },
+      {
+        "time": "19:18",
+        "title": "ファナック・稲葉清右衛門氏の功績を振り返る",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWldVYUkzZFVIWUtFMndydmNhbjBnU3ZoaGRHSFNkZFpNT1YyOUJJZ0RqUlJURHZDYS1hYUM2TGRuSURfVVZINXpuVEFnbGF3N2N1ZnA0blJWaVFzSUxWcDVBZ1lYX2l5VGxLLUQxWFdTQmpsTWVpY1Flb0xGSk1hdjZaWTdXZlZXdU9zZHA5Z180RV9XLWEzbC1KZTAwcFZqWFBr?oc=5",
+        "publishedAt": "2026-05-22T10:18:20.000Z"
       },
       {
         "time": "18:35",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZX04ybjZGRkpzTW5obl9Rd2g4Wmg0aHlyUlFkZFNyMGNPVHdxb2EzSmJIWFhhOHpPelVWU0VSX0ljRF93Qk8tcTQwakRKd1ZLVjRpUWljTldFejNFbjFWMVh6eHYza2pw?oc=5",
         "publishedAt": "2026-05-22T03:04:51.000Z"
-      },
-      {
-        "time": "12:05",
-        "title": "AC-DC産業用DINレール電源市場2026-2032：世界市場規模、成長、動向、予測の最新分析 「Globalinforesearch」",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43YnBSY0p6c3piaHB3Z1ZqeXMzQ3c5OEFsVE9wU003a0ZsUHR6MmhpV3JJTzRxaG9sRElHOG9HcjRrbDBoTlIwcGVvSEJzejRXajdNajJDUTR6dXl2VTdmX1RUVEFleFFO?oc=5",
-        "publishedAt": "2026-05-22T03:05:02.000Z"
       }
     ],
     "worldHeadlines": [
