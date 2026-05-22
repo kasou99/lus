@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-05-22T20:39:21.192Z",
+  "updatedAt": "2026-05-22T21:31:41.922Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:30",
+        "title": "生産ライン 競争力の源泉（105）山田ドビー 大型工作機械22台導入",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGQnhRVzQ2WW9qU3lTeGtJbDJHV01LZTJMNTNwQzN5WmR3SWZva0hjM01LbzB2SURMOWxvaU1zbmtXaExmdjRpTG9CY1dNb21DSlFPbW5DQ0VBdE8zSWs5Vk95eXJhWHM5enpTaUlPTTNDbjVS?oc=5",
+        "publishedAt": "2026-05-22T20:30:25.000Z"
+      },
       {
         "time": "15:35",
         "title": "インタビュー：技術流出防止へ「経済安保ファンド」創設を＝元国家安保局長・北村氏",
@@ -10,32 +17,11 @@
         "publishedAt": "2026-05-22T06:35:00.000Z"
       },
       {
-        "time": "19:18",
-        "title": "ファナック・稲葉清右衛門氏の功績を振り返る",
-        "source": "日経クロステック",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWldVYUkzZFVIWUtFMndydmNhbjBnU3ZoaGRHSFNkZFpNT1YyOUJJZ0RqUlJURHZDYS1hYUM2TGRuSURfVVZINXpuVEFnbGF3N2N1ZnA0blJWaVFzSUxWcDVBZ1lYX2l5VGxLLUQxWFdTQmpsTWVpY1Flb0xGSk1hdjZaWTdXZlZXdU9zZHA5Z180RV9XLWEzbC1KZTAwcFZqWFBr?oc=5",
-        "publishedAt": "2026-05-22T10:18:20.000Z"
-      },
-      {
         "time": "18:35",
         "title": "AIでOTデータと匠のスキルを融合、日立はいかに熟練者の思考を再現したか（MONOist）",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83YmtudGh6QzhzT1dCa2EwZF9PVnBWLWlvRmdHYWZxcTROTEVpbFI4M0Q2cnFsS2txN2o4blBINDMzLUxPa2JpU2g0dUZldXhvMmtzc2JkV0F2V3k5cnREY3pCQjNjRzlEd1gtb3NqdTdYX29wdGlYYzNWNXBnWlk?oc=5",
         "publishedAt": "2026-05-22T09:35:07.000Z"
-      },
-      {
-        "time": "17:25",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-05-22T08:25:14.000Z"
-      },
-      {
-        "time": "10:30",
-        "title": "宮本工業所、新本社建設 来年秋に移転",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yUnlsekZXUDJTUUFDTTVRTXB6dHdXVERubi1SZjQxdE9qYVhDa05tUmEzX2FJUEptNzM0eWRLZ0pYTGo4eTZYV0hBWjI2SU84UHJSRElPOVBQYUk?oc=5",
-        "publishedAt": "2026-05-22T01:30:12.000Z"
       },
       {
         "time": "17:17",
@@ -52,11 +38,25 @@
         "publishedAt": "2026-05-22T07:45:23.000Z"
       },
       {
-        "time": "06:00",
-        "title": "だから日経平均の「6万円突破」は当然…トランプ関税・ホルムズ海峡封鎖があっても株価が爆上げしている理由",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iQmh0UmFNUG8zc1ZvbmxCWDVub25EODlZV1I0a2F2VHpSSUx6bDJDbnZiU1FJOE9XMnNMTklhWi1nclkwSkZqTE1qbmM0WU4tQnRaX2RCck9Sd2dlWjRJZklxT1ZWLU12d1JTQ2toRUFLVWhrUi1XbHVB0gF_QVVfeXFMTThuaUhwWnJjZTdLdjVuRFJlMnFZOVdETHBnSUg0dzZqbUlIdmhORjBvb3BkTTJaMGM1WnJRMlRZYm1nUVlrQ2xGaDgtM1JpN0cyaDNwODM1dUJYQzNyQldCNW85WVJZd1NvS0ZnRXgxVFQwTDZNTmV4R0I4R2U5bw?oc=5",
-        "publishedAt": "2026-05-21T21:00:00.000Z"
+        "time": "13:16",
+        "title": "【ひと・交差点】三成興業の渡辺大輔社長 よろず支援拠点の優良事例で表彰",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55VW9LazNRd3hXVXRXcXhSem1WdFlKa3lOZjA4cFRPZFRQVVpkN0pDU1VSU3lWdkNXMm04SEUwWlRXelJnQ184bHlBOWJPSUI2T19WVVpfZEd5ZFR2dC13VnF3V3pnbEhNUGpRNm8wN0U5NWhuTFhj?oc=5",
+        "publishedAt": "2026-05-22T04:16:23.000Z"
+      },
+      {
+        "time": "16:00",
+        "title": "マクロスコープ：牧野フ買収中止勧告、「線引き」どこに 論点なお交錯",
+        "source": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQdzBvMUF1OFN3cmg3Wk5MYXU4dzdCOUViZncxWE0zT1hIanpoaEZ0eUJDcnpIQ3hGb1MwS2ZaZE4xSVQ3UmtWOE90R1ZjVERIUHpjeGpxS0pzSmQxTE9DUVZSZ2k1N1R6Rk9OaVgtNlhDeE9EMnlWd2d0X0RzcGV3dTZ5QWYzTlFYS1lGZUNlc0dTSUo0UkdaME4tQUNiWUVVN1VhRDdEVjZ2VXloQ2kxNnFXUE5CdE02TElBNkRIVEx6bDJDZ3hGandsX20tbkpsTzZzSUZpWVFmdFJkcmpCYmJSQVI1SXpOWkRPZ2YyRDNUMkE1b0MzTG9fRFkyUjBza3VCUkxUQy13TjdybW5hdE5VeTk3Vzhrb3poMl9tNjFQbkFaenktaGpJcXNURlpjZk1vemtsRFYyOVBwbnBPTWhqNGpOaHNDcTZCTVZZOXNyaXNuR1l5ZDlWcE5wY2FsSC1aRW9WUTRES3RRWDFzWUhuQWpZdm4wWERhYjM5TnpTNjVfZE16UlNwcUVkV2FIRVJweGItQjhpYUlfbi14d0tSWmQzdUtvTHBOMTlOLUtVUQ?oc=5",
+        "publishedAt": "2026-05-22T07:00:34.000Z"
+      },
+      {
+        "time": "12:04",
+        "title": "DINスイッチング電源市場統計2026：2032年1243百万米ドル規模へ発展",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZX04ybjZGRkpzTW5obl9Rd2g4Wmg0aHlyUlFkZFNyMGNPVHdxb2EzSmJIWFhhOHpPelVWU0VSX0ljRF93Qk8tcTQwakRKd1ZLVjRpUWljTldFejNFbjFWMVh6eHYza2pw?oc=5",
+        "publishedAt": "2026-05-22T03:04:51.000Z"
       }
     ],
     "worldHeadlines": [
