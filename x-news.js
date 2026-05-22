@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-22T01:14:04.032Z",
+  "updatedAt": "2026-05-22T02:26:07.081Z",
   "items": [
     {
-      "time": "09:04",
-      "title": "エボラ巡り 仏発旅客機目的地変更",
+      "time": "10:03",
+      "title": "国旗損壊罪骨子案を了承 自民PT",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581181?source=rss",
-      "publishedAt": "2026-05-22T00:04:59.000Z",
-      "xQuery": "エボラ巡り 仏発旅客機目的地変更"
+      "url": "https://news.yahoo.co.jp/pickup/6581188?source=rss",
+      "publishedAt": "2026-05-22T01:03:26.000Z",
+      "xQuery": "国旗損壊罪骨子案を了承 自民PT"
     },
     {
-      "time": "08:49",
-      "title": "支援のランドセル届かず 中東緊迫",
+      "time": "11:00",
+      "title": "医療用手袋 国家備蓄23日から配送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581180?source=rss",
-      "publishedAt": "2026-05-21T23:49:24.000Z",
-      "xQuery": "支援のランドセル届かず 中東緊迫"
+      "url": "https://news.yahoo.co.jp/pickup/6581194?source=rss",
+      "publishedAt": "2026-05-22T02:00:25.000Z",
+      "xQuery": "医療用手袋 国家備蓄23日から配送"
     },
     {
-      "time": "07:24",
-      "title": "女性職員にセクハラ 市長辞職意向",
+      "time": "11:19",
+      "title": "旭山動物園職員 殺人疑いで再逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581163?source=rss",
-      "publishedAt": "2026-05-21T22:24:38.000Z",
-      "xQuery": "女性職員にセクハラ 市長辞職意向"
+      "url": "https://news.yahoo.co.jp/pickup/6581199?source=rss",
+      "publishedAt": "2026-05-22T02:19:13.000Z",
+      "xQuery": "旭山動物園職員 殺人疑いで再逮捕"
     },
     {
-      "time": "08:32",
-      "title": "公園利用で市方針転換 モスク困惑",
+      "time": "10:18",
+      "title": "トランプ氏 AI大統領令の署名延期",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581178?source=rss",
-      "publishedAt": "2026-05-21T23:32:21.000Z",
-      "xQuery": "公園利用で市方針転換 モスク困惑"
+      "url": "https://news.yahoo.co.jp/pickup/6581189?source=rss",
+      "publishedAt": "2026-05-22T01:18:22.000Z",
+      "xQuery": "トランプ氏 AI大統領令の署名延期"
     },
     {
-      "time": "09:13",
-      "title": "少年野球場に無許可建築 除却勧告",
+      "time": "10:25",
+      "title": "エアコン買い替え慌てずに 専門家",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581182?source=rss",
-      "publishedAt": "2026-05-22T00:13:23.000Z",
-      "xQuery": "少年野球場に無許可建築 除却勧告"
+      "url": "https://news.yahoo.co.jp/pickup/6581190?source=rss",
+      "publishedAt": "2026-05-22T01:25:06.000Z",
+      "xQuery": "エアコン買い替え慌てずに 専門家"
     }
   ]
 };
