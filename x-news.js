@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-22T08:37:33.918Z",
+  "updatedAt": "2026-05-22T10:11:16.531Z",
   "items": [
     {
-      "time": "15:30",
-      "title": "2月の衆院選は「合憲」大阪高裁",
+      "time": "16:52",
+      "title": "NPT 北の非核化支持巡る項目削除",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581227?source=rss",
-      "publishedAt": "2026-05-22T06:30:26.000Z",
-      "xQuery": "2月の衆院選は「合憲」大阪高裁"
+      "url": "https://news.yahoo.co.jp/pickup/6581242?source=rss",
+      "publishedAt": "2026-05-22T07:52:42.000Z",
+      "xQuery": "NPT 北の非核化支持巡る項目削除"
     },
     {
-      "time": "16:00",
-      "title": "東京株終値6万3339円 最高値更新",
+      "time": "18:46",
+      "title": "首相の国会出席大幅削減を 吉村氏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581232?source=rss",
-      "publishedAt": "2026-05-22T07:00:34.000Z",
-      "xQuery": "東京株終値6万3339円 最高値更新"
+      "url": "https://news.yahoo.co.jp/pickup/6581261?source=rss",
+      "publishedAt": "2026-05-22T09:46:59.000Z",
+      "xQuery": "首相の国会出席大幅削減を 吉村氏"
     },
     {
-      "time": "16:28",
-      "title": "国旗損壊罪案 お子様ランチ対象外",
+      "time": "18:17",
+      "title": "「トランプ氏批判」の米番組 終了",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581237?source=rss",
-      "publishedAt": "2026-05-22T07:28:35.000Z",
-      "xQuery": "国旗損壊罪案 お子様ランチ対象外"
+      "url": "https://news.yahoo.co.jp/pickup/6581255?source=rss",
+      "publishedAt": "2026-05-22T09:17:13.000Z",
+      "xQuery": "「トランプ氏批判」の米番組 終了"
     },
     {
-      "time": "17:24",
-      "title": "デニム老舗「Lee」売却先が決定",
+      "time": "18:33",
+      "title": "公園の木の上にクマ居座る 駆除",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581246?source=rss",
-      "publishedAt": "2026-05-22T08:24:38.000Z",
-      "xQuery": "デニム老舗「Lee」売却先が決定"
+      "url": "https://news.yahoo.co.jp/pickup/6581260?source=rss",
+      "publishedAt": "2026-05-22T09:33:02.000Z",
+      "xQuery": "公園の木の上にクマ居座る 駆除"
     },
     {
-      "time": "16:57",
-      "title": "サムスンG辞め来日 企業文化驚き",
+      "time": "18:28",
+      "title": "男児が車にはねられ重体 82歳逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581243?source=rss",
-      "publishedAt": "2026-05-22T07:57:16.000Z",
-      "xQuery": "サムスンG辞め来日 企業文化驚き"
+      "url": "https://news.yahoo.co.jp/pickup/6581259?source=rss",
+      "publishedAt": "2026-05-22T09:28:40.000Z",
+      "xQuery": "男児が車にはねられ重体 82歳逮捕"
     }
   ]
 };

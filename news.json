@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T08:37:33.088Z",
+  "updatedAt": "2026-05-22T10:11:15.732Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ybVdLdWUtckdjSUg0NFRxc3NWektwU2ZTTkZ3MktlU0xEam9qRGkwcy0yU3NKNDNmalNuU1ZEM0IyenA5MVdiRmcwMFFaWXFJdzJtcnJBM3N6V1ZMMG5ZalBmaWJBTENkRWhIZEZ1RQ?oc=5",
         "publishedAt": "2026-05-21T22:45:00.000Z"
+      },
+      {
+        "time": "17:17",
+        "title": "日本産業用火炎検知器市場：世界規模、シェア、トレンド、企業動向、将来予測2026-2032",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4Y0VhbGlpM1dmMmpJRjhsN2ZlYWFWeFB0Y3AxRk43NGgxT182OUJXNzNxMDhNWjB4c3Y3RkdhTTVyNm1faUE3YXA4RThQQQ?oc=5",
+        "publishedAt": "2026-05-22T08:17:00.000Z"
       },
       {
         "time": "10:30",
@@ -43,13 +50,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55VW9LazNRd3hXVXRXcXhSem1WdFlKa3lOZjA4cFRPZFRQVVpkN0pDU1VSU3lWdkNXMm04SEUwWlRXelJnQ184bHlBOWJPSUI2T19WVVpfZEd5ZFR2dC13VnF3V3pnbEhNUGpRNm8wN0U5NWhuTFhj?oc=5",
         "publishedAt": "2026-05-22T04:16:23.000Z"
-      },
-      {
-        "time": "15:05",
-        "title": "マクロスコープ：牧野フ買収中止勧告、「線引き」どこに 論点なお交錯",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkhGd21kcFF5N3I5Y1dDTXBmXzg5TFVOcGNYZzRqbkE2NFNkTm5fWFlncG5YR2xuZDltU3JJRDR6SlZ5ZGkyV2UwaWhSa1RjOFFtOXNISkZJOFYxczFoWWRPcjR1ZFNobzhMWkU0RVNINGl6TDVVb1ZqUjFjNVdQdEM5MmhlSjJzUG56Ug?oc=5",
-        "publishedAt": "2026-05-22T06:05:00.000Z"
       },
       {
         "time": "12:04",
@@ -96,11 +96,11 @@
         "publishedAt": "2026-05-22T02:19:18.000Z"
       },
       {
-        "time": "12:01",
-        "title": "習主席が近く訪朝か 韓国側注視",
+        "time": "09:04",
+        "title": "エボラ巡り 仏発旅客機目的地変更",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581071?source=rss",
-        "publishedAt": "2026-05-21T03:01:40.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581181?source=rss",
+        "publishedAt": "2026-05-22T00:04:59.000Z"
       }
     ],
     "economyHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-05-22T04:36:50.000Z"
       },
       {
-        "time": "16:57",
-        "title": "サムスンG辞め来日 企業文化驚き",
+        "time": "17:45",
+        "title": "ラーメン屋でカレー ラーカレとは",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581243?source=rss",
-        "publishedAt": "2026-05-22T07:57:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581250?source=rss",
+        "publishedAt": "2026-05-22T08:45:31.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-05-22T06:33:18.000Z"
       },
       {
-        "time": "14:48",
-        "title": "辺野古死亡の船長 国が刑事告発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581224?source=rss",
-        "publishedAt": "2026-05-22T05:48:48.000Z"
-      },
-      {
         "time": "17:35",
         "title": "議会棟の取材制限 福岡県議会検討",
         "source": "Yahoo!ニュース",
@@ -177,11 +170,11 @@
         "publishedAt": "2026-05-22T08:35:12.000Z"
       },
       {
-        "time": "14:31",
-        "title": "軽井沢バス事故 2審も社長ら実刑",
+        "time": "18:28",
+        "title": "男児が車にはねられ重体 82歳逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581221?source=rss",
-        "publishedAt": "2026-05-22T05:31:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581259?source=rss",
+        "publishedAt": "2026-05-22T09:28:40.000Z"
       },
       {
         "time": "17:17",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581245?source=rss",
         "publishedAt": "2026-05-22T08:17:03.000Z"
+      },
+      {
+        "time": "18:52",
+        "title": "出向者が福島被災地パト怠る 処分",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581262?source=rss",
+        "publishedAt": "2026-05-22T09:52:58.000Z"
       }
     ],
     "subsidyHeadlines": [
