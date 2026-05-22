@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-05-22T07:28:03.283Z",
+  "updatedAt": "2026-05-22T08:37:33.088Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:35",
+        "title": "インタビュー：技術流出防止へ「経済安保ファンド」創設を＝元国家安保局長・北村氏",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQckw5T0dfX2RvRjhrcEdDbS1PLUx1OUdsUXgxWk5udEd1bk1zckFnOVUwTjdPaVJOT0VINFhqVEU1OVNhbXBnUm93QmhQM0RKcnppQkhPbDJtTlNDcTZSOGdERDl5RnRLUDNfMllTM1BiUGhWSFFvUW4yYWFKcXlYZFNR?oc=5",
+        "publishedAt": "2026-05-22T06:35:00.000Z"
+      },
       {
         "time": "07:45",
         "title": "AIでOTデータと匠のスキルを融合、日立はいかに熟練者の思考を再現したか：製造現場向けAI技術",
@@ -10,18 +17,11 @@
         "publishedAt": "2026-05-21T22:45:00.000Z"
       },
       {
-        "time": "07:53",
-        "title": "住商、電池リサイクル 30年めど供給網",
+        "time": "10:30",
+        "title": "宮本工業所、新本社建設 来年秋に移転",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45NG9lY1RUdEN1UzQ0WTFQdFd6bzlkdUw3Zl9KS3VfVmdJZXFCa1BHei1URW5pYkZIdzJPUDhpMjczWGFKMmN0RzlWS1c2cDFYN1pKTHlSRHhPYkJocXZ3TjRhRDY2TDlDS1dDTTQ3ZU54S1lo?oc=5",
-        "publishedAt": "2026-05-21T22:53:50.000Z"
-      },
-      {
-        "time": "16:49",
-        "title": "リタール、制御盤用クーラー「Blue e+」「Blue e+ S」のノンフロンモデル発売",
-        "source": "オートメーション新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ekpiWW5ZZl91M2hOS3lZa3FLZVBnbXpuaFEwWm4yZTZfRHlCaTVVc1VvWnQ1d21sUWVGOUh1RzN0dDd3TUllX0FiWlhhQk5ueTlYSGlZRDVEZw?oc=5",
-        "publishedAt": "2026-05-21T07:49:08.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yUnlsekZXUDJTUUFDTTVRTXB6dHdXVERubi1SZjQxdE9qYVhDa05tUmEzX2FJUEptNzM0eWRLZ0pYTGo4eTZYV0hBWjI2SU84UHJSRElPOVBQYUk?oc=5",
+        "publishedAt": "2026-05-22T01:30:12.000Z"
       },
       {
         "time": "06:00",
@@ -29,6 +29,13 @@
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04bmlIcFpyY2U3S3Y1bkRSZTJxWTlXRExwZ0lINHc2am1JSHZoTkYwb29wZE0yWjBjNVpyUTJUWWJtZ1FZa0NsRmg4LTNSaTdHMmgzcDgzNXVCWEMzckJXQjVvOVlSWXdTb0tGZ0V4MVRUMEw2TU5leEdCOEdlOW_SAX9BVV95cUxNOG5pSHBacmNlN0t2NW5EUmUycVk5V0RMcGdJSDR3NmptSUh2aE5GMG9vcGRNMlowYzVaclEyVFlibWdRWWtDbEZoOC0zUmk3RzJoM3A4MzV1QlhDM3JCV0I1bzlZUll3U29LRmdFeDFUVDBMNk1OZXhHQjhHZTlv?oc=5",
         "publishedAt": "2026-05-21T21:00:00.000Z"
+      },
+      {
+        "time": "16:45",
+        "title": "モーションコントローラ市場の最新予測、2026年に10630百万米ドル規模へ｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yMzZMY3FySUxuaUdIbFU1M2pFREUxYWFQN29BUnFfaXY3ZVdKZlllV3I1MTNTc1FoVEJCMUcwSkFKRVBvVlJIVTc3OVlDSnRkZmN0b3NHSQ?oc=5",
+        "publishedAt": "2026-05-22T07:45:23.000Z"
       },
       {
         "time": "13:16",
@@ -43,13 +50,6 @@
         "source": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkhGd21kcFF5N3I5Y1dDTXBmXzg5TFVOcGNYZzRqbkE2NFNkTm5fWFlncG5YR2xuZDltU3JJRDR6SlZ5ZGkyV2UwaWhSa1RjOFFtOXNISkZJOFYxczFoWWRPcjR1ZFNobzhMWkU0RVNINGl6TDVVb1ZqUjFjNVdQdEM5MmhlSjJzUG56Ug?oc=5",
         "publishedAt": "2026-05-22T06:05:00.000Z"
-      },
-      {
-        "time": "17:34",
-        "title": "「ドイツ経済は中国にのみ込まれる」 欧州報告書が警鐘",
-        "source": "NewSphere",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ma0ZfcWJDWmVnVFdmalRCbXF1Ujl3Yk9ncEw2dWtEYjluNUFvcGVIWXVybzg0bzVoTm94RHVzVWFoZ1FtZlpWSUdMZHdSSkgyX3RJT284TTA?oc=5",
-        "publishedAt": "2026-05-21T08:34:59.000Z"
       },
       {
         "time": "12:04",
@@ -82,18 +82,18 @@
         "publishedAt": "2026-05-21T23:49:24.000Z"
       },
       {
+        "time": "16:52",
+        "title": "NPT 北の非核化支持巡る項目削除",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581242?source=rss",
+        "publishedAt": "2026-05-22T07:52:42.000Z"
+      },
+      {
         "time": "11:19",
         "title": "ポーランドに5千人を追加派兵 米",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581198?source=rss",
         "publishedAt": "2026-05-22T02:19:18.000Z"
-      },
-      {
-        "time": "11:20",
-        "title": "中国で切り付け 在留邦人は不安",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581064?source=rss",
-        "publishedAt": "2026-05-21T02:20:14.000Z"
       },
       {
         "time": "12:01",
@@ -112,13 +112,6 @@
         "publishedAt": "2026-05-22T07:00:34.000Z"
       },
       {
-        "time": "10:25",
-        "title": "エアコン買い替え慌てずに 専門家",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581190?source=rss",
-        "publishedAt": "2026-05-22T01:25:06.000Z"
-      },
-      {
         "time": "13:47",
         "title": "シニア起業 地域経済への効果期待",
         "source": "Yahoo!ニュース",
@@ -133,6 +126,13 @@
         "publishedAt": "2026-05-22T04:49:55.000Z"
       },
       {
+        "time": "17:24",
+        "title": "デニム老舗「Lee」売却先が決定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581246?source=rss",
+        "publishedAt": "2026-05-22T08:24:38.000Z"
+      },
+      {
         "time": "13:36",
         "title": "大手チェーンが町中華に参入 背景",
         "source": "Yahoo!ニュース",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-05-22T04:36:50.000Z"
       },
       {
-        "time": "12:31",
-        "title": "夕張メロンの初競り 2玉580万円",
+        "time": "16:57",
+        "title": "サムスンG辞め来日 企業文化驚き",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581208?source=rss",
-        "publishedAt": "2026-05-22T03:31:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581243?source=rss",
+        "publishedAt": "2026-05-22T07:57:16.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-05-22T05:48:48.000Z"
       },
       {
+        "time": "17:35",
+        "title": "議会棟の取材制限 福岡県議会検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581248?source=rss",
+        "publishedAt": "2026-05-22T08:35:12.000Z"
+      },
+      {
         "time": "14:31",
         "title": "軽井沢バス事故 2審も社長ら実刑",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-05-22T05:31:07.000Z"
       },
       {
-        "time": "16:08",
-        "title": "自衛隊車両を24年無免許運転 免職",
+        "time": "17:17",
+        "title": "車転落し意識不明 高知・伊尾木洞",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581231?source=rss",
-        "publishedAt": "2026-05-22T07:08:05.000Z"
-      },
-      {
-        "time": "14:04",
-        "title": "新浪剛史氏を不起訴処分 福岡地検",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581219?source=rss",
-        "publishedAt": "2026-05-22T05:04:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581245?source=rss",
+        "publishedAt": "2026-05-22T08:17:03.000Z"
       }
     ],
     "subsidyHeadlines": [

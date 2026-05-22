@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-22T07:28:03.941Z",
+  "updatedAt": "2026-05-22T08:37:33.918Z",
   "items": [
+    {
+      "time": "15:30",
+      "title": "2月の衆院選は「合憲」大阪高裁",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581227?source=rss",
+      "publishedAt": "2026-05-22T06:30:26.000Z",
+      "xQuery": "2月の衆院選は「合憲」大阪高裁"
+    },
     {
       "time": "16:00",
       "title": "東京株終値6万3339円 最高値更新",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "東京株終値6万3339円 最高値更新"
     },
     {
-      "time": "14:31",
-      "title": "軽井沢バス事故 2審も社長ら実刑",
+      "time": "16:28",
+      "title": "国旗損壊罪案 お子様ランチ対象外",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581221?source=rss",
-      "publishedAt": "2026-05-22T05:31:07.000Z",
-      "xQuery": "軽井沢バス事故 2審も社長ら実刑"
+      "url": "https://news.yahoo.co.jp/pickup/6581237?source=rss",
+      "publishedAt": "2026-05-22T07:28:35.000Z",
+      "xQuery": "国旗損壊罪案 お子様ランチ対象外"
     },
     {
-      "time": "14:48",
-      "title": "辺野古死亡の船長 国が刑事告発",
+      "time": "17:24",
+      "title": "デニム老舗「Lee」売却先が決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581224?source=rss",
-      "publishedAt": "2026-05-22T05:48:48.000Z",
-      "xQuery": "辺野古死亡の船長 国が刑事告発"
+      "url": "https://news.yahoo.co.jp/pickup/6581246?source=rss",
+      "publishedAt": "2026-05-22T08:24:38.000Z",
+      "xQuery": "デニム老舗「Lee」売却先が決定"
     },
     {
-      "time": "15:33",
-      "title": "同志社国際高の私学助成 減額検討",
+      "time": "16:57",
+      "title": "サムスンG辞め来日 企業文化驚き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581228?source=rss",
-      "publishedAt": "2026-05-22T06:33:18.000Z",
-      "xQuery": "同志社国際高の私学助成 減額検討"
-    },
-    {
-      "time": "13:26",
-      "title": "栃木強殺 遺族がコメント公表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581214?source=rss",
-      "publishedAt": "2026-05-22T04:26:50.000Z",
-      "xQuery": "栃木強殺 遺族がコメント公表"
+      "url": "https://news.yahoo.co.jp/pickup/6581243?source=rss",
+      "publishedAt": "2026-05-22T07:57:16.000Z",
+      "xQuery": "サムスンG辞め来日 企業文化驚き"
     }
   ]
 };
