@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T11:29:09.883Z",
+  "updatedAt": "2026-05-22T12:24:55.410Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,13 +156,6 @@
         "publishedAt": "2026-05-22T10:57:29.000Z"
       },
       {
-        "time": "15:33",
-        "title": "同志社国際高の私学助成 減額検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581228?source=rss",
-        "publishedAt": "2026-05-22T06:33:18.000Z"
-      },
-      {
         "time": "17:35",
         "title": "議会棟の取材制限 福岡県議会検討",
         "source": "Yahoo!ニュース",
@@ -170,18 +163,11 @@
         "publishedAt": "2026-05-22T08:35:12.000Z"
       },
       {
-        "time": "18:28",
-        "title": "男児が車にはねられ重体 82歳逮捕",
+        "time": "20:49",
+        "title": "1.4万人個人情報漏洩か 静岡県警",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581259?source=rss",
-        "publishedAt": "2026-05-22T09:28:40.000Z"
-      },
-      {
-        "time": "17:17",
-        "title": "車転落し意識不明 高知・伊尾木洞",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581245?source=rss",
-        "publishedAt": "2026-05-22T08:17:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581275?source=rss",
+        "publishedAt": "2026-05-22T11:49:06.000Z"
       },
       {
         "time": "18:52",
@@ -189,6 +175,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581262?source=rss",
         "publishedAt": "2026-05-22T09:52:58.000Z"
+      },
+      {
+        "time": "18:33",
+        "title": "公園の木の上にクマ居座る 駆除",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581260?source=rss",
+        "publishedAt": "2026-05-22T09:33:02.000Z"
+      },
+      {
+        "time": "18:28",
+        "title": "男児が車にはねられ重体 82歳逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581259?source=rss",
+        "publishedAt": "2026-05-22T09:28:40.000Z"
       }
     ],
     "subsidyHeadlines": [

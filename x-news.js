@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-22T11:29:10.661Z",
+  "updatedAt": "2026-05-22T12:24:56.235Z",
   "items": [
     {
       "time": "19:57",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "転覆事故 同志社が再発防止策発表"
     },
     {
-      "time": "18:46",
-      "title": "首相の国会出席大幅削減を 吉村氏",
+      "time": "20:25",
+      "title": "ミュトス悪用対策 金融庁など要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581261?source=rss",
-      "publishedAt": "2026-05-22T09:46:59.000Z",
-      "xQuery": "首相の国会出席大幅削減を 吉村氏"
+      "url": "https://news.yahoo.co.jp/pickup/6581274?source=rss",
+      "publishedAt": "2026-05-22T11:25:32.000Z",
+      "xQuery": "ミュトス悪用対策 金融庁など要請"
+    },
+    {
+      "time": "18:52",
+      "title": "出向者が福島被災地パト怠る 処分",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581262?source=rss",
+      "publishedAt": "2026-05-22T09:52:58.000Z",
+      "xQuery": "出向者が福島被災地パト怠る 処分"
     },
     {
       "time": "19:29",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581267?source=rss",
       "publishedAt": "2026-05-22T10:29:26.000Z",
       "xQuery": "韓国のスターバックスで不買運動"
-    },
-    {
-      "time": "17:24",
-      "title": "デニム老舗「Lee」売却先が決定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581246?source=rss",
-      "publishedAt": "2026-05-22T08:24:38.000Z",
-      "xQuery": "デニム老舗「Lee」売却先が決定"
     },
     {
       "time": "19:56",
