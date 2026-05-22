@@ -1,21 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-22T05:30:57.353Z",
+  "updatedAt": "2026-05-22T07:28:03.941Z",
   "items": [
     {
-      "time": "14:04",
-      "title": "新浪剛史氏を不起訴処分 福岡地検",
+      "time": "16:00",
+      "title": "東京株終値6万3339円 最高値更新",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581219?source=rss",
-      "publishedAt": "2026-05-22T05:04:22.000Z",
-      "xQuery": "新浪剛史氏を不起訴処分 福岡地検"
+      "url": "https://news.yahoo.co.jp/pickup/6581232?source=rss",
+      "publishedAt": "2026-05-22T07:00:34.000Z",
+      "xQuery": "東京株終値6万3339円 最高値更新"
     },
     {
-      "time": "13:47",
-      "title": "シニア起業 地域経済への効果期待",
+      "time": "14:31",
+      "title": "軽井沢バス事故 2審も社長ら実刑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581210?source=rss",
-      "publishedAt": "2026-05-22T04:47:57.000Z",
-      "xQuery": "シニア起業 地域経済への効果期待"
+      "url": "https://news.yahoo.co.jp/pickup/6581221?source=rss",
+      "publishedAt": "2026-05-22T05:31:07.000Z",
+      "xQuery": "軽井沢バス事故 2審も社長ら実刑"
+    },
+    {
+      "time": "14:48",
+      "title": "辺野古死亡の船長 国が刑事告発",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581224?source=rss",
+      "publishedAt": "2026-05-22T05:48:48.000Z",
+      "xQuery": "辺野古死亡の船長 国が刑事告発"
+    },
+    {
+      "time": "15:33",
+      "title": "同志社国際高の私学助成 減額検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581228?source=rss",
+      "publishedAt": "2026-05-22T06:33:18.000Z",
+      "xQuery": "同志社国際高の私学助成 減額検討"
     },
     {
       "time": "13:26",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581214?source=rss",
       "publishedAt": "2026-05-22T04:26:50.000Z",
       "xQuery": "栃木強殺 遺族がコメント公表"
-    },
-    {
-      "time": "11:45",
-      "title": "ストーカー加害者にGPS案 課題は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581201?source=rss",
-      "publishedAt": "2026-05-22T02:45:14.000Z",
-      "xQuery": "ストーカー加害者にGPS案 課題は"
-    },
-    {
-      "time": "13:49",
-      "title": "トヨタ GWの稼働日見直し検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581217?source=rss",
-      "publishedAt": "2026-05-22T04:49:55.000Z",
-      "xQuery": "トヨタ GWの稼働日見直し検討"
     }
   ]
 };
