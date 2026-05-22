@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T02:26:05.797Z",
+  "updatedAt": "2026-05-22T03:50:38.920Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-05-21T08:23:00.000Z"
       },
       {
+        "time": "12:05",
+        "title": "AC-DC産業用DINレール電源市場2026-2032：世界市場規模、成長、動向、予測の最新分析 「Globalinforesearch」",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43YnBSY0p6c3piaHB3Z1ZqeXMzQ3c5OEFsVE9wU003a0ZsUHR6MmhpV3JJTzRxaG9sRElHOG9HcjRrbDBoTlIwcGVvSEJzejRXajdNajJDUTR6dXl2VTdmX1RUVEFleFFO?oc=5",
+        "publishedAt": "2026-05-22T03:05:02.000Z"
+      },
+      {
         "time": "13:00",
         "title": "【産官学連携で臨む酪農DX】「小型・低コストの餌寄せロボット」の開発がスマート農業技術の開発・供給に関する事業に採択",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96TnhleXNyN3FkcDF1TElfU0JIaFNyLUlwc3lOckdCSWNOQ0N0REloRlFUT0k0YTdlYVNlX2JZUkE1ZmM1SjNJVndSYk5oX1B6eHROVjNHc2ttWFk5aEZIZE83STFSR0hwTXp5eW5oVVYtd0h4RWk0MkFaVQ?oc=5",
         "publishedAt": "2026-05-21T04:00:44.000Z"
-      },
-      {
-        "time": "11:59",
-        "title": "【ぽこあポケモン】そうさばん(操作盤)のレシピと入手方法【ぽこポケ】",
-        "source": "GameWith",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFYjEzVnpKbjR0MWZfeDJLZmllUHN6SjkwWE9hQnpZQzJPU3J0UUN1TUxOSDhwV2Q5OFFFVHVvQXhYblRtZFl1QnRFUTgyVnRT?oc=5",
-        "publishedAt": "2026-05-21T02:59:06.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-05-22T00:25:19.000Z"
       },
       {
-        "time": "22:02",
-        "title": "NHK受信契約巡り 岐阜知事が要請",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581146?source=rss",
-        "publishedAt": "2026-05-21T13:02:33.000Z"
-      },
-      {
         "time": "10:25",
         "title": "エアコン買い替え慌てずに 専門家",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581138?source=rss",
         "publishedAt": "2026-05-21T11:24:37.000Z"
+      },
+      {
+        "time": "09:42",
+        "title": "リカバリーシューズ拡大 各社戦略",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581186?source=rss",
+        "publishedAt": "2026-05-22T00:42:31.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-05-22T02:02:04.000Z"
       },
       {
-        "time": "06:52",
-        "title": "神戸山口組長宅 競売で所有権移転",
+        "time": "12:11",
+        "title": "犬猫39匹劣悪環境で飼育疑い 逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581162?source=rss",
-        "publishedAt": "2026-05-21T21:52:27.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581205?source=rss",
+        "publishedAt": "2026-05-22T03:11:46.000Z"
       }
     ],
     "subsidyHeadlines": [

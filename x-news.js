@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-22T02:26:07.081Z",
+  "updatedAt": "2026-05-22T03:50:39.598Z",
   "items": [
     {
-      "time": "10:03",
-      "title": "国旗損壊罪骨子案を了承 自民PT",
+      "time": "10:55",
+      "title": "辺野古転覆 文科省が見解公表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581188?source=rss",
-      "publishedAt": "2026-05-22T01:03:26.000Z",
-      "xQuery": "国旗損壊罪骨子案を了承 自民PT"
+      "url": "https://news.yahoo.co.jp/pickup/6581195?source=rss",
+      "publishedAt": "2026-05-22T01:55:27.000Z",
+      "xQuery": "辺野古転覆 文科省が見解公表"
     },
     {
-      "time": "11:00",
-      "title": "医療用手袋 国家備蓄23日から配送",
+      "time": "09:50",
+      "title": "不法就労巡るSNS情報監視 入管庁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581194?source=rss",
-      "publishedAt": "2026-05-22T02:00:25.000Z",
-      "xQuery": "医療用手袋 国家備蓄23日から配送"
+      "url": "https://news.yahoo.co.jp/pickup/6581187?source=rss",
+      "publishedAt": "2026-05-22T00:50:54.000Z",
+      "xQuery": "不法就労巡るSNS情報監視 入管庁"
     },
     {
       "time": "11:19",
-      "title": "旭山動物園職員 殺人疑いで再逮捕",
+      "title": "ポーランドに5千人を追加派兵 米",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581199?source=rss",
-      "publishedAt": "2026-05-22T02:19:13.000Z",
-      "xQuery": "旭山動物園職員 殺人疑いで再逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6581198?source=rss",
+      "publishedAt": "2026-05-22T02:19:18.000Z",
+      "xQuery": "ポーランドに5千人を追加派兵 米"
     },
     {
-      "time": "10:18",
-      "title": "トランプ氏 AI大統領令の署名延期",
+      "time": "12:11",
+      "title": "犬猫39匹劣悪環境で飼育疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581189?source=rss",
-      "publishedAt": "2026-05-22T01:18:22.000Z",
-      "xQuery": "トランプ氏 AI大統領令の署名延期"
+      "url": "https://news.yahoo.co.jp/pickup/6581205?source=rss",
+      "publishedAt": "2026-05-22T03:11:46.000Z",
+      "xQuery": "犬猫39匹劣悪環境で飼育疑い 逮捕"
     },
     {
-      "time": "10:25",
-      "title": "エアコン買い替え慌てずに 専門家",
+      "time": "11:50",
+      "title": "東急線のクマのステッカー 姿消す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581190?source=rss",
-      "publishedAt": "2026-05-22T01:25:06.000Z",
-      "xQuery": "エアコン買い替え慌てずに 専門家"
+      "url": "https://news.yahoo.co.jp/pickup/6581202?source=rss",
+      "publishedAt": "2026-05-22T02:50:14.000Z",
+      "xQuery": "東急線のクマのステッカー 姿消す"
     }
   ]
 };
