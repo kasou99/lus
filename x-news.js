@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-21T23:56:48.451Z",
+  "updatedAt": "2026-05-22T01:14:04.032Z",
   "items": [
     {
-      "time": "07:53",
-      "title": "ナフサ流通目詰まり 首相解消指示",
+      "time": "09:04",
+      "title": "エボラ巡り 仏発旅客機目的地変更",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581170?source=rss",
-      "publishedAt": "2026-05-21T22:53:24.000Z",
-      "xQuery": "ナフサ流通目詰まり 首相解消指示"
+      "url": "https://news.yahoo.co.jp/pickup/6581181?source=rss",
+      "publishedAt": "2026-05-22T00:04:59.000Z",
+      "xQuery": "エボラ巡り 仏発旅客機目的地変更"
     },
     {
-      "time": "08:01",
-      "title": "ウラン国外搬出を禁止 モジタバ師",
+      "time": "08:49",
+      "title": "支援のランドセル届かず 中東緊迫",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581171?source=rss",
-      "publishedAt": "2026-05-21T23:01:24.000Z",
-      "xQuery": "ウラン国外搬出を禁止 モジタバ師"
-    },
-    {
-      "time": "08:21",
-      "title": "辺野古転覆 学校が船長に6回謝礼",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581175?source=rss",
-      "publishedAt": "2026-05-21T23:21:38.000Z",
-      "xQuery": "辺野古転覆 学校が船長に6回謝礼"
+      "url": "https://news.yahoo.co.jp/pickup/6581180?source=rss",
+      "publishedAt": "2026-05-21T23:49:24.000Z",
+      "xQuery": "支援のランドセル届かず 中東緊迫"
     },
     {
       "time": "07:24",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "女性職員にセクハラ 市長辞職意向"
     },
     {
-      "time": "08:33",
-      "title": "食道がん細胞を破壊 新製剤承認へ",
+      "time": "08:32",
+      "title": "公園利用で市方針転換 モスク困惑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581177?source=rss",
-      "publishedAt": "2026-05-21T23:33:14.000Z",
-      "xQuery": "食道がん細胞を破壊 新製剤承認へ"
+      "url": "https://news.yahoo.co.jp/pickup/6581178?source=rss",
+      "publishedAt": "2026-05-21T23:32:21.000Z",
+      "xQuery": "公園利用で市方針転換 モスク困惑"
+    },
+    {
+      "time": "09:13",
+      "title": "少年野球場に無許可建築 除却勧告",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581182?source=rss",
+      "publishedAt": "2026-05-22T00:13:23.000Z",
+      "xQuery": "少年野球場に無許可建築 除却勧告"
     }
   ]
 };
