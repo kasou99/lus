@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T19:38:17.329Z",
+  "updatedAt": "2026-05-22T20:39:21.192Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83YmtudGh6QzhzT1dCa2EwZF9PVnBWLWlvRmdHYWZxcTROTEVpbFI4M0Q2cnFsS2txN2o4blBINDMzLUxPa2JpU2g0dUZldXhvMmtzc2JkV0F2V3k5cnREY3pCQjNjRzlEd1gtb3NqdTdYX29wdGlYYzNWNXBnWlk?oc=5",
         "publishedAt": "2026-05-22T09:35:07.000Z"
+      },
+      {
+        "time": "17:25",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-05-22T08:25:14.000Z"
       },
       {
         "time": "10:30",
@@ -50,13 +57,6 @@
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iQmh0UmFNUG8zc1ZvbmxCWDVub25EODlZV1I0a2F2VHpSSUx6bDJDbnZiU1FJOE9XMnNMTklhWi1nclkwSkZqTE1qbmM0WU4tQnRaX2RCck9Sd2dlWjRJZklxT1ZWLU12d1JTQ2toRUFLVWhrUi1XbHVB0gF_QVVfeXFMTThuaUhwWnJjZTdLdjVuRFJlMnFZOVdETHBnSUg0dzZqbUlIdmhORjBvb3BkTTJaMGM1WnJRMlRZYm1nUVlrQ2xGaDgtM1JpN0cyaDNwODM1dUJYQzNyQldCNW85WVJZd1NvS0ZnRXgxVFQwTDZNTmV4R0I4R2U5bw?oc=5",
         "publishedAt": "2026-05-21T21:00:00.000Z"
-      },
-      {
-        "time": "12:04",
-        "title": "DINスイッチング電源市場統計2026：2032年1243百万米ドル規模へ発展",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZX04ybjZGRkpzTW5obl9Rd2g4Wmg0aHlyUlFkZFNyMGNPVHdxb2EzSmJIWFhhOHpPelVWU0VSX0ljRF93Qk8tcTQwakRKd1ZLVjRpUWljTldFejNFbjFWMVh6eHYza2pw?oc=5",
-        "publishedAt": "2026-05-22T03:04:51.000Z"
       }
     ],
     "worldHeadlines": [
