@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-05-22T12:24:55.410Z",
+  "updatedAt": "2026-05-22T13:21:55.423Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "15:35",
-        "title": "インタビュー：技術流出防止へ「経済安保ファンド」創設を＝元国家安保局長・北村氏",
+        "title": "マクロスコープ：インタビュー：技術流出防止へ「経済安保ファンド」創設を＝元国家安保局長・北村氏",
         "source": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQckw5T0dfX2RvRjhrcEdDbS1PLUx1OUdsUXgxWk5udEd1bk1zckFnOVUwTjdPaVJOT0VINFhqVEU1OVNhbXBnUm93QmhQM0RKcnppQkhPbDJtTlNDcTZSOGdERDl5RnRLUDNfMllTM1BiUGhWSFFvUW4yYWFKcXlYZFNR?oc=5",
         "publishedAt": "2026-05-22T06:35:00.000Z"
@@ -45,18 +45,18 @@
         "publishedAt": "2026-05-22T07:45:23.000Z"
       },
       {
-        "time": "07:53",
-        "title": "住商、電池リサイクル 30年めど供給網",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45NG9lY1RUdEN1UzQ0WTFQdFd6bzlkdUw3Zl9KS3VfVmdJZXFCa1BHei1URW5pYkZIdzJPUDhpMjczWGFKMmN0RzlWS1c2cDFYN1pKTHlSRHhPYkJocXZ3TjRhRDY2TDlDS1dDTTQ3ZU54S1lo?oc=5",
-        "publishedAt": "2026-05-21T22:53:50.000Z"
-      },
-      {
         "time": "12:04",
         "title": "DINスイッチング電源市場統計2026：2032年1243百万米ドル規模へ発展",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZX04ybjZGRkpzTW5obl9Rd2g4Wmg0aHlyUlFkZFNyMGNPVHdxb2EzSmJIWFhhOHpPelVWU0VSX0ljRF93Qk8tcTQwakRKd1ZLVjRpUWljTldFejNFbjFWMVh6eHYza2pw?oc=5",
         "publishedAt": "2026-05-22T03:04:51.000Z"
+      },
+      {
+        "time": "12:05",
+        "title": "AC-DC産業用DINレール電源市場2026-2032：世界市場規模、成長、動向、予測の最新分析 「Globalinforesearch」",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43YnBSY0p6c3piaHB3Z1ZqeXMzQ3c5OEFsVE9wU003a0ZsUHR6MmhpV3JJTzRxaG9sRElHOG9HcjRrbDBoTlIwcGVvSEJzejRXajdNajJDUTR6dXl2VTdmX1RUVEFleFFO?oc=5",
+        "publishedAt": "2026-05-22T03:05:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,18 +112,18 @@
         "publishedAt": "2026-05-22T10:18:42.000Z"
       },
       {
-        "time": "16:00",
-        "title": "東京株終値6万3339円 最高値更新",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581232?source=rss",
-        "publishedAt": "2026-05-22T07:00:34.000Z"
-      },
-      {
         "time": "13:49",
         "title": "トヨタ GWの稼働日見直し検討",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581217?source=rss",
         "publishedAt": "2026-05-22T04:49:55.000Z"
+      },
+      {
+        "time": "21:58",
+        "title": "ファミマPB包装ロゴ 白黒化検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581284?source=rss",
+        "publishedAt": "2026-05-22T12:58:14.000Z"
       },
       {
         "time": "13:47",
@@ -163,6 +163,20 @@
         "publishedAt": "2026-05-22T08:35:12.000Z"
       },
       {
+        "time": "21:32",
+        "title": "電話に違和感 詐欺防いだ中学生",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581281?source=rss",
+        "publishedAt": "2026-05-22T12:32:53.000Z"
+      },
+      {
+        "time": "22:10",
+        "title": "沖合でダイビング 女性溺れ死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581287?source=rss",
+        "publishedAt": "2026-05-22T13:10:45.000Z"
+      },
+      {
         "time": "20:49",
         "title": "1.4万人個人情報漏洩か 静岡県警",
         "source": "Yahoo!ニュース",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581262?source=rss",
         "publishedAt": "2026-05-22T09:52:58.000Z"
-      },
-      {
-        "time": "18:33",
-        "title": "公園の木の上にクマ居座る 駆除",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581260?source=rss",
-        "publishedAt": "2026-05-22T09:33:02.000Z"
-      },
-      {
-        "time": "18:28",
-        "title": "男児が車にはねられ重体 82歳逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581259?source=rss",
-        "publishedAt": "2026-05-22T09:28:40.000Z"
       }
     ],
     "subsidyHeadlines": [

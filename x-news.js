@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-22T12:24:56.235Z",
+  "updatedAt": "2026-05-22T13:21:56.431Z",
   "items": [
-    {
-      "time": "19:57",
-      "title": "転覆事故 同志社が再発防止策発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581270?source=rss",
-      "publishedAt": "2026-05-22T10:57:29.000Z",
-      "xQuery": "転覆事故 同志社が再発防止策発表"
-    },
     {
       "time": "20:25",
       "title": "ミュトス悪用対策 金融庁など要請",
@@ -18,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ミュトス悪用対策 金融庁など要請"
     },
     {
-      "time": "18:52",
-      "title": "出向者が福島被災地パト怠る 処分",
+      "time": "19:57",
+      "title": "転覆事故 同志社が再発防止策発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581262?source=rss",
-      "publishedAt": "2026-05-22T09:52:58.000Z",
-      "xQuery": "出向者が福島被災地パト怠る 処分"
+      "url": "https://news.yahoo.co.jp/pickup/6581270?source=rss",
+      "publishedAt": "2026-05-22T10:57:29.000Z",
+      "xQuery": "転覆事故 同志社が再発防止策発表"
+    },
+    {
+      "time": "20:59",
+      "title": "ふるさと納税手数料減 総務省要請",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581276?source=rss",
+      "publishedAt": "2026-05-22T11:59:08.000Z",
+      "xQuery": "ふるさと納税手数料減 総務省要請"
+    },
+    {
+      "time": "22:10",
+      "title": "沖合でダイビング 女性溺れ死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581287?source=rss",
+      "publishedAt": "2026-05-22T13:10:45.000Z",
+      "xQuery": "沖合でダイビング 女性溺れ死亡"
     },
     {
       "time": "19:29",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581267?source=rss",
       "publishedAt": "2026-05-22T10:29:26.000Z",
       "xQuery": "韓国のスターバックスで不買運動"
-    },
-    {
-      "time": "19:56",
-      "title": "潜在患者1000万人超 気象病に注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581269?source=rss",
-      "publishedAt": "2026-05-22T10:56:01.000Z",
-      "xQuery": "潜在患者1000万人超 気象病に注意"
     }
   ]
 };
