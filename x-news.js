@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T07:23:20.643Z",
+  "updatedAt": "2026-05-23T08:19:28.864Z",
   "items": [
-    {
-      "time": "14:30",
-      "title": "米がイランへ新たな攻撃検討 報道",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581357?source=rss",
-      "publishedAt": "2026-05-23T05:30:16.000Z",
-      "xQuery": "米がイランへ新たな攻撃検討 報道"
-    },
-    {
-      "time": "14:47",
-      "title": "日本維新 吉村氏の進退巡り攻防",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581362?source=rss",
-      "publishedAt": "2026-05-23T05:47:53.000Z",
-      "xQuery": "日本維新 吉村氏の進退巡り攻防"
-    },
     {
       "time": "16:05",
       "title": "ナフサ巡るデマ論争 首相きっかけ",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "CPTPP非加盟の中国 行事無断開催"
     },
     {
-      "time": "13:55",
-      "title": "「ニコパフ」フリマで販売横行か",
+      "time": "16:35",
+      "title": "トランプ氏 長男の結婚式を欠席へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581350?source=rss",
-      "publishedAt": "2026-05-23T04:55:34.000Z",
-      "xQuery": "「ニコパフ」フリマで販売横行か"
+      "url": "https://news.yahoo.co.jp/pickup/6581379?source=rss",
+      "publishedAt": "2026-05-23T07:35:06.000Z",
+      "xQuery": "トランプ氏 長男の結婚式を欠席へ"
+    },
+    {
+      "time": "16:49",
+      "title": "畜産用の浄化槽に転落 男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581382?source=rss",
+      "publishedAt": "2026-05-23T07:49:26.000Z",
+      "xQuery": "畜産用の浄化槽に転落 男性死亡"
+    },
+    {
+      "time": "17:06",
+      "title": "日本コスメ 世界で勝つ打開策",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581383?source=rss",
+      "publishedAt": "2026-05-23T08:06:11.000Z",
+      "xQuery": "日本コスメ 世界で勝つ打開策"
     }
   ]
 };
