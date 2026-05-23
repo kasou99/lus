@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T09:12:59.388Z",
+  "updatedAt": "2026-05-23T10:08:55.591Z",
   "items": [
     {
-      "time": "15:42",
-      "title": "国力研究会 議員集まりすぎ誤算か",
+      "time": "16:50",
+      "title": "自民幹事長 ガソリン補助金に言及",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581371?source=rss",
-      "publishedAt": "2026-05-23T06:42:51.000Z",
-      "xQuery": "国力研究会 議員集まりすぎ誤算か"
+      "url": "https://news.yahoo.co.jp/pickup/6581381?source=rss",
+      "publishedAt": "2026-05-23T07:50:38.000Z",
+      "xQuery": "自民幹事長 ガソリン補助金に言及"
     },
     {
-      "time": "17:37",
-      "title": "ハンガリー首相 ICC脱退を撤回",
+      "time": "16:12",
+      "title": "旧統一総裁 病気で一時釈放長期化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581388?source=rss",
-      "publishedAt": "2026-05-23T08:37:52.000Z",
-      "xQuery": "ハンガリー首相 ICC脱退を撤回"
+      "url": "https://news.yahoo.co.jp/pickup/6581375?source=rss",
+      "publishedAt": "2026-05-23T07:12:38.000Z",
+      "xQuery": "旧統一総裁 病気で一時釈放長期化"
     },
     {
       "time": "16:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 長男の結婚式を欠席へ"
     },
     {
-      "time": "17:26",
-      "title": "かゆみひたすら我慢 30歳難病苦悩",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581387?source=rss",
-      "publishedAt": "2026-05-23T08:26:00.000Z",
-      "xQuery": "かゆみひたすら我慢 30歳難病苦悩"
-    },
-    {
       "time": "18:03",
       "title": "1-2万円程度のハンディファン続々",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6581392?source=rss",
       "publishedAt": "2026-05-23T09:03:34.000Z",
       "xQuery": "1-2万円程度のハンディファン続々"
+    },
+    {
+      "time": "17:15",
+      "title": "近大生経営ラーメン 売上2千万円",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581386?source=rss",
+      "publishedAt": "2026-05-23T08:15:36.000Z",
+      "xQuery": "近大生経営ラーメン 売上2千万円"
     }
   ]
 };
