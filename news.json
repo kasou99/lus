@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T22:50:19.326Z",
+  "updatedAt": "2026-05-23T23:25:13.240Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "08:03",
+        "title": "米中会談 習主席が高市首相を非難",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581446?source=rss",
+        "publishedAt": "2026-05-23T23:03:20.000Z"
+      },
+      {
         "time": "07:46",
         "title": "米大統領 米イラン合意近く発表か",
         "source": "Yahoo!ニュース",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581374?source=rss",
         "publishedAt": "2026-05-23T07:05:13.000Z"
-      },
-      {
-        "time": "13:39",
-        "title": "ウ侵攻失速 露攻勢不発で前線安定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581351?source=rss",
-        "publishedAt": "2026-05-23T04:39:02.000Z"
       },
       {
         "time": "17:37",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-05-23T11:41:09.000Z"
       },
       {
+        "time": "08:09",
+        "title": "追突した車が次々衝突か 6人けが",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581448?source=rss",
+        "publishedAt": "2026-05-23T23:09:37.000Z"
+      },
+      {
         "time": "22:47",
         "title": "スーパーで男性刺される 男を逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581431?source=rss",
         "publishedAt": "2026-05-23T13:47:17.000Z"
-      },
-      {
-        "time": "00:00",
-        "title": "電柱から転落した男性死亡 感電死",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581437?source=rss",
-        "publishedAt": "2026-05-23T15:00:36.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T22:50:19.877Z",
+  "updatedAt": "2026-05-23T23:25:13.924Z",
   "items": [
     {
       "time": "07:46",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 米イラン合意近く発表か"
     },
     {
-      "time": "22:10",
-      "title": "首相 中国炭鉱事故にお見舞い投稿",
+      "time": "08:03",
+      "title": "米中会談 習主席が高市首相を非難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581426?source=rss",
-      "publishedAt": "2026-05-23T13:10:22.000Z",
-      "xQuery": "首相 中国炭鉱事故にお見舞い投稿"
+      "url": "https://news.yahoo.co.jp/pickup/6581446?source=rss",
+      "publishedAt": "2026-05-23T23:03:20.000Z",
+      "xQuery": "米中会談 習主席が高市首相を非難"
     },
     {
-      "time": "23:22",
-      "title": "土砂崩れ一部封鎖 沖縄で10人孤立",
+      "time": "08:09",
+      "title": "追突した車が次々衝突か 6人けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581433?source=rss",
-      "publishedAt": "2026-05-23T14:22:08.000Z",
-      "xQuery": "土砂崩れ一部封鎖 沖縄で10人孤立"
+      "url": "https://news.yahoo.co.jp/pickup/6581448?source=rss",
+      "publishedAt": "2026-05-23T23:09:37.000Z",
+      "xQuery": "追突した車が次々衝突か 6人けが"
     },
     {
       "time": "00:00",
