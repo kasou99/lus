@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T08:19:28.864Z",
+  "updatedAt": "2026-05-23T09:12:59.388Z",
   "items": [
     {
-      "time": "16:05",
-      "title": "ナフサ巡るデマ論争 首相きっかけ",
+      "time": "15:42",
+      "title": "国力研究会 議員集まりすぎ誤算か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581370?source=rss",
-      "publishedAt": "2026-05-23T07:05:20.000Z",
-      "xQuery": "ナフサ巡るデマ論争 首相きっかけ"
+      "url": "https://news.yahoo.co.jp/pickup/6581371?source=rss",
+      "publishedAt": "2026-05-23T06:42:51.000Z",
+      "xQuery": "国力研究会 議員集まりすぎ誤算か"
     },
     {
-      "time": "16:05",
-      "title": "CPTPP非加盟の中国 行事無断開催",
+      "time": "17:37",
+      "title": "ハンガリー首相 ICC脱退を撤回",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581374?source=rss",
-      "publishedAt": "2026-05-23T07:05:13.000Z",
-      "xQuery": "CPTPP非加盟の中国 行事無断開催"
+      "url": "https://news.yahoo.co.jp/pickup/6581388?source=rss",
+      "publishedAt": "2026-05-23T08:37:52.000Z",
+      "xQuery": "ハンガリー首相 ICC脱退を撤回"
     },
     {
       "time": "16:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 長男の結婚式を欠席へ"
     },
     {
-      "time": "16:49",
-      "title": "畜産用の浄化槽に転落 男性死亡",
+      "time": "17:26",
+      "title": "かゆみひたすら我慢 30歳難病苦悩",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581382?source=rss",
-      "publishedAt": "2026-05-23T07:49:26.000Z",
-      "xQuery": "畜産用の浄化槽に転落 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6581387?source=rss",
+      "publishedAt": "2026-05-23T08:26:00.000Z",
+      "xQuery": "かゆみひたすら我慢 30歳難病苦悩"
     },
     {
-      "time": "17:06",
-      "title": "日本コスメ 世界で勝つ打開策",
+      "time": "18:03",
+      "title": "1-2万円程度のハンディファン続々",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581383?source=rss",
-      "publishedAt": "2026-05-23T08:06:11.000Z",
-      "xQuery": "日本コスメ 世界で勝つ打開策"
+      "url": "https://news.yahoo.co.jp/pickup/6581392?source=rss",
+      "publishedAt": "2026-05-23T09:03:34.000Z",
+      "xQuery": "1-2万円程度のハンディファン続々"
     }
   ]
 };
