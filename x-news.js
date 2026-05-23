@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T12:31:32.939Z",
+  "updatedAt": "2026-05-23T13:36:43.655Z",
   "items": [
     {
-      "time": "20:34",
-      "title": "沖縄本島で線状降水帯発生 警戒を",
+      "time": "21:12",
+      "title": "赤沢経産相 中国商務相と立ち話",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581412?source=rss",
-      "publishedAt": "2026-05-23T11:34:56.000Z",
-      "xQuery": "沖縄本島で線状降水帯発生 警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6581418?source=rss",
+      "publishedAt": "2026-05-23T12:12:14.000Z",
+      "xQuery": "赤沢経産相 中国商務相と立ち話"
     },
     {
-      "time": "19:15",
-      "title": "LPガス家計支援に1千億円 方針",
+      "time": "20:10",
+      "title": "NPT文書決裂 被爆者ら失望広がる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581400?source=rss",
-      "publishedAt": "2026-05-23T10:15:56.000Z",
-      "xQuery": "LPガス家計支援に1千億円 方針"
+      "url": "https://news.yahoo.co.jp/pickup/6581409?source=rss",
+      "publishedAt": "2026-05-23T11:10:51.000Z",
+      "xQuery": "NPT文書決裂 被爆者ら失望広がる"
+    },
+    {
+      "time": "21:31",
+      "title": "スーパーで男性刺した疑い 男逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581420?source=rss",
+      "publishedAt": "2026-05-23T12:31:40.000Z",
+      "xQuery": "スーパーで男性刺した疑い 男逮捕"
     },
     {
       "time": "19:32",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581416?source=rss",
       "publishedAt": "2026-05-23T11:57:31.000Z",
       "xQuery": "サルに次々襲われ 5歳と14歳けが"
-    },
-    {
-      "time": "17:15",
-      "title": "近大生経営ラーメン 売上2千万円",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581386?source=rss",
-      "publishedAt": "2026-05-23T08:15:36.000Z",
-      "xQuery": "近大生経営ラーメン 売上2千万円"
     }
   ]
 };
