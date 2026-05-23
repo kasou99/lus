@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T05:22:48.789Z",
+  "updatedAt": "2026-05-23T06:25:54.838Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGQnhRVzQ2WW9qU3lTeGtJbDJHV01LZTJMNTNwQzN5WmR3SWZva0hjM01LbzB2SURMOWxvaU1zbmtXaExmdjRpTG9CY1dNb21DSlFPbW5DQ0VBdE8zSWs5Vk95eXJhWHM5enpTaUlPTTNDbjVS?oc=5",
         "publishedAt": "2026-05-22T20:30:25.000Z"
-      },
-      {
-        "time": "13:30",
-        "title": "ヘリカルギア遊星減速機の世界市場（2026年～2032年）、市場規模（シングルレベル、マルチレベル）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JRVF3aGZsR0I4MGtDV2lmMGRGdGxjQzE3X3BwcDdRRUJiZm9VX3VUZUs1am9NNWVnTkNRb0loU1VVVmt5bWhiNEp1RHRaTTg?oc=5",
-        "publishedAt": "2026-05-23T04:30:00.000Z"
       },
       {
         "time": "00:00",
@@ -36,6 +29,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83YmtudGh6QzhzT1dCa2EwZF9PVnBWLWlvRmdHYWZxcTROTEVpbFI4M0Q2cnFsS2txN2o4blBINDMzLUxPa2JpU2g0dUZldXhvMmtzc2JkV0F2V3k5cnREY3pCQjNjRzlEd1gtb3NqdTdYX29wdGlYYzNWNXBnWlk?oc=5",
         "publishedAt": "2026-05-22T09:35:07.000Z"
+      },
+      {
+        "time": "17:25",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-05-22T08:25:14.000Z"
       },
       {
         "time": "15:35",
@@ -60,6 +60,20 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "14:35",
+        "title": "中国の炭鉱でガス爆発 80人超死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581361?source=rss",
+        "publishedAt": "2026-05-23T05:35:54.000Z"
+      },
+      {
+        "time": "14:30",
+        "title": "米がイランへ新たな攻撃検討 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581357?source=rss",
+        "publishedAt": "2026-05-23T05:30:16.000Z"
+      },
       {
         "time": "13:39",
         "title": "ウ侵攻失速 露攻勢不発で前線安定",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581311?source=rss",
         "publishedAt": "2026-05-22T23:03:32.000Z"
-      },
-      {
-        "time": "07:48",
-        "title": "NPT会議 成果文書採択できず決裂",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581307?source=rss",
-        "publishedAt": "2026-05-22T22:48:31.000Z"
-      },
-      {
-        "time": "09:30",
-        "title": "トランプ氏主導の救済基金案 波紋",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581323?source=rss",
-        "publishedAt": "2026-05-23T00:30:47.000Z"
       }
     ],
     "economyHeadlines": [

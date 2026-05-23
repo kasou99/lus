@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T05:22:49.640Z",
+  "updatedAt": "2026-05-23T06:25:55.507Z",
   "items": [
     {
-      "time": "13:39",
-      "title": "ウ侵攻失速 露攻勢不発で前線安定",
+      "time": "14:30",
+      "title": "米がイランへ新たな攻撃検討 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581351?source=rss",
-      "publishedAt": "2026-05-23T04:39:02.000Z",
-      "xQuery": "ウ侵攻失速 露攻勢不発で前線安定"
+      "url": "https://news.yahoo.co.jp/pickup/6581357?source=rss",
+      "publishedAt": "2026-05-23T05:30:16.000Z",
+      "xQuery": "米がイランへ新たな攻撃検討 報道"
     },
     {
-      "time": "13:14",
-      "title": "国旗損壊罪 成立へ野党協力不可欠",
+      "time": "14:35",
+      "title": "中国の炭鉱でガス爆発 80人超死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581348?source=rss",
-      "publishedAt": "2026-05-23T04:14:29.000Z",
-      "xQuery": "国旗損壊罪 成立へ野党協力不可欠"
+      "url": "https://news.yahoo.co.jp/pickup/6581361?source=rss",
+      "publishedAt": "2026-05-23T05:35:54.000Z",
+      "xQuery": "中国の炭鉱でガス爆発 80人超死亡"
     },
     {
-      "time": "12:16",
-      "title": "栃木強殺に警視庁を投入 異例対応",
+      "time": "14:57",
+      "title": "スペースX 大型宇宙船の試験成功",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581342?source=rss",
-      "publishedAt": "2026-05-23T03:16:02.000Z",
-      "xQuery": "栃木強殺に警視庁を投入 異例対応"
+      "url": "https://news.yahoo.co.jp/pickup/6581364?source=rss",
+      "publishedAt": "2026-05-23T05:57:36.000Z",
+      "xQuery": "スペースX 大型宇宙船の試験成功"
     },
     {
-      "time": "11:42",
-      "title": "妻殺害疑い「異性関係疑われた」",
+      "time": "13:55",
+      "title": "「ニコパフ」フリマで販売横行か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581337?source=rss",
-      "publishedAt": "2026-05-23T02:42:42.000Z",
-      "xQuery": "妻殺害疑い「異性関係疑われた」"
+      "url": "https://news.yahoo.co.jp/pickup/6581350?source=rss",
+      "publishedAt": "2026-05-23T04:55:34.000Z",
+      "xQuery": "「ニコパフ」フリマで販売横行か"
     },
     {
-      "time": "12:01",
-      "title": "UFO機密を追加公開 アポロ音声も",
+      "time": "12:52",
+      "title": "北海道でも風邪症状 医師の分析は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581341?source=rss",
-      "publishedAt": "2026-05-23T03:01:52.000Z",
-      "xQuery": "UFO機密を追加公開 アポロ音声も"
+      "url": "https://news.yahoo.co.jp/pickup/6581345?source=rss",
+      "publishedAt": "2026-05-23T03:52:41.000Z",
+      "xQuery": "北海道でも風邪症状 医師の分析は"
     }
   ]
 };
