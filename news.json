@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T01:05:41.334Z",
+  "updatedAt": "2026-05-23T02:23:52.828Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,20 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGQnhRVzQ2WW9qU3lTeGtJbDJHV01LZTJMNTNwQzN5WmR3SWZva0hjM01LbzB2SURMOWxvaU1zbmtXaExmdjRpTG9CY1dNb21DSlFPbW5DQ0VBdE8zSWs5Vk95eXJhWHM5enpTaUlPTTNDbjVS?oc=5",
         "publishedAt": "2026-05-22T20:30:25.000Z"
+      },
+      {
+        "time": "00:00",
+        "title": "1週間のM&A速報まとめ（2026年5月18日〜2026年5月22日）",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV0RGWFJZMGNfVVlXSTF4T18wTHluLTdVOHhVQ1duSUttbkFTcDNhSTVtSkY4YjNuVk5ITGtpTmVrRjAwX211c1hrSHA3MWJIQ0U5M1ZHakt0ak1BNUdRUUt5YU03RmZzTUxiWGVVUmJtSDVsa3ZEQXNUSHZBenVYOGs2YVVRcUZoZi1SOVB2MNIBjwFBVV95cUxQV0RGWFJZMGNfVVlXSTF4T18wTHluLTdVOHhVQ1duSUttbkFTcDNhSTVtSkY4YjNuVk5ITGtpTmVrRjAwX211c1hrSHA3MWJIQ0U5M1ZHakt0ak1BNUdRUUt5YU03RmZzTUxiWGVVUmJtSDVsa3ZEQXNUSHZBenVYOGs2YVVRcUZoZi1SOVB2MA?oc=5",
+        "publishedAt": "2026-05-22T15:00:00.000Z"
+      },
+      {
+        "time": "19:18",
+        "title": "ファナック・稲葉清右衛門氏の功績を振り返る",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWldVYUkzZFVIWUtFMndydmNhbjBnU3ZoaGRHSFNkZFpNT1YyOUJJZ0RqUlJURHZDYS1hYUM2TGRuSURfVVZINXpuVEFnbGF3N2N1ZnA0blJWaVFzSUxWcDVBZ1lYX2l5VGxLLUQxWFdTQmpsTWVpY1Flb0xGSk1hdjZaWTdXZlZXdU9zZHA5Z180RV9XLWEzbC1KZTAwcFZqWFBr?oc=5",
+        "publishedAt": "2026-05-22T10:18:20.000Z"
       },
       {
         "time": "15:35",
@@ -31,13 +45,6 @@
         "publishedAt": "2026-05-22T11:55:00.000Z"
       },
       {
-        "time": "00:00",
-        "title": "1週間のM&A速報まとめ（2026年5月18日〜2026年5月22日）",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdlVJTm93T0tlZ0c0TlU2ME1RQUNNTllJY3ZwUU5kMlpBLThlemc3NDBrSWJBa1VKUWdSVDJ0WnV0T1hPbk04ZFFDR29BVmVMaUJKSmhFM3NLX2FpSTZOVG9WaHZXZ2daNlNUX1RUVjFtemV1Vm1UdVpGVS1JeTVObG9EMk9pOFFGd2fSAY8BQVVfeXFMUFdERlhSWTBjX1VZV0kxeE9fMEx5bi03VTh4VUNXbklLbW5BU3AzYUk1bUpGOGIzblZOSExraU5la0YwMF9tdXNYa0hwNzFiSENFOTNWR2pLdGpNQTVHUVFLeWFNN0Zmc01MYlhlVVJibUg1bGt2REFzVEh2QXp1WDhrNmFVUXFGaGYtUjlQdjA?oc=5",
-        "publishedAt": "2026-05-22T15:00:00.000Z"
-      },
-      {
         "time": "17:17",
         "title": "日本産業用火炎検知器市場：世界規模、シェア、トレンド、企業動向、将来予測2026-2032",
         "source": "アットプレス",
@@ -50,13 +57,6 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yMzZMY3FySUxuaUdIbFU1M2pFREUxYWFQN29BUnFfaXY3ZVdKZlllV3I1MTNTc1FoVEJCMUcwSkFKRVBvVlJIVTc3OVlDSnRkZmN0b3NHSQ?oc=5",
         "publishedAt": "2026-05-22T07:45:23.000Z"
-      },
-      {
-        "time": "13:16",
-        "title": "【ひと・交差点】三成興業の渡辺大輔社長 よろず支援拠点の優良事例で表彰",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55VW9LazNRd3hXVXRXcXhSem1WdFlKa3lOZjA4cFRPZFRQVVpkN0pDU1VSU3lWdkNXMm04SEUwWlRXelJnQ184bHlBOWJPSUI2T19WVVpfZEd5ZFR2dC13VnF3V3pnbEhNUGpRNm8wN0U5NWhuTFhj?oc=5",
-        "publishedAt": "2026-05-22T04:16:23.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-05-22T10:18:42.000Z"
       },
       {
-        "time": "13:49",
-        "title": "トヨタ GWの稼働日見直し検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581217?source=rss",
-        "publishedAt": "2026-05-22T04:49:55.000Z"
-      },
-      {
         "time": "21:58",
         "title": "ファミマPB包装ロゴ 白黒化検討",
         "source": "Yahoo!ニュース",
@@ -140,6 +133,13 @@
         "publishedAt": "2026-05-22T08:24:38.000Z"
       },
       {
+        "time": "10:51",
+        "title": "「スッパイマン」転機は木村拓哉",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581332?source=rss",
+        "publishedAt": "2026-05-23T01:51:58.000Z"
+      },
+      {
         "time": "08:18",
         "title": "中国の「ニセ一蘭」丼まで模倣",
         "source": "Yahoo!ニュース",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "10:35",
+        "title": "磐越道バス事故 責任能力問えるか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581328?source=rss",
+        "publishedAt": "2026-05-23T01:35:24.000Z"
+      },
+      {
         "time": "09:00",
         "title": "栃木強殺 別々の経路で敷地侵入か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581319?source=rss",
         "publishedAt": "2026-05-23T00:00:14.000Z"
-      },
-      {
-        "time": "22:10",
-        "title": "沖合でダイビング 女性溺れ死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581287?source=rss",
-        "publishedAt": "2026-05-22T13:10:45.000Z"
       },
       {
         "time": "08:06",

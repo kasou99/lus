@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T01:05:42.095Z",
+  "updatedAt": "2026-05-23T02:23:53.537Z",
   "items": [
     {
       "time": "09:22",
@@ -10,28 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高市首相 ナフサ不安払拭に躍起"
     },
     {
-      "time": "08:03",
-      "title": "米国家情報長官が辞任 閣僚4人目",
+      "time": "09:30",
+      "title": "トランプ氏主導の救済基金案 波紋",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581311?source=rss",
-      "publishedAt": "2026-05-22T23:03:32.000Z",
-      "xQuery": "米国家情報長官が辞任 閣僚4人目"
-    },
-    {
-      "time": "07:18",
-      "title": "生成AIで津田健次郎さん模倣 提訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581302?source=rss",
-      "publishedAt": "2026-05-22T22:18:33.000Z",
-      "xQuery": "生成AIで津田健次郎さん模倣 提訴"
-    },
-    {
-      "time": "08:35",
-      "title": "品川区 電気ガス料金を独自補助へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581316?source=rss",
-      "publishedAt": "2026-05-22T23:35:33.000Z",
-      "xQuery": "品川区 電気ガス料金を独自補助へ"
+      "url": "https://news.yahoo.co.jp/pickup/6581323?source=rss",
+      "publishedAt": "2026-05-23T00:30:47.000Z",
+      "xQuery": "トランプ氏主導の救済基金案 波紋"
     },
     {
       "time": "08:59",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581317?source=rss",
       "publishedAt": "2026-05-22T23:59:42.000Z",
       "xQuery": "袴田巌さんに特別給付金500万円"
+    },
+    {
+      "time": "09:09",
+      "title": "大学無償化で3浪以上が除外 なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581321?source=rss",
+      "publishedAt": "2026-05-23T00:09:33.000Z",
+      "xQuery": "大学無償化で3浪以上が除外 なぜ"
+    },
+    {
+      "time": "10:51",
+      "title": "「スッパイマン」転機は木村拓哉",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581332?source=rss",
+      "publishedAt": "2026-05-23T01:51:58.000Z",
+      "xQuery": "「スッパイマン」転機は木村拓哉"
     }
   ]
 };
