@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T14:38:28.894Z",
+  "updatedAt": "2026-05-23T15:30:39.192Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JRVF3aGZsR0I4MGtDV2lmMGRGdGxjQzE3X3BwcDdRRUJiZm9VX3VUZUs1am9NNWVnTkNRb0loU1VVVmt5bWhiNEp1RHRaTTg?oc=5",
         "publishedAt": "2026-05-23T04:30:00.000Z"
-      },
-      {
-        "time": "00:00",
-        "title": "1週間のM&A速報まとめ（2026年5月18日〜2026年5月22日）",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV0RGWFJZMGNfVVlXSTF4T18wTHluLTdVOHhVQ1duSUttbkFTcDNhSTVtSkY4YjNuVk5ITGtpTmVrRjAwX211c1hrSHA3MWJIQ0U5M1ZHakt0ak1BNUdRUUt5YU03RmZzTUxiWGVVUmJtSDVsa3ZEQXNUSHZBenVYOGs2YVVRcUZoZi1SOVB2MNIBjwFBVV95cUxQV0RGWFJZMGNfVVlXSTF4T18wTHluLTdVOHhVQ1duSUttbkFTcDNhSTVtSkY4YjNuVk5ITGtpTmVrRjAwX211c1hrSHA3MWJIQ0U5M1ZHakt0ak1BNUdRUUt5YU03RmZzTUxiWGVVUmJtSDVsa3ZEQXNUSHZBenVYOGs2YVVRcUZoZi1SOVB2MA?oc=5",
-        "publishedAt": "2026-05-22T15:00:00.000Z"
       },
       {
         "time": "09:55",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581425?source=rss",
         "publishedAt": "2026-05-23T13:12:43.000Z"
+      },
+      {
+        "time": "19:01",
+        "title": "歓迎されぬクロマグロ 豊漁で放流",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581399?source=rss",
+        "publishedAt": "2026-05-23T10:01:52.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-05-23T13:47:17.000Z"
       },
       {
+        "time": "00:00",
+        "title": "電柱から転落した男性死亡 感電死",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581437?source=rss",
+        "publishedAt": "2026-05-23T15:00:36.000Z"
+      },
+      {
         "time": "20:28",
         "title": "4mの木の枝落下 子ども3人搬送",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581411?source=rss",
         "publishedAt": "2026-05-23T11:28:11.000Z"
-      },
-      {
-        "time": "20:57",
-        "title": "サルに次々襲われ 5歳と14歳けが",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581416?source=rss",
-        "publishedAt": "2026-05-23T11:57:31.000Z"
       }
     ],
     "subsidyHeadlines": [

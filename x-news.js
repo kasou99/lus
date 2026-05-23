@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T14:38:29.743Z",
+  "updatedAt": "2026-05-23T15:30:40.152Z",
   "items": [
     {
       "time": "21:12",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "赤沢経産相 中国商務相と立ち話"
     },
     {
+      "time": "22:10",
+      "title": "首相 中国炭鉱事故にお見舞い投稿",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581426?source=rss",
+      "publishedAt": "2026-05-23T13:10:22.000Z",
+      "xQuery": "首相 中国炭鉱事故にお見舞い投稿"
+    },
+    {
       "time": "23:22",
       "title": "土砂崩れ一部封鎖 沖縄で10人孤立",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6581433?source=rss",
       "publishedAt": "2026-05-23T14:22:08.000Z",
       "xQuery": "土砂崩れ一部封鎖 沖縄で10人孤立"
-    },
-    {
-      "time": "22:44",
-      "title": "辺野古事故 沖縄知事が文科省批判",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581430?source=rss",
-      "publishedAt": "2026-05-23T13:44:53.000Z",
-      "xQuery": "辺野古事故 沖縄知事が文科省批判"
     },
     {
       "time": "22:47",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "スーパーで男性刺される 男を逮捕"
     },
     {
-      "time": "22:40",
-      "title": "森保Jアウェーユニ爆売れ 驚きも",
+      "time": "00:00",
+      "title": "電柱から転落した男性死亡 感電死",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581429?source=rss",
-      "publishedAt": "2026-05-23T13:40:42.000Z",
-      "xQuery": "森保Jアウェーユニ爆売れ 驚きも"
+      "url": "https://news.yahoo.co.jp/pickup/6581437?source=rss",
+      "publishedAt": "2026-05-23T15:00:36.000Z",
+      "xQuery": "電柱から転落した男性死亡 感電死"
     }
   ]
 };
