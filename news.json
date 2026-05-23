@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T02:23:52.828Z",
+  "updatedAt": "2026-05-23T03:48:19.371Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-05-22T15:00:00.000Z"
       },
       {
-        "time": "19:18",
-        "title": "ファナック・稲葉清右衛門氏の功績を振り返る",
-        "source": "日経クロステック",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWldVYUkzZFVIWUtFMndydmNhbjBnU3ZoaGRHSFNkZFpNT1YyOUJJZ0RqUlJURHZDYS1hYUM2TGRuSURfVVZINXpuVEFnbGF3N2N1ZnA0blJWaVFzSUxWcDVBZ1lYX2l5VGxLLUQxWFdTQmpsTWVpY1Flb0xGSk1hdjZaWTdXZlZXdU9zZHA5Z180RV9XLWEzbC1KZTAwcFZqWFBr?oc=5",
-        "publishedAt": "2026-05-22T10:18:20.000Z"
-      },
-      {
         "time": "15:35",
         "title": "インタビュー：技術流出防止へ「経済安保ファンド」創設を＝元国家安保局長・北村氏",
         "source": "Reuters",
@@ -38,6 +31,13 @@
         "publishedAt": "2026-05-22T09:35:07.000Z"
       },
       {
+        "time": "17:25",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-05-22T08:25:14.000Z"
+      },
+      {
         "time": "20:55",
         "title": "【台湾企業決算】新代科技、第1四半期の1株当たり利益が15台湾ドルを突破し過去最高へ 華沿機器人と連携しロボット1万台の商機獲得へ",
         "source": "finance.biggo.jp",
@@ -45,21 +45,28 @@
         "publishedAt": "2026-05-22T11:55:00.000Z"
       },
       {
+        "time": "09:55",
+        "title": "本業はスター、副業は後継者...「家業DNA」を受け継いだスターたち [ステック]",
+        "source": "매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xc1BRbS1obVlTbTVDUjRuUHJhWTg2YmlLeEVaZ2V6Um53TnNENmlIQThHWVNVX0EwRmJ3dzN0MG4teUtvQVhobGk0dVB3Y2QyeWdCSGZ3?oc=5",
+        "publishedAt": "2026-05-23T00:55:00.000Z"
+      },
+      {
         "time": "17:17",
         "title": "日本産業用火炎検知器市場：世界規模、シェア、トレンド、企業動向、将来予測2026-2032",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4Y0VhbGlpM1dmMmpJRjhsN2ZlYWFWeFB0Y3AxRk43NGgxT182OUJXNzNxMDhNWjB4c3Y3RkdhTTVyNm1faUE3YXA4RThQQQ?oc=5",
         "publishedAt": "2026-05-22T08:17:00.000Z"
-      },
-      {
-        "time": "16:45",
-        "title": "モーションコントローラ市場の最新予測、2026年に10630百万米ドル規模へ｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yMzZMY3FySUxuaUdIbFU1M2pFREUxYWFQN29BUnFfaXY3ZVdKZlllV3I1MTNTc1FoVEJCMUcwSkFKRVBvVlJIVTc3OVlDSnRkZmN0b3NHSQ?oc=5",
-        "publishedAt": "2026-05-22T07:45:23.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "12:01",
+        "title": "UFO機密を追加公開 アポロ音声も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581341?source=rss",
+        "publishedAt": "2026-05-23T03:01:52.000Z"
+      },
       {
         "time": "08:16",
         "title": "米FRB ウォーシュ新議長が就任",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581255?source=rss",
         "publishedAt": "2026-05-22T09:17:13.000Z"
-      },
-      {
-        "time": "11:19",
-        "title": "ポーランドに5千人を追加派兵 米",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581198?source=rss",
-        "publishedAt": "2026-05-22T02:19:18.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,11 +156,25 @@
         "publishedAt": "2026-05-23T01:35:24.000Z"
       },
       {
+        "time": "12:16",
+        "title": "栃木強殺に警視庁を投入 異例対応",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581342?source=rss",
+        "publishedAt": "2026-05-23T03:16:02.000Z"
+      },
+      {
         "time": "09:00",
         "title": "栃木強殺 別々の経路で敷地侵入か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581319?source=rss",
         "publishedAt": "2026-05-23T00:00:14.000Z"
+      },
+      {
+        "time": "11:42",
+        "title": "妻殺害疑い「異性関係疑われた」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581337?source=rss",
+        "publishedAt": "2026-05-23T02:42:42.000Z"
       },
       {
         "time": "08:06",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581324?source=rss",
         "publishedAt": "2026-05-23T00:32:25.000Z"
-      },
-      {
-        "time": "08:12",
-        "title": "飲酒運転で子3人奪われ 伝える母",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581313?source=rss",
-        "publishedAt": "2026-05-22T23:12:58.000Z"
-      },
-      {
-        "time": "07:28",
-        "title": "車8台絡む事故 逃走した少年逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581306?source=rss",
-        "publishedAt": "2026-05-22T22:28:39.000Z"
       }
     ],
     "subsidyHeadlines": [

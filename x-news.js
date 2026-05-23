@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T02:23:53.537Z",
+  "updatedAt": "2026-05-23T03:48:20.106Z",
   "items": [
     {
-      "time": "09:22",
-      "title": "高市首相 ナフサ不安払拭に躍起",
+      "time": "10:35",
+      "title": "磐越道バス事故 責任能力問えるか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581322?source=rss",
-      "publishedAt": "2026-05-23T00:22:25.000Z",
-      "xQuery": "高市首相 ナフサ不安払拭に躍起"
+      "url": "https://news.yahoo.co.jp/pickup/6581328?source=rss",
+      "publishedAt": "2026-05-23T01:35:24.000Z",
+      "xQuery": "磐越道バス事故 責任能力問えるか"
     },
     {
-      "time": "09:30",
-      "title": "トランプ氏主導の救済基金案 波紋",
+      "time": "12:16",
+      "title": "栃木強殺に警視庁を投入 異例対応",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581323?source=rss",
-      "publishedAt": "2026-05-23T00:30:47.000Z",
-      "xQuery": "トランプ氏主導の救済基金案 波紋"
+      "url": "https://news.yahoo.co.jp/pickup/6581342?source=rss",
+      "publishedAt": "2026-05-23T03:16:02.000Z",
+      "xQuery": "栃木強殺に警視庁を投入 異例対応"
     },
     {
-      "time": "08:59",
-      "title": "袴田巌さんに特別給付金500万円",
+      "time": "11:42",
+      "title": "妻殺害疑い「異性関係疑われた」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581317?source=rss",
-      "publishedAt": "2026-05-22T23:59:42.000Z",
-      "xQuery": "袴田巌さんに特別給付金500万円"
+      "url": "https://news.yahoo.co.jp/pickup/6581337?source=rss",
+      "publishedAt": "2026-05-23T02:42:42.000Z",
+      "xQuery": "妻殺害疑い「異性関係疑われた」"
     },
     {
       "time": "09:09",
