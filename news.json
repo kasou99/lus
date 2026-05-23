@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-23T17:54:53.999Z",
+  "updatedAt": "2026-05-23T18:29:52.444Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "17:51",
-        "title": "栃木銀、アベジャとDX・AI連携 業務効率化",
+        "time": "14:16",
+        "title": "トヨタ自動車九州株式会社が設備保全クラウド「M2X」を導入",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsRklLQzhydjJGY1ZXNm5yUE11ODQtOHhQbU1WQ0xYSG5Ia19oaExyUzdCUXZZTEU3SUhLSUtUeEFvSkV0LVpOZXZTLWZrblM0OTlmdDkzeGlMZHk1bGNHRTVJcGdZdk9XdjVCNW5ZeGRuN0VZ?oc=5",
-        "publishedAt": "2026-05-23T08:51:27.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnbzN1WUVDNktYeXA4Y19RNi00Qm9UdW5oNTRMOUpORU9SV2RpOTUtaTNhQUk1UmtyWkZuTHF0VnRPbUp3YXl1bng3MDFieDN0b2tqNEhhRUo?oc=5",
+        "publishedAt": "2026-05-23T05:16:31.000Z"
       },
       {
         "time": "00:24",
@@ -22,6 +22,13 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JRVF3aGZsR0I4MGtDV2lmMGRGdGxjQzE3X3BwcDdRRUJiZm9VX3VUZUs1am9NNWVnTkNRb0loU1VVVmt5bWhiNEp1RHRaTTg?oc=5",
         "publishedAt": "2026-05-23T04:30:00.000Z"
+      },
+      {
+        "time": "17:51",
+        "title": "栃木銀、アベジャとDX・AI連携 業務効率化",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsRklLQzhydjJGY1ZXNm5yUE11ODQtOHhQbU1WQ0xYSG5Ia19oaExyUzdCUXZZTEU3SUhLSUtUeEFvSkV0LVpOZXZTLWZrblM0OTlmdDkzeGlMZHk1bGNHRTVJcGdZdk9XdjVCNW5ZeGRuN0VZ?oc=5",
+        "publishedAt": "2026-05-23T08:51:27.000Z"
       },
       {
         "time": "09:55",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581424?source=rss",
         "publishedAt": "2026-05-23T13:01:51.000Z"
-      },
-      {
-        "time": "22:12",
-        "title": "東大卒の女性 蔵元へ転身決めた訳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581425?source=rss",
-        "publishedAt": "2026-05-23T13:12:43.000Z"
       }
     ],
     "worldHeadlines": [
