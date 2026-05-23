@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T22:23:34.194Z",
+  "updatedAt": "2026-05-23T22:50:19.877Z",
   "items": [
     {
-      "time": "21:12",
-      "title": "赤沢経産相 中国商務相と立ち話",
+      "time": "07:46",
+      "title": "米大統領 米イラン合意近く発表か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581418?source=rss",
-      "publishedAt": "2026-05-23T12:12:14.000Z",
-      "xQuery": "赤沢経産相 中国商務相と立ち話"
+      "url": "https://news.yahoo.co.jp/pickup/6581443?source=rss",
+      "publishedAt": "2026-05-23T22:46:42.000Z",
+      "xQuery": "米大統領 米イラン合意近く発表か"
     },
     {
       "time": "22:10",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "土砂崩れ一部封鎖 沖縄で10人孤立"
     },
     {
-      "time": "22:47",
-      "title": "スーパーで男性刺される 男を逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581431?source=rss",
-      "publishedAt": "2026-05-23T13:47:17.000Z",
-      "xQuery": "スーパーで男性刺される 男を逮捕"
-    },
-    {
       "time": "00:00",
       "title": "電柱から転落した男性死亡 感電死",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6581437?source=rss",
       "publishedAt": "2026-05-23T15:00:36.000Z",
       "xQuery": "電柱から転落した男性死亡 感電死"
+    },
+    {
+      "time": "07:27",
+      "title": "マックが「スムージー強化」背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581440?source=rss",
+      "publishedAt": "2026-05-23T22:27:34.000Z",
+      "xQuery": "マックが「スムージー強化」背景"
     }
   ]
 };
