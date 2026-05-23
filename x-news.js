@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T13:36:43.655Z",
+  "updatedAt": "2026-05-23T14:38:29.743Z",
   "items": [
     {
       "time": "21:12",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "赤沢経産相 中国商務相と立ち話"
     },
     {
-      "time": "20:10",
-      "title": "NPT文書決裂 被爆者ら失望広がる",
+      "time": "23:22",
+      "title": "土砂崩れ一部封鎖 沖縄で10人孤立",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581409?source=rss",
-      "publishedAt": "2026-05-23T11:10:51.000Z",
-      "xQuery": "NPT文書決裂 被爆者ら失望広がる"
+      "url": "https://news.yahoo.co.jp/pickup/6581433?source=rss",
+      "publishedAt": "2026-05-23T14:22:08.000Z",
+      "xQuery": "土砂崩れ一部封鎖 沖縄で10人孤立"
     },
     {
-      "time": "21:31",
-      "title": "スーパーで男性刺した疑い 男逮捕",
+      "time": "22:44",
+      "title": "辺野古事故 沖縄知事が文科省批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581420?source=rss",
-      "publishedAt": "2026-05-23T12:31:40.000Z",
-      "xQuery": "スーパーで男性刺した疑い 男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6581430?source=rss",
+      "publishedAt": "2026-05-23T13:44:53.000Z",
+      "xQuery": "辺野古事故 沖縄知事が文科省批判"
     },
     {
-      "time": "19:32",
-      "title": "民家飼いネコ クマに食べられたか",
+      "time": "22:47",
+      "title": "スーパーで男性刺される 男を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581404?source=rss",
-      "publishedAt": "2026-05-23T10:32:04.000Z",
-      "xQuery": "民家飼いネコ クマに食べられたか"
+      "url": "https://news.yahoo.co.jp/pickup/6581431?source=rss",
+      "publishedAt": "2026-05-23T13:47:17.000Z",
+      "xQuery": "スーパーで男性刺される 男を逮捕"
     },
     {
-      "time": "20:57",
-      "title": "サルに次々襲われ 5歳と14歳けが",
+      "time": "22:40",
+      "title": "森保Jアウェーユニ爆売れ 驚きも",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581416?source=rss",
-      "publishedAt": "2026-05-23T11:57:31.000Z",
-      "xQuery": "サルに次々襲われ 5歳と14歳けが"
+      "url": "https://news.yahoo.co.jp/pickup/6581429?source=rss",
+      "publishedAt": "2026-05-23T13:40:42.000Z",
+      "xQuery": "森保Jアウェーユニ爆売れ 驚きも"
     }
   ]
 };
