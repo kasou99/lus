@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T06:25:55.507Z",
+  "updatedAt": "2026-05-23T07:23:20.643Z",
   "items": [
     {
       "time": "14:30",
@@ -10,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米がイランへ新たな攻撃検討 報道"
     },
     {
-      "time": "14:35",
-      "title": "中国の炭鉱でガス爆発 80人超死亡",
+      "time": "14:47",
+      "title": "日本維新 吉村氏の進退巡り攻防",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581361?source=rss",
-      "publishedAt": "2026-05-23T05:35:54.000Z",
-      "xQuery": "中国の炭鉱でガス爆発 80人超死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6581362?source=rss",
+      "publishedAt": "2026-05-23T05:47:53.000Z",
+      "xQuery": "日本維新 吉村氏の進退巡り攻防"
     },
     {
-      "time": "14:57",
-      "title": "スペースX 大型宇宙船の試験成功",
+      "time": "16:05",
+      "title": "ナフサ巡るデマ論争 首相きっかけ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581364?source=rss",
-      "publishedAt": "2026-05-23T05:57:36.000Z",
-      "xQuery": "スペースX 大型宇宙船の試験成功"
+      "url": "https://news.yahoo.co.jp/pickup/6581370?source=rss",
+      "publishedAt": "2026-05-23T07:05:20.000Z",
+      "xQuery": "ナフサ巡るデマ論争 首相きっかけ"
+    },
+    {
+      "time": "16:05",
+      "title": "CPTPP非加盟の中国 行事無断開催",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581374?source=rss",
+      "publishedAt": "2026-05-23T07:05:13.000Z",
+      "xQuery": "CPTPP非加盟の中国 行事無断開催"
     },
     {
       "time": "13:55",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581350?source=rss",
       "publishedAt": "2026-05-23T04:55:34.000Z",
       "xQuery": "「ニコパフ」フリマで販売横行か"
-    },
-    {
-      "time": "12:52",
-      "title": "北海道でも風邪症状 医師の分析は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581345?source=rss",
-      "publishedAt": "2026-05-23T03:52:41.000Z",
-      "xQuery": "北海道でも風邪症状 医師の分析は"
     }
   ]
 };
