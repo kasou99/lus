@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T23:25:13.924Z",
+  "updatedAt": "2026-05-23T23:50:49.535Z",
   "items": [
     {
       "time": "07:46",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "追突した車が次々衝突か 6人けが"
     },
     {
-      "time": "00:00",
-      "title": "電柱から転落した男性死亡 感電死",
+      "time": "08:44",
+      "title": "民家に遺体 コード絡まった状態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581437?source=rss",
-      "publishedAt": "2026-05-23T15:00:36.000Z",
-      "xQuery": "電柱から転落した男性死亡 感電死"
+      "url": "https://news.yahoo.co.jp/pickup/6581450?source=rss",
+      "publishedAt": "2026-05-23T23:44:31.000Z",
+      "xQuery": "民家に遺体 コード絡まった状態"
     },
     {
       "time": "07:27",
