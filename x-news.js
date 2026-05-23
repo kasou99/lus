@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T11:35:09.315Z",
+  "updatedAt": "2026-05-23T12:31:32.939Z",
   "items": [
     {
-      "time": "20:17",
-      "title": "沖縄本島で線状降水帯発生情報",
+      "time": "20:34",
+      "title": "沖縄本島で線状降水帯発生 警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581410?source=rss",
-      "publishedAt": "2026-05-23T11:17:58.000Z",
-      "xQuery": "沖縄本島で線状降水帯発生情報"
+      "url": "https://news.yahoo.co.jp/pickup/6581412?source=rss",
+      "publishedAt": "2026-05-23T11:34:56.000Z",
+      "xQuery": "沖縄本島で線状降水帯発生 警戒を"
     },
     {
-      "time": "18:37",
-      "title": "首相 6月のG7前に外交ラッシュ",
+      "time": "19:15",
+      "title": "LPガス家計支援に1千億円 方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581396?source=rss",
-      "publishedAt": "2026-05-23T09:37:26.000Z",
-      "xQuery": "首相 6月のG7前に外交ラッシュ"
+      "url": "https://news.yahoo.co.jp/pickup/6581400?source=rss",
+      "publishedAt": "2026-05-23T10:15:56.000Z",
+      "xQuery": "LPガス家計支援に1千億円 方針"
     },
     {
       "time": "19:32",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "民家飼いネコ クマに食べられたか"
     },
     {
-      "time": "19:48",
-      "title": "逆走した車と正面衝突 双方が全焼",
+      "time": "20:57",
+      "title": "サルに次々襲われ 5歳と14歳けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581406?source=rss",
-      "publishedAt": "2026-05-23T10:48:12.000Z",
-      "xQuery": "逆走した車と正面衝突 双方が全焼"
+      "url": "https://news.yahoo.co.jp/pickup/6581416?source=rss",
+      "publishedAt": "2026-05-23T11:57:31.000Z",
+      "xQuery": "サルに次々襲われ 5歳と14歳けが"
     },
     {
-      "time": "20:28",
-      "title": "4mの木の枝落下 子ども3人搬送",
+      "time": "17:15",
+      "title": "近大生経営ラーメン 売上2千万円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581411?source=rss",
-      "publishedAt": "2026-05-23T11:28:11.000Z",
-      "xQuery": "4mの木の枝落下 子ども3人搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6581386?source=rss",
+      "publishedAt": "2026-05-23T08:15:36.000Z",
+      "xQuery": "近大生経営ラーメン 売上2千万円"
     }
   ]
 };
