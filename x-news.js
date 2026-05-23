@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-22T23:31:55.049Z",
+  "updatedAt": "2026-05-23T01:05:42.095Z",
   "items": [
     {
-      "time": "08:12",
-      "title": "飲酒運転で子3人奪われ 伝える母",
+      "time": "09:22",
+      "title": "高市首相 ナフサ不安払拭に躍起",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581313?source=rss",
-      "publishedAt": "2026-05-22T23:12:58.000Z",
-      "xQuery": "飲酒運転で子3人奪われ 伝える母"
+      "url": "https://news.yahoo.co.jp/pickup/6581322?source=rss",
+      "publishedAt": "2026-05-23T00:22:25.000Z",
+      "xQuery": "高市首相 ナフサ不安払拭に躍起"
     },
     {
-      "time": "07:48",
-      "title": "NPT会議 成果文書採択できず決裂",
+      "time": "08:03",
+      "title": "米国家情報長官が辞任 閣僚4人目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581307?source=rss",
-      "publishedAt": "2026-05-22T22:48:31.000Z",
-      "xQuery": "NPT会議 成果文書採択できず決裂"
-    },
-    {
-      "time": "22:20",
-      "title": "鉄板落ちてきたと通報 作業員死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581286?source=rss",
-      "publishedAt": "2026-05-22T13:20:47.000Z",
-      "xQuery": "鉄板落ちてきたと通報 作業員死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6581311?source=rss",
+      "publishedAt": "2026-05-22T23:03:32.000Z",
+      "xQuery": "米国家情報長官が辞任 閣僚4人目"
     },
     {
       "time": "07:18",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "生成AIで津田健次郎さん模倣 提訴"
     },
     {
-      "time": "07:28",
-      "title": "車8台絡む事故 逃走した少年逮捕",
+      "time": "08:35",
+      "title": "品川区 電気ガス料金を独自補助へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581306?source=rss",
-      "publishedAt": "2026-05-22T22:28:39.000Z",
-      "xQuery": "車8台絡む事故 逃走した少年逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6581316?source=rss",
+      "publishedAt": "2026-05-22T23:35:33.000Z",
+      "xQuery": "品川区 電気ガス料金を独自補助へ"
+    },
+    {
+      "time": "08:59",
+      "title": "袴田巌さんに特別給付金500万円",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581317?source=rss",
+      "publishedAt": "2026-05-22T23:59:42.000Z",
+      "xQuery": "袴田巌さんに特別給付金500万円"
     }
   ]
 };
