@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T10:08:55.591Z",
+  "updatedAt": "2026-05-23T11:00:10.843Z",
   "items": [
     {
       "time": "16:50",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "旧統一総裁 病気で一時釈放長期化"
     },
     {
-      "time": "16:35",
-      "title": "トランプ氏 長男の結婚式を欠席へ",
+      "time": "19:32",
+      "title": "民家飼いネコ クマに食べられたか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581379?source=rss",
-      "publishedAt": "2026-05-23T07:35:06.000Z",
-      "xQuery": "トランプ氏 長男の結婚式を欠席へ"
+      "url": "https://news.yahoo.co.jp/pickup/6581404?source=rss",
+      "publishedAt": "2026-05-23T10:32:04.000Z",
+      "xQuery": "民家飼いネコ クマに食べられたか"
     },
     {
-      "time": "18:03",
-      "title": "1-2万円程度のハンディファン続々",
+      "time": "19:48",
+      "title": "逆走した車と正面衝突 双方が全焼",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581392?source=rss",
-      "publishedAt": "2026-05-23T09:03:34.000Z",
-      "xQuery": "1-2万円程度のハンディファン続々"
+      "url": "https://news.yahoo.co.jp/pickup/6581406?source=rss",
+      "publishedAt": "2026-05-23T10:48:12.000Z",
+      "xQuery": "逆走した車と正面衝突 双方が全焼"
     },
     {
-      "time": "17:15",
-      "title": "近大生経営ラーメン 売上2千万円",
+      "time": "19:01",
+      "title": "歓迎されぬクロマグロ 豊漁で放流",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581386?source=rss",
-      "publishedAt": "2026-05-23T08:15:36.000Z",
-      "xQuery": "近大生経営ラーメン 売上2千万円"
+      "url": "https://news.yahoo.co.jp/pickup/6581399?source=rss",
+      "publishedAt": "2026-05-23T10:01:52.000Z",
+      "xQuery": "歓迎されぬクロマグロ 豊漁で放流"
     }
   ]
 };
