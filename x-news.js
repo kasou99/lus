@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T03:48:20.106Z",
+  "updatedAt": "2026-05-23T05:22:49.640Z",
   "items": [
     {
-      "time": "10:35",
-      "title": "磐越道バス事故 責任能力問えるか",
+      "time": "13:39",
+      "title": "ウ侵攻失速 露攻勢不発で前線安定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581328?source=rss",
-      "publishedAt": "2026-05-23T01:35:24.000Z",
-      "xQuery": "磐越道バス事故 責任能力問えるか"
+      "url": "https://news.yahoo.co.jp/pickup/6581351?source=rss",
+      "publishedAt": "2026-05-23T04:39:02.000Z",
+      "xQuery": "ウ侵攻失速 露攻勢不発で前線安定"
+    },
+    {
+      "time": "13:14",
+      "title": "国旗損壊罪 成立へ野党協力不可欠",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581348?source=rss",
+      "publishedAt": "2026-05-23T04:14:29.000Z",
+      "xQuery": "国旗損壊罪 成立へ野党協力不可欠"
     },
     {
       "time": "12:16",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "妻殺害疑い「異性関係疑われた」"
     },
     {
-      "time": "09:09",
-      "title": "大学無償化で3浪以上が除外 なぜ",
+      "time": "12:01",
+      "title": "UFO機密を追加公開 アポロ音声も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581321?source=rss",
-      "publishedAt": "2026-05-23T00:09:33.000Z",
-      "xQuery": "大学無償化で3浪以上が除外 なぜ"
-    },
-    {
-      "time": "10:51",
-      "title": "「スッパイマン」転機は木村拓哉",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581332?source=rss",
-      "publishedAt": "2026-05-23T01:51:58.000Z",
-      "xQuery": "「スッパイマン」転機は木村拓哉"
+      "url": "https://news.yahoo.co.jp/pickup/6581341?source=rss",
+      "publishedAt": "2026-05-23T03:01:52.000Z",
+      "xQuery": "UFO機密を追加公開 アポロ音声も"
     }
   ]
 };
