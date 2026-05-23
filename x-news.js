@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T11:00:10.843Z",
+  "updatedAt": "2026-05-23T11:35:09.315Z",
   "items": [
     {
-      "time": "16:50",
-      "title": "自民幹事長 ガソリン補助金に言及",
+      "time": "20:17",
+      "title": "沖縄本島で線状降水帯発生情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581381?source=rss",
-      "publishedAt": "2026-05-23T07:50:38.000Z",
-      "xQuery": "自民幹事長 ガソリン補助金に言及"
+      "url": "https://news.yahoo.co.jp/pickup/6581410?source=rss",
+      "publishedAt": "2026-05-23T11:17:58.000Z",
+      "xQuery": "沖縄本島で線状降水帯発生情報"
     },
     {
-      "time": "16:12",
-      "title": "旧統一総裁 病気で一時釈放長期化",
+      "time": "18:37",
+      "title": "首相 6月のG7前に外交ラッシュ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581375?source=rss",
-      "publishedAt": "2026-05-23T07:12:38.000Z",
-      "xQuery": "旧統一総裁 病気で一時釈放長期化"
+      "url": "https://news.yahoo.co.jp/pickup/6581396?source=rss",
+      "publishedAt": "2026-05-23T09:37:26.000Z",
+      "xQuery": "首相 6月のG7前に外交ラッシュ"
     },
     {
       "time": "19:32",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "逆走した車と正面衝突 双方が全焼"
     },
     {
-      "time": "19:01",
-      "title": "歓迎されぬクロマグロ 豊漁で放流",
+      "time": "20:28",
+      "title": "4mの木の枝落下 子ども3人搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581399?source=rss",
-      "publishedAt": "2026-05-23T10:01:52.000Z",
-      "xQuery": "歓迎されぬクロマグロ 豊漁で放流"
+      "url": "https://news.yahoo.co.jp/pickup/6581411?source=rss",
+      "publishedAt": "2026-05-23T11:28:11.000Z",
+      "xQuery": "4mの木の枝落下 子ども3人搬送"
     }
   ]
 };

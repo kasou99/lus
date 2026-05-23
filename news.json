@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T11:00:09.848Z",
+  "updatedAt": "2026-05-23T11:35:08.621Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "20:17",
+        "title": "沖縄本島で線状降水帯発生情報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581410?source=rss",
+        "publishedAt": "2026-05-23T11:17:58.000Z"
+      },
+      {
         "time": "10:35",
         "title": "磐越道バス事故 責任能力問えるか",
         "source": "Yahoo!ニュース",
@@ -163,13 +170,6 @@
         "publishedAt": "2026-05-23T03:16:02.000Z"
       },
       {
-        "time": "09:00",
-        "title": "栃木強殺 別々の経路で敷地侵入か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581319?source=rss",
-        "publishedAt": "2026-05-23T00:00:14.000Z"
-      },
-      {
         "time": "11:42",
         "title": "妻殺害疑い「異性関係疑われた」",
         "source": "Yahoo!ニュース",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-05-23T02:42:42.000Z"
       },
       {
+        "time": "20:28",
+        "title": "4mの木の枝落下 子ども3人搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581411?source=rss",
+        "publishedAt": "2026-05-23T11:28:11.000Z"
+      },
+      {
         "time": "19:48",
         "title": "逆走した車と正面衝突 双方が全焼",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581406?source=rss",
         "publishedAt": "2026-05-23T10:48:12.000Z"
-      },
-      {
-        "time": "16:49",
-        "title": "畜産用の浄化槽に転落 男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581382?source=rss",
-        "publishedAt": "2026-05-23T07:49:26.000Z"
       }
     ],
     "subsidyHeadlines": [
