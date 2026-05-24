@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T20:52:52.851Z",
+  "updatedAt": "2026-05-24T21:25:11.974Z",
   "items": [
     {
-      "time": "20:45",
-      "title": "露 最新式ミサイルでウ大規模攻撃",
+      "time": "06:17",
+      "title": "米イラン終結向け基本合意か 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581534?source=rss",
-      "publishedAt": "2026-05-24T11:45:09.000Z",
-      "xQuery": "露 最新式ミサイルでウ大規模攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6581547?source=rss",
+      "publishedAt": "2026-05-24T21:17:50.000Z",
+      "xQuery": "米イラン終結向け基本合意か 報道"
     },
     {
       "time": "21:18",

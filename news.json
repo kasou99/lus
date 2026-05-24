@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-05-24T20:52:51.918Z",
+  "updatedAt": "2026-05-24T21:25:11.046Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:02",
-        "title": "企業フォーカス／ヤマト 設備工事、素早く高品質",
+        "time": "05:22",
+        "title": "岡本工作機械製作所、社長に伊藤暁氏",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10azBHM0QtUlYxWXJzY0h4dmdJbE9IeENybnRiV0RObkc1M2RYT3hrMVNFc0xnQXcydnRNZnVLOS1qVVB1Uk5MN1BTSUs1RU03X3ZrQXFJUkNnS3c?oc=5",
-        "publishedAt": "2026-05-24T20:02:51.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zbWJ3U05wNEZsZHZNWmpPamhJcVRtN0VwN2plYXVBWWtSMHN0Q2FBbDZubEJQTXFnRUpzRF93ZHVEaFRVNnVvc3lRc3NPRk1Tb2xzR3ZDLXNCNzQ?oc=5",
+        "publishedAt": "2026-05-24T20:22:51.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "地域企業知ろう 中学生が現場体験 工作機械で部品作りに挑戦 清水区でオープンファクトリー－静岡",
+        "source": "静岡新聞DIGITAL",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaYkdRenpZZFlWTlhJcGR2ajQ0SnNyZ2luRjl1Qjk4TFM5Y0dZVEV2RDhLWWlOdlhOZVRPZ1ExY3JGeE5pRHQ0RzZ3ZnNhZw?oc=5",
+        "publishedAt": "2026-05-24T21:00:00.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "三菱ガス化学、ヒヤリハット情報をRAGで横断参照する危険予知支援システムの開発を開始",
+        "source": "デジタルクロス",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zeHVJVHkxajBDMVNYTWZnWDZOZTJKVVJaZGlnTWJUalhtZjNHYTdLOExVa0c3dzJkdWhZTUM3dV9NdUZzV0NsdF9iNmUwRXhGaUNLcGpYcEJidDBoQzJTUm5ETQ?oc=5",
+        "publishedAt": "2026-05-24T21:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -17,6 +31,20 @@
         "publishedAt": "2026-05-24T20:00:00.000Z"
       },
       {
+        "time": "19:53",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-05-24T10:53:39.000Z"
+      },
+      {
+        "time": "05:02",
+        "title": "企業フォーカス／ヤマト 設備工事、素早く高品質",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10azBHM0QtUlYxWXJzY0h4dmdJbE9IeENybnRiV0RObkc1M2RYT3hrMVNFc0xnQXcydnRNZnVLOS1qVVB1Uk5MN1BTSUs1RU03X3ZrQXFJUkNnS3c?oc=5",
+        "publishedAt": "2026-05-24T20:02:51.000Z"
+      },
+      {
         "time": "12:56",
         "title": "安川電機の中期経営計画「Dash 35」にみるフィジカルAI戦略 メカトロニクスと知能化が融合する新市場創出の未来",
         "source": "note",
@@ -24,62 +52,20 @@
         "publishedAt": "2026-05-24T03:56:42.000Z"
       },
       {
-        "time": "22:50",
-        "title": "「超絶可愛い過ぎる」「最高過ぎる」田中流瑠、ギャルギャルしいブラックコーデにファン歓喜",
-        "source": "WWSチャンネル",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEtTdDZxNnlPSVI5cm9nQTB4ODdHMGNIR3YtbS1QZGRfOVMwNmlpeUVORVBLRGM3ME1uQ0Eyd1hXOG94V3h2dllMcTRMYW5DNEYwdXBCOEkwNjNRR0JrU3pwLWtkcDRUM2NObEFVRlZ5Rk5LWFBuc2oyTHlvblFsMDNTYTFXZTZfdlZJVUtMQXIxS3M?oc=5",
-        "publishedAt": "2026-05-24T13:50:30.000Z"
-      },
-      {
-        "time": "16:33",
-        "title": "日産 英でのEV部品生産を撤回",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581500?source=rss",
-        "publishedAt": "2026-05-24T07:33:16.000Z"
-      },
-      {
-        "time": "15:28",
-        "title": "美容室に訪日客 常連離れ懸念の声",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581495?source=rss",
-        "publishedAt": "2026-05-24T06:28:40.000Z"
-      },
-      {
-        "time": "20:32",
-        "title": "chocoZAP「女性専用」展開 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581533?source=rss",
-        "publishedAt": "2026-05-24T11:32:18.000Z"
-      },
-      {
-        "time": "10:51",
-        "title": "リカちゃん米に再進出 40年超ぶり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581467?source=rss",
-        "publishedAt": "2026-05-24T01:51:57.000Z"
+        "time": "11:36",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LZWhyVTNqMU1UUEltRmVOM2hFV21CdGJvZ2doc2ZVdzBWYzlaM3Zub00zUVlVdXlaSmI0YWtOUkh6dTZfVVBPSzdjYzhSMjhIWHAtMUhleEw?oc=5",
+        "publishedAt": "2026-05-24T02:36:56.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "20:45",
-        "title": "露 最新式ミサイルでウ大規模攻撃",
+        "time": "06:17",
+        "title": "米イラン終結向け基本合意か 報道",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581534?source=rss",
-        "publishedAt": "2026-05-24T11:45:09.000Z"
-      },
-      {
-        "time": "20:07",
-        "title": "米イラン覚書案報道 核で食い違い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581529?source=rss",
-        "publishedAt": "2026-05-24T11:07:57.000Z"
-      },
-      {
-        "time": "14:32",
-        "title": "日本へのトマホーク納入遅れ 英紙",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581488?source=rss",
-        "publishedAt": "2026-05-24T05:32:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581547?source=rss",
+        "publishedAt": "2026-05-24T21:17:50.000Z"
       },
       {
         "time": "13:54",
@@ -89,18 +75,32 @@
         "publishedAt": "2026-05-24T04:54:20.000Z"
       },
       {
-        "time": "09:10",
-        "title": "中国炭鉱爆発「企業が違法行為」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581449?source=rss",
-        "publishedAt": "2026-05-24T00:10:14.000Z"
-      },
-      {
         "time": "08:03",
         "title": "米中会談 習主席が高市首相を非難",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581446?source=rss",
         "publishedAt": "2026-05-23T23:03:20.000Z"
+      },
+      {
+        "time": "20:45",
+        "title": "露 最新式ミサイルでウ大規模攻撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581534?source=rss",
+        "publishedAt": "2026-05-24T11:45:09.000Z"
+      },
+      {
+        "time": "14:32",
+        "title": "日本へのトマホーク納入遅れ 英紙",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581488?source=rss",
+        "publishedAt": "2026-05-24T05:32:10.000Z"
+      },
+      {
+        "time": "09:10",
+        "title": "中国炭鉱爆発「企業が違法行為」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581449?source=rss",
+        "publishedAt": "2026-05-24T00:10:14.000Z"
       }
     ],
     "economyHeadlines": [
