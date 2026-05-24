@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T06:46:36.631Z",
+  "updatedAt": "2026-05-24T07:59:23.198Z",
   "items": [
     {
-      "time": "13:45",
-      "title": "ホルムズ再開含む合意近づく 報道",
+      "time": "16:41",
+      "title": "赤沢氏が訪中 日中関係は不透明感",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581481?source=rss",
-      "publishedAt": "2026-05-24T04:45:48.000Z",
-      "xQuery": "ホルムズ再開含む合意近づく 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6581501?source=rss",
+      "publishedAt": "2026-05-24T07:41:01.000Z",
+      "xQuery": "赤沢氏が訪中 日中関係は不透明感"
     },
     {
-      "time": "15:22",
-      "title": "広島県被団協 箕牧理事長が退任へ",
+      "time": "16:33",
+      "title": "日産 英でのEV部品生産を撤回",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581494?source=rss",
-      "publishedAt": "2026-05-24T06:22:57.000Z",
-      "xQuery": "広島県被団協 箕牧理事長が退任へ"
+      "url": "https://news.yahoo.co.jp/pickup/6581500?source=rss",
+      "publishedAt": "2026-05-24T07:33:16.000Z",
+      "xQuery": "日産 英でのEV部品生産を撤回"
     },
     {
-      "time": "14:59",
-      "title": "日赤名誉社長・近衛忠煇さん死去",
+      "time": "16:46",
+      "title": "相馬野馬追で馬と客接触 3人搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581490?source=rss",
-      "publishedAt": "2026-05-24T05:59:25.000Z",
-      "xQuery": "日赤名誉社長・近衛忠煇さん死去"
+      "url": "https://news.yahoo.co.jp/pickup/6581502?source=rss",
+      "publishedAt": "2026-05-24T07:46:37.000Z",
+      "xQuery": "相馬野馬追で馬と客接触 3人搬送"
+    },
+    {
+      "time": "15:44",
+      "title": "日本で暮らす高齢外国人 生活困窮",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581493?source=rss",
+      "publishedAt": "2026-05-24T06:44:42.000Z",
+      "xQuery": "日本で暮らす高齢外国人 生活困窮"
     },
     {
       "time": "14:36",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581489?source=rss",
       "publishedAt": "2026-05-24T05:36:08.000Z",
       "xQuery": "離婚後も同居 夫婦選んだ「卒婚」"
-    },
-    {
-      "time": "15:28",
-      "title": "美容室に訪日客 常連離れ懸念の声",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581495?source=rss",
-      "publishedAt": "2026-05-24T06:28:40.000Z",
-      "xQuery": "美容室に訪日客 常連離れ懸念の声"
     }
   ]
 };
