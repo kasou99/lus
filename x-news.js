@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-23T23:50:49.535Z",
+  "updatedAt": "2026-05-24T01:10:42.315Z",
   "items": [
     {
-      "time": "07:46",
-      "title": "米大統領 米イラン合意近く発表か",
+      "time": "09:21",
+      "title": "ホワイトハウス近くで警官に発砲",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581443?source=rss",
-      "publishedAt": "2026-05-23T22:46:42.000Z",
-      "xQuery": "米大統領 米イラン合意近く発表か"
+      "url": "https://news.yahoo.co.jp/pickup/6581456?source=rss",
+      "publishedAt": "2026-05-24T00:21:52.000Z",
+      "xQuery": "ホワイトハウス近くで警官に発砲"
     },
     {
       "time": "08:03",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米中会談 習主席が高市首相を非難"
     },
     {
-      "time": "08:09",
-      "title": "追突した車が次々衝突か 6人けが",
+      "time": "09:10",
+      "title": "中国炭鉱爆発「企業が違法行為」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581448?source=rss",
-      "publishedAt": "2026-05-23T23:09:37.000Z",
-      "xQuery": "追突した車が次々衝突か 6人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6581449?source=rss",
+      "publishedAt": "2026-05-24T00:10:14.000Z",
+      "xQuery": "中国炭鉱爆発「企業が違法行為」"
     },
     {
-      "time": "08:44",
-      "title": "民家に遺体 コード絡まった状態",
+      "time": "08:51",
+      "title": "神戸児童殺傷 区切りを選んだ遺族",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581450?source=rss",
-      "publishedAt": "2026-05-23T23:44:31.000Z",
-      "xQuery": "民家に遺体 コード絡まった状態"
+      "url": "https://news.yahoo.co.jp/pickup/6581453?source=rss",
+      "publishedAt": "2026-05-23T23:51:59.000Z",
+      "xQuery": "神戸児童殺傷 区切りを選んだ遺族"
     },
     {
-      "time": "07:27",
-      "title": "マックが「スムージー強化」背景",
+      "time": "08:53",
+      "title": "バインミー専門店が増加 なぜ人気",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581440?source=rss",
-      "publishedAt": "2026-05-23T22:27:34.000Z",
-      "xQuery": "マックが「スムージー強化」背景"
+      "url": "https://news.yahoo.co.jp/pickup/6581452?source=rss",
+      "publishedAt": "2026-05-23T23:53:13.000Z",
+      "xQuery": "バインミー専門店が増加 なぜ人気"
     }
   ]
 };
