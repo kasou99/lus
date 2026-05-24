@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-05-24T17:54:00.155Z",
+  "updatedAt": "2026-05-24T18:31:26.636Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "11:36",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LZWhyVTNqMU1UUEltRmVOM2hFV21CdGJvZ2doc2ZVdzBWYzlaM3Zub00zUVlVdXlaSmI0YWtOUkh6dTZfVVBPSzdjYzhSMjhIWHAtMUhleEw?oc=5",
+        "publishedAt": "2026-05-24T02:36:56.000Z"
+      },
       {
         "time": "12:56",
         "title": "安川電機の中期経営計画「Dash 35」にみるフィジカルAI戦略 メカトロニクスと知能化が融合する新市場創出の未来",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581452?source=rss",
         "publishedAt": "2026-05-23T23:53:13.000Z"
-      },
-      {
-        "time": "07:27",
-        "title": "マックが「スムージー強化」背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581440?source=rss",
-        "publishedAt": "2026-05-23T22:27:34.000Z"
       }
     ],
     "worldHeadlines": [
