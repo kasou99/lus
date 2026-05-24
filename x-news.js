@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T09:03:05.769Z",
+  "updatedAt": "2026-05-24T10:11:39.011Z",
   "items": [
     {
       "time": "16:41",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "赤沢氏が訪中 日中関係は不透明感"
     },
     {
-      "time": "15:44",
-      "title": "日本で暮らす高齢外国人 生活困窮",
+      "time": "17:46",
+      "title": "小沢氏 中道が軸の政権奪取不可能",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581493?source=rss",
-      "publishedAt": "2026-05-24T06:44:42.000Z",
-      "xQuery": "日本で暮らす高齢外国人 生活困窮"
-    },
-    {
-      "time": "14:33",
-      "title": "「海の外来種」日本で100種超す",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581485?source=rss",
-      "publishedAt": "2026-05-24T05:33:50.000Z",
-      "xQuery": "「海の外来種」日本で100種超す"
+      "url": "https://news.yahoo.co.jp/pickup/6581511?source=rss",
+      "publishedAt": "2026-05-24T08:46:44.000Z",
+      "xQuery": "小沢氏 中道が軸の政権奪取不可能"
     },
     {
       "time": "17:06",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "兵庫母娘殺害事件 42歳男に逮捕状"
     },
     {
-      "time": "13:56",
-      "title": "ISS「きぼう」どこで見える 解説",
+      "time": "15:46",
+      "title": "続く物価高 返礼品ティッシュ人気",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581483?source=rss",
-      "publishedAt": "2026-05-24T04:56:24.000Z",
-      "xQuery": "ISS「きぼう」どこで見える 解説"
+      "url": "https://news.yahoo.co.jp/pickup/6581496?source=rss",
+      "publishedAt": "2026-05-24T06:46:39.000Z",
+      "xQuery": "続く物価高 返礼品ティッシュ人気"
+    },
+    {
+      "time": "14:33",
+      "title": "「海の外来種」日本で100種超す",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581485?source=rss",
+      "publishedAt": "2026-05-24T05:33:50.000Z",
+      "xQuery": "「海の外来種」日本で100種超す"
     }
   ]
 };
