@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T22:26:15.933Z",
+  "updatedAt": "2026-05-24T22:52:13.784Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-05-24T21:00:00.000Z"
       },
       {
+        "time": "06:08",
+        "title": "陶芸職人の技、ＡＩから学ぶ…名古屋工大・慶応大の試みから見えてきた可能性",
+        "source": "ニュースイッチ by 日刊工業新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aN2dhbUE1a01YZ1EyV3hjNWgtY3ZJSW56eVYtbDFiRkxjYzlteWxHeTFaTjJhM0RZSTAxQzlzZWZRS0RGWnA4?oc=5",
+        "publishedAt": "2026-05-24T21:08:42.000Z"
+      },
+      {
         "time": "05:00",
         "title": "岡山市 灘崎文化センター大規模改修建築設計業務 落札者決定",
         "source": "建通新聞",
@@ -31,18 +38,18 @@
         "publishedAt": "2026-05-24T20:00:00.000Z"
       },
       {
-        "time": "19:53",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "time": "11:36",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-05-24T10:53:39.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LZWhyVTNqMU1UUEltRmVOM2hFV21CdGJvZ2doc2ZVdzBWYzlaM3Zub00zUVlVdXlaSmI0YWtOUkh6dTZfVVBPSzdjYzhSMjhIWHAtMUhleEw?oc=5",
+        "publishedAt": "2026-05-24T02:36:56.000Z"
       },
       {
-        "time": "05:02",
-        "title": "企業フォーカス／ヤマト 設備工事、素早く高品質",
+        "time": "05:36",
+        "title": "経営ひと言／東京医療保健大学・亀山周二学長「看護で社会還元」",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10azBHM0QtUlYxWXJzY0h4dmdJbE9IeENybnRiV0RObkc1M2RYT3hrMVNFc0xnQXcydnRNZnVLOS1qVVB1Uk5MN1BTSUs1RU03X3ZrQXFJUkNnS3c?oc=5",
-        "publishedAt": "2026-05-24T20:02:51.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjT3gzRnczTHplRFBDLW1MV0NnNTktbFgydk9lOC00RzRQMDItV2xVUVdyNE12SlB6ZVBzUXNsbW5lbTRQRFhkbUk1NFREN1hISGp4aEh1a0dsbm5wdHdFVWZGMWw0OF9GUXJWOC1mZHRTSjJ3TER5anZKcw?oc=5",
+        "publishedAt": "2026-05-24T20:36:49.000Z"
       },
       {
         "time": "12:56",
@@ -50,13 +57,6 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBubDZXSFJFUHRYaVgwMXU0M28wRHlCQ1o3RThFZERLaGtXUDV4Q1JTTzlZaGlxS09ZN05pX2pEWGpYM21veVBWRUJpS3FYMC1oNXVJRA?oc=5",
         "publishedAt": "2026-05-24T03:56:42.000Z"
-      },
-      {
-        "time": "11:36",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LZWhyVTNqMU1UUEltRmVOM2hFV21CdGJvZ2doc2ZVdzBWYzlaM3Zub00zUVlVdXlaSmI0YWtOUkh6dTZfVVBPSzdjYzhSMjhIWHAtMUhleEw?oc=5",
-        "publishedAt": "2026-05-24T02:36:56.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "07:49",
+        "title": "不正会計のニデック 監視委検査へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581556?source=rss",
+        "publishedAt": "2026-05-24T22:49:33.000Z"
+      },
+      {
         "time": "16:33",
         "title": "日産 英でのEV部品生産を撤回",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581452?source=rss",
         "publishedAt": "2026-05-23T23:53:13.000Z"
-      },
-      {
-        "time": "07:27",
-        "title": "マックが「スムージー強化」背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581440?source=rss",
-        "publishedAt": "2026-05-23T22:27:34.000Z"
       }
     ],
     "localHeadlines": [

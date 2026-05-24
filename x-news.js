@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T22:26:16.567Z",
+  "updatedAt": "2026-05-24T22:52:14.756Z",
   "items": [
     {
       "time": "06:17",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣支持率50%で発足後最低 毎日"
     },
     {
+      "time": "07:24",
+      "title": "比でビル倒壊 20人以上が下敷きか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581553?source=rss",
+      "publishedAt": "2026-05-24T22:24:32.000Z",
+      "xQuery": "比でビル倒壊 20人以上が下敷きか"
+    },
+    {
       "time": "21:08",
       "title": "母娘殺害 容疑者は約10年前の隣人",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581548?source=rss",
       "publishedAt": "2026-05-24T21:27:28.000Z",
       "xQuery": "住宅に3人遺体 目立った外傷なし"
-    },
-    {
-      "time": "06:38",
-      "title": "中国の宇宙船 初の香港出身飛行士",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581549?source=rss",
-      "publishedAt": "2026-05-24T21:38:51.000Z",
-      "xQuery": "中国の宇宙船 初の香港出身飛行士"
     }
   ]
 };
