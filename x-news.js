@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T21:25:11.974Z",
+  "updatedAt": "2026-05-24T21:50:27.329Z",
   "items": [
     {
       "time": "06:17",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581547?source=rss",
       "publishedAt": "2026-05-24T21:17:50.000Z",
       "xQuery": "米イラン終結向け基本合意か 報道"
+    },
+    {
+      "time": "06:38",
+      "title": "中国の宇宙船 初の香港出身飛行士",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581549?source=rss",
+      "publishedAt": "2026-05-24T21:38:51.000Z",
+      "xQuery": "中国の宇宙船 初の香港出身飛行士"
     },
     {
       "time": "21:18",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "母娘殺害 容疑者は約10年前の隣人"
     },
     {
-      "time": "23:00",
-      "title": "携帯キャリア次々乗り換え 問題は",
+      "time": "06:27",
+      "title": "住宅に3人遺体 目立った外傷なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581543?source=rss",
-      "publishedAt": "2026-05-24T14:00:39.000Z",
-      "xQuery": "携帯キャリア次々乗り換え 問題は"
-    },
-    {
-      "time": "21:56",
-      "title": "SNSで増 カラーハンティングとは",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581539?source=rss",
-      "publishedAt": "2026-05-24T12:56:48.000Z",
-      "xQuery": "SNSで増 カラーハンティングとは"
+      "url": "https://news.yahoo.co.jp/pickup/6581548?source=rss",
+      "publishedAt": "2026-05-24T21:27:28.000Z",
+      "xQuery": "住宅に3人遺体 目立った外傷なし"
     }
   ]
 };
