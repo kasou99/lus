@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T02:25:26.044Z",
+  "updatedAt": "2026-05-24T03:49:24.264Z",
   "items": [
+    {
+      "time": "11:33",
+      "title": "連日Xの首相 問われる取材の意味",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581470?source=rss",
+      "publishedAt": "2026-05-24T02:33:31.000Z",
+      "xQuery": "連日Xの首相 問われる取材の意味"
+    },
     {
       "time": "10:48",
       "title": "ホワイトハウス周辺発砲 市民負傷",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581466?source=rss",
       "publishedAt": "2026-05-24T01:48:24.000Z",
       "xQuery": "ホワイトハウス周辺発砲 市民負傷"
-    },
-    {
-      "time": "08:14",
-      "title": "エボラ 米の支援削減で初動遅れか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581447?source=rss",
-      "publishedAt": "2026-05-23T23:14:40.000Z",
-      "xQuery": "エボラ 米の支援削減で初動遅れか"
     },
     {
       "time": "10:33",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "動物園職員 数カ月前から絞殺検索"
     },
     {
-      "time": "08:53",
-      "title": "バインミー専門店が増加 なぜ人気",
+      "time": "12:43",
+      "title": "ゾンビたばこ後悔 気づけば手遅れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581452?source=rss",
-      "publishedAt": "2026-05-23T23:53:13.000Z",
-      "xQuery": "バインミー専門店が増加 なぜ人気"
+      "url": "https://news.yahoo.co.jp/pickup/6581476?source=rss",
+      "publishedAt": "2026-05-24T03:43:04.000Z",
+      "xQuery": "ゾンビたばこ後悔 気づけば手遅れ"
     }
   ]
 };
