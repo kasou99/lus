@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T11:00:02.285Z",
+  "updatedAt": "2026-05-24T11:37:37.223Z",
   "items": [
+    {
+      "time": "20:07",
+      "title": "米イラン覚書案報道 核で食い違い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581529?source=rss",
+      "publishedAt": "2026-05-24T11:07:57.000Z",
+      "xQuery": "米イラン覚書案報道 核で食い違い"
+    },
     {
       "time": "19:36",
       "title": "首相宿願「国旗損壊罪」急ぐ自民",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "母娘殺害事件 42歳の男を指名手配"
     },
     {
-      "time": "15:46",
-      "title": "続く物価高 返礼品ティッシュ人気",
+      "time": "16:52",
+      "title": "平均年齢73歳が接客 渋谷の茶屋",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581496?source=rss",
-      "publishedAt": "2026-05-24T06:46:39.000Z",
-      "xQuery": "続く物価高 返礼品ティッシュ人気"
-    },
-    {
-      "time": "14:33",
-      "title": "「海の外来種」日本で100種超す",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581485?source=rss",
-      "publishedAt": "2026-05-24T05:33:50.000Z",
-      "xQuery": "「海の外来種」日本で100種超す"
+      "url": "https://news.yahoo.co.jp/pickup/6581503?source=rss",
+      "publishedAt": "2026-05-24T07:52:30.000Z",
+      "xQuery": "平均年齢73歳が接客 渋谷の茶屋"
     }
   ]
 };
