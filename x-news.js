@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T21:50:27.329Z",
+  "updatedAt": "2026-05-24T22:26:16.567Z",
   "items": [
     {
       "time": "06:17",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581547?source=rss",
       "publishedAt": "2026-05-24T21:17:50.000Z",
       "xQuery": "米イラン終結向け基本合意か 報道"
-    },
-    {
-      "time": "06:38",
-      "title": "中国の宇宙船 初の香港出身飛行士",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581549?source=rss",
-      "publishedAt": "2026-05-24T21:38:51.000Z",
-      "xQuery": "中国の宇宙船 初の香港出身飛行士"
     },
     {
       "time": "21:18",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581548?source=rss",
       "publishedAt": "2026-05-24T21:27:28.000Z",
       "xQuery": "住宅に3人遺体 目立った外傷なし"
+    },
+    {
+      "time": "06:38",
+      "title": "中国の宇宙船 初の香港出身飛行士",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581549?source=rss",
+      "publishedAt": "2026-05-24T21:38:51.000Z",
+      "xQuery": "中国の宇宙船 初の香港出身飛行士"
     }
   ]
 };
