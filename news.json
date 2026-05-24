@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T16:28:22.373Z",
+  "updatedAt": "2026-05-24T16:55:29.278Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBubDZXSFJFUHRYaVgwMXU0M28wRHlCQ1o3RThFZERLaGtXUDV4Q1JTTzlZaGlxS09ZN05pX2pEWGpYM21veVBWRUJpS3FYMC1oNXVJRA?oc=5",
         "publishedAt": "2026-05-24T03:56:42.000Z"
-      },
-      {
-        "time": "01:48",
-        "title": "【ぽこあポケモン】そうさばん(操作盤)のレシピと入手方法【ぽこポケ】",
-        "source": "GameWith",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFYjEzVnpKbjR0MWZfeDJLZmllUHN6SjkwWE9hQnpZQzJPU3J0UUN1TUxOSDhwV2Q5OFFFVHVvQXhYblRtZFl1QnRFUTgyVnRT?oc=5",
-        "publishedAt": "2026-05-23T16:48:11.000Z"
       },
       {
         "time": "22:50",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581452?source=rss",
         "publishedAt": "2026-05-23T23:53:13.000Z"
+      },
+      {
+        "time": "07:27",
+        "title": "マックが「スムージー強化」背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581440?source=rss",
+        "publishedAt": "2026-05-23T22:27:34.000Z"
       }
     ],
     "worldHeadlines": [
