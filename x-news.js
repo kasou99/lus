@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T23:28:02.344Z",
+  "updatedAt": "2026-05-24T23:54:42.581Z",
   "items": [
     {
-      "time": "06:17",
-      "title": "米イラン終結向け基本合意か 報道",
+      "time": "08:12",
+      "title": "ナフサ説明「納得せず」64% 読売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581547?source=rss",
-      "publishedAt": "2026-05-24T21:17:50.000Z",
-      "xQuery": "米イラン終結向け基本合意か 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6581559?source=rss",
+      "publishedAt": "2026-05-24T23:12:54.000Z",
+      "xQuery": "ナフサ説明「納得せず」64% 読売"
     },
     {
-      "time": "07:24",
-      "title": "比でビル倒壊 20人以上が下敷きか",
+      "time": "08:23",
+      "title": "単身高齢者の最期 自治体の重荷に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581553?source=rss",
-      "publishedAt": "2026-05-24T22:24:32.000Z",
-      "xQuery": "比でビル倒壊 20人以上が下敷きか"
+      "url": "https://news.yahoo.co.jp/pickup/6581560?source=rss",
+      "publishedAt": "2026-05-24T23:23:42.000Z",
+      "xQuery": "単身高齢者の最期 自治体の重荷に"
     },
     {
       "time": "07:49",
