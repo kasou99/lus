@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T12:35:11.475Z",
+  "updatedAt": "2026-05-24T13:37:28.882Z",
   "items": [
-    {
-      "time": "20:07",
-      "title": "米イラン覚書案報道 核で食い違い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581529?source=rss",
-      "publishedAt": "2026-05-24T11:07:57.000Z",
-      "xQuery": "米イラン覚書案報道 核で食い違い"
-    },
     {
       "time": "20:45",
       "title": "露 最新式ミサイルでウ大規模攻撃",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581534?source=rss",
       "publishedAt": "2026-05-24T11:45:09.000Z",
       "xQuery": "露 最新式ミサイルでウ大規模攻撃"
+    },
+    {
+      "time": "20:11",
+      "title": "朝鮮総連 91歳の許宗萬議長を再任",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581528?source=rss",
+      "publishedAt": "2026-05-24T11:11:53.000Z",
+      "xQuery": "朝鮮総連 91歳の許宗萬議長を再任"
     },
     {
       "time": "21:18",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣支持率50%で発足後最低 毎日"
     },
     {
-      "time": "19:36",
-      "title": "首相宿願「国旗損壊罪」急ぐ自民",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581522?source=rss",
-      "publishedAt": "2026-05-24T10:36:23.000Z",
-      "xQuery": "首相宿願「国旗損壊罪」急ぐ自民"
-    },
-    {
       "time": "21:08",
       "title": "母娘殺害 容疑者は約10年前の隣人",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6581535?source=rss",
       "publishedAt": "2026-05-24T12:08:21.000Z",
       "xQuery": "母娘殺害 容疑者は約10年前の隣人"
+    },
+    {
+      "time": "20:32",
+      "title": "chocoZAP「女性専用」展開 背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581533?source=rss",
+      "publishedAt": "2026-05-24T11:32:18.000Z",
+      "xQuery": "chocoZAP「女性専用」展開 背景"
     }
   ]
 };
