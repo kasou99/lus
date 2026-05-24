@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T14:37:55.851Z",
+  "updatedAt": "2026-05-24T15:31:02.843Z",
   "items": [
     {
       "time": "20:45",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "母娘殺害 容疑者は約10年前の隣人"
     },
     {
-      "time": "20:32",
-      "title": "chocoZAP「女性専用」展開 背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581533?source=rss",
-      "publishedAt": "2026-05-24T11:32:18.000Z",
-      "xQuery": "chocoZAP「女性専用」展開 背景"
-    },
-    {
       "time": "23:00",
       "title": "携帯キャリア次々乗り換え 問題は",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6581543?source=rss",
       "publishedAt": "2026-05-24T14:00:39.000Z",
       "xQuery": "携帯キャリア次々乗り換え 問題は"
+    },
+    {
+      "time": "21:56",
+      "title": "SNSで増 カラーハンティングとは",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581539?source=rss",
+      "publishedAt": "2026-05-24T12:56:48.000Z",
+      "xQuery": "SNSで増 カラーハンティングとは"
     }
   ]
 };
