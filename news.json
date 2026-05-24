@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T22:52:13.784Z",
+  "updatedAt": "2026-05-24T23:28:01.753Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-05-24T21:00:00.000Z"
       },
       {
-        "time": "06:08",
-        "title": "陶芸職人の技、ＡＩから学ぶ…名古屋工大・慶応大の試みから見えてきた可能性",
-        "source": "ニュースイッチ by 日刊工業新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aN2dhbUE1a01YZ1EyV3hjNWgtY3ZJSW56eVYtbDFiRkxjYzlteWxHeTFaTjJhM0RZSTAxQzlzZWZRS0RGWnA4?oc=5",
-        "publishedAt": "2026-05-24T21:08:42.000Z"
-      },
-      {
         "time": "05:00",
         "title": "岡山市 灘崎文化センター大規模改修建築設計業務 落札者決定",
         "source": "建通新聞",
@@ -38,11 +31,11 @@
         "publishedAt": "2026-05-24T20:00:00.000Z"
       },
       {
-        "time": "11:36",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "time": "19:53",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LZWhyVTNqMU1UUEltRmVOM2hFV21CdGJvZ2doc2ZVdzBWYzlaM3Zub00zUVlVdXlaSmI0YWtOUkh6dTZfVVBPSzdjYzhSMjhIWHAtMUhleEw?oc=5",
-        "publishedAt": "2026-05-24T02:36:56.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-05-24T10:53:39.000Z"
       },
       {
         "time": "05:36",
@@ -57,6 +50,13 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBubDZXSFJFUHRYaVgwMXU0M28wRHlCQ1o3RThFZERLaGtXUDV4Q1JTTzlZaGlxS09ZN05pX2pEWGpYM21veVBWRUJpS3FYMC1oNXVJRA?oc=5",
         "publishedAt": "2026-05-24T03:56:42.000Z"
+      },
+      {
+        "time": "22:50",
+        "title": "「超絶可愛い過ぎる」「最高過ぎる」田中流瑠、ギャルギャルしいブラックコーデにファン歓喜",
+        "source": "WWSチャンネル",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEtTdDZxNnlPSVI5cm9nQTB4ODdHMGNIR3YtbS1QZGRfOVMwNmlpeUVORVBLRGM3ME1uQ0Eyd1hXOG94V3h2dllMcTRMYW5DNEYwdXBCOEkwNjNRR0JrU3pwLWtkcDRUM2NObEFVRlZ5Rk5LWFBuc2oyTHlvblFsMDNTYTFXZTZfdlZJVUtMQXIxS3M?oc=5",
+        "publishedAt": "2026-05-24T13:50:30.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-05-24T07:33:16.000Z"
       },
       {
+        "time": "07:55",
+        "title": "ノジマの日立家電事業買収 狙いは",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581557?source=rss",
+        "publishedAt": "2026-05-24T22:55:49.000Z"
+      },
+      {
         "time": "15:28",
         "title": "美容室に訪日客 常連離れ懸念の声",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581467?source=rss",
         "publishedAt": "2026-05-24T01:51:57.000Z"
-      },
-      {
-        "time": "08:53",
-        "title": "バインミー専門店が増加 なぜ人気",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581452?source=rss",
-        "publishedAt": "2026-05-23T23:53:13.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,18 +170,18 @@
         "publishedAt": "2026-05-24T21:27:28.000Z"
       },
       {
-        "time": "11:15",
-        "title": "動物園職員 数カ月前から絞殺検索",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581469?source=rss",
-        "publishedAt": "2026-05-24T02:15:27.000Z"
-      },
-      {
         "time": "17:12",
         "title": "相馬野馬追で馬と客接触 6人けが",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581509?source=rss",
         "publishedAt": "2026-05-24T08:12:27.000Z"
+      },
+      {
+        "time": "07:56",
+        "title": "バイクと車が正面衝突 高校生重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581558?source=rss",
+        "publishedAt": "2026-05-24T22:56:45.000Z"
       },
       {
         "time": "12:43",

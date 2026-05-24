@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T22:52:14.756Z",
+  "updatedAt": "2026-05-24T23:28:02.344Z",
   "items": [
     {
       "time": "06:17",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン終結向け基本合意か 報道"
     },
     {
-      "time": "21:18",
-      "title": "内閣支持率50%で発足後最低 毎日",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581536?source=rss",
-      "publishedAt": "2026-05-24T12:18:28.000Z",
-      "xQuery": "内閣支持率50%で発足後最低 毎日"
-    },
-    {
       "time": "07:24",
       "title": "比でビル倒壊 20人以上が下敷きか",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "比でビル倒壊 20人以上が下敷きか"
     },
     {
-      "time": "21:08",
-      "title": "母娘殺害 容疑者は約10年前の隣人",
+      "time": "07:49",
+      "title": "不正会計のニデック 監視委検査へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581535?source=rss",
-      "publishedAt": "2026-05-24T12:08:21.000Z",
-      "xQuery": "母娘殺害 容疑者は約10年前の隣人"
+      "url": "https://news.yahoo.co.jp/pickup/6581556?source=rss",
+      "publishedAt": "2026-05-24T22:49:33.000Z",
+      "xQuery": "不正会計のニデック 監視委検査へ"
+    },
+    {
+      "time": "07:56",
+      "title": "バイクと車が正面衝突 高校生重体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581558?source=rss",
+      "publishedAt": "2026-05-24T22:56:45.000Z",
+      "xQuery": "バイクと車が正面衝突 高校生重体"
     },
     {
       "time": "06:27",
