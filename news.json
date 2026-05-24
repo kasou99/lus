@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T01:10:40.907Z",
+  "updatedAt": "2026-05-24T02:25:25.443Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,20 +52,20 @@
         "publishedAt": "2026-05-23T13:12:43.000Z"
       },
       {
-        "time": "08:53",
-        "title": "バインミー専門店が増加 なぜ人気",
+        "time": "10:51",
+        "title": "リカちゃん米に再進出 40年超ぶり",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581452?source=rss",
-        "publishedAt": "2026-05-23T23:53:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581467?source=rss",
+        "publishedAt": "2026-05-24T01:51:57.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "09:21",
-        "title": "ホワイトハウス近くで警官に発砲",
+        "time": "10:48",
+        "title": "ホワイトハウス周辺発砲 市民負傷",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581456?source=rss",
-        "publishedAt": "2026-05-24T00:21:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581466?source=rss",
+        "publishedAt": "2026-05-24T01:48:24.000Z"
       },
       {
         "time": "09:10",
@@ -126,6 +126,13 @@
         "publishedAt": "2026-05-23T13:12:43.000Z"
       },
       {
+        "time": "10:51",
+        "title": "リカちゃん米に再進出 40年超ぶり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581467?source=rss",
+        "publishedAt": "2026-05-24T01:51:57.000Z"
+      },
+      {
         "time": "08:53",
         "title": "バインミー専門店が増加 なぜ人気",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581399?source=rss",
         "publishedAt": "2026-05-23T10:01:52.000Z"
-      },
-      {
-        "time": "07:27",
-        "title": "マックが「スムージー強化」背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581440?source=rss",
-        "publishedAt": "2026-05-23T22:27:34.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-05-23T14:22:08.000Z"
       },
       {
-        "time": "22:44",
-        "title": "辺野古事故 沖縄知事が文科省批判",
+        "time": "11:15",
+        "title": "動物園職員 数カ月前から絞殺検索",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581430?source=rss",
-        "publishedAt": "2026-05-23T13:44:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581469?source=rss",
+        "publishedAt": "2026-05-24T02:15:27.000Z"
       },
       {
-        "time": "10:05",
-        "title": "闇バイト 勧誘手口や犯行実態は",
+        "time": "10:33",
+        "title": "闇バイトの実態語る 服役の元少年",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581458?source=rss",
-        "publishedAt": "2026-05-24T01:05:23.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581464?source=rss",
+        "publishedAt": "2026-05-24T01:33:28.000Z"
       },
       {
         "time": "08:44",

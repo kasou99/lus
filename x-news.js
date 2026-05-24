@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T01:10:42.315Z",
+  "updatedAt": "2026-05-24T02:25:26.044Z",
   "items": [
     {
-      "time": "09:21",
-      "title": "ホワイトハウス近くで警官に発砲",
+      "time": "10:48",
+      "title": "ホワイトハウス周辺発砲 市民負傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581456?source=rss",
-      "publishedAt": "2026-05-24T00:21:52.000Z",
-      "xQuery": "ホワイトハウス近くで警官に発砲"
+      "url": "https://news.yahoo.co.jp/pickup/6581466?source=rss",
+      "publishedAt": "2026-05-24T01:48:24.000Z",
+      "xQuery": "ホワイトハウス周辺発砲 市民負傷"
     },
     {
-      "time": "08:03",
-      "title": "米中会談 習主席が高市首相を非難",
+      "time": "08:14",
+      "title": "エボラ 米の支援削減で初動遅れか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581446?source=rss",
-      "publishedAt": "2026-05-23T23:03:20.000Z",
-      "xQuery": "米中会談 習主席が高市首相を非難"
+      "url": "https://news.yahoo.co.jp/pickup/6581447?source=rss",
+      "publishedAt": "2026-05-23T23:14:40.000Z",
+      "xQuery": "エボラ 米の支援削減で初動遅れか"
     },
     {
-      "time": "09:10",
-      "title": "中国炭鉱爆発「企業が違法行為」",
+      "time": "10:33",
+      "title": "闇バイトの実態語る 服役の元少年",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581449?source=rss",
-      "publishedAt": "2026-05-24T00:10:14.000Z",
-      "xQuery": "中国炭鉱爆発「企業が違法行為」"
+      "url": "https://news.yahoo.co.jp/pickup/6581464?source=rss",
+      "publishedAt": "2026-05-24T01:33:28.000Z",
+      "xQuery": "闇バイトの実態語る 服役の元少年"
     },
     {
-      "time": "08:51",
-      "title": "神戸児童殺傷 区切りを選んだ遺族",
+      "time": "11:15",
+      "title": "動物園職員 数カ月前から絞殺検索",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581453?source=rss",
-      "publishedAt": "2026-05-23T23:51:59.000Z",
-      "xQuery": "神戸児童殺傷 区切りを選んだ遺族"
+      "url": "https://news.yahoo.co.jp/pickup/6581469?source=rss",
+      "publishedAt": "2026-05-24T02:15:27.000Z",
+      "xQuery": "動物園職員 数カ月前から絞殺検索"
     },
     {
       "time": "08:53",
