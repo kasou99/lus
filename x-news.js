@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T05:28:06.136Z",
+  "updatedAt": "2026-05-24T06:46:36.631Z",
   "items": [
     {
       "time": "13:45",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "ホルムズ再開含む合意近づく 報道"
     },
     {
-      "time": "13:54",
-      "title": "米大統領警護隊 発砲容疑者を射殺",
+      "time": "15:22",
+      "title": "広島県被団協 箕牧理事長が退任へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581482?source=rss",
-      "publishedAt": "2026-05-24T04:54:20.000Z",
-      "xQuery": "米大統領警護隊 発砲容疑者を射殺"
+      "url": "https://news.yahoo.co.jp/pickup/6581494?source=rss",
+      "publishedAt": "2026-05-24T06:22:57.000Z",
+      "xQuery": "広島県被団協 箕牧理事長が退任へ"
     },
     {
-      "time": "11:15",
-      "title": "動物園職員 数カ月前から絞殺検索",
+      "time": "14:59",
+      "title": "日赤名誉社長・近衛忠煇さん死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581469?source=rss",
-      "publishedAt": "2026-05-24T02:15:27.000Z",
-      "xQuery": "動物園職員 数カ月前から絞殺検索"
+      "url": "https://news.yahoo.co.jp/pickup/6581490?source=rss",
+      "publishedAt": "2026-05-24T05:59:25.000Z",
+      "xQuery": "日赤名誉社長・近衛忠煇さん死去"
     },
     {
-      "time": "12:43",
-      "title": "ゾンビたばこ後悔 気づけば手遅れ",
+      "time": "14:36",
+      "title": "離婚後も同居 夫婦選んだ「卒婚」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581476?source=rss",
-      "publishedAt": "2026-05-24T03:43:04.000Z",
-      "xQuery": "ゾンビたばこ後悔 気づけば手遅れ"
+      "url": "https://news.yahoo.co.jp/pickup/6581489?source=rss",
+      "publishedAt": "2026-05-24T05:36:08.000Z",
+      "xQuery": "離婚後も同居 夫婦選んだ「卒婚」"
     },
     {
-      "time": "13:30",
-      "title": "撮影で人殺到 希少野鳥が営巣放棄",
+      "time": "15:28",
+      "title": "美容室に訪日客 常連離れ懸念の声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581478?source=rss",
-      "publishedAt": "2026-05-24T04:30:42.000Z",
-      "xQuery": "撮影で人殺到 希少野鳥が営巣放棄"
+      "url": "https://news.yahoo.co.jp/pickup/6581495?source=rss",
+      "publishedAt": "2026-05-24T06:28:40.000Z",
+      "xQuery": "美容室に訪日客 常連離れ懸念の声"
     }
   ]
 };

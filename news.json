@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-05-24T05:28:05.236Z",
+  "updatedAt": "2026-05-24T06:46:35.978Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "11:36",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LZWhyVTNqMU1UUEltRmVOM2hFV21CdGJvZ2doc2ZVdzBWYzlaM3Zub00zUVlVdXlaSmI0YWtOUkh6dTZfVVBPSzdjYzhSMjhIWHAtMUhleEw?oc=5",
+        "publishedAt": "2026-05-24T02:36:56.000Z"
+      },
       {
         "time": "12:56",
         "title": "安川電機の中期経営計画「Dash 35」にみるフィジカルAI戦略 メカトロニクスと知能化が融合する新市場創出の未来",
@@ -50,16 +57,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581425?source=rss",
         "publishedAt": "2026-05-23T13:12:43.000Z"
-      },
-      {
-        "time": "10:51",
-        "title": "リカちゃん米に再進出 40年超ぶり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581467?source=rss",
-        "publishedAt": "2026-05-24T01:51:57.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "14:32",
+        "title": "日本へのトマホーク納入遅れ 英紙",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581488?source=rss",
+        "publishedAt": "2026-05-24T05:32:10.000Z"
+      },
       {
         "time": "13:54",
         "title": "米大統領警護隊 発砲容疑者を射殺",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581388?source=rss",
         "publishedAt": "2026-05-23T08:37:52.000Z"
-      },
-      {
-        "time": "16:12",
-        "title": "旧統一総裁 病気で一時釈放長期化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581375?source=rss",
-        "publishedAt": "2026-05-23T07:12:38.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-05-23T13:12:43.000Z"
       },
       {
+        "time": "15:28",
+        "title": "美容室に訪日客 常連離れ懸念の声",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581495?source=rss",
+        "publishedAt": "2026-05-24T06:28:40.000Z"
+      },
+      {
         "time": "10:51",
         "title": "リカちゃん米に再進出 40年超ぶり",
         "source": "Yahoo!ニュース",
@@ -138,16 +145,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581452?source=rss",
         "publishedAt": "2026-05-23T23:53:13.000Z"
-      },
-      {
-        "time": "19:01",
-        "title": "歓迎されぬクロマグロ 豊漁で放流",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581399?source=rss",
-        "publishedAt": "2026-05-23T10:01:52.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "15:22",
+        "title": "広島県被団協 箕牧理事長が退任へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581494?source=rss",
+        "publishedAt": "2026-05-24T06:22:57.000Z"
+      },
       {
         "time": "08:51",
         "title": "神戸児童殺傷 区切りを選んだ遺族",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581450?source=rss",
         "publishedAt": "2026-05-23T23:44:31.000Z"
-      },
-      {
-        "time": "08:09",
-        "title": "追突した車が次々衝突か 6人けが",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581448?source=rss",
-        "publishedAt": "2026-05-23T23:09:37.000Z"
       }
     ],
     "subsidyHeadlines": [
