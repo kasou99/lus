@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T13:37:28.882Z",
+  "updatedAt": "2026-05-24T14:37:55.851Z",
   "items": [
     {
       "time": "20:45",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581534?source=rss",
       "publishedAt": "2026-05-24T11:45:09.000Z",
       "xQuery": "露 最新式ミサイルでウ大規模攻撃"
-    },
-    {
-      "time": "20:11",
-      "title": "朝鮮総連 91歳の許宗萬議長を再任",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581528?source=rss",
-      "publishedAt": "2026-05-24T11:11:53.000Z",
-      "xQuery": "朝鮮総連 91歳の許宗萬議長を再任"
     },
     {
       "time": "21:18",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581533?source=rss",
       "publishedAt": "2026-05-24T11:32:18.000Z",
       "xQuery": "chocoZAP「女性専用」展開 背景"
+    },
+    {
+      "time": "23:00",
+      "title": "携帯キャリア次々乗り換え 問題は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581543?source=rss",
+      "publishedAt": "2026-05-24T14:00:39.000Z",
+      "xQuery": "携帯キャリア次々乗り換え 問題は"
     }
   ]
 };
