@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T20:27:15.091Z",
+  "updatedAt": "2026-05-24T20:52:51.918Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10azBHM0QtUlYxWXJzY0h4dmdJbE9IeENybnRiV0RObkc1M2RYT3hrMVNFc0xnQXcydnRNZnVLOS1qVVB1Uk5MN1BTSUs1RU03X3ZrQXFJUkNnS3c?oc=5",
         "publishedAt": "2026-05-24T20:02:51.000Z"
-      },
-      {
-        "time": "19:53",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-05-24T10:53:39.000Z"
       },
       {
         "time": "05:00",
@@ -29,13 +22,6 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBubDZXSFJFUHRYaVgwMXU0M28wRHlCQ1o3RThFZERLaGtXUDV4Q1JTTzlZaGlxS09ZN05pX2pEWGpYM21veVBWRUJpS3FYMC1oNXVJRA?oc=5",
         "publishedAt": "2026-05-24T03:56:42.000Z"
-      },
-      {
-        "time": "11:36",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LZWhyVTNqMU1UUEltRmVOM2hFV21CdGJvZ2doc2ZVdzBWYzlaM3Zub00zUVlVdXlaSmI0YWtOUkh6dTZfVVBPSzdjYzhSMjhIWHAtMUhleEw?oc=5",
-        "publishedAt": "2026-05-24T02:36:56.000Z"
       },
       {
         "time": "22:50",
@@ -57,6 +43,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581495?source=rss",
         "publishedAt": "2026-05-24T06:28:40.000Z"
+      },
+      {
+        "time": "20:32",
+        "title": "chocoZAP「女性専用」展開 背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581533?source=rss",
+        "publishedAt": "2026-05-24T11:32:18.000Z"
+      },
+      {
+        "time": "10:51",
+        "title": "リカちゃん米に再進出 40年超ぶり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581467?source=rss",
+        "publishedAt": "2026-05-24T01:51:57.000Z"
       }
     ],
     "worldHeadlines": [
