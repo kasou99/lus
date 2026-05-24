@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-05-24T03:49:23.113Z",
+  "updatedAt": "2026-05-24T05:28:05.236Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "14:16",
-        "title": "トヨタ自動車九州株式会社が設備保全クラウド「M2X」を導入",
+        "time": "12:56",
+        "title": "安川電機の中期経営計画「Dash 35」にみるフィジカルAI戦略 メカトロニクスと知能化が融合する新市場創出の未来",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBubDZXSFJFUHRYaVgwMXU0M28wRHlCQ1o3RThFZERLaGtXUDV4Q1JTTzlZaGlxS09ZN05pX2pEWGpYM21veVBWRUJpS3FYMC1oNXVJRA?oc=5",
+        "publishedAt": "2026-05-24T03:56:42.000Z"
+      },
+      {
+        "time": "17:51",
+        "title": "栃木銀、アベジャとDX・AI連携 業務効率化",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnbzN1WUVDNktYeXA4Y19RNi00Qm9UdW5oNTRMOUpORU9SV2RpOTUtaTNhQUk1UmtyWkZuTHF0VnRPbUp3YXl1bng3MDFieDN0b2tqNEhhRUo?oc=5",
-        "publishedAt": "2026-05-23T05:16:31.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsRklLQzhydjJGY1ZXNm5yUE11ODQtOHhQbU1WQ0xYSG5Ia19oaExyUzdCUXZZTEU3SUhLSUtUeEFvSkV0LVpOZXZTLWZrblM0OTlmdDkzeGlMZHk1bGNHRTVJcGdZdk9XdjVCNW5ZeGRuN0VZ?oc=5",
+        "publishedAt": "2026-05-23T08:51:27.000Z"
       },
       {
         "time": "00:24",
@@ -22,20 +29,6 @@
         "source": "GameWith",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFYjEzVnpKbjR0MWZfeDJLZmllUHN6SjkwWE9hQnpZQzJPU3J0UUN1TUxOSDhwV2Q5OFFFVHVvQXhYblRtZFl1QnRFUTgyVnRT?oc=5",
         "publishedAt": "2026-05-23T16:48:11.000Z"
-      },
-      {
-        "time": "13:30",
-        "title": "ヘリカルギア遊星減速機の世界市場（2026年～2032年）、市場規模（シングルレベル、マルチレベル）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JRVF3aGZsR0I4MGtDV2lmMGRGdGxjQzE3X3BwcDdRRUJiZm9VX3VUZUs1am9NNWVnTkNRb0loU1VVVmt5bWhiNEp1RHRaTTg?oc=5",
-        "publishedAt": "2026-05-23T04:30:00.000Z"
-      },
-      {
-        "time": "17:51",
-        "title": "栃木銀、アベジャとDX・AI連携 業務効率化",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsRklLQzhydjJGY1ZXNm5yUE11ODQtOHhQbU1WQ0xYSG5Ia19oaExyUzdCUXZZTEU3SUhLSUtUeEFvSkV0LVpOZXZTLWZrblM0OTlmdDkzeGlMZHk1bGNHRTVJcGdZdk9XdjVCNW5ZeGRuN0VZ?oc=5",
-        "publishedAt": "2026-05-23T08:51:27.000Z"
       },
       {
         "time": "21:10",
@@ -57,15 +50,29 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581425?source=rss",
         "publishedAt": "2026-05-23T13:12:43.000Z"
+      },
+      {
+        "time": "10:51",
+        "title": "リカちゃん米に再進出 40年超ぶり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581467?source=rss",
+        "publishedAt": "2026-05-24T01:51:57.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "10:48",
-        "title": "ホワイトハウス周辺発砲 市民負傷",
+        "time": "13:54",
+        "title": "米大統領警護隊 発砲容疑者を射殺",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581466?source=rss",
-        "publishedAt": "2026-05-24T01:48:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581482?source=rss",
+        "publishedAt": "2026-05-24T04:54:20.000Z"
+      },
+      {
+        "time": "13:45",
+        "title": "ホルムズ再開含む合意近づく 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581481?source=rss",
+        "publishedAt": "2026-05-24T04:45:48.000Z"
       },
       {
         "time": "09:10",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581446?source=rss",
         "publishedAt": "2026-05-23T23:03:20.000Z"
-      },
-      {
-        "time": "07:46",
-        "title": "米大統領 米イラン合意近く発表か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581443?source=rss",
-        "publishedAt": "2026-05-23T22:46:42.000Z"
       },
       {
         "time": "17:37",

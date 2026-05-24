@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T03:49:24.264Z",
+  "updatedAt": "2026-05-24T05:28:06.136Z",
   "items": [
     {
-      "time": "11:33",
-      "title": "連日Xの首相 問われる取材の意味",
+      "time": "13:45",
+      "title": "ホルムズ再開含む合意近づく 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581470?source=rss",
-      "publishedAt": "2026-05-24T02:33:31.000Z",
-      "xQuery": "連日Xの首相 問われる取材の意味"
+      "url": "https://news.yahoo.co.jp/pickup/6581481?source=rss",
+      "publishedAt": "2026-05-24T04:45:48.000Z",
+      "xQuery": "ホルムズ再開含む合意近づく 報道"
     },
     {
-      "time": "10:48",
-      "title": "ホワイトハウス周辺発砲 市民負傷",
+      "time": "13:54",
+      "title": "米大統領警護隊 発砲容疑者を射殺",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581466?source=rss",
-      "publishedAt": "2026-05-24T01:48:24.000Z",
-      "xQuery": "ホワイトハウス周辺発砲 市民負傷"
-    },
-    {
-      "time": "10:33",
-      "title": "闇バイトの実態語る 服役の元少年",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581464?source=rss",
-      "publishedAt": "2026-05-24T01:33:28.000Z",
-      "xQuery": "闇バイトの実態語る 服役の元少年"
+      "url": "https://news.yahoo.co.jp/pickup/6581482?source=rss",
+      "publishedAt": "2026-05-24T04:54:20.000Z",
+      "xQuery": "米大統領警護隊 発砲容疑者を射殺"
     },
     {
       "time": "11:15",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581476?source=rss",
       "publishedAt": "2026-05-24T03:43:04.000Z",
       "xQuery": "ゾンビたばこ後悔 気づけば手遅れ"
+    },
+    {
+      "time": "13:30",
+      "title": "撮影で人殺到 希少野鳥が営巣放棄",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581478?source=rss",
+      "publishedAt": "2026-05-24T04:30:42.000Z",
+      "xQuery": "撮影で人殺到 希少野鳥が営巣放棄"
     }
   ]
 };
