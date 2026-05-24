@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T07:59:23.198Z",
+  "updatedAt": "2026-05-24T09:03:05.769Z",
   "items": [
     {
       "time": "16:41",
@@ -10,22 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "赤沢氏が訪中 日中関係は不透明感"
     },
     {
-      "time": "16:33",
-      "title": "日産 英でのEV部品生産を撤回",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581500?source=rss",
-      "publishedAt": "2026-05-24T07:33:16.000Z",
-      "xQuery": "日産 英でのEV部品生産を撤回"
-    },
-    {
-      "time": "16:46",
-      "title": "相馬野馬追で馬と客接触 3人搬送",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581502?source=rss",
-      "publishedAt": "2026-05-24T07:46:37.000Z",
-      "xQuery": "相馬野馬追で馬と客接触 3人搬送"
-    },
-    {
       "time": "15:44",
       "title": "日本で暮らす高齢外国人 生活困窮",
       "source": "Yahoo!ニュース",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "日本で暮らす高齢外国人 生活困窮"
     },
     {
-      "time": "14:36",
-      "title": "離婚後も同居 夫婦選んだ「卒婚」",
+      "time": "14:33",
+      "title": "「海の外来種」日本で100種超す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581489?source=rss",
-      "publishedAt": "2026-05-24T05:36:08.000Z",
-      "xQuery": "離婚後も同居 夫婦選んだ「卒婚」"
+      "url": "https://news.yahoo.co.jp/pickup/6581485?source=rss",
+      "publishedAt": "2026-05-24T05:33:50.000Z",
+      "xQuery": "「海の外来種」日本で100種超す"
+    },
+    {
+      "time": "17:06",
+      "title": "兵庫母娘殺害事件 42歳男に逮捕状",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581508?source=rss",
+      "publishedAt": "2026-05-24T08:06:30.000Z",
+      "xQuery": "兵庫母娘殺害事件 42歳男に逮捕状"
+    },
+    {
+      "time": "13:56",
+      "title": "ISS「きぼう」どこで見える 解説",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581483?source=rss",
+      "publishedAt": "2026-05-24T04:56:24.000Z",
+      "xQuery": "ISS「きぼう」どこで見える 解説"
     }
   ]
 };

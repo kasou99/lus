@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T07:59:22.261Z",
+  "updatedAt": "2026-05-24T09:03:05.121Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBubDZXSFJFUHRYaVgwMXU0M28wRHlCQ1o3RThFZERLaGtXUDV4Q1JTTzlZaGlxS09ZN05pX2pEWGpYM21veVBWRUJpS3FYMC1oNXVJRA?oc=5",
         "publishedAt": "2026-05-24T03:56:42.000Z"
-      },
-      {
-        "time": "17:51",
-        "title": "栃木銀、アベジャとDX・AI連携 業務効率化",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsRklLQzhydjJGY1ZXNm5yUE11ODQtOHhQbU1WQ0xYSG5Ia19oaExyUzdCUXZZTEU3SUhLSUtUeEFvSkV0LVpOZXZTLWZrblM0OTlmdDkzeGlMZHk1bGNHRTVJcGdZdk9XdjVCNW5ZeGRuN0VZ?oc=5",
-        "publishedAt": "2026-05-23T08:51:27.000Z"
       },
       {
         "time": "00:24",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581467?source=rss",
         "publishedAt": "2026-05-24T01:51:57.000Z"
+      },
+      {
+        "time": "08:53",
+        "title": "バインミー専門店が増加 なぜ人気",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581452?source=rss",
+        "publishedAt": "2026-05-23T23:53:13.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-05-24T06:22:57.000Z"
       },
       {
-        "time": "16:46",
-        "title": "相馬野馬追で馬と客接触 3人搬送",
+        "time": "17:06",
+        "title": "兵庫母娘殺害事件 42歳男に逮捕状",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581502?source=rss",
-        "publishedAt": "2026-05-24T07:46:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581508?source=rss",
+        "publishedAt": "2026-05-24T08:06:30.000Z"
       },
       {
-        "time": "08:51",
-        "title": "神戸児童殺傷 区切りを選んだ遺族",
+        "time": "17:12",
+        "title": "相馬野馬追で馬と客接触 6人けが",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581453?source=rss",
-        "publishedAt": "2026-05-23T23:51:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581509?source=rss",
+        "publishedAt": "2026-05-24T08:12:27.000Z"
       },
       {
         "time": "11:15",
