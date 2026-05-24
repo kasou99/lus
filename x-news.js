@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T11:37:37.223Z",
+  "updatedAt": "2026-05-24T12:35:11.475Z",
   "items": [
     {
       "time": "20:07",
@@ -10,6 +10,22 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン覚書案報道 核で食い違い"
     },
     {
+      "time": "20:45",
+      "title": "露 最新式ミサイルでウ大規模攻撃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581534?source=rss",
+      "publishedAt": "2026-05-24T11:45:09.000Z",
+      "xQuery": "露 最新式ミサイルでウ大規模攻撃"
+    },
+    {
+      "time": "21:18",
+      "title": "内閣支持率50%で発足後最低 毎日",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581536?source=rss",
+      "publishedAt": "2026-05-24T12:18:28.000Z",
+      "xQuery": "内閣支持率50%で発足後最低 毎日"
+    },
+    {
       "time": "19:36",
       "title": "首相宿願「国旗損壊罪」急ぐ自民",
       "source": "Yahoo!ニュース",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相宿願「国旗損壊罪」急ぐ自民"
     },
     {
-      "time": "17:46",
-      "title": "小沢氏 中道が軸の政権奪取不可能",
+      "time": "21:08",
+      "title": "母娘殺害 容疑者は約10年前の隣人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581511?source=rss",
-      "publishedAt": "2026-05-24T08:46:44.000Z",
-      "xQuery": "小沢氏 中道が軸の政権奪取不可能"
-    },
-    {
-      "time": "19:17",
-      "title": "母娘殺害事件 42歳の男を指名手配",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581521?source=rss",
-      "publishedAt": "2026-05-24T10:17:42.000Z",
-      "xQuery": "母娘殺害事件 42歳の男を指名手配"
-    },
-    {
-      "time": "16:52",
-      "title": "平均年齢73歳が接客 渋谷の茶屋",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581503?source=rss",
-      "publishedAt": "2026-05-24T07:52:30.000Z",
-      "xQuery": "平均年齢73歳が接客 渋谷の茶屋"
+      "url": "https://news.yahoo.co.jp/pickup/6581535?source=rss",
+      "publishedAt": "2026-05-24T12:08:21.000Z",
+      "xQuery": "母娘殺害 容疑者は約10年前の隣人"
     }
   ]
 };
