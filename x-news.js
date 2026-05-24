@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T10:11:39.011Z",
+  "updatedAt": "2026-05-24T11:00:02.285Z",
   "items": [
     {
-      "time": "16:41",
-      "title": "赤沢氏が訪中 日中関係は不透明感",
+      "time": "19:36",
+      "title": "首相宿願「国旗損壊罪」急ぐ自民",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581501?source=rss",
-      "publishedAt": "2026-05-24T07:41:01.000Z",
-      "xQuery": "赤沢氏が訪中 日中関係は不透明感"
+      "url": "https://news.yahoo.co.jp/pickup/6581522?source=rss",
+      "publishedAt": "2026-05-24T10:36:23.000Z",
+      "xQuery": "首相宿願「国旗損壊罪」急ぐ自民"
     },
     {
       "time": "17:46",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "小沢氏 中道が軸の政権奪取不可能"
     },
     {
-      "time": "17:06",
-      "title": "兵庫母娘殺害事件 42歳男に逮捕状",
+      "time": "19:17",
+      "title": "母娘殺害事件 42歳の男を指名手配",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581508?source=rss",
-      "publishedAt": "2026-05-24T08:06:30.000Z",
-      "xQuery": "兵庫母娘殺害事件 42歳男に逮捕状"
+      "url": "https://news.yahoo.co.jp/pickup/6581521?source=rss",
+      "publishedAt": "2026-05-24T10:17:42.000Z",
+      "xQuery": "母娘殺害事件 42歳の男を指名手配"
     },
     {
       "time": "15:46",
