@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-25T14:24:11.356Z",
+  "updatedAt": "2026-05-25T15:35:49.031Z",
   "items": [
+    {
+      "time": "21:43",
+      "title": "飲食料品の消費税1%案有力 政府",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581679?source=rss",
+      "publishedAt": "2026-05-25T12:43:16.000Z",
+      "xQuery": "飲食料品の消費税1%案有力 政府"
+    },
     {
       "time": "22:57",
       "title": "米イラン 高濃縮ウランの扱いで溝",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン 高濃縮ウランの扱いで溝"
     },
     {
-      "time": "21:43",
-      "title": "飲食料品の消費税1%案有力 政府",
+      "time": "20:48",
+      "title": "トランプ氏 対中融和に転じた背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581679?source=rss",
-      "publishedAt": "2026-05-25T12:43:16.000Z",
-      "xQuery": "飲食料品の消費税1%案有力 政府"
+      "url": "https://news.yahoo.co.jp/pickup/6581672?source=rss",
+      "publishedAt": "2026-05-25T11:48:04.000Z",
+      "xQuery": "トランプ氏 対中融和に転じた背景"
     },
     {
       "time": "21:00",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "習氏が高市氏巡り激高か 中国否定"
     },
     {
-      "time": "22:12",
-      "title": "新宿2人逮捕 栃木強殺と関連捜査",
+      "time": "19:34",
+      "title": "大学生集団暴行 法廷で暴行の音声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581684?source=rss",
-      "publishedAt": "2026-05-25T13:12:07.000Z",
-      "xQuery": "新宿2人逮捕 栃木強殺と関連捜査"
-    },
-    {
-      "time": "21:55",
-      "title": "警察接触の指名手配の男 目撃複数",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581683?source=rss",
-      "publishedAt": "2026-05-25T12:55:37.000Z",
-      "xQuery": "警察接触の指名手配の男 目撃複数"
+      "url": "https://news.yahoo.co.jp/pickup/6581662?source=rss",
+      "publishedAt": "2026-05-25T10:34:08.000Z",
+      "xQuery": "大学生集団暴行 法廷で暴行の音声"
     }
   ]
 };
