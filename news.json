@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T11:30:38.676Z",
+  "updatedAt": "2026-05-25T13:22:42.201Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,20 @@
     ],
     "worldHeadlines": [
       {
+        "time": "21:00",
+        "title": "習氏が高市氏巡り激高か 中国否定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581674?source=rss",
+        "publishedAt": "2026-05-25T12:00:21.000Z"
+      },
+      {
+        "time": "21:38",
+        "title": "米国の「正当な戦争」教皇が一蹴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581681?source=rss",
+        "publishedAt": "2026-05-25T12:38:50.000Z"
+      },
+      {
         "time": "15:24",
         "title": "米イラン ホルムズと核に食い違い",
         "source": "Yahoo!ニュース",
@@ -75,18 +89,11 @@
         "publishedAt": "2026-05-25T00:07:01.000Z"
       },
       {
-        "time": "06:17",
-        "title": "米イラン終結向け基本合意か 報道",
+        "time": "20:48",
+        "title": "トランプ氏 対中融和に転じた背景",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581547?source=rss",
-        "publishedAt": "2026-05-24T21:17:50.000Z"
-      },
-      {
-        "time": "13:54",
-        "title": "米大統領警護隊 発砲容疑者を射殺",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581482?source=rss",
-        "publishedAt": "2026-05-24T04:54:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581672?source=rss",
+        "publishedAt": "2026-05-25T11:48:04.000Z"
       },
       {
         "time": "07:24",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581553?source=rss",
         "publishedAt": "2026-05-24T22:24:32.000Z"
-      },
-      {
-        "time": "12:53",
-        "title": "政権批判する芸人追放 露の現状は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581576?source=rss",
-        "publishedAt": "2026-05-25T03:53:20.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "21:55",
+        "title": "警察接触の指名手配の男 目撃複数",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581683?source=rss",
+        "publishedAt": "2026-05-25T12:55:37.000Z"
+      },
+      {
+        "time": "22:12",
+        "title": "新宿2人逮捕 栃木強殺と関連捜査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581684?source=rss",
+        "publishedAt": "2026-05-25T13:12:07.000Z"
+      },
+      {
         "time": "16:53",
         "title": "内田梨瑚被告 共犯と食い違う主張",
         "source": "Yahoo!ニュース",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581658?source=rss",
         "publishedAt": "2026-05-25T10:39:32.000Z"
-      },
-      {
-        "time": "17:25",
-        "title": "車にトラック追突 19歳学生が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581639?source=rss",
-        "publishedAt": "2026-05-25T08:25:00.000Z"
-      },
-      {
-        "time": "16:29",
-        "title": "セクハラ認定 田川市長が辞職届",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581628?source=rss",
-        "publishedAt": "2026-05-25T07:29:44.000Z"
       }
     ],
     "subsidyHeadlines": [

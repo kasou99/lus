@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-25T11:30:39.914Z",
+  "updatedAt": "2026-05-25T13:22:43.295Z",
   "items": [
     {
-      "time": "19:34",
-      "title": "首相 電気ガス代5千円支援の考え",
+      "time": "21:38",
+      "title": "米国の「正当な戦争」教皇が一蹴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581663?source=rss",
-      "publishedAt": "2026-05-25T10:34:27.000Z",
-      "xQuery": "首相 電気ガス代5千円支援の考え"
+      "url": "https://news.yahoo.co.jp/pickup/6581681?source=rss",
+      "publishedAt": "2026-05-25T12:38:50.000Z",
+      "xQuery": "米国の「正当な戦争」教皇が一蹴"
     },
     {
-      "time": "17:10",
-      "title": "今週 雨でも真夏日の蒸し暑さ",
+      "time": "21:12",
+      "title": "強盗 標的情報出回っている可能性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581636?source=rss",
-      "publishedAt": "2026-05-25T08:10:31.000Z",
-      "xQuery": "今週 雨でも真夏日の蒸し暑さ"
+      "url": "https://news.yahoo.co.jp/pickup/6581677?source=rss",
+      "publishedAt": "2026-05-25T12:12:20.000Z",
+      "xQuery": "強盗 標的情報出回っている可能性"
     },
     {
-      "time": "19:34",
-      "title": "大学生集団暴行 法廷で暴行の音声",
+      "time": "21:00",
+      "title": "習氏が高市氏巡り激高か 中国否定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581662?source=rss",
-      "publishedAt": "2026-05-25T10:34:08.000Z",
-      "xQuery": "大学生集団暴行 法廷で暴行の音声"
+      "url": "https://news.yahoo.co.jp/pickup/6581674?source=rss",
+      "publishedAt": "2026-05-25T12:00:21.000Z",
+      "xQuery": "習氏が高市氏巡り激高か 中国否定"
     },
     {
-      "time": "20:09",
-      "title": "「出ないとやばい」銀座異臭騒ぎ",
+      "time": "22:12",
+      "title": "新宿2人逮捕 栃木強殺と関連捜査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581667?source=rss",
-      "publishedAt": "2026-05-25T11:09:37.000Z",
-      "xQuery": "「出ないとやばい」銀座異臭騒ぎ"
+      "url": "https://news.yahoo.co.jp/pickup/6581684?source=rss",
+      "publishedAt": "2026-05-25T13:12:07.000Z",
+      "xQuery": "新宿2人逮捕 栃木強殺と関連捜査"
     },
     {
-      "time": "19:39",
-      "title": "三重の女性殺害疑い 義弟を逮捕",
+      "time": "21:55",
+      "title": "警察接触の指名手配の男 目撃複数",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581658?source=rss",
-      "publishedAt": "2026-05-25T10:39:32.000Z",
-      "xQuery": "三重の女性殺害疑い 義弟を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6581683?source=rss",
+      "publishedAt": "2026-05-25T12:55:37.000Z",
+      "xQuery": "警察接触の指名手配の男 目撃複数"
     }
   ]
 };
