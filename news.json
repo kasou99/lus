@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-05-25T21:32:28.837Z",
+  "updatedAt": "2026-05-25T22:29:39.414Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:30",
+        "title": "【市況】 今日の注目スケジュール：工作機械受注、米FHFA住宅価格指数、米消費者信頼感指数など",
+        "source": "株探",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6Vzg4ZlFrRHFUS1hyRUJHOW9sM2hkUkdFcWVhb1g1dTQxRzB6UHhYSmpMWGJnclJZS2M3eXZIejE4RGVVQ1hwVnQ2dXdmUUdBS3FvQURkaV9MT1hBTzZCMQ?oc=5",
+        "publishedAt": "2026-05-25T21:30:00.000Z"
+      },
+      {
+        "time": "06:30",
+        "title": "今日の注目スケジュール：工作機械受注、米FHFA住宅価格指数、米消費者信頼感指数など 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+        "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vd0NHZGNtZ09nbWtySkdSX2VJVDFabUx5RDBrc2lGdjZCbnVnRWdSTktiQ0E2bTRzQmdtVjdnYkRER2lUMVpZQXBPYWJKQ2tLc2FCZk5SX1plY0pKMFpObnl5MnN6bzA?oc=5",
+        "publishedAt": "2026-05-25T21:30:00.000Z"
+      },
       {
         "time": "05:02",
         "title": "ニュース拡大鏡／阪和興業が3カ年中計 投資枠2倍、成長領域で攻勢",
@@ -15,6 +29,13 @@
         "source": "robot digest",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Wb1lMSFlObmttcnhGdlNwRFZCd0tjUXBMcmdBbFMxSy01SDBsQWVMbGE0RnJTSExIenhaM3FBNzJ3ODVTd01HYS1ycTNUcl9uQnVteXBkWGJSRHY1bHBhZmRRQTdPLVNMampF?oc=5",
         "publishedAt": "2026-05-25T21:01:12.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "最大35㎏可搬の人協働ロボットパレタイザ発売",
+        "source": "カーゴニュースオンライン",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tUS1kR2tudWtQdjJPVExFdElySERtSEYwS0huVmFsaFBWZi1ITTV0U19aTmQ3Wjh5VkdJZzhfa2xwUUZtXzJneDdMQWdVc3R6QnF2eDJxSVRvSWJVeXo0?oc=5",
+        "publishedAt": "2026-05-25T21:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -31,32 +52,11 @@
         "publishedAt": "2026-05-25T10:46:00.000Z"
       },
       {
-        "time": "05:02",
-        "title": "経営のこころ（56）佐藤商事社長・野沢哲夫氏 “現場主義”納得の対話",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TYUt3elYyTU9TS0ZiNmNYNXprNHNGYjZxa2tpSHlRbHV1eXl5TjBCVU9MNDdZM1ppU09tVGJmWmJsMVdvOVQ3TDFVR2tEWmt6bk05T2dMc3Y4Tmc?oc=5",
-        "publishedAt": "2026-05-25T20:02:11.000Z"
-      },
-      {
-        "time": "15:02",
-        "title": "工業用合成潤滑油市場規模は2026年19710百万米ドル、成長率3.5%で拡大予測",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zX0pSTGR3NWRzbEJjR19KeDR5LUIwMTl4eVlTdGZVRkNUVDc0SzVfbC1PeWd4ZjZsb2lmQmhqN0xra1duZmViRjJZQ09nMXc?oc=5",
-        "publishedAt": "2026-05-25T06:02:00.000Z"
-      },
-      {
-        "time": "10:45",
-        "title": "『【保全改革はなぜ進まないのか】点検・修理・部品管理をつなぐ、保全データ活用の始め方』というテーマのウェビナーを開催",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxZDlCNVNmbDRoRFdfTUxhWHVVS3NjeUU1Zlg1d3htSEJKeEtRcVZSRTVnSmpwV1RWOXE1S2NRajhWZ1p1WkpBQ2VYVDk1QlptcEpEQ3ZQZnlLLWRka29VU1B3aTJpSmdm?oc=5",
-        "publishedAt": "2026-05-25T01:45:14.000Z"
-      },
-      {
-        "time": "05:02",
-        "title": "地域経済の今（14）愛知・蒲郡市の繊維産業 観光と付加価値紡ぐ",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnZWpxSkk4dG1aZTJzeEhBUW1XMkU2UmtxMEhBZEl4N2JTWVRaRmhhWlVUVXJtcW5UT2djU0E4MUxpVVJ3bnM4bTVySjNjdFZtWC1nNGZ0UGlXSDg?oc=5",
-        "publishedAt": "2026-05-25T20:02:11.000Z"
+        "time": "06:40",
+        "title": "本日のスケジュール｜FX・為替ニュース",
+        "source": "ザイFX！",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56RHRaT2EtaTA2djdIMG1QeDhpOVlkN05KQ3ZtX2VYUjZCMXJuY0tjZTdxTWNtY3ZuTjQ5WFJRMXpwckExYVUzQldmQmFGYW80ZGc?oc=5",
+        "publishedAt": "2026-05-25T21:40:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "22:38",
-        "title": "G阿部慎之助監督を逮捕 暴行疑い",
+        "time": "06:47",
+        "title": "G阿部監督を釈放 暴行疑いで逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581690?source=rss",
-        "publishedAt": "2026-05-25T13:38:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581698?source=rss",
+        "publishedAt": "2026-05-25T21:47:09.000Z"
       },
       {
         "time": "21:55",
@@ -170,6 +170,13 @@
         "publishedAt": "2026-05-25T13:12:07.000Z"
       },
       {
+        "time": "06:57",
+        "title": "住宅で72歳死亡 出頭した息子逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581699?source=rss",
+        "publishedAt": "2026-05-25T21:57:51.000Z"
+      },
+      {
         "time": "20:09",
         "title": "「出ないとやばい」銀座異臭騒ぎ",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581662?source=rss",
         "publishedAt": "2026-05-25T10:34:08.000Z"
-      },
-      {
-        "time": "06:17",
-        "title": "団地で大量の止水栓盗まれる 神戸",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581696?source=rss",
-        "publishedAt": "2026-05-25T21:17:53.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-25T21:32:29.635Z",
+  "updatedAt": "2026-05-25T22:29:40.476Z",
   "items": [
     {
       "time": "21:43",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "飲食料品の消費税1%案有力 政府"
     },
     {
-      "time": "20:48",
-      "title": "トランプ氏 対中融和に転じた背景",
+      "time": "07:16",
+      "title": "エボラ出血熱疑い 死者220人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581672?source=rss",
-      "publishedAt": "2026-05-25T11:48:04.000Z",
-      "xQuery": "トランプ氏 対中融和に転じた背景"
+      "url": "https://news.yahoo.co.jp/pickup/6581701?source=rss",
+      "publishedAt": "2026-05-25T22:16:14.000Z",
+      "xQuery": "エボラ出血熱疑い 死者220人に"
     },
     {
-      "time": "21:00",
-      "title": "習氏が高市氏巡り激高か 中国否定",
+      "time": "06:57",
+      "title": "住宅で72歳死亡 出頭した息子逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581674?source=rss",
-      "publishedAt": "2026-05-25T12:00:21.000Z",
-      "xQuery": "習氏が高市氏巡り激高か 中国否定"
-    },
-    {
-      "time": "19:34",
-      "title": "大学生集団暴行 法廷で暴行の音声",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581662?source=rss",
-      "publishedAt": "2026-05-25T10:34:08.000Z",
-      "xQuery": "大学生集団暴行 法廷で暴行の音声"
+      "url": "https://news.yahoo.co.jp/pickup/6581699?source=rss",
+      "publishedAt": "2026-05-25T21:57:51.000Z",
+      "xQuery": "住宅で72歳死亡 出頭した息子逮捕"
     },
     {
       "time": "06:17",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581696?source=rss",
       "publishedAt": "2026-05-25T21:17:53.000Z",
       "xQuery": "団地で大量の止水栓盗まれる 神戸"
+    },
+    {
+      "time": "06:47",
+      "title": "G阿部監督を釈放 暴行疑いで逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581698?source=rss",
+      "publishedAt": "2026-05-25T21:47:09.000Z",
+      "xQuery": "G阿部監督を釈放 暴行疑いで逮捕"
     }
   ]
 };
