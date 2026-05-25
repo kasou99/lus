@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-25T19:36:55.622Z",
+  "updatedAt": "2026-05-25T20:37:20.339Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:39",
-        "title": "岡本工作機械製作所、社長に伊藤暁氏",
+        "time": "05:02",
+        "title": "ニュース拡大鏡／阪和興業が3カ年中計 投資枠2倍、成長領域で攻勢",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CM3k3NEo4eURUM3FUY2xDS2U2cGlJV2ZNYTVoeXo0MHc1Y2NCV0ZvdWszY3g1VWZVQlEtejlGYml0MzItUmFUdzVZbHkyd0praDR4TWgwRVBEUWhGVi1RVnNlWHNtVEdNQjdkQVE3amprdTlK?oc=5",
-        "publishedAt": "2026-05-24T20:39:05.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OSWR4MVJMNlIwODBfNHR3S2hDZnNUMUdxWVNucFFBem9ydDltXzNUZW14RGFNSGxzZHRDOXNOTThZYUlJTTczdm5oSzl1WnhKaHZBSERSQWhUN0E?oc=5",
+        "publishedAt": "2026-05-25T20:02:11.000Z"
       },
       {
         "time": "19:46",
@@ -17,11 +17,11 @@
         "publishedAt": "2026-05-25T10:46:00.000Z"
       },
       {
-        "time": "06:00",
-        "title": "地域企業知ろう 中学生が現場体験 工作機械で部品作りに挑戦 清水区でオープンファクトリー－静岡",
+        "time": "05:00",
+        "title": "芝浦機械 減収減益 ３月期 成形機販売落ち込み",
         "source": "静岡新聞DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaYkdRenpZZFlWTlhJcGR2ajQ0SnNyZ2luRjl1Qjk4TFM5Y0dZVEV2RDhLWWlOdlhOZVRPZ1ExY3JGeE5pRHQ0RzZ3ZnNhZw?oc=5",
-        "publishedAt": "2026-05-24T21:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aZUVOOFozRlZRazZyQU9oVVRScDRiS0F0VGVLQURjTWRHX1RIU1BmMFFoZW5uSnppZ0FKbkgzNnZpQUlRRGJfUDluVzdxdw?oc=5",
+        "publishedAt": "2026-05-25T20:00:00.000Z"
       },
       {
         "time": "09:34",
@@ -29,6 +29,13 @@
         "source": "robot digest",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nVVZFQU1MVzR1dE9lVG4tRkpfQnFFaDl5SmZqNXoxWnZUZDBwRnpyS25EVTlGVzVmemFHX3YwNFZPNVpBdTNSTUh5MUJPTjFFcTRUaEJyRnJISjJCNlJCaVZBYkp0ZVdWZGpn?oc=5",
         "publishedAt": "2026-05-25T00:34:56.000Z"
+      },
+      {
+        "time": "05:02",
+        "title": "経営のこころ（56）佐藤商事社長・野沢哲夫氏 “現場主義”納得の対話",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TYUt3elYyTU9TS0ZiNmNYNXprNHNGYjZxa2tpSHlRbHV1eXl5TjBCVU9MNDdZM1ppU09tVGJmWmJsMVdvOVQ3TDFVR2tEWmt6bk05T2dMc3Y4Tmc?oc=5",
+        "publishedAt": "2026-05-25T20:02:11.000Z"
       },
       {
         "time": "06:00",
@@ -50,13 +57,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zX0pSTGR3NWRzbEJjR19KeDR5LUIwMTl4eVlTdGZVRkNUVDc0SzVfbC1PeWd4ZjZsb2lmQmhqN0xra1duZmViRjJZQ09nMXc?oc=5",
         "publishedAt": "2026-05-25T06:02:00.000Z"
-      },
-      {
-        "time": "10:45",
-        "title": "『【保全改革はなぜ進まないのか】点検・修理・部品管理をつなぐ、保全データ活用の始め方』というテーマのウェビナーを開催",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxZDlCNVNmbDRoRFdfTUxhWHVVS3NjeUU1Zlg1d3htSEJKeEtRcVZSRTVnSmpwV1RWOXE1S2NRajhWZ1p1WkpBQ2VYVDk1QlptcEpEQ3ZQZnlLLWRka29VU1B3aTJpSmdm?oc=5",
-        "publishedAt": "2026-05-25T01:45:14.000Z"
       }
     ],
     "worldHeadlines": [
