@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-25T05:42:30.147Z",
+  "updatedAt": "2026-05-25T07:51:02.006Z",
   "items": [
     {
-      "time": "12:36",
-      "title": "森友文書 不開示巡り妻が提訴へ",
+      "time": "15:39",
+      "title": "日経平均株価 終値初の6万5千円超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581589?source=rss",
-      "publishedAt": "2026-05-25T03:36:19.000Z",
-      "xQuery": "森友文書 不開示巡り妻が提訴へ"
+      "url": "https://news.yahoo.co.jp/pickup/6581616?source=rss",
+      "publishedAt": "2026-05-25T06:39:27.000Z",
+      "xQuery": "日経平均株価 終値初の6万5千円超"
     },
     {
-      "time": "12:46",
-      "title": "立ち直りへの試み 拘禁刑の最前線",
+      "time": "15:52",
+      "title": "中国側の軍国主義主張 木原氏反論",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581590?source=rss",
-      "publishedAt": "2026-05-25T03:46:11.000Z",
-      "xQuery": "立ち直りへの試み 拘禁刑の最前線"
+      "url": "https://news.yahoo.co.jp/pickup/6581617?source=rss",
+      "publishedAt": "2026-05-25T06:52:23.000Z",
+      "xQuery": "中国側の軍国主義主張 木原氏反論"
     },
     {
-      "time": "14:30",
-      "title": "銀座でスプレーか 25人が痛み訴え",
+      "time": "16:12",
+      "title": "GINZA SIXで噴射 カプサイシンか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581600?source=rss",
-      "publishedAt": "2026-05-25T05:30:57.000Z",
-      "xQuery": "銀座でスプレーか 25人が痛み訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6581625?source=rss",
+      "publishedAt": "2026-05-25T07:12:10.000Z",
+      "xQuery": "GINZA SIXで噴射 カプサイシンか"
     },
     {
-      "time": "13:15",
-      "title": "住宅で男性意識不明 胸付近に出血",
+      "time": "15:54",
+      "title": "トラクターが約7m転落か 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581593?source=rss",
-      "publishedAt": "2026-05-25T04:15:46.000Z",
-      "xQuery": "住宅で男性意識不明 胸付近に出血"
+      "url": "https://news.yahoo.co.jp/pickup/6581619?source=rss",
+      "publishedAt": "2026-05-25T06:54:39.000Z",
+      "xQuery": "トラクターが約7m転落か 男性死亡"
     },
     {
-      "time": "13:53",
-      "title": "公選法違反の疑い 町長を書類送検",
+      "time": "15:42",
+      "title": "ドコモ 590億円規模の土地売却",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581599?source=rss",
-      "publishedAt": "2026-05-25T04:53:56.000Z",
-      "xQuery": "公選法違反の疑い 町長を書類送検"
+      "url": "https://news.yahoo.co.jp/pickup/6581615?source=rss",
+      "publishedAt": "2026-05-25T06:42:55.000Z",
+      "xQuery": "ドコモ 590億円規模の土地売却"
     }
   ]
 };
