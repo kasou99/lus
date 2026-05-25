@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-25T13:22:43.295Z",
+  "updatedAt": "2026-05-25T14:24:11.356Z",
   "items": [
     {
-      "time": "21:38",
-      "title": "米国の「正当な戦争」教皇が一蹴",
+      "time": "22:57",
+      "title": "米イラン 高濃縮ウランの扱いで溝",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581681?source=rss",
-      "publishedAt": "2026-05-25T12:38:50.000Z",
-      "xQuery": "米国の「正当な戦争」教皇が一蹴"
+      "url": "https://news.yahoo.co.jp/pickup/6581691?source=rss",
+      "publishedAt": "2026-05-25T13:57:00.000Z",
+      "xQuery": "米イラン 高濃縮ウランの扱いで溝"
     },
     {
-      "time": "21:12",
-      "title": "強盗 標的情報出回っている可能性",
+      "time": "21:43",
+      "title": "飲食料品の消費税1%案有力 政府",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581677?source=rss",
-      "publishedAt": "2026-05-25T12:12:20.000Z",
-      "xQuery": "強盗 標的情報出回っている可能性"
+      "url": "https://news.yahoo.co.jp/pickup/6581679?source=rss",
+      "publishedAt": "2026-05-25T12:43:16.000Z",
+      "xQuery": "飲食料品の消費税1%案有力 政府"
     },
     {
       "time": "21:00",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T13:22:42.201Z",
+  "updatedAt": "2026-05-25T14:24:10.188Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CM3k3NEo4eURUM3FUY2xDS2U2cGlJV2ZNYTVoeXo0MHc1Y2NCV0ZvdWszY3g1VWZVQlEtejlGYml0MzItUmFUdzVZbHkyd0praDR4TWgwRVBEUWhGVi1RVnNlWHNtVEdNQjdkQVE3amprdTlK?oc=5",
         "publishedAt": "2026-05-24T20:39:05.000Z"
+      },
+      {
+        "time": "19:46",
+        "title": "芝浦機械の純利益94%増 27年3月期、前期のれん減損の反動",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFpZSDdHSXVIWjd4aml2QTc0Sk9ZbFhMT1k4Sm5pcDJzS1BSdmt1SHA1RW9DVXk0R1dYS0FlVU1KcWpvTDFhTXFrbWY2QkJZWFVjUkgyMTRuNVdiQzg3bGhQT0RtMkRsakV0MGdJYm9FVVpNc0VjNVZzaFozb29IQWFob2lzaEkzQXE2Vlkwb184S3BPMXVmb2xLc2I3OS1hY1E?oc=5",
+        "publishedAt": "2026-05-25T10:46:00.000Z"
       },
       {
         "time": "06:00",
@@ -50,29 +57,15 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxZDlCNVNmbDRoRFdfTUxhWHVVS3NjeUU1Zlg1d3htSEJKeEtRcVZSRTVnSmpwV1RWOXE1S2NRajhWZ1p1WkpBQ2VYVDk1QlptcEpEQ3ZQZnlLLWRka29VU1B3aTJpSmdm?oc=5",
         "publishedAt": "2026-05-25T01:45:14.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "岡山市 灘崎文化センター大規模改修建築設計業務 落札者決定",
-        "source": "建通新聞",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXBNVWItQlQxcFJGYl9WQW44VGxKSGRBSlI4Vm5DdmYzcy1keVg5X19qaDVYLTRVVktZZElpV1h6V2ltVW9Sc0MzR1JhWDJwQWFfcDJYOGgzVERtTE9NVDJFV05NQVF5VEZsaklidzhMajhESE9waTR3Q3dEdUhpZQ?oc=5",
-        "publishedAt": "2026-05-24T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "21:00",
-        "title": "習氏が高市氏巡り激高か 中国否定",
+        "time": "22:57",
+        "title": "米イラン 高濃縮ウランの扱いで溝",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581674?source=rss",
-        "publishedAt": "2026-05-25T12:00:21.000Z"
-      },
-      {
-        "time": "21:38",
-        "title": "米国の「正当な戦争」教皇が一蹴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581681?source=rss",
-        "publishedAt": "2026-05-25T12:38:50.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581691?source=rss",
+        "publishedAt": "2026-05-25T13:57:00.000Z"
       },
       {
         "time": "15:24",
@@ -89,18 +82,25 @@
         "publishedAt": "2026-05-25T00:07:01.000Z"
       },
       {
+        "time": "21:00",
+        "title": "習氏が高市氏巡り激高か 中国否定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581674?source=rss",
+        "publishedAt": "2026-05-25T12:00:21.000Z"
+      },
+      {
+        "time": "21:38",
+        "title": "米国の「正当な戦争」教皇が一蹴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581681?source=rss",
+        "publishedAt": "2026-05-25T12:38:50.000Z"
+      },
+      {
         "time": "20:48",
         "title": "トランプ氏 対中融和に転じた背景",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581672?source=rss",
         "publishedAt": "2026-05-25T11:48:04.000Z"
-      },
-      {
-        "time": "07:24",
-        "title": "比でビル倒壊 20人以上が下敷きか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581553?source=rss",
-        "publishedAt": "2026-05-24T22:24:32.000Z"
       }
     ],
     "economyHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-05-25T09:05:48.000Z"
       },
       {
-        "time": "15:39",
-        "title": "日経平均株価 終値初の6万5千円超",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581616?source=rss",
-        "publishedAt": "2026-05-25T06:39:27.000Z"
-      },
-      {
         "time": "15:42",
         "title": "ドコモ 590億円規模の土地売却",
         "source": "Yahoo!ニュース",
@@ -126,11 +119,11 @@
         "publishedAt": "2026-05-25T06:42:55.000Z"
       },
       {
-        "time": "18:14",
-        "title": "スカイマーク機に異常 緊急着陸",
+        "time": "22:23",
+        "title": "スカイマーク緊急着陸 タイヤ破裂",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581653?source=rss",
-        "publishedAt": "2026-05-25T09:14:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581686?source=rss",
+        "publishedAt": "2026-05-25T13:23:27.000Z"
       },
       {
         "time": "17:52",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581643?source=rss",
         "publishedAt": "2026-05-25T08:52:06.000Z"
+      },
+      {
+        "time": "23:20",
+        "title": "スズキ 一部店でオイル交換に遅れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581692?source=rss",
+        "publishedAt": "2026-05-25T14:20:29.000Z"
       },
       {
         "time": "19:54",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "22:38",
+        "title": "G阿部慎之助監督を逮捕 暴行疑い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581690?source=rss",
+        "publishedAt": "2026-05-25T13:38:01.000Z"
+      },
       {
         "time": "21:55",
         "title": "警察接触の指名手配の男 目撃複数",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581684?source=rss",
         "publishedAt": "2026-05-25T13:12:07.000Z"
-      },
-      {
-        "time": "16:53",
-        "title": "内田梨瑚被告 共犯と食い違う主張",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581633?source=rss",
-        "publishedAt": "2026-05-25T07:53:54.000Z"
       },
       {
         "time": "20:09",
