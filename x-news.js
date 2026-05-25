@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-25T22:56:54.166Z",
+  "updatedAt": "2026-05-25T23:31:53.497Z",
   "items": [
+    {
+      "time": "08:09",
+      "title": "奄美 昼前まで非常に激しい雨恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581710?source=rss",
+      "publishedAt": "2026-05-25T23:09:30.000Z",
+      "xQuery": "奄美 昼前まで非常に激しい雨恐れ"
+    },
     {
       "time": "07:34",
       "title": "医師が都市集中「命の格差」懸念",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "エボラ出血熱疑い 死者220人に"
     },
     {
+      "time": "08:28",
+      "title": "奪った70万円握りしめ 30年逃亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581714?source=rss",
+      "publishedAt": "2026-05-25T23:28:12.000Z",
+      "xQuery": "奪った70万円握りしめ 30年逃亡"
+    },
+    {
       "time": "06:57",
       "title": "住宅で72歳死亡 出頭した息子逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6581699?source=rss",
       "publishedAt": "2026-05-25T21:57:51.000Z",
       "xQuery": "住宅で72歳死亡 出頭した息子逮捕"
-    },
-    {
-      "time": "06:17",
-      "title": "団地で大量の止水栓盗まれる 神戸",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581696?source=rss",
-      "publishedAt": "2026-05-25T21:17:53.000Z",
-      "xQuery": "団地で大量の止水栓盗まれる 神戸"
-    },
-    {
-      "time": "06:47",
-      "title": "G阿部監督を釈放 暴行疑いで逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581698?source=rss",
-      "publishedAt": "2026-05-25T21:47:09.000Z",
-      "xQuery": "G阿部監督を釈放 暴行疑いで逮捕"
     }
   ]
 };

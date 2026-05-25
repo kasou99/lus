@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T22:56:53.301Z",
+  "updatedAt": "2026-05-25T23:31:53.000Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-05-25T21:30:00.000Z"
       },
       {
-        "time": "06:30",
-        "title": "今日の注目スケジュール：工作機械受注、米FHFA住宅価格指数、米消費者信頼感指数など 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+        "time": "06:45",
+        "title": "今日の注目スケジュール：工作機械受注、米FHFA住宅価格指数、米消費者信頼感指数など 提供 Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vd0NHZGNtZ09nbWtySkdSX2VJVDFabUx5RDBrc2lGdjZCbnVnRWdSTktiQ0E2bTRzQmdtVjdnYkRER2lUMVpZQXBPYWJKQ2tLc2FCZk5SX1plY0pKMFpObnl5MnN6bzA?oc=5",
-        "publishedAt": "2026-05-25T21:30:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFLXRMM1FTdWhfd093UFlWSlRqMnJxX1o4TWdlRjl3VVpid0ZKbkpwRWRmbGVObkdxOHgyMnk5YU1UWjhma0MzaUVyWmNFZDFrdXdqdDRUWmV3R3ZBY282dnh5RzN5QXBlQVAxVXhYd2tybFdHcmpR?oc=5",
+        "publishedAt": "2026-05-25T21:45:00.000Z"
       },
       {
         "time": "05:02",
@@ -29,13 +29,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcFQwei1zMHY3RGhZNDZCY2JFT3Mzb1NrYml3ZVV3ejdyVjJhZktQUFY5TXRhNFFHS1RtaXBUWWszZ0RtV3c3d2NZT1RBOVh6UW1GSFFmX0xDd0Uzd2JlcktHT3hnVVNrU2FmSUsyZUV5dFFFN0lQQ0Z4azdRVzlndVpGajlPSG9lRHcyZDc3X3ZUQllWVkVwZWVicjVsUkhsRndVZk01aFI?oc=5",
         "publishedAt": "2026-05-25T20:49:52.000Z"
-      },
-      {
-        "time": "06:01",
-        "title": "【読んで発見「RTJ2026」vol.2】物流向け提案の最前線",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Wb1lMSFlObmttcnhGdlNwRFZCd0tjUXBMcmdBbFMxSy01SDBsQWVMbGE0RnJTSExIenhaM3FBNzJ3ODVTd01HYS1ycTNUcl9uQnVteXBkWGJSRHY1bHBhZmRRQTdPLVNMampF?oc=5",
-        "publishedAt": "2026-05-25T21:01:12.000Z"
       },
       {
         "time": "06:00",
@@ -57,6 +50,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wRGx1RXFLbGhnUUg0MTFmQ3U2LXVDSkhsUWc3cTRvaDAwSmtYMnBGd1JoWFBDOF9zaTU2VjdYZy13Y2RBXzQ3anBRcTZIM1pXZ3UyMUc4VEVBMzg?oc=5",
         "publishedAt": "2026-05-25T20:02:11.000Z"
+      },
+      {
+        "time": "09:34",
+        "title": "【読んで発見「RTJ2026」vol.1】自動化のヒントを探す場に",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nVVZFQU1MVzR1dE9lVG4tRkpfQnFFaDl5SmZqNXoxWnZUZDBwRnpyS25EVTlGVzVmemFHX3YwNFZPNVpBdTNSTUh5MUJPTjFFcTRUaEJyRnJISjJCNlJCaVZBYkp0ZVdWZGpn?oc=5",
+        "publishedAt": "2026-05-25T00:34:56.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-05-25T13:23:27.000Z"
       },
       {
+        "time": "08:16",
+        "title": "Zoffが猛追 変化するメガネ業界",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581709?source=rss",
+        "publishedAt": "2026-05-25T23:16:10.000Z"
+      },
+      {
         "time": "17:52",
         "title": "関西最高額マンション販売 40億円",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581692?source=rss",
         "publishedAt": "2026-05-25T14:20:29.000Z"
-      },
-      {
-        "time": "19:54",
-        "title": "U-NEXT アニメ制作会社を買収へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581665?source=rss",
-        "publishedAt": "2026-05-25T10:54:04.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-05-25T11:09:37.000Z"
       },
       {
-        "time": "07:40",
-        "title": "特区民泊 大阪市で駆け込み申請増",
+        "time": "08:28",
+        "title": "奪った70万円握りしめ 30年逃亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581705?source=rss",
-        "publishedAt": "2026-05-25T22:40:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581714?source=rss",
+        "publishedAt": "2026-05-25T23:28:12.000Z"
       }
     ],
     "subsidyHeadlines": [
