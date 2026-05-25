@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T15:35:48.140Z",
+  "updatedAt": "2026-05-25T16:50:29.164Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-05-24T21:00:00.000Z"
       },
       {
-        "time": "00:00",
-        "title": "スマホの業務利用で被害急増、サイバー攻撃からモバイル端末を守るには",
-        "source": "日経クロステック Active",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYTJPcVlzb3c4ZnVJNGtVZ3NteVlIZnFPNUgzY2NYSGN6TkdXUXdsU3piS3J5YUg5aG1DNUtmQms1SXZGd3kwSjFmMzlVcWRtZ2dON2JoNkZaMDFHQmJ2NVlCTWhvNDJRanVvcFNVaE9yYzlha3ZfSndBOW11ZF9ZUmJOWk5ubmxDS1ZJVklCbw?oc=5",
-        "publishedAt": "2026-05-25T15:00:00.000Z"
-      },
-      {
         "time": "06:08",
         "title": "陶芸職人の技、ＡＩから学ぶ…名古屋工大・慶応大の試みから見えてきた可能性",
         "source": "ニュースイッチ by 日刊工業新聞社",
@@ -57,6 +50,13 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zX0pSTGR3NWRzbEJjR19KeDR5LUIwMTl4eVlTdGZVRkNUVDc0SzVfbC1PeWd4ZjZsb2lmQmhqN0xra1duZmViRjJZQ09nMXc?oc=5",
         "publishedAt": "2026-05-25T06:02:00.000Z"
+      },
+      {
+        "time": "10:45",
+        "title": "『【保全改革はなぜ進まないのか】点検・修理・部品管理をつなぐ、保全データ活用の始め方』というテーマのウェビナーを開催",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxZDlCNVNmbDRoRFdfTUxhWHVVS3NjeUU1Zlg1d3htSEJKeEtRcVZSRTVnSmpwV1RWOXE1S2NRajhWZ1p1WkpBQ2VYVDk1QlptcEpEQ3ZQZnlLLWRka29VU1B3aTJpSmdm?oc=5",
+        "publishedAt": "2026-05-25T01:45:14.000Z"
       }
     ],
     "worldHeadlines": [
