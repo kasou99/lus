@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-25T01:12:30.085Z",
+  "updatedAt": "2026-05-25T02:26:13.212Z",
   "items": [
     {
       "time": "09:46",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン合意急ぐな トランプ氏指示"
     },
     {
-      "time": "08:12",
-      "title": "ナフサ説明「納得せず」64% 読売",
+      "time": "10:30",
+      "title": "ホルムズ通過「出光丸」伊勢湾に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581559?source=rss",
-      "publishedAt": "2026-05-24T23:12:54.000Z",
-      "xQuery": "ナフサ説明「納得せず」64% 読売"
+      "url": "https://news.yahoo.co.jp/pickup/6581570?source=rss",
+      "publishedAt": "2026-05-25T01:30:29.000Z",
+      "xQuery": "ホルムズ通過「出光丸」伊勢湾に"
     },
     {
-      "time": "09:48",
-      "title": "母娘殺害 遺体発見前「人殺した」",
+      "time": "10:47",
+      "title": "7&i元会長 鈴木敏文さんが死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581568?source=rss",
-      "publishedAt": "2026-05-25T00:48:56.000Z",
-      "xQuery": "母娘殺害 遺体発見前「人殺した」"
+      "url": "https://news.yahoo.co.jp/pickup/6581571?source=rss",
+      "publishedAt": "2026-05-25T01:47:44.000Z",
+      "xQuery": "7&i元会長 鈴木敏文さんが死去"
     },
     {
-      "time": "08:32",
-      "title": "日本語「要指導」の子 10年で倍増",
+      "time": "11:23",
+      "title": "旭川17歳殺害 内田被告が殺意否認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581561?source=rss",
-      "publishedAt": "2026-05-24T23:32:05.000Z",
-      "xQuery": "日本語「要指導」の子 10年で倍増"
+      "url": "https://news.yahoo.co.jp/pickup/6581574?source=rss",
+      "publishedAt": "2026-05-25T02:23:23.000Z",
+      "xQuery": "旭川17歳殺害 内田被告が殺意否認"
     }
   ]
 };

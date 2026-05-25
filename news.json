@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T01:12:29.071Z",
+  "updatedAt": "2026-05-25T02:26:12.542Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-05-24T21:08:42.000Z"
       },
       {
+        "time": "10:45",
+        "title": "『【保全改革はなぜ進まないのか】点検・修理・部品管理をつなぐ、保全データ活用の始め方』というテーマのウェビナーを開催",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxZDlCNVNmbDRoRFdfTUxhWHVVS3NjeUU1Zlg1d3htSEJKeEtRcVZSRTVnSmpwV1RWOXE1S2NRajhWZ1p1WkpBQ2VYVDk1QlptcEpEQ3ZQZnlLLWRka29VU1B3aTJpSmdm?oc=5",
+        "publishedAt": "2026-05-25T01:45:14.000Z"
+      },
+      {
         "time": "05:00",
         "title": "岡山市 灘崎文化センター大規模改修建築設計業務 落札者決定",
         "source": "建通新聞",
@@ -50,13 +57,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LZWhyVTNqMU1UUEltRmVOM2hFV21CdGJvZ2doc2ZVdzBWYzlaM3Zub00zUVlVdXlaSmI0YWtOUkh6dTZfVVBPSzdjYzhSMjhIWHAtMUhleEw?oc=5",
         "publishedAt": "2026-05-24T02:36:56.000Z"
-      },
-      {
-        "time": "05:36",
-        "title": "経営ひと言／東京医療保健大学・亀山周二学長「看護で社会還元」",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjT3gzRnczTHplRFBDLW1MV0NnNTktbFgydk9lOC00RzRQMDItV2xVUVdyNE12SlB6ZVBzUXNsbW5lbTRQRFhkbUk1NFREN1hISGp4aEh1a0dsbm5wdHdFVWZGMWw0OF9GUXJWOC1mZHRTSjJ3TER5anZKcw?oc=5",
-        "publishedAt": "2026-05-24T20:36:49.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "10:47",
+        "title": "7&i元会長 鈴木敏文さんが死去",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581571?source=rss",
+        "publishedAt": "2026-05-25T01:47:44.000Z"
+      },
+      {
         "time": "09:46",
         "title": "日経平均6万5000円台 史上最高値",
         "source": "Yahoo!ニュース",
@@ -119,11 +126,11 @@
         "publishedAt": "2026-05-24T22:49:33.000Z"
       },
       {
-        "time": "16:33",
-        "title": "日産 英でのEV部品生産を撤回",
+        "time": "10:30",
+        "title": "ホルムズ通過「出光丸」伊勢湾に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581500?source=rss",
-        "publishedAt": "2026-05-24T07:33:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581570?source=rss",
+        "publishedAt": "2026-05-25T01:30:29.000Z"
       },
       {
         "time": "07:55",
@@ -133,18 +140,11 @@
         "publishedAt": "2026-05-24T22:55:49.000Z"
       },
       {
-        "time": "15:28",
-        "title": "美容室に訪日客 常連離れ懸念の声",
+        "time": "11:22",
+        "title": "子ども服「140の壁」戸惑う保護者",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581495?source=rss",
-        "publishedAt": "2026-05-24T06:28:40.000Z"
-      },
-      {
-        "time": "20:32",
-        "title": "chocoZAP「女性専用」展開 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581533?source=rss",
-        "publishedAt": "2026-05-24T11:32:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581573?source=rss",
+        "publishedAt": "2026-05-25T02:22:27.000Z"
       }
     ],
     "localHeadlines": [
@@ -161,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581568?source=rss",
         "publishedAt": "2026-05-25T00:48:56.000Z"
+      },
+      {
+        "time": "11:23",
+        "title": "旭川17歳殺害 内田被告が殺意否認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581574?source=rss",
+        "publishedAt": "2026-05-25T02:23:23.000Z"
       },
       {
         "time": "06:27",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581558?source=rss",
         "publishedAt": "2026-05-24T22:56:45.000Z"
-      },
-      {
-        "time": "12:43",
-        "title": "ゾンビたばこ後悔 気づけば手遅れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581476?source=rss",
-        "publishedAt": "2026-05-24T03:43:04.000Z"
       }
     ],
     "subsidyHeadlines": [
