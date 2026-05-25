@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-25T09:33:06.223Z",
+  "updatedAt": "2026-05-25T11:30:39.914Z",
   "items": [
     {
-      "time": "18:05",
-      "title": "7&i元会長死去 ローソン社長悼む",
+      "time": "19:34",
+      "title": "首相 電気ガス代5千円支援の考え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581649?source=rss",
-      "publishedAt": "2026-05-25T09:05:48.000Z",
-      "xQuery": "7&i元会長死去 ローソン社長悼む"
+      "url": "https://news.yahoo.co.jp/pickup/6581663?source=rss",
+      "publishedAt": "2026-05-25T10:34:27.000Z",
+      "xQuery": "首相 電気ガス代5千円支援の考え"
     },
     {
-      "time": "16:33",
-      "title": "国民の連立入り望ましい 維新幹部",
+      "time": "17:10",
+      "title": "今週 雨でも真夏日の蒸し暑さ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581630?source=rss",
-      "publishedAt": "2026-05-25T07:33:39.000Z",
-      "xQuery": "国民の連立入り望ましい 維新幹部"
+      "url": "https://news.yahoo.co.jp/pickup/6581636?source=rss",
+      "publishedAt": "2026-05-25T08:10:31.000Z",
+      "xQuery": "今週 雨でも真夏日の蒸し暑さ"
     },
     {
-      "time": "16:53",
-      "title": "内田梨瑚被告 共犯と食い違う主張",
+      "time": "19:34",
+      "title": "大学生集団暴行 法廷で暴行の音声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581633?source=rss",
-      "publishedAt": "2026-05-25T07:53:54.000Z",
-      "xQuery": "内田梨瑚被告 共犯と食い違う主張"
+      "url": "https://news.yahoo.co.jp/pickup/6581662?source=rss",
+      "publishedAt": "2026-05-25T10:34:08.000Z",
+      "xQuery": "大学生集団暴行 法廷で暴行の音声"
     },
     {
-      "time": "17:25",
-      "title": "車にトラック追突 19歳学生が死亡",
+      "time": "20:09",
+      "title": "「出ないとやばい」銀座異臭騒ぎ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581639?source=rss",
-      "publishedAt": "2026-05-25T08:25:00.000Z",
-      "xQuery": "車にトラック追突 19歳学生が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6581667?source=rss",
+      "publishedAt": "2026-05-25T11:09:37.000Z",
+      "xQuery": "「出ないとやばい」銀座異臭騒ぎ"
     },
     {
-      "time": "18:14",
-      "title": "スカイマーク機に異常 緊急着陸",
+      "time": "19:39",
+      "title": "三重の女性殺害疑い 義弟を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581653?source=rss",
-      "publishedAt": "2026-05-25T09:14:01.000Z",
-      "xQuery": "スカイマーク機に異常 緊急着陸"
+      "url": "https://news.yahoo.co.jp/pickup/6581658?source=rss",
+      "publishedAt": "2026-05-25T10:39:32.000Z",
+      "xQuery": "三重の女性殺害疑い 義弟を逮捕"
     }
   ]
 };

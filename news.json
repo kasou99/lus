@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-25T09:33:05.448Z",
+  "updatedAt": "2026-05-25T11:30:38.676Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:22",
+        "time": "05:39",
         "title": "岡本工作機械製作所、社長に伊藤暁氏",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zbWJ3U05wNEZsZHZNWmpPamhJcVRtN0VwN2plYXVBWWtSMHN0Q2FBbDZubEJQTXFnRUpzRF93ZHVEaFRVNnVvc3lRc3NPRk1Tb2xzR3ZDLXNCNzQ?oc=5",
-        "publishedAt": "2026-05-24T20:22:51.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CM3k3NEo4eURUM3FUY2xDS2U2cGlJV2ZNYTVoeXo0MHc1Y2NCV0ZvdWszY3g1VWZVQlEtejlGYml0MzItUmFUdzVZbHkyd0praDR4TWgwRVBEUWhGVi1RVnNlWHNtVEdNQjdkQVE3amprdTlK?oc=5",
+        "publishedAt": "2026-05-24T20:39:05.000Z"
       },
       {
         "time": "06:00",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-05-24T04:54:20.000Z"
       },
       {
-        "time": "08:03",
-        "title": "米中会談 習主席が高市首相を非難",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581446?source=rss",
-        "publishedAt": "2026-05-23T23:03:20.000Z"
-      },
-      {
         "time": "07:24",
         "title": "比でビル倒壊 20人以上が下敷きか",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581553?source=rss",
         "publishedAt": "2026-05-24T22:24:32.000Z"
+      },
+      {
+        "time": "12:53",
+        "title": "政権批判する芸人追放 露の現状は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581576?source=rss",
+        "publishedAt": "2026-05-25T03:53:20.000Z"
       }
     ],
     "economyHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-05-25T08:52:06.000Z"
       },
       {
-        "time": "18:11",
-        "title": "コカ・コーラ 165品を9月に値上げ",
+        "time": "19:54",
+        "title": "U-NEXT アニメ制作会社を買収へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581652?source=rss",
-        "publishedAt": "2026-05-25T09:11:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581665?source=rss",
+        "publishedAt": "2026-05-25T10:54:04.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,18 +156,25 @@
         "publishedAt": "2026-05-25T07:53:54.000Z"
       },
       {
-        "time": "09:48",
-        "title": "母娘殺害 遺体発見前「人殺した」",
+        "time": "20:09",
+        "title": "「出ないとやばい」銀座異臭騒ぎ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581568?source=rss",
-        "publishedAt": "2026-05-25T00:48:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581667?source=rss",
+        "publishedAt": "2026-05-25T11:09:37.000Z"
       },
       {
-        "time": "16:12",
-        "title": "GINZA SIXで噴射 カプサイシンか",
+        "time": "19:34",
+        "title": "大学生集団暴行 法廷で暴行の音声",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581625?source=rss",
-        "publishedAt": "2026-05-25T07:12:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581662?source=rss",
+        "publishedAt": "2026-05-25T10:34:08.000Z"
+      },
+      {
+        "time": "19:39",
+        "title": "三重の女性殺害疑い 義弟を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581658?source=rss",
+        "publishedAt": "2026-05-25T10:39:32.000Z"
       },
       {
         "time": "17:25",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581639?source=rss",
         "publishedAt": "2026-05-25T08:25:00.000Z"
-      },
-      {
-        "time": "15:19",
-        "title": "住宅で意識不明の男性 死亡確認",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581610?source=rss",
-        "publishedAt": "2026-05-25T06:19:19.000Z"
       },
       {
         "time": "16:29",
