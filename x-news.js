@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-25T22:29:40.476Z",
+  "updatedAt": "2026-05-25T22:56:54.166Z",
   "items": [
     {
-      "time": "21:43",
-      "title": "飲食料品の消費税1%案有力 政府",
+      "time": "07:34",
+      "title": "医師が都市集中「命の格差」懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581679?source=rss",
-      "publishedAt": "2026-05-25T12:43:16.000Z",
-      "xQuery": "飲食料品の消費税1%案有力 政府"
+      "url": "https://news.yahoo.co.jp/pickup/6581706?source=rss",
+      "publishedAt": "2026-05-25T22:34:33.000Z",
+      "xQuery": "医師が都市集中「命の格差」懸念"
     },
     {
       "time": "07:16",
