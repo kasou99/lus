@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-25T03:50:55.632Z",
+  "updatedAt": "2026-05-25T05:42:30.147Z",
   "items": [
     {
-      "time": "10:47",
-      "title": "7&i元会長 鈴木敏文さんが死去",
+      "time": "12:36",
+      "title": "森友文書 不開示巡り妻が提訴へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581571?source=rss",
-      "publishedAt": "2026-05-25T01:47:44.000Z",
-      "xQuery": "7&i元会長 鈴木敏文さんが死去"
+      "url": "https://news.yahoo.co.jp/pickup/6581589?source=rss",
+      "publishedAt": "2026-05-25T03:36:19.000Z",
+      "xQuery": "森友文書 不開示巡り妻が提訴へ"
     },
     {
-      "time": "11:44",
-      "title": "ホルムズ通過「出光丸」日本到着",
+      "time": "12:46",
+      "title": "立ち直りへの試み 拘禁刑の最前線",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581581?source=rss",
-      "publishedAt": "2026-05-25T02:44:30.000Z",
-      "xQuery": "ホルムズ通過「出光丸」日本到着"
+      "url": "https://news.yahoo.co.jp/pickup/6581590?source=rss",
+      "publishedAt": "2026-05-25T03:46:11.000Z",
+      "xQuery": "立ち直りへの試み 拘禁刑の最前線"
     },
     {
-      "time": "11:17",
-      "title": "中道 落選者の離党ドミノ止まらず",
+      "time": "14:30",
+      "title": "銀座でスプレーか 25人が痛み訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581569?source=rss",
-      "publishedAt": "2026-05-25T02:17:31.000Z",
-      "xQuery": "中道 落選者の離党ドミノ止まらず"
+      "url": "https://news.yahoo.co.jp/pickup/6581600?source=rss",
+      "publishedAt": "2026-05-25T05:30:57.000Z",
+      "xQuery": "銀座でスプレーか 25人が痛み訴え"
     },
     {
-      "time": "12:20",
-      "title": "路上で金塊約2kg強盗疑い 2人逮捕",
+      "time": "13:15",
+      "title": "住宅で男性意識不明 胸付近に出血",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581586?source=rss",
-      "publishedAt": "2026-05-25T03:20:20.000Z",
-      "xQuery": "路上で金塊約2kg強盗疑い 2人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6581593?source=rss",
+      "publishedAt": "2026-05-25T04:15:46.000Z",
+      "xQuery": "住宅で男性意識不明 胸付近に出血"
     },
     {
-      "time": "11:23",
-      "title": "旭川17歳殺害 内田被告が殺意否認",
+      "time": "13:53",
+      "title": "公選法違反の疑い 町長を書類送検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581574?source=rss",
-      "publishedAt": "2026-05-25T02:23:23.000Z",
-      "xQuery": "旭川17歳殺害 内田被告が殺意否認"
+      "url": "https://news.yahoo.co.jp/pickup/6581599?source=rss",
+      "publishedAt": "2026-05-25T04:53:56.000Z",
+      "xQuery": "公選法違反の疑い 町長を書類送検"
     }
   ]
 };

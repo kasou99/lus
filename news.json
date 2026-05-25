@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T03:50:54.387Z",
+  "updatedAt": "2026-05-25T05:42:29.162Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-05-25T01:45:14.000Z"
       },
       {
+        "time": "11:30",
+        "title": "オーダーメイドの産業ロボット製作 足利技研・大野社長が語る顧客に寄り添う経営 人手不足問題も追い風？ 成長への道しるべ 成長への道しるべ",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdjRWb1l4MVlTVjI2OHNFYkpvUlJsSGxjUV94bUFWMi1OTEJkUXpxNUpFd2Zld1lmZ3dLbzV4eEc0N0VRemItMThPZ3FWUEJnTEhoZjBfZVBIeERoQkFFbV8xc1cxTHFyLTJEdDNEaXhfQVRrZFJEc1AweUlLcUJ2YW9WRExtZU4wbXVTbEJzdHnSAZABQVVfeXFMTnY0Vm9ZeDFZU1YyNjhzRWJKb1JSbEhsY1FfeG1BVjItTkxCZFF6cTVKRXdmZXdZZmd3S281eHhHNDdFUXpiLTE4T2dxVlBCZ0xIaGYwX2VQSHhEaEJBRW1fMXNXMUxxci0yRHQzRGl4X0FUa2RSRHNQMHlJS3FCdmFvVkRMbWVOMG11U2xCc3R5?oc=5",
+        "publishedAt": "2026-05-25T02:30:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "岡山市 灘崎文化センター大規模改修建築設計業務 落札者決定",
         "source": "建通新聞",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXBNVWItQlQxcFJGYl9WQW44VGxKSGRBSlI4Vm5DdmYzcy1keVg5X19qaDVYLTRVVktZZElpV1h6V2ltVW9Sc0MzR1JhWDJwQWFfcDJYOGgzVERtTE9NVDJFV05NQVF5VEZsaklidzhMajhESE9waTR3Q3dEdUhpZQ?oc=5",
         "publishedAt": "2026-05-24T20:00:00.000Z"
-      },
-      {
-        "time": "12:56",
-        "title": "安川電機の中期経営計画「Dash 35」にみるフィジカルAI戦略 メカトロニクスと知能化が融合する新市場創出の未来",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBubDZXSFJFUHRYaVgwMXU0M28wRHlCQ1o3RThFZERLaGtXUDV4Q1JTTzlZaGlxS09ZN05pX2pEWGpYM21veVBWRUJpS3FYMC1oNXVJRA?oc=5",
-        "publishedAt": "2026-05-24T03:56:42.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,13 +126,6 @@
         "publishedAt": "2026-05-25T02:44:30.000Z"
       },
       {
-        "time": "07:49",
-        "title": "不正会計のニデック 監視委検査へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581556?source=rss",
-        "publishedAt": "2026-05-24T22:49:33.000Z"
-      },
-      {
         "time": "07:55",
         "title": "ノジマの日立家電事業買収 狙いは",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581585?source=rss",
         "publishedAt": "2026-05-25T02:56:01.000Z"
+      },
+      {
+        "time": "14:23",
+        "title": "富裕層増 固定化される格差の元凶",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581602?source=rss",
+        "publishedAt": "2026-05-25T05:23:42.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,11 +163,25 @@
         "publishedAt": "2026-05-25T02:23:23.000Z"
       },
       {
-        "time": "06:27",
-        "title": "住宅に3人遺体 目立った外傷なし",
+        "time": "13:15",
+        "title": "住宅で男性意識不明 胸付近に出血",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581548?source=rss",
-        "publishedAt": "2026-05-24T21:27:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581593?source=rss",
+        "publishedAt": "2026-05-25T04:15:46.000Z"
+      },
+      {
+        "time": "14:30",
+        "title": "銀座でスプレーか 25人が痛み訴え",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581600?source=rss",
+        "publishedAt": "2026-05-25T05:30:57.000Z"
+      },
+      {
+        "time": "13:53",
+        "title": "公選法違反の疑い 町長を書類送検",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581599?source=rss",
+        "publishedAt": "2026-05-25T04:53:56.000Z"
       },
       {
         "time": "12:20",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581586?source=rss",
         "publishedAt": "2026-05-25T03:20:20.000Z"
-      },
-      {
-        "time": "17:12",
-        "title": "相馬野馬追で馬と客接触 6人けが",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581509?source=rss",
-        "publishedAt": "2026-05-24T08:12:27.000Z"
-      },
-      {
-        "time": "07:56",
-        "title": "バイクと車が正面衝突 高校生重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581558?source=rss",
-        "publishedAt": "2026-05-24T22:56:45.000Z"
       }
     ],
     "subsidyHeadlines": [
