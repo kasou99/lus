@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-25T07:51:02.006Z",
+  "updatedAt": "2026-05-25T09:33:06.223Z",
   "items": [
     {
-      "time": "15:39",
-      "title": "日経平均株価 終値初の6万5千円超",
+      "time": "18:05",
+      "title": "7&i元会長死去 ローソン社長悼む",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581616?source=rss",
-      "publishedAt": "2026-05-25T06:39:27.000Z",
-      "xQuery": "日経平均株価 終値初の6万5千円超"
+      "url": "https://news.yahoo.co.jp/pickup/6581649?source=rss",
+      "publishedAt": "2026-05-25T09:05:48.000Z",
+      "xQuery": "7&i元会長死去 ローソン社長悼む"
     },
     {
-      "time": "15:52",
-      "title": "中国側の軍国主義主張 木原氏反論",
+      "time": "16:33",
+      "title": "国民の連立入り望ましい 維新幹部",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581617?source=rss",
-      "publishedAt": "2026-05-25T06:52:23.000Z",
-      "xQuery": "中国側の軍国主義主張 木原氏反論"
+      "url": "https://news.yahoo.co.jp/pickup/6581630?source=rss",
+      "publishedAt": "2026-05-25T07:33:39.000Z",
+      "xQuery": "国民の連立入り望ましい 維新幹部"
     },
     {
-      "time": "16:12",
-      "title": "GINZA SIXで噴射 カプサイシンか",
+      "time": "16:53",
+      "title": "内田梨瑚被告 共犯と食い違う主張",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581625?source=rss",
-      "publishedAt": "2026-05-25T07:12:10.000Z",
-      "xQuery": "GINZA SIXで噴射 カプサイシンか"
+      "url": "https://news.yahoo.co.jp/pickup/6581633?source=rss",
+      "publishedAt": "2026-05-25T07:53:54.000Z",
+      "xQuery": "内田梨瑚被告 共犯と食い違う主張"
     },
     {
-      "time": "15:54",
-      "title": "トラクターが約7m転落か 男性死亡",
+      "time": "17:25",
+      "title": "車にトラック追突 19歳学生が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581619?source=rss",
-      "publishedAt": "2026-05-25T06:54:39.000Z",
-      "xQuery": "トラクターが約7m転落か 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6581639?source=rss",
+      "publishedAt": "2026-05-25T08:25:00.000Z",
+      "xQuery": "車にトラック追突 19歳学生が死亡"
     },
     {
-      "time": "15:42",
-      "title": "ドコモ 590億円規模の土地売却",
+      "time": "18:14",
+      "title": "スカイマーク機に異常 緊急着陸",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581615?source=rss",
-      "publishedAt": "2026-05-25T06:42:55.000Z",
-      "xQuery": "ドコモ 590億円規模の土地売却"
+      "url": "https://news.yahoo.co.jp/pickup/6581653?source=rss",
+      "publishedAt": "2026-05-25T09:14:01.000Z",
+      "xQuery": "スカイマーク機に異常 緊急着陸"
     }
   ]
 };

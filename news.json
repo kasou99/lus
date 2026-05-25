@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-25T07:51:01.213Z",
+  "updatedAt": "2026-05-25T09:33:05.448Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:39",
+        "time": "05:22",
         "title": "岡本工作機械製作所、社長に伊藤暁氏",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CM3k3NEo4eURUM3FUY2xDS2U2cGlJV2ZNYTVoeXo0MHc1Y2NCV0ZvdWszY3g1VWZVQlEtejlGYml0MzItUmFUdzVZbHkyd0praDR4TWgwRVBEUWhGVi1RVnNlWHNtVEdNQjdkQVE3amprdTlK?oc=5",
-        "publishedAt": "2026-05-24T20:39:05.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zbWJ3U05wNEZsZHZNWmpPamhJcVRtN0VwN2plYXVBWWtSMHN0Q2FBbDZubEJQTXFnRUpzRF93ZHVEaFRVNnVvc3lRc3NPRk1Tb2xzR3ZDLXNCNzQ?oc=5",
+        "publishedAt": "2026-05-24T20:22:51.000Z"
       },
       {
         "time": "06:00",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-05-25T01:45:14.000Z"
       },
       {
-        "time": "11:30",
-        "title": "オーダーメイドの産業ロボット製作 足利技研・大野社長が語る顧客に寄り添う経営 人手不足問題も追い風？ 成長への道しるべ 成長への道しるべ",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdjRWb1l4MVlTVjI2OHNFYkpvUlJsSGxjUV94bUFWMi1OTEJkUXpxNUpFd2Zld1lmZ3dLbzV4eEc0N0VRemItMThPZ3FWUEJnTEhoZjBfZVBIeERoQkFFbV8xc1cxTHFyLTJEdDNEaXhfQVRrZFJEc1AweUlLcUJ2YW9WRExtZU4wbXVTbEJzdHnSAZABQVVfeXFMTnY0Vm9ZeDFZU1YyNjhzRWJKb1JSbEhsY1FfeG1BVjItTkxCZFF6cTVKRXdmZXdZZmd3S281eHhHNDdFUXpiLTE4T2dxVlBCZ0xIaGYwX2VQSHhEaEJBRW1fMXNXMUxxci0yRHQzRGl4X0FUa2RSRHNQMHlJS3FCdmFvVkRMbWVOMG11U2xCc3R5?oc=5",
-        "publishedAt": "2026-05-25T02:30:00.000Z"
+        "time": "05:00",
+        "title": "岡山市 灘崎文化センター大規模改修建築設計業務 落札者決定",
+        "source": "建通新聞",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXBNVWItQlQxcFJGYl9WQW44VGxKSGRBSlI4Vm5DdmYzcy1keVg5X19qaDVYLTRVVktZZElpV1h6V2ltVW9Sc0MzR1JhWDJwQWFfcDJYOGgzVERtTE9NVDJFV05NQVF5VEZsaklidzhMajhESE9waTR3Q3dEdUhpZQ?oc=5",
+        "publishedAt": "2026-05-24T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,25 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "18:05",
+        "title": "7&i元会長死去 ローソン社長悼む",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581649?source=rss",
+        "publishedAt": "2026-05-25T09:05:48.000Z"
+      },
+      {
         "time": "15:39",
         "title": "日経平均株価 終値初の6万5千円超",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581616?source=rss",
         "publishedAt": "2026-05-25T06:39:27.000Z"
-      },
-      {
-        "time": "10:47",
-        "title": "7&i元会長 鈴木敏文さんが死去",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581571?source=rss",
-        "publishedAt": "2026-05-25T01:47:44.000Z"
-      },
-      {
-        "time": "16:45",
-        "title": "ハンズ渋谷閉店へ 48年の歴史に幕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581632?source=rss",
-        "publishedAt": "2026-05-25T07:45:32.000Z"
       },
       {
         "time": "15:42",
@@ -133,21 +126,35 @@
         "publishedAt": "2026-05-25T06:42:55.000Z"
       },
       {
-        "time": "11:56",
-        "title": "筆頭株主がKADOKAWA批判 背景",
+        "time": "18:14",
+        "title": "スカイマーク機に異常 緊急着陸",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581585?source=rss",
-        "publishedAt": "2026-05-25T02:56:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581653?source=rss",
+        "publishedAt": "2026-05-25T09:14:01.000Z"
       },
       {
-        "time": "14:23",
-        "title": "富裕層増 固定化される格差の元凶",
+        "time": "17:52",
+        "title": "関西最高額マンション販売 40億円",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581602?source=rss",
-        "publishedAt": "2026-05-25T05:23:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581643?source=rss",
+        "publishedAt": "2026-05-25T08:52:06.000Z"
+      },
+      {
+        "time": "18:11",
+        "title": "コカ・コーラ 165品を9月に値上げ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581652?source=rss",
+        "publishedAt": "2026-05-25T09:11:09.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "16:53",
+        "title": "内田梨瑚被告 共犯と食い違う主張",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581633?source=rss",
+        "publishedAt": "2026-05-25T07:53:54.000Z"
+      },
       {
         "time": "09:48",
         "title": "母娘殺害 遺体発見前「人殺した」",
@@ -156,18 +163,18 @@
         "publishedAt": "2026-05-25T00:48:56.000Z"
       },
       {
-        "time": "11:23",
-        "title": "旭川17歳殺害 内田被告が殺意否認",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581574?source=rss",
-        "publishedAt": "2026-05-25T02:23:23.000Z"
-      },
-      {
         "time": "16:12",
         "title": "GINZA SIXで噴射 カプサイシンか",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581625?source=rss",
         "publishedAt": "2026-05-25T07:12:10.000Z"
+      },
+      {
+        "time": "17:25",
+        "title": "車にトラック追突 19歳学生が死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581639?source=rss",
+        "publishedAt": "2026-05-25T08:25:00.000Z"
       },
       {
         "time": "15:19",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581628?source=rss",
         "publishedAt": "2026-05-25T07:29:44.000Z"
-      },
-      {
-        "time": "15:54",
-        "title": "トラクターが約7m転落か 男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581619?source=rss",
-        "publishedAt": "2026-05-25T06:54:39.000Z"
       }
     ],
     "subsidyHeadlines": [
