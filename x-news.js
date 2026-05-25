@@ -1,30 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-25T02:26:13.212Z",
+  "updatedAt": "2026-05-25T03:50:55.632Z",
   "items": [
-    {
-      "time": "09:46",
-      "title": "日経平均6万5000円台 史上最高値",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581567?source=rss",
-      "publishedAt": "2026-05-25T00:46:36.000Z",
-      "xQuery": "日経平均6万5000円台 史上最高値"
-    },
-    {
-      "time": "09:07",
-      "title": "イラン合意急ぐな トランプ氏指示",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581563?source=rss",
-      "publishedAt": "2026-05-25T00:07:01.000Z",
-      "xQuery": "イラン合意急ぐな トランプ氏指示"
-    },
-    {
-      "time": "10:30",
-      "title": "ホルムズ通過「出光丸」伊勢湾に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581570?source=rss",
-      "publishedAt": "2026-05-25T01:30:29.000Z",
-      "xQuery": "ホルムズ通過「出光丸」伊勢湾に"
-    },
     {
       "time": "10:47",
       "title": "7&i元会長 鈴木敏文さんが死去",
@@ -32,6 +8,30 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581571?source=rss",
       "publishedAt": "2026-05-25T01:47:44.000Z",
       "xQuery": "7&i元会長 鈴木敏文さんが死去"
+    },
+    {
+      "time": "11:44",
+      "title": "ホルムズ通過「出光丸」日本到着",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581581?source=rss",
+      "publishedAt": "2026-05-25T02:44:30.000Z",
+      "xQuery": "ホルムズ通過「出光丸」日本到着"
+    },
+    {
+      "time": "11:17",
+      "title": "中道 落選者の離党ドミノ止まらず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581569?source=rss",
+      "publishedAt": "2026-05-25T02:17:31.000Z",
+      "xQuery": "中道 落選者の離党ドミノ止まらず"
+    },
+    {
+      "time": "12:20",
+      "title": "路上で金塊約2kg強盗疑い 2人逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581586?source=rss",
+      "publishedAt": "2026-05-25T03:20:20.000Z",
+      "xQuery": "路上で金塊約2kg強盗疑い 2人逮捕"
     },
     {
       "time": "11:23",
