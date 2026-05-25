@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-24T23:54:42.581Z",
+  "updatedAt": "2026-05-25T01:12:30.085Z",
   "items": [
+    {
+      "time": "09:46",
+      "title": "日経平均6万5000円台 史上最高値",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581567?source=rss",
+      "publishedAt": "2026-05-25T00:46:36.000Z",
+      "xQuery": "日経平均6万5000円台 史上最高値"
+    },
+    {
+      "time": "09:07",
+      "title": "イラン合意急ぐな トランプ氏指示",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581563?source=rss",
+      "publishedAt": "2026-05-25T00:07:01.000Z",
+      "xQuery": "イラン合意急ぐな トランプ氏指示"
+    },
     {
       "time": "08:12",
       "title": "ナフサ説明「納得せず」64% 読売",
@@ -10,36 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ナフサ説明「納得せず」64% 読売"
     },
     {
-      "time": "08:23",
-      "title": "単身高齢者の最期 自治体の重荷に",
+      "time": "09:48",
+      "title": "母娘殺害 遺体発見前「人殺した」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581560?source=rss",
-      "publishedAt": "2026-05-24T23:23:42.000Z",
-      "xQuery": "単身高齢者の最期 自治体の重荷に"
+      "url": "https://news.yahoo.co.jp/pickup/6581568?source=rss",
+      "publishedAt": "2026-05-25T00:48:56.000Z",
+      "xQuery": "母娘殺害 遺体発見前「人殺した」"
     },
     {
-      "time": "07:49",
-      "title": "不正会計のニデック 監視委検査へ",
+      "time": "08:32",
+      "title": "日本語「要指導」の子 10年で倍増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581556?source=rss",
-      "publishedAt": "2026-05-24T22:49:33.000Z",
-      "xQuery": "不正会計のニデック 監視委検査へ"
-    },
-    {
-      "time": "07:56",
-      "title": "バイクと車が正面衝突 高校生重体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581558?source=rss",
-      "publishedAt": "2026-05-24T22:56:45.000Z",
-      "xQuery": "バイクと車が正面衝突 高校生重体"
-    },
-    {
-      "time": "06:27",
-      "title": "住宅に3人遺体 目立った外傷なし",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581548?source=rss",
-      "publishedAt": "2026-05-24T21:27:28.000Z",
-      "xQuery": "住宅に3人遺体 目立った外傷なし"
+      "url": "https://news.yahoo.co.jp/pickup/6581561?source=rss",
+      "publishedAt": "2026-05-24T23:32:05.000Z",
+      "xQuery": "日本語「要指導」の子 10年で倍増"
     }
   ]
 };
