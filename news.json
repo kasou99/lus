@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-05-26T05:30:13.240Z",
+  "updatedAt": "2026-05-26T07:27:31.830Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:38",
+        "title": "4月の工作機械受注45%増 国内で上向き傾向、DC関連が寄与",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDb19qVVBrOXljTld4QnhaNXdjd3dFUnNzSmppUnRIMUZiNEJHZWlTTEdJS1FEQU5hb2p6N2JHVHBGeHQ5UDdraDFMdGQ4aTdVT2ZxblVadGtDMVE2el96eDFPZVBON2JudDFrRQ?oc=5",
+        "publishedAt": "2026-05-26T06:38:41.000Z"
+      },
       {
         "time": "13:15",
         "title": "センサーレスで旋削主軸をAI診断、異常の早期検知で突発停止を予防：工作機械",
@@ -50,22 +57,15 @@
         "source": "ASCII.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JM3c0aHVTQk95VWh0MkdiVzZmcEZjelJyNXpoR2g4ay1LdVMzazdCcVlSRzR0X0hFY2VaLU1PY3lvSlpzTnpncWVsLTJKRFRTMzFVTg?oc=5",
         "publishedAt": "2026-05-26T01:20:00.000Z"
-      },
-      {
-        "time": "13:03",
-        "title": "高速度鋼チャッキングリーマの世界市場2026年、グローバル市場規模（ストレートフルート型、ヘリカル型）・分析レポートを発表",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4YmNEcWFkdTNlMjNWRnBrVE9DMnhpNEVMalR1VzBxRkZrME45VFo5WDFpN21iUVVBQzVUVkxHOUR1T0g1SUVzdXJDYkdNajFRak1IMlN5X0w5UWJsbmUwT1hUcDZTTnlTN2oxaFFsRHNPUUtQaGg1SWJWOA?oc=5",
-        "publishedAt": "2026-05-26T04:03:23.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "13:26",
-        "title": "北朝鮮が黄海に飛翔体発射 韓国軍",
+        "time": "15:16",
+        "title": "北朝鮮が黄海にミサイル 韓国軍",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581762?source=rss",
-        "publishedAt": "2026-05-26T04:26:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581771?source=rss",
+        "publishedAt": "2026-05-26T06:16:55.000Z"
       },
       {
         "time": "13:50",

@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-26T05:30:14.423Z",
+  "updatedAt": "2026-05-26T07:27:32.586Z",
   "items": [
     {
-      "time": "13:26",
-      "title": "北朝鮮が黄海に飛翔体発射 韓国軍",
+      "time": "13:32",
+      "title": "政府 南米関税同盟とEPA交渉へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581762?source=rss",
-      "publishedAt": "2026-05-26T04:26:18.000Z",
-      "xQuery": "北朝鮮が黄海に飛翔体発射 韓国軍"
+      "url": "https://news.yahoo.co.jp/pickup/6581761?source=rss",
+      "publishedAt": "2026-05-26T04:32:29.000Z",
+      "xQuery": "政府 南米関税同盟とEPA交渉へ"
     },
     {
-      "time": "13:43",
-      "title": "ジャズ ソニー・ロリンズさん死去",
+      "time": "13:50",
+      "title": "防衛巡る中国の日本批判 対策3つ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581764?source=rss",
-      "publishedAt": "2026-05-26T04:43:55.000Z",
-      "xQuery": "ジャズ ソニー・ロリンズさん死去"
+      "url": "https://news.yahoo.co.jp/pickup/6581765?source=rss",
+      "publishedAt": "2026-05-26T04:50:31.000Z",
+      "xQuery": "防衛巡る中国の日本批判 対策3つ"
     },
     {
-      "time": "12:47",
-      "title": "集団暴行死 男が証言を拒否し退廷",
+      "time": "13:53",
+      "title": "エボラ出血熱巡り現地で騒乱 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581757?source=rss",
-      "publishedAt": "2026-05-26T03:47:09.000Z",
-      "xQuery": "集団暴行死 男が証言を拒否し退廷"
+      "url": "https://news.yahoo.co.jp/pickup/6581753?source=rss",
+      "publishedAt": "2026-05-26T04:53:15.000Z",
+      "xQuery": "エボラ出血熱巡り現地で騒乱 背景"
     },
     {
       "time": "13:31",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "工事現場でセメントかぶり2人死亡"
     },
     {
-      "time": "12:46",
-      "title": "韓国スタバに批判 親会社会長謝罪",
+      "time": "14:38",
+      "title": "自ら志願して中国に 日本の研究者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581749?source=rss",
-      "publishedAt": "2026-05-26T03:46:34.000Z",
-      "xQuery": "韓国スタバに批判 親会社会長謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6581769?source=rss",
+      "publishedAt": "2026-05-26T05:38:26.000Z",
+      "xQuery": "自ら志願して中国に 日本の研究者"
     }
   ]
 };
