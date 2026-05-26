@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T23:31:53.000Z",
+  "updatedAt": "2026-05-26T01:07:05.426Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,18 @@
         "publishedAt": "2026-05-25T21:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "芝浦機械 減収減益 ３月期 成形機販売落ち込み",
-        "source": "静岡新聞DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aZUVOOFozRlZRazZyQU9oVVRScDRiS0F0VGVLQURjTWRHX1RIU1BmMFFoZW5uSnppZ0FKbkgzNnZpQUlRRGJfUDluVzdxdw?oc=5",
-        "publishedAt": "2026-05-25T20:00:00.000Z"
+        "time": "10:00",
+        "title": "国策化目前――「フィジカルAI」本命厳選20銘柄リスト【2026年版・保存推奨】｜日本個別株デューデリジェンスセンター",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jWGw2MzdsY3dqY0tZaUVKWUpHVGZSaFAtWmJnbGNOTG5YbkNaODY1Q3JGbjNDTUtBX2p6TXpQSUwwRXRGTGNJWDlkSjhac3pqaFBqRV94LW5YQmc?oc=5",
+        "publishedAt": "2026-05-26T01:00:00.000Z"
+      },
+      {
+        "time": "08:33",
+        "title": "産業Ethernet向けLANテスター「KAPRi」の 外来電圧検知・保護機能に関する技術解説ページを公開",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DZUVRdDBmajI2OGJ0aWQ0T3h2UWhhWTBNMC1EOGFHaVcwbTEtN0pWUjdidGotZVZjeEl1WHJfaW9idFNkclYxYnZmaTlNV290SnRFYWZIMGlzd2VENUlPbXhuTXI5VmJiVmE2TEpaVlJGVGtZbnJ1LW9waw?oc=5",
+        "publishedAt": "2026-05-25T23:33:23.000Z"
       },
       {
         "time": "05:02",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wRGx1RXFLbGhnUUg0MTFmQ3U2LXVDSkhsUWc3cTRvaDAwSmtYMnBGd1JoWFBDOF9zaTU2VjdYZy13Y2RBXzQ3anBRcTZIM1pXZ3UyMUc4VEVBMzg?oc=5",
         "publishedAt": "2026-05-25T20:02:11.000Z"
-      },
-      {
-        "time": "09:34",
-        "title": "【読んで発見「RTJ2026」vol.1】自動化のヒントを探す場に",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nVVZFQU1MVzR1dE9lVG4tRkpfQnFFaDl5SmZqNXoxWnZUZDBwRnpyS25EVTlGVzVmemFHX3YwNFZPNVpBdTNSTUh5MUJPTjFFcTRUaEJyRnJISjJCNlJCaVZBYkp0ZVdWZGpn?oc=5",
-        "publishedAt": "2026-05-25T00:34:56.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,11 +75,11 @@
         "publishedAt": "2026-05-25T06:24:53.000Z"
       },
       {
-        "time": "09:07",
-        "title": "イラン合意急ぐな トランプ氏指示",
+        "time": "08:54",
+        "title": "イスラエル レバノン攻撃強化表明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581563?source=rss",
-        "publishedAt": "2026-05-25T00:07:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581717?source=rss",
+        "publishedAt": "2026-05-25T23:54:05.000Z"
       },
       {
         "time": "21:00",
@@ -89,34 +89,34 @@
         "publishedAt": "2026-05-25T12:00:21.000Z"
       },
       {
-        "time": "21:38",
-        "title": "米国の「正当な戦争」教皇が一蹴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581681?source=rss",
-        "publishedAt": "2026-05-25T12:38:50.000Z"
-      },
-      {
         "time": "20:48",
         "title": "トランプ氏 対中融和に転じた背景",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581672?source=rss",
         "publishedAt": "2026-05-25T11:48:04.000Z"
+      },
+      {
+        "time": "12:53",
+        "title": "政権批判する芸人追放 露の現状は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581576?source=rss",
+        "publishedAt": "2026-05-25T03:53:20.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "09:06",
+        "title": "対外純資産 中国に抜かれ3位に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581719?source=rss",
+        "publishedAt": "2026-05-26T00:06:43.000Z"
+      },
       {
         "time": "18:05",
         "title": "7&i元会長死去 ローソン社長悼む",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581649?source=rss",
         "publishedAt": "2026-05-25T09:05:48.000Z"
-      },
-      {
-        "time": "15:42",
-        "title": "ドコモ 590億円規模の土地売却",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581615?source=rss",
-        "publishedAt": "2026-05-25T06:42:55.000Z"
       },
       {
         "time": "22:23",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-05-25T23:16:10.000Z"
       },
       {
+        "time": "09:08",
+        "title": "マック注文端末巡り物議 広報回答",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581721?source=rss",
+        "publishedAt": "2026-05-26T00:08:27.000Z"
+      },
+      {
         "time": "17:52",
         "title": "関西最高額マンション販売 40億円",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581643?source=rss",
         "publishedAt": "2026-05-25T08:52:06.000Z"
-      },
-      {
-        "time": "23:20",
-        "title": "スズキ 一部店でオイル交換に遅れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581692?source=rss",
-        "publishedAt": "2026-05-25T14:20:29.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,11 +156,18 @@
         "publishedAt": "2026-05-25T21:47:09.000Z"
       },
       {
-        "time": "21:55",
-        "title": "警察接触の指名手配の男 目撃複数",
+        "time": "09:43",
+        "title": "阿部監督 娘に「カッとなった」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581683?source=rss",
-        "publishedAt": "2026-05-25T12:55:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581725?source=rss",
+        "publishedAt": "2026-05-26T00:43:54.000Z"
+      },
+      {
+        "time": "09:33",
+        "title": "兵庫親子殺害 男は着替えて逃走か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581724?source=rss",
+        "publishedAt": "2026-05-26T00:33:54.000Z"
       },
       {
         "time": "22:12",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581699?source=rss",
         "publishedAt": "2026-05-25T21:57:51.000Z"
-      },
-      {
-        "time": "20:09",
-        "title": "「出ないとやばい」銀座異臭騒ぎ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581667?source=rss",
-        "publishedAt": "2026-05-25T11:09:37.000Z"
       },
       {
         "time": "08:28",
