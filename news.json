@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-05-26T19:20:05.691Z",
+  "updatedAt": "2026-05-26T20:19:18.152Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "工作機械の発熱、油で冷ます 前橋の関東精機が半導体向け機器増産",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aS0hnVUNHS2VjT2Q2MjhfQkZiZXlCTEF5TkJZNXo5aG1OSlVqUUhpY0VpQk5wVFlmUDF1RHFoRWpDelVuVWVxX1FlbFVrVVE3c083MWxydzlzc3p4blhuVDNZYXN3NklDeGxHQw?oc=5",
+        "publishedAt": "2026-05-26T20:00:00.000Z"
+      },
       {
         "time": "17:00",
         "title": "4月の工作機械受注、45％増の1889億6700万円 DC・半導体関連伸び顕著",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kVnllMUVGZzJaSDZUVEpFM1J0RjJ1NDJRWlVMNTg4SDBkVG0xWXlpSEs4U09TMlExaEZBOFlsWUtsVUVPLXpydld0cDRiMnJoWVh3bUFnaHlLblU?oc=5",
         "publishedAt": "2026-05-26T08:00:00.000Z"
-      },
-      {
-        "time": "17:52",
-        "title": "マザック財団、工作機械関連の研究21件に助成 総額1650万円",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96bmEwYWc3OXlkeFNoRmJ4bTNNejZmX3VvU2RleE5UR01NWFo5bm5sM3dMVVMtMnlQRDBlOHpYOEtKV3ZwWjkzU2gtV1c4TkVsMmhiR0VncVh1ZDNuRC1wV2d6cE92aWl1S0JXOQ?oc=5",
-        "publishedAt": "2026-05-26T08:52:24.000Z"
       },
       {
         "time": "13:15",
@@ -38,11 +38,11 @@
         "publishedAt": "2026-05-25T21:45:00.000Z"
       },
       {
-        "time": "15:38",
-        "title": "4月の工作機械受注45%増 国内で上向き傾向、DC関連が寄与",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDb19qVVBrOXljTld4QnhaNXdjd3dFUnNzSmppUnRIMUZiNEJHZWlTTEdJS1FEQU5hb2p6N2JHVHBGeHQ5UDdraDFMdGQ4aTdVT2ZxblVadGtDMVE2el96eDFPZVBON2JudDFrRQ?oc=5",
-        "publishedAt": "2026-05-26T06:38:41.000Z"
+        "time": "05:06",
+        "title": "工作機械受注、4月45％増 DC・半導体関連伸び顕著",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tOVA5alNBa1RPTGVTQXhtS25TeXNjUS1hc0swZGVwZ25YMDNNWmZWV2NTSW9KZ084eGNLbDluRG5Yd2RtNVJYaXM1ZmV1Q3VzMTJ3eVZpcw?oc=5",
+        "publishedAt": "2026-05-26T20:06:32.000Z"
       },
       {
         "time": "12:39",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-05-26T03:39:38.000Z"
       },
       {
-        "time": "09:55",
-        "title": "芝浦機械がストップ安気配､27年3月期は3％営業減益予想",
-        "source": "会社四季報オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53Tnd1Ukpnajh6eklzMUs5ZUp3YndqTzhrVEVKV2xkZlphNGdOWlR6dk1NRzJZQXdEUzJCb19hN25BYWlrblpoekNmSEpRTHA0OUFLOW9GZw?oc=5",
-        "publishedAt": "2026-05-26T00:55:50.000Z"
+        "time": "17:52",
+        "title": "マザック財団、工作機械関連の研究21件に助成 総額1650万円",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96bmEwYWc3OXlkeFNoRmJ4bTNNejZmX3VvU2RleE5UR01NWFo5bm5sM3dMVVMtMnlQRDBlOHpYOEtKV3ZwWjkzU2gtV1c4TkVsMmhiR0VncVh1ZDNuRC1wV2d6cE92aWl1S0JXOQ?oc=5",
+        "publishedAt": "2026-05-26T08:52:24.000Z"
       }
     ],
     "worldHeadlines": [
