@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T18:20:49.506Z",
+  "updatedAt": "2026-05-26T19:20:05.691Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-05-25T21:45:00.000Z"
       },
       {
+        "time": "15:38",
+        "title": "4月の工作機械受注45%増 国内で上向き傾向、DC関連が寄与",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDb19qVVBrOXljTld4QnhaNXdjd3dFUnNzSmppUnRIMUZiNEJHZWlTTEdJS1FEQU5hb2p6N2JHVHBGeHQ5UDdraDFMdGQ4aTdVT2ZxblVadGtDMVE2el96eDFPZVBON2JudDFrRQ?oc=5",
+        "publishedAt": "2026-05-26T06:38:41.000Z"
+      },
+      {
         "time": "12:39",
         "title": "第21回 切削加工ドリームコンテスト",
         "source": "Koubo",
@@ -50,13 +57,6 @@
         "source": "会社四季報オンライン",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53Tnd1Ukpnajh6eklzMUs5ZUp3YndqTzhrVEVKV2xkZlphNGdOWlR6dk1NRzJZQXdEUzJCb19hN25BYWlrblpoekNmSEpRTHA0OUFLOW9GZw?oc=5",
         "publishedAt": "2026-05-26T00:55:50.000Z"
-      },
-      {
-        "time": "15:38",
-        "title": "4月の工作機械受注45%増 国内で上向き傾向、DC関連が寄与",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDb19qVVBrOXljTld4QnhaNXdjd3dFUnNzSmppUnRIMUZiNEJHZWlTTEdJS1FEQU5hb2p6N2JHVHBGeHQ5UDdraDFMdGQ4aTdVT2ZxblVadGtDMVE2el96eDFPZVBON2JudDFrRQ?oc=5",
-        "publishedAt": "2026-05-26T06:38:41.000Z"
       }
     ],
     "worldHeadlines": [
