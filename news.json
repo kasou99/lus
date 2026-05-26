@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T17:14:47.622Z",
+  "updatedAt": "2026-05-26T18:20:49.506Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,11 @@
         "publishedAt": "2026-05-26T08:00:00.000Z"
       },
       {
-        "time": "15:38",
-        "title": "4月の工作機械受注45%増 国内で上向き傾向、DC関連が寄与",
+        "time": "17:52",
+        "title": "マザック財団、工作機械関連の研究21件に助成 総額1650万円",
         "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDb19qVVBrOXljTld4QnhaNXdjd3dFUnNzSmppUnRIMUZiNEJHZWlTTEdJS1FEQU5hb2p6N2JHVHBGeHQ5UDdraDFMdGQ4aTdVT2ZxblVadGtDMVE2el96eDFPZVBON2JudDFrRQ?oc=5",
-        "publishedAt": "2026-05-26T06:38:41.000Z"
-      },
-      {
-        "time": "06:30",
-        "title": "【市況】 今日の注目スケジュール：工作機械受注、米FHFA住宅価格指数、米消費者信頼感指数など",
-        "source": "株探",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6Vzg4ZlFrRHFUS1hyRUJHOW9sM2hkUkdFcWVhb1g1dTQxRzB6UHhYSmpMWGJnclJZS2M3eXZIejE4RGVVQ1hwVnQ2dXdmUUdBS3FvQURkaV9MT1hBTzZCMQ?oc=5",
-        "publishedAt": "2026-05-25T21:30:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96bmEwYWc3OXlkeFNoRmJ4bTNNejZmX3VvU2RleE5UR01NWFo5bm5sM3dMVVMtMnlQRDBlOHpYOEtKV3ZwWjkzU2gtV1c4TkVsMmhiR0VncVh1ZDNuRC1wV2d6cE92aWl1S0JXOQ?oc=5",
+        "publishedAt": "2026-05-26T08:52:24.000Z"
       },
       {
         "time": "13:15",
@@ -31,11 +24,11 @@
         "publishedAt": "2026-05-26T04:15:00.000Z"
       },
       {
-        "time": "19:51",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CU1BLa2VWVXpmSDVJT2VDX2RvUENudjVBYzRFeThqZ3V0cDAwX0lBMVhjazZnS182eW1vcVVCZVBObG5McVFYYUJaa2NsLWJLWFYzVkdyckZOUVRiSS1xVU5vakxFVjRfRWVqNGFIeTd1NjRx?oc=5",
-        "publishedAt": "2026-05-26T10:51:26.000Z"
+        "time": "06:30",
+        "title": "【市況】 今日の注目スケジュール：工作機械受注、米FHFA住宅価格指数、米消費者信頼感指数など",
+        "source": "かぶたん",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6Vzg4ZlFrRHFUS1hyRUJHOW9sM2hkUkdFcWVhb1g1dTQxRzB6UHhYSmpMWGJnclJZS2M3eXZIejE4RGVVQ1hwVnQ2dXdmUUdBS3FvQURkaV9MT1hBTzZCMQ?oc=5",
+        "publishedAt": "2026-05-25T21:30:00.000Z"
       },
       {
         "time": "06:45",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-05-25T21:45:00.000Z"
       },
       {
-        "time": "17:52",
-        "title": "マザック財団、工作機械関連の研究21件に助成 総額1650万円",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96bmEwYWc3OXlkeFNoRmJ4bTNNejZmX3VvU2RleE5UR01NWFo5bm5sM3dMVVMtMnlQRDBlOHpYOEtKV3ZwWjkzU2gtV1c4TkVsMmhiR0VncVh1ZDNuRC1wV2d6cE92aWl1S0JXOQ?oc=5",
-        "publishedAt": "2026-05-26T08:52:24.000Z"
-      },
-      {
         "time": "12:39",
         "title": "第21回 切削加工ドリームコンテスト",
         "source": "Koubo",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YMFYwbGpJTkk1UDY5UElsU2VmUlVmblZSRXU3U1pLbjh6Q0N5OVhsel9INm5kcmIybEVaaHpueWdyNHJLWWc?oc=5",
         "publishedAt": "2026-05-26T03:39:38.000Z"
+      },
+      {
+        "time": "09:55",
+        "title": "芝浦機械がストップ安気配､27年3月期は3％営業減益予想",
+        "source": "会社四季報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53Tnd1Ukpnajh6eklzMUs5ZUp3YndqTzhrVEVKV2xkZlphNGdOWlR6dk1NRzJZQXdEUzJCb19hN25BYWlrblpoekNmSEpRTHA0OUFLOW9GZw?oc=5",
+        "publishedAt": "2026-05-26T00:55:50.000Z"
+      },
+      {
+        "time": "15:38",
+        "title": "4月の工作機械受注45%増 国内で上向き傾向、DC関連が寄与",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDb19qVVBrOXljTld4QnhaNXdjd3dFUnNzSmppUnRIMUZiNEJHZWlTTEdJS1FEQU5hb2p6N2JHVHBGeHQ5UDdraDFMdGQ4aTdVT2ZxblVadGtDMVE2el96eDFPZVBON2JudDFrRQ?oc=5",
+        "publishedAt": "2026-05-26T06:38:41.000Z"
       }
     ],
     "worldHeadlines": [
