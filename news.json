@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-05-26T15:49:31.602Z",
+  "updatedAt": "2026-05-26T17:14:47.622Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "15:38",
-        "title": "4月の工作機械受注45%増 国内で上向き傾向、DC関連が寄与",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDb19qVVBrOXljTld4QnhaNXdjd3dFUnNzSmppUnRIMUZiNEJHZWlTTEdJS1FEQU5hb2p6N2JHVHBGeHQ5UDdraDFMdGQ4aTdVT2ZxblVadGtDMVE2el96eDFPZVBON2JudDFrRQ?oc=5",
-        "publishedAt": "2026-05-26T06:38:41.000Z"
-      },
       {
         "time": "17:00",
         "title": "4月の工作機械受注、45％増の1889億6700万円 DC・半導体関連伸び顕著",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kVnllMUVGZzJaSDZUVEpFM1J0RjJ1NDJRWlVMNTg4SDBkVG0xWXlpSEs4U09TMlExaEZBOFlsWUtsVUVPLXpydld0cDRiMnJoWVh3bUFnaHlLblU?oc=5",
         "publishedAt": "2026-05-26T08:00:00.000Z"
+      },
+      {
+        "time": "15:38",
+        "title": "4月の工作機械受注45%増 国内で上向き傾向、DC関連が寄与",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDb19qVVBrOXljTld4QnhaNXdjd3dFUnNzSmppUnRIMUZiNEJHZWlTTEdJS1FEQU5hb2p6N2JHVHBGeHQ5UDdraDFMdGQ4aTdVT2ZxblVadGtDMVE2el96eDFPZVBON2JudDFrRQ?oc=5",
+        "publishedAt": "2026-05-26T06:38:41.000Z"
       },
       {
         "time": "06:30",
@@ -29,6 +29,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CWVZpZ3ZLQUZldHRxVkVadEFjMWt2UlhFb3ZFQ0lpT2xwTlVXMmFHZWU4cFJFR0RQM3lqRGVSZlYtTkozTHVDVlVuanFMNFhIWF9kVjVhdWU4ZU1Ga0JsajdxOHM5U1lGX3FHRGEzWQ?oc=5",
         "publishedAt": "2026-05-26T04:15:00.000Z"
+      },
+      {
+        "time": "19:51",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CU1BLa2VWVXpmSDVJT2VDX2RvUENudjVBYzRFeThqZ3V0cDAwX0lBMVhjazZnS182eW1vcVVCZVBObG5McVFYYUJaa2NsLWJLWFYzVkdyckZOUVRiSS1xVU5vakxFVjRfRWVqNGFIeTd1NjRx?oc=5",
+        "publishedAt": "2026-05-26T10:51:26.000Z"
       },
       {
         "time": "06:45",
@@ -50,13 +57,6 @@
         "source": "Koubo",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YMFYwbGpJTkk1UDY5UElsU2VmUlVmblZSRXU3U1pLbjh6Q0N5OVhsel9INm5kcmIybEVaaHpueWdyNHJLWWc?oc=5",
         "publishedAt": "2026-05-26T03:39:38.000Z"
-      },
-      {
-        "time": "09:55",
-        "title": "芝浦機械がストップ安気配､27年3月期は3％営業減益予想",
-        "source": "会社四季報オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53Tnd1Ukpnajh6eklzMUs5ZUp3YndqTzhrVEVKV2xkZlphNGdOWlR6dk1NRzJZQXdEUzJCb19hN25BYWlrblpoekNmSEpRTHA0OUFLOW9GZw?oc=5",
-        "publishedAt": "2026-05-26T00:55:50.000Z"
       }
     ],
     "worldHeadlines": [
