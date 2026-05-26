@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-26T07:27:32.586Z",
+  "updatedAt": "2026-05-26T08:44:34.978Z",
   "items": [
     {
-      "time": "13:32",
-      "title": "政府 南米関税同盟とEPA交渉へ",
+      "time": "16:39",
+      "title": "1票の格差訴訟 広島高裁2件は合憲",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581761?source=rss",
-      "publishedAt": "2026-05-26T04:32:29.000Z",
-      "xQuery": "政府 南米関税同盟とEPA交渉へ"
+      "url": "https://news.yahoo.co.jp/pickup/6581777?source=rss",
+      "publishedAt": "2026-05-26T07:39:12.000Z",
+      "xQuery": "1票の格差訴訟 広島高裁2件は合憲"
     },
     {
       "time": "13:50",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "防衛巡る中国の日本批判 対策3つ"
     },
     {
-      "time": "13:53",
-      "title": "エボラ出血熱巡り現地で騒乱 背景",
+      "time": "16:21",
+      "title": "中道離党の亀井亜紀子氏 立憲復党",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581753?source=rss",
-      "publishedAt": "2026-05-26T04:53:15.000Z",
-      "xQuery": "エボラ出血熱巡り現地で騒乱 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6581776?source=rss",
+      "publishedAt": "2026-05-26T07:21:37.000Z",
+      "xQuery": "中道離党の亀井亜紀子氏 立憲復党"
     },
     {
-      "time": "13:31",
-      "title": "工事現場でセメントかぶり2人死亡",
+      "time": "16:48",
+      "title": "小学生10人に性加害 被告側が上告",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581760?source=rss",
-      "publishedAt": "2026-05-26T04:31:33.000Z",
-      "xQuery": "工事現場でセメントかぶり2人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6581782?source=rss",
+      "publishedAt": "2026-05-26T07:48:36.000Z",
+      "xQuery": "小学生10人に性加害 被告側が上告"
     },
     {
-      "time": "14:38",
-      "title": "自ら志願して中国に 日本の研究者",
+      "time": "15:44",
+      "title": "松下幸之助氏の「AI偽動画」注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581769?source=rss",
-      "publishedAt": "2026-05-26T05:38:26.000Z",
-      "xQuery": "自ら志願して中国に 日本の研究者"
+      "url": "https://news.yahoo.co.jp/pickup/6581773?source=rss",
+      "publishedAt": "2026-05-26T06:44:07.000Z",
+      "xQuery": "松下幸之助氏の「AI偽動画」注意"
     }
   ]
 };

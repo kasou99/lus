@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T07:27:31.830Z",
+  "updatedAt": "2026-05-26T08:44:34.184Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDb19qVVBrOXljTld4QnhaNXdjd3dFUnNzSmppUnRIMUZiNEJHZWlTTEdJS1FEQU5hb2p6N2JHVHBGeHQ5UDdraDFMdGQ4aTdVT2ZxblVadGtDMVE2el96eDFPZVBON2JudDFrRQ?oc=5",
         "publishedAt": "2026-05-26T06:38:41.000Z"
+      },
+      {
+        "time": "17:00",
+        "title": "4月の工作機械受注、45％増の1889億6700万円 DC・半導体関連伸び顕著",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kVnllMUVGZzJaSDZUVEpFM1J0RjJ1NDJRWlVMNTg4SDBkVG0xWXlpSEs4U09TMlExaEZBOFlsWUtsVUVPLXpydld0cDRiMnJoWVh3bUFnaHlLblU?oc=5",
+        "publishedAt": "2026-05-26T08:00:00.000Z"
       },
       {
         "time": "13:15",
@@ -45,17 +52,10 @@
         "publishedAt": "2026-05-26T00:55:50.000Z"
       },
       {
-        "time": "09:36",
-        "title": "経営のこころ（56）佐藤商事社長・野沢哲夫氏 “現場主義”納得の対話",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TYUt3elYyTU9TS0ZiNmNYNXprNHNGYjZxa2tpSHlRbHV1eXl5TjBCVU9MNDdZM1ppU09tVGJmWmJsMVdvOVQ3TDFVR2tEWmt6bk05T2dMc3Y4Tmc?oc=5",
-        "publishedAt": "2026-05-26T00:36:31.000Z"
-      },
-      {
         "time": "10:20",
         "title": "旧国鉄のマルスシステムがIEEEマイルストーンに認定 授賞式典を開催",
         "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JM3c0aHVTQk95VWh0MkdiVzZmcEZjelJyNXpoR2g4ay1LdVMzazdCcVlSRzR0X0hFY2VaLU1PY3lvSlpzTnpncWVsLTJKRFRTMzFVTg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRG8wa2tsdlZnVV9BXzJuT3EtNmdEeGdkcm9ya2QtS0RMTG1fQjZEa2Q4WFdCTmlmY19xM2tvRE9OX0txakRYX3BwNmMyYUoyTmI0aWN1U1lIVEJ3bXdPSGtLTEE?oc=5",
         "publishedAt": "2026-05-26T01:20:00.000Z"
       }
     ],
@@ -75,11 +75,11 @@
         "publishedAt": "2026-05-26T04:50:31.000Z"
       },
       {
-        "time": "08:54",
-        "title": "イスラエル レバノン攻撃強化表明",
+        "time": "17:42",
+        "title": "習氏が半年以上外遊ゼロ 識者指摘",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581717?source=rss",
-        "publishedAt": "2026-05-25T23:54:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581792?source=rss",
+        "publishedAt": "2026-05-26T08:42:27.000Z"
       },
       {
         "time": "13:53",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "17:09",
+        "title": "今夏も省エネ呼びかけ 赤沢経産相",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581785?source=rss",
+        "publishedAt": "2026-05-26T08:09:05.000Z"
+      },
+      {
         "time": "11:29",
         "title": "プルデンシャル生命 補償に47億円",
         "source": "Yahoo!ニュース",
@@ -126,25 +133,18 @@
         "publishedAt": "2026-05-25T13:23:27.000Z"
       },
       {
+        "time": "17:27",
+        "title": "かつて若者文化の象徴 閉店相次ぐ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581787?source=rss",
+        "publishedAt": "2026-05-26T08:27:29.000Z"
+      },
+      {
         "time": "14:27",
         "title": "「20代以下の持ち家率増」現実は",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581767?source=rss",
         "publishedAt": "2026-05-26T05:27:41.000Z"
-      },
-      {
-        "time": "08:16",
-        "title": "Zoffが猛追 変化するメガネ業界",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581709?source=rss",
-        "publishedAt": "2026-05-25T23:16:10.000Z"
-      },
-      {
-        "time": "09:08",
-        "title": "マック注文端末巡り物議 広報回答",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581721?source=rss",
-        "publishedAt": "2026-05-26T00:08:27.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,25 +170,25 @@
         "publishedAt": "2026-05-26T00:33:54.000Z"
       },
       {
-        "time": "13:31",
-        "title": "工事現場でセメントかぶり2人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581760?source=rss",
-        "publishedAt": "2026-05-26T04:31:33.000Z"
-      },
-      {
-        "time": "12:47",
-        "title": "集団暴行死 男が証言を拒否し退廷",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581757?source=rss",
-        "publishedAt": "2026-05-26T03:47:09.000Z"
-      },
-      {
         "time": "12:52",
         "title": "バス事故 会社担当者が日当を用意",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581756?source=rss",
         "publishedAt": "2026-05-26T03:52:35.000Z"
+      },
+      {
+        "time": "16:48",
+        "title": "小学生10人に性加害 被告側が上告",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581782?source=rss",
+        "publishedAt": "2026-05-26T07:48:36.000Z"
+      },
+      {
+        "time": "13:31",
+        "title": "工事現場でセメントかぶり2人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581760?source=rss",
+        "publishedAt": "2026-05-26T04:31:33.000Z"
       }
     ],
     "subsidyHeadlines": [
