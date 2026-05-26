@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-05-26T03:49:05.939Z",
+  "updatedAt": "2026-05-26T05:30:13.240Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:15",
+        "title": "センサーレスで旋削主軸をAI診断、異常の早期検知で突発停止を予防：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CWVZpZ3ZLQUZldHRxVkVadEFjMWt2UlhFb3ZFQ0lpT2xwTlVXMmFHZWU4cFJFR0RQM3lqRGVSZlYtTkozTHVDVlVuanFMNFhIWF9kVjVhdWU4ZU1Ga0JsajdxOHM5U1lGX3FHRGEzWQ?oc=5",
+        "publishedAt": "2026-05-26T04:15:00.000Z"
+      },
       {
         "time": "06:30",
         "title": "【市況】 今日の注目スケジュール：工作機械受注、米FHFA住宅価格指数、米消費者信頼感指数など",
@@ -15,6 +22,13 @@
         "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFLXRMM1FTdWhfd093UFlWSlRqMnJxX1o4TWdlRjl3VVpid0ZKbkpwRWRmbGVObkdxOHgyMnk5YU1UWjhma0MzaUVyWmNFZDFrdXdqdDRUWmV3R3ZBY282dnh5RzN5QXBlQVAxVXhYd2tybFdHcmpR?oc=5",
         "publishedAt": "2026-05-25T21:45:00.000Z"
+      },
+      {
+        "time": "12:39",
+        "title": "第21回 切削加工ドリームコンテスト",
+        "source": "Koubo",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YMFYwbGpJTkk1UDY5UElsU2VmUlVmblZSRXU3U1pLbjh6Q0N5OVhsel9INm5kcmIybEVaaHpueWdyNHJLWWc?oc=5",
+        "publishedAt": "2026-05-26T03:39:38.000Z"
       },
       {
         "time": "09:55",
@@ -38,34 +52,27 @@
         "publishedAt": "2026-05-26T01:20:00.000Z"
       },
       {
-        "time": "19:46",
-        "title": "芝浦機械の純利益94%増 27年3月期、前期のれん減損の反動",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFpZSDdHSXVIWjd4aml2QTc0Sk9ZbFhMT1k4Sm5pcDJzS1BSdmt1SHA1RW9DVXk0R1dYS0FlVU1KcWpvTDFhTXFrbWY2QkJZWFVjUkgyMTRuNVdiQzg3bGhQT0RtMkRsakV0MGdJYm9FVVpNc0VjNVZzaFozb29IQWFob2lzaEkzQXE2Vlkwb184S3BPMXVmb2xLc2I3OS1hY1E?oc=5",
-        "publishedAt": "2026-05-25T10:46:00.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "最大35㎏可搬の人協働ロボットパレタイザ発売",
-        "source": "カーゴニュースオンライン",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tUS1kR2tudWtQdjJPVExFdElySERtSEYwS0huVmFsaFBWZi1ITTV0U19aTmQ3Wjh5VkdJZzhfa2xwUUZtXzJneDdMQWdVc3R6QnF2eDJxSVRvSWJVeXo0?oc=5",
-        "publishedAt": "2026-05-25T21:00:00.000Z"
-      },
-      {
-        "time": "06:40",
-        "title": "本日のスケジュール｜FX・為替ニュース",
-        "source": "ザイFX！",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56RHRaT2EtaTA2djdIMG1QeDhpOVlkN05KQ3ZtX2VYUjZCMXJuY0tjZTdxTWNtY3ZuTjQ5WFJRMXpwckExYVUzQldmQmFGYW80ZGc?oc=5",
-        "publishedAt": "2026-05-25T21:40:00.000Z"
+        "time": "13:03",
+        "title": "高速度鋼チャッキングリーマの世界市場2026年、グローバル市場規模（ストレートフルート型、ヘリカル型）・分析レポートを発表",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4YmNEcWFkdTNlMjNWRnBrVE9DMnhpNEVMalR1VzBxRkZrME45VFo5WDFpN21iUVVBQzVUVkxHOUR1T0g1SUVzdXJDYkdNajFRak1IMlN5X0w5UWJsbmUwT1hUcDZTTnlTN2oxaFFsRHNPUUtQaGg1SWJWOA?oc=5",
+        "publishedAt": "2026-05-26T04:03:23.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "22:57",
-        "title": "米イラン 高濃縮ウランの扱いで溝",
+        "time": "13:26",
+        "title": "北朝鮮が黄海に飛翔体発射 韓国軍",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581691?source=rss",
-        "publishedAt": "2026-05-25T13:57:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581762?source=rss",
+        "publishedAt": "2026-05-26T04:26:18.000Z"
+      },
+      {
+        "time": "13:50",
+        "title": "防衛巡る中国の日本批判 対策3つ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581765?source=rss",
+        "publishedAt": "2026-05-26T04:50:31.000Z"
       },
       {
         "time": "08:54",
@@ -75,18 +82,11 @@
         "publishedAt": "2026-05-25T23:54:05.000Z"
       },
       {
-        "time": "21:00",
-        "title": "習氏が高市氏巡り激高か 中国否定",
+        "time": "13:53",
+        "title": "エボラ出血熱巡り現地で騒乱 背景",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581674?source=rss",
-        "publishedAt": "2026-05-25T12:00:21.000Z"
-      },
-      {
-        "time": "20:48",
-        "title": "トランプ氏 対中融和に転じた背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581672?source=rss",
-        "publishedAt": "2026-05-25T11:48:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581753?source=rss",
+        "publishedAt": "2026-05-26T04:53:15.000Z"
       },
       {
         "time": "12:22",
@@ -119,18 +119,18 @@
         "publishedAt": "2026-05-26T00:06:43.000Z"
       },
       {
-        "time": "18:05",
-        "title": "7&i元会長死去 ローソン社長悼む",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581649?source=rss",
-        "publishedAt": "2026-05-25T09:05:48.000Z"
-      },
-      {
         "time": "22:23",
         "title": "スカイマーク緊急着陸 タイヤ破裂",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581686?source=rss",
         "publishedAt": "2026-05-25T13:23:27.000Z"
+      },
+      {
+        "time": "14:27",
+        "title": "「20代以下の持ち家率増」現実は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581767?source=rss",
+        "publishedAt": "2026-05-26T05:27:41.000Z"
       },
       {
         "time": "08:16",
@@ -170,6 +170,13 @@
         "publishedAt": "2026-05-26T00:33:54.000Z"
       },
       {
+        "time": "13:31",
+        "title": "工事現場でセメントかぶり2人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581760?source=rss",
+        "publishedAt": "2026-05-26T04:31:33.000Z"
+      },
+      {
         "time": "12:47",
         "title": "集団暴行死 男が証言を拒否し退廷",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-05-26T03:47:09.000Z"
       },
       {
-        "time": "11:52",
-        "title": "房総半島沖の津波 被害想定を公表",
+        "time": "12:52",
+        "title": "バス事故 会社担当者が日当を用意",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581738?source=rss",
-        "publishedAt": "2026-05-26T02:52:53.000Z"
-      },
-      {
-        "time": "10:48",
-        "title": "東大病院汚職 贈賄側に有罪判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581733?source=rss",
-        "publishedAt": "2026-05-26T01:48:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581756?source=rss",
+        "publishedAt": "2026-05-26T03:52:35.000Z"
       }
     ],
     "subsidyHeadlines": [

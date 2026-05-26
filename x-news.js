@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-26T03:49:07.064Z",
+  "updatedAt": "2026-05-26T05:30:14.423Z",
   "items": [
     {
-      "time": "11:19",
-      "title": "電気ガス代補助 5000億円支出決定",
+      "time": "13:26",
+      "title": "北朝鮮が黄海に飛翔体発射 韓国軍",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581740?source=rss",
-      "publishedAt": "2026-05-26T02:19:22.000Z",
-      "xQuery": "電気ガス代補助 5000億円支出決定"
+      "url": "https://news.yahoo.co.jp/pickup/6581762?source=rss",
+      "publishedAt": "2026-05-26T04:26:18.000Z",
+      "xQuery": "北朝鮮が黄海に飛翔体発射 韓国軍"
     },
     {
-      "time": "11:52",
-      "title": "房総半島沖の津波 被害想定を公表",
+      "time": "13:43",
+      "title": "ジャズ ソニー・ロリンズさん死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581738?source=rss",
-      "publishedAt": "2026-05-26T02:52:53.000Z",
-      "xQuery": "房総半島沖の津波 被害想定を公表"
+      "url": "https://news.yahoo.co.jp/pickup/6581764?source=rss",
+      "publishedAt": "2026-05-26T04:43:55.000Z",
+      "xQuery": "ジャズ ソニー・ロリンズさん死去"
     },
     {
-      "time": "11:29",
-      "title": "プルデンシャル生命 補償に47億円",
+      "time": "12:47",
+      "title": "集団暴行死 男が証言を拒否し退廷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581741?source=rss",
-      "publishedAt": "2026-05-26T02:29:06.000Z",
-      "xQuery": "プルデンシャル生命 補償に47億円"
+      "url": "https://news.yahoo.co.jp/pickup/6581757?source=rss",
+      "publishedAt": "2026-05-26T03:47:09.000Z",
+      "xQuery": "集団暴行死 男が証言を拒否し退廷"
     },
     {
-      "time": "09:08",
-      "title": "マック注文端末巡り物議 広報回答",
+      "time": "13:31",
+      "title": "工事現場でセメントかぶり2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581721?source=rss",
-      "publishedAt": "2026-05-26T00:08:27.000Z",
-      "xQuery": "マック注文端末巡り物議 広報回答"
+      "url": "https://news.yahoo.co.jp/pickup/6581760?source=rss",
+      "publishedAt": "2026-05-26T04:31:33.000Z",
+      "xQuery": "工事現場でセメントかぶり2人死亡"
     },
     {
-      "time": "11:09",
-      "title": "今年は蚊が多い? 今始めたい対策",
+      "time": "12:46",
+      "title": "韓国スタバに批判 親会社会長謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581737?source=rss",
-      "publishedAt": "2026-05-26T02:09:07.000Z",
-      "xQuery": "今年は蚊が多い? 今始めたい対策"
+      "url": "https://news.yahoo.co.jp/pickup/6581749?source=rss",
+      "publishedAt": "2026-05-26T03:46:34.000Z",
+      "xQuery": "韓国スタバに批判 親会社会長謝罪"
     }
   ]
 };
