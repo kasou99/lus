@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-26T14:24:37.041Z",
+  "updatedAt": "2026-05-26T15:49:32.377Z",
   "items": [
     {
       "time": "22:51",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日韓の防衛協力 ACSAが試金石に"
     },
     {
-      "time": "20:14",
-      "title": "阿部前監督巡る児相対応 識者見解",
+      "time": "23:23",
+      "title": "ソウルで高架道路が崩落 3人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581805?source=rss",
-      "publishedAt": "2026-05-26T11:14:06.000Z",
-      "xQuery": "阿部前監督巡る児相対応 識者見解"
+      "url": "https://news.yahoo.co.jp/pickup/6581828?source=rss",
+      "publishedAt": "2026-05-26T14:23:18.000Z",
+      "xQuery": "ソウルで高架道路が崩落 3人死亡"
     },
     {
       "time": "22:15",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "病院がキャンセル料の請求可能に"
     },
     {
-      "time": "22:17",
-      "title": "MANGO創業者の息子 副社長辞任",
+      "time": "20:14",
+      "title": "阿部前監督巡る児相対応 識者見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581822?source=rss",
-      "publishedAt": "2026-05-26T13:17:16.000Z",
-      "xQuery": "MANGO創業者の息子 副社長辞任"
+      "url": "https://news.yahoo.co.jp/pickup/6581805?source=rss",
+      "publishedAt": "2026-05-26T11:14:06.000Z",
+      "xQuery": "阿部前監督巡る児相対応 識者見解"
     }
   ]
 };
