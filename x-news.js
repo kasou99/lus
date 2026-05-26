@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-26T01:07:06.446Z",
+  "updatedAt": "2026-05-26T02:25:15.835Z",
   "items": [
     {
-      "time": "09:06",
-      "title": "対外純資産 中国に抜かれ3位に",
+      "time": "11:19",
+      "title": "電気ガス代補助 5000億円支出決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581719?source=rss",
-      "publishedAt": "2026-05-26T00:06:43.000Z",
-      "xQuery": "対外純資産 中国に抜かれ3位に"
+      "url": "https://news.yahoo.co.jp/pickup/6581740?source=rss",
+      "publishedAt": "2026-05-26T02:19:22.000Z",
+      "xQuery": "電気ガス代補助 5000億円支出決定"
     },
     {
-      "time": "07:37",
-      "title": "低学年教科書 校長9割「紙」希望",
+      "time": "10:48",
+      "title": "東大病院汚職 贈賄側に有罪判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581704?source=rss",
-      "publishedAt": "2026-05-25T22:37:29.000Z",
-      "xQuery": "低学年教科書 校長9割「紙」希望"
+      "url": "https://news.yahoo.co.jp/pickup/6581733?source=rss",
+      "publishedAt": "2026-05-26T01:48:02.000Z",
+      "xQuery": "東大病院汚職 贈賄側に有罪判決"
     },
     {
       "time": "09:43",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "阿部監督 娘に「カッとなった」"
     },
     {
-      "time": "08:28",
-      "title": "奪った70万円握りしめ 30年逃亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581714?source=rss",
-      "publishedAt": "2026-05-25T23:28:12.000Z",
-      "xQuery": "奪った70万円握りしめ 30年逃亡"
-    },
-    {
       "time": "08:32",
       "title": "「謎の風邪」感染症専門家が解説",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6581713?source=rss",
       "publishedAt": "2026-05-25T23:32:53.000Z",
       "xQuery": "「謎の風邪」感染症専門家が解説"
+    },
+    {
+      "time": "09:08",
+      "title": "マック注文端末巡り物議 広報回答",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581721?source=rss",
+      "publishedAt": "2026-05-26T00:08:27.000Z",
+      "xQuery": "マック注文端末巡り物議 広報回答"
     }
   ]
 };
