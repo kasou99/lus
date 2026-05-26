@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T20:19:18.152Z",
+  "updatedAt": "2026-05-26T21:07:40.662Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,6 +10,13 @@
         "publishedAt": "2026-05-26T20:00:00.000Z"
       },
       {
+        "time": "05:00",
+        "title": "Microsoftが教える”VS CodeをAIコーディングエージェントの制御盤”にするメリット：エンジニアは“AIを指揮する人”へ",
+        "source": "ITmedia",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TVDRjbnV5RWFRSUFmMXFjQXhHZ1p2a29adkNqOU5VWG1qMUNRZXZKNEVjMU9GdEc2bVpFUW54b2VObktXUmdzWEQ3U0o2cWREOGpIY015NHBCVVBsNWhhdTg1Qlg2QlRVWWUxQg?oc=5",
+        "publishedAt": "2026-05-26T20:00:00.000Z"
+      },
+      {
         "time": "17:00",
         "title": "4月の工作機械受注、45％増の1889億6700万円 DC・半導体関連伸び顕著",
         "source": "日刊工業新聞",
@@ -17,11 +24,11 @@
         "publishedAt": "2026-05-26T08:00:00.000Z"
       },
       {
-        "time": "13:15",
-        "title": "センサーレスで旋削主軸をAI診断、異常の早期検知で突発停止を予防：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CWVZpZ3ZLQUZldHRxVkVadEFjMWt2UlhFb3ZFQ0lpT2xwTlVXMmFHZWU4cFJFR0RQM3lqRGVSZlYtTkozTHVDVlVuanFMNFhIWF9kVjVhdWU4ZU1Ga0JsajdxOHM5U1lGX3FHRGEzWQ?oc=5",
-        "publishedAt": "2026-05-26T04:15:00.000Z"
+        "time": "03:40",
+        "title": "毛沢東と文化大革命 写真特集：時事ドットコム",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lZXhyLUpDbUdIdmE0Wk1fZGlmQV95TFdYSi1PMlU0MmdkQUhyV0FING5RWG5SVUx1NnBuYzF0clp3Y0drU3k5bmlmdG1nN3ltZ1d3Sk5IeGpkZ2ROT3p0RVFVdnQ3SlZG?oc=5",
+        "publishedAt": "2026-05-26T18:40:50.000Z"
       },
       {
         "time": "06:30",
@@ -50,13 +57,6 @@
         "source": "Koubo",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YMFYwbGpJTkk1UDY5UElsU2VmUlVmblZSRXU3U1pLbjh6Q0N5OVhsel9INm5kcmIybEVaaHpueWdyNHJLWWc?oc=5",
         "publishedAt": "2026-05-26T03:39:38.000Z"
-      },
-      {
-        "time": "17:52",
-        "title": "マザック財団、工作機械関連の研究21件に助成 総額1650万円",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96bmEwYWc3OXlkeFNoRmJ4bTNNejZmX3VvU2RleE5UR01NWFo5bm5sM3dMVVMtMnlQRDBlOHpYOEtKV3ZwWjkzU2gtV1c4TkVsMmhiR0VncVh1ZDNuRC1wV2d6cE92aWl1S0JXOQ?oc=5",
-        "publishedAt": "2026-05-26T08:52:24.000Z"
       }
     ],
     "worldHeadlines": [
