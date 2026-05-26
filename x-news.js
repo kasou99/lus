@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-26T21:07:41.445Z",
+  "updatedAt": "2026-05-26T22:05:09.545Z",
   "items": [
     {
       "time": "22:51",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日韓の防衛協力 ACSAが試金石に"
     },
     {
-      "time": "23:23",
-      "title": "ソウルで高架道路が崩落 3人死亡",
+      "time": "06:10",
+      "title": "栃木強殺を主導か 40代男に逮捕状",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581828?source=rss",
-      "publishedAt": "2026-05-26T14:23:18.000Z",
-      "xQuery": "ソウルで高架道路が崩落 3人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6581830?source=rss",
+      "publishedAt": "2026-05-26T21:10:56.000Z",
+      "xQuery": "栃木強殺を主導か 40代男に逮捕状"
     },
     {
-      "time": "22:15",
-      "title": "病院がキャンセル料の請求可能に",
+      "time": "06:41",
+      "title": "トランプ氏 健康診断「全て完璧」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581821?source=rss",
-      "publishedAt": "2026-05-26T13:15:58.000Z",
-      "xQuery": "病院がキャンセル料の請求可能に"
+      "url": "https://news.yahoo.co.jp/pickup/6581832?source=rss",
+      "publishedAt": "2026-05-26T21:41:17.000Z",
+      "xQuery": "トランプ氏 健康診断「全て完璧」"
     },
     {
       "time": "20:14",
