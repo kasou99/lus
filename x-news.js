@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-26T10:29:42.869Z",
+  "updatedAt": "2026-05-26T13:16:00.887Z",
   "items": [
     {
-      "time": "18:30",
-      "title": "「国家情報会議」法案 27日成立へ",
+      "time": "20:17",
+      "title": "給付付き税額控除 イメージ案判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581797?source=rss",
-      "publishedAt": "2026-05-26T09:30:27.000Z",
-      "xQuery": "「国家情報会議」法案 27日成立へ"
+      "url": "https://news.yahoo.co.jp/pickup/6581808?source=rss",
+      "publishedAt": "2026-05-26T11:17:42.000Z",
+      "xQuery": "給付付き税額控除 イメージ案判明"
     },
     {
-      "time": "18:32",
-      "title": "母娘殺害事件前後 隣家に男滞在か",
+      "time": "18:56",
+      "title": "議員ボーナス据え置き 衆院で可決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581796?source=rss",
-      "publishedAt": "2026-05-26T09:32:16.000Z",
-      "xQuery": "母娘殺害事件前後 隣家に男滞在か"
+      "url": "https://news.yahoo.co.jp/pickup/6581800?source=rss",
+      "publishedAt": "2026-05-26T09:56:56.000Z",
+      "xQuery": "議員ボーナス据え置き 衆院で可決"
     },
     {
-      "time": "18:17",
-      "title": "旭川17歳殺害 法廷で2本の動画",
+      "time": "20:45",
+      "title": "JAL「月への宅配便」開始へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581794?source=rss",
-      "publishedAt": "2026-05-26T09:17:44.000Z",
-      "xQuery": "旭川17歳殺害 法廷で2本の動画"
+      "url": "https://news.yahoo.co.jp/pickup/6581811?source=rss",
+      "publishedAt": "2026-05-26T11:45:57.000Z",
+      "xQuery": "JAL「月への宅配便」開始へ"
     },
     {
-      "time": "16:48",
-      "title": "小学生10人に性加害 被告側が上告",
+      "time": "20:59",
+      "title": "フェラーリ株価が急落 欧州市場",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581782?source=rss",
-      "publishedAt": "2026-05-26T07:48:36.000Z",
-      "xQuery": "小学生10人に性加害 被告側が上告"
+      "url": "https://news.yahoo.co.jp/pickup/6581813?source=rss",
+      "publishedAt": "2026-05-26T11:59:32.000Z",
+      "xQuery": "フェラーリ株価が急落 欧州市場"
     },
     {
-      "time": "17:27",
-      "title": "かつて若者文化の象徴 閉店相次ぐ",
+      "time": "20:14",
+      "title": "阿部前監督巡る児相対応 識者見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581787?source=rss",
-      "publishedAt": "2026-05-26T08:27:29.000Z",
-      "xQuery": "かつて若者文化の象徴 閉店相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6581805?source=rss",
+      "publishedAt": "2026-05-26T11:14:06.000Z",
+      "xQuery": "阿部前監督巡る児相対応 識者見解"
     }
   ]
 };
