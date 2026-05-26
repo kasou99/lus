@@ -1,37 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-26T13:16:00.887Z",
+  "updatedAt": "2026-05-26T14:24:37.041Z",
   "items": [
     {
-      "time": "20:17",
-      "title": "給付付き税額控除 イメージ案判明",
+      "time": "22:51",
+      "title": "個人情報保護法改正案 衆院を通過",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581808?source=rss",
-      "publishedAt": "2026-05-26T11:17:42.000Z",
-      "xQuery": "給付付き税額控除 イメージ案判明"
+      "url": "https://news.yahoo.co.jp/pickup/6581825?source=rss",
+      "publishedAt": "2026-05-26T13:51:10.000Z",
+      "xQuery": "個人情報保護法改正案 衆院を通過"
     },
     {
-      "time": "18:56",
-      "title": "議員ボーナス据え置き 衆院で可決",
+      "time": "21:36",
+      "title": "日韓の防衛協力 ACSAが試金石に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581800?source=rss",
-      "publishedAt": "2026-05-26T09:56:56.000Z",
-      "xQuery": "議員ボーナス据え置き 衆院で可決"
-    },
-    {
-      "time": "20:45",
-      "title": "JAL「月への宅配便」開始へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581811?source=rss",
-      "publishedAt": "2026-05-26T11:45:57.000Z",
-      "xQuery": "JAL「月への宅配便」開始へ"
-    },
-    {
-      "time": "20:59",
-      "title": "フェラーリ株価が急落 欧州市場",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581813?source=rss",
-      "publishedAt": "2026-05-26T11:59:32.000Z",
-      "xQuery": "フェラーリ株価が急落 欧州市場"
+      "url": "https://news.yahoo.co.jp/pickup/6581790?source=rss",
+      "publishedAt": "2026-05-26T12:36:40.000Z",
+      "xQuery": "日韓の防衛協力 ACSAが試金石に"
     },
     {
       "time": "20:14",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581805?source=rss",
       "publishedAt": "2026-05-26T11:14:06.000Z",
       "xQuery": "阿部前監督巡る児相対応 識者見解"
+    },
+    {
+      "time": "22:15",
+      "title": "病院がキャンセル料の請求可能に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581821?source=rss",
+      "publishedAt": "2026-05-26T13:15:58.000Z",
+      "xQuery": "病院がキャンセル料の請求可能に"
+    },
+    {
+      "time": "22:17",
+      "title": "MANGO創業者の息子 副社長辞任",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581822?source=rss",
+      "publishedAt": "2026-05-26T13:17:16.000Z",
+      "xQuery": "MANGO創業者の息子 副社長辞任"
     }
   ]
 };
