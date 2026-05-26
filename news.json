@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T02:25:15.091Z",
+  "updatedAt": "2026-05-26T03:49:05.939Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-05-26T00:55:50.000Z"
       },
       {
-        "time": "08:00",
-        "title": "電子提供措置事項のうち法令及び定款に基づく 書面交付請求による交付書面に記載しない事項",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQXZNeUt0blpjMC1Zd0cyOHFWbmk4UG8wY1JoTGk1R0dERzR0a01zUFMwR0NkSWx1UnVxN0xsNDg0R3hxS0NXVnQzQXU3MjdIRmVCQ0hCanVYR0R6OGIyeTVGdmVvU0ZHd2JzSWdVUnVnel9EV1JJNE5lUkFGQ3pwU0ZkN2x5Y1FMZFpoRmNrMTU3bTZ4b3NTdG1VQzllQ2xlVHpqVU1VcmFnLWVBQldKUE1pckpBbnd4WXBIV1hnZnBpOTcxdlVJbHFhZVM?oc=5",
-        "publishedAt": "2026-05-25T23:00:00.000Z"
-      },
-      {
         "time": "09:36",
         "title": "経営のこころ（56）佐藤商事社長・野沢哲夫氏 “現場主義”納得の対話",
         "source": "日刊工業新聞",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-05-26T01:20:00.000Z"
       },
       {
-        "time": "10:00",
-        "title": "国策化目前――「フィジカルAI」本命厳選20銘柄リスト【2026年版・保存推奨】｜日本個別株デューデリジェンスセンター",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jWGw2MzdsY3dqY0tZaUVKWUpHVGZSaFAtWmJnbGNOTG5YbkNaODY1Q3JGbjNDTUtBX2p6TXpQSUwwRXRGTGNJWDlkSjhac3pqaFBqRV94LW5YQmc?oc=5",
-        "publishedAt": "2026-05-26T01:00:00.000Z"
-      },
-      {
         "time": "19:46",
         "title": "芝浦機械の純利益94%増 27年3月期、前期のれん減損の反動",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFpZSDdHSXVIWjd4aml2QTc0Sk9ZbFhMT1k4Sm5pcDJzS1BSdmt1SHA1RW9DVXk0R1dYS0FlVU1KcWpvTDFhTXFrbWY2QkJZWFVjUkgyMTRuNVdiQzg3bGhQT0RtMkRsakV0MGdJYm9FVVpNc0VjNVZzaFozb29IQWFob2lzaEkzQXE2Vlkwb184S3BPMXVmb2xLc2I3OS1hY1E?oc=5",
         "publishedAt": "2026-05-25T10:46:00.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "最大35㎏可搬の人協働ロボットパレタイザ発売",
+        "source": "カーゴニュースオンライン",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tUS1kR2tudWtQdjJPVExFdElySERtSEYwS0huVmFsaFBWZi1ITTV0U19aTmQ3Wjh5VkdJZzhfa2xwUUZtXzJneDdMQWdVc3R6QnF2eDJxSVRvSWJVeXo0?oc=5",
+        "publishedAt": "2026-05-25T21:00:00.000Z"
+      },
+      {
+        "time": "06:40",
+        "title": "本日のスケジュール｜FX・為替ニュース",
+        "source": "ザイFX！",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56RHRaT2EtaTA2djdIMG1QeDhpOVlkN05KQ3ZtX2VYUjZCMXJuY0tjZTdxTWNtY3ZuTjQ5WFJRMXpwckExYVUzQldmQmFGYW80ZGc?oc=5",
+        "publishedAt": "2026-05-25T21:40:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,13 +66,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581691?source=rss",
         "publishedAt": "2026-05-25T13:57:00.000Z"
-      },
-      {
-        "time": "15:24",
-        "title": "米イラン ホルムズと核に食い違い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581613?source=rss",
-        "publishedAt": "2026-05-25T06:24:53.000Z"
       },
       {
         "time": "08:54",
@@ -96,14 +89,28 @@
         "publishedAt": "2026-05-25T11:48:04.000Z"
       },
       {
-        "time": "12:53",
-        "title": "政権批判する芸人追放 露の現状は",
+        "time": "12:22",
+        "title": "SNSのいさかいで少年を刺殺か 仏",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581576?source=rss",
-        "publishedAt": "2026-05-25T03:53:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581748?source=rss",
+        "publishedAt": "2026-05-26T03:22:28.000Z"
+      },
+      {
+        "time": "09:56",
+        "title": "ローマ教皇 AIの兵器利用に警鐘",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581727?source=rss",
+        "publishedAt": "2026-05-26T00:56:34.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "11:29",
+        "title": "プルデンシャル生命 補償に47億円",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581741?source=rss",
+        "publishedAt": "2026-05-26T02:29:06.000Z"
+      },
       {
         "time": "09:06",
         "title": "対外純資産 中国に抜かれ3位に",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581721?source=rss",
         "publishedAt": "2026-05-26T00:08:27.000Z"
-      },
-      {
-        "time": "17:52",
-        "title": "関西最高額マンション販売 40億円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581643?source=rss",
-        "publishedAt": "2026-05-25T08:52:06.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,11 +170,18 @@
         "publishedAt": "2026-05-26T00:33:54.000Z"
       },
       {
-        "time": "06:57",
-        "title": "住宅で72歳死亡 出頭した息子逮捕",
+        "time": "12:47",
+        "title": "集団暴行死 男が証言を拒否し退廷",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581699?source=rss",
-        "publishedAt": "2026-05-25T21:57:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581757?source=rss",
+        "publishedAt": "2026-05-26T03:47:09.000Z"
+      },
+      {
+        "time": "11:52",
+        "title": "房総半島沖の津波 被害想定を公表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581738?source=rss",
+        "publishedAt": "2026-05-26T02:52:53.000Z"
       },
       {
         "time": "10:48",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581733?source=rss",
         "publishedAt": "2026-05-26T01:48:02.000Z"
-      },
-      {
-        "time": "08:28",
-        "title": "奪った70万円握りしめ 30年逃亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581714?source=rss",
-        "publishedAt": "2026-05-25T23:28:12.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-26T02:25:15.835Z",
+  "updatedAt": "2026-05-26T03:49:07.064Z",
   "items": [
     {
       "time": "11:19",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "電気ガス代補助 5000億円支出決定"
     },
     {
-      "time": "10:48",
-      "title": "東大病院汚職 贈賄側に有罪判決",
+      "time": "11:52",
+      "title": "房総半島沖の津波 被害想定を公表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581733?source=rss",
-      "publishedAt": "2026-05-26T01:48:02.000Z",
-      "xQuery": "東大病院汚職 贈賄側に有罪判決"
+      "url": "https://news.yahoo.co.jp/pickup/6581738?source=rss",
+      "publishedAt": "2026-05-26T02:52:53.000Z",
+      "xQuery": "房総半島沖の津波 被害想定を公表"
     },
     {
-      "time": "09:43",
-      "title": "阿部監督 娘に「カッとなった」",
+      "time": "11:29",
+      "title": "プルデンシャル生命 補償に47億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581725?source=rss",
-      "publishedAt": "2026-05-26T00:43:54.000Z",
-      "xQuery": "阿部監督 娘に「カッとなった」"
-    },
-    {
-      "time": "08:32",
-      "title": "「謎の風邪」感染症専門家が解説",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581713?source=rss",
-      "publishedAt": "2026-05-25T23:32:53.000Z",
-      "xQuery": "「謎の風邪」感染症専門家が解説"
+      "url": "https://news.yahoo.co.jp/pickup/6581741?source=rss",
+      "publishedAt": "2026-05-26T02:29:06.000Z",
+      "xQuery": "プルデンシャル生命 補償に47億円"
     },
     {
       "time": "09:08",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581721?source=rss",
       "publishedAt": "2026-05-26T00:08:27.000Z",
       "xQuery": "マック注文端末巡り物議 広報回答"
+    },
+    {
+      "time": "11:09",
+      "title": "今年は蚊が多い? 今始めたい対策",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581737?source=rss",
+      "publishedAt": "2026-05-26T02:09:07.000Z",
+      "xQuery": "今年は蚊が多い? 今始めたい対策"
     }
   ]
 };
