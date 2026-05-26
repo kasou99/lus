@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-26T22:05:09.545Z",
+  "updatedAt": "2026-05-26T22:56:43.756Z",
   "items": [
     {
-      "time": "22:51",
-      "title": "個人情報保護法改正案 衆院を通過",
+      "time": "07:31",
+      "title": "鹿児島 線状降水帯発生の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581825?source=rss",
-      "publishedAt": "2026-05-26T13:51:10.000Z",
-      "xQuery": "個人情報保護法改正案 衆院を通過"
+      "url": "https://news.yahoo.co.jp/pickup/6581837?source=rss",
+      "publishedAt": "2026-05-26T22:31:10.000Z",
+      "xQuery": "鹿児島 線状降水帯発生の恐れ"
     },
     {
-      "time": "21:36",
-      "title": "日韓の防衛協力 ACSAが試金石に",
+      "time": "07:35",
+      "title": "首相 再審制度「反省のもと改善」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581790?source=rss",
-      "publishedAt": "2026-05-26T12:36:40.000Z",
-      "xQuery": "日韓の防衛協力 ACSAが試金石に"
+      "url": "https://news.yahoo.co.jp/pickup/6581839?source=rss",
+      "publishedAt": "2026-05-26T22:35:56.000Z",
+      "xQuery": "首相 再審制度「反省のもと改善」"
     },
     {
       "time": "06:10",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "栃木強殺を主導か 40代男に逮捕状"
     },
     {
-      "time": "06:41",
-      "title": "トランプ氏 健康診断「全て完璧」",
+      "time": "07:14",
+      "title": "日系企業の米工場で爆発 死傷者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581832?source=rss",
-      "publishedAt": "2026-05-26T21:41:17.000Z",
-      "xQuery": "トランプ氏 健康診断「全て完璧」"
+      "url": "https://news.yahoo.co.jp/pickup/6581835?source=rss",
+      "publishedAt": "2026-05-26T22:14:44.000Z",
+      "xQuery": "日系企業の米工場で爆発 死傷者"
     },
     {
-      "time": "20:14",
-      "title": "阿部前監督巡る児相対応 識者見解",
+      "time": "07:11",
+      "title": "駐車場で事故 運転代わり再び事故",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581805?source=rss",
-      "publishedAt": "2026-05-26T11:14:06.000Z",
-      "xQuery": "阿部前監督巡る児相対応 識者見解"
+      "url": "https://news.yahoo.co.jp/pickup/6581834?source=rss",
+      "publishedAt": "2026-05-26T22:11:10.000Z",
+      "xQuery": "駐車場で事故 運転代わり再び事故"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T22:05:08.566Z",
+  "updatedAt": "2026-05-26T22:56:42.701Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tSDFDMGtmdUFzdVdzbnhvZ0QweklFNXdiRFR1UWR1OTdpY1pRZS1aN2cwMXJuMlVfbXNOdmw4eXMxdVpYX3dQQl96NmpaRnhDV1F2Yi1XendVV012WG5HWnhjcjlxU1llcVVRVVFYWmhKaGswZ0x1a0NIVmEwck0?oc=5",
         "publishedAt": "2026-05-26T20:00:00.000Z"
+      },
+      {
+        "time": "06:20",
+        "title": "〈工作機械受注〉4月は驚異の前年比45.1％増､額は1889億円で過去2番目!データセンター関連など空前の受注規模が継続",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LcFFPeDRZb2ZSbFBMYzVqT255VEpNNEdhdHFZUi04VUdfRnA5eFItaXpSMlQtTWVVV21ydVNNZ3Jkc29yREZIdzZES08wZ2FRaG1qM1JpVDF4NnRuU2ow?oc=5",
+        "publishedAt": "2026-05-26T21:20:00.000Z"
       },
       {
         "time": "05:00",
@@ -50,22 +57,29 @@
         "source": "Koubo",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YMFYwbGpJTkk1UDY5UElsU2VmUlVmblZSRXU3U1pLbjh6Q0N5OVhsel9INm5kcmIybEVaaHpueWdyNHJLWWc?oc=5",
         "publishedAt": "2026-05-26T03:39:38.000Z"
-      },
-      {
-        "time": "09:55",
-        "title": "芝浦機械がストップ安気配､27年3月期は3％営業減益予想",
-        "source": "会社四季報オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53Tnd1Ukpnajh6eklzMUs5ZUp3YndqTzhrVEVKV2xkZlphNGdOWlR6dk1NRzJZQXdEUzJCb19hN25BYWlrblpoekNmSEpRTHA0OUFLOW9GZw?oc=5",
-        "publishedAt": "2026-05-26T00:55:50.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:42",
+        "title": "トランプ氏苦境「譲歩」余儀なく",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581840?source=rss",
+        "publishedAt": "2026-05-26T22:42:13.000Z"
+      },
       {
         "time": "13:50",
         "title": "防衛巡る中国の日本批判 対策3つ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581765?source=rss",
         "publishedAt": "2026-05-26T04:50:31.000Z"
+      },
+      {
+        "time": "07:14",
+        "title": "日系企業の米工場で爆発 死傷者",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581835?source=rss",
+        "publishedAt": "2026-05-26T22:14:44.000Z"
       },
       {
         "time": "17:42",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581828?source=rss",
         "publishedAt": "2026-05-26T14:23:18.000Z"
-      },
-      {
-        "time": "22:17",
-        "title": "MANGO創業者の息子 副社長辞任",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581822?source=rss",
-        "publishedAt": "2026-05-26T13:17:16.000Z"
-      },
-      {
-        "time": "06:41",
-        "title": "トランプ氏 健康診断「全て完璧」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581832?source=rss",
-        "publishedAt": "2026-05-26T21:41:17.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-05-26T21:10:56.000Z"
       },
       {
-        "time": "18:17",
-        "title": "旭川17歳殺害 法廷で2本の動画",
+        "time": "07:31",
+        "title": "鹿児島 線状降水帯発生の恐れ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581794?source=rss",
-        "publishedAt": "2026-05-26T09:17:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581837?source=rss",
+        "publishedAt": "2026-05-26T22:31:10.000Z"
       },
       {
-        "time": "18:32",
-        "title": "母娘殺害事件前後 隣家に男滞在か",
+        "time": "07:11",
+        "title": "駐車場で事故 運転代わり再び事故",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581796?source=rss",
-        "publishedAt": "2026-05-26T09:32:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581834?source=rss",
+        "publishedAt": "2026-05-26T22:11:10.000Z"
       },
       {
         "time": "20:11",
