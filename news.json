@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T22:56:42.701Z",
+  "updatedAt": "2026-05-26T23:32:11.300Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-05-26T08:00:00.000Z"
       },
       {
-        "time": "03:40",
-        "title": "毛沢東と文化大革命 写真特集：時事ドットコム",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lZXhyLUpDbUdIdmE0Wk1fZGlmQV95TFdYSi1PMlU0MmdkQUhyV0FING5RWG5SVUx1NnBuYzF0clp3Y0drU3k5bmlmdG1nN3ltZ1d3Sk5IeGpkZ2ROT3p0RVFVdnQ3SlZG?oc=5",
-        "publishedAt": "2026-05-26T18:40:50.000Z"
-      },
-      {
         "time": "05:00",
         "title": "工作機械の発熱、油で冷ます 前橋の関東精機が半導体向け機器増産",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aS0hnVUNHS2VjT2Q2MjhfQkZiZXlCTEF5TkJZNXo5aG1OSlVqUUhpY0VpQk5wVFlmUDF1RHFoRWpDelVuVWVxX1FlbFVrVVE3c083MWxydzlzc3p4blhuVDNZYXN3NklDeGxHQw?oc=5",
         "publishedAt": "2026-05-26T20:00:00.000Z"
+      },
+      {
+        "time": "03:40",
+        "title": "毛沢東と文化大革命 写真特集：時事ドットコム",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lZXhyLUpDbUdIdmE0Wk1fZGlmQV95TFdYSi1PMlU0MmdkQUhyV0FING5RWG5SVUx1NnBuYzF0clp3Y0drU3k5bmlmdG1nN3ltZ1d3Sk5IeGpkZ2ROT3p0RVFVdnQ3SlZG?oc=5",
+        "publishedAt": "2026-05-26T18:40:50.000Z"
       },
       {
         "time": "05:06",
@@ -170,13 +170,6 @@
         "publishedAt": "2026-05-26T22:11:10.000Z"
       },
       {
-        "time": "20:11",
-        "title": "モームリ元社長ら 起訴内容認める",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581803?source=rss",
-        "publishedAt": "2026-05-26T11:11:50.000Z"
-      },
-      {
         "time": "22:12",
         "title": "祖母の車が壁衝突 同乗の5歳重体",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581812?source=rss",
         "publishedAt": "2026-05-26T12:02:13.000Z"
+      },
+      {
+        "time": "08:05",
+        "title": "千葉・市川 モスクの公園使用可に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581842?source=rss",
+        "publishedAt": "2026-05-26T23:05:38.000Z"
       }
     ],
     "subsidyHeadlines": [

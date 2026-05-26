@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-26T22:56:43.756Z",
+  "updatedAt": "2026-05-26T23:32:12.132Z",
   "items": [
-    {
-      "time": "07:31",
-      "title": "鹿児島 線状降水帯発生の恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581837?source=rss",
-      "publishedAt": "2026-05-26T22:31:10.000Z",
-      "xQuery": "鹿児島 線状降水帯発生の恐れ"
-    },
     {
       "time": "07:35",
       "title": "首相 再審制度「反省のもと改善」",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581830?source=rss",
       "publishedAt": "2026-05-26T21:10:56.000Z",
       "xQuery": "栃木強殺を主導か 40代男に逮捕状"
+    },
+    {
+      "time": "08:05",
+      "title": "千葉・市川 モスクの公園使用可に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581842?source=rss",
+      "publishedAt": "2026-05-26T23:05:38.000Z",
+      "xQuery": "千葉・市川 モスクの公園使用可に"
     },
     {
       "time": "07:14",
