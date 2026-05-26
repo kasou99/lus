@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-05-26T08:44:34.184Z",
+  "updatedAt": "2026-05-26T10:29:42.172Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "15:38",
-        "title": "4月の工作機械受注45%増 国内で上向き傾向、DC関連が寄与",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDb19qVVBrOXljTld4QnhaNXdjd3dFUnNzSmppUnRIMUZiNEJHZWlTTEdJS1FEQU5hb2p6N2JHVHBGeHQ5UDdraDFMdGQ4aTdVT2ZxblVadGtDMVE2el96eDFPZVBON2JudDFrRQ?oc=5",
-        "publishedAt": "2026-05-26T06:38:41.000Z"
-      },
       {
         "time": "17:00",
         "title": "4月の工作機械受注、45％増の1889億6700万円 DC・半導体関連伸び顕著",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kVnllMUVGZzJaSDZUVEpFM1J0RjJ1NDJRWlVMNTg4SDBkVG0xWXlpSEs4U09TMlExaEZBOFlsWUtsVUVPLXpydld0cDRiMnJoWVh3bUFnaHlLblU?oc=5",
         "publishedAt": "2026-05-26T08:00:00.000Z"
+      },
+      {
+        "time": "17:52",
+        "title": "マザック財団、工作機械関連の研究21件に助成 総額1650万円",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96bmEwYWc3OXlkeFNoRmJ4bTNNejZmX3VvU2RleE5UR01NWFo5bm5sM3dMVVMtMnlQRDBlOHpYOEtKV3ZwWjkzU2gtV1c4TkVsMmhiR0VncVh1ZDNuRC1wV2d6cE92aWl1S0JXOQ?oc=5",
+        "publishedAt": "2026-05-26T08:52:24.000Z"
       },
       {
         "time": "13:15",
@@ -38,6 +38,13 @@
         "publishedAt": "2026-05-25T21:45:00.000Z"
       },
       {
+        "time": "15:38",
+        "title": "4月の工作機械受注45%増 国内で上向き傾向、DC関連が寄与",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDb19qVVBrOXljTld4QnhaNXdjd3dFUnNzSmppUnRIMUZiNEJHZWlTTEdJS1FEQU5hb2p6N2JHVHBGeHQ5UDdraDFMdGQ4aTdVT2ZxblVadGtDMVE2el96eDFPZVBON2JudDFrRQ?oc=5",
+        "publishedAt": "2026-05-26T06:38:41.000Z"
+      },
+      {
         "time": "12:39",
         "title": "第21回 切削加工ドリームコンテスト",
         "source": "Koubo",
@@ -50,13 +57,6 @@
         "source": "会社四季報オンライン",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53Tnd1Ukpnajh6eklzMUs5ZUp3YndqTzhrVEVKV2xkZlphNGdOWlR6dk1NRzJZQXdEUzJCb19hN25BYWlrblpoekNmSEpRTHA0OUFLOW9GZw?oc=5",
         "publishedAt": "2026-05-26T00:55:50.000Z"
-      },
-      {
-        "time": "10:20",
-        "title": "旧国鉄のマルスシステムがIEEEマイルストーンに認定 授賞式典を開催",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRG8wa2tsdlZnVV9BXzJuT3EtNmdEeGdkcm9ya2QtS0RMTG1fQjZEa2Q4WFdCTmlmY19xM2tvRE9OX0txakRYX3BwNmMyYUoyTmI0aWN1U1lIVEJ3bXdPSGtLTEE?oc=5",
-        "publishedAt": "2026-05-26T01:20:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,13 +126,6 @@
         "publishedAt": "2026-05-26T00:06:43.000Z"
       },
       {
-        "time": "22:23",
-        "title": "スカイマーク緊急着陸 タイヤ破裂",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581686?source=rss",
-        "publishedAt": "2026-05-25T13:23:27.000Z"
-      },
-      {
         "time": "17:27",
         "title": "かつて若者文化の象徴 閉店相次ぐ",
         "source": "Yahoo!ニュース",
@@ -145,16 +138,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581767?source=rss",
         "publishedAt": "2026-05-26T05:27:41.000Z"
+      },
+      {
+        "time": "18:15",
+        "title": "学食が苦境直面 問題点を識者指摘",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581795?source=rss",
+        "publishedAt": "2026-05-26T09:15:51.000Z"
       }
     ],
     "localHeadlines": [
-      {
-        "time": "06:47",
-        "title": "G阿部監督を釈放 暴行疑いで逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581698?source=rss",
-        "publishedAt": "2026-05-25T21:47:09.000Z"
-      },
       {
         "time": "09:43",
         "title": "阿部監督 娘に「カッとなった」",
@@ -163,11 +156,18 @@
         "publishedAt": "2026-05-26T00:43:54.000Z"
       },
       {
-        "time": "09:33",
-        "title": "兵庫親子殺害 男は着替えて逃走か",
+        "time": "18:17",
+        "title": "旭川17歳殺害 法廷で2本の動画",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581724?source=rss",
-        "publishedAt": "2026-05-26T00:33:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581794?source=rss",
+        "publishedAt": "2026-05-26T09:17:44.000Z"
+      },
+      {
+        "time": "18:32",
+        "title": "母娘殺害事件前後 隣家に男滞在か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581796?source=rss",
+        "publishedAt": "2026-05-26T09:32:16.000Z"
       },
       {
         "time": "12:52",

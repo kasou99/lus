@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-26T08:44:34.978Z",
+  "updatedAt": "2026-05-26T10:29:42.869Z",
   "items": [
     {
-      "time": "16:39",
-      "title": "1票の格差訴訟 広島高裁2件は合憲",
+      "time": "18:30",
+      "title": "「国家情報会議」法案 27日成立へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581777?source=rss",
-      "publishedAt": "2026-05-26T07:39:12.000Z",
-      "xQuery": "1票の格差訴訟 広島高裁2件は合憲"
+      "url": "https://news.yahoo.co.jp/pickup/6581797?source=rss",
+      "publishedAt": "2026-05-26T09:30:27.000Z",
+      "xQuery": "「国家情報会議」法案 27日成立へ"
     },
     {
-      "time": "13:50",
-      "title": "防衛巡る中国の日本批判 対策3つ",
+      "time": "18:32",
+      "title": "母娘殺害事件前後 隣家に男滞在か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581765?source=rss",
-      "publishedAt": "2026-05-26T04:50:31.000Z",
-      "xQuery": "防衛巡る中国の日本批判 対策3つ"
+      "url": "https://news.yahoo.co.jp/pickup/6581796?source=rss",
+      "publishedAt": "2026-05-26T09:32:16.000Z",
+      "xQuery": "母娘殺害事件前後 隣家に男滞在か"
     },
     {
-      "time": "16:21",
-      "title": "中道離党の亀井亜紀子氏 立憲復党",
+      "time": "18:17",
+      "title": "旭川17歳殺害 法廷で2本の動画",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581776?source=rss",
-      "publishedAt": "2026-05-26T07:21:37.000Z",
-      "xQuery": "中道離党の亀井亜紀子氏 立憲復党"
+      "url": "https://news.yahoo.co.jp/pickup/6581794?source=rss",
+      "publishedAt": "2026-05-26T09:17:44.000Z",
+      "xQuery": "旭川17歳殺害 法廷で2本の動画"
     },
     {
       "time": "16:48",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "小学生10人に性加害 被告側が上告"
     },
     {
-      "time": "15:44",
-      "title": "松下幸之助氏の「AI偽動画」注意",
+      "time": "17:27",
+      "title": "かつて若者文化の象徴 閉店相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581773?source=rss",
-      "publishedAt": "2026-05-26T06:44:07.000Z",
-      "xQuery": "松下幸之助氏の「AI偽動画」注意"
+      "url": "https://news.yahoo.co.jp/pickup/6581787?source=rss",
+      "publishedAt": "2026-05-26T08:27:29.000Z",
+      "xQuery": "かつて若者文化の象徴 閉店相次ぐ"
     }
   ]
 };
