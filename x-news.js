@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-27T03:52:29.141Z",
+  "updatedAt": "2026-05-27T05:38:03.968Z",
   "items": [
     {
-      "time": "12:44",
-      "title": "「国家情報会議」設置法が成立",
+      "time": "14:23",
+      "title": "スパイ対策本格化 国会前で抗議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581875?source=rss",
-      "publishedAt": "2026-05-27T03:44:53.000Z",
-      "xQuery": "「国家情報会議」設置法が成立"
+      "url": "https://news.yahoo.co.jp/pickup/6581889?source=rss",
+      "publishedAt": "2026-05-27T05:23:58.000Z",
+      "xQuery": "スパイ対策本格化 国会前で抗議"
     },
     {
-      "time": "11:06",
-      "title": "台風6号が発生 日本にも影響か",
+      "time": "11:49",
+      "title": "イスラエル レバノン地上作戦拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581865?source=rss",
-      "publishedAt": "2026-05-27T02:06:20.000Z",
-      "xQuery": "台風6号が発生 日本にも影響か"
+      "url": "https://news.yahoo.co.jp/pickup/6581870?source=rss",
+      "publishedAt": "2026-05-27T02:49:34.000Z",
+      "xQuery": "イスラエル レバノン地上作戦拡大"
     },
     {
-      "time": "09:58",
-      "title": "ロシア 国連安保理で日本を批判",
+      "time": "13:44",
+      "title": "日系企業の米工場で爆発 死傷多数",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581857?source=rss",
-      "publishedAt": "2026-05-27T00:58:32.000Z",
-      "xQuery": "ロシア 国連安保理で日本を批判"
+      "url": "https://news.yahoo.co.jp/pickup/6581883?source=rss",
+      "publishedAt": "2026-05-27T04:44:13.000Z",
+      "xQuery": "日系企業の米工場で爆発 死傷多数"
     },
     {
-      "time": "12:19",
-      "title": "シチズン元幹部逮捕 時計横領疑い",
+      "time": "14:02",
+      "title": "銃撃事件 山健組組長の無罪確定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581873?source=rss",
-      "publishedAt": "2026-05-27T03:19:51.000Z",
-      "xQuery": "シチズン元幹部逮捕 時計横領疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6581885?source=rss",
+      "publishedAt": "2026-05-27T05:02:14.000Z",
+      "xQuery": "銃撃事件 山健組組長の無罪確定"
     },
     {
-      "time": "10:41",
-      "title": "市指定のごみ袋が品薄 怒鳴る客",
+      "time": "13:21",
+      "title": "旭川17歳殺害 共謀の女が状況証言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581861?source=rss",
-      "publishedAt": "2026-05-27T01:41:15.000Z",
-      "xQuery": "市指定のごみ袋が品薄 怒鳴る客"
+      "url": "https://news.yahoo.co.jp/pickup/6581879?source=rss",
+      "publishedAt": "2026-05-27T04:21:34.000Z",
+      "xQuery": "旭川17歳殺害 共謀の女が状況証言"
     }
   ]
 };

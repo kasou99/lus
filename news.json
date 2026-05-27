@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-05-27T03:52:28.593Z",
+  "updatedAt": "2026-05-27T05:38:02.683Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:00",
+        "title": "工作機械用エンコーダーの世界市場（2026年～2032年）、市場規模（インクリメンタルエンコーダ、アブソリュートエンコーダ）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRb0hTSUJsSDZWSThHNWEzYl9wZWlDR1lHa19sM3pLZnUyVEQ2Q3BLc05FdTJCZzg1NnRseldCenJDRW54MlFTbUhhUklFUQ?oc=5",
+        "publishedAt": "2026-05-27T04:00:00.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "スマート統合サーボモーターの世界市場（2026年～2032年）、市場規模（2KW以下、2KW～5KW、5KW以上）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81NU9wLUFTaUtTRVY5a2t1a1JXTjZyTkgtYnVXQk1wLUlBdWRmV2tMYmhqWlRlT1lSNDFES2w1MzZhbEtjZXpMclY0aThuYW8?oc=5",
+        "publishedAt": "2026-05-27T04:00:00.000Z"
+      },
       {
         "time": "05:00",
         "title": "車向け工作機械、4月受注は2.1倍 HV関連投資が後押し",
@@ -42,20 +56,6 @@
         "title": "工作機械の発熱、油で冷ます 前橋の関東精機が半導体向け機器増産",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aS0hnVUNHS2VjT2Q2MjhfQkZiZXlCTEF5TkJZNXo5aG1OSlVqUUhpY0VpQk5wVFlmUDF1RHFoRWpDelVuVWVxX1FlbFVrVVE3c083MWxydzlzc3p4blhuVDNZYXN3NklDeGxHQw?oc=5",
-        "publishedAt": "2026-05-26T20:00:00.000Z"
-      },
-      {
-        "time": "03:40",
-        "title": "毛沢東と文化大革命 写真特集：時事ドットコム",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lZXhyLUpDbUdIdmE0Wk1fZGlmQV95TFdYSi1PMlU0MmdkQUhyV0FING5RWG5SVUx1NnBuYzF0clp3Y0drU3k5bmlmdG1nN3ltZ1d3Sk5IeGpkZ2ROT3p0RVFVdnQ3SlZG?oc=5",
-        "publishedAt": "2026-05-26T18:40:50.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "Microsoftが教える”VS CodeをAIコーディングエージェントの制御盤”にするメリット：エンジニアは“AIを指揮する人”へ",
-        "source": "ITmedia",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TVDRjbnV5RWFRSUFmMXFjQXhHZ1p2a29adkNqOU5VWG1qMUNRZXZKNEVjMU9GdEc2bVpFUW54b2VObktXUmdzWEQ3U0o2cWREOGpIY015NHBCVVBsNWhhdTg1Qlg2QlRVWWUxQg?oc=5",
         "publishedAt": "2026-05-26T20:00:00.000Z"
       }
     ],
@@ -133,27 +133,48 @@
         "publishedAt": "2026-05-26T11:59:32.000Z"
       },
       {
-        "time": "10:19",
-        "title": "六月病 6月前後にモチベ低下など",
+        "time": "14:21",
+        "title": "ナフサは足りている? 矛盾を解説",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581859?source=rss",
-        "publishedAt": "2026-05-27T01:19:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581890?source=rss",
+        "publishedAt": "2026-05-27T05:21:38.000Z"
       },
       {
-        "time": "18:15",
-        "title": "学食が苦境直面 問題点を識者指摘",
+        "time": "10:41",
+        "title": "市指定のごみ袋が品薄 怒鳴る客",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581795?source=rss",
-        "publishedAt": "2026-05-26T09:15:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581861?source=rss",
+        "publishedAt": "2026-05-27T01:41:15.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "14:36",
+        "title": "江別暴行死 被告が当時の心境語る",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581891?source=rss",
+        "publishedAt": "2026-05-27T05:36:02.000Z"
+      },
+      {
+        "time": "13:21",
+        "title": "旭川17歳殺害 共謀の女が状況証言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581879?source=rss",
+        "publishedAt": "2026-05-27T04:21:34.000Z"
+      },
       {
         "time": "06:10",
         "title": "栃木強殺を主導か 40代男に逮捕状",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581830?source=rss",
         "publishedAt": "2026-05-26T21:10:56.000Z"
+      },
+      {
+        "time": "14:02",
+        "title": "銃撃事件 山健組組長の無罪確定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581885?source=rss",
+        "publishedAt": "2026-05-27T05:02:14.000Z"
       },
       {
         "time": "08:52",
@@ -163,32 +184,11 @@
         "publishedAt": "2026-05-26T23:52:57.000Z"
       },
       {
-        "time": "07:31",
-        "title": "鹿児島 線状降水帯発生の恐れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581837?source=rss",
-        "publishedAt": "2026-05-26T22:31:10.000Z"
-      },
-      {
         "time": "08:56",
         "title": "兵庫知事の給与減額案 自民賛成へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581851?source=rss",
         "publishedAt": "2026-05-26T23:56:18.000Z"
-      },
-      {
-        "time": "12:19",
-        "title": "シチズン元幹部逮捕 時計横領疑い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581873?source=rss",
-        "publishedAt": "2026-05-27T03:19:51.000Z"
-      },
-      {
-        "time": "07:11",
-        "title": "駐車場で事故 運転代わり再び事故",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581834?source=rss",
-        "publishedAt": "2026-05-26T22:11:10.000Z"
       }
     ],
     "subsidyHeadlines": [
