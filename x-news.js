@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-27T22:11:51.560Z",
+  "updatedAt": "2026-05-27T23:02:31.773Z",
   "items": [
+    {
+      "time": "07:12",
+      "title": "皇族数確保 取りまとめの原案判明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581969?source=rss",
+      "publishedAt": "2026-05-27T22:12:11.000Z",
+      "xQuery": "皇族数確保 取りまとめの原案判明"
+    },
     {
       "time": "06:46",
       "title": "米大統領 イランとの交渉満足せず",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581968?source=rss",
       "publishedAt": "2026-05-27T21:46:20.000Z",
       "xQuery": "米大統領 イランとの交渉満足せず"
-    },
-    {
-      "time": "23:55",
-      "title": "「副首都」担当相を新設へ 案判明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581963?source=rss",
-      "publishedAt": "2026-05-27T14:55:51.000Z",
-      "xQuery": "「副首都」担当相を新設へ 案判明"
     },
     {
       "time": "21:17",
