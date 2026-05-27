@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-27T20:19:48.305Z",
+  "updatedAt": "2026-05-27T21:13:34.074Z",
   "items": [
     {
       "time": "23:55",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "吊りあげた側溝が落ち頭直撃 死亡"
     },
     {
-      "time": "22:36",
-      "title": "児相保護15歳にわいせつ疑い 逮捕",
+      "time": "21:38",
+      "title": "熱に強い菌 チャーハン症候群注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581956?source=rss",
-      "publishedAt": "2026-05-27T13:36:31.000Z",
-      "xQuery": "児相保護15歳にわいせつ疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6581950?source=rss",
+      "publishedAt": "2026-05-27T12:38:11.000Z",
+      "xQuery": "熱に強い菌 チャーハン症候群注意"
     }
   ]
 };
