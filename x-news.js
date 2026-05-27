@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-27T09:21:41.362Z",
+  "updatedAt": "2026-05-27T10:51:11.776Z",
   "items": [
     {
-      "time": "17:00",
-      "title": "大手賃上げ1万9964円 過去最高に",
+      "time": "19:23",
+      "title": "台風6号北上 今後の進路に注意を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581909?source=rss",
-      "publishedAt": "2026-05-27T08:00:02.000Z",
-      "xQuery": "大手賃上げ1万9964円 過去最高に"
+      "url": "https://news.yahoo.co.jp/pickup/6581932?source=rss",
+      "publishedAt": "2026-05-27T10:23:06.000Z",
+      "xQuery": "台風6号北上 今後の進路に注意を"
     },
     {
-      "time": "15:52",
-      "title": "久留米大医療センター 完全閉鎖へ",
+      "time": "18:54",
+      "title": "高市陣営動画問題 AIを駆使と証言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581899?source=rss",
-      "publishedAt": "2026-05-27T06:52:27.000Z",
-      "xQuery": "久留米大医療センター 完全閉鎖へ"
+      "url": "https://news.yahoo.co.jp/pickup/6581927?source=rss",
+      "publishedAt": "2026-05-27T09:54:26.000Z",
+      "xQuery": "高市陣営動画問題 AIを駆使と証言"
     },
     {
-      "time": "17:59",
-      "title": "母娘殺害 容疑者の新たな画像公開",
+      "time": "19:28",
+      "title": "東大シンクタンク 次々研究者去る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581922?source=rss",
-      "publishedAt": "2026-05-27T08:59:57.000Z",
-      "xQuery": "母娘殺害 容疑者の新たな画像公開"
+      "url": "https://news.yahoo.co.jp/pickup/6581930?source=rss",
+      "publishedAt": "2026-05-27T10:28:19.000Z",
+      "xQuery": "東大シンクタンク 次々研究者去る"
     },
     {
-      "time": "17:53",
-      "title": "フェルメール展 チケは日時指定制",
+      "time": "18:28",
+      "title": "子と会えず自殺 遺族が妻と市提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581921?source=rss",
-      "publishedAt": "2026-05-27T08:53:28.000Z",
-      "xQuery": "フェルメール展 チケは日時指定制"
+      "url": "https://news.yahoo.co.jp/pickup/6581925?source=rss",
+      "publishedAt": "2026-05-27T09:28:39.000Z",
+      "xQuery": "子と会えず自殺 遺族が妻と市提訴"
     },
     {
-      "time": "15:38",
-      "title": "クマ対策アプリ ベアーズ伸び悩み",
+      "time": "18:18",
+      "title": "トクリュウの標的か 住人語る恐怖",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581898?source=rss",
-      "publishedAt": "2026-05-27T06:38:09.000Z",
-      "xQuery": "クマ対策アプリ ベアーズ伸び悩み"
+      "url": "https://news.yahoo.co.jp/pickup/6581923?source=rss",
+      "publishedAt": "2026-05-27T09:18:06.000Z",
+      "xQuery": "トクリュウの標的か 住人語る恐怖"
     }
   ]
 };
