@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-27T21:13:34.074Z",
+  "updatedAt": "2026-05-27T22:11:51.560Z",
   "items": [
+    {
+      "time": "06:46",
+      "title": "米大統領 イランとの交渉満足せず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581968?source=rss",
+      "publishedAt": "2026-05-27T21:46:20.000Z",
+      "xQuery": "米大統領 イランとの交渉満足せず"
+    },
     {
       "time": "23:55",
       "title": "「副首都」担当相を新設へ 案判明",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581944?source=rss",
       "publishedAt": "2026-05-27T12:17:51.000Z",
       "xQuery": "ADHD治療薬不足 厚労省呼びかけ"
-    },
-    {
-      "time": "22:37",
-      "title": "ストーカーにGPS装着を 自民提言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581958?source=rss",
-      "publishedAt": "2026-05-27T13:37:24.000Z",
-      "xQuery": "ストーカーにGPS装着を 自民提言"
     },
     {
       "time": "23:15",

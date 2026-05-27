@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T21:13:33.307Z",
+  "updatedAt": "2026-05-27T22:11:50.453Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-05-27T04:00:00.000Z"
       },
       {
-        "time": "06:20",
-        "title": "〈工作機械受注〉4月は驚異の前年比45.1％増､額は1889億円で過去2番目!データセンター関連など空前の受注規模が継続",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LcFFPeDRZb2ZSbFBMYzVqT255VEpNNEdhdHFZUi04VUdfRnA5eFItaXpSMlQtTWVVV21ydVNNZ3Jkc29yREZIdzZES08wZ2FRaG1qM1JpVDF4NnRuU2ow?oc=5",
-        "publishedAt": "2026-05-26T21:20:00.000Z"
-      },
-      {
         "time": "07:30",
         "title": "“見えない基盤”に宿る精度、牧野フライスのモノづくり哲学：メイドインジャパンの現場力（2/2 ページ）",
         "source": "MONOist",
@@ -52,27 +45,34 @@
         "publishedAt": "2026-05-27T02:58:18.000Z"
       },
       {
-        "time": "19:48",
-        "title": "【今年の夏も開催！】小中学生向け「夏休み！無料プログラミング体験教室」",
+        "time": "20:45",
+        "title": "株式会社M2X、本州化学工業株式会社の導入事例を公開",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPcVhQV1ZLVjhHRkhDRlhCVWRSaGFQNGY4ejVWZWtlSjdtdzA5bkRZMVZpSHpnRW9QMVREVjJWdHEyb3JYWXA5eW1tQTNyZ0FhOFNDNHlpM1AxeVVHQVVLcVlaX3pBd2oz?oc=5",
-        "publishedAt": "2026-05-27T10:48:32.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wc1JEbnR0bG0wVVB4M3M4dUd3R3h3b01jX1V1MU03REF6Y0xyUU5mRy1BRWFFWmxVcGJGSFd5RTN2MWNjU3lNNlhibXJaZUljUkxLMw?oc=5",
+        "publishedAt": "2026-05-27T11:45:44.000Z"
+      },
+      {
+        "time": "05:14",
+        "title": "ファイルいい話／TYK 切削液用抗菌脱臭器",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14THpWa1l0VC01djNqd1Q4akw2aktmck9FN29iZzdzZ3pHSkk4akpqaVpwUEpLRUxaa19nUVR2ZFJaUXVxV01CNmN2UXA3WDBKSzNnM2ZuNHJtV00?oc=5",
+        "publishedAt": "2026-05-27T20:14:18.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "06:46",
+        "title": "米大統領 イランとの交渉満足せず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581968?source=rss",
+        "publishedAt": "2026-05-27T21:46:20.000Z"
+      },
       {
         "time": "10:01",
         "title": "米イラン 攻撃応酬も和平協議継続",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581856?source=rss",
         "publishedAt": "2026-05-27T01:01:20.000Z"
-      },
-      {
-        "time": "07:42",
-        "title": "トランプ氏苦境「譲歩」余儀なく",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581840?source=rss",
-        "publishedAt": "2026-05-26T22:42:13.000Z"
       },
       {
         "time": "16:21",
