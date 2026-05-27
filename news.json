@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T23:32:11.300Z",
+  "updatedAt": "2026-05-27T01:10:56.600Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-05-26T21:20:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "Microsoftが教える”VS CodeをAIコーディングエージェントの制御盤”にするメリット：エンジニアは“AIを指揮する人”へ",
-        "source": "ITmedia",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TVDRjbnV5RWFRSUFmMXFjQXhHZ1p2a29adkNqOU5VWG1qMUNRZXZKNEVjMU9GdEc2bVpFUW54b2VObktXUmdzWEQ3U0o2cWREOGpIY015NHBCVVBsNWhhdTg1Qlg2QlRVWWUxQg?oc=5",
-        "publishedAt": "2026-05-26T20:00:00.000Z"
+        "time": "07:30",
+        "title": "“見えない基盤”に宿る精度、牧野フライスのモノづくり哲学：メイドインジャパンの現場力（2/2 ページ）",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZeXU1STQ5djNDb2J5eUNWM3FpY2lEbzJwd09CbG1RcXFXVF9LNDV2WlN6Mno1Z21ZYW9YaXpTdHdDNWFBaTJCVXVfWW5vUFNvYnlDUUpZeGs0NTVYUTNtOTg1NzgyMWgxbGJrZHpfRlpiQQ?oc=5",
+        "publishedAt": "2026-05-26T22:30:00.000Z"
       },
       {
         "time": "17:00",
@@ -45,21 +45,28 @@
         "publishedAt": "2026-05-26T18:40:50.000Z"
       },
       {
+        "time": "05:00",
+        "title": "Microsoftが教える”VS CodeをAIコーディングエージェントの制御盤”にするメリット：エンジニアは“AIを指揮する人”へ",
+        "source": "ITmedia",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TVDRjbnV5RWFRSUFmMXFjQXhHZ1p2a29adkNqOU5VWG1qMUNRZXZKNEVjMU9GdEc2bVpFUW54b2VObktXUmdzWEQ3U0o2cWREOGpIY015NHBCVVBsNWhhdTg1Qlg2QlRVWWUxQg?oc=5",
+        "publishedAt": "2026-05-26T20:00:00.000Z"
+      },
+      {
         "time": "05:06",
         "title": "工作機械受注、4月45％増 DC・半導体関連伸び顕著",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tOVA5alNBa1RPTGVTQXhtS25TeXNjUS1hc0swZGVwZ25YMDNNWmZWV2NTSW9KZ084eGNLbDluRG5Yd2RtNVJYaXM1ZmV1Q3VzMTJ3eVZpcw?oc=5",
         "publishedAt": "2026-05-26T20:06:32.000Z"
-      },
-      {
-        "time": "12:39",
-        "title": "第21回 切削加工ドリームコンテスト",
-        "source": "Koubo",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YMFYwbGpJTkk1UDY5UElsU2VmUlVmblZSRXU3U1pLbjh6Q0N5OVhsel9INm5kcmIybEVaaHpueWdyNHJLWWc?oc=5",
-        "publishedAt": "2026-05-26T03:39:38.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "10:01",
+        "title": "米イラン 攻撃応酬も和平協議継続",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581856?source=rss",
+        "publishedAt": "2026-05-27T01:01:20.000Z"
+      },
       {
         "time": "07:42",
         "title": "トランプ氏苦境「譲歩」余儀なく",
@@ -68,18 +75,18 @@
         "publishedAt": "2026-05-26T22:42:13.000Z"
       },
       {
-        "time": "13:50",
-        "title": "防衛巡る中国の日本批判 対策3つ",
+        "time": "09:58",
+        "title": "ロシア 国連安保理で日本を批判",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581765?source=rss",
-        "publishedAt": "2026-05-26T04:50:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581857?source=rss",
+        "publishedAt": "2026-05-27T00:58:32.000Z"
       },
       {
-        "time": "07:14",
-        "title": "日系企業の米工場で爆発 死傷者",
+        "time": "09:34",
+        "title": "日系企業の米工場で爆発 1人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581835?source=rss",
-        "publishedAt": "2026-05-26T22:14:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581855?source=rss",
+        "publishedAt": "2026-05-27T00:34:16.000Z"
       },
       {
         "time": "17:42",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581792?source=rss",
         "publishedAt": "2026-05-26T08:42:27.000Z"
-      },
-      {
-        "time": "13:53",
-        "title": "エボラ出血熱巡り現地で騒乱 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581753?source=rss",
-        "publishedAt": "2026-05-26T04:53:15.000Z"
       },
       {
         "time": "23:23",
@@ -105,18 +105,25 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:17",
+        "title": "日経平均 一時初の6万6000円超え",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581853?source=rss",
+        "publishedAt": "2026-05-27T00:17:36.000Z"
+      },
+      {
+        "time": "08:39",
+        "title": "企業利益は成長投資へ 政府新指針",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581846?source=rss",
+        "publishedAt": "2026-05-26T23:39:13.000Z"
+      },
+      {
         "time": "17:09",
         "title": "今夏も省エネ呼びかけ 赤沢経産相",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581785?source=rss",
         "publishedAt": "2026-05-26T08:09:05.000Z"
-      },
-      {
-        "time": "11:29",
-        "title": "プルデンシャル生命 補償に47億円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581741?source=rss",
-        "publishedAt": "2026-05-26T02:29:06.000Z"
       },
       {
         "time": "20:45",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581787?source=rss",
         "publishedAt": "2026-05-26T08:27:29.000Z"
-      },
-      {
-        "time": "14:27",
-        "title": "「20代以下の持ち家率増」現実は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581767?source=rss",
-        "publishedAt": "2026-05-26T05:27:41.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-05-26T21:10:56.000Z"
       },
       {
+        "time": "08:52",
+        "title": "病院で殺害疑い 入院患者の男逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581850?source=rss",
+        "publishedAt": "2026-05-26T23:52:57.000Z"
+      },
+      {
         "time": "07:31",
         "title": "鹿児島 線状降水帯発生の恐れ",
         "source": "Yahoo!ニュース",
@@ -163,25 +170,18 @@
         "publishedAt": "2026-05-26T22:31:10.000Z"
       },
       {
+        "time": "08:56",
+        "title": "兵庫知事の給与減額案 自民賛成へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581851?source=rss",
+        "publishedAt": "2026-05-26T23:56:18.000Z"
+      },
+      {
         "time": "07:11",
         "title": "駐車場で事故 運転代わり再び事故",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581834?source=rss",
         "publishedAt": "2026-05-26T22:11:10.000Z"
-      },
-      {
-        "time": "22:12",
-        "title": "祖母の車が壁衝突 同乗の5歳重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581819?source=rss",
-        "publishedAt": "2026-05-26T13:12:43.000Z"
-      },
-      {
-        "time": "21:02",
-        "title": "軽とトラック衝突 1人死亡1人重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581812?source=rss",
-        "publishedAt": "2026-05-26T12:02:13.000Z"
       },
       {
         "time": "08:05",

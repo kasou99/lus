@@ -1,21 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-26T23:32:12.132Z",
+  "updatedAt": "2026-05-27T01:10:57.211Z",
   "items": [
     {
-      "time": "07:35",
-      "title": "首相 再審制度「反省のもと改善」",
+      "time": "08:39",
+      "title": "企業利益は成長投資へ 政府新指針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581839?source=rss",
-      "publishedAt": "2026-05-26T22:35:56.000Z",
-      "xQuery": "首相 再審制度「反省のもと改善」"
+      "url": "https://news.yahoo.co.jp/pickup/6581846?source=rss",
+      "publishedAt": "2026-05-26T23:39:13.000Z",
+      "xQuery": "企業利益は成長投資へ 政府新指針"
     },
     {
-      "time": "06:10",
-      "title": "栃木強殺を主導か 40代男に逮捕状",
+      "time": "07:42",
+      "title": "トランプ氏苦境「譲歩」余儀なく",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581830?source=rss",
-      "publishedAt": "2026-05-26T21:10:56.000Z",
-      "xQuery": "栃木強殺を主導か 40代男に逮捕状"
+      "url": "https://news.yahoo.co.jp/pickup/6581840?source=rss",
+      "publishedAt": "2026-05-26T22:42:13.000Z",
+      "xQuery": "トランプ氏苦境「譲歩」余儀なく"
+    },
+    {
+      "time": "09:17",
+      "title": "日経平均 一時初の6万6000円超え",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581853?source=rss",
+      "publishedAt": "2026-05-27T00:17:36.000Z",
+      "xQuery": "日経平均 一時初の6万6000円超え"
+    },
+    {
+      "time": "08:52",
+      "title": "病院で殺害疑い 入院患者の男逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581850?source=rss",
+      "publishedAt": "2026-05-26T23:52:57.000Z",
+      "xQuery": "病院で殺害疑い 入院患者の男逮捕"
     },
     {
       "time": "08:05",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581842?source=rss",
       "publishedAt": "2026-05-26T23:05:38.000Z",
       "xQuery": "千葉・市川 モスクの公園使用可に"
-    },
-    {
-      "time": "07:14",
-      "title": "日系企業の米工場で爆発 死傷者",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581835?source=rss",
-      "publishedAt": "2026-05-26T22:14:44.000Z",
-      "xQuery": "日系企業の米工場で爆発 死傷者"
-    },
-    {
-      "time": "07:11",
-      "title": "駐車場で事故 運転代わり再び事故",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581834?source=rss",
-      "publishedAt": "2026-05-26T22:11:10.000Z",
-      "xQuery": "駐車場で事故 運転代わり再び事故"
     }
   ]
 };
