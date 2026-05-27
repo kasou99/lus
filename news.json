@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T12:08:15.059Z",
+  "updatedAt": "2026-05-27T13:45:44.592Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,20 +163,6 @@
         "publishedAt": "2026-05-27T09:18:06.000Z"
       },
       {
-        "time": "14:36",
-        "title": "江別暴行死 被告が当時の心境語る",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581891?source=rss",
-        "publishedAt": "2026-05-27T05:36:02.000Z"
-      },
-      {
-        "time": "16:21",
-        "title": "3歳長男暴行死 父に懲役7年求刑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581902?source=rss",
-        "publishedAt": "2026-05-27T07:21:21.000Z"
-      },
-      {
         "time": "18:28",
         "title": "子と会えず自殺 遺族が妻と市提訴",
         "source": "Yahoo!ニュース",
@@ -189,6 +175,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581933?source=rss",
         "publishedAt": "2026-05-27T10:42:18.000Z"
+      },
+      {
+        "time": "22:13",
+        "title": "抗がん剤死亡 混入の原因特定困難",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581952?source=rss",
+        "publishedAt": "2026-05-27T13:13:05.000Z"
+      },
+      {
+        "time": "22:36",
+        "title": "児相保護15歳にわいせつ疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581956?source=rss",
+        "publishedAt": "2026-05-27T13:36:31.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-27T12:08:15.991Z",
+  "updatedAt": "2026-05-27T13:45:45.650Z",
   "items": [
     {
-      "time": "19:23",
-      "title": "台風6号北上 今後の進路に注意を",
+      "time": "22:13",
+      "title": "抗がん剤死亡 混入の原因特定困難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581932?source=rss",
-      "publishedAt": "2026-05-27T10:23:06.000Z",
-      "xQuery": "台風6号北上 今後の進路に注意を"
+      "url": "https://news.yahoo.co.jp/pickup/6581952?source=rss",
+      "publishedAt": "2026-05-27T13:13:05.000Z",
+      "xQuery": "抗がん剤死亡 混入の原因特定困難"
     },
     {
-      "time": "18:54",
-      "title": "高市陣営動画問題 AIを駆使と証言",
+      "time": "22:36",
+      "title": "児相保護15歳にわいせつ疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581927?source=rss",
-      "publishedAt": "2026-05-27T09:54:26.000Z",
-      "xQuery": "高市陣営動画問題 AIを駆使と証言"
+      "url": "https://news.yahoo.co.jp/pickup/6581956?source=rss",
+      "publishedAt": "2026-05-27T13:36:31.000Z",
+      "xQuery": "児相保護15歳にわいせつ疑い 逮捕"
     },
     {
-      "time": "19:42",
-      "title": "降りた車発進で転倒か 女児重体",
+      "time": "21:17",
+      "title": "ADHD治療薬不足 厚労省呼びかけ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581933?source=rss",
-      "publishedAt": "2026-05-27T10:42:18.000Z",
-      "xQuery": "降りた車発進で転倒か 女児重体"
+      "url": "https://news.yahoo.co.jp/pickup/6581944?source=rss",
+      "publishedAt": "2026-05-27T12:17:51.000Z",
+      "xQuery": "ADHD治療薬不足 厚労省呼びかけ"
     },
     {
-      "time": "18:28",
-      "title": "子と会えず自殺 遺族が妻と市提訴",
+      "time": "21:38",
+      "title": "熱に強い菌 チャーハン症候群注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581925?source=rss",
-      "publishedAt": "2026-05-27T09:28:39.000Z",
-      "xQuery": "子と会えず自殺 遺族が妻と市提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6581950?source=rss",
+      "publishedAt": "2026-05-27T12:38:11.000Z",
+      "xQuery": "熱に強い菌 チャーハン症候群注意"
     },
     {
-      "time": "18:18",
-      "title": "裸で食事も 利用者死亡の施設処分",
+      "time": "21:35",
+      "title": "YouTubeJapan代表「好き」が武器",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581924?source=rss",
-      "publishedAt": "2026-05-27T09:18:56.000Z",
-      "xQuery": "裸で食事も 利用者死亡の施設処分"
+      "url": "https://news.yahoo.co.jp/pickup/6581948?source=rss",
+      "publishedAt": "2026-05-27T12:35:07.000Z",
+      "xQuery": "YouTubeJapan代表「好き」が武器"
     }
   ]
 };
