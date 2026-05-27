@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-27T07:41:16.798Z",
+  "updatedAt": "2026-05-27T09:21:41.362Z",
   "items": [
     {
-      "time": "16:21",
-      "title": "ハマス軍事部門新トップ殺害 発表",
+      "time": "17:00",
+      "title": "大手賃上げ1万9964円 過去最高に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581904?source=rss",
-      "publishedAt": "2026-05-27T07:21:07.000Z",
-      "xQuery": "ハマス軍事部門新トップ殺害 発表"
+      "url": "https://news.yahoo.co.jp/pickup/6581909?source=rss",
+      "publishedAt": "2026-05-27T08:00:02.000Z",
+      "xQuery": "大手賃上げ1万9964円 過去最高に"
     },
     {
-      "time": "14:21",
-      "title": "ナフサは足りている? 矛盾を解説",
+      "time": "15:52",
+      "title": "久留米大医療センター 完全閉鎖へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581890?source=rss",
-      "publishedAt": "2026-05-27T05:21:38.000Z",
-      "xQuery": "ナフサは足りている? 矛盾を解説"
+      "url": "https://news.yahoo.co.jp/pickup/6581899?source=rss",
+      "publishedAt": "2026-05-27T06:52:27.000Z",
+      "xQuery": "久留米大医療センター 完全閉鎖へ"
     },
     {
-      "time": "15:08",
-      "title": "労基署 残業指導の見直し検討へ",
+      "time": "17:59",
+      "title": "母娘殺害 容疑者の新たな画像公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581886?source=rss",
-      "publishedAt": "2026-05-27T06:08:18.000Z",
-      "xQuery": "労基署 残業指導の見直し検討へ"
+      "url": "https://news.yahoo.co.jp/pickup/6581922?source=rss",
+      "publishedAt": "2026-05-27T08:59:57.000Z",
+      "xQuery": "母娘殺害 容疑者の新たな画像公開"
     },
     {
-      "time": "14:36",
-      "title": "江別暴行死 被告が当時の心境語る",
+      "time": "17:53",
+      "title": "フェルメール展 チケは日時指定制",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581891?source=rss",
-      "publishedAt": "2026-05-27T05:36:02.000Z",
-      "xQuery": "江別暴行死 被告が当時の心境語る"
+      "url": "https://news.yahoo.co.jp/pickup/6581921?source=rss",
+      "publishedAt": "2026-05-27T08:53:28.000Z",
+      "xQuery": "フェルメール展 チケは日時指定制"
     },
     {
-      "time": "15:19",
-      "title": "JAL客室乗務員が前日に飲酒 遅延",
+      "time": "15:38",
+      "title": "クマ対策アプリ ベアーズ伸び悩み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581895?source=rss",
-      "publishedAt": "2026-05-27T06:19:39.000Z",
-      "xQuery": "JAL客室乗務員が前日に飲酒 遅延"
+      "url": "https://news.yahoo.co.jp/pickup/6581898?source=rss",
+      "publishedAt": "2026-05-27T06:38:09.000Z",
+      "xQuery": "クマ対策アプリ ベアーズ伸び悩み"
     }
   ]
 };
