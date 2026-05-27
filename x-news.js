@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-27T23:02:31.773Z",
+  "updatedAt": "2026-05-27T23:52:26.956Z",
   "items": [
     {
       "time": "07:12",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "皇族数確保 取りまとめの原案判明"
     },
     {
-      "time": "06:46",
-      "title": "米大統領 イランとの交渉満足せず",
+      "time": "08:25",
+      "title": "原発審査 書類の虚偽に罰則導入へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581968?source=rss",
-      "publishedAt": "2026-05-27T21:46:20.000Z",
-      "xQuery": "米大統領 イランとの交渉満足せず"
+      "url": "https://news.yahoo.co.jp/pickup/6581979?source=rss",
+      "publishedAt": "2026-05-27T23:25:03.000Z",
+      "xQuery": "原発審査 書類の虚偽に罰則導入へ"
     },
     {
-      "time": "21:17",
-      "title": "ADHD治療薬不足 厚労省呼びかけ",
+      "time": "08:01",
+      "title": "酒蔵で転落死 ブーム陰で事故続発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581944?source=rss",
-      "publishedAt": "2026-05-27T12:17:51.000Z",
-      "xQuery": "ADHD治療薬不足 厚労省呼びかけ"
+      "url": "https://news.yahoo.co.jp/pickup/6581973?source=rss",
+      "publishedAt": "2026-05-27T23:01:32.000Z",
+      "xQuery": "酒蔵で転落死 ブーム陰で事故続発"
     },
     {
       "time": "23:15",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "吊りあげた側溝が落ち頭直撃 死亡"
     },
     {
-      "time": "21:38",
-      "title": "熱に強い菌 チャーハン症候群注意",
+      "time": "08:00",
+      "title": "JAL 客室乗務員も滞在先飲酒禁止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581950?source=rss",
-      "publishedAt": "2026-05-27T12:38:11.000Z",
-      "xQuery": "熱に強い菌 チャーハン症候群注意"
+      "url": "https://news.yahoo.co.jp/pickup/6581972?source=rss",
+      "publishedAt": "2026-05-27T23:00:13.000Z",
+      "xQuery": "JAL 客室乗務員も滞在先飲酒禁止"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T23:02:30.974Z",
+  "updatedAt": "2026-05-27T23:52:26.141Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-05-27T11:45:44.000Z"
       },
       {
+        "time": "06:00",
+        "title": "菊川六郷小児童 機械遺産を見学",
+        "source": "静岡新聞DIGITAL",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4V196XzJSbmJxSHJjQ1lLOWxzV3d5Y2JkM2wtWC1qWHFtYmdISG9MZHlPbE5LdmlDLThXTlZsaTRYV2xucjQ5N1d5S2kwQQ?oc=5",
+        "publishedAt": "2026-05-27T21:00:00.000Z"
+      },
+      {
         "time": "05:14",
         "title": "ファイルいい話／TYK 切削液用抗菌脱臭器",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14THpWa1l0VC01djNqd1Q4akw2aktmck9FN29iZzdzZ3pHSkk4akpqaVpwUEpLRUxaa19nUVR2ZFJaUXVxV01CNmN2UXA3WDBKSzNnM2ZuNHJtV00?oc=5",
         "publishedAt": "2026-05-27T20:14:18.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ニデック不正 品質も疎かにした永守流経営",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV0xJSDBha3FTRkRUYnJDWWxIZHRzYTJ0ME1TdFlzWEttU3QyR3F4V1BJSnNTbjhPVGU1bFFDcEdfNzhWZzBmNksydWtwcjFCSDJ2OERtV1daOGUwby1ncjlqVkRYemxQWUlKMTFUZzlJZmxUc2ZHOENjWHlGQ01hc1MwZ2otYXhwNUHSAYoBQVVfeXFMTldMSUgwYWtxU0ZEVGJyQ1lsSGR0c2EydDBNU3RZc1hLbVN0MkdxeFdQSUpzU244T1RlNWxRQ3BHXzc4VmcwZjZLMnVrcHIxQkgydjhEbVdXWjhlMG8tZ3I5alZEWHpsUFlJSjExVGc5SWZsVHNmRzhDY1h5RkNNYXNTMGdqLWF4cDVB?oc=5",
-        "publishedAt": "2026-05-27T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,11 +112,11 @@
         "publishedAt": "2026-05-27T08:00:02.000Z"
       },
       {
-        "time": "16:45",
-        "title": "元東証社長・鶴島琢夫さん死去",
+        "time": "08:03",
+        "title": "物流業界 輸送力確保は外国人頼み",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581910?source=rss",
-        "publishedAt": "2026-05-27T07:45:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581976?source=rss",
+        "publishedAt": "2026-05-27T23:03:26.000Z"
       },
       {
         "time": "08:00",
