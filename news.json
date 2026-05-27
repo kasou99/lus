@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T01:10:56.600Z",
+  "updatedAt": "2026-05-27T02:27:13.709Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,18 @@
         "publishedAt": "2026-05-26T22:30:00.000Z"
       },
       {
-        "time": "17:00",
-        "title": "4月の工作機械受注、45％増の1889億6700万円 DC・半導体関連伸び顕著",
+        "time": "09:42",
+        "title": "2026年5月27日 機械・ロボット・航空機１",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kVnllMUVGZzJaSDZUVEpFM1J0RjJ1NDJRWlVMNTg4SDBkVG0xWXlpSEs4U09TMlExaEZBOFlsWUtsVUVPLXpydld0cDRiMnJoWVh3bUFnaHlLblU?oc=5",
-        "publishedAt": "2026-05-26T08:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tOVA5alNBa1RPTGVTQXhtS25TeXNjUS1hc0swZGVwZ25YMDNNWmZWV2NTSW9KZ084eGNLbDluRG5Yd2RtNVJYaXM1ZmV1Q3VzMTJ3eVZpcw?oc=5",
+        "publishedAt": "2026-05-27T00:42:56.000Z"
+      },
+      {
+        "time": "11:15",
+        "title": "【設備保全DX】 FOOMA JAPAN 2026に次世代設備保全クラウド「M2X」ブースを出展",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtamVaRkVlNGZJbE93Ql9FQU9Fa0RiejAxdFRFejAzeFA1WG52V2w0bWFWamhxcGoxb3B0di1WQ2lQOWFwMjRRQ2JGUkxMalRrcXM4X21tQmRyZnVXZzhWRld0bHUzVlVaMlVjWnpFanRHZ1k?oc=5",
+        "publishedAt": "2026-05-27T02:15:41.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "ITmedia",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TVDRjbnV5RWFRSUFmMXFjQXhHZ1p2a29adkNqOU5VWG1qMUNRZXZKNEVjMU9GdEc2bVpFUW54b2VObktXUmdzWEQ3U0o2cWREOGpIY015NHBCVVBsNWhhdTg1Qlg2QlRVWWUxQg?oc=5",
         "publishedAt": "2026-05-26T20:00:00.000Z"
-      },
-      {
-        "time": "05:06",
-        "title": "工作機械受注、4月45％増 DC・半導体関連伸び顕著",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tOVA5alNBa1RPTGVTQXhtS25TeXNjUS1hc0swZGVwZ25YMDNNWmZWV2NTSW9KZ084eGNLbDluRG5Yd2RtNVJYaXM1ZmV1Q3VzMTJ3eVZpcw?oc=5",
-        "publishedAt": "2026-05-26T20:06:32.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,18 +82,18 @@
         "publishedAt": "2026-05-27T00:58:32.000Z"
       },
       {
+        "time": "11:04",
+        "title": "韓国初の原潜計画「核保有せず」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581862?source=rss",
+        "publishedAt": "2026-05-27T02:04:00.000Z"
+      },
+      {
         "time": "09:34",
         "title": "日系企業の米工場で爆発 1人死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581855?source=rss",
         "publishedAt": "2026-05-27T00:34:16.000Z"
-      },
-      {
-        "time": "17:42",
-        "title": "習氏が半年以上外遊ゼロ 識者指摘",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581792?source=rss",
-        "publishedAt": "2026-05-26T08:42:27.000Z"
       },
       {
         "time": "23:23",
@@ -119,13 +119,6 @@
         "publishedAt": "2026-05-26T23:39:13.000Z"
       },
       {
-        "time": "17:09",
-        "title": "今夏も省エネ呼びかけ 赤沢経産相",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581785?source=rss",
-        "publishedAt": "2026-05-26T08:09:05.000Z"
-      },
-      {
         "time": "20:45",
         "title": "JAL「月への宅配便」開始へ",
         "source": "Yahoo!ニュース",
@@ -140,11 +133,18 @@
         "publishedAt": "2026-05-26T11:59:32.000Z"
       },
       {
-        "time": "17:27",
-        "title": "かつて若者文化の象徴 閉店相次ぐ",
+        "time": "10:19",
+        "title": "六月病 6月前後にモチベ低下など",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581787?source=rss",
-        "publishedAt": "2026-05-26T08:27:29.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581859?source=rss",
+        "publishedAt": "2026-05-27T01:19:37.000Z"
+      },
+      {
+        "time": "18:15",
+        "title": "学食が苦境直面 問題点を識者指摘",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581795?source=rss",
+        "publishedAt": "2026-05-26T09:15:51.000Z"
       }
     ],
     "localHeadlines": [

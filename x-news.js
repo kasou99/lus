@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-27T01:10:57.211Z",
+  "updatedAt": "2026-05-27T02:27:14.438Z",
   "items": [
     {
+      "time": "11:06",
+      "title": "台風6号が発生 日本にも影響か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581865?source=rss",
+      "publishedAt": "2026-05-27T02:06:20.000Z",
+      "xQuery": "台風6号が発生 日本にも影響か"
+    },
+    {
+      "time": "09:58",
+      "title": "ロシア 国連安保理で日本を批判",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581857?source=rss",
+      "publishedAt": "2026-05-27T00:58:32.000Z",
+      "xQuery": "ロシア 国連安保理で日本を批判"
+    },
+    {
+      "time": "10:41",
+      "title": "市指定のごみ袋が品薄 怒鳴る客",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581861?source=rss",
+      "publishedAt": "2026-05-27T01:41:15.000Z",
+      "xQuery": "市指定のごみ袋が品薄 怒鳴る客"
+    },
+    {
+      "time": "08:21",
+      "title": "自転車の子同乗巡り 戸惑いの声",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581844?source=rss",
+      "publishedAt": "2026-05-26T23:21:10.000Z",
+      "xQuery": "自転車の子同乗巡り 戸惑いの声"
+    },
+    {
       "time": "08:39",
-      "title": "企業利益は成長投資へ 政府新指針",
+      "title": "チェーン店のシェイク なぜ増える",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581846?source=rss",
-      "publishedAt": "2026-05-26T23:39:13.000Z",
-      "xQuery": "企業利益は成長投資へ 政府新指針"
-    },
-    {
-      "time": "07:42",
-      "title": "トランプ氏苦境「譲歩」余儀なく",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581840?source=rss",
-      "publishedAt": "2026-05-26T22:42:13.000Z",
-      "xQuery": "トランプ氏苦境「譲歩」余儀なく"
-    },
-    {
-      "time": "09:17",
-      "title": "日経平均 一時初の6万6000円超え",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581853?source=rss",
-      "publishedAt": "2026-05-27T00:17:36.000Z",
-      "xQuery": "日経平均 一時初の6万6000円超え"
-    },
-    {
-      "time": "08:52",
-      "title": "病院で殺害疑い 入院患者の男逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581850?source=rss",
-      "publishedAt": "2026-05-26T23:52:57.000Z",
-      "xQuery": "病院で殺害疑い 入院患者の男逮捕"
-    },
-    {
-      "time": "08:05",
-      "title": "千葉・市川 モスクの公園使用可に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581842?source=rss",
-      "publishedAt": "2026-05-26T23:05:38.000Z",
-      "xQuery": "千葉・市川 モスクの公園使用可に"
+      "url": "https://news.yahoo.co.jp/pickup/6581847?source=rss",
+      "publishedAt": "2026-05-26T23:39:55.000Z",
+      "xQuery": "チェーン店のシェイク なぜ増える"
     }
   ]
 };
