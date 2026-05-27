@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T02:27:13.709Z",
+  "updatedAt": "2026-05-27T03:52:28.593Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-05-27T00:42:56.000Z"
       },
       {
-        "time": "11:15",
-        "title": "【設備保全DX】 FOOMA JAPAN 2026に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtamVaRkVlNGZJbE93Ql9FQU9Fa0RiejAxdFRFejAzeFA1WG52V2w0bWFWamhxcGoxb3B0di1WQ2lQOWFwMjRRQ2JGUkxMalRrcXM4X21tQmRyZnVXZzhWRld0bHUzVlVaMlVjWnpFanRHZ1k?oc=5",
-        "publishedAt": "2026-05-27T02:15:41.000Z"
+        "time": "11:58",
+        "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
+        "source": "sannichi.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMaXlMSUhjYlR6dXVsUnctVklYT190U01udkYyWTl3akVZampSVnRtWnFTck5va2haSFFNdExwUlpQUFdRSDhpc01SaWRKZFRZd1o4ZVB4Z1o5Y2hpLUZoRVh2MWY?oc=5",
+        "publishedAt": "2026-05-27T02:58:18.000Z"
       },
       {
         "time": "05:00",
@@ -75,6 +75,20 @@
         "publishedAt": "2026-05-26T22:42:13.000Z"
       },
       {
+        "time": "11:49",
+        "title": "イスラエル レバノン地上作戦拡大",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581870?source=rss",
+        "publishedAt": "2026-05-27T02:49:34.000Z"
+      },
+      {
+        "time": "12:11",
+        "title": "露 国外への軍派遣巡る法案成立",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581872?source=rss",
+        "publishedAt": "2026-05-27T03:11:14.000Z"
+      },
+      {
         "time": "09:58",
         "title": "ロシア 国連安保理で日本を批判",
         "source": "Yahoo!ニュース",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581862?source=rss",
         "publishedAt": "2026-05-27T02:04:00.000Z"
-      },
-      {
-        "time": "09:34",
-        "title": "日系企業の米工場で爆発 1人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581855?source=rss",
-        "publishedAt": "2026-05-27T00:34:16.000Z"
-      },
-      {
-        "time": "23:23",
-        "title": "ソウルで高架道路が崩落 3人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581828?source=rss",
-        "publishedAt": "2026-05-26T14:23:18.000Z"
       }
     ],
     "economyHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-05-26T23:56:18.000Z"
       },
       {
+        "time": "12:19",
+        "title": "シチズン元幹部逮捕 時計横領疑い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581873?source=rss",
+        "publishedAt": "2026-05-27T03:19:51.000Z"
+      },
+      {
         "time": "07:11",
         "title": "駐車場で事故 運転代わり再び事故",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581834?source=rss",
         "publishedAt": "2026-05-26T22:11:10.000Z"
-      },
-      {
-        "time": "08:05",
-        "title": "千葉・市川 モスクの公園使用可に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581842?source=rss",
-        "publishedAt": "2026-05-26T23:05:38.000Z"
       }
     ],
     "subsidyHeadlines": [

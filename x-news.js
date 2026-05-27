@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-27T02:27:14.438Z",
+  "updatedAt": "2026-05-27T03:52:29.141Z",
   "items": [
+    {
+      "time": "12:44",
+      "title": "「国家情報会議」設置法が成立",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581875?source=rss",
+      "publishedAt": "2026-05-27T03:44:53.000Z",
+      "xQuery": "「国家情報会議」設置法が成立"
+    },
     {
       "time": "11:06",
       "title": "台風6号が発生 日本にも影響か",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ロシア 国連安保理で日本を批判"
     },
     {
+      "time": "12:19",
+      "title": "シチズン元幹部逮捕 時計横領疑い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581873?source=rss",
+      "publishedAt": "2026-05-27T03:19:51.000Z",
+      "xQuery": "シチズン元幹部逮捕 時計横領疑い"
+    },
+    {
       "time": "10:41",
       "title": "市指定のごみ袋が品薄 怒鳴る客",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6581861?source=rss",
       "publishedAt": "2026-05-27T01:41:15.000Z",
       "xQuery": "市指定のごみ袋が品薄 怒鳴る客"
-    },
-    {
-      "time": "08:21",
-      "title": "自転車の子同乗巡り 戸惑いの声",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581844?source=rss",
-      "publishedAt": "2026-05-26T23:21:10.000Z",
-      "xQuery": "自転車の子同乗巡り 戸惑いの声"
-    },
-    {
-      "time": "08:39",
-      "title": "チェーン店のシェイク なぜ増える",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581847?source=rss",
-      "publishedAt": "2026-05-26T23:39:55.000Z",
-      "xQuery": "チェーン店のシェイク なぜ増える"
     }
   ]
 };
