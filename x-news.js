@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-27T05:38:03.968Z",
+  "updatedAt": "2026-05-27T07:41:16.798Z",
   "items": [
     {
-      "time": "14:23",
-      "title": "スパイ対策本格化 国会前で抗議",
+      "time": "16:21",
+      "title": "ハマス軍事部門新トップ殺害 発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581889?source=rss",
-      "publishedAt": "2026-05-27T05:23:58.000Z",
-      "xQuery": "スパイ対策本格化 国会前で抗議"
+      "url": "https://news.yahoo.co.jp/pickup/6581904?source=rss",
+      "publishedAt": "2026-05-27T07:21:07.000Z",
+      "xQuery": "ハマス軍事部門新トップ殺害 発表"
     },
     {
-      "time": "11:49",
-      "title": "イスラエル レバノン地上作戦拡大",
+      "time": "14:21",
+      "title": "ナフサは足りている? 矛盾を解説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581870?source=rss",
-      "publishedAt": "2026-05-27T02:49:34.000Z",
-      "xQuery": "イスラエル レバノン地上作戦拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6581890?source=rss",
+      "publishedAt": "2026-05-27T05:21:38.000Z",
+      "xQuery": "ナフサは足りている? 矛盾を解説"
     },
     {
-      "time": "13:44",
-      "title": "日系企業の米工場で爆発 死傷多数",
+      "time": "15:08",
+      "title": "労基署 残業指導の見直し検討へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581883?source=rss",
-      "publishedAt": "2026-05-27T04:44:13.000Z",
-      "xQuery": "日系企業の米工場で爆発 死傷多数"
+      "url": "https://news.yahoo.co.jp/pickup/6581886?source=rss",
+      "publishedAt": "2026-05-27T06:08:18.000Z",
+      "xQuery": "労基署 残業指導の見直し検討へ"
     },
     {
-      "time": "14:02",
-      "title": "銃撃事件 山健組組長の無罪確定",
+      "time": "14:36",
+      "title": "江別暴行死 被告が当時の心境語る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581885?source=rss",
-      "publishedAt": "2026-05-27T05:02:14.000Z",
-      "xQuery": "銃撃事件 山健組組長の無罪確定"
+      "url": "https://news.yahoo.co.jp/pickup/6581891?source=rss",
+      "publishedAt": "2026-05-27T05:36:02.000Z",
+      "xQuery": "江別暴行死 被告が当時の心境語る"
     },
     {
-      "time": "13:21",
-      "title": "旭川17歳殺害 共謀の女が状況証言",
+      "time": "15:19",
+      "title": "JAL客室乗務員が前日に飲酒 遅延",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581879?source=rss",
-      "publishedAt": "2026-05-27T04:21:34.000Z",
-      "xQuery": "旭川17歳殺害 共謀の女が状況証言"
+      "url": "https://news.yahoo.co.jp/pickup/6581895?source=rss",
+      "publishedAt": "2026-05-27T06:19:39.000Z",
+      "xQuery": "JAL客室乗務員が前日に飲酒 遅延"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T05:38:02.683Z",
+  "updatedAt": "2026-05-27T07:41:15.932Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-05-26T22:30:00.000Z"
       },
       {
-        "time": "09:42",
-        "title": "2026年5月27日 機械・ロボット・航空機１",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tOVA5alNBa1RPTGVTQXhtS25TeXNjUS1hc0swZGVwZ25YMDNNWmZWV2NTSW9KZ084eGNLbDluRG5Yd2RtNVJYaXM1ZmV1Q3VzMTJ3eVZpcw?oc=5",
-        "publishedAt": "2026-05-27T00:42:56.000Z"
-      },
-      {
         "time": "11:58",
         "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
         "source": "sannichi.co.jp",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-05-27T02:58:18.000Z"
       },
       {
-        "time": "05:00",
-        "title": "工作機械の発熱、油で冷ます 前橋の関東精機が半導体向け機器増産",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aS0hnVUNHS2VjT2Q2MjhfQkZiZXlCTEF5TkJZNXo5aG1OSlVqUUhpY0VpQk5wVFlmUDF1RHFoRWpDelVuVWVxX1FlbFVrVVE3c083MWxydzlzc3p4blhuVDNZYXN3NklDeGxHQw?oc=5",
-        "publishedAt": "2026-05-26T20:00:00.000Z"
+        "time": "09:42",
+        "title": "2026年5月27日 機械・ロボット・航空機１",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tOVA5alNBa1RPTGVTQXhtS25TeXNjUS1hc0swZGVwZ25YMDNNWmZWV2NTSW9KZ084eGNLbDluRG5Yd2RtNVJYaXM1ZmV1Q3VzMTJ3eVZpcw?oc=5",
+        "publishedAt": "2026-05-27T00:42:56.000Z"
+      },
+      {
+        "time": "03:40",
+        "title": "毛沢東と文化大革命 写真特集：時事ドットコム",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lZXhyLUpDbUdIdmE0Wk1fZGlmQV95TFdYSi1PMlU0MmdkQUhyV0FING5RWG5SVUx1NnBuYzF0clp3Y0drU3k5bmlmdG1nN3ltZ1d3Sk5IeGpkZ2ROT3p0RVFVdnQ3SlZG?oc=5",
+        "publishedAt": "2026-05-26T18:40:50.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581840?source=rss",
         "publishedAt": "2026-05-26T22:42:13.000Z"
+      },
+      {
+        "time": "16:21",
+        "title": "ハマス軍事部門新トップ殺害 発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581904?source=rss",
+        "publishedAt": "2026-05-27T07:21:07.000Z"
       },
       {
         "time": "11:49",
@@ -94,23 +101,9 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581857?source=rss",
         "publishedAt": "2026-05-27T00:58:32.000Z"
-      },
-      {
-        "time": "11:04",
-        "title": "韓国初の原潜計画「核保有せず」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581862?source=rss",
-        "publishedAt": "2026-05-27T02:04:00.000Z"
       }
     ],
     "economyHeadlines": [
-      {
-        "time": "09:17",
-        "title": "日経平均 一時初の6万6000円超え",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581853?source=rss",
-        "publishedAt": "2026-05-27T00:17:36.000Z"
-      },
       {
         "time": "08:39",
         "title": "企業利益は成長投資へ 政府新指針",
@@ -119,11 +112,18 @@
         "publishedAt": "2026-05-26T23:39:13.000Z"
       },
       {
-        "time": "20:45",
-        "title": "JAL「月への宅配便」開始へ",
+        "time": "15:08",
+        "title": "労基署 残業指導の見直し検討へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581811?source=rss",
-        "publishedAt": "2026-05-26T11:45:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581886?source=rss",
+        "publishedAt": "2026-05-27T06:08:18.000Z"
+      },
+      {
+        "time": "15:19",
+        "title": "JAL客室乗務員が前日に飲酒 遅延",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581895?source=rss",
+        "publishedAt": "2026-05-27T06:19:39.000Z"
       },
       {
         "time": "20:59",
@@ -163,11 +163,18 @@
         "publishedAt": "2026-05-27T04:21:34.000Z"
       },
       {
-        "time": "06:10",
-        "title": "栃木強殺を主導か 40代男に逮捕状",
+        "time": "16:04",
+        "title": "大阪都構想の法定協案 市議会可決",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581830?source=rss",
-        "publishedAt": "2026-05-26T21:10:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581901?source=rss",
+        "publishedAt": "2026-05-27T07:04:12.000Z"
+      },
+      {
+        "time": "16:21",
+        "title": "3歳長男暴行死 父に懲役7年求刑",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581902?source=rss",
+        "publishedAt": "2026-05-27T07:21:21.000Z"
       },
       {
         "time": "14:02",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581885?source=rss",
         "publishedAt": "2026-05-27T05:02:14.000Z"
-      },
-      {
-        "time": "08:52",
-        "title": "病院で殺害疑い 入院患者の男逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581850?source=rss",
-        "publishedAt": "2026-05-26T23:52:57.000Z"
       },
       {
         "time": "08:56",
