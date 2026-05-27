@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T10:51:11.009Z",
+  "updatedAt": "2026-05-27T12:08:15.059Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,13 +112,6 @@
         "publishedAt": "2026-05-27T08:00:02.000Z"
       },
       {
-        "time": "15:08",
-        "title": "労基署 残業指導の見直し検討へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581886?source=rss",
-        "publishedAt": "2026-05-27T06:08:18.000Z"
-      },
-      {
         "time": "16:45",
         "title": "元東証社長・鶴島琢夫さん死去",
         "source": "Yahoo!ニュース",
@@ -133,11 +126,11 @@
         "publishedAt": "2026-05-27T06:19:39.000Z"
       },
       {
-        "time": "14:21",
-        "title": "ナフサは足りている? 矛盾を解説",
+        "time": "20:49",
+        "title": "コスメ「リンメル」が日本撤退へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581890?source=rss",
-        "publishedAt": "2026-05-27T05:21:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581940?source=rss",
+        "publishedAt": "2026-05-27T11:49:28.000Z"
       },
       {
         "time": "17:35",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581912?source=rss",
         "publishedAt": "2026-05-27T08:35:44.000Z"
+      },
+      {
+        "time": "16:48",
+        "title": "液状のりで「前髪固定」注意喚起",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581911?source=rss",
+        "publishedAt": "2026-05-27T07:48:35.000Z"
       }
     ],
     "localHeadlines": [

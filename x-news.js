@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-27T10:51:11.776Z",
+  "updatedAt": "2026-05-27T12:08:15.991Z",
   "items": [
     {
       "time": "19:23",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高市陣営動画問題 AIを駆使と証言"
     },
     {
-      "time": "19:28",
-      "title": "東大シンクタンク 次々研究者去る",
+      "time": "19:42",
+      "title": "降りた車発進で転倒か 女児重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581930?source=rss",
-      "publishedAt": "2026-05-27T10:28:19.000Z",
-      "xQuery": "東大シンクタンク 次々研究者去る"
+      "url": "https://news.yahoo.co.jp/pickup/6581933?source=rss",
+      "publishedAt": "2026-05-27T10:42:18.000Z",
+      "xQuery": "降りた車発進で転倒か 女児重体"
     },
     {
       "time": "18:28",
@@ -35,11 +35,11 @@ window.LUS_X_NEWS = {
     },
     {
       "time": "18:18",
-      "title": "トクリュウの標的か 住人語る恐怖",
+      "title": "裸で食事も 利用者死亡の施設処分",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581923?source=rss",
-      "publishedAt": "2026-05-27T09:18:06.000Z",
-      "xQuery": "トクリュウの標的か 住人語る恐怖"
+      "url": "https://news.yahoo.co.jp/pickup/6581924?source=rss",
+      "publishedAt": "2026-05-27T09:18:56.000Z",
+      "xQuery": "裸で食事も 利用者死亡の施設処分"
     }
   ]
 };
