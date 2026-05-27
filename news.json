@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T13:45:44.592Z",
+  "updatedAt": "2026-05-27T15:16:36.089Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "17:59",
-        "title": "母娘殺害 容疑者の新たな画像公開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581922?source=rss",
-        "publishedAt": "2026-05-27T08:59:57.000Z"
-      },
-      {
         "time": "18:18",
         "title": "トクリュウの標的か 住人語る恐怖",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581956?source=rss",
         "publishedAt": "2026-05-27T13:36:31.000Z"
+      },
+      {
+        "time": "18:40",
+        "title": "阪急電車「ガソリン臭」全員降車",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581929?source=rss",
+        "publishedAt": "2026-05-27T09:40:01.000Z"
       }
     ],
     "subsidyHeadlines": [
