@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T19:20:56.704Z",
+  "updatedAt": "2026-05-27T20:19:47.401Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-05-27T04:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "車向け工作機械、4月受注は2.1倍 HV関連投資が後押し",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tSDFDMGtmdUFzdVdzbnhvZ0QweklFNXdiRFR1UWR1OTdpY1pRZS1aN2cwMXJuMlVfbXNOdmw4eXMxdVpYX3dQQl96NmpaRnhDV1F2Yi1XendVV012WG5HWnhjcjlxU1llcVVRVVFYWmhKaGswZ0x1a0NIVmEwck0?oc=5",
-        "publishedAt": "2026-05-26T20:00:00.000Z"
-      },
-      {
         "time": "06:20",
         "title": "〈工作機械受注〉4月は驚異の前年比45.1％増､額は1889億円で過去2番目!データセンター関連など空前の受注規模が継続",
         "source": "東洋経済オンライン",
@@ -57,6 +50,13 @@
         "source": "sannichi.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMaXlMSUhjYlR6dXVsUnctVklYT190U01udkYyWTl3akVZampSVnRtWnFTck5va2haSFFNdExwUlpQUFdRSDhpc01SaWRKZFRZd1o4ZVB4Z1o5Y2hpLUZoRVh2MWY?oc=5",
         "publishedAt": "2026-05-27T02:58:18.000Z"
+      },
+      {
+        "time": "20:45",
+        "title": "株式会社M2X、本州化学工業株式会社の導入事例を公開",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wc1JEbnR0bG0wVVB4M3M4dUd3R3h3b01jX1V1MU03REF6Y0xyUU5mRy1BRWFFWmxVcGJGSFd5RTN2MWNjU3lNNlhibXJaZUljUkxLMw?oc=5",
+        "publishedAt": "2026-05-27T11:45:44.000Z"
       }
     ],
     "worldHeadlines": [
