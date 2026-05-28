@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-28T01:03:52.790Z",
+  "updatedAt": "2026-05-28T02:24:33.363Z",
   "items": [
     {
       "time": "09:41",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "安倍氏銃撃 控訴審へ弁護団再編"
     },
     {
+      "time": "10:52",
+      "title": "米軍 イラン軍事施設などを攻撃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581992?source=rss",
+      "publishedAt": "2026-05-28T01:52:43.000Z",
+      "xQuery": "米軍 イラン軍事施設などを攻撃"
+    },
+    {
       "time": "09:28",
       "title": "ロシア軍の戦死者 50万人近くに",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581986?source=rss",
       "publishedAt": "2026-05-28T00:28:00.000Z",
       "xQuery": "栃木強殺 出国の男がバール購入"
-    },
-    {
-      "time": "08:01",
-      "title": "酒蔵で転落死 ブーム陰で事故続発",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581973?source=rss",
-      "publishedAt": "2026-05-27T23:01:32.000Z",
-      "xQuery": "酒蔵で転落死 ブーム陰で事故続発"
     }
   ]
 };
