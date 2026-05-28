@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T02:24:32.445Z",
+  "updatedAt": "2026-05-28T03:49:10.703Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -20,7 +20,7 @@
         "time": "10:48",
         "title": "現場にとけ込む設備保全クラウド「M2X」が、返信ゼロで「確認した」を伝えられる絵文字リアクション機能をリリース",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OdTFUcl9wLU8zdGpHei1DWWdFWmRpX19fYVJrUDg3Z1pIQWhZSVl1S0VQd0VvZ1I4aXFxSl9rellnUGx6UUdXR09TWE9hMTZzMVhBZEhzQjBzX2IzVlVXSlh2QmlFMXZxTFgxUTBYTDNXbjc1VFJ3bVFCYw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xOVlMTEg4UGQ5aGhsOXNtWnRyd2RReUp3V19vemstWjEtZVM4UHBrejVKTHhUcGc2TkQ0OGViVVNYWjE3ZnZCRGhrUUgtUFEyNGZzN05yMkxwN082UTdodVpyWER1M2kyTUhCTVYyVUN4bjI5RlE?oc=5",
         "publishedAt": "2026-05-28T01:48:34.000Z"
       },
       {
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "17:00",
-        "title": "大手賃上げ1万9964円 過去最高に",
+        "time": "12:33",
+        "title": "ナフサ不安 小売り各社は対策強化",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581909?source=rss",
-        "publishedAt": "2026-05-27T08:00:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582003?source=rss",
+        "publishedAt": "2026-05-28T03:33:47.000Z"
       },
       {
         "time": "08:03",
@@ -119,6 +119,13 @@
         "publishedAt": "2026-05-27T23:03:26.000Z"
       },
       {
+        "time": "12:31",
+        "title": "ヒグマと列車の衝突急増 対策検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582005?source=rss",
+        "publishedAt": "2026-05-28T03:31:53.000Z"
+      },
+      {
         "time": "08:00",
         "title": "JAL 客室乗務員も滞在先飲酒禁止",
         "source": "Yahoo!ニュース",
@@ -126,25 +133,18 @@
         "publishedAt": "2026-05-27T23:00:13.000Z"
       },
       {
+        "time": "11:26",
+        "title": "乗務前の飲酒 なぜJALで表面化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581996?source=rss",
+        "publishedAt": "2026-05-28T02:26:42.000Z"
+      },
+      {
         "time": "20:49",
         "title": "コスメ「リンメル」が日本撤退へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581940?source=rss",
         "publishedAt": "2026-05-27T11:49:28.000Z"
-      },
-      {
-        "time": "17:35",
-        "title": "パーソナルトレーニング 事故増加",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581912?source=rss",
-        "publishedAt": "2026-05-27T08:35:44.000Z"
-      },
-      {
-        "time": "16:48",
-        "title": "液状のりで「前髪固定」注意喚起",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581911?source=rss",
-        "publishedAt": "2026-05-27T07:48:35.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,25 +156,25 @@
         "publishedAt": "2026-05-28T00:28:00.000Z"
       },
       {
+        "time": "12:08",
+        "title": "京都男児遺体 殺人の罪で父親起訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582004?source=rss",
+        "publishedAt": "2026-05-28T03:08:26.000Z"
+      },
+      {
+        "time": "12:26",
+        "title": "バレー代表 佐藤駿一郎容疑者逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582011?source=rss",
+        "publishedAt": "2026-05-28T03:26:42.000Z"
+      },
+      {
         "time": "08:01",
         "title": "酒蔵で転落死 ブーム陰で事故続発",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581973?source=rss",
         "publishedAt": "2026-05-27T23:01:32.000Z"
-      },
-      {
-        "time": "18:18",
-        "title": "トクリュウの標的か 住人語る恐怖",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581923?source=rss",
-        "publishedAt": "2026-05-27T09:18:06.000Z"
-      },
-      {
-        "time": "18:28",
-        "title": "子と会えず自殺 遺族が妻と市提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581925?source=rss",
-        "publishedAt": "2026-05-27T09:28:39.000Z"
       },
       {
         "time": "19:42",

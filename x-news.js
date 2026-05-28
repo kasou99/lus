@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-28T02:24:33.363Z",
+  "updatedAt": "2026-05-28T03:49:11.920Z",
   "items": [
     {
-      "time": "09:41",
-      "title": "台風6号北上 週明けに沖縄接近か",
+      "time": "12:28",
+      "title": "詐欺被害金の追跡 警察と銀行協定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581987?source=rss",
-      "publishedAt": "2026-05-28T00:41:20.000Z",
-      "xQuery": "台風6号北上 週明けに沖縄接近か"
+      "url": "https://news.yahoo.co.jp/pickup/6582001?source=rss",
+      "publishedAt": "2026-05-28T03:28:57.000Z",
+      "xQuery": "詐欺被害金の追跡 警察と銀行協定"
     },
     {
-      "time": "07:40",
-      "title": "安倍氏銃撃 控訴審へ弁護団再編",
+      "time": "08:03",
+      "title": "物流業界 輸送力確保は外国人頼み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581971?source=rss",
-      "publishedAt": "2026-05-27T22:40:38.000Z",
-      "xQuery": "安倍氏銃撃 控訴審へ弁護団再編"
+      "url": "https://news.yahoo.co.jp/pickup/6581976?source=rss",
+      "publishedAt": "2026-05-27T23:03:26.000Z",
+      "xQuery": "物流業界 輸送力確保は外国人頼み"
     },
     {
-      "time": "10:52",
-      "title": "米軍 イラン軍事施設などを攻撃",
+      "time": "12:08",
+      "title": "京都男児遺体 殺人の罪で父親起訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581992?source=rss",
-      "publishedAt": "2026-05-28T01:52:43.000Z",
-      "xQuery": "米軍 イラン軍事施設などを攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6582004?source=rss",
+      "publishedAt": "2026-05-28T03:08:26.000Z",
+      "xQuery": "京都男児遺体 殺人の罪で父親起訴"
     },
     {
-      "time": "09:28",
-      "title": "ロシア軍の戦死者 50万人近くに",
+      "time": "11:26",
+      "title": "乗務前の飲酒 なぜJALで表面化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581985?source=rss",
-      "publishedAt": "2026-05-28T00:28:27.000Z",
-      "xQuery": "ロシア軍の戦死者 50万人近くに"
+      "url": "https://news.yahoo.co.jp/pickup/6581996?source=rss",
+      "publishedAt": "2026-05-28T02:26:42.000Z",
+      "xQuery": "乗務前の飲酒 なぜJALで表面化"
     },
     {
-      "time": "09:28",
-      "title": "栃木強殺 出国の男がバール購入",
+      "time": "11:51",
+      "title": "サラ川 1位はスマホ決済の不安",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581986?source=rss",
-      "publishedAt": "2026-05-28T00:28:00.000Z",
-      "xQuery": "栃木強殺 出国の男がバール購入"
+      "url": "https://news.yahoo.co.jp/pickup/6582000?source=rss",
+      "publishedAt": "2026-05-28T02:51:15.000Z",
+      "xQuery": "サラ川 1位はスマホ決済の不安"
     }
   ]
 };
