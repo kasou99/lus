@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-28T23:00:15.415Z",
+  "updatedAt": "2026-05-28T23:55:21.305Z",
   "items": [
     {
-      "time": "06:22",
-      "title": "米イラン合意 米大統領の承認待ち",
+      "time": "08:42",
+      "title": "日本の人口309万人減 減少幅最大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582099?source=rss",
-      "publishedAt": "2026-05-28T21:22:59.000Z",
-      "xQuery": "米イラン合意 米大統領の承認待ち"
+      "url": "https://news.yahoo.co.jp/pickup/6582118?source=rss",
+      "publishedAt": "2026-05-28T23:42:35.000Z",
+      "xQuery": "日本の人口309万人減 減少幅最大"
     },
     {
-      "time": "06:43",
-      "title": "3メガ銀 OpenAI新型モデル活用へ",
+      "time": "08:03",
+      "title": "現存建物の2割超が未登記 調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582101?source=rss",
-      "publishedAt": "2026-05-28T21:43:04.000Z",
-      "xQuery": "3メガ銀 OpenAI新型モデル活用へ"
+      "url": "https://news.yahoo.co.jp/pickup/6582113?source=rss",
+      "publishedAt": "2026-05-28T23:03:12.000Z",
+      "xQuery": "現存建物の2割超が未登記 調査"
     },
     {
-      "time": "07:12",
-      "title": "栃木強殺 出国の男が隠語で勧誘か",
+      "time": "07:52",
+      "title": "国産AI 新たに約15社が出資意向",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582103?source=rss",
-      "publishedAt": "2026-05-28T22:12:22.000Z",
-      "xQuery": "栃木強殺 出国の男が隠語で勧誘か"
+      "url": "https://news.yahoo.co.jp/pickup/6582109?source=rss",
+      "publishedAt": "2026-05-28T22:52:43.000Z",
+      "xQuery": "国産AI 新たに約15社が出資意向"
     },
     {
       "time": "06:10",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トヨタ 次世代EVの開発を中止へ"
     },
     {
-      "time": "07:35",
-      "title": "カンボジア名誉領事 資金申告漏れ",
+      "time": "08:28",
+      "title": "助手席窓から顔出し壁に衝突 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582107?source=rss",
-      "publishedAt": "2026-05-28T22:35:50.000Z",
-      "xQuery": "カンボジア名誉領事 資金申告漏れ"
+      "url": "https://news.yahoo.co.jp/pickup/6582117?source=rss",
+      "publishedAt": "2026-05-28T23:28:24.000Z",
+      "xQuery": "助手席窓から顔出し壁に衝突 死亡"
     }
   ]
 };

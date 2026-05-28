@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T23:00:14.636Z",
+  "updatedAt": "2026-05-28T23:55:20.849Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,18 @@
         "publishedAt": "2026-05-28T21:11:15.000Z"
       },
       {
-        "time": "07:01",
+        "time": "07:15",
         "title": "片山さつき大臣が\"買収中止\"に動くわけだ…中国企業にはマネできない｢日本の工作機械｣の知られざる価値",
-        "source": "PRESIDENT Online（プレジデントオンライン）",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yMVJmTzlZSE1SUXVFMUQ1SS1IaFRibndQWHFMRVZ3cVNHM2tNVG5wZDA3Uk9VaUxmQ09iOUlzbWlYZTBVYnlUUnpsdzhyRkE?oc=5",
-        "publishedAt": "2026-05-28T22:01:32.000Z"
+        "source": "ライブドアニュース",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zMF9ra1RtLWtBLU11TUFFZTZoNDB6NEVwRmd1cHYtMUNxdmdHUVVwYktpVWt4anBsbkVOTEpTWWstTUhxczBTVF9XMUZxdW5SajJJZ1h6TGVBOWZkUGc?oc=5",
+        "publishedAt": "2026-05-28T22:15:00.000Z"
+      },
+      {
+        "time": "08:02",
+        "title": "プログラミング教育研究所、北区の小中学生対象に「夏休み！無料プログラミング体験教室」開催",
+        "source": "ICT教育ニュース",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zZ01CYVhiMzZtakNfUUNud0o3R2NFc0Mzb1NpWHdXeHJLZFFrUDIwc2lBY1VRVHFpRS1NekpJU2xlLTdYY1VOVEc2NWFBbXhD?oc=5",
+        "publishedAt": "2026-05-28T23:02:57.000Z"
       },
       {
         "time": "05:04",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xOVlMTEg4UGQ5aGhsOXNtWnRyd2RReUp3V19vemstWjEtZVM4UHBrejVKTHhUcGc2TkQ0OGViVVNYWjE3ZnZCRGhrUUgtUFEyNGZzN05yMkxwN082UTdodVpyWER1M2kyTUhCTVYyVUN4bjI5RlE?oc=5",
         "publishedAt": "2026-05-28T01:48:34.000Z"
-      },
-      {
-        "time": "05:04",
-        "title": "ＩＨＩ、ＳＡＲ衛星の運用開始",
-        "source": "化学工業日報 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LaTJ0Wjdnb3dCQlZrUGNvMXJydGUzUXVHSHZndk80YzU3ZDNUY0ZlTm92ZDFaR3dPQ0xYRWNOZHcwVmVDd0JnVWFfQVRnV2hrQ0tZ?oc=5",
-        "publishedAt": "2026-05-28T20:04:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-05-28T22:12:22.000Z"
       },
       {
+        "time": "08:28",
+        "title": "助手席窓から顔出し壁に衝突 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582117?source=rss",
+        "publishedAt": "2026-05-28T23:28:24.000Z"
+      },
+      {
         "time": "19:35",
         "title": "クマ捕獲に過剰な苦情 町長ら訴え",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582080?source=rss",
         "publishedAt": "2026-05-28T12:30:10.000Z"
-      },
-      {
-        "time": "12:26",
-        "title": "バレー代表 佐藤駿一郎容疑者逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582011?source=rss",
-        "publishedAt": "2026-05-28T03:26:42.000Z"
       }
     ],
     "subsidyHeadlines": [
