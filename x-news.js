@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-28T20:21:58.331Z",
+  "updatedAt": "2026-05-28T21:16:55.652Z",
   "items": [
     {
       "time": "22:22",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福島第一2号機 6月燃料取り出しへ"
     },
     {
-      "time": "23:06",
-      "title": "日産社長ら 25年度報酬計13億円",
+      "time": "06:10",
+      "title": "トヨタ 次世代EVの開発を中止へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582094?source=rss",
-      "publishedAt": "2026-05-28T14:06:11.000Z",
-      "xQuery": "日産社長ら 25年度報酬計13億円"
+      "url": "https://news.yahoo.co.jp/pickup/6582098?source=rss",
+      "publishedAt": "2026-05-28T21:10:31.000Z",
+      "xQuery": "トヨタ 次世代EVの開発を中止へ"
     },
     {
-      "time": "17:44",
-      "title": "東京・昭島市に大型獣か 注意喚起",
+      "time": "22:08",
+      "title": "エアコンやりがち行為で爆発 注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582056?source=rss",
-      "publishedAt": "2026-05-28T08:44:29.000Z",
-      "xQuery": "東京・昭島市に大型獣か 注意喚起"
+      "url": "https://news.yahoo.co.jp/pickup/6582087?source=rss",
+      "publishedAt": "2026-05-28T13:08:59.000Z",
+      "xQuery": "エアコンやりがち行為で爆発 注意"
     }
   ]
 };

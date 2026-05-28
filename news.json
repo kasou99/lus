@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T20:21:57.318Z",
+  "updatedAt": "2026-05-28T21:16:54.420Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaWtvLVZ2UnBldzN4eGFkUm1hUjh2N3M2SDJJYnpqSFFTRmptZ0tpYzJFWDRuSVIyME9yU2NYY3NiU3FraUxGREV5SXFzelBVRVBLdzB3elNmbGNuQzRYVDhNcHJsTERHczI2UWE1cDU1VHhGeFcwV2ZPUVVJN1R2Sm5HMzhnMjg?oc=5",
         "publishedAt": "2026-05-28T20:00:00.000Z"
+      },
+      {
+        "time": "06:11",
+        "title": "インタビュー／M＆Aキャピタルパートナーズ執行役員・辻井武弘氏 MBK、牧野フTOB断念 独立・別傘下、2つの道に",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YdmlEakVBVDZLT0w2OFQ2R0E2aHN3ZnRaS3ZYbTVJMUdfMlZtOHJaUHRZNERfc2Z2Q0tZTWQ1Mm96Z0M5UVlRMWFxMW54b0VQRThUQW5xbzI?oc=5",
+        "publishedAt": "2026-05-28T21:11:15.000Z"
       },
       {
         "time": "05:04",
@@ -24,25 +31,11 @@
         "publishedAt": "2026-05-28T01:48:34.000Z"
       },
       {
-        "time": "10:47",
-        "title": "日本公庫、新興向け融額27％増 情報通信など中心",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40SzRBMjBVM05kQnVJT1BUOGJueEY5eG45aGVTaTJQajV6U2UxdUZOOEVNczVQV0ZtSmZRMER4ZFNfR2pSeWF6TGU0eFpQNXRfTHNpSFppdHFsYWc?oc=5",
-        "publishedAt": "2026-05-28T01:47:03.000Z"
-      },
-      {
         "time": "22:34",
         "title": "上海で国際観光見本市「ITB中国」 900社以上出展",
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yWXVCVmJKM0VjMVVPNHF4SkJCQlpWNWhyVzBxN1VWWU5BaFM3MHNmUFlNWEpJV1N0eEtBTzhsR2tlakIwMEtBUlBWU0VKOGppcjh2LUk2WnFHUjJ3T1FTSmNjNXhJQlNRZW5OUWpodXVxcVZfYmd6ODdnWQ?oc=5",
         "publishedAt": "2026-05-28T13:34:35.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "菊川市の六郷小児童、機械遺産を見学",
-        "source": "静岡新聞DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4V196XzJSbmJxSHJjQ1lLOWxzV3d5Y2JkM2wtWC1qWHFtYmdISG9MZHlPbE5LdmlDLThXTlZsaTRYV2xucjQ5N1d5S2kwQQ?oc=5",
-        "publishedAt": "2026-05-27T21:00:00.000Z"
       },
       {
         "time": "11:00",
@@ -57,6 +50,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGNaeU9FUjFxTTdaQ0FKVWo1TlozVmJoZVVSdjRmSjlFTW9FbzVob2thZEg4UnpzM1l0THVXcTNncE1xM1FIQ0pRTG5KY0hYMmtCTV9PMmFFdm5kM3YtM2tpYV9rb0poNzM2b1Jpc0FZQkdxYWdXTU80WWdzdXJtY1A2c2JaUENYZ1oyY2k2TU5CeXpEanFNbVdia0p4c0J6d1pPYTZEVlE?oc=5",
         "publishedAt": "2026-05-28T09:00:00.000Z"
+      },
+      {
+        "time": "05:04",
+        "title": "ＩＨＩ、ＳＡＲ衛星の運用開始",
+        "source": "化学工業日報 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LaTJ0Wjdnb3dCQlZrUGNvMXJydGUzUXVHSHZndk80YzU3ZDNUY0ZlTm92ZDFaR3dPQ0xYRWNOZHcwVmVDd0JnVWFfQVRnV2hrQ0tZ?oc=5",
+        "publishedAt": "2026-05-28T20:04:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "06:10",
+        "title": "トヨタ 次世代EVの開発を中止へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582098?source=rss",
+        "publishedAt": "2026-05-28T21:10:31.000Z"
+      },
+      {
         "time": "22:14",
         "title": "ソニー生命社員ら 1.2億円を詐取",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582088?source=rss",
         "publishedAt": "2026-05-28T13:14:11.000Z"
-      },
-      {
-        "time": "17:13",
-        "title": "悪質通信業者の公表検討 総務省",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582050?source=rss",
-        "publishedAt": "2026-05-28T08:13:25.000Z"
       },
       {
         "time": "23:06",
