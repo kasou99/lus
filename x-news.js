@@ -1,21 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-27T23:52:26.956Z",
+  "updatedAt": "2026-05-28T01:03:52.790Z",
   "items": [
     {
-      "time": "07:12",
-      "title": "皇族数確保 取りまとめの原案判明",
+      "time": "09:41",
+      "title": "台風6号北上 週明けに沖縄接近か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581969?source=rss",
-      "publishedAt": "2026-05-27T22:12:11.000Z",
-      "xQuery": "皇族数確保 取りまとめの原案判明"
+      "url": "https://news.yahoo.co.jp/pickup/6581987?source=rss",
+      "publishedAt": "2026-05-28T00:41:20.000Z",
+      "xQuery": "台風6号北上 週明けに沖縄接近か"
     },
     {
-      "time": "08:25",
-      "title": "原発審査 書類の虚偽に罰則導入へ",
+      "time": "07:40",
+      "title": "安倍氏銃撃 控訴審へ弁護団再編",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581979?source=rss",
-      "publishedAt": "2026-05-27T23:25:03.000Z",
-      "xQuery": "原発審査 書類の虚偽に罰則導入へ"
+      "url": "https://news.yahoo.co.jp/pickup/6581971?source=rss",
+      "publishedAt": "2026-05-27T22:40:38.000Z",
+      "xQuery": "安倍氏銃撃 控訴審へ弁護団再編"
+    },
+    {
+      "time": "09:28",
+      "title": "ロシア軍の戦死者 50万人近くに",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581985?source=rss",
+      "publishedAt": "2026-05-28T00:28:27.000Z",
+      "xQuery": "ロシア軍の戦死者 50万人近くに"
+    },
+    {
+      "time": "09:28",
+      "title": "栃木強殺 出国の男がバール購入",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6581986?source=rss",
+      "publishedAt": "2026-05-28T00:28:00.000Z",
+      "xQuery": "栃木強殺 出国の男がバール購入"
     },
     {
       "time": "08:01",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6581973?source=rss",
       "publishedAt": "2026-05-27T23:01:32.000Z",
       "xQuery": "酒蔵で転落死 ブーム陰で事故続発"
-    },
-    {
-      "time": "23:15",
-      "title": "吊りあげた側溝が落ち頭直撃 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581962?source=rss",
-      "publishedAt": "2026-05-27T14:15:17.000Z",
-      "xQuery": "吊りあげた側溝が落ち頭直撃 死亡"
-    },
-    {
-      "time": "08:00",
-      "title": "JAL 客室乗務員も滞在先飲酒禁止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581972?source=rss",
-      "publishedAt": "2026-05-27T23:00:13.000Z",
-      "xQuery": "JAL 客室乗務員も滞在先飲酒禁止"
     }
   ]
 };

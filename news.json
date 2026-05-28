@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T23:52:26.141Z",
+  "updatedAt": "2026-05-28T01:03:52.262Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,20 @@
         "publishedAt": "2026-05-27T04:00:00.000Z"
       },
       {
+        "time": "06:00",
+        "title": "菊川六郷小児童 機械遺産を見学",
+        "source": "静岡新聞DIGITAL",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4V196XzJSbmJxSHJjQ1lLOWxzV3d5Y2JkM2wtWC1qWHFtYmdISG9MZHlPbE5LdmlDLThXTlZsaTRYV2xucjQ5N1d5S2kwQQ?oc=5",
+        "publishedAt": "2026-05-27T21:00:00.000Z"
+      },
+      {
+        "time": "05:03",
+        "title": "創る力／人工ダイヤ 安定調達（4）ダイヤ半導体、日本に勝機",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sUkJxTENhYmRDZDFSQTBlQ2Z4elhoS0VSYXR4eTVVc1dEOG96NklfbmxCM0RHeEdFZGZzNkVFOURCSDNhc05oZDljOWY0ek5fcnYxZTl1SUVWdmc?oc=5",
+        "publishedAt": "2026-05-27T20:03:48.000Z"
+      },
+      {
         "time": "13:00",
         "title": "スマート統合サーボモーターの世界市場（2026年～2032年）、市場規模（2KW以下、2KW～5KW、5KW以上）・分析レポートを発表",
         "source": "Newscast.jp",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-05-27T02:58:18.000Z"
       },
       {
-        "time": "20:45",
-        "title": "株式会社M2X、本州化学工業株式会社の導入事例を公開",
+        "time": "19:48",
+        "title": "【今年の夏も開催！】小中学生向け「夏休み！無料プログラミング体験教室」",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wc1JEbnR0bG0wVVB4M3M4dUd3R3h3b01jX1V1MU03REF6Y0xyUU5mRy1BRWFFWmxVcGJGSFd5RTN2MWNjU3lNNlhibXJaZUljUkxLMw?oc=5",
-        "publishedAt": "2026-05-27T11:45:44.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "菊川六郷小児童 機械遺産を見学",
-        "source": "静岡新聞DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4V196XzJSbmJxSHJjQ1lLOWxzV3d5Y2JkM2wtWC1qWHFtYmdISG9MZHlPbE5LdmlDLThXTlZsaTRYV2xucjQ5N1d5S2kwQQ?oc=5",
-        "publishedAt": "2026-05-27T21:00:00.000Z"
-      },
-      {
-        "time": "05:14",
-        "title": "ファイルいい話／TYK 切削液用抗菌脱臭器",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14THpWa1l0VC01djNqd1Q4akw2aktmck9FN29iZzdzZ3pHSkk4akpqaVpwUEpLRUxaa19nUVR2ZFJaUXVxV01CNmN2UXA3WDBKSzNnM2ZuNHJtV00?oc=5",
-        "publishedAt": "2026-05-27T20:14:18.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPcVhQV1ZLVjhHRkhDRlhCVWRSaGFQNGY4ejVWZWtlSjdtdzA5bkRZMVZpSHpnRW9QMVREVjJWdHEyb3JYWXA5eW1tQTNyZ0FhOFNDNHlpM1AxeVVHQVVLcVlaX3pBd2oz?oc=5",
+        "publishedAt": "2026-05-27T10:48:32.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-05-27T02:49:34.000Z"
       },
       {
+        "time": "09:28",
+        "title": "ロシア軍の戦死者 50万人近くに",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581985?source=rss",
+        "publishedAt": "2026-05-28T00:28:27.000Z"
+      },
+      {
         "time": "12:11",
         "title": "露 国外への軍派遣巡る法案成立",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581872?source=rss",
         "publishedAt": "2026-05-27T03:11:14.000Z"
-      },
-      {
-        "time": "09:58",
-        "title": "ロシア 国連安保理で日本を批判",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581857?source=rss",
-        "publishedAt": "2026-05-27T00:58:32.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "09:28",
+        "title": "栃木強殺 出国の男がバール購入",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6581986?source=rss",
+        "publishedAt": "2026-05-28T00:28:00.000Z"
+      },
+      {
         "time": "08:01",
         "title": "酒蔵で転落死 ブーム陰で事故続発",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581952?source=rss",
         "publishedAt": "2026-05-27T13:13:05.000Z"
-      },
-      {
-        "time": "22:36",
-        "title": "児相保護15歳にわいせつ疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581956?source=rss",
-        "publishedAt": "2026-05-27T13:36:31.000Z"
       }
     ],
     "subsidyHeadlines": [
