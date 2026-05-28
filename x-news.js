@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-28T21:16:55.652Z",
+  "updatedAt": "2026-05-28T22:11:26.296Z",
   "items": [
     {
-      "time": "22:22",
-      "title": "日中関係悪化 中国が根源直視求む",
+      "time": "06:22",
+      "title": "米イラン合意 米大統領の承認待ち",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582089?source=rss",
-      "publishedAt": "2026-05-28T13:22:59.000Z",
-      "xQuery": "日中関係悪化 中国が根源直視求む"
+      "url": "https://news.yahoo.co.jp/pickup/6582099?source=rss",
+      "publishedAt": "2026-05-28T21:22:59.000Z",
+      "xQuery": "米イラン合意 米大統領の承認待ち"
     },
     {
       "time": "23:15",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "栃木強殺 40代の男を公開手配へ"
     },
     {
-      "time": "22:45",
-      "title": "福島第一2号機 6月燃料取り出しへ",
+      "time": "06:43",
+      "title": "3メガ銀 OpenAI新型モデル活用へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582091?source=rss",
-      "publishedAt": "2026-05-28T13:45:06.000Z",
-      "xQuery": "福島第一2号機 6月燃料取り出しへ"
+      "url": "https://news.yahoo.co.jp/pickup/6582101?source=rss",
+      "publishedAt": "2026-05-28T21:43:04.000Z",
+      "xQuery": "3メガ銀 OpenAI新型モデル活用へ"
     },
     {
       "time": "06:10",
