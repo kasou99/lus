@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-28T07:36:38.172Z",
+  "updatedAt": "2026-05-28T09:28:31.291Z",
   "items": [
     {
       "time": "16:26",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "新たな防災気象情報 提供を開始"
     },
     {
-      "time": "15:38",
-      "title": "2月の衆院選は「合憲」岡山支部",
+      "time": "18:11",
+      "title": "日比首脳 中国念頭に懸念表明へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582032?source=rss",
-      "publishedAt": "2026-05-28T06:38:05.000Z",
-      "xQuery": "2月の衆院選は「合憲」岡山支部"
+      "url": "https://news.yahoo.co.jp/pickup/6582060?source=rss",
+      "publishedAt": "2026-05-28T09:11:58.000Z",
+      "xQuery": "日比首脳 中国念頭に懸念表明へ"
     },
     {
-      "time": "14:23",
-      "title": "米半導体企業 台湾投資の重要性",
+      "time": "17:13",
+      "title": "悪質通信業者の公表検討 総務省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582020?source=rss",
-      "publishedAt": "2026-05-28T05:23:12.000Z",
-      "xQuery": "米半導体企業 台湾投資の重要性"
+      "url": "https://news.yahoo.co.jp/pickup/6582050?source=rss",
+      "publishedAt": "2026-05-28T08:13:25.000Z",
+      "xQuery": "悪質通信業者の公表検討 総務省"
     },
     {
-      "time": "16:04",
-      "title": "損保J 個人向け火災保険3%値上げ",
+      "time": "17:44",
+      "title": "東京・昭島市に大型獣か 注意喚起",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582037?source=rss",
-      "publishedAt": "2026-05-28T07:04:36.000Z",
-      "xQuery": "損保J 個人向け火災保険3%値上げ"
+      "url": "https://news.yahoo.co.jp/pickup/6582056?source=rss",
+      "publishedAt": "2026-05-28T08:44:29.000Z",
+      "xQuery": "東京・昭島市に大型獣か 注意喚起"
     },
     {
-      "time": "16:08",
-      "title": "予約診療のキャンセル料 誤解拡散",
+      "time": "17:33",
+      "title": "知事がランニングで骨折 公務欠席",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582036?source=rss",
-      "publishedAt": "2026-05-28T07:08:03.000Z",
-      "xQuery": "予約診療のキャンセル料 誤解拡散"
+      "url": "https://news.yahoo.co.jp/pickup/6582053?source=rss",
+      "publishedAt": "2026-05-28T08:33:24.000Z",
+      "xQuery": "知事がランニングで骨折 公務欠席"
     }
   ]
 };

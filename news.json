@@ -1,34 +1,20 @@
 {
-  "updatedAt": "2026-05-28T07:36:37.433Z",
+  "updatedAt": "2026-05-28T09:28:30.498Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "17:22",
-        "title": "株式新聞プレミアム＝工作機械受注、東アジア向け急拡大(ウエルスアドバイザー)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc19vRVg0UG1tTThtUlJCYnhnMHlqQnc0VVJJUUZFclFhRkRhTjhRM3V0ekhqTGJaSTQ4Ul92UGpMM20wU2h0S3dGeFZKMFFOZUFlOEM5by1aaGRZMEtaMEVmMEZ3bTFyRVZ1QXZKLWs0UURjWUU0QmM3dklQSE1lYnZSU0ZfMGs?oc=5",
-        "publishedAt": "2026-05-27T08:22:00.000Z"
-      },
-      {
-        "time": "10:48",
+        "time": "09:00",
         "title": "現場にとけ込む設備保全クラウド「M2X」が、返信ゼロで「確認した」を伝えられる絵文字リアクション機能をリリース",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xOVlMTEg4UGQ5aGhsOXNtWnRyd2RReUp3V19vemstWjEtZVM4UHBrejVKTHhUcGc2TkQ0OGViVVNYWjE3ZnZCRGhrUUgtUFEyNGZzN05yMkxwN082UTdodVpyWER1M2kyTUhCTVYyVUN4bjI5RlE?oc=5",
-        "publishedAt": "2026-05-28T01:48:34.000Z"
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyTVJESng3emtLTVpMbnMzTUx3NUJpXzAzQi1vOW5veWZLU2MyOTMzS0JIZ2xmalk3SGJXNjBwWEVONVRzNmxvTkE5dlI1WFVPOXlhVlN1RF84eGlXZlRkOW44MmxHR2JEM2c?oc=5",
+        "publishedAt": "2026-05-28T00:00:02.000Z"
       },
       {
-        "time": "10:47",
-        "title": "日本公庫、新興向け融額27％増 情報通信など中心",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40SzRBMjBVM05kQnVJT1BUOGJueEY5eG45aGVTaTJQajV6U2UxdUZOOEVNczVQV0ZtSmZRMER4ZFNfR2pSeWF6TGU0eFpQNXRfTHNpSFppdHFsYWc?oc=5",
-        "publishedAt": "2026-05-28T01:47:03.000Z"
-      },
-      {
-        "time": "17:22",
-        "title": "株式新聞プレミアム＝工作機械受注、東アジア向け急拡大――ＡＩ投資追い風に 速報",
-        "source": "kabushiki.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1jZllUSW1nTzVFU1AyMDdFRk8zMUxVWVpCNTJVcG9KM2VxSGVyVW5NN1FHNkpyYW84QjhDYlRxTTZ2Y3NQdXhn?oc=5",
-        "publishedAt": "2026-05-27T08:22:00.000Z"
+        "time": "18:00",
+        "title": "日立がAI使い「考える工場」 生産ラインの不具合を自己修復",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGNaeU9FUjFxTTdaQ0FKVWo1TlozVmJoZVVSdjRmSjlFTW9FbzVob2thZEg4UnpzM1l0THVXcTNncE1xM1FIQ0pRTG5KY0hYMmtCTV9PMmFFdm5kM3YtM2tpYV9rb0poNzM2b1Jpc0FZQkdxYWdXTU80WWdzdXJtY1A2c2JaUENYZ1oyY2k2TU5CeXpEanFNbVdia0p4c0J6d1pPYTZEVlE?oc=5",
+        "publishedAt": "2026-05-28T09:00:00.000Z"
       },
       {
         "time": "06:00",
@@ -38,6 +24,20 @@
         "publishedAt": "2026-05-27T21:00:00.000Z"
       },
       {
+        "time": "10:47",
+        "title": "日本公庫、新興向け融額27％増 情報通信など中心",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40SzRBMjBVM05kQnVJT1BUOGJueEY5eG45aGVTaTJQajV6U2UxdUZOOEVNczVQV0ZtSmZRMER4ZFNfR2pSeWF6TGU0eFpQNXRfTHNpSFppdHFsYWc?oc=5",
+        "publishedAt": "2026-05-28T01:47:03.000Z"
+      },
+      {
+        "time": "07:50",
+        "title": "“見えない基盤”に宿る精度、牧野フライスのモノづくり哲学（MONOist）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnJLZEUwMV9kV1A4V1p6UlZFQV9nUG5LRkh6S19SMklqcWVrOExvYWh1YWkwWG8teGFWMGY2RjBGdUVmUkg0M2wwQWpQYmhQekN1ZDg0dUlUXzZNcXV4dlpXUWc0UnRacjNwVEE4alRrOGN1V0NvaGQ5ci1JemhyXzBZNHFsOVVw?oc=5",
+        "publishedAt": "2026-05-27T22:50:09.000Z"
+      },
+      {
         "time": "05:00",
         "title": "ニデック不正 品質も疎かにした永守流経営",
         "source": "ｄメニューニュース",
@@ -45,21 +45,28 @@
         "publishedAt": "2026-05-27T20:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "ＥＶ電池製造装置事業を推進 コマツＮＴＣの竹田新社長意欲",
-        "source": "北日本新聞webunプラス",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10b3oyNnVwaHVtZ3ZwV1hkMTlOUnJLVWE4TTBrZzFKMGZFc3dXM20wWXNFdENOSkxUTkxRN0h6c0VpRVBmc2xWQWtKMA?oc=5",
-        "publishedAt": "2026-05-27T20:00:00.000Z"
+        "time": "19:48",
+        "title": "【今年の夏も開催！】小中学生向け「夏休み！無料プログラミング体験教室」",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPcVhQV1ZLVjhHRkhDRlhCVWRSaGFQNGY4ejVWZWtlSjdtdzA5bkRZMVZpSHpnRW9QMVREVjJWdHEyb3JYWXA5eW1tQTNyZ0FhOFNDNHlpM1AxeVVHQVVLcVlaX3pBd2oz?oc=5",
+        "publishedAt": "2026-05-27T10:48:32.000Z"
       },
       {
-        "time": "07:00",
-        "title": "60代もGeminiで覚醒？ 老舗メーカーが“年間で数千万円”も浮かせた「生成AI活用術」（ビジネス＋IT）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0d6LUg5V1EzWG9xNW9JX1l1bXVWRUloNGhoVWxUaUVOWGt2TjNpZnRSTVczdFlHRk8xbWw1bVRKcG03cDhwYzcwNmtmRENjQWxSXzBtdlV2cnY0bDZpVlF0OG9zdXZmQzF6ejYyWWx6TVlqM0JkYjV5R0lydUMyUm01VnRvTUZn?oc=5",
-        "publishedAt": "2026-05-27T22:00:06.000Z"
+        "time": "19:49",
+        "title": "浜松のヤマザキ、10月1日に東証上場廃止へ：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XRl90dG4xWHYxbFk5ZmdHU0ZLUVRnRDJCdU1oejZzWDEzdFQtRWRRY3UtcHZxU3Z6cDZuOG16UmpDSXlWVzNiNHJVQkZfbm5jbDU5dElHX2dNZ25BX2ZR?oc=5",
+        "publishedAt": "2026-05-27T10:49:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "17:11",
+        "title": "米大統領 同盟国オマーンを脅迫か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582049?source=rss",
+        "publishedAt": "2026-05-28T08:11:56.000Z"
+      },
       {
         "time": "13:03",
         "title": "トランプ氏 海峡巡る譲歩を否定",
@@ -82,13 +89,6 @@
         "publishedAt": "2026-05-27T07:21:07.000Z"
       },
       {
-        "time": "11:49",
-        "title": "イスラエル レバノン地上作戦拡大",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581870?source=rss",
-        "publishedAt": "2026-05-27T02:49:34.000Z"
-      },
-      {
         "time": "09:28",
         "title": "ロシア軍の戦死者 50万人近くに",
         "source": "Yahoo!ニュース",
@@ -96,14 +96,21 @@
         "publishedAt": "2026-05-28T00:28:27.000Z"
       },
       {
-        "time": "12:11",
-        "title": "露 国外への軍派遣巡る法案成立",
+        "time": "08:39",
+        "title": "W杯チケ高額 米NY・NJ州が調査",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581872?source=rss",
-        "publishedAt": "2026-05-27T03:11:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6581981?source=rss",
+        "publishedAt": "2026-05-27T23:39:47.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "17:13",
+        "title": "悪質通信業者の公表検討 総務省",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582050?source=rss",
+        "publishedAt": "2026-05-28T08:13:25.000Z"
+      },
       {
         "time": "16:04",
         "title": "損保J 個人向け火災保険3%値上げ",
@@ -126,25 +133,18 @@
         "publishedAt": "2026-05-28T04:23:24.000Z"
       },
       {
-        "time": "12:33",
-        "title": "ナフサ不安 小売り各社は対策強化",
+        "time": "17:21",
+        "title": "線路に犬 京浜東北線一時見合わせ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582003?source=rss",
-        "publishedAt": "2026-05-28T03:33:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582051?source=rss",
+        "publishedAt": "2026-05-28T08:21:16.000Z"
       },
       {
-        "time": "12:53",
-        "title": "ニップン 小麦粉やパスタ値上げ",
+        "time": "13:05",
+        "title": "リユース業界増収 コロナ禍転機",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582012?source=rss",
-        "publishedAt": "2026-05-28T03:53:00.000Z"
-      },
-      {
-        "time": "12:31",
-        "title": "ヒグマと列車の衝突急増 対策検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582005?source=rss",
-        "publishedAt": "2026-05-28T03:31:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582008?source=rss",
+        "publishedAt": "2026-05-28T04:05:13.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-05-28T03:26:42.000Z"
       },
       {
+        "time": "17:33",
+        "title": "知事がランニングで骨折 公務欠席",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582053?source=rss",
+        "publishedAt": "2026-05-28T08:33:24.000Z"
+      },
+      {
         "time": "08:01",
         "title": "酒蔵で転落死 ブーム陰で事故続発",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581973?source=rss",
         "publishedAt": "2026-05-27T23:01:32.000Z"
-      },
-      {
-        "time": "19:42",
-        "title": "降りた車発進で転倒か 女児重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581933?source=rss",
-        "publishedAt": "2026-05-27T10:42:18.000Z"
       }
     ],
     "subsidyHeadlines": [
