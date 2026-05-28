@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-28T10:55:05.553Z",
+  "updatedAt": "2026-05-28T12:13:32.907Z",
   "items": [
     {
-      "time": "17:11",
-      "title": "米大統領 同盟国オマーンを脅迫か",
+      "time": "19:55",
+      "title": "武器輸出競争アジアで加速 日本は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582049?source=rss",
-      "publishedAt": "2026-05-28T08:11:56.000Z",
-      "xQuery": "米大統領 同盟国オマーンを脅迫か"
+      "url": "https://news.yahoo.co.jp/pickup/6582066?source=rss",
+      "publishedAt": "2026-05-28T10:55:14.000Z",
+      "xQuery": "武器輸出競争アジアで加速 日本は"
     },
     {
-      "time": "17:53",
-      "title": "中傷動画報道 高市首相改めて否定",
+      "time": "19:38",
+      "title": "日比首脳 両国関係の格上げを確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582059?source=rss",
-      "publishedAt": "2026-05-28T08:53:43.000Z",
-      "xQuery": "中傷動画報道 高市首相改めて否定"
-    },
-    {
-      "time": "17:44",
-      "title": "東京・昭島市に大型獣か 注意喚起",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582056?source=rss",
-      "publishedAt": "2026-05-28T08:44:29.000Z",
-      "xQuery": "東京・昭島市に大型獣か 注意喚起"
+      "url": "https://news.yahoo.co.jp/pickup/6582070?source=rss",
+      "publishedAt": "2026-05-28T10:38:50.000Z",
+      "xQuery": "日比首脳 両国関係の格上げを確認"
     },
     {
       "time": "17:33",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "知事がランニングで骨折 公務欠席"
     },
     {
-      "time": "19:35",
-      "title": "クマ捕獲に過剰な苦情 町長ら訴え",
+      "time": "17:44",
+      "title": "東京・昭島市に大型獣か 注意喚起",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582071?source=rss",
-      "publishedAt": "2026-05-28T10:35:43.000Z",
-      "xQuery": "クマ捕獲に過剰な苦情 町長ら訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6582056?source=rss",
+      "publishedAt": "2026-05-28T08:44:29.000Z",
+      "xQuery": "東京・昭島市に大型獣か 注意喚起"
+    },
+    {
+      "time": "20:32",
+      "title": "はま寿司回答 寿司に洗剤動画拡散",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582078?source=rss",
+      "publishedAt": "2026-05-28T11:32:44.000Z",
+      "xQuery": "はま寿司回答 寿司に洗剤動画拡散"
     }
   ]
 };
