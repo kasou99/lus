@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-28T13:51:01.667Z",
+  "updatedAt": "2026-05-28T15:19:57.746Z",
   "items": [
     {
       "time": "22:22",
-      "title": "食料品消費税「実質ゼロ」案 浮上",
+      "title": "日中関係悪化 中国が根源直視求む",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582090?source=rss",
+      "url": "https://news.yahoo.co.jp/pickup/6582089?source=rss",
       "publishedAt": "2026-05-28T13:22:59.000Z",
-      "xQuery": "食料品消費税「実質ゼロ」案 浮上"
+      "xQuery": "日中関係悪化 中国が根源直視求む"
     },
     {
-      "time": "20:18",
-      "title": "ガバメントAI 全府省庁で実証開始",
+      "time": "23:15",
+      "title": "栃木強殺 40代の男を公開手配へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582074?source=rss",
-      "publishedAt": "2026-05-28T11:18:39.000Z",
-      "xQuery": "ガバメントAI 全府省庁で実証開始"
+      "url": "https://news.yahoo.co.jp/pickup/6582095?source=rss",
+      "publishedAt": "2026-05-28T14:15:02.000Z",
+      "xQuery": "栃木強殺 40代の男を公開手配へ"
     },
     {
-      "time": "22:14",
-      "title": "ソニー生命社員ら 1.2億円を詐取",
+      "time": "22:45",
+      "title": "福島第一2号機 6月燃料取り出しへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582088?source=rss",
-      "publishedAt": "2026-05-28T13:14:11.000Z",
-      "xQuery": "ソニー生命社員ら 1.2億円を詐取"
+      "url": "https://news.yahoo.co.jp/pickup/6582091?source=rss",
+      "publishedAt": "2026-05-28T13:45:06.000Z",
+      "xQuery": "福島第一2号機 6月燃料取り出しへ"
     },
     {
-      "time": "22:08",
-      "title": "エアコンやりがち行為で爆発 注意",
+      "time": "23:06",
+      "title": "日産社長ら 25年度報酬計13億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582087?source=rss",
-      "publishedAt": "2026-05-28T13:08:59.000Z",
-      "xQuery": "エアコンやりがち行為で爆発 注意"
+      "url": "https://news.yahoo.co.jp/pickup/6582094?source=rss",
+      "publishedAt": "2026-05-28T14:06:11.000Z",
+      "xQuery": "日産社長ら 25年度報酬計13億円"
     },
     {
-      "time": "20:32",
-      "title": "はま寿司回答 寿司に洗剤動画拡散",
+      "time": "17:44",
+      "title": "東京・昭島市に大型獣か 注意喚起",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582078?source=rss",
-      "publishedAt": "2026-05-28T11:32:44.000Z",
-      "xQuery": "はま寿司回答 寿司に洗剤動画拡散"
+      "url": "https://news.yahoo.co.jp/pickup/6582056?source=rss",
+      "publishedAt": "2026-05-28T08:44:29.000Z",
+      "xQuery": "東京・昭島市に大型獣か 注意喚起"
     }
   ]
 };

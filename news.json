@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T13:51:00.819Z",
+  "updatedAt": "2026-05-28T15:19:56.830Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,15 +17,8 @@
         "publishedAt": "2026-05-28T01:48:34.000Z"
       },
       {
-        "time": "10:47",
-        "title": "日本公庫、新興向け融額27％増 情報通信など中心",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40SzRBMjBVM05kQnVJT1BUOGJueEY5eG45aGVTaTJQajV6U2UxdUZOOEVNczVQV0ZtSmZRMER4ZFNfR2pSeWF6TGU0eFpQNXRfTHNpSFppdHFsYWc?oc=5",
-        "publishedAt": "2026-05-28T01:47:03.000Z"
-      },
-      {
         "time": "06:00",
-        "title": "菊川六郷小児童 機械遺産を見学",
+        "title": "菊川市の六郷小児童、機械遺産を見学",
         "source": "静岡新聞DIGITAL",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4V196XzJSbmJxSHJjQ1lLOWxzV3d5Y2JkM2wtWC1qWHFtYmdISG9MZHlPbE5LdmlDLThXTlZsaTRYV2xucjQ5N1d5S2kwQQ?oc=5",
         "publishedAt": "2026-05-27T21:00:00.000Z"
@@ -36,6 +29,13 @@
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yWXVCVmJKM0VjMVVPNHF4SkJCQlpWNWhyVzBxN1VWWU5BaFM3MHNmUFlNWEpJV1N0eEtBTzhsR2tlakIwMEtBUlBWU0VKOGppcjh2LUk2WnFHUjJ3T1FTSmNjNXhJQlNRZW5OUWpodXVxcVZfYmd6ODdnWQ?oc=5",
         "publishedAt": "2026-05-28T13:34:35.000Z"
+      },
+      {
+        "time": "05:03",
+        "title": "創る力／人工ダイヤ 安定調達（4）ダイヤ半導体、日本に勝機",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sUkJxTENhYmRDZDFSQTBlQ2Z4elhoS0VSYXR4eTVVc1dEOG96NklfbmxCM0RHeEdFZGZzNkVFOURCSDNhc05oZDljOWY0ek5fcnYxZTl1SUVWdmc?oc=5",
+        "publishedAt": "2026-05-27T20:03:48.000Z"
       },
       {
         "time": "07:50",
@@ -119,11 +119,11 @@
         "publishedAt": "2026-05-28T08:13:25.000Z"
       },
       {
-        "time": "16:04",
-        "title": "損保J 個人向け火災保険3%値上げ",
+        "time": "23:06",
+        "title": "日産社長ら 25年度報酬計13億円",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582037?source=rss",
-        "publishedAt": "2026-05-28T07:04:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582094?source=rss",
+        "publishedAt": "2026-05-28T14:06:11.000Z"
       },
       {
         "time": "20:32",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "23:15",
+        "title": "栃木強殺 40代の男を公開手配へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582095?source=rss",
+        "publishedAt": "2026-05-28T14:15:02.000Z"
+      },
+      {
         "time": "19:35",
         "title": "クマ捕獲に過剰な苦情 町長ら訴え",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582017?source=rss",
         "publishedAt": "2026-05-28T04:26:26.000Z"
-      },
-      {
-        "time": "09:28",
-        "title": "栃木強殺 出国の男がバール購入",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581986?source=rss",
-        "publishedAt": "2026-05-28T00:28:00.000Z"
       },
       {
         "time": "21:30",
