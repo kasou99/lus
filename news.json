@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T12:13:32.130Z",
+  "updatedAt": "2026-05-28T13:51:00.819Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGNaeU9FUjFxTTdaQ0FKVWo1TlozVmJoZVVSdjRmSjlFTW9FbzVob2thZEg4UnpzM1l0THVXcTNncE1xM1FIQ0pRTG5KY0hYMmtCTV9PMmFFdm5kM3YtM2tpYV9rb0poNzM2b1Jpc0FZQkdxYWdXTU80WWdzdXJtY1A2c2JaUENYZ1oyY2k2TU5CeXpEanFNbVdia0p4c0J6d1pPYTZEVlE?oc=5",
         "publishedAt": "2026-05-28T09:00:00.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "菊川六郷小児童 機械遺産を見学",
-        "source": "静岡新聞DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4V196XzJSbmJxSHJjQ1lLOWxzV3d5Y2JkM2wtWC1qWHFtYmdISG9MZHlPbE5LdmlDLThXTlZsaTRYV2xucjQ5N1d5S2kwQQ?oc=5",
-        "publishedAt": "2026-05-27T21:00:00.000Z"
       },
       {
         "time": "10:48",
@@ -31,17 +24,31 @@
         "publishedAt": "2026-05-28T01:47:03.000Z"
       },
       {
-        "time": "07:00",
-        "title": "60代もGeminiで覚醒？ 老舗メーカーが“年間で数千万円”も浮かせた「生成AI活用術」（ビジネス＋IT）",
+        "time": "06:00",
+        "title": "菊川六郷小児童 機械遺産を見学",
+        "source": "静岡新聞DIGITAL",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4V196XzJSbmJxSHJjQ1lLOWxzV3d5Y2JkM2wtWC1qWHFtYmdISG9MZHlPbE5LdmlDLThXTlZsaTRYV2xucjQ5N1d5S2kwQQ?oc=5",
+        "publishedAt": "2026-05-27T21:00:00.000Z"
+      },
+      {
+        "time": "22:34",
+        "title": "上海で国際観光見本市「ITB中国」 900社以上出展",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yWXVCVmJKM0VjMVVPNHF4SkJCQlpWNWhyVzBxN1VWWU5BaFM3MHNmUFlNWEpJV1N0eEtBTzhsR2tlakIwMEtBUlBWU0VKOGppcjh2LUk2WnFHUjJ3T1FTSmNjNXhJQlNRZW5OUWpodXVxcVZfYmd6ODdnWQ?oc=5",
+        "publishedAt": "2026-05-28T13:34:35.000Z"
+      },
+      {
+        "time": "07:50",
+        "title": "“見えない基盤”に宿る精度、牧野フライスのモノづくり哲学（MONOist）",
         "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0d6LUg5V1EzWG9xNW9JX1l1bXVWRUloNGhoVWxUaUVOWGt2TjNpZnRSTVczdFlHRk8xbWw1bVRKcG03cDhwYzcwNmtmRENjQWxSXzBtdlV2cnY0bDZpVlF0OG9zdXZmQzF6ejYyWWx6TVlqM0JkYjV5R0lydUMyUm01VnRvTUZn?oc=5",
-        "publishedAt": "2026-05-27T22:00:06.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnJLZEUwMV9kV1A4V1p6UlZFQV9nUG5LRkh6S19SMklqcWVrOExvYWh1YWkwWG8teGFWMGY2RjBGdUVmUkg0M2wwQWpQYmhQekN1ZDg0dUlUXzZNcXV4dlpXUWc0UnRacjNwVEE4alRrOGN1V0NvaGQ5ci1JemhyXzBZNHFsOVVw?oc=5",
+        "publishedAt": "2026-05-27T22:50:09.000Z"
       },
       {
         "time": "11:00",
         "title": "プラスチック製ケーブルエネルギーチェーンの世界市場（2026年～2032年）、市場規模（オープンタイプ、クローズドタイプ）・分析レポートを発表",
         "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zS1pqcHB4eDRGdjRIUlBhNXBDakFuWlRKQXJqS05PMllCYlFVN2ZuWmlTWXAtWkM4dldlMTJaaEZWWEtHeW80?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MUWQ2VlF3dFpNbHZZM1k1eUlBYjRGZ2t0QWZIeWlIUEVWOFFjVkN2Ul9selp5ZExhNDNhRHVaTDg1eWJDWjZiUHFnZmg3LTg?oc=5",
         "publishedAt": "2026-05-28T02:00:00.000Z"
       },
       {
@@ -50,13 +57,6 @@
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmRSSkhJOWdlQzlkQWRGOHBhNUloc0JDX0pOVzNXYVllSlFGekxnNTBRNE5LdHZocDQzYUlXdGlKZDNOdFRMS29xbGJ6SnRtUGUyWkFEVmpLX0VfdzdDYXlNbm81ckdvMl9CMV91TFAzRGFzWFRVU1FTRzBWWlNTYjA0dU81amY0MndXQtIBjAFBVV95cUxOMmRSSkhJOWdlQzlkQWRGOHBhNUloc0JDX0pOVzNXYVllSlFGekxnNTBRNE5LdHZocDQzYUlXdGlKZDNOdFRMS29xbGJ6SnRtUGUyWkFEVmpLX0VfdzdDYXlNbm81ckdvMl9CMV91TFAzRGFzWFRVU1FTRzBWWlNTYjA0dU81amY0MndXQg?oc=5",
         "publishedAt": "2026-05-28T08:05:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ＥＶ電池製造装置事業を推進 コマツＮＴＣの竹田新社長意欲",
-        "source": "北日本新聞webunプラス",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10b3oyNnVwaHVtZ3ZwV1hkMTlOUnJLVWE4TTBrZzFKMGZFc3dXM20wWXNFdENOSkxUTkxRN0h6c0VpRVBmc2xWQWtKMA?oc=5",
-        "publishedAt": "2026-05-27T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,11 +82,11 @@
         "publishedAt": "2026-05-28T01:52:43.000Z"
       },
       {
-        "time": "16:21",
-        "title": "ハマス軍事部門新トップ殺害 発表",
+        "time": "22:22",
+        "title": "日中関係悪化 中国が根源直視求む",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581904?source=rss",
-        "publishedAt": "2026-05-27T07:21:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582089?source=rss",
+        "publishedAt": "2026-05-28T13:22:59.000Z"
       },
       {
         "time": "09:28",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "19:17",
-        "title": "ソニー生命社員1.2億円不適切授受",
+        "time": "22:14",
+        "title": "ソニー生命社員ら 1.2億円を詐取",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582069?source=rss",
-        "publishedAt": "2026-05-28T10:17:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582088?source=rss",
+        "publishedAt": "2026-05-28T13:14:11.000Z"
       },
       {
         "time": "17:13",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-05-28T11:32:44.000Z"
       },
       {
-        "time": "17:21",
-        "title": "線路に犬 京浜東北線一時見合わせ",
+        "time": "21:48",
+        "title": "イオン 完全養殖ウナギを試験販売",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582051?source=rss",
-        "publishedAt": "2026-05-28T08:21:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582083?source=rss",
+        "publishedAt": "2026-05-28T12:48:52.000Z"
       },
       {
-        "time": "17:30",
-        "title": "「目印アクセ」が社会現象化 なぜ",
+        "time": "22:08",
+        "title": "エアコンやりがち行為で爆発 注意",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582055?source=rss",
-        "publishedAt": "2026-05-28T08:30:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582087?source=rss",
+        "publishedAt": "2026-05-28T13:08:59.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-05-28T00:28:00.000Z"
       },
       {
+        "time": "21:30",
+        "title": "不法投棄580kg 土地所有者が怒り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582080?source=rss",
+        "publishedAt": "2026-05-28T12:30:10.000Z"
+      },
+      {
         "time": "12:08",
         "title": "京都男児遺体 殺人の罪で父親起訴",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582011?source=rss",
         "publishedAt": "2026-05-28T03:26:42.000Z"
-      },
-      {
-        "time": "17:33",
-        "title": "知事がランニングで骨折 公務欠席",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582053?source=rss",
-        "publishedAt": "2026-05-28T08:33:24.000Z"
       }
     ],
     "subsidyHeadlines": [

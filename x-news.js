@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-28T12:13:32.907Z",
+  "updatedAt": "2026-05-28T13:51:01.667Z",
   "items": [
     {
-      "time": "19:55",
-      "title": "武器輸出競争アジアで加速 日本は",
+      "time": "22:22",
+      "title": "食料品消費税「実質ゼロ」案 浮上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582066?source=rss",
-      "publishedAt": "2026-05-28T10:55:14.000Z",
-      "xQuery": "武器輸出競争アジアで加速 日本は"
+      "url": "https://news.yahoo.co.jp/pickup/6582090?source=rss",
+      "publishedAt": "2026-05-28T13:22:59.000Z",
+      "xQuery": "食料品消費税「実質ゼロ」案 浮上"
     },
     {
-      "time": "19:38",
-      "title": "日比首脳 両国関係の格上げを確認",
+      "time": "20:18",
+      "title": "ガバメントAI 全府省庁で実証開始",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582070?source=rss",
-      "publishedAt": "2026-05-28T10:38:50.000Z",
-      "xQuery": "日比首脳 両国関係の格上げを確認"
+      "url": "https://news.yahoo.co.jp/pickup/6582074?source=rss",
+      "publishedAt": "2026-05-28T11:18:39.000Z",
+      "xQuery": "ガバメントAI 全府省庁で実証開始"
     },
     {
-      "time": "17:33",
-      "title": "知事がランニングで骨折 公務欠席",
+      "time": "22:14",
+      "title": "ソニー生命社員ら 1.2億円を詐取",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582053?source=rss",
-      "publishedAt": "2026-05-28T08:33:24.000Z",
-      "xQuery": "知事がランニングで骨折 公務欠席"
+      "url": "https://news.yahoo.co.jp/pickup/6582088?source=rss",
+      "publishedAt": "2026-05-28T13:14:11.000Z",
+      "xQuery": "ソニー生命社員ら 1.2億円を詐取"
     },
     {
-      "time": "17:44",
-      "title": "東京・昭島市に大型獣か 注意喚起",
+      "time": "22:08",
+      "title": "エアコンやりがち行為で爆発 注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582056?source=rss",
-      "publishedAt": "2026-05-28T08:44:29.000Z",
-      "xQuery": "東京・昭島市に大型獣か 注意喚起"
+      "url": "https://news.yahoo.co.jp/pickup/6582087?source=rss",
+      "publishedAt": "2026-05-28T13:08:59.000Z",
+      "xQuery": "エアコンやりがち行為で爆発 注意"
     },
     {
       "time": "20:32",
