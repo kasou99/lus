@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T03:49:10.703Z",
+  "updatedAt": "2026-05-28T05:33:51.135Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-05-28T01:48:34.000Z"
       },
       {
+        "time": "10:47",
+        "title": "日本公庫、新興向け融額27％増 情報通信など中心",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40SzRBMjBVM05kQnVJT1BUOGJueEY5eG45aGVTaTJQajV6U2UxdUZOOEVNczVQV0ZtSmZRMER4ZFNfR2pSeWF6TGU0eFpQNXRfTHNpSFppdHFsYWc?oc=5",
+        "publishedAt": "2026-05-28T01:47:03.000Z"
+      },
+      {
         "time": "06:00",
         "title": "菊川六郷小児童 機械遺産を見学",
         "source": "静岡新聞DIGITAL",
@@ -31,48 +38,41 @@
         "publishedAt": "2026-05-27T21:00:00.000Z"
       },
       {
-        "time": "13:00",
-        "title": "工作機械用エンコーダーの世界市場（2026年～2032年）、市場規模（インクリメンタルエンコーダ、アブソリュートエンコーダ）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRb0hTSUJsSDZWSThHNWEzYl9wZWlDR1lHa19sM3pLZnUyVEQ2Q3BLc05FdTJCZzg1NnRseldCenJDRW54MlFTbUhhUklFUQ?oc=5",
-        "publishedAt": "2026-05-27T04:00:00.000Z"
-      },
-      {
-        "time": "05:03",
-        "title": "働く人の安全・健康・ウェルビーイング／シーメンス、意識の転換",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXQUliZjVPR3NUTDhiVHVEWkJ1blhtb18wNWpDQ3BtT3IxV1dmakU1ZmZGZjk4Umt1QzRQNGhpYWtEajlZaDJ1SGVVMzBkVXVNZmprYzR5OERuWFk?oc=5",
-        "publishedAt": "2026-05-27T20:03:09.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "スマート統合サーボモーターの世界市場（2026年～2032年）、市場規模（2KW以下、2KW～5KW、5KW以上）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81NU9wLUFTaUtTRVY5a2t1a1JXTjZyTkgtYnVXQk1wLUlBdWRmV2tMYmhqWlRlT1lSNDFES2w1MzZhbEtjZXpMclY0aThuYW8?oc=5",
-        "publishedAt": "2026-05-27T04:00:00.000Z"
-      },
-      {
         "time": "05:00",
         "title": "ニデック不正 品質も疎かにした永守流経営",
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV0xJSDBha3FTRkRUYnJDWWxIZHRzYTJ0ME1TdFlzWEttU3QyR3F4V1BJSnNTbjhPVGU1bFFDcEdfNzhWZzBmNksydWtwcjFCSDJ2OERtV1daOGUwby1ncjlqVkRYemxQWUlKMTFUZzlJZmxUc2ZHOENjWHlGQ01hc1MwZ2otYXhwNUHSAYoBQVVfeXFMTldMSUgwYWtxU0ZEVGJyQ1lsSGR0c2EydDBNU3RZc1hLbVN0MkdxeFdQSUpzU244T1RlNWxRQ3BHXzc4VmcwZjZLMnVrcHIxQkgydjhEbVdXWjhlMG8tZ3I5alZEWHpsUFlJSjExVGc5SWZsVHNmRzhDY1h5RkNNYXNTMGdqLWF4cDVB?oc=5",
         "publishedAt": "2026-05-27T20:00:00.000Z"
+      },
+      {
+        "time": "19:49",
+        "title": "浜松のヤマザキ、10月1日に東証上場廃止へ：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XRl90dG4xWHYxbFk5ZmdHU0ZLUVRnRDJCdU1oejZzWDEzdFQtRWRRY3UtcHZxU3Z6cDZuOG16UmpDSXlWVzNiNHJVQkZfbm5jbDU5dElHX2dNZ25BX2ZR?oc=5",
+        "publishedAt": "2026-05-27T10:49:00.000Z"
+      },
+      {
+        "time": "08:18",
+        "title": "北朝鮮・龍城機械工場で大規模工事…固体燃料エンジン設備追加か（KOREA WAVE）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nNXNBS2tsUjExREt1MnZYMGdVbGw1MDViLWZTODRzMlo2S3o2eGFLU0NQU05idHp3RFV5UkRod05NWkJyTzN6Q19VY1lCQ2huSkNGb1hXOEdsYkZlYV9PcHRya1d4bnN3ejV0SW1ZUlVTckdkbk9VOFNIOHZNT00?oc=5",
+        "publishedAt": "2026-05-27T23:18:45.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "13:03",
+        "title": "トランプ氏 海峡巡る譲歩を否定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582015?source=rss",
+        "publishedAt": "2026-05-28T04:03:31.000Z"
+      },
       {
         "time": "10:52",
         "title": "米軍 イラン軍事施設などを攻撃",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581992?source=rss",
         "publishedAt": "2026-05-28T01:52:43.000Z"
-      },
-      {
-        "time": "06:46",
-        "title": "米大統領 イランとの交渉満足せず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581968?source=rss",
-        "publishedAt": "2026-05-27T21:46:20.000Z"
       },
       {
         "time": "16:21",
@@ -105,32 +105,18 @@
     ],
     "economyHeadlines": [
       {
-        "time": "12:33",
-        "title": "ナフサ不安 小売り各社は対策強化",
+        "time": "14:23",
+        "title": "米半導体企業 台湾投資の重要性",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582003?source=rss",
-        "publishedAt": "2026-05-28T03:33:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582020?source=rss",
+        "publishedAt": "2026-05-28T05:23:12.000Z"
       },
       {
-        "time": "08:03",
-        "title": "物流業界 輸送力確保は外国人頼み",
+        "time": "13:23",
+        "title": "飲酒で便遅延 国交省がJALに監査",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581976?source=rss",
-        "publishedAt": "2026-05-27T23:03:26.000Z"
-      },
-      {
-        "time": "12:31",
-        "title": "ヒグマと列車の衝突急増 対策検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582005?source=rss",
-        "publishedAt": "2026-05-28T03:31:53.000Z"
-      },
-      {
-        "time": "08:00",
-        "title": "JAL 客室乗務員も滞在先飲酒禁止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581972?source=rss",
-        "publishedAt": "2026-05-27T23:00:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582016?source=rss",
+        "publishedAt": "2026-05-28T04:23:24.000Z"
       },
       {
         "time": "11:26",
@@ -140,14 +126,35 @@
         "publishedAt": "2026-05-28T02:26:42.000Z"
       },
       {
-        "time": "20:49",
-        "title": "コスメ「リンメル」が日本撤退へ",
+        "time": "12:33",
+        "title": "ナフサ不安 小売り各社は対策強化",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581940?source=rss",
-        "publishedAt": "2026-05-27T11:49:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582003?source=rss",
+        "publishedAt": "2026-05-28T03:33:47.000Z"
+      },
+      {
+        "time": "12:53",
+        "title": "ニップン 小麦粉やパスタ値上げ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582012?source=rss",
+        "publishedAt": "2026-05-28T03:53:00.000Z"
+      },
+      {
+        "time": "12:31",
+        "title": "ヒグマと列車の衝突急増 対策検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582005?source=rss",
+        "publishedAt": "2026-05-28T03:31:53.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "13:26",
+        "title": "北九州市の人口 初の90万人割れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582017?source=rss",
+        "publishedAt": "2026-05-28T04:26:26.000Z"
+      },
       {
         "time": "09:28",
         "title": "栃木強殺 出国の男がバール購入",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6581933?source=rss",
         "publishedAt": "2026-05-27T10:42:18.000Z"
-      },
-      {
-        "time": "22:13",
-        "title": "抗がん剤死亡 混入の原因特定困難",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581952?source=rss",
-        "publishedAt": "2026-05-27T13:13:05.000Z"
       }
     ],
     "subsidyHeadlines": [

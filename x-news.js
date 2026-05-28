@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-28T03:49:11.920Z",
+  "updatedAt": "2026-05-28T05:33:51.942Z",
   "items": [
     {
-      "time": "12:28",
-      "title": "詐欺被害金の追跡 警察と銀行協定",
+      "time": "14:15",
+      "title": "大飯原発 2審は設置許可を維持",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582001?source=rss",
-      "publishedAt": "2026-05-28T03:28:57.000Z",
-      "xQuery": "詐欺被害金の追跡 警察と銀行協定"
+      "url": "https://news.yahoo.co.jp/pickup/6582026?source=rss",
+      "publishedAt": "2026-05-28T05:15:39.000Z",
+      "xQuery": "大飯原発 2審は設置許可を維持"
     },
     {
-      "time": "08:03",
-      "title": "物流業界 輸送力確保は外国人頼み",
+      "time": "13:05",
+      "title": "リユース業界増収 コロナ禍転機",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581976?source=rss",
-      "publishedAt": "2026-05-27T23:03:26.000Z",
-      "xQuery": "物流業界 輸送力確保は外国人頼み"
+      "url": "https://news.yahoo.co.jp/pickup/6582008?source=rss",
+      "publishedAt": "2026-05-28T04:05:13.000Z",
+      "xQuery": "リユース業界増収 コロナ禍転機"
     },
     {
       "time": "12:08",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "京都男児遺体 殺人の罪で父親起訴"
     },
     {
-      "time": "11:26",
-      "title": "乗務前の飲酒 なぜJALで表面化",
+      "time": "13:26",
+      "title": "北九州市の人口 初の90万人割れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6581996?source=rss",
-      "publishedAt": "2026-05-28T02:26:42.000Z",
-      "xQuery": "乗務前の飲酒 なぜJALで表面化"
+      "url": "https://news.yahoo.co.jp/pickup/6582017?source=rss",
+      "publishedAt": "2026-05-28T04:26:26.000Z",
+      "xQuery": "北九州市の人口 初の90万人割れ"
     },
     {
       "time": "11:51",
