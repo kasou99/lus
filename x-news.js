@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-28T22:11:26.296Z",
+  "updatedAt": "2026-05-28T23:00:15.415Z",
   "items": [
     {
       "time": "06:22",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン合意 米大統領の承認待ち"
     },
     {
-      "time": "23:15",
-      "title": "栃木強殺 40代の男を公開手配へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582095?source=rss",
-      "publishedAt": "2026-05-28T14:15:02.000Z",
-      "xQuery": "栃木強殺 40代の男を公開手配へ"
-    },
-    {
       "time": "06:43",
       "title": "3メガ銀 OpenAI新型モデル活用へ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6582101?source=rss",
       "publishedAt": "2026-05-28T21:43:04.000Z",
       "xQuery": "3メガ銀 OpenAI新型モデル活用へ"
+    },
+    {
+      "time": "07:12",
+      "title": "栃木強殺 出国の男が隠語で勧誘か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582103?source=rss",
+      "publishedAt": "2026-05-28T22:12:22.000Z",
+      "xQuery": "栃木強殺 出国の男が隠語で勧誘か"
     },
     {
       "time": "06:10",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トヨタ 次世代EVの開発を中止へ"
     },
     {
-      "time": "22:08",
-      "title": "エアコンやりがち行為で爆発 注意",
+      "time": "07:35",
+      "title": "カンボジア名誉領事 資金申告漏れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582087?source=rss",
-      "publishedAt": "2026-05-28T13:08:59.000Z",
-      "xQuery": "エアコンやりがち行為で爆発 注意"
+      "url": "https://news.yahoo.co.jp/pickup/6582107?source=rss",
+      "publishedAt": "2026-05-28T22:35:50.000Z",
+      "xQuery": "カンボジア名誉領事 資金申告漏れ"
     }
   ]
 };
