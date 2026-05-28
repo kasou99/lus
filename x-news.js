@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-28T05:33:51.942Z",
+  "updatedAt": "2026-05-28T07:36:38.172Z",
   "items": [
     {
-      "time": "14:15",
-      "title": "大飯原発 2審は設置許可を維持",
+      "time": "16:26",
+      "title": "新たな防災気象情報 提供を開始",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582026?source=rss",
-      "publishedAt": "2026-05-28T05:15:39.000Z",
-      "xQuery": "大飯原発 2審は設置許可を維持"
+      "url": "https://news.yahoo.co.jp/pickup/6582041?source=rss",
+      "publishedAt": "2026-05-28T07:26:16.000Z",
+      "xQuery": "新たな防災気象情報 提供を開始"
     },
     {
-      "time": "13:05",
-      "title": "リユース業界増収 コロナ禍転機",
+      "time": "15:38",
+      "title": "2月の衆院選は「合憲」岡山支部",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582008?source=rss",
-      "publishedAt": "2026-05-28T04:05:13.000Z",
-      "xQuery": "リユース業界増収 コロナ禍転機"
+      "url": "https://news.yahoo.co.jp/pickup/6582032?source=rss",
+      "publishedAt": "2026-05-28T06:38:05.000Z",
+      "xQuery": "2月の衆院選は「合憲」岡山支部"
     },
     {
-      "time": "12:08",
-      "title": "京都男児遺体 殺人の罪で父親起訴",
+      "time": "14:23",
+      "title": "米半導体企業 台湾投資の重要性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582004?source=rss",
-      "publishedAt": "2026-05-28T03:08:26.000Z",
-      "xQuery": "京都男児遺体 殺人の罪で父親起訴"
+      "url": "https://news.yahoo.co.jp/pickup/6582020?source=rss",
+      "publishedAt": "2026-05-28T05:23:12.000Z",
+      "xQuery": "米半導体企業 台湾投資の重要性"
     },
     {
-      "time": "13:26",
-      "title": "北九州市の人口 初の90万人割れ",
+      "time": "16:04",
+      "title": "損保J 個人向け火災保険3%値上げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582017?source=rss",
-      "publishedAt": "2026-05-28T04:26:26.000Z",
-      "xQuery": "北九州市の人口 初の90万人割れ"
+      "url": "https://news.yahoo.co.jp/pickup/6582037?source=rss",
+      "publishedAt": "2026-05-28T07:04:36.000Z",
+      "xQuery": "損保J 個人向け火災保険3%値上げ"
     },
     {
-      "time": "11:51",
-      "title": "サラ川 1位はスマホ決済の不安",
+      "time": "16:08",
+      "title": "予約診療のキャンセル料 誤解拡散",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582000?source=rss",
-      "publishedAt": "2026-05-28T02:51:15.000Z",
-      "xQuery": "サラ川 1位はスマホ決済の不安"
+      "url": "https://news.yahoo.co.jp/pickup/6582036?source=rss",
+      "publishedAt": "2026-05-28T07:08:03.000Z",
+      "xQuery": "予約診療のキャンセル料 誤解拡散"
     }
   ]
 };

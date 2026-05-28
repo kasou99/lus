@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T05:33:51.135Z",
+  "updatedAt": "2026-05-28T07:36:37.433Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -7,13 +7,6 @@
         "title": "株式新聞プレミアム＝工作機械受注、東アジア向け急拡大(ウエルスアドバイザー)",
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc19vRVg0UG1tTThtUlJCYnhnMHlqQnc0VVJJUUZFclFhRkRhTjhRM3V0ekhqTGJaSTQ4Ul92UGpMM20wU2h0S3dGeFZKMFFOZUFlOEM5by1aaGRZMEtaMEVmMEZ3bTFyRVZ1QXZKLWs0UURjWUU0QmM3dklQSE1lYnZSU0ZfMGs?oc=5",
-        "publishedAt": "2026-05-27T08:22:00.000Z"
-      },
-      {
-        "time": "17:22",
-        "title": "株式新聞プレミアム＝工作機械受注、東アジア向け急拡大――ＡＩ投資追い風に 速報",
-        "source": "kabushiki.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1jZllUSW1nTzVFU1AyMDdFRk8zMUxVWVpCNTJVcG9KM2VxSGVyVW5NN1FHNkpyYW84QjhDYlRxTTZ2Y3NQdXhn?oc=5",
         "publishedAt": "2026-05-27T08:22:00.000Z"
       },
       {
@@ -31,6 +24,13 @@
         "publishedAt": "2026-05-28T01:47:03.000Z"
       },
       {
+        "time": "17:22",
+        "title": "株式新聞プレミアム＝工作機械受注、東アジア向け急拡大――ＡＩ投資追い風に 速報",
+        "source": "kabushiki.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1jZllUSW1nTzVFU1AyMDdFRk8zMUxVWVpCNTJVcG9KM2VxSGVyVW5NN1FHNkpyYW84QjhDYlRxTTZ2Y3NQdXhn?oc=5",
+        "publishedAt": "2026-05-27T08:22:00.000Z"
+      },
+      {
         "time": "06:00",
         "title": "菊川六郷小児童 機械遺産を見学",
         "source": "静岡新聞DIGITAL",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-05-27T20:00:00.000Z"
       },
       {
-        "time": "19:49",
-        "title": "浜松のヤマザキ、10月1日に東証上場廃止へ：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XRl90dG4xWHYxbFk5ZmdHU0ZLUVRnRDJCdU1oejZzWDEzdFQtRWRRY3UtcHZxU3Z6cDZuOG16UmpDSXlWVzNiNHJVQkZfbm5jbDU5dElHX2dNZ25BX2ZR?oc=5",
-        "publishedAt": "2026-05-27T10:49:00.000Z"
+        "time": "05:00",
+        "title": "ＥＶ電池製造装置事業を推進 コマツＮＴＣの竹田新社長意欲",
+        "source": "北日本新聞webunプラス",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10b3oyNnVwaHVtZ3ZwV1hkMTlOUnJLVWE4TTBrZzFKMGZFc3dXM20wWXNFdENOSkxUTkxRN0h6c0VpRVBmc2xWQWtKMA?oc=5",
+        "publishedAt": "2026-05-27T20:00:00.000Z"
       },
       {
-        "time": "08:18",
-        "title": "北朝鮮・龍城機械工場で大規模工事…固体燃料エンジン設備追加か（KOREA WAVE）",
+        "time": "07:00",
+        "title": "60代もGeminiで覚醒？ 老舗メーカーが“年間で数千万円”も浮かせた「生成AI活用術」（ビジネス＋IT）",
         "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nNXNBS2tsUjExREt1MnZYMGdVbGw1MDViLWZTODRzMlo2S3o2eGFLU0NQU05idHp3RFV5UkRod05NWkJyTzN6Q19VY1lCQ2huSkNGb1hXOEdsYkZlYV9PcHRya1d4bnN3ejV0SW1ZUlVTckdkbk9VOFNIOHZNT00?oc=5",
-        "publishedAt": "2026-05-27T23:18:45.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0d6LUg5V1EzWG9xNW9JX1l1bXVWRUloNGhoVWxUaUVOWGt2TjNpZnRSTVczdFlHRk8xbWw1bVRKcG03cDhwYzcwNmtmRENjQWxSXzBtdlV2cnY0bDZpVlF0OG9zdXZmQzF6ejYyWWx6TVlqM0JkYjV5R0lydUMyUm01VnRvTUZn?oc=5",
+        "publishedAt": "2026-05-27T22:00:06.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "16:04",
+        "title": "損保J 個人向け火災保険3%値上げ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582037?source=rss",
+        "publishedAt": "2026-05-28T07:04:36.000Z"
+      },
+      {
         "time": "14:23",
         "title": "米半導体企業 台湾投資の重要性",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582016?source=rss",
         "publishedAt": "2026-05-28T04:23:24.000Z"
-      },
-      {
-        "time": "11:26",
-        "title": "乗務前の飲酒 なぜJALで表面化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6581996?source=rss",
-        "publishedAt": "2026-05-28T02:26:42.000Z"
       },
       {
         "time": "12:33",
