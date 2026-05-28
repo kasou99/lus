@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-28T09:28:31.291Z",
+  "updatedAt": "2026-05-28T10:55:05.553Z",
   "items": [
     {
-      "time": "16:26",
-      "title": "新たな防災気象情報 提供を開始",
+      "time": "17:11",
+      "title": "米大統領 同盟国オマーンを脅迫か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582041?source=rss",
-      "publishedAt": "2026-05-28T07:26:16.000Z",
-      "xQuery": "新たな防災気象情報 提供を開始"
+      "url": "https://news.yahoo.co.jp/pickup/6582049?source=rss",
+      "publishedAt": "2026-05-28T08:11:56.000Z",
+      "xQuery": "米大統領 同盟国オマーンを脅迫か"
     },
     {
-      "time": "18:11",
-      "title": "日比首脳 中国念頭に懸念表明へ",
+      "time": "17:53",
+      "title": "中傷動画報道 高市首相改めて否定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582060?source=rss",
-      "publishedAt": "2026-05-28T09:11:58.000Z",
-      "xQuery": "日比首脳 中国念頭に懸念表明へ"
-    },
-    {
-      "time": "17:13",
-      "title": "悪質通信業者の公表検討 総務省",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582050?source=rss",
-      "publishedAt": "2026-05-28T08:13:25.000Z",
-      "xQuery": "悪質通信業者の公表検討 総務省"
+      "url": "https://news.yahoo.co.jp/pickup/6582059?source=rss",
+      "publishedAt": "2026-05-28T08:53:43.000Z",
+      "xQuery": "中傷動画報道 高市首相改めて否定"
     },
     {
       "time": "17:44",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582053?source=rss",
       "publishedAt": "2026-05-28T08:33:24.000Z",
       "xQuery": "知事がランニングで骨折 公務欠席"
+    },
+    {
+      "time": "19:35",
+      "title": "クマ捕獲に過剰な苦情 町長ら訴え",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582071?source=rss",
+      "publishedAt": "2026-05-28T10:35:43.000Z",
+      "xQuery": "クマ捕獲に過剰な苦情 町長ら訴え"
     }
   ]
 };
