@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-29T01:15:30.272Z",
+  "updatedAt": "2026-05-29T02:26:30.242Z",
   "items": [
     {
-      "time": "08:42",
-      "title": "日本の人口309万人減 減少幅最大",
+      "time": "08:26",
+      "title": "関東から西で30℃超に 熱中症注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582118?source=rss",
-      "publishedAt": "2026-05-28T23:42:35.000Z",
-      "xQuery": "日本の人口309万人減 減少幅最大"
+      "url": "https://news.yahoo.co.jp/pickup/6582116?source=rss",
+      "publishedAt": "2026-05-28T23:26:14.000Z",
+      "xQuery": "関東から西で30℃超に 熱中症注意"
     },
     {
-      "time": "08:03",
-      "title": "現存建物の2割超が未登記 調査",
+      "time": "10:40",
+      "title": "ネタニヤフ氏 ガザ70%掌握を指示",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582113?source=rss",
-      "publishedAt": "2026-05-28T23:03:12.000Z",
-      "xQuery": "現存建物の2割超が未登記 調査"
+      "url": "https://news.yahoo.co.jp/pickup/6582135?source=rss",
+      "publishedAt": "2026-05-29T01:40:53.000Z",
+      "xQuery": "ネタニヤフ氏 ガザ70%掌握を指示"
     },
     {
       "time": "09:53",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "露の批判「ばかげている」日本"
     },
     {
-      "time": "08:28",
-      "title": "助手席窓から顔出し壁に衝突 死亡",
+      "time": "10:26",
+      "title": "ハーバード卒業式ゲスト 政権批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582117?source=rss",
-      "publishedAt": "2026-05-28T23:28:24.000Z",
-      "xQuery": "助手席窓から顔出し壁に衝突 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6582131?source=rss",
+      "publishedAt": "2026-05-29T01:26:04.000Z",
+      "xQuery": "ハーバード卒業式ゲスト 政権批判"
     },
     {
-      "time": "09:50",
-      "title": "東京メトロ銀座線 全線で運転再開",
+      "time": "10:36",
+      "title": "TSMC経済効果に南北格差 熊本県",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582130?source=rss",
-      "publishedAt": "2026-05-29T00:50:28.000Z",
-      "xQuery": "東京メトロ銀座線 全線で運転再開"
+      "url": "https://news.yahoo.co.jp/pickup/6582134?source=rss",
+      "publishedAt": "2026-05-29T01:36:03.000Z",
+      "xQuery": "TSMC経済効果に南北格差 熊本県"
     }
   ]
 };
