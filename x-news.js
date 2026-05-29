@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-29T12:07:34.848Z",
+  "updatedAt": "2026-05-29T13:40:03.207Z",
   "items": [
     {
-      "time": "19:48",
-      "title": "為替介入11.7兆円 月間で過去最大",
+      "time": "19:05",
+      "title": "日本への留学生40万人 過去最多",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582215?source=rss",
-      "publishedAt": "2026-05-29T10:48:48.000Z",
-      "xQuery": "為替介入11.7兆円 月間で過去最大"
+      "url": "https://news.yahoo.co.jp/pickup/6582206?source=rss",
+      "publishedAt": "2026-05-29T10:05:09.000Z",
+      "xQuery": "日本への留学生40万人 過去最多"
     },
     {
-      "time": "17:46",
-      "title": "個人の申告所得合計 バブル期迫る",
+      "time": "21:25",
+      "title": "海外で息子が過労自死 母の闘い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582196?source=rss",
-      "publishedAt": "2026-05-29T08:46:21.000Z",
-      "xQuery": "個人の申告所得合計 バブル期迫る"
+      "url": "https://news.yahoo.co.jp/pickup/6582222?source=rss",
+      "publishedAt": "2026-05-29T12:25:58.000Z",
+      "xQuery": "海外で息子が過労自死 母の闘い"
     },
     {
       "time": "21:04",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "サンリオ常務の不適切受給2.5億円"
     },
     {
-      "time": "20:23",
-      "title": "マイクロバスが2人はねる 1人死亡",
+      "time": "21:21",
+      "title": "マイクロバスにはねられ2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582216?source=rss",
-      "publishedAt": "2026-05-29T11:23:21.000Z",
-      "xQuery": "マイクロバスが2人はねる 1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6582223?source=rss",
+      "publishedAt": "2026-05-29T12:21:05.000Z",
+      "xQuery": "マイクロバスにはねられ2人死亡"
     },
     {
       "time": "20:52",
