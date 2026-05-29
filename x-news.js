@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-29T22:09:28.479Z",
+  "updatedAt": "2026-05-29T22:58:50.479Z",
   "items": [
+    {
+      "time": "07:38",
+      "title": "台風 1～2日にかけ沖縄奄美に接近",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582244?source=rss",
+      "publishedAt": "2026-05-29T22:38:37.000Z",
+      "xQuery": "台風 1～2日にかけ沖縄奄美に接近"
+    },
     {
       "time": "22:49",
       "title": "食品消費税 27年4月1%軸に検討か",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "食品消費税 27年4月1%軸に検討か"
     },
     {
-      "time": "22:53",
-      "title": "診察キャンセル料巡り厚労相陳謝",
+      "time": "07:30",
+      "title": "強殺 逃亡の男が報酬4千万円示唆",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582235?source=rss",
-      "publishedAt": "2026-05-29T13:53:29.000Z",
-      "xQuery": "診察キャンセル料巡り厚労相陳謝"
-    },
-    {
-      "time": "22:40",
-      "title": "副首都法案 自民党内から異論噴出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582230?source=rss",
-      "publishedAt": "2026-05-29T13:40:17.000Z",
-      "xQuery": "副首都法案 自民党内から異論噴出"
+      "url": "https://news.yahoo.co.jp/pickup/6582241?source=rss",
+      "publishedAt": "2026-05-29T22:30:26.000Z",
+      "xQuery": "強殺 逃亡の男が報酬4千万円示唆"
     },
     {
       "time": "23:38",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "殺虫剤を誤飲し男性死亡 経緯捜査"
     },
     {
-      "time": "22:48",
-      "title": "「白黒ポテトチップス」店頭に",
+      "time": "07:51",
+      "title": "「少林寺」元住職 懲役24年の判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582233?source=rss",
-      "publishedAt": "2026-05-29T13:48:46.000Z",
-      "xQuery": "「白黒ポテトチップス」店頭に"
+      "url": "https://news.yahoo.co.jp/pickup/6582246?source=rss",
+      "publishedAt": "2026-05-29T22:51:44.000Z",
+      "xQuery": "「少林寺」元住職 懲役24年の判決"
     }
   ]
 };
