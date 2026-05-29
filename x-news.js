@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-28T23:55:21.305Z",
+  "updatedAt": "2026-05-29T01:15:30.272Z",
   "items": [
     {
       "time": "08:42",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "現存建物の2割超が未登記 調査"
     },
     {
-      "time": "07:52",
-      "title": "国産AI 新たに約15社が出資意向",
+      "time": "09:53",
+      "title": "露の批判「ばかげている」日本",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582109?source=rss",
-      "publishedAt": "2026-05-28T22:52:43.000Z",
-      "xQuery": "国産AI 新たに約15社が出資意向"
-    },
-    {
-      "time": "06:10",
-      "title": "トヨタ 次世代EVの開発を中止へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582098?source=rss",
-      "publishedAt": "2026-05-28T21:10:31.000Z",
-      "xQuery": "トヨタ 次世代EVの開発を中止へ"
+      "url": "https://news.yahoo.co.jp/pickup/6582129?source=rss",
+      "publishedAt": "2026-05-29T00:53:09.000Z",
+      "xQuery": "露の批判「ばかげている」日本"
     },
     {
       "time": "08:28",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582117?source=rss",
       "publishedAt": "2026-05-28T23:28:24.000Z",
       "xQuery": "助手席窓から顔出し壁に衝突 死亡"
+    },
+    {
+      "time": "09:50",
+      "title": "東京メトロ銀座線 全線で運転再開",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582130?source=rss",
+      "publishedAt": "2026-05-29T00:50:28.000Z",
+      "xQuery": "東京メトロ銀座線 全線で運転再開"
     }
   ]
 };
