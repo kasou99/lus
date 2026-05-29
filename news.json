@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-29T19:24:15.793Z",
+  "updatedAt": "2026-05-29T20:20:26.958Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "15:19",
         "title": "【材料】 工作機械のヤマザキは軟調、前日の急落に続き弱含みの動きに",
-        "source": "かぶたん",
+        "source": "株探（かぶたん）",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52aklnVnhFS2Y4VFFDNi1yWnlyN2FKQUxMbmhGVHNpSmNsRHpWUFAxQ0g2aks4NjZObEtUQWVlQktoc2JwTndYRmtfbE1TQmx6WktJRGp5QWRzMnZnN3lKWg?oc=5",
         "publishedAt": "2026-05-29T06:19:00.000Z"
       },
@@ -31,13 +31,6 @@
         "publishedAt": "2026-05-29T09:30:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "深層断面／工作機械、受注が活況 米中けん引、アジア最高",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qNzB4VC1sQl8xVmpoUVRncjJDVHQzMFB4Z0xkWHpidGpOZ29FSEtzczRhOFFJQ1VGcHJ1aEVpQXRvM1ZyTVFTemV2U2pTUkxDTDE3Rm1VRlh6bGs?oc=5",
-        "publishedAt": "2026-05-28T20:00:00.000Z"
-      },
-      {
         "time": "07:00",
         "title": "片山さつき大臣が\"買収中止\"に動くわけだ…中国企業にはマネできない｢日本の工作機械｣の知られざる価値 (2ページ目)",
         "source": "PRESIDENT Online（プレジデントオンライン）",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-05-29T06:19:54.000Z"
       },
       {
-        "time": "19:00",
-        "title": "リックス、2027年3月期は売上高・営業利益・経常利益で過去最高を予想 電子・半導体と工作機械が牽引",
-        "source": "みんかぶ",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RV1Y0RC1Cc1N1VHplXzhmcDBweUVWTGFhMHpSZjZlYl9feDFQSWpTaXB2SXFLZnNLdEZyX2xCS1duNjg1M0E?oc=5",
-        "publishedAt": "2026-05-29T10:00:02.000Z"
+        "time": "09:46",
+        "title": "深層断面／工作機械、受注が活況 米中けん引、アジア最高",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBodjdlV0tWcER2UDEwdHpLVzRXMmZ2MjJHOTR0Tkx4MnpOeVhyMllfRUEyX2tGYU8wMU1PelhaODRvY0c3aXBEWjk0Nm5qdnI4YXlXRVI0UQ?oc=5",
+        "publishedAt": "2026-05-29T00:46:06.000Z"
+      },
+      {
+        "time": "07:34",
+        "title": "日立、AI使い「考える工場」 生産ラインを自己修復 自律型、世界に先手",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFE3bndSQUlVUVJBYUcydURITzZ5WldZSU9GNjZRNW1wZnhmZVFaemZKd2swY1hmZjdHNVVRWTVnXzdaWUc0NVdtV1A2TURuVm1WNTlFMVI3TlNrY0tHZVptamx1LWVZaGNxY2ZONkJ6SUJIV2dCbDdrSVJmWTc0eE5TVkhOV0wtV3pibjE5VlNIQWQ0YlhfbkRnZFRRNzFDVElWdkQ2d0k?oc=5",
+        "publishedAt": "2026-05-28T22:34:00.000Z"
       }
     ],
     "worldHeadlines": [
