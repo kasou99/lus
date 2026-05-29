@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-29T22:58:50.479Z",
+  "updatedAt": "2026-05-29T23:37:34.443Z",
   "items": [
     {
       "time": "07:38",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 1～2日にかけ沖縄奄美に接近"
     },
     {
-      "time": "22:49",
-      "title": "食品消費税 27年4月1%軸に検討か",
+      "time": "08:05",
+      "title": "戦闘終結の覚書判断持ち越しか 米",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582234?source=rss",
-      "publishedAt": "2026-05-29T13:49:32.000Z",
-      "xQuery": "食品消費税 27年4月1%軸に検討か"
+      "url": "https://news.yahoo.co.jp/pickup/6582250?source=rss",
+      "publishedAt": "2026-05-29T23:05:49.000Z",
+      "xQuery": "戦闘終結の覚書判断持ち越しか 米"
     },
     {
       "time": "07:30",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "強殺 逃亡の男が報酬4千万円示唆"
     },
     {
-      "time": "23:38",
-      "title": "殺虫剤を誤飲し男性死亡 経緯捜査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582237?source=rss",
-      "publishedAt": "2026-05-29T14:38:08.000Z",
-      "xQuery": "殺虫剤を誤飲し男性死亡 経緯捜査"
-    },
-    {
       "time": "07:51",
       "title": "「少林寺」元住職 懲役24年の判決",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6582246?source=rss",
       "publishedAt": "2026-05-29T22:51:44.000Z",
       "xQuery": "「少林寺」元住職 懲役24年の判決"
+    },
+    {
+      "time": "08:00",
+      "title": "エステ・脱毛サロン 倒産止まらず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582248?source=rss",
+      "publishedAt": "2026-05-29T23:00:29.000Z",
+      "xQuery": "エステ・脱毛サロン 倒産止まらず"
     }
   ]
 };
