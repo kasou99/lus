@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-29T02:26:30.242Z",
+  "updatedAt": "2026-05-29T03:51:00.121Z",
   "items": [
     {
-      "time": "08:26",
-      "title": "関東から西で30℃超に 熱中症注意",
+      "time": "11:25",
+      "title": "台風6号 沖縄・奄美は大荒れ警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582116?source=rss",
-      "publishedAt": "2026-05-28T23:26:14.000Z",
-      "xQuery": "関東から西で30℃超に 熱中症注意"
+      "url": "https://news.yahoo.co.jp/pickup/6582142?source=rss",
+      "publishedAt": "2026-05-29T02:25:33.000Z",
+      "xQuery": "台風6号 沖縄・奄美は大荒れ警戒"
     },
     {
-      "time": "10:40",
-      "title": "ネタニヤフ氏 ガザ70%掌握を指示",
+      "time": "12:08",
+      "title": "飲食料品 夏以降値上げラッシュか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582135?source=rss",
-      "publishedAt": "2026-05-29T01:40:53.000Z",
-      "xQuery": "ネタニヤフ氏 ガザ70%掌握を指示"
+      "url": "https://news.yahoo.co.jp/pickup/6582147?source=rss",
+      "publishedAt": "2026-05-29T03:08:59.000Z",
+      "xQuery": "飲食料品 夏以降値上げラッシュか"
     },
     {
-      "time": "09:53",
-      "title": "露の批判「ばかげている」日本",
+      "time": "12:32",
+      "title": "JAL機が緊急着陸 タイヤ不具合か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582129?source=rss",
-      "publishedAt": "2026-05-29T00:53:09.000Z",
-      "xQuery": "露の批判「ばかげている」日本"
+      "url": "https://news.yahoo.co.jp/pickup/6582152?source=rss",
+      "publishedAt": "2026-05-29T03:32:01.000Z",
+      "xQuery": "JAL機が緊急着陸 タイヤ不具合か"
+    },
+    {
+      "time": "12:37",
+      "title": "山梨女児不明 母苦しんだ「正論」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582151?source=rss",
+      "publishedAt": "2026-05-29T03:37:15.000Z",
+      "xQuery": "山梨女児不明 母苦しんだ「正論」"
     },
     {
       "time": "10:26",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582131?source=rss",
       "publishedAt": "2026-05-29T01:26:04.000Z",
       "xQuery": "ハーバード卒業式ゲスト 政権批判"
-    },
-    {
-      "time": "10:36",
-      "title": "TSMC経済効果に南北格差 熊本県",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582134?source=rss",
-      "publishedAt": "2026-05-29T01:36:03.000Z",
-      "xQuery": "TSMC経済効果に南北格差 熊本県"
     }
   ]
 };
