@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-29T07:35:22.750Z",
+  "updatedAt": "2026-05-29T09:23:35.104Z",
   "items": [
     {
-      "time": "15:58",
-      "title": "東京株終値6万6329円 最高値更新",
+      "time": "17:57",
+      "title": "台風6号は2日にかけ沖縄接近 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582181?source=rss",
-      "publishedAt": "2026-05-29T06:58:56.000Z",
-      "xQuery": "東京株終値6万6329円 最高値更新"
+      "url": "https://news.yahoo.co.jp/pickup/6582199?source=rss",
+      "publishedAt": "2026-05-29T08:57:11.000Z",
+      "xQuery": "台風6号は2日にかけ沖縄接近 警戒"
     },
     {
-      "time": "14:20",
-      "title": "中道・小川氏 立憲巡る発言を陳謝",
+      "time": "16:35",
+      "title": "衆院選1票の格差 「合憲」10件目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582169?source=rss",
-      "publishedAt": "2026-05-29T05:20:52.000Z",
-      "xQuery": "中道・小川氏 立憲巡る発言を陳謝"
+      "url": "https://news.yahoo.co.jp/pickup/6582188?source=rss",
+      "publishedAt": "2026-05-29T07:35:57.000Z",
+      "xQuery": "衆院選1票の格差 「合憲」10件目"
     },
     {
-      "time": "13:28",
-      "title": "JAL飲酒問題 国交相「大変遺憾」",
+      "time": "16:56",
+      "title": "17歳殺害 態度イライラしたと被告",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582160?source=rss",
-      "publishedAt": "2026-05-29T04:28:12.000Z",
-      "xQuery": "JAL飲酒問題 国交相「大変遺憾」"
+      "url": "https://news.yahoo.co.jp/pickup/6582189?source=rss",
+      "publishedAt": "2026-05-29T07:56:35.000Z",
+      "xQuery": "17歳殺害 態度イライラしたと被告"
     },
     {
-      "time": "15:44",
-      "title": "栃木強殺主導か 容疑者を公開手配",
+      "time": "18:05",
+      "title": "乳児院で横領疑い 被害1.5億円か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582175?source=rss",
-      "publishedAt": "2026-05-29T06:44:52.000Z",
-      "xQuery": "栃木強殺主導か 容疑者を公開手配"
+      "url": "https://news.yahoo.co.jp/pickup/6582200?source=rss",
+      "publishedAt": "2026-05-29T09:05:54.000Z",
+      "xQuery": "乳児院で横領疑い 被害1.5億円か"
     },
     {
-      "time": "13:59",
-      "title": "緊急着陸 出発の羽田には異物散乱",
+      "time": "18:06",
+      "title": "配管工事中にガス漏れか 心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582166?source=rss",
-      "publishedAt": "2026-05-29T04:59:39.000Z",
-      "xQuery": "緊急着陸 出発の羽田には異物散乱"
+      "url": "https://news.yahoo.co.jp/pickup/6582201?source=rss",
+      "publishedAt": "2026-05-29T09:06:42.000Z",
+      "xQuery": "配管工事中にガス漏れか 心肺停止"
     }
   ]
 };
