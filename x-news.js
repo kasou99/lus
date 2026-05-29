@@ -1,21 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-29T05:36:49.992Z",
+  "updatedAt": "2026-05-29T07:35:22.750Z",
   "items": [
     {
-      "time": "13:54",
-      "title": "在留手数料値上げ 改正入管法成立",
+      "time": "15:58",
+      "title": "東京株終値6万6329円 最高値更新",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582167?source=rss",
-      "publishedAt": "2026-05-29T04:54:41.000Z",
-      "xQuery": "在留手数料値上げ 改正入管法成立"
+      "url": "https://news.yahoo.co.jp/pickup/6582181?source=rss",
+      "publishedAt": "2026-05-29T06:58:56.000Z",
+      "xQuery": "東京株終値6万6329円 最高値更新"
     },
     {
-      "time": "09:32",
-      "title": "エボラ対策 ケニアに米隔離施設",
+      "time": "14:20",
+      "title": "中道・小川氏 立憲巡る発言を陳謝",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582125?source=rss",
-      "publishedAt": "2026-05-29T00:32:55.000Z",
-      "xQuery": "エボラ対策 ケニアに米隔離施設"
+      "url": "https://news.yahoo.co.jp/pickup/6582169?source=rss",
+      "publishedAt": "2026-05-29T05:20:52.000Z",
+      "xQuery": "中道・小川氏 立憲巡る発言を陳謝"
+    },
+    {
+      "time": "13:28",
+      "title": "JAL飲酒問題 国交相「大変遺憾」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582160?source=rss",
+      "publishedAt": "2026-05-29T04:28:12.000Z",
+      "xQuery": "JAL飲酒問題 国交相「大変遺憾」"
+    },
+    {
+      "time": "15:44",
+      "title": "栃木強殺主導か 容疑者を公開手配",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582175?source=rss",
+      "publishedAt": "2026-05-29T06:44:52.000Z",
+      "xQuery": "栃木強殺主導か 容疑者を公開手配"
     },
     {
       "time": "13:59",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582166?source=rss",
       "publishedAt": "2026-05-29T04:59:39.000Z",
       "xQuery": "緊急着陸 出発の羽田には異物散乱"
-    },
-    {
-      "time": "12:37",
-      "title": "山梨女児不明 母苦しんだ「正論」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582151?source=rss",
-      "publishedAt": "2026-05-29T03:37:15.000Z",
-      "xQuery": "山梨女児不明 母苦しんだ「正論」"
-    },
-    {
-      "time": "11:06",
-      "title": "走行中の車から男性転落 意識不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582139?source=rss",
-      "publishedAt": "2026-05-29T02:06:47.000Z",
-      "xQuery": "走行中の車から男性転落 意識不明"
     }
   ]
 };
