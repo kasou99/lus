@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-29T13:40:03.207Z",
+  "updatedAt": "2026-05-29T15:17:27.217Z",
   "items": [
     {
-      "time": "19:05",
-      "title": "日本への留学生40万人 過去最多",
+      "time": "22:49",
+      "title": "食品消費税 27年4月1%軸に検討か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582206?source=rss",
-      "publishedAt": "2026-05-29T10:05:09.000Z",
-      "xQuery": "日本への留学生40万人 過去最多"
+      "url": "https://news.yahoo.co.jp/pickup/6582234?source=rss",
+      "publishedAt": "2026-05-29T13:49:32.000Z",
+      "xQuery": "食品消費税 27年4月1%軸に検討か"
     },
     {
-      "time": "21:25",
-      "title": "海外で息子が過労自死 母の闘い",
+      "time": "22:53",
+      "title": "診察キャンセル料巡り厚労相陳謝",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582222?source=rss",
-      "publishedAt": "2026-05-29T12:25:58.000Z",
-      "xQuery": "海外で息子が過労自死 母の闘い"
+      "url": "https://news.yahoo.co.jp/pickup/6582235?source=rss",
+      "publishedAt": "2026-05-29T13:53:29.000Z",
+      "xQuery": "診察キャンセル料巡り厚労相陳謝"
     },
     {
-      "time": "21:04",
-      "title": "サンリオ常務の不適切受給2.5億円",
+      "time": "22:40",
+      "title": "副首都法案 自民党内から異論噴出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582221?source=rss",
-      "publishedAt": "2026-05-29T12:04:38.000Z",
-      "xQuery": "サンリオ常務の不適切受給2.5億円"
+      "url": "https://news.yahoo.co.jp/pickup/6582230?source=rss",
+      "publishedAt": "2026-05-29T13:40:17.000Z",
+      "xQuery": "副首都法案 自民党内から異論噴出"
     },
     {
-      "time": "21:21",
-      "title": "マイクロバスにはねられ2人死亡",
+      "time": "23:38",
+      "title": "殺虫剤を誤飲し男性死亡 経緯捜査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582223?source=rss",
-      "publishedAt": "2026-05-29T12:21:05.000Z",
-      "xQuery": "マイクロバスにはねられ2人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6582237?source=rss",
+      "publishedAt": "2026-05-29T14:38:08.000Z",
+      "xQuery": "殺虫剤を誤飲し男性死亡 経緯捜査"
     },
     {
-      "time": "20:52",
-      "title": "自転車15歳死亡 ひき逃げ疑い逮捕",
+      "time": "22:48",
+      "title": "「白黒ポテトチップス」店頭に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582219?source=rss",
-      "publishedAt": "2026-05-29T11:52:45.000Z",
-      "xQuery": "自転車15歳死亡 ひき逃げ疑い逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6582233?source=rss",
+      "publishedAt": "2026-05-29T13:48:46.000Z",
+      "xQuery": "「白黒ポテトチップス」店頭に"
     }
   ]
 };
