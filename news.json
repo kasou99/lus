@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T10:49:16.064Z",
+  "updatedAt": "2026-05-29T12:07:33.867Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-05-29T09:30:00.000Z"
       },
       {
-        "time": "10:21",
-        "title": "次世代設備保全クラウド「M2X」、約1.3万製品からTOP100に選出 ─ ITreview Best Software in Japan 2026（PR TIMES）",
-        "source": "毎日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XWWRGb3pfX0FvbUlkRkhmSjJWM2FDV1NTUVFMamdwRWtlRU9Td3JFbkNsNnFUOG1mdmlRUjIzdmlyeEFKejM3ZkVUdXFpQ3cwQUt3QTNNNUVteTBBQ3ZWeTJ0N2h4RVdr?oc=5",
-        "publishedAt": "2026-05-29T01:21:36.000Z"
+        "time": "09:00",
+        "title": "次世代設備保全クラウド「M2X」、約1.3万製品からTOP100に選出 ─ ITreview Best Software in Japan 2026",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CdmVmNjAxVTF6VUNfdy1rS0thSmVGaEEyR1F2c055V3R5RWpiSWVaOGhnYTVPSmc2TUVNNXl0SzY4VEJXZWdObzNUU2hWMlZVbm5NaVFaWk9lNTFiS09fenVYQm5mVEcwQlE?oc=5",
+        "publishedAt": "2026-05-29T00:00:01.000Z"
       },
       {
         "time": "15:19",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "19:35",
-        "title": "直近1カ月の為替介入 11.7兆円",
+        "time": "19:48",
+        "title": "為替介入11.7兆円 月間で過去最大",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582212?source=rss",
-        "publishedAt": "2026-05-29T10:35:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582215?source=rss",
+        "publishedAt": "2026-05-29T10:48:48.000Z"
       },
       {
         "time": "17:46",
@@ -119,11 +119,11 @@
         "publishedAt": "2026-05-29T08:46:21.000Z"
       },
       {
-        "time": "13:46",
-        "title": "三菱「パジェロ」7年ぶり復活へ",
+        "time": "21:04",
+        "title": "サンリオ常務の不適切受給2.5億円",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582165?source=rss",
-        "publishedAt": "2026-05-29T04:46:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582221?source=rss",
+        "publishedAt": "2026-05-29T12:04:38.000Z"
       },
       {
         "time": "17:02",
@@ -149,20 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "11:31",
-        "title": "男児殺害 うまく関係築けずと養父",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582143?source=rss",
-        "publishedAt": "2026-05-29T02:31:09.000Z"
-      },
-      {
-        "time": "16:28",
-        "title": "岩手山林火災 38日目に鎮火宣言",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582184?source=rss",
-        "publishedAt": "2026-05-29T07:28:50.000Z"
-      },
-      {
         "time": "12:37",
         "title": "山梨女児不明 母苦しんだ「正論」",
         "source": "Yahoo!ニュース",
@@ -184,11 +170,25 @@
         "publishedAt": "2026-05-29T09:05:54.000Z"
       },
       {
-        "time": "18:57",
-        "title": "マイクロバスにはねられ2人重体",
+        "time": "20:23",
+        "title": "マイクロバスが2人はねる 1人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582208?source=rss",
-        "publishedAt": "2026-05-29T09:57:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582216?source=rss",
+        "publishedAt": "2026-05-29T11:23:21.000Z"
+      },
+      {
+        "time": "20:52",
+        "title": "自転車15歳死亡 ひき逃げ疑い逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582219?source=rss",
+        "publishedAt": "2026-05-29T11:52:45.000Z"
+      },
+      {
+        "time": "18:06",
+        "title": "配管工事中にガス漏れか 心肺停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582201?source=rss",
+        "publishedAt": "2026-05-29T09:06:42.000Z"
       }
     ],
     "subsidyHeadlines": [

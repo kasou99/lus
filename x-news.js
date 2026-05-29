@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-29T10:49:16.709Z",
+  "updatedAt": "2026-05-29T12:07:34.848Z",
   "items": [
     {
-      "time": "19:35",
-      "title": "直近1カ月の為替介入 11.7兆円",
+      "time": "19:48",
+      "title": "為替介入11.7兆円 月間で過去最大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582212?source=rss",
-      "publishedAt": "2026-05-29T10:35:56.000Z",
-      "xQuery": "直近1カ月の為替介入 11.7兆円"
+      "url": "https://news.yahoo.co.jp/pickup/6582215?source=rss",
+      "publishedAt": "2026-05-29T10:48:48.000Z",
+      "xQuery": "為替介入11.7兆円 月間で過去最大"
     },
     {
-      "time": "19:16",
-      "title": "議員ボーナス据え置き 国民に配慮",
+      "time": "17:46",
+      "title": "個人の申告所得合計 バブル期迫る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582211?source=rss",
-      "publishedAt": "2026-05-29T10:16:49.000Z",
-      "xQuery": "議員ボーナス据え置き 国民に配慮"
+      "url": "https://news.yahoo.co.jp/pickup/6582196?source=rss",
+      "publishedAt": "2026-05-29T08:46:21.000Z",
+      "xQuery": "個人の申告所得合計 バブル期迫る"
     },
     {
-      "time": "18:57",
-      "title": "マイクロバスにはねられ2人重体",
+      "time": "21:04",
+      "title": "サンリオ常務の不適切受給2.5億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582208?source=rss",
-      "publishedAt": "2026-05-29T09:57:57.000Z",
-      "xQuery": "マイクロバスにはねられ2人重体"
+      "url": "https://news.yahoo.co.jp/pickup/6582221?source=rss",
+      "publishedAt": "2026-05-29T12:04:38.000Z",
+      "xQuery": "サンリオ常務の不適切受給2.5億円"
     },
     {
-      "time": "17:02",
-      "title": "年会費無料のクレカ 放置でコスト",
+      "time": "20:23",
+      "title": "マイクロバスが2人はねる 1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582191?source=rss",
-      "publishedAt": "2026-05-29T08:02:39.000Z",
-      "xQuery": "年会費無料のクレカ 放置でコスト"
+      "url": "https://news.yahoo.co.jp/pickup/6582216?source=rss",
+      "publishedAt": "2026-05-29T11:23:21.000Z",
+      "xQuery": "マイクロバスが2人はねる 1人死亡"
     },
     {
-      "time": "18:57",
-      "title": "応募数水増し FM東京が社長処分",
+      "time": "20:52",
+      "title": "自転車15歳死亡 ひき逃げ疑い逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582207?source=rss",
-      "publishedAt": "2026-05-29T09:57:09.000Z",
-      "xQuery": "応募数水増し FM東京が社長処分"
+      "url": "https://news.yahoo.co.jp/pickup/6582219?source=rss",
+      "publishedAt": "2026-05-29T11:52:45.000Z",
+      "xQuery": "自転車15歳死亡 ひき逃げ疑い逮捕"
     }
   ]
 };
