@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T18:07:12.030Z",
+  "updatedAt": "2026-05-29T19:24:15.793Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-05-28T22:15:39.000Z"
       },
       {
+        "time": "09:00",
+        "title": "次世代設備保全クラウド「M2X」、約1.3万製品からTOP100に選出 ─ ITreview Best Software in Japan 2026",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CdmVmNjAxVTF6VUNfdy1rS0thSmVGaEEyR1F2c055V3R5RWpiSWVaOGhnYTVPSmc2TUVNNXl0SzY4VEJXZWdObzNUU2hWMlZVbm5NaVFaWk9lNTFiS09fenVYQm5mVEcwQlE?oc=5",
+        "publishedAt": "2026-05-29T00:00:01.000Z"
+      },
+      {
         "time": "18:30",
         "title": "電気制御盤の競争環境分析：シェア、市場拡大要因、年平均成長率2.3%見通し｜QYResearch",
         "source": "note",
@@ -24,11 +31,11 @@
         "publishedAt": "2026-05-29T09:30:00.000Z"
       },
       {
-        "time": "09:00",
-        "title": "次世代設備保全クラウド「M2X」、約1.3万製品からTOP100に選出 ─ ITreview Best Software in Japan 2026",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CdmVmNjAxVTF6VUNfdy1rS0thSmVGaEEyR1F2c055V3R5RWpiSWVaOGhnYTVPSmc2TUVNNXl0SzY4VEJXZWdObzNUU2hWMlZVbm5NaVFaWk9lNTFiS09fenVYQm5mVEcwQlE?oc=5",
-        "publishedAt": "2026-05-29T00:00:01.000Z"
+        "time": "05:00",
+        "title": "深層断面／工作機械、受注が活況 米中けん引、アジア最高",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qNzB4VC1sQl8xVmpoUVRncjJDVHQzMFB4Z0xkWHpidGpOZ29FSEtzczRhOFFJQ1VGcHJ1aEVpQXRvM1ZyTVFTemV2U2pTUkxDTDE3Rm1VRlh6bGs?oc=5",
+        "publishedAt": "2026-05-28T20:00:00.000Z"
       },
       {
         "time": "07:00",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-05-28T22:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "深層断面／工作機械、受注が活況 米中けん引、アジア最高",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwMDBnZnBFNGdSa3ZXUFpDbTFpMXlGZEl6VTRvcDRzZHJXVVE1bnZoWWJqRzNHbktDaTFSWXdGUEdZOHpkRUZoaGRBQzVEZ0V5ZDJQMkxR?oc=5",
-        "publishedAt": "2026-05-28T20:00:53.000Z"
-      },
-      {
-        "time": "19:00",
-        "title": "リックス、2027年3月期は売上高・営業利益・経常利益で過去最高を予想 電子・半導体と工作機械が牽引",
-        "source": "みんかぶ",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZRVVmQU1CMG5TbkhObmU1bjJma1NxaTdjX3Z6QXZaQTc3NUhmZXdMWm9pQ0tEVUFvWXdDU0ZyU2FlcDRrRnAxLQ?oc=5",
-        "publishedAt": "2026-05-29T10:00:02.000Z"
-      },
-      {
         "time": "15:19",
         "title": "工作機械のヤマザキは軟調、前日の急落に続き弱含みの動きに",
         "source": "ライブドアニュース",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zTk1IYzNrajdiRlJfdFZZN3FRdko2eDJESVhSUTQ5N3pCbUJXbkF2eVpwRWZwQUZHZEg4SDJMb3YxS3JDUjZMOUZYcm5KMjZXS1lvS1FBMWkxTlhwX2hN?oc=5",
         "publishedAt": "2026-05-29T06:19:54.000Z"
+      },
+      {
+        "time": "19:00",
+        "title": "リックス、2027年3月期は売上高・営業利益・経常利益で過去最高を予想 電子・半導体と工作機械が牽引",
+        "source": "みんかぶ",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RV1Y0RC1Cc1N1VHplXzhmcDBweUVWTGFhMHpSZjZlYl9feDFQSWpTaXB2SXFLZnNLdEZyX2xCS1duNjg1M0E?oc=5",
+        "publishedAt": "2026-05-29T10:00:02.000Z"
       }
     ],
     "worldHeadlines": [
