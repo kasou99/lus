@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-29T03:51:00.121Z",
+  "updatedAt": "2026-05-29T05:36:49.992Z",
   "items": [
     {
-      "time": "11:25",
-      "title": "台風6号 沖縄・奄美は大荒れ警戒",
+      "time": "13:54",
+      "title": "在留手数料値上げ 改正入管法成立",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582142?source=rss",
-      "publishedAt": "2026-05-29T02:25:33.000Z",
-      "xQuery": "台風6号 沖縄・奄美は大荒れ警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6582167?source=rss",
+      "publishedAt": "2026-05-29T04:54:41.000Z",
+      "xQuery": "在留手数料値上げ 改正入管法成立"
     },
     {
-      "time": "12:08",
-      "title": "飲食料品 夏以降値上げラッシュか",
+      "time": "09:32",
+      "title": "エボラ対策 ケニアに米隔離施設",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582147?source=rss",
-      "publishedAt": "2026-05-29T03:08:59.000Z",
-      "xQuery": "飲食料品 夏以降値上げラッシュか"
+      "url": "https://news.yahoo.co.jp/pickup/6582125?source=rss",
+      "publishedAt": "2026-05-29T00:32:55.000Z",
+      "xQuery": "エボラ対策 ケニアに米隔離施設"
     },
     {
-      "time": "12:32",
-      "title": "JAL機が緊急着陸 タイヤ不具合か",
+      "time": "13:59",
+      "title": "緊急着陸 出発の羽田には異物散乱",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582152?source=rss",
-      "publishedAt": "2026-05-29T03:32:01.000Z",
-      "xQuery": "JAL機が緊急着陸 タイヤ不具合か"
+      "url": "https://news.yahoo.co.jp/pickup/6582166?source=rss",
+      "publishedAt": "2026-05-29T04:59:39.000Z",
+      "xQuery": "緊急着陸 出発の羽田には異物散乱"
     },
     {
       "time": "12:37",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "山梨女児不明 母苦しんだ「正論」"
     },
     {
-      "time": "10:26",
-      "title": "ハーバード卒業式ゲスト 政権批判",
+      "time": "11:06",
+      "title": "走行中の車から男性転落 意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582131?source=rss",
-      "publishedAt": "2026-05-29T01:26:04.000Z",
-      "xQuery": "ハーバード卒業式ゲスト 政権批判"
+      "url": "https://news.yahoo.co.jp/pickup/6582139?source=rss",
+      "publishedAt": "2026-05-29T02:06:47.000Z",
+      "xQuery": "走行中の車から男性転落 意識不明"
     }
   ]
 };
