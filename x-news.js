@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-29T09:23:35.104Z",
+  "updatedAt": "2026-05-29T10:49:16.709Z",
   "items": [
     {
-      "time": "17:57",
-      "title": "台風6号は2日にかけ沖縄接近 警戒",
+      "time": "19:35",
+      "title": "直近1カ月の為替介入 11.7兆円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582199?source=rss",
-      "publishedAt": "2026-05-29T08:57:11.000Z",
-      "xQuery": "台風6号は2日にかけ沖縄接近 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6582212?source=rss",
+      "publishedAt": "2026-05-29T10:35:56.000Z",
+      "xQuery": "直近1カ月の為替介入 11.7兆円"
     },
     {
-      "time": "16:35",
-      "title": "衆院選1票の格差 「合憲」10件目",
+      "time": "19:16",
+      "title": "議員ボーナス据え置き 国民に配慮",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582188?source=rss",
-      "publishedAt": "2026-05-29T07:35:57.000Z",
-      "xQuery": "衆院選1票の格差 「合憲」10件目"
+      "url": "https://news.yahoo.co.jp/pickup/6582211?source=rss",
+      "publishedAt": "2026-05-29T10:16:49.000Z",
+      "xQuery": "議員ボーナス据え置き 国民に配慮"
     },
     {
-      "time": "16:56",
-      "title": "17歳殺害 態度イライラしたと被告",
+      "time": "18:57",
+      "title": "マイクロバスにはねられ2人重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582189?source=rss",
-      "publishedAt": "2026-05-29T07:56:35.000Z",
-      "xQuery": "17歳殺害 態度イライラしたと被告"
+      "url": "https://news.yahoo.co.jp/pickup/6582208?source=rss",
+      "publishedAt": "2026-05-29T09:57:57.000Z",
+      "xQuery": "マイクロバスにはねられ2人重体"
     },
     {
-      "time": "18:05",
-      "title": "乳児院で横領疑い 被害1.5億円か",
+      "time": "17:02",
+      "title": "年会費無料のクレカ 放置でコスト",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582200?source=rss",
-      "publishedAt": "2026-05-29T09:05:54.000Z",
-      "xQuery": "乳児院で横領疑い 被害1.5億円か"
+      "url": "https://news.yahoo.co.jp/pickup/6582191?source=rss",
+      "publishedAt": "2026-05-29T08:02:39.000Z",
+      "xQuery": "年会費無料のクレカ 放置でコスト"
     },
     {
-      "time": "18:06",
-      "title": "配管工事中にガス漏れか 心肺停止",
+      "time": "18:57",
+      "title": "応募数水増し FM東京が社長処分",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582201?source=rss",
-      "publishedAt": "2026-05-29T09:06:42.000Z",
-      "xQuery": "配管工事中にガス漏れか 心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6582207?source=rss",
+      "publishedAt": "2026-05-29T09:57:09.000Z",
+      "xQuery": "応募数水増し FM東京が社長処分"
     }
   ]
 };
