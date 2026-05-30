@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T23:28:28.473Z",
+  "updatedAt": "2026-05-30T23:55:28.540Z",
   "items": [
     {
       "time": "07:27",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "初診・再診料など 6月〜引き上げ"
     },
     {
-      "time": "23:21",
-      "title": "ミサイル共同開発加速で一致 日米",
+      "time": "07:42",
+      "title": "国境なき医師団 エボラ巡り警鐘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582354?source=rss",
-      "publishedAt": "2026-05-30T14:21:37.000Z",
-      "xQuery": "ミサイル共同開発加速で一致 日米"
+      "url": "https://news.yahoo.co.jp/pickup/6582361?source=rss",
+      "publishedAt": "2026-05-30T22:42:32.000Z",
+      "xQuery": "国境なき医師団 エボラ巡り警鐘"
     },
     {
       "time": "07:41",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "2人死亡 直前にバス運転85歳異変"
     },
     {
-      "time": "21:15",
-      "title": "小6の息子殺害疑い 66歳の男逮捕",
+      "time": "08:00",
+      "title": "大学の0円朝食 どんなメニュー",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582338?source=rss",
-      "publishedAt": "2026-05-30T12:15:28.000Z",
-      "xQuery": "小6の息子殺害疑い 66歳の男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6582364?source=rss",
+      "publishedAt": "2026-05-30T23:00:05.000Z",
+      "xQuery": "大学の0円朝食 どんなメニュー"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T23:28:26.983Z",
+  "updatedAt": "2026-05-30T23:55:27.755Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -13,7 +13,7 @@
         "time": "09:00",
         "title": "スマート統合モーターの世界市場（2026年～2032年）、市場規模（一体型サーボモーター、一体型ステッピングモーター、その他）・分析レポートを発表",
         "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kYW5kMllIdWJXUmlTeDJkVDFoS3pFUHZiY09CMkRTYldIWXg0RDlEN3ZpTHlKVGd5ZzJ2T0NOaEZmSFJYWTZB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MdFpxb21vanpvcFBqVUUxUXNOWTZwVm5yRUdBNGs0R3IydXNrQTcyWENKQXJwMU9uVUpRdmZMTDZsUEg1NkNwc0ViNXk?oc=5",
         "publishedAt": "2026-05-30T00:00:00.000Z"
       },
       {
@@ -29,13 +29,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582321?source=rss",
         "publishedAt": "2026-05-30T09:09:34.000Z"
-      },
-      {
-        "time": "12:56",
-        "title": "日本人の中国旅行大幅減 業界打撃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582286?source=rss",
-        "publishedAt": "2026-05-30T03:56:22.000Z"
       },
       {
         "time": "13:23",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582318?source=rss",
         "publishedAt": "2026-05-30T08:49:02.000Z"
+      },
+      {
+        "time": "08:00",
+        "title": "大学の0円朝食 どんなメニュー",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582364?source=rss",
+        "publishedAt": "2026-05-30T23:00:05.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-05-30T09:09:34.000Z"
       },
       {
-        "time": "12:56",
-        "title": "日本人の中国旅行大幅減 業界打撃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582286?source=rss",
-        "publishedAt": "2026-05-30T03:56:22.000Z"
-      },
-      {
         "time": "13:23",
         "title": "マンジャロ販売巡り 都の警告話題",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582318?source=rss",
         "publishedAt": "2026-05-30T08:49:02.000Z"
+      },
+      {
+        "time": "08:00",
+        "title": "大学の0円朝食 どんなメニュー",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582364?source=rss",
+        "publishedAt": "2026-05-30T23:00:05.000Z"
       }
     ],
     "localHeadlines": [
