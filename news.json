@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-05-29T23:37:33.644Z",
+  "updatedAt": "2026-05-30T01:08:14.605Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:00",
+        "title": "スマート統合モーターの世界市場（2026年～2032年）、市場規模（一体型サーボモーター、一体型ステッピングモーター、その他）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41MFhCUEFVYzlwWkJHcGRwb2RyOWo2a0lkc3BOUnV6ZVZpYjRRbnJvWGx3Y1ZDR0E3Mlk3Rmt4Nl9xZGh6bUwtYWltMHhOMkU?oc=5",
+        "publishedAt": "2026-05-30T00:00:00.000Z"
+      },
       {
         "time": "15:19",
         "title": "【材料】 工作機械のヤマザキは軟調、前日の急落に続き弱含みの動きに",
@@ -17,25 +24,11 @@
         "publishedAt": "2026-05-29T09:30:00.000Z"
       },
       {
-        "time": "09:00",
-        "title": "次世代設備保全クラウド「M2X」、約1.3万製品からTOP100に選出 ─ ITreview Best Software in Japan 2026",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CdmVmNjAxVTF6VUNfdy1rS0thSmVGaEEyR1F2c055V3R5RWpiSWVaOGhnYTVPSmc2TUVNNXl0SzY4VEJXZWdObzNUU2hWMlZVbm5NaVFaWk9lNTFiS09fenVYQm5mVEcwQlE?oc=5",
-        "publishedAt": "2026-05-29T00:00:01.000Z"
-      },
-      {
-        "time": "09:46",
-        "title": "深層断面／工作機械、受注が活況 米中けん引、アジア最高",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBodjdlV0tWcER2UDEwdHpLVzRXMmZ2MjJHOTR0Tkx4MnpOeVhyMllfRUEyX2tGYU8wMU1PelhaODRvY0c3aXBEWjk0Nm5qdnI4YXlXRVI0UQ?oc=5",
-        "publishedAt": "2026-05-29T00:46:06.000Z"
-      },
-      {
-        "time": "15:19",
-        "title": "工作機械のヤマザキは軟調、前日の急落に続き弱含みの動きに",
-        "source": "ライブドアニュース",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zTk1IYzNrajdiRlJfdFZZN3FRdko2eDJESVhSUTQ5N3pCbUJXbkF2eVpwRWZwQUZHZEg4SDJMb3YxS3JDUjZMOUZYcm5KMjZXS1lvS1FBMWkxTlhwX2hN?oc=5",
-        "publishedAt": "2026-05-29T06:19:54.000Z"
+        "time": "10:21",
+        "title": "次世代設備保全クラウド「M2X」、約1.3万製品からTOP100に選出 ─ ITreview Best Software in Japan 2026（PR TIMES）",
+        "source": "毎日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XWWRGb3pfX0FvbUlkRkhmSjJWM2FDV1NTUVFMamdwRWtlRU9Td3JFbkNsNnFUOG1mdmlRUjIzdmlyeEFKejM3ZkVUdXFpQ3cwQUt3QTNNNUVteTBBQ3ZWeTJ0N2h4RVdr?oc=5",
+        "publishedAt": "2026-05-29T01:21:36.000Z"
       },
       {
         "time": "17:19",
@@ -45,11 +38,11 @@
         "publishedAt": "2026-05-29T08:19:18.000Z"
       },
       {
-        "time": "09:38",
-        "title": "日立、AI使い「考える工場」 生産ラインを自己修復 自律型、世界に先手",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUh4T3FWdlVYYUhOazd6SzFGS1hNVkpCTVRkdWNMNWk1MThweFBiRzZnU1FqY0RNQzJFS28xcFhwTEs5cXlZRWRlSkZINUV1UDlQM0kzd09iOWpjRWJkODdScFlRbHc0YU9lSk1BY1FEV0V1RHY3WEUxeU0xRndfN3lsOEhuY2FpbFFlZE9XYTVMUklsUHlWYzI4Nl9OY01YandHdWVjcnA?oc=5",
-        "publishedAt": "2026-05-29T00:38:30.000Z"
+        "time": "15:19",
+        "title": "工作機械のヤマザキは軟調、前日の急落に続き弱含みの動きに",
+        "source": "ライブドアニュース",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zTk1IYzNrajdiRlJfdFZZN3FRdko2eDJESVhSUTQ5N3pCbUJXbkF2eVpwRWZwQUZHZEg4SDJMb3YxS3JDUjZMOUZYcm5KMjZXS1lvS1FBMWkxTlhwX2hN?oc=5",
+        "publishedAt": "2026-05-29T06:19:54.000Z"
       },
       {
         "time": "12:05",
@@ -57,15 +50,22 @@
         "source": "PRESIDENT Online（プレジデントオンライン）",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZTczSnc5RERVZ3ByUTdZemZncFV2OTVhSkxxSG4zTlpxWUlkdHpaVFFMbEI3YnhNSW1wemYyTEh2dTZZdmNqVzdFRzZ0bWdEdUlOSHNMYTU1c1gtX0duSzZocW9sSXYzWERFOU1tYVNfT01XWUl3bjl2WDVOVHhYV1UwRlp3c1hqMDY5STNWa3hLbWhCaHdvWXQ5Tjg2d1hHUC1SZ2pMMTBYcGljOFhyTA?oc=5",
         "publishedAt": "2026-05-29T03:05:00.000Z"
+      },
+      {
+        "time": "20:00",
+        "title": "(株)ツガミ【6101】：株価・株式情報",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qT2NrZ21VTVpvcVdDaUF6RVVYZkFRWlUybklfRkRLS0I3WkFROW5VbG0zNXlHbTBERTVQU05FYWJ1S0p6Y0MzbXFMQUszUHpBb3c?oc=5",
+        "publishedAt": "2026-05-29T11:00:32.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "08:05",
-        "title": "戦闘終結の覚書判断持ち越しか 米",
+        "time": "09:43",
+        "title": "暫定合意巡るトランプ氏会合 終了",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582250?source=rss",
-        "publishedAt": "2026-05-29T23:05:49.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582261?source=rss",
+        "publishedAt": "2026-05-30T00:43:31.000Z"
       },
       {
         "time": "10:40",
@@ -126,18 +126,18 @@
         "publishedAt": "2026-05-29T13:48:46.000Z"
       },
       {
+        "time": "09:18",
+        "title": "ホームパイ パッケージの色減らす",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582257?source=rss",
+        "publishedAt": "2026-05-30T00:18:52.000Z"
+      },
+      {
         "time": "08:00",
         "title": "エステ・脱毛サロン 倒産止まらず",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582248?source=rss",
         "publishedAt": "2026-05-29T23:00:29.000Z"
-      },
-      {
-        "time": "18:57",
-        "title": "応募数水増し FM東京が社長処分",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582207?source=rss",
-        "publishedAt": "2026-05-29T09:57:09.000Z"
       },
       {
         "time": "08:07",

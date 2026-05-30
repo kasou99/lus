@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-29T23:37:34.443Z",
+  "updatedAt": "2026-05-30T01:08:15.953Z",
   "items": [
     {
-      "time": "07:38",
-      "title": "台風 1～2日にかけ沖縄奄美に接近",
+      "time": "09:43",
+      "title": "暫定合意巡るトランプ氏会合 終了",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582244?source=rss",
-      "publishedAt": "2026-05-29T22:38:37.000Z",
-      "xQuery": "台風 1～2日にかけ沖縄奄美に接近"
+      "url": "https://news.yahoo.co.jp/pickup/6582261?source=rss",
+      "publishedAt": "2026-05-30T00:43:31.000Z",
+      "xQuery": "暫定合意巡るトランプ氏会合 終了"
     },
     {
-      "time": "08:05",
-      "title": "戦闘終結の覚書判断持ち越しか 米",
+      "time": "08:32",
+      "title": "SNS巡る子保護に「共通原則」G7",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582250?source=rss",
-      "publishedAt": "2026-05-29T23:05:49.000Z",
-      "xQuery": "戦闘終結の覚書判断持ち越しか 米"
+      "url": "https://news.yahoo.co.jp/pickup/6582252?source=rss",
+      "publishedAt": "2026-05-29T23:32:05.000Z",
+      "xQuery": "SNS巡る子保護に「共通原則」G7"
     },
     {
       "time": "07:30",
