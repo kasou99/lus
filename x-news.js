@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T08:58:45.057Z",
+  "updatedAt": "2026-05-30T09:45:20.238Z",
   "items": [
     {
       "time": "16:53",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "iPS論文数 米国や中国との差拡大"
     },
     {
+      "time": "18:09",
+      "title": "JAL機パンクの滑走路 破損判明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582321?source=rss",
+      "publishedAt": "2026-05-30T09:09:34.000Z",
+      "xQuery": "JAL機パンクの滑走路 破損判明"
+    },
+    {
       "time": "17:20",
       "title": "強殺 手配の男元タクシー運転手か",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "強殺 手配の男元タクシー運転手か"
     },
     {
-      "time": "17:49",
-      "title": "完全養殖ウナギ 2分でネット完売",
+      "time": "17:53",
+      "title": "停めた車後退か 下敷きになり死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582318?source=rss",
-      "publishedAt": "2026-05-30T08:49:02.000Z",
-      "xQuery": "完全養殖ウナギ 2分でネット完売"
-    },
-    {
-      "time": "16:36",
-      "title": "大学の「100円朝食」学生が行列",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582309?source=rss",
-      "publishedAt": "2026-05-30T07:36:43.000Z",
-      "xQuery": "大学の「100円朝食」学生が行列"
+      "url": "https://news.yahoo.co.jp/pickup/6582319?source=rss",
+      "publishedAt": "2026-05-30T08:53:26.000Z",
+      "xQuery": "停めた車後退か 下敷きになり死亡"
     }
   ]
 };

@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-30T08:58:39.435Z",
+  "updatedAt": "2026-05-30T09:45:19.403Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "09:00",
         "title": "スマート統合モーターの世界市場（2026年～2032年）、市場規模（一体型サーボモーター、一体型ステッピングモーター、その他）・分析レポートを発表",
         "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41MFhCUEFVYzlwWkJHcGRwb2RyOWo2a0lkc3BOUnV6ZVZpYjRRbnJvWGx3Y1ZDR0E3Mlk3Rmt4Nl9xZGh6bUwtYWltMHhOMkU?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kYW5kMllIdWJXUmlTeDJkVDFoS3pFUHZiY09CMkRTYldIWXg0RDlEN3ZpTHlKVGd5ZzJ2T0NOaEZmSFJYWTZB?oc=5",
         "publishedAt": "2026-05-30T00:00:00.000Z"
       },
       {
@@ -15,13 +15,6 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ta09NWFpVYzBkSDNNRkFxUUdwTGs0cElabHJlQVg0TGttTTNfdGoyZjlKVkNMbjNMZFRNRHhxWEk3VGZQdm5YTG1iZVJwbXlsZXpFdnJIcDgxZHVGd2JJaXd1djByQXJoYU1n?oc=5",
         "publishedAt": "2026-05-29T13:10:00.000Z"
-      },
-      {
-        "time": "18:30",
-        "title": "電気制御盤の競争環境分析：シェア、市場拡大要因、年平均成長率2.3%見通し｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEMzU5N2ZKTF9wQVhZWDhaMnBUVDdzZ2poZDg2N0Nyckxobm94MjVWMlg5LThvdHdnUzJzbkF2YjlCZVo0ZDNXMGMwNkw3b0RWS0gzdWk4NA?oc=5",
-        "publishedAt": "2026-05-29T09:30:00.000Z"
       },
       {
         "time": "20:01",
@@ -36,6 +29,13 @@
         "source": "まぐまぐ",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MWnBXTmI2OW9teTZwYnc0QjdVazZDcHVMd0ZyVXg2TFJMd0VaVFUtbVlxX1pheEx5TUdOX3FVOS0xTndjekZCempnZ29qbWgxZEHSAVJBVV95cUxOTFpwV05iNjlvbXk2cGJ3NEI3VWs2Q3B1THdGclV4NkxSTHdFWlRVLW1ZcV9aYXhMeU1HTl9xVTktMU53Y3pGQnpqZ2dvam1oMWRB?oc=5",
         "publishedAt": "2026-05-29T10:24:41.000Z"
+      },
+      {
+        "time": "18:09",
+        "title": "JAL機パンクの滑走路 破損判明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582321?source=rss",
+        "publishedAt": "2026-05-30T09:09:34.000Z"
       },
       {
         "time": "12:56",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "18:09",
+        "title": "JAL機パンクの滑走路 破損判明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582321?source=rss",
+        "publishedAt": "2026-05-30T09:09:34.000Z"
+      },
+      {
         "time": "12:56",
         "title": "日本人の中国旅行大幅減 業界打撃",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582318?source=rss",
         "publishedAt": "2026-05-30T08:49:02.000Z"
-      },
-      {
-        "time": "16:36",
-        "title": "大学の「100円朝食」学生が行列",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582309?source=rss",
-        "publishedAt": "2026-05-30T07:36:43.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-05-30T08:53:26.000Z"
       },
       {
-        "time": "10:38",
-        "title": "殺虫剤誤飲 幼児も搬送されていた",
+        "time": "18:40",
+        "title": "万引き客脅し金要求疑い 店長逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582271?source=rss",
-        "publishedAt": "2026-05-30T01:38:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582323?source=rss",
+        "publishedAt": "2026-05-30T09:40:51.000Z"
       }
     ],
     "subsidyHeadlines": [
