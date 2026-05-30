@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T05:25:30.714Z",
+  "updatedAt": "2026-05-30T06:35:19.112Z",
   "items": [
     {
-      "time": "12:47",
-      "title": "米が戦闘終結判断を見送り 報道",
+      "time": "14:43",
+      "title": "台風6号沖縄直撃へ 西日本に接近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582284?source=rss",
-      "publishedAt": "2026-05-30T03:47:46.000Z",
-      "xQuery": "米が戦闘終結判断を見送り 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6582298?source=rss",
+      "publishedAt": "2026-05-30T05:43:17.000Z",
+      "xQuery": "台風6号沖縄直撃へ 西日本に接近"
     },
     {
-      "time": "13:49",
-      "title": "ラオス増水で7人閉じ込め 1人救助",
+      "time": "14:22",
+      "title": "女性天皇「賛成」72% 毎日調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582293?source=rss",
-      "publishedAt": "2026-05-30T04:49:50.000Z",
-      "xQuery": "ラオス増水で7人閉じ込め 1人救助"
+      "url": "https://news.yahoo.co.jp/pickup/6582294?source=rss",
+      "publishedAt": "2026-05-30T05:22:13.000Z",
+      "xQuery": "女性天皇「賛成」72% 毎日調査"
     },
     {
-      "time": "12:56",
-      "title": "日本人の中国旅行大幅減 業界打撃",
+      "time": "15:24",
+      "title": "栃木強殺 新たに18歳高校生を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582286?source=rss",
-      "publishedAt": "2026-05-30T03:56:22.000Z",
-      "xQuery": "日本人の中国旅行大幅減 業界打撃"
+      "url": "https://news.yahoo.co.jp/pickup/6582302?source=rss",
+      "publishedAt": "2026-05-30T06:24:38.000Z",
+      "xQuery": "栃木強殺 新たに18歳高校生を逮捕"
     },
     {
       "time": "14:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車にはねられ2歳死亡 82歳を逮捕"
     },
     {
-      "time": "13:23",
-      "title": "マンジャロ販売巡り 都の警告話題",
+      "time": "12:56",
+      "title": "日本人の中国旅行大幅減 業界打撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582287?source=rss",
-      "publishedAt": "2026-05-30T04:23:29.000Z",
-      "xQuery": "マンジャロ販売巡り 都の警告話題"
+      "url": "https://news.yahoo.co.jp/pickup/6582286?source=rss",
+      "publishedAt": "2026-05-30T03:56:22.000Z",
+      "xQuery": "日本人の中国旅行大幅減 業界打撃"
     }
   ]
 };
