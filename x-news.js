@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T11:35:31.356Z",
+  "updatedAt": "2026-05-30T12:36:54.877Z",
   "items": [
     {
-      "time": "18:53",
-      "title": "台風 2-4日は西-北日本も大荒れに",
+      "time": "21:20",
+      "title": "ガソリン補助巡り 与野党に懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582325?source=rss",
-      "publishedAt": "2026-05-30T09:53:41.000Z",
-      "xQuery": "台風 2-4日は西-北日本も大荒れに"
+      "url": "https://news.yahoo.co.jp/pickup/6582339?source=rss",
+      "publishedAt": "2026-05-30T12:20:50.000Z",
+      "xQuery": "ガソリン補助巡り 与野党に懸念"
     },
     {
       "time": "16:48",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ごみ30%減も処理費2.4兆円 なぜ増"
     },
     {
+      "time": "19:05",
+      "title": "首相の動向発信する速報X 話題",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582326?source=rss",
+      "publishedAt": "2026-05-30T10:05:02.000Z",
+      "xQuery": "首相の動向発信する速報X 話題"
+    },
+    {
+      "time": "21:15",
+      "title": "小6の息子殺害疑い 66歳の男逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582338?source=rss",
+      "publishedAt": "2026-05-30T12:15:28.000Z",
+      "xQuery": "小6の息子殺害疑い 66歳の男逮捕"
+    },
+    {
       "time": "20:04",
       "title": "93歳運転する車がはねる 男性死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6582330?source=rss",
       "publishedAt": "2026-05-30T11:04:09.000Z",
       "xQuery": "93歳運転する車がはねる 男性死亡"
-    },
-    {
-      "time": "18:40",
-      "title": "万引き客脅し金要求疑い 店長逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582323?source=rss",
-      "publishedAt": "2026-05-30T09:40:51.000Z",
-      "xQuery": "万引き客脅し金要求疑い 店長逮捕"
-    },
-    {
-      "time": "19:37",
-      "title": "中学校で詐欺被害 1000万円超か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582329?source=rss",
-      "publishedAt": "2026-05-30T10:37:17.000Z",
-      "xQuery": "中学校で詐欺被害 1000万円超か"
     }
   ]
 };
