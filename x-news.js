@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T03:48:36.243Z",
+  "updatedAt": "2026-05-30T05:25:30.714Z",
   "items": [
     {
-      "time": "11:20",
-      "title": "米軍司令官 キューバ軍高官と会談",
+      "time": "12:47",
+      "title": "米が戦闘終結判断を見送り 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582273?source=rss",
-      "publishedAt": "2026-05-30T02:20:05.000Z",
-      "xQuery": "米軍司令官 キューバ軍高官と会談"
+      "url": "https://news.yahoo.co.jp/pickup/6582284?source=rss",
+      "publishedAt": "2026-05-30T03:47:46.000Z",
+      "xQuery": "米が戦闘終結判断を見送り 報道"
     },
     {
-      "time": "08:38",
-      "title": "首相の取材対応巡り 多忙と木原氏",
+      "time": "13:49",
+      "title": "ラオス増水で7人閉じ込め 1人救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582253?source=rss",
-      "publishedAt": "2026-05-29T23:38:01.000Z",
-      "xQuery": "首相の取材対応巡り 多忙と木原氏"
+      "url": "https://news.yahoo.co.jp/pickup/6582293?source=rss",
+      "publishedAt": "2026-05-30T04:49:50.000Z",
+      "xQuery": "ラオス増水で7人閉じ込め 1人救助"
     },
     {
-      "time": "11:39",
-      "title": "トイレ「TOTO」いまや半導体株",
+      "time": "12:56",
+      "title": "日本人の中国旅行大幅減 業界打撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582276?source=rss",
-      "publishedAt": "2026-05-30T02:39:13.000Z",
-      "xQuery": "トイレ「TOTO」いまや半導体株"
+      "url": "https://news.yahoo.co.jp/pickup/6582286?source=rss",
+      "publishedAt": "2026-05-30T03:56:22.000Z",
+      "xQuery": "日本人の中国旅行大幅減 業界打撃"
     },
     {
-      "time": "11:55",
-      "title": "栃木強殺 真偽不明の卒アル拡散",
+      "time": "14:21",
+      "title": "車にはねられ2歳死亡 82歳を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582277?source=rss",
-      "publishedAt": "2026-05-30T02:55:34.000Z",
-      "xQuery": "栃木強殺 真偽不明の卒アル拡散"
+      "url": "https://news.yahoo.co.jp/pickup/6582295?source=rss",
+      "publishedAt": "2026-05-30T05:21:30.000Z",
+      "xQuery": "車にはねられ2歳死亡 82歳を逮捕"
     },
     {
-      "time": "12:08",
-      "title": "週4飲み会も「駐妻」がみる駐在員",
+      "time": "13:23",
+      "title": "マンジャロ販売巡り 都の警告話題",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582283?source=rss",
-      "publishedAt": "2026-05-30T03:08:07.000Z",
-      "xQuery": "週4飲み会も「駐妻」がみる駐在員"
+      "url": "https://news.yahoo.co.jp/pickup/6582287?source=rss",
+      "publishedAt": "2026-05-30T04:23:29.000Z",
+      "xQuery": "マンジャロ販売巡り 都の警告話題"
     }
   ]
 };

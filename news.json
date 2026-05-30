@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-30T03:48:35.386Z",
+  "updatedAt": "2026-05-30T05:25:29.010Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "09:00",
         "title": "スマート統合モーターの世界市場（2026年～2032年）、市場規模（一体型サーボモーター、一体型ステッピングモーター、その他）・分析レポートを発表",
-        "source": "Newscast.jp",
+        "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41MFhCUEFVYzlwWkJHcGRwb2RyOWo2a0lkc3BOUnV6ZVZpYjRRbnJvWGx3Y1ZDR0E3Mlk3Rmt4Nl9xZGh6bUwtYWltMHhOMkU?oc=5",
         "publishedAt": "2026-05-30T00:00:00.000Z"
       },
@@ -45,34 +45,41 @@
         "publishedAt": "2026-05-29T06:19:54.000Z"
       },
       {
-        "time": "20:00",
-        "title": "(株)ツガミ【6101】：株価・株式情報",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qT2NrZ21VTVpvcVdDaUF6RVVYZkFRWlUybklfRkRLS0I3WkFROW5VbG0zNXlHbTBERTVQU05FYWJ1S0p6Y0MzbXFMQUszUHpBb3c?oc=5",
-        "publishedAt": "2026-05-29T11:00:32.000Z"
+        "time": "14:52",
+        "title": "ミロク セグメント情報 | ストレイナー",
+        "source": "ストレイナー",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZUnNDT1E1WVRwRXFUSTFCT0NLdkdNQmdkOTcySm4zMDd6TXhodTU5bWRyVW81M1I0Ynl1Wi1uWVJoZzBZdkp1Q1BHMlJ5aXpubWhCNHpNWFY5QQ?oc=5",
+        "publishedAt": "2026-05-29T05:52:34.000Z"
       },
       {
-        "time": "13:23",
-        "title": "DMG森精機(6141)第6回永久劣後債発行",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHVCWW9hWGdTeXR3QzZGYWJfeWI4VjdZZ2xIeEJwTmJsM095QVV0bDdJQUdWSFNiUzhIZjhyVUNDaUFLcERxWXRWRHFxTDZYczRjdnRxLUM1cGp6d2NKeTMwaDFmazdxVEJGaExHT1hwX3dQR293b3FpR21MTi1GRHBjeGNCTUNhVWhuYUY0eTBjVkRJWWdVZUVLWFVfOGpjTnc?oc=5",
-        "publishedAt": "2026-05-29T04:23:00.000Z"
+        "time": "16:30",
+        "title": "【日研トータルソーシング】【7月1日～3日開催】 「第38回ものづくりワールド（東京）」に出展",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VLVh3b3VvNWJUOG9vY3duX0U3cUxBTGR1QVhwNWdMeHV6WmZrMGFTUDFoN3UwSGFBYWN5ZVg5RkhpLWRyMTg5TXVvc2pNWi1ydng1RDFfd0tTem0tLTYxeXRTWVdxQW4t?oc=5",
+        "publishedAt": "2026-05-29T07:30:20.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "12:47",
+        "title": "米が戦闘終結判断を見送り 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582284?source=rss",
+        "publishedAt": "2026-05-30T03:47:46.000Z"
+      },
+      {
+        "time": "13:52",
+        "title": "日・豪・NZの防衛閣僚 初の会談",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582292?source=rss",
+        "publishedAt": "2026-05-30T04:52:46.000Z"
+      },
       {
         "time": "11:20",
         "title": "米軍司令官 キューバ軍高官と会談",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582273?source=rss",
         "publishedAt": "2026-05-30T02:20:05.000Z"
-      },
-      {
-        "time": "09:43",
-        "title": "暫定合意巡るトランプ氏会合 終了",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582261?source=rss",
-        "publishedAt": "2026-05-30T00:43:31.000Z"
       },
       {
         "time": "10:40",
@@ -94,16 +101,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582131?source=rss",
         "publishedAt": "2026-05-29T01:26:04.000Z"
-      },
-      {
-        "time": "08:56",
-        "title": "トランプ氏の肖像入り紙幣準備",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582120?source=rss",
-        "publishedAt": "2026-05-28T23:56:06.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "12:56",
+        "title": "日本人の中国旅行大幅減 業界打撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582286?source=rss",
+        "publishedAt": "2026-05-30T03:56:22.000Z"
+      },
       {
         "time": "12:08",
         "title": "週4飲み会も「駐妻」がみる駐在員",
@@ -112,25 +119,18 @@
         "publishedAt": "2026-05-30T03:08:07.000Z"
       },
       {
-        "time": "21:04",
-        "title": "サンリオ常務の不適切受給2.5億円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582221?source=rss",
-        "publishedAt": "2026-05-29T12:04:38.000Z"
-      },
-      {
-        "time": "22:48",
-        "title": "「白黒ポテトチップス」店頭に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582233?source=rss",
-        "publishedAt": "2026-05-29T13:48:46.000Z"
-      },
-      {
         "time": "09:18",
         "title": "ホームパイ パッケージの色減らす",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582257?source=rss",
         "publishedAt": "2026-05-30T00:18:52.000Z"
+      },
+      {
+        "time": "13:23",
+        "title": "マンジャロ販売巡り 都の警告話題",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582287?source=rss",
+        "publishedAt": "2026-05-30T04:23:29.000Z"
       },
       {
         "time": "11:39",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "14:21",
+        "title": "車にはねられ2歳死亡 82歳を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582295?source=rss",
+        "publishedAt": "2026-05-30T05:21:30.000Z"
+      },
       {
         "time": "07:30",
         "title": "強殺 逃亡の男が報酬4千万円示唆",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582236?source=rss",
         "publishedAt": "2026-05-29T14:12:09.000Z"
-      },
-      {
-        "time": "21:53",
-        "title": "羽月元選手に薬物譲渡か 男逮捕へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582228?source=rss",
-        "publishedAt": "2026-05-29T12:53:48.000Z"
       }
     ],
     "subsidyHeadlines": [
