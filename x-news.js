@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T10:40:23.200Z",
+  "updatedAt": "2026-05-30T11:35:31.356Z",
   "items": [
     {
       "time": "18:53",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 2-4日は西-北日本も大荒れに"
     },
     {
-      "time": "16:38",
-      "title": "iPS論文数 米国や中国との差拡大",
+      "time": "16:48",
+      "title": "ごみ30%減も処理費2.4兆円 なぜ増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582310?source=rss",
-      "publishedAt": "2026-05-30T07:38:46.000Z",
-      "xQuery": "iPS論文数 米国や中国との差拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6582311?source=rss",
+      "publishedAt": "2026-05-30T07:48:23.000Z",
+      "xQuery": "ごみ30%減も処理費2.4兆円 なぜ増"
     },
     {
-      "time": "18:09",
-      "title": "JAL機パンクの滑走路 破損判明",
+      "time": "20:04",
+      "title": "93歳運転する車がはねる 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582321?source=rss",
-      "publishedAt": "2026-05-30T09:09:34.000Z",
-      "xQuery": "JAL機パンクの滑走路 破損判明"
-    },
-    {
-      "time": "17:20",
-      "title": "強殺 手配の男元タクシー運転手か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582316?source=rss",
-      "publishedAt": "2026-05-30T08:20:35.000Z",
-      "xQuery": "強殺 手配の男元タクシー運転手か"
+      "url": "https://news.yahoo.co.jp/pickup/6582330?source=rss",
+      "publishedAt": "2026-05-30T11:04:09.000Z",
+      "xQuery": "93歳運転する車がはねる 男性死亡"
     },
     {
       "time": "18:40",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582323?source=rss",
       "publishedAt": "2026-05-30T09:40:51.000Z",
       "xQuery": "万引き客脅し金要求疑い 店長逮捕"
+    },
+    {
+      "time": "19:37",
+      "title": "中学校で詐欺被害 1000万円超か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582329?source=rss",
+      "publishedAt": "2026-05-30T10:37:17.000Z",
+      "xQuery": "中学校で詐欺被害 1000万円超か"
     }
   ]
 };
