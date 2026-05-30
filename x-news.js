@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T07:56:47.311Z",
+  "updatedAt": "2026-05-30T08:58:45.057Z",
   "items": [
     {
-      "time": "14:43",
-      "title": "台風6号沖縄直撃へ 西日本に接近",
+      "time": "16:53",
+      "title": "拉致巡り首相 私の代で突破口を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582298?source=rss",
-      "publishedAt": "2026-05-30T05:43:17.000Z",
-      "xQuery": "台風6号沖縄直撃へ 西日本に接近"
+      "url": "https://news.yahoo.co.jp/pickup/6582312?source=rss",
+      "publishedAt": "2026-05-30T07:53:35.000Z",
+      "xQuery": "拉致巡り首相 私の代で突破口を"
     },
     {
-      "time": "14:38",
-      "title": "米長官 同盟国に防衛費増額を要求",
+      "time": "16:38",
+      "title": "iPS論文数 米国や中国との差拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582297?source=rss",
-      "publishedAt": "2026-05-30T05:38:10.000Z",
-      "xQuery": "米長官 同盟国に防衛費増額を要求"
+      "url": "https://news.yahoo.co.jp/pickup/6582310?source=rss",
+      "publishedAt": "2026-05-30T07:38:46.000Z",
+      "xQuery": "iPS論文数 米国や中国との差拡大"
     },
     {
-      "time": "15:24",
-      "title": "栃木強殺 新たに18歳高校生を逮捕",
+      "time": "17:20",
+      "title": "強殺 手配の男元タクシー運転手か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582302?source=rss",
-      "publishedAt": "2026-05-30T06:24:38.000Z",
-      "xQuery": "栃木強殺 新たに18歳高校生を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6582316?source=rss",
+      "publishedAt": "2026-05-30T08:20:35.000Z",
+      "xQuery": "強殺 手配の男元タクシー運転手か"
     },
     {
-      "time": "14:21",
-      "title": "車にはねられ2歳死亡 82歳を逮捕",
+      "time": "17:49",
+      "title": "完全養殖ウナギ 2分でネット完売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582295?source=rss",
-      "publishedAt": "2026-05-30T05:21:30.000Z",
-      "xQuery": "車にはねられ2歳死亡 82歳を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6582318?source=rss",
+      "publishedAt": "2026-05-30T08:49:02.000Z",
+      "xQuery": "完全養殖ウナギ 2分でネット完売"
     },
     {
       "time": "16:36",
