@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T22:53:44.972Z",
+  "updatedAt": "2026-05-30T23:28:26.983Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "07:59",
+        "title": "米とイラン 海峡巡り神経戦続く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582365?source=rss",
+        "publishedAt": "2026-05-30T22:59:14.000Z"
+      },
+      {
         "time": "12:47",
         "title": "米が戦闘終結判断を見送り 報道",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582361?source=rss",
         "publishedAt": "2026-05-30T22:42:32.000Z"
-      },
-      {
-        "time": "20:43",
-        "title": "洞窟で10日間遭難5人救出 ラオス",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582335?source=rss",
-        "publishedAt": "2026-05-30T11:43:37.000Z"
       }
     ],
     "economyHeadlines": [

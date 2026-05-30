@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T22:53:45.902Z",
+  "updatedAt": "2026-05-30T23:28:28.473Z",
   "items": [
     {
       "time": "07:27",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582358?source=rss",
       "publishedAt": "2026-05-30T22:27:05.000Z",
       "xQuery": "台風 1日から強い勢力で沖縄接近"
+    },
+    {
+      "time": "08:04",
+      "title": "初診・再診料など 6月〜引き上げ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582366?source=rss",
+      "publishedAt": "2026-05-30T23:04:17.000Z",
+      "xQuery": "初診・再診料など 6月〜引き上げ"
     },
     {
       "time": "23:21",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582338?source=rss",
       "publishedAt": "2026-05-30T12:15:28.000Z",
       "xQuery": "小6の息子殺害疑い 66歳の男逮捕"
-    },
-    {
-      "time": "22:53",
-      "title": "婚活市場 縮む「理想の年齢差」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582351?source=rss",
-      "publishedAt": "2026-05-30T13:53:07.000Z",
-      "xQuery": "婚活市場 縮む「理想の年齢差」"
     }
   ]
 };
