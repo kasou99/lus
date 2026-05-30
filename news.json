@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T01:08:14.605Z",
+  "updatedAt": "2026-05-30T02:24:38.984Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,9 +12,16 @@
       {
         "time": "15:19",
         "title": "【材料】 工作機械のヤマザキは軟調、前日の急落に続き弱含みの動きに",
-        "source": "かぶたん",
+        "source": "株探（かぶたん）",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52aklnVnhFS2Y4VFFDNi1yWnlyN2FKQUxMbmhGVHNpSmNsRHpWUFAxQ0g2aks4NjZObEtUQWVlQktoc2JwTndYRmtfbE1TQmx6WktJRGp5QWRzMnZnN3lKWg?oc=5",
         "publishedAt": "2026-05-29T06:19:00.000Z"
+      },
+      {
+        "time": "22:10",
+        "title": "次世代設備保全クラウド「M2X」、約1.3万製品からTOP100に選出 ─ ITreview Best Software in Japan 2026",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ta09NWFpVYzBkSDNNRkFxUUdwTGs0cElabHJlQVg0TGttTTNfdGoyZjlKVkNMbjNMZFRNRHhxWEk3VGZQdm5YTG1iZVJwbXlsZXpFdnJIcDgxZHVGd2JJaXd1djByQXJoYU1n?oc=5",
+        "publishedAt": "2026-05-29T13:10:00.000Z"
       },
       {
         "time": "18:30",
@@ -22,13 +29,6 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEMzU5N2ZKTF9wQVhZWDhaMnBUVDdzZ2poZDg2N0Nyckxobm94MjVWMlg5LThvdHdnUzJzbkF2YjlCZVo0ZDNXMGMwNkw3b0RWS0gzdWk4NA?oc=5",
         "publishedAt": "2026-05-29T09:30:00.000Z"
-      },
-      {
-        "time": "10:21",
-        "title": "次世代設備保全クラウド「M2X」、約1.3万製品からTOP100に選出 ─ ITreview Best Software in Japan 2026（PR TIMES）",
-        "source": "毎日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XWWRGb3pfX0FvbUlkRkhmSjJWM2FDV1NTUVFMamdwRWtlRU9Td3JFbkNsNnFUOG1mdmlRUjIzdmlyeEFKejM3ZkVUdXFpQ3cwQUt3QTNNNUVteTBBQ3ZWeTJ0N2h4RVdr?oc=5",
-        "publishedAt": "2026-05-29T01:21:36.000Z"
       },
       {
         "time": "17:19",
@@ -45,21 +45,28 @@
         "publishedAt": "2026-05-29T06:19:54.000Z"
       },
       {
-        "time": "12:05",
-        "title": "画像 | 片山さつき大臣が\"買収中止\"に動くわけだ…中国企業にはマネできない｢日本の工作機械｣の知られざる価値",
-        "source": "PRESIDENT Online（プレジデントオンライン）",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZTczSnc5RERVZ3ByUTdZemZncFV2OTVhSkxxSG4zTlpxWUlkdHpaVFFMbEI3YnhNSW1wemYyTEh2dTZZdmNqVzdFRzZ0bWdEdUlOSHNMYTU1c1gtX0duSzZocW9sSXYzWERFOU1tYVNfT01XWUl3bjl2WDVOVHhYV1UwRlp3c1hqMDY5STNWa3hLbWhCaHdvWXQ5Tjg2d1hHUC1SZ2pMMTBYcGljOFhyTA?oc=5",
-        "publishedAt": "2026-05-29T03:05:00.000Z"
-      },
-      {
         "time": "20:00",
         "title": "(株)ツガミ【6101】：株価・株式情報",
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qT2NrZ21VTVpvcVdDaUF6RVVYZkFRWlUybklfRkRLS0I3WkFROW5VbG0zNXlHbTBERTVQU05FYWJ1S0p6Y0MzbXFMQUszUHpBb3c?oc=5",
         "publishedAt": "2026-05-29T11:00:32.000Z"
+      },
+      {
+        "time": "12:05",
+        "title": "画像 | 片山さつき大臣が\"買収中止\"に動くわけだ…中国企業にはマネできない｢日本の工作機械｣の知られざる価値",
+        "source": "PRESIDENT Online（プレジデントオンライン）",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZTczSnc5RERVZ3ByUTdZemZncFV2OTVhSkxxSG4zTlpxWUlkdHpaVFFMbEI3YnhNSW1wemYyTEh2dTZZdmNqVzdFRzZ0bWdEdUlOSHNMYTU1c1gtX0duSzZocW9sSXYzWERFOU1tYVNfT01XWUl3bjl2WDVOVHhYV1UwRlp3c1hqMDY5STNWa3hLbWhCaHdvWXQ5Tjg2d1hHUC1SZ2pMMTBYcGljOFhyTA?oc=5",
+        "publishedAt": "2026-05-29T03:05:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "11:20",
+        "title": "米軍司令官 キューバ軍高官と会談",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582273?source=rss",
+        "publishedAt": "2026-05-30T02:20:05.000Z"
+      },
       {
         "time": "09:43",
         "title": "暫定合意巡るトランプ氏会合 終了",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582120?source=rss",
         "publishedAt": "2026-05-28T23:56:06.000Z"
-      },
-      {
-        "time": "09:53",
-        "title": "露の批判「ばかげている」日本",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582129?source=rss",
-        "publishedAt": "2026-05-29T00:53:09.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-05-30T00:18:52.000Z"
       },
       {
+        "time": "10:36",
+        "title": "「隠れ半導体株」TOTOに注目",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582269?source=rss",
+        "publishedAt": "2026-05-30T01:36:14.000Z"
+      },
+      {
         "time": "08:00",
         "title": "エステ・脱毛サロン 倒産止まらず",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582248?source=rss",
         "publishedAt": "2026-05-29T23:00:29.000Z"
-      },
-      {
-        "time": "08:07",
-        "title": "相撲部屋が共存の賃貸 満室のワケ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582249?source=rss",
-        "publishedAt": "2026-05-29T23:07:45.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-05-29T12:25:58.000Z"
       },
       {
+        "time": "10:37",
+        "title": "阪神バス運転手 車椅子乗車を拒否",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582270?source=rss",
+        "publishedAt": "2026-05-30T01:37:36.000Z"
+      },
+      {
         "time": "23:12",
         "title": "全市民の情報流出恐れ 浦添市謝罪",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582228?source=rss",
         "publishedAt": "2026-05-29T12:53:48.000Z"
-      },
-      {
-        "time": "21:21",
-        "title": "マイクロバスにはねられ2人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582223?source=rss",
-        "publishedAt": "2026-05-29T12:21:05.000Z"
       }
     ],
     "subsidyHeadlines": [

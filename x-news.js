@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T01:08:15.953Z",
+  "updatedAt": "2026-05-30T02:24:40.189Z",
   "items": [
     {
       "time": "09:43",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "暫定合意巡るトランプ氏会合 終了"
     },
     {
+      "time": "08:38",
+      "title": "首相の取材対応巡り 多忙と木原氏",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582253?source=rss",
+      "publishedAt": "2026-05-29T23:38:01.000Z",
+      "xQuery": "首相の取材対応巡り 多忙と木原氏"
+    },
+    {
       "time": "08:32",
       "title": "SNS巡る子保護に「共通原則」G7",
       "source": "Yahoo!ニュース",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "SNS巡る子保護に「共通原則」G7"
     },
     {
-      "time": "07:30",
-      "title": "強殺 逃亡の男が報酬4千万円示唆",
+      "time": "10:38",
+      "title": "殺虫剤誤飲 幼児も搬送されていた",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582241?source=rss",
-      "publishedAt": "2026-05-29T22:30:26.000Z",
-      "xQuery": "強殺 逃亡の男が報酬4千万円示唆"
+      "url": "https://news.yahoo.co.jp/pickup/6582271?source=rss",
+      "publishedAt": "2026-05-30T01:38:03.000Z",
+      "xQuery": "殺虫剤誤飲 幼児も搬送されていた"
     },
     {
-      "time": "07:51",
-      "title": "「少林寺」元住職 懲役24年の判決",
+      "time": "10:37",
+      "title": "阪神バス運転手 車椅子乗車を拒否",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582246?source=rss",
-      "publishedAt": "2026-05-29T22:51:44.000Z",
-      "xQuery": "「少林寺」元住職 懲役24年の判決"
-    },
-    {
-      "time": "08:00",
-      "title": "エステ・脱毛サロン 倒産止まらず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582248?source=rss",
-      "publishedAt": "2026-05-29T23:00:29.000Z",
-      "xQuery": "エステ・脱毛サロン 倒産止まらず"
+      "url": "https://news.yahoo.co.jp/pickup/6582270?source=rss",
+      "publishedAt": "2026-05-30T01:37:36.000Z",
+      "xQuery": "阪神バス運転手 車椅子乗車を拒否"
     }
   ]
 };
