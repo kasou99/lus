@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T13:37:15.847Z",
+  "updatedAt": "2026-05-30T14:38:40.315Z",
   "items": [
+    {
+      "time": "23:21",
+      "title": "ミサイル共同開発加速で一致 日米",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582354?source=rss",
+      "publishedAt": "2026-05-30T14:21:37.000Z",
+      "xQuery": "ミサイル共同開発加速で一致 日米"
+    },
     {
       "time": "21:46",
       "title": "自民と国民の連立構想が再浮上",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582342?source=rss",
       "publishedAt": "2026-05-30T12:46:12.000Z",
       "xQuery": "自民と国民の連立構想が再浮上"
-    },
-    {
-      "time": "21:20",
-      "title": "ガソリン補助巡り 与野党に懸念",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582339?source=rss",
-      "publishedAt": "2026-05-30T12:20:50.000Z",
-      "xQuery": "ガソリン補助巡り 与野党に懸念"
     },
     {
       "time": "22:28",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "小6の息子殺害疑い 66歳の男逮捕"
     },
     {
-      "time": "20:04",
-      "title": "93歳運転する車がはねる 男性死亡",
+      "time": "22:53",
+      "title": "婚活市場 縮む「理想の年齢差」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582330?source=rss",
-      "publishedAt": "2026-05-30T11:04:09.000Z",
-      "xQuery": "93歳運転する車がはねる 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6582351?source=rss",
+      "publishedAt": "2026-05-30T13:53:07.000Z",
+      "xQuery": "婚活市場 縮む「理想の年齢差」"
     }
   ]
 };
