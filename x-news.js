@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T02:24:40.189Z",
+  "updatedAt": "2026-05-30T03:48:36.243Z",
   "items": [
     {
-      "time": "09:43",
-      "title": "暫定合意巡るトランプ氏会合 終了",
+      "time": "11:20",
+      "title": "米軍司令官 キューバ軍高官と会談",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582261?source=rss",
-      "publishedAt": "2026-05-30T00:43:31.000Z",
-      "xQuery": "暫定合意巡るトランプ氏会合 終了"
+      "url": "https://news.yahoo.co.jp/pickup/6582273?source=rss",
+      "publishedAt": "2026-05-30T02:20:05.000Z",
+      "xQuery": "米軍司令官 キューバ軍高官と会談"
     },
     {
       "time": "08:38",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "首相の取材対応巡り 多忙と木原氏"
     },
     {
-      "time": "08:32",
-      "title": "SNS巡る子保護に「共通原則」G7",
+      "time": "11:39",
+      "title": "トイレ「TOTO」いまや半導体株",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582252?source=rss",
-      "publishedAt": "2026-05-29T23:32:05.000Z",
-      "xQuery": "SNS巡る子保護に「共通原則」G7"
+      "url": "https://news.yahoo.co.jp/pickup/6582276?source=rss",
+      "publishedAt": "2026-05-30T02:39:13.000Z",
+      "xQuery": "トイレ「TOTO」いまや半導体株"
     },
     {
-      "time": "10:38",
-      "title": "殺虫剤誤飲 幼児も搬送されていた",
+      "time": "11:55",
+      "title": "栃木強殺 真偽不明の卒アル拡散",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582271?source=rss",
-      "publishedAt": "2026-05-30T01:38:03.000Z",
-      "xQuery": "殺虫剤誤飲 幼児も搬送されていた"
+      "url": "https://news.yahoo.co.jp/pickup/6582277?source=rss",
+      "publishedAt": "2026-05-30T02:55:34.000Z",
+      "xQuery": "栃木強殺 真偽不明の卒アル拡散"
     },
     {
-      "time": "10:37",
-      "title": "阪神バス運転手 車椅子乗車を拒否",
+      "time": "12:08",
+      "title": "週4飲み会も「駐妻」がみる駐在員",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582270?source=rss",
-      "publishedAt": "2026-05-30T01:37:36.000Z",
-      "xQuery": "阪神バス運転手 車椅子乗車を拒否"
+      "url": "https://news.yahoo.co.jp/pickup/6582283?source=rss",
+      "publishedAt": "2026-05-30T03:08:07.000Z",
+      "xQuery": "週4飲み会も「駐妻」がみる駐在員"
     }
   ]
 };
