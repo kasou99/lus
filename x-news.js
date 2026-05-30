@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T22:27:24.708Z",
+  "updatedAt": "2026-05-30T22:53:45.902Z",
   "items": [
+    {
+      "time": "07:27",
+      "title": "台風 1日から強い勢力で沖縄接近",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582358?source=rss",
+      "publishedAt": "2026-05-30T22:27:05.000Z",
+      "xQuery": "台風 1日から強い勢力で沖縄接近"
+    },
     {
       "time": "23:21",
       "title": "ミサイル共同開発加速で一致 日米",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ミサイル共同開発加速で一致 日米"
     },
     {
-      "time": "21:46",
-      "title": "自民と国民の連立構想が再浮上",
+      "time": "07:41",
+      "title": "2人死亡 直前にバス運転85歳異変",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582342?source=rss",
-      "publishedAt": "2026-05-30T12:46:12.000Z",
-      "xQuery": "自民と国民の連立構想が再浮上"
-    },
-    {
-      "time": "22:28",
-      "title": "JALとANA 台風で計260便以上欠航",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582349?source=rss",
-      "publishedAt": "2026-05-30T13:28:52.000Z",
-      "xQuery": "JALとANA 台風で計260便以上欠航"
+      "url": "https://news.yahoo.co.jp/pickup/6582362?source=rss",
+      "publishedAt": "2026-05-30T22:41:34.000Z",
+      "xQuery": "2人死亡 直前にバス運転85歳異変"
     },
     {
       "time": "21:15",
