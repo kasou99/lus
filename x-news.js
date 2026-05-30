@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T09:45:20.238Z",
+  "updatedAt": "2026-05-30T10:40:23.200Z",
   "items": [
     {
-      "time": "16:53",
-      "title": "拉致巡り首相 私の代で突破口を",
+      "time": "18:53",
+      "title": "台風 2-4日は西-北日本も大荒れに",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582312?source=rss",
-      "publishedAt": "2026-05-30T07:53:35.000Z",
-      "xQuery": "拉致巡り首相 私の代で突破口を"
+      "url": "https://news.yahoo.co.jp/pickup/6582325?source=rss",
+      "publishedAt": "2026-05-30T09:53:41.000Z",
+      "xQuery": "台風 2-4日は西-北日本も大荒れに"
     },
     {
       "time": "16:38",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "強殺 手配の男元タクシー運転手か"
     },
     {
-      "time": "17:53",
-      "title": "停めた車後退か 下敷きになり死亡",
+      "time": "18:40",
+      "title": "万引き客脅し金要求疑い 店長逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582319?source=rss",
-      "publishedAt": "2026-05-30T08:53:26.000Z",
-      "xQuery": "停めた車後退か 下敷きになり死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6582323?source=rss",
+      "publishedAt": "2026-05-30T09:40:51.000Z",
+      "xQuery": "万引き客脅し金要求疑い 店長逮捕"
     }
   ]
 };
