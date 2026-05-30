@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T21:54:41.191Z",
+  "updatedAt": "2026-05-30T22:27:24.708Z",
   "items": [
     {
       "time": "23:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "小6の息子殺害疑い 66歳の男逮捕"
     },
     {
-      "time": "20:04",
-      "title": "93歳運転する車がはねる 男性死亡",
+      "time": "22:53",
+      "title": "婚活市場 縮む「理想の年齢差」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582330?source=rss",
-      "publishedAt": "2026-05-30T11:04:09.000Z",
-      "xQuery": "93歳運転する車がはねる 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6582351?source=rss",
+      "publishedAt": "2026-05-30T13:53:07.000Z",
+      "xQuery": "婚活市場 縮む「理想の年齢差」"
     }
   ]
 };
