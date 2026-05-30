@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T12:36:54.877Z",
+  "updatedAt": "2026-05-30T13:37:15.847Z",
   "items": [
+    {
+      "time": "21:46",
+      "title": "自民と国民の連立構想が再浮上",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582342?source=rss",
+      "publishedAt": "2026-05-30T12:46:12.000Z",
+      "xQuery": "自民と国民の連立構想が再浮上"
+    },
     {
       "time": "21:20",
       "title": "ガソリン補助巡り 与野党に懸念",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ガソリン補助巡り 与野党に懸念"
     },
     {
-      "time": "16:48",
-      "title": "ごみ30%減も処理費2.4兆円 なぜ増",
+      "time": "22:28",
+      "title": "JALとANA 台風で計260便以上欠航",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582311?source=rss",
-      "publishedAt": "2026-05-30T07:48:23.000Z",
-      "xQuery": "ごみ30%減も処理費2.4兆円 なぜ増"
-    },
-    {
-      "time": "19:05",
-      "title": "首相の動向発信する速報X 話題",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582326?source=rss",
-      "publishedAt": "2026-05-30T10:05:02.000Z",
-      "xQuery": "首相の動向発信する速報X 話題"
+      "url": "https://news.yahoo.co.jp/pickup/6582349?source=rss",
+      "publishedAt": "2026-05-30T13:28:52.000Z",
+      "xQuery": "JALとANA 台風で計260便以上欠航"
     },
     {
       "time": "21:15",
