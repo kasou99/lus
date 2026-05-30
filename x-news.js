@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T06:35:19.112Z",
+  "updatedAt": "2026-05-30T07:56:47.311Z",
   "items": [
     {
       "time": "14:43",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風6号沖縄直撃へ 西日本に接近"
     },
     {
-      "time": "14:22",
-      "title": "女性天皇「賛成」72% 毎日調査",
+      "time": "14:38",
+      "title": "米長官 同盟国に防衛費増額を要求",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582294?source=rss",
-      "publishedAt": "2026-05-30T05:22:13.000Z",
-      "xQuery": "女性天皇「賛成」72% 毎日調査"
+      "url": "https://news.yahoo.co.jp/pickup/6582297?source=rss",
+      "publishedAt": "2026-05-30T05:38:10.000Z",
+      "xQuery": "米長官 同盟国に防衛費増額を要求"
     },
     {
       "time": "15:24",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車にはねられ2歳死亡 82歳を逮捕"
     },
     {
-      "time": "12:56",
-      "title": "日本人の中国旅行大幅減 業界打撃",
+      "time": "16:36",
+      "title": "大学の「100円朝食」学生が行列",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582286?source=rss",
-      "publishedAt": "2026-05-30T03:56:22.000Z",
-      "xQuery": "日本人の中国旅行大幅減 業界打撃"
+      "url": "https://news.yahoo.co.jp/pickup/6582309?source=rss",
+      "publishedAt": "2026-05-30T07:36:43.000Z",
+      "xQuery": "大学の「100円朝食」学生が行列"
     }
   ]
 };
