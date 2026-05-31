@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-31T09:12:01.821Z",
+  "updatedAt": "2026-05-31T10:18:45.877Z",
   "items": [
+    {
+      "time": "17:40",
+      "title": "比の国防相 日本の武器輸出期待",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582437?source=rss",
+      "publishedAt": "2026-05-31T08:40:08.000Z",
+      "xQuery": "比の国防相 日本の武器輸出期待"
+    },
     {
       "time": "17:01",
       "title": "米大統領 和平提案の修正要求か",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 和平提案の修正要求か"
     },
     {
-      "time": "16:53",
-      "title": "1号在留者受け入れ停止 外食悲鳴",
+      "time": "18:58",
+      "title": "東北道で貨物車が大破 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582433?source=rss",
-      "publishedAt": "2026-05-31T07:53:10.000Z",
-      "xQuery": "1号在留者受け入れ停止 外食悲鳴"
+      "url": "https://news.yahoo.co.jp/pickup/6582446?source=rss",
+      "publishedAt": "2026-05-31T09:58:57.000Z",
+      "xQuery": "東北道で貨物車が大破 男性死亡"
     },
     {
-      "time": "18:03",
-      "title": "同乗者が事故死 酒気帯び疑い逮捕",
+      "time": "13:51",
+      "title": "×印見つからず 不快広告なぜ乱発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582442?source=rss",
-      "publishedAt": "2026-05-31T09:03:46.000Z",
-      "xQuery": "同乗者が事故死 酒気帯び疑い逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6582411?source=rss",
+      "publishedAt": "2026-05-31T04:51:52.000Z",
+      "xQuery": "×印見つからず 不快広告なぜ乱発"
     },
     {
-      "time": "15:37",
-      "title": "なぜ 街路樹の「やりすぎせん定」",
+      "time": "18:26",
+      "title": "ビッグイベント多発 都内は大混雑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582423?source=rss",
-      "publishedAt": "2026-05-31T06:37:09.000Z",
-      "xQuery": "なぜ 街路樹の「やりすぎせん定」"
-    },
-    {
-      "time": "14:32",
-      "title": "ヴィレヴァン本店閉店 ファンが列",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582415?source=rss",
-      "publishedAt": "2026-05-31T05:32:24.000Z",
-      "xQuery": "ヴィレヴァン本店閉店 ファンが列"
+      "url": "https://news.yahoo.co.jp/pickup/6582445?source=rss",
+      "publishedAt": "2026-05-31T09:26:41.000Z",
+      "xQuery": "ビッグイベント多発 都内は大混雑"
     }
   ]
 };
