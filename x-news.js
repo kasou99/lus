@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-31T05:39:37.077Z",
+  "updatedAt": "2026-05-31T07:30:46.263Z",
   "items": [
     {
-      "time": "13:47",
-      "title": "「新型軍国主義」は虚偽 防衛相",
+      "time": "15:49",
+      "title": "台風は1日沖縄に最接近 厳重警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582410?source=rss",
-      "publishedAt": "2026-05-31T04:47:35.000Z",
-      "xQuery": "「新型軍国主義」は虚偽 防衛相"
+      "url": "https://news.yahoo.co.jp/pickup/6582424?source=rss",
+      "publishedAt": "2026-05-31T06:49:08.000Z",
+      "xQuery": "台風は1日沖縄に最接近 厳重警戒"
     },
     {
-      "time": "12:35",
-      "title": "バスひき逃げ死亡 被害者父は悲痛",
+      "time": "14:55",
+      "title": "米軍 東太平洋で麻薬密輸船を空爆",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582401?source=rss",
-      "publishedAt": "2026-05-31T03:35:26.000Z",
-      "xQuery": "バスひき逃げ死亡 被害者父は悲痛"
+      "url": "https://news.yahoo.co.jp/pickup/6582419?source=rss",
+      "publishedAt": "2026-05-31T05:55:09.000Z",
+      "xQuery": "米軍 東太平洋で麻薬密輸船を空爆"
     },
     {
       "time": "13:51",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "×印見つからず 不快広告なぜ乱発"
     },
     {
-      "time": "13:03",
-      "title": "「関東一涼しい街」移住に期待",
+      "time": "15:07",
+      "title": "スーツで街歩く「背広散歩」狙い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582404?source=rss",
-      "publishedAt": "2026-05-31T04:03:51.000Z",
-      "xQuery": "「関東一涼しい街」移住に期待"
+      "url": "https://news.yahoo.co.jp/pickup/6582421?source=rss",
+      "publishedAt": "2026-05-31T06:07:52.000Z",
+      "xQuery": "スーツで街歩く「背広散歩」狙い"
     },
     {
       "time": "14:32",

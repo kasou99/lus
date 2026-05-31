@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T05:39:35.908Z",
+  "updatedAt": "2026-05-31T07:30:45.237Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "09:30",
         "title": "【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
-        "source": "株探（かぶたん）",
+        "source": "株探(かぶたん)",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pSHItUG0zRTlRb0ExZmcxTlctRFJWai1hOFRUMnB1ajFRc2tqdjNBSWtHc1JVNWl0TGVkQ2swemRsUVR5U05hRXExM2VTeWVBMFE?oc=5",
         "publishedAt": "2026-05-31T00:30:00.000Z"
       },
@@ -52,20 +52,20 @@
         "publishedAt": "2026-05-30T13:27:37.000Z"
       },
       {
-        "time": "17:49",
-        "title": "完全養殖ウナギ 2分でネット完売",
+        "time": "14:32",
+        "title": "ヴィレヴァン本店閉店 ファンが列",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582318?source=rss",
-        "publishedAt": "2026-05-30T08:49:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582415?source=rss",
+        "publishedAt": "2026-05-31T05:32:24.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "12:47",
-        "title": "米が戦闘終結判断を見送り 報道",
+        "time": "14:55",
+        "title": "米軍 東太平洋で麻薬密輸船を空爆",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582284?source=rss",
-        "publishedAt": "2026-05-30T03:47:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582419?source=rss",
+        "publishedAt": "2026-05-31T05:55:09.000Z"
       },
       {
         "time": "11:49",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-05-30T05:38:10.000Z"
       },
       {
-        "time": "13:52",
-        "title": "日・豪・NZの防衛閣僚 初の会談",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582292?source=rss",
-        "publishedAt": "2026-05-30T04:52:46.000Z"
-      },
-      {
         "time": "07:42",
         "title": "国境なき医師団 エボラ巡り警鐘",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582361?source=rss",
         "publishedAt": "2026-05-30T22:42:32.000Z"
+      },
+      {
+        "time": "15:50",
+        "title": "仏でサポが暴徒化 400人以上拘束",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582425?source=rss",
+        "publishedAt": "2026-05-31T06:50:42.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,18 +126,18 @@
         "publishedAt": "2026-05-30T13:27:37.000Z"
       },
       {
-        "time": "17:49",
-        "title": "完全養殖ウナギ 2分でネット完売",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582318?source=rss",
-        "publishedAt": "2026-05-30T08:49:02.000Z"
-      },
-      {
         "time": "14:32",
         "title": "ヴィレヴァン本店閉店 ファンが列",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582415?source=rss",
         "publishedAt": "2026-05-31T05:32:24.000Z"
+      },
+      {
+        "time": "15:07",
+        "title": "スーツで街歩く「背広散歩」狙い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582421?source=rss",
+        "publishedAt": "2026-05-31T06:07:52.000Z"
       },
       {
         "time": "08:00",
