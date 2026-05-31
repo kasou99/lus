@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-05-31T14:11:38.790Z",
+  "updatedAt": "2026-05-31T15:03:13.072Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "18:49",
-        "title": "片山さつき大臣が\"買収中止\"に動くわけだ…中国企業にはマネできない「日本の工作機械」の知られざる価値",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGdTczR6a0dST0ZDNEhfWjJBTkM3bjdnUTd2YlVmS3FPYk8wTkVIaDJkMGFzNnJoTzBXOUotckd1b2NyNWlWd0F5RVVsaERhMnlqbkcxa3k0aUx4b1duSG5WaTFuanozRGt4Nmpxa1dBQkl1MkJoRUJwVEltbkpBNDFfVVNmVnc?oc=5",
-        "publishedAt": "2026-05-31T09:49:00.000Z"
-      },
       {
         "time": "09:30",
         "title": "【市況】 【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582474?source=rss",
         "publishedAt": "2026-05-31T14:03:55.000Z"
+      },
+      {
+        "time": "21:41",
+        "title": "エアコン買い替え 急ぐ動き強まる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582460?source=rss",
+        "publishedAt": "2026-05-31T12:41:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "20:58",
-        "title": "新潟県知事選 花角氏が3選確実",
+        "time": "23:24",
+        "title": "新潟県知事選 花角英世氏が3選",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582457?source=rss",
-        "publishedAt": "2026-05-31T11:58:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582479?source=rss",
+        "publishedAt": "2026-05-31T14:24:46.000Z"
       },
       {
-        "time": "10:25",
-        "title": "中道大敗 かつての民主王国は今",
+        "time": "23:48",
+        "title": "1票差で町長選当選 新潟・田上町",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582383?source=rss",
-        "publishedAt": "2026-05-31T01:25:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582480?source=rss",
+        "publishedAt": "2026-05-31T14:48:33.000Z"
       },
       {
         "time": "20:38",

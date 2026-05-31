@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-31T14:11:39.900Z",
+  "updatedAt": "2026-05-31T15:03:13.630Z",
   "items": [
     {
       "time": "22:53",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "アジア安保会議 日中の溝浮き彫り"
     },
     {
+      "time": "23:48",
+      "title": "1票差で町長選当選 新潟・田上町",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582480?source=rss",
+      "publishedAt": "2026-05-31T14:48:33.000Z",
+      "xQuery": "1票差で町長選当選 新潟・田上町"
+    },
+    {
+      "time": "23:03",
+      "title": "タイヤ不具合 海外では墜落事故も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582474?source=rss",
+      "publishedAt": "2026-05-31T14:03:55.000Z",
+      "xQuery": "タイヤ不具合 海外では墜落事故も"
+    },
+    {
       "time": "21:40",
       "title": "ナフサ100%水準戻る見通し 経産相",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6582462?source=rss",
       "publishedAt": "2026-05-31T12:40:48.000Z",
       "xQuery": "ナフサ100%水準戻る見通し 経産相"
-    },
-    {
-      "time": "21:41",
-      "title": "エアコン買い替え 急ぐ動き強まる",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582460?source=rss",
-      "publishedAt": "2026-05-31T12:41:37.000Z",
-      "xQuery": "エアコン買い替え 急ぐ動き強まる"
-    },
-    {
-      "time": "18:26",
-      "title": "ビッグイベント多発 都内は大混雑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582445?source=rss",
-      "publishedAt": "2026-05-31T09:26:41.000Z",
-      "xQuery": "ビッグイベント多発 都内は大混雑"
     }
   ]
 };
