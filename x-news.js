@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-31T21:27:29.206Z",
+  "updatedAt": "2026-05-31T21:53:54.502Z",
   "items": [
     {
-      "time": "22:53",
-      "title": "台風 警戒レベル4までに避難を",
+      "time": "06:44",
+      "title": "台風6号 夜に沖縄本島に最接近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582473?source=rss",
-      "publishedAt": "2026-05-31T13:53:57.000Z",
-      "xQuery": "台風 警戒レベル4までに避難を"
+      "url": "https://news.yahoo.co.jp/pickup/6582485?source=rss",
+      "publishedAt": "2026-05-31T21:44:38.000Z",
+      "xQuery": "台風6号 夜に沖縄本島に最接近"
     },
     {
       "time": "22:26",
