@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T12:02:02.453Z",
+  "updatedAt": "2026-05-31T13:01:03.760Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "09:30",
         "title": "【市況】 【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
-        "source": "株探(かぶたん)",
+        "source": "かぶたん",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HVHp2ZDZ3enQ5Y1IzcG5iWDFOdk1hWnVScG1WMmg3RTlVRVFUeFBDRzA5OE5jbW9SN1BqZWpVTU52MVBLcnNobTZQMV9UWnd2N25jcTFMMU1FcVUwQV9zcA?oc=5",
         "publishedAt": "2026-05-31T00:30:00.000Z"
       },
@@ -26,7 +26,7 @@
       {
         "time": "09:30",
         "title": "【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
-        "source": "株探(かぶたん)",
+        "source": "株探（かぶたん）",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pSHItUG0zRTlRb0ExZmcxTlctRFJWai1hOFRUMnB1ajFRc2tqdjNBSWtHc1JVNWl0TGVkQ2swemRsUVR5U05hRXExM2VTeWVBMFE?oc=5",
         "publishedAt": "2026-05-31T00:30:00.000Z"
       },
@@ -52,11 +52,11 @@
         "publishedAt": "2026-05-31T07:53:10.000Z"
       },
       {
-        "time": "22:27",
-        "title": "パジェロ復活 要望「非常に強く」",
+        "time": "21:41",
+        "title": "エアコン買い替え 急ぐ動き強まる",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582348?source=rss",
-        "publishedAt": "2026-05-30T13:27:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582460?source=rss",
+        "publishedAt": "2026-05-31T12:41:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,11 +119,18 @@
         "publishedAt": "2026-05-31T07:53:10.000Z"
       },
       {
-        "time": "22:27",
-        "title": "パジェロ復活 要望「非常に強く」",
+        "time": "21:41",
+        "title": "エアコン買い替え 急ぐ動き強まる",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582348?source=rss",
-        "publishedAt": "2026-05-30T13:27:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582460?source=rss",
+        "publishedAt": "2026-05-31T12:41:37.000Z"
+      },
+      {
+        "time": "21:09",
+        "title": "瀕死の工場 妻に作った器具ヒット",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582458?source=rss",
+        "publishedAt": "2026-05-31T12:09:26.000Z"
       },
       {
         "time": "14:32",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582421?source=rss",
         "publishedAt": "2026-05-31T06:07:52.000Z"
-      },
-      {
-        "time": "08:00",
-        "title": "大学の0円朝食 どんなメニュー",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582364?source=rss",
-        "publishedAt": "2026-05-30T23:00:05.000Z"
       }
     ],
     "localHeadlines": [

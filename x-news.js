@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-31T12:02:03.117Z",
+  "updatedAt": "2026-05-31T13:01:04.574Z",
   "items": [
     {
       "time": "20:24",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 沖縄は猛烈な風に厳重警戒"
     },
     {
-      "time": "17:40",
-      "title": "比の国防相 日本の武器輸出期待",
+      "time": "20:58",
+      "title": "新潟県知事選 花角氏が3選確実",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582437?source=rss",
-      "publishedAt": "2026-05-31T08:40:08.000Z",
-      "xQuery": "比の国防相 日本の武器輸出期待"
+      "url": "https://news.yahoo.co.jp/pickup/6582457?source=rss",
+      "publishedAt": "2026-05-31T11:58:36.000Z",
+      "xQuery": "新潟県知事選 花角氏が3選確実"
     },
     {
-      "time": "19:13",
-      "title": "米の日本製紙子会社事故 死者11人",
+      "time": "21:40",
+      "title": "ナフサ100%水準戻る見通し 経産相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582448?source=rss",
-      "publishedAt": "2026-05-31T10:13:42.000Z",
-      "xQuery": "米の日本製紙子会社事故 死者11人"
+      "url": "https://news.yahoo.co.jp/pickup/6582462?source=rss",
+      "publishedAt": "2026-05-31T12:40:48.000Z",
+      "xQuery": "ナフサ100%水準戻る見通し 経産相"
     },
     {
       "time": "20:38",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "バイク無免許で車と衝突 15歳死亡"
     },
     {
-      "time": "18:26",
-      "title": "ビッグイベント多発 都内は大混雑",
+      "time": "21:41",
+      "title": "エアコン買い替え 急ぐ動き強まる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582445?source=rss",
-      "publishedAt": "2026-05-31T09:26:41.000Z",
-      "xQuery": "ビッグイベント多発 都内は大混雑"
+      "url": "https://news.yahoo.co.jp/pickup/6582460?source=rss",
+      "publishedAt": "2026-05-31T12:41:37.000Z",
+      "xQuery": "エアコン買い替え 急ぐ動き強まる"
     }
   ]
 };
