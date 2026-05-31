@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T01:19:43.491Z",
+  "updatedAt": "2026-05-31T02:25:57.510Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-05-31T00:30:00.000Z"
       },
       {
-        "time": "05:15",
-        "title": "片山さつき大臣が\"買収中止\"に動くわけだ…中国企業にはマネできない「日本の工作機械」の知られざる価値",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGdTczR6a0dST0ZDNEhfWjJBTkM3bjdnUTd2YlVmS3FPYk8wTkVIaDJkMGFzNnJoTzBXOUotckd1b2NyNWlWd0F5RVVsaERhMnlqbkcxa3k0aUx4b1duSG5WaTFuanozRGt4Nmpxa1dBQkl1MkJoRUJwVEltbkpBNDFfVVNmVnc?oc=5",
-        "publishedAt": "2026-05-30T20:15:35.000Z"
+        "time": "10:40",
+        "title": "生成AIの次は工場へ ものづくり白書が描く“フィジカルAI国家”",
+        "source": "エコノミックニュース",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxYnA0d0FacHdGRjM1cVo5X2V2NEctMmtUR19KT1pvZVBoeTJsZGNoWDU2X1Nrb2pJYmVvWjFldUFVUQ?oc=5",
+        "publishedAt": "2026-05-31T01:40:00.000Z"
       },
       {
         "time": "10:16",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "10:25",
+        "title": "中道大敗 かつての民主王国は今",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582383?source=rss",
+        "publishedAt": "2026-05-31T01:25:05.000Z"
+      },
+      {
         "time": "07:41",
         "title": "2人死亡 直前にバス運転85歳異変",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582380?source=rss",
         "publishedAt": "2026-05-31T00:58:34.000Z"
-      },
-      {
-        "time": "19:37",
-        "title": "中学校で詐欺被害 1000万円超か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582329?source=rss",
-        "publishedAt": "2026-05-30T10:37:17.000Z"
       }
     ],
     "subsidyHeadlines": [

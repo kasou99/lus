@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-31T01:19:44.295Z",
+  "updatedAt": "2026-05-31T02:25:58.042Z",
   "items": [
     {
-      "time": "07:59",
-      "title": "米とイラン 海峡巡り神経戦続く",
+      "time": "10:47",
+      "title": "補正予算案審議巡り 与野党攻防へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582365?source=rss",
-      "publishedAt": "2026-05-30T22:59:14.000Z",
-      "xQuery": "米とイラン 海峡巡り神経戦続く"
-    },
-    {
-      "time": "08:43",
-      "title": "小中の統廃合検討を加速へ 文科省",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582372?source=rss",
-      "publishedAt": "2026-05-30T23:43:40.000Z",
-      "xQuery": "小中の統廃合検討を加速へ 文科省"
+      "url": "https://news.yahoo.co.jp/pickup/6582387?source=rss",
+      "publishedAt": "2026-05-31T01:47:50.000Z",
+      "xQuery": "補正予算案審議巡り 与野党攻防へ"
     },
     {
       "time": "08:58",
@@ -26,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "建国公演辞退相次ぐ 米大統領怒り"
     },
     {
+      "time": "10:25",
+      "title": "中道大敗 かつての民主王国は今",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582383?source=rss",
+      "publishedAt": "2026-05-31T01:25:05.000Z",
+      "xQuery": "中道大敗 かつての民主王国は今"
+    },
+    {
       "time": "09:58",
       "title": "無許可でモスク建設 市が是正指導",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "無許可でモスク建設 市が是正指導"
     },
     {
-      "time": "09:09",
-      "title": "男性が重体 酒気帯び疑いで男逮捕",
+      "time": "10:16",
+      "title": "NISA利用 地域や年収でばらつき",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582374?source=rss",
-      "publishedAt": "2026-05-31T00:09:39.000Z",
-      "xQuery": "男性が重体 酒気帯び疑いで男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6582382?source=rss",
+      "publishedAt": "2026-05-31T01:16:06.000Z",
+      "xQuery": "NISA利用 地域や年収でばらつき"
     }
   ]
 };
