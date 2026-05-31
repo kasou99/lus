@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-31T13:01:04.574Z",
+  "updatedAt": "2026-05-31T14:11:39.900Z",
   "items": [
     {
-      "time": "20:24",
-      "title": "台風 沖縄は猛烈な風に厳重警戒",
+      "time": "22:53",
+      "title": "台風 警戒レベル4までに避難を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582454?source=rss",
-      "publishedAt": "2026-05-31T11:24:08.000Z",
-      "xQuery": "台風 沖縄は猛烈な風に厳重警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6582473?source=rss",
+      "publishedAt": "2026-05-31T13:53:57.000Z",
+      "xQuery": "台風 警戒レベル4までに避難を"
     },
     {
-      "time": "20:58",
-      "title": "新潟県知事選 花角氏が3選確実",
+      "time": "22:26",
+      "title": "アジア安保会議 日中の溝浮き彫り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582457?source=rss",
-      "publishedAt": "2026-05-31T11:58:36.000Z",
-      "xQuery": "新潟県知事選 花角氏が3選確実"
+      "url": "https://news.yahoo.co.jp/pickup/6582467?source=rss",
+      "publishedAt": "2026-05-31T13:26:54.000Z",
+      "xQuery": "アジア安保会議 日中の溝浮き彫り"
     },
     {
       "time": "21:40",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ナフサ100%水準戻る見通し 経産相"
     },
     {
-      "time": "20:38",
-      "title": "バイク無免許で車と衝突 15歳死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582455?source=rss",
-      "publishedAt": "2026-05-31T11:38:41.000Z",
-      "xQuery": "バイク無免許で車と衝突 15歳死亡"
-    },
-    {
       "time": "21:41",
       "title": "エアコン買い替え 急ぐ動き強まる",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6582460?source=rss",
       "publishedAt": "2026-05-31T12:41:37.000Z",
       "xQuery": "エアコン買い替え 急ぐ動き強まる"
+    },
+    {
+      "time": "18:26",
+      "title": "ビッグイベント多発 都内は大混雑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582445?source=rss",
+      "publishedAt": "2026-05-31T09:26:41.000Z",
+      "xQuery": "ビッグイベント多発 都内は大混雑"
     }
   ]
 };

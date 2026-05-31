@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T13:01:03.760Z",
+  "updatedAt": "2026-05-31T14:11:38.790Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "09:30",
         "title": "【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
-        "source": "株探（かぶたん）",
+        "source": "かぶたん",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pSHItUG0zRTlRb0ExZmcxTlctRFJWai1hOFRUMnB1ajFRc2tqdjNBSWtHc1JVNWl0TGVkQ2swemRsUVR5U05hRXExM2VTeWVBMFE?oc=5",
         "publishedAt": "2026-05-31T00:30:00.000Z"
       },
@@ -52,11 +52,11 @@
         "publishedAt": "2026-05-31T07:53:10.000Z"
       },
       {
-        "time": "21:41",
-        "title": "エアコン買い替え 急ぐ動き強まる",
+        "time": "23:03",
+        "title": "タイヤ不具合 海外では墜落事故も",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582460?source=rss",
-        "publishedAt": "2026-05-31T12:41:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582474?source=rss",
+        "publishedAt": "2026-05-31T14:03:55.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-05-31T08:01:32.000Z"
       },
       {
+        "time": "22:26",
+        "title": "アジア安保会議 日中の溝浮き彫り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582467?source=rss",
+        "publishedAt": "2026-05-31T13:26:54.000Z"
+      },
+      {
         "time": "11:42",
         "title": "米大統領 建国コンサート中止要求",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582448?source=rss",
         "publishedAt": "2026-05-31T10:13:42.000Z"
-      },
-      {
-        "time": "17:40",
-        "title": "比の国防相 日本の武器輸出期待",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582437?source=rss",
-        "publishedAt": "2026-05-31T08:40:08.000Z"
       }
     ],
     "economyHeadlines": [
@@ -117,6 +117,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582433?source=rss",
         "publishedAt": "2026-05-31T07:53:10.000Z"
+      },
+      {
+        "time": "23:03",
+        "title": "タイヤ不具合 海外では墜落事故も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582474?source=rss",
+        "publishedAt": "2026-05-31T14:03:55.000Z"
       },
       {
         "time": "21:41",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582415?source=rss",
         "publishedAt": "2026-05-31T05:32:24.000Z"
-      },
-      {
-        "time": "15:07",
-        "title": "スーツで街歩く「背広散歩」狙い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582421?source=rss",
-        "publishedAt": "2026-05-31T06:07:52.000Z"
       }
     ],
     "localHeadlines": [
