@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-31T15:55:32.020Z",
+  "updatedAt": "2026-05-31T16:34:48.936Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "09:30",
         "title": "【市況】 【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
-        "source": "株探（かぶたん）",
+        "source": "かぶたん",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HVHp2ZDZ3enQ5Y1IzcG5iWDFOdk1hWnVScG1WMmg3RTlVRVFUeFBDRzA5OE5jbW9SN1BqZWpVTU52MVBLcnNobTZQMV9UWnd2N25jcTFMMU1FcVUwQV9zcA?oc=5",
         "publishedAt": "2026-05-31T00:30:00.000Z"
       },
@@ -15,6 +15,13 @@
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3RpS0FveTFqb0hHVmxmYTFnWVluT05PcUJpd3M5RFgyd1k3UjR4UDQ5UzhkZ3o3aWtzVy1NSWZ1RGRtdm5BNndIa2lzX2xOQTZKcXZjNnpyRk1iWUJkUWpCY2FFS3YxU0xhWXNlVG1uaTRlVC1HTHp4ckJ4ZmVlMGlGMTIwRjJNVmpWWVQ2eFpzVFg3OUpXX09EUQ?oc=5",
         "publishedAt": "2026-05-31T00:30:00.000Z"
+      },
+      {
+        "time": "22:07",
+        "title": "「なんて優しいパパなの！」まん丸な赤ちゃん犬と全力で遊ぶ幸せなひととき…柴犬親子の深い絆に感動の声",
+        "source": "lasisa.net",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9UV1VuTlFLVW0wOW5vVGZTbGNOa0tHNUNxSUE0aUx4eWRHVDhzWW44TnRhLWgxTFQtSjV1SmFTMVVfQnJaZnc?oc=5",
+        "publishedAt": "2026-05-31T13:07:28.000Z"
       },
       {
         "time": "09:30",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582474?source=rss",
         "publishedAt": "2026-05-31T14:03:55.000Z"
-      },
-      {
-        "time": "21:41",
-        "title": "エアコン買い替え 急ぐ動き強まる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582460?source=rss",
-        "publishedAt": "2026-05-31T12:41:37.000Z"
       }
     ],
     "worldHeadlines": [
