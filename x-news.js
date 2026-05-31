@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-31T11:09:32.059Z",
+  "updatedAt": "2026-05-31T12:02:03.117Z",
   "items": [
+    {
+      "time": "20:24",
+      "title": "台風 沖縄は猛烈な風に厳重警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582454?source=rss",
+      "publishedAt": "2026-05-31T11:24:08.000Z",
+      "xQuery": "台風 沖縄は猛烈な風に厳重警戒"
+    },
     {
       "time": "17:40",
       "title": "比の国防相 日本の武器輸出期待",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米の日本製紙子会社事故 死者11人"
     },
     {
-      "time": "18:58",
-      "title": "東北道で貨物車が大破 男性死亡",
+      "time": "20:38",
+      "title": "バイク無免許で車と衝突 15歳死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582446?source=rss",
-      "publishedAt": "2026-05-31T09:58:57.000Z",
-      "xQuery": "東北道で貨物車が大破 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6582455?source=rss",
+      "publishedAt": "2026-05-31T11:38:41.000Z",
+      "xQuery": "バイク無免許で車と衝突 15歳死亡"
     },
     {
       "time": "18:26",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582445?source=rss",
       "publishedAt": "2026-05-31T09:26:41.000Z",
       "xQuery": "ビッグイベント多発 都内は大混雑"
-    },
-    {
-      "time": "19:57",
-      "title": "嵐ありがとう 企業から投稿相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582452?source=rss",
-      "publishedAt": "2026-05-31T10:57:59.000Z",
-      "xQuery": "嵐ありがとう 企業から投稿相次ぐ"
     }
   ]
 };

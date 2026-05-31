@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T11:09:31.155Z",
+  "updatedAt": "2026-05-31T12:02:02.453Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "09:30",
         "title": "【市況】 【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
-        "source": "かぶたん",
+        "source": "株探(かぶたん)",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HVHp2ZDZ3enQ5Y1IzcG5iWDFOdk1hWnVScG1WMmg3RTlVRVFUeFBDRzA5OE5jbW9SN1BqZWpVTU52MVBLcnNobTZQMV9UWnd2N25jcTFMMU1FcVUwQV9zcA?oc=5",
         "publishedAt": "2026-05-31T00:30:00.000Z"
       },
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "20:58",
+        "title": "新潟県知事選 花角氏が3選確実",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582457?source=rss",
+        "publishedAt": "2026-05-31T11:58:36.000Z"
+      },
+      {
         "time": "10:25",
         "title": "中道大敗 かつての民主王国は今",
         "source": "Yahoo!ニュース",
@@ -156,11 +163,11 @@
         "publishedAt": "2026-05-31T01:25:05.000Z"
       },
       {
-        "time": "12:35",
-        "title": "バスひき逃げ死亡 被害者父は悲痛",
+        "time": "20:38",
+        "title": "バイク無免許で車と衝突 15歳死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582401?source=rss",
-        "publishedAt": "2026-05-31T03:35:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582455?source=rss",
+        "publishedAt": "2026-05-31T11:38:41.000Z"
       },
       {
         "time": "17:39",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582442?source=rss",
         "publishedAt": "2026-05-31T09:03:46.000Z"
-      },
-      {
-        "time": "09:58",
-        "title": "無許可でモスク建設 市が是正指導",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582380?source=rss",
-        "publishedAt": "2026-05-31T00:58:34.000Z"
       }
     ],
     "subsidyHeadlines": [
