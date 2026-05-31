@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-31T10:18:45.877Z",
+  "updatedAt": "2026-05-31T11:09:32.059Z",
   "items": [
     {
       "time": "17:40",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "比の国防相 日本の武器輸出期待"
     },
     {
-      "time": "17:01",
-      "title": "米大統領 和平提案の修正要求か",
+      "time": "19:13",
+      "title": "米の日本製紙子会社事故 死者11人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582436?source=rss",
-      "publishedAt": "2026-05-31T08:01:32.000Z",
-      "xQuery": "米大統領 和平提案の修正要求か"
+      "url": "https://news.yahoo.co.jp/pickup/6582448?source=rss",
+      "publishedAt": "2026-05-31T10:13:42.000Z",
+      "xQuery": "米の日本製紙子会社事故 死者11人"
     },
     {
       "time": "18:58",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "東北道で貨物車が大破 男性死亡"
     },
     {
-      "time": "13:51",
-      "title": "×印見つからず 不快広告なぜ乱発",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582411?source=rss",
-      "publishedAt": "2026-05-31T04:51:52.000Z",
-      "xQuery": "×印見つからず 不快広告なぜ乱発"
-    },
-    {
       "time": "18:26",
       "title": "ビッグイベント多発 都内は大混雑",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6582445?source=rss",
       "publishedAt": "2026-05-31T09:26:41.000Z",
       "xQuery": "ビッグイベント多発 都内は大混雑"
+    },
+    {
+      "time": "19:57",
+      "title": "嵐ありがとう 企業から投稿相次ぐ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582452?source=rss",
+      "publishedAt": "2026-05-31T10:57:59.000Z",
+      "xQuery": "嵐ありがとう 企業から投稿相次ぐ"
     }
   ]
 };
