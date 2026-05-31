@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-31T22:54:52.623Z",
+  "updatedAt": "2026-05-31T23:30:15.475Z",
   "items": [
     {
       "time": "06:44",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風6号 夜に沖縄本島に最接近"
     },
     {
-      "time": "06:55",
-      "title": "ミャンマーで爆発 50人死亡と報道",
+      "time": "07:45",
+      "title": "富士山閉山期に年1万人登山 推計",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582486?source=rss",
-      "publishedAt": "2026-05-31T21:55:49.000Z",
-      "xQuery": "ミャンマーで爆発 50人死亡と報道"
+      "url": "https://news.yahoo.co.jp/pickup/6582491?source=rss",
+      "publishedAt": "2026-05-31T22:45:05.000Z",
+      "xQuery": "富士山閉山期に年1万人登山 推計"
     },
     {
-      "time": "21:40",
-      "title": "ナフサ100%水準戻る見通し 経産相",
+      "time": "07:40",
+      "title": "ホンダ系下請法違反 公取委勧告へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582462?source=rss",
-      "publishedAt": "2026-05-31T12:40:48.000Z",
-      "xQuery": "ナフサ100%水準戻る見通し 経産相"
+      "url": "https://news.yahoo.co.jp/pickup/6582490?source=rss",
+      "publishedAt": "2026-05-31T22:40:00.000Z",
+      "xQuery": "ホンダ系下請法違反 公取委勧告へ"
     },
     {
       "time": "07:35",

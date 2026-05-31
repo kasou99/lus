@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T22:54:51.685Z",
+  "updatedAt": "2026-05-31T23:30:14.643Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-05-31T00:30:00.000Z"
       },
       {
-        "time": "05:47",
-        "title": "経営ひと言／岡田電機工業・岡田英城社長「地域の足守る」",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOeFZON3JTSzdzRS1RaEJhczRqNjZxVUxoRkNKM280VGNJemdtYXVXbk96eEdOSHZ0WWl5cHlMbFhFX0VKYlgzQzBWWXJtUUp1S1F1cmVsWE90Szg?oc=5",
-        "publishedAt": "2026-05-31T20:47:58.000Z"
+        "time": "08:17",
+        "title": "《元手240万円→資産4億円超》ママ投資家・ちょる子さんが解説 「K字型相場」で日経平均6万円はまだまだ通過点！ 株価上昇が期待できる夏以降の一大イベントを解説",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTkZQVldCS0N4bWdRS3Q0UUt5SDlySVQ5UGduMEwtUXNxOEFLRU5TMjJrTXM1a2JwMm5mOU52YUI3d0dqUi1OMnZuNjVHeWM4NjJPbS1UUUxFeUprZWEtYVRnaEFGUWVWN2tnUzdXUmdtSkNsekhsLTNzNGZlWUFuU05Ka0ExYUxPOUR4VUctTWdxY1ZfYUxhc2hGcEt3Mms3N0QxaFpZVVFVckdaWndiWkZfNjJVV1JsOF9UNDhNNmpQWjVSLXE2c01pclN6UkxxNkHSAYIBQVVfeXFMTkFuQXJUV0Z3ek9wTlFzZzZMS3VJa1g2ZnpUSG80UlNja1hyeHFRX1NWSzVwckM5X2xRZGVGQXI4cnlLaldIRklfMFMtXzE3bGJYTmZvX3d4bEcxOHlGQTRTSThrN2pvanozSEJOTEJhaW1XTGYtd1VvR2hBZWNtRnk2Zw?oc=5",
+        "publishedAt": "2026-05-31T23:17:51.000Z"
       },
       {
         "time": "09:30",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-05-31T00:30:00.000Z"
       },
       {
+        "time": "05:47",
+        "title": "経営ひと言／岡田電機工業・岡田英城社長「地域の足守る」",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOeFZON3JTSzdzRS1RaEJhczRqNjZxVUxoRkNKM280VGNJemdtYXVXbk96eEdOSHZ0WWl5cHlMbFhFX0VKYlgzQzBWWXJtUUp1S1F1cmVsWE90Szg?oc=5",
+        "publishedAt": "2026-05-31T20:47:58.000Z"
+      },
+      {
         "time": "05:19",
         "title": "GPS不要で空間3D化 データ・デザインが高速スキャナー",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uSGlrbjFOZTlvNGpCd2s1WWFpVVYxSTR0NnpwdFdJMnNhS2FualUxWDNuSDVTeGNWWnQ1TzlsanAyOE1HR0plRlpuNjg4aFVBZjhBdHhtbE1QQkxKMmtVbVJqTjhQbmxnV2U2MXd3VXN4VnZQYmw4Y05lMA?oc=5",
         "publishedAt": "2026-05-31T20:19:27.000Z"
-      },
-      {
-        "time": "09:30",
-        "title": "【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
-        "source": "かぶたん",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pSHItUG0zRTlRb0ExZmcxTlctRFJWai1hOFRUMnB1ajFRc2tqdjNBSWtHc1JVNWl0TGVkQ2swemRsUVR5U05hRXExM2VTeWVBMFE?oc=5",
-        "publishedAt": "2026-05-31T00:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:19",
+        "title": "台風接近 沖縄県庁が本島業務停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582496?source=rss",
+        "publishedAt": "2026-05-31T23:19:05.000Z"
+      },
+      {
         "time": "23:24",
         "title": "新潟県知事選 花角英世氏が3選",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582446?source=rss",
         "publishedAt": "2026-05-31T09:58:57.000Z"
-      },
-      {
-        "time": "18:03",
-        "title": "同乗者が事故死 酒気帯び疑い逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582442?source=rss",
-        "publishedAt": "2026-05-31T09:03:46.000Z"
       }
     ],
     "subsidyHeadlines": [
