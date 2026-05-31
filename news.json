@@ -1,12 +1,26 @@
 {
-  "updatedAt": "2026-05-31T03:50:40.914Z",
+  "updatedAt": "2026-05-31T05:39:35.908Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "09:30",
-        "title": "【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
+        "title": "【市況】 【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
         "source": "株探（かぶたん）",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HVHp2ZDZ3enQ5Y1IzcG5iWDFOdk1hWnVScG1WMmg3RTlVRVFUeFBDRzA5OE5jbW9SN1BqZWpVTU52MVBLcnNobTZQMV9UWnd2N25jcTFMMU1FcVUwQV9zcA?oc=5",
+        "publishedAt": "2026-05-31T00:30:00.000Z"
+      },
+      {
+        "time": "09:30",
+        "title": "【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！(株探ニュース)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3RpS0FveTFqb0hHVmxmYTFnWVluT05PcUJpd3M5RFgyd1k3UjR4UDQ5UzhkZ3o3aWtzVy1NSWZ1RGRtdm5BNndIa2lzX2xOQTZKcXZjNnpyRk1iWUJkUWpCY2FFS3YxU0xhWXNlVG1uaTRlVC1HTHp4ckJ4ZmVlMGlGMTIwRjJNVmpWWVQ2eFpzVFg3OUpXX09EUQ?oc=5",
+        "publishedAt": "2026-05-31T00:30:00.000Z"
+      },
+      {
+        "time": "09:30",
+        "title": "【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
+        "source": "株探（かぶたん）",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pSHItUG0zRTlRb0ExZmcxTlctRFJWai1hOFRUMnB1ajFRc2tqdjNBSWtHc1JVNWl0TGVkQ2swemRsUVR5U05hRXExM2VTeWVBMFE?oc=5",
         "publishedAt": "2026-05-31T00:30:00.000Z"
       },
       {
@@ -31,13 +45,6 @@
         "publishedAt": "2026-05-30T09:09:34.000Z"
       },
       {
-        "time": "13:23",
-        "title": "マンジャロ販売巡り 都の警告話題",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582287?source=rss",
-        "publishedAt": "2026-05-30T04:23:29.000Z"
-      },
-      {
         "time": "22:27",
         "title": "パジェロ復活 要望「非常に強く」",
         "source": "Yahoo!ニュース",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582318?source=rss",
         "publishedAt": "2026-05-30T08:49:02.000Z"
-      },
-      {
-        "time": "08:00",
-        "title": "大学の0円朝食 どんなメニュー",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582364?source=rss",
-        "publishedAt": "2026-05-30T23:00:05.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-05-30T09:09:34.000Z"
       },
       {
-        "time": "13:23",
-        "title": "マンジャロ販売巡り 都の警告話題",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582287?source=rss",
-        "publishedAt": "2026-05-30T04:23:29.000Z"
-      },
-      {
         "time": "22:27",
         "title": "パジェロ復活 要望「非常に強く」",
         "source": "Yahoo!ニュース",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582318?source=rss",
         "publishedAt": "2026-05-30T08:49:02.000Z"
+      },
+      {
+        "time": "14:32",
+        "title": "ヴィレヴァン本店閉店 ファンが列",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582415?source=rss",
+        "publishedAt": "2026-05-31T05:32:24.000Z"
       },
       {
         "time": "08:00",
@@ -170,18 +170,18 @@
         "publishedAt": "2026-05-30T12:15:28.000Z"
       },
       {
+        "time": "13:32",
+        "title": "東北道事故で貨物車大破 男性重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582406?source=rss",
+        "publishedAt": "2026-05-31T04:32:17.000Z"
+      },
+      {
         "time": "09:09",
         "title": "男性が重体 酒気帯び疑いで男逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582374?source=rss",
         "publishedAt": "2026-05-31T00:09:39.000Z"
-      },
-      {
-        "time": "20:04",
-        "title": "93歳運転する車がはねる 男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582330?source=rss",
-        "publishedAt": "2026-05-30T11:04:09.000Z"
       },
       {
         "time": "09:58",

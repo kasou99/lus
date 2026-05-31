@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-31T03:50:41.901Z",
+  "updatedAt": "2026-05-31T05:39:37.077Z",
   "items": [
     {
-      "time": "11:49",
-      "title": "米軍 イランに向かう船を攻撃",
+      "time": "13:47",
+      "title": "「新型軍国主義」は虚偽 防衛相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582395?source=rss",
-      "publishedAt": "2026-05-31T02:49:07.000Z",
-      "xQuery": "米軍 イランに向かう船を攻撃"
-    },
-    {
-      "time": "11:42",
-      "title": "米大統領 建国コンサート中止要求",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582394?source=rss",
-      "publishedAt": "2026-05-31T02:42:08.000Z",
-      "xQuery": "米大統領 建国コンサート中止要求"
+      "url": "https://news.yahoo.co.jp/pickup/6582410?source=rss",
+      "publishedAt": "2026-05-31T04:47:35.000Z",
+      "xQuery": "「新型軍国主義」は虚偽 防衛相"
     },
     {
       "time": "12:35",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "バスひき逃げ死亡 被害者父は悲痛"
     },
     {
-      "time": "11:51",
-      "title": "オーラルたばこ 医療関係者は警鐘",
+      "time": "13:51",
+      "title": "×印見つからず 不快広告なぜ乱発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582397?source=rss",
-      "publishedAt": "2026-05-31T02:51:33.000Z",
-      "xQuery": "オーラルたばこ 医療関係者は警鐘"
+      "url": "https://news.yahoo.co.jp/pickup/6582411?source=rss",
+      "publishedAt": "2026-05-31T04:51:52.000Z",
+      "xQuery": "×印見つからず 不快広告なぜ乱発"
     },
     {
-      "time": "11:12",
-      "title": "「仮面夫婦」なぜ関係続けるのか",
+      "time": "13:03",
+      "title": "「関東一涼しい街」移住に期待",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582392?source=rss",
-      "publishedAt": "2026-05-31T02:12:44.000Z",
-      "xQuery": "「仮面夫婦」なぜ関係続けるのか"
+      "url": "https://news.yahoo.co.jp/pickup/6582404?source=rss",
+      "publishedAt": "2026-05-31T04:03:51.000Z",
+      "xQuery": "「関東一涼しい街」移住に期待"
+    },
+    {
+      "time": "14:32",
+      "title": "ヴィレヴァン本店閉店 ファンが列",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582415?source=rss",
+      "publishedAt": "2026-05-31T05:32:24.000Z",
+      "xQuery": "ヴィレヴァン本店閉店 ファンが列"
     }
   ]
 };
