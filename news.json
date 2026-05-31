@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-05-31T07:30:45.237Z",
+  "updatedAt": "2026-05-31T09:12:00.902Z",
   "groups": {
     "machineHeadlines": [
       {
+        "time": "16:49",
+        "title": "片山さつき大臣が\"買収中止\"に動くわけだ…中国企業にはマネできない「日本の工作機械」の知られざる価値",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGdTczR6a0dST0ZDNEhfWjJBTkM3bjdnUTd2YlVmS3FPYk8wTkVIaDJkMGFzNnJoTzBXOUotckd1b2NyNWlWd0F5RVVsaERhMnlqbkcxa3k0aUx4b1duSG5WaTFuanozRGt4Nmpxa1dBQkl1MkJoRUJwVEltbkpBNDFfVVNmVnc?oc=5",
+        "publishedAt": "2026-05-31T07:49:37.000Z"
+      },
+      {
         "time": "09:30",
         "title": "【市況】 【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
-        "source": "株探（かぶたん）",
+        "source": "株探(かぶたん)",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HVHp2ZDZ3enQ5Y1IzcG5iWDFOdk1hWnVScG1WMmg3RTlVRVFUeFBDRzA5OE5jbW9SN1BqZWpVTU52MVBLcnNobTZQMV9UWnd2N25jcTFMMU1FcVUwQV9zcA?oc=5",
         "publishedAt": "2026-05-31T00:30:00.000Z"
       },
@@ -19,16 +26,16 @@
       {
         "time": "09:30",
         "title": "【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
-        "source": "株探(かぶたん)",
+        "source": "かぶたん",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pSHItUG0zRTlRb0ExZmcxTlctRFJWai1hOFRUMnB1ajFRc2tqdjNBSWtHc1JVNWl0TGVkQ2swemRsUVR5U05hRXExM2VTeWVBMFE?oc=5",
         "publishedAt": "2026-05-31T00:30:00.000Z"
       },
       {
-        "time": "10:40",
+        "time": "10:39",
         "title": "生成AIの次は工場へ ものづくり白書が描く“フィジカルAI国家”",
         "source": "エコノミックニュース",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBxYnA0d0FacHdGRjM1cVo5X2V2NEctMmtUR19KT1pvZVBoeTJsZGNoWDU2X1Nrb2pJYmVvWjFldUFVUQ?oc=5",
-        "publishedAt": "2026-05-31T01:40:00.000Z"
+        "publishedAt": "2026-05-31T01:39:00.000Z"
       },
       {
         "time": "10:16",
@@ -38,11 +45,11 @@
         "publishedAt": "2026-05-31T01:16:06.000Z"
       },
       {
-        "time": "18:09",
-        "title": "JAL機パンクの滑走路 破損判明",
+        "time": "16:53",
+        "title": "1号在留者受け入れ停止 外食悲鳴",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582321?source=rss",
-        "publishedAt": "2026-05-30T09:09:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582433?source=rss",
+        "publishedAt": "2026-05-31T07:53:10.000Z"
       },
       {
         "time": "22:27",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582348?source=rss",
         "publishedAt": "2026-05-30T13:27:37.000Z"
-      },
-      {
-        "time": "14:32",
-        "title": "ヴィレヴァン本店閉店 ファンが列",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582415?source=rss",
-        "publishedAt": "2026-05-31T05:32:24.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,6 +75,13 @@
         "publishedAt": "2026-05-31T02:49:07.000Z"
       },
       {
+        "time": "17:01",
+        "title": "米大統領 和平提案の修正要求か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582436?source=rss",
+        "publishedAt": "2026-05-31T08:01:32.000Z"
+      },
+      {
         "time": "11:42",
         "title": "米大統領 建国コンサート中止要求",
         "source": "Yahoo!ニュース",
@@ -82,11 +89,11 @@
         "publishedAt": "2026-05-31T02:42:08.000Z"
       },
       {
-        "time": "14:38",
-        "title": "米長官 同盟国に防衛費増額を要求",
+        "time": "17:40",
+        "title": "比の国防相 日本の武器輸出期待",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582297?source=rss",
-        "publishedAt": "2026-05-30T05:38:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582437?source=rss",
+        "publishedAt": "2026-05-31T08:40:08.000Z"
       },
       {
         "time": "07:42",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582361?source=rss",
         "publishedAt": "2026-05-30T22:42:32.000Z"
-      },
-      {
-        "time": "15:50",
-        "title": "仏でサポが暴徒化 400人以上拘束",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582425?source=rss",
-        "publishedAt": "2026-05-31T06:50:42.000Z"
       }
     ],
     "economyHeadlines": [
@@ -112,11 +112,11 @@
         "publishedAt": "2026-05-31T01:16:06.000Z"
       },
       {
-        "time": "18:09",
-        "title": "JAL機パンクの滑走路 破損判明",
+        "time": "16:53",
+        "title": "1号在留者受け入れ停止 外食悲鳴",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582321?source=rss",
-        "publishedAt": "2026-05-30T09:09:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582433?source=rss",
+        "publishedAt": "2026-05-31T07:53:10.000Z"
       },
       {
         "time": "22:27",
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "12:35",
-        "title": "バスひき逃げ死亡 被害者父は悲痛",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582401?source=rss",
-        "publishedAt": "2026-05-31T03:35:26.000Z"
-      },
-      {
         "time": "10:25",
         "title": "中道大敗 かつての民主王国は今",
         "source": "Yahoo!ニュース",
@@ -163,11 +156,18 @@
         "publishedAt": "2026-05-31T01:25:05.000Z"
       },
       {
-        "time": "21:15",
-        "title": "小6の息子殺害疑い 66歳の男逮捕",
+        "time": "12:35",
+        "title": "バスひき逃げ死亡 被害者父は悲痛",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582338?source=rss",
-        "publishedAt": "2026-05-30T12:15:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582401?source=rss",
+        "publishedAt": "2026-05-31T03:35:26.000Z"
+      },
+      {
+        "time": "17:39",
+        "title": "海で10代の男の子が溺れたか 重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582441?source=rss",
+        "publishedAt": "2026-05-31T08:39:43.000Z"
       },
       {
         "time": "13:32",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-05-31T04:32:17.000Z"
       },
       {
-        "time": "09:09",
-        "title": "男性が重体 酒気帯び疑いで男逮捕",
+        "time": "18:03",
+        "title": "同乗者が事故死 酒気帯び疑い逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582374?source=rss",
-        "publishedAt": "2026-05-31T00:09:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582442?source=rss",
+        "publishedAt": "2026-05-31T09:03:46.000Z"
       },
       {
         "time": "09:58",

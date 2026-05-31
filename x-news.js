@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-31T07:30:46.263Z",
+  "updatedAt": "2026-05-31T09:12:01.821Z",
   "items": [
     {
-      "time": "15:49",
-      "title": "台風は1日沖縄に最接近 厳重警戒",
+      "time": "17:01",
+      "title": "米大統領 和平提案の修正要求か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582424?source=rss",
-      "publishedAt": "2026-05-31T06:49:08.000Z",
-      "xQuery": "台風は1日沖縄に最接近 厳重警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6582436?source=rss",
+      "publishedAt": "2026-05-31T08:01:32.000Z",
+      "xQuery": "米大統領 和平提案の修正要求か"
     },
     {
-      "time": "14:55",
-      "title": "米軍 東太平洋で麻薬密輸船を空爆",
+      "time": "16:53",
+      "title": "1号在留者受け入れ停止 外食悲鳴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582419?source=rss",
-      "publishedAt": "2026-05-31T05:55:09.000Z",
-      "xQuery": "米軍 東太平洋で麻薬密輸船を空爆"
+      "url": "https://news.yahoo.co.jp/pickup/6582433?source=rss",
+      "publishedAt": "2026-05-31T07:53:10.000Z",
+      "xQuery": "1号在留者受け入れ停止 外食悲鳴"
     },
     {
-      "time": "13:51",
-      "title": "×印見つからず 不快広告なぜ乱発",
+      "time": "18:03",
+      "title": "同乗者が事故死 酒気帯び疑い逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582411?source=rss",
-      "publishedAt": "2026-05-31T04:51:52.000Z",
-      "xQuery": "×印見つからず 不快広告なぜ乱発"
+      "url": "https://news.yahoo.co.jp/pickup/6582442?source=rss",
+      "publishedAt": "2026-05-31T09:03:46.000Z",
+      "xQuery": "同乗者が事故死 酒気帯び疑い逮捕"
     },
     {
-      "time": "15:07",
-      "title": "スーツで街歩く「背広散歩」狙い",
+      "time": "15:37",
+      "title": "なぜ 街路樹の「やりすぎせん定」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582421?source=rss",
-      "publishedAt": "2026-05-31T06:07:52.000Z",
-      "xQuery": "スーツで街歩く「背広散歩」狙い"
+      "url": "https://news.yahoo.co.jp/pickup/6582423?source=rss",
+      "publishedAt": "2026-05-31T06:37:09.000Z",
+      "xQuery": "なぜ 街路樹の「やりすぎせん定」"
     },
     {
       "time": "14:32",
