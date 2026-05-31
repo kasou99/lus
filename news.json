@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T22:28:00.117Z",
+  "updatedAt": "2026-05-31T22:54:51.685Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GTVVQa0dkcUtTYTJGV0FPSTBnWVV2ODhWZVZxWDVrdExWekkxQkJRRThGc2VzUTJZcEd5NjRHb3Y4dmZOMWpTWWFDM2RIQ1VTLWNITVMyaUpoX2lxVlJySHJnTEpJV2FBaE1xa0dycEhIVVRV?oc=5",
         "publishedAt": "2026-05-31T20:32:30.000Z"
+      },
+      {
+        "time": "07:27",
+        "title": "東洋技研、2ピースBOXターミナル「BOXTRシリーズ」にワークエリアタイプ2機種を追加",
+        "source": "オートメーション新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMzdUZUM0bnc1UDZ6ZEhqTkYzd01qRzNSb1J6RjNxYlFULVd3VV9MXzRyYzQwZjlJb1FIb2c1N2pUWmhXNnpHblZpd1haYVgtempXTUFSUjczUQ?oc=5",
+        "publishedAt": "2026-05-31T22:27:29.000Z"
       },
       {
         "time": "06:03",
@@ -24,13 +31,6 @@
         "publishedAt": "2026-05-31T00:30:00.000Z"
       },
       {
-        "time": "09:30",
-        "title": "【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！(株探ニュース)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3RpS0FveTFqb0hHVmxmYTFnWVluT05PcUJpd3M5RFgyd1k3UjR4UDQ5UzhkZ3o3aWtzVy1NSWZ1RGRtdm5BNndIa2lzX2xOQTZKcXZjNnpyRk1iWUJkUWpCY2FFS3YxU0xhWXNlVG1uaTRlVC1HTHp4ckJ4ZmVlMGlGMTIwRjJNVmpWWVQ2eFpzVFg3OUpXX09EUQ?oc=5",
-        "publishedAt": "2026-05-31T00:30:00.000Z"
-      },
-      {
         "time": "05:47",
         "title": "経営ひと言／岡田電機工業・岡田英城社長「地域の足守る」",
         "source": "日刊工業新聞",
@@ -39,9 +39,9 @@
       },
       {
         "time": "09:30",
-        "title": "【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
-        "source": "かぶたん",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pSHItUG0zRTlRb0ExZmcxTlctRFJWai1hOFRUMnB1ajFRc2tqdjNBSWtHc1JVNWl0TGVkQ2swemRsUVR5U05hRXExM2VTeWVBMFE?oc=5",
+        "title": "【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！(株探ニュース)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3RpS0FveTFqb0hHVmxmYTFnWVluT05PcUJpd3M5RFgyd1k3UjR4UDQ5UzhkZ3o3aWtzVy1NSWZ1RGRtdm5BNndIa2lzX2xOQTZKcXZjNnpyRk1iWUJkUWpCY2FFS3YxU0xhWXNlVG1uaTRlVC1HTHp4ckJ4ZmVlMGlGMTIwRjJNVmpWWVQ2eFpzVFg3OUpXX09EUQ?oc=5",
         "publishedAt": "2026-05-31T00:30:00.000Z"
       },
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-05-31T20:19:27.000Z"
       },
       {
-        "time": "05:19",
-        "title": "コニカミノルタ／中小オフィスDX A3カラー複合機",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jU1IxWkxfQ0tvazhvcXRDd3dld2xjZHdoYldlLUZZZ3Y2SlBtLXRYZ3hFZVZIblJNbkVRM3MxbHBqajg5Mmw3dFA0TlpwSmhBX3R5UXVLa1hVMlBRcGRDcW44Yy1sanVmeU5ac0VTcWVGU1VtbUtzQ2JfQQ?oc=5",
-        "publishedAt": "2026-05-31T20:19:27.000Z"
+        "time": "09:30",
+        "title": "【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
+        "source": "かぶたん",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pSHItUG0zRTlRb0ExZmcxTlctRFJWai1hOFRUMnB1ajFRc2tqdjNBSWtHc1JVNWl0TGVkQ2swemRsUVR5U05hRXExM2VTeWVBMFE?oc=5",
+        "publishedAt": "2026-05-31T00:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-05-31T14:03:55.000Z"
       },
       {
+        "time": "07:40",
+        "title": "ホンダ系下請法違反 公取委勧告へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582490?source=rss",
+        "publishedAt": "2026-05-31T22:40:00.000Z"
+      },
+      {
         "time": "07:24",
         "title": "売却想定 住信SBIが新住宅ローン",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582458?source=rss",
         "publishedAt": "2026-05-31T12:09:26.000Z"
-      },
-      {
-        "time": "14:32",
-        "title": "ヴィレヴァン本店閉店 ファンが列",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582415?source=rss",
-        "publishedAt": "2026-05-31T05:32:24.000Z"
       }
     ],
     "localHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-31T22:28:00.645Z",
+  "updatedAt": "2026-05-31T22:54:52.623Z",
   "items": [
     {
       "time": "06:44",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ミャンマーで爆発 50人死亡と報道"
     },
     {
-      "time": "23:03",
-      "title": "タイヤ不具合 海外では墜落事故も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582474?source=rss",
-      "publishedAt": "2026-05-31T14:03:55.000Z",
-      "xQuery": "タイヤ不具合 海外では墜落事故も"
-    },
-    {
       "time": "21:40",
       "title": "ナフサ100%水準戻る見通し 経産相",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6582462?source=rss",
       "publishedAt": "2026-05-31T12:40:48.000Z",
       "xQuery": "ナフサ100%水準戻る見通し 経産相"
+    },
+    {
+      "time": "07:35",
+      "title": "「主務教諭」新規配置は実質ゼロ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582489?source=rss",
+      "publishedAt": "2026-05-31T22:35:19.000Z",
+      "xQuery": "「主務教諭」新規配置は実質ゼロ"
     },
     {
       "time": "07:24",
