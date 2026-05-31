@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-05-31T02:25:57.510Z",
+  "updatedAt": "2026-05-31T03:50:40.914Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "09:30",
-        "title": "【市況】 【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
+        "title": "【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
         "source": "株探（かぶたん）",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HVHp2ZDZ3enQ5Y1IzcG5iWDFOdk1hWnVScG1WMmg3RTlVRVFUeFBDRzA5OE5jbW9SN1BqZWpVTU52MVBLcnNobTZQMV9UWnd2N25jcTFMMU1FcVUwQV9zcA?oc=5",
         "publishedAt": "2026-05-31T00:30:00.000Z"
@@ -61,13 +61,6 @@
     ],
     "worldHeadlines": [
       {
-        "time": "07:59",
-        "title": "米とイラン 海峡巡り神経戦続く",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582365?source=rss",
-        "publishedAt": "2026-05-30T22:59:14.000Z"
-      },
-      {
         "time": "12:47",
         "title": "米が戦闘終結判断を見送り 報道",
         "source": "Yahoo!ニュース",
@@ -75,18 +68,25 @@
         "publishedAt": "2026-05-30T03:47:46.000Z"
       },
       {
+        "time": "11:49",
+        "title": "米軍 イランに向かう船を攻撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582395?source=rss",
+        "publishedAt": "2026-05-31T02:49:07.000Z"
+      },
+      {
+        "time": "11:42",
+        "title": "米大統領 建国コンサート中止要求",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582394?source=rss",
+        "publishedAt": "2026-05-31T02:42:08.000Z"
+      },
+      {
         "time": "14:38",
         "title": "米長官 同盟国に防衛費増額を要求",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582297?source=rss",
         "publishedAt": "2026-05-30T05:38:10.000Z"
-      },
-      {
-        "time": "08:58",
-        "title": "建国公演辞退相次ぐ 米大統領怒り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582373?source=rss",
-        "publishedAt": "2026-05-30T23:58:38.000Z"
       },
       {
         "time": "13:52",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "12:35",
+        "title": "バスひき逃げ死亡 被害者父は悲痛",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582401?source=rss",
+        "publishedAt": "2026-05-31T03:35:26.000Z"
+      },
+      {
         "time": "10:25",
         "title": "中道大敗 かつての民主王国は今",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582383?source=rss",
         "publishedAt": "2026-05-31T01:25:05.000Z"
-      },
-      {
-        "time": "07:41",
-        "title": "2人死亡 直前にバス運転85歳異変",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582362?source=rss",
-        "publishedAt": "2026-05-30T22:41:34.000Z"
       },
       {
         "time": "21:15",

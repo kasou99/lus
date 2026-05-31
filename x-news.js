@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-31T02:25:58.042Z",
+  "updatedAt": "2026-05-31T03:50:41.901Z",
   "items": [
     {
-      "time": "10:47",
-      "title": "補正予算案審議巡り 与野党攻防へ",
+      "time": "11:49",
+      "title": "米軍 イランに向かう船を攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582387?source=rss",
-      "publishedAt": "2026-05-31T01:47:50.000Z",
-      "xQuery": "補正予算案審議巡り 与野党攻防へ"
+      "url": "https://news.yahoo.co.jp/pickup/6582395?source=rss",
+      "publishedAt": "2026-05-31T02:49:07.000Z",
+      "xQuery": "米軍 イランに向かう船を攻撃"
     },
     {
-      "time": "08:58",
-      "title": "建国公演辞退相次ぐ 米大統領怒り",
+      "time": "11:42",
+      "title": "米大統領 建国コンサート中止要求",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582373?source=rss",
-      "publishedAt": "2026-05-30T23:58:38.000Z",
-      "xQuery": "建国公演辞退相次ぐ 米大統領怒り"
+      "url": "https://news.yahoo.co.jp/pickup/6582394?source=rss",
+      "publishedAt": "2026-05-31T02:42:08.000Z",
+      "xQuery": "米大統領 建国コンサート中止要求"
     },
     {
-      "time": "10:25",
-      "title": "中道大敗 かつての民主王国は今",
+      "time": "12:35",
+      "title": "バスひき逃げ死亡 被害者父は悲痛",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582383?source=rss",
-      "publishedAt": "2026-05-31T01:25:05.000Z",
-      "xQuery": "中道大敗 かつての民主王国は今"
+      "url": "https://news.yahoo.co.jp/pickup/6582401?source=rss",
+      "publishedAt": "2026-05-31T03:35:26.000Z",
+      "xQuery": "バスひき逃げ死亡 被害者父は悲痛"
     },
     {
-      "time": "09:58",
-      "title": "無許可でモスク建設 市が是正指導",
+      "time": "11:51",
+      "title": "オーラルたばこ 医療関係者は警鐘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582380?source=rss",
-      "publishedAt": "2026-05-31T00:58:34.000Z",
-      "xQuery": "無許可でモスク建設 市が是正指導"
+      "url": "https://news.yahoo.co.jp/pickup/6582397?source=rss",
+      "publishedAt": "2026-05-31T02:51:33.000Z",
+      "xQuery": "オーラルたばこ 医療関係者は警鐘"
     },
     {
-      "time": "10:16",
-      "title": "NISA利用 地域や年収でばらつき",
+      "time": "11:12",
+      "title": "「仮面夫婦」なぜ関係続けるのか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582382?source=rss",
-      "publishedAt": "2026-05-31T01:16:06.000Z",
-      "xQuery": "NISA利用 地域や年収でばらつき"
+      "url": "https://news.yahoo.co.jp/pickup/6582392?source=rss",
+      "publishedAt": "2026-05-31T02:12:44.000Z",
+      "xQuery": "「仮面夫婦」なぜ関係続けるのか"
     }
   ]
 };
