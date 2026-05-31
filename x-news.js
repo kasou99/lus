@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-30T23:55:28.540Z",
+  "updatedAt": "2026-05-31T01:19:44.295Z",
   "items": [
     {
-      "time": "07:27",
-      "title": "台風 1日から強い勢力で沖縄接近",
+      "time": "07:59",
+      "title": "米とイラン 海峡巡り神経戦続く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582358?source=rss",
-      "publishedAt": "2026-05-30T22:27:05.000Z",
-      "xQuery": "台風 1日から強い勢力で沖縄接近"
+      "url": "https://news.yahoo.co.jp/pickup/6582365?source=rss",
+      "publishedAt": "2026-05-30T22:59:14.000Z",
+      "xQuery": "米とイラン 海峡巡り神経戦続く"
     },
     {
-      "time": "08:04",
-      "title": "初診・再診料など 6月〜引き上げ",
+      "time": "08:43",
+      "title": "小中の統廃合検討を加速へ 文科省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582366?source=rss",
-      "publishedAt": "2026-05-30T23:04:17.000Z",
-      "xQuery": "初診・再診料など 6月〜引き上げ"
+      "url": "https://news.yahoo.co.jp/pickup/6582372?source=rss",
+      "publishedAt": "2026-05-30T23:43:40.000Z",
+      "xQuery": "小中の統廃合検討を加速へ 文科省"
     },
     {
-      "time": "07:42",
-      "title": "国境なき医師団 エボラ巡り警鐘",
+      "time": "08:58",
+      "title": "建国公演辞退相次ぐ 米大統領怒り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582361?source=rss",
-      "publishedAt": "2026-05-30T22:42:32.000Z",
-      "xQuery": "国境なき医師団 エボラ巡り警鐘"
+      "url": "https://news.yahoo.co.jp/pickup/6582373?source=rss",
+      "publishedAt": "2026-05-30T23:58:38.000Z",
+      "xQuery": "建国公演辞退相次ぐ 米大統領怒り"
     },
     {
-      "time": "07:41",
-      "title": "2人死亡 直前にバス運転85歳異変",
+      "time": "09:58",
+      "title": "無許可でモスク建設 市が是正指導",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582362?source=rss",
-      "publishedAt": "2026-05-30T22:41:34.000Z",
-      "xQuery": "2人死亡 直前にバス運転85歳異変"
+      "url": "https://news.yahoo.co.jp/pickup/6582380?source=rss",
+      "publishedAt": "2026-05-31T00:58:34.000Z",
+      "xQuery": "無許可でモスク建設 市が是正指導"
     },
     {
-      "time": "08:00",
-      "title": "大学の0円朝食 どんなメニュー",
+      "time": "09:09",
+      "title": "男性が重体 酒気帯び疑いで男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582364?source=rss",
-      "publishedAt": "2026-05-30T23:00:05.000Z",
-      "xQuery": "大学の0円朝食 どんなメニュー"
+      "url": "https://news.yahoo.co.jp/pickup/6582374?source=rss",
+      "publishedAt": "2026-05-31T00:09:39.000Z",
+      "xQuery": "男性が重体 酒気帯び疑いで男逮捕"
     }
   ]
 };
