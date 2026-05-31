@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-31T21:53:54.502Z",
+  "updatedAt": "2026-05-31T22:28:00.645Z",
   "items": [
     {
       "time": "06:44",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風6号 夜に沖縄本島に最接近"
     },
     {
-      "time": "22:26",
-      "title": "アジア安保会議 日中の溝浮き彫り",
+      "time": "06:55",
+      "title": "ミャンマーで爆発 50人死亡と報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582467?source=rss",
-      "publishedAt": "2026-05-31T13:26:54.000Z",
-      "xQuery": "アジア安保会議 日中の溝浮き彫り"
-    },
-    {
-      "time": "23:48",
-      "title": "1票差で町長選当選 新潟・田上町",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582480?source=rss",
-      "publishedAt": "2026-05-31T14:48:33.000Z",
-      "xQuery": "1票差で町長選当選 新潟・田上町"
+      "url": "https://news.yahoo.co.jp/pickup/6582486?source=rss",
+      "publishedAt": "2026-05-31T21:55:49.000Z",
+      "xQuery": "ミャンマーで爆発 50人死亡と報道"
     },
     {
       "time": "23:03",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582462?source=rss",
       "publishedAt": "2026-05-31T12:40:48.000Z",
       "xQuery": "ナフサ100%水準戻る見通し 経産相"
+    },
+    {
+      "time": "07:24",
+      "title": "売却想定 住信SBIが新住宅ローン",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582488?source=rss",
+      "publishedAt": "2026-05-31T22:24:29.000Z",
+      "xQuery": "売却想定 住信SBIが新住宅ローン"
     }
   ]
 };
