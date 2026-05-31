@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-05-31T19:35:18.613Z",
+  "updatedAt": "2026-05-31T20:31:44.211Z",
   "groups": {
     "machineHeadlines": [
       {
+        "time": "05:04",
+        "title": "東北トラスティア事業組合発足 建設業の経営モデル探る",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54WkI3N2U5Wi1iR21BdVRfaWROTEI4QXVBczNvOGx5d2lUUTZwbWRZYmpyOEFkelgyYURIUWhReWdFVGVXeTJNbzdjNTZ0MHFKbFJIcWI0aXFORG8?oc=5",
+        "publishedAt": "2026-05-31T20:04:41.000Z"
+      },
+      {
         "time": "09:30",
         "title": "【市況】 【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
-        "source": "株探（かぶたん）",
+        "source": "かぶたん",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HVHp2ZDZ3enQ5Y1IzcG5iWDFOdk1hWnVScG1WMmg3RTlVRVFUeFBDRzA5OE5jbW9SN1BqZWpVTU52MVBLcnNobTZQMV9UWnd2N25jcTFMMU1FcVUwQV9zcA?oc=5",
         "publishedAt": "2026-05-31T00:30:00.000Z"
       },
@@ -26,7 +33,7 @@
       {
         "time": "09:30",
         "title": "【北浜流一郎のズバリ株先見！】 ─第3の選択肢、需要好調な工作機械関連に照準！",
-        "source": "株探（かぶたん）",
+        "source": "かぶたん",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pSHItUG0zRTlRb0ExZmcxTlctRFJWai1hOFRUMnB1ajFRc2tqdjNBSWtHc1JVNWl0TGVkQ2swemRsUVR5U05hRXExM2VTeWVBMFE?oc=5",
         "publishedAt": "2026-05-31T00:30:00.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582433?source=rss",
         "publishedAt": "2026-05-31T07:53:10.000Z"
-      },
-      {
-        "time": "23:03",
-        "title": "タイヤ不具合 海外では墜落事故も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582474?source=rss",
-        "publishedAt": "2026-05-31T14:03:55.000Z"
       }
     ],
     "worldHeadlines": [
