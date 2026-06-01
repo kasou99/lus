@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-01T12:25:47.052Z",
+  "updatedAt": "2026-06-01T14:36:23.478Z",
   "items": [
     {
-      "time": "19:41",
-      "title": "台風6号 3日に関東甲信に最接近",
+      "time": "22:49",
+      "title": "台風 西日本など中心に天気大荒れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582584?source=rss",
-      "publishedAt": "2026-06-01T10:41:20.000Z",
-      "xQuery": "台風6号 3日に関東甲信に最接近"
+      "url": "https://news.yahoo.co.jp/pickup/6582602?source=rss",
+      "publishedAt": "2026-06-01T13:49:44.000Z",
+      "xQuery": "台風 西日本など中心に天気大荒れ"
     },
     {
-      "time": "17:11",
-      "title": "自民の国旗損壊罪法案 全容判明",
+      "time": "22:30",
+      "title": "消費減税 来年4月開始で政府調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582560?source=rss",
-      "publishedAt": "2026-06-01T08:11:44.000Z",
-      "xQuery": "自民の国旗損壊罪法案 全容判明"
+      "url": "https://news.yahoo.co.jp/pickup/6582597?source=rss",
+      "publishedAt": "2026-06-01T13:30:45.000Z",
+      "xQuery": "消費減税 来年4月開始で政府調整"
     },
     {
-      "time": "20:08",
-      "title": "米軍基地を攻撃 イラン側が発表",
+      "time": "22:58",
+      "title": "イランが米との連絡停止 現地報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582588?source=rss",
-      "publishedAt": "2026-06-01T11:08:42.000Z",
-      "xQuery": "米軍基地を攻撃 イラン側が発表"
+      "url": "https://news.yahoo.co.jp/pickup/6582603?source=rss",
+      "publishedAt": "2026-06-01T13:58:17.000Z",
+      "xQuery": "イランが米との連絡停止 現地報道"
+    },
+    {
+      "time": "23:03",
+      "title": "河口湖で遊泳中 18歳が溺れて死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582604?source=rss",
+      "publishedAt": "2026-06-01T14:03:28.000Z",
+      "xQuery": "河口湖で遊泳中 18歳が溺れて死亡"
     },
     {
       "time": "20:52",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582592?source=rss",
       "publishedAt": "2026-06-01T11:52:44.000Z",
       "xQuery": "商業施設階段で転落か 警備員死亡"
-    },
-    {
-      "time": "19:21",
-      "title": "「笹正宗酒造」酒蔵などほぼ全焼",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582582?source=rss",
-      "publishedAt": "2026-06-01T10:21:26.000Z",
-      "xQuery": "「笹正宗酒造」酒蔵などほぼ全焼"
     }
   ]
 };

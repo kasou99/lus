@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T12:25:46.308Z",
+  "updatedAt": "2026-06-01T14:36:22.368Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,17 +38,10 @@
         "publishedAt": "2026-05-31T20:30:02.000Z"
       },
       {
-        "time": "13:30",
-        "title": "ACリニアモーター市場が今注目される3つの理由：成長ドライバーを徹底分析 Global Reports",
-        "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DVTRYZzgxcjhZemxoVFlDTEQydUtuTGtVSEQ5bmlHZHZtem8zcE5iekpHeERhTFBZTjlVVjl2UnpDRU9uOHNiYXhmMlhkY2lEcjlN?oc=5",
-        "publishedAt": "2026-06-01T04:30:00.000Z"
-      },
-      {
         "time": "15:30",
         "title": "工作機械用クロスローラーガイドの世界市場（2026年～2032年）、市場規模（標準型ガイド、ワイド型ガイド）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzUGZsZDlJcmN5blBrVzNRdXo5TVdvZ0dYUWhqMjF2UnZkc2VFakRQNnViY1ZqbFlxQ3F2bmp5dWtNS2NsT2ZYZVNnNUlZTm8?oc=5",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56aVh6VmFXNDhpRVFBSkxaM2lkUU83czRGcGl6VU50b2hxTDdBeXBQLWE1T0F4eFBoSEl4eXZVdHlnWEljVXpnWTVLNXV1SFk?oc=5",
         "publishedAt": "2026-06-01T06:30:00.000Z"
       },
       {
@@ -57,15 +50,36 @@
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IVjcxeE10QktOMVJ5M09CNFlrV1dUbnRKVXJ1eGN2M1E3TW85aXdwYy1zU0JTNjZUWDFyQ0xfeEdhSHdQV3JGWGUyTUJtRVFaYzVjc293Z0F5SzY4RFJ3?oc=5",
         "publishedAt": "2026-06-01T04:30:00.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "ACリニアモーター市場が今注目される3つの理由：成長ドライバーを徹底分析 Global Reports",
+        "source": "ドリームニュース",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DVTRYZzgxcjhZemxoVFlDTEQydUtuTGtVSEQ5bmlHZHZtem8zcE5iekpHeERhTFBZTjlVVjl2UnpDRU9uOHNiYXhmMlhkY2lEcjlN?oc=5",
+        "publishedAt": "2026-06-01T04:30:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "22:58",
+        "title": "イランが米との連絡停止 現地報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582603?source=rss",
+        "publishedAt": "2026-06-01T13:58:17.000Z"
+      },
       {
         "time": "20:08",
         "title": "米軍基地を攻撃 イラン側が発表",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582588?source=rss",
         "publishedAt": "2026-06-01T11:08:42.000Z"
+      },
+      {
+        "time": "22:22",
+        "title": "小泉氏発言は誠意なし 中国が反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582598?source=rss",
+        "publishedAt": "2026-06-01T13:22:58.000Z"
       },
       {
         "time": "12:25",
@@ -82,20 +96,6 @@
         "publishedAt": "2026-06-01T10:08:09.000Z"
       },
       {
-        "time": "22:26",
-        "title": "アジア安保会議 日中の溝浮き彫り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582467?source=rss",
-        "publishedAt": "2026-05-31T13:26:54.000Z"
-      },
-      {
-        "time": "19:13",
-        "title": "米の日本製紙子会社事故 死者11人",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582448?source=rss",
-        "publishedAt": "2026-05-31T10:13:42.000Z"
-      },
-      {
         "time": "19:01",
         "title": "北朝鮮刊行の地図 竹島記載せず",
         "source": "Yahoo!ニュース",
@@ -104,13 +104,6 @@
       }
     ],
     "economyHeadlines": [
-      {
-        "time": "16:14",
-        "title": "東証終値6万6934円 史上最高値",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582549?source=rss",
-        "publishedAt": "2026-06-01T07:14:25.000Z"
-      },
       {
         "time": "17:47",
         "title": "台風 2日もJALなど約200便欠航",
@@ -124,6 +117,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582545?source=rss",
         "publishedAt": "2026-06-01T06:16:24.000Z"
+      },
+      {
+        "time": "21:32",
+        "title": "菓子の白黒包装 客「目にとまる」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582593?source=rss",
+        "publishedAt": "2026-06-01T12:32:12.000Z"
       },
       {
         "time": "18:29",
@@ -149,11 +149,25 @@
     ],
     "localHeadlines": [
       {
+        "time": "21:52",
+        "title": "台風6号 沖縄各地で街路樹倒れる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582594?source=rss",
+        "publishedAt": "2026-06-01T12:52:40.000Z"
+      },
+      {
         "time": "17:12",
         "title": "九州南部・奄美 線状降水帯の恐れ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582558?source=rss",
         "publishedAt": "2026-06-01T08:12:59.000Z"
+      },
+      {
+        "time": "23:03",
+        "title": "河口湖で遊泳中 18歳が溺れて死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582604?source=rss",
+        "publishedAt": "2026-06-01T14:03:28.000Z"
       },
       {
         "time": "20:52",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-06-01T09:06:02.000Z"
       },
       {
-        "time": "17:48",
-        "title": "チェーンソーで足傷つけたか 死亡",
+        "time": "21:54",
+        "title": "遊んでいた13歳 海で溺れて死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582565?source=rss",
-        "publishedAt": "2026-06-01T08:48:39.000Z"
-      },
-      {
-        "time": "18:25",
-        "title": "遊んでいた13歳 海で溺れ心肺停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582572?source=rss",
-        "publishedAt": "2026-06-01T09:25:08.000Z"
-      },
-      {
-        "time": "19:21",
-        "title": "「笹正宗酒造」酒蔵などほぼ全焼",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582582?source=rss",
-        "publishedAt": "2026-06-01T10:21:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582595?source=rss",
+        "publishedAt": "2026-06-01T12:54:38.000Z"
       }
     ],
     "subsidyHeadlines": [
