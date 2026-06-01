@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-01T08:06:06.735Z",
+  "updatedAt": "2026-06-01T10:19:52.386Z",
   "items": [
     {
-      "time": "16:13",
-      "title": "台風は今夜沖縄本島に最接近 警戒",
+      "time": "17:59",
+      "title": "台風 沖縄・奄美は雨風に厳重警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582550?source=rss",
-      "publishedAt": "2026-06-01T07:13:57.000Z",
-      "xQuery": "台風は今夜沖縄本島に最接近 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6582569?source=rss",
+      "publishedAt": "2026-06-01T08:59:09.000Z",
+      "xQuery": "台風 沖縄・奄美は雨風に厳重警戒"
     },
     {
-      "time": "16:14",
-      "title": "東証終値6万6934円 史上最高値",
+      "time": "17:47",
+      "title": "台風 2日もJALなど約200便欠航",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582549?source=rss",
-      "publishedAt": "2026-06-01T07:14:25.000Z",
-      "xQuery": "東証終値6万6934円 史上最高値"
+      "url": "https://news.yahoo.co.jp/pickup/6582563?source=rss",
+      "publishedAt": "2026-06-01T08:47:26.000Z",
+      "xQuery": "台風 2日もJALなど約200便欠航"
     },
     {
-      "time": "16:21",
-      "title": "大企業で相次ぐ黒字リストラ なぜ",
+      "time": "19:08",
+      "title": "米大統領口座で大量証券売買 波紋",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582553?source=rss",
-      "publishedAt": "2026-06-01T07:21:10.000Z",
-      "xQuery": "大企業で相次ぐ黒字リストラ なぜ"
+      "url": "https://news.yahoo.co.jp/pickup/6582578?source=rss",
+      "publishedAt": "2026-06-01T10:08:09.000Z",
+      "xQuery": "米大統領口座で大量証券売買 波紋"
     },
     {
-      "time": "16:56",
-      "title": "Micro被告初公判 起訴内容認める",
+      "time": "18:06",
+      "title": "住宅で切り傷がある男女発見 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582557?source=rss",
-      "publishedAt": "2026-06-01T07:56:36.000Z",
-      "xQuery": "Micro被告初公判 起訴内容認める"
+      "url": "https://news.yahoo.co.jp/pickup/6582568?source=rss",
+      "publishedAt": "2026-06-01T09:06:02.000Z",
+      "xQuery": "住宅で切り傷がある男女発見 死亡"
     },
     {
-      "time": "16:22",
-      "title": "TOHOシネマズ 料金一部値上げへ",
+      "time": "17:48",
+      "title": "チェーンソーで足傷つけたか 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582552?source=rss",
-      "publishedAt": "2026-06-01T07:22:32.000Z",
-      "xQuery": "TOHOシネマズ 料金一部値上げへ"
+      "url": "https://news.yahoo.co.jp/pickup/6582565?source=rss",
+      "publishedAt": "2026-06-01T08:48:39.000Z",
+      "xQuery": "チェーンソーで足傷つけたか 死亡"
     }
   ]
 };
