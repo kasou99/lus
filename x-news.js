@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-01T10:19:52.386Z",
+  "updatedAt": "2026-06-01T12:25:47.052Z",
   "items": [
     {
-      "time": "17:59",
-      "title": "台風 沖縄・奄美は雨風に厳重警戒",
+      "time": "19:41",
+      "title": "台風6号 3日に関東甲信に最接近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582569?source=rss",
-      "publishedAt": "2026-06-01T08:59:09.000Z",
-      "xQuery": "台風 沖縄・奄美は雨風に厳重警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6582584?source=rss",
+      "publishedAt": "2026-06-01T10:41:20.000Z",
+      "xQuery": "台風6号 3日に関東甲信に最接近"
     },
     {
-      "time": "17:47",
-      "title": "台風 2日もJALなど約200便欠航",
+      "time": "17:11",
+      "title": "自民の国旗損壊罪法案 全容判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582563?source=rss",
-      "publishedAt": "2026-06-01T08:47:26.000Z",
-      "xQuery": "台風 2日もJALなど約200便欠航"
+      "url": "https://news.yahoo.co.jp/pickup/6582560?source=rss",
+      "publishedAt": "2026-06-01T08:11:44.000Z",
+      "xQuery": "自民の国旗損壊罪法案 全容判明"
     },
     {
-      "time": "19:08",
-      "title": "米大統領口座で大量証券売買 波紋",
+      "time": "20:08",
+      "title": "米軍基地を攻撃 イラン側が発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582578?source=rss",
-      "publishedAt": "2026-06-01T10:08:09.000Z",
-      "xQuery": "米大統領口座で大量証券売買 波紋"
+      "url": "https://news.yahoo.co.jp/pickup/6582588?source=rss",
+      "publishedAt": "2026-06-01T11:08:42.000Z",
+      "xQuery": "米軍基地を攻撃 イラン側が発表"
     },
     {
-      "time": "18:06",
-      "title": "住宅で切り傷がある男女発見 死亡",
+      "time": "20:52",
+      "title": "商業施設階段で転落か 警備員死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582568?source=rss",
-      "publishedAt": "2026-06-01T09:06:02.000Z",
-      "xQuery": "住宅で切り傷がある男女発見 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6582592?source=rss",
+      "publishedAt": "2026-06-01T11:52:44.000Z",
+      "xQuery": "商業施設階段で転落か 警備員死亡"
     },
     {
-      "time": "17:48",
-      "title": "チェーンソーで足傷つけたか 死亡",
+      "time": "19:21",
+      "title": "「笹正宗酒造」酒蔵などほぼ全焼",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582565?source=rss",
-      "publishedAt": "2026-06-01T08:48:39.000Z",
-      "xQuery": "チェーンソーで足傷つけたか 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6582582?source=rss",
+      "publishedAt": "2026-06-01T10:21:26.000Z",
+      "xQuery": "「笹正宗酒造」酒蔵などほぼ全焼"
     }
   ]
 };

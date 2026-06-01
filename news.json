@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T10:19:51.445Z",
+  "updatedAt": "2026-06-01T12:25:46.308Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-06-01T05:30:00.000Z"
       },
       {
-        "time": "14:00",
-        "title": "【動画公開】220万円(税抜)の小型NC旋盤「YORNEW CK210B」製品紹介動画を公開。コンパクトながら鋼材加工にも対応。",
-        "source": "valuepress",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wcmhzd1hpWDh5UFRrTl90N1A4VnNDd1BoZXpydTdHZUJ3Zjl3N3hvMUx0RHMyOE9SQjd1Ql9fRVpScGJqbFFfQ2gzQ0lHNlNGYnZoNkJvbEYxREU?oc=5",
-        "publishedAt": "2026-06-01T05:00:00.000Z"
-      },
-      {
         "time": "19:01",
         "title": "【社説】外為法改正で審査強化 対日投資妨げない高い透明性を",
         "source": "朝日新聞",
@@ -24,11 +17,25 @@
         "publishedAt": "2026-06-01T10:01:00.000Z"
       },
       {
+        "time": "14:00",
+        "title": "【動画公開】220万円(税抜)の小型NC旋盤「YORNEW CK210B」製品紹介動画を公開。コンパクトながら鋼材加工にも対応。",
+        "source": "valuepress",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wcmhzd1hpWDh5UFRrTl90N1A4VnNDd1BoZXpydTdHZUJ3Zjl3N3hvMUx0RHMyOE9SQjd1Ql9fRVpScGJqbFFfQ2gzQ0lHNlNGYnZoNkJvbEYxREU?oc=5",
+        "publishedAt": "2026-06-01T05:00:00.000Z"
+      },
+      {
         "time": "09:00",
         "title": "株式会社M2X、株式会社丸五の導入事例を公開",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3RDY3cWNrcDB1cWNmalNuUUtSYndrelBSSmRmU1hWRUp6NDdSSVJxV1J5d0NZNDgydldXR1FfV0JkM2RSTjN0ZzQ2ZDZlRWFvMWdUcmdnOFBUQ2U2LVhNX0xQUGRkZWR4YVE?oc=5",
         "publishedAt": "2026-06-01T00:00:02.000Z"
+      },
+      {
+        "time": "05:30",
+        "title": "ニデック、「永守氏肝いり」の工作機械も縮小へ",
+        "source": "newspicks.com",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51b3otbV9tSTFxQWlRd3pFd2ktVUxURkVtRmpzVXJtaUV6NTF1bDREZExHYkxuV3Z1MFRzUXZJR193US13dWJtUTJNT3lLWHp4QU5V?oc=5",
+        "publishedAt": "2026-05-31T20:30:02.000Z"
       },
       {
         "time": "13:30",
@@ -50,29 +57,22 @@
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IVjcxeE10QktOMVJ5M09CNFlrV1dUbnRKVXJ1eGN2M1E3TW85aXdwYy1zU0JTNjZUWDFyQ0xfeEdhSHdQV3JGWGUyTUJtRVFaYzVjc293Z0F5SzY4RFJ3?oc=5",
         "publishedAt": "2026-06-01T04:30:00.000Z"
-      },
-      {
-        "time": "09:14",
-        "title": "GPS不要で空間3D化 データ・デザインが高速スキャナー",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmY01QbXVZSlc2SVFUdDhxRjZMWGVxSmVNTVZaeEc3UFM1OUU3U0ZWM1JpTVN3cTJGYWs3Yjc2cW9sdG9WazF5eW1SbHcxV1NNRGNUZTc4R3ZHSnc?oc=5",
-        "publishedAt": "2026-06-01T00:14:39.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "20:08",
+        "title": "米軍基地を攻撃 イラン側が発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582588?source=rss",
+        "publishedAt": "2026-06-01T11:08:42.000Z"
+      },
       {
         "time": "12:25",
         "title": "トランプ氏 なぜオマーンを威嚇",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582523?source=rss",
         "publishedAt": "2026-06-01T03:25:36.000Z"
-      },
-      {
-        "time": "17:01",
-        "title": "米大統領 和平提案の修正要求か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582436?source=rss",
-        "publishedAt": "2026-05-31T08:01:32.000Z"
       },
       {
         "time": "19:08",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-06-01T08:12:59.000Z"
       },
       {
+        "time": "20:52",
+        "title": "商業施設階段で転落か 警備員死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582592?source=rss",
+        "publishedAt": "2026-06-01T11:52:44.000Z"
+      },
+      {
         "time": "18:06",
         "title": "住宅で切り傷がある男女発見 死亡",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-06-01T09:25:08.000Z"
       },
       {
-        "time": "14:03",
-        "title": "2人死亡 バス衝突後引きずったか",
+        "time": "19:21",
+        "title": "「笹正宗酒造」酒蔵などほぼ全焼",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582540?source=rss",
-        "publishedAt": "2026-06-01T05:03:48.000Z"
-      },
-      {
-        "time": "16:56",
-        "title": "Micro被告初公判 起訴内容認める",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582557?source=rss",
-        "publishedAt": "2026-06-01T07:56:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582582?source=rss",
+        "publishedAt": "2026-06-01T10:21:26.000Z"
       }
     ],
     "subsidyHeadlines": [
