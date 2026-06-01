@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-01T01:18:38.383Z",
+  "updatedAt": "2026-06-01T02:26:38.489Z",
   "items": [
     {
-      "time": "09:26",
-      "title": "台風6号 九州～近畿も次第に雨",
+      "time": "10:59",
+      "title": "台風6号 関東-九州へ最接近はいつ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582502?source=rss",
-      "publishedAt": "2026-06-01T00:26:16.000Z",
-      "xQuery": "台風6号 九州～近畿も次第に雨"
+      "url": "https://news.yahoo.co.jp/pickup/6582515?source=rss",
+      "publishedAt": "2026-06-01T01:59:38.000Z",
+      "xQuery": "台風6号 関東-九州へ最接近はいつ"
     },
     {
-      "time": "09:28",
-      "title": "日経平均 取引時間中の最高値更新",
+      "time": "10:22",
+      "title": "日経平均 一時初の6万7000円突破",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582506?source=rss",
-      "publishedAt": "2026-06-01T00:28:33.000Z",
-      "xQuery": "日経平均 取引時間中の最高値更新"
+      "url": "https://news.yahoo.co.jp/pickup/6582513?source=rss",
+      "publishedAt": "2026-06-01T01:22:30.000Z",
+      "xQuery": "日経平均 一時初の6万7000円突破"
     },
     {
-      "time": "08:59",
-      "title": "中立公 新たな「新党」構想が浮上",
+      "time": "10:38",
+      "title": "黒岩知事後援会 収支報告書にミス",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582501?source=rss",
-      "publishedAt": "2026-05-31T23:59:57.000Z",
-      "xQuery": "中立公 新たな「新党」構想が浮上"
+      "url": "https://news.yahoo.co.jp/pickup/6582511?source=rss",
+      "publishedAt": "2026-06-01T01:38:20.000Z",
+      "xQuery": "黒岩知事後援会 収支報告書にミス"
+    },
+    {
+      "time": "11:16",
+      "title": "路線バスで切りつけられ軽傷 東京",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582516?source=rss",
+      "publishedAt": "2026-06-01T02:16:38.000Z",
+      "xQuery": "路線バスで切りつけられ軽傷 東京"
     },
     {
       "time": "09:06",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582500?source=rss",
       "publishedAt": "2026-06-01T00:06:38.000Z",
       "xQuery": "自転車で追突 オランダ人女性死亡"
-    },
-    {
-      "time": "10:00",
-      "title": "賞金12億円 ジャンボ史上最高額に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582510?source=rss",
-      "publishedAt": "2026-06-01T01:00:16.000Z",
-      "xQuery": "賞金12億円 ジャンボ史上最高額に"
     }
   ]
 };

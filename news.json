@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-01T01:18:36.849Z",
+  "updatedAt": "2026-06-01T02:26:36.502Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:32",
-        "title": "NGK、売上高1.3兆円 35年目標 デジタル・脱炭素増強",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GTVVQa0dkcUtTYTJGV0FPSTBnWVV2ODhWZVZxWDVrdExWekkxQkJRRThGc2VzUTJZcEd5NjRHb3Y4dmZOMWpTWWFDM2RIQ1VTLWNITVMyaUpoX2lxVlJySHJnTEpJV2FBaE1xa0dycEhIVVRV?oc=5",
-        "publishedAt": "2026-05-31T20:32:30.000Z"
+        "time": "05:30",
+        "title": "ニデック、「永守氏肝いり」の工作機械も縮小へ",
+        "source": "newspicks.com",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sVWl1QUdKb0NSc2RwUzJ4OFdLZzZpT2NXM0xvWThuOUFnemNnLTVDX3NMUjdGNEJWOGc1d0gwRXEyYkdtSzluajQ2a01IdVRBbV9VQ1JnQURHMEd5LWx1YkZn?oc=5",
+        "publishedAt": "2026-05-31T20:30:02.000Z"
       },
       {
-        "time": "07:27",
-        "title": "東洋技研、2ピースBOXターミナル「BOXTRシリーズ」にワークエリアタイプ2機種を追加",
-        "source": "オートメーション新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMzdUZUM0bnc1UDZ6ZEhqTkYzd01qRzNSb1J6RjNxYlFULVd3VV9MXzRyYzQwZjlJb1FIb2c1N2pUWmhXNnpHblZpd1haYVgtempXTUFSUjczUQ?oc=5",
-        "publishedAt": "2026-05-31T22:27:29.000Z"
+        "time": "09:20",
+        "title": "東北トラスティア事業組合発足 建設業の経営モデル探る",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54WkI3N2U5Wi1iR21BdVRfaWROTEI4QXVBczNvOGx5d2lUUTZwbWRZYmpyOEFkelgyYURIUWhReWdFVGVXeTJNbzdjNTZ0MHFKbFJIcWI0aXFORG8?oc=5",
+        "publishedAt": "2026-06-01T00:20:03.000Z"
       },
       {
         "time": "09:30",
@@ -22,6 +22,13 @@
         "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9abFRTcFhuXy1qcXNPdlQ5Zno2OEpmRW5XV0ZRLUc1a193UHBuR2NhU2hNX1BMcWRYMXllUUZnWnhBa0RTWnRJeE9rb3RGNHc?oc=5",
         "publishedAt": "2026-06-01T00:30:00.000Z"
+      },
+      {
+        "time": "07:27",
+        "title": "東洋技研、2ピースBOXターミナル「BOXTRシリーズ」にワークエリアタイプ2機種を追加",
+        "source": "オートメーション新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMzdUZUM0bnc1UDZ6ZEhqTkYzd01qRzNSb1J6RjNxYlFULVd3VV9MXzRyYzQwZjlJb1FIb2c1N2pUWmhXNnpHblZpd1haYVgtempXTUFSUjczUQ?oc=5",
+        "publishedAt": "2026-05-31T22:27:29.000Z"
       },
       {
         "time": "06:03",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-05-31T22:17:00.000Z"
       },
       {
-        "time": "05:47",
-        "title": "経営ひと言／岡田電機工業・岡田英城社長「地域の足守る」",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOeFZON3JTSzdzRS1RaEJhczRqNjZxVUxoRkNKM280VGNJemdtYXVXbk96eEdOSHZ0WWl5cHlMbFhFX0VKYlgzQzBWWXJtUUp1S1F1cmVsWE90Szg?oc=5",
-        "publishedAt": "2026-05-31T20:47:58.000Z"
-      },
-      {
-        "time": "05:19",
+        "time": "09:14",
         "title": "GPS不要で空間3D化 データ・デザインが高速スキャナー",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uSGlrbjFOZTlvNGpCd2s1WWFpVVYxSTR0NnpwdFdJMnNhS2FualUxWDNuSDVTeGNWWnQ1TzlsanAyOE1HR0plRlpuNjg4aFVBZjhBdHhtbE1QQkxKMmtVbVJqTjhQbmxnV2U2MXd3VXN4VnZQYmw4Y05lMA?oc=5",
-        "publishedAt": "2026-05-31T20:19:27.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmY01QbXVZSlc2SVFUdDhxRjZMWGVxSmVNTVZaeEc3UFM1OUU3U0ZWM1JpTVN3cTJGYWs3Yjc2cW9sdG9WazF5eW1SbHcxV1NNRGNUZTc4R3ZHSnc?oc=5",
+        "publishedAt": "2026-06-01T00:14:39.000Z"
       },
       {
-        "time": "05:19",
-        "title": "コニカミノルタ／中小オフィスDX A3カラー複合機",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jU1IxWkxfQ0tvazhvcXRDd3dld2xjZHdoYldlLUZZZ3Y2SlBtLXRYZ3hFZVZIblJNbkVRM3MxbHBqajg5Mmw3dFA0TlpwSmhBX3R5UXVLa1hVMlBRcGRDcW44Yy1sanVmeU5ac0VTcWVGU1VtbUtzQ2JfQQ?oc=5",
-        "publishedAt": "2026-05-31T20:19:27.000Z"
+        "time": "10:30",
+        "title": "野村貿易、5か年の中期経営計画「Road to Prestige",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91RTY4cHV0S3lZQ09MY0tJY1hJYW0tUUEtTmhMZmswVldOWTd3SzlWVkNRc2VKWllHbWJwd25FMlV4ZW1jMXNEY3lwRGVjZVlFZ2xLemJ4Z05IaVdvNXRwemppbkRkZzhuTFJRTmZITElaRkNDMGI2UXJxVQ?oc=5",
+        "publishedAt": "2026-06-01T01:30:39.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "09:28",
-        "title": "日経平均 取引時間中の最高値更新",
+        "time": "10:22",
+        "title": "日経平均 一時初の6万7000円突破",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582506?source=rss",
-        "publishedAt": "2026-06-01T00:28:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582513?source=rss",
+        "publishedAt": "2026-06-01T01:22:30.000Z"
       },
       {
         "time": "23:03",
@@ -156,18 +156,11 @@
         "publishedAt": "2026-05-31T23:19:05.000Z"
       },
       {
-        "time": "23:24",
-        "title": "新潟県知事選 花角英世氏が3選",
+        "time": "11:16",
+        "title": "路線バスで切りつけられ軽傷 東京",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582479?source=rss",
-        "publishedAt": "2026-05-31T14:24:46.000Z"
-      },
-      {
-        "time": "23:48",
-        "title": "1票差で町長選当選 新潟・田上町",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582480?source=rss",
-        "publishedAt": "2026-05-31T14:48:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582516?source=rss",
+        "publishedAt": "2026-06-01T02:16:38.000Z"
       },
       {
         "time": "08:33",
@@ -177,18 +170,25 @@
         "publishedAt": "2026-05-31T23:33:54.000Z"
       },
       {
-        "time": "20:38",
-        "title": "バイク無免許で車と衝突 15歳死亡",
+        "time": "23:24",
+        "title": "新潟県知事選 花角英世氏が3選",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582455?source=rss",
-        "publishedAt": "2026-05-31T11:38:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582479?source=rss",
+        "publishedAt": "2026-05-31T14:24:46.000Z"
       },
       {
-        "time": "17:39",
-        "title": "海で10代の男の子が溺れたか 重体",
+        "time": "10:38",
+        "title": "黒岩知事後援会 収支報告書にミス",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582441?source=rss",
-        "publishedAt": "2026-05-31T08:39:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582511?source=rss",
+        "publishedAt": "2026-06-01T01:38:20.000Z"
+      },
+      {
+        "time": "23:48",
+        "title": "1票差で町長選当選 新潟・田上町",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582480?source=rss",
+        "publishedAt": "2026-05-31T14:48:33.000Z"
       }
     ],
     "subsidyHeadlines": [
