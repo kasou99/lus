@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-01T22:08:42.387Z",
+  "updatedAt": "2026-06-01T23:10:52.742Z",
   "items": [
     {
       "time": "06:33",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 2～3日に九州から関東に接近"
     },
     {
-      "time": "00:01",
-      "title": "台風 沖縄で少なくとも12人けが",
+      "time": "07:25",
+      "title": "蓄電池売上高3倍目標 戦略改定へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582607?source=rss",
-      "publishedAt": "2026-06-01T15:01:47.000Z",
-      "xQuery": "台風 沖縄で少なくとも12人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6582615?source=rss",
+      "publishedAt": "2026-06-01T22:25:01.000Z",
+      "xQuery": "蓄電池売上高3倍目標 戦略改定へ"
     },
     {
-      "time": "22:30",
-      "title": "消費減税 来年4月開始で政府調整",
+      "time": "07:22",
+      "title": "外国人の不動産取得 規制見送りへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582597?source=rss",
-      "publishedAt": "2026-06-01T13:30:45.000Z",
-      "xQuery": "消費減税 来年4月開始で政府調整"
+      "url": "https://news.yahoo.co.jp/pickup/6582614?source=rss",
+      "publishedAt": "2026-06-01T22:22:32.000Z",
+      "xQuery": "外国人の不動産取得 規制見送りへ"
     },
     {
       "time": "06:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "Anthropic 上場に向けIPO申請"
     },
     {
-      "time": "20:52",
-      "title": "商業施設階段で転落か 警備員死亡",
+      "time": "07:36",
+      "title": "秀吉の備中高松城攻め 書状確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582592?source=rss",
-      "publishedAt": "2026-06-01T11:52:44.000Z",
-      "xQuery": "商業施設階段で転落か 警備員死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6582616?source=rss",
+      "publishedAt": "2026-06-01T22:36:57.000Z",
+      "xQuery": "秀吉の備中高松城攻め 書状確認"
     }
   ]
 };
