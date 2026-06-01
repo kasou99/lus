@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-01T20:51:14.683Z",
+  "updatedAt": "2026-06-01T22:08:42.387Z",
   "items": [
     {
-      "time": "22:49",
-      "title": "台風 西日本など中心に天気大荒れ",
+      "time": "06:33",
+      "title": "台風 2～3日に九州から関東に接近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582602?source=rss",
-      "publishedAt": "2026-06-01T13:49:44.000Z",
-      "xQuery": "台風 西日本など中心に天気大荒れ"
+      "url": "https://news.yahoo.co.jp/pickup/6582611?source=rss",
+      "publishedAt": "2026-06-01T21:33:01.000Z",
+      "xQuery": "台風 2～3日に九州から関東に接近"
     },
     {
       "time": "00:01",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "消費減税 来年4月開始で政府調整"
     },
     {
-      "time": "23:56",
-      "title": "イランが米との協議停止 現地報道",
+      "time": "06:21",
+      "title": "Anthropic 上場に向けIPO申請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582606?source=rss",
-      "publishedAt": "2026-06-01T14:56:48.000Z",
-      "xQuery": "イランが米との協議停止 現地報道"
+      "url": "https://news.yahoo.co.jp/pickup/6582610?source=rss",
+      "publishedAt": "2026-06-01T21:21:57.000Z",
+      "xQuery": "Anthropic 上場に向けIPO申請"
     },
     {
       "time": "20:52",
