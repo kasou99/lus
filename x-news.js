@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-01T02:26:38.489Z",
+  "updatedAt": "2026-06-01T03:51:56.314Z",
   "items": [
     {
       "time": "10:59",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "台風6号 関東-九州へ最接近はいつ"
     },
     {
-      "time": "10:22",
-      "title": "日経平均 一時初の6万7000円突破",
+      "time": "12:38",
+      "title": "SBG時価総額 トヨタ超え首位",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582513?source=rss",
-      "publishedAt": "2026-06-01T01:22:30.000Z",
-      "xQuery": "日経平均 一時初の6万7000円突破"
+      "url": "https://news.yahoo.co.jp/pickup/6582533?source=rss",
+      "publishedAt": "2026-06-01T03:38:04.000Z",
+      "xQuery": "SBG時価総額 トヨタ超え首位"
     },
     {
-      "time": "10:38",
-      "title": "黒岩知事後援会 収支報告書にミス",
+      "time": "12:16",
+      "title": "路線バスの客切りつけか 男確保",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582511?source=rss",
-      "publishedAt": "2026-06-01T01:38:20.000Z",
-      "xQuery": "黒岩知事後援会 収支報告書にミス"
+      "url": "https://news.yahoo.co.jp/pickup/6582529?source=rss",
+      "publishedAt": "2026-06-01T03:16:10.000Z",
+      "xQuery": "路線バスの客切りつけか 男確保"
     },
     {
-      "time": "11:16",
-      "title": "路線バスで切りつけられ軽傷 東京",
+      "time": "11:41",
+      "title": "羽月元選手に薬物譲渡疑い 男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582516?source=rss",
-      "publishedAt": "2026-06-01T02:16:38.000Z",
-      "xQuery": "路線バスで切りつけられ軽傷 東京"
+      "url": "https://news.yahoo.co.jp/pickup/6582521?source=rss",
+      "publishedAt": "2026-06-01T02:41:14.000Z",
+      "xQuery": "羽月元選手に薬物譲渡疑い 男逮捕"
     },
     {
-      "time": "09:06",
-      "title": "自転車で追突 オランダ人女性死亡",
+      "time": "12:35",
+      "title": "フラット35 最低金利が初の3%超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582500?source=rss",
-      "publishedAt": "2026-06-01T00:06:38.000Z",
-      "xQuery": "自転車で追突 オランダ人女性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6582532?source=rss",
+      "publishedAt": "2026-06-01T03:35:26.000Z",
+      "xQuery": "フラット35 最低金利が初の3%超"
     }
   ]
 };

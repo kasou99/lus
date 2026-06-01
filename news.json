@@ -1,34 +1,20 @@
 {
-  "updatedAt": "2026-06-01T02:26:36.502Z",
+  "updatedAt": "2026-06-01T03:51:55.566Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:30",
-        "title": "ニデック、「永守氏肝いり」の工作機械も縮小へ",
-        "source": "newspicks.com",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sVWl1QUdKb0NSc2RwUzJ4OFdLZzZpT2NXM0xvWThuOUFnemNnLTVDX3NMUjdGNEJWOGc1d0gwRXEyYkdtSzluajQ2a01IdVRBbV9VQ1JnQURHMEd5LWx1YkZn?oc=5",
-        "publishedAt": "2026-05-31T20:30:02.000Z"
-      },
-      {
-        "time": "09:20",
-        "title": "東北トラスティア事業組合発足 建設業の経営モデル探る",
+        "time": "09:14",
+        "title": "GPS不要で空間3D化 データ・デザインが高速スキャナー",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54WkI3N2U5Wi1iR21BdVRfaWROTEI4QXVBczNvOGx5d2lUUTZwbWRZYmpyOEFkelgyYURIUWhReWdFVGVXeTJNbzdjNTZ0MHFKbFJIcWI0aXFORG8?oc=5",
-        "publishedAt": "2026-06-01T00:20:03.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmY01QbXVZSlc2SVFUdDhxRjZMWGVxSmVNTVZaeEc3UFM1OUU3U0ZWM1JpTVN3cTJGYWs3Yjc2cW9sdG9WazF5eW1SbHcxV1NNRGNUZTc4R3ZHSnc?oc=5",
+        "publishedAt": "2026-06-01T00:14:39.000Z"
       },
       {
-        "time": "09:30",
-        "title": "ガス静圧軸受の世界市場（2026年～2032年）、市場規模（小孔絞り軸受、スリット絞り軸受、多孔質軸受、その他）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9abFRTcFhuXy1qcXNPdlQ5Zno2OEpmRW5XV0ZRLUc1a193UHBuR2NhU2hNX1BMcWRYMXllUUZnWnhBa0RTWnRJeE9rb3RGNHc?oc=5",
-        "publishedAt": "2026-06-01T00:30:00.000Z"
-      },
-      {
-        "time": "07:27",
-        "title": "東洋技研、2ピースBOXターミナル「BOXTRシリーズ」にワークエリアタイプ2機種を追加",
-        "source": "オートメーション新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMzdUZUM0bnc1UDZ6ZEhqTkYzd01qRzNSb1J6RjNxYlFULVd3VV9MXzRyYzQwZjlJb1FIb2c1N2pUWmhXNnpHblZpd1haYVgtempXTUFSUjczUQ?oc=5",
-        "publishedAt": "2026-05-31T22:27:29.000Z"
+        "time": "11:30",
+        "title": "株式会社M2X、株式会社丸五の導入事例を公開",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54ZHU2OGpEZjNWSE41dWVkU0h4cVZ4Umhzb19vT1dLd25NQzdKYWx4YkVpWGlnRlFRSGU0YUduZHJCX19tc1pRRV9uMk1GcWRnRktRM2xsZDNhX0tTSFkzanNubFZLcWVab0hOaEV3NmVaQURjMEdLV2l3QQ?oc=5",
+        "publishedAt": "2026-06-01T02:30:12.000Z"
       },
       {
         "time": "06:03",
@@ -38,6 +24,13 @@
         "publishedAt": "2026-05-31T21:03:51.000Z"
       },
       {
+        "time": "09:30",
+        "title": "ガス静圧軸受の世界市場（2026年～2032年）、市場規模（小孔絞り軸受、スリット絞り軸受、多孔質軸受、その他）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9abFRTcFhuXy1qcXNPdlQ5Zno2OEpmRW5XV0ZRLUc1a193UHBuR2NhU2hNX1BMcWRYMXllUUZnWnhBa0RTWnRJeE9rb3RGNHc?oc=5",
+        "publishedAt": "2026-06-01T00:30:00.000Z"
+      },
+      {
         "time": "07:17",
         "title": "《元手240万円→資産4億円超》ママ投資家・ちょる子さんが解説 「K字型相場」で日経平均6万円はまだまだ通過点！ 株価上昇が期待できる夏以降の一大イベントを解説",
         "source": "ｄメニューニュース",
@@ -45,11 +38,18 @@
         "publishedAt": "2026-05-31T22:17:00.000Z"
       },
       {
-        "time": "09:14",
-        "title": "GPS不要で空間3D化 データ・デザインが高速スキャナー",
+        "time": "09:20",
+        "title": "東北トラスティア事業組合発足 建設業の経営モデル探る",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmY01QbXVZSlc2SVFUdDhxRjZMWGVxSmVNTVZaeEc3UFM1OUU3U0ZWM1JpTVN3cTJGYWs3Yjc2cW9sdG9WazF5eW1SbHcxV1NNRGNUZTc4R3ZHSnc?oc=5",
-        "publishedAt": "2026-06-01T00:14:39.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54WkI3N2U5Wi1iR21BdVRfaWROTEI4QXVBczNvOGx5d2lUUTZwbWRZYmpyOEFkelgyYURIUWhReWdFVGVXeTJNbzdjNTZ0MHFKbFJIcWI0aXFORG8?oc=5",
+        "publishedAt": "2026-06-01T00:20:03.000Z"
+      },
+      {
+        "time": "05:47",
+        "title": "経営ひと言／岡田電機工業・岡田英城社長「地域の足守る」",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOeFZON3JTSzdzRS1RaEJhczRqNjZxVUxoRkNKM280VGNJemdtYXVXbk96eEdOSHZ0WWl5cHlMbFhFX0VKYlgzQzBWWXJtUUp1S1F1cmVsWE90Szg?oc=5",
+        "publishedAt": "2026-05-31T20:47:58.000Z"
       },
       {
         "time": "10:30",
@@ -68,11 +68,11 @@
         "publishedAt": "2026-05-31T05:55:09.000Z"
       },
       {
-        "time": "11:49",
-        "title": "米軍 イランに向かう船を攻撃",
+        "time": "12:25",
+        "title": "トランプ氏 なぜオマーンを威嚇",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582395?source=rss",
-        "publishedAt": "2026-05-31T02:49:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582523?source=rss",
+        "publishedAt": "2026-06-01T03:25:36.000Z"
       },
       {
         "time": "17:01",
@@ -112,11 +112,18 @@
         "publishedAt": "2026-06-01T01:22:30.000Z"
       },
       {
-        "time": "23:03",
-        "title": "タイヤ不具合 海外では墜落事故も",
+        "time": "12:38",
+        "title": "SBG時価総額 トヨタ超え首位",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582474?source=rss",
-        "publishedAt": "2026-05-31T14:03:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582533?source=rss",
+        "publishedAt": "2026-06-01T03:38:04.000Z"
+      },
+      {
+        "time": "12:35",
+        "title": "フラット35 最低金利が初の3%超",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582532?source=rss",
+        "publishedAt": "2026-06-01T03:35:26.000Z"
       },
       {
         "time": "07:40",
@@ -133,21 +140,21 @@
         "publishedAt": "2026-05-31T22:24:29.000Z"
       },
       {
-        "time": "21:41",
-        "title": "エアコン買い替え 急ぐ動き強まる",
+        "time": "12:14",
+        "title": "ファミマATMが「セブン銀行化」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582460?source=rss",
-        "publishedAt": "2026-05-31T12:41:37.000Z"
-      },
-      {
-        "time": "21:09",
-        "title": "瀕死の工場 妻に作った器具ヒット",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582458?source=rss",
-        "publishedAt": "2026-05-31T12:09:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582530?source=rss",
+        "publishedAt": "2026-06-01T03:14:20.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "12:28",
+        "title": "群馬・桐生で35.4℃ 関東初猛暑日",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582531?source=rss",
+        "publishedAt": "2026-06-01T03:28:58.000Z"
+      },
       {
         "time": "08:19",
         "title": "台風接近 沖縄県庁が本島業務停止",
@@ -156,11 +163,11 @@
         "publishedAt": "2026-05-31T23:19:05.000Z"
       },
       {
-        "time": "11:16",
-        "title": "路線バスで切りつけられ軽傷 東京",
+        "time": "12:16",
+        "title": "路線バスの客切りつけか 男確保",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582516?source=rss",
-        "publishedAt": "2026-06-01T02:16:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582529?source=rss",
+        "publishedAt": "2026-06-01T03:16:10.000Z"
       },
       {
         "time": "08:33",
@@ -170,13 +177,6 @@
         "publishedAt": "2026-05-31T23:33:54.000Z"
       },
       {
-        "time": "23:24",
-        "title": "新潟県知事選 花角英世氏が3選",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582479?source=rss",
-        "publishedAt": "2026-05-31T14:24:46.000Z"
-      },
-      {
         "time": "10:38",
         "title": "黒岩知事後援会 収支報告書にミス",
         "source": "Yahoo!ニュース",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-01T01:38:20.000Z"
       },
       {
-        "time": "23:48",
-        "title": "1票差で町長選当選 新潟・田上町",
+        "time": "11:41",
+        "title": "羽月元選手に薬物譲渡疑い 男逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582480?source=rss",
-        "publishedAt": "2026-05-31T14:48:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582521?source=rss",
+        "publishedAt": "2026-06-01T02:41:14.000Z"
       }
     ],
     "subsidyHeadlines": [
