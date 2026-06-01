@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-01T14:36:23.478Z",
+  "updatedAt": "2026-06-01T16:57:57.026Z",
   "items": [
     {
       "time": "22:49",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 西日本など中心に天気大荒れ"
     },
     {
+      "time": "00:01",
+      "title": "台風 沖縄で少なくとも12人けが",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582607?source=rss",
+      "publishedAt": "2026-06-01T15:01:47.000Z",
+      "xQuery": "台風 沖縄で少なくとも12人けが"
+    },
+    {
       "time": "22:30",
       "title": "消費減税 来年4月開始で政府調整",
       "source": "Yahoo!ニュース",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "消費減税 来年4月開始で政府調整"
     },
     {
-      "time": "22:58",
-      "title": "イランが米との連絡停止 現地報道",
+      "time": "23:56",
+      "title": "イランが米との協議停止 現地報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582603?source=rss",
-      "publishedAt": "2026-06-01T13:58:17.000Z",
-      "xQuery": "イランが米との連絡停止 現地報道"
-    },
-    {
-      "time": "23:03",
-      "title": "河口湖で遊泳中 18歳が溺れて死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582604?source=rss",
-      "publishedAt": "2026-06-01T14:03:28.000Z",
-      "xQuery": "河口湖で遊泳中 18歳が溺れて死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6582606?source=rss",
+      "publishedAt": "2026-06-01T14:56:48.000Z",
+      "xQuery": "イランが米との協議停止 現地報道"
     },
     {
       "time": "20:52",
