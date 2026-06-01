@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-01T23:10:52.742Z",
+  "updatedAt": "2026-06-01T23:57:29.685Z",
   "items": [
     {
       "time": "06:33",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 2～3日に九州から関東に接近"
     },
     {
-      "time": "07:25",
-      "title": "蓄電池売上高3倍目標 戦略改定へ",
+      "time": "07:51",
+      "title": "内閣広報室のX 本格運用に移行へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582615?source=rss",
-      "publishedAt": "2026-06-01T22:25:01.000Z",
-      "xQuery": "蓄電池売上高3倍目標 戦略改定へ"
+      "url": "https://news.yahoo.co.jp/pickup/6582617?source=rss",
+      "publishedAt": "2026-06-01T22:51:13.000Z",
+      "xQuery": "内閣広報室のX 本格運用に移行へ"
     },
     {
       "time": "07:22",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "外国人の不動産取得 規制見送りへ"
     },
     {
-      "time": "06:21",
-      "title": "Anthropic 上場に向けIPO申請",
+      "time": "08:20",
+      "title": "母のケアマネ刺したか 男も死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582610?source=rss",
-      "publishedAt": "2026-06-01T21:21:57.000Z",
-      "xQuery": "Anthropic 上場に向けIPO申請"
+      "url": "https://news.yahoo.co.jp/pickup/6582618?source=rss",
+      "publishedAt": "2026-06-01T23:20:31.000Z",
+      "xQuery": "母のケアマネ刺したか 男も死亡"
     },
     {
-      "time": "07:36",
-      "title": "秀吉の備中高松城攻め 書状確認",
+      "time": "08:30",
+      "title": "事業所敷地内にクマ 4人がけが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582616?source=rss",
-      "publishedAt": "2026-06-01T22:36:57.000Z",
-      "xQuery": "秀吉の備中高松城攻め 書状確認"
+      "url": "https://news.yahoo.co.jp/pickup/6582621?source=rss",
+      "publishedAt": "2026-06-01T23:30:00.000Z",
+      "xQuery": "事業所敷地内にクマ 4人がけが"
     }
   ]
 };

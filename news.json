@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T23:10:51.816Z",
+  "updatedAt": "2026-06-01T23:57:28.948Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-06-01T04:30:00.000Z"
       },
       {
-        "time": "15:30",
-        "title": "工作機械用クロスローラーガイドの世界市場（2026年～2032年）、市場規模（標準型ガイド、ワイド型ガイド）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56aVh6VmFXNDhpRVFBSkxaM2lkUU83czRGcGl6VU50b2hxTDdBeXBQLWE1T0F4eFBoSEl4eXZVdHlnWEljVXpnWTVLNXV1SFk?oc=5",
-        "publishedAt": "2026-06-01T06:30:00.000Z"
-      },
-      {
         "time": "13:30",
         "title": "芝浦機械人事：人事",
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IVjcxeE10QktOMVJ5M09CNFlrV1dUbnRKVXJ1eGN2M1E3TW85aXdwYy1zU0JTNjZUWDFyQ0xfeEdhSHdQV3JGWGUyTUJtRVFaYzVjc293Z0F5SzY4RFJ3?oc=5",
         "publishedAt": "2026-06-01T04:30:00.000Z"
+      },
+      {
+        "time": "15:30",
+        "title": "工作機械用クロスローラーガイドの世界市場（2026年～2032年）、市場規模（標準型ガイド、ワイド型ガイド）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzUGZsZDlJcmN5blBrVzNRdXo5TVdvZ0dYUWhqMjF2UnZkc2VFakRQNnViY1ZqbFlxQ3F2bmp5dWtNS2NsT2ZYZVNnNUlZTm8?oc=5",
+        "publishedAt": "2026-06-01T06:30:00.000Z"
       },
       {
         "time": "05:01",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-06-01T03:25:36.000Z"
       },
       {
+        "time": "08:23",
+        "title": "米フロリダ州がOpenAIを提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582619?source=rss",
+        "publishedAt": "2026-06-01T23:23:40.000Z"
+      },
+      {
         "time": "19:08",
         "title": "米大統領口座で大量証券売買 波紋",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582578?source=rss",
         "publishedAt": "2026-06-01T10:08:09.000Z"
-      },
-      {
-        "time": "19:01",
-        "title": "北朝鮮刊行の地図 竹島記載せず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582579?source=rss",
-        "publishedAt": "2026-06-01T10:01:27.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:20",
+        "title": "母のケアマネ刺したか 男も死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582618?source=rss",
+        "publishedAt": "2026-06-01T23:20:31.000Z"
+      },
+      {
         "time": "00:01",
         "title": "台風 沖縄で少なくとも12人けが",
         "source": "Yahoo!ニュース",
@@ -156,11 +163,11 @@
         "publishedAt": "2026-06-01T15:01:47.000Z"
       },
       {
-        "time": "17:12",
-        "title": "九州南部・奄美 線状降水帯の恐れ",
+        "time": "08:30",
+        "title": "事業所敷地内にクマ 4人がけが",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582558?source=rss",
-        "publishedAt": "2026-06-01T08:12:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582621?source=rss",
+        "publishedAt": "2026-06-01T23:30:00.000Z"
       },
       {
         "time": "23:03",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582592?source=rss",
         "publishedAt": "2026-06-01T11:52:44.000Z"
-      },
-      {
-        "time": "18:06",
-        "title": "住宅で切り傷がある男女発見 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582568?source=rss",
-        "publishedAt": "2026-06-01T09:06:02.000Z"
       },
       {
         "time": "21:54",
