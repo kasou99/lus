@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T19:00:17.530Z",
+  "updatedAt": "2026-06-01T20:51:13.915Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pNFgzbXowdjRxLXdEMjJzS3paZkE3ZG8tUHJrS09jR3JTTHFFOEM3c04tcmpoamt1NWdNZTNWVVFpSW5sTUZKYzRjQWE3NWc?oc=5",
         "publishedAt": "2026-06-01T05:30:00.000Z"
-      },
-      {
-        "time": "19:01",
-        "title": "【社説】外為法改正で審査強化 対日投資妨げない高い透明性を",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSazVMX3hVZEtUWndRRmRzS2FVVjB0LUtxNzYzU2Rfb2Ztc1llaVQ4YlVsT0I3NlNTeF85OXdTU0JMWGpuUnpmOWpPbXFoMkpWVmtDWUhzQXR4MUhlSGRYS0NVcDFGdjg?oc=5",
-        "publishedAt": "2026-06-01T10:01:00.000Z"
       },
       {
         "time": "14:00",
@@ -31,6 +24,27 @@
         "publishedAt": "2026-06-01T00:00:02.000Z"
       },
       {
+        "time": "15:30",
+        "title": "工作機械用クロスローラーガイドの世界市場（2026年～2032年）、市場規模（標準型ガイド、ワイド型ガイド）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56aVh6VmFXNDhpRVFBSkxaM2lkUU83czRGcGl6VU50b2hxTDdBeXBQLWE1T0F4eFBoSEl4eXZVdHlnWEljVXpnWTVLNXV1SFk?oc=5",
+        "publishedAt": "2026-06-01T06:30:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "（社説）外為法の審査 投資妨げない透明性を",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WRDE3MVY1RXZuQU54TUtyRHhKR1ZZMHg4MTZfa200UTVUR3JLQ3hqZlFKZ0RiVjQ1WWZGLTktSXdXOVhPcTRuWlF1a19oS21LTElELXFRLUxUXzh5?oc=5",
+        "publishedAt": "2026-06-01T20:00:00.000Z"
+      },
+      {
+        "time": "05:01",
+        "title": "野村製作所、主軸径90mmで高精度 横中ぐりフライス盤投入",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LZnctT29qT29qUkdfTkZpQy1DZEpjem1JZ1hYSTNySjNQSkxzLVQwNjhDN3puelFjRzMwcWk1WHN5X0lBWmxVSWNyVHpfMy0wSG1VZUFFNkg3cDg?oc=5",
+        "publishedAt": "2026-06-01T20:01:15.000Z"
+      },
+      {
         "time": "13:30",
         "title": "ACリニアモーター市場が今注目される3つの理由：成長ドライバーを徹底分析 Global Reports",
         "source": "ドリームニュース",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-06-01T04:30:00.000Z"
       },
       {
-        "time": "05:30",
-        "title": "ニデック、「永守氏肝いり」の工作機械も縮小へ",
-        "source": "newspicks.com",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51b3otbV9tSTFxQWlRd3pFd2ktVUxURkVtRmpzVXJtaUV6NTF1bDREZExHYkxuV3Z1MFRzUXZJR193US13dWJtUTJNT3lLWHp4QU5V?oc=5",
-        "publishedAt": "2026-05-31T20:30:02.000Z"
-      },
-      {
         "time": "13:30",
         "title": "芝浦機械人事：人事",
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IVjcxeE10QktOMVJ5M09CNFlrV1dUbnRKVXJ1eGN2M1E3TW85aXdwYy1zU0JTNjZUWDFyQ0xfeEdhSHdQV3JGWGUyTUJtRVFaYzVjc293Z0F5SzY4RFJ3?oc=5",
         "publishedAt": "2026-06-01T04:30:00.000Z"
-      },
-      {
-        "time": "15:30",
-        "title": "工作機械用クロスローラーガイドの世界市場（2026年～2032年）、市場規模（標準型ガイド、ワイド型ガイド）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzUGZsZDlJcmN5blBrVzNRdXo5TVdvZ0dYUWhqMjF2UnZkc2VFakRQNnViY1ZqbFlxQ3F2bmp5dWtNS2NsT2ZYZVNnNUlZTm8?oc=5",
-        "publishedAt": "2026-06-01T06:30:00.000Z"
       }
     ],
     "worldHeadlines": [
