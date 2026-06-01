@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-05-31T23:30:15.475Z",
+  "updatedAt": "2026-06-01T01:18:38.383Z",
   "items": [
     {
-      "time": "06:44",
-      "title": "台風6号 夜に沖縄本島に最接近",
+      "time": "09:26",
+      "title": "台風6号 九州～近畿も次第に雨",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582485?source=rss",
-      "publishedAt": "2026-05-31T21:44:38.000Z",
-      "xQuery": "台風6号 夜に沖縄本島に最接近"
+      "url": "https://news.yahoo.co.jp/pickup/6582502?source=rss",
+      "publishedAt": "2026-06-01T00:26:16.000Z",
+      "xQuery": "台風6号 九州～近畿も次第に雨"
     },
     {
-      "time": "07:45",
-      "title": "富士山閉山期に年1万人登山 推計",
+      "time": "09:28",
+      "title": "日経平均 取引時間中の最高値更新",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582491?source=rss",
-      "publishedAt": "2026-05-31T22:45:05.000Z",
-      "xQuery": "富士山閉山期に年1万人登山 推計"
+      "url": "https://news.yahoo.co.jp/pickup/6582506?source=rss",
+      "publishedAt": "2026-06-01T00:28:33.000Z",
+      "xQuery": "日経平均 取引時間中の最高値更新"
     },
     {
-      "time": "07:40",
-      "title": "ホンダ系下請法違反 公取委勧告へ",
+      "time": "08:59",
+      "title": "中立公 新たな「新党」構想が浮上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582490?source=rss",
-      "publishedAt": "2026-05-31T22:40:00.000Z",
-      "xQuery": "ホンダ系下請法違反 公取委勧告へ"
+      "url": "https://news.yahoo.co.jp/pickup/6582501?source=rss",
+      "publishedAt": "2026-05-31T23:59:57.000Z",
+      "xQuery": "中立公 新たな「新党」構想が浮上"
     },
     {
-      "time": "07:35",
-      "title": "「主務教諭」新規配置は実質ゼロ",
+      "time": "09:06",
+      "title": "自転車で追突 オランダ人女性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582489?source=rss",
-      "publishedAt": "2026-05-31T22:35:19.000Z",
-      "xQuery": "「主務教諭」新規配置は実質ゼロ"
+      "url": "https://news.yahoo.co.jp/pickup/6582500?source=rss",
+      "publishedAt": "2026-06-01T00:06:38.000Z",
+      "xQuery": "自転車で追突 オランダ人女性死亡"
     },
     {
-      "time": "07:24",
-      "title": "売却想定 住信SBIが新住宅ローン",
+      "time": "10:00",
+      "title": "賞金12億円 ジャンボ史上最高額に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582488?source=rss",
-      "publishedAt": "2026-05-31T22:24:29.000Z",
-      "xQuery": "売却想定 住信SBIが新住宅ローン"
+      "url": "https://news.yahoo.co.jp/pickup/6582510?source=rss",
+      "publishedAt": "2026-06-01T01:00:16.000Z",
+      "xQuery": "賞金12億円 ジャンボ史上最高額に"
     }
   ]
 };
