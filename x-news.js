@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-01T05:48:13.351Z",
+  "updatedAt": "2026-06-01T08:06:06.735Z",
   "items": [
     {
-      "time": "13:23",
-      "title": "台風 西～東日本は3日にかけ警戒",
+      "time": "16:13",
+      "title": "台風は今夜沖縄本島に最接近 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582538?source=rss",
-      "publishedAt": "2026-06-01T04:23:35.000Z",
-      "xQuery": "台風 西～東日本は3日にかけ警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6582550?source=rss",
+      "publishedAt": "2026-06-01T07:13:57.000Z",
+      "xQuery": "台風は今夜沖縄本島に最接近 警戒"
     },
     {
-      "time": "14:40",
-      "title": "米AI事業に日本参画 対中優位狙い",
+      "time": "16:14",
+      "title": "東証終値6万6934円 史上最高値",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582544?source=rss",
-      "publishedAt": "2026-06-01T05:40:32.000Z",
-      "xQuery": "米AI事業に日本参画 対中優位狙い"
+      "url": "https://news.yahoo.co.jp/pickup/6582549?source=rss",
+      "publishedAt": "2026-06-01T07:14:25.000Z",
+      "xQuery": "東証終値6万6934円 史上最高値"
     },
     {
-      "time": "12:25",
-      "title": "トランプ氏 なぜオマーンを威嚇",
+      "time": "16:21",
+      "title": "大企業で相次ぐ黒字リストラ なぜ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582523?source=rss",
-      "publishedAt": "2026-06-01T03:25:36.000Z",
-      "xQuery": "トランプ氏 なぜオマーンを威嚇"
+      "url": "https://news.yahoo.co.jp/pickup/6582553?source=rss",
+      "publishedAt": "2026-06-01T07:21:10.000Z",
+      "xQuery": "大企業で相次ぐ黒字リストラ なぜ"
     },
     {
-      "time": "12:35",
-      "title": "フラット35 最低金利が初の3%超",
+      "time": "16:56",
+      "title": "Micro被告初公判 起訴内容認める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582532?source=rss",
-      "publishedAt": "2026-06-01T03:35:26.000Z",
-      "xQuery": "フラット35 最低金利が初の3%超"
+      "url": "https://news.yahoo.co.jp/pickup/6582557?source=rss",
+      "publishedAt": "2026-06-01T07:56:36.000Z",
+      "xQuery": "Micro被告初公判 起訴内容認める"
     },
     {
-      "time": "14:03",
-      "title": "2人死亡 バス衝突後引きずったか",
+      "time": "16:22",
+      "title": "TOHOシネマズ 料金一部値上げへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582540?source=rss",
-      "publishedAt": "2026-06-01T05:03:48.000Z",
-      "xQuery": "2人死亡 バス衝突後引きずったか"
+      "url": "https://news.yahoo.co.jp/pickup/6582552?source=rss",
+      "publishedAt": "2026-06-01T07:22:32.000Z",
+      "xQuery": "TOHOシネマズ 料金一部値上げへ"
     }
   ]
 };
