@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-02T02:26:23.574Z",
+  "updatedAt": "2026-06-02T03:51:21.602Z",
   "items": [
     {
-      "time": "09:28",
-      "title": "台風6号接近 奄美大島が暴風域に",
+      "time": "12:04",
+      "title": "台風 西日本は明日にかけ大雨警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582627?source=rss",
-      "publishedAt": "2026-06-02T00:28:27.000Z",
-      "xQuery": "台風6号接近 奄美大島が暴風域に"
+      "url": "https://news.yahoo.co.jp/pickup/6582651?source=rss",
+      "publishedAt": "2026-06-02T03:04:13.000Z",
+      "xQuery": "台風 西日本は明日にかけ大雨警戒"
     },
     {
-      "time": "08:35",
-      "title": "出生前診断 10年余りで4倍に増加",
+      "time": "11:31",
+      "title": "四国地方梅雨入り 早々に大雨警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582620?source=rss",
-      "publishedAt": "2026-06-01T23:35:26.000Z",
-      "xQuery": "出生前診断 10年余りで4倍に増加"
+      "url": "https://news.yahoo.co.jp/pickup/6582640?source=rss",
+      "publishedAt": "2026-06-02T02:31:12.000Z",
+      "xQuery": "四国地方梅雨入り 早々に大雨警戒"
     },
     {
-      "time": "11:13",
-      "title": "損傷の激しい遺体 近くでクマ捕獲",
+      "time": "12:24",
+      "title": "人材派遣大手5社 カルテル疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582637?source=rss",
-      "publishedAt": "2026-06-02T02:13:04.000Z",
-      "xQuery": "損傷の激しい遺体 近くでクマ捕獲"
+      "url": "https://news.yahoo.co.jp/pickup/6582656?source=rss",
+      "publishedAt": "2026-06-02T03:24:20.000Z",
+      "xQuery": "人材派遣大手5社 カルテル疑い"
     },
     {
-      "time": "10:11",
-      "title": "自転車と衝突 歩行者が意識不明",
+      "time": "11:41",
+      "title": "為替 必要に応じて対応と財務相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582632?source=rss",
-      "publishedAt": "2026-06-02T01:11:34.000Z",
-      "xQuery": "自転車と衝突 歩行者が意識不明"
+      "url": "https://news.yahoo.co.jp/pickup/6582645?source=rss",
+      "publishedAt": "2026-06-02T02:41:45.000Z",
+      "xQuery": "為替 必要に応じて対応と財務相"
     },
     {
-      "time": "10:40",
-      "title": "マンジャロ違法販売疑い 書類送検",
+      "time": "12:13",
+      "title": "浜辺などに女性3人 いずれも死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582634?source=rss",
-      "publishedAt": "2026-06-02T01:40:51.000Z",
-      "xQuery": "マンジャロ違法販売疑い 書類送検"
+      "url": "https://news.yahoo.co.jp/pickup/6582653?source=rss",
+      "publishedAt": "2026-06-02T03:13:33.000Z",
+      "xQuery": "浜辺などに女性3人 いずれも死亡"
     }
   ]
 };
