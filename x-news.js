@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-01T23:57:29.685Z",
+  "updatedAt": "2026-06-02T01:22:27.531Z",
   "items": [
     {
-      "time": "06:33",
-      "title": "台風 2～3日に九州から関東に接近",
+      "time": "09:28",
+      "title": "台風6号接近 奄美大島が暴風域に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582611?source=rss",
-      "publishedAt": "2026-06-01T21:33:01.000Z",
-      "xQuery": "台風 2～3日に九州から関東に接近"
+      "url": "https://news.yahoo.co.jp/pickup/6582627?source=rss",
+      "publishedAt": "2026-06-02T00:28:27.000Z",
+      "xQuery": "台風6号接近 奄美大島が暴風域に"
     },
     {
-      "time": "07:51",
-      "title": "内閣広報室のX 本格運用に移行へ",
+      "time": "09:51",
+      "title": "露がキーウに大規模攻撃 住宅炎上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582617?source=rss",
-      "publishedAt": "2026-06-01T22:51:13.000Z",
-      "xQuery": "内閣広報室のX 本格運用に移行へ"
+      "url": "https://news.yahoo.co.jp/pickup/6582629?source=rss",
+      "publishedAt": "2026-06-02T00:51:20.000Z",
+      "xQuery": "露がキーウに大規模攻撃 住宅炎上"
     },
     {
-      "time": "07:22",
-      "title": "外国人の不動産取得 規制見送りへ",
+      "time": "09:56",
+      "title": "自賠責運用益の助成金 不正相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582614?source=rss",
-      "publishedAt": "2026-06-01T22:22:32.000Z",
-      "xQuery": "外国人の不動産取得 規制見送りへ"
+      "url": "https://news.yahoo.co.jp/pickup/6582630?source=rss",
+      "publishedAt": "2026-06-02T00:56:43.000Z",
+      "xQuery": "自賠責運用益の助成金 不正相次ぐ"
     },
     {
       "time": "08:20",
