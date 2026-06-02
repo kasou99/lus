@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T07:54:23.785Z",
+  "updatedAt": "2026-06-02T09:39:16.107Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,25 @@
         "publishedAt": "2026-06-02T01:41:24.000Z"
       },
       {
+        "time": "10:46",
+        "title": "【6/17（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96Nk9wclJzSW5xOFZXV2lYaHZhelJoeEU1dDgxN2hYcnhkS1VlNWZrbkUyMEJaSFdUdUhUSEpDWFplS0ZUVmRZRGtxOUx0YW45dTk0NmwwM1h3eVZISXZzVjNyR3NYb1JLZXQw?oc=5",
+        "publishedAt": "2026-06-02T01:46:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "（社説）外為法の審査 投資妨げない透明性を",
         "source": "朝日新聞",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WRDE3MVY1RXZuQU54TUtyRHhKR1ZZMHg4MTZfa200UTVUR3JLQ3hqZlFKZ0RiVjQ1WWZGLTktSXdXOVhPcTRuWlF1a19oS21LTElELXFRLUxUXzh5?oc=5",
         "publishedAt": "2026-06-01T20:00:00.000Z"
+      },
+      {
+        "time": "12:57",
+        "title": "野村製作所、主軸径90mmで高精度 横中ぐりフライス盤投入",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LZnctT29qT29qUkdfTkZpQy1DZEpjem1JZ1hYSTNySjNQSkxzLVQwNjhDN3puelFjRzMwcWk1WHN5X0lBWmxVSWNyVHpfMy0wSG1VZUFFNkg3cDg?oc=5",
+        "publishedAt": "2026-06-02T03:57:31.000Z"
       },
       {
         "time": "10:00",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-06-02T04:00:00.000Z"
       },
       {
-        "time": "09:17",
-        "title": "野村製作所、主軸径90mmで高精度 横中ぐりフライス盤投入",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LZnctT29qT29qUkdfTkZpQy1DZEpjem1JZ1hYSTNySjNQSkxzLVQwNjhDN3puelFjRzMwcWk1WHN5X0lBWmxVSWNyVHpfMy0wSG1VZUFFNkg3cDg?oc=5",
-        "publishedAt": "2026-06-02T00:17:01.000Z"
-      },
-      {
         "time": "12:28",
         "title": "【2026年6月・産業用PC向け】XP以前の旧OSに対応！「HDD/SSDクローン作成サービス」を強化",
         "source": "ASCII.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83SURtd0hGcHR0MWhVN0R4ZWZ0cTFZVC1waUt2c1dZUmhObXotVmd6QTFJeDFCYkVyTHJVSHlraURHVXdBbEI3TWU5RGFmXzlBWkstTQ?oc=5",
         "publishedAt": "2026-06-02T03:28:03.000Z"
-      },
-      {
-        "time": "09:30",
-        "title": "中電圧ACサーボモーター・ドライブの世界市場（2026年～2032年）、市場規模（モーター、ドライブ）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41OFNDSHhSOGlMQWVtSVlrMjYxVEwxUjFqdG56SnJmc2d5WVlJZ1N6Sm56ejJkYTF6NkNGUnFXVGVvQjJkNF9GYTJCRUtZckE?oc=5",
-        "publishedAt": "2026-06-02T00:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,13 +82,6 @@
         "publishedAt": "2026-06-01T14:56:48.000Z"
       },
       {
-        "time": "20:08",
-        "title": "米軍基地を攻撃 イラン側が発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582588?source=rss",
-        "publishedAt": "2026-06-01T11:08:42.000Z"
-      },
-      {
         "time": "13:45",
         "title": "アフリカで同性愛厳罰化 進む背景",
         "source": "Yahoo!ニュース",
@@ -101,9 +94,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582598?source=rss",
         "publishedAt": "2026-06-01T13:22:58.000Z"
+      },
+      {
+        "time": "09:33",
+        "title": "金正恩氏 演説で不正蓄財を批判",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582628?source=rss",
+        "publishedAt": "2026-06-02T00:33:38.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "17:48",
+        "title": "鶏肉の需要増は「節約志向」農相",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582689?source=rss",
+        "publishedAt": "2026-06-02T08:48:05.000Z"
+      },
       {
         "time": "12:24",
         "title": "人材派遣大手5社 カルテル疑い",
@@ -126,13 +133,6 @@
         "publishedAt": "2026-06-02T04:38:08.000Z"
       },
       {
-        "time": "10:59",
-        "title": "マンション修繕に遅れ ナフサ巡り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582635?source=rss",
-        "publishedAt": "2026-06-02T01:59:48.000Z"
-      },
-      {
         "time": "12:15",
         "title": "豊橋のアリーナ事業費 40億円増額",
         "source": "Yahoo!ニュース",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-06-02T03:15:55.000Z"
       },
       {
-        "time": "15:22",
-        "title": "中華料理店の倒産 減少の可能性",
+        "time": "17:39",
+        "title": "スーパー「Olympic」なぜ弱体化",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582671?source=rss",
-        "publishedAt": "2026-06-02T06:22:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582685?source=rss",
+        "publishedAt": "2026-06-02T08:39:21.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-06-02T02:13:04.000Z"
       },
       {
+        "time": "18:25",
+        "title": "トラックに挟まれ 軽の運転手死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582691?source=rss",
+        "publishedAt": "2026-06-02T09:25:22.000Z"
+      },
+      {
         "time": "10:11",
         "title": "自転車と衝突 歩行者が意識不明",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582634?source=rss",
         "publishedAt": "2026-06-02T01:40:51.000Z"
-      },
-      {
-        "time": "15:24",
-        "title": "ゴミ袋買えない苦情相次ぎ 市調査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582672?source=rss",
-        "publishedAt": "2026-06-02T06:24:11.000Z"
       }
     ],
     "subsidyHeadlines": [

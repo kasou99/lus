@@ -1,21 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-02T07:54:24.542Z",
+  "updatedAt": "2026-06-02T09:39:16.720Z",
   "items": [
     {
-      "time": "15:49",
-      "title": "全国初レベル4氾濫危険警報 宮崎",
+      "time": "18:16",
+      "title": "台風接近 大雨エリア徐々に東へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582674?source=rss",
-      "publishedAt": "2026-06-02T06:49:06.000Z",
-      "xQuery": "全国初レベル4氾濫危険警報 宮崎"
+      "url": "https://news.yahoo.co.jp/pickup/6582693?source=rss",
+      "publishedAt": "2026-06-02T09:16:31.000Z",
+      "xQuery": "台風接近 大雨エリア徐々に東へ"
     },
     {
-      "time": "15:09",
-      "title": "台風 各地で線状降水帯発生の恐れ",
+      "time": "17:23",
+      "title": "消費減税巡る報道 木原氏コメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582669?source=rss",
-      "publishedAt": "2026-06-02T06:09:51.000Z",
-      "xQuery": "台風 各地で線状降水帯発生の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6582683?source=rss",
+      "publishedAt": "2026-06-02T08:23:57.000Z",
+      "xQuery": "消費減税巡る報道 木原氏コメント"
+    },
+    {
+      "time": "17:58",
+      "title": "早紀江さん 滋さんに「ごめんね」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582690?source=rss",
+      "publishedAt": "2026-06-02T08:58:44.000Z",
+      "xQuery": "早紀江さん 滋さんに「ごめんね」"
+    },
+    {
+      "time": "18:25",
+      "title": "トラックに挟まれ 軽の運転手死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582691?source=rss",
+      "publishedAt": "2026-06-02T09:25:22.000Z",
+      "xQuery": "トラックに挟まれ 軽の運転手死亡"
     },
     {
       "time": "15:24",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582672?source=rss",
       "publishedAt": "2026-06-02T06:24:11.000Z",
       "xQuery": "ゴミ袋買えない苦情相次ぎ 市調査"
-    },
-    {
-      "time": "14:04",
-      "title": "マンジャロSNSで拡散 副作用も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582667?source=rss",
-      "publishedAt": "2026-06-02T05:04:08.000Z",
-      "xQuery": "マンジャロSNSで拡散 副作用も"
-    },
-    {
-      "time": "15:22",
-      "title": "中華料理店の倒産 減少の可能性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582671?source=rss",
-      "publishedAt": "2026-06-02T06:22:43.000Z",
-      "xQuery": "中華料理店の倒産 減少の可能性"
     }
   ]
 };
