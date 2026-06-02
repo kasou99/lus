@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-02T03:51:21.602Z",
+  "updatedAt": "2026-06-02T05:44:30.353Z",
   "items": [
     {
       "time": "12:04",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 西日本は明日にかけ大雨警戒"
     },
     {
-      "time": "11:31",
-      "title": "四国地方梅雨入り 早々に大雨警戒",
+      "time": "12:53",
+      "title": "トランプ氏 イスラエル首相に怒り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582640?source=rss",
-      "publishedAt": "2026-06-02T02:31:12.000Z",
-      "xQuery": "四国地方梅雨入り 早々に大雨警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6582659?source=rss",
+      "publishedAt": "2026-06-02T03:53:28.000Z",
+      "xQuery": "トランプ氏 イスラエル首相に怒り"
     },
     {
-      "time": "12:24",
-      "title": "人材派遣大手5社 カルテル疑い",
+      "time": "12:54",
+      "title": "露がウ各地に大規模攻撃 住宅損壊",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582656?source=rss",
-      "publishedAt": "2026-06-02T03:24:20.000Z",
-      "xQuery": "人材派遣大手5社 カルテル疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6582661?source=rss",
+      "publishedAt": "2026-06-02T03:54:10.000Z",
+      "xQuery": "露がウ各地に大規模攻撃 住宅損壊"
     },
     {
-      "time": "11:41",
-      "title": "為替 必要に応じて対応と財務相",
+      "time": "13:38",
+      "title": "台風接近 レジャー施設休業相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582645?source=rss",
-      "publishedAt": "2026-06-02T02:41:45.000Z",
-      "xQuery": "為替 必要に応じて対応と財務相"
+      "url": "https://news.yahoo.co.jp/pickup/6582664?source=rss",
+      "publishedAt": "2026-06-02T04:38:08.000Z",
+      "xQuery": "台風接近 レジャー施設休業相次ぐ"
     },
     {
-      "time": "12:13",
-      "title": "浜辺などに女性3人 いずれも死亡",
+      "time": "12:17",
+      "title": "ジムの女性専用部屋から男性 物議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582653?source=rss",
-      "publishedAt": "2026-06-02T03:13:33.000Z",
-      "xQuery": "浜辺などに女性3人 いずれも死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6582650?source=rss",
+      "publishedAt": "2026-06-02T03:17:17.000Z",
+      "xQuery": "ジムの女性専用部屋から男性 物議"
     }
   ]
 };
