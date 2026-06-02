@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-02T09:39:16.720Z",
+  "updatedAt": "2026-06-02T11:38:20.036Z",
   "items": [
     {
-      "time": "18:16",
-      "title": "台風接近 大雨エリア徐々に東へ",
+      "time": "20:33",
+      "title": "台風 3日朝は関東や東海で大荒れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582693?source=rss",
-      "publishedAt": "2026-06-02T09:16:31.000Z",
-      "xQuery": "台風接近 大雨エリア徐々に東へ"
+      "url": "https://news.yahoo.co.jp/pickup/6582708?source=rss",
+      "publishedAt": "2026-06-02T11:33:38.000Z",
+      "xQuery": "台風 3日朝は関東や東海で大荒れ"
     },
     {
-      "time": "17:23",
-      "title": "消費減税巡る報道 木原氏コメント",
+      "time": "20:25",
+      "title": "「線状降水帯」情報 発表に不具合",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582683?source=rss",
-      "publishedAt": "2026-06-02T08:23:57.000Z",
-      "xQuery": "消費減税巡る報道 木原氏コメント"
+      "url": "https://news.yahoo.co.jp/pickup/6582706?source=rss",
+      "publishedAt": "2026-06-02T11:25:01.000Z",
+      "xQuery": "「線状降水帯」情報 発表に不具合"
+    },
+    {
+      "time": "20:16",
+      "title": "補正予算案が判明 全額赤字国債で",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582707?source=rss",
+      "publishedAt": "2026-06-02T11:16:31.000Z",
+      "xQuery": "補正予算案が判明 全額赤字国債で"
     },
     {
       "time": "17:58",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582691?source=rss",
       "publishedAt": "2026-06-02T09:25:22.000Z",
       "xQuery": "トラックに挟まれ 軽の運転手死亡"
-    },
-    {
-      "time": "15:24",
-      "title": "ゴミ袋買えない苦情相次ぎ 市調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582672?source=rss",
-      "publishedAt": "2026-06-02T06:24:11.000Z",
-      "xQuery": "ゴミ袋買えない苦情相次ぎ 市調査"
     }
   ]
 };
