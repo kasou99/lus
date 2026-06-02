@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-02T17:42:30.539Z",
+  "updatedAt": "2026-06-02T19:26:50.457Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "09:30",
-        "title": "中電圧ACサーボモーター・ドライブの世界市場（2026年～2032年）、市場規模（モーター、ドライブ）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNTk5VNFlPU2dyODk4cnJ6bDhEN0FaekNVZXk1NVF6WjJGQlZTbVV2NTJ1Z2ZJT3ZjdjJBeFF4T0c1NG9SSUhXMXpkZmY3Zw?oc=5",
-        "publishedAt": "2026-06-02T00:30:00.000Z"
-      },
       {
         "time": "10:00",
         "title": "高電圧ACサーボモーター・ドライブの世界市場（2026年～2032年）、市場規模（モーター、ドライブ）・分析レポートを発表",
         "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BTVRRNUNiM29uZmkxTjNiQnY1dHMyQi1kbVFPaHBTN0ljUFdqUFZ1R25RZTVfSmpIdXM4UTRXZE5NQmpxd3pBay1ZQjFZTXM?oc=5",
         "publishedAt": "2026-06-02T01:00:00.000Z"
+      },
+      {
+        "time": "09:30",
+        "title": "中電圧ACサーボモーター・ドライブの世界市場（2026年～2032年）、市場規模（モーター、ドライブ）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNTk5VNFlPU2dyODk4cnJ6bDhEN0FaekNVZXk1NVF6WjJGQlZTbVV2NTJ1Z2ZJT3ZjdjJBeFF4T0c1NG9SSUhXMXpkZmY3Zw?oc=5",
+        "publishedAt": "2026-06-02T00:30:00.000Z"
       },
       {
         "time": "10:41",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-01T20:00:00.000Z"
       },
       {
-        "time": "12:57",
-        "title": "野村製作所、主軸径90mmで高精度 横中ぐりフライス盤投入",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LZnctT29qT29qUkdfTkZpQy1DZEpjem1JZ1hYSTNySjNQSkxzLVQwNjhDN3puelFjRzMwcWk1WHN5X0lBWmxVSWNyVHpfMy0wSG1VZUFFNkg3cDg?oc=5",
-        "publishedAt": "2026-06-02T03:57:31.000Z"
-      },
-      {
         "time": "09:30",
         "title": "低電圧ACサーボモーター・ドライブの世界市場（2026年～2032年）、市場規模（モーター、ドライブ）・分析レポートを発表",
         "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91V0J0Y0hkaEp6ZmZTQ2pJZEFTbGphN29RMnVXSUpRWkJGSWtqR3hZdWdkbGxnQkp0ODhKS3VjaVlwdkRCZDMzQnpmQmUybW8?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rdFBLNzUxenA3YUhGWlBGcVpVOFlVSTVwb29YRU1JckRpS182TkFqVFhLSFpDTUlzOG1RMElsLTZjTDIwa25UVGpBdW5kQQ?oc=5",
         "publishedAt": "2026-06-02T00:30:00.000Z"
+      },
+      {
+        "time": "09:33",
+        "title": "地域経済の今（15）栃木・さくら市の企業誘致 産業団地整備を加速",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83OXVlVXd5bGNSTG5lZTlOUnNnLXRzeFh2c1ZWeGxqNnFCcl9KSXc2TWpISWN4dEdpTEwzcTFNaGRLeW85NmxBYVFrajVwMVR4cDNLY1k3dWU?oc=5",
+        "publishedAt": "2026-06-02T00:33:45.000Z"
       }
     ],
     "worldHeadlines": [
