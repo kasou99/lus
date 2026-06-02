@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-02T20:29:48.933Z",
+  "updatedAt": "2026-06-02T21:35:56.053Z",
   "items": [
+    {
+      "time": "05:53",
+      "title": "和歌山県の古座川に氾濫特別警報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582727?source=rss",
+      "publishedAt": "2026-06-02T20:53:33.000Z",
+      "xQuery": "和歌山県の古座川に氾濫特別警報"
+    },
     {
       "time": "04:59",
       "title": "台風6号 和歌山県南部に上陸",
@@ -8,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582725?source=rss",
       "publishedAt": "2026-06-02T19:59:07.000Z",
       "xQuery": "台風6号 和歌山県南部に上陸"
+    },
+    {
+      "time": "05:27",
+      "title": "台風6号 関東は朝から雨風ピーク",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582726?source=rss",
+      "publishedAt": "2026-06-02T20:27:11.000Z",
+      "xQuery": "台風6号 関東は朝から雨風ピーク"
     },
     {
       "time": "23:46",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東京などで線状降水帯発生の恐れ"
     },
     {
-      "time": "13:45",
-      "title": "アフリカで同性愛厳罰化 進む背景",
+      "time": "06:32",
+      "title": "セブン 全国2万店から過大徴収",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582658?source=rss",
-      "publishedAt": "2026-06-02T04:45:53.000Z",
-      "xQuery": "アフリカで同性愛厳罰化 進む背景"
-    },
-    {
-      "time": "23:34",
-      "title": "クマ襲撃 従業員を追いかける映像",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582721?source=rss",
-      "publishedAt": "2026-06-02T14:34:21.000Z",
-      "xQuery": "クマ襲撃 従業員を追いかける映像"
-    },
-    {
-      "time": "22:22",
-      "title": "2万羽が焼け死んだ養鶏場 客続々",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582717?source=rss",
-      "publishedAt": "2026-06-02T13:22:16.000Z",
-      "xQuery": "2万羽が焼け死んだ養鶏場 客続々"
+      "url": "https://news.yahoo.co.jp/pickup/6582728?source=rss",
+      "publishedAt": "2026-06-02T21:32:22.000Z",
+      "xQuery": "セブン 全国2万店から過大徴収"
     }
   ]
 };

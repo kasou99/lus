@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T20:29:48.166Z",
+  "updatedAt": "2026-06-02T21:35:50.054Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,11 @@
         "publishedAt": "2026-06-02T01:41:24.000Z"
       },
       {
-        "time": "05:17",
-        "title": "パナソニックEW、インフラ劣化管理を効率化 自治体向けアプリ",
+        "time": "05:04",
+        "title": "点描／一人歩き 危険を疑似体験 トヨタ基金がイベント",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByeXE5QTVJYUJPc19oZTlWVjR4Z0RQZHk2NDFDblJrQ09MSi1LeHRwb0ZuUGdtTVFvN0NPOWRYTTRjdEc3Nno1dnk4TmhudFV3cVB3MjBTZlNiV1pXZUpLYWwzWDd3ZlpNaFVjQ2VaSXZHS214?oc=5",
-        "publishedAt": "2026-06-02T20:17:33.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HYjM4OXdvRjNPcG4wV3p5UTZ4LUN5WWRDaFI2ejlUT2hIVzE4V0JJMTM3QVMzcVRzLUZ2RFlrZWdyenF6RVI5cGlqX05nWTltelRMRVZJeFhuT28?oc=5",
+        "publishedAt": "2026-06-02T20:04:28.000Z"
       },
       {
         "time": "09:00",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-06-02T00:30:00.000Z"
       },
       {
-        "time": "21:48",
-        "title": "【2026年6月・産業用PC向け】XP以前の旧OSに対応！「HDD/SSDクローン作成サービス」を強化",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzTUo5ZkNBTE9wSjRONW0zb1VxaEhFTHU5NzlMVTdocmhzZDhKWm5yYWhubzZWVWJtUUMtVllIdmxkY3pQdlNuX0RJVXE1a0lmWTNUbw?oc=5",
-        "publishedAt": "2026-06-02T12:48:34.000Z"
+        "time": "05:17",
+        "title": "パナソニックEW、インフラ劣化管理を効率化 自治体向けアプリ",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByeXE5QTVJYUJPc19oZTlWVjR4Z0RQZHk2NDFDblJrQ09MSi1LeHRwb0ZuUGdtTVFvN0NPOWRYTTRjdEc3Nno1dnk4TmhudFV3cVB3MjBTZlNiV1pXZUpLYWwzWDd3ZlpNaFVjQ2VaSXZHS214?oc=5",
+        "publishedAt": "2026-06-02T20:17:33.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "06:32",
+        "title": "セブン 全国2万店から過大徴収",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582728?source=rss",
+        "publishedAt": "2026-06-02T21:32:22.000Z"
+      },
+      {
         "time": "17:48",
         "title": "鶏肉の需要増は「節約志向」農相",
         "source": "Yahoo!ニュース",
@@ -138,22 +145,15 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582717?source=rss",
         "publishedAt": "2026-06-02T13:22:16.000Z"
-      },
-      {
-        "time": "17:39",
-        "title": "スーパー「Olympic」なぜ弱体化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582685?source=rss",
-        "publishedAt": "2026-06-02T08:39:21.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "11:31",
-        "title": "四国地方梅雨入り 早々に大雨警戒",
+        "time": "05:53",
+        "title": "和歌山県の古座川に氾濫特別警報",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582640?source=rss",
-        "publishedAt": "2026-06-02T02:31:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582727?source=rss",
+        "publishedAt": "2026-06-02T20:53:33.000Z"
       },
       {
         "time": "19:25",
