@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-02T13:33:41.495Z",
+  "updatedAt": "2026-06-02T15:34:34.088Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "10:00",
-        "title": "高電圧ACサーボモーター・ドライブの世界市場（2026年～2032年）、市場規模（モーター、ドライブ）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BTVRRNUNiM29uZmkxTjNiQnY1dHMyQi1kbVFPaHBTN0ljUFdqUFZ1R25RZTVfSmpIdXM4UTRXZE5NQmpxd3pBay1ZQjFZTXM?oc=5",
-        "publishedAt": "2026-06-02T01:00:00.000Z"
-      },
       {
         "time": "09:30",
         "title": "中電圧ACサーボモーター・ドライブの世界市場（2026年～2032年）、市場規模（モーター、ドライブ）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNTk5VNFlPU2dyODk4cnJ6bDhEN0FaekNVZXk1NVF6WjJGQlZTbVV2NTJ1Z2ZJT3ZjdjJBeFF4T0c1NG9SSUhXMXpkZmY3Zw?oc=5",
         "publishedAt": "2026-06-02T00:30:00.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "高電圧ACサーボモーター・ドライブの世界市場（2026年～2032年）、市場規模（モーター、ドライブ）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BTVRRNUNiM29uZmkxTjNiQnY1dHMyQi1kbVFPaHBTN0ljUFdqUFZ1R25RZTVfSmpIdXM4UTRXZE5NQmpxd3pBay1ZQjFZTXM?oc=5",
+        "publishedAt": "2026-06-02T01:00:00.000Z"
       },
       {
         "time": "10:41",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-06-02T10:25:44.000Z"
       },
       {
+        "time": "23:34",
+        "title": "クマ襲撃 従業員を追いかける映像",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582721?source=rss",
+        "publishedAt": "2026-06-02T14:34:21.000Z"
+      },
+      {
         "time": "20:46",
         "title": "ケアマネ死亡 首切られ失血死か",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582714?source=rss",
         "publishedAt": "2026-06-02T12:52:16.000Z"
-      },
-      {
-        "time": "18:25",
-        "title": "トラックに挟まれ 軽の運転手死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582691?source=rss",
-        "publishedAt": "2026-06-02T09:25:22.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "18:25",
+        "title": "中小企業省力化投資補助金とは？カタログ型・一般型の違い・対象・補助額を解説【2026年版】",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TLVJ4ZkdITm9KX2x1Q1BwWGZqM3lid3BDdkItOWRGR3JOWm1tcEZZYnlmd0tYM2twTE1Zc25qTXVnZG1uQzh6QWlxWms3eDdFYW1rdlpxUG1LVUl3cHF0RnZJeEtsdXBFTm9fdg?oc=5",
+        "publishedAt": "2026-06-02T09:25:31.000Z"
       }
     ]
   }

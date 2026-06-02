@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-02T13:33:42.654Z",
+  "updatedAt": "2026-06-02T15:34:34.626Z",
   "items": [
     {
       "time": "22:23",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "台風6号 各地の警戒期間や注意点"
     },
     {
-      "time": "21:06",
-      "title": "米イスラエル両首脳に緊張 背景は",
+      "time": "23:46",
+      "title": "東京などで線状降水帯発生の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582684?source=rss",
-      "publishedAt": "2026-06-02T12:06:55.000Z",
-      "xQuery": "米イスラエル両首脳に緊張 背景は"
+      "url": "https://news.yahoo.co.jp/pickup/6582723?source=rss",
+      "publishedAt": "2026-06-02T14:46:28.000Z",
+      "xQuery": "東京などで線状降水帯発生の恐れ"
     },
     {
-      "time": "20:46",
-      "title": "ケアマネ死亡 首切られ失血死か",
+      "time": "13:45",
+      "title": "アフリカで同性愛厳罰化 進む背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582710?source=rss",
-      "publishedAt": "2026-06-02T11:46:57.000Z",
-      "xQuery": "ケアマネ死亡 首切られ失血死か"
+      "url": "https://news.yahoo.co.jp/pickup/6582658?source=rss",
+      "publishedAt": "2026-06-02T04:45:53.000Z",
+      "xQuery": "アフリカで同性愛厳罰化 進む背景"
     },
     {
-      "time": "21:52",
-      "title": "学生殴られ死亡 少年が裁判で反省",
+      "time": "23:34",
+      "title": "クマ襲撃 従業員を追いかける映像",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582714?source=rss",
-      "publishedAt": "2026-06-02T12:52:16.000Z",
-      "xQuery": "学生殴られ死亡 少年が裁判で反省"
+      "url": "https://news.yahoo.co.jp/pickup/6582721?source=rss",
+      "publishedAt": "2026-06-02T14:34:21.000Z",
+      "xQuery": "クマ襲撃 従業員を追いかける映像"
     },
     {
       "time": "22:22",
