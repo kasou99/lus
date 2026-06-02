@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T01:22:26.622Z",
+  "updatedAt": "2026-06-02T02:26:22.833Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91V0J0Y0hkaEp6ZmZTQ2pJZEFTbGphN29RMnVXSUpRWkJGSWtqR3hZdWdkbGxnQkp0ODhKS3VjaVlwdkRCZDMzQnpmQmUybW8?oc=5",
         "publishedAt": "2026-06-02T00:30:00.000Z"
+      },
+      {
+        "time": "10:41",
+        "title": "設備保全の高度化～デジタル化が生み出す新たな価値～",
+        "source": "ビューローベリタスジャパン株式会社",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1heWFRWFA0TWlOdlVKWF91QzdqR0xCY2RDaWZ3d0dJM3ZqMTFWeWExenJITDNCaGo1YXdrLWQ1aXhrNTlPbk0weHd6a2hMc1prekJ6bTRSY2J0SGFL?oc=5",
+        "publishedAt": "2026-06-02T01:41:29.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zeTR1MmpGdnRYRE91Sl9KbW1HQlVIYWV3bXZzaTBDTlRGY0NncUs5UU1BUnFxQmhvdzYwaW5ydXhHRldDZUlRbXBmdm8yb3h1VUtCag?oc=5",
         "publishedAt": "2026-06-01T02:30:12.000Z"
-      },
-      {
-        "time": "15:30",
-        "title": "工作機械用クロスローラーガイドの世界市場（2026年～2032年）、市場規模（標準型ガイド、ワイド型ガイド）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40X2xFY3RLb3hIVW45WUI5RDQ0Nzc3elJDVUtLZzRrZVBRMWJISFF5eHh3cF9qNVA3RHpnY0xwN0p6bTVzcXdGZ21idnMyUQ?oc=5",
-        "publishedAt": "2026-06-01T06:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,11 +112,11 @@
         "publishedAt": "2026-06-01T08:47:26.000Z"
       },
       {
-        "time": "15:16",
-        "title": "東海道新幹線 2-3日一部運休恐れ",
+        "time": "10:59",
+        "title": "マンション修繕に遅れ ナフサ巡り",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582545?source=rss",
-        "publishedAt": "2026-06-01T06:16:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582635?source=rss",
+        "publishedAt": "2026-06-02T01:59:48.000Z"
       },
       {
         "time": "21:32",
@@ -156,11 +156,11 @@
         "publishedAt": "2026-06-01T23:20:31.000Z"
       },
       {
-        "time": "00:01",
-        "title": "台風 沖縄で少なくとも12人けが",
+        "time": "11:13",
+        "title": "損傷の激しい遺体 近くでクマ捕獲",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582607?source=rss",
-        "publishedAt": "2026-06-01T15:01:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582637?source=rss",
+        "publishedAt": "2026-06-02T02:13:04.000Z"
       },
       {
         "time": "08:30",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-02T01:11:34.000Z"
       },
       {
-        "time": "23:03",
-        "title": "河口湖で遊泳中 18歳が溺れて死亡",
+        "time": "10:40",
+        "title": "マンジャロ違法販売疑い 書類送検",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582604?source=rss",
-        "publishedAt": "2026-06-01T14:03:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582634?source=rss",
+        "publishedAt": "2026-06-02T01:40:51.000Z"
       },
       {
-        "time": "20:52",
-        "title": "商業施設階段で転落か 警備員死亡",
+        "time": "10:26",
+        "title": "富士山麓の茶畑 マナー違反続出",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582592?source=rss",
-        "publishedAt": "2026-06-01T11:52:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582633?source=rss",
+        "publishedAt": "2026-06-02T01:26:17.000Z"
       }
     ],
     "subsidyHeadlines": [

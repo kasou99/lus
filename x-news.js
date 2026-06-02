@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-02T01:22:27.531Z",
+  "updatedAt": "2026-06-02T02:26:23.574Z",
   "items": [
     {
       "time": "09:28",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "台風6号接近 奄美大島が暴風域に"
     },
     {
-      "time": "09:51",
-      "title": "露がキーウに大規模攻撃 住宅炎上",
+      "time": "08:35",
+      "title": "出生前診断 10年余りで4倍に増加",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582629?source=rss",
-      "publishedAt": "2026-06-02T00:51:20.000Z",
-      "xQuery": "露がキーウに大規模攻撃 住宅炎上"
+      "url": "https://news.yahoo.co.jp/pickup/6582620?source=rss",
+      "publishedAt": "2026-06-01T23:35:26.000Z",
+      "xQuery": "出生前診断 10年余りで4倍に増加"
     },
     {
-      "time": "09:56",
-      "title": "自賠責運用益の助成金 不正相次ぐ",
+      "time": "11:13",
+      "title": "損傷の激しい遺体 近くでクマ捕獲",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582630?source=rss",
-      "publishedAt": "2026-06-02T00:56:43.000Z",
-      "xQuery": "自賠責運用益の助成金 不正相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6582637?source=rss",
+      "publishedAt": "2026-06-02T02:13:04.000Z",
+      "xQuery": "損傷の激しい遺体 近くでクマ捕獲"
     },
     {
-      "time": "08:20",
-      "title": "母のケアマネ刺したか 男も死亡",
+      "time": "10:11",
+      "title": "自転車と衝突 歩行者が意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582618?source=rss",
-      "publishedAt": "2026-06-01T23:20:31.000Z",
-      "xQuery": "母のケアマネ刺したか 男も死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6582632?source=rss",
+      "publishedAt": "2026-06-02T01:11:34.000Z",
+      "xQuery": "自転車と衝突 歩行者が意識不明"
     },
     {
-      "time": "08:30",
-      "title": "事業所敷地内にクマ 4人がけが",
+      "time": "10:40",
+      "title": "マンジャロ違法販売疑い 書類送検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582621?source=rss",
-      "publishedAt": "2026-06-01T23:30:00.000Z",
-      "xQuery": "事業所敷地内にクマ 4人がけが"
+      "url": "https://news.yahoo.co.jp/pickup/6582634?source=rss",
+      "publishedAt": "2026-06-02T01:40:51.000Z",
+      "xQuery": "マンジャロ違法販売疑い 書類送検"
     }
   ]
 };
