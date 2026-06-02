@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-02T05:44:30.353Z",
+  "updatedAt": "2026-06-02T07:54:24.542Z",
   "items": [
     {
-      "time": "12:04",
-      "title": "台風 西日本は明日にかけ大雨警戒",
+      "time": "15:49",
+      "title": "全国初レベル4氾濫危険警報 宮崎",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582651?source=rss",
-      "publishedAt": "2026-06-02T03:04:13.000Z",
-      "xQuery": "台風 西日本は明日にかけ大雨警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6582674?source=rss",
+      "publishedAt": "2026-06-02T06:49:06.000Z",
+      "xQuery": "全国初レベル4氾濫危険警報 宮崎"
     },
     {
-      "time": "12:53",
-      "title": "トランプ氏 イスラエル首相に怒り",
+      "time": "15:09",
+      "title": "台風 各地で線状降水帯発生の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582659?source=rss",
-      "publishedAt": "2026-06-02T03:53:28.000Z",
-      "xQuery": "トランプ氏 イスラエル首相に怒り"
+      "url": "https://news.yahoo.co.jp/pickup/6582669?source=rss",
+      "publishedAt": "2026-06-02T06:09:51.000Z",
+      "xQuery": "台風 各地で線状降水帯発生の恐れ"
     },
     {
-      "time": "12:54",
-      "title": "露がウ各地に大規模攻撃 住宅損壊",
+      "time": "15:24",
+      "title": "ゴミ袋買えない苦情相次ぎ 市調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582661?source=rss",
-      "publishedAt": "2026-06-02T03:54:10.000Z",
-      "xQuery": "露がウ各地に大規模攻撃 住宅損壊"
+      "url": "https://news.yahoo.co.jp/pickup/6582672?source=rss",
+      "publishedAt": "2026-06-02T06:24:11.000Z",
+      "xQuery": "ゴミ袋買えない苦情相次ぎ 市調査"
     },
     {
-      "time": "13:38",
-      "title": "台風接近 レジャー施設休業相次ぐ",
+      "time": "14:04",
+      "title": "マンジャロSNSで拡散 副作用も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582664?source=rss",
-      "publishedAt": "2026-06-02T04:38:08.000Z",
-      "xQuery": "台風接近 レジャー施設休業相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6582667?source=rss",
+      "publishedAt": "2026-06-02T05:04:08.000Z",
+      "xQuery": "マンジャロSNSで拡散 副作用も"
     },
     {
-      "time": "12:17",
-      "title": "ジムの女性専用部屋から男性 物議",
+      "time": "15:22",
+      "title": "中華料理店の倒産 減少の可能性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582650?source=rss",
-      "publishedAt": "2026-06-02T03:17:17.000Z",
-      "xQuery": "ジムの女性専用部屋から男性 物議"
+      "url": "https://news.yahoo.co.jp/pickup/6582671?source=rss",
+      "publishedAt": "2026-06-02T06:22:43.000Z",
+      "xQuery": "中華料理店の倒産 減少の可能性"
     }
   ]
 };
