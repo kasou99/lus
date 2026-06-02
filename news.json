@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T22:48:10.788Z",
+  "updatedAt": "2026-06-02T23:40:26.160Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qMEN2LU9ldzhmaXFnMWFnbTU2SWd1VlV4Y05WT2hjdEk5SjRESlpyUldqYUtaY29WZGI5amRDOHZQQmphbnlURE10OTRlRk5uV1pVYWFnYXR2RDRkTWc?oc=5",
         "publishedAt": "2026-06-02T22:16:29.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "高電圧ACサーボモーター・ドライブの世界市場（2026年～2032年）、市場規模（モーター、ドライブ）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BTVRRNUNiM29uZmkxTjNiQnY1dHMyQi1kbVFPaHBTN0ljUFdqUFZ1R25RZTVfSmpIdXM4UTRXZE5NQmpxd3pBay1ZQjFZTXM?oc=5",
-        "publishedAt": "2026-06-02T01:00:00.000Z"
       },
       {
         "time": "09:30",
@@ -50,6 +43,13 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94eUd4QmtIZ2F6NkZHYWctTXBSYTEyaUZfcHUwcV9mTUlKZTRvYUlnM3BFYW81aktBSi1FOE9GNGRnYWVaVGZEeFJvSGYzcU4yR3c?oc=5",
         "publishedAt": "2026-06-02T10:16:00.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "高電圧ACサーボモーター・ドライブの世界市場（2026年～2032年）、市場規模（モーター、ドライブ）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qcDRBOVhadzV0ZXZ4WEpGRnVndGJDRXJLa2xlV0JfVVBSYl9rNDVIbUFoaEFyOHRUVlI5RnpfNEJveTNwMzNDZEpoTllVaFE?oc=5",
+        "publishedAt": "2026-06-02T01:00:00.000Z"
       },
       {
         "time": "05:04",
@@ -112,6 +112,13 @@
         "publishedAt": "2026-06-02T21:52:00.000Z"
       },
       {
+        "time": "08:00",
+        "title": "日銀 1%への追加利上げを本格検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582734?source=rss",
+        "publishedAt": "2026-06-02T23:00:37.000Z"
+      },
+      {
         "time": "06:32",
         "title": "セブン 全国2万店から過大徴収",
         "source": "Yahoo!ニュース",
@@ -133,13 +140,6 @@
         "publishedAt": "2026-06-02T11:29:16.000Z"
       },
       {
-        "time": "19:00",
-        "title": "スルメイカ不漁 夢も希望もねえ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582695?source=rss",
-        "publishedAt": "2026-06-02T10:00:31.000Z"
-      },
-      {
         "time": "22:22",
         "title": "2万羽が焼け死んだ養鶏場 客続々",
         "source": "Yahoo!ニュース",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "05:53",
-        "title": "和歌山県の古座川に氾濫特別警報",
+        "time": "08:36",
+        "title": "危険迫る 古座川に氾濫特別警報",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582727?source=rss",
-        "publishedAt": "2026-06-02T20:53:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582738?source=rss",
+        "publishedAt": "2026-06-02T23:36:23.000Z"
       },
       {
         "time": "07:34",

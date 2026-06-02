@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-02T22:48:11.565Z",
+  "updatedAt": "2026-06-02T23:40:27.020Z",
   "items": [
     {
-      "time": "05:53",
-      "title": "和歌山県の古座川に氾濫特別警報",
+      "time": "08:36",
+      "title": "危険迫る 古座川に氾濫特別警報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582727?source=rss",
-      "publishedAt": "2026-06-02T20:53:33.000Z",
-      "xQuery": "和歌山県の古座川に氾濫特別警報"
+      "url": "https://news.yahoo.co.jp/pickup/6582738?source=rss",
+      "publishedAt": "2026-06-02T23:36:23.000Z",
+      "xQuery": "危険迫る 古座川に氾濫特別警報"
     },
     {
-      "time": "07:34",
-      "title": "静岡県伊豆に線状降水帯 警戒を",
+      "time": "08:06",
+      "title": "台風6号 各地の河川水位情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582733?source=rss",
-      "publishedAt": "2026-06-02T22:34:27.000Z",
-      "xQuery": "静岡県伊豆に線状降水帯 警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6582736?source=rss",
+      "publishedAt": "2026-06-02T23:06:25.000Z",
+      "xQuery": "台風6号 各地の河川水位情報"
     },
     {
       "time": "07:22",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風6号 東海や関東で大雨ピーク"
     },
     {
-      "time": "06:52",
-      "title": "全国の鉄道・フライト 最新情報",
+      "time": "08:03",
+      "title": "台風6号の影響は 現地のSNS投稿",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6571062?source=rss",
-      "publishedAt": "2026-06-02T21:52:00.000Z",
-      "xQuery": "全国の鉄道・フライト 最新情報"
+      "url": "https://news.yahoo.co.jp/pickup/6582735?source=rss",
+      "publishedAt": "2026-06-02T23:03:08.000Z",
+      "xQuery": "台風6号の影響は 現地のSNS投稿"
     },
     {
-      "time": "06:32",
-      "title": "セブン 全国2万店から過大徴収",
+      "time": "08:00",
+      "title": "日銀 1%への追加利上げを本格検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582728?source=rss",
-      "publishedAt": "2026-06-02T21:32:22.000Z",
-      "xQuery": "セブン 全国2万店から過大徴収"
+      "url": "https://news.yahoo.co.jp/pickup/6582734?source=rss",
+      "publishedAt": "2026-06-02T23:00:37.000Z",
+      "xQuery": "日銀 1%への追加利上げを本格検討"
     }
   ]
 };
