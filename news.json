@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-02T21:35:50.054Z",
+  "updatedAt": "2026-06-02T22:48:10.788Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:16",
+        "title": "4月機械受注（除船電民需）前月比は▲0.2％程度と微減だが2カ月連続の減少か。関連データの工作機械受注（国内向け）4月前年同月比は＋43.4％の大幅増加。日本の主要経済指標予測（2026年6月3日）―｜宅森昭吉（景気探検家・エコノミスト）",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qMEN2LU9ldzhmaXFnMWFnbTU2SWd1VlV4Y05WT2hjdEk5SjRESlpyUldqYUtaY29WZGI5amRDOHZQQmphbnlURE10OTRlRk5uV1pVYWFnYXR2RDRkTWc?oc=5",
+        "publishedAt": "2026-06-02T22:16:29.000Z"
+      },
       {
         "time": "10:00",
         "title": "高電圧ACサーボモーター・ドライブの世界市場（2026年～2032年）、市場規模（モーター、ドライブ）・分析レポートを発表",
@@ -45,21 +52,21 @@
         "publishedAt": "2026-06-02T10:16:00.000Z"
       },
       {
-        "time": "09:30",
-        "title": "低電圧ACサーボモーター・ドライブの世界市場（2026年～2032年）、市場規模（モーター、ドライブ）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91V0J0Y0hkaEp6ZmZTQ2pJZEFTbGphN29RMnVXSUpRWkJGSWtqR3hZdWdkbGxnQkp0ODhKS3VjaVlwdkRCZDMzQnpmQmUybW8?oc=5",
-        "publishedAt": "2026-06-02T00:30:00.000Z"
-      },
-      {
-        "time": "05:17",
-        "title": "パナソニックEW、インフラ劣化管理を効率化 自治体向けアプリ",
+        "time": "05:04",
+        "title": "インタビュー／三井住友海上火災保険社長・海山裕氏 合併で利益世界トップ級に",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByeXE5QTVJYUJPc19oZTlWVjR4Z0RQZHk2NDFDblJrQ09MSi1LeHRwb0ZuUGdtTVFvN0NPOWRYTTRjdEc3Nno1dnk4TmhudFV3cVB3MjBTZlNiV1pXZUpLYWwzWDd3ZlpNaFVjQ2VaSXZHS214?oc=5",
-        "publishedAt": "2026-06-02T20:17:33.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16UUNEbkFrbnIzLWJOTEdfa0VoM0hfblN5M2VQU2QwZkVuZzdINjgyTzBSVF9kQUozcHg1SkE5b3ZpNWY5ajFYU2twWldEUWhWb2xMeGlqdXlCQ1k?oc=5",
+        "publishedAt": "2026-06-02T20:04:28.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:13",
+        "title": "イランで「内部亀裂」交渉が難航",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582730?source=rss",
+        "publishedAt": "2026-06-02T22:13:32.000Z"
+      },
       {
         "time": "21:06",
         "title": "米イスラエル両首脳に緊張 背景は",
@@ -94,29 +101,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582628?source=rss",
         "publishedAt": "2026-06-02T00:33:38.000Z"
-      },
-      {
-        "time": "08:23",
-        "title": "米フロリダ州がOpenAIを提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582619?source=rss",
-        "publishedAt": "2026-06-01T23:23:40.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "06:52",
+        "title": "全国の鉄道・フライト 最新情報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6571062?source=rss",
+        "publishedAt": "2026-06-02T21:52:00.000Z"
+      },
       {
         "time": "06:32",
         "title": "セブン 全国2万店から過大徴収",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582728?source=rss",
         "publishedAt": "2026-06-02T21:32:22.000Z"
-      },
-      {
-        "time": "17:48",
-        "title": "鶏肉の需要増は「節約志向」農相",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582689?source=rss",
-        "publishedAt": "2026-06-02T08:48:05.000Z"
       },
       {
         "time": "21:13",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-06-02T20:53:33.000Z"
       },
       {
+        "time": "07:34",
+        "title": "静岡県伊豆に線状降水帯 警戒を",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582733?source=rss",
+        "publishedAt": "2026-06-02T22:34:27.000Z"
+      },
+      {
         "time": "19:25",
         "title": "台風 電線の復旧中に感電し重体",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582710?source=rss",
         "publishedAt": "2026-06-02T11:46:57.000Z"
-      },
-      {
-        "time": "11:13",
-        "title": "損傷の激しい遺体 近くでクマ捕獲",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582637?source=rss",
-        "publishedAt": "2026-06-02T02:13:04.000Z"
       },
       {
         "time": "21:52",

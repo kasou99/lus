@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-02T21:35:56.053Z",
+  "updatedAt": "2026-06-02T22:48:11.565Z",
   "items": [
     {
       "time": "05:53",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "和歌山県の古座川に氾濫特別警報"
     },
     {
-      "time": "04:59",
-      "title": "台風6号 和歌山県南部に上陸",
+      "time": "07:34",
+      "title": "静岡県伊豆に線状降水帯 警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582725?source=rss",
-      "publishedAt": "2026-06-02T19:59:07.000Z",
-      "xQuery": "台風6号 和歌山県南部に上陸"
+      "url": "https://news.yahoo.co.jp/pickup/6582733?source=rss",
+      "publishedAt": "2026-06-02T22:34:27.000Z",
+      "xQuery": "静岡県伊豆に線状降水帯 警戒を"
     },
     {
-      "time": "05:27",
-      "title": "台風6号 関東は朝から雨風ピーク",
+      "time": "07:22",
+      "title": "台風6号 東海や関東で大雨ピーク",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582726?source=rss",
-      "publishedAt": "2026-06-02T20:27:11.000Z",
-      "xQuery": "台風6号 関東は朝から雨風ピーク"
+      "url": "https://news.yahoo.co.jp/pickup/6582731?source=rss",
+      "publishedAt": "2026-06-02T22:22:22.000Z",
+      "xQuery": "台風6号 東海や関東で大雨ピーク"
     },
     {
-      "time": "23:46",
-      "title": "東京などで線状降水帯発生の恐れ",
+      "time": "06:52",
+      "title": "全国の鉄道・フライト 最新情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582723?source=rss",
-      "publishedAt": "2026-06-02T14:46:28.000Z",
-      "xQuery": "東京などで線状降水帯発生の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6571062?source=rss",
+      "publishedAt": "2026-06-02T21:52:00.000Z",
+      "xQuery": "全国の鉄道・フライト 最新情報"
     },
     {
       "time": "06:32",
