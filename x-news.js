@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-02T19:26:51.223Z",
+  "updatedAt": "2026-06-02T20:29:48.933Z",
   "items": [
     {
-      "time": "22:23",
-      "title": "台風6号 各地の警戒期間や注意点",
+      "time": "04:59",
+      "title": "台風6号 和歌山県南部に上陸",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582716?source=rss",
-      "publishedAt": "2026-06-02T13:23:09.000Z",
-      "xQuery": "台風6号 各地の警戒期間や注意点"
+      "url": "https://news.yahoo.co.jp/pickup/6582725?source=rss",
+      "publishedAt": "2026-06-02T19:59:07.000Z",
+      "xQuery": "台風6号 和歌山県南部に上陸"
     },
     {
       "time": "23:46",
