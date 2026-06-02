@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-02T11:38:19.110Z",
+  "updatedAt": "2026-06-02T13:33:41.495Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "10:00",
+        "title": "高電圧ACサーボモーター・ドライブの世界市場（2026年～2032年）、市場規模（モーター、ドライブ）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BTVRRNUNiM29uZmkxTjNiQnY1dHMyQi1kbVFPaHBTN0ljUFdqUFZ1R25RZTVfSmpIdXM4UTRXZE5NQmpxd3pBay1ZQjFZTXM?oc=5",
+        "publishedAt": "2026-06-02T01:00:00.000Z"
+      },
       {
         "time": "09:30",
         "title": "中電圧ACサーボモーター・ドライブの世界市場（2026年～2032年）、市場規模（モーター、ドライブ）・分析レポートを発表",
@@ -17,18 +24,18 @@
         "publishedAt": "2026-06-02T01:41:24.000Z"
       },
       {
+        "time": "09:00",
+        "title": "【6/17（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xXzg2Wm9fOVA4R2FKWGtaa25FV1VTWkxWNldkSUZieUFXRE5lN1JicnFfNUZCV2FjWWlwX1B6a0U0ZjJKWThibVNMbjF5aWI5N3ViS1JMTWx2alppQV9SWHJjNm1DQTRxLXc?oc=5",
+        "publishedAt": "2026-06-02T00:00:01.000Z"
+      },
+      {
         "time": "19:16",
         "title": "シンボルマークとマスコットを制作 江口電機、岡山県立大と連携",
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94eUd4QmtIZ2F6NkZHYWctTXBSYTEyaUZfcHUwcV9mTUlKZTRvYUlnM3BFYW81aktBSi1FOE9GNGRnYWVaVGZEeFJvSGYzcU4yR3c?oc=5",
         "publishedAt": "2026-06-02T10:16:00.000Z"
-      },
-      {
-        "time": "10:46",
-        "title": "【6/17（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96Nk9wclJzSW5xOFZXV2lYaHZhelJoeEU1dDgxN2hYcnhkS1VlNWZrbkUyMEJaSFdUdUhUSEpDWFplS0ZUVmRZRGtxOUx0YW45dTk0NmwwM1h3eVZISXZzVjNyR3NYb1JLZXQw?oc=5",
-        "publishedAt": "2026-06-02T01:46:00.000Z"
       },
       {
         "time": "05:00",
@@ -50,22 +57,15 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91V0J0Y0hkaEp6ZmZTQ2pJZEFTbGphN29RMnVXSUpRWkJGSWtqR3hZdWdkbGxnQkp0ODhKS3VjaVlwdkRCZDMzQnpmQmUybW8?oc=5",
         "publishedAt": "2026-06-02T00:30:00.000Z"
-      },
-      {
-        "time": "12:28",
-        "title": "【2026年6月・産業用PC向け】XP以前の旧OSに対応！「HDD/SSDクローン作成サービス」を強化",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83SURtd0hGcHR0MWhVN0R4ZWZ0cTFZVC1waUt2c1dZUmhObXotVmd6QTFJeDFCYkVyTHJVSHlraURHVXdBbEI3TWU5RGFmXzlBWkstTQ?oc=5",
-        "publishedAt": "2026-06-02T03:28:03.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "12:54",
-        "title": "露がウ各地に大規模攻撃 住宅損壊",
+        "time": "21:06",
+        "title": "米イスラエル両首脳に緊張 背景は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582661?source=rss",
-        "publishedAt": "2026-06-02T03:54:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582684?source=rss",
+        "publishedAt": "2026-06-02T12:06:55.000Z"
       },
       {
         "time": "12:53",
@@ -75,11 +75,11 @@
         "publishedAt": "2026-06-02T03:53:28.000Z"
       },
       {
-        "time": "23:56",
-        "title": "イランが米との協議停止 現地報道",
+        "time": "12:54",
+        "title": "露がウ各地に大規模攻撃 住宅損壊",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582606?source=rss",
-        "publishedAt": "2026-06-01T14:56:48.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582661?source=rss",
+        "publishedAt": "2026-06-02T03:54:10.000Z"
       },
       {
         "time": "13:45",
@@ -112,18 +112,11 @@
         "publishedAt": "2026-06-02T08:48:05.000Z"
       },
       {
-        "time": "12:24",
-        "title": "人材派遣大手5社 カルテル疑い",
+        "time": "21:13",
+        "title": "台風 出社か在宅か法的ポイントは",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582656?source=rss",
-        "publishedAt": "2026-06-02T03:24:20.000Z"
-      },
-      {
-        "time": "13:38",
-        "title": "台風接近 レジャー施設休業相次ぐ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582664?source=rss",
-        "publishedAt": "2026-06-02T04:38:08.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582712?source=rss",
+        "publishedAt": "2026-06-02T12:13:32.000Z"
       },
       {
         "time": "20:29",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582695?source=rss",
         "publishedAt": "2026-06-02T10:00:31.000Z"
+      },
+      {
+        "time": "22:22",
+        "title": "2万羽が焼け死んだ養鶏場 客続々",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582717?source=rss",
+        "publishedAt": "2026-06-02T13:22:16.000Z"
       },
       {
         "time": "17:39",
@@ -163,11 +163,11 @@
         "publishedAt": "2026-06-02T10:25:44.000Z"
       },
       {
-        "time": "11:30",
-        "title": "ケアマネ死亡 一方的な思い込みか",
+        "time": "20:46",
+        "title": "ケアマネ死亡 首切られ失血死か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582641?source=rss",
-        "publishedAt": "2026-06-02T02:30:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582710?source=rss",
+        "publishedAt": "2026-06-02T11:46:57.000Z"
       },
       {
         "time": "11:13",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-02T02:13:04.000Z"
       },
       {
+        "time": "21:52",
+        "title": "学生殴られ死亡 少年が裁判で反省",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582714?source=rss",
+        "publishedAt": "2026-06-02T12:52:16.000Z"
+      },
+      {
         "time": "18:25",
         "title": "トラックに挟まれ 軽の運転手死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582691?source=rss",
         "publishedAt": "2026-06-02T09:25:22.000Z"
-      },
-      {
-        "time": "10:40",
-        "title": "マンジャロ違法販売疑い 書類送検",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582634?source=rss",
-        "publishedAt": "2026-06-02T01:40:51.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-02T11:38:20.036Z",
+  "updatedAt": "2026-06-02T13:33:42.654Z",
   "items": [
     {
-      "time": "20:33",
-      "title": "台風 3日朝は関東や東海で大荒れ",
+      "time": "22:23",
+      "title": "台風6号 各地の警戒期間や注意点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582708?source=rss",
-      "publishedAt": "2026-06-02T11:33:38.000Z",
-      "xQuery": "台風 3日朝は関東や東海で大荒れ"
+      "url": "https://news.yahoo.co.jp/pickup/6582716?source=rss",
+      "publishedAt": "2026-06-02T13:23:09.000Z",
+      "xQuery": "台風6号 各地の警戒期間や注意点"
     },
     {
-      "time": "20:25",
-      "title": "「線状降水帯」情報 発表に不具合",
+      "time": "21:06",
+      "title": "米イスラエル両首脳に緊張 背景は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582706?source=rss",
-      "publishedAt": "2026-06-02T11:25:01.000Z",
-      "xQuery": "「線状降水帯」情報 発表に不具合"
+      "url": "https://news.yahoo.co.jp/pickup/6582684?source=rss",
+      "publishedAt": "2026-06-02T12:06:55.000Z",
+      "xQuery": "米イスラエル両首脳に緊張 背景は"
     },
     {
-      "time": "20:16",
-      "title": "補正予算案が判明 全額赤字国債で",
+      "time": "20:46",
+      "title": "ケアマネ死亡 首切られ失血死か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582707?source=rss",
-      "publishedAt": "2026-06-02T11:16:31.000Z",
-      "xQuery": "補正予算案が判明 全額赤字国債で"
+      "url": "https://news.yahoo.co.jp/pickup/6582710?source=rss",
+      "publishedAt": "2026-06-02T11:46:57.000Z",
+      "xQuery": "ケアマネ死亡 首切られ失血死か"
     },
     {
-      "time": "17:58",
-      "title": "早紀江さん 滋さんに「ごめんね」",
+      "time": "21:52",
+      "title": "学生殴られ死亡 少年が裁判で反省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582690?source=rss",
-      "publishedAt": "2026-06-02T08:58:44.000Z",
-      "xQuery": "早紀江さん 滋さんに「ごめんね」"
+      "url": "https://news.yahoo.co.jp/pickup/6582714?source=rss",
+      "publishedAt": "2026-06-02T12:52:16.000Z",
+      "xQuery": "学生殴られ死亡 少年が裁判で反省"
     },
     {
-      "time": "18:25",
-      "title": "トラックに挟まれ 軽の運転手死亡",
+      "time": "22:22",
+      "title": "2万羽が焼け死んだ養鶏場 客続々",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582691?source=rss",
-      "publishedAt": "2026-06-02T09:25:22.000Z",
-      "xQuery": "トラックに挟まれ 軽の運転手死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6582717?source=rss",
+      "publishedAt": "2026-06-02T13:22:16.000Z",
+      "xQuery": "2万羽が焼け死んだ養鶏場 客続々"
     }
   ]
 };
