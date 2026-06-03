@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-03T13:55:27.232Z",
+  "updatedAt": "2026-06-03T15:45:11.250Z",
   "items": [
     {
-      "time": "20:29",
-      "title": "台風は日本の東へ 次は不快な暑さ",
+      "time": "23:24",
+      "title": "各地被害の台風6号 温帯低気圧に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582833?source=rss",
-      "publishedAt": "2026-06-03T11:29:01.000Z",
-      "xQuery": "台風は日本の東へ 次は不快な暑さ"
+      "url": "https://news.yahoo.co.jp/pickup/6582850?source=rss",
+      "publishedAt": "2026-06-03T14:24:13.000Z",
+      "xQuery": "各地被害の台風6号 温帯低気圧に"
     },
     {
-      "time": "13:25",
-      "title": "警察庁 サイバー対策に民間専門家",
+      "time": "23:07",
+      "title": "マスコミなぜ避ける 問われた首相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582772?source=rss",
-      "publishedAt": "2026-06-03T04:25:21.000Z",
-      "xQuery": "警察庁 サイバー対策に民間専門家"
+      "url": "https://news.yahoo.co.jp/pickup/6582848?source=rss",
+      "publishedAt": "2026-06-03T14:07:58.000Z",
+      "xQuery": "マスコミなぜ避ける 問われた首相"
     },
     {
-      "time": "19:50",
-      "title": "トクリュウ指示役か 男を公開手配",
+      "time": "18:02",
+      "title": "内田梨瑚被告 母の証言に涙ぬぐう",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582827?source=rss",
-      "publishedAt": "2026-06-03T10:50:30.000Z",
-      "xQuery": "トクリュウ指示役か 男を公開手配"
+      "url": "https://news.yahoo.co.jp/pickup/6582811?source=rss",
+      "publishedAt": "2026-06-03T09:02:30.000Z",
+      "xQuery": "内田梨瑚被告 母の証言に涙ぬぐう"
+    },
+    {
+      "time": "00:09",
+      "title": "トクリュウか 公開手配の28歳逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582856?source=rss",
+      "publishedAt": "2026-06-03T15:09:44.000Z",
+      "xQuery": "トクリュウか 公開手配の28歳逮捕"
     },
     {
       "time": "22:08",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582843?source=rss",
       "publishedAt": "2026-06-03T13:08:32.000Z",
       "xQuery": "京都で米国籍20歳男性が行方不明"
-    },
-    {
-      "time": "18:31",
-      "title": "地面師 司法書士が起訴内容認める",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582813?source=rss",
-      "publishedAt": "2026-06-03T09:31:47.000Z",
-      "xQuery": "地面師 司法書士が起訴内容認める"
     }
   ]
 };
