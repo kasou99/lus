@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T01:22:49.269Z",
+  "updatedAt": "2026-06-03T02:24:58.994Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,24 +17,17 @@
         "publishedAt": "2026-06-02T22:16:29.000Z"
       },
       {
-        "time": "05:04",
+        "time": "10:05",
         "title": "点描／一人歩き 危険を疑似体験 トヨタ基金がイベント",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HYjM4OXdvRjNPcG4wV3p5UTZ4LUN5WWRDaFI2ejlUT2hIVzE4V0JJMTM3QVMzcVRzLUZ2RFlrZWdyenF6RVI5cGlqX05nWTltelRMRVZJeFhuT28?oc=5",
-        "publishedAt": "2026-06-02T20:04:28.000Z"
-      },
-      {
-        "time": "10:41",
-        "title": "設備保全の高度化～デジタル化が生み出す新たな価値～",
-        "source": "ビューローベリタスジャパン株式会社",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1heWFRWFA0TWlOdlVKWF91QzdqR0xCY2RDaWZ3d0dJM3ZqMTFWeWExenJITDNCaGo1YXdrLWQ1aXhrNTlPbk0weHd6a2hMc1prekJ6bTRSY2J0SGFL?oc=5",
-        "publishedAt": "2026-06-02T01:41:24.000Z"
+        "publishedAt": "2026-06-03T01:05:42.000Z"
       },
       {
         "time": "21:48",
         "title": "【6/17（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RZ29rUTJ1R0dUUnFPem1lNzk2OGtrd2RGazBZLUI2cF9fMi1aZFZaYkpZRGxHVVNocmNyaFdRZHdQeVQtczRWQ3NsNGY2OUczTVRFdjF4MDB2Ml9VTm1MY2dQaGJ5RWNIdmJvUU5HMVl4UHZERGc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGTHBaZ1R0cFFNLXc2MUF2WC12ZW9Sclg5QkFVR1VDOWVhSHRXS2x3Uzk2X2ZtemlfejF3VHJYd1RVUEQ2YXZXdXVtdDlxUkxnMG9DMg?oc=5",
         "publishedAt": "2026-06-02T12:48:43.000Z"
       },
       {
@@ -45,11 +38,18 @@
         "publishedAt": "2026-06-02T10:16:00.000Z"
       },
       {
-        "time": "05:17",
-        "title": "パナソニックEW、インフラ劣化管理を効率化 自治体向けアプリ",
+        "time": "10:23",
+        "title": "インタビュー／三井住友海上火災保険社長・海山裕氏 合併で利益世界トップ級に",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByeXE5QTVJYUJPc19oZTlWVjR4Z0RQZHk2NDFDblJrQ09MSi1LeHRwb0ZuUGdtTVFvN0NPOWRYTTRjdEc3Nno1dnk4TmhudFV3cVB3MjBTZlNiV1pXZUpLYWwzWDd3ZlpNaFVjQ2VaSXZHS214?oc=5",
-        "publishedAt": "2026-06-02T20:17:33.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16UUNEbkFrbnIzLWJOTEdfa0VoM0hfblN5M2VQU2QwZkVuZzdINjgyTzBSVF9kQUozcHg1SkE5b3ZpNWY5ajFYU2twWldEUWhWb2xMeGlqdXlCQ1k?oc=5",
+        "publishedAt": "2026-06-03T01:23:49.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "最大16Aの高負荷対応、安全システム構築を簡素化するIO-Lin出力モジュール：FAニュース",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83Z0VTY0ZqNlNPdncwdHIybTRydzY5MjdBNlE0UFg4aW44RW42MVlOd0NfZG5qb1ppNTh5VFNjQzlfZ3dFcjBhd1BQNzVvSUVJdHpqdjdOWWFvV2Ztc1BIZnhtYlJoQXBmbUIzLUNRSQ?oc=5",
+        "publishedAt": "2026-06-02T04:00:00.000Z"
       },
       {
         "time": "12:28",
@@ -82,18 +82,18 @@
         "publishedAt": "2026-06-02T03:53:28.000Z"
       },
       {
+        "time": "10:56",
+        "title": "銃撃で中止の米夕食会 7月に開催",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582755?source=rss",
+        "publishedAt": "2026-06-03T01:56:49.000Z"
+      },
+      {
         "time": "08:52",
         "title": "リチャード・ギア 米大統領を批判",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582741?source=rss",
         "publishedAt": "2026-06-02T23:52:59.000Z"
-      },
-      {
-        "time": "12:54",
-        "title": "露がウ各地に大規模攻撃 住宅損壊",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582661?source=rss",
-        "publishedAt": "2026-06-02T03:54:10.000Z"
       },
       {
         "time": "13:45",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-06-02T21:32:22.000Z"
       },
       {
-        "time": "21:13",
-        "title": "台風 出社か在宅か法的ポイントは",
+        "time": "22:22",
+        "title": "2万羽が焼け死んだ養鶏場 客続々",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582712?source=rss",
-        "publishedAt": "2026-06-02T12:13:32.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582717?source=rss",
+        "publishedAt": "2026-06-02T13:22:16.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,25 +170,25 @@
         "publishedAt": "2026-06-02T22:34:27.000Z"
       },
       {
+        "time": "11:15",
+        "title": "江別暴行死 強盗致死罪成立の判断",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582756?source=rss",
+        "publishedAt": "2026-06-03T02:15:58.000Z"
+      },
+      {
+        "time": "10:36",
+        "title": "ケアマネ殺害 玄関先で襲ったか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582754?source=rss",
+        "publishedAt": "2026-06-03T01:36:55.000Z"
+      },
+      {
         "time": "10:02",
         "title": "福島のマンホール事故 死者2人に",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582749?source=rss",
         "publishedAt": "2026-06-03T01:02:24.000Z"
-      },
-      {
-        "time": "23:34",
-        "title": "クマ襲撃 従業員を追いかける映像",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582721?source=rss",
-        "publishedAt": "2026-06-02T14:34:21.000Z"
-      },
-      {
-        "time": "20:46",
-        "title": "ケアマネ死亡 首切られ失血死か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582710?source=rss",
-        "publishedAt": "2026-06-02T11:46:57.000Z"
       }
     ],
     "subsidyHeadlines": [

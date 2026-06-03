@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-03T01:22:50.011Z",
+  "updatedAt": "2026-06-03T02:24:59.775Z",
   "items": [
     {
       "time": "09:29",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風接近 関東で危険警報相次ぐ"
     },
     {
-      "time": "09:15",
-      "title": "神奈川県東部 線状降水帯が発生",
+      "time": "08:53",
+      "title": "3.1兆円補正予算案を閣議決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582745?source=rss",
-      "publishedAt": "2026-06-03T00:15:18.000Z",
-      "xQuery": "神奈川県東部 線状降水帯が発生"
+      "url": "https://news.yahoo.co.jp/pickup/6582742?source=rss",
+      "publishedAt": "2026-06-02T23:53:09.000Z",
+      "xQuery": "3.1兆円補正予算案を閣議決定"
     },
     {
       "time": "10:00",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均株価 初の6万8000円台"
     },
     {
-      "time": "09:45",
-      "title": "皇族数確保 養子は15歳以上を想定",
+      "time": "10:14",
+      "title": "KIOXIA 時価総額が一時トヨタ超え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582748?source=rss",
-      "publishedAt": "2026-06-03T00:45:42.000Z",
-      "xQuery": "皇族数確保 養子は15歳以上を想定"
+      "url": "https://news.yahoo.co.jp/pickup/6582751?source=rss",
+      "publishedAt": "2026-06-03T01:14:07.000Z",
+      "xQuery": "KIOXIA 時価総額が一時トヨタ超え"
     },
     {
-      "time": "10:02",
-      "title": "福島のマンホール事故 死者2人に",
+      "time": "11:15",
+      "title": "江別暴行死 強盗致死罪成立の判断",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582749?source=rss",
-      "publishedAt": "2026-06-03T01:02:24.000Z",
-      "xQuery": "福島のマンホール事故 死者2人に"
+      "url": "https://news.yahoo.co.jp/pickup/6582756?source=rss",
+      "publishedAt": "2026-06-03T02:15:58.000Z",
+      "xQuery": "江別暴行死 強盗致死罪成立の判断"
     }
   ]
 };
