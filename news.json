@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-03T02:24:58.994Z",
+  "updatedAt": "2026-06-03T03:50:19.053Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "09:00",
+        "time": "12:00",
         "title": "次世代設備保全クラウド「M2X」が「第5回FOOMAアワード2026」にて審査委員会賞を受賞",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2MERlWnFRVDVmZWNMNnl4ZURyd2FzVzJqcGY4WjlUYk8zMXBOVmw5R0ZYbXdjWTdCN1RuV0txaS10dmxpNVVSemF5YWJiQXRSZnNveHBxVmFSYU4zSWQ1Z0pRbXdqTmVxU2c?oc=5",
-        "publishedAt": "2026-06-03T00:00:02.000Z"
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LSEhObTRyTVNuemwxTGx3VGF6OVcyTDI3bTZQS1BjcVFFRXlhSUxnLUxmVzRVUmR6R2VKMlF1WHp2d0ZobjRsRmkxekhfSFJ2S0czVEdKazFfdHR4bWVNbngyY0c1MmFGYUJEbkhBdlU2bkJwYlhPR241SQ?oc=5",
+        "publishedAt": "2026-06-03T03:00:14.000Z"
       },
       {
         "time": "07:16",
@@ -24,13 +24,6 @@
         "publishedAt": "2026-06-03T01:05:42.000Z"
       },
       {
-        "time": "21:48",
-        "title": "【6/17（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGTHBaZ1R0cFFNLXc2MUF2WC12ZW9Sclg5QkFVR1VDOWVhSHRXS2x3Uzk2X2ZtemlfejF3VHJYd1RVUEQ2YXZXdXVtdDlxUkxnMG9DMg?oc=5",
-        "publishedAt": "2026-06-02T12:48:43.000Z"
-      },
-      {
         "time": "19:16",
         "title": "シンボルマークとマスコットを制作 江口電機、岡山県立大と連携",
         "source": "山陽新聞",
@@ -45,6 +38,13 @@
         "publishedAt": "2026-06-03T01:23:49.000Z"
       },
       {
+        "time": "16:25",
+        "title": "【6/17（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催 (2026年6月2日掲載)",
+        "source": "ライブドアニュース",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80VEwzMUdiVlhkQ0Q0R2lPZGQteEZ5N2E0R256dERzSGJtZ1NIMEl3VHZZelhMRG00VmdUbHpiQk1GdlZnWThfc1RhaW1XT043QWxSemQwX1JqYjVsWW5UdjhB?oc=5",
+        "publishedAt": "2026-06-02T07:25:43.000Z"
+      },
+      {
         "time": "13:00",
         "title": "最大16Aの高負荷対応、安全システム構築を簡素化するIO-Lin出力モジュール：FAニュース",
         "source": "MONOist",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-06-02T04:00:00.000Z"
       },
       {
-        "time": "12:28",
-        "title": "【2026年6月・産業用PC向け】XP以前の旧OSに対応！「HDD/SSDクローン作成サービス」を強化",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83SURtd0hGcHR0MWhVN0R4ZWZ0cTFZVC1waUt2c1dZUmhObXotVmd6QTFJeDFCYkVyTHJVSHlraURHVXdBbEI3TWU5RGFmXzlBWkstTQ?oc=5",
-        "publishedAt": "2026-06-02T03:28:03.000Z"
+        "time": "05:52",
+        "title": "パナソニックEW、インフラ劣化管理を効率化 自治体向けアプリ",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YbXV5SHczd1pCUlJ2QjFIb253aEZUb1RCUnNSc19XbS1lZWtIc2RZNlhiRGhIc2NhTmNPWUdVQ0xsbVJXNW02NGdjZ3ROWDJOTXM0MXFiSnJtTXM?oc=5",
+        "publishedAt": "2026-06-02T20:52:27.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-06-03T00:14:16.000Z"
       },
       {
-        "time": "09:15",
-        "title": "神奈川県東部 線状降水帯が発生",
+        "time": "11:59",
+        "title": "はま寿司で迷惑行為撮影疑い 逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582745?source=rss",
-        "publishedAt": "2026-06-03T00:15:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582766?source=rss",
+        "publishedAt": "2026-06-03T02:59:07.000Z"
       },
       {
-        "time": "07:34",
-        "title": "静岡県伊豆に線状降水帯 警戒を",
+        "time": "11:33",
+        "title": "近大替え玉受検 元塾講師が提案か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582733?source=rss",
-        "publishedAt": "2026-06-02T22:34:27.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582759?source=rss",
+        "publishedAt": "2026-06-03T02:33:53.000Z"
       },
       {
         "time": "11:15",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-03T02:15:58.000Z"
       },
       {
+        "time": "11:41",
+        "title": "妻が不妊治療で偽装 夫が病院提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582762?source=rss",
+        "publishedAt": "2026-06-03T02:41:54.000Z"
+      },
+      {
         "time": "10:36",
         "title": "ケアマネ殺害 玄関先で襲ったか",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582754?source=rss",
         "publishedAt": "2026-06-03T01:36:55.000Z"
-      },
-      {
-        "time": "10:02",
-        "title": "福島のマンホール事故 死者2人に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582749?source=rss",
-        "publishedAt": "2026-06-03T01:02:24.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -217,11 +217,11 @@
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
       },
       {
-        "time": "18:25",
-        "title": "中小企業省力化投資補助金とは？カタログ型・一般型の違い・対象・補助額を解説【2026年版】",
+        "time": "10:51",
+        "title": "中小企業省力化投資補助金とは？カタログ注文型・一般型の違い・対象・補助額を解説【2026年版】",
         "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TLVJ4ZkdITm9KX2x1Q1BwWGZqM3lid3BDdkItOWRGR3JOWm1tcEZZYnlmd0tYM2twTE1Zc25qTXVnZG1uQzh6QWlxWms3eDdFYW1rdlpxUG1LVUl3cHF0RnZJeEtsdXBFTm9fdg?oc=5",
-        "publishedAt": "2026-06-02T09:25:31.000Z"
+        "publishedAt": "2026-06-03T01:51:28.000Z"
       }
     ]
   }

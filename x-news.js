@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-03T02:24:59.775Z",
+  "updatedAt": "2026-06-03T03:50:19.770Z",
   "items": [
     {
-      "time": "09:29",
-      "title": "台風接近 関東で危険警報相次ぐ",
+      "time": "11:52",
+      "title": "台風6号 関東は夕方まで風ピーク",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582746?source=rss",
-      "publishedAt": "2026-06-03T00:29:24.000Z",
-      "xQuery": "台風接近 関東で危険警報相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6582765?source=rss",
+      "publishedAt": "2026-06-03T02:52:00.000Z",
+      "xQuery": "台風6号 関東は夕方まで風ピーク"
     },
     {
-      "time": "08:53",
-      "title": "3.1兆円補正予算案を閣議決定",
+      "time": "10:56",
+      "title": "銃撃で中止の米夕食会 7月に開催",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582742?source=rss",
-      "publishedAt": "2026-06-02T23:53:09.000Z",
-      "xQuery": "3.1兆円補正予算案を閣議決定"
+      "url": "https://news.yahoo.co.jp/pickup/6582755?source=rss",
+      "publishedAt": "2026-06-03T01:56:49.000Z",
+      "xQuery": "銃撃で中止の米夕食会 7月に開催"
     },
     {
-      "time": "10:00",
-      "title": "日経平均株価 初の6万8000円台",
+      "time": "11:41",
+      "title": "妻が不妊治療で偽装 夫が病院提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582750?source=rss",
-      "publishedAt": "2026-06-03T01:00:45.000Z",
-      "xQuery": "日経平均株価 初の6万8000円台"
-    },
-    {
-      "time": "10:14",
-      "title": "KIOXIA 時価総額が一時トヨタ超え",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582751?source=rss",
-      "publishedAt": "2026-06-03T01:14:07.000Z",
-      "xQuery": "KIOXIA 時価総額が一時トヨタ超え"
+      "url": "https://news.yahoo.co.jp/pickup/6582762?source=rss",
+      "publishedAt": "2026-06-03T02:41:54.000Z",
+      "xQuery": "妻が不妊治療で偽装 夫が病院提訴"
     },
     {
       "time": "11:15",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582756?source=rss",
       "publishedAt": "2026-06-03T02:15:58.000Z",
       "xQuery": "江別暴行死 強盗致死罪成立の判断"
+    },
+    {
+      "time": "11:59",
+      "title": "はま寿司で迷惑行為撮影疑い 逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582766?source=rss",
+      "publishedAt": "2026-06-03T02:59:07.000Z",
+      "xQuery": "はま寿司で迷惑行為撮影疑い 逮捕"
     }
   ]
 };
