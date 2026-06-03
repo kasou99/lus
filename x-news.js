@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-03T05:47:57.522Z",
+  "updatedAt": "2026-06-03T07:57:47.769Z",
   "items": [
     {
-      "time": "11:52",
-      "title": "台風6号 関東は夕方まで風ピーク",
+      "time": "16:31",
+      "title": "水位は上がる 台風通過後に危険も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582765?source=rss",
-      "publishedAt": "2026-06-03T02:52:00.000Z",
-      "xQuery": "台風6号 関東は夕方まで風ピーク"
+      "url": "https://news.yahoo.co.jp/pickup/6582797?source=rss",
+      "publishedAt": "2026-06-03T07:31:08.000Z",
+      "xQuery": "水位は上がる 台風通過後に危険も"
     },
     {
-      "time": "14:28",
-      "title": "25年出生数67万人 10年連続で最少",
+      "time": "16:08",
+      "title": "日経平均 終値で初の6万8000円台",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582782?source=rss",
-      "publishedAt": "2026-06-03T05:28:40.000Z",
-      "xQuery": "25年出生数67万人 10年連続で最少"
+      "url": "https://news.yahoo.co.jp/pickup/6582791?source=rss",
+      "publishedAt": "2026-06-03T07:08:10.000Z",
+      "xQuery": "日経平均 終値で初の6万8000円台"
     },
     {
-      "time": "13:42",
-      "title": "一時1ドル160円台 1カ月ぶり水準",
+      "time": "13:45",
+      "title": "米大統領とネタニヤフ氏 あつれき",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582776?source=rss",
-      "publishedAt": "2026-06-03T04:42:27.000Z",
-      "xQuery": "一時1ドル160円台 1カ月ぶり水準"
+      "url": "https://news.yahoo.co.jp/pickup/6582773?source=rss",
+      "publishedAt": "2026-06-03T04:45:37.000Z",
+      "xQuery": "米大統領とネタニヤフ氏 あつれき"
+    },
+    {
+      "time": "15:56",
+      "title": "川に遺体 たつの市事件と関連捜査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582790?source=rss",
+      "publishedAt": "2026-06-03T06:56:54.000Z",
+      "xQuery": "川に遺体 たつの市事件と関連捜査"
     },
     {
       "time": "14:05",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582781?source=rss",
       "publishedAt": "2026-06-03T05:05:34.000Z",
       "xQuery": "特別警報の町 浸水で「別世界」"
-    },
-    {
-      "time": "13:20",
-      "title": "旭川17歳殺害 腹立っていたと被告",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582769?source=rss",
-      "publishedAt": "2026-06-03T04:20:07.000Z",
-      "xQuery": "旭川17歳殺害 腹立っていたと被告"
     }
   ]
 };
