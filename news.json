@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-03T15:45:10.317Z",
+  "updatedAt": "2026-06-03T17:49:44.738Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "11:21",
+        "title": "プレスリリース：次世代設備保全クラウド「M2X」が「第5回FOOMAアワード2026」にて審査委員会賞を受賞（PR TIMES）",
+        "source": "毎日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50dDlMY0lRb0tlalpBUWF1M0xRUmVUdTJYcWtrNHp5bTZOUU82Vk56Tm9BWjZYb2xTclNmYU5MY0IyYmx6M1F5VmNFdjVHLTE3NW43c01lQzBja2R2V3lUX3ZWX0hWdVNu?oc=5",
+        "publishedAt": "2026-06-03T02:21:41.000Z"
+      },
       {
         "time": "18:42",
         "title": "自動化を支える／プロフェクト 中小の個性鑑み生産管理DX化",
@@ -24,11 +31,11 @@
         "publishedAt": "2026-06-03T08:00:00.000Z"
       },
       {
-        "time": "12:00",
-        "title": "次世代設備保全クラウド「M2X」が「第5回FOOMAアワード2026」にて審査委員会賞を受賞",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LSEhObTRyTVNuemwxTGx3VGF6OVcyTDI3bTZQS1BjcVFFRXlhSUxnLUxmVzRVUmR6R2VKMlF1WHp2d0ZobjRsRmkxekhfSFJ2S0czVEdKazFfdHR4bWVNbngyY0c1MmFGYUJEbkhBdlU2bkJwYlhPR241SQ?oc=5",
-        "publishedAt": "2026-06-03T03:00:14.000Z"
+        "time": "20:16",
+        "title": "東洋技研、2ピースBOXターミナル「BOXTRシリーズ」にワークエリアタイプ2機種を追加",
+        "source": "オートメーション新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMzdUZUM0bnc1UDZ6ZEhqTkYzd01qRzNSb1J6RjNxYlFULVd3VV9MXzRyYzQwZjlJb1FIb2c1N2pUWmhXNnpHblZpd1haYVgtempXTUFSUjczUQ?oc=5",
+        "publishedAt": "2026-06-03T11:16:15.000Z"
       },
       {
         "time": "17:00",
@@ -50,13 +57,6 @@
         "source": "Chosunbiz",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSzRwdElJcWF5Vy0tYWFjdk44Ny1XYzVjZjFhMFZjeEVzVk5HWmtIQXNJVGxGb1h1cFY2ZmZ5TUpMVVJWNnNDRmN5X1hidTVXV0c4Zlg2TGY1b0ZQaXZJcWl5OVdBZ0ctZ1p6MVBQS01SUl9HME5TMEJSMUllVF9nRUpIVUZVVnVSOTFnbDVEbXZucjRQd1HSAZYBQVVfeXFMUEs0cHRJSXFheVctLWFhY3ZOODctV2M1Y2YxYTBWY3hFc1ZOR1prSEFzSVRsRm9YdXBWNmZmeU1KTFVSVjZzQ0ZjeV9YYnU1V1dHOGZYNkxmNW9GUGl2SXFpeTlXQWdHLWdaejFQUEtNUlJfRzBOUzBCUjFJZVRfZ0VKSFVGVVZ1UjkxZ2w1RG12bnI0UHdR?oc=5",
         "publishedAt": "2026-06-03T08:03:00.000Z"
-      },
-      {
-        "time": "17:30",
-        "title": "パワースカイビングツールの世界市場（2026年～2032年）、市場規模（300mm 以下、300～600mm、600mm 以上）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OVFlNMXJmSmxiNW95UHhyMmQ4SFlhOEtncnVybUYtUDI1OVpuNWZqYW1wOXJEb0N0dFJMaEZmczNpLWZ5MEV5ZFhBVVRtXzQ?oc=5",
-        "publishedAt": "2026-06-03T08:30:00.000Z"
       }
     ],
     "worldHeadlines": [
