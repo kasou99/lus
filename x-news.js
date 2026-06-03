@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-03T07:57:47.769Z",
+  "updatedAt": "2026-06-03T09:50:42.537Z",
   "items": [
     {
-      "time": "16:31",
-      "title": "水位は上がる 台風通過後に危険も",
+      "time": "17:21",
+      "title": "強硬姿勢崩さぬネタニヤフ氏 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582797?source=rss",
-      "publishedAt": "2026-06-03T07:31:08.000Z",
-      "xQuery": "水位は上がる 台風通過後に危険も"
+      "url": "https://news.yahoo.co.jp/pickup/6582774?source=rss",
+      "publishedAt": "2026-06-03T08:21:38.000Z",
+      "xQuery": "強硬姿勢崩さぬネタニヤフ氏 背景"
     },
     {
-      "time": "16:08",
-      "title": "日経平均 終値で初の6万8000円台",
+      "time": "16:56",
+      "title": "ポンプ設備が水没 青梅市で断水も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582791?source=rss",
-      "publishedAt": "2026-06-03T07:08:10.000Z",
-      "xQuery": "日経平均 終値で初の6万8000円台"
+      "url": "https://news.yahoo.co.jp/pickup/6582800?source=rss",
+      "publishedAt": "2026-06-03T07:56:14.000Z",
+      "xQuery": "ポンプ設備が水没 青梅市で断水も"
     },
     {
-      "time": "13:45",
-      "title": "米大統領とネタニヤフ氏 あつれき",
+      "time": "17:21",
+      "title": "米 日本に12.5%の追加関税を検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582773?source=rss",
-      "publishedAt": "2026-06-03T04:45:37.000Z",
-      "xQuery": "米大統領とネタニヤフ氏 あつれき"
+      "url": "https://news.yahoo.co.jp/pickup/6582802?source=rss",
+      "publishedAt": "2026-06-03T08:21:38.000Z",
+      "xQuery": "米 日本に12.5%の追加関税を検討"
     },
     {
-      "time": "15:56",
-      "title": "川に遺体 たつの市事件と関連捜査",
+      "time": "18:02",
+      "title": "内田梨瑚被告 母の証言に涙ぬぐう",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582790?source=rss",
-      "publishedAt": "2026-06-03T06:56:54.000Z",
-      "xQuery": "川に遺体 たつの市事件と関連捜査"
+      "url": "https://news.yahoo.co.jp/pickup/6582811?source=rss",
+      "publishedAt": "2026-06-03T09:02:30.000Z",
+      "xQuery": "内田梨瑚被告 母の証言に涙ぬぐう"
     },
     {
-      "time": "14:05",
-      "title": "特別警報の町 浸水で「別世界」",
+      "time": "11:59",
+      "title": "はま寿司で迷惑行為撮影疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582781?source=rss",
-      "publishedAt": "2026-06-03T05:05:34.000Z",
-      "xQuery": "特別警報の町 浸水で「別世界」"
+      "url": "https://news.yahoo.co.jp/pickup/6582766?source=rss",
+      "publishedAt": "2026-06-03T02:59:07.000Z",
+      "xQuery": "はま寿司で迷惑行為撮影疑い 逮捕"
     }
   ]
 };
