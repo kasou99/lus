@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-03T21:14:24.687Z",
+  "updatedAt": "2026-06-03T22:21:51.316Z",
   "items": [
     {
       "time": "23:24",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マスコミなぜ避ける 問われた首相"
     },
     {
-      "time": "18:02",
-      "title": "内田梨瑚被告 母の証言に涙ぬぐう",
+      "time": "06:30",
+      "title": "たつの市遺体 指名手配の男と判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582811?source=rss",
-      "publishedAt": "2026-06-03T09:02:30.000Z",
-      "xQuery": "内田梨瑚被告 母の証言に涙ぬぐう"
+      "url": "https://news.yahoo.co.jp/pickup/6582858?source=rss",
+      "publishedAt": "2026-06-03T21:30:23.000Z",
+      "xQuery": "たつの市遺体 指名手配の男と判明"
     },
     {
       "time": "00:09",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トクリュウか 公開手配の28歳逮捕"
     },
     {
-      "time": "22:08",
-      "title": "京都で米国籍20歳男性が行方不明",
+      "time": "07:01",
+      "title": "人権団体で「パワハラ」騒動 争議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582843?source=rss",
-      "publishedAt": "2026-06-03T13:08:32.000Z",
-      "xQuery": "京都で米国籍20歳男性が行方不明"
+      "url": "https://news.yahoo.co.jp/pickup/6582860?source=rss",
+      "publishedAt": "2026-06-03T22:01:12.000Z",
+      "xQuery": "人権団体で「パワハラ」騒動 争議"
     }
   ]
 };
