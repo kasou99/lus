@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-03T09:50:42.537Z",
+  "updatedAt": "2026-06-03T11:45:58.801Z",
   "items": [
     {
-      "time": "17:21",
-      "title": "強硬姿勢崩さぬネタニヤフ氏 背景",
+      "time": "16:41",
+      "title": "歯止めかからぬ少子化 対策拡充は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582774?source=rss",
-      "publishedAt": "2026-06-03T08:21:38.000Z",
-      "xQuery": "強硬姿勢崩さぬネタニヤフ氏 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6582798?source=rss",
+      "publishedAt": "2026-06-03T07:41:59.000Z",
+      "xQuery": "歯止めかからぬ少子化 対策拡充は"
     },
     {
-      "time": "16:56",
-      "title": "ポンプ設備が水没 青梅市で断水も",
+      "time": "19:33",
+      "title": "ガソリン補助金を縮小へ 首相検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582800?source=rss",
-      "publishedAt": "2026-06-03T07:56:14.000Z",
-      "xQuery": "ポンプ設備が水没 青梅市で断水も"
+      "url": "https://news.yahoo.co.jp/pickup/6582824?source=rss",
+      "publishedAt": "2026-06-03T10:33:07.000Z",
+      "xQuery": "ガソリン補助金を縮小へ 首相検討"
     },
     {
-      "time": "17:21",
-      "title": "米 日本に12.5%の追加関税を検討",
+      "time": "19:50",
+      "title": "トクリュウ指示役か 男を公開手配",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582802?source=rss",
-      "publishedAt": "2026-06-03T08:21:38.000Z",
-      "xQuery": "米 日本に12.5%の追加関税を検討"
+      "url": "https://news.yahoo.co.jp/pickup/6582827?source=rss",
+      "publishedAt": "2026-06-03T10:50:30.000Z",
+      "xQuery": "トクリュウ指示役か 男を公開手配"
+    },
+    {
+      "time": "19:04",
+      "title": "たつの市で遺体 手配の男と服酷似",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582819?source=rss",
+      "publishedAt": "2026-06-03T10:04:39.000Z",
+      "xQuery": "たつの市で遺体 手配の男と服酷似"
     },
     {
       "time": "18:02",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582811?source=rss",
       "publishedAt": "2026-06-03T09:02:30.000Z",
       "xQuery": "内田梨瑚被告 母の証言に涙ぬぐう"
-    },
-    {
-      "time": "11:59",
-      "title": "はま寿司で迷惑行為撮影疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582766?source=rss",
-      "publishedAt": "2026-06-03T02:59:07.000Z",
-      "xQuery": "はま寿司で迷惑行為撮影疑い 逮捕"
     }
   ]
 };

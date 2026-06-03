@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-06-03T09:50:41.737Z",
+  "updatedAt": "2026-06-03T11:45:58.042Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "18:42",
+        "title": "自動化を支える／プロフェクト 中小の個性鑑み生産管理DX化",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGRkFILTlSNW9zTzBkdXlwRWcwam1JWW5qMG52NW0xa2JqaVI4Q1J0QmhQYkF5LXBkaUFHWmRSWWJuV18yUXU5OVp2djlZbl8yQl9LQl92bDVUWHpERnZ4SE1UUmRWRDNpWTEwWE9SYXU5OVlX?oc=5",
+        "publishedAt": "2026-06-03T09:42:24.000Z"
+      },
+      {
+        "time": "16:38",
+        "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xcWxpSS15RjRPNy1EQ254WmdkS3kwb0E0NkNtV283dEw5LWxQNkIwamlJa1NGVkFhM0RsaUZyQk9ndTR1cEw2SkdWWWNSeEpSVHpTTlpfazdSanBtRHJB?oc=5",
+        "publishedAt": "2026-06-03T07:38:51.000Z"
+      },
+      {
+        "time": "17:00",
+        "title": "卓上フライス盤の世界市場（2026年～2032年）、市場規模（3軸、4軸、5軸）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUbzNEQndUOWx0OUlmSWhzWlFwTE1PQno4ZnpnTDdZYlFWancwM3VZeVdJclRKaHdqTmtEaTJHeFRUQlEyZWNuMkJ3QXl5OU0?oc=5",
+        "publishedAt": "2026-06-03T08:00:00.000Z"
+      },
       {
         "time": "12:00",
         "title": "次世代設備保全クラウド「M2X」が「第5回FOOMAアワード2026」にて審査委員会賞を受賞",
@@ -17,13 +38,6 @@
         "publishedAt": "2026-06-02T22:16:29.000Z"
       },
       {
-        "time": "10:05",
-        "title": "点描／一人歩き 危険を疑似体験 トヨタ基金がイベント",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HYjM4OXdvRjNPcG4wV3p5UTZ4LUN5WWRDaFI2ejlUT2hIVzE4V0JJMTM3QVMzcVRzLUZ2RFlrZWdyenF6RVI5cGlqX05nWTltelRMRVZJeFhuT28?oc=5",
-        "publishedAt": "2026-06-03T01:05:42.000Z"
-      },
-      {
         "time": "17:03",
         "title": "ハンファエアロ大田工場で爆発5人死亡 火災安全調査で2年連続不良判定 - CHOSUNBIZ",
         "source": "Chosunbiz",
@@ -31,32 +45,18 @@
         "publishedAt": "2026-06-03T08:03:00.000Z"
       },
       {
-        "time": "19:16",
-        "title": "シンボルマークとマスコットを制作 江口電機、岡山県立大と連携",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94eUd4QmtIZ2F6NkZHYWctTXBSYTEyaUZfcHUwcV9mTUlKZTRvYUlnM3BFYW81aktBSi1FOE9GNGRnYWVaVGZEeFJvSGYzcU4yR3c?oc=5",
-        "publishedAt": "2026-06-02T10:16:00.000Z"
+        "time": "09:39",
+        "title": "爆発事故で勤労者5人が亡くなり2人が負傷したハンファエアロスペース大田工場が消防当局の火災安全調査で最近2年連続「不良」判定を受け計7件の指摘事項が摘発されたことが確認された。",
+        "source": "매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zQjRWSWw2S21WVWlwTjluTHZ6bVZjQktWX2tfdHl5T2FxZjQ2dzBDd0FodlA1a1FJWldEQmZHWThBb19IZkgtbVQ3Y3NVa3NlR0E?oc=5",
+        "publishedAt": "2026-06-03T00:39:14.000Z"
       },
       {
-        "time": "05:17",
-        "title": "パナソニックEW、インフラ劣化管理を効率化 自治体向けアプリ",
+        "time": "10:05",
+        "title": "点描／一人歩き 危険を疑似体験 トヨタ基金がイベント",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByeXE5QTVJYUJPc19oZTlWVjR4Z0RQZHk2NDFDblJrQ09MSi1LeHRwb0ZuUGdtTVFvN0NPOWRYTTRjdEc3Nno1dnk4TmhudFV3cVB3MjBTZlNiV1pXZUpLYWwzWDd3ZlpNaFVjQ2VaSXZHS214?oc=5",
-        "publishedAt": "2026-06-02T20:17:33.000Z"
-      },
-      {
-        "time": "21:48",
-        "title": "【6/17（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGTHBaZ1R0cFFNLXc2MUF2WC12ZW9Sclg5QkFVR1VDOWVhSHRXS2x3Uzk2X2ZtemlfejF3VHJYd1RVUEQ2YXZXdXVtdDlxUkxnMG9DMg?oc=5",
-        "publishedAt": "2026-06-02T12:48:43.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "「FOOMA JAPAN」開幕 出展1056社 AIなど次世代技術集結",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6X1NQUTFrV3Q3ai1XaXZJWV9XdlVlc3h2QjRIaHdBUHQtOVN6LVR0Q2Q5R1k4V1R5NURYclk5QTVzai1vd0d3YnY3UDJjaXoycFZXWUNsYkVuT2VLalo1ajliV1AyVDhITW51OWh2QzF3WUxD?oc=5",
-        "publishedAt": "2026-06-02T20:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HYjM4OXdvRjNPcG4wV3p5UTZ4LUN5WWRDaFI2ejlUT2hIVzE4V0JJMTM3QVMzcVRzLUZ2RFlrZWdyenF6RVI5cGlqX05nWTltelRMRVZJeFhuT28?oc=5",
+        "publishedAt": "2026-06-03T01:05:42.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,13 +73,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582774?source=rss",
         "publishedAt": "2026-06-03T08:21:38.000Z"
-      },
-      {
-        "time": "07:13",
-        "title": "イランで「内部亀裂」交渉が難航",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582730?source=rss",
-        "publishedAt": "2026-06-02T22:13:32.000Z"
       },
       {
         "time": "17:35",
@@ -101,16 +94,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582809?source=rss",
         "publishedAt": "2026-06-03T08:35:25.000Z"
+      },
+      {
+        "time": "10:56",
+        "title": "銃撃で中止の米夕食会 7月に開催",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582755?source=rss",
+        "publishedAt": "2026-06-03T01:56:49.000Z"
       }
     ],
     "economyHeadlines": [
-      {
-        "time": "06:52",
-        "title": "全国の鉄道・フライト 最新情報",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6571062?source=rss",
-        "publishedAt": "2026-06-02T21:52:00.000Z"
-      },
       {
         "time": "16:08",
         "title": "日経平均 終値で初の6万8000円台",
@@ -126,13 +119,6 @@
         "publishedAt": "2026-06-03T01:14:07.000Z"
       },
       {
-        "time": "08:00",
-        "title": "日銀 1%への追加利上げを本格検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582734?source=rss",
-        "publishedAt": "2026-06-02T23:00:37.000Z"
-      },
-      {
         "time": "18:26",
         "title": "前橋唯一の百貨店 閉店残念と知事",
         "source": "Yahoo!ニュース",
@@ -145,29 +131,29 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582777?source=rss",
         "publishedAt": "2026-06-03T06:34:02.000Z"
+      },
+      {
+        "time": "20:18",
+        "title": "中川政七商店 売上高100億円超え",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582831?source=rss",
+        "publishedAt": "2026-06-03T11:18:52.000Z"
+      },
+      {
+        "time": "20:34",
+        "title": "無断キャンセル200個 弁当店無念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582834?source=rss",
+        "publishedAt": "2026-06-03T11:34:29.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "14:05",
-        "title": "特別警報の町 浸水で「別世界」",
+        "time": "19:04",
+        "title": "たつの市で遺体 手配の男と服酷似",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582781?source=rss",
-        "publishedAt": "2026-06-03T05:05:34.000Z"
-      },
-      {
-        "time": "16:56",
-        "title": "ポンプ設備が水没 青梅市で断水も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582800?source=rss",
-        "publishedAt": "2026-06-03T07:56:14.000Z"
-      },
-      {
-        "time": "15:56",
-        "title": "川に遺体 たつの市事件と関連捜査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582790?source=rss",
-        "publishedAt": "2026-06-03T06:56:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582819?source=rss",
+        "publishedAt": "2026-06-03T10:04:39.000Z"
       },
       {
         "time": "18:02",
@@ -177,18 +163,32 @@
         "publishedAt": "2026-06-03T09:02:30.000Z"
       },
       {
+        "time": "16:56",
+        "title": "ポンプ設備が水没 青梅市で断水も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582800?source=rss",
+        "publishedAt": "2026-06-03T07:56:14.000Z"
+      },
+      {
+        "time": "19:50",
+        "title": "トクリュウ指示役か 男を公開手配",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582827?source=rss",
+        "publishedAt": "2026-06-03T10:50:30.000Z"
+      },
+      {
+        "time": "20:22",
+        "title": "京都・鴨川の遺体は19歳 誤転落か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582832?source=rss",
+        "publishedAt": "2026-06-03T11:22:20.000Z"
+      },
+      {
         "time": "18:31",
         "title": "地面師 司法書士が起訴内容認める",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582813?source=rss",
         "publishedAt": "2026-06-03T09:31:47.000Z"
-      },
-      {
-        "time": "17:12",
-        "title": "ゾンビたばこ カープの寮に郵送か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582803?source=rss",
-        "publishedAt": "2026-06-03T08:12:18.000Z"
       }
     ],
     "subsidyHeadlines": [
