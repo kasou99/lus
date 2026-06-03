@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-03T22:21:51.316Z",
+  "updatedAt": "2026-06-03T23:13:43.978Z",
   "items": [
     {
-      "time": "23:24",
-      "title": "各地被害の台風6号 温帯低気圧に",
+      "time": "07:22",
+      "title": "食料品の消費税1% 今月最終判断へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582850?source=rss",
-      "publishedAt": "2026-06-03T14:24:13.000Z",
-      "xQuery": "各地被害の台風6号 温帯低気圧に"
+      "url": "https://news.yahoo.co.jp/pickup/6582861?source=rss",
+      "publishedAt": "2026-06-03T22:22:54.000Z",
+      "xQuery": "食料品の消費税1% 今月最終判断へ"
     },
     {
-      "time": "23:07",
-      "title": "マスコミなぜ避ける 問われた首相",
+      "time": "07:01",
+      "title": "人権団体で「パワハラ」騒動 争議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582848?source=rss",
-      "publishedAt": "2026-06-03T14:07:58.000Z",
-      "xQuery": "マスコミなぜ避ける 問われた首相"
+      "url": "https://news.yahoo.co.jp/pickup/6582860?source=rss",
+      "publishedAt": "2026-06-03T22:01:12.000Z",
+      "xQuery": "人権団体で「パワハラ」騒動 争議"
+    },
+    {
+      "time": "08:03",
+      "title": "ヤマダHDとEDION 経営統合の方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582867?source=rss",
+      "publishedAt": "2026-06-03T23:03:23.000Z",
+      "xQuery": "ヤマダHDとEDION 経営統合の方針"
     },
     {
       "time": "06:30",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582856?source=rss",
       "publishedAt": "2026-06-03T15:09:44.000Z",
       "xQuery": "トクリュウか 公開手配の28歳逮捕"
-    },
-    {
-      "time": "07:01",
-      "title": "人権団体で「パワハラ」騒動 争議",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582860?source=rss",
-      "publishedAt": "2026-06-03T22:01:12.000Z",
-      "xQuery": "人権団体で「パワハラ」騒動 争議"
     }
   ]
 };

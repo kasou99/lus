@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T22:21:50.702Z",
+  "updatedAt": "2026-06-03T23:13:43.243Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-06-03T08:00:00.000Z"
       },
       {
-        "time": "05:54",
+        "time": "05:15",
         "title": "新役員／TOPPAN HD 執行役員法務本部長・大野郁英氏ほか",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2M1BnNDJ2aUNQMHFyMEtXb0FKTHhzSHYwZk1hdmNTdThIUzY4OERvUlJvWFZrTTlDYzh4Q1RnUkp6TEpBRm9XTkJKd2x4aHUzUy1CTzY3aWJBWm8?oc=5",
-        "publishedAt": "2026-06-03T20:54:58.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SS1B1b21pd1ZNXzJNY3RsYkF3RjdRWGtRWjg3VWxMb2NkRkE3eDNFNTZTY2NULW81V0ZER1NFaGNqMDRWZzhrT3FFdmpld0k1Qm5DSEdtOGhBcnFidjlFRk9EODY2b253bm5NVTZ1ZUUzU1ZvY0V5ZUh0cw?oc=5",
+        "publishedAt": "2026-06-03T20:15:43.000Z"
       },
       {
         "time": "09:00",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "08:03",
+        "title": "ヤマダHDとEDION 経営統合の方針",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582867?source=rss",
+        "publishedAt": "2026-06-03T23:03:23.000Z"
+      },
+      {
         "time": "20:46",
         "title": "日銀総裁 利上げに前向き姿勢示す",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582814?source=rss",
         "publishedAt": "2026-06-03T09:26:26.000Z"
-      },
-      {
-        "time": "15:34",
-        "title": "地方鉄道の存廃 誰が赤字を負担?",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582777?source=rss",
-        "publishedAt": "2026-06-03T06:34:02.000Z"
       },
       {
         "time": "20:18",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-03T13:47:51.000Z"
       },
       {
-        "time": "22:52",
-        "title": "クマ興奮冷めず? 工場居座り続く",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582847?source=rss",
-        "publishedAt": "2026-06-03T13:52:27.000Z"
-      },
-      {
         "time": "21:52",
         "title": "青梅市のポンプ設備復旧 断水回避",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582841?source=rss",
         "publishedAt": "2026-06-03T12:52:31.000Z"
+      },
+      {
+        "time": "07:35",
+        "title": "4人襲い居座ったクマ 外に逃げる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582862?source=rss",
+        "publishedAt": "2026-06-03T22:35:37.000Z"
       }
     ],
     "subsidyHeadlines": [
