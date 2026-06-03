@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-03T11:45:58.801Z",
+  "updatedAt": "2026-06-03T13:55:27.232Z",
   "items": [
     {
-      "time": "16:41",
-      "title": "歯止めかからぬ少子化 対策拡充は",
+      "time": "20:29",
+      "title": "台風は日本の東へ 次は不快な暑さ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582798?source=rss",
-      "publishedAt": "2026-06-03T07:41:59.000Z",
-      "xQuery": "歯止めかからぬ少子化 対策拡充は"
+      "url": "https://news.yahoo.co.jp/pickup/6582833?source=rss",
+      "publishedAt": "2026-06-03T11:29:01.000Z",
+      "xQuery": "台風は日本の東へ 次は不快な暑さ"
     },
     {
-      "time": "19:33",
-      "title": "ガソリン補助金を縮小へ 首相検討",
+      "time": "13:25",
+      "title": "警察庁 サイバー対策に民間専門家",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582824?source=rss",
-      "publishedAt": "2026-06-03T10:33:07.000Z",
-      "xQuery": "ガソリン補助金を縮小へ 首相検討"
+      "url": "https://news.yahoo.co.jp/pickup/6582772?source=rss",
+      "publishedAt": "2026-06-03T04:25:21.000Z",
+      "xQuery": "警察庁 サイバー対策に民間専門家"
     },
     {
       "time": "19:50",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トクリュウ指示役か 男を公開手配"
     },
     {
-      "time": "19:04",
-      "title": "たつの市で遺体 手配の男と服酷似",
+      "time": "22:08",
+      "title": "京都で米国籍20歳男性が行方不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582819?source=rss",
-      "publishedAt": "2026-06-03T10:04:39.000Z",
-      "xQuery": "たつの市で遺体 手配の男と服酷似"
+      "url": "https://news.yahoo.co.jp/pickup/6582843?source=rss",
+      "publishedAt": "2026-06-03T13:08:32.000Z",
+      "xQuery": "京都で米国籍20歳男性が行方不明"
     },
     {
-      "time": "18:02",
-      "title": "内田梨瑚被告 母の証言に涙ぬぐう",
+      "time": "18:31",
+      "title": "地面師 司法書士が起訴内容認める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582811?source=rss",
-      "publishedAt": "2026-06-03T09:02:30.000Z",
-      "xQuery": "内田梨瑚被告 母の証言に涙ぬぐう"
+      "url": "https://news.yahoo.co.jp/pickup/6582813?source=rss",
+      "publishedAt": "2026-06-03T09:31:47.000Z",
+      "xQuery": "地面師 司法書士が起訴内容認める"
     }
   ]
 };
