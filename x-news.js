@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-02T23:40:27.020Z",
+  "updatedAt": "2026-06-03T01:22:50.011Z",
   "items": [
     {
-      "time": "08:36",
-      "title": "危険迫る 古座川に氾濫特別警報",
+      "time": "09:29",
+      "title": "台風接近 関東で危険警報相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582738?source=rss",
-      "publishedAt": "2026-06-02T23:36:23.000Z",
-      "xQuery": "危険迫る 古座川に氾濫特別警報"
+      "url": "https://news.yahoo.co.jp/pickup/6582746?source=rss",
+      "publishedAt": "2026-06-03T00:29:24.000Z",
+      "xQuery": "台風接近 関東で危険警報相次ぐ"
     },
     {
-      "time": "08:06",
-      "title": "台風6号 各地の河川水位情報",
+      "time": "09:15",
+      "title": "神奈川県東部 線状降水帯が発生",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582736?source=rss",
-      "publishedAt": "2026-06-02T23:06:25.000Z",
-      "xQuery": "台風6号 各地の河川水位情報"
+      "url": "https://news.yahoo.co.jp/pickup/6582745?source=rss",
+      "publishedAt": "2026-06-03T00:15:18.000Z",
+      "xQuery": "神奈川県東部 線状降水帯が発生"
     },
     {
-      "time": "07:22",
-      "title": "台風6号 東海や関東で大雨ピーク",
+      "time": "10:00",
+      "title": "日経平均株価 初の6万8000円台",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582731?source=rss",
-      "publishedAt": "2026-06-02T22:22:22.000Z",
-      "xQuery": "台風6号 東海や関東で大雨ピーク"
+      "url": "https://news.yahoo.co.jp/pickup/6582750?source=rss",
+      "publishedAt": "2026-06-03T01:00:45.000Z",
+      "xQuery": "日経平均株価 初の6万8000円台"
     },
     {
-      "time": "08:03",
-      "title": "台風6号の影響は 現地のSNS投稿",
+      "time": "09:45",
+      "title": "皇族数確保 養子は15歳以上を想定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582735?source=rss",
-      "publishedAt": "2026-06-02T23:03:08.000Z",
-      "xQuery": "台風6号の影響は 現地のSNS投稿"
+      "url": "https://news.yahoo.co.jp/pickup/6582748?source=rss",
+      "publishedAt": "2026-06-03T00:45:42.000Z",
+      "xQuery": "皇族数確保 養子は15歳以上を想定"
     },
     {
-      "time": "08:00",
-      "title": "日銀 1%への追加利上げを本格検討",
+      "time": "10:02",
+      "title": "福島のマンホール事故 死者2人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582734?source=rss",
-      "publishedAt": "2026-06-02T23:00:37.000Z",
-      "xQuery": "日銀 1%への追加利上げを本格検討"
+      "url": "https://news.yahoo.co.jp/pickup/6582749?source=rss",
+      "publishedAt": "2026-06-03T01:02:24.000Z",
+      "xQuery": "福島のマンホール事故 死者2人に"
     }
   ]
 };
