@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T03:50:19.053Z",
+  "updatedAt": "2026-06-03T05:47:56.601Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-06-03T01:05:42.000Z"
       },
       {
+        "time": "09:39",
+        "title": "爆発事故で勤労者5人が亡くなり2人が負傷したハンファエアロスペース大田工場が消防当局の火災安全調査で最近2年連続「不良」判定を受け計7件の指摘事項が摘発されたことが確認された。",
+        "source": "매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zQjRWSWw2S21WVWlwTjluTHZ6bVZjQktWX2tfdHl5T2FxZjQ2dzBDd0FodlA1a1FJWldEQmZHWThBb19IZkgtbVQ3Y3NVa3NlR0E?oc=5",
+        "publishedAt": "2026-06-03T00:39:14.000Z"
+      },
+      {
         "time": "19:16",
         "title": "シンボルマークとマスコットを制作 江口電機、岡山県立大と連携",
         "source": "山陽新聞",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-06-02T07:25:43.000Z"
       },
       {
-        "time": "13:00",
-        "title": "最大16Aの高負荷対応、安全システム構築を簡素化するIO-Lin出力モジュール：FAニュース",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83Z0VTY0ZqNlNPdncwdHIybTRydzY5MjdBNlE0UFg4aW44RW42MVlOd0NfZG5qb1ppNTh5VFNjQzlfZ3dFcjBhd1BQNzVvSUVJdHpqdjdOWWFvV2Ztc1BIZnhtYlJoQXBmbUIzLUNRSQ?oc=5",
-        "publishedAt": "2026-06-02T04:00:00.000Z"
-      },
-      {
-        "time": "05:52",
+        "time": "05:17",
         "title": "パナソニックEW、インフラ劣化管理を効率化 自治体向けアプリ",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YbXV5SHczd1pCUlJ2QjFIb253aEZUb1RCUnNSc19XbS1lZWtIc2RZNlhiRGhIc2NhTmNPWUdVQ0xsbVJXNW02NGdjZ3ROWDJOTXM0MXFiSnJtTXM?oc=5",
-        "publishedAt": "2026-06-02T20:52:27.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByeXE5QTVJYUJPc19oZTlWVjR4Z0RQZHk2NDFDblJrQ09MSi1LeHRwb0ZuUGdtTVFvN0NPOWRYTTRjdEc3Nno1dnk4TmhudFV3cVB3MjBTZlNiV1pXZUpLYWwzWDd3ZlpNaFVjQ2VaSXZHS214?oc=5",
+        "publishedAt": "2026-06-02T20:17:33.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,11 +75,11 @@
         "publishedAt": "2026-06-02T12:06:55.000Z"
       },
       {
-        "time": "12:53",
-        "title": "トランプ氏 イスラエル首相に怒り",
+        "time": "13:45",
+        "title": "米大統領とネタニヤフ氏 あつれき",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582659?source=rss",
-        "publishedAt": "2026-06-02T03:53:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582773?source=rss",
+        "publishedAt": "2026-06-03T04:45:37.000Z"
       },
       {
         "time": "10:56",
@@ -112,11 +112,18 @@
         "publishedAt": "2026-06-02T21:52:00.000Z"
       },
       {
-        "time": "10:00",
-        "title": "日経平均株価 初の6万8000円台",
+        "time": "12:52",
+        "title": "日経平均 一時2000円超値上がり",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582750?source=rss",
-        "publishedAt": "2026-06-03T01:00:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582770?source=rss",
+        "publishedAt": "2026-06-03T03:52:03.000Z"
+      },
+      {
+        "time": "13:42",
+        "title": "一時1ドル160円台 1カ月ぶり水準",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582776?source=rss",
+        "publishedAt": "2026-06-03T04:42:27.000Z"
       },
       {
         "time": "10:14",
@@ -138,22 +145,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582728?source=rss",
         "publishedAt": "2026-06-02T21:32:22.000Z"
-      },
-      {
-        "time": "22:22",
-        "title": "2万羽が焼け死んだ養鶏場 客続々",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582717?source=rss",
-        "publishedAt": "2026-06-02T13:22:16.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "09:14",
-        "title": "古座川 氾濫注意報に切り替え",
+        "time": "14:05",
+        "title": "特別警報の町 浸水で「別世界」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582744?source=rss",
-        "publishedAt": "2026-06-03T00:14:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582781?source=rss",
+        "publishedAt": "2026-06-03T05:05:34.000Z"
+      },
+      {
+        "time": "13:20",
+        "title": "旭川17歳殺害 腹立っていたと被告",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582769?source=rss",
+        "publishedAt": "2026-06-03T04:20:07.000Z"
       },
       {
         "time": "11:59",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582762?source=rss",
         "publishedAt": "2026-06-03T02:41:54.000Z"
-      },
-      {
-        "time": "10:36",
-        "title": "ケアマネ殺害 玄関先で襲ったか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582754?source=rss",
-        "publishedAt": "2026-06-03T01:36:55.000Z"
       }
     ],
     "subsidyHeadlines": [

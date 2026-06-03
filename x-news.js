@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-03T03:50:19.770Z",
+  "updatedAt": "2026-06-03T05:47:57.522Z",
   "items": [
     {
       "time": "11:52",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "台風6号 関東は夕方まで風ピーク"
     },
     {
-      "time": "10:56",
-      "title": "銃撃で中止の米夕食会 7月に開催",
+      "time": "14:28",
+      "title": "25年出生数67万人 10年連続で最少",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582755?source=rss",
-      "publishedAt": "2026-06-03T01:56:49.000Z",
-      "xQuery": "銃撃で中止の米夕食会 7月に開催"
+      "url": "https://news.yahoo.co.jp/pickup/6582782?source=rss",
+      "publishedAt": "2026-06-03T05:28:40.000Z",
+      "xQuery": "25年出生数67万人 10年連続で最少"
     },
     {
-      "time": "11:41",
-      "title": "妻が不妊治療で偽装 夫が病院提訴",
+      "time": "13:42",
+      "title": "一時1ドル160円台 1カ月ぶり水準",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582762?source=rss",
-      "publishedAt": "2026-06-03T02:41:54.000Z",
-      "xQuery": "妻が不妊治療で偽装 夫が病院提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6582776?source=rss",
+      "publishedAt": "2026-06-03T04:42:27.000Z",
+      "xQuery": "一時1ドル160円台 1カ月ぶり水準"
     },
     {
-      "time": "11:15",
-      "title": "江別暴行死 強盗致死罪成立の判断",
+      "time": "14:05",
+      "title": "特別警報の町 浸水で「別世界」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582756?source=rss",
-      "publishedAt": "2026-06-03T02:15:58.000Z",
-      "xQuery": "江別暴行死 強盗致死罪成立の判断"
+      "url": "https://news.yahoo.co.jp/pickup/6582781?source=rss",
+      "publishedAt": "2026-06-03T05:05:34.000Z",
+      "xQuery": "特別警報の町 浸水で「別世界」"
     },
     {
-      "time": "11:59",
-      "title": "はま寿司で迷惑行為撮影疑い 逮捕",
+      "time": "13:20",
+      "title": "旭川17歳殺害 腹立っていたと被告",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582766?source=rss",
-      "publishedAt": "2026-06-03T02:59:07.000Z",
-      "xQuery": "はま寿司で迷惑行為撮影疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6582769?source=rss",
+      "publishedAt": "2026-06-03T04:20:07.000Z",
+      "xQuery": "旭川17歳殺害 腹立っていたと被告"
     }
   ]
 };
