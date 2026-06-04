@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-04T01:39:16.549Z",
+  "updatedAt": "2026-06-04T03:22:16.756Z",
   "items": [
     {
-      "time": "09:54",
-      "title": "イスラエルとレバノン 停戦再合意",
+      "time": "11:34",
+      "title": "九州北部・中国・近畿が梅雨入り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582881?source=rss",
-      "publishedAt": "2026-06-04T00:54:21.000Z",
-      "xQuery": "イスラエルとレバノン 停戦再合意"
+      "url": "https://news.yahoo.co.jp/pickup/6582888?source=rss",
+      "publishedAt": "2026-06-04T02:34:13.000Z",
+      "xQuery": "九州北部・中国・近畿が梅雨入り"
     },
     {
-      "time": "08:23",
-      "title": "7～8日は気圧低下 めまいなど注意",
+      "time": "11:50",
+      "title": "元NHK副会長 今井義典さん死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582868?source=rss",
-      "publishedAt": "2026-06-03T23:23:22.000Z",
-      "xQuery": "7～8日は気圧低下 めまいなど注意"
+      "url": "https://news.yahoo.co.jp/pickup/6582894?source=rss",
+      "publishedAt": "2026-06-04T02:50:21.000Z",
+      "xQuery": "元NHK副会長 今井義典さん死去"
     },
     {
-      "time": "08:56",
-      "title": "米スペースX 調達額は12兆円規模",
+      "time": "11:59",
+      "title": "中国スパイ巡り FiveEyesが警告",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582873?source=rss",
-      "publishedAt": "2026-06-03T23:56:55.000Z",
-      "xQuery": "米スペースX 調達額は12兆円規模"
+      "url": "https://news.yahoo.co.jp/pickup/6582892?source=rss",
+      "publishedAt": "2026-06-04T02:59:37.000Z",
+      "xQuery": "中国スパイ巡り FiveEyesが警告"
     },
     {
-      "time": "08:03",
-      "title": "ヤマダHDとEDION 経営統合の方針",
+      "time": "12:10",
+      "title": "内田梨瑚被告 初めて法廷で謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582867?source=rss",
-      "publishedAt": "2026-06-03T23:03:23.000Z",
-      "xQuery": "ヤマダHDとEDION 経営統合の方針"
+      "url": "https://news.yahoo.co.jp/pickup/6582896?source=rss",
+      "publishedAt": "2026-06-04T03:10:58.000Z",
+      "xQuery": "内田梨瑚被告 初めて法廷で謝罪"
     },
     {
-      "time": "10:35",
-      "title": "姫路城しっくい剥がれる 台風か",
+      "time": "11:05",
+      "title": "ひき逃げで執行猶予中 無免許疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582884?source=rss",
-      "publishedAt": "2026-06-04T01:35:39.000Z",
-      "xQuery": "姫路城しっくい剥がれる 台風か"
+      "url": "https://news.yahoo.co.jp/pickup/6582885?source=rss",
+      "publishedAt": "2026-06-04T02:05:38.000Z",
+      "xQuery": "ひき逃げで執行猶予中 無免許疑い"
     }
   ]
 };
