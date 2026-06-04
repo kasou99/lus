@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T13:22:22.434Z",
+  "updatedAt": "2026-06-04T14:23:27.698Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,27 +52,27 @@
         "publishedAt": "2026-06-04T05:41:43.000Z"
       },
       {
-        "time": "17:17",
-        "title": "北陸発、地域インフラ×スタートアップの共創が加速、NGAS-Accelerator Program 2025で6社が成果発表",
-        "source": "BRIDGE（ブリッジ）",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTlNXdE5RZ05zcDNpVWw4YV9mcEQ3OEI3ZV9oTGhqOVlsWGJwQnpOSDlHTS1RSkNSd3lUdk5KazdYRS1BVTdaWmtsX2k2bWlBTnV3U0lkT1FiaDBKYlJlaDNiVEZZcWZsY1lDS3g0Vjc3U1p2R1QtMlVhTTZKZ2FwU1VR?oc=5",
-        "publishedAt": "2026-06-04T08:17:20.000Z"
+        "time": "21:37",
+        "title": "点描／一人歩き 危険を疑似体験 トヨタ基金がイベント",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DZm55V2k0V0dzYkdMTjBGaFlwSVFCRTdVMkdUa3NzNE1LMDM2bDBfSE5RLTB2akhFVHdILTZmVWFwOHJaRVF3clZBMW1QU2xYdFRrbWRHWkotUmVBclQ2bldsV0s3VnV0UWpJLV9LOUdwQlBx?oc=5",
+        "publishedAt": "2026-06-04T12:37:51.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "22:35",
+        "title": "入隊者の債務を免除 ロシアの焦り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582946?source=rss",
+        "publishedAt": "2026-06-04T13:35:40.000Z"
+      },
       {
         "time": "09:54",
         "title": "イスラエルとレバノン 停戦再合意",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582881?source=rss",
         "publishedAt": "2026-06-04T00:54:21.000Z"
-      },
-      {
-        "time": "17:21",
-        "title": "米 日本に12.5%の追加関税を検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582802?source=rss",
-        "publishedAt": "2026-06-03T08:21:38.000Z"
       },
       {
         "time": "17:35",
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "23:05",
+        "title": "路上で刺され1人心肺停止 2人けが",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582979?source=rss",
+        "publishedAt": "2026-06-04T14:05:45.000Z"
+      },
+      {
+        "time": "22:59",
+        "title": "内田被告 殺意あったのは共犯の女",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582978?source=rss",
+        "publishedAt": "2026-06-04T13:59:50.000Z"
+      },
+      {
         "time": "20:41",
         "title": "内田梨瑚被告が手紙 遺族は拒否",
         "source": "Yahoo!ニュース",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582934?source=rss",
         "publishedAt": "2026-06-04T08:18:25.000Z"
-      },
-      {
-        "time": "20:18",
-        "title": "熱中症疑い 都内で70代男性が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582957?source=rss",
-        "publishedAt": "2026-06-04T11:18:05.000Z"
-      },
-      {
-        "time": "21:18",
-        "title": "京都で米の20歳行方不明 両親胸中",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582964?source=rss",
-        "publishedAt": "2026-06-04T12:18:33.000Z"
       }
     ],
     "subsidyHeadlines": [

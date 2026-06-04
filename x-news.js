@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-04T13:22:23.020Z",
+  "updatedAt": "2026-06-04T14:23:28.432Z",
   "items": [
     {
       "time": "22:14",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "廃炉決めた原発の建て替え 目標案"
     },
     {
-      "time": "20:18",
-      "title": "熱中症疑い 都内で70代男性が死亡",
+      "time": "22:35",
+      "title": "入隊者の債務を免除 ロシアの焦り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582957?source=rss",
-      "publishedAt": "2026-06-04T11:18:05.000Z",
-      "xQuery": "熱中症疑い 都内で70代男性が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6582946?source=rss",
+      "publishedAt": "2026-06-04T13:35:40.000Z",
+      "xQuery": "入隊者の債務を免除 ロシアの焦り"
     },
     {
-      "time": "20:41",
-      "title": "内田梨瑚被告が手紙 遺族は拒否",
+      "time": "23:05",
+      "title": "路上で刺され1人心肺停止 2人けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582961?source=rss",
-      "publishedAt": "2026-06-04T11:41:27.000Z",
-      "xQuery": "内田梨瑚被告が手紙 遺族は拒否"
+      "url": "https://news.yahoo.co.jp/pickup/6582979?source=rss",
+      "publishedAt": "2026-06-04T14:05:45.000Z",
+      "xQuery": "路上で刺され1人心肺停止 2人けが"
     },
     {
-      "time": "21:18",
-      "title": "京都で米の20歳行方不明 両親胸中",
+      "time": "22:59",
+      "title": "内田被告 殺意あったのは共犯の女",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582964?source=rss",
-      "publishedAt": "2026-06-04T12:18:33.000Z",
-      "xQuery": "京都で米の20歳行方不明 両親胸中"
+      "url": "https://news.yahoo.co.jp/pickup/6582978?source=rss",
+      "publishedAt": "2026-06-04T13:59:50.000Z",
+      "xQuery": "内田被告 殺意あったのは共犯の女"
     },
     {
-      "time": "20:05",
-      "title": "脱毛大手ミュゼ 破産の舞台裏激白",
+      "time": "22:18",
+      "title": "東京国際フォーラム 29年から休館",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582956?source=rss",
-      "publishedAt": "2026-06-04T11:05:05.000Z",
-      "xQuery": "脱毛大手ミュゼ 破産の舞台裏激白"
+      "url": "https://news.yahoo.co.jp/pickup/6582967?source=rss",
+      "publishedAt": "2026-06-04T13:18:11.000Z",
+      "xQuery": "東京国際フォーラム 29年から休館"
     }
   ]
 };
