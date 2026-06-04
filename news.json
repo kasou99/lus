@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-06-04T19:20:28.396Z",
+  "updatedAt": "2026-06-04T20:17:17.172Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "10:41",
-        "title": "設備保守の腕、南極基地で発揮 三機工業・東海林さん",
+        "time": "05:00",
+        "title": "DMG森精機、鍵は「ソフト定義とAI」 ハノーバーメッセ初出展の狙い",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKTFlSUDMtX2hDNGJXZkNMbmdieHZYM3Z3YUFwMFRwUEh2N3ltVmItR3FaSWpFakVsWHE1T3EyN1VRMnZjdEZJSDRLbkZDRUs4OWx6R2xhQzJ1TWRINnp2ZlJ4dGs5RV84VnMtUA?oc=5",
+        "publishedAt": "2026-06-04T20:00:00.000Z"
+      },
+      {
+        "time": "05:03",
+        "title": "深層断面／不確実な環境も“商社力”で成長",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Gb0gzSlAwTXYyNHBSY2I0TG1qa1RRTUNHVFRzaUFJSEhEbDBRVXpNT3phU0hTallKblJlTGxpRnpjV2p4MDY3X2U3RlJwUFJaZ2p4X19rLWNzZ1JLeVQxM1B0bXppMXZmNGNKdTIxcjZqQjlISjlGVFlTOA?oc=5",
-        "publishedAt": "2026-06-04T01:41:15.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16aTlnZDhNd0RvOFV6Mks4QzhqM2ptQmt5eUM3VVBLOFh6NFJXd2xEWVh5MFU4dnNKY1FZNHZ0YUZwMkctRHdCWWRIZE5nWXZCVlQtZEhfZjhhWXM?oc=5",
+        "publishedAt": "2026-06-04T20:03:45.000Z"
       },
       {
         "time": "09:00",
@@ -17,11 +24,11 @@
         "publishedAt": "2026-06-04T00:00:01.000Z"
       },
       {
-        "time": "05:12",
-        "title": "25年度 工作機械受注、米中で活況 オークマ、マザック、航空宇宙が押し上げ ブラザー、半導体など拡大",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04NEdjMUczR2Q2c2JkUzdybGRSYXJ0aDRSVmdldmR6Vm9fbDdicG81UUJoN0xxV2RQYi1FTU5SbXJFVUlmYWM0X3lHT1RQVkVsdzBCWGhiYkJBY1VpQjhBQ0pUdEs0MlFDRVFIZXpPRkg0Zmc?oc=5",
-        "publishedAt": "2026-06-03T20:12:01.000Z"
+        "time": "21:19",
+        "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xcWxpSS15RjRPNy1EQ254WmdkS3kwb0E0NkNtV283dEw5LWxQNkIwamlJa1NGVkFhM0RsaUZyQk9ndTR1cEw2SkdWWWNSeEpSVHpTTlpfazdSanBtRHJB?oc=5",
+        "publishedAt": "2026-06-04T12:19:53.000Z"
       },
       {
         "time": "11:01",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-06-04T02:01:52.000Z"
       },
       {
-        "time": "21:19",
-        "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xcWxpSS15RjRPNy1EQ254WmdkS3kwb0E0NkNtV283dEw5LWxQNkIwamlJa1NGVkFhM0RsaUZyQk9ndTR1cEw2SkdWWWNSeEpSVHpTTlpfazdSanBtRHJB?oc=5",
-        "publishedAt": "2026-06-04T12:19:53.000Z"
-      },
-      {
         "time": "00:18",
         "title": "最新バージョン「Mastercam2026」を「2026オークマ東日本CSセンターマシンフェア」に出展",
         "source": "ニコニコニュース",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-04T15:18:39.000Z"
       },
       {
-        "time": "21:37",
-        "title": "点描／一人歩き 危険を疑似体験 トヨタ基金がイベント",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DZm55V2k0V0dzYkdMTjBGaFlwSVFCRTdVMkdUa3NzNE1LMDM2bDBfSE5RLTB2akhFVHdILTZmVWFwOHJaRVF3clZBMW1QU2xYdFRrbWRHWkotUmVBclQ2bldsV0s3VnV0UWpJLV9LOUdwQlBx?oc=5",
-        "publishedAt": "2026-06-04T12:37:51.000Z"
-      },
-      {
         "time": "18:02",
         "title": "6月3日、内閣委員会にて30分間の質疑を行いました。",
         "source": "選挙ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tLXJ3M1BOTDNpcW1jR1pydkpiX0FRRmpMclk4Z2kzRnVRS2xGU0hqazR1Ty1WZXF6Uy12ZmdTRTNzTnMtSnc5MlhNMnljQ2xTMmQ3MU4zNjk3M3YtMmxB?oc=5",
         "publishedAt": "2026-06-04T09:02:51.000Z"
+      },
+      {
+        "time": "05:48",
+        "title": "25年度 工作機械受注、米中で活況 オークマ、マザック、航空宇宙が押し上げ ブラザー、半導体など拡大",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZHR6M2JtVXZNbzIyWXp3cUVacFRpeFZ1X3ZKdVRIcWdHbHNRYXZnNDF6ZWczN29pOE5pUUw2cG55Y0NpbXFXamYyRHh4MXpzYUdUOWNmN3pFenQ2dEt4LUNnVTBycEg4Tl83ZFZPa1BweTFaRXBGYmd3SEE3eFdTdXpyd1EtNERoZjNNY2NMSl9pWE43b1ZnbG1GUVBOeHp6cWZ6YTdoMTZaUDl4OVJCLW5rX2JqTnhEX0NpcTlaQ1p5ZmVVYUt1WlBEeVlOQUlMVUttM3hmWDNPWHhaVjl6WGQ0QdIBkwFBVV95cUxPWllTNEREM08yVzN4c3QtSkUzbjFJYk9BSzNkaHpYcXczT0gybWJPT1hYV0otdVZhTy1zOExPTU1xY1Fwek1ZTFdCRmlzdmhOVUlvbkw1R0lOb1EtWm5sb1R1d0tRNGJrWVZIMFN1N1BWV3cyeUJzZVg4bkwxX0tiYzBYZTdXY1NtZjJ4ZndEU1dMUDQ?oc=5",
+        "publishedAt": "2026-06-03T20:48:45.000Z"
       }
     ],
     "worldHeadlines": [
