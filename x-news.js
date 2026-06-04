@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-03T23:13:43.978Z",
+  "updatedAt": "2026-06-04T00:08:39.473Z",
   "items": [
     {
-      "time": "07:22",
-      "title": "食料品の消費税1% 今月最終判断へ",
+      "time": "08:22",
+      "title": "補正予算案 異例のスピード成立へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582861?source=rss",
-      "publishedAt": "2026-06-03T22:22:54.000Z",
-      "xQuery": "食料品の消費税1% 今月最終判断へ"
+      "url": "https://news.yahoo.co.jp/pickup/6582869?source=rss",
+      "publishedAt": "2026-06-03T23:22:53.000Z",
+      "xQuery": "補正予算案 異例のスピード成立へ"
     },
     {
-      "time": "07:01",
-      "title": "人権団体で「パワハラ」騒動 争議",
+      "time": "08:14",
+      "title": "天安門事件37年 中国は追悼を抑圧",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582860?source=rss",
-      "publishedAt": "2026-06-03T22:01:12.000Z",
-      "xQuery": "人権団体で「パワハラ」騒動 争議"
+      "url": "https://news.yahoo.co.jp/pickup/6582866?source=rss",
+      "publishedAt": "2026-06-03T23:14:38.000Z",
+      "xQuery": "天安門事件37年 中国は追悼を抑圧"
     },
     {
       "time": "08:03",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "たつの市遺体 指名手配の男と判明"
     },
     {
-      "time": "00:09",
-      "title": "トクリュウか 公開手配の28歳逮捕",
+      "time": "07:35",
+      "title": "4人襲い居座ったクマ 外に逃げる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582856?source=rss",
-      "publishedAt": "2026-06-03T15:09:44.000Z",
-      "xQuery": "トクリュウか 公開手配の28歳逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6582862?source=rss",
+      "publishedAt": "2026-06-03T22:35:37.000Z",
+      "xQuery": "4人襲い居座ったクマ 外に逃げる"
     }
   ]
 };
