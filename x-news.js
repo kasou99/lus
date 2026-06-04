@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-04T07:04:51.657Z",
+  "updatedAt": "2026-06-04T08:49:54.128Z",
   "items": [
     {
       "time": "15:43",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "衆院定数は比例45削減 首相指示"
     },
     {
-      "time": "13:35",
-      "title": "火砕流35年 変わらぬ思い抱え慰霊",
+      "time": "16:55",
+      "title": "天安門事件 検閲で過去消せずと米",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582909?source=rss",
-      "publishedAt": "2026-06-04T04:35:54.000Z",
-      "xQuery": "火砕流35年 変わらぬ思い抱え慰霊"
-    },
-    {
-      "time": "12:50",
-      "title": "指名手配の容疑者 死亡2週間前か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582903?source=rss",
-      "publishedAt": "2026-06-04T03:50:52.000Z",
-      "xQuery": "指名手配の容疑者 死亡2週間前か"
+      "url": "https://news.yahoo.co.jp/pickup/6582932?source=rss",
+      "publishedAt": "2026-06-04T07:55:05.000Z",
+      "xQuery": "天安門事件 検閲で過去消せずと米"
     },
     {
       "time": "15:41",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "内田梨瑚被告 涙流し傍聴席に一礼"
     },
     {
-      "time": "15:13",
-      "title": "かけ子目的で国外誘拐疑い2人逮捕",
+      "time": "17:18",
+      "title": "田久保前市長を追送検 捜査終結",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582917?source=rss",
-      "publishedAt": "2026-06-04T06:13:57.000Z",
-      "xQuery": "かけ子目的で国外誘拐疑い2人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6582934?source=rss",
+      "publishedAt": "2026-06-04T08:18:25.000Z",
+      "xQuery": "田久保前市長を追送検 捜査終結"
+    },
+    {
+      "time": "17:46",
+      "title": "パシフィコ横浜 大ホール休館へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582939?source=rss",
+      "publishedAt": "2026-06-04T08:46:12.000Z",
+      "xQuery": "パシフィコ横浜 大ホール休館へ"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T07:04:50.510Z",
+  "updatedAt": "2026-06-04T08:49:53.415Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-06-03T13:10:00.000Z"
       },
       {
-        "time": "16:38",
-        "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xcWxpSS15RjRPNy1EQ254WmdkS3kwb0E0NkNtV283dEw5LWxQNkIwamlJa1NGVkFhM0RsaUZyQk9ndTR1cEw2SkdWWWNSeEpSVHpTTlpfazdSanBtRHJB?oc=5",
-        "publishedAt": "2026-06-03T07:38:51.000Z"
+        "time": "14:41",
+        "title": "最新バージョン「Mastercam2026」を「2026オークマ東日本CSセンターマシンフェア」に出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CV2FNLTdVdGNRX3ExRGMyTEZiMlVtbGJySUt5VGFkb3BwLUJWcDh6STFuZWxycGlrUk84X21Od1ZIbDIwY2N5Z2daQ0Y4cHozNWxraGgtZndvaVJSY1dVTUQxWHJmaU53bnc?oc=5",
+        "publishedAt": "2026-06-04T05:41:43.000Z"
       },
       {
         "time": "10:27",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-06-04T01:27:30.000Z"
       },
       {
-        "time": "17:03",
-        "title": "ハンファエアロ大田工場で爆発5人死亡 火災安全調査で2年連続不良判定 - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSzRwdElJcWF5Vy0tYWFjdk44Ny1XYzVjZjFhMFZjeEVzVk5HWmtIQXNJVGxGb1h1cFY2ZmZ5TUpMVVJWNnNDRmN5X1hidTVXV0c4Zlg2TGY1b0ZQaXZJcWl5OVdBZ0ctZ1p6MVBQS01SUl9HME5TMEJSMUllVF9nRUpIVUZVVnVSOTFnbDVEbXZucjRQd1HSAZYBQVVfeXFMUEs0cHRJSXFheVctLWFhY3ZOODctV2M1Y2YxYTBWY3hFc1ZOR1prSEFzSVRsRm9YdXBWNmZmeU1KTFVSVjZzQ0ZjeV9YYnU1V1dHOGZYNkxmNW9GUGl2SXFpeTlXQWdHLWdaejFQUEtNUlJfRzBOUzBCUjFJZVRfZ0VKSFVGVVZ1UjkxZ2w1RG12bnI0UHdR?oc=5",
-        "publishedAt": "2026-06-03T08:03:00.000Z"
+        "time": "18:42",
+        "title": "自動化を支える／プロフェクト 中小の個性鑑み生産管理DX化",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGRkFILTlSNW9zTzBkdXlwRWcwam1JWW5qMG52NW0xa2JqaVI4Q1J0QmhQYkF5LXBkaUFHWmRSWWJuV18yUXU5OVp2djlZbl8yQl9LQl92bDVUWHpERnZ4SE1UUmRWRDNpWTEwWE9SYXU5OVlX?oc=5",
+        "publishedAt": "2026-06-03T09:42:24.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,18 +82,11 @@
         "publishedAt": "2026-06-03T08:35:25.000Z"
       },
       {
-        "time": "13:47",
-        "title": "ラオス洞窟閉じ込め なお2人不明",
+        "time": "16:55",
+        "title": "天安門事件 検閲で過去消せずと米",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582911?source=rss",
-        "publishedAt": "2026-06-04T04:47:28.000Z"
-      },
-      {
-        "time": "11:59",
-        "title": "中国スパイ巡り FiveEyesが警告",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582892?source=rss",
-        "publishedAt": "2026-06-04T02:59:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582932?source=rss",
+        "publishedAt": "2026-06-04T07:55:05.000Z"
       },
       {
         "time": "08:14",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582866?source=rss",
         "publishedAt": "2026-06-03T23:14:38.000Z"
+      },
+      {
+        "time": "13:47",
+        "title": "ラオス洞窟閉じ込め なお2人不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582911?source=rss",
+        "publishedAt": "2026-06-04T04:47:28.000Z"
       }
     ],
     "economyHeadlines": [
@@ -112,11 +112,11 @@
         "publishedAt": "2026-06-03T23:03:23.000Z"
       },
       {
-        "time": "20:46",
-        "title": "日銀総裁 利上げに前向き姿勢示す",
+        "time": "16:06",
+        "title": "JR東 18駅で信号システムに不備",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582835?source=rss",
-        "publishedAt": "2026-06-03T11:46:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582922?source=rss",
+        "publishedAt": "2026-06-04T07:06:24.000Z"
       },
       {
         "time": "08:56",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-06-04T05:42:25.000Z"
       },
       {
+        "time": "17:46",
+        "title": "パシフィコ横浜 大ホール休館へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582939?source=rss",
+        "publishedAt": "2026-06-04T08:46:12.000Z"
+      },
+      {
         "time": "11:32",
         "title": "スシローとくら寿司 海外戦略比較",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582889?source=rss",
         "publishedAt": "2026-06-04T02:32:32.000Z"
-      },
-      {
-        "time": "20:34",
-        "title": "無断キャンセル200個 弁当店無念",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582834?source=rss",
-        "publishedAt": "2026-06-03T11:34:29.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-04T04:30:35.000Z"
       },
       {
+        "time": "17:18",
+        "title": "田久保前市長を追送検 捜査終結",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582934?source=rss",
+        "publishedAt": "2026-06-04T08:18:25.000Z"
+      },
+      {
         "time": "12:48",
         "title": "妻が不妊治療偽装 元夫に病院反論",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582901?source=rss",
         "publishedAt": "2026-06-04T03:48:39.000Z"
-      },
-      {
-        "time": "12:50",
-        "title": "指名手配の容疑者 死亡2週間前か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582903?source=rss",
-        "publishedAt": "2026-06-04T03:50:52.000Z"
       }
     ],
     "subsidyHeadlines": [
