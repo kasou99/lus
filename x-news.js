@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-04T21:07:28.392Z",
+  "updatedAt": "2026-06-04T22:04:15.875Z",
   "items": [
+    {
+      "time": "06:42",
+      "title": "内閣支持率で若年層50%割れ 毎日",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582984?source=rss",
+      "publishedAt": "2026-06-04T21:42:43.000Z",
+      "xQuery": "内閣支持率で若年層50%割れ 毎日"
+    },
     {
       "time": "23:15",
       "title": "消費減税 外食業界などに補助検討",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "不法就労通報に1万円 県に賛否"
     },
     {
-      "time": "23:05",
-      "title": "路上で刺され1人心肺停止 2人けが",
+      "time": "06:08",
+      "title": "路上で刺され女性死亡 2人けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582979?source=rss",
-      "publishedAt": "2026-06-04T14:05:45.000Z",
-      "xQuery": "路上で刺され1人心肺停止 2人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6582981?source=rss",
+      "publishedAt": "2026-06-04T21:08:24.000Z",
+      "xQuery": "路上で刺され女性死亡 2人けが"
     },
     {
       "time": "22:59",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582978?source=rss",
       "publishedAt": "2026-06-04T13:59:50.000Z",
       "xQuery": "内田被告 殺意あったのは共犯の女"
-    },
-    {
-      "time": "18:56",
-      "title": "足立の花火で入場規制を無視 波紋",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582947?source=rss",
-      "publishedAt": "2026-06-04T09:56:08.000Z",
-      "xQuery": "足立の花火で入場規制を無視 波紋"
     }
   ]
 };
