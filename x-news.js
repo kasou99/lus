@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-04T14:23:28.432Z",
+  "updatedAt": "2026-06-04T15:43:12.525Z",
   "items": [
     {
-      "time": "22:14",
-      "title": "廃炉決めた原発の建て替え 目標案",
+      "time": "23:15",
+      "title": "消費減税 外食業界などに補助検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582968?source=rss",
-      "publishedAt": "2026-06-04T13:14:08.000Z",
-      "xQuery": "廃炉決めた原発の建て替え 目標案"
+      "url": "https://news.yahoo.co.jp/pickup/6582980?source=rss",
+      "publishedAt": "2026-06-04T14:15:57.000Z",
+      "xQuery": "消費減税 外食業界などに補助検討"
     },
     {
-      "time": "22:35",
-      "title": "入隊者の債務を免除 ロシアの焦り",
+      "time": "18:12",
+      "title": "不法就労通報に1万円 県に賛否",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582946?source=rss",
-      "publishedAt": "2026-06-04T13:35:40.000Z",
-      "xQuery": "入隊者の債務を免除 ロシアの焦り"
+      "url": "https://news.yahoo.co.jp/pickup/6582941?source=rss",
+      "publishedAt": "2026-06-04T09:12:56.000Z",
+      "xQuery": "不法就労通報に1万円 県に賛否"
     },
     {
       "time": "23:05",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "内田被告 殺意あったのは共犯の女"
     },
     {
-      "time": "22:18",
-      "title": "東京国際フォーラム 29年から休館",
+      "time": "18:56",
+      "title": "足立の花火で入場規制を無視 波紋",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582967?source=rss",
-      "publishedAt": "2026-06-04T13:18:11.000Z",
-      "xQuery": "東京国際フォーラム 29年から休館"
+      "url": "https://news.yahoo.co.jp/pickup/6582947?source=rss",
+      "publishedAt": "2026-06-04T09:56:08.000Z",
+      "xQuery": "足立の花火で入場規制を無視 波紋"
     }
   ]
 };
