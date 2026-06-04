@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T08:49:53.415Z",
+  "updatedAt": "2026-06-04T10:23:54.655Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-06-04T02:01:52.000Z"
       },
       {
+        "time": "18:01",
+        "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xcWxpSS15RjRPNy1EQ254WmdkS3kwb0E0NkNtV283dEw5LWxQNkIwamlJa1NGVkFhM0RsaUZyQk9ndTR1cEw2SkdWWWNSeEpSVHpTTlpfazdSanBtRHJB?oc=5",
+        "publishedAt": "2026-06-04T09:01:04.000Z"
+      },
+      {
         "time": "22:10",
         "title": "次世代設備保全クラウド「M2X」が「第5回FOOMAアワード2026」にて審査委員会賞を受賞",
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55c2FuVGJxOXZCeTlRck15azQzTjE0d3NCTThPeUN5NXNmeGhLOURFb1FUMnZkVl9MLXIyYWlqZ3I5MjliOW5YQk1JNDF5UTR4LWpXVDRVRmFUaEo0RlBINWs2dG1ZZmtfa09r?oc=5",
         "publishedAt": "2026-06-03T13:10:00.000Z"
-      },
-      {
-        "time": "14:41",
-        "title": "最新バージョン「Mastercam2026」を「2026オークマ東日本CSセンターマシンフェア」に出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CV2FNLTdVdGNRX3ExRGMyTEZiMlVtbGJySUt5VGFkb3BwLUJWcDh6STFuZWxycGlrUk84X21Od1ZIbDIwY2N5Z2daQ0Y4cHozNWxraGgtZndvaVJSY1dVTUQxWHJmaU53bnc?oc=5",
-        "publishedAt": "2026-06-04T05:41:43.000Z"
       },
       {
         "time": "10:27",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-06-04T01:27:30.000Z"
       },
       {
-        "time": "18:42",
-        "title": "自動化を支える／プロフェクト 中小の個性鑑み生産管理DX化",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGRkFILTlSNW9zTzBkdXlwRWcwam1JWW5qMG52NW0xa2JqaVI4Q1J0QmhQYkF5LXBkaUFHWmRSWWJuV18yUXU5OVp2djlZbl8yQl9LQl92bDVUWHpERnZ4SE1UUmRWRDNpWTEwWE9SYXU5OVlX?oc=5",
-        "publishedAt": "2026-06-03T09:42:24.000Z"
+        "time": "17:17",
+        "title": "北陸発、地域インフラ×スタートアップの共創が加速、NGAS-Accelerator Program 2025で6社が成果発表",
+        "source": "BRIDGE（ブリッジ）",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTlNXdE5RZ05zcDNpVWw4YV9mcEQ3OEI3ZV9oTGhqOVlsWGJwQnpOSDlHTS1RSkNSd3lUdk5KazdYRS1BVTdaWmtsX2k2bWlBTnV3U0lkT1FiaDBKYlJlaDNiVEZZcWZsY1lDS3g0Vjc3U1p2R1QtMlVhTTZKZ2FwU1VR?oc=5",
+        "publishedAt": "2026-06-04T08:17:20.000Z"
       }
     ],
     "worldHeadlines": [
@@ -140,21 +140,14 @@
         "publishedAt": "2026-06-04T08:46:12.000Z"
       },
       {
-        "time": "11:32",
-        "title": "スシローとくら寿司 海外戦略比較",
+        "time": "18:32",
+        "title": "破格の朝サイゼ ガラガラの店も",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582889?source=rss",
-        "publishedAt": "2026-06-04T02:32:32.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582942?source=rss",
+        "publishedAt": "2026-06-04T09:32:16.000Z"
       }
     ],
     "localHeadlines": [
-      {
-        "time": "11:34",
-        "title": "九州北部・中国・近畿が梅雨入り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582888?source=rss",
-        "publishedAt": "2026-06-04T02:34:13.000Z"
-      },
       {
         "time": "13:35",
         "title": "火砕流35年 変わらぬ思い抱え慰霊",
@@ -177,6 +170,13 @@
         "publishedAt": "2026-06-04T04:30:35.000Z"
       },
       {
+        "time": "18:12",
+        "title": "不法就労通報に1万円 県に賛否",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582941?source=rss",
+        "publishedAt": "2026-06-04T09:12:56.000Z"
+      },
+      {
         "time": "17:18",
         "title": "田久保前市長を追送検 捜査終結",
         "source": "Yahoo!ニュース",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-04T08:18:25.000Z"
       },
       {
-        "time": "12:48",
-        "title": "妻が不妊治療偽装 元夫に病院反論",
+        "time": "18:56",
+        "title": "足立の花火で入場規制を無視 波紋",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582901?source=rss",
-        "publishedAt": "2026-06-04T03:48:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582947?source=rss",
+        "publishedAt": "2026-06-04T09:56:08.000Z"
       }
     ],
     "subsidyHeadlines": [

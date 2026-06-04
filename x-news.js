@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-04T08:49:54.128Z",
+  "updatedAt": "2026-06-04T10:23:55.347Z",
   "items": [
     {
-      "time": "15:43",
-      "title": "衆院定数は比例45削減 首相指示",
+      "time": "17:49",
+      "title": "出生数最低 首相「非常に厳しい」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582921?source=rss",
-      "publishedAt": "2026-06-04T06:43:19.000Z",
-      "xQuery": "衆院定数は比例45削減 首相指示"
+      "url": "https://news.yahoo.co.jp/pickup/6582940?source=rss",
+      "publishedAt": "2026-06-04T08:49:03.000Z",
+      "xQuery": "出生数最低 首相「非常に厳しい」"
     },
     {
       "time": "16:55",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "天安門事件 検閲で過去消せずと米"
     },
     {
-      "time": "15:41",
-      "title": "内田梨瑚被告 涙流し傍聴席に一礼",
+      "time": "18:39",
+      "title": "閉山中の富士登山 禁止論に反対も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582920?source=rss",
-      "publishedAt": "2026-06-04T06:41:14.000Z",
-      "xQuery": "内田梨瑚被告 涙流し傍聴席に一礼"
+      "url": "https://news.yahoo.co.jp/pickup/6582945?source=rss",
+      "publishedAt": "2026-06-04T09:39:01.000Z",
+      "xQuery": "閉山中の富士登山 禁止論に反対も"
     },
     {
-      "time": "17:18",
-      "title": "田久保前市長を追送検 捜査終結",
+      "time": "18:56",
+      "title": "足立の花火で入場規制を無視 波紋",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582934?source=rss",
-      "publishedAt": "2026-06-04T08:18:25.000Z",
-      "xQuery": "田久保前市長を追送検 捜査終結"
+      "url": "https://news.yahoo.co.jp/pickup/6582947?source=rss",
+      "publishedAt": "2026-06-04T09:56:08.000Z",
+      "xQuery": "足立の花火で入場規制を無視 波紋"
     },
     {
-      "time": "17:46",
-      "title": "パシフィコ横浜 大ホール休館へ",
+      "time": "18:32",
+      "title": "破格の朝サイゼ ガラガラの店も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582939?source=rss",
-      "publishedAt": "2026-06-04T08:46:12.000Z",
-      "xQuery": "パシフィコ横浜 大ホール休館へ"
+      "url": "https://news.yahoo.co.jp/pickup/6582942?source=rss",
+      "publishedAt": "2026-06-04T09:32:16.000Z",
+      "xQuery": "破格の朝サイゼ ガラガラの店も"
     }
   ]
 };
