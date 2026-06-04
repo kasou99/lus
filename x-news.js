@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-04T05:10:49.286Z",
+  "updatedAt": "2026-06-04T07:04:51.657Z",
   "items": [
+    {
+      "time": "15:43",
+      "title": "衆院定数は比例45削減 首相指示",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582921?source=rss",
+      "publishedAt": "2026-06-04T06:43:19.000Z",
+      "xQuery": "衆院定数は比例45削減 首相指示"
+    },
     {
       "time": "13:35",
       "title": "火砕流35年 変わらぬ思い抱え慰霊",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582909?source=rss",
       "publishedAt": "2026-06-04T04:35:54.000Z",
       "xQuery": "火砕流35年 変わらぬ思い抱え慰霊"
-    },
-    {
-      "time": "13:01",
-      "title": "高性能AIを巡る米大統領令 狙い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582906?source=rss",
-      "publishedAt": "2026-06-04T04:01:58.000Z",
-      "xQuery": "高性能AIを巡る米大統領令 狙い"
     },
     {
       "time": "12:50",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "指名手配の容疑者 死亡2週間前か"
     },
     {
-      "time": "11:21",
-      "title": "クマが工場脱出 自ら窓開けたか",
+      "time": "15:41",
+      "title": "内田梨瑚被告 涙流し傍聴席に一礼",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582887?source=rss",
-      "publishedAt": "2026-06-04T02:21:57.000Z",
-      "xQuery": "クマが工場脱出 自ら窓開けたか"
+      "url": "https://news.yahoo.co.jp/pickup/6582920?source=rss",
+      "publishedAt": "2026-06-04T06:41:14.000Z",
+      "xQuery": "内田梨瑚被告 涙流し傍聴席に一礼"
     },
     {
-      "time": "12:10",
-      "title": "内田梨瑚被告 初めて法廷で謝罪",
+      "time": "15:13",
+      "title": "かけ子目的で国外誘拐疑い2人逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582896?source=rss",
-      "publishedAt": "2026-06-04T03:10:58.000Z",
-      "xQuery": "内田梨瑚被告 初めて法廷で謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6582917?source=rss",
+      "publishedAt": "2026-06-04T06:13:57.000Z",
+      "xQuery": "かけ子目的で国外誘拐疑い2人逮捕"
     }
   ]
 };

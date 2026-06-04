@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T05:10:48.205Z",
+  "updatedAt": "2026-06-04T07:04:50.510Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-06-04T01:41:15.000Z"
       },
       {
-        "time": "10:51",
-        "title": "プレスリリース：次世代設備保全クラウド「M2X」が、現場のタスクを\"見える化\"する「カンバン」ビューを新たに搭載（PR TIMES）",
-        "source": "毎日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JRXk4OExyMmw4V2llVFRSM3ZFOUlsdU03dmN4Y2JiUGJMa19LLVloZ2FndFZ6SXZGR0ZIRHFGU0pENU1kYjBidndhUkZHb2hvRmhmTElDRE51ekRQSkdkSFdxbm1RLVBu?oc=5",
-        "publishedAt": "2026-06-04T01:51:27.000Z"
+        "time": "09:00",
+        "title": "次世代設備保全クラウド「M2X」が、現場のタスクを\"見える化\"する「カンバン」ビューを新たに搭載",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwMTFuMEkycXlSWlktMTlPdnJIanRFazNFS1R5NVEwR3NoV2ZXRWY4dXh4NDNuclNOODc5WEV4Ry04VFVscXVMeGM1cmpiREZSNkFrVU1wZXRPRkxxYXV5T2s4SVFBTmNfeGc?oc=5",
+        "publishedAt": "2026-06-04T00:00:01.000Z"
       },
       {
         "time": "11:01",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-03T07:38:51.000Z"
       },
       {
-        "time": "17:00",
-        "title": "卓上フライス盤の世界市場（2026年～2032年）、市場規模（3軸、4軸、5軸）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUbzNEQndUOWx0OUlmSWhzWlFwTE1PQno4ZnpnTDdZYlFWancwM3VZeVdJclRKaHdqTmtEaTJHeFRUQlEyZWNuMkJ3QXl5OU0?oc=5",
-        "publishedAt": "2026-06-03T08:00:00.000Z"
-      },
-      {
         "time": "10:27",
         "title": "新役員／TOPPAN 執行役員アカウントパートナー九州・中四国エリア統括・木村寿志氏ほか",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqZGNQSHVsR0drZ1lnUTVtRVIwM0FqOHpLYkVVaFlLa1dMVU85cUI3ckF4TndremNwRi04d1NpWEx4cjdhTjRWTF9EYlkzY01ZdGNKRl9IYlNDYU0?oc=5",
         "publishedAt": "2026-06-04T01:27:30.000Z"
+      },
+      {
+        "time": "17:03",
+        "title": "ハンファエアロ大田工場で爆発5人死亡 火災安全調査で2年連続不良判定 - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSzRwdElJcWF5Vy0tYWFjdk44Ny1XYzVjZjFhMFZjeEVzVk5HWmtIQXNJVGxGb1h1cFY2ZmZ5TUpMVVJWNnNDRmN5X1hidTVXV0c4Zlg2TGY1b0ZQaXZJcWl5OVdBZ0ctZ1p6MVBQS01SUl9HME5TMEJSMUllVF9nRUpIVUZVVnVSOTFnbDVEbXZucjRQd1HSAZYBQVVfeXFMUEs0cHRJSXFheVctLWFhY3ZOODctV2M1Y2YxYTBWY3hFc1ZOR1prSEFzSVRsRm9YdXBWNmZmeU1KTFVSVjZzQ0ZjeV9YYnU1V1dHOGZYNkxmNW9GUGl2SXFpeTlXQWdHLWdaejFQUEtNUlJfRzBOUzBCUjFJZVRfZ0VKSFVGVVZ1UjkxZ2w1RG12bnI0UHdR?oc=5",
+        "publishedAt": "2026-06-03T08:03:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-06-03T23:56:55.000Z"
       },
       {
+        "time": "14:42",
+        "title": "村上世彰氏長女 テレ朝HD大株主",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582916?source=rss",
+        "publishedAt": "2026-06-04T05:42:25.000Z"
+      },
+      {
         "time": "11:32",
         "title": "スシローとくら寿司 海外戦略比較",
         "source": "Yahoo!ニュース",
@@ -133,18 +140,11 @@
         "publishedAt": "2026-06-04T02:32:32.000Z"
       },
       {
-        "time": "18:26",
-        "title": "前橋唯一の百貨店 閉店残念と知事",
+        "time": "20:34",
+        "title": "無断キャンセル200個 弁当店無念",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582814?source=rss",
-        "publishedAt": "2026-06-03T09:26:26.000Z"
-      },
-      {
-        "time": "20:18",
-        "title": "中川政七商店 売上高100億円超え",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582831?source=rss",
-        "publishedAt": "2026-06-03T11:18:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582834?source=rss",
+        "publishedAt": "2026-06-03T11:34:29.000Z"
       }
     ],
     "localHeadlines": [
@@ -161,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582909?source=rss",
         "publishedAt": "2026-06-04T04:35:54.000Z"
+      },
+      {
+        "time": "15:41",
+        "title": "内田梨瑚被告 涙流し傍聴席に一礼",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582920?source=rss",
+        "publishedAt": "2026-06-04T06:41:14.000Z"
       },
       {
         "time": "13:30",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582903?source=rss",
         "publishedAt": "2026-06-04T03:50:52.000Z"
-      },
-      {
-        "time": "12:10",
-        "title": "内田梨瑚被告 初めて法廷で謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582896?source=rss",
-        "publishedAt": "2026-06-04T03:10:58.000Z"
       }
     ],
     "subsidyHeadlines": [
