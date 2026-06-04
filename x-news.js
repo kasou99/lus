@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-04T00:08:39.473Z",
+  "updatedAt": "2026-06-04T01:39:16.549Z",
   "items": [
     {
-      "time": "08:22",
-      "title": "補正予算案 異例のスピード成立へ",
+      "time": "09:54",
+      "title": "イスラエルとレバノン 停戦再合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582869?source=rss",
-      "publishedAt": "2026-06-03T23:22:53.000Z",
-      "xQuery": "補正予算案 異例のスピード成立へ"
+      "url": "https://news.yahoo.co.jp/pickup/6582881?source=rss",
+      "publishedAt": "2026-06-04T00:54:21.000Z",
+      "xQuery": "イスラエルとレバノン 停戦再合意"
     },
     {
-      "time": "08:14",
-      "title": "天安門事件37年 中国は追悼を抑圧",
+      "time": "08:23",
+      "title": "7～8日は気圧低下 めまいなど注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582866?source=rss",
-      "publishedAt": "2026-06-03T23:14:38.000Z",
-      "xQuery": "天安門事件37年 中国は追悼を抑圧"
+      "url": "https://news.yahoo.co.jp/pickup/6582868?source=rss",
+      "publishedAt": "2026-06-03T23:23:22.000Z",
+      "xQuery": "7～8日は気圧低下 めまいなど注意"
+    },
+    {
+      "time": "08:56",
+      "title": "米スペースX 調達額は12兆円規模",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582873?source=rss",
+      "publishedAt": "2026-06-03T23:56:55.000Z",
+      "xQuery": "米スペースX 調達額は12兆円規模"
     },
     {
       "time": "08:03",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ヤマダHDとEDION 経営統合の方針"
     },
     {
-      "time": "06:30",
-      "title": "たつの市遺体 指名手配の男と判明",
+      "time": "10:35",
+      "title": "姫路城しっくい剥がれる 台風か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582858?source=rss",
-      "publishedAt": "2026-06-03T21:30:23.000Z",
-      "xQuery": "たつの市遺体 指名手配の男と判明"
-    },
-    {
-      "time": "07:35",
-      "title": "4人襲い居座ったクマ 外に逃げる",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582862?source=rss",
-      "publishedAt": "2026-06-03T22:35:37.000Z",
-      "xQuery": "4人襲い居座ったクマ 外に逃げる"
+      "url": "https://news.yahoo.co.jp/pickup/6582884?source=rss",
+      "publishedAt": "2026-06-04T01:35:39.000Z",
+      "xQuery": "姫路城しっくい剥がれる 台風か"
     }
   ]
 };

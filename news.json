@@ -1,65 +1,79 @@
 {
-  "updatedAt": "2026-06-04T00:08:38.433Z",
+  "updatedAt": "2026-06-04T01:39:09.956Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:12",
-        "title": "25年度 工作機械受注、米中で活況 オークマ、マザック、航空宇宙が押し上げ ブラザー、半導体など拡大",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04NEdjMUczR2Q2c2JkUzdybGRSYXJ0aDRSVmdldmR6Vm9fbDdicG81UUJoN0xxV2RQYi1FTU5SbXJFVUlmYWM0X3lHT1RQVkVsdzBCWGhiYkJBY1VpQjhBQ0pUdEs0MlFDRVFIZXpPRkg0Zmc?oc=5",
-        "publishedAt": "2026-06-03T20:12:01.000Z"
+        "time": "08:03",
+        "title": "ヤマダHDとEDION 経営統合の方針",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582867?source=rss",
+        "publishedAt": "2026-06-03T23:03:23.000Z"
       },
       {
-        "time": "05:21",
-        "title": "設備保守の腕、南極基地で発揮 三機工業・東海林さん",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Pb3ZIb25Ya3NaTHVIY1VEamgyYmp5UUxrX051X2Nfc21meTRKQTdMSjJWdVhuYlE1cFN0eUpZOVY5UzNHS250NzVjR1ZHT1VzWVZaWjBWYWNlOFp1TGhfZ1g5ZHJqZUZrLVFHMWpfa1BtNk5G?oc=5",
-        "publishedAt": "2026-06-03T20:21:05.000Z"
+        "time": "20:46",
+        "title": "日銀総裁 利上げに前向き姿勢示す",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582835?source=rss",
+        "publishedAt": "2026-06-03T11:46:46.000Z"
       },
       {
-        "time": "11:21",
-        "title": "プレスリリース：次世代設備保全クラウド「M2X」が「第5回FOOMAアワード2026」にて審査委員会賞を受賞（PR TIMES）",
-        "source": "毎日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50dDlMY0lRb0tlalpBUWF1M0xRUmVUdTJYcWtrNHp5bTZOUU82Vk56Tm9BWjZYb2xTclNmYU5MY0IyYmx6M1F5VmNFdjVHLTE3NW43c01lQzBja2R2V3lUX3ZWX0hWdVNu?oc=5",
-        "publishedAt": "2026-06-03T02:21:41.000Z"
+        "time": "08:56",
+        "title": "米スペースX 調達額は12兆円規模",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582873?source=rss",
+        "publishedAt": "2026-06-03T23:56:55.000Z"
       },
       {
-        "time": "16:38",
-        "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xcWxpSS15RjRPNy1EQ254WmdkS3kwb0E0NkNtV283dEw5LWxQNkIwamlJa1NGVkFhM0RsaUZyQk9ndTR1cEw2SkdWWWNSeEpSVHpTTlpfazdSanBtRHJB?oc=5",
-        "publishedAt": "2026-06-03T07:38:51.000Z"
+        "time": "18:26",
+        "title": "前橋唯一の百貨店 閉店残念と知事",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582814?source=rss",
+        "publishedAt": "2026-06-03T09:26:26.000Z"
       },
       {
-        "time": "17:00",
-        "title": "卓上フライス盤の世界市場（2026年～2032年）、市場規模（3軸、4軸、5軸）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUbzNEQndUOWx0OUlmSWhzWlFwTE1PQno4ZnpnTDdZYlFWancwM3VZeVdJclRKaHdqTmtEaTJHeFRUQlEyZWNuMkJ3QXl5OU0?oc=5",
-        "publishedAt": "2026-06-03T08:00:00.000Z"
+        "time": "20:18",
+        "title": "中川政七商店 売上高100億円超え",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582831?source=rss",
+        "publishedAt": "2026-06-03T11:18:52.000Z"
       },
       {
-        "time": "05:54",
-        "title": "新役員／TOPPAN HD 執行役員法務本部長・大野郁英氏ほか",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2M1BnNDJ2aUNQMHFyMEtXb0FKTHhzSHYwZk1hdmNTdThIUzY4OERvUlJvWFZrTTlDYzh4Q1RnUkp6TEpBRm9XTkJKd2x4aHUzUy1CTzY3aWJBWm8?oc=5",
-        "publishedAt": "2026-06-03T20:54:58.000Z"
+        "time": "20:34",
+        "title": "無断キャンセル200個 弁当店無念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582834?source=rss",
+        "publishedAt": "2026-06-03T11:34:29.000Z"
       },
       {
-        "time": "17:03",
-        "title": "ハンファエアロ大田工場で爆発5人死亡 火災安全調査で2年連続不良判定 - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSzRwdElJcWF5Vy0tYWFjdk44Ny1XYzVjZjFhMFZjeEVzVk5HWmtIQXNJVGxGb1h1cFY2ZmZ5TUpMVVJWNnNDRmN5X1hidTVXV0c4Zlg2TGY1b0ZQaXZJcWl5OVdBZ0ctZ1p6MVBQS01SUl9HME5TMEJSMUllVF9nRUpIVUZVVnVSOTFnbDVEbXZucjRQd1HSAZYBQVVfeXFMUEs0cHRJSXFheVctLWFhY3ZOODctV2M1Y2YxYTBWY3hFc1ZOR1prSEFzSVRsRm9YdXBWNmZmeU1KTFVSVjZzQ0ZjeV9YYnU1V1dHOGZYNkxmNW9GUGl2SXFpeTlXQWdHLWdaejFQUEtNUlJfRzBOUzBCUjFJZVRfZ0VKSFVGVVZ1UjkxZ2w1RG12bnI0UHdR?oc=5",
-        "publishedAt": "2026-06-03T08:03:00.000Z"
+        "time": "17:28",
+        "title": "ビオレママはあけみ キャラ再定義",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582805?source=rss",
+        "publishedAt": "2026-06-03T08:28:11.000Z"
       },
       {
-        "time": "09:39",
-        "title": "爆発事故で勤労者5人が亡くなり2人が負傷したハンファエアロスペース大田工場が消防当局の火災安全調査で最近2年連続「不良」判定を受け計7件の指摘事項が摘発されたことが確認された。",
-        "source": "매일경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zQjRWSWw2S21WVWlwTjluTHZ6bVZjQktWX2tfdHl5T2FxZjQ2dzBDd0FodlA1a1FJWldEQmZHWThBb19IZkgtbVQ3Y3NVa3NlR0E?oc=5",
-        "publishedAt": "2026-06-03T00:39:14.000Z"
+        "time": "07:01",
+        "title": "人権団体で「パワハラ」騒動 争議",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582860?source=rss",
+        "publishedAt": "2026-06-03T22:01:12.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "09:54",
+        "title": "イスラエルとレバノン 停戦再合意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582881?source=rss",
+        "publishedAt": "2026-06-04T00:54:21.000Z"
+      },
+      {
+        "time": "13:45",
+        "title": "米大統領とネタニヤフ氏 あつれき",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582773?source=rss",
+        "publishedAt": "2026-06-03T04:45:37.000Z"
+      },
       {
         "time": "17:21",
         "title": "米 日本に12.5%の追加関税を検討",
@@ -68,25 +82,11 @@
         "publishedAt": "2026-06-03T08:21:38.000Z"
       },
       {
-        "time": "17:21",
-        "title": "強硬姿勢崩さぬネタニヤフ氏 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582774?source=rss",
-        "publishedAt": "2026-06-03T08:21:38.000Z"
-      },
-      {
         "time": "17:35",
         "title": "イラン クウェート国際空港を攻撃",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582807?source=rss",
         "publishedAt": "2026-06-03T08:35:25.000Z"
-      },
-      {
-        "time": "13:45",
-        "title": "米大統領とネタニヤフ氏 あつれき",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582773?source=rss",
-        "publishedAt": "2026-06-03T04:45:37.000Z"
       },
       {
         "time": "08:14",
@@ -149,18 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "06:30",
-        "title": "たつの市遺体 指名手配の男と判明",
+        "time": "09:21",
+        "title": "母娘殺害 男死亡で動機解明困難に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582858?source=rss",
-        "publishedAt": "2026-06-03T21:30:23.000Z"
-      },
-      {
-        "time": "18:02",
-        "title": "内田梨瑚被告 母の証言に涙ぬぐう",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582811?source=rss",
-        "publishedAt": "2026-06-03T09:02:30.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582876?source=rss",
+        "publishedAt": "2026-06-04T00:21:25.000Z"
       },
       {
         "time": "00:09",
@@ -177,18 +170,25 @@
         "publishedAt": "2026-06-03T13:47:51.000Z"
       },
       {
+        "time": "09:16",
+        "title": "首里城正殿 11/23から一般公開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582874?source=rss",
+        "publishedAt": "2026-06-04T00:16:28.000Z"
+      },
+      {
+        "time": "10:35",
+        "title": "姫路城しっくい剥がれる 台風か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582884?source=rss",
+        "publishedAt": "2026-06-04T01:35:39.000Z"
+      },
+      {
         "time": "08:50",
         "title": "水田カラカラ 原因は「金属窃盗」",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582872?source=rss",
         "publishedAt": "2026-06-03T23:50:12.000Z"
-      },
-      {
-        "time": "07:35",
-        "title": "4人襲い居座ったクマ 外に逃げる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582862?source=rss",
-        "publishedAt": "2026-06-03T22:35:37.000Z"
       }
     ],
     "subsidyHeadlines": [
