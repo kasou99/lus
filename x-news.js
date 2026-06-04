@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-04T11:33:36.722Z",
+  "updatedAt": "2026-06-04T13:22:23.020Z",
   "items": [
     {
-      "time": "19:03",
-      "title": "今年度補正予算案が衆院通過",
+      "time": "22:14",
+      "title": "廃炉決めた原発の建て替え 目標案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582950?source=rss",
-      "publishedAt": "2026-06-04T10:03:57.000Z",
-      "xQuery": "今年度補正予算案が衆院通過"
+      "url": "https://news.yahoo.co.jp/pickup/6582968?source=rss",
+      "publishedAt": "2026-06-04T13:14:08.000Z",
+      "xQuery": "廃炉決めた原発の建て替え 目標案"
     },
     {
       "time": "20:18",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "熱中症疑い 都内で70代男性が死亡"
     },
     {
-      "time": "18:56",
-      "title": "足立の花火で入場規制を無視 波紋",
+      "time": "20:41",
+      "title": "内田梨瑚被告が手紙 遺族は拒否",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582947?source=rss",
-      "publishedAt": "2026-06-04T09:56:08.000Z",
-      "xQuery": "足立の花火で入場規制を無視 波紋"
+      "url": "https://news.yahoo.co.jp/pickup/6582961?source=rss",
+      "publishedAt": "2026-06-04T11:41:27.000Z",
+      "xQuery": "内田梨瑚被告が手紙 遺族は拒否"
+    },
+    {
+      "time": "21:18",
+      "title": "京都で米の20歳行方不明 両親胸中",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582964?source=rss",
+      "publishedAt": "2026-06-04T12:18:33.000Z",
+      "xQuery": "京都で米の20歳行方不明 両親胸中"
     },
     {
       "time": "20:05",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582956?source=rss",
       "publishedAt": "2026-06-04T11:05:05.000Z",
       "xQuery": "脱毛大手ミュゼ 破産の舞台裏激白"
-    },
-    {
-      "time": "20:26",
-      "title": "プレモルと黒ラベル 値下げへ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582958?source=rss",
-      "publishedAt": "2026-06-04T11:26:07.000Z",
-      "xQuery": "プレモルと黒ラベル 値下げへ"
     }
   ]
 };
