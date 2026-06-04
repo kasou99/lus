@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T22:56:56.817Z",
+  "updatedAt": "2026-06-04T23:34:20.660Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-06-04T09:02:51.000Z"
       },
       {
-        "time": "08:00",
-        "title": "イルメジャパン、産業用コネクタ・産業用配線部品を探しやすくする「wiringhub.jp」をリニューアル",
-        "source": "ValuePress!",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMY2U2MFR3VEFHMWk2QWQtZk9iTEpacHY5eDVxUXdOODVUWm1sdHd0UTF3WElyOEcyQ194cGliWmpwRmhCOEVsTXdQaWt0ZFpMOTFZeDM4NG96dC1RWEE?oc=5",
-        "publishedAt": "2026-06-03T23:00:00.000Z"
+        "time": "14:37",
+        "title": "「ニデック」TOB巡るインサイダー事件 元証券会社取締役「黙秘します」",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeXg4T0FocDVxM29xTTRhelJQa3A4RVdEYjBlQXJ4WnVJbEZMbWxuSWxPeFBrZGxRYTA2SDNVTE5hdG9qSU5sQ2xPNmhaVS01ZjNBay0yekF6aGVCcFNDX1J4R1lhVHJaMWdOV29zMXpxRjZ2QUdNVU50ck1uRkptMEZrazFidzIyTGoxZdIBjAFBVV95cUxPeXg4T0FocDVxM29xTTRhelJQa3A4RVdEYjBlQXJ4WnVJbEZMbWxuSWxPeFBrZGxRYTA2SDNVTE5hdG9qSU5sQ2xPNmhaVS01ZjNBay0yekF6aGVCcFNDX1J4R1lhVHJaMWdOV29zMXpxRjZ2QUdNVU50ck1uRkptMEZrazFidzIyTGoxZQ?oc=5",
+        "publishedAt": "2026-06-04T05:37:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-06-04T11:05:05.000Z"
       },
       {
-        "time": "16:06",
-        "title": "JR東 18駅で信号システムに不備",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582922?source=rss",
-        "publishedAt": "2026-06-04T07:06:24.000Z"
-      },
-      {
         "time": "07:26",
         "title": "セルフレジ「ごまかす」万引き増",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582939?source=rss",
         "publishedAt": "2026-06-04T08:46:12.000Z"
+      },
+      {
+        "time": "20:26",
+        "title": "プレモルと黒ラベル 値下げへ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582958?source=rss",
+        "publishedAt": "2026-06-04T11:26:07.000Z"
       }
     ],
     "localHeadlines": [

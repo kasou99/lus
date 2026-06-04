@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-04T22:56:57.974Z",
+  "updatedAt": "2026-06-04T23:34:21.434Z",
   "items": [
     {
       "time": "06:42",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "路上で刺され女性死亡 2人けが"
     },
     {
-      "time": "22:59",
-      "title": "内田被告 殺意あったのは共犯の女",
+      "time": "08:26",
+      "title": "日本人が拉致? 異色の漫画刊行",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582978?source=rss",
-      "publishedAt": "2026-06-04T13:59:50.000Z",
-      "xQuery": "内田被告 殺意あったのは共犯の女"
+      "url": "https://news.yahoo.co.jp/pickup/6582996?source=rss",
+      "publishedAt": "2026-06-04T23:26:04.000Z",
+      "xQuery": "日本人が拉致? 異色の漫画刊行"
     }
   ]
 };
