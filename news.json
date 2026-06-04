@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T03:22:15.869Z",
+  "updatedAt": "2026-06-04T05:10:48.205Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04NEdjMUczR2Q2c2JkUzdybGRSYXJ0aDRSVmdldmR6Vm9fbDdicG81UUJoN0xxV2RQYi1FTU5SbXJFVUlmYWM0X3lHT1RQVkVsdzBCWGhiYkJBY1VpQjhBQ0pUdEs0MlFDRVFIZXpPRkg0Zmc?oc=5",
         "publishedAt": "2026-06-03T20:12:01.000Z"
+      },
+      {
+        "time": "10:41",
+        "title": "設備保守の腕、南極基地で発揮 三機工業・東海林さん",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Gb0gzSlAwTXYyNHBSY2I0TG1qa1RRTUNHVFRzaUFJSEhEbDBRVXpNT3phU0hTallKblJlTGxpRnpjV2p4MDY3X2U3RlJwUFJaZ2p4X19rLWNzZ1JLeVQxM1B0bXppMXZmNGNKdTIxcjZqQjlISjlGVFlTOA?oc=5",
+        "publishedAt": "2026-06-04T01:41:15.000Z"
       },
       {
         "time": "10:51",
@@ -22,13 +29,6 @@
         "source": "pref.gunma.jp",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wUkVVVUplc1N4MWlQQVRRaVIyM3F5aG82OHM4ZlVhMGFicWQ3QkZQTlVGUXRSQzl0RG1GemNvWmI0djlzYUVWY25kLVpzZVRpTHpESXNCdzQwYm9zWnRJ?oc=5",
         "publishedAt": "2026-06-04T02:01:52.000Z"
-      },
-      {
-        "time": "05:21",
-        "title": "設備保守の腕、南極基地で発揮 三機工業・東海林さん",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Pb3ZIb25Ya3NaTHVIY1VEamgyYmp5UUxrX051X2Nfc21meTRKQTdMSjJWdVhuYlE1cFN0eUpZOVY5UzNHS250NzVjR1ZHT1VzWVZaWjBWYWNlOFp1TGhfZ1g5ZHJqZUZrLVFHMWpfa1BtNk5G?oc=5",
-        "publishedAt": "2026-06-03T20:21:05.000Z"
       },
       {
         "time": "22:10",
@@ -68,13 +68,6 @@
         "publishedAt": "2026-06-04T00:54:21.000Z"
       },
       {
-        "time": "13:45",
-        "title": "米大統領とネタニヤフ氏 あつれき",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582773?source=rss",
-        "publishedAt": "2026-06-03T04:45:37.000Z"
-      },
-      {
         "time": "17:21",
         "title": "米 日本に12.5%の追加関税を検討",
         "source": "Yahoo!ニュース",
@@ -87,6 +80,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582807?source=rss",
         "publishedAt": "2026-06-03T08:35:25.000Z"
+      },
+      {
+        "time": "13:47",
+        "title": "ラオス洞窟閉じ込め なお2人不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582911?source=rss",
+        "publishedAt": "2026-06-04T04:47:28.000Z"
       },
       {
         "time": "11:59",
@@ -156,11 +156,32 @@
         "publishedAt": "2026-06-04T02:34:13.000Z"
       },
       {
-        "time": "09:21",
-        "title": "母娘殺害 男死亡で動機解明困難に",
+        "time": "13:35",
+        "title": "火砕流35年 変わらぬ思い抱え慰霊",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582876?source=rss",
-        "publishedAt": "2026-06-04T00:21:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6582909?source=rss",
+        "publishedAt": "2026-06-04T04:35:54.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "佐賀県警DNA型鑑定不正 239件に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582910?source=rss",
+        "publishedAt": "2026-06-04T04:30:35.000Z"
+      },
+      {
+        "time": "12:48",
+        "title": "妻が不妊治療偽装 元夫に病院反論",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582901?source=rss",
+        "publishedAt": "2026-06-04T03:48:39.000Z"
+      },
+      {
+        "time": "12:50",
+        "title": "指名手配の容疑者 死亡2週間前か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6582903?source=rss",
+        "publishedAt": "2026-06-04T03:50:52.000Z"
       },
       {
         "time": "12:10",
@@ -168,27 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582896?source=rss",
         "publishedAt": "2026-06-04T03:10:58.000Z"
-      },
-      {
-        "time": "09:16",
-        "title": "首里城正殿 11/23から一般公開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582874?source=rss",
-        "publishedAt": "2026-06-04T00:16:28.000Z"
-      },
-      {
-        "time": "10:35",
-        "title": "姫路城しっくい剥がれる 台風か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582884?source=rss",
-        "publishedAt": "2026-06-04T01:35:39.000Z"
-      },
-      {
-        "time": "11:05",
-        "title": "ひき逃げで執行猶予中 無免許疑い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582885?source=rss",
-        "publishedAt": "2026-06-04T02:05:38.000Z"
       }
     ],
     "subsidyHeadlines": [

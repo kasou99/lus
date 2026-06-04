@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-04T03:22:16.756Z",
+  "updatedAt": "2026-06-04T05:10:49.286Z",
   "items": [
     {
-      "time": "11:34",
-      "title": "九州北部・中国・近畿が梅雨入り",
+      "time": "13:35",
+      "title": "火砕流35年 変わらぬ思い抱え慰霊",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582888?source=rss",
-      "publishedAt": "2026-06-04T02:34:13.000Z",
-      "xQuery": "九州北部・中国・近畿が梅雨入り"
+      "url": "https://news.yahoo.co.jp/pickup/6582909?source=rss",
+      "publishedAt": "2026-06-04T04:35:54.000Z",
+      "xQuery": "火砕流35年 変わらぬ思い抱え慰霊"
     },
     {
-      "time": "11:50",
-      "title": "元NHK副会長 今井義典さん死去",
+      "time": "13:01",
+      "title": "高性能AIを巡る米大統領令 狙い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582894?source=rss",
-      "publishedAt": "2026-06-04T02:50:21.000Z",
-      "xQuery": "元NHK副会長 今井義典さん死去"
+      "url": "https://news.yahoo.co.jp/pickup/6582906?source=rss",
+      "publishedAt": "2026-06-04T04:01:58.000Z",
+      "xQuery": "高性能AIを巡る米大統領令 狙い"
     },
     {
-      "time": "11:59",
-      "title": "中国スパイ巡り FiveEyesが警告",
+      "time": "12:50",
+      "title": "指名手配の容疑者 死亡2週間前か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582892?source=rss",
-      "publishedAt": "2026-06-04T02:59:37.000Z",
-      "xQuery": "中国スパイ巡り FiveEyesが警告"
+      "url": "https://news.yahoo.co.jp/pickup/6582903?source=rss",
+      "publishedAt": "2026-06-04T03:50:52.000Z",
+      "xQuery": "指名手配の容疑者 死亡2週間前か"
+    },
+    {
+      "time": "11:21",
+      "title": "クマが工場脱出 自ら窓開けたか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582887?source=rss",
+      "publishedAt": "2026-06-04T02:21:57.000Z",
+      "xQuery": "クマが工場脱出 自ら窓開けたか"
     },
     {
       "time": "12:10",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6582896?source=rss",
       "publishedAt": "2026-06-04T03:10:58.000Z",
       "xQuery": "内田梨瑚被告 初めて法廷で謝罪"
-    },
-    {
-      "time": "11:05",
-      "title": "ひき逃げで執行猶予中 無免許疑い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582885?source=rss",
-      "publishedAt": "2026-06-04T02:05:38.000Z",
-      "xQuery": "ひき逃げで執行猶予中 無免許疑い"
     }
   ]
 };
