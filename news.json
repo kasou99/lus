@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T15:43:11.248Z",
+  "updatedAt": "2026-06-04T17:12:22.843Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-06-04T00:00:01.000Z"
       },
       {
+        "time": "11:01",
+        "title": "【5月31日開催】第1回オープンキャンパスを開催しました",
+        "source": "pref.gunma.jp",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wUkVVVUplc1N4MWlQQVRRaVIyM3F5aG82OHM4ZlVhMGFicWQ3QkZQTlVGUXRSQzl0RG1GemNvWmI0djlzYUVWY25kLVpzZVRpTHpESXNCdzQwYm9zWnRJ?oc=5",
+        "publishedAt": "2026-06-04T02:01:52.000Z"
+      },
+      {
         "time": "21:19",
         "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
         "source": "中日BIZナビ",
@@ -31,11 +38,11 @@
         "publishedAt": "2026-06-04T12:19:53.000Z"
       },
       {
-        "time": "11:01",
-        "title": "【5月31日開催】第1回オープンキャンパスを開催しました",
-        "source": "pref.gunma.jp",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wUkVVVUplc1N4MWlQQVRRaVIyM3F5aG82OHM4ZlVhMGFicWQ3QkZQTlVGUXRSQzl0RG1GemNvWmI0djlzYUVWY25kLVpzZVRpTHpESXNCdzQwYm9zWnRJ?oc=5",
-        "publishedAt": "2026-06-04T02:01:52.000Z"
+        "time": "00:18",
+        "title": "最新バージョン「Mastercam2026」を「2026オークマ東日本CSセンターマシンフェア」に出展",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10TDZBUjhka1lpWjlJTk9IZU5oVHZRMlRxc18tREpvdjB5QTh6NFdaMmZwQl9pN0dwN0F3RGtUVmlMWjQ5Q2hrbVBzUld3S05RZXBGRndMV0hEYVQzblNQTnBaNXRnRThoQ1N0Um5IYnVpQVdqZnE4MXFBZw?oc=5",
+        "publishedAt": "2026-06-04T15:18:39.000Z"
       },
       {
         "time": "02:55",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-06-03T17:55:02.000Z"
       },
       {
-        "time": "18:02",
-        "title": "6月3日、内閣委員会にて30分間の質疑を行いました。",
-        "source": "選挙ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tLXJ3M1BOTDNpcW1jR1pydkpiX0FRRmpMclk4Z2kzRnVRS2xGU0hqazR1Ty1WZXF6Uy12ZmdTRTNzTnMtSnc5MlhNMnljQ2xTMmQ3MU4zNjk3M3YtMmxB?oc=5",
-        "publishedAt": "2026-06-04T09:02:51.000Z"
-      },
-      {
-        "time": "14:41",
-        "title": "最新バージョン「Mastercam2026」を「2026オークマ東日本CSセンターマシンフェア」に出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CV2FNLTdVdGNRX3ExRGMyTEZiMlVtbGJySUt5VGFkb3BwLUJWcDh6STFuZWxycGlrUk84X21Od1ZIbDIwY2N5Z2daQ0Y4cHozNWxraGgtZndvaVJSY1dVTUQxWHJmaU53bnc?oc=5",
-        "publishedAt": "2026-06-04T05:41:43.000Z"
+        "time": "21:37",
+        "title": "点描／一人歩き 危険を疑似体験 トヨタ基金がイベント",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DZm55V2k0V0dzYkdMTjBGaFlwSVFCRTdVMkdUa3NzNE1LMDM2bDBfSE5RLTB2akhFVHdILTZmVWFwOHJaRVF3clZBMW1QU2xYdFRrbWRHWkotUmVBclQ2bldsV0s3VnV0UWpJLV9LOUdwQlBx?oc=5",
+        "publishedAt": "2026-06-04T12:37:51.000Z"
       }
     ],
     "worldHeadlines": [
