@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-04T22:04:15.875Z",
+  "updatedAt": "2026-06-04T22:56:57.974Z",
   "items": [
     {
       "time": "06:42",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣支持率で若年層50%割れ 毎日"
     },
     {
-      "time": "23:15",
-      "title": "消費減税 外食業界などに補助検討",
+      "time": "07:27",
+      "title": "ウ大統領 プーチン氏に公開書簡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582980?source=rss",
-      "publishedAt": "2026-06-04T14:15:57.000Z",
-      "xQuery": "消費減税 外食業界などに補助検討"
+      "url": "https://news.yahoo.co.jp/pickup/6582988?source=rss",
+      "publishedAt": "2026-06-04T22:27:27.000Z",
+      "xQuery": "ウ大統領 プーチン氏に公開書簡"
     },
     {
-      "time": "18:12",
-      "title": "不法就労通報に1万円 県に賛否",
+      "time": "07:19",
+      "title": "AI加工写真も「児童ポルノ」地裁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582941?source=rss",
-      "publishedAt": "2026-06-04T09:12:56.000Z",
-      "xQuery": "不法就労通報に1万円 県に賛否"
+      "url": "https://news.yahoo.co.jp/pickup/6582986?source=rss",
+      "publishedAt": "2026-06-04T22:19:58.000Z",
+      "xQuery": "AI加工写真も「児童ポルノ」地裁"
     },
     {
       "time": "06:08",
