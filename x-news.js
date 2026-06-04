@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-04T10:23:55.347Z",
+  "updatedAt": "2026-06-04T11:33:36.722Z",
   "items": [
     {
-      "time": "17:49",
-      "title": "出生数最低 首相「非常に厳しい」",
+      "time": "19:03",
+      "title": "今年度補正予算案が衆院通過",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582940?source=rss",
-      "publishedAt": "2026-06-04T08:49:03.000Z",
-      "xQuery": "出生数最低 首相「非常に厳しい」"
+      "url": "https://news.yahoo.co.jp/pickup/6582950?source=rss",
+      "publishedAt": "2026-06-04T10:03:57.000Z",
+      "xQuery": "今年度補正予算案が衆院通過"
     },
     {
-      "time": "16:55",
-      "title": "天安門事件 検閲で過去消せずと米",
+      "time": "20:18",
+      "title": "熱中症疑い 都内で70代男性が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582932?source=rss",
-      "publishedAt": "2026-06-04T07:55:05.000Z",
-      "xQuery": "天安門事件 検閲で過去消せずと米"
-    },
-    {
-      "time": "18:39",
-      "title": "閉山中の富士登山 禁止論に反対も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582945?source=rss",
-      "publishedAt": "2026-06-04T09:39:01.000Z",
-      "xQuery": "閉山中の富士登山 禁止論に反対も"
+      "url": "https://news.yahoo.co.jp/pickup/6582957?source=rss",
+      "publishedAt": "2026-06-04T11:18:05.000Z",
+      "xQuery": "熱中症疑い 都内で70代男性が死亡"
     },
     {
       "time": "18:56",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "足立の花火で入場規制を無視 波紋"
     },
     {
-      "time": "18:32",
-      "title": "破格の朝サイゼ ガラガラの店も",
+      "time": "20:05",
+      "title": "脱毛大手ミュゼ 破産の舞台裏激白",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582942?source=rss",
-      "publishedAt": "2026-06-04T09:32:16.000Z",
-      "xQuery": "破格の朝サイゼ ガラガラの店も"
+      "url": "https://news.yahoo.co.jp/pickup/6582956?source=rss",
+      "publishedAt": "2026-06-04T11:05:05.000Z",
+      "xQuery": "脱毛大手ミュゼ 破産の舞台裏激白"
+    },
+    {
+      "time": "20:26",
+      "title": "プレモルと黒ラベル 値下げへ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6582958?source=rss",
+      "publishedAt": "2026-06-04T11:26:07.000Z",
+      "xQuery": "プレモルと黒ラベル 値下げへ"
     }
   ]
 };
