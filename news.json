@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T19:11:19.490Z",
+  "updatedAt": "2026-06-05T20:12:32.345Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-06-05T00:00:01.000Z"
       },
       {
+        "time": "18:00",
+        "title": "高速フィンプレスの世界市場（2026年～2032年）、市場規模（開放型高速フィンプレス、密閉型高速フィンプレス）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qUUtEcU9Odm16UVpGbFo5aEVsU3JxNXdKVHc0dVlfQU56dVh0NlBNandYdjVTeHAxMUI4TTNvR0NSS1hlY2hfWXR2dlpaYlU?oc=5",
+        "publishedAt": "2026-06-05T09:00:00.000Z"
+      },
+      {
         "time": "12:36",
         "title": "泉州電業が通期上方修正と年間160円への増配を発表、半導体・工作機械向け需要が回復",
         "source": "finance.biggo.jp",
@@ -50,13 +57,6 @@
         "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40MHplbkhTMndnNlRtR25wVWNCVUdwQm1vU3Y5WXl3Tm9LRjljc0FTLWswYW5POUpVbG5WRWp5NEhLRFAxU3hVRGM5NDVCelU?oc=5",
         "publishedAt": "2026-06-05T06:30:00.000Z"
-      },
-      {
-        "time": "18:00",
-        "title": "高速フィンプレスの世界市場（2026年～2032年）、市場規模（開放型高速フィンプレス、密閉型高速フィンプレス）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qUUtEcU9Odm16UVpGbFo5aEVsU3JxNXdKVHc0dVlfQU56dVh0NlBNandYdjVTeHAxMUI4TTNvR0NSS1hlY2hfWXR2dlpaYlU?oc=5",
-        "publishedAt": "2026-06-05T09:00:00.000Z"
       }
     ],
     "worldHeadlines": [
