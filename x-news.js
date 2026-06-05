@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-05T02:26:48.074Z",
+  "updatedAt": "2026-06-05T03:51:36.983Z",
   "items": [
     {
-      "time": "09:26",
-      "title": "米政府 キューバ大統領らに制裁",
+      "time": "11:38",
+      "title": "習近平氏 7年ぶりに北朝鮮訪問へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583004?source=rss",
-      "publishedAt": "2026-06-05T00:26:02.000Z",
-      "xQuery": "米政府 キューバ大統領らに制裁"
+      "url": "https://news.yahoo.co.jp/pickup/6583018?source=rss",
+      "publishedAt": "2026-06-05T02:38:17.000Z",
+      "xQuery": "習近平氏 7年ぶりに北朝鮮訪問へ"
     },
     {
-      "time": "09:36",
-      "title": "米AI計画に日本が800億円拠出へ",
+      "time": "11:49",
+      "title": "ヤマダHDとEDION 経営統合で合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583003?source=rss",
-      "publishedAt": "2026-06-05T00:36:07.000Z",
-      "xQuery": "米AI計画に日本が800億円拠出へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583022?source=rss",
+      "publishedAt": "2026-06-05T02:49:07.000Z",
+      "xQuery": "ヤマダHDとEDION 経営統合で合意"
     },
     {
       "time": "10:54",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "文春公開の音声 首相「違和感が」"
     },
     {
-      "time": "08:57",
-      "title": "A・リュウさんに中国圧力 父訴え",
+      "time": "12:45",
+      "title": "女性死亡 警官の目の前で刺したか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583000?source=rss",
-      "publishedAt": "2026-06-04T23:57:31.000Z",
-      "xQuery": "A・リュウさんに中国圧力 父訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6583027?source=rss",
+      "publishedAt": "2026-06-05T03:45:30.000Z",
+      "xQuery": "女性死亡 警官の目の前で刺したか"
     }
   ]
 };
