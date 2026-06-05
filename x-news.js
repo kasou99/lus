@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-04T23:34:21.434Z",
+  "updatedAt": "2026-06-05T01:13:26.679Z",
   "items": [
     {
-      "time": "06:42",
-      "title": "内閣支持率で若年層50%割れ 毎日",
+      "time": "08:35",
+      "title": "ファミリー企業成長へ 初の指針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582984?source=rss",
-      "publishedAt": "2026-06-04T21:42:43.000Z",
-      "xQuery": "内閣支持率で若年層50%割れ 毎日"
+      "url": "https://news.yahoo.co.jp/pickup/6582997?source=rss",
+      "publishedAt": "2026-06-04T23:35:33.000Z",
+      "xQuery": "ファミリー企業成長へ 初の指針"
     },
     {
-      "time": "07:27",
-      "title": "ウ大統領 プーチン氏に公開書簡",
+      "time": "09:26",
+      "title": "米政府 キューバ大統領らに制裁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582988?source=rss",
-      "publishedAt": "2026-06-04T22:27:27.000Z",
-      "xQuery": "ウ大統領 プーチン氏に公開書簡"
+      "url": "https://news.yahoo.co.jp/pickup/6583004?source=rss",
+      "publishedAt": "2026-06-05T00:26:02.000Z",
+      "xQuery": "米政府 キューバ大統領らに制裁"
     },
     {
-      "time": "07:19",
-      "title": "AI加工写真も「児童ポルノ」地裁",
+      "time": "08:10",
+      "title": "小中高生の理系育成拠点 全県に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582986?source=rss",
-      "publishedAt": "2026-06-04T22:19:58.000Z",
-      "xQuery": "AI加工写真も「児童ポルノ」地裁"
+      "url": "https://news.yahoo.co.jp/pickup/6582995?source=rss",
+      "publishedAt": "2026-06-04T23:10:39.000Z",
+      "xQuery": "小中高生の理系育成拠点 全県に"
     },
     {
-      "time": "06:08",
-      "title": "路上で刺され女性死亡 2人けが",
+      "time": "08:57",
+      "title": "A・リュウさんに中国圧力 父訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582981?source=rss",
-      "publishedAt": "2026-06-04T21:08:24.000Z",
-      "xQuery": "路上で刺され女性死亡 2人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6583000?source=rss",
+      "publishedAt": "2026-06-04T23:57:31.000Z",
+      "xQuery": "A・リュウさんに中国圧力 父訴え"
     },
     {
       "time": "08:26",
