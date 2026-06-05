@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-06-05T05:41:41.255Z",
+  "updatedAt": "2026-06-05T07:43:54.446Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:00",
+        "title": "精密工作機械用スピンドルユニット（5000r/min以上）の世界市場（2026年～2032年）、市場規模（5000～10000 r/min、10000 r/min 以上）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3cUM2NkM2SE5JOW1nNlJURmZUQ2ZUcWcyMUZ4RUMxR0w0eXZCLTdIYl9faW03TjRWbWxxMFlCUWh0OU4xZERpdU9JZ1Z6ems?oc=5",
+        "publishedAt": "2026-06-05T07:00:00.000Z"
+      },
       {
         "time": "08:00",
         "title": "岡本工作機械製作所[6125]：第127期定時株主総会招集ご通知に際しての電子提供措置事項 2026年6月5日(適時開示) ：日経会社情報DIGITAL",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MUDU1WlBTazRNaV9VazVldWZ6ZGVfckxWYkRiT09yQ0IybFpWR1ZjYl9IYzFQODEzMExxZ1VmV1c3YkJ6S0d6dGdlQWk1VDJrN2MySXVTbVhWa0paT0FtX2dEdGMwMzViZGc?oc=5",
         "publishedAt": "2026-06-04T23:00:00.000Z"
+      },
+      {
+        "time": "15:30",
+        "title": "スピンドルユニットの世界市場（2026年～2032年）、市場規模（ギア式、ベルト式、ダイレクトドライブ式、電動スピンドルユニット、その他）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40MHplbkhTMndnNlRtR25wVWNCVUdwQm1vU3Y5WXl3Tm9LRjljc0FTLWswYW5POUpVbG5WRWp5NEhLRFAxU3hVRGM5NDVCelU?oc=5",
+        "publishedAt": "2026-06-05T06:30:00.000Z"
       },
       {
         "time": "10:41",
@@ -43,20 +57,6 @@
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xcWxpSS15RjRPNy1EQ254WmdkS3kwb0E0NkNtV283dEw5LWxQNkIwamlJa1NGVkFhM0RsaUZyQk9ndTR1cEw2SkdWWWNSeEpSVHpTTlpfazdSanBtRHJB?oc=5",
         "publishedAt": "2026-06-04T12:19:53.000Z"
-      },
-      {
-        "time": "08:42",
-        "title": "【注目銘柄】日伝、連続最高業績・増配・自己株式取得のフルセット材料で株人気が再燃 - kabu-ir.com",
-        "source": "kabu-ir.com",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nODN5dEd2b1BjMFNxVWNMYlNMLVZvbUJUTVpXWHZTSGZCSXYza3V5cGk5TExaTDMzc25oS3Q3dVJMRkNTaUI4NG1rLXVTZ29oZUVDSw?oc=5",
-        "publishedAt": "2026-06-04T23:42:12.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "DMG森精機、鍵は「ソフト定義とAI」 ハノーバーメッセ初出展の狙い",
-        "source": "日経クロステック",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKTFlSUDMtX2hDNGJXZkNMbmdieHZYM3Z3YUFwMFRwUEh2N3ltVmItR3FaSWpFakVsWHE1T3EyN1VRMnZjdEZJSDRLbkZDRUs4OWx6R2xhQzJ1TWRINnp2ZlJ4dGs5RV84VnMtUA?oc=5",
-        "publishedAt": "2026-06-04T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-06-05T04:38:06.000Z"
       },
       {
-        "time": "22:14",
-        "title": "廃炉決めた原発の建て替え 目標案",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582968?source=rss",
-        "publishedAt": "2026-06-04T13:14:08.000Z"
-      },
-      {
         "time": "08:35",
         "title": "ファミリー企業成長へ 初の指針",
         "source": "Yahoo!ニュース",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582989?source=rss",
         "publishedAt": "2026-06-04T22:26:00.000Z"
+      },
+      {
+        "time": "15:51",
+        "title": "中野サンプラザ解体 専門家が異議",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583047?source=rss",
+        "publishedAt": "2026-06-05T06:51:37.000Z"
       },
       {
         "time": "11:39",
@@ -156,18 +156,18 @@
         "publishedAt": "2026-06-04T21:08:24.000Z"
       },
       {
+        "time": "15:26",
+        "title": "栃木 強盗殺人未遂疑い少年再逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583045?source=rss",
+        "publishedAt": "2026-06-05T06:26:30.000Z"
+      },
+      {
         "time": "12:45",
         "title": "女性死亡 警官の目の前で刺したか",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583027?source=rss",
         "publishedAt": "2026-06-05T03:45:30.000Z"
-      },
-      {
-        "time": "22:59",
-        "title": "内田被告 殺意あったのは共犯の女",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582978?source=rss",
-        "publishedAt": "2026-06-04T13:59:50.000Z"
       },
       {
         "time": "11:51",

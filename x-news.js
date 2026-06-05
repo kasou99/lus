@@ -1,37 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-05T05:41:41.985Z",
+  "updatedAt": "2026-06-05T07:43:55.191Z",
   "items": [
     {
-      "time": "13:05",
-      "title": "皇族確保 立法府の総意案まとまる",
+      "time": "16:21",
+      "title": "衆院選1票の格差 「合憲」11件目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583028?source=rss",
-      "publishedAt": "2026-06-05T04:05:25.000Z",
-      "xQuery": "皇族確保 立法府の総意案まとまる"
+      "url": "https://news.yahoo.co.jp/pickup/6583050?source=rss",
+      "publishedAt": "2026-06-05T07:21:10.000Z",
+      "xQuery": "衆院選1票の格差 「合憲」11件目"
     },
     {
-      "time": "13:38",
-      "title": "ヤマダとEDION統合 ブランド併用",
+      "time": "15:26",
+      "title": "栃木 強盗殺人未遂疑い少年再逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583032?source=rss",
-      "publishedAt": "2026-06-05T04:38:06.000Z",
-      "xQuery": "ヤマダとEDION統合 ブランド併用"
-    },
-    {
-      "time": "12:45",
-      "title": "女性死亡 警官の目の前で刺したか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583027?source=rss",
-      "publishedAt": "2026-06-05T03:45:30.000Z",
-      "xQuery": "女性死亡 警官の目の前で刺したか"
-    },
-    {
-      "time": "13:16",
-      "title": "「モームリ」元社長に懲役2年求刑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583031?source=rss",
-      "publishedAt": "2026-06-05T04:16:17.000Z",
-      "xQuery": "「モームリ」元社長に懲役2年求刑"
+      "url": "https://news.yahoo.co.jp/pickup/6583045?source=rss",
+      "publishedAt": "2026-06-05T06:26:30.000Z",
+      "xQuery": "栃木 強盗殺人未遂疑い少年再逮捕"
     },
     {
       "time": "14:29",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583040?source=rss",
       "publishedAt": "2026-06-05T05:29:59.000Z",
       "xQuery": "被告が急に暴れ出す 裁判は休廷"
+    },
+    {
+      "time": "15:51",
+      "title": "中野サンプラザ解体 専門家が異議",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583047?source=rss",
+      "publishedAt": "2026-06-05T06:51:37.000Z",
+      "xQuery": "中野サンプラザ解体 専門家が異議"
+    },
+    {
+      "time": "15:16",
+      "title": "衣類激安 オフプライスストアとは",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583043?source=rss",
+      "publishedAt": "2026-06-05T06:16:23.000Z",
+      "xQuery": "衣類激安 オフプライスストアとは"
     }
   ]
 };
