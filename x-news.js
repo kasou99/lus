@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-05T12:05:52.228Z",
+  "updatedAt": "2026-06-05T13:35:26.190Z",
   "items": [
     {
-      "time": "19:00",
-      "title": "今年度補正予算成立 総額3兆円超",
+      "time": "21:13",
+      "title": "補正予算 国会審議はわずか3日間",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583073?source=rss",
-      "publishedAt": "2026-06-05T10:00:17.000Z",
-      "xQuery": "今年度補正予算成立 総額3兆円超"
+      "url": "https://news.yahoo.co.jp/pickup/6583099?source=rss",
+      "publishedAt": "2026-06-05T12:13:46.000Z",
+      "xQuery": "補正予算 国会審議はわずか3日間"
     },
     {
-      "time": "20:16",
-      "title": "動画問題に首相 語気強める場面も",
+      "time": "20:46",
+      "title": "闇バイト必ず捕まる 未成年に訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583087?source=rss",
-      "publishedAt": "2026-06-05T11:16:14.000Z",
-      "xQuery": "動画問題に首相 語気強める場面も"
+      "url": "https://news.yahoo.co.jp/pickup/6583094?source=rss",
+      "publishedAt": "2026-06-05T11:46:16.000Z",
+      "xQuery": "闇バイト必ず捕まる 未成年に訴え"
     },
     {
-      "time": "20:14",
-      "title": "警備員ひかれ死亡 女性ら書類送検",
+      "time": "21:20",
+      "title": "燃油サーチャージ 過去最高更新へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583088?source=rss",
-      "publishedAt": "2026-06-05T11:14:24.000Z",
-      "xQuery": "警備員ひかれ死亡 女性ら書類送検"
+      "url": "https://news.yahoo.co.jp/pickup/6583098?source=rss",
+      "publishedAt": "2026-06-05T12:20:16.000Z",
+      "xQuery": "燃油サーチャージ 過去最高更新へ"
     },
     {
-      "time": "19:40",
-      "title": "みんなで大家さん4.5億円返還命令",
+      "time": "21:09",
+      "title": "無期懲役求刑 被告の女表情変えず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583083?source=rss",
-      "publishedAt": "2026-06-05T10:40:43.000Z",
-      "xQuery": "みんなで大家さん4.5億円返還命令"
+      "url": "https://news.yahoo.co.jp/pickup/6583096?source=rss",
+      "publishedAt": "2026-06-05T12:09:48.000Z",
+      "xQuery": "無期懲役求刑 被告の女表情変えず"
     },
     {
-      "time": "19:41",
-      "title": "行方不明の元教頭 横領疑いで逮捕",
+      "time": "21:19",
+      "title": "路上で作業中の男性に車衝突 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583078?source=rss",
-      "publishedAt": "2026-06-05T10:41:49.000Z",
-      "xQuery": "行方不明の元教頭 横領疑いで逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6583097?source=rss",
+      "publishedAt": "2026-06-05T12:19:05.000Z",
+      "xQuery": "路上で作業中の男性に車衝突 死亡"
     }
   ]
 };
