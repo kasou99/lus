@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T16:23:00.186Z",
+  "updatedAt": "2026-06-05T17:19:28.360Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-06-05T07:00:00.000Z"
       },
       {
+        "time": "19:13",
+        "title": "プライムライフテクノ、30年度売上高1.5兆円 賃貸・ストック拡大",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96eXhKSVBjaTBEVTlINnRseUJYWk85bWNJcFpZa2RoRjN0MnJwcmp1TlNTdm4wbEJIb25kYk1sb3NoWWtNeUVIWkxvRk9SQkQ0RFNDX09nNzh2N0R4b3VERzd1Y29qR1RXVnZzcnRpTzNZckt2?oc=5",
+        "publishedAt": "2026-06-05T10:13:09.000Z"
+      },
+      {
         "time": "09:00",
         "title": "株式会社M2X、テイケイ気化器株式会社の導入事例を公開",
         "source": "PR TIMES",
@@ -36,13 +43,6 @@
         "source": "finance.biggo.jp",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YUTlWUW1lWWloTS0zeDEzVXlOMm5hSC0ySnpkeGtKSUhldUk5TjlvNElvZVlHcGxmbERqN2NNb1NqaE51MWhIdE04d0RrWEpXekdiUlE1bTZmMk5HZGJF?oc=5",
         "publishedAt": "2026-06-05T03:36:00.000Z"
-      },
-      {
-        "time": "19:13",
-        "title": "プライムライフテクノ、30年度売上高1.5兆円 賃貸・ストック拡大",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96eXhKSVBjaTBEVTlINnRseUJYWk85bWNJcFpZa2RoRjN0MnJwcmp1TlNTdm4wbEJIb25kYk1sb3NoWWtNeUVIWkxvRk9SQkQ0RFNDX09nNzh2N0R4b3VERzd1Y29qR1RXVnZzcnRpTzNZckt2?oc=5",
-        "publishedAt": "2026-06-05T10:13:09.000Z"
       },
       {
         "time": "15:30",
