@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-05T07:43:55.191Z",
+  "updatedAt": "2026-06-05T09:20:39.012Z",
   "items": [
+    {
+      "time": "17:43",
+      "title": "7-8日再び災害級大雨か 警戒を",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583060?source=rss",
+      "publishedAt": "2026-06-05T08:43:20.000Z",
+      "xQuery": "7-8日再び災害級大雨か 警戒を"
+    },
     {
       "time": "16:21",
       "title": "衆院選1票の格差 「合憲」11件目",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "衆院選1票の格差 「合憲」11件目"
     },
     {
-      "time": "15:26",
-      "title": "栃木 強盗殺人未遂疑い少年再逮捕",
+      "time": "17:33",
+      "title": "大学生暴行死 女に無期懲役を求刑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583045?source=rss",
-      "publishedAt": "2026-06-05T06:26:30.000Z",
-      "xQuery": "栃木 強盗殺人未遂疑い少年再逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6583059?source=rss",
+      "publishedAt": "2026-06-05T08:33:20.000Z",
+      "xQuery": "大学生暴行死 女に無期懲役を求刑"
     },
     {
-      "time": "14:29",
-      "title": "被告が急に暴れ出す 裁判は休廷",
+      "time": "16:48",
+      "title": "会社役員遺棄 山で遺体の一部発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583040?source=rss",
-      "publishedAt": "2026-06-05T05:29:59.000Z",
-      "xQuery": "被告が急に暴れ出す 裁判は休廷"
+      "url": "https://news.yahoo.co.jp/pickup/6583053?source=rss",
+      "publishedAt": "2026-06-05T07:48:54.000Z",
+      "xQuery": "会社役員遺棄 山で遺体の一部発見"
     },
     {
-      "time": "15:51",
-      "title": "中野サンプラザ解体 専門家が異議",
+      "time": "15:41",
+      "title": "ADHD治療「ゲーム」アプリ登場",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583047?source=rss",
-      "publishedAt": "2026-06-05T06:51:37.000Z",
-      "xQuery": "中野サンプラザ解体 専門家が異議"
-    },
-    {
-      "time": "15:16",
-      "title": "衣類激安 オフプライスストアとは",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583043?source=rss",
-      "publishedAt": "2026-06-05T06:16:23.000Z",
-      "xQuery": "衣類激安 オフプライスストアとは"
+      "url": "https://news.yahoo.co.jp/pickup/6583046?source=rss",
+      "publishedAt": "2026-06-05T06:41:13.000Z",
+      "xQuery": "ADHD治療「ゲーム」アプリ登場"
     }
   ]
 };
