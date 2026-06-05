@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T22:52:26.741Z",
+  "updatedAt": "2026-06-05T23:33:33.269Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -27,7 +27,7 @@
         "time": "07:21",
         "title": "横須賀の原発燃料工場、また火災 1年間で4度目 市長「看過できない」",
         "source": "東京新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSnM0RWNwYWNVZjRISlpOZGFPVXBMbG5GbENnNFFkS3lFcXZ5bHJyR01wNTB4a2diTzBFaVE4OWRpdElyQUM1dVdHRGQ5YU9aVVZr?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGdS10MzBRczZQa0xQSVNCSzJYUkNpRGp1NzNUUDF2RHdCM2pzdG9oMU9NVnRzRzJzWmkwM29Id2hoS1pkTDdSYWxLVjBkUU0xOHZURHhrN25fbUJpbGtFUkNEZTE?oc=5",
         "publishedAt": "2026-06-05T22:21:38.000Z"
       },
       {
@@ -163,6 +163,13 @@
         "publishedAt": "2026-06-05T13:32:39.000Z"
       },
       {
+        "time": "08:19",
+        "title": "介護疲れた 逮捕された64歳のSOS",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583130?source=rss",
+        "publishedAt": "2026-06-05T23:19:41.000Z"
+      },
+      {
         "time": "23:27",
         "title": "殺虫剤誤飲 市の主張に遺族が反論",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583088?source=rss",
         "publishedAt": "2026-06-05T11:14:24.000Z"
-      },
-      {
-        "time": "23:46",
-        "title": "解体中の鉄塔が倒れ直撃 30代死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583113?source=rss",
-        "publishedAt": "2026-06-05T14:46:39.000Z"
       }
     ],
     "subsidyHeadlines": [

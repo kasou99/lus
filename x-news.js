@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-05T22:52:27.562Z",
+  "updatedAt": "2026-06-05T23:33:33.941Z",
   "items": [
     {
       "time": "07:10",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "プーチン氏 ウ大統領との会談拒否"
     },
     {
-      "time": "23:37",
-      "title": "栃木強殺 益田容疑者を国際手配",
+      "time": "08:05",
+      "title": "中傷動画の報道 苦しい首相答弁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583112?source=rss",
-      "publishedAt": "2026-06-05T14:37:08.000Z",
-      "xQuery": "栃木強殺 益田容疑者を国際手配"
+      "url": "https://news.yahoo.co.jp/pickup/6583128?source=rss",
+      "publishedAt": "2026-06-05T23:05:22.000Z",
+      "xQuery": "中傷動画の報道 苦しい首相答弁"
     },
     {
-      "time": "21:09",
-      "title": "無期懲役求刑 被告の女表情変えず",
+      "time": "08:19",
+      "title": "介護疲れた 逮捕された64歳のSOS",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583096?source=rss",
-      "publishedAt": "2026-06-05T12:09:48.000Z",
-      "xQuery": "無期懲役求刑 被告の女表情変えず"
+      "url": "https://news.yahoo.co.jp/pickup/6583130?source=rss",
+      "publishedAt": "2026-06-05T23:19:41.000Z",
+      "xQuery": "介護疲れた 逮捕された64歳のSOS"
     },
     {
       "time": "23:46",
