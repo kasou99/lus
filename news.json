@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T03:51:35.618Z",
+  "updatedAt": "2026-06-05T05:41:41.255Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MUDU1WlBTazRNaV9VazVldWZ6ZGVfckxWYkRiT09yQ0IybFpWR1ZjYl9IYzFQODEzMExxZ1VmV1c3YkJ6S0d6dGdlQWk1VDJrN2MySXVTbVhWa0paT0FtX2dEdGMwMzViZGc?oc=5",
         "publishedAt": "2026-06-04T23:00:00.000Z"
-      },
-      {
-        "time": "09:00",
-        "title": "株式会社M2X、テイケイ気化器株式会社の導入事例を公開",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kM25CVEo0ZzNRVVJfd2luRVpSQjk5b0pPZFdTU3Frck5KTHhrTldkZl9qVW8yLUdKYjlfZnR2RDZ5VUMzZTNueXBSczhrM3lzV2FlRkJwUDZaSmpvZWtORkhTZ1NkemZmaVE?oc=5",
-        "publishedAt": "2026-06-05T00:00:01.000Z"
       },
       {
         "time": "10:41",
@@ -29,6 +22,13 @@
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdmNSR1lYaGZldWdkRWN3NzJEcW9QcU9uazJOUUxKSDRjcW5QcU5GdzF4TERkYkJuM3lMSW81QmNSZlNIS2dmMFZTZS12Z25VSVk1UlNyXzhpZGxWVUQyR3dVNE5wcERLQnBlYURCeEp5YmljMDc3ckJOU0RUZ3lFU1BVUzFtTjhZakw2WtIBjAFBVV95cUxQdmNSR1lYaGZldWdkRWN3NzJEcW9QcU9uazJOUUxKSDRjcW5QcU5GdzF4TERkYkJuM3lMSW81QmNSZlNIS2dmMFZTZS12Z25VSVk1UlNyXzhpZGxWVUQyR3dVNE5wcERLQnBlYURCeEp5YmljMDc3ckJOU0RUZ3lFU1BVUzFtTjhZakw2Wg?oc=5",
         "publishedAt": "2026-06-05T02:02:00.000Z"
+      },
+      {
+        "time": "10:30",
+        "title": "株式会社M2X、テイケイ気化器株式会社の導入事例を公開",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yT1V6ZUdWT3gyTllfNzJBajdoLTRBMjFpNC10RnNtd3l1SGh6X2s5elMyRjNmMDdjeGtHdnpXUEdIZUFOQ2JrSDhuOFN4SlpIRDduRGVSU3RkRXZRQ3pyT0UxME42anREbnVzeWFydFc5Z2t1UW93V05IMA?oc=5",
+        "publishedAt": "2026-06-05T01:30:25.000Z"
       },
       {
         "time": "22:10",
@@ -82,6 +82,13 @@
         "publishedAt": "2026-06-05T00:26:02.000Z"
       },
       {
+        "time": "13:53",
+        "title": "非常任理事国 浮かぶ中露の影響",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583036?source=rss",
+        "publishedAt": "2026-06-05T04:53:57.000Z"
+      },
+      {
         "time": "22:35",
         "title": "入隊者の債務を免除 ロシアの焦り",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582932?source=rss",
         "publishedAt": "2026-06-04T07:55:05.000Z"
-      },
-      {
-        "time": "08:57",
-        "title": "A・リュウさんに中国圧力 父訴え",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583000?source=rss",
-        "publishedAt": "2026-06-04T23:57:31.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,6 +110,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583022?source=rss",
         "publishedAt": "2026-06-05T02:49:07.000Z"
+      },
+      {
+        "time": "13:38",
+        "title": "ヤマダとEDION統合 ブランド併用",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583032?source=rss",
+        "publishedAt": "2026-06-05T04:38:06.000Z"
       },
       {
         "time": "22:14",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582997?source=rss",
         "publishedAt": "2026-06-04T23:35:33.000Z"
-      },
-      {
-        "time": "20:05",
-        "title": "脱毛大手ミュゼ 破産の舞台裏激白",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582956?source=rss",
-        "publishedAt": "2026-06-04T11:05:05.000Z"
       },
       {
         "time": "07:26",
@@ -170,18 +170,18 @@
         "publishedAt": "2026-06-04T13:59:50.000Z"
       },
       {
-        "time": "20:41",
-        "title": "内田梨瑚被告が手紙 遺族は拒否",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582961?source=rss",
-        "publishedAt": "2026-06-04T11:41:27.000Z"
-      },
-      {
         "time": "11:51",
         "title": "副首都構想 福岡市が動き活発化",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583021?source=rss",
         "publishedAt": "2026-06-05T02:51:23.000Z"
+      },
+      {
+        "time": "13:16",
+        "title": "「モームリ」元社長に懲役2年求刑",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583031?source=rss",
+        "publishedAt": "2026-06-05T04:16:17.000Z"
       },
       {
         "time": "11:09",

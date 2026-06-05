@@ -1,37 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-05T03:51:36.983Z",
+  "updatedAt": "2026-06-05T05:41:41.985Z",
   "items": [
     {
-      "time": "11:38",
-      "title": "習近平氏 7年ぶりに北朝鮮訪問へ",
+      "time": "13:05",
+      "title": "皇族確保 立法府の総意案まとまる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583018?source=rss",
-      "publishedAt": "2026-06-05T02:38:17.000Z",
-      "xQuery": "習近平氏 7年ぶりに北朝鮮訪問へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583028?source=rss",
+      "publishedAt": "2026-06-05T04:05:25.000Z",
+      "xQuery": "皇族確保 立法府の総意案まとまる"
     },
     {
-      "time": "11:49",
-      "title": "ヤマダHDとEDION 経営統合で合意",
+      "time": "13:38",
+      "title": "ヤマダとEDION統合 ブランド併用",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583022?source=rss",
-      "publishedAt": "2026-06-05T02:49:07.000Z",
-      "xQuery": "ヤマダHDとEDION 経営統合で合意"
-    },
-    {
-      "time": "10:54",
-      "title": "「マンジャロ」適正使用を 厚労相",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583011?source=rss",
-      "publishedAt": "2026-06-05T01:54:12.000Z",
-      "xQuery": "「マンジャロ」適正使用を 厚労相"
-    },
-    {
-      "time": "10:45",
-      "title": "文春公開の音声 首相「違和感が」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583010?source=rss",
-      "publishedAt": "2026-06-05T01:45:52.000Z",
-      "xQuery": "文春公開の音声 首相「違和感が」"
+      "url": "https://news.yahoo.co.jp/pickup/6583032?source=rss",
+      "publishedAt": "2026-06-05T04:38:06.000Z",
+      "xQuery": "ヤマダとEDION統合 ブランド併用"
     },
     {
       "time": "12:45",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583027?source=rss",
       "publishedAt": "2026-06-05T03:45:30.000Z",
       "xQuery": "女性死亡 警官の目の前で刺したか"
+    },
+    {
+      "time": "13:16",
+      "title": "「モームリ」元社長に懲役2年求刑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583031?source=rss",
+      "publishedAt": "2026-06-05T04:16:17.000Z",
+      "xQuery": "「モームリ」元社長に懲役2年求刑"
+    },
+    {
+      "time": "14:29",
+      "title": "被告が急に暴れ出す 裁判は休廷",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583040?source=rss",
+      "publishedAt": "2026-06-05T05:29:59.000Z",
+      "xQuery": "被告が急に暴れ出す 裁判は休廷"
     }
   ]
 };
