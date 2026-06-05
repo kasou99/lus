@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-05T13:35:26.190Z",
+  "updatedAt": "2026-06-05T15:09:53.242Z",
   "items": [
     {
       "time": "21:13",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "補正予算 国会審議はわずか3日間"
     },
     {
-      "time": "20:46",
-      "title": "闇バイト必ず捕まる 未成年に訴え",
+      "time": "23:53",
+      "title": "人の構造物に慣れたクマ 識者指摘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583094?source=rss",
-      "publishedAt": "2026-06-05T11:46:16.000Z",
-      "xQuery": "闇バイト必ず捕まる 未成年に訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6583114?source=rss",
+      "publishedAt": "2026-06-05T14:53:17.000Z",
+      "xQuery": "人の構造物に慣れたクマ 識者指摘"
     },
     {
-      "time": "21:20",
-      "title": "燃油サーチャージ 過去最高更新へ",
+      "time": "23:37",
+      "title": "栃木強殺 益田容疑者を国際手配",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583098?source=rss",
-      "publishedAt": "2026-06-05T12:20:16.000Z",
-      "xQuery": "燃油サーチャージ 過去最高更新へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583112?source=rss",
+      "publishedAt": "2026-06-05T14:37:08.000Z",
+      "xQuery": "栃木強殺 益田容疑者を国際手配"
     },
     {
       "time": "21:09",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "無期懲役求刑 被告の女表情変えず"
     },
     {
-      "time": "21:19",
-      "title": "路上で作業中の男性に車衝突 死亡",
+      "time": "23:46",
+      "title": "解体中の鉄塔が倒れ直撃 30代死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583097?source=rss",
-      "publishedAt": "2026-06-05T12:19:05.000Z",
-      "xQuery": "路上で作業中の男性に車衝突 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6583113?source=rss",
+      "publishedAt": "2026-06-05T14:46:39.000Z",
+      "xQuery": "解体中の鉄塔が倒れ直撃 30代死亡"
     }
   ]
 };
