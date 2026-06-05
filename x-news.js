@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-05T22:02:24.923Z",
+  "updatedAt": "2026-06-05T22:52:27.562Z",
   "items": [
     {
-      "time": "21:13",
-      "title": "補正予算 国会審議はわずか3日間",
+      "time": "07:10",
+      "title": "飛鳥・藤原の宮都 世界遺産登録へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583099?source=rss",
-      "publishedAt": "2026-06-05T12:13:46.000Z",
-      "xQuery": "補正予算 国会審議はわずか3日間"
+      "url": "https://news.yahoo.co.jp/pickup/6583118?source=rss",
+      "publishedAt": "2026-06-05T22:10:05.000Z",
+      "xQuery": "飛鳥・藤原の宮都 世界遺産登録へ"
+    },
+    {
+      "time": "07:43",
+      "title": "プーチン氏 ウ大統領との会談拒否",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583123?source=rss",
+      "publishedAt": "2026-06-05T22:43:20.000Z",
+      "xQuery": "プーチン氏 ウ大統領との会談拒否"
     },
     {
       "time": "23:37",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583113?source=rss",
       "publishedAt": "2026-06-05T14:46:39.000Z",
       "xQuery": "解体中の鉄塔が倒れ直撃 30代死亡"
-    },
-    {
-      "time": "22:32",
-      "title": "1月墜落のヘリ いまも阿蘇火口に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583103?source=rss",
-      "publishedAt": "2026-06-05T13:32:39.000Z",
-      "xQuery": "1月墜落のヘリ いまも阿蘇火口に"
     }
   ]
 };

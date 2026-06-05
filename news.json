@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T22:02:23.786Z",
+  "updatedAt": "2026-06-05T22:52:26.741Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3cUM2NkM2SE5JOW1nNlJURmZUQ2ZUcWcyMUZ4RUMxR0w0eXZCLTdIYl9faW03TjRWbWxxMFlCUWh0OU4xZERpdU9JZ1Z6ems?oc=5",
         "publishedAt": "2026-06-05T07:00:00.000Z"
+      },
+      {
+        "time": "07:21",
+        "title": "横須賀の原発燃料工場、また火災 1年間で4度目 市長「看過できない」",
+        "source": "東京新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSnM0RWNwYWNVZjRISlpOZGFPVXBMbG5GbENnNFFkS3lFcXZ5bHJyR01wNTB4a2diTzBFaVE4OWRpdElyQUM1dVdHRGQ5YU9aVVZr?oc=5",
+        "publishedAt": "2026-06-05T22:21:38.000Z"
       },
       {
         "time": "19:13",
@@ -50,29 +57,22 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kM25CVEo0ZzNRVVJfd2luRVpSQjk5b0pPZFdTU3Frck5KTHhrTldkZl9qVW8yLUdKYjlfZnR2RDZ5VUMzZTNueXBSczhrM3lzV2FlRkJwUDZaSmpvZWtORkhTZ1NkemZmaVE?oc=5",
         "publishedAt": "2026-06-05T00:00:01.000Z"
-      },
-      {
-        "time": "15:30",
-        "title": "スピンドルユニットの世界市場（2026年～2032年）、市場規模（ギア式、ベルト式、ダイレクトドライブ式、電動スピンドルユニット、その他）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40MHplbkhTMndnNlRtR25wVWNCVUdwQm1vU3Y5WXl3Tm9LRjljc0FTLWswYW5POUpVbG5WRWp5NEhLRFAxU3hVRGM5NDVCelU?oc=5",
-        "publishedAt": "2026-06-05T06:30:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:43",
+        "title": "プーチン氏 ウ大統領との会談拒否",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583123?source=rss",
+        "publishedAt": "2026-06-05T22:43:20.000Z"
+      },
       {
         "time": "11:38",
         "title": "習近平氏 7年ぶりに北朝鮮訪問へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583018?source=rss",
         "publishedAt": "2026-06-05T02:38:17.000Z"
-      },
-      {
-        "time": "07:27",
-        "title": "ウ大統領 プーチン氏に公開書簡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582988?source=rss",
-        "publishedAt": "2026-06-04T22:27:27.000Z"
       },
       {
         "time": "09:26",
