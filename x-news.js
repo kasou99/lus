@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-05T10:49:15.816Z",
+  "updatedAt": "2026-06-05T12:05:52.228Z",
   "items": [
     {
       "time": "19:00",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "今年度補正予算成立 総額3兆円超"
     },
     {
-      "time": "19:06",
-      "title": "長崎原爆資料館の展示案 中国反発",
+      "time": "20:16",
+      "title": "動画問題に首相 語気強める場面も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583072?source=rss",
-      "publishedAt": "2026-06-05T10:06:16.000Z",
-      "xQuery": "長崎原爆資料館の展示案 中国反発"
+      "url": "https://news.yahoo.co.jp/pickup/6583087?source=rss",
+      "publishedAt": "2026-06-05T11:16:14.000Z",
+      "xQuery": "動画問題に首相 語気強める場面も"
     },
     {
-      "time": "17:33",
-      "title": "大学生暴行死 女に無期懲役を求刑",
+      "time": "20:14",
+      "title": "警備員ひかれ死亡 女性ら書類送検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583059?source=rss",
-      "publishedAt": "2026-06-05T08:33:20.000Z",
-      "xQuery": "大学生暴行死 女に無期懲役を求刑"
+      "url": "https://news.yahoo.co.jp/pickup/6583088?source=rss",
+      "publishedAt": "2026-06-05T11:14:24.000Z",
+      "xQuery": "警備員ひかれ死亡 女性ら書類送検"
     },
     {
       "time": "19:40",

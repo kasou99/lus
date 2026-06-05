@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T10:49:15.044Z",
+  "updatedAt": "2026-06-05T12:05:51.266Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,20 +24,6 @@
         "publishedAt": "2026-06-05T06:30:00.000Z"
       },
       {
-        "time": "08:00",
-        "title": "岡本工作機械製作所[6125]：第127期定時株主総会招集ご通知に際しての電子提供措置事項 2026年6月5日(適時開示) ：日経会社情報DIGITAL",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MUDU1WlBTazRNaV9VazVldWZ6ZGVfckxWYkRiT09yQ0IybFpWR1ZjYl9IYzFQODEzMExxZ1VmV1c3YkJ6S0d6dGdlQWk1VDJrN2MySXVTbVhWa0paT0FtX2dEdGMwMzViZGc?oc=5",
-        "publishedAt": "2026-06-04T23:00:00.000Z"
-      },
-      {
-        "time": "18:00",
-        "title": "高速フィンプレスの世界市場（2026年～2032年）、市場規模（開放型高速フィンプレス、密閉型高速フィンプレス）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qUUtEcU9Odm16UVpGbFo5aEVsU3JxNXdKVHc0dVlfQU56dVh0NlBNandYdjVTeHAxMUI4TTNvR0NSS1hlY2hfWXR2dlpaYlU?oc=5",
-        "publishedAt": "2026-06-05T09:00:00.000Z"
-      },
-      {
         "time": "11:02",
         "title": "泉州電業---通期連結業績予想および配当予想を修正",
         "source": "ｄメニューニュース",
@@ -57,6 +43,20 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yT1V6ZUdWT3gyTllfNzJBajdoLTRBMjFpNC10RnNtd3l1SGh6X2s5elMyRjNmMDdjeGtHdnpXUEdIZUFOQ2JrSDhuOFN4SlpIRDduRGVSU3RkRXZRQ3pyT0UxME42anREbnVzeWFydFc5Z2t1UW93V05IMA?oc=5",
         "publishedAt": "2026-06-05T01:30:25.000Z"
+      },
+      {
+        "time": "22:10",
+        "title": "次世代設備保全クラウド「M2X」が、現場のタスクを\"見える化\"する「カンバン」ビューを新たに搭載",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjaThfeDNGUU43M2k4eS05MFhuc1lvYUk1UmNyVDRsSGRGUHE3OWhHTS1zOGMyQzJaU0xjSUJCTnhHSHB2RzdDRUZFVHFlYWpZblV4WFYxWktCZkpuU1dZZ0hYeWtuRnZJNDJV?oc=5",
+        "publishedAt": "2026-06-04T13:10:00.000Z"
+      },
+      {
+        "time": "21:19",
+        "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xcWxpSS15RjRPNy1EQ254WmdkS3kwb0E0NkNtV283dEw5LWxQNkIwamlJa1NGVkFhM0RsaUZyQk9ndTR1cEw2SkdWWWNSeEpSVHpTTlpfazdSanBtRHJB?oc=5",
+        "publishedAt": "2026-06-04T12:19:53.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-06-05T09:56:15.000Z"
       },
       {
-        "time": "13:38",
-        "title": "ヤマダとEDION統合 ブランド併用",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583032?source=rss",
-        "publishedAt": "2026-06-05T04:38:06.000Z"
-      },
-      {
         "time": "19:40",
         "title": "みんなで大家さん4.5億円返還命令",
         "source": "Yahoo!ニュース",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583043?source=rss",
         "publishedAt": "2026-06-05T06:16:23.000Z"
+      },
+      {
+        "time": "20:43",
+        "title": "あずきバー新工場 生産能力1.3倍",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583092?source=rss",
+        "publishedAt": "2026-06-05T11:43:59.000Z"
       },
       {
         "time": "19:06",
@@ -170,11 +170,11 @@
         "publishedAt": "2026-06-05T07:48:54.000Z"
       },
       {
-        "time": "13:16",
-        "title": "「モームリ」元社長に懲役2年求刑",
+        "time": "20:14",
+        "title": "警備員ひかれ死亡 女性ら書類送検",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583031?source=rss",
-        "publishedAt": "2026-06-05T04:16:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583088?source=rss",
+        "publishedAt": "2026-06-05T11:14:24.000Z"
       },
       {
         "time": "19:41",
