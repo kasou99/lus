@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-05T15:09:53.242Z",
+  "updatedAt": "2026-06-05T16:23:01.170Z",
   "items": [
     {
       "time": "21:13",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583099?source=rss",
       "publishedAt": "2026-06-05T12:13:46.000Z",
       "xQuery": "補正予算 国会審議はわずか3日間"
-    },
-    {
-      "time": "23:53",
-      "title": "人の構造物に慣れたクマ 識者指摘",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583114?source=rss",
-      "publishedAt": "2026-06-05T14:53:17.000Z",
-      "xQuery": "人の構造物に慣れたクマ 識者指摘"
     },
     {
       "time": "23:37",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583113?source=rss",
       "publishedAt": "2026-06-05T14:46:39.000Z",
       "xQuery": "解体中の鉄塔が倒れ直撃 30代死亡"
+    },
+    {
+      "time": "22:32",
+      "title": "1月墜落のヘリ いまも阿蘇火口に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583103?source=rss",
+      "publishedAt": "2026-06-05T13:32:39.000Z",
+      "xQuery": "1月墜落のヘリ いまも阿蘇火口に"
     }
   ]
 };
