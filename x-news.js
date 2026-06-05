@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-05T09:20:39.012Z",
+  "updatedAt": "2026-06-05T10:49:15.816Z",
   "items": [
     {
-      "time": "17:43",
-      "title": "7-8日再び災害級大雨か 警戒を",
+      "time": "19:00",
+      "title": "今年度補正予算成立 総額3兆円超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583060?source=rss",
-      "publishedAt": "2026-06-05T08:43:20.000Z",
-      "xQuery": "7-8日再び災害級大雨か 警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6583073?source=rss",
+      "publishedAt": "2026-06-05T10:00:17.000Z",
+      "xQuery": "今年度補正予算成立 総額3兆円超"
     },
     {
-      "time": "16:21",
-      "title": "衆院選1票の格差 「合憲」11件目",
+      "time": "19:06",
+      "title": "長崎原爆資料館の展示案 中国反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583050?source=rss",
-      "publishedAt": "2026-06-05T07:21:10.000Z",
-      "xQuery": "衆院選1票の格差 「合憲」11件目"
+      "url": "https://news.yahoo.co.jp/pickup/6583072?source=rss",
+      "publishedAt": "2026-06-05T10:06:16.000Z",
+      "xQuery": "長崎原爆資料館の展示案 中国反発"
     },
     {
       "time": "17:33",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "大学生暴行死 女に無期懲役を求刑"
     },
     {
-      "time": "16:48",
-      "title": "会社役員遺棄 山で遺体の一部発見",
+      "time": "19:40",
+      "title": "みんなで大家さん4.5億円返還命令",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583053?source=rss",
-      "publishedAt": "2026-06-05T07:48:54.000Z",
-      "xQuery": "会社役員遺棄 山で遺体の一部発見"
+      "url": "https://news.yahoo.co.jp/pickup/6583083?source=rss",
+      "publishedAt": "2026-06-05T10:40:43.000Z",
+      "xQuery": "みんなで大家さん4.5億円返還命令"
     },
     {
-      "time": "15:41",
-      "title": "ADHD治療「ゲーム」アプリ登場",
+      "time": "19:41",
+      "title": "行方不明の元教頭 横領疑いで逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583046?source=rss",
-      "publishedAt": "2026-06-05T06:41:13.000Z",
-      "xQuery": "ADHD治療「ゲーム」アプリ登場"
+      "url": "https://news.yahoo.co.jp/pickup/6583078?source=rss",
+      "publishedAt": "2026-06-05T10:41:49.000Z",
+      "xQuery": "行方不明の元教頭 横領疑いで逮捕"
     }
   ]
 };

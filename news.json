@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-06-05T09:20:38.281Z",
+  "updatedAt": "2026-06-05T10:49:15.044Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "19:11",
+        "title": "日工会、26年の工作機械受注2兆円に AI関連好調で3000億円上方修正",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PWkhpMkZqSTZHX1d1TVREUEotd0hZWEN0ZHROOVFRS19SQmdGT3UwX1VTVl9BWkprbUItRDRjZUstaE51TU5FeWFuWHMxZ2NJN0RRUGV0NVNkYUw2eWFqN2ZpVGljTmQ1ejFEQg?oc=5",
+        "publishedAt": "2026-06-05T10:11:14.000Z"
+      },
       {
         "time": "16:00",
         "title": "精密工作機械用スピンドルユニット（5000r/min以上）の世界市場（2026年～2032年）、市場規模（5000～10000 r/min、10000 r/min 以上）・分析レポートを発表",
         "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3cUM2NkM2SE5JOW1nNlJURmZUQ2ZUcWcyMUZ4RUMxR0w0eXZCLTdIYl9faW03TjRWbWxxMFlCUWh0OU4xZERpdU9JZ1Z6ems?oc=5",
         "publishedAt": "2026-06-05T07:00:00.000Z"
+      },
+      {
+        "time": "15:30",
+        "title": "スピンドルユニットの世界市場（2026年～2032年）、市場規模（ギア式、ベルト式、ダイレクトドライブ式、電動スピンドルユニット、その他）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40MHplbkhTMndnNlRtR25wVWNCVUdwQm1vU3Y5WXl3Tm9LRjljc0FTLWswYW5POUpVbG5WRWp5NEhLRFAxU3hVRGM5NDVCelU?oc=5",
+        "publishedAt": "2026-06-05T06:30:00.000Z"
       },
       {
         "time": "08:00",
@@ -24,20 +38,6 @@
         "publishedAt": "2026-06-05T09:00:00.000Z"
       },
       {
-        "time": "15:30",
-        "title": "スピンドルユニットの世界市場（2026年～2032年）、市場規模（ギア式、ベルト式、ダイレクトドライブ式、電動スピンドルユニット、その他）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40MHplbkhTMndnNlRtR25wVWNCVUdwQm1vU3Y5WXl3Tm9LRjljc0FTLWswYW5POUpVbG5WRWp5NEhLRFAxU3hVRGM5NDVCelU?oc=5",
-        "publishedAt": "2026-06-05T06:30:00.000Z"
-      },
-      {
-        "time": "10:41",
-        "title": "NTT、宇宙向け光通信機器開発で欧社と協業 IOWN展開",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkT0lCQnpHNVlPTEZ4N0gxN0tocEZEbWc4RjRMRlJ3WWt3V2FBXzZ5dWtyUm9FSURzcmgzVV9PNVN1cW1PSTZlRWlIejI0ZGMzRW5mVmh2LTljUkk?oc=5",
-        "publishedAt": "2026-06-05T01:41:15.000Z"
-      },
-      {
         "time": "11:02",
         "title": "泉州電業---通期連結業績予想および配当予想を修正",
         "source": "ｄメニューニュース",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-05T02:02:00.000Z"
       },
       {
+        "time": "05:02",
+        "title": "ニデックドライブテクノロジー、社長に二井谷春彦氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KUnpQbE0td0ZVNnhWN3p1c1BoYkY1bEdyQzU4OEt5RmVscW1GVUh2MUl6RkFIOGRUcGs3Y29xWGxzWWlkRE0wMDFKbTVZVjM4NG5BX3RHNFJrUnpSU1Z3YTlIdVlZcXhSdTlBV2ZXWUhhMjRt?oc=5",
+        "publishedAt": "2026-06-04T20:02:27.000Z"
+      },
+      {
         "time": "10:30",
         "title": "株式会社M2X、テイケイ気化器株式会社の導入事例を公開",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yT1V6ZUdWT3gyTllfNzJBajdoLTRBMjFpNC10RnNtd3l1SGh6X2s5elMyRjNmMDdjeGtHdnpXUEdIZUFOQ2JrSDhuOFN4SlpIRDduRGVSU3RkRXZRQ3pyT0UxME42anREbnVzeWFydFc5Z2t1UW93V05IMA?oc=5",
         "publishedAt": "2026-06-05T01:30:25.000Z"
-      },
-      {
-        "time": "13:54",
-        "title": "泉州電業が続騰､上期上振れ着地と通期予想増額を好感",
-        "source": "四季報オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yOTRnVlY3V0xDU0pFRWd6THhGUkRUNXRzMWtoVWtVSENfdVpJWFVTOFBvVHJ4WEkxd1Q4bGh5WGNtUG5uSm44OU02SEhIaEtGQk9LdDJlRQ?oc=5",
-        "publishedAt": "2026-06-05T04:54:26.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-06-05T00:26:02.000Z"
       },
       {
+        "time": "19:06",
+        "title": "長崎原爆資料館の展示案 中国反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583072?source=rss",
+        "publishedAt": "2026-06-05T10:06:16.000Z"
+      },
+      {
         "time": "13:53",
         "title": "非常任理事国 浮かぶ中露の影響",
         "source": "Yahoo!ニュース",
@@ -94,22 +101,15 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582946?source=rss",
         "publishedAt": "2026-06-04T13:35:40.000Z"
-      },
-      {
-        "time": "16:55",
-        "title": "天安門事件 検閲で過去消せずと米",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582932?source=rss",
-        "publishedAt": "2026-06-04T07:55:05.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "11:49",
-        "title": "ヤマダHDとEDION 経営統合で合意",
+        "time": "18:56",
+        "title": "政府 ラピダスに1500億円追加出資",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583022?source=rss",
-        "publishedAt": "2026-06-05T02:49:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583070?source=rss",
+        "publishedAt": "2026-06-05T09:56:15.000Z"
       },
       {
         "time": "13:38",
@@ -119,18 +119,11 @@
         "publishedAt": "2026-06-05T04:38:06.000Z"
       },
       {
-        "time": "08:35",
-        "title": "ファミリー企業成長へ 初の指針",
+        "time": "19:40",
+        "title": "みんなで大家さん4.5億円返還命令",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582997?source=rss",
-        "publishedAt": "2026-06-04T23:35:33.000Z"
-      },
-      {
-        "time": "07:26",
-        "title": "セルフレジ「ごまかす」万引き増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582989?source=rss",
-        "publishedAt": "2026-06-04T22:26:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583083?source=rss",
+        "publishedAt": "2026-06-05T10:40:43.000Z"
       },
       {
         "time": "15:51",
@@ -140,11 +133,18 @@
         "publishedAt": "2026-06-05T06:51:37.000Z"
       },
       {
-        "time": "11:39",
-        "title": "ユニクロ独走 アパレル企業に明暗",
+        "time": "15:16",
+        "title": "衣類激安 オフプライスストアとは",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583014?source=rss",
-        "publishedAt": "2026-06-05T02:39:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583043?source=rss",
+        "publishedAt": "2026-06-05T06:16:23.000Z"
+      },
+      {
+        "time": "19:06",
+        "title": "「うどん大戦争」多軸化進む市場",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583069?source=rss",
+        "publishedAt": "2026-06-05T10:06:02.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,25 +170,25 @@
         "publishedAt": "2026-06-05T07:48:54.000Z"
       },
       {
-        "time": "12:45",
-        "title": "女性死亡 警官の目の前で刺したか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583027?source=rss",
-        "publishedAt": "2026-06-05T03:45:30.000Z"
-      },
-      {
-        "time": "17:16",
-        "title": "辺野古で器物損壊罪 作家在宅起訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583058?source=rss",
-        "publishedAt": "2026-06-05T08:16:01.000Z"
-      },
-      {
         "time": "13:16",
         "title": "「モームリ」元社長に懲役2年求刑",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583031?source=rss",
         "publishedAt": "2026-06-05T04:16:17.000Z"
+      },
+      {
+        "time": "19:41",
+        "title": "行方不明の元教頭 横領疑いで逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583078?source=rss",
+        "publishedAt": "2026-06-05T10:41:49.000Z"
+      },
+      {
+        "time": "17:10",
+        "title": "TOEIC替え玉 解答役に有罪判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583055?source=rss",
+        "publishedAt": "2026-06-05T08:10:40.000Z"
       }
     ],
     "subsidyHeadlines": [
