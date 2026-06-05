@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-05T01:13:26.679Z",
+  "updatedAt": "2026-06-05T02:26:48.074Z",
   "items": [
-    {
-      "time": "08:35",
-      "title": "ファミリー企業成長へ 初の指針",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582997?source=rss",
-      "publishedAt": "2026-06-04T23:35:33.000Z",
-      "xQuery": "ファミリー企業成長へ 初の指針"
-    },
     {
       "time": "09:26",
       "title": "米政府 キューバ大統領らに制裁",
@@ -18,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米政府 キューバ大統領らに制裁"
     },
     {
-      "time": "08:10",
-      "title": "小中高生の理系育成拠点 全県に",
+      "time": "09:36",
+      "title": "米AI計画に日本が800億円拠出へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582995?source=rss",
-      "publishedAt": "2026-06-04T23:10:39.000Z",
-      "xQuery": "小中高生の理系育成拠点 全県に"
+      "url": "https://news.yahoo.co.jp/pickup/6583003?source=rss",
+      "publishedAt": "2026-06-05T00:36:07.000Z",
+      "xQuery": "米AI計画に日本が800億円拠出へ"
+    },
+    {
+      "time": "10:54",
+      "title": "「マンジャロ」適正使用を 厚労相",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583011?source=rss",
+      "publishedAt": "2026-06-05T01:54:12.000Z",
+      "xQuery": "「マンジャロ」適正使用を 厚労相"
+    },
+    {
+      "time": "10:45",
+      "title": "文春公開の音声 首相「違和感が」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583010?source=rss",
+      "publishedAt": "2026-06-05T01:45:52.000Z",
+      "xQuery": "文春公開の音声 首相「違和感が」"
     },
     {
       "time": "08:57",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583000?source=rss",
       "publishedAt": "2026-06-04T23:57:31.000Z",
       "xQuery": "A・リュウさんに中国圧力 父訴え"
-    },
-    {
-      "time": "08:26",
-      "title": "日本人が拉致? 異色の漫画刊行",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6582996?source=rss",
-      "publishedAt": "2026-06-04T23:26:04.000Z",
-      "xQuery": "日本人が拉致? 異色の漫画刊行"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T01:13:25.845Z",
+  "updatedAt": "2026-06-05T02:26:46.756Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,25 @@
         "publishedAt": "2026-06-04T20:00:00.000Z"
       },
       {
-        "time": "05:03",
+        "time": "05:06",
         "title": "深層断面／不確実な環境も“商社力”で成長",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16aTlnZDhNd0RvOFV6Mks4QzhqM2ptQmt5eUM3VVBLOFh6NFJXd2xEWVh5MFU4dnNKY1FZNHZ0YUZwMkctRHdCWWRIZE5nWXZCVlQtZEhfZjhhWXM?oc=5",
-        "publishedAt": "2026-06-04T20:03:45.000Z"
+        "publishedAt": "2026-06-04T20:06:04.000Z"
+      },
+      {
+        "time": "10:30",
+        "title": "株式会社M2X、テイケイ気化器株式会社の導入事例を公開",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxRXJURU9ZYU5mblZIMUxGOG9ZbHI4Xy14dC1xM1FLNU92MnJ3VXcxMVpseTQxdk43M00yNEhSRVpKblFuWVNLOExiN1oxQVpzc1NNX0QxZnVyLUdaam1qZjVkeFU4N2JRTU41NHpCY2hxT3VMM3k4VmM1NA?oc=5",
+        "publishedAt": "2026-06-05T01:30:25.000Z"
+      },
+      {
+        "time": "22:10",
+        "title": "次世代設備保全クラウド「M2X」が、現場のタスクを\"見える化\"する「カンバン」ビューを新たに搭載",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjaThfeDNGUU43M2k4eS05MFhuc1lvYUk1UmNyVDRsSGRGUHE3OWhHTS1zOGMyQzJaU0xjSUJCTnhHSHB2RzdDRUZFVHFlYWpZblV4WFYxWktCZkpuU1dZZ0hYeWtuRnZJNDJV?oc=5",
+        "publishedAt": "2026-06-04T13:10:00.000Z"
       },
       {
         "time": "21:19",
@@ -22,20 +36,6 @@
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xcWxpSS15RjRPNy1EQ254WmdkS3kwb0E0NkNtV283dEw5LWxQNkIwamlJa1NGVkFhM0RsaUZyQk9ndTR1cEw2SkdWWWNSeEpSVHpTTlpfazdSanBtRHJB?oc=5",
         "publishedAt": "2026-06-04T12:19:53.000Z"
-      },
-      {
-        "time": "10:51",
-        "title": "プレスリリース：次世代設備保全クラウド「M2X」が、現場のタスクを\"見える化\"する「カンバン」ビューを新たに搭載（PR TIMES）",
-        "source": "毎日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JRXk4OExyMmw4V2llVFRSM3ZFOUlsdU03dmN4Y2JiUGJMa19LLVloZ2FndFZ6SXZGR0ZIRHFGU0pENU1kYjBidndhUkZHb2hvRmhmTElDRE51ekRQSkdkSFdxbm1RLVBu?oc=5",
-        "publishedAt": "2026-06-04T01:51:27.000Z"
-      },
-      {
-        "time": "11:01",
-        "title": "【5月31日開催】第1回オープンキャンパスを開催しました",
-        "source": "pref.gunma.jp",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wUkVVVUplc1N4MWlQQVRRaVIyM3F5aG82OHM4ZlVhMGFicWQ3QkZQTlVGUXRSQzl0RG1GemNvWmI0djlzYUVWY25kLVpzZVRpTHpESXNCdzQwYm9zWnRJ?oc=5",
-        "publishedAt": "2026-06-04T02:01:52.000Z"
       },
       {
         "time": "08:42",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-06-04T05:41:43.000Z"
       },
       {
-        "time": "18:02",
-        "title": "6月3日、内閣委員会にて30分間の質疑を行いました。",
-        "source": "選挙ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tLXJ3M1BOTDNpcW1jR1pydkpiX0FRRmpMclk4Z2kzRnVRS2xGU0hqazR1Ty1WZXF6Uy12ZmdTRTNzTnMtSnc5MlhNMnljQ2xTMmQ3MU4zNjk3M3YtMmxB?oc=5",
-        "publishedAt": "2026-06-04T09:02:51.000Z"
+        "time": "17:17",
+        "title": "北陸発、地域インフラ×スタートアップの共創が加速、NGAS-Accelerator Program 2025で6社が成果発表",
+        "source": "BRIDGE（ブリッジ）",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTlNXdE5RZ05zcDNpVWw4YV9mcEQ3OEI3ZV9oTGhqOVlsWGJwQnpOSDlHTS1RSkNSd3lUdk5KazdYRS1BVTdaWmtsX2k2bWlBTnV3U0lkT1FiaDBKYlJlaDNiVEZZcWZsY1lDS3g0Vjc3U1p2R1QtMlVhTTZKZ2FwU1VR?oc=5",
+        "publishedAt": "2026-06-04T08:17:20.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-06-04T11:41:27.000Z"
       },
       {
+        "time": "11:09",
+        "title": "免許なく医療行為疑い 書類送検",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583012?source=rss",
+        "publishedAt": "2026-06-05T02:09:41.000Z"
+      },
+      {
         "time": "07:19",
         "title": "AI加工写真も「児童ポルノ」地裁",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6582941?source=rss",
         "publishedAt": "2026-06-04T09:12:56.000Z"
-      },
-      {
-        "time": "17:18",
-        "title": "田久保前市長を追送検 捜査終結",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6582934?source=rss",
-        "publishedAt": "2026-06-04T08:18:25.000Z"
       }
     ],
     "subsidyHeadlines": [
