@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T12:42:30.364Z",
+  "updatedAt": "2026-06-06T13:37:59.746Z",
   "items": [
     {
-      "time": "18:26",
-      "title": "訪日客誘致巡り批判 廃止の動きも",
+      "time": "21:48",
+      "title": "「飛鳥・藤原」地元たゆまぬ努力",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583200?source=rss",
-      "publishedAt": "2026-06-06T09:26:16.000Z",
-      "xQuery": "訪日客誘致巡り批判 廃止の動きも"
+      "url": "https://news.yahoo.co.jp/pickup/6583227?source=rss",
+      "publishedAt": "2026-06-06T12:48:37.000Z",
+      "xQuery": "「飛鳥・藤原」地元たゆまぬ努力"
     },
     {
-      "time": "21:01",
-      "title": "世界の原油在庫が急減 相場急騰も",
+      "time": "21:29",
+      "title": "習氏が訪朝へ 露への接近けん制か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583222?source=rss",
-      "publishedAt": "2026-06-06T12:01:38.000Z",
-      "xQuery": "世界の原油在庫が急減 相場急騰も"
+      "url": "https://news.yahoo.co.jp/pickup/6583225?source=rss",
+      "publishedAt": "2026-06-06T12:29:38.000Z",
+      "xQuery": "習氏が訪朝へ 露への接近けん制か"
+    },
+    {
+      "time": "21:29",
+      "title": "障害福祉の不正受給80億円 5年間",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583226?source=rss",
+      "publishedAt": "2026-06-06T12:29:47.000Z",
+      "xQuery": "障害福祉の不正受給80億円 5年間"
     },
     {
       "time": "21:12",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583203?source=rss",
       "publishedAt": "2026-06-06T10:24:32.000Z",
       "xQuery": "いとこと結婚強要され 絶縁を決断"
-    },
-    {
-      "time": "20:22",
-      "title": "Switch2「転売屋」利する格好に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583214?source=rss",
-      "publishedAt": "2026-06-06T11:22:50.000Z",
-      "xQuery": "Switch2「転売屋」利する格好に"
     }
   ]
 };

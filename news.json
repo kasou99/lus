@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T12:42:29.622Z",
+  "updatedAt": "2026-06-06T13:37:58.689Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -25,17 +25,10 @@
       },
       {
         "time": "07:21",
-        "title": "横須賀の原発燃料工場でまた火災 昨年7月以降で4回目 上地克明市長「看過できない」 会社側の釈明は",
-        "source": "東京新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSnM0RWNwYWNVZjRISlpOZGFPVXBMbG5GbENnNFFkS3lFcXZ5bHJyR01wNTB4a2diTzBFaVE4OWRpdElyQUM1dVdHRGQ5YU9aVVZr?oc=5",
-        "publishedAt": "2026-06-05T22:21:38.000Z"
-      },
-      {
-        "time": "07:21",
         "title": "横須賀の原発燃料工場、また火災 1年間で4度目 市長「看過できない」",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhb0E1Ny1wYVE1dm1zRGp1YlRucDRmUkFZSkxxVE1yU3Q0RTlZclpGUmd1c25RN29SUkU2R01OMEtWaHdPR2xFWmtlbnB6WU5lT3hQSWxQaFhwbENpbnppazIyN3JHbU9FRXBTSHVreWNBb3JoOFRfb9IBeEFVX3lxTFBhb0E1Ny1wYVE1dm1zRGp1YlRucDRmUkFZSkxxVE1yU3Q0RTlZclpGUmd1c25RN29SUkU2R01OMEtWaHdPR2xFWmtlbnB6WU5lT3hQSWxQaFhwbENpbnppazIyN3JHbU9FRXBTSHVreWNBb3JoOFRfbw?oc=5",
-        "publishedAt": "2026-06-05T22:21:00.000Z"
+        "source": "東京新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGdS10MzBRczZQa0xQSVNCSzJYUkNpRGp1NzNUUDF2RHdCM2pzdG9oMU9NVnRzRzJzWmkwM29Id2hoS1pkTDdSYWxLVjBkUU0xOHZURHhrN25fbUJpbGtFUkNEZTE?oc=5",
+        "publishedAt": "2026-06-05T22:21:38.000Z"
       },
       {
         "time": "15:56",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583222?source=rss",
         "publishedAt": "2026-06-06T12:01:38.000Z"
+      },
+      {
+        "time": "15:49",
+        "title": "外国人の起業 法改正後に4割減か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583177?source=rss",
+        "publishedAt": "2026-06-06T06:49:22.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-06T09:13:55.000Z"
       },
       {
+        "time": "22:32",
+        "title": "事故に心痛め 遺言で1.8億円寄付",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583234?source=rss",
+        "publishedAt": "2026-06-06T13:32:17.000Z"
+      },
+      {
         "time": "16:53",
         "title": "消滅寸前集落 住民74歳の1人だけ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583188?source=rss",
         "publishedAt": "2026-06-06T07:53:24.000Z"
-      },
-      {
-        "time": "19:21",
-        "title": "「網走監獄和牛」育て更生目指す",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583205?source=rss",
-        "publishedAt": "2026-06-06T10:21:37.000Z"
       }
     ],
     "subsidyHeadlines": [
