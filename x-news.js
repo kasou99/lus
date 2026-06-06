@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T21:56:41.088Z",
+  "updatedAt": "2026-06-06T22:30:27.164Z",
   "items": [
     {
-      "time": "00:06",
-      "title": "宮崎 線状降水帯発生の恐れ",
+      "time": "07:16",
+      "title": "鹿児島と宮崎 線状降水帯発生恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583240?source=rss",
-      "publishedAt": "2026-06-06T15:06:43.000Z",
-      "xQuery": "宮崎 線状降水帯発生の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6583242?source=rss",
+      "publishedAt": "2026-06-06T22:16:45.000Z",
+      "xQuery": "鹿児島と宮崎 線状降水帯発生恐れ"
     },
     {
       "time": "21:48",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "詐欺G幹部の日本人か タイで拘束"
     },
     {
-      "time": "23:04",
-      "title": "豪産小麦が収穫減へ うどん影響か",
+      "time": "22:32",
+      "title": "事故に心痛め 遺言で1.8億円寄付",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583237?source=rss",
-      "publishedAt": "2026-06-06T14:04:33.000Z",
-      "xQuery": "豪産小麦が収穫減へ うどん影響か"
+      "url": "https://news.yahoo.co.jp/pickup/6583234?source=rss",
+      "publishedAt": "2026-06-06T13:32:17.000Z",
+      "xQuery": "事故に心痛め 遺言で1.8億円寄付"
     }
   ]
 };
