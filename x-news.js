@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T09:04:30.677Z",
+  "updatedAt": "2026-06-06T10:16:09.426Z",
   "items": [
-    {
-      "time": "17:30",
-      "title": "都構想挑戦 吉村氏連立入りで決断",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583193?source=rss",
-      "publishedAt": "2026-06-06T08:30:13.000Z",
-      "xQuery": "都構想挑戦 吉村氏連立入りで決断"
-    },
-    {
-      "time": "16:42",
-      "title": "栃木 強殺未遂疑い少年3人再逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583186?source=rss",
-      "publishedAt": "2026-06-06T07:42:32.000Z",
-      "xQuery": "栃木 強殺未遂疑い少年3人再逮捕"
-    },
     {
       "time": "17:30",
       "title": "イランが湾岸地域へ攻撃 米が迎撃",
@@ -26,20 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "イランが湾岸地域へ攻撃 米が迎撃"
     },
     {
-      "time": "15:25",
-      "title": "週明けにかけて警報級大雨の恐れ",
+      "time": "19:06",
+      "title": "7日西日本で滝のような雨も 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583172?source=rss",
-      "publishedAt": "2026-06-06T06:25:24.000Z",
-      "xQuery": "週明けにかけて警報級大雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6583204?source=rss",
+      "publishedAt": "2026-06-06T10:06:42.000Z",
+      "xQuery": "7日西日本で滝のような雨も 警戒"
     },
     {
-      "time": "17:51",
-      "title": "アクエリ新商品 青い色は「王道」",
+      "time": "18:25",
+      "title": "レアメタルが調達難 中国輸出規制",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583195?source=rss",
-      "publishedAt": "2026-06-06T08:51:48.000Z",
-      "xQuery": "アクエリ新商品 青い色は「王道」"
+      "url": "https://news.yahoo.co.jp/pickup/6583201?source=rss",
+      "publishedAt": "2026-06-06T09:25:23.000Z",
+      "xQuery": "レアメタルが調達難 中国輸出規制"
+    },
+    {
+      "time": "18:13",
+      "title": "タンクローリー海に突っ込む 救助",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583198?source=rss",
+      "publishedAt": "2026-06-06T09:13:55.000Z",
+      "xQuery": "タンクローリー海に突っ込む 救助"
+    },
+    {
+      "time": "18:05",
+      "title": "アクエリ 青い液色はZ世代支持",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583199?source=rss",
+      "publishedAt": "2026-06-06T09:05:34.000Z",
+      "xQuery": "アクエリ 青い液色はZ世代支持"
     }
   ]
 };

@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-06T09:04:29.919Z",
+  "updatedAt": "2026-06-06T10:16:08.686Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:42",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMRkNWbGluVmk4c2JfblNVclBMVHpvMXNBY1lkRFlyU2hhOVRzVDZ1NnNtVjBPcnpLZGRsMlJ1a0tlWXh2UFoxcm1oU0RQWmpaemR2WEplOFRwcENTT2N6YVlLdw?oc=5",
+        "publishedAt": "2026-06-06T07:42:03.000Z"
+      },
       {
         "time": "15:08",
         "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
@@ -10,46 +17,18 @@
         "publishedAt": "2026-06-06T06:08:53.000Z"
       },
       {
-        "time": "11:05",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-06-06T02:05:49.000Z"
-      },
-      {
-        "time": "19:11",
-        "title": "日工会、26年の工作機械受注2兆円に AI関連好調で3000億円上方修正",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PWkhpMkZqSTZHX1d1TVREUEotd0hZWEN0ZHROOVFRS19SQmdGT3UwX1VTVl9BWkprbUItRDRjZUstaE51TU5FeWFuWHMxZ2NJN0RRUGV0NVNkYUw2eWFqN2ZpVGljTmQ1ejFEQg?oc=5",
-        "publishedAt": "2026-06-05T10:11:14.000Z"
-      },
-      {
-        "time": "19:11",
-        "title": "日本経済新聞 印刷画面",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYko4aUt3ZlM3N0xCQ3BBeHU4eXl0cXZDdTNKOTl6UU1mbmhSYTNkR1dPcFBCbXZiWVJYMjRnU0VEY01COGpfeldZNXBpb1dsM1dnOTZTOG9hbkYyUi1vTXdYZl9TT1RjTllJMi1jdjJEeW1PQTVaSXJZQ1Z0aHlpSWFQRnlwa3YzSWlpSElaSWs?oc=5",
-        "publishedAt": "2026-06-05T10:11:00.000Z"
-      },
-      {
-        "time": "17:45",
-        "title": "横須賀の原発燃料工場でまた火災 昨年7月以降で4回目 上地克明市長「看過できない」 会社側の釈明は",
-        "source": "東京新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSnM0RWNwYWNVZjRISlpOZGFPVXBMbG5GbENnNFFkS3lFcXZ5bHJyR01wNTB4a2diTzBFaVE4OWRpdElyQUM1dVdHRGQ5YU9aVVZr?oc=5",
-        "publishedAt": "2026-06-06T08:45:57.000Z"
-      },
-      {
-        "time": "19:13",
-        "title": "プライムライフテクノ、30年度売上高1.5兆円 賃貸・ストック拡大",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96eXhKSVBjaTBEVTlINnRseUJYWk85bWNJcFpZa2RoRjN0MnJwcmp1TlNTdm4wbEJIb25kYk1sb3NoWWtNeUVIWkxvRk9SQkQ0RFNDX09nNzh2N0R4b3VERzd1Y29qR1RXVnZzcnRpTzNZckt2?oc=5",
-        "publishedAt": "2026-06-05T10:13:09.000Z"
+        "time": "13:40",
+        "title": "次世代設備保全クラウド「M2X」が、現場のタスクを\"見える化\"する「カンバン」ビューを新たに搭載",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjaThfeDNGUU43M2k4eS05MFhuc1lvYUk1UmNyVDRsSGRGUHE3OWhHTS1zOGMyQzJaU0xjSUJCTnhHSHB2RzdDRUZFVHFlYWpZblV4WFYxWktCZkpuU1dZZ0hYeWtuRnZJNDJV?oc=5",
+        "publishedAt": "2026-06-06T04:40:00.000Z"
       },
       {
         "time": "07:21",
         "title": "横須賀の原発燃料工場、また火災 1年間で4度目 市長「看過できない」",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhb0E1Ny1wYVE1dm1zRGp1YlRucDRmUkFZSkxxVE1yU3Q0RTlZclpGUmd1c25RN29SUkU2R01OMEtWaHdPR2xFWmtlbnB6WU5lT3hQSWxQaFhwbENpbnppazIyN3JHbU9FRXBTSHVreWNBb3JoOFRfb9IBeEFVX3lxTFBhb0E1Ny1wYVE1dm1zRGp1YlRucDRmUkFZSkxxVE1yU3Q0RTlZclpGUmd1c25RN29SUkU2R01OMEtWaHdPR2xFWmtlbnB6WU5lT3hQSWxQaFhwbENpbnppazIyN3JHbU9FRXBTSHVreWNBb3JoOFRfbw?oc=5",
-        "publishedAt": "2026-06-05T22:21:00.000Z"
+        "source": "東京新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGdS10MzBRczZQa0xQSVNCSzJYUkNpRGp1NzNUUDF2RHdCM2pzdG9oMU9NVnRzRzJzWmkwM29Id2hoS1pkTDdSYWxLVjBkUU0xOHZURHhrN25fbUJpbGtFUkNEZTE?oc=5",
+        "publishedAt": "2026-06-05T22:21:38.000Z"
       },
       {
         "time": "15:56",
@@ -57,6 +36,27 @@
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03NGVrWXJLdHg3Y3FwczZabEFkd2FZc2FHeVFETTd1Mk1FQkZyVUF0UXUzelNtWTBpZG5DMHNKbHZFWFpVYzE5dUFLdjB3YjBiNk84VllHUEJhODZTM2ZndzVXTnNLa0Q1NWdQd1JXMVpkYWI3RnRaa3ROQQ?oc=5",
         "publishedAt": "2026-06-06T06:56:00.000Z"
+      },
+      {
+        "time": "11:28",
+        "title": "【買収中止勧告】技術流出に危機感 判断分ける中国の影？",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIay1SUzg2V0JNNnFIY3Bla0ZibEQ3S1dvWnZKbGFZZmpJZTBhRHp2eGFrRzNNMkNkdHR0dkJCUk1qczFsMHJlamQwaTRTM0ljV2tvOTRYbkJydkM1RUNQNnhhVWR3SGRVMGc?oc=5",
+        "publishedAt": "2026-06-06T02:28:02.000Z"
+      },
+      {
+        "time": "15:49",
+        "title": "外国人の起業 法改正後に4割減か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583177?source=rss",
+        "publishedAt": "2026-06-06T06:49:22.000Z"
+      },
+      {
+        "time": "18:25",
+        "title": "レアメタルが調達難 中国輸出規制",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583201?source=rss",
+        "publishedAt": "2026-06-06T09:25:23.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,6 +112,13 @@
         "publishedAt": "2026-06-06T06:49:22.000Z"
       },
       {
+        "time": "18:25",
+        "title": "レアメタルが調達難 中国輸出規制",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583201?source=rss",
+        "publishedAt": "2026-06-06T09:25:23.000Z"
+      },
+      {
         "time": "12:23",
         "title": "高齢ドライバー雇う怖さ 社長吐露",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583160?source=rss",
         "publishedAt": "2026-06-06T04:16:36.000Z"
-      },
-      {
-        "time": "21:20",
-        "title": "燃油サーチャージ 過去最高更新へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583098?source=rss",
-        "publishedAt": "2026-06-05T12:20:16.000Z"
       },
       {
         "time": "16:17",
@@ -163,11 +163,11 @@
         "publishedAt": "2026-06-06T04:09:19.000Z"
       },
       {
-        "time": "09:26",
-        "title": "タクシーにはねられ 原付17歳死亡",
+        "time": "18:13",
+        "title": "タンクローリー海に突っ込む 救助",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583137?source=rss",
-        "publishedAt": "2026-06-06T00:26:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583198?source=rss",
+        "publishedAt": "2026-06-06T09:13:55.000Z"
       },
       {
         "time": "18:00",
