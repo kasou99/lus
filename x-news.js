@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T13:37:59.746Z",
+  "updatedAt": "2026-06-06T14:38:46.775Z",
   "items": [
     {
       "time": "21:48",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "「飛鳥・藤原」地元たゆまぬ努力"
     },
     {
-      "time": "21:29",
-      "title": "習氏が訪朝へ 露への接近けん制か",
+      "time": "21:53",
+      "title": "国旗寄せ書きは? 損壊罪対象外例",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583225?source=rss",
-      "publishedAt": "2026-06-06T12:29:38.000Z",
-      "xQuery": "習氏が訪朝へ 露への接近けん制か"
+      "url": "https://news.yahoo.co.jp/pickup/6583230?source=rss",
+      "publishedAt": "2026-06-06T12:53:18.000Z",
+      "xQuery": "国旗寄せ書きは? 損壊罪対象外例"
     },
     {
-      "time": "21:29",
-      "title": "障害福祉の不正受給80億円 5年間",
+      "time": "22:46",
+      "title": "京都で米20歳不明 両親に支援の輪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583226?source=rss",
-      "publishedAt": "2026-06-06T12:29:47.000Z",
-      "xQuery": "障害福祉の不正受給80億円 5年間"
+      "url": "https://news.yahoo.co.jp/pickup/6583235?source=rss",
+      "publishedAt": "2026-06-06T13:46:15.000Z",
+      "xQuery": "京都で米20歳不明 両親に支援の輪"
     },
     {
-      "time": "21:12",
-      "title": "海水浴で溺れる 男子中学生が死亡",
+      "time": "22:40",
+      "title": "詐欺G幹部の日本人か タイで拘束",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583224?source=rss",
-      "publishedAt": "2026-06-06T12:12:22.000Z",
-      "xQuery": "海水浴で溺れる 男子中学生が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6583233?source=rss",
+      "publishedAt": "2026-06-06T13:40:41.000Z",
+      "xQuery": "詐欺G幹部の日本人か タイで拘束"
     },
     {
-      "time": "19:24",
-      "title": "いとこと結婚強要され 絶縁を決断",
+      "time": "23:04",
+      "title": "豪産小麦が収穫減へ うどん影響か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583203?source=rss",
-      "publishedAt": "2026-06-06T10:24:32.000Z",
-      "xQuery": "いとこと結婚強要され 絶縁を決断"
+      "url": "https://news.yahoo.co.jp/pickup/6583237?source=rss",
+      "publishedAt": "2026-06-06T14:04:33.000Z",
+      "xQuery": "豪産小麦が収穫減へ うどん影響か"
     }
   ]
 };
