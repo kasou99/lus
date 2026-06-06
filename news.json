@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-06T17:32:00.285Z",
+  "updatedAt": "2026-06-06T18:36:44.120Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "00:28",
+        "title": "日立、品質保証をAIで効率化 製造業向け支援",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJaGNoMTJJaU5kUERqWEpONUtuZzZNa2RlQTF0TERjd0xMaTkyZFJWenJjRnFjZWk4NkxyU2doa05MalVZZUlzU3AtRmh1NVNNTHRycURXQzZGYjg?oc=5",
+        "publishedAt": "2026-06-06T15:28:39.000Z"
+      },
       {
         "time": "19:40",
         "title": "次世代設備保全クラウド「M2X」が、現場のタスクを\"見える化\"する「カンバン」ビューを新たに搭載",
@@ -24,11 +31,11 @@
         "publishedAt": "2026-06-06T06:08:53.000Z"
       },
       {
-        "time": "00:28",
-        "title": "日立、品質保証をAIで効率化 製造業向け支援",
+        "time": "21:59",
+        "title": "ニデックドライブテクノロジー、社長に二井谷春彦氏",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJaGNoMTJJaU5kUERqWEpONUtuZzZNa2RlQTF0TERjd0xMaTkyZFJWenJjRnFjZWk4NkxyU2doa05MalVZZUlzU3AtRmh1NVNNTHRycURXQzZGYjg?oc=5",
-        "publishedAt": "2026-06-06T15:28:39.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KUnpQbE0td0ZVNnhWN3p1c1BoYkY1bEdyQzU4OEt5RmVscW1GVUh2MUl6RkFIOGRUcGs3Y29xWGxzWWlkRE0wMDFKbTVZVjM4NG5BX3RHNFJrUnpSU1Z3YTlIdVlZcXhSdTlBV2ZXWUhhMjRt?oc=5",
+        "publishedAt": "2026-06-06T12:59:09.000Z"
       },
       {
         "time": "07:21",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-06-05T22:21:00.000Z"
       },
       {
-        "time": "11:28",
-        "title": "【買収中止勧告】技術流出に危機感 判断分ける中国の影？",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIay1SUzg2V0JNNnFIY3Bla0ZibEQ3S1dvWnZKbGFZZmpJZTBhRHp2eGFrRzNNMkNkdHR0dkJCUk1qczFsMHJlamQwaTRTM0ljV2tvOTRYbkJydkM1RUNQNnhhVWR3SGRVMGc?oc=5",
-        "publishedAt": "2026-06-06T02:28:02.000Z"
-      },
-      {
-        "time": "21:01",
-        "title": "世界の原油在庫が急減 相場急騰も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583222?source=rss",
-        "publishedAt": "2026-06-06T12:01:38.000Z"
+        "time": "15:56",
+        "title": "上海で介護・福祉の見本市 世界から約680社出展",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03NGVrWXJLdHg3Y3FwczZabEFkd2FZc2FHeVFETTd1Mk1FQkZyVUF0UXUzelNtWTBpZG5DMHNKbHZFWFpVYzE5dUFLdjB3YjBiNk84VllHUEJhODZTM2ZndzVXTnNLa0Q1NWdQd1JXMVpkYWI3RnRaa3ROQQ?oc=5",
+        "publishedAt": "2026-06-06T06:56:00.000Z"
       }
     ],
     "worldHeadlines": [
