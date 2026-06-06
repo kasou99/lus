@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T22:30:26.333Z",
+  "updatedAt": "2026-06-06T23:28:53.167Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,25 +112,11 @@
         "publishedAt": "2026-06-06T12:01:38.000Z"
       },
       {
-        "time": "15:49",
-        "title": "外国人の起業 法改正後に4割減か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583177?source=rss",
-        "publishedAt": "2026-06-06T06:49:22.000Z"
-      },
-      {
         "time": "18:25",
         "title": "レアメタルが調達難 中国輸出規制",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583201?source=rss",
         "publishedAt": "2026-06-06T09:25:23.000Z"
-      },
-      {
-        "time": "13:05",
-        "title": "データセンター建設 都市部で摩擦",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583157?source=rss",
-        "publishedAt": "2026-06-06T04:05:53.000Z"
       },
       {
         "time": "23:04",
@@ -140,11 +126,25 @@
         "publishedAt": "2026-06-06T14:04:33.000Z"
       },
       {
+        "time": "07:45",
+        "title": "葬儀社との料金トラブル 多発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583249?source=rss",
+        "publishedAt": "2026-06-06T22:45:33.000Z"
+      },
+      {
         "time": "20:44",
         "title": "スバル 米国製3列SUVの輸入検討",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583220?source=rss",
         "publishedAt": "2026-06-06T11:44:18.000Z"
+      },
+      {
+        "time": "07:55",
+        "title": "ファミマの1998円腕時計 なぜ完売",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583250?source=rss",
+        "publishedAt": "2026-06-06T22:55:05.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583186?source=rss",
         "publishedAt": "2026-06-06T07:42:32.000Z"
+      },
+      {
+        "time": "07:55",
+        "title": "死亡ひき逃げ 女性引きずられたか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583251?source=rss",
+        "publishedAt": "2026-06-06T22:55:50.000Z"
       },
       {
         "time": "21:12",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583198?source=rss",
         "publishedAt": "2026-06-06T09:13:55.000Z"
-      },
-      {
-        "time": "22:32",
-        "title": "事故に心痛め 遺言で1.8億円寄付",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583234?source=rss",
-        "publishedAt": "2026-06-06T13:32:17.000Z"
       }
     ],
     "subsidyHeadlines": [

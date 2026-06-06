@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T22:30:27.164Z",
+  "updatedAt": "2026-06-06T23:28:53.823Z",
   "items": [
     {
       "time": "07:16",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "「飛鳥・藤原」地元たゆまぬ努力"
     },
     {
-      "time": "22:46",
-      "title": "京都で米20歳不明 両親に支援の輪",
+      "time": "07:55",
+      "title": "死亡ひき逃げ 女性引きずられたか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583235?source=rss",
-      "publishedAt": "2026-06-06T13:46:15.000Z",
-      "xQuery": "京都で米20歳不明 両親に支援の輪"
+      "url": "https://news.yahoo.co.jp/pickup/6583251?source=rss",
+      "publishedAt": "2026-06-06T22:55:50.000Z",
+      "xQuery": "死亡ひき逃げ 女性引きずられたか"
     },
     {
-      "time": "22:40",
-      "title": "詐欺G幹部の日本人か タイで拘束",
+      "time": "07:45",
+      "title": "葬儀社との料金トラブル 多発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583233?source=rss",
-      "publishedAt": "2026-06-06T13:40:41.000Z",
-      "xQuery": "詐欺G幹部の日本人か タイで拘束"
+      "url": "https://news.yahoo.co.jp/pickup/6583249?source=rss",
+      "publishedAt": "2026-06-06T22:45:33.000Z",
+      "xQuery": "葬儀社との料金トラブル 多発"
     },
     {
-      "time": "22:32",
-      "title": "事故に心痛め 遺言で1.8億円寄付",
+      "time": "07:55",
+      "title": "ファミマの1998円腕時計 なぜ完売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583234?source=rss",
-      "publishedAt": "2026-06-06T13:32:17.000Z",
-      "xQuery": "事故に心痛め 遺言で1.8億円寄付"
+      "url": "https://news.yahoo.co.jp/pickup/6583250?source=rss",
+      "publishedAt": "2026-06-06T22:55:05.000Z",
+      "xQuery": "ファミマの1998円腕時計 なぜ完売"
     }
   ]
 };
