@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T06:40:49.547Z",
+  "updatedAt": "2026-06-06T08:00:07.056Z",
   "items": [
+    {
+      "time": "16:42",
+      "title": "栃木 強殺未遂疑い少年3人再逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583186?source=rss",
+      "publishedAt": "2026-06-06T07:42:32.000Z",
+      "xQuery": "栃木 強殺未遂疑い少年3人再逮捕"
+    },
     {
       "time": "14:36",
       "title": "米軍 イランのレーダー施設を攻撃",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米軍 イランのレーダー施設を攻撃"
     },
     {
-      "time": "10:57",
-      "title": "米‌政府がAI企業株取得を検討",
+      "time": "14:44",
+      "title": "石破氏 中傷動画巡る真実究明大事",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583146?source=rss",
-      "publishedAt": "2026-06-06T01:57:35.000Z",
-      "xQuery": "米‌政府がAI企業株取得を検討"
+      "url": "https://news.yahoo.co.jp/pickup/6583167?source=rss",
+      "publishedAt": "2026-06-06T05:44:04.000Z",
+      "xQuery": "石破氏 中傷動画巡る真実究明大事"
     },
     {
       "time": "15:25",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "週明けにかけて警報級大雨の恐れ"
     },
     {
-      "time": "13:05",
-      "title": "データセンター建設 都市部で摩擦",
+      "time": "16:17",
+      "title": "草津温泉湯もみ スキマバイト出演",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583157?source=rss",
-      "publishedAt": "2026-06-06T04:05:53.000Z",
-      "xQuery": "データセンター建設 都市部で摩擦"
-    },
-    {
-      "time": "13:16",
-      "title": "90回近くチケ転売 待っていた制裁",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583160?source=rss",
-      "publishedAt": "2026-06-06T04:16:36.000Z",
-      "xQuery": "90回近くチケ転売 待っていた制裁"
+      "url": "https://news.yahoo.co.jp/pickup/6583181?source=rss",
+      "publishedAt": "2026-06-06T07:17:48.000Z",
+      "xQuery": "草津温泉湯もみ スキマバイト出演"
     }
   ]
 };
