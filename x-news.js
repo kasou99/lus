@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-05T23:33:33.941Z",
+  "updatedAt": "2026-06-06T01:09:13.961Z",
   "items": [
     {
-      "time": "07:10",
-      "title": "飛鳥・藤原の宮都 世界遺産登録へ",
+      "time": "09:02",
+      "title": "国民投票法改正案 4党が提出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583118?source=rss",
-      "publishedAt": "2026-06-05T22:10:05.000Z",
-      "xQuery": "飛鳥・藤原の宮都 世界遺産登録へ"
-    },
-    {
-      "time": "07:43",
-      "title": "プーチン氏 ウ大統領との会談拒否",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583123?source=rss",
-      "publishedAt": "2026-06-05T22:43:20.000Z",
-      "xQuery": "プーチン氏 ウ大統領との会談拒否"
+      "url": "https://news.yahoo.co.jp/pickup/6583135?source=rss",
+      "publishedAt": "2026-06-06T00:02:31.000Z",
+      "xQuery": "国民投票法改正案 4党が提出"
     },
     {
       "time": "08:05",
@@ -26,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "中傷動画の報道 苦しい首相答弁"
     },
     {
+      "time": "09:43",
+      "title": "ISS飛行士が一時退避 空気漏れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583139?source=rss",
+      "publishedAt": "2026-06-06T00:43:06.000Z",
+      "xQuery": "ISS飛行士が一時退避 空気漏れ"
+    },
+    {
       "time": "08:19",
       "title": "介護疲れた 逮捕された64歳のSOS",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "介護疲れた 逮捕された64歳のSOS"
     },
     {
-      "time": "23:46",
-      "title": "解体中の鉄塔が倒れ直撃 30代死亡",
+      "time": "08:53",
+      "title": "母の元交際相手から性被害 断れず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583113?source=rss",
-      "publishedAt": "2026-06-05T14:46:39.000Z",
-      "xQuery": "解体中の鉄塔が倒れ直撃 30代死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6583132?source=rss",
+      "publishedAt": "2026-06-05T23:53:46.000Z",
+      "xQuery": "母の元交際相手から性被害 断れず"
     }
   ]
 };

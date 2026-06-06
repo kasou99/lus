@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T23:33:33.269Z",
+  "updatedAt": "2026-06-06T01:09:12.833Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-06-05T03:36:00.000Z"
       },
       {
-        "time": "09:00",
-        "title": "株式会社M2X、テイケイ気化器株式会社の導入事例を公開",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kM25CVEo0ZzNRVVJfd2luRVpSQjk5b0pPZFdTU3Frck5KTHhrTldkZl9qVW8yLUdKYjlfZnR2RDZ5VUMzZTNueXBSczhrM3lzV2FlRkJwUDZaSmpvZWtORkhTZ1NkemZmaVE?oc=5",
-        "publishedAt": "2026-06-05T00:00:01.000Z"
+        "time": "15:30",
+        "title": "スピンドルユニットの世界市場（2026年～2032年）、市場規模（ギア式、ベルト式、ダイレクトドライブ式、電動スピンドルユニット、その他）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40MHplbkhTMndnNlRtR25wVWNCVUdwQm1vU3Y5WXl3Tm9LRjljc0FTLWswYW5POUpVbG5WRWp5NEhLRFAxU3hVRGM5NDVCelU?oc=5",
+        "publishedAt": "2026-06-05T06:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583123?source=rss",
         "publishedAt": "2026-06-05T22:43:20.000Z"
+      },
+      {
+        "time": "09:35",
+        "title": "フロリダで死刑執行急増 知事推進",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583140?source=rss",
+        "publishedAt": "2026-06-06T00:35:39.000Z"
       },
       {
         "time": "11:38",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583036?source=rss",
         "publishedAt": "2026-06-05T04:53:57.000Z"
-      },
-      {
-        "time": "08:57",
-        "title": "A・リュウさんに中国圧力 父訴え",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583000?source=rss",
-        "publishedAt": "2026-06-04T23:57:31.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:19",
+        "title": "介護疲れた 逮捕された64歳のSOS",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583130?source=rss",
+        "publishedAt": "2026-06-05T23:19:41.000Z"
+      },
+      {
+        "time": "08:36",
+        "title": "学校法人 科研費5千万円一時流用",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583129?source=rss",
+        "publishedAt": "2026-06-05T23:36:52.000Z"
+      },
+      {
         "time": "21:09",
         "title": "無期懲役求刑 被告の女表情変えず",
         "source": "Yahoo!ニュース",
@@ -163,11 +177,11 @@
         "publishedAt": "2026-06-05T13:32:39.000Z"
       },
       {
-        "time": "08:19",
-        "title": "介護疲れた 逮捕された64歳のSOS",
+        "time": "09:26",
+        "title": "タクシーにはねられ 原付17歳死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583130?source=rss",
-        "publishedAt": "2026-06-05T23:19:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583137?source=rss",
+        "publishedAt": "2026-06-06T00:26:16.000Z"
       },
       {
         "time": "23:27",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583111?source=rss",
         "publishedAt": "2026-06-05T14:27:01.000Z"
-      },
-      {
-        "time": "21:19",
-        "title": "路上で作業中の男性に車衝突 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583097?source=rss",
-        "publishedAt": "2026-06-05T12:19:05.000Z"
-      },
-      {
-        "time": "20:14",
-        "title": "警備員ひかれ死亡 女性ら書類送検",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583088?source=rss",
-        "publishedAt": "2026-06-05T11:14:24.000Z"
       }
     ],
     "subsidyHeadlines": [
