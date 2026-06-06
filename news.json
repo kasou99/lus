@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T11:59:57.006Z",
+  "updatedAt": "2026-06-06T12:42:29.622Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,14 +52,21 @@
         "publishedAt": "2026-06-06T02:28:02.000Z"
       },
       {
-        "time": "15:49",
-        "title": "外国人の起業 法改正後に4割減か",
+        "time": "21:01",
+        "title": "世界の原油在庫が急減 相場急騰も",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583177?source=rss",
-        "publishedAt": "2026-06-06T06:49:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583222?source=rss",
+        "publishedAt": "2026-06-06T12:01:38.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "21:29",
+        "title": "習氏が訪朝へ 露への接近けん制か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583225?source=rss",
+        "publishedAt": "2026-06-06T12:29:38.000Z"
+      },
       {
         "time": "17:30",
         "title": "イランが湾岸地域へ攻撃 米が迎撃",
@@ -94,16 +101,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583072?source=rss",
         "publishedAt": "2026-06-05T10:06:16.000Z"
-      },
-      {
-        "time": "13:53",
-        "title": "非常任理事国 浮かぶ中露の影響",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583036?source=rss",
-        "publishedAt": "2026-06-05T04:53:57.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "21:01",
+        "title": "世界の原油在庫が急減 相場急騰も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583222?source=rss",
+        "publishedAt": "2026-06-06T12:01:38.000Z"
+      },
       {
         "time": "15:49",
         "title": "外国人の起業 法改正後に4割減か",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583201?source=rss",
         "publishedAt": "2026-06-06T09:25:23.000Z"
-      },
-      {
-        "time": "12:23",
-        "title": "高齢ドライバー雇う怖さ 社長吐露",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583152?source=rss",
-        "publishedAt": "2026-06-06T03:23:13.000Z"
       },
       {
         "time": "13:05",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-06-06T07:42:32.000Z"
       },
       {
+        "time": "21:12",
+        "title": "海水浴で溺れる 男子中学生が死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583224?source=rss",
+        "publishedAt": "2026-06-06T12:12:22.000Z"
+      },
+      {
         "time": "19:57",
         "title": "不同意性交疑い 岡山県警の男逮捕",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583205?source=rss",
         "publishedAt": "2026-06-06T10:21:37.000Z"
-      },
-      {
-        "time": "17:08",
-        "title": "亡き彼の服でテディベア 反響驚き",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583190?source=rss",
-        "publishedAt": "2026-06-06T08:08:49.000Z"
       }
     ],
     "subsidyHeadlines": [

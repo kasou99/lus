@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T11:59:57.748Z",
+  "updatedAt": "2026-06-06T12:42:30.364Z",
   "items": [
     {
-      "time": "19:06",
-      "title": "7日西日本で滝のような雨も 警戒",
+      "time": "18:26",
+      "title": "訪日客誘致巡り批判 廃止の動きも",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583204?source=rss",
-      "publishedAt": "2026-06-06T10:06:42.000Z",
-      "xQuery": "7日西日本で滝のような雨も 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6583200?source=rss",
+      "publishedAt": "2026-06-06T09:26:16.000Z",
+      "xQuery": "訪日客誘致巡り批判 廃止の動きも"
     },
     {
-      "time": "20:05",
-      "title": "平岡秀夫元法相 中道離党を表明",
+      "time": "21:01",
+      "title": "世界の原油在庫が急減 相場急騰も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583212?source=rss",
-      "publishedAt": "2026-06-06T11:05:49.000Z",
-      "xQuery": "平岡秀夫元法相 中道離党を表明"
+      "url": "https://news.yahoo.co.jp/pickup/6583222?source=rss",
+      "publishedAt": "2026-06-06T12:01:38.000Z",
+      "xQuery": "世界の原油在庫が急減 相場急騰も"
     },
     {
-      "time": "19:57",
-      "title": "不同意性交疑い 岡山県警の男逮捕",
+      "time": "21:12",
+      "title": "海水浴で溺れる 男子中学生が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583209?source=rss",
-      "publishedAt": "2026-06-06T10:57:11.000Z",
-      "xQuery": "不同意性交疑い 岡山県警の男逮捕"
-    },
-    {
-      "time": "20:44",
-      "title": "スバル 米国製3列SUVの輸入検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583220?source=rss",
-      "publishedAt": "2026-06-06T11:44:18.000Z",
-      "xQuery": "スバル 米国製3列SUVの輸入検討"
+      "url": "https://news.yahoo.co.jp/pickup/6583224?source=rss",
+      "publishedAt": "2026-06-06T12:12:22.000Z",
+      "xQuery": "海水浴で溺れる 男子中学生が死亡"
     },
     {
       "time": "19:24",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583203?source=rss",
       "publishedAt": "2026-06-06T10:24:32.000Z",
       "xQuery": "いとこと結婚強要され 絶縁を決断"
+    },
+    {
+      "time": "20:22",
+      "title": "Switch2「転売屋」利する格好に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583214?source=rss",
+      "publishedAt": "2026-06-06T11:22:50.000Z",
+      "xQuery": "Switch2「転売屋」利する格好に"
     }
   ]
 };
