@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T11:04:29.309Z",
+  "updatedAt": "2026-06-06T11:59:57.748Z",
   "items": [
     {
       "time": "19:06",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "7日西日本で滝のような雨も 警戒"
     },
     {
-      "time": "18:25",
-      "title": "レアメタルが調達難 中国輸出規制",
+      "time": "20:05",
+      "title": "平岡秀夫元法相 中道離党を表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583201?source=rss",
-      "publishedAt": "2026-06-06T09:25:23.000Z",
-      "xQuery": "レアメタルが調達難 中国輸出規制"
+      "url": "https://news.yahoo.co.jp/pickup/6583212?source=rss",
+      "publishedAt": "2026-06-06T11:05:49.000Z",
+      "xQuery": "平岡秀夫元法相 中道離党を表明"
     },
     {
       "time": "19:57",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "不同意性交疑い 岡山県警の男逮捕"
     },
     {
-      "time": "18:13",
-      "title": "タンクローリー海に突っ込む 救助",
+      "time": "20:44",
+      "title": "スバル 米国製3列SUVの輸入検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583198?source=rss",
-      "publishedAt": "2026-06-06T09:13:55.000Z",
-      "xQuery": "タンクローリー海に突っ込む 救助"
+      "url": "https://news.yahoo.co.jp/pickup/6583220?source=rss",
+      "publishedAt": "2026-06-06T11:44:18.000Z",
+      "xQuery": "スバル 米国製3列SUVの輸入検討"
     },
     {
       "time": "19:24",
