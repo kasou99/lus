@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-06T16:32:32.970Z",
+  "updatedAt": "2026-06-06T17:32:00.285Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "00:28",
-        "title": "深層断面／不確実な環境も“商社力”で成長",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16aTlnZDhNd0RvOFV6Mks4QzhqM2ptQmt5eUM3VVBLOFh6NFJXd2xEWVh5MFU4dnNKY1FZNHZ0YUZwMkctRHdCWWRIZE5nWXZCVlQtZEhfZjhhWXM?oc=5",
-        "publishedAt": "2026-06-06T15:28:46.000Z"
-      },
       {
         "time": "19:40",
         "title": "次世代設備保全クラウド「M2X」が、現場のタスクを\"見える化\"する「カンバン」ビューを新たに搭載",
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjaThfeDNGUU43M2k4eS05MFhuc1lvYUk1UmNyVDRsSGRGUHE3OWhHTS1zOGMyQzJaU0xjSUJCTnhHSHB2RzdDRUZFVHFlYWpZblV4WFYxWktCZkpuU1dZZ0hYeWtuRnZJNDJV?oc=5",
         "publishedAt": "2026-06-06T10:40:00.000Z"
+      },
+      {
+        "time": "16:42",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMRkNWbGluVmk4c2JfblNVclBMVHpvMXNBY1lkRFlyU2hhOVRzVDZ1NnNtVjBPcnpLZGRsMlJ1a0tlWXh2UFoxcm1oU0RQWmpaemR2WEplOFRwcENTT2N6YVlLdw?oc=5",
+        "publishedAt": "2026-06-06T07:42:03.000Z"
       },
       {
         "time": "15:08",
@@ -24,11 +24,11 @@
         "publishedAt": "2026-06-06T06:08:53.000Z"
       },
       {
-        "time": "16:42",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMRkNWbGluVmk4c2JfblNVclBMVHpvMXNBY1lkRFlyU2hhOVRzVDZ1NnNtVjBPcnpLZGRsMlJ1a0tlWXh2UFoxcm1oU0RQWmpaemR2WEplOFRwcENTT2N6YVlLdw?oc=5",
-        "publishedAt": "2026-06-06T07:42:03.000Z"
+        "time": "00:28",
+        "title": "日立、品質保証をAIで効率化 製造業向け支援",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJaGNoMTJJaU5kUERqWEpONUtuZzZNa2RlQTF0TERjd0xMaTkyZFJWenJjRnFjZWk4NkxyU2doa05MalVZZUlzU3AtRmh1NVNNTHRycURXQzZGYjg?oc=5",
+        "publishedAt": "2026-06-06T15:28:39.000Z"
       },
       {
         "time": "07:21",
@@ -45,11 +45,11 @@
         "publishedAt": "2026-06-05T22:21:00.000Z"
       },
       {
-        "time": "15:56",
-        "title": "上海で介護・福祉の見本市 世界から約680社出展",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03NGVrWXJLdHg3Y3FwczZabEFkd2FZc2FHeVFETTd1Mk1FQkZyVUF0UXUzelNtWTBpZG5DMHNKbHZFWFpVYzE5dUFLdjB3YjBiNk84VllHUEJhODZTM2ZndzVXTnNLa0Q1NWdQd1JXMVpkYWI3RnRaa3ROQQ?oc=5",
-        "publishedAt": "2026-06-06T06:56:00.000Z"
+        "time": "11:28",
+        "title": "【買収中止勧告】技術流出に危機感 判断分ける中国の影？",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIay1SUzg2V0JNNnFIY3Bla0ZibEQ3S1dvWnZKbGFZZmpJZTBhRHp2eGFrRzNNMkNkdHR0dkJCUk1qczFsMHJlamQwaTRTM0ljV2tvOTRYbkJydkM1RUNQNnhhVWR3SGRVMGc?oc=5",
+        "publishedAt": "2026-06-06T02:28:02.000Z"
       },
       {
         "time": "21:01",
