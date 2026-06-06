@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T03:48:36.198Z",
+  "updatedAt": "2026-06-06T05:26:22.026Z",
   "items": [
     {
-      "time": "11:20",
-      "title": "世界遺産登録へ 奈良県の地元喜び",
+      "time": "13:34",
+      "title": "九州南部・奄美 土砂災害に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583149?source=rss",
-      "publishedAt": "2026-06-06T02:20:56.000Z",
-      "xQuery": "世界遺産登録へ 奈良県の地元喜び"
+      "url": "https://news.yahoo.co.jp/pickup/6583163?source=rss",
+      "publishedAt": "2026-06-06T04:34:36.000Z",
+      "xQuery": "九州南部・奄美 土砂災害に警戒"
     },
     {
-      "time": "09:59",
-      "title": "部活車移動 34都道府県「見直す」",
+      "time": "10:57",
+      "title": "米‌政府がAI企業株取得を検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583141?source=rss",
-      "publishedAt": "2026-06-06T00:59:43.000Z",
-      "xQuery": "部活車移動 34都道府県「見直す」"
+      "url": "https://news.yahoo.co.jp/pickup/6583146?source=rss",
+      "publishedAt": "2026-06-06T01:57:35.000Z",
+      "xQuery": "米‌政府がAI企業株取得を検討"
     },
     {
       "time": "12:23",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マンジャロで痩せる 依存に警鐘"
     },
     {
-      "time": "11:14",
-      "title": "なぜ定番化「タコライス」人気",
+      "time": "13:09",
+      "title": "子が暴行受ける動画 投稿の母葛藤",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583148?source=rss",
-      "publishedAt": "2026-06-06T02:14:45.000Z",
-      "xQuery": "なぜ定番化「タコライス」人気"
+      "url": "https://news.yahoo.co.jp/pickup/6583158?source=rss",
+      "publishedAt": "2026-06-06T04:09:19.000Z",
+      "xQuery": "子が暴行受ける動画 投稿の母葛藤"
     }
   ]
 };

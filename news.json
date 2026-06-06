@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T03:48:35.431Z",
+  "updatedAt": "2026-06-06T05:26:21.582Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-06-05T10:13:09.000Z"
       },
       {
-        "time": "18:00",
-        "title": "高速フィンプレスの世界市場（2026年～2032年）、市場規模（開放型高速フィンプレス、密閉型高速フィンプレス）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qUUtEcU9Odm16UVpGbFo5aEVsU3JxNXdKVHc0dVlfQU56dVh0NlBNandYdjVTeHAxMUI4TTNvR0NSS1hlY2hfWXR2dlpaYlU?oc=5",
-        "publishedAt": "2026-06-05T09:00:00.000Z"
-      },
-      {
         "time": "15:30",
         "title": "スピンドルユニットの世界市場（2026年～2032年）、市場規模（ギア式、ベルト式、ダイレクトドライブ式、電動スピンドルユニット、その他）・分析レポートを発表",
         "source": "newscast.jp",
@@ -57,6 +50,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYko4aUt3ZlM3N0xCQ3BBeHU4eXl0cXZDdTNKOTl6UU1mbmhSYTNkR1dPcFBCbXZiWVJYMjRnU0VEY01COGpfeldZNXBpb1dsM1dnOTZTOG9hbkYyUi1vTXdYZl9TT1RjTllJMi1jdjJEeW1PQTVaSXJZQ1Z0aHlpSWFQRnlwa3YzSWlpSElaSWs?oc=5",
         "publishedAt": "2026-06-05T10:11:00.000Z"
+      },
+      {
+        "time": "18:00",
+        "title": "高速フィンプレスの世界市場（2026年～2032年）、市場規模（開放型高速フィンプレス、密閉型高速フィンプレス）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qUUtEcU9Odm16UVpGbFo5aEVsU3JxNXdKVHc0dVlfQU56dVh0NlBNandYdjVTeHAxMUI4TTNvR0NSS1hlY2hfWXR2dlpaYlU?oc=5",
+        "publishedAt": "2026-06-05T09:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,11 +112,18 @@
         "publishedAt": "2026-06-06T03:23:13.000Z"
       },
       {
-        "time": "18:56",
-        "title": "政府 ラピダスに1500億円追加出資",
+        "time": "13:05",
+        "title": "データセンター建設 都市部で摩擦",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583070?source=rss",
-        "publishedAt": "2026-06-05T09:56:15.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583157?source=rss",
+        "publishedAt": "2026-06-06T04:05:53.000Z"
+      },
+      {
+        "time": "13:16",
+        "title": "90回近くチケ転売 待っていた制裁",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583160?source=rss",
+        "publishedAt": "2026-06-06T04:16:36.000Z"
       },
       {
         "time": "21:20",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583148?source=rss",
         "publishedAt": "2026-06-06T02:14:45.000Z"
-      },
-      {
-        "time": "20:43",
-        "title": "あずきバー新工場 生産能力1.3倍",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583092?source=rss",
-        "publishedAt": "2026-06-05T11:43:59.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-06-05T23:19:41.000Z"
       },
       {
+        "time": "13:09",
+        "title": "子が暴行受ける動画 投稿の母葛藤",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583158?source=rss",
+        "publishedAt": "2026-06-06T04:09:19.000Z"
+      },
+      {
         "time": "08:36",
         "title": "学校法人 科研費5千万円一時流用",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583129?source=rss",
         "publishedAt": "2026-06-05T23:36:52.000Z"
-      },
-      {
-        "time": "21:09",
-        "title": "無期懲役求刑 被告の女表情変えず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583096?source=rss",
-        "publishedAt": "2026-06-05T12:09:48.000Z"
       },
       {
         "time": "22:32",
