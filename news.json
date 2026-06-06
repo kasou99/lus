@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-06-06T01:09:12.833Z",
+  "updatedAt": "2026-06-06T02:24:29.058Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "06:13",
-        "title": "片山さつき大臣が\"買収中止\"に動くわけだ…中国企業にはマネできない「日本の工作機械」の知られざる価値",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGdTczR6a0dST0ZDNEhfWjJBTkM3bjdnUTd2YlVmS3FPYk8wTkVIaDJkMGFzNnJoTzBXOUotckd1b2NyNWlWd0F5RVVsaERhMnlqbkcxa3k0aUx4b1duSG5WaTFuanozRGt4Nmpxa1dBQkl1MkJoRUJwVEltbkpBNDFfVVNmVnc?oc=5",
-        "publishedAt": "2026-06-05T21:13:03.000Z"
-      },
       {
         "time": "19:11",
         "title": "日工会、26年の工作機械受注2兆円に AI関連好調で3000億円上方修正",
@@ -27,7 +20,7 @@
         "time": "07:21",
         "title": "横須賀の原発燃料工場、また火災 1年間で4度目 市長「看過できない」",
         "source": "東京新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGdS10MzBRczZQa0xQSVNCSzJYUkNpRGp1NzNUUDF2RHdCM2pzdG9oMU9NVnRzRzJzWmkwM29Id2hoS1pkTDdSYWxLVjBkUU0xOHZURHhrN25fbUJpbGtFUkNEZTE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSnM0RWNwYWNVZjRISlpOZGFPVXBMbG5GbENnNFFkS3lFcXZ5bHJyR01wNTB4a2diTzBFaVE4OWRpdElyQUM1dVdHRGQ5YU9aVVZr?oc=5",
         "publishedAt": "2026-06-05T22:21:38.000Z"
       },
       {
@@ -57,9 +50,23 @@
         "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40MHplbkhTMndnNlRtR25wVWNCVUdwQm1vU3Y5WXl3Tm9LRjljc0FTLWswYW5POUpVbG5WRWp5NEhLRFAxU3hVRGM5NDVCelU?oc=5",
         "publishedAt": "2026-06-05T06:30:00.000Z"
+      },
+      {
+        "time": "12:07",
+        "title": "株式会社M2X、テイケイ気化器株式会社の導入事例を公開",
+        "source": "MOTA",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yQm9fcnVLR09LNWN6S3BlT2Z5eEMtY2lIc0l4UFpOaHBYVk8tR2RlV2FzdXpscHY0UHhVa2k3VXRHdkJRQjd1VTlR?oc=5",
+        "publishedAt": "2026-06-05T03:07:15.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "10:57",
+        "title": "米‌政府がAI企業株取得を検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583146?source=rss",
+        "publishedAt": "2026-06-06T01:57:35.000Z"
+      },
       {
         "time": "07:43",
         "title": "プーチン氏 ウ大統領との会談拒否",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583018?source=rss",
         "publishedAt": "2026-06-05T02:38:17.000Z"
-      },
-      {
-        "time": "09:26",
-        "title": "米政府 キューバ大統領らに制裁",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583004?source=rss",
-        "publishedAt": "2026-06-05T00:26:02.000Z"
       },
       {
         "time": "19:06",
@@ -126,18 +126,18 @@
         "publishedAt": "2026-06-05T10:40:43.000Z"
       },
       {
-        "time": "15:51",
-        "title": "中野サンプラザ解体 専門家が異議",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583047?source=rss",
-        "publishedAt": "2026-06-05T06:51:37.000Z"
-      },
-      {
         "time": "15:16",
         "title": "衣類激安 オフプライスストアとは",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583043?source=rss",
         "publishedAt": "2026-06-05T06:16:23.000Z"
+      },
+      {
+        "time": "11:14",
+        "title": "なぜ定番化「タコライス」人気",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583148?source=rss",
+        "publishedAt": "2026-06-06T02:14:45.000Z"
       },
       {
         "time": "20:43",

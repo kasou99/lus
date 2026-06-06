@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T01:09:13.961Z",
+  "updatedAt": "2026-06-06T02:24:30.130Z",
   "items": [
     {
-      "time": "09:02",
-      "title": "国民投票法改正案 4党が提出",
+      "time": "09:59",
+      "title": "部活車移動 34都道府県「見直す」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583135?source=rss",
-      "publishedAt": "2026-06-06T00:02:31.000Z",
-      "xQuery": "国民投票法改正案 4党が提出"
+      "url": "https://news.yahoo.co.jp/pickup/6583141?source=rss",
+      "publishedAt": "2026-06-06T00:59:43.000Z",
+      "xQuery": "部活車移動 34都道府県「見直す」"
     },
     {
-      "time": "08:05",
-      "title": "中傷動画の報道 苦しい首相答弁",
+      "time": "09:35",
+      "title": "フロリダで死刑執行急増 知事推進",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583128?source=rss",
-      "publishedAt": "2026-06-05T23:05:22.000Z",
-      "xQuery": "中傷動画の報道 苦しい首相答弁"
+      "url": "https://news.yahoo.co.jp/pickup/6583140?source=rss",
+      "publishedAt": "2026-06-06T00:35:39.000Z",
+      "xQuery": "フロリダで死刑執行急増 知事推進"
     },
     {
       "time": "09:43",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ISS飛行士が一時退避 空気漏れ"
     },
     {
-      "time": "08:19",
-      "title": "介護疲れた 逮捕された64歳のSOS",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583130?source=rss",
-      "publishedAt": "2026-06-05T23:19:41.000Z",
-      "xQuery": "介護疲れた 逮捕された64歳のSOS"
-    },
-    {
       "time": "08:53",
       "title": "母の元交際相手から性被害 断れず",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6583132?source=rss",
       "publishedAt": "2026-06-05T23:53:46.000Z",
       "xQuery": "母の元交際相手から性被害 断れず"
+    },
+    {
+      "time": "11:14",
+      "title": "なぜ定番化「タコライス」人気",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583148?source=rss",
+      "publishedAt": "2026-06-06T02:14:45.000Z",
+      "xQuery": "なぜ定番化「タコライス」人気"
     }
   ]
 };
