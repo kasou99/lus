@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T05:26:22.026Z",
+  "updatedAt": "2026-06-06T06:40:49.547Z",
   "items": [
     {
-      "time": "13:34",
-      "title": "九州南部・奄美 土砂災害に警戒",
+      "time": "14:36",
+      "title": "米軍 イランのレーダー施設を攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583163?source=rss",
-      "publishedAt": "2026-06-06T04:34:36.000Z",
-      "xQuery": "九州南部・奄美 土砂災害に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6583166?source=rss",
+      "publishedAt": "2026-06-06T05:36:45.000Z",
+      "xQuery": "米軍 イランのレーダー施設を攻撃"
     },
     {
       "time": "10:57",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米‌政府がAI企業株取得を検討"
     },
     {
-      "time": "12:23",
-      "title": "高齢ドライバー雇う怖さ 社長吐露",
+      "time": "15:25",
+      "title": "週明けにかけて警報級大雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583152?source=rss",
-      "publishedAt": "2026-06-06T03:23:13.000Z",
-      "xQuery": "高齢ドライバー雇う怖さ 社長吐露"
+      "url": "https://news.yahoo.co.jp/pickup/6583172?source=rss",
+      "publishedAt": "2026-06-06T06:25:24.000Z",
+      "xQuery": "週明けにかけて警報級大雨の恐れ"
     },
     {
-      "time": "11:53",
-      "title": "マンジャロで痩せる 依存に警鐘",
+      "time": "13:05",
+      "title": "データセンター建設 都市部で摩擦",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583151?source=rss",
-      "publishedAt": "2026-06-06T02:53:56.000Z",
-      "xQuery": "マンジャロで痩せる 依存に警鐘"
+      "url": "https://news.yahoo.co.jp/pickup/6583157?source=rss",
+      "publishedAt": "2026-06-06T04:05:53.000Z",
+      "xQuery": "データセンター建設 都市部で摩擦"
     },
     {
-      "time": "13:09",
-      "title": "子が暴行受ける動画 投稿の母葛藤",
+      "time": "13:16",
+      "title": "90回近くチケ転売 待っていた制裁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583158?source=rss",
-      "publishedAt": "2026-06-06T04:09:19.000Z",
-      "xQuery": "子が暴行受ける動画 投稿の母葛藤"
+      "url": "https://news.yahoo.co.jp/pickup/6583160?source=rss",
+      "publishedAt": "2026-06-06T04:16:36.000Z",
+      "xQuery": "90回近くチケ転売 待っていた制裁"
     }
   ]
 };
