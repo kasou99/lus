@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T10:16:09.426Z",
+  "updatedAt": "2026-06-06T11:04:29.309Z",
   "items": [
-    {
-      "time": "17:30",
-      "title": "イランが湾岸地域へ攻撃 米が迎撃",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583191?source=rss",
-      "publishedAt": "2026-06-06T08:30:56.000Z",
-      "xQuery": "イランが湾岸地域へ攻撃 米が迎撃"
-    },
     {
       "time": "19:06",
       "title": "7日西日本で滝のような雨も 警戒",
@@ -26,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "レアメタルが調達難 中国輸出規制"
     },
     {
+      "time": "19:57",
+      "title": "不同意性交疑い 岡山県警の男逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583209?source=rss",
+      "publishedAt": "2026-06-06T10:57:11.000Z",
+      "xQuery": "不同意性交疑い 岡山県警の男逮捕"
+    },
+    {
       "time": "18:13",
       "title": "タンクローリー海に突っ込む 救助",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "タンクローリー海に突っ込む 救助"
     },
     {
-      "time": "18:05",
-      "title": "アクエリ 青い液色はZ世代支持",
+      "time": "19:24",
+      "title": "いとこと結婚強要され 絶縁を決断",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583199?source=rss",
-      "publishedAt": "2026-06-06T09:05:34.000Z",
-      "xQuery": "アクエリ 青い液色はZ世代支持"
+      "url": "https://news.yahoo.co.jp/pickup/6583203?source=rss",
+      "publishedAt": "2026-06-06T10:24:32.000Z",
+      "xQuery": "いとこと結婚強要され 絶縁を決断"
     }
   ]
 };
