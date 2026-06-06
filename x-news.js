@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T02:24:30.130Z",
+  "updatedAt": "2026-06-06T03:48:36.198Z",
   "items": [
+    {
+      "time": "11:20",
+      "title": "世界遺産登録へ 奈良県の地元喜び",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583149?source=rss",
+      "publishedAt": "2026-06-06T02:20:56.000Z",
+      "xQuery": "世界遺産登録へ 奈良県の地元喜び"
+    },
     {
       "time": "09:59",
       "title": "部活車移動 34都道府県「見直す」",
@@ -10,28 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "部活車移動 34都道府県「見直す」"
     },
     {
-      "time": "09:35",
-      "title": "フロリダで死刑執行急増 知事推進",
+      "time": "12:23",
+      "title": "高齢ドライバー雇う怖さ 社長吐露",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583140?source=rss",
-      "publishedAt": "2026-06-06T00:35:39.000Z",
-      "xQuery": "フロリダで死刑執行急増 知事推進"
+      "url": "https://news.yahoo.co.jp/pickup/6583152?source=rss",
+      "publishedAt": "2026-06-06T03:23:13.000Z",
+      "xQuery": "高齢ドライバー雇う怖さ 社長吐露"
     },
     {
-      "time": "09:43",
-      "title": "ISS飛行士が一時退避 空気漏れ",
+      "time": "11:53",
+      "title": "マンジャロで痩せる 依存に警鐘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583139?source=rss",
-      "publishedAt": "2026-06-06T00:43:06.000Z",
-      "xQuery": "ISS飛行士が一時退避 空気漏れ"
-    },
-    {
-      "time": "08:53",
-      "title": "母の元交際相手から性被害 断れず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583132?source=rss",
-      "publishedAt": "2026-06-05T23:53:46.000Z",
-      "xQuery": "母の元交際相手から性被害 断れず"
+      "url": "https://news.yahoo.co.jp/pickup/6583151?source=rss",
+      "publishedAt": "2026-06-06T02:53:56.000Z",
+      "xQuery": "マンジャロで痩せる 依存に警鐘"
     },
     {
       "time": "11:14",
