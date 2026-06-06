@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-06T08:00:05.972Z",
+  "updatedAt": "2026-06-06T09:04:29.919Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:08",
+        "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xcWxpSS15RjRPNy1EQ254WmdkS3kwb0E0NkNtV283dEw5LWxQNkIwamlJa1NGVkFhM0RsaUZyQk9ndTR1cEw2SkdWWWNSeEpSVHpTTlpfazdSanBtRHJB?oc=5",
+        "publishedAt": "2026-06-06T06:08:53.000Z"
+      },
       {
         "time": "11:05",
         "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
@@ -17,13 +24,6 @@
         "publishedAt": "2026-06-05T10:11:14.000Z"
       },
       {
-        "time": "19:13",
-        "title": "プライムライフテクノ、30年度売上高1.5兆円 賃貸・ストック拡大",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96eXhKSVBjaTBEVTlINnRseUJYWk85bWNJcFpZa2RoRjN0MnJwcmp1TlNTdm4wbEJIb25kYk1sb3NoWWtNeUVIWkxvRk9SQkQ0RFNDX09nNzh2N0R4b3VERzd1Y29qR1RXVnZzcnRpTzNZckt2?oc=5",
-        "publishedAt": "2026-06-05T10:13:09.000Z"
-      },
-      {
         "time": "19:11",
         "title": "日本経済新聞 印刷画面",
         "source": "日本経済新聞",
@@ -31,18 +31,25 @@
         "publishedAt": "2026-06-05T10:11:00.000Z"
       },
       {
-        "time": "07:21",
-        "title": "横須賀の原発燃料工場、また火災 1年間で4度目 市長「看過できない」",
+        "time": "17:45",
+        "title": "横須賀の原発燃料工場でまた火災 昨年7月以降で4回目 上地克明市長「看過できない」 会社側の釈明は",
         "source": "東京新聞デジタル",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSnM0RWNwYWNVZjRISlpOZGFPVXBMbG5GbENnNFFkS3lFcXZ5bHJyR01wNTB4a2diTzBFaVE4OWRpdElyQUM1dVdHRGQ5YU9aVVZr?oc=5",
-        "publishedAt": "2026-06-05T22:21:38.000Z"
+        "publishedAt": "2026-06-06T08:45:57.000Z"
       },
       {
-        "time": "18:00",
-        "title": "高速フィンプレスの世界市場（2026年～2032年）、市場規模（開放型高速フィンプレス、密閉型高速フィンプレス）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qUUtEcU9Odm16UVpGbFo5aEVsU3JxNXdKVHc0dVlfQU56dVh0NlBNandYdjVTeHAxMUI4TTNvR0NSS1hlY2hfWXR2dlpaYlU?oc=5",
-        "publishedAt": "2026-06-05T09:00:00.000Z"
+        "time": "19:13",
+        "title": "プライムライフテクノ、30年度売上高1.5兆円 賃貸・ストック拡大",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96eXhKSVBjaTBEVTlINnRseUJYWk85bWNJcFpZa2RoRjN0MnJwcmp1TlNTdm4wbEJIb25kYk1sb3NoWWtNeUVIWkxvRk9SQkQ0RFNDX09nNzh2N0R4b3VERzd1Y29qR1RXVnZzcnRpTzNZckt2?oc=5",
+        "publishedAt": "2026-06-05T10:13:09.000Z"
+      },
+      {
+        "time": "07:21",
+        "title": "横須賀の原発燃料工場、また火災 1年間で4度目 市長「看過できない」",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhb0E1Ny1wYVE1dm1zRGp1YlRucDRmUkFZSkxxVE1yU3Q0RTlZclpGUmd1c25RN29SUkU2R01OMEtWaHdPR2xFWmtlbnB6WU5lT3hQSWxQaFhwbENpbnppazIyN3JHbU9FRXBTSHVreWNBb3JoOFRfb9IBeEFVX3lxTFBhb0E1Ny1wYVE1dm1zRGp1YlRucDRmUkFZSkxxVE1yU3Q0RTlZclpGUmd1c25RN29SUkU2R01OMEtWaHdPR2xFWmtlbnB6WU5lT3hQSWxQaFhwbENpbnppazIyN3JHbU9FRXBTSHVreWNBb3JoOFRfbw?oc=5",
+        "publishedAt": "2026-06-05T22:21:00.000Z"
       },
       {
         "time": "15:56",
@@ -50,22 +57,15 @@
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03NGVrWXJLdHg3Y3FwczZabEFkd2FZc2FHeVFETTd1Mk1FQkZyVUF0UXUzelNtWTBpZG5DMHNKbHZFWFpVYzE5dUFLdjB3YjBiNk84VllHUEJhODZTM2ZndzVXTnNLa0Q1NWdQd1JXMVpkYWI3RnRaa3ROQQ?oc=5",
         "publishedAt": "2026-06-06T06:56:00.000Z"
-      },
-      {
-        "time": "15:49",
-        "title": "外国人の起業 法改正後に4割減か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583177?source=rss",
-        "publishedAt": "2026-06-06T06:49:22.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "14:36",
-        "title": "米軍 イランのレーダー施設を攻撃",
+        "time": "17:30",
+        "title": "イランが湾岸地域へ攻撃 米が迎撃",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583166?source=rss",
-        "publishedAt": "2026-06-06T05:36:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583191?source=rss",
+        "publishedAt": "2026-06-06T08:30:56.000Z"
       },
       {
         "time": "10:57",
@@ -156,13 +156,6 @@
         "publishedAt": "2026-06-06T07:42:32.000Z"
       },
       {
-        "time": "08:19",
-        "title": "介護疲れた 逮捕された64歳のSOS",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583130?source=rss",
-        "publishedAt": "2026-06-05T23:19:41.000Z"
-      },
-      {
         "time": "13:09",
         "title": "子が暴行受ける動画 投稿の母葛藤",
         "source": "Yahoo!ニュース",
@@ -177,6 +170,13 @@
         "publishedAt": "2026-06-06T00:26:16.000Z"
       },
       {
+        "time": "18:00",
+        "title": "ふるさと納税の船「放置」解消へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583196?source=rss",
+        "publishedAt": "2026-06-06T09:00:35.000Z"
+      },
+      {
         "time": "16:53",
         "title": "消滅寸前集落 住民74歳の1人だけ",
         "source": "Yahoo!ニュース",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-06T07:53:24.000Z"
       },
       {
-        "time": "08:53",
-        "title": "母の元交際相手から性被害 断れず",
+        "time": "15:22",
+        "title": "自宅前にサル10匹 女性追いかける",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583132?source=rss",
-        "publishedAt": "2026-06-05T23:53:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583171?source=rss",
+        "publishedAt": "2026-06-06T06:22:48.000Z"
       }
     ],
     "subsidyHeadlines": [

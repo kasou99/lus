@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T08:00:07.056Z",
+  "updatedAt": "2026-06-06T09:04:30.677Z",
   "items": [
+    {
+      "time": "17:30",
+      "title": "都構想挑戦 吉村氏連立入りで決断",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583193?source=rss",
+      "publishedAt": "2026-06-06T08:30:13.000Z",
+      "xQuery": "都構想挑戦 吉村氏連立入りで決断"
+    },
     {
       "time": "16:42",
       "title": "栃木 強殺未遂疑い少年3人再逮捕",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "栃木 強殺未遂疑い少年3人再逮捕"
     },
     {
-      "time": "14:36",
-      "title": "米軍 イランのレーダー施設を攻撃",
+      "time": "17:30",
+      "title": "イランが湾岸地域へ攻撃 米が迎撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583166?source=rss",
-      "publishedAt": "2026-06-06T05:36:45.000Z",
-      "xQuery": "米軍 イランのレーダー施設を攻撃"
-    },
-    {
-      "time": "14:44",
-      "title": "石破氏 中傷動画巡る真実究明大事",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583167?source=rss",
-      "publishedAt": "2026-06-06T05:44:04.000Z",
-      "xQuery": "石破氏 中傷動画巡る真実究明大事"
+      "url": "https://news.yahoo.co.jp/pickup/6583191?source=rss",
+      "publishedAt": "2026-06-06T08:30:56.000Z",
+      "xQuery": "イランが湾岸地域へ攻撃 米が迎撃"
     },
     {
       "time": "15:25",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "週明けにかけて警報級大雨の恐れ"
     },
     {
-      "time": "16:17",
-      "title": "草津温泉湯もみ スキマバイト出演",
+      "time": "17:51",
+      "title": "アクエリ新商品 青い色は「王道」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583181?source=rss",
-      "publishedAt": "2026-06-06T07:17:48.000Z",
-      "xQuery": "草津温泉湯もみ スキマバイト出演"
+      "url": "https://news.yahoo.co.jp/pickup/6583195?source=rss",
+      "publishedAt": "2026-06-06T08:51:48.000Z",
+      "xQuery": "アクエリ新商品 青い色は「王道」"
     }
   ]
 };
