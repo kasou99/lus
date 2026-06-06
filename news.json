@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T23:28:53.167Z",
+  "updatedAt": "2026-06-06T23:56:40.230Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "16:42",
-        "title": "栃木 強殺未遂疑い少年3人再逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583186?source=rss",
-        "publishedAt": "2026-06-06T07:42:32.000Z"
-      },
-      {
         "time": "07:55",
         "title": "死亡ひき逃げ 女性引きずられたか",
         "source": "Yahoo!ニュース",
@@ -168,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583224?source=rss",
         "publishedAt": "2026-06-06T12:12:22.000Z"
+      },
+      {
+        "time": "08:38",
+        "title": "パトカー追跡の2人乗り自転車事故",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583258?source=rss",
+        "publishedAt": "2026-06-06T23:38:14.000Z"
       },
       {
         "time": "22:46",

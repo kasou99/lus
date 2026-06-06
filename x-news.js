@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T23:28:53.823Z",
+  "updatedAt": "2026-06-06T23:56:41.748Z",
   "items": [
+    {
+      "time": "08:28",
+      "title": "高専卒業に学位授与 文科省検討へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583255?source=rss",
+      "publishedAt": "2026-06-06T23:28:06.000Z",
+      "xQuery": "高専卒業に学位授与 文科省検討へ"
+    },
     {
       "time": "07:16",
       "title": "鹿児島と宮崎 線状降水帯発生恐れ",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "鹿児島と宮崎 線状降水帯発生恐れ"
     },
     {
-      "time": "21:48",
-      "title": "「飛鳥・藤原」地元たゆまぬ努力",
+      "time": "08:19",
+      "title": "米俳優組合 AIから俳優守る新契約",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583227?source=rss",
-      "publishedAt": "2026-06-06T12:48:37.000Z",
-      "xQuery": "「飛鳥・藤原」地元たゆまぬ努力"
+      "url": "https://news.yahoo.co.jp/pickup/6583253?source=rss",
+      "publishedAt": "2026-06-06T23:19:48.000Z",
+      "xQuery": "米俳優組合 AIから俳優守る新契約"
     },
     {
       "time": "07:55",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "死亡ひき逃げ 女性引きずられたか"
     },
     {
-      "time": "07:45",
-      "title": "葬儀社との料金トラブル 多発",
+      "time": "08:38",
+      "title": "パトカー追跡の2人乗り自転車事故",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583249?source=rss",
-      "publishedAt": "2026-06-06T22:45:33.000Z",
-      "xQuery": "葬儀社との料金トラブル 多発"
-    },
-    {
-      "time": "07:55",
-      "title": "ファミマの1998円腕時計 なぜ完売",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583250?source=rss",
-      "publishedAt": "2026-06-06T22:55:05.000Z",
-      "xQuery": "ファミマの1998円腕時計 なぜ完売"
+      "url": "https://news.yahoo.co.jp/pickup/6583258?source=rss",
+      "publishedAt": "2026-06-06T23:38:14.000Z",
+      "xQuery": "パトカー追跡の2人乗り自転車事故"
     }
   ]
 };
