@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T14:38:46.775Z",
+  "updatedAt": "2026-06-06T15:34:13.389Z",
   "items": [
+    {
+      "time": "00:06",
+      "title": "宮崎 線状降水帯発生の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583240?source=rss",
+      "publishedAt": "2026-06-06T15:06:43.000Z",
+      "xQuery": "宮崎 線状降水帯発生の恐れ"
+    },
     {
       "time": "21:48",
       "title": "「飛鳥・藤原」地元たゆまぬ努力",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583227?source=rss",
       "publishedAt": "2026-06-06T12:48:37.000Z",
       "xQuery": "「飛鳥・藤原」地元たゆまぬ努力"
-    },
-    {
-      "time": "21:53",
-      "title": "国旗寄せ書きは? 損壊罪対象外例",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583230?source=rss",
-      "publishedAt": "2026-06-06T12:53:18.000Z",
-      "xQuery": "国旗寄せ書きは? 損壊罪対象外例"
     },
     {
       "time": "22:46",
