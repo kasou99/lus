@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-06-07T19:36:18.037Z",
+  "updatedAt": "2026-06-07T20:34:16.719Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "02:12",
-        "title": "株式会社M2X、テイケイ気化器株式会社の導入事例を公開 企業リリース",
+        "time": "05:00",
+        "title": "工作機械好調、半導体・DC向け商機 米中がけん引",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WYWp1THdqN1FJZjJ5V1BGM01TUGkyYkVLTUl2RkJhcEY5R3c4R25OR2p0aDhVbUducU1fMGZlWlAzVDhQdU81c2FrcVM2NkhwN3NCMmNGZzM?oc=5",
-        "publishedAt": "2026-06-07T17:12:15.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByTDlJbGdrUzNmVFB4MUgxVEJCcDhFd2FQbjN4STkySGJSOHNmOWRQZ28zbUFESjFpN2I1TmdwdzlLV0VHUXE5ekxNLWd1TlRfd1pXbjV5TUZ3WVE?oc=5",
+        "publishedAt": "2026-06-07T20:00:58.000Z"
+      },
+      {
+        "time": "05:02",
+        "title": "中部経済連合会、仏グランテスト地域圏と覚書 脱炭素・モビリティー進化",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zUDdhdFdOU1lhdXZLMEhZMHhJczJNcnJJd2ZXVlMyMXgwVGpBUXhaVGJYVkRYQlR5cklxelZJQzZ3eU9Hc0hjMWN1UzdBamxvbW9Xa1JTZ0k3ekE?oc=5",
+        "publishedAt": "2026-06-07T20:02:11.000Z"
+      },
+      {
+        "time": "05:01",
+        "title": "個性発信・話題の商品／ソニー Xperia1Ⅷ",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEZ1R3b3Vpd01vRS1ad1g2bkk0ZVMweGsyWHFXY0laSkwwM1pOa3lSVzZMOE5vZ3BySGhZOW9IbWR5RVp1Q3hncGhOWG1RWmlzSVVoY0tLcEpJN1E?oc=5",
+        "publishedAt": "2026-06-07T20:01:35.000Z"
       },
       {
         "time": "07:02",
@@ -31,32 +45,18 @@
         "publishedAt": "2026-06-07T09:43:07.000Z"
       },
       {
+        "time": "02:12",
+        "title": "株式会社M2X、テイケイ気化器株式会社の導入事例を公開 企業リリース",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WYWp1THdqN1FJZjJ5V1BGM01TUGkyYkVLTUl2RkJhcEY5R3c4R25OR2p0aDhVbUducU1fMGZlWlAzVDhQdU81c2FrcVM2NkhwN3NCMmNGZzM?oc=5",
+        "publishedAt": "2026-06-07T17:12:15.000Z"
+      },
+      {
         "time": "19:58",
         "title": "週明け日本株 米株安で売り先行か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583333?source=rss",
         "publishedAt": "2026-06-07T10:58:56.000Z"
-      },
-      {
-        "time": "21:34",
-        "title": "消費減税で収益悪化か 農家の不安",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583342?source=rss",
-        "publishedAt": "2026-06-07T12:34:24.000Z"
-      },
-      {
-        "time": "19:12",
-        "title": "トヨタ超えたい 中国勢がHV注力",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583330?source=rss",
-        "publishedAt": "2026-06-07T10:12:06.000Z"
-      },
-      {
-        "time": "10:30",
-        "title": "書店1万店割れ ピーク時の4割余り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583271?source=rss",
-        "publishedAt": "2026-06-07T01:30:42.000Z"
       }
     ],
     "worldHeadlines": [
