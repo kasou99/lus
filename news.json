@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T11:15:29.885Z",
+  "updatedAt": "2026-06-07T12:06:02.806Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-06-06T20:42:51.000Z"
       },
       {
-        "time": "18:43",
-        "title": "当局は大規模な軍事兵器製造組織を摘発した。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3RkeThWUTg3X2IwSkVXS19PZTZ1dENQaXFiUURtQ0RIMkNZMzZZTmpwWXNRVGFaZXVyRkZJSGE2bk93OFdFb2dpc3h2a0x1X2c4SFFPT1EwaGh0TzVfbnVtLXVmb0xEaTV5N3VQR2tRcy04bFd5akFqQ0tONWoyYmlGZ0M?oc=5",
-        "publishedAt": "2026-06-07T09:43:07.000Z"
-      },
-      {
         "time": "22:52",
         "title": "【ゼンゼロ】シーズン2第6章の攻略チャート｜この身に「希望」を灯すとき【ゼンレスゾーンゼロ】",
         "source": "GameWith",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiQUVYNGJSM3NnM1FtSWtHOW5RaTJRS2l2Z0U0M2lVM3ZfMnpoT0M1N1h0VUFRV2hma2tyTlJyVzd6YjBleVhNU0dB?oc=5",
         "publishedAt": "2026-06-06T13:52:07.000Z"
+      },
+      {
+        "time": "18:43",
+        "title": "当局は大規模な軍事兵器製造組織を摘発した。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3RkeThWUTg3X2IwSkVXS19PZTZ1dENQaXFiUURtQ0RIMkNZMzZZTmpwWXNRVGFaZXVyRkZJSGE2bk93OFdFb2dpc3h2a0x1X2c4SFFPT1EwaGh0TzVfbnVtLXVmb0xEaTV5N3VQR2tRcy04bFd5akFqQ0tONWoyYmlGZ0M?oc=5",
+        "publishedAt": "2026-06-07T09:43:07.000Z"
       },
       {
         "time": "19:58",
@@ -61,18 +61,18 @@
     ],
     "worldHeadlines": [
       {
+        "time": "21:04",
+        "title": "湾岸諸国復興にイラン資産 米検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583340?source=rss",
+        "publishedAt": "2026-06-07T12:04:34.000Z"
+      },
+      {
         "time": "21:29",
         "title": "習氏が訪朝へ 露への接近けん制か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583225?source=rss",
         "publishedAt": "2026-06-06T12:29:38.000Z"
-      },
-      {
-        "time": "17:30",
-        "title": "イランが湾岸地域へ攻撃 米が迎撃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583191?source=rss",
-        "publishedAt": "2026-06-06T08:30:56.000Z"
       },
       {
         "time": "15:23",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "20:50",
+        "title": "少年が川で溺れて死亡 福岡・八女",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583338?source=rss",
+        "publishedAt": "2026-06-07T11:50:02.000Z"
+      },
+      {
         "time": "15:05",
         "title": "栃木 強殺未遂疑いで夫婦を再逮捕",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583326?source=rss",
         "publishedAt": "2026-06-07T09:39:44.000Z"
-      },
-      {
-        "time": "18:45",
-        "title": "少年1人が川で溺れる事故 重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583327?source=rss",
-        "publishedAt": "2026-06-07T09:45:55.000Z"
       },
       {
         "time": "13:09",

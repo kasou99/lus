@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-07T11:15:30.821Z",
+  "updatedAt": "2026-06-07T12:06:04.167Z",
   "items": [
     {
       "time": "19:58",
@@ -10,6 +10,22 @@ window.LUS_X_NEWS = {
       "xQuery": "週明け日本株 米株安で売り先行か"
     },
     {
+      "time": "18:31",
+      "title": "OpenAIがChatGPTを刷新へ 報道",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583325?source=rss",
+      "publishedAt": "2026-06-07T09:31:14.000Z",
+      "xQuery": "OpenAIがChatGPTを刷新へ 報道"
+    },
+    {
+      "time": "20:50",
+      "title": "少年が川で溺れて死亡 福岡・八女",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583338?source=rss",
+      "publishedAt": "2026-06-07T11:50:02.000Z",
+      "xQuery": "少年が川で溺れて死亡 福岡・八女"
+    },
+    {
       "time": "17:06",
       "title": "夏風邪と似た症状 過敏性肺炎注意",
       "source": "Yahoo!ニュース",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "夏風邪と似た症状 過敏性肺炎注意"
     },
     {
-      "time": "17:54",
-      "title": "アーケード街にクマ出没 宇都宮",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583319?source=rss",
-      "publishedAt": "2026-06-07T08:54:21.000Z",
-      "xQuery": "アーケード街にクマ出没 宇都宮"
-    },
-    {
       "time": "18:39",
       "title": "京都で米20歳遺体発見 事件性なし",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6583326?source=rss",
       "publishedAt": "2026-06-07T09:39:44.000Z",
       "xQuery": "京都で米20歳遺体発見 事件性なし"
-    },
-    {
-      "time": "19:12",
-      "title": "トヨタ超えたい 中国勢がHV注力",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583330?source=rss",
-      "publishedAt": "2026-06-07T10:12:06.000Z",
-      "xQuery": "トヨタ超えたい 中国勢がHV注力"
     }
   ]
 };
