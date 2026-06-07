@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-07T07:36:17.544Z",
+  "updatedAt": "2026-06-07T09:12:29.557Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:02",
+        "title": "【横須賀市】GNF-Jで4度目の火災発生、市長が企業体制に疑問呈す",
+        "source": "湘南人",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIUHRzbDIzV1hENndUdG1NTHNWNFRuWngzcVpZSXZsNHFfVjVMNWdWaEF4N3hJaG1INUxZNloxLWdwbE9SQy1VdzFKejRzVFF2MzlpZnJJeDdfTV8wZFpRR1FKMV8xWk0?oc=5",
+        "publishedAt": "2026-06-06T22:02:02.000Z"
+      },
       {
         "time": "01:52",
         "title": "NTT、宇宙向け光通信機器開発で欧社と協業 IOWN展開",
@@ -15,20 +22,6 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjaThfeDNGUU43M2k4eS05MFhuc1lvYUk1UmNyVDRsSGRGUHE3OWhHTS1zOGMyQzJaU0xjSUJCTnhHSHB2RzdDRUZFVHFlYWpZblV4WFYxWktCZkpuU1dZZ0hYeWtuRnZJNDJV?oc=5",
         "publishedAt": "2026-06-06T10:40:00.000Z"
-      },
-      {
-        "time": "16:42",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMRkNWbGluVmk4c2JfblNVclBMVHpvMXNBY1lkRFlyU2hhOVRzVDZ1NnNtVjBPcnpLZGRsMlJ1a0tlWXh2UFoxcm1oU0RQWmpaemR2WEplOFRwcENTT2N6YVlLdw?oc=5",
-        "publishedAt": "2026-06-06T07:42:03.000Z"
-      },
-      {
-        "time": "07:02",
-        "title": "【横須賀市】GNF-Jで4度目の火災発生、市長が企業体制に疑問呈す",
-        "source": "湘南人",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIUHRzbDIzV1hENndUdG1NTHNWNFRuWngzcVpZSXZsNHFfVjVMNWdWaEF4N3hJaG1INUxZNloxLWdwbE9SQy1VdzFKejRzVFF2MzlpZnJJeDdfTV8wZFpRR1FKMV8xWk0?oc=5",
-        "publishedAt": "2026-06-06T22:02:02.000Z"
       },
       {
         "time": "05:42",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583222?source=rss",
         "publishedAt": "2026-06-06T12:01:38.000Z"
+      },
+      {
+        "time": "10:30",
+        "title": "書店1万店割れ ピーク時の4割余り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583271?source=rss",
+        "publishedAt": "2026-06-07T01:30:42.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-06-07T01:30:42.000Z"
       },
       {
-        "time": "23:04",
-        "title": "豪産小麦が収穫減へ うどん影響か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583237?source=rss",
-        "publishedAt": "2026-06-06T14:04:33.000Z"
-      },
-      {
         "time": "07:45",
         "title": "葬儀社との料金トラブル 多発",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583250?source=rss",
         "publishedAt": "2026-06-06T22:55:05.000Z"
+      },
+      {
+        "time": "16:51",
+        "title": "令和に人気「ネオスナック」とは",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583309?source=rss",
+        "publishedAt": "2026-06-07T07:51:37.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,11 +163,11 @@
         "publishedAt": "2026-06-07T06:05:58.000Z"
       },
       {
-        "time": "07:55",
-        "title": "死亡ひき逃げ 女性引きずられたか",
+        "time": "17:09",
+        "title": "女子中学生を強盗致傷容疑で逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583251?source=rss",
-        "publishedAt": "2026-06-06T22:55:50.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583313?source=rss",
+        "publishedAt": "2026-06-07T08:09:20.000Z"
       },
       {
         "time": "11:59",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-07T00:48:17.000Z"
       },
       {
-        "time": "10:14",
-        "title": "秋葉原殺傷でPTSD 男性の現在",
+        "time": "17:54",
+        "title": "アーケード街にクマ出没 宇都宮",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583269?source=rss",
-        "publishedAt": "2026-06-07T01:14:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583319?source=rss",
+        "publishedAt": "2026-06-07T08:54:21.000Z"
       }
     ],
     "subsidyHeadlines": [
