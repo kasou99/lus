@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-07T20:34:17.460Z",
+  "updatedAt": "2026-06-07T21:33:00.073Z",
   "items": [
     {
       "time": "22:58",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "京都男児殺害 報道過熱していたか"
     },
     {
-      "time": "21:57",
-      "title": "名古屋死亡ひき逃げ事件 男を逮捕",
+      "time": "06:21",
+      "title": "女児1人で来店と通報 母と男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583345?source=rss",
-      "publishedAt": "2026-06-07T12:57:49.000Z",
-      "xQuery": "名古屋死亡ひき逃げ事件 男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6583357?source=rss",
+      "publishedAt": "2026-06-07T21:21:55.000Z",
+      "xQuery": "女児1人で来店と通報 母と男逮捕"
     },
     {
       "time": "23:12",
