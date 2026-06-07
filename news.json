@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T21:32:59.081Z",
+  "updatedAt": "2026-06-07T22:30:09.496Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,32 @@
         "publishedAt": "2026-06-07T20:00:58.000Z"
       },
       {
+        "time": "05:10",
+        "title": "兵庫県、ソフトバンクと連携 AX推進・地域創生",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zLUJlb0R2OUZ1MnJncnRMRjdWSnJmaldlYUlqNlptTkVRRF91WlpOeXU3SzRGRmw2ZW1ENEkzRmpLV2YxWS1qUjkyS1pkTW1WZDhkdGNLeC1jXzFtLXBGbDd3b29MVmZWci1LWnZ4QkxHTngx?oc=5",
+        "publishedAt": "2026-06-07T20:10:38.000Z"
+      },
+      {
         "time": "05:02",
         "title": "中部経済連合会、仏グランテスト地域圏と覚書 脱炭素・モビリティー進化",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zUDdhdFdOU1lhdXZLMEhZMHhJczJNcnJJd2ZXVlMyMXgwVGpBUXhaVGJYVkRYQlR5cklxelZJQzZ3eU9Hc0hjMWN1UzdBamxvbW9Xa1JTZ0k3ekE?oc=5",
-        "publishedAt": "2026-06-07T20:02:11.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hZ2pHVU4wSTVnUzl0eThISHBiT3d5NllPNzFhMzh4Q0lqdHN5VWhXMnFhc2ZwNXBlRnZLek1Eal90YUhTb29NMWY5dFJIcHp5TGlMbnBOdWxuaVJaZzBZTnZuREFuVDBQOUxWbDAzQV8xNVp4a2RTUnRxcw?oc=5",
+        "publishedAt": "2026-06-07T20:02:52.000Z"
+      },
+      {
+        "time": "05:10",
+        "title": "関東精機、主力製品60周年協力企業に感謝",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zRzV5NzBpQVMzWnhIcVVCVFJBelRVbG1hd21RakRQR2N6cTVid1BYUlpwbjVOaTZVbG9CbmlwYk9KcHBkRWJ3OFY4RHpOck1PTjRhSERRQWtFMkw3SnhTV2RLak10NFp4NXI2T2x1dWZubmpm?oc=5",
+        "publishedAt": "2026-06-07T20:10:44.000Z"
+      },
+      {
+        "time": "05:10",
+        "title": "横顔／高知県商工労働部長に就任した大原英樹氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOWGR3dFlHZTY1MWJVNW1JMUx3QlViTGFBcGxxWGMydzk5dV9Fd0FCZzh2NVE5b2w5RENucmc5RGdWakJ3MW1WeGFuRDNxSEhwSVAzZTBUc2NRQVByeGRRVTNXM1ZPR1I5TFpJZTlxY1pXQm82?oc=5",
+        "publishedAt": "2026-06-07T20:10:49.000Z"
       },
       {
         "time": "05:02",
@@ -22,27 +43,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lRGMwRDdWMUw4NUtMR0Q2RlkyOWs2c0tlcmxrV3VNdmVmTW1ESDlianNzVFFBc3hSLTlBcmxVVFZFUEU4Y0cyWXRWbmFXcHlpd1UtMnZzbGZFZTRMdHVTZE5BS0RZcmVUdGtwUEU5WXdxaVN2ZF9Na1kxdw?oc=5",
         "publishedAt": "2026-06-07T20:02:52.000Z"
-      },
-      {
-        "time": "07:02",
-        "title": "【横須賀市】GNF-Jで4度目の火災発生、市長が企業体制に疑問呈す",
-        "source": "湘南人",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIUHRzbDIzV1hENndUdG1NTHNWNFRuWngzcVpZSXZsNHFfVjVMNWdWaEF4N3hJaG1INUxZNloxLWdwbE9SQy1VdzFKejRzVFF2MzlpZnJJeDdfTV8wZFpRR1FKMV8xWk0?oc=5",
-        "publishedAt": "2026-06-06T22:02:02.000Z"
-      },
-      {
-        "time": "18:43",
-        "title": "当局は大規模な軍事兵器製造組織を摘発した。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3RkeThWUTg3X2IwSkVXS19PZTZ1dENQaXFiUURtQ0RIMkNZMzZZTmpwWXNRVGFaZXVyRkZJSGE2bk93OFdFb2dpc3h2a0x1X2c4SFFPT1EwaGh0TzVfbnVtLXVmb0xEaTV5N3VQR2tRcy04bFd5akFqQ0tONWoyYmlGZ0M?oc=5",
-        "publishedAt": "2026-06-07T09:43:07.000Z"
-      },
-      {
-        "time": "02:12",
-        "title": "株式会社M2X、テイケイ気化器株式会社の導入事例を公開 企業リリース",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WYWp1THdqN1FJZjJ5V1BGM01TUGkyYkVLTUl2RkJhcEY5R3c4R25OR2p0aDhVbUducU1fMGZlWlAzVDhQdU81c2FrcVM2NkhwN3NCMmNGZzM?oc=5",
-        "publishedAt": "2026-06-07T17:12:15.000Z"
       },
       {
         "time": "19:58",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "06:47",
+        "title": "イラン イスラエルへミサイル発射",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583360?source=rss",
+        "publishedAt": "2026-06-07T21:47:18.000Z"
+      },
+      {
         "time": "21:04",
         "title": "湾岸諸国復興にイラン資産 米検討",
         "source": "Yahoo!ニュース",
@@ -75,11 +82,11 @@
         "publishedAt": "2026-06-07T13:19:53.000Z"
       },
       {
-        "time": "22:34",
-        "title": "8日訪朝の習主席 非核化言及焦点",
+        "time": "07:28",
+        "title": "習近平主席 きょう7年ぶり訪朝へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583349?source=rss",
-        "publishedAt": "2026-06-07T13:34:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583364?source=rss",
+        "publishedAt": "2026-06-07T22:28:16.000Z"
       },
       {
         "time": "15:23",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583262?source=rss",
         "publishedAt": "2026-06-07T00:16:24.000Z"
-      },
-      {
-        "time": "14:28",
-        "title": "米で2人が銃撃ち合いか 12人負傷",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583293?source=rss",
-        "publishedAt": "2026-06-07T05:28:34.000Z"
       }
     ],
     "economyHeadlines": [
@@ -170,18 +170,18 @@
         "publishedAt": "2026-06-07T21:21:55.000Z"
       },
       {
+        "time": "06:39",
+        "title": "ボンネットに店員乗せ走行 車逃走",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583359?source=rss",
+        "publishedAt": "2026-06-07T21:39:44.000Z"
+      },
+      {
         "time": "18:39",
         "title": "京都で米20歳遺体発見 事件性なし",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583326?source=rss",
         "publishedAt": "2026-06-07T09:39:44.000Z"
-      },
-      {
-        "time": "17:09",
-        "title": "女子中学生を強盗致傷容疑で逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583313?source=rss",
-        "publishedAt": "2026-06-07T08:09:20.000Z"
       },
       {
         "time": "22:12",

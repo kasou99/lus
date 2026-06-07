@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-07T21:33:00.073Z",
+  "updatedAt": "2026-06-07T22:30:10.218Z",
   "items": [
     {
-      "time": "22:58",
-      "title": "日本産水産物規制 韓国に協議打診",
+      "time": "06:47",
+      "title": "イラン イスラエルへミサイル発射",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583351?source=rss",
-      "publishedAt": "2026-06-07T13:58:48.000Z",
-      "xQuery": "日本産水産物規制 韓国に協議打診"
+      "url": "https://news.yahoo.co.jp/pickup/6583360?source=rss",
+      "publishedAt": "2026-06-07T21:47:18.000Z",
+      "xQuery": "イラン イスラエルへミサイル発射"
     },
     {
-      "time": "22:34",
-      "title": "8日訪朝の習主席 非核化言及焦点",
+      "time": "07:28",
+      "title": "習近平主席 きょう7年ぶり訪朝へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583349?source=rss",
-      "publishedAt": "2026-06-07T13:34:03.000Z",
-      "xQuery": "8日訪朝の習主席 非核化言及焦点"
-    },
-    {
-      "time": "21:37",
-      "title": "京都男児殺害 報道過熱していたか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583343?source=rss",
-      "publishedAt": "2026-06-07T12:37:09.000Z",
-      "xQuery": "京都男児殺害 報道過熱していたか"
+      "url": "https://news.yahoo.co.jp/pickup/6583364?source=rss",
+      "publishedAt": "2026-06-07T22:28:16.000Z",
+      "xQuery": "習近平主席 きょう7年ぶり訪朝へ"
     },
     {
       "time": "06:21",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "女児1人で来店と通報 母と男逮捕"
     },
     {
-      "time": "23:12",
-      "title": "登山男性「遭難」と気付かず 救助",
+      "time": "06:39",
+      "title": "ボンネットに店員乗せ走行 車逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583352?source=rss",
-      "publishedAt": "2026-06-07T14:12:41.000Z",
-      "xQuery": "登山男性「遭難」と気付かず 救助"
+      "url": "https://news.yahoo.co.jp/pickup/6583359?source=rss",
+      "publishedAt": "2026-06-07T21:39:44.000Z",
+      "xQuery": "ボンネットに店員乗せ走行 車逃走"
+    },
+    {
+      "time": "07:16",
+      "title": "クマ 宇都宮市立の全小中学休校",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583362?source=rss",
+      "publishedAt": "2026-06-07T22:16:56.000Z",
+      "xQuery": "クマ 宇都宮市立の全小中学休校"
     }
   ]
 };
