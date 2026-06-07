@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T02:25:16.133Z",
+  "updatedAt": "2026-06-07T03:49:40.106Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjaThfeDNGUU43M2k4eS05MFhuc1lvYUk1UmNyVDRsSGRGUHE3OWhHTS1zOGMyQzJaU0xjSUJCTnhHSHB2RzdDRUZFVHFlYWpZblV4WFYxWktCZkpuU1dZZ0hYeWtuRnZJNDJV?oc=5",
         "publishedAt": "2026-06-06T10:40:00.000Z"
+      },
+      {
+        "time": "05:42",
+        "title": "中国EV・スマホ需要をフル稼働で刈り取る｜ツガミ（6101）が最高益更新と自己株買いで株主に報いる",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xakxpTUFsTUtkYWpXX3hHYldRRFJNclBaNWxRMUtyOVFGQWYyMFhnd0x1dEgwZXlJX1p0bm5jcld6bm1McDRUTTZCRFhuZmRzb2pZMnFCeHRMRVE?oc=5",
+        "publishedAt": "2026-06-06T20:42:51.000Z"
       },
       {
         "time": "16:42",
@@ -36,13 +43,6 @@
         "source": "湘南人",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIUHRzbDIzV1hENndUdG1NTHNWNFRuWngzcVpZSXZsNHFfVjVMNWdWaEF4N3hJaG1INUxZNloxLWdwbE9SQy1VdzFKejRzVFF2MzlpZnJJeDdfTV8wZFpRR1FKMV8xWk0?oc=5",
         "publishedAt": "2026-06-06T22:02:02.000Z"
-      },
-      {
-        "time": "05:42",
-        "title": "中国EV・スマホ需要をフル稼働で刈り取る｜ツガミ（6101）が最高益更新と自己株買いで株主に報いる",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xakxpTUFsTUtkYWpXX3hHYldRRFJNclBaNWxRMUtyOVFGQWYyMFhnd0x1dEgwZXlJX1p0bm5jcld6bm1McDRUTTZCRFhuZmRzb2pZMnFCeHRMRVE?oc=5",
-        "publishedAt": "2026-06-06T20:42:51.000Z"
       },
       {
         "time": "15:56",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-06-06T22:55:50.000Z"
       },
       {
+        "time": "11:59",
+        "title": "京都で不明の米学生 遺体で発見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583281?source=rss",
+        "publishedAt": "2026-06-07T02:59:07.000Z"
+      },
+      {
         "time": "21:12",
         "title": "海水浴で溺れる 男子中学生が死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583258?source=rss",
         "publishedAt": "2026-06-06T23:38:14.000Z"
-      },
-      {
-        "time": "19:57",
-        "title": "不同意性交疑い 岡山県警の男逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583209?source=rss",
-        "publishedAt": "2026-06-06T10:57:11.000Z"
       }
     ],
     "subsidyHeadlines": [

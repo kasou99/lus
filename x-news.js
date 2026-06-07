@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-07T02:25:17.264Z",
+  "updatedAt": "2026-06-07T03:49:41.112Z",
   "items": [
     {
-      "time": "11:14",
-      "title": "関東甲信・東海地方が梅雨入り",
+      "time": "10:30",
+      "title": "書店1万店割れ ピーク時の4割余り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583275?source=rss",
-      "publishedAt": "2026-06-07T02:14:39.000Z",
-      "xQuery": "関東甲信・東海地方が梅雨入り"
+      "url": "https://news.yahoo.co.jp/pickup/6583271?source=rss",
+      "publishedAt": "2026-06-07T01:30:42.000Z",
+      "xQuery": "書店1万店割れ ピーク時の4割余り"
     },
     {
-      "time": "09:16",
-      "title": "独移民政策 1年で3.6万人入国拒否",
+      "time": "09:30",
+      "title": "ラオス洞窟2人不明 捜索打ち切り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583262?source=rss",
-      "publishedAt": "2026-06-07T00:16:24.000Z",
-      "xQuery": "独移民政策 1年で3.6万人入国拒否"
+      "url": "https://news.yahoo.co.jp/pickup/6583264?source=rss",
+      "publishedAt": "2026-06-07T00:30:02.000Z",
+      "xQuery": "ラオス洞窟2人不明 捜索打ち切り"
     },
     {
-      "time": "10:14",
-      "title": "秋葉原殺傷でPTSD 男性の現在",
+      "time": "12:03",
+      "title": "差別止めようとした弁護士 標的に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583269?source=rss",
-      "publishedAt": "2026-06-07T01:14:56.000Z",
-      "xQuery": "秋葉原殺傷でPTSD 男性の現在"
+      "url": "https://news.yahoo.co.jp/pickup/6583278?source=rss",
+      "publishedAt": "2026-06-07T03:03:33.000Z",
+      "xQuery": "差別止めようとした弁護士 標的に"
     },
     {
-      "time": "09:48",
-      "title": "工事中に死亡 高さ3mから落ちたか",
+      "time": "11:59",
+      "title": "京都で不明の米学生 遺体で発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583266?source=rss",
-      "publishedAt": "2026-06-07T00:48:17.000Z",
-      "xQuery": "工事中に死亡 高さ3mから落ちたか"
+      "url": "https://news.yahoo.co.jp/pickup/6583281?source=rss",
+      "publishedAt": "2026-06-07T02:59:07.000Z",
+      "xQuery": "京都で不明の米学生 遺体で発見"
     },
     {
-      "time": "07:55",
-      "title": "死亡ひき逃げ 女性引きずられたか",
+      "time": "10:41",
+      "title": "就活チョロい AI使い5社内定22歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583251?source=rss",
-      "publishedAt": "2026-06-06T22:55:50.000Z",
-      "xQuery": "死亡ひき逃げ 女性引きずられたか"
+      "url": "https://news.yahoo.co.jp/pickup/6583273?source=rss",
+      "publishedAt": "2026-06-07T01:41:24.000Z",
+      "xQuery": "就活チョロい AI使い5社内定22歳"
     }
   ]
 };
