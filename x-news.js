@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-07T13:04:06.590Z",
+  "updatedAt": "2026-06-07T14:15:52.395Z",
   "items": [
     {
-      "time": "21:04",
-      "title": "湾岸諸国復興にイラン資産 米検討",
+      "time": "22:58",
+      "title": "日本産水産物規制 韓国に協議打診",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583340?source=rss",
-      "publishedAt": "2026-06-07T12:04:34.000Z",
-      "xQuery": "湾岸諸国復興にイラン資産 米検討"
+      "url": "https://news.yahoo.co.jp/pickup/6583351?source=rss",
+      "publishedAt": "2026-06-07T13:58:48.000Z",
+      "xQuery": "日本産水産物規制 韓国に協議打診"
     },
     {
-      "time": "20:54",
-      "title": "「新型軍国主義」で日中応酬過熱",
+      "time": "21:34",
+      "title": "消費減税で収益悪化か 農家の不安",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583339?source=rss",
-      "publishedAt": "2026-06-07T11:54:08.000Z",
-      "xQuery": "「新型軍国主義」で日中応酬過熱"
-    },
-    {
-      "time": "20:50",
-      "title": "少年が川で溺れて死亡 福岡・八女",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583338?source=rss",
-      "publishedAt": "2026-06-07T11:50:02.000Z",
-      "xQuery": "少年が川で溺れて死亡 福岡・八女"
+      "url": "https://news.yahoo.co.jp/pickup/6583342?source=rss",
+      "publishedAt": "2026-06-07T12:34:24.000Z",
+      "xQuery": "消費減税で収益悪化か 農家の不安"
     },
     {
       "time": "21:37",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "京都男児殺害 報道過熱していたか"
     },
     {
-      "time": "17:06",
-      "title": "夏風邪と似た症状 過敏性肺炎注意",
+      "time": "21:57",
+      "title": "名古屋死亡ひき逃げ事件 男を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583311?source=rss",
-      "publishedAt": "2026-06-07T08:06:22.000Z",
-      "xQuery": "夏風邪と似た症状 過敏性肺炎注意"
+      "url": "https://news.yahoo.co.jp/pickup/6583345?source=rss",
+      "publishedAt": "2026-06-07T12:57:49.000Z",
+      "xQuery": "名古屋死亡ひき逃げ事件 男を逮捕"
+    },
+    {
+      "time": "22:12",
+      "title": "宇都宮の中心地にクマ 商店街驚き",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583346?source=rss",
+      "publishedAt": "2026-06-07T13:12:17.000Z",
+      "xQuery": "宇都宮の中心地にクマ 商店街驚き"
     }
   ]
 };

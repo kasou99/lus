@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T13:04:05.748Z",
+  "updatedAt": "2026-06-07T14:15:51.497Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xakxpTUFsTUtkYWpXX3hHYldRRFJNclBaNWxRMUtyOVFGQWYyMFhnd0x1dEgwZXlJX1p0bm5jcld6bm1McDRUTTZCRFhuZmRzb2pZMnFCeHRMRVE?oc=5",
         "publishedAt": "2026-06-06T20:42:51.000Z"
-      },
-      {
-        "time": "22:52",
-        "title": "【ゼンゼロ】シーズン2第6章の攻略チャート｜この身に「希望」を灯すとき【ゼンレスゾーンゼロ】",
-        "source": "GameWith",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiQUVYNGJSM3NnM1FtSWtHOW5RaTJRS2l2Z0U0M2lVM3ZfMnpoT0M1N1h0VUFRV2hma2tyTlJyVzd6YjBleVhNU0dB?oc=5",
-        "publishedAt": "2026-06-06T13:52:07.000Z"
       },
       {
         "time": "18:43",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583330?source=rss",
         "publishedAt": "2026-06-07T10:12:06.000Z"
+      },
+      {
+        "time": "10:30",
+        "title": "書店1万店割れ ピーク時の4割余り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583271?source=rss",
+        "publishedAt": "2026-06-07T01:30:42.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,18 @@
         "publishedAt": "2026-06-07T12:04:34.000Z"
       },
       {
-        "time": "21:29",
-        "title": "習氏が訪朝へ 露への接近けん制か",
+        "time": "22:19",
+        "title": "イスラエル 米高官への盗聴疑惑",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583225?source=rss",
-        "publishedAt": "2026-06-06T12:29:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583347?source=rss",
+        "publishedAt": "2026-06-07T13:19:53.000Z"
+      },
+      {
+        "time": "22:34",
+        "title": "8日訪朝の習主席 非核化言及焦点",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583349?source=rss",
+        "publishedAt": "2026-06-07T13:34:03.000Z"
       },
       {
         "time": "15:23",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583293?source=rss",
         "publishedAt": "2026-06-07T05:28:34.000Z"
-      },
-      {
-        "time": "22:40",
-        "title": "詐欺G幹部の日本人か タイで拘束",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583233?source=rss",
-        "publishedAt": "2026-06-06T13:40:41.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-06-07T11:50:02.000Z"
       },
       {
-        "time": "15:05",
-        "title": "栃木 強殺未遂疑いで夫婦を再逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583296?source=rss",
-        "publishedAt": "2026-06-07T06:05:58.000Z"
-      },
-      {
         "time": "18:39",
         "title": "京都で米20歳遺体発見 事件性なし",
         "source": "Yahoo!ニュース",
@@ -177,18 +170,25 @@
         "publishedAt": "2026-06-07T09:39:44.000Z"
       },
       {
-        "time": "13:09",
-        "title": "朝7時なのに真っ暗 桜島から噴煙",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583286?source=rss",
-        "publishedAt": "2026-06-07T04:09:26.000Z"
-      },
-      {
         "time": "17:09",
         "title": "女子中学生を強盗致傷容疑で逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583313?source=rss",
         "publishedAt": "2026-06-07T08:09:20.000Z"
+      },
+      {
+        "time": "22:12",
+        "title": "宇都宮の中心地にクマ 商店街驚き",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583346?source=rss",
+        "publishedAt": "2026-06-07T13:12:17.000Z"
+      },
+      {
+        "time": "17:54",
+        "title": "アーケード街にクマ出没 宇都宮",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583319?source=rss",
+        "publishedAt": "2026-06-07T08:54:21.000Z"
       }
     ],
     "subsidyHeadlines": [
