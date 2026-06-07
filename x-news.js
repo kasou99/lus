@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-07T03:49:41.112Z",
+  "updatedAt": "2026-06-07T05:41:04.836Z",
   "items": [
+    {
+      "time": "13:51",
+      "title": "政府 ガソリン補助の「出口」探る",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583292?source=rss",
+      "publishedAt": "2026-06-07T04:51:11.000Z",
+      "xQuery": "政府 ガソリン補助の「出口」探る"
+    },
     {
       "time": "10:30",
       "title": "書店1万店割れ ピーク時の4割余り",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583271?source=rss",
       "publishedAt": "2026-06-07T01:30:42.000Z",
       "xQuery": "書店1万店割れ ピーク時の4割余り"
-    },
-    {
-      "time": "09:30",
-      "title": "ラオス洞窟2人不明 捜索打ち切り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583264?source=rss",
-      "publishedAt": "2026-06-07T00:30:02.000Z",
-      "xQuery": "ラオス洞窟2人不明 捜索打ち切り"
-    },
-    {
-      "time": "12:03",
-      "title": "差別止めようとした弁護士 標的に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583278?source=rss",
-      "publishedAt": "2026-06-07T03:03:33.000Z",
-      "xQuery": "差別止めようとした弁護士 標的に"
     },
     {
       "time": "11:59",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "京都で不明の米学生 遺体で発見"
     },
     {
-      "time": "10:41",
-      "title": "就活チョロい AI使い5社内定22歳",
+      "time": "12:50",
+      "title": "内申書が子の主体性奪う? 懸念は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583273?source=rss",
-      "publishedAt": "2026-06-07T01:41:24.000Z",
-      "xQuery": "就活チョロい AI使い5社内定22歳"
+      "url": "https://news.yahoo.co.jp/pickup/6583284?source=rss",
+      "publishedAt": "2026-06-07T03:50:41.000Z",
+      "xQuery": "内申書が子の主体性奪う? 懸念は"
+    },
+    {
+      "time": "13:34",
+      "title": "円満演じる「仮面夫婦」 子に影響",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583289?source=rss",
+      "publishedAt": "2026-06-07T04:34:37.000Z",
+      "xQuery": "円満演じる「仮面夫婦」 子に影響"
     }
   ]
 };
