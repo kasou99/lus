@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-07T22:57:56.794Z",
+  "updatedAt": "2026-06-07T23:30:54.572Z",
   "items": [
     {
-      "time": "06:47",
-      "title": "イラン イスラエルへミサイル発射",
+      "time": "08:13",
+      "title": "米大統領 イスラエルに自制求める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583360?source=rss",
-      "publishedAt": "2026-06-07T21:47:18.000Z",
-      "xQuery": "イラン イスラエルへミサイル発射"
+      "url": "https://news.yahoo.co.jp/pickup/6583370?source=rss",
+      "publishedAt": "2026-06-07T23:13:58.000Z",
+      "xQuery": "米大統領 イスラエルに自制求める"
     },
     {
-      "time": "07:28",
-      "title": "習近平主席 きょう7年ぶり訪朝へ",
+      "time": "07:51",
+      "title": "特殊車両の重量超過 対応を強化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583364?source=rss",
-      "publishedAt": "2026-06-07T22:28:16.000Z",
-      "xQuery": "習近平主席 きょう7年ぶり訪朝へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583367?source=rss",
+      "publishedAt": "2026-06-07T22:51:43.000Z",
+      "xQuery": "特殊車両の重量超過 対応を強化へ"
     },
     {
       "time": "06:21",

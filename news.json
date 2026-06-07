@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T22:57:55.989Z",
+  "updatedAt": "2026-06-07T23:30:53.944Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-06-07T20:00:00.000Z"
       },
       {
+        "time": "07:05",
+        "title": "関東精機、主力製品60周年協力企業に感謝",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Tb3o5Wl9reWFOaFB1d1hQQ2o5dkQ4X3RTY3dzMTdtUlNFTFUxZTZibF91Zi16SElfbFpzVmZIRVJUMXhWNzd1RGU2YmtsamlKaXE4ZFFrcG54V2s?oc=5",
+        "publishedAt": "2026-06-07T22:05:51.000Z"
+      },
+      {
         "time": "05:10",
         "title": "兵庫県、ソフトバンクと連携 AX推進・地域創生",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zLUJlb0R2OUZ1MnJncnRMRjdWSnJmaldlYUlqNlptTkVRRF91WlpOeXU3SzRGRmw2ZW1ENEkzRmpLV2YxWS1qUjkyS1pkTW1WZDhkdGNLeC1jXzFtLXBGbDd3b29MVmZWci1LWnZ4QkxHTngx?oc=5",
         "publishedAt": "2026-06-07T20:10:38.000Z"
-      },
-      {
-        "time": "05:10",
-        "title": "関東精機、主力製品60周年協力企業に感謝",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zRzV5NzBpQVMzWnhIcVVCVFJBelRVbG1hd21RakRQR2N6cTVid1BYUlpwbjVOaTZVbG9CbmlwYk9KcHBkRWJ3OFY4RHpOck1PTjRhSERRQWtFMkw3SnhTV2RLak10NFp4NXI2T2x1dWZubmpm?oc=5",
-        "publishedAt": "2026-06-07T20:10:44.000Z"
       },
       {
         "time": "05:02",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "08:13",
+        "title": "米大統領 イスラエルに自制求める",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583370?source=rss",
+        "publishedAt": "2026-06-07T23:13:58.000Z"
+      },
       {
         "time": "06:47",
         "title": "イラン イスラエルへミサイル発射",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583299?source=rss",
         "publishedAt": "2026-06-07T06:23:27.000Z"
-      },
-      {
-        "time": "09:16",
-        "title": "独移民政策 1年で3.6万人入国拒否",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583262?source=rss",
-        "publishedAt": "2026-06-07T00:16:24.000Z"
       }
     ],
     "economyHeadlines": [
