@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T10:20:58.772Z",
+  "updatedAt": "2026-06-07T11:15:29.885Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,11 @@
         "publishedAt": "2026-06-06T20:42:51.000Z"
       },
       {
-        "time": "19:40",
-        "title": "次世代設備保全クラウド「M2X」が、現場のタスクを\"見える化\"する「カンバン」ビューを新たに搭載",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjaThfeDNGUU43M2k4eS05MFhuc1lvYUk1UmNyVDRsSGRGUHE3OWhHTS1zOGMyQzJaU0xjSUJCTnhHSHB2RzdDRUZFVHFlYWpZblV4WFYxWktCZkpuU1dZZ0hYeWtuRnZJNDJV?oc=5",
-        "publishedAt": "2026-06-06T10:40:00.000Z"
+        "time": "18:43",
+        "title": "当局は大規模な軍事兵器製造組織を摘発した。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3RkeThWUTg3X2IwSkVXS19PZTZ1dENQaXFiUURtQ0RIMkNZMzZZTmpwWXNRVGFaZXVyRkZJSGE2bk93OFdFb2dpc3h2a0x1X2c4SFFPT1EwaGh0TzVfbnVtLXVmb0xEaTV5N3VQR2tRcy04bFd5akFqQ0tONWoyYmlGZ0M?oc=5",
+        "publishedAt": "2026-06-07T09:43:07.000Z"
       },
       {
         "time": "22:52",
@@ -38,11 +38,11 @@
         "publishedAt": "2026-06-06T13:52:07.000Z"
       },
       {
-        "time": "18:43",
-        "title": "当局は大規模な軍事兵器製造組織を摘発した。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3RkeThWUTg3X2IwSkVXS19PZTZ1dENQaXFiUURtQ0RIMkNZMzZZTmpwWXNRVGFaZXVyRkZJSGE2bk93OFdFb2dpc3h2a0x1X2c4SFFPT1EwaGh0TzVfbnVtLXVmb0xEaTV5N3VQR2tRcy04bFd5akFqQ0tONWoyYmlGZ0M?oc=5",
-        "publishedAt": "2026-06-07T09:43:07.000Z"
+        "time": "19:58",
+        "title": "週明け日本株 米株安で売り先行か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583333?source=rss",
+        "publishedAt": "2026-06-07T10:58:56.000Z"
       },
       {
         "time": "19:12",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "19:58",
+        "title": "週明け日本株 米株安で売り先行か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583333?source=rss",
+        "publishedAt": "2026-06-07T10:58:56.000Z"
+      },
+      {
         "time": "19:12",
         "title": "トヨタ超えたい 中国勢がHV注力",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583271?source=rss",
         "publishedAt": "2026-06-07T01:30:42.000Z"
-      },
-      {
-        "time": "07:45",
-        "title": "葬儀社との料金トラブル 多発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583249?source=rss",
-        "publishedAt": "2026-06-06T22:45:33.000Z"
       },
       {
         "time": "09:10",

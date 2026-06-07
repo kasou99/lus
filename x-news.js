@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-07T10:20:59.830Z",
+  "updatedAt": "2026-06-07T11:15:30.821Z",
   "items": [
     {
-      "time": "17:26",
-      "title": "各地で梅雨入り 雨量見通しと備え",
+      "time": "19:58",
+      "title": "週明け日本株 米株安で売り先行か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583315?source=rss",
-      "publishedAt": "2026-06-07T08:26:35.000Z",
-      "xQuery": "各地で梅雨入り 雨量見通しと備え"
+      "url": "https://news.yahoo.co.jp/pickup/6583333?source=rss",
+      "publishedAt": "2026-06-07T10:58:56.000Z",
+      "xQuery": "週明け日本株 米株安で売り先行か"
     },
     {
-      "time": "16:51",
-      "title": "エボラ陰謀論も 偽情報対策が課題",
+      "time": "17:06",
+      "title": "夏風邪と似た症状 過敏性肺炎注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583308?source=rss",
-      "publishedAt": "2026-06-07T07:51:20.000Z",
-      "xQuery": "エボラ陰謀論も 偽情報対策が課題"
+      "url": "https://news.yahoo.co.jp/pickup/6583311?source=rss",
+      "publishedAt": "2026-06-07T08:06:22.000Z",
+      "xQuery": "夏風邪と似た症状 過敏性肺炎注意"
     },
     {
       "time": "17:54",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "京都で米20歳遺体発見 事件性なし"
     },
     {
-      "time": "18:31",
-      "title": "OpenAIがChatGPTを刷新へ 報道",
+      "time": "19:12",
+      "title": "トヨタ超えたい 中国勢がHV注力",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583325?source=rss",
-      "publishedAt": "2026-06-07T09:31:14.000Z",
-      "xQuery": "OpenAIがChatGPTを刷新へ 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6583330?source=rss",
+      "publishedAt": "2026-06-07T10:12:06.000Z",
+      "xQuery": "トヨタ超えたい 中国勢がHV注力"
     }
   ]
 };
