@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-07T01:21:01.909Z",
+  "updatedAt": "2026-06-07T02:25:17.264Z",
   "items": [
     {
-      "time": "08:31",
-      "title": "再審法案 週明け衆院審議ヤマ場へ",
+      "time": "11:14",
+      "title": "関東甲信・東海地方が梅雨入り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583256?source=rss",
-      "publishedAt": "2026-06-06T23:31:16.000Z",
-      "xQuery": "再審法案 週明け衆院審議ヤマ場へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583275?source=rss",
+      "publishedAt": "2026-06-07T02:14:39.000Z",
+      "xQuery": "関東甲信・東海地方が梅雨入り"
     },
     {
-      "time": "08:28",
-      "title": "高専卒業に学位授与 文科省検討へ",
+      "time": "09:16",
+      "title": "独移民政策 1年で3.6万人入国拒否",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583255?source=rss",
-      "publishedAt": "2026-06-06T23:28:06.000Z",
-      "xQuery": "高専卒業に学位授与 文科省検討へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583262?source=rss",
+      "publishedAt": "2026-06-07T00:16:24.000Z",
+      "xQuery": "独移民政策 1年で3.6万人入国拒否"
+    },
+    {
+      "time": "10:14",
+      "title": "秋葉原殺傷でPTSD 男性の現在",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583269?source=rss",
+      "publishedAt": "2026-06-07T01:14:56.000Z",
+      "xQuery": "秋葉原殺傷でPTSD 男性の現在"
     },
     {
       "time": "09:48",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583251?source=rss",
       "publishedAt": "2026-06-06T22:55:50.000Z",
       "xQuery": "死亡ひき逃げ 女性引きずられたか"
-    },
-    {
-      "time": "07:45",
-      "title": "葬儀社との料金トラブル 多発",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583249?source=rss",
-      "publishedAt": "2026-06-06T22:45:33.000Z",
-      "xQuery": "葬儀社との料金トラブル 多発"
     }
   ]
 };
