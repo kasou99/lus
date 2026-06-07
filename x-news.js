@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-07T14:15:52.395Z",
+  "updatedAt": "2026-06-07T15:06:51.322Z",
   "items": [
     {
       "time": "22:58",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日本産水産物規制 韓国に協議打診"
     },
     {
-      "time": "21:34",
-      "title": "消費減税で収益悪化か 農家の不安",
+      "time": "22:34",
+      "title": "8日訪朝の習主席 非核化言及焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583342?source=rss",
-      "publishedAt": "2026-06-07T12:34:24.000Z",
-      "xQuery": "消費減税で収益悪化か 農家の不安"
+      "url": "https://news.yahoo.co.jp/pickup/6583349?source=rss",
+      "publishedAt": "2026-06-07T13:34:03.000Z",
+      "xQuery": "8日訪朝の習主席 非核化言及焦点"
     },
     {
       "time": "21:37",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "名古屋死亡ひき逃げ事件 男を逮捕"
     },
     {
-      "time": "22:12",
-      "title": "宇都宮の中心地にクマ 商店街驚き",
+      "time": "23:12",
+      "title": "登山男性「遭難」と気付かず 救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583346?source=rss",
-      "publishedAt": "2026-06-07T13:12:17.000Z",
-      "xQuery": "宇都宮の中心地にクマ 商店街驚き"
+      "url": "https://news.yahoo.co.jp/pickup/6583352?source=rss",
+      "publishedAt": "2026-06-07T14:12:41.000Z",
+      "xQuery": "登山男性「遭難」と気付かず 救助"
     }
   ]
 };
