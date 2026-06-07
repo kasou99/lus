@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-07T17:35:27.450Z",
+  "updatedAt": "2026-06-07T18:37:19.799Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "02:12",
+        "title": "株式会社M2X、テイケイ気化器株式会社の導入事例を公開 企業リリース",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WYWp1THdqN1FJZjJ5V1BGM01TUGkyYkVLTUl2RkJhcEY5R3c4R25OR2p0aDhVbUducU1fMGZlWlAzVDhQdU81c2FrcVM2NkhwN3NCMmNGZzM?oc=5",
+        "publishedAt": "2026-06-07T17:12:15.000Z"
+      },
       {
         "time": "07:02",
         "title": "【横須賀市】GNF-Jで4度目の火災発生、市長が企業体制に疑問呈す",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583271?source=rss",
         "publishedAt": "2026-06-07T01:30:42.000Z"
-      },
-      {
-        "time": "09:10",
-        "title": "濃縮飲料市場 コーヒーが広がる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583261?source=rss",
-        "publishedAt": "2026-06-07T00:10:43.000Z"
       }
     ],
     "worldHeadlines": [
