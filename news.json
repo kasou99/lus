@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T22:30:09.496Z",
+  "updatedAt": "2026-06-07T22:57:55.989Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-06-07T20:00:58.000Z"
       },
       {
+        "time": "05:00",
+        "title": "〈富山ものづくり風土記〉（１３）先端技術編（４）キタムラ機械マシニングセンタ 万能機械、スマホ感覚で",
+        "source": "北國新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DcmIwbS13LW1KU0staUtmVzlLcEQwdDVxN3FmQUtoWGdoNmlzUVF1ZldTV25ERk5tN0JDYnZqc1BoN1ppYWNRVmI5TmtIZ0pYaU1oRTltNkRRZw?oc=5",
+        "publishedAt": "2026-06-07T20:00:00.000Z"
+      },
+      {
         "time": "05:10",
         "title": "兵庫県、ソフトバンクと連携 AX推進・地域創生",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zLUJlb0R2OUZ1MnJncnRMRjdWSnJmaldlYUlqNlptTkVRRF91WlpOeXU3SzRGRmw2ZW1ENEkzRmpLV2YxWS1qUjkyS1pkTW1WZDhkdGNLeC1jXzFtLXBGbDd3b29MVmZWci1LWnZ4QkxHTngx?oc=5",
         "publishedAt": "2026-06-07T20:10:38.000Z"
-      },
-      {
-        "time": "05:02",
-        "title": "中部経済連合会、仏グランテスト地域圏と覚書 脱炭素・モビリティー進化",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hZ2pHVU4wSTVnUzl0eThISHBiT3d5NllPNzFhMzh4Q0lqdHN5VWhXMnFhc2ZwNXBlRnZLek1Eal90YUhTb29NMWY5dFJIcHp5TGlMbnBOdWxuaVJaZzBZTnZuREFuVDBQOUxWbDAzQV8xNVp4a2RTUnRxcw?oc=5",
-        "publishedAt": "2026-06-07T20:02:52.000Z"
       },
       {
         "time": "05:10",
@@ -31,11 +31,18 @@
         "publishedAt": "2026-06-07T20:10:44.000Z"
       },
       {
-        "time": "05:10",
-        "title": "横顔／高知県商工労働部長に就任した大原英樹氏",
+        "time": "05:02",
+        "title": "中部経済連合会、仏グランテスト地域圏と覚書 脱炭素・モビリティー進化",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOWGR3dFlHZTY1MWJVNW1JMUx3QlViTGFBcGxxWGMydzk5dV9Fd0FCZzh2NVE5b2w5RENucmc5RGdWakJ3MW1WeGFuRDNxSEhwSVAzZTBUc2NRQVByeGRRVTNXM1ZPR1I5TFpJZTlxY1pXQm82?oc=5",
-        "publishedAt": "2026-06-07T20:10:49.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hZ2pHVU4wSTVnUzl0eThISHBiT3d5NllPNzFhMzh4Q0lqdHN5VWhXMnFhc2ZwNXBlRnZLek1Eal90YUhTb29NMWY5dFJIcHp5TGlMbnBOdWxuaVJaZzBZTnZuREFuVDBQOUxWbDAzQV8xNVp4a2RTUnRxcw?oc=5",
+        "publishedAt": "2026-06-07T20:02:52.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "ブラザー工業【6448】決算で株価急伸、連続増益と株主還元で食指 上場来高値の“その後”を見極める「一段高」への条件",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Nd0ZJRlliS1ZGS2RFQVFVT004ZE14ZjhkZUlqdFNKUkdWYVpNN3h2RVhHZXVjZnAzNlVvT0JLTWNWNno1S1BOSnQwb1J6ZUpGX2NZaU9GTU0xZm8wMjhkUWlOc1dqQUstemJ6OElpWU5uNkwtM0pncTlrX2E0LVHSAX9BVV95cUxPTXdGSUZZYktWRktkRUFRVU9NOGRNeGY4ZGVJanRTSlJHVmFaTTd4dkVYR2V1Y2ZwMzZVb09CS01jVjZ6NUtQTkp0MG9SemVKRl9jWWlPRk1NMWZvMDI4ZFFpTnNXakFLLXpiejhJaVlObjZMLTNKZ3E5a19hNC1R?oc=5",
+        "publishedAt": "2026-06-07T21:00:00.000Z"
       },
       {
         "time": "05:02",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-06-07T20:02:52.000Z"
       },
       {
-        "time": "19:58",
-        "title": "週明け日本株 米株安で売り先行か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583333?source=rss",
-        "publishedAt": "2026-06-07T10:58:56.000Z"
-      },
-      {
-        "time": "21:34",
-        "title": "消費減税で収益悪化か 農家の不安",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583342?source=rss",
-        "publishedAt": "2026-06-07T12:34:24.000Z"
+        "time": "18:43",
+        "title": "当局は大規模な軍事兵器製造組織を摘発した。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3RkeThWUTg3X2IwSkVXS19PZTZ1dENQaXFiUURtQ0RIMkNZMzZZTmpwWXNRVGFaZXVyRkZJSGE2bk93OFdFb2dpc3h2a0x1X2c4SFFPT1EwaGh0TzVfbnVtLXVmb0xEaTV5N3VQR2tRcy04bFd5akFqQ0tONWoyYmlGZ0M?oc=5",
+        "publishedAt": "2026-06-07T09:43:07.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-06-07T10:12:06.000Z"
       },
       {
+        "time": "07:47",
+        "title": "セブン なぜ店舗「ワンオペ」検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583366?source=rss",
+        "publishedAt": "2026-06-07T22:47:40.000Z"
+      },
+      {
         "time": "10:30",
         "title": "書店1万店割れ ピーク時の4割余り",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583261?source=rss",
         "publishedAt": "2026-06-07T00:10:43.000Z"
-      },
-      {
-        "time": "07:55",
-        "title": "ファミマの1998円腕時計 なぜ完売",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583250?source=rss",
-        "publishedAt": "2026-06-06T22:55:05.000Z"
       }
     ],
     "localHeadlines": [
