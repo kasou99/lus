@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-07T12:06:04.167Z",
+  "updatedAt": "2026-06-07T13:04:06.590Z",
   "items": [
     {
-      "time": "19:58",
-      "title": "週明け日本株 米株安で売り先行か",
+      "time": "21:04",
+      "title": "湾岸諸国復興にイラン資産 米検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583333?source=rss",
-      "publishedAt": "2026-06-07T10:58:56.000Z",
-      "xQuery": "週明け日本株 米株安で売り先行か"
+      "url": "https://news.yahoo.co.jp/pickup/6583340?source=rss",
+      "publishedAt": "2026-06-07T12:04:34.000Z",
+      "xQuery": "湾岸諸国復興にイラン資産 米検討"
     },
     {
-      "time": "18:31",
-      "title": "OpenAIがChatGPTを刷新へ 報道",
+      "time": "20:54",
+      "title": "「新型軍国主義」で日中応酬過熱",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583325?source=rss",
-      "publishedAt": "2026-06-07T09:31:14.000Z",
-      "xQuery": "OpenAIがChatGPTを刷新へ 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6583339?source=rss",
+      "publishedAt": "2026-06-07T11:54:08.000Z",
+      "xQuery": "「新型軍国主義」で日中応酬過熱"
     },
     {
       "time": "20:50",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "少年が川で溺れて死亡 福岡・八女"
     },
     {
+      "time": "21:37",
+      "title": "京都男児殺害 報道過熱していたか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583343?source=rss",
+      "publishedAt": "2026-06-07T12:37:09.000Z",
+      "xQuery": "京都男児殺害 報道過熱していたか"
+    },
+    {
       "time": "17:06",
       "title": "夏風邪と似た症状 過敏性肺炎注意",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6583311?source=rss",
       "publishedAt": "2026-06-07T08:06:22.000Z",
       "xQuery": "夏風邪と似た症状 過敏性肺炎注意"
-    },
-    {
-      "time": "18:39",
-      "title": "京都で米20歳遺体発見 事件性なし",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583326?source=rss",
-      "publishedAt": "2026-06-07T09:39:44.000Z",
-      "xQuery": "京都で米20歳遺体発見 事件性なし"
     }
   ]
 };
