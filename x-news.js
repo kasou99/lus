@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-07T05:41:04.836Z",
+  "updatedAt": "2026-06-07T07:36:19.029Z",
   "items": [
     {
-      "time": "13:51",
-      "title": "政府 ガソリン補助の「出口」探る",
+      "time": "15:51",
+      "title": "政府 海峡への自衛隊派遣に3条件",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583292?source=rss",
-      "publishedAt": "2026-06-07T04:51:11.000Z",
-      "xQuery": "政府 ガソリン補助の「出口」探る"
+      "url": "https://news.yahoo.co.jp/pickup/6583302?source=rss",
+      "publishedAt": "2026-06-07T06:51:52.000Z",
+      "xQuery": "政府 海峡への自衛隊派遣に3条件"
     },
     {
-      "time": "10:30",
-      "title": "書店1万店割れ ピーク時の4割余り",
+      "time": "15:05",
+      "title": "栃木 強殺未遂疑いで夫婦を再逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583271?source=rss",
-      "publishedAt": "2026-06-07T01:30:42.000Z",
-      "xQuery": "書店1万店割れ ピーク時の4割余り"
+      "url": "https://news.yahoo.co.jp/pickup/6583296?source=rss",
+      "publishedAt": "2026-06-07T06:05:58.000Z",
+      "xQuery": "栃木 強殺未遂疑いで夫婦を再逮捕"
     },
     {
-      "time": "11:59",
-      "title": "京都で不明の米学生 遺体で発見",
+      "time": "15:23",
+      "title": "非核化巡る米側見解 虚偽と与正氏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583281?source=rss",
-      "publishedAt": "2026-06-07T02:59:07.000Z",
-      "xQuery": "京都で不明の米学生 遺体で発見"
+      "url": "https://news.yahoo.co.jp/pickup/6583299?source=rss",
+      "publishedAt": "2026-06-07T06:23:27.000Z",
+      "xQuery": "非核化巡る米側見解 虚偽と与正氏"
     },
     {
-      "time": "12:50",
-      "title": "内申書が子の主体性奪う? 懸念は",
+      "time": "14:28",
+      "title": "米で2人が銃撃ち合いか 12人負傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583284?source=rss",
-      "publishedAt": "2026-06-07T03:50:41.000Z",
-      "xQuery": "内申書が子の主体性奪う? 懸念は"
+      "url": "https://news.yahoo.co.jp/pickup/6583293?source=rss",
+      "publishedAt": "2026-06-07T05:28:34.000Z",
+      "xQuery": "米で2人が銃撃ち合いか 12人負傷"
     },
     {
-      "time": "13:34",
-      "title": "円満演じる「仮面夫婦」 子に影響",
+      "time": "15:44",
+      "title": "「苦手でもひと口」は虐待なのか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583289?source=rss",
-      "publishedAt": "2026-06-07T04:34:37.000Z",
-      "xQuery": "円満演じる「仮面夫婦」 子に影響"
+      "url": "https://news.yahoo.co.jp/pickup/6583303?source=rss",
+      "publishedAt": "2026-06-07T06:44:05.000Z",
+      "xQuery": "「苦手でもひと口」は虐待なのか"
     }
   ]
 };

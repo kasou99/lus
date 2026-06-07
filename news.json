@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T05:41:03.557Z",
+  "updatedAt": "2026-06-07T07:36:17.544Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-06-06T07:42:03.000Z"
       },
       {
-        "time": "15:08",
-        "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xcWxpSS15RjRPNy1EQ254WmdkS3kwb0E0NkNtV283dEw5LWxQNkIwamlJa1NGVkFhM0RsaUZyQk9ndTR1cEw2SkdWWWNSeEpSVHpTTlpfazdSanBtRHJB?oc=5",
-        "publishedAt": "2026-06-06T06:08:53.000Z"
-      },
-      {
         "time": "07:02",
         "title": "【横須賀市】GNF-Jで4度目の火災発生、市長が企業体制に疑問呈す",
         "source": "湘南人",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-06-06T20:42:51.000Z"
       },
       {
-        "time": "15:56",
-        "title": "上海で介護・福祉の見本市 世界から約680社出展",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03NGVrWXJLdHg3Y3FwczZabEFkd2FZc2FHeVFETTd1Mk1FQkZyVUF0UXUzelNtWTBpZG5DMHNKbHZFWFpVYzE5dUFLdjB3YjBiNk84VllHUEJhODZTM2ZndzVXTnNLa0Q1NWdQd1JXMVpkYWI3RnRaa3ROQQ?oc=5",
-        "publishedAt": "2026-06-06T06:56:00.000Z"
-      },
-      {
         "time": "22:52",
         "title": "【ゼンゼロ】シーズン2第6章の攻略チャート｜この身に「希望」を灯すとき【ゼンレスゾーンゼロ】",
         "source": "GameWith",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiQUVYNGJSM3NnM1FtSWtHOW5RaTJRS2l2Z0U0M2lVM3ZfMnpoT0M1N1h0VUFRV2hma2tyTlJyVzd6YjBleVhNU0dB?oc=5",
         "publishedAt": "2026-06-06T13:52:07.000Z"
+      },
+      {
+        "time": "18:33",
+        "title": "横須賀の原発燃料工場、また火災 1年間で4度目 市長「看過できない」",
+        "source": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxQM0xhNzRtLXJkUUFuSXo2LWttRlphWUhKYlNjQkZQczVIcEpReEFMZWIzQzY5ckdNcW9PMjMxWVpZZEMxOV9NR0k5a1o5bzVsUDJTdlVUMXlzY2NtcEZ5NnN5UjZwYWVSdHdaRXVjdnY0elc3QWtac1NCM3BsWG51ZDRWTk1hTGFlM1o4cFQ5cWY2eWloZkVOTlNMRUR1UkVGNk9udk81Y1hEWE1wNEZrTEFCYkJxd2pDZS1jM21VSVQ2dl9sTmRPWDdxNHFKaFNwektmOGRLYVpIYUdfSFk4aktfTTJCSDVVQnlyb1E1aUQ0OUtzdzFpdzNrcGlYTTJscDlzWHhwaEhZNkZUSjZuN1FYRTZ5ZHVReUtWSlkydnFfR0F2WHVqZDhJUDlnQzdKQUZ3R2hFV3FmNE9GcW1fbnl1ZWYyS1VyaVdvRENzQW9JX1h4YnJIQkpWTDJtT1VNUmU4bmRxeUx0SFZoUURFYl92NjZzVjNmOGk4SjZQcjhhUEVaTDh1WGw1U1VzVkxQS2RudExjS0JRVXpweW4zMUcwZG9EVDh3M2hnM1ZLYkYtRndZZlJUc2hLRVY1bl9kdXN1WkVMZlRlbEdtdDBCNk1EM1E5TkVLQlZaWndnclozc0pDbE5QRGNNOFlDUldQWVdaR094ZWJscU5UOUx3SC1kX2hrazBiMHhhaWdHVl9yQ0VaenhkeU1kWHNZNGhURWZ2N2NiOUFuNVlaeklORkxOUXZZYThpcE41U2YwZGl6UFBRZmFRSWw0WWhBT1ZGQjNEUm1CMXlHVWNnN0Qw?oc=5",
+        "publishedAt": "2026-06-06T09:33:54.000Z"
+      },
+      {
+        "time": "21:01",
+        "title": "世界の原油在庫が急減 相場急騰も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583222?source=rss",
+        "publishedAt": "2026-06-06T12:01:38.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583191?source=rss",
         "publishedAt": "2026-06-06T08:30:56.000Z"
+      },
+      {
+        "time": "15:23",
+        "title": "非核化巡る米側見解 虚偽と与正氏",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583299?source=rss",
+        "publishedAt": "2026-06-07T06:23:27.000Z"
       },
       {
         "time": "09:16",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583233?source=rss",
         "publishedAt": "2026-06-06T13:40:41.000Z"
-      },
-      {
-        "time": "10:57",
-        "title": "米‌政府がAI企業株取得を検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583146?source=rss",
-        "publishedAt": "2026-06-06T01:57:35.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-06-07T04:09:26.000Z"
       },
       {
+        "time": "15:05",
+        "title": "栃木 強殺未遂疑いで夫婦を再逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583296?source=rss",
+        "publishedAt": "2026-06-07T06:05:58.000Z"
+      },
+      {
         "time": "07:55",
         "title": "死亡ひき逃げ 女性引きずられたか",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583269?source=rss",
         "publishedAt": "2026-06-07T01:14:56.000Z"
-      },
-      {
-        "time": "08:38",
-        "title": "パトカー追跡の2人乗り自転車事故",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583258?source=rss",
-        "publishedAt": "2026-06-06T23:38:14.000Z"
       }
     ],
     "subsidyHeadlines": [
