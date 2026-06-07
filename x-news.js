@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-07T09:12:30.238Z",
+  "updatedAt": "2026-06-07T10:20:59.830Z",
   "items": [
     {
       "time": "17:26",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "各地で梅雨入り 雨量見通しと備え"
     },
     {
-      "time": "15:51",
-      "title": "政府 海峡への自衛隊派遣に3条件",
+      "time": "16:51",
+      "title": "エボラ陰謀論も 偽情報対策が課題",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583302?source=rss",
-      "publishedAt": "2026-06-07T06:51:52.000Z",
-      "xQuery": "政府 海峡への自衛隊派遣に3条件"
-    },
-    {
-      "time": "17:09",
-      "title": "女子中学生を強盗致傷容疑で逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583313?source=rss",
-      "publishedAt": "2026-06-07T08:09:20.000Z",
-      "xQuery": "女子中学生を強盗致傷容疑で逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6583308?source=rss",
+      "publishedAt": "2026-06-07T07:51:20.000Z",
+      "xQuery": "エボラ陰謀論も 偽情報対策が課題"
     },
     {
       "time": "17:54",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "アーケード街にクマ出没 宇都宮"
     },
     {
-      "time": "07:55",
-      "title": "ファミマの1998円腕時計 なぜ完売",
+      "time": "18:39",
+      "title": "京都で米20歳遺体発見 事件性なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583250?source=rss",
-      "publishedAt": "2026-06-06T22:55:05.000Z",
-      "xQuery": "ファミマの1998円腕時計 なぜ完売"
+      "url": "https://news.yahoo.co.jp/pickup/6583326?source=rss",
+      "publishedAt": "2026-06-07T09:39:44.000Z",
+      "xQuery": "京都で米20歳遺体発見 事件性なし"
+    },
+    {
+      "time": "18:31",
+      "title": "OpenAIがChatGPTを刷新へ 報道",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583325?source=rss",
+      "publishedAt": "2026-06-07T09:31:14.000Z",
+      "xQuery": "OpenAIがChatGPTを刷新へ 報道"
     }
   ]
 };
