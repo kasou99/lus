@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T23:56:40.230Z",
+  "updatedAt": "2026-06-07T01:21:00.812Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,6 +75,13 @@
         "publishedAt": "2026-06-06T08:30:56.000Z"
       },
       {
+        "time": "09:16",
+        "title": "独移民政策 1年で3.6万人入国拒否",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583262?source=rss",
+        "publishedAt": "2026-06-07T00:16:24.000Z"
+      },
+      {
         "time": "22:40",
         "title": "詐欺G幹部の日本人か タイで拘束",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583123?source=rss",
         "publishedAt": "2026-06-05T22:43:20.000Z"
-      },
-      {
-        "time": "09:35",
-        "title": "フロリダで死刑執行急増 知事推進",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583140?source=rss",
-        "publishedAt": "2026-06-06T00:35:39.000Z"
       }
     ],
     "economyHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-06-06T11:44:18.000Z"
       },
       {
-        "time": "07:55",
-        "title": "ファミマの1998円腕時計 なぜ完売",
+        "time": "09:10",
+        "title": "濃縮飲料市場 コーヒーが広がる",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583250?source=rss",
-        "publishedAt": "2026-06-06T22:55:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583261?source=rss",
+        "publishedAt": "2026-06-07T00:10:43.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,6 +163,20 @@
         "publishedAt": "2026-06-06T12:12:22.000Z"
       },
       {
+        "time": "09:48",
+        "title": "工事中に死亡 高さ3mから落ちたか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583266?source=rss",
+        "publishedAt": "2026-06-07T00:48:17.000Z"
+      },
+      {
+        "time": "10:14",
+        "title": "秋葉原殺傷でPTSD 男性の現在",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583269?source=rss",
+        "publishedAt": "2026-06-07T01:14:56.000Z"
+      },
+      {
         "time": "08:38",
         "title": "パトカー追跡の2人乗り自転車事故",
         "source": "Yahoo!ニュース",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-06-06T23:38:14.000Z"
       },
       {
-        "time": "22:46",
-        "title": "京都で米20歳不明 両親に支援の輪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583235?source=rss",
-        "publishedAt": "2026-06-06T13:46:15.000Z"
-      },
-      {
         "time": "19:57",
         "title": "不同意性交疑い 岡山県警の男逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583209?source=rss",
         "publishedAt": "2026-06-06T10:57:11.000Z"
-      },
-      {
-        "time": "18:13",
-        "title": "タンクローリー海に突っ込む 救助",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583198?source=rss",
-        "publishedAt": "2026-06-06T09:13:55.000Z"
       }
     ],
     "subsidyHeadlines": [

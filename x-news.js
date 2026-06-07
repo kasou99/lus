@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-06T23:56:41.748Z",
+  "updatedAt": "2026-06-07T01:21:01.909Z",
   "items": [
+    {
+      "time": "08:31",
+      "title": "再審法案 週明け衆院審議ヤマ場へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583256?source=rss",
+      "publishedAt": "2026-06-06T23:31:16.000Z",
+      "xQuery": "再審法案 週明け衆院審議ヤマ場へ"
+    },
     {
       "time": "08:28",
       "title": "高専卒業に学位授与 文科省検討へ",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高専卒業に学位授与 文科省検討へ"
     },
     {
-      "time": "07:16",
-      "title": "鹿児島と宮崎 線状降水帯発生恐れ",
+      "time": "09:48",
+      "title": "工事中に死亡 高さ3mから落ちたか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583242?source=rss",
-      "publishedAt": "2026-06-06T22:16:45.000Z",
-      "xQuery": "鹿児島と宮崎 線状降水帯発生恐れ"
-    },
-    {
-      "time": "08:19",
-      "title": "米俳優組合 AIから俳優守る新契約",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583253?source=rss",
-      "publishedAt": "2026-06-06T23:19:48.000Z",
-      "xQuery": "米俳優組合 AIから俳優守る新契約"
+      "url": "https://news.yahoo.co.jp/pickup/6583266?source=rss",
+      "publishedAt": "2026-06-07T00:48:17.000Z",
+      "xQuery": "工事中に死亡 高さ3mから落ちたか"
     },
     {
       "time": "07:55",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "死亡ひき逃げ 女性引きずられたか"
     },
     {
-      "time": "08:38",
-      "title": "パトカー追跡の2人乗り自転車事故",
+      "time": "07:45",
+      "title": "葬儀社との料金トラブル 多発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583258?source=rss",
-      "publishedAt": "2026-06-06T23:38:14.000Z",
-      "xQuery": "パトカー追跡の2人乗り自転車事故"
+      "url": "https://news.yahoo.co.jp/pickup/6583249?source=rss",
+      "publishedAt": "2026-06-06T22:45:33.000Z",
+      "xQuery": "葬儀社との料金トラブル 多発"
     }
   ]
 };
