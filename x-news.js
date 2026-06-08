@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-08T13:55:07.633Z",
+  "updatedAt": "2026-06-08T15:16:59.134Z",
   "items": [
     {
-      "time": "21:43",
-      "title": "フィリピンで地震 30人超が死亡",
+      "time": "20:54",
+      "title": "皇族確保策「総意」案に7党賛成",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583479?source=rss",
-      "publishedAt": "2026-06-08T12:43:34.000Z",
-      "xQuery": "フィリピンで地震 30人超が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6583477?source=rss",
+      "publishedAt": "2026-06-08T11:54:54.000Z",
+      "xQuery": "皇族確保策「総意」案に7党賛成"
     },
     {
-      "time": "22:21",
-      "title": "内田被告 遺族の訴えに表情変えず",
+      "time": "22:15",
+      "title": "イラン 対イスラエル作戦一時停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583487?source=rss",
-      "publishedAt": "2026-06-08T13:21:58.000Z",
-      "xQuery": "内田被告 遺族の訴えに表情変えず"
+      "url": "https://news.yahoo.co.jp/pickup/6583485?source=rss",
+      "publishedAt": "2026-06-08T13:15:49.000Z",
+      "xQuery": "イラン 対イスラエル作戦一時停止"
     },
     {
-      "time": "22:04",
-      "title": "KADOKAWAに公取委が勧告へ",
+      "time": "22:29",
+      "title": "中朝首脳会談 非核化には触れず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583484?source=rss",
-      "publishedAt": "2026-06-08T13:04:13.000Z",
-      "xQuery": "KADOKAWAに公取委が勧告へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583488?source=rss",
+      "publishedAt": "2026-06-08T13:29:04.000Z",
+      "xQuery": "中朝首脳会談 非核化には触れず"
     },
     {
-      "time": "22:28",
-      "title": "商業施設で目や喉の痛み 8人搬送",
+      "time": "23:24",
+      "title": "コンテナ内に刃物2本刺さった遺体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583486?source=rss",
-      "publishedAt": "2026-06-08T13:28:04.000Z",
-      "xQuery": "商業施設で目や喉の痛み 8人搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6583493?source=rss",
+      "publishedAt": "2026-06-08T14:24:33.000Z",
+      "xQuery": "コンテナ内に刃物2本刺さった遺体"
     },
     {
-      "time": "20:15",
-      "title": "腹部と目に刃物刺さった男性 死亡",
+      "time": "22:46",
+      "title": "ブロンコビリーが従業員に株 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583475?source=rss",
-      "publishedAt": "2026-06-08T11:15:55.000Z",
-      "xQuery": "腹部と目に刃物刺さった男性 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6583489?source=rss",
+      "publishedAt": "2026-06-08T13:46:08.000Z",
+      "xQuery": "ブロンコビリーが従業員に株 背景"
     }
   ]
 };
