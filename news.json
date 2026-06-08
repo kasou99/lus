@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T15:16:56.943Z",
+  "updatedAt": "2026-06-08T16:49:10.384Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "pref.kyoto.jp",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Mjd1SHAyU1UtWE1CWV9SdGo3ZmZIOWVXRkY3VFZOSy1iLUdiMmpuaW9HWVJsdkhqSkJyZGkyYnkwWGl3cUI2N2o1bk82OTBFdGVkRERjZzZuSWVsQm9yY0FTMFFoN1k?oc=5",
         "publishedAt": "2026-06-08T10:53:22.000Z"
+      },
+      {
+        "time": "00:36",
+        "title": "(株)岡本工作機械製作所【6125】：現物信用売買内訳時系列",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zQXFia3poam1PQVZuRXZHSWxEam9sQVFZV0d4dGhZVVd2R2xkbFU5bkVqeDNMdHJXMVh6RFhrX3JZR0xkc2FzblVmMHdEblp6akY1enhqcm9peUZsRG04bTZnbjhDXzZoS2xSaU9Fbw?oc=5",
+        "publishedAt": "2026-06-08T15:36:22.000Z"
       },
       {
         "time": "19:12",
@@ -50,13 +57,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
         "publishedAt": "2026-06-08T05:40:15.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "〈富山ものづくり風土記〉（１３）先端技術編（４）キタムラ機械マシニングセンタ 万能機械、スマホ感覚で",
-        "source": "北國新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DcmIwbS13LW1KU0staUtmVzlLcEQwdDVxN3FmQUtoWGdoNmlzUVF1ZldTV25ERk5tN0JDYnZqc1BoN1ppYWNRVmI5TmtIZ0pYaU1oRTltNkRRZw?oc=5",
-        "publishedAt": "2026-06-07T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
