@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-08T23:01:34.058Z",
+  "updatedAt": "2026-06-08T23:54:04.791Z",
   "items": [
     {
-      "time": "20:54",
-      "title": "皇族確保策「総意」案に7党賛成",
+      "time": "08:11",
+      "title": "3文書改定 非核三原則見直し賛否",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583477?source=rss",
-      "publishedAt": "2026-06-08T11:54:54.000Z",
-      "xQuery": "皇族確保策「総意」案に7党賛成"
+      "url": "https://news.yahoo.co.jp/pickup/6583506?source=rss",
+      "publishedAt": "2026-06-08T23:11:13.000Z",
+      "xQuery": "3文書改定 非核三原則見直し賛否"
     },
     {
-      "time": "07:08",
-      "title": "オープンAI 非開示でIPOを申請",
+      "time": "08:38",
+      "title": "OpenAIがIPO申請 企業価値136兆円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583501?source=rss",
-      "publishedAt": "2026-06-08T22:08:49.000Z",
-      "xQuery": "オープンAI 非開示でIPOを申請"
+      "url": "https://news.yahoo.co.jp/pickup/6583512?source=rss",
+      "publishedAt": "2026-06-08T23:38:39.000Z",
+      "xQuery": "OpenAIがIPO申請 企業価値136兆円"
     },
     {
       "time": "07:38",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日韓関係「良い」59%で最高 読売"
     },
     {
-      "time": "21:34",
-      "title": "高3で妊娠 37歳で娘と同じ高校に",
+      "time": "08:25",
+      "title": "子供「110番の家」激減 識者警鐘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583482?source=rss",
-      "publishedAt": "2026-06-08T12:34:09.000Z",
-      "xQuery": "高3で妊娠 37歳で娘と同じ高校に"
+      "url": "https://news.yahoo.co.jp/pickup/6583511?source=rss",
+      "publishedAt": "2026-06-08T23:25:10.000Z",
+      "xQuery": "子供「110番の家」激減 識者警鐘"
     }
   ]
 };

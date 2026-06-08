@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T23:01:33.321Z",
+  "updatedAt": "2026-06-08T23:54:03.863Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "pref.kyoto.jp",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Mjd1SHAyU1UtWE1CWV9SdGo3ZmZIOWVXRkY3VFZOSy1iLUdiMmpuaW9HWVJsdkhqSkJyZGkyYnkwWGl3cUI2N2o1bk82OTBFdGVkRERjZzZuSWVsQm9yY0FTMFFoN1k?oc=5",
         "publishedAt": "2026-06-08T10:53:22.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "中国の補助金投入で｢工作機械の常識｣が変わった 日工会･稲葉会長が語った\"ものづくりの未来\" 3ページ目 | ビジネス",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81OGZ1Q0Vvcmo2c0w4dS03OHUyaDRYUnVqdE1CNF9WaE9SOUxUR2txcWFRQjdrR01MLWlRSmN5TUhtYnEyWV92UEpsYlo0UjFUVkJWRTUydkFSa2c?oc=5",
+        "publishedAt": "2026-06-08T21:00:00.000Z"
       },
       {
         "time": "19:12",
@@ -50,13 +57,6 @@
         "source": "金属産業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16THRhX2ljZnhxUVEzd1NDY3UtWVhIQm1KS21Ual81SllYaXlGcE8wR1k4MXhlZmJza21lV1Fqd19hcGNuNll2aDBKcldDYUdWaGdDOUt2Y08?oc=5",
         "publishedAt": "2026-06-08T00:40:10.000Z"
-      },
-      {
-        "time": "09:30",
-        "title": "画像 | 〈工作機械受注〉4月は驚異の前年比45.1％増､額は1889億円で過去2番目!データセンター関連など空前の受注規模が継続",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wdmN0Q2tXMjE4Zy1yOE1XWmU1cmdaZlVwM0xoWUZJMC1wVVluWS1kZkIzSVBNSDRJei0tazNPbzBEVnhjR0xXVE9jOGZrYkNONUZwakpGcw?oc=5",
-        "publishedAt": "2026-06-08T00:30:00.000Z"
       }
     ],
     "worldHeadlines": [
