@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-08T05:45:40.128Z",
+  "updatedAt": "2026-06-08T08:01:20.403Z",
   "items": [
     {
       "time": "14:16",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "各地で津波観測 父島で20cm"
     },
     {
-      "time": "09:43",
-      "title": "津波注意報 解除まで海から離れて",
+      "time": "16:59",
+      "title": "津波注意報を全て解除 気象庁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583385?source=rss",
-      "publishedAt": "2026-06-08T00:43:58.000Z",
-      "xQuery": "津波注意報 解除まで海から離れて"
+      "url": "https://news.yahoo.co.jp/pickup/6583441?source=rss",
+      "publishedAt": "2026-06-08T07:59:15.000Z",
+      "xQuery": "津波注意報を全て解除 気象庁"
     },
     {
-      "time": "13:12",
-      "title": "比のM8.2地震で建物が倒壊 映像",
+      "time": "16:01",
+      "title": "H3ロケット6号機 打ち上げ延期",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583421?source=rss",
-      "publishedAt": "2026-06-08T04:12:18.000Z",
-      "xQuery": "比のM8.2地震で建物が倒壊 映像"
+      "url": "https://news.yahoo.co.jp/pickup/6583432?source=rss",
+      "publishedAt": "2026-06-08T07:01:33.000Z",
+      "xQuery": "H3ロケット6号機 打ち上げ延期"
     },
     {
-      "time": "11:55",
-      "title": "17歳殺害 内田被告に懲役27年求刑",
+      "time": "15:32",
+      "title": "17歳殺害 法廷に響く父親の訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583404?source=rss",
-      "publishedAt": "2026-06-08T02:55:18.000Z",
-      "xQuery": "17歳殺害 内田被告に懲役27年求刑"
+      "url": "https://news.yahoo.co.jp/pickup/6583430?source=rss",
+      "publishedAt": "2026-06-08T06:32:57.000Z",
+      "xQuery": "17歳殺害 法廷に響く父親の訴え"
     },
     {
-      "time": "12:39",
-      "title": "若者騒ぎ100人見物 事故で1人重体",
+      "time": "16:40",
+      "title": "ポケカ購入 マイナカード導入へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583417?source=rss",
-      "publishedAt": "2026-06-08T03:39:52.000Z",
-      "xQuery": "若者騒ぎ100人見物 事故で1人重体"
+      "url": "https://news.yahoo.co.jp/pickup/6583436?source=rss",
+      "publishedAt": "2026-06-08T07:40:18.000Z",
+      "xQuery": "ポケカ購入 マイナカード導入へ"
     }
   ]
 };
