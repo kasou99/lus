@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-08T10:04:16.706Z",
+  "updatedAt": "2026-06-08T12:10:14.350Z",
   "items": [
     {
-      "time": "18:35",
-      "title": "秋葉原殺傷から18年 現場では献花",
+      "time": "19:22",
+      "title": "フィリピン南部沖で地震 19人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583466?source=rss",
-      "publishedAt": "2026-06-08T09:35:16.000Z",
-      "xQuery": "秋葉原殺傷から18年 現場では献花"
+      "url": "https://news.yahoo.co.jp/pickup/6583470?source=rss",
+      "publishedAt": "2026-06-08T10:22:53.000Z",
+      "xQuery": "フィリピン南部沖で地震 19人死亡"
     },
     {
-      "time": "18:15",
-      "title": "NTT アイオンAIファンド設立方針",
+      "time": "19:33",
+      "title": "九電送配電 顧客情報入りSSD紛失",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583463?source=rss",
-      "publishedAt": "2026-06-08T09:15:38.000Z",
-      "xQuery": "NTT アイオンAIファンド設立方針"
+      "url": "https://news.yahoo.co.jp/pickup/6583471?source=rss",
+      "publishedAt": "2026-06-08T10:33:55.000Z",
+      "xQuery": "九電送配電 顧客情報入りSSD紛失"
     },
     {
-      "time": "17:40",
-      "title": "トランプ氏の共和党 離反が拡大",
+      "time": "20:15",
+      "title": "腹部と目に刃物刺さった男性 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583448?source=rss",
-      "publishedAt": "2026-06-08T08:40:25.000Z",
-      "xQuery": "トランプ氏の共和党 離反が拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6583475?source=rss",
+      "publishedAt": "2026-06-08T11:15:55.000Z",
+      "xQuery": "腹部と目に刃物刺さった男性 死亡"
+    },
+    {
+      "time": "20:20",
+      "title": "教諭から叱責後に子自殺 母の怒り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583473?source=rss",
+      "publishedAt": "2026-06-08T11:20:59.000Z",
+      "xQuery": "教諭から叱責後に子自殺 母の怒り"
     },
     {
       "time": "18:29",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583465?source=rss",
       "publishedAt": "2026-06-08T09:29:44.000Z",
       "xQuery": "「退職金」縮小や廃止 なぜ広がる"
-    },
-    {
-      "time": "18:02",
-      "title": "浄水場で作業中に生き埋め 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583460?source=rss",
-      "publishedAt": "2026-06-08T09:02:38.000Z",
-      "xQuery": "浄水場で作業中に生き埋め 死亡"
     }
   ]
 };

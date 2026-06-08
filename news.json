@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-06-08T10:04:15.951Z",
+  "updatedAt": "2026-06-08T12:10:13.908Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "18:45",
-        "title": "設備保全クラウド『EMLink』モバイルアプリを大幅アップデート",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05Nm1VZEsyUExTZjB3S1BGY3ZNVWhxNm5BejFQYkF5bmFwVUhldW5zU0VoQ2J4RktrZloyRUxEdWEwLTlOTUQ3eWZVdDFNcU45NVFLN3Zodnd6YWlyTHFIeXFoRzJ6Q3Z3a3FTZUNYdEo0bE9abkQ1LWRFQQ?oc=5",
-        "publishedAt": "2026-06-08T09:45:17.000Z"
-      },
-      {
-        "time": "17:32",
-        "title": "強みは多様な要望に応える技術 共立精機（宇都宮）の柿島章浩社長",
-        "source": "下野新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wcDVYdWQ5YUloN2ZkZExWVlFiNDRoeVJMTmJiWFU1Zmlsd0p6MVBQQ3V1M3h3LTR0NEpyeHIxU2hNNUl3NkRDYm5BdHR4MW1ham8tWlp4QUEwVnM?oc=5",
-        "publishedAt": "2026-06-08T08:32:01.000Z"
+        "time": "10:00",
+        "title": "設備保全クラウド『EMLink』モバイルアプリを大幅アップデート — ローカルLLMを本実装、Android対応、点検の写真・メモ統合、スケジュール自動割当機能を追加",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UTkJxa0VCZTBtN3l4UllVcEg5V1pVY0RkMm9ndVA5NXZ6OXRkcHBqTVJIWGNWejUxa25QOTlFOVduZUlmaUpUQmNNS0l3UlNDYktNU0FWb3FJUVg4RzNxX1JrQVM2OW5mUWc?oc=5",
+        "publishedAt": "2026-06-08T01:00:02.000Z"
       },
       {
         "time": "05:00",
@@ -24,11 +17,25 @@
         "publishedAt": "2026-06-07T20:00:58.000Z"
       },
       {
+        "time": "17:32",
+        "title": "強みは多様な要望に応える技術 共立精機（宇都宮）の柿島章浩社長",
+        "source": "下野新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wcDVYdWQ5YUloN2ZkZExWVlFiNDRoeVJMTmJiWFU1Zmlsd0p6MVBQQ3V1M3h3LTR0NEpyeHIxU2hNNUl3NkRDYm5BdHR4MW1ham8tWlp4QUEwVnM?oc=5",
+        "publishedAt": "2026-06-08T08:32:01.000Z"
+      },
+      {
         "time": "09:40",
         "title": "４月工作機械、記録的な伸び",
         "source": "金属産業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16THRhX2ljZnhxUVEzd1NDY3UtWVhIQm1KS21Ual81SllYaXlGcE8wR1k4MXhlZmJza21lV1Fqd19hcGNuNll2aDBKcldDYUdWaGdDOUt2Y08?oc=5",
         "publishedAt": "2026-06-08T00:40:10.000Z"
+      },
+      {
+        "time": "17:30",
+        "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kSDB3bkF6YkFjX2xOOG9ZQlpCa1E1aGg5VTBaRU82enV5UjZXSVhKMkhPQlN1LTIyNjRoWE1fSkJmMWhYSm1TWmtlaTZiYWFVNlJtSDhHX2lEUTJHQ0xVUjFqdE8?oc=5",
+        "publishedAt": "2026-06-08T08:30:52.000Z"
       },
       {
         "time": "14:40",
@@ -38,11 +45,11 @@
         "publishedAt": "2026-06-08T05:40:15.000Z"
       },
       {
-        "time": "08:00",
+        "time": "09:30",
         "title": "画像 | 〈工作機械受注〉4月は驚異の前年比45.1％増､額は1889億円で過去2番目!データセンター関連など空前の受注規模が継続",
         "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oMjltb1B1YzRfbUFnM29lSlVCUjlYb1V4YVRxRml3RHVFaGEzSGZfVHFvVENpSEpuX1M0Wmk3YmdHdGtYZmxkdVJGUzhlelcyUDZ4RkZsRC13clk2S1E?oc=5",
-        "publishedAt": "2026-06-07T23:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wdmN0Q2tXMjE4Zy1yOE1XWmU1cmdaZlVwM0xoWUZJMC1wVVluWS1kZkIzSVBNSDRJei0tazNPbzBEVnhjR0xXVE9jOGZrYkNONUZwakpGcw?oc=5",
+        "publishedAt": "2026-06-08T00:30:00.000Z"
       },
       {
         "time": "05:00",
@@ -50,16 +57,16 @@
         "source": "北國新聞",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DcmIwbS13LW1KU0staUtmVzlLcEQwdDVxN3FmQUtoWGdoNmlzUVF1ZldTV25ERk5tN0JDYnZqc1BoN1ppYWNRVmI5TmtIZ0pYaU1oRTltNkRRZw?oc=5",
         "publishedAt": "2026-06-07T20:00:00.000Z"
-      },
-      {
-        "time": "09:00",
-        "title": "30mm幅で省スペース化に寄与 デルタ電子のDINレール型電源：－40℃の低温起動に対応",
-        "source": "EDN Japan",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMUjBSUktZbl83S0FZeXV4RUZxNXFqZlNrcVpYcUtKRnJ4eXc2WlhOQm5rN0gxakE2ZWVCQlhMOU5adnpfVTl1RlJUNXJjMlNkVWE2UUpQY2YxSG0waWh5dzlzajhLemtxOWFv?oc=5",
-        "publishedAt": "2026-06-08T00:00:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "19:22",
+        "title": "フィリピン南部沖で地震 19人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583470?source=rss",
+        "publishedAt": "2026-06-08T10:22:53.000Z"
+      },
       {
         "time": "13:12",
         "title": "比のM8.2地震で建物が倒壊 映像",
@@ -68,25 +75,11 @@
         "publishedAt": "2026-06-08T04:12:18.000Z"
       },
       {
-        "time": "11:20",
-        "title": "比でM8.2地震 直後に建物崩れる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583400?source=rss",
-        "publishedAt": "2026-06-08T02:20:39.000Z"
-      },
-      {
         "time": "17:40",
         "title": "トランプ氏の共和党 離反が拡大",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583448?source=rss",
         "publishedAt": "2026-06-08T08:40:25.000Z"
-      },
-      {
-        "time": "12:36",
-        "title": "習氏が北朝鮮到着 正恩氏と会談へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583413?source=rss",
-        "publishedAt": "2026-06-08T03:36:02.000Z"
       },
       {
         "time": "08:13",
@@ -101,15 +94,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583360?source=rss",
         "publishedAt": "2026-06-07T21:47:18.000Z"
+      },
+      {
+        "time": "20:33",
+        "title": "エボラ巡りケニアで抗議デモ 背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583445?source=rss",
+        "publishedAt": "2026-06-08T11:33:42.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "10:39",
-        "title": "日経平均株価 下げ幅一時3000円超",
+        "time": "19:33",
+        "title": "九電送配電 顧客情報入りSSD紛失",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583395?source=rss",
-        "publishedAt": "2026-06-08T01:39:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583471?source=rss",
+        "publishedAt": "2026-06-08T10:33:55.000Z"
       },
       {
         "time": "14:42",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-08T06:32:57.000Z"
       },
       {
-        "time": "18:02",
-        "title": "浄水場で作業中に生き埋め 死亡",
+        "time": "20:20",
+        "title": "教諭から叱責後に子自殺 母の怒り",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583460?source=rss",
-        "publishedAt": "2026-06-08T09:02:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583473?source=rss",
+        "publishedAt": "2026-06-08T11:20:59.000Z"
       },
       {
-        "time": "18:01",
-        "title": "37歳母 娘通う学校で高3やり直し",
+        "time": "20:15",
+        "title": "腹部と目に刃物刺さった男性 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583446?source=rss",
-        "publishedAt": "2026-06-08T09:01:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583475?source=rss",
+        "publishedAt": "2026-06-08T11:15:55.000Z"
       }
     ],
     "subsidyHeadlines": [
