@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T02:25:52.440Z",
+  "updatedAt": "2026-06-08T03:50:46.287Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-06-08T00:00:00.000Z"
       },
       {
+        "time": "12:00",
+        "title": "フエスト、衛生環境向け駆動システム 高精度制御と両立",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwZUFSMWJMak84RU5EbngyMEtSdEUwZXZoSUZXRE50MTRJa29HWWk4M2duQnFJdERlNm9CTngxT3plMEJsbW1HU1ZGUktnbXZmdVg0cGZQVjUzREE?oc=5",
+        "publishedAt": "2026-06-08T03:00:00.000Z"
+      },
+      {
         "time": "08:24",
         "title": "日銀、6月利上げ濃厚に 金融市場織り込み済み",
         "source": "日刊工業新聞",
@@ -50,22 +57,29 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zUDdhdFdOU1lhdXZLMEhZMHhJczJNcnJJd2ZXVlMyMXgwVGpBUXhaVGJYVkRYQlR5cklxelZJQzZ3eU9Hc0hjMWN1UzdBamxvbW9Xa1JTZ0k3ekE?oc=5",
         "publishedAt": "2026-06-07T20:02:11.000Z"
-      },
-      {
-        "time": "05:10",
-        "title": "兵庫県、ソフトバンクと連携 AX推進・地域創生",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zLUJlb0R2OUZ1MnJncnRMRjdWSnJmaldlYUlqNlptTkVRRF91WlpOeXU3SzRGRmw2ZW1ENEkzRmpLV2YxWS1qUjkyS1pkTW1WZDhkdGNLeC1jXzFtLXBGbDd3b29MVmZWci1LWnZ4QkxHTngx?oc=5",
-        "publishedAt": "2026-06-07T20:10:38.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "12:48",
+        "title": "映像 比のM8.2地震で建物が倒壊",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583416?source=rss",
+        "publishedAt": "2026-06-08T03:48:37.000Z"
+      },
       {
         "time": "11:20",
         "title": "比でM8.2地震 直後に建物崩れる",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583400?source=rss",
         "publishedAt": "2026-06-08T02:20:39.000Z"
+      },
+      {
+        "time": "12:36",
+        "title": "習氏が北朝鮮到着 正恩氏と会談へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583413?source=rss",
+        "publishedAt": "2026-06-08T03:36:02.000Z"
       },
       {
         "time": "08:13",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583340?source=rss",
         "publishedAt": "2026-06-07T12:04:34.000Z"
-      },
-      {
-        "time": "22:19",
-        "title": "イスラエル 米高官への盗聴疑惑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583347?source=rss",
-        "publishedAt": "2026-06-07T13:19:53.000Z"
-      },
-      {
-        "time": "07:28",
-        "title": "習近平主席 きょう7年ぶり訪朝へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583364?source=rss",
-        "publishedAt": "2026-06-07T22:28:16.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "21:57",
-        "title": "名古屋死亡ひき逃げ事件 男を逮捕",
+        "time": "11:55",
+        "title": "17歳殺害 内田被告に懲役27年求刑",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583345?source=rss",
-        "publishedAt": "2026-06-07T12:57:49.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583404?source=rss",
+        "publishedAt": "2026-06-08T02:55:18.000Z"
       },
       {
         "time": "23:52",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-06-07T21:39:44.000Z"
       },
       {
-        "time": "18:39",
-        "title": "京都で米20歳遺体発見 事件性なし",
+        "time": "12:39",
+        "title": "若者騒ぎ100人見物 事故で1人重体",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583326?source=rss",
-        "publishedAt": "2026-06-07T09:39:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583417?source=rss",
+        "publishedAt": "2026-06-08T03:39:52.000Z"
       },
       {
         "time": "10:30",

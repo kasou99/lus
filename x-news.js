@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-08T02:25:53.320Z",
+  "updatedAt": "2026-06-08T03:50:47.081Z",
   "items": [
-    {
-      "time": "10:50",
-      "title": "沖縄～関東に津波注意報 最新情報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583396?source=rss",
-      "publishedAt": "2026-06-08T01:50:03.000Z",
-      "xQuery": "沖縄～関東に津波注意報 最新情報"
-    },
     {
       "time": "09:43",
       "title": "津波注意報 解除まで海から離れて",
@@ -18,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "津波注意報 解除まで海から離れて"
     },
     {
-      "time": "10:02",
-      "title": "各地の津波到達予想時刻 最大1m",
+      "time": "12:17",
+      "title": "津波注意報 長時間継続の可能性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583387?source=rss",
-      "publishedAt": "2026-06-08T01:02:24.000Z",
-      "xQuery": "各地の津波到達予想時刻 最大1m"
+      "url": "https://news.yahoo.co.jp/pickup/6583408?source=rss",
+      "publishedAt": "2026-06-08T03:17:13.000Z",
+      "xQuery": "津波注意報 長時間継続の可能性"
     },
     {
       "time": "11:20",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583375?source=rss",
       "publishedAt": "2026-06-08T01:21:06.000Z",
       "xQuery": "高市内閣の支持率70.0% JNN調査"
+    },
+    {
+      "time": "11:55",
+      "title": "17歳殺害 内田被告に懲役27年求刑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583404?source=rss",
+      "publishedAt": "2026-06-08T02:55:18.000Z",
+      "xQuery": "17歳殺害 内田被告に懲役27年求刑"
     }
   ]
 };
