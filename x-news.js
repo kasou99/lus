@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-08T22:06:56.641Z",
+  "updatedAt": "2026-06-08T23:01:34.058Z",
   "items": [
     {
       "time": "20:54",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "皇族確保策「総意」案に7党賛成"
     },
     {
-      "time": "22:15",
-      "title": "イラン 対イスラエル作戦一時停止",
+      "time": "07:08",
+      "title": "オープンAI 非開示でIPOを申請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583485?source=rss",
-      "publishedAt": "2026-06-08T13:15:49.000Z",
-      "xQuery": "イラン 対イスラエル作戦一時停止"
+      "url": "https://news.yahoo.co.jp/pickup/6583501?source=rss",
+      "publishedAt": "2026-06-08T22:08:49.000Z",
+      "xQuery": "オープンAI 非開示でIPOを申請"
+    },
+    {
+      "time": "07:38",
+      "title": "公明政党要件失う可能性 合流検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583505?source=rss",
+      "publishedAt": "2026-06-08T22:38:42.000Z",
+      "xQuery": "公明政党要件失う可能性 合流検討"
     },
     {
       "time": "06:46",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583498?source=rss",
       "publishedAt": "2026-06-08T21:46:05.000Z",
       "xQuery": "日韓関係「良い」59%で最高 読売"
-    },
-    {
-      "time": "06:08",
-      "title": "車3台絡む事故 生後8カ月男児重体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583496?source=rss",
-      "publishedAt": "2026-06-08T21:08:33.000Z",
-      "xQuery": "車3台絡む事故 生後8カ月男児重体"
     },
     {
       "time": "21:34",
