@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-07T23:30:54.572Z",
+  "updatedAt": "2026-06-08T01:17:17.991Z",
   "items": [
     {
-      "time": "08:13",
-      "title": "米大統領 イスラエルに自制求める",
+      "time": "09:21",
+      "title": "津波注意報 沖縄～関東の太平洋側",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583370?source=rss",
-      "publishedAt": "2026-06-07T23:13:58.000Z",
-      "xQuery": "米大統領 イスラエルに自制求める"
+      "url": "https://news.yahoo.co.jp/pickup/6583379?source=rss",
+      "publishedAt": "2026-06-08T00:21:09.000Z",
+      "xQuery": "津波注意報 沖縄～関東の太平洋側"
     },
     {
-      "time": "07:51",
-      "title": "特殊車両の重量超過 対応を強化へ",
+      "time": "10:02",
+      "title": "各地の津波到達予想時刻 最大1m",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583367?source=rss",
-      "publishedAt": "2026-06-07T22:51:43.000Z",
-      "xQuery": "特殊車両の重量超過 対応を強化へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583387?source=rss",
+      "publishedAt": "2026-06-08T01:02:24.000Z",
+      "xQuery": "各地の津波到達予想時刻 最大1m"
     },
     {
-      "time": "06:21",
-      "title": "女児1人で来店と通報 母と男逮捕",
+      "time": "09:43",
+      "title": "津波注意報 解除まで海から離れて",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583357?source=rss",
-      "publishedAt": "2026-06-07T21:21:55.000Z",
-      "xQuery": "女児1人で来店と通報 母と男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6583385?source=rss",
+      "publishedAt": "2026-06-08T00:43:58.000Z",
+      "xQuery": "津波注意報 解除まで海から離れて"
     },
     {
-      "time": "06:39",
-      "title": "ボンネットに店員乗せ走行 車逃走",
+      "time": "09:43",
+      "title": "フィリピン沖でM7.8の地震",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583359?source=rss",
-      "publishedAt": "2026-06-07T21:39:44.000Z",
-      "xQuery": "ボンネットに店員乗せ走行 車逃走"
+      "url": "https://news.yahoo.co.jp/pickup/6583383?source=rss",
+      "publishedAt": "2026-06-08T00:43:18.000Z",
+      "xQuery": "フィリピン沖でM7.8の地震"
     },
     {
-      "time": "07:16",
-      "title": "クマ 宇都宮市立の全小中学休校",
+      "time": "07:47",
+      "title": "セブン なぜ店舗「ワンオペ」検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583362?source=rss",
-      "publishedAt": "2026-06-07T22:16:56.000Z",
-      "xQuery": "クマ 宇都宮市立の全小中学休校"
+      "url": "https://news.yahoo.co.jp/pickup/6583366?source=rss",
+      "publishedAt": "2026-06-07T22:47:40.000Z",
+      "xQuery": "セブン なぜ店舗「ワンオペ」検討"
     }
   ]
 };
