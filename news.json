@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T19:20:07.642Z",
+  "updatedAt": "2026-06-08T20:19:11.734Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-06-08T10:12:00.000Z"
       },
       {
+        "time": "23:32",
+        "title": "強みは多様な要望に応える技術 共立精機（宇都宮）の柿島章浩社長",
+        "source": "下野新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wcDVYdWQ5YUloN2ZkZExWVlFiNDRoeVJMTmJiWFU1Zmlsd0p6MVBQQ3V1M3h3LTR0NEpyeHIxU2hNNUl3NkRDYm5BdHR4MW1ham8tWlp4QUEwVnM?oc=5",
+        "publishedAt": "2026-06-08T14:32:04.000Z"
+      },
+      {
         "time": "10:00",
         "title": "設備保全クラウド『EMLink』モバイルアプリを大幅アップデート — ローカルLLMを本実装、Android対応、点検の写真・メモ統合、スケジュール自動割当機能を追加",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UTkJxa0VCZTBtN3l4UllVcEg5V1pVY0RkMm9ndVA5NXZ6OXRkcHBqTVJIWGNWejUxa25QOTlFOVduZUlmaUpUQmNNS0l3UlNDYktNU0FWb3FJUVg4RzNxX1JrQVM2OW5mUWc?oc=5",
         "publishedAt": "2026-06-08T01:00:02.000Z"
-      },
-      {
-        "time": "05:10",
-        "title": "工作機械好調、半導体・DC向け商機 米中がけん引",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VY0JFc1dtOXRRdXFQdVZqU19VMnpKUWtLbloybUJQRU90cE1LUWtOLVRyaTREcmpNbjN5eXQtdEdxS3hYY0ZETkF3dGZQVHVpbVYtcVNtSkM4WmNvY1V5b29QdGVuVVBZa0J5ZF9ybWhQYmZC?oc=5",
-        "publishedAt": "2026-06-07T20:10:41.000Z"
       },
       {
         "time": "09:40",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-08T00:40:10.000Z"
       },
       {
-        "time": "09:30",
-        "title": "画像 | 〈工作機械受注〉4月は驚異の前年比45.1％増､額は1889億円で過去2番目!データセンター関連など空前の受注規模が継続",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wdmN0Q2tXMjE4Zy1yOE1XWmU1cmdaZlVwM0xoWUZJMC1wVVluWS1kZkIzSVBNSDRJei0tazNPbzBEVnhjR0xXVE9jOGZrYkNONUZwakpGcw?oc=5",
-        "publishedAt": "2026-06-08T00:30:00.000Z"
-      },
-      {
         "time": "14:40",
         "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
         "publishedAt": "2026-06-08T05:40:15.000Z"
+      },
+      {
+        "time": "08:00",
+        "title": "画像 | 〈工作機械受注〉4月は驚異の前年比45.1％増､額は1889億円で過去2番目!データセンター関連など空前の受注規模が継続",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oMjltb1B1YzRfbUFnM29lSlVCUjlYb1V4YVRxRml3RHVFaGEzSGZfVHFvVENpSEpuX1M0Wmk3YmdHdGtYZmxkdVJGUzhlelcyUDZ4RkZsRC13clk2S1E?oc=5",
+        "publishedAt": "2026-06-07T23:00:00.000Z"
       }
     ],
     "worldHeadlines": [
