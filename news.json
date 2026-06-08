@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T20:19:11.734Z",
+  "updatedAt": "2026-06-08T21:15:58.396Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-06-08T10:12:00.000Z"
       },
       {
-        "time": "23:32",
-        "title": "強みは多様な要望に応える技術 共立精機（宇都宮）の柿島章浩社長",
-        "source": "下野新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wcDVYdWQ5YUloN2ZkZExWVlFiNDRoeVJMTmJiWFU1Zmlsd0p6MVBQQ3V1M3h3LTR0NEpyeHIxU2hNNUl3NkRDYm5BdHR4MW1ham8tWlp4QUEwVnM?oc=5",
-        "publishedAt": "2026-06-08T14:32:04.000Z"
-      },
-      {
         "time": "10:00",
         "title": "設備保全クラウド『EMLink』モバイルアプリを大幅アップデート — ローカルLLMを本実装、Android対応、点検の写真・メモ統合、スケジュール自動割当機能を追加",
         "source": "PR TIMES",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-06-08T05:40:15.000Z"
       },
       {
-        "time": "08:00",
+        "time": "09:30",
         "title": "画像 | 〈工作機械受注〉4月は驚異の前年比45.1％増､額は1889億円で過去2番目!データセンター関連など空前の受注規模が継続",
         "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oMjltb1B1YzRfbUFnM29lSlVCUjlYb1V4YVRxRml3RHVFaGEzSGZfVHFvVENpSEpuX1M0Wmk3YmdHdGtYZmxkdVJGUzhlelcyUDZ4RkZsRC13clk2S1E?oc=5",
-        "publishedAt": "2026-06-07T23:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wdmN0Q2tXMjE4Zy1yOE1XWmU1cmdaZlVwM0xoWUZJMC1wVVluWS1kZkIzSVBNSDRJei0tazNPbzBEVnhjR0xXVE9jOGZrYkNONUZwakpGcw?oc=5",
+        "publishedAt": "2026-06-08T00:30:00.000Z"
+      },
+      {
+        "time": "17:30",
+        "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kSDB3bkF6YkFjX2xOOG9ZQlpCa1E1aGg5VTBaRU82enV5UjZXSVhKMkhPQlN1LTIyNjRoWE1fSkJmMWhYSm1TWmtlaTZiYWFVNlJtSDhHX2lEUTJHQ0xVUjFqdE8?oc=5",
+        "publishedAt": "2026-06-08T08:30:52.000Z"
       }
     ],
     "worldHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-08T14:24:33.000Z"
       },
       {
-        "time": "18:02",
-        "title": "浄水場で作業中に生き埋め 死亡",
+        "time": "06:08",
+        "title": "車3台絡む事故 生後8カ月男児重体",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583460?source=rss",
-        "publishedAt": "2026-06-08T09:02:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583496?source=rss",
+        "publishedAt": "2026-06-08T21:08:33.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-08T20:19:12.580Z",
+  "updatedAt": "2026-06-08T21:15:59.170Z",
   "items": [
     {
       "time": "20:54",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "コンテナ内に刃物2本刺さった遺体"
     },
     {
-      "time": "22:46",
-      "title": "ブロンコビリーが従業員に株 背景",
+      "time": "06:08",
+      "title": "車3台絡む事故 生後8カ月男児重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583489?source=rss",
-      "publishedAt": "2026-06-08T13:46:08.000Z",
-      "xQuery": "ブロンコビリーが従業員に株 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6583496?source=rss",
+      "publishedAt": "2026-06-08T21:08:33.000Z",
+      "xQuery": "車3台絡む事故 生後8カ月男児重体"
     }
   ]
 };
