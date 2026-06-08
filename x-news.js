@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-08T08:01:20.403Z",
+  "updatedAt": "2026-06-08T10:04:16.706Z",
   "items": [
     {
-      "time": "14:16",
-      "title": "各地で津波観測 父島で20cm",
+      "time": "18:35",
+      "title": "秋葉原殺傷から18年 現場では献花",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583427?source=rss",
-      "publishedAt": "2026-06-08T05:16:17.000Z",
-      "xQuery": "各地で津波観測 父島で20cm"
+      "url": "https://news.yahoo.co.jp/pickup/6583466?source=rss",
+      "publishedAt": "2026-06-08T09:35:16.000Z",
+      "xQuery": "秋葉原殺傷から18年 現場では献花"
     },
     {
-      "time": "16:59",
-      "title": "津波注意報を全て解除 気象庁",
+      "time": "18:15",
+      "title": "NTT アイオンAIファンド設立方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583441?source=rss",
-      "publishedAt": "2026-06-08T07:59:15.000Z",
-      "xQuery": "津波注意報を全て解除 気象庁"
+      "url": "https://news.yahoo.co.jp/pickup/6583463?source=rss",
+      "publishedAt": "2026-06-08T09:15:38.000Z",
+      "xQuery": "NTT アイオンAIファンド設立方針"
     },
     {
-      "time": "16:01",
-      "title": "H3ロケット6号機 打ち上げ延期",
+      "time": "17:40",
+      "title": "トランプ氏の共和党 離反が拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583432?source=rss",
-      "publishedAt": "2026-06-08T07:01:33.000Z",
-      "xQuery": "H3ロケット6号機 打ち上げ延期"
+      "url": "https://news.yahoo.co.jp/pickup/6583448?source=rss",
+      "publishedAt": "2026-06-08T08:40:25.000Z",
+      "xQuery": "トランプ氏の共和党 離反が拡大"
     },
     {
-      "time": "15:32",
-      "title": "17歳殺害 法廷に響く父親の訴え",
+      "time": "18:29",
+      "title": "「退職金」縮小や廃止 なぜ広がる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583430?source=rss",
-      "publishedAt": "2026-06-08T06:32:57.000Z",
-      "xQuery": "17歳殺害 法廷に響く父親の訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6583465?source=rss",
+      "publishedAt": "2026-06-08T09:29:44.000Z",
+      "xQuery": "「退職金」縮小や廃止 なぜ広がる"
     },
     {
-      "time": "16:40",
-      "title": "ポケカ購入 マイナカード導入へ",
+      "time": "18:02",
+      "title": "浄水場で作業中に生き埋め 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583436?source=rss",
-      "publishedAt": "2026-06-08T07:40:18.000Z",
-      "xQuery": "ポケカ購入 マイナカード導入へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583460?source=rss",
+      "publishedAt": "2026-06-08T09:02:38.000Z",
+      "xQuery": "浄水場で作業中に生き埋め 死亡"
     }
   ]
 };

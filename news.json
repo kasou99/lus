@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-06-08T08:01:19.657Z",
+  "updatedAt": "2026-06-08T10:04:15.951Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "18:45",
+        "title": "設備保全クラウド『EMLink』モバイルアプリを大幅アップデート",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05Nm1VZEsyUExTZjB3S1BGY3ZNVWhxNm5BejFQYkF5bmFwVUhldW5zU0VoQ2J4RktrZloyRUxEdWEwLTlOTUQ3eWZVdDFNcU45NVFLN3Zodnd6YWlyTHFIeXFoRzJ6Q3Z3a3FTZUNYdEo0bE9abkQ1LWRFQQ?oc=5",
+        "publishedAt": "2026-06-08T09:45:17.000Z"
+      },
+      {
+        "time": "17:32",
+        "title": "強みは多様な要望に応える技術 共立精機（宇都宮）の柿島章浩社長",
+        "source": "下野新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wcDVYdWQ5YUloN2ZkZExWVlFiNDRoeVJMTmJiWFU1Zmlsd0p6MVBQQ3V1M3h3LTR0NEpyeHIxU2hNNUl3NkRDYm5BdHR4MW1ham8tWlp4QUEwVnM?oc=5",
+        "publishedAt": "2026-06-08T08:32:01.000Z"
+      },
       {
         "time": "05:00",
         "title": "工作機械好調、半導体・DC向け商機 米中がけん引",
@@ -24,18 +38,11 @@
         "publishedAt": "2026-06-08T05:40:15.000Z"
       },
       {
-        "time": "13:45",
-        "title": "設備保全クラウド『EMLink』モバイルアプリを大幅アップデート - ローカルLLMを本実装、Android対応、点検の写真・メモ統合、スケジュール自動割当機能を追加",
-        "source": "RBB TODAY",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Mb2ZWdXpVNFVEVThZSmp4cmlsb2R5ZXI3dXNoRkZPZml3Y1JxMnF3Z2Q2ckxxekVSVFFZdEpMQWRKSlozRVJhQ2R3OThBS3RvLWNtOEhkWmlJZlJsWklzNVdua2dVbXhpYjRzWm1EWjdmbk1NS3lIcg?oc=5",
-        "publishedAt": "2026-06-08T04:45:57.000Z"
-      },
-      {
-        "time": "11:32",
-        "title": "強みは多様な要望に応える技術 共立精機（宇都宮）の柿島章浩社長",
-        "source": "下野新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wcDVYdWQ5YUloN2ZkZExWVlFiNDRoeVJMTmJiWFU1Zmlsd0p6MVBQQ3V1M3h3LTR0NEpyeHIxU2hNNUl3NkRDYm5BdHR4MW1ham8tWlp4QUEwVnM?oc=5",
-        "publishedAt": "2026-06-08T02:32:01.000Z"
+        "time": "08:00",
+        "title": "画像 | 〈工作機械受注〉4月は驚異の前年比45.1％増､額は1889億円で過去2番目!データセンター関連など空前の受注規模が継続",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oMjltb1B1YzRfbUFnM29lSlVCUjlYb1V4YVRxRml3RHVFaGEzSGZfVHFvVENpSEpuX1M0Wmk3YmdHdGtYZmxkdVJGUzhlelcyUDZ4RkZsRC13clk2S1E?oc=5",
+        "publishedAt": "2026-06-07T23:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "EDN Japan",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMUjBSUktZbl83S0FZeXV4RUZxNXFqZlNrcVpYcUtKRnJ4eXc2WlhOQm5rN0gxakE2ZWVCQlhMOU5adnpfVTl1RlJUNXJjMlNkVWE2UUpQY2YxSG0waWh5dzlzajhLemtxOWFv?oc=5",
         "publishedAt": "2026-06-08T00:00:00.000Z"
-      },
-      {
-        "time": "05:01",
-        "title": "工作機械受注の今年見通し 2兆円に上方修正 日工会",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zVXJwQWV4S0d2TkdwOS1sc1R6QjZmRy1UUkk2RHZyMktGN0luNk1uS3FaeEhGUkJjb29YdWUwc2NVa1JXTFQ4c2VCSmVwV3l1MUd1MnhYTDRSMkk?oc=5",
-        "publishedAt": "2026-06-07T20:01:58.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583400?source=rss",
         "publishedAt": "2026-06-08T02:20:39.000Z"
+      },
+      {
+        "time": "17:40",
+        "title": "トランプ氏の共和党 離反が拡大",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583448?source=rss",
+        "publishedAt": "2026-06-08T08:40:25.000Z"
       },
       {
         "time": "12:36",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583360?source=rss",
         "publishedAt": "2026-06-07T21:47:18.000Z"
-      },
-      {
-        "time": "21:04",
-        "title": "湾岸諸国復興にイラン資産 米検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583340?source=rss",
-        "publishedAt": "2026-06-07T12:04:34.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,27 +133,34 @@
         "publishedAt": "2026-06-07T10:12:06.000Z"
       },
       {
+        "time": "18:29",
+        "title": "「退職金」縮小や廃止 なぜ広がる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583465?source=rss",
+        "publishedAt": "2026-06-08T09:29:44.000Z"
+      },
+      {
         "time": "07:47",
         "title": "セブン なぜ店舗「ワンオペ」検討",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583366?source=rss",
         "publishedAt": "2026-06-07T22:47:40.000Z"
-      },
-      {
-        "time": "14:14",
-        "title": "TDSで座り込み飲食 運営側の対応",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583426?source=rss",
-        "publishedAt": "2026-06-08T05:14:11.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "14:11",
-        "title": "今も涙 池田小殺傷当時の刑事部長",
+        "time": "18:35",
+        "title": "秋葉原殺傷から18年 現場では献花",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583425?source=rss",
-        "publishedAt": "2026-06-08T05:11:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583466?source=rss",
+        "publishedAt": "2026-06-08T09:35:16.000Z"
+      },
+      {
+        "time": "17:55",
+        "title": "軽井沢バス事故 社長禁錮3年確定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583444?source=rss",
+        "publishedAt": "2026-06-08T08:55:53.000Z"
       },
       {
         "time": "11:55",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-06-08T06:32:57.000Z"
       },
       {
-        "time": "06:21",
-        "title": "女児1人で来店と通報 母と男逮捕",
+        "time": "18:02",
+        "title": "浄水場で作業中に生き埋め 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583357?source=rss",
-        "publishedAt": "2026-06-07T21:21:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583460?source=rss",
+        "publishedAt": "2026-06-08T09:02:38.000Z"
       },
       {
-        "time": "06:39",
-        "title": "ボンネットに店員乗せ走行 車逃走",
+        "time": "18:01",
+        "title": "37歳母 娘通う学校で高3やり直し",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583359?source=rss",
-        "publishedAt": "2026-06-07T21:39:44.000Z"
-      },
-      {
-        "time": "12:39",
-        "title": "若者騒ぎ100人見物 事故で1人重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583417?source=rss",
-        "publishedAt": "2026-06-08T03:39:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583446?source=rss",
+        "publishedAt": "2026-06-08T09:01:24.000Z"
       }
     ],
     "subsidyHeadlines": [
