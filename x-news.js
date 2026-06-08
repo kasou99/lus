@@ -1,21 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-08T12:10:14.350Z",
+  "updatedAt": "2026-06-08T13:55:07.633Z",
   "items": [
     {
-      "time": "19:22",
-      "title": "フィリピン南部沖で地震 19人死亡",
+      "time": "21:43",
+      "title": "フィリピンで地震 30人超が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583470?source=rss",
-      "publishedAt": "2026-06-08T10:22:53.000Z",
-      "xQuery": "フィリピン南部沖で地震 19人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6583479?source=rss",
+      "publishedAt": "2026-06-08T12:43:34.000Z",
+      "xQuery": "フィリピンで地震 30人超が死亡"
     },
     {
-      "time": "19:33",
-      "title": "九電送配電 顧客情報入りSSD紛失",
+      "time": "22:21",
+      "title": "内田被告 遺族の訴えに表情変えず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583471?source=rss",
-      "publishedAt": "2026-06-08T10:33:55.000Z",
-      "xQuery": "九電送配電 顧客情報入りSSD紛失"
+      "url": "https://news.yahoo.co.jp/pickup/6583487?source=rss",
+      "publishedAt": "2026-06-08T13:21:58.000Z",
+      "xQuery": "内田被告 遺族の訴えに表情変えず"
+    },
+    {
+      "time": "22:04",
+      "title": "KADOKAWAに公取委が勧告へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583484?source=rss",
+      "publishedAt": "2026-06-08T13:04:13.000Z",
+      "xQuery": "KADOKAWAに公取委が勧告へ"
+    },
+    {
+      "time": "22:28",
+      "title": "商業施設で目や喉の痛み 8人搬送",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583486?source=rss",
+      "publishedAt": "2026-06-08T13:28:04.000Z",
+      "xQuery": "商業施設で目や喉の痛み 8人搬送"
     },
     {
       "time": "20:15",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583475?source=rss",
       "publishedAt": "2026-06-08T11:15:55.000Z",
       "xQuery": "腹部と目に刃物刺さった男性 死亡"
-    },
-    {
-      "time": "20:20",
-      "title": "教諭から叱責後に子自殺 母の怒り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583473?source=rss",
-      "publishedAt": "2026-06-08T11:20:59.000Z",
-      "xQuery": "教諭から叱責後に子自殺 母の怒り"
-    },
-    {
-      "time": "18:29",
-      "title": "「退職金」縮小や廃止 なぜ広がる",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583465?source=rss",
-      "publishedAt": "2026-06-08T09:29:44.000Z",
-      "xQuery": "「退職金」縮小や廃止 なぜ広がる"
     }
   ]
 };

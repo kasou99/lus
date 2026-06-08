@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-06-08T12:10:13.908Z",
+  "updatedAt": "2026-06-08T13:55:06.544Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "19:53",
+        "title": "令和8年度機械加工システム科トピック",
+        "source": "pref.kyoto.jp",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Mjd1SHAyU1UtWE1CWV9SdGo3ZmZIOWVXRkY3VFZOSy1iLUdiMmpuaW9HWVJsdkhqSkJyZGkyYnkwWGl3cUI2N2o1bk82OTBFdGVkRERjZzZuSWVsQm9yY0FTMFFoN1k?oc=5",
+        "publishedAt": "2026-06-08T10:53:22.000Z"
+      },
+      {
+        "time": "19:12",
+        "title": "名古屋製作所が破産手続き開始 工作機械部品製造、負債約17億円：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12cldUZGl6U0F5dldpdl9lZzhkRTVxQjRrYkcwNXVzN0k5UXhZaTRwWnNhVVRUekNLenlyR21BaUQzNjVOTjZPZ29xVk5nNGZHX1gtVHFVX2dGemlTWXdn?oc=5",
+        "publishedAt": "2026-06-08T10:12:00.000Z"
+      },
       {
         "time": "10:00",
         "title": "設備保全クラウド『EMLink』モバイルアプリを大幅アップデート — ローカルLLMを本実装、Android対応、点検の写真・メモ統合、スケジュール自動割当機能を追加",
@@ -10,11 +24,11 @@
         "publishedAt": "2026-06-08T01:00:02.000Z"
       },
       {
-        "time": "05:00",
-        "title": "工作機械好調、半導体・DC向け商機 米中がけん引",
+        "time": "05:13",
+        "title": "工作機械受注の今年見通し 2兆円に上方修正 日工会",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByTDlJbGdrUzNmVFB4MUgxVEJCcDhFd2FQbjN4STkySGJSOHNmOWRQZ28zbUFESjFpN2I1TmdwdzlLV0VHUXE5ekxNLWd1TlRfd1pXbjV5TUZ3WVE?oc=5",
-        "publishedAt": "2026-06-07T20:00:58.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01TXotbExxR1FhdXB0SWFTOElUOG1INjBpbDdHZHFSX1RYR1gyVV9aNko1SXUzN3p5UThPWjRCOFRDRW5ZR1FjY0R1YmJteTQ3SVdvZ096MEdNTjNyckZvdjNpX3lDUWJrem04ZWVFNXZTM2Yt?oc=5",
+        "publishedAt": "2026-06-07T20:13:32.000Z"
       },
       {
         "time": "17:32",
@@ -31,13 +45,6 @@
         "publishedAt": "2026-06-08T00:40:10.000Z"
       },
       {
-        "time": "17:30",
-        "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kSDB3bkF6YkFjX2xOOG9ZQlpCa1E1aGg5VTBaRU82enV5UjZXSVhKMkhPQlN1LTIyNjRoWE1fSkJmMWhYSm1TWmtlaTZiYWFVNlJtSDhHX2lEUTJHQ0xVUjFqdE8?oc=5",
-        "publishedAt": "2026-06-08T08:30:52.000Z"
-      },
-      {
         "time": "14:40",
         "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
         "source": "山陽新聞",
@@ -45,27 +52,20 @@
         "publishedAt": "2026-06-08T05:40:15.000Z"
       },
       {
-        "time": "09:30",
+        "time": "08:00",
         "title": "画像 | 〈工作機械受注〉4月は驚異の前年比45.1％増､額は1889億円で過去2番目!データセンター関連など空前の受注規模が継続",
         "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wdmN0Q2tXMjE4Zy1yOE1XWmU1cmdaZlVwM0xoWUZJMC1wVVluWS1kZkIzSVBNSDRJei0tazNPbzBEVnhjR0xXVE9jOGZrYkNONUZwakpGcw?oc=5",
-        "publishedAt": "2026-06-08T00:30:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "〈富山ものづくり風土記〉（１３）先端技術編（４）キタムラ機械マシニングセンタ 万能機械、スマホ感覚で",
-        "source": "北國新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DcmIwbS13LW1KU0staUtmVzlLcEQwdDVxN3FmQUtoWGdoNmlzUVF1ZldTV25ERk5tN0JDYnZqc1BoN1ppYWNRVmI5TmtIZ0pYaU1oRTltNkRRZw?oc=5",
-        "publishedAt": "2026-06-07T20:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oMjltb1B1YzRfbUFnM29lSlVCUjlYb1V4YVRxRml3RHVFaGEzSGZfVHFvVENpSEpuX1M0Wmk3YmdHdGtYZmxkdVJGUzhlelcyUDZ4RkZsRC13clk2S1E?oc=5",
+        "publishedAt": "2026-06-07T23:00:00.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "19:22",
-        "title": "フィリピン南部沖で地震 19人死亡",
+        "time": "21:43",
+        "title": "フィリピンで地震 30人超が死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583470?source=rss",
-        "publishedAt": "2026-06-08T10:22:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583479?source=rss",
+        "publishedAt": "2026-06-08T12:43:34.000Z"
       },
       {
         "time": "13:12",
@@ -75,25 +75,25 @@
         "publishedAt": "2026-06-08T04:12:18.000Z"
       },
       {
+        "time": "22:15",
+        "title": "イラン 対イスラエル作戦一時停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583485?source=rss",
+        "publishedAt": "2026-06-08T13:15:49.000Z"
+      },
+      {
+        "time": "22:29",
+        "title": "中朝首脳会談 非核化には触れず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583488?source=rss",
+        "publishedAt": "2026-06-08T13:29:04.000Z"
+      },
+      {
         "time": "17:40",
         "title": "トランプ氏の共和党 離反が拡大",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583448?source=rss",
         "publishedAt": "2026-06-08T08:40:25.000Z"
-      },
-      {
-        "time": "08:13",
-        "title": "米大統領 イスラエルに自制求める",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583370?source=rss",
-        "publishedAt": "2026-06-07T23:13:58.000Z"
-      },
-      {
-        "time": "06:47",
-        "title": "イラン イスラエルへミサイル発射",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583360?source=rss",
-        "publishedAt": "2026-06-07T21:47:18.000Z"
       },
       {
         "time": "20:33",
@@ -119,11 +119,11 @@
         "publishedAt": "2026-06-08T05:42:25.000Z"
       },
       {
-        "time": "21:34",
-        "title": "消費減税で収益悪化か 農家の不安",
+        "time": "22:04",
+        "title": "KADOKAWAに公取委が勧告へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583342?source=rss",
-        "publishedAt": "2026-06-07T12:34:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583484?source=rss",
+        "publishedAt": "2026-06-08T13:04:13.000Z"
       },
       {
         "time": "19:12",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-06-08T09:29:44.000Z"
       },
       {
-        "time": "07:47",
-        "title": "セブン なぜ店舗「ワンオペ」検討",
+        "time": "22:46",
+        "title": "ブロンコビリーが従業員に株 背景",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583366?source=rss",
-        "publishedAt": "2026-06-07T22:47:40.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583489?source=rss",
+        "publishedAt": "2026-06-08T13:46:08.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-06-08T09:35:16.000Z"
       },
       {
-        "time": "17:55",
-        "title": "軽井沢バス事故 社長禁錮3年確定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583444?source=rss",
-        "publishedAt": "2026-06-08T08:55:53.000Z"
-      },
-      {
         "time": "11:55",
         "title": "17歳殺害 内田被告に懲役27年求刑",
         "source": "Yahoo!ニュース",
@@ -170,11 +163,11 @@
         "publishedAt": "2026-06-08T02:55:18.000Z"
       },
       {
-        "time": "15:32",
-        "title": "17歳殺害 法廷に響く父親の訴え",
+        "time": "22:21",
+        "title": "内田被告 遺族の訴えに表情変えず",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583430?source=rss",
-        "publishedAt": "2026-06-08T06:32:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583487?source=rss",
+        "publishedAt": "2026-06-08T13:21:58.000Z"
       },
       {
         "time": "20:20",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583475?source=rss",
         "publishedAt": "2026-06-08T11:15:55.000Z"
+      },
+      {
+        "time": "18:02",
+        "title": "浄水場で作業中に生き埋め 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583460?source=rss",
+        "publishedAt": "2026-06-08T09:02:38.000Z"
       }
     ],
     "subsidyHeadlines": [
