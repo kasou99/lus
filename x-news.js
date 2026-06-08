@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-08T03:50:47.081Z",
+  "updatedAt": "2026-06-08T05:45:40.128Z",
   "items": [
+    {
+      "time": "14:16",
+      "title": "各地で津波観測 父島で20cm",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583427?source=rss",
+      "publishedAt": "2026-06-08T05:16:17.000Z",
+      "xQuery": "各地で津波観測 父島で20cm"
+    },
     {
       "time": "09:43",
       "title": "津波注意報 解除まで海から離れて",
@@ -10,28 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "津波注意報 解除まで海から離れて"
     },
     {
-      "time": "12:17",
-      "title": "津波注意報 長時間継続の可能性",
+      "time": "13:12",
+      "title": "比のM8.2地震で建物が倒壊 映像",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583408?source=rss",
-      "publishedAt": "2026-06-08T03:17:13.000Z",
-      "xQuery": "津波注意報 長時間継続の可能性"
-    },
-    {
-      "time": "11:20",
-      "title": "比でM8.2地震 直後に建物崩れる",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583400?source=rss",
-      "publishedAt": "2026-06-08T02:20:39.000Z",
-      "xQuery": "比でM8.2地震 直後に建物崩れる"
-    },
-    {
-      "time": "10:21",
-      "title": "高市内閣の支持率70.0% JNN調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583375?source=rss",
-      "publishedAt": "2026-06-08T01:21:06.000Z",
-      "xQuery": "高市内閣の支持率70.0% JNN調査"
+      "url": "https://news.yahoo.co.jp/pickup/6583421?source=rss",
+      "publishedAt": "2026-06-08T04:12:18.000Z",
+      "xQuery": "比のM8.2地震で建物が倒壊 映像"
     },
     {
       "time": "11:55",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583404?source=rss",
       "publishedAt": "2026-06-08T02:55:18.000Z",
       "xQuery": "17歳殺害 内田被告に懲役27年求刑"
+    },
+    {
+      "time": "12:39",
+      "title": "若者騒ぎ100人見物 事故で1人重体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583417?source=rss",
+      "publishedAt": "2026-06-08T03:39:52.000Z",
+      "xQuery": "若者騒ぎ100人見物 事故で1人重体"
     }
   ]
 };

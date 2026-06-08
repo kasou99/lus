@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T03:50:46.287Z",
+  "updatedAt": "2026-06-08T05:45:39.541Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,32 @@
         "publishedAt": "2026-06-08T00:40:10.000Z"
       },
       {
+        "time": "14:40",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-06-08T05:40:15.000Z"
+      },
+      {
+        "time": "11:32",
+        "title": "強みは多様な要望に応える技術 共立精機（宇都宮）の柿島章浩社長",
+        "source": "下野新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wcDVYdWQ5YUloN2ZkZExWVlFiNDRoeVJMTmJiWFU1Zmlsd0p6MVBQQ3V1M3h3LTR0NEpyeHIxU2hNNUl3NkRDYm5BdHR4MW1ham8tWlp4QUEwVnM?oc=5",
+        "publishedAt": "2026-06-08T02:32:01.000Z"
+      },
+      {
+        "time": "13:45",
+        "title": "設備保全クラウド『EMLink』モバイルアプリを大幅アップデート - ローカルLLMを本実装、Android対応、点検の写真・メモ統合、スケジュール自動割当機能を追加",
+        "source": "RBB TODAY",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Mb2ZWdXpVNFVEVThZSmp4cmlsb2R5ZXI3dXNoRkZPZml3Y1JxMnF3Z2Q2ckxxekVSVFFZdEpMQWRKSlozRVJhQ2R3OThBS3RvLWNtOEhkWmlJZlJsWklzNVdua2dVbXhpYjRzWm1EWjdmbk1NS3lIcg?oc=5",
+        "publishedAt": "2026-06-08T04:45:57.000Z"
+      },
+      {
         "time": "05:00",
         "title": "〈富山ものづくり風土記〉（１３）先端技術編（４）キタムラ機械マシニングセンタ 万能機械、スマホ感覚で",
         "source": "北國新聞",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DcmIwbS13LW1KU0staUtmVzlLcEQwdDVxN3FmQUtoWGdoNmlzUVF1ZldTV25ERk5tN0JDYnZqc1BoN1ppYWNRVmI5TmtIZ0pYaU1oRTltNkRRZw?oc=5",
         "publishedAt": "2026-06-07T20:00:00.000Z"
-      },
-      {
-        "time": "08:32",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-06-07T23:32:30.000Z"
       },
       {
         "time": "09:00",
@@ -38,34 +52,20 @@
         "publishedAt": "2026-06-08T00:00:00.000Z"
       },
       {
-        "time": "12:00",
-        "title": "フエスト、衛生環境向け駆動システム 高精度制御と両立",
+        "time": "05:01",
+        "title": "工作機械受注の今年見通し 2兆円に上方修正 日工会",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwZUFSMWJMak84RU5EbngyMEtSdEUwZXZoSUZXRE50MTRJa29HWWk4M2duQnFJdERlNm9CTngxT3plMEJsbW1HU1ZGUktnbXZmdVg0cGZQVjUzREE?oc=5",
-        "publishedAt": "2026-06-08T03:00:00.000Z"
-      },
-      {
-        "time": "08:24",
-        "title": "日銀、6月利上げ濃厚に 金融市場織り込み済み",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kODRQRGhfdGhiZEpkNXNTQnZVcEgzNUl4YlRuZnliVkhQa3VSWkFLWXUwZEQ0Mmpsd1NrZDNnTUcwRU5IU1Zmcks2dHlkTkxISmFXRS1lV3kzNm0zSThtbXhuUQ?oc=5",
-        "publishedAt": "2026-06-07T23:24:08.000Z"
-      },
-      {
-        "time": "05:02",
-        "title": "中部経済連合会、仏グランテスト地域圏と覚書 脱炭素・モビリティー進化",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zUDdhdFdOU1lhdXZLMEhZMHhJczJNcnJJd2ZXVlMyMXgwVGpBUXhaVGJYVkRYQlR5cklxelZJQzZ3eU9Hc0hjMWN1UzdBamxvbW9Xa1JTZ0k3ekE?oc=5",
-        "publishedAt": "2026-06-07T20:02:11.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zVXJwQWV4S0d2TkdwOS1sc1R6QjZmRy1UUkk2RHZyMktGN0luNk1uS3FaeEhGUkJjb29YdWUwc2NVa1JXTFQ4c2VCSmVwV3l1MUd1MnhYTDRSMkk?oc=5",
+        "publishedAt": "2026-06-07T20:01:58.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "12:48",
-        "title": "映像 比のM8.2地震で建物が倒壊",
+        "time": "13:12",
+        "title": "比のM8.2地震で建物が倒壊 映像",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583416?source=rss",
-        "publishedAt": "2026-06-08T03:48:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583421?source=rss",
+        "publishedAt": "2026-06-08T04:12:18.000Z"
       },
       {
         "time": "11:20",
@@ -112,6 +112,13 @@
         "publishedAt": "2026-06-08T01:39:09.000Z"
       },
       {
+        "time": "14:42",
+        "title": "初任給バブル 背景に年功賃金崩壊",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583411?source=rss",
+        "publishedAt": "2026-06-08T05:42:25.000Z"
+      },
+      {
         "time": "21:34",
         "title": "消費減税で収益悪化か 農家の不安",
         "source": "Yahoo!ニュース",
@@ -133,21 +140,21 @@
         "publishedAt": "2026-06-07T22:47:40.000Z"
       },
       {
-        "time": "10:30",
-        "title": "書店1万店割れ ピーク時の4割余り",
+        "time": "14:14",
+        "title": "TDSで座り込み飲食 運営側の対応",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583271?source=rss",
-        "publishedAt": "2026-06-07T01:30:42.000Z"
-      },
-      {
-        "time": "09:10",
-        "title": "濃縮飲料市場 コーヒーが広がる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583261?source=rss",
-        "publishedAt": "2026-06-07T00:10:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583426?source=rss",
+        "publishedAt": "2026-06-08T05:14:11.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "14:11",
+        "title": "今も涙 池田小殺傷当時の刑事部長",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583425?source=rss",
+        "publishedAt": "2026-06-08T05:11:09.000Z"
+      },
       {
         "time": "11:55",
         "title": "17歳殺害 内田被告に懲役27年求刑",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583417?source=rss",
         "publishedAt": "2026-06-08T03:39:52.000Z"
-      },
-      {
-        "time": "10:30",
-        "title": "深夜の住宅街にクマ 車と1km並走",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583392?source=rss",
-        "publishedAt": "2026-06-08T01:30:04.000Z"
       }
     ],
     "subsidyHeadlines": [
