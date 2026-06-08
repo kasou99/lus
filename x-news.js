@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-08T01:17:17.991Z",
+  "updatedAt": "2026-06-08T02:25:53.320Z",
   "items": [
     {
-      "time": "09:21",
-      "title": "津波注意報 沖縄～関東の太平洋側",
+      "time": "10:50",
+      "title": "沖縄～関東に津波注意報 最新情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583379?source=rss",
-      "publishedAt": "2026-06-08T00:21:09.000Z",
-      "xQuery": "津波注意報 沖縄～関東の太平洋側"
-    },
-    {
-      "time": "10:02",
-      "title": "各地の津波到達予想時刻 最大1m",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583387?source=rss",
-      "publishedAt": "2026-06-08T01:02:24.000Z",
-      "xQuery": "各地の津波到達予想時刻 最大1m"
+      "url": "https://news.yahoo.co.jp/pickup/6583396?source=rss",
+      "publishedAt": "2026-06-08T01:50:03.000Z",
+      "xQuery": "沖縄～関東に津波注意報 最新情報"
     },
     {
       "time": "09:43",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "津波注意報 解除まで海から離れて"
     },
     {
-      "time": "09:43",
-      "title": "フィリピン沖でM7.8の地震",
+      "time": "10:02",
+      "title": "各地の津波到達予想時刻 最大1m",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583383?source=rss",
-      "publishedAt": "2026-06-08T00:43:18.000Z",
-      "xQuery": "フィリピン沖でM7.8の地震"
+      "url": "https://news.yahoo.co.jp/pickup/6583387?source=rss",
+      "publishedAt": "2026-06-08T01:02:24.000Z",
+      "xQuery": "各地の津波到達予想時刻 最大1m"
     },
     {
-      "time": "07:47",
-      "title": "セブン なぜ店舗「ワンオペ」検討",
+      "time": "11:20",
+      "title": "比でM8.2地震 直後に建物崩れる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583366?source=rss",
-      "publishedAt": "2026-06-07T22:47:40.000Z",
-      "xQuery": "セブン なぜ店舗「ワンオペ」検討"
+      "url": "https://news.yahoo.co.jp/pickup/6583400?source=rss",
+      "publishedAt": "2026-06-08T02:20:39.000Z",
+      "xQuery": "比でM8.2地震 直後に建物崩れる"
+    },
+    {
+      "time": "10:21",
+      "title": "高市内閣の支持率70.0% JNN調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583375?source=rss",
+      "publishedAt": "2026-06-08T01:21:06.000Z",
+      "xQuery": "高市内閣の支持率70.0% JNN調査"
     }
   ]
 };

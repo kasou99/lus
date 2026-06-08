@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T01:17:17.273Z",
+  "updatedAt": "2026-06-08T02:25:52.440Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByTDlJbGdrUzNmVFB4MUgxVEJCcDhFd2FQbjN4STkySGJSOHNmOWRQZ28zbUFESjFpN2I1TmdwdzlLV0VHUXE5ekxNLWd1TlRfd1pXbjV5TUZ3WVE?oc=5",
         "publishedAt": "2026-06-07T20:00:58.000Z"
+      },
+      {
+        "time": "09:40",
+        "title": "４月工作機械、記録的な伸び",
+        "source": "金属産業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16THRhX2ljZnhxUVEzd1NDY3UtWVhIQm1KS21Ual81SllYaXlGcE8wR1k4MXhlZmJza21lV1Fqd19hcGNuNll2aDBKcldDYUdWaGdDOUt2Y08?oc=5",
+        "publishedAt": "2026-06-08T00:40:10.000Z"
       },
       {
         "time": "05:00",
@@ -38,34 +45,27 @@
         "publishedAt": "2026-06-07T23:24:08.000Z"
       },
       {
-        "time": "06:56",
-        "title": "兵庫県、ソフトバンクと連携 AX推進・地域創生",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URGhUSUJibkxjUG92a1hneE5iV0VjR3d0UnBFUEdneTU0eGJSMFJCck5hWXlDYVQ2UlN0T014Y1podXZ6T3lDWDg0RThJcXRUX1J4MFpEN2lEZWc?oc=5",
-        "publishedAt": "2026-06-07T21:56:27.000Z"
-      },
-      {
         "time": "05:02",
         "title": "中部経済連合会、仏グランテスト地域圏と覚書 脱炭素・モビリティー進化",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hZ2pHVU4wSTVnUzl0eThISHBiT3d5NllPNzFhMzh4Q0lqdHN5VWhXMnFhc2ZwNXBlRnZLek1Eal90YUhTb29NMWY5dFJIcHp5TGlMbnBOdWxuaVJaZzBZTnZuREFuVDBQOUxWbDAzQV8xNVp4a2RTUnRxcw?oc=5",
-        "publishedAt": "2026-06-07T20:02:52.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zUDdhdFdOU1lhdXZLMEhZMHhJczJNcnJJd2ZXVlMyMXgwVGpBUXhaVGJYVkRYQlR5cklxelZJQzZ3eU9Hc0hjMWN1UzdBamxvbW9Xa1JTZ0k3ekE?oc=5",
+        "publishedAt": "2026-06-07T20:02:11.000Z"
       },
       {
-        "time": "07:05",
-        "title": "関東精機、主力製品60周年協力企業に感謝",
+        "time": "05:10",
+        "title": "兵庫県、ソフトバンクと連携 AX推進・地域創生",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Tb3o5Wl9reWFOaFB1d1hQQ2o5dkQ4X3RTY3dzMTdtUlNFTFUxZTZibF91Zi16SElfbFpzVmZIRVJUMXhWNzd1RGU2YmtsamlKaXE4ZFFrcG54V2s?oc=5",
-        "publishedAt": "2026-06-07T22:05:51.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zLUJlb0R2OUZ1MnJncnRMRjdWSnJmaldlYUlqNlptTkVRRF91WlpOeXU3SzRGRmw2ZW1ENEkzRmpLV2YxWS1qUjkyS1pkTW1WZDhkdGNLeC1jXzFtLXBGbDd3b29MVmZWci1LWnZ4QkxHTngx?oc=5",
+        "publishedAt": "2026-06-07T20:10:38.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "09:43",
-        "title": "フィリピン沖でM7.8の地震",
+        "time": "11:20",
+        "title": "比でM8.2地震 直後に建物崩れる",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583383?source=rss",
-        "publishedAt": "2026-06-08T00:43:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583400?source=rss",
+        "publishedAt": "2026-06-08T02:20:39.000Z"
       },
       {
         "time": "08:13",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "19:58",
-        "title": "週明け日本株 米株安で売り先行か",
+        "time": "10:39",
+        "title": "日経平均株価 下げ幅一時3000円超",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583333?source=rss",
-        "publishedAt": "2026-06-07T10:58:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583395?source=rss",
+        "publishedAt": "2026-06-08T01:39:09.000Z"
       },
       {
         "time": "21:34",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-07T09:39:44.000Z"
       },
       {
-        "time": "22:12",
-        "title": "宇都宮の中心地にクマ 商店街驚き",
+        "time": "10:30",
+        "title": "深夜の住宅街にクマ 車と1km並走",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583346?source=rss",
-        "publishedAt": "2026-06-07T13:12:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583392?source=rss",
+        "publishedAt": "2026-06-08T01:30:04.000Z"
       }
     ],
     "subsidyHeadlines": [
