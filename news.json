@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T21:15:58.396Z",
+  "updatedAt": "2026-06-08T22:06:55.537Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-06-08T01:00:02.000Z"
       },
       {
+        "time": "00:40",
+        "title": "次世代設備保全クラウド「M2X」が、現場のタスクを\"見える化\"する「カンバン」ビューを新たに搭載",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjaThfeDNGUU43M2k4eS05MFhuc1lvYUk1UmNyVDRsSGRGUHE3OWhHTS1zOGMyQzJaU0xjSUJCTnhHSHB2RzdDRUZFVHFlYWpZblV4WFYxWktCZkpuU1dZZ0hYeWtuRnZJNDJV?oc=5",
+        "publishedAt": "2026-06-08T15:40:00.000Z"
+      },
+      {
         "time": "09:40",
         "title": "４月工作機械、記録的な伸び",
         "source": "金属産業新聞",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-06-08T05:40:15.000Z"
       },
       {
-        "time": "09:30",
+        "time": "08:00",
         "title": "画像 | 〈工作機械受注〉4月は驚異の前年比45.1％増､額は1889億円で過去2番目!データセンター関連など空前の受注規模が継続",
         "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wdmN0Q2tXMjE4Zy1yOE1XWmU1cmdaZlVwM0xoWUZJMC1wVVluWS1kZkIzSVBNSDRJei0tazNPbzBEVnhjR0xXVE9jOGZrYkNONUZwakpGcw?oc=5",
-        "publishedAt": "2026-06-08T00:30:00.000Z"
-      },
-      {
-        "time": "17:30",
-        "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kSDB3bkF6YkFjX2xOOG9ZQlpCa1E1aGg5VTBaRU82enV5UjZXSVhKMkhPQlN1LTIyNjRoWE1fSkJmMWhYSm1TWmtlaTZiYWFVNlJtSDhHX2lEUTJHQ0xVUjFqdE8?oc=5",
-        "publishedAt": "2026-06-08T08:30:52.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oMjltb1B1YzRfbUFnM29lSlVCUjlYb1V4YVRxRml3RHVFaGEzSGZfVHFvVENpSEpuX1M0Wmk3YmdHdGtYZmxkdVJGUzhlelcyUDZ4RkZsRC13clk2S1E?oc=5",
+        "publishedAt": "2026-06-07T23:00:00.000Z"
       }
     ],
     "worldHeadlines": [

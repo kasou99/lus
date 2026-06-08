@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-08T21:15:59.170Z",
+  "updatedAt": "2026-06-08T22:06:56.641Z",
   "items": [
     {
       "time": "20:54",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン 対イスラエル作戦一時停止"
     },
     {
-      "time": "22:29",
-      "title": "中朝首脳会談 非核化には触れず",
+      "time": "06:46",
+      "title": "日韓関係「良い」59%で最高 読売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583488?source=rss",
-      "publishedAt": "2026-06-08T13:29:04.000Z",
-      "xQuery": "中朝首脳会談 非核化には触れず"
-    },
-    {
-      "time": "23:24",
-      "title": "コンテナ内に刃物2本刺さった遺体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583493?source=rss",
-      "publishedAt": "2026-06-08T14:24:33.000Z",
-      "xQuery": "コンテナ内に刃物2本刺さった遺体"
+      "url": "https://news.yahoo.co.jp/pickup/6583498?source=rss",
+      "publishedAt": "2026-06-08T21:46:05.000Z",
+      "xQuery": "日韓関係「良い」59%で最高 読売"
     },
     {
       "time": "06:08",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583496?source=rss",
       "publishedAt": "2026-06-08T21:08:33.000Z",
       "xQuery": "車3台絡む事故 生後8カ月男児重体"
+    },
+    {
+      "time": "21:34",
+      "title": "高3で妊娠 37歳で娘と同じ高校に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583482?source=rss",
+      "publishedAt": "2026-06-08T12:34:09.000Z",
+      "xQuery": "高3で妊娠 37歳で娘と同じ高校に"
     }
   ]
 };
