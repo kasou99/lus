@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-09T10:20:19.979Z",
+  "updatedAt": "2026-06-09T11:35:54.978Z",
   "items": [
     {
       "time": "18:47",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "宇都宮でクマ1頭捕獲 10日も休校"
     },
     {
-      "time": "17:48",
-      "title": "自民参院幹部 世耕氏を痛烈に批判",
+      "time": "17:54",
+      "title": "習氏の異例眼鏡姿 北朝鮮側が配信",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583577?source=rss",
-      "publishedAt": "2026-06-09T08:48:08.000Z",
-      "xQuery": "自民参院幹部 世耕氏を痛烈に批判"
+      "url": "https://news.yahoo.co.jp/pickup/6583578?source=rss",
+      "publishedAt": "2026-06-09T08:54:28.000Z",
+      "xQuery": "習氏の異例眼鏡姿 北朝鮮側が配信"
     },
     {
-      "time": "17:39",
-      "title": "寝たきり父殺害の罪 息子に無罪",
+      "time": "20:19",
+      "title": "少年の逆送なし 強盗被害者の怒り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583575?source=rss",
-      "publishedAt": "2026-06-09T08:39:48.000Z",
-      "xQuery": "寝たきり父殺害の罪 息子に無罪"
+      "url": "https://news.yahoo.co.jp/pickup/6583594?source=rss",
+      "publishedAt": "2026-06-09T11:19:44.000Z",
+      "xQuery": "少年の逆送なし 強盗被害者の怒り"
     },
     {
       "time": "18:51",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "幼児の顔にケーキ動画 警察が対応"
     },
     {
-      "time": "17:54",
-      "title": "習氏の異例眼鏡姿 北朝鮮側が配信",
+      "time": "19:47",
+      "title": "「オニツカタイガー」を分社化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583578?source=rss",
-      "publishedAt": "2026-06-09T08:54:28.000Z",
-      "xQuery": "習氏の異例眼鏡姿 北朝鮮側が配信"
+      "url": "https://news.yahoo.co.jp/pickup/6583591?source=rss",
+      "publishedAt": "2026-06-09T10:47:26.000Z",
+      "xQuery": "「オニツカタイガー」を分社化"
     }
   ]
 };
