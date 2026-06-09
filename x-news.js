@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-09T21:12:18.434Z",
+  "updatedAt": "2026-06-09T22:05:02.633Z",
   "items": [
     {
       "time": "20:57",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相秘書の参考人招致 立憲が要求"
     },
     {
-      "time": "21:29",
-      "title": "池田小事件で重傷 今は2児の母に",
+      "time": "06:51",
+      "title": "宇都宮出没のクマ 複数頭の可能性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583601?source=rss",
-      "publishedAt": "2026-06-09T12:29:20.000Z",
-      "xQuery": "池田小事件で重傷 今は2児の母に"
-    },
-    {
-      "time": "23:10",
-      "title": "クマ逃げた家の住人 中継見て驚き",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583613?source=rss",
-      "publishedAt": "2026-06-09T14:10:43.000Z",
-      "xQuery": "クマ逃げた家の住人 中継見て驚き"
+      "url": "https://news.yahoo.co.jp/pickup/6583619?source=rss",
+      "publishedAt": "2026-06-09T21:51:38.000Z",
+      "xQuery": "宇都宮出没のクマ 複数頭の可能性"
     },
     {
       "time": "21:05",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583598?source=rss",
       "publishedAt": "2026-06-09T12:05:56.000Z",
       "xQuery": "NZ首都に11mの高波 数百人が避難"
+    },
+    {
+      "time": "06:31",
+      "title": "Anthropic ミュトス級AIを提供",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583618?source=rss",
+      "publishedAt": "2026-06-09T21:31:43.000Z",
+      "xQuery": "Anthropic ミュトス級AIを提供"
     }
   ]
 };

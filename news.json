@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T21:12:17.385Z",
+  "updatedAt": "2026-06-09T22:05:01.850Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-09T16:52:33.000Z"
       },
       {
+        "time": "10:30",
+        "title": "自動車部品サプライヤーの大和電化工業所が『カミナシ レポート』『カミナシ 設備保全』を導入",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qTm1Ub0Z1ek1ZdTJUSHNPdGNyN3ZuT2owUkVtMklCR0xkODVER0ZZY0kxTmd6YWpkdDFiRFIxaGJ3SVdNaG9hYW00WXV6OUZrSnEydUFFM2FpdUZVd3RLVHA3Skl4NnFqYnc?oc=5",
+        "publishedAt": "2026-06-09T01:30:21.000Z"
+      },
+      {
         "time": "13:30",
         "title": "AIによる常時監視で切削加工異常を自動検知するモニタリングプラン：工作機械",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02WTZMZk1JczFBYXk1aUY3Vy1FdGJfcGdDbXAyOWhEX2VxbWhFcHhEWjg5Y2oybTg0b2llSjJYYnJVTUhHa3dZWl9nZk9mUHZGZEV5a0djTGZkRHJtSUt5UnctaVJDNHRndk15M2xQVQ?oc=5",
         "publishedAt": "2026-06-09T04:30:00.000Z"
-      },
-      {
-        "time": "18:28",
-        "title": "工作機械用ロータリージョイント市場規模は2026年80.63百万米ドル、成長率5.7%で拡大予測｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2SmQ1N0pzeXNvZU5Rd3JMUk5FbGNoRVU3a0llT1dmREkzQ1pPc3c3M1dCQVlxVF84YWRIc01xaUxRbm5ObjhOS3JSc2Nla25Qbm9fRmtMUQ?oc=5",
-        "publishedAt": "2026-06-09T09:28:46.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "06:51",
+        "title": "宇都宮出没のクマ 複数頭の可能性",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583619?source=rss",
+        "publishedAt": "2026-06-09T21:51:38.000Z"
+      },
+      {
+        "time": "23:10",
+        "title": "クマ逃げた家の住人 中継見て驚き",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583613?source=rss",
+        "publishedAt": "2026-06-09T14:10:43.000Z"
+      },
+      {
         "time": "17:39",
         "title": "寝たきり父殺害の罪 息子に無罪",
         "source": "Yahoo!ニュース",
@@ -163,13 +177,6 @@
         "publishedAt": "2026-06-09T12:29:20.000Z"
       },
       {
-        "time": "23:10",
-        "title": "クマ逃げた家の住人 中継見て驚き",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583613?source=rss",
-        "publishedAt": "2026-06-09T14:10:43.000Z"
-      },
-      {
         "time": "22:38",
         "title": "展覧会中止 徳島知事圧力巡り応酬",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583594?source=rss",
         "publishedAt": "2026-06-09T11:19:44.000Z"
-      },
-      {
-        "time": "18:51",
-        "title": "幼児の顔にケーキ動画 警察が対応",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583586?source=rss",
-        "publishedAt": "2026-06-09T09:51:35.000Z"
       }
     ],
     "subsidyHeadlines": [
