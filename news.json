@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T07:28:48.679Z",
+  "updatedAt": "2026-06-09T08:43:31.578Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,20 @@
         "publishedAt": "2026-06-09T06:18:00.000Z"
       },
       {
+        "time": "17:26",
+        "title": "工作機械受注、5月37%増 国内外でAI関連が活況",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tNmxacERDbUFHYWRsMm9xSGhSWnQ2SEZIck82MUdvcDFMaG9wY2ZjZkNUZ01pY0xEYUtXWklhc21YTVl0UEpsN0duanBQUUVFSzh3aWpjbmxZaG9UZTJybFNiaFdkbW9yMUw3aA?oc=5",
+        "publishedAt": "2026-06-09T08:26:35.000Z"
+      },
+      {
+        "time": "17:00",
+        "title": "5月の工作機械受注、37％増の1768億3300万円 11カ月連続プラス",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCNlpwREt4UDdpSTNPZGdQdFcyYzg1TEs1SURuNk1OV1o4MzhNamU4TmVZRDFCN0NfQkFmbF9BaG1Sa2hLcWFmd1M2RFF5bnV0SjJqUS0tb0twVzg?oc=5",
+        "publishedAt": "2026-06-09T08:00:00.000Z"
+      },
+      {
         "time": "13:30",
         "title": "AIによる常時監視で切削加工異常を自動検知するモニタリングプラン：工作機械",
         "source": "MONOist",
@@ -27,8 +41,15 @@
         "time": "09:30",
         "title": "ハイエンドCNC工作機械の世界市場（2026年～2032年）、市場規模（CNC旋盤、CNCフライス盤、CNC研削盤、その他）・分析レポートを発表",
         "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBVm4td0w0eGRyNlRZT2p3NC03N0s2RGNZaU5kN2pBZXNPbW5zaUluaVFPYk5mTGI2YTU2R04yVUtUd1lGTWx1NkREOWhzUWs?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxOGNldWh1eVRReVZZRkFVMFh3Njc2NDFHQmRkNmJHX1hxT2p1SHBkUXUtSEZfcHBmUm1NNDBGT2p4Y0h4RWhF?oc=5",
         "publishedAt": "2026-06-09T00:30:00.000Z"
+      },
+      {
+        "time": "17:30",
+        "title": "CNC Machine Tool Spindle Market (CNC工作機械用スピンドル市場)調査レポート – 世界市場規模、シェア、傾向の見通し、2026-2035年",
+        "source": "ドリームニュース",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GcTNVUTJ1U3JBRmxKYlR0TVBTX0o3aXdGM3BTVnBXallVS1RobHh3NXF6b3ZlTmVob21uNGRiSm5UNkxTbndyUUp4ajgxeDVBUzRr?oc=5",
+        "publishedAt": "2026-06-09T08:30:00.000Z"
       },
       {
         "time": "19:53",
@@ -36,27 +57,6 @@
         "source": "pref.kyoto.jp",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Mjd1SHAyU1UtWE1CWV9SdGo3ZmZIOWVXRkY3VFZOSy1iLUdiMmpuaW9HWVJsdkhqSkJyZGkyYnkwWGl3cUI2N2o1bk82OTBFdGVkRERjZzZuSWVsQm9yY0FTMFFoN1k?oc=5",
         "publishedAt": "2026-06-08T10:53:22.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "中国の補助金投入で｢工作機械の常識｣が変わった 日工会･稲葉会長が語った\"ものづくりの未来\" 2ページ目 | ビジネス",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oTmZkZmFXai1pYXQzTXpERU41OWtySzRDRGZncFI5dU5JTlRHTkdMb2lETlNJNHFFUUtoOWVkWGdYNWRVM0VZM0gtRVE3YXRUNkoyNTU3WktmeU0?oc=5",
-        "publishedAt": "2026-06-08T21:00:00.000Z"
-      },
-      {
-        "time": "15:18",
-        "title": "自動車部品サプライヤーの大和電化工業所が『カミナシ レポート』『カミナシ 設備保全』を導入",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SR3Z6RVRhMDUwMURxeWQ2bFdKNG1RVzZSYTNZNy10V1lMWmlKb21rV0VjMTV5WUZyTURNMWQ2VENUVHlaNjFfV2N6ZVhVVlB2dlh3a3VPOXEwZWVYYmw5bkNzSzRrdkNiQnlRSzRwOC1tQ2M4eU9xWm0zSQ?oc=5",
-        "publishedAt": "2026-06-09T06:18:30.000Z"
-      },
-      {
-        "time": "07:06",
-        "title": "今日のスケジュール－5月工作機械受注や米4月貿易収支など(トレーダーズ・ウェブ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0wteERHMENfbGZsN3JlZS15Q3JzR0tLdE5kS0JYcVN2OWdVUTA0dUpaZTc1SVBrZ096dTFLRkJSczRDczZmdzU1QjhGWU9Falg3ZlduODV5c2ZfamgzRTAyTEFnMzZ6cXdjQ0ZydkVTT1BHZnpzTVdMX2x3QmR2M2MxWWZJS1E?oc=5",
-        "publishedAt": "2026-06-08T22:06:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,11 +119,11 @@
         "publishedAt": "2026-06-09T00:16:15.000Z"
       },
       {
-        "time": "22:04",
-        "title": "KADOKAWAに公取委が勧告へ",
+        "time": "16:30",
+        "title": "JR東 新夜行特急は「Luna Azul」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583484?source=rss",
-        "publishedAt": "2026-06-08T13:04:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583565?source=rss",
+        "publishedAt": "2026-06-09T07:30:51.000Z"
       },
       {
         "time": "09:35",
@@ -133,27 +133,41 @@
         "publishedAt": "2026-06-09T00:35:28.000Z"
       },
       {
+        "time": "17:05",
+        "title": "ウルトラマン・トレカ 中国版休売",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583572?source=rss",
+        "publishedAt": "2026-06-09T08:05:12.000Z"
+      },
+      {
         "time": "15:34",
         "title": "JR東「QR乗車券」のイメージ公開",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583558?source=rss",
         "publishedAt": "2026-06-09T06:34:02.000Z"
-      },
-      {
-        "time": "23:55",
-        "title": "東京23区 中古でも2割が億ション",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583495?source=rss",
-        "publishedAt": "2026-06-08T14:55:31.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "17:39",
+        "title": "寝たきり父殺害の罪 息子に無罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583575?source=rss",
+        "publishedAt": "2026-06-09T08:39:48.000Z"
+      },
       {
         "time": "15:58",
         "title": "宇都宮のクマ 麻酔銃が命中し捕獲",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583562?source=rss",
         "publishedAt": "2026-06-09T06:58:41.000Z"
+      },
+      {
+        "time": "16:45",
+        "title": "知床沈没訴訟 社長が曖昧な証言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583567?source=rss",
+        "publishedAt": "2026-06-09T07:45:55.000Z"
       },
       {
         "time": "14:56",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-06-09T02:36:34.000Z"
       },
       {
-        "time": "14:35",
-        "title": "宇都宮市街地でクマ目撃 複数頭か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583553?source=rss",
-        "publishedAt": "2026-06-09T05:35:20.000Z"
-      },
-      {
         "time": "12:27",
         "title": "秋葉原事件の献花台にごみ 対策へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583540?source=rss",
         "publishedAt": "2026-06-09T03:27:29.000Z"
-      },
-      {
-        "time": "13:29",
-        "title": "商業施設8人搬送はスプレー原因か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583548?source=rss",
-        "publishedAt": "2026-06-09T04:29:33.000Z"
       }
     ],
     "subsidyHeadlines": [
