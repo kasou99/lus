@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T18:17:38.217Z",
+  "updatedAt": "2026-06-09T19:19:02.539Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,11 @@
         "publishedAt": "2026-06-09T07:00:00.000Z"
       },
       {
-        "time": "13:30",
-        "title": "AIによる常時監視で切削加工異常を自動検知するモニタリングプラン：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02WTZMZk1JczFBYXk1aUY3Vy1FdGJfcGdDbXAyOWhEX2VxbWhFcHhEWjg5Y2oybTg0b2llSjJYYnJVTUhHa3dZWl9nZk9mUHZGZEV5a0djTGZkRHJtSUt5UnctaVJDNHRndk15M2xQVQ?oc=5",
-        "publishedAt": "2026-06-09T04:30:00.000Z"
-      },
-      {
-        "time": "09:30",
-        "title": "ハイエンドCNC工作機械の世界市場（2026年～2032年）、市場規模（CNC旋盤、CNCフライス盤、CNC研削盤、その他）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxOGNldWh1eVRReVZZRkFVMFh3Njc2NDFHQmRkNmJHX1hxT2p1SHBkUXUtSEZfcHBmUm1NNDBGT2p4Y0h4RWhF?oc=5",
-        "publishedAt": "2026-06-09T00:30:00.000Z"
+        "time": "01:52",
+        "title": "VIMOA「AIモニタリングプラン」を開始",
+        "source": "北海道新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaHJLWml1UzIxZW9TanVWZGF4aUpsWG9mWExHX2JSSXI3YTFCa3JsM3FWNmw0SXJ3QzlVLVpBaEJ0d0p4Q1ZVZDltYklnSXdTaFhoRzVaV1hQOFVBM2ZzZDlrZHFKZ1Y1bjVDLTlxX1VFdnZpOTRsOHpnaFI0V0hyOUwyVGhJM084?oc=5",
+        "publishedAt": "2026-06-09T16:52:33.000Z"
       },
       {
         "time": "18:28",
@@ -57,6 +50,13 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2SmQ1N0pzeXNvZU5Rd3JMUk5FbGNoRVU3a0llT1dmREkzQ1pPc3c3M1dCQVlxVF84YWRIc01xaUxRbm5ObjhOS3JSc2Nla25Qbm9fRmtMUQ?oc=5",
         "publishedAt": "2026-06-09T09:28:46.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "AIによる常時監視で切削加工異常を自動検知するモニタリングプラン：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02WTZMZk1JczFBYXk1aUY3Vy1FdGJfcGdDbXAyOWhEX2VxbWhFcHhEWjg5Y2oybTg0b2llSjJYYnJVTUhHa3dZWl9nZk9mUHZGZEV5a0djTGZkRHJtSUt5UnctaVJDNHRndk15M2xQVQ?oc=5",
+        "publishedAt": "2026-06-09T04:30:00.000Z"
       }
     ],
     "worldHeadlines": [
