@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-09T14:21:44.274Z",
+  "updatedAt": "2026-06-09T15:36:10.179Z",
   "items": [
     {
       "time": "20:57",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "日銀1%に利上げへ 家計への影響"
     },
     {
-      "time": "21:29",
-      "title": "池田小事件で重傷 今は2児の母に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583601?source=rss",
-      "publishedAt": "2026-06-09T12:29:20.000Z",
-      "xQuery": "池田小事件で重傷 今は2児の母に"
-    },
-    {
       "time": "22:50",
       "title": "首相秘書の参考人招致 立憲が要求",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "首相秘書の参考人招致 立憲が要求"
     },
     {
+      "time": "21:29",
+      "title": "池田小事件で重傷 今は2児の母に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583601?source=rss",
+      "publishedAt": "2026-06-09T12:29:20.000Z",
+      "xQuery": "池田小事件で重傷 今は2児の母に"
+    },
+    {
+      "time": "23:10",
+      "title": "クマ逃げた家の住人 中継見て驚き",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583613?source=rss",
+      "publishedAt": "2026-06-09T14:10:43.000Z",
+      "xQuery": "クマ逃げた家の住人 中継見て驚き"
+    },
+    {
       "time": "21:05",
       "title": "NZ首都に11mの高波 数百人が避難",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6583598?source=rss",
       "publishedAt": "2026-06-09T12:05:56.000Z",
       "xQuery": "NZ首都に11mの高波 数百人が避難"
-    },
-    {
-      "time": "22:07",
-      "title": "ただの風邪と思い受診 急性白血病",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583604?source=rss",
-      "publishedAt": "2026-06-09T13:07:36.000Z",
-      "xQuery": "ただの風邪と思い受診 急性白血病"
     }
   ]
 };
