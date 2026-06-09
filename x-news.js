@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-09T23:02:24.758Z",
+  "updatedAt": "2026-06-09T23:58:14.257Z",
   "items": [
     {
       "time": "07:13",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "米軍 ヘリ撃墜でイランに報復開始"
     },
     {
+      "time": "08:08",
+      "title": "日マレーシア 海保協力覚書締結へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583629?source=rss",
+      "publishedAt": "2026-06-09T23:08:20.000Z",
+      "xQuery": "日マレーシア 海保協力覚書締結へ"
+    },
+    {
       "time": "06:51",
       "title": "宇都宮出没のクマ 複数頭の可能性",
       "source": "Yahoo!ニュース",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "宇都宮出没のクマ 複数頭の可能性"
     },
     {
-      "time": "07:40",
-      "title": "成田の滑走路巡り 土地収用申請へ",
+      "time": "08:23",
+      "title": "幼児の顔にケーキ 児相が一時保護",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583626?source=rss",
-      "publishedAt": "2026-06-09T22:40:33.000Z",
-      "xQuery": "成田の滑走路巡り 土地収用申請へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583631?source=rss",
+      "publishedAt": "2026-06-09T23:23:15.000Z",
+      "xQuery": "幼児の顔にケーキ 児相が一時保護"
     },
     {
-      "time": "07:28",
-      "title": "AIに相談し恐喝疑い 少女ら逮捕",
+      "time": "08:11",
+      "title": "大容量タンブラー 人気広がる訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583624?source=rss",
-      "publishedAt": "2026-06-09T22:28:58.000Z",
-      "xQuery": "AIに相談し恐喝疑い 少女ら逮捕"
-    },
-    {
-      "time": "07:55",
-      "title": "大きめが映える? タンブラー人気",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583627?source=rss",
-      "publishedAt": "2026-06-09T22:55:48.000Z",
-      "xQuery": "大きめが映える? タンブラー人気"
+      "url": "https://news.yahoo.co.jp/pickup/6583630?source=rss",
+      "publishedAt": "2026-06-09T23:11:01.000Z",
+      "xQuery": "大容量タンブラー 人気広がる訳"
     }
   ]
 };

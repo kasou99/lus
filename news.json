@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-09T23:02:23.674Z",
+  "updatedAt": "2026-06-09T23:58:13.251Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "17:26",
-        "title": "工作機械受注、5月37%増 国内外でAI関連が活況",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tNmxacERDbUFHYWRsMm9xSGhSWnQ2SEZIck82MUdvcDFMaG9wY2ZjZkNUZ01pY0xEYUtXWklhc21YTVl0UEpsN0duanBQUUVFSzh3aWpjbmxZaG9UZTJybFNiaFdkbW9yMUw3aA?oc=5",
-        "publishedAt": "2026-06-09T08:26:35.000Z"
-      },
       {
         "time": "15:18",
         "title": "5月工作機械受注は前年比37.4％増、11カ月連続プラス＝工作機械工業会",
         "source": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY19EcU9mcnJtbF9yWG8tMFVzSUwxakQ0U2JIUmcxaWxWQWtPN3FwMXl4aGdJNFFzeFFXZTJkVXljTXlNdEoxMF8wSE1fN3pQaXJ0ODJMOUhaQVRnczRWX2xUZS1KUEpQeFBjREZBRVZfcVdHUC1aV3JzNTJNa3dTOA?oc=5",
         "publishedAt": "2026-06-09T06:18:00.000Z"
+      },
+      {
+        "time": "17:26",
+        "title": "工作機械受注、5月37%増 国内外でAI関連が活況",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tNmxacERDbUFHYWRsMm9xSGhSWnQ2SEZIck82MUdvcDFMaG9wY2ZjZkNUZ01pY0xEYUtXWklhc21YTVl0UEpsN0duanBQUUVFSzh3aWpjbmxZaG9UZTJybFNiaFdkbW9yMUw3aA?oc=5",
+        "publishedAt": "2026-06-09T08:26:35.000Z"
       },
       {
         "time": "17:00",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-09T16:52:33.000Z"
       },
       {
-        "time": "09:30",
-        "title": "ハイエンドCNC工作機械の世界市場（2026年～2032年）、市場規模（CNC旋盤、CNCフライス盤、CNC研削盤、その他）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxOGNldWh1eVRReVZZRkFVMFh3Njc2NDFHQmRkNmJHX1hxT2p1SHBkUXUtSEZfcHBmUm1NNDBGT2p4Y0h4RWhF?oc=5",
-        "publishedAt": "2026-06-09T00:30:00.000Z"
-      },
-      {
         "time": "13:30",
         "title": "AIによる常時監視で切削加工異常を自動検知するモニタリングプラン：工作機械",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02WTZMZk1JczFBYXk1aUY3Vy1FdGJfcGdDbXAyOWhEX2VxbWhFcHhEWjg5Y2oybTg0b2llSjJYYnJVTUhHa3dZWl9nZk9mUHZGZEV5a0djTGZkRHJtSUt5UnctaVJDNHRndk15M2xQVQ?oc=5",
         "publishedAt": "2026-06-09T04:30:00.000Z"
+      },
+      {
+        "time": "09:30",
+        "title": "ハイエンドCNC工作機械の世界市場（2026年～2032年）、市場規模（CNC旋盤、CNCフライス盤、CNC研削盤、その他）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxOGNldWh1eVRReVZZRkFVMFh3Njc2NDFHQmRkNmJHX1hxT2p1SHBkUXUtSEZfcHBmUm1NNDBGT2p4Y0h4RWhF?oc=5",
+        "publishedAt": "2026-06-09T00:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-09T11:19:44.000Z"
       },
       {
-        "time": "07:28",
-        "title": "AIに相談し恐喝疑い 少女ら逮捕",
+        "time": "08:26",
+        "title": "AIに相談し恐喝未遂疑い 5人逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583624?source=rss",
-        "publishedAt": "2026-06-09T22:28:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583633?source=rss",
+        "publishedAt": "2026-06-09T23:26:18.000Z"
       }
     ],
     "subsidyHeadlines": [
