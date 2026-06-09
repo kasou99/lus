@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T13:12:58.495Z",
+  "updatedAt": "2026-06-09T14:21:43.436Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-06-09T07:00:00.000Z"
       },
       {
-        "time": "18:28",
-        "title": "工作機械用ロータリージョイント市場規模は2026年80.63百万米ドル、成長率5.7%で拡大予測｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2SmQ1N0pzeXNvZU5Rd3JMUk5FbGNoRVU3a0llT1dmREkzQ1pPc3c3M1dCQVlxVF84YWRIc01xaUxRbm5ObjhOS3JSc2Nla25Qbm9fRmtMUQ?oc=5",
-        "publishedAt": "2026-06-09T09:28:46.000Z"
-      },
-      {
         "time": "13:30",
         "title": "AIによる常時監視で切削加工異常を自動検知するモニタリングプラン：工作機械",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02WTZMZk1JczFBYXk1aUY3Vy1FdGJfcGdDbXAyOWhEX2VxbWhFcHhEWjg5Y2oybTg0b2llSjJYYnJVTUhHa3dZWl9nZk9mUHZGZEV5a0djTGZkRHJtSUt5UnctaVJDNHRndk15M2xQVQ?oc=5",
         "publishedAt": "2026-06-09T04:30:00.000Z"
+      },
+      {
+        "time": "18:28",
+        "title": "工作機械用ロータリージョイント市場規模は2026年80.63百万米ドル、成長率5.7%で拡大予測｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2SmQ1N0pzeXNvZU5Rd3JMUk5FbGNoRVU3a0llT1dmREkzQ1pPc3c3M1dCQVlxVF84YWRIc01xaUxRbm5ObjhOS3JSc2Nla25Qbm9fRmtMUQ?oc=5",
+        "publishedAt": "2026-06-09T09:28:46.000Z"
       },
       {
         "time": "09:30",
@@ -156,18 +156,25 @@
         "publishedAt": "2026-06-09T08:39:48.000Z"
       },
       {
-        "time": "18:47",
-        "title": "宇都宮でクマ1頭捕獲 10日も休校",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583585?source=rss",
-        "publishedAt": "2026-06-09T09:47:20.000Z"
-      },
-      {
         "time": "21:29",
         "title": "池田小事件で重傷 今は2児の母に",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583601?source=rss",
         "publishedAt": "2026-06-09T12:29:20.000Z"
+      },
+      {
+        "time": "23:10",
+        "title": "クマ逃げた家の住人 中継見て驚き",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583613?source=rss",
+        "publishedAt": "2026-06-09T14:10:43.000Z"
+      },
+      {
+        "time": "22:38",
+        "title": "展覧会中止 徳島知事圧力巡り応酬",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583607?source=rss",
+        "publishedAt": "2026-06-09T13:38:38.000Z"
       },
       {
         "time": "20:19",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583586?source=rss",
         "publishedAt": "2026-06-09T09:51:35.000Z"
-      },
-      {
-        "time": "18:14",
-        "title": "不適切指導「告発者捜し」5人転校",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583582?source=rss",
-        "publishedAt": "2026-06-09T09:14:21.000Z"
       }
     ],
     "subsidyHeadlines": [

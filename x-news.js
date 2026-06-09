@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-09T13:13:00.000Z",
+  "updatedAt": "2026-06-09T14:21:44.274Z",
   "items": [
-    {
-      "time": "20:54",
-      "title": "ナフサ不足指摘され 赤沢氏猛反論",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583596?source=rss",
-      "publishedAt": "2026-06-09T11:54:04.000Z",
-      "xQuery": "ナフサ不足指摘され 赤沢氏猛反論"
-    },
     {
       "time": "20:57",
       "title": "日銀1%に利上げへ 家計への影響",
@@ -18,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "日銀1%に利上げへ 家計への影響"
     },
     {
+      "time": "21:29",
+      "title": "池田小事件で重傷 今は2児の母に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583601?source=rss",
+      "publishedAt": "2026-06-09T12:29:20.000Z",
+      "xQuery": "池田小事件で重傷 今は2児の母に"
+    },
+    {
+      "time": "22:50",
+      "title": "首相秘書の参考人招致 立憲が要求",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583609?source=rss",
+      "publishedAt": "2026-06-09T13:50:51.000Z",
+      "xQuery": "首相秘書の参考人招致 立憲が要求"
+    },
+    {
       "time": "21:05",
       "title": "NZ首都に11mの高波 数百人が避難",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6583598?source=rss",
       "publishedAt": "2026-06-09T12:05:56.000Z",
       "xQuery": "NZ首都に11mの高波 数百人が避難"
-    },
-    {
-      "time": "18:14",
-      "title": "不適切指導「告発者捜し」5人転校",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583582?source=rss",
-      "publishedAt": "2026-06-09T09:14:21.000Z",
-      "xQuery": "不適切指導「告発者捜し」5人転校"
     },
     {
       "time": "22:07",
