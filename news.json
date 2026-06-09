@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-09T03:48:47.703Z",
+  "updatedAt": "2026-06-09T05:32:00.079Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:30",
+        "title": "AIによる常時監視で切削加工異常を自動検知するモニタリングプラン：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02WTZMZk1JczFBYXk1aUY3Vy1FdGJfcGdDbXAyOWhEX2VxbWhFcHhEWjg5Y2oybTg0b2llSjJYYnJVTUhHa3dZWl9nZk9mUHZGZEV5a0djTGZkRHJtSUt5UnctaVJDNHRndk15M2xQVQ?oc=5",
+        "publishedAt": "2026-06-09T04:30:00.000Z"
+      },
       {
         "time": "09:30",
         "title": "ハイエンドCNC工作機械の世界市場（2026年～2032年）、市場規模（CNC旋盤、CNCフライス盤、CNC研削盤、その他）・分析レポートを発表",
@@ -10,11 +17,11 @@
         "publishedAt": "2026-06-09T00:30:00.000Z"
       },
       {
-        "time": "07:10",
+        "time": "07:06",
         "title": "今日のスケジュール－5月工作機械受注や米4月貿易収支など(トレーダーズ・ウェブ)",
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0wteERHMENfbGZsN3JlZS15Q3JzR0tLdE5kS0JYcVN2OWdVUTA0dUpaZTc1SVBrZ096dTFLRkJSczRDczZmdzU1QjhGWU9Falg3ZlduODV5c2ZfamgzRTAyTEFnMzZ6cXdjQ0ZydkVTT1BHZnpzTVdMX2x3QmR2M2MxWWZJS1E?oc=5",
-        "publishedAt": "2026-06-08T22:10:43.000Z"
+        "publishedAt": "2026-06-08T22:06:00.000Z"
       },
       {
         "time": "19:53",
@@ -50,13 +57,6 @@
         "source": "RBB TODAY",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Mb2ZWdXpVNFVEVThZSmp4cmlsb2R5ZXI3dXNoRkZPZml3Y1JxMnF3Z2Q2ckxxekVSVFFZdEpMQWRKSlozRVJhQ2R3OThBS3RvLWNtOEhkWmlJZlJsWklzNVdua2dVbXhpYjRzWm1EWjdmbk1NS3lIcg?oc=5",
         "publishedAt": "2026-06-08T14:40:02.000Z"
-      },
-      {
-        "time": "01:05",
-        "title": "(株)岡本工作機械製作所【6125】：現物信用売買内訳時系列",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QTWpUWHAzTGY2RWNTM0FDVmszS3VCUzRGTzlzNVU5eGpISWRxVlB4bG5iNGl1S0tFSWViUWFKbWhJNHZLWjl6RExNT19vSnA3RmNxaUdWRFBXNl91a2F3?oc=5",
-        "publishedAt": "2026-06-08T16:05:34.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-06-09T00:16:51.000Z"
       },
       {
+        "time": "14:12",
+        "title": "米との合意近かった イラン高官",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583551?source=rss",
+        "publishedAt": "2026-06-09T05:12:08.000Z"
+      },
+      {
         "time": "22:15",
         "title": "イラン 対イスラエル作戦一時停止",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583488?source=rss",
         "publishedAt": "2026-06-08T13:29:04.000Z"
-      },
-      {
-        "time": "09:47",
-        "title": "独仏 次世代戦闘機の共同開発中止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583522?source=rss",
-        "publishedAt": "2026-06-09T00:47:25.000Z"
       }
     ],
     "economyHeadlines": [
@@ -117,13 +117,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583484?source=rss",
         "publishedAt": "2026-06-08T13:04:13.000Z"
-      },
-      {
-        "time": "19:33",
-        "title": "九電送配電 顧客情報入りSSD紛失",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583471?source=rss",
-        "publishedAt": "2026-06-08T10:33:55.000Z"
       },
       {
         "time": "09:35",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583539?source=rss",
         "publishedAt": "2026-06-09T03:23:56.000Z"
+      },
+      {
+        "time": "23:00",
+        "title": "鶏肉なぜ高騰 もも肉は最高値更新",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583491?source=rss",
+        "publishedAt": "2026-06-08T14:00:41.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-09T01:02:53.000Z"
       },
       {
-        "time": "06:08",
-        "title": "車3台絡む事故 生後8カ月男児重体",
+        "time": "13:29",
+        "title": "商業施設8人搬送はスプレー原因か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583496?source=rss",
-        "publishedAt": "2026-06-08T21:08:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583548?source=rss",
+        "publishedAt": "2026-06-09T04:29:33.000Z"
       }
     ],
     "subsidyHeadlines": [

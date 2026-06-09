@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-09T03:48:48.699Z",
+  "updatedAt": "2026-06-09T05:32:01.089Z",
   "items": [
     {
-      "time": "11:00",
-      "title": "森議長「皇位継承権」発言が波紋",
+      "time": "14:12",
+      "title": "米との合意近かった イラン高官",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583528?source=rss",
-      "publishedAt": "2026-06-09T02:00:10.000Z",
-      "xQuery": "森議長「皇位継承権」発言が波紋"
+      "url": "https://news.yahoo.co.jp/pickup/6583551?source=rss",
+      "publishedAt": "2026-06-09T05:12:08.000Z",
+      "xQuery": "米との合意近かった イラン高官"
     },
     {
-      "time": "10:27",
-      "title": "官房長官秘書官 昨年不正出張疑い",
+      "time": "13:42",
+      "title": "男系男子養子案 旧宮家三男の本音",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583526?source=rss",
-      "publishedAt": "2026-06-09T01:27:39.000Z",
-      "xQuery": "官房長官秘書官 昨年不正出張疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6583549?source=rss",
+      "publishedAt": "2026-06-09T04:42:22.000Z",
+      "xQuery": "男系男子養子案 旧宮家三男の本音"
     },
     {
-      "time": "11:36",
-      "title": "阿部氏を書類送検 寛大処分の意見",
+      "time": "12:48",
+      "title": "自民 総務会で国旗損壊罪法案了承",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583535?source=rss",
-      "publishedAt": "2026-06-09T02:36:34.000Z",
-      "xQuery": "阿部氏を書類送検 寛大処分の意見"
+      "url": "https://news.yahoo.co.jp/pickup/6583543?source=rss",
+      "publishedAt": "2026-06-09T03:48:07.000Z",
+      "xQuery": "自民 総務会で国旗損壊罪法案了承"
     },
     {
-      "time": "11:11",
-      "title": "エレベーターの重り落下 男性死亡",
+      "time": "13:29",
+      "title": "商業施設8人搬送はスプレー原因か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583529?source=rss",
-      "publishedAt": "2026-06-09T02:11:36.000Z",
-      "xQuery": "エレベーターの重り落下 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6583548?source=rss",
+      "publishedAt": "2026-06-09T04:29:33.000Z",
+      "xQuery": "商業施設8人搬送はスプレー原因か"
     },
     {
       "time": "12:04",
