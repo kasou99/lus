@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-09T01:08:06.585Z",
+  "updatedAt": "2026-06-09T02:25:02.472Z",
   "items": [
     {
-      "time": "08:11",
-      "title": "3文書改定 非核三原則見直し賛否",
+      "time": "09:47",
+      "title": "独仏 次世代戦闘機の共同開発中止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583506?source=rss",
-      "publishedAt": "2026-06-08T23:11:13.000Z",
-      "xQuery": "3文書改定 非核三原則見直し賛否"
+      "url": "https://news.yahoo.co.jp/pickup/6583522?source=rss",
+      "publishedAt": "2026-06-09T00:47:25.000Z",
+      "xQuery": "独仏 次世代戦闘機の共同開発中止"
     },
     {
-      "time": "08:38",
-      "title": "OpenAIがIPO申請 企業価値136兆円",
+      "time": "10:27",
+      "title": "官房長官秘書官 昨年不正出張疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583512?source=rss",
-      "publishedAt": "2026-06-08T23:38:39.000Z",
-      "xQuery": "OpenAIがIPO申請 企業価値136兆円"
-    },
-    {
-      "time": "07:38",
-      "title": "公明政党要件失う可能性 合流検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583505?source=rss",
-      "publishedAt": "2026-06-08T22:38:42.000Z",
-      "xQuery": "公明政党要件失う可能性 合流検討"
+      "url": "https://news.yahoo.co.jp/pickup/6583526?source=rss",
+      "publishedAt": "2026-06-09T01:27:39.000Z",
+      "xQuery": "官房長官秘書官 昨年不正出張疑い"
     },
     {
       "time": "09:23",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "G阿部前監督を書類送検 暴行疑い"
     },
     {
-      "time": "08:59",
-      "title": "世界初食道がんウイルス製剤 承認",
+      "time": "10:09",
+      "title": "コンテナ内遺体 ここ数日で死亡か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583515?source=rss",
-      "publishedAt": "2026-06-08T23:59:26.000Z",
-      "xQuery": "世界初食道がんウイルス製剤 承認"
+      "url": "https://news.yahoo.co.jp/pickup/6583525?source=rss",
+      "publishedAt": "2026-06-09T01:09:12.000Z",
+      "xQuery": "コンテナ内遺体 ここ数日で死亡か"
+    },
+    {
+      "time": "09:16",
+      "title": "トランプ氏がナルト動画投稿 物議",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583518?source=rss",
+      "publishedAt": "2026-06-09T00:16:51.000Z",
+      "xQuery": "トランプ氏がナルト動画投稿 物議"
     }
   ]
 };
