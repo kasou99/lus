@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-09T02:25:02.472Z",
+  "updatedAt": "2026-06-09T03:48:48.699Z",
   "items": [
     {
-      "time": "09:47",
-      "title": "独仏 次世代戦闘機の共同開発中止",
+      "time": "11:00",
+      "title": "森議長「皇位継承権」発言が波紋",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583522?source=rss",
-      "publishedAt": "2026-06-09T00:47:25.000Z",
-      "xQuery": "独仏 次世代戦闘機の共同開発中止"
+      "url": "https://news.yahoo.co.jp/pickup/6583528?source=rss",
+      "publishedAt": "2026-06-09T02:00:10.000Z",
+      "xQuery": "森議長「皇位継承権」発言が波紋"
     },
     {
       "time": "10:27",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "官房長官秘書官 昨年不正出張疑い"
     },
     {
-      "time": "09:23",
-      "title": "G阿部前監督を書類送検 暴行疑い",
+      "time": "11:36",
+      "title": "阿部氏を書類送検 寛大処分の意見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583520?source=rss",
-      "publishedAt": "2026-06-09T00:23:59.000Z",
-      "xQuery": "G阿部前監督を書類送検 暴行疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6583535?source=rss",
+      "publishedAt": "2026-06-09T02:36:34.000Z",
+      "xQuery": "阿部氏を書類送検 寛大処分の意見"
     },
     {
-      "time": "10:09",
-      "title": "コンテナ内遺体 ここ数日で死亡か",
+      "time": "11:11",
+      "title": "エレベーターの重り落下 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583525?source=rss",
-      "publishedAt": "2026-06-09T01:09:12.000Z",
-      "xQuery": "コンテナ内遺体 ここ数日で死亡か"
+      "url": "https://news.yahoo.co.jp/pickup/6583529?source=rss",
+      "publishedAt": "2026-06-09T02:11:36.000Z",
+      "xQuery": "エレベーターの重り落下 男性死亡"
     },
     {
-      "time": "09:16",
-      "title": "トランプ氏がナルト動画投稿 物議",
+      "time": "12:04",
+      "title": "肝試しで「廃墟」入る 人骨を発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583518?source=rss",
-      "publishedAt": "2026-06-09T00:16:51.000Z",
-      "xQuery": "トランプ氏がナルト動画投稿 物議"
+      "url": "https://news.yahoo.co.jp/pickup/6583538?source=rss",
+      "publishedAt": "2026-06-09T03:04:14.000Z",
+      "xQuery": "肝試しで「廃墟」入る 人骨を発見"
     }
   ]
 };
