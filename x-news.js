@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-09T22:05:02.633Z",
+  "updatedAt": "2026-06-09T23:02:24.758Z",
   "items": [
     {
-      "time": "20:57",
-      "title": "日銀1%に利上げへ 家計への影響",
+      "time": "07:13",
+      "title": "米軍 ヘリ撃墜でイランに報復開始",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583597?source=rss",
-      "publishedAt": "2026-06-09T11:57:26.000Z",
-      "xQuery": "日銀1%に利上げへ 家計への影響"
-    },
-    {
-      "time": "22:50",
-      "title": "首相秘書の参考人招致 立憲が要求",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583609?source=rss",
-      "publishedAt": "2026-06-09T13:50:51.000Z",
-      "xQuery": "首相秘書の参考人招致 立憲が要求"
+      "url": "https://news.yahoo.co.jp/pickup/6583620?source=rss",
+      "publishedAt": "2026-06-09T22:13:47.000Z",
+      "xQuery": "米軍 ヘリ撃墜でイランに報復開始"
     },
     {
       "time": "06:51",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "宇都宮出没のクマ 複数頭の可能性"
     },
     {
-      "time": "21:05",
-      "title": "NZ首都に11mの高波 数百人が避難",
+      "time": "07:40",
+      "title": "成田の滑走路巡り 土地収用申請へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583598?source=rss",
-      "publishedAt": "2026-06-09T12:05:56.000Z",
-      "xQuery": "NZ首都に11mの高波 数百人が避難"
+      "url": "https://news.yahoo.co.jp/pickup/6583626?source=rss",
+      "publishedAt": "2026-06-09T22:40:33.000Z",
+      "xQuery": "成田の滑走路巡り 土地収用申請へ"
     },
     {
-      "time": "06:31",
-      "title": "Anthropic ミュトス級AIを提供",
+      "time": "07:28",
+      "title": "AIに相談し恐喝疑い 少女ら逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583618?source=rss",
-      "publishedAt": "2026-06-09T21:31:43.000Z",
-      "xQuery": "Anthropic ミュトス級AIを提供"
+      "url": "https://news.yahoo.co.jp/pickup/6583624?source=rss",
+      "publishedAt": "2026-06-09T22:28:58.000Z",
+      "xQuery": "AIに相談し恐喝疑い 少女ら逮捕"
+    },
+    {
+      "time": "07:55",
+      "title": "大きめが映える? タンブラー人気",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583627?source=rss",
+      "publishedAt": "2026-06-09T22:55:48.000Z",
+      "xQuery": "大きめが映える? タンブラー人気"
     }
   ]
 };

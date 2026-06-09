@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T22:05:01.850Z",
+  "updatedAt": "2026-06-09T23:02:23.674Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,11 +45,11 @@
         "publishedAt": "2026-06-09T16:52:33.000Z"
       },
       {
-        "time": "10:30",
-        "title": "自動車部品サプライヤーの大和電化工業所が『カミナシ レポート』『カミナシ 設備保全』を導入",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qTm1Ub0Z1ek1ZdTJUSHNPdGNyN3ZuT2owUkVtMklCR0xkODVER0ZZY0kxTmd6YWpkdDFiRFIxaGJ3SVdNaG9hYW00WXV6OUZrSnEydUFFM2FpdUZVd3RLVHA3Skl4NnFqYnc?oc=5",
-        "publishedAt": "2026-06-09T01:30:21.000Z"
+        "time": "09:30",
+        "title": "ハイエンドCNC工作機械の世界市場（2026年～2032年）、市場規模（CNC旋盤、CNCフライス盤、CNC研削盤、その他）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxOGNldWh1eVRReVZZRkFVMFh3Njc2NDFHQmRkNmJHX1hxT2p1SHBkUXUtSEZfcHBmUm1NNDBGT2p4Y0h4RWhF?oc=5",
+        "publishedAt": "2026-06-09T00:30:00.000Z"
       },
       {
         "time": "13:30",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:13",
+        "title": "米軍 ヘリ撃墜でイランに報復開始",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583620?source=rss",
+        "publishedAt": "2026-06-09T22:13:47.000Z"
+      },
       {
         "time": "17:54",
         "title": "習氏の異例眼鏡姿 北朝鮮側が配信",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583518?source=rss",
         "publishedAt": "2026-06-09T00:16:51.000Z"
-      },
-      {
-        "time": "14:12",
-        "title": "米との合意近かった イラン高官",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583551?source=rss",
-        "publishedAt": "2026-06-09T05:12:08.000Z"
       }
     ],
     "economyHeadlines": [
@@ -112,18 +112,18 @@
         "publishedAt": "2026-06-09T11:57:26.000Z"
       },
       {
-        "time": "14:59",
-        "title": "日銀 6月会合で利上げの公算大",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583556?source=rss",
-        "publishedAt": "2026-06-09T05:59:12.000Z"
-      },
-      {
         "time": "20:54",
         "title": "ナフサ不足指摘され 赤沢氏猛反論",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583596?source=rss",
         "publishedAt": "2026-06-09T11:54:04.000Z"
+      },
+      {
+        "time": "07:40",
+        "title": "成田の滑走路巡り 土地収用申請へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583626?source=rss",
+        "publishedAt": "2026-06-09T22:40:33.000Z"
       },
       {
         "time": "19:47",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-06-09T07:30:51.000Z"
       },
       {
-        "time": "09:35",
-        "title": "ANAの新料金体系が物議 狙いは",
+        "time": "15:34",
+        "title": "JR東「QR乗車券」のイメージ公開",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583521?source=rss",
-        "publishedAt": "2026-06-09T00:35:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583558?source=rss",
+        "publishedAt": "2026-06-09T06:34:02.000Z"
       }
     ],
     "localHeadlines": [
@@ -161,13 +161,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583613?source=rss",
         "publishedAt": "2026-06-09T14:10:43.000Z"
-      },
-      {
-        "time": "17:39",
-        "title": "寝たきり父殺害の罪 息子に無罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583575?source=rss",
-        "publishedAt": "2026-06-09T08:39:48.000Z"
       },
       {
         "time": "21:29",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583594?source=rss",
         "publishedAt": "2026-06-09T11:19:44.000Z"
+      },
+      {
+        "time": "07:28",
+        "title": "AIに相談し恐喝疑い 少女ら逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583624?source=rss",
+        "publishedAt": "2026-06-09T22:28:58.000Z"
       }
     ],
     "subsidyHeadlines": [
