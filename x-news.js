@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-09T11:35:54.978Z",
+  "updatedAt": "2026-06-09T13:13:00.000Z",
   "items": [
     {
-      "time": "18:47",
-      "title": "宇都宮でクマ1頭捕獲 10日も休校",
+      "time": "20:54",
+      "title": "ナフサ不足指摘され 赤沢氏猛反論",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583585?source=rss",
-      "publishedAt": "2026-06-09T09:47:20.000Z",
-      "xQuery": "宇都宮でクマ1頭捕獲 10日も休校"
+      "url": "https://news.yahoo.co.jp/pickup/6583596?source=rss",
+      "publishedAt": "2026-06-09T11:54:04.000Z",
+      "xQuery": "ナフサ不足指摘され 赤沢氏猛反論"
     },
     {
-      "time": "17:54",
-      "title": "習氏の異例眼鏡姿 北朝鮮側が配信",
+      "time": "20:57",
+      "title": "日銀1%に利上げへ 家計への影響",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583578?source=rss",
-      "publishedAt": "2026-06-09T08:54:28.000Z",
-      "xQuery": "習氏の異例眼鏡姿 北朝鮮側が配信"
+      "url": "https://news.yahoo.co.jp/pickup/6583597?source=rss",
+      "publishedAt": "2026-06-09T11:57:26.000Z",
+      "xQuery": "日銀1%に利上げへ 家計への影響"
     },
     {
-      "time": "20:19",
-      "title": "少年の逆送なし 強盗被害者の怒り",
+      "time": "21:05",
+      "title": "NZ首都に11mの高波 数百人が避難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583594?source=rss",
-      "publishedAt": "2026-06-09T11:19:44.000Z",
-      "xQuery": "少年の逆送なし 強盗被害者の怒り"
+      "url": "https://news.yahoo.co.jp/pickup/6583598?source=rss",
+      "publishedAt": "2026-06-09T12:05:56.000Z",
+      "xQuery": "NZ首都に11mの高波 数百人が避難"
     },
     {
-      "time": "18:51",
-      "title": "幼児の顔にケーキ動画 警察が対応",
+      "time": "18:14",
+      "title": "不適切指導「告発者捜し」5人転校",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583586?source=rss",
-      "publishedAt": "2026-06-09T09:51:35.000Z",
-      "xQuery": "幼児の顔にケーキ動画 警察が対応"
+      "url": "https://news.yahoo.co.jp/pickup/6583582?source=rss",
+      "publishedAt": "2026-06-09T09:14:21.000Z",
+      "xQuery": "不適切指導「告発者捜し」5人転校"
     },
     {
-      "time": "19:47",
-      "title": "「オニツカタイガー」を分社化",
+      "time": "22:07",
+      "title": "ただの風邪と思い受診 急性白血病",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583591?source=rss",
-      "publishedAt": "2026-06-09T10:47:26.000Z",
-      "xQuery": "「オニツカタイガー」を分社化"
+      "url": "https://news.yahoo.co.jp/pickup/6583604?source=rss",
+      "publishedAt": "2026-06-09T13:07:36.000Z",
+      "xQuery": "ただの風邪と思い受診 急性白血病"
     }
   ]
 };

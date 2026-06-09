@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-09T11:35:54.150Z",
+  "updatedAt": "2026-06-09T13:12:58.495Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "15:18",
-        "title": "5月工作機械受注は前年比37.4％増、11カ月連続プラス＝工作機械工業会",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY19EcU9mcnJtbF9yWG8tMFVzSUwxakQ0U2JIUmcxaWxWQWtPN3FwMXl4aGdJNFFzeFFXZTJkVXljTXlNdEoxMF8wSE1fN3pQaXJ0ODJMOUhaQVRnczRWX2xUZS1KUEpQeFBjREZBRVZfcVdHUC1aV3JzNTJNa3dTOA?oc=5",
-        "publishedAt": "2026-06-09T06:18:00.000Z"
-      },
       {
         "time": "17:26",
         "title": "工作機械受注、5月37%増 国内外でAI関連が活況",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tNmxacERDbUFHYWRsMm9xSGhSWnQ2SEZIck82MUdvcDFMaG9wY2ZjZkNUZ01pY0xEYUtXWklhc21YTVl0UEpsN0duanBQUUVFSzh3aWpjbmxZaG9UZTJybFNiaFdkbW9yMUw3aA?oc=5",
         "publishedAt": "2026-06-09T08:26:35.000Z"
+      },
+      {
+        "time": "15:18",
+        "title": "5月工作機械受注は前年比37.4％増、11カ月連続プラス＝工作機械工業会",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY19EcU9mcnJtbF9yWG8tMFVzSUwxakQ0U2JIUmcxaWxWQWtPN3FwMXl4aGdJNFFzeFFXZTJkVXljTXlNdEoxMF8wSE1fN3pQaXJ0ODJMOUhaQVRnczRWX2xUZS1KUEpQeFBjREZBRVZfcVdHUC1aV3JzNTJNa3dTOA?oc=5",
+        "publishedAt": "2026-06-09T06:18:00.000Z"
       },
       {
         "time": "17:02",
@@ -38,18 +38,18 @@
         "publishedAt": "2026-06-09T07:00:00.000Z"
       },
       {
-        "time": "13:30",
-        "title": "AIによる常時監視で切削加工異常を自動検知するモニタリングプラン：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02WTZMZk1JczFBYXk1aUY3Vy1FdGJfcGdDbXAyOWhEX2VxbWhFcHhEWjg5Y2oybTg0b2llSjJYYnJVTUhHa3dZWl9nZk9mUHZGZEV5a0djTGZkRHJtSUt5UnctaVJDNHRndk15M2xQVQ?oc=5",
-        "publishedAt": "2026-06-09T04:30:00.000Z"
-      },
-      {
         "time": "18:28",
         "title": "工作機械用ロータリージョイント市場規模は2026年80.63百万米ドル、成長率5.7%で拡大予測｜QYResearch",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2SmQ1N0pzeXNvZU5Rd3JMUk5FbGNoRVU3a0llT1dmREkzQ1pPc3c3M1dCQVlxVF84YWRIc01xaUxRbm5ObjhOS3JSc2Nla25Qbm9fRmtMUQ?oc=5",
         "publishedAt": "2026-06-09T09:28:46.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "AIによる常時監視で切削加工異常を自動検知するモニタリングプラン：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02WTZMZk1JczFBYXk1aUY3Vy1FdGJfcGdDbXAyOWhEX2VxbWhFcHhEWjg5Y2oybTg0b2llSjJYYnJVTUhHa3dZWl9nZk9mUHZGZEV5a0djTGZkRHJtSUt5UnctaVJDNHRndk15M2xQVQ?oc=5",
+        "publishedAt": "2026-06-09T04:30:00.000Z"
       },
       {
         "time": "09:30",
@@ -75,6 +75,13 @@
         "publishedAt": "2026-06-09T02:32:22.000Z"
       },
       {
+        "time": "21:05",
+        "title": "NZ首都に11mの高波 数百人が避難",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583598?source=rss",
+        "publishedAt": "2026-06-09T12:05:56.000Z"
+      },
+      {
         "time": "21:43",
         "title": "フィリピンで地震 30人超が死亡",
         "source": "Yahoo!ニュース",
@@ -94,22 +101,29 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583551?source=rss",
         "publishedAt": "2026-06-09T05:12:08.000Z"
-      },
-      {
-        "time": "22:15",
-        "title": "イラン 対イスラエル作戦一時停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583485?source=rss",
-        "publishedAt": "2026-06-08T13:15:49.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "20:57",
+        "title": "日銀1%に利上げへ 家計への影響",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583597?source=rss",
+        "publishedAt": "2026-06-09T11:57:26.000Z"
+      },
       {
         "time": "14:59",
         "title": "日銀 6月会合で利上げの公算大",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583556?source=rss",
         "publishedAt": "2026-06-09T05:59:12.000Z"
+      },
+      {
+        "time": "20:54",
+        "title": "ナフサ不足指摘され 赤沢氏猛反論",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583596?source=rss",
+        "publishedAt": "2026-06-09T11:54:04.000Z"
       },
       {
         "time": "19:47",
@@ -131,20 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583521?source=rss",
         "publishedAt": "2026-06-09T00:35:28.000Z"
-      },
-      {
-        "time": "15:34",
-        "title": "JR東「QR乗車券」のイメージ公開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583558?source=rss",
-        "publishedAt": "2026-06-09T06:34:02.000Z"
-      },
-      {
-        "time": "20:28",
-        "title": "ブルダック 累計販売100億個突破",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583593?source=rss",
-        "publishedAt": "2026-06-09T11:28:00.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-06-09T08:39:48.000Z"
       },
       {
-        "time": "15:58",
-        "title": "宇都宮のクマ 麻酔銃が命中し捕獲",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583562?source=rss",
-        "publishedAt": "2026-06-09T06:58:41.000Z"
-      },
-      {
         "time": "18:47",
         "title": "宇都宮でクマ1頭捕獲 10日も休校",
         "source": "Yahoo!ニュース",
@@ -170,11 +163,11 @@
         "publishedAt": "2026-06-09T09:47:20.000Z"
       },
       {
-        "time": "16:45",
-        "title": "知床沈没訴訟 社長が曖昧な証言",
+        "time": "21:29",
+        "title": "池田小事件で重傷 今は2児の母に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583567?source=rss",
-        "publishedAt": "2026-06-09T07:45:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583601?source=rss",
+        "publishedAt": "2026-06-09T12:29:20.000Z"
       },
       {
         "time": "20:19",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583586?source=rss",
         "publishedAt": "2026-06-09T09:51:35.000Z"
+      },
+      {
+        "time": "18:14",
+        "title": "不適切指導「告発者捜し」5人転校",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583582?source=rss",
+        "publishedAt": "2026-06-09T09:14:21.000Z"
       }
     ],
     "subsidyHeadlines": [
