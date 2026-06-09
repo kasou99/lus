@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-08T23:54:04.791Z",
+  "updatedAt": "2026-06-09T01:08:06.585Z",
   "items": [
     {
       "time": "08:11",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "公明政党要件失う可能性 合流検討"
     },
     {
-      "time": "06:46",
-      "title": "日韓関係「良い」59%で最高 読売",
+      "time": "09:23",
+      "title": "G阿部前監督を書類送検 暴行疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583498?source=rss",
-      "publishedAt": "2026-06-08T21:46:05.000Z",
-      "xQuery": "日韓関係「良い」59%で最高 読売"
+      "url": "https://news.yahoo.co.jp/pickup/6583520?source=rss",
+      "publishedAt": "2026-06-09T00:23:59.000Z",
+      "xQuery": "G阿部前監督を書類送検 暴行疑い"
     },
     {
-      "time": "08:25",
-      "title": "子供「110番の家」激減 識者警鐘",
+      "time": "08:59",
+      "title": "世界初食道がんウイルス製剤 承認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583511?source=rss",
-      "publishedAt": "2026-06-08T23:25:10.000Z",
-      "xQuery": "子供「110番の家」激減 識者警鐘"
+      "url": "https://news.yahoo.co.jp/pickup/6583515?source=rss",
+      "publishedAt": "2026-06-08T23:59:26.000Z",
+      "xQuery": "世界初食道がんウイルス製剤 承認"
     }
   ]
 };

@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-08T23:54:03.863Z",
+  "updatedAt": "2026-06-09T01:08:05.563Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:30",
+        "title": "ハイエンドCNC工作機械の世界市場（2026年～2032年）、市場規模（CNC旋盤、CNCフライス盤、CNC研削盤、その他）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBVm4td0w0eGRyNlRZT2p3NC03N0s2RGNZaU5kN2pBZXNPbW5zaUluaVFPYk5mTGI2YTU2R04yVUtUd1lGTWx1NkREOWhzUWs?oc=5",
+        "publishedAt": "2026-06-09T00:30:00.000Z"
+      },
       {
         "time": "07:10",
         "title": "今日のスケジュール－5月工作機械受注や米4月貿易収支など(トレーダーズ・ウェブ)",
@@ -18,9 +25,9 @@
       },
       {
         "time": "06:00",
-        "title": "中国の補助金投入で｢工作機械の常識｣が変わった 日工会･稲葉会長が語った\"ものづくりの未来\" 3ページ目 | ビジネス",
+        "title": "中国の補助金投入で｢工作機械の常識｣が変わった 日工会･稲葉会長が語った\"ものづくりの未来\" 2ページ目 | ビジネス",
         "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81OGZ1Q0Vvcmo2c0w4dS03OHUyaDRYUnVqdE1CNF9WaE9SOUxUR2txcWFRQjdrR01MLWlRSmN5TUhtYnEyWV92UEpsYlo0UjFUVkJWRTUydkFSa2c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oTmZkZmFXai1pYXQzTXpERU41OWtySzRDRGZncFI5dU5JTlRHTkdMb2lETlNJNHFFUUtoOWVkWGdYNWRVM0VZM0gtRVE3YXRUNkoyNTU3WktmeU0?oc=5",
         "publishedAt": "2026-06-08T21:00:00.000Z"
       },
       {
@@ -31,11 +38,11 @@
         "publishedAt": "2026-06-08T10:12:00.000Z"
       },
       {
-        "time": "10:00",
-        "title": "設備保全クラウド『EMLink』モバイルアプリを大幅アップデート — ローカルLLMを本実装、Android対応、点検の写真・メモ統合、スケジュール自動割当機能を追加",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UTkJxa0VCZTBtN3l4UllVcEg5V1pVY0RkMm9ndVA5NXZ6OXRkcHBqTVJIWGNWejUxa25QOTlFOVduZUlmaUpUQmNNS0l3UlNDYktNU0FWb3FJUVg4RzNxX1JrQVM2OW5mUWc?oc=5",
-        "publishedAt": "2026-06-08T01:00:02.000Z"
+        "time": "23:32",
+        "title": "強みは多様な要望に応える技術 共立精機（宇都宮）の柿島章浩社長",
+        "source": "下野新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wcDVYdWQ5YUloN2ZkZExWVlFiNDRoeVJMTmJiWFU1Zmlsd0p6MVBQQ3V1M3h3LTR0NEpyeHIxU2hNNUl3NkRDYm5BdHR4MW1ham8tWlp4QUEwVnM?oc=5",
+        "publishedAt": "2026-06-08T14:32:04.000Z"
       },
       {
         "time": "00:40",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-06-08T15:40:00.000Z"
       },
       {
-        "time": "01:05",
-        "title": "(株)岡本工作機械製作所【6125】：現物信用売買内訳時系列",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QTWpUWHAzTGY2RWNTM0FDVmszS3VCUzRGTzlzNVU5eGpISWRxVlB4bG5iNGl1S0tFSWViUWFKbWhJNHZLWjl6RExNT19vSnA3RmNxaUdWRFBXNl91a2F3?oc=5",
-        "publishedAt": "2026-06-08T16:05:34.000Z"
-      },
-      {
-        "time": "09:40",
-        "title": "４月工作機械、記録的な伸び",
-        "source": "金属産業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16THRhX2ljZnhxUVEzd1NDY3UtWVhIQm1KS21Ual81SllYaXlGcE8wR1k4MXhlZmJza21lV1Fqd19hcGNuNll2aDBKcldDYUdWaGdDOUt2Y08?oc=5",
-        "publishedAt": "2026-06-08T00:40:10.000Z"
+        "time": "23:40",
+        "title": "設備保全クラウド『EMLink』モバイルアプリを大幅アップデート - ローカルLLMを本実装、Android対応、点検の写真・メモ統合、スケジュール自動割当機能を追加",
+        "source": "RBB TODAY",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Mb2ZWdXpVNFVEVThZSmp4cmlsb2R5ZXI3dXNoRkZPZml3Y1JxMnF3Z2Q2ckxxekVSVFFZdEpMQWRKSlozRVJhQ2R3OThBS3RvLWNtOEhkWmlJZlJsWklzNVdua2dVbXhpYjRzWm1EWjdmbk1NS3lIcg?oc=5",
+        "publishedAt": "2026-06-08T14:40:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,11 @@
         "publishedAt": "2026-06-08T12:43:34.000Z"
       },
       {
-        "time": "13:12",
-        "title": "比のM8.2地震で建物が倒壊 映像",
+        "time": "09:16",
+        "title": "トランプ氏がナルト動画投稿 物議",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583421?source=rss",
-        "publishedAt": "2026-06-08T04:12:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583518?source=rss",
+        "publishedAt": "2026-06-09T00:16:51.000Z"
       },
       {
         "time": "22:15",
@@ -89,11 +89,11 @@
         "publishedAt": "2026-06-08T13:29:04.000Z"
       },
       {
-        "time": "17:40",
-        "title": "トランプ氏の共和党 離反が拡大",
+        "time": "09:47",
+        "title": "独仏 次世代戦闘機の共同開発中止",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583448?source=rss",
-        "publishedAt": "2026-06-08T08:40:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583522?source=rss",
+        "publishedAt": "2026-06-09T00:47:25.000Z"
       },
       {
         "time": "20:33",
@@ -104,6 +104,13 @@
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "09:16",
+        "title": "USS設備刷新 日鉄4千億円投資へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583519?source=rss",
+        "publishedAt": "2026-06-09T00:16:15.000Z"
+      },
       {
         "time": "22:04",
         "title": "KADOKAWAに公取委が勧告へ",
@@ -119,6 +126,13 @@
         "publishedAt": "2026-06-08T10:33:55.000Z"
       },
       {
+        "time": "09:35",
+        "title": "ANAの新料金体系が物議 狙いは",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583521?source=rss",
+        "publishedAt": "2026-06-09T00:35:28.000Z"
+      },
+      {
         "time": "18:29",
         "title": "「退職金」縮小や廃止 なぜ広がる",
         "source": "Yahoo!ニュース",
@@ -126,41 +140,20 @@
         "publishedAt": "2026-06-08T09:29:44.000Z"
       },
       {
-        "time": "14:42",
-        "title": "初任給バブル 背景に年功賃金崩壊",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583411?source=rss",
-        "publishedAt": "2026-06-08T05:42:25.000Z"
-      },
-      {
         "time": "23:55",
         "title": "東京23区 中古でも2割が億ション",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583495?source=rss",
         "publishedAt": "2026-06-08T14:55:31.000Z"
-      },
-      {
-        "time": "23:00",
-        "title": "鶏肉なぜ高騰 もも肉は最高値更新",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583491?source=rss",
-        "publishedAt": "2026-06-08T14:00:41.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "18:35",
-        "title": "秋葉原殺傷から18年 現場では献花",
+        "time": "09:23",
+        "title": "G阿部前監督を書類送検 暴行疑い",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583466?source=rss",
-        "publishedAt": "2026-06-08T09:35:16.000Z"
-      },
-      {
-        "time": "11:55",
-        "title": "17歳殺害 内田被告に懲役27年求刑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583404?source=rss",
-        "publishedAt": "2026-06-08T02:55:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583520?source=rss",
+        "publishedAt": "2026-06-09T00:23:59.000Z"
       },
       {
         "time": "22:21",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583493?source=rss",
         "publishedAt": "2026-06-08T14:24:33.000Z"
+      },
+      {
+        "time": "10:02",
+        "title": "宇都宮大学でクマ目撃 全学部休講",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583523?source=rss",
+        "publishedAt": "2026-06-09T01:02:53.000Z"
       },
       {
         "time": "06:08",
