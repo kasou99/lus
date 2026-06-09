@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-09T08:43:32.501Z",
+  "updatedAt": "2026-06-09T10:20:19.979Z",
   "items": [
     {
-      "time": "16:45",
-      "title": "知床沈没訴訟 社長が曖昧な証言",
+      "time": "18:47",
+      "title": "宇都宮でクマ1頭捕獲 10日も休校",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583567?source=rss",
-      "publishedAt": "2026-06-09T07:45:55.000Z",
-      "xQuery": "知床沈没訴訟 社長が曖昧な証言"
+      "url": "https://news.yahoo.co.jp/pickup/6583585?source=rss",
+      "publishedAt": "2026-06-09T09:47:20.000Z",
+      "xQuery": "宇都宮でクマ1頭捕獲 10日も休校"
     },
     {
-      "time": "16:51",
-      "title": "防衛白書 ショート動画で発信強化",
+      "time": "17:48",
+      "title": "自民参院幹部 世耕氏を痛烈に批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583568?source=rss",
-      "publishedAt": "2026-06-09T07:51:33.000Z",
-      "xQuery": "防衛白書 ショート動画で発信強化"
+      "url": "https://news.yahoo.co.jp/pickup/6583577?source=rss",
+      "publishedAt": "2026-06-09T08:48:08.000Z",
+      "xQuery": "自民参院幹部 世耕氏を痛烈に批判"
     },
     {
-      "time": "15:58",
-      "title": "宇都宮のクマ 麻酔銃が命中し捕獲",
+      "time": "17:39",
+      "title": "寝たきり父殺害の罪 息子に無罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583562?source=rss",
-      "publishedAt": "2026-06-09T06:58:41.000Z",
-      "xQuery": "宇都宮のクマ 麻酔銃が命中し捕獲"
+      "url": "https://news.yahoo.co.jp/pickup/6583575?source=rss",
+      "publishedAt": "2026-06-09T08:39:48.000Z",
+      "xQuery": "寝たきり父殺害の罪 息子に無罪"
     },
     {
-      "time": "16:30",
-      "title": "JR東 新夜行特急は「Luna Azul」",
+      "time": "18:51",
+      "title": "幼児の顔にケーキ動画 警察が対応",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583565?source=rss",
-      "publishedAt": "2026-06-09T07:30:51.000Z",
-      "xQuery": "JR東 新夜行特急は「Luna Azul」"
+      "url": "https://news.yahoo.co.jp/pickup/6583586?source=rss",
+      "publishedAt": "2026-06-09T09:51:35.000Z",
+      "xQuery": "幼児の顔にケーキ動画 警察が対応"
     },
     {
-      "time": "16:52",
-      "title": "私くさいから 苦しんだ女性の転機",
+      "time": "17:54",
+      "title": "習氏の異例眼鏡姿 北朝鮮側が配信",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583569?source=rss",
-      "publishedAt": "2026-06-09T07:52:02.000Z",
-      "xQuery": "私くさいから 苦しんだ女性の転機"
+      "url": "https://news.yahoo.co.jp/pickup/6583578?source=rss",
+      "publishedAt": "2026-06-09T08:54:28.000Z",
+      "xQuery": "習氏の異例眼鏡姿 北朝鮮側が配信"
     }
   ]
 };
