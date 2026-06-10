@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-06-10T05:41:28.878Z",
+  "updatedAt": "2026-06-10T07:43:57.869Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "10:32",
+        "title": "工作機械受注が教えてくれる日本株・世界経済（26 年５月） | 藤代 宏一 | 第一ライフ資産運用経済研究所",
+        "source": "第一ライフ資産運用経済研究所",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSanVPUW8wcm1TdG1POHcybEhMYnY2dUNWUkJTYWxOWFJQY2p5US1ZM3pWRTdiUnFvZWxDblFhZ0hsVEpWeXN3WE5ybjFfSW8xcXpSV0FGR3hNQW8?oc=5",
+        "publishedAt": "2026-06-10T01:32:26.000Z"
+      },
+      {
+        "time": "12:38",
+        "title": "【材料】 ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視",
+        "source": "株探",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lMjlDakY2SGdPek1QeW0zTWM1aDdOZUlBa2tTdWRaazRZdnRIZFJXWl9Ed3NXSUtTOVVWRGI2a29OQlpnQUJnd0wyWXUyYy1VNER3NzdxR0tMcTJqcjMwZw?oc=5",
+        "publishedAt": "2026-06-10T03:38:55.000Z"
+      },
       {
         "time": "12:53",
         "title": "ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視",
         "source": "ダイヤモンド・オンライン",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VUTdBYldYZ01OQUJURXcxOXRrUENQT2o1U3V3TERiWUthOG4yc1F4dEI1U0xvR1RhQ3BRUkg4aXFsaEV4cjlSU1RockQwX1IxUHpV?oc=5",
         "publishedAt": "2026-06-10T03:53:30.000Z"
-      },
-      {
-        "time": "12:38",
-        "title": "ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-        "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84bjFZSDloOThRWkNlLUhoYkJfWnlvX1FrckxTdERsRTdObWlVN1I5dndYanlnblhCM3lGR0lYaGdYS1RGd2Rmc2xPTENONFBiZlp2cU11MjZSM3FkNHQ2Qk93R0dUZ3dUb0h0N2JMRmQ?oc=5",
-        "publishedAt": "2026-06-10T03:38:00.000Z"
       },
       {
         "time": "12:00",
@@ -24,39 +31,32 @@
         "publishedAt": "2026-06-10T03:00:00.000Z"
       },
       {
+        "time": "12:38",
+        "title": "ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+        "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84bjFZSDloOThRWkNlLUhoYkJfWnlvX1FrckxTdERsRTdObWlVN1I5dndYanlnblhCM3lGR0lYaGdYS1RGd2Rmc2xPTENONFBiZlp2cU11MjZSM3FkNHQ2Qk93R0dUZ3dUb0h0N2JMRmQ?oc=5",
+        "publishedAt": "2026-06-10T03:38:00.000Z"
+      },
+      {
+        "time": "09:10",
+        "title": "設備保全クラウド『EMLink』、メンテナンス・レジリエンス TOKYO 2026 に出展 — AIエージェント「EMLink Intelligence」とモバイル搭載ローカルLLMをデモ",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wb28zdm9ud1VRQzNSdGpMZHBlZHVxdlF6TkUycEJ6TnNLcmhVdlV6VGRTX0ctSzVGbkNRX1NoenJyX1FPdkdzbk1zM25kQUVfVmpWeGp0VVI3YU9tb0ZmcUcxZTVEcFlzTEE?oc=5",
+        "publishedAt": "2026-06-10T00:10:01.000Z"
+      },
+      {
+        "time": "13:20",
+        "title": "初の研究施設７月稼働、安田工業 工作機械の性能向上探る",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VQWRvRWdpekhqZ2JkbFltQUlhenZmWkJxeUlIMkdZc0w4UlU5Y09uMXBwenE3MlJ0U2JYQ1dEWUhWcmFRZ2FILWptUVo3eVNHdFh4blBGSjk?oc=5",
+        "publishedAt": "2026-06-10T04:20:00.000Z"
+      },
+      {
         "time": "12:00",
         "title": "「値固め完了」の公算大、長期波動も注視したい工作機械大手（会社四季報オンライン）",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IR1hTclA0UjNQZmczZE9CMjQwRmE1Z3B1Qzg4WWVoLXpSMXpXdHhxelNBZnVybmVXQUJpem9HaVZ4UENZdk44SmVuMXNMY2dGNXZvcVJJa1JKVFZwVUxzeEdKOUMtOFM1VkJ0S0N3TXdweXQyZ1JEanh6Sy1hU2s?oc=5",
         "publishedAt": "2026-06-10T03:00:45.000Z"
-      },
-      {
-        "time": "11:18",
-        "title": "設備保全クラウド『EMLink』、メンテナンス・レジリエンス TOKYO 2026 に出展",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MTXJDdmNNZDlwZ3AwMHpCclBMendUTUxCVjdMOG9WNnhqamQ2eVJJSmdLV3d6MFF5UmF0aVVuZHlVWUQ2bUxvbjF3NVpKeTYteWR0YzYzZTVlajBzLWFWR1ZkaUpVMGZ0RWFPZU5qU3l1ZmhLeGc?oc=5",
-        "publishedAt": "2026-06-10T02:18:11.000Z"
-      },
-      {
-        "time": "05:06",
-        "title": "極める／三菱重工業民間機セグメント技術第一部・池本光希氏 工作機械のプロに学ぶ",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qY05IMFc0UmJkdGxnNkc0ZmtTT2FiTEpQcGdzQXd3TzNvbV9nUnNHR2taS0dMQTZ1bG13aGRRZEtyVGJoLWJPeTlDM0F2STZvaUhBY0owX2RwQVE?oc=5",
-        "publishedAt": "2026-06-09T20:06:08.000Z"
-      },
-      {
-        "time": "15:18",
-        "title": "5月工作機械受注は前年比37.4％増、11カ月連続プラス＝工作機械工業会",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY19EcU9mcnJtbF9yWG8tMFVzSUwxakQ0U2JIUmcxaWxWQWtPN3FwMXl4aGdJNFFzeFFXZTJkVXljTXlNdEoxMF8wSE1fN3pQaXJ0ODJMOUhaQVRnczRWX2xUZS1KUEpQeFBjREZBRVZfcVdHUC1aV3JzNTJNa3dTOA?oc=5",
-        "publishedAt": "2026-06-09T06:18:00.000Z"
-      },
-      {
-        "time": "17:26",
-        "title": "工作機械受注、5月37%増 国内外でAI関連が活況",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tNmxacERDbUFHYWRsMm9xSGhSWnQ2SEZIck82MUdvcDFMaG9wY2ZjZkNUZ01pY0xEYUtXWklhc21YTVl0UEpsN0duanBQUUVFSzh3aWpjbmxZaG9UZTJybFNiaFdkbW9yMUw3aA?oc=5",
-        "publishedAt": "2026-06-09T08:26:35.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,6 +75,13 @@
         "publishedAt": "2026-06-10T03:13:13.000Z"
       },
       {
+        "time": "14:43",
+        "title": "金氏の娘 習氏の訪朝中は姿見えず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583691?source=rss",
+        "publishedAt": "2026-06-10T05:43:57.000Z"
+      },
+      {
         "time": "17:54",
         "title": "習氏の異例眼鏡姿 北朝鮮側が配信",
         "source": "Yahoo!ニュース",
@@ -89,13 +96,6 @@
         "publishedAt": "2026-06-09T12:05:56.000Z"
       },
       {
-        "time": "14:12",
-        "title": "米との合意近かった イラン高官",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583551?source=rss",
-        "publishedAt": "2026-06-09T05:12:08.000Z"
-      },
-      {
         "time": "13:09",
         "title": "自動車爆発 露国防省の幹部死亡か",
         "source": "Yahoo!ニュース",
@@ -105,18 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "13:18",
-        "title": "日銀は利上げ継続を 元財務官指摘",
+        "time": "16:28",
+        "title": "日経平均株価 終値は1237円安",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583675?source=rss",
-        "publishedAt": "2026-06-10T04:18:16.000Z"
-      },
-      {
-        "time": "20:54",
-        "title": "ナフサ不足指摘され 赤沢氏猛反論",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583596?source=rss",
-        "publishedAt": "2026-06-09T11:54:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583700?source=rss",
+        "publishedAt": "2026-06-10T07:28:53.000Z"
       },
       {
         "time": "14:34",
@@ -133,11 +126,11 @@
         "publishedAt": "2026-06-10T04:14:54.000Z"
       },
       {
-        "time": "13:55",
-        "title": "期限当日まで食品供給する店 背景",
+        "time": "15:16",
+        "title": "アシックス独走も 業界各社が好調",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583668?source=rss",
-        "publishedAt": "2026-06-10T04:55:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583693?source=rss",
+        "publishedAt": "2026-06-10T06:16:03.000Z"
       },
       {
         "time": "14:09",
@@ -145,9 +138,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583684?source=rss",
         "publishedAt": "2026-06-10T05:09:04.000Z"
+      },
+      {
+        "time": "14:43",
+        "title": "松屋銀座 高級な牛丼松屋オープン",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583688?source=rss",
+        "publishedAt": "2026-06-10T05:43:59.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "15:55",
+        "title": "新名神事故 被告が動画視聴と指摘",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583696?source=rss",
+        "publishedAt": "2026-06-10T06:55:55.000Z"
+      },
       {
         "time": "12:54",
         "title": "田久保氏 公選法違反疑いは不起訴",
@@ -156,11 +163,11 @@
         "publishedAt": "2026-06-10T03:54:41.000Z"
       },
       {
-        "time": "13:02",
-        "title": "出産中の女性盗撮疑い 書類送検へ",
+        "time": "16:25",
+        "title": "出産前の妊婦を盗撮疑い 書類送検",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583666?source=rss",
-        "publishedAt": "2026-06-10T04:02:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583699?source=rss",
+        "publishedAt": "2026-06-10T07:25:37.000Z"
       },
       {
         "time": "12:57",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-06-10T03:57:09.000Z"
       },
       {
-        "time": "10:45",
-        "title": "SNS使った詐欺事件 計41人を逮捕",
+        "time": "16:25",
+        "title": "中学校でスプレー噴射 10人超搬送",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583647?source=rss",
-        "publishedAt": "2026-06-10T01:45:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583701?source=rss",
+        "publishedAt": "2026-06-10T07:25:04.000Z"
       },
       {
-        "time": "10:37",
-        "title": "クマ警戒いつまで 福島市4人負傷",
+        "time": "14:54",
+        "title": "自校の生徒に性暴力 教諭懲戒免職",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583646?source=rss",
-        "publishedAt": "2026-06-10T01:37:54.000Z"
-      },
-      {
-        "time": "06:51",
-        "title": "宇都宮出没のクマ 複数頭の可能性",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583619?source=rss",
-        "publishedAt": "2026-06-09T21:51:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583692?source=rss",
+        "publishedAt": "2026-06-10T05:54:31.000Z"
       }
     ],
     "subsidyHeadlines": [
