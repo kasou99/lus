@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-10T12:09:06.506Z",
+  "updatedAt": "2026-06-10T13:46:08.053Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "20:06",
+        "title": "株式会社島井様",
+        "source": "nidec.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSElianhlcm5YTEVpN21qbm9zTmZUWGx5d2xWV08wOEx1NFJLMkdqcUllczJORWhUcUlMMjVTVmJleEN4ZTNzcGNmREllT2JSVlRZZjVIOXZZQ0IxX1FNeVVaOTUtYzRtUWFBMjZaZFlRanJfV3ZTLTdjdjlrSGhFR1BtaGlCQmZYZEVlUGowdnpWMVU?oc=5",
+        "publishedAt": "2026-06-10T11:06:55.000Z"
+      },
       {
         "time": "18:07",
         "title": "5月の工作機械受注速報、前年同月比37．4％増の1768億3300万円(時事通信)",
@@ -19,7 +26,7 @@
       {
         "time": "12:38",
         "title": "【材料】 ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視",
-        "source": "株探",
+        "source": "株探（かぶたん）",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lMjlDakY2SGdPek1QeW0zTWM1aDdOZUlBa2tTdWRaazRZdnRIZFJXWl9Ed3NXSUtTOVVWRGI2a29OQlpnQUJnd0wyWXUyYy1VNER3NzdxR0tMcTJqcjMwZw?oc=5",
         "publishedAt": "2026-06-10T03:38:55.000Z"
       },
@@ -50,16 +57,16 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96dnJ1SC15Vnp5SXo0eVdYR3k1dnBKclV1N2NWX2tueDVLbFhnQnFMMG9OWXo0YmRSMWFrUlZubUExX1lNZkI3YjQ1OU95ZnBrY0pYUUxSNVhma2FfdjA4NkxaSQ?oc=5",
         "publishedAt": "2026-06-10T04:20:00.000Z"
-      },
-      {
-        "time": "12:00",
-        "title": "スマート統合型サーボモーターの世界市場2026年、グローバル市場規模（2KW以下、2KW～5KW、5KW以上）・分析レポートを発表",
-        "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvVTFwWVFzY213QUY1Qk93dmZES205WFB3Sk45WmxRdktUMldxdnhYajhJOWFHVndQUFhXTzRkU0IxWWxVYkw0VUctUmNYWHhIVnhN?oc=5",
-        "publishedAt": "2026-06-10T03:00:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "21:10",
+        "title": "米イラン 報復攻撃の応酬続く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583732?source=rss",
+        "publishedAt": "2026-06-10T12:10:58.000Z"
+      },
       {
         "time": "14:18",
         "title": "イラン 戦闘再開への懸念広がる",
@@ -68,11 +75,11 @@
         "publishedAt": "2026-06-10T05:18:09.000Z"
       },
       {
-        "time": "12:13",
-        "title": "米軍 ヘリ撃墜への報復攻撃を終了",
+        "time": "21:58",
+        "title": "ウクライナ軍 マリウポリ港を攻撃",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583657?source=rss",
-        "publishedAt": "2026-06-10T03:13:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583738?source=rss",
+        "publishedAt": "2026-06-10T12:58:23.000Z"
       },
       {
         "time": "14:43",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583691?source=rss",
         "publishedAt": "2026-06-10T05:43:57.000Z"
-      },
-      {
-        "time": "21:05",
-        "title": "NZ首都に11mの高波 数百人が避難",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583598?source=rss",
-        "publishedAt": "2026-06-09T12:05:56.000Z"
       },
       {
         "time": "13:09",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-06-10T05:34:22.000Z"
       },
       {
+        "time": "22:42",
+        "title": "利上げ公算 住宅ローンの金利は?",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583714?source=rss",
+        "publishedAt": "2026-06-10T13:42:04.000Z"
+      },
+      {
         "time": "15:16",
         "title": "アシックス独走も 業界各社が好調",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583693?source=rss",
         "publishedAt": "2026-06-10T06:16:03.000Z"
-      },
-      {
-        "time": "14:09",
-        "title": "ディズニーランドで闇ツアー横行",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583684?source=rss",
-        "publishedAt": "2026-06-10T05:09:04.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-06-10T08:44:02.000Z"
       },
       {
-        "time": "16:25",
-        "title": "出産前の妊婦を盗撮疑い 書類送検",
+        "time": "21:18",
+        "title": "大阪の地下街 女性刺されたと通報",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583699?source=rss",
-        "publishedAt": "2026-06-10T07:25:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583734?source=rss",
+        "publishedAt": "2026-06-10T12:18:19.000Z"
       },
       {
-        "time": "12:57",
-        "title": "日本サイクリング協会代表ら逮捕",
+        "time": "21:57",
+        "title": "「川に沈んだ」大学生が溺れ死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583664?source=rss",
-        "publishedAt": "2026-06-10T03:57:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583737?source=rss",
+        "publishedAt": "2026-06-10T12:57:51.000Z"
       },
       {
         "time": "20:35",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-10T11:35:53.000Z"
       },
       {
-        "time": "16:25",
-        "title": "中学校でスプレー噴射 10人超搬送",
+        "time": "22:19",
+        "title": "天橋立で「クマいる」 署員ら監視",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583701?source=rss",
-        "publishedAt": "2026-06-10T07:25:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583740?source=rss",
+        "publishedAt": "2026-06-10T13:19:09.000Z"
       },
       {
-        "time": "14:54",
-        "title": "自校の生徒に性暴力 教諭懲戒免職",
+        "time": "08:23",
+        "title": "幼児の顔にケーキ 児相が一時保護",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583692?source=rss",
-        "publishedAt": "2026-06-10T05:54:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583631?source=rss",
+        "publishedAt": "2026-06-09T23:23:15.000Z"
       }
     ],
     "subsidyHeadlines": [

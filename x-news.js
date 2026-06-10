@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-10T12:09:07.875Z",
+  "updatedAt": "2026-06-10T13:46:08.806Z",
   "items": [
     {
-      "time": "18:07",
-      "title": "首相秘書 報道の音声確信持てない",
+      "time": "22:19",
+      "title": "「立法府の総意」共産党など反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583712?source=rss",
-      "publishedAt": "2026-06-10T09:07:51.000Z",
-      "xQuery": "首相秘書 報道の音声確信持てない"
+      "url": "https://news.yahoo.co.jp/pickup/6583739?source=rss",
+      "publishedAt": "2026-06-10T13:19:28.000Z",
+      "xQuery": "「立法府の総意」共産党など反発"
     },
     {
-      "time": "19:06",
-      "title": "日銀総裁が入院 2週間程度見込み",
+      "time": "21:58",
+      "title": "ウクライナ軍 マリウポリ港を攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583723?source=rss",
-      "publishedAt": "2026-06-10T10:06:10.000Z",
-      "xQuery": "日銀総裁が入院 2週間程度見込み"
+      "url": "https://news.yahoo.co.jp/pickup/6583738?source=rss",
+      "publishedAt": "2026-06-10T12:58:23.000Z",
+      "xQuery": "ウクライナ軍 マリウポリ港を攻撃"
     },
     {
-      "time": "18:54",
-      "title": "元衆議院議長 河野洋平氏が死去",
+      "time": "21:57",
+      "title": "「川に沈んだ」大学生が溺れ死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583722?source=rss",
-      "publishedAt": "2026-06-10T09:54:19.000Z",
-      "xQuery": "元衆議院議長 河野洋平氏が死去"
+      "url": "https://news.yahoo.co.jp/pickup/6583737?source=rss",
+      "publishedAt": "2026-06-10T12:57:51.000Z",
+      "xQuery": "「川に沈んだ」大学生が溺れ死亡"
+    },
+    {
+      "time": "22:19",
+      "title": "天橋立で「クマいる」 署員ら監視",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583740?source=rss",
+      "publishedAt": "2026-06-10T13:19:09.000Z",
+      "xQuery": "天橋立で「クマいる」 署員ら監視"
     },
     {
       "time": "18:36",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583719?source=rss",
       "publishedAt": "2026-06-10T09:36:59.000Z",
       "xQuery": "ANA 問い合わせ返信に最大2カ月"
-    },
-    {
-      "time": "20:35",
-      "title": "まつり巡る集団暴行事件 4人逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583731?source=rss",
-      "publishedAt": "2026-06-10T11:35:53.000Z",
-      "xQuery": "まつり巡る集団暴行事件 4人逮捕"
     }
   ]
 };
