@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-10T07:43:58.949Z",
+  "updatedAt": "2026-06-10T09:26:14.312Z",
   "items": [
     {
-      "time": "14:18",
-      "title": "イラン 戦闘再開への懸念広がる",
+      "time": "16:49",
+      "title": "皇族数確保策 立法府総意まとまる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583685?source=rss",
-      "publishedAt": "2026-06-10T05:18:09.000Z",
-      "xQuery": "イラン 戦闘再開への懸念広がる"
+      "url": "https://news.yahoo.co.jp/pickup/6583704?source=rss",
+      "publishedAt": "2026-06-10T07:49:56.000Z",
+      "xQuery": "皇族数確保策 立法府総意まとまる"
     },
     {
-      "time": "15:41",
-      "title": "エルニーニョ現象が発生 2年ぶり",
+      "time": "17:18",
+      "title": "ゲノム編集ベビー規制 国会審議へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583695?source=rss",
-      "publishedAt": "2026-06-10T06:41:57.000Z",
-      "xQuery": "エルニーニョ現象が発生 2年ぶり"
+      "url": "https://news.yahoo.co.jp/pickup/6583706?source=rss",
+      "publishedAt": "2026-06-10T08:18:40.000Z",
+      "xQuery": "ゲノム編集ベビー規制 国会審議へ"
+    },
+    {
+      "time": "17:44",
+      "title": "新名神事故 遺族が家族写真を公開",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583709?source=rss",
+      "publishedAt": "2026-06-10T08:44:02.000Z",
+      "xQuery": "新名神事故 遺族が家族写真を公開"
     },
     {
       "time": "16:25",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中学校でスプレー噴射 10人超搬送"
     },
     {
-      "time": "16:25",
-      "title": "出産前の妊婦を盗撮疑い 書類送検",
+      "time": "17:13",
+      "title": "トヨタ会長の役員報酬 21億円超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583699?source=rss",
-      "publishedAt": "2026-06-10T07:25:37.000Z",
-      "xQuery": "出産前の妊婦を盗撮疑い 書類送検"
-    },
-    {
-      "time": "14:54",
-      "title": "自校の生徒に性暴力 教諭懲戒免職",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583692?source=rss",
-      "publishedAt": "2026-06-10T05:54:31.000Z",
-      "xQuery": "自校の生徒に性暴力 教諭懲戒免職"
+      "url": "https://news.yahoo.co.jp/pickup/6583705?source=rss",
+      "publishedAt": "2026-06-10T08:13:47.000Z",
+      "xQuery": "トヨタ会長の役員報酬 21億円超"
     }
   ]
 };

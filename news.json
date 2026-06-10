@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T07:43:57.869Z",
+  "updatedAt": "2026-06-10T09:26:13.356Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,25 +38,25 @@
         "publishedAt": "2026-06-10T03:38:00.000Z"
       },
       {
-        "time": "09:10",
-        "title": "設備保全クラウド『EMLink』、メンテナンス・レジリエンス TOKYO 2026 に出展 — AIエージェント「EMLink Intelligence」とモバイル搭載ローカルLLMをデモ",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wb28zdm9ud1VRQzNSdGpMZHBlZHVxdlF6TkUycEJ6TnNLcmhVdlV6VGRTX0ctSzVGbkNRX1NoenJyX1FPdkdzbk1zM25kQUVfVmpWeGp0VVI3YU9tb0ZmcUcxZTVEcFlzTEE?oc=5",
-        "publishedAt": "2026-06-10T00:10:01.000Z"
-      },
-      {
-        "time": "13:20",
-        "title": "初の研究施設７月稼働、安田工業 工作機械の性能向上探る",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VQWRvRWdpekhqZ2JkbFltQUlhenZmWkJxeUlIMkdZc0w4UlU5Y09uMXBwenE3MlJ0U2JYQ1dEWUhWcmFRZ2FILWptUVo3eVNHdFh4blBGSjk?oc=5",
-        "publishedAt": "2026-06-10T04:20:00.000Z"
-      },
-      {
         "time": "12:00",
         "title": "「値固め完了」の公算大、長期波動も注視したい工作機械大手（会社四季報オンライン）",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IR1hTclA0UjNQZmczZE9CMjQwRmE1Z3B1Qzg4WWVoLXpSMXpXdHhxelNBZnVybmVXQUJpem9HaVZ4UENZdk44SmVuMXNMY2dGNXZvcVJJa1JKVFZwVUxzeEdKOUMtOFM1VkJ0S0N3TXdweXQyZ1JEanh6Sy1hU2s?oc=5",
         "publishedAt": "2026-06-10T03:00:45.000Z"
+      },
+      {
+        "time": "13:20",
+        "title": "初の研究施設７月稼働、安田工業 工作機械の性能向上探る",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96dnJ1SC15Vnp5SXo0eVdYR3k1dnBKclV1N2NWX2tueDVLbFhnQnFMMG9OWXo0YmRSMWFrUlZubUExX1lNZkI3YjQ1OU95ZnBrY0pYUUxSNVhma2FfdjA4NkxaSQ?oc=5",
+        "publishedAt": "2026-06-10T04:20:00.000Z"
+      },
+      {
+        "time": "09:10",
+        "title": "設備保全クラウド『EMLink』、メンテナンス・レジリエンス TOKYO 2026 に出展 — AIエージェント「EMLink Intelligence」とモバイル搭載ローカルLLMをデモ",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wb28zdm9ud1VRQzNSdGpMZHBlZHVxdlF6TkUycEJ6TnNLcmhVdlV6VGRTX0ctSzVGbkNRX1NoenJyX1FPdkdzbk1zM25kQUVfVmpWeGp0VVI3YU9tb0ZmcUcxZTVEcFlzTEE?oc=5",
+        "publishedAt": "2026-06-10T00:10:01.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,18 +112,18 @@
         "publishedAt": "2026-06-10T07:28:53.000Z"
       },
       {
+        "time": "17:13",
+        "title": "トヨタ会長の役員報酬 21億円超",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583705?source=rss",
+        "publishedAt": "2026-06-10T08:13:47.000Z"
+      },
+      {
         "time": "14:34",
         "title": "中国BYD会長「5年以内に世界一」",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583687?source=rss",
         "publishedAt": "2026-06-10T05:34:22.000Z"
-      },
-      {
-        "time": "13:14",
-        "title": "米スタバ 日本事業の売却など検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583672?source=rss",
-        "publishedAt": "2026-06-10T04:14:54.000Z"
       },
       {
         "time": "15:16",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "15:55",
-        "title": "新名神事故 被告が動画視聴と指摘",
+        "time": "17:44",
+        "title": "新名神事故 遺族が家族写真を公開",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583696?source=rss",
-        "publishedAt": "2026-06-10T06:55:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583709?source=rss",
+        "publishedAt": "2026-06-10T08:44:02.000Z"
       },
       {
         "time": "12:54",
