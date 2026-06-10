@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-10T03:51:28.140Z",
+  "updatedAt": "2026-06-10T05:41:28.878Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "12:38",
-        "title": "ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視(フィスコ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTnh5NW9WRjBndEstd1V2bmdFSnQ1Wkl3Z2NWSHV3MXpIdzZvY1J0X1ozUDYyM0pTV1BneUVZeHgwTmhxX0x1V1JjOTlEU3VPbHBEOFhmQS1ZZ09XUmFKclJPX0VzYmJwRlVtbW9HSVo3M2dpYmNYNFR5d1JGWmllUnlUVFFPVzg?oc=5",
-        "publishedAt": "2026-06-10T03:38:00.000Z"
+        "time": "12:53",
+        "title": "ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視",
+        "source": "ダイヤモンド・オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VUTdBYldYZ01OQUJURXcxOXRrUENQT2o1U3V3TERiWUthOG4yc1F4dEI1U0xvR1RhQ3BRUkg4aXFsaEV4cjlSU1RockQwX1IxUHpV?oc=5",
+        "publishedAt": "2026-06-10T03:53:30.000Z"
       },
       {
         "time": "12:38",
@@ -24,25 +24,25 @@
         "publishedAt": "2026-06-10T03:00:00.000Z"
       },
       {
+        "time": "12:00",
+        "title": "「値固め完了」の公算大、長期波動も注視したい工作機械大手（会社四季報オンライン）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IR1hTclA0UjNQZmczZE9CMjQwRmE1Z3B1Qzg4WWVoLXpSMXpXdHhxelNBZnVybmVXQUJpem9HaVZ4UENZdk44SmVuMXNMY2dGNXZvcVJJa1JKVFZwVUxzeEdKOUMtOFM1VkJ0S0N3TXdweXQyZ1JEanh6Sy1hU2s?oc=5",
+        "publishedAt": "2026-06-10T03:00:45.000Z"
+      },
+      {
+        "time": "11:18",
+        "title": "設備保全クラウド『EMLink』、メンテナンス・レジリエンス TOKYO 2026 に出展",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MTXJDdmNNZDlwZ3AwMHpCclBMendUTUxCVjdMOG9WNnhqamQ2eVJJSmdLV3d6MFF5UmF0aVVuZHlVWUQ2bUxvbjF3NVpKeTYteWR0YzYzZTVlajBzLWFWR1ZkaUpVMGZ0RWFPZU5qU3l1ZmhLeGc?oc=5",
+        "publishedAt": "2026-06-10T02:18:11.000Z"
+      },
+      {
         "time": "05:06",
         "title": "極める／三菱重工業民間機セグメント技術第一部・池本光希氏 工作機械のプロに学ぶ",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qY05IMFc0UmJkdGxnNkc0ZmtTT2FiTEpQcGdzQXd3TzNvbV9nUnNHR2taS0dMQTZ1bG13aGRRZEtyVGJoLWJPeTlDM0F2STZvaUhBY0owX2RwQVE?oc=5",
         "publishedAt": "2026-06-09T20:06:08.000Z"
-      },
-      {
-        "time": "12:00",
-        "title": "スマート統合型サーボモーターの世界市場2026年、グローバル市場規模（2KW以下、2KW～5KW、5KW以上）・分析レポートを発表",
-        "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvVTFwWVFzY213QUY1Qk93dmZES205WFB3Sk45WmxRdktUMldxdnhYajhJOWFHVndQUFhXTzRkU0IxWWxVYkw0VUctUmNYWHhIVnhN?oc=5",
-        "publishedAt": "2026-06-10T03:00:00.000Z"
-      },
-      {
-        "time": "10:46",
-        "title": "設備保全クラウド『EMLink』、メンテナンス・レジリエンス TOKYO 2026 に出展 - AIエージェント「EMLink Intelligence」とモバイル搭載ローカルLLMをデモ",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMeHYxQ2g1Qm5TZEp3OXVPSWNPT09sRlB1RTRWLTdwMkJCd3U5MlBROFB1b3RCcl9WeWdyM25OemtId2FXeDdSQWFTQk54bDlXR1lLMzhqb1pvdFp2TkFPQmxIdXRHUm1Xczdz?oc=5",
-        "publishedAt": "2026-06-10T01:46:00.000Z"
       },
       {
         "time": "15:18",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "14:18",
+        "title": "イラン 戦闘再開への懸念広がる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583685?source=rss",
+        "publishedAt": "2026-06-10T05:18:09.000Z"
+      },
+      {
         "time": "12:13",
         "title": "米軍 ヘリ撃墜への報復攻撃を終了",
         "source": "Yahoo!ニュース",
@@ -75,13 +82,6 @@
         "publishedAt": "2026-06-09T08:54:28.000Z"
       },
       {
-        "time": "11:32",
-        "title": "中朝関係発展へ「新章」北の報道",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583532?source=rss",
-        "publishedAt": "2026-06-09T02:32:22.000Z"
-      },
-      {
         "time": "21:05",
         "title": "NZ首都に11mの高波 数百人が避難",
         "source": "Yahoo!ニュース",
@@ -89,34 +89,27 @@
         "publishedAt": "2026-06-09T12:05:56.000Z"
       },
       {
-        "time": "09:16",
-        "title": "トランプ氏がナルト動画投稿 物議",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583518?source=rss",
-        "publishedAt": "2026-06-09T00:16:51.000Z"
-      },
-      {
         "time": "14:12",
         "title": "米との合意近かった イラン高官",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583551?source=rss",
         "publishedAt": "2026-06-09T05:12:08.000Z"
+      },
+      {
+        "time": "13:09",
+        "title": "自動車爆発 露国防省の幹部死亡か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583669?source=rss",
+        "publishedAt": "2026-06-10T04:09:07.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "10:01",
-        "title": "ラピダス 英伊と研究開発で協力へ",
+        "time": "13:18",
+        "title": "日銀は利上げ継続を 元財務官指摘",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583642?source=rss",
-        "publishedAt": "2026-06-10T01:01:03.000Z"
-      },
-      {
-        "time": "20:57",
-        "title": "日銀1%に利上げへ 家計への影響",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583597?source=rss",
-        "publishedAt": "2026-06-09T11:57:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583675?source=rss",
+        "publishedAt": "2026-06-10T04:18:16.000Z"
       },
       {
         "time": "20:54",
@@ -126,28 +119,56 @@
         "publishedAt": "2026-06-09T11:54:04.000Z"
       },
       {
-        "time": "07:40",
-        "title": "成田の滑走路巡り 土地収用申請へ",
+        "time": "14:34",
+        "title": "中国BYD会長「5年以内に世界一」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583626?source=rss",
-        "publishedAt": "2026-06-09T22:40:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583687?source=rss",
+        "publishedAt": "2026-06-10T05:34:22.000Z"
       },
       {
-        "time": "19:47",
-        "title": "「オニツカタイガー」を分社化",
+        "time": "13:14",
+        "title": "米スタバ 日本事業の売却など検討",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583591?source=rss",
-        "publishedAt": "2026-06-09T10:47:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583672?source=rss",
+        "publishedAt": "2026-06-10T04:14:54.000Z"
       },
       {
-        "time": "12:28",
-        "title": "和牛の改良 行き詰まりに危機感",
+        "time": "13:55",
+        "title": "期限当日まで食品供給する店 背景",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583658?source=rss",
-        "publishedAt": "2026-06-10T03:28:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583668?source=rss",
+        "publishedAt": "2026-06-10T04:55:24.000Z"
+      },
+      {
+        "time": "14:09",
+        "title": "ディズニーランドで闇ツアー横行",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583684?source=rss",
+        "publishedAt": "2026-06-10T05:09:04.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "12:54",
+        "title": "田久保氏 公選法違反疑いは不起訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583662?source=rss",
+        "publishedAt": "2026-06-10T03:54:41.000Z"
+      },
+      {
+        "time": "13:02",
+        "title": "出産中の女性盗撮疑い 書類送検へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583666?source=rss",
+        "publishedAt": "2026-06-10T04:02:01.000Z"
+      },
+      {
+        "time": "12:57",
+        "title": "日本サイクリング協会代表ら逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583664?source=rss",
+        "publishedAt": "2026-06-10T03:57:09.000Z"
+      },
       {
         "time": "10:45",
         "title": "SNS使った詐欺事件 計41人を逮捕",
@@ -168,27 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583619?source=rss",
         "publishedAt": "2026-06-09T21:51:38.000Z"
-      },
-      {
-        "time": "23:10",
-        "title": "クマ逃げた家の住人 中継見て驚き",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583613?source=rss",
-        "publishedAt": "2026-06-09T14:10:43.000Z"
-      },
-      {
-        "time": "21:29",
-        "title": "池田小事件で重傷 今は2児の母に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583601?source=rss",
-        "publishedAt": "2026-06-09T12:29:20.000Z"
-      },
-      {
-        "time": "22:38",
-        "title": "展覧会中止 徳島知事圧力巡り応酬",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583607?source=rss",
-        "publishedAt": "2026-06-09T13:38:38.000Z"
       }
     ],
     "subsidyHeadlines": [
