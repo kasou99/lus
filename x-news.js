@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-10T10:52:07.923Z",
+  "updatedAt": "2026-06-10T12:09:07.875Z",
   "items": [
     {
       "time": "18:07",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ANA 問い合わせ返信に最大2カ月"
     },
     {
-      "time": "17:13",
-      "title": "トヨタ会長の役員報酬 21億円超",
+      "time": "20:35",
+      "title": "まつり巡る集団暴行事件 4人逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583705?source=rss",
-      "publishedAt": "2026-06-10T08:13:47.000Z",
-      "xQuery": "トヨタ会長の役員報酬 21億円超"
+      "url": "https://news.yahoo.co.jp/pickup/6583731?source=rss",
+      "publishedAt": "2026-06-10T11:35:53.000Z",
+      "xQuery": "まつり巡る集団暴行事件 4人逮捕"
     }
   ]
 };
