@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-10T02:26:40.240Z",
+  "updatedAt": "2026-06-10T03:51:28.901Z",
   "items": [
-    {
-      "time": "08:45",
-      "title": "自民 政府に防衛費増額を提言へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583634?source=rss",
-      "publishedAt": "2026-06-09T23:45:49.000Z",
-      "xQuery": "自民 政府に防衛費増額を提言へ"
-    },
     {
       "time": "10:01",
       "title": "ラピダス 英伊と研究開発で協力へ",
@@ -18,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ラピダス 英伊と研究開発で協力へ"
     },
     {
+      "time": "09:59",
+      "title": "防衛装備品の輸出 支援組織を調整",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583641?source=rss",
+      "publishedAt": "2026-06-10T00:59:19.000Z",
+      "xQuery": "防衛装備品の輸出 支援組織を調整"
+    },
+    {
+      "time": "12:13",
+      "title": "米軍 ヘリ撃墜への報復攻撃を終了",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583657?source=rss",
+      "publishedAt": "2026-06-10T03:13:13.000Z",
+      "xQuery": "米軍 ヘリ撃墜への報復攻撃を終了"
+    },
+    {
       "time": "10:37",
       "title": "クマ警戒いつまで 福島市4人負傷",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6583646?source=rss",
       "publishedAt": "2026-06-10T01:37:54.000Z",
       "xQuery": "クマ警戒いつまで 福島市4人負傷"
-    },
-    {
-      "time": "08:23",
-      "title": "幼児の顔にケーキ 児相が一時保護",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583631?source=rss",
-      "publishedAt": "2026-06-09T23:23:15.000Z",
-      "xQuery": "幼児の顔にケーキ 児相が一時保護"
     },
     {
       "time": "09:37",
