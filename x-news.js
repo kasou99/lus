@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-10T13:46:08.806Z",
+  "updatedAt": "2026-06-10T15:15:58.176Z",
   "items": [
     {
       "time": "22:19",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "「立法府の総意」共産党など反発"
     },
     {
-      "time": "21:58",
-      "title": "ウクライナ軍 マリウポリ港を攻撃",
+      "time": "22:42",
+      "title": "利上げ公算 住宅ローンの金利は?",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583738?source=rss",
-      "publishedAt": "2026-06-10T12:58:23.000Z",
-      "xQuery": "ウクライナ軍 マリウポリ港を攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6583714?source=rss",
+      "publishedAt": "2026-06-10T13:42:04.000Z",
+      "xQuery": "利上げ公算 住宅ローンの金利は?"
     },
     {
-      "time": "21:57",
-      "title": "「川に沈んだ」大学生が溺れ死亡",
+      "time": "23:46",
+      "title": "地下街で胸刺されバッグ奪われる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583737?source=rss",
-      "publishedAt": "2026-06-10T12:57:51.000Z",
-      "xQuery": "「川に沈んだ」大学生が溺れ死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6583746?source=rss",
+      "publishedAt": "2026-06-10T14:46:39.000Z",
+      "xQuery": "地下街で胸刺されバッグ奪われる"
     },
     {
-      "time": "22:19",
-      "title": "天橋立で「クマいる」 署員ら監視",
+      "time": "23:28",
+      "title": "2人乗り自転車事故で1人重体 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583740?source=rss",
-      "publishedAt": "2026-06-10T13:19:09.000Z",
-      "xQuery": "天橋立で「クマいる」 署員ら監視"
+      "url": "https://news.yahoo.co.jp/pickup/6583745?source=rss",
+      "publishedAt": "2026-06-10T14:28:06.000Z",
+      "xQuery": "2人乗り自転車事故で1人重体 逮捕"
     },
     {
-      "time": "18:36",
-      "title": "ANA 問い合わせ返信に最大2カ月",
+      "time": "23:50",
+      "title": "天橋立でクマ出没 麻酔銃撃ち捕獲",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583719?source=rss",
-      "publishedAt": "2026-06-10T09:36:59.000Z",
-      "xQuery": "ANA 問い合わせ返信に最大2カ月"
+      "url": "https://news.yahoo.co.jp/pickup/6583748?source=rss",
+      "publishedAt": "2026-06-10T14:50:17.000Z",
+      "xQuery": "天橋立でクマ出没 麻酔銃撃ち捕獲"
     }
   ]
 };
