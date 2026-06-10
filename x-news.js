@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-10T09:26:14.312Z",
+  "updatedAt": "2026-06-10T10:52:07.923Z",
   "items": [
     {
-      "time": "16:49",
-      "title": "皇族数確保策 立法府総意まとまる",
+      "time": "18:07",
+      "title": "首相秘書 報道の音声確信持てない",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583704?source=rss",
-      "publishedAt": "2026-06-10T07:49:56.000Z",
-      "xQuery": "皇族数確保策 立法府総意まとまる"
+      "url": "https://news.yahoo.co.jp/pickup/6583712?source=rss",
+      "publishedAt": "2026-06-10T09:07:51.000Z",
+      "xQuery": "首相秘書 報道の音声確信持てない"
     },
     {
-      "time": "17:18",
-      "title": "ゲノム編集ベビー規制 国会審議へ",
+      "time": "19:06",
+      "title": "日銀総裁が入院 2週間程度見込み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583706?source=rss",
-      "publishedAt": "2026-06-10T08:18:40.000Z",
-      "xQuery": "ゲノム編集ベビー規制 国会審議へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583723?source=rss",
+      "publishedAt": "2026-06-10T10:06:10.000Z",
+      "xQuery": "日銀総裁が入院 2週間程度見込み"
     },
     {
-      "time": "17:44",
-      "title": "新名神事故 遺族が家族写真を公開",
+      "time": "18:54",
+      "title": "元衆議院議長 河野洋平氏が死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583709?source=rss",
-      "publishedAt": "2026-06-10T08:44:02.000Z",
-      "xQuery": "新名神事故 遺族が家族写真を公開"
+      "url": "https://news.yahoo.co.jp/pickup/6583722?source=rss",
+      "publishedAt": "2026-06-10T09:54:19.000Z",
+      "xQuery": "元衆議院議長 河野洋平氏が死去"
     },
     {
-      "time": "16:25",
-      "title": "中学校でスプレー噴射 10人超搬送",
+      "time": "18:36",
+      "title": "ANA 問い合わせ返信に最大2カ月",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583701?source=rss",
-      "publishedAt": "2026-06-10T07:25:04.000Z",
-      "xQuery": "中学校でスプレー噴射 10人超搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6583719?source=rss",
+      "publishedAt": "2026-06-10T09:36:59.000Z",
+      "xQuery": "ANA 問い合わせ返信に最大2カ月"
     },
     {
       "time": "17:13",
