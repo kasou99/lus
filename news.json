@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T01:19:14.475Z",
+  "updatedAt": "2026-06-10T02:26:39.474Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-06-09T06:18:00.000Z"
       },
       {
-        "time": "17:26",
-        "title": "工作機械受注、5月37%増 国内外でAI関連が活況",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tNmxacERDbUFHYWRsMm9xSGhSWnQ2SEZIck82MUdvcDFMaG9wY2ZjZkNUZ01pY0xEYUtXWklhc21YTVl0UEpsN0duanBQUUVFSzh3aWpjbmxZaG9UZTJybFNiaFdkbW9yMUw3aA?oc=5",
-        "publishedAt": "2026-06-09T08:26:35.000Z"
-      },
-      {
         "time": "17:00",
         "title": "5月の工作機械受注、37％増の1768億3300万円 11カ月連続プラス",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCNlpwREt4UDdpSTNPZGdQdFcyYzg1TEs1SURuNk1OV1o4MzhNamU4TmVZRDFCN0NfQkFmbF9BaG1Sa2hLcWFmd1M2RFF5bnV0SjJqUS0tb0twVzg?oc=5",
         "publishedAt": "2026-06-09T08:00:00.000Z"
+      },
+      {
+        "time": "17:26",
+        "title": "工作機械受注、5月37%増 国内外でAI関連が活況",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tNmxacERDbUFHYWRsMm9xSGhSWnQ2SEZIck82MUdvcDFMaG9wY2ZjZkNUZ01pY0xEYUtXWklhc21YTVl0UEpsN0duanBQUUVFSzh3aWpjbmxZaG9UZTJybFNiaFdkbW9yMUw3aA?oc=5",
+        "publishedAt": "2026-06-09T08:26:35.000Z"
       },
       {
         "time": "17:02",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-09T16:52:33.000Z"
       },
       {
-        "time": "13:30",
-        "title": "AIによる常時監視で切削加工異常を自動検知するモニタリングプラン：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02WTZMZk1JczFBYXk1aUY3Vy1FdGJfcGdDbXAyOWhEX2VxbWhFcHhEWjg5Y2oybTg0b2llSjJYYnJVTUhHa3dZWl9nZk9mUHZGZEV5a0djTGZkRHJtSUt5UnctaVJDNHRndk15M2xQVQ?oc=5",
-        "publishedAt": "2026-06-09T04:30:00.000Z"
-      },
-      {
         "time": "18:28",
         "title": "工作機械用ロータリージョイント市場規模は2026年80.63百万米ドル、成長率5.7%で拡大予測｜QYResearch",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2SmQ1N0pzeXNvZU5Rd3JMUk5FbGNoRVU3a0llT1dmREkzQ1pPc3c3M1dCQVlxVF84YWRIc01xaUxRbm5ObjhOS3JSc2Nla25Qbm9fRmtMUQ?oc=5",
         "publishedAt": "2026-06-09T09:28:46.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "AIによる常時監視で切削加工異常を自動検知するモニタリングプラン：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02WTZMZk1JczFBYXk1aUY3Vy1FdGJfcGdDbXAyOWhEX2VxbWhFcHhEWjg5Y2oybTg0b2llSjJYYnJVTUhHa3dZWl9nZk9mUHZGZEV5a0djTGZkRHJtSUt5UnctaVJDNHRndk15M2xQVQ?oc=5",
+        "publishedAt": "2026-06-09T04:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "10:45",
+        "title": "SNS使った詐欺事件 計41人を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583647?source=rss",
+        "publishedAt": "2026-06-10T01:45:03.000Z"
+      },
+      {
+        "time": "10:37",
+        "title": "クマ警戒いつまで 福島市4人負傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583646?source=rss",
+        "publishedAt": "2026-06-10T01:37:54.000Z"
+      },
+      {
         "time": "06:51",
         "title": "宇都宮出没のクマ 複数頭の可能性",
         "source": "Yahoo!ニュース",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583607?source=rss",
         "publishedAt": "2026-06-09T13:38:38.000Z"
-      },
-      {
-        "time": "20:19",
-        "title": "少年の逆送なし 強盗被害者の怒り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583594?source=rss",
-        "publishedAt": "2026-06-09T11:19:44.000Z"
-      },
-      {
-        "time": "08:26",
-        "title": "AIに相談し恐喝未遂疑い 5人逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583633?source=rss",
-        "publishedAt": "2026-06-09T23:26:18.000Z"
       }
     ],
     "subsidyHeadlines": [

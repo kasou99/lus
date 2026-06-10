@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-10T01:19:15.031Z",
+  "updatedAt": "2026-06-10T02:26:40.240Z",
   "items": [
     {
       "time": "08:45",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "ラピダス 英伊と研究開発で協力へ"
     },
     {
+      "time": "10:37",
+      "title": "クマ警戒いつまで 福島市4人負傷",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583646?source=rss",
+      "publishedAt": "2026-06-10T01:37:54.000Z",
+      "xQuery": "クマ警戒いつまで 福島市4人負傷"
+    },
+    {
       "time": "08:23",
       "title": "幼児の顔にケーキ 児相が一時保護",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583639?source=rss",
       "publishedAt": "2026-06-10T00:37:22.000Z",
       "xQuery": "スシロー皿タワー 中国SNSで拡散"
-    },
-    {
-      "time": "08:11",
-      "title": "大容量タンブラー 人気広がる訳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583630?source=rss",
-      "publishedAt": "2026-06-09T23:11:01.000Z",
-      "xQuery": "大容量タンブラー 人気広がる訳"
     }
   ]
 };
