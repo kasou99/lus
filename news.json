@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T16:44:04.094Z",
+  "updatedAt": "2026-06-10T18:03:59.261Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-10T03:38:00.000Z"
       },
       {
-        "time": "09:10",
-        "title": "設備保全クラウド『EMLink』、メンテナンス・レジリエンス TOKYO 2026 に出展 — AIエージェント「EMLink Intelligence」とモバイル搭載ローカルLLMをデモ",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wb28zdm9ud1VRQzNSdGpMZHBlZHVxdlF6TkUycEJ6TnNLcmhVdlV6VGRTX0ctSzVGbkNRX1NoenJyX1FPdkdzbk1zM25kQUVfVmpWeGp0VVI3YU9tb0ZmcUcxZTVEcFlzTEE?oc=5",
-        "publishedAt": "2026-06-10T00:10:01.000Z"
-      },
-      {
         "time": "13:20",
         "title": "初の研究施設７月稼働、安田工業 工作機械の性能向上探る",
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96dnJ1SC15Vnp5SXo0eVdYR3k1dnBKclV1N2NWX2tueDVLbFhnQnFMMG9OWXo0YmRSMWFrUlZubUExX1lNZkI3YjQ1OU95ZnBrY0pYUUxSNVhma2FfdjA4NkxaSQ?oc=5",
         "publishedAt": "2026-06-10T04:20:00.000Z"
+      },
+      {
+        "time": "09:10",
+        "title": "設備保全クラウド『EMLink』、メンテナンス・レジリエンス TOKYO 2026 に出展 — AIエージェント「EMLink Intelligence」とモバイル搭載ローカルLLMをデモ",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wb28zdm9ud1VRQzNSdGpMZHBlZHVxdlF6TkUycEJ6TnNLcmhVdlV6VGRTX0ctSzVGbkNRX1NoenJyX1FPdkdzbk1zM25kQUVfVmpWeGp0VVI3YU9tb0ZmcUcxZTVEcFlzTEE?oc=5",
+        "publishedAt": "2026-06-10T00:10:01.000Z"
       }
     ],
     "worldHeadlines": [
