@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-10T22:16:41.870Z",
+  "updatedAt": "2026-06-10T23:05:39.050Z",
   "items": [
+    {
+      "time": "07:46",
+      "title": "米大統領 イランへの再攻撃を警告",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583760?source=rss",
+      "publishedAt": "2026-06-10T22:46:12.000Z",
+      "xQuery": "米大統領 イランへの再攻撃を警告"
+    },
     {
       "time": "06:20",
       "title": "首相 G7でエネ安保3原則を提唱へ",
@@ -10,28 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 G7でエネ安保3原則を提唱へ"
     },
     {
-      "time": "22:42",
-      "title": "利上げ公算 住宅ローンの金利は?",
+      "time": "07:17",
+      "title": "信越化学 レアアース工場を新設へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583714?source=rss",
-      "publishedAt": "2026-06-10T13:42:04.000Z",
-      "xQuery": "利上げ公算 住宅ローンの金利は?"
-    },
-    {
-      "time": "23:46",
-      "title": "地下街で胸刺されバッグ奪われる",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583746?source=rss",
-      "publishedAt": "2026-06-10T14:46:39.000Z",
-      "xQuery": "地下街で胸刺されバッグ奪われる"
-    },
-    {
-      "time": "23:28",
-      "title": "2人乗り自転車事故で1人重体 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583745?source=rss",
-      "publishedAt": "2026-06-10T14:28:06.000Z",
-      "xQuery": "2人乗り自転車事故で1人重体 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6583757?source=rss",
+      "publishedAt": "2026-06-10T22:17:15.000Z",
+      "xQuery": "信越化学 レアアース工場を新設へ"
     },
     {
       "time": "06:40",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583753?source=rss",
       "publishedAt": "2026-06-10T21:40:17.000Z",
       "xQuery": "サグラダファミリア主塔完成 祝福"
+    },
+    {
+      "time": "07:25",
+      "title": "高級かんきつ新品種 中国流出か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583756?source=rss",
+      "publishedAt": "2026-06-10T22:25:30.000Z",
+      "xQuery": "高級かんきつ新品種 中国流出か"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T22:16:41.059Z",
+  "updatedAt": "2026-06-10T23:05:38.265Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,27 +45,27 @@
         "publishedAt": "2026-06-10T03:53:30.000Z"
       },
       {
+        "time": "21:55",
+        "title": "画像 | 〈工作機械受注〉4月は驚異の前年比45.1％増､額は1889億円で過去2番目!データセンター関連など空前の受注規模が継続",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rbFRhNTRWUWFXRHJjR1dYN2F6MW1zXzF5S2tEM1huZVVkR2IzMi1wbHBENkVpTXV1dkk3T0tRM1Y4dW5EOFFEN2RzbE1IZnNKbjVXZXpjTmFiT28tc1E?oc=5",
+        "publishedAt": "2026-06-10T12:55:11.000Z"
+      },
+      {
         "time": "12:38",
         "title": "ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84bjFZSDloOThRWkNlLUhoYkJfWnlvX1FrckxTdERsRTdObWlVN1I5dndYanlnblhCM3lGR0lYaGdYS1RGd2Rmc2xPTENONFBiZlp2cU11MjZSM3FkNHQ2Qk93R0dUZ3dUb0h0N2JMRmQ?oc=5",
         "publishedAt": "2026-06-10T03:38:00.000Z"
-      },
-      {
-        "time": "13:20",
-        "title": "初の研究施設７月稼働、安田工業 工作機械の性能向上探る",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96dnJ1SC15Vnp5SXo0eVdYR3k1dnBKclV1N2NWX2tueDVLbFhnQnFMMG9OWXo0YmRSMWFrUlZubUExX1lNZkI3YjQ1OU95ZnBrY0pYUUxSNVhma2FfdjA4NkxaSQ?oc=5",
-        "publishedAt": "2026-06-10T04:20:00.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "21:10",
-        "title": "米イラン 報復攻撃の応酬続く",
+        "time": "07:46",
+        "title": "米大統領 イランへの再攻撃を警告",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583732?source=rss",
-        "publishedAt": "2026-06-10T12:10:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583760?source=rss",
+        "publishedAt": "2026-06-10T22:46:12.000Z"
       },
       {
         "time": "21:58",
@@ -112,6 +112,13 @@
         "publishedAt": "2026-06-10T10:06:10.000Z"
       },
       {
+        "time": "07:17",
+        "title": "信越化学 レアアース工場を新設へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583757?source=rss",
+        "publishedAt": "2026-06-10T22:17:15.000Z"
+      },
+      {
         "time": "17:13",
         "title": "トヨタ会長の役員報酬 21億円超",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583720?source=rss",
         "publishedAt": "2026-06-10T13:46:01.000Z"
-      },
-      {
-        "time": "15:16",
-        "title": "アシックス独走も 業界各社が好調",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583693?source=rss",
-        "publishedAt": "2026-06-10T06:16:03.000Z"
       }
     ],
     "localHeadlines": [
