@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T19:25:03.200Z",
+  "updatedAt": "2026-06-10T20:20:44.745Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-06-10T11:06:55.000Z"
       },
       {
+        "time": "04:52",
+        "title": "社説／ものづくり白書（下）次の一手に向けた設備更新を",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51bEozOWpSU3UtNFVnQ01lYUVYa0gwQW55Rm80OEpxaWliUllNQzMxMFJSWDJPaGhVZGdWRFQ4cFU1SDk4X1hORUo3WF9uRDZIZFhyNy1aazM3NEk?oc=5",
+        "publishedAt": "2026-06-10T19:52:30.000Z"
+      },
+      {
         "time": "10:32",
         "title": "工作機械受注が教えてくれる日本株・世界経済（26 年５月） | 藤代 宏一 | 第一ライフ資産運用経済研究所",
         "source": "第一ライフ資産運用経済研究所",
@@ -26,16 +33,9 @@
       {
         "time": "12:38",
         "title": "【材料】 ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視",
-        "source": "株探",
+        "source": "株探（かぶたん）",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lMjlDakY2SGdPek1QeW0zTWM1aDdOZUlBa2tTdWRaazRZdnRIZFJXWl9Ed3NXSUtTOVVWRGI2a29OQlpnQUJnd0wyWXUyYy1VNER3NzdxR0tMcTJqcjMwZw?oc=5",
         "publishedAt": "2026-06-10T03:38:55.000Z"
-      },
-      {
-        "time": "13:20",
-        "title": "初の研究施設７月稼働、安田工業 工作機械の性能向上探る",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3aGxBM2x5VnlqLTREdFp0Wkd1cUFKWU5vTS04VllZSk1ub0tMUVlfVVpZWDZVM1RHWWV1ZDdsN0xFMFk0c1NNQzFveW5pWHJZQ0JyQkpmbFBQUQ?oc=5",
-        "publishedAt": "2026-06-10T04:20:00.000Z"
       },
       {
         "time": "12:53",
