@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-06-10T20:20:44.745Z",
+  "updatedAt": "2026-06-10T21:21:47.295Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "18:07",
-        "title": "5月の工作機械受注速報、前年同月比37．4％増の1768億3300万円(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOHVUNVI5aTl4d2dzNXJFZWI2Y3d0OEVDU2dhVWpzak53dGZPa0xreF9mVEs0WnFEbDc0ZEJlcnFBR1pzQmpMOGh1SEVPbFpINnNpa2hYQ1A1V1ZWdXZhbFI4YTBOcGdWWFVJRkcyeU1FaHh5Q0JSN2x5NEFBZ0NOOC1ZaS1JakE?oc=5",
-        "publishedAt": "2026-06-10T09:07:42.000Z"
-      },
       {
         "time": "20:06",
         "title": "株式会社島井様",
@@ -33,9 +26,16 @@
       {
         "time": "12:38",
         "title": "【材料】 ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視",
-        "source": "株探（かぶたん）",
+        "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lMjlDakY2SGdPek1QeW0zTWM1aDdOZUlBa2tTdWRaazRZdnRIZFJXWl9Ed3NXSUtTOVVWRGI2a29OQlpnQUJnd0wyWXUyYy1VNER3NzdxR0tMcTJqcjMwZw?oc=5",
         "publishedAt": "2026-06-10T03:38:55.000Z"
+      },
+      {
+        "time": "12:00",
+        "title": "「値固め完了」の公算大、長期波動も注視したい工作機械大手（会社四季報オンライン）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IR1hTclA0UjNQZmczZE9CMjQwRmE1Z3B1Qzg4WWVoLXpSMXpXdHhxelNBZnVybmVXQUJpem9HaVZ4UENZdk44SmVuMXNMY2dGNXZvcVJJa1JKVFZwVUxzeEdKOUMtOFM1VkJ0S0N3TXdweXQyZ1JEanh6Sy1hU2s?oc=5",
+        "publishedAt": "2026-06-10T03:00:45.000Z"
       },
       {
         "time": "12:53",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-10T03:53:30.000Z"
       },
       {
-        "time": "21:55",
-        "title": "画像 | 〈工作機械受注〉4月は驚異の前年比45.1％増､額は1889億円で過去2番目!データセンター関連など空前の受注規模が継続",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rbFRhNTRWUWFXRHJjR1dYN2F6MW1zXzF5S2tEM1huZVVkR2IzMi1wbHBENkVpTXV1dkk3T0tRM1Y4dW5EOFFEN2RzbE1IZnNKbjVXZXpjTmFiT28tc1E?oc=5",
-        "publishedAt": "2026-06-10T12:55:11.000Z"
-      },
-      {
         "time": "12:38",
         "title": "ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84bjFZSDloOThRWkNlLUhoYkJfWnlvX1FrckxTdERsRTdObWlVN1I5dndYanlnblhCM3lGR0lYaGdYS1RGd2Rmc2xPTENONFBiZlp2cU11MjZSM3FkNHQ2Qk93R0dUZ3dUb0h0N2JMRmQ?oc=5",
         "publishedAt": "2026-06-10T03:38:00.000Z"
+      },
+      {
+        "time": "13:20",
+        "title": "初の研究施設７月稼働、安田工業 工作機械の性能向上探る",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96dnJ1SC15Vnp5SXo0eVdYR3k1dnBKclV1N2NWX2tueDVLbFhnQnFMMG9OWXo0YmRSMWFrUlZubUExX1lNZkI3YjQ1OU95ZnBrY0pYUUxSNVhma2FfdjA4NkxaSQ?oc=5",
+        "publishedAt": "2026-06-10T04:20:00.000Z"
       }
     ],
     "worldHeadlines": [
