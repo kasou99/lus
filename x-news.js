@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-10T21:21:48.607Z",
+  "updatedAt": "2026-06-10T22:16:41.870Z",
   "items": [
     {
-      "time": "22:19",
-      "title": "「立法府の総意」共産党など反発",
+      "time": "06:20",
+      "title": "首相 G7でエネ安保3原則を提唱へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583739?source=rss",
-      "publishedAt": "2026-06-10T13:19:28.000Z",
-      "xQuery": "「立法府の総意」共産党など反発"
+      "url": "https://news.yahoo.co.jp/pickup/6583751?source=rss",
+      "publishedAt": "2026-06-10T21:20:51.000Z",
+      "xQuery": "首相 G7でエネ安保3原則を提唱へ"
     },
     {
       "time": "22:42",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "2人乗り自転車事故で1人重体 逮捕"
     },
     {
-      "time": "23:50",
-      "title": "天橋立でクマ出没 麻酔銃撃ち捕獲",
+      "time": "06:40",
+      "title": "サグラダファミリア主塔完成 祝福",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583748?source=rss",
-      "publishedAt": "2026-06-10T14:50:17.000Z",
-      "xQuery": "天橋立でクマ出没 麻酔銃撃ち捕獲"
+      "url": "https://news.yahoo.co.jp/pickup/6583753?source=rss",
+      "publishedAt": "2026-06-10T21:40:17.000Z",
+      "xQuery": "サグラダファミリア主塔完成 祝福"
     }
   ]
 };
