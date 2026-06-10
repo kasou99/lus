@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-09T23:58:14.257Z",
+  "updatedAt": "2026-06-10T01:19:15.031Z",
   "items": [
     {
-      "time": "07:13",
-      "title": "米軍 ヘリ撃墜でイランに報復開始",
+      "time": "08:45",
+      "title": "自民 政府に防衛費増額を提言へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583620?source=rss",
-      "publishedAt": "2026-06-09T22:13:47.000Z",
-      "xQuery": "米軍 ヘリ撃墜でイランに報復開始"
+      "url": "https://news.yahoo.co.jp/pickup/6583634?source=rss",
+      "publishedAt": "2026-06-09T23:45:49.000Z",
+      "xQuery": "自民 政府に防衛費増額を提言へ"
     },
     {
-      "time": "08:08",
-      "title": "日マレーシア 海保協力覚書締結へ",
+      "time": "10:01",
+      "title": "ラピダス 英伊と研究開発で協力へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583629?source=rss",
-      "publishedAt": "2026-06-09T23:08:20.000Z",
-      "xQuery": "日マレーシア 海保協力覚書締結へ"
-    },
-    {
-      "time": "06:51",
-      "title": "宇都宮出没のクマ 複数頭の可能性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583619?source=rss",
-      "publishedAt": "2026-06-09T21:51:38.000Z",
-      "xQuery": "宇都宮出没のクマ 複数頭の可能性"
+      "url": "https://news.yahoo.co.jp/pickup/6583642?source=rss",
+      "publishedAt": "2026-06-10T01:01:03.000Z",
+      "xQuery": "ラピダス 英伊と研究開発で協力へ"
     },
     {
       "time": "08:23",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583631?source=rss",
       "publishedAt": "2026-06-09T23:23:15.000Z",
       "xQuery": "幼児の顔にケーキ 児相が一時保護"
+    },
+    {
+      "time": "09:37",
+      "title": "スシロー皿タワー 中国SNSで拡散",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583639?source=rss",
+      "publishedAt": "2026-06-10T00:37:22.000Z",
+      "xQuery": "スシロー皿タワー 中国SNSで拡散"
     },
     {
       "time": "08:11",

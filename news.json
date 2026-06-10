@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-09T23:58:13.251Z",
+  "updatedAt": "2026-06-10T01:19:14.475Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:00",
+        "title": "中国の補助金投入で｢工作機械の常識｣が変わった 日工会･稲葉会長が語った\"ものづくりの未来\" 3ページ目 | ビジネス",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81OGZ1Q0Vvcmo2c0w4dS03OHUyaDRYUnVqdE1CNF9WaE9SOUxUR2txcWFRQjdrR01MLWlRSmN5TUhtYnEyWV92UEpsYlo0UjFUVkJWRTUydkFSa2c?oc=5",
+        "publishedAt": "2026-06-09T21:00:00.000Z"
+      },
       {
         "time": "15:18",
         "title": "5月工作機械受注は前年比37.4％増、11カ月連続プラス＝工作機械工業会",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-06-09T08:02:00.000Z"
       },
       {
-        "time": "16:00",
-        "title": "中国の補助金投入で｢工作機械の常識｣が変わった 日工会･稲葉会長が語った\"ものづくりの未来\" 2ページ目 | ビジネス",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oTmZkZmFXai1pYXQzTXpERU41OWtySzRDRGZncFI5dU5JTlRHTkdMb2lETlNJNHFFUUtoOWVkWGdYNWRVM0VZM0gtRVE3YXRUNkoyNTU3WktmeU0?oc=5",
-        "publishedAt": "2026-06-09T07:00:00.000Z"
-      },
-      {
         "time": "01:52",
         "title": "VIMOA「AIモニタリングプラン」を開始",
         "source": "北海道新聞デジタル",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-06-09T04:30:00.000Z"
       },
       {
-        "time": "09:30",
-        "title": "ハイエンドCNC工作機械の世界市場（2026年～2032年）、市場規模（CNC旋盤、CNCフライス盤、CNC研削盤、その他）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxOGNldWh1eVRReVZZRkFVMFh3Njc2NDFHQmRkNmJHX1hxT2p1SHBkUXUtSEZfcHBmUm1NNDBGT2p4Y0h4RWhF?oc=5",
-        "publishedAt": "2026-06-09T00:30:00.000Z"
+        "time": "18:28",
+        "title": "工作機械用ロータリージョイント市場規模は2026年80.63百万米ドル、成長率5.7%で拡大予測｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2SmQ1N0pzeXNvZU5Rd3JMUk5FbGNoRVU3a0llT1dmREkzQ1pPc3c3M1dCQVlxVF84YWRIc01xaUxRbm5ObjhOS3JSc2Nla25Qbm9fRmtMUQ?oc=5",
+        "publishedAt": "2026-06-09T09:28:46.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,21 +89,28 @@
         "publishedAt": "2026-06-09T12:05:56.000Z"
       },
       {
-        "time": "21:43",
-        "title": "フィリピンで地震 30人超が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583479?source=rss",
-        "publishedAt": "2026-06-08T12:43:34.000Z"
-      },
-      {
         "time": "09:16",
         "title": "トランプ氏がナルト動画投稿 物議",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583518?source=rss",
         "publishedAt": "2026-06-09T00:16:51.000Z"
+      },
+      {
+        "time": "14:12",
+        "title": "米との合意近かった イラン高官",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583551?source=rss",
+        "publishedAt": "2026-06-09T05:12:08.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "10:01",
+        "title": "ラピダス 英伊と研究開発で協力へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583642?source=rss",
+        "publishedAt": "2026-06-10T01:01:03.000Z"
+      },
       {
         "time": "20:57",
         "title": "日銀1%に利上げへ 家計への影響",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583565?source=rss",
         "publishedAt": "2026-06-09T07:30:51.000Z"
-      },
-      {
-        "time": "15:34",
-        "title": "JR東「QR乗車券」のイメージ公開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583558?source=rss",
-        "publishedAt": "2026-06-09T06:34:02.000Z"
       }
     ],
     "localHeadlines": [
