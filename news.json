@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T03:18:46.076Z",
+  "updatedAt": "2026-06-11T05:06:01.628Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-06-10T11:06:55.000Z"
       },
       {
-        "time": "12:38",
-        "title": "【材料】 ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視",
-        "source": "株探（かぶたん）",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lMjlDakY2SGdPek1QeW0zTWM1aDdOZUlBa2tTdWRaazRZdnRIZFJXWl9Ed3NXSUtTOVVWRGI2a29OQlpnQUJnd0wyWXUyYy1VNER3NzdxR0tMcTJqcjMwZw?oc=5",
-        "publishedAt": "2026-06-10T03:38:55.000Z"
-      },
-      {
         "time": "10:15",
         "title": "経営ひと言／日本工作機械輸入協会・金子一彦会長「丁寧に価値説明」",
         "source": "日刊工業新聞",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-06-11T01:15:59.000Z"
       },
       {
-        "time": "12:53",
-        "title": "ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視",
-        "source": "ダイヤモンド・オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VUTdBYldYZ01OQUJURXcxOXRrUENQT2o1U3V3TERiWUthOG4yc1F4dEI1U0xvR1RhQ3BRUkg4aXFsaEV4cjlSU1RockQwX1IxUHpV?oc=5",
-        "publishedAt": "2026-06-10T03:53:30.000Z"
-      },
-      {
         "time": "22:10",
         "title": "設備保全クラウド『EMLink』、メンテナンス・レジリエンス TOKYO 2026 に出展 - AIエージェント「EMLink Intelligence」とモバイル搭載ローカルLLMをデモ",
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMeHYxQ2g1Qm5TZEp3OXVPSWNPT09sRlB1RTRWLTdwMkJCd3U5MlBROFB1b3RCcl9WeWdyM25OemtId2FXeDdSQWFTQk54bDlXR1lLMzhqb1pvdFp2TkFPQmxIdXRHUm1Xczdz?oc=5",
         "publishedAt": "2026-06-10T13:10:00.000Z"
+      },
+      {
+        "time": "17:56",
+        "title": "程泰集団、新代科技とスマート製造で提携 楊徳華会長「売上高200億台湾ドル目指す」",
+        "source": "finance.biggo.jp",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92SmNDR01EQmVZa09iOEV5QVAyZ19rdlBVLWhwNWxieGoxaUxmajB4WFo5WEplY0R3MjlTT0FoZWFLODhpdkZYZGU0TVdfV0E3bDY4VFc5Q296VzljdGNN?oc=5",
+        "publishedAt": "2026-06-10T08:56:00.000Z"
+      },
+      {
+        "time": "21:55",
+        "title": "画像 | 〈工作機械受注〉4月は驚異の前年比45.1％増､額は1889億円で過去2番目!データセンター関連など空前の受注規模が継続",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rbFRhNTRWUWFXRHJjR1dYN2F6MW1zXzF5S2tEM1huZVVkR2IzMi1wbHBENkVpTXV1dkk3T0tRM1Y4dW5EOFFEN2RzbE1IZnNKbjVXZXpjTmFiT28tc1E?oc=5",
+        "publishedAt": "2026-06-10T12:55:11.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "09:20",
-        "title": "日経平均 一時1800円超の値下がり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583774?source=rss",
-        "publishedAt": "2026-06-11T00:20:43.000Z"
-      },
-      {
         "time": "11:29",
         "title": "原油の代替調達 来月100%見通し",
         "source": "Yahoo!ニュース",
@@ -140,6 +133,13 @@
         "publishedAt": "2026-06-10T09:36:59.000Z"
       },
       {
+        "time": "14:02",
+        "title": "皇居財布 ネット抽選で販売再開へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583801?source=rss",
+        "publishedAt": "2026-06-11T05:02:01.000Z"
+      },
+      {
         "time": "10:26",
         "title": "靴下の国内生産 存続の危機に直面",
         "source": "Yahoo!ニュース",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "12:03",
-        "title": "河川敷に遺体 不明の女子高校生か",
+        "time": "12:53",
+        "title": "女子高校生の遺体 知人に話聞く",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583792?source=rss",
-        "publishedAt": "2026-06-11T03:03:21.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583795?source=rss",
+        "publishedAt": "2026-06-11T03:53:54.000Z"
       },
       {
         "time": "11:38",
@@ -170,18 +170,18 @@
         "publishedAt": "2026-06-10T14:46:39.000Z"
       },
       {
+        "time": "13:43",
+        "title": "池袋で800万円強盗被害か 2人逃走",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583800?source=rss",
+        "publishedAt": "2026-06-11T04:43:23.000Z"
+      },
+      {
         "time": "09:14",
         "title": "DCの建設巡り 不安あおるチラシ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583773?source=rss",
         "publishedAt": "2026-06-11T00:14:56.000Z"
-      },
-      {
-        "time": "23:50",
-        "title": "天橋立でクマ出没 麻酔銃撃ち捕獲",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583748?source=rss",
-        "publishedAt": "2026-06-10T14:50:17.000Z"
       },
       {
         "time": "08:08",

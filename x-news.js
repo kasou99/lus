@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-11T03:18:47.296Z",
+  "updatedAt": "2026-06-11T05:06:02.681Z",
   "items": [
     {
-      "time": "11:11",
-      "title": "米軍 イランへの新たな攻撃を終了",
+      "time": "11:29",
+      "title": "原油の代替調達 来月100%見通し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583784?source=rss",
-      "publishedAt": "2026-06-11T02:11:13.000Z",
-      "xQuery": "米軍 イランへの新たな攻撃を終了"
+      "url": "https://news.yahoo.co.jp/pickup/6583787?source=rss",
+      "publishedAt": "2026-06-11T02:29:57.000Z",
+      "xQuery": "原油の代替調達 来月100%見通し"
     },
     {
-      "time": "09:43",
-      "title": "米 北米貿易協定の延長見送り示唆",
+      "time": "11:41",
+      "title": "「立法府の総意」歓迎と懸念の声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583775?source=rss",
-      "publishedAt": "2026-06-11T00:43:06.000Z",
-      "xQuery": "米 北米貿易協定の延長見送り示唆"
+      "url": "https://news.yahoo.co.jp/pickup/6583789?source=rss",
+      "publishedAt": "2026-06-11T02:41:49.000Z",
+      "xQuery": "「立法府の総意」歓迎と懸念の声"
     },
     {
-      "time": "12:03",
-      "title": "河川敷に遺体 不明の女子高校生か",
+      "time": "12:53",
+      "title": "女子高校生の遺体 知人に話聞く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583792?source=rss",
-      "publishedAt": "2026-06-11T03:03:21.000Z",
-      "xQuery": "河川敷に遺体 不明の女子高校生か"
+      "url": "https://news.yahoo.co.jp/pickup/6583795?source=rss",
+      "publishedAt": "2026-06-11T03:53:54.000Z",
+      "xQuery": "女子高校生の遺体 知人に話聞く"
     },
     {
-      "time": "11:38",
-      "title": "2人死亡 バス運転手を鑑定留置へ",
+      "time": "13:43",
+      "title": "池袋で800万円強盗被害か 2人逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583788?source=rss",
-      "publishedAt": "2026-06-11T02:38:03.000Z",
-      "xQuery": "2人死亡 バス運転手を鑑定留置へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583800?source=rss",
+      "publishedAt": "2026-06-11T04:43:23.000Z",
+      "xQuery": "池袋で800万円強盗被害か 2人逃走"
     },
     {
-      "time": "11:39",
-      "title": "ジャングリア 半額以下チケを販売",
+      "time": "13:47",
+      "title": "Micro被告 執行猶予付き有罪判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583790?source=rss",
-      "publishedAt": "2026-06-11T02:39:55.000Z",
-      "xQuery": "ジャングリア 半額以下チケを販売"
+      "url": "https://news.yahoo.co.jp/pickup/6583803?source=rss",
+      "publishedAt": "2026-06-11T04:47:37.000Z",
+      "xQuery": "Micro被告 執行猶予付き有罪判決"
     }
   ]
 };
