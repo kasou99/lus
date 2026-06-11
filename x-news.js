@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-11T14:21:46.903Z",
+  "updatedAt": "2026-06-11T15:50:39.087Z",
   "items": [
-    {
-      "time": "21:51",
-      "title": "欧州中銀 2年9カ月ぶり利上げ決定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583880?source=rss",
-      "publishedAt": "2026-06-11T12:51:19.000Z",
-      "xQuery": "欧州中銀 2年9カ月ぶり利上げ決定"
-    },
     {
       "time": "23:04",
       "title": "皇族数確保策に陛下 国民の理解を",
@@ -18,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "皇族数確保策に陛下 国民の理解を"
     },
     {
-      "time": "20:38",
-      "title": "首相「だるっ」 内閣広報官X否定",
+      "time": "21:51",
+      "title": "欧州中銀 2年9カ月ぶり利上げ決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583870?source=rss",
-      "publishedAt": "2026-06-11T11:38:02.000Z",
-      "xQuery": "首相「だるっ」 内閣広報官X否定"
+      "url": "https://news.yahoo.co.jp/pickup/6583880?source=rss",
+      "publishedAt": "2026-06-11T12:51:19.000Z",
+      "xQuery": "欧州中銀 2年9カ月ぶり利上げ決定"
+    },
+    {
+      "time": "23:46",
+      "title": "トランプ氏 激しい攻撃行うと表明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583895?source=rss",
+      "publishedAt": "2026-06-11T14:46:20.000Z",
+      "xQuery": "トランプ氏 激しい攻撃行うと表明"
+    },
+    {
+      "time": "23:21",
+      "title": "神戸市で初めて「クマ」出没確認",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583891?source=rss",
+      "publishedAt": "2026-06-11T14:21:55.000Z",
+      "xQuery": "神戸市で初めて「クマ」出没確認"
     },
     {
       "time": "22:27",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583884?source=rss",
       "publishedAt": "2026-06-11T13:27:19.000Z",
       "xQuery": "工藤会トップに勝訴 賠償払われず"
-    },
-    {
-      "time": "22:42",
-      "title": "中国で「抹茶発祥の地」アピール",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583883?source=rss",
-      "publishedAt": "2026-06-11T13:42:48.000Z",
-      "xQuery": "中国で「抹茶発祥の地」アピール"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T14:21:45.678Z",
+  "updatedAt": "2026-06-11T15:50:38.243Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,18 +61,18 @@
     ],
     "worldHeadlines": [
       {
+        "time": "23:46",
+        "title": "トランプ氏 激しい攻撃行うと表明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583895?source=rss",
+        "publishedAt": "2026-06-11T14:46:20.000Z"
+      },
+      {
         "time": "21:05",
         "title": "イラン 米が停戦を事実上無意味に",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583874?source=rss",
         "publishedAt": "2026-06-11T12:05:55.000Z"
-      },
-      {
-        "time": "11:11",
-        "title": "米軍 イランへの新たな攻撃を終了",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583784?source=rss",
-        "publishedAt": "2026-06-11T02:11:13.000Z"
       },
       {
         "time": "08:27",
@@ -163,18 +163,18 @@
         "publishedAt": "2026-06-11T09:06:30.000Z"
       },
       {
-        "time": "17:07",
-        "title": "大阪刺傷 女性以外襲うそぶりなし",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583826?source=rss",
-        "publishedAt": "2026-06-11T08:07:04.000Z"
-      },
-      {
         "time": "20:46",
         "title": "江別暴行死「狂ってる」遺族怒り",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583871?source=rss",
         "publishedAt": "2026-06-11T11:46:06.000Z"
+      },
+      {
+        "time": "23:21",
+        "title": "神戸市で初めて「クマ」出没確認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583891?source=rss",
+        "publishedAt": "2026-06-11T14:21:55.000Z"
       },
       {
         "time": "22:10",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-11T13:10:06.000Z"
       },
       {
-        "time": "22:27",
-        "title": "工藤会トップに勝訴 賠償払われず",
+        "time": "17:07",
+        "title": "大阪刺傷 女性以外襲うそぶりなし",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583884?source=rss",
-        "publishedAt": "2026-06-11T13:27:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583826?source=rss",
+        "publishedAt": "2026-06-11T08:07:04.000Z"
       }
     ],
     "subsidyHeadlines": [
