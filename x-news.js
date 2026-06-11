@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-10T23:05:39.050Z",
+  "updatedAt": "2026-06-11T00:01:34.868Z",
   "items": [
     {
-      "time": "07:46",
-      "title": "米大統領 イランへの再攻撃を警告",
+      "time": "08:26",
+      "title": "米軍 イラン国内への攻撃を再開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583760?source=rss",
-      "publishedAt": "2026-06-10T22:46:12.000Z",
-      "xQuery": "米大統領 イランへの再攻撃を警告"
+      "url": "https://news.yahoo.co.jp/pickup/6583766?source=rss",
+      "publishedAt": "2026-06-10T23:26:27.000Z",
+      "xQuery": "米軍 イラン国内への攻撃を再開"
     },
     {
-      "time": "06:20",
-      "title": "首相 G7でエネ安保3原則を提唱へ",
+      "time": "08:27",
+      "title": "イラン ホルムズ海峡封鎖を宣言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583751?source=rss",
-      "publishedAt": "2026-06-10T21:20:51.000Z",
-      "xQuery": "首相 G7でエネ安保3原則を提唱へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583767?source=rss",
+      "publishedAt": "2026-06-10T23:27:30.000Z",
+      "xQuery": "イラン ホルムズ海峡封鎖を宣言"
     },
     {
       "time": "07:17",

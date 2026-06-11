@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T23:05:38.265Z",
+  "updatedAt": "2026-06-11T00:01:34.110Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-06-10T11:06:55.000Z"
       },
       {
-        "time": "04:52",
+        "time": "05:01",
         "title": "社説／ものづくり白書（下）次の一手に向けた設備更新を",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51bEozOWpSU3UtNFVnQ01lYUVYa0gwQW55Rm80OEpxaWliUllNQzMxMFJSWDJPaGhVZGdWRFQ4cFU1SDk4X1hORUo3WF9uRDZIZFhyNy1aazM3NEk?oc=5",
-        "publishedAt": "2026-06-10T19:52:30.000Z"
+        "publishedAt": "2026-06-10T20:01:03.000Z"
       },
       {
         "time": "10:32",
@@ -31,13 +31,6 @@
         "publishedAt": "2026-06-10T03:38:55.000Z"
       },
       {
-        "time": "12:00",
-        "title": "「値固め完了」の公算大、長期波動も注視したい工作機械大手（会社四季報オンライン）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IR1hTclA0UjNQZmczZE9CMjQwRmE1Z3B1Qzg4WWVoLXpSMXpXdHhxelNBZnVybmVXQUJpem9HaVZ4UENZdk44SmVuMXNMY2dGNXZvcVJJa1JKVFZwVUxzeEdKOUMtOFM1VkJ0S0N3TXdweXQyZ1JEanh6Sy1hU2s?oc=5",
-        "publishedAt": "2026-06-10T03:00:45.000Z"
-      },
-      {
         "time": "12:53",
         "title": "ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視",
         "source": "ダイヤモンド・オンライン",
@@ -45,11 +38,11 @@
         "publishedAt": "2026-06-10T03:53:30.000Z"
       },
       {
-        "time": "21:55",
-        "title": "画像 | 〈工作機械受注〉4月は驚異の前年比45.1％増､額は1889億円で過去2番目!データセンター関連など空前の受注規模が継続",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rbFRhNTRWUWFXRHJjR1dYN2F6MW1zXzF5S2tEM1huZVVkR2IzMi1wbHBENkVpTXV1dkk3T0tRM1Y4dW5EOFFEN2RzbE1IZnNKbjVXZXpjTmFiT28tc1E?oc=5",
-        "publishedAt": "2026-06-10T12:55:11.000Z"
+        "time": "12:00",
+        "title": "「値固め完了」の公算大、長期波動も注視したい工作機械大手（会社四季報オンライン）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IR1hTclA0UjNQZmczZE9CMjQwRmE1Z3B1Qzg4WWVoLXpSMXpXdHhxelNBZnVybmVXQUJpem9HaVZ4UENZdk44SmVuMXNMY2dGNXZvcVJJa1JKVFZwVUxzeEdKOUMtOFM1VkJ0S0N3TXdweXQyZ1JEanh6Sy1hU2s?oc=5",
+        "publishedAt": "2026-06-10T03:00:45.000Z"
       },
       {
         "time": "12:38",
@@ -57,15 +50,29 @@
         "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84bjFZSDloOThRWkNlLUhoYkJfWnlvX1FrckxTdERsRTdObWlVN1I5dndYanlnblhCM3lGR0lYaGdYS1RGd2Rmc2xPTENONFBiZlp2cU11MjZSM3FkNHQ2Qk93R0dUZ3dUb0h0N2JMRmQ?oc=5",
         "publishedAt": "2026-06-10T03:38:00.000Z"
+      },
+      {
+        "time": "13:20",
+        "title": "初の研究施設７月稼働、安田工業 工作機械の性能向上探る",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96dnJ1SC15Vnp5SXo0eVdYR3k1dnBKclV1N2NWX2tueDVLbFhnQnFMMG9OWXo0YmRSMWFrUlZubUExX1lNZkI3YjQ1OU95ZnBrY0pYUUxSNVhma2FfdjA4NkxaSQ?oc=5",
+        "publishedAt": "2026-06-10T04:20:00.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "07:46",
-        "title": "米大統領 イランへの再攻撃を警告",
+        "time": "08:26",
+        "title": "米軍 イラン国内への攻撃を再開",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583760?source=rss",
-        "publishedAt": "2026-06-10T22:46:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583766?source=rss",
+        "publishedAt": "2026-06-10T23:26:27.000Z"
+      },
+      {
+        "time": "08:27",
+        "title": "イラン ホルムズ海峡封鎖を宣言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583767?source=rss",
+        "publishedAt": "2026-06-10T23:27:30.000Z"
       },
       {
         "time": "21:58",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583691?source=rss",
         "publishedAt": "2026-06-10T05:43:57.000Z"
-      },
-      {
-        "time": "13:40",
-        "title": "北アイルランド反移民デモ 暴徒化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583678?source=rss",
-        "publishedAt": "2026-06-10T04:40:34.000Z"
       },
       {
         "time": "06:40",
