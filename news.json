@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-11T20:57:28.094Z",
+  "updatedAt": "2026-06-11T21:48:24.291Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:00",
+        "title": "DMG森精機が超音波加工機の生産能力倍増、半導体産業向け需要の高まり：工場ニュース",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XcF94cmxkSUpsbkpyUDU2Z1RyWjRxbXpBaXJnMUZiTTUxRC03OFdsZUdnbkpDUWNVTjlJNEVMZmllNXRmNWZyTGNVenpRSFR3eXIzbl9QMWdOcXl3ZmRselhNWTJKLWVzUDFnZkVfWQ?oc=5",
+        "publishedAt": "2026-06-11T21:00:00.000Z"
+      },
       {
         "time": "17:03",
         "title": "経営ひと言／日本工作機械輸入協会・金子一彦会長「丁寧に価値説明」",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lZVlPdVo0czlQdk9CX2hWVnpZSXdCNHFkWW0wNFVadVdfdmRrWXhFWXF5WUhjajAyY0NUTjBiRi1PemtqT0c1TTExeWxPOTBZdk9IUHg3elVQelVELVU2ZjBFMWdXOGNiWVJOdnRJeTRYbFNM?oc=5",
         "publishedAt": "2026-06-11T08:03:15.000Z"
-      },
-      {
-        "time": "17:24",
-        "title": "ロボット用サーボモーター市場規模は2026年1496百万米ドル、成長率9.7%で拡大予測｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jaVkxa2FXcVp3OXdraVl2N1d5NVNXWHJxQk9RZUVqNkpwZ1JxcjVhVGgwUVlhUjQzbkd3WlFDRkhQV2ZTYVFqbzJlY2hERV9GQ2tRWndxdw?oc=5",
-        "publishedAt": "2026-06-11T08:24:04.000Z"
       },
       {
         "time": "05:00",
@@ -24,11 +24,25 @@
         "publishedAt": "2026-06-11T20:00:00.000Z"
       },
       {
-        "time": "18:40",
-        "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
+        "time": "17:24",
+        "title": "ロボット用サーボモーター市場規模は2026年1496百万米ドル、成長率9.7%で拡大予測｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jaVkxa2FXcVp3OXdraVl2N1d5NVNXWHJxQk9RZUVqNkpwZ1JxcjVhVGgwUVlhUjQzbkd3WlFDRkhQV2ZTYVFqbzJlY2hERV9GQ2tRWndxdw?oc=5",
+        "publishedAt": "2026-06-11T08:24:04.000Z"
+      },
+      {
+        "time": "05:11",
+        "title": "「ロボットテクノロジージャパン」開幕 製造現場で役立つ製品一堂に 自動化提案熱帯びる",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81bXctc2RGTkJQTlJfOGZxSnNUTFhSclZIZzlEZWhkWldCeEhXN0V1clpsLWwzajJlNWV5V1U3dzR4cDJWbWNDX0s3TXR6ZWJIQm1jUG5xLWVsbEpwWmQxU0ZwUklYTmlJNlhHMlVIS3B3LW8?oc=5",
+        "publishedAt": "2026-06-11T20:11:36.000Z"
+      },
+      {
+        "time": "20:53",
+        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
         "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMYjhZTGhmLUxwZDRpdGZxTjlSaExQRmJtc2hLVWh5Rm5aSUFtZkxKY01adkQydUl4OE5UUl92RGNCRXJFd3N0TUZmdm5ZM2dONENkamJSanV5ZjNZRlNIODJn?oc=5",
-        "publishedAt": "2026-06-11T09:40:15.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iVGNLZVFVX1J4RWZrd3R3NUg3R2MtUFBtZUU5WFdmQUR2Z3FXcnNQMXgxeGVmUWVmS2lkRjBXbkhaRnBWNmtScWRnYkM5SFdVWFdkSEhGOVRSa19Tclcw?oc=5",
+        "publishedAt": "2026-06-11T11:53:53.000Z"
       },
       {
         "time": "10:46",
@@ -43,29 +57,15 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2Q1A1TW5BZk9YTlJha280em1GdURoSDhCSmRQSE5ZV29nQlZlTnpBSUp1Z2xkTUo5VWx4ajFXaWQySmVwX0FEdDBHMzNjcmQwTmhmZWRmYm84OWlrWmRyaXNZQ0hJTUdsdTJfcUtGd05Pdnp2dkNkbWFQbw?oc=5",
         "publishedAt": "2026-06-11T06:54:28.000Z"
-      },
-      {
-        "time": "20:53",
-        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iVGNLZVFVX1J4RWZrd3R3NUg3R2MtUFBtZUU5WFdmQUR2Z3FXcnNQMXgxeGVmUWVmS2lkRjBXbkhaRnBWNmtScWRnYkM5SFdVWFdkSEhGOVRSa19Tclcw?oc=5",
-        "publishedAt": "2026-06-11T11:53:53.000Z"
-      },
-      {
-        "time": "10:41",
-        "title": "作業着を“世界にひとつだけの職人デニム”に育てる「職人デニムプロジェクト」始動",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MYkFxcHhEYWpOMi0zY25VckJwQjZqaTdFT2pVa0JVR1Y1amhpdjh6ZTZOQkVHajR5UUtVQ2swNi13cldCallsbnp2S2lUTk9WN3k3RUtIZVZ4ZTNuS0xkLVBCaHF6TGRNRXc?oc=5",
-        "publishedAt": "2026-06-11T01:41:14.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "23:46",
-        "title": "トランプ氏 激しい攻撃行うと表明",
+        "time": "06:24",
+        "title": "米 イラン協議受け攻撃中止と表明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583895?source=rss",
-        "publishedAt": "2026-06-11T14:46:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583899?source=rss",
+        "publishedAt": "2026-06-11T21:24:04.000Z"
       },
       {
         "time": "21:05",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "19:06",
-        "title": "高校生殺害疑い 男は元交際相手か",
+        "time": "06:32",
+        "title": "17歳殺害疑い 復縁断られたと供述",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583852?source=rss",
-        "publishedAt": "2026-06-11T10:06:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583900?source=rss",
+        "publishedAt": "2026-06-11T21:32:20.000Z"
       },
       {
         "time": "18:06",

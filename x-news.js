@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-11T20:57:29.534Z",
+  "updatedAt": "2026-06-11T21:48:24.962Z",
   "items": [
+    {
+      "time": "06:24",
+      "title": "米 イラン協議受け攻撃中止と表明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583899?source=rss",
+      "publishedAt": "2026-06-11T21:24:04.000Z",
+      "xQuery": "米 イラン協議受け攻撃中止と表明"
+    },
     {
       "time": "23:04",
       "title": "皇族数確保策に陛下 国民の理解を",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "皇族数確保策に陛下 国民の理解を"
     },
     {
-      "time": "21:51",
-      "title": "欧州中銀 2年9カ月ぶり利上げ決定",
+      "time": "06:32",
+      "title": "17歳殺害疑い 復縁断られたと供述",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583880?source=rss",
-      "publishedAt": "2026-06-11T12:51:19.000Z",
-      "xQuery": "欧州中銀 2年9カ月ぶり利上げ決定"
-    },
-    {
-      "time": "23:46",
-      "title": "トランプ氏 激しい攻撃行うと表明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583895?source=rss",
-      "publishedAt": "2026-06-11T14:46:20.000Z",
-      "xQuery": "トランプ氏 激しい攻撃行うと表明"
+      "url": "https://news.yahoo.co.jp/pickup/6583900?source=rss",
+      "publishedAt": "2026-06-11T21:32:20.000Z",
+      "xQuery": "17歳殺害疑い 復縁断られたと供述"
     },
     {
       "time": "23:21",
