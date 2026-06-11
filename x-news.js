@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-11T07:10:07.798Z",
+  "updatedAt": "2026-06-11T09:02:45.574Z",
   "items": [
     {
-      "time": "13:43",
-      "title": "官房長官 中東情勢の悪化を懸念",
+      "time": "17:04",
+      "title": "日英 洋上風力発電で連携強化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583799?source=rss",
-      "publishedAt": "2026-06-11T04:43:04.000Z",
-      "xQuery": "官房長官 中東情勢の悪化を懸念"
+      "url": "https://news.yahoo.co.jp/pickup/6583825?source=rss",
+      "publishedAt": "2026-06-11T08:04:46.000Z",
+      "xQuery": "日英 洋上風力発電で連携強化へ"
     },
     {
-      "time": "11:29",
-      "title": "原油の代替調達 来月100%見通し",
+      "time": "17:25",
+      "title": "安野氏 国会議員にAI勉強会開催へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583787?source=rss",
-      "publishedAt": "2026-06-11T02:29:57.000Z",
-      "xQuery": "原油の代替調達 来月100%見通し"
+      "url": "https://news.yahoo.co.jp/pickup/6583830?source=rss",
+      "publishedAt": "2026-06-11T08:25:25.000Z",
+      "xQuery": "安野氏 国会議員にAI勉強会開催へ"
     },
     {
-      "time": "14:44",
-      "title": "高校生の遺体 殺人疑い視野に捜査",
+      "time": "17:29",
+      "title": "車の誘導中に挟まれ機動隊員死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583807?source=rss",
-      "publishedAt": "2026-06-11T05:44:45.000Z",
-      "xQuery": "高校生の遺体 殺人疑い視野に捜査"
+      "url": "https://news.yahoo.co.jp/pickup/6583832?source=rss",
+      "publishedAt": "2026-06-11T08:29:51.000Z",
+      "xQuery": "車の誘導中に挟まれ機動隊員死亡"
     },
     {
-      "time": "15:12",
-      "title": "暴行死 当時18歳男に懲役20年求刑",
+      "time": "17:40",
+      "title": "女子部室に男 教員追跡取り押さえ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583809?source=rss",
-      "publishedAt": "2026-06-11T06:12:13.000Z",
-      "xQuery": "暴行死 当時18歳男に懲役20年求刑"
+      "url": "https://news.yahoo.co.jp/pickup/6583837?source=rss",
+      "publishedAt": "2026-06-11T08:40:27.000Z",
+      "xQuery": "女子部室に男 教員追跡取り押さえ"
     },
     {
-      "time": "15:58",
-      "title": "セクハラ辞職 田川市前市長出馬へ",
+      "time": "17:35",
+      "title": "京都三千院 あじさい開花せず謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583813?source=rss",
-      "publishedAt": "2026-06-11T06:58:43.000Z",
-      "xQuery": "セクハラ辞職 田川市前市長出馬へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583833?source=rss",
+      "publishedAt": "2026-06-11T08:35:25.000Z",
+      "xQuery": "京都三千院 あじさい開花せず謝罪"
     }
   ]
 };

@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-11T07:10:06.676Z",
+  "updatedAt": "2026-06-11T09:02:44.956Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "17:24",
+        "title": "ロボット用サーボモーター市場規模は2026年1496百万米ドル、成長率9.7%で拡大予測｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jaVkxa2FXcVp3OXdraVl2N1d5NVNXWHJxQk9RZUVqNkpwZ1JxcjVhVGgwUVlhUjQzbkd3WlFDRkhQV2ZTYVFqbzJlY2hERV9GQ2tRWndxdw?oc=5",
+        "publishedAt": "2026-06-11T08:24:04.000Z"
+      },
       {
         "time": "05:03",
         "title": "工作機械技術振興財団、工作機械技術表彰に23件 16日贈賞式",
@@ -36,13 +43,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92ZnJiWkN3REpfdFc5QzA2SDNaZFoyU1dRLWYzbVkyODlSekc5UTVuTUxjWjllREZvLWxZU3FiY05uazZXUFAwTzlLbkdGRVA4cjlydnlyc2I5QmE1QXB5NTVNY1djV3JSYWZHcU5oWGpBNXkxSE02aV9ycw?oc=5",
         "publishedAt": "2026-06-11T06:54:28.000Z"
-      },
-      {
-        "time": "12:41",
-        "title": "DMG森精機、半導体装置向け超音波加工機を強化 ドイツで生産能力2倍",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ndnlMNW9mdGdFSUU1SzVUQ0NVTGFwdkExVGJ0eXlDNG5fVWViU3puZ3R5UE5oaFlvQ0txYkxGWmtzQXdrdWtmdFdIaE1DdUd4eXlnR0pTb1l0eTMtcGFiZ21DTWJ3aTFSMmZuUQ?oc=5",
-        "publishedAt": "2026-06-11T03:41:32.000Z"
       },
       {
         "time": "10:15",
@@ -82,6 +82,13 @@
         "publishedAt": "2026-06-10T23:27:30.000Z"
       },
       {
+        "time": "16:10",
+        "title": "河野洋平氏死去 韓国首相が追悼",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583815?source=rss",
+        "publishedAt": "2026-06-11T07:10:17.000Z"
+      },
+      {
         "time": "21:58",
         "title": "ウクライナ軍 マリウポリ港を攻撃",
         "source": "Yahoo!ニュース",
@@ -94,16 +101,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583753?source=rss",
         "publishedAt": "2026-06-10T21:40:17.000Z"
-      },
-      {
-        "time": "22:46",
-        "title": "「好況」の平壌 地方は今も生活苦",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583743?source=rss",
-        "publishedAt": "2026-06-10T13:46:26.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "17:04",
+        "title": "日英 洋上風力発電で連携強化へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583825?source=rss",
+        "publishedAt": "2026-06-11T08:04:46.000Z"
+      },
       {
         "time": "11:29",
         "title": "原油の代替調達 来月100%見通し",
@@ -112,11 +119,18 @@
         "publishedAt": "2026-06-11T02:29:57.000Z"
       },
       {
-        "time": "19:06",
-        "title": "日銀総裁が入院 2週間程度見込み",
+        "time": "16:12",
+        "title": "ANA サービス刷新の混乱で謝罪",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583723?source=rss",
-        "publishedAt": "2026-06-10T10:06:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583816?source=rss",
+        "publishedAt": "2026-06-11T07:12:35.000Z"
+      },
+      {
+        "time": "16:42",
+        "title": "スペースXのIPO 公募4倍購入希望",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583818?source=rss",
+        "publishedAt": "2026-06-11T07:42:00.000Z"
       },
       {
         "time": "07:17",
@@ -126,35 +140,14 @@
         "publishedAt": "2026-06-10T22:17:15.000Z"
       },
       {
-        "time": "18:36",
-        "title": "ANA 問い合わせ返信に最大2カ月",
+        "time": "11:22",
+        "title": "虫食いのような天井の模様 正体は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583719?source=rss",
-        "publishedAt": "2026-06-10T09:36:59.000Z"
-      },
-      {
-        "time": "14:02",
-        "title": "皇居財布 ネット抽選で販売再開へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583801?source=rss",
-        "publishedAt": "2026-06-11T05:02:01.000Z"
-      },
-      {
-        "time": "10:26",
-        "title": "靴下の国内生産 存続の危機に直面",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583779?source=rss",
-        "publishedAt": "2026-06-11T01:26:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583785?source=rss",
+        "publishedAt": "2026-06-11T02:22:19.000Z"
       }
     ],
     "localHeadlines": [
-      {
-        "time": "14:44",
-        "title": "高校生の遺体 殺人疑い視野に捜査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583807?source=rss",
-        "publishedAt": "2026-06-11T05:44:45.000Z"
-      },
       {
         "time": "15:12",
         "title": "暴行死 当時18歳男に懲役20年求刑",
@@ -163,18 +156,18 @@
         "publishedAt": "2026-06-11T06:12:13.000Z"
       },
       {
-        "time": "23:46",
-        "title": "地下街で胸刺されバッグ奪われる",
+        "time": "17:29",
+        "title": "車の誘導中に挟まれ機動隊員死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583746?source=rss",
-        "publishedAt": "2026-06-10T14:46:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583832?source=rss",
+        "publishedAt": "2026-06-11T08:29:51.000Z"
       },
       {
-        "time": "13:43",
-        "title": "池袋で800万円強盗被害か 2人逃走",
+        "time": "17:07",
+        "title": "大阪刺傷 女性以外襲うそぶりなし",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583800?source=rss",
-        "publishedAt": "2026-06-11T04:43:23.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583826?source=rss",
+        "publishedAt": "2026-06-11T08:07:04.000Z"
       },
       {
         "time": "16:07",
@@ -184,11 +177,18 @@
         "publishedAt": "2026-06-11T07:07:31.000Z"
       },
       {
-        "time": "15:58",
-        "title": "セクハラ辞職 田川市前市長出馬へ",
+        "time": "16:17",
+        "title": "自傷行為の生徒に 教頭不適切発言",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583813?source=rss",
-        "publishedAt": "2026-06-11T06:58:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583817?source=rss",
+        "publishedAt": "2026-06-11T07:17:26.000Z"
+      },
+      {
+        "time": "17:40",
+        "title": "女子部室に男 教員追跡取り押さえ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583837?source=rss",
+        "publishedAt": "2026-06-11T08:40:27.000Z"
       }
     ],
     "subsidyHeadlines": [
