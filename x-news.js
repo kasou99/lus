@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-11T09:02:45.574Z",
+  "updatedAt": "2026-06-11T11:06:21.519Z",
   "items": [
     {
-      "time": "17:04",
-      "title": "日英 洋上風力発電で連携強化へ",
+      "time": "17:53",
+      "title": "皇族数確保「立法府の総意」とは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583825?source=rss",
-      "publishedAt": "2026-06-11T08:04:46.000Z",
-      "xQuery": "日英 洋上風力発電で連携強化へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583838?source=rss",
+      "publishedAt": "2026-06-11T08:53:50.000Z",
+      "xQuery": "皇族数確保「立法府の総意」とは"
     },
     {
-      "time": "17:25",
-      "title": "安野氏 国会議員にAI勉強会開催へ",
+      "time": "19:03",
+      "title": "河野洋平氏死去 麻生太郎氏が偲ぶ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583830?source=rss",
-      "publishedAt": "2026-06-11T08:25:25.000Z",
-      "xQuery": "安野氏 国会議員にAI勉強会開催へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583851?source=rss",
+      "publishedAt": "2026-06-11T10:03:38.000Z",
+      "xQuery": "河野洋平氏死去 麻生太郎氏が偲ぶ"
     },
     {
-      "time": "17:29",
-      "title": "車の誘導中に挟まれ機動隊員死亡",
+      "time": "19:06",
+      "title": "高校生殺害疑い 男は元交際相手か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583832?source=rss",
-      "publishedAt": "2026-06-11T08:29:51.000Z",
-      "xQuery": "車の誘導中に挟まれ機動隊員死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6583852?source=rss",
+      "publishedAt": "2026-06-11T10:06:35.000Z",
+      "xQuery": "高校生殺害疑い 男は元交際相手か"
     },
     {
-      "time": "17:40",
-      "title": "女子部室に男 教員追跡取り押さえ",
+      "time": "19:25",
+      "title": "ミャンマーで米大使館員が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583837?source=rss",
-      "publishedAt": "2026-06-11T08:40:27.000Z",
-      "xQuery": "女子部室に男 教員追跡取り押さえ"
+      "url": "https://news.yahoo.co.jp/pickup/6583859?source=rss",
+      "publishedAt": "2026-06-11T10:25:10.000Z",
+      "xQuery": "ミャンマーで米大使館員が死亡"
     },
     {
-      "time": "17:35",
-      "title": "京都三千院 あじさい開花せず謝罪",
+      "time": "19:47",
+      "title": "TDR「闇VIPツアー」業者を直撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583833?source=rss",
-      "publishedAt": "2026-06-11T08:35:25.000Z",
-      "xQuery": "京都三千院 あじさい開花せず謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6583862?source=rss",
+      "publishedAt": "2026-06-11T10:47:03.000Z",
+      "xQuery": "TDR「闇VIPツアー」業者を直撃"
     }
   ]
 };

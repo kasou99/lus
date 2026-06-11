@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-11T09:02:44.956Z",
+  "updatedAt": "2026-06-11T11:06:20.707Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "17:03",
+        "title": "経営ひと言／日本工作機械輸入協会・金子一彦会長「丁寧に価値説明」",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lZVlPdVo0czlQdk9CX2hWVnpZSXdCNHFkWW0wNFVadVdfdmRrWXhFWXF5WUhjajAyY0NUTjBiRi1PemtqT0c1TTExeWxPOTBZdk9IUHg3elVQelVELVU2ZjBFMWdXOGNiWVJOdnRJeTRYbFNM?oc=5",
+        "publishedAt": "2026-06-11T08:03:15.000Z"
+      },
       {
         "time": "17:24",
         "title": "ロボット用サーボモーター市場規模は2026年1496百万米ドル、成長率9.7%で拡大予測｜QYResearch",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jaVkxa2FXcVp3OXdraVl2N1d5NVNXWHJxQk9RZUVqNkpwZ1JxcjVhVGgwUVlhUjQzbkd3WlFDRkhQV2ZTYVFqbzJlY2hERV9GQ2tRWndxdw?oc=5",
         "publishedAt": "2026-06-11T08:24:04.000Z"
-      },
-      {
-        "time": "05:03",
-        "title": "工作機械技術振興財団、工作機械技術表彰に23件 16日贈賞式",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2U0xOaERrajhXMjNSbUUzak5Cb2paMTl1NV96MXU0cUJxejBMQWlYYjA3QzlzNThaNWIyS3YtSmpJZ252SW5HVG5HaVBlM2FvNm1kNlItWWkwYmM?oc=5",
-        "publishedAt": "2026-06-10T20:03:02.000Z"
       },
       {
         "time": "07:00",
@@ -31,13 +31,6 @@
         "publishedAt": "2026-06-11T01:46:40.000Z"
       },
       {
-        "time": "20:06",
-        "title": "株式会社島井様",
-        "source": "nidec.com",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSElianhlcm5YTEVpN21qbm9zTmZUWGx5d2xWV08wOEx1NFJLMkdqcUllczJORWhUcUlMMjVTVmJleEN4ZTNzcGNmREllT2JSVlRZZjVIOXZZQ0IxX1FNeVVaOTUtYzRtUWFBMjZaZFlRanJfV3ZTLTdjdjlrSGhFR1BtaGlCQmZYZEVlUGowdnpWMVU?oc=5",
-        "publishedAt": "2026-06-10T11:06:55.000Z"
-      },
-      {
         "time": "15:54",
         "title": "CNC Machine Tool Spindle Market",
         "source": "ニコニコニュース",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-06-11T06:54:28.000Z"
       },
       {
-        "time": "10:15",
-        "title": "経営ひと言／日本工作機械輸入協会・金子一彦会長「丁寧に価値説明」",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95RURqeFBZaGdaNzcyd2xzdXg0endxZUoxRmhJX3UzVjVnRW5SN2IxTTMyYTk4OXl6OVRDU3RjRl9SX0tZYzBPN1VhNUxNQXRtSDl6S0p5c2FHa3c?oc=5",
-        "publishedAt": "2026-06-11T01:15:59.000Z"
+        "time": "20:06",
+        "title": "株式会社島井様",
+        "source": "nidec.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSElianhlcm5YTEVpN21qbm9zTmZUWGx5d2xWV08wOEx1NFJLMkdqcUllczJORWhUcUlMMjVTVmJleEN4ZTNzcGNmREllT2JSVlRZZjVIOXZZQ0IxX1FNeVVaOTUtYzRtUWFBMjZaZFlRanJfV3ZTLTdjdjlrSGhFR1BtaGlCQmZYZEVlUGowdnpWMVU?oc=5",
+        "publishedAt": "2026-06-10T11:06:55.000Z"
       },
       {
-        "time": "22:10",
-        "title": "設備保全クラウド『EMLink』、メンテナンス・レジリエンス TOKYO 2026 に出展 - AIエージェント「EMLink Intelligence」とモバイル搭載ローカルLLMをデモ",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMeHYxQ2g1Qm5TZEp3OXVPSWNPT09sRlB1RTRWLTdwMkJCd3U5MlBROFB1b3RCcl9WeWdyM25OemtId2FXeDdSQWFTQk54bDlXR1lLMzhqb1pvdFp2TkFPQmxIdXRHUm1Xczdz?oc=5",
-        "publishedAt": "2026-06-10T13:10:00.000Z"
+        "time": "05:03",
+        "title": "工作機械技術振興財団、工作機械技術表彰に23件 16日贈賞式",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2U0xOaERrajhXMjNSbUUzak5Cb2paMTl1NV96MXU0cUJxejBMQWlYYjA3QzlzNThaNWIyS3YtSmpJZ252SW5HVG5HaVBlM2FvNm1kNlItWWkwYmM?oc=5",
+        "publishedAt": "2026-06-10T20:03:02.000Z"
+      },
+      {
+        "time": "16:38",
+        "title": "シンボルマークとマスコットを制作 江口電機、岡山県立大と連携",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94eUd4QmtIZ2F6NkZHYWctTXBSYTEyaUZfcHUwcV9mTUlKZTRvYUlnM3BFYW81aktBSi1FOE9GNGRnYWVaVGZEeFJvSGYzcU4yR3c?oc=5",
+        "publishedAt": "2026-06-11T07:38:34.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583775?source=rss",
         "publishedAt": "2026-06-11T00:43:06.000Z"
+      },
+      {
+        "time": "19:25",
+        "title": "ミャンマーで米大使館員が死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583859?source=rss",
+        "publishedAt": "2026-06-11T10:25:10.000Z"
       },
       {
         "time": "11:11",
@@ -89,18 +96,11 @@
         "publishedAt": "2026-06-11T07:10:17.000Z"
       },
       {
-        "time": "21:58",
-        "title": "ウクライナ軍 マリウポリ港を攻撃",
+        "time": "20:02",
+        "title": "韓国選挙で投票紙不足し混乱 背景",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583738?source=rss",
-        "publishedAt": "2026-06-10T12:58:23.000Z"
-      },
-      {
-        "time": "06:40",
-        "title": "サグラダファミリア主塔完成 祝福",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583753?source=rss",
-        "publishedAt": "2026-06-10T21:40:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583856?source=rss",
+        "publishedAt": "2026-06-11T11:02:18.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,34 +133,41 @@
         "publishedAt": "2026-06-11T07:42:00.000Z"
       },
       {
-        "time": "07:17",
-        "title": "信越化学 レアアース工場を新設へ",
+        "time": "18:18",
+        "title": "不当表示 ゲオストアに措置命令",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583757?source=rss",
-        "publishedAt": "2026-06-10T22:17:15.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583845?source=rss",
+        "publishedAt": "2026-06-11T09:18:53.000Z"
       },
       {
-        "time": "11:22",
-        "title": "虫食いのような天井の模様 正体は",
+        "time": "11:39",
+        "title": "ジャングリア 半額以下チケを販売",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583785?source=rss",
-        "publishedAt": "2026-06-11T02:22:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583790?source=rss",
+        "publishedAt": "2026-06-11T02:39:55.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "15:12",
-        "title": "暴行死 当時18歳男に懲役20年求刑",
+        "time": "19:06",
+        "title": "高校生殺害疑い 男は元交際相手か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583809?source=rss",
-        "publishedAt": "2026-06-11T06:12:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583852?source=rss",
+        "publishedAt": "2026-06-11T10:06:35.000Z"
       },
       {
-        "time": "17:29",
-        "title": "車の誘導中に挟まれ機動隊員死亡",
+        "time": "18:06",
+        "title": "6歳溺れ死亡 放課後等デイに捜査",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583832?source=rss",
-        "publishedAt": "2026-06-11T08:29:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583843?source=rss",
+        "publishedAt": "2026-06-11T09:06:30.000Z"
+      },
+      {
+        "time": "19:49",
+        "title": "札幌市中心部で異臭騒ぎ 一時騒然",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583863?source=rss",
+        "publishedAt": "2026-06-11T10:49:30.000Z"
       },
       {
         "time": "17:07",
@@ -170,11 +177,11 @@
         "publishedAt": "2026-06-11T08:07:04.000Z"
       },
       {
-        "time": "16:07",
-        "title": "校舎からコンクリ片落下 生徒負傷",
+        "time": "17:29",
+        "title": "車の誘導中に挟まれ機動隊員死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583814?source=rss",
-        "publishedAt": "2026-06-11T07:07:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583832?source=rss",
+        "publishedAt": "2026-06-11T08:29:51.000Z"
       },
       {
         "time": "16:17",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583817?source=rss",
         "publishedAt": "2026-06-11T07:17:26.000Z"
-      },
-      {
-        "time": "17:40",
-        "title": "女子部室に男 教員追跡取り押さえ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583837?source=rss",
-        "publishedAt": "2026-06-11T08:40:27.000Z"
       }
     ],
     "subsidyHeadlines": [
