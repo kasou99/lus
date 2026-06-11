@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-11T21:48:24.962Z",
+  "updatedAt": "2026-06-11T22:41:40.696Z",
   "items": [
     {
       "time": "06:24",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米 イラン協議受け攻撃中止と表明"
     },
     {
-      "time": "23:04",
-      "title": "皇族数確保策に陛下 国民の理解を",
+      "time": "06:53",
+      "title": "マンション修繕談合 排除命令へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583889?source=rss",
-      "publishedAt": "2026-06-11T14:04:11.000Z",
-      "xQuery": "皇族数確保策に陛下 国民の理解を"
+      "url": "https://news.yahoo.co.jp/pickup/6583902?source=rss",
+      "publishedAt": "2026-06-11T21:53:11.000Z",
+      "xQuery": "マンション修繕談合 排除命令へ"
     },
     {
       "time": "06:32",
