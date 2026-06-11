@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T19:54:12.422Z",
+  "updatedAt": "2026-06-11T20:57:28.094Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,18 @@
         "publishedAt": "2026-06-11T08:24:04.000Z"
       },
       {
-        "time": "20:53",
-        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
+        "time": "05:00",
+        "title": "牧野フライス買収中止勧告 専門家「外為法の基準不明、当局の考え先読みを」",
+        "source": "日経ビジネス電子版",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCYy1CNjY4UHR6eFVfTWNWeWFBMnRncGhqeHh5cER3SzM4aFZpcDhjTUsxQXoxdkNsd1pZaElRUUctX0s4SmZuZEF5bHJkdUtRVjFNSUlVY19VNWZzU1ladkVMTlRQc00?oc=5",
+        "publishedAt": "2026-06-11T20:00:00.000Z"
+      },
+      {
+        "time": "18:40",
+        "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
         "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iVGNLZVFVX1J4RWZrd3R3NUg3R2MtUFBtZUU5WFdmQUR2Z3FXcnNQMXgxeGVmUWVmS2lkRjBXbkhaRnBWNmtScWRnYkM5SFdVWFdkSEhGOVRSa19Tclcw?oc=5",
-        "publishedAt": "2026-06-11T11:53:53.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMYjhZTGhmLUxwZDRpdGZxTjlSaExQRmJtc2hLVWh5Rm5aSUFtZkxKY01adkQydUl4OE5UUl92RGNCRXJFd3N0TUZmdm5ZM2dONENkamJSanV5ZjNZRlNIODJn?oc=5",
+        "publishedAt": "2026-06-11T09:40:15.000Z"
       },
       {
         "time": "10:46",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-06-11T01:46:40.000Z"
       },
       {
-        "time": "19:03",
-        "title": "愛知で中部最大の産業ロボット展が開幕 272企業・団体が出展",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNERIc3laMTlzZkszV1JJOThkczVWMDBpSTM1LXZvYjdHVG1tQ091bDVIa2tCQ3FvQmRHdjFoMlNpUUQ2WHJHelprSDg3MkVQVWg4M295eVBRSEVSWWN6UERISVJCcmNoVG9NcG53bDFJdjVCd0VvVFlIbGNlWkt4ZmxjeWxzd3FaU245dVh0SGViRkw0Sk9JX1prUjFROGZDd3c?oc=5",
-        "publishedAt": "2026-06-11T10:03:00.000Z"
-      },
-      {
         "time": "15:54",
         "title": "CNC Machine Tool Spindle Market",
         "source": "ニコニコニュース",
@@ -45,11 +45,11 @@
         "publishedAt": "2026-06-11T06:54:28.000Z"
       },
       {
-        "time": "18:40",
-        "title": "マザック財団が2025年度分の助成・表彰発表 総額1650万円：ニュース",
+        "time": "20:53",
+        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
         "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMYjhZTGhmLUxwZDRpdGZxTjlSaExQRmJtc2hLVWh5Rm5aSUFtZkxKY01adkQydUl4OE5UUl92RGNCRXJFd3N0TUZmdm5ZM2dONENkamJSanV5ZjNZRlNIODJn?oc=5",
-        "publishedAt": "2026-06-11T09:40:15.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iVGNLZVFVX1J4RWZrd3R3NUg3R2MtUFBtZUU5WFdmQUR2Z3FXcnNQMXgxeGVmUWVmS2lkRjBXbkhaRnBWNmtScWRnYkM5SFdVWFdkSEhGOVRSa19Tclcw?oc=5",
+        "publishedAt": "2026-06-11T11:53:53.000Z"
       },
       {
         "time": "10:41",
