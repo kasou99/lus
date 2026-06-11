@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T11:06:20.707Z",
+  "updatedAt": "2026-06-11T12:49:00.420Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-06-10T22:00:00.000Z"
       },
       {
+        "time": "20:48",
+        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iVGNLZVFVX1J4RWZrd3R3NUg3R2MtUFBtZUU5WFdmQUR2Z3FXcnNQMXgxeGVmUWVmS2lkRjBXbkhaRnBWNmtScWRnYkM5SFdVWFdkSEhGOVRSa19Tclcw?oc=5",
+        "publishedAt": "2026-06-11T11:48:45.000Z"
+      },
+      {
         "time": "10:46",
         "title": "初の研究施設７月稼働、安田工業 工作機械の性能向上探る",
         "source": "山陽新聞",
@@ -31,18 +38,18 @@
         "publishedAt": "2026-06-11T01:46:40.000Z"
       },
       {
+        "time": "19:03",
+        "title": "愛知で中部最大の産業ロボット展が開幕 272企業・団体が出展",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNERIc3laMTlzZkszV1JJOThkczVWMDBpSTM1LXZvYjdHVG1tQ091bDVIa2tCQ3FvQmRHdjFoMlNpUUQ2WHJHelprSDg3MkVQVWg4M295eVBRSEVSWWN6UERISVJCcmNoVG9NcG53bDFJdjVCd0VvVFlIbGNlWkt4ZmxjeWxzd3FaU245dVh0SGViRkw0Sk9JX1prUjFROGZDd3c?oc=5",
+        "publishedAt": "2026-06-11T10:03:00.000Z"
+      },
+      {
         "time": "15:54",
         "title": "CNC Machine Tool Spindle Market",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92ZnJiWkN3REpfdFc5QzA2SDNaZFoyU1dRLWYzbVkyODlSekc5UTVuTUxjWjllREZvLWxZU3FiY05uazZXUFAwTzlLbkdGRVA4cjlydnlyc2I5QmE1QXB5NTVNY1djV3JSYWZHcU5oWGpBNXkxSE02aV9ycw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2Q1A1TW5BZk9YTlJha280em1GdURoSDhCSmRQSE5ZV29nQlZlTnpBSUp1Z2xkTUo5VWx4ajFXaWQySmVwX0FEdDBHMzNjcmQwTmhmZWRmYm84OWlrWmRyaXNZQ0hJTUdsdTJfcUtGd05Pdnp2dkNkbWFQbw?oc=5",
         "publishedAt": "2026-06-11T06:54:28.000Z"
-      },
-      {
-        "time": "20:06",
-        "title": "株式会社島井様",
-        "source": "nidec.com",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSElianhlcm5YTEVpN21qbm9zTmZUWGx5d2xWV08wOEx1NFJLMkdqcUllczJORWhUcUlMMjVTVmJleEN4ZTNzcGNmREllT2JSVlRZZjVIOXZZQ0IxX1FNeVVaOTUtYzRtUWFBMjZaZFlRanJfV3ZTLTdjdjlrSGhFR1BtaGlCQmZYZEVlUGowdnpWMVU?oc=5",
-        "publishedAt": "2026-06-10T11:06:55.000Z"
       },
       {
         "time": "05:03",
@@ -50,29 +57,15 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2U0xOaERrajhXMjNSbUUzak5Cb2paMTl1NV96MXU0cUJxejBMQWlYYjA3QzlzNThaNWIyS3YtSmpJZ252SW5HVG5HaVBlM2FvNm1kNlItWWkwYmM?oc=5",
         "publishedAt": "2026-06-10T20:03:02.000Z"
-      },
-      {
-        "time": "16:38",
-        "title": "シンボルマークとマスコットを制作 江口電機、岡山県立大と連携",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94eUd4QmtIZ2F6NkZHYWctTXBSYTEyaUZfcHUwcV9mTUlKZTRvYUlnM3BFYW81aktBSi1FOE9GNGRnYWVaVGZEeFJvSGYzcU4yR3c?oc=5",
-        "publishedAt": "2026-06-11T07:38:34.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "09:43",
-        "title": "米 北米貿易協定の延長見送り示唆",
+        "time": "21:05",
+        "title": "イラン 米が停戦を事実上無意味に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583775?source=rss",
-        "publishedAt": "2026-06-11T00:43:06.000Z"
-      },
-      {
-        "time": "19:25",
-        "title": "ミャンマーで米大使館員が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583859?source=rss",
-        "publishedAt": "2026-06-11T10:25:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583874?source=rss",
+        "publishedAt": "2026-06-11T12:05:55.000Z"
       },
       {
         "time": "11:11",
@@ -87,6 +80,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583767?source=rss",
         "publishedAt": "2026-06-10T23:27:30.000Z"
+      },
+      {
+        "time": "19:25",
+        "title": "ミャンマーで米大使館員が死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583859?source=rss",
+        "publishedAt": "2026-06-11T10:25:10.000Z"
       },
       {
         "time": "16:10",
@@ -163,13 +163,6 @@
         "publishedAt": "2026-06-11T09:06:30.000Z"
       },
       {
-        "time": "19:49",
-        "title": "札幌市中心部で異臭騒ぎ 一時騒然",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583863?source=rss",
-        "publishedAt": "2026-06-11T10:49:30.000Z"
-      },
-      {
         "time": "17:07",
         "title": "大阪刺傷 女性以外襲うそぶりなし",
         "source": "Yahoo!ニュース",
@@ -177,18 +170,25 @@
         "publishedAt": "2026-06-11T08:07:04.000Z"
       },
       {
+        "time": "20:46",
+        "title": "江別暴行死「狂ってる」遺族怒り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583871?source=rss",
+        "publishedAt": "2026-06-11T11:46:06.000Z"
+      },
+      {
+        "time": "21:37",
+        "title": "走る泳ぐ登る 市街地のクマに混乱",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583876?source=rss",
+        "publishedAt": "2026-06-11T12:37:39.000Z"
+      },
+      {
         "time": "17:29",
         "title": "車の誘導中に挟まれ機動隊員死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583832?source=rss",
         "publishedAt": "2026-06-11T08:29:51.000Z"
-      },
-      {
-        "time": "16:17",
-        "title": "自傷行為の生徒に 教頭不適切発言",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583817?source=rss",
-        "publishedAt": "2026-06-11T07:17:26.000Z"
       }
     ],
     "subsidyHeadlines": [

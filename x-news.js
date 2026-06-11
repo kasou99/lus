@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-11T11:06:21.519Z",
+  "updatedAt": "2026-06-11T12:49:01.153Z",
   "items": [
     {
-      "time": "17:53",
-      "title": "皇族数確保「立法府の総意」とは",
+      "time": "21:05",
+      "title": "イラン 米が停戦を事実上無意味に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583838?source=rss",
-      "publishedAt": "2026-06-11T08:53:50.000Z",
-      "xQuery": "皇族数確保「立法府の総意」とは"
+      "url": "https://news.yahoo.co.jp/pickup/6583874?source=rss",
+      "publishedAt": "2026-06-11T12:05:55.000Z",
+      "xQuery": "イラン 米が停戦を事実上無意味に"
     },
     {
-      "time": "19:03",
-      "title": "河野洋平氏死去 麻生太郎氏が偲ぶ",
+      "time": "21:23",
+      "title": "憲法9条巡り 自維の溝浮き彫り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583851?source=rss",
-      "publishedAt": "2026-06-11T10:03:38.000Z",
-      "xQuery": "河野洋平氏死去 麻生太郎氏が偲ぶ"
+      "url": "https://news.yahoo.co.jp/pickup/6583875?source=rss",
+      "publishedAt": "2026-06-11T12:23:18.000Z",
+      "xQuery": "憲法9条巡り 自維の溝浮き彫り"
     },
     {
-      "time": "19:06",
-      "title": "高校生殺害疑い 男は元交際相手か",
+      "time": "20:38",
+      "title": "首相「だるっ」 内閣広報官X否定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583852?source=rss",
-      "publishedAt": "2026-06-11T10:06:35.000Z",
-      "xQuery": "高校生殺害疑い 男は元交際相手か"
+      "url": "https://news.yahoo.co.jp/pickup/6583870?source=rss",
+      "publishedAt": "2026-06-11T11:38:02.000Z",
+      "xQuery": "首相「だるっ」 内閣広報官X否定"
     },
     {
-      "time": "19:25",
-      "title": "ミャンマーで米大使館員が死亡",
+      "time": "20:57",
+      "title": "日本人容疑者を韓国に引き渡し 初",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583859?source=rss",
-      "publishedAt": "2026-06-11T10:25:10.000Z",
-      "xQuery": "ミャンマーで米大使館員が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6583873?source=rss",
+      "publishedAt": "2026-06-11T11:57:22.000Z",
+      "xQuery": "日本人容疑者を韓国に引き渡し 初"
     },
     {
-      "time": "19:47",
-      "title": "TDR「闇VIPツアー」業者を直撃",
+      "time": "20:46",
+      "title": "江別暴行死「狂ってる」遺族怒り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583862?source=rss",
-      "publishedAt": "2026-06-11T10:47:03.000Z",
-      "xQuery": "TDR「闇VIPツアー」業者を直撃"
+      "url": "https://news.yahoo.co.jp/pickup/6583871?source=rss",
+      "publishedAt": "2026-06-11T11:46:06.000Z",
+      "xQuery": "江別暴行死「狂ってる」遺族怒り"
     }
   ]
 };
