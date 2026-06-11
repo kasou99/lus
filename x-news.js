@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-11T05:06:02.681Z",
+  "updatedAt": "2026-06-11T07:10:07.798Z",
   "items": [
+    {
+      "time": "13:43",
+      "title": "官房長官 中東情勢の悪化を懸念",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583799?source=rss",
+      "publishedAt": "2026-06-11T04:43:04.000Z",
+      "xQuery": "官房長官 中東情勢の悪化を懸念"
+    },
     {
       "time": "11:29",
       "title": "原油の代替調達 来月100%見通し",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "原油の代替調達 来月100%見通し"
     },
     {
-      "time": "11:41",
-      "title": "「立法府の総意」歓迎と懸念の声",
+      "time": "14:44",
+      "title": "高校生の遺体 殺人疑い視野に捜査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583789?source=rss",
-      "publishedAt": "2026-06-11T02:41:49.000Z",
-      "xQuery": "「立法府の総意」歓迎と懸念の声"
+      "url": "https://news.yahoo.co.jp/pickup/6583807?source=rss",
+      "publishedAt": "2026-06-11T05:44:45.000Z",
+      "xQuery": "高校生の遺体 殺人疑い視野に捜査"
     },
     {
-      "time": "12:53",
-      "title": "女子高校生の遺体 知人に話聞く",
+      "time": "15:12",
+      "title": "暴行死 当時18歳男に懲役20年求刑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583795?source=rss",
-      "publishedAt": "2026-06-11T03:53:54.000Z",
-      "xQuery": "女子高校生の遺体 知人に話聞く"
+      "url": "https://news.yahoo.co.jp/pickup/6583809?source=rss",
+      "publishedAt": "2026-06-11T06:12:13.000Z",
+      "xQuery": "暴行死 当時18歳男に懲役20年求刑"
     },
     {
-      "time": "13:43",
-      "title": "池袋で800万円強盗被害か 2人逃走",
+      "time": "15:58",
+      "title": "セクハラ辞職 田川市前市長出馬へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583800?source=rss",
-      "publishedAt": "2026-06-11T04:43:23.000Z",
-      "xQuery": "池袋で800万円強盗被害か 2人逃走"
-    },
-    {
-      "time": "13:47",
-      "title": "Micro被告 執行猶予付き有罪判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583803?source=rss",
-      "publishedAt": "2026-06-11T04:47:37.000Z",
-      "xQuery": "Micro被告 執行猶予付き有罪判決"
+      "url": "https://news.yahoo.co.jp/pickup/6583813?source=rss",
+      "publishedAt": "2026-06-11T06:58:43.000Z",
+      "xQuery": "セクハラ辞職 田川市前市長出馬へ"
     }
   ]
 };
