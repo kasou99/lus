@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-11T00:01:34.868Z",
+  "updatedAt": "2026-06-11T01:31:32.621Z",
   "items": [
     {
       "time": "08:26",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米軍 イラン国内への攻撃を再開"
     },
     {
-      "time": "08:27",
-      "title": "イラン ホルムズ海峡封鎖を宣言",
+      "time": "07:57",
+      "title": "再審見直し案 政府・与党が修正へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583767?source=rss",
-      "publishedAt": "2026-06-10T23:27:30.000Z",
-      "xQuery": "イラン ホルムズ海峡封鎖を宣言"
+      "url": "https://news.yahoo.co.jp/pickup/6583762?source=rss",
+      "publishedAt": "2026-06-10T22:57:51.000Z",
+      "xQuery": "再審見直し案 政府・与党が修正へ"
     },
     {
-      "time": "07:17",
-      "title": "信越化学 レアアース工場を新設へ",
+      "time": "09:20",
+      "title": "日経平均 一時1800円超の値下がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583757?source=rss",
-      "publishedAt": "2026-06-10T22:17:15.000Z",
-      "xQuery": "信越化学 レアアース工場を新設へ"
-    },
-    {
-      "time": "06:40",
-      "title": "サグラダファミリア主塔完成 祝福",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583753?source=rss",
-      "publishedAt": "2026-06-10T21:40:17.000Z",
-      "xQuery": "サグラダファミリア主塔完成 祝福"
+      "url": "https://news.yahoo.co.jp/pickup/6583774?source=rss",
+      "publishedAt": "2026-06-11T00:20:43.000Z",
+      "xQuery": "日経平均 一時1800円超の値下がり"
     },
     {
       "time": "07:25",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583756?source=rss",
       "publishedAt": "2026-06-10T22:25:30.000Z",
       "xQuery": "高級かんきつ新品種 中国流出か"
+    },
+    {
+      "time": "08:08",
+      "title": "安重根記念碑を撤去へ ホテル謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583764?source=rss",
+      "publishedAt": "2026-06-10T23:08:10.000Z",
+      "xQuery": "安重根記念碑を撤去へ ホテル謝罪"
     }
   ]
 };

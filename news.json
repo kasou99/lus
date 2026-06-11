@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T00:01:34.110Z",
+  "updatedAt": "2026-06-11T01:31:32.040Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-06-10T20:01:03.000Z"
       },
       {
-        "time": "10:32",
-        "title": "工作機械受注が教えてくれる日本株・世界経済（26 年５月） | 藤代 宏一 | 第一ライフ資産運用経済研究所",
-        "source": "第一ライフ資産運用経済研究所",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSanVPUW8wcm1TdG1POHcybEhMYnY2dUNWUkJTYWxOWFJQY2p5US1ZM3pWRTdiUnFvZWxDblFhZ0hsVEpWeXN3WE5ybjFfSW8xcXpSV0FGR3hNQW8?oc=5",
-        "publishedAt": "2026-06-10T01:32:26.000Z"
-      },
-      {
         "time": "12:38",
         "title": "【材料】 ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視",
         "source": "株探（かぶたん）",
@@ -31,11 +24,25 @@
         "publishedAt": "2026-06-10T03:38:55.000Z"
       },
       {
+        "time": "10:32",
+        "title": "工作機械受注が教えてくれる日本株・世界経済（26 年５月） | 藤代 宏一 | 第一ライフ資産運用経済研究所",
+        "source": "第一ライフ資産運用経済研究所",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSanVPUW8wcm1TdG1POHcybEhMYnY2dUNWUkJTYWxOWFJQY2p5US1ZM3pWRTdiUnFvZWxDblFhZ0hsVEpWeXN3WE5ybjFfSW8xcXpSV0FGR3hNQW8?oc=5",
+        "publishedAt": "2026-06-10T01:32:26.000Z"
+      },
+      {
         "time": "12:53",
         "title": "ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視",
         "source": "ダイヤモンド・オンライン",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VUTdBYldYZ01OQUJURXcxOXRrUENQT2o1U3V3TERiWUthOG4yc1F4dEI1U0xvR1RhQ3BRUkg4aXFsaEV4cjlSU1RockQwX1IxUHpV?oc=5",
         "publishedAt": "2026-06-10T03:53:30.000Z"
+      },
+      {
+        "time": "12:00",
+        "title": "｢値固め完了｣の公算大､長期波動も注視したい工作機械大手",
+        "source": "四季報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WTEh2T2ppZV9aQmczX1VrcjNqWU9pQ19HSXl3VUlXMl9GYi1NcjhGVHVrTmUwNGFxTG9SbDRfMUhNOG5NZk9BSXlTSi1SX01WVXFvQzh4WQ?oc=5",
+        "publishedAt": "2026-06-10T03:00:00.000Z"
       },
       {
         "time": "12:00",
@@ -50,16 +57,16 @@
         "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84bjFZSDloOThRWkNlLUhoYkJfWnlvX1FrckxTdERsRTdObWlVN1I5dndYanlnblhCM3lGR0lYaGdYS1RGd2Rmc2xPTENONFBiZlp2cU11MjZSM3FkNHQ2Qk93R0dUZ3dUb0h0N2JMRmQ?oc=5",
         "publishedAt": "2026-06-10T03:38:00.000Z"
-      },
-      {
-        "time": "13:20",
-        "title": "初の研究施設７月稼働、安田工業 工作機械の性能向上探る",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96dnJ1SC15Vnp5SXo0eVdYR3k1dnBKclV1N2NWX2tueDVLbFhnQnFMMG9OWXo0YmRSMWFrUlZubUExX1lNZkI3YjQ1OU95ZnBrY0pYUUxSNVhma2FfdjA4NkxaSQ?oc=5",
-        "publishedAt": "2026-06-10T04:20:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "09:43",
+        "title": "米 北米貿易協定の延長見送り示唆",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583775?source=rss",
+        "publishedAt": "2026-06-11T00:43:06.000Z"
+      },
       {
         "time": "08:26",
         "title": "米軍 イラン国内への攻撃を再開",
@@ -82,13 +89,6 @@
         "publishedAt": "2026-06-10T12:58:23.000Z"
       },
       {
-        "time": "14:43",
-        "title": "金氏の娘 習氏の訪朝中は姿見えず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583691?source=rss",
-        "publishedAt": "2026-06-10T05:43:57.000Z"
-      },
-      {
         "time": "06:40",
         "title": "サグラダファミリア主塔完成 祝福",
         "source": "Yahoo!ニュース",
@@ -104,6 +104,13 @@
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "09:20",
+        "title": "日経平均 一時1800円超の値下がり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583774?source=rss",
+        "publishedAt": "2026-06-11T00:20:43.000Z"
+      },
       {
         "time": "19:06",
         "title": "日銀総裁が入院 2週間程度見込み",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583714?source=rss",
         "publishedAt": "2026-06-10T13:42:04.000Z"
-      },
-      {
-        "time": "22:46",
-        "title": "北陸新幹線延伸 議論の透明性は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583720?source=rss",
-        "publishedAt": "2026-06-10T13:46:01.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-06-10T14:46:39.000Z"
       },
       {
+        "time": "09:14",
+        "title": "DCの建設巡り 不安あおるチラシ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583773?source=rss",
+        "publishedAt": "2026-06-11T00:14:56.000Z"
+      },
+      {
         "time": "23:28",
         "title": "2人乗り自転車事故で1人重体 逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583745?source=rss",
         "publishedAt": "2026-06-10T14:28:06.000Z"
-      },
-      {
-        "time": "21:57",
-        "title": "「川に沈んだ」大学生が溺れ死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583737?source=rss",
-        "publishedAt": "2026-06-10T12:57:51.000Z"
       },
       {
         "time": "23:50",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-10T14:50:17.000Z"
       },
       {
-        "time": "20:35",
-        "title": "まつり巡る集団暴行事件 4人逮捕",
+        "time": "08:08",
+        "title": "安重根記念碑を撤去へ ホテル謝罪",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583731?source=rss",
-        "publishedAt": "2026-06-10T11:35:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583764?source=rss",
+        "publishedAt": "2026-06-10T23:08:10.000Z"
       }
     ],
     "subsidyHeadlines": [
