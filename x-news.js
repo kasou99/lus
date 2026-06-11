@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-11T01:31:32.621Z",
+  "updatedAt": "2026-06-11T03:18:47.296Z",
   "items": [
     {
-      "time": "08:26",
-      "title": "米軍 イラン国内への攻撃を再開",
+      "time": "11:11",
+      "title": "米軍 イランへの新たな攻撃を終了",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583766?source=rss",
-      "publishedAt": "2026-06-10T23:26:27.000Z",
-      "xQuery": "米軍 イラン国内への攻撃を再開"
+      "url": "https://news.yahoo.co.jp/pickup/6583784?source=rss",
+      "publishedAt": "2026-06-11T02:11:13.000Z",
+      "xQuery": "米軍 イランへの新たな攻撃を終了"
     },
     {
-      "time": "07:57",
-      "title": "再審見直し案 政府・与党が修正へ",
+      "time": "09:43",
+      "title": "米 北米貿易協定の延長見送り示唆",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583762?source=rss",
-      "publishedAt": "2026-06-10T22:57:51.000Z",
-      "xQuery": "再審見直し案 政府・与党が修正へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583775?source=rss",
+      "publishedAt": "2026-06-11T00:43:06.000Z",
+      "xQuery": "米 北米貿易協定の延長見送り示唆"
     },
     {
-      "time": "09:20",
-      "title": "日経平均 一時1800円超の値下がり",
+      "time": "12:03",
+      "title": "河川敷に遺体 不明の女子高校生か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583774?source=rss",
-      "publishedAt": "2026-06-11T00:20:43.000Z",
-      "xQuery": "日経平均 一時1800円超の値下がり"
+      "url": "https://news.yahoo.co.jp/pickup/6583792?source=rss",
+      "publishedAt": "2026-06-11T03:03:21.000Z",
+      "xQuery": "河川敷に遺体 不明の女子高校生か"
     },
     {
-      "time": "07:25",
-      "title": "高級かんきつ新品種 中国流出か",
+      "time": "11:38",
+      "title": "2人死亡 バス運転手を鑑定留置へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583756?source=rss",
-      "publishedAt": "2026-06-10T22:25:30.000Z",
-      "xQuery": "高級かんきつ新品種 中国流出か"
+      "url": "https://news.yahoo.co.jp/pickup/6583788?source=rss",
+      "publishedAt": "2026-06-11T02:38:03.000Z",
+      "xQuery": "2人死亡 バス運転手を鑑定留置へ"
     },
     {
-      "time": "08:08",
-      "title": "安重根記念碑を撤去へ ホテル謝罪",
+      "time": "11:39",
+      "title": "ジャングリア 半額以下チケを販売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583764?source=rss",
-      "publishedAt": "2026-06-10T23:08:10.000Z",
-      "xQuery": "安重根記念碑を撤去へ ホテル謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6583790?source=rss",
+      "publishedAt": "2026-06-11T02:39:55.000Z",
+      "xQuery": "ジャングリア 半額以下チケを販売"
     }
   ]
 };

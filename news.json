@@ -1,20 +1,34 @@
 {
-  "updatedAt": "2026-06-11T01:31:32.040Z",
+  "updatedAt": "2026-06-11T03:18:46.076Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:03",
+        "title": "工作機械技術振興財団、工作機械技術表彰に23件 16日贈賞式",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2U0xOaERrajhXMjNSbUUzak5Cb2paMTl1NV96MXU0cUJxejBMQWlYYjA3QzlzNThaNWIyS3YtSmpJZ252SW5HVG5HaVBlM2FvNm1kNlItWWkwYmM?oc=5",
+        "publishedAt": "2026-06-10T20:03:02.000Z"
+      },
+      {
+        "time": "07:00",
+        "title": "中国の補助金投入で｢工作機械の常識｣が変わった 日工会･稲葉会長が語った\"ものづくりの未来\" 2ページ目 | ビジネス",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oTmZkZmFXai1pYXQzTXpERU41OWtySzRDRGZncFI5dU5JTlRHTkdMb2lETlNJNHFFUUtoOWVkWGdYNWRVM0VZM0gtRVE3YXRUNkoyNTU3WktmeU0?oc=5",
+        "publishedAt": "2026-06-10T22:00:00.000Z"
+      },
+      {
+        "time": "10:46",
+        "title": "初の研究施設７月稼働、安田工業 工作機械の性能向上探る",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wbDVOMmkwOFBITFlHMXFyeXFWZi01WUozU0RxdDJqSFdtcXMyT1RBRnNCVkhwYTI4bEhsSkdYVXFwM2dxbGtDTTdyVkNOaExYdW1uMDhHNGhCWDA5ZnlpYWZjSWctOVZlQmdIclVZdTJVdXROZGdj?oc=5",
+        "publishedAt": "2026-06-11T01:46:40.000Z"
+      },
       {
         "time": "20:06",
         "title": "株式会社島井様",
         "source": "nidec.com",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSElianhlcm5YTEVpN21qbm9zTmZUWGx5d2xWV08wOEx1NFJLMkdqcUllczJORWhUcUlMMjVTVmJleEN4ZTNzcGNmREllT2JSVlRZZjVIOXZZQ0IxX1FNeVVaOTUtYzRtUWFBMjZaZFlRanJfV3ZTLTdjdjlrSGhFR1BtaGlCQmZYZEVlUGowdnpWMVU?oc=5",
         "publishedAt": "2026-06-10T11:06:55.000Z"
-      },
-      {
-        "time": "05:01",
-        "title": "社説／ものづくり白書（下）次の一手に向けた設備更新を",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51bEozOWpSU3UtNFVnQ01lYUVYa0gwQW55Rm80OEpxaWliUllNQzMxMFJSWDJPaGhVZGdWRFQ4cFU1SDk4X1hORUo3WF9uRDZIZFhyNy1aazM3NEk?oc=5",
-        "publishedAt": "2026-06-10T20:01:03.000Z"
       },
       {
         "time": "12:38",
@@ -24,11 +38,11 @@
         "publishedAt": "2026-06-10T03:38:55.000Z"
       },
       {
-        "time": "10:32",
-        "title": "工作機械受注が教えてくれる日本株・世界経済（26 年５月） | 藤代 宏一 | 第一ライフ資産運用経済研究所",
-        "source": "第一ライフ資産運用経済研究所",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSanVPUW8wcm1TdG1POHcybEhMYnY2dUNWUkJTYWxOWFJQY2p5US1ZM3pWRTdiUnFvZWxDblFhZ0hsVEpWeXN3WE5ybjFfSW8xcXpSV0FGR3hNQW8?oc=5",
-        "publishedAt": "2026-06-10T01:32:26.000Z"
+        "time": "10:15",
+        "title": "経営ひと言／日本工作機械輸入協会・金子一彦会長「丁寧に価値説明」",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95RURqeFBZaGdaNzcyd2xzdXg0endxZUoxRmhJX3UzVjVnRW5SN2IxTTMyYTk4OXl6OVRDU3RjRl9SX0tZYzBPN1VhNUxNQXRtSDl6S0p5c2FHa3c?oc=5",
+        "publishedAt": "2026-06-11T01:15:59.000Z"
       },
       {
         "time": "12:53",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-06-10T03:53:30.000Z"
       },
       {
-        "time": "12:00",
-        "title": "｢値固め完了｣の公算大､長期波動も注視したい工作機械大手",
-        "source": "四季報オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WTEh2T2ppZV9aQmczX1VrcjNqWU9pQ19HSXl3VUlXMl9GYi1NcjhGVHVrTmUwNGFxTG9SbDRfMUhNOG5NZk9BSXlTSi1SX01WVXFvQzh4WQ?oc=5",
-        "publishedAt": "2026-06-10T03:00:00.000Z"
-      },
-      {
-        "time": "12:00",
-        "title": "「値固め完了」の公算大、長期波動も注視したい工作機械大手（会社四季報オンライン）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IR1hTclA0UjNQZmczZE9CMjQwRmE1Z3B1Qzg4WWVoLXpSMXpXdHhxelNBZnVybmVXQUJpem9HaVZ4UENZdk44SmVuMXNMY2dGNXZvcVJJa1JKVFZwVUxzeEdKOUMtOFM1VkJ0S0N3TXdweXQyZ1JEanh6Sy1hU2s?oc=5",
-        "publishedAt": "2026-06-10T03:00:45.000Z"
-      },
-      {
-        "time": "12:38",
-        "title": "ツガミ---大幅続伸、5月の工作機械受注好調推移を材料視 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-        "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84bjFZSDloOThRWkNlLUhoYkJfWnlvX1FrckxTdERsRTdObWlVN1I5dndYanlnblhCM3lGR0lYaGdYS1RGd2Rmc2xPTENONFBiZlp2cU11MjZSM3FkNHQ2Qk93R0dUZ3dUb0h0N2JMRmQ?oc=5",
-        "publishedAt": "2026-06-10T03:38:00.000Z"
+        "time": "22:10",
+        "title": "設備保全クラウド『EMLink』、メンテナンス・レジリエンス TOKYO 2026 に出展 - AIエージェント「EMLink Intelligence」とモバイル搭載ローカルLLMをデモ",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMeHYxQ2g1Qm5TZEp3OXVPSWNPT09sRlB1RTRWLTdwMkJCd3U5MlBROFB1b3RCcl9WeWdyM25OemtId2FXeDdSQWFTQk54bDlXR1lLMzhqb1pvdFp2TkFPQmxIdXRHUm1Xczdz?oc=5",
+        "publishedAt": "2026-06-10T13:10:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,11 @@
         "publishedAt": "2026-06-11T00:43:06.000Z"
       },
       {
-        "time": "08:26",
-        "title": "米軍 イラン国内への攻撃を再開",
+        "time": "11:11",
+        "title": "米軍 イランへの新たな攻撃を終了",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583766?source=rss",
-        "publishedAt": "2026-06-10T23:26:27.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583784?source=rss",
+        "publishedAt": "2026-06-11T02:11:13.000Z"
       },
       {
         "time": "08:27",
@@ -112,6 +112,13 @@
         "publishedAt": "2026-06-11T00:20:43.000Z"
       },
       {
+        "time": "11:29",
+        "title": "原油の代替調達 来月100%見通し",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583787?source=rss",
+        "publishedAt": "2026-06-11T02:29:57.000Z"
+      },
+      {
         "time": "19:06",
         "title": "日銀総裁が入院 2週間程度見込み",
         "source": "Yahoo!ニュース",
@@ -126,13 +133,6 @@
         "publishedAt": "2026-06-10T22:17:15.000Z"
       },
       {
-        "time": "17:13",
-        "title": "トヨタ会長の役員報酬 21億円超",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583705?source=rss",
-        "publishedAt": "2026-06-10T08:13:47.000Z"
-      },
-      {
         "time": "18:36",
         "title": "ANA 問い合わせ返信に最大2カ月",
         "source": "Yahoo!ニュース",
@@ -140,20 +140,27 @@
         "publishedAt": "2026-06-10T09:36:59.000Z"
       },
       {
-        "time": "22:42",
-        "title": "利上げ公算 住宅ローンの金利は?",
+        "time": "10:26",
+        "title": "靴下の国内生産 存続の危機に直面",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583714?source=rss",
-        "publishedAt": "2026-06-10T13:42:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583779?source=rss",
+        "publishedAt": "2026-06-11T01:26:28.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "17:44",
-        "title": "新名神事故 遺族が家族写真を公開",
+        "time": "12:03",
+        "title": "河川敷に遺体 不明の女子高校生か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583709?source=rss",
-        "publishedAt": "2026-06-10T08:44:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583792?source=rss",
+        "publishedAt": "2026-06-11T03:03:21.000Z"
+      },
+      {
+        "time": "11:38",
+        "title": "2人死亡 バス運転手を鑑定留置へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583788?source=rss",
+        "publishedAt": "2026-06-11T02:38:03.000Z"
       },
       {
         "time": "23:46",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583773?source=rss",
         "publishedAt": "2026-06-11T00:14:56.000Z"
-      },
-      {
-        "time": "23:28",
-        "title": "2人乗り自転車事故で1人重体 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583745?source=rss",
-        "publishedAt": "2026-06-10T14:28:06.000Z"
       },
       {
         "time": "23:50",
