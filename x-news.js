@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-12T11:24:32.497Z",
+  "updatedAt": "2026-06-12T12:38:29.337Z",
   "items": [
     {
-      "time": "19:09",
-      "title": "警視庁にクマ駆除PT 射撃班訓練",
+      "time": "21:11",
+      "title": "米イラン覚書に海峡開放 内容報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584000?source=rss",
-      "publishedAt": "2026-06-12T10:09:25.000Z",
-      "xQuery": "警視庁にクマ駆除PT 射撃班訓練"
+      "url": "https://news.yahoo.co.jp/pickup/6584012?source=rss",
+      "publishedAt": "2026-06-12T12:11:25.000Z",
+      "xQuery": "米イラン覚書に海峡開放 内容報道"
     },
     {
-      "time": "18:45",
-      "title": "手紙値上げ容易に 改正郵便法成立",
+      "time": "20:48",
+      "title": "秘書官出張巡る報道 木原氏認める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583993?source=rss",
-      "publishedAt": "2026-06-12T09:45:19.000Z",
-      "xQuery": "手紙値上げ容易に 改正郵便法成立"
+      "url": "https://news.yahoo.co.jp/pickup/6584010?source=rss",
+      "publishedAt": "2026-06-12T11:48:20.000Z",
+      "xQuery": "秘書官出張巡る報道 木原氏認める"
     },
     {
-      "time": "18:19",
-      "title": "ウリ信用組合で多数の不正疑い",
+      "time": "20:47",
+      "title": "山林で男性不明 上空からクマの姿",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583991?source=rss",
-      "publishedAt": "2026-06-12T09:19:26.000Z",
-      "xQuery": "ウリ信用組合で多数の不正疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6584009?source=rss",
+      "publishedAt": "2026-06-12T11:47:44.000Z",
+      "xQuery": "山林で男性不明 上空からクマの姿"
     },
     {
-      "time": "17:02",
-      "title": "米大統領ナルト動画 小野田氏苦言",
+      "time": "21:10",
+      "title": "3年半意識不明 タイ王女が死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583978?source=rss",
-      "publishedAt": "2026-06-12T08:02:10.000Z",
-      "xQuery": "米大統領ナルト動画 小野田氏苦言"
+      "url": "https://news.yahoo.co.jp/pickup/6584013?source=rss",
+      "publishedAt": "2026-06-12T12:10:38.000Z",
+      "xQuery": "3年半意識不明 タイ王女が死去"
     },
     {
       "time": "19:49",

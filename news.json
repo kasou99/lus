@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T11:24:31.742Z",
+  "updatedAt": "2026-06-12T12:38:28.683Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "東洋経済オンライン",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oTmZkZmFXai1pYXQzTXpERU41OWtySzRDRGZncFI5dU5JTlRHTkdMb2lETlNJNHFFUUtoOWVkWGdYNWRVM0VZM0gtRVE3YXRUNkoyNTU3WktmeU0?oc=5",
         "publishedAt": "2026-06-12T04:00:00.000Z"
+      },
+      {
+        "time": "09:10",
+        "title": "設備保全AIエージェント『EMLink Intelligence』を大幅アップデート — 複雑なタスクの自律実行に加え、自社のナレッジで「専用RAG」を最短1分で構築できる機能を搭載",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KRUlHbEx0Y3IxdVBlS1F6LUhLblVwS0h4MGFYV1ZWVWdQT0RCOXJic1hvQkc3TTNLTGN4SlRQckdzTGo3LXR5Rjh1QjhZNWlUa0VzOFctREJFbFdmX2ZWZE5kcGtQU2hzS2c?oc=5",
+        "publishedAt": "2026-06-12T00:10:01.000Z"
       },
       {
         "time": "13:00",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-06-12T03:47:45.000Z"
       },
       {
-        "time": "16:37",
-        "title": "株式会社設備保全総合研究所のEMLink Intelligenceが自律実行型AIエージェントに進化し保全業務を革新",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TMGVUTGkzV1lFbzdVWnBKU0RXU0xPR082LWJHdEhRVGtIT0VDZlVfMlBKNEV5LURITWk3dWlyWkttSjBGVXJnZkNPb0M0TFFRcmRrc2x2OHB3Q3Q1MlNkRnJVVmpNREVhQWpkMTY3d0Q0eWd0aGc?oc=5",
-        "publishedAt": "2026-06-12T07:37:40.000Z"
-      },
-      {
         "time": "06:00",
         "title": "DMG森精機が超音波加工機の生産能力倍増、半導体産業向け需要の高まり：工場ニュース",
         "source": "MONOist",
@@ -45,21 +45,28 @@
         "publishedAt": "2026-06-11T21:00:00.000Z"
       },
       {
-        "time": "11:00",
-        "title": "設備保全AIエージェント『EMLink Intelligence』を大幅アップデート",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfbHFsTWNtRS1DdzFkS1QydmNjMTMtaUdEMHExYkFybGF2RVZ5bFVYTXVUZm9OYVo0T2pEZUdYRkRtV05zSjlSM1RFUkpWODgzVjE2T0pHUVZtY0ZDTl9IemxSVUlvOWRzVXp6UzVydWg3VXNTRnc?oc=5",
-        "publishedAt": "2026-06-12T02:00:28.000Z"
+        "time": "16:37",
+        "title": "株式会社設備保全総合研究所のEMLink Intelligenceが自律実行型AIエージェントに進化し保全業務を革新",
+        "source": "ニュースメディアVOIX",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TMGVUTGkzV1lFbzdVWnBKU0RXU0xPR082LWJHdEhRVGtIT0VDZlVfMlBKNEV5LURITWk3dWlyWkttSjBGVXJnZkNPb0M0TFFRcmRrc2x2OHB3Q3Q1MlNkRnJVVmpNREVhQWpkMTY3d0Q0eWd0aGc?oc=5",
+        "publishedAt": "2026-06-12T07:37:40.000Z"
       },
       {
-        "time": "17:40",
-        "title": "作業着を“世界にひとつだけの職人デニム”に育てる「職人デニムプロジェクト」始動",
-        "source": "RBB TODAY",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJanZEd0dmYy1LeUhBMktFSDdrOFJiMGxrVU5EUmFkdHEycHprLWdiMFVfUVY1UDJ0enhpbkRrcDhiWU5LaXgwa05WYUw0RE5TVWJudW9pZUpMYW9rUEFfSHRZb2owb1FjYk1haVpuYTl3TE9wYTYzeQ?oc=5",
-        "publishedAt": "2026-06-12T08:40:02.000Z"
+        "time": "08:37",
+        "title": "【注目銘柄】泉州電業、純利益８５億円・過去最高を２期ぶり大幅更新へ - kabu-ir.com",
+        "source": "kabu-ir.com",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tUGxCUUpfV3NpeHZtSURvZUVPTmxVQTdUMk1sTFlrSWxJQ1haZlBUS20yQURDaUdZZlhvZkRrZFgtZmxuaHNUVy15QUFyN2VmS3F3RQ?oc=5",
+        "publishedAt": "2026-06-11T23:37:02.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "21:11",
+        "title": "米イラン覚書に海峡開放 内容報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584012?source=rss",
+        "publishedAt": "2026-06-12T12:11:25.000Z"
+      },
       {
         "time": "07:34",
         "title": "イラン側 米合意は最終決定至らず",
@@ -68,18 +75,11 @@
         "publishedAt": "2026-06-11T22:34:33.000Z"
       },
       {
-        "time": "06:24",
-        "title": "米 イラン協議受け攻撃中止と表明",
+        "time": "21:10",
+        "title": "3年半意識不明 タイ王女が死去",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583899?source=rss",
-        "publishedAt": "2026-06-11T21:24:04.000Z"
-      },
-      {
-        "time": "11:43",
-        "title": "3年以上入院のタイ王女死去 47歳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583940?source=rss",
-        "publishedAt": "2026-06-12T02:43:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584013?source=rss",
+        "publishedAt": "2026-06-12T12:10:38.000Z"
       },
       {
         "time": "17:27",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "16:48",
-        "title": "1票差の町長選 点検で当落逆転",
+        "time": "20:47",
+        "title": "山林で男性不明 上空からクマの姿",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583976?source=rss",
-        "publishedAt": "2026-06-12T07:48:32.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584009?source=rss",
+        "publishedAt": "2026-06-12T11:47:44.000Z"
       },
       {
         "time": "19:09",
@@ -161,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584000?source=rss",
         "publishedAt": "2026-06-12T10:09:25.000Z"
+      },
+      {
+        "time": "16:48",
+        "title": "1票差の町長選 点検で当落逆転",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583976?source=rss",
+        "publishedAt": "2026-06-12T07:48:32.000Z"
       },
       {
         "time": "18:03",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583947?source=rss",
         "publishedAt": "2026-06-12T03:31:20.000Z"
-      },
-      {
-        "time": "07:37",
-        "title": "困窮者に消費期限切れパン 市提供",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583904?source=rss",
-        "publishedAt": "2026-06-11T22:37:38.000Z"
       }
     ],
     "subsidyHeadlines": [
