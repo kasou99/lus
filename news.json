@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-12T07:52:14.936Z",
+  "updatedAt": "2026-06-12T09:35:35.586Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:00",
+        "title": "米国の工作機械：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1Q3FQRDJtR1NvSUtfczlncFBYT0lmOWpqdXR0YThWWWZxSlM0WEJHdDRLRHRoRVVHd254X0R3amJJTWJBWWltWjJ5Z0p1YVk?oc=5",
+        "publishedAt": "2026-06-12T04:00:00.000Z"
+      },
       {
         "time": "09:10",
         "title": "設備保全AIエージェント『EMLink Intelligence』を大幅アップデート — 複雑なタスクの自律実行に加え、自社のナレッジで「専用RAG」を最短1分で構築できる機能を搭載",
@@ -31,6 +38,13 @@
         "publishedAt": "2026-06-12T07:37:40.000Z"
       },
       {
+        "time": "12:47",
+        "title": "ニデックマシンツール、長尺255m位置検出器 省配線で取り付け工数減",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zbzJ3Qkwza0hXWVlRaFJZQ2k5X2NxZ2p5emVud2VXeWZ1VUU5R1c1OVJKRU5UMmgtZzVtZ3NsWkhJOVh4MG5nVERWdVliUXhJQVRWVDVZZXNtSE0?oc=5",
+        "publishedAt": "2026-06-12T03:47:45.000Z"
+      },
+      {
         "time": "06:00",
         "title": "DMG森精機が超音波加工機の生産能力倍増、半導体産業向け需要の高まり：工場ニュース",
         "source": "MONOist",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-06-11T21:00:00.000Z"
       },
       {
-        "time": "10:53",
-        "title": "DMG森精機が大型超音波加工機 半導体対応、工場再拡張も",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uLU56dkwxSHlod0VoVzQwVlRnN0ZkbWRYTUEtQ2FLWHMxWTZadVAyUzEtWDJvMGpDbWxjcV95ZXZIOGpVRE1odTFjUFl0VzJQUEFxbnFFd0RTTkYyaW5tTzhGSlV0WVl6Q1llVFBjaTVXb0dS?oc=5",
-        "publishedAt": "2026-06-12T01:53:08.000Z"
-      },
-      {
-        "time": "08:37",
-        "title": "【注目銘柄】泉州電業、純利益８５億円・過去最高を２期ぶり大幅更新へ - kabu-ir.com",
-        "source": "kabu-ir.com",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tUGxCUUpfV3NpeHZtSURvZUVPTmxVQTdUMk1sTFlrSWxJQ1haZlBUS20yQURDaUdZZlhvZkRrZFgtZmxuaHNUVy15QUFyN2VmS3F3RQ?oc=5",
-        "publishedAt": "2026-06-11T23:37:02.000Z"
-      },
-      {
-        "time": "17:24",
-        "title": "ロボット用サーボモーター市場規模は2026年1496百万米ドル、成長率9.7%で拡大予測｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jaVkxa2FXcVp3OXdraVl2N1d5NVNXWHJxQk9RZUVqNkpwZ1JxcjVhVGgwUVlhUjQzbkd3WlFDRkhQV2ZTYVFqbzJlY2hERV9GQ2tRWndxdw?oc=5",
-        "publishedAt": "2026-06-11T08:24:04.000Z"
+        "time": "17:40",
+        "title": "作業着を“世界にひとつだけの職人デニム”に育てる「職人デニムプロジェクト」始動",
+        "source": "RBB TODAY",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJanZEd0dmYy1LeUhBMktFSDdrOFJiMGxrVU5EUmFkdHEycHprLWdiMFVfUVY1UDJ0enhpbkRrcDhiWU5LaXgwa05WYUw0RE5TVWJudW9pZUpMYW9rUEFfSHRZb2owb1FjYk1haVpuYTl3TE9wYTYzeQ?oc=5",
+        "publishedAt": "2026-06-12T08:40:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,13 +75,6 @@
         "publishedAt": "2026-06-11T21:24:04.000Z"
       },
       {
-        "time": "11:51",
-        "title": "米首都公園に不審な暗号 当局調査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583943?source=rss",
-        "publishedAt": "2026-06-12T02:51:14.000Z"
-      },
-      {
         "time": "11:43",
         "title": "3年以上入院のタイ王女死去 47歳",
         "source": "Yahoo!ニュース",
@@ -89,27 +82,34 @@
         "publishedAt": "2026-06-12T02:43:43.000Z"
       },
       {
+        "time": "17:27",
+        "title": "ホワイトハウスに格闘技会場 賛否",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583980?source=rss",
+        "publishedAt": "2026-06-12T08:27:10.000Z"
+      },
+      {
+        "time": "11:51",
+        "title": "米首都公園に不審な暗号 当局調査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583943?source=rss",
+        "publishedAt": "2026-06-12T02:51:14.000Z"
+      },
+      {
         "time": "07:53",
         "title": "コンゴのエボラ熱 15～44歳が中心",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583908?source=rss",
         "publishedAt": "2026-06-11T22:53:27.000Z"
-      },
-      {
-        "time": "19:25",
-        "title": "ミャンマーで米大使館員が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583859?source=rss",
-        "publishedAt": "2026-06-11T10:25:10.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "11:23",
-        "title": "キオクシア時価総額 一時国内1位",
+        "time": "17:38",
+        "title": "キオクシア時価総額 初の国内1位",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583934?source=rss",
-        "publishedAt": "2026-06-12T02:23:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583984?source=rss",
+        "publishedAt": "2026-06-12T08:38:08.000Z"
       },
       {
         "time": "06:53",
@@ -117,6 +117,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583902?source=rss",
         "publishedAt": "2026-06-11T21:53:11.000Z"
+      },
+      {
+        "time": "18:19",
+        "title": "ウリ信用組合で多数の不正疑い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583991?source=rss",
+        "publishedAt": "2026-06-12T09:19:26.000Z"
       },
       {
         "time": "12:51",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583971?source=rss",
         "publishedAt": "2026-06-12T07:07:53.000Z"
-      },
-      {
-        "time": "12:17",
-        "title": "スペースX 日本で約3500億円調達",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583944?source=rss",
-        "publishedAt": "2026-06-12T03:17:42.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583976?source=rss",
         "publishedAt": "2026-06-12T07:48:32.000Z"
+      },
+      {
+        "time": "18:03",
+        "title": "札幌でスプレー噴射か 男2人逃走",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583989?source=rss",
+        "publishedAt": "2026-06-12T09:03:28.000Z"
       },
       {
         "time": "12:31",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583942?source=rss",
         "publishedAt": "2026-06-12T02:44:10.000Z"
-      },
-      {
-        "time": "13:46",
-        "title": "新潟駅近くで切り付けか 男逃走",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583957?source=rss",
-        "publishedAt": "2026-06-12T04:46:21.000Z"
       }
     ],
     "subsidyHeadlines": [

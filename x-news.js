@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-12T07:52:16.005Z",
+  "updatedAt": "2026-06-12T09:35:36.551Z",
   "items": [
     {
-      "time": "15:30",
-      "title": "再審見直し法案 衆院委員会で可決",
+      "time": "17:35",
+      "title": "衆院選1票の格差「合憲」判決15件",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583965?source=rss",
-      "publishedAt": "2026-06-12T06:30:47.000Z",
-      "xQuery": "再審見直し法案 衆院委員会で可決"
+      "url": "https://news.yahoo.co.jp/pickup/6583979?source=rss",
+      "publishedAt": "2026-06-12T08:35:21.000Z",
+      "xQuery": "衆院選1票の格差「合憲」判決15件"
     },
     {
-      "time": "16:09",
-      "title": "JAL飲酒CA問題 国交省が厳重注意",
+      "time": "17:27",
+      "title": "ホワイトハウスに格闘技会場 賛否",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583969?source=rss",
-      "publishedAt": "2026-06-12T07:09:18.000Z",
-      "xQuery": "JAL飲酒CA問題 国交省が厳重注意"
+      "url": "https://news.yahoo.co.jp/pickup/6583980?source=rss",
+      "publishedAt": "2026-06-12T08:27:10.000Z",
+      "xQuery": "ホワイトハウスに格闘技会場 賛否"
     },
     {
-      "time": "16:15",
-      "title": "H3飛行中に物体落下確認 調査へ",
+      "time": "17:02",
+      "title": "米大統領ナルト動画 小野田氏苦言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583970?source=rss",
-      "publishedAt": "2026-06-12T07:15:58.000Z",
-      "xQuery": "H3飛行中に物体落下確認 調査へ"
+      "url": "https://news.yahoo.co.jp/pickup/6583978?source=rss",
+      "publishedAt": "2026-06-12T08:02:10.000Z",
+      "xQuery": "米大統領ナルト動画 小野田氏苦言"
     },
     {
-      "time": "15:36",
-      "title": "女性用トイレ行列 国交省が初指針",
+      "time": "18:03",
+      "title": "札幌でスプレー噴射か 男2人逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583966?source=rss",
-      "publishedAt": "2026-06-12T06:36:56.000Z",
-      "xQuery": "女性用トイレ行列 国交省が初指針"
+      "url": "https://news.yahoo.co.jp/pickup/6583989?source=rss",
+      "publishedAt": "2026-06-12T09:03:28.000Z",
+      "xQuery": "札幌でスプレー噴射か 男2人逃走"
     },
     {
-      "time": "16:07",
-      "title": "「黒字リストラ」退職 57歳の現実",
+      "time": "17:55",
+      "title": "10歳が385万円無断課金 父の対応",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583971?source=rss",
-      "publishedAt": "2026-06-12T07:07:53.000Z",
-      "xQuery": "「黒字リストラ」退職 57歳の現実"
+      "url": "https://news.yahoo.co.jp/pickup/6583987?source=rss",
+      "publishedAt": "2026-06-12T08:55:59.000Z",
+      "xQuery": "10歳が385万円無断課金 父の対応"
     }
   ]
 };
