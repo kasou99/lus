@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-12T01:19:07.266Z",
+  "updatedAt": "2026-06-12T02:25:06.717Z",
   "items": [
     {
       "time": "09:34",
@@ -10,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "首都直下地震対策 死者半数以下へ"
     },
     {
-      "time": "10:04",
-      "title": "「日華懇」が名称変更 台湾表記に",
+      "time": "11:18",
+      "title": "尹氏に懲役30年 平壌への作戦指示",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583927?source=rss",
-      "publishedAt": "2026-06-12T01:04:58.000Z",
-      "xQuery": "「日華懇」が名称変更 台湾表記に"
+      "url": "https://news.yahoo.co.jp/pickup/6583935?source=rss",
+      "publishedAt": "2026-06-12T02:18:43.000Z",
+      "xQuery": "尹氏に懲役30年 平壌への作戦指示"
     },
     {
-      "time": "07:37",
-      "title": "困窮者に消費期限切れパン 市提供",
+      "time": "10:34",
+      "title": "相模原遺体 スマホGPSもとに発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583904?source=rss",
-      "publishedAt": "2026-06-11T22:37:38.000Z",
-      "xQuery": "困窮者に消費期限切れパン 市提供"
+      "url": "https://news.yahoo.co.jp/pickup/6583931?source=rss",
+      "publishedAt": "2026-06-12T01:34:35.000Z",
+      "xQuery": "相模原遺体 スマホGPSもとに発見"
+    },
+    {
+      "time": "10:19",
+      "title": "H3ロケット6号機 打ち上げに成功",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583929?source=rss",
+      "publishedAt": "2026-06-12T01:19:31.000Z",
+      "xQuery": "H3ロケット6号機 打ち上げに成功"
     },
     {
       "time": "08:40",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583914?source=rss",
       "publishedAt": "2026-06-11T23:40:55.000Z",
       "xQuery": "車立ち往生で男性保護 数分後列車"
-    },
-    {
-      "time": "08:16",
-      "title": "梅雨期「耳カビ」注意 強烈かゆみ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583912?source=rss",
-      "publishedAt": "2026-06-11T23:16:21.000Z",
-      "xQuery": "梅雨期「耳カビ」注意 強烈かゆみ"
     }
   ]
 };

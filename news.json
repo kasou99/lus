@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-12T01:19:06.256Z",
+  "updatedAt": "2026-06-12T02:25:05.736Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "11:00",
+        "title": "設備保全AIエージェント『EMLink Intelligence』を大幅アップデート",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50WFppc3djM3BSQWhBa2swbFpqeWkwQ3cwTTBLYkhRRlJ4TWx6NjZWTmQwTnM5Z3FTMENOS0NlcHBpNUFJb3dvWVljV0d2dGZTWndNZE1qQ2dRd0tyUDNzdkxwSHEwajhFZkJYWjYwU1M4Umc1TTFMc3VVSQ?oc=5",
+        "publishedAt": "2026-06-12T02:00:28.000Z"
+      },
       {
         "time": "06:00",
         "title": "DMG森精機が超音波加工機の生産能力倍増、半導体産業向け需要の高まり：工場ニュース",
@@ -15,13 +22,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lZVlPdVo0czlQdk9CX2hWVnpZSXdCNHFkWW0wNFVadVdfdmRrWXhFWXF5WUhjajAyY0NUTjBiRi1PemtqT0c1TTExeWxPOTBZdk9IUHg3elVQelVELVU2ZjBFMWdXOGNiWVJOdnRJeTRYbFNM?oc=5",
         "publishedAt": "2026-06-11T08:03:15.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "牧野フライス買収中止勧告 専門家「外為法の基準不明、当局の考え先読みを」",
-        "source": "日経ビジネス電子版",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCYy1CNjY4UHR6eFVfTWNWeWFBMnRncGhqeHh5cER3SzM4aFZpcDhjTUsxQXoxdkNsd1pZaElRUUctX0s4SmZuZEF5bHJkdUtRVjFNSUlVY19VNWZzU1ladkVMTlRQc00?oc=5",
-        "publishedAt": "2026-06-11T20:00:00.000Z"
       },
       {
         "time": "17:24",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-11T11:53:53.000Z"
       },
       {
+        "time": "19:03",
+        "title": "愛知で中部最大の産業ロボット展が開幕 272企業・団体が出展",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNERIc3laMTlzZkszV1JJOThkczVWMDBpSTM1LXZvYjdHVG1tQ091bDVIa2tCQ3FvQmRHdjFoMlNpUUQ2WHJHelprSDg3MkVQVWg4M295eVBRSEVSWWN6UERISVJCcmNoVG9NcG53bDFJdjVCd0VvVFlIbGNlWkt4ZmxjeWxzd3FaU245dVh0SGViRkw0Sk9JX1prUjFROGZDd3c?oc=5",
+        "publishedAt": "2026-06-11T10:03:00.000Z"
+      },
+      {
         "time": "11:52",
         "title": "CNC Machine Tool Spindle Market (CNC工作機械用スピンドル市場)：市場傾向、需要、成長分析、および2026－2035年の予測",
         "source": "zakⅡ",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvMFhjT21Cek1qb1JKbTVPRFphLVNUbHp5dTdnMDlkZXc3TDRPWGdvcHYyaFRINnlSMVoxMmtIWEswbk53VkJ5cjktVjM0SFhhV0hoZDM1MHJ5VTM1YXhSVk4zV1JMQXNTdWd3MVlRZnhGWGN2RVpMTTNQOXJpUQ?oc=5",
         "publishedAt": "2026-06-11T02:52:00.000Z"
-      },
-      {
-        "time": "10:46",
-        "title": "初の研究施設７月稼働、安田工業 工作機械の性能向上探る",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wbDVOMmkwOFBITFlHMXFyeXFWZi01WUozU0RxdDJqSFdtcXMyT1RBRnNCVkhwYTI4bEhsSkdYVXFwM2dxbGtDTTdyVkNOaExYdW1uMDhHNGhCWDA5ZnlpYWZjSWctOVZlQmdIclVZdTJVdXROZGdj?oc=5",
-        "publishedAt": "2026-06-11T01:46:40.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,21 +89,28 @@
         "publishedAt": "2026-06-11T10:25:10.000Z"
       },
       {
+        "time": "11:18",
+        "title": "尹氏に懲役30年 平壌への作戦指示",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583935?source=rss",
+        "publishedAt": "2026-06-12T02:18:43.000Z"
+      },
+      {
         "time": "16:10",
         "title": "河野洋平氏死去 韓国首相が追悼",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583815?source=rss",
         "publishedAt": "2026-06-11T07:10:17.000Z"
-      },
-      {
-        "time": "08:28",
-        "title": "資金洗浄疑い 国際共同捜査で逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583911?source=rss",
-        "publishedAt": "2026-06-11T23:28:20.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "11:23",
+        "title": "キオクシア時価総額 一時国内1位",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583934?source=rss",
+        "publishedAt": "2026-06-12T02:23:52.000Z"
+      },
       {
         "time": "10:00",
         "title": "日経平均 一時6万7000円台を回復",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583818?source=rss",
         "publishedAt": "2026-06-11T07:42:00.000Z"
-      },
-      {
-        "time": "18:18",
-        "title": "不当表示 ゲオストアに措置命令",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583845?source=rss",
-        "publishedAt": "2026-06-11T09:18:53.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583900?source=rss",
         "publishedAt": "2026-06-11T21:32:20.000Z"
+      },
+      {
+        "time": "10:34",
+        "title": "相模原遺体 スマホGPSもとに発見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583931?source=rss",
+        "publishedAt": "2026-06-12T01:34:35.000Z"
       },
       {
         "time": "08:40",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583891?source=rss",
         "publishedAt": "2026-06-11T14:21:55.000Z"
-      },
-      {
-        "time": "22:10",
-        "title": "クマが街中走り大混乱 宇都宮ルポ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583882?source=rss",
-        "publishedAt": "2026-06-11T13:10:06.000Z"
       }
     ],
     "subsidyHeadlines": [
