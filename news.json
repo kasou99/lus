@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T20:18:22.087Z",
+  "updatedAt": "2026-06-12T21:08:30.254Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-06-12T07:37:40.000Z"
       },
       {
-        "time": "06:00",
-        "title": "DMG森精機が超音波加工機の生産能力倍増、半導体産業向け需要の高まり：工場ニュース",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XcF94cmxkSUpsbkpyUDU2Z1RyWjRxbXpBaXJnMUZiTTUxRC03OFdsZUdnbkpDUWNVTjlJNEVMZmllNXRmNWZyTGNVenpRSFR3eXIzbl9QMWdOcXl3ZmRselhNWTJKLWVzUDFnZkVfWQ?oc=5",
-        "publishedAt": "2026-06-11T21:00:00.000Z"
-      },
-      {
         "time": "10:53",
         "title": "DMG森精機が大型超音波加工機 半導体対応、工場再拡張も",
         "source": "日刊工業新聞",
@@ -57,6 +50,13 @@
         "source": "kabu-ir.com",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tUGxCUUpfV3NpeHZtSURvZUVPTmxVQTdUMk1sTFlrSWxJQ1haZlBUS20yQURDaUdZZlhvZkRrZFgtZmxuaHNUVy15QUFyN2VmS3F3RQ?oc=5",
         "publishedAt": "2026-06-11T23:37:02.000Z"
+      },
+      {
+        "time": "09:38",
+        "title": "セブン、電通・サイバーエージェントと広告会社設立",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwYllWSTNocHVmMzBGckVhTWVmSFU5MlFfTl82cTREbzlfYUVORE1yMmxDNlR4elNsRFZ5Q3RsdjVoRjRrWDQ0b1V1YVExdGxBd0pVeW03SXdoTHc?oc=5",
+        "publishedAt": "2026-06-12T00:38:38.000Z"
       }
     ],
     "worldHeadlines": [
