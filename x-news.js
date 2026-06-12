@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-12T03:49:30.521Z",
+  "updatedAt": "2026-06-12T05:44:14.239Z",
   "items": [
     {
-      "time": "11:18",
-      "title": "尹氏に懲役30年 平壌への作戦指示",
+      "time": "14:32",
+      "title": "東京都心周辺 川の増水などに注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583935?source=rss",
-      "publishedAt": "2026-06-12T02:18:43.000Z",
-      "xQuery": "尹氏に懲役30年 平壌への作戦指示"
+      "url": "https://news.yahoo.co.jp/pickup/6583961?source=rss",
+      "publishedAt": "2026-06-12T05:32:58.000Z",
+      "xQuery": "東京都心周辺 川の増水などに注意"
     },
     {
-      "time": "12:15",
-      "title": "外国人の運転事故増 交通安全白書",
+      "time": "13:46",
+      "title": "新潟駅近くで切り付けか 男逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583946?source=rss",
-      "publishedAt": "2026-06-12T03:15:59.000Z",
-      "xQuery": "外国人の運転事故増 交通安全白書"
+      "url": "https://news.yahoo.co.jp/pickup/6583957?source=rss",
+      "publishedAt": "2026-06-12T04:46:21.000Z",
+      "xQuery": "新潟駅近くで切り付けか 男逃走"
     },
     {
-      "time": "11:44",
-      "title": "兵庫知事 名誉毀損容疑で記者告訴",
+      "time": "12:51",
+      "title": "台湾機 緊急事態宣言で新千歳着陸",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583942?source=rss",
-      "publishedAt": "2026-06-12T02:44:10.000Z",
-      "xQuery": "兵庫知事 名誉毀損容疑で記者告訴"
+      "url": "https://news.yahoo.co.jp/pickup/6583949?source=rss",
+      "publishedAt": "2026-06-12T03:51:56.000Z",
+      "xQuery": "台湾機 緊急事態宣言で新千歳着陸"
+    },
+    {
+      "time": "13:46",
+      "title": "8人搬送 スプレー噴射疑いで逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583958?source=rss",
+      "publishedAt": "2026-06-12T04:46:21.000Z",
+      "xQuery": "8人搬送 スプレー噴射疑いで逮捕"
     },
     {
       "time": "12:31",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583947?source=rss",
       "publishedAt": "2026-06-12T03:31:20.000Z",
       "xQuery": "6歳死亡 職員は男児見失っていた"
-    },
-    {
-      "time": "11:43",
-      "title": "3年以上入院のタイ王女死去 47歳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583940?source=rss",
-      "publishedAt": "2026-06-12T02:43:43.000Z",
-      "xQuery": "3年以上入院のタイ王女死去 47歳"
     }
   ]
 };
