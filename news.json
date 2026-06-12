@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T14:06:14.962Z",
+  "updatedAt": "2026-06-12T15:41:44.519Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "23:16",
+        "title": "韓国 TPP加盟申請の方針固める",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584030?source=rss",
+        "publishedAt": "2026-06-12T14:16:09.000Z"
+      },
+      {
         "time": "21:11",
         "title": "米イラン覚書に海峡開放 内容報道",
         "source": "Yahoo!ニュース",
@@ -94,16 +101,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583943?source=rss",
         "publishedAt": "2026-06-12T02:51:14.000Z"
-      },
-      {
-        "time": "07:53",
-        "title": "コンゴのエボラ熱 15～44歳が中心",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583908?source=rss",
-        "publishedAt": "2026-06-11T22:53:27.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "23:25",
+        "title": "スペースX 米ナスダックに上場",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584031?source=rss",
+        "publishedAt": "2026-06-12T14:25:16.000Z"
+      },
       {
         "time": "17:38",
         "title": "キオクシア時価総額 初の国内1位",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583969?source=rss",
         "publishedAt": "2026-06-12T07:09:18.000Z"
-      },
-      {
-        "time": "16:07",
-        "title": "「黒字リストラ」退職 57歳の現実",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583971?source=rss",
-        "publishedAt": "2026-06-12T07:07:53.000Z"
       }
     ],
     "localHeadlines": [

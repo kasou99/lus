@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-12T14:06:16.200Z",
+  "updatedAt": "2026-06-12T15:41:45.069Z",
   "items": [
+    {
+      "time": "23:16",
+      "title": "韓国 TPP加盟申請の方針固める",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584030?source=rss",
+      "publishedAt": "2026-06-12T14:16:09.000Z",
+      "xQuery": "韓国 TPP加盟申請の方針固める"
+    },
     {
       "time": "22:40",
       "title": "クールジャパン機構廃止案 検討へ",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "クールジャパン機構廃止案 検討へ"
     },
     {
-      "time": "21:11",
-      "title": "米イラン覚書に海峡開放 内容報道",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584012?source=rss",
-      "publishedAt": "2026-06-12T12:11:25.000Z",
-      "xQuery": "米イラン覚書に海峡開放 内容報道"
-    },
-    {
-      "time": "22:23",
-      "title": "ウリ信組に一部業務停止 金融庁",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584019?source=rss",
-      "publishedAt": "2026-06-12T13:23:02.000Z",
-      "xQuery": "ウリ信組に一部業務停止 金融庁"
-    },
-    {
-      "time": "22:48",
-      "title": "岩手のクマ5200頭か 推定数大幅増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584026?source=rss",
-      "publishedAt": "2026-06-12T13:48:22.000Z",
-      "xQuery": "岩手のクマ5200頭か 推定数大幅増"
-    },
-    {
       "time": "21:10",
       "title": "3年半意識不明 タイ王女が死去",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6584013?source=rss",
       "publishedAt": "2026-06-12T12:10:38.000Z",
       "xQuery": "3年半意識不明 タイ王女が死去"
+    },
+    {
+      "time": "23:25",
+      "title": "スペースX 米ナスダックに上場",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584031?source=rss",
+      "publishedAt": "2026-06-12T14:25:16.000Z",
+      "xQuery": "スペースX 米ナスダックに上場"
+    },
+    {
+      "time": "23:03",
+      "title": "モスが詐欺広告に注意喚起 丸亀も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584028?source=rss",
+      "publishedAt": "2026-06-12T14:03:29.000Z",
+      "xQuery": "モスが詐欺広告に注意喚起 丸亀も"
     }
   ]
 };
