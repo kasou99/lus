@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-12T09:35:36.551Z",
+  "updatedAt": "2026-06-12T11:24:32.497Z",
   "items": [
     {
-      "time": "17:35",
-      "title": "衆院選1票の格差「合憲」判決15件",
+      "time": "19:09",
+      "title": "警視庁にクマ駆除PT 射撃班訓練",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583979?source=rss",
-      "publishedAt": "2026-06-12T08:35:21.000Z",
-      "xQuery": "衆院選1票の格差「合憲」判決15件"
+      "url": "https://news.yahoo.co.jp/pickup/6584000?source=rss",
+      "publishedAt": "2026-06-12T10:09:25.000Z",
+      "xQuery": "警視庁にクマ駆除PT 射撃班訓練"
     },
     {
-      "time": "17:27",
-      "title": "ホワイトハウスに格闘技会場 賛否",
+      "time": "18:45",
+      "title": "手紙値上げ容易に 改正郵便法成立",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583980?source=rss",
-      "publishedAt": "2026-06-12T08:27:10.000Z",
-      "xQuery": "ホワイトハウスに格闘技会場 賛否"
+      "url": "https://news.yahoo.co.jp/pickup/6583993?source=rss",
+      "publishedAt": "2026-06-12T09:45:19.000Z",
+      "xQuery": "手紙値上げ容易に 改正郵便法成立"
+    },
+    {
+      "time": "18:19",
+      "title": "ウリ信用組合で多数の不正疑い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583991?source=rss",
+      "publishedAt": "2026-06-12T09:19:26.000Z",
+      "xQuery": "ウリ信用組合で多数の不正疑い"
     },
     {
       "time": "17:02",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領ナルト動画 小野田氏苦言"
     },
     {
-      "time": "18:03",
-      "title": "札幌でスプレー噴射か 男2人逃走",
+      "time": "19:49",
+      "title": "長引く咳 白いカビ原因の肺炎注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583989?source=rss",
-      "publishedAt": "2026-06-12T09:03:28.000Z",
-      "xQuery": "札幌でスプレー噴射か 男2人逃走"
-    },
-    {
-      "time": "17:55",
-      "title": "10歳が385万円無断課金 父の対応",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583987?source=rss",
-      "publishedAt": "2026-06-12T08:55:59.000Z",
-      "xQuery": "10歳が385万円無断課金 父の対応"
+      "url": "https://news.yahoo.co.jp/pickup/6584005?source=rss",
+      "publishedAt": "2026-06-12T10:49:35.000Z",
+      "xQuery": "長引く咳 白いカビ原因の肺炎注意"
     }
   ]
 };
