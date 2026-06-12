@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T05:44:13.518Z",
+  "updatedAt": "2026-06-12T07:52:14.936Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,25 @@
         "publishedAt": "2026-06-12T00:10:01.000Z"
       },
       {
+        "time": "14:34",
+        "title": "初の研究施設７月稼働、安田工業 工作機械の性能向上探る",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMMXBlX0VqeTUxRWtIeDRLY2t3MGhKdHRGWExBWFNXWExJQ2JMTkVZejVEZG1CR3VQcklhcDFNcnMwRzUwY0VIQkp2MzJVMGxtUzZkS1pVa0ZsMlc2Z0FJeGtjemFmWWs?oc=5",
+        "publishedAt": "2026-06-12T05:34:49.000Z"
+      },
+      {
         "time": "10:00",
         "title": "中国の補助金投入で｢工作機械の常識｣が変わった 日工会･稲葉会長が語った\"ものづくりの未来\" 3ページ目 | ビジネス",
         "source": "東洋経済オンライン",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81OGZ1Q0Vvcmo2c0w4dS03OHUyaDRYUnVqdE1CNF9WaE9SOUxUR2txcWFRQjdrR01MLWlRSmN5TUhtYnEyWV92UEpsYlo0UjFUVkJWRTUydkFSa2c?oc=5",
         "publishedAt": "2026-06-12T01:00:00.000Z"
+      },
+      {
+        "time": "16:37",
+        "title": "株式会社設備保全総合研究所のEMLink Intelligenceが自律実行型AIエージェントに進化し保全業務を革新",
+        "source": "ニュースメディアVOIX",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TMGVUTGkzV1lFbzdVWnBKU0RXU0xPR082LWJHdEhRVGtIT0VDZlVfMlBKNEV5LURITWk3dWlyWkttSjBGVXJnZkNPb0M0TFFRcmRrc2x2OHB3Q3Q1MlNkRnJVVmpNREVhQWpkMTY3d0Q0eWd0aGc?oc=5",
+        "publishedAt": "2026-06-12T07:37:40.000Z"
       },
       {
         "time": "06:00",
@@ -24,11 +38,11 @@
         "publishedAt": "2026-06-11T21:00:00.000Z"
       },
       {
-        "time": "17:03",
-        "title": "経営ひと言／日本工作機械輸入協会・金子一彦会長「丁寧に価値説明」",
+        "time": "10:53",
+        "title": "DMG森精機が大型超音波加工機 半導体対応、工場再拡張も",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lZVlPdVo0czlQdk9CX2hWVnpZSXdCNHFkWW0wNFVadVdfdmRrWXhFWXF5WUhjajAyY0NUTjBiRi1PemtqT0c1TTExeWxPOTBZdk9IUHg3elVQelVELVU2ZjBFMWdXOGNiWVJOdnRJeTRYbFNM?oc=5",
-        "publishedAt": "2026-06-11T08:03:15.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uLU56dkwxSHlod0VoVzQwVlRnN0ZkbWRYTUEtQ2FLWHMxWTZadVAyUzEtWDJvMGpDbWxjcV95ZXZIOGpVRE1odTFjUFl0VzJQUEFxbnFFd0RTTkYyaW5tTzhGSlV0WVl6Q1llVFBjaTVXb0dS?oc=5",
+        "publishedAt": "2026-06-12T01:53:08.000Z"
       },
       {
         "time": "08:37",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-06-11T23:37:02.000Z"
       },
       {
-        "time": "03:05",
-        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LT0xFMkhVRUVVaUh3d0pyZkl1aE4tM3IxcFFLVFlSbUdvX1Y2RU9TZlZRc2lBTFhfRUNYR3Nzd2lDTG5YQ09pVm9BOV84SDhZZ05sWWM2VlBPTDRvQ2pFNWhR?oc=5",
-        "publishedAt": "2026-06-11T18:05:24.000Z"
-      },
-      {
         "time": "17:24",
         "title": "ロボット用サーボモーター市場規模は2026年1496百万米ドル、成長率9.7%で拡大予測｜QYResearch",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jaVkxa2FXcVp3OXdraVl2N1d5NVNXWHJxQk9RZUVqNkpwZ1JxcjVhVGgwUVlhUjQzbkd3WlFDRkhQV2ZTYVFqbzJlY2hERV9GQ2tRWndxdw?oc=5",
         "publishedAt": "2026-06-11T08:24:04.000Z"
-      },
-      {
-        "time": "16:38",
-        "title": "シンボルマークとマスコットを制作 江口電機、岡山県立大と連携",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94eUd4QmtIZ2F6NkZHYWctTXBSYTEyaUZfcHUwcV9mTUlKZTRvYUlnM3BFYW81aktBSi1FOE9GNGRnYWVaVGZEeFJvSGYzcU4yR3c?oc=5",
-        "publishedAt": "2026-06-11T07:38:34.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-06-12T02:23:52.000Z"
       },
       {
-        "time": "10:00",
-        "title": "日経平均 一時6万7000円台を回復",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583928?source=rss",
-        "publishedAt": "2026-06-12T01:00:12.000Z"
-      },
-      {
         "time": "06:53",
         "title": "マンション修繕談合 排除命令へ",
         "source": "Yahoo!ニュース",
@@ -133,11 +126,18 @@
         "publishedAt": "2026-06-12T03:51:56.000Z"
       },
       {
-        "time": "21:51",
-        "title": "欧州中銀 2年9カ月ぶり利上げ決定",
+        "time": "16:09",
+        "title": "JAL飲酒CA問題 国交省が厳重注意",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583880?source=rss",
-        "publishedAt": "2026-06-11T12:51:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583969?source=rss",
+        "publishedAt": "2026-06-12T07:09:18.000Z"
+      },
+      {
+        "time": "16:07",
+        "title": "「黒字リストラ」退職 57歳の現実",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583971?source=rss",
+        "publishedAt": "2026-06-12T07:07:53.000Z"
       },
       {
         "time": "12:17",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "16:48",
+        "title": "1票差の町長選 点検で当落逆転",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583976?source=rss",
+        "publishedAt": "2026-06-12T07:48:32.000Z"
+      },
       {
         "time": "12:31",
         "title": "6歳死亡 職員は男児見失っていた",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583931?source=rss",
         "publishedAt": "2026-06-12T01:34:35.000Z"
-      },
-      {
-        "time": "20:46",
-        "title": "江別暴行死「狂ってる」遺族怒り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583871?source=rss",
-        "publishedAt": "2026-06-11T11:46:06.000Z"
       },
       {
         "time": "07:37",

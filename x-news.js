@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-12T05:44:14.239Z",
+  "updatedAt": "2026-06-12T07:52:16.005Z",
   "items": [
     {
-      "time": "14:32",
-      "title": "東京都心周辺 川の増水などに注意",
+      "time": "15:30",
+      "title": "再審見直し法案 衆院委員会で可決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583961?source=rss",
-      "publishedAt": "2026-06-12T05:32:58.000Z",
-      "xQuery": "東京都心周辺 川の増水などに注意"
+      "url": "https://news.yahoo.co.jp/pickup/6583965?source=rss",
+      "publishedAt": "2026-06-12T06:30:47.000Z",
+      "xQuery": "再審見直し法案 衆院委員会で可決"
     },
     {
-      "time": "13:46",
-      "title": "新潟駅近くで切り付けか 男逃走",
+      "time": "16:09",
+      "title": "JAL飲酒CA問題 国交省が厳重注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583957?source=rss",
-      "publishedAt": "2026-06-12T04:46:21.000Z",
-      "xQuery": "新潟駅近くで切り付けか 男逃走"
+      "url": "https://news.yahoo.co.jp/pickup/6583969?source=rss",
+      "publishedAt": "2026-06-12T07:09:18.000Z",
+      "xQuery": "JAL飲酒CA問題 国交省が厳重注意"
     },
     {
-      "time": "12:51",
-      "title": "台湾機 緊急事態宣言で新千歳着陸",
+      "time": "16:15",
+      "title": "H3飛行中に物体落下確認 調査へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583949?source=rss",
-      "publishedAt": "2026-06-12T03:51:56.000Z",
-      "xQuery": "台湾機 緊急事態宣言で新千歳着陸"
+      "url": "https://news.yahoo.co.jp/pickup/6583970?source=rss",
+      "publishedAt": "2026-06-12T07:15:58.000Z",
+      "xQuery": "H3飛行中に物体落下確認 調査へ"
     },
     {
-      "time": "13:46",
-      "title": "8人搬送 スプレー噴射疑いで逮捕",
+      "time": "15:36",
+      "title": "女性用トイレ行列 国交省が初指針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583958?source=rss",
-      "publishedAt": "2026-06-12T04:46:21.000Z",
-      "xQuery": "8人搬送 スプレー噴射疑いで逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6583966?source=rss",
+      "publishedAt": "2026-06-12T06:36:56.000Z",
+      "xQuery": "女性用トイレ行列 国交省が初指針"
     },
     {
-      "time": "12:31",
-      "title": "6歳死亡 職員は男児見失っていた",
+      "time": "16:07",
+      "title": "「黒字リストラ」退職 57歳の現実",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583947?source=rss",
-      "publishedAt": "2026-06-12T03:31:20.000Z",
-      "xQuery": "6歳死亡 職員は男児見失っていた"
+      "url": "https://news.yahoo.co.jp/pickup/6583971?source=rss",
+      "publishedAt": "2026-06-12T07:07:53.000Z",
+      "xQuery": "「黒字リストラ」退職 57歳の現実"
     }
   ]
 };
