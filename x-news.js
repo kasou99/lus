@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-12T02:25:06.717Z",
+  "updatedAt": "2026-06-12T03:49:30.521Z",
   "items": [
-    {
-      "time": "09:34",
-      "title": "首都直下地震対策 死者半数以下へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583918?source=rss",
-      "publishedAt": "2026-06-12T00:34:33.000Z",
-      "xQuery": "首都直下地震対策 死者半数以下へ"
-    },
     {
       "time": "11:18",
       "title": "尹氏に懲役30年 平壌への作戦指示",
@@ -18,28 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "尹氏に懲役30年 平壌への作戦指示"
     },
     {
-      "time": "10:34",
-      "title": "相模原遺体 スマホGPSもとに発見",
+      "time": "12:15",
+      "title": "外国人の運転事故増 交通安全白書",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583931?source=rss",
-      "publishedAt": "2026-06-12T01:34:35.000Z",
-      "xQuery": "相模原遺体 スマホGPSもとに発見"
+      "url": "https://news.yahoo.co.jp/pickup/6583946?source=rss",
+      "publishedAt": "2026-06-12T03:15:59.000Z",
+      "xQuery": "外国人の運転事故増 交通安全白書"
     },
     {
-      "time": "10:19",
-      "title": "H3ロケット6号機 打ち上げに成功",
+      "time": "11:44",
+      "title": "兵庫知事 名誉毀損容疑で記者告訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583929?source=rss",
-      "publishedAt": "2026-06-12T01:19:31.000Z",
-      "xQuery": "H3ロケット6号機 打ち上げに成功"
+      "url": "https://news.yahoo.co.jp/pickup/6583942?source=rss",
+      "publishedAt": "2026-06-12T02:44:10.000Z",
+      "xQuery": "兵庫知事 名誉毀損容疑で記者告訴"
     },
     {
-      "time": "08:40",
-      "title": "車立ち往生で男性保護 数分後列車",
+      "time": "12:31",
+      "title": "6歳死亡 職員は男児見失っていた",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583914?source=rss",
-      "publishedAt": "2026-06-11T23:40:55.000Z",
-      "xQuery": "車立ち往生で男性保護 数分後列車"
+      "url": "https://news.yahoo.co.jp/pickup/6583947?source=rss",
+      "publishedAt": "2026-06-12T03:31:20.000Z",
+      "xQuery": "6歳死亡 職員は男児見失っていた"
+    },
+    {
+      "time": "11:43",
+      "title": "3年以上入院のタイ王女死去 47歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583940?source=rss",
+      "publishedAt": "2026-06-12T02:43:43.000Z",
+      "xQuery": "3年以上入院のタイ王女死去 47歳"
     }
   ]
 };
