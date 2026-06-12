@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T12:38:28.683Z",
+  "updatedAt": "2026-06-12T14:06:14.962Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-06-12T05:34:49.000Z"
       },
       {
-        "time": "12:47",
-        "title": "ニデックマシンツール、長尺255m位置検出器 省配線で取り付け工数減",
+        "time": "22:01",
+        "title": "DMG森精機、超音波加工機 半導体装置向け大型対応",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zbzJ3Qkwza0hXWVlRaFJZQ2k5X2NxZ2p5emVud2VXeWZ1VUU5R1c1OVJKRU5UMmgtZzVtZ3NsWkhJOVh4MG5nVERWdVliUXhJQVRWVDVZZXNtSE0?oc=5",
-        "publishedAt": "2026-06-12T03:47:45.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XQzVYazdxZU9fS3FYbW50bi1mOXg0ek51VEVnazhZTWJGSGxUSHZvbzJMVkluTDhCVEszSDhXLWdwRjJMLVdqOXc2bWlCaDlPNFFIQnpZTzhPakE?oc=5",
+        "publishedAt": "2026-06-12T13:01:27.000Z"
       },
       {
         "time": "06:00",
@@ -112,18 +112,18 @@
         "publishedAt": "2026-06-12T08:38:08.000Z"
       },
       {
+        "time": "22:23",
+        "title": "ウリ信組に一部業務停止 金融庁",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584019?source=rss",
+        "publishedAt": "2026-06-12T13:23:02.000Z"
+      },
+      {
         "time": "06:53",
         "title": "マンション修繕談合 排除命令へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583902?source=rss",
         "publishedAt": "2026-06-11T21:53:11.000Z"
-      },
-      {
-        "time": "18:19",
-        "title": "ウリ信用組合で多数の不正疑い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583991?source=rss",
-        "publishedAt": "2026-06-12T09:19:26.000Z"
       },
       {
         "time": "12:51",
@@ -156,25 +156,11 @@
         "publishedAt": "2026-06-12T11:47:44.000Z"
       },
       {
-        "time": "19:09",
-        "title": "警視庁にクマ駆除PT 射撃班訓練",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584000?source=rss",
-        "publishedAt": "2026-06-12T10:09:25.000Z"
-      },
-      {
         "time": "16:48",
         "title": "1票差の町長選 点検で当落逆転",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583976?source=rss",
         "publishedAt": "2026-06-12T07:48:32.000Z"
-      },
-      {
-        "time": "18:03",
-        "title": "札幌でスプレー噴射か 男2人逃走",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583989?source=rss",
-        "publishedAt": "2026-06-12T09:03:28.000Z"
       },
       {
         "time": "18:38",
@@ -189,6 +175,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583947?source=rss",
         "publishedAt": "2026-06-12T03:31:20.000Z"
+      },
+      {
+        "time": "22:48",
+        "title": "岩手のクマ5200頭か 推定数大幅増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584026?source=rss",
+        "publishedAt": "2026-06-12T13:48:22.000Z"
+      },
+      {
+        "time": "22:23",
+        "title": "期限切れパン提供 市不適切認める",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584021?source=rss",
+        "publishedAt": "2026-06-12T13:23:40.000Z"
       }
     ],
     "subsidyHeadlines": [
