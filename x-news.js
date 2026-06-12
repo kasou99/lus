@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-11T23:37:52.141Z",
+  "updatedAt": "2026-06-12T01:19:07.266Z",
   "items": [
     {
-      "time": "07:34",
-      "title": "イラン側 米合意は最終決定至らず",
+      "time": "09:34",
+      "title": "首都直下地震対策 死者半数以下へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583906?source=rss",
-      "publishedAt": "2026-06-11T22:34:33.000Z",
-      "xQuery": "イラン側 米合意は最終決定至らず"
+      "url": "https://news.yahoo.co.jp/pickup/6583918?source=rss",
+      "publishedAt": "2026-06-12T00:34:33.000Z",
+      "xQuery": "首都直下地震対策 死者半数以下へ"
     },
     {
-      "time": "08:28",
-      "title": "資金洗浄疑い 国際共同捜査で逮捕",
+      "time": "10:04",
+      "title": "「日華懇」が名称変更 台湾表記に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583911?source=rss",
-      "publishedAt": "2026-06-11T23:28:20.000Z",
-      "xQuery": "資金洗浄疑い 国際共同捜査で逮捕"
-    },
-    {
-      "time": "07:53",
-      "title": "コンゴのエボラ熱 15～44歳が中心",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583908?source=rss",
-      "publishedAt": "2026-06-11T22:53:27.000Z",
-      "xQuery": "コンゴのエボラ熱 15～44歳が中心"
+      "url": "https://news.yahoo.co.jp/pickup/6583927?source=rss",
+      "publishedAt": "2026-06-12T01:04:58.000Z",
+      "xQuery": "「日華懇」が名称変更 台湾表記に"
     },
     {
       "time": "07:37",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6583904?source=rss",
       "publishedAt": "2026-06-11T22:37:38.000Z",
       "xQuery": "困窮者に消費期限切れパン 市提供"
+    },
+    {
+      "time": "08:40",
+      "title": "車立ち往生で男性保護 数分後列車",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583914?source=rss",
+      "publishedAt": "2026-06-11T23:40:55.000Z",
+      "xQuery": "車立ち往生で男性保護 数分後列車"
     },
     {
       "time": "08:16",

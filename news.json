@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T23:37:51.389Z",
+  "updatedAt": "2026-06-12T01:19:06.256Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-06-11T08:24:04.000Z"
       },
       {
+        "time": "08:37",
+        "title": "【注目銘柄】泉州電業、純利益８５億円・過去最高を２期ぶり大幅更新へ - kabu-ir.com",
+        "source": "kabu-ir.com",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tUGxCUUpfV3NpeHZtSURvZUVPTmxVQTdUMk1sTFlrSWxJQ1haZlBUS20yQURDaUdZZlhvZkRrZFgtZmxuaHNUVy15QUFyN2VmS3F3RQ?oc=5",
+        "publishedAt": "2026-06-11T23:37:02.000Z"
+      },
+      {
         "time": "20:53",
         "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
         "source": "中日BIZナビ",
@@ -50,13 +57,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wbDVOMmkwOFBITFlHMXFyeXFWZi01WUozU0RxdDJqSFdtcXMyT1RBRnNCVkhwYTI4bEhsSkdYVXFwM2dxbGtDTTdyVkNOaExYdW1uMDhHNGhCWDA5ZnlpYWZjSWctOVZlQmdIclVZdTJVdXROZGdj?oc=5",
         "publishedAt": "2026-06-11T01:46:40.000Z"
-      },
-      {
-        "time": "03:24",
-        "title": "経営ひと言／コアミックス・堀江信彦社長「紙の本の効果」",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VZEgwZWZycVY5VWZad2dlX0RzcDZZTjgxcW44bXpUUkYxNTJaYWx4azR1ai1TR0twczBmX1lIN2c2cnVERWNNSFpGbWdvNGt4a1ZfcC1CREQ3X1k?oc=5",
-        "publishedAt": "2026-06-11T18:24:39.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "10:00",
+        "title": "日経平均 一時6万7000円台を回復",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583928?source=rss",
+        "publishedAt": "2026-06-12T01:00:12.000Z"
+      },
+      {
         "time": "06:53",
         "title": "マンション修繕談合 排除命令へ",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583881?source=rss",
         "publishedAt": "2026-06-11T13:21:19.000Z"
-      },
-      {
-        "time": "16:12",
-        "title": "ANA サービス刷新の混乱で謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583816?source=rss",
-        "publishedAt": "2026-06-11T07:12:35.000Z"
       },
       {
         "time": "16:42",
@@ -156,18 +156,18 @@
         "publishedAt": "2026-06-11T21:32:20.000Z"
       },
       {
+        "time": "08:40",
+        "title": "車立ち往生で男性保護 数分後列車",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6583914?source=rss",
+        "publishedAt": "2026-06-11T23:40:55.000Z"
+      },
+      {
         "time": "07:37",
         "title": "困窮者に消費期限切れパン 市提供",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583904?source=rss",
         "publishedAt": "2026-06-11T22:37:38.000Z"
-      },
-      {
-        "time": "18:06",
-        "title": "6歳溺れ死亡 放課後等デイに捜査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583843?source=rss",
-        "publishedAt": "2026-06-11T09:06:30.000Z"
       },
       {
         "time": "20:46",
