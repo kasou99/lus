@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-12T22:05:07.478Z",
+  "updatedAt": "2026-06-12T23:01:25.978Z",
   "items": [
-    {
-      "time": "23:16",
-      "title": "韓国 TPP加盟申請の方針固める",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584030?source=rss",
-      "publishedAt": "2026-06-12T14:16:09.000Z",
-      "xQuery": "韓国 TPP加盟申請の方針固める"
-    },
     {
       "time": "22:40",
       "title": "クールジャパン機構廃止案 検討へ",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584022?source=rss",
       "publishedAt": "2026-06-12T13:40:30.000Z",
       "xQuery": "クールジャパン機構廃止案 検討へ"
+    },
+    {
+      "time": "23:16",
+      "title": "韓国 TPP加盟申請の方針固める",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584030?source=rss",
+      "publishedAt": "2026-06-12T14:16:09.000Z",
+      "xQuery": "韓国 TPP加盟申請の方針固める"
     },
     {
       "time": "21:10",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3年半意識不明 タイ王女が死去"
     },
     {
-      "time": "23:25",
-      "title": "スペースX 米ナスダックに上場",
+      "time": "07:21",
+      "title": "マスク氏 世界初の「兆万長者」に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584031?source=rss",
-      "publishedAt": "2026-06-12T14:25:16.000Z",
-      "xQuery": "スペースX 米ナスダックに上場"
+      "url": "https://news.yahoo.co.jp/pickup/6584035?source=rss",
+      "publishedAt": "2026-06-12T22:21:37.000Z",
+      "xQuery": "マスク氏 世界初の「兆万長者」に"
     },
     {
       "time": "23:03",
