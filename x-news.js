@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-13T13:40:04.539Z",
+  "updatedAt": "2026-06-13T14:50:29.555Z",
   "items": [
     {
       "time": "22:09",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "AI企業幹部 G7サミットに集結へ"
     },
     {
-      "time": "20:57",
-      "title": "全身焼けた遺体 草燃やしていたか",
+      "time": "23:25",
+      "title": "川遊びで流され死亡 男子中学生か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584122?source=rss",
-      "publishedAt": "2026-06-13T11:57:27.000Z",
-      "xQuery": "全身焼けた遺体 草燃やしていたか"
+      "url": "https://news.yahoo.co.jp/pickup/6584140?source=rss",
+      "publishedAt": "2026-06-13T14:25:09.000Z",
+      "xQuery": "川遊びで流され死亡 男子中学生か"
+    },
+    {
+      "time": "22:48",
+      "title": "ヒノキの下敷きか 伐採作業中死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584135?source=rss",
+      "publishedAt": "2026-06-13T13:48:46.000Z",
+      "xQuery": "ヒノキの下敷きか 伐採作業中死亡"
     },
     {
       "time": "20:29",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584119?source=rss",
       "publishedAt": "2026-06-13T11:29:40.000Z",
       "xQuery": "DAZNが謝罪「月980円」表示巡り"
-    },
-    {
-      "time": "17:48",
-      "title": "もっちゅりん人気過熱 店舗の様子",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584100?source=rss",
-      "publishedAt": "2026-06-13T08:48:18.000Z",
-      "xQuery": "もっちゅりん人気過熱 店舗の様子"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T13:40:03.960Z",
+  "updatedAt": "2026-06-13T14:50:28.332Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-06-13T01:04:49.000Z"
       },
       {
-        "time": "23:40",
-        "title": "作業着を“世界にひとつだけの職人デニム”に育てる「職人デニムプロジェクト」始動",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1scXRKTERIMTJwSzNRVEtYRjRzVVVjT2pKdURNS2x6X1ZkcTZPdVE5Si1qM2JRUTNjUThrclJhSkc1OGo0ZGEyNUQxYlNHb2VQbUt1WEtSRWE5bi1MM014VWNOSFZ4TFdicEZn?oc=5",
-        "publishedAt": "2026-06-12T14:40:00.000Z"
-      },
-      {
         "time": "12:28",
         "title": "小型MCで多品種少量生産の自動化を／三和ロボティクス",
         "source": "robot digest",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MWjdrRW5FZFdIRnVOaHl5eG5QcUlwM2lXWHpGdTZpZDBuX2VIdUNUaXFGbzFVSWRjcXJtVDVRaHRSQ0VzWkpCVXIwWHh4Vm9NNlZsa2ZsTHpyZDJRempqaHo1cDFqZHZCcjFvc3ViUXhSX3Nsc3RPNQ?oc=5",
         "publishedAt": "2026-06-13T03:28:42.000Z"
+      },
+      {
+        "time": "17:40",
+        "title": "作業着を“世界にひとつだけの職人デニム”に育てる「職人デニムプロジェクト」始動",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1scXRKTERIMTJwSzNRVEtYRjRzVVVjT2pKdURNS2x6X1ZkcTZPdVE5Si1qM2JRUTNjUThrclJhSkc1OGo0ZGEyNUQxYlNHb2VQbUt1WEtSRWE5bi1MM014VWNOSFZ4TFdicEZn?oc=5",
+        "publishedAt": "2026-06-13T08:40:00.000Z"
       },
       {
         "time": "06:15",
@@ -156,6 +156,20 @@
         "publishedAt": "2026-06-13T04:36:54.000Z"
       },
       {
+        "time": "23:25",
+        "title": "川遊びで流され死亡 男子中学生か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584140?source=rss",
+        "publishedAt": "2026-06-13T14:25:09.000Z"
+      },
+      {
+        "time": "22:48",
+        "title": "ヒノキの下敷きか 伐採作業中死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584135?source=rss",
+        "publishedAt": "2026-06-13T13:48:46.000Z"
+      },
+      {
         "time": "20:57",
         "title": "全身焼けた遺体 草燃やしていたか",
         "source": "Yahoo!ニュース",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584105?source=rss",
         "publishedAt": "2026-06-13T09:23:21.000Z"
-      },
-      {
-        "time": "10:19",
-        "title": "横断歩道で16歳はねられ死亡 宮城",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584055?source=rss",
-        "publishedAt": "2026-06-13T01:19:16.000Z"
-      },
-      {
-        "time": "20:03",
-        "title": "川遊びしていた少年溺れる 重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584115?source=rss",
-        "publishedAt": "2026-06-13T11:03:19.000Z"
       }
     ],
     "subsidyHeadlines": [
