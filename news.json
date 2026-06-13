@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T21:34:14.432Z",
+  "updatedAt": "2026-06-13T22:29:55.550Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tSGtpOUg0LVpRUml4TmZiWldCY1FuRnFkMEc0VmhQclYyYnZiQzJveWNYWmJ5OGhXSk1sOWJRZVVleVBYLUV0Y3ptMkFQRWs?oc=5",
         "publishedAt": "2026-06-13T05:30:00.000Z"
-      },
-      {
-        "time": "07:15",
-        "title": "工作機械の老舗がAIで化ける？平面研削盤・国内首位の岡本工作機械（6125）が「次のマルマエ」と囁かれる訳",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43V3pJVEVSR0ZyY1BnaEgtM0dodHBneVNGcHdQbEFxTVpMUFFrUUZlQjJmTzZOQ2dVbGl2WXAwalNBekJnYkRhY2dCaC04V3BSSk9JT3B6UXBaZGc?oc=5",
-        "publishedAt": "2026-06-12T22:15:16.000Z"
       },
       {
         "time": "12:28",
@@ -57,6 +50,13 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1scXRKTERIMTJwSzNRVEtYRjRzVVVjT2pKdURNS2x6X1ZkcTZPdVE5Si1qM2JRUTNjUThrclJhSkc1OGo0ZGEyNUQxYlNHb2VQbUt1WEtSRWE5bi1MM014VWNOSFZ4TFdicEZn?oc=5",
         "publishedAt": "2026-06-13T08:40:00.000Z"
+      },
+      {
+        "time": "22:00",
+        "title": "本田望結、美スタイルの秘訣！ピラティスの様子を公開",
+        "source": "WWSチャンネル",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX3RBMGJPTzNLTll0VnBLS242MzNnc3lkdWp5cE9VTGtOQVJMcVF1RS1RWW9KZzhLc1UzMGVNQkdzV08zWXhoNkM0VlhqT1lJY0pXVlN5MUg3Mm9JMzJXc1BOdGRjbEd5STR6U1pTLTZVVi1xeUFnaENyUHd3OFJyLVk0QQ?oc=5",
+        "publishedAt": "2026-06-13T13:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-13T11:57:27.000Z"
       },
       {
+        "time": "07:21",
+        "title": "500万円入りバッグ奪われる 大阪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584143?source=rss",
+        "publishedAt": "2026-06-13T22:21:06.000Z"
+      },
+      {
         "time": "17:01",
         "title": "LUUP運転の男性死亡 事故原因は",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584094?source=rss",
         "publishedAt": "2026-06-13T08:01:25.000Z"
-      },
-      {
-        "time": "18:23",
-        "title": "貨物車にはねられ死亡 飲酒運転か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584105?source=rss",
-        "publishedAt": "2026-06-13T09:23:21.000Z"
       }
     ],
     "subsidyHeadlines": [

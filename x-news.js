@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-13T21:34:15.511Z",
+  "updatedAt": "2026-06-13T22:29:56.705Z",
   "items": [
     {
       "time": "22:09",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "川遊びで流され死亡 男子中学生か"
     },
     {
-      "time": "22:48",
-      "title": "ヒノキの下敷きか 伐採作業中死亡",
+      "time": "07:21",
+      "title": "500万円入りバッグ奪われる 大阪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584135?source=rss",
-      "publishedAt": "2026-06-13T13:48:46.000Z",
-      "xQuery": "ヒノキの下敷きか 伐採作業中死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6584143?source=rss",
+      "publishedAt": "2026-06-13T22:21:06.000Z",
+      "xQuery": "500万円入りバッグ奪われる 大阪"
     },
     {
       "time": "20:29",
