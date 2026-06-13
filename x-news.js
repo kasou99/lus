@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-13T09:39:10.050Z",
+  "updatedAt": "2026-06-13T10:54:43.819Z",
   "items": [
     {
-      "time": "17:23",
-      "title": "首相がG7出席のため出発 狙いは",
+      "time": "17:44",
+      "title": "ウクライナ戦況好転 露の侵略停滞",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584095?source=rss",
-      "publishedAt": "2026-06-13T08:23:19.000Z",
-      "xQuery": "首相がG7出席のため出発 狙いは"
+      "url": "https://news.yahoo.co.jp/pickup/6584101?source=rss",
+      "publishedAt": "2026-06-13T08:44:40.000Z",
+      "xQuery": "ウクライナ戦況好転 露の侵略停滞"
     },
     {
-      "time": "16:21",
-      "title": "ウーバー 日本の配車で初の首位に",
+      "time": "18:59",
+      "title": "物価高 難病患者にはさらに重く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584087?source=rss",
-      "publishedAt": "2026-06-13T07:21:12.000Z",
-      "xQuery": "ウーバー 日本の配車で初の首位に"
+      "url": "https://news.yahoo.co.jp/pickup/6584109?source=rss",
+      "publishedAt": "2026-06-13T09:59:34.000Z",
+      "xQuery": "物価高 難病患者にはさらに重く"
     },
     {
       "time": "17:01",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "LUUP運転の男性死亡 事故原因は"
     },
     {
-      "time": "18:23",
-      "title": "貨物車にはねられ死亡 飲酒運転か",
+      "time": "19:30",
+      "title": "手術で耳作った 疾患発信する女性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584105?source=rss",
-      "publishedAt": "2026-06-13T09:23:21.000Z",
-      "xQuery": "貨物車にはねられ死亡 飲酒運転か"
+      "url": "https://news.yahoo.co.jp/pickup/6584113?source=rss",
+      "publishedAt": "2026-06-13T10:30:25.000Z",
+      "xQuery": "手術で耳作った 疾患発信する女性"
     },
     {
       "time": "13:04",

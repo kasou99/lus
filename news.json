@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T09:39:09.286Z",
+  "updatedAt": "2026-06-13T10:54:42.673Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "19:31",
+        "title": "消費税1%で農家の手取り減 試算",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584112?source=rss",
+        "publishedAt": "2026-06-13T10:31:04.000Z"
+      },
+      {
         "time": "16:08",
         "title": "家計株資産500兆円超 NISA後押し",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584086?source=rss",
         "publishedAt": "2026-06-13T07:08:48.000Z"
-      },
-      {
-        "time": "14:32",
-        "title": "物件高×金利高 ローンの地殻変動",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584079?source=rss",
-        "publishedAt": "2026-06-13T05:32:11.000Z"
       },
       {
         "time": "16:21",
@@ -126,11 +126,11 @@
         "publishedAt": "2026-06-13T07:21:12.000Z"
       },
       {
-        "time": "09:35",
-        "title": "スペースX 従業員がミリオネアに",
+        "time": "18:59",
+        "title": "物価高 難病患者にはさらに重く",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584048?source=rss",
-        "publishedAt": "2026-06-13T00:35:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584109?source=rss",
+        "publishedAt": "2026-06-13T09:59:34.000Z"
       },
       {
         "time": "17:16",
