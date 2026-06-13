@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-13T19:37:37.213Z",
+  "updatedAt": "2026-06-13T20:36:02.779Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "22:02",
-        "title": "オーエム製作所、米中向け立旋盤増産 長岡に投資",
+        "time": "03:21",
+        "title": "設備保全AIエージェント『EMLink Intelligence』を大幅アップデート - 複雑なタスクの自律実行に加え、自社のナレッジで「専用RAG」を最短1分で構築できる機能を搭載",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RTlBLeHU1ZVNWWlNoSjJJMXRCaXp1NmQ3TDJWUlBrVTlKcV9yVzZGQkFfeG0yOVN2M3I5RW1RWjV2UEhtYVdNb0lkQ1NpbjhrQkJpRVM1NEZId3c?oc=5",
-        "publishedAt": "2026-06-13T13:02:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnY01LcDNMUmRoOW9zUXJIM0IyWW1saVVROVJ2REYySnlGcTRHX2tPZXcwNDJvY1FYX2dDbGRpZ195R3ZQejhXSFA0TVBTODMxMlB6MzhTdkk?oc=5",
+        "publishedAt": "2026-06-13T18:21:38.000Z"
       },
       {
         "time": "09:00",
@@ -31,20 +31,6 @@
         "publishedAt": "2026-06-13T05:30:00.000Z"
       },
       {
-        "time": "10:04",
-        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LNll1SHV3a09wLU9sNzFmY0VaSHVTLTVPellkM29uVi1mRGlpZnFjSEczZHNmZ0xXcWxlejduQmZsWGhoQWYyWWFNc005YkFtc3pOTGJ2M0R4X1RiT1B5Wkhn?oc=5",
-        "publishedAt": "2026-06-13T01:04:49.000Z"
-      },
-      {
-        "time": "17:40",
-        "title": "作業着を“世界にひとつだけの職人デニム”に育てる「職人デニムプロジェクト」始動",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1scXRKTERIMTJwSzNRVEtYRjRzVVVjT2pKdURNS2x6X1ZkcTZPdVE5Si1qM2JRUTNjUThrclJhSkc1OGo0ZGEyNUQxYlNHb2VQbUt1WEtSRWE5bi1MM014VWNOSFZ4TFdicEZn?oc=5",
-        "publishedAt": "2026-06-13T08:40:00.000Z"
-      },
-      {
         "time": "12:28",
         "title": "小型MCで多品種少量生産の自動化を／三和ロボティクス",
         "source": "robot digest",
@@ -52,11 +38,25 @@
         "publishedAt": "2026-06-13T03:28:42.000Z"
       },
       {
-        "time": "06:15",
-        "title": "ファナック・安川電機など出展…ロボットテクノロジージャパン、フィジカルAIに熱視線",
-        "source": "ニュースイッチ by 日刊工業新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PaHByamlXR3JvRzVNMExIUjAxbU5MajZVVmg0US1NZU5Xc1pRZHBxTURuMlhmd3gxbmZHdE5NRHRPQQ?oc=5",
-        "publishedAt": "2026-06-12T21:15:20.000Z"
+        "time": "10:04",
+        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LNll1SHV3a09wLU9sNzFmY0VaSHVTLTVPellkM29uVi1mRGlpZnFjSEczZHNmZ0xXcWxlejduQmZsWGhoQWYyWWFNc005YkFtc3pOTGJ2M0R4X1RiT1B5Wkhn?oc=5",
+        "publishedAt": "2026-06-13T01:04:49.000Z"
+      },
+      {
+        "time": "22:02",
+        "title": "オーエム製作所、米中向け立旋盤増産 長岡に投資",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RTlBLeHU1ZVNWWlNoSjJJMXRCaXp1NmQ3TDJWUlBrVTlKcV9yVzZGQkFfeG0yOVN2M3I5RW1RWjV2UEhtYVdNb0lkQ1NpbjhrQkJpRVM1NEZId3c?oc=5",
+        "publishedAt": "2026-06-13T13:02:00.000Z"
+      },
+      {
+        "time": "17:40",
+        "title": "作業着を“世界にひとつだけの職人デニム”に育てる「職人デニムプロジェクト」始動",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1scXRKTERIMTJwSzNRVEtYRjRzVVVjT2pKdURNS2x6X1ZkcTZPdVE5Si1qM2JRUTNjUThrclJhSkc1OGo0ZGEyNUQxYlNHb2VQbUt1WEtSRWE5bi1MM014VWNOSFZ4TFdicEZn?oc=5",
+        "publishedAt": "2026-06-13T08:40:00.000Z"
       }
     ],
     "worldHeadlines": [
