@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T08:11:29.663Z",
+  "updatedAt": "2026-06-13T09:39:09.286Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-06-13T01:04:49.000Z"
       },
       {
-        "time": "22:10",
-        "title": "設備保全AIエージェント『EMLink Intelligence』を大幅アップデート - 複雑なタスクの自律実行に加え、自社のナレッジで「専用RAG」を最短1分で構築できる機能を搭載",
-        "source": "RBB TODAY",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3ZHltc2J0bjFMTXB0SE91QUFJNEdsa1FoQXpTaEVDdms4RlpEQU1STjBlRVlqS1RVc3lUM0lDOFN5V0t1aHVtSDA5aVp2SkF3a0UyZ1p4VFczSmptUzhaNV91SEJsUUN6eDZBM0I4NkZWRGxfbktvbQ?oc=5",
-        "publishedAt": "2026-06-12T13:10:02.000Z"
-      },
-      {
         "time": "06:15",
         "title": "ファナック・安川電機など出展…ロボットテクノロジージャパン、フィジカルAIに熱視線",
         "source": "ニュースイッチ by 日刊工業新聞社",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PaHByamlXR3JvRzVNMExIUjAxbU5MajZVVmg0US1NZU5Xc1pRZHBxTURuMlhmd3gxbmZHdE5NRHRPQQ?oc=5",
         "publishedAt": "2026-06-12T21:15:20.000Z"
+      },
+      {
+        "time": "22:10",
+        "title": "設備保全AIエージェント『EMLink Intelligence』を大幅アップデート - 複雑なタスクの自律実行に加え、自社のナレッジで「専用RAG」を最短1分で構築できる機能を搭載",
+        "source": "RBB TODAY",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3ZHltc2J0bjFMTXB0SE91QUFJNEdsa1FoQXpTaEVDdms4RlpEQU1STjBlRVlqS1RVc3lUM0lDOFN5V0t1aHVtSDA5aVp2SkF3a0UyZ1p4VFczSmptUzhaNV91SEJsUUN6eDZBM0I4NkZWRGxfbktvbQ?oc=5",
+        "publishedAt": "2026-06-12T13:10:02.000Z"
       },
       {
         "time": "05:11",
@@ -60,6 +60,20 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "17:44",
+        "title": "ウクライナ戦況好転 露の侵略停滞",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584101?source=rss",
+        "publishedAt": "2026-06-13T08:44:40.000Z"
+      },
+      {
+        "time": "18:30",
+        "title": "ウ攻撃 露都市の住民に湧く不満",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584108?source=rss",
+        "publishedAt": "2026-06-13T09:30:51.000Z"
+      },
       {
         "time": "12:46",
         "title": "米イラン表明 覚書「近日署名」",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584013?source=rss",
         "publishedAt": "2026-06-12T12:10:38.000Z"
-      },
-      {
-        "time": "17:27",
-        "title": "ホワイトハウスに格闘技会場 賛否",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583980?source=rss",
-        "publishedAt": "2026-06-12T08:27:10.000Z"
-      },
-      {
-        "time": "11:51",
-        "title": "米首都公園に不審な暗号 当局調査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583943?source=rss",
-        "publishedAt": "2026-06-12T02:51:14.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-06-13T05:32:11.000Z"
       },
       {
-        "time": "08:57",
-        "title": "過熱する不動産市況 不気味な兆候",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584044?source=rss",
-        "publishedAt": "2026-06-12T23:57:49.000Z"
-      },
-      {
         "time": "16:21",
         "title": "ウーバー 日本の配車で初の首位に",
         "source": "Yahoo!ニュース",
@@ -140,11 +133,18 @@
         "publishedAt": "2026-06-13T00:35:25.000Z"
       },
       {
-        "time": "12:04",
-        "title": "炭酸飲料に異変 真逆の商品に注目",
+        "time": "17:16",
+        "title": "ぬい活業界 利益4年前から倍増",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584062?source=rss",
-        "publishedAt": "2026-06-13T03:04:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584098?source=rss",
+        "publishedAt": "2026-06-13T08:16:42.000Z"
+      },
+      {
+        "time": "17:48",
+        "title": "もっちゅりん人気過熱 店舗の様子",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584100?source=rss",
+        "publishedAt": "2026-06-13T08:48:18.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-06-13T08:01:25.000Z"
       },
       {
+        "time": "18:23",
+        "title": "貨物車にはねられ死亡 飲酒運転か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584105?source=rss",
+        "publishedAt": "2026-06-13T09:23:21.000Z"
+      },
+      {
         "time": "10:19",
         "title": "横断歩道で16歳はねられ死亡 宮城",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584055?source=rss",
         "publishedAt": "2026-06-13T01:19:16.000Z"
-      },
-      {
-        "time": "12:31",
-        "title": "6歳死亡 職員は男児見失っていた",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583947?source=rss",
-        "publishedAt": "2026-06-12T03:31:20.000Z"
       },
       {
         "time": "15:27",

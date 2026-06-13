@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-13T08:11:30.884Z",
+  "updatedAt": "2026-06-13T09:39:10.050Z",
   "items": [
     {
-      "time": "16:43",
-      "title": "内閣支持率 不安要素は中東情勢か",
+      "time": "17:23",
+      "title": "首相がG7出席のため出発 狙いは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584091?source=rss",
-      "publishedAt": "2026-06-13T07:43:18.000Z",
-      "xQuery": "内閣支持率 不安要素は中東情勢か"
+      "url": "https://news.yahoo.co.jp/pickup/6584095?source=rss",
+      "publishedAt": "2026-06-13T08:23:19.000Z",
+      "xQuery": "首相がG7出席のため出発 狙いは"
     },
     {
-      "time": "15:32",
-      "title": "米軍 ベネズエラ犯罪組織幹部殺害",
+      "time": "16:21",
+      "title": "ウーバー 日本の配車で初の首位に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584082?source=rss",
-      "publishedAt": "2026-06-13T06:32:30.000Z",
-      "xQuery": "米軍 ベネズエラ犯罪組織幹部殺害"
-    },
-    {
-      "time": "16:08",
-      "title": "家計株資産500兆円超 NISA後押し",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584086?source=rss",
-      "publishedAt": "2026-06-13T07:08:48.000Z",
-      "xQuery": "家計株資産500兆円超 NISA後押し"
+      "url": "https://news.yahoo.co.jp/pickup/6584087?source=rss",
+      "publishedAt": "2026-06-13T07:21:12.000Z",
+      "xQuery": "ウーバー 日本の配車で初の首位に"
     },
     {
       "time": "17:01",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "LUUP運転の男性死亡 事故原因は"
     },
     {
-      "time": "14:22",
-      "title": "異常現象 北大西洋「冷たい斑点」",
+      "time": "18:23",
+      "title": "貨物車にはねられ死亡 飲酒運転か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584076?source=rss",
-      "publishedAt": "2026-06-13T05:22:14.000Z",
-      "xQuery": "異常現象 北大西洋「冷たい斑点」"
+      "url": "https://news.yahoo.co.jp/pickup/6584105?source=rss",
+      "publishedAt": "2026-06-13T09:23:21.000Z",
+      "xQuery": "貨物車にはねられ死亡 飲酒運転か"
+    },
+    {
+      "time": "13:04",
+      "title": "「レアハンバーグ」炎上 店の現在",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584071?source=rss",
+      "publishedAt": "2026-06-13T04:04:35.000Z",
+      "xQuery": "「レアハンバーグ」炎上 店の現在"
     }
   ]
 };
