@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T22:29:55.550Z",
+  "updatedAt": "2026-06-13T22:57:34.751Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:55",
+        "title": "本田太郎議員事務所に車突っ込む",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584147?source=rss",
+        "publishedAt": "2026-06-13T22:55:25.000Z"
+      },
+      {
         "time": "13:36",
         "title": "赤い羽根募金1億円使途不明 札幌",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584143?source=rss",
         "publishedAt": "2026-06-13T22:21:06.000Z"
-      },
-      {
-        "time": "17:01",
-        "title": "LUUP運転の男性死亡 事故原因は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584094?source=rss",
-        "publishedAt": "2026-06-13T08:01:25.000Z"
       }
     ],
     "subsidyHeadlines": [
