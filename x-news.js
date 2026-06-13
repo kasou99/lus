@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-13T00:02:55.658Z",
+  "updatedAt": "2026-06-13T01:30:55.405Z",
   "items": [
     {
-      "time": "08:27",
-      "title": "重要鉱物備蓄G7連携 首相提唱へ",
+      "time": "09:05",
+      "title": "学生寮運営JSBを買収 米投資会社",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584040?source=rss",
-      "publishedAt": "2026-06-12T23:27:34.000Z",
-      "xQuery": "重要鉱物備蓄G7連携 首相提唱へ"
+      "url": "https://news.yahoo.co.jp/pickup/6584041?source=rss",
+      "publishedAt": "2026-06-13T00:05:00.000Z",
+      "xQuery": "学生寮運営JSBを買収 米投資会社"
     },
     {
-      "time": "08:45",
-      "title": "米イラン 署名へ詰めの調整か",
+      "time": "09:41",
+      "title": "宮城周辺 800年前未知の大津波か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584045?source=rss",
-      "publishedAt": "2026-06-12T23:45:14.000Z",
-      "xQuery": "米イラン 署名へ詰めの調整か"
+      "url": "https://news.yahoo.co.jp/pickup/6584050?source=rss",
+      "publishedAt": "2026-06-13T00:41:38.000Z",
+      "xQuery": "宮城周辺 800年前未知の大津波か"
     },
     {
-      "time": "07:21",
-      "title": "マスク氏 世界初の「兆万長者」に",
+      "time": "09:35",
+      "title": "スペースX 従業員がミリオネアに",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584035?source=rss",
-      "publishedAt": "2026-06-12T22:21:37.000Z",
-      "xQuery": "マスク氏 世界初の「兆万長者」に"
+      "url": "https://news.yahoo.co.jp/pickup/6584048?source=rss",
+      "publishedAt": "2026-06-13T00:35:25.000Z",
+      "xQuery": "スペースX 従業員がミリオネアに"
     },
     {
       "time": "08:01",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ふるさと納税863億円赤字 24年度"
     },
     {
-      "time": "07:43",
-      "title": "クマと軽が衝突し運転手搬送 宮城",
+      "time": "10:13",
+      "title": "廃墟百貨店 蘇らせた電気工事会社",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584036?source=rss",
-      "publishedAt": "2026-06-12T22:43:09.000Z",
-      "xQuery": "クマと軽が衝突し運転手搬送 宮城"
+      "url": "https://news.yahoo.co.jp/pickup/6584053?source=rss",
+      "publishedAt": "2026-06-13T01:13:36.000Z",
+      "xQuery": "廃墟百貨店 蘇らせた電気工事会社"
     }
   ]
 };

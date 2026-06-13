@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T00:02:54.748Z",
+  "updatedAt": "2026-06-13T01:30:54.399Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,20 @@
         "publishedAt": "2026-06-12T05:34:49.000Z"
       },
       {
+        "time": "15:36",
+        "title": "牧野フライス買収中止勧告 専門家「外為法の基準不明、当局の考え先読みを」",
+        "source": "日経ビジネス電子版",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUzEwUHVVQU5uZjh6azNuMlA5SjVHTFdVQ19UQ0VyUGl5Q3RtQVY3X0gyaFdEdzBJQ0tmdk9kY09WdWhqTVMyQlBGcXhmb2JkUzEwZkFhRVNsTUt4TUNzV1VvVTRPZXpBVVhSdVVFVTFyamlaR0NQQWtUU1Ntb0syNXBDX05fNTR2cmR2Ui1R?oc=5",
+        "publishedAt": "2026-06-12T06:36:27.000Z"
+      },
+      {
+        "time": "12:45",
+        "title": "オーエム製作所、米中向け立旋盤増産 長岡に投資",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3STVtdk40X0NHT0JDYzJ0bXpkZ1lJTDJBbW5nNUZnanl0bXA0NFVwUmJ0Q3FyeVFISFg3XzBpMW90a3NfWWlOdjc4NUVmdms0RGYzN01NbXF0SnNlY0Y4UDAxOUxxMFlxQkU2STg0WWxmdjJp?oc=5",
+        "publishedAt": "2026-06-12T03:45:43.000Z"
+      },
+      {
         "time": "16:37",
         "title": "株式会社設備保全総合研究所のEMLink Intelligenceが自律実行型AIエージェントに進化し保全業務を革新",
         "source": "ニュースメディアVOIX",
@@ -43,20 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfbHFsTWNtRS1DdzFkS1QydmNjMTMtaUdEMHExYkFybGF2RVZ5bFVYTXVUZm9OYVo0T2pEZUdYRkRtV05zSjlSM1RFUkpWODgzVjE2T0pHUVZtY0ZDTl9IemxSVUlvOWRzVXp6UzVydWg3VXNTRnc?oc=5",
         "publishedAt": "2026-06-12T02:00:28.000Z"
-      },
-      {
-        "time": "12:45",
-        "title": "オーエム製作所、米中向け立旋盤増産 長岡に投資",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3STVtdk40X0NHT0JDYzJ0bXpkZ1lJTDJBbW5nNUZnanl0bXA0NFVwUmJ0Q3FyeVFISFg3XzBpMW90a3NfWWlOdjc4NUVmdms0RGYzN01NbXF0SnNlY0Y4UDAxOUxxMFlxQkU2STg0WWxmdjJp?oc=5",
-        "publishedAt": "2026-06-12T03:45:43.000Z"
-      },
-      {
-        "time": "15:36",
-        "title": "牧野フライス買収中止勧告 専門家「外為法の基準不明、当局の考え先読みを」",
-        "source": "日経ビジネス電子版",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUzEwUHVVQU5uZjh6azNuMlA5SjVHTFdVQ19UQ0VyUGl5Q3RtQVY3X0gyaFdEdzBJQ0tmdk9kY09WdWhqTVMyQlBGcXhmb2JkUzEwZkFhRVNsTUt4TUNzV1VvVTRPZXpBVVhSdVVFVTFyamlaR0NQQWtUU1Ntb0syNXBDX05fNTR2cmR2Ui1R?oc=5",
-        "publishedAt": "2026-06-12T06:36:27.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-06-12T22:21:37.000Z"
       },
       {
+        "time": "09:35",
+        "title": "スペースX 従業員がミリオネアに",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584048?source=rss",
+        "publishedAt": "2026-06-13T00:35:25.000Z"
+      },
+      {
         "time": "17:38",
         "title": "キオクシア時価総額 初の国内1位",
         "source": "Yahoo!ニュース",
@@ -126,25 +133,18 @@
         "publishedAt": "2026-06-12T08:38:08.000Z"
       },
       {
-        "time": "22:23",
-        "title": "ウリ信組に一部業務停止 金融庁",
+        "time": "09:05",
+        "title": "学生寮運営JSBを買収 米投資会社",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584019?source=rss",
-        "publishedAt": "2026-06-12T13:23:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584041?source=rss",
+        "publishedAt": "2026-06-13T00:05:00.000Z"
       },
       {
-        "time": "08:57",
-        "title": "過熱する不動産市況 不気味な兆候",
+        "time": "10:23",
+        "title": "生保レディー改め ソナエルジュ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584044?source=rss",
-        "publishedAt": "2026-06-12T23:57:49.000Z"
-      },
-      {
-        "time": "16:07",
-        "title": "「黒字リストラ」退職 57歳の現実",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583971?source=rss",
-        "publishedAt": "2026-06-12T07:07:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584052?source=rss",
+        "publishedAt": "2026-06-13T01:23:03.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-06-12T22:43:09.000Z"
       },
       {
-        "time": "20:47",
-        "title": "山林で男性不明 上空からクマの姿",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584009?source=rss",
-        "publishedAt": "2026-06-12T11:47:44.000Z"
-      },
-      {
         "time": "22:48",
         "title": "岩手のクマ5200頭か 推定数大幅増",
         "source": "Yahoo!ニュース",
@@ -170,11 +163,11 @@
         "publishedAt": "2026-06-12T13:48:22.000Z"
       },
       {
-        "time": "16:48",
-        "title": "1票差の町長選 点検で当落逆転",
+        "time": "10:19",
+        "title": "横断歩道で16歳はねられ死亡 宮城",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6583976?source=rss",
-        "publishedAt": "2026-06-12T07:48:32.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584055?source=rss",
+        "publishedAt": "2026-06-13T01:19:16.000Z"
       },
       {
         "time": "18:38",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583947?source=rss",
         "publishedAt": "2026-06-12T03:31:20.000Z"
+      },
+      {
+        "time": "10:18",
+        "title": "宇都宮にクマ「予言」した専門家",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584054?source=rss",
+        "publishedAt": "2026-06-13T01:18:17.000Z"
       }
     ],
     "subsidyHeadlines": [
