@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T22:57:34.751Z",
+  "updatedAt": "2026-06-13T23:32:18.582Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "08:28",
+        "title": "エネ供給網を強化 日英首脳宣言へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584151?source=rss",
+        "publishedAt": "2026-06-13T23:28:02.000Z"
+      },
+      {
         "time": "22:09",
         "title": "米イラン 戦闘終結へ合意間近か",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584108?source=rss",
         "publishedAt": "2026-06-13T09:30:51.000Z"
-      },
-      {
-        "time": "23:16",
-        "title": "韓国 TPP加盟申請の方針固める",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584030?source=rss",
-        "publishedAt": "2026-06-12T14:16:09.000Z"
       },
       {
         "time": "15:32",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-06-13T04:36:54.000Z"
       },
       {
+        "time": "08:24",
+        "title": "想定外の事態 実習生が長期療養に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584149?source=rss",
+        "publishedAt": "2026-06-13T23:24:14.000Z"
+      },
+      {
         "time": "23:25",
         "title": "川遊びで流され死亡 男子中学生か",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584122?source=rss",
         "publishedAt": "2026-06-13T11:57:27.000Z"
-      },
-      {
-        "time": "07:21",
-        "title": "500万円入りバッグ奪われる 大阪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584143?source=rss",
-        "publishedAt": "2026-06-13T22:21:06.000Z"
       }
     ],
     "subsidyHeadlines": [

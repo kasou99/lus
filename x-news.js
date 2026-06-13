@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-13T22:57:35.519Z",
+  "updatedAt": "2026-06-13T23:32:19.698Z",
   "items": [
+    {
+      "time": "08:28",
+      "title": "エネ供給網を強化 日英首脳宣言へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584151?source=rss",
+      "publishedAt": "2026-06-13T23:28:02.000Z",
+      "xQuery": "エネ供給網を強化 日英首脳宣言へ"
+    },
     {
       "time": "22:09",
       "title": "米イラン 戦闘終結へ合意間近か",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン 戦闘終結へ合意間近か"
     },
     {
-      "time": "22:16",
-      "title": "AI企業幹部 G7サミットに集結へ",
+      "time": "07:55",
+      "title": "本田太郎議員事務所に車突っ込む",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584128?source=rss",
-      "publishedAt": "2026-06-13T13:16:21.000Z",
-      "xQuery": "AI企業幹部 G7サミットに集結へ"
-    },
-    {
-      "time": "23:25",
-      "title": "川遊びで流され死亡 男子中学生か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584140?source=rss",
-      "publishedAt": "2026-06-13T14:25:09.000Z",
-      "xQuery": "川遊びで流され死亡 男子中学生か"
+      "url": "https://news.yahoo.co.jp/pickup/6584147?source=rss",
+      "publishedAt": "2026-06-13T22:55:25.000Z",
+      "xQuery": "本田太郎議員事務所に車突っ込む"
     },
     {
       "time": "07:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "500万円入りバッグ奪われる 大阪"
     },
     {
-      "time": "20:29",
-      "title": "DAZNが謝罪「月980円」表示巡り",
+      "time": "08:22",
+      "title": "19週目で死産 心支えたぬいぐるみ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584119?source=rss",
-      "publishedAt": "2026-06-13T11:29:40.000Z",
-      "xQuery": "DAZNが謝罪「月980円」表示巡り"
+      "url": "https://news.yahoo.co.jp/pickup/6584150?source=rss",
+      "publishedAt": "2026-06-13T23:22:03.000Z",
+      "xQuery": "19週目で死産 心支えたぬいぐるみ"
     }
   ]
 };
