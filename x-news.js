@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-13T11:41:55.412Z",
+  "updatedAt": "2026-06-13T12:48:21.950Z",
   "items": [
     {
       "time": "18:28",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "副首都法案 官邸と自民内に温度差"
     },
     {
-      "time": "18:59",
-      "title": "物価高 難病患者にはさらに重く",
+      "time": "19:31",
+      "title": "消費税1%で農家の手取り減 試算",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584109?source=rss",
-      "publishedAt": "2026-06-13T09:59:34.000Z",
-      "xQuery": "物価高 難病患者にはさらに重く"
+      "url": "https://news.yahoo.co.jp/pickup/6584112?source=rss",
+      "publishedAt": "2026-06-13T10:31:04.000Z",
+      "xQuery": "消費税1%で農家の手取り減 試算"
     },
     {
-      "time": "20:03",
-      "title": "川遊びしていた少年溺れる 重体",
+      "time": "20:57",
+      "title": "全身焼けた遺体 草燃やしていたか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584115?source=rss",
-      "publishedAt": "2026-06-13T11:03:19.000Z",
-      "xQuery": "川遊びしていた少年溺れる 重体"
+      "url": "https://news.yahoo.co.jp/pickup/6584122?source=rss",
+      "publishedAt": "2026-06-13T11:57:27.000Z",
+      "xQuery": "全身焼けた遺体 草燃やしていたか"
     },
     {
-      "time": "17:01",
-      "title": "LUUP運転の男性死亡 事故原因は",
+      "time": "20:35",
+      "title": "セブン「納品ルール変更」なぜ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584094?source=rss",
-      "publishedAt": "2026-06-13T08:01:25.000Z",
-      "xQuery": "LUUP運転の男性死亡 事故原因は"
+      "url": "https://news.yahoo.co.jp/pickup/6584118?source=rss",
+      "publishedAt": "2026-06-13T11:35:55.000Z",
+      "xQuery": "セブン「納品ルール変更」なぜ"
     },
     {
-      "time": "20:29",
-      "title": "DAZNが謝罪「月980円」表示巡り",
+      "time": "21:35",
+      "title": "朝ラッシュ時バス故障 全員が降車",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584119?source=rss",
-      "publishedAt": "2026-06-13T11:29:40.000Z",
-      "xQuery": "DAZNが謝罪「月980円」表示巡り"
+      "url": "https://news.yahoo.co.jp/pickup/6584125?source=rss",
+      "publishedAt": "2026-06-13T12:35:25.000Z",
+      "xQuery": "朝ラッシュ時バス故障 全員が降車"
     }
   ]
 };

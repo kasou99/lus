@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T11:41:54.810Z",
+  "updatedAt": "2026-06-13T12:48:21.157Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-06-13T04:36:54.000Z"
       },
       {
+        "time": "20:57",
+        "title": "全身焼けた遺体 草燃やしていたか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584122?source=rss",
+        "publishedAt": "2026-06-13T11:57:27.000Z"
+      },
+      {
         "time": "17:01",
         "title": "LUUP運転の男性死亡 事故原因は",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584115?source=rss",
         "publishedAt": "2026-06-13T11:03:19.000Z"
-      },
-      {
-        "time": "15:27",
-        "title": "街頭インタ動画で中傷被害 提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584083?source=rss",
-        "publishedAt": "2026-06-13T06:27:53.000Z"
       }
     ],
     "subsidyHeadlines": [
