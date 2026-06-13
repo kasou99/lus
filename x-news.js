@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-13T01:30:55.405Z",
+  "updatedAt": "2026-06-13T03:19:08.721Z",
   "items": [
     {
-      "time": "09:05",
-      "title": "学生寮運営JSBを買収 米投資会社",
+      "time": "11:07",
+      "title": "Anthropic ミュトス級AI提供停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584041?source=rss",
-      "publishedAt": "2026-06-13T00:05:00.000Z",
-      "xQuery": "学生寮運営JSBを買収 米投資会社"
+      "url": "https://news.yahoo.co.jp/pickup/6584060?source=rss",
+      "publishedAt": "2026-06-13T02:07:22.000Z",
+      "xQuery": "Anthropic ミュトス級AI提供停止"
     },
     {
       "time": "09:41",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スペースX 従業員がミリオネアに"
     },
     {
-      "time": "08:01",
-      "title": "ふるさと納税863億円赤字 24年度",
+      "time": "11:54",
+      "title": "宇都宮にクマ「予言」の識者警鐘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584038?source=rss",
-      "publishedAt": "2026-06-12T23:01:49.000Z",
-      "xQuery": "ふるさと納税863億円赤字 24年度"
+      "url": "https://news.yahoo.co.jp/pickup/6584064?source=rss",
+      "publishedAt": "2026-06-13T02:54:33.000Z",
+      "xQuery": "宇都宮にクマ「予言」の識者警鐘"
     },
     {
-      "time": "10:13",
-      "title": "廃墟百貨店 蘇らせた電気工事会社",
+      "time": "11:53",
+      "title": "東京都心の空に現象「ハロ」出現",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584053?source=rss",
-      "publishedAt": "2026-06-13T01:13:36.000Z",
-      "xQuery": "廃墟百貨店 蘇らせた電気工事会社"
+      "url": "https://news.yahoo.co.jp/pickup/6584061?source=rss",
+      "publishedAt": "2026-06-13T02:53:05.000Z",
+      "xQuery": "東京都心の空に現象「ハロ」出現"
     }
   ]
 };
