@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-13T03:19:08.721Z",
+  "updatedAt": "2026-06-13T05:03:53.803Z",
   "items": [
     {
-      "time": "11:07",
-      "title": "Anthropic ミュトス級AI提供停止",
+      "time": "12:46",
+      "title": "米イラン表明 覚書「近日署名」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584060?source=rss",
-      "publishedAt": "2026-06-13T02:07:22.000Z",
-      "xQuery": "Anthropic ミュトス級AI提供停止"
+      "url": "https://news.yahoo.co.jp/pickup/6584069?source=rss",
+      "publishedAt": "2026-06-13T03:46:52.000Z",
+      "xQuery": "米イラン表明 覚書「近日署名」"
     },
     {
-      "time": "09:41",
-      "title": "宮城周辺 800年前未知の大津波か",
+      "time": "12:52",
+      "title": "首相がG7へ 英伊首脳と会談予定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584050?source=rss",
-      "publishedAt": "2026-06-13T00:41:38.000Z",
-      "xQuery": "宮城周辺 800年前未知の大津波か"
+      "url": "https://news.yahoo.co.jp/pickup/6584070?source=rss",
+      "publishedAt": "2026-06-13T03:52:17.000Z",
+      "xQuery": "首相がG7へ 英伊首脳と会談予定"
     },
     {
-      "time": "09:35",
-      "title": "スペースX 従業員がミリオネアに",
+      "time": "10:19",
+      "title": "横断歩道で16歳はねられ死亡 宮城",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584048?source=rss",
-      "publishedAt": "2026-06-13T00:35:25.000Z",
-      "xQuery": "スペースX 従業員がミリオネアに"
+      "url": "https://news.yahoo.co.jp/pickup/6584055?source=rss",
+      "publishedAt": "2026-06-13T01:19:16.000Z",
+      "xQuery": "横断歩道で16歳はねられ死亡 宮城"
     },
     {
-      "time": "11:54",
-      "title": "宇都宮にクマ「予言」の識者警鐘",
+      "time": "13:36",
+      "title": "赤い羽根募金1億円使途不明 札幌",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584064?source=rss",
-      "publishedAt": "2026-06-13T02:54:33.000Z",
-      "xQuery": "宇都宮にクマ「予言」の識者警鐘"
+      "url": "https://news.yahoo.co.jp/pickup/6584075?source=rss",
+      "publishedAt": "2026-06-13T04:36:54.000Z",
+      "xQuery": "赤い羽根募金1億円使途不明 札幌"
     },
     {
-      "time": "11:53",
-      "title": "東京都心の空に現象「ハロ」出現",
+      "time": "12:04",
+      "title": "炭酸飲料に異変 真逆の商品に注目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584061?source=rss",
-      "publishedAt": "2026-06-13T02:53:05.000Z",
-      "xQuery": "東京都心の空に現象「ハロ」出現"
+      "url": "https://news.yahoo.co.jp/pickup/6584062?source=rss",
+      "publishedAt": "2026-06-13T03:04:38.000Z",
+      "xQuery": "炭酸飲料に異変 真逆の商品に注目"
     }
   ]
 };
