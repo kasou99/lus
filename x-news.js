@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-12T23:01:25.978Z",
+  "updatedAt": "2026-06-13T00:02:55.658Z",
   "items": [
     {
-      "time": "22:40",
-      "title": "クールジャパン機構廃止案 検討へ",
+      "time": "08:27",
+      "title": "重要鉱物備蓄G7連携 首相提唱へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584022?source=rss",
-      "publishedAt": "2026-06-12T13:40:30.000Z",
-      "xQuery": "クールジャパン機構廃止案 検討へ"
+      "url": "https://news.yahoo.co.jp/pickup/6584040?source=rss",
+      "publishedAt": "2026-06-12T23:27:34.000Z",
+      "xQuery": "重要鉱物備蓄G7連携 首相提唱へ"
     },
     {
-      "time": "23:16",
-      "title": "韓国 TPP加盟申請の方針固める",
+      "time": "08:45",
+      "title": "米イラン 署名へ詰めの調整か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584030?source=rss",
-      "publishedAt": "2026-06-12T14:16:09.000Z",
-      "xQuery": "韓国 TPP加盟申請の方針固める"
-    },
-    {
-      "time": "21:10",
-      "title": "3年半意識不明 タイ王女が死去",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584013?source=rss",
-      "publishedAt": "2026-06-12T12:10:38.000Z",
-      "xQuery": "3年半意識不明 タイ王女が死去"
+      "url": "https://news.yahoo.co.jp/pickup/6584045?source=rss",
+      "publishedAt": "2026-06-12T23:45:14.000Z",
+      "xQuery": "米イラン 署名へ詰めの調整か"
     },
     {
       "time": "07:21",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "マスク氏 世界初の「兆万長者」に"
     },
     {
-      "time": "23:03",
-      "title": "モスが詐欺広告に注意喚起 丸亀も",
+      "time": "08:01",
+      "title": "ふるさと納税863億円赤字 24年度",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584028?source=rss",
-      "publishedAt": "2026-06-12T14:03:29.000Z",
-      "xQuery": "モスが詐欺広告に注意喚起 丸亀も"
+      "url": "https://news.yahoo.co.jp/pickup/6584038?source=rss",
+      "publishedAt": "2026-06-12T23:01:49.000Z",
+      "xQuery": "ふるさと納税863億円赤字 24年度"
+    },
+    {
+      "time": "07:43",
+      "title": "クマと軽が衝突し運転手搬送 宮城",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584036?source=rss",
+      "publishedAt": "2026-06-12T22:43:09.000Z",
+      "xQuery": "クマと軽が衝突し運転手搬送 宮城"
     }
   ]
 };
