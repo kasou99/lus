@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-13T05:03:53.803Z",
+  "updatedAt": "2026-06-13T06:51:03.444Z",
   "items": [
     {
-      "time": "12:46",
-      "title": "米イラン表明 覚書「近日署名」",
+      "time": "15:32",
+      "title": "米軍 ベネズエラ犯罪組織幹部殺害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584069?source=rss",
-      "publishedAt": "2026-06-13T03:46:52.000Z",
-      "xQuery": "米イラン表明 覚書「近日署名」"
+      "url": "https://news.yahoo.co.jp/pickup/6584082?source=rss",
+      "publishedAt": "2026-06-13T06:32:30.000Z",
+      "xQuery": "米軍 ベネズエラ犯罪組織幹部殺害"
     },
     {
-      "time": "12:52",
-      "title": "首相がG7へ 英伊首脳と会談予定",
+      "time": "14:22",
+      "title": "異常現象 北大西洋「冷たい斑点」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584070?source=rss",
-      "publishedAt": "2026-06-13T03:52:17.000Z",
-      "xQuery": "首相がG7へ 英伊首脳と会談予定"
+      "url": "https://news.yahoo.co.jp/pickup/6584076?source=rss",
+      "publishedAt": "2026-06-13T05:22:14.000Z",
+      "xQuery": "異常現象 北大西洋「冷たい斑点」"
     },
     {
-      "time": "10:19",
-      "title": "横断歩道で16歳はねられ死亡 宮城",
+      "time": "15:27",
+      "title": "街頭インタ動画で中傷被害 提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584055?source=rss",
-      "publishedAt": "2026-06-13T01:19:16.000Z",
-      "xQuery": "横断歩道で16歳はねられ死亡 宮城"
+      "url": "https://news.yahoo.co.jp/pickup/6584083?source=rss",
+      "publishedAt": "2026-06-13T06:27:53.000Z",
+      "xQuery": "街頭インタ動画で中傷被害 提訴"
     },
     {
-      "time": "13:36",
-      "title": "赤い羽根募金1億円使途不明 札幌",
+      "time": "14:32",
+      "title": "物件高×金利高 ローンの地殻変動",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584075?source=rss",
-      "publishedAt": "2026-06-13T04:36:54.000Z",
-      "xQuery": "赤い羽根募金1億円使途不明 札幌"
+      "url": "https://news.yahoo.co.jp/pickup/6584079?source=rss",
+      "publishedAt": "2026-06-13T05:32:11.000Z",
+      "xQuery": "物件高×金利高 ローンの地殻変動"
     },
     {
-      "time": "12:04",
-      "title": "炭酸飲料に異変 真逆の商品に注目",
+      "time": "15:11",
+      "title": "「中本」のため退職 毎日通う56歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584062?source=rss",
-      "publishedAt": "2026-06-13T03:04:38.000Z",
-      "xQuery": "炭酸飲料に異変 真逆の商品に注目"
+      "url": "https://news.yahoo.co.jp/pickup/6584081?source=rss",
+      "publishedAt": "2026-06-13T06:11:23.000Z",
+      "xQuery": "「中本」のため退職 毎日通う56歳"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T05:03:52.740Z",
+  "updatedAt": "2026-06-13T06:51:02.346Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,20 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43V3pJVEVSR0ZyY1BnaEgtM0dodHBneVNGcHdQbEFxTVpMUFFrUUZlQjJmTzZOQ2dVbGl2WXAwalNBekJnYkRhY2dCaC04V3BSSk9JT3B6UXBaZGc?oc=5",
         "publishedAt": "2026-06-12T22:15:16.000Z"
+      },
+      {
+        "time": "14:30",
+        "title": "リニアガイド（ペア）の世界市場（2026年～2032年）、市場規模（ボール式、ローラー式）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tSGtpOUg0LVpRUml4TmZiWldCY1FuRnFkMEc0VmhQclYyYnZiQzJveWNYWmJ5OGhXSk1sOWJRZVVleVBYLUV0Y3ptMkFQRWs?oc=5",
+        "publishedAt": "2026-06-13T05:30:00.000Z"
+      },
+      {
+        "time": "12:28",
+        "title": "小型MCで多品種少量生産の自動化を／三和ロボティクス",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MWjdrRW5FZFdIRnVOaHl5eG5QcUlwM2lXWHpGdTZpZDBuX2VIdUNUaXFGbzFVSWRjcXJtVDVRaHRSQ0VzWkpCVXIwWHh4Vm9NNlZsa2ZsTHpyZDJRempqaHo1cDFqZHZCcjFvc3ViUXhSX3Nsc3RPNQ?oc=5",
+        "publishedAt": "2026-06-13T03:28:42.000Z"
       },
       {
         "time": "10:04",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-06-12T21:15:20.000Z"
       },
       {
-        "time": "14:34",
-        "title": "初の研究施設７月稼働、安田工業 工作機械の性能向上探る",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMMXBlX0VqeTUxRWtIeDRLY2t3MGhKdHRGWExBWFNXWExJQ2JMTkVZejVEZG1CR3VQcklhcDFNcnMwRzUwY0VIQkp2MzJVMGxtUzZkS1pVa0ZsMlc2Z0FJeGtjemFmWWs?oc=5",
-        "publishedAt": "2026-06-12T05:34:49.000Z"
-      },
-      {
         "time": "05:11",
         "title": "傍らのひと （２３） 最先端科学を技術で後押し 大塚美智夫（おおつか・みちお）さん 極限の精度、職人技で 研究学園都市の町工場",
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1STDBtQkEtTUZBUVBTdWFlUHJGRkxUbjIzNG4xdUNIampxbHJHQ3piVDVIYzVIdy1kb2o4MktMRXBUYUJ0Sng0TzMzNlY4ZXRtMGVqakZ3dm1WQkNwRlp4TXJwdktyMXVIUVU3ei0zSHZKUU0?oc=5",
         "publishedAt": "2026-06-12T20:11:40.000Z"
-      },
-      {
-        "time": "05:25",
-        "title": "「日本一ものづくり県」滋賀の製造業揺るがしかねない人手不足 AIが解決？でも利活用できる人材が不足",
-        "source": "京都新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9penVYQ1k4Q3JiV1QySXdheDZYdmNNUWlxNi1uWVFyWVJBQ3dfRVhmZ0d3NUtBcGZkSzRJS1pOQWw1ZFI0YThCNURCTl9HaUlKQ01ZX0QxZnk?oc=5",
-        "publishedAt": "2026-06-12T20:25:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,18 +68,18 @@
         "publishedAt": "2026-06-13T03:46:52.000Z"
       },
       {
-        "time": "21:11",
-        "title": "米イラン覚書に海峡開放 内容報道",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584012?source=rss",
-        "publishedAt": "2026-06-12T12:11:25.000Z"
-      },
-      {
         "time": "23:16",
         "title": "韓国 TPP加盟申請の方針固める",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584030?source=rss",
         "publishedAt": "2026-06-12T14:16:09.000Z"
+      },
+      {
+        "time": "15:32",
+        "title": "米軍 ベネズエラ犯罪組織幹部殺害",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584082?source=rss",
+        "publishedAt": "2026-06-13T06:32:30.000Z"
       },
       {
         "time": "21:10",
@@ -105,11 +105,18 @@
     ],
     "economyHeadlines": [
       {
-        "time": "23:25",
-        "title": "スペースX 米ナスダックに上場",
+        "time": "14:32",
+        "title": "物件高×金利高 ローンの地殻変動",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584031?source=rss",
-        "publishedAt": "2026-06-12T14:25:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584079?source=rss",
+        "publishedAt": "2026-06-13T05:32:11.000Z"
+      },
+      {
+        "time": "08:57",
+        "title": "過熱する不動産市況 不気味な兆候",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584044?source=rss",
+        "publishedAt": "2026-06-12T23:57:49.000Z"
       },
       {
         "time": "07:21",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584048?source=rss",
         "publishedAt": "2026-06-13T00:35:25.000Z"
-      },
-      {
-        "time": "08:57",
-        "title": "過熱する不動産市況 不気味な兆候",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584044?source=rss",
-        "publishedAt": "2026-06-12T23:57:49.000Z"
       },
       {
         "time": "12:04",
@@ -170,18 +170,18 @@
         "publishedAt": "2026-06-12T03:31:20.000Z"
       },
       {
+        "time": "15:27",
+        "title": "街頭インタ動画で中傷被害 提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584083?source=rss",
+        "publishedAt": "2026-06-13T06:27:53.000Z"
+      },
+      {
         "time": "07:43",
         "title": "クマと軽が衝突し運転手搬送 宮城",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584036?source=rss",
         "publishedAt": "2026-06-12T22:43:09.000Z"
-      },
-      {
-        "time": "22:48",
-        "title": "岩手のクマ5200頭か 推定数大幅増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584026?source=rss",
-        "publishedAt": "2026-06-12T13:48:22.000Z"
       },
       {
         "time": "11:54",
