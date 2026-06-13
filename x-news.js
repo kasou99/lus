@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-13T12:48:21.950Z",
+  "updatedAt": "2026-06-13T13:40:04.539Z",
   "items": [
     {
-      "time": "18:28",
-      "title": "副首都法案 官邸と自民内に温度差",
+      "time": "22:09",
+      "title": "米イラン 戦闘終結へ合意間近か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584106?source=rss",
-      "publishedAt": "2026-06-13T09:28:27.000Z",
-      "xQuery": "副首都法案 官邸と自民内に温度差"
+      "url": "https://news.yahoo.co.jp/pickup/6584127?source=rss",
+      "publishedAt": "2026-06-13T13:09:21.000Z",
+      "xQuery": "米イラン 戦闘終結へ合意間近か"
     },
     {
-      "time": "19:31",
-      "title": "消費税1%で農家の手取り減 試算",
+      "time": "22:16",
+      "title": "AI企業幹部 G7サミットに集結へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584112?source=rss",
-      "publishedAt": "2026-06-13T10:31:04.000Z",
-      "xQuery": "消費税1%で農家の手取り減 試算"
+      "url": "https://news.yahoo.co.jp/pickup/6584128?source=rss",
+      "publishedAt": "2026-06-13T13:16:21.000Z",
+      "xQuery": "AI企業幹部 G7サミットに集結へ"
     },
     {
       "time": "20:57",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "全身焼けた遺体 草燃やしていたか"
     },
     {
-      "time": "20:35",
-      "title": "セブン「納品ルール変更」なぜ",
+      "time": "20:29",
+      "title": "DAZNが謝罪「月980円」表示巡り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584118?source=rss",
-      "publishedAt": "2026-06-13T11:35:55.000Z",
-      "xQuery": "セブン「納品ルール変更」なぜ"
+      "url": "https://news.yahoo.co.jp/pickup/6584119?source=rss",
+      "publishedAt": "2026-06-13T11:29:40.000Z",
+      "xQuery": "DAZNが謝罪「月980円」表示巡り"
     },
     {
-      "time": "21:35",
-      "title": "朝ラッシュ時バス故障 全員が降車",
+      "time": "17:48",
+      "title": "もっちゅりん人気過熱 店舗の様子",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584125?source=rss",
-      "publishedAt": "2026-06-13T12:35:25.000Z",
-      "xQuery": "朝ラッシュ時バス故障 全員が降車"
+      "url": "https://news.yahoo.co.jp/pickup/6584100?source=rss",
+      "publishedAt": "2026-06-13T08:48:18.000Z",
+      "xQuery": "もっちゅりん人気過熱 店舗の様子"
     }
   ]
 };

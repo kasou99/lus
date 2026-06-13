@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-13T12:48:21.157Z",
+  "updatedAt": "2026-06-13T13:40:03.960Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "22:02",
+        "title": "オーエム製作所、米中向け立旋盤増産 長岡に投資",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RTlBLeHU1ZVNWWlNoSjJJMXRCaXp1NmQ3TDJWUlBrVTlKcV9yVzZGQkFfeG0yOVN2M3I5RW1RWjV2UEhtYVdNb0lkQ1NpbjhrQkJpRVM1NEZId3c?oc=5",
+        "publishedAt": "2026-06-13T13:02:00.000Z"
+      },
       {
         "time": "09:00",
         "title": "中国の補助金投入で｢工作機械の常識｣が変わった 日工会･稲葉会長が語った\"ものづくりの未来\" 3ページ目 | ビジネス",
@@ -31,6 +38,13 @@
         "publishedAt": "2026-06-13T01:04:49.000Z"
       },
       {
+        "time": "23:40",
+        "title": "作業着を“世界にひとつだけの職人デニム”に育てる「職人デニムプロジェクト」始動",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1scXRKTERIMTJwSzNRVEtYRjRzVVVjT2pKdURNS2x6X1ZkcTZPdVE5Si1qM2JRUTNjUThrclJhSkc1OGo0ZGEyNUQxYlNHb2VQbUt1WEtSRWE5bi1MM014VWNOSFZ4TFdicEZn?oc=5",
+        "publishedAt": "2026-06-12T14:40:00.000Z"
+      },
+      {
         "time": "12:28",
         "title": "小型MCで多品種少量生産の自動化を／三和ロボティクス",
         "source": "robot digest",
@@ -43,23 +57,16 @@
         "source": "ニュースイッチ by 日刊工業新聞社",
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5PaHByamlXR3JvRzVNMExIUjAxbU5MajZVVmg0US1NZU5Xc1pRZHBxTURuMlhmd3gxbmZHdE5NRHRPQQ?oc=5",
         "publishedAt": "2026-06-12T21:15:20.000Z"
-      },
-      {
-        "time": "22:10",
-        "title": "設備保全AIエージェント『EMLink Intelligence』を大幅アップデート - 複雑なタスクの自律実行に加え、自社のナレッジで「専用RAG」を最短1分で構築できる機能を搭載",
-        "source": "RBB TODAY",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3ZHltc2J0bjFMTXB0SE91QUFJNEdsa1FoQXpTaEVDdms4RlpEQU1STjBlRVlqS1RVc3lUM0lDOFN5V0t1aHVtSDA5aVp2SkF3a0UyZ1p4VFczSmptUzhaNV91SEJsUUN6eDZBM0I4NkZWRGxfbktvbQ?oc=5",
-        "publishedAt": "2026-06-12T13:10:02.000Z"
-      },
-      {
-        "time": "05:11",
-        "title": "傍らのひと （２３） 最先端科学を技術で後押し 大塚美智夫（おおつか・みちお）さん 極限の精度、職人技で 研究学園都市の町工場",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1STDBtQkEtTUZBUVBTdWFlUHJGRkxUbjIzNG4xdUNIampxbHJHQ3piVDVIYzVIdy1kb2o4MktMRXBUYUJ0Sng0TzMzNlY4ZXRtMGVqakZ3dm1WQkNwRlp4TXJwdktyMXVIUVU3ei0zSHZKUU0?oc=5",
-        "publishedAt": "2026-06-12T20:11:40.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "22:09",
+        "title": "米イラン 戦闘終結へ合意間近か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584127?source=rss",
+        "publishedAt": "2026-06-13T13:09:21.000Z"
+      },
       {
         "time": "17:44",
         "title": "ウクライナ戦況好転 露の侵略停滞",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584108?source=rss",
         "publishedAt": "2026-06-13T09:30:51.000Z"
-      },
-      {
-        "time": "12:46",
-        "title": "米イラン表明 覚書「近日署名」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584069?source=rss",
-        "publishedAt": "2026-06-13T03:46:52.000Z"
       },
       {
         "time": "23:16",
