@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T06:51:02.346Z",
+  "updatedAt": "2026-06-13T08:11:29.663Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "16:08",
+        "title": "家計株資産500兆円超 NISA後押し",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584086?source=rss",
+        "publishedAt": "2026-06-13T07:08:48.000Z"
+      },
+      {
         "time": "14:32",
         "title": "物件高×金利高 ローンの地殻変動",
         "source": "Yahoo!ニュース",
@@ -119,11 +126,11 @@
         "publishedAt": "2026-06-12T23:57:49.000Z"
       },
       {
-        "time": "07:21",
-        "title": "マスク氏 世界初の「兆万長者」に",
+        "time": "16:21",
+        "title": "ウーバー 日本の配車で初の首位に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584035?source=rss",
-        "publishedAt": "2026-06-12T22:21:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584087?source=rss",
+        "publishedAt": "2026-06-13T07:21:12.000Z"
       },
       {
         "time": "09:35",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584062?source=rss",
         "publishedAt": "2026-06-13T03:04:38.000Z"
-      },
-      {
-        "time": "10:23",
-        "title": "生保レディー改め ソナエルジュ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584052?source=rss",
-        "publishedAt": "2026-06-13T01:23:03.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584075?source=rss",
         "publishedAt": "2026-06-13T04:36:54.000Z"
+      },
+      {
+        "time": "17:01",
+        "title": "LUUP運転の男性死亡 事故原因は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584094?source=rss",
+        "publishedAt": "2026-06-13T08:01:25.000Z"
       },
       {
         "time": "10:19",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584036?source=rss",
         "publishedAt": "2026-06-12T22:43:09.000Z"
-      },
-      {
-        "time": "11:54",
-        "title": "宇都宮にクマ「予言」の識者警鐘",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584064?source=rss",
-        "publishedAt": "2026-06-13T02:54:33.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-13T06:51:03.444Z",
+  "updatedAt": "2026-06-13T08:11:30.884Z",
   "items": [
+    {
+      "time": "16:43",
+      "title": "内閣支持率 不安要素は中東情勢か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584091?source=rss",
+      "publishedAt": "2026-06-13T07:43:18.000Z",
+      "xQuery": "内閣支持率 不安要素は中東情勢か"
+    },
     {
       "time": "15:32",
       "title": "米軍 ベネズエラ犯罪組織幹部殺害",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米軍 ベネズエラ犯罪組織幹部殺害"
     },
     {
+      "time": "16:08",
+      "title": "家計株資産500兆円超 NISA後押し",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584086?source=rss",
+      "publishedAt": "2026-06-13T07:08:48.000Z",
+      "xQuery": "家計株資産500兆円超 NISA後押し"
+    },
+    {
+      "time": "17:01",
+      "title": "LUUP運転の男性死亡 事故原因は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584094?source=rss",
+      "publishedAt": "2026-06-13T08:01:25.000Z",
+      "xQuery": "LUUP運転の男性死亡 事故原因は"
+    },
+    {
       "time": "14:22",
       "title": "異常現象 北大西洋「冷たい斑点」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6584076?source=rss",
       "publishedAt": "2026-06-13T05:22:14.000Z",
       "xQuery": "異常現象 北大西洋「冷たい斑点」"
-    },
-    {
-      "time": "15:27",
-      "title": "街頭インタ動画で中傷被害 提訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584083?source=rss",
-      "publishedAt": "2026-06-13T06:27:53.000Z",
-      "xQuery": "街頭インタ動画で中傷被害 提訴"
-    },
-    {
-      "time": "14:32",
-      "title": "物件高×金利高 ローンの地殻変動",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584079?source=rss",
-      "publishedAt": "2026-06-13T05:32:11.000Z",
-      "xQuery": "物件高×金利高 ローンの地殻変動"
-    },
-    {
-      "time": "15:11",
-      "title": "「中本」のため退職 毎日通う56歳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584081?source=rss",
-      "publishedAt": "2026-06-13T06:11:23.000Z",
-      "xQuery": "「中本」のため退職 毎日通う56歳"
     }
   ]
 };
