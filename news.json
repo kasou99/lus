@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T10:54:42.673Z",
+  "updatedAt": "2026-06-13T11:41:54.810Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-06-13T05:30:00.000Z"
       },
       {
-        "time": "12:28",
-        "title": "小型MCで多品種少量生産の自動化を／三和ロボティクス",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MWjdrRW5FZFdIRnVOaHl5eG5QcUlwM2lXWHpGdTZpZDBuX2VIdUNUaXFGbzFVSWRjcXJtVDVRaHRSQ0VzWkpCVXIwWHh4Vm9NNlZsa2ZsTHpyZDJRempqaHo1cDFqZHZCcjFvc3ViUXhSX3Nsc3RPNQ?oc=5",
-        "publishedAt": "2026-06-13T03:28:42.000Z"
-      },
-      {
         "time": "10:04",
         "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LNll1SHV3a09wLU9sNzFmY0VaSHVTLTVPellkM29uVi1mRGlpZnFjSEczZHNmZ0xXcWxlejduQmZsWGhoQWYyWWFNc005YkFtc3pOTGJ2M0R4X1RiT1B5Wkhn?oc=5",
         "publishedAt": "2026-06-13T01:04:49.000Z"
+      },
+      {
+        "time": "12:28",
+        "title": "小型MCで多品種少量生産の自動化を／三和ロボティクス",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MWjdrRW5FZFdIRnVOaHl5eG5QcUlwM2lXWHpGdTZpZDBuX2VIdUNUaXFGbzFVSWRjcXJtVDVRaHRSQ0VzWkpCVXIwWHh4Vm9NNlZsa2ZsTHpyZDJRempqaHo1cDFqZHZCcjFvc3ViUXhSX3Nsc3RPNQ?oc=5",
+        "publishedAt": "2026-06-13T03:28:42.000Z"
       },
       {
         "time": "06:15",
@@ -133,11 +133,11 @@
         "publishedAt": "2026-06-13T09:59:34.000Z"
       },
       {
-        "time": "17:16",
-        "title": "ぬい活業界 利益4年前から倍増",
+        "time": "20:35",
+        "title": "セブン「納品ルール変更」なぜ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584098?source=rss",
-        "publishedAt": "2026-06-13T08:16:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584118?source=rss",
+        "publishedAt": "2026-06-13T11:35:55.000Z"
       },
       {
         "time": "17:48",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-13T01:19:16.000Z"
       },
       {
+        "time": "20:03",
+        "title": "川遊びしていた少年溺れる 重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584115?source=rss",
+        "publishedAt": "2026-06-13T11:03:19.000Z"
+      },
+      {
         "time": "15:27",
         "title": "街頭インタ動画で中傷被害 提訴",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584083?source=rss",
         "publishedAt": "2026-06-13T06:27:53.000Z"
-      },
-      {
-        "time": "07:43",
-        "title": "クマと軽が衝突し運転手搬送 宮城",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584036?source=rss",
-        "publishedAt": "2026-06-12T22:43:09.000Z"
       }
     ],
     "subsidyHeadlines": [

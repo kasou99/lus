@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-13T10:54:43.819Z",
+  "updatedAt": "2026-06-13T11:41:55.412Z",
   "items": [
     {
-      "time": "17:44",
-      "title": "ウクライナ戦況好転 露の侵略停滞",
+      "time": "18:28",
+      "title": "副首都法案 官邸と自民内に温度差",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584101?source=rss",
-      "publishedAt": "2026-06-13T08:44:40.000Z",
-      "xQuery": "ウクライナ戦況好転 露の侵略停滞"
+      "url": "https://news.yahoo.co.jp/pickup/6584106?source=rss",
+      "publishedAt": "2026-06-13T09:28:27.000Z",
+      "xQuery": "副首都法案 官邸と自民内に温度差"
     },
     {
       "time": "18:59",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "物価高 難病患者にはさらに重く"
     },
     {
+      "time": "20:03",
+      "title": "川遊びしていた少年溺れる 重体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584115?source=rss",
+      "publishedAt": "2026-06-13T11:03:19.000Z",
+      "xQuery": "川遊びしていた少年溺れる 重体"
+    },
+    {
       "time": "17:01",
       "title": "LUUP運転の男性死亡 事故原因は",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "LUUP運転の男性死亡 事故原因は"
     },
     {
-      "time": "19:30",
-      "title": "手術で耳作った 疾患発信する女性",
+      "time": "20:29",
+      "title": "DAZNが謝罪「月980円」表示巡り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584113?source=rss",
-      "publishedAt": "2026-06-13T10:30:25.000Z",
-      "xQuery": "手術で耳作った 疾患発信する女性"
-    },
-    {
-      "time": "13:04",
-      "title": "「レアハンバーグ」炎上 店の現在",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584071?source=rss",
-      "publishedAt": "2026-06-13T04:04:35.000Z",
-      "xQuery": "「レアハンバーグ」炎上 店の現在"
+      "url": "https://news.yahoo.co.jp/pickup/6584119?source=rss",
+      "publishedAt": "2026-06-13T11:29:40.000Z",
+      "xQuery": "DAZNが謝罪「月980円」表示巡り"
     }
   ]
 };
