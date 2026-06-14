@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-14T21:34:42.166Z",
+  "updatedAt": "2026-06-14T22:32:43.301Z",
   "items": [
     {
-      "time": "06:29",
-      "title": "速報 日本がオランダにリード許す",
+      "time": "06:52",
+      "title": "米イラン 戦闘終結に「合意」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584268?source=rss",
-      "publishedAt": "2026-06-14T21:29:14.000Z",
-      "xQuery": "速報 日本がオランダにリード許す"
+      "url": "https://news.yahoo.co.jp/pickup/6584269?source=rss",
+      "publishedAt": "2026-06-14T21:52:09.000Z",
+      "xQuery": "米イラン 戦闘終結に「合意」"
     },
     {
       "time": "23:16",

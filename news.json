@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-14T21:34:41.175Z",
+  "updatedAt": "2026-06-14T22:32:42.705Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:00",
+        "title": "在任中に“トリプル”8000億円達成へ、DMG森精機社長の展望とは：FAインタビュー（1/2 ページ）",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ydWlxWDlYU1pON2dmVWJ2dnlKVTZwVGVhSnRZbXB5U0o4RXduMUdfVU5oMFh3T2ZQYW0xOElEb2xwRldENFRzTWIwZG9EWWxvRXB4Y3pzbmNBWTgzNDR2eVoxdTJzZ2U5Y0dTcWJNZw?oc=5",
+        "publishedAt": "2026-06-14T21:00:00.000Z"
+      },
       {
         "time": "15:16",
         "title": "オーエム製作所、米中向け立旋盤増産 長岡に投資",
@@ -50,22 +57,15 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584109?source=rss",
         "publishedAt": "2026-06-13T09:59:34.000Z"
-      },
-      {
-        "time": "20:45",
-        "title": "新神戸駅直結の巨大モール 廃墟化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584246?source=rss",
-        "publishedAt": "2026-06-14T11:45:04.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "19:34",
-        "title": "覚書締結後「海峡を即解放」草案",
+        "time": "06:52",
+        "title": "米イラン 戦闘終結に「合意」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584239?source=rss",
-        "publishedAt": "2026-06-14T10:34:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584269?source=rss",
+        "publishedAt": "2026-06-14T21:52:09.000Z"
       },
       {
         "time": "17:46",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-06-14T14:36:21.000Z"
       },
       {
+        "time": "07:24",
+        "title": "乗用車同士衝突 中高生ら8人けが",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584272?source=rss",
+        "publishedAt": "2026-06-14T22:24:48.000Z"
+      },
+      {
         "time": "21:27",
         "title": "素潜り漁の81歳死亡 海底で発見",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584193?source=rss",
         "publishedAt": "2026-06-14T04:35:06.000Z"
-      },
-      {
-        "time": "14:34",
-        "title": "ボビー容疑者逮捕 事実違うと否認",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584202?source=rss",
-        "publishedAt": "2026-06-14T05:34:25.000Z"
       }
     ],
     "subsidyHeadlines": [
