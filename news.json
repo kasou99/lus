@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T14:52:49.370Z",
+  "updatedAt": "2026-06-14T15:39:35.009Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83Q2Q4eGI2Wk9ucXlycEFka2JRemd4ZHVGcjNBWHZ0N0wyRE1HSV9aYUlNc0ZQOHhzb1ExMTFGZVZKOVljM1RB?oc=5",
         "publishedAt": "2026-06-14T03:30:00.000Z"
+      },
+      {
+        "time": "23:52",
+        "title": "上海レゴランドで「レゴ・フェスティバル」 W杯やF1の要素も",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GZ3pNY01BYktQZGxRN20tcFludEt0ZWxWakRYNVJNY2tGNlktXy1tOU12dTN5OHFUdHBqeFBIV2FMQ040bm9lVXI1dG5pUE9jaW5NdU9fajZrLXlSVVpyNDVsNDlfUzhUc1lIaXJMdGpGc1dDbnVNQU84cw?oc=5",
+        "publishedAt": "2026-06-14T14:52:19.000Z"
       },
       {
         "time": "15:16",
@@ -36,13 +43,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IbXRHQjktYWY2RTdvd0JVSkRiYjRqOE52MjloRUNOaENsaTlraHkxeDVhaUxrZFZEWnQ4enkxTVhoV3pKUk1qZDFzdzBpZ29XLXpMU3lENmE4X0ZZSEVaNlpjTjZ0TWV3a1k3SmpWZXNCUVlB?oc=5",
         "publishedAt": "2026-06-14T06:16:42.000Z"
-      },
-      {
-        "time": "03:21",
-        "title": "設備保全AIエージェント『EMLink Intelligence』を大幅アップデート - 複雑なタスクの自律実行に加え、自社のナレッジで「専用RAG」を最短1分で構築できる機能を搭載",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnY01LcDNMUmRoOW9zUXJIM0IyWW1saVVROVJ2REYySnlGcTRHX2tPZXcwNDJvY1FYX2dDbGRpZ195R3ZQejhXSFA0TVBTODMxMlB6MzhTdkk?oc=5",
-        "publishedAt": "2026-06-13T18:21:38.000Z"
       },
       {
         "time": "19:31",
