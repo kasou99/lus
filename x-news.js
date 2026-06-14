@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-14T20:36:23.084Z",
+  "updatedAt": "2026-06-14T21:34:42.166Z",
   "items": [
     {
-      "time": "04:49",
-      "title": "速報 森保ジャパンvs.オランダ",
+      "time": "06:29",
+      "title": "速報 日本がオランダにリード許す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584257?source=rss",
-      "publishedAt": "2026-06-14T19:49:25.000Z",
-      "xQuery": "速報 森保ジャパンvs.オランダ"
+      "url": "https://news.yahoo.co.jp/pickup/6584268?source=rss",
+      "publishedAt": "2026-06-14T21:29:14.000Z",
+      "xQuery": "速報 日本がオランダにリード許す"
     },
     {
       "time": "23:16",
