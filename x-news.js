@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-14T09:15:31.387Z",
+  "updatedAt": "2026-06-14T10:36:07.831Z",
   "items": [
     {
       "time": "17:24",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン覚書 オンライン署名計画"
     },
     {
-      "time": "16:59",
-      "title": "相模原殺害 女子高校生は窒息死",
+      "time": "18:29",
+      "title": "メキシコでまた市長殺害 抗争激化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584217?source=rss",
-      "publishedAt": "2026-06-14T07:59:19.000Z",
-      "xQuery": "相模原殺害 女子高校生は窒息死"
+      "url": "https://news.yahoo.co.jp/pickup/6584232?source=rss",
+      "publishedAt": "2026-06-14T09:29:57.000Z",
+      "xQuery": "メキシコでまた市長殺害 抗争激化"
     },
     {
-      "time": "15:30",
-      "title": "サブウェイ注文に賛否 運営元見解",
+      "time": "14:34",
+      "title": "ボビー容疑者逮捕 事実違うと否認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584209?source=rss",
-      "publishedAt": "2026-06-14T06:30:14.000Z",
-      "xQuery": "サブウェイ注文に賛否 運営元見解"
+      "url": "https://news.yahoo.co.jp/pickup/6584202?source=rss",
+      "publishedAt": "2026-06-14T05:34:25.000Z",
+      "xQuery": "ボビー容疑者逮捕 事実違うと否認"
     },
     {
-      "time": "17:00",
-      "title": "海岸に巨大ホース漂着 見物客続々",
+      "time": "18:22",
+      "title": "給食にカビ 保護者通知は3週間後",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584218?source=rss",
-      "publishedAt": "2026-06-14T08:00:12.000Z",
-      "xQuery": "海岸に巨大ホース漂着 見物客続々"
+      "url": "https://news.yahoo.co.jp/pickup/6584231?source=rss",
+      "publishedAt": "2026-06-14T09:22:21.000Z",
+      "xQuery": "給食にカビ 保護者通知は3週間後"
     },
     {
-      "time": "14:35",
-      "title": "自ら髪抜く抜毛症 告白女性の願い",
+      "time": "18:04",
+      "title": "増える「ホビ垢」女子 実態は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584201?source=rss",
-      "publishedAt": "2026-06-14T05:35:22.000Z",
-      "xQuery": "自ら髪抜く抜毛症 告白女性の願い"
+      "url": "https://news.yahoo.co.jp/pickup/6584224?source=rss",
+      "publishedAt": "2026-06-14T09:04:25.000Z",
+      "xQuery": "増える「ホビ垢」女子 実態は"
     }
   ]
 };
