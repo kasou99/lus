@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-14T10:36:07.831Z",
+  "updatedAt": "2026-06-14T11:44:55.486Z",
   "items": [
     {
-      "time": "17:24",
-      "title": "米イラン覚書 オンライン署名計画",
+      "time": "19:34",
+      "title": "覚書締結後「海峡を即解放」草案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584221?source=rss",
-      "publishedAt": "2026-06-14T08:24:32.000Z",
-      "xQuery": "米イラン覚書 オンライン署名計画"
+      "url": "https://news.yahoo.co.jp/pickup/6584239?source=rss",
+      "publishedAt": "2026-06-14T10:34:54.000Z",
+      "xQuery": "覚書締結後「海峡を即解放」草案"
     },
     {
-      "time": "18:29",
-      "title": "メキシコでまた市長殺害 抗争激化",
+      "time": "15:09",
+      "title": "弱冷車広がり 電車の快適な温度は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584232?source=rss",
-      "publishedAt": "2026-06-14T09:29:57.000Z",
-      "xQuery": "メキシコでまた市長殺害 抗争激化"
+      "url": "https://news.yahoo.co.jp/pickup/6584204?source=rss",
+      "publishedAt": "2026-06-14T06:09:29.000Z",
+      "xQuery": "弱冷車広がり 電車の快適な温度は"
     },
     {
       "time": "14:34",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ボビー容疑者逮捕 事実違うと否認"
     },
     {
-      "time": "18:22",
-      "title": "給食にカビ 保護者通知は3週間後",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584231?source=rss",
-      "publishedAt": "2026-06-14T09:22:21.000Z",
-      "xQuery": "給食にカビ 保護者通知は3週間後"
-    },
-    {
       "time": "18:04",
       "title": "増える「ホビ垢」女子 実態は",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6584224?source=rss",
       "publishedAt": "2026-06-14T09:04:25.000Z",
       "xQuery": "増える「ホビ垢」女子 実態は"
+    },
+    {
+      "time": "19:27",
+      "title": "DAZNの料金表示巡る炎上 続く訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584236?source=rss",
+      "publishedAt": "2026-06-14T10:27:48.000Z",
+      "xQuery": "DAZNの料金表示巡る炎上 続く訳"
     }
   ]
 };
