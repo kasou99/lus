@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-14T12:51:54.614Z",
+  "updatedAt": "2026-06-14T13:39:23.225Z",
   "items": [
     {
       "time": "21:12",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相「日英関係をもっと高みに」"
     },
     {
-      "time": "17:46",
-      "title": "米大統領に健康不安説 払拭に躍起",
+      "time": "22:11",
+      "title": "英文学者の小田島雄志さん死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584222?source=rss",
-      "publishedAt": "2026-06-14T08:46:06.000Z",
-      "xQuery": "米大統領に健康不安説 払拭に躍起"
+      "url": "https://news.yahoo.co.jp/pickup/6584254?source=rss",
+      "publishedAt": "2026-06-14T13:11:39.000Z",
+      "xQuery": "英文学者の小田島雄志さん死去"
     },
     {
       "time": "14:34",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ボビー容疑者逮捕 事実違うと否認"
     },
     {
-      "time": "21:27",
-      "title": "素潜り漁の81歳死亡 海底で発見",
+      "time": "22:20",
+      "title": "53年ぶりNBA優勝 ファンが暴徒化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584250?source=rss",
-      "publishedAt": "2026-06-14T12:27:11.000Z",
-      "xQuery": "素潜り漁の81歳死亡 海底で発見"
+      "url": "https://news.yahoo.co.jp/pickup/6584256?source=rss",
+      "publishedAt": "2026-06-14T13:20:09.000Z",
+      "xQuery": "53年ぶりNBA優勝 ファンが暴徒化"
     },
     {
-      "time": "20:45",
-      "title": "新神戸駅直結の巨大モール 廃墟化",
+      "time": "22:16",
+      "title": "ゴムボートが転覆 川で溺れ死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584246?source=rss",
-      "publishedAt": "2026-06-14T11:45:04.000Z",
-      "xQuery": "新神戸駅直結の巨大モール 廃墟化"
+      "url": "https://news.yahoo.co.jp/pickup/6584255?source=rss",
+      "publishedAt": "2026-06-14T13:16:13.000Z",
+      "xQuery": "ゴムボートが転覆 川で溺れ死亡"
     }
   ]
 };

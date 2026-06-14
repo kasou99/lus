@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T12:51:53.535Z",
+  "updatedAt": "2026-06-14T13:39:22.447Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-13T18:21:38.000Z"
       },
       {
-        "time": "22:00",
-        "title": "本田望結、美スタイルの秘訣！ピラティスの様子を公開",
-        "source": "WWSチャンネル",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX3RBMGJPTzNLTll0VnBLS242MzNnc3lkdWp5cE9VTGtOQVJMcVF1RS1RWW9KZzhLc1UzMGVNQkdzV08zWXhoNkM0VlhqT1lJY0pXVlN5MUg3Mm9JMzJXc1BOdGRjbEd5STR6U1pTLTZVVi1xeUFnaENyUHd3OFJyLVk0QQ?oc=5",
-        "publishedAt": "2026-06-13T13:00:00.000Z"
-      },
-      {
         "time": "19:31",
         "title": "消費税1%で農家の手取り減 試算",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584112?source=rss",
         "publishedAt": "2026-06-13T10:31:04.000Z"
+      },
+      {
+        "time": "18:59",
+        "title": "物価高 難病患者にはさらに重く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584109?source=rss",
+        "publishedAt": "2026-06-13T09:59:34.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,13 +66,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584239?source=rss",
         "publishedAt": "2026-06-14T10:34:54.000Z"
-      },
-      {
-        "time": "17:24",
-        "title": "米イラン覚書 オンライン署名計画",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584221?source=rss",
-        "publishedAt": "2026-06-14T08:24:32.000Z"
       },
       {
         "time": "17:46",
@@ -89,11 +82,18 @@
         "publishedAt": "2026-06-14T09:29:57.000Z"
       },
       {
-        "time": "14:24",
-        "title": "日英会談 別荘でなく英首相官邸で",
+        "time": "22:27",
+        "title": "英 露「影の船団」タンカーを拿捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584200?source=rss",
-        "publishedAt": "2026-06-14T05:24:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584253?source=rss",
+        "publishedAt": "2026-06-14T13:27:20.000Z"
+      },
+      {
+        "time": "22:20",
+        "title": "53年ぶりNBA優勝 ファンが暴徒化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584256?source=rss",
+        "publishedAt": "2026-06-14T13:20:09.000Z"
       },
       {
         "time": "13:56",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-14T12:27:11.000Z"
       },
       {
-        "time": "18:22",
-        "title": "給食にカビ 保護者通知は3週間後",
+        "time": "22:16",
+        "title": "ゴムボートが転覆 川で溺れ死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584231?source=rss",
-        "publishedAt": "2026-06-14T09:22:21.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584255?source=rss",
+        "publishedAt": "2026-06-14T13:16:13.000Z"
       }
     ],
     "subsidyHeadlines": [
