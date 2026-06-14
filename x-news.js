@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-14T19:37:28.277Z",
+  "updatedAt": "2026-06-14T20:36:23.084Z",
   "items": [
+    {
+      "time": "04:49",
+      "title": "速報 森保ジャパンvs.オランダ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584257?source=rss",
+      "publishedAt": "2026-06-14T19:49:25.000Z",
+      "xQuery": "速報 森保ジャパンvs.オランダ"
+    },
     {
       "time": "23:16",
       "title": "中国とモンゴル 軍国主義を非難",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584262?source=rss",
       "publishedAt": "2026-06-14T14:36:21.000Z",
       "xQuery": "車と別の車のドアに挟まれる 死亡"
-    },
-    {
-      "time": "23:47",
-      "title": "雑草食べるヤギ 市の経費30万円減",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584263?source=rss",
-      "publishedAt": "2026-06-14T14:47:37.000Z",
-      "xQuery": "雑草食べるヤギ 市の経費30万円減"
     },
     {
       "time": "18:04",
