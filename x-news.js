@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-13T23:32:19.698Z",
+  "updatedAt": "2026-06-14T01:19:19.123Z",
   "items": [
     {
-      "time": "08:28",
-      "title": "エネ供給網を強化 日英首脳宣言へ",
+      "time": "09:20",
+      "title": "原子力規制庁の異動ルール 緩和へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584151?source=rss",
-      "publishedAt": "2026-06-13T23:28:02.000Z",
-      "xQuery": "エネ供給網を強化 日英首脳宣言へ"
+      "url": "https://news.yahoo.co.jp/pickup/6584160?source=rss",
+      "publishedAt": "2026-06-14T00:20:01.000Z",
+      "xQuery": "原子力規制庁の異動ルール 緩和へ"
     },
     {
-      "time": "22:09",
-      "title": "米イラン 戦闘終結へ合意間近か",
+      "time": "08:53",
+      "title": "天皇皇后両陛下 オランダに到着",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584127?source=rss",
-      "publishedAt": "2026-06-13T13:09:21.000Z",
-      "xQuery": "米イラン 戦闘終結へ合意間近か"
+      "url": "https://news.yahoo.co.jp/pickup/6584157?source=rss",
+      "publishedAt": "2026-06-13T23:53:05.000Z",
+      "xQuery": "天皇皇后両陛下 オランダに到着"
     },
     {
-      "time": "07:55",
-      "title": "本田太郎議員事務所に車突っ込む",
+      "time": "08:24",
+      "title": "想定外の事態 実習生が長期療養に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584147?source=rss",
-      "publishedAt": "2026-06-13T22:55:25.000Z",
-      "xQuery": "本田太郎議員事務所に車突っ込む"
+      "url": "https://news.yahoo.co.jp/pickup/6584149?source=rss",
+      "publishedAt": "2026-06-13T23:24:14.000Z",
+      "xQuery": "想定外の事態 実習生が長期療養に"
     },
     {
-      "time": "07:21",
-      "title": "500万円入りバッグ奪われる 大阪",
+      "time": "08:54",
+      "title": "韓国スタバ不買運動 返金に客殺到",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584143?source=rss",
-      "publishedAt": "2026-06-13T22:21:06.000Z",
-      "xQuery": "500万円入りバッグ奪われる 大阪"
+      "url": "https://news.yahoo.co.jp/pickup/6584158?source=rss",
+      "publishedAt": "2026-06-13T23:54:30.000Z",
+      "xQuery": "韓国スタバ不買運動 返金に客殺到"
     },
     {
-      "time": "08:22",
-      "title": "19週目で死産 心支えたぬいぐるみ",
+      "time": "10:08",
+      "title": "スムージー半額で完売 戦略の効果",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584150?source=rss",
-      "publishedAt": "2026-06-13T23:22:03.000Z",
-      "xQuery": "19週目で死産 心支えたぬいぐるみ"
+      "url": "https://news.yahoo.co.jp/pickup/6584166?source=rss",
+      "publishedAt": "2026-06-14T01:08:12.000Z",
+      "xQuery": "スムージー半額で完売 戦略の効果"
     }
   ]
 };
