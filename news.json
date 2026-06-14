@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T22:32:42.705Z",
+  "updatedAt": "2026-06-14T23:34:30.569Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,11 +61,25 @@
     ],
     "worldHeadlines": [
       {
-        "time": "06:52",
-        "title": "米イラン 戦闘終結に「合意」",
+        "time": "08:08",
+        "title": "米イランが和平合意 戦闘終結へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584269?source=rss",
-        "publishedAt": "2026-06-14T21:52:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584278?source=rss",
+        "publishedAt": "2026-06-14T23:08:04.000Z"
+      },
+      {
+        "time": "08:08",
+        "title": "ホルムズ海峡全面開放へ 米大統領",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584280?source=rss",
+        "publishedAt": "2026-06-14T23:08:52.000Z"
+      },
+      {
+        "time": "07:49",
+        "title": "異例ずくめ トランプ氏80歳誕生日",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584274?source=rss",
+        "publishedAt": "2026-06-14T22:49:26.000Z"
       },
       {
         "time": "17:46",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584253?source=rss",
         "publishedAt": "2026-06-14T13:27:20.000Z"
-      },
-      {
-        "time": "23:16",
-        "title": "中国とモンゴル 軍国主義を非難",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584261?source=rss",
-        "publishedAt": "2026-06-14T14:16:51.000Z"
-      },
-      {
-        "time": "22:20",
-        "title": "53年ぶりNBA優勝 ファンが暴徒化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584256?source=rss",
-        "publishedAt": "2026-06-14T13:20:09.000Z"
       }
     ],
     "economyHeadlines": [

@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-14T22:32:43.301Z",
+  "updatedAt": "2026-06-14T23:34:31.434Z",
   "items": [
     {
-      "time": "06:52",
-      "title": "米イラン 戦闘終結に「合意」",
+      "time": "08:08",
+      "title": "米イランが和平合意 戦闘終結へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584269?source=rss",
-      "publishedAt": "2026-06-14T21:52:09.000Z",
-      "xQuery": "米イラン 戦闘終結に「合意」"
+      "url": "https://news.yahoo.co.jp/pickup/6584278?source=rss",
+      "publishedAt": "2026-06-14T23:08:04.000Z",
+      "xQuery": "米イランが和平合意 戦闘終結へ"
     },
     {
-      "time": "23:16",
-      "title": "中国とモンゴル 軍国主義を非難",
+      "time": "08:10",
+      "title": "首相が伊に到着 欧州歴訪2カ国目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584261?source=rss",
-      "publishedAt": "2026-06-14T14:16:51.000Z",
-      "xQuery": "中国とモンゴル 軍国主義を非難"
+      "url": "https://news.yahoo.co.jp/pickup/6584279?source=rss",
+      "publishedAt": "2026-06-14T23:10:48.000Z",
+      "xQuery": "首相が伊に到着 欧州歴訪2カ国目"
     },
     {
-      "time": "22:27",
-      "title": "英 露「影の船団」タンカーを拿捕",
+      "time": "08:08",
+      "title": "ホルムズ海峡全面開放へ 米大統領",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584253?source=rss",
-      "publishedAt": "2026-06-14T13:27:20.000Z",
-      "xQuery": "英 露「影の船団」タンカーを拿捕"
+      "url": "https://news.yahoo.co.jp/pickup/6584280?source=rss",
+      "publishedAt": "2026-06-14T23:08:52.000Z",
+      "xQuery": "ホルムズ海峡全面開放へ 米大統領"
     },
     {
-      "time": "23:36",
-      "title": "車と別の車のドアに挟まれる 死亡",
+      "time": "07:24",
+      "title": "乗用車同士衝突 中高生ら8人けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584262?source=rss",
-      "publishedAt": "2026-06-14T14:36:21.000Z",
-      "xQuery": "車と別の車のドアに挟まれる 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6584272?source=rss",
+      "publishedAt": "2026-06-14T22:24:48.000Z",
+      "xQuery": "乗用車同士衝突 中高生ら8人けが"
     },
     {
       "time": "18:04",
