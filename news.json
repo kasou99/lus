@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T13:39:22.447Z",
+  "updatedAt": "2026-06-14T14:52:49.370Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,18 +89,18 @@
         "publishedAt": "2026-06-14T13:27:20.000Z"
       },
       {
+        "time": "23:16",
+        "title": "中国とモンゴル 軍国主義を非難",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584261?source=rss",
+        "publishedAt": "2026-06-14T14:16:51.000Z"
+      },
+      {
         "time": "22:20",
         "title": "53年ぶりNBA優勝 ファンが暴徒化",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584256?source=rss",
         "publishedAt": "2026-06-14T13:20:09.000Z"
-      },
-      {
-        "time": "13:56",
-        "title": "北朝鮮「非核化」は空虚な妄想",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584195?source=rss",
-        "publishedAt": "2026-06-14T04:56:50.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,25 +156,11 @@
         "publishedAt": "2026-06-14T07:59:19.000Z"
       },
       {
-        "time": "13:35",
-        "title": "ボビー容疑者 不同意性交疑い逮捕",
+        "time": "23:36",
+        "title": "車と別の車のドアに挟まれる 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584193?source=rss",
-        "publishedAt": "2026-06-14T04:35:06.000Z"
-      },
-      {
-        "time": "14:34",
-        "title": "ボビー容疑者逮捕 事実違うと否認",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584202?source=rss",
-        "publishedAt": "2026-06-14T05:34:25.000Z"
-      },
-      {
-        "time": "13:20",
-        "title": "海岸で溺れ重体だった小学生 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584192?source=rss",
-        "publishedAt": "2026-06-14T04:20:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584262?source=rss",
+        "publishedAt": "2026-06-14T14:36:21.000Z"
       },
       {
         "time": "21:27",
@@ -189,6 +175,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584255?source=rss",
         "publishedAt": "2026-06-14T13:16:13.000Z"
+      },
+      {
+        "time": "13:35",
+        "title": "ボビー容疑者 不同意性交疑い逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584193?source=rss",
+        "publishedAt": "2026-06-14T04:35:06.000Z"
+      },
+      {
+        "time": "14:34",
+        "title": "ボビー容疑者逮捕 事実違うと否認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584202?source=rss",
+        "publishedAt": "2026-06-14T05:34:25.000Z"
       }
     ],
     "subsidyHeadlines": [

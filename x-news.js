@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-14T13:39:23.225Z",
+  "updatedAt": "2026-06-14T14:52:50.646Z",
   "items": [
     {
-      "time": "21:12",
-      "title": "首相「日英関係をもっと高みに」",
+      "time": "23:16",
+      "title": "中国とモンゴル 軍国主義を非難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584247?source=rss",
-      "publishedAt": "2026-06-14T12:12:27.000Z",
-      "xQuery": "首相「日英関係をもっと高みに」"
+      "url": "https://news.yahoo.co.jp/pickup/6584261?source=rss",
+      "publishedAt": "2026-06-14T14:16:51.000Z",
+      "xQuery": "中国とモンゴル 軍国主義を非難"
     },
     {
-      "time": "22:11",
-      "title": "英文学者の小田島雄志さん死去",
+      "time": "22:27",
+      "title": "英 露「影の船団」タンカーを拿捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584254?source=rss",
-      "publishedAt": "2026-06-14T13:11:39.000Z",
-      "xQuery": "英文学者の小田島雄志さん死去"
+      "url": "https://news.yahoo.co.jp/pickup/6584253?source=rss",
+      "publishedAt": "2026-06-14T13:27:20.000Z",
+      "xQuery": "英 露「影の船団」タンカーを拿捕"
     },
     {
-      "time": "14:34",
-      "title": "ボビー容疑者逮捕 事実違うと否認",
+      "time": "23:36",
+      "title": "車と別の車のドアに挟まれる 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584202?source=rss",
-      "publishedAt": "2026-06-14T05:34:25.000Z",
-      "xQuery": "ボビー容疑者逮捕 事実違うと否認"
+      "url": "https://news.yahoo.co.jp/pickup/6584262?source=rss",
+      "publishedAt": "2026-06-14T14:36:21.000Z",
+      "xQuery": "車と別の車のドアに挟まれる 死亡"
     },
     {
-      "time": "22:20",
-      "title": "53年ぶりNBA優勝 ファンが暴徒化",
+      "time": "23:47",
+      "title": "雑草食べるヤギ 市の経費30万円減",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584256?source=rss",
-      "publishedAt": "2026-06-14T13:20:09.000Z",
-      "xQuery": "53年ぶりNBA優勝 ファンが暴徒化"
+      "url": "https://news.yahoo.co.jp/pickup/6584263?source=rss",
+      "publishedAt": "2026-06-14T14:47:37.000Z",
+      "xQuery": "雑草食べるヤギ 市の経費30万円減"
     },
     {
-      "time": "22:16",
-      "title": "ゴムボートが転覆 川で溺れ死亡",
+      "time": "18:04",
+      "title": "増える「ホビ垢」女子 実態は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584255?source=rss",
-      "publishedAt": "2026-06-14T13:16:13.000Z",
-      "xQuery": "ゴムボートが転覆 川で溺れ死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6584224?source=rss",
+      "publishedAt": "2026-06-14T09:04:25.000Z",
+      "xQuery": "増える「ホビ垢」女子 実態は"
     }
   ]
 };
