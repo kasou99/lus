@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-06-14T17:35:33.243Z",
+  "updatedAt": "2026-06-14T18:39:51.498Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:16",
+        "title": "オーエム製作所、米中向け立旋盤増産 長岡に投資",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3STVtdk40X0NHT0JDYzJ0bXpkZ1lJTDJBbW5nNUZnanl0bXA0NFVwUmJ0Q3FyeVFISFg3XzBpMW90a3NfWWlOdjc4NUVmdms0RGYzN01NbXF0SnNlY0Y4UDAxOUxxMFlxQkU2STg0WWxmdjJp?oc=5",
+        "publishedAt": "2026-06-14T06:16:42.000Z"
+      },
+      {
+        "time": "12:30",
+        "title": "中・低出力レーザー切断機の世界市場（2026年～2032年）、市場規模（ファイバーレーザー、CO2レーザー、ディスクレーザー、YAGレーザー）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83Q2Q4eGI2Wk9ucXlycEFka2JRemd4ZHVGcjNBWHZ0N0wyRE1HSV9aYUlNc0ZQOHhzb1ExMTFGZVZKOVljM1RB?oc=5",
+        "publishedAt": "2026-06-14T03:30:00.000Z"
+      },
+      {
+        "time": "23:52",
+        "title": "上海レゴランドで「レゴ・フェスティバル」 W杯やF1の要素も",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GZ3pNY01BYktQZGxRN20tcFludEt0ZWxWakRYNVJNY2tGNlktXy1tOU12dTN5OHFUdHBqeFBIV2FMQ040bm9lVXI1dG5pUE9jaW5NdU9fajZrLXlSVVpyNDVsNDlfUzhUc1lIaXJMdGpGc1dDbnVNQU84cw?oc=5",
+        "publishedAt": "2026-06-14T14:52:19.000Z"
+      },
+      {
+        "time": "15:16",
+        "title": "DMG森精機が大型超音波加工機 半導体対応、工場再拡張も",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uLU56dkwxSHlod0VoVzQwVlRnN0ZkbWRYTUEtQ2FLWHMxWTZadVAyUzEtWDJvMGpDbWxjcV95ZXZIOGpVRE1odTFjUFl0VzJQUEFxbnFFd0RTTkYyaW5tTzhGSlV0WVl6Q1llVFBjaTVXb0dS?oc=5",
+        "publishedAt": "2026-06-14T06:16:43.000Z"
+      },
+      {
+        "time": "15:16",
+        "title": "セブン、電通・サイバーエージェントと広告会社設立",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IbXRHQjktYWY2RTdvd0JVSkRiYjRqOE52MjloRUNOaENsaTlraHkxeDVhaUxrZFZEWnQ4enkxTVhoV3pKUk1qZDFzdzBpZ29XLXpMU3lENmE4X0ZZSEVaNlpjTjZ0TWV3a1k3SmpWZXNCUVlB?oc=5",
+        "publishedAt": "2026-06-14T06:16:42.000Z"
+      },
       {
         "time": "19:31",
         "title": "消費税1%で農家の手取り減 試算",
@@ -22,41 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584246?source=rss",
         "publishedAt": "2026-06-14T11:45:04.000Z"
-      },
-      {
-        "time": "20:35",
-        "title": "セブン「納品ルール変更」なぜ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584118?source=rss",
-        "publishedAt": "2026-06-13T11:35:55.000Z"
-      },
-      {
-        "time": "17:10",
-        "title": "スイカ食べるアライグマ 農家嘆き",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584220?source=rss",
-        "publishedAt": "2026-06-14T08:10:31.000Z"
-      },
-      {
-        "time": "10:08",
-        "title": "スムージー半額で完売 戦略の効果",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584166?source=rss",
-        "publishedAt": "2026-06-14T01:08:12.000Z"
-      },
-      {
-        "time": "14:17",
-        "title": "クレーンゲーム活況 病院でも好評",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584198?source=rss",
-        "publishedAt": "2026-06-14T05:17:34.000Z"
-      },
-      {
-        "time": "15:09",
-        "title": "弱冷車広がり 電車の快適な温度は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584204?source=rss",
-        "publishedAt": "2026-06-14T06:09:29.000Z"
       }
     ],
     "worldHeadlines": [
