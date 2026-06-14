@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-14T03:50:08.145Z",
+  "updatedAt": "2026-06-14T05:43:56.188Z",
   "items": [
     {
-      "time": "12:40",
-      "title": "皇室典範改正の議論 今後の焦点は",
+      "time": "13:09",
+      "title": "米「14日に合意」イラン側は反論",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584186?source=rss",
-      "publishedAt": "2026-06-14T03:40:14.000Z",
-      "xQuery": "皇室典範改正の議論 今後の焦点は"
+      "url": "https://news.yahoo.co.jp/pickup/6584190?source=rss",
+      "publishedAt": "2026-06-14T04:09:56.000Z",
+      "xQuery": "米「14日に合意」イラン側は反論"
     },
     {
-      "time": "10:35",
-      "title": "警視庁 警察学校見学ツアー始める",
+      "time": "14:24",
+      "title": "日英会談 別荘でなく英首相官邸で",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584170?source=rss",
-      "publishedAt": "2026-06-14T01:35:59.000Z",
-      "xQuery": "警視庁 警察学校見学ツアー始める"
+      "url": "https://news.yahoo.co.jp/pickup/6584200?source=rss",
+      "publishedAt": "2026-06-14T05:24:00.000Z",
+      "xQuery": "日英会談 別荘でなく英首相官邸で"
     },
     {
-      "time": "11:13",
-      "title": "学校放送室に基準値超のダニ 福岡",
+      "time": "13:20",
+      "title": "海岸で溺れ重体だった小学生 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584179?source=rss",
-      "publishedAt": "2026-06-14T02:13:11.000Z",
-      "xQuery": "学校放送室に基準値超のダニ 福岡"
+      "url": "https://news.yahoo.co.jp/pickup/6584192?source=rss",
+      "publishedAt": "2026-06-14T04:20:09.000Z",
+      "xQuery": "海岸で溺れ重体だった小学生 死亡"
     },
     {
-      "time": "09:54",
-      "title": "戒名作成にAI活用で議論 住職見解",
+      "time": "13:19",
+      "title": "自宅から歩道はみ出し駐車 違法?",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584165?source=rss",
-      "publishedAt": "2026-06-14T00:54:00.000Z",
-      "xQuery": "戒名作成にAI活用で議論 住職見解"
+      "url": "https://news.yahoo.co.jp/pickup/6584191?source=rss",
+      "publishedAt": "2026-06-14T04:19:27.000Z",
+      "xQuery": "自宅から歩道はみ出し駐車 違法?"
     },
     {
-      "time": "12:17",
-      "title": "ボビー・オロゴン容疑者を逮捕",
+      "time": "13:35",
+      "title": "ボビー容疑者 不同意性交疑い逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584185?source=rss",
-      "publishedAt": "2026-06-14T03:17:18.000Z",
-      "xQuery": "ボビー・オロゴン容疑者を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6584193?source=rss",
+      "publishedAt": "2026-06-14T04:35:06.000Z",
+      "xQuery": "ボビー容疑者 不同意性交疑い逮捕"
     }
   ]
 };

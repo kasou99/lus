@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T03:50:07.035Z",
+  "updatedAt": "2026-06-14T05:43:55.448Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -13,15 +13,15 @@
         "time": "12:30",
         "title": "中・低出力レーザー切断機の世界市場（2026年～2032年）、市場規模（ファイバーレーザー、CO2レーザー、ディスクレーザー、YAGレーザー）・分析レポートを発表",
         "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fcnR0NGxDYUxLbFVYYTVBUkpCUC03cXZCZjJscHFuMktsQVkyZ0s1T0trZGhkQVY1bC1yWFlIa2x0Tk10RWp1a2VfZmtuVU0?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83Q2Q4eGI2Wk9ucXlycEFka2JRemd4ZHVGcjNBWHZ0N0wyRE1HSV9aYUlNc0ZQOHhzb1ExMTFGZVZKOVljM1RB?oc=5",
         "publishedAt": "2026-06-14T03:30:00.000Z"
       },
       {
-        "time": "14:30",
-        "title": "リニアガイド（ペア）の世界市場（2026年～2032年）、市場規模（ボール式、ローラー式）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tSGtpOUg0LVpRUml4TmZiWldCY1FuRnFkMEc0VmhQclYyYnZiQzJveWNYWmJ5OGhXSk1sOWJRZVVleVBYLUV0Y3ptMkFQRWs?oc=5",
-        "publishedAt": "2026-06-13T05:30:00.000Z"
+        "time": "00:56",
+        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LT0xFMkhVRUVVaUh3d0pyZkl1aE4tM3IxcFFLVFlSbUdvX1Y2RU9TZlZRc2lBTFhfRUNYR3Nzd2lDTG5YQ09pVm9BOV84SDhZZ05sWWM2VlBPTDRvQ2pFNWhR?oc=5",
+        "publishedAt": "2026-06-13T15:56:23.000Z"
       },
       {
         "time": "22:02",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-06-13T10:31:04.000Z"
       },
       {
-        "time": "16:08",
-        "title": "家計株資産500兆円超 NISA後押し",
+        "time": "16:21",
+        "title": "ウーバー 日本の配車で初の首位に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584086?source=rss",
-        "publishedAt": "2026-06-13T07:08:48.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584087?source=rss",
+        "publishedAt": "2026-06-13T07:21:12.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,11 @@
         "publishedAt": "2026-06-13T23:48:57.000Z"
       },
       {
-        "time": "22:09",
-        "title": "米イラン 戦闘終結へ合意間近か",
+        "time": "13:09",
+        "title": "米「14日に合意」イラン側は反論",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584127?source=rss",
-        "publishedAt": "2026-06-13T13:09:21.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584190?source=rss",
+        "publishedAt": "2026-06-14T04:09:56.000Z"
       },
       {
         "time": "08:28",
@@ -80,6 +80,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584151?source=rss",
         "publishedAt": "2026-06-13T23:28:02.000Z"
+      },
+      {
+        "time": "14:24",
+        "title": "日英会談 別荘でなく英首相官邸で",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584200?source=rss",
+        "publishedAt": "2026-06-14T05:24:00.000Z"
       },
       {
         "time": "17:44",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584108?source=rss",
         "publishedAt": "2026-06-13T09:30:51.000Z"
-      },
-      {
-        "time": "15:32",
-        "title": "米軍 ベネズエラ犯罪組織幹部殺害",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584082?source=rss",
-        "publishedAt": "2026-06-13T06:32:30.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,13 +110,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584112?source=rss",
         "publishedAt": "2026-06-13T10:31:04.000Z"
-      },
-      {
-        "time": "16:08",
-        "title": "家計株資産500兆円超 NISA後押し",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584086?source=rss",
-        "publishedAt": "2026-06-13T07:08:48.000Z"
       },
       {
         "time": "16:21",
@@ -145,15 +138,29 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584166?source=rss",
         "publishedAt": "2026-06-14T01:08:12.000Z"
+      },
+      {
+        "time": "14:17",
+        "title": "クレーンゲーム活況 病院でも好評",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584198?source=rss",
+        "publishedAt": "2026-06-14T05:17:34.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "12:17",
-        "title": "ボビー・オロゴン容疑者を逮捕",
+        "time": "13:35",
+        "title": "ボビー容疑者 不同意性交疑い逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584185?source=rss",
-        "publishedAt": "2026-06-14T03:17:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584193?source=rss",
+        "publishedAt": "2026-06-14T04:35:06.000Z"
+      },
+      {
+        "time": "14:34",
+        "title": "ボビー容疑者逮捕 事実違うと否認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584202?source=rss",
+        "publishedAt": "2026-06-14T05:34:25.000Z"
       },
       {
         "time": "07:55",
@@ -163,13 +170,6 @@
         "publishedAt": "2026-06-13T22:55:25.000Z"
       },
       {
-        "time": "13:36",
-        "title": "赤い羽根募金1億円使途不明 札幌",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584075?source=rss",
-        "publishedAt": "2026-06-13T04:36:54.000Z"
-      },
-      {
         "time": "08:24",
         "title": "想定外の事態 実習生が長期療養に",
         "source": "Yahoo!ニュース",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-06-13T23:24:14.000Z"
       },
       {
-        "time": "23:25",
-        "title": "川遊びで流され死亡 男子中学生か",
+        "time": "13:20",
+        "title": "海岸で溺れ重体だった小学生 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584140?source=rss",
-        "publishedAt": "2026-06-13T14:25:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584192?source=rss",
+        "publishedAt": "2026-06-14T04:20:09.000Z"
       },
       {
         "time": "07:21",
