@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-14T11:44:55.486Z",
+  "updatedAt": "2026-06-14T12:51:54.614Z",
   "items": [
     {
-      "time": "19:34",
-      "title": "覚書締結後「海峡を即解放」草案",
+      "time": "21:12",
+      "title": "首相「日英関係をもっと高みに」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584239?source=rss",
-      "publishedAt": "2026-06-14T10:34:54.000Z",
-      "xQuery": "覚書締結後「海峡を即解放」草案"
+      "url": "https://news.yahoo.co.jp/pickup/6584247?source=rss",
+      "publishedAt": "2026-06-14T12:12:27.000Z",
+      "xQuery": "首相「日英関係をもっと高みに」"
     },
     {
-      "time": "15:09",
-      "title": "弱冷車広がり 電車の快適な温度は",
+      "time": "17:46",
+      "title": "米大統領に健康不安説 払拭に躍起",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584204?source=rss",
-      "publishedAt": "2026-06-14T06:09:29.000Z",
-      "xQuery": "弱冷車広がり 電車の快適な温度は"
+      "url": "https://news.yahoo.co.jp/pickup/6584222?source=rss",
+      "publishedAt": "2026-06-14T08:46:06.000Z",
+      "xQuery": "米大統領に健康不安説 払拭に躍起"
     },
     {
       "time": "14:34",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ボビー容疑者逮捕 事実違うと否認"
     },
     {
-      "time": "18:04",
-      "title": "増える「ホビ垢」女子 実態は",
+      "time": "21:27",
+      "title": "素潜り漁の81歳死亡 海底で発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584224?source=rss",
-      "publishedAt": "2026-06-14T09:04:25.000Z",
-      "xQuery": "増える「ホビ垢」女子 実態は"
+      "url": "https://news.yahoo.co.jp/pickup/6584250?source=rss",
+      "publishedAt": "2026-06-14T12:27:11.000Z",
+      "xQuery": "素潜り漁の81歳死亡 海底で発見"
     },
     {
-      "time": "19:27",
-      "title": "DAZNの料金表示巡る炎上 続く訳",
+      "time": "20:45",
+      "title": "新神戸駅直結の巨大モール 廃墟化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584236?source=rss",
-      "publishedAt": "2026-06-14T10:27:48.000Z",
-      "xQuery": "DAZNの料金表示巡る炎上 続く訳"
+      "url": "https://news.yahoo.co.jp/pickup/6584246?source=rss",
+      "publishedAt": "2026-06-14T11:45:04.000Z",
+      "xQuery": "新神戸駅直結の巨大モール 廃墟化"
     }
   ]
 };
