@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-14T02:25:24.833Z",
+  "updatedAt": "2026-06-14T03:50:08.145Z",
   "items": [
     {
-      "time": "09:20",
-      "title": "原子力規制庁の異動ルール 緩和へ",
+      "time": "12:40",
+      "title": "皇室典範改正の議論 今後の焦点は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584160?source=rss",
-      "publishedAt": "2026-06-14T00:20:01.000Z",
-      "xQuery": "原子力規制庁の異動ルール 緩和へ"
+      "url": "https://news.yahoo.co.jp/pickup/6584186?source=rss",
+      "publishedAt": "2026-06-14T03:40:14.000Z",
+      "xQuery": "皇室典範改正の議論 今後の焦点は"
     },
     {
       "time": "10:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "学校放送室に基準値超のダニ 福岡"
     },
     {
-      "time": "08:54",
-      "title": "韓国スタバ不買運動 返金に客殺到",
+      "time": "09:54",
+      "title": "戒名作成にAI活用で議論 住職見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584158?source=rss",
-      "publishedAt": "2026-06-13T23:54:30.000Z",
-      "xQuery": "韓国スタバ不買運動 返金に客殺到"
+      "url": "https://news.yahoo.co.jp/pickup/6584165?source=rss",
+      "publishedAt": "2026-06-14T00:54:00.000Z",
+      "xQuery": "戒名作成にAI活用で議論 住職見解"
     },
     {
-      "time": "10:08",
-      "title": "スムージー半額で完売 戦略の効果",
+      "time": "12:17",
+      "title": "ボビー・オロゴン容疑者を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584166?source=rss",
-      "publishedAt": "2026-06-14T01:08:12.000Z",
-      "xQuery": "スムージー半額で完売 戦略の効果"
+      "url": "https://news.yahoo.co.jp/pickup/6584185?source=rss",
+      "publishedAt": "2026-06-14T03:17:18.000Z",
+      "xQuery": "ボビー・オロゴン容疑者を逮捕"
     }
   ]
 };

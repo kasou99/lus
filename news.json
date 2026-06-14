@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T02:25:24.096Z",
+  "updatedAt": "2026-06-14T03:50:07.035Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnY01LcDNMUmRoOW9zUXJIM0IyWW1saVVROVJ2REYySnlGcTRHX2tPZXcwNDJvY1FYX2dDbGRpZ195R3ZQejhXSFA0TVBTODMxMlB6MzhTdkk?oc=5",
         "publishedAt": "2026-06-13T18:21:38.000Z"
+      },
+      {
+        "time": "12:30",
+        "title": "中・低出力レーザー切断機の世界市場（2026年～2032年）、市場規模（ファイバーレーザー、CO2レーザー、ディスクレーザー、YAGレーザー）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fcnR0NGxDYUxLbFVYYTVBUkpCUC03cXZCZjJscHFuMktsQVkyZ0s1T0trZGhkQVY1bC1yWFlIa2x0Tk10RWp1a2VfZmtuVU0?oc=5",
+        "publishedAt": "2026-06-14T03:30:00.000Z"
       },
       {
         "time": "14:30",
@@ -22,13 +29,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RTlBLeHU1ZVNWWlNoSjJJMXRCaXp1NmQ3TDJWUlBrVTlKcV9yVzZGQkFfeG0yOVN2M3I5RW1RWjV2UEhtYVdNb0lkQ1NpbjhrQkJpRVM1NEZId3c?oc=5",
         "publishedAt": "2026-06-13T13:02:00.000Z"
-      },
-      {
-        "time": "12:28",
-        "title": "小型MCで多品種少量生産の自動化を／三和ロボティクス",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MWjdrRW5FZFdIRnVOaHl5eG5QcUlwM2lXWHpGdTZpZDBuX2VIdUNUaXFGbzFVSWRjcXJtVDVRaHRSQ0VzWkpCVXIwWHh4Vm9NNlZsa2ZsTHpyZDJRempqaHo1cDFqZHZCcjFvc3ViUXhSX3Nsc3RPNQ?oc=5",
-        "publishedAt": "2026-06-13T03:28:42.000Z"
       },
       {
         "time": "17:40",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "12:17",
+        "title": "ボビー・オロゴン容疑者を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584185?source=rss",
+        "publishedAt": "2026-06-14T03:17:18.000Z"
+      },
+      {
         "time": "07:55",
         "title": "本田太郎議員事務所に車突っ込む",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584140?source=rss",
         "publishedAt": "2026-06-13T14:25:09.000Z"
-      },
-      {
-        "time": "20:57",
-        "title": "全身焼けた遺体 草燃やしていたか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584122?source=rss",
-        "publishedAt": "2026-06-13T11:57:27.000Z"
       },
       {
         "time": "07:21",
