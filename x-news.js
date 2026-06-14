@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-14T01:19:19.123Z",
+  "updatedAt": "2026-06-14T02:25:24.833Z",
   "items": [
     {
       "time": "09:20",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "原子力規制庁の異動ルール 緩和へ"
     },
     {
-      "time": "08:53",
-      "title": "天皇皇后両陛下 オランダに到着",
+      "time": "10:35",
+      "title": "警視庁 警察学校見学ツアー始める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584157?source=rss",
-      "publishedAt": "2026-06-13T23:53:05.000Z",
-      "xQuery": "天皇皇后両陛下 オランダに到着"
+      "url": "https://news.yahoo.co.jp/pickup/6584170?source=rss",
+      "publishedAt": "2026-06-14T01:35:59.000Z",
+      "xQuery": "警視庁 警察学校見学ツアー始める"
     },
     {
-      "time": "08:24",
-      "title": "想定外の事態 実習生が長期療養に",
+      "time": "11:13",
+      "title": "学校放送室に基準値超のダニ 福岡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584149?source=rss",
-      "publishedAt": "2026-06-13T23:24:14.000Z",
-      "xQuery": "想定外の事態 実習生が長期療養に"
+      "url": "https://news.yahoo.co.jp/pickup/6584179?source=rss",
+      "publishedAt": "2026-06-14T02:13:11.000Z",
+      "xQuery": "学校放送室に基準値超のダニ 福岡"
     },
     {
       "time": "08:54",
