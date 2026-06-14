@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T15:39:35.009Z",
+  "updatedAt": "2026-06-14T16:39:55.073Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-06-14T06:16:43.000Z"
       },
       {
-        "time": "00:56",
-        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LT0xFMkhVRUVVaUh3d0pyZkl1aE4tM3IxcFFLVFlSbUdvX1Y2RU9TZlZRc2lBTFhfRUNYR3Nzd2lDTG5YQ09pVm9BOV84SDhZZ05sWWM2VlBPTDRvQ2pFNWhR?oc=5",
-        "publishedAt": "2026-06-13T15:56:23.000Z"
-      },
-      {
         "time": "15:16",
         "title": "セブン、電通・サイバーエージェントと広告会社設立",
         "source": "日刊工業新聞",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584109?source=rss",
         "publishedAt": "2026-06-13T09:59:34.000Z"
+      },
+      {
+        "time": "20:45",
+        "title": "新神戸駅直結の巨大モール 廃墟化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584246?source=rss",
+        "publishedAt": "2026-06-14T11:45:04.000Z"
       }
     ],
     "worldHeadlines": [
