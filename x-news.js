@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-15T21:56:57.921Z",
+  "updatedAt": "2026-06-15T22:49:23.924Z",
   "items": [
     {
-      "time": "23:16",
-      "title": "ホルムズ 自衛隊派遣の積極論浮上",
+      "time": "07:22",
+      "title": "9カ国共同声明 米イラン覚書歓迎",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584394?source=rss",
-      "publishedAt": "2026-06-15T14:16:47.000Z",
-      "xQuery": "ホルムズ 自衛隊派遣の積極論浮上"
+      "url": "https://news.yahoo.co.jp/pickup/6584401?source=rss",
+      "publishedAt": "2026-06-15T22:22:37.000Z",
+      "xQuery": "9カ国共同声明 米イラン覚書歓迎"
     },
     {
-      "time": "23:00",
-      "title": "日伊 先端技術分野の協力巡り声明",
+      "time": "07:15",
+      "title": "NYダウ終値468ドル高 最高値更新",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584392?source=rss",
-      "publishedAt": "2026-06-15T14:00:49.000Z",
-      "xQuery": "日伊 先端技術分野の協力巡り声明"
+      "url": "https://news.yahoo.co.jp/pickup/6584402?source=rss",
+      "publishedAt": "2026-06-15T22:15:20.000Z",
+      "xQuery": "NYダウ終値468ドル高 最高値更新"
     },
     {
-      "time": "00:03",
-      "title": "県開発苗木が中国流出か 知事怒り",
+      "time": "07:34",
+      "title": "はさみで知人女性刺した疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584396?source=rss",
-      "publishedAt": "2026-06-15T15:03:38.000Z",
-      "xQuery": "県開発苗木が中国流出か 知事怒り"
+      "url": "https://news.yahoo.co.jp/pickup/6584406?source=rss",
+      "publishedAt": "2026-06-15T22:34:09.000Z",
+      "xQuery": "はさみで知人女性刺した疑い 逮捕"
     },
     {
       "time": "22:13",
