@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T03:51:01.090Z",
+  "updatedAt": "2026-06-15T05:59:03.243Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,11 @@
         "publishedAt": "2026-06-14T21:00:00.000Z"
       },
       {
-        "time": "06:11",
+        "time": "11:12",
         "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
         "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00QW5BODBfUzlLekhnMTlEZHFGNmxLZ2xlTEJPandYb0tpYXhBb2htU0VhdzVOWWVHUFExWVlHVEZsRmFwVVczU3cxdzl1elBrTWJYUlpqWW5iTlRWcDNYTDln?oc=5",
-        "publishedAt": "2026-06-14T21:11:42.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iVGNLZVFVX1J4RWZrd3R3NUg3R2MtUFBtZUU5WFdmQUR2Z3FXcnNQMXgxeGVmUWVmS2lkRjBXbkhaRnBWNmtScWRnYkM5SFdVWFdkSEhGOVRSa19Tclcw?oc=5",
+        "publishedAt": "2026-06-15T02:12:26.000Z"
       },
       {
         "time": "15:16",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-14T06:16:42.000Z"
       },
       {
+        "time": "12:29",
+        "title": "製造業向け業務特化AI 3講座をリリース",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vNXJ1akxvc2dHdXkzZ2pQTkdwU0E5SURfRFJDQ2xYcGxEdlUzODBhRnJoT2k4TDFzeHRRV1M0TS1FSF9SMVl2aldMcjRVUkFpdGwwQzZZMjVsT2FUczhWSUhPSmZvUXdYV0E?oc=5",
+        "publishedAt": "2026-06-15T03:29:06.000Z"
+      },
+      {
         "time": "10:00",
         "title": "譲渡企業の着手金・中間金・成功報酬0円、エレベーター保守・点検会社の事業承継を支える「エレベーターM&A総合センター」を開設",
         "source": "Excite エキサイト",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5udzVINmFsU1ZqTmhQeW10eHh2S2F0VTQ2WUZUM2FoOWMtY1NuS2FzZjEwUHg4Z253TDBpd0pNVHo0U3hWZFJPNk1JU2RvZXdZQkpxZWxfTXR3ekJIME5UY0Z4d2RVTnlWNXc?oc=5",
         "publishedAt": "2026-06-15T01:00:00.000Z"
-      },
-      {
-        "time": "23:52",
-        "title": "上海レゴランドで「レゴ・フェスティバル」 W杯やF1の要素も",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GZ3pNY01BYktQZGxRN20tcFludEt0ZWxWakRYNVJNY2tGNlktXy1tOU12dTN5OHFUdHBqeFBIV2FMQ040bm9lVXI1dG5pUE9jaW5NdU9fajZrLXlSVVpyNDVsNDlfUzhUc1lIaXJMdGpGc1dDbnVNQU84cw?oc=5",
-        "publishedAt": "2026-06-14T14:52:19.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,18 +119,18 @@
         "publishedAt": "2026-06-15T00:22:15.000Z"
       },
       {
-        "time": "19:31",
-        "title": "消費税1%で農家の手取り減 試算",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584112?source=rss",
-        "publishedAt": "2026-06-13T10:31:04.000Z"
-      },
-      {
         "time": "20:45",
         "title": "新神戸駅直結の巨大モール 廃墟化",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584246?source=rss",
         "publishedAt": "2026-06-14T11:45:04.000Z"
+      },
+      {
+        "time": "13:45",
+        "title": "スガキヤ 20年ぶり関東出店を発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584319?source=rss",
+        "publishedAt": "2026-06-15T04:45:03.000Z"
       },
       {
         "time": "08:49",
@@ -170,6 +170,13 @@
         "publishedAt": "2026-06-15T02:33:49.000Z"
       },
       {
+        "time": "14:33",
+        "title": "教員盗撮G 元教諭に懲役8年判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584322?source=rss",
+        "publishedAt": "2026-06-15T05:33:42.000Z"
+      },
+      {
         "time": "11:46",
         "title": "自民議員の事務所に車衝突 男逮捕",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584262?source=rss",
         "publishedAt": "2026-06-14T14:36:21.000Z"
-      },
-      {
-        "time": "07:24",
-        "title": "乗用車同士衝突 中高生ら8人けが",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584272?source=rss",
-        "publishedAt": "2026-06-14T22:24:48.000Z"
       }
     ],
     "subsidyHeadlines": [

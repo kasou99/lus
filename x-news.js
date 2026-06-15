@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-15T03:51:01.979Z",
+  "updatedAt": "2026-06-15T05:59:04.001Z",
   "items": [
-    {
-      "time": "12:20",
-      "title": "米イラン和平合意 19日に覚書署名",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584310?source=rss",
-      "publishedAt": "2026-06-15T03:20:00.000Z",
-      "xQuery": "米イラン和平合意 19日に覚書署名"
-    },
     {
       "time": "12:41",
       "title": "G7開幕へ 米と欧の溝は埋まるか",
@@ -18,28 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "G7開幕へ 米と欧の溝は埋まるか"
     },
     {
-      "time": "11:33",
-      "title": "集合住宅で男性死亡 男を逮捕へ",
+      "time": "13:38",
+      "title": "東北は大気不安定 関東はヒンヤリ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584300?source=rss",
-      "publishedAt": "2026-06-15T02:33:49.000Z",
-      "xQuery": "集合住宅で男性死亡 男を逮捕へ"
+      "url": "https://news.yahoo.co.jp/pickup/6584318?source=rss",
+      "publishedAt": "2026-06-15T04:38:26.000Z",
+      "xQuery": "東北は大気不安定 関東はヒンヤリ"
     },
     {
-      "time": "11:57",
-      "title": "2歳死亡事故 医師1人の無罪確定",
+      "time": "12:04",
+      "title": "韓国スタバ 社員に「歴史教育」へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584306?source=rss",
-      "publishedAt": "2026-06-15T02:57:06.000Z",
-      "xQuery": "2歳死亡事故 医師1人の無罪確定"
+      "url": "https://news.yahoo.co.jp/pickup/6584305?source=rss",
+      "publishedAt": "2026-06-15T03:04:56.000Z",
+      "xQuery": "韓国スタバ 社員に「歴史教育」へ"
     },
     {
-      "time": "11:46",
-      "title": "自民議員の事務所に車衝突 男逮捕",
+      "time": "12:34",
+      "title": "ジャガイモ余りが深刻化 ベルギー",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584301?source=rss",
-      "publishedAt": "2026-06-15T02:46:51.000Z",
-      "xQuery": "自民議員の事務所に車衝突 男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6584312?source=rss",
+      "publishedAt": "2026-06-15T03:34:51.000Z",
+      "xQuery": "ジャガイモ余りが深刻化 ベルギー"
+    },
+    {
+      "time": "13:45",
+      "title": "スガキヤ 20年ぶり関東出店を発表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584319?source=rss",
+      "publishedAt": "2026-06-15T04:45:03.000Z",
+      "xQuery": "スガキヤ 20年ぶり関東出店を発表"
     }
   ]
 };
