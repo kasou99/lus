@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T19:28:02.733Z",
+  "updatedAt": "2026-06-15T20:37:47.127Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XTy1nanpyMUpGQWlxSnRTaU1nSWtWSUtvQ3AxUFJSSjJyRmR6S09LSE40M3BmbHl3QnJVREM3Y3Z0RDNnZWtDbmxfWmdjWW0zZkUwaldJS3hjOHlEQ0c0SWhXWVlrUUhYS0dnT2VQb2FIbU9URW1GRmhFeHRybzQ?oc=5",
         "publishedAt": "2026-06-15T07:55:43.000Z"
+      },
+      {
+        "time": "02:45",
+        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00QW5BODBfUzlLekhnMTlEZHFGNmxLZ2xlTEJPandYb0tpYXhBb2htU0VhdzVOWWVHUFExWVlHVEZsRmFwVVczU3cxdzl1elBrTWJYUlpqWW5iTlRWcDNYTDln?oc=5",
+        "publishedAt": "2026-06-15T17:45:12.000Z"
       },
       {
         "time": "09:15",
@@ -43,13 +50,6 @@
         "source": "イザ！",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ScGxkT2VpQUlBTE9XQ1ZldEwyTWZqWE5wTk9RQXZ0MEt6bEI2dkVoRXh5ZTZfRG5aenp0T3NIRFhvMUZjVDg2MXNpVldMOGY4UDc0OVZLQmxHOGpTZjctMHo2YWVzYlJTeW14MjFaNFlJSlpFeUgzVXlR?oc=5",
         "publishedAt": "2026-06-15T06:00:00.000Z"
-      },
-      {
-        "time": "14:12",
-        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LNll1SHV3a09wLU9sNzFmY0VaSHVTLTVPellkM29uVi1mRGlpZnFjSEczZHNmZ0xXcWxlejduQmZsWGhoQWYyWWFNc005YkFtc3pOTGJ2M0R4X1RiT1B5Wkhn?oc=5",
-        "publishedAt": "2026-06-15T05:12:21.000Z"
       },
       {
         "time": "12:29",
