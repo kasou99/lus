@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-15T02:25:49.906Z",
+  "updatedAt": "2026-06-15T03:51:01.979Z",
   "items": [
     {
-      "time": "09:40",
-      "title": "日経平均 史上初6万9000円台突入",
+      "time": "12:20",
+      "title": "米イラン和平合意 19日に覚書署名",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584291?source=rss",
-      "publishedAt": "2026-06-15T00:40:20.000Z",
-      "xQuery": "日経平均 史上初6万9000円台突入"
+      "url": "https://news.yahoo.co.jp/pickup/6584310?source=rss",
+      "publishedAt": "2026-06-15T03:20:00.000Z",
+      "xQuery": "米イラン和平合意 19日に覚書署名"
     },
     {
-      "time": "09:22",
-      "title": "NY原油が急落 1バレル=80ドル台",
+      "time": "12:41",
+      "title": "G7開幕へ 米と欧の溝は埋まるか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584285?source=rss",
-      "publishedAt": "2026-06-15T00:22:15.000Z",
-      "xQuery": "NY原油が急落 1バレル=80ドル台"
+      "url": "https://news.yahoo.co.jp/pickup/6584313?source=rss",
+      "publishedAt": "2026-06-15T03:41:21.000Z",
+      "xQuery": "G7開幕へ 米と欧の溝は埋まるか"
     },
     {
-      "time": "10:46",
-      "title": "英仏独伊 米イラン和平合意を歓迎",
+      "time": "11:33",
+      "title": "集合住宅で男性死亡 男を逮捕へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584296?source=rss",
-      "publishedAt": "2026-06-15T01:46:09.000Z",
-      "xQuery": "英仏独伊 米イラン和平合意を歓迎"
+      "url": "https://news.yahoo.co.jp/pickup/6584300?source=rss",
+      "publishedAt": "2026-06-15T02:33:49.000Z",
+      "xQuery": "集合住宅で男性死亡 男を逮捕へ"
     },
     {
-      "time": "09:19",
-      "title": "栃木強殺 主導役の容疑者浮上経緯",
+      "time": "11:57",
+      "title": "2歳死亡事故 医師1人の無罪確定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584286?source=rss",
-      "publishedAt": "2026-06-15T00:19:52.000Z",
-      "xQuery": "栃木強殺 主導役の容疑者浮上経緯"
+      "url": "https://news.yahoo.co.jp/pickup/6584306?source=rss",
+      "publishedAt": "2026-06-15T02:57:06.000Z",
+      "xQuery": "2歳死亡事故 医師1人の無罪確定"
     },
     {
-      "time": "09:56",
-      "title": "米で小型機が墜落 乗客ら12人死亡",
+      "time": "11:46",
+      "title": "自民議員の事務所に車衝突 男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584292?source=rss",
-      "publishedAt": "2026-06-15T00:56:21.000Z",
-      "xQuery": "米で小型機が墜落 乗客ら12人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6584301?source=rss",
+      "publishedAt": "2026-06-15T02:46:51.000Z",
+      "xQuery": "自民議員の事務所に車衝突 男逮捕"
     }
   ]
 };
