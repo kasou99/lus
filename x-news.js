@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-15T22:49:23.924Z",
+  "updatedAt": "2026-06-15T23:40:40.009Z",
   "items": [
     {
       "time": "07:22",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "NYダウ終値468ドル高 最高値更新"
     },
     {
+      "time": "07:38",
+      "title": "米大統領は宮殿で夕食 G7で厚遇",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584405?source=rss",
+      "publishedAt": "2026-06-15T22:38:06.000Z",
+      "xQuery": "米大統領は宮殿で夕食 G7で厚遇"
+    },
+    {
       "time": "07:34",
       "title": "はさみで知人女性刺した疑い 逮捕",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "はさみで知人女性刺した疑い 逮捕"
     },
     {
-      "time": "22:13",
-      "title": "飼いネコ4匹 サルに襲われて死ぬ",
+      "time": "08:04",
+      "title": "スマホのシャッター音 見直しの声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584388?source=rss",
-      "publishedAt": "2026-06-15T13:13:14.000Z",
-      "xQuery": "飼いネコ4匹 サルに襲われて死ぬ"
-    },
-    {
-      "time": "06:35",
-      "title": "物価高対策P詐取疑い 15歳を逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584399?source=rss",
-      "publishedAt": "2026-06-15T21:35:41.000Z",
-      "xQuery": "物価高対策P詐取疑い 15歳を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6584407?source=rss",
+      "publishedAt": "2026-06-15T23:04:11.000Z",
+      "xQuery": "スマホのシャッター音 見直しの声"
     }
   ]
 };

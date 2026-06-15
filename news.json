@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T22:49:22.946Z",
+  "updatedAt": "2026-06-15T23:40:39.454Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-06-15T07:55:43.000Z"
       },
       {
+        "time": "05:57",
+        "title": "AIとともに／埼玉県川越市 行政DXで事務負担減",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hVU9ONUM0Q05zeXI3ZGdnMXptY3UzN09IeGlWa2FZMmVKVnRSNER1eUNjQXZpSDZ0WWVkdS16RjVoWVNlaEdqTkN3bTBBYVlXTmhMc3JYWWNsaTBabEZkNVJUelUxZkI3d0I5WURIV0pVQVYw?oc=5",
+        "publishedAt": "2026-06-15T20:57:58.000Z"
+      },
+      {
         "time": "02:45",
         "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
         "source": "中日BIZナビ",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-06-15T00:15:59.000Z"
       },
       {
-        "time": "08:00",
-        "title": "「音声で記録」から「AIで判断支援」までをひとつに──設備保全クラウド「ミロクルカルテ」、新生「ミロクルAI保全ナビ」を機能統合でリニューアル！",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56SGw0Q0ZmeWhFaWFfaTJQam5vcGhZeC05dk5BUjRBOUdhWmx4TFZTdTlWcTRqNTBka1ZwS2JhQUlmQXRPdmpqZm9JYmdKbFppbTBBNTZRd2t5MldFaHBTMTZXRXBqaUF4aFE?oc=5",
-        "publishedAt": "2026-06-14T23:00:00.000Z"
-      },
-      {
         "time": "15:00",
         "title": "日東工業、日本最大級の電気設備総合展示会「JECA FAIR 2026」第65回製品コンクールにて「経済産業大臣賞」を受賞",
         "source": "イザ！",
@@ -45,11 +45,11 @@
         "publishedAt": "2026-06-15T06:00:00.000Z"
       },
       {
-        "time": "05:56",
-        "title": "インタビュー／富士フイルムビジネスイノベーション取締役常務執行役員CTO・鍋田敏之氏 AI起点に価値創出",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PM1ZuQmdleS1JRTdpU3Z6bmpZblk3Ymh2TXRzaTVpbjE5WGo3WFZpcTZfZG5haUlMNWVvYXQ5NUs3Y203ZFhBcTYyWEZXUmtXM243b3ZIeXZCMEQwSjRFbFRibUxhY25wMEpadEY0Z0FKMXRZ?oc=5",
-        "publishedAt": "2026-06-15T20:56:07.000Z"
+        "time": "10:21",
+        "title": "「音声で記録」から「AIで判断支援」までをひとつに──設備保全クラウド「ミロクルカルテ」、新生「ミロクルAI保全ナビ」を機能統合でリニューアル！（PR TIMES）",
+        "source": "毎日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iaVgteUl3U05CQlVWMk5BSUhvZzh6YWxxSEx4V0x6dnlwS2p6dUdQYjRZb0pPaVhCV0pPNWNVVEpDcHdnWUFwX2lYTFMyX2lFeElCYktsSGIwTVcwYjVWc2lmM0Fsb0ZP?oc=5",
+        "publishedAt": "2026-06-15T01:21:42.000Z"
       },
       {
         "time": "12:29",
@@ -112,6 +112,20 @@
         "publishedAt": "2026-06-15T22:15:20.000Z"
       },
       {
+        "time": "20:40",
+        "title": "焼却炉から貴金属回収 6000万円分",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584377?source=rss",
+        "publishedAt": "2026-06-15T11:40:19.000Z"
+      },
+      {
+        "time": "08:14",
+        "title": "焼肉きんぐ運営 なぜ最高益更新",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584408?source=rss",
+        "publishedAt": "2026-06-15T23:14:23.000Z"
+      },
+      {
         "time": "16:41",
         "title": "記念貨幣でアニメ活用 財務省検討",
         "source": "Yahoo!ニュース",
@@ -119,32 +133,18 @@
         "publishedAt": "2026-06-15T07:41:54.000Z"
       },
       {
+        "time": "19:34",
+        "title": "スムージー半額で混雑 セブン謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584368?source=rss",
+        "publishedAt": "2026-06-15T10:34:05.000Z"
+      },
+      {
         "time": "12:04",
         "title": "韓国スタバ 社員に「歴史教育」へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584305?source=rss",
         "publishedAt": "2026-06-15T03:04:56.000Z"
-      },
-      {
-        "time": "20:53",
-        "title": "コストコで食中毒 10歳未満が重症",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584381?source=rss",
-        "publishedAt": "2026-06-15T11:53:39.000Z"
-      },
-      {
-        "time": "08:49",
-        "title": "餃子の王将 売上好調も株価低迷",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584282?source=rss",
-        "publishedAt": "2026-06-14T23:49:22.000Z"
-      },
-      {
-        "time": "20:40",
-        "title": "焼却炉から貴金属回収 6000万円分",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584377?source=rss",
-        "publishedAt": "2026-06-15T11:40:19.000Z"
       }
     ],
     "localHeadlines": [
