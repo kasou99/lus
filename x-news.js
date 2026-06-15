@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-15T08:24:18.983Z",
+  "updatedAt": "2026-06-15T10:38:58.719Z",
   "items": [
     {
-      "time": "15:43",
-      "title": "米イラン合意 イスラエル反応せず",
+      "time": "17:30",
+      "title": "首相 米イラン巡る共同声明参加へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584335?source=rss",
-      "publishedAt": "2026-06-15T06:43:04.000Z",
-      "xQuery": "米イラン合意 イスラエル反応せず"
+      "url": "https://news.yahoo.co.jp/pickup/6584349?source=rss",
+      "publishedAt": "2026-06-15T08:30:24.000Z",
+      "xQuery": "首相 米イラン巡る共同声明参加へ"
     },
     {
-      "time": "16:13",
-      "title": "東証終値6万9317円 最高値を更新",
+      "time": "16:42",
+      "title": "H3ロケット9号機 8月7日打ち上げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584337?source=rss",
-      "publishedAt": "2026-06-15T07:13:43.000Z",
-      "xQuery": "東証終値6万9317円 最高値を更新"
+      "url": "https://news.yahoo.co.jp/pickup/6584341?source=rss",
+      "publishedAt": "2026-06-15T07:42:27.000Z",
+      "xQuery": "H3ロケット9号機 8月7日打ち上げ"
     },
     {
-      "time": "17:12",
-      "title": "茨城・下妻市長 遺体で発見される",
+      "time": "18:59",
+      "title": "12歳男児が川でおぼれたか 重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584346?source=rss",
-      "publishedAt": "2026-06-15T08:12:26.000Z",
-      "xQuery": "茨城・下妻市長 遺体で発見される"
+      "url": "https://news.yahoo.co.jp/pickup/6584361?source=rss",
+      "publishedAt": "2026-06-15T09:59:37.000Z",
+      "xQuery": "12歳男児が川でおぼれたか 重体"
     },
     {
-      "time": "15:14",
-      "title": "ヘリ衝突で6人死亡 米歌手犠牲か",
+      "time": "18:31",
+      "title": "別府ひき逃げ 容疑者の新たな写真",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584327?source=rss",
-      "publishedAt": "2026-06-15T06:14:49.000Z",
-      "xQuery": "ヘリ衝突で6人死亡 米歌手犠牲か"
+      "url": "https://news.yahoo.co.jp/pickup/6584358?source=rss",
+      "publishedAt": "2026-06-15T09:31:31.000Z",
+      "xQuery": "別府ひき逃げ 容疑者の新たな写真"
     },
     {
       "time": "16:52",
