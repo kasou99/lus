@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-15T20:37:48.040Z",
+  "updatedAt": "2026-06-15T21:56:57.921Z",
   "items": [
-    {
-      "time": "23:00",
-      "title": "日伊 先端技術分野の協力巡り声明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584392?source=rss",
-      "publishedAt": "2026-06-15T14:00:49.000Z",
-      "xQuery": "日伊 先端技術分野の協力巡り声明"
-    },
     {
       "time": "23:16",
       "title": "ホルムズ 自衛隊派遣の積極論浮上",
@@ -18,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ホルムズ 自衛隊派遣の積極論浮上"
     },
     {
-      "time": "22:32",
-      "title": "島根・丸山知事 がん治療で入院へ",
+      "time": "23:00",
+      "title": "日伊 先端技術分野の協力巡り声明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584389?source=rss",
-      "publishedAt": "2026-06-15T13:32:06.000Z",
-      "xQuery": "島根・丸山知事 がん治療で入院へ"
-    },
-    {
-      "time": "20:57",
-      "title": "下妻市長死亡 副市長ただただ驚き",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584382?source=rss",
-      "publishedAt": "2026-06-15T11:57:42.000Z",
-      "xQuery": "下妻市長死亡 副市長ただただ驚き"
+      "url": "https://news.yahoo.co.jp/pickup/6584392?source=rss",
+      "publishedAt": "2026-06-15T14:00:49.000Z",
+      "xQuery": "日伊 先端技術分野の協力巡り声明"
     },
     {
       "time": "00:03",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584396?source=rss",
       "publishedAt": "2026-06-15T15:03:38.000Z",
       "xQuery": "県開発苗木が中国流出か 知事怒り"
+    },
+    {
+      "time": "22:13",
+      "title": "飼いネコ4匹 サルに襲われて死ぬ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584388?source=rss",
+      "publishedAt": "2026-06-15T13:13:14.000Z",
+      "xQuery": "飼いネコ4匹 サルに襲われて死ぬ"
+    },
+    {
+      "time": "06:35",
+      "title": "物価高対策P詐取疑い 15歳を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584399?source=rss",
+      "publishedAt": "2026-06-15T21:35:41.000Z",
+      "xQuery": "物価高対策P詐取疑い 15歳を逮捕"
     }
   ]
 };
