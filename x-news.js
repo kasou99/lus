@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-15T13:08:20.481Z",
+  "updatedAt": "2026-06-15T15:31:02.003Z",
   "items": [
     {
-      "time": "20:41",
-      "title": "米とイランの戦争 何を残したのか",
+      "time": "23:00",
+      "title": "日伊 先端技術分野の協力巡り声明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584379?source=rss",
-      "publishedAt": "2026-06-15T11:41:57.000Z",
-      "xQuery": "米とイランの戦争 何を残したのか"
+      "url": "https://news.yahoo.co.jp/pickup/6584392?source=rss",
+      "publishedAt": "2026-06-15T14:00:49.000Z",
+      "xQuery": "日伊 先端技術分野の協力巡り声明"
     },
     {
-      "time": "20:19",
-      "title": "辺野古転覆 海保が4人を任意聴取",
+      "time": "23:16",
+      "title": "ホルムズ 自衛隊派遣の積極論浮上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584373?source=rss",
-      "publishedAt": "2026-06-15T11:19:41.000Z",
-      "xQuery": "辺野古転覆 海保が4人を任意聴取"
+      "url": "https://news.yahoo.co.jp/pickup/6584394?source=rss",
+      "publishedAt": "2026-06-15T14:16:47.000Z",
+      "xQuery": "ホルムズ 自衛隊派遣の積極論浮上"
+    },
+    {
+      "time": "22:32",
+      "title": "島根・丸山知事 がん治療で入院へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584389?source=rss",
+      "publishedAt": "2026-06-15T13:32:06.000Z",
+      "xQuery": "島根・丸山知事 がん治療で入院へ"
     },
     {
       "time": "20:57",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "下妻市長死亡 副市長ただただ驚き"
     },
     {
-      "time": "21:57",
-      "title": "三輪乗用車が事故 同乗の4歳重体",
+      "time": "00:03",
+      "title": "県開発苗木が中国流出か 知事怒り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584387?source=rss",
-      "publishedAt": "2026-06-15T12:57:32.000Z",
-      "xQuery": "三輪乗用車が事故 同乗の4歳重体"
-    },
-    {
-      "time": "20:53",
-      "title": "コストコで食中毒 10歳未満が重症",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584381?source=rss",
-      "publishedAt": "2026-06-15T11:53:39.000Z",
-      "xQuery": "コストコで食中毒 10歳未満が重症"
+      "url": "https://news.yahoo.co.jp/pickup/6584396?source=rss",
+      "publishedAt": "2026-06-15T15:03:38.000Z",
+      "xQuery": "県開発苗木が中国流出か 知事怒り"
     }
   ]
 };
