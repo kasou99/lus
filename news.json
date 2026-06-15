@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-15T01:22:15.109Z",
+  "updatedAt": "2026-06-15T02:25:49.462Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:15",
+        "title": "【特集 綾部から世界へ】サント機工、マシニングセンタで多種少量生産 綾部に根を下ろす外国人社員も",
+        "source": "金属産業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CandiR3MyQnh2dGdRWk5uckxmbXYzMk54UGY2dUVvRXA4Z2FsRmJfVVgzeXRYLWNMVm5naXRnX1UzTGVtYnVZd291N1Q3VThrRW9nRGp1Rkw?oc=5",
+        "publishedAt": "2026-06-15T00:15:59.000Z"
+      },
       {
         "time": "06:00",
         "title": "在任中に“トリプル”8000億円達成へ、DMG森精機社長の展望とは：FAインタビュー（1/2 ページ）",
@@ -10,18 +17,11 @@
         "publishedAt": "2026-06-14T21:00:00.000Z"
       },
       {
-        "time": "10:00",
-        "title": "「音声で記録」から「AIで判断支援」までをひとつに──設備保全クラウド「ミロクルカルテ」、新生「ミロクルAI保全ナビ」",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QV3d3M0lVR2poSlY3UzVDM3ljTWNHUzRJNW1GU3NJWjFQZUhYQjhqQ0tzbzFycVpvaGVaN1pPc2c0OVdleTg2eWNRamF1ZFViVjBJVzFNSEJ6SHFPcEEtb1VHaUxVREdfVVNXdUNYVkpvSDFFQ3NKNk9OSQ?oc=5",
-        "publishedAt": "2026-06-15T01:00:50.000Z"
-      },
-      {
-        "time": "06:11",
-        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00QW5BODBfUzlLekhnMTlEZHFGNmxLZ2xlTEJPandYb0tpYXhBb2htU0VhdzVOWWVHUFExWVlHVEZsRmFwVVczU3cxdzl1elBrTWJYUlpqWW5iTlRWcDNYTDln?oc=5",
-        "publishedAt": "2026-06-14T21:11:42.000Z"
+        "time": "10:21",
+        "title": "「音声で記録」から「AIで判断支援」までをひとつに──設備保全クラウド「ミロクルカルテ」、新生「ミロクルAI保全ナビ」を機能統合でリニューアル！（PR TIMES）",
+        "source": "毎日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iaVgteUl3U05CQlVWMk5BSUhvZzh6YWxxSEx4V0x6dnlwS2p6dUdQYjRZb0pPaVhCV0pPNWNVVEpDcHdnWUFwX2lYTFMyX2lFeElCYktsSGIwTVcwYjVWc2lmM0Fsb0ZP?oc=5",
+        "publishedAt": "2026-06-15T01:21:28.000Z"
       },
       {
         "time": "15:16",
@@ -29,13 +29,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3STVtdk40X0NHT0JDYzJ0bXpkZ1lJTDJBbW5nNUZnanl0bXA0NFVwUmJ0Q3FyeVFISFg3XzBpMW90a3NfWWlOdjc4NUVmdms0RGYzN01NbXF0SnNlY0Y4UDAxOUxxMFlxQkU2STg0WWxmdjJp?oc=5",
         "publishedAt": "2026-06-14T06:16:42.000Z"
-      },
-      {
-        "time": "12:30",
-        "title": "中・低出力レーザー切断機の世界市場（2026年～2032年）、市場規模（ファイバーレーザー、CO2レーザー、ディスクレーザー、YAGレーザー）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83Q2Q4eGI2Wk9ucXlycEFka2JRemd4ZHVGcjNBWHZ0N0wyRE1HSV9aYUlNc0ZQOHhzb1ExMTFGZVZKOVljM1RB?oc=5",
-        "publishedAt": "2026-06-14T03:30:00.000Z"
       },
       {
         "time": "15:16",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-06-14T06:16:42.000Z"
       },
       {
-        "time": "23:52",
-        "title": "上海レゴランドで「レゴ・フェスティバル」 W杯やF1の要素も",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GZ3pNY01BYktQZGxRN20tcFludEt0ZWxWakRYNVJNY2tGNlktXy1tOU12dTN5OHFUdHBqeFBIV2FMQ040bm9lVXI1dG5pUE9jaW5NdU9fajZrLXlSVVpyNDVsNDlfUzhUc1lIaXJMdGpGc1dDbnVNQU84cw?oc=5",
-        "publishedAt": "2026-06-14T14:52:19.000Z"
+        "time": "12:30",
+        "title": "中・低出力レーザー切断機の世界市場（2026年～2032年）、市場規模（ファイバーレーザー、CO2レーザー、ディスクレーザー、YAGレーザー）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83Q2Q4eGI2Wk9ucXlycEFka2JRemd4ZHVGcjNBWHZ0N0wyRE1HSV9aYUlNc0ZQOHhzb1ExMTFGZVZKOVljM1RB?oc=5",
+        "publishedAt": "2026-06-14T03:30:00.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "譲渡企業の着手金・中間金・成功報酬0円、エレベーター保守・点検会社の事業承継を支える「エレベーターM&A総合センター」を開設",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5udzVINmFsU1ZqTmhQeW10eHh2S2F0VTQ2WUZUM2FoOWMtY1NuS2FzZjEwUHg4Z253TDBpd0pNVHo0U3hWZFJPNk1JU2RvZXdZQkpxZWxfTXR3ekJIME5UY0Z4d2RVTnlWNXc?oc=5",
+        "publishedAt": "2026-06-15T01:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,18 +75,18 @@
         "publishedAt": "2026-06-14T23:08:52.000Z"
       },
       {
+        "time": "10:46",
+        "title": "英仏独伊 米イラン和平合意を歓迎",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584296?source=rss",
+        "publishedAt": "2026-06-15T01:46:09.000Z"
+      },
+      {
         "time": "07:49",
         "title": "異例ずくめ トランプ氏80歳誕生日",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584274?source=rss",
         "publishedAt": "2026-06-14T22:49:26.000Z"
-      },
-      {
-        "time": "17:46",
-        "title": "米大統領に健康不安説 払拭に躍起",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584222?source=rss",
-        "publishedAt": "2026-06-14T08:46:06.000Z"
       },
       {
         "time": "18:29",

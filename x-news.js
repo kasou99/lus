@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-15T01:22:16.090Z",
+  "updatedAt": "2026-06-15T02:25:49.906Z",
   "items": [
     {
-      "time": "08:08",
-      "title": "米イランが和平合意 戦闘終結へ",
+      "time": "09:40",
+      "title": "日経平均 史上初6万9000円台突入",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584278?source=rss",
-      "publishedAt": "2026-06-14T23:08:04.000Z",
-      "xQuery": "米イランが和平合意 戦闘終結へ"
+      "url": "https://news.yahoo.co.jp/pickup/6584291?source=rss",
+      "publishedAt": "2026-06-15T00:40:20.000Z",
+      "xQuery": "日経平均 史上初6万9000円台突入"
     },
     {
       "time": "09:22",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "NY原油が急落 1バレル=80ドル台"
     },
     {
-      "time": "09:40",
-      "title": "日経平均 史上初6万9000円台突入",
+      "time": "10:46",
+      "title": "英仏独伊 米イラン和平合意を歓迎",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584291?source=rss",
-      "publishedAt": "2026-06-15T00:40:20.000Z",
-      "xQuery": "日経平均 史上初6万9000円台突入"
-    },
-    {
-      "time": "09:01",
-      "title": "両陛下と蘭国王王妃 W杯を観戦",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584284?source=rss",
-      "publishedAt": "2026-06-15T00:01:53.000Z",
-      "xQuery": "両陛下と蘭国王王妃 W杯を観戦"
+      "url": "https://news.yahoo.co.jp/pickup/6584296?source=rss",
+      "publishedAt": "2026-06-15T01:46:09.000Z",
+      "xQuery": "英仏独伊 米イラン和平合意を歓迎"
     },
     {
       "time": "09:19",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584286?source=rss",
       "publishedAt": "2026-06-15T00:19:52.000Z",
       "xQuery": "栃木強殺 主導役の容疑者浮上経緯"
+    },
+    {
+      "time": "09:56",
+      "title": "米で小型機が墜落 乗客ら12人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584292?source=rss",
+      "publishedAt": "2026-06-15T00:56:21.000Z",
+      "xQuery": "米で小型機が墜落 乗客ら12人死亡"
     }
   ]
 };
