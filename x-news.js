@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-14T23:34:31.434Z",
+  "updatedAt": "2026-06-15T01:22:16.090Z",
   "items": [
     {
       "time": "08:08",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "米イランが和平合意 戦闘終結へ"
     },
     {
-      "time": "08:10",
-      "title": "首相が伊に到着 欧州歴訪2カ国目",
+      "time": "09:22",
+      "title": "NY原油が急落 1バレル=80ドル台",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584279?source=rss",
-      "publishedAt": "2026-06-14T23:10:48.000Z",
-      "xQuery": "首相が伊に到着 欧州歴訪2カ国目"
+      "url": "https://news.yahoo.co.jp/pickup/6584285?source=rss",
+      "publishedAt": "2026-06-15T00:22:15.000Z",
+      "xQuery": "NY原油が急落 1バレル=80ドル台"
     },
     {
-      "time": "08:08",
-      "title": "ホルムズ海峡全面開放へ 米大統領",
+      "time": "09:40",
+      "title": "日経平均 史上初6万9000円台突入",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584280?source=rss",
-      "publishedAt": "2026-06-14T23:08:52.000Z",
-      "xQuery": "ホルムズ海峡全面開放へ 米大統領"
+      "url": "https://news.yahoo.co.jp/pickup/6584291?source=rss",
+      "publishedAt": "2026-06-15T00:40:20.000Z",
+      "xQuery": "日経平均 史上初6万9000円台突入"
     },
     {
-      "time": "07:24",
-      "title": "乗用車同士衝突 中高生ら8人けが",
+      "time": "09:01",
+      "title": "両陛下と蘭国王王妃 W杯を観戦",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584272?source=rss",
-      "publishedAt": "2026-06-14T22:24:48.000Z",
-      "xQuery": "乗用車同士衝突 中高生ら8人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6584284?source=rss",
+      "publishedAt": "2026-06-15T00:01:53.000Z",
+      "xQuery": "両陛下と蘭国王王妃 W杯を観戦"
     },
     {
-      "time": "18:04",
-      "title": "増える「ホビ垢」女子 実態は",
+      "time": "09:19",
+      "title": "栃木強殺 主導役の容疑者浮上経緯",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584224?source=rss",
-      "publishedAt": "2026-06-14T09:04:25.000Z",
-      "xQuery": "増える「ホビ垢」女子 実態は"
+      "url": "https://news.yahoo.co.jp/pickup/6584286?source=rss",
+      "publishedAt": "2026-06-15T00:19:52.000Z",
+      "xQuery": "栃木強殺 主導役の容疑者浮上経緯"
     }
   ]
 };
