@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-15T05:59:04.001Z",
+  "updatedAt": "2026-06-15T08:24:18.983Z",
   "items": [
     {
-      "time": "12:41",
-      "title": "G7開幕へ 米と欧の溝は埋まるか",
+      "time": "15:43",
+      "title": "米イラン合意 イスラエル反応せず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584313?source=rss",
-      "publishedAt": "2026-06-15T03:41:21.000Z",
-      "xQuery": "G7開幕へ 米と欧の溝は埋まるか"
+      "url": "https://news.yahoo.co.jp/pickup/6584335?source=rss",
+      "publishedAt": "2026-06-15T06:43:04.000Z",
+      "xQuery": "米イラン合意 イスラエル反応せず"
     },
     {
-      "time": "13:38",
-      "title": "東北は大気不安定 関東はヒンヤリ",
+      "time": "16:13",
+      "title": "東証終値6万9317円 最高値を更新",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584318?source=rss",
-      "publishedAt": "2026-06-15T04:38:26.000Z",
-      "xQuery": "東北は大気不安定 関東はヒンヤリ"
+      "url": "https://news.yahoo.co.jp/pickup/6584337?source=rss",
+      "publishedAt": "2026-06-15T07:13:43.000Z",
+      "xQuery": "東証終値6万9317円 最高値を更新"
     },
     {
-      "time": "12:04",
-      "title": "韓国スタバ 社員に「歴史教育」へ",
+      "time": "17:12",
+      "title": "茨城・下妻市長 遺体で発見される",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584305?source=rss",
-      "publishedAt": "2026-06-15T03:04:56.000Z",
-      "xQuery": "韓国スタバ 社員に「歴史教育」へ"
+      "url": "https://news.yahoo.co.jp/pickup/6584346?source=rss",
+      "publishedAt": "2026-06-15T08:12:26.000Z",
+      "xQuery": "茨城・下妻市長 遺体で発見される"
     },
     {
-      "time": "12:34",
-      "title": "ジャガイモ余りが深刻化 ベルギー",
+      "time": "15:14",
+      "title": "ヘリ衝突で6人死亡 米歌手犠牲か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584312?source=rss",
-      "publishedAt": "2026-06-15T03:34:51.000Z",
-      "xQuery": "ジャガイモ余りが深刻化 ベルギー"
+      "url": "https://news.yahoo.co.jp/pickup/6584327?source=rss",
+      "publishedAt": "2026-06-15T06:14:49.000Z",
+      "xQuery": "ヘリ衝突で6人死亡 米歌手犠牲か"
     },
     {
-      "time": "13:45",
-      "title": "スガキヤ 20年ぶり関東出店を発表",
+      "time": "16:52",
+      "title": "オリにクマかかるも山に返す 兵庫",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584319?source=rss",
-      "publishedAt": "2026-06-15T04:45:03.000Z",
-      "xQuery": "スガキヤ 20年ぶり関東出店を発表"
+      "url": "https://news.yahoo.co.jp/pickup/6584344?source=rss",
+      "publishedAt": "2026-06-15T07:52:16.000Z",
+      "xQuery": "オリにクマかかるも山に返す 兵庫"
     }
   ]
 };
