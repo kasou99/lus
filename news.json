@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T17:44:18.806Z",
+  "updatedAt": "2026-06-15T19:28:02.733Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XTy1nanpyMUpGQWlxSnRTaU1nSWtWSUtvQ3AxUFJSSjJyRmR6S09LSE40M3BmbHl3QnJVREM3Y3Z0RDNnZWtDbmxfWmdjWW0zZkUwaldJS3hjOHlEQ0c0SWhXWVlrUUhYS0dnT2VQb2FIbU9URW1GRmhFeHRybzQ?oc=5",
         "publishedAt": "2026-06-15T07:55:43.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "日東工業、日本最大級の電気設備総合展示会「JECA FAIR 2026」第65回製品コンクールにて「経済産業大臣賞」を受賞",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PRVZ2MEhrSW1DVVY3SFR6aUtzTTZYeFVtbDNOZkdlU3VnSDFxek9sbWViVDNjd3dQLXRVYzdsb1VwNk1Sa2xuclhNS1lJWm8yb3hMVFd5dk1xNllVUDhpR0JOeWRXV3VzOUE?oc=5",
-        "publishedAt": "2026-06-15T06:00:02.000Z"
       },
       {
         "time": "09:15",
@@ -45,6 +38,13 @@
         "publishedAt": "2026-06-14T21:00:00.000Z"
       },
       {
+        "time": "15:00",
+        "title": "日東工業、日本最大級の電気設備総合展示会「JECA FAIR 2026」第65回製品コンクールにて「経済産業大臣賞」を受賞",
+        "source": "イザ！",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ScGxkT2VpQUlBTE9XQ1ZldEwyTWZqWE5wTk9RQXZ0MEt6bEI2dkVoRXh5ZTZfRG5aenp0T3NIRFhvMUZjVDg2MXNpVldMOGY4UDc0OVZLQmxHOGpTZjctMHo2YWVzYlJTeW14MjFaNFlJSlpFeUgzVXlR?oc=5",
+        "publishedAt": "2026-06-15T06:00:00.000Z"
+      },
+      {
         "time": "14:12",
         "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
         "source": "中日BIZナビ",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-06-15T05:12:21.000Z"
       },
       {
-        "time": "17:29",
-        "title": "第38回 ものづくり ワールド [東京]（機械要素技術展） - shibaura-machine.co.jp",
-        "source": "shibaura-machine.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhQ0l3VzFBcWhQS1JYWFlNZzBwMGxnNHJfZFV0aGNVZ3hPNkQxOXhDMFR3NF90aXlnUDVoNkFQUmRYWFIzbG9EYzV5NkNCSzY2eHcxeW9CRkIwc1FUMkJXeTJ2V0ZEVmZsZnUyaWFlUQ?oc=5",
-        "publishedAt": "2026-06-15T08:29:42.000Z"
+        "time": "12:29",
+        "title": "製造業向け業務特化AI 3講座をリリース",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vNXJ1akxvc2dHdXkzZ2pQTkdwU0E5SURfRFJDQ2xYcGxEdlUzODBhRnJoT2k4TDFzeHRRV1M0TS1FSF9SMVl2aldMcjRVUkFpdGwwQzZZMjVsT2FUczhWSUhPSmZvUXdYV0E?oc=5",
+        "publishedAt": "2026-06-15T03:29:06.000Z"
       }
     ],
     "worldHeadlines": [
