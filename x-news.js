@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-15T10:38:58.719Z",
+  "updatedAt": "2026-06-15T13:08:20.481Z",
   "items": [
     {
-      "time": "17:30",
-      "title": "首相 米イラン巡る共同声明参加へ",
+      "time": "20:41",
+      "title": "米とイランの戦争 何を残したのか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584349?source=rss",
-      "publishedAt": "2026-06-15T08:30:24.000Z",
-      "xQuery": "首相 米イラン巡る共同声明参加へ"
+      "url": "https://news.yahoo.co.jp/pickup/6584379?source=rss",
+      "publishedAt": "2026-06-15T11:41:57.000Z",
+      "xQuery": "米とイランの戦争 何を残したのか"
     },
     {
-      "time": "16:42",
-      "title": "H3ロケット9号機 8月7日打ち上げ",
+      "time": "20:19",
+      "title": "辺野古転覆 海保が4人を任意聴取",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584341?source=rss",
-      "publishedAt": "2026-06-15T07:42:27.000Z",
-      "xQuery": "H3ロケット9号機 8月7日打ち上げ"
+      "url": "https://news.yahoo.co.jp/pickup/6584373?source=rss",
+      "publishedAt": "2026-06-15T11:19:41.000Z",
+      "xQuery": "辺野古転覆 海保が4人を任意聴取"
     },
     {
-      "time": "18:59",
-      "title": "12歳男児が川でおぼれたか 重体",
+      "time": "20:57",
+      "title": "下妻市長死亡 副市長ただただ驚き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584361?source=rss",
-      "publishedAt": "2026-06-15T09:59:37.000Z",
-      "xQuery": "12歳男児が川でおぼれたか 重体"
+      "url": "https://news.yahoo.co.jp/pickup/6584382?source=rss",
+      "publishedAt": "2026-06-15T11:57:42.000Z",
+      "xQuery": "下妻市長死亡 副市長ただただ驚き"
     },
     {
-      "time": "18:31",
-      "title": "別府ひき逃げ 容疑者の新たな写真",
+      "time": "21:57",
+      "title": "三輪乗用車が事故 同乗の4歳重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584358?source=rss",
-      "publishedAt": "2026-06-15T09:31:31.000Z",
-      "xQuery": "別府ひき逃げ 容疑者の新たな写真"
+      "url": "https://news.yahoo.co.jp/pickup/6584387?source=rss",
+      "publishedAt": "2026-06-15T12:57:32.000Z",
+      "xQuery": "三輪乗用車が事故 同乗の4歳重体"
     },
     {
-      "time": "16:52",
-      "title": "オリにクマかかるも山に返す 兵庫",
+      "time": "20:53",
+      "title": "コストコで食中毒 10歳未満が重症",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584344?source=rss",
-      "publishedAt": "2026-06-15T07:52:16.000Z",
-      "xQuery": "オリにクマかかるも山に返す 兵庫"
+      "url": "https://news.yahoo.co.jp/pickup/6584381?source=rss",
+      "publishedAt": "2026-06-15T11:53:39.000Z",
+      "xQuery": "コストコで食中毒 10歳未満が重症"
     }
   ]
 };

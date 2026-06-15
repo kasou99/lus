@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T10:38:57.323Z",
+  "updatedAt": "2026-06-15T13:08:17.723Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,14 +52,21 @@
         "publishedAt": "2026-06-15T05:12:21.000Z"
       },
       {
-        "time": "12:29",
+        "time": "19:15",
         "title": "製造業向け業務特化AI 3講座をリリース",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vNXJ1akxvc2dHdXkzZ2pQTkdwU0E5SURfRFJDQ2xYcGxEdlUzODBhRnJoT2k4TDFzeHRRV1M0TS1FSF9SMVl2aldMcjRVUkFpdGwwQzZZMjVsT2FUczhWSUhPSmZvUXdYV0E?oc=5",
-        "publishedAt": "2026-06-15T03:29:06.000Z"
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZY0IwMEpCZlZPbjBFUHN1MDR0VkpKbzV6YVFCeFdOTE41eXpudU43N0Vlb3hOb0M4NElTdnY1QXdtUS03V25YZnJpNGgtMHh0LVJaSFZmek5YTVZfaDZidkpZS1RRZU9Q?oc=5",
+        "publishedAt": "2026-06-15T10:15:21.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "20:41",
+        "title": "米とイランの戦争 何を残したのか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584379?source=rss",
+        "publishedAt": "2026-06-15T11:41:57.000Z"
+      },
       {
         "time": "12:20",
         "title": "米イラン和平合意 19日に覚書署名",
@@ -82,13 +89,6 @@
         "publishedAt": "2026-06-15T06:43:04.000Z"
       },
       {
-        "time": "12:41",
-        "title": "G7開幕へ 米と欧の溝は埋まるか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584313?source=rss",
-        "publishedAt": "2026-06-15T03:41:21.000Z"
-      },
-      {
         "time": "15:08",
         "title": "露がキーウに空爆 世界遺産炎上",
         "source": "Yahoo!ニュース",
@@ -105,18 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "16:13",
-        "title": "東証終値6万9317円 最高値を更新",
+        "time": "21:20",
+        "title": "東京株7万円目前 AIに焦点移行か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584337?source=rss",
-        "publishedAt": "2026-06-15T07:13:43.000Z"
-      },
-      {
-        "time": "20:45",
-        "title": "新神戸駅直結の巨大モール 廃墟化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584246?source=rss",
-        "publishedAt": "2026-06-14T11:45:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584384?source=rss",
+        "publishedAt": "2026-06-15T12:20:06.000Z"
       },
       {
         "time": "16:41",
@@ -133,6 +126,13 @@
         "publishedAt": "2026-06-15T03:04:56.000Z"
       },
       {
+        "time": "20:53",
+        "title": "コストコで食中毒 10歳未満が重症",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584381?source=rss",
+        "publishedAt": "2026-06-15T11:53:39.000Z"
+      },
+      {
         "time": "08:49",
         "title": "餃子の王将 売上好調も株価低迷",
         "source": "Yahoo!ニュース",
@@ -140,27 +140,20 @@
         "publishedAt": "2026-06-14T23:49:22.000Z"
       },
       {
-        "time": "19:34",
-        "title": "スムージー半額で混雑 セブン謝罪",
+        "time": "20:40",
+        "title": "焼却炉から貴金属回収 6000万円分",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584368?source=rss",
-        "publishedAt": "2026-06-15T10:34:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584377?source=rss",
+        "publishedAt": "2026-06-15T11:40:19.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "09:19",
-        "title": "栃木強殺 主導役の容疑者浮上経緯",
+        "time": "20:19",
+        "title": "辺野古転覆 海保が4人を任意聴取",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584286?source=rss",
-        "publishedAt": "2026-06-15T00:19:52.000Z"
-      },
-      {
-        "time": "11:57",
-        "title": "2歳死亡事故 医師1人の無罪確定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584306?source=rss",
-        "publishedAt": "2026-06-15T02:57:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584373?source=rss",
+        "publishedAt": "2026-06-15T11:19:41.000Z"
       },
       {
         "time": "17:12",
@@ -170,6 +163,13 @@
         "publishedAt": "2026-06-15T08:12:26.000Z"
       },
       {
+        "time": "20:57",
+        "title": "下妻市長死亡 副市長ただただ驚き",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584382?source=rss",
+        "publishedAt": "2026-06-15T11:57:42.000Z"
+      },
+      {
         "time": "18:31",
         "title": "別府ひき逃げ 容疑者の新たな写真",
         "source": "Yahoo!ニュース",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-15T09:31:31.000Z"
       },
       {
-        "time": "16:32",
-        "title": "赤い羽根で1.8億円不明 告訴検討",
+        "time": "20:36",
+        "title": "中学1年男子が川で溺れる 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584340?source=rss",
-        "publishedAt": "2026-06-15T07:32:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584378?source=rss",
+        "publishedAt": "2026-06-15T11:36:52.000Z"
       },
       {
-        "time": "18:59",
-        "title": "12歳男児が川でおぼれたか 重体",
+        "time": "21:57",
+        "title": "三輪乗用車が事故 同乗の4歳重体",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584361?source=rss",
-        "publishedAt": "2026-06-15T09:59:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584387?source=rss",
+        "publishedAt": "2026-06-15T12:57:32.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "省力化投資補助金 一般型とは？最大1億円・対象・補助上限・申請の流れ【2026年最新】",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PcHdJM0t1bk5nclMzcnBiVUFqcXpEU2U4cF9oOTdNSG8yQ0QzLWFreG9yZWNwTTl4bV9Ca254bFgzTEZhR0NRbjhUbTI1aGZiTnp2MnRfYUhzS3hjWG95MDBYbVh3d0Vpem1v?oc=5",
+        "publishedAt": "2026-06-12T07:00:00.000Z"
       }
     ]
   }
