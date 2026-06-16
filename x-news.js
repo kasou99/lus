@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-16T10:45:17.095Z",
+  "updatedAt": "2026-06-16T12:41:15.473Z",
   "items": [
     {
-      "time": "19:07",
-      "title": "日米首脳 G7会場で短時間懇談",
+      "time": "19:41",
+      "title": "大手3行 預金金利0.4%に引き上げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584494?source=rss",
-      "publishedAt": "2026-06-16T10:07:12.000Z",
-      "xQuery": "日米首脳 G7会場で短時間懇談"
+      "url": "https://news.yahoo.co.jp/pickup/6584498?source=rss",
+      "publishedAt": "2026-06-16T10:41:59.000Z",
+      "xQuery": "大手3行 預金金利0.4%に引き上げ"
     },
     {
-      "time": "19:14",
-      "title": "日銀利上げ決定 首相なぜ「静観」",
+      "time": "21:36",
+      "title": "ストーカー加害者に新対策 警視庁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584491?source=rss",
-      "publishedAt": "2026-06-16T10:14:19.000Z",
-      "xQuery": "日銀利上げ決定 首相なぜ「静観」"
+      "url": "https://news.yahoo.co.jp/pickup/6584509?source=rss",
+      "publishedAt": "2026-06-16T12:36:30.000Z",
+      "xQuery": "ストーカー加害者に新対策 警視庁"
     },
     {
-      "time": "17:44",
-      "title": "カルテルの疑い アイス業界で何が",
+      "time": "20:49",
+      "title": "栃木強殺事件前に目撃 2人目逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584480?source=rss",
-      "publishedAt": "2026-06-16T08:44:13.000Z",
-      "xQuery": "カルテルの疑い アイス業界で何が"
+      "url": "https://news.yahoo.co.jp/pickup/6584505?source=rss",
+      "publishedAt": "2026-06-16T11:49:53.000Z",
+      "xQuery": "栃木強殺事件前に目撃 2人目逮捕"
     },
     {
-      "time": "19:17",
-      "title": "遺体発見の下妻市長 市議会黙とう",
+      "time": "20:49",
+      "title": "宿泊施設で集団食中毒 患者は97人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584495?source=rss",
-      "publishedAt": "2026-06-16T10:17:40.000Z",
-      "xQuery": "遺体発見の下妻市長 市議会黙とう"
+      "url": "https://news.yahoo.co.jp/pickup/6584506?source=rss",
+      "publishedAt": "2026-06-16T11:49:53.000Z",
+      "xQuery": "宿泊施設で集団食中毒 患者は97人"
     },
     {
-      "time": "19:37",
-      "title": "路上に血だまり 医師迷わず救助へ",
+      "time": "17:45",
+      "title": "苫小牧民報記者 SNSに容疑者名",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584496?source=rss",
-      "publishedAt": "2026-06-16T10:37:50.000Z",
-      "xQuery": "路上に血だまり 医師迷わず救助へ"
+      "url": "https://news.yahoo.co.jp/pickup/6584481?source=rss",
+      "publishedAt": "2026-06-16T08:45:04.000Z",
+      "xQuery": "苫小牧民報記者 SNSに容疑者名"
     }
   ]
 };
