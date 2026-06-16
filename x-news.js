@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-15T23:40:40.009Z",
+  "updatedAt": "2026-06-16T01:23:26.320Z",
   "items": [
     {
-      "time": "07:22",
-      "title": "9カ国共同声明 米イラン覚書歓迎",
+      "time": "08:51",
+      "title": "関東暑さ戻る 沖縄奄美は大雨警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584401?source=rss",
-      "publishedAt": "2026-06-15T22:22:37.000Z",
-      "xQuery": "9カ国共同声明 米イラン覚書歓迎"
+      "url": "https://news.yahoo.co.jp/pickup/6584416?source=rss",
+      "publishedAt": "2026-06-15T23:51:19.000Z",
+      "xQuery": "関東暑さ戻る 沖縄奄美は大雨警戒"
     },
     {
-      "time": "07:15",
-      "title": "NYダウ終値468ドル高 最高値更新",
+      "time": "09:43",
+      "title": "食料品の消費減税 意見割れる自民",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584402?source=rss",
-      "publishedAt": "2026-06-15T22:15:20.000Z",
-      "xQuery": "NYダウ終値468ドル高 最高値更新"
+      "url": "https://news.yahoo.co.jp/pickup/6584419?source=rss",
+      "publishedAt": "2026-06-16T00:43:03.000Z",
+      "xQuery": "食料品の消費減税 意見割れる自民"
     },
     {
-      "time": "07:38",
-      "title": "米大統領は宮殿で夕食 G7で厚遇",
+      "time": "08:52",
+      "title": "米でB52爆撃機墜落 8人死亡か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584405?source=rss",
-      "publishedAt": "2026-06-15T22:38:06.000Z",
-      "xQuery": "米大統領は宮殿で夕食 G7で厚遇"
-    },
-    {
-      "time": "07:34",
-      "title": "はさみで知人女性刺した疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584406?source=rss",
-      "publishedAt": "2026-06-15T22:34:09.000Z",
-      "xQuery": "はさみで知人女性刺した疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6584412?source=rss",
+      "publishedAt": "2026-06-15T23:52:17.000Z",
+      "xQuery": "米でB52爆撃機墜落 8人死亡か"
     },
     {
       "time": "08:04",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584407?source=rss",
       "publishedAt": "2026-06-15T23:04:11.000Z",
       "xQuery": "スマホのシャッター音 見直しの声"
+    },
+    {
+      "time": "10:12",
+      "title": "巨大な目 新種のヨコエビ発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584422?source=rss",
+      "publishedAt": "2026-06-16T01:12:12.000Z",
+      "xQuery": "巨大な目 新種のヨコエビ発見"
     }
   ]
 };
