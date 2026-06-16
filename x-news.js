@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-16T03:50:43.446Z",
+  "updatedAt": "2026-06-16T06:00:40.686Z",
   "items": [
+    {
+      "time": "12:50",
+      "title": "日経平均 史上初の7万円突破",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584445?source=rss",
+      "publishedAt": "2026-06-16T03:50:50.000Z",
+      "xQuery": "日経平均 史上初の7万円突破"
+    },
     {
       "time": "12:31",
       "title": "日銀1%程度に利上げ 31年ぶり水準",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584440?source=rss",
       "publishedAt": "2026-06-16T03:31:59.000Z",
       "xQuery": "日銀1%程度に利上げ 31年ぶり水準"
-    },
-    {
-      "time": "11:22",
-      "title": "ペルシャ湾で日本関係の船舶損傷",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584430?source=rss",
-      "publishedAt": "2026-06-16T02:22:21.000Z",
-      "xQuery": "ペルシャ湾で日本関係の船舶損傷"
     },
     {
       "time": "12:19",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "アイス大手6社 値上げ幅調整疑い"
     },
     {
-      "time": "12:23",
-      "title": "ナフサ不足 どこで「目詰まり」",
+      "time": "14:17",
+      "title": "富士通の会長が辞任 不適切な行動",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584435?source=rss",
-      "publishedAt": "2026-06-16T03:23:48.000Z",
-      "xQuery": "ナフサ不足 どこで「目詰まり」"
+      "url": "https://news.yahoo.co.jp/pickup/6584451?source=rss",
+      "publishedAt": "2026-06-16T05:17:16.000Z",
+      "xQuery": "富士通の会長が辞任 不適切な行動"
     },
     {
-      "time": "11:26",
-      "title": "角川歴彦氏が夏野社長らを提訴へ",
+      "time": "14:40",
+      "title": "下鴨神社 樹齢450年の大木倒れる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584431?source=rss",
-      "publishedAt": "2026-06-16T02:26:23.000Z",
-      "xQuery": "角川歴彦氏が夏野社長らを提訴へ"
+      "url": "https://news.yahoo.co.jp/pickup/6584453?source=rss",
+      "publishedAt": "2026-06-16T05:40:03.000Z",
+      "xQuery": "下鴨神社 樹齢450年の大木倒れる"
     }
   ]
 };
