@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-16T12:41:15.473Z",
+  "updatedAt": "2026-06-16T14:45:59.251Z",
   "items": [
     {
-      "time": "19:41",
-      "title": "大手3行 預金金利0.4%に引き上げ",
+      "time": "23:07",
+      "title": "首相 南米EPA交渉入りを表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584498?source=rss",
-      "publishedAt": "2026-06-16T10:41:59.000Z",
-      "xQuery": "大手3行 預金金利0.4%に引き上げ"
+      "url": "https://news.yahoo.co.jp/pickup/6584522?source=rss",
+      "publishedAt": "2026-06-16T14:07:18.000Z",
+      "xQuery": "首相 南米EPA交渉入りを表明"
     },
     {
-      "time": "21:36",
-      "title": "ストーカー加害者に新対策 警視庁",
+      "time": "22:46",
+      "title": "利上げ 若年層の住宅ローン負担増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584509?source=rss",
-      "publishedAt": "2026-06-16T12:36:30.000Z",
-      "xQuery": "ストーカー加害者に新対策 警視庁"
+      "url": "https://news.yahoo.co.jp/pickup/6584519?source=rss",
+      "publishedAt": "2026-06-16T13:46:19.000Z",
+      "xQuery": "利上げ 若年層の住宅ローン負担増"
     },
     {
-      "time": "20:49",
-      "title": "栃木強殺事件前に目撃 2人目逮捕",
+      "time": "22:58",
+      "title": "米イラン合意 ネタニヤフ氏悪夢に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584505?source=rss",
-      "publishedAt": "2026-06-16T11:49:53.000Z",
-      "xQuery": "栃木強殺事件前に目撃 2人目逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6584521?source=rss",
+      "publishedAt": "2026-06-16T13:58:32.000Z",
+      "xQuery": "米イラン合意 ネタニヤフ氏悪夢に"
     },
     {
-      "time": "20:49",
-      "title": "宿泊施設で集団食中毒 患者は97人",
+      "time": "22:27",
+      "title": "関東で震度5弱 識者注意呼びかけ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584506?source=rss",
-      "publishedAt": "2026-06-16T11:49:53.000Z",
-      "xQuery": "宿泊施設で集団食中毒 患者は97人"
+      "url": "https://news.yahoo.co.jp/pickup/6584513?source=rss",
+      "publishedAt": "2026-06-16T13:27:15.000Z",
+      "xQuery": "関東で震度5弱 識者注意呼びかけ"
     },
     {
-      "time": "17:45",
-      "title": "苫小牧民報記者 SNSに容疑者名",
+      "time": "22:50",
+      "title": "学祭で自衛隊出展中止 防衛省見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584481?source=rss",
-      "publishedAt": "2026-06-16T08:45:04.000Z",
-      "xQuery": "苫小牧民報記者 SNSに容疑者名"
+      "url": "https://news.yahoo.co.jp/pickup/6584518?source=rss",
+      "publishedAt": "2026-06-16T13:50:51.000Z",
+      "xQuery": "学祭で自衛隊出展中止 防衛省見解"
     }
   ]
 };
