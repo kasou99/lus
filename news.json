@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T02:25:44.194Z",
+  "updatedAt": "2026-06-16T03:50:42.540Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-15T17:45:12.000Z"
       },
       {
+        "time": "12:03",
+        "title": "デスクトップCNCフライス盤の市場の成長分析と動向予測レポート2026-2032 【GlobalInfoResearch】",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LczJuYjVwTnpReDdWVDA5SFhKY05kQ3p6anhSMDhUd0RSSGFfZVZVSlcxRXctclNRMldPeGVvSTZhazMyNmV6SUM1RUJNdTMyc21KMndFdVFLRjVxcjZhMWI4ZVJnTzliN3Buc3A3VEVDcGpTY1BPd0ZINA?oc=5",
+        "publishedAt": "2026-06-16T03:03:37.000Z"
+      },
+      {
         "time": "05:10",
         "title": "作業着を“世界にひとつだけの職人デニム”に育てる「職人デニムプロジェクト」始動",
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1scXRKTERIMTJwSzNRVEtYRjRzVVVjT2pKdURNS2x6X1ZkcTZPdVE5Si1qM2JRUTNjUThrclJhSkc1OGo0ZGEyNUQxYlNHb2VQbUt1WEtSRWE5bi1MM014VWNOSFZ4TFdicEZn?oc=5",
         "publishedAt": "2026-06-15T20:10:00.000Z"
-      },
-      {
-        "time": "16:55",
-        "title": "全特協4月販売6.1％増 工作機械引き合い堅調（日刊産業新聞）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XTy1nanpyMUpGQWlxSnRTaU1nSWtWSUtvQ3AxUFJSSjJyRmR6S09LSE40M3BmbHl3QnJVREM3Y3Z0RDNnZWtDbmxfWmdjWW0zZkUwaldJS3hjOHlEQ0c0SWhXWVlrUUhYS0dnT2VQb2FIbU9URW1GRmhFeHRybzQ?oc=5",
-        "publishedAt": "2026-06-15T07:55:43.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,32 @@
     ],
     "economyHeadlines": [
       {
+        "time": "12:31",
+        "title": "日銀1%程度に利上げ 31年ぶり水準",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584440?source=rss",
+        "publishedAt": "2026-06-16T03:31:59.000Z"
+      },
+      {
+        "time": "12:19",
+        "title": "アイス大手6社 値上げ幅調整疑い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584438?source=rss",
+        "publishedAt": "2026-06-16T03:19:20.000Z"
+      },
+      {
         "time": "07:15",
         "title": "NYダウ終値468ドル高 最高値更新",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584402?source=rss",
         "publishedAt": "2026-06-15T22:15:20.000Z"
+      },
+      {
+        "time": "12:23",
+        "title": "ナフサ不足 どこで「目詰まり」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584435?source=rss",
+        "publishedAt": "2026-06-16T03:23:48.000Z"
       },
       {
         "time": "20:40",
@@ -124,27 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584408?source=rss",
         "publishedAt": "2026-06-15T23:14:23.000Z"
-      },
-      {
-        "time": "16:41",
-        "title": "記念貨幣でアニメ活用 財務省検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584339?source=rss",
-        "publishedAt": "2026-06-15T07:41:54.000Z"
-      },
-      {
-        "time": "19:34",
-        "title": "スムージー半額で混雑 セブン謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584368?source=rss",
-        "publishedAt": "2026-06-15T10:34:05.000Z"
-      },
-      {
-        "time": "12:04",
-        "title": "韓国スタバ 社員に「歴史教育」へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584305?source=rss",
-        "publishedAt": "2026-06-15T03:04:56.000Z"
       }
     ],
     "localHeadlines": [

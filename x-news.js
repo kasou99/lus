@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-16T02:25:45.410Z",
+  "updatedAt": "2026-06-16T03:50:43.446Z",
   "items": [
     {
-      "time": "10:38",
-      "title": "米イラン 戦闘終結の覚書に署名",
+      "time": "12:31",
+      "title": "日銀1%程度に利上げ 31年ぶり水準",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584424?source=rss",
-      "publishedAt": "2026-06-16T01:38:56.000Z",
-      "xQuery": "米イラン 戦闘終結の覚書に署名"
+      "url": "https://news.yahoo.co.jp/pickup/6584440?source=rss",
+      "publishedAt": "2026-06-16T03:31:59.000Z",
+      "xQuery": "日銀1%程度に利上げ 31年ぶり水準"
     },
     {
-      "time": "09:43",
-      "title": "食料品の消費減税 意見割れる自民",
+      "time": "11:22",
+      "title": "ペルシャ湾で日本関係の船舶損傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584419?source=rss",
-      "publishedAt": "2026-06-16T00:43:03.000Z",
-      "xQuery": "食料品の消費減税 意見割れる自民"
+      "url": "https://news.yahoo.co.jp/pickup/6584430?source=rss",
+      "publishedAt": "2026-06-16T02:22:21.000Z",
+      "xQuery": "ペルシャ湾で日本関係の船舶損傷"
     },
     {
-      "time": "11:04",
-      "title": "米でB52爆撃機墜落 乗員8人死亡",
+      "time": "12:19",
+      "title": "アイス大手6社 値上げ幅調整疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584427?source=rss",
-      "publishedAt": "2026-06-16T02:04:02.000Z",
-      "xQuery": "米でB52爆撃機墜落 乗員8人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6584438?source=rss",
+      "publishedAt": "2026-06-16T03:19:20.000Z",
+      "xQuery": "アイス大手6社 値上げ幅調整疑い"
     },
     {
-      "time": "08:04",
-      "title": "スマホのシャッター音 見直しの声",
+      "time": "12:23",
+      "title": "ナフサ不足 どこで「目詰まり」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584407?source=rss",
-      "publishedAt": "2026-06-15T23:04:11.000Z",
-      "xQuery": "スマホのシャッター音 見直しの声"
+      "url": "https://news.yahoo.co.jp/pickup/6584435?source=rss",
+      "publishedAt": "2026-06-16T03:23:48.000Z",
+      "xQuery": "ナフサ不足 どこで「目詰まり」"
     },
     {
-      "time": "10:02",
-      "title": "「トビケラ」大群 悩む宇治市住民",
+      "time": "11:26",
+      "title": "角川歴彦氏が夏野社長らを提訴へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584421?source=rss",
-      "publishedAt": "2026-06-16T01:02:58.000Z",
-      "xQuery": "「トビケラ」大群 悩む宇治市住民"
+      "url": "https://news.yahoo.co.jp/pickup/6584431?source=rss",
+      "publishedAt": "2026-06-16T02:26:23.000Z",
+      "xQuery": "角川歴彦氏が夏野社長らを提訴へ"
     }
   ]
 };
