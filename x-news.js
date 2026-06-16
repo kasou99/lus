@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-16T21:31:42.041Z",
+  "updatedAt": "2026-06-16T22:43:11.356Z",
   "items": [
     {
-      "time": "23:07",
-      "title": "首相 南米EPA交渉入りを表明",
+      "time": "07:24",
+      "title": "原油先物が5%急落 3カ月ぶり安値",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584522?source=rss",
-      "publishedAt": "2026-06-16T14:07:18.000Z",
-      "xQuery": "首相 南米EPA交渉入りを表明"
+      "url": "https://news.yahoo.co.jp/pickup/6584533?source=rss",
+      "publishedAt": "2026-06-16T22:24:24.000Z",
+      "xQuery": "原油先物が5%急落 3カ月ぶり安値"
     },
     {
       "time": "22:46",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン合意 ネタニヤフ氏悪夢に"
     },
     {
+      "time": "06:39",
+      "title": "高市陣営巡る動画報道 訂正相次ぐ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584531?source=rss",
+      "publishedAt": "2026-06-16T21:39:56.000Z",
+      "xQuery": "高市陣営巡る動画報道 訂正相次ぐ"
+    },
+    {
       "time": "22:27",
       "title": "関東で震度5弱 識者注意呼びかけ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6584513?source=rss",
       "publishedAt": "2026-06-16T13:27:15.000Z",
       "xQuery": "関東で震度5弱 識者注意呼びかけ"
-    },
-    {
-      "time": "20:49",
-      "title": "宿泊施設で集団食中毒 患者は97人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584506?source=rss",
-      "publishedAt": "2026-06-16T11:49:53.000Z",
-      "xQuery": "宿泊施設で集団食中毒 患者は97人"
     }
   ]
 };

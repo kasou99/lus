@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-16T21:31:41.008Z",
+  "updatedAt": "2026-06-16T22:43:10.628Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "工作機械技術振興賞、日本精工など表彰 工作機械技術振興財団が贈賞式",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jNFRtSUdzbEZIbWdDSkFlbTZ3eC14V1lBSW1SRWNhNmtabXJTSWVRYmVGWlg3THVjNllOQXdjV2V1WHh5bkROU0xqZEwyQlNTbEhPUkZ2RFpoTUtDbTVHY2ZmSzhrVXo5bUVJLUhVTmFUV21F?oc=5",
+        "publishedAt": "2026-06-16T20:00:00.000Z"
+      },
       {
         "time": "14:25",
         "title": "AI関連で受注増の工作機械 - 田嶋智太郎の銘柄NAVI",
@@ -50,13 +57,6 @@
         "source": "RBB TODAY",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiTXBXLVRudlZaSThMZU15R2lKS1k0ODZJbWdtQmlkMUxkbW5aUTRiRzBIZFdpRW1FVTNnOGl0clg3RFA5RTJTVXdtSHFCWGF1N1RZbnlULU01Y0lfekN5WjdKS0VtT3ZsNjA2Q3pLLTZMWVRFMkZVVw?oc=5",
         "publishedAt": "2026-06-16T01:46:20.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "内田洋行、次世代DX基盤構築 東京・府中の小中33校に",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kU3YyS29saVlvalFFM1BzdmJXTzlfMHRYMzRmTXVsLXZjT3F0UXZQOHF3cU5oZnJQUmdIcDN3SllSdlEzREZFZDF4SlJSREV5TXFNZnpmM3BLNU0?oc=5",
-        "publishedAt": "2026-06-16T01:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,18 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "12:31",
-        "title": "日銀1%程度に利上げ 31年ぶり水準",
+        "time": "07:24",
+        "title": "原油先物が5%急落 3カ月ぶり安値",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584440?source=rss",
-        "publishedAt": "2026-06-16T03:31:59.000Z"
-      },
-      {
-        "time": "16:59",
-        "title": "日銀利上げ決定 リスク慎重見極め",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584473?source=rss",
-        "publishedAt": "2026-06-16T07:59:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584533?source=rss",
+        "publishedAt": "2026-06-16T22:24:24.000Z"
       },
       {
         "time": "22:46",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584451?source=rss",
         "publishedAt": "2026-06-16T05:17:16.000Z"
+      },
+      {
+        "time": "07:32",
+        "title": "ピザハット売却へ 米飲食大手",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584535?source=rss",
+        "publishedAt": "2026-06-16T22:32:04.000Z"
       }
     ],
     "localHeadlines": [
