@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-16T01:23:20.839Z",
+  "updatedAt": "2026-06-16T02:25:44.194Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "09:10",
-        "title": "EMLinkウェビナー開催：「AIエージェントに選ばれる」設備保全データ整備 — AI活用の成否は、データの整え方で決まる（7月2日・参加無料）",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lS25McWVFbUNvWDdudFNLSzltVm9UMnpwSW9aQl9kLUwyV29kcU1ZSVkyM1dxZmN6ODMtd1RPcjNxMFVIbDB6bXJ0am41SUdxaXB4QlRBZG9ybHlsc1plcTJpTmI1UVpLQUE?oc=5",
-        "publishedAt": "2026-06-16T00:10:02.000Z"
+        "time": "10:46",
+        "title": "EMLinkウェビナー開催：「AIエージェントに選ばれる」設備保全データ整備 - AI活用の成否は、データの整え方で決まる（7月2日・参加無料）",
+        "source": "RBB TODAY",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiTXBXLVRudlZaSThMZU15R2lKS1k0ODZJbWdtQmlkMUxkbW5aUTRiRzBIZFdpRW1FVTNnOGl0clg3RFA5RTJTVXdtSHFCWGF1N1RZbnlULU01Y0lfekN5WjdKS0VtT3ZsNjA2Q3pLLTZMWVRFMkZVVw?oc=5",
+        "publishedAt": "2026-06-16T01:46:02.000Z"
       },
       {
         "time": "06:20",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "10:38",
+        "title": "米イラン 戦闘終結の覚書に署名",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584424?source=rss",
+        "publishedAt": "2026-06-16T01:38:56.000Z"
+      },
+      {
         "time": "07:22",
         "title": "9カ国共同声明 米イラン覚書歓迎",
         "source": "Yahoo!ニュース",
@@ -82,25 +89,18 @@
         "publishedAt": "2026-06-15T11:41:57.000Z"
       },
       {
-        "time": "15:43",
-        "title": "米イラン合意 イスラエル反応せず",
+        "time": "11:04",
+        "title": "米でB52爆撃機墜落 乗員8人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584335?source=rss",
-        "publishedAt": "2026-06-15T06:43:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584427?source=rss",
+        "publishedAt": "2026-06-16T02:04:02.000Z"
       },
       {
-        "time": "08:52",
-        "title": "米でB52爆撃機墜落 8人死亡か",
+        "time": "11:22",
+        "title": "ペルシャ湾で日本関係の船舶損傷",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584412?source=rss",
-        "publishedAt": "2026-06-15T23:52:17.000Z"
-      },
-      {
-        "time": "15:08",
-        "title": "露がキーウに空爆 世界遺産炎上",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584326?source=rss",
-        "publishedAt": "2026-06-15T06:08:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584430?source=rss",
+        "publishedAt": "2026-06-16T02:22:21.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "22:32",
-        "title": "島根・丸山知事 がん治療で入院へ",
+        "time": "11:22",
+        "title": "島根知事 ステージ3膀胱がん公表",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584389?source=rss",
-        "publishedAt": "2026-06-15T13:32:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584429?source=rss",
+        "publishedAt": "2026-06-16T02:22:24.000Z"
       },
       {
         "time": "17:12",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-15T23:57:23.000Z"
       },
       {
-        "time": "07:34",
-        "title": "はさみで知人女性刺した疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584406?source=rss",
-        "publishedAt": "2026-06-15T22:34:09.000Z"
-      },
-      {
         "time": "18:31",
         "title": "別府ひき逃げ 容疑者の新たな写真",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584358?source=rss",
         "publishedAt": "2026-06-15T09:31:31.000Z"
+      },
+      {
+        "time": "07:34",
+        "title": "はさみで知人女性刺した疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584406?source=rss",
+        "publishedAt": "2026-06-15T22:34:09.000Z"
       }
     ],
     "subsidyHeadlines": [

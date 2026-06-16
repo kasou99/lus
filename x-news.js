@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-16T01:23:26.320Z",
+  "updatedAt": "2026-06-16T02:25:45.410Z",
   "items": [
     {
-      "time": "08:51",
-      "title": "関東暑さ戻る 沖縄奄美は大雨警戒",
+      "time": "10:38",
+      "title": "米イラン 戦闘終結の覚書に署名",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584416?source=rss",
-      "publishedAt": "2026-06-15T23:51:19.000Z",
-      "xQuery": "関東暑さ戻る 沖縄奄美は大雨警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6584424?source=rss",
+      "publishedAt": "2026-06-16T01:38:56.000Z",
+      "xQuery": "米イラン 戦闘終結の覚書に署名"
     },
     {
       "time": "09:43",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "食料品の消費減税 意見割れる自民"
     },
     {
-      "time": "08:52",
-      "title": "米でB52爆撃機墜落 8人死亡か",
+      "time": "11:04",
+      "title": "米でB52爆撃機墜落 乗員8人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584412?source=rss",
-      "publishedAt": "2026-06-15T23:52:17.000Z",
-      "xQuery": "米でB52爆撃機墜落 8人死亡か"
+      "url": "https://news.yahoo.co.jp/pickup/6584427?source=rss",
+      "publishedAt": "2026-06-16T02:04:02.000Z",
+      "xQuery": "米でB52爆撃機墜落 乗員8人死亡"
     },
     {
       "time": "08:04",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "スマホのシャッター音 見直しの声"
     },
     {
-      "time": "10:12",
-      "title": "巨大な目 新種のヨコエビ発見",
+      "time": "10:02",
+      "title": "「トビケラ」大群 悩む宇治市住民",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584422?source=rss",
-      "publishedAt": "2026-06-16T01:12:12.000Z",
-      "xQuery": "巨大な目 新種のヨコエビ発見"
+      "url": "https://news.yahoo.co.jp/pickup/6584421?source=rss",
+      "publishedAt": "2026-06-16T01:02:58.000Z",
+      "xQuery": "「トビケラ」大群 悩む宇治市住民"
     }
   ]
 };
