@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-16T14:47:35.494Z",
+  "updatedAt": "2026-06-16T16:38:16.165Z",
   "items": [
     {
       "time": "23:07",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584522?source=rss",
       "publishedAt": "2026-06-16T14:07:18.000Z",
       "xQuery": "首相 南米EPA交渉入りを表明"
+    },
+    {
+      "time": "23:30",
+      "title": "こども家庭庁 予算全部見える化へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584524?source=rss",
+      "publishedAt": "2026-06-16T14:30:05.000Z",
+      "xQuery": "こども家庭庁 予算全部見える化へ"
     },
     {
       "time": "22:46",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584513?source=rss",
       "publishedAt": "2026-06-16T13:27:15.000Z",
       "xQuery": "関東で震度5弱 識者注意呼びかけ"
-    },
-    {
-      "time": "22:50",
-      "title": "学祭で自衛隊出展中止 防衛省見解",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584518?source=rss",
-      "publishedAt": "2026-06-16T13:50:51.000Z",
-      "xQuery": "学祭で自衛隊出展中止 防衛省見解"
     }
   ]
 };
