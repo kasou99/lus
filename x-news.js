@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-16T06:00:40.686Z",
+  "updatedAt": "2026-06-16T08:32:15.437Z",
   "items": [
     {
-      "time": "12:50",
-      "title": "日経平均 史上初の7万円突破",
+      "time": "16:59",
+      "title": "日銀利上げ決定 リスク慎重見極め",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584445?source=rss",
-      "publishedAt": "2026-06-16T03:50:50.000Z",
-      "xQuery": "日経平均 史上初の7万円突破"
+      "url": "https://news.yahoo.co.jp/pickup/6584473?source=rss",
+      "publishedAt": "2026-06-16T07:59:38.000Z",
+      "xQuery": "日銀利上げ決定 リスク慎重見極め"
     },
     {
-      "time": "12:31",
-      "title": "日銀1%程度に利上げ 31年ぶり水準",
+      "time": "17:04",
+      "title": "赤い羽根で着服疑い 福祉団体困惑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584440?source=rss",
-      "publishedAt": "2026-06-16T03:31:59.000Z",
-      "xQuery": "日銀1%程度に利上げ 31年ぶり水準"
+      "url": "https://news.yahoo.co.jp/pickup/6584475?source=rss",
+      "publishedAt": "2026-06-16T08:04:31.000Z",
+      "xQuery": "赤い羽根で着服疑い 福祉団体困惑"
     },
     {
-      "time": "12:19",
-      "title": "アイス大手6社 値上げ幅調整疑い",
+      "time": "16:16",
+      "title": "コストコ食中毒 900パック超販売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584438?source=rss",
-      "publishedAt": "2026-06-16T03:19:20.000Z",
-      "xQuery": "アイス大手6社 値上げ幅調整疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6584464?source=rss",
+      "publishedAt": "2026-06-16T07:16:31.000Z",
+      "xQuery": "コストコ食中毒 900パック超販売"
     },
     {
-      "time": "14:17",
-      "title": "富士通の会長が辞任 不適切な行動",
+      "time": "16:40",
+      "title": "駐車場にパラグライダー墜落 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584451?source=rss",
-      "publishedAt": "2026-06-16T05:17:16.000Z",
-      "xQuery": "富士通の会長が辞任 不適切な行動"
+      "url": "https://news.yahoo.co.jp/pickup/6584469?source=rss",
+      "publishedAt": "2026-06-16T07:40:23.000Z",
+      "xQuery": "駐車場にパラグライダー墜落 死亡"
     },
     {
-      "time": "14:40",
-      "title": "下鴨神社 樹齢450年の大木倒れる",
+      "time": "16:29",
+      "title": "おにぎりは高級品 子育て家庭悲鳴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584453?source=rss",
-      "publishedAt": "2026-06-16T05:40:03.000Z",
-      "xQuery": "下鴨神社 樹齢450年の大木倒れる"
+      "url": "https://news.yahoo.co.jp/pickup/6584467?source=rss",
+      "publishedAt": "2026-06-16T07:29:50.000Z",
+      "xQuery": "おにぎりは高級品 子育て家庭悲鳴"
     }
   ]
 };
