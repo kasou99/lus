@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T14:45:58.398Z",
+  "updatedAt": "2026-06-16T14:47:34.773Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-06-16T01:46:20.000Z"
       },
       {
-        "time": "10:30",
-        "title": "粉砕装置の世界市場（2026年～2032年）、市場規模（立形フライス盤、横形フライス盤、門形フライス盤）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfeWNPVFh1aEtMNEl0OUFxQVMwaEFkVGdTX19COFZMMmhBTXE5YURRd2p1a0UxTGp6bEdmbkNhZUhLd1dSVUMzd1NQNlJmTlU?oc=5",
-        "publishedAt": "2026-06-16T01:30:00.000Z"
-      },
-      {
         "time": "07:31",
         "title": "内田洋行、次世代DX基盤構築 東京・府中の小中33校に",
         "source": "日刊工業新聞",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-06-15T22:31:06.000Z"
       },
       {
-        "time": "13:57",
-        "title": "ARCHION、トヨタ主体のCJPTに参画...日野・三菱ふそう統合の新持株会社が物流課題解決へ",
-        "source": "レスポンス（Response.jp）",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kSTFYUDZMSVhmcnlFbXRiYmo1NFZxdkN4Ynpkb1BLT01Cc2wzQWlIU04wUUtGREQ0MkN3bTdDRk5VaHJLam0yeE0zckN0VXd3LTVZU3kzZmdaYU40LWpoWUIzaGF2dVRBX3BxVA?oc=5",
-        "publishedAt": "2026-06-16T04:57:02.000Z"
+        "time": "02:45",
+        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00QW5BODBfUzlLekhnMTlEZHFGNmxLZ2xlTEJPandYb0tpYXhBb2htU0VhdzVOWWVHUFExWVlHVEZsRmFwVVczU3cxdzl1elBrTWJYUlpqWW5iTlRWcDNYTDln?oc=5",
+        "publishedAt": "2026-06-15T17:45:12.000Z"
+      },
+      {
+        "time": "12:03",
+        "title": "デスクトップCNCフライス盤の市場の成長分析と動向予測レポート2026-2032 【GlobalInfoResearch】",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBseU5LMkQ2bHpiVXdEeTliUlAzMjg4bUN5QzFEM014c0hfTi1pMGV5U2RoLTdtTTNqNU5RX180bURwcE1FZ3NVbDAyR1Q2WkM0UFcwcA?oc=5",
+        "publishedAt": "2026-06-16T03:03:37.000Z"
       }
     ],
     "worldHeadlines": [
