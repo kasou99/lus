@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-16T22:43:11.356Z",
+  "updatedAt": "2026-06-16T23:37:29.953Z",
   "items": [
     {
       "time": "07:24",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高市陣営巡る動画報道 訂正相次ぐ"
     },
     {
-      "time": "22:27",
-      "title": "関東で震度5弱 識者注意呼びかけ",
+      "time": "07:50",
+      "title": "自宅敷地内に突然クマ 男性けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584513?source=rss",
-      "publishedAt": "2026-06-16T13:27:15.000Z",
-      "xQuery": "関東で震度5弱 識者注意呼びかけ"
+      "url": "https://news.yahoo.co.jp/pickup/6584537?source=rss",
+      "publishedAt": "2026-06-16T22:50:21.000Z",
+      "xQuery": "自宅敷地内に突然クマ 男性けが"
     }
   ]
 };

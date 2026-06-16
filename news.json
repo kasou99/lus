@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T22:43:10.628Z",
+  "updatedAt": "2026-06-16T23:37:29.116Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "日経CNBC online",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qU1pZSTF0NmRhVlo5eFZ1UlNaTTdoal83cDJGMEtpY3lEWkx6UEQ3M0E2X0FEWk0xaHQ5andrWnFRSndnSzZxWWJZMlZVNHZpRHd6ZQ?oc=5",
         "publishedAt": "2026-06-16T05:25:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "DMG森精機が欧州基盤を強化、人材や自動化、AM開発に攻めの投資（2ページ目）",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWDc3eHNlSUVUaFFDVldnN3pkTTJGemxwbDFVT3pvLVM2cnFldE1MT2gwZ0YxVHFEb2hfclVTWFlmV3NjZzY4eHhLWS01a1FncEwxTWowLV9SVzB5S3VHb3U5a1Y5bmE0SklfSkRnYl9vQzlsd3lSMjZILTdCUTU1aXBjWTlMeldiUldkaldUcTlUdXl3VDRKNWdR?oc=5",
+        "publishedAt": "2026-06-16T20:00:00.000Z"
       },
       {
         "time": "01:10",
@@ -38,13 +45,6 @@
         "publishedAt": "2026-06-16T16:05:43.000Z"
       },
       {
-        "time": "09:06",
-        "title": "社員38人で売上80億円はなぜ可能なのか？ AIが加工工程を自動化する工作機械が職人不足と100兆円市場に与える影響",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4UzVfVm5JUzVFeG1CcllVa2FtYVoxNHMtMkdfR2Q0azZmOW12a2NzNHd2WTBmMnJjVnh6LVU3dWRiRENrSW0zbERVazV6cTNqT0NBQVExM3Qyc2c?oc=5",
-        "publishedAt": "2026-06-16T00:06:27.000Z"
-      },
-      {
         "time": "13:15",
         "title": "大阪産業局が「大阪ブース」、府内4社が共同出展へ…ベトナム工作機械見本市「VIMF BINH DUONG 2026」（レスポンス）",
         "source": "Yahoo!ニュース",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-06-16T04:15:03.000Z"
       },
       {
-        "time": "10:46",
-        "title": "EMLinkウェビナー開催：「AIエージェントに選ばれる」設備保全データ整備 - AI活用の成否は、データの整え方で決まる（7月2日・参加無料）",
-        "source": "RBB TODAY",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiTXBXLVRudlZaSThMZU15R2lKS1k0ODZJbWdtQmlkMUxkbW5aUTRiRzBIZFdpRW1FVTNnOGl0clg3RFA5RTJTVXdtSHFCWGF1N1RZbnlULU01Y0lfekN5WjdKS0VtT3ZsNjA2Q3pLLTZMWVRFMkZVVw?oc=5",
-        "publishedAt": "2026-06-16T01:46:20.000Z"
+        "time": "09:06",
+        "title": "社員38人で売上80億円はなぜ可能なのか？ AIが加工工程を自動化する工作機械が職人不足と100兆円市場に与える影響",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4UzVfVm5JUzVFeG1CcllVa2FtYVoxNHMtMkdfR2Q0azZmOW12a2NzNHd2WTBmMnJjVnh6LVU3dWRiRENrSW0zbERVazV6cTNqT0NBQVExM3Qyc2c?oc=5",
+        "publishedAt": "2026-06-16T00:06:27.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:50",
+        "title": "自宅敷地内に突然クマ 男性けが",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584537?source=rss",
+        "publishedAt": "2026-06-16T22:50:21.000Z"
+      },
+      {
         "time": "21:36",
         "title": "ストーカー加害者に新対策 警視庁",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584503?source=rss",
         "publishedAt": "2026-06-16T11:18:00.000Z"
-      },
-      {
-        "time": "22:35",
-        "title": "殺人など2被告起訴取り消し 地検",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584516?source=rss",
-        "publishedAt": "2026-06-16T13:35:11.000Z"
       }
     ],
     "subsidyHeadlines": [
