@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T08:32:14.746Z",
+  "updatedAt": "2026-06-16T10:45:16.036Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,20 @@
         "source": "日経CNBC online",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qU1pZSTF0NmRhVlo5eFZ1UlNaTTdoal83cDJGMEtpY3lEWkx6UEQ3M0E2X0FEWk0xaHQ5andrWnFRSndnSzZxWWJZMlZVNHZpRHd6ZQ?oc=5",
         "publishedAt": "2026-06-16T05:25:00.000Z"
+      },
+      {
+        "time": "11:52",
+        "title": "J Cam Engineering GE20A 導入事例 | ニデックマシンツール",
+        "source": "nidec.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGhNSEVaSXlnd25UM1lLQUJ3cWlNTGRTNUU1RHVTbjR1bGZpLXEzY1hBaTR2azFVRnNkOU5LSHNOMnRzcjlQdFd3WlZDeHdkNDNZdXg0bmQxT01ySmlxY3pCZDVUcmtsZlQwd3o1Mi1FNHlZUUduaW1pRDdMOUxZZXFSdjlCTzNOdkR1WGl3WWdPMVU?oc=5",
+        "publishedAt": "2026-06-16T02:52:00.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "JIMTOF2026 第33回日本国際工作機械見本市 出展規模・出展者リストを発表",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByUmZYVmt6UmpzUWsxLWQtTkMwN0dxZVlUcHZMa09PazVVYTBWM0FFQTIwWWNVbUpsRUwxMDQyQUkzeHM2ZU45Y3VEQTc5WjdZbDEwZ245M19kNFhxQmg5ZThJZDhkQklUZFE?oc=5",
+        "publishedAt": "2026-06-16T04:00:01.000Z"
       },
       {
         "time": "13:15",
@@ -43,20 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FS1Voal9qYkJiVDhVWnN1Q29DN3pNc245a25hakNadGgydl96SEczSDIxRXhVdDFESmxuUGRhTy1WaGdLeHR4RXluVDlkZm83UGRRcWhzNV9uM0dUT0FwdmFpMVBKNnA5SWlFWXNMMWxZTEpYb3hObjhpT0UtU1U?oc=5",
         "publishedAt": "2026-06-15T21:20:08.000Z"
-      },
-      {
-        "time": "05:10",
-        "title": "作業着を“世界にひとつだけの職人デニム”に育てる「職人デニムプロジェクト」始動",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1scXRKTERIMTJwSzNRVEtYRjRzVVVjT2pKdURNS2x6X1ZkcTZPdVE5Si1qM2JRUTNjUThrclJhSkc1OGo0ZGEyNUQxYlNHb2VQbUt1WEtSRWE5bi1MM014VWNOSFZ4TFdicEZn?oc=5",
-        "publishedAt": "2026-06-15T20:10:00.000Z"
-      },
-      {
-        "time": "05:57",
-        "title": "AIとともに／埼玉県川越市 行政DXで事務負担減",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hVU9ONUM0Q05zeXI3ZGdnMXptY3UzN09IeGlWa2FZMmVKVnRSNER1eUNjQXZpSDZ0WWVkdS16RjVoWVNlaEdqTkN3bTBBYVlXTmhMc3JYWWNsaTBabEZkNVJUelUxZkI3d0I5WURIV0pVQVYw?oc=5",
-        "publishedAt": "2026-06-15T20:57:58.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "16:41",
-        "title": "東証終値6万9404円 最高値を更新",
+        "time": "19:41",
+        "title": "大手3行 預金金利0.4%に引き上げ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584460?source=rss",
-        "publishedAt": "2026-06-16T07:41:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584498?source=rss",
+        "publishedAt": "2026-06-16T10:41:59.000Z"
       },
       {
         "time": "16:59",
@@ -126,11 +126,11 @@
         "publishedAt": "2026-06-16T03:31:59.000Z"
       },
       {
-        "time": "12:19",
-        "title": "アイス大手6社 値上げ幅調整疑い",
+        "time": "17:44",
+        "title": "カルテルの疑い アイス業界で何が",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584438?source=rss",
-        "publishedAt": "2026-06-16T03:19:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584480?source=rss",
+        "publishedAt": "2026-06-16T08:44:13.000Z"
       },
       {
         "time": "14:17",
@@ -156,32 +156,25 @@
         "publishedAt": "2026-06-16T08:04:31.000Z"
       },
       {
-        "time": "11:22",
-        "title": "島根知事 ステージ3膀胱がん公表",
+        "time": "19:17",
+        "title": "遺体発見の下妻市長 市議会黙とう",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584429?source=rss",
-        "publishedAt": "2026-06-16T02:22:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584495?source=rss",
+        "publishedAt": "2026-06-16T10:17:40.000Z"
       },
       {
-        "time": "16:40",
-        "title": "駐車場にパラグライダー墜落 死亡",
+        "time": "18:00",
+        "title": "都 ツキノワグマ猟20年ぶり解禁へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584469?source=rss",
-        "publishedAt": "2026-06-16T07:40:23.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584485?source=rss",
+        "publishedAt": "2026-06-16T09:00:15.000Z"
       },
       {
-        "time": "17:25",
-        "title": "被害者と60h超通話 詐欺疑い逮捕",
+        "time": "17:57",
+        "title": "パラグライダーの男性が落下 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584477?source=rss",
-        "publishedAt": "2026-06-16T08:25:42.000Z"
-      },
-      {
-        "time": "00:03",
-        "title": "県開発苗木が中国流出か 知事怒り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584396?source=rss",
-        "publishedAt": "2026-06-15T15:03:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584486?source=rss",
+        "publishedAt": "2026-06-16T08:57:13.000Z"
       },
       {
         "time": "16:47",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584471?source=rss",
         "publishedAt": "2026-06-16T07:47:04.000Z"
+      },
+      {
+        "time": "19:37",
+        "title": "路上に血だまり 医師迷わず救助へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584496?source=rss",
+        "publishedAt": "2026-06-16T10:37:50.000Z"
       }
     ],
     "subsidyHeadlines": [

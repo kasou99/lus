@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-16T08:32:15.437Z",
+  "updatedAt": "2026-06-16T10:45:17.095Z",
   "items": [
     {
-      "time": "16:59",
-      "title": "日銀利上げ決定 リスク慎重見極め",
+      "time": "19:07",
+      "title": "日米首脳 G7会場で短時間懇談",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584473?source=rss",
-      "publishedAt": "2026-06-16T07:59:38.000Z",
-      "xQuery": "日銀利上げ決定 リスク慎重見極め"
+      "url": "https://news.yahoo.co.jp/pickup/6584494?source=rss",
+      "publishedAt": "2026-06-16T10:07:12.000Z",
+      "xQuery": "日米首脳 G7会場で短時間懇談"
     },
     {
-      "time": "17:04",
-      "title": "赤い羽根で着服疑い 福祉団体困惑",
+      "time": "19:14",
+      "title": "日銀利上げ決定 首相なぜ「静観」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584475?source=rss",
-      "publishedAt": "2026-06-16T08:04:31.000Z",
-      "xQuery": "赤い羽根で着服疑い 福祉団体困惑"
+      "url": "https://news.yahoo.co.jp/pickup/6584491?source=rss",
+      "publishedAt": "2026-06-16T10:14:19.000Z",
+      "xQuery": "日銀利上げ決定 首相なぜ「静観」"
     },
     {
-      "time": "16:16",
-      "title": "コストコ食中毒 900パック超販売",
+      "time": "17:44",
+      "title": "カルテルの疑い アイス業界で何が",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584464?source=rss",
-      "publishedAt": "2026-06-16T07:16:31.000Z",
-      "xQuery": "コストコ食中毒 900パック超販売"
+      "url": "https://news.yahoo.co.jp/pickup/6584480?source=rss",
+      "publishedAt": "2026-06-16T08:44:13.000Z",
+      "xQuery": "カルテルの疑い アイス業界で何が"
     },
     {
-      "time": "16:40",
-      "title": "駐車場にパラグライダー墜落 死亡",
+      "time": "19:17",
+      "title": "遺体発見の下妻市長 市議会黙とう",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584469?source=rss",
-      "publishedAt": "2026-06-16T07:40:23.000Z",
-      "xQuery": "駐車場にパラグライダー墜落 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6584495?source=rss",
+      "publishedAt": "2026-06-16T10:17:40.000Z",
+      "xQuery": "遺体発見の下妻市長 市議会黙とう"
     },
     {
-      "time": "16:29",
-      "title": "おにぎりは高級品 子育て家庭悲鳴",
+      "time": "19:37",
+      "title": "路上に血だまり 医師迷わず救助へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584467?source=rss",
-      "publishedAt": "2026-06-16T07:29:50.000Z",
-      "xQuery": "おにぎりは高級品 子育て家庭悲鳴"
+      "url": "https://news.yahoo.co.jp/pickup/6584496?source=rss",
+      "publishedAt": "2026-06-16T10:37:50.000Z",
+      "xQuery": "路上に血だまり 医師迷わず救助へ"
     }
   ]
 };
