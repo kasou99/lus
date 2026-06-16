@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-16T20:07:55.829Z",
+  "updatedAt": "2026-06-16T21:31:42.041Z",
   "items": [
     {
       "time": "23:07",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584522?source=rss",
       "publishedAt": "2026-06-16T14:07:18.000Z",
       "xQuery": "首相 南米EPA交渉入りを表明"
-    },
-    {
-      "time": "23:30",
-      "title": "こども家庭庁 予算全部見える化へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584524?source=rss",
-      "publishedAt": "2026-06-16T14:30:05.000Z",
-      "xQuery": "こども家庭庁 予算全部見える化へ"
     },
     {
       "time": "22:46",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584513?source=rss",
       "publishedAt": "2026-06-16T13:27:15.000Z",
       "xQuery": "関東で震度5弱 識者注意呼びかけ"
+    },
+    {
+      "time": "20:49",
+      "title": "宿泊施設で集団食中毒 患者は97人",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584506?source=rss",
+      "publishedAt": "2026-06-16T11:49:53.000Z",
+      "xQuery": "宿泊施設で集団食中毒 患者は97人"
     }
   ]
 };
