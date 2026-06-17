@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-17T02:26:23.306Z",
+  "updatedAt": "2026-06-17T03:51:43.917Z",
   "items": [
     {
-      "time": "10:11",
-      "title": "知床沈没事故 社長に禁錮5年判決",
+      "time": "12:00",
+      "title": "16日地震の関東 土砂災害に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584553?source=rss",
-      "publishedAt": "2026-06-17T01:11:43.000Z",
-      "xQuery": "知床沈没事故 社長に禁錮5年判決"
+      "url": "https://news.yahoo.co.jp/pickup/6584568?source=rss",
+      "publishedAt": "2026-06-17T03:00:55.000Z",
+      "xQuery": "16日地震の関東 土砂災害に注意"
     },
     {
-      "time": "10:32",
-      "title": "覚書にイラン復興巡る基金の構想",
+      "time": "11:30",
+      "title": "カルテル疑い 価格相談許されぬ訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584549?source=rss",
-      "publishedAt": "2026-06-17T01:32:46.000Z",
-      "xQuery": "覚書にイラン復興巡る基金の構想"
+      "url": "https://news.yahoo.co.jp/pickup/6584557?source=rss",
+      "publishedAt": "2026-06-17T02:30:05.000Z",
+      "xQuery": "カルテル疑い 価格相談許されぬ訳"
     },
     {
-      "time": "08:46",
-      "title": "ホワイトハウスのイベ巡り5人訴追",
+      "time": "12:47",
+      "title": "知床沈没事故 桂田被告が即日控訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584543?source=rss",
-      "publishedAt": "2026-06-16T23:46:42.000Z",
-      "xQuery": "ホワイトハウスのイベ巡り5人訴追"
+      "url": "https://news.yahoo.co.jp/pickup/6584576?source=rss",
+      "publishedAt": "2026-06-17T03:47:14.000Z",
+      "xQuery": "知床沈没事故 桂田被告が即日控訴"
     },
     {
-      "time": "10:15",
-      "title": "スクールバスにはねられ女性重体",
+      "time": "11:56",
+      "title": "露大統領風刺のアーティスト 射殺",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584551?source=rss",
-      "publishedAt": "2026-06-17T01:15:51.000Z",
-      "xQuery": "スクールバスにはねられ女性重体"
+      "url": "https://news.yahoo.co.jp/pickup/6584566?source=rss",
+      "publishedAt": "2026-06-17T02:56:52.000Z",
+      "xQuery": "露大統領風刺のアーティスト 射殺"
     },
     {
       "time": "10:31",

@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-17T02:26:22.602Z",
+  "updatedAt": "2026-06-17T03:51:42.934Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "11:21",
+        "title": "プレスリリース：株式会社MadeHere 「メンテナンス・レジリエンス 2026」へ出展。プラント設備保全で発生する\"廃番部品の迅速製造”を提案（PR TIMES）",
+        "source": "毎日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QT2pWYXd1WEdZUzlvVGh5UTZCTXBaMy1FLTZENWpjTUg4NHJXZlJpWDRaczRMU00yb01jdVFUY0FYc1BhRVMxN1lnVllJNWtsYnR5cmJNY0xnakVNQkVvdy04V1IwdEpS?oc=5",
+        "publishedAt": "2026-06-17T02:21:47.000Z"
+      },
       {
         "time": "05:00",
         "title": "工作機械技術振興賞、日本精工など表彰 工作機械技術振興財団が贈賞式",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-06-16T13:00:22.000Z"
       },
       {
-        "time": "11:52",
+        "time": "19:48",
         "title": "J Cam Engineering GE20A 導入事例 | ニデックマシンツール",
         "source": "nidec.com",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGhNSEVaSXlnd25UM1lLQUJ3cWlNTGRTNUU1RHVTbjR1bGZpLXEzY1hBaTR2azFVRnNkOU5LSHNOMnRzcjlQdFd3WlZDeHdkNDNZdXg0bmQxT01ySmlxY3pCZDVUcmtsZlQwd3o1Mi1FNHlZUUduaW1pRDdMOUxZZXFSdjlCTzNOdkR1WGl3WWdPMVU?oc=5",
-        "publishedAt": "2026-06-16T02:52:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHZ2Y0RmOHFobG9obDlrMkY4RGVILW0wb3hGcjJHN0lVR2RrYUZVblgtMV9MU2pwbW5ZdmpmMkZqRmdnbDV2dHMyejliVkMxY3NrZlRKaFlmSmp0NlFmWWhJVnN4MTB2VXJabEJwaXltSnJSc2JsdnJlLVVpdWd3VG1GWVJINUkyOEgyLWYyVQ?oc=5",
+        "publishedAt": "2026-06-16T10:48:45.000Z"
       },
       {
         "time": "22:10",
         "title": "EMLinkウェビナー開催：「AIエージェントに選ばれる」設備保全データ整備 - AI活用の成否は、データの整え方で決まる（7月2日・参加無料）",
-        "source": "RBB TODAY",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiTXBXLVRudlZaSThMZU15R2lKS1k0ODZJbWdtQmlkMUxkbW5aUTRiRzBIZFdpRW1FVTNnOGl0clg3RFA5RTJTVXdtSHFCWGF1N1RZbnlULU01Y0lfekN5WjdKS0VtT3ZsNjA2Q3pLLTZMWVRFMkZVVw?oc=5",
-        "publishedAt": "2026-06-16T13:10:02.000Z"
-      },
-      {
-        "time": "01:05",
-        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00QW5BODBfUzlLekhnMTlEZHFGNmxLZ2xlTEJPandYb0tpYXhBb2htU0VhdzVOWWVHUFExWVlHVEZsRmFwVVczU3cxdzl1elBrTWJYUlpqWW5iTlRWcDNYTDln?oc=5",
-        "publishedAt": "2026-06-16T16:05:43.000Z"
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kNEY1MEVVVE9DMVRLeHVpMm1kYUxqT0M0aTBxSDk5TkdfQTRDZDV1SVlMeXdXVmR1R1ZqdEdVUTA4dXZEbk9faGFsZ3gzY19NaW9SOGlsajJyMm9EM1AzSmp1VmhRLW5NZFZj?oc=5",
+        "publishedAt": "2026-06-16T13:10:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,13 +75,6 @@
         "publishedAt": "2026-06-16T01:38:56.000Z"
       },
       {
-        "time": "07:22",
-        "title": "9カ国共同声明 米イラン覚書歓迎",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584401?source=rss",
-        "publishedAt": "2026-06-15T22:22:37.000Z"
-      },
-      {
         "time": "22:58",
         "title": "米イラン合意 ネタニヤフ氏悪夢に",
         "source": "Yahoo!ニュース",
@@ -96,14 +89,35 @@
         "publishedAt": "2026-06-16T23:46:42.000Z"
       },
       {
-        "time": "11:04",
-        "title": "米でB52爆撃機墜落 乗員8人死亡",
+        "time": "11:22",
+        "title": "ペルシャ湾で日本関係の船舶損傷",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584427?source=rss",
-        "publishedAt": "2026-06-16T02:04:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584430?source=rss",
+        "publishedAt": "2026-06-16T02:22:21.000Z"
+      },
+      {
+        "time": "11:56",
+        "title": "露大統領風刺のアーティスト 射殺",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584566?source=rss",
+        "publishedAt": "2026-06-17T02:56:52.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "11:30",
+        "title": "カルテル疑い 価格相談許されぬ訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584557?source=rss",
+        "publishedAt": "2026-06-17T02:30:05.000Z"
+      },
+      {
+        "time": "17:44",
+        "title": "カルテルの疑い アイス業界で何が",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584480?source=rss",
+        "publishedAt": "2026-06-16T08:44:13.000Z"
+      },
       {
         "time": "07:24",
         "title": "原油先物が5%急落 3カ月ぶり安値",
@@ -117,20 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584519?source=rss",
         "publishedAt": "2026-06-16T13:46:19.000Z"
-      },
-      {
-        "time": "19:41",
-        "title": "大手3行 預金金利0.4%に引き上げ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584498?source=rss",
-        "publishedAt": "2026-06-16T10:41:59.000Z"
-      },
-      {
-        "time": "17:44",
-        "title": "カルテルの疑い アイス業界で何が",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584480?source=rss",
-        "publishedAt": "2026-06-16T08:44:13.000Z"
       },
       {
         "time": "10:31",
@@ -156,6 +156,20 @@
         "publishedAt": "2026-06-17T01:11:43.000Z"
       },
       {
+        "time": "12:47",
+        "title": "知床沈没事故 桂田被告が即日控訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584576?source=rss",
+        "publishedAt": "2026-06-17T03:47:14.000Z"
+      },
+      {
+        "time": "12:38",
+        "title": "同乗者死亡 危険運転の疑いで逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584572?source=rss",
+        "publishedAt": "2026-06-17T03:38:00.000Z"
+      },
+      {
         "time": "07:50",
         "title": "自宅敷地内に突然クマ 男性けが",
         "source": "Yahoo!ニュース",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-06-17T01:15:51.000Z"
       },
       {
-        "time": "21:36",
-        "title": "ストーカー加害者に新対策 警視庁",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584509?source=rss",
-        "publishedAt": "2026-06-16T12:36:30.000Z"
-      },
-      {
         "time": "19:17",
         "title": "遺体発見の下妻市長 市議会黙とう",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584495?source=rss",
         "publishedAt": "2026-06-16T10:17:40.000Z"
-      },
-      {
-        "time": "20:49",
-        "title": "宿泊施設で集団食中毒 患者は97人",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584506?source=rss",
-        "publishedAt": "2026-06-16T11:49:53.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -225,9 +225,9 @@
       },
       {
         "time": "16:00",
-        "title": "省力化投資補助金 一般型とは？最大1億円・対象・補助上限・申請の流れ【2026年最新】",
+        "title": "【令和8年・2026年】もらえる給付金・支援金まとめ！物価高・農業・子育て・生活支援等、目的別に紹介",
         "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PcHdJM0t1bk5nclMzcnBiVUFqcXpEU2U4cF9oOTdNSG8yQ0QzLWFreG9yZWNwTTl4bV9Ca254bFgzTEZhR0NRbjhUbTI1aGZiTnp2MnRfYUhzS3hjWG95MDBYbVh3d0Vpem1v?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PbTA2anpjTjlKcUhxXzQtbEFhcXpkSE1UYjItLXZYTHJ0cG5uS3daeVBsY20xTzFCREZ6NEZYdm16OC1iRzRHZWlWZkpyVUYzZmZiTzVGaXd6Q1dhX2ptWVhpLTZuUkZt?oc=5",
         "publishedAt": "2026-06-12T07:00:00.000Z"
       }
     ]
