@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-17T22:13:29.673Z",
+  "updatedAt": "2026-06-17T23:02:28.964Z",
   "items": [
     {
-      "time": "22:28",
-      "title": "トランプ氏 イラン次第で攻撃再開",
+      "time": "07:42",
+      "title": "米高官 イランとの覚書の内容公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584642?source=rss",
-      "publishedAt": "2026-06-17T13:28:57.000Z",
-      "xQuery": "トランプ氏 イラン次第で攻撃再開"
+      "url": "https://news.yahoo.co.jp/pickup/6584664?source=rss",
+      "publishedAt": "2026-06-17T22:42:54.000Z",
+      "xQuery": "米高官 イランとの覚書の内容公開"
     },
     {
       "time": "06:09",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "桂田被告が即日控訴 乗客家族憤り"
     },
     {
-      "time": "22:53",
-      "title": "子の水難「魔の時間帯」注意点は",
+      "time": "07:19",
+      "title": "ミキサー車にひかれ男性死亡 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584645?source=rss",
-      "publishedAt": "2026-06-17T13:53:14.000Z",
-      "xQuery": "子の水難「魔の時間帯」注意点は"
+      "url": "https://news.yahoo.co.jp/pickup/6584659?source=rss",
+      "publishedAt": "2026-06-17T22:19:18.000Z",
+      "xQuery": "ミキサー車にひかれ男性死亡 逮捕"
     },
     {
-      "time": "23:56",
-      "title": "武田薬品 社長の役員報酬23億円超",
+      "time": "07:20",
+      "title": "4700人名義 ギフト券詐取疑い逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584651?source=rss",
-      "publishedAt": "2026-06-17T14:56:19.000Z",
-      "xQuery": "武田薬品 社長の役員報酬23億円超"
+      "url": "https://news.yahoo.co.jp/pickup/6584661?source=rss",
+      "publishedAt": "2026-06-17T22:20:41.000Z",
+      "xQuery": "4700人名義 ギフト券詐取疑い逮捕"
     }
   ]
 };
