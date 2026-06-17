@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T16:43:25.852Z",
+  "updatedAt": "2026-06-17T17:57:30.228Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jNFRtSUdzbEZIbWdDSkFlbTZ3eC14V1lBSW1SRWNhNmtabXJTSWVRYmVGWlg3THVjNllOQXdjV2V1WHh5bkROU0xqZEwyQlNTbEhPUkZ2RFpoTUtDbTVHY2ZmSzhrVXo5bUVJLUhVTmFUV21F?oc=5",
         "publishedAt": "2026-06-16T20:00:00.000Z"
-      },
-      {
-        "time": "18:41",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-06-17T09:41:35.000Z"
       },
       {
         "time": "10:52",
@@ -57,6 +50,13 @@
         "source": "thenews.ne.jp",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MWkJ1VTJ5OU1mOGJYeTlYLWZlMWV5N1BDZnM2NzN5YmtyYnhVRGdONFdpYlRYcjhFSjJUM0g1RDFzZF9QVHc2a3F1TDN4T21Rc1FV?oc=5",
         "publishedAt": "2026-06-17T03:00:16.000Z"
+      },
+      {
+        "time": "21:28",
+        "title": "上海ディズニー開業10周年 累計来園者1億人超",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ed1NBOGFOSDk2V09pZUgzTldNb1ZzeHhJZU1XU2JyVnh3WnduZEI2ZGdJYWE5M3VhQWVFQ0djRThhOFlZQXQ2Z0xDeVlTc2RDMXpDSEFvbjRZMHU1T2d1MEZnUVdXVGxZWmtnR0tycVhnVnM0aTJoTDJ3OA?oc=5",
+        "publishedAt": "2026-06-17T12:28:55.000Z"
       }
     ],
     "worldHeadlines": [
