@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-16T23:37:29.953Z",
+  "updatedAt": "2026-06-17T01:19:11.147Z",
   "items": [
     {
-      "time": "07:24",
-      "title": "原油先物が5%急落 3カ月ぶり安値",
+      "time": "10:11",
+      "title": "知床沈没事故 社長に禁錮5年判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584533?source=rss",
-      "publishedAt": "2026-06-16T22:24:24.000Z",
-      "xQuery": "原油先物が5%急落 3カ月ぶり安値"
+      "url": "https://news.yahoo.co.jp/pickup/6584553?source=rss",
+      "publishedAt": "2026-06-17T01:11:43.000Z",
+      "xQuery": "知床沈没事故 社長に禁錮5年判決"
     },
     {
-      "time": "22:46",
-      "title": "利上げ 若年層の住宅ローン負担増",
+      "time": "08:46",
+      "title": "ホワイトハウスのイベ巡り5人訴追",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584519?source=rss",
-      "publishedAt": "2026-06-16T13:46:19.000Z",
-      "xQuery": "利上げ 若年層の住宅ローン負担増"
+      "url": "https://news.yahoo.co.jp/pickup/6584543?source=rss",
+      "publishedAt": "2026-06-16T23:46:42.000Z",
+      "xQuery": "ホワイトハウスのイベ巡り5人訴追"
     },
     {
-      "time": "22:58",
-      "title": "米イラン合意 ネタニヤフ氏悪夢に",
+      "time": "08:33",
+      "title": "エボラ出血熱流行 終息見通せず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584521?source=rss",
-      "publishedAt": "2026-06-16T13:58:32.000Z",
-      "xQuery": "米イラン合意 ネタニヤフ氏悪夢に"
-    },
-    {
-      "time": "06:39",
-      "title": "高市陣営巡る動画報道 訂正相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584531?source=rss",
-      "publishedAt": "2026-06-16T21:39:56.000Z",
-      "xQuery": "高市陣営巡る動画報道 訂正相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6584541?source=rss",
+      "publishedAt": "2026-06-16T23:33:12.000Z",
+      "xQuery": "エボラ出血熱流行 終息見通せず"
     },
     {
       "time": "07:50",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584537?source=rss",
       "publishedAt": "2026-06-16T22:50:21.000Z",
       "xQuery": "自宅敷地内に突然クマ 男性けが"
+    },
+    {
+      "time": "07:32",
+      "title": "ピザハット売却へ 米飲食大手",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584535?source=rss",
+      "publishedAt": "2026-06-16T22:32:04.000Z",
+      "xQuery": "ピザハット売却へ 米飲食大手"
     }
   ]
 };

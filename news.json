@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T23:37:29.116Z",
+  "updatedAt": "2026-06-17T01:19:10.532Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jNFRtSUdzbEZIbWdDSkFlbTZ3eC14V1lBSW1SRWNhNmtabXJTSWVRYmVGWlg3THVjNllOQXdjV2V1WHh5bkROU0xqZEwyQlNTbEhPUkZ2RFpoTUtDbTVHY2ZmSzhrVXo5bUVJLUhVTmFUV21F?oc=5",
         "publishedAt": "2026-06-16T20:00:00.000Z"
+      },
+      {
+        "time": "22:16",
+        "title": "社員38人で売上80億円はなぜ可能なのか？ AIが加工工程を自動化する工作機械が職人不足と100兆円市場に与える影響",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wMlRaWFJCbnNzUTRPU3BQZHRUR1dmVU04dkI1NlJ5NlhTbmhJR3ZKRnAtVW9VdjUxNDZfVnNpdzBuTkNwUlhUZEctNkR1andLVU9WeHJqUmNJQ2s?oc=5",
+        "publishedAt": "2026-06-16T13:16:27.000Z"
       },
       {
         "time": "14:25",
@@ -24,11 +31,11 @@
         "publishedAt": "2026-06-16T20:00:00.000Z"
       },
       {
-        "time": "01:10",
+        "time": "22:00",
         "title": "JIMTOF2026 第33回日本国際工作機械見本市 出展規模・出展者リストを発表",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4WUNhOTlXSkNRaHY4U2RxRWNiLUdNQ1FNYjl6NHJJSzUyMVlEblFpY0g2WnY0SkxxeUtKOVJ0Q09BbzBWMkctRG5yeWR1ZTJtTEFYblBJVjdOVjdGRUhmWjBxTUkwM1d3Tmdz?oc=5",
-        "publishedAt": "2026-06-16T16:10:00.000Z"
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81VGlUOUwybl94UVFvM0tvcm5zenFLQWF4Z3Y3aENMZDdqS01fY3VfNjhlbW5fTW1GYWpsbkdxWE9lX195eks1VlMzWTZuT2ZWSHR5WA?oc=5",
+        "publishedAt": "2026-06-16T13:00:22.000Z"
       },
       {
         "time": "11:52",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93M2t4dEpaVlpjNk9EQ0ItUjFsYVJ1bmE1b18taUxPMjVZOWRybDlvQU9ubVVsdy12ZVVPUlFrN0hpMW9JZ29Tc3VONm91VWZEOHBESjE3U3d2bHlqbGhQcFhITFBGZFV1Vlo1QzJrU2hfOUpnaTJlMjVELTZjQ3c?oc=5",
         "publishedAt": "2026-06-16T04:15:03.000Z"
-      },
-      {
-        "time": "09:06",
-        "title": "社員38人で売上80億円はなぜ可能なのか？ AIが加工工程を自動化する工作機械が職人不足と100兆円市場に与える影響",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4UzVfVm5JUzVFeG1CcllVa2FtYVoxNHMtMkdfR2Q0azZmOW12a2NzNHd2WTBmMnJjVnh6LVU3dWRiRENrSW0zbERVazV6cTNqT0NBQVExM3Qyc2c?oc=5",
-        "publishedAt": "2026-06-16T00:06:27.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-06-15T22:38:06.000Z"
       },
       {
+        "time": "08:46",
+        "title": "ホワイトハウスのイベ巡り5人訴追",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584543?source=rss",
+        "publishedAt": "2026-06-16T23:46:42.000Z"
+      },
+      {
         "time": "11:04",
         "title": "米でB52爆撃機墜落 乗員8人死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584427?source=rss",
         "publishedAt": "2026-06-16T02:04:02.000Z"
-      },
-      {
-        "time": "11:22",
-        "title": "ペルシャ湾で日本関係の船舶損傷",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584430?source=rss",
-        "publishedAt": "2026-06-16T02:22:21.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,27 +133,41 @@
         "publishedAt": "2026-06-16T08:44:13.000Z"
       },
       {
-        "time": "14:17",
-        "title": "富士通の会長が辞任 不適切な行動",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584451?source=rss",
-        "publishedAt": "2026-06-16T05:17:16.000Z"
-      },
-      {
         "time": "07:32",
         "title": "ピザハット売却へ 米飲食大手",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584535?source=rss",
         "publishedAt": "2026-06-16T22:32:04.000Z"
+      },
+      {
+        "time": "09:29",
+        "title": "「モンスト」イベント巡り謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584545?source=rss",
+        "publishedAt": "2026-06-17T00:29:04.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "10:11",
+        "title": "知床沈没事故 社長に禁錮5年判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584553?source=rss",
+        "publishedAt": "2026-06-17T01:11:43.000Z"
+      },
       {
         "time": "07:50",
         "title": "自宅敷地内に突然クマ 男性けが",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584537?source=rss",
         "publishedAt": "2026-06-16T22:50:21.000Z"
+      },
+      {
+        "time": "10:15",
+        "title": "スクールバスにはねられ女性重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584551?source=rss",
+        "publishedAt": "2026-06-17T01:15:51.000Z"
       },
       {
         "time": "21:36",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584506?source=rss",
         "publishedAt": "2026-06-16T11:49:53.000Z"
-      },
-      {
-        "time": "17:57",
-        "title": "パラグライダーの男性が落下 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584486?source=rss",
-        "publishedAt": "2026-06-16T08:57:13.000Z"
-      },
-      {
-        "time": "20:18",
-        "title": "社長殺害し遺棄 女に無期懲役判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584503?source=rss",
-        "publishedAt": "2026-06-16T11:18:00.000Z"
       }
     ],
     "subsidyHeadlines": [
