@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-17T05:49:52.274Z",
+  "updatedAt": "2026-06-17T08:07:44.424Z",
   "items": [
     {
-      "time": "13:15",
-      "title": "G7が成果文書を発表 結束を演出",
+      "time": "16:07",
+      "title": "食料品の消費税「実質0」案提示",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584574?source=rss",
-      "publishedAt": "2026-06-17T04:15:15.000Z",
-      "xQuery": "G7が成果文書を発表 結束を演出"
+      "url": "https://news.yahoo.co.jp/pickup/6584596?source=rss",
+      "publishedAt": "2026-06-17T07:07:53.000Z",
+      "xQuery": "食料品の消費税「実質0」案提示"
     },
     {
-      "time": "13:14",
-      "title": "自衛隊巡る議員発言 立憲代表謝罪",
+      "time": "15:21",
+      "title": "NHK受信料 未収数減も強まる反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584578?source=rss",
-      "publishedAt": "2026-06-17T04:14:32.000Z",
-      "xQuery": "自衛隊巡る議員発言 立憲代表謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6584590?source=rss",
+      "publishedAt": "2026-06-17T06:21:35.000Z",
+      "xQuery": "NHK受信料 未収数減も強まる反発"
     },
     {
-      "time": "11:33",
-      "title": "未完成テーマパークが廃虚化 中国",
+      "time": "16:58",
+      "title": "自白迫られ摂食障害 娘死亡で提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584560?source=rss",
-      "publishedAt": "2026-06-17T02:33:50.000Z",
-      "xQuery": "未完成テーマパークが廃虚化 中国"
+      "url": "https://news.yahoo.co.jp/pickup/6584601?source=rss",
+      "publishedAt": "2026-06-17T07:58:58.000Z",
+      "xQuery": "自白迫られ摂食障害 娘死亡で提訴"
     },
     {
-      "time": "14:17",
-      "title": "日産「キックス」6年ぶり全面改良",
+      "time": "15:27",
+      "title": "事故ゼロ200日 表彰日に死亡事故",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584582?source=rss",
-      "publishedAt": "2026-06-17T05:17:19.000Z",
-      "xQuery": "日産「キックス」6年ぶり全面改良"
+      "url": "https://news.yahoo.co.jp/pickup/6584591?source=rss",
+      "publishedAt": "2026-06-17T06:27:47.000Z",
+      "xQuery": "事故ゼロ200日 表彰日に死亡事故"
     },
     {
-      "time": "11:30",
-      "title": "地下銀行運営疑い 中国籍2人逮捕",
+      "time": "16:23",
+      "title": "牛乳石鹸 SNS話題の使用法で声明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584559?source=rss",
-      "publishedAt": "2026-06-17T02:30:57.000Z",
-      "xQuery": "地下銀行運営疑い 中国籍2人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6584599?source=rss",
+      "publishedAt": "2026-06-17T07:23:54.000Z",
+      "xQuery": "牛乳石鹸 SNS話題の使用法で声明"
     }
   ]
 };

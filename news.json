@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T05:49:51.525Z",
+  "updatedAt": "2026-06-17T08:07:42.647Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-06-16T20:00:00.000Z"
       },
       {
+        "time": "16:26",
+        "title": "(株)ツガミ【6101】：株価・株式情報（夜間PTS含む）",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qT2NrZ21VTVpvcVdDaUF6RVVYZkFRWlUybklfRkRLS0I3WkFROW5VbG0zNXlHbTBERTVQU05FYWJ1S0p6Y0MzbXFMQUszUHpBb3c?oc=5",
+        "publishedAt": "2026-06-17T07:26:49.000Z"
+      },
+      {
         "time": "22:00",
         "title": "JIMTOF2026 第33回日本国際工作機械見本市 出展規模・出展者リストを発表",
         "source": "ニコニコニュース",
@@ -50,13 +57,6 @@
         "source": "nidec.com",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHZ2Y0RmOHFobG9obDlrMkY4RGVILW0wb3hGcjJHN0lVR2RrYUZVblgtMV9MU2pwbW5ZdmpmMkZqRmdnbDV2dHMyejliVkMxY3NrZlRKaFlmSmp0NlFmWWhJVnN4MTB2VXJabEJwaXltSnJSc2JsdnJlLVVpdWd3VG1GWVJINUkyOEgyLWYyVQ?oc=5",
         "publishedAt": "2026-06-16T10:48:45.000Z"
-      },
-      {
-        "time": "01:05",
-        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00QW5BODBfUzlLekhnMTlEZHFGNmxLZ2xlTEJPandYb0tpYXhBb2htU0VhdzVOWWVHUFExWVlHVEZsRmFwVVczU3cxdzl1elBrTWJYUlpqWW5iTlRWcDNYTDln?oc=5",
-        "publishedAt": "2026-06-16T16:05:43.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-06-16T23:46:42.000Z"
       },
       {
-        "time": "11:22",
-        "title": "ペルシャ湾で日本関係の船舶損傷",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584430?source=rss",
-        "publishedAt": "2026-06-16T02:22:21.000Z"
-      },
-      {
         "time": "11:56",
         "title": "露大統領風刺のアーティスト 射殺",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584566?source=rss",
         "publishedAt": "2026-06-17T02:56:52.000Z"
+      },
+      {
+        "time": "15:52",
+        "title": "韓国代表FWの兵役免除やゆ 背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584595?source=rss",
+        "publishedAt": "2026-06-17T06:52:08.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-06-16T08:44:13.000Z"
       },
       {
-        "time": "07:24",
-        "title": "原油先物が5%急落 3カ月ぶり安値",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584533?source=rss",
-        "publishedAt": "2026-06-16T22:24:24.000Z"
-      },
-      {
         "time": "22:46",
         "title": "利上げ 若年層の住宅ローン負担増",
         "source": "Yahoo!ニュース",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584582?source=rss",
         "publishedAt": "2026-06-17T05:17:19.000Z"
+      },
+      {
+        "time": "16:29",
+        "title": "書店1万店割れ 大手15社共同声明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584598?source=rss",
+        "publishedAt": "2026-06-17T07:29:56.000Z"
       },
       {
         "time": "10:31",
@@ -156,11 +156,25 @@
         "publishedAt": "2026-06-17T01:11:43.000Z"
       },
       {
-        "time": "12:47",
-        "title": "知床沈没事故 桂田被告が即日控訴",
+        "time": "15:13",
+        "title": "知床沈没事故 被害者の父親が心境",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584576?source=rss",
-        "publishedAt": "2026-06-17T03:47:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584587?source=rss",
+        "publishedAt": "2026-06-17T06:13:47.000Z"
+      },
+      {
+        "time": "15:12",
+        "title": "マンション不正 施工3社賠償命令",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584586?source=rss",
+        "publishedAt": "2026-06-17T06:12:26.000Z"
+      },
+      {
+        "time": "16:58",
+        "title": "自白迫られ摂食障害 娘死亡で提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584601?source=rss",
+        "publishedAt": "2026-06-17T07:58:58.000Z"
       },
       {
         "time": "12:38",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-06-17T03:38:00.000Z"
       },
       {
-        "time": "07:50",
-        "title": "自宅敷地内に突然クマ 男性けが",
+        "time": "15:27",
+        "title": "事故ゼロ200日 表彰日に死亡事故",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584537?source=rss",
-        "publishedAt": "2026-06-16T22:50:21.000Z"
-      },
-      {
-        "time": "10:15",
-        "title": "スクールバスにはねられ女性重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584551?source=rss",
-        "publishedAt": "2026-06-17T01:15:51.000Z"
-      },
-      {
-        "time": "13:18",
-        "title": "示談金着服の疑い 元弁護士を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584577?source=rss",
-        "publishedAt": "2026-06-17T04:18:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584591?source=rss",
+        "publishedAt": "2026-06-17T06:27:47.000Z"
       }
     ],
     "subsidyHeadlines": [
