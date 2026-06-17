@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-17T03:51:43.917Z",
+  "updatedAt": "2026-06-17T05:49:52.274Z",
   "items": [
     {
-      "time": "12:00",
-      "title": "16日地震の関東 土砂災害に注意",
+      "time": "13:15",
+      "title": "G7が成果文書を発表 結束を演出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584568?source=rss",
-      "publishedAt": "2026-06-17T03:00:55.000Z",
-      "xQuery": "16日地震の関東 土砂災害に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6584574?source=rss",
+      "publishedAt": "2026-06-17T04:15:15.000Z",
+      "xQuery": "G7が成果文書を発表 結束を演出"
+    },
+    {
+      "time": "13:14",
+      "title": "自衛隊巡る議員発言 立憲代表謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584578?source=rss",
+      "publishedAt": "2026-06-17T04:14:32.000Z",
+      "xQuery": "自衛隊巡る議員発言 立憲代表謝罪"
+    },
+    {
+      "time": "11:33",
+      "title": "未完成テーマパークが廃虚化 中国",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584560?source=rss",
+      "publishedAt": "2026-06-17T02:33:50.000Z",
+      "xQuery": "未完成テーマパークが廃虚化 中国"
+    },
+    {
+      "time": "14:17",
+      "title": "日産「キックス」6年ぶり全面改良",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584582?source=rss",
+      "publishedAt": "2026-06-17T05:17:19.000Z",
+      "xQuery": "日産「キックス」6年ぶり全面改良"
     },
     {
       "time": "11:30",
-      "title": "カルテル疑い 価格相談許されぬ訳",
+      "title": "地下銀行運営疑い 中国籍2人逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584557?source=rss",
-      "publishedAt": "2026-06-17T02:30:05.000Z",
-      "xQuery": "カルテル疑い 価格相談許されぬ訳"
-    },
-    {
-      "time": "12:47",
-      "title": "知床沈没事故 桂田被告が即日控訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584576?source=rss",
-      "publishedAt": "2026-06-17T03:47:14.000Z",
-      "xQuery": "知床沈没事故 桂田被告が即日控訴"
-    },
-    {
-      "time": "11:56",
-      "title": "露大統領風刺のアーティスト 射殺",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584566?source=rss",
-      "publishedAt": "2026-06-17T02:56:52.000Z",
-      "xQuery": "露大統領風刺のアーティスト 射殺"
-    },
-    {
-      "time": "10:31",
-      "title": "円谷プロで退職者が続出 社員証言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584550?source=rss",
-      "publishedAt": "2026-06-17T01:31:37.000Z",
-      "xQuery": "円谷プロで退職者が続出 社員証言"
+      "url": "https://news.yahoo.co.jp/pickup/6584559?source=rss",
+      "publishedAt": "2026-06-17T02:30:57.000Z",
+      "xQuery": "地下銀行運営疑い 中国籍2人逮捕"
     }
   ]
 };
