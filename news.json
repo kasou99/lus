@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T21:18:09.141Z",
+  "updatedAt": "2026-06-17T22:13:27.700Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FMUh6RnNQRldRZ0p3YWZjN3MzbjZMTG1KYWZCNUx4OFNfVWd1T1lQWmdPcnU0bVNickxnZWtsMHZKWmdhNEotaXdFSE5TYTI5cnhhSVZSOGE4MnVIYXZDVlU5cmxxQUI2TXc?oc=5",
         "publishedAt": "2026-06-17T01:20:02.000Z"
-      },
-      {
-        "time": "18:41",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-06-17T09:41:35.000Z"
       },
       {
         "time": "05:00",
@@ -57,6 +50,13 @@
         "source": "thenews.ne.jp",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MWkJ1VTJ5OU1mOGJYeTlYLWZlMWV5N1BDZnM2NzN5YmtyYnhVRGdONFdpYlRYcjhFSjJUM0g1RDFzZF9QVHc2a3F1TDN4T21Rc1FV?oc=5",
         "publishedAt": "2026-06-17T03:00:16.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "産業春秋／Ｗ杯で消えた日本企業",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FM3dXcVdYMjFyanpkejJONkM1SHBhZHdBMFdBSTgwQVAzdDdaLU41bDdPd1hHTG5ZNFB6RGpSVWhCU3pVdEY5NEQ5OHZwVUlaSVU1QnVvOXh3YUU?oc=5",
+        "publishedAt": "2026-06-17T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
