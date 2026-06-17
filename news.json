@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T10:09:00.773Z",
+  "updatedAt": "2026-06-17T12:04:26.799Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-06-16T20:00:00.000Z"
       },
       {
-        "time": "16:26",
-        "title": "(株)ツガミ【6101】：株価・株式情報（夜間PTS含む）",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qT2NrZ21VTVpvcVdDaUF6RVVYZkFRWlUybklfRkRLS0I3WkFROW5VbG0zNXlHbTBERTVQU05FYWJ1S0p6Y0MzbXFMQUszUHpBb3c?oc=5",
-        "publishedAt": "2026-06-17T07:26:49.000Z"
-      },
-      {
         "time": "01:10",
         "title": "JIMTOF2026 第33回日本国際工作機械見本市 出展規模・出展者リストを発表",
         "source": "時事ドットコム",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-06-16T16:10:00.000Z"
       },
       {
-        "time": "19:48",
-        "title": "J Cam Engineering GE20A 導入事例 | ニデックマシンツール",
-        "source": "nidec.com",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHZ2Y0RmOHFobG9obDlrMkY4RGVILW0wb3hGcjJHN0lVR2RrYUZVblgtMV9MU2pwbW5ZdmpmMkZqRmdnbDV2dHMyejliVkMxY3NrZlRKaFlmSmp0NlFmWWhJVnN4MTB2VXJabEJwaXltSnJSc2JsdnJlLVVpdWd3VG1GWVJINUkyOEgyLWYyVQ?oc=5",
-        "publishedAt": "2026-06-16T10:48:45.000Z"
+        "time": "15:00",
+        "title": "【地域経済分析】企業数約23.7万社。半導体サプライチェーンを支える精密機械の巨大クラスター「台湾・台中」の最新ビジネ",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWNUxWNXhtYnRkWWh4djA2UEZkUGRibzlWc29SV3hZbldhdnQxMUNrS1o2a2VOWW9tdXpaaHR2T2xEZDdhaS1LbGhCZmtvLXplNXZGTThpSjRGTy1HX3NRdVpjeWNKQnYw?oc=5",
+        "publishedAt": "2026-06-17T06:00:12.000Z"
+      },
+      {
+        "time": "01:05",
+        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00QW5BODBfUzlLekhnMTlEZHFGNmxLZ2xlTEJPandYb0tpYXhBb2htU0VhdzVOWWVHUFExWVlHVEZsRmFwVVczU3cxdzl1elBrTWJYUlpqWW5iTlRWcDNYTDln?oc=5",
+        "publishedAt": "2026-06-16T16:05:43.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,20 +112,6 @@
         "publishedAt": "2026-06-17T08:11:17.000Z"
       },
       {
-        "time": "11:30",
-        "title": "カルテル疑い 価格相談許されぬ訳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584557?source=rss",
-        "publishedAt": "2026-06-17T02:30:05.000Z"
-      },
-      {
-        "time": "22:46",
-        "title": "利上げ 若年層の住宅ローン負担増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584519?source=rss",
-        "publishedAt": "2026-06-16T13:46:19.000Z"
-      },
-      {
         "time": "18:28",
         "title": "セブン新おにぎり 包装インク3色",
         "source": "Yahoo!ニュース",
@@ -145,6 +131,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584550?source=rss",
         "publishedAt": "2026-06-17T01:31:37.000Z"
+      },
+      {
+        "time": "20:07",
+        "title": "のぞみなどに個室タイプ座席 公開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584628?source=rss",
+        "publishedAt": "2026-06-17T11:07:21.000Z"
+      },
+      {
+        "time": "18:32",
+        "title": "10円玉の原料価値 約10.5円に上昇",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584615?source=rss",
+        "publishedAt": "2026-06-17T09:32:59.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-06-17T01:11:43.000Z"
       },
       {
-        "time": "15:13",
-        "title": "知床沈没事故 被害者の父親が心境",
+        "time": "20:46",
+        "title": "知床沈没で親友死亡 判決に憤り",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584587?source=rss",
-        "publishedAt": "2026-06-17T06:13:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584632?source=rss",
+        "publishedAt": "2026-06-17T11:46:05.000Z"
       },
       {
         "time": "17:33",
@@ -215,13 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "12:00",
-        "title": "設備投資に使える補助金まとめ【2026年・目的別】省力化・業務改善助成金など最大1億円の支援を解説",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41Tk91V0hXbzlDZktaTzFPeHd3dS1yZUVpNjVsSHo5aURNd3Y0ZGhPMXZpVEJuOFEyaVNJb0hsWENjSjdVLXUzV1pmd3hjYnJEN05CN2lTQzlwdzNZdFo5SHAwZ1l2dXZzVzJHVHhuejA?oc=5",
-        "publishedAt": "2026-06-16T03:00:00.000Z"
       }
     ]
   }

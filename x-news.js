@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-17T10:09:01.528Z",
+  "updatedAt": "2026-06-17T12:04:27.932Z",
   "items": [
     {
       "time": "18:52",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 G7で中国を名指し「懸念」"
     },
     {
-      "time": "17:11",
-      "title": "日本郵船 ペルシャ湾に約10隻残る",
+      "time": "20:46",
+      "title": "知床沈没で親友死亡 判決に憤り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584606?source=rss",
-      "publishedAt": "2026-06-17T08:11:17.000Z",
-      "xQuery": "日本郵船 ペルシャ湾に約10隻残る"
+      "url": "https://news.yahoo.co.jp/pickup/6584632?source=rss",
+      "publishedAt": "2026-06-17T11:46:05.000Z",
+      "xQuery": "知床沈没で親友死亡 判決に憤り"
     },
     {
       "time": "16:58",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "自白迫られ摂食障害 娘死亡で提訴"
     },
     {
-      "time": "18:32",
-      "title": "10円玉の原料価値 約10.5円に上昇",
+      "time": "20:07",
+      "title": "のぞみなどに個室タイプ座席 公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584615?source=rss",
-      "publishedAt": "2026-06-17T09:32:59.000Z",
-      "xQuery": "10円玉の原料価値 約10.5円に上昇"
+      "url": "https://news.yahoo.co.jp/pickup/6584628?source=rss",
+      "publishedAt": "2026-06-17T11:07:21.000Z",
+      "xQuery": "のぞみなどに個室タイプ座席 公開"
     },
     {
-      "time": "18:17",
-      "title": "「崖の上のヤギ」死ぬ 衰弱のため",
+      "time": "19:25",
+      "title": "ローソン「名物企画」が大喜利化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584617?source=rss",
-      "publishedAt": "2026-06-17T09:17:28.000Z",
-      "xQuery": "「崖の上のヤギ」死ぬ 衰弱のため"
+      "url": "https://news.yahoo.co.jp/pickup/6584624?source=rss",
+      "publishedAt": "2026-06-17T10:25:49.000Z",
+      "xQuery": "ローソン「名物企画」が大喜利化"
     }
   ]
 };
