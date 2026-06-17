@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-17T13:48:30.567Z",
+  "updatedAt": "2026-06-17T15:11:06.967Z",
   "items": [
     {
       "time": "22:28",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 イラン次第で攻撃再開"
     },
     {
-      "time": "20:46",
-      "title": "知床沈没で親友死亡 判決に憤り",
+      "time": "23:43",
+      "title": "桂田被告が即日控訴 乗客家族憤り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584632?source=rss",
-      "publishedAt": "2026-06-17T11:46:05.000Z",
-      "xQuery": "知床沈没で親友死亡 判決に憤り"
+      "url": "https://news.yahoo.co.jp/pickup/6584650?source=rss",
+      "publishedAt": "2026-06-17T14:43:18.000Z",
+      "xQuery": "桂田被告が即日控訴 乗客家族憤り"
     },
     {
-      "time": "21:53",
-      "title": "条例で民泊「実質禁止」 容認へ",
+      "time": "22:53",
+      "title": "子の水難「魔の時間帯」注意点は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584640?source=rss",
-      "publishedAt": "2026-06-17T12:53:40.000Z",
-      "xQuery": "条例で民泊「実質禁止」 容認へ"
-    },
-    {
-      "time": "21:43",
-      "title": "プール小4死亡 元校長に有罪判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584638?source=rss",
-      "publishedAt": "2026-06-17T12:43:11.000Z",
-      "xQuery": "プール小4死亡 元校長に有罪判決"
+      "url": "https://news.yahoo.co.jp/pickup/6584645?source=rss",
+      "publishedAt": "2026-06-17T13:53:14.000Z",
+      "xQuery": "子の水難「魔の時間帯」注意点は"
     },
     {
       "time": "20:34",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584630?source=rss",
       "publishedAt": "2026-06-17T11:34:13.000Z",
       "xQuery": "スマホで子の生活乱れ 入院で治療"
+    },
+    {
+      "time": "23:56",
+      "title": "武田薬品 社長の役員報酬23億円超",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584651?source=rss",
+      "publishedAt": "2026-06-17T14:56:19.000Z",
+      "xQuery": "武田薬品 社長の役員報酬23億円超"
     }
   ]
 };
