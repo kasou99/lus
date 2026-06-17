@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-17T20:18:53.551Z",
+  "updatedAt": "2026-06-17T21:18:09.745Z",
   "items": [
     {
       "time": "22:28",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584642?source=rss",
       "publishedAt": "2026-06-17T13:28:57.000Z",
       "xQuery": "トランプ氏 イラン次第で攻撃再開"
+    },
+    {
+      "time": "06:09",
+      "title": "米FRB 政策金利の据え置きを決定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584654?source=rss",
+      "publishedAt": "2026-06-17T21:09:46.000Z",
+      "xQuery": "米FRB 政策金利の据え置きを決定"
     },
     {
       "time": "23:43",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584645?source=rss",
       "publishedAt": "2026-06-17T13:53:14.000Z",
       "xQuery": "子の水難「魔の時間帯」注意点は"
-    },
-    {
-      "time": "20:34",
-      "title": "スマホで子の生活乱れ 入院で治療",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584630?source=rss",
-      "publishedAt": "2026-06-17T11:34:13.000Z",
-      "xQuery": "スマホで子の生活乱れ 入院で治療"
     },
     {
       "time": "23:56",
