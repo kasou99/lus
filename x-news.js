@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-17T12:04:27.932Z",
+  "updatedAt": "2026-06-17T13:48:30.567Z",
   "items": [
     {
-      "time": "18:52",
-      "title": "首相 G7で中国を名指し「懸念」",
+      "time": "22:28",
+      "title": "トランプ氏 イラン次第で攻撃再開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584622?source=rss",
-      "publishedAt": "2026-06-17T09:52:45.000Z",
-      "xQuery": "首相 G7で中国を名指し「懸念」"
+      "url": "https://news.yahoo.co.jp/pickup/6584642?source=rss",
+      "publishedAt": "2026-06-17T13:28:57.000Z",
+      "xQuery": "トランプ氏 イラン次第で攻撃再開"
     },
     {
       "time": "20:46",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "知床沈没で親友死亡 判決に憤り"
     },
     {
-      "time": "16:58",
-      "title": "自白迫られ摂食障害 娘死亡で提訴",
+      "time": "21:53",
+      "title": "条例で民泊「実質禁止」 容認へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584601?source=rss",
-      "publishedAt": "2026-06-17T07:58:58.000Z",
-      "xQuery": "自白迫られ摂食障害 娘死亡で提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6584640?source=rss",
+      "publishedAt": "2026-06-17T12:53:40.000Z",
+      "xQuery": "条例で民泊「実質禁止」 容認へ"
     },
     {
-      "time": "20:07",
-      "title": "のぞみなどに個室タイプ座席 公開",
+      "time": "21:43",
+      "title": "プール小4死亡 元校長に有罪判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584628?source=rss",
-      "publishedAt": "2026-06-17T11:07:21.000Z",
-      "xQuery": "のぞみなどに個室タイプ座席 公開"
+      "url": "https://news.yahoo.co.jp/pickup/6584638?source=rss",
+      "publishedAt": "2026-06-17T12:43:11.000Z",
+      "xQuery": "プール小4死亡 元校長に有罪判決"
     },
     {
-      "time": "19:25",
-      "title": "ローソン「名物企画」が大喜利化",
+      "time": "20:34",
+      "title": "スマホで子の生活乱れ 入院で治療",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584624?source=rss",
-      "publishedAt": "2026-06-17T10:25:49.000Z",
-      "xQuery": "ローソン「名物企画」が大喜利化"
+      "url": "https://news.yahoo.co.jp/pickup/6584630?source=rss",
+      "publishedAt": "2026-06-17T11:34:13.000Z",
+      "xQuery": "スマホで子の生活乱れ 入院で治療"
     }
   ]
 };
