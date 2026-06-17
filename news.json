@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-17T01:19:10.532Z",
+  "updatedAt": "2026-06-17T02:26:22.602Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:00",
         "title": "工作機械技術振興賞、日本精工など表彰 工作機械技術振興財団が贈賞式",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jNFRtSUdzbEZIbWdDSkFlbTZ3eC14V1lBSW1SRWNhNmtabXJTSWVRYmVGWlg3THVjNllOQXdjV2V1WHh5bkROU0xqZEwyQlNTbEhPUkZ2RFpoTUtDbTVHY2ZmSzhrVXo5bUVJLUhVTmFUV21F?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SS0RpaGMtTW5TRGxSTzRHLUd0WmtlcmlNWHdQb0pGdlhMd2p0ZmJJcDBFWHp1N1didU94MTBKcUtSaUhrYmlzeXZMVWtpaTF5TEhXNy1McmJlSGc?oc=5",
         "publishedAt": "2026-06-16T20:00:00.000Z"
       },
       {
@@ -45,21 +45,28 @@
         "publishedAt": "2026-06-16T02:52:00.000Z"
       },
       {
+        "time": "22:10",
+        "title": "EMLinkウェビナー開催：「AIエージェントに選ばれる」設備保全データ整備 - AI活用の成否は、データの整え方で決まる（7月2日・参加無料）",
+        "source": "RBB TODAY",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiTXBXLVRudlZaSThMZU15R2lKS1k0ODZJbWdtQmlkMUxkbW5aUTRiRzBIZFdpRW1FVTNnOGl0clg3RFA5RTJTVXdtSHFCWGF1N1RZbnlULU01Y0lfekN5WjdKS0VtT3ZsNjA2Q3pLLTZMWVRFMkZVVw?oc=5",
+        "publishedAt": "2026-06-16T13:10:02.000Z"
+      },
+      {
         "time": "01:05",
         "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00QW5BODBfUzlLekhnMTlEZHFGNmxLZ2xlTEJPandYb0tpYXhBb2htU0VhdzVOWWVHUFExWVlHVEZsRmFwVVczU3cxdzl1elBrTWJYUlpqWW5iTlRWcDNYTDln?oc=5",
         "publishedAt": "2026-06-16T16:05:43.000Z"
-      },
-      {
-        "time": "13:15",
-        "title": "大阪産業局が「大阪ブース」、府内4社が共同出展へ…ベトナム工作機械見本市「VIMF BINH DUONG 2026」（レスポンス）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93M2t4dEpaVlpjNk9EQ0ItUjFsYVJ1bmE1b18taUxPMjVZOWRybDlvQU9ubVVsdy12ZVVPUlFrN0hpMW9JZ29Tc3VONm91VWZEOHBESjE3U3d2bHlqbGhQcFhITFBGZFV1Vlo1QzJrU2hfOUpnaTJlMjVELTZjQ3c?oc=5",
-        "publishedAt": "2026-06-16T04:15:03.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "10:32",
+        "title": "覚書にイラン復興巡る基金の構想",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584549?source=rss",
+        "publishedAt": "2026-06-17T01:32:46.000Z"
+      },
       {
         "time": "10:38",
         "title": "米イラン 戦闘終結の覚書に署名",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584521?source=rss",
         "publishedAt": "2026-06-16T13:58:32.000Z"
-      },
-      {
-        "time": "07:38",
-        "title": "米大統領は宮殿で夕食 G7で厚遇",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584405?source=rss",
-        "publishedAt": "2026-06-15T22:38:06.000Z"
       },
       {
         "time": "08:46",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-06-16T08:44:13.000Z"
       },
       {
+        "time": "10:31",
+        "title": "円谷プロで退職者が続出 社員証言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584550?source=rss",
+        "publishedAt": "2026-06-17T01:31:37.000Z"
+      },
+      {
         "time": "07:32",
         "title": "ピザハット売却へ 米飲食大手",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584535?source=rss",
         "publishedAt": "2026-06-16T22:32:04.000Z"
-      },
-      {
-        "time": "09:29",
-        "title": "「モンスト」イベント巡り謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584545?source=rss",
-        "publishedAt": "2026-06-17T00:29:04.000Z"
       }
     ],
     "localHeadlines": [

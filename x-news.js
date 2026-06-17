@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-17T01:19:11.147Z",
+  "updatedAt": "2026-06-17T02:26:23.306Z",
   "items": [
     {
       "time": "10:11",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "知床沈没事故 社長に禁錮5年判決"
     },
     {
+      "time": "10:32",
+      "title": "覚書にイラン復興巡る基金の構想",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584549?source=rss",
+      "publishedAt": "2026-06-17T01:32:46.000Z",
+      "xQuery": "覚書にイラン復興巡る基金の構想"
+    },
+    {
       "time": "08:46",
       "title": "ホワイトハウスのイベ巡り5人訴追",
       "source": "Yahoo!ニュース",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ホワイトハウスのイベ巡り5人訴追"
     },
     {
-      "time": "08:33",
-      "title": "エボラ出血熱流行 終息見通せず",
+      "time": "10:15",
+      "title": "スクールバスにはねられ女性重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584541?source=rss",
-      "publishedAt": "2026-06-16T23:33:12.000Z",
-      "xQuery": "エボラ出血熱流行 終息見通せず"
+      "url": "https://news.yahoo.co.jp/pickup/6584551?source=rss",
+      "publishedAt": "2026-06-17T01:15:51.000Z",
+      "xQuery": "スクールバスにはねられ女性重体"
     },
     {
-      "time": "07:50",
-      "title": "自宅敷地内に突然クマ 男性けが",
+      "time": "10:31",
+      "title": "円谷プロで退職者が続出 社員証言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584537?source=rss",
-      "publishedAt": "2026-06-16T22:50:21.000Z",
-      "xQuery": "自宅敷地内に突然クマ 男性けが"
-    },
-    {
-      "time": "07:32",
-      "title": "ピザハット売却へ 米飲食大手",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584535?source=rss",
-      "publishedAt": "2026-06-16T22:32:04.000Z",
-      "xQuery": "ピザハット売却へ 米飲食大手"
+      "url": "https://news.yahoo.co.jp/pickup/6584550?source=rss",
+      "publishedAt": "2026-06-17T01:31:37.000Z",
+      "xQuery": "円谷プロで退職者が続出 社員証言"
     }
   ]
 };
