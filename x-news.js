@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-17T08:07:44.424Z",
+  "updatedAt": "2026-06-17T10:09:01.528Z",
   "items": [
     {
-      "time": "16:07",
-      "title": "食料品の消費税「実質0」案提示",
+      "time": "18:52",
+      "title": "首相 G7で中国を名指し「懸念」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584596?source=rss",
-      "publishedAt": "2026-06-17T07:07:53.000Z",
-      "xQuery": "食料品の消費税「実質0」案提示"
+      "url": "https://news.yahoo.co.jp/pickup/6584622?source=rss",
+      "publishedAt": "2026-06-17T09:52:45.000Z",
+      "xQuery": "首相 G7で中国を名指し「懸念」"
     },
     {
-      "time": "15:21",
-      "title": "NHK受信料 未収数減も強まる反発",
+      "time": "17:11",
+      "title": "日本郵船 ペルシャ湾に約10隻残る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584590?source=rss",
-      "publishedAt": "2026-06-17T06:21:35.000Z",
-      "xQuery": "NHK受信料 未収数減も強まる反発"
+      "url": "https://news.yahoo.co.jp/pickup/6584606?source=rss",
+      "publishedAt": "2026-06-17T08:11:17.000Z",
+      "xQuery": "日本郵船 ペルシャ湾に約10隻残る"
     },
     {
       "time": "16:58",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "自白迫られ摂食障害 娘死亡で提訴"
     },
     {
-      "time": "15:27",
-      "title": "事故ゼロ200日 表彰日に死亡事故",
+      "time": "18:32",
+      "title": "10円玉の原料価値 約10.5円に上昇",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584591?source=rss",
-      "publishedAt": "2026-06-17T06:27:47.000Z",
-      "xQuery": "事故ゼロ200日 表彰日に死亡事故"
+      "url": "https://news.yahoo.co.jp/pickup/6584615?source=rss",
+      "publishedAt": "2026-06-17T09:32:59.000Z",
+      "xQuery": "10円玉の原料価値 約10.5円に上昇"
     },
     {
-      "time": "16:23",
-      "title": "牛乳石鹸 SNS話題の使用法で声明",
+      "time": "18:17",
+      "title": "「崖の上のヤギ」死ぬ 衰弱のため",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584599?source=rss",
-      "publishedAt": "2026-06-17T07:23:54.000Z",
-      "xQuery": "牛乳石鹸 SNS話題の使用法で声明"
+      "url": "https://news.yahoo.co.jp/pickup/6584617?source=rss",
+      "publishedAt": "2026-06-17T09:17:28.000Z",
+      "xQuery": "「崖の上のヤギ」死ぬ 衰弱のため"
     }
   ]
 };
