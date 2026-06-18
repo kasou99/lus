@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T17:12:32.478Z",
+  "updatedAt": "2026-06-18T18:21:18.924Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-06-17T23:54:08.000Z"
       },
       {
-        "time": "19:10",
-        "title": "SPACECOOL、飲料工場屋根の暑熱対策に採用",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YQ3JjdGNxWktTeUd6ajR2N0pPUnlLRV9DdjhsSnFZRWx4MWlIYUp1ajBBR3JMOGgyNkliQTNQSnljMWViZEczQw?oc=5",
-        "publishedAt": "2026-06-18T10:10:50.000Z"
-      },
-      {
         "time": "14:16",
         "title": "【FISCO銘柄コメント】ミクロン精密---工作機械メーカー(フィスコ)",
         "source": "Yahoo!ファイナンス",
@@ -57,6 +50,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vLTJ2QkRtLVNhSjU1ZDZlZWZwQWZWak9FZlh3TlU1ZmxrcDNmYXN3M0dFbGtjdjJwMkhvOGNHT2M0a2pJWGF1WHY4NlhuMURickRySGVJcjRWNVk?oc=5",
         "publishedAt": "2026-06-18T00:27:45.000Z"
+      },
+      {
+        "time": "13:02",
+        "title": "【私の視点 観光羅針盤 525】地域未来戦略10ブロックと産業観光 吉田博詞",
+        "source": "観光経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NT3lDajRjVmkwMDVqNW9RcUFJWUVoRURndllSVU5qZE1JSzlubE5tMFp6NUdXcFh6N29LTENNcVRXVTNmaVpMMGdCaDVLUnI2UjF0dg?oc=5",
+        "publishedAt": "2026-06-18T04:02:22.000Z"
       }
     ],
     "worldHeadlines": [
