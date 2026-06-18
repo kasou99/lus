@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-18T22:18:21.445Z",
+  "updatedAt": "2026-06-18T23:10:33.608Z",
   "items": [
+    {
+      "time": "07:58",
+      "title": "最新AIの対策 外国政府と連携強化",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584781?source=rss",
+      "publishedAt": "2026-06-18T22:58:17.000Z",
+      "xQuery": "最新AIの対策 外国政府と連携強化"
+    },
     {
       "time": "06:49",
       "title": "米 イラン港湾への海上封鎖を解除",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "一時1ドル161円台 約2年ぶり水準"
     },
     {
-      "time": "22:15",
-      "title": "内閣支持率低下 与党内に警戒感",
+      "time": "07:24",
+      "title": "女児にぶつかり傷害疑い 男を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584759?source=rss",
-      "publishedAt": "2026-06-18T13:15:15.000Z",
-      "xQuery": "内閣支持率低下 与党内に警戒感"
-    },
-    {
-      "time": "23:11",
-      "title": "男性遺体を半年以上放置 市が謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584766?source=rss",
-      "publishedAt": "2026-06-18T14:11:11.000Z",
-      "xQuery": "男性遺体を半年以上放置 市が謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6584776?source=rss",
+      "publishedAt": "2026-06-18T22:24:03.000Z",
+      "xQuery": "女児にぶつかり傷害疑い 男を逮捕"
     },
     {
       "time": "06:35",

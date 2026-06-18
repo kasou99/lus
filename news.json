@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T22:18:20.539Z",
+  "updatedAt": "2026-06-18T23:10:32.684Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,9 +11,9 @@
       },
       {
         "time": "14:16",
-        "title": "【FISCO銘柄コメント】ミクロン精密---工作機械メーカー(フィスコ)",
+        "title": "【FISCO銘柄コメント】安川電機---ACサーボモータ等のモーションコントロール、産業用ロボットが…(フィスコ)",
         "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbUUxVk5zTGp3dzI5QlBPLUtDUHVFZHFnUHkta2tQU0FhaExyZ1BtcHdtYk9Ud1NXekJ3QnZOaWk0Q0REVVNkMkpub0xRNExGaDdNSlVaNmVRRG45Rm9CMEhZY2RuNDBLZUdyQk5RdTktV3Z0a3RPYnRPS0xDbHdDMWdDUEpBYWM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdFhJVUFINThSXzBSMzFadll4MzZiS0s4aUY1LUNoS1lZX2RaLVc5dWhZS1FIcjgxdUs2Y1VmMGVuUDl6cFJVQ28zLTU0MUpsYUlLWnNpSFhnV3F6UDNxUEszTFF2cXpWNk56WlQzdWJmUkcybTU2dXljZzhacTRLVHNFTTBPMUk?oc=5",
         "publishedAt": "2026-06-18T05:16:00.000Z"
       },
       {
@@ -22,6 +22,13 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlLUVZZnhkMEtoVDdFakEyQnl2NWpkZ0ZDUEpULVhXYlR2c3dFRmFpXzR5MkZFZlpLNUN5V2ppQmxCd3ptal9XUw?oc=5",
         "publishedAt": "2026-06-18T18:55:49.000Z"
+      },
+      {
+        "time": "07:04",
+        "title": "工作機械受注が10カ月連続で増加 AI需要で成長局面へ | チバテレ＋プラス",
+        "source": "千葉テレビ放送株式会社",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IaUlRM19LRjlQdi1rYV80b2F6LVFQRU4zbHRRRWpBWllUVkQyZExaenVmckZqeHJ0NmFlS3JIc0hJRnhqN09hRmJ1WklJUGZzOS1zWjRYN3ZYaE9kZzhR0gFkQVVfeXFMUDhHa1hyZUdXV1lRdVFHcnVxN1p5QVZLN2RWS3ZQamV2VkdWcDJ6aEQtYnY1QVBZUGwzV0RSdW9SUTBBdGtFaUp5Zzd4U2Rtd1c0eW55aENYZWFZY3YtWnl1TUdNQQ?oc=5",
+        "publishedAt": "2026-06-18T22:04:19.000Z"
       },
       {
         "time": "05:16",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-06-17T23:54:08.000Z"
       },
       {
-        "time": "12:21",
-        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LT0xFMkhVRUVVaUh3d0pyZkl1aE4tM3IxcFFLVFlSbUdvX1Y2RU9TZlZRc2lBTFhfRUNYR3Nzd2lDTG5YQ09pVm9BOV84SDhZZ05sWWM2VlBPTDRvQ2pFNWhR?oc=5",
-        "publishedAt": "2026-06-18T03:21:46.000Z"
-      },
-      {
-        "time": "13:02",
-        "title": "【私の視点 観光羅針盤 525】地域未来戦略10ブロックと産業観光 吉田博詞",
-        "source": "観光経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NT3lDajRjVmkwMDVqNW9RcUFJWUVoRURndllSVU5qZE1JSzlubE5tMFp6NUdXcFh6N29LTENNcVRXVTNmaVpMMGdCaDVLUnI2UjF0dg?oc=5",
-        "publishedAt": "2026-06-18T04:02:22.000Z"
+        "time": "05:00",
+        "title": "TDK、小型・高効率の基板型AC-DC電源 FA機器やロボ向け ほか",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01X3F5b2dsR3lwQ2hsMlZMQ01JcXFRQm5LZElIWmRNRzhnVVh4dlJLVGFSWjJDS09JSG5hbXpWbW5fRnh5QzJzZEd3cmRZZTFfam12cEJ4NTRDSUQ4dmQtclVsSUR6UGc?oc=5",
+        "publishedAt": "2026-06-18T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-06-18T21:35:28.000Z"
       },
       {
+        "time": "07:27",
+        "title": "「学研の学習」復刊へ 予約殺到",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584777?source=rss",
+        "publishedAt": "2026-06-18T22:27:43.000Z"
+      },
+      {
         "time": "19:40",
         "title": "ホンダ 社長の前期報酬が59%減",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584742?source=rss",
         "publishedAt": "2026-06-18T10:40:19.000Z"
-      },
-      {
-        "time": "15:45",
-        "title": "ニデック株主総会 怒りの声相次ぐ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584709?source=rss",
-        "publishedAt": "2026-06-18T06:45:49.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-18T14:11:11.000Z"
       },
       {
-        "time": "18:32",
-        "title": "クマがゴルフ練習場に 40人見守る",
+        "time": "07:24",
+        "title": "女児にぶつかり傷害疑い 男を逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584736?source=rss",
-        "publishedAt": "2026-06-18T09:32:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584776?source=rss",
+        "publishedAt": "2026-06-18T22:24:03.000Z"
       }
     ],
     "subsidyHeadlines": [
