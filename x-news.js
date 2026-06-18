@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-18T11:00:18.687Z",
+  "updatedAt": "2026-06-18T12:35:37.588Z",
   "items": [
     {
-      "time": "17:24",
-      "title": "ウクライナ モスクワに大規模攻撃",
+      "time": "20:42",
+      "title": "中国 高市首相の懸念表明に反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584724?source=rss",
-      "publishedAt": "2026-06-18T08:24:35.000Z",
-      "xQuery": "ウクライナ モスクワに大規模攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6584746?source=rss",
+      "publishedAt": "2026-06-18T11:42:54.000Z",
+      "xQuery": "中国 高市首相の懸念表明に反発"
     },
     {
-      "time": "17:50",
-      "title": "母の虐待でPTSD 息子の損賠訴訟",
+      "time": "20:11",
+      "title": "母の虐待に絶望 訴えた息子の決意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584729?source=rss",
-      "publishedAt": "2026-06-18T08:50:58.000Z",
-      "xQuery": "母の虐待でPTSD 息子の損賠訴訟"
+      "url": "https://news.yahoo.co.jp/pickup/6584744?source=rss",
+      "publishedAt": "2026-06-18T11:11:40.000Z",
+      "xQuery": "母の虐待に絶望 訴えた息子の決意"
     },
     {
-      "time": "18:05",
-      "title": "トヨタのシエンタ 16万台リコール",
+      "time": "20:57",
+      "title": "マイナ保険証 最新の利用率68%",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584730?source=rss",
-      "publishedAt": "2026-06-18T09:05:03.000Z",
-      "xQuery": "トヨタのシエンタ 16万台リコール"
+      "url": "https://news.yahoo.co.jp/pickup/6584749?source=rss",
+      "publishedAt": "2026-06-18T11:57:14.000Z",
+      "xQuery": "マイナ保険証 最新の利用率68%"
     },
     {
-      "time": "18:13",
-      "title": "女性刺され死亡 別の部屋に子ども",
+      "time": "20:54",
+      "title": "妊娠中の妻はねられ死亡 判決に涙",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584734?source=rss",
-      "publishedAt": "2026-06-18T09:13:11.000Z",
-      "xQuery": "女性刺され死亡 別の部屋に子ども"
+      "url": "https://news.yahoo.co.jp/pickup/6584748?source=rss",
+      "publishedAt": "2026-06-18T11:54:25.000Z",
+      "xQuery": "妊娠中の妻はねられ死亡 判決に涙"
     },
     {
-      "time": "18:32",
-      "title": "クマがゴルフ練習場に 40人見守る",
+      "time": "21:24",
+      "title": "山林で漆かき クマに襲われケガ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584736?source=rss",
-      "publishedAt": "2026-06-18T09:32:33.000Z",
-      "xQuery": "クマがゴルフ練習場に 40人見守る"
+      "url": "https://news.yahoo.co.jp/pickup/6584751?source=rss",
+      "publishedAt": "2026-06-18T12:24:16.000Z",
+      "xQuery": "山林で漆かき クマに襲われケガ"
     }
   ]
 };

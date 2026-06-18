@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-18T11:00:17.918Z",
+  "updatedAt": "2026-06-18T12:35:36.712Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:11",
+        "title": "リタール、6/30WEBセミナー「制御盤の熱対策セミナー 〜失敗しない機器選定とコスト削減のノウハウ〜」",
+        "source": "オートメーション新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2d1RZZ2FMOFRCQXNTMHBzUmpqZHBobGtrTkN5end5X1d5RDY1MXQ1dnd3eHI3R2IzdWsxS1dQXzJfelNCRXk5ZXUtYXRpazIyUnNELUxSZmZ0UQ?oc=5",
+        "publishedAt": "2026-06-18T07:11:41.000Z"
+      },
       {
         "time": "18:57",
         "title": "社員38人で売上80億円はなぜ可能なのか？ AIが加工工程を自動化する工作機械が職人不足と100兆円市場に与える影響",
@@ -31,6 +38,13 @@
         "publishedAt": "2026-06-18T05:16:00.000Z"
       },
       {
+        "time": "11:14",
+        "title": "台中、半導体支える精密機械集積地に",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlLUVZZnhkMEtoVDdFakEyQnl2NWpkZ0ZDUEpULVhXYlR2c3dFRmFpXzR5MkZFZlpLNUN5V2ppQmxCd3ptal9XUw?oc=5",
+        "publishedAt": "2026-06-18T02:14:39.000Z"
+      },
+      {
         "time": "09:27",
         "title": "デジタル赤字 問われる“稼ぐ力”（中）情報処理推進機構情報分析官・津田通隆氏",
         "source": "日刊工業新聞",
@@ -38,28 +52,21 @@
         "publishedAt": "2026-06-18T00:27:45.000Z"
       },
       {
-        "time": "13:02",
-        "title": "【私の視点 観光羅針盤 525】地域未来戦略10ブロックと産業観光 吉田博詞",
-        "source": "観光経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NT3lDajRjVmkwMDVqNW9RcUFJWUVoRURndllSVU5qZE1JSzlubE5tMFp6NUdXcFh6N29LTENNcVRXVTNmaVpMMGdCaDVLUnI2UjF0dg?oc=5",
-        "publishedAt": "2026-06-18T04:02:22.000Z"
-      },
-      {
-        "time": "13:03",
-        "title": "みずほリース Research Memo（3）：リース取引を中心に各種金融サービスを展開",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbmh5bUdrZFp6QUU4TnY5b3BPb04yenNkRktuVklBcGR5dDg4THZXdW5uM09GVjhzSFlyMUVsZnllOUhzOExoWDFjR2tOX0hPU0l2al9lVGo1a1B4Q21DbUNGZzh5NmRPS0RsMzlZX0dEcXVQdng3TVNlSV8xcDBUb3RCX1JQMUpQSXBXY9IBjAFBVV95cUxQbmh5bUdrZFp6QUU4TnY5b3BPb04yenNkRktuVklBcGR5dDg4THZXdW5uM09GVjhzSFlyMUVsZnllOUhzOExoWDFjR2tOX0hPU0l2al9lVGo1a1B4Q21DbUNGZzh5NmRPS0RsMzlZX0dEcXVQdng3TVNlSV8xcDBUb3RCX1JQMUpQSXBXYw?oc=5",
-        "publishedAt": "2026-06-18T04:03:00.000Z"
-      },
-      {
-        "time": "09:12",
+        "time": "12:21",
         "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
         "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LNll1SHV3a09wLU9sNzFmY0VaSHVTLTVPellkM29uVi1mRGlpZnFjSEczZHNmZ0xXcWxlejduQmZsWGhoQWYyWWFNc005YkFtc3pOTGJ2M0R4X1RiT1B5Wkhn?oc=5",
-        "publishedAt": "2026-06-18T00:12:16.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LT0xFMkhVRUVVaUh3d0pyZkl1aE4tM3IxcFFLVFlSbUdvX1Y2RU9TZlZRc2lBTFhfRUNYR3Nzd2lDTG5YQ09pVm9BOV84SDhZZ05sWWM2VlBPTDRvQ2pFNWhR?oc=5",
+        "publishedAt": "2026-06-18T03:21:46.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "21:06",
+        "title": "北朝鮮 核懸念するG7声明に反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584750?source=rss",
+        "publishedAt": "2026-06-18T12:06:01.000Z"
+      },
       {
         "time": "18:20",
         "title": "米イラン合意 実効性に不確定要素",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584642?source=rss",
         "publishedAt": "2026-06-17T13:28:57.000Z"
-      },
-      {
-        "time": "17:24",
-        "title": "ウクライナ モスクワに大規模攻撃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584724?source=rss",
-        "publishedAt": "2026-06-18T08:24:35.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,25 +163,18 @@
         "publishedAt": "2026-06-18T07:39:25.000Z"
       },
       {
-        "time": "17:50",
-        "title": "母の虐待でPTSD 息子の損賠訴訟",
+        "time": "20:11",
+        "title": "母の虐待に絶望 訴えた息子の決意",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584729?source=rss",
-        "publishedAt": "2026-06-18T08:50:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584744?source=rss",
+        "publishedAt": "2026-06-18T11:11:40.000Z"
       },
       {
-        "time": "14:12",
-        "title": "空気注入2人殺害 無期懲役を求刑",
+        "time": "20:54",
+        "title": "妊娠中の妻はねられ死亡 判決に涙",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584700?source=rss",
-        "publishedAt": "2026-06-18T05:12:47.000Z"
-      },
-      {
-        "time": "15:07",
-        "title": "妊婦はねられ死亡 被告に実刑判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584707?source=rss",
-        "publishedAt": "2026-06-18T06:07:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584748?source=rss",
+        "publishedAt": "2026-06-18T11:54:25.000Z"
       },
       {
         "time": "18:32",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584736?source=rss",
         "publishedAt": "2026-06-18T09:32:33.000Z"
+      },
+      {
+        "time": "21:24",
+        "title": "山林で漆かき クマに襲われケガ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584751?source=rss",
+        "publishedAt": "2026-06-18T12:24:16.000Z"
       }
     ],
     "subsidyHeadlines": [
