@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-18T05:08:59.629Z",
+  "updatedAt": "2026-06-18T07:10:58.874Z",
   "items": [
     {
-      "time": "12:05",
-      "title": "昨年の山岳遭難者 最多3623人",
+      "time": "15:40",
+      "title": "日経平均終値 初の7万円台",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584688?source=rss",
-      "publishedAt": "2026-06-18T03:05:01.000Z",
-      "xQuery": "昨年の山岳遭難者 最多3623人"
+      "url": "https://news.yahoo.co.jp/pickup/6584710?source=rss",
+      "publishedAt": "2026-06-18T06:40:35.000Z",
+      "xQuery": "日経平均終値 初の7万円台"
     },
     {
-      "time": "12:34",
-      "title": "娘重い障害 妊婦死亡事故18日判決",
+      "time": "14:40",
+      "title": "立憲 25日にも両院議員懇談会開催",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584692?source=rss",
-      "publishedAt": "2026-06-18T03:34:00.000Z",
-      "xQuery": "娘重い障害 妊婦死亡事故18日判決"
+      "url": "https://news.yahoo.co.jp/pickup/6584705?source=rss",
+      "publishedAt": "2026-06-18T05:40:09.000Z",
+      "xQuery": "立憲 25日にも両院議員懇談会開催"
     },
     {
-      "time": "10:18",
-      "title": "女性死亡 女を逮捕「友人刺した」",
+      "time": "15:45",
+      "title": "ニデック株主総会 怒りの声相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584677?source=rss",
-      "publishedAt": "2026-06-18T01:18:24.000Z",
-      "xQuery": "女性死亡 女を逮捕「友人刺した」"
+      "url": "https://news.yahoo.co.jp/pickup/6584709?source=rss",
+      "publishedAt": "2026-06-18T06:45:49.000Z",
+      "xQuery": "ニデック株主総会 怒りの声相次ぐ"
     },
     {
-      "time": "12:32",
-      "title": "バレー元代表・佐藤被告 深く反省",
+      "time": "15:07",
+      "title": "妊婦はねられ死亡 被告に実刑判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584693?source=rss",
-      "publishedAt": "2026-06-18T03:32:51.000Z",
-      "xQuery": "バレー元代表・佐藤被告 深く反省"
+      "url": "https://news.yahoo.co.jp/pickup/6584707?source=rss",
+      "publishedAt": "2026-06-18T06:07:57.000Z",
+      "xQuery": "妊婦はねられ死亡 被告に実刑判決"
     },
     {
-      "time": "12:14",
-      "title": "今夜貴重な天体ショー 各地の天気",
+      "time": "14:37",
+      "title": "「DAZN Soccer」新規受付を停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584690?source=rss",
-      "publishedAt": "2026-06-18T03:14:33.000Z",
-      "xQuery": "今夜貴重な天体ショー 各地の天気"
+      "url": "https://news.yahoo.co.jp/pickup/6584706?source=rss",
+      "publishedAt": "2026-06-18T05:37:32.000Z",
+      "xQuery": "「DAZN Soccer」新規受付を停止"
     }
   ]
 };
