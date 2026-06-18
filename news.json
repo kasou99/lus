@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T21:20:19.863Z",
+  "updatedAt": "2026-06-18T22:18:20.539Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,9 +11,9 @@
       },
       {
         "time": "14:16",
-        "title": "【FISCO銘柄コメント】安川電機---ACサーボモータ等のモーションコントロール、産業用ロボットが…(フィスコ)",
+        "title": "【FISCO銘柄コメント】ミクロン精密---工作機械メーカー(フィスコ)",
         "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdFhJVUFINThSXzBSMzFadll4MzZiS0s4aUY1LUNoS1lZX2RaLVc5dWhZS1FIcjgxdUs2Y1VmMGVuUDl6cFJVQ28zLTU0MUpsYUlLWnNpSFhnV3F6UDNxUEszTFF2cXpWNk56WlQzdWJmUkcybTU2dXljZzhacTRLVHNFTTBPMUk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbUUxVk5zTGp3dzI5QlBPLUtDUHVFZHFnUHkta2tQU0FhaExyZ1BtcHdtYk9Ud1NXekJ3QnZOaWk0Q0REVVNkMkpub0xRNExGaDdNSlVaNmVRRG45Rm9CMEhZY2RuNDBLZUdyQk5RdTktV3Z0a3RPYnRPS0xDbHdDMWdDUEpBYWM?oc=5",
         "publishedAt": "2026-06-18T05:16:00.000Z"
       },
       {
@@ -45,34 +45,27 @@
         "publishedAt": "2026-06-17T23:54:08.000Z"
       },
       {
-        "time": "14:16",
-        "title": "【FISCO銘柄コメント】ミクロン精密---工作機械メーカー(フィスコ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbUUxVk5zTGp3dzI5QlBPLUtDUHVFZHFnUHkta2tQU0FhaExyZ1BtcHdtYk9Ud1NXekJ3QnZOaWk0Q0REVVNkMkpub0xRNExGaDdNSlVaNmVRRG45Rm9CMEhZY2RuNDBLZUdyQk5RdTktV3Z0a3RPYnRPS0xDbHdDMWdDUEpBYWM?oc=5",
-        "publishedAt": "2026-06-18T05:16:00.000Z"
-      },
-      {
         "time": "12:21",
         "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LT0xFMkhVRUVVaUh3d0pyZkl1aE4tM3IxcFFLVFlSbUdvX1Y2RU9TZlZRc2lBTFhfRUNYR3Nzd2lDTG5YQ09pVm9BOV84SDhZZ05sWWM2VlBPTDRvQ2pFNWhR?oc=5",
         "publishedAt": "2026-06-18T03:21:46.000Z"
+      },
+      {
+        "time": "13:02",
+        "title": "【私の視点 観光羅針盤 525】地域未来戦略10ブロックと産業観光 吉田博詞",
+        "source": "観光経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NT3lDajRjVmkwMDVqNW9RcUFJWUVoRURndllSVU5qZE1JSzlubE5tMFp6NUdXcFh6N29LTENNcVRXVTNmaVpMMGdCaDVLUnI2UjF0dg?oc=5",
+        "publishedAt": "2026-06-18T04:02:22.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "23:02",
-        "title": "イスラエル「EU外相と関係断絶」",
+        "time": "06:49",
+        "title": "米 イラン港湾への海上封鎖を解除",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584764?source=rss",
-        "publishedAt": "2026-06-18T14:02:55.000Z"
-      },
-      {
-        "time": "21:06",
-        "title": "北朝鮮 核懸念するG7声明に反発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584750?source=rss",
-        "publishedAt": "2026-06-18T12:06:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584773?source=rss",
+        "publishedAt": "2026-06-18T21:49:33.000Z"
       },
       {
         "time": "18:20",
@@ -96,14 +89,28 @@
         "publishedAt": "2026-06-17T23:55:48.000Z"
       },
       {
-        "time": "07:42",
-        "title": "米高官 イランとの覚書の内容公開",
+        "time": "23:02",
+        "title": "イスラエル「EU外相と関係断絶」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584664?source=rss",
-        "publishedAt": "2026-06-17T22:42:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584764?source=rss",
+        "publishedAt": "2026-06-18T14:02:55.000Z"
+      },
+      {
+        "time": "21:06",
+        "title": "北朝鮮 核懸念するG7声明に反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584750?source=rss",
+        "publishedAt": "2026-06-18T12:06:01.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "06:26",
+        "title": "一時1ドル161円台 約2年ぶり水準",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584771?source=rss",
+        "publishedAt": "2026-06-18T21:26:30.000Z"
+      },
       {
         "time": "22:12",
         "title": "全銀協 AI脅威にATM停止など想定",
@@ -119,6 +126,13 @@
         "publishedAt": "2026-06-18T07:13:19.000Z"
       },
       {
+        "time": "06:35",
+        "title": "オデッセイ国内販売終了へ ホンダ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584772?source=rss",
+        "publishedAt": "2026-06-18T21:35:28.000Z"
+      },
+      {
         "time": "19:40",
         "title": "ホンダ 社長の前期報酬が59%減",
         "source": "Yahoo!ニュース",
@@ -131,20 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584709?source=rss",
         "publishedAt": "2026-06-18T06:45:49.000Z"
-      },
-      {
-        "time": "18:05",
-        "title": "トヨタのシエンタ 16万台リコール",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584730?source=rss",
-        "publishedAt": "2026-06-18T09:05:03.000Z"
-      },
-      {
-        "time": "19:54",
-        "title": "ロッテ アイス価格改定発表を中止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584743?source=rss",
-        "publishedAt": "2026-06-18T10:54:02.000Z"
       }
     ],
     "localHeadlines": [

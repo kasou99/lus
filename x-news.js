@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-18T21:20:20.472Z",
+  "updatedAt": "2026-06-18T22:18:21.445Z",
   "items": [
+    {
+      "time": "06:49",
+      "title": "米 イラン港湾への海上封鎖を解除",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584773?source=rss",
+      "publishedAt": "2026-06-18T21:49:33.000Z",
+      "xQuery": "米 イラン港湾への海上封鎖を解除"
+    },
+    {
+      "time": "06:26",
+      "title": "一時1ドル161円台 約2年ぶり水準",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584771?source=rss",
+      "publishedAt": "2026-06-18T21:26:30.000Z",
+      "xQuery": "一時1ドル161円台 約2年ぶり水準"
+    },
     {
       "time": "22:15",
       "title": "内閣支持率低下 与党内に警戒感",
@@ -8,22 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584759?source=rss",
       "publishedAt": "2026-06-18T13:15:15.000Z",
       "xQuery": "内閣支持率低下 与党内に警戒感"
-    },
-    {
-      "time": "22:43",
-      "title": "連合 立憲議員の自衛隊発言を注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584761?source=rss",
-      "publishedAt": "2026-06-18T13:43:24.000Z",
-      "xQuery": "連合 立憲議員の自衛隊発言を注意"
-    },
-    {
-      "time": "20:54",
-      "title": "妊娠中の妻はねられ死亡 判決に涙",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584748?source=rss",
-      "publishedAt": "2026-06-18T11:54:25.000Z",
-      "xQuery": "妊娠中の妻はねられ死亡 判決に涙"
     },
     {
       "time": "23:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "男性遺体を半年以上放置 市が謝罪"
     },
     {
-      "time": "22:39",
-      "title": "DAZN 解約希望者に返金措置",
+      "time": "06:35",
+      "title": "オデッセイ国内販売終了へ ホンダ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584763?source=rss",
-      "publishedAt": "2026-06-18T13:39:43.000Z",
-      "xQuery": "DAZN 解約希望者に返金措置"
+      "url": "https://news.yahoo.co.jp/pickup/6584772?source=rss",
+      "publishedAt": "2026-06-18T21:35:28.000Z",
+      "xQuery": "オデッセイ国内販売終了へ ホンダ"
     }
   ]
 };
