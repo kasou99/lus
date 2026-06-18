@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-18T20:20:11.376Z",
+  "updatedAt": "2026-06-18T21:20:20.472Z",
   "items": [
     {
       "time": "22:15",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "連合 立憲議員の自衛隊発言を注意"
     },
     {
-      "time": "23:02",
-      "title": "イスラエル「EU外相と関係断絶」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584764?source=rss",
-      "publishedAt": "2026-06-18T14:02:55.000Z",
-      "xQuery": "イスラエル「EU外相と関係断絶」"
-    },
-    {
       "time": "20:54",
       "title": "妊娠中の妻はねられ死亡 判決に涙",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584766?source=rss",
       "publishedAt": "2026-06-18T14:11:11.000Z",
       "xQuery": "男性遺体を半年以上放置 市が謝罪"
+    },
+    {
+      "time": "22:39",
+      "title": "DAZN 解約希望者に返金措置",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584763?source=rss",
+      "publishedAt": "2026-06-18T13:39:43.000Z",
+      "xQuery": "DAZN 解約希望者に返金措置"
     }
   ]
 };
