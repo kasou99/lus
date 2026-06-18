@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-18T01:33:39.651Z",
+  "updatedAt": "2026-06-18T03:20:03.045Z",
   "items": [
     {
-      "time": "08:55",
-      "title": "米イラン首脳が覚書に電子署名",
+      "time": "11:17",
+      "title": "米大統領 交渉期限は絶対ではない",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584670?source=rss",
-      "publishedAt": "2026-06-17T23:55:48.000Z",
-      "xQuery": "米イラン首脳が覚書に電子署名"
+      "url": "https://news.yahoo.co.jp/pickup/6584682?source=rss",
+      "publishedAt": "2026-06-18T02:17:04.000Z",
+      "xQuery": "米大統領 交渉期限は絶対ではない"
     },
     {
-      "time": "09:39",
-      "title": "日経平均 一時初の7万1000円台",
+      "time": "10:30",
+      "title": "中高生の英語力 過去最高も地域差",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584675?source=rss",
-      "publishedAt": "2026-06-18T00:39:15.000Z",
-      "xQuery": "日経平均 一時初の7万1000円台"
-    },
-    {
-      "time": "09:06",
-      "title": "アップル製品値上げ方針 米紙報道",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584672?source=rss",
-      "publishedAt": "2026-06-18T00:06:33.000Z",
-      "xQuery": "アップル製品値上げ方針 米紙報道"
+      "url": "https://news.yahoo.co.jp/pickup/6584679?source=rss",
+      "publishedAt": "2026-06-18T01:30:29.000Z",
+      "xQuery": "中高生の英語力 過去最高も地域差"
     },
     {
       "time": "10:18",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "女性死亡 女を逮捕「友人刺した」"
     },
     {
-      "time": "08:01",
-      "title": "土砂崩れ住人の下半身埋まる 大分",
+      "time": "11:22",
+      "title": "大会弁当で体調不良者が続出 調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584667?source=rss",
-      "publishedAt": "2026-06-17T23:01:12.000Z",
-      "xQuery": "土砂崩れ住人の下半身埋まる 大分"
+      "url": "https://news.yahoo.co.jp/pickup/6584684?source=rss",
+      "publishedAt": "2026-06-18T02:22:07.000Z",
+      "xQuery": "大会弁当で体調不良者が続出 調査"
+    },
+    {
+      "time": "09:04",
+      "title": "車の赤信号に三方向の矢印 なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584671?source=rss",
+      "publishedAt": "2026-06-18T00:04:46.000Z",
+      "xQuery": "車の赤信号に三方向の矢印 なぜ"
     }
   ]
 };

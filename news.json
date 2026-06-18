@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T01:33:38.180Z",
+  "updatedAt": "2026-06-18T03:20:02.104Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-06-17T22:00:00.000Z"
       },
       {
-        "time": "18:41",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-06-17T09:41:35.000Z"
-      },
-      {
         "time": "10:15",
         "title": "【台湾情報】台湾機械設備、AI・先進封止需要でハイテク設備が46％増──従来型と二極化＜ワイズ機械業界ジャーナル202",
         "source": "ニコニコニュース",
@@ -52,14 +45,28 @@
         "publishedAt": "2026-06-18T01:15:33.000Z"
       },
       {
-        "time": "07:38",
-        "title": "さあ出番／電通データアーティストモンゴル社長に就任した鈴木初実氏",
+        "time": "18:41",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-06-17T09:41:35.000Z"
+      },
+      {
+        "time": "09:27",
+        "title": "デジタル赤字 問われる“稼ぐ力”（中）情報処理推進機構情報分析官・津田通隆氏",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aWWJXdXJ6VlgtUUhjb0c5eE82RURsekhzTUxDTGRxWVd3VjgxRVBYZ2NseHRSR2JFcWc1Vm5vXy1OR2VlNWdCT1JWUzNGdURfbDdXZXYzZ0NPM2V0UnJvYkhVdm9NU2JjZHpkZFJPbWh5dGYtcVR0eUkzRQ?oc=5",
-        "publishedAt": "2026-06-17T22:38:26.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vLTJ2QkRtLVNhSjU1ZDZlZWZwQWZWak9FZlh3TlU1ZmxrcDNmYXN3M0dFbGtjdjJwMkhvOGNHT2M0a2pJWGF1WHY4NlhuMURickRySGVJcjRWNVk?oc=5",
+        "publishedAt": "2026-06-18T00:27:45.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "11:17",
+        "title": "米大統領 交渉期限は絶対ではない",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584682?source=rss",
+        "publishedAt": "2026-06-18T02:17:04.000Z"
+      },
       {
         "time": "08:55",
         "title": "米イラン首脳が覚書に電子署名",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584574?source=rss",
         "publishedAt": "2026-06-17T04:15:15.000Z"
-      },
-      {
-        "time": "08:46",
-        "title": "ホワイトハウスのイベ巡り5人訴追",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584543?source=rss",
-        "publishedAt": "2026-06-16T23:46:42.000Z"
       },
       {
         "time": "11:56",
@@ -133,11 +133,11 @@
         "publishedAt": "2026-06-17T14:56:19.000Z"
       },
       {
-        "time": "10:31",
-        "title": "円谷プロで退職者が続出 社員証言",
+        "time": "12:16",
+        "title": "小網神社の名無断使用 グッズ販売",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584550?source=rss",
-        "publishedAt": "2026-06-17T01:31:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584687?source=rss",
+        "publishedAt": "2026-06-18T03:16:05.000Z"
       },
       {
         "time": "20:07",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-06-18T01:18:24.000Z"
       },
       {
-        "time": "21:43",
-        "title": "プール小4死亡 元校長に有罪判決",
+        "time": "16:58",
+        "title": "自白迫られ摂食障害 娘死亡で提訴",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584638?source=rss",
-        "publishedAt": "2026-06-17T12:43:11.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584601?source=rss",
+        "publishedAt": "2026-06-17T07:58:58.000Z"
       },
       {
         "time": "08:01",
