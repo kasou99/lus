@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T07:10:58.261Z",
+  "updatedAt": "2026-06-18T09:04:14.755Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -20,7 +20,7 @@
         "time": "13:00",
         "title": "システムクリエイト、小型CNC旋盤「YORNEW CK210B」のデモ機を導入。実機見学・ベンチマークテストへの対応を開始",
         "source": "ValuePress!",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DM0l5cEZxWlBDQ0RPTkFMQVJoYmpRbVhGZk1qMWs5Z2pnM1hLZTZuYmwxOXRxXzVHUWhiQzJBVVRVQzZwZ1RFSFRWamZ4amxkdE9PMlhhc3lQak9pUmc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LMGhmbjF1aEpLNFRNZC0wV0N5LW84eGRma1YwTUhQUDFmNTBtdk1kdkZlZ2M1WE53REtXdlJZeW94V2pGcWFsVDhzY2Jhb2l2b1VSNFFqZzQ3cFk?oc=5",
         "publishedAt": "2026-06-18T04:00:00.000Z"
       },
       {
@@ -31,11 +31,18 @@
         "publishedAt": "2026-06-18T05:16:00.000Z"
       },
       {
-        "time": "08:27",
-        "title": "東商、モノづくり・食品で展示会 都内で11月",
+        "time": "09:27",
+        "title": "デジタル赤字 問われる“稼ぐ力”（中）情報処理推進機構情報分析官・津田通隆氏",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uTmhNMHpKWS1wYVdNRmI4T3lSZ0VKRTh0QXRZN1FRZDdUNTBKX084OVloMjNjZDlaUlZBeDd0aWFXY29LcDVUYldGODItN3VkaDVfTk1zREJEWVU?oc=5",
-        "publishedAt": "2026-06-17T23:27:51.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vLTJ2QkRtLVNhSjU1ZDZlZWZwQWZWak9FZlh3TlU1ZmxrcDNmYXN3M0dFbGtjdjJwMkhvOGNHT2M0a2pJWGF1WHY4NlhuMURickRySGVJcjRWNVk?oc=5",
+        "publishedAt": "2026-06-18T00:27:45.000Z"
+      },
+      {
+        "time": "13:02",
+        "title": "【私の視点 観光羅針盤 525】地域未来戦略10ブロックと産業観光 吉田博詞",
+        "source": "観光経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NT3lDajRjVmkwMDVqNW9RcUFJWUVoRURndllSVU5qZE1JSzlubE5tMFp6NUdXcFh6N29LTENNcVRXVTNmaVpMMGdCaDVLUnI2UjF0dg?oc=5",
+        "publishedAt": "2026-06-18T04:02:22.000Z"
       },
       {
         "time": "13:03",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-06-18T04:03:00.000Z"
       },
       {
-        "time": "08:54",
-        "title": "中国の補助金投入で｢工作機械の常識｣が変わった 日工会･稲葉会長が語った\"ものづくりの未来\" 3ページ目 | ビジネス",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81OGZ1Q0Vvcmo2c0w4dS03OHUyaDRYUnVqdE1CNF9WaE9SOUxUR2txcWFRQjdrR01MLWlRSmN5TUhtYnEyWV92UEpsYlo0UjFUVkJWRTUydkFSa2c?oc=5",
-        "publishedAt": "2026-06-17T23:54:08.000Z"
-      },
-      {
-        "time": "13:02",
-        "title": "【私の視点 観光羅針盤 525】地域未来戦略10ブロックと産業観光 吉田博詞",
-        "source": "観光経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NT3lDajRjVmkwMDVqNW9RcUFJWUVoRURndllSVU5qZE1JSzlubE5tMFp6NUdXcFh6N29LTENNcVRXVTNmaVpMMGdCaDVLUnI2UjF0dg?oc=5",
-        "publishedAt": "2026-06-18T04:02:22.000Z"
+        "time": "09:12",
+        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LNll1SHV3a09wLU9sNzFmY0VaSHVTLTVPellkM29uVi1mRGlpZnFjSEczZHNmZ0xXcWxlejduQmZsWGhoQWYyWWFNc005YkFtc3pOTGJ2M0R4X1RiT1B5Wkhn?oc=5",
+        "publishedAt": "2026-06-18T00:12:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -96,11 +96,11 @@
         "publishedAt": "2026-06-17T04:15:15.000Z"
       },
       {
-        "time": "11:56",
-        "title": "露大統領風刺のアーティスト 射殺",
+        "time": "17:24",
+        "title": "ウクライナ モスクワに大規模攻撃",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584566?source=rss",
-        "publishedAt": "2026-06-17T02:56:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584724?source=rss",
+        "publishedAt": "2026-06-18T08:24:35.000Z"
       }
     ],
     "economyHeadlines": [
@@ -112,6 +112,13 @@
         "publishedAt": "2026-06-18T06:40:35.000Z"
       },
       {
+        "time": "16:13",
+        "title": "ナフサ危機 倒産が相次ぐ可能性も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584713?source=rss",
+        "publishedAt": "2026-06-18T07:13:19.000Z"
+      },
+      {
         "time": "15:45",
         "title": "ニデック株主総会 怒りの声相次ぐ",
         "source": "Yahoo!ニュース",
@@ -119,18 +126,11 @@
         "publishedAt": "2026-06-18T06:45:49.000Z"
       },
       {
-        "time": "08:19",
-        "title": "日銀利上げ 利払い増に中小は苦悩",
+        "time": "17:35",
+        "title": "羽田発機内でスマホ発火 けがなし",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584668?source=rss",
-        "publishedAt": "2026-06-17T23:19:38.000Z"
-      },
-      {
-        "time": "06:09",
-        "title": "米FRB 政策金利の据え置きを決定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584654?source=rss",
-        "publishedAt": "2026-06-17T21:09:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584725?source=rss",
+        "publishedAt": "2026-06-18T08:35:23.000Z"
       },
       {
         "time": "23:56",
@@ -140,14 +140,28 @@
         "publishedAt": "2026-06-17T14:56:19.000Z"
       },
       {
-        "time": "14:05",
-        "title": "愛知発の飲食店 首都圏目指す背景",
+        "time": "16:41",
+        "title": "ワンコインデー廃止 虎党株主問う",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584703?source=rss",
-        "publishedAt": "2026-06-18T05:05:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584717?source=rss",
+        "publishedAt": "2026-06-18T07:41:33.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "16:39",
+        "title": "ひき逃げ「無罪」続いた誹謗中傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584715?source=rss",
+        "publishedAt": "2026-06-18T07:39:25.000Z"
+      },
+      {
+        "time": "17:50",
+        "title": "母の虐待でPTSD 息子の損賠訴訟",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584729?source=rss",
+        "publishedAt": "2026-06-18T08:50:58.000Z"
+      },
       {
         "time": "14:12",
         "title": "空気注入2人殺害 無期懲役を求刑",
@@ -163,32 +177,18 @@
         "publishedAt": "2026-06-18T06:07:57.000Z"
       },
       {
-        "time": "12:32",
-        "title": "バレー元代表・佐藤被告 深く反省",
+        "time": "16:43",
+        "title": "無人の高所作業車に挟まれ 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584693?source=rss",
-        "publishedAt": "2026-06-18T03:32:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584719?source=rss",
+        "publishedAt": "2026-06-18T07:43:57.000Z"
       },
       {
-        "time": "12:34",
-        "title": "娘重い障害 妊婦死亡事故18日判決",
+        "time": "16:18",
+        "title": "園児切りつけ 元保育士が殺意否認",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584692?source=rss",
-        "publishedAt": "2026-06-18T03:34:00.000Z"
-      },
-      {
-        "time": "10:18",
-        "title": "女性死亡 女を逮捕「友人刺した」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584677?source=rss",
-        "publishedAt": "2026-06-18T01:18:24.000Z"
-      },
-      {
-        "time": "07:19",
-        "title": "ミキサー車にひかれ男性死亡 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584659?source=rss",
-        "publishedAt": "2026-06-17T22:19:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584714?source=rss",
+        "publishedAt": "2026-06-18T07:18:43.000Z"
       }
     ],
     "subsidyHeadlines": [

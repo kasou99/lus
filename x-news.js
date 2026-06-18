@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-18T07:10:58.874Z",
+  "updatedAt": "2026-06-18T09:04:15.473Z",
   "items": [
     {
-      "time": "15:40",
-      "title": "日経平均終値 初の7万円台",
+      "time": "17:24",
+      "title": "ウクライナ モスクワに大規模攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584710?source=rss",
-      "publishedAt": "2026-06-18T06:40:35.000Z",
-      "xQuery": "日経平均終値 初の7万円台"
+      "url": "https://news.yahoo.co.jp/pickup/6584724?source=rss",
+      "publishedAt": "2026-06-18T08:24:35.000Z",
+      "xQuery": "ウクライナ モスクワに大規模攻撃"
     },
     {
-      "time": "14:40",
-      "title": "立憲 25日にも両院議員懇談会開催",
+      "time": "16:13",
+      "title": "ナフサ危機 倒産が相次ぐ可能性も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584705?source=rss",
-      "publishedAt": "2026-06-18T05:40:09.000Z",
-      "xQuery": "立憲 25日にも両院議員懇談会開催"
+      "url": "https://news.yahoo.co.jp/pickup/6584713?source=rss",
+      "publishedAt": "2026-06-18T07:13:19.000Z",
+      "xQuery": "ナフサ危機 倒産が相次ぐ可能性も"
     },
     {
       "time": "15:45",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ニデック株主総会 怒りの声相次ぐ"
     },
     {
-      "time": "15:07",
-      "title": "妊婦はねられ死亡 被告に実刑判決",
+      "time": "17:35",
+      "title": "羽田発機内でスマホ発火 けがなし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584707?source=rss",
-      "publishedAt": "2026-06-18T06:07:57.000Z",
-      "xQuery": "妊婦はねられ死亡 被告に実刑判決"
+      "url": "https://news.yahoo.co.jp/pickup/6584725?source=rss",
+      "publishedAt": "2026-06-18T08:35:23.000Z",
+      "xQuery": "羽田発機内でスマホ発火 けがなし"
     },
     {
-      "time": "14:37",
-      "title": "「DAZN Soccer」新規受付を停止",
+      "time": "16:43",
+      "title": "無人の高所作業車に挟まれ 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584706?source=rss",
-      "publishedAt": "2026-06-18T05:37:32.000Z",
-      "xQuery": "「DAZN Soccer」新規受付を停止"
+      "url": "https://news.yahoo.co.jp/pickup/6584719?source=rss",
+      "publishedAt": "2026-06-18T07:43:57.000Z",
+      "xQuery": "無人の高所作業車に挟まれ 死亡"
     }
   ]
 };
