@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-18T09:04:14.755Z",
+  "updatedAt": "2026-06-18T11:00:17.918Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "14:16",
-        "title": "【FISCO銘柄コメント】安川電機---ACサーボモータ等のモーションコントロール、産業用ロボットが…(フィスコ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdFhJVUFINThSXzBSMzFadll4MzZiS0s4aUY1LUNoS1lZX2RaLVc5dWhZS1FIcjgxdUs2Y1VmMGVuUDl6cFJVQ28zLTU0MUpsYUlLWnNpSFhnV3F6UDNxUEszTFF2cXpWNk56WlQzdWJmUkcybTU2dXljZzhacTRLVHNFTTBPMUk?oc=5",
-        "publishedAt": "2026-06-18T05:16:00.000Z"
-      },
-      {
-        "time": "15:31",
+        "time": "18:57",
         "title": "社員38人で売上80億円はなぜ可能なのか？ AIが加工工程を自動化する工作機械が職人不足と100兆円市場に与える影響",
         "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4UzVfVm5JUzVFeG1CcllVa2FtYVoxNHMtMkdfR2Q0azZmOW12a2NzNHd2WTBmMnJjVnh6LVU3dWRiRENrSW0zbERVazV6cTNqT0NBQVExM3Qyc2c?oc=5",
-        "publishedAt": "2026-06-18T06:31:49.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zcEF4TURBSndraTBwLXNOVTFaYjlnZWNEV0FybFBrUzlWLXZZNGFyRkRLX3dsX1R2M0cwWWIzUUR2TVlSYjNpZ0NMLWlQMXpnZHpON3FQN2RGSXc?oc=5",
+        "publishedAt": "2026-06-18T09:57:57.000Z"
+      },
+      {
+        "time": "14:16",
+        "title": "【FISCO銘柄コメント】ミクロン精密---工作機械メーカー(フィスコ)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbUUxVk5zTGp3dzI5QlBPLUtDUHVFZHFnUHkta2tQU0FhaExyZ1BtcHdtYk9Ud1NXekJ3QnZOaWk0Q0REVVNkMkpub0xRNExGaDdNSlVaNmVRRG45Rm9CMEhZY2RuNDBLZUdyQk5RdTktV3Z0a3RPYnRPS0xDbHdDMWdDUEpBYWM?oc=5",
+        "publishedAt": "2026-06-18T05:16:00.000Z"
       },
       {
         "time": "13:00",
@@ -25,9 +25,9 @@
       },
       {
         "time": "14:16",
-        "title": "【FISCO銘柄コメント】ミクロン精密---工作機械メーカー(フィスコ)",
+        "title": "【FISCO銘柄コメント】安川電機---ACサーボモータ等のモーションコントロール、産業用ロボットが…(フィスコ)",
         "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbUUxVk5zTGp3dzI5QlBPLUtDUHVFZHFnUHkta2tQU0FhaExyZ1BtcHdtYk9Ud1NXekJ3QnZOaWk0Q0REVVNkMkpub0xRNExGaDdNSlVaNmVRRG45Rm9CMEhZY2RuNDBLZUdyQk5RdTktV3Z0a3RPYnRPS0xDbHdDMWdDUEpBYWM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdFhJVUFINThSXzBSMzFadll4MzZiS0s4aUY1LUNoS1lZX2RaLVc5dWhZS1FIcjgxdUs2Y1VmMGVuUDl6cFJVQ28zLTU0MUpsYUlLWnNpSFhnV3F6UDNxUEszTFF2cXpWNk56WlQzdWJmUkcybTU2dXljZzhacTRLVHNFTTBPMUk?oc=5",
         "publishedAt": "2026-06-18T05:16:00.000Z"
       },
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "18:20",
+        "title": "米イラン合意 実効性に不確定要素",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584733?source=rss",
+        "publishedAt": "2026-06-18T09:20:41.000Z"
+      },
+      {
         "time": "11:17",
         "title": "米大統領 交渉期限は絶対ではない",
         "source": "Yahoo!ニュース",
@@ -89,13 +96,6 @@
         "publishedAt": "2026-06-17T13:28:57.000Z"
       },
       {
-        "time": "13:15",
-        "title": "G7が成果文書を発表 結束を演出",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584574?source=rss",
-        "publishedAt": "2026-06-17T04:15:15.000Z"
-      },
-      {
         "time": "17:24",
         "title": "ウクライナ モスクワに大規模攻撃",
         "source": "Yahoo!ニュース",
@@ -119,6 +119,13 @@
         "publishedAt": "2026-06-18T07:13:19.000Z"
       },
       {
+        "time": "19:40",
+        "title": "ホンダ 社長の前期報酬が59%減",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584742?source=rss",
+        "publishedAt": "2026-06-18T10:40:19.000Z"
+      },
+      {
         "time": "15:45",
         "title": "ニデック株主総会 怒りの声相次ぐ",
         "source": "Yahoo!ニュース",
@@ -126,28 +133,28 @@
         "publishedAt": "2026-06-18T06:45:49.000Z"
       },
       {
-        "time": "17:35",
-        "title": "羽田発機内でスマホ発火 けがなし",
+        "time": "18:05",
+        "title": "トヨタのシエンタ 16万台リコール",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584725?source=rss",
-        "publishedAt": "2026-06-18T08:35:23.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584730?source=rss",
+        "publishedAt": "2026-06-18T09:05:03.000Z"
       },
       {
-        "time": "23:56",
-        "title": "武田薬品 社長の役員報酬23億円超",
+        "time": "19:54",
+        "title": "ロッテ アイス価格改定発表を中止",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584651?source=rss",
-        "publishedAt": "2026-06-17T14:56:19.000Z"
-      },
-      {
-        "time": "16:41",
-        "title": "ワンコインデー廃止 虎党株主問う",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584717?source=rss",
-        "publishedAt": "2026-06-18T07:41:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584743?source=rss",
+        "publishedAt": "2026-06-18T10:54:02.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "18:13",
+        "title": "女性刺され死亡 別の部屋に子ども",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584734?source=rss",
+        "publishedAt": "2026-06-18T09:13:11.000Z"
+      },
       {
         "time": "16:39",
         "title": "ひき逃げ「無罪」続いた誹謗中傷",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-06-18T06:07:57.000Z"
       },
       {
-        "time": "16:43",
-        "title": "無人の高所作業車に挟まれ 死亡",
+        "time": "18:32",
+        "title": "クマがゴルフ練習場に 40人見守る",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584719?source=rss",
-        "publishedAt": "2026-06-18T07:43:57.000Z"
-      },
-      {
-        "time": "16:18",
-        "title": "園児切りつけ 元保育士が殺意否認",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584714?source=rss",
-        "publishedAt": "2026-06-18T07:18:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584736?source=rss",
+        "publishedAt": "2026-06-18T09:32:33.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-18T09:04:15.473Z",
+  "updatedAt": "2026-06-18T11:00:18.687Z",
   "items": [
     {
       "time": "17:24",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "ウクライナ モスクワに大規模攻撃"
     },
     {
-      "time": "16:13",
-      "title": "ナフサ危機 倒産が相次ぐ可能性も",
+      "time": "17:50",
+      "title": "母の虐待でPTSD 息子の損賠訴訟",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584713?source=rss",
-      "publishedAt": "2026-06-18T07:13:19.000Z",
-      "xQuery": "ナフサ危機 倒産が相次ぐ可能性も"
+      "url": "https://news.yahoo.co.jp/pickup/6584729?source=rss",
+      "publishedAt": "2026-06-18T08:50:58.000Z",
+      "xQuery": "母の虐待でPTSD 息子の損賠訴訟"
     },
     {
-      "time": "15:45",
-      "title": "ニデック株主総会 怒りの声相次ぐ",
+      "time": "18:05",
+      "title": "トヨタのシエンタ 16万台リコール",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584709?source=rss",
-      "publishedAt": "2026-06-18T06:45:49.000Z",
-      "xQuery": "ニデック株主総会 怒りの声相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6584730?source=rss",
+      "publishedAt": "2026-06-18T09:05:03.000Z",
+      "xQuery": "トヨタのシエンタ 16万台リコール"
     },
     {
-      "time": "17:35",
-      "title": "羽田発機内でスマホ発火 けがなし",
+      "time": "18:13",
+      "title": "女性刺され死亡 別の部屋に子ども",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584725?source=rss",
-      "publishedAt": "2026-06-18T08:35:23.000Z",
-      "xQuery": "羽田発機内でスマホ発火 けがなし"
+      "url": "https://news.yahoo.co.jp/pickup/6584734?source=rss",
+      "publishedAt": "2026-06-18T09:13:11.000Z",
+      "xQuery": "女性刺され死亡 別の部屋に子ども"
     },
     {
-      "time": "16:43",
-      "title": "無人の高所作業車に挟まれ 死亡",
+      "time": "18:32",
+      "title": "クマがゴルフ練習場に 40人見守る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584719?source=rss",
-      "publishedAt": "2026-06-18T07:43:57.000Z",
-      "xQuery": "無人の高所作業車に挟まれ 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6584736?source=rss",
+      "publishedAt": "2026-06-18T09:32:33.000Z",
+      "xQuery": "クマがゴルフ練習場に 40人見守る"
     }
   ]
 };
