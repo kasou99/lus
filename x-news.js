@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-18T14:06:34.058Z",
+  "updatedAt": "2026-06-18T15:49:37.061Z",
   "items": [
     {
       "time": "22:15",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "連合 立憲議員の自衛隊発言を注意"
     },
     {
-      "time": "17:24",
-      "title": "ウクライナ モスクワに大規模攻撃",
+      "time": "23:02",
+      "title": "イスラエル「EU外相と関係断絶」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584724?source=rss",
-      "publishedAt": "2026-06-18T08:24:35.000Z",
-      "xQuery": "ウクライナ モスクワに大規模攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6584764?source=rss",
+      "publishedAt": "2026-06-18T14:02:55.000Z",
+      "xQuery": "イスラエル「EU外相と関係断絶」"
     },
     {
       "time": "20:54",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "妊娠中の妻はねられ死亡 判決に涙"
     },
     {
-      "time": "22:12",
-      "title": "全銀協 AI脅威にATM停止など想定",
+      "time": "23:11",
+      "title": "男性遺体を半年以上放置 市が謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584758?source=rss",
-      "publishedAt": "2026-06-18T13:12:28.000Z",
-      "xQuery": "全銀協 AI脅威にATM停止など想定"
+      "url": "https://news.yahoo.co.jp/pickup/6584766?source=rss",
+      "publishedAt": "2026-06-18T14:11:11.000Z",
+      "xQuery": "男性遺体を半年以上放置 市が謝罪"
     }
   ]
 };
