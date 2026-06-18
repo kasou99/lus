@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T19:20:52.494Z",
+  "updatedAt": "2026-06-18T20:20:10.516Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlLUVZZnhkMEtoVDdFakEyQnl2NWpkZ0ZDUEpULVhXYlR2c3dFRmFpXzR5MkZFZlpLNUN5V2ppQmxCd3ptal9XUw?oc=5",
         "publishedAt": "2026-06-18T18:55:49.000Z"
+      },
+      {
+        "time": "05:04",
+        "title": "会頭に聞く（8）奈良商工会議所・橋本隆史氏 「共創」で地域内消費拡大",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIai1RZklacmNuRzBUOGtDVlRKdHdhUFNNNkN5YTBBZHVMV3VteTQ4bm85Vmh1QUJ1MWFUTUZZOEtrbFg5SDlxejJEQ094eUR4RXN5Nm0wcFh1cnM?oc=5",
+        "publishedAt": "2026-06-18T20:04:01.000Z"
       },
       {
         "time": "13:00",
@@ -50,13 +57,6 @@
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LT0xFMkhVRUVVaUh3d0pyZkl1aE4tM3IxcFFLVFlSbUdvX1Y2RU9TZlZRc2lBTFhfRUNYR3Nzd2lDTG5YQ09pVm9BOV84SDhZZ05sWWM2VlBPTDRvQ2pFNWhR?oc=5",
         "publishedAt": "2026-06-18T03:21:46.000Z"
-      },
-      {
-        "time": "09:27",
-        "title": "デジタル赤字 問われる“稼ぐ力”（中）情報処理推進機構情報分析官・津田通隆氏",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vLTJ2QkRtLVNhSjU1ZDZlZWZwQWZWak9FZlh3TlU1ZmxrcDNmYXN3M0dFbGtjdjJwMkhvOGNHT2M0a2pJWGF1WHY4NlhuMURickRySGVJcjRWNVk?oc=5",
-        "publishedAt": "2026-06-18T00:27:45.000Z"
       }
     ],
     "worldHeadlines": [
