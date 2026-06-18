@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T18:21:18.924Z",
+  "updatedAt": "2026-06-18T19:20:52.494Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,9 +17,16 @@
         "publishedAt": "2026-06-18T05:16:00.000Z"
       },
       {
+        "time": "03:55",
+        "title": "台中、半導体支える精密機械集積地に",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlLUVZZnhkMEtoVDdFakEyQnl2NWpkZ0ZDUEpULVhXYlR2c3dFRmFpXzR5MkZFZlpLNUN5V2ppQmxCd3ptal9XUw?oc=5",
+        "publishedAt": "2026-06-18T18:55:49.000Z"
+      },
+      {
         "time": "13:00",
         "title": "システムクリエイト、小型CNC旋盤「YORNEW CK210B」のデモ機を導入。実機見学・ベンチマークテストへの対応を開始",
-        "source": "ValuePress!",
+        "source": "valuepress",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LMGhmbjF1aEpLNFRNZC0wV0N5LW84eGRma1YwTUhQUDFmNTBtdk1kdkZlZ2M1WE53REtXdlJZeW94V2pGcWFsVDhzY2Jhb2l2b1VSNFFqZzQ3cFk?oc=5",
         "publishedAt": "2026-06-18T04:00:00.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vLTJ2QkRtLVNhSjU1ZDZlZWZwQWZWak9FZlh3TlU1ZmxrcDNmYXN3M0dFbGtjdjJwMkhvOGNHT2M0a2pJWGF1WHY4NlhuMURickRySGVJcjRWNVk?oc=5",
         "publishedAt": "2026-06-18T00:27:45.000Z"
-      },
-      {
-        "time": "13:02",
-        "title": "【私の視点 観光羅針盤 525】地域未来戦略10ブロックと産業観光 吉田博詞",
-        "source": "観光経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NT3lDajRjVmkwMDVqNW9RcUFJWUVoRURndllSVU5qZE1JSzlubE5tMFp6NUdXcFh6N29LTENNcVRXVTNmaVpMMGdCaDVLUnI2UjF0dg?oc=5",
-        "publishedAt": "2026-06-18T04:02:22.000Z"
       }
     ],
     "worldHeadlines": [
