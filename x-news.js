@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-18T00:01:08.070Z",
+  "updatedAt": "2026-06-18T01:33:39.651Z",
   "items": [
     {
       "time": "08:55",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン首脳が覚書に電子署名"
     },
     {
-      "time": "08:19",
-      "title": "日銀利上げ 利払い増に中小は苦悩",
+      "time": "09:39",
+      "title": "日経平均 一時初の7万1000円台",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584668?source=rss",
-      "publishedAt": "2026-06-17T23:19:38.000Z",
-      "xQuery": "日銀利上げ 利払い増に中小は苦悩"
+      "url": "https://news.yahoo.co.jp/pickup/6584675?source=rss",
+      "publishedAt": "2026-06-18T00:39:15.000Z",
+      "xQuery": "日経平均 一時初の7万1000円台"
     },
     {
-      "time": "08:05",
-      "title": "匿流に標的情報「案件屋」提供か",
+      "time": "09:06",
+      "title": "アップル製品値上げ方針 米紙報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584666?source=rss",
-      "publishedAt": "2026-06-17T23:05:16.000Z",
-      "xQuery": "匿流に標的情報「案件屋」提供か"
+      "url": "https://news.yahoo.co.jp/pickup/6584672?source=rss",
+      "publishedAt": "2026-06-18T00:06:33.000Z",
+      "xQuery": "アップル製品値上げ方針 米紙報道"
     },
     {
-      "time": "07:19",
-      "title": "ミキサー車にひかれ男性死亡 逮捕",
+      "time": "10:18",
+      "title": "女性死亡 女を逮捕「友人刺した」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584659?source=rss",
-      "publishedAt": "2026-06-17T22:19:18.000Z",
-      "xQuery": "ミキサー車にひかれ男性死亡 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6584677?source=rss",
+      "publishedAt": "2026-06-18T01:18:24.000Z",
+      "xQuery": "女性死亡 女を逮捕「友人刺した」"
     },
     {
       "time": "08:01",

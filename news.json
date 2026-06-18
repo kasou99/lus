@@ -1,27 +1,34 @@
 {
-  "updatedAt": "2026-06-18T00:01:07.037Z",
+  "updatedAt": "2026-06-18T01:33:38.180Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "18:42",
+        "time": "08:54",
+        "title": "中国の補助金投入で｢工作機械の常識｣が変わった 日工会･稲葉会長が語った\"ものづくりの未来\" 3ページ目 | ビジネス",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81OGZ1Q0Vvcmo2c0w4dS03OHUyaDRYUnVqdE1CNF9WaE9SOUxUR2txcWFRQjdrR01MLWlRSmN5TUhtYnEyWV92UEpsYlo0UjFUVkJWRTUydkFSa2c?oc=5",
+        "publishedAt": "2026-06-17T23:54:08.000Z"
+      },
+      {
+        "time": "08:27",
+        "title": "東商、モノづくり・食品で展示会 都内で11月",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uTmhNMHpKWS1wYVdNRmI4T3lSZ0VKRTh0QXRZN1FRZDdUNTBKX084OVloMjNjZDlaUlZBeDd0aWFXY29LcDVUYldGODItN3VkaDVfTk1zREJEWVU?oc=5",
+        "publishedAt": "2026-06-17T23:27:51.000Z"
+      },
+      {
+        "time": "09:12",
+        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LNll1SHV3a09wLU9sNzFmY0VaSHVTLTVPellkM29uVi1mRGlpZnFjSEczZHNmZ0xXcWxlejduQmZsWGhoQWYyWWFNc005YkFtc3pOTGJ2M0R4X1RiT1B5Wkhn?oc=5",
+        "publishedAt": "2026-06-18T00:12:16.000Z"
+      },
+      {
+        "time": "06:42",
         "title": "社員38人で売上80億円はなぜ可能なのか？ AIが加工工程を自動化する工作機械が職人不足と100兆円市場に与える影響",
         "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4UzVfVm5JUzVFeG1CcllVa2FtYVoxNHMtMkdfR2Q0azZmOW12a2NzNHd2WTBmMnJjVnh6LVU3dWRiRENrSW0zbERVazV6cTNqT0NBQVExM3Qyc2c?oc=5",
-        "publishedAt": "2026-06-17T09:42:02.000Z"
-      },
-      {
-        "time": "05:03",
-        "title": "現場の人手不足解決！ 千葉で建設・測量展開幕",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjU2EwbGc3MEdRbGJ5Y2tYVmNIaWRQT1dpM08xZHpROEVLQW5tTUpXZDY4dXVja1pmTVRnUmJkck5uajFIZEtCQmdhVWk4cFdObi1kWDN0VmJMREU?oc=5",
-        "publishedAt": "2026-06-17T20:03:18.000Z"
-      },
-      {
-        "time": "10:20",
-        "title": "株式会社MadeHere 「メンテナンス・レジリエンス 2026」へ出展。プラント設備保全で発生する\"廃番部品の迅速製造”を提案",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FMUh6RnNQRldRZ0p3YWZjN3MzbjZMTG1KYWZCNUx4OFNfVWd1T1lQWmdPcnU0bVNickxnZWtsMHZKWmdhNEotaXdFSE5TYTI5cnhhSVZSOGE4MnVIYXZDVlU5cmxxQUI2TXc?oc=5",
-        "publishedAt": "2026-06-17T01:20:02.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PZmN6aDJqT0dOZTRkMWZOalR3aGk2WWpVTDlEZUJ1UmJmMVpDOHVUZ3ZhQWN4aFNrOVpVN09yRjI3MnpwRDdESjdxMEtidFRuNDFpMTQ4YXJlWFU?oc=5",
+        "publishedAt": "2026-06-17T21:42:40.000Z"
       },
       {
         "time": "07:00",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-06-17T09:41:35.000Z"
       },
       {
-        "time": "05:00",
-        "title": "週末は別人／東京ガスエンジニアリングソリューションズ社長・上中孝之氏 「日本百名山」完全制覇に挑戦",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUTmg4cTc1a3dGLThCMjRVbVQ5Z2ptOXJWaGU0YnFDakRUMWRRWnEzc1BuVGszU1J3XzU2UlVSZ0F3ZXNaUk8xYl91b0YxTGxQTnZRTnU3cVdvSVk?oc=5",
-        "publishedAt": "2026-06-17T20:00:00.000Z"
-      },
-      {
-        "time": "10:52",
-        "title": "大型部品の鋳造・加工をワンストップで実現 “繋ぐ”加工の新提案（第38回 ものづくり ワールド [東京]（機械要素技術展）） - shibaura-machine.co.jp",
-        "source": "shibaura-machine.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWaG5PN3NxVjNXZzc4eG5uSnhZanE1dWRoLWFxQUJveXM1a2hBc1J0OGhrdEZBQjBEdzFRMFNIWGc5ZU9HcFdFb3pnRnc3U0RjRDBHSnhJSEhVWmdtdUI3dmt1ZnRJMmlsQXVpSjdSQjlsQQ?oc=5",
-        "publishedAt": "2026-06-17T01:52:54.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "【地域経済分析】企業数約23.7万社。半導体サプライチェーンを支える精密機械の巨大クラスター「台湾・台中」の最新ビジネ",
+        "time": "10:15",
+        "title": "【台湾情報】台湾機械設備、AI・先進封止需要でハイテク設備が46％増──従来型と二極化＜ワイズ機械業界ジャーナル202",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWNUxWNXhtYnRkWWh4djA2UEZkUGRibzlWc29SV3hZbldhdnQxMUNrS1o2a2VOWW9tdXpaaHR2T2xEZDdhaS1LbGhCZmtvLXplNXZGTThpSjRGTy1HX3NRdVpjeWNKQnYw?oc=5",
-        "publishedAt": "2026-06-17T06:00:12.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2TG41aWN6SENNYkpjT2lNMXRIdG5uUkwtU1lFOWltOW5WVC1aVlRfeF95Y2VmTFIzR1JVOVgwYmJhTDc2Z1F2aklpNU5RZ0FyT1puZVdYcERDMFh5bklIYXBqN2tXZUxfakZJUWJ5ZmQ1dTJPb1RuV2loSQ?oc=5",
+        "publishedAt": "2026-06-18T01:15:33.000Z"
+      },
+      {
+        "time": "07:38",
+        "title": "さあ出番／電通データアーティストモンゴル社長に就任した鈴木初実氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aWWJXdXJ6VlgtUUhjb0c5eE82RURsekhzTUxDTGRxWVd3VjgxRVBYZ2NseHRSR2JFcWc1Vm5vXy1OR2VlNWdCT1JWUzNGdURfbDdXZXYzZ0NPM2V0UnJvYkhVdm9NU2JjZHpkZFJPbWh5dGYtcVR0eUkzRQ?oc=5",
+        "publishedAt": "2026-06-17T22:38:26.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:39",
+        "title": "日経平均 一時初の7万1000円台",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584675?source=rss",
+        "publishedAt": "2026-06-18T00:39:15.000Z"
+      },
+      {
         "time": "08:19",
         "title": "日銀利上げ 利払い増に中小は苦悩",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584651?source=rss",
         "publishedAt": "2026-06-17T14:56:19.000Z"
-      },
-      {
-        "time": "21:26",
-        "title": "ボンネットに男性 タクシー側謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584636?source=rss",
-        "publishedAt": "2026-06-17T12:26:16.000Z"
       },
       {
         "time": "10:31",
@@ -170,6 +170,13 @@
         "publishedAt": "2026-06-17T22:19:18.000Z"
       },
       {
+        "time": "10:18",
+        "title": "女性死亡 女を逮捕「友人刺した」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584677?source=rss",
+        "publishedAt": "2026-06-18T01:18:24.000Z"
+      },
+      {
         "time": "21:43",
         "title": "プール小4死亡 元校長に有罪判決",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584667?source=rss",
         "publishedAt": "2026-06-17T23:01:12.000Z"
-      },
-      {
-        "time": "16:58",
-        "title": "自白迫られ摂食障害 娘死亡で提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584601?source=rss",
-        "publishedAt": "2026-06-17T07:58:58.000Z"
       }
     ],
     "subsidyHeadlines": [
