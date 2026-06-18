@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-18T03:20:03.045Z",
+  "updatedAt": "2026-06-18T05:08:59.629Z",
   "items": [
     {
-      "time": "11:17",
-      "title": "米大統領 交渉期限は絶対ではない",
+      "time": "12:05",
+      "title": "昨年の山岳遭難者 最多3623人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584682?source=rss",
-      "publishedAt": "2026-06-18T02:17:04.000Z",
-      "xQuery": "米大統領 交渉期限は絶対ではない"
+      "url": "https://news.yahoo.co.jp/pickup/6584688?source=rss",
+      "publishedAt": "2026-06-18T03:05:01.000Z",
+      "xQuery": "昨年の山岳遭難者 最多3623人"
     },
     {
-      "time": "10:30",
-      "title": "中高生の英語力 過去最高も地域差",
+      "time": "12:34",
+      "title": "娘重い障害 妊婦死亡事故18日判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584679?source=rss",
-      "publishedAt": "2026-06-18T01:30:29.000Z",
-      "xQuery": "中高生の英語力 過去最高も地域差"
+      "url": "https://news.yahoo.co.jp/pickup/6584692?source=rss",
+      "publishedAt": "2026-06-18T03:34:00.000Z",
+      "xQuery": "娘重い障害 妊婦死亡事故18日判決"
     },
     {
       "time": "10:18",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "女性死亡 女を逮捕「友人刺した」"
     },
     {
-      "time": "11:22",
-      "title": "大会弁当で体調不良者が続出 調査",
+      "time": "12:32",
+      "title": "バレー元代表・佐藤被告 深く反省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584684?source=rss",
-      "publishedAt": "2026-06-18T02:22:07.000Z",
-      "xQuery": "大会弁当で体調不良者が続出 調査"
+      "url": "https://news.yahoo.co.jp/pickup/6584693?source=rss",
+      "publishedAt": "2026-06-18T03:32:51.000Z",
+      "xQuery": "バレー元代表・佐藤被告 深く反省"
     },
     {
-      "time": "09:04",
-      "title": "車の赤信号に三方向の矢印 なぜ",
+      "time": "12:14",
+      "title": "今夜貴重な天体ショー 各地の天気",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584671?source=rss",
-      "publishedAt": "2026-06-18T00:04:46.000Z",
-      "xQuery": "車の赤信号に三方向の矢印 なぜ"
+      "url": "https://news.yahoo.co.jp/pickup/6584690?source=rss",
+      "publishedAt": "2026-06-18T03:14:33.000Z",
+      "xQuery": "今夜貴重な天体ショー 各地の天気"
     }
   ]
 };
