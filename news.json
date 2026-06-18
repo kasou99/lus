@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-06-18T15:49:36.244Z",
+  "updatedAt": "2026-06-18T17:12:32.478Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "22:05",
-        "title": "社員38人で売上80億円はなぜ可能なのか？ AIが加工工程を自動化する工作機械が職人不足と100兆円市場に与える影響",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wMlRaWFJCbnNzUTRPU3BQZHRUR1dmVU04dkI1NlJ5NlhTbmhJR3ZKRnAtVW9VdjUxNDZfVnNpdzBuTkNwUlhUZEctNkR1andLVU9WeHJqUmNJQ2s?oc=5",
-        "publishedAt": "2026-06-18T13:05:42.000Z"
-      },
       {
         "time": "16:11",
         "title": "リタール、6/30WEBセミナー「制御盤の熱対策セミナー 〜失敗しない機器選定とコスト削減のノウハウ〜」",
@@ -31,6 +24,13 @@
         "publishedAt": "2026-06-18T04:00:00.000Z"
       },
       {
+        "time": "08:54",
+        "title": "中国の補助金投入で｢工作機械の常識｣が変わった 日工会･稲葉会長が語った\"ものづくりの未来\" 3ページ目 | ビジネス",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81OGZ1Q0Vvcmo2c0w4dS03OHUyaDRYUnVqdE1CNF9WaE9SOUxUR2txcWFRQjdrR01MLWlRSmN5TUhtYnEyWV92UEpsYlo0UjFUVkJWRTUydkFSa2c?oc=5",
+        "publishedAt": "2026-06-17T23:54:08.000Z"
+      },
+      {
         "time": "19:10",
         "title": "SPACECOOL、飲料工場屋根の暑熱対策に採用",
         "source": "LOGISTICS TODAY",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-18T05:16:00.000Z"
       },
       {
-        "time": "09:27",
-        "title": "デジタル赤字 問われる“稼ぐ力”（中）情報処理推進機構情報分析官・津田通隆氏",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vLTJ2QkRtLVNhSjU1ZDZlZWZwQWZWak9FZlh3TlU1ZmxrcDNmYXN3M0dFbGtjdjJwMkhvOGNHT2M0a2pJWGF1WHY4NlhuMURickRySGVJcjRWNVk?oc=5",
-        "publishedAt": "2026-06-18T00:27:45.000Z"
-      },
-      {
         "time": "12:21",
         "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LT0xFMkhVRUVVaUh3d0pyZkl1aE4tM3IxcFFLVFlSbUdvX1Y2RU9TZlZRc2lBTFhfRUNYR3Nzd2lDTG5YQ09pVm9BOV84SDhZZ05sWWM2VlBPTDRvQ2pFNWhR?oc=5",
         "publishedAt": "2026-06-18T03:21:46.000Z"
+      },
+      {
+        "time": "09:27",
+        "title": "デジタル赤字 問われる“稼ぐ力”（中）情報処理推進機構情報分析官・津田通隆氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vLTJ2QkRtLVNhSjU1ZDZlZWZwQWZWak9FZlh3TlU1ZmxrcDNmYXN3M0dFbGtjdjJwMkhvOGNHT2M0a2pJWGF1WHY4NlhuMURickRySGVJcjRWNVk?oc=5",
+        "publishedAt": "2026-06-18T00:27:45.000Z"
       }
     ],
     "worldHeadlines": [
