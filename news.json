@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-18T12:35:36.712Z",
+  "updatedAt": "2026-06-18T14:06:33.107Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "22:05",
+        "title": "社員38人で売上80億円はなぜ可能なのか？ AIが加工工程を自動化する工作機械が職人不足と100兆円市場に与える影響",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wMlRaWFJCbnNzUTRPU3BQZHRUR1dmVU04dkI1NlJ5NlhTbmhJR3ZKRnAtVW9VdjUxNDZfVnNpdzBuTkNwUlhUZEctNkR1andLVU9WeHJqUmNJQ2s?oc=5",
+        "publishedAt": "2026-06-18T13:05:42.000Z"
+      },
       {
         "time": "16:11",
         "title": "リタール、6/30WEBセミナー「制御盤の熱対策セミナー 〜失敗しない機器選定とコスト削減のノウハウ〜」",
         "source": "オートメーション新聞",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2d1RZZ2FMOFRCQXNTMHBzUmpqZHBobGtrTkN5end5X1d5RDY1MXQ1dnd3eHI3R2IzdWsxS1dQXzJfelNCRXk5ZXUtYXRpazIyUnNELUxSZmZ0UQ?oc=5",
         "publishedAt": "2026-06-18T07:11:41.000Z"
-      },
-      {
-        "time": "18:57",
-        "title": "社員38人で売上80億円はなぜ可能なのか？ AIが加工工程を自動化する工作機械が職人不足と100兆円市場に与える影響",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zcEF4TURBSndraTBwLXNOVTFaYjlnZWNEV0FybFBrUzlWLXZZNGFyRkRLX3dsX1R2M0cwWWIzUUR2TVlSYjNpZ0NMLWlQMXpnZHpON3FQN2RGSXc?oc=5",
-        "publishedAt": "2026-06-18T09:57:57.000Z"
       },
       {
         "time": "14:16",
@@ -31,18 +31,18 @@
         "publishedAt": "2026-06-18T04:00:00.000Z"
       },
       {
+        "time": "19:10",
+        "title": "SPACECOOL、飲料工場屋根の暑熱対策に採用",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YQ3JjdGNxWktTeUd6ajR2N0pPUnlLRV9DdjhsSnFZRWx4MWlIYUp1ajBBR3JMOGgyNkliQTNQSnljMWViZEczQw?oc=5",
+        "publishedAt": "2026-06-18T10:10:50.000Z"
+      },
+      {
         "time": "14:16",
         "title": "【FISCO銘柄コメント】安川電機---ACサーボモータ等のモーションコントロール、産業用ロボットが…(フィスコ)",
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdFhJVUFINThSXzBSMzFadll4MzZiS0s4aUY1LUNoS1lZX2RaLVc5dWhZS1FIcjgxdUs2Y1VmMGVuUDl6cFJVQ28zLTU0MUpsYUlLWnNpSFhnV3F6UDNxUEszTFF2cXpWNk56WlQzdWJmUkcybTU2dXljZzhacTRLVHNFTTBPMUk?oc=5",
         "publishedAt": "2026-06-18T05:16:00.000Z"
-      },
-      {
-        "time": "11:14",
-        "title": "台中、半導体支える精密機械集積地に",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlLUVZZnhkMEtoVDdFakEyQnl2NWpkZ0ZDUEpULVhXYlR2c3dFRmFpXzR5MkZFZlpLNUN5V2ppQmxCd3ptal9XUw?oc=5",
-        "publishedAt": "2026-06-18T02:14:39.000Z"
       },
       {
         "time": "09:27",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "23:02",
+        "title": "イスラエル「EU外相と関係断絶」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584764?source=rss",
+        "publishedAt": "2026-06-18T14:02:55.000Z"
+      },
       {
         "time": "21:06",
         "title": "北朝鮮 核懸念するG7声明に反発",
@@ -94,22 +101,15 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584664?source=rss",
         "publishedAt": "2026-06-17T22:42:54.000Z"
-      },
-      {
-        "time": "22:28",
-        "title": "トランプ氏 イラン次第で攻撃再開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584642?source=rss",
-        "publishedAt": "2026-06-17T13:28:57.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "15:40",
-        "title": "日経平均終値 初の7万円台",
+        "time": "22:12",
+        "title": "全銀協 AI脅威にATM停止など想定",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584710?source=rss",
-        "publishedAt": "2026-06-18T06:40:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584758?source=rss",
+        "publishedAt": "2026-06-18T13:12:28.000Z"
       },
       {
         "time": "16:13",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "22:25",
+        "title": "閉山中の救助有料化 県本格協議へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584762?source=rss",
+        "publishedAt": "2026-06-18T13:25:13.000Z"
+      },
+      {
         "time": "18:13",
         "title": "女性刺され死亡 別の部屋に子ども",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584734?source=rss",
         "publishedAt": "2026-06-18T09:13:11.000Z"
-      },
-      {
-        "time": "16:39",
-        "title": "ひき逃げ「無罪」続いた誹謗中傷",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584715?source=rss",
-        "publishedAt": "2026-06-18T07:39:25.000Z"
       },
       {
         "time": "20:11",

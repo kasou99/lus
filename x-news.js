@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-18T12:35:37.588Z",
+  "updatedAt": "2026-06-18T14:06:34.058Z",
   "items": [
     {
-      "time": "20:42",
-      "title": "中国 高市首相の懸念表明に反発",
+      "time": "22:15",
+      "title": "内閣支持率低下 与党内に警戒感",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584746?source=rss",
-      "publishedAt": "2026-06-18T11:42:54.000Z",
-      "xQuery": "中国 高市首相の懸念表明に反発"
+      "url": "https://news.yahoo.co.jp/pickup/6584759?source=rss",
+      "publishedAt": "2026-06-18T13:15:15.000Z",
+      "xQuery": "内閣支持率低下 与党内に警戒感"
     },
     {
-      "time": "20:11",
-      "title": "母の虐待に絶望 訴えた息子の決意",
+      "time": "22:43",
+      "title": "連合 立憲議員の自衛隊発言を注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584744?source=rss",
-      "publishedAt": "2026-06-18T11:11:40.000Z",
-      "xQuery": "母の虐待に絶望 訴えた息子の決意"
+      "url": "https://news.yahoo.co.jp/pickup/6584761?source=rss",
+      "publishedAt": "2026-06-18T13:43:24.000Z",
+      "xQuery": "連合 立憲議員の自衛隊発言を注意"
     },
     {
-      "time": "20:57",
-      "title": "マイナ保険証 最新の利用率68%",
+      "time": "17:24",
+      "title": "ウクライナ モスクワに大規模攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584749?source=rss",
-      "publishedAt": "2026-06-18T11:57:14.000Z",
-      "xQuery": "マイナ保険証 最新の利用率68%"
+      "url": "https://news.yahoo.co.jp/pickup/6584724?source=rss",
+      "publishedAt": "2026-06-18T08:24:35.000Z",
+      "xQuery": "ウクライナ モスクワに大規模攻撃"
     },
     {
       "time": "20:54",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "妊娠中の妻はねられ死亡 判決に涙"
     },
     {
-      "time": "21:24",
-      "title": "山林で漆かき クマに襲われケガ",
+      "time": "22:12",
+      "title": "全銀協 AI脅威にATM停止など想定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584751?source=rss",
-      "publishedAt": "2026-06-18T12:24:16.000Z",
-      "xQuery": "山林で漆かき クマに襲われケガ"
+      "url": "https://news.yahoo.co.jp/pickup/6584758?source=rss",
+      "publishedAt": "2026-06-18T13:12:28.000Z",
+      "xQuery": "全銀協 AI脅威にATM停止など想定"
     }
   ]
 };
