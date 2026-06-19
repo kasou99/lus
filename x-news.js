@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-19T00:06:22.830Z",
+  "updatedAt": "2026-06-19T01:40:11.377Z",
   "items": [
     {
-      "time": "08:11",
-      "title": "合意巡り 米がイスラエルをけん制",
+      "time": "09:39",
+      "title": "30℃以上が続出 熱中症に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584784?source=rss",
-      "publishedAt": "2026-06-18T23:11:49.000Z",
-      "xQuery": "合意巡り 米がイスラエルをけん制"
+      "url": "https://news.yahoo.co.jp/pickup/6584797?source=rss",
+      "publishedAt": "2026-06-19T00:39:59.000Z",
+      "xQuery": "30℃以上が続出 熱中症に注意"
     },
     {
-      "time": "08:01",
-      "title": "ChatGPT広告表示 日本で開始へ",
+      "time": "08:35",
+      "title": "G7閉幕 首相「アジア代表」強調",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584783?source=rss",
-      "publishedAt": "2026-06-18T23:01:08.000Z",
-      "xQuery": "ChatGPT広告表示 日本で開始へ"
+      "url": "https://news.yahoo.co.jp/pickup/6584786?source=rss",
+      "publishedAt": "2026-06-18T23:35:30.000Z",
+      "xQuery": "G7閉幕 首相「アジア代表」強調"
     },
     {
-      "time": "07:24",
-      "title": "女児にぶつかり傷害疑い 男を逮捕",
+      "time": "10:08",
+      "title": "利上げ周回遅れ 円安是正効果なく",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584776?source=rss",
-      "publishedAt": "2026-06-18T22:24:03.000Z",
-      "xQuery": "女児にぶつかり傷害疑い 男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6584800?source=rss",
+      "publishedAt": "2026-06-19T01:08:12.000Z",
+      "xQuery": "利上げ周回遅れ 円安是正効果なく"
+    },
+    {
+      "time": "10:03",
+      "title": "乗用車運搬の貨物船 海岸で座礁",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584801?source=rss",
+      "publishedAt": "2026-06-19T01:03:34.000Z",
+      "xQuery": "乗用車運搬の貨物船 海岸で座礁"
     },
     {
       "time": "08:52",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584790?source=rss",
       "publishedAt": "2026-06-18T23:52:19.000Z",
       "xQuery": "「マック一強」終わり? 市場異変"
-    },
-    {
-      "time": "07:27",
-      "title": "「学研の学習」復刊へ 予約殺到",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584777?source=rss",
-      "publishedAt": "2026-06-18T22:27:43.000Z",
-      "xQuery": "「学研の学習」復刊へ 予約殺到"
     }
   ]
 };
