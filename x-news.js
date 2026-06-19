@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-19T14:09:47.409Z",
+  "updatedAt": "2026-06-19T15:42:16.107Z",
   "items": [
     {
       "time": "22:33",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イスラエルとヒズボラ 停戦で合意"
     },
     {
-      "time": "21:29",
-      "title": "外国人ビザ手数料 7月以降値上げ",
+      "time": "22:27",
+      "title": "「副首都法案」自民が修正を検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584879?source=rss",
-      "publishedAt": "2026-06-19T12:29:59.000Z",
-      "xQuery": "外国人ビザ手数料 7月以降値上げ"
+      "url": "https://news.yahoo.co.jp/pickup/6584890?source=rss",
+      "publishedAt": "2026-06-19T13:27:50.000Z",
+      "xQuery": "「副首都法案」自民が修正を検討"
+    },
+    {
+      "time": "23:33",
+      "title": "新幹線見合わせ受け 休憩列車実施",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584895?source=rss",
+      "publishedAt": "2026-06-19T14:33:14.000Z",
+      "xQuery": "新幹線見合わせ受け 休憩列車実施"
     },
     {
       "time": "20:02",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584876?source=rss",
       "publishedAt": "2026-06-19T11:02:34.000Z",
       "xQuery": "都内小学校火事 校長ら会見で謝罪"
-    },
-    {
-      "time": "22:48",
-      "title": "原子力機構の施設で火災 6月3件目",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584892?source=rss",
-      "publishedAt": "2026-06-19T13:48:43.000Z",
-      "xQuery": "原子力機構の施設で火災 6月3件目"
     },
     {
       "time": "20:51",
