@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T20:38:08.535Z",
+  "updatedAt": "2026-06-19T21:31:56.152Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44cU1UckVTczV3T3N5VTJyUU41cGlpTktWWDc4RFNGMW91TkR1aWwyeWRJNjF3TDR3RWZ2czd4MVJJVlhrZkVBc01kVmJQU0xaT2NDaHJEbjNSY0FvdThTQ3Q5M3gwdDlfU0ZB?oc=5",
         "publishedAt": "2026-06-19T10:10:00.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "DMG森精機の欧州市場「深耕」青写真、フロンテン工場のモノづくり深化：スマート工場最前線（2/2 ページ）",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Yc3JTWHppZ0QwMmxZajlRcFhPWlFuaU5oV3hlSFBHRVROb2NEZ0YtX05Gbmw3WGwtang5cU1XR00yb25nV3ZHanVFcXJ4NDBlY1Q2QmdqQWhwX3JZOUJsNGtvYjZ4N0hDZWJCNkFMQUhFQQ?oc=5",
-        "publishedAt": "2026-06-18T21:00:00.000Z"
       },
       {
         "time": "07:00",
@@ -57,6 +50,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04d2NzanBpcHZfZXlKcHZ6YU8wQmI0Q014d1Jqa0xuUWtwaXdyMXhOcGtEaElyYk5YLVVfN2s3b0hzRmRMdkRPYW5SQklkVWtuZ3F6TnZiUnlWNFlJOEI5YXBCSmNjbEZvdE12aHUxa2dFekQ4R0NoNmFIcw?oc=5",
         "publishedAt": "2026-06-18T23:36:17.000Z"
+      },
+      {
+        "time": "16:49",
+        "title": "当局は多くの解決策と取り組みを持っている。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzamM5aHlGekpwaUxxZ0kzaVhDTVpCX1Nia3JRZWp4UXZzVm1HUTRxUGQ0UkxJakw2cDJETDd5SnB0d3dlWllFSnRmM181bkVUMnctOHE5NXFBSHFlNW9BbndwSU9FNEdZZG80M213?oc=5",
+        "publishedAt": "2026-06-19T07:49:47.000Z"
       }
     ],
     "worldHeadlines": [
