@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-19T05:17:18.133Z",
+  "updatedAt": "2026-06-19T07:18:34.577Z",
   "items": [
     {
-      "time": "12:13",
-      "title": "米類3年半ぶり下落 5月消費者物価",
+      "time": "15:50",
+      "title": "米イラン19日協議開催せず スイス",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584814?source=rss",
-      "publishedAt": "2026-06-19T03:13:25.000Z",
-      "xQuery": "米類3年半ぶり下落 5月消費者物価"
+      "url": "https://news.yahoo.co.jp/pickup/6584840?source=rss",
+      "publishedAt": "2026-06-19T06:50:47.000Z",
+      "xQuery": "米イラン19日協議開催せず スイス"
     },
     {
-      "time": "13:16",
-      "title": "心停止ドナーから心臓移植 検討",
+      "time": "15:22",
+      "title": "国民投票法改正案が衆院を通過",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584826?source=rss",
-      "publishedAt": "2026-06-19T04:16:11.000Z",
-      "xQuery": "心停止ドナーから心臓移植 検討"
+      "url": "https://news.yahoo.co.jp/pickup/6584838?source=rss",
+      "publishedAt": "2026-06-19T06:22:17.000Z",
+      "xQuery": "国民投票法改正案が衆院を通過"
     },
     {
-      "time": "14:14",
-      "title": "小学校火災 ストーブから発火か",
+      "time": "16:00",
+      "title": "娘無事か 小学校火災に記者急行",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584830?source=rss",
-      "publishedAt": "2026-06-19T05:14:18.000Z",
-      "xQuery": "小学校火災 ストーブから発火か"
+      "url": "https://news.yahoo.co.jp/pickup/6584842?source=rss",
+      "publishedAt": "2026-06-19T07:00:29.000Z",
+      "xQuery": "娘無事か 小学校火災に記者急行"
     },
     {
-      "time": "13:07",
-      "title": "日本へ団体旅行 中国で再開の動き",
+      "time": "15:21",
+      "title": "新幹線に刃物持った人物か 大宮駅",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584825?source=rss",
-      "publishedAt": "2026-06-19T04:07:23.000Z",
-      "xQuery": "日本へ団体旅行 中国で再開の動き"
+      "url": "https://news.yahoo.co.jp/pickup/6584839?source=rss",
+      "publishedAt": "2026-06-19T06:21:32.000Z",
+      "xQuery": "新幹線に刃物持った人物か 大宮駅"
     },
     {
-      "time": "13:22",
-      "title": "日清 カップ焼きそば28万個回収",
+      "time": "14:57",
+      "title": "福岡で女性死亡 刺し傷10カ所以上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584828?source=rss",
-      "publishedAt": "2026-06-19T04:22:40.000Z",
-      "xQuery": "日清 カップ焼きそば28万個回収"
+      "url": "https://news.yahoo.co.jp/pickup/6584837?source=rss",
+      "publishedAt": "2026-06-19T05:57:55.000Z",
+      "xQuery": "福岡で女性死亡 刺し傷10カ所以上"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T05:17:17.547Z",
+  "updatedAt": "2026-06-19T07:18:33.602Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,11 @@
         "publishedAt": "2026-06-18T22:04:19.000Z"
       },
       {
-        "time": "16:11",
-        "title": "リタール、6/30WEBセミナー「制御盤の熱対策セミナー 〜失敗しない機器選定とコスト削減のノウハウ〜」",
-        "source": "オートメーション新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2d1RZZ2FMOFRCQXNTMHBzUmpqZHBobGtrTkN5end5X1d5RDY1MXQ1dnd3eHI3R2IzdWsxS1dQXzJfelNCRXk5ZXUtYXRpazIyUnNELUxSZmZ0UQ?oc=5",
-        "publishedAt": "2026-06-18T07:11:41.000Z"
+        "time": "12:30",
+        "title": "放電加工機の世界市場（2026年～2032年）、市場規模（ワイヤ放電加工、沈み込み放電加工、穴あけ放電加工）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5WGJwSTJwMWhtMml3X095UnBhOEEwS1JQUlJ4Ymh2bkYxMk5hclNJSXIwQXhoS244dnRmOEljRlg0Sm95MHJQaENMY3NITEU?oc=5",
+        "publishedAt": "2026-06-19T03:30:00.000Z"
       },
       {
         "time": "03:55",
@@ -45,27 +45,34 @@
         "publishedAt": "2026-06-18T23:36:17.000Z"
       },
       {
+        "time": "05:00",
+        "title": "TDK、小型・高効率の基板型AC-DC電源 FA機器やロボ向け ほか",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01X3F5b2dsR3lwQ2hsMlZMQ01JcXFRQm5LZElIWmRNRzhnVVh4dlJLVGFSWjJDS09JSG5hbXpWbW5fRnh5QzJzZEd3cmRZZTFfam12cEJ4NTRDSUQ4dmQtclVsSUR6UGc?oc=5",
+        "publishedAt": "2026-06-18T20:00:00.000Z"
+      },
+      {
         "time": "05:16",
         "title": "京阪電鉄、交野線にも AI映像点検 作業員の負担減",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Rc2dnZEJjaWdjbzlaaVZoNnFTTTVpb3VDNHVNNzFwS0w0M3BpSUNiRTZ5d0x0NkU2TlpTUy1WWWJQdXFpOUxmZWMyYURQZ21LenhrM2lrWVZWWWZDM0NwR3VHdDdpdHliUzRqOTBONnhNSHhG?oc=5",
         "publishedAt": "2026-06-18T20:16:31.000Z"
-      },
-      {
-        "time": "19:10",
-        "title": "SPACECOOL、飲料工場屋根の暑熱対策に採用",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YQ3JjdGNxWktTeUd6ajR2N0pPUnlLRV9DdjhsSnFZRWx4MWlIYUp1ajBBR3JMOGgyNkliQTNQSnljMWViZEczQw?oc=5",
-        "publishedAt": "2026-06-18T10:10:50.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "10:50",
-        "title": "モスクワは燃える ウ大統領が警告",
+        "time": "15:50",
+        "title": "米イラン19日協議開催せず スイス",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584806?source=rss",
-        "publishedAt": "2026-06-19T01:50:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584840?source=rss",
+        "publishedAt": "2026-06-19T06:50:47.000Z"
+      },
+      {
+        "time": "14:27",
+        "title": "米イラン共に「勝利」主張 実際は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584832?source=rss",
+        "publishedAt": "2026-06-19T05:27:04.000Z"
       },
       {
         "time": "10:39",
@@ -82,11 +89,11 @@
         "publishedAt": "2026-06-18T23:11:49.000Z"
       },
       {
-        "time": "06:49",
-        "title": "米 イラン港湾への海上封鎖を解除",
+        "time": "10:50",
+        "title": "モスクワは燃える ウ大統領が警告",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584773?source=rss",
-        "publishedAt": "2026-06-18T21:49:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584806?source=rss",
+        "publishedAt": "2026-06-19T01:50:36.000Z"
       },
       {
         "time": "23:02",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584764?source=rss",
         "publishedAt": "2026-06-18T14:02:55.000Z"
-      },
-      {
-        "time": "21:06",
-        "title": "北朝鮮 核懸念するG7声明に反発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584750?source=rss",
-        "publishedAt": "2026-06-18T12:06:01.000Z"
       }
     ],
     "economyHeadlines": [
@@ -170,25 +170,25 @@
         "publishedAt": "2026-06-19T04:13:15.000Z"
       },
       {
-        "time": "11:19",
-        "title": "日野町事件 再審公判で無罪確実に",
+        "time": "16:00",
+        "title": "娘無事か 小学校火災に記者急行",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584810?source=rss",
-        "publishedAt": "2026-06-19T02:19:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584842?source=rss",
+        "publishedAt": "2026-06-19T07:00:29.000Z"
       },
       {
-        "time": "10:03",
-        "title": "乗用車運搬の貨物船 海岸で座礁",
+        "time": "15:21",
+        "title": "新幹線に刃物持った人物か 大宮駅",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584801?source=rss",
-        "publishedAt": "2026-06-19T01:03:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584839?source=rss",
+        "publishedAt": "2026-06-19T06:21:32.000Z"
       },
       {
-        "time": "09:36",
-        "title": "障害者男性 母親と離され投票断念",
+        "time": "14:57",
+        "title": "福岡で女性死亡 刺し傷10カ所以上",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584796?source=rss",
-        "publishedAt": "2026-06-19T00:36:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584837?source=rss",
+        "publishedAt": "2026-06-19T05:57:55.000Z"
       }
     ],
     "subsidyHeadlines": [
