@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-19T03:22:16.166Z",
+  "updatedAt": "2026-06-19T05:17:18.133Z",
   "items": [
     {
-      "time": "12:10",
-      "title": "都内小学校で火事 児童ら9人搬送",
+      "time": "12:13",
+      "title": "米類3年半ぶり下落 5月消費者物価",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584819?source=rss",
-      "publishedAt": "2026-06-19T03:10:13.000Z",
-      "xQuery": "都内小学校で火事 児童ら9人搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6584814?source=rss",
+      "publishedAt": "2026-06-19T03:13:25.000Z",
+      "xQuery": "米類3年半ぶり下落 5月消費者物価"
     },
     {
-      "time": "11:19",
-      "title": "日野町事件 再審公判で無罪確実に",
+      "time": "13:16",
+      "title": "心停止ドナーから心臓移植 検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584810?source=rss",
-      "publishedAt": "2026-06-19T02:19:19.000Z",
-      "xQuery": "日野町事件 再審公判で無罪確実に"
+      "url": "https://news.yahoo.co.jp/pickup/6584826?source=rss",
+      "publishedAt": "2026-06-19T04:16:11.000Z",
+      "xQuery": "心停止ドナーから心臓移植 検討"
     },
     {
-      "time": "10:39",
-      "title": "イラン最高指導者 米との覚書承認",
+      "time": "14:14",
+      "title": "小学校火災 ストーブから発火か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584805?source=rss",
-      "publishedAt": "2026-06-19T01:39:40.000Z",
-      "xQuery": "イラン最高指導者 米との覚書承認"
+      "url": "https://news.yahoo.co.jp/pickup/6584830?source=rss",
+      "publishedAt": "2026-06-19T05:14:18.000Z",
+      "xQuery": "小学校火災 ストーブから発火か"
     },
     {
-      "time": "10:50",
-      "title": "モスクワは燃える ウ大統領が警告",
+      "time": "13:07",
+      "title": "日本へ団体旅行 中国で再開の動き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584806?source=rss",
-      "publishedAt": "2026-06-19T01:50:36.000Z",
-      "xQuery": "モスクワは燃える ウ大統領が警告"
+      "url": "https://news.yahoo.co.jp/pickup/6584825?source=rss",
+      "publishedAt": "2026-06-19T04:07:23.000Z",
+      "xQuery": "日本へ団体旅行 中国で再開の動き"
     },
     {
-      "time": "10:33",
-      "title": "株価上昇が加速 恩恵は一部と識者",
+      "time": "13:22",
+      "title": "日清 カップ焼きそば28万個回収",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584804?source=rss",
-      "publishedAt": "2026-06-19T01:33:21.000Z",
-      "xQuery": "株価上昇が加速 恩恵は一部と識者"
+      "url": "https://news.yahoo.co.jp/pickup/6584828?source=rss",
+      "publishedAt": "2026-06-19T04:22:40.000Z",
+      "xQuery": "日清 カップ焼きそば28万個回収"
     }
   ]
 };

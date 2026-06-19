@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T03:22:14.715Z",
+  "updatedAt": "2026-06-19T05:17:17.547Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-18T23:36:17.000Z"
       },
       {
-        "time": "14:16",
-        "title": "【FISCO銘柄コメント】安川電機---ACサーボモータ等のモーションコントロール、産業用ロボットが…(フィスコ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdFhJVUFINThSXzBSMzFadll4MzZiS0s4aUY1LUNoS1lZX2RaLVc5dWhZS1FIcjgxdUs2Y1VmMGVuUDl6cFJVQ28zLTU0MUpsYUlLWnNpSFhnV3F6UDNxUEszTFF2cXpWNk56WlQzdWJmUkcybTU2dXljZzhacTRLVHNFTTBPMUk?oc=5",
-        "publishedAt": "2026-06-18T05:16:00.000Z"
+        "time": "05:16",
+        "title": "京阪電鉄、交野線にも AI映像点検 作業員の負担減",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Rc2dnZEJjaWdjbzlaaVZoNnFTTTVpb3VDNHVNNzFwS0w0M3BpSUNiRTZ5d0x0NkU2TlpTUy1WWWJQdXFpOUxmZWMyYURQZ21LenhrM2lrWVZWWWZDM0NwR3VHdDdpdHliUzRqOTBONnhNSHhG?oc=5",
+        "publishedAt": "2026-06-18T20:16:31.000Z"
       },
       {
-        "time": "13:00",
-        "title": "システムクリエイト、小型CNC旋盤「YORNEW CK210B」のデモ機を導入。実機見学・ベンチマークテストへの対応を開始",
-        "source": "ValuePress!",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LMGhmbjF1aEpLNFRNZC0wV0N5LW84eGRma1YwTUhQUDFmNTBtdk1kdkZlZ2M1WE53REtXdlJZeW94V2pGcWFsVDhzY2Jhb2l2b1VSNFFqZzQ3cFk?oc=5",
-        "publishedAt": "2026-06-18T04:00:00.000Z"
+        "time": "19:10",
+        "title": "SPACECOOL、飲料工場屋根の暑熱対策に採用",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YQ3JjdGNxWktTeUd6ajR2N0pPUnlLRV9DdjhsSnFZRWx4MWlIYUp1ajBBR3JMOGgyNkliQTNQSnljMWViZEczQw?oc=5",
+        "publishedAt": "2026-06-18T10:10:50.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-06-18T21:49:33.000Z"
       },
       {
-        "time": "18:20",
-        "title": "米イラン合意 実効性に不確定要素",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584733?source=rss",
-        "publishedAt": "2026-06-18T09:20:41.000Z"
-      },
-      {
         "time": "23:02",
         "title": "イスラエル「EU外相と関係断絶」",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584764?source=rss",
         "publishedAt": "2026-06-18T14:02:55.000Z"
+      },
+      {
+        "time": "21:06",
+        "title": "北朝鮮 核懸念するG7声明に反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584750?source=rss",
+        "publishedAt": "2026-06-18T12:06:01.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,13 +126,6 @@
         "publishedAt": "2026-06-19T01:08:12.000Z"
       },
       {
-        "time": "06:26",
-        "title": "一時1ドル161円台 約2年ぶり水準",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584771?source=rss",
-        "publishedAt": "2026-06-18T21:26:30.000Z"
-      },
-      {
         "time": "10:56",
         "title": "違法開発の動物園 引継ぎ本格化",
         "source": "Yahoo!ニュース",
@@ -140,20 +133,41 @@
         "publishedAt": "2026-06-19T01:56:50.000Z"
       },
       {
-        "time": "12:16",
-        "title": "大人の「ぬい活」広がった背景",
+        "time": "13:22",
+        "title": "日清 カップ焼きそば28万個回収",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584818?source=rss",
-        "publishedAt": "2026-06-19T03:16:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584828?source=rss",
+        "publishedAt": "2026-06-19T04:22:40.000Z"
+      },
+      {
+        "time": "12:27",
+        "title": "ロッテ アイス35品目を値上げへ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584821?source=rss",
+        "publishedAt": "2026-06-19T03:27:19.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "12:10",
-        "title": "都内小学校で火事 児童ら9人搬送",
+        "time": "13:25",
+        "title": "都内小学校で火事 児童ら11人けが",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584819?source=rss",
-        "publishedAt": "2026-06-19T03:10:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584829?source=rss",
+        "publishedAt": "2026-06-19T04:25:08.000Z"
+      },
+      {
+        "time": "14:14",
+        "title": "小学校火災 ストーブから発火か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584830?source=rss",
+        "publishedAt": "2026-06-19T05:14:18.000Z"
+      },
+      {
+        "time": "13:13",
+        "title": "小学校火災 本当に怖かったと児童",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584827?source=rss",
+        "publishedAt": "2026-06-19T04:13:15.000Z"
       },
       {
         "time": "11:19",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-06-19T01:03:34.000Z"
       },
       {
-        "time": "22:25",
-        "title": "閉山中の救助有料化 県本格協議へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584762?source=rss",
-        "publishedAt": "2026-06-18T13:25:13.000Z"
-      },
-      {
         "time": "09:36",
         "title": "障害者男性 母親と離され投票断念",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584796?source=rss",
         "publishedAt": "2026-06-19T00:36:13.000Z"
-      },
-      {
-        "time": "23:11",
-        "title": "男性遺体を半年以上放置 市が謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584766?source=rss",
-        "publishedAt": "2026-06-18T14:11:11.000Z"
       }
     ],
     "subsidyHeadlines": [
