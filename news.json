@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T21:31:56.152Z",
+  "updatedAt": "2026-06-19T22:26:36.868Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-06-19T10:10:00.000Z"
       },
       {
-        "time": "07:00",
-        "title": "工作機械受注が10カ月連続で増加 AI需要で成長局面へ",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90OUR6LTVleENzZDBYQlU1dEdaeEV1U2JqT2VwcFI5RXNHTW0wYmhSaEZ5WmxLNkI5NDFVTDJ6MnJKUDBTVDB4RVFzeHk1T0J0Qm5rVTh1OGJRLW8zVmlJQzJJWGw3QmlfS0h5d2lqbk5vSFJmYXdXUHRWZ2dMNU3SAX9BVV95cUxPdDlEei01ZXhDc2QwWEJVNXRHWnhFdVNiak9lcHBSOUVzR01tMGJoUmhGeVpsSzZCOTQxVUwyejJySlAwU1QweEVRc3h5NU9CdEJua1U4dThiUS1vM1ZpSUMySVhsN0JpX0tIeXdpam5Ob0hSZmF3V1B0VmdnTDVN?oc=5",
-        "publishedAt": "2026-06-18T22:00:00.000Z"
-      },
-      {
         "time": "20:12",
         "title": "日本経済新聞 印刷画面",
         "source": "日本経済新聞",
@@ -31,18 +24,18 @@
         "publishedAt": "2026-06-19T11:12:00.000Z"
       },
       {
+        "time": "18:00",
+        "title": "モーションコントロールの日本市場（～2031年）、市場規模（ハードウェア、アクチュエータおよび機械システム、ドライブ）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMazNFT09SWUU3MEs2VG9QanAwNGpLbFZSRS1uRmxXeFZuZzRETTg0d2VPd3RLZWpOQkx4eUZPT1ducnlQcXpIbWJYZzBwbVk?oc=5",
+        "publishedAt": "2026-06-19T09:00:00.000Z"
+      },
+      {
         "time": "12:30",
         "title": "放電加工機の世界市場（2026年～2032年）、市場規模（ワイヤ放電加工、沈み込み放電加工、穴あけ放電加工）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5WGJwSTJwMWhtMml3X095UnBhOEEwS1JQUlJ4Ymh2bkYxMk5hclNJSXIwQXhoS244dnRmOEljRlg0Sm95MHJQaENMY3NITEU?oc=5",
         "publishedAt": "2026-06-19T03:30:00.000Z"
-      },
-      {
-        "time": "07:04",
-        "title": "工作機械受注が10カ月連続で増加 AI需要で成長局面へ | チバテレ＋プラス",
-        "source": "千葉テレビ放送株式会社",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4R2tYcmVHV1dZUXVRR3J1cTdaeUFWSzdkVkt2UGpldlZHVnAyemhELWJ2NUFQWVBsM1dEUnVvUlEwQXRrRWlKeWc3eFNkbXdXNHlueWhDWGVhWWN2LVp5dU1HTUHSAWRBVV95cUxQOEdrWHJlR1dXWVF1UUdydXE3WnlBVks3ZFZLdlBqZXZWR1ZwMnpoRC1idjVBUFlQbDNXRFJ1b1JRMEF0a0VpSnlnN3hTZG13VzR5bnloQ1hlYVljdi1aeXVNR01B?oc=5",
-        "publishedAt": "2026-06-18T22:04:19.000Z"
       },
       {
         "time": "08:36",
@@ -57,6 +50,13 @@
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzamM5aHlGekpwaUxxZ0kzaVhDTVpCX1Nia3JRZWp4UXZzVm1HUTRxUGQ0UkxJakw2cDJETDd5SnB0d3dlWllFSnRmM181bkVUMnctOHE5NXFBSHFlNW9BbndwSU9FNEdZZG80M213?oc=5",
         "publishedAt": "2026-06-19T07:49:47.000Z"
+      },
+      {
+        "time": "20:12",
+        "title": "ソディック、29年12月期売上高1000億円 AI需要取り込み",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2h0YTFzdVY2MXpRRnBFblNPdjVTTUkwXzVyVjZHTGJGRmFOOEpHYU1hdkJjZDlQUmg2UmtHWHQzcl9WUGI5dXk5V0g5QmlfMGt4VDliZnJEbGxEOW5VSkRTU2dmRTFMM0NEcEp0T3hVS3hrbnJJZWpvQ0pNajBnbEtySWRkaUFjeTV0U3JkQU81YVNBWGQ3WFdseTZSS3V1R2dRb1dIRzM?oc=5",
+        "publishedAt": "2026-06-19T11:12:00.000Z"
       }
     ],
     "worldHeadlines": [
