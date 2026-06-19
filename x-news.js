@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-19T09:13:36.322Z",
+  "updatedAt": "2026-06-19T11:04:22.702Z",
   "items": [
     {
-      "time": "17:36",
-      "title": "イスラエル レバノン攻撃18人死亡",
+      "time": "19:02",
+      "title": "20-21日 西-東日本で警報級大雨か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584857?source=rss",
-      "publishedAt": "2026-06-19T08:36:50.000Z",
-      "xQuery": "イスラエル レバノン攻撃18人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6584871?source=rss",
+      "publishedAt": "2026-06-19T10:02:44.000Z",
+      "xQuery": "20-21日 西-東日本で警報級大雨か"
     },
     {
-      "time": "17:23",
-      "title": "遊覧船事故 桂田被告の保釈認める",
+      "time": "18:58",
+      "title": "ウクライナ侵攻 露の人的優位陰り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584852?source=rss",
-      "publishedAt": "2026-06-19T08:23:39.000Z",
-      "xQuery": "遊覧船事故 桂田被告の保釈認める"
+      "url": "https://news.yahoo.co.jp/pickup/6584868?source=rss",
+      "publishedAt": "2026-06-19T09:58:45.000Z",
+      "xQuery": "ウクライナ侵攻 露の人的優位陰り"
     },
     {
-      "time": "16:18",
-      "title": "日本郵便に年650億円規模交付へ",
+      "time": "19:27",
+      "title": "東海道新幹線 全線で運転見合わせ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584843?source=rss",
-      "publishedAt": "2026-06-19T07:18:00.000Z",
-      "xQuery": "日本郵便に年650億円規模交付へ"
+      "url": "https://news.yahoo.co.jp/pickup/6584874?source=rss",
+      "publishedAt": "2026-06-19T10:27:10.000Z",
+      "xQuery": "東海道新幹線 全線で運転見合わせ"
     },
     {
-      "time": "16:00",
-      "title": "娘無事か 小学校火災に記者急行",
+      "time": "19:29",
+      "title": "ランドセルにくぎ いじめ重大事態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584842?source=rss",
-      "publishedAt": "2026-06-19T07:00:29.000Z",
-      "xQuery": "娘無事か 小学校火災に記者急行"
+      "url": "https://news.yahoo.co.jp/pickup/6584872?source=rss",
+      "publishedAt": "2026-06-19T10:29:48.000Z",
+      "xQuery": "ランドセルにくぎ いじめ重大事態"
     },
     {
-      "time": "18:01",
-      "title": "新幹線内で包丁 正当な所持と判断",
+      "time": "13:22",
+      "title": "日清 カップ焼きそば28万個回収",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584861?source=rss",
-      "publishedAt": "2026-06-19T09:01:30.000Z",
-      "xQuery": "新幹線内で包丁 正当な所持と判断"
+      "url": "https://news.yahoo.co.jp/pickup/6584828?source=rss",
+      "publishedAt": "2026-06-19T04:22:40.000Z",
+      "xQuery": "日清 カップ焼きそば28万個回収"
     }
   ]
 };
