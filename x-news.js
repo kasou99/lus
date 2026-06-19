@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-19T07:18:34.577Z",
+  "updatedAt": "2026-06-19T09:13:36.322Z",
   "items": [
     {
-      "time": "15:50",
-      "title": "米イラン19日協議開催せず スイス",
+      "time": "17:36",
+      "title": "イスラエル レバノン攻撃18人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584840?source=rss",
-      "publishedAt": "2026-06-19T06:50:47.000Z",
-      "xQuery": "米イラン19日協議開催せず スイス"
+      "url": "https://news.yahoo.co.jp/pickup/6584857?source=rss",
+      "publishedAt": "2026-06-19T08:36:50.000Z",
+      "xQuery": "イスラエル レバノン攻撃18人死亡"
     },
     {
-      "time": "15:22",
-      "title": "国民投票法改正案が衆院を通過",
+      "time": "17:23",
+      "title": "遊覧船事故 桂田被告の保釈認める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584838?source=rss",
-      "publishedAt": "2026-06-19T06:22:17.000Z",
-      "xQuery": "国民投票法改正案が衆院を通過"
+      "url": "https://news.yahoo.co.jp/pickup/6584852?source=rss",
+      "publishedAt": "2026-06-19T08:23:39.000Z",
+      "xQuery": "遊覧船事故 桂田被告の保釈認める"
+    },
+    {
+      "time": "16:18",
+      "title": "日本郵便に年650億円規模交付へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584843?source=rss",
+      "publishedAt": "2026-06-19T07:18:00.000Z",
+      "xQuery": "日本郵便に年650億円規模交付へ"
     },
     {
       "time": "16:00",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "娘無事か 小学校火災に記者急行"
     },
     {
-      "time": "15:21",
-      "title": "新幹線に刃物持った人物か 大宮駅",
+      "time": "18:01",
+      "title": "新幹線内で包丁 正当な所持と判断",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584839?source=rss",
-      "publishedAt": "2026-06-19T06:21:32.000Z",
-      "xQuery": "新幹線に刃物持った人物か 大宮駅"
-    },
-    {
-      "time": "14:57",
-      "title": "福岡で女性死亡 刺し傷10カ所以上",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584837?source=rss",
-      "publishedAt": "2026-06-19T05:57:55.000Z",
-      "xQuery": "福岡で女性死亡 刺し傷10カ所以上"
+      "url": "https://news.yahoo.co.jp/pickup/6584861?source=rss",
+      "publishedAt": "2026-06-19T09:01:30.000Z",
+      "xQuery": "新幹線内で包丁 正当な所持と判断"
     }
   ]
 };
