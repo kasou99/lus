@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-19T22:52:08.687Z",
+  "updatedAt": "2026-06-19T23:29:52.840Z",
   "items": [
     {
       "time": "07:33",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風7号が発生 今後の動向に注意"
     },
     {
-      "time": "22:33",
-      "title": "イスラエルとヒズボラ 停戦で合意",
+      "time": "08:19",
+      "title": "戦略17分野 370兆円超の投資試算",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584891?source=rss",
-      "publishedAt": "2026-06-19T13:33:32.000Z",
-      "xQuery": "イスラエルとヒズボラ 停戦で合意"
+      "url": "https://news.yahoo.co.jp/pickup/6584905?source=rss",
+      "publishedAt": "2026-06-19T23:19:19.000Z",
+      "xQuery": "戦略17分野 370兆円超の投資試算"
+    },
+    {
+      "time": "08:00",
+      "title": "コンゴ避難民30人死亡 エボラ熱か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584901?source=rss",
+      "publishedAt": "2026-06-19T23:00:18.000Z",
+      "xQuery": "コンゴ避難民30人死亡 エボラ熱か"
     },
     {
       "time": "07:37",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "列車事故で1人死亡33人重傷 英"
     },
     {
-      "time": "23:33",
-      "title": "新幹線見合わせ受け 休憩列車実施",
+      "time": "08:00",
+      "title": "高校部活で水たばこ 無期限謹慎",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584895?source=rss",
-      "publishedAt": "2026-06-19T14:33:14.000Z",
-      "xQuery": "新幹線見合わせ受け 休憩列車実施"
-    },
-    {
-      "time": "20:51",
-      "title": "ホテルで高校生ら110人 食中毒",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584880?source=rss",
-      "publishedAt": "2026-06-19T11:51:56.000Z",
-      "xQuery": "ホテルで高校生ら110人 食中毒"
+      "url": "https://news.yahoo.co.jp/pickup/6584902?source=rss",
+      "publishedAt": "2026-06-19T23:00:40.000Z",
+      "xQuery": "高校部活で水たばこ 無期限謹慎"
     }
   ]
 };
