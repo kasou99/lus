@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T11:04:21.772Z",
+  "updatedAt": "2026-06-19T12:48:51.336Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-06-18T23:36:17.000Z"
       },
       {
-        "time": "18:00",
-        "title": "モーションコントロールの日本市場（～2031年）、市場規模（ハードウェア、アクチュエータおよび機械システム、ドライブ）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMazNFT09SWUU3MEs2VG9QanAwNGpLbFZSRS1uRmxXeFZuZzRETTg0d2VPd3RLZWpOQkx4eUZPT1ducnlQcXpIbWJYZzBwbVk?oc=5",
-        "publishedAt": "2026-06-19T09:00:00.000Z"
+        "time": "16:49",
+        "title": "当局は多くの解決策と取り組みを持っている。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzamM5aHlGekpwaUxxZ0kzaVhDTVpCX1Nia3JRZWp4UXZzVm1HUTRxUGQ0UkxJakw2cDJETDd5SnB0d3dlWllFSnRmM181bkVUMnctOHE5NXFBSHFlNW9BbndwSU9FNEdZZG80M213?oc=5",
+        "publishedAt": "2026-06-19T07:49:47.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,18 +68,18 @@
         "publishedAt": "2026-06-19T06:50:47.000Z"
       },
       {
+        "time": "21:41",
+        "title": "米イラン合意に暗雲 強硬派の動き",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584884?source=rss",
+        "publishedAt": "2026-06-19T12:41:41.000Z"
+      },
+      {
         "time": "17:36",
         "title": "イスラエル レバノン攻撃18人死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584857?source=rss",
         "publishedAt": "2026-06-19T08:36:50.000Z"
-      },
-      {
-        "time": "10:39",
-        "title": "イラン最高指導者 米との覚書承認",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584805?source=rss",
-        "publishedAt": "2026-06-19T01:39:40.000Z"
       },
       {
         "time": "08:11",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "19:27",
-        "title": "東海道新幹線 全線で運転見合わせ",
+        "time": "20:59",
+        "title": "東海道新幹線 全線で運転再開",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584874?source=rss",
-        "publishedAt": "2026-06-19T10:27:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584881?source=rss",
+        "publishedAt": "2026-06-19T11:59:25.000Z"
       },
       {
         "time": "10:33",
@@ -156,13 +156,6 @@
         "publishedAt": "2026-06-19T11:02:34.000Z"
       },
       {
-        "time": "14:14",
-        "title": "小学校火災 ストーブから発火か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584830?source=rss",
-        "publishedAt": "2026-06-19T05:14:18.000Z"
-      },
-      {
         "time": "16:00",
         "title": "娘無事か 小学校火災に記者急行",
         "source": "Yahoo!ニュース",
@@ -170,11 +163,18 @@
         "publishedAt": "2026-06-19T07:00:29.000Z"
       },
       {
-        "time": "11:19",
-        "title": "日野町事件 再審公判で無罪確実に",
+        "time": "20:46",
+        "title": "納税者情報漏えい 国税職員を処分",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584810?source=rss",
-        "publishedAt": "2026-06-19T02:19:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584878?source=rss",
+        "publishedAt": "2026-06-19T11:46:10.000Z"
+      },
+      {
+        "time": "20:51",
+        "title": "ホテルで高校生ら110人 食中毒",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584880?source=rss",
+        "publishedAt": "2026-06-19T11:51:56.000Z"
       },
       {
         "time": "19:29",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-19T11:04:22.702Z",
+  "updatedAt": "2026-06-19T12:48:52.437Z",
   "items": [
     {
       "time": "19:02",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "20-21日 西-東日本で警報級大雨か"
     },
     {
-      "time": "18:58",
-      "title": "ウクライナ侵攻 露の人的優位陰り",
+      "time": "21:41",
+      "title": "米イラン合意に暗雲 強硬派の動き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584868?source=rss",
-      "publishedAt": "2026-06-19T09:58:45.000Z",
-      "xQuery": "ウクライナ侵攻 露の人的優位陰り"
+      "url": "https://news.yahoo.co.jp/pickup/6584884?source=rss",
+      "publishedAt": "2026-06-19T12:41:41.000Z",
+      "xQuery": "米イラン合意に暗雲 強硬派の動き"
     },
     {
-      "time": "19:27",
-      "title": "東海道新幹線 全線で運転見合わせ",
+      "time": "20:59",
+      "title": "東海道新幹線 全線で運転再開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584874?source=rss",
-      "publishedAt": "2026-06-19T10:27:10.000Z",
-      "xQuery": "東海道新幹線 全線で運転見合わせ"
+      "url": "https://news.yahoo.co.jp/pickup/6584881?source=rss",
+      "publishedAt": "2026-06-19T11:59:25.000Z",
+      "xQuery": "東海道新幹線 全線で運転再開"
     },
     {
-      "time": "19:29",
-      "title": "ランドセルにくぎ いじめ重大事態",
+      "time": "20:02",
+      "title": "都内小学校火事 校長ら会見で謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584872?source=rss",
-      "publishedAt": "2026-06-19T10:29:48.000Z",
-      "xQuery": "ランドセルにくぎ いじめ重大事態"
+      "url": "https://news.yahoo.co.jp/pickup/6584876?source=rss",
+      "publishedAt": "2026-06-19T11:02:34.000Z",
+      "xQuery": "都内小学校火事 校長ら会見で謝罪"
     },
     {
-      "time": "13:22",
-      "title": "日清 カップ焼きそば28万個回収",
+      "time": "20:51",
+      "title": "ホテルで高校生ら110人 食中毒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584828?source=rss",
-      "publishedAt": "2026-06-19T04:22:40.000Z",
-      "xQuery": "日清 カップ焼きそば28万個回収"
+      "url": "https://news.yahoo.co.jp/pickup/6584880?source=rss",
+      "publishedAt": "2026-06-19T11:51:56.000Z",
+      "xQuery": "ホテルで高校生ら110人 食中毒"
     }
   ]
 };
