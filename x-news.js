@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-19T01:40:11.377Z",
+  "updatedAt": "2026-06-19T03:22:16.166Z",
   "items": [
     {
-      "time": "09:39",
-      "title": "30℃以上が続出 熱中症に注意",
+      "time": "12:10",
+      "title": "都内小学校で火事 児童ら9人搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584797?source=rss",
-      "publishedAt": "2026-06-19T00:39:59.000Z",
-      "xQuery": "30℃以上が続出 熱中症に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6584819?source=rss",
+      "publishedAt": "2026-06-19T03:10:13.000Z",
+      "xQuery": "都内小学校で火事 児童ら9人搬送"
     },
     {
-      "time": "08:35",
-      "title": "G7閉幕 首相「アジア代表」強調",
+      "time": "11:19",
+      "title": "日野町事件 再審公判で無罪確実に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584786?source=rss",
-      "publishedAt": "2026-06-18T23:35:30.000Z",
-      "xQuery": "G7閉幕 首相「アジア代表」強調"
+      "url": "https://news.yahoo.co.jp/pickup/6584810?source=rss",
+      "publishedAt": "2026-06-19T02:19:19.000Z",
+      "xQuery": "日野町事件 再審公判で無罪確実に"
     },
     {
-      "time": "10:08",
-      "title": "利上げ周回遅れ 円安是正効果なく",
+      "time": "10:39",
+      "title": "イラン最高指導者 米との覚書承認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584800?source=rss",
-      "publishedAt": "2026-06-19T01:08:12.000Z",
-      "xQuery": "利上げ周回遅れ 円安是正効果なく"
+      "url": "https://news.yahoo.co.jp/pickup/6584805?source=rss",
+      "publishedAt": "2026-06-19T01:39:40.000Z",
+      "xQuery": "イラン最高指導者 米との覚書承認"
     },
     {
-      "time": "10:03",
-      "title": "乗用車運搬の貨物船 海岸で座礁",
+      "time": "10:50",
+      "title": "モスクワは燃える ウ大統領が警告",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584801?source=rss",
-      "publishedAt": "2026-06-19T01:03:34.000Z",
-      "xQuery": "乗用車運搬の貨物船 海岸で座礁"
+      "url": "https://news.yahoo.co.jp/pickup/6584806?source=rss",
+      "publishedAt": "2026-06-19T01:50:36.000Z",
+      "xQuery": "モスクワは燃える ウ大統領が警告"
     },
     {
-      "time": "08:52",
-      "title": "「マック一強」終わり? 市場異変",
+      "time": "10:33",
+      "title": "株価上昇が加速 恩恵は一部と識者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584790?source=rss",
-      "publishedAt": "2026-06-18T23:52:19.000Z",
-      "xQuery": "「マック一強」終わり? 市場異変"
+      "url": "https://news.yahoo.co.jp/pickup/6584804?source=rss",
+      "publishedAt": "2026-06-19T01:33:21.000Z",
+      "xQuery": "株価上昇が加速 恩恵は一部と識者"
     }
   ]
 };

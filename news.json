@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T01:40:10.206Z",
+  "updatedAt": "2026-06-19T03:22:14.715Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -46,9 +46,9 @@
       },
       {
         "time": "14:16",
-        "title": "【FISCO銘柄コメント】ミクロン精密---工作機械メーカー(フィスコ)",
+        "title": "【FISCO銘柄コメント】安川電機---ACサーボモータ等のモーションコントロール、産業用ロボットが…(フィスコ)",
         "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbUUxVk5zTGp3dzI5QlBPLUtDUHVFZHFnUHkta2tQU0FhaExyZ1BtcHdtYk9Ud1NXekJ3QnZOaWk0Q0REVVNkMkpub0xRNExGaDdNSlVaNmVRRG45Rm9CMEhZY2RuNDBLZUdyQk5RdTktV3Z0a3RPYnRPS0xDbHdDMWdDUEpBYWM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdFhJVUFINThSXzBSMzFadll4MzZiS0s4aUY1LUNoS1lZX2RaLVc5dWhZS1FIcjgxdUs2Y1VmMGVuUDl6cFJVQ28zLTU0MUpsYUlLWnNpSFhnV3F6UDNxUEszTFF2cXpWNk56WlQzdWJmUkcybTU2dXljZzhacTRLVHNFTTBPMUk?oc=5",
         "publishedAt": "2026-06-18T05:16:00.000Z"
       },
       {
@@ -60,6 +60,20 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "10:50",
+        "title": "モスクワは燃える ウ大統領が警告",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584806?source=rss",
+        "publishedAt": "2026-06-19T01:50:36.000Z"
+      },
+      {
+        "time": "10:39",
+        "title": "イラン最高指導者 米との覚書承認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584805?source=rss",
+        "publishedAt": "2026-06-19T01:39:40.000Z"
+      },
       {
         "time": "08:11",
         "title": "合意巡り 米がイスラエルをけん制",
@@ -82,28 +96,21 @@
         "publishedAt": "2026-06-18T09:20:41.000Z"
       },
       {
-        "time": "11:17",
-        "title": "米大統領 交渉期限は絶対ではない",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584682?source=rss",
-        "publishedAt": "2026-06-18T02:17:04.000Z"
-      },
-      {
         "time": "23:02",
         "title": "イスラエル「EU外相と関係断絶」",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584764?source=rss",
         "publishedAt": "2026-06-18T14:02:55.000Z"
-      },
-      {
-        "time": "21:06",
-        "title": "北朝鮮 核懸念するG7声明に反発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584750?source=rss",
-        "publishedAt": "2026-06-18T12:06:01.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "12:13",
+        "title": "米類3年半ぶり下落 5月消費者物価",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584814?source=rss",
+        "publishedAt": "2026-06-19T03:13:25.000Z"
+      },
       {
         "time": "10:33",
         "title": "株価上昇が加速 恩恵は一部と識者",
@@ -126,28 +133,35 @@
         "publishedAt": "2026-06-18T21:26:30.000Z"
       },
       {
-        "time": "22:12",
-        "title": "全銀協 AI脅威にATM停止など想定",
+        "time": "10:56",
+        "title": "違法開発の動物園 引継ぎ本格化",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584758?source=rss",
-        "publishedAt": "2026-06-18T13:12:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584807?source=rss",
+        "publishedAt": "2026-06-19T01:56:50.000Z"
       },
       {
-        "time": "06:35",
-        "title": "オデッセイ国内販売終了へ ホンダ",
+        "time": "12:16",
+        "title": "大人の「ぬい活」広がった背景",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584772?source=rss",
-        "publishedAt": "2026-06-18T21:35:28.000Z"
-      },
-      {
-        "time": "07:27",
-        "title": "「学研の学習」復刊へ 予約殺到",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584777?source=rss",
-        "publishedAt": "2026-06-18T22:27:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584818?source=rss",
+        "publishedAt": "2026-06-19T03:16:43.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "12:10",
+        "title": "都内小学校で火事 児童ら9人搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584819?source=rss",
+        "publishedAt": "2026-06-19T03:10:13.000Z"
+      },
+      {
+        "time": "11:19",
+        "title": "日野町事件 再審公判で無罪確実に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584810?source=rss",
+        "publishedAt": "2026-06-19T02:19:19.000Z"
+      },
       {
         "time": "10:03",
         "title": "乗用車運搬の貨物船 海岸で座礁",
@@ -168,20 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584796?source=rss",
         "publishedAt": "2026-06-19T00:36:13.000Z"
-      },
-      {
-        "time": "18:13",
-        "title": "女性刺され死亡 別の部屋に子ども",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584734?source=rss",
-        "publishedAt": "2026-06-18T09:13:11.000Z"
-      },
-      {
-        "time": "20:54",
-        "title": "妊娠中の妻はねられ死亡 判決に涙",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584748?source=rss",
-        "publishedAt": "2026-06-18T11:54:25.000Z"
       },
       {
         "time": "23:11",
