@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-19T12:48:52.437Z",
+  "updatedAt": "2026-06-19T14:09:47.409Z",
   "items": [
     {
-      "time": "19:02",
-      "title": "20-21日 西-東日本で警報級大雨か",
+      "time": "22:33",
+      "title": "イスラエルとヒズボラ 停戦で合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584871?source=rss",
-      "publishedAt": "2026-06-19T10:02:44.000Z",
-      "xQuery": "20-21日 西-東日本で警報級大雨か"
+      "url": "https://news.yahoo.co.jp/pickup/6584891?source=rss",
+      "publishedAt": "2026-06-19T13:33:32.000Z",
+      "xQuery": "イスラエルとヒズボラ 停戦で合意"
     },
     {
-      "time": "21:41",
-      "title": "米イラン合意に暗雲 強硬派の動き",
+      "time": "21:29",
+      "title": "外国人ビザ手数料 7月以降値上げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584884?source=rss",
-      "publishedAt": "2026-06-19T12:41:41.000Z",
-      "xQuery": "米イラン合意に暗雲 強硬派の動き"
-    },
-    {
-      "time": "20:59",
-      "title": "東海道新幹線 全線で運転再開",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584881?source=rss",
-      "publishedAt": "2026-06-19T11:59:25.000Z",
-      "xQuery": "東海道新幹線 全線で運転再開"
+      "url": "https://news.yahoo.co.jp/pickup/6584879?source=rss",
+      "publishedAt": "2026-06-19T12:29:59.000Z",
+      "xQuery": "外国人ビザ手数料 7月以降値上げ"
     },
     {
       "time": "20:02",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584876?source=rss",
       "publishedAt": "2026-06-19T11:02:34.000Z",
       "xQuery": "都内小学校火事 校長ら会見で謝罪"
+    },
+    {
+      "time": "22:48",
+      "title": "原子力機構の施設で火災 6月3件目",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584892?source=rss",
+      "publishedAt": "2026-06-19T13:48:43.000Z",
+      "xQuery": "原子力機構の施設で火災 6月3件目"
     },
     {
       "time": "20:51",
