@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-18T23:10:33.608Z",
+  "updatedAt": "2026-06-19T00:06:22.830Z",
   "items": [
     {
-      "time": "07:58",
-      "title": "最新AIの対策 外国政府と連携強化",
+      "time": "08:11",
+      "title": "合意巡り 米がイスラエルをけん制",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584781?source=rss",
-      "publishedAt": "2026-06-18T22:58:17.000Z",
-      "xQuery": "最新AIの対策 外国政府と連携強化"
+      "url": "https://news.yahoo.co.jp/pickup/6584784?source=rss",
+      "publishedAt": "2026-06-18T23:11:49.000Z",
+      "xQuery": "合意巡り 米がイスラエルをけん制"
     },
     {
-      "time": "06:49",
-      "title": "米 イラン港湾への海上封鎖を解除",
+      "time": "08:01",
+      "title": "ChatGPT広告表示 日本で開始へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584773?source=rss",
-      "publishedAt": "2026-06-18T21:49:33.000Z",
-      "xQuery": "米 イラン港湾への海上封鎖を解除"
-    },
-    {
-      "time": "06:26",
-      "title": "一時1ドル161円台 約2年ぶり水準",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584771?source=rss",
-      "publishedAt": "2026-06-18T21:26:30.000Z",
-      "xQuery": "一時1ドル161円台 約2年ぶり水準"
+      "url": "https://news.yahoo.co.jp/pickup/6584783?source=rss",
+      "publishedAt": "2026-06-18T23:01:08.000Z",
+      "xQuery": "ChatGPT広告表示 日本で開始へ"
     },
     {
       "time": "07:24",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "女児にぶつかり傷害疑い 男を逮捕"
     },
     {
-      "time": "06:35",
-      "title": "オデッセイ国内販売終了へ ホンダ",
+      "time": "08:52",
+      "title": "「マック一強」終わり? 市場異変",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584772?source=rss",
-      "publishedAt": "2026-06-18T21:35:28.000Z",
-      "xQuery": "オデッセイ国内販売終了へ ホンダ"
+      "url": "https://news.yahoo.co.jp/pickup/6584790?source=rss",
+      "publishedAt": "2026-06-18T23:52:19.000Z",
+      "xQuery": "「マック一強」終わり? 市場異変"
+    },
+    {
+      "time": "07:27",
+      "title": "「学研の学習」復刊へ 予約殺到",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584777?source=rss",
+      "publishedAt": "2026-06-18T22:27:43.000Z",
+      "xQuery": "「学研の学習」復刊へ 予約殺到"
     }
   ]
 };
