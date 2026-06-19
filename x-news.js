@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-19T23:29:52.840Z",
+  "updatedAt": "2026-06-19T23:58:12.696Z",
   "items": [
     {
       "time": "07:33",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584898?source=rss",
       "publishedAt": "2026-06-19T22:33:11.000Z",
       "xQuery": "台風7号が発生 今後の動向に注意"
+    },
+    {
+      "time": "08:40",
+      "title": "米イラン合意も 残る再燃の火種",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584908?source=rss",
+      "publishedAt": "2026-06-19T23:40:54.000Z",
+      "xQuery": "米イラン合意も 残る再燃の火種"
     },
     {
       "time": "08:19",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584901?source=rss",
       "publishedAt": "2026-06-19T23:00:18.000Z",
       "xQuery": "コンゴ避難民30人死亡 エボラ熱か"
-    },
-    {
-      "time": "07:37",
-      "title": "列車事故で1人死亡33人重傷 英",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584899?source=rss",
-      "publishedAt": "2026-06-19T22:37:36.000Z",
-      "xQuery": "列車事故で1人死亡33人重傷 英"
     },
     {
       "time": "08:00",
