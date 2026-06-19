@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-19T22:26:37.741Z",
+  "updatedAt": "2026-06-19T22:52:08.687Z",
   "items": [
+    {
+      "time": "07:33",
+      "title": "台風7号が発生 今後の動向に注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584898?source=rss",
+      "publishedAt": "2026-06-19T22:33:11.000Z",
+      "xQuery": "台風7号が発生 今後の動向に注意"
+    },
     {
       "time": "22:33",
       "title": "イスラエルとヒズボラ 停戦で合意",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イスラエルとヒズボラ 停戦で合意"
     },
     {
-      "time": "22:27",
-      "title": "「副首都法案」自民が修正を検討",
+      "time": "07:37",
+      "title": "列車事故で1人死亡33人重傷 英",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584890?source=rss",
-      "publishedAt": "2026-06-19T13:27:50.000Z",
-      "xQuery": "「副首都法案」自民が修正を検討"
+      "url": "https://news.yahoo.co.jp/pickup/6584899?source=rss",
+      "publishedAt": "2026-06-19T22:37:36.000Z",
+      "xQuery": "列車事故で1人死亡33人重傷 英"
     },
     {
       "time": "23:33",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6584895?source=rss",
       "publishedAt": "2026-06-19T14:33:14.000Z",
       "xQuery": "新幹線見合わせ受け 休憩列車実施"
-    },
-    {
-      "time": "20:02",
-      "title": "都内小学校火事 校長ら会見で謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584876?source=rss",
-      "publishedAt": "2026-06-19T11:02:34.000Z",
-      "xQuery": "都内小学校火事 校長ら会見で謝罪"
     },
     {
       "time": "20:51",
