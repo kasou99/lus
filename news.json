@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-06-20T18:41:56.361Z",
+  "updatedAt": "2026-06-20T19:37:16.252Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "02:26",
+        "title": "リコー、30年度にITサービス契約2倍 DX需要に対応",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1heWdnclNyandQb1E0WmlYanJhS045ZE9yV2lodVAzaDRRS1FsTjU0MEo4M3JoX0RJcEJPTkQ3NTdTX1EyMnY0S2pON3dsRER5dVNGN0ljaHMxWmM?oc=5",
+        "publishedAt": "2026-06-20T17:26:46.000Z"
+      },
+      {
+        "time": "22:04",
+        "title": "当局は多くの解決策と取り組みを持っている。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzamM5aHlGekpwaUxxZ0kzaVhDTVpCX1Nia3JRZWp4UXZzVm1HUTRxUGQ0UkxJakw2cDJETDd5SnB0d3dlWllFSnRmM181bkVUMnctOHE5NXFBSHFlNW9BbndwSU9FNEdZZG80M213?oc=5",
+        "publishedAt": "2026-06-20T13:04:46.000Z"
+      },
+      {
+        "time": "12:00",
+        "title": "匠技研工業CTO井坂星南、YOUTRUST主催「プロダクトヒストリーカンファレンス2026」に登壇",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16SkV2VUgwbnNaSGpKd1BSREhrQ2o5SjFZem1URzQ4dGkzRS1VY3hEa1Vmc3N0ZEFhTHZ1Q1hmWWFRVW5QeUZlanhZNVhLNHBjRTR4ZA?oc=5",
+        "publishedAt": "2026-06-20T03:00:24.000Z"
+      },
       {
         "time": "20:27",
         "title": "EU 対中国の輸入規制を強化方針",
@@ -36,27 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584985?source=rss",
         "publishedAt": "2026-06-20T09:45:58.000Z"
-      },
-      {
-        "time": "15:46",
-        "title": "AM3時行列 立ち食いそば店の執念",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584959?source=rss",
-        "publishedAt": "2026-06-20T06:46:13.000Z"
-      },
-      {
-        "time": "16:59",
-        "title": "男性用日焼け止め 心つかんだ理由",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584971?source=rss",
-        "publishedAt": "2026-06-20T07:59:50.000Z"
-      },
-      {
-        "time": "17:56",
-        "title": "ナプキン広告変化「青い液」の今",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584860?source=rss",
-        "publishedAt": "2026-06-19T08:56:03.000Z"
       }
     ],
     "worldHeadlines": [
