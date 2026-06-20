@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T01:18:05.532Z",
+  "updatedAt": "2026-06-20T02:25:16.577Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-06-19T11:12:00.000Z"
       },
       {
-        "time": "18:00",
-        "title": "モーションコントロールの日本市場（～2031年）、市場規模（ハードウェア、アクチュエータおよび機械システム、ドライブ）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMazNFT09SWUU3MEs2VG9QanAwNGpLbFZSRS1uRmxXeFZuZzRETTg0d2VPd3RLZWpOQkx4eUZPT1ducnlQcXpIbWJYZzBwbVk?oc=5",
-        "publishedAt": "2026-06-19T09:00:00.000Z"
-      },
-      {
         "time": "12:30",
         "title": "放電加工機の世界市場（2026年～2032年）、市場規模（ワイヤ放電加工、沈み込み放電加工、穴あけ放電加工）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5WGJwSTJwMWhtMml3X095UnBhOEEwS1JQUlJ4Ymh2bkYxMk5hclNJSXIwQXhoS244dnRmOEljRlg0Sm95MHJQaENMY3NITEU?oc=5",
         "publishedAt": "2026-06-19T03:30:00.000Z"
+      },
+      {
+        "time": "20:30",
+        "title": "高千穂交易、日本最大級の製造業展示会「第38回ものづくりワールド[東京]」に出展",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13ekRIbEJxNGxJemNVM1hUZGkzWTV5dDN1S3ZJTE1TQUYyYVZpb3hWSF9seHBiQ1JYZmp0OHoyTzdEUy14Si1pVExELXQ1TmJEWXBaTw?oc=5",
+        "publishedAt": "2026-06-19T11:30:15.000Z"
       },
       {
         "time": "16:49",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-06-19T11:12:00.000Z"
       },
       {
-        "time": "13:00",
-        "title": "高千穂交易、日本最大級の製造業展示会「第38回ものづくりワールド[東京]」に出展",
-        "source": "イザ！",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00SnRicjBWTDducUlyN1dlemEzamRBN1BiT09YUjZnOE9aSVJ3LXpmVjFoTVIxNDFYMWdfUHRGUEJrVVgwQ3ZxTWN2b01Fb3RUOFNLX01yS19WUjU1bTJFWDNwb0J0cEV2QTREaklOY3BlSXZ4YVZNV25B?oc=5",
-        "publishedAt": "2026-06-19T04:00:00.000Z"
+        "time": "18:06",
+        "title": "ちいかわ×東京スカイツリーのコラボ詳細決定 “ぬい撮り”フォトスポットに限定グッズ続々",
+        "source": "thenews.ne.jp",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81eVQtRTgxVDdTN0ZUTmdTakhXOEJ4alkxd2pWSkQ5VlhqcUpRNDZBOWFtb2MtUTN2eldGbXJib2xzMHIyTXU0c3pqcExqM3NWbFNj?oc=5",
+        "publishedAt": "2026-06-19T09:06:03.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,11 +89,11 @@
         "publishedAt": "2026-06-19T09:58:45.000Z"
       },
       {
-        "time": "10:50",
-        "title": "モスクワは燃える ウ大統領が警告",
+        "time": "10:22",
+        "title": "米・伊両首脳 G7での発言で応酬",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584806?source=rss",
-        "publishedAt": "2026-06-19T01:50:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584922?source=rss",
+        "publishedAt": "2026-06-20T01:22:24.000Z"
       },
       {
         "time": "07:37",

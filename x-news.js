@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-20T01:18:06.212Z",
+  "updatedAt": "2026-06-20T02:25:17.346Z",
   "items": [
     {
       "time": "09:18",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "政府 皇室典範改正案で薄氷の調整"
     },
     {
-      "time": "08:19",
-      "title": "戦略17分野 370兆円超の投資試算",
+      "time": "10:22",
+      "title": "米・伊両首脳 G7での発言で応酬",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584905?source=rss",
-      "publishedAt": "2026-06-19T23:19:19.000Z",
-      "xQuery": "戦略17分野 370兆円超の投資試算"
-    },
-    {
-      "time": "09:13",
-      "title": "学校に潜む初期消火の難しさ 解説",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584911?source=rss",
-      "publishedAt": "2026-06-20T00:13:04.000Z",
-      "xQuery": "学校に潜む初期消火の難しさ 解説"
+      "url": "https://news.yahoo.co.jp/pickup/6584922?source=rss",
+      "publishedAt": "2026-06-20T01:22:24.000Z",
+      "xQuery": "米・伊両首脳 G7での発言で応酬"
     },
     {
       "time": "08:40",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン合意も 残る再燃の火種"
     },
     {
-      "time": "08:00",
-      "title": "高校部活で水たばこ 無期限謹慎",
+      "time": "09:13",
+      "title": "学校に潜む初期消火の難しさ 解説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584902?source=rss",
-      "publishedAt": "2026-06-19T23:00:40.000Z",
-      "xQuery": "高校部活で水たばこ 無期限謹慎"
+      "url": "https://news.yahoo.co.jp/pickup/6584911?source=rss",
+      "publishedAt": "2026-06-20T00:13:04.000Z",
+      "xQuery": "学校に潜む初期消火の難しさ 解説"
+    },
+    {
+      "time": "10:16",
+      "title": "小池都知事が給与半減を終了へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584918?source=rss",
+      "publishedAt": "2026-06-20T01:16:32.000Z",
+      "xQuery": "小池都知事が給与半減を終了へ"
     }
   ]
 };
