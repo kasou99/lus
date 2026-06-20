@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-20T11:19:10.139Z",
+  "updatedAt": "2026-06-20T12:10:34.160Z",
   "items": [
+    {
+      "time": "20:27",
+      "title": "EU 対中国の輸入規制を強化方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584999?source=rss",
+      "publishedAt": "2026-06-20T11:27:37.000Z",
+      "xQuery": "EU 対中国の輸入規制を強化方針"
+    },
     {
       "time": "19:40",
       "title": "台湾東部海域 中国「管轄権」主張",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "台湾東部海域 中国「管轄権」主張"
     },
     {
-      "time": "18:56",
-      "title": "ボリビアが非常事態宣言 経済混乱",
+      "time": "21:04",
+      "title": "攻撃受けたモスクワ 混乱広がる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584986?source=rss",
-      "publishedAt": "2026-06-20T09:56:03.000Z",
-      "xQuery": "ボリビアが非常事態宣言 経済混乱"
+      "url": "https://news.yahoo.co.jp/pickup/6585004?source=rss",
+      "publishedAt": "2026-06-20T12:04:44.000Z",
+      "xQuery": "攻撃受けたモスクワ 混乱広がる"
     },
     {
-      "time": "17:26",
-      "title": "スーパーエルニーニョ襲来か 解説",
+      "time": "20:30",
+      "title": "車が店に突っ込む 中を約10m進む",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584974?source=rss",
-      "publishedAt": "2026-06-20T08:26:04.000Z",
-      "xQuery": "スーパーエルニーニョ襲来か 解説"
+      "url": "https://news.yahoo.co.jp/pickup/6584998?source=rss",
+      "publishedAt": "2026-06-20T11:30:24.000Z",
+      "xQuery": "車が店に突っ込む 中を約10m進む"
     },
     {
-      "time": "19:12",
-      "title": "クマに襲われ男性ケガ 自力で下山",
+      "time": "16:59",
+      "title": "男性用日焼け止め 心つかんだ理由",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584989?source=rss",
-      "publishedAt": "2026-06-20T10:12:40.000Z",
-      "xQuery": "クマに襲われ男性ケガ 自力で下山"
-    },
-    {
-      "time": "18:45",
-      "title": "ビリヤニが静かなブーム 専門店も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584985?source=rss",
-      "publishedAt": "2026-06-20T09:45:58.000Z",
-      "xQuery": "ビリヤニが静かなブーム 専門店も"
+      "url": "https://news.yahoo.co.jp/pickup/6584971?source=rss",
+      "publishedAt": "2026-06-20T07:59:50.000Z",
+      "xQuery": "男性用日焼け止め 心つかんだ理由"
     }
   ]
 };
