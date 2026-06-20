@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-20T07:32:42.338Z",
+  "updatedAt": "2026-06-20T09:13:23.577Z",
   "items": [
     {
-      "time": "14:41",
-      "title": "台風 来週本州付近も警報級大雨か",
+      "time": "17:52",
+      "title": "自民支持率が急落 消えた解散効果",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584950?source=rss",
-      "publishedAt": "2026-06-20T05:41:00.000Z",
-      "xQuery": "台風 来週本州付近も警報級大雨か"
+      "url": "https://news.yahoo.co.jp/pickup/6584979?source=rss",
+      "publishedAt": "2026-06-20T08:52:20.000Z",
+      "xQuery": "自民支持率が急落 消えた解散効果"
     },
     {
-      "time": "15:13",
-      "title": "頭に10cm痕 81年前の沖縄戦語る",
+      "time": "16:18",
+      "title": "エアフォースワンの代替機 公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584952?source=rss",
-      "publishedAt": "2026-06-20T06:13:44.000Z",
-      "xQuery": "頭に10cm痕 81年前の沖縄戦語る"
+      "url": "https://news.yahoo.co.jp/pickup/6584962?source=rss",
+      "publishedAt": "2026-06-20T07:18:44.000Z",
+      "xQuery": "エアフォースワンの代替機 公開"
     },
     {
-      "time": "16:13",
-      "title": "東海大仰星ラグビー部 いじめ認定",
+      "time": "17:26",
+      "title": "スーパーエルニーニョ襲来か 解説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584963?source=rss",
-      "publishedAt": "2026-06-20T07:13:52.000Z",
-      "xQuery": "東海大仰星ラグビー部 いじめ認定"
+      "url": "https://news.yahoo.co.jp/pickup/6584974?source=rss",
+      "publishedAt": "2026-06-20T08:26:04.000Z",
+      "xQuery": "スーパーエルニーニョ襲来か 解説"
     },
     {
-      "time": "15:46",
-      "title": "AM3時行列 立ち食いそば店の執念",
+      "time": "18:06",
+      "title": "中国で日本ツアー募集 一転し停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584959?source=rss",
-      "publishedAt": "2026-06-20T06:46:13.000Z",
-      "xQuery": "AM3時行列 立ち食いそば店の執念"
+      "url": "https://news.yahoo.co.jp/pickup/6584982?source=rss",
+      "publishedAt": "2026-06-20T09:06:12.000Z",
+      "xQuery": "中国で日本ツアー募集 一転し停止"
     },
     {
-      "time": "12:52",
-      "title": "夫に精子提供頼みシンママに 葛藤",
+      "time": "16:47",
+      "title": "ダンス中に生徒心肺停止 観客救う",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584940?source=rss",
-      "publishedAt": "2026-06-20T03:52:34.000Z",
-      "xQuery": "夫に精子提供頼みシンママに 葛藤"
+      "url": "https://news.yahoo.co.jp/pickup/6584970?source=rss",
+      "publishedAt": "2026-06-20T07:47:04.000Z",
+      "xQuery": "ダンス中に生徒心肺停止 観客救う"
     }
   ]
 };
