@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-20T12:10:34.160Z",
+  "updatedAt": "2026-06-20T13:04:27.283Z",
   "items": [
-    {
-      "time": "20:27",
-      "title": "EU 対中国の輸入規制を強化方針",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584999?source=rss",
-      "publishedAt": "2026-06-20T11:27:37.000Z",
-      "xQuery": "EU 対中国の輸入規制を強化方針"
-    },
-    {
-      "time": "19:40",
-      "title": "台湾東部海域 中国「管轄権」主張",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584992?source=rss",
-      "publishedAt": "2026-06-20T10:40:08.000Z",
-      "xQuery": "台湾東部海域 中国「管轄権」主張"
-    },
     {
       "time": "21:04",
       "title": "攻撃受けたモスクワ 混乱広がる",
@@ -26,20 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "攻撃受けたモスクワ 混乱広がる"
     },
     {
-      "time": "20:30",
-      "title": "車が店に突っ込む 中を約10m進む",
+      "time": "21:35",
+      "title": "北朝鮮ミサイル 精度向上とウ当局",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584998?source=rss",
-      "publishedAt": "2026-06-20T11:30:24.000Z",
-      "xQuery": "車が店に突っ込む 中を約10m進む"
+      "url": "https://news.yahoo.co.jp/pickup/6585005?source=rss",
+      "publishedAt": "2026-06-20T12:35:12.000Z",
+      "xQuery": "北朝鮮ミサイル 精度向上とウ当局"
     },
     {
-      "time": "16:59",
-      "title": "男性用日焼け止め 心つかんだ理由",
+      "time": "21:44",
+      "title": "動物の血を人に 日中戦争時実験か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584971?source=rss",
-      "publishedAt": "2026-06-20T07:59:50.000Z",
-      "xQuery": "男性用日焼け止め 心つかんだ理由"
+      "url": "https://news.yahoo.co.jp/pickup/6585013?source=rss",
+      "publishedAt": "2026-06-20T12:44:34.000Z",
+      "xQuery": "動物の血を人に 日中戦争時実験か"
+    },
+    {
+      "time": "21:50",
+      "title": "八田容疑者の逮捕を諦めない 遺族",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585014?source=rss",
+      "publishedAt": "2026-06-20T12:50:46.000Z",
+      "xQuery": "八田容疑者の逮捕を諦めない 遺族"
+    },
+    {
+      "time": "21:43",
+      "title": "マンションで損壊された遺体発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585012?source=rss",
+      "publishedAt": "2026-06-20T12:43:01.000Z",
+      "xQuery": "マンションで損壊された遺体発見"
     }
   ]
 };

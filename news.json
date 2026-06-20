@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T12:10:33.386Z",
+  "updatedAt": "2026-06-20T13:04:26.508Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -82,6 +82,13 @@
         "publishedAt": "2026-06-20T12:04:44.000Z"
       },
       {
+        "time": "21:35",
+        "title": "北朝鮮ミサイル 精度向上とウ当局",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585005?source=rss",
+        "publishedAt": "2026-06-20T12:35:12.000Z"
+      },
+      {
         "time": "18:56",
         "title": "ボリビアが非常事態宣言 経済混乱",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584992?source=rss",
         "publishedAt": "2026-06-20T10:40:08.000Z"
-      },
-      {
-        "time": "18:06",
-        "title": "中国で日本ツアー募集 一転し停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584982?source=rss",
-        "publishedAt": "2026-06-20T09:06:12.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,11 +156,18 @@
         "publishedAt": "2026-06-20T04:29:11.000Z"
       },
       {
-        "time": "15:13",
-        "title": "頭に10cm痕 81年前の沖縄戦語る",
+        "time": "21:50",
+        "title": "八田容疑者の逮捕を諦めない 遺族",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584952?source=rss",
-        "publishedAt": "2026-06-20T06:13:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585014?source=rss",
+        "publishedAt": "2026-06-20T12:50:46.000Z"
+      },
+      {
+        "time": "21:43",
+        "title": "マンションで損壊された遺体発見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585012?source=rss",
+        "publishedAt": "2026-06-20T12:43:01.000Z"
       },
       {
         "time": "18:06",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584998?source=rss",
         "publishedAt": "2026-06-20T11:30:24.000Z"
-      },
-      {
-        "time": "18:26",
-        "title": "箕島高の野球部でいじめ 校長陳謝",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584984?source=rss",
-        "publishedAt": "2026-06-20T09:26:18.000Z"
       },
       {
         "time": "19:12",
