@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-20T22:32:35.827Z",
+  "updatedAt": "2026-06-20T23:33:30.025Z",
   "items": [
+    {
+      "time": "07:45",
+      "title": "米イラン 21日からスイスで協議へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585035?source=rss",
+      "publishedAt": "2026-06-20T22:45:53.000Z",
+      "xQuery": "米イラン 21日からスイスで協議へ"
+    },
     {
       "time": "23:51",
       "title": "イラン ホルムズを封鎖したと声明",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン ホルムズを封鎖したと声明"
     },
     {
-      "time": "22:35",
-      "title": "北陸・東北中心に激しい雷雨恐れ",
+      "time": "07:32",
+      "title": "政府 北極政策の基本方針改定検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585018?source=rss",
-      "publishedAt": "2026-06-20T13:35:59.000Z",
-      "xQuery": "北陸・東北中心に激しい雷雨恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6585032?source=rss",
+      "publishedAt": "2026-06-20T22:32:26.000Z",
+      "xQuery": "政府 北極政策の基本方針改定検討"
     },
     {
-      "time": "21:43",
-      "title": "マンションで損壊された遺体発見",
+      "time": "07:36",
+      "title": "冷凍庫から遺体 損壊され腐敗進む",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585012?source=rss",
-      "publishedAt": "2026-06-20T12:43:01.000Z",
-      "xQuery": "マンションで損壊された遺体発見"
+      "url": "https://news.yahoo.co.jp/pickup/6585033?source=rss",
+      "publishedAt": "2026-06-20T22:36:08.000Z",
+      "xQuery": "冷凍庫から遺体 損壊され腐敗進む"
     },
     {
-      "time": "22:28",
-      "title": "病院の駐車場ではねられる 死亡",
+      "time": "07:39",
+      "title": "公園でランニング中 男性刺される",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585020?source=rss",
-      "publishedAt": "2026-06-20T13:28:23.000Z",
-      "xQuery": "病院の駐車場ではねられる 死亡"
-    },
-    {
-      "time": "23:03",
-      "title": "崖から80m転落か 釣りの男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585022?source=rss",
-      "publishedAt": "2026-06-20T14:03:59.000Z",
-      "xQuery": "崖から80m転落か 釣りの男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6585034?source=rss",
+      "publishedAt": "2026-06-20T22:39:13.000Z",
+      "xQuery": "公園でランニング中 男性刺される"
     }
   ]
 };
