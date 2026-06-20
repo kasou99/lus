@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-20T05:38:42.179Z",
+  "updatedAt": "2026-06-20T07:32:42.338Z",
   "items": [
     {
-      "time": "12:46",
-      "title": "トランプ氏 年内に中国再訪へ",
+      "time": "14:41",
+      "title": "台風 来週本州付近も警報級大雨か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584936?source=rss",
-      "publishedAt": "2026-06-20T03:46:21.000Z",
-      "xQuery": "トランプ氏 年内に中国再訪へ"
+      "url": "https://news.yahoo.co.jp/pickup/6584950?source=rss",
+      "publishedAt": "2026-06-20T05:41:00.000Z",
+      "xQuery": "台風 来週本州付近も警報級大雨か"
     },
     {
-      "time": "12:10",
-      "title": "防衛省が異例投稿 攻めの発信に舵",
+      "time": "15:13",
+      "title": "頭に10cm痕 81年前の沖縄戦語る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584934?source=rss",
-      "publishedAt": "2026-06-20T03:10:51.000Z",
-      "xQuery": "防衛省が異例投稿 攻めの発信に舵"
+      "url": "https://news.yahoo.co.jp/pickup/6584952?source=rss",
+      "publishedAt": "2026-06-20T06:13:44.000Z",
+      "xQuery": "頭に10cm痕 81年前の沖縄戦語る"
     },
     {
-      "time": "13:08",
-      "title": "点検作業中に機械に挟まれる 重体",
+      "time": "16:13",
+      "title": "東海大仰星ラグビー部 いじめ認定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584941?source=rss",
-      "publishedAt": "2026-06-20T04:08:59.000Z",
-      "xQuery": "点検作業中に機械に挟まれる 重体"
+      "url": "https://news.yahoo.co.jp/pickup/6584963?source=rss",
+      "publishedAt": "2026-06-20T07:13:52.000Z",
+      "xQuery": "東海大仰星ラグビー部 いじめ認定"
     },
     {
-      "time": "13:29",
-      "title": "小学校火災 教員の迅速判断で避難",
+      "time": "15:46",
+      "title": "AM3時行列 立ち食いそば店の執念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584942?source=rss",
-      "publishedAt": "2026-06-20T04:29:11.000Z",
-      "xQuery": "小学校火災 教員の迅速判断で避難"
+      "url": "https://news.yahoo.co.jp/pickup/6584959?source=rss",
+      "publishedAt": "2026-06-20T06:46:13.000Z",
+      "xQuery": "AM3時行列 立ち食いそば店の執念"
     },
     {
       "time": "12:52",

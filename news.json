@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T05:38:41.396Z",
+  "updatedAt": "2026-06-20T07:32:41.433Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-06-20T03:00:24.000Z"
       },
       {
+        "time": "12:19",
+        "title": "当局は多くの解決策と取り組みを持っている。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzamM5aHlGekpwaUxxZ0kzaVhDTVpCX1Nia3JRZWp4UXZzVm1HUTRxUGQ0UkxJakw2cDJETDd5SnB0d3dlWllFSnRmM181bkVUMnctOHE5NXFBSHFlNW9BbndwSU9FNEdZZG80M213?oc=5",
+        "publishedAt": "2026-06-20T03:19:38.000Z"
+      },
+      {
         "time": "18:00",
         "title": "モーションコントロールの日本市場（～2031年）、市場規模（ハードウェア、アクチュエータおよび機械システム、ドライブ）・分析レポートを発表",
         "source": "Newscast.jp",
@@ -36,13 +43,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2h0YTFzdVY2MXpRRnBFblNPdjVTTUkwXzVyVjZHTGJGRmFOOEpHYU1hdkJjZDlQUmg2UmtHWHQzcl9WUGI5dXk5V0g5QmlfMGt4VDliZnJEbGxEOW5VSkRTU2dmRTFMM0NEcEp0T3hVS3hrbnJJZWpvQ0pNajBnbEtySWRkaUFjeTV0U3JkQU81YVNBWGQ3WFdseTZSS3V1R2dRb1dIRzM?oc=5",
         "publishedAt": "2026-06-19T11:12:00.000Z"
-      },
-      {
-        "time": "16:49",
-        "title": "当局は多くの解決策と取り組みを持っている。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzamM5aHlGekpwaUxxZ0kzaVhDTVpCX1Nia3JRZWp4UXZzVm1HUTRxUGQ0UkxJakw2cDJETDd5SnB0d3dlWllFSnRmM181bkVUMnctOHE5NXFBSHFlNW9BbndwSU9FNEdZZG80M213?oc=5",
-        "publishedAt": "2026-06-19T07:49:47.000Z"
       },
       {
         "time": "18:06",
@@ -61,20 +61,6 @@
     ],
     "worldHeadlines": [
       {
-        "time": "22:33",
-        "title": "イスラエルとヒズボラ 停戦で合意",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584891?source=rss",
-        "publishedAt": "2026-06-19T13:33:32.000Z"
-      },
-      {
-        "time": "15:50",
-        "title": "米イラン19日協議開催せず スイス",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584840?source=rss",
-        "publishedAt": "2026-06-19T06:50:47.000Z"
-      },
-      {
         "time": "08:40",
         "title": "米イラン合意も 残る再燃の火種",
         "source": "Yahoo!ニュース",
@@ -82,18 +68,25 @@
         "publishedAt": "2026-06-19T23:40:54.000Z"
       },
       {
-        "time": "11:40",
-        "title": "米FRBが利上げ予想に転換 経緯は",
+        "time": "16:25",
+        "title": "イスラエル軍 レバノン南部を空爆",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584928?source=rss",
-        "publishedAt": "2026-06-20T02:40:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584965?source=rss",
+        "publishedAt": "2026-06-20T07:25:35.000Z"
       },
       {
-        "time": "10:22",
-        "title": "米・伊両首脳 G7での発言で応酬",
+        "time": "14:55",
+        "title": "ウクライナ ロシア防空網どう突破",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584922?source=rss",
-        "publishedAt": "2026-06-20T01:22:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584951?source=rss",
+        "publishedAt": "2026-06-20T05:55:52.000Z"
+      },
+      {
+        "time": "15:15",
+        "title": "G7 トランプ氏の引き留めに腐心",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584953?source=rss",
+        "publishedAt": "2026-06-20T06:15:57.000Z"
       },
       {
         "time": "12:46",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584936?source=rss",
         "publishedAt": "2026-06-20T03:46:21.000Z"
+      },
+      {
+        "time": "16:18",
+        "title": "エアフォースワンの代替機 公開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584962?source=rss",
+        "publishedAt": "2026-06-20T07:18:44.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,11 +126,11 @@
         "publishedAt": "2026-06-19T04:22:40.000Z"
       },
       {
-        "time": "12:27",
-        "title": "ロッテ アイス35品目を値上げへ",
+        "time": "15:46",
+        "title": "AM3時行列 立ち食いそば店の執念",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584821?source=rss",
-        "publishedAt": "2026-06-19T03:27:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584959?source=rss",
+        "publishedAt": "2026-06-20T06:46:13.000Z"
       },
       {
         "time": "18:19",
@@ -156,18 +156,18 @@
         "publishedAt": "2026-06-20T04:29:11.000Z"
       },
       {
-        "time": "09:13",
-        "title": "学校に潜む初期消火の難しさ 解説",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584911?source=rss",
-        "publishedAt": "2026-06-20T00:13:04.000Z"
-      },
-      {
         "time": "20:02",
         "title": "都内小学校火事 校長ら会見で謝罪",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584876?source=rss",
         "publishedAt": "2026-06-19T11:02:34.000Z"
+      },
+      {
+        "time": "15:13",
+        "title": "頭に10cm痕 81年前の沖縄戦語る",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584952?source=rss",
+        "publishedAt": "2026-06-20T06:13:44.000Z"
       },
       {
         "time": "08:00",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-20T04:08:59.000Z"
       },
       {
-        "time": "20:51",
-        "title": "ホテルで高校生ら110人 食中毒",
+        "time": "16:13",
+        "title": "東海大仰星ラグビー部 いじめ認定",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584880?source=rss",
-        "publishedAt": "2026-06-19T11:51:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584963?source=rss",
+        "publishedAt": "2026-06-20T07:13:52.000Z"
       }
     ],
     "subsidyHeadlines": [
