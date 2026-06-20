@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-20T14:18:17.727Z",
+  "updatedAt": "2026-06-20T15:12:52.658Z",
   "items": [
     {
-      "time": "23:10",
-      "title": "イラン ホルムズ再封鎖すると宣言",
+      "time": "23:51",
+      "title": "イラン ホルムズを封鎖したと声明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585024?source=rss",
-      "publishedAt": "2026-06-20T14:10:32.000Z",
-      "xQuery": "イラン ホルムズ再封鎖すると宣言"
+      "url": "https://news.yahoo.co.jp/pickup/6585027?source=rss",
+      "publishedAt": "2026-06-20T14:51:14.000Z",
+      "xQuery": "イラン ホルムズを封鎖したと声明"
     },
     {
-      "time": "21:04",
-      "title": "攻撃受けたモスクワ 混乱広がる",
+      "time": "22:35",
+      "title": "北陸・東北中心に激しい雷雨恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585004?source=rss",
-      "publishedAt": "2026-06-20T12:04:44.000Z",
-      "xQuery": "攻撃受けたモスクワ 混乱広がる"
+      "url": "https://news.yahoo.co.jp/pickup/6585018?source=rss",
+      "publishedAt": "2026-06-20T13:35:59.000Z",
+      "xQuery": "北陸・東北中心に激しい雷雨恐れ"
     },
     {
       "time": "21:43",
