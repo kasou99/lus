@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T02:25:16.577Z",
+  "updatedAt": "2026-06-20T03:49:09.642Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "オートメーション新聞",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TUWdZU1NoX1RxdXV3QklLcFh3Qk51ZkhGY2NxQVlUMDJRclc4ZjRjNE5rOTkzTWs3ZFNPUWZVZjkwSnB1RjN0dUpRY3hIeE1MQ3hNMVV5YmRldw?oc=5",
         "publishedAt": "2026-06-19T05:01:42.000Z"
+      },
+      {
+        "time": "05:48",
+        "title": "英、グーグル検索に新要件要求 公正な競争環境を確保",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEX3paaFlBR1ZLQTR3X1FFcTcxRW1mU3otd2YySGhwRVcxVXZDQ3hhSFNnWWJiVmNXOU81OW1vMXV1X2JDVnpRcGlVUi1oZjdWYl83aU1MX3IwRVU?oc=5",
+        "publishedAt": "2026-06-19T20:48:39.000Z"
       },
       {
         "time": "19:10",
@@ -24,18 +31,11 @@
         "publishedAt": "2026-06-19T11:12:00.000Z"
       },
       {
-        "time": "12:30",
-        "title": "放電加工機の世界市場（2026年～2032年）、市場規模（ワイヤ放電加工、沈み込み放電加工、穴あけ放電加工）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5WGJwSTJwMWhtMml3X095UnBhOEEwS1JQUlJ4Ymh2bkYxMk5hclNJSXIwQXhoS244dnRmOEljRlg0Sm95MHJQaENMY3NITEU?oc=5",
-        "publishedAt": "2026-06-19T03:30:00.000Z"
-      },
-      {
-        "time": "20:30",
-        "title": "高千穂交易、日本最大級の製造業展示会「第38回ものづくりワールド[東京]」に出展",
+        "time": "12:00",
+        "title": "匠技研工業CTO井坂星南、YOUTRUST主催「プロダクトヒストリーカンファレンス2026」に登壇",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13ekRIbEJxNGxJemNVM1hUZGkzWTV5dDN1S3ZJTE1TQUYyYVZpb3hWSF9seHBiQ1JYZmp0OHoyTzdEUy14Si1pVExELXQ1TmJEWXBaTw?oc=5",
-        "publishedAt": "2026-06-19T11:30:15.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wUkN2R09sTWZJWG5wemJ0RTZvSTRHNEhoaUJZY3dqcWhMNFlVeVdDYTZKdjZWU1UwakJTLXh0aGRGNk1zQkJmOHM0cy1TVkxVbnkwU3JSWGh3dDBuck92Y0hmazRIUGFhQmc5blk0RGtoZWZwQ0E?oc=5",
+        "publishedAt": "2026-06-20T03:00:24.000Z"
       },
       {
         "time": "16:49",
@@ -82,11 +82,11 @@
         "publishedAt": "2026-06-19T23:40:54.000Z"
       },
       {
-        "time": "18:58",
-        "title": "ウクライナ侵攻 露の人的優位陰り",
+        "time": "11:40",
+        "title": "米FRBが利上げ予想に転換 経緯は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584868?source=rss",
-        "publishedAt": "2026-06-19T09:58:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584928?source=rss",
+        "publishedAt": "2026-06-20T02:40:24.000Z"
       },
       {
         "time": "10:22",
@@ -96,11 +96,11 @@
         "publishedAt": "2026-06-20T01:22:24.000Z"
       },
       {
-        "time": "07:37",
-        "title": "列車事故で1人死亡33人重傷 英",
+        "time": "12:46",
+        "title": "トランプ氏 年内に中国再訪へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584899?source=rss",
-        "publishedAt": "2026-06-19T22:37:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584936?source=rss",
+        "publishedAt": "2026-06-20T03:46:21.000Z"
       }
     ],
     "economyHeadlines": [
