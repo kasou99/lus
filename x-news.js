@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-20T10:22:50.242Z",
+  "updatedAt": "2026-06-20T11:19:10.139Z",
   "items": [
     {
-      "time": "17:52",
-      "title": "自民支持率が急落 消えた解散効果",
+      "time": "19:40",
+      "title": "台湾東部海域 中国「管轄権」主張",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584979?source=rss",
-      "publishedAt": "2026-06-20T08:52:20.000Z",
-      "xQuery": "自民支持率が急落 消えた解散効果"
+      "url": "https://news.yahoo.co.jp/pickup/6584992?source=rss",
+      "publishedAt": "2026-06-20T10:40:08.000Z",
+      "xQuery": "台湾東部海域 中国「管轄権」主張"
     },
     {
       "time": "18:56",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スーパーエルニーニョ襲来か 解説"
     },
     {
-      "time": "18:06",
-      "title": "駐車場ではねられ車の下敷き 重体",
+      "time": "19:12",
+      "title": "クマに襲われ男性ケガ 自力で下山",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584980?source=rss",
-      "publishedAt": "2026-06-20T09:06:06.000Z",
-      "xQuery": "駐車場ではねられ車の下敷き 重体"
+      "url": "https://news.yahoo.co.jp/pickup/6584989?source=rss",
+      "publishedAt": "2026-06-20T10:12:40.000Z",
+      "xQuery": "クマに襲われ男性ケガ 自力で下山"
     },
     {
-      "time": "17:38",
-      "title": "フェルメール展 チケ「無理ゲー」",
+      "time": "18:45",
+      "title": "ビリヤニが静かなブーム 専門店も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584978?source=rss",
-      "publishedAt": "2026-06-20T08:38:26.000Z",
-      "xQuery": "フェルメール展 チケ「無理ゲー」"
+      "url": "https://news.yahoo.co.jp/pickup/6584985?source=rss",
+      "publishedAt": "2026-06-20T09:45:58.000Z",
+      "xQuery": "ビリヤニが静かなブーム 専門店も"
     }
   ]
 };

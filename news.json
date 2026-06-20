@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T10:22:49.319Z",
+  "updatedAt": "2026-06-20T11:19:09.495Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-06-20T03:00:24.000Z"
       },
       {
-        "time": "20:12",
-        "title": "日本経済新聞 印刷画面",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYzhqU0R3YXREbDFkSm9RbVBsMHNjSzAtX3QtcnNoelQ4YW96aW5oTmUwN1hhZFlrVlZvdXY5a2EtMkV6Y1BxRndyeXkzOE1mdjNQbXBaWEF2UW40TXVqQXlWTkI5a0F0ckVaTUl1VWhKQVRyWGJrdlRUNUtJZ1dqbm9oalI3NEVGblBHM3hKQUU?oc=5",
-        "publishedAt": "2026-06-19T11:12:00.000Z"
-      },
-      {
         "time": "12:19",
         "title": "当局は多くの解決策と取り組みを持っている。",
         "source": "Vietnam.vn",
@@ -38,11 +31,11 @@
         "publishedAt": "2026-06-19T19:24:48.000Z"
       },
       {
-        "time": "20:12",
-        "title": "ソディック、29年12月期売上高1000億円 AI需要取り込み",
+        "time": "20:20",
+        "title": "日本経済新聞 印刷画面",
         "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2h0YTFzdVY2MXpRRnBFblNPdjVTTUkwXzVyVjZHTGJGRmFOOEpHYU1hdkJjZDlQUmg2UmtHWHQzcl9WUGI5dXk5V0g5QmlfMGt4VDliZnJEbGxEOW5VSkRTU2dmRTFMM0NEcEp0T3hVS3hrbnJJZWpvQ0pNajBnbEtySWRkaUFjeTV0U3JkQU81YVNBWGQ3WFdseTZSS3V1R2dRb1dIRzM?oc=5",
-        "publishedAt": "2026-06-19T11:12:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ2pkQmhQVkNRMlpQMGxOVDFHM2NCdklqc1BkLUJzQ1RXXzJlc01tbzBqa3NITDdNQXkwQVZqamVPT3p6WFJkQTU2V3lJRE55aGRFOUltMDUwVXg1elplSVZEQkMtOGkzSXVZTlRZUlhyUnc3bkMzYVIwX2NOb1hlOGZUdWNtTkdOWUV2dUVBUWg?oc=5",
+        "publishedAt": "2026-06-19T11:20:00.000Z"
       },
       {
         "time": "20:30",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584804?source=rss",
         "publishedAt": "2026-06-19T01:33:21.000Z"
+      },
+      {
+        "time": "08:28",
+        "title": "異業種のコメ生産 本格参入相次ぐ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584907?source=rss",
+        "publishedAt": "2026-06-19T23:28:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-06-20T06:15:57.000Z"
       },
       {
+        "time": "19:40",
+        "title": "台湾東部海域 中国「管轄権」主張",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584992?source=rss",
+        "publishedAt": "2026-06-20T10:40:08.000Z"
+      },
+      {
         "time": "18:06",
         "title": "中国で日本ツアー募集 一転し停止",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584982?source=rss",
         "publishedAt": "2026-06-20T09:06:12.000Z"
-      },
-      {
-        "time": "16:18",
-        "title": "エアフォースワンの代替機 公開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584962?source=rss",
-        "publishedAt": "2026-06-20T07:18:44.000Z"
       }
     ],
     "economyHeadlines": [
