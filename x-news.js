@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-20T13:04:27.283Z",
+  "updatedAt": "2026-06-20T14:18:17.727Z",
   "items": [
+    {
+      "time": "23:10",
+      "title": "イラン ホルムズ再封鎖すると宣言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585024?source=rss",
+      "publishedAt": "2026-06-20T14:10:32.000Z",
+      "xQuery": "イラン ホルムズ再封鎖すると宣言"
+    },
     {
       "time": "21:04",
       "title": "攻撃受けたモスクワ 混乱広がる",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "攻撃受けたモスクワ 混乱広がる"
     },
     {
-      "time": "21:35",
-      "title": "北朝鮮ミサイル 精度向上とウ当局",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585005?source=rss",
-      "publishedAt": "2026-06-20T12:35:12.000Z",
-      "xQuery": "北朝鮮ミサイル 精度向上とウ当局"
-    },
-    {
-      "time": "21:44",
-      "title": "動物の血を人に 日中戦争時実験か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585013?source=rss",
-      "publishedAt": "2026-06-20T12:44:34.000Z",
-      "xQuery": "動物の血を人に 日中戦争時実験か"
-    },
-    {
-      "time": "21:50",
-      "title": "八田容疑者の逮捕を諦めない 遺族",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585014?source=rss",
-      "publishedAt": "2026-06-20T12:50:46.000Z",
-      "xQuery": "八田容疑者の逮捕を諦めない 遺族"
-    },
-    {
       "time": "21:43",
       "title": "マンションで損壊された遺体発見",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6585012?source=rss",
       "publishedAt": "2026-06-20T12:43:01.000Z",
       "xQuery": "マンションで損壊された遺体発見"
+    },
+    {
+      "time": "22:28",
+      "title": "病院の駐車場ではねられる 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585020?source=rss",
+      "publishedAt": "2026-06-20T13:28:23.000Z",
+      "xQuery": "病院の駐車場ではねられる 死亡"
+    },
+    {
+      "time": "23:03",
+      "title": "崖から80m転落か 釣りの男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585022?source=rss",
+      "publishedAt": "2026-06-20T14:03:59.000Z",
+      "xQuery": "崖から80m転落か 釣りの男性死亡"
     }
   ]
 };

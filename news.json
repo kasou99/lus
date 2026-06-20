@@ -1,48 +1,13 @@
 {
-  "updatedAt": "2026-06-20T13:04:26.508Z",
+  "updatedAt": "2026-06-20T14:18:11.194Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "05:48",
-        "title": "英、グーグル検索に新要件要求 公正な競争環境を確保",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEX3paaFlBR1ZLQTR3X1FFcTcxRW1mU3otd2YySGhwRVcxVXZDQ3hhSFNnWWJiVmNXOU81OW1vMXV1X2JDVnpRcGlVUi1oZjdWYl83aU1MX3IwRVU?oc=5",
-        "publishedAt": "2026-06-19T20:48:39.000Z"
-      },
-      {
-        "time": "17:53",
-        "title": "当局は多くの解決策と取り組みを持っている。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzamM5aHlGekpwaUxxZ0kzaVhDTVpCX1Nia3JRZWp4UXZzVm1HUTRxUGQ0UkxJakw2cDJETDd5SnB0d3dlWllFSnRmM181bkVUMnctOHE5NXFBSHFlNW9BbndwSU9FNEdZZG80M213?oc=5",
-        "publishedAt": "2026-06-20T08:53:59.000Z"
-      },
-      {
-        "time": "12:00",
-        "title": "匠技研工業CTO井坂星南、YOUTRUST主催「プロダクトヒストリーカンファレンス2026」に登壇",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16SkV2VUgwbnNaSGpKd1BSREhrQ2o5SjFZem1URzQ4dGkzRS1VY3hEa1Vmc3N0ZEFhTHZ1Q1hmWWFRVW5QeUZlanhZNVhLNHBjRTR4ZA?oc=5",
-        "publishedAt": "2026-06-20T03:00:24.000Z"
-      },
-      {
-        "time": "04:24",
-        "title": "【ぽこあポケモン】そうさばん(操作盤)のレシピと入手方法【ぽこポケ】",
-        "source": "GameWith",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFYjEzVnpKbjR0MWZfeDJLZmllUHN6SjkwWE9hQnpZQzJPU3J0UUN1TUxOSDhwV2Q5OFFFVHVvQXhYblRtZFl1QnRFUTgyVnRT?oc=5",
-        "publishedAt": "2026-06-19T19:24:48.000Z"
-      },
       {
         "time": "20:27",
         "title": "EU 対中国の輸入規制を強化方針",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584999?source=rss",
         "publishedAt": "2026-06-20T11:27:37.000Z"
-      },
-      {
-        "time": "10:33",
-        "title": "株価上昇が加速 恩恵は一部と識者",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584804?source=rss",
-        "publishedAt": "2026-06-19T01:33:21.000Z"
       },
       {
         "time": "08:28",
@@ -57,9 +22,51 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584828?source=rss",
         "publishedAt": "2026-06-19T04:22:40.000Z"
+      },
+      {
+        "time": "22:15",
+        "title": "高校生就職 空前の「売り手市場」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585017?source=rss",
+        "publishedAt": "2026-06-20T13:15:54.000Z"
+      },
+      {
+        "time": "18:45",
+        "title": "ビリヤニが静かなブーム 専門店も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584985?source=rss",
+        "publishedAt": "2026-06-20T09:45:58.000Z"
+      },
+      {
+        "time": "15:46",
+        "title": "AM3時行列 立ち食いそば店の執念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584959?source=rss",
+        "publishedAt": "2026-06-20T06:46:13.000Z"
+      },
+      {
+        "time": "16:59",
+        "title": "男性用日焼け止め 心つかんだ理由",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584971?source=rss",
+        "publishedAt": "2026-06-20T07:59:50.000Z"
+      },
+      {
+        "time": "17:56",
+        "title": "ナプキン広告変化「青い液」の今",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584860?source=rss",
+        "publishedAt": "2026-06-19T08:56:03.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "23:10",
+        "title": "イラン ホルムズ再封鎖すると宣言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585024?source=rss",
+        "publishedAt": "2026-06-20T14:10:32.000Z"
+      },
       {
         "time": "16:25",
         "title": "イスラエル軍 レバノン南部を空爆",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584986?source=rss",
         "publishedAt": "2026-06-20T09:56:03.000Z"
-      },
-      {
-        "time": "19:40",
-        "title": "台湾東部海域 中国「管轄権」主張",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584992?source=rss",
-        "publishedAt": "2026-06-20T10:40:08.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,13 +110,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584999?source=rss",
         "publishedAt": "2026-06-20T11:27:37.000Z"
-      },
-      {
-        "time": "10:33",
-        "title": "株価上昇が加速 恩恵は一部と識者",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584804?source=rss",
-        "publishedAt": "2026-06-19T01:33:21.000Z"
       },
       {
         "time": "08:28",
@@ -131,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584828?source=rss",
         "publishedAt": "2026-06-19T04:22:40.000Z"
+      },
+      {
+        "time": "22:15",
+        "title": "高校生就職 空前の「売り手市場」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585017?source=rss",
+        "publishedAt": "2026-06-20T13:15:54.000Z"
       },
       {
         "time": "18:45",
@@ -170,11 +170,11 @@
         "publishedAt": "2026-06-20T12:43:01.000Z"
       },
       {
-        "time": "18:06",
-        "title": "駐車場ではねられ車の下敷き 重体",
+        "time": "22:28",
+        "title": "病院の駐車場ではねられる 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584980?source=rss",
-        "publishedAt": "2026-06-20T09:06:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585020?source=rss",
+        "publishedAt": "2026-06-20T13:28:23.000Z"
       },
       {
         "time": "20:30",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-20T11:30:24.000Z"
       },
       {
-        "time": "19:12",
-        "title": "クマに襲われ男性ケガ 自力で下山",
+        "time": "23:03",
+        "title": "崖から80m転落か 釣りの男性死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584989?source=rss",
-        "publishedAt": "2026-06-20T10:12:40.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585022?source=rss",
+        "publishedAt": "2026-06-20T14:03:59.000Z"
       }
     ],
     "subsidyHeadlines": [
