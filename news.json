@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T23:58:12.113Z",
+  "updatedAt": "2026-06-20T01:18:05.532Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "09:13",
+        "title": "学校に潜む初期消火の難しさ 解説",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584911?source=rss",
+        "publishedAt": "2026-06-20T00:13:04.000Z"
+      },
+      {
         "time": "23:17",
         "title": "小学校火災 避難緊迫「怖かった」",
         "source": "Yahoo!ニュース",
@@ -163,13 +170,6 @@
         "publishedAt": "2026-06-19T11:02:34.000Z"
       },
       {
-        "time": "16:00",
-        "title": "娘無事か 小学校火災に記者急行",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584842?source=rss",
-        "publishedAt": "2026-06-19T07:00:29.000Z"
-      },
-      {
         "time": "08:00",
         "title": "高校部活で水たばこ 無期限謹慎",
         "source": "Yahoo!ニュース",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-19T23:00:40.000Z"
       },
       {
-        "time": "22:48",
-        "title": "原子力機構の施設で火災 6月3件目",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584892?source=rss",
-        "publishedAt": "2026-06-19T13:48:43.000Z"
-      },
-      {
         "time": "20:51",
         "title": "ホテルで高校生ら110人 食中毒",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584880?source=rss",
         "publishedAt": "2026-06-19T11:51:56.000Z"
+      },
+      {
+        "time": "19:29",
+        "title": "ランドセルにくぎ いじめ重大事態",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584872?source=rss",
+        "publishedAt": "2026-06-19T10:29:48.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-19T23:58:12.696Z",
+  "updatedAt": "2026-06-20T01:18:06.212Z",
   "items": [
     {
-      "time": "07:33",
-      "title": "台風7号が発生 今後の動向に注意",
+      "time": "09:18",
+      "title": "政府 皇室典範改正案で薄氷の調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584898?source=rss",
-      "publishedAt": "2026-06-19T22:33:11.000Z",
-      "xQuery": "台風7号が発生 今後の動向に注意"
-    },
-    {
-      "time": "08:40",
-      "title": "米イラン合意も 残る再燃の火種",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584908?source=rss",
-      "publishedAt": "2026-06-19T23:40:54.000Z",
-      "xQuery": "米イラン合意も 残る再燃の火種"
+      "url": "https://news.yahoo.co.jp/pickup/6584910?source=rss",
+      "publishedAt": "2026-06-20T00:18:06.000Z",
+      "xQuery": "政府 皇室典範改正案で薄氷の調整"
     },
     {
       "time": "08:19",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "戦略17分野 370兆円超の投資試算"
     },
     {
-      "time": "08:00",
-      "title": "コンゴ避難民30人死亡 エボラ熱か",
+      "time": "09:13",
+      "title": "学校に潜む初期消火の難しさ 解説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584901?source=rss",
-      "publishedAt": "2026-06-19T23:00:18.000Z",
-      "xQuery": "コンゴ避難民30人死亡 エボラ熱か"
+      "url": "https://news.yahoo.co.jp/pickup/6584911?source=rss",
+      "publishedAt": "2026-06-20T00:13:04.000Z",
+      "xQuery": "学校に潜む初期消火の難しさ 解説"
+    },
+    {
+      "time": "08:40",
+      "title": "米イラン合意も 残る再燃の火種",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6584908?source=rss",
+      "publishedAt": "2026-06-19T23:40:54.000Z",
+      "xQuery": "米イラン合意も 残る再燃の火種"
     },
     {
       "time": "08:00",
