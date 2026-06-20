@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-20T16:02:25.574Z",
+  "updatedAt": "2026-06-20T17:03:38.161Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "05:48",
-        "title": "英、グーグル検索に新要件要求 公正な競争環境を確保",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEX3paaFlBR1ZLQTR3X1FFcTcxRW1mU3otd2YySGhwRVcxVXZDQ3hhSFNnWWJiVmNXOU81OW1vMXV1X2JDVnpRcGlVUi1oZjdWYl83aU1MX3IwRVU?oc=5",
-        "publishedAt": "2026-06-19T20:48:39.000Z"
-      },
       {
         "time": "22:04",
         "title": "当局は多くの解決策と取り組みを持っている。",
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzamM5aHlGekpwaUxxZ0kzaVhDTVpCX1Nia3JRZWp4UXZzVm1HUTRxUGQ0UkxJakw2cDJETDd5SnB0d3dlWllFSnRmM181bkVUMnctOHE5NXFBSHFlNW9BbndwSU9FNEdZZG80M213?oc=5",
         "publishedAt": "2026-06-20T13:04:46.000Z"
+      },
+      {
+        "time": "05:48",
+        "title": "英、グーグル検索に新要件要求 公正な競争環境を確保",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEX3paaFlBR1ZLQTR3X1FFcTcxRW1mU3otd2YySGhwRVcxVXZDQ3hhSFNnWWJiVmNXOU81OW1vMXV1X2JDVnpRcGlVUi1oZjdWYl83aU1MX3IwRVU?oc=5",
+        "publishedAt": "2026-06-19T20:48:39.000Z"
       },
       {
         "time": "12:00",
