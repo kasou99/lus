@@ -1,21 +1,7 @@
 {
-  "updatedAt": "2026-06-20T03:49:09.642Z",
+  "updatedAt": "2026-06-20T05:38:41.396Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "14:01",
-        "title": "フエニックス・コンタクト、制御盤貫通用の通信接続製品を特設サイトに追加",
-        "source": "オートメーション新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TUWdZU1NoX1RxdXV3QklLcFh3Qk51ZkhGY2NxQVlUMDJRclc4ZjRjNE5rOTkzTWs3ZFNPUWZVZjkwSnB1RjN0dUpRY3hIeE1MQ3hNMVV5YmRldw?oc=5",
-        "publishedAt": "2026-06-19T05:01:42.000Z"
-      },
-      {
-        "time": "05:48",
-        "title": "英、グーグル検索に新要件要求 公正な競争環境を確保",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEX3paaFlBR1ZLQTR3X1FFcTcxRW1mU3otd2YySGhwRVcxVXZDQ3hhSFNnWWJiVmNXOU81OW1vMXV1X2JDVnpRcGlVUi1oZjdWYl83aU1MX3IwRVU?oc=5",
-        "publishedAt": "2026-06-19T20:48:39.000Z"
-      },
       {
         "time": "19:10",
         "title": "株式会社MadeHere 「メンテナンス・レジリエンス 2026」へ出展。プラント設備保全で発生する\"廃番部品の迅速製造”を提案",
@@ -38,11 +24,11 @@
         "publishedAt": "2026-06-20T03:00:24.000Z"
       },
       {
-        "time": "16:49",
-        "title": "当局は多くの解決策と取り組みを持っている。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzamM5aHlGekpwaUxxZ0kzaVhDTVpCX1Nia3JRZWp4UXZzVm1HUTRxUGQ0UkxJakw2cDJETDd5SnB0d3dlWllFSnRmM181bkVUMnctOHE5NXFBSHFlNW9BbndwSU9FNEdZZG80M213?oc=5",
-        "publishedAt": "2026-06-19T07:49:47.000Z"
+        "time": "18:00",
+        "title": "モーションコントロールの日本市場（～2031年）、市場規模（ハードウェア、アクチュエータおよび機械システム、ドライブ）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IMGR4NVVFcjduZ1VyaFlkaGdfTEtOMEk3di0zdEhjcmxHVVQ5WmZsdWhlVGx1WXY0SnlrZ1J4VlhHRWM0OFBB?oc=5",
+        "publishedAt": "2026-06-19T09:00:00.000Z"
       },
       {
         "time": "20:12",
@@ -52,11 +38,25 @@
         "publishedAt": "2026-06-19T11:12:00.000Z"
       },
       {
+        "time": "16:49",
+        "title": "当局は多くの解決策と取り組みを持っている。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzamM5aHlGekpwaUxxZ0kzaVhDTVpCX1Nia3JRZWp4UXZzVm1HUTRxUGQ0UkxJakw2cDJETDd5SnB0d3dlWllFSnRmM181bkVUMnctOHE5NXFBSHFlNW9BbndwSU9FNEdZZG80M213?oc=5",
+        "publishedAt": "2026-06-19T07:49:47.000Z"
+      },
+      {
         "time": "18:06",
         "title": "ちいかわ×東京スカイツリーのコラボ詳細決定 “ぬい撮り”フォトスポットに限定グッズ続々",
         "source": "thenews.ne.jp",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81eVQtRTgxVDdTN0ZUTmdTakhXOEJ4alkxd2pWSkQ5VlhqcUpRNDZBOWFtb2MtUTN2eldGbXJib2xzMHIyTXU0c3pqcExqM3NWbFNj?oc=5",
         "publishedAt": "2026-06-19T09:06:03.000Z"
+      },
+      {
+        "time": "20:30",
+        "title": "高千穂交易、日本最大級の製造業展示会「第38回ものづくりワールド[東京]」に出展",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13ekRIbEJxNGxJemNVM1hUZGkzWTV5dDN1S3ZJTE1TQUYyYVZpb3hWSF9seHBiQ1JYZmp0OHoyTzdEUy14Si1pVExELXQ1TmJEWXBaTw?oc=5",
+        "publishedAt": "2026-06-19T11:30:15.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "13:29",
+        "title": "小学校火災 教員の迅速判断で避難",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584942?source=rss",
+        "publishedAt": "2026-06-20T04:29:11.000Z"
+      },
+      {
         "time": "09:13",
         "title": "学校に潜む初期消火の難しさ 解説",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584911?source=rss",
         "publishedAt": "2026-06-20T00:13:04.000Z"
-      },
-      {
-        "time": "23:17",
-        "title": "小学校火災 避難緊迫「怖かった」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584894?source=rss",
-        "publishedAt": "2026-06-19T14:17:51.000Z"
       },
       {
         "time": "20:02",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-19T23:00:40.000Z"
       },
       {
+        "time": "13:08",
+        "title": "点検作業中に機械に挟まれる 重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584941?source=rss",
+        "publishedAt": "2026-06-20T04:08:59.000Z"
+      },
+      {
         "time": "20:51",
         "title": "ホテルで高校生ら110人 食中毒",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584880?source=rss",
         "publishedAt": "2026-06-19T11:51:56.000Z"
-      },
-      {
-        "time": "19:29",
-        "title": "ランドセルにくぎ いじめ重大事態",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584872?source=rss",
-        "publishedAt": "2026-06-19T10:29:48.000Z"
       }
     ],
     "subsidyHeadlines": [
