@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-06-20T09:13:22.764Z",
+  "updatedAt": "2026-06-20T10:22:49.319Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "19:10",
-        "title": "株式会社MadeHere 「メンテナンス・レジリエンス 2026」へ出展。プラント設備保全で発生する\"廃番部品の迅速製造”を提案",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44cU1UckVTczV3T3N5VTJyUU41cGlpTktWWDc4RFNGMW91TkR1aWwyeWRJNjF3TDR3RWZ2czd4MVJJVlhrZkVBc01kVmJQU0xaT2NDaHJEbjNSY0FvdThTQ3Q5M3gwdDlfU0ZB?oc=5",
-        "publishedAt": "2026-06-19T10:10:00.000Z"
-      },
-      {
-        "time": "20:12",
-        "title": "日本経済新聞 印刷画面",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYzhqU0R3YXREbDFkSm9RbVBsMHNjSzAtX3QtcnNoelQ4YW96aW5oTmUwN1hhZFlrVlZvdXY5a2EtMkV6Y1BxRndyeXkzOE1mdjNQbXBaWEF2UW40TXVqQXlWTkI5a0F0ckVaTUl1VWhKQVRyWGJrdlRUNUtJZ1dqbm9oalI3NEVGblBHM3hKQUU?oc=5",
-        "publishedAt": "2026-06-19T11:12:00.000Z"
+        "time": "05:48",
+        "title": "英、グーグル検索に新要件要求 公正な競争環境を確保",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEX3paaFlBR1ZLQTR3X1FFcTcxRW1mU3otd2YySGhwRVcxVXZDQ3hhSFNnWWJiVmNXOU81OW1vMXV1X2JDVnpRcGlVUi1oZjdWYl83aU1MX3IwRVU?oc=5",
+        "publishedAt": "2026-06-19T20:48:39.000Z"
       },
       {
         "time": "12:00",
@@ -22,6 +15,13 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16SkV2VUgwbnNaSGpKd1BSREhrQ2o5SjFZem1URzQ4dGkzRS1VY3hEa1Vmc3N0ZEFhTHZ1Q1hmWWFRVW5QeUZlanhZNVhLNHBjRTR4ZA?oc=5",
         "publishedAt": "2026-06-20T03:00:24.000Z"
+      },
+      {
+        "time": "20:12",
+        "title": "日本経済新聞 印刷画面",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYzhqU0R3YXREbDFkSm9RbVBsMHNjSzAtX3QtcnNoelQ4YW96aW5oTmUwN1hhZFlrVlZvdXY5a2EtMkV6Y1BxRndyeXkzOE1mdjNQbXBaWEF2UW40TXVqQXlWTkI5a0F0ckVaTUl1VWhKQVRyWGJrdlRUNUtJZ1dqbm9oalI3NEVGblBHM3hKQUU?oc=5",
+        "publishedAt": "2026-06-19T11:12:00.000Z"
       },
       {
         "time": "12:19",
@@ -61,13 +61,6 @@
     ],
     "worldHeadlines": [
       {
-        "time": "08:40",
-        "title": "米イラン合意も 残る再燃の火種",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584908?source=rss",
-        "publishedAt": "2026-06-19T23:40:54.000Z"
-      },
-      {
         "time": "16:25",
         "title": "イスラエル軍 レバノン南部を空爆",
         "source": "Yahoo!ニュース",
@@ -80,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584951?source=rss",
         "publishedAt": "2026-06-20T05:55:52.000Z"
+      },
+      {
+        "time": "18:56",
+        "title": "ボリビアが非常事態宣言 経済混乱",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584986?source=rss",
+        "publishedAt": "2026-06-20T09:56:03.000Z"
       },
       {
         "time": "15:15",
@@ -126,18 +126,18 @@
         "publishedAt": "2026-06-19T04:22:40.000Z"
       },
       {
+        "time": "18:45",
+        "title": "ビリヤニが静かなブーム 専門店も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584985?source=rss",
+        "publishedAt": "2026-06-20T09:45:58.000Z"
+      },
+      {
         "time": "15:46",
         "title": "AM3時行列 立ち食いそば店の執念",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584959?source=rss",
         "publishedAt": "2026-06-20T06:46:13.000Z"
-      },
-      {
-        "time": "18:19",
-        "title": "湖池屋 ポテチなど8月から値上げ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584865?source=rss",
-        "publishedAt": "2026-06-19T09:19:26.000Z"
       },
       {
         "time": "16:59",
@@ -156,13 +156,6 @@
         "publishedAt": "2026-06-20T04:29:11.000Z"
       },
       {
-        "time": "20:02",
-        "title": "都内小学校火事 校長ら会見で謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584876?source=rss",
-        "publishedAt": "2026-06-19T11:02:34.000Z"
-      },
-      {
         "time": "15:13",
         "title": "頭に10cm痕 81年前の沖縄戦語る",
         "source": "Yahoo!ニュース",
@@ -177,6 +170,13 @@
         "publishedAt": "2026-06-20T09:06:06.000Z"
       },
       {
+        "time": "18:26",
+        "title": "箕島高の野球部でいじめ 校長陳謝",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584984?source=rss",
+        "publishedAt": "2026-06-20T09:26:18.000Z"
+      },
+      {
         "time": "08:00",
         "title": "高校部活で水たばこ 無期限謹慎",
         "source": "Yahoo!ニュース",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-19T23:00:40.000Z"
       },
       {
-        "time": "16:13",
-        "title": "東海大仰星ラグビー部 いじめ認定",
+        "time": "19:12",
+        "title": "クマに襲われ男性ケガ 自力で下山",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584963?source=rss",
-        "publishedAt": "2026-06-20T07:13:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584989?source=rss",
+        "publishedAt": "2026-06-20T10:12:40.000Z"
       }
     ],
     "subsidyHeadlines": [

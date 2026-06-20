@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-20T09:13:23.577Z",
+  "updatedAt": "2026-06-20T10:22:50.242Z",
   "items": [
     {
       "time": "17:52",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "自民支持率が急落 消えた解散効果"
     },
     {
-      "time": "16:18",
-      "title": "エアフォースワンの代替機 公開",
+      "time": "18:56",
+      "title": "ボリビアが非常事態宣言 経済混乱",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584962?source=rss",
-      "publishedAt": "2026-06-20T07:18:44.000Z",
-      "xQuery": "エアフォースワンの代替機 公開"
+      "url": "https://news.yahoo.co.jp/pickup/6584986?source=rss",
+      "publishedAt": "2026-06-20T09:56:03.000Z",
+      "xQuery": "ボリビアが非常事態宣言 経済混乱"
     },
     {
       "time": "17:26",
@@ -27,19 +27,19 @@ window.LUS_X_NEWS = {
     },
     {
       "time": "18:06",
-      "title": "中国で日本ツアー募集 一転し停止",
+      "title": "駐車場ではねられ車の下敷き 重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584982?source=rss",
-      "publishedAt": "2026-06-20T09:06:12.000Z",
-      "xQuery": "中国で日本ツアー募集 一転し停止"
+      "url": "https://news.yahoo.co.jp/pickup/6584980?source=rss",
+      "publishedAt": "2026-06-20T09:06:06.000Z",
+      "xQuery": "駐車場ではねられ車の下敷き 重体"
     },
     {
-      "time": "16:47",
-      "title": "ダンス中に生徒心肺停止 観客救う",
+      "time": "17:38",
+      "title": "フェルメール展 チケ「無理ゲー」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6584970?source=rss",
-      "publishedAt": "2026-06-20T07:47:04.000Z",
-      "xQuery": "ダンス中に生徒心肺停止 観客救う"
+      "url": "https://news.yahoo.co.jp/pickup/6584978?source=rss",
+      "publishedAt": "2026-06-20T08:38:26.000Z",
+      "xQuery": "フェルメール展 チケ「無理ゲー」"
     }
   ]
 };
