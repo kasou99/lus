@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-21T02:25:15.934Z",
+  "updatedAt": "2026-06-21T03:50:00.334Z",
   "items": [
     {
-      "time": "09:17",
-      "title": "個人情報保護法改正案 識者が懸念",
+      "time": "11:46",
+      "title": "森保J チュニジア戦のスタメン",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585048?source=rss",
-      "publishedAt": "2026-06-21T00:17:59.000Z",
-      "xQuery": "個人情報保護法改正案 識者が懸念"
+      "url": "https://news.yahoo.co.jp/pickup/6585067?source=rss",
+      "publishedAt": "2026-06-21T02:46:35.000Z",
+      "xQuery": "森保J チュニジア戦のスタメン"
     },
     {
-      "time": "09:41",
-      "title": "闇バイト? 求人見分けるポイント",
+      "time": "12:38",
+      "title": "イスラエル当局 戦闘停止を命令",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585055?source=rss",
-      "publishedAt": "2026-06-21T00:41:06.000Z",
-      "xQuery": "闇バイト? 求人見分けるポイント"
+      "url": "https://news.yahoo.co.jp/pickup/6585070?source=rss",
+      "publishedAt": "2026-06-21T03:38:55.000Z",
+      "xQuery": "イスラエル当局 戦闘停止を命令"
     },
     {
-      "time": "11:22",
-      "title": "公園で男性刺される 容疑者は逃走",
+      "time": "11:46",
+      "title": "東北北部が梅雨入り 気象庁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585064?source=rss",
-      "publishedAt": "2026-06-21T02:22:21.000Z",
-      "xQuery": "公園で男性刺される 容疑者は逃走"
+      "url": "https://news.yahoo.co.jp/pickup/6585065?source=rss",
+      "publishedAt": "2026-06-21T02:46:58.000Z",
+      "xQuery": "東北北部が梅雨入り 気象庁"
     },
     {
-      "time": "11:14",
-      "title": "ヒグマに襲われ 治療に約300万円",
+      "time": "10:13",
+      "title": "マレーシア EV輸入規制策導入へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585063?source=rss",
-      "publishedAt": "2026-06-21T02:14:37.000Z",
-      "xQuery": "ヒグマに襲われ 治療に約300万円"
+      "url": "https://news.yahoo.co.jp/pickup/6585057?source=rss",
+      "publishedAt": "2026-06-21T01:13:56.000Z",
+      "xQuery": "マレーシア EV輸入規制策導入へ"
     },
     {
-      "time": "10:19",
-      "title": "中国で流通の「痛金」違法商品も",
+      "time": "12:33",
+      "title": "中道落選議員 スキマバイトで収入",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585058?source=rss",
-      "publishedAt": "2026-06-21T01:19:34.000Z",
-      "xQuery": "中国で流通の「痛金」違法商品も"
+      "url": "https://news.yahoo.co.jp/pickup/6585069?source=rss",
+      "publishedAt": "2026-06-21T03:33:00.000Z",
+      "xQuery": "中道落選議員 スキマバイトで収入"
     }
   ]
 };
