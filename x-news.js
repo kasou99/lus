@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-21T01:21:30.217Z",
+  "updatedAt": "2026-06-21T02:25:15.934Z",
   "items": [
     {
-      "time": "09:31",
-      "title": "米がイランの海峡再封鎖否定 報道",
+      "time": "09:17",
+      "title": "個人情報保護法改正案 識者が懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585049?source=rss",
-      "publishedAt": "2026-06-21T00:31:38.000Z",
-      "xQuery": "米がイランの海峡再封鎖否定 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6585048?source=rss",
+      "publishedAt": "2026-06-21T00:17:59.000Z",
+      "xQuery": "個人情報保護法改正案 識者が懸念"
     },
     {
-      "time": "08:21",
-      "title": "中傷動画疑惑 野党が追及加速へ",
+      "time": "09:41",
+      "title": "闇バイト? 求人見分けるポイント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585040?source=rss",
-      "publishedAt": "2026-06-20T23:21:57.000Z",
-      "xQuery": "中傷動画疑惑 野党が追及加速へ"
+      "url": "https://news.yahoo.co.jp/pickup/6585055?source=rss",
+      "publishedAt": "2026-06-21T00:41:06.000Z",
+      "xQuery": "闇バイト? 求人見分けるポイント"
     },
     {
-      "time": "07:39",
-      "title": "公園でランニング中 男性刺される",
+      "time": "11:22",
+      "title": "公園で男性刺される 容疑者は逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585034?source=rss",
-      "publishedAt": "2026-06-20T22:39:13.000Z",
-      "xQuery": "公園でランニング中 男性刺される"
+      "url": "https://news.yahoo.co.jp/pickup/6585064?source=rss",
+      "publishedAt": "2026-06-21T02:22:21.000Z",
+      "xQuery": "公園で男性刺される 容疑者は逃走"
     },
     {
-      "time": "09:48",
-      "title": "麻薬捜査中にピカソ作品発見 仏",
+      "time": "11:14",
+      "title": "ヒグマに襲われ 治療に約300万円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585056?source=rss",
-      "publishedAt": "2026-06-21T00:48:17.000Z",
-      "xQuery": "麻薬捜査中にピカソ作品発見 仏"
+      "url": "https://news.yahoo.co.jp/pickup/6585063?source=rss",
+      "publishedAt": "2026-06-21T02:14:37.000Z",
+      "xQuery": "ヒグマに襲われ 治療に約300万円"
     },
     {
-      "time": "08:50",
-      "title": "ナポレオンジャケット 再ブームか",
+      "time": "10:19",
+      "title": "中国で流通の「痛金」違法商品も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585044?source=rss",
-      "publishedAt": "2026-06-20T23:50:43.000Z",
-      "xQuery": "ナポレオンジャケット 再ブームか"
+      "url": "https://news.yahoo.co.jp/pickup/6585058?source=rss",
+      "publishedAt": "2026-06-21T01:19:34.000Z",
+      "xQuery": "中国で流通の「痛金」違法商品も"
     }
   ]
 };
