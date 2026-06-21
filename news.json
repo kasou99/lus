@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T05:46:41.225Z",
+  "updatedAt": "2026-06-21T07:51:32.924Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-21T01:13:56.000Z"
       },
       {
+        "time": "15:53",
+        "title": "コカコーラ 唐揚げで食事需要開拓",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585091?source=rss",
+        "publishedAt": "2026-06-21T06:53:16.000Z"
+      },
+      {
         "time": "10:37",
         "title": "なぜセブンスムージー半額 分析",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585059?source=rss",
         "publishedAt": "2026-06-21T01:37:31.000Z"
-      },
-      {
-        "time": "18:45",
-        "title": "ビリヤニが静かなブーム 専門店も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584985?source=rss",
-        "publishedAt": "2026-06-20T09:45:58.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,11 @@
         "publishedAt": "2026-06-21T03:38:55.000Z"
       },
       {
-        "time": "07:45",
-        "title": "米イラン 21日からスイスで協議へ",
+        "time": "16:17",
+        "title": "イラン 海峡封鎖圧力で交渉主導か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585035?source=rss",
-        "publishedAt": "2026-06-20T22:45:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585095?source=rss",
+        "publishedAt": "2026-06-21T07:17:19.000Z"
       },
       {
         "time": "23:51",
@@ -82,11 +82,11 @@
         "publishedAt": "2026-06-20T14:51:14.000Z"
       },
       {
-        "time": "09:31",
-        "title": "米がイランの海峡再封鎖否定 報道",
+        "time": "16:13",
+        "title": "米伊首脳 写真撮影巡り対立深める",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585049?source=rss",
-        "publishedAt": "2026-06-21T00:31:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585094?source=rss",
+        "publishedAt": "2026-06-21T07:13:16.000Z"
       },
       {
         "time": "21:04",
@@ -119,6 +119,13 @@
         "publishedAt": "2026-06-21T01:13:56.000Z"
       },
       {
+        "time": "15:53",
+        "title": "コカコーラ 唐揚げで食事需要開拓",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585091?source=rss",
+        "publishedAt": "2026-06-21T06:53:16.000Z"
+      },
+      {
         "time": "10:37",
         "title": "なぜセブンスムージー半額 分析",
         "source": "Yahoo!ニュース",
@@ -126,25 +133,18 @@
         "publishedAt": "2026-06-21T01:37:31.000Z"
       },
       {
+        "time": "15:56",
+        "title": "ラーメン二郎が沖縄で初開店 行列",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585092?source=rss",
+        "publishedAt": "2026-06-21T06:56:40.000Z"
+      },
+      {
         "time": "18:45",
         "title": "ビリヤニが静かなブーム 専門店も",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584985?source=rss",
         "publishedAt": "2026-06-20T09:45:58.000Z"
-      },
-      {
-        "time": "08:58",
-        "title": "1万円超のビニール傘 なぜ製造",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585045?source=rss",
-        "publishedAt": "2026-06-20T23:58:48.000Z"
-      },
-      {
-        "time": "09:01",
-        "title": "氷のうに新市場 背景に危険な暑さ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585046?source=rss",
-        "publishedAt": "2026-06-21T00:01:35.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-21T04:47:31.000Z"
       },
       {
-        "time": "11:22",
-        "title": "公園で男性刺される 容疑者は逃走",
+        "time": "11:14",
+        "title": "ヒグマに襲われ 治療に約300万円",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585064?source=rss",
-        "publishedAt": "2026-06-21T02:22:21.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585063?source=rss",
+        "publishedAt": "2026-06-21T02:14:37.000Z"
       },
       {
-        "time": "21:50",
-        "title": "八田容疑者の逮捕を諦めない 遺族",
+        "time": "22:28",
+        "title": "病院の駐車場ではねられる 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585014?source=rss",
-        "publishedAt": "2026-06-20T12:50:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585020?source=rss",
+        "publishedAt": "2026-06-20T13:28:23.000Z"
       }
     ],
     "subsidyHeadlines": [

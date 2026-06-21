@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-21T05:46:42.323Z",
+  "updatedAt": "2026-06-21T07:51:33.665Z",
   "items": [
     {
-      "time": "14:41",
-      "title": "速報W杯 後半に伊東純也が3点目",
+      "time": "16:17",
+      "title": "イラン 海峡封鎖圧力で交渉主導か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585085?source=rss",
-      "publishedAt": "2026-06-21T05:41:02.000Z",
-      "xQuery": "速報W杯 後半に伊東純也が3点目"
+      "url": "https://news.yahoo.co.jp/pickup/6585095?source=rss",
+      "publishedAt": "2026-06-21T07:17:19.000Z",
+      "xQuery": "イラン 海峡封鎖圧力で交渉主導か"
     },
     {
-      "time": "11:13",
-      "title": "障害福祉運営の不正受給拡大 なぜ",
+      "time": "14:32",
+      "title": "自民幹事長 国会延長しない考え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585062?source=rss",
-      "publishedAt": "2026-06-21T02:13:34.000Z",
-      "xQuery": "障害福祉運営の不正受給拡大 なぜ"
-    },
-    {
-      "time": "14:24",
-      "title": "冷凍庫から遺体 発見時は凍らず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585081?source=rss",
-      "publishedAt": "2026-06-21T05:24:20.000Z",
-      "xQuery": "冷凍庫から遺体 発見時は凍らず"
+      "url": "https://news.yahoo.co.jp/pickup/6585084?source=rss",
+      "publishedAt": "2026-06-21T05:32:38.000Z",
+      "xQuery": "自民幹事長 国会延長しない考え"
     },
     {
       "time": "13:47",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "小学校火事 火元から燃えた衣類"
     },
     {
-      "time": "12:33",
-      "title": "中道落選議員 スキマバイトで収入",
+      "time": "16:13",
+      "title": "黒川紀章氏が設計の平和塔 解体へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585069?source=rss",
-      "publishedAt": "2026-06-21T03:33:00.000Z",
-      "xQuery": "中道落選議員 スキマバイトで収入"
+      "url": "https://news.yahoo.co.jp/pickup/6585093?source=rss",
+      "publishedAt": "2026-06-21T07:13:34.000Z",
+      "xQuery": "黒川紀章氏が設計の平和塔 解体へ"
+    },
+    {
+      "time": "15:53",
+      "title": "コカコーラ 唐揚げで食事需要開拓",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585091?source=rss",
+      "publishedAt": "2026-06-21T06:53:16.000Z",
+      "xQuery": "コカコーラ 唐揚げで食事需要開拓"
     }
   ]
 };
