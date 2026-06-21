@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-21T10:44:08.197Z",
+  "updatedAt": "2026-06-21T11:56:53.229Z",
   "items": [
-    {
-      "time": "16:17",
-      "title": "イラン 海峡封鎖圧力で交渉主導か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585095?source=rss",
-      "publishedAt": "2026-06-21T07:17:19.000Z",
-      "xQuery": "イラン 海峡封鎖圧力で交渉主導か"
-    },
     {
       "time": "18:22",
       "title": "6月猛暑日地点 前年比1%の可能性",
@@ -16,6 +8,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585109?source=rss",
       "publishedAt": "2026-06-21T09:22:52.000Z",
       "xQuery": "6月猛暑日地点 前年比1%の可能性"
+    },
+    {
+      "time": "20:10",
+      "title": "指定ごみ袋不足 中東情勢の余波",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585119?source=rss",
+      "publishedAt": "2026-06-21T11:10:01.000Z",
+      "xQuery": "指定ごみ袋不足 中東情勢の余波"
+    },
+    {
+      "time": "20:48",
+      "title": "内閣支持率が発足以来最低 共同",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585122?source=rss",
+      "publishedAt": "2026-06-21T11:48:27.000Z",
+      "xQuery": "内閣支持率が発足以来最低 共同"
     },
     {
       "time": "13:47",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "小学校火事 火元から燃えた衣類"
     },
     {
-      "time": "16:46",
-      "title": "HIV感染 20年以上薬を飲む男性",
+      "time": "16:37",
+      "title": "大学サイトが詐欺の入口 識者解説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585099?source=rss",
-      "publishedAt": "2026-06-21T07:46:41.000Z",
-      "xQuery": "HIV感染 20年以上薬を飲む男性"
-    },
-    {
-      "time": "18:36",
-      "title": "車に入れば半額「家具詰め放題」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585110?source=rss",
-      "publishedAt": "2026-06-21T09:36:40.000Z",
-      "xQuery": "車に入れば半額「家具詰め放題」"
+      "url": "https://news.yahoo.co.jp/pickup/6585097?source=rss",
+      "publishedAt": "2026-06-21T07:37:45.000Z",
+      "xQuery": "大学サイトが詐欺の入口 識者解説"
     }
   ]
 };

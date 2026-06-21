@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T10:44:07.140Z",
+  "updatedAt": "2026-06-21T11:56:52.468Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "19:50",
+        "title": "米イラン協議へ スイスでの攻防",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585116?source=rss",
+        "publishedAt": "2026-06-21T10:50:48.000Z"
+      },
+      {
         "time": "12:38",
         "title": "イスラエル当局 戦闘停止を命令",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585004?source=rss",
         "publishedAt": "2026-06-20T12:04:44.000Z"
-      },
-      {
-        "time": "18:06",
-        "title": "中国で日本ツアー募集 一転し停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584982?source=rss",
-        "publishedAt": "2026-06-20T09:06:12.000Z"
       }
     ],
     "economyHeadlines": [
