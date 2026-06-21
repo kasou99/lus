@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-21T21:35:47.319Z",
+  "updatedAt": "2026-06-21T22:33:28.679Z",
   "items": [
     {
       "time": "22:50",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン協議 レバノン情勢が焦点"
     },
     {
-      "time": "22:43",
-      "title": "安保3文書「新しい守り方」明記へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585134?source=rss",
-      "publishedAt": "2026-06-21T13:43:58.000Z",
-      "xQuery": "安保3文書「新しい守り方」明記へ"
-    },
-    {
       "time": "06:31",
       "title": "スターマー英首相 近日退任表明か",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スターマー英首相 近日退任表明か"
     },
     {
-      "time": "21:06",
-      "title": "5歳が行方不明 温泉施設で入浴中",
+      "time": "06:59",
+      "title": "旧宮家養子案「反対」32% 毎日",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585125?source=rss",
-      "publishedAt": "2026-06-21T12:06:56.000Z",
-      "xQuery": "5歳が行方不明 温泉施設で入浴中"
+      "url": "https://news.yahoo.co.jp/pickup/6585146?source=rss",
+      "publishedAt": "2026-06-21T21:59:52.000Z",
+      "xQuery": "旧宮家養子案「反対」32% 毎日"
+    },
+    {
+      "time": "06:47",
+      "title": "温泉で5歳不明 川への転落懸念",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585145?source=rss",
+      "publishedAt": "2026-06-21T21:47:27.000Z",
+      "xQuery": "温泉で5歳不明 川への転落懸念"
     },
     {
       "time": "21:59",
