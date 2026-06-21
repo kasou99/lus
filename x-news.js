@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-21T13:40:40.356Z",
+  "updatedAt": "2026-06-21T14:53:21.337Z",
   "items": [
     {
-      "time": "20:48",
-      "title": "内閣支持率が発足以来最低 共同",
+      "time": "22:50",
+      "title": "米イラン協議 レバノン情勢が焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585122?source=rss",
-      "publishedAt": "2026-06-21T11:48:27.000Z",
-      "xQuery": "内閣支持率が発足以来最低 共同"
+      "url": "https://news.yahoo.co.jp/pickup/6585137?source=rss",
+      "publishedAt": "2026-06-21T13:50:19.000Z",
+      "xQuery": "米イラン協議 レバノン情勢が焦点"
     },
     {
-      "time": "21:35",
-      "title": "沖縄戦の住民虐殺 元日本兵が手記",
+      "time": "22:43",
+      "title": "安保3文書「新しい守り方」明記へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585129?source=rss",
-      "publishedAt": "2026-06-21T12:35:59.000Z",
-      "xQuery": "沖縄戦の住民虐殺 元日本兵が手記"
+      "url": "https://news.yahoo.co.jp/pickup/6585134?source=rss",
+      "publishedAt": "2026-06-21T13:43:58.000Z",
+      "xQuery": "安保3文書「新しい守り方」明記へ"
     },
     {
       "time": "21:06",
