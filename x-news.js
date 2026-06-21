@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-21T12:54:47.344Z",
+  "updatedAt": "2026-06-21T13:40:40.356Z",
   "items": [
     {
       "time": "20:48",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585122?source=rss",
       "publishedAt": "2026-06-21T11:48:27.000Z",
       "xQuery": "内閣支持率が発足以来最低 共同"
-    },
-    {
-      "time": "20:10",
-      "title": "指定ごみ袋不足 中東情勢の余波",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585119?source=rss",
-      "publishedAt": "2026-06-21T11:10:01.000Z",
-      "xQuery": "指定ごみ袋不足 中東情勢の余波"
     },
     {
       "time": "21:35",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585125?source=rss",
       "publishedAt": "2026-06-21T12:06:56.000Z",
       "xQuery": "5歳が行方不明 温泉施設で入浴中"
+    },
+    {
+      "time": "21:59",
+      "title": "オートバイの21歳死亡 車と衝突",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585131?source=rss",
+      "publishedAt": "2026-06-21T12:59:19.000Z",
+      "xQuery": "オートバイの21歳死亡 車と衝突"
     },
     {
       "time": "21:38",

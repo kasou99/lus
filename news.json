@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T12:54:46.571Z",
+  "updatedAt": "2026-06-21T13:40:39.562Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1heWdnclNyandQb1E0WmlYanJhS045ZE9yV2lodVAzaDRRS1FsTjU0MEo4M3JoX0RJcEJPTkQ3NTdTX1EyMnY0S2pON3dsRER5dVNGN0ljaHMxWmM?oc=5",
         "publishedAt": "2026-06-20T17:26:46.000Z"
-      },
-      {
-        "time": "22:04",
-        "title": "当局は多くの解決策と取り組みを持っている。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzamM5aHlGekpwaUxxZ0kzaVhDTVpCX1Nia3JRZWp4UXZzVm1HUTRxUGQ0UkxJakw2cDJETDd5SnB0d3dlWllFSnRmM181bkVUMnctOHE5NXFBSHFlNW9BbndwSU9FNEdZZG80M213?oc=5",
-        "publishedAt": "2026-06-20T13:04:46.000Z"
       },
       {
         "time": "20:27",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585110?source=rss",
         "publishedAt": "2026-06-21T09:36:40.000Z"
+      },
+      {
+        "time": "15:53",
+        "title": "コカコーラ 唐揚げで食事需要開拓",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585091?source=rss",
+        "publishedAt": "2026-06-21T06:53:16.000Z"
       }
     ],
     "worldHeadlines": [
