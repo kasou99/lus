@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-21T11:56:53.229Z",
+  "updatedAt": "2026-06-21T12:54:47.344Z",
   "items": [
     {
-      "time": "18:22",
-      "title": "6月猛暑日地点 前年比1%の可能性",
+      "time": "20:48",
+      "title": "内閣支持率が発足以来最低 共同",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585109?source=rss",
-      "publishedAt": "2026-06-21T09:22:52.000Z",
-      "xQuery": "6月猛暑日地点 前年比1%の可能性"
+      "url": "https://news.yahoo.co.jp/pickup/6585122?source=rss",
+      "publishedAt": "2026-06-21T11:48:27.000Z",
+      "xQuery": "内閣支持率が発足以来最低 共同"
     },
     {
       "time": "20:10",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "指定ごみ袋不足 中東情勢の余波"
     },
     {
-      "time": "20:48",
-      "title": "内閣支持率が発足以来最低 共同",
+      "time": "21:35",
+      "title": "沖縄戦の住民虐殺 元日本兵が手記",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585122?source=rss",
-      "publishedAt": "2026-06-21T11:48:27.000Z",
-      "xQuery": "内閣支持率が発足以来最低 共同"
+      "url": "https://news.yahoo.co.jp/pickup/6585129?source=rss",
+      "publishedAt": "2026-06-21T12:35:59.000Z",
+      "xQuery": "沖縄戦の住民虐殺 元日本兵が手記"
     },
     {
-      "time": "13:47",
-      "title": "小学校火事 火元から燃えた衣類",
+      "time": "21:06",
+      "title": "5歳が行方不明 温泉施設で入浴中",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585079?source=rss",
-      "publishedAt": "2026-06-21T04:47:31.000Z",
-      "xQuery": "小学校火事 火元から燃えた衣類"
+      "url": "https://news.yahoo.co.jp/pickup/6585125?source=rss",
+      "publishedAt": "2026-06-21T12:06:56.000Z",
+      "xQuery": "5歳が行方不明 温泉施設で入浴中"
     },
     {
-      "time": "16:37",
-      "title": "大学サイトが詐欺の入口 識者解説",
+      "time": "21:38",
+      "title": "「独身偽装」被害訴える人相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585097?source=rss",
-      "publishedAt": "2026-06-21T07:37:45.000Z",
-      "xQuery": "大学サイトが詐欺の入口 識者解説"
+      "url": "https://news.yahoo.co.jp/pickup/6585128?source=rss",
+      "publishedAt": "2026-06-21T12:38:03.000Z",
+      "xQuery": "「独身偽装」被害訴える人相次ぐ"
     }
   ]
 };

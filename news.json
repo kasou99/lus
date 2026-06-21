@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T11:56:52.468Z",
+  "updatedAt": "2026-06-21T12:54:46.571Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-06-21T02:46:00.000Z"
       },
       {
-        "time": "01:54",
-        "title": "近畿日本ツーリスト沖縄、沖縄観光創出を支援",
+        "time": "02:26",
+        "title": "リコー、30年度にITサービス契約2倍 DX需要に対応",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZNnpYR2w2ODVXdHl0emRNMWdMTWxubjVsRGNXbEp0NmcxX0h0eVVvcHdHWjhmMmh4Z1lnTjdjc3dtVmNBN05fcXpCUzl1UXBJaDcyc0VoZ3VZU1E?oc=5",
-        "publishedAt": "2026-06-20T16:54:38.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1heWdnclNyandQb1E0WmlYanJhS045ZE9yV2lodVAzaDRRS1FsTjU0MEo4M3JoX0RJcEJPTkQ3NTdTX1EyMnY0S2pON3dsRER5dVNGN0ljaHMxWmM?oc=5",
+        "publishedAt": "2026-06-20T17:26:46.000Z"
       },
       {
         "time": "22:04",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "21:35",
+        "title": "沖縄戦の住民虐殺 元日本兵が手記",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585129?source=rss",
+        "publishedAt": "2026-06-21T12:35:59.000Z"
+      },
+      {
         "time": "19:22",
         "title": "森保Jが完勝 試合終わり群衆殺到",
         "source": "Yahoo!ニュース",
@@ -156,18 +163,11 @@
         "publishedAt": "2026-06-21T10:22:40.000Z"
       },
       {
-        "time": "17:11",
-        "title": "性被害訴えた検事 二次被害の実態",
+        "time": "21:06",
+        "title": "5歳が行方不明 温泉施設で入浴中",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585101?source=rss",
-        "publishedAt": "2026-06-21T08:11:06.000Z"
-      },
-      {
-        "time": "11:46",
-        "title": "東北北部が梅雨入り 気象庁",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585065?source=rss",
-        "publishedAt": "2026-06-21T02:46:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585125?source=rss",
+        "publishedAt": "2026-06-21T12:06:56.000Z"
       },
       {
         "time": "17:08",
