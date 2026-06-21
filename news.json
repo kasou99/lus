@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-21T22:33:27.455Z",
+  "updatedAt": "2026-06-21T23:35:53.686Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:02",
-        "title": "セレンディップ、中小製造業の承継後押し 新会社設立",
+        "time": "07:14",
+        "title": "リスキリングで中小のDX後押し 都など、講座提供",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYzFmajd3d1ktZk9aVURKQ0VSbjU4UmlKSmRFWWRBeTdPR2xaZ1pCYVdsX01zeUVZcGRZQ2pFRmtaNmlQb01OdUNRdGhncW9QTXoxdlVBdHlCbEU?oc=5",
-        "publishedAt": "2026-06-21T20:02:01.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqbW9nWkxjSkVDNnpQa3J2VnJ6bXhyak4wRlU3WGxsOFhQV2NZU0YtUDBpcTFEOFR0VHJoWHhEN3JLNy1nU1ZKV2JROHlkZ1VjdHhMc2x5alQ5MVM1ajh4Q3dCVC1DQ1ZraFo5bEVoVlJVQnc3?oc=5",
+        "publishedAt": "2026-06-21T22:14:43.000Z"
       },
       {
         "time": "06:30",
@@ -31,6 +31,13 @@
         "publishedAt": "2026-06-21T22:15:00.000Z"
       },
       {
+        "time": "05:00",
+        "title": "富士通・日本IBMが協業 大型汎用機を最新化",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zVjZ1VGpfcjhHZ1kwWjlRZmMtd0I5QWxCcDM4NHpqWnVfWWpDc09ySHlidXFIXzkwUTB2OHd0b3p2RDZJTG5DYXZsRDd0Ti1leWpOa3pyOC1manM?oc=5",
+        "publishedAt": "2026-06-21T20:00:00.000Z"
+      },
+      {
         "time": "11:46",
         "title": "金属加工のウラノ／３０年売上高６割増、１００億円目指す／半導体製造装置向けなど捕捉／群馬にマシニングセンタ増設",
         "source": "nikkinonline.com",
@@ -50,16 +57,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585113?source=rss",
         "publishedAt": "2026-06-21T10:14:26.000Z"
-      },
-      {
-        "time": "10:13",
-        "title": "マレーシア EV輸入規制策導入へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585057?source=rss",
-        "publishedAt": "2026-06-21T01:13:56.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "08:25",
+        "title": "米との協議 イラン代表団が退席",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585155?source=rss",
+        "publishedAt": "2026-06-21T23:25:01.000Z"
+      },
       {
         "time": "22:50",
         "title": "米イラン協議 レバノン情勢が焦点",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585070?source=rss",
         "publishedAt": "2026-06-21T03:38:55.000Z"
-      },
-      {
-        "time": "16:17",
-        "title": "イラン 海峡封鎖圧力で交渉主導か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585095?source=rss",
-        "publishedAt": "2026-06-21T07:17:19.000Z"
       },
       {
         "time": "06:31",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:34",
+        "title": "旭川17歳殺害 内田被告きょう判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585149?source=rss",
+        "publishedAt": "2026-06-21T22:34:16.000Z"
+      },
+      {
         "time": "21:35",
         "title": "沖縄戦の住民虐殺 元日本兵が手記",
         "source": "Yahoo!ニュース",
@@ -156,25 +163,18 @@
         "publishedAt": "2026-06-21T12:35:59.000Z"
       },
       {
+        "time": "08:31",
+        "title": "温泉入浴中5歳不明 川中心に捜索",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585156?source=rss",
+        "publishedAt": "2026-06-21T23:31:34.000Z"
+      },
+      {
         "time": "19:22",
         "title": "森保Jが完勝 試合終わり群衆殺到",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585114?source=rss",
         "publishedAt": "2026-06-21T10:22:40.000Z"
-      },
-      {
-        "time": "06:47",
-        "title": "温泉で5歳不明 川への転落懸念",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585145?source=rss",
-        "publishedAt": "2026-06-21T21:47:27.000Z"
-      },
-      {
-        "time": "17:08",
-        "title": "集合住宅の廊下で血流す女性 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585102?source=rss",
-        "publishedAt": "2026-06-21T08:08:13.000Z"
       },
       {
         "time": "14:24",
