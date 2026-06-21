@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T23:33:29.248Z",
+  "updatedAt": "2026-06-21T01:21:29.458Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,11 @@
         "publishedAt": "2026-06-20T11:27:37.000Z"
       },
       {
-        "time": "08:28",
-        "title": "異業種のコメ生産 本格参入相次ぐ",
+        "time": "10:13",
+        "title": "マレーシア EV輸入規制策導入へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584907?source=rss",
-        "publishedAt": "2026-06-19T23:28:00.000Z"
-      },
-      {
-        "time": "13:22",
-        "title": "日清 カップ焼きそば28万個回収",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584828?source=rss",
-        "publishedAt": "2026-06-19T04:22:40.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585057?source=rss",
+        "publishedAt": "2026-06-21T01:13:56.000Z"
       },
       {
         "time": "22:15",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585017?source=rss",
         "publishedAt": "2026-06-20T13:15:54.000Z"
+      },
+      {
+        "time": "18:45",
+        "title": "ビリヤニが静かなブーム 専門店も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6584985?source=rss",
+        "publishedAt": "2026-06-20T09:45:58.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,11 +75,11 @@
         "publishedAt": "2026-06-20T14:51:14.000Z"
       },
       {
-        "time": "16:25",
-        "title": "イスラエル軍 レバノン南部を空爆",
+        "time": "09:31",
+        "title": "米がイランの海峡再封鎖否定 報道",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584965?source=rss",
-        "publishedAt": "2026-06-20T07:25:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585049?source=rss",
+        "publishedAt": "2026-06-21T00:31:38.000Z"
       },
       {
         "time": "14:55",
@@ -96,11 +96,11 @@
         "publishedAt": "2026-06-20T12:04:44.000Z"
       },
       {
-        "time": "21:35",
-        "title": "北朝鮮ミサイル 精度向上とウ当局",
+        "time": "18:06",
+        "title": "中国で日本ツアー募集 一転し停止",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585005?source=rss",
-        "publishedAt": "2026-06-20T12:35:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584982?source=rss",
+        "publishedAt": "2026-06-20T09:06:12.000Z"
       }
     ],
     "economyHeadlines": [
@@ -112,18 +112,11 @@
         "publishedAt": "2026-06-20T11:27:37.000Z"
       },
       {
-        "time": "08:28",
-        "title": "異業種のコメ生産 本格参入相次ぐ",
+        "time": "10:13",
+        "title": "マレーシア EV輸入規制策導入へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584907?source=rss",
-        "publishedAt": "2026-06-19T23:28:00.000Z"
-      },
-      {
-        "time": "13:22",
-        "title": "日清 カップ焼きそば28万個回収",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584828?source=rss",
-        "publishedAt": "2026-06-19T04:22:40.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585057?source=rss",
+        "publishedAt": "2026-06-21T01:13:56.000Z"
       },
       {
         "time": "22:15",
@@ -140,11 +133,18 @@
         "publishedAt": "2026-06-20T09:45:58.000Z"
       },
       {
-        "time": "15:46",
-        "title": "AM3時行列 立ち食いそば店の執念",
+        "time": "08:58",
+        "title": "1万円超のビニール傘 なぜ製造",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584959?source=rss",
-        "publishedAt": "2026-06-20T06:46:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585045?source=rss",
+        "publishedAt": "2026-06-20T23:58:48.000Z"
+      },
+      {
+        "time": "09:01",
+        "title": "氷のうに新市場 背景に危険な暑さ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585046?source=rss",
+        "publishedAt": "2026-06-21T00:01:35.000Z"
       }
     ],
     "localHeadlines": [

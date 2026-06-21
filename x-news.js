@@ -1,37 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-20T23:33:30.025Z",
+  "updatedAt": "2026-06-21T01:21:30.217Z",
   "items": [
     {
-      "time": "07:45",
-      "title": "米イラン 21日からスイスで協議へ",
+      "time": "09:31",
+      "title": "米がイランの海峡再封鎖否定 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585035?source=rss",
-      "publishedAt": "2026-06-20T22:45:53.000Z",
-      "xQuery": "米イラン 21日からスイスで協議へ"
+      "url": "https://news.yahoo.co.jp/pickup/6585049?source=rss",
+      "publishedAt": "2026-06-21T00:31:38.000Z",
+      "xQuery": "米がイランの海峡再封鎖否定 報道"
     },
     {
-      "time": "23:51",
-      "title": "イラン ホルムズを封鎖したと声明",
+      "time": "08:21",
+      "title": "中傷動画疑惑 野党が追及加速へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585027?source=rss",
-      "publishedAt": "2026-06-20T14:51:14.000Z",
-      "xQuery": "イラン ホルムズを封鎖したと声明"
-    },
-    {
-      "time": "07:32",
-      "title": "政府 北極政策の基本方針改定検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585032?source=rss",
-      "publishedAt": "2026-06-20T22:32:26.000Z",
-      "xQuery": "政府 北極政策の基本方針改定検討"
-    },
-    {
-      "time": "07:36",
-      "title": "冷凍庫から遺体 損壊され腐敗進む",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585033?source=rss",
-      "publishedAt": "2026-06-20T22:36:08.000Z",
-      "xQuery": "冷凍庫から遺体 損壊され腐敗進む"
+      "url": "https://news.yahoo.co.jp/pickup/6585040?source=rss",
+      "publishedAt": "2026-06-20T23:21:57.000Z",
+      "xQuery": "中傷動画疑惑 野党が追及加速へ"
     },
     {
       "time": "07:39",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585034?source=rss",
       "publishedAt": "2026-06-20T22:39:13.000Z",
       "xQuery": "公園でランニング中 男性刺される"
+    },
+    {
+      "time": "09:48",
+      "title": "麻薬捜査中にピカソ作品発見 仏",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585056?source=rss",
+      "publishedAt": "2026-06-21T00:48:17.000Z",
+      "xQuery": "麻薬捜査中にピカソ作品発見 仏"
+    },
+    {
+      "time": "08:50",
+      "title": "ナポレオンジャケット 再ブームか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585044?source=rss",
+      "publishedAt": "2026-06-20T23:50:43.000Z",
+      "xQuery": "ナポレオンジャケット 再ブームか"
     }
   ]
 };
