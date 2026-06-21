@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T20:39:43.209Z",
+  "updatedAt": "2026-06-21T21:35:46.672Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44cU1UckVTczV3T3N5VTJyUU41cGlpTktWWDc4RFNGMW91TkR1aWwyeWRJNjF3TDR3RWZ2czd4MVJJVlhrZkVBc01kVmJQU0xaT2NDaHJEbjNSY0FvdThTQ3Q5M3gwdDlfU0ZB?oc=5",
         "publishedAt": "2026-06-21T16:10:00.000Z"
+      },
+      {
+        "time": "17:51",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaFpLSjJWT1lNd1ZPNGpMbUhnLUh3VmhlVGZmdy1rZnZRdVM0aDA4SUJOenJnel9GMUdhdkFHNS1XLUVKSjlNTHRtX1FFb1hJeDlCQ2ktci0zOUV5Ni1tZUMxVV9XRVV4dEFkdDhvSld0bF9CR1h4MXJEbVZoOEQ0S0p0Qk5uc1I5SHN1N3BIbVVWMVBNZTRfTzRaejVKMWFCUWF3YXh2TzFSOXAyYmlDaGJ0am53Tm8?oc=5",
+        "publishedAt": "2026-06-21T08:51:27.000Z"
       },
       {
         "time": "11:46",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585100?source=rss",
         "publishedAt": "2026-06-21T08:05:54.000Z"
-      },
-      {
-        "time": "18:36",
-        "title": "車に入れば半額「家具詰め放題」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585110?source=rss",
-        "publishedAt": "2026-06-21T09:36:40.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,11 +82,11 @@
         "publishedAt": "2026-06-21T07:17:19.000Z"
       },
       {
-        "time": "23:51",
-        "title": "イラン ホルムズを封鎖したと声明",
+        "time": "06:31",
+        "title": "スターマー英首相 近日退任表明か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585027?source=rss",
-        "publishedAt": "2026-06-20T14:51:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585143?source=rss",
+        "publishedAt": "2026-06-21T21:31:51.000Z"
       },
       {
         "time": "16:13",

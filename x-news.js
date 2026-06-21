@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-21T20:39:44.157Z",
+  "updatedAt": "2026-06-21T21:35:47.319Z",
   "items": [
     {
       "time": "22:50",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "安保3文書「新しい守り方」明記へ"
     },
     {
+      "time": "06:31",
+      "title": "スターマー英首相 近日退任表明か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585143?source=rss",
+      "publishedAt": "2026-06-21T21:31:51.000Z",
+      "xQuery": "スターマー英首相 近日退任表明か"
+    },
+    {
       "time": "21:06",
       "title": "5歳が行方不明 温泉施設で入浴中",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585131?source=rss",
       "publishedAt": "2026-06-21T12:59:19.000Z",
       "xQuery": "オートバイの21歳死亡 車と衝突"
-    },
-    {
-      "time": "21:38",
-      "title": "「独身偽装」被害訴える人相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585128?source=rss",
-      "publishedAt": "2026-06-21T12:38:03.000Z",
-      "xQuery": "「独身偽装」被害訴える人相次ぐ"
     }
   ]
 };
