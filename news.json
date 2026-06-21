@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-21T03:49:59.556Z",
+  "updatedAt": "2026-06-21T05:46:41.225Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "11:46",
+        "title": "金属加工のウラノ／３０年売上高６割増、１００億円目指す／半導体製造装置向けなど捕捉／群馬にマシニングセンタ増設",
+        "source": "nikkinonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmTkJrdnFQQjlzdlA4RXh6cEZ4em5fa1dIU2h2bXVnUE9taGlvTl9PWDdHc3RZSjVfYjdpaVk2bldIV25HUEpaMjBpd1oyWmFuMUhLWXgxVFZkYmxYRTEzM0xFblA?oc=5",
+        "publishedAt": "2026-06-21T02:46:00.000Z"
+      },
       {
         "time": "01:54",
         "title": "近畿日本ツーリスト沖縄、沖縄観光創出を支援",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6584985?source=rss",
         "publishedAt": "2026-06-20T09:45:58.000Z"
-      },
-      {
-        "time": "08:58",
-        "title": "1万円超のビニール傘 なぜ製造",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585045?source=rss",
-        "publishedAt": "2026-06-20T23:58:48.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-06-21T02:46:58.000Z"
       },
       {
+        "time": "14:24",
+        "title": "冷凍庫から遺体 発見時は凍らず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585081?source=rss",
+        "publishedAt": "2026-06-21T05:24:20.000Z"
+      },
+      {
         "time": "07:36",
         "title": "冷凍庫から遺体 損壊され腐敗進む",
         "source": "Yahoo!ニュース",
@@ -163,11 +170,11 @@
         "publishedAt": "2026-06-20T22:36:08.000Z"
       },
       {
-        "time": "21:43",
-        "title": "マンションで損壊された遺体発見",
+        "time": "13:47",
+        "title": "小学校火事 火元から燃えた衣類",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585012?source=rss",
-        "publishedAt": "2026-06-20T12:43:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585079?source=rss",
+        "publishedAt": "2026-06-21T04:47:31.000Z"
       },
       {
         "time": "11:22",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585014?source=rss",
         "publishedAt": "2026-06-20T12:50:46.000Z"
-      },
-      {
-        "time": "11:14",
-        "title": "ヒグマに襲われ 治療に約300万円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585063?source=rss",
-        "publishedAt": "2026-06-21T02:14:37.000Z"
       }
     ],
     "subsidyHeadlines": [

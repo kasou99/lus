@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-21T03:50:00.334Z",
+  "updatedAt": "2026-06-21T05:46:42.323Z",
   "items": [
     {
-      "time": "11:46",
-      "title": "森保J チュニジア戦のスタメン",
+      "time": "14:41",
+      "title": "速報W杯 後半に伊東純也が3点目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585067?source=rss",
-      "publishedAt": "2026-06-21T02:46:35.000Z",
-      "xQuery": "森保J チュニジア戦のスタメン"
+      "url": "https://news.yahoo.co.jp/pickup/6585085?source=rss",
+      "publishedAt": "2026-06-21T05:41:02.000Z",
+      "xQuery": "速報W杯 後半に伊東純也が3点目"
     },
     {
-      "time": "12:38",
-      "title": "イスラエル当局 戦闘停止を命令",
+      "time": "11:13",
+      "title": "障害福祉運営の不正受給拡大 なぜ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585070?source=rss",
-      "publishedAt": "2026-06-21T03:38:55.000Z",
-      "xQuery": "イスラエル当局 戦闘停止を命令"
+      "url": "https://news.yahoo.co.jp/pickup/6585062?source=rss",
+      "publishedAt": "2026-06-21T02:13:34.000Z",
+      "xQuery": "障害福祉運営の不正受給拡大 なぜ"
     },
     {
-      "time": "11:46",
-      "title": "東北北部が梅雨入り 気象庁",
+      "time": "14:24",
+      "title": "冷凍庫から遺体 発見時は凍らず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585065?source=rss",
-      "publishedAt": "2026-06-21T02:46:58.000Z",
-      "xQuery": "東北北部が梅雨入り 気象庁"
+      "url": "https://news.yahoo.co.jp/pickup/6585081?source=rss",
+      "publishedAt": "2026-06-21T05:24:20.000Z",
+      "xQuery": "冷凍庫から遺体 発見時は凍らず"
     },
     {
-      "time": "10:13",
-      "title": "マレーシア EV輸入規制策導入へ",
+      "time": "13:47",
+      "title": "小学校火事 火元から燃えた衣類",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585057?source=rss",
-      "publishedAt": "2026-06-21T01:13:56.000Z",
-      "xQuery": "マレーシア EV輸入規制策導入へ"
+      "url": "https://news.yahoo.co.jp/pickup/6585079?source=rss",
+      "publishedAt": "2026-06-21T04:47:31.000Z",
+      "xQuery": "小学校火事 火元から燃えた衣類"
     },
     {
       "time": "12:33",
