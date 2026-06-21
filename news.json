@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-21T19:37:25.772Z",
+  "updatedAt": "2026-06-21T20:39:43.209Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:02",
+        "title": "セレンディップ、中小製造業の承継後押し 新会社設立",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYzFmajd3d1ktZk9aVURKQ0VSbjU4UmlKSmRFWWRBeTdPR2xaZ1pCYVdsX01zeUVZcGRZQ2pFRmtaNmlQb01OdUNRdGhncW9QTXoxdlVBdHlCbEU?oc=5",
+        "publishedAt": "2026-06-21T20:02:01.000Z"
+      },
       {
         "time": "01:10",
         "title": "株式会社MadeHere 「メンテナンス・レジリエンス 2026」へ出展。プラント設備保全で発生する\"廃番部品の迅速製造”を提案",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585110?source=rss",
         "publishedAt": "2026-06-21T09:36:40.000Z"
-      },
-      {
-        "time": "15:53",
-        "title": "コカコーラ 唐揚げで食事需要開拓",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585091?source=rss",
-        "publishedAt": "2026-06-21T06:53:16.000Z"
       }
     ],
     "worldHeadlines": [
