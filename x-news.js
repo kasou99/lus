@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-21T07:51:33.665Z",
+  "updatedAt": "2026-06-21T09:25:37.437Z",
   "items": [
     {
       "time": "16:17",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン 海峡封鎖圧力で交渉主導か"
     },
     {
-      "time": "14:32",
-      "title": "自民幹事長 国会延長しない考え",
+      "time": "17:11",
+      "title": "性被害訴えた検事 二次被害の実態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585084?source=rss",
-      "publishedAt": "2026-06-21T05:32:38.000Z",
-      "xQuery": "自民幹事長 国会延長しない考え"
+      "url": "https://news.yahoo.co.jp/pickup/6585101?source=rss",
+      "publishedAt": "2026-06-21T08:11:06.000Z",
+      "xQuery": "性被害訴えた検事 二次被害の実態"
     },
     {
-      "time": "13:47",
-      "title": "小学校火事 火元から燃えた衣類",
+      "time": "16:46",
+      "title": "HIV感染 20年以上薬を飲む男性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585079?source=rss",
-      "publishedAt": "2026-06-21T04:47:31.000Z",
-      "xQuery": "小学校火事 火元から燃えた衣類"
+      "url": "https://news.yahoo.co.jp/pickup/6585099?source=rss",
+      "publishedAt": "2026-06-21T07:46:41.000Z",
+      "xQuery": "HIV感染 20年以上薬を飲む男性"
     },
     {
-      "time": "16:13",
-      "title": "黒川紀章氏が設計の平和塔 解体へ",
+      "time": "17:05",
+      "title": "ジャングリア なぜ口コミが回復",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585093?source=rss",
-      "publishedAt": "2026-06-21T07:13:34.000Z",
-      "xQuery": "黒川紀章氏が設計の平和塔 解体へ"
+      "url": "https://news.yahoo.co.jp/pickup/6585100?source=rss",
+      "publishedAt": "2026-06-21T08:05:54.000Z",
+      "xQuery": "ジャングリア なぜ口コミが回復"
     },
     {
-      "time": "15:53",
-      "title": "コカコーラ 唐揚げで食事需要開拓",
+      "time": "13:23",
+      "title": "海外製天気アプリ 相次ぐ誤情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585091?source=rss",
-      "publishedAt": "2026-06-21T06:53:16.000Z",
-      "xQuery": "コカコーラ 唐揚げで食事需要開拓"
+      "url": "https://news.yahoo.co.jp/pickup/6585073?source=rss",
+      "publishedAt": "2026-06-21T04:23:06.000Z",
+      "xQuery": "海外製天気アプリ 相次ぐ誤情報"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T07:51:32.924Z",
+  "updatedAt": "2026-06-21T09:25:36.903Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZNnpYR2w2ODVXdHl0emRNMWdMTWxubjVsRGNXbEp0NmcxX0h0eVVvcHdHWjhmMmh4Z1lnTjdjc3dtVmNBN05fcXpCUzl1UXBJaDcyc0VoZ3VZU1E?oc=5",
         "publishedAt": "2026-06-20T16:54:38.000Z"
-      },
-      {
-        "time": "17:13",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-06-20T08:13:36.000Z"
       },
       {
         "time": "22:04",
@@ -43,6 +36,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585057?source=rss",
         "publishedAt": "2026-06-21T01:13:56.000Z"
+      },
+      {
+        "time": "17:05",
+        "title": "ジャングリア なぜ口コミが回復",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585100?source=rss",
+        "publishedAt": "2026-06-21T08:05:54.000Z"
       },
       {
         "time": "15:53",
@@ -119,6 +119,13 @@
         "publishedAt": "2026-06-21T01:13:56.000Z"
       },
       {
+        "time": "17:05",
+        "title": "ジャングリア なぜ口コミが回復",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585100?source=rss",
+        "publishedAt": "2026-06-21T08:05:54.000Z"
+      },
+      {
         "time": "15:53",
         "title": "コカコーラ 唐揚げで食事需要開拓",
         "source": "Yahoo!ニュース",
@@ -138,16 +145,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585092?source=rss",
         "publishedAt": "2026-06-21T06:56:40.000Z"
-      },
-      {
-        "time": "18:45",
-        "title": "ビリヤニが静かなブーム 専門店も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584985?source=rss",
-        "publishedAt": "2026-06-20T09:45:58.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "17:11",
+        "title": "性被害訴えた検事 二次被害の実態",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585101?source=rss",
+        "publishedAt": "2026-06-21T08:11:06.000Z"
+      },
       {
         "time": "11:46",
         "title": "東北北部が梅雨入り 気象庁",
@@ -156,18 +163,18 @@
         "publishedAt": "2026-06-21T02:46:58.000Z"
       },
       {
+        "time": "17:08",
+        "title": "集合住宅の廊下で血流す女性 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585102?source=rss",
+        "publishedAt": "2026-06-21T08:08:13.000Z"
+      },
+      {
         "time": "14:24",
         "title": "冷凍庫から遺体 発見時は凍らず",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585081?source=rss",
         "publishedAt": "2026-06-21T05:24:20.000Z"
-      },
-      {
-        "time": "07:36",
-        "title": "冷凍庫から遺体 損壊され腐敗進む",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585033?source=rss",
-        "publishedAt": "2026-06-20T22:36:08.000Z"
       },
       {
         "time": "13:47",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585063?source=rss",
         "publishedAt": "2026-06-21T02:14:37.000Z"
-      },
-      {
-        "time": "22:28",
-        "title": "病院の駐車場ではねられる 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585020?source=rss",
-        "publishedAt": "2026-06-20T13:28:23.000Z"
       }
     ],
     "subsidyHeadlines": [
