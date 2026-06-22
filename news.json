@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-06-22T18:49:00.621Z",
+  "updatedAt": "2026-06-22T20:06:32.970Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "中国レアアース規制が揺さぶるモーター生産 技術流出、磁石の二の舞い回避を",
+        "source": "日経ビジネス電子版",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vbzhFblhHZWVkOHRfNWNsWGFJYkI0a3hKQW8xUDhHN0RjeXZkbEw4eG9kS0lhYWRkaExzMGM2N0x2RFY0ZTFUXzZQVFJYVDFON1NHcEJIR2NFTTk0b2xwb0h2TGExM2c?oc=5",
+        "publishedAt": "2026-06-22T20:00:00.000Z"
+      },
+      {
+        "time": "05:04",
+        "title": "ニュース拡大鏡／NEDO、技術開発サミット イノベ創出、産学官で議論",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xYmZsY3R6b0s3WUNuaUtRbUgtbV9RMnV1dW9tYjZVU1lVckVXd2toZ09aMkdUOW9OWFN3Z0RmdGFwbm1jNTdQSzQ2dnFLLXUxZnc2dXNkdEFWRm8?oc=5",
+        "publishedAt": "2026-06-22T20:04:11.000Z"
+      },
       {
         "time": "09:58",
         "title": "半導体関連部品や工作機械部品向けの金属表面処理（めっき）を主力事業とする株式会社冨士鍍金工業所が三鷹金属工業株式会社の金属表面処理（めっき）事業を買収",
@@ -17,25 +31,11 @@
         "publishedAt": "2026-06-21T22:15:00.000Z"
       },
       {
-        "time": "18:30",
-        "title": "超高速電動スピンドルの世界市場（2026年～2032年）、市場規模（空冷式電動スピンドル、水冷式電動スピンドル、油冷式電動スピンドル）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xaGxLeUFZdXpENXJJenpSUElSZC05OXJoTUc3ZlBUTEgwRU1pZGJsNFQwYVplbEU3dFlCR1ZHb2tMUjhqd2VxYkpTR1A5cm8?oc=5",
-        "publishedAt": "2026-06-22T09:30:00.000Z"
-      },
-      {
-        "time": "11:47",
-        "title": "ファナックが急騰、政府「フィジカルAI」に10.5兆円投資方針で関連株に買い殺到",
-        "source": "finance.biggo.jp",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBscHBhRDZSM1NvYmI3Szh2UHNabGV5RUdERjhkRnN2RjVrWHhOOUI1TGtRellqakY1VWx3V3hwNFNHMEtwbURBQkhnWjJfektIUEV5R1lXRmhKQV9EemhkaGJYaVFpWjB5TlBFeDdRUnZSMlAx?oc=5",
-        "publishedAt": "2026-06-22T02:47:00.000Z"
-      },
-      {
-        "time": "05:01",
-        "title": "セレンディップ、中小製造業の承継後押し 新会社設立",
+        "time": "05:04",
+        "title": "ニコン、後工程向け「デジタル露光装置」大型基板に照準",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYzFmajd3d1ktZk9aVURKQ0VSbjU4UmlKSmRFWWRBeTdPR2xaZ1pCYVdsX01zeUVZcGRZQ2pFRmtaNmlQb01OdUNRdGhncW9QTXoxdlVBdHlCbEU?oc=5",
-        "publishedAt": "2026-06-21T20:01:02.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrR2hOdjNJUFUyeVFkaFhLejN2MlhOd1Vka3dicXdCdW1MczZlcDBfS0Y0VHNGU1VlZmdSRFpwWERfWjZ1VEluMVVFWFQ5d2ZWbHhKX28xVmZRcm8?oc=5",
+        "publishedAt": "2026-06-22T20:04:11.000Z"
       },
       {
         "time": "17:00",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-22T08:00:19.000Z"
       },
       {
-        "time": "06:30",
-        "title": "エッジAIと無線リモコンを融合、DMG MORI Digitalが建機操作支援システム：第8回 国際 建設・測量展 CSPI 2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04ZE9VTmFrVUU1dEFvWDBIc2VQN01qUkRjQlBwa0RHTkM2cVJfV01lbHdJX3hCYjF4NVRiZTZyYTEwUHlVTzQ3T244T1VaeHNlTGx1QTVqTWN0TDlDMThUcUh6VWtFTlJINnlsVm1ocw?oc=5",
-        "publishedAt": "2026-06-21T21:30:00.000Z"
+        "time": "11:47",
+        "title": "ファナックが急騰、政府「フィジカルAI」に10.5兆円投資方針で関連株に買い殺到",
+        "source": "finance.biggo.jp",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBscHBhRDZSM1NvYmI3Szh2UHNabGV5RUdERjhkRnN2RjVrWHhOOUI1TGtRellqakY1VWx3V3hwNFNHMEtwbURBQkhnWjJfektIUEV5R1lXRmhKQV9EemhkaGJYaVFpWjB5TlBFeDdRUnZSMlAx?oc=5",
+        "publishedAt": "2026-06-22T02:47:00.000Z"
       },
       {
-        "time": "15:48",
-        "title": "エレベーター・エスカレーター製造の技能競技大会を開催",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IbG1jQm5mbDVPTGJVelZVb2NXZDRHcWtreFdISzBmQjkzMDhTRmVGTy1NTjIzdzlBWE5rTjAyaGlmeGN3d0V2ZHZLNUF2aG9RcV91bA?oc=5",
-        "publishedAt": "2026-06-22T06:48:33.000Z"
+        "time": "05:04",
+        "title": "さあ出番／オーエム製作所社長に就任する水田博氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxLURUUzRxaWVVRlI1cy00Z0szVkg0RmtSdDM5STFRYklFSjJucnlfZjd4QUw3eWlPVXlQMkl3eXExLUgzYjZiWFFXQkd4bll0WU95LTAwMFFGaDQ?oc=5",
+        "publishedAt": "2026-06-22T20:04:11.000Z"
       }
     ],
     "worldHeadlines": [
