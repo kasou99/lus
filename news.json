@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T22:15:19.313Z",
+  "updatedAt": "2026-06-22T23:03:05.987Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-06-22T20:56:52.000Z"
       },
       {
-        "time": "11:09",
-        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyME9hR2xaYm5UcFVhem4welJhN0RYc1NSeUFtTTV0dkFuMFc2TGRCZnBnVmRzb1BIQUJxQVhWbHcwbFBRaWRUQWxuUkttcUR4S0xQZ3U3LXRsakhNaVJIM0xjZ20?oc=5",
-        "publishedAt": "2026-06-22T02:09:35.000Z"
+        "time": "18:30",
+        "title": "超高速電動スピンドルの世界市場（2026年～2032年）、市場規模（空冷式電動スピンドル、水冷式電動スピンドル、油冷式電動スピンドル）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xaGxLeUFZdXpENXJJenpSUElSZC05OXJoTUc3ZlBUTEgwRU1pZGJsNFQwYVplbEU3dFlCR1ZHb2tMUjhqd2VxYkpTR1A5cm8?oc=5",
+        "publishedAt": "2026-06-22T09:30:00.000Z"
       },
       {
         "time": "17:00",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "15:48",
-        "title": "日経平均終値 初の7万2000円超え",
+        "time": "07:29",
+        "title": "円 一時39年半ぶり安値に肉薄",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585206?source=rss",
-        "publishedAt": "2026-06-22T06:48:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585285?source=rss",
+        "publishedAt": "2026-06-22T22:29:36.000Z"
       },
       {
         "time": "17:38",
@@ -170,13 +170,6 @@
         "publishedAt": "2026-06-22T07:25:30.000Z"
       },
       {
-        "time": "22:38",
-        "title": "鹿児島5歳不明 22日も発見至らず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585268?source=rss",
-        "publishedAt": "2026-06-22T13:38:05.000Z"
-      },
-      {
         "time": "19:33",
         "title": "温泉施設5歳不明 父悲痛な胸の内",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585274?source=rss",
         "publishedAt": "2026-06-22T14:33:29.000Z"
+      },
+      {
+        "time": "18:23",
+        "title": "「東北の麻薬王」ら17人を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585237?source=rss",
+        "publishedAt": "2026-06-22T09:23:37.000Z"
       }
     ],
     "subsidyHeadlines": [

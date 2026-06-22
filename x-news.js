@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-22T22:15:20.490Z",
+  "updatedAt": "2026-06-22T23:03:07.260Z",
   "items": [
     {
       "time": "06:41",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "沖縄慰霊の日 問われる平和学習"
     },
     {
-      "time": "23:58",
-      "title": "円安協議か 日米財務相が緊急会談",
+      "time": "07:17",
+      "title": "「地域未来戦略」概要案が判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585277?source=rss",
-      "publishedAt": "2026-06-22T14:58:19.000Z",
-      "xQuery": "円安協議か 日米財務相が緊急会談"
+      "url": "https://news.yahoo.co.jp/pickup/6585282?source=rss",
+      "publishedAt": "2026-06-22T22:17:54.000Z",
+      "xQuery": "「地域未来戦略」概要案が判明"
     },
     {
-      "time": "23:04",
-      "title": "イランが核査察合意と米副大統領",
+      "time": "07:51",
+      "title": "「ダブル台風」日本に接近の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585271?source=rss",
-      "publishedAt": "2026-06-22T14:04:59.000Z",
-      "xQuery": "イランが核査察合意と米副大統領"
+      "url": "https://news.yahoo.co.jp/pickup/6585288?source=rss",
+      "publishedAt": "2026-06-22T22:51:03.000Z",
+      "xQuery": "「ダブル台風」日本に接近の恐れ"
     },
     {
-      "time": "06:23",
-      "title": "昭恵夫人 夫を狙った理由聞きたい",
+      "time": "07:29",
+      "title": "円 一時39年半ぶり安値に肉薄",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585280?source=rss",
-      "publishedAt": "2026-06-22T21:23:28.000Z",
-      "xQuery": "昭恵夫人 夫を狙った理由聞きたい"
+      "url": "https://news.yahoo.co.jp/pickup/6585285?source=rss",
+      "publishedAt": "2026-06-22T22:29:36.000Z",
+      "xQuery": "円 一時39年半ぶり安値に肉薄"
     },
     {
-      "time": "22:52",
-      "title": "内田被告に懲役27年 遺族コメント",
+      "time": "07:22",
+      "title": "駅員悩む トイレ紙の「持ち帰り」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585270?source=rss",
-      "publishedAt": "2026-06-22T13:52:57.000Z",
-      "xQuery": "内田被告に懲役27年 遺族コメント"
+      "url": "https://news.yahoo.co.jp/pickup/6585283?source=rss",
+      "publishedAt": "2026-06-22T22:22:15.000Z",
+      "xQuery": "駅員悩む トイレ紙の「持ち帰り」"
     }
   ]
 };
