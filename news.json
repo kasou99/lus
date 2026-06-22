@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T03:50:04.565Z",
+  "updatedAt": "2026-06-22T06:01:04.533Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-06-22T00:58:11.000Z"
       },
       {
+        "time": "07:15",
+        "title": "ソディック“三種の神器”でデータセンター需要追うも、中計は「それに頼らず」：製造マネジメントニュース（2/2 ページ）",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PUHBYUHFtOFA0bzdvV2VEM0QwM0RFbzN4aFlQQy1JU0pESURQSjR0UlN2dW16SlVrXzk5cXljWDhqUnRnZzRsakl3bmc1ZEJnX0M0YmQ3OTExS0FjbnZvazRfanhCX0d3YkR0dmhzanBBQQ?oc=5",
+        "publishedAt": "2026-06-21T22:15:00.000Z"
+      },
+      {
         "time": "08:27",
         "title": "リスキリングで中小のDX後押し 都など、講座提供",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rTzFNTWZmTjljYjNBVXp6Z19uVGxrdnVxS3VkRkhqZFhQN2QwWWtFeFoxMnp1UGRGcU94NXlMZ3lqRlNGbHMzNkw3SGJxOXhqX1FJSGlERVpYYnpjNHdDeVluYzZsM0hfOVFtN3RkWUpWbjd1bXN0NVhtRQ?oc=5",
         "publishedAt": "2026-06-21T23:27:40.000Z"
-      },
-      {
-        "time": "06:30",
-        "title": "エッジAIと無線リモコンを融合、DMG MORI Digitalが建機操作支援システム：第8回 国際 建設・測量展 CSPI 2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04ZE9VTmFrVUU1dEFvWDBIc2VQN01qUkRjQlBwa0RHTkM2cVJfV01lbHdJX3hCYjF4NVRiZTZyYTEwUHlVTzQ3T244T1VaeHNlTGx1QTVqTWN0TDlDMThUcUh6VWtFTlJINnlsVm1ocw?oc=5",
-        "publishedAt": "2026-06-21T21:30:00.000Z"
       },
       {
         "time": "01:10",
@@ -38,11 +38,11 @@
         "publishedAt": "2026-06-21T08:51:27.000Z"
       },
       {
-        "time": "07:15",
-        "title": "ソディック“三種の神器”でデータセンター需要追うも、中計は「それに頼らず」：製造マネジメントニュース（1/2 ページ）",
+        "time": "06:30",
+        "title": "エッジAIと無線リモコンを融合、DMG MORI Digitalが建機操作支援システム：第8回 国際 建設・測量展 CSPI 2026",
         "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GWGl6TE9wMG1HaXJLdzJLdFZoY2l0d2xicU91TUs1Si1qZWMyTkpxRlNQMzhHSm1HQ0lHTnI2SHdkX0l2N3pKU0N3Vm9OeE9EdDBRVTFjUHNndWdQbWNGT2hVZVhVVy1ybE1XSWZoVQ?oc=5",
-        "publishedAt": "2026-06-21T22:15:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04ZE9VTmFrVUU1dEFvWDBIc2VQN01qUkRjQlBwa0RHTkM2cVJfV01lbHdJX3hCYjF4NVRiZTZyYTEwUHlVTzQ3T244T1VaeHNlTGx1QTVqTWN0TDlDMThUcUh6VWtFTlJINnlsVm1ocw?oc=5",
+        "publishedAt": "2026-06-21T21:30:00.000Z"
       },
       {
         "time": "02:36",
@@ -75,11 +75,11 @@
         "publishedAt": "2026-06-21T23:25:01.000Z"
       },
       {
-        "time": "12:38",
-        "title": "イスラエル当局 戦闘停止を命令",
+        "time": "14:17",
+        "title": "ハシゴ外され イスラエルの状況は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585070?source=rss",
-        "publishedAt": "2026-06-21T03:38:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585196?source=rss",
+        "publishedAt": "2026-06-22T05:17:14.000Z"
       },
       {
         "time": "08:54",
@@ -126,6 +126,13 @@
         "publishedAt": "2026-06-21T10:14:26.000Z"
       },
       {
+        "time": "14:34",
+        "title": "ドクターイエロー来年1月完全引退",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585197?source=rss",
+        "publishedAt": "2026-06-22T05:34:19.000Z"
+      },
+      {
         "time": "08:53",
         "title": "スタバなぜ日本好調? 競合と比較",
         "source": "Yahoo!ニュース",
@@ -138,30 +145,9 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585173?source=rss",
         "publishedAt": "2026-06-22T02:39:03.000Z"
-      },
-      {
-        "time": "17:05",
-        "title": "ジャングリア なぜ口コミが回復",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585100?source=rss",
-        "publishedAt": "2026-06-21T08:05:54.000Z"
       }
     ],
     "localHeadlines": [
-      {
-        "time": "07:34",
-        "title": "旭川17歳殺害 内田被告きょう判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585149?source=rss",
-        "publishedAt": "2026-06-21T22:34:16.000Z"
-      },
-      {
-        "time": "21:35",
-        "title": "沖縄戦の住民虐殺 元日本兵が手記",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585129?source=rss",
-        "publishedAt": "2026-06-21T12:35:59.000Z"
-      },
       {
         "time": "11:39",
         "title": "温泉5歳不明 浴室の窓開いた状態",
@@ -177,6 +163,20 @@
         "publishedAt": "2026-06-21T23:31:34.000Z"
       },
       {
+        "time": "14:10",
+        "title": "知人男性の腹刺し殺害疑い 男逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585195?source=rss",
+        "publishedAt": "2026-06-22T05:10:51.000Z"
+      },
+      {
+        "time": "13:15",
+        "title": "アジア最大の犯罪組織 幹部を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585189?source=rss",
+        "publishedAt": "2026-06-22T04:15:55.000Z"
+      },
+      {
         "time": "11:59",
         "title": "栃木強殺 犬殺した疑い6人追送検",
         "source": "Yahoo!ニュース",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-22T02:59:44.000Z"
       },
       {
-        "time": "21:59",
-        "title": "オートバイの21歳死亡 車と衝突",
+        "time": "13:44",
+        "title": "中国産混ぜ九条ねぎ販売疑い 逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585131?source=rss",
-        "publishedAt": "2026-06-21T12:59:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585192?source=rss",
+        "publishedAt": "2026-06-22T04:44:23.000Z"
       }
     ],
     "subsidyHeadlines": [

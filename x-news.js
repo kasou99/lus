@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-22T03:50:05.449Z",
+  "updatedAt": "2026-06-22T06:01:05.461Z",
   "items": [
     {
-      "time": "12:11",
-      "title": "米イラン レバノン停戦巡り合意",
+      "time": "14:17",
+      "title": "ハシゴ外され イスラエルの状況は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585183?source=rss",
-      "publishedAt": "2026-06-22T03:11:14.000Z",
-      "xQuery": "米イラン レバノン停戦巡り合意"
+      "url": "https://news.yahoo.co.jp/pickup/6585196?source=rss",
+      "publishedAt": "2026-06-22T05:17:14.000Z",
+      "xQuery": "ハシゴ外され イスラエルの状況は"
     },
     {
       "time": "11:44",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "台風7号 27日に九州に接近の恐れ"
     },
     {
-      "time": "12:00",
-      "title": "首相 動画巡り秘書の陳述書提出へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585182?source=rss",
-      "publishedAt": "2026-06-22T03:00:54.000Z",
-      "xQuery": "首相 動画巡り秘書の陳述書提出へ"
-    },
-    {
       "time": "11:39",
       "title": "温泉5歳不明 浴室の窓開いた状態",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "温泉5歳不明 浴室の窓開いた状態"
     },
     {
-      "time": "11:59",
-      "title": "栃木強殺 犬殺した疑い6人追送検",
+      "time": "14:10",
+      "title": "知人男性の腹刺し殺害疑い 男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585180?source=rss",
-      "publishedAt": "2026-06-22T02:59:44.000Z",
-      "xQuery": "栃木強殺 犬殺した疑い6人追送検"
+      "url": "https://news.yahoo.co.jp/pickup/6585195?source=rss",
+      "publishedAt": "2026-06-22T05:10:51.000Z",
+      "xQuery": "知人男性の腹刺し殺害疑い 男逮捕"
+    },
+    {
+      "time": "13:44",
+      "title": "中国産混ぜ九条ねぎ販売疑い 逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585192?source=rss",
+      "publishedAt": "2026-06-22T04:44:23.000Z",
+      "xQuery": "中国産混ぜ九条ねぎ販売疑い 逮捕"
     }
   ]
 };
