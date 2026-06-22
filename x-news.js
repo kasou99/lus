@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-21T23:35:54.560Z",
+  "updatedAt": "2026-06-22T01:21:30.944Z",
   "items": [
+    {
+      "time": "10:00",
+      "title": "日経平均 一時初の7万2000円台",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585165?source=rss",
+      "publishedAt": "2026-06-22T01:00:45.000Z",
+      "xQuery": "日経平均 一時初の7万2000円台"
+    },
     {
       "time": "08:25",
       "title": "米との協議 イラン代表団が退席",
@@ -10,28 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米との協議 イラン代表団が退席"
     },
     {
-      "time": "07:37",
-      "title": "台風7号非常に強い勢力へ 進路は",
+      "time": "08:54",
+      "title": "「クリミア孤立作戦」ウが本格化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585150?source=rss",
-      "publishedAt": "2026-06-21T22:37:09.000Z",
-      "xQuery": "台風7号非常に強い勢力へ 進路は"
-    },
-    {
-      "time": "07:54",
-      "title": "小笠原の外来種侵入調査へ 環境省",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585152?source=rss",
-      "publishedAt": "2026-06-21T22:54:34.000Z",
-      "xQuery": "小笠原の外来種侵入調査へ 環境省"
-    },
-    {
-      "time": "07:34",
-      "title": "旭川17歳殺害 内田被告きょう判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585149?source=rss",
-      "publishedAt": "2026-06-21T22:34:16.000Z",
-      "xQuery": "旭川17歳殺害 内田被告きょう判決"
+      "url": "https://news.yahoo.co.jp/pickup/6585158?source=rss",
+      "publishedAt": "2026-06-21T23:54:47.000Z",
+      "xQuery": "「クリミア孤立作戦」ウが本格化"
     },
     {
       "time": "08:31",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585156?source=rss",
       "publishedAt": "2026-06-21T23:31:34.000Z",
       "xQuery": "温泉入浴中5歳不明 川中心に捜索"
+    },
+    {
+      "time": "09:30",
+      "title": "心が折れた 百選の棚田で耕作断念",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585162?source=rss",
+      "publishedAt": "2026-06-22T00:30:43.000Z",
+      "xQuery": "心が折れた 百選の棚田で耕作断念"
     }
   ]
 };

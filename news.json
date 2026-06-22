@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-06-21T23:35:53.686Z",
+  "updatedAt": "2026-06-22T01:21:30.165Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "07:14",
+        "time": "09:58",
+        "title": "半導体関連部品や工作機械部品向けの金属表面処理（めっき）を主力事業とする株式会社冨士鍍金工業所が三鷹金属工業株式会社の金属表面処理（めっき）事業を買収",
+        "source": "STARTUP LOG",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKZ1ZOMzZ0b1pSZVFnZG1vZkNPOTZDN0dtcGo4UEFtcC1kbm84UEdOMXhDVU1mTnZxMXZJNjhDOUdKZ2VlbjA4bTdfSm1SN3c?oc=5",
+        "publishedAt": "2026-06-22T00:58:11.000Z"
+      },
+      {
+        "time": "08:27",
         "title": "リスキリングで中小のDX後押し 都など、講座提供",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqbW9nWkxjSkVDNnpQa3J2VnJ6bXhyak4wRlU3WGxsOFhQV2NZU0YtUDBpcTFEOFR0VHJoWHhEN3JLNy1nU1ZKV2JROHlkZ1VjdHhMc2x5alQ5MVM1ajh4Q3dCVC1DQ1ZraFo5bEVoVlJVQnc3?oc=5",
-        "publishedAt": "2026-06-21T22:14:43.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rTzFNTWZmTjljYjNBVXp6Z19uVGxrdnVxS3VkRkhqZFhQN2QwWWtFeFoxMnp1UGRGcU94NXlMZ3lqRlNGbHMzNkw3SGJxOXhqX1FJSGlERVpYYnpjNHdDeVluYzZsM0hfOVFtN3RkWUpWbjd1bXN0NVhtRQ?oc=5",
+        "publishedAt": "2026-06-21T23:27:40.000Z"
       },
       {
         "time": "06:30",
@@ -24,18 +31,18 @@
         "publishedAt": "2026-06-21T16:10:00.000Z"
       },
       {
+        "time": "17:51",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaFpLSjJWT1lNd1ZPNGpMbUhnLUh3VmhlVGZmdy1rZnZRdVM0aDA4SUJOenJnel9GMUdhdkFHNS1XLUVKSjlNTHRtX1FFb1hJeDlCQ2ktci0zOUV5Ni1tZUMxVV9XRVV4dEFkdDhvSld0bF9CR1h4MXJEbVZoOEQ0S0p0Qk5uc1I5SHN1N3BIbVVWMVBNZTRfTzRaejVKMWFCUWF3YXh2TzFSOXAyYmlDaGJ0am53Tm8?oc=5",
+        "publishedAt": "2026-06-21T08:51:27.000Z"
+      },
+      {
         "time": "07:15",
         "title": "ソディック“三種の神器”でデータセンター需要追うも、中計は「それに頼らず」：製造マネジメントニュース（1/2 ページ）",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GWGl6TE9wMG1HaXJLdzJLdFZoY2l0d2xicU91TUs1Si1qZWMyTkpxRlNQMzhHSm1HQ0lHTnI2SHdkX0l2N3pKU0N3Vm9OeE9EdDBRVTFjUHNndWdQbWNGT2hVZVhVVy1ybE1XSWZoVQ?oc=5",
         "publishedAt": "2026-06-21T22:15:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "富士通・日本IBMが協業 大型汎用機を最新化",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zVjZ1VGpfcjhHZ1kwWjlRZmMtd0I5QWxCcDM4NHpqWnVfWWpDc09ySHlidXFIXzkwUTB2OHd0b3p2RDZJTG5DYXZsRDd0Ti1leWpOa3pyOC1manM?oc=5",
-        "publishedAt": "2026-06-21T20:00:00.000Z"
       },
       {
         "time": "11:46",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-06-21T02:46:00.000Z"
       },
       {
-        "time": "20:27",
-        "title": "EU 対中国の輸入規制を強化方針",
+        "time": "10:00",
+        "title": "日経平均 一時初の7万2000円台",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584999?source=rss",
-        "publishedAt": "2026-06-20T11:27:37.000Z"
-      },
-      {
-        "time": "19:14",
-        "title": "年金支給額増も生活苦 受給者嘆き",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585113?source=rss",
-        "publishedAt": "2026-06-21T10:14:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585165?source=rss",
+        "publishedAt": "2026-06-22T01:00:45.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-06-21T03:38:55.000Z"
       },
       {
+        "time": "08:54",
+        "title": "「クリミア孤立作戦」ウが本格化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585158?source=rss",
+        "publishedAt": "2026-06-21T23:54:47.000Z"
+      },
+      {
         "time": "06:31",
         "title": "スターマー英首相 近日退任表明か",
         "source": "Yahoo!ニュース",
@@ -94,22 +101,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585094?source=rss",
         "publishedAt": "2026-06-21T07:13:16.000Z"
-      },
-      {
-        "time": "21:04",
-        "title": "攻撃受けたモスクワ 混乱広がる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585004?source=rss",
-        "publishedAt": "2026-06-20T12:04:44.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "20:27",
-        "title": "EU 対中国の輸入規制を強化方針",
+        "time": "10:00",
+        "title": "日経平均 一時初の7万2000円台",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6584999?source=rss",
-        "publishedAt": "2026-06-20T11:27:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585165?source=rss",
+        "publishedAt": "2026-06-22T01:00:45.000Z"
+      },
+      {
+        "time": "08:38",
+        "title": "空港税関手続き 30年までに電子化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585157?source=rss",
+        "publishedAt": "2026-06-21T23:38:59.000Z"
       },
       {
         "time": "19:14",
@@ -119,11 +126,11 @@
         "publishedAt": "2026-06-21T10:14:26.000Z"
       },
       {
-        "time": "10:13",
-        "title": "マレーシア EV輸入規制策導入へ",
+        "time": "08:53",
+        "title": "スタバなぜ日本好調? 競合と比較",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585057?source=rss",
-        "publishedAt": "2026-06-21T01:13:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585159?source=rss",
+        "publishedAt": "2026-06-21T23:53:22.000Z"
       },
       {
         "time": "17:05",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585110?source=rss",
         "publishedAt": "2026-06-21T09:36:40.000Z"
-      },
-      {
-        "time": "15:53",
-        "title": "コカコーラ 唐揚げで食事需要開拓",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585091?source=rss",
-        "publishedAt": "2026-06-21T06:53:16.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,11 +177,11 @@
         "publishedAt": "2026-06-21T10:22:40.000Z"
       },
       {
-        "time": "14:24",
-        "title": "冷凍庫から遺体 発見時は凍らず",
+        "time": "21:59",
+        "title": "オートバイの21歳死亡 車と衝突",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585081?source=rss",
-        "publishedAt": "2026-06-21T05:24:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585131?source=rss",
+        "publishedAt": "2026-06-21T12:59:19.000Z"
       },
       {
         "time": "13:47",
