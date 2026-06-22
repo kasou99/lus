@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T11:06:20.462Z",
+  "updatedAt": "2026-06-22T13:22:27.353Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -34,7 +34,7 @@
         "time": "17:00",
         "title": "アルコニックス、個人投資家向け会社説明会に登壇（6月26日 滋賀県大津市）",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uYUFtMjc3V1lmWk9zeUM3NEwyVU51VVBIa1ZmbEloZTZscmctWnZpNlRpdTVwaVBvYnNfdU5QRHNFaFQzWGNjVEFZcmNHZ1ZrLW9TZ2pCaWcwQWQ0UVlmdktvYXJsVWJSalNYUXFvQk9EX1k?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uMTVjTUVCYmI2akU5YXpBTHpkVzgwa0NpdllsRE1nY2FUM1BIOE96cG5Gbl9lRlVaM015d0x0TjI3Z0ZyT2ZxUFJyaTEtYmlfRHRkMQ?oc=5",
         "publishedAt": "2026-06-22T08:00:19.000Z"
       },
       {
@@ -61,11 +61,25 @@
     ],
     "worldHeadlines": [
       {
+        "time": "20:38",
+        "title": "英首相が辞意 指導力不足に指摘も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585256?source=rss",
+        "publishedAt": "2026-06-22T11:38:09.000Z"
+      },
+      {
         "time": "17:45",
         "title": "スターマー英首相が辞意表明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585232?source=rss",
         "publishedAt": "2026-06-22T08:45:25.000Z"
+      },
+      {
+        "time": "21:50",
+        "title": "グリーンスパン元FRB議長が死去",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585260?source=rss",
+        "publishedAt": "2026-06-22T12:50:18.000Z"
       },
       {
         "time": "18:43",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585155?source=rss",
         "publishedAt": "2026-06-21T23:25:01.000Z"
-      },
-      {
-        "time": "14:17",
-        "title": "ハシゴ外され イスラエルの状況は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585196?source=rss",
-        "publishedAt": "2026-06-22T05:17:14.000Z"
-      },
-      {
-        "time": "08:54",
-        "title": "「クリミア孤立作戦」ウが本格化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585158?source=rss",
-        "publishedAt": "2026-06-21T23:54:47.000Z"
       }
     ],
     "economyHeadlines": [
@@ -140,27 +140,20 @@
         "publishedAt": "2026-06-22T07:31:21.000Z"
       },
       {
-        "time": "18:30",
-        "title": "日本ハム 約220品目を値上げへ",
+        "time": "15:51",
+        "title": "伊藤忠 チャンピオン日本事業取得",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585239?source=rss",
-        "publishedAt": "2026-06-22T09:30:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585207?source=rss",
+        "publishedAt": "2026-06-22T06:51:09.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "16:51",
-        "title": "沖縄戦 子どもに語れなかった母親",
+        "time": "20:15",
+        "title": "内田被告判決 内容悔やむ裁判員も",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585218?source=rss",
-        "publishedAt": "2026-06-22T07:51:01.000Z"
-      },
-      {
-        "time": "19:59",
-        "title": "内田被告供述 裁判員「ほぼ矛盾」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585250?source=rss",
-        "publishedAt": "2026-06-22T10:59:29.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585253?source=rss",
+        "publishedAt": "2026-06-22T11:15:28.000Z"
       },
       {
         "time": "19:07",
@@ -184,11 +177,18 @@
         "publishedAt": "2026-06-22T10:33:59.000Z"
       },
       {
-        "time": "11:39",
-        "title": "温泉5歳不明 浴室の窓開いた状態",
+        "time": "21:52",
+        "title": "冷凍庫の損壊遺体 身元が判明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585171?source=rss",
-        "publishedAt": "2026-06-22T02:39:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585262?source=rss",
+        "publishedAt": "2026-06-22T12:52:19.000Z"
+      },
+      {
+        "time": "18:23",
+        "title": "「東北の麻薬王」ら17人を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585237?source=rss",
+        "publishedAt": "2026-06-22T09:23:37.000Z"
       }
     ],
     "subsidyHeadlines": [

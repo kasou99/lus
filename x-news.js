@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-22T11:06:21.215Z",
+  "updatedAt": "2026-06-22T13:22:28.139Z",
   "items": [
     {
-      "time": "18:43",
-      "title": "米イラン対面協議 先行きは不透明",
+      "time": "20:38",
+      "title": "英首相が辞意 指導力不足に指摘も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585236?source=rss",
-      "publishedAt": "2026-06-22T09:43:10.000Z",
-      "xQuery": "米イラン対面協議 先行きは不透明"
+      "url": "https://news.yahoo.co.jp/pickup/6585256?source=rss",
+      "publishedAt": "2026-06-22T11:38:09.000Z",
+      "xQuery": "英首相が辞意 指導力不足に指摘も"
     },
     {
-      "time": "19:02",
-      "title": "99年主婦殺害 なぜ夫は損賠求める",
+      "time": "21:50",
+      "title": "グリーンスパン元FRB議長が死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585243?source=rss",
-      "publishedAt": "2026-06-22T10:02:29.000Z",
-      "xQuery": "99年主婦殺害 なぜ夫は損賠求める"
+      "url": "https://news.yahoo.co.jp/pickup/6585260?source=rss",
+      "publishedAt": "2026-06-22T12:50:18.000Z",
+      "xQuery": "グリーンスパン元FRB議長が死去"
     },
     {
-      "time": "19:07",
-      "title": "内田被告の実行行為 裁判所認める",
+      "time": "21:17",
+      "title": "台風7号が急発達 今後の警戒事項",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585242?source=rss",
-      "publishedAt": "2026-06-22T10:07:10.000Z",
-      "xQuery": "内田被告の実行行為 裁判所認める"
+      "url": "https://news.yahoo.co.jp/pickup/6585229?source=rss",
+      "publishedAt": "2026-06-22T12:17:59.000Z",
+      "xQuery": "台風7号が急発達 今後の警戒事項"
     },
     {
-      "time": "19:33",
-      "title": "温泉施設5歳不明 父悲痛な胸の内",
+      "time": "20:15",
+      "title": "内田被告判決 内容悔やむ裁判員も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585249?source=rss",
-      "publishedAt": "2026-06-22T10:33:59.000Z",
-      "xQuery": "温泉施設5歳不明 父悲痛な胸の内"
+      "url": "https://news.yahoo.co.jp/pickup/6585253?source=rss",
+      "publishedAt": "2026-06-22T11:15:28.000Z",
+      "xQuery": "内田被告判決 内容悔やむ裁判員も"
     },
     {
-      "time": "19:28",
-      "title": "上半身露出で健診 川崎市立の2校",
+      "time": "21:52",
+      "title": "冷凍庫の損壊遺体 身元が判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585246?source=rss",
-      "publishedAt": "2026-06-22T10:28:20.000Z",
-      "xQuery": "上半身露出で健診 川崎市立の2校"
+      "url": "https://news.yahoo.co.jp/pickup/6585262?source=rss",
+      "publishedAt": "2026-06-22T12:52:19.000Z",
+      "xQuery": "冷凍庫の損壊遺体 身元が判明"
     }
   ]
 };
