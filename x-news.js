@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-22T01:21:30.944Z",
+  "updatedAt": "2026-06-22T02:25:16.402Z",
   "items": [
     {
       "time": "10:00",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米との協議 イラン代表団が退席"
     },
     {
-      "time": "08:54",
-      "title": "「クリミア孤立作戦」ウが本格化",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585158?source=rss",
-      "publishedAt": "2026-06-21T23:54:47.000Z",
-      "xQuery": "「クリミア孤立作戦」ウが本格化"
-    },
-    {
       "time": "08:31",
       "title": "温泉入浴中5歳不明 川中心に捜索",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6585156?source=rss",
       "publishedAt": "2026-06-21T23:31:34.000Z",
       "xQuery": "温泉入浴中5歳不明 川中心に捜索"
+    },
+    {
+      "time": "11:09",
+      "title": "金を人形に隠し密輸疑い 6人逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585167?source=rss",
+      "publishedAt": "2026-06-22T02:09:57.000Z",
+      "xQuery": "金を人形に隠し密輸疑い 6人逮捕"
     },
     {
       "time": "09:30",
