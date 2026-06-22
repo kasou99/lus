@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-22T02:25:16.402Z",
+  "updatedAt": "2026-06-22T03:50:05.449Z",
   "items": [
     {
-      "time": "10:00",
-      "title": "日経平均 一時初の7万2000円台",
+      "time": "12:11",
+      "title": "米イラン レバノン停戦巡り合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585165?source=rss",
-      "publishedAt": "2026-06-22T01:00:45.000Z",
-      "xQuery": "日経平均 一時初の7万2000円台"
+      "url": "https://news.yahoo.co.jp/pickup/6585183?source=rss",
+      "publishedAt": "2026-06-22T03:11:14.000Z",
+      "xQuery": "米イラン レバノン停戦巡り合意"
     },
     {
-      "time": "08:25",
-      "title": "米との協議 イラン代表団が退席",
+      "time": "11:44",
+      "title": "台風7号 27日に九州に接近の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585155?source=rss",
-      "publishedAt": "2026-06-21T23:25:01.000Z",
-      "xQuery": "米との協議 イラン代表団が退席"
+      "url": "https://news.yahoo.co.jp/pickup/6585172?source=rss",
+      "publishedAt": "2026-06-22T02:44:30.000Z",
+      "xQuery": "台風7号 27日に九州に接近の恐れ"
     },
     {
-      "time": "08:31",
-      "title": "温泉入浴中5歳不明 川中心に捜索",
+      "time": "12:00",
+      "title": "首相 動画巡り秘書の陳述書提出へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585156?source=rss",
-      "publishedAt": "2026-06-21T23:31:34.000Z",
-      "xQuery": "温泉入浴中5歳不明 川中心に捜索"
+      "url": "https://news.yahoo.co.jp/pickup/6585182?source=rss",
+      "publishedAt": "2026-06-22T03:00:54.000Z",
+      "xQuery": "首相 動画巡り秘書の陳述書提出へ"
     },
     {
-      "time": "11:09",
-      "title": "金を人形に隠し密輸疑い 6人逮捕",
+      "time": "11:39",
+      "title": "温泉5歳不明 浴室の窓開いた状態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585167?source=rss",
-      "publishedAt": "2026-06-22T02:09:57.000Z",
-      "xQuery": "金を人形に隠し密輸疑い 6人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6585171?source=rss",
+      "publishedAt": "2026-06-22T02:39:34.000Z",
+      "xQuery": "温泉5歳不明 浴室の窓開いた状態"
     },
     {
-      "time": "09:30",
-      "title": "心が折れた 百選の棚田で耕作断念",
+      "time": "11:59",
+      "title": "栃木強殺 犬殺した疑い6人追送検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585162?source=rss",
-      "publishedAt": "2026-06-22T00:30:43.000Z",
-      "xQuery": "心が折れた 百選の棚田で耕作断念"
+      "url": "https://news.yahoo.co.jp/pickup/6585180?source=rss",
+      "publishedAt": "2026-06-22T02:59:44.000Z",
+      "xQuery": "栃木強殺 犬殺した疑い6人追送検"
     }
   ]
 };
