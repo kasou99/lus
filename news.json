@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T20:06:32.970Z",
+  "updatedAt": "2026-06-22T21:26:18.829Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-06-22T00:58:11.000Z"
       },
       {
+        "time": "05:56",
+        "title": "さあ出番／オーエム製作所社長に就任する水田博氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByQXBRYjhVT1FwU2tHUG5zMEk2WXRhZGhJT3pwMUZiRFVzV21RUlEza2V0Ukl6aVlOUVZQLWVLQm5ORHMwb1VzOHN0OGIyYi01NUdyekF1UmY?oc=5",
+        "publishedAt": "2026-06-22T20:56:52.000Z"
+      },
+      {
         "time": "07:15",
         "title": "ソディック“三種の神器”でデータセンター需要追うも、中計は「それに頼らず」：製造マネジメントニュース（2/2 ページ）",
         "source": "MONOist",
@@ -31,11 +38,11 @@
         "publishedAt": "2026-06-21T22:15:00.000Z"
       },
       {
-        "time": "05:04",
-        "title": "ニコン、後工程向け「デジタル露光装置」大型基板に照準",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrR2hOdjNJUFUyeVFkaFhLejN2MlhOd1Vka3dicXdCdW1MczZlcDBfS0Y0VHNGU1VlZmdSRFpwWERfWjZ1VEluMVVFWFQ5d2ZWbHhKX28xVmZRcm8?oc=5",
-        "publishedAt": "2026-06-22T20:04:11.000Z"
+        "time": "11:09",
+        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyME9hR2xaYm5UcFVhem4welJhN0RYc1NSeUFtTTV0dkFuMFc2TGRCZnBnVmRzb1BIQUJxQVhWbHcwbFBRaWRUQWxuUkttcUR4S0xQZ3U3LXRsakhNaVJIM0xjZ20?oc=5",
+        "publishedAt": "2026-06-22T02:09:35.000Z"
       },
       {
         "time": "17:00",
@@ -50,13 +57,6 @@
         "source": "finance.biggo.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBscHBhRDZSM1NvYmI3Szh2UHNabGV5RUdERjhkRnN2RjVrWHhOOUI1TGtRellqakY1VWx3V3hwNFNHMEtwbURBQkhnWjJfektIUEV5R1lXRmhKQV9EemhkaGJYaVFpWjB5TlBFeDdRUnZSMlAx?oc=5",
         "publishedAt": "2026-06-22T02:47:00.000Z"
-      },
-      {
-        "time": "05:04",
-        "title": "さあ出番／オーエム製作所社長に就任する水田博氏",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxLURUUzRxaWVVRlI1cy00Z0szVkg0RmtSdDM5STFRYklFSjJucnlfZjd4QUw3eWlPVXlQMkl3eXExLUgzYjZiWFFXQkd4bll0WU95LTAwMFFGaDQ?oc=5",
-        "publishedAt": "2026-06-22T20:04:11.000Z"
       }
     ],
     "worldHeadlines": [

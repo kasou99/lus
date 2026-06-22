@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-22T20:06:33.763Z",
+  "updatedAt": "2026-06-22T21:26:19.271Z",
   "items": [
     {
       "time": "23:58",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イランが核査察合意と米副大統領"
     },
     {
-      "time": "23:17",
-      "title": "皇室典範改正の骨子了承 正副議長",
+      "time": "06:23",
+      "title": "昭恵夫人 夫を狙った理由聞きたい",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585273?source=rss",
-      "publishedAt": "2026-06-22T14:17:59.000Z",
-      "xQuery": "皇室典範改正の骨子了承 正副議長"
-    },
-    {
-      "time": "22:25",
-      "title": "スーチー氏愛犬死ぬ 再会かなわず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585265?source=rss",
-      "publishedAt": "2026-06-22T13:25:00.000Z",
-      "xQuery": "スーチー氏愛犬死ぬ 再会かなわず"
+      "url": "https://news.yahoo.co.jp/pickup/6585280?source=rss",
+      "publishedAt": "2026-06-22T21:23:28.000Z",
+      "xQuery": "昭恵夫人 夫を狙った理由聞きたい"
     },
     {
       "time": "22:52",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585270?source=rss",
       "publishedAt": "2026-06-22T13:52:57.000Z",
       "xQuery": "内田被告に懲役27年 遺族コメント"
+    },
+    {
+      "time": "23:33",
+      "title": "冷凍庫の損壊遺体 2011年頃死亡か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585274?source=rss",
+      "publishedAt": "2026-06-22T14:33:29.000Z",
+      "xQuery": "冷凍庫の損壊遺体 2011年頃死亡か"
     }
   ]
 };
