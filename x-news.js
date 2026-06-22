@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-22T23:03:07.260Z",
+  "updatedAt": "2026-06-22T23:55:32.717Z",
   "items": [
     {
       "time": "06:41",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "円 一時39年半ぶり安値に肉薄"
     },
     {
-      "time": "07:22",
-      "title": "駅員悩む トイレ紙の「持ち帰り」",
+      "time": "08:10",
+      "title": "スペースX時価総額6千億ドル消失",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585283?source=rss",
-      "publishedAt": "2026-06-22T22:22:15.000Z",
-      "xQuery": "駅員悩む トイレ紙の「持ち帰り」"
+      "url": "https://news.yahoo.co.jp/pickup/6585292?source=rss",
+      "publishedAt": "2026-06-22T23:10:00.000Z",
+      "xQuery": "スペースX時価総額6千億ドル消失"
     }
   ]
 };

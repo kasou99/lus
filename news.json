@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T23:03:05.987Z",
+  "updatedAt": "2026-06-22T23:55:32.092Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日経ビジネス電子版",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vbzhFblhHZWVkOHRfNWNsWGFJYkI0a3hKQW8xUDhHN0RjeXZkbEw4eG9kS0lhYWRkaExzMGM2N0x2RFY0ZTFUXzZQVFJYVDFON1NHcEJIR2NFTTk0b2xwb0h2TGExM2c?oc=5",
         "publishedAt": "2026-06-22T20:00:00.000Z"
+      },
+      {
+        "time": "06:53",
+        "title": "日立、自治体の政策検討支援 未来予測をAI分析",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rSjJKMlE1RG5YSlVpdmdJNVp5RlBndF8xREx1NzZlMEhLZkRCblI4SjV4ZTFiNXZRanltUGRJZ29iWVEzYVU4dkp4UDFBMFZQV21xWlJicnNZRlhhZWFHYm5wQUZ0Y2N5TExjTEtRREV4VTJucUF1TWFiNA?oc=5",
+        "publishedAt": "2026-06-22T21:53:54.000Z"
       },
       {
         "time": "05:04",
@@ -24,18 +31,18 @@
         "publishedAt": "2026-06-22T00:58:11.000Z"
       },
       {
-        "time": "05:56",
-        "title": "さあ出番／オーエム製作所社長に就任する水田博氏",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByQXBRYjhVT1FwU2tHUG5zMEk2WXRhZGhJT3pwMUZiRFVzV21RUlEza2V0Ukl6aVlOUVZQLWVLQm5ORHMwb1VzOHN0OGIyYi01NUdyekF1UmY?oc=5",
-        "publishedAt": "2026-06-22T20:56:52.000Z"
-      },
-      {
         "time": "18:30",
         "title": "超高速電動スピンドルの世界市場（2026年～2032年）、市場規模（空冷式電動スピンドル、水冷式電動スピンドル、油冷式電動スピンドル）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xaGxLeUFZdXpENXJJenpSUElSZC05OXJoTUc3ZlBUTEgwRU1pZGJsNFQwYVplbEU3dFlCR1ZHb2tMUjhqd2VxYkpTR1A5cm8?oc=5",
         "publishedAt": "2026-06-22T09:30:00.000Z"
+      },
+      {
+        "time": "11:09",
+        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyME9hR2xaYm5UcFVhem4welJhN0RYc1NSeUFtTTV0dkFuMFc2TGRCZnBnVmRzb1BIQUJxQVhWbHcwbFBRaWRUQWxuUkttcUR4S0xQZ3U3LXRsakhNaVJIM0xjZ20?oc=5",
+        "publishedAt": "2026-06-22T02:09:35.000Z"
       },
       {
         "time": "17:00",
@@ -50,13 +57,6 @@
         "source": "finance.biggo.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBscHBhRDZSM1NvYmI3Szh2UHNabGV5RUdERjhkRnN2RjVrWHhOOUI1TGtRellqakY1VWx3V3hwNFNHMEtwbURBQkhnWjJfektIUEV5R1lXRmhKQV9EemhkaGJYaVFpWjB5TlBFeDdRUnZSMlAx?oc=5",
         "publishedAt": "2026-06-22T02:47:00.000Z"
-      },
-      {
-        "time": "05:04",
-        "title": "ニコン、後工程向け「デジタル露光装置」大型基板に照準",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrR2hOdjNJUFUyeVFkaFhLejN2MlhOd1Vka3dicXdCdW1MczZlcDBfS0Y0VHNGU1VlZmdSRFpwWERfWjZ1VEluMVVFWFQ5d2ZWbHhKX28xVmZRcm8?oc=5",
-        "publishedAt": "2026-06-22T20:04:11.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-06-22T09:43:10.000Z"
       },
       {
-        "time": "12:11",
-        "title": "米イラン レバノン停戦巡り合意",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585183?source=rss",
-        "publishedAt": "2026-06-22T03:11:14.000Z"
-      },
-      {
         "time": "14:17",
         "title": "ハシゴ外され イスラエルの状況は",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585196?source=rss",
         "publishedAt": "2026-06-22T05:17:14.000Z"
+      },
+      {
+        "time": "08:06",
+        "title": "フランスで41.9度 異例の熱波",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585291?source=rss",
+        "publishedAt": "2026-06-22T23:06:39.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,6 +110,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585285?source=rss",
         "publishedAt": "2026-06-22T22:29:36.000Z"
+      },
+      {
+        "time": "08:10",
+        "title": "スペースX時価総額6千億ドル消失",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585292?source=rss",
+        "publishedAt": "2026-06-22T23:10:00.000Z"
       },
       {
         "time": "17:38",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585266?source=rss",
         "publishedAt": "2026-06-22T13:32:39.000Z"
-      },
-      {
-        "time": "14:34",
-        "title": "ドクターイエロー来年1月完全引退",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585197?source=rss",
-        "publishedAt": "2026-06-22T05:34:19.000Z"
       },
       {
         "time": "16:31",
