@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T17:12:43.691Z",
+  "updatedAt": "2026-06-22T18:49:00.621Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-06-22T09:30:00.000Z"
       },
       {
-        "time": "05:01",
-        "title": "セレンディップ、中小製造業の承継後押し 新会社設立",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYzFmajd3d1ktZk9aVURKQ0VSbjU4UmlKSmRFWWRBeTdPR2xaZ1pCYVdsX01zeUVZcGRZQ2pFRmtaNmlQb01OdUNRdGhncW9QTXoxdlVBdHlCbEU?oc=5",
-        "publishedAt": "2026-06-21T20:01:02.000Z"
-      },
-      {
         "time": "11:47",
         "title": "ファナックが急騰、政府「フィジカルAI」に10.5兆円投資方針で関連株に買い殺到",
         "source": "finance.biggo.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBscHBhRDZSM1NvYmI3Szh2UHNabGV5RUdERjhkRnN2RjVrWHhOOUI1TGtRellqakY1VWx3V3hwNFNHMEtwbURBQkhnWjJfektIUEV5R1lXRmhKQV9EemhkaGJYaVFpWjB5TlBFeDdRUnZSMlAx?oc=5",
         "publishedAt": "2026-06-22T02:47:00.000Z"
+      },
+      {
+        "time": "05:01",
+        "title": "セレンディップ、中小製造業の承継後押し 新会社設立",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYzFmajd3d1ktZk9aVURKQ0VSbjU4UmlKSmRFWWRBeTdPR2xaZ1pCYVdsX01zeUVZcGRZQ2pFRmtaNmlQb01OdUNRdGhncW9QTXoxdlVBdHlCbEU?oc=5",
+        "publishedAt": "2026-06-21T20:01:02.000Z"
       },
       {
         "time": "17:00",
