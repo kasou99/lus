@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-22T13:22:28.139Z",
+  "updatedAt": "2026-06-22T15:20:42.682Z",
   "items": [
     {
-      "time": "20:38",
-      "title": "英首相が辞意 指導力不足に指摘も",
+      "time": "23:58",
+      "title": "円安協議か 日米財務相が緊急会談",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585256?source=rss",
-      "publishedAt": "2026-06-22T11:38:09.000Z",
-      "xQuery": "英首相が辞意 指導力不足に指摘も"
+      "url": "https://news.yahoo.co.jp/pickup/6585277?source=rss",
+      "publishedAt": "2026-06-22T14:58:19.000Z",
+      "xQuery": "円安協議か 日米財務相が緊急会談"
     },
     {
-      "time": "21:50",
-      "title": "グリーンスパン元FRB議長が死去",
+      "time": "23:04",
+      "title": "イランが核査察合意と米副大統領",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585260?source=rss",
-      "publishedAt": "2026-06-22T12:50:18.000Z",
-      "xQuery": "グリーンスパン元FRB議長が死去"
+      "url": "https://news.yahoo.co.jp/pickup/6585271?source=rss",
+      "publishedAt": "2026-06-22T14:04:59.000Z",
+      "xQuery": "イランが核査察合意と米副大統領"
     },
     {
-      "time": "21:17",
-      "title": "台風7号が急発達 今後の警戒事項",
+      "time": "23:17",
+      "title": "皇室典範改正の骨子了承 正副議長",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585229?source=rss",
-      "publishedAt": "2026-06-22T12:17:59.000Z",
-      "xQuery": "台風7号が急発達 今後の警戒事項"
+      "url": "https://news.yahoo.co.jp/pickup/6585273?source=rss",
+      "publishedAt": "2026-06-22T14:17:59.000Z",
+      "xQuery": "皇室典範改正の骨子了承 正副議長"
     },
     {
-      "time": "20:15",
-      "title": "内田被告判決 内容悔やむ裁判員も",
+      "time": "22:25",
+      "title": "スーチー氏愛犬死ぬ 再会かなわず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585253?source=rss",
-      "publishedAt": "2026-06-22T11:15:28.000Z",
-      "xQuery": "内田被告判決 内容悔やむ裁判員も"
+      "url": "https://news.yahoo.co.jp/pickup/6585265?source=rss",
+      "publishedAt": "2026-06-22T13:25:00.000Z",
+      "xQuery": "スーチー氏愛犬死ぬ 再会かなわず"
     },
     {
-      "time": "21:52",
-      "title": "冷凍庫の損壊遺体 身元が判明",
+      "time": "22:52",
+      "title": "内田被告に懲役27年 遺族コメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585262?source=rss",
-      "publishedAt": "2026-06-22T12:52:19.000Z",
-      "xQuery": "冷凍庫の損壊遺体 身元が判明"
+      "url": "https://news.yahoo.co.jp/pickup/6585270?source=rss",
+      "publishedAt": "2026-06-22T13:52:57.000Z",
+      "xQuery": "内田被告に懲役27年 遺族コメント"
     }
   ]
 };
