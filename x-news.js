@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-22T08:35:31.495Z",
+  "updatedAt": "2026-06-22T11:06:21.215Z",
   "items": [
     {
-      "time": "15:27",
-      "title": "消費減税「2年期限」首相が明言",
+      "time": "18:43",
+      "title": "米イラン対面協議 先行きは不透明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585200?source=rss",
-      "publishedAt": "2026-06-22T06:27:51.000Z",
-      "xQuery": "消費減税「2年期限」首相が明言"
+      "url": "https://news.yahoo.co.jp/pickup/6585236?source=rss",
+      "publishedAt": "2026-06-22T09:43:10.000Z",
+      "xQuery": "米イラン対面協議 先行きは不透明"
     },
     {
-      "time": "16:51",
-      "title": "沖縄戦 子どもに語れなかった母親",
+      "time": "19:02",
+      "title": "99年主婦殺害 なぜ夫は損賠求める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585218?source=rss",
-      "publishedAt": "2026-06-22T07:51:01.000Z",
-      "xQuery": "沖縄戦 子どもに語れなかった母親"
+      "url": "https://news.yahoo.co.jp/pickup/6585243?source=rss",
+      "publishedAt": "2026-06-22T10:02:29.000Z",
+      "xQuery": "99年主婦殺害 なぜ夫は損賠求める"
     },
     {
-      "time": "16:25",
-      "title": "内田被告の裁判 男侵入して暴れる",
+      "time": "19:07",
+      "title": "内田被告の実行行為 裁判所認める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585213?source=rss",
-      "publishedAt": "2026-06-22T07:25:30.000Z",
-      "xQuery": "内田被告の裁判 男侵入して暴れる"
+      "url": "https://news.yahoo.co.jp/pickup/6585242?source=rss",
+      "publishedAt": "2026-06-22T10:07:10.000Z",
+      "xQuery": "内田被告の実行行為 裁判所認める"
     },
     {
-      "time": "17:05",
-      "title": "首相の専用車 センチュリーSUVに",
+      "time": "19:33",
+      "title": "温泉施設5歳不明 父悲痛な胸の内",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585219?source=rss",
-      "publishedAt": "2026-06-22T08:05:34.000Z",
-      "xQuery": "首相の専用車 センチュリーSUVに"
+      "url": "https://news.yahoo.co.jp/pickup/6585249?source=rss",
+      "publishedAt": "2026-06-22T10:33:59.000Z",
+      "xQuery": "温泉施設5歳不明 父悲痛な胸の内"
     },
     {
-      "time": "16:35",
-      "title": "34歳で乳がん 人工乳房製作の道へ",
+      "time": "19:28",
+      "title": "上半身露出で健診 川崎市立の2校",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585214?source=rss",
-      "publishedAt": "2026-06-22T07:35:04.000Z",
-      "xQuery": "34歳で乳がん 人工乳房製作の道へ"
+      "url": "https://news.yahoo.co.jp/pickup/6585246?source=rss",
+      "publishedAt": "2026-06-22T10:28:20.000Z",
+      "xQuery": "上半身露出で健診 川崎市立の2校"
     }
   ]
 };
