@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T21:26:18.829Z",
+  "updatedAt": "2026-06-22T22:15:19.313Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-06-22T20:56:52.000Z"
       },
       {
-        "time": "07:15",
-        "title": "ソディック“三種の神器”でデータセンター需要追うも、中計は「それに頼らず」：製造マネジメントニュース（2/2 ページ）",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PUHBYUHFtOFA0bzdvV2VEM0QwM0RFbzN4aFlQQy1JU0pESURQSjR0UlN2dW16SlVrXzk5cXljWDhqUnRnZzRsakl3bmc1ZEJnX0M0YmQ3OTExS0FjbnZvazRfanhCX0d3YkR0dmhzanBBQQ?oc=5",
-        "publishedAt": "2026-06-21T22:15:00.000Z"
-      },
-      {
         "time": "11:09",
         "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点：ニュース",
         "source": "中日BIZナビ",
@@ -57,6 +50,13 @@
         "source": "finance.biggo.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBscHBhRDZSM1NvYmI3Szh2UHNabGV5RUdERjhkRnN2RjVrWHhOOUI1TGtRellqakY1VWx3V3hwNFNHMEtwbURBQkhnWjJfektIUEV5R1lXRmhKQV9EemhkaGJYaVFpWjB5TlBFeDdRUnZSMlAx?oc=5",
         "publishedAt": "2026-06-22T02:47:00.000Z"
+      },
+      {
+        "time": "05:04",
+        "title": "ニコン、後工程向け「デジタル露光装置」大型基板に照準",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrR2hOdjNJUFUyeVFkaFhLejN2MlhOd1Vka3dicXdCdW1MczZlcDBfS0Y0VHNGU1VlZmdSRFpwWERfWjZ1VEluMVVFWFQ5d2ZWbHhKX28xVmZRcm8?oc=5",
+        "publishedAt": "2026-06-22T20:04:11.000Z"
       }
     ],
     "worldHeadlines": [

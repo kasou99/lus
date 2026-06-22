@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-22T21:26:19.271Z",
+  "updatedAt": "2026-06-22T22:15:20.490Z",
   "items": [
+    {
+      "time": "06:41",
+      "title": "沖縄慰霊の日 問われる平和学習",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585281?source=rss",
+      "publishedAt": "2026-06-22T21:41:11.000Z",
+      "xQuery": "沖縄慰霊の日 問われる平和学習"
+    },
     {
       "time": "23:58",
       "title": "円安協議か 日米財務相が緊急会談",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585270?source=rss",
       "publishedAt": "2026-06-22T13:52:57.000Z",
       "xQuery": "内田被告に懲役27年 遺族コメント"
-    },
-    {
-      "time": "23:33",
-      "title": "冷凍庫の損壊遺体 2011年頃死亡か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585274?source=rss",
-      "publishedAt": "2026-06-22T14:33:29.000Z",
-      "xQuery": "冷凍庫の損壊遺体 2011年頃死亡か"
     }
   ]
 };
