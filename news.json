@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T06:01:04.533Z",
+  "updatedAt": "2026-06-22T08:35:30.723Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-06-21T22:15:00.000Z"
       },
       {
-        "time": "08:27",
-        "title": "リスキリングで中小のDX後押し 都など、講座提供",
+        "time": "05:01",
+        "title": "セレンディップ、中小製造業の承継後押し 新会社設立",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rTzFNTWZmTjljYjNBVXp6Z19uVGxrdnVxS3VkRkhqZFhQN2QwWWtFeFoxMnp1UGRGcU94NXlMZ3lqRlNGbHMzNkw3SGJxOXhqX1FJSGlERVpYYnpjNHdDeVluYzZsM0hfOVFtN3RkWUpWbjd1bXN0NVhtRQ?oc=5",
-        "publishedAt": "2026-06-21T23:27:40.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TYzFmajd3d1ktZk9aVURKQ0VSbjU4UmlKSmRFWWRBeTdPR2xaZ1pCYVdsX01zeUVZcGRZQ2pFRmtaNmlQb01OdUNRdGhncW9QTXoxdlVBdHlCbEU?oc=5",
+        "publishedAt": "2026-06-21T20:01:02.000Z"
       },
       {
         "time": "01:10",
@@ -29,6 +29,13 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44cU1UckVTczV3T3N5VTJyUU41cGlpTktWWDc4RFNGMW91TkR1aWwyeWRJNjF3TDR3RWZ2czd4MVJJVlhrZkVBc01kVmJQU0xaT2NDaHJEbjNSY0FvdThTQ3Q5M3gwdDlfU0ZB?oc=5",
         "publishedAt": "2026-06-21T16:10:00.000Z"
+      },
+      {
+        "time": "15:48",
+        "title": "エレベーター・エスカレーター製造の技能競技大会を開催",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55YVZENVRuNXNaWUU1UDIwTGVQQ2Rudy1wMW53cWVOdENDelN4UlAzNWpKdjlWdTJqemZXUENfS09yU0w5N2ZmV0k5N0VZSkRqV3lhRW9jQlhmdWJ5ZmZLR2MzSnY5X096UjhVcVR0Zm04SlBsUFE?oc=5",
+        "publishedAt": "2026-06-22T06:48:33.000Z"
       },
       {
         "time": "17:51",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-06-21T21:30:00.000Z"
       },
       {
-        "time": "02:36",
-        "title": "株主総会／AI時代勝ち抜く企業に NEC、安全保障に商機",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iVEFfcG9Vc3N6d2prdnRrdDFWZjdwZ2dRSTN6dHVmVkJ5YUNvOWdiOW4yeEFWS2NjaUQ0X1JnTVZqcmN0WXBVXzdtT2pMUWY3NDVsd2Y4a2RTTlE?oc=5",
-        "publishedAt": "2026-06-21T17:36:34.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "日経平均 一時初の7万2000円台",
+        "time": "15:48",
+        "title": "日経平均終値 初の7万2000円超え",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585165?source=rss",
-        "publishedAt": "2026-06-22T01:00:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585206?source=rss",
+        "publishedAt": "2026-06-22T06:48:56.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:00",
-        "title": "日経平均 一時初の7万2000円台",
+        "time": "15:48",
+        "title": "日経平均終値 初の7万2000円超え",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585165?source=rss",
-        "publishedAt": "2026-06-22T01:00:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585206?source=rss",
+        "publishedAt": "2026-06-22T06:48:56.000Z"
       },
       {
         "time": "08:38",
@@ -133,34 +133,41 @@
         "publishedAt": "2026-06-22T05:34:19.000Z"
       },
       {
-        "time": "08:53",
-        "title": "スタバなぜ日本好調? 競合と比較",
+        "time": "16:31",
+        "title": "河合楽器 買いたたきで初の勧告",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585159?source=rss",
-        "publishedAt": "2026-06-21T23:53:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585215?source=rss",
+        "publishedAt": "2026-06-22T07:31:21.000Z"
       },
       {
-        "time": "11:39",
-        "title": "都こんぶ特売品 初めて外国産使用",
+        "time": "15:51",
+        "title": "伊藤忠 チャンピオン日本事業取得",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585173?source=rss",
-        "publishedAt": "2026-06-22T02:39:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585207?source=rss",
+        "publishedAt": "2026-06-22T06:51:09.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "15:07",
+        "title": "17歳殺害 内田被告に懲役27年判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585199?source=rss",
+        "publishedAt": "2026-06-22T06:07:23.000Z"
+      },
+      {
+        "time": "16:25",
+        "title": "内田被告の裁判 男侵入して暴れる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585213?source=rss",
+        "publishedAt": "2026-06-22T07:25:30.000Z"
+      },
       {
         "time": "11:39",
         "title": "温泉5歳不明 浴室の窓開いた状態",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585171?source=rss",
         "publishedAt": "2026-06-22T02:39:34.000Z"
-      },
-      {
-        "time": "08:31",
-        "title": "温泉入浴中5歳不明 川中心に捜索",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585156?source=rss",
-        "publishedAt": "2026-06-21T23:31:34.000Z"
       },
       {
         "time": "14:10",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585180?source=rss",
         "publishedAt": "2026-06-22T02:59:44.000Z"
-      },
-      {
-        "time": "13:44",
-        "title": "中国産混ぜ九条ねぎ販売疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585192?source=rss",
-        "publishedAt": "2026-06-22T04:44:23.000Z"
       }
     ],
     "subsidyHeadlines": [

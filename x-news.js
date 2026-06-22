@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-22T06:01:05.461Z",
+  "updatedAt": "2026-06-22T08:35:31.495Z",
   "items": [
     {
-      "time": "14:17",
-      "title": "ハシゴ外され イスラエルの状況は",
+      "time": "15:27",
+      "title": "消費減税「2年期限」首相が明言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585196?source=rss",
-      "publishedAt": "2026-06-22T05:17:14.000Z",
-      "xQuery": "ハシゴ外され イスラエルの状況は"
+      "url": "https://news.yahoo.co.jp/pickup/6585200?source=rss",
+      "publishedAt": "2026-06-22T06:27:51.000Z",
+      "xQuery": "消費減税「2年期限」首相が明言"
     },
     {
-      "time": "11:44",
-      "title": "台風7号 27日に九州に接近の恐れ",
+      "time": "16:51",
+      "title": "沖縄戦 子どもに語れなかった母親",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585172?source=rss",
-      "publishedAt": "2026-06-22T02:44:30.000Z",
-      "xQuery": "台風7号 27日に九州に接近の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6585218?source=rss",
+      "publishedAt": "2026-06-22T07:51:01.000Z",
+      "xQuery": "沖縄戦 子どもに語れなかった母親"
     },
     {
-      "time": "11:39",
-      "title": "温泉5歳不明 浴室の窓開いた状態",
+      "time": "16:25",
+      "title": "内田被告の裁判 男侵入して暴れる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585171?source=rss",
-      "publishedAt": "2026-06-22T02:39:34.000Z",
-      "xQuery": "温泉5歳不明 浴室の窓開いた状態"
+      "url": "https://news.yahoo.co.jp/pickup/6585213?source=rss",
+      "publishedAt": "2026-06-22T07:25:30.000Z",
+      "xQuery": "内田被告の裁判 男侵入して暴れる"
     },
     {
-      "time": "14:10",
-      "title": "知人男性の腹刺し殺害疑い 男逮捕",
+      "time": "17:05",
+      "title": "首相の専用車 センチュリーSUVに",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585195?source=rss",
-      "publishedAt": "2026-06-22T05:10:51.000Z",
-      "xQuery": "知人男性の腹刺し殺害疑い 男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6585219?source=rss",
+      "publishedAt": "2026-06-22T08:05:34.000Z",
+      "xQuery": "首相の専用車 センチュリーSUVに"
     },
     {
-      "time": "13:44",
-      "title": "中国産混ぜ九条ねぎ販売疑い 逮捕",
+      "time": "16:35",
+      "title": "34歳で乳がん 人工乳房製作の道へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585192?source=rss",
-      "publishedAt": "2026-06-22T04:44:23.000Z",
-      "xQuery": "中国産混ぜ九条ねぎ販売疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6585214?source=rss",
+      "publishedAt": "2026-06-22T07:35:04.000Z",
+      "xQuery": "34歳で乳がん 人工乳房製作の道へ"
     }
   ]
 };
