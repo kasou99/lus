@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-23T03:48:38.376Z",
+  "updatedAt": "2026-06-23T05:30:13.713Z",
   "items": [
     {
-      "time": "11:12",
-      "title": "ダブル台風に警戒を 8号が発生",
+      "time": "13:08",
+      "title": "日産株主総会 永井取締役案を否決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585309?source=rss",
-      "publishedAt": "2026-06-23T02:12:12.000Z",
-      "xQuery": "ダブル台風に警戒を 8号が発生"
+      "url": "https://news.yahoo.co.jp/pickup/6585333?source=rss",
+      "publishedAt": "2026-06-23T04:08:43.000Z",
+      "xQuery": "日産株主総会 永井取締役案を否決"
     },
     {
-      "time": "11:01",
-      "title": "リニア着工 静岡知事が容認で調整",
+      "time": "13:34",
+      "title": "マダニ感染 去年上回るペースで増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585306?source=rss",
-      "publishedAt": "2026-06-23T02:01:07.000Z",
-      "xQuery": "リニア着工 静岡知事が容認で調整"
+      "url": "https://news.yahoo.co.jp/pickup/6585336?source=rss",
+      "publishedAt": "2026-06-23T04:34:47.000Z",
+      "xQuery": "マダニ感染 去年上回るペースで増"
     },
     {
       "time": "11:33",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "金正恩氏 日本を名指しで非難"
     },
     {
-      "time": "11:16",
-      "title": "相次ぐ迷惑行為 女流棋士会が声明",
+      "time": "14:04",
+      "title": "同僚に殴られ 意識不明の男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585310?source=rss",
-      "publishedAt": "2026-06-23T02:16:29.000Z",
-      "xQuery": "相次ぐ迷惑行為 女流棋士会が声明"
+      "url": "https://news.yahoo.co.jp/pickup/6585338?source=rss",
+      "publishedAt": "2026-06-23T05:04:43.000Z",
+      "xQuery": "同僚に殴られ 意識不明の男性死亡"
     },
     {
-      "time": "09:35",
-      "title": "KFCチキンに当たり外れ?法的には",
+      "time": "13:55",
+      "title": "デヴィ夫人側 起訴内容を認める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585300?source=rss",
-      "publishedAt": "2026-06-23T00:35:33.000Z",
-      "xQuery": "KFCチキンに当たり外れ?法的には"
+      "url": "https://news.yahoo.co.jp/pickup/6585337?source=rss",
+      "publishedAt": "2026-06-23T04:55:57.000Z",
+      "xQuery": "デヴィ夫人側 起訴内容を認める"
     }
   ]
 };
