@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T10:20:27.804Z",
+  "updatedAt": "2026-06-23T11:35:51.218Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,13 +75,6 @@
         "publishedAt": "2026-06-22T23:55:44.000Z"
       },
       {
-        "time": "20:38",
-        "title": "英首相が辞意 指導力不足に指摘も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585256?source=rss",
-        "publishedAt": "2026-06-22T11:38:09.000Z"
-      },
-      {
         "time": "18:31",
         "title": "ラオスで日本人男女9人を拘束",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585314?source=rss",
         "publishedAt": "2026-06-23T03:25:47.000Z"
+      },
+      {
+        "time": "11:33",
+        "title": "金正恩氏 日本を名指しで非難",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585317?source=rss",
+        "publishedAt": "2026-06-23T02:33:48.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-06-23T05:36:39.000Z"
       },
       {
+        "time": "20:00",
+        "title": "5歳不明 父親は当時川を泳ぎ探す",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585393?source=rss",
+        "publishedAt": "2026-06-23T11:00:16.000Z"
+      },
+      {
         "time": "15:50",
         "title": "小学校で約40人嘔吐など訴え欠席",
         "source": "Yahoo!ニュース",
@@ -170,13 +177,6 @@
         "publishedAt": "2026-06-23T08:32:22.000Z"
       },
       {
-        "time": "15:27",
-        "title": "独身偽装巡り賠償命令 女性は妊娠",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585347?source=rss",
-        "publishedAt": "2026-06-23T06:27:29.000Z"
-      },
-      {
         "time": "14:04",
         "title": "同僚に殴られ 意識不明の男性死亡",
         "source": "Yahoo!ニュース",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-23T05:04:43.000Z"
       },
       {
-        "time": "12:47",
-        "title": "温泉施設で5歳不明 父が状況語る",
+        "time": "19:46",
+        "title": "自衛官に上司が女装強要 公務災害",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585329?source=rss",
-        "publishedAt": "2026-06-23T03:47:21.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585391?source=rss",
+        "publishedAt": "2026-06-23T10:46:17.000Z"
       }
     ],
     "subsidyHeadlines": [

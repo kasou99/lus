@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-23T10:20:28.757Z",
+  "updatedAt": "2026-06-23T11:35:51.994Z",
   "items": [
+    {
+      "time": "19:08",
+      "title": "首相 辺野古巡る文科省見解を擁護",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585386?source=rss",
+      "publishedAt": "2026-06-23T10:08:34.000Z",
+      "xQuery": "首相 辺野古巡る文科省見解を擁護"
+    },
+    {
+      "time": "16:46",
+      "title": "社外取の再任否決 日産に不満噴出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585363?source=rss",
+      "publishedAt": "2026-06-23T07:46:21.000Z",
+      "xQuery": "社外取の再任否決 日産に不満噴出"
+    },
     {
       "time": "17:34",
       "title": "ブレグジット10年 英とEU溝深く",
@@ -10,28 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ブレグジット10年 英とEU溝深く"
     },
     {
-      "time": "17:56",
-      "title": "ダブル台風 7号は関東接近の恐れ",
+      "time": "20:00",
+      "title": "5歳不明 父親は当時川を泳ぎ探す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585375?source=rss",
-      "publishedAt": "2026-06-23T08:56:13.000Z",
-      "xQuery": "ダブル台風 7号は関東接近の恐れ"
-    },
-    {
-      "time": "18:31",
-      "title": "ラオスで日本人男女9人を拘束",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585384?source=rss",
-      "publishedAt": "2026-06-23T09:31:38.000Z",
-      "xQuery": "ラオスで日本人男女9人を拘束"
-    },
-    {
-      "time": "17:32",
-      "title": "小学校火災 焼き切れたコード発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585364?source=rss",
-      "publishedAt": "2026-06-23T08:32:22.000Z",
-      "xQuery": "小学校火災 焼き切れたコード発見"
+      "url": "https://news.yahoo.co.jp/pickup/6585393?source=rss",
+      "publishedAt": "2026-06-23T11:00:16.000Z",
+      "xQuery": "5歳不明 父親は当時川を泳ぎ探す"
     },
     {
       "time": "17:56",
