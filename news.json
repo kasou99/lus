@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T18:53:00.490Z",
+  "updatedAt": "2026-06-23T19:42:50.320Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-06-23T03:10:02.000Z"
       },
       {
-        "time": "02:46",
+        "time": "02:41",
         "title": "牧野フライス、自助努力で企業価値向上 総会で買収提案言及せず",
         "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVN0SnFjNU8tOG94WFV0TE1fV3FGMFE4QUpCbFN4UEEybTFSOEVuUkg5ck1UZzlXSGJDeFRXcEFlRnQ3OUJaTUpKOW53bDVmV3M2cDdaOWNJYU9EMnEzR3IzZ1drMUNZYVZLNm5iUXdCc3Jkdmh6Y25fRTlibC1YUGdaNnItTE9sTUtQblZFUjY3VWtRSzA0QkJmTmhaODVLa1pBOVc0QTY?oc=5",
-        "publishedAt": "2026-06-23T17:46:06.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWhHTFpsbXlTOVJOVXZWOFkwSEpKd0F5QmRndGxyLUVlYldCSnQtOVBWNHAyT25pTU9zX3ZlNEVaYmZCUEpSa0w4ckxReVFFYjlLc1hlNUhCLU5IRHBheTN3MVBzQ3luazItbjNmOTI4dEdXUkRIQTY2MzZUUWpDZmRPcEtBa1VWeXBTaUJ6LVZVQk9LY3dZdk5BeUd5MkI3UFE?oc=5",
+        "publishedAt": "2026-06-23T17:41:19.000Z"
       },
       {
         "time": "10:07",
@@ -31,13 +31,6 @@
         "publishedAt": "2026-06-23T01:07:25.000Z"
       },
       {
-        "time": "12:03",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fTDNQUjlPU3VScjFzWEd5Y0xBNklpVFZsdmlSSkZidy1JcjM3Q2VfaUR2MktKNHQ3QVdWMjJsWjRZOEo5ZVNpc1VsY0ZuRkRxZTA1Um1lajg?oc=5",
-        "publishedAt": "2026-06-23T03:03:23.000Z"
-      },
-      {
         "time": "10:54",
         "title": "さあ出番／オーエム製作所社長に就任する水田博氏",
         "source": "日刊工業新聞",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-06-23T01:54:58.000Z"
       },
       {
-        "time": "21:51",
-        "title": "【ソフトバンク】石塚綜一郎が顔面に156キロ危険球受け病院へ オリックスの選手たちも頭抱える",
-        "source": "日刊スポーツ",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObS1VbUJtQTc1QVYxRDlpNE5mSC03dVVhVW1GaW5EQ0EtdXNOdzJ4VWxkV0Q0VmViS3BiNFJaVG92ZUh1UXZITVpjemticDh4Vlo0bmtHejY4OUt4WHRXZjR6TjRWdnU0cW1lUWo3SDhnR0RCWUFaQ09TYVZNOEJvcjdYXzVsc0pQZUJLWGFZVQ?oc=5",
-        "publishedAt": "2026-06-23T12:51:00.000Z"
-      },
-      {
         "time": "07:45",
         "title": "ソディック“三種の神器”でデータセンター需要追うも、中計は「それに頼らず」（MONOist）",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qdEZ3N201QkI5eDcwaVdZbS1iM2NYaXI5ZGx1NDRFUmxJRjBTTm9fb1F2WHhNQnU0dnVHd09lc1NYS05ELVEtcGs0eE5qeWg5amZRVGxRNXBhUkE0YlJuQ2xrT1AzY3V4T01aNXR5ZjhudDV2QUVlbDVfN2E5Z2s?oc=5",
         "publishedAt": "2026-06-22T22:45:15.000Z"
+      },
+      {
+        "time": "12:03",
+        "title": "2026年冷却ファン市場レポート：市場規模・見通し・次期産業戦略- 年平均成長率（CAGR）3.55％で安定成長（2026～2032年）",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qM2NVZ3JWd2l0R0kzZGN4Vmw2a01GZHp5VjhneXpQaUJ1M0xsc2xISU5TZ1lYa0NlMWk0SkRELVMxVkZxXzkxTWNQdS1ZUmxFMm4zQ2RjcU1uYlRtZHN3VVlqSlU3ZGZU?oc=5",
+        "publishedAt": "2026-06-23T03:03:30.000Z"
+      },
+      {
+        "time": "12:01",
+        "title": "製鉄所技術者の高卒採用、工業系以外を拡大 日鉄テックス",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfT0dwNExwdGU3dGpkMDE1eXRNUzd6NC15UHU5cUR0UVFEX1F2THVqOG9tdGJTem95Yi1iMnY1X0lGOUxXNHplOGN1T2FJN3VzcG50d2VKRDcxWFU?oc=5",
+        "publishedAt": "2026-06-23T03:01:59.000Z"
       }
     ],
     "worldHeadlines": [
