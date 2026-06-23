@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-23T14:21:32.968Z",
+  "updatedAt": "2026-06-23T15:34:07.049Z",
   "items": [
+    {
+      "time": "23:59",
+      "title": "ダブル台風 接近前から大雨の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585424?source=rss",
+      "publishedAt": "2026-06-23T14:59:57.000Z",
+      "xQuery": "ダブル台風 接近前から大雨の恐れ"
+    },
     {
       "time": "22:27",
       "title": "首相 追悼式で相次いだヤジに言及",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585417?source=rss",
       "publishedAt": "2026-06-23T13:27:24.000Z",
       "xQuery": "首相 追悼式で相次いだヤジに言及"
-    },
-    {
-      "time": "22:55",
-      "title": "クールジャパン機構 累損540億円",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585420?source=rss",
-      "publishedAt": "2026-06-23T13:55:56.000Z",
-      "xQuery": "クールジャパン機構 累損540億円"
-    },
-    {
-      "time": "22:20",
-      "title": "出雲の中心市街地で火災 消火難航",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585416?source=rss",
-      "publishedAt": "2026-06-23T13:20:47.000Z",
-      "xQuery": "出雲の中心市街地で火災 消火難航"
     },
     {
       "time": "22:00",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "冷凍庫に切断された遺体 元妻逮捕"
     },
     {
-      "time": "22:09",
-      "title": "4歳が道路に立ちつくす 救った小4",
+      "time": "23:24",
+      "title": "中国 スパコンランキングで米抜く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585410?source=rss",
-      "publishedAt": "2026-06-23T13:09:33.000Z",
-      "xQuery": "4歳が道路に立ちつくす 救った小4"
+      "url": "https://news.yahoo.co.jp/pickup/6585422?source=rss",
+      "publishedAt": "2026-06-23T14:24:00.000Z",
+      "xQuery": "中国 スパコンランキングで米抜く"
+    },
+    {
+      "time": "22:39",
+      "title": "ポテトチップス白黒袋 絵師に流行",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585419?source=rss",
+      "publishedAt": "2026-06-23T13:39:46.000Z",
+      "xQuery": "ポテトチップス白黒袋 絵師に流行"
     }
   ]
 };
