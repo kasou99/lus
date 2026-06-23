@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-23T01:11:02.347Z",
+  "updatedAt": "2026-06-23T02:24:16.645Z",
   "items": [
+    {
+      "time": "10:23",
+      "title": "自民裏金 大野元議員に罰金60万円",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585305?source=rss",
+      "publishedAt": "2026-06-23T01:23:02.000Z",
+      "xQuery": "自民裏金 大野元議員に罰金60万円"
+    },
     {
       "time": "09:34",
       "title": "米とイラン 核査察で相違浮き彫り",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米とイラン 核査察で相違浮き彫り"
     },
     {
-      "time": "08:55",
-      "title": "クリミア 燃料販売停止で車激減",
+      "time": "11:12",
+      "title": "ダブル台風に警戒を 8号が発生",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585297?source=rss",
-      "publishedAt": "2026-06-22T23:55:44.000Z",
-      "xQuery": "クリミア 燃料販売停止で車激減"
+      "url": "https://news.yahoo.co.jp/pickup/6585309?source=rss",
+      "publishedAt": "2026-06-23T02:12:12.000Z",
+      "xQuery": "ダブル台風に警戒を 8号が発生"
     },
     {
-      "time": "07:51",
-      "title": "「ダブル台風」日本に接近の恐れ",
+      "time": "10:01",
+      "title": "絆HD 会社更生法の適用を申請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585288?source=rss",
-      "publishedAt": "2026-06-22T22:51:03.000Z",
-      "xQuery": "「ダブル台風」日本に接近の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6585303?source=rss",
+      "publishedAt": "2026-06-23T01:01:28.000Z",
+      "xQuery": "絆HD 会社更生法の適用を申請"
     },
     {
-      "time": "07:29",
-      "title": "円 一時39年半ぶり安値に肉薄",
+      "time": "11:16",
+      "title": "相次ぐ迷惑行為 女流棋士会が声明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585285?source=rss",
-      "publishedAt": "2026-06-22T22:29:36.000Z",
-      "xQuery": "円 一時39年半ぶり安値に肉薄"
-    },
-    {
-      "time": "08:10",
-      "title": "スペースX時価総額6千億ドル消失",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585292?source=rss",
-      "publishedAt": "2026-06-22T23:10:00.000Z",
-      "xQuery": "スペースX時価総額6千億ドル消失"
+      "url": "https://news.yahoo.co.jp/pickup/6585310?source=rss",
+      "publishedAt": "2026-06-23T02:16:29.000Z",
+      "xQuery": "相次ぐ迷惑行為 女流棋士会が声明"
     }
   ]
 };
