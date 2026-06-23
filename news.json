@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T23:55:32.092Z",
+  "updatedAt": "2026-06-23T01:11:01.644Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日経ビジネス電子版",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vbzhFblhHZWVkOHRfNWNsWGFJYkI0a3hKQW8xUDhHN0RjeXZkbEw4eG9kS0lhYWRkaExzMGM2N0x2RFY0ZTFUXzZQVFJYVDFON1NHcEJIR2NFTTk0b2xwb0h2TGExM2c?oc=5",
         "publishedAt": "2026-06-22T20:00:00.000Z"
+      },
+      {
+        "time": "10:07",
+        "title": "【社長インタビュー】新潟のものづくりを陰で支えて85年 工場向けの生産財を扱う専門商社・昭栄産業",
+        "source": "にいがた経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE44RkxORklic3ZfS1cySUgtUnhGMEIwdkVrelBCOVRkdlB4THFHOWx2cG5LZWcwNXdXR05KNEFnS2xZZHNT?oc=5",
+        "publishedAt": "2026-06-23T01:07:25.000Z"
       },
       {
         "time": "06:53",
@@ -22,20 +29,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xYmZsY3R6b0s3WUNuaUtRbUgtbV9RMnV1dW9tYjZVU1lVckVXd2toZ09aMkdUOW9OWFN3Z0RmdGFwbm1jNTdQSzQ2dnFLLXUxZnc2dXNkdEFWRm8?oc=5",
         "publishedAt": "2026-06-22T20:04:11.000Z"
-      },
-      {
-        "time": "09:58",
-        "title": "半導体関連部品や工作機械部品向けの金属表面処理（めっき）を主力事業とする株式会社冨士鍍金工業所が三鷹金属工業株式会社の金属表面処理（めっき）事業を買収",
-        "source": "STARTUP LOG",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKZ1ZOMzZ0b1pSZVFnZG1vZkNPOTZDN0dtcGo4UEFtcC1kbm84UEdOMXhDVU1mTnZxMXZJNjhDOUdKZ2VlbjA4bTdfSm1SN3c?oc=5",
-        "publishedAt": "2026-06-22T00:58:11.000Z"
-      },
-      {
-        "time": "18:30",
-        "title": "超高速電動スピンドルの世界市場（2026年～2032年）、市場規模（空冷式電動スピンドル、水冷式電動スピンドル、油冷式電動スピンドル）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xaGxLeUFZdXpENXJJenpSUElSZC05OXJoTUc3ZlBUTEgwRU1pZGJsNFQwYVplbEU3dFlCR1ZHb2tMUjhqd2VxYkpTR1A5cm8?oc=5",
-        "publishedAt": "2026-06-22T09:30:00.000Z"
       },
       {
         "time": "11:09",
@@ -57,9 +50,37 @@
         "source": "finance.biggo.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBscHBhRDZSM1NvYmI3Szh2UHNabGV5RUdERjhkRnN2RjVrWHhOOUI1TGtRellqakY1VWx3V3hwNFNHMEtwbURBQkhnWjJfektIUEV5R1lXRmhKQV9EemhkaGJYaVFpWjB5TlBFeDdRUnZSMlAx?oc=5",
         "publishedAt": "2026-06-22T02:47:00.000Z"
+      },
+      {
+        "time": "05:56",
+        "title": "さあ出番／オーエム製作所社長に就任する水田博氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByQXBRYjhVT1FwU2tHUG5zMEk2WXRhZGhJT3pwMUZiRFVzV21RUlEza2V0Ukl6aVlOUVZQLWVLQm5ORHMwb1VzOHN0OGIyYi01NUdyekF1UmY?oc=5",
+        "publishedAt": "2026-06-22T20:56:52.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "09:34",
+        "title": "米とイラン 核査察で相違浮き彫り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585299?source=rss",
+        "publishedAt": "2026-06-23T00:34:50.000Z"
+      },
+      {
+        "time": "23:04",
+        "title": "イランが核査察合意と米副大統領",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585271?source=rss",
+        "publishedAt": "2026-06-22T14:04:59.000Z"
+      },
+      {
+        "time": "08:55",
+        "title": "クリミア 燃料販売停止で車激減",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585297?source=rss",
+        "publishedAt": "2026-06-22T23:55:44.000Z"
+      },
       {
         "time": "20:38",
         "title": "英首相が辞意 指導力不足に指摘も",
@@ -73,27 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585232?source=rss",
         "publishedAt": "2026-06-22T08:45:25.000Z"
-      },
-      {
-        "time": "23:04",
-        "title": "イランが核査察合意と米副大統領",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585271?source=rss",
-        "publishedAt": "2026-06-22T14:04:59.000Z"
-      },
-      {
-        "time": "18:43",
-        "title": "米イラン対面協議 先行きは不透明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585236?source=rss",
-        "publishedAt": "2026-06-22T09:43:10.000Z"
-      },
-      {
-        "time": "14:17",
-        "title": "ハシゴ外され イスラエルの状況は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585196?source=rss",
-        "publishedAt": "2026-06-22T05:17:14.000Z"
       },
       {
         "time": "08:06",
@@ -112,11 +112,25 @@
         "publishedAt": "2026-06-22T22:29:36.000Z"
       },
       {
+        "time": "10:01",
+        "title": "絆HD 会社更生法の適用を申請",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585303?source=rss",
+        "publishedAt": "2026-06-23T01:01:28.000Z"
+      },
+      {
         "time": "08:10",
         "title": "スペースX時価総額6千億ドル消失",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585292?source=rss",
         "publishedAt": "2026-06-22T23:10:00.000Z"
+      },
+      {
+        "time": "09:28",
+        "title": "BS4Kから民放一斉撤退 産業転換",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585298?source=rss",
+        "publishedAt": "2026-06-23T00:28:20.000Z"
       },
       {
         "time": "17:38",
@@ -131,20 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585266?source=rss",
         "publishedAt": "2026-06-22T13:32:39.000Z"
-      },
-      {
-        "time": "16:31",
-        "title": "河合楽器 買いたたきで初の勧告",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585215?source=rss",
-        "publishedAt": "2026-06-22T07:31:21.000Z"
-      },
-      {
-        "time": "19:43",
-        "title": "「悪ふざけ株主提案」が横行 実態",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585248?source=rss",
-        "publishedAt": "2026-06-22T10:43:15.000Z"
       }
     ],
     "localHeadlines": [

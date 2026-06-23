@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-22T23:55:32.717Z",
+  "updatedAt": "2026-06-23T01:11:02.347Z",
   "items": [
     {
-      "time": "06:41",
-      "title": "沖縄慰霊の日 問われる平和学習",
+      "time": "09:34",
+      "title": "米とイラン 核査察で相違浮き彫り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585281?source=rss",
-      "publishedAt": "2026-06-22T21:41:11.000Z",
-      "xQuery": "沖縄慰霊の日 問われる平和学習"
+      "url": "https://news.yahoo.co.jp/pickup/6585299?source=rss",
+      "publishedAt": "2026-06-23T00:34:50.000Z",
+      "xQuery": "米とイラン 核査察で相違浮き彫り"
     },
     {
-      "time": "07:17",
-      "title": "「地域未来戦略」概要案が判明",
+      "time": "08:55",
+      "title": "クリミア 燃料販売停止で車激減",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585282?source=rss",
-      "publishedAt": "2026-06-22T22:17:54.000Z",
-      "xQuery": "「地域未来戦略」概要案が判明"
+      "url": "https://news.yahoo.co.jp/pickup/6585297?source=rss",
+      "publishedAt": "2026-06-22T23:55:44.000Z",
+      "xQuery": "クリミア 燃料販売停止で車激減"
     },
     {
       "time": "07:51",
