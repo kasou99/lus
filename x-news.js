@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-23T08:41:17.215Z",
+  "updatedAt": "2026-06-23T10:20:28.757Z",
   "items": [
     {
-      "time": "17:13",
-      "title": "旧統一教会の解散命令確定 最高裁",
+      "time": "17:34",
+      "title": "ブレグジット10年 英とEU溝深く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585372?source=rss",
-      "publishedAt": "2026-06-23T08:13:51.000Z",
-      "xQuery": "旧統一教会の解散命令確定 最高裁"
+      "url": "https://news.yahoo.co.jp/pickup/6585371?source=rss",
+      "publishedAt": "2026-06-23T08:34:52.000Z",
+      "xQuery": "ブレグジット10年 英とEU溝深く"
     },
     {
-      "time": "16:54",
-      "title": "片山氏 日米の円安対応は揺るがず",
+      "time": "17:56",
+      "title": "ダブル台風 7号は関東接近の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585367?source=rss",
-      "publishedAt": "2026-06-23T07:54:40.000Z",
-      "xQuery": "片山氏 日米の円安対応は揺るがず"
+      "url": "https://news.yahoo.co.jp/pickup/6585375?source=rss",
+      "publishedAt": "2026-06-23T08:56:13.000Z",
+      "xQuery": "ダブル台風 7号は関東接近の恐れ"
     },
     {
-      "time": "15:48",
-      "title": "沖縄戦追悼式 首相スピーチ中ヤジ",
+      "time": "18:31",
+      "title": "ラオスで日本人男女9人を拘束",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585353?source=rss",
-      "publishedAt": "2026-06-23T06:48:08.000Z",
-      "xQuery": "沖縄戦追悼式 首相スピーチ中ヤジ"
-    },
-    {
-      "time": "17:02",
-      "title": "KDDI 最大1422万件情報漏えいか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585365?source=rss",
-      "publishedAt": "2026-06-23T08:02:59.000Z",
-      "xQuery": "KDDI 最大1422万件情報漏えいか"
+      "url": "https://news.yahoo.co.jp/pickup/6585384?source=rss",
+      "publishedAt": "2026-06-23T09:31:38.000Z",
+      "xQuery": "ラオスで日本人男女9人を拘束"
     },
     {
       "time": "17:32",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585364?source=rss",
       "publishedAt": "2026-06-23T08:32:22.000Z",
       "xQuery": "小学校火災 焼き切れたコード発見"
+    },
+    {
+      "time": "17:56",
+      "title": "給食の緑茶は大量廃棄 驚いた市長",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585377?source=rss",
+      "publishedAt": "2026-06-23T08:56:36.000Z",
+      "xQuery": "給食の緑茶は大量廃棄 驚いた市長"
     }
   ]
 };
