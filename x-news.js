@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-23T02:24:16.645Z",
+  "updatedAt": "2026-06-23T03:48:38.376Z",
   "items": [
-    {
-      "time": "10:23",
-      "title": "自民裏金 大野元議員に罰金60万円",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585305?source=rss",
-      "publishedAt": "2026-06-23T01:23:02.000Z",
-      "xQuery": "自民裏金 大野元議員に罰金60万円"
-    },
-    {
-      "time": "09:34",
-      "title": "米とイラン 核査察で相違浮き彫り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585299?source=rss",
-      "publishedAt": "2026-06-23T00:34:50.000Z",
-      "xQuery": "米とイラン 核査察で相違浮き彫り"
-    },
     {
       "time": "11:12",
       "title": "ダブル台風に警戒を 8号が発生",
@@ -26,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ダブル台風に警戒を 8号が発生"
     },
     {
-      "time": "10:01",
-      "title": "絆HD 会社更生法の適用を申請",
+      "time": "11:01",
+      "title": "リニア着工 静岡知事が容認で調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585303?source=rss",
-      "publishedAt": "2026-06-23T01:01:28.000Z",
-      "xQuery": "絆HD 会社更生法の適用を申請"
+      "url": "https://news.yahoo.co.jp/pickup/6585306?source=rss",
+      "publishedAt": "2026-06-23T02:01:07.000Z",
+      "xQuery": "リニア着工 静岡知事が容認で調整"
+    },
+    {
+      "time": "11:33",
+      "title": "金正恩氏 日本を名指しで非難",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585317?source=rss",
+      "publishedAt": "2026-06-23T02:33:48.000Z",
+      "xQuery": "金正恩氏 日本を名指しで非難"
     },
     {
       "time": "11:16",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585310?source=rss",
       "publishedAt": "2026-06-23T02:16:29.000Z",
       "xQuery": "相次ぐ迷惑行為 女流棋士会が声明"
+    },
+    {
+      "time": "09:35",
+      "title": "KFCチキンに当たり外れ?法的には",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585300?source=rss",
+      "publishedAt": "2026-06-23T00:35:33.000Z",
+      "xQuery": "KFCチキンに当たり外れ?法的には"
     }
   ]
 };
