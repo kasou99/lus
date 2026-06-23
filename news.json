@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-23T07:28:48.636Z",
+  "updatedAt": "2026-06-23T08:41:16.450Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "14:21",
+        "title": "プレスリリース：［設備保全DX］ものづくりワールド東京に次世代設備保全クラウド「M2X」ブースを出展（PR TIMES）",
+        "source": "毎日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GdjFUS0RjdnEzekpWX2pab3NpZGw3c2JhLXc2bDZiZG5Jc0RqanBYQW51bXhZSVdmSGhMNTktbi1pUG12VzdDNXNsZmJpSF9zQ0xETWdkQ0tBRkxOVVpFXzY0S0NpeHVQ?oc=5",
+        "publishedAt": "2026-06-23T05:21:37.000Z"
+      },
       {
         "time": "12:10",
         "title": "エンビプロＨＤ、アマダ・東京製鐵と循環型資源プロジェクト、工作機械を鋼材原料へ - kabu-ir.com",
@@ -38,18 +45,11 @@
         "publishedAt": "2026-06-22T22:45:15.000Z"
       },
       {
-        "time": "13:17",
-        "title": "ロバーツ監督「ゾーンを完全に支配。彼以上の打者は存在しない」大谷翔平の先頭弾称賛／一問一答",
-        "source": "日刊スポーツ",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUFpqS3M0OGk4c1M4UDZ5UWtEYlZqcGhyUU9PeGJtbURaM3R3UlRydV80b3FsWWRFQlFNLTRJVjVSd3NiNWxzNEx3bkRuVTJmUGx0UXJJcWNwN1RQa1F3ODlrT0cySGRoXzdxc1p0c2NVbWJmZWtJdHVlNElPZjI0bjBhQVdpZVo0MTFSV2QxY19jWkc1?oc=5",
-        "publishedAt": "2026-06-23T04:17:59.000Z"
-      },
-      {
-        "time": "10:54",
-        "title": "製鉄所技術者の高卒採用、工業系以外を拡大 日鉄テックス",
+        "time": "09:33",
+        "title": "経営ひと言／ファミリーマート・小谷建夫社長「サービス向上」",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfT0dwNExwdGU3dGpkMDE1eXRNUzd6NC15UHU5cUR0UVFEX1F2THVqOG9tdGJTem95Yi1iMnY1X0lGOUxXNHplOGN1T2FJN3VzcG50d2VKRDcxWFU?oc=5",
-        "publishedAt": "2026-06-23T01:54:59.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4Q2ozYTZESDJDVnNmUVBYNmFIb1l0NXR3OFRpTGlnMkVkTDA3NnF6S2xObnZSN2dZSmFlOWNEZ0l1ZHFPUTloSXdwZ3BTdDBPZV9WSmcxMTVjSzg?oc=5",
+        "publishedAt": "2026-06-23T00:33:45.000Z"
       },
       {
         "time": "12:03",
@@ -82,11 +82,11 @@
         "publishedAt": "2026-06-22T11:38:09.000Z"
       },
       {
-        "time": "17:45",
-        "title": "スターマー英首相が辞意表明",
+        "time": "17:34",
+        "title": "ブレグジット10年 英とEU溝深く",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585232?source=rss",
-        "publishedAt": "2026-06-22T08:45:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585371?source=rss",
+        "publishedAt": "2026-06-23T08:34:52.000Z"
       },
       {
         "time": "12:25",
@@ -112,6 +112,13 @@
         "publishedAt": "2026-06-23T06:48:51.000Z"
       },
       {
+        "time": "16:46",
+        "title": "社外取の再任否決 日産に不満噴出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585363?source=rss",
+        "publishedAt": "2026-06-23T07:46:21.000Z"
+      },
+      {
         "time": "13:08",
         "title": "日産株主総会 永井取締役案を否決",
         "source": "Yahoo!ニュース",
@@ -119,18 +126,11 @@
         "publishedAt": "2026-06-23T04:08:43.000Z"
       },
       {
-        "time": "11:01",
-        "title": "リニア着工 静岡知事が容認で調整",
+        "time": "16:36",
+        "title": "TOTO 半導体事業に800億円計画",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585306?source=rss",
-        "publishedAt": "2026-06-23T02:01:07.000Z"
-      },
-      {
-        "time": "08:10",
-        "title": "スペースX時価総額6千億ドル消失",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585292?source=rss",
-        "publishedAt": "2026-06-22T23:10:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585360?source=rss",
+        "publishedAt": "2026-06-23T07:36:52.000Z"
       },
       {
         "time": "16:21",
@@ -156,18 +156,18 @@
         "publishedAt": "2026-06-23T05:36:39.000Z"
       },
       {
-        "time": "13:27",
-        "title": "冷凍庫遺体「3月から異臭」と相談",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585334?source=rss",
-        "publishedAt": "2026-06-23T04:27:08.000Z"
-      },
-      {
         "time": "15:50",
         "title": "小学校で約40人嘔吐など訴え欠席",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585355?source=rss",
         "publishedAt": "2026-06-23T06:50:59.000Z"
+      },
+      {
+        "time": "17:32",
+        "title": "小学校火災 焼き切れたコード発見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585364?source=rss",
+        "publishedAt": "2026-06-23T08:32:22.000Z"
       },
       {
         "time": "15:27",

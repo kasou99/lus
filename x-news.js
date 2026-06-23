@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-23T07:28:49.400Z",
+  "updatedAt": "2026-06-23T08:41:17.215Z",
   "items": [
     {
-      "time": "15:48",
-      "title": "東証終値2565円安 7万円割り込む",
+      "time": "17:13",
+      "title": "旧統一教会の解散命令確定 最高裁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585354?source=rss",
-      "publishedAt": "2026-06-23T06:48:51.000Z",
-      "xQuery": "東証終値2565円安 7万円割り込む"
+      "url": "https://news.yahoo.co.jp/pickup/6585372?source=rss",
+      "publishedAt": "2026-06-23T08:13:51.000Z",
+      "xQuery": "旧統一教会の解散命令確定 最高裁"
+    },
+    {
+      "time": "16:54",
+      "title": "片山氏 日米の円安対応は揺るがず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585367?source=rss",
+      "publishedAt": "2026-06-23T07:54:40.000Z",
+      "xQuery": "片山氏 日米の円安対応は揺るがず"
     },
     {
       "time": "15:48",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "沖縄戦追悼式 首相スピーチ中ヤジ"
     },
     {
-      "time": "15:20",
-      "title": "副首都法案の修正案 自民が了承",
+      "time": "17:02",
+      "title": "KDDI 最大1422万件情報漏えいか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585342?source=rss",
-      "publishedAt": "2026-06-23T06:20:13.000Z",
-      "xQuery": "副首都法案の修正案 自民が了承"
+      "url": "https://news.yahoo.co.jp/pickup/6585365?source=rss",
+      "publishedAt": "2026-06-23T08:02:59.000Z",
+      "xQuery": "KDDI 最大1422万件情報漏えいか"
     },
     {
-      "time": "14:04",
-      "title": "同僚に殴られ 意識不明の男性死亡",
+      "time": "17:32",
+      "title": "小学校火災 焼き切れたコード発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585338?source=rss",
-      "publishedAt": "2026-06-23T05:04:43.000Z",
-      "xQuery": "同僚に殴られ 意識不明の男性死亡"
-    },
-    {
-      "time": "15:50",
-      "title": "小学校で約40人嘔吐など訴え欠席",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585355?source=rss",
-      "publishedAt": "2026-06-23T06:50:59.000Z",
-      "xQuery": "小学校で約40人嘔吐など訴え欠席"
+      "url": "https://news.yahoo.co.jp/pickup/6585364?source=rss",
+      "publishedAt": "2026-06-23T08:32:22.000Z",
+      "xQuery": "小学校火災 焼き切れたコード発見"
     }
   ]
 };
