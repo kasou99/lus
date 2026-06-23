@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-23T21:39:33.822Z",
+  "updatedAt": "2026-06-23T22:34:05.187Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:00",
+        "title": "シーメンス幹部「AIの奴隷にはならない」、産業用AIは製造現場の何を変えるか：FAインタビュー（1/3 ページ）",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HZWwxYTNqTDVGdzI0TklJUXg5LVFGWEtFdkl3S3RhZllyczhuNVdFNUlleENuUmJmWXRuX3dfSW1UTFAwLVdlZUhtd0xNMW40SzNJT2k1MDJYOFV2YTlBNXI4dmFMdGs2MTFnRlI4Yw?oc=5",
+        "publishedAt": "2026-06-23T22:00:00.000Z"
+      },
       {
         "time": "14:21",
         "title": "プレスリリース：［設備保全DX］ものづくりワールド東京に次世代設備保全クラウド「M2X」ブースを出展（PR TIMES）",
@@ -50,13 +57,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fTDNQUjlPU3VScjFzWEd5Y0xBNklpVFZsdmlSSkZidy1JcjM3Q2VfaUR2MktKNHQ3QVdWMjJsWjRZOEo5ZVNpc1VsY0ZuRkRxZTA1Um1lajg?oc=5",
         "publishedAt": "2026-06-23T03:03:23.000Z"
-      },
-      {
-        "time": "07:45",
-        "title": "ソディック“三種の神器”でデータセンター需要追うも、中計は「それに頼らず」（MONOist）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qdEZ3N201QkI5eDcwaVdZbS1iM2NYaXI5ZGx1NDRFUmxJRjBTTm9fb1F2WHhNQnU0dnVHd09lc1NYS05ELVEtcGs0eE5qeWg5amZRVGxRNXBhUkE0YlJuQ2xrT1AzY3V4T01aNXR5ZjhudDV2QUVlbDVfN2E5Z2s?oc=5",
-        "publishedAt": "2026-06-22T22:45:15.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,18 +149,25 @@
     ],
     "localHeadlines": [
       {
-        "time": "14:36",
-        "title": "沖縄戦で母に銃弾貫通 子の苦しみ",
+        "time": "06:44",
+        "title": "駐車場に血まみれの女性 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585340?source=rss",
-        "publishedAt": "2026-06-23T05:36:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585428?source=rss",
+        "publishedAt": "2026-06-23T21:44:46.000Z"
       },
       {
-        "time": "22:20",
-        "title": "出雲の中心市街地で火災 消火難航",
+        "time": "07:20",
+        "title": "小学校火災 校舎の建て替え検討",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585416?source=rss",
-        "publishedAt": "2026-06-23T13:20:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585431?source=rss",
+        "publishedAt": "2026-06-23T22:20:40.000Z"
+      },
+      {
+        "time": "06:53",
+        "title": "出雲市の商店街で大規模火災 鎮圧",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585429?source=rss",
+        "publishedAt": "2026-06-23T21:53:19.000Z"
       },
       {
         "time": "22:00",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585404?source=rss",
         "publishedAt": "2026-06-23T12:04:20.000Z"
-      },
-      {
-        "time": "14:04",
-        "title": "同僚に殴られ 意識不明の男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585338?source=rss",
-        "publishedAt": "2026-06-23T05:04:43.000Z"
       }
     ],
     "subsidyHeadlines": [

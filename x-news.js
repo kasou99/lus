@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-23T21:39:34.406Z",
+  "updatedAt": "2026-06-23T22:34:05.912Z",
   "items": [
     {
-      "time": "23:59",
-      "title": "ダブル台風 接近前から大雨の恐れ",
+      "time": "07:20",
+      "title": "ダブル台風 8号は27日関東接近か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585424?source=rss",
-      "publishedAt": "2026-06-23T14:59:57.000Z",
-      "xQuery": "ダブル台風 接近前から大雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6585432?source=rss",
+      "publishedAt": "2026-06-23T22:20:39.000Z",
+      "xQuery": "ダブル台風 8号は27日関東接近か"
     },
     {
-      "time": "22:27",
-      "title": "首相 追悼式で相次いだヤジに言及",
+      "time": "06:53",
+      "title": "出雲市の商店街で大規模火災 鎮圧",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585417?source=rss",
-      "publishedAt": "2026-06-23T13:27:24.000Z",
-      "xQuery": "首相 追悼式で相次いだヤジに言及"
+      "url": "https://news.yahoo.co.jp/pickup/6585429?source=rss",
+      "publishedAt": "2026-06-23T21:53:19.000Z",
+      "xQuery": "出雲市の商店街で大規模火災 鎮圧"
     },
     {
       "time": "06:36",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日系電機大手の社員 中国で拘束"
     },
     {
-      "time": "22:00",
-      "title": "冷凍庫に切断された遺体 元妻逮捕",
+      "time": "06:44",
+      "title": "駐車場に血まみれの女性 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585411?source=rss",
-      "publishedAt": "2026-06-23T13:00:24.000Z",
-      "xQuery": "冷凍庫に切断された遺体 元妻逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6585428?source=rss",
+      "publishedAt": "2026-06-23T21:44:46.000Z",
+      "xQuery": "駐車場に血まみれの女性 死亡"
     },
     {
-      "time": "20:00",
-      "title": "5歳不明 父親は当時川を泳ぎ探す",
+      "time": "07:20",
+      "title": "小学校火災 校舎の建て替え検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585393?source=rss",
-      "publishedAt": "2026-06-23T11:00:16.000Z",
-      "xQuery": "5歳不明 父親は当時川を泳ぎ探す"
+      "url": "https://news.yahoo.co.jp/pickup/6585431?source=rss",
+      "publishedAt": "2026-06-23T22:20:40.000Z",
+      "xQuery": "小学校火災 校舎の建て替え検討"
     }
   ]
 };
