@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-23T05:30:13.713Z",
+  "updatedAt": "2026-06-23T07:28:49.400Z",
   "items": [
     {
-      "time": "13:08",
-      "title": "日産株主総会 永井取締役案を否決",
+      "time": "15:48",
+      "title": "東証終値2565円安 7万円割り込む",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585333?source=rss",
-      "publishedAt": "2026-06-23T04:08:43.000Z",
-      "xQuery": "日産株主総会 永井取締役案を否決"
+      "url": "https://news.yahoo.co.jp/pickup/6585354?source=rss",
+      "publishedAt": "2026-06-23T06:48:51.000Z",
+      "xQuery": "東証終値2565円安 7万円割り込む"
     },
     {
-      "time": "13:34",
-      "title": "マダニ感染 去年上回るペースで増",
+      "time": "15:48",
+      "title": "沖縄戦追悼式 首相スピーチ中ヤジ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585336?source=rss",
-      "publishedAt": "2026-06-23T04:34:47.000Z",
-      "xQuery": "マダニ感染 去年上回るペースで増"
+      "url": "https://news.yahoo.co.jp/pickup/6585353?source=rss",
+      "publishedAt": "2026-06-23T06:48:08.000Z",
+      "xQuery": "沖縄戦追悼式 首相スピーチ中ヤジ"
     },
     {
-      "time": "11:33",
-      "title": "金正恩氏 日本を名指しで非難",
+      "time": "15:20",
+      "title": "副首都法案の修正案 自民が了承",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585317?source=rss",
-      "publishedAt": "2026-06-23T02:33:48.000Z",
-      "xQuery": "金正恩氏 日本を名指しで非難"
+      "url": "https://news.yahoo.co.jp/pickup/6585342?source=rss",
+      "publishedAt": "2026-06-23T06:20:13.000Z",
+      "xQuery": "副首都法案の修正案 自民が了承"
     },
     {
       "time": "14:04",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "同僚に殴られ 意識不明の男性死亡"
     },
     {
-      "time": "13:55",
-      "title": "デヴィ夫人側 起訴内容を認める",
+      "time": "15:50",
+      "title": "小学校で約40人嘔吐など訴え欠席",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585337?source=rss",
-      "publishedAt": "2026-06-23T04:55:57.000Z",
-      "xQuery": "デヴィ夫人側 起訴内容を認める"
+      "url": "https://news.yahoo.co.jp/pickup/6585355?source=rss",
+      "publishedAt": "2026-06-23T06:50:59.000Z",
+      "xQuery": "小学校で約40人嘔吐など訴え欠席"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T05:30:12.371Z",
+  "updatedAt": "2026-06-23T07:28:48.636Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,20 @@
         "publishedAt": "2026-06-23T01:54:58.000Z"
       },
       {
+        "time": "07:45",
+        "title": "ソディック“三種の神器”でデータセンター需要追うも、中計は「それに頼らず」（MONOist）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qdEZ3N201QkI5eDcwaVdZbS1iM2NYaXI5ZGx1NDRFUmxJRjBTTm9fb1F2WHhNQnU0dnVHd09lc1NYS05ELVEtcGs0eE5qeWg5amZRVGxRNXBhUkE0YlJuQ2xrT1AzY3V4T01aNXR5ZjhudDV2QUVlbDVfN2E5Z2s?oc=5",
+        "publishedAt": "2026-06-22T22:45:15.000Z"
+      },
+      {
+        "time": "13:17",
+        "title": "ロバーツ監督「ゾーンを完全に支配。彼以上の打者は存在しない」大谷翔平の先頭弾称賛／一問一答",
+        "source": "日刊スポーツ",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUFpqS3M0OGk4c1M4UDZ5UWtEYlZqcGhyUU9PeGJtbURaM3R3UlRydV80b3FsWWRFQlFNLTRJVjVSd3NiNWxzNEx3bkRuVTJmUGx0UXJJcWNwN1RQa1F3ODlrT0cySGRoXzdxc1p0c2NVbWJmZWtJdHVlNElPZjI0bjBhQVdpZVo0MTFSV2QxY19jWkc1?oc=5",
+        "publishedAt": "2026-06-23T04:17:59.000Z"
+      },
+      {
         "time": "10:54",
         "title": "製鉄所技術者の高卒採用、工業系以外を拡大 日鉄テックス",
         "source": "日刊工業新聞",
@@ -43,20 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qM2NVZ3JWd2l0R0kzZGN4Vmw2a01GZHp5VjhneXpQaUJ1M0xsc2xISU5TZ1lYa0NlMWk0SkRELVMxVkZxXzkxTWNQdS1ZUmxFMm4zQ2RjcU1uYlRtZHN3VVlqSlU3ZGZU?oc=5",
         "publishedAt": "2026-06-23T03:03:30.000Z"
-      },
-      {
-        "time": "09:08",
-        "title": "日立ビルシステム、昇降機に光学センサー 部品半減・工期27％減",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMEFJaWQwYkNrNkltY1ZJU3ZrazFvTkVmdEppaGctQUN1NVdwaXg5MGwwVkplSjhlbGNBZWxTeXUyQjJQdFc2dUNXRGMwZkZPMF92SndEVTNiU2s?oc=5",
-        "publishedAt": "2026-06-23T00:08:20.000Z"
-      },
-      {
-        "time": "17:00",
-        "title": "アルコニックス、個人投資家向け会社説明会に登壇（6月26日 滋賀県大津市）",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uMTVjTUVCYmI2akU5YXpBTHpkVzgwa0NpdllsRE1nY2FUM1BIOE96cG5Gbl9lRlVaM015d0x0TjI3Z0ZyT2ZxUFJyaTEtYmlfRHRkMQ?oc=5",
-        "publishedAt": "2026-06-22T08:00:19.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "15:48",
+        "title": "東証終値2565円安 7万円割り込む",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585354?source=rss",
+        "publishedAt": "2026-06-23T06:48:51.000Z"
+      },
+      {
         "time": "13:08",
         "title": "日産株主総会 永井取締役案を否決",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585333?source=rss",
         "publishedAt": "2026-06-23T04:08:43.000Z"
-      },
-      {
-        "time": "07:29",
-        "title": "円 一時39年半ぶり安値に肉薄",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585285?source=rss",
-        "publishedAt": "2026-06-22T22:29:36.000Z"
       },
       {
         "time": "11:01",
@@ -126,18 +126,18 @@
         "publishedAt": "2026-06-23T02:01:07.000Z"
       },
       {
-        "time": "10:01",
-        "title": "絆HD 会社更生法の適用を申請",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585303?source=rss",
-        "publishedAt": "2026-06-23T01:01:28.000Z"
-      },
-      {
         "time": "08:10",
         "title": "スペースX時価総額6千億ドル消失",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585292?source=rss",
         "publishedAt": "2026-06-22T23:10:00.000Z"
+      },
+      {
+        "time": "16:21",
+        "title": "YKKが「買いたたき」 公取委勧告",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585357?source=rss",
+        "publishedAt": "2026-06-23T07:21:27.000Z"
       },
       {
         "time": "09:28",
@@ -149,11 +149,32 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:36",
+        "title": "沖縄戦で母に銃弾貫通 子の苦しみ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585340?source=rss",
+        "publishedAt": "2026-06-23T05:36:39.000Z"
+      },
+      {
         "time": "13:27",
         "title": "冷凍庫遺体「3月から異臭」と相談",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585334?source=rss",
         "publishedAt": "2026-06-23T04:27:08.000Z"
+      },
+      {
+        "time": "15:50",
+        "title": "小学校で約40人嘔吐など訴え欠席",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585355?source=rss",
+        "publishedAt": "2026-06-23T06:50:59.000Z"
+      },
+      {
+        "time": "15:27",
+        "title": "独身偽装巡り賠償命令 女性は妊娠",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585347?source=rss",
+        "publishedAt": "2026-06-23T06:27:29.000Z"
       },
       {
         "time": "14:04",
@@ -163,32 +184,11 @@
         "publishedAt": "2026-06-23T05:04:43.000Z"
       },
       {
-        "time": "13:39",
-        "title": "空き部屋押し入れに白骨遺体 大阪",
+        "time": "16:15",
+        "title": "内田被告の裁判で男乱入 地裁遺憾",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585335?source=rss",
-        "publishedAt": "2026-06-23T04:39:43.000Z"
-      },
-      {
-        "time": "12:47",
-        "title": "温泉施設で5歳不明 父が状況語る",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585329?source=rss",
-        "publishedAt": "2026-06-23T03:47:21.000Z"
-      },
-      {
-        "time": "22:52",
-        "title": "内田被告に懲役27年 遺族コメント",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585270?source=rss",
-        "publishedAt": "2026-06-22T13:52:57.000Z"
-      },
-      {
-        "time": "20:15",
-        "title": "内田被告判決 内容悔やむ裁判員も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585253?source=rss",
-        "publishedAt": "2026-06-22T11:15:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585356?source=rss",
+        "publishedAt": "2026-06-23T07:15:48.000Z"
       }
     ],
     "subsidyHeadlines": [
