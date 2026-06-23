@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-23T23:29:50.302Z",
+  "updatedAt": "2026-06-23T23:56:16.431Z",
   "items": [
     {
       "time": "07:20",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "AIなど成長分野予算に特別枠 方針"
     },
     {
+      "time": "08:47",
+      "title": "ロシア ウ東部要塞「事実上制圧」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585441?source=rss",
+      "publishedAt": "2026-06-23T23:47:31.000Z",
+      "xQuery": "ロシア ウ東部要塞「事実上制圧」"
+    },
+    {
       "time": "06:36",
       "title": "日系電機大手の社員 中国で拘束",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585428?source=rss",
       "publishedAt": "2026-06-23T21:44:46.000Z",
       "xQuery": "駐車場に血まみれの女性 死亡"
-    },
-    {
-      "time": "07:35",
-      "title": "楽天 スマホ「衛星通信網」構築へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585434?source=rss",
-      "publishedAt": "2026-06-23T22:35:59.000Z",
-      "xQuery": "楽天 スマホ「衛星通信網」構築へ"
     }
   ]
 };
