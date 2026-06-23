@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-23T15:34:07.049Z",
+  "updatedAt": "2026-06-23T16:56:38.509Z",
   "items": [
     {
       "time": "23:59",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "冷凍庫に切断された遺体 元妻逮捕"
     },
     {
-      "time": "23:24",
-      "title": "中国 スパコンランキングで米抜く",
+      "time": "20:00",
+      "title": "5歳不明 父親は当時川を泳ぎ探す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585422?source=rss",
-      "publishedAt": "2026-06-23T14:24:00.000Z",
-      "xQuery": "中国 スパコンランキングで米抜く"
+      "url": "https://news.yahoo.co.jp/pickup/6585393?source=rss",
+      "publishedAt": "2026-06-23T11:00:16.000Z",
+      "xQuery": "5歳不明 父親は当時川を泳ぎ探す"
     },
     {
       "time": "22:39",
