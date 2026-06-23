@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T22:34:05.187Z",
+  "updatedAt": "2026-06-23T23:29:49.246Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-06-23T05:21:37.000Z"
       },
       {
-        "time": "05:03",
-        "title": "エコノミストが解く生活の経済学（21）物価高物ともせぬ推し活",
+        "time": "06:55",
+        "title": "オプティム、和歌山に来月オフィス開設",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tanBaTng4SU44TDZPR0l3Q0MzUEluUDliSGZNdXBYUlF1aDM0Q01JTE5YcHpoTDBHU3cxcDQtWWU1VDFDUzVRckc1NG9YRHEzUVdCSjFKeFZyWXM?oc=5",
-        "publishedAt": "2026-06-23T20:03:05.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TQ3VrT2dhZEk5aUZxLTBpSUxQQTZCYWpHaG1FdFlrVGhxX1o0bXc5Q2lrOU1JbU9Kc3RET2htN2dBQkJveG5UN1BwZ0c4eXM2cTRVOGpHZHAybHZxR25iNmx5Sm9WVWtwOVd3OUJRV3pRekF5?oc=5",
+        "publishedAt": "2026-06-23T21:55:07.000Z"
       },
       {
         "time": "05:13",
@@ -38,13 +38,6 @@
         "publishedAt": "2026-06-23T03:10:02.000Z"
       },
       {
-        "time": "02:41",
-        "title": "牧野フライス、自助努力で企業価値向上 総会で買収提案言及せず",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWhHTFpsbXlTOVJOVXZWOFkwSEpKd0F5QmRndGxyLUVlYldCSnQtOVBWNHAyT25pTU9zX3ZlNEVaYmZCUEpSa0w4ckxReVFFYjlLc1hlNUhCLU5IRHBheTN3MVBzQ3luazItbjNmOTI4dEdXUkRIQTY2MzZUUWpDZmRPcEtBa1VWeXBTaUJ6LVZVQk9LY3dZdk5BeUd5MkI3UFE?oc=5",
-        "publishedAt": "2026-06-23T17:41:19.000Z"
-      },
-      {
         "time": "10:07",
         "title": "【社長インタビュー】新潟のものづくりを陰で支えて85年 工場向けの生産財を扱う専門商社・昭栄産業",
         "source": "にいがた経済新聞",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-06-23T01:07:25.000Z"
       },
       {
-        "time": "12:03",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fTDNQUjlPU3VScjFzWEd5Y0xBNklpVFZsdmlSSkZidy1JcjM3Q2VfaUR2MktKNHQ3QVdWMjJsWjRZOEo5ZVNpc1VsY0ZuRkRxZTA1Um1lajg?oc=5",
-        "publishedAt": "2026-06-23T03:03:23.000Z"
+        "time": "20:28",
+        "title": "【阪神】才木浩人ジャスト100球、６回３安打８Ｋ無失点で降板 圧巻はドラ１松下歩叶との対戦",
+        "source": "日刊スポーツ",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ0pyLWxndXNFVVZ2Z1FFRzBMNzVrUE82S3VoN25RNll4VUNQZWJLTC1reHRtRjNNWS1ERTBpM3FNYjc2SnhDQUhQWFdOYjRLNTVPNjBqUWhGLXg2TDZyU0l0WlBqRGE1OU9leUJsRkFhVnhJdFRCVWRmbndOZ3NGX19ZV0xtdnBaTGJ5T2hsRQ?oc=5",
+        "publishedAt": "2026-06-23T11:28:47.000Z"
+      },
+      {
+        "time": "10:54",
+        "title": "さあ出番／オーエム製作所社長に就任する水田博氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxLURUUzRxaWVVRlI1cy00Z0szVkg0RmtSdDM5STFRYklFSjJucnlfZjd4QUw3eWlPVXlQMkl3eXExLUgzYjZiWFFXQkd4bll0WU95LTAwMFFGaDQ?oc=5",
+        "publishedAt": "2026-06-23T01:54:58.000Z"
       }
     ],
     "worldHeadlines": [

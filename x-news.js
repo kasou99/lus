@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-23T22:34:05.912Z",
+  "updatedAt": "2026-06-23T23:29:50.302Z",
   "items": [
     {
       "time": "07:20",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ダブル台風 8号は27日関東接近か"
     },
     {
-      "time": "06:53",
-      "title": "出雲市の商店街で大規模火災 鎮圧",
+      "time": "07:43",
+      "title": "AIなど成長分野予算に特別枠 方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585429?source=rss",
-      "publishedAt": "2026-06-23T21:53:19.000Z",
-      "xQuery": "出雲市の商店街で大規模火災 鎮圧"
+      "url": "https://news.yahoo.co.jp/pickup/6585435?source=rss",
+      "publishedAt": "2026-06-23T22:43:04.000Z",
+      "xQuery": "AIなど成長分野予算に特別枠 方針"
     },
     {
       "time": "06:36",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "駐車場に血まみれの女性 死亡"
     },
     {
-      "time": "07:20",
-      "title": "小学校火災 校舎の建て替え検討",
+      "time": "07:35",
+      "title": "楽天 スマホ「衛星通信網」構築へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585431?source=rss",
-      "publishedAt": "2026-06-23T22:20:40.000Z",
-      "xQuery": "小学校火災 校舎の建て替え検討"
+      "url": "https://news.yahoo.co.jp/pickup/6585434?source=rss",
+      "publishedAt": "2026-06-23T22:35:59.000Z",
+      "xQuery": "楽天 スマホ「衛星通信網」構築へ"
     }
   ]
 };
