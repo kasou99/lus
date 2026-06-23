@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T13:11:52.186Z",
+  "updatedAt": "2026-06-23T14:21:32.380Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-06-23T03:10:02.000Z"
       },
       {
-        "time": "05:00",
-        "title": "中国レアアース規制が揺さぶるモーター生産 技術流出、磁石の二の舞い回避を",
-        "source": "日経ビジネス電子版",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vbzhFblhHZWVkOHRfNWNsWGFJYkI0a3hKQW8xUDhHN0RjeXZkbEw4eG9kS0lhYWRkaExzMGM2N0x2RFY0ZTFUXzZQVFJYVDFON1NHcEJIR2NFTTk0b2xwb0h2TGExM2c?oc=5",
-        "publishedAt": "2026-06-22T20:00:00.000Z"
-      },
-      {
         "time": "10:07",
         "title": "【社長インタビュー】新潟のものづくりを陰で支えて85年 工場向けの生産財を扱う専門商社・昭栄産業",
         "source": "にいがた経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE44RkxORklic3ZfS1cySUgtUnhGMEIwdkVrelBCOVRkdlB4THFHOWx2cG5LZWcwNXdXR05KNEFnS2xZZHNT?oc=5",
         "publishedAt": "2026-06-23T01:07:25.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "中国レアアース規制が揺さぶるモーター生産 技術流出、磁石の二の舞い回避を",
+        "source": "日経ビジネス電子版",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vbzhFblhHZWVkOHRfNWNsWGFJYkI0a3hKQW8xUDhHN0RjeXZkbEw4eG9kS0lhYWRkaExzMGM2N0x2RFY0ZTFUXzZQVFJYVDFON1NHcEJIR2NFTTk0b2xwb0h2TGExM2c?oc=5",
+        "publishedAt": "2026-06-22T20:00:00.000Z"
       },
       {
         "time": "10:54",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "15:48",
-        "title": "東証終値2565円安 7万円割り込む",
+        "time": "22:55",
+        "title": "クールジャパン機構 累損540億円",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585354?source=rss",
-        "publishedAt": "2026-06-23T06:48:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585420?source=rss",
+        "publishedAt": "2026-06-23T13:55:56.000Z"
       },
       {
         "time": "16:46",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-06-23T05:36:39.000Z"
       },
       {
+        "time": "22:20",
+        "title": "出雲の中心市街地で火災 消火難航",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585416?source=rss",
+        "publishedAt": "2026-06-23T13:20:47.000Z"
+      },
+      {
         "time": "22:00",
         "title": "冷凍庫に切断された遺体 元妻逮捕",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585404?source=rss",
         "publishedAt": "2026-06-23T12:04:20.000Z"
-      },
-      {
-        "time": "17:32",
-        "title": "小学校火災 焼き切れたコード発見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585364?source=rss",
-        "publishedAt": "2026-06-23T08:32:22.000Z"
       },
       {
         "time": "14:04",

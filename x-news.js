@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-23T13:11:52.799Z",
+  "updatedAt": "2026-06-23T14:21:32.968Z",
   "items": [
     {
-      "time": "20:46",
-      "title": "米イラン合意 イスラエル国民不安",
+      "time": "22:27",
+      "title": "首相 追悼式で相次いだヤジに言及",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585402?source=rss",
-      "publishedAt": "2026-06-23T11:46:47.000Z",
-      "xQuery": "米イラン合意 イスラエル国民不安"
+      "url": "https://news.yahoo.co.jp/pickup/6585417?source=rss",
+      "publishedAt": "2026-06-23T13:27:24.000Z",
+      "xQuery": "首相 追悼式で相次いだヤジに言及"
     },
     {
-      "time": "20:46",
-      "title": "解散命令が確定 旧統一は「遺憾」",
+      "time": "22:55",
+      "title": "クールジャパン機構 累損540億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585401?source=rss",
-      "publishedAt": "2026-06-23T11:46:06.000Z",
-      "xQuery": "解散命令が確定 旧統一は「遺憾」"
+      "url": "https://news.yahoo.co.jp/pickup/6585420?source=rss",
+      "publishedAt": "2026-06-23T13:55:56.000Z",
+      "xQuery": "クールジャパン機構 累損540億円"
+    },
+    {
+      "time": "22:20",
+      "title": "出雲の中心市街地で火災 消火難航",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585416?source=rss",
+      "publishedAt": "2026-06-23T13:20:47.000Z",
+      "xQuery": "出雲の中心市街地で火災 消火難航"
     },
     {
       "time": "22:00",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "冷凍庫に切断された遺体 元妻逮捕"
     },
     {
-      "time": "20:00",
-      "title": "5歳不明 父親は当時川を泳ぎ探す",
+      "time": "22:09",
+      "title": "4歳が道路に立ちつくす 救った小4",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585393?source=rss",
-      "publishedAt": "2026-06-23T11:00:16.000Z",
-      "xQuery": "5歳不明 父親は当時川を泳ぎ探す"
-    },
-    {
-      "time": "21:04",
-      "title": "生徒の土下座動画 いじめと市判断",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585404?source=rss",
-      "publishedAt": "2026-06-23T12:04:20.000Z",
-      "xQuery": "生徒の土下座動画 いじめと市判断"
+      "url": "https://news.yahoo.co.jp/pickup/6585410?source=rss",
+      "publishedAt": "2026-06-23T13:09:33.000Z",
+      "xQuery": "4歳が道路に立ちつくす 救った小4"
     }
   ]
 };
