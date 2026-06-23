@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-23T11:35:51.994Z",
+  "updatedAt": "2026-06-23T13:11:52.799Z",
   "items": [
     {
-      "time": "19:08",
-      "title": "首相 辺野古巡る文科省見解を擁護",
+      "time": "20:46",
+      "title": "米イラン合意 イスラエル国民不安",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585386?source=rss",
-      "publishedAt": "2026-06-23T10:08:34.000Z",
-      "xQuery": "首相 辺野古巡る文科省見解を擁護"
+      "url": "https://news.yahoo.co.jp/pickup/6585402?source=rss",
+      "publishedAt": "2026-06-23T11:46:47.000Z",
+      "xQuery": "米イラン合意 イスラエル国民不安"
     },
     {
-      "time": "16:46",
-      "title": "社外取の再任否決 日産に不満噴出",
+      "time": "20:46",
+      "title": "解散命令が確定 旧統一は「遺憾」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585363?source=rss",
-      "publishedAt": "2026-06-23T07:46:21.000Z",
-      "xQuery": "社外取の再任否決 日産に不満噴出"
+      "url": "https://news.yahoo.co.jp/pickup/6585401?source=rss",
+      "publishedAt": "2026-06-23T11:46:06.000Z",
+      "xQuery": "解散命令が確定 旧統一は「遺憾」"
     },
     {
-      "time": "17:34",
-      "title": "ブレグジット10年 英とEU溝深く",
+      "time": "22:00",
+      "title": "冷凍庫に切断された遺体 元妻逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585371?source=rss",
-      "publishedAt": "2026-06-23T08:34:52.000Z",
-      "xQuery": "ブレグジット10年 英とEU溝深く"
+      "url": "https://news.yahoo.co.jp/pickup/6585411?source=rss",
+      "publishedAt": "2026-06-23T13:00:24.000Z",
+      "xQuery": "冷凍庫に切断された遺体 元妻逮捕"
     },
     {
       "time": "20:00",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "5歳不明 父親は当時川を泳ぎ探す"
     },
     {
-      "time": "17:56",
-      "title": "給食の緑茶は大量廃棄 驚いた市長",
+      "time": "21:04",
+      "title": "生徒の土下座動画 いじめと市判断",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585377?source=rss",
-      "publishedAt": "2026-06-23T08:56:36.000Z",
-      "xQuery": "給食の緑茶は大量廃棄 驚いた市長"
+      "url": "https://news.yahoo.co.jp/pickup/6585404?source=rss",
+      "publishedAt": "2026-06-23T12:04:20.000Z",
+      "xQuery": "生徒の土下座動画 いじめと市判断"
     }
   ]
 };

@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-06-23T11:35:51.218Z",
+  "updatedAt": "2026-06-23T13:11:52.186Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "14:21",
-        "title": "プレスリリース：［設備保全DX］ものづくりワールド東京に次世代設備保全クラウド「M2X」ブースを出展（PR TIMES）",
-        "source": "毎日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GdjFUS0RjdnEzekpWX2pab3NpZGw3c2JhLXc2bDZiZG5Jc0RqanBYQW51bXhZSVdmSGhMNTktbi1pUG12VzdDNXNsZmJpSF9zQ0xETWdkQ0tBRkxOVVpFXzY0S0NpeHVQ?oc=5",
-        "publishedAt": "2026-06-23T05:21:37.000Z"
-      },
       {
         "time": "12:10",
         "title": "エンビプロＨＤ、アマダ・東京製鐵と循環型資源プロジェクト、工作機械を鋼材原料へ - kabu-ir.com",
@@ -38,6 +31,13 @@
         "publishedAt": "2026-06-23T01:54:58.000Z"
       },
       {
+        "time": "21:15",
+        "title": "【設備保全DX】ものづくりワールド東京に次世代設備保全クラウド「M2X」ブースを出展",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XMXFZSXQyellxU2ExRHRHTWNRbWJPUXo2SFhTRWhHOHRqbWhIX2lDN3M4Q1ZUdzRQTlFVRTZ4ZTNZR2tIWVBzWHVtb1hIelh3X2h6UzQzc2pDUXNMT1d3WnM2STBZV0NZSWN4SjdBSGFFcXB3Y2R1WHBnVQ?oc=5",
+        "publishedAt": "2026-06-23T12:15:35.000Z"
+      },
+      {
         "time": "07:45",
         "title": "ソディック“三種の神器”でデータセンター需要追うも、中計は「それに頼らず」（MONOist）",
         "source": "Yahoo!ニュース",
@@ -45,21 +45,28 @@
         "publishedAt": "2026-06-22T22:45:15.000Z"
       },
       {
-        "time": "12:03",
-        "title": "2026年冷却ファン市場レポート：市場規模・見通し・次期産業戦略- 年平均成長率（CAGR）3.55％で安定成長（2026～2032年）",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qM2NVZ3JWd2l0R0kzZGN4Vmw2a01GZHp5VjhneXpQaUJ1M0xsc2xISU5TZ1lYa0NlMWk0SkRELVMxVkZxXzkxTWNQdS1ZUmxFMm4zQ2RjcU1uYlRtZHN3VVlqSlU3ZGZU?oc=5",
-        "publishedAt": "2026-06-23T03:03:30.000Z"
-      },
-      {
         "time": "05:04",
         "title": "ニコン、後工程向け「デジタル露光装置」大型基板に照準",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrR2hOdjNJUFUyeVFkaFhLejN2MlhOd1Vka3dicXdCdW1MczZlcDBfS0Y0VHNGU1VlZmdSRFpwWERfWjZ1VEluMVVFWFQ5d2ZWbHhKX28xVmZRcm8?oc=5",
         "publishedAt": "2026-06-22T20:04:11.000Z"
+      },
+      {
+        "time": "17:00",
+        "title": "STARGLOW日穏（KANON）、賀来賢人＆ムロツヨシ参考にした“新米死神”役作り秘話【「死神バーバー」インタビュー前編】",
+        "source": "thenews.ne.jp",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QeHlSdDdKWW9xdERuYk9pZnZRc0NmTkxmejV5d2dLZTZ1UUxRaGUyaTZtWHMyZlotUDd4UVVjMEZ1dXZEZ2l1enBmX1JNRHRoOWhJ?oc=5",
+        "publishedAt": "2026-06-23T08:00:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "20:46",
+        "title": "米イラン合意 イスラエル国民不安",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585402?source=rss",
+        "publishedAt": "2026-06-23T11:46:47.000Z"
+      },
       {
         "time": "09:34",
         "title": "米とイラン 核査察で相違浮き彫り",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585314?source=rss",
         "publishedAt": "2026-06-23T03:25:47.000Z"
-      },
-      {
-        "time": "11:33",
-        "title": "金正恩氏 日本を名指しで非難",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585317?source=rss",
-        "publishedAt": "2026-06-23T02:33:48.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,11 +126,18 @@
         "publishedAt": "2026-06-23T04:08:43.000Z"
       },
       {
-        "time": "16:36",
-        "title": "TOTO 半導体事業に800億円計画",
+        "time": "21:43",
+        "title": "トキエア和田CEO退任 異例の事態",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585360?source=rss",
-        "publishedAt": "2026-06-23T07:36:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585409?source=rss",
+        "publishedAt": "2026-06-23T12:43:33.000Z"
+      },
+      {
+        "time": "21:44",
+        "title": "首都高の官製談合 社員4人を懲戒",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585408?source=rss",
+        "publishedAt": "2026-06-23T12:44:32.000Z"
       },
       {
         "time": "16:21",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585357?source=rss",
         "publishedAt": "2026-06-23T07:21:27.000Z"
-      },
-      {
-        "time": "17:37",
-        "title": "海苔なしおにぎりが拡大 51円差も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585374?source=rss",
-        "publishedAt": "2026-06-23T08:37:22.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-06-23T05:36:39.000Z"
       },
       {
+        "time": "22:00",
+        "title": "冷凍庫に切断された遺体 元妻逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585411?source=rss",
+        "publishedAt": "2026-06-23T13:00:24.000Z"
+      },
+      {
         "time": "20:00",
         "title": "5歳不明 父親は当時川を泳ぎ探す",
         "source": "Yahoo!ニュース",
@@ -163,11 +170,11 @@
         "publishedAt": "2026-06-23T11:00:16.000Z"
       },
       {
-        "time": "15:50",
-        "title": "小学校で約40人嘔吐など訴え欠席",
+        "time": "21:04",
+        "title": "生徒の土下座動画 いじめと市判断",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585355?source=rss",
-        "publishedAt": "2026-06-23T06:50:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585404?source=rss",
+        "publishedAt": "2026-06-23T12:04:20.000Z"
       },
       {
         "time": "17:32",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585338?source=rss",
         "publishedAt": "2026-06-23T05:04:43.000Z"
-      },
-      {
-        "time": "19:46",
-        "title": "自衛官に上司が女装強要 公務災害",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585391?source=rss",
-        "publishedAt": "2026-06-23T10:46:17.000Z"
       }
     ],
     "subsidyHeadlines": [
