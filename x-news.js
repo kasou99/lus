@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-23T20:51:57.525Z",
+  "updatedAt": "2026-06-23T21:39:34.406Z",
   "items": [
     {
       "time": "23:59",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 追悼式で相次いだヤジに言及"
     },
     {
+      "time": "06:36",
+      "title": "日系電機大手の社員 中国で拘束",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585427?source=rss",
+      "publishedAt": "2026-06-23T21:36:12.000Z",
+      "xQuery": "日系電機大手の社員 中国で拘束"
+    },
+    {
       "time": "22:00",
       "title": "冷凍庫に切断された遺体 元妻逮捕",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585393?source=rss",
       "publishedAt": "2026-06-23T11:00:16.000Z",
       "xQuery": "5歳不明 父親は当時川を泳ぎ探す"
-    },
-    {
-      "time": "22:39",
-      "title": "ポテトチップス白黒袋 絵師に流行",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585419?source=rss",
-      "publishedAt": "2026-06-23T13:39:46.000Z",
-      "xQuery": "ポテトチップス白黒袋 絵師に流行"
     }
   ]
 };
