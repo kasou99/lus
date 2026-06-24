@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-24T11:08:31.004Z",
+  "updatedAt": "2026-06-24T12:19:03.640Z",
   "items": [
     {
       "time": "18:55",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "九州〜関東 警報級の大雨続く恐れ"
     },
     {
-      "time": "16:31",
-      "title": "ストーカー対策アプリ 韓国で開始",
+      "time": "20:25",
+      "title": "雨で浸水相次ぐ ボートで住民救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585490?source=rss",
-      "publishedAt": "2026-06-24T07:31:43.000Z",
-      "xQuery": "ストーカー対策アプリ 韓国で開始"
+      "url": "https://news.yahoo.co.jp/pickup/6585517?source=rss",
+      "publishedAt": "2026-06-24T11:25:51.000Z",
+      "xQuery": "雨で浸水相次ぐ ボートで住民救助"
     },
     {
-      "time": "17:36",
-      "title": "内田梨瑚被告 控訴しない方針",
+      "time": "20:41",
+      "title": "弁護側 内田梨瑚被告は判決に納得",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585498?source=rss",
-      "publishedAt": "2026-06-24T08:36:03.000Z",
-      "xQuery": "内田梨瑚被告 控訴しない方針"
+      "url": "https://news.yahoo.co.jp/pickup/6585518?source=rss",
+      "publishedAt": "2026-06-24T11:41:28.000Z",
+      "xQuery": "弁護側 内田梨瑚被告は判決に納得"
     },
     {
-      "time": "18:02",
-      "title": "小学校火災 洗濯物乾かしたと教師",
+      "time": "21:11",
+      "title": "高崎の殺人事件 被害者は28歳女性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585500?source=rss",
-      "publishedAt": "2026-06-24T09:02:21.000Z",
-      "xQuery": "小学校火災 洗濯物乾かしたと教師"
+      "url": "https://news.yahoo.co.jp/pickup/6585520?source=rss",
+      "publishedAt": "2026-06-24T12:11:23.000Z",
+      "xQuery": "高崎の殺人事件 被害者は28歳女性"
     },
     {
-      "time": "18:38",
-      "title": "ファミマ店舗にクマ撃退装置 実験",
+      "time": "16:54",
+      "title": "自転車追い抜き 新規定で別の違反",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585504?source=rss",
-      "publishedAt": "2026-06-24T09:38:59.000Z",
-      "xQuery": "ファミマ店舗にクマ撃退装置 実験"
+      "url": "https://news.yahoo.co.jp/pickup/6585491?source=rss",
+      "publishedAt": "2026-06-24T07:54:37.000Z",
+      "xQuery": "自転車追い抜き 新規定で別の違反"
     }
   ]
 };
