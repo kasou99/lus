@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-24T08:13:40.537Z",
+  "updatedAt": "2026-06-24T09:47:25.541Z",
   "items": [
     {
-      "time": "13:30",
-      "title": "婚姻・出生数前年上回る 1-4月期",
+      "time": "18:06",
+      "title": "自民・維新 副首都法案を国会提出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585467?source=rss",
-      "publishedAt": "2026-06-24T04:30:29.000Z",
-      "xQuery": "婚姻・出生数前年上回る 1-4月期"
-    },
-    {
-      "time": "16:03",
-      "title": "7/6ハメネイ師国葬 2千万人参列へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585487?source=rss",
-      "publishedAt": "2026-06-24T07:03:26.000Z",
-      "xQuery": "7/6ハメネイ師国葬 2千万人参列へ"
-    },
-    {
-      "time": "15:34",
-      "title": "小学校火災 失火の容疑で捜査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585485?source=rss",
-      "publishedAt": "2026-06-24T06:34:19.000Z",
-      "xQuery": "小学校火災 失火の容疑で捜査"
-    },
-    {
-      "time": "16:54",
-      "title": "自転車追い抜き 新規定で別の違反",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585491?source=rss",
-      "publishedAt": "2026-06-24T07:54:37.000Z",
-      "xQuery": "自転車追い抜き 新規定で別の違反"
+      "url": "https://news.yahoo.co.jp/pickup/6585501?source=rss",
+      "publishedAt": "2026-06-24T09:06:52.000Z",
+      "xQuery": "自民・維新 副首都法案を国会提出"
     },
     {
       "time": "16:31",
-      "title": "若年層で変化「包丁キャンセル」",
+      "title": "ストーカー対策アプリ 韓国で開始",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585489?source=rss",
-      "publishedAt": "2026-06-24T07:31:10.000Z",
-      "xQuery": "若年層で変化「包丁キャンセル」"
+      "url": "https://news.yahoo.co.jp/pickup/6585490?source=rss",
+      "publishedAt": "2026-06-24T07:31:43.000Z",
+      "xQuery": "ストーカー対策アプリ 韓国で開始"
+    },
+    {
+      "time": "17:16",
+      "title": "ペルー大統領選 ケイコ氏勝利確実",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585495?source=rss",
+      "publishedAt": "2026-06-24T08:16:27.000Z",
+      "xQuery": "ペルー大統領選 ケイコ氏勝利確実"
+    },
+    {
+      "time": "17:36",
+      "title": "内田梨瑚被告 控訴しない方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585498?source=rss",
+      "publishedAt": "2026-06-24T08:36:03.000Z",
+      "xQuery": "内田梨瑚被告 控訴しない方針"
+    },
+    {
+      "time": "18:02",
+      "title": "小学校火災 洗濯物乾かしたと教師",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585500?source=rss",
+      "publishedAt": "2026-06-24T09:02:21.000Z",
+      "xQuery": "小学校火災 洗濯物乾かしたと教師"
     }
   ]
 };
