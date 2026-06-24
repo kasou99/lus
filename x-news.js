@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-23T23:56:16.431Z",
+  "updatedAt": "2026-06-24T01:09:03.491Z",
   "items": [
     {
-      "time": "07:20",
-      "title": "ダブル台風 8号は27日関東接近か",
+      "time": "09:09",
+      "title": "鹿児島県に線状降水帯発生 警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585432?source=rss",
-      "publishedAt": "2026-06-23T22:20:39.000Z",
-      "xQuery": "ダブル台風 8号は27日関東接近か"
-    },
-    {
-      "time": "07:43",
-      "title": "AIなど成長分野予算に特別枠 方針",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585435?source=rss",
-      "publishedAt": "2026-06-23T22:43:04.000Z",
-      "xQuery": "AIなど成長分野予算に特別枠 方針"
+      "url": "https://news.yahoo.co.jp/pickup/6585444?source=rss",
+      "publishedAt": "2026-06-24T00:09:12.000Z",
+      "xQuery": "鹿児島県に線状降水帯発生 警戒を"
     },
     {
       "time": "08:47",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ロシア ウ東部要塞「事実上制圧」"
     },
     {
-      "time": "06:36",
-      "title": "日系電機大手の社員 中国で拘束",
+      "time": "09:37",
+      "title": "副首都法案の修正 自維連立に火種",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585427?source=rss",
-      "publishedAt": "2026-06-23T21:36:12.000Z",
-      "xQuery": "日系電機大手の社員 中国で拘束"
+      "url": "https://news.yahoo.co.jp/pickup/6585447?source=rss",
+      "publishedAt": "2026-06-24T00:37:12.000Z",
+      "xQuery": "副首都法案の修正 自維連立に火種"
     },
     {
-      "time": "06:44",
-      "title": "駐車場に血まみれの女性 死亡",
+      "time": "09:24",
+      "title": "車が原付バイクと衝突 高校生死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585428?source=rss",
-      "publishedAt": "2026-06-23T21:44:46.000Z",
-      "xQuery": "駐車場に血まみれの女性 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6585446?source=rss",
+      "publishedAt": "2026-06-24T00:24:40.000Z",
+      "xQuery": "車が原付バイクと衝突 高校生死亡"
+    },
+    {
+      "time": "08:56",
+      "title": "クマ出没巡り 市に批判など400件",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585443?source=rss",
+      "publishedAt": "2026-06-23T23:56:05.000Z",
+      "xQuery": "クマ出没巡り 市に批判など400件"
     }
   ]
 };
