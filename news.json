@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-06-24T16:21:11.466Z",
+  "updatedAt": "2026-06-24T17:15:20.259Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "22:58",
-        "title": "ニコン、後工程向け「デジタル露光装置」大型基板に照準",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrR2hOdjNJUFUyeVFkaFhLejN2MlhOd1Vka3dicXdCdW1MczZlcDBfS0Y0VHNGU1VlZmdSRFpwWERfWjZ1VEluMVVFWFQ5d2ZWbHhKX28xVmZRcm8?oc=5",
-        "publishedAt": "2026-06-24T13:58:12.000Z"
-      },
       {
         "time": "10:56",
         "title": "マカオの大潭山トンネル建設現場で労災事故発生…作業員1人が工作機械に挟まれ重体（マカオ新聞）",
@@ -22,6 +15,20 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kckxXUTVFZTF0WVhVOUt0bDIzN0psWDJjZ0NNb3puSlA5Y1RpQm1naVNJMkcyZUFfYjVoLWFRT3dDTWpXNy0xakhTblNwYUE5REJEZWUtRHZUU09xTmVvX3A1ZlJ1REJuWmI2QVRJWVFna2tCTVE?oc=5",
         "publishedAt": "2026-06-24T12:48:25.000Z"
+      },
+      {
+        "time": "18:02",
+        "title": "人事、オークマ",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcnhFTEtIaHAxdXRmekd5MHd1Y0xxM3duS21YVW9paVA5WVAwdVJmYnBLVDJfRExKWFhVZXVqRHNObU55YU1RWE85bl9VTXVqS2VXMDFPdGpWYmJ4MjVaRTRUc0JUNDNDbUY3eTFXaFpxZjNwSTNOdm91TXBMVm56cVZRNnJibUpxd0dtX3BaR1ZmUVB1WHdmOHd2V0FMMS1nR0dOekJJTXE?oc=5",
+        "publishedAt": "2026-06-24T09:02:00.000Z"
+      },
+      {
+        "time": "07:00",
+        "title": "シーメンス幹部「AIの奴隷にはならない」、産業用AIは製造現場の何を変えるか：FAインタビュー（1/3 ページ）",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HZWwxYTNqTDVGdzI0TklJUXg5LVFGWEtFdkl3S3RhZllyczhuNVdFNUlleENuUmJmWXRuX3dfSW1UTFAwLVdlZUhtd0xNMW40SzNJT2k1MDJYOFV2YTlBNXI4dmFMdGs2MTFnRlI4Yw?oc=5",
+        "publishedAt": "2026-06-23T22:00:00.000Z"
       },
       {
         "time": "09:12",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-06-24T01:57:37.000Z"
       },
       {
-        "time": "10:56",
-        "title": "マカオの大潭山トンネル建設現場で労災事故発生…作業員1人が工作機械に挟まれ重体 (マカオ新聞)",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2NxVTFEeVk3Q25XbFdZdnlwMGgyekRqMm5NZTJrdHU5Z2YwMWtGdlNnSWNMWE4xZzdrRkJYN2lfaFhkaHBtX2NPYkZOaVU1QndFbGhkSTZldnZMNUdLaGEybHF0Mk10RC1VemVNMW5mZFNwYXJXeEVVamt5cGFtSmdKLXFlRVBSM2pIV3pB?oc=5",
-        "publishedAt": "2026-06-24T01:56:49.000Z"
-      },
-      {
-        "time": "06:16",
-        "title": "さあ出番／池貝社長に就任した市場久貴氏 三現主義で顧客に応える",
+        "time": "08:15",
+        "title": "サトー、平野屋物産の全株取得 完全子会社に 履歴管理を高度化",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mNlY1c0xEMkh6TDI0dFc4TE5hSkdpSWExMWxTWHhzUTVhZlZWWDF3cHQ5czRQMmtNRTdWMWJQTXRCNnF5ZVp5b3FIdk1vdzZ6QkliT0pjcEQ?oc=5",
-        "publishedAt": "2026-06-23T21:16:18.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKal9Udk1UU3YydFFZbFI5bjQzOGZjRnB5UnJma3pRUzA4TDN5cDRTSkFIdHBrNHFFM0JYbzEzdGpQSDVyWlFBQi1oNjk0My1adU1tTlU3dGJ4QWFtTTF0Q2NfaVo1STNucWdiSU96djQzVXVBOVFhcWgzUQ?oc=5",
+        "publishedAt": "2026-06-23T23:15:00.000Z"
       },
       {
-        "time": "11:19",
-        "title": "「サイエンス実践塾体験研究室」の参加高校生を募集します！～ 最先端の科学技術を県内大学・企業で体験！～",
-        "source": "pref.aichi.jp",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01TnZZejc5aFplZVc4YzgzWHQ0Ylh1SEo2aFAxUWJ5a3ZBTFEzTDN1U1JuNFlVbDBCcEM4bzgwNGVVV3Y5Z3RrYmVzR0ZYdm90bW01OE1ZT3REd19pNFpmYlNVbURWZi13OEZwdkVJbm4?oc=5",
-        "publishedAt": "2026-06-24T02:19:30.000Z"
+        "time": "05:13",
+        "title": "豊和工業、主力２機種を20年ぶり 路面清掃車を全面改良 作業性や安全性向上 - chukei-news.co.jp",
+        "source": "chukei-news.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12clUwOVI5OGY5bW0yVWktOENQbDlmMU1LQ09pLXBHU0hxYWRTZlVwY2lpZEpxRjNoVndQR0tHZk5sS2xGYjFacUk0Vk5mOWZZU3pEbzluejNoQ3dQdU1HRWVCNm5sUkVwa0pWVm5YbC1WMUU?oc=5",
+        "publishedAt": "2026-06-23T20:13:58.000Z"
       }
     ],
     "worldHeadlines": [
