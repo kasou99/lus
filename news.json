@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-24T18:11:12.728Z",
+  "updatedAt": "2026-06-24T19:06:35.379Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "02:09",
+        "title": "（人事・機械）オークマ",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLXFCNW56U2s3eUgwa0FWTkJFQ05GVjJYTmdxS2N6RzVKUU80ZnBhS0hCbUJ3dVprOHhxWWdwOHgza0x2TEFPaFFlSUwwbklfeVJVME9BdTBtLWpkUFE0aV9jSXo3SEdVNEl5X1NpaE1mR0p5TEZ2cFl4SnVWLUdHVUVjUjk4cVAzczJQRTJmRTZ2bEVmVFBqTm5LOEN5SWlVOTRrUXBmWmo?oc=5",
+        "publishedAt": "2026-06-24T17:09:11.000Z"
+      },
       {
         "time": "10:56",
         "title": "マカオの大潭山トンネル建設現場で労災事故発生…作業員1人が工作機械に挟まれ重体（マカオ新聞）",
@@ -24,11 +31,11 @@
         "publishedAt": "2026-06-24T08:50:13.000Z"
       },
       {
-        "time": "07:00",
-        "title": "シーメンス幹部「AIの奴隷にはならない」、産業用AIは製造現場の何を変えるか：FAインタビュー（1/3 ページ）",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HZWwxYTNqTDVGdzI0TklJUXg5LVFGWEtFdkl3S3RhZllyczhuNVdFNUlleENuUmJmWXRuX3dfSW1UTFAwLVdlZUhtd0xNMW40SzNJT2k1MDJYOFV2YTlBNXI4dmFMdGs2MTFnRlI4Yw?oc=5",
-        "publishedAt": "2026-06-23T22:00:00.000Z"
+        "time": "10:02",
+        "title": "エコノミストが解く生活の経済学（21）物価高物ともせぬ推し活",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tanBaTng4SU44TDZPR0l3Q0MzUEluUDliSGZNdXBYUlF1aDM0Q01JTE5YcHpoTDBHU3cxcDQtWWU1VDFDUzVRckc1NG9YRHEzUVdCSjFKeFZyWXM?oc=5",
+        "publishedAt": "2026-06-24T01:02:10.000Z"
       },
       {
         "time": "09:12",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-06-24T00:12:17.000Z"
       },
       {
+        "time": "07:00",
+        "title": "シーメンス幹部「AIの奴隷にはならない」、産業用AIは製造現場の何を変えるか：FAインタビュー（1/3 ページ）",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HZWwxYTNqTDVGdzI0TklJUXg5LVFGWEtFdkl3S3RhZllyczhuNVdFNUlleENuUmJmWXRuX3dfSW1UTFAwLVdlZUhtd0xNMW40SzNJT2k1MDJYOFV2YTlBNXI4dmFMdGs2MTFnRlI4Yw?oc=5",
+        "publishedAt": "2026-06-23T22:00:00.000Z"
+      },
+      {
         "time": "10:57",
         "title": "マカオの大潭山トンネル建設現場で労災事故発生…作業員1人が工作機械に挟まれ重体 | チバテレ＋プラス",
         "source": "千葉テレビ放送株式会社",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZRjZWZXNUZ2pNZDA5QnUtLVFQNmNIOUk2XzFKSUFTclBMT0hOQXpkb2NmRXo0U211UExIbEprMHpLS29uLUlQeXRNY3c4X09lX1EtbUZIRmo5YjE2UnlncWMwMnnSAWRBVV95cUxOWUY2VmVzVGdqTWQwOUJ1LS1RUDZjSDlJNl8xSklBU3JQTE9ITkF6ZG9jZkV6NFNtdVBMSGxKazB6S0tvbi1JUHl0TWN3OF9PZV9RLW1GSEZqOWIxNlJ5Z3FjMDJ5?oc=5",
         "publishedAt": "2026-06-24T01:57:37.000Z"
-      },
-      {
-        "time": "06:55",
-        "title": "オプティム、和歌山に来月オフィス開設",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TQ3VrT2dhZEk5aUZxLTBpSUxQQTZCYWpHaG1FdFlrVGhxX1o0bXc5Q2lrOU1JbU9Kc3RET2htN2dBQkJveG5UN1BwZ0c4eXM2cTRVOGpHZHAybHZxR25iNmx5Sm9WVWtwOVd3OUJRV3pRekF5?oc=5",
-        "publishedAt": "2026-06-23T21:55:07.000Z"
-      },
-      {
-        "time": "10:56",
-        "title": "マカオの大潭山トンネル建設現場で労災事故発生…作業員1人が工作機械に挟まれ重体 (マカオ新聞)",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2NxVTFEeVk3Q25XbFdZdnlwMGgyekRqMm5NZTJrdHU5Z2YwMWtGdlNnSWNMWE4xZzdrRkJYN2lfaFhkaHBtX2NPYkZOaVU1QndFbGhkSTZldnZMNUdLaGEybHF0Mk10RC1VemVNMW5mZFNwYXJXeEVVamt5cGFtSmdKLXFlRVBSM2pIV3pB?oc=5",
-        "publishedAt": "2026-06-24T01:56:49.000Z"
       }
     ],
     "worldHeadlines": [
