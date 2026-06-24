@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T17:15:20.259Z",
+  "updatedAt": "2026-06-24T18:11:12.728Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-06-24T12:48:25.000Z"
       },
       {
-        "time": "18:02",
-        "title": "人事、オークマ",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcnhFTEtIaHAxdXRmekd5MHd1Y0xxM3duS21YVW9paVA5WVAwdVJmYnBLVDJfRExKWFhVZXVqRHNObU55YU1RWE85bl9VTXVqS2VXMDFPdGpWYmJ4MjVaRTRUc0JUNDNDbUY3eTFXaFpxZjNwSTNOdm91TXBMVm56cVZRNnJibUpxd0dtX3BaR1ZmUVB1WHdmOHd2V0FMMS1nR0dOekJJTXE?oc=5",
-        "publishedAt": "2026-06-24T09:02:00.000Z"
+        "time": "17:50",
+        "title": "NSSK、牧野フライス買収価格を1万6000円前後に大幅引き上げ再提案",
+        "source": "finance.biggo.jp",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xQllvVVJZaGJIMjFXTy1VeTZWYzQ3YkdSeFMxZmt6WTg5TmxpeXVJQnAzbU9KVGtuZjhKWW5rYnBqLXlCaEQwb04xWWM2QS0zc1dJVW83WUhKOHhERTZ0M01IQTQzV2I4b2ktY3ZIOGxkY2N0?oc=5",
+        "publishedAt": "2026-06-24T08:50:13.000Z"
       },
       {
         "time": "07:00",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-24T01:57:37.000Z"
       },
       {
-        "time": "08:15",
-        "title": "サトー、平野屋物産の全株取得 完全子会社に 履歴管理を高度化",
+        "time": "06:55",
+        "title": "オプティム、和歌山に来月オフィス開設",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKal9Udk1UU3YydFFZbFI5bjQzOGZjRnB5UnJma3pRUzA4TDN5cDRTSkFIdHBrNHFFM0JYbzEzdGpQSDVyWlFBQi1oNjk0My1adU1tTlU3dGJ4QWFtTTF0Q2NfaVo1STNucWdiSU96djQzVXVBOVFhcWgzUQ?oc=5",
-        "publishedAt": "2026-06-23T23:15:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TQ3VrT2dhZEk5aUZxLTBpSUxQQTZCYWpHaG1FdFlrVGhxX1o0bXc5Q2lrOU1JbU9Kc3RET2htN2dBQkJveG5UN1BwZ0c4eXM2cTRVOGpHZHAybHZxR25iNmx5Sm9WVWtwOVd3OUJRV3pRekF5?oc=5",
+        "publishedAt": "2026-06-23T21:55:07.000Z"
       },
       {
-        "time": "05:13",
-        "title": "豊和工業、主力２機種を20年ぶり 路面清掃車を全面改良 作業性や安全性向上 - chukei-news.co.jp",
-        "source": "chukei-news.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12clUwOVI5OGY5bW0yVWktOENQbDlmMU1LQ09pLXBHU0hxYWRTZlVwY2lpZEpxRjNoVndQR0tHZk5sS2xGYjFacUk0Vk5mOWZZU3pEbzluejNoQ3dQdU1HRWVCNm5sUkVwa0pWVm5YbC1WMUU?oc=5",
-        "publishedAt": "2026-06-23T20:13:58.000Z"
+        "time": "10:56",
+        "title": "マカオの大潭山トンネル建設現場で労災事故発生…作業員1人が工作機械に挟まれ重体 (マカオ新聞)",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2NxVTFEeVk3Q25XbFdZdnlwMGgyekRqMm5NZTJrdHU5Z2YwMWtGdlNnSWNMWE4xZzdrRkJYN2lfaFhkaHBtX2NPYkZOaVU1QndFbGhkSTZldnZMNUdLaGEybHF0Mk10RC1VemVNMW5mZFNwYXJXeEVVamt5cGFtSmdKLXFlRVBSM2pIV3pB?oc=5",
+        "publishedAt": "2026-06-24T01:56:49.000Z"
       }
     ],
     "worldHeadlines": [
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "12:00",
+        "title": "設備投資に使える補助金まとめ【2026年・目的別】省力化・業務改善助成金など最大1億円の支援を解説",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41Tk91V0hXbzlDZktaTzFPeHd3dS1yZUVpNjVsSHo5aURNd3Y0ZGhPMXZpVEJuOFEyaVNJb0hsWENjSjdVLXUzV1pmd3hjYnJEN05CN2lTQzlwdzNZdFo5SHAwZ1l2dXZzVzJHVHhuejA?oc=5",
+        "publishedAt": "2026-06-16T03:00:00.000Z"
       }
     ]
   }
