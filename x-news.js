@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-24T02:24:47.199Z",
+  "updatedAt": "2026-06-24T03:48:45.849Z",
   "items": [
     {
-      "time": "08:04",
-      "title": "骨太方針素案 有事の国営工廠検討",
+      "time": "12:23",
+      "title": "台風 九州-関東で警報級大雨恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585438?source=rss",
-      "publishedAt": "2026-06-23T23:04:06.000Z",
-      "xQuery": "骨太方針素案 有事の国営工廠検討"
+      "url": "https://news.yahoo.co.jp/pickup/6585466?source=rss",
+      "publishedAt": "2026-06-24T03:23:12.000Z",
+      "xQuery": "台風 九州-関東で警報級大雨恐れ"
     },
     {
-      "time": "09:09",
-      "title": "鹿児島県に線状降水帯発生 警戒を",
+      "time": "11:54",
+      "title": "中国当局が日本人2人拘束 木原氏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585444?source=rss",
-      "publishedAt": "2026-06-24T00:09:12.000Z",
-      "xQuery": "鹿児島県に線状降水帯発生 警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6585461?source=rss",
+      "publishedAt": "2026-06-24T02:54:05.000Z",
+      "xQuery": "中国当局が日本人2人拘束 木原氏"
     },
     {
-      "time": "09:24",
-      "title": "車が原付バイクと衝突 高校生死亡",
+      "time": "11:27",
+      "title": "高崎で女性死亡 逃走車の男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585446?source=rss",
-      "publishedAt": "2026-06-24T00:24:40.000Z",
-      "xQuery": "車が原付バイクと衝突 高校生死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6585457?source=rss",
+      "publishedAt": "2026-06-24T02:27:06.000Z",
+      "xQuery": "高崎で女性死亡 逃走車の男性死亡"
     },
     {
-      "time": "11:08",
-      "title": "運転代行中に病死か 店などに衝突",
+      "time": "12:44",
+      "title": "パンチのサル山にレーザー照射",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585453?source=rss",
-      "publishedAt": "2026-06-24T02:08:20.000Z",
-      "xQuery": "運転代行中に病死か 店などに衝突"
+      "url": "https://news.yahoo.co.jp/pickup/6585470?source=rss",
+      "publishedAt": "2026-06-24T03:44:59.000Z",
+      "xQuery": "パンチのサル山にレーザー照射"
     },
     {
-      "time": "08:56",
-      "title": "クマ出没巡り 市に批判など400件",
+      "time": "12:04",
+      "title": "任天堂の株価低迷 業界が暗い時代",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585443?source=rss",
-      "publishedAt": "2026-06-23T23:56:05.000Z",
-      "xQuery": "クマ出没巡り 市に批判など400件"
+      "url": "https://news.yahoo.co.jp/pickup/6585464?source=rss",
+      "publishedAt": "2026-06-24T03:04:37.000Z",
+      "xQuery": "任天堂の株価低迷 業界が暗い時代"
     }
   ]
 };
