@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-24T01:09:03.491Z",
+  "updatedAt": "2026-06-24T02:24:47.199Z",
   "items": [
+    {
+      "time": "08:04",
+      "title": "骨太方針素案 有事の国営工廠検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585438?source=rss",
+      "publishedAt": "2026-06-23T23:04:06.000Z",
+      "xQuery": "骨太方針素案 有事の国営工廠検討"
+    },
     {
       "time": "09:09",
       "title": "鹿児島県に線状降水帯発生 警戒を",
@@ -10,28 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "鹿児島県に線状降水帯発生 警戒を"
     },
     {
-      "time": "08:47",
-      "title": "ロシア ウ東部要塞「事実上制圧」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585441?source=rss",
-      "publishedAt": "2026-06-23T23:47:31.000Z",
-      "xQuery": "ロシア ウ東部要塞「事実上制圧」"
-    },
-    {
-      "time": "09:37",
-      "title": "副首都法案の修正 自維連立に火種",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585447?source=rss",
-      "publishedAt": "2026-06-24T00:37:12.000Z",
-      "xQuery": "副首都法案の修正 自維連立に火種"
-    },
-    {
       "time": "09:24",
       "title": "車が原付バイクと衝突 高校生死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6585446?source=rss",
       "publishedAt": "2026-06-24T00:24:40.000Z",
       "xQuery": "車が原付バイクと衝突 高校生死亡"
+    },
+    {
+      "time": "11:08",
+      "title": "運転代行中に病死か 店などに衝突",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585453?source=rss",
+      "publishedAt": "2026-06-24T02:08:20.000Z",
+      "xQuery": "運転代行中に病死か 店などに衝突"
     },
     {
       "time": "08:56",

@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-06-24T01:09:02.812Z",
+  "updatedAt": "2026-06-24T02:24:46.278Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "10:56",
+        "title": "マカオの大潭山トンネル建設現場で労災事故発生…作業員1人が工作機械に挟まれ重体（マカオ新聞）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IbGQzYmItWXo5NFZSWEMtQl9odjgtR1RDRUFEQS03ZVIyYjJhdnplLVlWN3dpYWwzMDlKejdMRDhwbEYyMWlaWS1HV0RIUzlIWERGb1duQWRRUWNkcDVsODM1dWoyWWZKM2ItRzYwUlgyeEhFWFFGd080ZUhNMVU?oc=5",
+        "publishedAt": "2026-06-24T01:56:49.000Z"
+      },
       {
         "time": "07:00",
         "title": "シーメンス幹部「AIの奴隷にはならない」、産業用AIは製造現場の何を変えるか：FAインタビュー（1/3 ページ）",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HZWwxYTNqTDVGdzI0TklJUXg5LVFGWEtFdkl3S3RhZllyczhuNVdFNUlleENuUmJmWXRuX3dfSW1UTFAwLVdlZUhtd0xNMW40SzNJT2k1MDJYOFV2YTlBNXI4dmFMdGs2MTFnRlI4Yw?oc=5",
         "publishedAt": "2026-06-23T22:00:00.000Z"
+      },
+      {
+        "time": "10:02",
+        "title": "エコノミストが解く生活の経済学（21）物価高物ともせぬ推し活",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tanBaTng4SU44TDZPR0l3Q0MzUEluUDliSGZNdXBYUlF1aDM0Q01JTE5YcHpoTDBHU3cxcDQtWWU1VDFDUzVRckc1NG9YRHEzUVdCSjFKeFZyWXM?oc=5",
+        "publishedAt": "2026-06-24T01:02:10.000Z"
       },
       {
         "time": "14:21",
@@ -17,16 +31,9 @@
         "publishedAt": "2026-06-23T05:21:37.000Z"
       },
       {
-        "time": "05:03",
-        "title": "エコノミストが解く生活の経済学（21）物価高物ともせぬ推し活",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tanBaTng4SU44TDZPR0l3Q0MzUEluUDliSGZNdXBYUlF1aDM0Q01JTE5YcHpoTDBHU3cxcDQtWWU1VDFDUzVRckc1NG9YRHEzUVdCSjFKeFZyWXM?oc=5",
-        "publishedAt": "2026-06-23T20:03:05.000Z"
-      },
-      {
         "time": "05:13",
-        "title": "豊和工業、主力２機種を20年ぶり 路面清掃車を全面改良 作業性や安全性向上 - chukei-news.co.jp",
-        "source": "chukei-news.co.jp",
+        "title": "豊和工業、主力２機種を20年ぶり 路面清掃車を全面改良 作業性や安全性向上",
+        "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12clUwOVI5OGY5bW0yVWktOENQbDlmMU1LQ09pLXBHU0hxYWRTZlVwY2lpZEpxRjNoVndQR0tHZk5sS2xGYjFacUk0Vk5mOWZZU3pEbzluejNoQ3dQdU1HRWVCNm5sUkVwa0pWVm5YbC1WMUU?oc=5",
         "publishedAt": "2026-06-23T20:13:58.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fTDNQUjlPU3VScjFzWEd5Y0xBNklpVFZsdmlSSkZidy1JcjM3Q2VfaUR2MktKNHQ3QVdWMjJsWjRZOEo5ZVNpc1VsY0ZuRkRxZTA1Um1lajg?oc=5",
         "publishedAt": "2026-06-23T03:03:23.000Z"
-      },
-      {
-        "time": "20:28",
-        "title": "【阪神】才木浩人ジャスト100球、６回３安打８Ｋ無失点で降板 圧巻はドラ１松下歩叶との対戦",
-        "source": "日刊スポーツ",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ0pyLWxndXNFVVZ2Z1FFRzBMNzVrUE82S3VoN25RNll4VUNQZWJLTC1reHRtRjNNWS1ERTBpM3FNYjc2SnhDQUhQWFdOYjRLNTVPNjBqUWhGLXg2TDZyU0l0WlBqRGE1OU9leUJsRkFhVnhJdFRCVWRmbndOZ3NGX19ZV0xtdnBaTGJ5T2hsRQ?oc=5",
-        "publishedAt": "2026-06-23T11:28:47.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,13 +66,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585402?source=rss",
         "publishedAt": "2026-06-23T11:46:47.000Z"
-      },
-      {
-        "time": "09:34",
-        "title": "米とイラン 核査察で相違浮き彫り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585299?source=rss",
-        "publishedAt": "2026-06-23T00:34:50.000Z"
       },
       {
         "time": "08:47",
@@ -94,6 +87,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585384?source=rss",
         "publishedAt": "2026-06-23T09:31:38.000Z"
+      },
+      {
+        "time": "11:33",
+        "title": "金正恩氏 日本を名指しで非難",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585317?source=rss",
+        "publishedAt": "2026-06-23T02:33:48.000Z"
       },
       {
         "time": "12:25",
@@ -170,6 +170,13 @@
         "publishedAt": "2026-06-24T00:24:40.000Z"
       },
       {
+        "time": "11:08",
+        "title": "運転代行中に病死か 店などに衝突",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585453?source=rss",
+        "publishedAt": "2026-06-24T02:08:20.000Z"
+      },
+      {
         "time": "07:20",
         "title": "小学校火災 校舎の建て替え検討",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585443?source=rss",
         "publishedAt": "2026-06-23T23:56:05.000Z"
-      },
-      {
-        "time": "20:00",
-        "title": "5歳不明 父親は当時川を泳ぎ探す",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585393?source=rss",
-        "publishedAt": "2026-06-23T11:00:16.000Z"
       }
     ],
     "subsidyHeadlines": [
