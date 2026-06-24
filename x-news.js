@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-24T13:20:01.525Z",
+  "updatedAt": "2026-06-24T14:20:29.074Z",
   "items": [
     {
       "time": "21:49",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風7号は沖縄に接近へ 警戒を"
     },
     {
-      "time": "21:35",
-      "title": "消費減税 とりまとめ案に野党反発",
+      "time": "22:18",
+      "title": "クールジャパン機構 統廃合検討へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585522?source=rss",
-      "publishedAt": "2026-06-24T12:35:41.000Z",
-      "xQuery": "消費減税 とりまとめ案に野党反発"
+      "url": "https://news.yahoo.co.jp/pickup/6585526?source=rss",
+      "publishedAt": "2026-06-24T13:18:34.000Z",
+      "xQuery": "クールジャパン機構 統廃合検討へ"
     },
     {
-      "time": "21:50",
-      "title": "日産・永井氏 再任賛成48%で否決",
+      "time": "22:26",
+      "title": "5歳男児不明 川が増水し捜索難航",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585524?source=rss",
-      "publishedAt": "2026-06-24T12:50:49.000Z",
-      "xQuery": "日産・永井氏 再任賛成48%で否決"
+      "url": "https://news.yahoo.co.jp/pickup/6585527?source=rss",
+      "publishedAt": "2026-06-24T13:26:48.000Z",
+      "xQuery": "5歳男児不明 川が増水し捜索難航"
     },
     {
       "time": "20:41",

@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-24T13:20:00.547Z",
+  "updatedAt": "2026-06-24T14:20:28.487Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "19:58",
+        "time": "22:58",
         "title": "ニコン、後工程向け「デジタル露光装置」大型基板に照準",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrR2hOdjNJUFUyeVFkaFhLejN2MlhOd1Vka3dicXdCdW1MczZlcDBfS0Y0VHNGU1VlZmdSRFpwWERfWjZ1VEluMVVFWFQ5d2ZWbHhKX28xVmZRcm8?oc=5",
-        "publishedAt": "2026-06-24T10:58:00.000Z"
+        "publishedAt": "2026-06-24T13:58:12.000Z"
       },
       {
         "time": "10:56",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-06-24T01:57:37.000Z"
       },
       {
-        "time": "12:00",
-        "title": "ミクニ製作所、機械解体メンテで技量底上げ 日々「カイゼン」のタネ探す",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZaldVN0ZZODBpTXR5UGpyRDJIZlFhUEoxQnBKbHFtTnlHOWg3cFhHYTc1WDZmeXRPSW1hX09oQVNFUVAyNVNXWGZDU1M3cXpEcVNFakxEdkI4Z0k?oc=5",
-        "publishedAt": "2026-06-24T03:00:00.000Z"
+        "time": "10:56",
+        "title": "マカオの大潭山トンネル建設現場で労災事故発生…作業員1人が工作機械に挟まれ重体 (マカオ新聞)",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2NxVTFEeVk3Q25XbFdZdnlwMGgyekRqMm5NZTJrdHU5Z2YwMWtGdlNnSWNMWE4xZzdrRkJYN2lfaFhkaHBtX2NPYkZOaVU1QndFbGhkSTZldnZMNUdLaGEybHF0Mk10RC1VemVNMW5mZFNwYXJXeEVVamt5cGFtSmdKLXFlRVBSM2pIV3pB?oc=5",
+        "publishedAt": "2026-06-24T01:56:49.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,11 +133,11 @@
         "publishedAt": "2026-06-24T03:04:37.000Z"
       },
       {
-        "time": "21:43",
-        "title": "トキエア和田CEO退任 異例の事態",
+        "time": "22:35",
+        "title": "食品スーパー「小型化」の波 背景",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585409?source=rss",
-        "publishedAt": "2026-06-23T12:43:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585529?source=rss",
+        "publishedAt": "2026-06-24T13:35:45.000Z"
       },
       {
         "time": "23:46",
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585517?source=rss",
         "publishedAt": "2026-06-24T11:25:51.000Z"
+      },
+      {
+        "time": "22:26",
+        "title": "5歳男児不明 川が増水し捜索難航",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585527?source=rss",
+        "publishedAt": "2026-06-24T13:26:48.000Z"
       },
       {
         "time": "20:41",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585520?source=rss",
         "publishedAt": "2026-06-24T12:11:23.000Z"
-      },
-      {
-        "time": "16:54",
-        "title": "自転車追い抜き 新規定で別の違反",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585491?source=rss",
-        "publishedAt": "2026-06-24T07:54:37.000Z"
       }
     ],
     "subsidyHeadlines": [
