@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-24T03:48:45.849Z",
+  "updatedAt": "2026-06-24T05:28:26.031Z",
   "items": [
     {
       "time": "12:23",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 九州-関東で警報級大雨恐れ"
     },
     {
-      "time": "11:54",
-      "title": "中国当局が日本人2人拘束 木原氏",
+      "time": "13:02",
+      "title": "旧統一の解散命令確定 残る懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585461?source=rss",
-      "publishedAt": "2026-06-24T02:54:05.000Z",
-      "xQuery": "中国当局が日本人2人拘束 木原氏"
+      "url": "https://news.yahoo.co.jp/pickup/6585468?source=rss",
+      "publishedAt": "2026-06-24T04:02:01.000Z",
+      "xQuery": "旧統一の解散命令確定 残る懸念"
     },
     {
-      "time": "11:27",
-      "title": "高崎で女性死亡 逃走車の男性死亡",
+      "time": "13:33",
+      "title": "仏で44.3℃ 熱中症などで40人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585457?source=rss",
-      "publishedAt": "2026-06-24T02:27:06.000Z",
-      "xQuery": "高崎で女性死亡 逃走車の男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6585475?source=rss",
+      "publishedAt": "2026-06-24T04:33:05.000Z",
+      "xQuery": "仏で44.3℃ 熱中症などで40人死亡"
     },
     {
       "time": "12:44",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "パンチのサル山にレーザー照射"
     },
     {
-      "time": "12:04",
-      "title": "任天堂の株価低迷 業界が暗い時代",
+      "time": "11:26",
+      "title": "AIの予約電話鳴り止まず 店主困惑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585464?source=rss",
-      "publishedAt": "2026-06-24T03:04:37.000Z",
-      "xQuery": "任天堂の株価低迷 業界が暗い時代"
+      "url": "https://news.yahoo.co.jp/pickup/6585456?source=rss",
+      "publishedAt": "2026-06-24T02:26:22.000Z",
+      "xQuery": "AIの予約電話鳴り止まず 店主困惑"
     }
   ]
 };

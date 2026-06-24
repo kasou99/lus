@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T03:48:45.025Z",
+  "updatedAt": "2026-06-24T05:28:25.335Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,8 +10,15 @@
         "publishedAt": "2026-06-24T01:56:49.000Z"
       },
       {
+        "time": "11:19",
+        "title": "「サイエンス実践塾体験研究室」の参加高校生を募集します！～ 最先端の科学技術を県内大学・企業で体験！～",
+        "source": "pref.aichi.jp",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01TnZZejc5aFplZVc4YzgzWHQ0Ylh1SEo2aFAxUWJ5a3ZBTFEzTDN1U1JuNFlVbDBCcEM4bzgwNGVVV3Y5Z3RrYmVzR0ZYdm90bW01OE1ZT3REd19pNFpmYlNVbURWZi13OEZwdkVJbm4?oc=5",
+        "publishedAt": "2026-06-24T02:19:30.000Z"
+      },
+      {
         "time": "07:00",
-        "title": "「AIの奴隷にはならない」シーメンス幹部、産業用AIは製造現場の何を変えるか：FAインタビュー（1/3 ページ）",
+        "title": "シーメンス幹部「AIの奴隷にはならない」、産業用AIは製造現場の何を変えるか：FAインタビュー（1/3 ページ）",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HZWwxYTNqTDVGdzI0TklJUXg5LVFGWEtFdkl3S3RhZllyczhuNVdFNUlleENuUmJmWXRuX3dfSW1UTFAwLVdlZUhtd0xNMW40SzNJT2k1MDJYOFV2YTlBNXI4dmFMdGs2MTFnRlI4Yw?oc=5",
         "publishedAt": "2026-06-23T22:00:00.000Z"
@@ -32,17 +39,17 @@
       },
       {
         "time": "05:13",
-        "title": "豊和工業、主力２機種を20年ぶり 路面清掃車を全面改良 作業性や安全性向上",
-        "source": "中部経済新聞",
+        "title": "豊和工業、主力２機種を20年ぶり 路面清掃車を全面改良 作業性や安全性向上 - chukei-news.co.jp",
+        "source": "chukei-news.co.jp",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12clUwOVI5OGY5bW0yVWktOENQbDlmMU1LQ09pLXBHU0hxYWRTZlVwY2lpZEpxRjNoVndQR0tHZk5sS2xGYjFacUk0Vk5mOWZZU3pEbzluejNoQ3dQdU1HRWVCNm5sUkVwa0pWVm5YbC1WMUU?oc=5",
         "publishedAt": "2026-06-23T20:13:58.000Z"
       },
       {
-        "time": "03:33",
+        "time": "02:37",
         "title": "牧野フライス、自助努力で企業価値向上 総会で買収提案言及せず",
         "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1FXRlVLUXBTYmN2cWYtb0RQOG1kTW5yU1Z0SnJ1RlllMktPbVFqMFFDZzU3eF92dzV5MnJEcWpPMURrbjJna2JJQjh0b0pSdVpPSW95VEhUeTN2OV9oTzVmcFg5cmdzX2V4dTdPWjNIVmJIU2R4b2pDTW5jOXF0VWdYLVJFeUQ0cVcxMmhpc0p6anpwRWRpTzhmNUlNOWpULVE?oc=5",
-        "publishedAt": "2026-06-23T18:33:45.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWhHTFpsbXlTOVJOVXZWOFkwSEpKd0F5QmRndGxyLUVlYldCSnQtOVBWNHAyT25pTU9zX3ZlNEVaYmZCUEpSa0w4ckxReVFFYjlLc1hlNUhCLU5IRHBheTN3MVBzQ3luazItbjNmOTI4dEdXUkRIQTY2MzZUUWpDZmRPcEtBa1VWeXBTaUJ6LVZVQk9LY3dZdk5BeUd5MkI3UFE?oc=5",
+        "publishedAt": "2026-06-23T17:37:30.000Z"
       },
       {
         "time": "10:02",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tanBaTng4SU44TDZPR0l3Q0MzUEluUDliSGZNdXBYUlF1aDM0Q01JTE5YcHpoTDBHU3cxcDQtWWU1VDFDUzVRckc1NG9YRHEzUVdCSjFKeFZyWXM?oc=5",
         "publishedAt": "2026-06-24T01:02:10.000Z"
-      },
-      {
-        "time": "22:26",
-        "title": "【広島】玉村昇悟「走者を出してから粘れなかった」今季最短タイ５回３失点で３敗目",
-        "source": "日刊スポーツ",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tZGdMZDd2M1d3cDdHNTFjZHBLbGhGR3Z6clA3OGxKZFA3NmFzYnVqMGtYeUJDNUVmeHdIR0x2cjViS0xwNk1BbG1OOTdaNjBWNGJsS1hXT2pOaFUtVW42UFJkQXQ2OWZrUDJHakRHbFDSAXhBVV95cUxQd1BKaFNySHRwOU5USGs5aVdzSnRocnpQeUdCUnNHbXFyZmZ1RWkwUk9vNnUwREx1RTN6MjVsMmVKVlpESlpSeHhjVzFqRGVJeHAzLVg5bEZ2MjFjaVEwT0NuQ2ZsSmZ4UU16V0lkLU1UcWdnMG9sLUc?oc=5",
-        "publishedAt": "2026-06-23T13:26:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -96,11 +96,11 @@
         "publishedAt": "2026-06-23T02:33:48.000Z"
       },
       {
-        "time": "12:25",
-        "title": "中国空母「遼寧」演習で何が判明",
+        "time": "13:33",
+        "title": "仏で44.3℃ 熱中症などで40人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585314?source=rss",
-        "publishedAt": "2026-06-23T03:25:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585475?source=rss",
+        "publishedAt": "2026-06-24T04:33:05.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,6 +110,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585420?source=rss",
         "publishedAt": "2026-06-23T13:55:56.000Z"
+      },
+      {
+        "time": "14:24",
+        "title": "キオクシアHD 役員報酬が大幅増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585480?source=rss",
+        "publishedAt": "2026-06-24T05:24:07.000Z"
       },
       {
         "time": "16:46",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585423?source=rss",
         "publishedAt": "2026-06-23T14:46:09.000Z"
-      },
-      {
-        "time": "21:44",
-        "title": "首都高の官製談合 社員4人を懲戒",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585408?source=rss",
-        "publishedAt": "2026-06-23T12:44:32.000Z"
       }
     ],
     "localHeadlines": [
