@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-24T09:47:25.541Z",
+  "updatedAt": "2026-06-24T11:08:31.004Z",
   "items": [
     {
-      "time": "18:06",
-      "title": "自民・維新 副首都法案を国会提出",
+      "time": "18:55",
+      "title": "九州〜関東 警報級の大雨続く恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585501?source=rss",
-      "publishedAt": "2026-06-24T09:06:52.000Z",
-      "xQuery": "自民・維新 副首都法案を国会提出"
+      "url": "https://news.yahoo.co.jp/pickup/6585509?source=rss",
+      "publishedAt": "2026-06-24T09:55:09.000Z",
+      "xQuery": "九州〜関東 警報級の大雨続く恐れ"
     },
     {
       "time": "16:31",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585490?source=rss",
       "publishedAt": "2026-06-24T07:31:43.000Z",
       "xQuery": "ストーカー対策アプリ 韓国で開始"
-    },
-    {
-      "time": "17:16",
-      "title": "ペルー大統領選 ケイコ氏勝利確実",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585495?source=rss",
-      "publishedAt": "2026-06-24T08:16:27.000Z",
-      "xQuery": "ペルー大統領選 ケイコ氏勝利確実"
     },
     {
       "time": "17:36",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585500?source=rss",
       "publishedAt": "2026-06-24T09:02:21.000Z",
       "xQuery": "小学校火災 洗濯物乾かしたと教師"
+    },
+    {
+      "time": "18:38",
+      "title": "ファミマ店舗にクマ撃退装置 実験",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585504?source=rss",
+      "publishedAt": "2026-06-24T09:38:59.000Z",
+      "xQuery": "ファミマ店舗にクマ撃退装置 実験"
     }
   ]
 };
