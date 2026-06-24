@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-24T21:06:09.798Z",
+  "updatedAt": "2026-06-24T21:59:10.894Z",
   "items": [
     {
       "time": "21:49",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "皇室典範改正 正副議長が要綱了承"
     },
     {
+      "time": "06:55",
+      "title": "検察審査員の氏名が外部流出 山口",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585542?source=rss",
+      "publishedAt": "2026-06-24T21:55:19.000Z",
+      "xQuery": "検察審査員の氏名が外部流出 山口"
+    },
+    {
       "time": "20:41",
       "title": "弁護側 内田梨瑚被告は判決に納得",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6585518?source=rss",
       "publishedAt": "2026-06-24T11:41:28.000Z",
       "xQuery": "弁護側 内田梨瑚被告は判決に納得"
-    },
-    {
-      "time": "15:34",
-      "title": "小学校火災 失火の容疑で捜査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585485?source=rss",
-      "publishedAt": "2026-06-24T06:34:19.000Z",
-      "xQuery": "小学校火災 失火の容疑で捜査"
     },
     {
       "time": "23:39",
