@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T05:28:25.335Z",
+  "updatedAt": "2026-06-24T06:52:57.794Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-06-24T03:00:00.000Z"
       },
       {
+        "time": "10:57",
+        "title": "マカオの大潭山トンネル建設現場で労災事故発生…作業員1人が工作機械に挟まれ重体 | チバテレ＋プラス",
+        "source": "千葉テレビ放送株式会社",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZRjZWZXNUZ2pNZDA5QnUtLVFQNmNIOUk2XzFKSUFTclBMT0hOQXpkb2NmRXo0U211UExIbEprMHpLS29uLUlQeXRNY3c4X09lX1EtbUZIRmo5YjE2UnlncWMwMnnSAWRBVV95cUxOWUY2VmVzVGdqTWQwOUJ1LS1RUDZjSDlJNl8xSklBU3JQTE9ITkF6ZG9jZkV6NFNtdVBMSGxKazB6S0tvbi1JUHl0TWN3OF9PZV9RLW1GSEZqOWIxNlJ5Z3FjMDJ5?oc=5",
+        "publishedAt": "2026-06-24T01:57:37.000Z"
+      },
+      {
         "time": "21:15",
         "title": "【設備保全DX】ものづくりワールド東京に次世代設備保全クラウド「M2X」ブースを出展",
         "source": "ニコニコニュース",
@@ -39,17 +46,10 @@
       },
       {
         "time": "05:13",
-        "title": "豊和工業、主力２機種を20年ぶり 路面清掃車を全面改良 作業性や安全性向上 - chukei-news.co.jp",
-        "source": "chukei-news.co.jp",
+        "title": "豊和工業、主力２機種を20年ぶり 路面清掃車を全面改良 作業性や安全性向上",
+        "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12clUwOVI5OGY5bW0yVWktOENQbDlmMU1LQ09pLXBHU0hxYWRTZlVwY2lpZEpxRjNoVndQR0tHZk5sS2xGYjFacUk0Vk5mOWZZU3pEbzluejNoQ3dQdU1HRWVCNm5sUkVwa0pWVm5YbC1WMUU?oc=5",
         "publishedAt": "2026-06-23T20:13:58.000Z"
-      },
-      {
-        "time": "02:37",
-        "title": "牧野フライス、自助努力で企業価値向上 総会で買収提案言及せず",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWhHTFpsbXlTOVJOVXZWOFkwSEpKd0F5QmRndGxyLUVlYldCSnQtOVBWNHAyT25pTU9zX3ZlNEVaYmZCUEpSa0w4ckxReVFFYjlLc1hlNUhCLU5IRHBheTN3MVBzQ3luazItbjNmOTI4dEdXUkRIQTY2MzZUUWpDZmRPcEtBa1VWeXBTaUJ6LVZVQk9LY3dZdk5BeUd5MkI3UFE?oc=5",
-        "publishedAt": "2026-06-23T17:37:30.000Z"
       },
       {
         "time": "10:02",
@@ -163,18 +163,11 @@
         "publishedAt": "2026-06-24T02:27:06.000Z"
       },
       {
-        "time": "09:24",
-        "title": "車が原付バイクと衝突 高校生死亡",
+        "time": "15:34",
+        "title": "小学校火災 失火の容疑で捜査",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585446?source=rss",
-        "publishedAt": "2026-06-24T00:24:40.000Z"
-      },
-      {
-        "time": "11:08",
-        "title": "運転代行中に病死か 店などに衝突",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585453?source=rss",
-        "publishedAt": "2026-06-24T02:08:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585485?source=rss",
+        "publishedAt": "2026-06-24T06:34:19.000Z"
       },
       {
         "time": "07:20",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585431?source=rss",
         "publishedAt": "2026-06-23T22:20:40.000Z"
+      },
+      {
+        "time": "11:08",
+        "title": "運転代行中に病死か 店などに衝突",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585453?source=rss",
+        "publishedAt": "2026-06-24T02:08:20.000Z"
       },
       {
         "time": "20:00",

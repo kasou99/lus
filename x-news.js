@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-24T05:28:26.031Z",
+  "updatedAt": "2026-06-24T06:52:58.408Z",
   "items": [
     {
-      "time": "12:23",
-      "title": "台風 九州-関東で警報級大雨恐れ",
+      "time": "13:30",
+      "title": "婚姻・出生数前年上回る 1-4月期",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585466?source=rss",
-      "publishedAt": "2026-06-24T03:23:12.000Z",
-      "xQuery": "台風 九州-関東で警報級大雨恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6585467?source=rss",
+      "publishedAt": "2026-06-24T04:30:29.000Z",
+      "xQuery": "婚姻・出生数前年上回る 1-4月期"
     },
     {
       "time": "13:02",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "旧統一の解散命令確定 残る懸念"
     },
     {
+      "time": "14:24",
+      "title": "キオクシアHD 役員報酬が大幅増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585480?source=rss",
+      "publishedAt": "2026-06-24T05:24:07.000Z",
+      "xQuery": "キオクシアHD 役員報酬が大幅増"
+    },
+    {
+      "time": "15:34",
+      "title": "小学校火災 失火の容疑で捜査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585485?source=rss",
+      "publishedAt": "2026-06-24T06:34:19.000Z",
+      "xQuery": "小学校火災 失火の容疑で捜査"
+    },
+    {
       "time": "13:33",
       "title": "仏で44.3℃ 熱中症などで40人死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6585475?source=rss",
       "publishedAt": "2026-06-24T04:33:05.000Z",
       "xQuery": "仏で44.3℃ 熱中症などで40人死亡"
-    },
-    {
-      "time": "12:44",
-      "title": "パンチのサル山にレーザー照射",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585470?source=rss",
-      "publishedAt": "2026-06-24T03:44:59.000Z",
-      "xQuery": "パンチのサル山にレーザー照射"
-    },
-    {
-      "time": "11:26",
-      "title": "AIの予約電話鳴り止まず 店主困惑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585456?source=rss",
-      "publishedAt": "2026-06-24T02:26:22.000Z",
-      "xQuery": "AIの予約電話鳴り止まず 店主困惑"
     }
   ]
 };
