@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T22:36:17.861Z",
+  "updatedAt": "2026-06-24T23:32:05.817Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-06-24T20:00:00.000Z"
       },
       {
-        "time": "05:05",
-        "title": "4月の全国鉱工業生産",
+        "time": "05:20",
+        "title": "テクニア、中小連携でOEM提案 解析で開発支援",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uSTFVNnNyR2tkTzE1RzdGZkROSVJ3NzlRbThNSko2R2FXc1NxMlY4RDBBR1RBRkdkSjRQTEp1Nld5MnEtdkJsQUhKNTRaamNGazN0SWNVMzh3eFU?oc=5",
-        "publishedAt": "2026-06-24T20:05:57.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96YUVTZ1VOdU0yVG02UlJtTGtydU1ueE1USTB0ckg5c29KUGp1ZEJXUGdTR2FoNC1wNk9qWmpmeXVFRmltTzlXRGdxZE13cFg3OURTcjFIamliX2JwM3AzNW1rUkdsVFM5NzctbWlxdFJrWWd6?oc=5",
+        "publishedAt": "2026-06-24T20:20:23.000Z"
       },
       {
         "time": "12:46",
@@ -45,11 +45,11 @@
         "publishedAt": "2026-06-24T01:56:49.000Z"
       },
       {
-        "time": "05:20",
-        "title": "テクニア、中小連携でOEM提案 解析で開発支援",
+        "time": "05:18",
+        "title": "横浜ゴムとNEC、DXリーダー育成体系開発",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96YUVTZ1VOdU0yVG02UlJtTGtydU1ueE1USTB0ckg5c29KUGp1ZEJXUGdTR2FoNC1wNk9qWmpmeXVFRmltTzlXRGdxZE13cFg3OURTcjFIamliX2JwM3AzNW1rUkdsVFM5NzctbWlxdFJrWWd6?oc=5",
-        "publishedAt": "2026-06-24T20:20:23.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBdEhVWlo2MXhnV1VMeGR0cWk1TEVQcllnWktLa2RFVXFOOWJWbzlZVXpaQmNtb1Atd3B3ZjM3UDlBQkNWMFFxUTRQRTk5a01fUm9JY3VWQ2tLRWxzbXJ1R3VBSlFTazl1bUpQNUxtRjQ2eUpy?oc=5",
+        "publishedAt": "2026-06-24T20:18:18.000Z"
       },
       {
         "time": "03:22",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "08:07",
+        "title": "新幹線 東京-新青森間で見合わせ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585554?source=rss",
+        "publishedAt": "2026-06-24T23:07:37.000Z"
+      },
+      {
         "time": "22:18",
         "title": "クールジャパン機構 統廃合検討へ",
         "source": "Yahoo!ニュース",
@@ -138,29 +145,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585529?source=rss",
         "publishedAt": "2026-06-24T13:35:45.000Z"
-      },
-      {
-        "time": "23:46",
-        "title": "仕事中「W杯の観戦OK」の企業も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585423?source=rss",
-        "publishedAt": "2026-06-23T14:46:09.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "08:16",
+        "title": "青森県で震度6強 現地のSNS投稿",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585556?source=rss",
+        "publishedAt": "2026-06-24T23:16:08.000Z"
+      },
       {
         "time": "06:55",
         "title": "検察審査員の氏名が外部流出 山口",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585542?source=rss",
         "publishedAt": "2026-06-24T21:55:19.000Z"
-      },
-      {
-        "time": "20:25",
-        "title": "雨で浸水相次ぐ ボートで住民救助",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585517?source=rss",
-        "publishedAt": "2026-06-24T11:25:51.000Z"
       },
       {
         "time": "20:41",

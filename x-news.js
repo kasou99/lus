@@ -1,13 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-24T22:36:18.591Z",
+  "updatedAt": "2026-06-24T23:32:06.940Z",
   "items": [
     {
-      "time": "07:32",
-      "title": "地震情報",
+      "time": "07:44",
+      "title": "青森県で震度6強 津波の心配なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6580294?source=rss",
-      "publishedAt": "2026-06-24T22:32:41.000Z",
-      "xQuery": "地震情報"
+      "url": "https://news.yahoo.co.jp/pickup/6585549?source=rss",
+      "publishedAt": "2026-06-24T22:44:51.000Z",
+      "xQuery": "青森県で震度6強 津波の心配なし"
+    },
+    {
+      "time": "08:27",
+      "title": "後発地震情報 気象庁が評価開始",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585557?source=rss",
+      "publishedAt": "2026-06-24T23:27:13.000Z",
+      "xQuery": "後発地震情報 気象庁が評価開始"
+    },
+    {
+      "time": "07:54",
+      "title": "青森県で震度6強 最新情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585550?source=rss",
+      "publishedAt": "2026-06-24T22:54:27.000Z",
+      "xQuery": "青森県で震度6強 最新情報"
+    },
+    {
+      "time": "08:16",
+      "title": "青森県で震度6強 現地のSNS投稿",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585556?source=rss",
+      "publishedAt": "2026-06-24T23:16:08.000Z",
+      "xQuery": "青森県で震度6強 現地のSNS投稿"
     },
     {
       "time": "07:22",
@@ -16,30 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585546?source=rss",
       "publishedAt": "2026-06-24T22:22:12.000Z",
       "xQuery": "九州北部 災害級の大雨の恐れ"
-    },
-    {
-      "time": "06:55",
-      "title": "検察審査員の氏名が外部流出 山口",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585542?source=rss",
-      "publishedAt": "2026-06-24T21:55:19.000Z",
-      "xQuery": "検察審査員の氏名が外部流出 山口"
-    },
-    {
-      "time": "23:39",
-      "title": "中国で拘束の2人は富士電機社員",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585538?source=rss",
-      "publishedAt": "2026-06-24T14:39:25.000Z",
-      "xQuery": "中国で拘束の2人は富士電機社員"
-    },
-    {
-      "time": "07:24",
-      "title": "教師殴りけがさせた疑い 生徒逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585544?source=rss",
-      "publishedAt": "2026-06-24T22:24:49.000Z",
-      "xQuery": "教師殴りけがさせた疑い 生徒逮捕"
     }
   ]
 };
