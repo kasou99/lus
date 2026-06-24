@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-24T21:59:10.894Z",
+  "updatedAt": "2026-06-24T22:36:18.591Z",
   "items": [
     {
-      "time": "21:49",
-      "title": "台風7号は沖縄に接近へ 警戒を",
+      "time": "07:32",
+      "title": "地震情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585523?source=rss",
-      "publishedAt": "2026-06-24T12:49:34.000Z",
-      "xQuery": "台風7号は沖縄に接近へ 警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6580294?source=rss",
+      "publishedAt": "2026-06-24T22:32:41.000Z",
+      "xQuery": "地震情報"
     },
     {
-      "time": "23:19",
-      "title": "皇室典範改正 正副議長が要綱了承",
+      "time": "07:22",
+      "title": "九州北部 災害級の大雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585536?source=rss",
-      "publishedAt": "2026-06-24T14:19:02.000Z",
-      "xQuery": "皇室典範改正 正副議長が要綱了承"
+      "url": "https://news.yahoo.co.jp/pickup/6585546?source=rss",
+      "publishedAt": "2026-06-24T22:22:12.000Z",
+      "xQuery": "九州北部 災害級の大雨の恐れ"
     },
     {
       "time": "06:55",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "検察審査員の氏名が外部流出 山口"
     },
     {
-      "time": "20:41",
-      "title": "弁護側 内田梨瑚被告は判決に納得",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585518?source=rss",
-      "publishedAt": "2026-06-24T11:41:28.000Z",
-      "xQuery": "弁護側 内田梨瑚被告は判決に納得"
-    },
-    {
       "time": "23:39",
       "title": "中国で拘束の2人は富士電機社員",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6585538?source=rss",
       "publishedAt": "2026-06-24T14:39:25.000Z",
       "xQuery": "中国で拘束の2人は富士電機社員"
+    },
+    {
+      "time": "07:24",
+      "title": "教師殴りけがさせた疑い 生徒逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585544?source=rss",
+      "publishedAt": "2026-06-24T22:24:49.000Z",
+      "xQuery": "教師殴りけがさせた疑い 生徒逮捕"
     }
   ]
 };
