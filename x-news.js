@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-24T14:20:29.074Z",
+  "updatedAt": "2026-06-24T15:26:20.966Z",
   "items": [
     {
       "time": "21:49",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風7号は沖縄に接近へ 警戒を"
     },
     {
-      "time": "22:18",
-      "title": "クールジャパン機構 統廃合検討へ",
+      "time": "23:19",
+      "title": "皇室典範改正 正副議長が要綱了承",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585526?source=rss",
-      "publishedAt": "2026-06-24T13:18:34.000Z",
-      "xQuery": "クールジャパン機構 統廃合検討へ"
-    },
-    {
-      "time": "22:26",
-      "title": "5歳男児不明 川が増水し捜索難航",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585527?source=rss",
-      "publishedAt": "2026-06-24T13:26:48.000Z",
-      "xQuery": "5歳男児不明 川が増水し捜索難航"
+      "url": "https://news.yahoo.co.jp/pickup/6585536?source=rss",
+      "publishedAt": "2026-06-24T14:19:02.000Z",
+      "xQuery": "皇室典範改正 正副議長が要綱了承"
     },
     {
       "time": "20:41",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "弁護側 内田梨瑚被告は判決に納得"
     },
     {
-      "time": "18:02",
-      "title": "小学校火災 洗濯物乾かしたと教師",
+      "time": "15:34",
+      "title": "小学校火災 失火の容疑で捜査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585500?source=rss",
-      "publishedAt": "2026-06-24T09:02:21.000Z",
-      "xQuery": "小学校火災 洗濯物乾かしたと教師"
+      "url": "https://news.yahoo.co.jp/pickup/6585485?source=rss",
+      "publishedAt": "2026-06-24T06:34:19.000Z",
+      "xQuery": "小学校火災 失火の容疑で捜査"
+    },
+    {
+      "time": "23:39",
+      "title": "中国で拘束の2人は富士電機社員",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585538?source=rss",
+      "publishedAt": "2026-06-24T14:39:25.000Z",
+      "xQuery": "中国で拘束の2人は富士電機社員"
     }
   ]
 };
