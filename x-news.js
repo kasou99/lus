@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-24T12:19:03.640Z",
+  "updatedAt": "2026-06-24T13:20:01.525Z",
   "items": [
     {
-      "time": "18:55",
-      "title": "九州〜関東 警報級の大雨続く恐れ",
+      "time": "21:49",
+      "title": "台風7号は沖縄に接近へ 警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585509?source=rss",
-      "publishedAt": "2026-06-24T09:55:09.000Z",
-      "xQuery": "九州〜関東 警報級の大雨続く恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6585523?source=rss",
+      "publishedAt": "2026-06-24T12:49:34.000Z",
+      "xQuery": "台風7号は沖縄に接近へ 警戒を"
     },
     {
-      "time": "20:25",
-      "title": "雨で浸水相次ぐ ボートで住民救助",
+      "time": "21:35",
+      "title": "消費減税 とりまとめ案に野党反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585517?source=rss",
-      "publishedAt": "2026-06-24T11:25:51.000Z",
-      "xQuery": "雨で浸水相次ぐ ボートで住民救助"
+      "url": "https://news.yahoo.co.jp/pickup/6585522?source=rss",
+      "publishedAt": "2026-06-24T12:35:41.000Z",
+      "xQuery": "消費減税 とりまとめ案に野党反発"
+    },
+    {
+      "time": "21:50",
+      "title": "日産・永井氏 再任賛成48%で否決",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585524?source=rss",
+      "publishedAt": "2026-06-24T12:50:49.000Z",
+      "xQuery": "日産・永井氏 再任賛成48%で否決"
     },
     {
       "time": "20:41",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "弁護側 内田梨瑚被告は判決に納得"
     },
     {
-      "time": "21:11",
-      "title": "高崎の殺人事件 被害者は28歳女性",
+      "time": "18:02",
+      "title": "小学校火災 洗濯物乾かしたと教師",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585520?source=rss",
-      "publishedAt": "2026-06-24T12:11:23.000Z",
-      "xQuery": "高崎の殺人事件 被害者は28歳女性"
-    },
-    {
-      "time": "16:54",
-      "title": "自転車追い抜き 新規定で別の違反",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585491?source=rss",
-      "publishedAt": "2026-06-24T07:54:37.000Z",
-      "xQuery": "自転車追い抜き 新規定で別の違反"
+      "url": "https://news.yahoo.co.jp/pickup/6585500?source=rss",
+      "publishedAt": "2026-06-24T09:02:21.000Z",
+      "xQuery": "小学校火災 洗濯物乾かしたと教師"
     }
   ]
 };
