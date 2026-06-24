@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T06:52:57.794Z",
+  "updatedAt": "2026-06-24T08:13:39.982Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-06-24T02:19:30.000Z"
       },
       {
+        "time": "16:56",
+        "title": "ニコン、後工程向け「デジタル露光装置」大型基板に照準",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrR2hOdjNJUFUyeVFkaFhLejN2MlhOd1Vka3dicXdCdW1MczZlcDBfS0Y0VHNGU1VlZmdSRFpwWERfWjZ1VEluMVVFWFQ5d2ZWbHhKX28xVmZRcm8?oc=5",
+        "publishedAt": "2026-06-24T07:56:36.000Z"
+      },
+      {
         "time": "07:00",
         "title": "シーメンス幹部「AIの奴隷にはならない」、産業用AIは製造現場の何を変えるか：FAインタビュー（1/3 ページ）",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HZWwxYTNqTDVGdzI0TklJUXg5LVFGWEtFdkl3S3RhZllyczhuNVdFNUlleENuUmJmWXRuX3dfSW1UTFAwLVdlZUhtd0xNMW40SzNJT2k1MDJYOFV2YTlBNXI4dmFMdGs2MTFnRlI4Yw?oc=5",
         "publishedAt": "2026-06-23T22:00:00.000Z"
-      },
-      {
-        "time": "12:00",
-        "title": "ミクニ製作所、機械解体メンテで技量底上げ 日々「カイゼン」のタネ探す",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZaldVN0ZZODBpTXR5UGpyRDJIZlFhUEoxQnBKbHFtTnlHOWg3cFhHYTc1WDZmeXRPSW1hX09oQVNFUVAyNVNXWGZDU1M3cXpEcVNFakxEdkI4Z0k?oc=5",
-        "publishedAt": "2026-06-24T03:00:00.000Z"
       },
       {
         "time": "10:57",
@@ -46,17 +46,17 @@
       },
       {
         "time": "05:13",
-        "title": "豊和工業、主力２機種を20年ぶり 路面清掃車を全面改良 作業性や安全性向上",
-        "source": "中部経済新聞",
+        "title": "豊和工業、主力２機種を20年ぶり 路面清掃車を全面改良 作業性や安全性向上 - chukei-news.co.jp",
+        "source": "chukei-news.co.jp",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12clUwOVI5OGY5bW0yVWktOENQbDlmMU1LQ09pLXBHU0hxYWRTZlVwY2lpZEpxRjNoVndQR0tHZk5sS2xGYjFacUk0Vk5mOWZZU3pEbzluejNoQ3dQdU1HRWVCNm5sUkVwa0pWVm5YbC1WMUU?oc=5",
         "publishedAt": "2026-06-23T20:13:58.000Z"
       },
       {
-        "time": "10:02",
-        "title": "エコノミストが解く生活の経済学（21）物価高物ともせぬ推し活",
+        "time": "12:00",
+        "title": "ミクニ製作所、機械解体メンテで技量底上げ 日々「カイゼン」のタネ探す",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tanBaTng4SU44TDZPR0l3Q0MzUEluUDliSGZNdXBYUlF1aDM0Q01JTE5YcHpoTDBHU3cxcDQtWWU1VDFDUzVRckc1NG9YRHEzUVdCSjFKeFZyWXM?oc=5",
-        "publishedAt": "2026-06-24T01:02:10.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZaldVN0ZZODBpTXR5UGpyRDJIZlFhUEoxQnBKbHFtTnlHOWg3cFhHYTc1WDZmeXRPSW1hX09oQVNFUVAyNVNXWGZDU1M3cXpEcVNFakxEdkI4Z0k?oc=5",
+        "publishedAt": "2026-06-24T03:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,13 +75,6 @@
         "publishedAt": "2026-06-23T23:47:31.000Z"
       },
       {
-        "time": "06:36",
-        "title": "日系電機大手の社員 中国で拘束",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585427?source=rss",
-        "publishedAt": "2026-06-23T21:36:12.000Z"
-      },
-      {
         "time": "18:31",
         "title": "ラオスで日本人男女9人を拘束",
         "source": "Yahoo!ニュース",
@@ -94,6 +87,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585317?source=rss",
         "publishedAt": "2026-06-23T02:33:48.000Z"
+      },
+      {
+        "time": "16:03",
+        "title": "7/6ハメネイ師国葬 2千万人参列へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585487?source=rss",
+        "publishedAt": "2026-06-24T07:03:26.000Z"
       },
       {
         "time": "13:33",
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "09:09",
-        "title": "鹿児島県に線状降水帯発生 警戒を",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585444?source=rss",
-        "publishedAt": "2026-06-24T00:09:12.000Z"
-      },
-      {
         "time": "11:27",
         "title": "高崎で女性死亡 逃走車の男性死亡",
         "source": "Yahoo!ニュース",
@@ -175,6 +168,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585431?source=rss",
         "publishedAt": "2026-06-23T22:20:40.000Z"
+      },
+      {
+        "time": "16:54",
+        "title": "自転車追い抜き 新規定で別の違反",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585491?source=rss",
+        "publishedAt": "2026-06-24T07:54:37.000Z"
       },
       {
         "time": "11:08",

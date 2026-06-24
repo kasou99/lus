@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-24T06:52:58.408Z",
+  "updatedAt": "2026-06-24T08:13:40.537Z",
   "items": [
     {
       "time": "13:30",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "婚姻・出生数前年上回る 1-4月期"
     },
     {
-      "time": "13:02",
-      "title": "旧統一の解散命令確定 残る懸念",
+      "time": "16:03",
+      "title": "7/6ハメネイ師国葬 2千万人参列へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585468?source=rss",
-      "publishedAt": "2026-06-24T04:02:01.000Z",
-      "xQuery": "旧統一の解散命令確定 残る懸念"
-    },
-    {
-      "time": "14:24",
-      "title": "キオクシアHD 役員報酬が大幅増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585480?source=rss",
-      "publishedAt": "2026-06-24T05:24:07.000Z",
-      "xQuery": "キオクシアHD 役員報酬が大幅増"
+      "url": "https://news.yahoo.co.jp/pickup/6585487?source=rss",
+      "publishedAt": "2026-06-24T07:03:26.000Z",
+      "xQuery": "7/6ハメネイ師国葬 2千万人参列へ"
     },
     {
       "time": "15:34",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "小学校火災 失火の容疑で捜査"
     },
     {
-      "time": "13:33",
-      "title": "仏で44.3℃ 熱中症などで40人死亡",
+      "time": "16:54",
+      "title": "自転車追い抜き 新規定で別の違反",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585475?source=rss",
-      "publishedAt": "2026-06-24T04:33:05.000Z",
-      "xQuery": "仏で44.3℃ 熱中症などで40人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6585491?source=rss",
+      "publishedAt": "2026-06-24T07:54:37.000Z",
+      "xQuery": "自転車追い抜き 新規定で別の違反"
+    },
+    {
+      "time": "16:31",
+      "title": "若年層で変化「包丁キャンセル」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585489?source=rss",
+      "publishedAt": "2026-06-24T07:31:10.000Z",
+      "xQuery": "若年層で変化「包丁キャンセル」"
     }
   ]
 };
