@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T07:25:20.805Z",
+  "updatedAt": "2026-06-25T08:34:45.756Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RVkZqaC04eWVOTVc1TUlrMEhKYURtcDFqaHNNRmEzZmJBMDJ6d2J6Y0wzVU9KTTBIekZvbDlBSWFfS2ZXYWFnR3p1clNHQUo0V0o3YVI2WEdfUldFRTRoRldUdXZma05XaFJMdg?oc=5",
         "publishedAt": "2026-06-25T07:02:12.000Z"
+      },
+      {
+        "time": "17:00",
+        "title": "工作機械受注、5月37％増 中国・アジア好調けん引",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54ZXdRYncybUVIUEs0RE9wTlJRZFo4bEgwVlFCb2ZRdmxoU0tUSjlaSXNvMmpKMjI0STh0NmY0MnhTbkdQSThRTUxma1UxR1E1T2ExNlNaZUZkdzg?oc=5",
+        "publishedAt": "2026-06-25T08:00:00.000Z"
       },
       {
         "time": "15:19",
@@ -36,13 +43,6 @@
         "source": "36Kr Japan",
         "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBJQXhjaFJLcXpUejhydjBHX2tMWkpmR05pZ25Ub0NJdHZCaFotZ1VOWWRZTkNJaDFmRFVF?oc=5",
         "publishedAt": "2026-06-24T22:32:22.000Z"
-      },
-      {
-        "time": "08:18",
-        "title": "横浜ゴムとNEC、DXリーダー育成体系開発",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tckNkYlRrRDVtZFFQRUtiQmZMdndrQ3ZnenlhT0Y0Y0VoTlMyN01OX21IUU1lb2YzTXo1Q2RnX1ZqZERwcFo5VHFvUDBxYnNhR1J1Sjhpd083NThPa3o0UzQ0LXY5RHJCMEk3ekJHVTRFMDdsUE0wWVNySQ?oc=5",
-        "publishedAt": "2026-06-24T23:18:30.000Z"
       },
       {
         "time": "05:00",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "17:02",
+        "title": "米企業 日産・追浜工場取得を協議",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585629?source=rss",
+        "publishedAt": "2026-06-25T08:02:27.000Z"
+      },
+      {
         "time": "15:53",
         "title": "東証終値3191円高 上げ幅歴代4位",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585524?source=rss",
         "publishedAt": "2026-06-24T12:50:49.000Z"
-      },
-      {
-        "time": "23:27",
-        "title": "キオクシアHD会長 報酬44億円に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585537?source=rss",
-        "publishedAt": "2026-06-24T14:27:16.000Z"
       },
       {
         "time": "14:29",
@@ -163,11 +163,11 @@
         "publishedAt": "2026-06-25T06:28:28.000Z"
       },
       {
-        "time": "10:23",
-        "title": "地震 盛岡は「ドカドカと揺れた」",
+        "time": "16:39",
+        "title": "震度6強の町 職員「怖かった」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585573?source=rss",
-        "publishedAt": "2026-06-25T01:23:32.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585625?source=rss",
+        "publishedAt": "2026-06-25T07:39:05.000Z"
       },
       {
         "time": "10:08",
@@ -217,11 +217,11 @@
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
       },
       {
-        "time": "12:00",
+        "time": "16:00",
         "title": "設備投資に使える補助金まとめ【2026年・目的別】省力化・業務改善助成金など最大1億円の支援を解説",
         "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41Tk91V0hXbzlDZktaTzFPeHd3dS1yZUVpNjVsSHo5aURNd3Y0ZGhPMXZpVEJuOFEyaVNJb0hsWENjSjdVLXUzV1pmd3hjYnJEN05CN2lTQzlwdzNZdFo5SHAwZ1l2dXZzVzJHVHhuejA?oc=5",
-        "publishedAt": "2026-06-16T03:00:00.000Z"
+        "publishedAt": "2026-06-16T07:00:00.000Z"
       }
     ]
   }

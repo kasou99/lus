@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-25T07:25:21.517Z",
+  "updatedAt": "2026-06-25T08:34:46.622Z",
   "items": [
     {
-      "time": "13:04",
-      "title": "地震 三陸はるか沖地震と関連か",
+      "time": "16:39",
+      "title": "震度6強の町 職員「怖かった」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585598?source=rss",
-      "publishedAt": "2026-06-25T04:04:01.000Z",
-      "xQuery": "地震 三陸はるか沖地震と関連か"
+      "url": "https://news.yahoo.co.jp/pickup/6585625?source=rss",
+      "publishedAt": "2026-06-25T07:39:05.000Z",
+      "xQuery": "震度6強の町 職員「怖かった」"
     },
     {
-      "time": "15:53",
-      "title": "東証終値3191円高 上げ幅歴代4位",
+      "time": "16:44",
+      "title": "小渕氏 党税調インナー辞任の意向",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585616?source=rss",
-      "publishedAt": "2026-06-25T06:53:43.000Z",
-      "xQuery": "東証終値3191円高 上げ幅歴代4位"
+      "url": "https://news.yahoo.co.jp/pickup/6585627?source=rss",
+      "publishedAt": "2026-06-25T07:44:36.000Z",
+      "xQuery": "小渕氏 党税調インナー辞任の意向"
     },
     {
-      "time": "13:44",
-      "title": "江別暴行死 川村被告に懲役30年",
+      "time": "17:02",
+      "title": "米企業 日産・追浜工場取得を協議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585604?source=rss",
-      "publishedAt": "2026-06-25T04:44:18.000Z",
-      "xQuery": "江別暴行死 川村被告に懲役30年"
+      "url": "https://news.yahoo.co.jp/pickup/6585629?source=rss",
+      "publishedAt": "2026-06-25T08:02:27.000Z",
+      "xQuery": "米企業 日産・追浜工場取得を協議"
     },
     {
-      "time": "13:30",
-      "title": "犬型ロボ「aibo」国内販売を終了",
+      "time": "15:28",
+      "title": "江別暴行死判決 裁判長が償い促す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585600?source=rss",
-      "publishedAt": "2026-06-25T04:30:28.000Z",
-      "xQuery": "犬型ロボ「aibo」国内販売を終了"
+      "url": "https://news.yahoo.co.jp/pickup/6585614?source=rss",
+      "publishedAt": "2026-06-25T06:28:28.000Z",
+      "xQuery": "江別暴行死判決 裁判長が償い促す"
     },
     {
-      "time": "14:26",
-      "title": "美容業界 アンバサダーに男性続々",
+      "time": "16:47",
+      "title": "カフェで授乳ケープ使用 法的見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585606?source=rss",
-      "publishedAt": "2026-06-25T05:26:33.000Z",
-      "xQuery": "美容業界 アンバサダーに男性続々"
+      "url": "https://news.yahoo.co.jp/pickup/6585622?source=rss",
+      "publishedAt": "2026-06-25T07:47:05.000Z",
+      "xQuery": "カフェで授乳ケープ使用 法的見解"
     }
   ]
 };
