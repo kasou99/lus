@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T15:30:50.552Z",
+  "updatedAt": "2026-06-25T16:54:11.110Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-06-25T06:19:49.000Z"
       },
       {
-        "time": "09:21",
-        "title": "MKシグナルが今日分析したホットイシューゴールデンクロス種目は、三和王冠&華川機工です。",
-        "source": "매일경제",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ENXlDWDE4MVBuOS1ERU1id01jd1o5bDdsVzVKN09iSVpIVGVvNks2bUlJYzBoMnIxY0Q3aWVBeThpMk5vVEhiQk1XWDB3cWc?oc=5",
-        "publishedAt": "2026-06-25T00:21:28.000Z"
-      },
-      {
         "time": "12:32",
         "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点",
         "source": "中日BIZナビ",
@@ -57,6 +50,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sS0RGY2ZBSkhXdnduUl93eE9UbUY1S2JFTDdnajZDNFhjOG5tbmZsa3pqLTJzVUxjOTBhVGF0VWFuMElRU3dHcnB5U3lvdkgwaWpDWUxibU93NmdGNFZrTDZQSXFGMUhQcW5UYQ?oc=5",
         "publishedAt": "2026-06-24T20:00:00.000Z"
+      },
+      {
+        "time": "12:03",
+        "title": "可変速グラインダー世界市場の深層分析2026-2032：市場規模・成長率・競合戦略・地域別展望",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QU2lmcnM5NmFmOGc3Rk5tS216amo5bWhWNTBrTEJSdjBzdkEtTWlOcUVkb3h4VU5QWDY2UGR1WHc0emt2aVMzb28zQjQ1Nm9zQjF5RjVNTzRYVFpIRUdvSjgtNnRaS2lG?oc=5",
+        "publishedAt": "2026-06-25T03:03:28.000Z"
       }
     ],
     "worldHeadlines": [
