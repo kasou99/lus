@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T08:34:45.756Z",
+  "updatedAt": "2026-06-25T10:08:25.374Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54ZXdRYncybUVIUEs0RE9wTlJRZFo4bEgwVlFCb2ZRdmxoU0tUSjlaSXNvMmpKMjI0STh0NmY0MnhTbkdQSThRTUxma1UxR1E1T2ExNlNaZUZkdzg?oc=5",
         "publishedAt": "2026-06-25T08:00:00.000Z"
+      },
+      {
+        "time": "12:30",
+        "title": "日本製鉄発のスタートアップＫＡＭＡＭＥＳＨＩ、設備停止リスクの可視化・予防を支援する設備保全サービスを開始",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KU0dlR3QxMFhsdXkwVFlDc2pqQ2U0dnlKMWtyWktUcGhPVGZzY0ZJWTJVUlBwZWxVd2cwWjkwRHFtMGlIZFZiSUd5X0VkVl9sOUJuVkd3YlZKcUQwZUZDMHBzZ1NXZVh2QUE?oc=5",
+        "publishedAt": "2026-06-25T03:30:02.000Z"
       },
       {
         "time": "15:19",
@@ -36,13 +43,6 @@
         "source": "매일경제",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ENXlDWDE4MVBuOS1ERU1id01jd1o5bDdsVzVKN09iSVpIVGVvNks2bUlJYzBoMnIxY0Q3aWVBeThpMk5vVEhiQk1XWDB3cWc?oc=5",
         "publishedAt": "2026-06-25T00:21:28.000Z"
-      },
-      {
-        "time": "07:32",
-        "title": "⽇本メーカー出⾝者率いる中国・橋⽥智能、ロボ機器開発へ24億円調達",
-        "source": "36Kr Japan",
-        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBJQXhjaFJLcXpUejhydjBHX2tMWkpmR05pZ25Ub0NJdHZCaFotZ1VOWWRZTkNJaDFmRFVF?oc=5",
-        "publishedAt": "2026-06-24T22:32:22.000Z"
       },
       {
         "time": "05:00",
@@ -170,25 +170,25 @@
         "publishedAt": "2026-06-25T07:39:05.000Z"
       },
       {
-        "time": "10:08",
-        "title": "生徒会長を「つるし上げ」いじめ",
+        "time": "17:35",
+        "title": "宮城強盗致死 元従業員に無罪判決",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585569?source=rss",
-        "publishedAt": "2026-06-25T01:08:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585632?source=rss",
+        "publishedAt": "2026-06-25T08:35:17.000Z"
       },
       {
-        "time": "12:14",
-        "title": "作業中にはねられ死亡 飲酒運転か",
+        "time": "17:43",
+        "title": "神戸学院大学長 パワハラで辞任",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585594?source=rss",
-        "publishedAt": "2026-06-25T03:14:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585635?source=rss",
+        "publishedAt": "2026-06-25T08:43:37.000Z"
       },
       {
-        "time": "15:41",
-        "title": "厚労省係長を起訴 ストーカー疑い",
+        "time": "18:40",
+        "title": "10代の娘に性的暴行疑い 父を逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585615?source=rss",
-        "publishedAt": "2026-06-25T06:41:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585646?source=rss",
+        "publishedAt": "2026-06-25T09:40:10.000Z"
       }
     ],
     "subsidyHeadlines": [

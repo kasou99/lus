@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-25T08:34:46.622Z",
+  "updatedAt": "2026-06-25T10:08:26.226Z",
   "items": [
     {
+      "time": "18:29",
+      "title": "台風7号 27日に九州～関東直撃か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585644?source=rss",
+      "publishedAt": "2026-06-25T09:29:31.000Z",
+      "xQuery": "台風7号 27日に九州～関東直撃か"
+    },
+    {
+      "time": "14:43",
+      "title": "量子技術巡り大統領令 米国の狙い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585610?source=rss",
+      "publishedAt": "2026-06-25T05:43:34.000Z",
+      "xQuery": "量子技術巡り大統領令 米国の狙い"
+    },
+    {
       "time": "16:39",
-      "title": "震度6強の町 職員「怖かった」",
+      "title": "芸能人肖像 AIで無断使用4万件超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585625?source=rss",
-      "publishedAt": "2026-06-25T07:39:05.000Z",
-      "xQuery": "震度6強の町 職員「怖かった」"
-    },
-    {
-      "time": "16:44",
-      "title": "小渕氏 党税調インナー辞任の意向",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585627?source=rss",
-      "publishedAt": "2026-06-25T07:44:36.000Z",
-      "xQuery": "小渕氏 党税調インナー辞任の意向"
-    },
-    {
-      "time": "17:02",
-      "title": "米企業 日産・追浜工場取得を協議",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585629?source=rss",
-      "publishedAt": "2026-06-25T08:02:27.000Z",
-      "xQuery": "米企業 日産・追浜工場取得を協議"
+      "url": "https://news.yahoo.co.jp/pickup/6585623?source=rss",
+      "publishedAt": "2026-06-25T07:39:26.000Z",
+      "xQuery": "芸能人肖像 AIで無断使用4万件超"
     },
     {
       "time": "15:28",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "江別暴行死判決 裁判長が償い促す"
     },
     {
-      "time": "16:47",
-      "title": "カフェで授乳ケープ使用 法的見解",
+      "time": "18:40",
+      "title": "10代の娘に性的暴行疑い 父を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585622?source=rss",
-      "publishedAt": "2026-06-25T07:47:05.000Z",
-      "xQuery": "カフェで授乳ケープ使用 法的見解"
+      "url": "https://news.yahoo.co.jp/pickup/6585646?source=rss",
+      "publishedAt": "2026-06-25T09:40:10.000Z",
+      "xQuery": "10代の娘に性的暴行疑い 父を逮捕"
     }
   ]
 };
