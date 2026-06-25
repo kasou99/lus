@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-25T12:20:03.612Z",
+  "updatedAt": "2026-06-25T13:19:19.183Z",
   "items": [
     {
-      "time": "21:06",
-      "title": "青森県で震度4 津波の心配なし",
+      "time": "20:51",
+      "title": "最低賃金の目標 先延ばしで調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585659?source=rss",
-      "publishedAt": "2026-06-25T12:06:51.000Z",
-      "xQuery": "青森県で震度4 津波の心配なし"
-    },
-    {
-      "time": "20:21",
-      "title": "栃木強殺「殺害してでも」と指示",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585651?source=rss",
-      "publishedAt": "2026-06-25T11:21:39.000Z",
-      "xQuery": "栃木強殺「殺害してでも」と指示"
+      "url": "https://news.yahoo.co.jp/pickup/6585655?source=rss",
+      "publishedAt": "2026-06-25T11:51:51.000Z",
+      "xQuery": "最低賃金の目標 先延ばしで調整"
     },
     {
       "time": "20:40",
@@ -26,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "ベネズエラM7超地震 164人が死亡"
     },
     {
+      "time": "22:07",
+      "title": "スクールバス絡む事故 12人搬送",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585666?source=rss",
+      "publishedAt": "2026-06-25T13:07:57.000Z",
+      "xQuery": "スクールバス絡む事故 12人搬送"
+    },
+    {
       "time": "18:40",
       "title": "10代の娘に性的暴行疑い 父を逮捕",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "10代の娘に性的暴行疑い 父を逮捕"
     },
     {
-      "time": "19:28",
-      "title": "不漁でホタテの価格高騰 店が悲鳴",
+      "time": "14:29",
+      "title": "任天堂と海外大手 課題の違いとは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585650?source=rss",
-      "publishedAt": "2026-06-25T10:28:05.000Z",
-      "xQuery": "不漁でホタテの価格高騰 店が悲鳴"
+      "url": "https://news.yahoo.co.jp/pickup/6585608?source=rss",
+      "publishedAt": "2026-06-25T05:29:27.000Z",
+      "xQuery": "任天堂と海外大手 課題の違いとは"
     }
   ]
 };

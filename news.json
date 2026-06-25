@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T12:20:02.878Z",
+  "updatedAt": "2026-06-25T13:19:18.220Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -133,18 +133,18 @@
         "publishedAt": "2026-06-24T12:50:49.000Z"
       },
       {
+        "time": "21:55",
+        "title": "任天堂29年に技術新拠点 1210億円",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585664?source=rss",
+        "publishedAt": "2026-06-25T12:55:01.000Z"
+      },
+      {
         "time": "14:29",
         "title": "任天堂と海外大手 課題の違いとは",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585608?source=rss",
         "publishedAt": "2026-06-25T05:29:27.000Z"
-      },
-      {
-        "time": "22:35",
-        "title": "食品スーパー「小型化」の波 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585529?source=rss",
-        "publishedAt": "2026-06-24T13:35:45.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-25T11:21:39.000Z"
       },
       {
-        "time": "17:35",
-        "title": "宮城強盗致死 元従業員に無罪判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585632?source=rss",
-        "publishedAt": "2026-06-25T08:35:17.000Z"
-      },
-      {
         "time": "17:43",
         "title": "神戸学院大学長 パワハラで辞任",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585635?source=rss",
         "publishedAt": "2026-06-25T08:43:37.000Z"
+      },
+      {
+        "time": "18:40",
+        "title": "10代の娘に性的暴行疑い 父を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585646?source=rss",
+        "publishedAt": "2026-06-25T09:40:10.000Z"
       }
     ],
     "subsidyHeadlines": [
