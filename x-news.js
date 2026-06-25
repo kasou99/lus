@@ -1,30 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-25T01:09:40.751Z",
+  "updatedAt": "2026-06-25T02:25:36.681Z",
   "items": [
-    {
-      "time": "09:55",
-      "title": "「後発地震情報」発表基準至らず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585568?source=rss",
-      "publishedAt": "2026-06-25T00:55:53.000Z",
-      "xQuery": "「後発地震情報」発表基準至らず"
-    },
-    {
-      "time": "09:10",
-      "title": "現時点で人的被害なし 官房長官",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585561?source=rss",
-      "publishedAt": "2026-06-25T00:10:13.000Z",
-      "xQuery": "現時点で人的被害なし 官房長官"
-    },
-    {
-      "time": "08:16",
-      "title": "青森県で震度6強 現地のSNS投稿",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585556?source=rss",
-      "publishedAt": "2026-06-24T23:16:08.000Z",
-      "xQuery": "青森県で震度6強 現地のSNS投稿"
-    },
     {
       "time": "09:56",
       "title": "東・西日本で広く激しい雨 警戒を",
@@ -34,12 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "東・西日本で広く激しい雨 警戒を"
     },
     {
-      "time": "09:43",
-      "title": "日経平均 一時2000円超上昇",
+      "time": "10:20",
+      "title": "1週間程度は震度6強程度に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585565?source=rss",
-      "publishedAt": "2026-06-25T00:43:04.000Z",
-      "xQuery": "日経平均 一時2000円超上昇"
+      "url": "https://news.yahoo.co.jp/pickup/6585572?source=rss",
+      "publishedAt": "2026-06-25T01:20:18.000Z",
+      "xQuery": "1週間程度は震度6強程度に注意"
+    },
+    {
+      "time": "10:23",
+      "title": "地震 盛岡は「ドカドカと揺れた」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585573?source=rss",
+      "publishedAt": "2026-06-25T01:23:32.000Z",
+      "xQuery": "地震 盛岡は「ドカドカと揺れた」"
+    },
+    {
+      "time": "10:54",
+      "title": "自転車の高校生 車にはねられ死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585576?source=rss",
+      "publishedAt": "2026-06-25T01:54:44.000Z",
+      "xQuery": "自転車の高校生 車にはねられ死亡"
+    },
+    {
+      "time": "10:08",
+      "title": "生徒会長を「つるし上げ」いじめ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585569?source=rss",
+      "publishedAt": "2026-06-25T01:08:47.000Z",
+      "xQuery": "生徒会長を「つるし上げ」いじめ"
     }
   ]
 };

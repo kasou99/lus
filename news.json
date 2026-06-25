@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T01:09:39.647Z",
+  "updatedAt": "2026-06-25T02:25:35.739Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,11 @@
         "publishedAt": "2026-06-24T22:32:22.000Z"
       },
       {
-        "time": "05:20",
-        "title": "テクニア、中小連携でOEM提案 解析で開発支援",
+        "time": "08:18",
+        "title": "横浜ゴムとNEC、DXリーダー育成体系開発",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96YUVTZ1VOdU0yVG02UlJtTGtydU1ueE1USTB0ckg5c29KUGp1ZEJXUGdTR2FoNC1wNk9qWmpmeXVFRmltTzlXRGdxZE13cFg3OURTcjFIamliX2JwM3AzNW1rUkdsVFM5NzctbWlxdFJrWWd6?oc=5",
-        "publishedAt": "2026-06-24T20:20:23.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tckNkYlRrRDVtZFFQRUtiQmZMdndrQ3ZnenlhT0Y0Y0VoTlMyN01OX21IUU1lb2YzTXo1Q2RnX1ZqZERwcFo5VHFvUDBxYnNhR1J1Sjhpd083NThPa3o0UzQ0LXY5RHJCMEk3ekJHVTRFMDdsUE0wWVNySQ?oc=5",
+        "publishedAt": "2026-06-24T23:18:30.000Z"
       },
       {
         "time": "12:46",
@@ -52,20 +52,20 @@
         "publishedAt": "2026-06-24T08:50:13.000Z"
       },
       {
-        "time": "10:56",
-        "title": "マカオの大潭山トンネル建設現場で労災事故発生…作業員1人が工作機械に挟まれ重体（マカオ新聞）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IbGQzYmItWXo5NFZSWEMtQl9odjgtR1RDRUFEQS03ZVIyYjJhdnplLVlWN3dpYWwzMDlKejdMRDhwbEYyMWlaWS1HV0RIUzlIWERGb1duQWRRUWNkcDVsODM1dWoyWWZKM2ItRzYwUlgyeEhFWFFGd080ZUhNMVU?oc=5",
-        "publishedAt": "2026-06-24T01:56:49.000Z"
+        "time": "05:05",
+        "title": "テクニア、中小連携でOEM提案 解析で開発支援",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54dXo5NENmTTR0UHk1OV9lNXVUek56Z09aQ3BibE9SbkY0QThRTHIzT1pJei10MTk4UzYtTjJCX3BhVi02NWRLazhkamRyZ0xQMGZqRVJGdUZRaWM?oc=5",
+        "publishedAt": "2026-06-24T20:05:00.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "20:46",
-        "title": "米イラン合意 イスラエル国民不安",
+        "time": "11:19",
+        "title": "ベネズエラ M7級の地震が連続",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585402?source=rss",
-        "publishedAt": "2026-06-23T11:46:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585580?source=rss",
+        "publishedAt": "2026-06-25T02:19:24.000Z"
       },
       {
         "time": "08:47",
@@ -75,11 +75,11 @@
         "publishedAt": "2026-06-23T23:47:31.000Z"
       },
       {
-        "time": "18:31",
-        "title": "ラオスで日本人男女9人を拘束",
+        "time": "11:05",
+        "title": "米大統領 共和党議員と怒鳴り合い",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585384?source=rss",
-        "publishedAt": "2026-06-23T09:31:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585577?source=rss",
+        "publishedAt": "2026-06-25T02:05:56.000Z"
       },
       {
         "time": "17:16",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "09:43",
-        "title": "日経平均 一時2000円超上昇",
+        "time": "11:12",
+        "title": "日経平均 一時2500円超上昇",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585565?source=rss",
-        "publishedAt": "2026-06-25T00:43:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585579?source=rss",
+        "publishedAt": "2026-06-25T02:12:29.000Z"
       },
       {
         "time": "09:16",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "08:16",
-        "title": "青森県で震度6強 現地のSNS投稿",
+        "time": "10:23",
+        "title": "地震 盛岡は「ドカドカと揺れた」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585556?source=rss",
-        "publishedAt": "2026-06-24T23:16:08.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585573?source=rss",
+        "publishedAt": "2026-06-25T01:23:32.000Z"
       },
       {
         "time": "10:08",
@@ -163,11 +163,11 @@
         "publishedAt": "2026-06-25T01:08:47.000Z"
       },
       {
-        "time": "06:55",
-        "title": "検察審査員の氏名が外部流出 山口",
+        "time": "10:54",
+        "title": "自転車の高校生 車にはねられ死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585542?source=rss",
-        "publishedAt": "2026-06-24T21:55:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585576?source=rss",
+        "publishedAt": "2026-06-25T01:54:44.000Z"
       },
       {
         "time": "20:41",
