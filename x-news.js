@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-25T21:38:32.709Z",
+  "updatedAt": "2026-06-25T22:37:03.825Z",
   "items": [
+    {
+      "time": "06:54",
+      "title": "森保J スウェーデン戦のスタメン",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585678?source=rss",
+      "publishedAt": "2026-06-25T21:54:33.000Z",
+      "xQuery": "森保J スウェーデン戦のスタメン"
+    },
     {
       "time": "06:08",
       "title": "台風7号 沖縄は暴風と大雨に警戒",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585677?source=rss",
       "publishedAt": "2026-06-25T21:29:51.000Z",
       "xQuery": "ベネズエラ地震 数千人死亡の恐れ"
-    },
-    {
-      "time": "22:06",
-      "title": "認知症の行方不明者 昨年1.7万人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585665?source=rss",
-      "publishedAt": "2026-06-25T13:06:54.000Z",
-      "xQuery": "認知症の行方不明者 昨年1.7万人"
     },
     {
       "time": "06:16",
