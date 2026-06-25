@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-24T23:32:06.940Z",
+  "updatedAt": "2026-06-25T01:09:40.751Z",
   "items": [
     {
-      "time": "07:44",
-      "title": "青森県で震度6強 津波の心配なし",
+      "time": "09:55",
+      "title": "「後発地震情報」発表基準至らず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585549?source=rss",
-      "publishedAt": "2026-06-24T22:44:51.000Z",
-      "xQuery": "青森県で震度6強 津波の心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6585568?source=rss",
+      "publishedAt": "2026-06-25T00:55:53.000Z",
+      "xQuery": "「後発地震情報」発表基準至らず"
     },
     {
-      "time": "08:27",
-      "title": "後発地震情報 気象庁が評価開始",
+      "time": "09:10",
+      "title": "現時点で人的被害なし 官房長官",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585557?source=rss",
-      "publishedAt": "2026-06-24T23:27:13.000Z",
-      "xQuery": "後発地震情報 気象庁が評価開始"
-    },
-    {
-      "time": "07:54",
-      "title": "青森県で震度6強 最新情報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585550?source=rss",
-      "publishedAt": "2026-06-24T22:54:27.000Z",
-      "xQuery": "青森県で震度6強 最新情報"
+      "url": "https://news.yahoo.co.jp/pickup/6585561?source=rss",
+      "publishedAt": "2026-06-25T00:10:13.000Z",
+      "xQuery": "現時点で人的被害なし 官房長官"
     },
     {
       "time": "08:16",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "青森県で震度6強 現地のSNS投稿"
     },
     {
-      "time": "07:22",
-      "title": "九州北部 災害級の大雨の恐れ",
+      "time": "09:56",
+      "title": "東・西日本で広く激しい雨 警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585546?source=rss",
-      "publishedAt": "2026-06-24T22:22:12.000Z",
-      "xQuery": "九州北部 災害級の大雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6585567?source=rss",
+      "publishedAt": "2026-06-25T00:56:33.000Z",
+      "xQuery": "東・西日本で広く激しい雨 警戒を"
+    },
+    {
+      "time": "09:43",
+      "title": "日経平均 一時2000円超上昇",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585565?source=rss",
+      "publishedAt": "2026-06-25T00:43:04.000Z",
+      "xQuery": "日経平均 一時2000円超上昇"
     }
   ]
 };

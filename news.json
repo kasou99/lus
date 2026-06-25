@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T23:32:05.817Z",
+  "updatedAt": "2026-06-25T01:09:39.647Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,20 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sS0RGY2ZBSkhXdnduUl93eE9UbUY1S2JFTDdnajZDNFhjOG5tbmZsa3pqLTJzVUxjOTBhVGF0VWFuMElRU3dHcnB5U3lvdkgwaWpDWUxibU93NmdGNFZrTDZQSXFGMUhQcW5UYQ?oc=5",
         "publishedAt": "2026-06-24T20:00:00.000Z"
+      },
+      {
+        "time": "09:21",
+        "title": "MKシグナルが今日分析したホットイシューゴールデンクロス種目は、三和王冠&華川機工です。",
+        "source": "매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ENXlDWDE4MVBuOS1ERU1id01jd1o5bDdsVzVKN09iSVpIVGVvNks2bUlJYzBoMnIxY0Q3aWVBeThpMk5vVEhiQk1XWDB3cWc?oc=5",
+        "publishedAt": "2026-06-25T00:21:28.000Z"
+      },
+      {
+        "time": "07:32",
+        "title": "⽇本メーカー出⾝者率いる中国・橋⽥智能、ロボ機器開発へ24億円調達",
+        "source": "36Kr Japan",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBJQXhjaFJLcXpUejhydjBHX2tMWkpmR05pZ25Ub0NJdHZCaFotZ1VOWWRZTkNJaDFmRFVF?oc=5",
+        "publishedAt": "2026-06-24T22:32:22.000Z"
       },
       {
         "time": "05:20",
@@ -24,13 +38,6 @@
         "publishedAt": "2026-06-24T03:46:43.000Z"
       },
       {
-        "time": "17:50",
-        "title": "NSSK、牧野フライス買収価格を1万6000円前後に大幅引き上げ再提案",
-        "source": "finance.biggo.jp",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xQllvVVJZaGJIMjFXTy1VeTZWYzQ3YkdSeFMxZmt6WTg5TmxpeXVJQnAzbU9KVGtuZjhKWW5rYnBqLXlCaEQwb04xWWM2QS0zc1dJVW83WUhKOHhERTZ0M01IQTQzV2I4b2ktY3ZIOGxkY2N0?oc=5",
-        "publishedAt": "2026-06-24T08:50:13.000Z"
-      },
-      {
         "time": "21:48",
         "title": "7/28（火）日刊工業新聞社主催『［工場管理presents］現場改善ウェビナー「人手不足時代を勝ち抜く！AI×データ",
         "source": "ニコニコニュース",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-06-24T12:48:25.000Z"
       },
       {
+        "time": "17:50",
+        "title": "NSSK、牧野フライス買収価格を1万6000円前後に大幅引き上げ再提案",
+        "source": "finance.biggo.jp",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xQllvVVJZaGJIMjFXTy1VeTZWYzQ3YkdSeFMxZmt6WTg5TmxpeXVJQnAzbU9KVGtuZjhKWW5rYnBqLXlCaEQwb04xWWM2QS0zc1dJVW83WUhKOHhERTZ0M01IQTQzV2I4b2ktY3ZIOGxkY2N0?oc=5",
+        "publishedAt": "2026-06-24T08:50:13.000Z"
+      },
+      {
         "time": "10:56",
         "title": "マカオの大潭山トンネル建設現場で労災事故発生…作業員1人が工作機械に挟まれ重体（マカオ新聞）",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IbGQzYmItWXo5NFZSWEMtQl9odjgtR1RDRUFEQS03ZVIyYjJhdnplLVlWN3dpYWwzMDlKejdMRDhwbEYyMWlaWS1HV0RIUzlIWERGb1duQWRRUWNkcDVsODM1dWoyWWZKM2ItRzYwUlgyeEhFWFFGd080ZUhNMVU?oc=5",
         "publishedAt": "2026-06-24T01:56:49.000Z"
-      },
-      {
-        "time": "05:18",
-        "title": "横浜ゴムとNEC、DXリーダー育成体系開発",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBdEhVWlo2MXhnV1VMeGR0cWk1TEVQcllnWktLa2RFVXFOOWJWbzlZVXpaQmNtb1Atd3B3ZjM3UDlBQkNWMFFxUTRQRTk5a01fUm9JY3VWQ2tLRWxzbXJ1R3VBSlFTazl1bUpQNUxtRjQ2eUpy?oc=5",
-        "publishedAt": "2026-06-24T20:18:18.000Z"
-      },
-      {
-        "time": "03:22",
-        "title": "（人事・機械）オークマ",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDJ1U1h5aFZnNERjSXR6OFBiZGc5Zkk4VnFVenE3d1U5cHJFbXpDdjhBTUp5MkdNUmRNLTZtZENMOVBSTTJ3elhJVDE0bjdrRjJad2hobWtiUXFPOHMzeWw3Skp3NUN4TDJRNWg2ejlBVG5IbklPcDRQbExoRjZWN3Y0NEVIckt2ZFZuRTkzX2xuRkplX0IyTGdyMlYzYnBtcVE?oc=5",
-        "publishedAt": "2026-06-24T18:22:30.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
-        "time": "08:07",
-        "title": "新幹線 東京-新青森間で見合わせ",
+        "time": "09:43",
+        "title": "日経平均 一時2000円超上昇",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585554?source=rss",
-        "publishedAt": "2026-06-24T23:07:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585565?source=rss",
+        "publishedAt": "2026-06-25T00:43:04.000Z"
       },
       {
-        "time": "22:18",
-        "title": "クールジャパン機構 統廃合検討へ",
+        "time": "09:16",
+        "title": "ホンダ日産 SDV基幹部品共通化へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585526?source=rss",
-        "publishedAt": "2026-06-24T13:18:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585563?source=rss",
+        "publishedAt": "2026-06-25T00:16:07.000Z"
       },
       {
         "time": "21:50",
@@ -126,18 +126,18 @@
         "publishedAt": "2026-06-24T12:50:49.000Z"
       },
       {
+        "time": "22:18",
+        "title": "クールジャパン機構 統廃合検討へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585526?source=rss",
+        "publishedAt": "2026-06-24T13:18:34.000Z"
+      },
+      {
         "time": "23:27",
         "title": "キオクシアHD会長 報酬44億円に",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585537?source=rss",
         "publishedAt": "2026-06-24T14:27:16.000Z"
-      },
-      {
-        "time": "12:04",
-        "title": "任天堂の株価低迷 業界が暗い時代",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585464?source=rss",
-        "publishedAt": "2026-06-24T03:04:37.000Z"
       },
       {
         "time": "22:35",
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585556?source=rss",
         "publishedAt": "2026-06-24T23:16:08.000Z"
+      },
+      {
+        "time": "10:08",
+        "title": "生徒会長を「つるし上げ」いじめ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585569?source=rss",
+        "publishedAt": "2026-06-25T01:08:47.000Z"
       },
       {
         "time": "06:55",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585500?source=rss",
         "publishedAt": "2026-06-24T09:02:21.000Z"
-      },
-      {
-        "time": "21:11",
-        "title": "高崎の殺人事件 被害者は28歳女性",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585520?source=rss",
-        "publishedAt": "2026-06-24T12:11:23.000Z"
       }
     ],
     "subsidyHeadlines": [
