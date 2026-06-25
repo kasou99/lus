@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T20:47:27.180Z",
+  "updatedAt": "2026-06-25T21:38:31.874Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TbzZnRnR2dmdHR1NxSWFGWlA2d0Nza0VxNXdFaVV2R3ZzWFd2SDZyc1EtNS1pTW1sRTJaMjZyQU5VSmIxcG94N1UzRFFnbkxIcGlGd2JIM2dRdzZUZWo2VGVtQ2hReTFKZmdJc0k0YTdEa1Blek95aDhGTXZNS3c?oc=5",
         "publishedAt": "2026-06-25T20:00:00.000Z"
+      },
+      {
+        "time": "06:20",
+        "title": "〈工作機械受注〉 AI､半導体､データセンター向け需要が堅調継続――｢受注残｣は過去最高､納期長期化の懸念も",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52alI0cUJmcGd3UUtja2Nod3lobDBfbThRb2xoZk5VTlBQSUtkTTZiWWlwWFJoTHgtcXVHc21XUFEzOFM3VjVVOXdBTXdISklCQkE?oc=5",
+        "publishedAt": "2026-06-25T21:20:00.000Z"
       },
       {
         "time": "17:00",
@@ -50,22 +57,15 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RVkZqaC04eWVOTVc1TUlrMEhKYURtcDFqaHNNRmEzZmJBMDJ6d2J6Y0wzVU9KTTBIekZvbDlBSWFfS2ZXYWFnR3p1clNHQUo0V0o3YVI2WEdfUldFRTRoRldUdXZma05XaFJMdg?oc=5",
         "publishedAt": "2026-06-25T07:02:12.000Z"
-      },
-      {
-        "time": "12:32",
-        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyME9hR2xaYm5UcFVhem4welJhN0RYc1NSeUFtTTV0dkFuMFc2TGRCZnBnVmRzb1BIQUJxQVhWbHcwbFBRaWRUQWxuUkttcUR4S0xQZ3U3LXRsakhNaVJIM0xjZ20?oc=5",
-        "publishedAt": "2026-06-25T03:32:17.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "20:40",
-        "title": "ベネズエラM7超地震 164人が死亡",
+        "time": "06:29",
+        "title": "ベネズエラ地震 数千人死亡の恐れ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585654?source=rss",
-        "publishedAt": "2026-06-25T11:40:23.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585677?source=rss",
+        "publishedAt": "2026-06-25T21:29:51.000Z"
       },
       {
         "time": "08:47",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "06:16",
+        "title": "毒物カレー事件 林死刑囚の夫死去",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585676?source=rss",
+        "publishedAt": "2026-06-25T21:16:36.000Z"
+      },
+      {
         "time": "13:44",
         "title": "江別暴行死 川村被告に懲役30年",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585646?source=rss",
         "publishedAt": "2026-06-25T09:40:10.000Z"
-      },
-      {
-        "time": "23:41",
-        "title": "スクールバス逆走し事故 12人搬送",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585674?source=rss",
-        "publishedAt": "2026-06-25T14:41:18.000Z"
       }
     ],
     "subsidyHeadlines": [

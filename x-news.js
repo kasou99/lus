@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-25T20:47:29.376Z",
+  "updatedAt": "2026-06-25T21:38:32.709Z",
   "items": [
     {
-      "time": "21:39",
-      "title": "皇室典範改正案要綱 与野党に賛否",
+      "time": "06:08",
+      "title": "台風7号 沖縄は暴風と大雨に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585663?source=rss",
-      "publishedAt": "2026-06-25T12:39:44.000Z",
-      "xQuery": "皇室典範改正案要綱 与野党に賛否"
+      "url": "https://news.yahoo.co.jp/pickup/6585675?source=rss",
+      "publishedAt": "2026-06-25T21:08:20.000Z",
+      "xQuery": "台風7号 沖縄は暴風と大雨に警戒"
+    },
+    {
+      "time": "06:29",
+      "title": "ベネズエラ地震 数千人死亡の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585677?source=rss",
+      "publishedAt": "2026-06-25T21:29:51.000Z",
+      "xQuery": "ベネズエラ地震 数千人死亡の恐れ"
     },
     {
       "time": "22:06",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "認知症の行方不明者 昨年1.7万人"
     },
     {
+      "time": "06:16",
+      "title": "毒物カレー事件 林死刑囚の夫死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585676?source=rss",
+      "publishedAt": "2026-06-25T21:16:36.000Z",
+      "xQuery": "毒物カレー事件 林死刑囚の夫死去"
+    },
+    {
       "time": "23:41",
       "title": "スクールバス逆走し事故 12人搬送",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6585674?source=rss",
       "publishedAt": "2026-06-25T14:41:18.000Z",
       "xQuery": "スクールバス逆走し事故 12人搬送"
-    },
-    {
-      "time": "22:31",
-      "title": "メキシコ W杯の群衆に車突っ込む",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585671?source=rss",
-      "publishedAt": "2026-06-25T13:31:52.000Z",
-      "xQuery": "メキシコ W杯の群衆に車突っ込む"
-    },
-    {
-      "time": "21:55",
-      "title": "任天堂29年に技術新拠点 1210億円",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585664?source=rss",
-      "publishedAt": "2026-06-25T12:55:01.000Z",
-      "xQuery": "任天堂29年に技術新拠点 1210億円"
     }
   ]
 };
