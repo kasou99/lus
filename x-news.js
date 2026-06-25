@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-25T11:25:38.068Z",
+  "updatedAt": "2026-06-25T12:20:03.612Z",
   "items": [
     {
-      "time": "18:29",
-      "title": "台風7号 27日に九州～関東直撃か",
+      "time": "21:06",
+      "title": "青森県で震度4 津波の心配なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585644?source=rss",
-      "publishedAt": "2026-06-25T09:29:31.000Z",
-      "xQuery": "台風7号 27日に九州～関東直撃か"
+      "url": "https://news.yahoo.co.jp/pickup/6585659?source=rss",
+      "publishedAt": "2026-06-25T12:06:51.000Z",
+      "xQuery": "青森県で震度4 津波の心配なし"
     },
     {
-      "time": "14:43",
-      "title": "量子技術巡り大統領令 米国の狙い",
+      "time": "20:21",
+      "title": "栃木強殺「殺害してでも」と指示",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585610?source=rss",
-      "publishedAt": "2026-06-25T05:43:34.000Z",
-      "xQuery": "量子技術巡り大統領令 米国の狙い"
+      "url": "https://news.yahoo.co.jp/pickup/6585651?source=rss",
+      "publishedAt": "2026-06-25T11:21:39.000Z",
+      "xQuery": "栃木強殺「殺害してでも」と指示"
     },
     {
-      "time": "17:35",
-      "title": "宮城強盗致死 元従業員に無罪判決",
+      "time": "20:40",
+      "title": "ベネズエラM7超地震 164人が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585632?source=rss",
-      "publishedAt": "2026-06-25T08:35:17.000Z",
-      "xQuery": "宮城強盗致死 元従業員に無罪判決"
-    },
-    {
-      "time": "16:39",
-      "title": "芸能人肖像 AIで無断使用4万件超",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585623?source=rss",
-      "publishedAt": "2026-06-25T07:39:26.000Z",
-      "xQuery": "芸能人肖像 AIで無断使用4万件超"
+      "url": "https://news.yahoo.co.jp/pickup/6585654?source=rss",
+      "publishedAt": "2026-06-25T11:40:23.000Z",
+      "xQuery": "ベネズエラM7超地震 164人が死亡"
     },
     {
       "time": "18:40",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585646?source=rss",
       "publishedAt": "2026-06-25T09:40:10.000Z",
       "xQuery": "10代の娘に性的暴行疑い 父を逮捕"
+    },
+    {
+      "time": "19:28",
+      "title": "不漁でホタテの価格高騰 店が悲鳴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585650?source=rss",
+      "publishedAt": "2026-06-25T10:28:05.000Z",
+      "xQuery": "不漁でホタテの価格高騰 店が悲鳴"
     }
   ]
 };

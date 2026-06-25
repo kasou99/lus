@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T11:25:37.313Z",
+  "updatedAt": "2026-06-25T12:20:02.878Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-06-25T06:19:49.000Z"
       },
       {
-        "time": "12:32",
-        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyME9hR2xaYm5UcFVhem4welJhN0RYc1NSeUFtTTV0dkFuMFc2TGRCZnBnVmRzb1BIQUJxQVhWbHcwbFBRaWRUQWxuUkttcUR4S0xQZ3U3LXRsakhNaVJIM0xjZ20?oc=5",
-        "publishedAt": "2026-06-25T03:32:17.000Z"
-      },
-      {
         "time": "09:21",
         "title": "MKシグナルが今日分析したホットイシューゴールデンクロス種目は、三和王冠&華川機工です。",
         "source": "매일경제",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ENXlDWDE4MVBuOS1ERU1id01jd1o5bDdsVzVKN09iSVpIVGVvNks2bUlJYzBoMnIxY0Q3aWVBeThpMk5vVEhiQk1XWDB3cWc?oc=5",
         "publishedAt": "2026-06-25T00:21:28.000Z"
+      },
+      {
+        "time": "12:32",
+        "title": "ロボットテクノロジージャパン2026が開幕 人型ロボットや半導体向けに焦点",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyME9hR2xaYm5UcFVhem4welJhN0RYc1NSeUFtTTV0dkFuMFc2TGRCZnBnVmRzb1BIQUJxQVhWbHcwbFBRaWRUQWxuUkttcUR4S0xQZ3U3LXRsakhNaVJIM0xjZ20?oc=5",
+        "publishedAt": "2026-06-25T03:32:17.000Z"
       },
       {
         "time": "05:00",
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "11:19",
-        "title": "ベネズエラ M7級の地震が連続",
+        "time": "20:40",
+        "title": "ベネズエラM7超地震 164人が死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585580?source=rss",
-        "publishedAt": "2026-06-25T02:19:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585654?source=rss",
+        "publishedAt": "2026-06-25T11:40:23.000Z"
       },
       {
         "time": "08:47",
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "21:09",
+        "title": "SBIHDとフジHD 資本業務提携へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585657?source=rss",
+        "publishedAt": "2026-06-25T12:09:02.000Z"
+      },
+      {
         "time": "17:02",
         "title": "米企業 日産・追浜工場取得を協議",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585629?source=rss",
         "publishedAt": "2026-06-25T08:02:27.000Z"
-      },
-      {
-        "time": "15:53",
-        "title": "東証終値3191円高 上げ幅歴代4位",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585616?source=rss",
-        "publishedAt": "2026-06-25T06:53:43.000Z"
       },
       {
         "time": "09:16",
