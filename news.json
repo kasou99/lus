@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T02:25:35.739Z",
+  "updatedAt": "2026-06-25T03:49:18.805Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-06-24T23:18:30.000Z"
       },
       {
-        "time": "12:46",
-        "title": "「スマートファクトリーことはじめ『設備保全から読み解く製造DX基盤の正しい進め方』」に登壇",
-        "source": "abeam.com",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zMEFHRENHM2tTX2lzc1BIYThxeDA3Rl9lX29UQnV5d2h4QkZWTDBQU0RwR05JVTV6R0VNWmluVDFPNklFdzRibk5Xa2g4RHd1NU1BX3FJWQ?oc=5",
-        "publishedAt": "2026-06-24T03:46:43.000Z"
+        "time": "12:00",
+        "title": "可変速グラインダー世界市場の深層分析2026-2032：市場規模・成長率・競合戦略・地域別展望",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CQnpKcTdkTzhTSHJnOHVwbm5uTmFkbEIxZEo5UkJ2QThMUzFPREdJY1FTRXBTSHhlMGpFc2U4UG9HTm5qekVXTzRGRTZPVy1ZT1ZCOHlaMDBKSm9uUjhmU2I0R0NUZ2I3Mnc?oc=5",
+        "publishedAt": "2026-06-25T03:00:00.000Z"
       },
       {
         "time": "21:48",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-06-25T01:08:47.000Z"
       },
       {
+        "time": "12:14",
+        "title": "作業中にはねられ死亡 飲酒運転か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585594?source=rss",
+        "publishedAt": "2026-06-25T03:14:22.000Z"
+      },
+      {
         "time": "10:54",
         "title": "自転車の高校生 車にはねられ死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585485?source=rss",
         "publishedAt": "2026-06-24T06:34:19.000Z"
-      },
-      {
-        "time": "18:02",
-        "title": "小学校火災 洗濯物乾かしたと教師",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585500?source=rss",
-        "publishedAt": "2026-06-24T09:02:21.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -215,13 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "12:00",
-        "title": "設備投資に使える補助金まとめ【2026年・目的別】省力化・業務改善助成金など最大1億円の支援を解説",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41Tk91V0hXbzlDZktaTzFPeHd3dS1yZUVpNjVsSHo5aURNd3Y0ZGhPMXZpVEJuOFEyaVNJb0hsWENjSjdVLXUzV1pmd3hjYnJEN05CN2lTQzlwdzNZdFo5SHAwZ1l2dXZzVzJHVHhuejA?oc=5",
-        "publishedAt": "2026-06-16T03:00:00.000Z"
       }
     ]
   }

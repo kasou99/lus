@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-25T02:25:36.681Z",
+  "updatedAt": "2026-06-25T03:49:19.651Z",
   "items": [
     {
-      "time": "09:56",
-      "title": "東・西日本で広く激しい雨 警戒を",
+      "time": "12:24",
+      "title": "台風7号 26日に沖縄に最接近へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585567?source=rss",
-      "publishedAt": "2026-06-25T00:56:33.000Z",
-      "xQuery": "東・西日本で広く激しい雨 警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6585595?source=rss",
+      "publishedAt": "2026-06-25T03:24:29.000Z",
+      "xQuery": "台風7号 26日に沖縄に最接近へ"
     },
     {
-      "time": "10:20",
-      "title": "1週間程度は震度6強程度に注意",
+      "time": "11:11",
+      "title": "高齢者の運転技能検査 見直しへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585572?source=rss",
-      "publishedAt": "2026-06-25T01:20:18.000Z",
-      "xQuery": "1週間程度は震度6強程度に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6585578?source=rss",
+      "publishedAt": "2026-06-25T02:11:02.000Z",
+      "xQuery": "高齢者の運転技能検査 見直しへ"
     },
     {
-      "time": "10:23",
-      "title": "地震 盛岡は「ドカドカと揺れた」",
+      "time": "11:19",
+      "title": "ベネズエラ M7級の地震が連続",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585573?source=rss",
-      "publishedAt": "2026-06-25T01:23:32.000Z",
-      "xQuery": "地震 盛岡は「ドカドカと揺れた」"
+      "url": "https://news.yahoo.co.jp/pickup/6585580?source=rss",
+      "publishedAt": "2026-06-25T02:19:24.000Z",
+      "xQuery": "ベネズエラ M7級の地震が連続"
     },
     {
-      "time": "10:54",
-      "title": "自転車の高校生 車にはねられ死亡",
+      "time": "12:14",
+      "title": "作業中にはねられ死亡 飲酒運転か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585576?source=rss",
-      "publishedAt": "2026-06-25T01:54:44.000Z",
-      "xQuery": "自転車の高校生 車にはねられ死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6585594?source=rss",
+      "publishedAt": "2026-06-25T03:14:22.000Z",
+      "xQuery": "作業中にはねられ死亡 飲酒運転か"
     },
     {
       "time": "10:08",
