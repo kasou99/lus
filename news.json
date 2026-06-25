@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T10:08:25.374Z",
+  "updatedAt": "2026-06-25T11:25:37.313Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RVkZqaC04eWVOTVc1TUlrMEhKYURtcDFqaHNNRmEzZmJBMDJ6d2J6Y0wzVU9KTTBIekZvbDlBSWFfS2ZXYWFnR3p1clNHQUo0V0o3YVI2WEdfUldFRTRoRldUdXZma05XaFJMdg?oc=5",
         "publishedAt": "2026-06-25T07:02:12.000Z"
+      },
+      {
+        "time": "19:30",
+        "title": "【日本人社員拘束】中国がレアアース規制で狙う「サーボモーター」、“中国アッシー”に潜む技術流出リスク",
+        "source": "JBpress",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ldDRXeEk1TmZQaDBNcFdqa3N6Q1VxY0h6MzRmRnFWeDljWm4zR0F1R3Q0XzM1UG8wRWJ4SjNmcjkwcS0zUm9vbVNTWm5wX0h1UUhVaVhB?oc=5",
+        "publishedAt": "2026-06-25T10:30:00.000Z"
       },
       {
         "time": "17:00",
@@ -50,13 +57,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sS0RGY2ZBSkhXdnduUl93eE9UbUY1S2JFTDdnajZDNFhjOG5tbmZsa3pqLTJzVUxjOTBhVGF0VWFuMElRU3dHcnB5U3lvdkgwaWpDWUxibU93NmdGNFZrTDZQSXFGMUhQcW5UYQ?oc=5",
         "publishedAt": "2026-06-24T20:00:00.000Z"
-      },
-      {
-        "time": "13:03",
-        "title": "スピードボール盤グローバル市場予測2026-2032：業界再編の兆候を捉える 主要企業シェア・新規参入リスク分析",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ITU9aRmNGZHdCMDlwd21VcXA4c044dGtROXlJOWhBNlB6RnM5Si0zVkx0eXJtMmJLXzRBR25rVTF2c3NYUGRObmQwTWI5N1BnaGVyZUw1MHB3Q24tUXEwdEphdTc5YU9SOWtrRDJ2RzV0SmxyUmhTTF9LSQ?oc=5",
-        "publishedAt": "2026-06-25T04:03:40.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-06-25T07:39:05.000Z"
       },
       {
+        "time": "20:21",
+        "title": "栃木強殺「殺害してでも」と指示",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585651?source=rss",
+        "publishedAt": "2026-06-25T11:21:39.000Z"
+      },
+      {
         "time": "17:35",
         "title": "宮城強盗致死 元従業員に無罪判決",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585635?source=rss",
         "publishedAt": "2026-06-25T08:43:37.000Z"
-      },
-      {
-        "time": "18:40",
-        "title": "10代の娘に性的暴行疑い 父を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585646?source=rss",
-        "publishedAt": "2026-06-25T09:40:10.000Z"
       }
     ],
     "subsidyHeadlines": [

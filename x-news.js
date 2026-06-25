@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-25T10:08:26.226Z",
+  "updatedAt": "2026-06-25T11:25:38.068Z",
   "items": [
     {
       "time": "18:29",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "量子技術巡り大統領令 米国の狙い"
     },
     {
+      "time": "17:35",
+      "title": "宮城強盗致死 元従業員に無罪判決",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585632?source=rss",
+      "publishedAt": "2026-06-25T08:35:17.000Z",
+      "xQuery": "宮城強盗致死 元従業員に無罪判決"
+    },
+    {
       "time": "16:39",
       "title": "芸能人肖像 AIで無断使用4万件超",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6585623?source=rss",
       "publishedAt": "2026-06-25T07:39:26.000Z",
       "xQuery": "芸能人肖像 AIで無断使用4万件超"
-    },
-    {
-      "time": "15:28",
-      "title": "江別暴行死判決 裁判長が償い促す",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585614?source=rss",
-      "publishedAt": "2026-06-25T06:28:28.000Z",
-      "xQuery": "江別暴行死判決 裁判長が償い促す"
     },
     {
       "time": "18:40",
