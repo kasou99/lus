@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-06-25T05:30:26.315Z",
+  "updatedAt": "2026-06-25T07:25:20.805Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:00",
-        "title": "設備保全総合研究所、SOMPO系と連携 工場や不動産向けリスク分析",
+        "time": "16:02",
+        "title": "5月の工作機械受注、38%増の1770億円 航空機や造船向け伸びる",
         "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sS0RGY2ZBSkhXdnduUl93eE9UbUY1S2JFTDdnajZDNFhjOG5tbmZsa3pqLTJzVUxjOTBhVGF0VWFuMElRU3dHcnB5U3lvdkgwaWpDWUxibU93NmdGNFZrTDZQSXFGMUhQcW5UYQ?oc=5",
-        "publishedAt": "2026-06-24T20:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RVkZqaC04eWVOTVc1TUlrMEhKYURtcDFqaHNNRmEzZmJBMDJ6d2J6Y0wzVU9KTTBIekZvbDlBSWFfS2ZXYWFnR3p1clNHQUo0V0o3YVI2WEdfUldFRTRoRldUdXZma05XaFJMdg?oc=5",
+        "publishedAt": "2026-06-25T07:02:12.000Z"
+      },
+      {
+        "time": "15:19",
+        "title": "工作機械用潤滑油・グリース市場調査：規模推移、成長率3.9%、最新業界動向2026-2032｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zMUp2MGp3ZFRHR1M5UmppMndKbDVhcjlMOU9BOFBubXJDVTBvUzMwZU9IQmFLQ0QwTDJoWlA3TWlIR1ZTaXRfV3BNLVJ5M2dpaUhYQ3BFaw?oc=5",
+        "publishedAt": "2026-06-25T06:19:49.000Z"
       },
       {
         "time": "12:32",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-06-24T23:18:30.000Z"
       },
       {
+        "time": "05:00",
+        "title": "設備保全総合研究所、SOMPO系と連携 工場や不動産向けリスク分析",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sS0RGY2ZBSkhXdnduUl93eE9UbUY1S2JFTDdnajZDNFhjOG5tbmZsa3pqLTJzVUxjOTBhVGF0VWFuMElRU3dHcnB5U3lvdkgwaWpDWUxibU93NmdGNFZrTDZQSXFGMUhQcW5UYQ?oc=5",
+        "publishedAt": "2026-06-24T20:00:00.000Z"
+      },
+      {
         "time": "13:03",
         "title": "スピードボール盤グローバル市場予測2026-2032：業界再編の兆候を捉える 主要企業シェア・新規参入リスク分析",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ITU9aRmNGZHdCMDlwd21VcXA4c044dGtROXlJOWhBNlB6RnM5Si0zVkx0eXJtMmJLXzRBR25rVTF2c3NYUGRObmQwTWI5N1BnaGVyZUw1MHB3Q24tUXEwdEphdTc5YU9SOWtrRDJ2RzV0SmxyUmhTTF9LSQ?oc=5",
         "publishedAt": "2026-06-25T04:03:40.000Z"
-      },
-      {
-        "time": "17:50",
-        "title": "NSSK、牧野フライス買収価格を1万6000円前後に大幅引き上げ再提案",
-        "source": "finance.biggo.jp",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xQllvVVJZaGJIMjFXTy1VeTZWYzQ3YkdSeFMxZmt6WTg5TmxpeXVJQnAzbU9KVGtuZjhKWW5rYnBqLXlCaEQwb04xWWM2QS0zc1dJVW83WUhKOHhERTZ0M01IQTQzV2I4b2ktY3ZIOGxkY2N0?oc=5",
-        "publishedAt": "2026-06-24T08:50:13.000Z"
-      },
-      {
-        "time": "05:05",
-        "title": "テクニア、中小連携でOEM提案 解析で開発支援",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54dXo5NENmTTR0UHk1OV9lNXVUek56Z09aQ3BibE9SbkY0QThRTHIzT1pJei10MTk4UzYtTjJCX3BhVi02NWRLazhkamRyZ0xQMGZqRVJGdUZRaWM?oc=5",
-        "publishedAt": "2026-06-24T20:05:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-06-25T02:05:56.000Z"
       },
       {
+        "time": "14:43",
+        "title": "量子技術巡り大統領令 米国の狙い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585610?source=rss",
+        "publishedAt": "2026-06-25T05:43:34.000Z"
+      },
+      {
         "time": "17:16",
         "title": "ペルー大統領選 ケイコ氏勝利確実",
         "source": "Yahoo!ニュース",
@@ -94,22 +101,15 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585487?source=rss",
         "publishedAt": "2026-06-24T07:03:26.000Z"
-      },
-      {
-        "time": "13:33",
-        "title": "仏で44.3℃ 熱中症などで40人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585475?source=rss",
-        "publishedAt": "2026-06-24T04:33:05.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "14:24",
-        "title": "日経平均 一時3000円超上昇",
+        "time": "15:53",
+        "title": "東証終値3191円高 上げ幅歴代4位",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585609?source=rss",
-        "publishedAt": "2026-06-25T05:24:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585616?source=rss",
+        "publishedAt": "2026-06-25T06:53:43.000Z"
       },
       {
         "time": "09:16",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-06-25T04:44:18.000Z"
       },
       {
+        "time": "15:28",
+        "title": "江別暴行死判決 裁判長が償い促す",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585614?source=rss",
+        "publishedAt": "2026-06-25T06:28:28.000Z"
+      },
+      {
         "time": "10:23",
         "title": "地震 盛岡は「ドカドカと揺れた」",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-06-25T03:14:22.000Z"
       },
       {
-        "time": "10:54",
-        "title": "自転車の高校生 車にはねられ死亡",
+        "time": "15:41",
+        "title": "厚労省係長を起訴 ストーカー疑い",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585576?source=rss",
-        "publishedAt": "2026-06-25T01:54:44.000Z"
-      },
-      {
-        "time": "20:41",
-        "title": "弁護側 内田梨瑚被告は判決に納得",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585518?source=rss",
-        "publishedAt": "2026-06-24T11:41:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585615?source=rss",
+        "publishedAt": "2026-06-25T06:41:18.000Z"
       }
     ],
     "subsidyHeadlines": [

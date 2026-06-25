@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-25T05:30:26.851Z",
+  "updatedAt": "2026-06-25T07:25:21.517Z",
   "items": [
     {
-      "time": "12:24",
-      "title": "台風7号 26日に沖縄に最接近へ",
+      "time": "13:04",
+      "title": "地震 三陸はるか沖地震と関連か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585595?source=rss",
-      "publishedAt": "2026-06-25T03:24:29.000Z",
-      "xQuery": "台風7号 26日に沖縄に最接近へ"
+      "url": "https://news.yahoo.co.jp/pickup/6585598?source=rss",
+      "publishedAt": "2026-06-25T04:04:01.000Z",
+      "xQuery": "地震 三陸はるか沖地震と関連か"
     },
     {
-      "time": "13:55",
-      "title": "危険運転に数値基準 改正法成立",
+      "time": "15:53",
+      "title": "東証終値3191円高 上げ幅歴代4位",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585605?source=rss",
-      "publishedAt": "2026-06-25T04:55:05.000Z",
-      "xQuery": "危険運転に数値基準 改正法成立"
-    },
-    {
-      "time": "14:24",
-      "title": "日経平均 一時3000円超上昇",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585609?source=rss",
-      "publishedAt": "2026-06-25T05:24:42.000Z",
-      "xQuery": "日経平均 一時3000円超上昇"
+      "url": "https://news.yahoo.co.jp/pickup/6585616?source=rss",
+      "publishedAt": "2026-06-25T06:53:43.000Z",
+      "xQuery": "東証終値3191円高 上げ幅歴代4位"
     },
     {
       "time": "13:44",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "江別暴行死 川村被告に懲役30年"
     },
     {
-      "time": "11:52",
-      "title": "シッター嫌だった母 一転した今",
+      "time": "13:30",
+      "title": "犬型ロボ「aibo」国内販売を終了",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585587?source=rss",
-      "publishedAt": "2026-06-25T02:52:10.000Z",
-      "xQuery": "シッター嫌だった母 一転した今"
+      "url": "https://news.yahoo.co.jp/pickup/6585600?source=rss",
+      "publishedAt": "2026-06-25T04:30:28.000Z",
+      "xQuery": "犬型ロボ「aibo」国内販売を終了"
+    },
+    {
+      "time": "14:26",
+      "title": "美容業界 アンバサダーに男性続々",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585606?source=rss",
+      "publishedAt": "2026-06-25T05:26:33.000Z",
+      "xQuery": "美容業界 アンバサダーに男性続々"
     }
   ]
 };
