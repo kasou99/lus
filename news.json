@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T22:37:03.134Z",
+  "updatedAt": "2026-06-25T23:35:32.469Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-06-25T20:00:00.000Z"
       },
       {
-        "time": "05:35",
-        "title": "5月工作機械受注、37%増 中国・アジア好調けん引",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RQm9JX3NpWUZQekt2WG1USFA4QVVmd2FQd2xWMGtnbXdLSEdEUktENm1sNUhyVF9kRGNqd0Zqd04xUGwzemF3RG92aXpXNWVXZThLYXhSVk5VZHVRbXNab1p3NmhZNzg2STVMdTM1Q2tUZE82?oc=5",
-        "publishedAt": "2026-06-25T20:35:00.000Z"
-      },
-      {
-        "time": "06:20",
+        "time": "07:43",
         "title": "〈工作機械受注〉 AI､半導体､データセンター向け需要が堅調継続――｢受注残｣は過去最高､納期長期化の懸念も",
         "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52alI0cUJmcGd3UUtja2Nod3lobDBfbThRb2xoZk5VTlBQSUtkTTZiWWlwWFJoTHgtcXVHc21XUFEzOFM3VjVVOXdBTXdISklCQkE?oc=5",
-        "publishedAt": "2026-06-25T21:20:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyR2VPS2NibWxkbUZub0lsYThyRWlGYTlwMkRRUVZQX1Q1M2hnM29kWVY1Nm5pQWRZMzdQZFN5cG5JUEJXVTkwWXlrQWNlOHpkX2FfVjZBendWaHM?oc=5",
+        "publishedAt": "2026-06-25T22:43:12.000Z"
+      },
+      {
+        "time": "17:00",
+        "title": "工作機械受注、5月37％増 中国・アジア好調けん引",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54ZXdRYncybUVIUEs0RE9wTlJRZFo4bEgwVlFCb2ZRdmxoU0tUSjlaSXNvMmpKMjI0STh0NmY0MnhTbkdQSThRTUxma1UxR1E1T2ExNlNaZUZkdzg?oc=5",
+        "publishedAt": "2026-06-25T08:00:00.000Z"
       },
       {
         "time": "19:30",
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:38",
+        "title": "寝屋川流域 レベル4氾濫危険警報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585683?source=rss",
+        "publishedAt": "2026-06-25T22:38:31.000Z"
+      },
+      {
+        "time": "08:20",
+        "title": "村上虹郎さん 傷害疑いで書類送検",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585687?source=rss",
+        "publishedAt": "2026-06-25T23:20:22.000Z"
+      },
+      {
         "time": "06:16",
         "title": "毒物カレー事件 林死刑囚の夫死去",
         "source": "Yahoo!ニュース",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-06-25T06:28:28.000Z"
       },
       {
-        "time": "22:36",
-        "title": "江別暴行死判決 量刑の違い分析",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585670?source=rss",
-        "publishedAt": "2026-06-25T13:36:17.000Z"
-      },
-      {
         "time": "20:21",
         "title": "栃木強殺「殺害してでも」と指示",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585651?source=rss",
         "publishedAt": "2026-06-25T11:21:39.000Z"
-      },
-      {
-        "time": "18:40",
-        "title": "10代の娘に性的暴行疑い 父を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585646?source=rss",
-        "publishedAt": "2026-06-25T09:40:10.000Z"
       }
     ],
     "subsidyHeadlines": [

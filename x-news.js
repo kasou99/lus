@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-25T22:37:03.825Z",
+  "updatedAt": "2026-06-25T23:35:33.233Z",
   "items": [
     {
-      "time": "06:54",
-      "title": "森保J スウェーデン戦のスタメン",
+      "time": "07:51",
+      "title": "速報 森保ジャパンvsスウェーデン",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585678?source=rss",
-      "publishedAt": "2026-06-25T21:54:33.000Z",
-      "xQuery": "森保J スウェーデン戦のスタメン"
+      "url": "https://news.yahoo.co.jp/pickup/6585681?source=rss",
+      "publishedAt": "2026-06-25T22:51:49.000Z",
+      "xQuery": "速報 森保ジャパンvsスウェーデン"
+    },
+    {
+      "time": "07:38",
+      "title": "寝屋川流域 レベル4氾濫危険警報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585683?source=rss",
+      "publishedAt": "2026-06-25T22:38:31.000Z",
+      "xQuery": "寝屋川流域 レベル4氾濫危険警報"
     },
     {
       "time": "06:08",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585676?source=rss",
       "publishedAt": "2026-06-25T21:16:36.000Z",
       "xQuery": "毒物カレー事件 林死刑囚の夫死去"
-    },
-    {
-      "time": "23:41",
-      "title": "スクールバス逆走し事故 12人搬送",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585674?source=rss",
-      "publishedAt": "2026-06-25T14:41:18.000Z",
-      "xQuery": "スクールバス逆走し事故 12人搬送"
     }
   ]
 };
