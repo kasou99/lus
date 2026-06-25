@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-25T14:20:24.848Z",
+  "updatedAt": "2026-06-25T15:30:51.437Z",
   "items": [
     {
       "time": "21:39",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "皇室典範改正案要綱 与野党に賛否"
     },
     {
-      "time": "20:51",
-      "title": "最低賃金の目標 先延ばしで調整",
+      "time": "22:06",
+      "title": "認知症の行方不明者 昨年1.7万人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585655?source=rss",
-      "publishedAt": "2026-06-25T11:51:51.000Z",
-      "xQuery": "最低賃金の目標 先延ばしで調整"
+      "url": "https://news.yahoo.co.jp/pickup/6585665?source=rss",
+      "publishedAt": "2026-06-25T13:06:54.000Z",
+      "xQuery": "認知症の行方不明者 昨年1.7万人"
     },
     {
-      "time": "22:07",
-      "title": "スクールバス絡む事故 12人搬送",
+      "time": "23:41",
+      "title": "スクールバス逆走し事故 12人搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585666?source=rss",
-      "publishedAt": "2026-06-25T13:07:57.000Z",
-      "xQuery": "スクールバス絡む事故 12人搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6585674?source=rss",
+      "publishedAt": "2026-06-25T14:41:18.000Z",
+      "xQuery": "スクールバス逆走し事故 12人搬送"
     },
     {
       "time": "22:31",
