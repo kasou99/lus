@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-25T03:49:19.651Z",
+  "updatedAt": "2026-06-25T05:30:26.851Z",
   "items": [
     {
       "time": "12:24",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "台風7号 26日に沖縄に最接近へ"
     },
     {
-      "time": "11:11",
-      "title": "高齢者の運転技能検査 見直しへ",
+      "time": "13:55",
+      "title": "危険運転に数値基準 改正法成立",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585578?source=rss",
-      "publishedAt": "2026-06-25T02:11:02.000Z",
-      "xQuery": "高齢者の運転技能検査 見直しへ"
+      "url": "https://news.yahoo.co.jp/pickup/6585605?source=rss",
+      "publishedAt": "2026-06-25T04:55:05.000Z",
+      "xQuery": "危険運転に数値基準 改正法成立"
     },
     {
-      "time": "11:19",
-      "title": "ベネズエラ M7級の地震が連続",
+      "time": "14:24",
+      "title": "日経平均 一時3000円超上昇",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585580?source=rss",
-      "publishedAt": "2026-06-25T02:19:24.000Z",
-      "xQuery": "ベネズエラ M7級の地震が連続"
+      "url": "https://news.yahoo.co.jp/pickup/6585609?source=rss",
+      "publishedAt": "2026-06-25T05:24:42.000Z",
+      "xQuery": "日経平均 一時3000円超上昇"
     },
     {
-      "time": "12:14",
-      "title": "作業中にはねられ死亡 飲酒運転か",
+      "time": "13:44",
+      "title": "江別暴行死 川村被告に懲役30年",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585594?source=rss",
-      "publishedAt": "2026-06-25T03:14:22.000Z",
-      "xQuery": "作業中にはねられ死亡 飲酒運転か"
+      "url": "https://news.yahoo.co.jp/pickup/6585604?source=rss",
+      "publishedAt": "2026-06-25T04:44:18.000Z",
+      "xQuery": "江別暴行死 川村被告に懲役30年"
     },
     {
-      "time": "10:08",
-      "title": "生徒会長を「つるし上げ」いじめ",
+      "time": "11:52",
+      "title": "シッター嫌だった母 一転した今",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585569?source=rss",
-      "publishedAt": "2026-06-25T01:08:47.000Z",
-      "xQuery": "生徒会長を「つるし上げ」いじめ"
+      "url": "https://news.yahoo.co.jp/pickup/6585587?source=rss",
+      "publishedAt": "2026-06-25T02:52:10.000Z",
+      "xQuery": "シッター嫌だった母 一転した今"
     }
   ]
 };
