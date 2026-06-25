@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T13:19:18.220Z",
+  "updatedAt": "2026-06-25T14:20:24.057Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-06-25T07:02:12.000Z"
       },
       {
-        "time": "19:30",
-        "title": "【日本人社員拘束】中国がレアアース規制で狙う「サーボモーター」、“中国アッシー”に潜む技術流出リスク",
-        "source": "JBpress",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ldDRXeEk1TmZQaDBNcFdqa3N6Q1VxY0h6MzRmRnFWeDljWm4zR0F1R3Q0XzM1UG8wRWJ4SjNmcjkwcS0zUm9vbVNTWm5wX0h1UUhVaVhB?oc=5",
-        "publishedAt": "2026-06-25T10:30:00.000Z"
-      },
-      {
         "time": "17:00",
         "title": "工作機械受注、5月37％増 中国・アジア好調けん引",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54ZXdRYncybUVIUEs0RE9wTlJRZFo4bEgwVlFCb2ZRdmxoU0tUSjlaSXNvMmpKMjI0STh0NmY0MnhTbkdQSThRTUxma1UxR1E1T2ExNlNaZUZkdzg?oc=5",
         "publishedAt": "2026-06-25T08:00:00.000Z"
+      },
+      {
+        "time": "19:30",
+        "title": "【日本人社員拘束】中国がレアアース規制で狙う「サーボモーター」、“中国アッシー”に潜む技術流出リスク",
+        "source": "JBpress",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ldDRXeEk1TmZQaDBNcFdqa3N6Q1VxY0h6MzRmRnFWeDljWm4zR0F1R3Q0XzM1UG8wRWJ4SjNmcjkwcS0zUm9vbVNTWm5wX0h1UUhVaVhB?oc=5",
+        "publishedAt": "2026-06-25T10:30:00.000Z"
       },
       {
         "time": "12:30",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-06-25T05:43:34.000Z"
       },
       {
-        "time": "17:16",
-        "title": "ペルー大統領選 ケイコ氏勝利確実",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585495?source=rss",
-        "publishedAt": "2026-06-24T08:16:27.000Z"
-      },
-      {
         "time": "16:03",
         "title": "7/6ハメネイ師国葬 2千万人参列へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585487?source=rss",
         "publishedAt": "2026-06-24T07:03:26.000Z"
+      },
+      {
+        "time": "16:31",
+        "title": "ストーカー対策アプリ 韓国で開始",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585490?source=rss",
+        "publishedAt": "2026-06-24T07:31:43.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,11 +163,11 @@
         "publishedAt": "2026-06-25T06:28:28.000Z"
       },
       {
-        "time": "16:39",
-        "title": "震度6強の町 職員「怖かった」",
+        "time": "22:36",
+        "title": "江別暴行死判決 量刑の違い分析",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585625?source=rss",
-        "publishedAt": "2026-06-25T07:39:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585670?source=rss",
+        "publishedAt": "2026-06-25T13:36:17.000Z"
       },
       {
         "time": "20:21",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-25T11:21:39.000Z"
       },
       {
-        "time": "17:43",
-        "title": "神戸学院大学長 パワハラで辞任",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585635?source=rss",
-        "publishedAt": "2026-06-25T08:43:37.000Z"
-      },
-      {
         "time": "18:40",
         "title": "10代の娘に性的暴行疑い 父を逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585646?source=rss",
         "publishedAt": "2026-06-25T09:40:10.000Z"
+      },
+      {
+        "time": "22:07",
+        "title": "スクールバス絡む事故 12人搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585666?source=rss",
+        "publishedAt": "2026-06-25T13:07:57.000Z"
       }
     ],
     "subsidyHeadlines": [

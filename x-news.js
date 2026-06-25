@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-25T13:19:19.183Z",
+  "updatedAt": "2026-06-25T14:20:24.848Z",
   "items": [
+    {
+      "time": "21:39",
+      "title": "皇室典範改正案要綱 与野党に賛否",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585663?source=rss",
+      "publishedAt": "2026-06-25T12:39:44.000Z",
+      "xQuery": "皇室典範改正案要綱 与野党に賛否"
+    },
     {
       "time": "20:51",
       "title": "最低賃金の目標 先延ばしで調整",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585655?source=rss",
       "publishedAt": "2026-06-25T11:51:51.000Z",
       "xQuery": "最低賃金の目標 先延ばしで調整"
-    },
-    {
-      "time": "20:40",
-      "title": "ベネズエラM7超地震 164人が死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585654?source=rss",
-      "publishedAt": "2026-06-25T11:40:23.000Z",
-      "xQuery": "ベネズエラM7超地震 164人が死亡"
     },
     {
       "time": "22:07",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スクールバス絡む事故 12人搬送"
     },
     {
-      "time": "18:40",
-      "title": "10代の娘に性的暴行疑い 父を逮捕",
+      "time": "22:31",
+      "title": "メキシコ W杯の群衆に車突っ込む",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585646?source=rss",
-      "publishedAt": "2026-06-25T09:40:10.000Z",
-      "xQuery": "10代の娘に性的暴行疑い 父を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6585671?source=rss",
+      "publishedAt": "2026-06-25T13:31:52.000Z",
+      "xQuery": "メキシコ W杯の群衆に車突っ込む"
     },
     {
-      "time": "14:29",
-      "title": "任天堂と海外大手 課題の違いとは",
+      "time": "21:55",
+      "title": "任天堂29年に技術新拠点 1210億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585608?source=rss",
-      "publishedAt": "2026-06-25T05:29:27.000Z",
-      "xQuery": "任天堂と海外大手 課題の違いとは"
+      "url": "https://news.yahoo.co.jp/pickup/6585664?source=rss",
+      "publishedAt": "2026-06-25T12:55:01.000Z",
+      "xQuery": "任天堂29年に技術新拠点 1210億円"
     }
   ]
 };
