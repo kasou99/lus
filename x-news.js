@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-25T23:35:33.233Z",
+  "updatedAt": "2026-06-26T01:12:33.213Z",
   "items": [
     {
-      "time": "07:51",
-      "title": "速報 森保ジャパンvsスウェーデン",
+      "time": "10:01",
+      "title": "森保Jドロー 決勝Tはブラジル戦",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585681?source=rss",
-      "publishedAt": "2026-06-25T22:51:49.000Z",
-      "xQuery": "速報 森保ジャパンvsスウェーデン"
+      "url": "https://news.yahoo.co.jp/pickup/6585709?source=rss",
+      "publishedAt": "2026-06-26T01:01:18.000Z",
+      "xQuery": "森保Jドロー 決勝Tはブラジル戦"
     },
     {
-      "time": "07:38",
-      "title": "寝屋川流域 レベル4氾濫危険警報",
+      "time": "08:49",
+      "title": "台風遠い地域も大雨 土砂災害警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585683?source=rss",
-      "publishedAt": "2026-06-25T22:38:31.000Z",
-      "xQuery": "寝屋川流域 レベル4氾濫危険警報"
+      "url": "https://news.yahoo.co.jp/pickup/6585693?source=rss",
+      "publishedAt": "2026-06-25T23:49:44.000Z",
+      "xQuery": "台風遠い地域も大雨 土砂災害警戒"
     },
     {
-      "time": "06:08",
-      "title": "台風7号 沖縄は暴風と大雨に警戒",
+      "time": "08:01",
+      "title": "法人の実質的支配者 新法で把握へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585675?source=rss",
-      "publishedAt": "2026-06-25T21:08:20.000Z",
-      "xQuery": "台風7号 沖縄は暴風と大雨に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6585684?source=rss",
+      "publishedAt": "2026-06-25T23:01:05.000Z",
+      "xQuery": "法人の実質的支配者 新法で把握へ"
     },
     {
-      "time": "06:29",
-      "title": "ベネズエラ地震 数千人死亡の恐れ",
+      "time": "08:51",
+      "title": "ホルムズ海峡 船舶に飛翔体直撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585677?source=rss",
-      "publishedAt": "2026-06-25T21:29:51.000Z",
-      "xQuery": "ベネズエラ地震 数千人死亡の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6585689?source=rss",
+      "publishedAt": "2026-06-25T23:51:39.000Z",
+      "xQuery": "ホルムズ海峡 船舶に飛翔体直撃"
     },
     {
-      "time": "06:16",
-      "title": "毒物カレー事件 林死刑囚の夫死去",
+      "time": "08:54",
+      "title": "MacもiPadも Appleが一斉値上げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585676?source=rss",
-      "publishedAt": "2026-06-25T21:16:36.000Z",
-      "xQuery": "毒物カレー事件 林死刑囚の夫死去"
+      "url": "https://news.yahoo.co.jp/pickup/6585690?source=rss",
+      "publishedAt": "2026-06-25T23:54:09.000Z",
+      "xQuery": "MacもiPadも Appleが一斉値上げ"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T23:35:32.469Z",
+  "updatedAt": "2026-06-26T01:12:32.265Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-06-25T10:30:00.000Z"
       },
       {
-        "time": "12:30",
-        "title": "日本製鉄発のスタートアップＫＡＭＡＭＥＳＨＩ、設備停止リスクの可視化・予防を支援する設備保全サービスを開始",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KU0dlR3QxMFhsdXkwVFlDc2pqQ2U0dnlKMWtyWktUcGhPVGZzY0ZJWTJVUlBwZWxVd2cwWjkwRHFtMGlIZFZiSUd5X0VkVl9sOUJuVkd3YlZKcUQwZUZDMHBzZ1NXZVh2QUE?oc=5",
-        "publishedAt": "2026-06-25T03:30:02.000Z"
-      },
-      {
         "time": "05:10",
         "title": "日工会、５月受注は37％増",
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOS2lEbTZGOWY4ZVNsLUUzRzRNc3FpMklfYmpKNXhVRXUzLWxYWEVZMFRCQkwwbjNNTmRHRzVVdGU4MDJxNlpWaTFNSXdRVXl1am9hT0ZvY2c0TEx3U3VHNmhfdTJzZXd1b0xBOFl2U3RUSnM?oc=5",
         "publishedAt": "2026-06-25T20:10:41.000Z"
+      },
+      {
+        "time": "12:30",
+        "title": "日本製鉄発のスタートアップＫＡＭＡＭＥＳＨＩ、設備停止リスクの可視化・予防を支援する設備保全サービスを開始",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KU0dlR3QxMFhsdXkwVFlDc2pqQ2U0dnlKMWtyWktUcGhPVGZzY0ZJWTJVUlBwZWxVd2cwWjkwRHFtMGlIZFZiSUd5X0VkVl9sOUJuVkd3YlZKcUQwZUZDMHBzZ1NXZVh2QUE?oc=5",
+        "publishedAt": "2026-06-25T03:30:02.000Z"
       },
       {
         "time": "05:00",
@@ -61,18 +61,18 @@
     ],
     "worldHeadlines": [
       {
+        "time": "08:51",
+        "title": "ホルムズ海峡 船舶に飛翔体直撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585689?source=rss",
+        "publishedAt": "2026-06-25T23:51:39.000Z"
+      },
+      {
         "time": "06:29",
         "title": "ベネズエラ地震 数千人死亡の恐れ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585677?source=rss",
         "publishedAt": "2026-06-25T21:29:51.000Z"
-      },
-      {
-        "time": "08:47",
-        "title": "ロシア ウ東部要塞「事実上制圧」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585441?source=rss",
-        "publishedAt": "2026-06-23T23:47:31.000Z"
       },
       {
         "time": "11:05",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "07:38",
-        "title": "寝屋川流域 レベル4氾濫危険警報",
+        "time": "09:39",
+        "title": "京都市で民家が浸水 男性を救助",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585683?source=rss",
-        "publishedAt": "2026-06-25T22:38:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585704?source=rss",
+        "publishedAt": "2026-06-26T00:39:13.000Z"
       },
       {
         "time": "08:20",
