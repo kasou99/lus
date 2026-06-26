@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T21:54:13.067Z",
+  "updatedAt": "2026-06-26T22:33:07.549Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,11 @@
         "publishedAt": "2026-06-26T04:00:02.000Z"
       },
       {
-        "time": "00:56",
+        "time": "04:40",
         "title": "新学長に聞く2026（5）山形大学学長・出口毅氏",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EUVZBbFhWWUtTcFZaRFpsMWJLb1NRTzA5eHA2Uk9aTTV0a3Y1azVkV2dQdWN5bEZuRmFXVEZrY09QT0hGbW5OanNLLWd5NlY3RzctXzJuMWpaa2c?oc=5",
-        "publishedAt": "2026-06-26T15:56:15.000Z"
+        "publishedAt": "2026-06-26T19:40:48.000Z"
       },
       {
         "time": "16:58",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:23",
+        "title": "北京高層ビルに小型機衝突か 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585824?source=rss",
+        "publishedAt": "2026-06-26T22:23:19.000Z"
+      },
       {
         "time": "12:31",
         "title": "米と湾岸諸国 海峡通航料「拒否」",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585767?source=rss",
         "publishedAt": "2026-06-26T08:40:25.000Z"
-      },
-      {
-        "time": "22:31",
-        "title": "メキシコ W杯の群衆に車突っ込む",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585671?source=rss",
-        "publishedAt": "2026-06-25T13:31:52.000Z"
       }
     ],
     "economyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-26T21:54:14.018Z",
+  "updatedAt": "2026-06-26T22:33:08.281Z",
   "items": [
     {
       "time": "23:57",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "地震で土砂災害恐れ 今後の雨注意"
     },
     {
-      "time": "00:53",
-      "title": "家に土砂流入1人行方不明 山口県",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585818?source=rss",
-      "publishedAt": "2026-06-26T15:53:01.000Z",
-      "xQuery": "家に土砂流入1人行方不明 山口県"
-    },
-    {
       "time": "00:36",
       "title": "地震 識者「斜面崩壊の可能性も」",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "地震 識者「斜面崩壊の可能性も」"
     },
     {
-      "time": "23:46",
-      "title": "富士山の火山活動 特段の変化なし",
+      "time": "01:06",
+      "title": "ドンと下から衝撃 震度6弱の町",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585811?source=rss",
-      "publishedAt": "2026-06-26T14:46:07.000Z",
-      "xQuery": "富士山の火山活動 特段の変化なし"
+      "url": "https://news.yahoo.co.jp/pickup/6585819?source=rss",
+      "publishedAt": "2026-06-26T16:06:37.000Z",
+      "xQuery": "ドンと下から衝撃 震度6弱の町"
+    },
+    {
+      "time": "07:23",
+      "title": "北京高層ビルに小型機衝突か 報道",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585824?source=rss",
+      "publishedAt": "2026-06-26T22:23:19.000Z",
+      "xQuery": "北京高層ビルに小型機衝突か 報道"
     }
   ]
 };
