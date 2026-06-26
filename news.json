@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-26T01:12:32.265Z",
+  "updatedAt": "2026-06-26T02:25:25.656Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "05:00",
-        "title": "車向け工作機械、5月受注は95%増 HV･PHV投資が好調",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TbzZnRnR2dmdHR1NxSWFGWlA2d0Nza0VxNXdFaVV2R3ZzWFd2SDZyc1EtNS1pTW1sRTJaMjZyQU5VSmIxcG94N1UzRFFnbkxIcGlGd2JIM2dRdzZUZWo2VGVtQ2hReTFKZmdJc0k0YTdEa1Blek95aDhGTXZNS3c?oc=5",
-        "publishedAt": "2026-06-25T20:00:00.000Z"
-      },
       {
         "time": "07:43",
         "title": "〈工作機械受注〉 AI､半導体､データセンター向け需要が堅調継続――｢受注残｣は過去最高､納期長期化の懸念も",
         "source": "東洋経済オンライン",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyR2VPS2NibWxkbUZub0lsYThyRWlGYTlwMkRRUVZQX1Q1M2hnM29kWVY1Nm5pQWRZMzdQZFN5cG5JUEJXVTkwWXlrQWNlOHpkX2FfVjZBendWaHM?oc=5",
         "publishedAt": "2026-06-25T22:43:12.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "車向け工作機械、5月受注は95%増 HV･PHV投資が好調",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TbzZnRnR2dmdHR1NxSWFGWlA2d0Nza0VxNXdFaVV2R3ZzWFd2SDZyc1EtNS1pTW1sRTJaMjZyQU5VSmIxcG94N1UzRFFnbkxIcGlGd2JIM2dRdzZUZWo2VGVtQ2hReTFKZmdJc0k0YTdEa1Blek95aDhGTXZNS3c?oc=5",
+        "publishedAt": "2026-06-25T20:00:00.000Z"
       },
       {
         "time": "17:00",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "10:14",
+        "title": "日経平均 一時2000円超の下げ幅",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585706?source=rss",
+        "publishedAt": "2026-06-26T01:14:23.000Z"
+      },
+      {
         "time": "21:09",
         "title": "SBIHDとフジHD 資本業務提携へ",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585563?source=rss",
         "publishedAt": "2026-06-25T00:16:07.000Z"
-      },
-      {
-        "time": "21:50",
-        "title": "日産・永井氏 再任賛成48%で否決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585524?source=rss",
-        "publishedAt": "2026-06-24T12:50:49.000Z"
       },
       {
         "time": "21:55",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-25T06:28:28.000Z"
       },
       {
-        "time": "20:21",
-        "title": "栃木強殺「殺害してでも」と指示",
+        "time": "10:26",
+        "title": "父と兄の遺体か 遺棄疑いで男逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585651?source=rss",
-        "publishedAt": "2026-06-25T11:21:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585713?source=rss",
+        "publishedAt": "2026-06-26T01:26:46.000Z"
       }
     ],
     "subsidyHeadlines": [

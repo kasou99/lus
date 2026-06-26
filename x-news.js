@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-26T01:12:33.213Z",
+  "updatedAt": "2026-06-26T02:25:26.478Z",
   "items": [
     {
-      "time": "10:01",
-      "title": "森保Jドロー 決勝Tはブラジル戦",
+      "time": "10:57",
+      "title": "台風 27日にかけ九州-関東で大雨",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585709?source=rss",
-      "publishedAt": "2026-06-26T01:01:18.000Z",
-      "xQuery": "森保Jドロー 決勝Tはブラジル戦"
+      "url": "https://news.yahoo.co.jp/pickup/6585718?source=rss",
+      "publishedAt": "2026-06-26T01:57:45.000Z",
+      "xQuery": "台風 27日にかけ九州-関東で大雨"
     },
     {
-      "time": "08:49",
-      "title": "台風遠い地域も大雨 土砂災害警戒",
+      "time": "09:39",
+      "title": "京都市で民家が浸水 男性を救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585693?source=rss",
-      "publishedAt": "2026-06-25T23:49:44.000Z",
-      "xQuery": "台風遠い地域も大雨 土砂災害警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6585704?source=rss",
+      "publishedAt": "2026-06-26T00:39:13.000Z",
+      "xQuery": "京都市で民家が浸水 男性を救助"
     },
     {
-      "time": "08:01",
-      "title": "法人の実質的支配者 新法で把握へ",
+      "time": "10:55",
+      "title": "空自「航空宇宙自衛隊」に改編へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585684?source=rss",
-      "publishedAt": "2026-06-25T23:01:05.000Z",
-      "xQuery": "法人の実質的支配者 新法で把握へ"
+      "url": "https://news.yahoo.co.jp/pickup/6585719?source=rss",
+      "publishedAt": "2026-06-26T01:55:21.000Z",
+      "xQuery": "空自「航空宇宙自衛隊」に改編へ"
     },
     {
-      "time": "08:51",
-      "title": "ホルムズ海峡 船舶に飛翔体直撃",
+      "time": "10:14",
+      "title": "日経平均 一時2000円超の下げ幅",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585689?source=rss",
-      "publishedAt": "2026-06-25T23:51:39.000Z",
-      "xQuery": "ホルムズ海峡 船舶に飛翔体直撃"
+      "url": "https://news.yahoo.co.jp/pickup/6585706?source=rss",
+      "publishedAt": "2026-06-26T01:14:23.000Z",
+      "xQuery": "日経平均 一時2000円超の下げ幅"
     },
     {
-      "time": "08:54",
-      "title": "MacもiPadも Appleが一斉値上げ",
+      "time": "10:26",
+      "title": "父と兄の遺体か 遺棄疑いで男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585690?source=rss",
-      "publishedAt": "2026-06-25T23:54:09.000Z",
-      "xQuery": "MacもiPadも Appleが一斉値上げ"
+      "url": "https://news.yahoo.co.jp/pickup/6585713?source=rss",
+      "publishedAt": "2026-06-26T01:26:46.000Z",
+      "xQuery": "父と兄の遺体か 遺棄疑いで男逮捕"
     }
   ]
 };
