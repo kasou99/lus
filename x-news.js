@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-26T13:47:23.035Z",
+  "updatedAt": "2026-06-26T15:02:10.450Z",
   "items": [
     {
       "time": "22:39",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "山梨県で震度6弱 津波心配なし"
     },
     {
-      "time": "22:32",
-      "title": "安全確保を 地震発生時のNG行動",
+      "time": "22:47",
+      "title": "山梨県で震度6弱 最新情報まとめ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585553?source=rss",
-      "publishedAt": "2026-06-26T13:32:46.000Z",
-      "xQuery": "安全確保を 地震発生時のNG行動"
+      "url": "https://news.yahoo.co.jp/pickup/6585805?source=rss",
+      "publishedAt": "2026-06-26T13:47:49.000Z",
+      "xQuery": "山梨県で震度6弱 最新情報まとめ"
     },
     {
-      "time": "20:14",
-      "title": "大雨ピークは2回 災害に厳重警戒",
+      "time": "23:42",
+      "title": "東海道新幹線 一部で運転見合わせ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585791?source=rss",
-      "publishedAt": "2026-06-26T11:14:50.000Z",
-      "xQuery": "大雨ピークは2回 災害に厳重警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6585810?source=rss",
+      "publishedAt": "2026-06-26T14:42:34.000Z",
+      "xQuery": "東海道新幹線 一部で運転見合わせ"
     },
     {
-      "time": "21:10",
-      "title": "雨で増水した川に転落か 男性死亡",
+      "time": "23:46",
+      "title": "富士山の火山活動 特段の変化なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585797?source=rss",
-      "publishedAt": "2026-06-26T12:10:45.000Z",
-      "xQuery": "雨で増水した川に転落か 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6585811?source=rss",
+      "publishedAt": "2026-06-26T14:46:07.000Z",
+      "xQuery": "富士山の火山活動 特段の変化なし"
     },
     {
-      "time": "22:15",
-      "title": "ベネズエラ 安否不明登録4万人超",
+      "time": "23:57",
+      "title": "台風ピークは2回 雨に終日警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585801?source=rss",
-      "publishedAt": "2026-06-26T13:15:14.000Z",
-      "xQuery": "ベネズエラ 安否不明登録4万人超"
+      "url": "https://news.yahoo.co.jp/pickup/6585812?source=rss",
+      "publishedAt": "2026-06-26T14:57:13.000Z",
+      "xQuery": "台風ピークは2回 雨に終日警戒を"
     }
   ]
 };
