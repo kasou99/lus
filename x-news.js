@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-26T07:31:53.767Z",
+  "updatedAt": "2026-06-26T09:16:48.241Z",
   "items": [
     {
-      "time": "13:53",
-      "title": "27日 ダブル台風が関東に直撃か",
+      "time": "18:11",
+      "title": "関東-九州で災害級の大雨に警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585745?source=rss",
-      "publishedAt": "2026-06-26T04:53:51.000Z",
-      "xQuery": "27日 ダブル台風が関東に直撃か"
+      "url": "https://news.yahoo.co.jp/pickup/6585779?source=rss",
+      "publishedAt": "2026-06-26T09:11:45.000Z",
+      "xQuery": "関東-九州で災害級の大雨に警戒を"
     },
     {
       "time": "16:12",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "JR東あす一部の特急や在来線運休"
     },
     {
-      "time": "16:11",
-      "title": "東証終値3005円安 下げ幅史上3位",
+      "time": "18:04",
+      "title": "大学生を集団暴行の疑い 6人逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585755?source=rss",
-      "publishedAt": "2026-06-26T07:11:37.000Z",
-      "xQuery": "東証終値3005円安 下げ幅史上3位"
+      "url": "https://news.yahoo.co.jp/pickup/6585775?source=rss",
+      "publishedAt": "2026-06-26T09:04:31.000Z",
+      "xQuery": "大学生を集団暴行の疑い 6人逮捕"
     },
     {
-      "time": "15:25",
-      "title": "陸自で感染USB使用 小泉氏が説明",
+      "time": "17:04",
+      "title": "銃弾か 走行中の軽トラ荷台に穴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585750?source=rss",
-      "publishedAt": "2026-06-26T06:25:52.000Z",
-      "xQuery": "陸自で感染USB使用 小泉氏が説明"
+      "url": "https://news.yahoo.co.jp/pickup/6585763?source=rss",
+      "publishedAt": "2026-06-26T08:04:59.000Z",
+      "xQuery": "銃弾か 走行中の軽トラ荷台に穴"
     },
     {
-      "time": "16:07",
-      "title": "ゴーン氏 ‌復帰求める声に言及",
+      "time": "17:31",
+      "title": "ゴディバジャパン不振 今夏再建へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585756?source=rss",
-      "publishedAt": "2026-06-26T07:07:46.000Z",
-      "xQuery": "ゴーン氏 ‌復帰求める声に言及"
+      "url": "https://news.yahoo.co.jp/pickup/6585770?source=rss",
+      "publishedAt": "2026-06-26T08:31:57.000Z",
+      "xQuery": "ゴディバジャパン不振 今夏再建へ"
     }
   ]
 };
