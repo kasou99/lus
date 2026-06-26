@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-26T05:35:18.250Z",
+  "updatedAt": "2026-06-26T07:31:53.767Z",
   "items": [
     {
       "time": "13:53",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "27日 ダブル台風が関東に直撃か"
     },
     {
-      "time": "13:00",
-      "title": "ホルムズ海峡に飛翔体 船舶へ攻撃",
+      "time": "16:12",
+      "title": "JR東あす一部の特急や在来線運休",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585735?source=rss",
-      "publishedAt": "2026-06-26T04:00:16.000Z",
-      "xQuery": "ホルムズ海峡に飛翔体 船舶へ攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6585754?source=rss",
+      "publishedAt": "2026-06-26T07:12:27.000Z",
+      "xQuery": "JR東あす一部の特急や在来線運休"
     },
     {
-      "time": "13:58",
-      "title": "遠のく1500円 最低賃金の重要性",
+      "time": "16:11",
+      "title": "東証終値3005円安 下げ幅史上3位",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585738?source=rss",
-      "publishedAt": "2026-06-26T04:58:44.000Z",
-      "xQuery": "遠のく1500円 最低賃金の重要性"
+      "url": "https://news.yahoo.co.jp/pickup/6585755?source=rss",
+      "publishedAt": "2026-06-26T07:11:37.000Z",
+      "xQuery": "東証終値3005円安 下げ幅史上3位"
     },
     {
-      "time": "14:29",
-      "title": "SBIHDとフジHD 戦略的提携を検討",
+      "time": "15:25",
+      "title": "陸自で感染USB使用 小泉氏が説明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585748?source=rss",
-      "publishedAt": "2026-06-26T05:29:34.000Z",
-      "xQuery": "SBIHDとフジHD 戦略的提携を検討"
+      "url": "https://news.yahoo.co.jp/pickup/6585750?source=rss",
+      "publishedAt": "2026-06-26T06:25:52.000Z",
+      "xQuery": "陸自で感染USB使用 小泉氏が説明"
     },
     {
-      "time": "13:00",
-      "title": "iPadなど値上げ Appleの株価下落",
+      "time": "16:07",
+      "title": "ゴーン氏 ‌復帰求める声に言及",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585737?source=rss",
-      "publishedAt": "2026-06-26T04:00:24.000Z",
-      "xQuery": "iPadなど値上げ Appleの株価下落"
+      "url": "https://news.yahoo.co.jp/pickup/6585756?source=rss",
+      "publishedAt": "2026-06-26T07:07:46.000Z",
+      "xQuery": "ゴーン氏 ‌復帰求める声に言及"
     }
   ]
 };
