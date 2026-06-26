@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-26T22:33:08.281Z",
+  "updatedAt": "2026-06-26T23:32:34.067Z",
   "items": [
     {
-      "time": "23:57",
-      "title": "台風ピークは2回 雨に終日警戒を",
+      "time": "07:48",
+      "title": "台風7号 関東甲信は大雨に警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585812?source=rss",
-      "publishedAt": "2026-06-26T14:57:13.000Z",
-      "xQuery": "台風ピークは2回 雨に終日警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6585827?source=rss",
+      "publishedAt": "2026-06-26T22:48:09.000Z",
+      "xQuery": "台風7号 関東甲信は大雨に警戒を"
     },
     {
-      "time": "01:28",
-      "title": "地震で土砂災害恐れ 今後の雨注意",
+      "time": "08:17",
+      "title": "米軍がイラン施設爆撃 反撃と主張",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585821?source=rss",
-      "publishedAt": "2026-06-26T16:28:54.000Z",
-      "xQuery": "地震で土砂災害恐れ 今後の雨注意"
+      "url": "https://news.yahoo.co.jp/pickup/6585830?source=rss",
+      "publishedAt": "2026-06-26T23:17:17.000Z",
+      "xQuery": "米軍がイラン施設爆撃 反撃と主張"
     },
     {
       "time": "00:36",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T22:33:07.549Z",
+  "updatedAt": "2026-06-26T23:32:32.974Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-06-26T07:30:00.000Z"
       },
       {
-        "time": "16:39",
-        "title": "KAMAMESHI 設備保全で新サービス 停止リスクを可視化・予防（日刊産業新聞）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUem0zWjd3SlQ1UlY2cmlfVUJydHE5SEFPZ1hIZ0VSWFNBRkV6VGo1M0F6ZTNEQy11VnVLaTdGdlA0Q2R6TDUzS05KV3BGQktwNGR1b0ZnQmJPRVpPRnQ3cnUxWkc4NDhjTXZFU2lxRVRNRU9xMXdrLVcxbTZHWEU?oc=5",
-        "publishedAt": "2026-06-26T07:39:41.000Z"
-      },
-      {
         "time": "13:00",
         "title": "設備保全総合研究所とＳＯＭＰＯリスクマネジメントが連携協定を締結",
         "source": "PR TIMES",
@@ -24,11 +17,11 @@
         "publishedAt": "2026-06-26T04:00:02.000Z"
       },
       {
-        "time": "04:40",
-        "title": "新学長に聞く2026（5）山形大学学長・出口毅氏",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EUVZBbFhWWUtTcFZaRFpsMWJLb1NRTzA5eHA2Uk9aTTV0a3Y1azVkV2dQdWN5bEZuRmFXVEZrY09QT0hGbW5OanNLLWd5NlY3RzctXzJuMWpaa2c?oc=5",
-        "publishedAt": "2026-06-26T19:40:48.000Z"
+        "time": "16:39",
+        "title": "KAMAMESHI 設備保全で新サービス 停止リスクを可視化・予防（日刊産業新聞）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUem0zWjd3SlQ1UlY2cmlfVUJydHE5SEFPZ1hIZ0VSWFNBRkV6VGo1M0F6ZTNEQy11VnVLaTdGdlA0Q2R6TDUzS05KV3BGQktwNGR1b0ZnQmJPRVpPRnQ3cnUxWkc4NDhjTXZFU2lxRVRNRU9xMXdrLVcxbTZHWEU?oc=5",
+        "publishedAt": "2026-06-26T07:39:41.000Z"
       },
       {
         "time": "16:58",
@@ -38,13 +31,6 @@
         "publishedAt": "2026-06-26T07:58:51.000Z"
       },
       {
-        "time": "14:00",
-        "title": "日本のRV減速機市場展望：市場規模、成長機会、競合状況2026-2032– 年平均成長率（CAGR）5.98％で成長",
-        "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11ZGpEb0F4MTZXZTBGQkRPU042Z2FkS3owQ3VNaFBEUndEN1JDaE81aGZ1Z0xSRjhOVFZ5NkhsMXJzUlh5aHBKckF2MnVycXZtVUQ0?oc=5",
-        "publishedAt": "2026-06-26T05:00:00.000Z"
-      },
-      {
         "time": "10:00",
         "title": "アネスト岩田、「モノづくりを創る」新たな生産技術拠点Manufacturing Innovation Center【MIC】を横浜に開設",
         "source": "イザ！",
@@ -52,20 +38,41 @@
         "publishedAt": "2026-06-26T01:00:00.000Z"
       },
       {
-        "time": "22:57",
-        "title": "政府、成長17分野に官民370兆円投資 中部企業への追い風に 半導体、イビデン/フィジカルAI、オークマなど",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0ZhLS10aEtnLUd5UHZmLUZSZXBpdTdtRFpXa2ZhZEtUMWRGRmxYRnkzamhKY1U5R3UyWjR1N180R2ZhOXAtMlZKM3o0RWZJdDFValR2SXA0eGthWlgtSWJQT3pSWHlqd3BNRGZLSk9tb3M5bWt6OG1wRkQwa1ZQSlB3cXBZSFp3S0FYSDdNaFJsdk9tLUdlSjBSMFJvYk96cDdCMU00bDQ?oc=5",
-        "publishedAt": "2026-06-26T13:57:46.000Z"
+        "time": "04:40",
+        "title": "新学長に聞く2026（5）山形大学学長・出口毅氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EUVZBbFhWWUtTcFZaRFpsMWJLb1NRTzA5eHA2Uk9aTTV0a3Y1azVkV2dQdWN5bEZuRmFXVEZrY09QT0hGbW5OanNLLWd5NlY3RzctXzJuMWpaa2c?oc=5",
+        "publishedAt": "2026-06-26T19:40:48.000Z"
+      },
+      {
+        "time": "14:00",
+        "title": "日本のRV減速機市場展望：市場規模、成長機会、競合状況2026-2032– 年平均成長率（CAGR）5.98％で成長",
+        "source": "ドリームニュース",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11ZGpEb0F4MTZXZTBGQkRPU042Z2FkS3owQ3VNaFBEUndEN1JDaE81aGZ1Z0xSRjhOVFZ5NkhsMXJzUlh5aHBKckF2MnVycXZtVUQ0?oc=5",
+        "publishedAt": "2026-06-26T05:00:00.000Z"
+      },
+      {
+        "time": "13:56",
+        "title": "芝浦機械が続伸､香港ファンドの株式買い増しで思惑台頭",
+        "source": "会社四季報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81c1hyYU1ndEdEMllaVUdnbVVGX2JiU1RLMTJaTVRXamxIQmJVSzhBcUhKaG91WEc0MldvSnlKZ1NZckxMZzhOT05zY01wb1piZ29TVXVtQQ?oc=5",
+        "publishedAt": "2026-06-26T04:56:32.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "07:23",
-        "title": "北京高層ビルに小型機衝突か 報道",
+        "time": "08:17",
+        "title": "米軍がイラン施設爆撃 反撃と主張",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585824?source=rss",
-        "publishedAt": "2026-06-26T22:23:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585830?source=rss",
+        "publishedAt": "2026-06-26T23:17:17.000Z"
+      },
+      {
+        "time": "07:47",
+        "title": "イスラエルとレバノン 枠組み合意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585826?source=rss",
+        "publishedAt": "2026-06-26T22:47:01.000Z"
       },
       {
         "time": "12:31",
@@ -75,11 +82,11 @@
         "publishedAt": "2026-06-26T03:31:43.000Z"
       },
       {
-        "time": "13:00",
-        "title": "ホルムズ海峡に飛翔体 船舶へ攻撃",
+        "time": "07:23",
+        "title": "北京高層ビルに小型機衝突か 報道",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585735?source=rss",
-        "publishedAt": "2026-06-26T04:00:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585824?source=rss",
+        "publishedAt": "2026-06-26T22:23:19.000Z"
       },
       {
         "time": "12:11",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585801?source=rss",
         "publishedAt": "2026-06-26T13:15:14.000Z"
-      },
-      {
-        "time": "17:40",
-        "title": "欧州熱波 スペインで200人超死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585767?source=rss",
-        "publishedAt": "2026-06-26T08:40:25.000Z"
       }
     ],
     "economyHeadlines": [
