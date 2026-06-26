@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T21:04:57.169Z",
+  "updatedAt": "2026-06-26T21:54:13.067Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-06-26T15:56:15.000Z"
       },
       {
-        "time": "06:20",
-        "title": "〈工作機械受注〉 AI､半導体､データセンター向け需要が堅調継続――｢受注残｣は過去最高､納期長期化の懸念も",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyR2VPS2NibWxkbUZub0lsYThyRWlGYTlwMkRRUVZQX1Q1M2hnM29kWVY1Nm5pQWRZMzdQZFN5cG5JUEJXVTkwWXlrQWNlOHpkX2FfVjZBendWaHM?oc=5",
-        "publishedAt": "2026-06-25T21:20:00.000Z"
-      },
-      {
         "time": "16:58",
         "title": "ＳＯＭＰＯリスクと設備保全総合研究所が手を組み、設備管理の新時代を切り拓く",
         "source": "ニュースメディアVOIX",
@@ -57,6 +50,13 @@
         "source": "イザ！",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpRU52MVlHeVZ6TGlMblh5SlVYQ0U3WUloeFJfMG9CNW5meTdqbkpaNHoycVRTSHh0ZmVnVk0yQkxwSFo0cVhzWjJsbWV5Rkl2WkhDLXhKVnRmUHpVelMtR1BQVkUwN3B0RmVVM1dCV1JIczVLNWpOYXd3?oc=5",
         "publishedAt": "2026-06-26T01:00:00.000Z"
+      },
+      {
+        "time": "22:57",
+        "title": "政府、成長17分野に官民370兆円投資 中部企業への追い風に 半導体、イビデン/フィジカルAI、オークマなど",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0ZhLS10aEtnLUd5UHZmLUZSZXBpdTdtRFpXa2ZhZEtUMWRGRmxYRnkzamhKY1U5R3UyWjR1N180R2ZhOXAtMlZKM3o0RWZJdDFValR2SXA0eGthWlgtSWJQT3pSWHlqd3BNRGZLSk9tb3M5bWt6OG1wRkQwa1ZQSlB3cXBZSFp3S0FYSDdNaFJsdk9tLUdlSjBSMFJvYk96cDdCMU00bDQ?oc=5",
+        "publishedAt": "2026-06-26T13:57:46.000Z"
       }
     ],
     "worldHeadlines": [
