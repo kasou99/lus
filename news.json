@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-06-26T03:49:13.844Z",
+  "updatedAt": "2026-06-26T05:35:17.441Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "06:20",
+        "time": "13:00",
+        "title": "ＳＯＭＰＯリスクマネジメントと設備保全総合研究所が連携協定を締結",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54UThialdEbmNnamd0YV9CcUtKbEphUXc1Zl9JaU9ybFkwYkQzZFkweUpabl9vcURYLWJpUHRRNXpCTktPQXoyTml5RmpuSUYyV3hhb2FrUTVpa1Q5Y1N5RE1JX24xM1NQRGc?oc=5",
+        "publishedAt": "2026-06-26T04:00:02.000Z"
+      },
+      {
+        "time": "07:43",
         "title": "〈工作機械受注〉 AI､半導体､データセンター向け需要が堅調継続――｢受注残｣は過去最高､納期長期化の懸念も",
         "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52alI0cUJmcGd3UUtja2Nod3lobDBfbThRb2xoZk5VTlBQSUtkTTZiWWlwWFJoTHgtcXVHc21XUFEzOFM3VjVVOXdBTXdISklCQkE?oc=5",
-        "publishedAt": "2026-06-25T21:20:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyR2VPS2NibWxkbUZub0lsYThyRWlGYTlwMkRRUVZQX1Q1M2hnM29kWVY1Nm5pQWRZMzdQZFN5cG5JUEJXVTkwWXlrQWNlOHpkX2FfVjZBendWaHM?oc=5",
+        "publishedAt": "2026-06-25T22:43:12.000Z"
       },
       {
         "time": "05:00",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-06-25T13:00:24.000Z"
       },
       {
-        "time": "05:00",
-        "title": "豊和工業、自衛隊採用の小銃生産2年で4倍 工作機械は構造改革",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ETVl2cDA4MUN3alpvN0FNakVKblVJVF8tWmdrMmhzZHlYTWZYOWNERVpUVGlfZjF0bUQwdGRlMTVUeXVlNFBsOU9RV3kwN2prZFdLZGN5WW5iMTRxZ3ZRcm03YXo0NkJ2cDNXMzNoNWxxZ2xVeDVwa0xJM3dzUQ?oc=5",
-        "publishedAt": "2026-06-25T20:00:00.000Z"
-      },
-      {
-        "time": "15:19",
-        "title": "工作機械用潤滑油・グリース市場調査：規模推移、成長率3.9%、最新業界動向2026-2032｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zMUp2MGp3ZFRHR1M5UmppMndKbDVhcjlMOU9BOFBubXJDVTBvUzMwZU9IQmFLQ0QwTDJoWlA3TWlIR1ZTaXRfV3BNLVJ5M2dpaUhYQ3BFaw?oc=5",
-        "publishedAt": "2026-06-25T06:19:49.000Z"
+        "time": "13:00",
+        "title": "精密遊星減速機産業洞察：市場現状＋発展見通し（2026年版）– 年平均成長率（CAGR）7.70％で成長（2026～2032年）",
+        "source": "ドリームニュース",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaeThGV0NsbmRWSU1UemtWTDRGdTJWYWdHQlNGcmVJdnhCSFI2ZUNlN1VaUE5mb24yLWtKWXFpdWcxMXVpcmpxUlQ5azIzQUZvRVlZ?oc=5",
+        "publishedAt": "2026-06-26T04:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,11 @@
         "publishedAt": "2026-06-26T03:31:43.000Z"
       },
       {
-        "time": "08:51",
-        "title": "ホルムズ海峡 船舶に飛翔体直撃",
+        "time": "13:00",
+        "title": "ホルムズ海峡に飛翔体 船舶へ攻撃",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585689?source=rss",
-        "publishedAt": "2026-06-25T23:51:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585735?source=rss",
+        "publishedAt": "2026-06-26T04:00:16.000Z"
       },
       {
         "time": "06:29",
@@ -105,11 +105,32 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:14",
-        "title": "日経平均 一時2000円超の下げ幅",
+        "time": "12:48",
+        "title": "日経平均 一時3700円超の値下がり",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585706?source=rss",
-        "publishedAt": "2026-06-26T01:14:23.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585740?source=rss",
+        "publishedAt": "2026-06-26T03:48:14.000Z"
+      },
+      {
+        "time": "13:58",
+        "title": "遠のく1500円 最低賃金の重要性",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585738?source=rss",
+        "publishedAt": "2026-06-26T04:58:44.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "iPadなど値上げ Appleの株価下落",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585737?source=rss",
+        "publishedAt": "2026-06-26T04:00:24.000Z"
+      },
+      {
+        "time": "14:29",
+        "title": "SBIHDとフジHD 戦略的提携を検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585748?source=rss",
+        "publishedAt": "2026-06-26T05:29:34.000Z"
       },
       {
         "time": "11:41",
@@ -119,32 +140,11 @@
         "publishedAt": "2026-06-26T02:41:43.000Z"
       },
       {
-        "time": "21:09",
-        "title": "SBIHDとフジHD 資本業務提携へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585657?source=rss",
-        "publishedAt": "2026-06-25T12:09:02.000Z"
-      },
-      {
-        "time": "17:02",
-        "title": "米企業 日産・追浜工場取得を協議",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585629?source=rss",
-        "publishedAt": "2026-06-25T08:02:27.000Z"
-      },
-      {
         "time": "21:55",
         "title": "任天堂29年に技術新拠点 1210億円",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585664?source=rss",
         "publishedAt": "2026-06-25T12:55:01.000Z"
-      },
-      {
-        "time": "14:29",
-        "title": "任天堂と海外大手 課題の違いとは",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585608?source=rss",
-        "publishedAt": "2026-06-25T05:29:27.000Z"
       }
     ],
     "localHeadlines": [
