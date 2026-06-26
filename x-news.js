@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-26T15:02:10.450Z",
+  "updatedAt": "2026-06-26T16:19:11.403Z",
   "items": [
     {
-      "time": "22:39",
-      "title": "山梨県で震度6弱 津波心配なし",
+      "time": "23:57",
+      "title": "台風ピークは2回 雨に終日警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585804?source=rss",
-      "publishedAt": "2026-06-26T13:39:34.000Z",
-      "xQuery": "山梨県で震度6弱 津波心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6585812?source=rss",
+      "publishedAt": "2026-06-26T14:57:13.000Z",
+      "xQuery": "台風ピークは2回 雨に終日警戒を"
     },
     {
-      "time": "22:47",
-      "title": "山梨県で震度6弱 最新情報まとめ",
+      "time": "00:53",
+      "title": "家に土砂流入1人行方不明 山口県",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585805?source=rss",
-      "publishedAt": "2026-06-26T13:47:49.000Z",
-      "xQuery": "山梨県で震度6弱 最新情報まとめ"
+      "url": "https://news.yahoo.co.jp/pickup/6585818?source=rss",
+      "publishedAt": "2026-06-26T15:53:01.000Z",
+      "xQuery": "家に土砂流入1人行方不明 山口県"
     },
     {
-      "time": "23:42",
-      "title": "東海道新幹線 一部で運転見合わせ",
+      "time": "00:36",
+      "title": "地震 識者「斜面崩壊の可能性も」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585810?source=rss",
-      "publishedAt": "2026-06-26T14:42:34.000Z",
-      "xQuery": "東海道新幹線 一部で運転見合わせ"
+      "url": "https://news.yahoo.co.jp/pickup/6585816?source=rss",
+      "publishedAt": "2026-06-26T15:36:31.000Z",
+      "xQuery": "地震 識者「斜面崩壊の可能性も」"
     },
     {
       "time": "23:46",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "富士山の火山活動 特段の変化なし"
     },
     {
-      "time": "23:57",
-      "title": "台風ピークは2回 雨に終日警戒を",
+      "time": "22:18",
+      "title": "妻子失った元警官 純烈と共演叶う",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585812?source=rss",
-      "publishedAt": "2026-06-26T14:57:13.000Z",
-      "xQuery": "台風ピークは2回 雨に終日警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6585799?source=rss",
+      "publishedAt": "2026-06-26T13:18:22.000Z",
+      "xQuery": "妻子失った元警官 純烈と共演叶う"
     }
   ]
 };

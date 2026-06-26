@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T15:02:09.856Z",
+  "updatedAt": "2026-06-26T16:19:10.831Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -18,9 +18,9 @@
       },
       {
         "time": "13:00",
-        "title": "ＳＯＭＰＯリスクマネジメントと設備保全総合研究所が連携協定を締結",
+        "title": "設備保全総合研究所とＳＯＭＰＯリスクマネジメントが連携協定を締結",
         "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54UThialdEbmNnamd0YV9CcUtKbEphUXc1Zl9JaU9ybFkwYkQzZFkweUpabl9vcURYLWJpUHRRNXpCTktPQXoyTml5RmpuSUYyV3hhb2FrUTVpa1Q5Y1N5RE1JX24xM1NQRGc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3cHVQYVpMSXp4ZUdBYks1U09xQWdIQ1E1ZGlCdUxjWUJUQ01OZUF6c25Zb3FyS1h2MFZ4TmhRdVhxSGFJdlE1WHYyUDJ3a0RseTh4alVKMGZoT1JFLWprb19mTnVmLUtuYXc?oc=5",
         "publishedAt": "2026-06-26T04:00:02.000Z"
       },
       {
@@ -29,6 +29,13 @@
         "source": "東洋経済オンライン",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyR2VPS2NibWxkbUZub0lsYThyRWlGYTlwMkRRUVZQX1Q1M2hnM29kWVY1Nm5pQWRZMzdQZFN5cG5JUEJXVTkwWXlrQWNlOHpkX2FfVjZBendWaHM?oc=5",
         "publishedAt": "2026-06-25T22:43:12.000Z"
+      },
+      {
+        "time": "00:56",
+        "title": "新学長に聞く2026（5）山形大学学長・出口毅氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EUVZBbFhWWUtTcFZaRFpsMWJLb1NRTzA5eHA2Uk9aTTV0a3Y1azVkV2dQdWN5bEZuRmFXVEZrY09QT0hGbW5OanNLLWd5NlY3RzctXzJuMWpaa2c?oc=5",
+        "publishedAt": "2026-06-26T15:56:15.000Z"
       },
       {
         "time": "16:58",
@@ -50,13 +57,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TbzZnRnR2dmdHR1NxSWFGWlA2d0Nza0VxNXdFaVV2R3ZzWFd2SDZyc1EtNS1pTW1sRTJaMjZyQU5VSmIxcG94N1UzRFFnbkxIcGlGd2JIM2dRdzZUZWo2VGVtQ2hReTFKZmdJc0k0YTdEa1Blek95aDhGTXZNS3c?oc=5",
         "publishedAt": "2026-06-25T20:00:00.000Z"
-      },
-      {
-        "time": "05:36",
-        "title": "産業TREND／羅針盤 野村総合研究所（190）【AI導入格差】",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zTkc0TnFtYmgxcEcwQzVTTXJRZHo4TmZscldLdjR2OGN0VWNEc1B6NF9SXy1zVXJhSFVzdzAtR1pLSEtXbHpQZjZjLXpaSkdGXy16dUJZamFKLUwtS0FiN1VWdUhFd1dCTURDVlhlc2tlNENh?oc=5",
-        "publishedAt": "2026-06-25T20:36:54.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "23:42",
-        "title": "東海道新幹線 一部で運転見合わせ",
+        "time": "00:44",
+        "title": "全国の鉄道・フライト 最新情報",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585810?source=rss",
-        "publishedAt": "2026-06-26T14:42:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6584504?source=rss",
+        "publishedAt": "2026-06-26T15:44:19.000Z"
       },
       {
         "time": "21:32",
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "01:06",
+        "title": "ドンと下から衝撃 震度6弱の町",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585819?source=rss",
+        "publishedAt": "2026-06-26T16:06:37.000Z"
+      },
+      {
+        "time": "00:53",
+        "title": "家に土砂流入1人行方不明 山口県",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585818?source=rss",
+        "publishedAt": "2026-06-26T15:53:01.000Z"
+      },
+      {
         "time": "21:10",
         "title": "雨で増水した川に転落か 男性死亡",
         "source": "Yahoo!ニュース",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585782?source=rss",
         "publishedAt": "2026-06-26T09:42:12.000Z"
-      },
-      {
-        "time": "22:18",
-        "title": "妻子失った元警官 純烈と共演叶う",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585799?source=rss",
-        "publishedAt": "2026-06-26T13:18:22.000Z"
-      },
-      {
-        "time": "20:24",
-        "title": "「発達障害児支援」詐欺疑い逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585792?source=rss",
-        "publishedAt": "2026-06-26T11:24:35.000Z"
       }
     ],
     "subsidyHeadlines": [
