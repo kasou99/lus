@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-26T02:25:25.656Z",
+  "updatedAt": "2026-06-26T03:49:13.844Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "07:43",
+        "time": "06:20",
         "title": "〈工作機械受注〉 AI､半導体､データセンター向け需要が堅調継続――｢受注残｣は過去最高､納期長期化の懸念も",
         "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyR2VPS2NibWxkbUZub0lsYThyRWlGYTlwMkRRUVZQX1Q1M2hnM29kWVY1Nm5pQWRZMzdQZFN5cG5JUEJXVTkwWXlrQWNlOHpkX2FfVjZBendWaHM?oc=5",
-        "publishedAt": "2026-06-25T22:43:12.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52alI0cUJmcGd3UUtja2Nod3lobDBfbThRb2xoZk5VTlBQSUtkTTZiWWlwWFJoTHgtcXVHc21XUFEzOFM3VjVVOXdBTXdISklCQkE?oc=5",
+        "publishedAt": "2026-06-25T21:20:00.000Z"
       },
       {
         "time": "05:00",
@@ -38,11 +38,11 @@
         "publishedAt": "2026-06-25T20:10:41.000Z"
       },
       {
-        "time": "12:30",
+        "time": "22:00",
         "title": "日本製鉄発のスタートアップＫＡＭＡＭＥＳＨＩ、設備停止リスクの可視化・予防を支援する設備保全サービスを開始",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KU0dlR3QxMFhsdXkwVFlDc2pqQ2U0dnlKMWtyWktUcGhPVGZzY0ZJWTJVUlBwZWxVd2cwWjkwRHFtMGlIZFZiSUd5X0VkVl9sOUJuVkd3YlZKcUQwZUZDMHBzZ1NXZVh2QUE?oc=5",
-        "publishedAt": "2026-06-25T03:30:02.000Z"
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaa0NROVlMbGxBNmxvYUhVeXptVEZ2N2xMZlhpdmlOeTE2M09VRTBDaHU4MkpmaU1EQ204amdsU1RQdjhneEVqTkJBem5aMjVKb2xTMXMzQlpYRjhIUW84MllCX1BnMWxpeTFlU3paWEw5azZqREE?oc=5",
+        "publishedAt": "2026-06-25T13:00:24.000Z"
       },
       {
         "time": "05:00",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "12:31",
+        "title": "米と湾岸諸国 海峡通航料「拒否」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585733?source=rss",
+        "publishedAt": "2026-06-26T03:31:43.000Z"
+      },
+      {
         "time": "08:51",
         "title": "ホルムズ海峡 船舶に飛翔体直撃",
         "source": "Yahoo!ニュース",
@@ -75,6 +82,13 @@
         "publishedAt": "2026-06-25T21:29:51.000Z"
       },
       {
+        "time": "12:11",
+        "title": "元徴用工問題 解決策維持に黄信号",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585732?source=rss",
+        "publishedAt": "2026-06-26T03:11:50.000Z"
+      },
+      {
         "time": "11:05",
         "title": "米大統領 共和党議員と怒鳴り合い",
         "source": "Yahoo!ニュース",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585610?source=rss",
         "publishedAt": "2026-06-25T05:43:34.000Z"
-      },
-      {
-        "time": "16:03",
-        "title": "7/6ハメネイ師国葬 2千万人参列へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585487?source=rss",
-        "publishedAt": "2026-06-24T07:03:26.000Z"
-      },
-      {
-        "time": "16:31",
-        "title": "ストーカー対策アプリ 韓国で開始",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585490?source=rss",
-        "publishedAt": "2026-06-24T07:31:43.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,6 +110,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585706?source=rss",
         "publishedAt": "2026-06-26T01:14:23.000Z"
+      },
+      {
+        "time": "11:41",
+        "title": "ホンダ社長謝罪 4千億円超の赤字",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585724?source=rss",
+        "publishedAt": "2026-06-26T02:41:43.000Z"
       },
       {
         "time": "21:09",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585629?source=rss",
         "publishedAt": "2026-06-25T08:02:27.000Z"
-      },
-      {
-        "time": "09:16",
-        "title": "ホンダ日産 SDV基幹部品共通化へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585563?source=rss",
-        "publishedAt": "2026-06-25T00:16:07.000Z"
       },
       {
         "time": "21:55",

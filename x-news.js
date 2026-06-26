@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-26T02:25:26.478Z",
+  "updatedAt": "2026-06-26T03:49:14.930Z",
   "items": [
     {
-      "time": "10:57",
-      "title": "台風 27日にかけ九州-関東で大雨",
+      "time": "11:43",
+      "title": "台風接近に警戒 西日本中心に大雨",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585718?source=rss",
-      "publishedAt": "2026-06-26T01:57:45.000Z",
-      "xQuery": "台風 27日にかけ九州-関東で大雨"
+      "url": "https://news.yahoo.co.jp/pickup/6585728?source=rss",
+      "publishedAt": "2026-06-26T02:43:54.000Z",
+      "xQuery": "台風接近に警戒 西日本中心に大雨"
     },
     {
-      "time": "09:39",
-      "title": "京都市で民家が浸水 男性を救助",
+      "time": "11:53",
+      "title": "官房長官秘書官を交代へ 更迭か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585704?source=rss",
-      "publishedAt": "2026-06-26T00:39:13.000Z",
-      "xQuery": "京都市で民家が浸水 男性を救助"
+      "url": "https://news.yahoo.co.jp/pickup/6585727?source=rss",
+      "publishedAt": "2026-06-26T02:53:10.000Z",
+      "xQuery": "官房長官秘書官を交代へ 更迭か"
     },
     {
       "time": "10:55",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "空自「航空宇宙自衛隊」に改編へ"
     },
     {
-      "time": "10:14",
-      "title": "日経平均 一時2000円超の下げ幅",
+      "time": "11:41",
+      "title": "ホンダ社長謝罪 4千億円超の赤字",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585706?source=rss",
-      "publishedAt": "2026-06-26T01:14:23.000Z",
-      "xQuery": "日経平均 一時2000円超の下げ幅"
+      "url": "https://news.yahoo.co.jp/pickup/6585724?source=rss",
+      "publishedAt": "2026-06-26T02:41:43.000Z",
+      "xQuery": "ホンダ社長謝罪 4千億円超の赤字"
     },
     {
       "time": "10:26",
