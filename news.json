@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T09:16:47.717Z",
+  "updatedAt": "2026-06-26T10:34:52.355Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -18,31 +18,38 @@
       },
       {
         "time": "13:00",
-        "title": "ＳＯＭＰＯリスクマネジメントと設備保全総合研究所が連携協定を締結",
+        "title": "設備保全総合研究所とＳＯＭＰＯリスクマネジメントが連携協定を締結",
         "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54UThialdEbmNnamd0YV9CcUtKbEphUXc1Zl9JaU9ybFkwYkQzZFkweUpabl9vcURYLWJpUHRRNXpCTktPQXoyTml5RmpuSUYyV3hhb2FrUTVpa1Q5Y1N5RE1JX24xM1NQRGc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3cHVQYVpMSXp4ZUdBYks1U09xQWdIQ1E1ZGlCdUxjWUJUQ01OZUF6c25Zb3FyS1h2MFZ4TmhRdVhxSGFJdlE1WHYyUDJ3a0RseTh4alVKMGZoT1JFLWprb19mTnVmLUtuYXc?oc=5",
         "publishedAt": "2026-06-26T04:00:02.000Z"
       },
       {
-        "time": "06:20",
+        "time": "07:43",
         "title": "〈工作機械受注〉 AI､半導体､データセンター向け需要が堅調継続――｢受注残｣は過去最高､納期長期化の懸念も",
         "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52alI0cUJmcGd3UUtja2Nod3lobDBfbThRb2xoZk5VTlBQSUtkTTZiWWlwWFJoTHgtcXVHc21XUFEzOFM3VjVVOXdBTXdISklCQkE?oc=5",
-        "publishedAt": "2026-06-25T21:20:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyR2VPS2NibWxkbUZub0lsYThyRWlGYTlwMkRRUVZQX1Q1M2hnM29kWVY1Nm5pQWRZMzdQZFN5cG5JUEJXVTkwWXlrQWNlOHpkX2FfVjZBendWaHM?oc=5",
+        "publishedAt": "2026-06-25T22:43:12.000Z"
+      },
+      {
+        "time": "16:58",
+        "title": "ＳＯＭＰＯリスクと設備保全総合研究所が手を組み、設備管理の新時代を切り拓く",
+        "source": "ニュースメディアVOIX",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96WV9KSS03emJPLXl2RndDZUpxSmVmUklXSF8zREJXM2hQeklwVWxmZ1A2Um5URVVnTDdYYWl5aHhIcUtQYi1JckhvV0JIa1FXRFpDZXYzTVpTajNVakZUS2ZxN2pjTThPbldIRXNaYlA1bFV1czJuSWJxN05qRVk?oc=5",
+        "publishedAt": "2026-06-26T07:58:51.000Z"
+      },
+      {
+        "time": "07:00",
+        "title": "Webブラウザ機能でPCレス化へ、三菱電機は新表示器GOT3000で何をつなげるか：FAインタビュー（1/2 ページ）",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OOXE5Q2UtNU93VXBCNk1HRmhYMHJmVEVpUzJrcU93Z2dvUVlvMzdKNVNlR216d1V0WGhGUG1kR3djd0dvQWdhRlR4OWl5LWVRai1QYXdJdWQ3OV8wZHJQODlBRnpnVlBPUmRIRmhjOA?oc=5",
+        "publishedAt": "2026-06-25T22:00:00.000Z"
       },
       {
         "time": "05:10",
-        "title": "日工会、５月受注は37％増 - chukei-news.co.jp",
-        "source": "chukei-news.co.jp",
+        "title": "日工会、５月受注は37％増",
+        "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOS2lEbTZGOWY4ZVNsLUUzRzRNc3FpMklfYmpKNXhVRXUzLWxYWEVZMFRCQkwwbjNNTmRHRzVVdGU4MDJxNlpWaTFNSXdRVXl1am9hT0ZvY2c0TEx3U3VHNmhfdTJzZXd1b0xBOFl2U3RUSnM?oc=5",
         "publishedAt": "2026-06-25T20:10:41.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "車向け工作機械、5月受注は95%増 HV･PHV投資が好調",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TbzZnRnR2dmdHR1NxSWFGWlA2d0Nza0VxNXdFaVV2R3ZzWFd2SDZyc1EtNS1pTW1sRTJaMjZyQU5VSmIxcG94N1UzRFFnbkxIcGlGd2JIM2dRdzZUZWo2VGVtQ2hReTFKZmdJc0k0YTdEa1Blek95aDhGTXZNS3c?oc=5",
-        "publishedAt": "2026-06-25T20:00:00.000Z"
       },
       {
         "time": "08:14",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEdC1DV0JGcW8zWFdQY2tXblRFd2RTUEp3cnh5c1RuMFl3TVUzYXduUTRnU3VfY2lLM0xhSm9iVmM0ZVdXRnBscmpwTlFyTi1waS1PZ251T0pSLUxPZnFkWVNKdXdKQzRMTHp3Sk9vdk8ySVVrQUstUERMQQ?oc=5",
         "publishedAt": "2026-06-25T23:14:16.000Z"
-      },
-      {
-        "time": "13:15",
-        "title": "アネスト岩田、「モノづくりを創る」新たな生産技術拠点Manufacturing Innovation Center【MIC】を横浜に開設",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Zc3dCWFFqNklxS2dHbmlSb1RBTG5XOE0tVWtKSnBLRGxQRFJoSXp1aFVtb0lpMDFvajhIOHppS0ZjRmFwVU5WS1RJeVNoeEJpV1ozRGdjeXZPZkNFeDFQcjlnRHAxMVRTWkREY3pCWnpYY1p2azVqNFFkWQ?oc=5",
-        "publishedAt": "2026-06-26T04:15:32.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,32 @@
     ],
     "localHeadlines": [
       {
+        "time": "18:37",
+        "title": "地震続く関東・東北 土砂災害注意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585781?source=rss",
+        "publishedAt": "2026-06-26T09:37:01.000Z"
+      },
+      {
         "time": "09:39",
         "title": "京都市で民家が浸水 男性を救助",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585704?source=rss",
         "publishedAt": "2026-06-26T00:39:13.000Z"
+      },
+      {
+        "time": "18:39",
+        "title": "雨漏り修理で屋根から転落か 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585780?source=rss",
+        "publishedAt": "2026-06-26T09:39:47.000Z"
+      },
+      {
+        "time": "18:42",
+        "title": "金沢大が教授解雇 1週間で2人目",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585782?source=rss",
+        "publishedAt": "2026-06-26T09:42:12.000Z"
       },
       {
         "time": "08:20",
@@ -163,32 +184,11 @@
         "publishedAt": "2026-06-25T23:20:22.000Z"
       },
       {
-        "time": "17:23",
-        "title": "姫路刺傷 殺人未遂疑いで6人逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585765?source=rss",
-        "publishedAt": "2026-06-26T08:23:57.000Z"
-      },
-      {
-        "time": "17:04",
-        "title": "銃弾か 走行中の軽トラ荷台に穴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585763?source=rss",
-        "publishedAt": "2026-06-26T08:04:59.000Z"
-      },
-      {
         "time": "06:16",
         "title": "毒物カレー事件 林死刑囚の夫死去",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585676?source=rss",
         "publishedAt": "2026-06-25T21:16:36.000Z"
-      },
-      {
-        "time": "18:04",
-        "title": "大学生を集団暴行の疑い 6人逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585775?source=rss",
-        "publishedAt": "2026-06-26T09:04:31.000Z"
       }
     ],
     "subsidyHeadlines": [

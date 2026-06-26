@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-26T09:16:48.241Z",
+  "updatedAt": "2026-06-26T10:34:52.787Z",
   "items": [
     {
       "time": "18:11",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "関東-九州で災害級の大雨に警戒を"
     },
     {
-      "time": "16:12",
-      "title": "JR東あす一部の特急や在来線運休",
+      "time": "18:37",
+      "title": "地震続く関東・東北 土砂災害注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585754?source=rss",
-      "publishedAt": "2026-06-26T07:12:27.000Z",
-      "xQuery": "JR東あす一部の特急や在来線運休"
+      "url": "https://news.yahoo.co.jp/pickup/6585781?source=rss",
+      "publishedAt": "2026-06-26T09:37:01.000Z",
+      "xQuery": "地震続く関東・東北 土砂災害注意"
+    },
+    {
+      "time": "18:39",
+      "title": "雨漏り修理で屋根から転落か 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585780?source=rss",
+      "publishedAt": "2026-06-26T09:39:47.000Z",
+      "xQuery": "雨漏り修理で屋根から転落か 死亡"
     },
     {
       "time": "18:04",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大学生を集団暴行の疑い 6人逮捕"
     },
     {
-      "time": "17:04",
-      "title": "銃弾か 走行中の軽トラ荷台に穴",
+      "time": "17:40",
+      "title": "欧州熱波 スペインで200人超死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585763?source=rss",
-      "publishedAt": "2026-06-26T08:04:59.000Z",
-      "xQuery": "銃弾か 走行中の軽トラ荷台に穴"
-    },
-    {
-      "time": "17:31",
-      "title": "ゴディバジャパン不振 今夏再建へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585770?source=rss",
-      "publishedAt": "2026-06-26T08:31:57.000Z",
-      "xQuery": "ゴディバジャパン不振 今夏再建へ"
+      "url": "https://news.yahoo.co.jp/pickup/6585767?source=rss",
+      "publishedAt": "2026-06-26T08:40:25.000Z",
+      "xQuery": "欧州熱波 スペインで200人超死亡"
     }
   ]
 };
