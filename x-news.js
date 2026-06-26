@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-26T16:19:11.403Z",
+  "updatedAt": "2026-06-26T17:10:44.893Z",
   "items": [
     {
       "time": "23:57",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585812?source=rss",
       "publishedAt": "2026-06-26T14:57:13.000Z",
       "xQuery": "台風ピークは2回 雨に終日警戒を"
+    },
+    {
+      "time": "01:28",
+      "title": "地震で土砂災害恐れ 今後の雨注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585821?source=rss",
+      "publishedAt": "2026-06-26T16:28:54.000Z",
+      "xQuery": "地震で土砂災害恐れ 今後の雨注意"
     },
     {
       "time": "00:53",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585811?source=rss",
       "publishedAt": "2026-06-26T14:46:07.000Z",
       "xQuery": "富士山の火山活動 特段の変化なし"
-    },
-    {
-      "time": "22:18",
-      "title": "妻子失った元警官 純烈と共演叶う",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585799?source=rss",
-      "publishedAt": "2026-06-26T13:18:22.000Z",
-      "xQuery": "妻子失った元警官 純烈と共演叶う"
     }
   ]
 };
