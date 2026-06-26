@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-26T10:34:52.787Z",
+  "updatedAt": "2026-06-26T11:55:11.028Z",
   "items": [
     {
-      "time": "18:11",
-      "title": "関東-九州で災害級の大雨に警戒を",
+      "time": "20:14",
+      "title": "大雨ピークは2回 災害に厳重警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585779?source=rss",
-      "publishedAt": "2026-06-26T09:11:45.000Z",
-      "xQuery": "関東-九州で災害級の大雨に警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6585791?source=rss",
+      "publishedAt": "2026-06-26T11:14:50.000Z",
+      "xQuery": "大雨ピークは2回 災害に厳重警戒"
     },
     {
-      "time": "18:37",
-      "title": "地震続く関東・東北 土砂災害注意",
+      "time": "17:39",
+      "title": "国旗損壊罪 愛国心醸成と維新議員",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585781?source=rss",
-      "publishedAt": "2026-06-26T09:37:01.000Z",
-      "xQuery": "地震続く関東・東北 土砂災害注意"
+      "url": "https://news.yahoo.co.jp/pickup/6585773?source=rss",
+      "publishedAt": "2026-06-26T08:39:56.000Z",
+      "xQuery": "国旗損壊罪 愛国心醸成と維新議員"
     },
     {
-      "time": "18:39",
-      "title": "雨漏り修理で屋根から転落か 死亡",
+      "time": "19:52",
+      "title": "家庭用エアコン フロン回収強化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585780?source=rss",
-      "publishedAt": "2026-06-26T09:39:47.000Z",
-      "xQuery": "雨漏り修理で屋根から転落か 死亡"
-    },
-    {
-      "time": "18:04",
-      "title": "大学生を集団暴行の疑い 6人逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585775?source=rss",
-      "publishedAt": "2026-06-26T09:04:31.000Z",
-      "xQuery": "大学生を集団暴行の疑い 6人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6585788?source=rss",
+      "publishedAt": "2026-06-26T10:52:08.000Z",
+      "xQuery": "家庭用エアコン フロン回収強化へ"
     },
     {
       "time": "17:40",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585767?source=rss",
       "publishedAt": "2026-06-26T08:40:25.000Z",
       "xQuery": "欧州熱波 スペインで200人超死亡"
+    },
+    {
+      "time": "18:04",
+      "title": "大学生を集団暴行の疑い 6人逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585775?source=rss",
+      "publishedAt": "2026-06-26T09:04:31.000Z",
+      "xQuery": "大学生を集団暴行の疑い 6人逮捕"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T10:34:52.355Z",
+  "updatedAt": "2026-06-26T11:55:10.048Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -18,9 +18,9 @@
       },
       {
         "time": "13:00",
-        "title": "設備保全総合研究所とＳＯＭＰＯリスクマネジメントが連携協定を締結",
+        "title": "ＳＯＭＰＯリスクマネジメントと設備保全総合研究所が連携協定を締結",
         "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3cHVQYVpMSXp4ZUdBYks1U09xQWdIQ1E1ZGlCdUxjWUJUQ01OZUF6c25Zb3FyS1h2MFZ4TmhRdVhxSGFJdlE1WHYyUDJ3a0RseTh4alVKMGZoT1JFLWprb19mTnVmLUtuYXc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54UThialdEbmNnamd0YV9CcUtKbEphUXc1Zl9JaU9ybFkwYkQzZFkweUpabl9vcURYLWJpUHRRNXpCTktPQXoyTml5RmpuSUYyV3hhb2FrUTVpa1Q5Y1N5RE1JX24xM1NQRGc?oc=5",
         "publishedAt": "2026-06-26T04:00:02.000Z"
       },
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-06-26T07:58:51.000Z"
       },
       {
-        "time": "07:00",
-        "title": "Webブラウザ機能でPCレス化へ、三菱電機は新表示器GOT3000で何をつなげるか：FAインタビュー（1/2 ページ）",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OOXE5Q2UtNU93VXBCNk1HRmhYMHJmVEVpUzJrcU93Z2dvUVlvMzdKNVNlR216d1V0WGhGUG1kR3djd0dvQWdhRlR4OWl5LWVRai1QYXdJdWQ3OV8wZHJQODlBRnpnVlBPUmRIRmhjOA?oc=5",
-        "publishedAt": "2026-06-25T22:00:00.000Z"
-      },
-      {
         "time": "05:10",
         "title": "日工会、５月受注は37％増",
         "source": "中部経済新聞",
@@ -57,6 +50,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEdC1DV0JGcW8zWFdQY2tXblRFd2RTUEp3cnh5c1RuMFl3TVUzYXduUTRnU3VfY2lLM0xhSm9iVmM0ZVdXRnBscmpwTlFyTi1waS1PZ251T0pSLUxPZnFkWVNKdXdKQzRMTHp3Sk9vdk8ySVVrQUstUERMQQ?oc=5",
         "publishedAt": "2026-06-25T23:14:16.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "車向け工作機械、5月受注は95%増 HV･PHV投資が好調",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TbzZnRnR2dmdHR1NxSWFGWlA2d0Nza0VxNXdFaVV2R3ZzWFd2SDZyc1EtNS1pTW1sRTJaMjZyQU5VSmIxcG94N1UzRFFnbkxIcGlGd2JIM2dRdzZUZWo2VGVtQ2hReTFKZmdJc0k0YTdEa1Blek95aDhGTXZNS3c?oc=5",
+        "publishedAt": "2026-06-25T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-06-26T03:11:50.000Z"
       },
       {
-        "time": "14:43",
-        "title": "量子技術巡り大統領令 米国の狙い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585610?source=rss",
-        "publishedAt": "2026-06-25T05:43:34.000Z"
-      },
-      {
         "time": "17:40",
         "title": "欧州熱波 スペインで200人超死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585767?source=rss",
         "publishedAt": "2026-06-26T08:40:25.000Z"
+      },
+      {
+        "time": "22:31",
+        "title": "メキシコ W杯の群衆に車突っ込む",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585671?source=rss",
+        "publishedAt": "2026-06-25T13:31:52.000Z"
       }
     ],
     "economyHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-26T09:42:12.000Z"
       },
       {
-        "time": "08:20",
-        "title": "村上虹郎さん 傷害疑いで書類送検",
+        "time": "20:17",
+        "title": "米軍基地事故で脚切断 国を提訴",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585687?source=rss",
-        "publishedAt": "2026-06-25T23:20:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585790?source=rss",
+        "publishedAt": "2026-06-26T11:17:02.000Z"
       },
       {
-        "time": "06:16",
-        "title": "毒物カレー事件 林死刑囚の夫死去",
+        "time": "20:24",
+        "title": "「発達障害児支援」詐欺疑い逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585676?source=rss",
-        "publishedAt": "2026-06-25T21:16:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585792?source=rss",
+        "publishedAt": "2026-06-26T11:24:35.000Z"
       }
     ],
     "subsidyHeadlines": [
