@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T11:55:10.048Z",
+  "updatedAt": "2026-06-26T12:55:00.750Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -18,9 +18,9 @@
       },
       {
         "time": "13:00",
-        "title": "ＳＯＭＰＯリスクマネジメントと設備保全総合研究所が連携協定を締結",
+        "title": "設備保全総合研究所とＳＯＭＰＯリスクマネジメントが連携協定を締結",
         "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54UThialdEbmNnamd0YV9CcUtKbEphUXc1Zl9JaU9ybFkwYkQzZFkweUpabl9vcURYLWJpUHRRNXpCTktPQXoyTml5RmpuSUYyV3hhb2FrUTVpa1Q5Y1N5RE1JX24xM1NQRGc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3cHVQYVpMSXp4ZUdBYks1U09xQWdIQ1E1ZGlCdUxjWUJUQ01OZUF6c25Zb3FyS1h2MFZ4TmhRdVhxSGFJdlE1WHYyUDJ3a0RseTh4alVKMGZoT1JFLWprb19mTnVmLUtuYXc?oc=5",
         "publishedAt": "2026-06-26T04:00:02.000Z"
       },
       {
@@ -105,32 +105,18 @@
     ],
     "economyHeadlines": [
       {
-        "time": "16:11",
-        "title": "東証終値3005円安 下げ幅史上3位",
+        "time": "20:55",
+        "title": "ダブル台風 交通機関への影響は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585755?source=rss",
-        "publishedAt": "2026-06-26T07:11:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585794?source=rss",
+        "publishedAt": "2026-06-26T11:55:41.000Z"
       },
       {
-        "time": "16:12",
-        "title": "JR東あす一部の特急や在来線運休",
+        "time": "21:32",
+        "title": "防衛ドローン 川重とエアバス提携",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585754?source=rss",
-        "publishedAt": "2026-06-26T07:12:27.000Z"
-      },
-      {
-        "time": "16:07",
-        "title": "ゴーン氏 ‌復帰求める声に言及",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585756?source=rss",
-        "publishedAt": "2026-06-26T07:07:46.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "iPadなど値上げ Appleの株価下落",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585737?source=rss",
-        "publishedAt": "2026-06-26T04:00:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585798?source=rss",
+        "publishedAt": "2026-06-26T12:32:47.000Z"
       },
       {
         "time": "17:48",
@@ -140,27 +126,34 @@
         "publishedAt": "2026-06-26T08:48:28.000Z"
       },
       {
+        "time": "16:07",
+        "title": "ゴーン氏 ‌復帰求める声に言及",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585756?source=rss",
+        "publishedAt": "2026-06-26T07:07:46.000Z"
+      },
+      {
         "time": "11:41",
         "title": "ホンダ社長謝罪 4千億円超の赤字",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585724?source=rss",
         "publishedAt": "2026-06-26T02:41:43.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "iPadなど値上げ Appleの株価下落",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585737?source=rss",
+        "publishedAt": "2026-06-26T04:00:24.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "18:37",
-        "title": "地震続く関東・東北 土砂災害注意",
+        "time": "21:10",
+        "title": "雨で増水した川に転落か 男性死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585781?source=rss",
-        "publishedAt": "2026-06-26T09:37:01.000Z"
-      },
-      {
-        "time": "09:39",
-        "title": "京都市で民家が浸水 男性を救助",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585704?source=rss",
-        "publishedAt": "2026-06-26T00:39:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585797?source=rss",
+        "publishedAt": "2026-06-26T12:10:45.000Z"
       },
       {
         "time": "18:39",
@@ -168,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585780?source=rss",
         "publishedAt": "2026-06-26T09:39:47.000Z"
+      },
+      {
+        "time": "09:39",
+        "title": "京都市で民家が浸水 男性を救助",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585704?source=rss",
+        "publishedAt": "2026-06-26T00:39:13.000Z"
       },
       {
         "time": "18:42",

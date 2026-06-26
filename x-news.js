@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-26T11:55:11.028Z",
+  "updatedAt": "2026-06-26T12:55:01.556Z",
   "items": [
     {
       "time": "20:14",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "大雨ピークは2回 災害に厳重警戒"
     },
     {
-      "time": "17:39",
-      "title": "国旗損壊罪 愛国心醸成と維新議員",
+      "time": "20:55",
+      "title": "ダブル台風 交通機関への影響は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585773?source=rss",
-      "publishedAt": "2026-06-26T08:39:56.000Z",
-      "xQuery": "国旗損壊罪 愛国心醸成と維新議員"
+      "url": "https://news.yahoo.co.jp/pickup/6585794?source=rss",
+      "publishedAt": "2026-06-26T11:55:41.000Z",
+      "xQuery": "ダブル台風 交通機関への影響は"
     },
     {
-      "time": "19:52",
-      "title": "家庭用エアコン フロン回収強化へ",
+      "time": "21:10",
+      "title": "雨で増水した川に転落か 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585788?source=rss",
-      "publishedAt": "2026-06-26T10:52:08.000Z",
-      "xQuery": "家庭用エアコン フロン回収強化へ"
+      "url": "https://news.yahoo.co.jp/pickup/6585797?source=rss",
+      "publishedAt": "2026-06-26T12:10:45.000Z",
+      "xQuery": "雨で増水した川に転落か 男性死亡"
     },
     {
-      "time": "17:40",
-      "title": "欧州熱波 スペインで200人超死亡",
+      "time": "20:17",
+      "title": "米軍基地事故で脚切断 国を提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585767?source=rss",
-      "publishedAt": "2026-06-26T08:40:25.000Z",
-      "xQuery": "欧州熱波 スペインで200人超死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6585790?source=rss",
+      "publishedAt": "2026-06-26T11:17:02.000Z",
+      "xQuery": "米軍基地事故で脚切断 国を提訴"
     },
     {
-      "time": "18:04",
-      "title": "大学生を集団暴行の疑い 6人逮捕",
+      "time": "20:39",
+      "title": "米テキサスでキリンが行方不明に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585775?source=rss",
-      "publishedAt": "2026-06-26T09:04:31.000Z",
-      "xQuery": "大学生を集団暴行の疑い 6人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6585793?source=rss",
+      "publishedAt": "2026-06-26T11:39:53.000Z",
+      "xQuery": "米テキサスでキリンが行方不明に"
     }
   ]
 };
