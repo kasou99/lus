@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-26T12:55:01.556Z",
+  "updatedAt": "2026-06-26T13:47:23.035Z",
   "items": [
+    {
+      "time": "22:39",
+      "title": "山梨県で震度6弱 津波心配なし",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585804?source=rss",
+      "publishedAt": "2026-06-26T13:39:34.000Z",
+      "xQuery": "山梨県で震度6弱 津波心配なし"
+    },
+    {
+      "time": "22:32",
+      "title": "安全確保を 地震発生時のNG行動",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585553?source=rss",
+      "publishedAt": "2026-06-26T13:32:46.000Z",
+      "xQuery": "安全確保を 地震発生時のNG行動"
+    },
     {
       "time": "20:14",
       "title": "大雨ピークは2回 災害に厳重警戒",
@@ -8,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585791?source=rss",
       "publishedAt": "2026-06-26T11:14:50.000Z",
       "xQuery": "大雨ピークは2回 災害に厳重警戒"
-    },
-    {
-      "time": "20:55",
-      "title": "ダブル台風 交通機関への影響は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585794?source=rss",
-      "publishedAt": "2026-06-26T11:55:41.000Z",
-      "xQuery": "ダブル台風 交通機関への影響は"
     },
     {
       "time": "21:10",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "雨で増水した川に転落か 男性死亡"
     },
     {
-      "time": "20:17",
-      "title": "米軍基地事故で脚切断 国を提訴",
+      "time": "22:15",
+      "title": "ベネズエラ 安否不明登録4万人超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585790?source=rss",
-      "publishedAt": "2026-06-26T11:17:02.000Z",
-      "xQuery": "米軍基地事故で脚切断 国を提訴"
-    },
-    {
-      "time": "20:39",
-      "title": "米テキサスでキリンが行方不明に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585793?source=rss",
-      "publishedAt": "2026-06-26T11:39:53.000Z",
-      "xQuery": "米テキサスでキリンが行方不明に"
+      "url": "https://news.yahoo.co.jp/pickup/6585801?source=rss",
+      "publishedAt": "2026-06-26T13:15:14.000Z",
+      "xQuery": "ベネズエラ 安否不明登録4万人超"
     }
   ]
 };
