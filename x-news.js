@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-27T11:07:22.300Z",
+  "updatedAt": "2026-06-27T11:59:45.808Z",
   "items": [
+    {
+      "time": "17:45",
+      "title": "イラン 米の空爆は覚書違反と非難",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585900?source=rss",
+      "publishedAt": "2026-06-27T08:45:15.000Z",
+      "xQuery": "イラン 米の空爆は覚書違反と非難"
+    },
     {
       "time": "19:37",
       "title": "政府「骨太方針」で日銀けん制へ",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "政府「骨太方針」で日銀けん制へ"
     },
     {
-      "time": "18:27",
-      "title": "異例のダブル台風 列島各地で被害",
+      "time": "19:22",
+      "title": "北京ビルに小型機 1人死亡と当局",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585903?source=rss",
-      "publishedAt": "2026-06-27T09:27:42.000Z",
-      "xQuery": "異例のダブル台風 列島各地で被害"
+      "url": "https://news.yahoo.co.jp/pickup/6585912?source=rss",
+      "publishedAt": "2026-06-27T10:22:52.000Z",
+      "xQuery": "北京ビルに小型機 1人死亡と当局"
     },
     {
-      "time": "18:38",
-      "title": "土砂崩れで不明の男性発見 死亡",
+      "time": "20:28",
+      "title": "台風で増水か 川で溺れた2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585904?source=rss",
-      "publishedAt": "2026-06-27T09:38:38.000Z",
-      "xQuery": "土砂崩れで不明の男性発見 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6585921?source=rss",
+      "publishedAt": "2026-06-27T11:28:16.000Z",
+      "xQuery": "台風で増水か 川で溺れた2人死亡"
     },
     {
-      "time": "18:48",
-      "title": "「多目的トイレ」誤解 障害者切実",
+      "time": "20:15",
+      "title": "「ドーン」地面陥没 福岡の住宅街",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585907?source=rss",
-      "publishedAt": "2026-06-27T09:48:39.000Z",
-      "xQuery": "「多目的トイレ」誤解 障害者切実"
-    },
-    {
-      "time": "18:55",
-      "title": "橋完成 市長がバンジージャンプ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585906?source=rss",
-      "publishedAt": "2026-06-27T09:55:10.000Z",
-      "xQuery": "橋完成 市長がバンジージャンプ"
+      "url": "https://news.yahoo.co.jp/pickup/6585919?source=rss",
+      "publishedAt": "2026-06-27T11:15:51.000Z",
+      "xQuery": "「ドーン」地面陥没 福岡の住宅街"
     }
   ]
 };
