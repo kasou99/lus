@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T11:59:44.729Z",
+  "updatedAt": "2026-06-27T12:42:21.107Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,20 @@
         "publishedAt": "2026-06-27T08:18:05.000Z"
       },
       {
+        "time": "18:04",
+        "title": "(株)ヤマザキ【6147】：株価・株式情報（夜間PTS含む）",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91SDlfVDdiZGgyRHZXUENrNXh3a0EzTGRJWDBfXzBPdUFyOHA2clVMbzY2R1VxM3d1R0lvY3lXN2s5RVJzQzd2WHp6LVpwQkp2UUE?oc=5",
+        "publishedAt": "2026-06-27T09:04:31.000Z"
+      },
+      {
+        "time": "17:45",
+        "title": "来週の焦点：日銀短観と米雇用統計、AI調整局面の行方とUSMCA期限",
+        "source": "finance.biggo.jp",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80TGpfeHZaT2pkN3JEWmlHSjE2UVl6clFEUGd5RU9hd25YaEtDMFBWRk96YkVONkVBUXJOYnRodS1qVWZFandKc24yTk4yMmtzb2ZxMm1jU0lmbUdfSXdja3hsVHJuSVJjMTBrY1dzZUxVT0F1?oc=5",
+        "publishedAt": "2026-06-27T08:45:00.000Z"
+      },
+      {
         "time": "04:40",
         "title": "新学長に聞く2026（5）山形大学学長・出口毅氏",
         "source": "日刊工業新聞",
@@ -43,20 +57,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0ZhLS10aEtnLUd5UHZmLUZSZXBpdTdtRFpXa2ZhZEtUMWRGRmxYRnkzamhKY1U5R3UyWjR1N180R2ZhOXAtMlZKM3o0RWZJdDFValR2SXA0eGthWlgtSWJQT3pSWHlqd3BNRGZLSk9tb3M5bWt6OG1wRkQwa1ZQSlB3cXBZSFp3S0FYSDdNaFJsdk9tLUdlSjBSMFJvYk96cDdCMU00bDQ?oc=5",
         "publishedAt": "2026-06-26T13:57:46.000Z"
-      },
-      {
-        "time": "18:04",
-        "title": "(株)ヤマザキ【6147】：株価・株式情報（夜間PTS含む）",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91SDlfVDdiZGgyRHZXUENrNXh3a0EzTGRJWDBfXzBPdUFyOHA2clVMbzY2R1VxM3d1R0lvY3lXN2s5RVJzQzd2WHp6LVpwQkp2UUE?oc=5",
-        "publishedAt": "2026-06-27T09:04:31.000Z"
-      },
-      {
-        "time": "17:45",
-        "title": "来週の焦点：日銀短観と米雇用統計、AI調整局面の行方とUSMCA期限",
-        "source": "finance.biggo.jp",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80TGpfeHZaT2pkN3JEWmlHSjE2UVl6clFEUGd5RU9hd25YaEtDMFBWRk96YkVONkVBUXJOYnRodS1qVWZFandKc24yTk4yMmtzb2ZxMm1jU0lmbUdfSXdja3hsVHJuSVJjMTBrY1dzZUxVT0F1?oc=5",
-        "publishedAt": "2026-06-27T08:45:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,18 +75,18 @@
         "publishedAt": "2026-06-27T01:24:06.000Z"
       },
       {
-        "time": "08:17",
-        "title": "米軍がイラン施設爆撃 反撃と主張",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585830?source=rss",
-        "publishedAt": "2026-06-26T23:17:17.000Z"
-      },
-      {
         "time": "07:47",
         "title": "イスラエルとレバノン 枠組み合意",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585826?source=rss",
         "publishedAt": "2026-06-26T22:47:01.000Z"
+      },
+      {
+        "time": "21:09",
+        "title": "中露の軍 日本海など戦略合同飛行",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585925?source=rss",
+        "publishedAt": "2026-06-27T12:09:51.000Z"
       },
       {
         "time": "19:22",
@@ -149,18 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "20:28",
-        "title": "台風で増水か 川で溺れた2人死亡",
+        "time": "21:24",
+        "title": "無音の110番通報 川で溺れ2人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585921?source=rss",
-        "publishedAt": "2026-06-27T11:28:16.000Z"
-      },
-      {
-        "time": "18:38",
-        "title": "土砂崩れで不明の男性発見 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585904?source=rss",
-        "publishedAt": "2026-06-27T09:38:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585928?source=rss",
+        "publishedAt": "2026-06-27T12:24:06.000Z"
       },
       {
         "time": "20:15",
@@ -168,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585919?source=rss",
         "publishedAt": "2026-06-27T11:15:51.000Z"
+      },
+      {
+        "time": "21:01",
+        "title": "1票差の当選が無効 町長が提訴へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585924?source=rss",
+        "publishedAt": "2026-06-27T12:01:39.000Z"
       },
       {
         "time": "17:03",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-27T07:55:37.000Z"
       },
       {
-        "time": "18:55",
-        "title": "橋完成 市長がバンジージャンプ",
+        "time": "21:11",
+        "title": "川に車転落 流されそうな2歳救助",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585906?source=rss",
-        "publishedAt": "2026-06-27T09:55:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585926?source=rss",
+        "publishedAt": "2026-06-27T12:11:53.000Z"
       }
     ],
     "subsidyHeadlines": [

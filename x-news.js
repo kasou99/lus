@@ -1,21 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-27T11:59:45.808Z",
+  "updatedAt": "2026-06-27T12:42:22.286Z",
   "items": [
     {
-      "time": "17:45",
-      "title": "イラン 米の空爆は覚書違反と非難",
+      "time": "21:16",
+      "title": "台風接近で記録的雨 土砂崩れ警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585900?source=rss",
-      "publishedAt": "2026-06-27T08:45:15.000Z",
-      "xQuery": "イラン 米の空爆は覚書違反と非難"
+      "url": "https://news.yahoo.co.jp/pickup/6585927?source=rss",
+      "publishedAt": "2026-06-27T12:16:11.000Z",
+      "xQuery": "台風接近で記録的雨 土砂崩れ警戒"
     },
     {
-      "time": "19:37",
-      "title": "政府「骨太方針」で日銀けん制へ",
+      "time": "21:09",
+      "title": "中露の軍 日本海など戦略合同飛行",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585913?source=rss",
-      "publishedAt": "2026-06-27T10:37:01.000Z",
-      "xQuery": "政府「骨太方針」で日銀けん制へ"
+      "url": "https://news.yahoo.co.jp/pickup/6585925?source=rss",
+      "publishedAt": "2026-06-27T12:09:51.000Z",
+      "xQuery": "中露の軍 日本海など戦略合同飛行"
+    },
+    {
+      "time": "21:24",
+      "title": "無音の110番通報 川で溺れ2人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585928?source=rss",
+      "publishedAt": "2026-06-27T12:24:06.000Z",
+      "xQuery": "無音の110番通報 川で溺れ2人死亡"
+    },
+    {
+      "time": "21:11",
+      "title": "川に車転落 流されそうな2歳救助",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585926?source=rss",
+      "publishedAt": "2026-06-27T12:11:53.000Z",
+      "xQuery": "川に車転落 流されそうな2歳救助"
     },
     {
       "time": "19:22",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585912?source=rss",
       "publishedAt": "2026-06-27T10:22:52.000Z",
       "xQuery": "北京ビルに小型機 1人死亡と当局"
-    },
-    {
-      "time": "20:28",
-      "title": "台風で増水か 川で溺れた2人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585921?source=rss",
-      "publishedAt": "2026-06-27T11:28:16.000Z",
-      "xQuery": "台風で増水か 川で溺れた2人死亡"
-    },
-    {
-      "time": "20:15",
-      "title": "「ドーン」地面陥没 福岡の住宅街",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585919?source=rss",
-      "publishedAt": "2026-06-27T11:15:51.000Z",
-      "xQuery": "「ドーン」地面陥没 福岡の住宅街"
     }
   ]
 };
