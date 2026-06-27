@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T23:29:28.390Z",
+  "updatedAt": "2026-06-27T23:56:39.173Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "07:08",
-        "title": "ベネズエラ地震 死者1400人超",
+        "time": "08:51",
+        "title": "米軍 イランの複数標的を空爆",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585942?source=rss",
-        "publishedAt": "2026-06-27T22:08:08.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585957?source=rss",
+        "publishedAt": "2026-06-27T23:51:17.000Z"
       },
       {
         "time": "17:45",
@@ -82,11 +82,11 @@
         "publishedAt": "2026-06-27T01:24:06.000Z"
       },
       {
-        "time": "07:47",
-        "title": "イスラエルとレバノン 枠組み合意",
+        "time": "07:08",
+        "title": "ベネズエラ地震 死者1400人超",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585826?source=rss",
-        "publishedAt": "2026-06-26T22:47:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585942?source=rss",
+        "publishedAt": "2026-06-27T22:08:08.000Z"
       },
       {
         "time": "05:55",

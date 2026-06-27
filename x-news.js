@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-27T23:29:29.246Z",
+  "updatedAt": "2026-06-27T23:56:40.156Z",
   "items": [
     {
-      "time": "07:08",
-      "title": "ベネズエラ地震 死者1400人超",
+      "time": "08:51",
+      "title": "米軍 イランの複数標的を空爆",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585942?source=rss",
-      "publishedAt": "2026-06-27T22:08:08.000Z",
-      "xQuery": "ベネズエラ地震 死者1400人超"
+      "url": "https://news.yahoo.co.jp/pickup/6585957?source=rss",
+      "publishedAt": "2026-06-27T23:51:17.000Z",
+      "xQuery": "米軍 イランの複数標的を空爆"
     },
     {
-      "time": "05:30",
-      "title": "青森・岩手で震度5弱 津波なし",
+      "time": "08:47",
+      "title": "関東 少しの雨でも土砂災害に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585939?source=rss",
-      "publishedAt": "2026-06-27T20:30:59.000Z",
-      "xQuery": "青森・岩手で震度5弱 津波なし"
-    },
-    {
-      "time": "05:55",
-      "title": "中露爆撃機が日本周辺を共同飛行",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585941?source=rss",
-      "publishedAt": "2026-06-27T20:55:28.000Z",
-      "xQuery": "中露爆撃機が日本周辺を共同飛行"
+      "url": "https://news.yahoo.co.jp/pickup/6585955?source=rss",
+      "publishedAt": "2026-06-27T23:47:16.000Z",
+      "xQuery": "関東 少しの雨でも土砂災害に注意"
     },
     {
       "time": "08:03",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585947?source=rss",
       "publishedAt": "2026-06-27T22:55:52.000Z",
       "xQuery": "車横転2人死亡 運転の高校生逮捕"
+    },
+    {
+      "time": "08:17",
+      "title": "床に食べ物「3秒ルール」真実は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585952?source=rss",
+      "publishedAt": "2026-06-27T23:17:23.000Z",
+      "xQuery": "床に食べ物「3秒ルール」真実は"
     }
   ]
 };
