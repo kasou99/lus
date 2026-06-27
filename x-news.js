@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-27T10:17:46.427Z",
+  "updatedAt": "2026-06-27T11:07:22.300Z",
   "items": [
+    {
+      "time": "19:37",
+      "title": "政府「骨太方針」で日銀けん制へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585913?source=rss",
+      "publishedAt": "2026-06-27T10:37:01.000Z",
+      "xQuery": "政府「骨太方針」で日銀けん制へ"
+    },
     {
       "time": "18:27",
       "title": "異例のダブル台風 列島各地で被害",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585904?source=rss",
       "publishedAt": "2026-06-27T09:38:38.000Z",
       "xQuery": "土砂崩れで不明の男性発見 死亡"
-    },
-    {
-      "time": "16:55",
-      "title": "車が海に落ち夫婦死亡 誤操作か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585890?source=rss",
-      "publishedAt": "2026-06-27T07:55:37.000Z",
-      "xQuery": "車が海に落ち夫婦死亡 誤操作か"
     },
     {
       "time": "18:48",
