@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-06-27T08:01:23.907Z",
+  "updatedAt": "2026-06-27T09:21:02.493Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "16:00",
-        "title": "ハウジング付きサーボモーターの世界市場（2026年～2032年）、市場規模（DC、AC）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1dF9STld3NThGcHZJSXJlQVVzUEFxYmlWbWJqSU1NN0RjT3M2RUk3eU9NREtWVlRRdEFxNEt0SzgxWkxqZW5BV1VUSmdadVE?oc=5",
-        "publishedAt": "2026-06-27T07:00:00.000Z"
-      },
       {
         "time": "13:30",
         "title": "ワークピース・工作機械・プローブの世界市場（2026年～2032年）、市場規模（ワイヤレス、有線）・分析レポートを発表",
@@ -17,11 +10,11 @@
         "publishedAt": "2026-06-27T04:30:00.000Z"
       },
       {
-        "time": "11:00",
-        "title": "「傍らのひと」（２３）研究学園都市の町工場 極限の精度で最先端科学を後押し",
-        "source": "東奥日報社",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vcTNiWVhydWpSMHZkb01ONlRsUTdYR2JGNElsX19hWER1a05sckZyRjUyWUduYjlibzQ0MExHbFpmV2JGR0tUem85YXJ1emlVSk9WTVVhdXg?oc=5",
-        "publishedAt": "2026-06-27T02:00:05.000Z"
+        "time": "16:00",
+        "title": "ハウジング付きサーボモーターの世界市場（2026年～2032年）、市場規模（DC、AC）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCMFBuOU5iZ2dhRGQ0M29aVG1mYlI4eWtDdndYMWVCLUJmb2tRZVplLWU1dkdtazBudkx5NmJNN1FaNUtEelBSOWsyZnRwZw?oc=5",
+        "publishedAt": "2026-06-27T07:00:00.000Z"
       },
       {
         "time": "04:40",
@@ -36,6 +29,13 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Sbk9mVUFvRkJKdEhMYlQzS3JiOXFpZ3lHeW9POEJ6M3ZwanpRVTdJc1BNbUpPXzh4ZTA4NnNRS2JtZy1sNWcwQnQ1MEV0Z3RaWmVCcEpHTmtSSVpDLVJkemt1WUdtNmpLUlIxbGgwT2I4MW53S2c?oc=5",
         "publishedAt": "2026-06-26T11:45:19.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "「傍らのひと」（２３）研究学園都市の町工場 極限の精度で最先端科学を後押し",
+        "source": "静岡新聞DIGITAL",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3bnY5aEtzZGkzd2tKSWd3eVVjZEVfZGxlSFBhcEdrbUlsRjBJWWUzZDlJN3hqbm15UkkxWWZVM3hORUs5LTN6M3ZtT0hKUQ?oc=5",
+        "publishedAt": "2026-06-27T02:00:00.000Z"
       },
       {
         "time": "22:57",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "17:45",
+        "title": "イラン 米の空爆は覚書違反と非難",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585900?source=rss",
+        "publishedAt": "2026-06-27T08:45:15.000Z"
+      },
+      {
         "time": "10:24",
         "title": "イラン側が米軍基地攻撃 報復応酬",
         "source": "Yahoo!ニュース",
@@ -82,25 +89,18 @@
         "publishedAt": "2026-06-26T22:47:01.000Z"
       },
       {
+        "time": "17:38",
+        "title": "ヘンリー王子夫妻 王室邸宅滞在へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585899?source=rss",
+        "publishedAt": "2026-06-27T08:38:52.000Z"
+      },
+      {
         "time": "12:37",
         "title": "北京ビルに小型機か 当局発表なし",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585860?source=rss",
         "publishedAt": "2026-06-27T03:37:49.000Z"
-      },
-      {
-        "time": "08:53",
-        "title": "ベネズエラ地震 約5万人安否不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585838?source=rss",
-        "publishedAt": "2026-06-26T23:53:40.000Z"
-      },
-      {
-        "time": "17:40",
-        "title": "欧州熱波 スペインで200人超死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585767?source=rss",
-        "publishedAt": "2026-06-26T08:40:25.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,27 @@
     ],
     "localHeadlines": [
       {
+        "time": "17:37",
+        "title": "土砂崩れで不明の男性 心肺停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585897?source=rss",
+        "publishedAt": "2026-06-27T08:37:46.000Z"
+      },
+      {
+        "time": "12:25",
+        "title": "福岡で住宅地が陥没 大雨影響か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585858?source=rss",
+        "publishedAt": "2026-06-27T03:25:43.000Z"
+      },
+      {
+        "time": "17:03",
+        "title": "沖縄地上戦で民間人収容所へ 実態",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585891?source=rss",
+        "publishedAt": "2026-06-27T08:03:39.000Z"
+      },
+      {
         "time": "16:55",
         "title": "車が海に落ち夫婦死亡 誤操作か",
         "source": "Yahoo!ニュース",
@@ -163,32 +184,11 @@
         "publishedAt": "2026-06-26T23:37:58.000Z"
       },
       {
-        "time": "12:25",
-        "title": "福岡で住宅地が陥没 大雨影響か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585858?source=rss",
-        "publishedAt": "2026-06-27T03:25:43.000Z"
-      },
-      {
         "time": "15:22",
         "title": "臨時休校 大量の給食パン余り販売",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585875?source=rss",
         "publishedAt": "2026-06-27T06:22:27.000Z"
-      },
-      {
-        "time": "10:04",
-        "title": "CTでくも膜下出血認識できず謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585844?source=rss",
-        "publishedAt": "2026-06-27T01:04:42.000Z"
-      },
-      {
-        "time": "09:20",
-        "title": "4人が乗った車が横転 2人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585840?source=rss",
-        "publishedAt": "2026-06-27T00:20:40.000Z"
       }
     ],
     "subsidyHeadlines": [

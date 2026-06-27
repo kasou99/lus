@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-27T08:01:24.421Z",
+  "updatedAt": "2026-06-27T09:21:03.411Z",
   "items": [
     {
       "time": "16:40",
@@ -10,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "台風7号は今夜関東に最接近 警戒"
     },
     {
-      "time": "14:43",
-      "title": "急速に老化が進む難病 家族の13年",
+      "time": "17:04",
+      "title": "熱中症死者早期に1000人未満 方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585866?source=rss",
-      "publishedAt": "2026-06-27T05:43:33.000Z",
-      "xQuery": "急速に老化が進む難病 家族の13年"
+      "url": "https://news.yahoo.co.jp/pickup/6585892?source=rss",
+      "publishedAt": "2026-06-27T08:04:00.000Z",
+      "xQuery": "熱中症死者早期に1000人未満 方針"
+    },
+    {
+      "time": "17:37",
+      "title": "土砂崩れで不明の男性 心肺停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585897?source=rss",
+      "publishedAt": "2026-06-27T08:37:46.000Z",
+      "xQuery": "土砂崩れで不明の男性 心肺停止"
+    },
+    {
+      "time": "17:38",
+      "title": "ヘンリー王子夫妻 王室邸宅滞在へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585899?source=rss",
+      "publishedAt": "2026-06-27T08:38:52.000Z",
+      "xQuery": "ヘンリー王子夫妻 王室邸宅滞在へ"
     },
     {
       "time": "16:55",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585890?source=rss",
       "publishedAt": "2026-06-27T07:55:37.000Z",
       "xQuery": "車が海に落ち夫婦死亡 誤操作か"
-    },
-    {
-      "time": "15:22",
-      "title": "臨時休校 大量の給食パン余り販売",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585875?source=rss",
-      "publishedAt": "2026-06-27T06:22:27.000Z",
-      "xQuery": "臨時休校 大量の給食パン余り販売"
-    },
-    {
-      "time": "16:10",
-      "title": "「テレビ離れ」全世代で加速 なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585879?source=rss",
-      "publishedAt": "2026-06-27T07:10:44.000Z",
-      "xQuery": "「テレビ離れ」全世代で加速 なぜ"
     }
   ]
 };
