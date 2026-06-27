@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-27T21:56:42.264Z",
+  "updatedAt": "2026-06-27T22:29:52.512Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:00",
+        "title": "ハウジング付きサーボモーターの世界市場（2026年～2032年）、市場規模（DC、AC）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91VUN0Ukx1QUxsN21xUmtDVnRmRHRzU0I2NTB3SnhKQTNiQXpBaEp6dVdyaWd0aW5pNDJ5TTRJcFJLdEtveUdMbG55RE8?oc=5",
+        "publishedAt": "2026-06-27T07:00:00.000Z"
+      },
       {
         "time": "13:30",
         "title": "ワークピース・工作機械・プローブの世界市場（2026年～2032年）、市場規模（ワイヤレス、有線）・分析レポートを発表",
@@ -10,11 +17,11 @@
         "publishedAt": "2026-06-27T04:30:00.000Z"
       },
       {
-        "time": "16:00",
-        "title": "ハウジング付きサーボモーターの世界市場（2026年～2032年）、市場規模（DC、AC）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91VUN0Ukx1QUxsN21xUmtDVnRmRHRzU0I2NTB3SnhKQTNiQXpBaEp6dVdyaWd0aW5pNDJ5TTRJcFJLdEtveUdMbG55RE8?oc=5",
-        "publishedAt": "2026-06-27T07:00:00.000Z"
+        "time": "17:18",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-06-27T08:18:05.000Z"
       },
       {
         "time": "11:00",
@@ -50,16 +57,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585774?source=rss",
         "publishedAt": "2026-06-26T08:48:28.000Z"
-      },
-      {
-        "time": "16:07",
-        "title": "ゴーン氏 ‌復帰求める声に言及",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585756?source=rss",
-        "publishedAt": "2026-06-26T07:07:46.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:08",
+        "title": "ベネズエラ地震 死者1400人超",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585942?source=rss",
+        "publishedAt": "2026-06-27T22:08:08.000Z"
+      },
       {
         "time": "17:45",
         "title": "イラン 米の空爆は覚書違反と非難",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585929?source=rss",
         "publishedAt": "2026-06-27T12:41:18.000Z"
-      },
-      {
-        "time": "17:38",
-        "title": "ヘンリー王子夫妻 王室邸宅滞在へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585899?source=rss",
-        "publishedAt": "2026-06-27T08:38:52.000Z"
       }
     ],
     "economyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-27T21:56:43.038Z",
+  "updatedAt": "2026-06-27T22:29:53.456Z",
   "items": [
     {
       "time": "05:30",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "青森・岩手で震度5弱 津波なし"
     },
     {
-      "time": "23:15",
-      "title": "28日 雨が止んでも土砂災害に警戒",
+      "time": "07:08",
+      "title": "ベネズエラ地震 死者1400人超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585937?source=rss",
-      "publishedAt": "2026-06-27T14:15:17.000Z",
-      "xQuery": "28日 雨が止んでも土砂災害に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6585942?source=rss",
+      "publishedAt": "2026-06-27T22:08:08.000Z",
+      "xQuery": "ベネズエラ地震 死者1400人超"
     },
     {
       "time": "23:31",
