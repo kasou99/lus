@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-27T22:57:10.125Z",
+  "updatedAt": "2026-06-27T23:29:29.246Z",
   "items": [
-    {
-      "time": "05:30",
-      "title": "青森・岩手で震度5弱 津波なし",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585939?source=rss",
-      "publishedAt": "2026-06-27T20:30:59.000Z",
-      "xQuery": "青森・岩手で震度5弱 津波なし"
-    },
     {
       "time": "07:08",
       "title": "ベネズエラ地震 死者1400人超",
@@ -18,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ベネズエラ地震 死者1400人超"
     },
     {
-      "time": "23:31",
-      "title": "太平洋防衛へ無人潜水艇 政府検討",
+      "time": "05:30",
+      "title": "青森・岩手で震度5弱 津波なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585938?source=rss",
-      "publishedAt": "2026-06-27T14:31:15.000Z",
-      "xQuery": "太平洋防衛へ無人潜水艇 政府検討"
+      "url": "https://news.yahoo.co.jp/pickup/6585939?source=rss",
+      "publishedAt": "2026-06-27T20:30:59.000Z",
+      "xQuery": "青森・岩手で震度5弱 津波なし"
     },
     {
       "time": "05:55",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中露爆撃機が日本周辺を共同飛行"
     },
     {
-      "time": "23:02",
-      "title": "タイヤにワイヤー絡まり横転 死亡",
+      "time": "08:03",
+      "title": "育休なら学童退所 主要自治体6割",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585934?source=rss",
-      "publishedAt": "2026-06-27T14:02:49.000Z",
-      "xQuery": "タイヤにワイヤー絡まり横転 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6585951?source=rss",
+      "publishedAt": "2026-06-27T23:03:11.000Z",
+      "xQuery": "育休なら学童退所 主要自治体6割"
+    },
+    {
+      "time": "07:55",
+      "title": "車横転2人死亡 運転の高校生逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585947?source=rss",
+      "publishedAt": "2026-06-27T22:55:52.000Z",
+      "xQuery": "車横転2人死亡 運転の高校生逮捕"
     }
   ]
 };
