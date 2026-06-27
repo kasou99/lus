@@ -1,37 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-27T09:21:03.411Z",
+  "updatedAt": "2026-06-27T10:17:46.427Z",
   "items": [
     {
-      "time": "16:40",
-      "title": "台風7号は今夜関東に最接近 警戒",
+      "time": "18:27",
+      "title": "異例のダブル台風 列島各地で被害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585887?source=rss",
-      "publishedAt": "2026-06-27T07:40:27.000Z",
-      "xQuery": "台風7号は今夜関東に最接近 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6585903?source=rss",
+      "publishedAt": "2026-06-27T09:27:42.000Z",
+      "xQuery": "異例のダブル台風 列島各地で被害"
     },
     {
-      "time": "17:04",
-      "title": "熱中症死者早期に1000人未満 方針",
+      "time": "18:38",
+      "title": "土砂崩れで不明の男性発見 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585892?source=rss",
-      "publishedAt": "2026-06-27T08:04:00.000Z",
-      "xQuery": "熱中症死者早期に1000人未満 方針"
-    },
-    {
-      "time": "17:37",
-      "title": "土砂崩れで不明の男性 心肺停止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585897?source=rss",
-      "publishedAt": "2026-06-27T08:37:46.000Z",
-      "xQuery": "土砂崩れで不明の男性 心肺停止"
-    },
-    {
-      "time": "17:38",
-      "title": "ヘンリー王子夫妻 王室邸宅滞在へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585899?source=rss",
-      "publishedAt": "2026-06-27T08:38:52.000Z",
-      "xQuery": "ヘンリー王子夫妻 王室邸宅滞在へ"
+      "url": "https://news.yahoo.co.jp/pickup/6585904?source=rss",
+      "publishedAt": "2026-06-27T09:38:38.000Z",
+      "xQuery": "土砂崩れで不明の男性発見 死亡"
     },
     {
       "time": "16:55",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585890?source=rss",
       "publishedAt": "2026-06-27T07:55:37.000Z",
       "xQuery": "車が海に落ち夫婦死亡 誤操作か"
+    },
+    {
+      "time": "18:48",
+      "title": "「多目的トイレ」誤解 障害者切実",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585907?source=rss",
+      "publishedAt": "2026-06-27T09:48:39.000Z",
+      "xQuery": "「多目的トイレ」誤解 障害者切実"
+    },
+    {
+      "time": "18:55",
+      "title": "橋完成 市長がバンジージャンプ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585906?source=rss",
+      "publishedAt": "2026-06-27T09:55:10.000Z",
+      "xQuery": "橋完成 市長がバンジージャンプ"
     }
   ]
 };
