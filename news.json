@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T02:23:55.150Z",
+  "updatedAt": "2026-06-27T03:48:20.415Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-06-26T07:30:00.000Z"
       },
       {
-        "time": "13:00",
-        "title": "設備保全総合研究所とＳＯＭＰＯリスクマネジメントが連携協定を締結",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3cHVQYVpMSXp4ZUdBYks1U09xQWdIQ1E1ZGlCdUxjWUJUQ01OZUF6c25Zb3FyS1h2MFZ4TmhRdVhxSGFJdlE1WHYyUDJ3a0RseTh4alVKMGZoT1JFLWprb19mTnVmLUtuYXc?oc=5",
-        "publishedAt": "2026-06-26T04:00:02.000Z"
-      },
-      {
         "time": "16:39",
         "title": "KAMAMESHI 設備保全で新サービス 停止リスクを可視化・予防（日刊産業新聞）",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUem0zWjd3SlQ1UlY2cmlfVUJydHE5SEFPZ1hIZ0VSWFNBRkV6VGo1M0F6ZTNEQy11VnVLaTdGdlA0Q2R6TDUzS05KV3BGQktwNGR1b0ZnQmJPRVpPRnQ3cnUxWkc4NDhjTXZFU2lxRVRNRU9xMXdrLVcxbTZHWEU?oc=5",
         "publishedAt": "2026-06-26T07:39:41.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "設備保全総合研究所とＳＯＭＰＯリスクマネジメントが連携協定を締結",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3cHVQYVpMSXp4ZUdBYks1U09xQWdIQ1E1ZGlCdUxjWUJUQ01OZUF6c25Zb3FyS1h2MFZ4TmhRdVhxSGFJdlE1WHYyUDJ3a0RseTh4alVKMGZoT1JFLWprb19mTnVmLUtuYXc?oc=5",
+        "publishedAt": "2026-06-26T04:00:02.000Z"
       },
       {
         "time": "11:00",
@@ -38,6 +38,13 @@
         "publishedAt": "2026-06-26T19:40:48.000Z"
       },
       {
+        "time": "21:23",
+        "title": "設備保全総合研究所とＳＯＭＰＯリスクマネジメントが連携協定を締結 (2026年6月26日掲載)",
+        "source": "ライブドアニュース",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11eDlvdnZjT1BaaTQtVUNxbS15WVNEYTQzbElqMXU0aEhrUG1PdHhmaGUtSXpxcGtBdDdva0lwTFV6cUV2NE5nakxEOTlkZ0cxM0FYLVh0VHB2ekNEYVlneFp3?oc=5",
+        "publishedAt": "2026-06-26T12:23:16.000Z"
+      },
+      {
         "time": "16:58",
         "title": "ＳＯＭＰＯリスクと設備保全総合研究所が手を組み、設備管理の新時代を切り拓く",
         "source": "ニュースメディアVOIX",
@@ -50,13 +57,6 @@
         "source": "ドリームニュース",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11ZGpEb0F4MTZXZTBGQkRPU042Z2FkS3owQ3VNaFBEUndEN1JDaE81aGZ1Z0xSRjhOVFZ5NkhsMXJzUlh5aHBKckF2MnVycXZtVUQ0?oc=5",
         "publishedAt": "2026-06-26T05:00:00.000Z"
-      },
-      {
-        "time": "22:57",
-        "title": "政府、成長17分野に官民370兆円投資 中部企業への追い風に 半導体、イビデン/フィジカルAI、オークマなど",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0ZhLS10aEtnLUd5UHZmLUZSZXBpdTdtRFpXa2ZhZEtUMWRGRmxYRnkzamhKY1U5R3UyWjR1N180R2ZhOXAtMlZKM3o0RWZJdDFValR2SXA0eGthWlgtSWJQT3pSWHlqd3BNRGZLSk9tb3M5bWt6OG1wRkQwa1ZQSlB3cXBZSFp3S0FYSDdNaFJsdk9tLUdlSjBSMFJvYk96cDdCMU00bDQ?oc=5",
-        "publishedAt": "2026-06-26T13:57:46.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,11 +82,11 @@
         "publishedAt": "2026-06-26T22:47:01.000Z"
       },
       {
-        "time": "07:23",
-        "title": "北京高層ビルに小型機衝突か 報道",
+        "time": "12:37",
+        "title": "北京ビルに小型機か 当局発表なし",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585824?source=rss",
-        "publishedAt": "2026-06-26T22:23:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585860?source=rss",
+        "publishedAt": "2026-06-27T03:37:49.000Z"
       },
       {
         "time": "08:53",
@@ -163,18 +163,18 @@
         "publishedAt": "2026-06-26T16:06:37.000Z"
       },
       {
+        "time": "12:25",
+        "title": "福岡で住宅地が陥没 大雨影響か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585858?source=rss",
+        "publishedAt": "2026-06-27T03:25:43.000Z"
+      },
+      {
         "time": "00:53",
         "title": "家に土砂流入1人行方不明 山口県",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585818?source=rss",
         "publishedAt": "2026-06-26T15:53:01.000Z"
-      },
-      {
-        "time": "21:10",
-        "title": "雨で増水した川に転落か 男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585797?source=rss",
-        "publishedAt": "2026-06-26T12:10:45.000Z"
       },
       {
         "time": "10:04",

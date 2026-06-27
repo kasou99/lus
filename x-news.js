@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-27T02:23:56.371Z",
+  "updatedAt": "2026-06-27T03:48:21.336Z",
   "items": [
     {
-      "time": "07:48",
-      "title": "台風7号 関東甲信は大雨に警戒を",
+      "time": "11:40",
+      "title": "台風 関東甲信は滝のような雨警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585827?source=rss",
-      "publishedAt": "2026-06-26T22:48:09.000Z",
-      "xQuery": "台風7号 関東甲信は大雨に警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6585855?source=rss",
+      "publishedAt": "2026-06-27T02:40:00.000Z",
+      "xQuery": "台風 関東甲信は滝のような雨警戒"
     },
     {
-      "time": "08:53",
-      "title": "ベネズエラ地震 約5万人安否不明",
+      "time": "10:24",
+      "title": "イラン側が米軍基地攻撃 報復応酬",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585838?source=rss",
-      "publishedAt": "2026-06-26T23:53:40.000Z",
-      "xQuery": "ベネズエラ地震 約5万人安否不明"
+      "url": "https://news.yahoo.co.jp/pickup/6585848?source=rss",
+      "publishedAt": "2026-06-27T01:24:06.000Z",
+      "xQuery": "イラン側が米軍基地攻撃 報復応酬"
     },
     {
-      "time": "09:06",
-      "title": "露大統領の最側近 イワノフ氏死去",
+      "time": "12:25",
+      "title": "福岡で住宅地が陥没 大雨影響か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585839?source=rss",
-      "publishedAt": "2026-06-27T00:06:13.000Z",
-      "xQuery": "露大統領の最側近 イワノフ氏死去"
+      "url": "https://news.yahoo.co.jp/pickup/6585858?source=rss",
+      "publishedAt": "2026-06-27T03:25:43.000Z",
+      "xQuery": "福岡で住宅地が陥没 大雨影響か"
+    },
+    {
+      "time": "10:28",
+      "title": "自民の見通しなき強硬路線 背景は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585849?source=rss",
+      "publishedAt": "2026-06-27T01:28:09.000Z",
+      "xQuery": "自民の見通しなき強硬路線 背景は"
     },
     {
       "time": "09:20",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585840?source=rss",
       "publishedAt": "2026-06-27T00:20:40.000Z",
       "xQuery": "4人が乗った車が横転 2人死亡"
-    },
-    {
-      "time": "10:06",
-      "title": "米政府 一部にミュトス提供を許可",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585846?source=rss",
-      "publishedAt": "2026-06-27T01:06:56.000Z",
-      "xQuery": "米政府 一部にミュトス提供を許可"
     }
   ]
 };
