@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-27T01:08:05.305Z",
+  "updatedAt": "2026-06-27T02:23:56.371Z",
   "items": [
     {
       "time": "07:48",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風7号 関東甲信は大雨に警戒を"
     },
     {
-      "time": "08:17",
-      "title": "米軍がイラン施設爆撃 反撃と主張",
+      "time": "08:53",
+      "title": "ベネズエラ地震 約5万人安否不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585830?source=rss",
-      "publishedAt": "2026-06-26T23:17:17.000Z",
-      "xQuery": "米軍がイラン施設爆撃 反撃と主張"
-    },
-    {
-      "time": "09:35",
-      "title": "養子の子男子なら皇位継承資格 案",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585842?source=rss",
-      "publishedAt": "2026-06-27T00:35:04.000Z",
-      "xQuery": "養子の子男子なら皇位継承資格 案"
+      "url": "https://news.yahoo.co.jp/pickup/6585838?source=rss",
+      "publishedAt": "2026-06-26T23:53:40.000Z",
+      "xQuery": "ベネズエラ地震 約5万人安否不明"
     },
     {
       "time": "09:06",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "露大統領の最側近 イワノフ氏死去"
     },
     {
-      "time": "08:37",
-      "title": "震度6弱 山梨や東京など17人けが",
+      "time": "09:20",
+      "title": "4人が乗った車が横転 2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585833?source=rss",
-      "publishedAt": "2026-06-26T23:37:58.000Z",
-      "xQuery": "震度6弱 山梨や東京など17人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6585840?source=rss",
+      "publishedAt": "2026-06-27T00:20:40.000Z",
+      "xQuery": "4人が乗った車が横転 2人死亡"
+    },
+    {
+      "time": "10:06",
+      "title": "米政府 一部にミュトス提供を許可",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585846?source=rss",
+      "publishedAt": "2026-06-27T01:06:56.000Z",
+      "xQuery": "米政府 一部にミュトス提供を許可"
     }
   ]
 };
