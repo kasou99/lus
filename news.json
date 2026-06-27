@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T05:25:47.803Z",
+  "updatedAt": "2026-06-27T06:39:56.647Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,13 +156,6 @@
         "publishedAt": "2026-06-26T23:37:58.000Z"
       },
       {
-        "time": "01:06",
-        "title": "ドンと下から衝撃 震度6弱の町",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585819?source=rss",
-        "publishedAt": "2026-06-26T16:06:37.000Z"
-      },
-      {
         "time": "12:25",
         "title": "福岡で住宅地が陥没 大雨影響か",
         "source": "Yahoo!ニュース",
@@ -175,6 +168,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585818?source=rss",
         "publishedAt": "2026-06-26T15:53:01.000Z"
+      },
+      {
+        "time": "15:22",
+        "title": "臨時休校 大量の給食パン余り販売",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585875?source=rss",
+        "publishedAt": "2026-06-27T06:22:27.000Z"
       },
       {
         "time": "10:04",

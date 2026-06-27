@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-27T05:25:48.767Z",
+  "updatedAt": "2026-06-27T06:39:57.850Z",
   "items": [
     {
-      "time": "11:40",
-      "title": "台風 関東甲信は滝のような雨警戒",
+      "time": "14:29",
+      "title": "台風7号が関東接近へ 大雨に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585855?source=rss",
-      "publishedAt": "2026-06-27T02:40:00.000Z",
-      "xQuery": "台風 関東甲信は滝のような雨警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6585868?source=rss",
+      "publishedAt": "2026-06-27T05:29:11.000Z",
+      "xQuery": "台風7号が関東接近へ 大雨に警戒"
     },
     {
-      "time": "10:24",
-      "title": "イラン側が米軍基地攻撃 報復応酬",
+      "time": "15:24",
+      "title": "OpenAI GPT-5.6シリーズを発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585848?source=rss",
-      "publishedAt": "2026-06-27T01:24:06.000Z",
-      "xQuery": "イラン側が米軍基地攻撃 報復応酬"
-    },
-    {
-      "time": "12:25",
-      "title": "福岡で住宅地が陥没 大雨影響か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585858?source=rss",
-      "publishedAt": "2026-06-27T03:25:43.000Z",
-      "xQuery": "福岡で住宅地が陥没 大雨影響か"
+      "url": "https://news.yahoo.co.jp/pickup/6585874?source=rss",
+      "publishedAt": "2026-06-27T06:24:21.000Z",
+      "xQuery": "OpenAI GPT-5.6シリーズを発表"
     },
     {
       "time": "12:37",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585863?source=rss",
       "publishedAt": "2026-06-27T04:31:25.000Z",
       "xQuery": "47歳で妊娠 子に伝えるの怖かった"
+    },
+    {
+      "time": "15:22",
+      "title": "臨時休校 大量の給食パン余り販売",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585875?source=rss",
+      "publishedAt": "2026-06-27T06:22:27.000Z",
+      "xQuery": "臨時休校 大量の給食パン余り販売"
     }
   ]
 };
