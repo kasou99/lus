@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-27T12:42:22.286Z",
+  "updatedAt": "2026-06-27T13:37:30.783Z",
   "items": [
     {
-      "time": "21:16",
-      "title": "台風接近で記録的雨 土砂崩れ警戒",
+      "time": "19:37",
+      "title": "政府「骨太方針」で日銀けん制へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585927?source=rss",
-      "publishedAt": "2026-06-27T12:16:11.000Z",
-      "xQuery": "台風接近で記録的雨 土砂崩れ警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6585913?source=rss",
+      "publishedAt": "2026-06-27T10:37:01.000Z",
+      "xQuery": "政府「骨太方針」で日銀けん制へ"
     },
     {
-      "time": "21:09",
-      "title": "中露の軍 日本海など戦略合同飛行",
+      "time": "17:03",
+      "title": "沖縄地上戦で民間人収容所へ 実態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585925?source=rss",
-      "publishedAt": "2026-06-27T12:09:51.000Z",
-      "xQuery": "中露の軍 日本海など戦略合同飛行"
+      "url": "https://news.yahoo.co.jp/pickup/6585891?source=rss",
+      "publishedAt": "2026-06-27T08:03:39.000Z",
+      "xQuery": "沖縄地上戦で民間人収容所へ 実態"
+    },
+    {
+      "time": "21:41",
+      "title": "北京小型機衝突 当局発表は1日後",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585929?source=rss",
+      "publishedAt": "2026-06-27T12:41:18.000Z",
+      "xQuery": "北京小型機衝突 当局発表は1日後"
     },
     {
       "time": "21:24",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585926?source=rss",
       "publishedAt": "2026-06-27T12:11:53.000Z",
       "xQuery": "川に車転落 流されそうな2歳救助"
-    },
-    {
-      "time": "19:22",
-      "title": "北京ビルに小型機 1人死亡と当局",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585912?source=rss",
-      "publishedAt": "2026-06-27T10:22:52.000Z",
-      "xQuery": "北京ビルに小型機 1人死亡と当局"
     }
   ]
 };

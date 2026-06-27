@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-27T12:42:21.107Z",
+  "updatedAt": "2026-06-27T13:37:29.866Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:00",
+        "title": "ハウジング付きサーボモーターの世界市場（2026年～2032年）、市場規模（DC、AC）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1dF9STld3NThGcHZJSXJlQVVzUEFxYmlWbWJqSU1NN0RjT3M2RUk3eU9NREtWVlRRdEFxNEt0SzgxWkxqZW5BV1VUSmdadVE?oc=5",
+        "publishedAt": "2026-06-27T07:00:00.000Z"
+      },
       {
         "time": "13:30",
         "title": "ワークピース・工作機械・プローブの世界市場（2026年～2032年）、市場規模（ワイヤレス、有線）・分析レポートを発表",
@@ -10,25 +17,11 @@
         "publishedAt": "2026-06-27T04:30:00.000Z"
       },
       {
-        "time": "16:00",
-        "title": "ハウジング付きサーボモーターの世界市場（2026年～2032年）、市場規模（DC、AC）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCMFBuOU5iZ2dhRGQ0M29aVG1mYlI4eWtDdndYMWVCLUJmb2tRZVplLWU1dkdtazBudkx5NmJNN1FaNUtEelBSOWsyZnRwZw?oc=5",
-        "publishedAt": "2026-06-27T07:00:00.000Z"
-      },
-      {
         "time": "17:18",
         "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
         "publishedAt": "2026-06-27T08:18:05.000Z"
-      },
-      {
-        "time": "18:04",
-        "title": "(株)ヤマザキ【6147】：株価・株式情報（夜間PTS含む）",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91SDlfVDdiZGgyRHZXUENrNXh3a0EzTGRJWDBfXzBPdUFyOHA2clVMbzY2R1VxM3d1R0lvY3lXN2s5RVJzQzd2WHp6LVpwQkp2UUE?oc=5",
-        "publishedAt": "2026-06-27T09:04:31.000Z"
       },
       {
         "time": "17:45",
@@ -57,6 +50,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb0ZhLS10aEtnLUd5UHZmLUZSZXBpdTdtRFpXa2ZhZEtUMWRGRmxYRnkzamhKY1U5R3UyWjR1N180R2ZhOXAtMlZKM3o0RWZJdDFValR2SXA0eGthWlgtSWJQT3pSWHlqd3BNRGZLSk9tb3M5bWt6OG1wRkQwa1ZQSlB3cXBZSFp3S0FYSDdNaFJsdk9tLUdlSjBSMFJvYk96cDdCMU00bDQ?oc=5",
         "publishedAt": "2026-06-26T13:57:46.000Z"
+      },
+      {
+        "time": "18:04",
+        "title": "(株)ヤマザキ【6147】：株価・株式情報（夜間PTS含む）",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91SDlfVDdiZGgyRHZXUENrNXh3a0EzTGRJWDBfXzBPdUFyOHA2clVMbzY2R1VxM3d1R0lvY3lXN2s5RVJzQzd2WHp6LVpwQkp2UUE?oc=5",
+        "publishedAt": "2026-06-27T09:04:31.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,11 +89,11 @@
         "publishedAt": "2026-06-27T12:09:51.000Z"
       },
       {
-        "time": "19:22",
-        "title": "北京ビルに小型機 1人死亡と当局",
+        "time": "21:41",
+        "title": "北京小型機衝突 当局発表は1日後",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585912?source=rss",
-        "publishedAt": "2026-06-27T10:22:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585929?source=rss",
+        "publishedAt": "2026-06-27T12:41:18.000Z"
       },
       {
         "time": "17:38",
