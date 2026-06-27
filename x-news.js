@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-27T06:39:57.850Z",
+  "updatedAt": "2026-06-27T08:01:24.421Z",
   "items": [
     {
-      "time": "14:29",
-      "title": "台風7号が関東接近へ 大雨に警戒",
+      "time": "16:40",
+      "title": "台風7号は今夜関東に最接近 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585868?source=rss",
-      "publishedAt": "2026-06-27T05:29:11.000Z",
-      "xQuery": "台風7号が関東接近へ 大雨に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6585887?source=rss",
+      "publishedAt": "2026-06-27T07:40:27.000Z",
+      "xQuery": "台風7号は今夜関東に最接近 警戒"
     },
     {
-      "time": "15:24",
-      "title": "OpenAI GPT-5.6シリーズを発表",
+      "time": "14:43",
+      "title": "急速に老化が進む難病 家族の13年",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585874?source=rss",
-      "publishedAt": "2026-06-27T06:24:21.000Z",
-      "xQuery": "OpenAI GPT-5.6シリーズを発表"
+      "url": "https://news.yahoo.co.jp/pickup/6585866?source=rss",
+      "publishedAt": "2026-06-27T05:43:33.000Z",
+      "xQuery": "急速に老化が進む難病 家族の13年"
     },
     {
-      "time": "12:37",
-      "title": "北京ビルに小型機か 当局発表なし",
+      "time": "16:55",
+      "title": "車が海に落ち夫婦死亡 誤操作か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585860?source=rss",
-      "publishedAt": "2026-06-27T03:37:49.000Z",
-      "xQuery": "北京ビルに小型機か 当局発表なし"
-    },
-    {
-      "time": "13:31",
-      "title": "47歳で妊娠 子に伝えるの怖かった",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585863?source=rss",
-      "publishedAt": "2026-06-27T04:31:25.000Z",
-      "xQuery": "47歳で妊娠 子に伝えるの怖かった"
+      "url": "https://news.yahoo.co.jp/pickup/6585890?source=rss",
+      "publishedAt": "2026-06-27T07:55:37.000Z",
+      "xQuery": "車が海に落ち夫婦死亡 誤操作か"
     },
     {
       "time": "15:22",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585875?source=rss",
       "publishedAt": "2026-06-27T06:22:27.000Z",
       "xQuery": "臨時休校 大量の給食パン余り販売"
+    },
+    {
+      "time": "16:10",
+      "title": "「テレビ離れ」全世代で加速 なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585879?source=rss",
+      "publishedAt": "2026-06-27T07:10:44.000Z",
+      "xQuery": "「テレビ離れ」全世代で加速 なぜ"
     }
   ]
 };
