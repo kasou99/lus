@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T15:33:19.931Z",
+  "updatedAt": "2026-06-27T16:31:45.143Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,8 +12,8 @@
       {
         "time": "16:00",
         "title": "ハウジング付きサーボモーターの世界市場（2026年～2032年）、市場規模（DC、AC）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCMFBuOU5iZ2dhRGQ0M29aVG1mYlI4eWtDdndYMWVCLUJmb2tRZVplLWU1dkdtazBudkx5NmJNN1FaNUtEelBSOWsyZnRwZw?oc=5",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhNHhHY2VQbEFOZzlqRGQ3TkFGeFZXVnNpNHRPVldsWlFiWDFFNWVOcEdwdFVYcFFkcWdmS2ZibTl1OXNzVHEw?oc=5",
         "publishedAt": "2026-06-27T07:00:00.000Z"
       },
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-06-27T08:18:05.000Z"
       },
       {
-        "time": "17:45",
-        "title": "来週の焦点：日銀短観と米雇用統計、AI調整局面の行方とUSMCA期限",
-        "source": "finance.biggo.jp",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80TGpfeHZaT2pkN3JEWmlHSjE2UVl6clFEUGd5RU9hd25YaEtDMFBWRk96YkVONkVBUXJOYnRodS1qVWZFandKc24yTk4yMmtzb2ZxMm1jU0lmbUdfSXdja3hsVHJuSVJjMTBrY1dzZUxVT0F1?oc=5",
-        "publishedAt": "2026-06-27T08:45:00.000Z"
-      },
-      {
         "time": "04:40",
         "title": "新学長に聞く2026（5）山形大学学長・出口毅氏",
         "source": "日刊工業新聞",
@@ -38,18 +31,25 @@
         "publishedAt": "2026-06-26T19:40:48.000Z"
       },
       {
-        "time": "11:00",
-        "title": "「傍らのひと」（２３）研究学園都市の町工場 極限の精度で最先端科学を後押し",
-        "source": "静岡新聞DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3bnY5aEtzZGkzd2tKSWd3eVVjZEVfZGxlSFBhcEdrbUlsRjBJWWUzZDlJN3hqbm15UkkxWWZVM3hORUs5LTN6M3ZtT0hKUQ?oc=5",
-        "publishedAt": "2026-06-27T02:00:00.000Z"
-      },
-      {
         "time": "18:04",
         "title": "(株)ヤマザキ【6147】：株価・株式情報（夜間PTS含む）",
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91SDlfVDdiZGgyRHZXUENrNXh3a0EzTGRJWDBfXzBPdUFyOHA2clVMbzY2R1VxM3d1R0lvY3lXN2s5RVJzQzd2WHp6LVpwQkp2UUE?oc=5",
         "publishedAt": "2026-06-27T09:04:31.000Z"
+      },
+      {
+        "time": "17:45",
+        "title": "来週の焦点：日銀短観と米雇用統計、AI調整局面の行方とUSMCA期限",
+        "source": "finance.biggo.jp",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80TGpfeHZaT2pkN3JEWmlHSjE2UVl6clFEUGd5RU9hd25YaEtDMFBWRk96YkVONkVBUXJOYnRodS1qVWZFandKc24yTk4yMmtzb2ZxMm1jU0lmbUdfSXdja3hsVHJuSVJjMTBrY1dzZUxVT0F1?oc=5",
+        "publishedAt": "2026-06-27T08:45:00.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "「傍らのひと」（２３）研究学園都市の町工場 極限の精度で最先端科学を後押し",
+        "source": "静岡新聞DIGITAL",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3bnY5aEtzZGkzd2tKSWd3eVVjZEVfZGxlSFBhcEdrbUlsRjBJWWUzZDlJN3hqbm15UkkxWWZVM3hORUs5LTN6M3ZtT0hKUQ?oc=5",
+        "publishedAt": "2026-06-27T02:00:00.000Z"
       },
       {
         "time": "11:00",
