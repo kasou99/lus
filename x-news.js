@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-26T23:32:34.067Z",
+  "updatedAt": "2026-06-27T01:08:05.305Z",
   "items": [
     {
       "time": "07:48",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米軍がイラン施設爆撃 反撃と主張"
     },
     {
-      "time": "00:36",
-      "title": "地震 識者「斜面崩壊の可能性も」",
+      "time": "09:35",
+      "title": "養子の子男子なら皇位継承資格 案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585816?source=rss",
-      "publishedAt": "2026-06-26T15:36:31.000Z",
-      "xQuery": "地震 識者「斜面崩壊の可能性も」"
+      "url": "https://news.yahoo.co.jp/pickup/6585842?source=rss",
+      "publishedAt": "2026-06-27T00:35:04.000Z",
+      "xQuery": "養子の子男子なら皇位継承資格 案"
     },
     {
-      "time": "01:06",
-      "title": "ドンと下から衝撃 震度6弱の町",
+      "time": "09:06",
+      "title": "露大統領の最側近 イワノフ氏死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585819?source=rss",
-      "publishedAt": "2026-06-26T16:06:37.000Z",
-      "xQuery": "ドンと下から衝撃 震度6弱の町"
+      "url": "https://news.yahoo.co.jp/pickup/6585839?source=rss",
+      "publishedAt": "2026-06-27T00:06:13.000Z",
+      "xQuery": "露大統領の最側近 イワノフ氏死去"
     },
     {
-      "time": "07:23",
-      "title": "北京高層ビルに小型機衝突か 報道",
+      "time": "08:37",
+      "title": "震度6弱 山梨や東京など17人けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585824?source=rss",
-      "publishedAt": "2026-06-26T22:23:19.000Z",
-      "xQuery": "北京高層ビルに小型機衝突か 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6585833?source=rss",
+      "publishedAt": "2026-06-26T23:37:58.000Z",
+      "xQuery": "震度6弱 山梨や東京など17人けが"
     }
   ]
 };
