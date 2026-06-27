@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-27T03:48:21.336Z",
+  "updatedAt": "2026-06-27T05:25:48.767Z",
   "items": [
     {
       "time": "11:40",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡で住宅地が陥没 大雨影響か"
     },
     {
-      "time": "10:28",
-      "title": "自民の見通しなき強硬路線 背景は",
+      "time": "12:37",
+      "title": "北京ビルに小型機か 当局発表なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585849?source=rss",
-      "publishedAt": "2026-06-27T01:28:09.000Z",
-      "xQuery": "自民の見通しなき強硬路線 背景は"
+      "url": "https://news.yahoo.co.jp/pickup/6585860?source=rss",
+      "publishedAt": "2026-06-27T03:37:49.000Z",
+      "xQuery": "北京ビルに小型機か 当局発表なし"
     },
     {
-      "time": "09:20",
-      "title": "4人が乗った車が横転 2人死亡",
+      "time": "13:31",
+      "title": "47歳で妊娠 子に伝えるの怖かった",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585840?source=rss",
-      "publishedAt": "2026-06-27T00:20:40.000Z",
-      "xQuery": "4人が乗った車が横転 2人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6585863?source=rss",
+      "publishedAt": "2026-06-27T04:31:25.000Z",
+      "xQuery": "47歳で妊娠 子に伝えるの怖かった"
     }
   ]
 };
