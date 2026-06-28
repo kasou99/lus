@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T10:20:42.286Z",
+  "updatedAt": "2026-06-28T11:15:00.067Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-28T02:29:13.000Z"
       },
       {
+        "time": "19:34",
+        "title": "大阪市で工場火災 隣の建物に延焼",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586029?source=rss",
+        "publishedAt": "2026-06-28T10:34:34.000Z"
+      },
+      {
         "time": "18:50",
         "title": "タクシーが自転車をはねる 死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586027?source=rss",
         "publishedAt": "2026-06-28T09:50:21.000Z"
-      },
-      {
-        "time": "23:02",
-        "title": "タイヤにワイヤー絡まり横転 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585934?source=rss",
-        "publishedAt": "2026-06-27T14:02:49.000Z"
       }
     ],
     "subsidyHeadlines": [

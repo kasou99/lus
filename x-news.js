@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-28T10:20:43.036Z",
+  "updatedAt": "2026-06-28T11:15:00.846Z",
   "items": [
     {
       "time": "18:19",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "比例45減なら中小政党へ影響 試算"
     },
     {
-      "time": "17:22",
-      "title": "5歳不明1週間 母「後悔やまない」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586015?source=rss",
-      "publishedAt": "2026-06-28T08:22:24.000Z",
-      "xQuery": "5歳不明1週間 母「後悔やまない」"
-    },
-    {
       "time": "18:50",
       "title": "タクシーが自転車をはねる 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6586027?source=rss",
       "publishedAt": "2026-06-28T09:50:21.000Z",
       "xQuery": "タクシーが自転車をはねる 死亡"
+    },
+    {
+      "time": "19:34",
+      "title": "大阪市で工場火災 隣の建物に延焼",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586029?source=rss",
+      "publishedAt": "2026-06-28T10:34:34.000Z",
+      "xQuery": "大阪市で工場火災 隣の建物に延焼"
     },
     {
       "time": "17:13",
