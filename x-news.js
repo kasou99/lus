@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-28T21:29:39.162Z",
+  "updatedAt": "2026-06-28T21:56:52.098Z",
   "items": [
     {
       "time": "20:52",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "露兵器に日本企業の部品 ウ指摘"
     },
     {
-      "time": "22:23",
-      "title": "フランスで小型機墜落 11人死亡",
+      "time": "06:27",
+      "title": "近鉄京都駅構内 普通列車が脱線",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586041?source=rss",
-      "publishedAt": "2026-06-28T13:23:25.000Z",
-      "xQuery": "フランスで小型機墜落 11人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6586052?source=rss",
+      "publishedAt": "2026-06-28T21:27:57.000Z",
+      "xQuery": "近鉄京都駅構内 普通列車が脱線"
+    },
+    {
+      "time": "06:49",
+      "title": "別府ひき逃げ4年 県警新映像公開",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586053?source=rss",
+      "publishedAt": "2026-06-28T21:49:11.000Z",
+      "xQuery": "別府ひき逃げ4年 県警新映像公開"
     },
     {
       "time": "21:55",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586038?source=rss",
       "publishedAt": "2026-06-28T12:55:19.000Z",
       "xQuery": "車が店に突っ込む 巻き込まれ死亡"
-    },
-    {
-      "time": "00:05",
-      "title": "クマ被害か「人らしきもの」発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586049?source=rss",
-      "publishedAt": "2026-06-28T15:05:13.000Z",
-      "xQuery": "クマ被害か「人らしきもの」発見"
     }
   ]
 };

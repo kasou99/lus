@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T21:29:38.433Z",
+  "updatedAt": "2026-06-28T21:56:51.337Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "TVer",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QNWx4NGpzNXhoOXJldzMxay1sQUxtWVB5R083aV9Rei1MQXJKa0pFdXlfNWl1UURtS0ZhWDQ0LUExS2VjYXFVNTVsRQ?oc=5",
         "publishedAt": "2026-06-28T09:17:01.000Z"
+      },
+      {
+        "time": "05:03",
+        "title": "講壇／「マルクス2.0」は世界を救えるか 日本国際問題研究所客員研究員（現代中国研究家）・津上俊哉",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mSy1PNjM1Vnd6emFUc1h1OXJLVHN1SGwxRU1xS0l5X3JCU1ZSNFJaY0VueUlyTlNWT2NHR05nVi02THN2NTlvSEQzcXlKSXhsQTg1bGJFQlp0cU0?oc=5",
+        "publishedAt": "2026-06-28T20:03:37.000Z"
       },
       {
         "time": "10:24",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585998?source=rss",
         "publishedAt": "2026-06-28T06:28:17.000Z"
-      },
-      {
-        "time": "12:45",
-        "title": "案件激減 フリーランス41歳の現実",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585981?source=rss",
-        "publishedAt": "2026-06-28T03:45:42.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-06-28T21:27:57.000Z"
       },
       {
+        "time": "06:49",
+        "title": "別府ひき逃げ4年 県警新映像公開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586053?source=rss",
+        "publishedAt": "2026-06-28T21:49:11.000Z"
+      },
+      {
         "time": "21:55",
         "title": "車が店に突っ込む 巻き込まれ死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586048?source=rss",
         "publishedAt": "2026-06-28T14:51:31.000Z"
-      },
-      {
-        "time": "18:50",
-        "title": "タクシーが自転車をはねる 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586027?source=rss",
-        "publishedAt": "2026-06-28T09:50:21.000Z"
       }
     ],
     "subsidyHeadlines": [
