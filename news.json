@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T13:02:01.243Z",
+  "updatedAt": "2026-06-28T14:13:19.056Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "22:23",
+        "title": "フランスで小型機墜落 11人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586041?source=rss",
+        "publishedAt": "2026-06-28T13:23:25.000Z"
+      },
+      {
         "time": "21:26",
         "title": "米イラン攻撃応酬 停戦維持に試練",
         "source": "Yahoo!ニュース",
@@ -68,18 +75,11 @@
         "publishedAt": "2026-06-28T12:26:49.000Z"
       },
       {
-        "time": "08:51",
-        "title": "米軍 イランの複数標的を空爆",
+        "time": "22:54",
+        "title": "露兵器に日本企業の部品 ウ指摘",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585957?source=rss",
-        "publishedAt": "2026-06-27T23:51:17.000Z"
-      },
-      {
-        "time": "17:45",
-        "title": "イラン 米の空爆は覚書違反と非難",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585900?source=rss",
-        "publishedAt": "2026-06-27T08:45:15.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586042?source=rss",
+        "publishedAt": "2026-06-28T13:54:56.000Z"
       },
       {
         "time": "15:44",

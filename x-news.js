@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-28T13:02:02.226Z",
+  "updatedAt": "2026-06-28T14:13:19.690Z",
   "items": [
     {
       "time": "21:26",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン攻撃応酬 停戦維持に試練"
     },
     {
-      "time": "17:44",
-      "title": "運動の胸の悩み 元選手が商品開発",
+      "time": "18:42",
+      "title": "台風で避難所 眠るときに震度5弱",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586017?source=rss",
-      "publishedAt": "2026-06-28T08:44:23.000Z",
-      "xQuery": "運動の胸の悩み 元選手が商品開発"
+      "url": "https://news.yahoo.co.jp/pickup/6586025?source=rss",
+      "publishedAt": "2026-06-28T09:42:23.000Z",
+      "xQuery": "台風で避難所 眠るときに震度5弱"
+    },
+    {
+      "time": "22:23",
+      "title": "フランスで小型機墜落 11人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586041?source=rss",
+      "publishedAt": "2026-06-28T13:23:25.000Z",
+      "xQuery": "フランスで小型機墜落 11人死亡"
     },
     {
       "time": "21:55",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586038?source=rss",
       "publishedAt": "2026-06-28T12:55:19.000Z",
       "xQuery": "車が店に突っ込む 巻き込まれ死亡"
-    },
-    {
-      "time": "19:34",
-      "title": "大阪市で工場火災 隣の建物に延焼",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586029?source=rss",
-      "publishedAt": "2026-06-28T10:34:34.000Z",
-      "xQuery": "大阪市で工場火災 隣の建物に延焼"
     },
     {
       "time": "20:36",
