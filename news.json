@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T03:49:19.920Z",
+  "updatedAt": "2026-06-28T05:39:14.217Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,18 +156,18 @@
         "publishedAt": "2026-06-27T12:24:06.000Z"
       },
       {
-        "time": "20:15",
-        "title": "「ドーン」地面陥没 福岡の住宅街",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585919?source=rss",
-        "publishedAt": "2026-06-27T11:15:51.000Z"
-      },
-      {
         "time": "11:29",
         "title": "辺野古沖で生徒死亡 母と姉の心境",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585972?source=rss",
         "publishedAt": "2026-06-28T02:29:13.000Z"
+      },
+      {
+        "time": "14:26",
+        "title": "家族湯で5歳不明 範囲広げて捜索",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585993?source=rss",
+        "publishedAt": "2026-06-28T05:26:26.000Z"
       },
       {
         "time": "07:55",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-27T22:55:52.000Z"
       },
       {
+        "time": "12:59",
+        "title": "タクシーと自転車が衝突 女性重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585983?source=rss",
+        "publishedAt": "2026-06-28T03:59:15.000Z"
+      },
+      {
         "time": "23:02",
         "title": "タイヤにワイヤー絡まり横転 死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585934?source=rss",
         "publishedAt": "2026-06-27T14:02:49.000Z"
-      },
-      {
-        "time": "16:55",
-        "title": "車が海に落ち夫婦死亡 誤操作か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585890?source=rss",
-        "publishedAt": "2026-06-27T07:55:37.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -215,13 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "16:00",
-        "title": "設備投資に使える補助金まとめ【2026年・目的別】省力化・業務改善助成金など最大1億円の支援を解説",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41Tk91V0hXbzlDZktaTzFPeHd3dS1yZUVpNjVsSHo5aURNd3Y0ZGhPMXZpVEJuOFEyaVNJb0hsWENjSjdVLXUzV1pmd3hjYnJEN05CN2lTQzlwdzNZdFo5SHAwZ1l2dXZzVzJHVHhuejA?oc=5",
-        "publishedAt": "2026-06-16T07:00:00.000Z"
       }
     ]
   }

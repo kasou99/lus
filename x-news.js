@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-28T03:49:20.526Z",
+  "updatedAt": "2026-06-28T05:39:20.931Z",
   "items": [
     {
-      "time": "11:57",
-      "title": "ベネズエラ地震発生72h 懸命捜索",
+      "time": "13:54",
+      "title": "近畿・中国・四国 土砂崩れ相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585977?source=rss",
-      "publishedAt": "2026-06-28T02:57:49.000Z",
-      "xQuery": "ベネズエラ地震発生72h 懸命捜索"
+      "url": "https://news.yahoo.co.jp/pickup/6585991?source=rss",
+      "publishedAt": "2026-06-28T04:54:55.000Z",
+      "xQuery": "近畿・中国・四国 土砂崩れ相次ぐ"
     },
     {
-      "time": "10:25",
-      "title": "法廷で無断録音 電力会社の内情",
+      "time": "13:30",
+      "title": "野党が審議復帰するか 国会の焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585968?source=rss",
-      "publishedAt": "2026-06-28T01:25:48.000Z",
-      "xQuery": "法廷で無断録音 電力会社の内情"
+      "url": "https://news.yahoo.co.jp/pickup/6585989?source=rss",
+      "publishedAt": "2026-06-28T04:30:41.000Z",
+      "xQuery": "野党が審議復帰するか 国会の焦点"
     },
     {
-      "time": "11:29",
-      "title": "辺野古沖で生徒死亡 母と姉の心境",
+      "time": "12:59",
+      "title": "タクシーと自転車が衝突 女性重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585972?source=rss",
-      "publishedAt": "2026-06-28T02:29:13.000Z",
-      "xQuery": "辺野古沖で生徒死亡 母と姉の心境"
+      "url": "https://news.yahoo.co.jp/pickup/6585983?source=rss",
+      "publishedAt": "2026-06-28T03:59:15.000Z",
+      "xQuery": "タクシーと自転車が衝突 女性重体"
     },
     {
       "time": "12:45",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "案件激減 フリーランス41歳の現実"
     },
     {
-      "time": "08:29",
-      "title": "奥様は失礼? 配偶者呼び方に悩み",
+      "time": "12:08",
+      "title": "D-MAX並行輸入 価格は競合の倍",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585953?source=rss",
-      "publishedAt": "2026-06-27T23:29:03.000Z",
-      "xQuery": "奥様は失礼? 配偶者呼び方に悩み"
+      "url": "https://news.yahoo.co.jp/pickup/6585978?source=rss",
+      "publishedAt": "2026-06-28T03:08:06.000Z",
+      "xQuery": "D-MAX並行輸入 価格は競合の倍"
     }
   ]
 };
