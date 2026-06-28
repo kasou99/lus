@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T22:29:32.023Z",
+  "updatedAt": "2026-06-28T22:56:44.585Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-28T09:19:48.000Z"
       },
       {
-        "time": "10:25",
-        "title": "法廷で無断録音 電力会社の内情",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585968?source=rss",
-        "publishedAt": "2026-06-28T01:25:48.000Z"
-      },
-      {
         "time": "17:13",
         "title": "「軽タクシー」解禁 現場の違和感",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586013?source=rss",
         "publishedAt": "2026-06-28T08:13:24.000Z"
+      },
+      {
+        "time": "15:28",
+        "title": "「独身マイホーム」増 メリデメは",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585998?source=rss",
+        "publishedAt": "2026-06-28T06:28:17.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-06-28T09:19:48.000Z"
       },
       {
-        "time": "10:25",
-        "title": "法廷で無断録音 電力会社の内情",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585968?source=rss",
-        "publishedAt": "2026-06-28T01:25:48.000Z"
-      },
-      {
         "time": "17:13",
         "title": "「軽タクシー」解禁 現場の違和感",
         "source": "Yahoo!ニュース",
@@ -131,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585998?source=rss",
         "publishedAt": "2026-06-28T06:28:17.000Z"
+      },
+      {
+        "time": "07:33",
+        "title": "静岡ローカル・さわやか 成長の訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586057?source=rss",
+        "publishedAt": "2026-06-28T22:33:02.000Z"
       },
       {
         "time": "12:45",

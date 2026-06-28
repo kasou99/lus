@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-28T22:29:32.713Z",
+  "updatedAt": "2026-06-28T22:56:45.352Z",
   "items": [
     {
       "time": "07:21",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586056?source=rss",
       "publishedAt": "2026-06-28T22:21:49.000Z",
       "xQuery": "米・イランが攻撃停止で合意 報道"
-    },
-    {
-      "time": "22:54",
-      "title": "露兵器に日本企業の部品 ウ指摘",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586042?source=rss",
-      "publishedAt": "2026-06-28T13:54:56.000Z",
-      "xQuery": "露兵器に日本企業の部品 ウ指摘"
     },
     {
       "time": "06:27",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "風俗店で男女死亡 従業員と客か"
     },
     {
-      "time": "06:49",
-      "title": "別府ひき逃げ4年 県警新映像公開",
+      "time": "00:05",
+      "title": "クマ被害か「人らしきもの」発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586053?source=rss",
-      "publishedAt": "2026-06-28T21:49:11.000Z",
-      "xQuery": "別府ひき逃げ4年 県警新映像公開"
+      "url": "https://news.yahoo.co.jp/pickup/6586049?source=rss",
+      "publishedAt": "2026-06-28T15:05:13.000Z",
+      "xQuery": "クマ被害か「人らしきもの」発見"
+    },
+    {
+      "time": "07:33",
+      "title": "静岡ローカル・さわやか 成長の訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586057?source=rss",
+      "publishedAt": "2026-06-28T22:33:02.000Z",
+      "xQuery": "静岡ローカル・さわやか 成長の訳"
     }
   ]
 };
