@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-28T21:56:52.098Z",
+  "updatedAt": "2026-06-28T22:29:32.713Z",
   "items": [
     {
-      "time": "20:52",
-      "title": "日韓防衛相会談 AIなど連携強化へ",
+      "time": "07:21",
+      "title": "米・イランが攻撃停止で合意 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586034?source=rss",
-      "publishedAt": "2026-06-28T11:52:39.000Z",
-      "xQuery": "日韓防衛相会談 AIなど連携強化へ"
+      "url": "https://news.yahoo.co.jp/pickup/6586056?source=rss",
+      "publishedAt": "2026-06-28T22:21:49.000Z",
+      "xQuery": "米・イランが攻撃停止で合意 報道"
     },
     {
       "time": "22:54",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "近鉄京都駅構内 普通列車が脱線"
     },
     {
+      "time": "07:13",
+      "title": "風俗店で男女死亡 従業員と客か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586055?source=rss",
+      "publishedAt": "2026-06-28T22:13:40.000Z",
+      "xQuery": "風俗店で男女死亡 従業員と客か"
+    },
+    {
       "time": "06:49",
       "title": "別府ひき逃げ4年 県警新映像公開",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6586053?source=rss",
       "publishedAt": "2026-06-28T21:49:11.000Z",
       "xQuery": "別府ひき逃げ4年 県警新映像公開"
-    },
-    {
-      "time": "21:55",
-      "title": "車が店に突っ込む 巻き込まれ死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586038?source=rss",
-      "publishedAt": "2026-06-28T12:55:19.000Z",
-      "xQuery": "車が店に突っ込む 巻き込まれ死亡"
     }
   ]
 };
