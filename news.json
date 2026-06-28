@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T20:34:01.847Z",
+  "updatedAt": "2026-06-28T21:29:38.433Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "06:27",
+        "title": "近鉄京都駅構内 普通列車が脱線",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586052?source=rss",
+        "publishedAt": "2026-06-28T21:27:57.000Z"
+      },
+      {
         "time": "21:55",
         "title": "車が店に突っ込む 巻き込まれ死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586038?source=rss",
         "publishedAt": "2026-06-28T12:55:19.000Z"
-      },
-      {
-        "time": "18:42",
-        "title": "台風で避難所 眠るときに震度5弱",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586025?source=rss",
-        "publishedAt": "2026-06-28T09:42:23.000Z"
       },
       {
         "time": "17:22",
@@ -215,13 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "16:00",
-        "title": "物価高騰や米国関税措置・中東情勢の変化等により影響を受ける県内事業者の皆様への主な支援策",
-        "source": "pref.hiroshima.lg.jp",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ed24zSjhRX0NxVnYxeFMxallrVW5sQXh5SV8yY1VUXzI0ajIwQVpVb2hTalZlU3AybmJrSVZ3U2F2MWU3bkVzb2RvNTlyaEZOQ2tDN1dUQjJKR1NVQ2tHYU1rSjhKZWoybllUVnpn?oc=5",
-        "publishedAt": "2026-06-18T07:00:00.000Z"
       },
       {
         "time": "16:00",
