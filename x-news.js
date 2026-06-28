@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-28T05:39:20.931Z",
+  "updatedAt": "2026-06-28T07:33:41.290Z",
   "items": [
     {
       "time": "13:54",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "近畿・中国・四国 土砂崩れ相次ぐ"
     },
     {
-      "time": "13:30",
-      "title": "野党が審議復帰するか 国会の焦点",
+      "time": "15:07",
+      "title": "ミュトス5 米政府なぜ国内限定に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585989?source=rss",
-      "publishedAt": "2026-06-28T04:30:41.000Z",
-      "xQuery": "野党が審議復帰するか 国会の焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6585997?source=rss",
+      "publishedAt": "2026-06-28T06:07:51.000Z",
+      "xQuery": "ミュトス5 米政府なぜ国内限定に"
     },
     {
-      "time": "12:59",
-      "title": "タクシーと自転車が衝突 女性重体",
+      "time": "15:28",
+      "title": "「独身マイホーム」増 メリデメは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585983?source=rss",
-      "publishedAt": "2026-06-28T03:59:15.000Z",
-      "xQuery": "タクシーと自転車が衝突 女性重体"
-    },
-    {
-      "time": "12:45",
-      "title": "案件激減 フリーランス41歳の現実",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585981?source=rss",
-      "publishedAt": "2026-06-28T03:45:42.000Z",
-      "xQuery": "案件激減 フリーランス41歳の現実"
+      "url": "https://news.yahoo.co.jp/pickup/6585998?source=rss",
+      "publishedAt": "2026-06-28T06:28:17.000Z",
+      "xQuery": "「独身マイホーム」増 メリデメは"
     },
     {
       "time": "12:08",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585978?source=rss",
       "publishedAt": "2026-06-28T03:08:06.000Z",
       "xQuery": "D-MAX並行輸入 価格は競合の倍"
+    },
+    {
+      "time": "15:53",
+      "title": "鹿せんべい爆売れ 愛護会は懸念も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586004?source=rss",
+      "publishedAt": "2026-06-28T06:53:41.000Z",
+      "xQuery": "鹿せんべい爆売れ 愛護会は懸念も"
     }
   ]
 };
