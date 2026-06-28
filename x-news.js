@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-28T15:03:44.809Z",
+  "updatedAt": "2026-06-28T15:56:40.852Z",
   "items": [
     {
       "time": "20:52",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車が店に突っ込む 巻き込まれ死亡"
     },
     {
-      "time": "23:51",
-      "title": "大阪で工場火災 延焼し8棟焼ける",
+      "time": "00:05",
+      "title": "クマ被害か「人らしきもの」発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586048?source=rss",
-      "publishedAt": "2026-06-28T14:51:31.000Z",
-      "xQuery": "大阪で工場火災 延焼し8棟焼ける"
+      "url": "https://news.yahoo.co.jp/pickup/6586049?source=rss",
+      "publishedAt": "2026-06-28T15:05:13.000Z",
+      "xQuery": "クマ被害か「人らしきもの」発見"
     }
   ]
 };
