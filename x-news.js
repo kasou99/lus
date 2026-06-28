@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-27T23:56:40.156Z",
+  "updatedAt": "2026-06-28T01:18:25.286Z",
   "items": [
+    {
+      "time": "10:15",
+      "title": "美輪明宏さん死去 91歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585969?source=rss",
+      "publishedAt": "2026-06-28T01:15:05.000Z",
+      "xQuery": "美輪明宏さん死去 91歳"
+    },
     {
       "time": "08:51",
       "title": "米軍 イランの複数標的を空爆",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東 少しの雨でも土砂災害に注意"
     },
     {
-      "time": "08:03",
-      "title": "育休なら学童退所 主要自治体6割",
+      "time": "09:36",
+      "title": "いいね購入?「スマホ農場」とは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585951?source=rss",
-      "publishedAt": "2026-06-27T23:03:11.000Z",
-      "xQuery": "育休なら学童退所 主要自治体6割"
+      "url": "https://news.yahoo.co.jp/pickup/6585963?source=rss",
+      "publishedAt": "2026-06-28T00:36:21.000Z",
+      "xQuery": "いいね購入?「スマホ農場」とは"
     },
     {
       "time": "07:55",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6585947?source=rss",
       "publishedAt": "2026-06-27T22:55:52.000Z",
       "xQuery": "車横転2人死亡 運転の高校生逮捕"
-    },
-    {
-      "time": "08:17",
-      "title": "床に食べ物「3秒ルール」真実は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585952?source=rss",
-      "publishedAt": "2026-06-27T23:17:23.000Z",
-      "xQuery": "床に食べ物「3秒ルール」真実は"
     }
   ]
 };

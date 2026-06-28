@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-27T23:56:39.173Z",
+  "updatedAt": "2026-06-28T01:18:23.988Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "16:00",
         "title": "ハウジング付きサーボモーターの世界市場（2026年～2032年）、市場規模（DC、AC）・分析レポートを発表",
         "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91VUN0Ukx1QUxsN21xUmtDVnRmRHRzU0I2NTB3SnhKQTNiQXpBaEp6dVdyaWd0aW5pNDJ5TTRJcFJLdEtveUdMbG55RE8?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhNHhHY2VQbEFOZzlqRGQ3TkFGeFZXVnNpNHRPVldsWlFiWDFFNWVOcEdwdFVYcFFkcWdmS2ZibTl1OXNzVHEw?oc=5",
         "publishedAt": "2026-06-27T07:00:00.000Z"
       },
       {
@@ -75,13 +75,6 @@
         "publishedAt": "2026-06-27T08:45:15.000Z"
       },
       {
-        "time": "10:24",
-        "title": "イラン側が米軍基地攻撃 報復応酬",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585848?source=rss",
-        "publishedAt": "2026-06-27T01:24:06.000Z"
-      },
-      {
         "time": "07:08",
         "title": "ベネズエラ地震 死者1400人超",
         "source": "Yahoo!ニュース",
@@ -94,6 +87,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585941?source=rss",
         "publishedAt": "2026-06-27T20:55:28.000Z"
+      },
+      {
+        "time": "09:27",
+        "title": "ドイツで41.5度 最高気温を更新",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585961?source=rss",
+        "publishedAt": "2026-06-28T00:27:29.000Z"
       },
       {
         "time": "21:41",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-06-26T07:07:46.000Z"
       },
       {
-        "time": "11:41",
-        "title": "ホンダ社長謝罪 4千億円超の赤字",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585724?source=rss",
-        "publishedAt": "2026-06-26T02:41:43.000Z"
-      },
-      {
         "time": "13:00",
         "title": "iPadなど値上げ Appleの株価下落",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585737?source=rss",
         "publishedAt": "2026-06-26T04:00:24.000Z"
+      },
+      {
+        "time": "09:04",
+        "title": "ファッションの流行 なぜ20年周期",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585958?source=rss",
+        "publishedAt": "2026-06-28T00:04:08.000Z"
       }
     ],
     "localHeadlines": [
