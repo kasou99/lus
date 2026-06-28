@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T12:03:22.012Z",
+  "updatedAt": "2026-06-28T13:02:01.243Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,25 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "15:44",
-        "title": "ベネズエラ地震 3日後に11歳救出",
+        "time": "21:26",
+        "title": "米イラン攻撃応酬 停戦維持に試練",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586000?source=rss",
-        "publishedAt": "2026-06-28T06:44:34.000Z"
-      },
-      {
-        "time": "11:57",
-        "title": "ベネズエラ地震発生72h 懸命捜索",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585977?source=rss",
-        "publishedAt": "2026-06-28T02:57:49.000Z"
-      },
-      {
-        "time": "07:08",
-        "title": "ベネズエラ地震 死者1400人超",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585942?source=rss",
-        "publishedAt": "2026-06-27T22:08:08.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586037?source=rss",
+        "publishedAt": "2026-06-28T12:26:49.000Z"
       },
       {
         "time": "08:51",
@@ -94,6 +80,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585900?source=rss",
         "publishedAt": "2026-06-27T08:45:15.000Z"
+      },
+      {
+        "time": "15:44",
+        "title": "ベネズエラ地震 3日後に11歳救出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586000?source=rss",
+        "publishedAt": "2026-06-28T06:44:34.000Z"
+      },
+      {
+        "time": "07:08",
+        "title": "ベネズエラ地震 死者1400人超",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585942?source=rss",
+        "publishedAt": "2026-06-27T22:08:08.000Z"
       },
       {
         "time": "05:55",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "21:55",
+        "title": "車が店に突っ込む 巻き込まれ死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586038?source=rss",
+        "publishedAt": "2026-06-28T12:55:19.000Z"
+      },
+      {
         "time": "18:42",
         "title": "台風で避難所 眠るときに震度5弱",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586029?source=rss",
         "publishedAt": "2026-06-28T10:34:34.000Z"
-      },
-      {
-        "time": "18:50",
-        "title": "タクシーが自転車をはねる 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586027?source=rss",
-        "publishedAt": "2026-06-28T09:50:21.000Z"
       }
     ],
     "subsidyHeadlines": [

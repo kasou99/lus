@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-28T12:03:23.096Z",
+  "updatedAt": "2026-06-28T13:02:02.226Z",
   "items": [
     {
-      "time": "18:19",
-      "title": "賃金の地域間格差15万円超に 25年",
+      "time": "21:26",
+      "title": "米イラン攻撃応酬 停戦維持に試練",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586019?source=rss",
-      "publishedAt": "2026-06-28T09:19:48.000Z",
-      "xQuery": "賃金の地域間格差15万円超に 25年"
+      "url": "https://news.yahoo.co.jp/pickup/6586037?source=rss",
+      "publishedAt": "2026-06-28T12:26:49.000Z",
+      "xQuery": "米イラン攻撃応酬 停戦維持に試練"
     },
     {
       "time": "17:44",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "運動の胸の悩み 元選手が商品開発"
     },
     {
-      "time": "18:50",
-      "title": "タクシーが自転車をはねる 死亡",
+      "time": "21:55",
+      "title": "車が店に突っ込む 巻き込まれ死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586027?source=rss",
-      "publishedAt": "2026-06-28T09:50:21.000Z",
-      "xQuery": "タクシーが自転車をはねる 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6586038?source=rss",
+      "publishedAt": "2026-06-28T12:55:19.000Z",
+      "xQuery": "車が店に突っ込む 巻き込まれ死亡"
     },
     {
       "time": "19:34",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大阪市で工場火災 隣の建物に延焼"
     },
     {
-      "time": "17:13",
-      "title": "「軽タクシー」解禁 現場の違和感",
+      "time": "20:36",
+      "title": "結婚式のムービー事情 進む二極化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586013?source=rss",
-      "publishedAt": "2026-06-28T08:13:24.000Z",
-      "xQuery": "「軽タクシー」解禁 現場の違和感"
+      "url": "https://news.yahoo.co.jp/pickup/6586035?source=rss",
+      "publishedAt": "2026-06-28T11:36:38.000Z",
+      "xQuery": "結婚式のムービー事情 進む二極化"
     }
   ]
 };
