@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-28T11:15:00.846Z",
+  "updatedAt": "2026-06-28T12:03:23.096Z",
   "items": [
     {
       "time": "18:19",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "賃金の地域間格差15万円超に 25年"
     },
     {
-      "time": "17:09",
-      "title": "比例45減なら中小政党へ影響 試算",
+      "time": "17:44",
+      "title": "運動の胸の悩み 元選手が商品開発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586011?source=rss",
-      "publishedAt": "2026-06-28T08:09:54.000Z",
-      "xQuery": "比例45減なら中小政党へ影響 試算"
+      "url": "https://news.yahoo.co.jp/pickup/6586017?source=rss",
+      "publishedAt": "2026-06-28T08:44:23.000Z",
+      "xQuery": "運動の胸の悩み 元選手が商品開発"
     },
     {
       "time": "18:50",
