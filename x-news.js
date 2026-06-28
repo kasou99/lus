@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-28T09:12:22.195Z",
+  "updatedAt": "2026-06-28T10:20:43.036Z",
   "items": [
+    {
+      "time": "18:19",
+      "title": "賃金の地域間格差15万円超に 25年",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586019?source=rss",
+      "publishedAt": "2026-06-28T09:19:48.000Z",
+      "xQuery": "賃金の地域間格差15万円超に 25年"
+    },
     {
       "time": "17:09",
       "title": "比例45減なら中小政党へ影響 試算",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586011?source=rss",
       "publishedAt": "2026-06-28T08:09:54.000Z",
       "xQuery": "比例45減なら中小政党へ影響 試算"
-    },
-    {
-      "time": "15:33",
-      "title": "沖北相 抗議船で平和学習に違和感",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585999?source=rss",
-      "publishedAt": "2026-06-28T06:33:02.000Z",
-      "xQuery": "沖北相 抗議船で平和学習に違和感"
     },
     {
       "time": "17:22",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "5歳不明1週間 母「後悔やまない」"
     },
     {
-      "time": "15:28",
-      "title": "「独身マイホーム」増 メリデメは",
+      "time": "18:50",
+      "title": "タクシーが自転車をはねる 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585998?source=rss",
-      "publishedAt": "2026-06-28T06:28:17.000Z",
-      "xQuery": "「独身マイホーム」増 メリデメは"
+      "url": "https://news.yahoo.co.jp/pickup/6586027?source=rss",
+      "publishedAt": "2026-06-28T09:50:21.000Z",
+      "xQuery": "タクシーが自転車をはねる 死亡"
     },
     {
-      "time": "17:18",
-      "title": "吉田寮「現棟」建て替え方針 波紋",
+      "time": "17:13",
+      "title": "「軽タクシー」解禁 現場の違和感",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586014?source=rss",
-      "publishedAt": "2026-06-28T08:18:08.000Z",
-      "xQuery": "吉田寮「現棟」建て替え方針 波紋"
+      "url": "https://news.yahoo.co.jp/pickup/6586013?source=rss",
+      "publishedAt": "2026-06-28T08:13:24.000Z",
+      "xQuery": "「軽タクシー」解禁 現場の違和感"
     }
   ]
 };

@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-28T09:12:21.138Z",
+  "updatedAt": "2026-06-28T10:20:42.286Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "18:17",
+        "title": "栄光と苦難の歴史――老舗機械メーカーの再出発",
+        "source": "TVer",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QNWx4NGpzNXhoOXJldzMxay1sQUxtWVB5R083aV9Rei1MQXJKa0pFdXlfNWl1UURtS0ZhWDQ0LUExS2VjYXFVNTVsRQ?oc=5",
+        "publishedAt": "2026-06-28T09:17:01.000Z"
+      },
       {
         "time": "10:24",
         "title": "都市管理における接続性とデータ相互運用性の向上。",
@@ -10,11 +17,11 @@
         "publishedAt": "2026-06-28T01:24:38.000Z"
       },
       {
-        "time": "23:05",
-        "title": "北陸新幹線 延伸ルート巡り混迷",
+        "time": "18:19",
+        "title": "賃金の地域間格差15万円超に 25年",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585935?source=rss",
-        "publishedAt": "2026-06-27T14:05:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586019?source=rss",
+        "publishedAt": "2026-06-28T09:19:48.000Z"
       },
       {
         "time": "10:25",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585958?source=rss",
         "publishedAt": "2026-06-28T00:04:08.000Z"
-      },
-      {
-        "time": "12:08",
-        "title": "D-MAX並行輸入 価格は競合の倍",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585978?source=rss",
-        "publishedAt": "2026-06-28T03:08:06.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "23:05",
-        "title": "北陸新幹線 延伸ルート巡り混迷",
+        "time": "18:19",
+        "title": "賃金の地域間格差15万円超に 25年",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585935?source=rss",
-        "publishedAt": "2026-06-27T14:05:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586019?source=rss",
+        "publishedAt": "2026-06-28T09:19:48.000Z"
       },
       {
         "time": "10:25",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "18:42",
+        "title": "台風で避難所 眠るときに震度5弱",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586025?source=rss",
+        "publishedAt": "2026-06-28T09:42:23.000Z"
+      },
+      {
         "time": "17:22",
         "title": "5歳不明1週間 母「後悔やまない」",
         "source": "Yahoo!ニュース",
@@ -170,18 +177,11 @@
         "publishedAt": "2026-06-28T02:29:13.000Z"
       },
       {
-        "time": "07:55",
-        "title": "車横転2人死亡 運転の高校生逮捕",
+        "time": "18:50",
+        "title": "タクシーが自転車をはねる 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585947?source=rss",
-        "publishedAt": "2026-06-27T22:55:52.000Z"
-      },
-      {
-        "time": "12:59",
-        "title": "タクシーと自転車が衝突 女性重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585983?source=rss",
-        "publishedAt": "2026-06-28T03:59:15.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586027?source=rss",
+        "publishedAt": "2026-06-28T09:50:21.000Z"
       },
       {
         "time": "23:02",
