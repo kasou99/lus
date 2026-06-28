@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-28T14:13:19.690Z",
+  "updatedAt": "2026-06-28T15:03:44.809Z",
   "items": [
     {
-      "time": "21:26",
-      "title": "米イラン攻撃応酬 停戦維持に試練",
+      "time": "20:52",
+      "title": "日韓防衛相会談 AIなど連携強化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586037?source=rss",
-      "publishedAt": "2026-06-28T12:26:49.000Z",
-      "xQuery": "米イラン攻撃応酬 停戦維持に試練"
+      "url": "https://news.yahoo.co.jp/pickup/6586034?source=rss",
+      "publishedAt": "2026-06-28T11:52:39.000Z",
+      "xQuery": "日韓防衛相会談 AIなど連携強化へ"
     },
     {
-      "time": "18:42",
-      "title": "台風で避難所 眠るときに震度5弱",
+      "time": "22:54",
+      "title": "露兵器に日本企業の部品 ウ指摘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586025?source=rss",
-      "publishedAt": "2026-06-28T09:42:23.000Z",
-      "xQuery": "台風で避難所 眠るときに震度5弱"
+      "url": "https://news.yahoo.co.jp/pickup/6586042?source=rss",
+      "publishedAt": "2026-06-28T13:54:56.000Z",
+      "xQuery": "露兵器に日本企業の部品 ウ指摘"
     },
     {
       "time": "22:23",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車が店に突っ込む 巻き込まれ死亡"
     },
     {
-      "time": "20:36",
-      "title": "結婚式のムービー事情 進む二極化",
+      "time": "23:51",
+      "title": "大阪で工場火災 延焼し8棟焼ける",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586035?source=rss",
-      "publishedAt": "2026-06-28T11:36:38.000Z",
-      "xQuery": "結婚式のムービー事情 進む二極化"
+      "url": "https://news.yahoo.co.jp/pickup/6586048?source=rss",
+      "publishedAt": "2026-06-28T14:51:31.000Z",
+      "xQuery": "大阪で工場火災 延焼し8棟焼ける"
     }
   ]
 };

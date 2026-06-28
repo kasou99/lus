@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T14:13:19.056Z",
+  "updatedAt": "2026-06-28T15:03:43.924Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -170,13 +170,6 @@
         "publishedAt": "2026-06-28T08:22:24.000Z"
       },
       {
-        "time": "14:26",
-        "title": "家族湯で5歳不明 範囲広げて捜索",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585993?source=rss",
-        "publishedAt": "2026-06-28T05:26:26.000Z"
-      },
-      {
         "time": "11:29",
         "title": "辺野古沖で生徒死亡 母と姉の心境",
         "source": "Yahoo!ニュース",
@@ -184,11 +177,18 @@
         "publishedAt": "2026-06-28T02:29:13.000Z"
       },
       {
-        "time": "19:34",
-        "title": "大阪市で工場火災 隣の建物に延焼",
+        "time": "23:51",
+        "title": "大阪で工場火災 延焼し8棟焼ける",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586029?source=rss",
-        "publishedAt": "2026-06-28T10:34:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586048?source=rss",
+        "publishedAt": "2026-06-28T14:51:31.000Z"
+      },
+      {
+        "time": "18:50",
+        "title": "タクシーが自転車をはねる 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586027?source=rss",
+        "publishedAt": "2026-06-28T09:50:21.000Z"
       }
     ],
     "subsidyHeadlines": [
