@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-28T01:18:25.286Z",
+  "updatedAt": "2026-06-28T02:25:14.113Z",
   "items": [
     {
-      "time": "10:15",
-      "title": "美輪明宏さん死去 91歳",
+      "time": "10:25",
+      "title": "法廷で無断録音 電力会社の内情",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585969?source=rss",
-      "publishedAt": "2026-06-28T01:15:05.000Z",
-      "xQuery": "美輪明宏さん死去 91歳"
+      "url": "https://news.yahoo.co.jp/pickup/6585968?source=rss",
+      "publishedAt": "2026-06-28T01:25:48.000Z",
+      "xQuery": "法廷で無断録音 電力会社の内情"
     },
     {
       "time": "08:51",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米軍 イランの複数標的を空爆"
     },
     {
-      "time": "08:47",
-      "title": "関東 少しの雨でも土砂災害に注意",
+      "time": "09:27",
+      "title": "ドイツで41.5度 最高気温を更新",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585955?source=rss",
-      "publishedAt": "2026-06-27T23:47:16.000Z",
-      "xQuery": "関東 少しの雨でも土砂災害に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6585961?source=rss",
+      "publishedAt": "2026-06-28T00:27:29.000Z",
+      "xQuery": "ドイツで41.5度 最高気温を更新"
     },
     {
       "time": "09:36",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "いいね購入?「スマホ農場」とは"
     },
     {
-      "time": "07:55",
-      "title": "車横転2人死亡 運転の高校生逮捕",
+      "time": "08:29",
+      "title": "奥様は失礼? 配偶者呼び方に悩み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585947?source=rss",
-      "publishedAt": "2026-06-27T22:55:52.000Z",
-      "xQuery": "車横転2人死亡 運転の高校生逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6585953?source=rss",
+      "publishedAt": "2026-06-27T23:29:03.000Z",
+      "xQuery": "奥様は失礼? 配偶者呼び方に悩み"
     }
   ]
 };
