@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-28T02:25:14.113Z",
+  "updatedAt": "2026-06-28T03:49:20.526Z",
   "items": [
+    {
+      "time": "11:57",
+      "title": "ベネズエラ地震発生72h 懸命捜索",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6585977?source=rss",
+      "publishedAt": "2026-06-28T02:57:49.000Z",
+      "xQuery": "ベネズエラ地震発生72h 懸命捜索"
+    },
     {
       "time": "10:25",
       "title": "法廷で無断録音 電力会社の内情",
@@ -10,28 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "法廷で無断録音 電力会社の内情"
     },
     {
-      "time": "08:51",
-      "title": "米軍 イランの複数標的を空爆",
+      "time": "11:29",
+      "title": "辺野古沖で生徒死亡 母と姉の心境",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585957?source=rss",
-      "publishedAt": "2026-06-27T23:51:17.000Z",
-      "xQuery": "米軍 イランの複数標的を空爆"
+      "url": "https://news.yahoo.co.jp/pickup/6585972?source=rss",
+      "publishedAt": "2026-06-28T02:29:13.000Z",
+      "xQuery": "辺野古沖で生徒死亡 母と姉の心境"
     },
     {
-      "time": "09:27",
-      "title": "ドイツで41.5度 最高気温を更新",
+      "time": "12:45",
+      "title": "案件激減 フリーランス41歳の現実",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585961?source=rss",
-      "publishedAt": "2026-06-28T00:27:29.000Z",
-      "xQuery": "ドイツで41.5度 最高気温を更新"
-    },
-    {
-      "time": "09:36",
-      "title": "いいね購入?「スマホ農場」とは",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585963?source=rss",
-      "publishedAt": "2026-06-28T00:36:21.000Z",
-      "xQuery": "いいね購入?「スマホ農場」とは"
+      "url": "https://news.yahoo.co.jp/pickup/6585981?source=rss",
+      "publishedAt": "2026-06-28T03:45:42.000Z",
+      "xQuery": "案件激減 フリーランス41歳の現実"
     },
     {
       "time": "08:29",

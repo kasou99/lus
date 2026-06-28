@@ -1,28 +1,7 @@
 {
-  "updatedAt": "2026-06-28T02:25:13.284Z",
+  "updatedAt": "2026-06-28T03:49:19.920Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "16:00",
-        "title": "ハウジング付きサーボモーターの世界市場（2026年～2032年）、市場規模（DC、AC）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhNHhHY2VQbEFOZzlqRGQ3TkFGeFZXVnNpNHRPVldsWlFiWDFFNWVOcEdwdFVYcFFkcWdmS2ZibTl1OXNzVHEw?oc=5",
-        "publishedAt": "2026-06-27T07:00:00.000Z"
-      },
-      {
-        "time": "13:30",
-        "title": "ワークピース・工作機械・プローブの世界市場（2026年～2032年）、市場規模（ワイヤレス、有線）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VUTV5bWQtcGtiNlZYczQ2c1RieEY5MlFVckZ3WHZQdUZHdjJRc0F5WFFFdkJucTRGRFJEcTFpbmhOQXVjVlI2emNlNjZVOW8?oc=5",
-        "publishedAt": "2026-06-27T04:30:00.000Z"
-      },
-      {
-        "time": "10:24",
-        "title": "都市管理における接続性とデータ相互運用性の向上。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR2NHSjRVSEtHZ0xjbjdsSUxWOGZMcjBGY1Q5WDExWnNRVlpJcDFzV2tPODh1NnFLLXVna1I3MmpPT1R1SkpsUG5OVVVRcVYwNGlScTJZTUxTRnBoMVlDVC1qNVNVaF9rX0JOQUlMS1lBalE0S3MtS2VDZFNMT1Y5MzVDaFR6VHQ2TW1uVw?oc=5",
-        "publishedAt": "2026-06-28T01:24:38.000Z"
-      },
       {
         "time": "23:05",
         "title": "北陸新幹線 延伸ルート巡り混迷",
@@ -52,11 +31,32 @@
         "publishedAt": "2026-06-26T08:48:28.000Z"
       },
       {
-        "time": "16:07",
-        "title": "ゴーン氏 ‌復帰求める声に言及",
+        "time": "12:45",
+        "title": "案件激減 フリーランス41歳の現実",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585756?source=rss",
-        "publishedAt": "2026-06-26T07:07:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585981?source=rss",
+        "publishedAt": "2026-06-28T03:45:42.000Z"
+      },
+      {
+        "time": "09:04",
+        "title": "ファッションの流行 なぜ20年周期",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585958?source=rss",
+        "publishedAt": "2026-06-28T00:04:08.000Z"
+      },
+      {
+        "time": "12:08",
+        "title": "D-MAX並行輸入 価格は競合の倍",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585978?source=rss",
+        "publishedAt": "2026-06-28T03:08:06.000Z"
+      },
+      {
+        "time": "10:02",
+        "title": "ラーメン専門店「冷やし」なぜ増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585847?source=rss",
+        "publishedAt": "2026-06-27T01:02:01.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585900?source=rss",
         "publishedAt": "2026-06-27T08:45:15.000Z"
+      },
+      {
+        "time": "11:57",
+        "title": "ベネズエラ地震発生72h 懸命捜索",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585977?source=rss",
+        "publishedAt": "2026-06-28T02:57:49.000Z"
       },
       {
         "time": "07:08",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585961?source=rss",
         "publishedAt": "2026-06-28T00:27:29.000Z"
-      },
-      {
-        "time": "21:41",
-        "title": "北京小型機衝突 当局発表は1日後",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585929?source=rss",
-        "publishedAt": "2026-06-27T12:41:18.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,11 +133,11 @@
         "publishedAt": "2026-06-26T08:48:28.000Z"
       },
       {
-        "time": "16:07",
-        "title": "ゴーン氏 ‌復帰求める声に言及",
+        "time": "12:45",
+        "title": "案件激減 フリーランス41歳の現実",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585756?source=rss",
-        "publishedAt": "2026-06-26T07:07:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6585981?source=rss",
+        "publishedAt": "2026-06-28T03:45:42.000Z"
       },
       {
         "time": "09:04",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-06-27T11:15:51.000Z"
       },
       {
+        "time": "11:29",
+        "title": "辺野古沖で生徒死亡 母と姉の心境",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585972?source=rss",
+        "publishedAt": "2026-06-28T02:29:13.000Z"
+      },
+      {
         "time": "07:55",
         "title": "車横転2人死亡 運転の高校生逮捕",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585890?source=rss",
         "publishedAt": "2026-06-27T07:55:37.000Z"
-      },
-      {
-        "time": "21:11",
-        "title": "川に車転落 流されそうな2歳救助",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585926?source=rss",
-        "publishedAt": "2026-06-27T12:11:53.000Z"
       }
     ],
     "subsidyHeadlines": [
