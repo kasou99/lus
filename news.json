@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T07:33:40.619Z",
+  "updatedAt": "2026-06-28T09:12:21.138Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,11 @@
         "publishedAt": "2026-06-28T01:25:48.000Z"
       },
       {
-        "time": "17:48",
-        "title": "日産60万台リコール ノートなど",
+        "time": "17:13",
+        "title": "「軽タクシー」解禁 現場の違和感",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585774?source=rss",
-        "publishedAt": "2026-06-26T08:48:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586013?source=rss",
+        "publishedAt": "2026-06-28T08:13:24.000Z"
       },
       {
         "time": "15:28",
@@ -119,11 +119,11 @@
         "publishedAt": "2026-06-28T01:25:48.000Z"
       },
       {
-        "time": "17:48",
-        "title": "日産60万台リコール ノートなど",
+        "time": "17:13",
+        "title": "「軽タクシー」解禁 現場の違和感",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585774?source=rss",
-        "publishedAt": "2026-06-26T08:48:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586013?source=rss",
+        "publishedAt": "2026-06-28T08:13:24.000Z"
       },
       {
         "time": "15:28",
@@ -149,18 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "21:24",
-        "title": "無音の110番通報 川で溺れ2人死亡",
+        "time": "17:22",
+        "title": "5歳不明1週間 母「後悔やまない」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585928?source=rss",
-        "publishedAt": "2026-06-27T12:24:06.000Z"
-      },
-      {
-        "time": "11:29",
-        "title": "辺野古沖で生徒死亡 母と姉の心境",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585972?source=rss",
-        "publishedAt": "2026-06-28T02:29:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586015?source=rss",
+        "publishedAt": "2026-06-28T08:22:24.000Z"
       },
       {
         "time": "14:26",
@@ -168,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585993?source=rss",
         "publishedAt": "2026-06-28T05:26:26.000Z"
+      },
+      {
+        "time": "11:29",
+        "title": "辺野古沖で生徒死亡 母と姉の心境",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6585972?source=rss",
+        "publishedAt": "2026-06-28T02:29:13.000Z"
       },
       {
         "time": "07:55",
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "物価高騰や米国関税措置・中東情勢の変化等により影響を受ける県内事業者の皆様への主な支援策",
+        "source": "pref.hiroshima.lg.jp",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ed24zSjhRX0NxVnYxeFMxallrVW5sQXh5SV8yY1VUXzI0ajIwQVpVb2hTalZlU3AybmJrSVZ3U2F2MWU3bkVzb2RvNTlyaEZOQ2tDN1dUQjJKR1NVQ2tHYU1rSjhKZWoybllUVnpn?oc=5",
+        "publishedAt": "2026-06-18T07:00:00.000Z"
       },
       {
         "time": "16:00",

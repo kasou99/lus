@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-28T07:33:41.290Z",
+  "updatedAt": "2026-06-28T09:12:22.195Z",
   "items": [
     {
-      "time": "13:54",
-      "title": "近畿・中国・四国 土砂崩れ相次ぐ",
+      "time": "17:09",
+      "title": "比例45減なら中小政党へ影響 試算",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585991?source=rss",
-      "publishedAt": "2026-06-28T04:54:55.000Z",
-      "xQuery": "近畿・中国・四国 土砂崩れ相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6586011?source=rss",
+      "publishedAt": "2026-06-28T08:09:54.000Z",
+      "xQuery": "比例45減なら中小政党へ影響 試算"
     },
     {
-      "time": "15:07",
-      "title": "ミュトス5 米政府なぜ国内限定に",
+      "time": "15:33",
+      "title": "沖北相 抗議船で平和学習に違和感",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585997?source=rss",
-      "publishedAt": "2026-06-28T06:07:51.000Z",
-      "xQuery": "ミュトス5 米政府なぜ国内限定に"
+      "url": "https://news.yahoo.co.jp/pickup/6585999?source=rss",
+      "publishedAt": "2026-06-28T06:33:02.000Z",
+      "xQuery": "沖北相 抗議船で平和学習に違和感"
+    },
+    {
+      "time": "17:22",
+      "title": "5歳不明1週間 母「後悔やまない」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586015?source=rss",
+      "publishedAt": "2026-06-28T08:22:24.000Z",
+      "xQuery": "5歳不明1週間 母「後悔やまない」"
     },
     {
       "time": "15:28",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「独身マイホーム」増 メリデメは"
     },
     {
-      "time": "12:08",
-      "title": "D-MAX並行輸入 価格は競合の倍",
+      "time": "17:18",
+      "title": "吉田寮「現棟」建て替え方針 波紋",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6585978?source=rss",
-      "publishedAt": "2026-06-28T03:08:06.000Z",
-      "xQuery": "D-MAX並行輸入 価格は競合の倍"
-    },
-    {
-      "time": "15:53",
-      "title": "鹿せんべい爆売れ 愛護会は懸念も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586004?source=rss",
-      "publishedAt": "2026-06-28T06:53:41.000Z",
-      "xQuery": "鹿せんべい爆売れ 愛護会は懸念も"
+      "url": "https://news.yahoo.co.jp/pickup/6586014?source=rss",
+      "publishedAt": "2026-06-28T08:18:08.000Z",
+      "xQuery": "吉田寮「現棟」建て替え方針 波紋"
     }
   ]
 };
