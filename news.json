@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-28T19:35:46.492Z",
+  "updatedAt": "2026-06-28T20:34:01.847Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:03",
+        "title": "東電EP、AIで電話対応高度化 用件確認、窓口誘導",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xWmYxNjZSc2dvYlc2UUI0MzJuUm5HYzZIZ2pyWG1YNzZzYTRCU2ttUm9Bams3aTJONmlHQWJlSWwzVnpNSGYwOTFBUWxJc0t2MkJzTWVkNkU2S28?oc=5",
+        "publishedAt": "2026-06-28T20:03:43.000Z"
+      },
       {
         "time": "18:17",
         "title": "栄光と苦難の歴史――老舗機械メーカーの再出発",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585981?source=rss",
         "publishedAt": "2026-06-28T03:45:42.000Z"
-      },
-      {
-        "time": "12:08",
-        "title": "D-MAX並行輸入 価格は競合の倍",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585978?source=rss",
-        "publishedAt": "2026-06-28T03:08:06.000Z"
       }
     ],
     "worldHeadlines": [
