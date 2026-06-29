@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-29T17:54:03.534Z",
+  "updatedAt": "2026-06-29T18:50:42.860Z",
   "items": [
     {
-      "time": "02:52",
-      "title": "速報W杯 日本1点リードで後半へ",
+      "time": "03:20",
+      "title": "速報 森保Jが同点に追いつかれる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586164?source=rss",
-      "publishedAt": "2026-06-29T17:52:05.000Z",
-      "xQuery": "速報W杯 日本1点リードで後半へ"
+      "url": "https://news.yahoo.co.jp/pickup/6586166?source=rss",
+      "publishedAt": "2026-06-29T18:20:33.000Z",
+      "xQuery": "速報 森保Jが同点に追いつかれる"
     },
     {
       "time": "23:42",
