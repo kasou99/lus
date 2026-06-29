@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-29T12:10:44.349Z",
+  "updatedAt": "2026-06-29T13:55:08.849Z",
   "items": [
     {
-      "time": "17:55",
-      "title": "サムスンなど 半導体に大規模投資",
+      "time": "22:40",
+      "title": "独の福祉施設で銃撃事件 5人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586125?source=rss",
-      "publishedAt": "2026-06-29T08:55:58.000Z",
-      "xQuery": "サムスンなど 半導体に大規模投資"
+      "url": "https://news.yahoo.co.jp/pickup/6586156?source=rss",
+      "publishedAt": "2026-06-29T13:40:22.000Z",
+      "xQuery": "独の福祉施設で銃撃事件 5人死亡"
     },
     {
-      "time": "20:37",
-      "title": "米アップル 露のSNSサービス削除",
+      "time": "21:26",
+      "title": "米W杯放映会場近くで銃撃1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586144?source=rss",
-      "publishedAt": "2026-06-29T11:37:26.000Z",
-      "xQuery": "米アップル 露のSNSサービス削除"
+      "url": "https://news.yahoo.co.jp/pickup/6586149?source=rss",
+      "publishedAt": "2026-06-29T12:26:30.000Z",
+      "xQuery": "米W杯放映会場近くで銃撃1人死亡"
     },
     {
-      "time": "19:57",
-      "title": "5歳不明 母「連れて帰りたい」",
+      "time": "20:34",
+      "title": "小学校の「算数」名称を維持へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586139?source=rss",
-      "publishedAt": "2026-06-29T10:57:08.000Z",
-      "xQuery": "5歳不明 母「連れて帰りたい」"
+      "url": "https://news.yahoo.co.jp/pickup/6586143?source=rss",
+      "publishedAt": "2026-06-29T11:34:57.000Z",
+      "xQuery": "小学校の「算数」名称を維持へ"
     },
     {
-      "time": "19:43",
-      "title": "八田容疑者を目撃 半数近くが関東",
+      "time": "22:12",
+      "title": "なぜうちが 中国禁輸拡大に戸惑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586135?source=rss",
-      "publishedAt": "2026-06-29T10:43:08.000Z",
-      "xQuery": "八田容疑者を目撃 半数近くが関東"
+      "url": "https://news.yahoo.co.jp/pickup/6586152?source=rss",
+      "publishedAt": "2026-06-29T13:12:10.000Z",
+      "xQuery": "なぜうちが 中国禁輸拡大に戸惑い"
     },
     {
-      "time": "19:25",
-      "title": "新卒に1400万円 少ないと採用担当",
+      "time": "21:49",
+      "title": "給食の弁当にゴキブリか 生徒発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586136?source=rss",
-      "publishedAt": "2026-06-29T10:25:14.000Z",
-      "xQuery": "新卒に1400万円 少ないと採用担当"
+      "url": "https://news.yahoo.co.jp/pickup/6586151?source=rss",
+      "publishedAt": "2026-06-29T12:49:42.000Z",
+      "xQuery": "給食の弁当にゴキブリか 生徒発見"
     }
   ]
 };
