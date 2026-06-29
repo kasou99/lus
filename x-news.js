@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-29T20:43:06.661Z",
+  "updatedAt": "2026-06-29T21:36:12.036Z",
   "items": [
     {
       "time": "23:42",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "NY円 一時39年半ぶりの円安水準"
     },
     {
+      "time": "06:21",
+      "title": "NYダウ 終値で初の5万2000ドル台",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586175?source=rss",
+      "publishedAt": "2026-06-29T21:21:03.000Z",
+      "xQuery": "NYダウ 終値で初の5万2000ドル台"
+    },
+    {
       "time": "22:12",
       "title": "なぜうちが 中国禁輸拡大に戸惑い",
       "source": "Yahoo!ニュース",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "なぜうちが 中国禁輸拡大に戸惑い"
     },
     {
-      "time": "19:43",
-      "title": "八田容疑者を目撃 半数近くが関東",
+      "time": "22:59",
+      "title": "客が乗務員室で機器触る 近鉄釈明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586135?source=rss",
-      "publishedAt": "2026-06-29T10:43:08.000Z",
-      "xQuery": "八田容疑者を目撃 半数近くが関東"
+      "url": "https://news.yahoo.co.jp/pickup/6586157?source=rss",
+      "publishedAt": "2026-06-29T13:59:51.000Z",
+      "xQuery": "客が乗務員室で機器触る 近鉄釈明"
     },
     {
       "time": "23:57",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586161?source=rss",
       "publishedAt": "2026-06-29T14:57:39.000Z",
       "xQuery": "児童139人がおう吐や下痢 足立区"
-    },
-    {
-      "time": "22:59",
-      "title": "客が乗務員室で機器触る 近鉄釈明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586157?source=rss",
-      "publishedAt": "2026-06-29T13:59:51.000Z",
-      "xQuery": "客が乗務員室で機器触る 近鉄釈明"
     }
   ]
 };

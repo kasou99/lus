@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T20:43:05.879Z",
+  "updatedAt": "2026-06-29T21:36:10.984Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-06-29T02:30:02.000Z"
       },
       {
+        "time": "05:58",
+        "title": "大分県、中小のDX支援推進 総合窓口を開設",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSFd4UmVwTFRIQkRzcUljRzhCOE1TSjYzYndhWjM2RExic0NwdWtXQUZnUnpMakx2VGdSSG9lOTdfQVV2LXdUSFI5Tnp2RnlsUzd1eGtWN0hCZw?oc=5",
+        "publishedAt": "2026-06-29T20:58:15.000Z"
+      },
+      {
         "time": "05:07",
         "title": "富山・大手町で信号一時消える 車横転、制御盤に衝突 車内の1人搬送",
         "source": "au Webポータル",
@@ -50,13 +57,6 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82S002TGdBU2JMY1RpUDRNVlJaT2dhZFdBSnU4QUZrWnRYdm8tNHNvOXpKaE9STXo4NS1feFh1aTlJSklHV0VjSE5pc1pybDhjcnU2Wko2dw?oc=5",
         "publishedAt": "2026-06-29T08:59:46.000Z"
-      },
-      {
-        "time": "11:45",
-        "title": "三菱UFJ銀行、オークマ株の大量保有報告を変更 担保契約見直しが契機",
-        "source": "finance.biggo.jp",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GTkxYeWl2Y0Vna0otMFJtU09xU2RGTkdUV0FqeDdWdEJHUkZ4VUFGajQ3RE5raGFPbUhHVGNMQlFwaHFtZ25iejhMVzlPMDllZl9SU0pDQUdzcldoUlFlNEdsdjFMM2pXTVNmNG5uTWdRWUtj?oc=5",
-        "publishedAt": "2026-06-29T02:45:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "06:21",
+        "title": "NYダウ 終値で初の5万2000ドル台",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586175?source=rss",
+        "publishedAt": "2026-06-29T21:21:03.000Z"
+      },
+      {
         "time": "23:42",
         "title": "NY円 一時39年半ぶりの円安水準",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586152?source=rss",
         "publishedAt": "2026-06-29T13:12:10.000Z"
-      },
-      {
-        "time": "17:27",
-        "title": "シャボン玉石けん 2万9000個回収",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586118?source=rss",
-        "publishedAt": "2026-06-29T08:27:01.000Z"
       }
     ],
     "localHeadlines": [
