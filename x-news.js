@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-29T23:28:17.203Z",
+  "updatedAt": "2026-06-29T23:55:06.756Z",
   "items": [
     {
       "time": "08:08",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "JAL補助金不正受給 2億円返還へ"
     },
     {
-      "time": "22:59",
-      "title": "客が乗務員室で機器触る 近鉄釈明",
+      "time": "08:38",
+      "title": "マイクロソフト株下落 AI巡り逆風",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586157?source=rss",
-      "publishedAt": "2026-06-29T13:59:51.000Z",
-      "xQuery": "客が乗務員室で機器触る 近鉄釈明"
+      "url": "https://news.yahoo.co.jp/pickup/6586188?source=rss",
+      "publishedAt": "2026-06-29T23:38:23.000Z",
+      "xQuery": "マイクロソフト株下落 AI巡り逆風"
     }
   ]
 };
