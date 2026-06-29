@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-29T03:50:25.730Z",
+  "updatedAt": "2026-06-29T05:45:11.587Z",
   "items": [
     {
-      "time": "12:16",
-      "title": "中国の輸出管理 日本の20団体追加",
+      "time": "14:23",
+      "title": "沖縄地方が梅雨明け 熱中症に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586087?source=rss",
-      "publishedAt": "2026-06-29T03:16:29.000Z",
-      "xQuery": "中国の輸出管理 日本の20団体追加"
+      "url": "https://news.yahoo.co.jp/pickup/6586100?source=rss",
+      "publishedAt": "2026-06-29T05:23:24.000Z",
+      "xQuery": "沖縄地方が梅雨明け 熱中症に注意"
     },
     {
-      "time": "11:28",
-      "title": "欧州熱波で1300人以上死亡 WHO",
+      "time": "13:50",
+      "title": "がん拠点病院9割 薬物治療医不足",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586076?source=rss",
-      "publishedAt": "2026-06-29T02:28:29.000Z",
-      "xQuery": "欧州熱波で1300人以上死亡 WHO"
+      "url": "https://news.yahoo.co.jp/pickup/6586098?source=rss",
+      "publishedAt": "2026-06-29T04:50:30.000Z",
+      "xQuery": "がん拠点病院9割 薬物治療医不足"
     },
     {
-      "time": "12:02",
-      "title": "王将社長射殺 被告に無期懲役求刑",
+      "time": "13:52",
+      "title": "地中から遺体 共犯関係の口封じか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586083?source=rss",
-      "publishedAt": "2026-06-29T03:02:13.000Z",
-      "xQuery": "王将社長射殺 被告に無期懲役求刑"
+      "url": "https://news.yahoo.co.jp/pickup/6586097?source=rss",
+      "publishedAt": "2026-06-29T04:52:14.000Z",
+      "xQuery": "地中から遺体 共犯関係の口封じか"
     },
     {
-      "time": "10:59",
-      "title": "脱線事故 分岐器作動しなかったか",
+      "time": "12:11",
+      "title": "飲酒の軽トラが自転車はねる 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586074?source=rss",
-      "publishedAt": "2026-06-29T01:59:59.000Z",
-      "xQuery": "脱線事故 分岐器作動しなかったか"
+      "url": "https://news.yahoo.co.jp/pickup/6586085?source=rss",
+      "publishedAt": "2026-06-29T03:11:00.000Z",
+      "xQuery": "飲酒の軽トラが自転車はねる 死亡"
     },
     {
-      "time": "11:08",
-      "title": "地中から遺体 強殺疑いで男逮捕",
+      "time": "08:30",
+      "title": "悪質ホスト 売春導く構図変わらず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586075?source=rss",
-      "publishedAt": "2026-06-29T02:08:58.000Z",
-      "xQuery": "地中から遺体 強殺疑いで男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6586062?source=rss",
+      "publishedAt": "2026-06-28T23:30:54.000Z",
+      "xQuery": "悪質ホスト 売春導く構図変わらず"
     }
   ]
 };
