@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-06-29T02:25:55.712Z",
+  "updatedAt": "2026-06-29T03:50:24.681Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "11:30",
+        "title": "設備保全DXのM2X、シリーズAで総額11.4億円の資金調達",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NHVPRWV5dm8yU2NzTjIxY1lyVFFWLU9GbjdKV2ZCQnlWYmNhVjVjcU5Ocmx4V19WM2ExNElUU0dfSDFGQWJZVlVGZTdsNlFNMDBHWURUQnc2THZ6TjJjeS03bUp2aERHakE?oc=5",
+        "publishedAt": "2026-06-29T02:30:02.000Z"
+      },
+      {
+        "time": "12:19",
+        "title": "次世代設備保全クラウド「M2X」を開発する株式会社M2XがシリーズAエクステンションラウンドで総額11.4億円の資金調達を実施",
+        "source": "STARTUP LOG",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Yc2N6eGJfaGFIcjQ1cUlYS3FHZnBKTlA3WG53TkdQTDJjeThuZDhTdUJZMVpBdmVhMkhmZHAzdHhzcTNlMjltSTBEenY0NVU?oc=5",
+        "publishedAt": "2026-06-29T03:19:01.000Z"
+      },
       {
         "time": "08:04",
         "title": "現場の課題をAI用い解決 都機工、協賛82社と展示会",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzQmk1MmVMbjhjT1BTeTZla2Zwa292T1pUcGF5RDdjaU5qalVHeUZJeG9UTy10VEVtMU9aeEwxS2t5bDhSZDZ2MHVQVG9Nd0hEWnN3azJab0FQTWx1ZDhMOElPejJHX0dOS0lteU1ya0k2NWJOcDdBWTc2dw?oc=5",
         "publishedAt": "2026-06-28T23:04:00.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "「あの予備品どこ、前の修理は誰」「復旧対応また出張…」三菱電機の新提案が解決：生産設備の保全／保守をスマート化",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TSDVGb21TS05yb0k1dUJfNDhRd05MYUE4eUh6NmhBUWE4a2NLVElkWjZMQldnSFV0LVlSOUdZSVY0anRNZ1VKa0RlR0gzRXZZNERMX1lKV0JiVmRnV09jN2hROTAyanNNbExqSlY2MA?oc=5",
+        "publishedAt": "2026-06-29T01:00:00.000Z"
       },
       {
         "time": "09:40",
@@ -36,27 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mSy1PNjM1Vnd6emFUc1h1OXJLVHN1SGwxRU1xS0l5X3JCU1ZSNFJaY0VueUlyTlNWT2NHR05nVi02THN2NTlvSEQzcXlKSXhsQTg1bGJFQlp0cU0?oc=5",
         "publishedAt": "2026-06-28T20:03:37.000Z"
-      },
-      {
-        "time": "18:19",
-        "title": "賃金の地域間格差15万円超に 25年",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586019?source=rss",
-        "publishedAt": "2026-06-28T09:19:48.000Z"
-      },
-      {
-        "time": "17:13",
-        "title": "「軽タクシー」解禁 現場の違和感",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586013?source=rss",
-        "publishedAt": "2026-06-28T08:13:24.000Z"
-      },
-      {
-        "time": "15:28",
-        "title": "「独身マイホーム」増 メリデメは",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585998?source=rss",
-        "publishedAt": "2026-06-28T06:28:17.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,11 @@
         "publishedAt": "2026-06-28T22:21:49.000Z"
       },
       {
-        "time": "21:26",
-        "title": "米イラン攻撃応酬 停戦維持に試練",
+        "time": "11:28",
+        "title": "欧州熱波で1300人以上死亡 WHO",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586037?source=rss",
-        "publishedAt": "2026-06-28T12:26:49.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586076?source=rss",
+        "publishedAt": "2026-06-29T02:28:29.000Z"
       },
       {
         "time": "08:06",
@@ -89,11 +89,11 @@
         "publishedAt": "2026-06-28T13:54:56.000Z"
       },
       {
-        "time": "07:08",
-        "title": "ベネズエラ地震 死者1400人超",
+        "time": "12:16",
+        "title": "中国の輸出管理 日本の20団体追加",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585942?source=rss",
-        "publishedAt": "2026-06-27T22:08:08.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586087?source=rss",
+        "publishedAt": "2026-06-29T03:16:29.000Z"
       },
       {
         "time": "09:40",
@@ -133,21 +133,28 @@
         "publishedAt": "2026-06-29T01:05:33.000Z"
       },
       {
+        "time": "12:12",
+        "title": "ネギは白?青?東西で違う消費傾向",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586086?source=rss",
+        "publishedAt": "2026-06-29T03:12:49.000Z"
+      },
+      {
         "time": "07:33",
         "title": "静岡ローカル・さわやか 成長の訳",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586057?source=rss",
         "publishedAt": "2026-06-28T22:33:02.000Z"
-      },
-      {
-        "time": "12:45",
-        "title": "案件激減 フリーランス41歳の現実",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585981?source=rss",
-        "publishedAt": "2026-06-28T03:45:42.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "12:02",
+        "title": "王将社長射殺 被告に無期懲役求刑",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586083?source=rss",
+        "publishedAt": "2026-06-29T03:02:13.000Z"
+      },
       {
         "time": "11:08",
         "title": "地中から遺体 強殺疑いで男逮捕",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-06-29T01:59:59.000Z"
       },
       {
-        "time": "08:42",
-        "title": "能登の復興住宅 建設整備費が高騰",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586063?source=rss",
-        "publishedAt": "2026-06-28T23:42:43.000Z"
-      },
-      {
-        "time": "06:49",
-        "title": "別府ひき逃げ4年 県警新映像公開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586053?source=rss",
-        "publishedAt": "2026-06-28T21:49:11.000Z"
-      },
-      {
         "time": "07:13",
         "title": "風俗店で男女死亡 従業員と客か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586055?source=rss",
         "publishedAt": "2026-06-28T22:13:40.000Z"
+      },
+      {
+        "time": "09:40",
+        "title": "風俗店で男女死亡 室内から刃物",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586069?source=rss",
+        "publishedAt": "2026-06-29T00:40:42.000Z"
       }
     ],
     "subsidyHeadlines": [

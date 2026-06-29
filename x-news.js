@@ -1,6 +1,30 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-29T02:25:56.859Z",
+  "updatedAt": "2026-06-29T03:50:25.730Z",
   "items": [
+    {
+      "time": "12:16",
+      "title": "中国の輸出管理 日本の20団体追加",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586087?source=rss",
+      "publishedAt": "2026-06-29T03:16:29.000Z",
+      "xQuery": "中国の輸出管理 日本の20団体追加"
+    },
+    {
+      "time": "11:28",
+      "title": "欧州熱波で1300人以上死亡 WHO",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586076?source=rss",
+      "publishedAt": "2026-06-29T02:28:29.000Z",
+      "xQuery": "欧州熱波で1300人以上死亡 WHO"
+    },
+    {
+      "time": "12:02",
+      "title": "王将社長射殺 被告に無期懲役求刑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586083?source=rss",
+      "publishedAt": "2026-06-29T03:02:13.000Z",
+      "xQuery": "王将社長射殺 被告に無期懲役求刑"
+    },
     {
       "time": "10:59",
       "title": "脱線事故 分岐器作動しなかったか",
@@ -10,36 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "脱線事故 分岐器作動しなかったか"
     },
     {
-      "time": "09:40",
-      "title": "ベネズエラ地震 32時間後乳児救出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586068?source=rss",
-      "publishedAt": "2026-06-29T00:40:13.000Z",
-      "xQuery": "ベネズエラ地震 32時間後乳児救出"
-    },
-    {
       "time": "11:08",
       "title": "地中から遺体 強殺疑いで男逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6586075?source=rss",
       "publishedAt": "2026-06-29T02:08:58.000Z",
       "xQuery": "地中から遺体 強殺疑いで男逮捕"
-    },
-    {
-      "time": "09:40",
-      "title": "風俗店で男女死亡 室内から刃物",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586069?source=rss",
-      "publishedAt": "2026-06-29T00:40:42.000Z",
-      "xQuery": "風俗店で男女死亡 室内から刃物"
-    },
-    {
-      "time": "10:05",
-      "title": "クールビズの空気感 軽装vsマナー",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586070?source=rss",
-      "publishedAt": "2026-06-29T01:05:33.000Z",
-      "xQuery": "クールビズの空気感 軽装vsマナー"
     }
   ]
 };
