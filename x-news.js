@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-29T05:45:11.587Z",
+  "updatedAt": "2026-06-29T08:02:05.856Z",
   "items": [
     {
-      "time": "14:23",
-      "title": "沖縄地方が梅雨明け 熱中症に注意",
+      "time": "16:38",
+      "title": "皇位継承巡り 中曽根氏が発言釈明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586100?source=rss",
-      "publishedAt": "2026-06-29T05:23:24.000Z",
-      "xQuery": "沖縄地方が梅雨明け 熱中症に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6586114?source=rss",
+      "publishedAt": "2026-06-29T07:38:08.000Z",
+      "xQuery": "皇位継承巡り 中曽根氏が発言釈明"
     },
     {
-      "time": "13:50",
-      "title": "がん拠点病院9割 薬物治療医不足",
+      "time": "15:58",
+      "title": "栃木強殺 指示役疑いの夫婦を起訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586098?source=rss",
-      "publishedAt": "2026-06-29T04:50:30.000Z",
-      "xQuery": "がん拠点病院9割 薬物治療医不足"
+      "url": "https://news.yahoo.co.jp/pickup/6586107?source=rss",
+      "publishedAt": "2026-06-29T06:58:43.000Z",
+      "xQuery": "栃木強殺 指示役疑いの夫婦を起訴"
     },
     {
-      "time": "13:52",
-      "title": "地中から遺体 共犯関係の口封じか",
+      "time": "14:52",
+      "title": "ウクライナ ドローン攻勢なぜ戦果",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586097?source=rss",
-      "publishedAt": "2026-06-29T04:52:14.000Z",
-      "xQuery": "地中から遺体 共犯関係の口封じか"
+      "url": "https://news.yahoo.co.jp/pickup/6586092?source=rss",
+      "publishedAt": "2026-06-29T05:52:52.000Z",
+      "xQuery": "ウクライナ ドローン攻勢なぜ戦果"
     },
     {
-      "time": "12:11",
-      "title": "飲酒の軽トラが自転車はねる 死亡",
+      "time": "16:19",
+      "title": "高校生3人がおぼれる 1人行方不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586085?source=rss",
-      "publishedAt": "2026-06-29T03:11:00.000Z",
-      "xQuery": "飲酒の軽トラが自転車はねる 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6586112?source=rss",
+      "publishedAt": "2026-06-29T07:19:56.000Z",
+      "xQuery": "高校生3人がおぼれる 1人行方不明"
     },
     {
-      "time": "08:30",
-      "title": "悪質ホスト 売春導く構図変わらず",
+      "time": "14:57",
+      "title": "開発遅れ 日立が伊予銀行に60億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586062?source=rss",
-      "publishedAt": "2026-06-28T23:30:54.000Z",
-      "xQuery": "悪質ホスト 売春導く構図変わらず"
+      "url": "https://news.yahoo.co.jp/pickup/6586102?source=rss",
+      "publishedAt": "2026-06-29T05:57:01.000Z",
+      "xQuery": "開発遅れ 日立が伊予銀行に60億円"
     }
   ]
 };

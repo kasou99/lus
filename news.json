@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T05:45:10.787Z",
+  "updatedAt": "2026-06-29T08:02:04.998Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-06-29T03:19:01.000Z"
       },
       {
+        "time": "11:45",
+        "title": "三菱UFJ銀行、オークマ株の大量保有報告を変更 担保契約見直しが契機",
+        "source": "finance.biggo.jp",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GTkxYeWl2Y0Vna0otMFJtU09xU2RGTkdUV0FqeDdWdEJHUkZ4VUFGajQ3RE5raGFPbUhHVGNMQlFwaHFtZ25iejhMVzlPMDllZl9SU0pDQUdzcldoUlFlNEdsdjFMM2pXTVNmNG5uTWdRWUtj?oc=5",
+        "publishedAt": "2026-06-29T02:45:00.000Z"
+      },
+      {
         "time": "11:49",
         "title": "現場の課題をAI用い解決 都機工、協賛82社と展示会",
         "source": "日刊工業新聞",
@@ -31,6 +38,13 @@
         "publishedAt": "2026-06-29T04:00:00.000Z"
       },
       {
+        "time": "16:00",
+        "title": "プルダウン式内部ブローチ盤の世界市場（2026年～2032年）、市場規模（油圧式、電動式）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZaFFMay1hNjdVVFVzZ3g0djBnNDRveHluaGNMcE01Q2h1UC1XZFgwNU03NEYzckJ0eXN6d3VQWFVERkpKMmw2VC13ZlNuZw?oc=5",
+        "publishedAt": "2026-06-29T07:00:00.000Z"
+      },
+      {
         "time": "09:40",
         "title": "製造業の生産現場へPC・スマートフォン広告を配信する「工業団地ターゲティング」の提供を強化",
         "source": "イザ！",
@@ -43,20 +57,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TSDVGb21TS05yb0k1dUJfNDhRd05MYUE4eUh6NmhBUWE4a2NLVElkWjZMQldnSFV0LVlSOUdZSVY0anRNZ1VKa0RlR0gzRXZZNERMX1lKV0JiVmRnV09jN2hROTAyanNNbExqSlY2MA?oc=5",
         "publishedAt": "2026-06-29T01:00:00.000Z"
-      },
-      {
-        "time": "18:17",
-        "title": "栄光と苦難の歴史――老舗機械メーカーの再出発",
-        "source": "TVer",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QNWx4NGpzNXhoOXJldzMxay1sQUxtWVB5R083aV9Rei1MQXJKa0pFdXlfNWl1UURtS0ZhWDQ0LUExS2VjYXFVNTVsRQ?oc=5",
-        "publishedAt": "2026-06-28T09:17:01.000Z"
-      },
-      {
-        "time": "05:03",
-        "title": "講壇／「マルクス2.0」は世界を救えるか 日本国際問題研究所客員研究員（現代中国研究家）・津上俊哉",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mSy1PNjM1Vnd6emFUc1h1OXJLVHN1SGwxRU1xS0l5X3JCU1ZSNFJaY0VueUlyTlNWT2NHR05nVi02THN2NTlvSEQzcXlKSXhsQTg1bGJFQlp0cU0?oc=5",
-        "publishedAt": "2026-06-28T20:03:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,11 @@
         "publishedAt": "2026-06-28T22:21:49.000Z"
       },
       {
-        "time": "11:28",
-        "title": "欧州熱波で1300人以上死亡 WHO",
+        "time": "14:52",
+        "title": "ウクライナ ドローン攻勢なぜ戦果",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586076?source=rss",
-        "publishedAt": "2026-06-29T02:28:29.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586092?source=rss",
+        "publishedAt": "2026-06-29T05:52:52.000Z"
       },
       {
         "time": "08:06",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-06-28T13:54:56.000Z"
       },
       {
+        "time": "11:28",
+        "title": "欧州熱波で1300人以上死亡 WHO",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586076?source=rss",
+        "publishedAt": "2026-06-29T02:28:29.000Z"
+      },
+      {
         "time": "12:16",
         "title": "中国の輸出管理 日本の20団体追加",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586087?source=rss",
         "publishedAt": "2026-06-29T03:16:29.000Z"
-      },
-      {
-        "time": "09:40",
-        "title": "ベネズエラ地震 32時間後乳児救出",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586068?source=rss",
-        "publishedAt": "2026-06-29T00:40:13.000Z"
       }
     ],
     "economyHeadlines": [
@@ -112,6 +112,13 @@
         "publishedAt": "2026-06-28T09:19:48.000Z"
       },
       {
+        "time": "16:56",
+        "title": "車両「くの字」脱線受け近鉄謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586116?source=rss",
+        "publishedAt": "2026-06-29T07:56:07.000Z"
+      },
+      {
         "time": "17:13",
         "title": "「軽タクシー」解禁 現場の違和感",
         "source": "Yahoo!ニュース",
@@ -119,11 +126,11 @@
         "publishedAt": "2026-06-28T08:13:24.000Z"
       },
       {
-        "time": "15:28",
-        "title": "「独身マイホーム」増 メリデメは",
+        "time": "16:37",
+        "title": "シャボン玉石けん 一部を自主回収",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585998?source=rss",
-        "publishedAt": "2026-06-28T06:28:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586113?source=rss",
+        "publishedAt": "2026-06-29T07:37:40.000Z"
       },
       {
         "time": "10:05",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586090?source=rss",
         "publishedAt": "2026-06-29T04:19:38.000Z"
-      },
-      {
-        "time": "12:12",
-        "title": "ネギは白?青?東西で違う消費傾向",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586086?source=rss",
-        "publishedAt": "2026-06-29T03:12:49.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-06-29T05:23:24.000Z"
       },
       {
+        "time": "15:58",
+        "title": "栃木強殺 指示役疑いの夫婦を起訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586107?source=rss",
+        "publishedAt": "2026-06-29T06:58:43.000Z"
+      },
+      {
         "time": "12:02",
         "title": "王将社長射殺 被告に無期懲役求刑",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586083?source=rss",
         "publishedAt": "2026-06-29T03:02:13.000Z"
-      },
-      {
-        "time": "11:08",
-        "title": "地中から遺体 強殺疑いで男逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586075?source=rss",
-        "publishedAt": "2026-06-29T02:08:58.000Z"
       },
       {
         "time": "13:52",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-29T04:52:14.000Z"
       },
       {
-        "time": "06:27",
-        "title": "近鉄京都駅構内 普通列車が脱線",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586052?source=rss",
-        "publishedAt": "2026-06-28T21:27:57.000Z"
-      },
-      {
         "time": "10:59",
         "title": "脱線事故 分岐器作動しなかったか",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586074?source=rss",
         "publishedAt": "2026-06-29T01:59:59.000Z"
+      },
+      {
+        "time": "16:19",
+        "title": "高校生3人がおぼれる 1人行方不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586112?source=rss",
+        "publishedAt": "2026-06-29T07:19:56.000Z"
       }
     ],
     "subsidyHeadlines": [
