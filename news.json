@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-06-29T19:38:56.022Z",
+  "updatedAt": "2026-06-29T20:43:05.879Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "11:30",
-        "title": "設備保全DXのM2X、シリーズAで総額11.4億円の資金調達 | 株式会社M2Xのプレスリリース",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NHVPRWV5dm8yU2NzTjIxY1lyVFFWLU9GbjdKV2ZCQnlWYmNhVjVjcU5Ocmx4V19WM2ExNElUU0dfSDFGQWJZVlVGZTdsNlFNMDBHWURUQnc2THZ6TjJjeS03bUp2aERHakE?oc=5",
-        "publishedAt": "2026-06-29T02:30:02.000Z"
+        "time": "05:10",
+        "title": "鍵は「ソフト定義とAI」にあり、初出展で工作機械の存在感をアピール",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QNlk0OWh0SkVPN2o4eDBLdG1LdHVQVGFiVnNKTk5sWXJGUl9Vajd2eEMxWXJrM21BX0tjOGdZMzlnc2I1TUFvRnFPNDZYN0x0Q1dUZVdUQjFGeWZqdDFrWVpnbVI0VHFt?oc=5",
+        "publishedAt": "2026-06-29T20:10:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "富山・大手町で信号一時消える 車横転、制御盤に衝突 車内の１人搬送",
+        "source": "北國新聞",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fT1ZRMm0yM1NzQTY1eVFIU0FBYVdBSFNHdlFLUG13NEMwc0NGWTE4dk9vXzJhV0lENE45WmtJU1VWWkNRUVNKQlNheG9qNFFya0VWLWFCdw?oc=5",
+        "publishedAt": "2026-06-29T20:00:00.000Z"
       },
       {
         "time": "18:30",
@@ -17,18 +24,25 @@
         "publishedAt": "2026-06-29T09:30:03.000Z"
       },
       {
+        "time": "11:30",
+        "title": "設備保全DXのM2X、シリーズAで総額11.4億円の資金調達 | 株式会社M2Xのプレスリリース",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NHVPRWV5dm8yU2NzTjIxY1lyVFFWLU9GbjdKV2ZCQnlWYmNhVjVjcU5Ocmx4V19WM2ExNElUU0dfSDFGQWJZVlVGZTdsNlFNMDBHWURUQnc2THZ6TjJjeS03bUp2aERHakE?oc=5",
+        "publishedAt": "2026-06-29T02:30:02.000Z"
+      },
+      {
+        "time": "05:07",
+        "title": "富山・大手町で信号一時消える 車横転、制御盤に衝突 車内の1人搬送",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VRWRVSjAyT2Q2V1hyNnpVLXJMRkpjVWxhSGo2S3ZkZDJ5d2JWVHpOY3FkNUs3Zlo3MlhQTEtoRDRqT3BRbjNUbnFBTE5xWFhXSjRRLWN3SWVIU244ZlRTVWR4U0lZUGhmXzJQVzVKS1hfUjhDLWNPSFUtbw?oc=5",
+        "publishedAt": "2026-06-29T20:07:14.000Z"
+      },
+      {
         "time": "12:19",
         "title": "次世代設備保全クラウド「M2X」を開発する株式会社M2XがシリーズAエクステンションラウンドで総額11.4億円の資金調達を実施",
         "source": "STARTUP LOG",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Yc2N6eGJfaGFIcjQ1cUlYS3FHZnBKTlA3WG53TkdQTDJjeThuZDhTdUJZMVpBdmVhMkhmZHAzdHhzcTNlMjltSTBEenY0NVU?oc=5",
         "publishedAt": "2026-06-29T03:19:01.000Z"
-      },
-      {
-        "time": "11:45",
-        "title": "三菱UFJ銀行、オークマ株の大量保有報告を変更 担保契約見直しが契機",
-        "source": "finance.biggo.jp",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GTkxYeWl2Y0Vna0otMFJtU09xU2RGTkdUV0FqeDdWdEJHUkZ4VUFGajQ3RE5raGFPbUhHVGNMQlFwaHFtZ25iejhMVzlPMDllZl9SU0pDQUdzcldoUlFlNEdsdjFMM2pXTVNmNG5uTWdRWUtj?oc=5",
-        "publishedAt": "2026-06-29T02:45:00.000Z"
       },
       {
         "time": "17:59",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-06-29T08:59:46.000Z"
       },
       {
-        "time": "11:49",
-        "title": "現場の課題をAI用い解決 都機工、協賛82社と展示会",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VZ29VNEJiaW1IUUJ5eWxXdV9HZVdYbGRESG5xRGVVY1BiX05BRHhwb2dGZV9uVDFwQUoxN1B6bGRtRDdYZ1pXWFFyZ1NHTnJydHhMdWNiblNuMGM?oc=5",
-        "publishedAt": "2026-06-29T02:49:16.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "横河電機が最新版統合情報サーバを発売、マルチベンダー連携を強化：FAニュース",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vRXl4SV9tYUVNWDM5eFlDNnNxMkxiN1otSFBYNl9Ma0Q4NkR4TnM0RmFWUm95UFczQXdlTjBEbjN6OFMwNmFicFloQ1BJTXE2ZWFQYWFQZ1R3UEowaWpmME5raFIwbHJiSHJsTFlmYw?oc=5",
-        "publishedAt": "2026-06-29T04:00:00.000Z"
-      },
-      {
-        "time": "01:15",
-        "title": "産業用製品比較販売サービス「メトリー」、佐々木希さんを起用した新広告を日本経済新聞にて、2026年6月22日より掲出開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05LTRNQm95aThLVzRybGFfc09HdGNDZWVQVFJGUUtqNXFvQkR4eXVWbkxCYk1CQXJGaGlJbkg2cDQxNGtmX3JVdHhxdkZfcW80UDVDSzdYWW5aMFEwb2xJakpLWmhYVGZuUjl5eExtZ0FrUkZnZUhmYWs1UQ?oc=5",
-        "publishedAt": "2026-06-29T16:15:15.000Z"
+        "time": "11:45",
+        "title": "三菱UFJ銀行、オークマ株の大量保有報告を変更 担保契約見直しが契機",
+        "source": "finance.biggo.jp",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GTkxYeWl2Y0Vna0otMFJtU09xU2RGTkdUV0FqeDdWdEJHUkZ4VUFGajQ3RE5raGFPbUhHVGNMQlFwaHFtZ25iejhMVzlPMDllZl9SU0pDQUdzcldoUlFlNEdsdjFMM2pXTVNmNG5uTWdRWUtj?oc=5",
+        "publishedAt": "2026-06-29T02:45:00.000Z"
       }
     ],
     "worldHeadlines": [
