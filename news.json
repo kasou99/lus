@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T10:05:27.134Z",
+  "updatedAt": "2026-06-29T12:10:43.703Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "18:19",
-        "title": "賃金の地域間格差15万円超に 25年",
+        "time": "20:25",
+        "title": "ガソリン補助金 7月～算定法変更",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586019?source=rss",
-        "publishedAt": "2026-06-28T09:19:48.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586142?source=rss",
+        "publishedAt": "2026-06-29T11:25:32.000Z"
       },
       {
         "time": "16:56",
@@ -117,13 +117,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586116?source=rss",
         "publishedAt": "2026-06-29T07:56:07.000Z"
-      },
-      {
-        "time": "17:13",
-        "title": "「軽タクシー」解禁 現場の違和感",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586013?source=rss",
-        "publishedAt": "2026-06-28T08:13:24.000Z"
       },
       {
         "time": "17:27",
@@ -140,27 +133,41 @@
         "publishedAt": "2026-06-29T01:05:33.000Z"
       },
       {
-        "time": "13:19",
-        "title": "夜行列車に「復活」の動き 現状は",
+        "time": "20:13",
+        "title": "米国で納豆 年2000万円売れるまで",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586090?source=rss",
-        "publishedAt": "2026-06-29T04:19:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586141?source=rss",
+        "publishedAt": "2026-06-29T11:13:36.000Z"
+      },
+      {
+        "time": "19:25",
+        "title": "新卒に1400万円 少ないと採用担当",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586136?source=rss",
+        "publishedAt": "2026-06-29T10:25:14.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "20:55",
+        "title": "近鉄の脱線車両 23時めどに移動へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586147?source=rss",
+        "publishedAt": "2026-06-29T11:55:24.000Z"
+      },
+      {
+        "time": "19:43",
+        "title": "八田容疑者を目撃 半数近くが関東",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586135?source=rss",
+        "publishedAt": "2026-06-29T10:43:08.000Z"
+      },
       {
         "time": "17:17",
         "title": "放火3人殺害 男に懲役30年判決",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586119?source=rss",
         "publishedAt": "2026-06-29T08:17:57.000Z"
-      },
-      {
-        "time": "15:58",
-        "title": "栃木強殺 指示役疑いの夫婦を起訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586107?source=rss",
-        "publishedAt": "2026-06-29T06:58:43.000Z"
       },
       {
         "time": "13:52",
@@ -170,11 +177,11 @@
         "publishedAt": "2026-06-29T04:52:14.000Z"
       },
       {
-        "time": "10:59",
-        "title": "脱線事故 分岐器作動しなかったか",
+        "time": "19:57",
+        "title": "5歳不明 母「連れて帰りたい」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586074?source=rss",
-        "publishedAt": "2026-06-29T01:59:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586139?source=rss",
+        "publishedAt": "2026-06-29T10:57:08.000Z"
       },
       {
         "time": "18:04",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586127?source=rss",
         "publishedAt": "2026-06-29T09:04:15.000Z"
-      },
-      {
-        "time": "18:51",
-        "title": "連日の職員逮捕 前橋市長がおわび",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586132?source=rss",
-        "publishedAt": "2026-06-29T09:51:06.000Z"
       }
     ],
     "subsidyHeadlines": [

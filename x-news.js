@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-29T10:05:27.810Z",
+  "updatedAt": "2026-06-29T12:10:44.349Z",
   "items": [
     {
-      "time": "17:52",
-      "title": "7月上旬は北日本や北陸で高温予想",
+      "time": "17:55",
+      "title": "サムスンなど 半導体に大規模投資",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586126?source=rss",
-      "publishedAt": "2026-06-29T08:52:13.000Z",
-      "xQuery": "7月上旬は北日本や北陸で高温予想"
+      "url": "https://news.yahoo.co.jp/pickup/6586125?source=rss",
+      "publishedAt": "2026-06-29T08:55:58.000Z",
+      "xQuery": "サムスンなど 半導体に大規模投資"
     },
     {
-      "time": "16:56",
-      "title": "車両「くの字」脱線受け近鉄謝罪",
+      "time": "20:37",
+      "title": "米アップル 露のSNSサービス削除",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586116?source=rss",
-      "publishedAt": "2026-06-29T07:56:07.000Z",
-      "xQuery": "車両「くの字」脱線受け近鉄謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6586144?source=rss",
+      "publishedAt": "2026-06-29T11:37:26.000Z",
+      "xQuery": "米アップル 露のSNSサービス削除"
     },
     {
-      "time": "18:04",
-      "title": "八甲田山中で遺体 クマが襲ったか",
+      "time": "19:57",
+      "title": "5歳不明 母「連れて帰りたい」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586127?source=rss",
-      "publishedAt": "2026-06-29T09:04:15.000Z",
-      "xQuery": "八甲田山中で遺体 クマが襲ったか"
+      "url": "https://news.yahoo.co.jp/pickup/6586139?source=rss",
+      "publishedAt": "2026-06-29T10:57:08.000Z",
+      "xQuery": "5歳不明 母「連れて帰りたい」"
     },
     {
-      "time": "18:51",
-      "title": "連日の職員逮捕 前橋市長がおわび",
+      "time": "19:43",
+      "title": "八田容疑者を目撃 半数近くが関東",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586132?source=rss",
-      "publishedAt": "2026-06-29T09:51:06.000Z",
-      "xQuery": "連日の職員逮捕 前橋市長がおわび"
+      "url": "https://news.yahoo.co.jp/pickup/6586135?source=rss",
+      "publishedAt": "2026-06-29T10:43:08.000Z",
+      "xQuery": "八田容疑者を目撃 半数近くが関東"
     },
     {
-      "time": "18:29",
-      "title": "高校生を発見 海でおぼれ行方不明",
+      "time": "19:25",
+      "title": "新卒に1400万円 少ないと採用担当",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586131?source=rss",
-      "publishedAt": "2026-06-29T09:29:55.000Z",
-      "xQuery": "高校生を発見 海でおぼれ行方不明"
+      "url": "https://news.yahoo.co.jp/pickup/6586136?source=rss",
+      "publishedAt": "2026-06-29T10:25:14.000Z",
+      "xQuery": "新卒に1400万円 少ないと採用担当"
     }
   ]
 };
