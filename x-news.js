@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-29T08:02:05.856Z",
+  "updatedAt": "2026-06-29T10:05:27.810Z",
   "items": [
     {
-      "time": "16:38",
-      "title": "皇位継承巡り 中曽根氏が発言釈明",
+      "time": "17:52",
+      "title": "7月上旬は北日本や北陸で高温予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586114?source=rss",
-      "publishedAt": "2026-06-29T07:38:08.000Z",
-      "xQuery": "皇位継承巡り 中曽根氏が発言釈明"
+      "url": "https://news.yahoo.co.jp/pickup/6586126?source=rss",
+      "publishedAt": "2026-06-29T08:52:13.000Z",
+      "xQuery": "7月上旬は北日本や北陸で高温予想"
     },
     {
-      "time": "15:58",
-      "title": "栃木強殺 指示役疑いの夫婦を起訴",
+      "time": "16:56",
+      "title": "車両「くの字」脱線受け近鉄謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586107?source=rss",
-      "publishedAt": "2026-06-29T06:58:43.000Z",
-      "xQuery": "栃木強殺 指示役疑いの夫婦を起訴"
+      "url": "https://news.yahoo.co.jp/pickup/6586116?source=rss",
+      "publishedAt": "2026-06-29T07:56:07.000Z",
+      "xQuery": "車両「くの字」脱線受け近鉄謝罪"
     },
     {
-      "time": "14:52",
-      "title": "ウクライナ ドローン攻勢なぜ戦果",
+      "time": "18:04",
+      "title": "八甲田山中で遺体 クマが襲ったか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586092?source=rss",
-      "publishedAt": "2026-06-29T05:52:52.000Z",
-      "xQuery": "ウクライナ ドローン攻勢なぜ戦果"
+      "url": "https://news.yahoo.co.jp/pickup/6586127?source=rss",
+      "publishedAt": "2026-06-29T09:04:15.000Z",
+      "xQuery": "八甲田山中で遺体 クマが襲ったか"
     },
     {
-      "time": "16:19",
-      "title": "高校生3人がおぼれる 1人行方不明",
+      "time": "18:51",
+      "title": "連日の職員逮捕 前橋市長がおわび",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586112?source=rss",
-      "publishedAt": "2026-06-29T07:19:56.000Z",
-      "xQuery": "高校生3人がおぼれる 1人行方不明"
+      "url": "https://news.yahoo.co.jp/pickup/6586132?source=rss",
+      "publishedAt": "2026-06-29T09:51:06.000Z",
+      "xQuery": "連日の職員逮捕 前橋市長がおわび"
     },
     {
-      "time": "14:57",
-      "title": "開発遅れ 日立が伊予銀行に60億円",
+      "time": "18:29",
+      "title": "高校生を発見 海でおぼれ行方不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586102?source=rss",
-      "publishedAt": "2026-06-29T05:57:01.000Z",
-      "xQuery": "開発遅れ 日立が伊予銀行に60億円"
+      "url": "https://news.yahoo.co.jp/pickup/6586131?source=rss",
+      "publishedAt": "2026-06-29T09:29:55.000Z",
+      "xQuery": "高校生を発見 海でおぼれ行方不明"
     }
   ]
 };

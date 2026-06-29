@@ -1,10 +1,17 @@
 {
-  "updatedAt": "2026-06-29T08:02:04.998Z",
+  "updatedAt": "2026-06-29T10:05:27.134Z",
   "groups": {
     "machineHeadlines": [
       {
+        "time": "18:30",
+        "title": "日本製鉄発のスタートアップ「KAMAMESHI」、設備保全サービス開始…停止リスク可視化",
+        "source": "レスポンス（Response.jp）",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XSmN1MjZlZjRYU2cwUTVKeXAxWEUtVnFpVjdDNEcyemZ0YmNqTXpsYmZKR3hiMms4d3lFLS1Oa19kTVVhVnV4bFZzSzBMTHAzajJKak1sa3FORVpKNDE4?oc=5",
+        "publishedAt": "2026-06-29T09:30:03.000Z"
+      },
+      {
         "time": "11:30",
-        "title": "設備保全DXのM2X、シリーズAで総額11.4億円の資金調達 | 株式会社M2Xのプレスリリース",
+        "title": "設備保全DXのM2X、シリーズAで総額11.4億円の資金調達",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NHVPRWV5dm8yU2NzTjIxY1lyVFFWLU9GbjdKV2ZCQnlWYmNhVjVjcU5Ocmx4V19WM2ExNElUU0dfSDFGQWJZVlVGZTdsNlFNMDBHWURUQnc2THZ6TjJjeS03bUp2aERHakE?oc=5",
         "publishedAt": "2026-06-29T02:30:02.000Z"
@@ -15,6 +22,13 @@
         "source": "STARTUP LOG",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Yc2N6eGJfaGFIcjQ1cUlYS3FHZnBKTlA3WG53TkdQTDJjeThuZDhTdUJZMVpBdmVhMkhmZHAzdHhzcTNlMjltSTBEenY0NVU?oc=5",
         "publishedAt": "2026-06-29T03:19:01.000Z"
+      },
+      {
+        "time": "17:59",
+        "title": "精密遊星減速機市場調査報告書：世界の産業現状、競合分析、シェア、規模、動向2026-2032年の予測｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82S002TGdBU2JMY1RpUDRNVlJaT2dhZFdBSnU4QUZrWnRYdm8tNHNvOXpKaE9STXo4NS1feFh1aTlJSklHV0VjSE5pc1pybDhjcnU2Wko2dw?oc=5",
+        "publishedAt": "2026-06-29T08:59:46.000Z"
       },
       {
         "time": "11:45",
@@ -43,20 +57,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZaFFMay1hNjdVVFVzZ3g0djBnNDRveHluaGNMcE01Q2h1UC1XZFgwNU03NEYzckJ0eXN6d3VQWFVERkpKMmw2VC13ZlNuZw?oc=5",
         "publishedAt": "2026-06-29T07:00:00.000Z"
-      },
-      {
-        "time": "09:40",
-        "title": "製造業の生産現場へPC・スマートフォン広告を配信する「工業団地ターゲティング」の提供を強化",
-        "source": "イザ！",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJWklxMlpxUXJEa3lrSFI3U2U5MkRDVVdIdjRzazBaV3RtSzNoUTc2WG1ZaHZMbXdfMFEzeDhBYXFWU3BqRkJKYkRZR1FuYVVvZzBRWGxYVlRrbS1nVmlOVjZ4N0REOWhwZWQ2Ykp1ckRSa2N5RDRIajVB?oc=5",
-        "publishedAt": "2026-06-29T00:40:00.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "「あの予備品どこ、前の修理は誰」「復旧対応また出張…」三菱電機の新提案が解決：生産設備の保全／保守をスマート化",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TSDVGb21TS05yb0k1dUJfNDhRd05MYUE4eUh6NmhBUWE4a2NLVElkWjZMQldnSFV0LVlSOUdZSVY0anRNZ1VKa0RlR0gzRXZZNERMX1lKV0JiVmRnV09jN2hROTAyanNNbExqSlY2MA?oc=5",
-        "publishedAt": "2026-06-29T01:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,11 +126,11 @@
         "publishedAt": "2026-06-28T08:13:24.000Z"
       },
       {
-        "time": "16:37",
-        "title": "シャボン玉石けん 一部を自主回収",
+        "time": "17:27",
+        "title": "シャボン玉石けん 2万9000個回収",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586113?source=rss",
-        "publishedAt": "2026-06-29T07:37:40.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586118?source=rss",
+        "publishedAt": "2026-06-29T08:27:01.000Z"
       },
       {
         "time": "10:05",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "14:23",
-        "title": "沖縄地方が梅雨明け 熱中症に注意",
+        "time": "17:17",
+        "title": "放火3人殺害 男に懲役30年判決",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586100?source=rss",
-        "publishedAt": "2026-06-29T05:23:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586119?source=rss",
+        "publishedAt": "2026-06-29T08:17:57.000Z"
       },
       {
         "time": "15:58",
@@ -161,13 +161,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586107?source=rss",
         "publishedAt": "2026-06-29T06:58:43.000Z"
-      },
-      {
-        "time": "12:02",
-        "title": "王将社長射殺 被告に無期懲役求刑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586083?source=rss",
-        "publishedAt": "2026-06-29T03:02:13.000Z"
       },
       {
         "time": "13:52",
@@ -184,11 +177,18 @@
         "publishedAt": "2026-06-29T01:59:59.000Z"
       },
       {
-        "time": "16:19",
-        "title": "高校生3人がおぼれる 1人行方不明",
+        "time": "18:04",
+        "title": "八甲田山中で遺体 クマが襲ったか",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586112?source=rss",
-        "publishedAt": "2026-06-29T07:19:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586127?source=rss",
+        "publishedAt": "2026-06-29T09:04:15.000Z"
+      },
+      {
+        "time": "18:51",
+        "title": "連日の職員逮捕 前橋市長がおわび",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586132?source=rss",
+        "publishedAt": "2026-06-29T09:51:06.000Z"
       }
     ],
     "subsidyHeadlines": [
