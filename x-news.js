@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-29T16:41:48.090Z",
+  "updatedAt": "2026-06-29T17:54:03.534Z",
   "items": [
+    {
+      "time": "02:52",
+      "title": "速報W杯 日本1点リードで後半へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586164?source=rss",
+      "publishedAt": "2026-06-29T17:52:05.000Z",
+      "xQuery": "速報W杯 日本1点リードで後半へ"
+    },
     {
       "time": "23:42",
       "title": "NY円 一時39年半ぶりの円安水準",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586161?source=rss",
       "publishedAt": "2026-06-29T14:57:39.000Z",
       "xQuery": "児童139人がおう吐や下痢 足立区"
-    },
-    {
-      "time": "22:59",
-      "title": "客が乗務員室で機器触る 近鉄釈明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586157?source=rss",
-      "publishedAt": "2026-06-29T13:59:51.000Z",
-      "xQuery": "客が乗務員室で機器触る 近鉄釈明"
     }
   ]
 };

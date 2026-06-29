@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-29T16:41:47.065Z",
+  "updatedAt": "2026-06-29T17:54:02.876Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "18:30",
-        "title": "日本製鉄発のスタートアップ「KAMAMESHI」、設備保全サービス開始…停止リスク可視化",
-        "source": "レスポンス（Response.jp）",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XSmN1MjZlZjRYU2cwUTVKeXAxWEUtVnFpVjdDNEcyemZ0YmNqTXpsYmZKR3hiMms4d3lFLS1Oa19kTVVhVnV4bFZzSzBMTHAzajJKak1sa3FORVpKNDE4?oc=5",
-        "publishedAt": "2026-06-29T09:30:03.000Z"
-      },
       {
         "time": "11:30",
         "title": "設備保全DXのM2X、シリーズAで総額11.4億円の資金調達 | 株式会社M2Xのプレスリリース",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NHVPRWV5dm8yU2NzTjIxY1lyVFFWLU9GbjdKV2ZCQnlWYmNhVjVjcU5Ocmx4V19WM2ExNElUU0dfSDFGQWJZVlVGZTdsNlFNMDBHWURUQnc2THZ6TjJjeS03bUp2aERHakE?oc=5",
         "publishedAt": "2026-06-29T02:30:02.000Z"
+      },
+      {
+        "time": "18:30",
+        "title": "日本製鉄発のスタートアップ「KAMAMESHI」、設備保全サービス開始…停止リスク可視化",
+        "source": "レスポンス（Response.jp）",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XSmN1MjZlZjRYU2cwUTVKeXAxWEUtVnFpVjdDNEcyemZ0YmNqTXpsYmZKR3hiMms4d3lFLS1Oa19kTVVhVnV4bFZzSzBMTHAzajJKak1sa3FORVpKNDE4?oc=5",
+        "publishedAt": "2026-06-29T09:30:03.000Z"
       },
       {
         "time": "12:19",
