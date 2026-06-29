@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-29T22:55:45.083Z",
+  "updatedAt": "2026-06-29T23:28:17.203Z",
   "items": [
+    {
+      "time": "08:08",
+      "title": "不適切な盛り土358カ所 読売調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586186?source=rss",
+      "publishedAt": "2026-06-29T23:08:01.000Z",
+      "xQuery": "不適切な盛り土358カ所 読売調査"
+    },
+    {
+      "time": "08:19",
+      "title": "脱線で見合わせの近鉄京都線 再開",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586187?source=rss",
+      "publishedAt": "2026-06-29T23:19:33.000Z",
+      "xQuery": "脱線で見合わせの近鉄京都線 再開"
+    },
     {
       "time": "07:42",
       "title": "ベネズエラ 地震の死者1700人超",
@@ -10,28 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ベネズエラ 地震の死者1700人超"
     },
     {
-      "time": "06:21",
-      "title": "NYダウ 終値で初の5万2000ドル台",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586175?source=rss",
-      "publishedAt": "2026-06-29T21:21:03.000Z",
-      "xQuery": "NYダウ 終値で初の5万2000ドル台"
-    },
-    {
       "time": "06:36",
       "title": "JAL補助金不正受給 2億円返還へ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6586176?source=rss",
       "publishedAt": "2026-06-29T21:36:39.000Z",
       "xQuery": "JAL補助金不正受給 2億円返還へ"
-    },
-    {
-      "time": "22:12",
-      "title": "なぜうちが 中国禁輸拡大に戸惑い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586152?source=rss",
-      "publishedAt": "2026-06-29T13:12:10.000Z",
-      "xQuery": "なぜうちが 中国禁輸拡大に戸惑い"
     },
     {
       "time": "22:59",
