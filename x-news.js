@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-29T22:29:31.849Z",
+  "updatedAt": "2026-06-29T22:55:45.083Z",
   "items": [
     {
-      "time": "23:42",
-      "title": "NY円 一時39年半ぶりの円安水準",
+      "time": "07:42",
+      "title": "ベネズエラ 地震の死者1700人超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586160?source=rss",
-      "publishedAt": "2026-06-29T14:42:31.000Z",
-      "xQuery": "NY円 一時39年半ぶりの円安水準"
+      "url": "https://news.yahoo.co.jp/pickup/6586181?source=rss",
+      "publishedAt": "2026-06-29T22:42:54.000Z",
+      "xQuery": "ベネズエラ 地震の死者1700人超"
     },
     {
       "time": "06:21",

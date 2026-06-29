@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T22:29:30.804Z",
+  "updatedAt": "2026-06-29T22:55:44.642Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,18 +61,18 @@
     ],
     "worldHeadlines": [
       {
+        "time": "07:42",
+        "title": "ベネズエラ 地震の死者1700人超",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586181?source=rss",
+        "publishedAt": "2026-06-29T22:42:54.000Z"
+      },
+      {
         "time": "22:40",
         "title": "独の福祉施設で銃撃事件 5人死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586156?source=rss",
         "publishedAt": "2026-06-29T13:40:22.000Z"
-      },
-      {
-        "time": "07:21",
-        "title": "米・イランが攻撃停止で合意 報道",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586056?source=rss",
-        "publishedAt": "2026-06-28T22:21:49.000Z"
       },
       {
         "time": "14:52",
