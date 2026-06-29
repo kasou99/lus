@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-29T01:14:28.092Z",
+  "updatedAt": "2026-06-29T02:25:56.859Z",
   "items": [
     {
-      "time": "08:42",
-      "title": "能登の復興住宅 建設整備費が高騰",
+      "time": "10:59",
+      "title": "脱線事故 分岐器作動しなかったか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586063?source=rss",
-      "publishedAt": "2026-06-28T23:42:43.000Z",
-      "xQuery": "能登の復興住宅 建設整備費が高騰"
+      "url": "https://news.yahoo.co.jp/pickup/6586074?source=rss",
+      "publishedAt": "2026-06-29T01:59:59.000Z",
+      "xQuery": "脱線事故 分岐器作動しなかったか"
     },
     {
-      "time": "07:53",
-      "title": "ブタ腎臓移植 28年にも国内で治験",
+      "time": "09:40",
+      "title": "ベネズエラ地震 32時間後乳児救出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586059?source=rss",
-      "publishedAt": "2026-06-28T22:53:12.000Z",
-      "xQuery": "ブタ腎臓移植 28年にも国内で治験"
+      "url": "https://news.yahoo.co.jp/pickup/6586068?source=rss",
+      "publishedAt": "2026-06-29T00:40:13.000Z",
+      "xQuery": "ベネズエラ地震 32時間後乳児救出"
     },
     {
-      "time": "09:04",
-      "title": "近鉄京都駅で脱線 乗客徒歩で移動",
+      "time": "11:08",
+      "title": "地中から遺体 強殺疑いで男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586066?source=rss",
-      "publishedAt": "2026-06-29T00:04:48.000Z",
-      "xQuery": "近鉄京都駅で脱線 乗客徒歩で移動"
-    },
-    {
-      "time": "08:06",
-      "title": "ウクライナから新提案 プーチン氏",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586061?source=rss",
-      "publishedAt": "2026-06-28T23:06:39.000Z",
-      "xQuery": "ウクライナから新提案 プーチン氏"
+      "url": "https://news.yahoo.co.jp/pickup/6586075?source=rss",
+      "publishedAt": "2026-06-29T02:08:58.000Z",
+      "xQuery": "地中から遺体 強殺疑いで男逮捕"
     },
     {
       "time": "09:40",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586069?source=rss",
       "publishedAt": "2026-06-29T00:40:42.000Z",
       "xQuery": "風俗店で男女死亡 室内から刃物"
+    },
+    {
+      "time": "10:05",
+      "title": "クールビズの空気感 軽装vsマナー",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586070?source=rss",
+      "publishedAt": "2026-06-29T01:05:33.000Z",
+      "xQuery": "クールビズの空気感 軽装vsマナー"
     }
   ]
 };
