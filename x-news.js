@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-28T23:30:17.097Z",
+  "updatedAt": "2026-06-29T01:14:28.092Z",
   "items": [
     {
-      "time": "07:21",
-      "title": "米・イランが攻撃停止で合意 報道",
+      "time": "08:42",
+      "title": "能登の復興住宅 建設整備費が高騰",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586056?source=rss",
-      "publishedAt": "2026-06-28T22:21:49.000Z",
-      "xQuery": "米・イランが攻撃停止で合意 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6586063?source=rss",
+      "publishedAt": "2026-06-28T23:42:43.000Z",
+      "xQuery": "能登の復興住宅 建設整備費が高騰"
     },
     {
-      "time": "06:27",
-      "title": "近鉄京都駅構内 普通列車が脱線",
+      "time": "07:53",
+      "title": "ブタ腎臓移植 28年にも国内で治験",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586052?source=rss",
-      "publishedAt": "2026-06-28T21:27:57.000Z",
-      "xQuery": "近鉄京都駅構内 普通列車が脱線"
+      "url": "https://news.yahoo.co.jp/pickup/6586059?source=rss",
+      "publishedAt": "2026-06-28T22:53:12.000Z",
+      "xQuery": "ブタ腎臓移植 28年にも国内で治験"
     },
     {
-      "time": "07:13",
-      "title": "風俗店で男女死亡 従業員と客か",
+      "time": "09:04",
+      "title": "近鉄京都駅で脱線 乗客徒歩で移動",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586055?source=rss",
-      "publishedAt": "2026-06-28T22:13:40.000Z",
-      "xQuery": "風俗店で男女死亡 従業員と客か"
+      "url": "https://news.yahoo.co.jp/pickup/6586066?source=rss",
+      "publishedAt": "2026-06-29T00:04:48.000Z",
+      "xQuery": "近鉄京都駅で脱線 乗客徒歩で移動"
     },
     {
-      "time": "00:05",
-      "title": "クマ被害か「人らしきもの」発見",
+      "time": "08:06",
+      "title": "ウクライナから新提案 プーチン氏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586049?source=rss",
-      "publishedAt": "2026-06-28T15:05:13.000Z",
-      "xQuery": "クマ被害か「人らしきもの」発見"
+      "url": "https://news.yahoo.co.jp/pickup/6586061?source=rss",
+      "publishedAt": "2026-06-28T23:06:39.000Z",
+      "xQuery": "ウクライナから新提案 プーチン氏"
     },
     {
-      "time": "07:33",
-      "title": "静岡ローカル・さわやか 成長の訳",
+      "time": "09:40",
+      "title": "風俗店で男女死亡 室内から刃物",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586057?source=rss",
-      "publishedAt": "2026-06-28T22:33:02.000Z",
-      "xQuery": "静岡ローカル・さわやか 成長の訳"
+      "url": "https://news.yahoo.co.jp/pickup/6586069?source=rss",
+      "publishedAt": "2026-06-29T00:40:42.000Z",
+      "xQuery": "風俗店で男女死亡 室内から刃物"
     }
   ]
 };
