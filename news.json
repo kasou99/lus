@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T13:55:08.125Z",
+  "updatedAt": "2026-06-29T15:17:40.630Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,7 +11,7 @@
       },
       {
         "time": "11:30",
-        "title": "設備保全DXのM2X、シリーズAで総額11.4億円の資金調達",
+        "title": "設備保全DXのM2X、シリーズAで総額11.4億円の資金調達 | 株式会社M2Xのプレスリリース",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NHVPRWV5dm8yU2NzTjIxY1lyVFFWLU9GbjdKV2ZCQnlWYmNhVjVjcU5Ocmx4V19WM2ExNElUU0dfSDFGQWJZVlVGZTdsNlFNMDBHWURUQnc2THZ6TjJjeS03bUp2aERHakE?oc=5",
         "publishedAt": "2026-06-29T02:30:02.000Z"
@@ -24,18 +24,18 @@
         "publishedAt": "2026-06-29T03:19:01.000Z"
       },
       {
-        "time": "17:59",
-        "title": "精密遊星減速機市場調査報告書：世界の産業現状、競合分析、シェア、規模、動向2026-2032年の予測｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82S002TGdBU2JMY1RpUDRNVlJaT2dhZFdBSnU4QUZrWnRYdm8tNHNvOXpKaE9STXo4NS1feFh1aTlJSklHV0VjSE5pc1pybDhjcnU2Wko2dw?oc=5",
-        "publishedAt": "2026-06-29T08:59:46.000Z"
-      },
-      {
         "time": "11:45",
         "title": "三菱UFJ銀行、オークマ株の大量保有報告を変更 担保契約見直しが契機",
         "source": "finance.biggo.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GTkxYeWl2Y0Vna0otMFJtU09xU2RGTkdUV0FqeDdWdEJHUkZ4VUFGajQ3RE5raGFPbUhHVGNMQlFwaHFtZ25iejhMVzlPMDllZl9SU0pDQUdzcldoUlFlNEdsdjFMM2pXTVNmNG5uTWdRWUtj?oc=5",
         "publishedAt": "2026-06-29T02:45:00.000Z"
+      },
+      {
+        "time": "17:59",
+        "title": "精密遊星減速機市場調査報告書：世界の産業現状、競合分析、シェア、規模、動向2026-2032年の予測｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82S002TGdBU2JMY1RpUDRNVlJaT2dhZFdBSnU4QUZrWnRYdm8tNHNvOXpKaE9STXo4NS1feFh1aTlJSklHV0VjSE5pc1pybDhjcnU2Wko2dw?oc=5",
+        "publishedAt": "2026-06-29T08:59:46.000Z"
       },
       {
         "time": "11:49",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "23:42",
+        "title": "NY円 一時39年半ぶりの円安水準",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586160?source=rss",
+        "publishedAt": "2026-06-29T14:42:31.000Z"
+      },
+      {
         "time": "20:25",
         "title": "ガソリン補助金 7月～算定法変更",
         "source": "Yahoo!ニュース",
@@ -119,6 +126,13 @@
         "publishedAt": "2026-06-29T07:56:07.000Z"
       },
       {
+        "time": "22:59",
+        "title": "客が乗務員室で機器触る 近鉄釈明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586157?source=rss",
+        "publishedAt": "2026-06-29T13:59:51.000Z"
+      },
+      {
         "time": "22:12",
         "title": "なぜうちが 中国禁輸拡大に戸惑い",
         "source": "Yahoo!ニュース",
@@ -131,30 +145,9 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586118?source=rss",
         "publishedAt": "2026-06-29T08:27:01.000Z"
-      },
-      {
-        "time": "10:05",
-        "title": "クールビズの空気感 軽装vsマナー",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586070?source=rss",
-        "publishedAt": "2026-06-29T01:05:33.000Z"
-      },
-      {
-        "time": "20:13",
-        "title": "米国で納豆 年2000万円売れるまで",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586141?source=rss",
-        "publishedAt": "2026-06-29T11:13:36.000Z"
       }
     ],
     "localHeadlines": [
-      {
-        "time": "20:55",
-        "title": "近鉄の脱線車両 23時めどに移動へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586147?source=rss",
-        "publishedAt": "2026-06-29T11:55:24.000Z"
-      },
       {
         "time": "19:43",
         "title": "八田容疑者を目撃 半数近くが関東",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586132?source=rss",
         "publishedAt": "2026-06-29T09:51:06.000Z"
+      },
+      {
+        "time": "23:19",
+        "title": "沖合でおぼれた男子高校生 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586158?source=rss",
+        "publishedAt": "2026-06-29T14:19:25.000Z"
       }
     ],
     "subsidyHeadlines": [

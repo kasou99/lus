@@ -1,29 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-29T13:55:08.849Z",
+  "updatedAt": "2026-06-29T15:17:41.462Z",
   "items": [
     {
-      "time": "22:40",
-      "title": "独の福祉施設で銃撃事件 5人死亡",
+      "time": "23:42",
+      "title": "NY円 一時39年半ぶりの円安水準",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586156?source=rss",
-      "publishedAt": "2026-06-29T13:40:22.000Z",
-      "xQuery": "独の福祉施設で銃撃事件 5人死亡"
-    },
-    {
-      "time": "21:26",
-      "title": "米W杯放映会場近くで銃撃1人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586149?source=rss",
-      "publishedAt": "2026-06-29T12:26:30.000Z",
-      "xQuery": "米W杯放映会場近くで銃撃1人死亡"
-    },
-    {
-      "time": "20:34",
-      "title": "小学校の「算数」名称を維持へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586143?source=rss",
-      "publishedAt": "2026-06-29T11:34:57.000Z",
-      "xQuery": "小学校の「算数」名称を維持へ"
+      "url": "https://news.yahoo.co.jp/pickup/6586160?source=rss",
+      "publishedAt": "2026-06-29T14:42:31.000Z",
+      "xQuery": "NY円 一時39年半ぶりの円安水準"
     },
     {
       "time": "22:12",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "なぜうちが 中国禁輸拡大に戸惑い"
     },
     {
-      "time": "21:49",
-      "title": "給食の弁当にゴキブリか 生徒発見",
+      "time": "19:43",
+      "title": "八田容疑者を目撃 半数近くが関東",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586151?source=rss",
-      "publishedAt": "2026-06-29T12:49:42.000Z",
-      "xQuery": "給食の弁当にゴキブリか 生徒発見"
+      "url": "https://news.yahoo.co.jp/pickup/6586135?source=rss",
+      "publishedAt": "2026-06-29T10:43:08.000Z",
+      "xQuery": "八田容疑者を目撃 半数近くが関東"
+    },
+    {
+      "time": "23:57",
+      "title": "児童139人がおう吐や下痢 足立区",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586161?source=rss",
+      "publishedAt": "2026-06-29T14:57:39.000Z",
+      "xQuery": "児童139人がおう吐や下痢 足立区"
+    },
+    {
+      "time": "22:59",
+      "title": "客が乗務員室で機器触る 近鉄釈明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586157?source=rss",
+      "publishedAt": "2026-06-29T13:59:51.000Z",
+      "xQuery": "客が乗務員室で機器触る 近鉄釈明"
     }
   ]
 };
