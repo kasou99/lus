@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-29T21:36:12.036Z",
+  "updatedAt": "2026-06-29T22:29:31.849Z",
   "items": [
     {
       "time": "23:42",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "NYダウ 終値で初の5万2000ドル台"
     },
     {
+      "time": "06:36",
+      "title": "JAL補助金不正受給 2億円返還へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586176?source=rss",
+      "publishedAt": "2026-06-29T21:36:39.000Z",
+      "xQuery": "JAL補助金不正受給 2億円返還へ"
+    },
+    {
       "time": "22:12",
       "title": "なぜうちが 中国禁輸拡大に戸惑い",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586157?source=rss",
       "publishedAt": "2026-06-29T13:59:51.000Z",
       "xQuery": "客が乗務員室で機器触る 近鉄釈明"
-    },
-    {
-      "time": "23:57",
-      "title": "児童139人がおう吐や下痢 足立区",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586161?source=rss",
-      "publishedAt": "2026-06-29T14:57:39.000Z",
-      "xQuery": "児童139人がおう吐や下痢 足立区"
     }
   ]
 };
