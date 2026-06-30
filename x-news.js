@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-30T07:32:06.191Z",
+  "updatedAt": "2026-06-30T09:17:59.473Z",
   "items": [
     {
-      "time": "16:16",
-      "title": "野党5党「国会正常化」を申し入れ",
+      "time": "17:18",
+      "title": "政府 皇室典範改正案を閣議決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586237?source=rss",
-      "publishedAt": "2026-06-30T07:16:27.000Z",
-      "xQuery": "野党5党「国会正常化」を申し入れ"
+      "url": "https://news.yahoo.co.jp/pickup/6586245?source=rss",
+      "publishedAt": "2026-06-30T08:18:11.000Z",
+      "xQuery": "政府 皇室典範改正案を閣議決定"
     },
     {
-      "time": "14:51",
-      "title": "最低賃金1500円先送り 格差の実態",
+      "time": "16:50",
+      "title": "夫婦死亡火災 殺人も視野に捜査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586229?source=rss",
-      "publishedAt": "2026-06-30T05:51:19.000Z",
-      "xQuery": "最低賃金1500円先送り 格差の実態"
+      "url": "https://news.yahoo.co.jp/pickup/6586241?source=rss",
+      "publishedAt": "2026-06-30T07:50:47.000Z",
+      "xQuery": "夫婦死亡火災 殺人も視野に捜査"
     },
     {
-      "time": "14:51",
-      "title": "猟友会の男性 クマに襲われ大けが",
+      "time": "16:30",
+      "title": "特別支援学校から10歳児行方不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586230?source=rss",
-      "publishedAt": "2026-06-30T05:51:37.000Z",
-      "xQuery": "猟友会の男性 クマに襲われ大けが"
+      "url": "https://news.yahoo.co.jp/pickup/6586238?source=rss",
+      "publishedAt": "2026-06-30T07:30:22.000Z",
+      "xQuery": "特別支援学校から10歳児行方不明"
     },
     {
-      "time": "14:03",
-      "title": "アフラック 438万人分の情報流出",
+      "time": "17:23",
+      "title": "黒海でイルカ大量死 露侵攻以降",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586227?source=rss",
-      "publishedAt": "2026-06-30T05:03:20.000Z",
-      "xQuery": "アフラック 438万人分の情報流出"
+      "url": "https://news.yahoo.co.jp/pickup/6586246?source=rss",
+      "publishedAt": "2026-06-30T08:23:44.000Z",
+      "xQuery": "黒海でイルカ大量死 露侵攻以降"
     },
     {
-      "time": "16:26",
-      "title": "iPhone18Proの機密情報流出 報道",
+      "time": "18:06",
+      "title": "書類送検の長州小力さん 不起訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586236?source=rss",
-      "publishedAt": "2026-06-30T07:26:37.000Z",
-      "xQuery": "iPhone18Proの機密情報流出 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6586254?source=rss",
+      "publishedAt": "2026-06-30T09:06:32.000Z",
+      "xQuery": "書類送検の長州小力さん 不起訴"
     }
   ]
 };

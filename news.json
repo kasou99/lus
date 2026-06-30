@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T07:32:05.007Z",
+  "updatedAt": "2026-06-30T09:17:58.516Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,20 @@
         "publishedAt": "2026-06-29T20:54:44.000Z"
       },
       {
+        "time": "13:14",
+        "title": "「今日も無事に帰ってきてほしい」- 現場で働く人を熱中症から守るために ジュトク ヘルメット内部温度 −6℃を実現した暑熱対策製品「ブリーズダクトA」で 大切な人の思いに向き合う",
+        "source": "AGARA紀伊民報",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYZ2tPM05nSkxOMWdTQ3hSMXpNVE9EbHdjUEphVUdPYUFBV1BaWTJ5UlJMZDRSWlV2bWpmTzdOaGdLQXNkd1ZMcnFkS0pkT3M?oc=5",
+        "publishedAt": "2026-06-30T04:14:19.000Z"
+      },
+      {
+        "time": "05:58",
+        "title": "大分県、中小のDX支援推進 総合窓口を開設",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSFd4UmVwTFRIQkRzcUljRzhCOE1TSjYzYndhWjM2RExic0NwdWtXQUZnUnpMakx2VGdSSG9lOTdfQVV2LXdUSFI5Tnp2RnlsUzd1eGtWN0hCZw?oc=5",
+        "publishedAt": "2026-06-29T20:58:15.000Z"
+      },
+      {
         "time": "18:30",
         "title": "日本製鉄発のスタートアップ「KAMAMESHI」、設備保全サービス開始…停止リスク可視化",
         "source": "レスポンス（Response.jp）",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-06-29T09:30:03.000Z"
       },
       {
-        "time": "06:00",
-        "title": "大分県、中小のDX支援推進 総合窓口を開設",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tZ0xkUkFyYmhEcWQ0aVpUN0RaTkl3MlU3UWVQNTVtZ0hKVGtQTkNWMkdTMEVsUlYwOFJ5a19Ea0YtVFBpZkM1a2FGdHYxZVplUFg3X1NNNXdwR2o0ZWNtTVpqZkUwbzFBNWhMdXhqU1dEdU5O?oc=5",
-        "publishedAt": "2026-06-29T21:00:13.000Z"
-      },
-      {
         "time": "05:00",
         "title": "富山・大手町で信号一時消える 車横転、制御盤に衝突 車内の1人搬送",
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VRWRVSjAyT2Q2V1hyNnpVLXJMRkpjVWxhSGo2S3ZkZDJ5d2JWVHpOY3FkNUs3Zlo3MlhQTEtoRDRqT3BRbjNUbnFBTE5xWFhXSjRRLWN3SWVIU244ZlRTVWR4U0lZUGhmXzJQVzVKS1hfUjhDLWNPSFUtbw?oc=5",
         "publishedAt": "2026-06-29T20:00:00.000Z"
-      },
-      {
-        "time": "17:00",
-        "title": "設備保全DXのM2X、シリーズAで総額11.4億円の資金調達",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1SVNqNnhCQjVveFJKRXg3MUFIUzZCNVlWN29KQ0htaFBBTVJ4OVVkX19xWmtOdkZpTjUtSU04VFpvdnBMakRyczNVQ0JLVW1pd1RHc1lzLWVDcnlJcUlPY0RJVmRncld6WE9LUEhLbGFBQVUxM2lGdWNzcw?oc=5",
-        "publishedAt": "2026-06-29T08:00:28.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,18 +82,18 @@
         "publishedAt": "2026-06-29T05:52:52.000Z"
       },
       {
-        "time": "12:16",
-        "title": "中国の輸出管理 日本の20団体追加",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586087?source=rss",
-        "publishedAt": "2026-06-29T03:16:29.000Z"
-      },
-      {
         "time": "21:26",
         "title": "米W杯放映会場近くで銃撃1人死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586149?source=rss",
         "publishedAt": "2026-06-29T12:26:30.000Z"
+      },
+      {
+        "time": "17:42",
+        "title": "フランス SHEINなど対象に法規制",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586248?source=rss",
+        "publishedAt": "2026-06-30T08:42:30.000Z"
       },
       {
         "time": "13:03",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-06-30T06:35:43.000Z"
       },
       {
+        "time": "17:02",
+        "title": "「もっちゅりん」第2弾の発売中止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586240?source=rss",
+        "publishedAt": "2026-06-30T08:02:21.000Z"
+      },
+      {
         "time": "14:51",
         "title": "最低賃金1500円先送り 格差の実態",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586229?source=rss",
         "publishedAt": "2026-06-30T05:51:19.000Z"
-      },
-      {
-        "time": "22:59",
-        "title": "客が乗務員室で機器触る 近鉄釈明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586157?source=rss",
-        "publishedAt": "2026-06-29T13:59:51.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-06-30T07:30:22.000Z"
       },
       {
+        "time": "16:50",
+        "title": "夫婦死亡火災 殺人も視野に捜査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586241?source=rss",
+        "publishedAt": "2026-06-30T07:50:47.000Z"
+      },
+      {
         "time": "19:43",
         "title": "八田容疑者を目撃 半数近くが関東",
         "source": "Yahoo!ニュース",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-06-29T10:43:08.000Z"
       },
       {
-        "time": "19:57",
-        "title": "5歳不明 母「連れて帰りたい」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586139?source=rss",
-        "publishedAt": "2026-06-29T10:57:08.000Z"
-      },
-      {
-        "time": "09:47",
-        "title": "氏名流出 地検元支部長が記載指示",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586195?source=rss",
-        "publishedAt": "2026-06-30T00:47:05.000Z"
-      },
-      {
         "time": "14:51",
         "title": "猟友会の男性 クマに襲われ大けが",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586230?source=rss",
         "publishedAt": "2026-06-30T05:51:37.000Z"
+      },
+      {
+        "time": "23:57",
+        "title": "児童139人がおう吐や下痢 足立区",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586161?source=rss",
+        "publishedAt": "2026-06-29T14:57:39.000Z"
       }
     ],
     "subsidyHeadlines": [
