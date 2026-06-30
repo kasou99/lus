@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-30T12:53:16.520Z",
+  "updatedAt": "2026-06-30T13:44:03.551Z",
   "items": [
     {
-      "time": "20:02",
-      "title": "航空宇宙自衛隊 略称「空自」維持",
+      "time": "22:29",
+      "title": "典範改正閣議決定 宮内庁に戸惑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586265?source=rss",
-      "publishedAt": "2026-06-30T11:02:50.000Z",
-      "xQuery": "航空宇宙自衛隊 略称「空自」維持"
+      "url": "https://news.yahoo.co.jp/pickup/6586277?source=rss",
+      "publishedAt": "2026-06-30T13:29:54.000Z",
+      "xQuery": "典範改正閣議決定 宮内庁に戸惑い"
     },
     {
       "time": "21:00",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "5歳児不明 10日目も手がかりなし"
     },
     {
-      "time": "18:35",
-      "title": "33歳のとき夫突然死 喪失感に苦悩",
+      "time": "21:40",
+      "title": "米男性 津軽海峡泳ぎ7海峡制覇",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586256?source=rss",
-      "publishedAt": "2026-06-30T09:35:39.000Z",
-      "xQuery": "33歳のとき夫突然死 喪失感に苦悩"
+      "url": "https://news.yahoo.co.jp/pickup/6586272?source=rss",
+      "publishedAt": "2026-06-30T12:40:57.000Z",
+      "xQuery": "米男性 津軽海峡泳ぎ7海峡制覇"
+    },
+    {
+      "time": "21:56",
+      "title": "左メス右オス? 珍クワガタを発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586274?source=rss",
+      "publishedAt": "2026-06-30T12:56:38.000Z",
+      "xQuery": "左メス右オス? 珍クワガタを発見"
     },
     {
       "time": "20:59",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586267?source=rss",
       "publishedAt": "2026-06-30T11:59:28.000Z",
       "xQuery": "韓国政府 サッカー協会特別監査へ"
-    },
-    {
-      "time": "20:07",
-      "title": "大丸下関店 来年8月末で営業終了",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586264?source=rss",
-      "publishedAt": "2026-06-30T11:07:52.000Z",
-      "xQuery": "大丸下関店 来年8月末で営業終了"
     }
   ]
 };

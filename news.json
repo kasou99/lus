@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T12:53:15.757Z",
+  "updatedAt": "2026-06-30T13:44:02.743Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "12:04",
-        "title": "1ドル162円台 介入に警戒高まる",
+        "time": "22:39",
+        "title": "歴史的な円安水準 生活への影響は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586211?source=rss",
-        "publishedAt": "2026-06-30T03:04:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586279?source=rss",
+        "publishedAt": "2026-06-30T13:39:46.000Z"
       },
       {
         "time": "14:03",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "22:24",
+        "title": "GHQ接収の住宅地区 79年ぶり返還",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586276?source=rss",
+        "publishedAt": "2026-06-30T13:24:13.000Z"
+      },
+      {
         "time": "11:48",
         "title": "夫婦殺害 2被告に無期懲役を求刑",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586269?source=rss",
         "publishedAt": "2026-06-30T12:00:14.000Z"
-      },
-      {
-        "time": "16:50",
-        "title": "夫婦死亡火災 殺人も視野に捜査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586241?source=rss",
-        "publishedAt": "2026-06-30T07:50:47.000Z"
       },
       {
         "time": "14:51",
