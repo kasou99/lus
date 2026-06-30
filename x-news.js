@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-30T13:44:03.551Z",
+  "updatedAt": "2026-06-30T15:01:04.370Z",
   "items": [
     {
       "time": "22:29",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "典範改正閣議決定 宮内庁に戸惑い"
     },
     {
-      "time": "21:00",
-      "title": "5歳児不明 10日目も手がかりなし",
+      "time": "22:39",
+      "title": "歴史的な円安水準 生活への影響は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586269?source=rss",
-      "publishedAt": "2026-06-30T12:00:14.000Z",
-      "xQuery": "5歳児不明 10日目も手がかりなし"
+      "url": "https://news.yahoo.co.jp/pickup/6586279?source=rss",
+      "publishedAt": "2026-06-30T13:39:46.000Z",
+      "xQuery": "歴史的な円安水準 生活への影響は"
     },
     {
-      "time": "21:40",
-      "title": "米男性 津軽海峡泳ぎ7海峡制覇",
+      "time": "22:51",
+      "title": "広島強殺 男はギャンブルで困窮か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586272?source=rss",
-      "publishedAt": "2026-06-30T12:40:57.000Z",
-      "xQuery": "米男性 津軽海峡泳ぎ7海峡制覇"
-    },
-    {
-      "time": "21:56",
-      "title": "左メス右オス? 珍クワガタを発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586274?source=rss",
-      "publishedAt": "2026-06-30T12:56:38.000Z",
-      "xQuery": "左メス右オス? 珍クワガタを発見"
+      "url": "https://news.yahoo.co.jp/pickup/6586281?source=rss",
+      "publishedAt": "2026-06-30T13:51:04.000Z",
+      "xQuery": "広島強殺 男はギャンブルで困窮か"
     },
     {
       "time": "20:59",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586267?source=rss",
       "publishedAt": "2026-06-30T11:59:28.000Z",
       "xQuery": "韓国政府 サッカー協会特別監査へ"
+    },
+    {
+      "time": "17:02",
+      "title": "「もっちゅりん」第2弾の発売中止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586240?source=rss",
+      "publishedAt": "2026-06-30T08:02:21.000Z",
+      "xQuery": "「もっちゅりん」第2弾の発売中止"
     }
   ]
 };
