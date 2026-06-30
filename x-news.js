@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-29T23:55:06.756Z",
+  "updatedAt": "2026-06-30T01:09:37.486Z",
   "items": [
     {
       "time": "08:08",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "不適切な盛り土358カ所 読売調査"
     },
     {
-      "time": "08:19",
-      "title": "脱線で見合わせの近鉄京都線 再開",
+      "time": "09:47",
+      "title": "氏名流出 地検元支部長が記載指示",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586187?source=rss",
-      "publishedAt": "2026-06-29T23:19:33.000Z",
-      "xQuery": "脱線で見合わせの近鉄京都線 再開"
+      "url": "https://news.yahoo.co.jp/pickup/6586195?source=rss",
+      "publishedAt": "2026-06-30T00:47:05.000Z",
+      "xQuery": "氏名流出 地検元支部長が記載指示"
     },
     {
       "time": "07:42",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ベネズエラ 地震の死者1700人超"
     },
     {
-      "time": "06:36",
-      "title": "JAL補助金不正受給 2億円返還へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586176?source=rss",
-      "publishedAt": "2026-06-29T21:36:39.000Z",
-      "xQuery": "JAL補助金不正受給 2億円返還へ"
-    },
-    {
       "time": "08:38",
       "title": "マイクロソフト株下落 AI巡り逆風",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6586188?source=rss",
       "publishedAt": "2026-06-29T23:38:23.000Z",
       "xQuery": "マイクロソフト株下落 AI巡り逆風"
+    },
+    {
+      "time": "08:46",
+      "title": "コナズ珈琲運営 新業態で出店の訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586190?source=rss",
+      "publishedAt": "2026-06-29T23:46:57.000Z",
+      "xQuery": "コナズ珈琲運営 新業態で出店の訳"
     }
   ]
 };

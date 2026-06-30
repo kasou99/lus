@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T23:55:05.801Z",
+  "updatedAt": "2026-06-30T01:09:36.516Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,20 @@
         "source": "北國新聞",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fT1ZRMm0yM1NzQTY1eVFIU0FBYVdBSFNHdlFLUG13NEMwc0NGWTE4dk9vXzJhV0lENE45WmtJU1VWWkNRUVNKQlNheG9qNFFya0VWLWFCdw?oc=5",
         "publishedAt": "2026-06-29T20:00:00.000Z"
+      },
+      {
+        "time": "05:54",
+        "title": "富山・大手町で信号一時消える 車横転、制御盤に衝突 車内の１人搬送 (北國新聞社)",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUlA1Qkh0WWZTcGJZZ2RZSU41UXBHalpxeWZoNHRfd3piT2NLR1J1V0t6ejk3SXpNd2R2S2NyVGoxTWYtOWVYem5Ba0RFVlFuc19BQ0xHRzU3MTkzaGRpSXVobmxBdVpRdVVHMEVNc3VwSFdmMnk1WFNRemtnSFk3emFPR0lQUnQ2djJfRE5R?oc=5",
+        "publishedAt": "2026-06-29T20:54:44.000Z"
+      },
+      {
+        "time": "02:37",
+        "title": "「音声で記録」から「AIで判断支援」までをひとつに──設備保全クラウド「ミロクルカルテ」、新生「ミロクルAI保全ナビ」を機能統合でリニューアル！",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IVnV6QUlGMGRIRFk4UndIeXVuOVd0bjVxWHpOX2xoNzdXMGhPRUJ5bjQzVmVoT1NLQW16RVJzTzl6bklIcENNbGJOaHBFVEUtR2VrdGJkRlNXUnF3di1JR0FWbDVpUVdnSkN2end4bEM?oc=5",
+        "publishedAt": "2026-06-29T17:37:10.000Z"
       },
       {
         "time": "18:30",
@@ -43,20 +57,6 @@
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VRWRVSjAyT2Q2V1hyNnpVLXJMRkpjVWxhSGo2S3ZkZDJ5d2JWVHpOY3FkNUs3Zlo3MlhQTEtoRDRqT3BRbjNUbnFBTE5xWFhXSjRRLWN3SWVIU244ZlRTVWR4U0lZUGhmXzJQVzVKS1hfUjhDLWNPSFUtbw?oc=5",
         "publishedAt": "2026-06-29T20:07:14.000Z"
-      },
-      {
-        "time": "12:19",
-        "title": "次世代設備保全クラウド「M2X」を開発する株式会社M2XがシリーズAエクステンションラウンドで総額11.4億円の資金調達を実施",
-        "source": "STARTUP LOG",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Yc2N6eGJfaGFIcjQ1cUlYS3FHZnBKTlA3WG53TkdQTDJjeThuZDhTdUJZMVpBdmVhMkhmZHAzdHhzcTNlMjltSTBEenY0NVU?oc=5",
-        "publishedAt": "2026-06-29T03:19:01.000Z"
-      },
-      {
-        "time": "17:59",
-        "title": "精密遊星減速機市場調査報告書：世界の産業現状、競合分析、シェア、規模、動向2026-2032年の予測｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82S002TGdBU2JMY1RpUDRNVlJaT2dhZFdBSnU4QUZrWnRYdm8tNHNvOXpKaE9STXo4NS1feFh1aTlJSklHV0VjSE5pc1pybDhjcnU2Wko2dw?oc=5",
-        "publishedAt": "2026-06-29T08:59:46.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,11 @@
         "publishedAt": "2026-06-29T22:42:54.000Z"
       },
       {
-        "time": "22:40",
-        "title": "独の福祉施設で銃撃事件 5人死亡",
+        "time": "09:48",
+        "title": "独の母子向け施設で発砲 6人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586156?source=rss",
-        "publishedAt": "2026-06-29T13:40:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586197?source=rss",
+        "publishedAt": "2026-06-30T00:48:41.000Z"
       },
       {
         "time": "14:52",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-06-29T09:04:15.000Z"
       },
       {
+        "time": "09:47",
+        "title": "氏名流出 地検元支部長が記載指示",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586195?source=rss",
+        "publishedAt": "2026-06-30T00:47:05.000Z"
+      },
+      {
         "time": "18:51",
         "title": "連日の職員逮捕 前橋市長がおわび",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586132?source=rss",
         "publishedAt": "2026-06-29T09:51:06.000Z"
-      },
-      {
-        "time": "23:19",
-        "title": "沖合でおぼれた男子高校生 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586158?source=rss",
-        "publishedAt": "2026-06-29T14:19:25.000Z"
       }
     ],
     "subsidyHeadlines": [
