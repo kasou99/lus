@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T18:12:45.022Z",
+  "updatedAt": "2026-06-30T19:09:51.609Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-06-29T20:00:00.000Z"
       },
       {
+        "time": "06:16",
+        "title": "設備保全クラウド「ミロクルカルテ」、紙の点検と現場の音声をAIで“判断に活かせるデータ”へ――「ミロクルAIオフライン点検」正式リリース、「ミロクルAI音声入力（α版）」提供開始",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zMkxja242R2lTWnFfQ08yLTJ3Mzl1OEM3a2dmZ3ZzNzg4Z1ZESTZvb0pmM21TMW11S3FzTTZQVGFNalJ1TU54WmNGZEsxUGo1d3c?oc=5",
+        "publishedAt": "2026-06-29T21:16:47.000Z"
+      },
+      {
         "time": "05:54",
         "title": "富山・大手町で信号一時消える 車横転、制御盤に衝突 車内の１人搬送 (北國新聞社)",
         "source": "Yahoo!ニュース",
@@ -31,25 +38,11 @@
         "publishedAt": "2026-06-29T20:54:44.000Z"
       },
       {
-        "time": "18:00",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-06-30T09:00:38.000Z"
-      },
-      {
-        "time": "20:30",
-        "title": "「今日も無事に帰ってきてほしい」- 現場で働く人を熱中症から守るために ジュトク ヘルメット内部温度",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Td293RmU4NHo0OEJyWFhnOGpvVi1IQzMtQ1pOb1NsUXJ1NzZWb1hUSGJfa1AyYkRqYXhmS1c1X3hmNTBzRVJTY0Y2SC1mVmZuS0xaYWVKcWVvTW1KUlVUM0ZYRkZtMnVW?oc=5",
-        "publishedAt": "2026-06-30T11:30:26.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "大分県、中小のDX支援推進 総合窓口を開設",
+        "time": "05:57",
+        "title": "SDRS、景品ガチャ付き自販機開発 商業施設など訴求",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tZ0xkUkFyYmhEcWQ0aVpUN0RaTkl3MlU3UWVQNTVtZ0hKVGtQTkNWMkdTMEVsUlYwOFJ5a19Ea0YtVFBpZkM1a2FGdHYxZVplUFg3X1NNNXdwR2o0ZWNtTVpqZkUwbzFBNWhMdXhqU1dEdU5O?oc=5",
-        "publishedAt": "2026-06-29T21:00:13.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4waHd0YXpvVEc0aVN6YlR0RVdmM1M4UWJVQU9Uanc4eHNDeXBrUnlGNHoxN0JRVkxiUS1wdjNfRDVKYjEtUlJ2cmJkenIzNmkxdVhWQ29BM2FOQQ?oc=5",
+        "publishedAt": "2026-06-29T20:57:56.000Z"
       },
       {
         "time": "05:00",
@@ -57,6 +50,13 @@
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VRWRVSjAyT2Q2V1hyNnpVLXJMRkpjVWxhSGo2S3ZkZDJ5d2JWVHpOY3FkNUs3Zlo3MlhQTEtoRDRqT3BRbjNUbnFBTE5xWFhXSjRRLWN3SWVIU244ZlRTVWR4U0lZUGhmXzJQVzVKS1hfUjhDLWNPSFUtbw?oc=5",
         "publishedAt": "2026-06-29T20:00:00.000Z"
+      },
+      {
+        "time": "18:00",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-06-30T09:00:38.000Z"
       }
     ],
     "worldHeadlines": [
