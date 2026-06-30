@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-30T21:08:44.958Z",
+  "updatedAt": "2026-06-30T22:01:13.161Z",
   "items": [
     {
       "time": "22:29",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "広島強殺 男はギャンブルで困窮か"
     },
     {
-      "time": "20:59",
-      "title": "韓国政府 サッカー協会特別監査へ",
+      "time": "06:37",
+      "title": "富士山遭難死の7割が3000m超 分析",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586267?source=rss",
-      "publishedAt": "2026-06-30T11:59:28.000Z",
-      "xQuery": "韓国政府 サッカー協会特別監査へ"
+      "url": "https://news.yahoo.co.jp/pickup/6586286?source=rss",
+      "publishedAt": "2026-06-30T21:37:22.000Z",
+      "xQuery": "富士山遭難死の7割が3000m超 分析"
     },
     {
       "time": "17:02",
