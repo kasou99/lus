@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T16:20:27.105Z",
+  "updatedAt": "2026-06-30T17:13:29.563Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-06-29T20:10:00.000Z"
       },
       {
-        "time": "06:16",
-        "title": "設備保全クラウド「ミロクルカルテ」、紙の点検と現場の音声をAIで“判断に活かせるデータ”へ――「ミロクルAIオフライン点検」正式リリース、「ミロクルAI音声入力（α版）」提供開始",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zMkxja242R2lTWnFfQ08yLTJ3Mzl1OEM3a2dmZ3ZzNzg4Z1ZESTZvb0pmM21TMW11S3FzTTZQVGFNalJ1TU54WmNGZEsxUGo1d3c?oc=5",
-        "publishedAt": "2026-06-29T21:16:47.000Z"
-      },
-      {
         "time": "05:54",
         "title": "富山・大手町で信号一時消える 車横転、制御盤に衝突 車内の１人搬送 (北國新聞社)",
         "source": "Yahoo!ニュース",
@@ -36,6 +29,13 @@
         "source": "北國新聞",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fT1ZRMm0yM1NzQTY1eVFIU0FBYVdBSFNHdlFLUG13NEMwc0NGWTE4dk9vXzJhV0lENE45WmtJU1VWWkNRUVNKQlNheG9qNFFya0VWLWFCdw?oc=5",
         "publishedAt": "2026-06-29T20:00:00.000Z"
+      },
+      {
+        "time": "18:00",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-06-30T09:00:38.000Z"
       },
       {
         "time": "20:30",
