@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-30T09:17:59.473Z",
+  "updatedAt": "2026-06-30T10:40:17.706Z",
   "items": [
     {
-      "time": "17:18",
-      "title": "政府 皇室典範改正案を閣議決定",
+      "time": "18:31",
+      "title": "国産AI会社に3873億円支援 経産省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586245?source=rss",
-      "publishedAt": "2026-06-30T08:18:11.000Z",
-      "xQuery": "政府 皇室典範改正案を閣議決定"
+      "url": "https://news.yahoo.co.jp/pickup/6586255?source=rss",
+      "publishedAt": "2026-06-30T09:31:50.000Z",
+      "xQuery": "国産AI会社に3873億円支援 経産省"
     },
     {
-      "time": "16:50",
-      "title": "夫婦死亡火災 殺人も視野に捜査",
+      "time": "19:09",
+      "title": "航空宇宙自衛隊 略称「空自」維持",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586241?source=rss",
-      "publishedAt": "2026-06-30T07:50:47.000Z",
-      "xQuery": "夫婦死亡火災 殺人も視野に捜査"
+      "url": "https://news.yahoo.co.jp/pickup/6586260?source=rss",
+      "publishedAt": "2026-06-30T10:09:12.000Z",
+      "xQuery": "航空宇宙自衛隊 略称「空自」維持"
     },
     {
-      "time": "16:30",
-      "title": "特別支援学校から10歳児行方不明",
+      "time": "18:35",
+      "title": "33歳のとき夫突然死 喪失感に苦悩",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586238?source=rss",
-      "publishedAt": "2026-06-30T07:30:22.000Z",
-      "xQuery": "特別支援学校から10歳児行方不明"
-    },
-    {
-      "time": "17:23",
-      "title": "黒海でイルカ大量死 露侵攻以降",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586246?source=rss",
-      "publishedAt": "2026-06-30T08:23:44.000Z",
-      "xQuery": "黒海でイルカ大量死 露侵攻以降"
+      "url": "https://news.yahoo.co.jp/pickup/6586256?source=rss",
+      "publishedAt": "2026-06-30T09:35:39.000Z",
+      "xQuery": "33歳のとき夫突然死 喪失感に苦悩"
     },
     {
       "time": "18:06",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586254?source=rss",
       "publishedAt": "2026-06-30T09:06:32.000Z",
       "xQuery": "書類送検の長州小力さん 不起訴"
+    },
+    {
+      "time": "17:47",
+      "title": "中年の約4割「睡眠で疲れ取れず」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586247?source=rss",
+      "publishedAt": "2026-06-30T08:47:20.000Z",
+      "xQuery": "中年の約4割「睡眠で疲れ取れず」"
     }
   ]
 };

@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-06-30T09:17:58.516Z",
+  "updatedAt": "2026-06-30T10:40:16.920Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:21",
+        "title": "工作機械の設備監視と遠隔サポートを統合した新プラットフォーム「SatelinC（サテリンク）」を提供開始（PR TIMES）",
+        "source": "毎日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mQlRpTHNEQlZXUnBHMi12ckNKVDQ2N0IzRkpOUnptYy1yeUpTZURZamswM2tzOUJ2WlNOelhGRkd3VkRJbFd1QTQ4VVktSTFYd284RlBxbW5IR21RNVNReTJhUUxNMl9S?oc=5",
+        "publishedAt": "2026-06-30T04:21:46.000Z"
+      },
       {
         "time": "05:10",
         "title": "鍵は「ソフト定義とAI」にあり、初出展で工作機械の存在感をアピール",
@@ -10,18 +17,18 @@
         "publishedAt": "2026-06-29T20:10:00.000Z"
       },
       {
-        "time": "11:33",
-        "title": "工作機械の設備監視と遠隔サポートを統合した新プラットフォーム「SatelinC（サテリンク）」を提供開始",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EWHBUOGVCaGFIaGlhS1lXaWcxS3BiaFA3dV9wREdyd3RDeUl1dkZCbmVXSlllcDFSNEtoY2NjM0pBQm9NenFxT2Z1TWMtVmdWVjhRVXRCUnFpWnZOSVVLa3d6VDBnUEhSNEE?oc=5",
-        "publishedAt": "2026-06-30T02:33:48.000Z"
-      },
-      {
         "time": "05:00",
         "title": "富山・大手町で信号一時消える 車横転、制御盤に衝突 車内の１人搬送",
         "source": "北國新聞",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fT1ZRMm0yM1NzQTY1eVFIU0FBYVdBSFNHdlFLUG13NEMwc0NGWTE4dk9vXzJhV0lENE45WmtJU1VWWkNRUVNKQlNheG9qNFFya0VWLWFCdw?oc=5",
         "publishedAt": "2026-06-29T20:00:00.000Z"
+      },
+      {
+        "time": "06:16",
+        "title": "設備保全クラウド「ミロクルカルテ」、紙の点検と現場の音声をAIで“判断に活かせるデータ”へ――「ミロクルAIオフライン点検」正式リリース、「ミロクルAI音声入力（α版）」提供開始",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zMkxja242R2lTWnFfQ08yLTJ3Mzl1OEM3a2dmZ3ZzNzg4Z1ZESTZvb0pmM21TMW11S3FzTTZQVGFNalJ1TU54WmNGZEsxUGo1d3c?oc=5",
+        "publishedAt": "2026-06-29T21:16:47.000Z"
       },
       {
         "time": "05:54",
@@ -43,13 +50,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSFd4UmVwTFRIQkRzcUljRzhCOE1TSjYzYndhWjM2RExic0NwdWtXQUZnUnpMakx2VGdSSG9lOTdfQVV2LXdUSFI5Tnp2RnlsUzd1eGtWN0hCZw?oc=5",
         "publishedAt": "2026-06-29T20:58:15.000Z"
-      },
-      {
-        "time": "18:30",
-        "title": "日本製鉄発のスタートアップ「KAMAMESHI」、設備保全サービス開始…停止リスク可視化",
-        "source": "レスポンス（Response.jp）",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XSmN1MjZlZjRYU2cwUTVKeXAxWEUtVnFpVjdDNEcyemZ0YmNqTXpsYmZKR3hiMms4d3lFLS1Oa19kTVVhVnV4bFZzSzBMTHAzajJKak1sa3FORVpKNDE4?oc=5",
-        "publishedAt": "2026-06-29T09:30:03.000Z"
       },
       {
         "time": "05:00",
@@ -96,11 +96,11 @@
         "publishedAt": "2026-06-30T08:42:30.000Z"
       },
       {
-        "time": "13:03",
-        "title": "タイ少女人身取引 母に禁錮7年6月",
+        "time": "11:32",
+        "title": "露で燃料不足 首都の給油所に行列",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586094?source=rss",
-        "publishedAt": "2026-06-29T04:03:30.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586208?source=rss",
+        "publishedAt": "2026-06-30T02:32:48.000Z"
       }
     ],
     "economyHeadlines": [
@@ -117,6 +117,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586227?source=rss",
         "publishedAt": "2026-06-30T05:03:20.000Z"
+      },
+      {
+        "time": "19:11",
+        "title": "飲食料値上げ 年間2万品目ペース",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586261?source=rss",
+        "publishedAt": "2026-06-30T10:11:21.000Z"
       },
       {
         "time": "11:29",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586240?source=rss",
         "publishedAt": "2026-06-30T08:02:21.000Z"
-      },
-      {
-        "time": "14:51",
-        "title": "最低賃金1500円先送り 格差の実態",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586229?source=rss",
-        "publishedAt": "2026-06-30T05:51:19.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-06-30T05:51:37.000Z"
       },
       {
-        "time": "23:57",
-        "title": "児童139人がおう吐や下痢 足立区",
+        "time": "18:50",
+        "title": "閉山期の富士登山 禁止巡り論争に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586161?source=rss",
-        "publishedAt": "2026-06-29T14:57:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586258?source=rss",
+        "publishedAt": "2026-06-30T09:50:46.000Z"
       }
     ],
     "subsidyHeadlines": [
