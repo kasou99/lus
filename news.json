@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T22:56:32.448Z",
+  "updatedAt": "2026-06-30T23:35:12.265Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-06-30T09:00:38.000Z"
       },
       {
+        "time": "05:00",
+        "title": "国防担う地元企業 官民で構造改革を 村岡・美岡工業あす神戸でセミナー 防衛産業の課題提言",
+        "source": "nnn.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00b0xpZEEzandNVGdjdnBBa09DX0Q0WVEyeDU5djMzYTFxM3FLVVJBZzBRTlFyeDlCQW9WeDlKRDhjWTh4UXUwUEh2T0JoT2dJ?oc=5",
+        "publishedAt": "2026-06-30T20:00:00.000Z"
+      },
+      {
         "time": "05:04",
         "title": "経産省、フィジカルAIで国産基盤 モデル開発に3873億円",
         "source": "日刊工業新聞",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Td293RmU4NHo0OEJyWFhnOGpvVi1IQzMtQ1pOb1NsUXJ1NzZWb1hUSGJfa1AyYkRqYXhmS1c1X3hmNTBzRVJTY0Y2SC1mVmZuS0xaYWVKcWVvTW1KUlVUM0ZYRkZtMnVW?oc=5",
         "publishedAt": "2026-06-30T11:30:26.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "CNCガントリー型中ぐり・フライス盤の世界市場（2026年～2032年）、市場規模（ガントリー固定式、ガントリー移動式）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mbjByMUZXcXA1ZEJrMEZwQWJoS09Nd3paaUNnd3lMbHhoS3FmLWZrcmFjd3NHNkk3S3pmMDVsaUhoa2FSaUs2ZHlud010dw?oc=5",
-        "publishedAt": "2026-06-30T06:00:00.000Z"
       }
     ],
     "worldHeadlines": [
