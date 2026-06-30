@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-30T05:32:33.384Z",
+  "updatedAt": "2026-06-30T07:32:06.191Z",
   "items": [
     {
-      "time": "13:39",
-      "title": "国旗損壊罪の創設法案 衆院で可決",
+      "time": "16:16",
+      "title": "野党5党「国会正常化」を申し入れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586224?source=rss",
-      "publishedAt": "2026-06-30T04:39:07.000Z",
-      "xQuery": "国旗損壊罪の創設法案 衆院で可決"
+      "url": "https://news.yahoo.co.jp/pickup/6586237?source=rss",
+      "publishedAt": "2026-06-30T07:16:27.000Z",
+      "xQuery": "野党5党「国会正常化」を申し入れ"
     },
     {
-      "time": "12:58",
-      "title": "副首都法案が審議入り 野党は欠席",
+      "time": "14:51",
+      "title": "最低賃金1500円先送り 格差の実態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586218?source=rss",
-      "publishedAt": "2026-06-30T03:58:27.000Z",
-      "xQuery": "副首都法案が審議入り 野党は欠席"
+      "url": "https://news.yahoo.co.jp/pickup/6586229?source=rss",
+      "publishedAt": "2026-06-30T05:51:19.000Z",
+      "xQuery": "最低賃金1500円先送り 格差の実態"
+    },
+    {
+      "time": "14:51",
+      "title": "猟友会の男性 クマに襲われ大けが",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586230?source=rss",
+      "publishedAt": "2026-06-30T05:51:37.000Z",
+      "xQuery": "猟友会の男性 クマに襲われ大けが"
     },
     {
       "time": "14:03",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "アフラック 438万人分の情報流出"
     },
     {
-      "time": "12:04",
-      "title": "1ドル162円台 介入に警戒高まる",
+      "time": "16:26",
+      "title": "iPhone18Proの機密情報流出 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586211?source=rss",
-      "publishedAt": "2026-06-30T03:04:20.000Z",
-      "xQuery": "1ドル162円台 介入に警戒高まる"
-    },
-    {
-      "time": "11:29",
-      "title": "国家公務員 ボーナス平均73万円超",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586205?source=rss",
-      "publishedAt": "2026-06-30T02:29:29.000Z",
-      "xQuery": "国家公務員 ボーナス平均73万円超"
+      "url": "https://news.yahoo.co.jp/pickup/6586236?source=rss",
+      "publishedAt": "2026-06-30T07:26:37.000Z",
+      "xQuery": "iPhone18Proの機密情報流出 報道"
     }
   ]
 };
