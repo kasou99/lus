@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T10:40:16.920Z",
+  "updatedAt": "2026-06-30T11:54:46.650Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -133,18 +133,18 @@
         "publishedAt": "2026-06-30T02:29:29.000Z"
       },
       {
+        "time": "20:07",
+        "title": "大丸下関店 来年8月末で営業終了",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586264?source=rss",
+        "publishedAt": "2026-06-30T11:07:52.000Z"
+      },
+      {
         "time": "15:35",
         "title": "USJ 9月1日分から入場券価格改定",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586232?source=rss",
         "publishedAt": "2026-06-30T06:35:43.000Z"
-      },
-      {
-        "time": "17:02",
-        "title": "「もっちゅりん」第2弾の発売中止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586240?source=rss",
-        "publishedAt": "2026-06-30T08:02:21.000Z"
       }
     ],
     "localHeadlines": [

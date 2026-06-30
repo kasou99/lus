@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-30T10:40:17.706Z",
+  "updatedAt": "2026-06-30T11:54:47.192Z",
   "items": [
     {
-      "time": "18:31",
-      "title": "国産AI会社に3873億円支援 経産省",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586255?source=rss",
-      "publishedAt": "2026-06-30T09:31:50.000Z",
-      "xQuery": "国産AI会社に3873億円支援 経産省"
-    },
-    {
-      "time": "19:09",
+      "time": "20:02",
       "title": "航空宇宙自衛隊 略称「空自」維持",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586260?source=rss",
-      "publishedAt": "2026-06-30T10:09:12.000Z",
+      "url": "https://news.yahoo.co.jp/pickup/6586265?source=rss",
+      "publishedAt": "2026-06-30T11:02:50.000Z",
       "xQuery": "航空宇宙自衛隊 略称「空自」維持"
+    },
+    {
+      "time": "19:11",
+      "title": "飲食料値上げ 年間2万品目ペース",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586261?source=rss",
+      "publishedAt": "2026-06-30T10:11:21.000Z",
+      "xQuery": "飲食料値上げ 年間2万品目ペース"
     },
     {
       "time": "18:35",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "書類送検の長州小力さん 不起訴"
     },
     {
-      "time": "17:47",
-      "title": "中年の約4割「睡眠で疲れ取れず」",
+      "time": "18:50",
+      "title": "閉山期の富士登山 禁止巡り論争に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586247?source=rss",
-      "publishedAt": "2026-06-30T08:47:20.000Z",
-      "xQuery": "中年の約4割「睡眠で疲れ取れず」"
+      "url": "https://news.yahoo.co.jp/pickup/6586258?source=rss",
+      "publishedAt": "2026-06-30T09:50:46.000Z",
+      "xQuery": "閉山期の富士登山 禁止巡り論争に"
     }
   ]
 };
