@@ -1,27 +1,20 @@
 {
-  "updatedAt": "2026-06-30T19:09:51.609Z",
+  "updatedAt": "2026-06-30T20:14:34.334Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:04",
+        "title": "多様性を育む／西島 支え合う文化育て100年",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5odDR0emRtTmp4YTJhRDNlNFNzcDUwMHdkUE1LU3cxQWVySEhkMGt0NVpVXzE5Z09qUkFrRUZjQ1ltdDVMNHBZMnJ2bUc0U3NnNmVhc2M1RjBUVFE?oc=5",
+        "publishedAt": "2026-06-30T20:04:07.000Z"
+      },
       {
         "time": "13:21",
         "title": "工作機械の設備監視と遠隔サポートを統合した新プラットフォーム「SatelinC（サテリンク）」を提供開始（PR TIMES）",
         "source": "毎日新聞",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mQlRpTHNEQlZXUnBHMi12ckNKVDQ2N0IzRkpOUnptYy1yeUpTZURZamswM2tzOUJ2WlNOelhGRkd3VkRJbFd1QTQ4VVktSTFYd284RlBxbW5IR21RNVNReTJhUUxNMl9S?oc=5",
         "publishedAt": "2026-06-30T04:21:46.000Z"
-      },
-      {
-        "time": "05:10",
-        "title": "鍵は「ソフト定義とAI」にあり、初出展で工作機械の存在感をアピール",
-        "source": "日経クロステック",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QNlk0OWh0SkVPN2o4eDBLdG1LdHVQVGFiVnNKTk5sWXJGUl9Vajd2eEMxWXJrM21BX0tjOGdZMzlnc2I1TUFvRnFPNDZYN0x0Q1dUZVdUQjFGeWZqdDFrWVpnbVI0VHFt?oc=5",
-        "publishedAt": "2026-06-29T20:10:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "富山・大手町で信号一時消える 車横転、制御盤に衝突 車内の１人搬送",
-        "source": "北國新聞",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fT1ZRMm0yM1NzQTY1eVFIU0FBYVdBSFNHdlFLUG13NEMwc0NGWTE4dk9vXzJhV0lENE45WmtJU1VWWkNRUVNKQlNheG9qNFFya0VWLWFCdw?oc=5",
-        "publishedAt": "2026-06-29T20:00:00.000Z"
       },
       {
         "time": "06:16",
@@ -31,25 +24,25 @@
         "publishedAt": "2026-06-29T21:16:47.000Z"
       },
       {
-        "time": "05:54",
-        "title": "富山・大手町で信号一時消える 車横転、制御盤に衝突 車内の１人搬送 (北國新聞社)",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUlA1Qkh0WWZTcGJZZ2RZSU41UXBHalpxeWZoNHRfd3piT2NLR1J1V0t6ejk3SXpNd2R2S2NyVGoxTWYtOWVYem5Ba0RFVlFuc19BQ0xHRzU3MTkzaGRpSXVobmxBdVpRdVVHMEVNc3VwSFdmMnk1WFNRemtnSFk3emFPR0lQUnQ2djJfRE5R?oc=5",
-        "publishedAt": "2026-06-29T20:54:44.000Z"
-      },
-      {
-        "time": "05:57",
-        "title": "SDRS、景品ガチャ付き自販機開発 商業施設など訴求",
+        "time": "05:04",
+        "title": "経産省、フィジカルAIで国産基盤 モデル開発に3873億円",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4waHd0YXpvVEc0aVN6YlR0RVdmM1M4UWJVQU9Uanc4eHNDeXBrUnlGNHoxN0JRVkxiUS1wdjNfRDVKYjEtUlJ2cmJkenIzNmkxdVhWQ29BM2FOQQ?oc=5",
-        "publishedAt": "2026-06-29T20:57:56.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kOXJReW1KX3hlemxvMHVndWpWY2pwOFpQT0tFdU9WOWlzclg3Y0FvRzZxNHpzcWk1R1hqaGNyN28tVEVIamNiZjhnNFE2bUxlYjlOOV82bTJmLTQ?oc=5",
+        "publishedAt": "2026-06-30T20:04:07.000Z"
       },
       {
-        "time": "05:00",
-        "title": "富山・大手町で信号一時消える 車横転、制御盤に衝突 車内の1人搬送",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VRWRVSjAyT2Q2V1hyNnpVLXJMRkpjVWxhSGo2S3ZkZDJ5d2JWVHpOY3FkNUs3Zlo3MlhQTEtoRDRqT3BRbjNUbnFBTE5xWFhXSjRRLWN3SWVIU244ZlRTVWR4U0lZUGhmXzJQVzVKS1hfUjhDLWNPSFUtbw?oc=5",
-        "publishedAt": "2026-06-29T20:00:00.000Z"
+        "time": "19:00",
+        "title": "展示会マーケティング専門家が厳選「2026年7月開催",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13WkMwZDNLaEVGTEdDN21FcTZZdDFaX1pGbjNHNVFzTTVhZXh6R2RQQVdsRURkVzhJWlZLbC00Ni1TVmt0VzA2RmlMeTdoenVBamZFcTNESUJHMFhodjltYWVnOGtLbW50?oc=5",
+        "publishedAt": "2026-06-30T10:00:15.000Z"
+      },
+      {
+        "time": "16:13",
+        "title": "Mシリーズ丸形コネクタの世界市場規模：年平均成長率3.3%予測、最新トレンドと需要変化2026-2032｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95cldmQlpRN0tyVC1TVnp5VHl2cFVaRXJZcTV0U3JlX2VFVWpvaklscUUwa2N3TWdORXZFdERVSXRvSThiU0lTaHZYSlc4Z2NEZnFSUU1ZMA?oc=5",
+        "publishedAt": "2026-06-30T07:13:18.000Z"
       },
       {
         "time": "18:00",
@@ -57,6 +50,13 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
         "publishedAt": "2026-06-30T09:00:38.000Z"
+      },
+      {
+        "time": "05:03",
+        "title": "産業TREND／共創時代のメドテック（2）革新的医療機器の実装準備",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBseTdORE50OXEyT3JLLTZhOHM4S1JuQUtJOGdwY3p0bjA0THF2ZUYtT3R1c2daRVZFbGVuVWZpWnNHUjRERm9faGRYOTEtT2dfRGtVMEZqaWY3ZXM?oc=5",
+        "publishedAt": "2026-06-30T20:03:55.000Z"
       }
     ],
     "worldHeadlines": [
