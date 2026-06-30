@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-30T11:54:47.192Z",
+  "updatedAt": "2026-06-30T12:53:16.520Z",
   "items": [
     {
       "time": "20:02",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "航空宇宙自衛隊 略称「空自」維持"
     },
     {
-      "time": "19:11",
-      "title": "飲食料値上げ 年間2万品目ペース",
+      "time": "21:00",
+      "title": "5歳児不明 10日目も手がかりなし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586261?source=rss",
-      "publishedAt": "2026-06-30T10:11:21.000Z",
-      "xQuery": "飲食料値上げ 年間2万品目ペース"
+      "url": "https://news.yahoo.co.jp/pickup/6586269?source=rss",
+      "publishedAt": "2026-06-30T12:00:14.000Z",
+      "xQuery": "5歳児不明 10日目も手がかりなし"
     },
     {
       "time": "18:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "33歳のとき夫突然死 喪失感に苦悩"
     },
     {
-      "time": "18:06",
-      "title": "書類送検の長州小力さん 不起訴",
+      "time": "20:59",
+      "title": "韓国政府 サッカー協会特別監査へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586254?source=rss",
-      "publishedAt": "2026-06-30T09:06:32.000Z",
-      "xQuery": "書類送検の長州小力さん 不起訴"
+      "url": "https://news.yahoo.co.jp/pickup/6586267?source=rss",
+      "publishedAt": "2026-06-30T11:59:28.000Z",
+      "xQuery": "韓国政府 サッカー協会特別監査へ"
     },
     {
-      "time": "18:50",
-      "title": "閉山期の富士登山 禁止巡り論争に",
+      "time": "20:07",
+      "title": "大丸下関店 来年8月末で営業終了",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586258?source=rss",
-      "publishedAt": "2026-06-30T09:50:46.000Z",
-      "xQuery": "閉山期の富士登山 禁止巡り論争に"
+      "url": "https://news.yahoo.co.jp/pickup/6586264?source=rss",
+      "publishedAt": "2026-06-30T11:07:52.000Z",
+      "xQuery": "大丸下関店 来年8月末で営業終了"
     }
   ]
 };
