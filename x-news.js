@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-30T22:01:13.161Z",
+  "updatedAt": "2026-06-30T22:56:33.184Z",
   "items": [
     {
-      "time": "22:29",
-      "title": "典範改正閣議決定 宮内庁に戸惑い",
+      "time": "07:16",
+      "title": "印にバイオガス施設 日印合意へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586277?source=rss",
-      "publishedAt": "2026-06-30T13:29:54.000Z",
-      "xQuery": "典範改正閣議決定 宮内庁に戸惑い"
+      "url": "https://news.yahoo.co.jp/pickup/6586290?source=rss",
+      "publishedAt": "2026-06-30T22:16:04.000Z",
+      "xQuery": "印にバイオガス施設 日印合意へ"
     },
     {
-      "time": "22:39",
-      "title": "歴史的な円安水準 生活への影響は",
+      "time": "07:39",
+      "title": "出生地主義制限の米大統領令 違憲",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586279?source=rss",
-      "publishedAt": "2026-06-30T13:39:46.000Z",
-      "xQuery": "歴史的な円安水準 生活への影響は"
+      "url": "https://news.yahoo.co.jp/pickup/6586293?source=rss",
+      "publishedAt": "2026-06-30T22:39:43.000Z",
+      "xQuery": "出生地主義制限の米大統領令 違憲"
     },
     {
       "time": "22:51",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "富士山遭難死の7割が3000m超 分析"
     },
     {
-      "time": "17:02",
-      "title": "「もっちゅりん」第2弾の発売中止",
+      "time": "07:14",
+      "title": "東北道で車3台絡む事故 女性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586240?source=rss",
-      "publishedAt": "2026-06-30T08:02:21.000Z",
-      "xQuery": "「もっちゅりん」第2弾の発売中止"
+      "url": "https://news.yahoo.co.jp/pickup/6586289?source=rss",
+      "publishedAt": "2026-06-30T22:14:13.000Z",
+      "xQuery": "東北道で車3台絡む事故 女性死亡"
     }
   ]
 };
