@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-30T01:09:37.486Z",
+  "updatedAt": "2026-06-30T02:25:25.453Z",
   "items": [
     {
       "time": "08:08",
-      "title": "不適切な盛り土358カ所 読売調査",
+      "title": "国会延長案を官邸検討 自維温度差",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586186?source=rss",
+      "url": "https://news.yahoo.co.jp/pickup/6586185?source=rss",
       "publishedAt": "2026-06-29T23:08:01.000Z",
-      "xQuery": "不適切な盛り土358カ所 読売調査"
+      "xQuery": "国会延長案を官邸検討 自維温度差"
     },
     {
-      "time": "09:47",
-      "title": "氏名流出 地検元支部長が記載指示",
+      "time": "10:42",
+      "title": "衆参議員の平均所得3003万円 25年",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586195?source=rss",
-      "publishedAt": "2026-06-30T00:47:05.000Z",
-      "xQuery": "氏名流出 地検元支部長が記載指示"
+      "url": "https://news.yahoo.co.jp/pickup/6586201?source=rss",
+      "publishedAt": "2026-06-30T01:42:12.000Z",
+      "xQuery": "衆参議員の平均所得3003万円 25年"
     },
     {
-      "time": "07:42",
-      "title": "ベネズエラ 地震の死者1700人超",
+      "time": "10:18",
+      "title": "1ドル162円台に下落 39年半ぶり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586181?source=rss",
-      "publishedAt": "2026-06-29T22:42:54.000Z",
-      "xQuery": "ベネズエラ 地震の死者1700人超"
+      "url": "https://news.yahoo.co.jp/pickup/6586199?source=rss",
+      "publishedAt": "2026-06-30T01:18:12.000Z",
+      "xQuery": "1ドル162円台に下落 39年半ぶり"
+    },
+    {
+      "time": "09:48",
+      "title": "独の母子向け施設で発砲 6人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586197?source=rss",
+      "publishedAt": "2026-06-30T00:48:41.000Z",
+      "xQuery": "独の母子向け施設で発砲 6人死亡"
     },
     {
       "time": "08:38",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586188?source=rss",
       "publishedAt": "2026-06-29T23:38:23.000Z",
       "xQuery": "マイクロソフト株下落 AI巡り逆風"
-    },
-    {
-      "time": "08:46",
-      "title": "コナズ珈琲運営 新業態で出店の訳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586190?source=rss",
-      "publishedAt": "2026-06-29T23:46:57.000Z",
-      "xQuery": "コナズ珈琲運営 新業態で出店の訳"
     }
   ]
 };
