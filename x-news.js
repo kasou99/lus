@@ -1,13 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-30T02:25:25.453Z",
+  "updatedAt": "2026-06-30T03:49:14.072Z",
   "items": [
     {
-      "time": "08:08",
-      "title": "国会延長案を官邸検討 自維温度差",
+      "time": "12:42",
+      "title": "皇室典範改正案 自維が提出合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586185?source=rss",
-      "publishedAt": "2026-06-29T23:08:01.000Z",
-      "xQuery": "国会延長案を官邸検討 自維温度差"
+      "url": "https://news.yahoo.co.jp/pickup/6586219?source=rss",
+      "publishedAt": "2026-06-30T03:42:26.000Z",
+      "xQuery": "皇室典範改正案 自維が提出合意"
+    },
+    {
+      "time": "12:04",
+      "title": "1ドル162円台 介入に警戒高まる",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586211?source=rss",
+      "publishedAt": "2026-06-30T03:04:20.000Z",
+      "xQuery": "1ドル162円台 介入に警戒高まる"
+    },
+    {
+      "time": "11:48",
+      "title": "夫婦殺害 2被告に無期懲役を求刑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586209?source=rss",
+      "publishedAt": "2026-06-30T02:48:24.000Z",
+      "xQuery": "夫婦殺害 2被告に無期懲役を求刑"
     },
     {
       "time": "10:42",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "衆参議員の平均所得3003万円 25年"
     },
     {
-      "time": "10:18",
-      "title": "1ドル162円台に下落 39年半ぶり",
+      "time": "11:29",
+      "title": "国家公務員 ボーナス平均73万円超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586199?source=rss",
-      "publishedAt": "2026-06-30T01:18:12.000Z",
-      "xQuery": "1ドル162円台に下落 39年半ぶり"
-    },
-    {
-      "time": "09:48",
-      "title": "独の母子向け施設で発砲 6人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586197?source=rss",
-      "publishedAt": "2026-06-30T00:48:41.000Z",
-      "xQuery": "独の母子向け施設で発砲 6人死亡"
-    },
-    {
-      "time": "08:38",
-      "title": "マイクロソフト株下落 AI巡り逆風",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586188?source=rss",
-      "publishedAt": "2026-06-29T23:38:23.000Z",
-      "xQuery": "マイクロソフト株下落 AI巡り逆風"
+      "url": "https://news.yahoo.co.jp/pickup/6586205?source=rss",
+      "publishedAt": "2026-06-30T02:29:29.000Z",
+      "xQuery": "国家公務員 ボーナス平均73万円超"
     }
   ]
 };

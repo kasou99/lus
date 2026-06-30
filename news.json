@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T02:25:24.850Z",
+  "updatedAt": "2026-06-30T03:49:13.530Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,25 @@
         "publishedAt": "2026-06-29T20:10:00.000Z"
       },
       {
-        "time": "05:04",
-        "title": "富山・大手町で信号一時消える 車横転、制御盤に衝突 車内の１人搬送",
-        "source": "47NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lTndXV0RQTzNvSVktT3Vrend4ZHhRdkdFQ3pLRDJJdzIzaUJyOGtIQXBiZUNBbnlWSWZrRlJHZks0VFFtV2pFYWN4QQ?oc=5",
-        "publishedAt": "2026-06-29T20:04:30.000Z"
-      },
-      {
         "time": "05:54",
         "title": "富山・大手町で信号一時消える 車横転、制御盤に衝突 車内の１人搬送 (北國新聞社)",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUlA1Qkh0WWZTcGJZZ2RZSU41UXBHalpxeWZoNHRfd3piT2NLR1J1V0t6ejk3SXpNd2R2S2NyVGoxTWYtOWVYem5Ba0RFVlFuc19BQ0xHRzU3MTkzaGRpSXVobmxBdVpRdVVHMEVNc3VwSFdmMnk1WFNRemtnSFk3emFPR0lQUnQ2djJfRE5R?oc=5",
         "publishedAt": "2026-06-29T20:54:44.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "富山・大手町で信号一時消える 車横転、制御盤に衝突 車内の１人搬送",
+        "source": "北國新聞",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fT1ZRMm0yM1NzQTY1eVFIU0FBYVdBSFNHdlFLUG13NEMwc0NGWTE4dk9vXzJhV0lENE45WmtJU1VWWkNRUVNKQlNheG9qNFFya0VWLWFCdw?oc=5",
+        "publishedAt": "2026-06-29T20:00:00.000Z"
+      },
+      {
+        "time": "02:37",
+        "title": "「音声で記録」から「AIで判断支援」までをひとつに──設備保全クラウド「ミロクルカルテ」、新生「ミロクルAI保全ナビ」を機能統合でリニューアル！",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IVnV6QUlGMGRIRFk4UndIeXVuOVd0bjVxWHpOX2xoNzdXMGhPRUJ5bjQzVmVoT1NLQW16RVJzTzl6bklIcENNbGJOaHBFVEUtR2VrdGJkRlNXUnF3di1JR0FWbDVpUVdnSkN2end4bEM?oc=5",
+        "publishedAt": "2026-06-29T17:37:10.000Z"
       },
       {
         "time": "18:30",
@@ -31,18 +38,11 @@
         "publishedAt": "2026-06-29T09:30:03.000Z"
       },
       {
-        "time": "05:58",
+        "time": "06:00",
         "title": "大分県、中小のDX支援推進 総合窓口を開設",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GSFd4UmVwTFRIQkRzcUljRzhCOE1TSjYzYndhWjM2RExic0NwdWtXQUZnUnpMakx2VGdSSG9lOTdfQVV2LXdUSFI5Tnp2RnlsUzd1eGtWN0hCZw?oc=5",
-        "publishedAt": "2026-06-29T20:58:15.000Z"
-      },
-      {
-        "time": "11:30",
-        "title": "設備保全DXのM2X、シリーズAで総額11.4億円の資金調達 | 株式会社M2Xのプレスリリース",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NHVPRWV5dm8yU2NzTjIxY1lyVFFWLU9GbjdKV2ZCQnlWYmNhVjVjcU5Ocmx4V19WM2ExNElUU0dfSDFGQWJZVlVGZTdsNlFNMDBHWURUQnc2THZ6TjJjeS03bUp2aERHakE?oc=5",
-        "publishedAt": "2026-06-29T02:30:02.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tZ0xkUkFyYmhEcWQ0aVpUN0RaTkl3MlU3UWVQNTVtZ0hKVGtQTkNWMkdTMEVsUlYwOFJ5a19Ea0YtVFBpZkM1a2FGdHYxZVplUFg3X1NNNXdwR2o0ZWNtTVpqZkUwbzFBNWhMdXhqU1dEdU5O?oc=5",
+        "publishedAt": "2026-06-29T21:00:13.000Z"
       },
       {
         "time": "05:00",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-06-29T20:00:00.000Z"
       },
       {
-        "time": "11:45",
-        "title": "三菱UFJ銀行、オークマ株の大量保有報告を変更 担保契約見直しが契機",
-        "source": "finance.biggo.jp",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GTkxYeWl2Y0Vna0otMFJtU09xU2RGTkdUV0FqeDdWdEJHUkZ4VUFGajQ3RE5raGFPbUhHVGNMQlFwaHFtZ25iejhMVzlPMDllZl9SU0pDQUdzcldoUlFlNEdsdjFMM2pXTVNmNG5uTWdRWUtj?oc=5",
-        "publishedAt": "2026-06-29T02:45:00.000Z"
+        "time": "17:00",
+        "title": "設備保全DXのM2X、シリーズAで総額11.4億円の資金調達",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1SVNqNnhCQjVveFJKRXg3MUFIUzZCNVlWN29KQ0htaFBBTVJ4OVVkX19xWmtOdkZpTjUtSU04VFpvdnBMakRyczNVQ0JLVW1pd1RHc1lzLWVDcnlJcUlPY0RJVmRncld6WE9LUEhLbGFBQVUxM2lGdWNzcw?oc=5",
+        "publishedAt": "2026-06-29T08:00:28.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,13 +82,6 @@
         "publishedAt": "2026-06-29T05:52:52.000Z"
       },
       {
-        "time": "11:28",
-        "title": "欧州熱波で1300人以上死亡 WHO",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586076?source=rss",
-        "publishedAt": "2026-06-29T02:28:29.000Z"
-      },
-      {
         "time": "12:16",
         "title": "中国の輸出管理 日本の20団体追加",
         "source": "Yahoo!ニュース",
@@ -101,15 +94,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586149?source=rss",
         "publishedAt": "2026-06-29T12:26:30.000Z"
+      },
+      {
+        "time": "13:03",
+        "title": "タイ少女人身取引 母に禁錮7年6月",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586094?source=rss",
+        "publishedAt": "2026-06-29T04:03:30.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "10:18",
-        "title": "1ドル162円台に下落 39年半ぶり",
+        "time": "12:04",
+        "title": "1ドル162円台 介入に警戒高まる",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586199?source=rss",
-        "publishedAt": "2026-06-30T01:18:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586211?source=rss",
+        "publishedAt": "2026-06-30T03:04:20.000Z"
       },
       {
         "time": "06:21",
@@ -119,18 +119,18 @@
         "publishedAt": "2026-06-29T21:21:03.000Z"
       },
       {
+        "time": "11:29",
+        "title": "国家公務員 ボーナス平均73万円超",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586205?source=rss",
+        "publishedAt": "2026-06-30T02:29:29.000Z"
+      },
+      {
         "time": "06:36",
         "title": "JAL補助金不正受給 2億円返還へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586176?source=rss",
         "publishedAt": "2026-06-29T21:36:39.000Z"
-      },
-      {
-        "time": "08:19",
-        "title": "脱線で見合わせの近鉄京都線 再開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586187?source=rss",
-        "publishedAt": "2026-06-29T23:19:33.000Z"
       },
       {
         "time": "22:59",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "11:48",
+        "title": "夫婦殺害 2被告に無期懲役を求刑",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586209?source=rss",
+        "publishedAt": "2026-06-30T02:48:24.000Z"
+      },
       {
         "time": "19:43",
         "title": "八田容疑者を目撃 半数近くが関東",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586139?source=rss",
         "publishedAt": "2026-06-29T10:57:08.000Z"
-      },
-      {
-        "time": "18:04",
-        "title": "八甲田山中で遺体 クマが襲ったか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586127?source=rss",
-        "publishedAt": "2026-06-29T09:04:15.000Z"
       },
       {
         "time": "09:47",
