@@ -1,13 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-30T03:49:14.072Z",
+  "updatedAt": "2026-06-30T05:32:33.384Z",
   "items": [
     {
-      "time": "12:42",
-      "title": "皇室典範改正案 自維が提出合意",
+      "time": "13:39",
+      "title": "国旗損壊罪の創設法案 衆院で可決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586219?source=rss",
-      "publishedAt": "2026-06-30T03:42:26.000Z",
-      "xQuery": "皇室典範改正案 自維が提出合意"
+      "url": "https://news.yahoo.co.jp/pickup/6586224?source=rss",
+      "publishedAt": "2026-06-30T04:39:07.000Z",
+      "xQuery": "国旗損壊罪の創設法案 衆院で可決"
+    },
+    {
+      "time": "12:58",
+      "title": "副首都法案が審議入り 野党は欠席",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586218?source=rss",
+      "publishedAt": "2026-06-30T03:58:27.000Z",
+      "xQuery": "副首都法案が審議入り 野党は欠席"
+    },
+    {
+      "time": "14:03",
+      "title": "アフラック 438万人分の情報流出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586227?source=rss",
+      "publishedAt": "2026-06-30T05:03:20.000Z",
+      "xQuery": "アフラック 438万人分の情報流出"
     },
     {
       "time": "12:04",
@@ -16,22 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586211?source=rss",
       "publishedAt": "2026-06-30T03:04:20.000Z",
       "xQuery": "1ドル162円台 介入に警戒高まる"
-    },
-    {
-      "time": "11:48",
-      "title": "夫婦殺害 2被告に無期懲役を求刑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586209?source=rss",
-      "publishedAt": "2026-06-30T02:48:24.000Z",
-      "xQuery": "夫婦殺害 2被告に無期懲役を求刑"
-    },
-    {
-      "time": "10:42",
-      "title": "衆参議員の平均所得3003万円 25年",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586201?source=rss",
-      "publishedAt": "2026-06-30T01:42:12.000Z",
-      "xQuery": "衆参議員の平均所得3003万円 25年"
     },
     {
       "time": "11:29",
