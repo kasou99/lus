@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-01T16:23:50.205Z",
+  "updatedAt": "2026-07-01T17:18:45.431Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "17:00",
-        "title": "DMG森精機と産総研、工作機械の故障検知にAI 100社から製造データ",
+        "time": "02:04",
+        "title": "工作機械の故障、AIで早期検知 DMG森精機と産総研、28年にも中小へ提供",
         "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qMklvOGdiTmZSTl9vQ285UGdiSlIwV1F2RjVqMjJ3RFFYZVRwc0V1ZnpmMUd0R0Znd3k5R2xZVnV6Uks4YzBIUU5VdWNheEVYNElkSXA1aGdkaG9nNnAzdFE0NmVBVm1PNnhGUw?oc=5",
-        "publishedAt": "2026-07-01T08:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3pzN2Y2Uno1TWRVS0pkRXNlMDBJQThUOWMyNVY1NGRobll2TW5CMVFOZHB6UlpXVmxSTmN1djJCTlNJTllidGI3eFU5TG1lakVna1lRSjl4YVowVjZHVVREVnpTX0pTRDRCZkpPR09xNmdRdldVZUloWVNzenhfWkEwNktlR1l0Q2hDYml0cy15c00zQVhTdUlPRHNhVEM2R0NtMjVuWWk?oc=5",
+        "publishedAt": "2026-07-01T17:04:04.000Z"
       },
       {
         "time": "09:00",
@@ -38,6 +38,13 @@
         "publishedAt": "2026-06-30T21:45:00.000Z"
       },
       {
+        "time": "17:00",
+        "title": "DMG森精機と産総研、工作機械の故障検知にAI 100社から製造データ",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qMklvOGdiTmZSTl9vQ285UGdiSlIwV1F2RjVqMjJ3RFFYZVRwc0V1ZnpmMUd0R0Znd3k5R2xZVnV6Uks4YzBIUU5VdWNheEVYNElkSXA1aGdkaG9nNnAzdFE0NmVBVm1PNnhGUw?oc=5",
+        "publishedAt": "2026-07-01T08:00:00.000Z"
+      },
+      {
         "time": "07:00",
         "title": "ＫＡＭＡＭＥＳＨＩ、設備停止リスクの可視化・予防を支援する設備保全サービス提供開始",
         "source": "ASCII.jp",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-06-30T22:00:00.000Z"
       },
       {
-        "time": "05:03",
-        "title": "産業TREND／共創時代のメドテック（2）革新的医療機器の実装準備",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBseTdORE50OXEyT3JLLTZhOHM4S1JuQUtJOGdwY3p0bjA0THF2ZUYtT3R1c2daRVZFbGVuVWZpWnNHUjRERm9faGRYOTEtT2dfRGtVMEZqaWY3ZXM?oc=5",
-        "publishedAt": "2026-06-30T20:03:55.000Z"
-      },
-      {
-        "time": "07:08",
-        "title": "【Supply Chained】ファナックのCNC市場7割支配が示す、中国の10億ドル戦略が敗れた理由",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93X1VCYUVvckhLZS0xMDRDVlhsSmpkV3h3dm5tSTlKR1BTZXhnVG5aX044Q05zVEdRZ3BmX3g0bVlnTmZqVEFyYjdwUk1hR1Z5ZmJDLUhvRUJWUQ?oc=5",
-        "publishedAt": "2026-06-30T22:08:00.000Z"
+        "time": "14:47",
+        "title": "マシニングセンターの世界産業レポート2026：市場シェア、競争状況、成長率5.9%分析｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KRjZjUUJXamNYbVZ0empTNE5rUHg0OXVkUlFQdUpoRXo1MVhHZGwwbE9iNUJMLVRNMHB2OE1LcDNjYU93d2lQT0M2SWcwemluYkplT2pPTQ?oc=5",
+        "publishedAt": "2026-07-01T05:47:24.000Z"
       }
     ],
     "worldHeadlines": [
