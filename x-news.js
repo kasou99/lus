@@ -1,21 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-01T13:27:04.920Z",
+  "updatedAt": "2026-07-01T14:22:59.223Z",
   "items": [
     {
-      "time": "21:16",
-      "title": "青森・岩手で震度4 津波心配なし",
+      "time": "22:33",
+      "title": "社保改革協議 自維合意へ最終調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586387?source=rss",
-      "publishedAt": "2026-07-01T12:16:56.000Z",
-      "xQuery": "青森・岩手で震度4 津波心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6586394?source=rss",
+      "publishedAt": "2026-07-01T13:33:40.000Z",
+      "xQuery": "社保改革協議 自維合意へ最終調整"
     },
     {
-      "time": "16:38",
-      "title": "パスポート申請余裕持って 木原氏",
+      "time": "22:39",
+      "title": "衆院女性トイレ増設へ 有志が要望",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586357?source=rss",
-      "publishedAt": "2026-07-01T07:38:52.000Z",
-      "xQuery": "パスポート申請余裕持って 木原氏"
+      "url": "https://news.yahoo.co.jp/pickup/6586398?source=rss",
+      "publishedAt": "2026-07-01T13:39:10.000Z",
+      "xQuery": "衆院女性トイレ増設へ 有志が要望"
+    },
+    {
+      "time": "22:35",
+      "title": "スペイン 熱波で1000人以上死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586395?source=rss",
+      "publishedAt": "2026-07-01T13:35:47.000Z",
+      "xQuery": "スペイン 熱波で1000人以上死亡"
+    },
+    {
+      "time": "22:42",
+      "title": "母娘死亡 父は逮捕前に毒物服用か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586397?source=rss",
+      "publishedAt": "2026-07-01T13:42:29.000Z",
+      "xQuery": "母娘死亡 父は逮捕前に毒物服用か"
     },
     {
       "time": "21:36",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586389?source=rss",
       "publishedAt": "2026-07-01T12:36:22.000Z",
       "xQuery": "行方不明の10歳死亡 校長が陳謝"
-    },
-    {
-      "time": "21:52",
-      "title": "家畜市場で牛暴れる 4人病院搬送",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586390?source=rss",
-      "publishedAt": "2026-07-01T12:52:14.000Z",
-      "xQuery": "家畜市場で牛暴れる 4人病院搬送"
-    },
-    {
-      "time": "18:03",
-      "title": "出川哲朗の兄の海苔問屋 高騰嘆く",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586372?source=rss",
-      "publishedAt": "2026-07-01T09:03:58.000Z",
-      "xQuery": "出川哲朗の兄の海苔問屋 高騰嘆く"
     }
   ]
 };
