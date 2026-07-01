@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-01T10:47:03.155Z",
+  "updatedAt": "2026-07-01T12:04:37.770Z",
   "items": [
     {
-      "time": "18:18",
-      "title": "自民と維新 国会審議巡り覚書調整",
+      "time": "20:06",
+      "title": "九州で非常に激しい雨 災害に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586371?source=rss",
-      "publishedAt": "2026-07-01T09:18:27.000Z",
-      "xQuery": "自民と維新 国会審議巡り覚書調整"
+      "url": "https://news.yahoo.co.jp/pickup/6586380?source=rss",
+      "publishedAt": "2026-07-01T11:06:59.000Z",
+      "xQuery": "九州で非常に激しい雨 災害に警戒"
     },
     {
-      "time": "18:34",
-      "title": "モバイルSuica 不具合が解消",
+      "time": "16:38",
+      "title": "パスポート申請余裕持って 木原氏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586374?source=rss",
-      "publishedAt": "2026-07-01T09:34:30.000Z",
-      "xQuery": "モバイルSuica 不具合が解消"
-    },
-    {
-      "time": "17:24",
-      "title": "山に遺体 クマが人を獲物と認識か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586361?source=rss",
-      "publishedAt": "2026-07-01T08:24:37.000Z",
-      "xQuery": "山に遺体 クマが人を獲物と認識か"
+      "url": "https://news.yahoo.co.jp/pickup/6586357?source=rss",
+      "publishedAt": "2026-07-01T07:38:52.000Z",
+      "xQuery": "パスポート申請余裕持って 木原氏"
     },
     {
       "time": "19:35",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586379?source=rss",
       "publishedAt": "2026-07-01T10:35:19.000Z",
       "xQuery": "不同意わいせつ疑い 市議書類送検"
+    },
+    {
+      "time": "17:51",
+      "title": "車が転落 海に飛び込み運転手救出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586366?source=rss",
+      "publishedAt": "2026-07-01T08:51:45.000Z",
+      "xQuery": "車が転落 海に飛び込み運転手救出"
     },
     {
       "time": "19:11",

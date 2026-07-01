@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T10:47:02.038Z",
+  "updatedAt": "2026-07-01T12:04:37.307Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,13 +112,6 @@
         "publishedAt": "2026-07-01T00:23:12.000Z"
       },
       {
-        "time": "11:54",
-        "title": "路線価の全国平均 5年連続上昇",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586324?source=rss",
-        "publishedAt": "2026-07-01T02:54:34.000Z"
-      },
-      {
         "time": "16:03",
         "title": "トヨタ ハイランダー8月全国発売",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586372?source=rss",
         "publishedAt": "2026-07-01T09:03:58.000Z"
+      },
+      {
+        "time": "13:32",
+        "title": "モス「おぼんdeごはん」買収の訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586321?source=rss",
+        "publishedAt": "2026-07-01T04:32:37.000Z"
       }
     ],
     "localHeadlines": [
