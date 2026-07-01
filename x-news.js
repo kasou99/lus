@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-01T01:14:40.816Z",
+  "updatedAt": "2026-07-01T02:25:43.561Z",
   "items": [
     {
       "time": "09:23",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "大企業製造業 景況感5期連続改善"
     },
     {
-      "time": "07:39",
-      "title": "出生地主義制限の米大統領令 違憲",
+      "time": "10:21",
+      "title": "米 AnthropicのAI輸出規制を解除",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586293?source=rss",
-      "publishedAt": "2026-06-30T22:39:43.000Z",
-      "xQuery": "出生地主義制限の米大統領令 違憲"
+      "url": "https://news.yahoo.co.jp/pickup/6586308?source=rss",
+      "publishedAt": "2026-07-01T01:21:31.000Z",
+      "xQuery": "米 AnthropicのAI輸出規制を解除"
     },
     {
-      "time": "09:58",
-      "title": "ベネズエラ地震 6日後に3歳救出",
+      "time": "10:55",
+      "title": "住宅に女性と女児の遺体 殺人か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586306?source=rss",
-      "publishedAt": "2026-07-01T00:58:06.000Z",
-      "xQuery": "ベネズエラ地震 6日後に3歳救出"
+      "url": "https://news.yahoo.co.jp/pickup/6586312?source=rss",
+      "publishedAt": "2026-07-01T01:55:29.000Z",
+      "xQuery": "住宅に女性と女児の遺体 殺人か"
     },
     {
-      "time": "09:11",
-      "title": "トランス選手巡る制限容認 米判決",
+      "time": "11:00",
+      "title": "配信中の女性殺害 起訴内容認める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586302?source=rss",
-      "publishedAt": "2026-07-01T00:11:34.000Z",
-      "xQuery": "トランス選手巡る制限容認 米判決"
+      "url": "https://news.yahoo.co.jp/pickup/6586313?source=rss",
+      "publishedAt": "2026-07-01T02:00:22.000Z",
+      "xQuery": "配信中の女性殺害 起訴内容認める"
     },
     {
-      "time": "07:14",
-      "title": "東北道で車3台絡む事故 女性死亡",
+      "time": "10:32",
+      "title": "バーチャル背景NG 会議謎ルール",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586289?source=rss",
-      "publishedAt": "2026-06-30T22:14:13.000Z",
-      "xQuery": "東北道で車3台絡む事故 女性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6586309?source=rss",
+      "publishedAt": "2026-07-01T01:32:57.000Z",
+      "xQuery": "バーチャル背景NG 会議謎ルール"
     }
   ]
 };
