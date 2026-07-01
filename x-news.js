@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-01T15:27:56.052Z",
+  "updatedAt": "2026-07-01T16:23:51.144Z",
   "items": [
     {
       "time": "00:15",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "行方不明の10歳死亡 校長が陳謝"
     },
     {
-      "time": "23:12",
-      "title": "PS新作ゲーム ディスク版終了へ",
+      "time": "17:24",
+      "title": "山に遺体 クマが人を獲物と認識か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586400?source=rss",
-      "publishedAt": "2026-07-01T14:12:36.000Z",
-      "xQuery": "PS新作ゲーム ディスク版終了へ"
+      "url": "https://news.yahoo.co.jp/pickup/6586361?source=rss",
+      "publishedAt": "2026-07-01T08:24:37.000Z",
+      "xQuery": "山に遺体 クマが人を獲物と認識か"
     }
   ]
 };
