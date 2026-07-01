@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-01T21:04:47.380Z",
+  "updatedAt": "2026-07-01T22:03:26.871Z",
   "items": [
     {
-      "time": "00:15",
-      "title": "西-東日本で大雨 河川増水に警戒",
+      "time": "06:08",
+      "title": "九州で大雨 土砂災害など厳重警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586403?source=rss",
-      "publishedAt": "2026-07-01T15:15:41.000Z",
-      "xQuery": "西-東日本で大雨 河川増水に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6586404?source=rss",
+      "publishedAt": "2026-07-01T21:08:09.000Z",
+      "xQuery": "九州で大雨 土砂災害など厳重警戒"
     },
     {
       "time": "23:40",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "行方不明の10歳死亡 校長が陳謝"
     },
     {
-      "time": "17:24",
-      "title": "山に遺体 クマが人を獲物と認識か",
+      "time": "23:12",
+      "title": "PS新作ゲーム ディスク版終了へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586361?source=rss",
-      "publishedAt": "2026-07-01T08:24:37.000Z",
-      "xQuery": "山に遺体 クマが人を獲物と認識か"
+      "url": "https://news.yahoo.co.jp/pickup/6586400?source=rss",
+      "publishedAt": "2026-07-01T14:12:36.000Z",
+      "xQuery": "PS新作ゲーム ディスク版終了へ"
     }
   ]
 };
