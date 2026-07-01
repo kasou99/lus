@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T05:42:28.950Z",
+  "updatedAt": "2026-07-01T07:44:27.095Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-07-01T00:00:02.000Z"
       },
       {
-        "time": "10:22",
-        "title": "分析ツールは、世にあふれている。足りないのは、いつも\"土台\"のほう。--設備保全クラウド「ミロクルカルテ」（PR TIMES）",
-        "source": "毎日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11b0VvckRlMHplbnlzYl9tTDJnelNCRWdRb1E1Y0JwbWFNa1ZobzhkMEdCcTQydUpsMDI4R0owa1VjOUt0Z0RtMnFyNWp5Y0VzX3dMLUhQaDJBMmNOTjZlMDhZenZ1c0Jy?oc=5",
-        "publishedAt": "2026-07-01T01:22:04.000Z"
-      },
-      {
         "time": "07:00",
         "title": "ＫＡＭＡＭＥＳＨＩ、設備停止リスクの可視化・予防を支援する設備保全サービス提供開始",
         "source": "ASCII.jp",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-06-30T20:03:55.000Z"
       },
       {
+        "time": "20:45",
+        "title": "工作機械の設備監視と遠隔サポートを統合した新プラットフォーム「SatelinC（サテリンク）」を提供開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tc21sSkpya0w5Vlh1c1l5cVpGeExiNHE4SldUSUlFR25DX0hpdnpKd0RBOXFIMnRFZVp0RzlBYjFmUmNCcUNzV3NNdGxxVks3dFRiZHdKdDNvb2R0cndXMGVtMklVWC1qdjIzTTVvdkZQTTA1R0E?oc=5",
+        "publishedAt": "2026-06-30T11:45:17.000Z"
+      },
+      {
+        "time": "10:22",
+        "title": "分析ツールは、世にあふれている。足りないのは、いつも\"土台\"のほう。--設備保全クラウド「ミロクルカルテ」（PR TIMES）",
+        "source": "毎日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11b0VvckRlMHplbnlzYl9tTDJnelNCRWdRb1E1Y0JwbWFNa1ZobzhkMEdCcTQydUpsMDI4R0owa1VjOUt0Z0RtMnFyNWp5Y0VzX3dMLUhQaDJBMmNOTjZlMDhZenZ1c0Jy?oc=5",
+        "publishedAt": "2026-07-01T01:22:04.000Z"
+      },
+      {
         "time": "07:08",
         "title": "【Supply Chained】ファナックのCNC市場7割支配が示す、中国の10億ドル戦略が敗れた理由",
         "source": "finance.biggo.jp",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93X1VCYUVvckhLZS0xMDRDVlhsSmpkV3h3dm5tSTlKR1BTZXhnVG5aX044Q05zVEdRZ3BmX3g0bVlnTmZqVEFyYjdwUk1hR1Z5ZmJDLUhvRUJWUQ?oc=5",
         "publishedAt": "2026-06-30T22:08:00.000Z"
-      },
-      {
-        "time": "08:00",
-        "title": "岡谷鋼機、BIMソフト発売 鉄筋設計のDX支援",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBU1pHLUVhM1haU2FXR01tVTRGOS1lVTdnS3lTbWFYRmlDSDZVNm9sSFRWZHNSbGV2SVBTZ25xZ3FsbXBIZTUzc1gxUEtmY1JWUUpmb3dzc3dHamNsSmFRNUppWkEzVk9OeWVPQnVmYXpLcmRldlRXb09VUQ?oc=5",
-        "publishedAt": "2026-06-30T23:00:30.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-06-30T22:39:43.000Z"
       },
       {
+        "time": "16:33",
+        "title": "米大統領 暗号資産巡り巨額の収入",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586356?source=rss",
+        "publishedAt": "2026-07-01T07:33:23.000Z"
+      },
+      {
         "time": "20:59",
         "title": "韓国政府 サッカー協会特別監査へ",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586248?source=rss",
         "publishedAt": "2026-06-30T08:42:30.000Z"
-      },
-      {
-        "time": "09:11",
-        "title": "トランス選手巡る制限容認 米判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586302?source=rss",
-        "publishedAt": "2026-07-01T00:11:34.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,34 +126,34 @@
         "publishedAt": "2026-06-30T13:39:46.000Z"
       },
       {
-        "time": "11:45",
-        "title": "毎日放送が「MBS」に社名変更へ",
+        "time": "16:03",
+        "title": "トヨタ ハイランダー8月全国発売",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586319?source=rss",
-        "publishedAt": "2026-07-01T02:45:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586351?source=rss",
+        "publishedAt": "2026-07-01T07:03:16.000Z"
       },
       {
-        "time": "13:32",
-        "title": "モス「おぼんdeごはん」買収の訳",
+        "time": "14:50",
+        "title": "大阪の「毎日放送」社名変更へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586321?source=rss",
-        "publishedAt": "2026-07-01T04:32:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586345?source=rss",
+        "publishedAt": "2026-07-01T05:50:52.000Z"
       },
       {
-        "time": "10:32",
-        "title": "バーチャル背景NG 会議謎ルール",
+        "time": "15:31",
+        "title": "「三ツ矢サイダー」など値上げへ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586309?source=rss",
-        "publishedAt": "2026-07-01T01:32:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586348?source=rss",
+        "publishedAt": "2026-07-01T06:31:30.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "13:53",
-        "title": "不明の10歳 1.5km離れた滝で発見",
+        "time": "15:53",
+        "title": "不明の10歳 滝で発見も死亡確認",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586334?source=rss",
-        "publishedAt": "2026-07-01T04:53:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586349?source=rss",
+        "publishedAt": "2026-07-01T06:53:04.000Z"
       },
       {
         "time": "12:31",

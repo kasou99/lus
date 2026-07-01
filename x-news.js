@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-01T05:42:29.829Z",
+  "updatedAt": "2026-07-01T07:44:27.972Z",
   "items": [
     {
-      "time": "12:02",
-      "title": "旧宮家男系養子案 国民の理解焦点",
+      "time": "14:49",
+      "title": "2日にかけ西日本〜関東で大雨恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586326?source=rss",
-      "publishedAt": "2026-07-01T03:02:50.000Z",
-      "xQuery": "旧宮家男系養子案 国民の理解焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6586344?source=rss",
+      "publishedAt": "2026-07-01T05:49:34.000Z",
+      "xQuery": "2日にかけ西日本〜関東で大雨恐れ"
     },
     {
-      "time": "13:29",
-      "title": "中国で拘束の邦人2人 6月に逮捕",
+      "time": "16:29",
+      "title": "衆院議長 与野党に国会正常化要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586335?source=rss",
-      "publishedAt": "2026-07-01T04:29:41.000Z",
-      "xQuery": "中国で拘束の邦人2人 6月に逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6586354?source=rss",
+      "publishedAt": "2026-07-01T07:29:12.000Z",
+      "xQuery": "衆院議長 与野党に国会正常化要請"
     },
     {
-      "time": "12:31",
-      "title": "女性と女児死亡 父親を発見し逮捕",
+      "time": "16:33",
+      "title": "米大統領 暗号資産巡り巨額の収入",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586330?source=rss",
-      "publishedAt": "2026-07-01T03:31:50.000Z",
-      "xQuery": "女性と女児死亡 父親を発見し逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6586356?source=rss",
+      "publishedAt": "2026-07-01T07:33:23.000Z",
+      "xQuery": "米大統領 暗号資産巡り巨額の収入"
     },
     {
-      "time": "13:53",
-      "title": "不明の10歳 1.5km離れた滝で発見",
+      "time": "15:53",
+      "title": "不明の10歳 滝で発見も死亡確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586334?source=rss",
-      "publishedAt": "2026-07-01T04:53:43.000Z",
-      "xQuery": "不明の10歳 1.5km離れた滝で発見"
+      "url": "https://news.yahoo.co.jp/pickup/6586349?source=rss",
+      "publishedAt": "2026-07-01T06:53:04.000Z",
+      "xQuery": "不明の10歳 滝で発見も死亡確認"
     },
     {
-      "time": "12:05",
-      "title": "死亡事例複数の薬 米誌が論文撤回",
+      "time": "16:03",
+      "title": "トヨタ ハイランダー8月全国発売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586328?source=rss",
-      "publishedAt": "2026-07-01T03:05:24.000Z",
-      "xQuery": "死亡事例複数の薬 米誌が論文撤回"
+      "url": "https://news.yahoo.co.jp/pickup/6586351?source=rss",
+      "publishedAt": "2026-07-01T07:03:16.000Z",
+      "xQuery": "トヨタ ハイランダー8月全国発売"
     }
   ]
 };
