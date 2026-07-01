@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T03:50:02.251Z",
+  "updatedAt": "2026-07-01T05:42:28.950Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-30T20:03:55.000Z"
       },
       {
+        "time": "07:08",
+        "title": "【Supply Chained】ファナックのCNC市場7割支配が示す、中国の10億ドル戦略が敗れた理由",
+        "source": "finance.biggo.jp",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93X1VCYUVvckhLZS0xMDRDVlhsSmpkV3h3dm5tSTlKR1BTZXhnVG5aX044Q05zVEdRZ3BmX3g0bVlnTmZqVEFyYjdwUk1hR1Z5ZmJDLUhvRUJWUQ?oc=5",
+        "publishedAt": "2026-06-30T22:08:00.000Z"
+      },
+      {
         "time": "08:00",
         "title": "岡谷鋼機、BIMソフト発売 鉄筋設計のDX支援",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBU1pHLUVhM1haU2FXR01tVTRGOS1lVTdnS3lTbWFYRmlDSDZVNm9sSFRWZHNSbGV2SVBTZ25xZ3FsbXBIZTUzc1gxUEtmY1JWUUpmb3dzc3dHamNsSmFRNUppWkEzVk9OeWVPQnVmYXpLcmRldlRXb09VUQ?oc=5",
         "publishedAt": "2026-06-30T23:00:30.000Z"
-      },
-      {
-        "time": "18:00",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-06-30T09:00:38.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,18 +68,18 @@
         "publishedAt": "2026-07-01T00:58:06.000Z"
       },
       {
+        "time": "13:29",
+        "title": "中国で拘束の邦人2人 6月に逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586335?source=rss",
+        "publishedAt": "2026-07-01T04:29:41.000Z"
+      },
+      {
         "time": "07:39",
         "title": "出生地主義制限の米大統領令 違憲",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586293?source=rss",
         "publishedAt": "2026-06-30T22:39:43.000Z"
-      },
-      {
-        "time": "09:48",
-        "title": "独の母子向け施設で発砲 6人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586197?source=rss",
-        "publishedAt": "2026-06-30T00:48:41.000Z"
       },
       {
         "time": "20:59",
@@ -126,18 +126,18 @@
         "publishedAt": "2026-06-30T13:39:46.000Z"
       },
       {
-        "time": "19:11",
-        "title": "飲食料値上げ 年間2万品目ペース",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586261?source=rss",
-        "publishedAt": "2026-06-30T10:11:21.000Z"
-      },
-      {
         "time": "11:45",
         "title": "毎日放送が「MBS」に社名変更へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586319?source=rss",
         "publishedAt": "2026-07-01T02:45:00.000Z"
+      },
+      {
+        "time": "13:32",
+        "title": "モス「おぼんdeごはん」買収の訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586321?source=rss",
+        "publishedAt": "2026-07-01T04:32:37.000Z"
       },
       {
         "time": "10:32",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "13:53",
+        "title": "不明の10歳 1.5km離れた滝で発見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586334?source=rss",
+        "publishedAt": "2026-07-01T04:53:43.000Z"
+      },
       {
         "time": "12:31",
         "title": "女性と女児死亡 父親を発見し逮捕",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-06-30T13:24:13.000Z"
       },
       {
-        "time": "07:14",
-        "title": "東北道で車3台絡む事故 女性死亡",
+        "time": "13:55",
+        "title": "熊よけスプレー誤噴射か 5人搬送",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586289?source=rss",
-        "publishedAt": "2026-06-30T22:14:13.000Z"
-      },
-      {
-        "time": "21:00",
-        "title": "5歳児不明 10日目も手がかりなし",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586269?source=rss",
-        "publishedAt": "2026-06-30T12:00:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586338?source=rss",
+        "publishedAt": "2026-07-01T04:55:22.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "設備投資に使える補助金まとめ【2026年・目的別】省力化・業務改善助成金など最大1億円の支援を解説",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41Tk91V0hXbzlDZktaTzFPeHd3dS1yZUVpNjVsSHo5aURNd3Y0ZGhPMXZpVEJuOFEyaVNJb0hsWENjSjdVLXUzV1pmd3hjYnJEN05CN2lTQzlwdzNZdFo5SHAwZ1l2dXZzVzJHVHhuejA?oc=5",
+        "publishedAt": "2026-06-16T07:00:00.000Z"
       }
     ]
   }

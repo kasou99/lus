@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-01T03:50:02.998Z",
+  "updatedAt": "2026-07-01T05:42:29.829Z",
   "items": [
     {
-      "time": "11:18",
-      "title": "熱帯低気圧が発生 台風シーズンへ",
+      "time": "12:02",
+      "title": "旧宮家男系養子案 国民の理解焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586315?source=rss",
-      "publishedAt": "2026-07-01T02:18:03.000Z",
-      "xQuery": "熱帯低気圧が発生 台風シーズンへ"
+      "url": "https://news.yahoo.co.jp/pickup/6586326?source=rss",
+      "publishedAt": "2026-07-01T03:02:50.000Z",
+      "xQuery": "旧宮家男系養子案 国民の理解焦点"
     },
     {
-      "time": "11:54",
-      "title": "路線価の全国平均 5年連続上昇",
+      "time": "13:29",
+      "title": "中国で拘束の邦人2人 6月に逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586324?source=rss",
-      "publishedAt": "2026-07-01T02:54:34.000Z",
-      "xQuery": "路線価の全国平均 5年連続上昇"
+      "url": "https://news.yahoo.co.jp/pickup/6586335?source=rss",
+      "publishedAt": "2026-07-01T04:29:41.000Z",
+      "xQuery": "中国で拘束の邦人2人 6月に逮捕"
     },
     {
       "time": "12:31",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "女性と女児死亡 父親を発見し逮捕"
     },
     {
-      "time": "11:00",
-      "title": "配信中の女性殺害 起訴内容認める",
+      "time": "13:53",
+      "title": "不明の10歳 1.5km離れた滝で発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586313?source=rss",
-      "publishedAt": "2026-07-01T02:00:22.000Z",
-      "xQuery": "配信中の女性殺害 起訴内容認める"
+      "url": "https://news.yahoo.co.jp/pickup/6586334?source=rss",
+      "publishedAt": "2026-07-01T04:53:43.000Z",
+      "xQuery": "不明の10歳 1.5km離れた滝で発見"
     },
     {
-      "time": "10:32",
-      "title": "バーチャル背景NG 会議謎ルール",
+      "time": "12:05",
+      "title": "死亡事例複数の薬 米誌が論文撤回",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586309?source=rss",
-      "publishedAt": "2026-07-01T01:32:57.000Z",
-      "xQuery": "バーチャル背景NG 会議謎ルール"
+      "url": "https://news.yahoo.co.jp/pickup/6586328?source=rss",
+      "publishedAt": "2026-07-01T03:05:24.000Z",
+      "xQuery": "死亡事例複数の薬 米誌が論文撤回"
     }
   ]
 };
