@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-01T12:04:37.770Z",
+  "updatedAt": "2026-07-01T13:27:04.920Z",
   "items": [
     {
-      "time": "20:06",
-      "title": "九州で非常に激しい雨 災害に警戒",
+      "time": "21:16",
+      "title": "青森・岩手で震度4 津波心配なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586380?source=rss",
-      "publishedAt": "2026-07-01T11:06:59.000Z",
-      "xQuery": "九州で非常に激しい雨 災害に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6586387?source=rss",
+      "publishedAt": "2026-07-01T12:16:56.000Z",
+      "xQuery": "青森・岩手で震度4 津波心配なし"
     },
     {
       "time": "16:38",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "パスポート申請余裕持って 木原氏"
     },
     {
-      "time": "19:35",
-      "title": "不同意わいせつ疑い 市議書類送検",
+      "time": "21:36",
+      "title": "行方不明の10歳死亡 校長が陳謝",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586379?source=rss",
-      "publishedAt": "2026-07-01T10:35:19.000Z",
-      "xQuery": "不同意わいせつ疑い 市議書類送検"
+      "url": "https://news.yahoo.co.jp/pickup/6586389?source=rss",
+      "publishedAt": "2026-07-01T12:36:22.000Z",
+      "xQuery": "行方不明の10歳死亡 校長が陳謝"
     },
     {
-      "time": "17:51",
-      "title": "車が転落 海に飛び込み運転手救出",
+      "time": "21:52",
+      "title": "家畜市場で牛暴れる 4人病院搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586366?source=rss",
-      "publishedAt": "2026-07-01T08:51:45.000Z",
-      "xQuery": "車が転落 海に飛び込み運転手救出"
+      "url": "https://news.yahoo.co.jp/pickup/6586390?source=rss",
+      "publishedAt": "2026-07-01T12:52:14.000Z",
+      "xQuery": "家畜市場で牛暴れる 4人病院搬送"
     },
     {
-      "time": "19:11",
-      "title": "スムージー再び半額へ セブン対策",
+      "time": "18:03",
+      "title": "出川哲朗の兄の海苔問屋 高騰嘆く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586377?source=rss",
-      "publishedAt": "2026-07-01T10:11:43.000Z",
-      "xQuery": "スムージー再び半額へ セブン対策"
+      "url": "https://news.yahoo.co.jp/pickup/6586372?source=rss",
+      "publishedAt": "2026-07-01T09:03:58.000Z",
+      "xQuery": "出川哲朗の兄の海苔問屋 高騰嘆く"
     }
   ]
 };

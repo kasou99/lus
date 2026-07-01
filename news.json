@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T12:04:37.307Z",
+  "updatedAt": "2026-07-01T13:27:03.937Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-06-30T22:00:00.000Z"
       },
       {
-        "time": "07:59",
-        "title": "多様性を育む／西島 支え合う文化育て100年",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5odDR0emRtTmp4YTJhRDNlNFNzcDUwMHdkUE1LU3cxQWVySEhkMGt0NVpVXzE5Z09qUkFrRUZjQ1ltdDVMNHBZMnJ2bUc0U3NnNmVhc2M1RjBUVFE?oc=5",
-        "publishedAt": "2026-06-30T22:59:19.000Z"
-      },
-      {
         "time": "14:47",
         "title": "マシニングセンターの世界産業レポート2026：市場シェア、競争状況、成長率5.9%分析｜QYResearch",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KRjZjUUJXamNYbVZ0empTNE5rUHg0OXVkUlFQdUpoRXo1MVhHZGwwbE9iNUJMLVRNMHB2OE1LcDNjYU93d2lQT0M2SWcwemluYkplT2pPTQ?oc=5",
         "publishedAt": "2026-07-01T05:47:24.000Z"
+      },
+      {
+        "time": "05:03",
+        "title": "産業TREND／共創時代のメドテック（2）革新的医療機器の実装準備",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBseTdORE50OXEyT3JLLTZhOHM4S1JuQUtJOGdwY3p0bjA0THF2ZUYtT3R1c2daRVZFbGVuVWZpWnNHUjRERm9faGRYOTEtT2dfRGtVMEZqaWY3ZXM?oc=5",
+        "publishedAt": "2026-06-30T20:03:55.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "21:36",
+        "title": "行方不明の10歳死亡 校長が陳謝",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586389?source=rss",
+        "publishedAt": "2026-07-01T12:36:22.000Z"
+      },
+      {
         "time": "15:53",
         "title": "不明の10歳 滝で発見も死亡確認",
         "source": "Yahoo!ニュース",
@@ -163,6 +170,13 @@
         "publishedAt": "2026-07-01T03:31:50.000Z"
       },
       {
+        "time": "21:52",
+        "title": "家畜市場で牛暴れる 4人病院搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586390?source=rss",
+        "publishedAt": "2026-07-01T12:52:14.000Z"
+      },
+      {
         "time": "17:15",
         "title": "5歳不明 消防は一旦捜索打ち切り",
         "source": "Yahoo!ニュース",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586379?source=rss",
         "publishedAt": "2026-07-01T10:35:19.000Z"
-      },
-      {
-        "time": "17:24",
-        "title": "山に遺体 クマが人を獲物と認識か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586361?source=rss",
-        "publishedAt": "2026-07-01T08:24:37.000Z"
-      },
-      {
-        "time": "11:00",
-        "title": "配信中の女性殺害 起訴内容認める",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586313?source=rss",
-        "publishedAt": "2026-07-01T02:00:22.000Z"
       }
     ],
     "subsidyHeadlines": [
