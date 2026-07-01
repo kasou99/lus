@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T18:13:57.764Z",
+  "updatedAt": "2026-07-01T19:11:33.236Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-07-01T00:00:02.000Z"
       },
       {
-        "time": "12:27",
-        "title": "マシニングセンタ市場で世界トップ40企業",
-        "source": "Spherical Insights",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPU1AtcGFmeUZ6RFhCU09iUXFQYjF6Mm5Qa3BoQkVTLXdnUmhTMGcwZ2pLaVNjMnpIUGE3VlFSa01VTkQ4QU40UklwR2lETFF1Qnc2UTJaRGtXdlppZWtHUGtra2d3V1lXUG93X0xHSUV6Q0NidU9jQzJRTEVOb3lsZFZpOC1oR2VSSXQtbHlfQm50dnJfc3BIUUlNY0FlMTVycDBrTFpNOXVHNHRwdkFKQUdVOF9ZWjE3aXNfcmlOdnZpNVhvWHllNU5INm1FNzNXeVI2TlhYRFZjeFhxdkdHNHpKRXRfVTBJYVk1YTRCWU5xX01v?oc=5",
-        "publishedAt": "2026-07-01T03:27:19.000Z"
-      },
-      {
         "time": "11:30",
         "title": "炉制御基板の世界市場（2026年～2032年）、市場規模（ガス炉制御盤、石油炉制御盤、電気炉制御盤、その他）・分析レポートを発表",
         "source": "アットプレス",
@@ -38,13 +31,6 @@
         "publishedAt": "2026-07-01T05:10:00.000Z"
       },
       {
-        "time": "06:45",
-        "title": "中村留が省スペース設計のATC型複合加工機、対向2スピンドル構成で柔軟に加工：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wRGpsU0lZU1FpQ1ZBcXRiV2VVRXYwb0tfeWRQQjFkd0tkT0p0dDg3LWc2WkZtSjV1Z3g1RDJ1UXlnRnhtN2NQSVVINjNkUzhxTk9IOXc0VUFkSjhXZ3hwSUZfVk5IbS1MOFgzd1Bvaw?oc=5",
-        "publishedAt": "2026-06-30T21:45:00.000Z"
-      },
-      {
         "time": "17:00",
         "title": "DMG森精機と産総研、工作機械の故障検知にAI 100社から製造データ",
         "source": "日本経済新聞",
@@ -52,11 +38,25 @@
         "publishedAt": "2026-07-01T08:00:00.000Z"
       },
       {
+        "time": "06:45",
+        "title": "中村留が省スペース設計のATC型複合加工機、対向2スピンドル構成で柔軟に加工：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wRGpsU0lZU1FpQ1ZBcXRiV2VVRXYwb0tfeWRQQjFkd0tkT0p0dDg3LWc2WkZtSjV1Z3g1RDJ1UXlnRnhtN2NQSVVINjNkUzhxTk9IOXc0VUFkSjhXZ3hwSUZfVk5IbS1MOFgzd1Bvaw?oc=5",
+        "publishedAt": "2026-06-30T21:45:00.000Z"
+      },
+      {
         "time": "07:00",
         "title": "ＫＡＭＡＭＥＳＨＩ、設備停止リスクの可視化・予防を支援する設備保全サービス提供開始",
         "source": "ASCII.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pNUQ0Q0pUTGdKRnhfMmpLYmlCQ2p6RUhXNXdkXzlQNjF4VjhibTZVeHpPRHBYbnN6dW1sLXNOU0JENlpsMjVLRnpodEhSU3puNlNLMw?oc=5",
         "publishedAt": "2026-06-30T22:00:00.000Z"
+      },
+      {
+        "time": "14:47",
+        "title": "マシニングセンターの世界産業レポート2026：市場シェア、競争状況、成長率5.9%分析｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KRjZjUUJXamNYbVZ0empTNE5rUHg0OXVkUlFQdUpoRXo1MVhHZGwwbE9iNUJMLVRNMHB2OE1LcDNjYU93d2lQT0M2SWcwemluYkplT2pPTQ?oc=5",
+        "publishedAt": "2026-07-01T05:47:24.000Z"
       }
     ],
     "worldHeadlines": [
