@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-01T07:44:27.095Z",
+  "updatedAt": "2026-07-01T09:19:24.104Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "17:00",
+        "title": "DMG森精機と産総研、工作機械の故障検知にAI 100社から製造データ",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qMklvOGdiTmZSTl9vQ285UGdiSlIwV1F2RjVqMjJ3RFFYZVRwc0V1ZnpmMUd0R0Znd3k5R2xZVnV6Uks4YzBIUU5VdWNheEVYNElkSXA1aGdkaG9nNnAzdFE0NmVBVm1PNnhGUw?oc=5",
+        "publishedAt": "2026-07-01T08:00:00.000Z"
+      },
       {
         "time": "11:30",
         "title": "炉制御基板の世界市場（2026年～2032年）、市場規模（ガス炉制御盤、石油炉制御盤、電気炉制御盤、その他）・分析レポートを発表",
@@ -19,30 +26,9 @@
       {
         "time": "09:00",
         "title": "次世代設備保全クラウドの株式会社M2X、株式会社京都プラテックの導入事例を公開",
-        "source": "産経ニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MeG1oUkFSWmhmZjBxVi1zdjhmLW10OFZGV1BRdTVhQnZ2ZnZIbmhGM1NJQ2hKVkp4a1gyTEVxanFYSl83MXE4RWViN0kyUnh6S3NUSE5USE4zSTVlU0ZEYWV1N0o4R1pnaDhkRWw5bmUxQ0oyREg0UmE5TQ?oc=5",
+        "source": "イザ！",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Jd21hel90blBncUh0RktadXhEV3U1TjZQUW1NUVZXdUxXVkxqNGkxZEV4MGI5MW5jSXpGRjVKUmtKT0V4WkxpN2p6LTk2Ym5uWUsySEp6YkxLYVpDSmt0VDhIeVBLTF9HMmwxYUhRTGprdm1kWEQwM3N3?oc=5",
         "publishedAt": "2026-07-01T00:00:02.000Z"
-      },
-      {
-        "time": "07:00",
-        "title": "ＫＡＭＡＭＥＳＨＩ、設備停止リスクの可視化・予防を支援する設備保全サービス提供開始",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pNUQ0Q0pUTGdKRnhfMmpLYmlCQ2p6RUhXNXdkXzlQNjF4VjhibTZVeHpPRHBYbnN6dW1sLXNOU0JENlpsMjVLRnpodEhSU3puNlNLMw?oc=5",
-        "publishedAt": "2026-06-30T22:00:00.000Z"
-      },
-      {
-        "time": "05:03",
-        "title": "多様性を育む／西島 支え合う文化育て100年",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5odDR0emRtTmp4YTJhRDNlNFNzcDUwMHdkUE1LU3cxQWVySEhkMGt0NVpVXzE5Z09qUkFrRUZjQ1ltdDVMNHBZMnJ2bUc0U3NnNmVhc2M1RjBUVFE?oc=5",
-        "publishedAt": "2026-06-30T20:03:55.000Z"
-      },
-      {
-        "time": "20:45",
-        "title": "工作機械の設備監視と遠隔サポートを統合した新プラットフォーム「SatelinC（サテリンク）」を提供開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tc21sSkpya0w5Vlh1c1l5cVpGeExiNHE4SldUSUlFR25DX0hpdnpKd0RBOXFIMnRFZVp0RzlBYjFmUmNCcUNzV3NNdGxxVks3dFRiZHdKdDNvb2R0cndXMGVtMklVWC1qdjIzTTVvdkZQTTA1R0E?oc=5",
-        "publishedAt": "2026-06-30T11:45:17.000Z"
       },
       {
         "time": "10:22",
@@ -52,11 +38,25 @@
         "publishedAt": "2026-07-01T01:22:04.000Z"
       },
       {
-        "time": "07:08",
-        "title": "【Supply Chained】ファナックのCNC市場7割支配が示す、中国の10億ドル戦略が敗れた理由",
-        "source": "finance.biggo.jp",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93X1VCYUVvckhLZS0xMDRDVlhsSmpkV3h3dm5tSTlKR1BTZXhnVG5aX044Q05zVEdRZ3BmX3g0bVlnTmZqVEFyYjdwUk1hR1Z5ZmJDLUhvRUJWUQ?oc=5",
-        "publishedAt": "2026-06-30T22:08:00.000Z"
+        "time": "07:00",
+        "title": "ＫＡＭＡＭＥＳＨＩ、設備停止リスクの可視化・予防を支援する設備保全サービス提供開始",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pNUQ0Q0pUTGdKRnhfMmpLYmlCQ2p6RUhXNXdkXzlQNjF4VjhibTZVeHpPRHBYbnN6dW1sLXNOU0JENlpsMjVLRnpodEhSU3puNlNLMw?oc=5",
+        "publishedAt": "2026-06-30T22:00:00.000Z"
+      },
+      {
+        "time": "07:59",
+        "title": "多様性を育む／西島 支え合う文化育て100年",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5odDR0emRtTmp4YTJhRDNlNFNzcDUwMHdkUE1LU3cxQWVySEhkMGt0NVpVXzE5Z09qUkFrRUZjQ1ltdDVMNHBZMnJ2bUc0U3NnNmVhc2M1RjBUVFE?oc=5",
+        "publishedAt": "2026-06-30T22:59:19.000Z"
+      },
+      {
+        "time": "14:47",
+        "title": "マシニングセンターの世界産業レポート2026：市場シェア、競争状況、成長率5.9%分析｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KRjZjUUJXamNYbVZ0empTNE5rUHg0OXVkUlFQdUpoRXo1MVhHZGwwbE9iNUJMLVRNMHB2OE1LcDNjYU93d2lQT0M2SWcwemluYkplT2pPTQ?oc=5",
+        "publishedAt": "2026-07-01T05:47:24.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586335?source=rss",
         "publishedAt": "2026-07-01T04:29:41.000Z"
+      },
+      {
+        "time": "16:56",
+        "title": "習氏 台湾統一は「歴史的任務」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586358?source=rss",
+        "publishedAt": "2026-07-01T07:56:20.000Z"
       },
       {
         "time": "07:39",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586267?source=rss",
         "publishedAt": "2026-06-30T11:59:28.000Z"
-      },
-      {
-        "time": "17:42",
-        "title": "フランス SHEINなど対象に法規制",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586248?source=rss",
-        "publishedAt": "2026-06-30T08:42:30.000Z"
       }
     ],
     "economyHeadlines": [
@@ -117,13 +117,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586324?source=rss",
         "publishedAt": "2026-07-01T02:54:34.000Z"
-      },
-      {
-        "time": "22:39",
-        "title": "歴史的な円安水準 生活への影響は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586279?source=rss",
-        "publishedAt": "2026-06-30T13:39:46.000Z"
       },
       {
         "time": "16:03",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586348?source=rss",
         "publishedAt": "2026-07-01T06:31:30.000Z"
+      },
+      {
+        "time": "18:03",
+        "title": "出川哲朗の兄の海苔問屋 高騰嘆く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586372?source=rss",
+        "publishedAt": "2026-07-01T09:03:58.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,6 +163,20 @@
         "publishedAt": "2026-07-01T03:31:50.000Z"
       },
       {
+        "time": "17:15",
+        "title": "5歳不明 消防は一旦捜索打ち切り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586360?source=rss",
+        "publishedAt": "2026-07-01T08:15:35.000Z"
+      },
+      {
+        "time": "17:24",
+        "title": "山に遺体 クマが人を獲物と認識か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586361?source=rss",
+        "publishedAt": "2026-07-01T08:24:37.000Z"
+      },
+      {
         "time": "11:00",
         "title": "配信中の女性殺害 起訴内容認める",
         "source": "Yahoo!ニュース",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-07-01T02:00:22.000Z"
       },
       {
-        "time": "22:51",
-        "title": "広島強殺 男はギャンブルで困窮か",
+        "time": "16:46",
+        "title": "市議が新人に体当たり 懲罰可決",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586281?source=rss",
-        "publishedAt": "2026-06-30T13:51:04.000Z"
-      },
-      {
-        "time": "22:24",
-        "title": "GHQ接収の住宅地区 79年ぶり返還",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586276?source=rss",
-        "publishedAt": "2026-06-30T13:24:13.000Z"
-      },
-      {
-        "time": "13:55",
-        "title": "熊よけスプレー誤噴射か 5人搬送",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586338?source=rss",
-        "publishedAt": "2026-07-01T04:55:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586352?source=rss",
+        "publishedAt": "2026-07-01T07:46:25.000Z"
       }
     ],
     "subsidyHeadlines": [

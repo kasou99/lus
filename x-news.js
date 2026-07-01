@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-01T07:44:27.972Z",
+  "updatedAt": "2026-07-01T09:19:24.663Z",
   "items": [
-    {
-      "time": "14:49",
-      "title": "2日にかけ西日本〜関東で大雨恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586344?source=rss",
-      "publishedAt": "2026-07-01T05:49:34.000Z",
-      "xQuery": "2日にかけ西日本〜関東で大雨恐れ"
-    },
     {
       "time": "16:29",
       "title": "衆院議長 与野党に国会正常化要請",
@@ -18,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "衆院議長 与野党に国会正常化要請"
     },
     {
-      "time": "16:33",
-      "title": "米大統領 暗号資産巡り巨額の収入",
+      "time": "16:56",
+      "title": "習氏 台湾統一は「歴史的任務」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586356?source=rss",
-      "publishedAt": "2026-07-01T07:33:23.000Z",
-      "xQuery": "米大統領 暗号資産巡り巨額の収入"
+      "url": "https://news.yahoo.co.jp/pickup/6586358?source=rss",
+      "publishedAt": "2026-07-01T07:56:20.000Z",
+      "xQuery": "習氏 台湾統一は「歴史的任務」"
     },
     {
       "time": "15:53",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "不明の10歳 滝で発見も死亡確認"
     },
     {
-      "time": "16:03",
-      "title": "トヨタ ハイランダー8月全国発売",
+      "time": "17:24",
+      "title": "山に遺体 クマが人を獲物と認識か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586351?source=rss",
-      "publishedAt": "2026-07-01T07:03:16.000Z",
-      "xQuery": "トヨタ ハイランダー8月全国発売"
+      "url": "https://news.yahoo.co.jp/pickup/6586361?source=rss",
+      "publishedAt": "2026-07-01T08:24:37.000Z",
+      "xQuery": "山に遺体 クマが人を獲物と認識か"
+    },
+    {
+      "time": "17:15",
+      "title": "5歳不明 消防は一旦捜索打ち切り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586360?source=rss",
+      "publishedAt": "2026-07-01T08:15:35.000Z",
+      "xQuery": "5歳不明 消防は一旦捜索打ち切り"
     }
   ]
 };
