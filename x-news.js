@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-06-30T23:35:13.027Z",
+  "updatedAt": "2026-07-01T01:14:40.816Z",
   "items": [
     {
-      "time": "07:16",
-      "title": "印にバイオガス施設 日印合意へ",
+      "time": "09:23",
+      "title": "大企業製造業 景況感5期連続改善",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586290?source=rss",
-      "publishedAt": "2026-06-30T22:16:04.000Z",
-      "xQuery": "印にバイオガス施設 日印合意へ"
+      "url": "https://news.yahoo.co.jp/pickup/6586303?source=rss",
+      "publishedAt": "2026-07-01T00:23:12.000Z",
+      "xQuery": "大企業製造業 景況感5期連続改善"
     },
     {
       "time": "07:39",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "出生地主義制限の米大統領令 違憲"
     },
     {
-      "time": "22:51",
-      "title": "広島強殺 男はギャンブルで困窮か",
+      "time": "09:58",
+      "title": "ベネズエラ地震 6日後に3歳救出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586281?source=rss",
-      "publishedAt": "2026-06-30T13:51:04.000Z",
-      "xQuery": "広島強殺 男はギャンブルで困窮か"
+      "url": "https://news.yahoo.co.jp/pickup/6586306?source=rss",
+      "publishedAt": "2026-07-01T00:58:06.000Z",
+      "xQuery": "ベネズエラ地震 6日後に3歳救出"
     },
     {
-      "time": "06:37",
-      "title": "富士山遭難死の7割が3000m超 分析",
+      "time": "09:11",
+      "title": "トランス選手巡る制限容認 米判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586286?source=rss",
-      "publishedAt": "2026-06-30T21:37:22.000Z",
-      "xQuery": "富士山遭難死の7割が3000m超 分析"
+      "url": "https://news.yahoo.co.jp/pickup/6586302?source=rss",
+      "publishedAt": "2026-07-01T00:11:34.000Z",
+      "xQuery": "トランス選手巡る制限容認 米判決"
     },
     {
       "time": "07:14",

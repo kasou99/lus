@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T23:35:12.265Z",
+  "updatedAt": "2026-07-01T01:14:39.955Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,11 +45,11 @@
         "publishedAt": "2026-06-30T20:00:00.000Z"
       },
       {
-        "time": "05:04",
-        "title": "経産省、フィジカルAIで国産基盤 モデル開発に3873億円",
+        "time": "08:00",
+        "title": "岡谷鋼機、BIMソフト発売 鉄筋設計のDX支援",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kOXJReW1KX3hlemxvMHVndWpWY2pwOFpQT0tFdU9WOWlzclg3Y0FvRzZxNHpzcWk1R1hqaGNyN28tVEVIamNiZjhnNFE2bUxlYjlOOV82bTJmLTQ?oc=5",
-        "publishedAt": "2026-06-30T20:04:07.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBU1pHLUVhM1haU2FXR01tVTRGOS1lVTdnS3lTbWFYRmlDSDZVNm9sSFRWZHNSbGV2SVBTZ25xZ3FsbXBIZTUzc1gxUEtmY1JWUUpmb3dzc3dHamNsSmFRNUppWkEzVk9OeWVPQnVmYXpLcmRldlRXb09VUQ?oc=5",
+        "publishedAt": "2026-06-30T23:00:30.000Z"
       },
       {
         "time": "20:30",
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "07:42",
-        "title": "ベネズエラ 地震の死者1700人超",
+        "time": "09:58",
+        "title": "ベネズエラ地震 6日後に3歳救出",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586181?source=rss",
-        "publishedAt": "2026-06-29T22:42:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586306?source=rss",
+        "publishedAt": "2026-07-01T00:58:06.000Z"
       },
       {
         "time": "07:39",
@@ -82,13 +82,6 @@
         "publishedAt": "2026-06-30T00:48:41.000Z"
       },
       {
-        "time": "21:26",
-        "title": "米W杯放映会場近くで銃撃1人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586149?source=rss",
-        "publishedAt": "2026-06-29T12:26:30.000Z"
-      },
-      {
         "time": "20:59",
         "title": "韓国政府 サッカー協会特別監査へ",
         "source": "Yahoo!ニュース",
@@ -101,9 +94,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586248?source=rss",
         "publishedAt": "2026-06-30T08:42:30.000Z"
+      },
+      {
+        "time": "09:11",
+        "title": "トランス選手巡る制限容認 米判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586302?source=rss",
+        "publishedAt": "2026-07-01T00:11:34.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "09:23",
+        "title": "大企業製造業 景況感5期連続改善",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586303?source=rss",
+        "publishedAt": "2026-07-01T00:23:12.000Z"
+      },
       {
         "time": "22:39",
         "title": "歴史的な円安水準 生活への影響は",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586261?source=rss",
         "publishedAt": "2026-06-30T10:11:21.000Z"
-      },
-      {
-        "time": "11:29",
-        "title": "国家公務員 ボーナス平均73万円超",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586205?source=rss",
-        "publishedAt": "2026-06-30T02:29:29.000Z"
       },
       {
         "time": "20:07",
