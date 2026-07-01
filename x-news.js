@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-01T14:22:59.223Z",
+  "updatedAt": "2026-07-01T15:27:56.052Z",
   "items": [
     {
-      "time": "22:33",
-      "title": "社保改革協議 自維合意へ最終調整",
+      "time": "00:15",
+      "title": "西-東日本で大雨 河川増水に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586394?source=rss",
-      "publishedAt": "2026-07-01T13:33:40.000Z",
-      "xQuery": "社保改革協議 自維合意へ最終調整"
+      "url": "https://news.yahoo.co.jp/pickup/6586403?source=rss",
+      "publishedAt": "2026-07-01T15:15:41.000Z",
+      "xQuery": "西-東日本で大雨 河川増水に警戒"
     },
     {
-      "time": "22:39",
-      "title": "衆院女性トイレ増設へ 有志が要望",
+      "time": "23:40",
+      "title": "麻生太郎氏 高市政権の実績を評価",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586398?source=rss",
-      "publishedAt": "2026-07-01T13:39:10.000Z",
-      "xQuery": "衆院女性トイレ増設へ 有志が要望"
+      "url": "https://news.yahoo.co.jp/pickup/6586401?source=rss",
+      "publishedAt": "2026-07-01T14:40:00.000Z",
+      "xQuery": "麻生太郎氏 高市政権の実績を評価"
     },
     {
       "time": "22:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スペイン 熱波で1000人以上死亡"
     },
     {
-      "time": "22:42",
-      "title": "母娘死亡 父は逮捕前に毒物服用か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586397?source=rss",
-      "publishedAt": "2026-07-01T13:42:29.000Z",
-      "xQuery": "母娘死亡 父は逮捕前に毒物服用か"
-    },
-    {
       "time": "21:36",
       "title": "行方不明の10歳死亡 校長が陳謝",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6586389?source=rss",
       "publishedAt": "2026-07-01T12:36:22.000Z",
       "xQuery": "行方不明の10歳死亡 校長が陳謝"
+    },
+    {
+      "time": "23:12",
+      "title": "PS新作ゲーム ディスク版終了へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586400?source=rss",
+      "publishedAt": "2026-07-01T14:12:36.000Z",
+      "xQuery": "PS新作ゲーム ディスク版終了へ"
     }
   ]
 };
