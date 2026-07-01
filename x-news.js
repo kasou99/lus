@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-01T22:54:57.275Z",
+  "updatedAt": "2026-07-01T23:35:40.726Z",
   "items": [
     {
-      "time": "06:08",
-      "title": "九州で大雨 土砂災害など厳重警戒",
+      "time": "08:27",
+      "title": "九州から関東 午前は激しい雨警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586404?source=rss",
-      "publishedAt": "2026-07-01T21:08:09.000Z",
-      "xQuery": "九州で大雨 土砂災害など厳重警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6586415?source=rss",
+      "publishedAt": "2026-07-01T23:27:21.000Z",
+      "xQuery": "九州から関東 午前は激しい雨警戒"
     },
     {
       "time": "07:23",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ベネズエラ地震1週間 死者2千人超"
     },
     {
-      "time": "21:36",
-      "title": "行方不明の10歳死亡 校長が陳謝",
+      "time": "07:52",
+      "title": "PS新作のディスク版終了へ 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586389?source=rss",
-      "publishedAt": "2026-07-01T12:36:22.000Z",
-      "xQuery": "行方不明の10歳死亡 校長が陳謝"
+      "url": "https://news.yahoo.co.jp/pickup/6586411?source=rss",
+      "publishedAt": "2026-07-01T22:52:24.000Z",
+      "xQuery": "PS新作のディスク版終了へ 背景"
     },
     {
-      "time": "23:12",
-      "title": "PS新作ゲーム ディスク版終了へ",
+      "time": "07:22",
+      "title": "メキシコ16強祝賀で混乱 死者も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586400?source=rss",
-      "publishedAt": "2026-07-01T14:12:36.000Z",
-      "xQuery": "PS新作ゲーム ディスク版終了へ"
+      "url": "https://news.yahoo.co.jp/pickup/6586409?source=rss",
+      "publishedAt": "2026-07-01T22:22:53.000Z",
+      "xQuery": "メキシコ16強祝賀で混乱 死者も"
     }
   ]
 };
