@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T19:11:33.236Z",
+  "updatedAt": "2026-07-01T20:12:36.561Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,20 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3pzN2Y2Uno1TWRVS0pkRXNlMDBJQThUOWMyNVY1NGRobll2TW5CMVFOZHB6UlpXVmxSTmN1djJCTlNJTllidGI3eFU5TG1lakVna1lRSjl4YVowVjZHVVREVnpTX0pTRDRCZkpPR09xNmdRdldVZUloWVNzenhfWkEwNktlR1l0Q2hDYml0cy15c00zQVhTdUlPRHNhVEM2R0NtMjVuWWk?oc=5",
         "publishedAt": "2026-07-01T17:04:04.000Z"
+      },
+      {
+        "time": "05:06",
+        "title": "企業価値 新時代（4）エレファントジャパン 設備メンテナンス・清掃",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fR3MtY0M1dndzbDBTWmFRQkdGRXd0WmJPVmNhcnBfYlNxUFpUZHBwY3BPVEwwTS02NTJydkViNXQtU2ZyRmY5OEVKaTRla05hMzR1SE9mMnZvb0U?oc=5",
+        "publishedAt": "2026-07-01T20:06:13.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "伸栄商会が東京技販を買収 提案型営業強化へ",
+        "source": "北日本新聞webunプラス",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9velM5WkdQd2tqeWNWZEYtYXhxUWsyd05fWVpwRzFiVm5DNXRTaTRQYXZyRjFQWURjV1dnSUZJUmdYSndGQXVuZjlmNA?oc=5",
+        "publishedAt": "2026-07-01T20:00:00.000Z"
       },
       {
         "time": "09:00",
@@ -43,20 +57,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wRGpsU0lZU1FpQ1ZBcXRiV2VVRXYwb0tfeWRQQjFkd0tkT0p0dDg3LWc2WkZtSjV1Z3g1RDJ1UXlnRnhtN2NQSVVINjNkUzhxTk9IOXc0VUFkSjhXZ3hwSUZfVk5IbS1MOFgzd1Bvaw?oc=5",
         "publishedAt": "2026-06-30T21:45:00.000Z"
-      },
-      {
-        "time": "07:00",
-        "title": "ＫＡＭＡＭＥＳＨＩ、設備停止リスクの可視化・予防を支援する設備保全サービス提供開始",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pNUQ0Q0pUTGdKRnhfMmpLYmlCQ2p6RUhXNXdkXzlQNjF4VjhibTZVeHpPRHBYbnN6dW1sLXNOU0JENlpsMjVLRnpodEhSU3puNlNLMw?oc=5",
-        "publishedAt": "2026-06-30T22:00:00.000Z"
-      },
-      {
-        "time": "14:47",
-        "title": "マシニングセンターの世界産業レポート2026：市場シェア、競争状況、成長率5.9%分析｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KRjZjUUJXamNYbVZ0empTNE5rUHg0OXVkUlFQdUpoRXo1MVhHZGwwbE9iNUJMLVRNMHB2OE1LcDNjYU93d2lQT0M2SWcwemluYkplT2pPTQ?oc=5",
-        "publishedAt": "2026-07-01T05:47:24.000Z"
       }
     ],
     "worldHeadlines": [
