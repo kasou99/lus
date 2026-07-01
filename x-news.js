@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-01T09:19:24.663Z",
+  "updatedAt": "2026-07-01T10:47:03.155Z",
   "items": [
     {
-      "time": "16:29",
-      "title": "衆院議長 与野党に国会正常化要請",
+      "time": "18:18",
+      "title": "自民と維新 国会審議巡り覚書調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586354?source=rss",
-      "publishedAt": "2026-07-01T07:29:12.000Z",
-      "xQuery": "衆院議長 与野党に国会正常化要請"
+      "url": "https://news.yahoo.co.jp/pickup/6586371?source=rss",
+      "publishedAt": "2026-07-01T09:18:27.000Z",
+      "xQuery": "自民と維新 国会審議巡り覚書調整"
     },
     {
-      "time": "16:56",
-      "title": "習氏 台湾統一は「歴史的任務」",
+      "time": "18:34",
+      "title": "モバイルSuica 不具合が解消",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586358?source=rss",
-      "publishedAt": "2026-07-01T07:56:20.000Z",
-      "xQuery": "習氏 台湾統一は「歴史的任務」"
-    },
-    {
-      "time": "15:53",
-      "title": "不明の10歳 滝で発見も死亡確認",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586349?source=rss",
-      "publishedAt": "2026-07-01T06:53:04.000Z",
-      "xQuery": "不明の10歳 滝で発見も死亡確認"
+      "url": "https://news.yahoo.co.jp/pickup/6586374?source=rss",
+      "publishedAt": "2026-07-01T09:34:30.000Z",
+      "xQuery": "モバイルSuica 不具合が解消"
     },
     {
       "time": "17:24",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "山に遺体 クマが人を獲物と認識か"
     },
     {
-      "time": "17:15",
-      "title": "5歳不明 消防は一旦捜索打ち切り",
+      "time": "19:35",
+      "title": "不同意わいせつ疑い 市議書類送検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586360?source=rss",
-      "publishedAt": "2026-07-01T08:15:35.000Z",
-      "xQuery": "5歳不明 消防は一旦捜索打ち切り"
+      "url": "https://news.yahoo.co.jp/pickup/6586379?source=rss",
+      "publishedAt": "2026-07-01T10:35:19.000Z",
+      "xQuery": "不同意わいせつ疑い 市議書類送検"
+    },
+    {
+      "time": "19:11",
+      "title": "スムージー再び半額へ セブン対策",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586377?source=rss",
+      "publishedAt": "2026-07-01T10:11:43.000Z",
+      "xQuery": "スムージー再び半額へ セブン対策"
     }
   ]
 };
