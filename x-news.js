@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-01T22:03:26.871Z",
+  "updatedAt": "2026-07-01T22:54:57.275Z",
   "items": [
     {
       "time": "06:08",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "九州で大雨 土砂災害など厳重警戒"
     },
     {
-      "time": "23:40",
-      "title": "麻生太郎氏 高市政権の実績を評価",
+      "time": "07:23",
+      "title": "インド事業創出の投資 2兆円規模",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586401?source=rss",
-      "publishedAt": "2026-07-01T14:40:00.000Z",
-      "xQuery": "麻生太郎氏 高市政権の実績を評価"
+      "url": "https://news.yahoo.co.jp/pickup/6586408?source=rss",
+      "publishedAt": "2026-07-01T22:23:16.000Z",
+      "xQuery": "インド事業創出の投資 2兆円規模"
     },
     {
-      "time": "22:35",
-      "title": "スペイン 熱波で1000人以上死亡",
+      "time": "07:34",
+      "title": "ベネズエラ地震1週間 死者2千人超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586395?source=rss",
-      "publishedAt": "2026-07-01T13:35:47.000Z",
-      "xQuery": "スペイン 熱波で1000人以上死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6586410?source=rss",
+      "publishedAt": "2026-07-01T22:34:25.000Z",
+      "xQuery": "ベネズエラ地震1週間 死者2千人超"
     },
     {
       "time": "21:36",
