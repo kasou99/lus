@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-01T02:25:43.561Z",
+  "updatedAt": "2026-07-01T03:50:02.998Z",
   "items": [
     {
-      "time": "09:23",
-      "title": "大企業製造業 景況感5期連続改善",
+      "time": "11:18",
+      "title": "熱帯低気圧が発生 台風シーズンへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586303?source=rss",
-      "publishedAt": "2026-07-01T00:23:12.000Z",
-      "xQuery": "大企業製造業 景況感5期連続改善"
+      "url": "https://news.yahoo.co.jp/pickup/6586315?source=rss",
+      "publishedAt": "2026-07-01T02:18:03.000Z",
+      "xQuery": "熱帯低気圧が発生 台風シーズンへ"
     },
     {
-      "time": "10:21",
-      "title": "米 AnthropicのAI輸出規制を解除",
+      "time": "11:54",
+      "title": "路線価の全国平均 5年連続上昇",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586308?source=rss",
-      "publishedAt": "2026-07-01T01:21:31.000Z",
-      "xQuery": "米 AnthropicのAI輸出規制を解除"
+      "url": "https://news.yahoo.co.jp/pickup/6586324?source=rss",
+      "publishedAt": "2026-07-01T02:54:34.000Z",
+      "xQuery": "路線価の全国平均 5年連続上昇"
     },
     {
-      "time": "10:55",
-      "title": "住宅に女性と女児の遺体 殺人か",
+      "time": "12:31",
+      "title": "女性と女児死亡 父親を発見し逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586312?source=rss",
-      "publishedAt": "2026-07-01T01:55:29.000Z",
-      "xQuery": "住宅に女性と女児の遺体 殺人か"
+      "url": "https://news.yahoo.co.jp/pickup/6586330?source=rss",
+      "publishedAt": "2026-07-01T03:31:50.000Z",
+      "xQuery": "女性と女児死亡 父親を発見し逮捕"
     },
     {
       "time": "11:00",
