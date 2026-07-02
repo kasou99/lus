@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-02T14:52:27.168Z",
+  "updatedAt": "2026-07-02T15:51:44.601Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "00:00",
+        "title": "ニデックマシンツール、仮想空間で加工再現 新ソフト",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fNnZsSmV1aGJLRzBEeUVfdGpmbW4zR0dSbTBhQzQyS0pEV0c3WjVndXk2TXdnTVFfdl9wRmM4eDVUT0NXdlFjZmhTeUFscWZWemM2Zkp5V282dWc?oc=5",
+        "publishedAt": "2026-07-02T15:00:00.000Z"
+      },
       {
         "time": "09:57",
         "title": "設備保全デジタル化のM2X、シリーズA を完了し総額11.4億円を調達",
@@ -50,13 +57,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1udVpnbnk3N2laSVRtYVVLOTNUcEQ2dUJYakFhMnFlR0lLT05VQVluOV9NcU15eHgxbTZLNDIyTlVaVzU2WkxlWXd1eUZuaGJ1NElGV2xFUHY4bWV3cmVwS2wxT2ZqS3k3Z19zMDBiRzZ2TWp1?oc=5",
         "publishedAt": "2026-07-02T02:55:00.000Z"
-      },
-      {
-        "time": "07:59",
-        "title": "東邦ガス、ガスエネルギー館改装 再生エネ楽しく学ぶ",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ZU1zd1h4Zlh1Ql80ZnBpaXlmVnpkUFJvVV80TG9hNG9KQVhNUk5FQ0VHRVZEd2U5Q1Z3RWtZLWJMLTZrM0FwS3N4ajVCQkZaeFBiXzA4b0s3RFRHSVVPbm9IM29ZS0lxdlFiQ0ZlQWNETFAtVmNLSjRQdw?oc=5",
-        "publishedAt": "2026-07-01T22:59:04.000Z"
       }
     ],
     "worldHeadlines": [
