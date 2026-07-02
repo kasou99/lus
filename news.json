@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T13:38:14.376Z",
+  "updatedAt": "2026-07-02T14:52:27.168Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,11 +75,11 @@
         "publishedAt": "2026-07-02T00:54:30.000Z"
       },
       {
-        "time": "07:34",
-        "title": "ベネズエラ地震1週間 死者2千人超",
+        "time": "23:15",
+        "title": "ハンタ集団感染 WHOが収束宣言",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586410?source=rss",
-        "publishedAt": "2026-07-01T22:34:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586531?source=rss",
+        "publishedAt": "2026-07-02T14:15:35.000Z"
       },
       {
         "time": "14:09",
@@ -96,11 +96,11 @@
         "publishedAt": "2026-07-02T02:30:32.000Z"
       },
       {
-        "time": "22:35",
-        "title": "スペイン 熱波で1000人以上死亡",
+        "time": "18:30",
+        "title": "香港返還から29年 市民は冷めた目",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586395?source=rss",
-        "publishedAt": "2026-07-01T13:35:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586496?source=rss",
+        "publishedAt": "2026-07-02T09:30:47.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-07-02T12:26:52.000Z"
       },
       {
+        "time": "22:44",
+        "title": "市配布の殺虫剤3歳誤飲 県警捜査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586528?source=rss",
+        "publishedAt": "2026-07-02T13:44:48.000Z"
+      },
+      {
         "time": "20:09",
         "title": "東京都が手足口病の警報 2年ぶり",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586523?source=rss",
         "publishedAt": "2026-07-02T13:08:18.000Z"
-      },
-      {
-        "time": "19:59",
-        "title": "「つるし上げ」でいじめ重大事態",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586507?source=rss",
-        "publishedAt": "2026-07-02T10:59:46.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T13:38:15.580Z",
+  "updatedAt": "2026-07-02T14:52:28.388Z",
   "items": [
     {
-      "time": "21:09",
-      "title": "ウ首都に大規模攻撃 18人死亡",
+      "time": "22:26",
+      "title": "8日から各地で「かなりの高温」か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586514?source=rss",
-      "publishedAt": "2026-07-02T12:09:57.000Z",
-      "xQuery": "ウ首都に大規模攻撃 18人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6586524?source=rss",
+      "publishedAt": "2026-07-02T13:26:13.000Z",
+      "xQuery": "8日から各地で「かなりの高温」か"
     },
     {
-      "time": "20:09",
-      "title": "東京都が手足口病の警報 2年ぶり",
+      "time": "23:15",
+      "title": "ハンタ集団感染 WHOが収束宣言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586508?source=rss",
-      "publishedAt": "2026-07-02T11:09:07.000Z",
-      "xQuery": "東京都が手足口病の警報 2年ぶり"
-    },
-    {
-      "time": "21:26",
-      "title": "16歳ら逮捕 羽田強盗未遂関与か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586515?source=rss",
-      "publishedAt": "2026-07-02T12:26:52.000Z",
-      "xQuery": "16歳ら逮捕 羽田強盗未遂関与か"
+      "url": "https://news.yahoo.co.jp/pickup/6586531?source=rss",
+      "publishedAt": "2026-07-02T14:15:35.000Z",
+      "xQuery": "ハンタ集団感染 WHOが収束宣言"
     },
     {
       "time": "22:29",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "小学校火災 ストーブも私物と教員"
     },
     {
-      "time": "22:08",
-      "title": "県職員 生活保護受給者にうそか",
+      "time": "23:29",
+      "title": "タイで11歳運転の車暴走 9人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586523?source=rss",
-      "publishedAt": "2026-07-02T13:08:18.000Z",
-      "xQuery": "県職員 生活保護受給者にうそか"
+      "url": "https://news.yahoo.co.jp/pickup/6586532?source=rss",
+      "publishedAt": "2026-07-02T14:29:30.000Z",
+      "xQuery": "タイで11歳運転の車暴走 9人死亡"
+    },
+    {
+      "time": "22:00",
+      "title": "ブルボン 菓子2万袋を自主回収",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586521?source=rss",
+      "publishedAt": "2026-07-02T13:00:04.000Z",
+      "xQuery": "ブルボン 菓子2万袋を自主回収"
     }
   ]
 };
