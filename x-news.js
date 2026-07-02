@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T02:24:24.026Z",
+  "updatedAt": "2026-07-02T03:48:32.776Z",
   "items": [
     {
       "time": "11:10",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "ダブル台風発生へ 今後の動向注意"
     },
     {
+      "time": "12:17",
+      "title": "コカイン使用35万人 厚労省推計",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586445?source=rss",
+      "publishedAt": "2026-07-02T03:17:31.000Z",
+      "xQuery": "コカイン使用35万人 厚労省推計"
+    },
+    {
       "time": "09:30",
       "title": "米イラン間接協議 前進見‌られず",
       "source": "Yahoo!ニュース",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン間接協議 前進見‌られず"
     },
     {
-      "time": "09:54",
-      "title": "露ウ両軍の死傷者 最大200万人か",
+      "time": "11:19",
+      "title": "工藤会トップが交代 県警が断定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586427?source=rss",
-      "publishedAt": "2026-07-02T00:54:30.000Z",
-      "xQuery": "露ウ両軍の死傷者 最大200万人か"
+      "url": "https://news.yahoo.co.jp/pickup/6586434?source=rss",
+      "publishedAt": "2026-07-02T02:19:35.000Z",
+      "xQuery": "工藤会トップが交代 県警が断定"
     },
     {
-      "time": "08:55",
-      "title": "玉木氏「自民と信頼関係に疑義」",
+      "time": "11:30",
+      "title": "米「出産旅行」取り締まり強化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586420?source=rss",
-      "publishedAt": "2026-07-01T23:55:51.000Z",
-      "xQuery": "玉木氏「自民と信頼関係に疑義」"
-    },
-    {
-      "time": "09:39",
-      "title": "超巨大地震巡る謎 東大チーム解明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586426?source=rss",
-      "publishedAt": "2026-07-02T00:39:04.000Z",
-      "xQuery": "超巨大地震巡る謎 東大チーム解明"
+      "url": "https://news.yahoo.co.jp/pickup/6586437?source=rss",
+      "publishedAt": "2026-07-02T02:30:32.000Z",
+      "xQuery": "米「出産旅行」取り締まり強化へ"
     }
   ]
 };
