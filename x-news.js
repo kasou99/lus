@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T11:54:08.807Z",
+  "updatedAt": "2026-07-02T12:48:23.064Z",
   "items": [
     {
-      "time": "19:13",
-      "title": "日印 経済安保の協力強化で一致",
+      "time": "21:09",
+      "title": "ウ首都に大規模攻撃 18人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586502?source=rss",
-      "publishedAt": "2026-07-02T10:13:42.000Z",
-      "xQuery": "日印 経済安保の協力強化で一致"
+      "url": "https://news.yahoo.co.jp/pickup/6586514?source=rss",
+      "publishedAt": "2026-07-02T12:09:57.000Z",
+      "xQuery": "ウ首都に大規模攻撃 18人死亡"
     },
     {
-      "time": "18:30",
-      "title": "香港返還から29年 市民は冷めた目",
+      "time": "20:09",
+      "title": "東京都が手足口病の警報 2年ぶり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586496?source=rss",
-      "publishedAt": "2026-07-02T09:30:47.000Z",
-      "xQuery": "香港返還から29年 市民は冷めた目"
+      "url": "https://news.yahoo.co.jp/pickup/6586508?source=rss",
+      "publishedAt": "2026-07-02T11:09:07.000Z",
+      "xQuery": "東京都が手足口病の警報 2年ぶり"
     },
     {
-      "time": "20:20",
-      "title": "16歳ら4人逮捕 1.9億円襲撃関与か",
+      "time": "21:26",
+      "title": "16歳ら逮捕 羽田強盗未遂関与か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586509?source=rss",
-      "publishedAt": "2026-07-02T11:20:28.000Z",
-      "xQuery": "16歳ら4人逮捕 1.9億円襲撃関与か"
+      "url": "https://news.yahoo.co.jp/pickup/6586515?source=rss",
+      "publishedAt": "2026-07-02T12:26:52.000Z",
+      "xQuery": "16歳ら逮捕 羽田強盗未遂関与か"
     },
     {
       "time": "19:12",

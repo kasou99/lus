@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T11:54:07.922Z",
+  "updatedAt": "2026-07-02T12:48:22.415Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR3BPV04wQWN3YmNKNlJGc1JkYk5tVDJ5Y3lySXlZRk1aNE1wOXI5dklFOUNZZm1DRnZESWNSY1pubDhsVGUxdzNwa2xjd19sOVgzakdWa3dXRTFUQ1Q0eGdCd19uU0RWTE1Ra0ZkbFp5MWZabTlGUTdhMWRWcUxqcXNERVpFdzViYUpsTG5jeGR4Q3FseUZzcFF6aElONHo3LVZvZkRsTWlyd1dQT01mckx0VndodnBzRVFpOHc5NEZTU2RUVDZlczBSRUk?oc=5",
         "publishedAt": "2026-07-02T03:00:00.000Z"
+      },
+      {
+        "time": "19:01",
+        "title": "株式会社M2Xへの出資に関するお知らせ",
+        "source": "marklines.com",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04bkphdExWQTQ1VGptMGtFUFJTenFvMFNrT21sNnl1OVpmckNTWmtQY3lRQVktNzgwQVJidjJsZm8wUklRdnAyY0ZpZDRJV1JocTJoMWRwU3FaSjJGRUdV?oc=5",
+        "publishedAt": "2026-07-02T10:01:04.000Z"
       },
       {
         "time": "15:15",
@@ -38,34 +45,27 @@
         "publishedAt": "2026-07-01T22:10:00.000Z"
       },
       {
+        "time": "11:55",
+        "title": "多維科技、磁気グリッドセンサーICを発表、従来のPCB実装制限を突破",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1udVpnbnk3N2laSVRtYVVLOTNUcEQ2dUJYakFhMnFlR0lLT05VQVluOV9NcU15eHgxbTZLNDIyTlVaVzU2WkxlWXd1eUZuaGJ1NElGV2xFUHY4bWV3cmVwS2wxT2ZqS3k3Z19zMDBiRzZ2TWp1?oc=5",
+        "publishedAt": "2026-07-02T02:55:00.000Z"
+      },
+      {
         "time": "07:59",
         "title": "東邦ガス、ガスエネルギー館改装 再生エネ楽しく学ぶ",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4ZU1zd1h4Zlh1Ql80ZnBpaXlmVnpkUFJvVV80TG9hNG9KQVhNUk5FQ0VHRVZEd2U5Q1Z3RWtZLWJMLTZrM0FwS3N4ajVCQkZaeFBiXzA4b0s3RFRHSVVPbm9IM29ZS0lxdlFiQ0ZlQWNETFAtVmNLSjRQdw?oc=5",
         "publishedAt": "2026-07-01T22:59:04.000Z"
-      },
-      {
-        "time": "02:04",
-        "title": "工作機械の故障、AIで早期検知 DMG森精機と産総研、28年にも中小へ提供",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3pzN2Y2Uno1TWRVS0pkRXNlMDBJQThUOWMyNVY1NGRobll2TW5CMVFOZHB6UlpXVmxSTmN1djJCTlNJTllidGI3eFU5TG1lakVna1lRSjl4YVowVjZHVVREVnpTX0pTRDRCZkpPR09xNmdRdldVZUloWVNzenhfWkEwNktlR1l0Q2hDYml0cy15c00zQVhTdUlPRHNhVEM2R0NtMjVuWWk?oc=5",
-        "publishedAt": "2026-07-01T17:04:04.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "伸栄商会が東京技販を買収 提案型営業強化へ",
-        "source": "北日本新聞webunプラス",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9velM5WkdQd2tqeWNWZEYtYXhxUWsyd05fWVpwRzFiVm5DNXRTaTRQYXZyRjFQWURjV1dnSUZJUmdYSndGQXVuZjlmNA?oc=5",
-        "publishedAt": "2026-07-01T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "18:16",
-        "title": "ウ首都に大規模攻撃 13人死亡",
+        "time": "21:09",
+        "title": "ウ首都に大規模攻撃 18人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586493?source=rss",
-        "publishedAt": "2026-07-02T09:16:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586514?source=rss",
+        "publishedAt": "2026-07-02T12:09:57.000Z"
       },
       {
         "time": "09:54",
@@ -156,11 +156,11 @@
         "publishedAt": "2026-07-02T03:59:06.000Z"
       },
       {
-        "time": "20:20",
-        "title": "16歳ら4人逮捕 1.9億円襲撃関与か",
+        "time": "21:26",
+        "title": "16歳ら逮捕 羽田強盗未遂関与か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586509?source=rss",
-        "publishedAt": "2026-07-02T11:20:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586515?source=rss",
+        "publishedAt": "2026-07-02T12:26:52.000Z"
       },
       {
         "time": "20:09",
