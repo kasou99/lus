@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T08:07:30.825Z",
+  "updatedAt": "2026-07-02T09:38:25.719Z",
   "items": [
     {
-      "time": "16:40",
-      "title": "台風9号発生 来週末に沖縄影響か",
+      "time": "17:51",
+      "title": "電通総研の株式非公開化を検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586477?source=rss",
-      "publishedAt": "2026-07-02T07:40:17.000Z",
-      "xQuery": "台風9号発生 来週末に沖縄影響か"
+      "url": "https://news.yahoo.co.jp/pickup/6586487?source=rss",
+      "publishedAt": "2026-07-02T08:51:04.000Z",
+      "xQuery": "電通総研の株式非公開化を検討"
     },
     {
-      "time": "16:12",
-      "title": "養子案制度設計巡り論戦へ 焦点は",
+      "time": "18:16",
+      "title": "ウ首都に大規模攻撃 13人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586474?source=rss",
-      "publishedAt": "2026-07-02T07:12:01.000Z",
-      "xQuery": "養子案制度設計巡り論戦へ 焦点は"
-    },
-    {
-      "time": "16:30",
-      "title": "梅雨明け予想 関東甲信は7/20頃",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586475?source=rss",
-      "publishedAt": "2026-07-02T07:30:03.000Z",
-      "xQuery": "梅雨明け予想 関東甲信は7/20頃"
+      "url": "https://news.yahoo.co.jp/pickup/6586493?source=rss",
+      "publishedAt": "2026-07-02T09:16:19.000Z",
+      "xQuery": "ウ首都に大規模攻撃 13人死亡"
     },
     {
       "time": "15:29",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "大手夏のボーナス 初の100万円超"
     },
     {
-      "time": "15:39",
-      "title": "アイヌ側の控訴棄却 先住権訴訟で",
+      "time": "18:18",
+      "title": "制裁金巡りGoogle敗訴 EU司法裁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586470?source=rss",
-      "publishedAt": "2026-07-02T06:39:24.000Z",
-      "xQuery": "アイヌ側の控訴棄却 先住権訴訟で"
+      "url": "https://news.yahoo.co.jp/pickup/6586491?source=rss",
+      "publishedAt": "2026-07-02T09:18:15.000Z",
+      "xQuery": "制裁金巡りGoogle敗訴 EU司法裁"
+    },
+    {
+      "time": "15:49",
+      "title": "タイミー側は争う姿勢 集団訴訟",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586471?source=rss",
+      "publishedAt": "2026-07-02T06:49:29.000Z",
+      "xQuery": "タイミー側は争う姿勢 集団訴訟"
     }
   ]
 };

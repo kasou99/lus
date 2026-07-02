@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T08:07:30.053Z",
+  "updatedAt": "2026-07-02T09:38:25.189Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,25 @@
         "publishedAt": "2026-07-02T03:00:00.000Z"
       },
       {
+        "time": "09:57",
+        "title": "設備保全デジタル化のM2X、シリーズA を完了し総額11.4億円を調達",
+        "source": "BRIDGE（ブリッジ）",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFlCa09EWVFkZFFpWTdjYmFBQWtfbEJsaTNsSURVQlVtVnItd053VDFYTnpjR1dPb3FsWWtZUHJBVEpHMmdseHZmRjl0ZE5vT0hMUFU4Y1FwQlNCRXFWWFhfU3VHeWFvQy03WldNNlJLWlVKOG9ydFNUVGVOeEFkZnlLN0Z2V1FLZ2VNbUkxRy1VcnlG?oc=5",
+        "publishedAt": "2026-07-02T00:57:10.000Z"
+      },
+      {
+        "time": "15:15",
+        "title": "リックス(7525) 今期は自社製品販売増で売上高、営業利益とも過去最高を計画。連続増配",
+        "source": "QUICK Money World",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MR3dQNU1oRU5tSGxqQnNJTHVvYVRzU3hXZ2E0b1p5OFZKazZRSjUycmRvaXlZbHJHdE9fMS1fYmlJOGNOOHNURm5Haks4RkRjRzVqN05R?oc=5",
+        "publishedAt": "2026-07-02T06:15:00.000Z"
+      },
+      {
         "time": "12:00",
         "title": "第38回 ものづくりワールド東京「スマートメンテナンス展」に出展XGRIDS新製品「Lixel K2」と3DGSを活用した設備保全DXソリューションを展示",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQcUJrWm1fS0dYVXcyNENIVy10Y2pnb18yMHRKN0hRM0QzeDQyYUhXelZSNUUtMWpnQ29kVlN4YzVyLW14RmJDV0M0aUtOYjdKT0llWlk1S0JiZnlSV0lNZWZOZTF5OGxBSUE?oc=5",
         "publishedAt": "2026-07-02T03:00:02.000Z"
-      },
-      {
-        "time": "05:06",
-        "title": "企業価値 新時代（4）エレファントジャパン 設備メンテナンス・清掃",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fR3MtY0M1dndzbDBTWmFRQkdGRXd0WmJPVmNhcnBfYlNxUFpUZHBwY3BPVEwwTS02NTJydkViNXQtU2ZyRmY5OEVKaTRla05hMzR1SE9mMnZvb0U?oc=5",
-        "publishedAt": "2026-07-01T20:06:13.000Z"
       },
       {
         "time": "07:10",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-07-01T22:10:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "伸栄商会が東京技販を買収 提案型営業強化へ",
-        "source": "北日本新聞webunプラス",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9velM5WkdQd2tqeWNWZEYtYXhxUWsyd05fWVpwRzFiVm5DNXRTaTRQYXZyRjFQWURjV1dnSUZJUmdYSndGQXVuZjlmNA?oc=5",
-        "publishedAt": "2026-07-01T20:00:00.000Z"
-      },
-      {
         "time": "07:59",
         "title": "東邦ガス、ガスエネルギー館改装 再生エネ楽しく学ぶ",
         "source": "日刊工業新聞",
@@ -45,34 +45,27 @@
         "publishedAt": "2026-07-01T22:59:04.000Z"
       },
       {
+        "time": "05:00",
+        "title": "伸栄商会が東京技販を買収 提案型営業強化へ",
+        "source": "北日本新聞webunプラス",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9velM5WkdQd2tqeWNWZEYtYXhxUWsyd05fWVpwRzFiVm5DNXRTaTRQYXZyRjFQWURjV1dnSUZJUmdYSndGQXVuZjlmNA?oc=5",
+        "publishedAt": "2026-07-01T20:00:00.000Z"
+      },
+      {
         "time": "06:30",
         "title": "工場管理システム「MENTENA」7月15日～17日開催の「メンテナンス・レジリエンス 2026」「第12回 猛暑対策展」に出展します",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93VUlGVjZPVTZpOU5wVlJoVmEzVmlVZDBiN1MtN2wxalBtZV9DbGxtdm02MGlnQ2lLZG1PajB2QjVzMWJmNnhSd19fMW5fcWZuY1lCNA?oc=5",
         "publishedAt": "2026-07-01T21:30:24.000Z"
-      },
-      {
-        "time": "02:04",
-        "title": "工作機械の故障、AIで早期検知 DMG森精機と産総研、28年にも中小へ提供",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3pzN2Y2Uno1TWRVS0pkRXNlMDBJQThUOWMyNVY1NGRobll2TW5CMVFOZHB6UlpXVmxSTmN1djJCTlNJTllidGI3eFU5TG1lakVna1lRSjl4YVowVjZHVVREVnpTX0pTRDRCZkpPR09xNmdRdldVZUloWVNzenhfWkEwNktlR1l0Q2hDYml0cy15c00zQVhTdUlPRHNhVEM2R0NtMjVuWWk?oc=5",
-        "publishedAt": "2026-07-01T17:04:04.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "16:38",
-        "title": "ウ首都に大規模攻撃 10人死亡",
+        "time": "18:16",
+        "title": "ウ首都に大規模攻撃 13人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586476?source=rss",
-        "publishedAt": "2026-07-02T07:38:22.000Z"
-      },
-      {
-        "time": "09:30",
-        "title": "米イラン間接協議 前進見‌られず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586424?source=rss",
-        "publishedAt": "2026-07-02T00:30:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586493?source=rss",
+        "publishedAt": "2026-07-02T09:16:19.000Z"
       },
       {
         "time": "09:54",
@@ -101,9 +94,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586437?source=rss",
         "publishedAt": "2026-07-02T02:30:32.000Z"
+      },
+      {
+        "time": "22:35",
+        "title": "スペイン 熱波で1000人以上死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586395?source=rss",
+        "publishedAt": "2026-07-01T13:35:47.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "17:51",
+        "title": "電通総研の株式非公開化を検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586487?source=rss",
+        "publishedAt": "2026-07-02T08:51:04.000Z"
+      },
       {
         "time": "15:29",
         "title": "大手夏のボーナス 初の100万円超",
@@ -133,13 +140,6 @@
         "publishedAt": "2026-07-02T07:48:35.000Z"
       },
       {
-        "time": "18:03",
-        "title": "出川哲朗の兄の海苔問屋 高騰嘆く",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586372?source=rss",
-        "publishedAt": "2026-07-01T09:03:58.000Z"
-      },
-      {
         "time": "13:46",
         "title": "苦境に立つ自販機ビジネス 背景は",
         "source": "Yahoo!ニュース",
@@ -156,18 +156,25 @@
         "publishedAt": "2026-07-02T03:59:06.000Z"
       },
       {
-        "time": "15:39",
-        "title": "アイヌ側の控訴棄却 先住権訴訟で",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586470?source=rss",
-        "publishedAt": "2026-07-02T06:39:24.000Z"
-      },
-      {
         "time": "15:49",
         "title": "タイミー側は争う姿勢 集団訴訟",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586471?source=rss",
         "publishedAt": "2026-07-02T06:49:29.000Z"
+      },
+      {
+        "time": "17:41",
+        "title": "田久保氏の選挙費用巡る請求 棄却",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586485?source=rss",
+        "publishedAt": "2026-07-02T08:41:03.000Z"
+      },
+      {
+        "time": "17:19",
+        "title": "車いす男性 軽トラにはねられ搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586480?source=rss",
+        "publishedAt": "2026-07-02T08:19:09.000Z"
       },
       {
         "time": "11:19",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586467?source=rss",
         "publishedAt": "2026-07-02T06:25:44.000Z"
-      },
-      {
-        "time": "21:36",
-        "title": "行方不明の10歳死亡 校長が陳謝",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586389?source=rss",
-        "publishedAt": "2026-07-01T12:36:22.000Z"
       }
     ],
     "subsidyHeadlines": [
