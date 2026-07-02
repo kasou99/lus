@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T22:28:35.397Z",
+  "updatedAt": "2026-07-02T22:55:50.564Z",
   "items": [
     {
       "time": "22:26",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "小学校火災 ストーブも私物と教員"
     },
     {
-      "time": "23:29",
-      "title": "タイで11歳運転の車暴走 9人死亡",
+      "time": "07:33",
+      "title": "渋谷の危険盛り土 告発状を受理",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586532?source=rss",
-      "publishedAt": "2026-07-02T14:29:30.000Z",
-      "xQuery": "タイで11歳運転の車暴走 9人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6586540?source=rss",
+      "publishedAt": "2026-07-02T22:33:58.000Z",
+      "xQuery": "渋谷の危険盛り土 告発状を受理"
     },
     {
       "time": "06:22",
