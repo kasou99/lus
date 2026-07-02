@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T05:26:05.296Z",
+  "updatedAt": "2026-07-02T06:48:00.701Z",
   "items": [
     {
       "time": "12:37",
@@ -10,22 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "2025年度の税収84兆円超 過去最高"
     },
     {
-      "time": "12:59",
-      "title": "九州で北部中心に大雨 被害相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586453?source=rss",
-      "publishedAt": "2026-07-02T03:59:06.000Z",
-      "xQuery": "九州で北部中心に大雨 被害相次ぐ"
-    },
-    {
-      "time": "12:53",
-      "title": "「内密出産」1年で7人 賛育会病院",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586448?source=rss",
-      "publishedAt": "2026-07-02T03:53:55.000Z",
-      "xQuery": "「内密出産」1年で7人 賛育会病院"
-    },
-    {
       "time": "14:02",
       "title": "現金給付にマイナ活用 政府整備へ",
       "source": "Yahoo!ニュース",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "現金給付にマイナ活用 政府整備へ"
     },
     {
-      "time": "13:46",
-      "title": "苦境に立つ自販機ビジネス 背景は",
+      "time": "15:29",
+      "title": "大手夏のボーナス 初の100万円超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586459?source=rss",
-      "publishedAt": "2026-07-02T04:46:41.000Z",
-      "xQuery": "苦境に立つ自販機ビジネス 背景は"
+      "url": "https://news.yahoo.co.jp/pickup/6586469?source=rss",
+      "publishedAt": "2026-07-02T06:29:07.000Z",
+      "xQuery": "大手夏のボーナス 初の100万円超"
+    },
+    {
+      "time": "14:29",
+      "title": "危険運転に「新基準」捜査の懸念",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586455?source=rss",
+      "publishedAt": "2026-07-02T05:29:38.000Z",
+      "xQuery": "危険運転に「新基準」捜査の懸念"
+    },
+    {
+      "time": "14:29",
+      "title": "異例 スペースX株の空売り急増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586465?source=rss",
+      "publishedAt": "2026-07-02T05:29:53.000Z",
+      "xQuery": "異例 スペースX株の空売り急増"
     }
   ]
 };
