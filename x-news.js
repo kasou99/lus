@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T12:48:23.064Z",
+  "updatedAt": "2026-07-02T13:38:15.580Z",
   "items": [
     {
       "time": "21:09",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "16歳ら逮捕 羽田強盗未遂関与か"
     },
     {
-      "time": "19:12",
-      "title": "2歳虐待死 親が娘を「あほ」呼び",
+      "time": "22:29",
+      "title": "小学校火災 ストーブも私物と教員",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586501?source=rss",
-      "publishedAt": "2026-07-02T10:12:28.000Z",
-      "xQuery": "2歳虐待死 親が娘を「あほ」呼び"
+      "url": "https://news.yahoo.co.jp/pickup/6586526?source=rss",
+      "publishedAt": "2026-07-02T13:29:46.000Z",
+      "xQuery": "小学校火災 ストーブも私物と教員"
     },
     {
-      "time": "19:59",
-      "title": "「つるし上げ」でいじめ重大事態",
+      "time": "22:08",
+      "title": "県職員 生活保護受給者にうそか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586507?source=rss",
-      "publishedAt": "2026-07-02T10:59:46.000Z",
-      "xQuery": "「つるし上げ」でいじめ重大事態"
+      "url": "https://news.yahoo.co.jp/pickup/6586523?source=rss",
+      "publishedAt": "2026-07-02T13:08:18.000Z",
+      "xQuery": "県職員 生活保護受給者にうそか"
     }
   ]
 };

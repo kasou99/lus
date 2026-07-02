@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T12:48:22.415Z",
+  "updatedAt": "2026-07-02T13:38:14.376Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-07-02T10:01:04.000Z"
       },
       {
-        "time": "15:15",
-        "title": "リックス(7525) 今期は自社製品販売増で売上高、営業利益とも過去最高を計画。連続増配",
-        "source": "QUICK Money World",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MR3dQNU1oRU5tSGxqQnNJTHVvYVRzU3hXZ2E0b1p5OFZKazZRSjUycmRvaXlZbHJHdE9fMS1fYmlJOGNOOHNURm5Haks4RkRjRzVqN05R?oc=5",
-        "publishedAt": "2026-07-02T06:15:00.000Z"
-      },
-      {
         "time": "12:00",
         "title": "第38回 ものづくりワールド東京「スマートメンテナンス展」に出展XGRIDS新製品「Lixel K2」と3DGSを活用した設備保全DXソリューションを展示",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQcUJrWm1fS0dYVXcyNENIVy10Y2pnb18yMHRKN0hRM0QzeDQyYUhXelZSNUUtMWpnQ29kVlN4YzVyLW14RmJDV0M0aUtOYjdKT0llWlk1S0JiZnlSV0lNZWZOZTF5OGxBSUE?oc=5",
         "publishedAt": "2026-07-02T03:00:02.000Z"
+      },
+      {
+        "time": "15:15",
+        "title": "リックス(7525) 今期は自社製品販売増で売上高、営業利益とも過去最高を計画。連続増配",
+        "source": "QUICK Money World",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MR3dQNU1oRU5tSGxqQnNJTHVvYVRzU3hXZ2E0b1p5OFZKazZRSjUycmRvaXlZbHJHdE9fMS1fYmlJOGNOOHNURm5Haks4RkRjRzVqN05R?oc=5",
+        "publishedAt": "2026-07-02T06:15:00.000Z"
       },
       {
         "time": "07:10",
@@ -140,20 +140,20 @@
         "publishedAt": "2026-07-02T05:29:53.000Z"
       },
       {
-        "time": "16:48",
-        "title": "KADOKAWA早期退職に154人応募",
+        "time": "22:00",
+        "title": "ブルボン 菓子2万袋を自主回収",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586478?source=rss",
-        "publishedAt": "2026-07-02T07:48:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586521?source=rss",
+        "publishedAt": "2026-07-02T13:00:04.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "12:59",
-        "title": "九州で北部中心に大雨 被害相次ぐ",
+        "time": "22:29",
+        "title": "小学校火災 ストーブも私物と教員",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586453?source=rss",
-        "publishedAt": "2026-07-02T03:59:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586526?source=rss",
+        "publishedAt": "2026-07-02T13:29:46.000Z"
       },
       {
         "time": "21:26",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-07-02T09:58:06.000Z"
       },
       {
+        "time": "22:08",
+        "title": "県職員 生活保護受給者にうそか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586523?source=rss",
+        "publishedAt": "2026-07-02T13:08:18.000Z"
+      },
+      {
         "time": "19:59",
         "title": "「つるし上げ」でいじめ重大事態",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586507?source=rss",
         "publishedAt": "2026-07-02T10:59:46.000Z"
-      },
-      {
-        "time": "19:12",
-        "title": "2歳虐待死 親が娘を「あほ」呼び",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586501?source=rss",
-        "publishedAt": "2026-07-02T10:12:28.000Z"
       }
     ],
     "subsidyHeadlines": [
