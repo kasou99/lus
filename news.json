@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T21:57:44.682Z",
+  "updatedAt": "2026-07-02T22:28:34.267Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-02T18:00:28.000Z"
       },
       {
-        "time": "07:10",
-        "title": "次世代設備保全クラウドの株式会社M2X、株式会社京都プラテックの導入事例を公開",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QMVotVEZwSzVuZFo3SUtXcndDLXM0M1hDSUtncEdBZmpHTGEyNXpJcXBfZE1oeDJfbGpsM0c4MDlwOXVuMzMxcmtBcmR6VEsxZkNkOUNNN0g4Sk5zSFBEVUhYVGcwZ3hRM2U4?oc=5",
-        "publishedAt": "2026-07-01T22:10:00.000Z"
-      },
-      {
         "time": "11:55",
         "title": "多維科技、磁気グリッドセンサーICを発表、従来のPCB実装制限を突破",
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1udVpnbnk3N2laSVRtYVVLOTNUcEQ2dUJYakFhMnFlR0lLT05VQVluOV9NcU15eHgxbTZLNDIyTlVaVzU2WkxlWXd1eUZuaGJ1NElGV2xFUHY4bWV3cmVwS2wxT2ZqS3k3Z19zMDBiRzZ2TWp1?oc=5",
         "publishedAt": "2026-07-02T02:55:00.000Z"
+      },
+      {
+        "time": "11:58",
+        "title": "埼玉大、起業家精神育む 対話・試作可能な新設施設",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hOHFvR3lvbDFzbGhZWnJPYlRZaUtHSk8wSUE3bms5V3FrcUVsVldydlBKcHZyV2NHd3VNNTJzNnFHV3owcWkzSF9NaTRCbWRxa3ZsWFFFZ2JHMWM?oc=5",
+        "publishedAt": "2026-07-02T02:58:21.000Z"
       }
     ],
     "worldHeadlines": [
