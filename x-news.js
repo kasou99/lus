@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T20:33:42.834Z",
+  "updatedAt": "2026-07-02T21:29:49.339Z",
   "items": [
     {
       "time": "22:26",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "タイで11歳運転の車暴走 9人死亡"
     },
     {
-      "time": "22:00",
-      "title": "ブルボン 菓子2万袋を自主回収",
+      "time": "06:22",
+      "title": "村上春樹氏の新刊発売 深夜に行列",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586521?source=rss",
-      "publishedAt": "2026-07-02T13:00:04.000Z",
-      "xQuery": "ブルボン 菓子2万袋を自主回収"
+      "url": "https://news.yahoo.co.jp/pickup/6586536?source=rss",
+      "publishedAt": "2026-07-02T21:22:15.000Z",
+      "xQuery": "村上春樹氏の新刊発売 深夜に行列"
     }
   ]
 };
