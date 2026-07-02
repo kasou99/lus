@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T11:00:12.011Z",
+  "updatedAt": "2026-07-02T11:54:08.807Z",
   "items": [
     {
       "time": "19:13",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日印 経済安保の協力強化で一致"
     },
     {
-      "time": "18:17",
-      "title": "皇室典範改正案 宮内庁がコメント",
+      "time": "18:30",
+      "title": "香港返還から29年 市民は冷めた目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586492?source=rss",
-      "publishedAt": "2026-07-02T09:17:17.000Z",
-      "xQuery": "皇室典範改正案 宮内庁がコメント"
+      "url": "https://news.yahoo.co.jp/pickup/6586496?source=rss",
+      "publishedAt": "2026-07-02T09:30:47.000Z",
+      "xQuery": "香港返還から29年 市民は冷めた目"
     },
     {
-      "time": "19:05",
-      "title": "個人株主 初の延べ9000万人超え",
+      "time": "20:20",
+      "title": "16歳ら4人逮捕 1.9億円襲撃関与か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586499?source=rss",
-      "publishedAt": "2026-07-02T10:05:59.000Z",
-      "xQuery": "個人株主 初の延べ9000万人超え"
-    },
-    {
-      "time": "18:58",
-      "title": "滝つぼで発見の10歳 死因は溺死",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586500?source=rss",
-      "publishedAt": "2026-07-02T09:58:06.000Z",
-      "xQuery": "滝つぼで発見の10歳 死因は溺死"
+      "url": "https://news.yahoo.co.jp/pickup/6586509?source=rss",
+      "publishedAt": "2026-07-02T11:20:28.000Z",
+      "xQuery": "16歳ら4人逮捕 1.9億円襲撃関与か"
     },
     {
       "time": "19:12",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586501?source=rss",
       "publishedAt": "2026-07-02T10:12:28.000Z",
       "xQuery": "2歳虐待死 親が娘を「あほ」呼び"
+    },
+    {
+      "time": "19:59",
+      "title": "「つるし上げ」でいじめ重大事態",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586507?source=rss",
+      "publishedAt": "2026-07-02T10:59:46.000Z",
+      "xQuery": "「つるし上げ」でいじめ重大事態"
     }
   ]
 };
