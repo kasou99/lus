@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T22:55:50.564Z",
+  "updatedAt": "2026-07-02T23:29:23.867Z",
   "items": [
     {
-      "time": "22:26",
-      "title": "8日から各地で「かなりの高温」か",
+      "time": "08:06",
+      "title": "今季は台風多発 約2倍のペース",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586524?source=rss",
-      "publishedAt": "2026-07-02T13:26:13.000Z",
-      "xQuery": "8日から各地で「かなりの高温」か"
+      "url": "https://news.yahoo.co.jp/pickup/6586545?source=rss",
+      "publishedAt": "2026-07-02T23:06:25.000Z",
+      "xQuery": "今季は台風多発 約2倍のペース"
     },
     {
       "time": "06:51",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "NY株が最高値 利上げ観測後退で"
     },
     {
-      "time": "22:29",
-      "title": "小学校火災 ストーブも私物と教員",
+      "time": "08:05",
+      "title": "5歳不明「大雨と台風で捜索困難」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586526?source=rss",
-      "publishedAt": "2026-07-02T13:29:46.000Z",
-      "xQuery": "小学校火災 ストーブも私物と教員"
+      "url": "https://news.yahoo.co.jp/pickup/6586543?source=rss",
+      "publishedAt": "2026-07-02T23:05:34.000Z",
+      "xQuery": "5歳不明「大雨と台風で捜索困難」"
     },
     {
       "time": "07:33",

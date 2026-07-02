@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T22:55:49.780Z",
+  "updatedAt": "2026-07-02T23:29:22.977Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-02T02:55:00.000Z"
       },
       {
-        "time": "11:58",
-        "title": "埼玉大、起業家精神育む 対話・試作可能な新設施設",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hOHFvR3lvbDFzbGhZWnJPYlRZaUtHSk8wSUE3bms5V3FrcUVsVldydlBKcHZyV2NHd3VNNTJzNnFHV3owcWkzSF9NaTRCbWRxa3ZsWFFFZ2JHMWM?oc=5",
-        "publishedAt": "2026-07-02T02:58:21.000Z"
+        "time": "11:00",
+        "title": "カミナシ、「メンテナンス・レジリエンス 2026」に出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ycWVoLTJwc2dydXdid0p2d2c5Qkp1d0dYWFp5RmMyRDEtQWFERExCUnY2dk9zZHo2THlzWG82V3pHaHFiRDJhdUlrVjhLcFFoSFZuOHptaGNyb2RmUld6bTNfUzk2S19uZlE?oc=5",
+        "publishedAt": "2026-07-02T02:00:03.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,6 +112,13 @@
         "publishedAt": "2026-07-02T21:51:36.000Z"
       },
       {
+        "time": "08:24",
+        "title": "テスラ世界納車25%増 第2四半期",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586546?source=rss",
+        "publishedAt": "2026-07-02T23:24:26.000Z"
+      },
+      {
         "time": "15:29",
         "title": "大手夏のボーナス 初の100万円超",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586478?source=rss",
         "publishedAt": "2026-07-02T07:48:35.000Z"
-      },
-      {
-        "time": "14:29",
-        "title": "異例 スペースX株の空売り急増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586465?source=rss",
-        "publishedAt": "2026-07-02T05:29:53.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586526?source=rss",
         "publishedAt": "2026-07-02T13:29:46.000Z"
+      },
+      {
+        "time": "08:05",
+        "title": "5歳不明「大雨と台風で捜索困難」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586543?source=rss",
+        "publishedAt": "2026-07-02T23:05:34.000Z"
       },
       {
         "time": "21:26",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586540?source=rss",
         "publishedAt": "2026-07-02T22:33:58.000Z"
-      },
-      {
-        "time": "22:08",
-        "title": "県職員 生活保護受給者にうそか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586523?source=rss",
-        "publishedAt": "2026-07-02T13:08:18.000Z"
       }
     ],
     "subsidyHeadlines": [
