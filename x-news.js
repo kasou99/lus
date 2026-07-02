@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-01T23:35:40.726Z",
+  "updatedAt": "2026-07-02T01:09:56.663Z",
   "items": [
     {
       "time": "08:27",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "九州から関東 午前は激しい雨警戒"
     },
     {
-      "time": "07:23",
-      "title": "インド事業創出の投資 2兆円規模",
+      "time": "08:40",
+      "title": "中部電力データ不正 発覚後も継続",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586408?source=rss",
-      "publishedAt": "2026-07-01T22:23:16.000Z",
-      "xQuery": "インド事業創出の投資 2兆円規模"
+      "url": "https://news.yahoo.co.jp/pickup/6586418?source=rss",
+      "publishedAt": "2026-07-01T23:40:00.000Z",
+      "xQuery": "中部電力データ不正 発覚後も継続"
     },
     {
-      "time": "07:34",
-      "title": "ベネズエラ地震1週間 死者2千人超",
+      "time": "08:55",
+      "title": "玉木氏「自民と信頼関係に疑義」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586410?source=rss",
-      "publishedAt": "2026-07-01T22:34:25.000Z",
-      "xQuery": "ベネズエラ地震1週間 死者2千人超"
+      "url": "https://news.yahoo.co.jp/pickup/6586420?source=rss",
+      "publishedAt": "2026-07-01T23:55:51.000Z",
+      "xQuery": "玉木氏「自民と信頼関係に疑義」"
     },
     {
-      "time": "07:52",
-      "title": "PS新作のディスク版終了へ 背景",
+      "time": "09:39",
+      "title": "超巨大地震巡る謎 東大チーム解明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586411?source=rss",
-      "publishedAt": "2026-07-01T22:52:24.000Z",
-      "xQuery": "PS新作のディスク版終了へ 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6586426?source=rss",
+      "publishedAt": "2026-07-02T00:39:04.000Z",
+      "xQuery": "超巨大地震巡る謎 東大チーム解明"
     },
     {
-      "time": "07:22",
-      "title": "メキシコ16強祝賀で混乱 死者も",
+      "time": "09:10",
+      "title": "50～70代未婚「孤独」が9割 調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586409?source=rss",
-      "publishedAt": "2026-07-01T22:22:53.000Z",
-      "xQuery": "メキシコ16強祝賀で混乱 死者も"
+      "url": "https://news.yahoo.co.jp/pickup/6586422?source=rss",
+      "publishedAt": "2026-07-02T00:10:31.000Z",
+      "xQuery": "50～70代未婚「孤独」が9割 調査"
     }
   ]
 };

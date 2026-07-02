@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-01T23:35:39.944Z",
+  "updatedAt": "2026-07-02T01:09:55.778Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:59",
+        "title": "経営ひと言／日本工作機械販売協会・高田研至会長「生産革新が課題」",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fRWFpMDNvN2w5NlZubEkzWXdHYUVyTWx2ZEx4NlY0M3BhNFM4ZXdPVk1zSjM5OXFrUEQ1OGV2RjZBYWNYcmZLdXNwSHhrNDRobWRoR29fdzhVcXN6T0lPQ1lLZzdpcWlkNlNCNUJhODcyaWxxSFJOOTQwdw?oc=5",
+        "publishedAt": "2026-07-01T22:59:02.000Z"
+      },
       {
         "time": "02:04",
         "title": "工作機械の故障、AIで早期検知 DMG森精機と産総研、28年にも中小へ提供",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3pzN2Y2Uno1TWRVS0pkRXNlMDBJQThUOWMyNVY1NGRobll2TW5CMVFOZHB6UlpXVmxSTmN1djJCTlNJTllidGI3eFU5TG1lakVna1lRSjl4YVowVjZHVVREVnpTX0pTRDRCZkpPR09xNmdRdldVZUloWVNzenhfWkEwNktlR1l0Q2hDYml0cy15c00zQVhTdUlPRHNhVEM2R0NtMjVuWWk?oc=5",
         "publishedAt": "2026-07-01T17:04:04.000Z"
-      },
-      {
-        "time": "05:06",
-        "title": "企業価値 新時代（4）エレファントジャパン 設備メンテナンス・清掃",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fR3MtY0M1dndzbDBTWmFRQkdGRXd0WmJPVmNhcnBfYlNxUFpUZHBwY3BPVEwwTS02NTJydkViNXQtU2ZyRmY5OEVKaTRla05hMzR1SE9mMnZvb0U?oc=5",
-        "publishedAt": "2026-07-01T20:06:13.000Z"
       },
       {
         "time": "05:00",
@@ -24,18 +24,18 @@
         "publishedAt": "2026-07-01T20:00:00.000Z"
       },
       {
+        "time": "05:06",
+        "title": "企業価値 新時代（4）エレファントジャパン 設備メンテナンス・清掃",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fR3MtY0M1dndzbDBTWmFRQkdGRXd0WmJPVmNhcnBfYlNxUFpUZHBwY3BPVEwwTS02NTJydkViNXQtU2ZyRmY5OEVKaTRla05hMzR1SE9mMnZvb0U?oc=5",
+        "publishedAt": "2026-07-01T20:06:13.000Z"
+      },
+      {
         "time": "12:27",
         "title": "マシニングセンタ市場で世界トップ40企業",
         "source": "Spherical Insights",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPU1AtcGFmeUZ6RFhCU09iUXFQYjF6Mm5Qa3BoQkVTLXdnUmhTMGcwZ2pLaVNjMnpIUGE3VlFSa01VTkQ4QU40UklwR2lETFF1Qnc2UTJaRGtXdlppZWtHUGtra2d3V1lXUG93X0xHSUV6Q0NidU9jQzJRTEVOb3lsZFZpOC1oR2VSSXQtbHlfQm50dnJfc3BIUUlNY0FlMTVycDBrTFpNOXVHNHRwdkFKQUdVOF9ZWjE3aXNfcmlOdnZpNVhvWHllNU5INm1FNzNXeVI2TlhYRFZjeFhxdkdHNHpKRXRfVTBJYVk1YTRCWU5xX01v?oc=5",
         "publishedAt": "2026-07-01T03:27:19.000Z"
-      },
-      {
-        "time": "09:00",
-        "title": "次世代設備保全クラウドの株式会社M2X、株式会社京都プラテックの導入事例を公開",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lNjBnVzVvcjZBWE1RNkNjV25YZUlMUnJqbXhXUHRnV0JmNGNzTEh5eFdWUzd0SkU4aG5MQmVKWjMxc3VLeGRIYW1XT1RVQmpoMGl2R05ZVkd0ejgwcWRua0hjSWU1NDJMT0E?oc=5",
-        "publishedAt": "2026-07-01T00:00:02.000Z"
       },
       {
         "time": "11:30",
@@ -45,11 +45,11 @@
         "publishedAt": "2026-07-01T02:30:00.000Z"
       },
       {
-        "time": "14:10",
-        "title": "分析ツールは、世にあふれている。足りないのは、いつも\"土台\"のほう。--設備保全クラウド「ミロクルカルテ」",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUDgyS3hJVloydThIYW95M1NGVk5uQnNFWUJRVTd1UFFqQ19paEQzQTlteGdoZUN5MnlVYUtTYmFVYmhaZnAwbV9xZHVjS3FSUzlhVkprWDRDbUM4UDZGUXNFNTlsNE11aVdRVjdkdWpPQUE0UnV5MlpzZE5HMnc3RUdqa1FvTWxYd2JaQmtR?oc=5",
-        "publishedAt": "2026-07-01T05:10:00.000Z"
+        "time": "10:46",
+        "title": "次世代設備保全クラウドの株式会社M2X、株式会社京都プラテックの導入事例を公開",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QMVotVEZwSzVuZFo3SUtXcndDLXM0M1hDSUtncEdBZmpHTGEyNXpJcXBfZE1oeDJfbGpsM0c4MDlwOXVuMzMxcmtBcmR6VEsxZkNkOUNNN0g4Sk5zSFBEVUhYVGcwZ3hRM2U4?oc=5",
+        "publishedAt": "2026-07-01T01:46:00.000Z"
       },
       {
         "time": "17:00",
@@ -60,6 +60,20 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "09:30",
+        "title": "米イラン間接協議 前進見‌られず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586424?source=rss",
+        "publishedAt": "2026-07-02T00:30:37.000Z"
+      },
+      {
+        "time": "09:54",
+        "title": "露ウ両軍の死傷者 最大200万人か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586427?source=rss",
+        "publishedAt": "2026-07-02T00:54:30.000Z"
+      },
       {
         "time": "07:34",
         "title": "ベネズエラ地震1週間 死者2千人超",
@@ -82,25 +96,11 @@
         "publishedAt": "2026-07-01T07:56:20.000Z"
       },
       {
-        "time": "07:39",
-        "title": "出生地主義制限の米大統領令 違憲",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586293?source=rss",
-        "publishedAt": "2026-06-30T22:39:43.000Z"
-      },
-      {
         "time": "16:33",
         "title": "米大統領 暗号資産巡り巨額の収入",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586356?source=rss",
         "publishedAt": "2026-07-01T07:33:23.000Z"
-      },
-      {
-        "time": "22:35",
-        "title": "スペイン 熱波で1000人以上死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586395?source=rss",
-        "publishedAt": "2026-07-01T13:35:47.000Z"
       }
     ],
     "economyHeadlines": [
