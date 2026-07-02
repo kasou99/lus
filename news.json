@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T21:29:48.594Z",
+  "updatedAt": "2026-07-02T21:57:44.682Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-07-02T06:15:00.000Z"
       },
       {
-        "time": "07:10",
-        "title": "次世代設備保全クラウドの株式会社M2X、株式会社京都プラテックの導入事例を公開",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QMVotVEZwSzVuZFo3SUtXcndDLXM0M1hDSUtncEdBZmpHTGEyNXpJcXBfZE1oeDJfbGpsM0c4MDlwOXVuMzMxcmtBcmR6VEsxZkNkOUNNN0g4Sk5zSFBEVUhYVGcwZ3hRM2U4?oc=5",
-        "publishedAt": "2026-07-01T22:10:00.000Z"
-      },
-      {
         "time": "03:00",
         "title": "第38回 ものづくりワールド東京「スマートメンテナンス展」に出展XGRIDS新製品「Lixel",
         "source": "ニコニコニュース",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-07-02T18:00:28.000Z"
       },
       {
-        "time": "11:58",
-        "title": "埼玉大、起業家精神育む 対話・試作可能な新設施設",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hOHFvR3lvbDFzbGhZWnJPYlRZaUtHSk8wSUE3bms5V3FrcUVsVldydlBKcHZyV2NHd3VNNTJzNnFHV3owcWkzSF9NaTRCbWRxa3ZsWFFFZ2JHMWM?oc=5",
-        "publishedAt": "2026-07-02T02:58:21.000Z"
+        "time": "07:10",
+        "title": "次世代設備保全クラウドの株式会社M2X、株式会社京都プラテックの導入事例を公開",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QMVotVEZwSzVuZFo3SUtXcndDLXM0M1hDSUtncEdBZmpHTGEyNXpJcXBfZE1oeDJfbGpsM0c4MDlwOXVuMzMxcmtBcmR6VEsxZkNkOUNNN0g4Sk5zSFBEVUhYVGcwZ3hRM2U4?oc=5",
+        "publishedAt": "2026-07-01T22:10:00.000Z"
+      },
+      {
+        "time": "11:55",
+        "title": "多維科技、磁気グリッドセンサーICを発表、従来のPCB実装制限を突破",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1udVpnbnk3N2laSVRtYVVLOTNUcEQ2dUJYakFhMnFlR0lLT05VQVluOV9NcU15eHgxbTZLNDIyTlVaVzU2WkxlWXd1eUZuaGJ1NElGV2xFUHY4bWV3cmVwS2wxT2ZqS3k3Z19zMDBiRzZ2TWp1?oc=5",
+        "publishedAt": "2026-07-02T02:55:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "17:51",
-        "title": "電通総研の株式非公開化を検討",
+        "time": "06:51",
+        "title": "NY株が最高値 利上げ観測後退で",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586487?source=rss",
-        "publishedAt": "2026-07-02T08:51:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586538?source=rss",
+        "publishedAt": "2026-07-02T21:51:36.000Z"
       },
       {
         "time": "15:29",
@@ -126,13 +126,6 @@
         "publishedAt": "2026-07-02T10:05:59.000Z"
       },
       {
-        "time": "14:29",
-        "title": "異例 スペースX株の空売り急増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586465?source=rss",
-        "publishedAt": "2026-07-02T05:29:53.000Z"
-      },
-      {
         "time": "22:00",
         "title": "ブルボン 菓子2万袋を自主回収",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586478?source=rss",
         "publishedAt": "2026-07-02T07:48:35.000Z"
+      },
+      {
+        "time": "14:29",
+        "title": "異例 スペースX株の空売り急増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586465?source=rss",
+        "publishedAt": "2026-07-02T05:29:53.000Z"
       }
     ],
     "localHeadlines": [

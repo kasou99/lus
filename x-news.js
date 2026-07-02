@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T21:29:49.339Z",
+  "updatedAt": "2026-07-02T21:57:45.613Z",
   "items": [
     {
       "time": "22:26",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "8日から各地で「かなりの高温」か"
     },
     {
-      "time": "23:15",
-      "title": "ハンタ集団感染 WHOが収束宣言",
+      "time": "06:51",
+      "title": "NY株が最高値 利上げ観測後退で",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586531?source=rss",
-      "publishedAt": "2026-07-02T14:15:35.000Z",
-      "xQuery": "ハンタ集団感染 WHOが収束宣言"
+      "url": "https://news.yahoo.co.jp/pickup/6586538?source=rss",
+      "publishedAt": "2026-07-02T21:51:36.000Z",
+      "xQuery": "NY株が最高値 利上げ観測後退で"
     },
     {
       "time": "22:29",
