@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T03:48:31.925Z",
+  "updatedAt": "2026-07-02T05:26:04.498Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-07-02T03:00:00.000Z"
       },
       {
+        "time": "12:00",
+        "title": "第38回 ものづくりワールド東京「スマートメンテナンス展」に出展XGRIDS新製品「Lixel K2」と3DGSを活用した設備保全DXソリューションを展示",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQcUJrWm1fS0dYVXcyNENIVy10Y2pnb18yMHRKN0hRM0QzeDQyYUhXelZSNUUtMWpnQ29kVlN4YzVyLW14RmJDV0M0aUtOYjdKT0llWlk1S0JiZnlSV0lNZWZOZTF5OGxBSUE?oc=5",
+        "publishedAt": "2026-07-02T03:00:02.000Z"
+      },
+      {
         "time": "05:06",
         "title": "企業価値 新時代（4）エレファントジャパン 設備メンテナンス・清掃",
         "source": "日刊工業新聞",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-07-01T07:10:00.000Z"
       },
       {
-        "time": "02:04",
-        "title": "工作機械の故障、AIで早期検知 DMG森精機と産総研、28年にも中小へ提供",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY3pzN2Y2Uno1TWRVS0pkRXNlMDBJQThUOWMyNVY1NGRobll2TW5CMVFOZHB6UlpXVmxSTmN1djJCTlNJTllidGI3eFU5TG1lakVna1lRSjl4YVowVjZHVVREVnpTX0pTRDRCZkpPR09xNmdRdldVZUloWVNzenhfWkEwNktlR1l0Q2hDYml0cy15c00zQVhTdUlPRHNhVEM2R0NtMjVuWWk?oc=5",
-        "publishedAt": "2026-07-01T17:04:04.000Z"
-      },
-      {
-        "time": "14:47",
-        "title": "マシニングセンターの世界産業レポート2026：市場シェア、競争状況、成長率5.9%分析｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KRjZjUUJXamNYbVZ0empTNE5rUHg0OXVkUlFQdUpoRXo1MVhHZGwwbE9iNUJMLVRNMHB2OE1LcDNjYU93d2lQT0M2SWcwemluYkplT2pPTQ?oc=5",
-        "publishedAt": "2026-07-01T05:47:24.000Z"
+        "time": "06:30",
+        "title": "工場管理システム「MENTENA」7月15日～17日開催の「メンテナンス・レジリエンス 2026」「第12回 猛暑対策展」に出展します",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93VUlGVjZPVTZpOU5wVlJoVmEzVmlVZDBiN1MtN2wxalBtZV9DbGxtdm02MGlnQ2lLZG1PajB2QjVzMWJmNnhSd19fMW5fcWZuY1lCNA?oc=5",
+        "publishedAt": "2026-07-01T21:30:24.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-07-01T22:34:25.000Z"
       },
       {
+        "time": "14:09",
+        "title": "中国の海洋進出巡る主張 新段階に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586458?source=rss",
+        "publishedAt": "2026-07-02T05:09:08.000Z"
+      },
+      {
         "time": "16:56",
         "title": "習氏 台湾統一は「歴史的任務」",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586437?source=rss",
         "publishedAt": "2026-07-02T02:30:32.000Z"
-      },
-      {
-        "time": "16:33",
-        "title": "米大統領 暗号資産巡り巨額の収入",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586356?source=rss",
-        "publishedAt": "2026-07-01T07:33:23.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-07-01T07:03:16.000Z"
       },
       {
-        "time": "14:50",
-        "title": "大阪の「毎日放送」社名変更へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586345?source=rss",
-        "publishedAt": "2026-07-01T05:50:52.000Z"
-      },
-      {
         "time": "19:11",
         "title": "スムージー再び半額へ セブン対策",
         "source": "Yahoo!ニュース",
@@ -140,14 +133,28 @@
         "publishedAt": "2026-07-01T09:03:58.000Z"
       },
       {
-        "time": "12:03",
-        "title": "牡蠣キャラグッズ続々 なぜ人気",
+        "time": "13:46",
+        "title": "苦境に立つ自販機ビジネス 背景は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586444?source=rss",
-        "publishedAt": "2026-07-02T03:03:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586459?source=rss",
+        "publishedAt": "2026-07-02T04:46:41.000Z"
+      },
+      {
+        "time": "13:32",
+        "title": "バンダイ カービィ商品の一部回収",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586460?source=rss",
+        "publishedAt": "2026-07-02T04:32:45.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "12:59",
+        "title": "九州で北部中心に大雨 被害相次ぐ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586453?source=rss",
+        "publishedAt": "2026-07-02T03:59:06.000Z"
+      },
       {
         "time": "11:19",
         "title": "工藤会トップが交代 県警が断定",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586389?source=rss",
         "publishedAt": "2026-07-01T12:36:22.000Z"
-      },
-      {
-        "time": "15:53",
-        "title": "不明の10歳 滝で発見も死亡確認",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586349?source=rss",
-        "publishedAt": "2026-07-01T06:53:04.000Z"
       },
       {
         "time": "22:42",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-07-01T12:52:14.000Z"
       },
       {
-        "time": "17:15",
-        "title": "5歳不明 消防は一旦捜索打ち切り",
+        "time": "19:35",
+        "title": "不同意わいせつ疑い 市議書類送検",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586360?source=rss",
-        "publishedAt": "2026-07-01T08:15:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586379?source=rss",
+        "publishedAt": "2026-07-01T10:35:19.000Z"
       }
     ],
     "subsidyHeadlines": [

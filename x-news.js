@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T03:48:32.776Z",
+  "updatedAt": "2026-07-02T05:26:05.296Z",
   "items": [
     {
-      "time": "11:10",
-      "title": "ダブル台風発生へ 今後の動向注意",
+      "time": "12:37",
+      "title": "2025年度の税収84兆円超 過去最高",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586432?source=rss",
-      "publishedAt": "2026-07-02T02:10:05.000Z",
-      "xQuery": "ダブル台風発生へ 今後の動向注意"
+      "url": "https://news.yahoo.co.jp/pickup/6586450?source=rss",
+      "publishedAt": "2026-07-02T03:37:45.000Z",
+      "xQuery": "2025年度の税収84兆円超 過去最高"
     },
     {
-      "time": "12:17",
-      "title": "コカイン使用35万人 厚労省推計",
+      "time": "12:59",
+      "title": "九州で北部中心に大雨 被害相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586445?source=rss",
-      "publishedAt": "2026-07-02T03:17:31.000Z",
-      "xQuery": "コカイン使用35万人 厚労省推計"
+      "url": "https://news.yahoo.co.jp/pickup/6586453?source=rss",
+      "publishedAt": "2026-07-02T03:59:06.000Z",
+      "xQuery": "九州で北部中心に大雨 被害相次ぐ"
     },
     {
-      "time": "09:30",
-      "title": "米イラン間接協議 前進見‌られず",
+      "time": "12:53",
+      "title": "「内密出産」1年で7人 賛育会病院",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586424?source=rss",
-      "publishedAt": "2026-07-02T00:30:37.000Z",
-      "xQuery": "米イラン間接協議 前進見‌られず"
+      "url": "https://news.yahoo.co.jp/pickup/6586448?source=rss",
+      "publishedAt": "2026-07-02T03:53:55.000Z",
+      "xQuery": "「内密出産」1年で7人 賛育会病院"
     },
     {
-      "time": "11:19",
-      "title": "工藤会トップが交代 県警が断定",
+      "time": "14:02",
+      "title": "現金給付にマイナ活用 政府整備へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586434?source=rss",
-      "publishedAt": "2026-07-02T02:19:35.000Z",
-      "xQuery": "工藤会トップが交代 県警が断定"
+      "url": "https://news.yahoo.co.jp/pickup/6586462?source=rss",
+      "publishedAt": "2026-07-02T05:02:51.000Z",
+      "xQuery": "現金給付にマイナ活用 政府整備へ"
     },
     {
-      "time": "11:30",
-      "title": "米「出産旅行」取り締まり強化へ",
+      "time": "13:46",
+      "title": "苦境に立つ自販機ビジネス 背景は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586437?source=rss",
-      "publishedAt": "2026-07-02T02:30:32.000Z",
-      "xQuery": "米「出産旅行」取り締まり強化へ"
+      "url": "https://news.yahoo.co.jp/pickup/6586459?source=rss",
+      "publishedAt": "2026-07-02T04:46:41.000Z",
+      "xQuery": "苦境に立つ自販機ビジネス 背景は"
     }
   ]
 };
