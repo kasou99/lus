@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T01:09:56.663Z",
+  "updatedAt": "2026-07-02T02:24:24.026Z",
   "items": [
     {
-      "time": "08:27",
-      "title": "九州から関東 午前は激しい雨警戒",
+      "time": "11:10",
+      "title": "ダブル台風発生へ 今後の動向注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586415?source=rss",
-      "publishedAt": "2026-07-01T23:27:21.000Z",
-      "xQuery": "九州から関東 午前は激しい雨警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6586432?source=rss",
+      "publishedAt": "2026-07-02T02:10:05.000Z",
+      "xQuery": "ダブル台風発生へ 今後の動向注意"
     },
     {
-      "time": "08:40",
-      "title": "中部電力データ不正 発覚後も継続",
+      "time": "09:30",
+      "title": "米イラン間接協議 前進見‌られず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586418?source=rss",
-      "publishedAt": "2026-07-01T23:40:00.000Z",
-      "xQuery": "中部電力データ不正 発覚後も継続"
+      "url": "https://news.yahoo.co.jp/pickup/6586424?source=rss",
+      "publishedAt": "2026-07-02T00:30:37.000Z",
+      "xQuery": "米イラン間接協議 前進見‌られず"
+    },
+    {
+      "time": "09:54",
+      "title": "露ウ両軍の死傷者 最大200万人か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586427?source=rss",
+      "publishedAt": "2026-07-02T00:54:30.000Z",
+      "xQuery": "露ウ両軍の死傷者 最大200万人か"
     },
     {
       "time": "08:55",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586426?source=rss",
       "publishedAt": "2026-07-02T00:39:04.000Z",
       "xQuery": "超巨大地震巡る謎 東大チーム解明"
-    },
-    {
-      "time": "09:10",
-      "title": "50～70代未婚「孤独」が9割 調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586422?source=rss",
-      "publishedAt": "2026-07-02T00:10:31.000Z",
-      "xQuery": "50～70代未婚「孤独」が9割 調査"
     }
   ]
 };

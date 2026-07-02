@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-07-02T01:09:55.778Z",
+  "updatedAt": "2026-07-02T02:24:23.013Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "07:59",
+        "time": "09:02",
         "title": "経営ひと言／日本工作機械販売協会・高田研至会長「生産革新が課題」",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fRWFpMDNvN2w5NlZubEkzWXdHYUVyTWx2ZEx4NlY0M3BhNFM4ZXdPVk1zSjM5OXFrUEQ1OGV2RjZBYWNYcmZLdXNwSHhrNDRobWRoR29fdzhVcXN6T0lPQ1lLZzdpcWlkNlNCNUJhODcyaWxxSFJOOTQwdw?oc=5",
-        "publishedAt": "2026-07-01T22:59:02.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vbkhUMVplLThPUlZUSzBaSVN0b0pUcHhHZWJBNFphcWpwblZjYWM0T25Zb0tTN1dQRTluMkhhYThwSXc5Rkt2b21tcUp2cXhPbjE0OXVJTHQzNG8?oc=5",
+        "publishedAt": "2026-07-02T00:02:13.000Z"
+      },
+      {
+        "time": "09:57",
+        "title": "設備保全デジタル化のM2X、シリーズA を完了し総額11.4億円を調達",
+        "source": "BRIDGE（ブリッジ）",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFlCa09EWVFkZFFpWTdjYmFBQWtfbEJsaTNsSURVQlVtVnItd053VDFYTnpjR1dPb3FsWWtZUHJBVEpHMmdseHZmRjl0ZE5vT0hMUFU4Y1FwQlNCRXFWWFhfU3VHeWFvQy03WldNNlJLWlVKOG9ydFNUVGVOeEFkZnlLN0Z2V1FLZ2VNbUkxRy1VcnlG?oc=5",
+        "publishedAt": "2026-07-02T00:57:10.000Z"
       },
       {
         "time": "02:04",
@@ -17,6 +24,13 @@
         "publishedAt": "2026-07-01T17:04:04.000Z"
       },
       {
+        "time": "05:06",
+        "title": "企業価値 新時代（4）エレファントジャパン 設備メンテナンス・清掃",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fR3MtY0M1dndzbDBTWmFRQkdGRXd0WmJPVmNhcnBfYlNxUFpUZHBwY3BPVEwwTS02NTJydkViNXQtU2ZyRmY5OEVKaTRla05hMzR1SE9mMnZvb0U?oc=5",
+        "publishedAt": "2026-07-01T20:06:13.000Z"
+      },
+      {
         "time": "05:00",
         "title": "伸栄商会が東京技販を買収 提案型営業強化へ",
         "source": "北日本新聞webunプラス",
@@ -24,11 +38,11 @@
         "publishedAt": "2026-07-01T20:00:00.000Z"
       },
       {
-        "time": "05:06",
-        "title": "企業価値 新時代（4）エレファントジャパン 設備メンテナンス・清掃",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fR3MtY0M1dndzbDBTWmFRQkdGRXd0WmJPVmNhcnBfYlNxUFpUZHBwY3BPVEwwTS02NTJydkViNXQtU2ZyRmY5OEVKaTRla05hMzR1SE9mMnZvb0U?oc=5",
-        "publishedAt": "2026-07-01T20:06:13.000Z"
+        "time": "16:10",
+        "title": "分析ツールは、世にあふれている。足りないのは、いつも\"土台\"のほう。--設備保全クラウド「ミロクルカルテ」",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JRGhjMEFOZTN0UjM2dThGZnBHUWY1YmJBYnhnbi1reFFYWjdDRHFjWnBqYV9oT0s5bTRzMmpYVTBjVW1KUmY1R3Fma2JsQW9OV2c?oc=5",
+        "publishedAt": "2026-07-01T07:10:00.000Z"
       },
       {
         "time": "12:27",
@@ -43,20 +57,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MamYtdkhGcmFwY3FpR0NEUE5GU1JxejY5X0lMcHhZLWJYNFRkZXlZLUN3Y1l4cnBGa2daQlFJakd2eURIVGVPSHlqOGp1anc?oc=5",
         "publishedAt": "2026-07-01T02:30:00.000Z"
-      },
-      {
-        "time": "10:46",
-        "title": "次世代設備保全クラウドの株式会社M2X、株式会社京都プラテックの導入事例を公開",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QMVotVEZwSzVuZFo3SUtXcndDLXM0M1hDSUtncEdBZmpHTGEyNXpJcXBfZE1oeDJfbGpsM0c4MDlwOXVuMzMxcmtBcmR6VEsxZkNkOUNNN0g4Sk5zSFBEVUhYVGcwZ3hRM2U4?oc=5",
-        "publishedAt": "2026-07-01T01:46:00.000Z"
-      },
-      {
-        "time": "17:00",
-        "title": "DMG森精機と産総研、工作機械の故障検知にAI 100社から製造データ",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qMklvOGdiTmZSTl9vQ285UGdiSlIwV1F2RjVqMjJ3RFFYZVRwc0V1ZnpmMUd0R0Znd3k5R2xZVnV6Uks4YzBIUU5VdWNheEVYNElkSXA1aGdkaG9nNnAzdFE0NmVBVm1PNnhGUw?oc=5",
-        "publishedAt": "2026-07-01T08:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "11:19",
+        "title": "工藤会トップが交代 県警が断定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586434?source=rss",
+        "publishedAt": "2026-07-02T02:19:35.000Z"
+      },
+      {
         "time": "21:36",
         "title": "行方不明の10歳死亡 校長が陳謝",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586360?source=rss",
         "publishedAt": "2026-07-01T08:15:35.000Z"
-      },
-      {
-        "time": "19:35",
-        "title": "不同意わいせつ疑い 市議書類送検",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586379?source=rss",
-        "publishedAt": "2026-07-01T10:35:19.000Z"
       }
     ],
     "subsidyHeadlines": [
