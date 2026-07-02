@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T23:29:23.867Z",
+  "updatedAt": "2026-07-02T23:56:39.662Z",
   "items": [
     {
       "time": "08:06",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "渋谷の危険盛り土 告発状を受理"
     },
     {
-      "time": "06:22",
-      "title": "村上春樹氏の新刊発売 深夜に行列",
+      "time": "08:10",
+      "title": "米の人工池損壊 元五輪選手を起訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586536?source=rss",
-      "publishedAt": "2026-07-02T21:22:15.000Z",
-      "xQuery": "村上春樹氏の新刊発売 深夜に行列"
+      "url": "https://news.yahoo.co.jp/pickup/6586544?source=rss",
+      "publishedAt": "2026-07-02T23:10:53.000Z",
+      "xQuery": "米の人工池損壊 元五輪選手を起訴"
     }
   ]
 };
