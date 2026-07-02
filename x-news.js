@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T06:48:00.701Z",
+  "updatedAt": "2026-07-02T08:07:30.825Z",
   "items": [
     {
-      "time": "12:37",
-      "title": "2025年度の税収84兆円超 過去最高",
+      "time": "16:40",
+      "title": "台風9号発生 来週末に沖縄影響か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586450?source=rss",
-      "publishedAt": "2026-07-02T03:37:45.000Z",
-      "xQuery": "2025年度の税収84兆円超 過去最高"
+      "url": "https://news.yahoo.co.jp/pickup/6586477?source=rss",
+      "publishedAt": "2026-07-02T07:40:17.000Z",
+      "xQuery": "台風9号発生 来週末に沖縄影響か"
     },
     {
-      "time": "14:02",
-      "title": "現金給付にマイナ活用 政府整備へ",
+      "time": "16:12",
+      "title": "養子案制度設計巡り論戦へ 焦点は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586462?source=rss",
-      "publishedAt": "2026-07-02T05:02:51.000Z",
-      "xQuery": "現金給付にマイナ活用 政府整備へ"
+      "url": "https://news.yahoo.co.jp/pickup/6586474?source=rss",
+      "publishedAt": "2026-07-02T07:12:01.000Z",
+      "xQuery": "養子案制度設計巡り論戦へ 焦点は"
+    },
+    {
+      "time": "16:30",
+      "title": "梅雨明け予想 関東甲信は7/20頃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586475?source=rss",
+      "publishedAt": "2026-07-02T07:30:03.000Z",
+      "xQuery": "梅雨明け予想 関東甲信は7/20頃"
     },
     {
       "time": "15:29",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大手夏のボーナス 初の100万円超"
     },
     {
-      "time": "14:29",
-      "title": "危険運転に「新基準」捜査の懸念",
+      "time": "15:39",
+      "title": "アイヌ側の控訴棄却 先住権訴訟で",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586455?source=rss",
-      "publishedAt": "2026-07-02T05:29:38.000Z",
-      "xQuery": "危険運転に「新基準」捜査の懸念"
-    },
-    {
-      "time": "14:29",
-      "title": "異例 スペースX株の空売り急増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586465?source=rss",
-      "publishedAt": "2026-07-02T05:29:53.000Z",
-      "xQuery": "異例 スペースX株の空売り急増"
+      "url": "https://news.yahoo.co.jp/pickup/6586470?source=rss",
+      "publishedAt": "2026-07-02T06:39:24.000Z",
+      "xQuery": "アイヌ側の控訴棄却 先住権訴訟で"
     }
   ]
 };
