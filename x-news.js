@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T09:38:25.719Z",
+  "updatedAt": "2026-07-02T11:00:12.011Z",
   "items": [
     {
-      "time": "17:51",
-      "title": "電通総研の株式非公開化を検討",
+      "time": "19:13",
+      "title": "日印 経済安保の協力強化で一致",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586487?source=rss",
-      "publishedAt": "2026-07-02T08:51:04.000Z",
-      "xQuery": "電通総研の株式非公開化を検討"
+      "url": "https://news.yahoo.co.jp/pickup/6586502?source=rss",
+      "publishedAt": "2026-07-02T10:13:42.000Z",
+      "xQuery": "日印 経済安保の協力強化で一致"
     },
     {
-      "time": "18:16",
-      "title": "ウ首都に大規模攻撃 13人死亡",
+      "time": "18:17",
+      "title": "皇室典範改正案 宮内庁がコメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586493?source=rss",
-      "publishedAt": "2026-07-02T09:16:19.000Z",
-      "xQuery": "ウ首都に大規模攻撃 13人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6586492?source=rss",
+      "publishedAt": "2026-07-02T09:17:17.000Z",
+      "xQuery": "皇室典範改正案 宮内庁がコメント"
     },
     {
-      "time": "15:29",
-      "title": "大手夏のボーナス 初の100万円超",
+      "time": "19:05",
+      "title": "個人株主 初の延べ9000万人超え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586469?source=rss",
-      "publishedAt": "2026-07-02T06:29:07.000Z",
-      "xQuery": "大手夏のボーナス 初の100万円超"
+      "url": "https://news.yahoo.co.jp/pickup/6586499?source=rss",
+      "publishedAt": "2026-07-02T10:05:59.000Z",
+      "xQuery": "個人株主 初の延べ9000万人超え"
     },
     {
-      "time": "18:18",
-      "title": "制裁金巡りGoogle敗訴 EU司法裁",
+      "time": "18:58",
+      "title": "滝つぼで発見の10歳 死因は溺死",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586491?source=rss",
-      "publishedAt": "2026-07-02T09:18:15.000Z",
-      "xQuery": "制裁金巡りGoogle敗訴 EU司法裁"
+      "url": "https://news.yahoo.co.jp/pickup/6586500?source=rss",
+      "publishedAt": "2026-07-02T09:58:06.000Z",
+      "xQuery": "滝つぼで発見の10歳 死因は溺死"
     },
     {
-      "time": "15:49",
-      "title": "タイミー側は争う姿勢 集団訴訟",
+      "time": "19:12",
+      "title": "2歳虐待死 親が娘を「あほ」呼び",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586471?source=rss",
-      "publishedAt": "2026-07-02T06:49:29.000Z",
-      "xQuery": "タイミー側は争う姿勢 集団訴訟"
+      "url": "https://news.yahoo.co.jp/pickup/6586501?source=rss",
+      "publishedAt": "2026-07-02T10:12:28.000Z",
+      "xQuery": "2歳虐待死 親が娘を「あほ」呼び"
     }
   ]
 };
