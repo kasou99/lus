@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T01:42:08.614Z",
+  "updatedAt": "2026-07-03T03:13:49.251Z",
   "items": [
-    {
-      "time": "10:00",
-      "title": "国際卓越大に京大認定へ 3校目",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586556?source=rss",
-      "publishedAt": "2026-07-03T01:00:20.000Z",
-      "xQuery": "国際卓越大に京大認定へ 3校目"
-    },
-    {
-      "time": "09:32",
-      "title": "熱海土石流5年 盛り土責任の所在",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586553?source=rss",
-      "publishedAt": "2026-07-03T00:32:27.000Z",
-      "xQuery": "熱海土石流5年 盛り土責任の所在"
-    },
     {
       "time": "08:44",
       "title": "日印「蜜月」演出 対中国は温度差",
@@ -26,20 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "日印「蜜月」演出 対中国は温度差"
     },
     {
-      "time": "09:45",
-      "title": "丸亀製麺 好調の理由に商品開発力",
+      "time": "11:23",
+      "title": "厚労相の事務所数 公選法違反疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586549?source=rss",
-      "publishedAt": "2026-07-03T00:45:54.000Z",
-      "xQuery": "丸亀製麺 好調の理由に商品開発力"
+      "url": "https://news.yahoo.co.jp/pickup/6586562?source=rss",
+      "publishedAt": "2026-07-03T02:23:44.000Z",
+      "xQuery": "厚労相の事務所数 公選法違反疑い"
     },
     {
-      "time": "09:23",
-      "title": "ジャングリアの駐車場 県民無料に",
+      "time": "10:58",
+      "title": "円の「買う力」40年で半分程度に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586551?source=rss",
-      "publishedAt": "2026-07-03T00:23:19.000Z",
-      "xQuery": "ジャングリアの駐車場 県民無料に"
+      "url": "https://news.yahoo.co.jp/pickup/6586561?source=rss",
+      "publishedAt": "2026-07-03T01:58:32.000Z",
+      "xQuery": "円の「買う力」40年で半分程度に"
+    },
+    {
+      "time": "11:43",
+      "title": "手配犯逮捕 似た人いる…の重要性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586564?source=rss",
+      "publishedAt": "2026-07-03T02:43:46.000Z",
+      "xQuery": "手配犯逮捕 似た人いる…の重要性"
+    },
+    {
+      "time": "12:00",
+      "title": "セブンイレブンがナイキ提訴 米",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586565?source=rss",
+      "publishedAt": "2026-07-03T03:00:07.000Z",
+      "xQuery": "セブンイレブンがナイキ提訴 米"
     }
   ]
 };
