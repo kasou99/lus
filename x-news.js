@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T04:48:11.902Z",
+  "updatedAt": "2026-07-03T06:16:19.094Z",
   "items": [
     {
       "time": "12:20",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "半年ぶりの休養 ウ東部で兵士交代"
     },
     {
-      "time": "10:58",
-      "title": "円の「買う力」40年で半分程度に",
+      "time": "13:39",
+      "title": "米NYで42℃観測 当局が猛暑警報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586561?source=rss",
-      "publishedAt": "2026-07-03T01:58:32.000Z",
-      "xQuery": "円の「買う力」40年で半分程度に"
+      "url": "https://news.yahoo.co.jp/pickup/6586577?source=rss",
+      "publishedAt": "2026-07-03T04:39:10.000Z",
+      "xQuery": "米NYで42℃観測 当局が猛暑警報"
     },
     {
       "time": "12:34",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "永住許可手数料 1万円→20万円に"
     },
     {
-      "time": "12:48",
-      "title": "似た人いる 手配犯逮捕きっかけに",
+      "time": "14:04",
+      "title": "テスラ 米で6人乗りモデルYL発売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586575?source=rss",
-      "publishedAt": "2026-07-03T03:48:37.000Z",
-      "xQuery": "似た人いる 手配犯逮捕きっかけに"
+      "url": "https://news.yahoo.co.jp/pickup/6586580?source=rss",
+      "publishedAt": "2026-07-03T05:04:01.000Z",
+      "xQuery": "テスラ 米で6人乗りモデルYL発売"
     },
     {
-      "time": "12:00",
-      "title": "セブンイレブンがナイキ提訴 米",
+      "time": "14:07",
+      "title": "パルコが夏セール中止 背景は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586565?source=rss",
-      "publishedAt": "2026-07-03T03:00:07.000Z",
-      "xQuery": "セブンイレブンがナイキ提訴 米"
+      "url": "https://news.yahoo.co.jp/pickup/6586581?source=rss",
+      "publishedAt": "2026-07-03T05:07:23.000Z",
+      "xQuery": "パルコが夏セール中止 背景は"
     }
   ]
 };
