@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T15:17:12.885Z",
+  "updatedAt": "2026-07-03T16:05:15.432Z",
   "items": [
     {
       "time": "21:05",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "故ハメネイ師のひつぎ公開 イラン"
     },
     {
-      "time": "22:12",
-      "title": "サバ入り箱崩れ下敷き 作業員死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586629?source=rss",
-      "publishedAt": "2026-07-03T13:12:35.000Z",
-      "xQuery": "サバ入り箱崩れ下敷き 作業員死亡"
-    },
-    {
       "time": "23:30",
       "title": "ロシア 日本から燃料の輸入画策か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6586639?source=rss",
       "publishedAt": "2026-07-03T14:30:11.000Z",
       "xQuery": "ロシア 日本から燃料の輸入画策か"
+    },
+    {
+      "time": "22:12",
+      "title": "サバ入り箱崩れ下敷き 作業員死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586629?source=rss",
+      "publishedAt": "2026-07-03T13:12:35.000Z",
+      "xQuery": "サバ入り箱崩れ下敷き 作業員死亡"
     },
     {
       "time": "18:29",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T15:17:12.136Z",
+  "updatedAt": "2026-07-03T16:05:14.602Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MOHJQb2FsR3BPLWlLT1FRZE9WcFU4dUdMQVJfdmV6MHhOUEZSdzZKREIyOUUyU21qeWt1Mkg3ZDU1ZGlXUFM4bjQwNUE3ZXI0TFRLR2JMZHB5cUNHNmtybW9mZ0lLdS1OYnc?oc=5",
         "publishedAt": "2026-07-03T00:00:01.000Z"
+      },
+      {
+        "time": "11:51",
+        "title": "NISA向き？50万円未満で買える好業績・好配当期待11銘柄",
+        "source": "SBI証券",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rQzQzSjFVUi05V05iRFZKRFJHandjMjhjdWJycmdsVEFhR1hEeGxYQmY5UW8wakxfMmdaclMxRUZPNG15SkZ2UWhtRDBCLWxQYmZKWFF3X0tkVW5hQjItVGJuWVpZLWY4WkxlSmQxM01RRjA4eUFraEFXSVFzblU?oc=5",
+        "publishedAt": "2026-07-03T02:51:48.000Z"
       },
       {
         "time": "03:42",
@@ -34,7 +41,7 @@
         "time": "03:00",
         "title": "第38回 ものづくりワールド東京「スマートメンテナンス展」に出展XGRIDS新製品「Lixel",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52TDc4SXNCTDBpMjJieXpzV2E0WHdYaEdlRkswMjh4Y0tPSlpBT2Rqb0lNbmxrUmIwYS1qczZuajM4UUhMd3hlQzlEN1R4LUlPYWl2a1ktNGJGUWdkclY4bDd2RnlHU3ZERW9pVE9GbDRfRDB2cGUtXzRZNA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9peHJvd0hUQlZYaXcydWtwNnJQaXlTV1M5Z0dEMGxGWFBkR0VheFh2eUZYaXNubDFmU2VFeG1VdnJtY1NtWGdqcWlHaWt3N1puS0RkU092WUc4QUs2SmhzWEN4WWtWaXE4LWkzbEJnNmwtNEs1YlE?oc=5",
         "publishedAt": "2026-07-02T18:00:28.000Z"
       },
       {
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kb0VyTmtTUnVpUDF3cDd5V1EyZ1FMSlpvVXZZNmdPZDJzbnBCaFM0VlY2aXFFZ1RpdElzVzlsWHJHQTF3WGRQZEdybE1hMnNCd2g1aUxwQ1JIal9FRXJvTHZiX3Y1Q29pNjJ2bnBjYXlhVmNY?oc=5",
         "publishedAt": "2026-07-02T20:14:56.000Z"
-      },
-      {
-        "time": "01:00",
-        "title": "カミナシ、「メンテナンス・レジリエンス 2026」に出展",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aZW5Nb3JBUTJqT05kbjBGWi1GSnN4QnloVlE2V0E1Zm8zOE1sdnRTM2JxbG9kVGtoWHdUUFpja1h5SlpaU21TSTlSaGZ3VW40ZHJQSW1PcF9Ja092ZExLZkdhUUc2Z2ZqeXc2b29VWVZFX2JpRUlqRU9zVQ?oc=5",
-        "publishedAt": "2026-07-02T16:00:25.000Z"
       }
     ],
     "worldHeadlines": [
