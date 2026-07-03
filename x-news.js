@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T13:11:29.738Z",
+  "updatedAt": "2026-07-03T14:18:18.516Z",
   "items": [
     {
       "time": "21:05",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "国会の正常化 来週以降に持ち越し"
     },
     {
-      "time": "20:38",
-      "title": "成田-羽田を結ぶ新型特急 運行へ",
+      "time": "22:25",
+      "title": "トヨタ自動車 株主数が5年で2.5倍",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586622?source=rss",
-      "publishedAt": "2026-07-03T11:38:06.000Z",
-      "xQuery": "成田-羽田を結ぶ新型特急 運行へ"
+      "url": "https://news.yahoo.co.jp/pickup/6586631?source=rss",
+      "publishedAt": "2026-07-03T13:25:15.000Z",
+      "xQuery": "トヨタ自動車 株主数が5年で2.5倍"
     },
     {
-      "time": "20:11",
-      "title": "わいせつ被害の女性市議 実名会見",
+      "time": "22:57",
+      "title": "「案件屋」を初めて逮捕 警視庁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586618?source=rss",
-      "publishedAt": "2026-07-03T11:11:16.000Z",
-      "xQuery": "わいせつ被害の女性市議 実名会見"
+      "url": "https://news.yahoo.co.jp/pickup/6586636?source=rss",
+      "publishedAt": "2026-07-03T13:57:12.000Z",
+      "xQuery": "「案件屋」を初めて逮捕 警視庁"
     },
     {
-      "time": "19:14",
-      "title": "元ボクサー薬師寺保栄氏 在宅起訴",
+      "time": "22:12",
+      "title": "サバ入り箱崩れ下敷き 作業員死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586615?source=rss",
-      "publishedAt": "2026-07-03T10:14:20.000Z",
-      "xQuery": "元ボクサー薬師寺保栄氏 在宅起訴"
+      "url": "https://news.yahoo.co.jp/pickup/6586629?source=rss",
+      "publishedAt": "2026-07-03T13:12:35.000Z",
+      "xQuery": "サバ入り箱崩れ下敷き 作業員死亡"
     },
     {
-      "time": "17:27",
-      "title": "異例 自衛隊・制服組トップX開設",
+      "time": "22:39",
+      "title": "サーティワン×どう森 品切れ謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586598?source=rss",
-      "publishedAt": "2026-07-03T08:27:40.000Z",
-      "xQuery": "異例 自衛隊・制服組トップX開設"
+      "url": "https://news.yahoo.co.jp/pickup/6586633?source=rss",
+      "publishedAt": "2026-07-03T13:39:09.000Z",
+      "xQuery": "サーティワン×どう森 品切れ謝罪"
     }
   ]
 };

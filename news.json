@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-03T13:11:29.199Z",
+  "updatedAt": "2026-07-03T14:18:17.732Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "09:00",
-        "title": "【7/22（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MOHJQb2FsR3BPLWlLT1FRZE9WcFU4dUdMQVJfdmV6MHhOUEZSdzZKREIyOUUyU21qeWt1Mkg3ZDU1ZGlXUFM4bjQwNUE3ZXI0TFRLR2JMZHB5cUNHNmtybW9mZ0lLdS1OYnc?oc=5",
-        "publishedAt": "2026-07-03T00:00:01.000Z"
-      },
       {
         "time": "03:42",
         "title": "工作機械の設備監視と遠隔サポートを統合した新プラットフォーム「SatelinC（サテリンク）」を提供開始",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NY0tqN1BmdmNiczVzcEluNTBuNl9lTWVjZXhINXd4bFdkVVpDWVgyT2ZwRUFkU25rdkdCNVhBbFR2VnVrSnFicVZFT3hqd1p3NzFLRG9zc2E?oc=5",
         "publishedAt": "2026-07-02T18:42:25.000Z"
+      },
+      {
+        "time": "11:51",
+        "title": "NISA向き？50万円未満で買える好業績・好配当期待11銘柄",
+        "source": "SBI証券",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rQzQzSjFVUi05V05iRFZKRFJHandjMjhjdWJycmdsVEFhR1hEeGxYQmY5UW8wakxfMmdaclMxRUZPNG15SkZ2UWhtRDBCLWxQYmZKWFF3X0tkVW5hQjItVGJuWVpZLWY4WkxlSmQxM01RRjA4eUFraEFXSVFzblU?oc=5",
+        "publishedAt": "2026-07-03T02:51:48.000Z"
       },
       {
         "time": "14:25",
@@ -24,17 +24,24 @@
         "publishedAt": "2026-07-03T05:25:52.000Z"
       },
       {
-        "time": "03:00",
-        "title": "第38回 ものづくりワールド東京「スマートメンテナンス展」に出展XGRIDS新製品「Lixel",
+        "time": "12:00",
+        "title": "【7/22（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52TDc4SXNCTDBpMjJieXpzV2E0WHdYaEdlRkswMjh4Y0tPSlpBT2Rqb0lNbmxrUmIwYS1qczZuajM4UUhMd3hlQzlEN1R4LUlPYWl2a1ktNGJGUWdkclY4bDd2RnlHU3ZERW9pVE9GbDRfRDB2cGUtXzRZNA?oc=5",
-        "publishedAt": "2026-07-02T18:00:28.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoSXFyeVNFMnE1akNHdUJuU01vRWZrUWdNOHFxUVpjN0ktZzk4cXpJTEdrMnZaaC16Y1BQVllzTFJxS1loa3ppMEl6UDQ2X2Uyd1JPQjliQjZsQi1VVXR1SUx1azVHN0VuTEU5aWpxcTlLTjllTTZtYUUzUQ?oc=5",
+        "publishedAt": "2026-07-03T03:00:23.000Z"
+      },
+      {
+        "time": "16:46",
+        "title": "DMG森精機社長 森雅彦（5） 62年続く社内報",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORHExNDYzNWRUal9UeTBDSTVuR0JRUXF3Z29Ed19maDZNcmswRWFJTnZYSVV0YTI5NzQ4RDdVN2liMWY2S3RNdHZiNElGT2l2STl0MENPend2ZWI4N1hqZ3AyNGJGOFI3OVJLMjBia2FJa0lIYXZ4eV9Gek5KSmhGdFB4cWtxTkRxTnFtUE1leEJiQUxCWi02RXVlYnRZNm1XcXpHcDBXSXVrcW90WHRhSl9PNnF6UQ?oc=5",
+        "publishedAt": "2026-07-03T07:46:47.000Z"
       },
       {
         "time": "12:16",
         "title": "「電流解析による回転機械診断ソリューション」高田工業所、プラントメンテナンスショーに出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EejBxWjY4aFR2VnA0VzAxVEhrMWNfQlE3U095Z0hMMGxkdkVFTzU3d19ubUdMSG1seENfZDBtbGxpNlZ0dFd6dWlnb2gzQWk3MEpzZGduRHhFZXo4YWE3VGJfTzFRem0ybWc?oc=5",
+        "source": "イザ！",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xdlY2X0hEbE5wVFVSVUdBUk0zZm9NSUVrakltREVpU05IMVZsZ2p3RDFLam5mLWY1am5Dd0Uwb2pKZFpRUkk0MDI4bmhvVTJ1YVc5MXJlN2JxenZLQU1xV2FvQTFYdDlkdmhJeTU4dlFuc09QTVlCOVVn?oc=5",
         "publishedAt": "2026-07-03T03:16:41.000Z"
       },
       {
@@ -45,18 +52,11 @@
         "publishedAt": "2026-07-02T20:14:56.000Z"
       },
       {
-        "time": "01:00",
-        "title": "カミナシ、「メンテナンス・レジリエンス 2026」に出展",
+        "time": "03:00",
+        "title": "第38回 ものづくりワールド東京「スマートメンテナンス展」に出展XGRIDS新製品「Lixel",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aZW5Nb3JBUTJqT05kbjBGWi1GSnN4QnloVlE2V0E1Zm8zOE1sdnRTM2JxbG9kVGtoWHdUUFpja1h5SlpaU21TSTlSaGZ3VW40ZHJQSW1PcF9Ja092ZExLZkdhUUc2Z2ZqeXc2b29VWVZFX2JpRUlqRU9zVQ?oc=5",
-        "publishedAt": "2026-07-02T16:00:25.000Z"
-      },
-      {
-        "time": "12:03",
-        "title": "産業用データ収集モジュール市場が今注目される3つの理由：成長ドライバーを徹底分析 Global Reports",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PR0NJcy1iZlVoVF84WHZYYjFPUkhRV0JNLTNtU0haV1RSLWRfUkp6alJmMXBPQ2VKQk9qZnd1N3VOMVpXeWQ5WmtoWnJTSDQzaEJScg?oc=5",
-        "publishedAt": "2026-07-03T03:03:48.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52TDc4SXNCTDBpMjJieXpzV2E0WHdYaEdlRkswMjh4Y0tPSlpBT2Rqb0lNbmxrUmIwYS1qczZuajM4UUhMd3hlQzlEN1R4LUlPYWl2a1ktNGJGUWdkclY4bDd2RnlHU3ZERW9pVE9GbDRfRDB2cGUtXzRZNA?oc=5",
+        "publishedAt": "2026-07-02T18:00:28.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,18 +112,18 @@
         "publishedAt": "2026-07-03T09:09:31.000Z"
       },
       {
-        "time": "09:24",
-        "title": "長期金利一時2.81% 97年5月以来",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586552?source=rss",
-        "publishedAt": "2026-07-03T00:24:49.000Z"
-      },
-      {
         "time": "20:38",
         "title": "成田-羽田を結ぶ新型特急 運行へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586622?source=rss",
         "publishedAt": "2026-07-03T11:38:06.000Z"
+      },
+      {
+        "time": "22:25",
+        "title": "トヨタ自動車 株主数が5年で2.5倍",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586631?source=rss",
+        "publishedAt": "2026-07-03T13:25:15.000Z"
       },
       {
         "time": "16:48",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-07-03T05:07:23.000Z"
       },
       {
-        "time": "21:52",
-        "title": "売れてても廃業? ラーメン店苦境",
+        "time": "18:11",
+        "title": "湖池屋 菓子20品目を10月値上げ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586630?source=rss",
-        "publishedAt": "2026-07-03T12:52:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586612?source=rss",
+        "publishedAt": "2026-07-03T09:11:28.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,18 +156,11 @@
         "publishedAt": "2026-07-03T00:32:27.000Z"
       },
       {
-        "time": "22:29",
-        "title": "小学校火災 ストーブも私物と教員",
+        "time": "22:57",
+        "title": "「案件屋」を初めて逮捕 警視庁",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586526?source=rss",
-        "publishedAt": "2026-07-02T13:29:46.000Z"
-      },
-      {
-        "time": "08:05",
-        "title": "5歳不明「大雨と台風で捜索困難」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586543?source=rss",
-        "publishedAt": "2026-07-02T23:05:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586636?source=rss",
+        "publishedAt": "2026-07-03T13:57:12.000Z"
       },
       {
         "time": "20:11",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586568?source=rss",
         "publishedAt": "2026-07-03T03:12:32.000Z"
+      },
+      {
+        "time": "22:12",
+        "title": "サバ入り箱崩れ下敷き 作業員死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586629?source=rss",
+        "publishedAt": "2026-07-03T13:12:35.000Z"
       },
       {
         "time": "16:44",
