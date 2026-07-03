@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T22:27:27.707Z",
+  "updatedAt": "2026-07-03T22:54:14.010Z",
   "items": [
     {
       "time": "07:17",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "九州北部 再び線状降水帯発生恐れ"
     },
     {
-      "time": "21:05",
-      "title": "国会の正常化 来週以降に持ち越し",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586625?source=rss",
-      "publishedAt": "2026-07-03T12:05:52.000Z",
-      "xQuery": "国会の正常化 来週以降に持ち越し"
-    },
-    {
-      "time": "20:15",
-      "title": "故ハメネイ師のひつぎ公開 イラン",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586620?source=rss",
-      "publishedAt": "2026-07-03T11:15:15.000Z",
-      "xQuery": "故ハメネイ師のひつぎ公開 イラン"
-    },
-    {
       "time": "23:30",
       "title": "ロシア 日本から燃料の輸入画策か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6586639?source=rss",
       "publishedAt": "2026-07-03T14:30:11.000Z",
       "xQuery": "ロシア 日本から燃料の輸入画策か"
+    },
+    {
+      "time": "07:24",
+      "title": "ペルー大統領選 ケイコ氏が当選",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586644?source=rss",
+      "publishedAt": "2026-07-03T22:24:34.000Z",
+      "xQuery": "ペルー大統領選 ケイコ氏が当選"
+    },
+    {
+      "time": "07:44",
+      "title": "学校火災 教師私服干しを校長謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586647?source=rss",
+      "publishedAt": "2026-07-03T22:44:22.000Z",
+      "xQuery": "学校火災 教師私服干しを校長謝罪"
     },
     {
       "time": "22:12",
