@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T09:12:03.730Z",
+  "updatedAt": "2026-07-03T10:22:13.504Z",
   "items": [
     {
       "time": "17:46",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「エルニーニョ」発生 WMO発表"
     },
     {
-      "time": "17:14",
-      "title": "セブン リサイクル委託料で未払い",
+      "time": "18:11",
+      "title": "投与後に死亡 キッセイに報告命令",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586595?source=rss",
-      "publishedAt": "2026-07-03T08:14:27.000Z",
-      "xQuery": "セブン リサイクル委託料で未払い"
+      "url": "https://news.yahoo.co.jp/pickup/6586610?source=rss",
+      "publishedAt": "2026-07-03T09:11:06.000Z",
+      "xQuery": "投与後に死亡 キッセイに報告命令"
     },
     {
       "time": "17:48",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "れいわ・山本太郎氏 法定速度違反"
     },
     {
-      "time": "16:44",
-      "title": "ボビー容疑者 不同意性交罪で起訴",
+      "time": "19:14",
+      "title": "元ボクサー薬師寺保栄氏 在宅起訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586592?source=rss",
-      "publishedAt": "2026-07-03T07:44:29.000Z",
-      "xQuery": "ボビー容疑者 不同意性交罪で起訴"
+      "url": "https://news.yahoo.co.jp/pickup/6586615?source=rss",
+      "publishedAt": "2026-07-03T10:14:20.000Z",
+      "xQuery": "元ボクサー薬師寺保栄氏 在宅起訴"
     },
     {
-      "time": "17:29",
-      "title": "1等・5億円が同じ売場で2本 ロト6",
+      "time": "18:41",
+      "title": "友人猛反対「ロマンス詐欺」被害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586600?source=rss",
-      "publishedAt": "2026-07-03T08:29:10.000Z",
-      "xQuery": "1等・5億円が同じ売場で2本 ロト6"
+      "url": "https://news.yahoo.co.jp/pickup/6586614?source=rss",
+      "publishedAt": "2026-07-03T09:41:07.000Z",
+      "xQuery": "友人猛反対「ロマンス詐欺」被害"
     }
   ]
 };
