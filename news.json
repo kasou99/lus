@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T06:16:18.291Z",
+  "updatedAt": "2026-07-03T07:40:14.974Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-07-03T00:00:01.000Z"
       },
       {
-        "time": "03:42",
-        "title": "工作機械の設備監視と遠隔サポートを統合した新プラットフォーム「SatelinC（サテリンク）」を提供開始",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NY0tqN1BmdmNiczVzcEluNTBuNl9lTWVjZXhINXd4bFdkVVpDWVgyT2ZwRUFkU25rdkdCNVhBbFR2VnVrSnFicVZFT3hqd1p3NzFLRG9zc2E?oc=5",
-        "publishedAt": "2026-07-02T18:42:25.000Z"
-      },
-      {
         "time": "14:25",
         "title": "5月機械受注（除船電民需）前月比は2カ月ぶりに小幅だが減少か。関連データの工作機械受注（国内向け）5月前年同月比は＋37.3％と大幅増加ながら4月より鈍化。日本の主要経済指標予測（2026年7月3日）―｜宅森昭吉（景気探検家・エコノミスト）",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sajVDM1AzZ2s1Um4tOEs0eE5oeldYWVQ3ejItTi1jN1Q0ZUlfMnNaUzJLcGJkcThqQUNzYnhyY0g4QzR6SXdoZTBjUi1uOVI2VjNhZ21ldXhOcVdUWVE?oc=5",
         "publishedAt": "2026-07-03T05:25:52.000Z"
+      },
+      {
+        "time": "03:42",
+        "title": "工作機械の設備監視と遠隔サポートを統合した新プラットフォーム「SatelinC（サテリンク）」を提供開始",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NY0tqN1BmdmNiczVzcEluNTBuNl9lTWVjZXhINXd4bFdkVVpDWVgyT2ZwRUFkU25rdkdCNVhBbFR2VnVrSnFicVZFT3hqd1p3NzFLRG9zc2E?oc=5",
+        "publishedAt": "2026-07-02T18:42:25.000Z"
       },
       {
         "time": "19:01",
@@ -38,6 +38,13 @@
         "publishedAt": "2026-07-02T18:00:28.000Z"
       },
       {
+        "time": "12:16",
+        "title": "「電流解析による回転機械診断ソリューション」高田工業所、プラントメンテナンスショーに出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EejBxWjY4aFR2VnA0VzAxVEhrMWNfQlE3U095Z0hMMGxkdkVFTzU3d19ubUdMSG1seENfZDBtbGxpNlZ0dFd6dWlnb2gzQWk3MEpzZGduRHhFZXo4YWE3VGJfTzFRem0ybWc?oc=5",
+        "publishedAt": "2026-07-03T03:16:41.000Z"
+      },
+      {
         "time": "05:14",
         "title": "政府、AI・半導体 重点分野に 対日投資促進計画を改定",
         "source": "日刊工業新聞",
@@ -50,16 +57,16 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aZW5Nb3JBUTJqT05kbjBGWi1GSnN4QnloVlE2V0E1Zm8zOE1sdnRTM2JxbG9kVGtoWHdUUFpja1h5SlpaU21TSTlSaGZ3VW40ZHJQSW1PcF9Ja092ZExLZkdhUUc2Z2ZqeXc2b29VWVZFX2JpRUlqRU9zVQ?oc=5",
         "publishedAt": "2026-07-02T16:00:25.000Z"
-      },
-      {
-        "time": "16:03",
-        "title": "Modular Electronic Enclosures Market(モジュラー型電子機器筐体市場)調査レポート",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdWI1bnppVWZMTEhZbEFleENqbFRXbWtlS3JwbkRjVmRSVzdNZTJOWXZReXNuS0o0TXhIZF9BeGRRZExmN1U2OWt5Nnk0bG4xSGFENw?oc=5",
-        "publishedAt": "2026-07-02T07:03:23.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "15:17",
+        "title": "米イラン 安保理で非難の応酬に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586584?source=rss",
+        "publishedAt": "2026-07-03T06:17:56.000Z"
+      },
       {
         "time": "06:07",
         "title": "ウ首都に大規模攻撃 20人超死亡",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586531?source=rss",
         "publishedAt": "2026-07-02T14:15:35.000Z"
-      },
-      {
-        "time": "14:09",
-        "title": "中国の海洋進出巡る主張 新段階に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586458?source=rss",
-        "publishedAt": "2026-07-02T05:09:08.000Z"
       },
       {
         "time": "18:30",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-07-03T03:12:32.000Z"
       },
       {
-        "time": "22:44",
-        "title": "市配布の殺虫剤3歳誤飲 県警捜査",
+        "time": "15:32",
+        "title": "横断歩道の9歳はねた疑い 男逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586528?source=rss",
-        "publishedAt": "2026-07-02T13:44:48.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586586?source=rss",
+        "publishedAt": "2026-07-03T06:32:11.000Z"
       },
       {
         "time": "18:58",

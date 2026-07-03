@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T06:16:19.094Z",
+  "updatedAt": "2026-07-03T07:40:15.666Z",
   "items": [
     {
-      "time": "12:20",
-      "title": "半年ぶりの休養 ウ東部で兵士交代",
+      "time": "15:17",
+      "title": "米イラン 安保理で非難の応酬に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586569?source=rss",
-      "publishedAt": "2026-07-03T03:20:10.000Z",
-      "xQuery": "半年ぶりの休養 ウ東部で兵士交代"
+      "url": "https://news.yahoo.co.jp/pickup/6586584?source=rss",
+      "publishedAt": "2026-07-03T06:17:56.000Z",
+      "xQuery": "米イラン 安保理で非難の応酬に"
     },
     {
       "time": "13:39",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米NYで42℃観測 当局が猛暑警報"
     },
     {
-      "time": "12:34",
-      "title": "永住許可手数料 1万円→20万円に",
+      "time": "15:32",
+      "title": "横断歩道の9歳はねた疑い 男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586573?source=rss",
-      "publishedAt": "2026-07-03T03:34:10.000Z",
-      "xQuery": "永住許可手数料 1万円→20万円に"
+      "url": "https://news.yahoo.co.jp/pickup/6586586?source=rss",
+      "publishedAt": "2026-07-03T06:32:11.000Z",
+      "xQuery": "横断歩道の9歳はねた疑い 男逮捕"
     },
     {
       "time": "14:04",
