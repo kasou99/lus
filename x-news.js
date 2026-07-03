@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-02T23:56:39.662Z",
+  "updatedAt": "2026-07-03T00:57:26.022Z",
   "items": [
     {
-      "time": "08:06",
-      "title": "今季は台風多発 約2倍のペース",
+      "time": "09:32",
+      "title": "熱海土石流5年 盛り土責任の所在",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586545?source=rss",
-      "publishedAt": "2026-07-02T23:06:25.000Z",
-      "xQuery": "今季は台風多発 約2倍のペース"
+      "url": "https://news.yahoo.co.jp/pickup/6586553?source=rss",
+      "publishedAt": "2026-07-03T00:32:27.000Z",
+      "xQuery": "熱海土石流5年 盛り土責任の所在"
     },
     {
-      "time": "06:51",
-      "title": "NY株が最高値 利上げ観測後退で",
+      "time": "09:24",
+      "title": "長期金利一時2.81% 97年5月以来",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586538?source=rss",
-      "publishedAt": "2026-07-02T21:51:36.000Z",
-      "xQuery": "NY株が最高値 利上げ観測後退で"
+      "url": "https://news.yahoo.co.jp/pickup/6586552?source=rss",
+      "publishedAt": "2026-07-03T00:24:49.000Z",
+      "xQuery": "長期金利一時2.81% 97年5月以来"
     },
     {
-      "time": "08:05",
-      "title": "5歳不明「大雨と台風で捜索困難」",
+      "time": "08:24",
+      "title": "テスラ世界納車25%増 第2四半期",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586543?source=rss",
-      "publishedAt": "2026-07-02T23:05:34.000Z",
-      "xQuery": "5歳不明「大雨と台風で捜索困難」"
+      "url": "https://news.yahoo.co.jp/pickup/6586546?source=rss",
+      "publishedAt": "2026-07-02T23:24:26.000Z",
+      "xQuery": "テスラ世界納車25%増 第2四半期"
     },
     {
       "time": "07:33",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "渋谷の危険盛り土 告発状を受理"
     },
     {
-      "time": "08:10",
-      "title": "米の人工池損壊 元五輪選手を起訴",
+      "time": "09:23",
+      "title": "ジャングリアの駐車場 県民無料に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586544?source=rss",
-      "publishedAt": "2026-07-02T23:10:53.000Z",
-      "xQuery": "米の人工池損壊 元五輪選手を起訴"
+      "url": "https://news.yahoo.co.jp/pickup/6586551?source=rss",
+      "publishedAt": "2026-07-03T00:23:19.000Z",
+      "xQuery": "ジャングリアの駐車場 県民無料に"
     }
   ]
 };
