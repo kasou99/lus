@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T22:54:14.010Z",
+  "updatedAt": "2026-07-03T23:27:21.264Z",
   "items": [
     {
       "time": "07:17",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "九州北部 再び線状降水帯発生恐れ"
     },
     {
-      "time": "23:30",
-      "title": "ロシア 日本から燃料の輸入画策か",
+      "time": "08:16",
+      "title": "在留手数料減額要件厳しく 指針案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586639?source=rss",
-      "publishedAt": "2026-07-03T14:30:11.000Z",
-      "xQuery": "ロシア 日本から燃料の輸入画策か"
+      "url": "https://news.yahoo.co.jp/pickup/6586651?source=rss",
+      "publishedAt": "2026-07-03T23:16:31.000Z",
+      "xQuery": "在留手数料減額要件厳しく 指針案"
     },
     {
       "time": "07:24",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ペルー大統領選 ケイコ氏が当選"
     },
     {
+      "time": "08:03",
+      "title": "米独立記念日 熱波でイベ中止続く",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586650?source=rss",
+      "publishedAt": "2026-07-03T23:03:47.000Z",
+      "xQuery": "米独立記念日 熱波でイベ中止続く"
+    },
+    {
       "time": "07:44",
       "title": "学校火災 教師私服干しを校長謝罪",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6586647?source=rss",
       "publishedAt": "2026-07-03T22:44:22.000Z",
       "xQuery": "学校火災 教師私服干しを校長謝罪"
-    },
-    {
-      "time": "22:12",
-      "title": "サバ入り箱崩れ下敷き 作業員死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586629?source=rss",
-      "publishedAt": "2026-07-03T13:12:35.000Z",
-      "xQuery": "サバ入り箱崩れ下敷き 作業員死亡"
     }
   ]
 };
