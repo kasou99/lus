@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T10:22:13.504Z",
+  "updatedAt": "2026-07-03T11:21:23.762Z",
   "items": [
     {
-      "time": "17:46",
-      "title": "「エルニーニョ」発生 WMO発表",
+      "time": "18:09",
+      "title": "米雇用統計受け 荒い値動き続く円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586606?source=rss",
-      "publishedAt": "2026-07-03T08:46:27.000Z",
-      "xQuery": "「エルニーニョ」発生 WMO発表"
+      "url": "https://news.yahoo.co.jp/pickup/6586609?source=rss",
+      "publishedAt": "2026-07-03T09:09:31.000Z",
+      "xQuery": "米雇用統計受け 荒い値動き続く円"
     },
     {
       "time": "18:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "元ボクサー薬師寺保栄氏 在宅起訴"
     },
     {
-      "time": "18:41",
-      "title": "友人猛反対「ロマンス詐欺」被害",
+      "time": "20:11",
+      "title": "わいせつ被害の女性市議 実名会見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586614?source=rss",
-      "publishedAt": "2026-07-03T09:41:07.000Z",
-      "xQuery": "友人猛反対「ロマンス詐欺」被害"
+      "url": "https://news.yahoo.co.jp/pickup/6586618?source=rss",
+      "publishedAt": "2026-07-03T11:11:16.000Z",
+      "xQuery": "わいせつ被害の女性市議 実名会見"
     }
   ]
 };
