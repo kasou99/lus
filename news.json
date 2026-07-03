@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T21:57:09.826Z",
+  "updatedAt": "2026-07-03T22:27:27.104Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "07:24",
+        "title": "ペルー大統領選 ケイコ氏が当選",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586644?source=rss",
+        "publishedAt": "2026-07-03T22:24:34.000Z"
+      },
+      {
         "time": "23:30",
         "title": "ロシア 日本から燃料の輸入画策か",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586569?source=rss",
         "publishedAt": "2026-07-03T03:20:10.000Z"
-      },
-      {
-        "time": "13:39",
-        "title": "米NYで42℃観測 当局が猛暑警報",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586577?source=rss",
-        "publishedAt": "2026-07-03T04:39:10.000Z"
       }
     ],
     "economyHeadlines": [

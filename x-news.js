@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T21:57:10.700Z",
+  "updatedAt": "2026-07-03T22:27:27.707Z",
   "items": [
+    {
+      "time": "07:17",
+      "title": "九州北部 再び線状降水帯発生恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586642?source=rss",
+      "publishedAt": "2026-07-03T22:17:47.000Z",
+      "xQuery": "九州北部 再び線状降水帯発生恐れ"
+    },
     {
       "time": "21:05",
       "title": "国会の正常化 来週以降に持ち越し",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586629?source=rss",
       "publishedAt": "2026-07-03T13:12:35.000Z",
       "xQuery": "サバ入り箱崩れ下敷き 作業員死亡"
-    },
-    {
-      "time": "18:29",
-      "title": "「黒いチョウ」急増 市が注意喚起",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586613?source=rss",
-      "publishedAt": "2026-07-03T09:29:38.000Z",
-      "xQuery": "「黒いチョウ」急増 市が注意喚起"
     }
   ]
 };
