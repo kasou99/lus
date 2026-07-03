@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T14:18:18.516Z",
+  "updatedAt": "2026-07-03T15:17:12.885Z",
   "items": [
     {
       "time": "21:05",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "国会の正常化 来週以降に持ち越し"
     },
     {
-      "time": "22:25",
-      "title": "トヨタ自動車 株主数が5年で2.5倍",
+      "time": "20:15",
+      "title": "故ハメネイ師のひつぎ公開 イラン",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586631?source=rss",
-      "publishedAt": "2026-07-03T13:25:15.000Z",
-      "xQuery": "トヨタ自動車 株主数が5年で2.5倍"
-    },
-    {
-      "time": "22:57",
-      "title": "「案件屋」を初めて逮捕 警視庁",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586636?source=rss",
-      "publishedAt": "2026-07-03T13:57:12.000Z",
-      "xQuery": "「案件屋」を初めて逮捕 警視庁"
+      "url": "https://news.yahoo.co.jp/pickup/6586620?source=rss",
+      "publishedAt": "2026-07-03T11:15:15.000Z",
+      "xQuery": "故ハメネイ師のひつぎ公開 イラン"
     },
     {
       "time": "22:12",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "サバ入り箱崩れ下敷き 作業員死亡"
     },
     {
-      "time": "22:39",
-      "title": "サーティワン×どう森 品切れ謝罪",
+      "time": "23:30",
+      "title": "ロシア 日本から燃料の輸入画策か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586633?source=rss",
-      "publishedAt": "2026-07-03T13:39:09.000Z",
-      "xQuery": "サーティワン×どう森 品切れ謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6586639?source=rss",
+      "publishedAt": "2026-07-03T14:30:11.000Z",
+      "xQuery": "ロシア 日本から燃料の輸入画策か"
+    },
+    {
+      "time": "18:29",
+      "title": "「黒いチョウ」急増 市が注意喚起",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586613?source=rss",
+      "publishedAt": "2026-07-03T09:29:38.000Z",
+      "xQuery": "「黒いチョウ」急増 市が注意喚起"
     }
   ]
 };
