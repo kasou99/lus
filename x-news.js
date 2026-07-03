@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T12:16:38.234Z",
+  "updatedAt": "2026-07-03T13:11:29.738Z",
   "items": [
     {
       "time": "21:05",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "元ボクサー薬師寺保栄氏 在宅起訴"
     },
     {
-      "time": "18:41",
-      "title": "友人猛反対「ロマンス詐欺」被害",
+      "time": "17:27",
+      "title": "異例 自衛隊・制服組トップX開設",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586614?source=rss",
-      "publishedAt": "2026-07-03T09:41:07.000Z",
-      "xQuery": "友人猛反対「ロマンス詐欺」被害"
+      "url": "https://news.yahoo.co.jp/pickup/6586598?source=rss",
+      "publishedAt": "2026-07-03T08:27:40.000Z",
+      "xQuery": "異例 自衛隊・制服組トップX開設"
     }
   ]
 };
