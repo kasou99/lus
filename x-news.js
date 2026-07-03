@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T11:21:23.762Z",
+  "updatedAt": "2026-07-03T12:16:38.234Z",
   "items": [
     {
-      "time": "18:09",
-      "title": "米雇用統計受け 荒い値動き続く円",
+      "time": "21:05",
+      "title": "国会の正常化 来週以降に持ち越し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586609?source=rss",
-      "publishedAt": "2026-07-03T09:09:31.000Z",
-      "xQuery": "米雇用統計受け 荒い値動き続く円"
+      "url": "https://news.yahoo.co.jp/pickup/6586625?source=rss",
+      "publishedAt": "2026-07-03T12:05:52.000Z",
+      "xQuery": "国会の正常化 来週以降に持ち越し"
     },
     {
-      "time": "18:11",
-      "title": "投与後に死亡 キッセイに報告命令",
+      "time": "20:38",
+      "title": "成田-羽田を結ぶ新型特急 運行へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586610?source=rss",
-      "publishedAt": "2026-07-03T09:11:06.000Z",
-      "xQuery": "投与後に死亡 キッセイに報告命令"
+      "url": "https://news.yahoo.co.jp/pickup/6586622?source=rss",
+      "publishedAt": "2026-07-03T11:38:06.000Z",
+      "xQuery": "成田-羽田を結ぶ新型特急 運行へ"
     },
     {
-      "time": "17:48",
-      "title": "れいわ・山本太郎氏 法定速度違反",
+      "time": "20:11",
+      "title": "わいせつ被害の女性市議 実名会見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586608?source=rss",
-      "publishedAt": "2026-07-03T08:48:58.000Z",
-      "xQuery": "れいわ・山本太郎氏 法定速度違反"
+      "url": "https://news.yahoo.co.jp/pickup/6586618?source=rss",
+      "publishedAt": "2026-07-03T11:11:16.000Z",
+      "xQuery": "わいせつ被害の女性市議 実名会見"
     },
     {
       "time": "19:14",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "元ボクサー薬師寺保栄氏 在宅起訴"
     },
     {
-      "time": "20:11",
-      "title": "わいせつ被害の女性市議 実名会見",
+      "time": "18:41",
+      "title": "友人猛反対「ロマンス詐欺」被害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586618?source=rss",
-      "publishedAt": "2026-07-03T11:11:16.000Z",
-      "xQuery": "わいせつ被害の女性市議 実名会見"
+      "url": "https://news.yahoo.co.jp/pickup/6586614?source=rss",
+      "publishedAt": "2026-07-03T09:41:07.000Z",
+      "xQuery": "友人猛反対「ロマンス詐欺」被害"
     }
   ]
 };

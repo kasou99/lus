@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T11:21:22.619Z",
+  "updatedAt": "2026-07-03T12:16:37.636Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -119,6 +119,13 @@
         "publishedAt": "2026-07-03T00:24:49.000Z"
       },
       {
+        "time": "20:38",
+        "title": "成田-羽田を結ぶ新型特急 運行へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586622?source=rss",
+        "publishedAt": "2026-07-03T11:38:06.000Z"
+      },
+      {
         "time": "16:48",
         "title": "在留資格の厳格化 カレー店を直撃",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586605?source=rss",
         "publishedAt": "2026-07-03T10:26:38.000Z"
-      },
-      {
-        "time": "18:11",
-        "title": "湖池屋 菓子20品目を10月値上げ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586612?source=rss",
-        "publishedAt": "2026-07-03T09:11:28.000Z"
       }
     ],
     "localHeadlines": [
