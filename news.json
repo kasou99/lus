@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T23:27:20.559Z",
+  "updatedAt": "2026-07-03T23:54:27.389Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "08:49",
+        "title": "ウ東部要衝を「制圧」と露が発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586656?source=rss",
+        "publishedAt": "2026-07-03T23:49:49.000Z"
+      },
+      {
         "time": "08:03",
         "title": "米独立記念日 熱波でイベ中止続く",
         "source": "Yahoo!ニュース",
@@ -94,16 +101,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586620?source=rss",
         "publishedAt": "2026-07-03T11:15:15.000Z"
-      },
-      {
-        "time": "06:07",
-        "title": "ウ首都に大規模攻撃 20人超死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586534?source=rss",
-        "publishedAt": "2026-07-02T21:07:29.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "08:28",
+        "title": "大手企業と中小 消えぬ賃上げ格差",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586653?source=rss",
+        "publishedAt": "2026-07-03T23:28:08.000Z"
+      },
       {
         "time": "18:09",
         "title": "米雇用統計受け 荒い値動き続く円",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586631?source=rss",
         "publishedAt": "2026-07-03T13:25:15.000Z"
-      },
-      {
-        "time": "16:48",
-        "title": "在留資格の厳格化 カレー店を直撃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586593?source=rss",
-        "publishedAt": "2026-07-03T07:48:32.000Z"
       },
       {
         "time": "14:07",
