@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T07:40:15.666Z",
+  "updatedAt": "2026-07-03T09:12:03.730Z",
   "items": [
     {
-      "time": "15:17",
-      "title": "米イラン 安保理で非難の応酬に",
+      "time": "17:46",
+      "title": "「エルニーニョ」発生 WMO発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586584?source=rss",
-      "publishedAt": "2026-07-03T06:17:56.000Z",
-      "xQuery": "米イラン 安保理で非難の応酬に"
+      "url": "https://news.yahoo.co.jp/pickup/6586606?source=rss",
+      "publishedAt": "2026-07-03T08:46:27.000Z",
+      "xQuery": "「エルニーニョ」発生 WMO発表"
     },
     {
-      "time": "13:39",
-      "title": "米NYで42℃観測 当局が猛暑警報",
+      "time": "17:14",
+      "title": "セブン リサイクル委託料で未払い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586577?source=rss",
-      "publishedAt": "2026-07-03T04:39:10.000Z",
-      "xQuery": "米NYで42℃観測 当局が猛暑警報"
+      "url": "https://news.yahoo.co.jp/pickup/6586595?source=rss",
+      "publishedAt": "2026-07-03T08:14:27.000Z",
+      "xQuery": "セブン リサイクル委託料で未払い"
     },
     {
-      "time": "15:32",
-      "title": "横断歩道の9歳はねた疑い 男逮捕",
+      "time": "17:48",
+      "title": "れいわ・山本太郎氏 法定速度違反",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586586?source=rss",
-      "publishedAt": "2026-07-03T06:32:11.000Z",
-      "xQuery": "横断歩道の9歳はねた疑い 男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6586608?source=rss",
+      "publishedAt": "2026-07-03T08:48:58.000Z",
+      "xQuery": "れいわ・山本太郎氏 法定速度違反"
     },
     {
-      "time": "14:04",
-      "title": "テスラ 米で6人乗りモデルYL発売",
+      "time": "16:44",
+      "title": "ボビー容疑者 不同意性交罪で起訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586580?source=rss",
-      "publishedAt": "2026-07-03T05:04:01.000Z",
-      "xQuery": "テスラ 米で6人乗りモデルYL発売"
+      "url": "https://news.yahoo.co.jp/pickup/6586592?source=rss",
+      "publishedAt": "2026-07-03T07:44:29.000Z",
+      "xQuery": "ボビー容疑者 不同意性交罪で起訴"
     },
     {
-      "time": "14:07",
-      "title": "パルコが夏セール中止 背景は",
+      "time": "17:29",
+      "title": "1等・5億円が同じ売場で2本 ロト6",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586581?source=rss",
-      "publishedAt": "2026-07-03T05:07:23.000Z",
-      "xQuery": "パルコが夏セール中止 背景は"
+      "url": "https://news.yahoo.co.jp/pickup/6586600?source=rss",
+      "publishedAt": "2026-07-03T08:29:10.000Z",
+      "xQuery": "1等・5億円が同じ売場で2本 ロト6"
     }
   ]
 };

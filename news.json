@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T07:40:14.974Z",
+  "updatedAt": "2026-07-03T09:12:03.168Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-07-03T00:00:01.000Z"
       },
       {
-        "time": "14:25",
-        "title": "5月機械受注（除船電民需）前月比は2カ月ぶりに小幅だが減少か。関連データの工作機械受注（国内向け）5月前年同月比は＋37.3％と大幅増加ながら4月より鈍化。日本の主要経済指標予測（2026年7月3日）―｜宅森昭吉（景気探検家・エコノミスト）",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sajVDM1AzZ2s1Um4tOEs0eE5oeldYWVQ3ejItTi1jN1Q0ZUlfMnNaUzJLcGJkcThqQUNzYnhyY0g4QzR6SXdoZTBjUi1uOVI2VjNhZ21ldXhOcVdUWVE?oc=5",
-        "publishedAt": "2026-07-03T05:25:52.000Z"
-      },
-      {
         "time": "03:42",
         "title": "工作機械の設備監視と遠隔サポートを統合した新プラットフォーム「SatelinC（サテリンク）」を提供開始",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NY0tqN1BmdmNiczVzcEluNTBuNl9lTWVjZXhINXd4bFdkVVpDWVgyT2ZwRUFkU25rdkdCNVhBbFR2VnVrSnFicVZFT3hqd1p3NzFLRG9zc2E?oc=5",
         "publishedAt": "2026-07-02T18:42:25.000Z"
+      },
+      {
+        "time": "14:25",
+        "title": "5月機械受注（除船電民需）前月比は2カ月ぶりに小幅だが減少か。関連データの工作機械受注（国内向け）5月前年同月比は＋37.3％と大幅増加ながら4月より鈍化。日本の主要経済指標予測（2026年7月3日）―｜宅森昭吉（景気探検家・エコノミスト）",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sajVDM1AzZ2s1Um4tOEs0eE5oeldYWVQ3ejItTi1jN1Q0ZUlfMnNaUzJLcGJkcThqQUNzYnhyY0g4QzR6SXdoZTBjUi1uOVI2VjNhZ21ldXhOcVdUWVE?oc=5",
+        "publishedAt": "2026-07-03T05:25:52.000Z"
       },
       {
         "time": "19:01",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "18:09",
+        "title": "米雇用統計受け 荒い値動き続く円",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586609?source=rss",
+        "publishedAt": "2026-07-03T09:09:31.000Z"
+      },
+      {
         "time": "09:24",
         "title": "長期金利一時2.81% 97年5月以来",
         "source": "Yahoo!ニュース",
@@ -112,18 +119,18 @@
         "publishedAt": "2026-07-03T00:24:49.000Z"
       },
       {
-        "time": "06:51",
-        "title": "NY株が最高値 利上げ観測後退で",
+        "time": "16:59",
+        "title": "ゆうパック 平均約10%の値上げへ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586538?source=rss",
-        "publishedAt": "2026-07-02T21:51:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586594?source=rss",
+        "publishedAt": "2026-07-03T07:59:52.000Z"
       },
       {
-        "time": "10:58",
-        "title": "円の「買う力」40年で半分程度に",
+        "time": "16:48",
+        "title": "在留資格の厳格化 カレー店を直撃",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586561?source=rss",
-        "publishedAt": "2026-07-03T01:58:32.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586593?source=rss",
+        "publishedAt": "2026-07-03T07:48:32.000Z"
       },
       {
         "time": "14:07",
@@ -133,18 +140,11 @@
         "publishedAt": "2026-07-03T05:07:23.000Z"
       },
       {
-        "time": "22:00",
-        "title": "ブルボン 菓子2万袋を自主回収",
+        "time": "17:14",
+        "title": "セブン リサイクル委託料で未払い",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586521?source=rss",
-        "publishedAt": "2026-07-02T13:00:04.000Z"
-      },
-      {
-        "time": "09:45",
-        "title": "丸亀製麺 好調の理由に商品開発力",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586549?source=rss",
-        "publishedAt": "2026-07-03T00:45:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586595?source=rss",
+        "publishedAt": "2026-07-03T08:14:27.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586553?source=rss",
         "publishedAt": "2026-07-03T00:32:27.000Z"
+      },
+      {
+        "time": "16:48",
+        "title": "那須の焼損2遺体 男2人に懲役30年",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586591?source=rss",
+        "publishedAt": "2026-07-03T07:48:45.000Z"
       },
       {
         "time": "22:29",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586586?source=rss",
         "publishedAt": "2026-07-03T06:32:11.000Z"
-      },
-      {
-        "time": "18:58",
-        "title": "滝つぼで発見の10歳 死因は溺死",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586500?source=rss",
-        "publishedAt": "2026-07-02T09:58:06.000Z"
       }
     ],
     "subsidyHeadlines": [
