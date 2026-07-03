@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T00:57:26.022Z",
+  "updatedAt": "2026-07-03T01:42:08.614Z",
   "items": [
+    {
+      "time": "10:00",
+      "title": "国際卓越大に京大認定へ 3校目",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586556?source=rss",
+      "publishedAt": "2026-07-03T01:00:20.000Z",
+      "xQuery": "国際卓越大に京大認定へ 3校目"
+    },
     {
       "time": "09:32",
       "title": "熱海土石流5年 盛り土責任の所在",
@@ -10,28 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "熱海土石流5年 盛り土責任の所在"
     },
     {
-      "time": "09:24",
-      "title": "長期金利一時2.81% 97年5月以来",
+      "time": "08:44",
+      "title": "日印「蜜月」演出 対中国は温度差",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586552?source=rss",
-      "publishedAt": "2026-07-03T00:24:49.000Z",
-      "xQuery": "長期金利一時2.81% 97年5月以来"
+      "url": "https://news.yahoo.co.jp/pickup/6586548?source=rss",
+      "publishedAt": "2026-07-02T23:44:40.000Z",
+      "xQuery": "日印「蜜月」演出 対中国は温度差"
     },
     {
-      "time": "08:24",
-      "title": "テスラ世界納車25%増 第2四半期",
+      "time": "09:45",
+      "title": "丸亀製麺 好調の理由に商品開発力",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586546?source=rss",
-      "publishedAt": "2026-07-02T23:24:26.000Z",
-      "xQuery": "テスラ世界納車25%増 第2四半期"
-    },
-    {
-      "time": "07:33",
-      "title": "渋谷の危険盛り土 告発状を受理",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586540?source=rss",
-      "publishedAt": "2026-07-02T22:33:58.000Z",
-      "xQuery": "渋谷の危険盛り土 告発状を受理"
+      "url": "https://news.yahoo.co.jp/pickup/6586549?source=rss",
+      "publishedAt": "2026-07-03T00:45:54.000Z",
+      "xQuery": "丸亀製麺 好調の理由に商品開発力"
     },
     {
       "time": "09:23",
