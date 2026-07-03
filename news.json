@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-07-03T03:13:47.965Z",
+  "updatedAt": "2026-07-03T04:48:11.081Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:00",
+        "title": "【7/22（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MOHJQb2FsR3BPLWlLT1FRZE9WcFU4dUdMQVJfdmV6MHhOUEZSdzZKREIyOUUyU21qeWt1Mkg3ZDU1ZGlXUFM4bjQwNUE3ZXI0TFRLR2JMZHB5cUNHNmtybW9mZ0lLdS1OYnc?oc=5",
+        "publishedAt": "2026-07-03T00:00:01.000Z"
+      },
       {
         "time": "03:42",
         "title": "工作機械の設備監視と遠隔サポートを統合した新プラットフォーム「SatelinC（サテリンク）」を提供開始",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NY0tqN1BmdmNiczVzcEluNTBuNl9lTWVjZXhINXd4bFdkVVpDWVgyT2ZwRUFkU25rdkdCNVhBbFR2VnVrSnFicVZFT3hqd1p3NzFLRG9zc2E?oc=5",
         "publishedAt": "2026-07-02T18:42:25.000Z"
+      },
+      {
+        "time": "12:16",
+        "title": "「電流解析による回転機械診断ソリューション」高田工業所、プラントメンテナンスショーに出展",
+        "source": "イザ！",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xdlY2X0hEbE5wVFVSVUdBUk0zZm9NSUVrakltREVpU05IMVZsZ2p3RDFLam5mLWY1am5Dd0Uwb2pKZFpRUkk0MDI4bmhvVTJ1YVc5MXJlN2JxenZLQU1xV2FvQTFYdDlkdmhJeTU4dlFuc09QTVlCOVVn?oc=5",
+        "publishedAt": "2026-07-03T03:16:41.000Z"
       },
       {
         "time": "19:01",
@@ -17,11 +31,11 @@
         "publishedAt": "2026-07-02T10:01:04.000Z"
       },
       {
-        "time": "01:00",
-        "title": "カミナシ、「メンテナンス・レジリエンス 2026」に出展",
+        "time": "03:00",
+        "title": "第38回 ものづくりワールド東京「スマートメンテナンス展」に出展XGRIDS新製品「Lixel",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aZW5Nb3JBUTJqT05kbjBGWi1GSnN4QnloVlE2V0E1Zm8zOE1sdnRTM2JxbG9kVGtoWHdUUFpja1h5SlpaU21TSTlSaGZ3VW40ZHJQSW1PcF9Ja092ZExLZkdhUUc2Z2ZqeXc2b29VWVZFX2JpRUlqRU9zVQ?oc=5",
-        "publishedAt": "2026-07-02T16:00:25.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52TDc4SXNCTDBpMjJieXpzV2E0WHdYaEdlRkswMjh4Y0tPSlpBT2Rqb0lNbmxrUmIwYS1qczZuajM4UUhMd3hlQzlEN1R4LUlPYWl2a1ktNGJGUWdkclY4bDd2RnlHU3ZERW9pVE9GbDRfRDB2cGUtXzRZNA?oc=5",
+        "publishedAt": "2026-07-02T18:00:28.000Z"
       },
       {
         "time": "05:14",
@@ -31,11 +45,11 @@
         "publishedAt": "2026-07-02T20:14:56.000Z"
       },
       {
-        "time": "03:00",
-        "title": "第38回 ものづくりワールド東京「スマートメンテナンス展」に出展XGRIDS新製品「Lixel",
+        "time": "01:00",
+        "title": "カミナシ、「メンテナンス・レジリエンス 2026」に出展",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52TDc4SXNCTDBpMjJieXpzV2E0WHdYaEdlRkswMjh4Y0tPSlpBT2Rqb0lNbmxrUmIwYS1qczZuajM4UUhMd3hlQzlEN1R4LUlPYWl2a1ktNGJGUWdkclY4bDd2RnlHU3ZERW9pVE9GbDRfRDB2cGUtXzRZNA?oc=5",
-        "publishedAt": "2026-07-02T18:00:28.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aZW5Nb3JBUTJqT05kbjBGWi1GSnN4QnloVlE2V0E1Zm8zOE1sdnRTM2JxbG9kVGtoWHdUUFpja1h5SlpaU21TSTlSaGZ3VW40ZHJQSW1PcF9Ja092ZExLZkdhUUc2Z2ZqeXc2b29VWVZFX2JpRUlqRU9zVQ?oc=5",
+        "publishedAt": "2026-07-02T16:00:25.000Z"
       },
       {
         "time": "16:03",
@@ -43,20 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdWI1bnppVWZMTEhZbEFleENqbFRXbWtlS3JwbkRjVmRSVzdNZTJOWXZReXNuS0o0TXhIZF9BeGRRZExmN1U2OWt5Nnk0bG4xSGFENw?oc=5",
         "publishedAt": "2026-07-02T07:03:23.000Z"
-      },
-      {
-        "time": "15:50",
-        "title": "第38回 ものづくり ワールド [東京]（機械要素技術展） - shibaura-machine.co.jp",
-        "source": "shibaura-machine.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhQ0l3VzFBcWhQS1JYWFlNZzBwMGxnNHJfZFV0aGNVZ3hPNkQxOXhDMFR3NF90aXlnUDVoNkFQUmRYWFIzbG9EYzV5NkNCSzY2eHcxeW9CRkIwc1FUMkJXeTJ2V0ZEVmZsZnUyaWFlUQ?oc=5",
-        "publishedAt": "2026-07-02T06:50:46.000Z"
-      },
-      {
-        "time": "14:27",
-        "title": "芝浦機械がプラス転換､伊企業と欧州子会社の統合等で覚書締結",
-        "source": "四季報オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91WFd1Uy04QjZycEcxTU9RWDczdXd4c0M1LVNhSGpKb2k4RDZRdkwtd1gxeU4yTjhvTnRnQzVaQk53MmhtQ25xSDR4SWYtQ2FYdXVMdEFWbw?oc=5",
-        "publishedAt": "2026-07-02T05:27:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586534?source=rss",
         "publishedAt": "2026-07-02T21:07:29.000Z"
+      },
+      {
+        "time": "12:20",
+        "title": "半年ぶりの休養 ウ東部で兵士交代",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586569?source=rss",
+        "publishedAt": "2026-07-03T03:20:10.000Z"
+      },
+      {
+        "time": "13:39",
+        "title": "米NYで42℃観測 当局が猛暑警報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586577?source=rss",
+        "publishedAt": "2026-07-03T04:39:10.000Z"
       },
       {
         "time": "23:15",
@@ -82,25 +96,11 @@
         "publishedAt": "2026-07-02T05:09:08.000Z"
       },
       {
-        "time": "11:30",
-        "title": "米「出産旅行」取り締まり強化へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586437?source=rss",
-        "publishedAt": "2026-07-02T02:30:32.000Z"
-      },
-      {
         "time": "18:30",
         "title": "香港返還から29年 市民は冷めた目",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586496?source=rss",
         "publishedAt": "2026-07-02T09:30:47.000Z"
-      },
-      {
-        "time": "23:29",
-        "title": "タイで11歳運転の車暴走 9人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586532?source=rss",
-        "publishedAt": "2026-07-02T14:29:30.000Z"
       }
     ],
     "economyHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-07-02T23:05:34.000Z"
       },
       {
+        "time": "12:12",
+        "title": "フェリーから転落か 男性行方不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586568?source=rss",
+        "publishedAt": "2026-07-03T03:12:32.000Z"
+      },
+      {
         "time": "22:44",
         "title": "市配布の殺虫剤3歳誤飲 県警捜査",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586500?source=rss",
         "publishedAt": "2026-07-02T09:58:06.000Z"
-      },
-      {
-        "time": "07:33",
-        "title": "渋谷の危険盛り土 告発状を受理",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586540?source=rss",
-        "publishedAt": "2026-07-02T22:33:58.000Z"
       }
     ],
     "subsidyHeadlines": [

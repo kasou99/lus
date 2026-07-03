@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T03:13:49.251Z",
+  "updatedAt": "2026-07-03T04:48:11.902Z",
   "items": [
     {
-      "time": "08:44",
-      "title": "日印「蜜月」演出 対中国は温度差",
+      "time": "12:20",
+      "title": "半年ぶりの休養 ウ東部で兵士交代",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586548?source=rss",
-      "publishedAt": "2026-07-02T23:44:40.000Z",
-      "xQuery": "日印「蜜月」演出 対中国は温度差"
-    },
-    {
-      "time": "11:23",
-      "title": "厚労相の事務所数 公選法違反疑い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586562?source=rss",
-      "publishedAt": "2026-07-03T02:23:44.000Z",
-      "xQuery": "厚労相の事務所数 公選法違反疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6586569?source=rss",
+      "publishedAt": "2026-07-03T03:20:10.000Z",
+      "xQuery": "半年ぶりの休養 ウ東部で兵士交代"
     },
     {
       "time": "10:58",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "円の「買う力」40年で半分程度に"
     },
     {
-      "time": "11:43",
-      "title": "手配犯逮捕 似た人いる…の重要性",
+      "time": "12:34",
+      "title": "永住許可手数料 1万円→20万円に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586564?source=rss",
-      "publishedAt": "2026-07-03T02:43:46.000Z",
-      "xQuery": "手配犯逮捕 似た人いる…の重要性"
+      "url": "https://news.yahoo.co.jp/pickup/6586573?source=rss",
+      "publishedAt": "2026-07-03T03:34:10.000Z",
+      "xQuery": "永住許可手数料 1万円→20万円に"
+    },
+    {
+      "time": "12:48",
+      "title": "似た人いる 手配犯逮捕きっかけに",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586575?source=rss",
+      "publishedAt": "2026-07-03T03:48:37.000Z",
+      "xQuery": "似た人いる 手配犯逮捕きっかけに"
     },
     {
       "time": "12:00",
