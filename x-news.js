@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-03T23:54:28.086Z",
+  "updatedAt": "2026-07-04T00:53:34.631Z",
   "items": [
     {
-      "time": "07:17",
-      "title": "九州北部 再び線状降水帯発生恐れ",
+      "time": "09:42",
+      "title": "九州で非常に激しい雨 災害に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586642?source=rss",
-      "publishedAt": "2026-07-03T22:17:47.000Z",
-      "xQuery": "九州北部 再び線状降水帯発生恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6586666?source=rss",
+      "publishedAt": "2026-07-04T00:42:11.000Z",
+      "xQuery": "九州で非常に激しい雨 災害に警戒"
     },
     {
-      "time": "08:16",
-      "title": "在留手数料減額要件厳しく 指針案",
+      "time": "08:49",
+      "title": "ウ東部要衝を「制圧」と露が発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586651?source=rss",
-      "publishedAt": "2026-07-03T23:16:31.000Z",
-      "xQuery": "在留手数料減額要件厳しく 指針案"
+      "url": "https://news.yahoo.co.jp/pickup/6586656?source=rss",
+      "publishedAt": "2026-07-03T23:49:49.000Z",
+      "xQuery": "ウ東部要衝を「制圧」と露が発表"
     },
     {
-      "time": "07:24",
-      "title": "ペルー大統領選 ケイコ氏が当選",
+      "time": "08:45",
+      "title": "5大学に「契約学科」企業と連携へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586644?source=rss",
-      "publishedAt": "2026-07-03T22:24:34.000Z",
-      "xQuery": "ペルー大統領選 ケイコ氏が当選"
+      "url": "https://news.yahoo.co.jp/pickup/6586655?source=rss",
+      "publishedAt": "2026-07-03T23:45:52.000Z",
+      "xQuery": "5大学に「契約学科」企業と連携へ"
     },
     {
       "time": "08:03",
