@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-04T11:56:32.945Z",
+  "updatedAt": "2026-07-04T12:34:30.494Z",
   "items": [
     {
       "time": "19:18",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "不明の10歳死亡 父が声震わせ訴え"
     },
     {
-      "time": "16:33",
-      "title": "職人不足のすし業界 4カ月で育成",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586711?source=rss",
-      "publishedAt": "2026-07-04T07:33:05.000Z",
-      "xQuery": "職人不足のすし業界 4カ月で育成"
-    },
-    {
       "time": "19:54",
       "title": "症状認めたくない 男性更年期障害",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6586731?source=rss",
       "publishedAt": "2026-07-04T10:54:05.000Z",
       "xQuery": "症状認めたくない 男性更年期障害"
+    },
+    {
+      "time": "18:31",
+      "title": "「仮面夫婦」会話ほぼゼロの男性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586723?source=rss",
+      "publishedAt": "2026-07-04T09:31:39.000Z",
+      "xQuery": "「仮面夫婦」会話ほぼゼロの男性"
     }
   ]
 };
