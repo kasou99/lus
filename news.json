@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T13:34:58.296Z",
+  "updatedAt": "2026-07-04T14:35:53.383Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -177,18 +177,18 @@
         "publishedAt": "2026-07-04T06:08:37.000Z"
       },
       {
-        "time": "13:30",
-        "title": "自宅に遺体を遺棄した疑い 女逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586689?source=rss",
-        "publishedAt": "2026-07-04T04:30:42.000Z"
-      },
-      {
         "time": "22:26",
         "title": "寺で仏像11体盗まれる 住職は困惑",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586744?source=rss",
         "publishedAt": "2026-07-04T13:26:59.000Z"
+      },
+      {
+        "time": "22:01",
+        "title": "個人から7.5億円寄付 プール改修",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586740?source=rss",
+        "publishedAt": "2026-07-04T13:01:10.000Z"
       }
     ],
     "subsidyHeadlines": [

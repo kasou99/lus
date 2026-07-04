@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-04T13:34:59.555Z",
+  "updatedAt": "2026-07-04T14:35:53.988Z",
   "items": [
     {
       "time": "22:28",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ハメネイ師の国葬 2000万人参列か"
     },
     {
-      "time": "21:33",
-      "title": "台風9号「猛烈な」勢力に発達",
+      "time": "23:11",
+      "title": "来週後半 梅雨晴れ間で猛烈な暑さ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586737?source=rss",
-      "publishedAt": "2026-07-04T12:33:52.000Z",
-      "xQuery": "台風9号「猛烈な」勢力に発達"
+      "url": "https://news.yahoo.co.jp/pickup/6586748?source=rss",
+      "publishedAt": "2026-07-04T14:11:01.000Z",
+      "xQuery": "来週後半 梅雨晴れ間で猛烈な暑さ"
     },
     {
-      "time": "15:29",
-      "title": "不明の10歳死亡 父が声震わせ訴え",
+      "time": "22:01",
+      "title": "個人から7.5億円寄付 プール改修",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586704?source=rss",
-      "publishedAt": "2026-07-04T06:29:41.000Z",
-      "xQuery": "不明の10歳死亡 父が声震わせ訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6586740?source=rss",
+      "publishedAt": "2026-07-04T13:01:10.000Z",
+      "xQuery": "個人から7.5億円寄付 プール改修"
     },
     {
-      "time": "22:26",
-      "title": "寺で仏像11体盗まれる 住職は困惑",
+      "time": "23:08",
+      "title": "難病で鼻と唇が変形 いじめ言えず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586744?source=rss",
-      "publishedAt": "2026-07-04T13:26:59.000Z",
-      "xQuery": "寺で仏像11体盗まれる 住職は困惑"
+      "url": "https://news.yahoo.co.jp/pickup/6586747?source=rss",
+      "publishedAt": "2026-07-04T14:08:31.000Z",
+      "xQuery": "難病で鼻と唇が変形 いじめ言えず"
     }
   ]
 };
