@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-04T14:35:53.988Z",
+  "updatedAt": "2026-07-04T15:29:07.372Z",
   "items": [
     {
       "time": "22:28",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米建国250年 プーチン氏が祝電"
     },
     {
+      "time": "23:35",
+      "title": "九州北部 週明けにかけ大雨の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586751?source=rss",
+      "publishedAt": "2026-07-04T14:35:17.000Z",
+      "xQuery": "九州北部 週明けにかけ大雨の恐れ"
+    },
+    {
       "time": "17:37",
       "title": "ハメネイ師の国葬 2000万人参列か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6586716?source=rss",
       "publishedAt": "2026-07-04T08:37:42.000Z",
       "xQuery": "ハメネイ師の国葬 2000万人参列か"
-    },
-    {
-      "time": "23:11",
-      "title": "来週後半 梅雨晴れ間で猛烈な暑さ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586748?source=rss",
-      "publishedAt": "2026-07-04T14:11:01.000Z",
-      "xQuery": "来週後半 梅雨晴れ間で猛烈な暑さ"
     },
     {
       "time": "22:01",
