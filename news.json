@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T06:06:46.498Z",
+  "updatedAt": "2026-07-04T07:28:13.687Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-07-04T03:46:00.000Z"
       },
       {
-        "time": "16:15",
-        "title": "DMG森精機社長 森雅彦（5） 62年続く社内報",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdkFNY1pwaGtXdjFpWV92dWdRUzF1MzdUTzFvMXBmNllhRTl4bTA3RTltektSSU1pTXZ3Q29KNFBXVmhMbFpjRFI2NnNoeFZfOE1Ca2FKRnp5T0NLSUhJZUpkU20wVVlBRjREYlR0ejlNTzdBWUJtMzVUUmotN3FsdmliMVl6REwwTnhTVk1TNWU3aEZRQXRadGVvamRRd0dvRV8wUVoybEg?oc=5",
-        "publishedAt": "2026-07-03T07:15:50.000Z"
-      },
-      {
         "time": "11:00",
         "title": "フィジカルAI元年に動く、ロボット・減速機の本命30銘柄｜ナブテスコと同じ潮流に乗る企業を総点検",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0VThuRWVYUGgxRHRDTnAyUFdpd0VjajNiNzJaLW1XelF1WXdiY1J4QjgyZ01xVTZrVFRCWUZmcXBuZ1FJeHlZV3Z4ZE0tdjk0OElsaU9HOGw4UUU?oc=5",
         "publishedAt": "2026-07-04T02:00:00.000Z"
+      },
+      {
+        "time": "16:46",
+        "title": "DMG森精機社長 森雅彦（5） 62年続く社内報",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORHExNDYzNWRUal9UeTBDSTVuR0JRUXF3Z29Ed19maDZNcmswRWFJTnZYSVV0YTI5NzQ4RDdVN2liMWY2S3RNdHZiNElGT2l2STl0MENPend2ZWI4N1hqZ3AyNGJGOFI3OVJLMjBia2FJa0lIYXZ4eV9Gek5KSmhGdFB4cWtxTkRxTnFtUE1leEJiQUxCWi02RXVlYnRZNm1XcXpHcDBXSXVrcW90WHRhSl9PNnF6UQ?oc=5",
+        "publishedAt": "2026-07-03T07:46:47.000Z"
       },
       {
         "time": "20:33",
@@ -96,11 +96,11 @@
         "publishedAt": "2026-07-03T23:49:49.000Z"
       },
       {
-        "time": "08:03",
-        "title": "米独立記念日 熱波でイベ中止続く",
+        "time": "16:05",
+        "title": "タイ女性看護師 戒律破り僧侶救う",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586650?source=rss",
-        "publishedAt": "2026-07-03T23:03:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586705?source=rss",
+        "publishedAt": "2026-07-04T07:05:53.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,18 +126,11 @@
         "publishedAt": "2026-07-03T13:25:15.000Z"
       },
       {
-        "time": "10:10",
-        "title": "外食チェーン 異色コラボ増の背景",
+        "time": "15:20",
+        "title": "伝説のラーメン店復活 玄孫の奮闘",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586670?source=rss",
-        "publishedAt": "2026-07-04T01:10:01.000Z"
-      },
-      {
-        "time": "14:07",
-        "title": "パルコが夏セール中止 背景は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586581?source=rss",
-        "publishedAt": "2026-07-03T05:07:23.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586695?source=rss",
+        "publishedAt": "2026-07-04T06:20:15.000Z"
       },
       {
         "time": "12:19",
@@ -145,9 +138,30 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586681?source=rss",
         "publishedAt": "2026-07-04T03:19:16.000Z"
+      },
+      {
+        "time": "16:05",
+        "title": "「スニーファー」幅広い層に人気",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586707?source=rss",
+        "publishedAt": "2026-07-04T07:05:11.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "15:29",
+        "title": "不明の10歳死亡 父が声震わせ訴え",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586704?source=rss",
+        "publishedAt": "2026-07-04T06:29:41.000Z"
+      },
+      {
+        "time": "15:08",
+        "title": "クマに発砲も 別メンバーに当たる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586701?source=rss",
+        "publishedAt": "2026-07-04T06:08:37.000Z"
+      },
       {
         "time": "13:30",
         "title": "自宅に遺体を遺棄した疑い 女逮捕",
@@ -163,18 +177,11 @@
         "publishedAt": "2026-07-04T05:17:44.000Z"
       },
       {
-        "time": "22:57",
-        "title": "「案件屋」を初めて逮捕 警視庁",
+        "time": "15:26",
+        "title": "ダム湖に遺体 付近で作業員が不明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586636?source=rss",
-        "publishedAt": "2026-07-03T13:57:12.000Z"
-      },
-      {
-        "time": "07:44",
-        "title": "学校火災 教師私服干しを校長謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586647?source=rss",
-        "publishedAt": "2026-07-03T22:44:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586703?source=rss",
+        "publishedAt": "2026-07-04T06:26:49.000Z"
       },
       {
         "time": "14:48",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586699?source=rss",
         "publishedAt": "2026-07-04T05:48:34.000Z"
-      },
-      {
-        "time": "20:11",
-        "title": "わいせつ被害の女性市議 実名会見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586618?source=rss",
-        "publishedAt": "2026-07-03T11:11:16.000Z"
       }
     ],
     "subsidyHeadlines": [

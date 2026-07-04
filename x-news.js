@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-04T06:06:47.307Z",
+  "updatedAt": "2026-07-04T07:28:14.508Z",
   "items": [
     {
-      "time": "14:33",
-      "title": "6日にかけ断続的雨 土砂災害警戒",
+      "time": "13:15",
+      "title": "大雨もたらす「大気の川」流量増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586697?source=rss",
-      "publishedAt": "2026-07-04T05:33:26.000Z",
-      "xQuery": "6日にかけ断続的雨 土砂災害警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6586688?source=rss",
+      "publishedAt": "2026-07-04T04:15:47.000Z",
+      "xQuery": "大雨もたらす「大気の川」流量増"
     },
     {
-      "time": "13:33",
-      "title": "建国250年 トランプ氏が実績誇示",
+      "time": "14:10",
+      "title": "熱波のパリ周辺 1週間の死者6割増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586690?source=rss",
-      "publishedAt": "2026-07-04T04:33:40.000Z",
-      "xQuery": "建国250年 トランプ氏が実績誇示"
+      "url": "https://news.yahoo.co.jp/pickup/6586692?source=rss",
+      "publishedAt": "2026-07-04T05:10:14.000Z",
+      "xQuery": "熱波のパリ周辺 1週間の死者6割増"
     },
     {
-      "time": "13:30",
-      "title": "自宅に遺体を遺棄した疑い 女逮捕",
+      "time": "15:29",
+      "title": "不明の10歳死亡 父が声震わせ訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586689?source=rss",
-      "publishedAt": "2026-07-04T04:30:42.000Z",
-      "xQuery": "自宅に遺体を遺棄した疑い 女逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6586704?source=rss",
+      "publishedAt": "2026-07-04T06:29:41.000Z",
+      "xQuery": "不明の10歳死亡 父が声震わせ訴え"
     },
     {
-      "time": "14:17",
-      "title": "小6はねたか 殺人未遂疑いで逮捕",
+      "time": "15:08",
+      "title": "クマに発砲も 別メンバーに当たる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586694?source=rss",
-      "publishedAt": "2026-07-04T05:17:44.000Z",
-      "xQuery": "小6はねたか 殺人未遂疑いで逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6586701?source=rss",
+      "publishedAt": "2026-07-04T06:08:37.000Z",
+      "xQuery": "クマに発砲も 別メンバーに当たる"
     },
     {
-      "time": "12:19",
-      "title": "「るるぶ」みたいなカレー ヒット",
+      "time": "16:05",
+      "title": "タイ女性看護師 戒律破り僧侶救う",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586681?source=rss",
-      "publishedAt": "2026-07-04T03:19:16.000Z",
-      "xQuery": "「るるぶ」みたいなカレー ヒット"
+      "url": "https://news.yahoo.co.jp/pickup/6586705?source=rss",
+      "publishedAt": "2026-07-04T07:05:53.000Z",
+      "xQuery": "タイ女性看護師 戒律破り僧侶救う"
     }
   ]
 };
