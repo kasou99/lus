@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T20:25:16.030Z",
+  "updatedAt": "2026-07-04T20:49:55.241Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fQVVkSXpXUjVQazFpa3FMUU1WRXdldlo4dl85akhIbUNVYW9XYVFYd1FIVEJjTXFxbUVna2Q4bndWcktidldKSnZVY2RPck0?oc=5",
         "publishedAt": "2026-07-04T01:00:00.000Z"
-      },
-      {
-        "time": "05:40",
-        "title": "次世代設備保全クラウドの株式会社M2X、株式会社京都プラテックの導入事例を公開",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QMVotVEZwSzVuZFo3SUtXcndDLXM0M1hDSUtncEdBZmpHTGEyNXpJcXBfZE1oeDJfbGpsM0c4MDlwOXVuMzMxcmtBcmR6VEsxZkNkOUNNN0g4Sk5zSFBEVUhYVGcwZ3hRM2U4?oc=5",
-        "publishedAt": "2026-07-03T20:40:00.000Z"
       },
       {
         "time": "11:00",
@@ -57,6 +50,13 @@
         "source": "Note",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55MnlaYVdpZ0RrdTZGQjl6YTVzQnluZ3FCSUZ0SExRX05YSkpBa3hNc0ZZTHR3SmdLVWQxZjRKQ3FuWUJDZHc5czBFTGxaRUFNZTZOT09YckhqdDQ?oc=5",
         "publishedAt": "2026-07-03T22:52:55.000Z"
+      },
+      {
+        "time": "08:28",
+        "title": "大手企業と中小 消えぬ賃上げ格差",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586653?source=rss",
+        "publishedAt": "2026-07-03T23:28:08.000Z"
       }
     ],
     "worldHeadlines": [
