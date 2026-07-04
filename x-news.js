@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-04T12:34:30.494Z",
+  "updatedAt": "2026-07-04T13:34:59.555Z",
   "items": [
     {
-      "time": "19:18",
-      "title": "露のキーウ攻撃 甚大な被害の理由",
+      "time": "22:28",
+      "title": "米建国250年 プーチン氏が祝電",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586726?source=rss",
-      "publishedAt": "2026-07-04T10:18:53.000Z",
-      "xQuery": "露のキーウ攻撃 甚大な被害の理由"
+      "url": "https://news.yahoo.co.jp/pickup/6586743?source=rss",
+      "publishedAt": "2026-07-04T13:28:01.000Z",
+      "xQuery": "米建国250年 プーチン氏が祝電"
     },
     {
       "time": "17:37",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "ハメネイ師の国葬 2000万人参列か"
     },
     {
+      "time": "21:33",
+      "title": "台風9号「猛烈な」勢力に発達",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586737?source=rss",
+      "publishedAt": "2026-07-04T12:33:52.000Z",
+      "xQuery": "台風9号「猛烈な」勢力に発達"
+    },
+    {
       "time": "15:29",
       "title": "不明の10歳死亡 父が声震わせ訴え",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "不明の10歳死亡 父が声震わせ訴え"
     },
     {
-      "time": "19:54",
-      "title": "症状認めたくない 男性更年期障害",
+      "time": "22:26",
+      "title": "寺で仏像11体盗まれる 住職は困惑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586731?source=rss",
-      "publishedAt": "2026-07-04T10:54:05.000Z",
-      "xQuery": "症状認めたくない 男性更年期障害"
-    },
-    {
-      "time": "18:31",
-      "title": "「仮面夫婦」会話ほぼゼロの男性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586723?source=rss",
-      "publishedAt": "2026-07-04T09:31:39.000Z",
-      "xQuery": "「仮面夫婦」会話ほぼゼロの男性"
+      "url": "https://news.yahoo.co.jp/pickup/6586744?source=rss",
+      "publishedAt": "2026-07-04T13:26:59.000Z",
+      "xQuery": "寺で仏像11体盗まれる 住職は困惑"
     }
   ]
 };

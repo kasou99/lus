@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T12:34:29.909Z",
+  "updatedAt": "2026-07-04T13:34:58.296Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5N2l6d0I4YjRxZTljMDRMVm82UWktT0VoNDJodEtIV3oxTWRBMEVfc29aTk5pbG1GR3dDX2JqM2p3NFlKd0dGVTRNam1ZekdwMG91UFgxeDlVRFk?oc=5",
         "publishedAt": "2026-07-04T02:00:00.000Z"
+      },
+      {
+        "time": "21:33",
+        "title": "【画像】DeNA写真ギャラリー／7・4",
+        "source": "サンスポ",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uMWp3bG1fbnRBRFRBaDhoWkhoZThBMjRHTGpRSkRWM3RSLXhxNTVaR2RoTWItYVhYZ2RMTEV4SHBTem9WNEo3blV5ckpkODJZZmdYV0NCNXJTOHZKZ0Jqc0F2RXBNV0p2aXR6TVFjMDVUVkNMb0E?oc=5",
+        "publishedAt": "2026-07-04T12:33:23.000Z"
       },
       {
         "time": "12:46",
@@ -50,29 +57,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586653?source=rss",
         "publishedAt": "2026-07-03T23:28:08.000Z"
-      },
-      {
-        "time": "22:25",
-        "title": "トヨタ自動車 株主数が5年で2.5倍",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586631?source=rss",
-        "publishedAt": "2026-07-03T13:25:15.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "22:28",
+        "title": "米建国250年 プーチン氏が祝電",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586743?source=rss",
+        "publishedAt": "2026-07-04T13:28:01.000Z"
+      },
       {
         "time": "14:10",
         "title": "熱波のパリ周辺 1週間の死者6割増",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586692?source=rss",
         "publishedAt": "2026-07-04T05:10:14.000Z"
-      },
-      {
-        "time": "13:33",
-        "title": "建国250年 トランプ氏が実績誇示",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586690?source=rss",
-        "publishedAt": "2026-07-04T04:33:40.000Z"
       },
       {
         "time": "19:18",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-07-04T04:30:42.000Z"
       },
       {
-        "time": "14:17",
-        "title": "小6はねたか 殺人未遂疑いで逮捕",
+        "time": "22:26",
+        "title": "寺で仏像11体盗まれる 住職は困惑",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586694?source=rss",
-        "publishedAt": "2026-07-04T05:17:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586744?source=rss",
+        "publishedAt": "2026-07-04T13:26:59.000Z"
       }
     ],
     "subsidyHeadlines": [
