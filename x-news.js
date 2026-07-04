@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-04T23:25:11.774Z",
+  "updatedAt": "2026-07-04T23:51:19.336Z",
   "items": [
     {
       "time": "07:37",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "露 ウ東部要衝への砲撃停止を提案"
     },
     {
-      "time": "17:37",
-      "title": "ハメネイ師の国葬 2000万人参列か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586716?source=rss",
-      "publishedAt": "2026-07-04T08:37:42.000Z",
-      "xQuery": "ハメネイ師の国葬 2000万人参列か"
-    },
-    {
       "time": "08:12",
       "title": "ヒグマ目撃 山で4人一時立ち往生",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586757?source=rss",
       "publishedAt": "2026-07-04T22:33:06.000Z",
       "xQuery": "2人乗りバイクから転落 女性死亡"
+    },
+    {
+      "time": "08:22",
+      "title": "NY早食い 須藤美貴さんが12回目V",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586763?source=rss",
+      "publishedAt": "2026-07-04T23:22:12.000Z",
+      "xQuery": "NY早食い 須藤美貴さんが12回目V"
     }
   ]
 };

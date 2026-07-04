@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T23:25:11.180Z",
+  "updatedAt": "2026-07-04T23:51:18.560Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -68,6 +68,13 @@
         "publishedAt": "2026-07-04T22:58:25.000Z"
       },
       {
+        "time": "08:45",
+        "title": "米独立記念日 首都ではデモ行進",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586766?source=rss",
+        "publishedAt": "2026-07-04T23:45:59.000Z"
+      },
+      {
         "time": "22:28",
         "title": "米建国250年 プーチン氏が祝電",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586708?source=rss",
         "publishedAt": "2026-07-04T07:32:41.000Z"
-      },
-      {
-        "time": "19:38",
-        "title": "W杯アフリカ勢躍進 自賛する中国",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586729?source=rss",
-        "publishedAt": "2026-07-04T10:38:39.000Z"
       }
     ],
     "economyHeadlines": [
