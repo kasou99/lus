@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T09:19:43.345Z",
+  "updatedAt": "2026-07-04T10:17:46.483Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "18:50",
+        "title": "九州豪雨6年 村全体が限界集落化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586724?source=rss",
+        "publishedAt": "2026-07-04T09:50:12.000Z"
+      },
+      {
         "time": "15:29",
         "title": "不明の10歳死亡 父が声震わせ訴え",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586703?source=rss",
         "publishedAt": "2026-07-04T06:26:49.000Z"
-      },
-      {
-        "time": "14:48",
-        "title": "転覆事故後初の大規模集会 辺野古",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586699?source=rss",
-        "publishedAt": "2026-07-04T05:48:34.000Z"
       }
     ],
     "subsidyHeadlines": [

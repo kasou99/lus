@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-04T09:19:44.018Z",
+  "updatedAt": "2026-07-04T10:17:47.251Z",
   "items": [
     {
-      "time": "15:06",
-      "title": "高市政権 エネ巡りにじむ対露配慮",
+      "time": "18:50",
+      "title": "九州豪雨6年 村全体が限界集落化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586696?source=rss",
-      "publishedAt": "2026-07-04T06:06:17.000Z",
-      "xQuery": "高市政権 エネ巡りにじむ対露配慮"
+      "url": "https://news.yahoo.co.jp/pickup/6586724?source=rss",
+      "publishedAt": "2026-07-04T09:50:12.000Z",
+      "xQuery": "九州豪雨6年 村全体が限界集落化"
     },
     {
-      "time": "16:32",
-      "title": "ドイツ 中国大使呼び出し懸念表明",
+      "time": "14:48",
+      "title": "転覆事故後初の大規模集会 辺野古",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586708?source=rss",
-      "publishedAt": "2026-07-04T07:32:41.000Z",
-      "xQuery": "ドイツ 中国大使呼び出し懸念表明"
+      "url": "https://news.yahoo.co.jp/pickup/6586699?source=rss",
+      "publishedAt": "2026-07-04T05:48:34.000Z",
+      "xQuery": "転覆事故後初の大規模集会 辺野古"
     },
     {
       "time": "15:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "不明の10歳死亡 父が声震わせ訴え"
     },
     {
-      "time": "15:08",
-      "title": "クマに発砲も 別メンバーに当たる",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586701?source=rss",
-      "publishedAt": "2026-07-04T06:08:37.000Z",
-      "xQuery": "クマに発砲も 別メンバーに当たる"
-    },
-    {
       "time": "17:21",
       "title": "無煙たばこ 口腔学会トップが警告",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6586715?source=rss",
       "publishedAt": "2026-07-04T08:21:44.000Z",
       "xQuery": "無煙たばこ 口腔学会トップが警告"
+    },
+    {
+      "time": "18:31",
+      "title": "「仮面夫婦」会話ほぼゼロの男性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586723?source=rss",
+      "publishedAt": "2026-07-04T09:31:39.000Z",
+      "xQuery": "「仮面夫婦」会話ほぼゼロの男性"
     }
   ]
 };
