@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-04T07:28:14.508Z",
+  "updatedAt": "2026-07-04T08:25:04.415Z",
   "items": [
+    {
+      "time": "15:06",
+      "title": "高市政権 エネ巡りにじむ対露配慮",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586696?source=rss",
+      "publishedAt": "2026-07-04T06:06:17.000Z",
+      "xQuery": "高市政権 エネ巡りにじむ対露配慮"
+    },
     {
       "time": "13:15",
       "title": "大雨もたらす「大気の川」流量増",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大雨もたらす「大気の川」流量増"
     },
     {
-      "time": "14:10",
-      "title": "熱波のパリ周辺 1週間の死者6割増",
+      "time": "16:32",
+      "title": "ドイツ 中国大使呼び出し懸念表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586692?source=rss",
-      "publishedAt": "2026-07-04T05:10:14.000Z",
-      "xQuery": "熱波のパリ周辺 1週間の死者6割増"
+      "url": "https://news.yahoo.co.jp/pickup/6586708?source=rss",
+      "publishedAt": "2026-07-04T07:32:41.000Z",
+      "xQuery": "ドイツ 中国大使呼び出し懸念表明"
     },
     {
       "time": "15:29",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "不明の10歳死亡 父が声震わせ訴え"
     },
     {
-      "time": "15:08",
-      "title": "クマに発砲も 別メンバーに当たる",
+      "time": "16:29",
+      "title": "「スニーファー」支持増 なぜ人気",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586701?source=rss",
-      "publishedAt": "2026-07-04T06:08:37.000Z",
-      "xQuery": "クマに発砲も 別メンバーに当たる"
-    },
-    {
-      "time": "16:05",
-      "title": "タイ女性看護師 戒律破り僧侶救う",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586705?source=rss",
-      "publishedAt": "2026-07-04T07:05:53.000Z",
-      "xQuery": "タイ女性看護師 戒律破り僧侶救う"
+      "url": "https://news.yahoo.co.jp/pickup/6586713?source=rss",
+      "publishedAt": "2026-07-04T07:29:48.000Z",
+      "xQuery": "「スニーファー」支持増 なぜ人気"
     }
   ]
 };
