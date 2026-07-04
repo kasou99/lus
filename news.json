@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-04T19:32:34.028Z",
+  "updatedAt": "2026-07-04T20:25:16.030Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "DMG森精機社長・森雅彦さん 工作機械の長い歴史、発展とともに",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWjBlbHBseFVGUHZBYnp5bGZ5eTA2dlBfYW8ySTYtaUkxc3RWODY0YXZuOHIwUUtVcXFxUWtzS3NLRU8yR004VUUyZGxTMVBqR2FxWE85U1lDWGVmSnFmU3FwQ2doOTc2dHFwdFBDOWNkNW1mR3NpeXZKeE5CWXJITlBxZHo0UVdiSHFfdU9tZDNjamozSlhRZy1uQ2hoaVE4WDg3Rkt3?oc=5",
+        "publishedAt": "2026-07-04T20:00:00.000Z"
+      },
       {
         "time": "10:00",
         "title": "工作機械用クーラントフィルターの世界市場（2026年～2032年）、市場規模（機械式カートリッジフィルター、ペーパーテープフィルター、磁気分離フィルター、複合タイプ）・分...",
@@ -19,7 +26,7 @@
       {
         "time": "11:00",
         "title": "決算ラッシュ前に組む監視リスト｜受注が潮目を作る機械・ロボット関連30社｜日本個別株デューデリジェンスセンター",
-        "source": "note",
+        "source": "Note",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5N2l6d0I4YjRxZTljMDRMVm82UWktT0VoNDJodEtIV3oxTWRBMEVfc29aTk5pbG1GR3dDX2JqM2p3NFlKd0dGVTRNam1ZekdwMG91UFgxeDlVRFk?oc=5",
         "publishedAt": "2026-07-04T02:00:00.000Z"
       },
@@ -40,23 +47,16 @@
       {
         "time": "11:00",
         "title": "フィジカルAI元年に動く、ロボット・減速機の本命30銘柄｜ナブテスコと同じ潮流に乗る企業を総点検",
-        "source": "note",
+        "source": "Note",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0VThuRWVYUGgxRHRDTnAyUFdpd0VjajNiNzJaLW1XelF1WXdiY1J4QjgyZ01xVTZrVFRCWUZmcXBuZ1FJeHlZV3Z4ZE0tdjk0OElsaU9HOGw4UUU?oc=5",
         "publishedAt": "2026-07-04T02:00:00.000Z"
       },
       {
         "time": "07:52",
         "title": "ファナックと安川の陰に、もう一社のロボットメーカー｜割安圏に沈む不二越（6474）の再評価",
-        "source": "note",
+        "source": "Note",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55MnlaYVdpZ0RrdTZGQjl6YTVzQnluZ3FCSUZ0SExRX05YSkpBa3hNc0ZZTHR3SmdLVWQxZjRKQ3FuWUJDZHc5czBFTGxaRUFNZTZOT09YckhqdDQ?oc=5",
         "publishedAt": "2026-07-03T22:52:55.000Z"
-      },
-      {
-        "time": "08:28",
-        "title": "大手企業と中小 消えぬ賃上げ格差",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586653?source=rss",
-        "publishedAt": "2026-07-03T23:28:08.000Z"
       }
     ],
     "worldHeadlines": [
