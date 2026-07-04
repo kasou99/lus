@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-04T22:50:16.081Z",
+  "updatedAt": "2026-07-04T23:25:11.774Z",
   "items": [
-    {
-      "time": "22:28",
-      "title": "米建国250年 プーチン氏が祝電",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586743?source=rss",
-      "publishedAt": "2026-07-04T13:28:01.000Z",
-      "xQuery": "米建国250年 プーチン氏が祝電"
-    },
     {
       "time": "07:37",
       "title": "九州北部で大雨 土砂災害など警戒",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586756?source=rss",
       "publishedAt": "2026-07-04T22:37:03.000Z",
       "xQuery": "九州北部で大雨 土砂災害など警戒"
+    },
+    {
+      "time": "07:58",
+      "title": "露 ウ東部要衝への砲撃停止を提案",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586760?source=rss",
+      "publishedAt": "2026-07-04T22:58:25.000Z",
+      "xQuery": "露 ウ東部要衝への砲撃停止を提案"
     },
     {
       "time": "17:37",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ハメネイ師の国葬 2000万人参列か"
     },
     {
+      "time": "08:12",
+      "title": "ヒグマ目撃 山で4人一時立ち往生",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586762?source=rss",
+      "publishedAt": "2026-07-04T23:12:12.000Z",
+      "xQuery": "ヒグマ目撃 山で4人一時立ち往生"
+    },
+    {
       "time": "07:33",
       "title": "2人乗りバイクから転落 女性死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6586757?source=rss",
       "publishedAt": "2026-07-04T22:33:06.000Z",
       "xQuery": "2人乗りバイクから転落 女性死亡"
-    },
-    {
-      "time": "22:01",
-      "title": "個人から7.5億円寄付 プール改修",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586740?source=rss",
-      "publishedAt": "2026-07-04T13:01:10.000Z",
-      "xQuery": "個人から7.5億円寄付 プール改修"
     }
   ]
 };

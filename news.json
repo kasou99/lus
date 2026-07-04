@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T22:50:14.980Z",
+  "updatedAt": "2026-07-04T23:25:11.180Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fQVVkSXpXUjVQazFpa3FMUU1WRXdldlo4dl85akhIbUNVYW9XYVFYd1FIVEJjTXFxbUVna2Q4bndWcktidldKSnZVY2RPck0?oc=5",
         "publishedAt": "2026-07-04T01:00:00.000Z"
+      },
+      {
+        "time": "05:05",
+        "title": "「マルガー」の竹野さん優勝 「ジェラートマエストロ」 砂糖使わず健康配慮を評価",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JSWpDVUh0cUljRjhfN2pId3ZsdXlCU2hOUEU5a3p2ckxtRWEtOXlOaG9ZazlYNHQ4YmFTTi1EeERtc084RmtiNWxnTEZsRDJERk56UkFFZ2pFSXlBQjVCMmk4Z0hUSDZoZklUR044YVRYcXhWRnFPU19LbzRmSGvSAX9BVV95cUxNSUlqQ1VIdHFJY0Y4XzdqSHd2bHV5QlNoTlBFOWt6dnJMbUVhLTl5TmhvWWs5WDR0OGJhU04tRHhEbXNPOEZrYjVsZ0xGbEQyREZOelJBRWdqRUl5QUI1QjJpOGdIVEg2aGZJVEdOOGFUWHF4VkZxT1NfS280Zkhr?oc=5",
+        "publishedAt": "2026-07-04T20:05:00.000Z"
       },
       {
         "time": "11:00",
@@ -45,13 +52,6 @@
         "publishedAt": "2026-07-04T02:00:00.000Z"
       },
       {
-        "time": "07:52",
-        "title": "ファナックと安川の陰に、もう一社のロボットメーカー｜割安圏に沈む不二越（6474）の再評価",
-        "source": "Note",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55MnlaYVdpZ0RrdTZGQjl6YTVzQnluZ3FCSUZ0SExRX05YSkpBa3hNc0ZZTHR3SmdLVWQxZjRKQ3FuWUJDZHc5czBFTGxaRUFNZTZOT09YckhqdDQ?oc=5",
-        "publishedAt": "2026-07-03T22:52:55.000Z"
-      },
-      {
         "time": "08:28",
         "title": "大手企業と中小 消えぬ賃上げ格差",
         "source": "Yahoo!ニュース",
@@ -61,18 +61,18 @@
     ],
     "worldHeadlines": [
       {
+        "time": "07:58",
+        "title": "露 ウ東部要衝への砲撃停止を提案",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586760?source=rss",
+        "publishedAt": "2026-07-04T22:58:25.000Z"
+      },
+      {
         "time": "22:28",
         "title": "米建国250年 プーチン氏が祝電",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586743?source=rss",
         "publishedAt": "2026-07-04T13:28:01.000Z"
-      },
-      {
-        "time": "14:10",
-        "title": "熱波のパリ周辺 1週間の死者6割増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586692?source=rss",
-        "publishedAt": "2026-07-04T05:10:14.000Z"
       },
       {
         "time": "19:18",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-07-04T08:37:42.000Z"
       },
       {
-        "time": "09:18",
-        "title": "政治二極化 米国で進む「部族化」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586662?source=rss",
-        "publishedAt": "2026-07-04T00:18:30.000Z"
-      },
-      {
         "time": "16:32",
         "title": "ドイツ 中国大使呼び出し懸念表明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586708?source=rss",
         "publishedAt": "2026-07-04T07:32:41.000Z"
+      },
+      {
+        "time": "19:38",
+        "title": "W杯アフリカ勢躍進 自賛する中国",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586729?source=rss",
+        "publishedAt": "2026-07-04T10:38:39.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "18:50",
-        "title": "九州豪雨6年 村全体が限界集落化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586724?source=rss",
-        "publishedAt": "2026-07-04T09:50:12.000Z"
-      },
-      {
         "time": "15:29",
         "title": "不明の10歳死亡 父が声震わせ訴え",
         "source": "Yahoo!ニュース",
@@ -168,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586757?source=rss",
         "publishedAt": "2026-07-04T22:33:06.000Z"
+      },
+      {
+        "time": "08:12",
+        "title": "ヒグマ目撃 山で4人一時立ち往生",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586762?source=rss",
+        "publishedAt": "2026-07-04T23:12:12.000Z"
       },
       {
         "time": "15:08",
