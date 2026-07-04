@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-04T03:12:13.944Z",
+  "updatedAt": "2026-07-04T04:45:42.332Z",
   "items": [
     {
-      "time": "09:42",
-      "title": "九州で非常に激しい雨 災害に警戒",
+      "time": "12:38",
+      "title": "九州北部 断続的に非常に激しい雨",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586666?source=rss",
-      "publishedAt": "2026-07-04T00:42:11.000Z",
-      "xQuery": "九州で非常に激しい雨 災害に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6586685?source=rss",
+      "publishedAt": "2026-07-04T03:38:25.000Z",
+      "xQuery": "九州北部 断続的に非常に激しい雨"
     },
     {
-      "time": "11:55",
-      "title": "ハメネイ師国葬 イラン葬儀の歴史",
+      "time": "13:33",
+      "title": "建国250年 トランプ氏が実績誇示",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586678?source=rss",
-      "publishedAt": "2026-07-04T02:55:43.000Z",
-      "xQuery": "ハメネイ師国葬 イラン葬儀の歴史"
+      "url": "https://news.yahoo.co.jp/pickup/6586690?source=rss",
+      "publishedAt": "2026-07-04T04:33:40.000Z",
+      "xQuery": "建国250年 トランプ氏が実績誇示"
     },
     {
-      "time": "11:58",
-      "title": "3党合流実現へ中道らに党名変更論",
+      "time": "13:30",
+      "title": "自宅に遺体を遺棄した疑い 女逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586682?source=rss",
-      "publishedAt": "2026-07-04T02:58:37.000Z",
-      "xQuery": "3党合流実現へ中道らに党名変更論"
-    },
-    {
-      "time": "10:13",
-      "title": "消費税減税 取りまとめ不透明に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586668?source=rss",
-      "publishedAt": "2026-07-04T01:13:23.000Z",
-      "xQuery": "消費税減税 取りまとめ不透明に"
+      "url": "https://news.yahoo.co.jp/pickup/6586689?source=rss",
+      "publishedAt": "2026-07-04T04:30:42.000Z",
+      "xQuery": "自宅に遺体を遺棄した疑い 女逮捕"
     },
     {
       "time": "10:10",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586670?source=rss",
       "publishedAt": "2026-07-04T01:10:01.000Z",
       "xQuery": "外食チェーン 異色コラボ増の背景"
+    },
+    {
+      "time": "12:19",
+      "title": "「るるぶ」みたいなカレー ヒット",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586681?source=rss",
+      "publishedAt": "2026-07-04T03:19:16.000Z",
+      "xQuery": "「るるぶ」みたいなカレー ヒット"
     }
   ]
 };
