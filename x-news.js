@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-04T01:40:27.380Z",
+  "updatedAt": "2026-07-04T03:12:13.944Z",
   "items": [
     {
       "time": "09:42",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "九州で非常に激しい雨 災害に警戒"
     },
     {
-      "time": "08:49",
-      "title": "ウ東部要衝を「制圧」と露が発表",
+      "time": "11:55",
+      "title": "ハメネイ師国葬 イラン葬儀の歴史",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586656?source=rss",
-      "publishedAt": "2026-07-03T23:49:49.000Z",
-      "xQuery": "ウ東部要衝を「制圧」と露が発表"
+      "url": "https://news.yahoo.co.jp/pickup/6586678?source=rss",
+      "publishedAt": "2026-07-04T02:55:43.000Z",
+      "xQuery": "ハメネイ師国葬 イラン葬儀の歴史"
     },
     {
-      "time": "08:45",
-      "title": "5大学に「契約学科」企業と連携へ",
+      "time": "11:58",
+      "title": "3党合流実現へ中道らに党名変更論",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586655?source=rss",
-      "publishedAt": "2026-07-03T23:45:52.000Z",
-      "xQuery": "5大学に「契約学科」企業と連携へ"
+      "url": "https://news.yahoo.co.jp/pickup/6586682?source=rss",
+      "publishedAt": "2026-07-04T02:58:37.000Z",
+      "xQuery": "3党合流実現へ中道らに党名変更論"
     },
     {
-      "time": "08:28",
-      "title": "大手企業と中小 消えぬ賃上げ格差",
+      "time": "10:13",
+      "title": "消費税減税 取りまとめ不透明に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586653?source=rss",
-      "publishedAt": "2026-07-03T23:28:08.000Z",
-      "xQuery": "大手企業と中小 消えぬ賃上げ格差"
+      "url": "https://news.yahoo.co.jp/pickup/6586668?source=rss",
+      "publishedAt": "2026-07-04T01:13:23.000Z",
+      "xQuery": "消費税減税 取りまとめ不透明に"
     },
     {
-      "time": "09:35",
-      "title": "元市議78歳 高校生活をやり直す",
+      "time": "10:10",
+      "title": "外食チェーン 異色コラボ増の背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586665?source=rss",
-      "publishedAt": "2026-07-04T00:35:01.000Z",
-      "xQuery": "元市議78歳 高校生活をやり直す"
+      "url": "https://news.yahoo.co.jp/pickup/6586670?source=rss",
+      "publishedAt": "2026-07-04T01:10:01.000Z",
+      "xQuery": "外食チェーン 異色コラボ増の背景"
     }
   ]
 };
