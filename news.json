@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T10:17:46.483Z",
+  "updatedAt": "2026-07-04T11:04:57.934Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,6 +75,13 @@
         "publishedAt": "2026-07-04T04:33:40.000Z"
       },
       {
+        "time": "19:18",
+        "title": "露のキーウ攻撃 甚大な被害の理由",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586726?source=rss",
+        "publishedAt": "2026-07-04T10:18:53.000Z"
+      },
+      {
         "time": "17:37",
         "title": "ハメネイ師の国葬 2000万人参列か",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586708?source=rss",
         "publishedAt": "2026-07-04T07:32:41.000Z"
-      },
-      {
-        "time": "08:49",
-        "title": "ウ東部要衝を「制圧」と露が発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586656?source=rss",
-        "publishedAt": "2026-07-03T23:49:49.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-07-04T09:50:12.000Z"
       },
       {
+        "time": "19:47",
+        "title": "幼なじみ2人 後悔胸に消防隊員に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586730?source=rss",
+        "publishedAt": "2026-07-04T10:47:19.000Z"
+      },
+      {
         "time": "15:29",
         "title": "不明の10歳死亡 父が声震わせ訴え",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586694?source=rss",
         "publishedAt": "2026-07-04T05:17:44.000Z"
-      },
-      {
-        "time": "15:26",
-        "title": "ダム湖に遺体 付近で作業員が不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586703?source=rss",
-        "publishedAt": "2026-07-04T06:26:49.000Z"
       }
     ],
     "subsidyHeadlines": [

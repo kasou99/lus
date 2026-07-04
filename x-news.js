@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-04T10:17:47.251Z",
+  "updatedAt": "2026-07-04T11:04:58.954Z",
   "items": [
     {
       "time": "18:50",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "九州豪雨6年 村全体が限界集落化"
     },
     {
-      "time": "14:48",
-      "title": "転覆事故後初の大規模集会 辺野古",
+      "time": "19:18",
+      "title": "露のキーウ攻撃 甚大な被害の理由",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586699?source=rss",
-      "publishedAt": "2026-07-04T05:48:34.000Z",
-      "xQuery": "転覆事故後初の大規模集会 辺野古"
+      "url": "https://news.yahoo.co.jp/pickup/6586726?source=rss",
+      "publishedAt": "2026-07-04T10:18:53.000Z",
+      "xQuery": "露のキーウ攻撃 甚大な被害の理由"
     },
     {
-      "time": "15:29",
-      "title": "不明の10歳死亡 父が声震わせ訴え",
+      "time": "19:47",
+      "title": "幼なじみ2人 後悔胸に消防隊員に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586704?source=rss",
-      "publishedAt": "2026-07-04T06:29:41.000Z",
-      "xQuery": "不明の10歳死亡 父が声震わせ訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6586730?source=rss",
+      "publishedAt": "2026-07-04T10:47:19.000Z",
+      "xQuery": "幼なじみ2人 後悔胸に消防隊員に"
     },
     {
-      "time": "17:21",
-      "title": "無煙たばこ 口腔学会トップが警告",
+      "time": "19:54",
+      "title": "症状認めたくない 男性更年期障害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586715?source=rss",
-      "publishedAt": "2026-07-04T08:21:44.000Z",
-      "xQuery": "無煙たばこ 口腔学会トップが警告"
+      "url": "https://news.yahoo.co.jp/pickup/6586731?source=rss",
+      "publishedAt": "2026-07-04T10:54:05.000Z",
+      "xQuery": "症状認めたくない 男性更年期障害"
     },
     {
       "time": "18:31",
