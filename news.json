@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-04T00:53:33.688Z",
+  "updatedAt": "2026-07-04T01:40:26.594Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "10:00",
+        "title": "工作機械用クーラントフィルターの世界市場（2026年～2032年）、市場規模（機械式カートリッジフィルター、ペーパーテープフィルター、磁気分離フィルター、複合タイプ）・分...",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fQVVkSXpXUjVQazFpa3FMUU1WRXdldlo4dl85akhIbUNVYW9XYVFYd1FIVEJjTXFxbUVna2Q4bndWcktidldKSnZVY2RPck0?oc=5",
+        "publishedAt": "2026-07-04T01:00:00.000Z"
+      },
       {
         "time": "05:40",
         "title": "次世代設備保全クラウドの株式会社M2X、株式会社京都プラテックの導入事例を公開",
@@ -50,13 +57,6 @@
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSG5qdW0zNnZRX1NZSThReG5vb1kzQk91X0FiN29Xa1pOWkhMVVllbXhfZXhHdW1ISXRJTXpxMTl4Ry1YVElQRkx6MUVkX1U4SHN5M1V5d3ZIRzdTUkRHSDV0SHBRTjRzaFM1Zi1sZHcxc1VrN3QzdENYaXZleVZXQ0xIYXlnODZYR3hOZGlqNHVoQkE?oc=5",
         "publishedAt": "2026-07-03T11:33:13.000Z"
-      },
-      {
-        "time": "07:52",
-        "title": "ファナックと安川の陰に、もう一社のロボットメーカー｜割安圏に沈む不二越（6474）の再評価",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55MnlaYVdpZ0RrdTZGQjl6YTVzQnluZ3FCSUZ0SExRX05YSkpBa3hNc0ZZTHR3SmdLVWQxZjRKQ3FuWUJDZHc5czBFTGxaRUFNZTZOT09YckhqdDQ?oc=5",
-        "publishedAt": "2026-07-03T22:52:55.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-07-03T13:25:15.000Z"
       },
       {
+        "time": "10:10",
+        "title": "外食チェーン 異色コラボ増の背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586670?source=rss",
+        "publishedAt": "2026-07-04T01:10:01.000Z"
+      },
+      {
         "time": "14:07",
         "title": "パルコが夏セール中止 背景は",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586581?source=rss",
         "publishedAt": "2026-07-03T05:07:23.000Z"
-      },
-      {
-        "time": "18:11",
-        "title": "湖池屋 菓子20品目を10月値上げ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586612?source=rss",
-        "publishedAt": "2026-07-03T09:11:28.000Z"
       }
     ],
     "localHeadlines": [

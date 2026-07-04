@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-04T00:53:34.631Z",
+  "updatedAt": "2026-07-04T01:40:27.380Z",
   "items": [
     {
       "time": "09:42",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "5大学に「契約学科」企業と連携へ"
     },
     {
-      "time": "08:03",
-      "title": "米独立記念日 熱波でイベ中止続く",
+      "time": "08:28",
+      "title": "大手企業と中小 消えぬ賃上げ格差",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586650?source=rss",
-      "publishedAt": "2026-07-03T23:03:47.000Z",
-      "xQuery": "米独立記念日 熱波でイベ中止続く"
+      "url": "https://news.yahoo.co.jp/pickup/6586653?source=rss",
+      "publishedAt": "2026-07-03T23:28:08.000Z",
+      "xQuery": "大手企業と中小 消えぬ賃上げ格差"
     },
     {
-      "time": "07:44",
-      "title": "学校火災 教師私服干しを校長謝罪",
+      "time": "09:35",
+      "title": "元市議78歳 高校生活をやり直す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586647?source=rss",
-      "publishedAt": "2026-07-03T22:44:22.000Z",
-      "xQuery": "学校火災 教師私服干しを校長謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6586665?source=rss",
+      "publishedAt": "2026-07-04T00:35:01.000Z",
+      "xQuery": "元市議78歳 高校生活をやり直す"
     }
   ]
 };
