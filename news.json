@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T11:04:57.934Z",
+  "updatedAt": "2026-07-04T11:56:32.147Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-07-04T02:00:00.000Z"
       },
       {
-        "time": "20:33",
-        "title": "ベトナムの機械工学分野は、新技術のおかげでグローバルサプライチェーンへと移行しつつある。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSG5qdW0zNnZRX1NZSThReG5vb1kzQk91X0FiN29Xa1pOWkhMVVllbXhfZXhHdW1ISXRJTXpxMTl4Ry1YVElQRkx6MUVkX1U4SHN5M1V5d3ZIRzdTUkRHSDV0SHBRTjRzaFM1Zi1sZHcxc1VrN3QzdENYaXZleVZXQ0xIYXlnODZYR3hOZGlqNHVoQkE?oc=5",
-        "publishedAt": "2026-07-03T11:33:13.000Z"
-      },
-      {
         "time": "07:52",
         "title": "ファナックと安川の陰に、もう一社のロボットメーカー｜割安圏に沈む不二越（6474）の再評価",
         "source": "note",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586653?source=rss",
         "publishedAt": "2026-07-03T23:28:08.000Z"
+      },
+      {
+        "time": "22:25",
+        "title": "トヨタ自動車 株主数が5年で2.5倍",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586631?source=rss",
+        "publishedAt": "2026-07-03T13:25:15.000Z"
       }
     ],
     "worldHeadlines": [
