@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-04T04:45:42.332Z",
+  "updatedAt": "2026-07-04T06:06:47.307Z",
   "items": [
     {
-      "time": "12:38",
-      "title": "九州北部 断続的に非常に激しい雨",
+      "time": "14:33",
+      "title": "6日にかけ断続的雨 土砂災害警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586685?source=rss",
-      "publishedAt": "2026-07-04T03:38:25.000Z",
-      "xQuery": "九州北部 断続的に非常に激しい雨"
+      "url": "https://news.yahoo.co.jp/pickup/6586697?source=rss",
+      "publishedAt": "2026-07-04T05:33:26.000Z",
+      "xQuery": "6日にかけ断続的雨 土砂災害警戒"
     },
     {
       "time": "13:33",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "自宅に遺体を遺棄した疑い 女逮捕"
     },
     {
-      "time": "10:10",
-      "title": "外食チェーン 異色コラボ増の背景",
+      "time": "14:17",
+      "title": "小6はねたか 殺人未遂疑いで逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586670?source=rss",
-      "publishedAt": "2026-07-04T01:10:01.000Z",
-      "xQuery": "外食チェーン 異色コラボ増の背景"
+      "url": "https://news.yahoo.co.jp/pickup/6586694?source=rss",
+      "publishedAt": "2026-07-04T05:17:44.000Z",
+      "xQuery": "小6はねたか 殺人未遂疑いで逮捕"
     },
     {
       "time": "12:19",
