@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T21:27:35.457Z",
+  "updatedAt": "2026-07-05T21:53:50.304Z",
   "items": [
     {
       "time": "22:00",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "高市内閣の支持率65.9% JNN"
     },
     {
-      "time": "21:40",
-      "title": "米建国250年 行事の私物化批判も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586853?source=rss",
-      "publishedAt": "2026-07-05T12:40:03.000Z",
-      "xQuery": "米建国250年 行事の私物化批判も"
-    },
-    {
       "time": "21:54",
       "title": "スイミング大会中に溺れ 男性死亡",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スイミング大会中に溺れ 男性死亡"
     },
     {
-      "time": "00:49",
-      "title": "ヒグマ事故 羅臼岳で登山道再開",
+      "time": "23:36",
+      "title": "警察学校生が容疑者を追う 男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586871?source=rss",
-      "publishedAt": "2026-07-05T15:49:49.000Z",
-      "xQuery": "ヒグマ事故 羅臼岳で登山道再開"
+      "url": "https://news.yahoo.co.jp/pickup/6586869?source=rss",
+      "publishedAt": "2026-07-05T14:36:09.000Z",
+      "xQuery": "警察学校生が容疑者を追う 男逮捕"
+    },
+    {
+      "time": "06:41",
+      "title": "路上喫煙の過料「2万円」市の狙い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586874?source=rss",
+      "publishedAt": "2026-07-05T21:41:51.000Z",
+      "xQuery": "路上喫煙の過料「2万円」市の狙い"
     }
   ]
 };
