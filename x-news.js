@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-04T23:51:19.336Z",
+  "updatedAt": "2026-07-05T00:58:44.200Z",
   "items": [
     {
-      "time": "07:37",
-      "title": "九州北部で大雨 土砂災害など警戒",
+      "time": "08:45",
+      "title": "米独立記念日 首都ではデモ行進",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586756?source=rss",
-      "publishedAt": "2026-07-04T22:37:03.000Z",
-      "xQuery": "九州北部で大雨 土砂災害など警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6586766?source=rss",
+      "publishedAt": "2026-07-04T23:45:59.000Z",
+      "xQuery": "米独立記念日 首都ではデモ行進"
     },
     {
-      "time": "07:58",
-      "title": "露 ウ東部要衝への砲撃停止を提案",
+      "time": "08:33",
+      "title": "障害者事業所への運営指導 低迷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586760?source=rss",
-      "publishedAt": "2026-07-04T22:58:25.000Z",
-      "xQuery": "露 ウ東部要衝への砲撃停止を提案"
+      "url": "https://news.yahoo.co.jp/pickup/6586765?source=rss",
+      "publishedAt": "2026-07-04T23:33:16.000Z",
+      "xQuery": "障害者事業所への運営指導 低迷"
     },
     {
       "time": "08:12",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "2人乗りバイクから転落 女性死亡"
     },
     {
-      "time": "08:22",
-      "title": "NY早食い 須藤美貴さんが12回目V",
+      "time": "09:44",
+      "title": "工場にオオサンショウウオ 騒然",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586763?source=rss",
-      "publishedAt": "2026-07-04T23:22:12.000Z",
-      "xQuery": "NY早食い 須藤美貴さんが12回目V"
+      "url": "https://news.yahoo.co.jp/pickup/6586775?source=rss",
+      "publishedAt": "2026-07-05T00:44:58.000Z",
+      "xQuery": "工場にオオサンショウウオ 騒然"
     }
   ]
 };
