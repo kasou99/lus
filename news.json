@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T09:09:28.973Z",
+  "updatedAt": "2026-07-05T10:18:27.646Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -96,11 +96,11 @@
         "publishedAt": "2026-07-04T23:45:59.000Z"
       },
       {
-        "time": "09:43",
-        "title": "ハメネイ師国葬 「復讐」の叫び",
+        "time": "19:04",
+        "title": "猛暑のパリ セーヌ川での遊泳人気",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586773?source=rss",
-        "publishedAt": "2026-07-05T00:43:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586835?source=rss",
+        "publishedAt": "2026-07-05T10:04:41.000Z"
       }
     ],
     "economyHeadlines": [
@@ -177,11 +177,11 @@
         "publishedAt": "2026-07-05T06:36:57.000Z"
       },
       {
-        "time": "10:50",
-        "title": "歩が死んだ 娘の死知った母の記憶",
+        "time": "18:53",
+        "title": "樹齢100年超か 岡山後楽園で倒木",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586781?source=rss",
-        "publishedAt": "2026-07-05T01:50:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586833?source=rss",
+        "publishedAt": "2026-07-05T09:53:38.000Z"
       },
       {
         "time": "15:36",
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金のポイント解説",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-07-01T07:00:00.000Z"
       }
     ]
   }

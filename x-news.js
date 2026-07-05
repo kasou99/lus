@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T09:09:30.311Z",
+  "updatedAt": "2026-07-05T10:18:28.575Z",
   "items": [
     {
-      "time": "17:04",
-      "title": "九州北部警戒 夜から再び雨強まる",
+      "time": "18:40",
+      "title": "石破氏 消費減税の財源巡り苦言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586821?source=rss",
-      "publishedAt": "2026-07-05T08:04:00.000Z",
-      "xQuery": "九州北部警戒 夜から再び雨強まる"
+      "url": "https://news.yahoo.co.jp/pickup/6586832?source=rss",
+      "publishedAt": "2026-07-05T09:40:24.000Z",
+      "xQuery": "石破氏 消費減税の財源巡り苦言"
     },
     {
-      "time": "17:19",
-      "title": "バイクの同乗者が転落後死亡 逮捕",
+      "time": "17:55",
+      "title": "自民県幹部に現金渡した 県議証言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586823?source=rss",
-      "publishedAt": "2026-07-05T08:19:01.000Z",
-      "xQuery": "バイクの同乗者が転落後死亡 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6586826?source=rss",
+      "publishedAt": "2026-07-05T08:55:38.000Z",
+      "xQuery": "自民県幹部に現金渡した 県議証言"
     },
     {
       "time": "15:36",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "10代女性暴行され重体 19歳男逮捕"
     },
     {
-      "time": "16:41",
-      "title": "離婚届見せられ不貞行為 責任は",
+      "time": "18:53",
+      "title": "樹齢100年超か 岡山後楽園で倒木",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586816?source=rss",
-      "publishedAt": "2026-07-05T07:41:32.000Z",
-      "xQuery": "離婚届見せられ不貞行為 責任は"
+      "url": "https://news.yahoo.co.jp/pickup/6586833?source=rss",
+      "publishedAt": "2026-07-05T09:53:38.000Z",
+      "xQuery": "樹齢100年超か 岡山後楽園で倒木"
     },
     {
-      "time": "16:32",
-      "title": "まるで玩具「舌がん」学ぶグッズ",
+      "time": "18:29",
+      "title": "AIと1日8時間超会話 男性の告白",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586815?source=rss",
-      "publishedAt": "2026-07-05T07:32:30.000Z",
-      "xQuery": "まるで玩具「舌がん」学ぶグッズ"
+      "url": "https://news.yahoo.co.jp/pickup/6586831?source=rss",
+      "publishedAt": "2026-07-05T09:29:33.000Z",
+      "xQuery": "AIと1日8時間超会話 男性の告白"
     }
   ]
 };
