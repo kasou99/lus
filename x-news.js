@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T11:13:04.175Z",
+  "updatedAt": "2026-07-05T12:00:04.027Z",
   "items": [
     {
       "time": "19:16",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "九州北部 土砂災害など厳重警戒を"
     },
     {
-      "time": "16:50",
-      "title": "安倍晋三氏をしのぶ会 昭恵氏謝辞",
+      "time": "17:01",
+      "title": "中露が軍事演習発表 日本けん制か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586818?source=rss",
-      "publishedAt": "2026-07-05T07:50:36.000Z",
-      "xQuery": "安倍晋三氏をしのぶ会 昭恵氏謝辞"
+      "url": "https://news.yahoo.co.jp/pickup/6586820?source=rss",
+      "publishedAt": "2026-07-05T08:01:02.000Z",
+      "xQuery": "中露が軍事演習発表 日本けん制か"
     },
     {
-      "time": "18:40",
-      "title": "石破氏 消費減税の財源巡り苦言",
+      "time": "20:39",
+      "title": "橋から車が転落し大破 男性が重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586832?source=rss",
-      "publishedAt": "2026-07-05T09:40:24.000Z",
-      "xQuery": "石破氏 消費減税の財源巡り苦言"
+      "url": "https://news.yahoo.co.jp/pickup/6586847?source=rss",
+      "publishedAt": "2026-07-05T11:39:16.000Z",
+      "xQuery": "橋から車が転落し大破 男性が重体"
     },
     {
-      "time": "19:57",
-      "title": "温泉施設で5歳不明 手がかりなし",
+      "time": "20:57",
+      "title": "市長選候補「仙人」得票2割の衝撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586842?source=rss",
-      "publishedAt": "2026-07-05T10:57:44.000Z",
-      "xQuery": "温泉施設で5歳不明 手がかりなし"
+      "url": "https://news.yahoo.co.jp/pickup/6586848?source=rss",
+      "publishedAt": "2026-07-05T11:57:46.000Z",
+      "xQuery": "市長選候補「仙人」得票2割の衝撃"
     },
     {
-      "time": "18:29",
-      "title": "AIと1日8時間超会話 男性の告白",
+      "time": "20:15",
+      "title": "銀座に異変 大衆チェーン続々出店",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586831?source=rss",
-      "publishedAt": "2026-07-05T09:29:33.000Z",
-      "xQuery": "AIと1日8時間超会話 男性の告白"
+      "url": "https://news.yahoo.co.jp/pickup/6586843?source=rss",
+      "publishedAt": "2026-07-05T11:15:01.000Z",
+      "xQuery": "銀座に異変 大衆チェーン続々出店"
     }
   ]
 };

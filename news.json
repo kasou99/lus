@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T11:13:03.575Z",
+  "updatedAt": "2026-07-05T12:00:03.403Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-07-04T23:52:02.000Z"
       },
       {
-        "time": "21:33",
-        "title": "【画像】DeNA写真ギャラリー／7・4",
-        "source": "サンスポ",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uMWp3bG1fbnRBRFRBaDhoWkhoZThBMjRHTGpRSkRWM3RSLXhxNTVaR2RoTWItYVhYZ2RMTEV4SHBTem9WNEo3blV5ckpkODJZZmdYV0NCNXJTOHZKZ0Jqc0F2RXBNV0p2aXR6TVFjMDVUVkNMb0E?oc=5",
-        "publishedAt": "2026-07-04T12:33:23.000Z"
-      },
-      {
         "time": "18:00",
         "title": "(株)ツガミ【6101】：株価・株式情報（夜間PTS含む）",
         "source": "Yahoo!ファイナンス",
@@ -50,6 +43,13 @@
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41b0dHSUR0U3N4Zk1HcUNFaUFNWVpHQVVZeHR6dHRCbHMteHV2Sm1NT0tQd3V0MlRucERxZVhvSzBsdHlaVEFkZVFuS0lxNTliMFVMc1hkUmdTeldUWmNkLXpIVjNhNGtFSl9IUVRHcDAxZ0hPcjFJbGdrYw?oc=5",
         "publishedAt": "2026-07-05T05:53:00.000Z"
+      },
+      {
+        "time": "21:33",
+        "title": "【画像】DeNA写真ギャラリー／7・4",
+        "source": "サンスポ",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uMWp3bG1fbnRBRFRBaDhoWkhoZThBMjRHTGpRSkRWM3RSLXhxNTVaR2RoTWItYVhYZ2RMTEV4SHBTem9WNEo3blV5ckpkODJZZmdYV0NCNXJTOHZKZ0Jqc0F2RXBNV0p2aXR6TVFjMDVUVkNMb0E?oc=5",
+        "publishedAt": "2026-07-04T12:33:23.000Z"
       },
       {
         "time": "14:58",
@@ -126,6 +126,13 @@
         "publishedAt": "2026-07-05T05:15:11.000Z"
       },
       {
+        "time": "20:15",
+        "title": "銀座に異変 大衆チェーン続々出店",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586843?source=rss",
+        "publishedAt": "2026-07-05T11:15:01.000Z"
+      },
+      {
         "time": "17:22",
         "title": "タクシー運転手 若返りの兆しも",
         "source": "Yahoo!ニュース",
@@ -133,27 +140,20 @@
         "publishedAt": "2026-07-05T08:22:00.000Z"
       },
       {
-        "time": "15:20",
-        "title": "伝説のラーメン店復活 玄孫の奮闘",
+        "time": "20:33",
+        "title": "昭和レトロで転機 V字回復の企業",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586695?source=rss",
-        "publishedAt": "2026-07-04T06:20:15.000Z"
-      },
-      {
-        "time": "16:33",
-        "title": "職人不足のすし業界 4カ月で育成",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586711?source=rss",
-        "publishedAt": "2026-07-04T07:33:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586846?source=rss",
+        "publishedAt": "2026-07-05T11:33:22.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "13:39",
-        "title": "首相お膝元の知事選 与党対決か",
+        "time": "20:19",
+        "title": "滋賀知事選 三日月大造氏4選確実",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586794?source=rss",
-        "publishedAt": "2026-07-05T04:39:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586844?source=rss",
+        "publishedAt": "2026-07-05T11:19:15.000Z"
       },
       {
         "time": "17:55",
@@ -163,11 +163,11 @@
         "publishedAt": "2026-07-05T08:55:38.000Z"
       },
       {
-        "time": "17:19",
-        "title": "バイクの同乗者が転落後死亡 逮捕",
+        "time": "20:57",
+        "title": "市長選候補「仙人」得票2割の衝撃",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586823?source=rss",
-        "publishedAt": "2026-07-05T08:19:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586848?source=rss",
+        "publishedAt": "2026-07-05T11:57:46.000Z"
       },
       {
         "time": "15:36",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-07-05T06:36:57.000Z"
       },
       {
+        "time": "20:39",
+        "title": "橋から車が転落し大破 男性が重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586847?source=rss",
+        "publishedAt": "2026-07-05T11:39:16.000Z"
+      },
+      {
         "time": "19:57",
         "title": "温泉施設で5歳不明 手がかりなし",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586842?source=rss",
         "publishedAt": "2026-07-05T10:57:44.000Z"
-      },
-      {
-        "time": "15:36",
-        "title": "富士登山 軽装巡り客と押し問答も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586806?source=rss",
-        "publishedAt": "2026-07-05T06:36:21.000Z"
       }
     ],
     "subsidyHeadlines": [
