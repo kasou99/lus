@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-05T19:33:23.492Z",
+  "updatedAt": "2026-07-05T20:29:13.117Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:02",
+        "title": "DMG森精機、伊賀事業所公開 工作機械のデジタル・自動化推進",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45X3pZVjVSTlVWaGlkS1BrTUJERkwzQ3p0cnUzdUV2elJ0SFl2OUp4czVjQXA0SHVUUFR4Q0x3MVVVb19JWTZjY0RrdF9pMVc5SjZfUXRvY0FDeE0?oc=5",
+        "publishedAt": "2026-07-05T20:02:35.000Z"
+      },
       {
         "time": "23:40",
         "title": "次世代設備保全クラウドの株式会社M2X、株式会社京都プラテックの導入事例を公開",
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QMVotVEZwSzVuZFo3SUtXcndDLXM0M1hDSUtncEdBZmpHTGEyNXpJcXBfZE1oeDJfbGpsM0c4MDlwOXVuMzMxcmtBcmR6VEsxZkNkOUNNN0g4Sk5zSFBEVUhYVGcwZ3hRM2U4?oc=5",
         "publishedAt": "2026-07-05T14:40:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "DMG森精機社長・森雅彦さん 工作機械の長い歴史、発展とともに",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5dHJ6ZmZrdnJ3QUhBMnpXTml5RExZbFZ3YjQwSDRRcVpidVRPZ3pORlIzRXdyMWhhTFQ1U2F6aFJKSjJmMDhnT01zQ1FzNVNsXzNBa1VBRjlDLURTYXg3UUpOQnVnQXhMcGxEeg?oc=5",
-        "publishedAt": "2026-07-04T20:00:00.000Z"
       },
       {
         "time": "10:21",
@@ -24,11 +24,11 @@
         "publishedAt": "2026-07-05T01:21:50.000Z"
       },
       {
-        "time": "08:52",
-        "title": "AI博、東海で初開催 製造現場改善に直結",
+        "time": "05:04",
+        "title": "For Future 先端技術（214）大阪公立大学 スマートビルOS実証",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vLWxybmlUbGRIV21RUnd3YnNFMmdJcmI2akp2OVpiNzh4RnVfS2NIVDBUOVVjeFBrY0pycUFwUm4yNFpHS0NRbkJtaE5WWlg5QXBUdmlBTDdzMWsydGhXeFRzcEJvVHRtVVM4M05uZlNJZ2Rq?oc=5",
-        "publishedAt": "2026-07-04T23:52:02.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PcDV2NnJpNGdKRDVXX2RfelVPcGtLNEphVDNSRHJYM1dkYnVoZHZTNFkwRDZuVlFieG1WV0hjSEF0UXUzREE4NEZJdTg0c2F3b0I2LWdtYU9laHc?oc=5",
+        "publishedAt": "2026-07-05T20:04:33.000Z"
       },
       {
         "time": "18:00",
@@ -36,13 +36,6 @@
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qT2NrZ21VTVpvcVdDaUF6RVVYZkFRWlUybklfRkRLS0I3WkFROW5VbG0zNXlHbTBERTVQU05FYWJ1S0p6Y0MzbXFMQUszUHpBb3c?oc=5",
         "publishedAt": "2026-07-05T09:00:00.000Z"
-      },
-      {
-        "time": "05:05",
-        "title": "「マルガー」の竹野さん優勝 「ジェラートマエストロ」 砂糖使わず健康配慮を評価",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JSWpDVUh0cUljRjhfN2pId3ZsdXlCU2hOUEU5a3p2ckxtRWEtOXlOaG9ZazlYNHQ4YmFTTi1EeERtc084RmtiNWxnTEZsRDJERk56UkFFZ2pFSXlBQjVCMmk4Z0hUSDZoZklUR044YVRYcXhWRnFPU19LbzRmSGvSAX9BVV95cUxNSUlqQ1VIdHFJY0Y4XzdqSHd2bHV5QlNoTlBFOWt6dnJMbUVhLTl5TmhvWWs5WDR0OGJhU04tRHhEbXNPOEZrYjVsZ0xGbEQyREZOelJBRWdqRUl5QUI1QjJpOGdIVEg2aGZJVEdOOGFUWHF4VkZxT1NfS280Zkhr?oc=5",
-        "publishedAt": "2026-07-04T20:05:00.000Z"
       },
       {
         "time": "14:58",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586863?source=rss",
         "publishedAt": "2026-07-05T13:27:08.000Z"
+      },
+      {
+        "time": "16:02",
+        "title": "供給過多 新米3000円割れ予想も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586808?source=rss",
+        "publishedAt": "2026-07-05T07:02:42.000Z"
       }
     ],
     "worldHeadlines": [
