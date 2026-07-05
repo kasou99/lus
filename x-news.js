@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T21:53:50.304Z",
+  "updatedAt": "2026-07-05T22:25:36.552Z",
   "items": [
     {
-      "time": "22:00",
-      "title": "九州北部で非常に激しい雨か 警戒",
+      "time": "07:21",
+      "title": "九州～東海 激しい雨や落雷に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586856?source=rss",
-      "publishedAt": "2026-07-05T13:00:20.000Z",
-      "xQuery": "九州北部で非常に激しい雨か 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6586877?source=rss",
+      "publishedAt": "2026-07-05T22:21:12.000Z",
+      "xQuery": "九州～東海 激しい雨や落雷に注意"
     },
     {
       "time": "23:21",
