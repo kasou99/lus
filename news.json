@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T22:51:32.871Z",
+  "updatedAt": "2026-07-05T23:27:45.196Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,11 +89,11 @@
         "publishedAt": "2026-07-05T08:01:02.000Z"
       },
       {
-        "time": "07:58",
-        "title": "露 ウ東部要衝への砲撃停止を提案",
+        "time": "08:04",
+        "title": "露「制圧」要衝 ウが砲撃停止拒否",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586760?source=rss",
-        "publishedAt": "2026-07-04T22:58:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586881?source=rss",
+        "publishedAt": "2026-07-05T23:04:48.000Z"
       },
       {
         "time": "19:04",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:01",
+        "title": "6歳の娘を殺害した疑い 父親逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586885?source=rss",
+        "publishedAt": "2026-07-05T23:01:38.000Z"
+      },
+      {
         "time": "22:09",
         "title": "滋賀知事選 三日月大造氏が4選",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586849?source=rss",
         "publishedAt": "2026-07-05T12:08:43.000Z"
-      },
-      {
-        "time": "15:36",
-        "title": "10代女性暴行され重体 19歳男逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586807?source=rss",
-        "publishedAt": "2026-07-05T06:36:57.000Z"
       },
       {
         "time": "21:54",

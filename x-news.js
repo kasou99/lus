@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T22:51:33.615Z",
+  "updatedAt": "2026-07-05T23:27:45.801Z",
   "items": [
     {
       "time": "07:21",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "九州～東海 激しい雨や落雷に注意"
     },
     {
+      "time": "08:04",
+      "title": "露「制圧」要衝 ウが砲撃停止拒否",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586881?source=rss",
+      "publishedAt": "2026-07-05T23:04:48.000Z",
+      "xQuery": "露「制圧」要衝 ウが砲撃停止拒否"
+    },
+    {
       "time": "07:27",
       "title": "防衛省に新たな局を増設へ調整",
       "source": "Yahoo!ニュース",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "防衛省に新たな局を増設へ調整"
     },
     {
-      "time": "21:54",
-      "title": "スイミング大会中に溺れ 男性死亡",
+      "time": "08:01",
+      "title": "6歳の娘を殺害した疑い 父親逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586857?source=rss",
-      "publishedAt": "2026-07-05T12:54:54.000Z",
-      "xQuery": "スイミング大会中に溺れ 男性死亡"
-    },
-    {
-      "time": "23:36",
-      "title": "警察学校生が容疑者を追う 男逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586869?source=rss",
-      "publishedAt": "2026-07-05T14:36:09.000Z",
-      "xQuery": "警察学校生が容疑者を追う 男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6586885?source=rss",
+      "publishedAt": "2026-07-05T23:01:38.000Z",
+      "xQuery": "6歳の娘を殺害した疑い 父親逮捕"
     },
     {
       "time": "06:41",
