@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T23:27:45.801Z",
+  "updatedAt": "2026-07-05T23:54:55.789Z",
   "items": [
     {
       "time": "07:21",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "防衛省に新たな局を増設へ調整"
     },
     {
+      "time": "07:56",
+      "title": "「クマ不安」欠席とせず 各地学校",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586882?source=rss",
+      "publishedAt": "2026-07-05T22:56:12.000Z",
+      "xQuery": "「クマ不安」欠席とせず 各地学校"
+    },
+    {
       "time": "08:01",
       "title": "6歳の娘を殺害した疑い 父親逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6586885?source=rss",
       "publishedAt": "2026-07-05T23:01:38.000Z",
       "xQuery": "6歳の娘を殺害した疑い 父親逮捕"
-    },
-    {
-      "time": "06:41",
-      "title": "路上喫煙の過料「2万円」市の狙い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586874?source=rss",
-      "publishedAt": "2026-07-05T21:41:51.000Z",
-      "xQuery": "路上喫煙の過料「2万円」市の狙い"
     }
   ]
 };

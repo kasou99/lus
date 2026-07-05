@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T23:27:45.196Z",
+  "updatedAt": "2026-07-05T23:54:55.339Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-07-05T01:21:50.000Z"
       },
       {
-        "time": "05:04",
-        "title": "For Future 先端技術（214）大阪公立大学 スマートビルOS実証",
+        "time": "07:46",
+        "title": "TKC、最新の自治体DX紹介 宇都宮でイベント",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PcDV2NnJpNGdKRDVXX2RfelVPcGtLNEphVDNSRHJYM1dkYnVoZHZTNFkwRDZuVlFieG1WV0hjSEF0UXUzREE4NEZJdTg0c2F3b0I2LWdtYU9laHc?oc=5",
-        "publishedAt": "2026-07-05T20:04:33.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HWVZkWkdlaDhPekEyUWZPVDJlXzFfRlVxYlJ6bDQzSnl1RHJrZWVVOVp0OTVzTFc3TFBlTE1vSFJVMWtRclNzTjI5eFVGR1JyZXhCTllBamg0S3plaXJsTC1iVXNfUkVkb1R5TG9CVUZoSnp3NFdUSGM0Zw?oc=5",
+        "publishedAt": "2026-07-05T22:46:08.000Z"
       },
       {
         "time": "18:00",
@@ -156,13 +156,6 @@
         "publishedAt": "2026-07-05T23:01:38.000Z"
       },
       {
-        "time": "22:09",
-        "title": "滋賀知事選 三日月大造氏が4選",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586861?source=rss",
-        "publishedAt": "2026-07-05T13:09:21.000Z"
-      },
-      {
         "time": "20:57",
         "title": "市長選候補「仙人」得票2割の衝撃",
         "source": "Yahoo!ニュース",
@@ -175,6 +168,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586849?source=rss",
         "publishedAt": "2026-07-05T12:08:43.000Z"
+      },
+      {
+        "time": "08:43",
+        "title": "寺に放火疑い 僧侶見習いを逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586887?source=rss",
+        "publishedAt": "2026-07-05T23:43:55.000Z"
       },
       {
         "time": "21:54",
