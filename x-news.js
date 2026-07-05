@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T03:15:20.234Z",
+  "updatedAt": "2026-07-05T04:50:54.535Z",
   "items": [
     {
-      "time": "11:16",
-      "title": "九州北部大雨 昼過ぎまで厳重警戒",
+      "time": "13:31",
+      "title": "西～東日本 6日にかけ大雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586785?source=rss",
-      "publishedAt": "2026-07-05T02:16:20.000Z",
-      "xQuery": "九州北部大雨 昼過ぎまで厳重警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6586793?source=rss",
+      "publishedAt": "2026-07-05T04:31:10.000Z",
+      "xQuery": "西～東日本 6日にかけ大雨の恐れ"
     },
     {
-      "time": "09:34",
-      "title": "「維新2法案」カギ握る首相の判断",
+      "time": "11:05",
+      "title": "米露首脳 90分近く電話で会談",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586771?source=rss",
-      "publishedAt": "2026-07-05T00:34:34.000Z",
-      "xQuery": "「維新2法案」カギ握る首相の判断"
+      "url": "https://news.yahoo.co.jp/pickup/6586783?source=rss",
+      "publishedAt": "2026-07-05T02:05:48.000Z",
+      "xQuery": "米露首脳 90分近く電話で会談"
     },
     {
-      "time": "11:18",
-      "title": "犯罪組織プリンスGの幹部 再逮捕",
+      "time": "12:30",
+      "title": "武装勢力拠点に響く 長渕の乾杯",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586784?source=rss",
-      "publishedAt": "2026-07-05T02:18:12.000Z",
-      "xQuery": "犯罪組織プリンスGの幹部 再逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6586787?source=rss",
+      "publishedAt": "2026-07-05T03:30:51.000Z",
+      "xQuery": "武装勢力拠点に響く 長渕の乾杯"
     },
     {
-      "time": "10:50",
-      "title": "歩が死んだ 娘の死知った母の記憶",
+      "time": "12:57",
+      "title": "バイクから女性転落 運転手が出頭",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586781?source=rss",
-      "publishedAt": "2026-07-05T01:50:37.000Z",
-      "xQuery": "歩が死んだ 娘の死知った母の記憶"
+      "url": "https://news.yahoo.co.jp/pickup/6586790?source=rss",
+      "publishedAt": "2026-07-05T03:57:38.000Z",
+      "xQuery": "バイクから女性転落 運転手が出頭"
     },
     {
-      "time": "11:46",
-      "title": "スクイーズにのめり込み 貯金が底",
+      "time": "12:24",
+      "title": "クマに襲われ 山菜取りの男性けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586786?source=rss",
-      "publishedAt": "2026-07-05T02:46:16.000Z",
-      "xQuery": "スクイーズにのめり込み 貯金が底"
+      "url": "https://news.yahoo.co.jp/pickup/6586788?source=rss",
+      "publishedAt": "2026-07-05T03:24:06.000Z",
+      "xQuery": "クマに襲われ 山菜取りの男性けが"
     }
   ]
 };
