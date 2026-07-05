@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T00:58:43.370Z",
+  "updatedAt": "2026-07-05T01:41:46.127Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5dHJ6ZmZrdnJ3QUhBMnpXTml5RExZbFZ3YjQwSDRRcVpidVRPZ3pORlIzRXdyMWhhTFQ1U2F6aFJKSjJmMDhnT01zQ1FzNVNsXzNBa1VBRjlDLURTYXg3UUpOQnVnQXhMcGxEeg?oc=5",
         "publishedAt": "2026-07-04T20:00:00.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "工作機械用クーラントフィルターの世界市場（2026年～2032年）、市場規模（機械式カートリッジフィルター、ペーパーテープフィルター、磁気分離フィルター、複合タイプ）・分...",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fQVVkSXpXUjVQazFpa3FMUU1WRXdldlo4dl85akhIbUNVYW9XYVFYd1FIVEJjTXFxbUVna2Q4bndWcktidldKSnZVY2RPck0?oc=5",
-        "publishedAt": "2026-07-04T01:00:00.000Z"
       },
       {
         "time": "05:05",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586653?source=rss",
         "publishedAt": "2026-07-03T23:28:08.000Z"
+      },
+      {
+        "time": "22:25",
+        "title": "トヨタ自動車 株主数が5年で2.5倍",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586631?source=rss",
+        "publishedAt": "2026-07-03T13:25:15.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-07-04T22:33:06.000Z"
       },
       {
+        "time": "10:35",
+        "title": "娘の命を突然奪われ 母が語る記憶",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586778?source=rss",
+        "publishedAt": "2026-07-05T01:35:48.000Z"
+      },
+      {
         "time": "08:12",
         "title": "ヒグマ目撃 山で4人一時立ち往生",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586744?source=rss",
         "publishedAt": "2026-07-04T13:26:59.000Z"
-      },
-      {
-        "time": "22:01",
-        "title": "個人から7.5億円寄付 プール改修",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586740?source=rss",
-        "publishedAt": "2026-07-04T13:01:10.000Z"
       }
     ],
     "subsidyHeadlines": [
