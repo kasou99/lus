@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T14:37:00.768Z",
+  "updatedAt": "2026-07-05T15:31:31.271Z",
   "items": [
     {
       "time": "22:00",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "九州北部で非常に激しい雨か 警戒"
     },
     {
-      "time": "22:24",
-      "title": "はやぶさ2 小惑星の通過観測成功",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586862?source=rss",
-      "publishedAt": "2026-07-05T13:24:55.000Z",
-      "xQuery": "はやぶさ2 小惑星の通過観測成功"
-    },
-    {
       "time": "23:21",
       "title": "高市内閣の支持率65.9% JNN",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "高市内閣の支持率65.9% JNN"
     },
     {
-      "time": "19:05",
-      "title": "終盤国会「空回し」の異常事態",
+      "time": "21:40",
+      "title": "米建国250年 行事の私物化批判も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586834?source=rss",
-      "publishedAt": "2026-07-05T10:05:50.000Z",
-      "xQuery": "終盤国会「空回し」の異常事態"
+      "url": "https://news.yahoo.co.jp/pickup/6586853?source=rss",
+      "publishedAt": "2026-07-05T12:40:03.000Z",
+      "xQuery": "米建国250年 行事の私物化批判も"
     },
     {
-      "time": "21:08",
-      "title": "4歳不明から30年 男の行方を捜査",
+      "time": "21:54",
+      "title": "スイミング大会中に溺れ 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586849?source=rss",
-      "publishedAt": "2026-07-05T12:08:43.000Z",
-      "xQuery": "4歳不明から30年 男の行方を捜査"
+      "url": "https://news.yahoo.co.jp/pickup/6586857?source=rss",
+      "publishedAt": "2026-07-05T12:54:54.000Z",
+      "xQuery": "スイミング大会中に溺れ 男性死亡"
+    },
+    {
+      "time": "22:10",
+      "title": "ヒグマ襲った羅臼岳に 次々と入山",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586859?source=rss",
+      "publishedAt": "2026-07-05T13:10:22.000Z",
+      "xQuery": "ヒグマ襲った羅臼岳に 次々と入山"
     }
   ]
 };
