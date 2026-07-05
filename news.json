@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T12:00:03.403Z",
+  "updatedAt": "2026-07-05T12:39:55.233Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-05T05:53:00.000Z"
       },
       {
-        "time": "21:33",
-        "title": "【画像】DeNA写真ギャラリー／7・4",
-        "source": "サンスポ",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uMWp3bG1fbnRBRFRBaDhoWkhoZThBMjRHTGpRSkRWM3RSLXhxNTVaR2RoTWItYVhYZ2RMTEV4SHBTem9WNEo3blV5ckpkODJZZmdYV0NCNXJTOHZKZ0Jqc0F2RXBNV0p2aXR6TVFjMDVUVkNMb0E?oc=5",
-        "publishedAt": "2026-07-04T12:33:23.000Z"
-      },
-      {
         "time": "14:58",
         "title": "消費減税で自民 早く一定の方向を",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586802?source=rss",
         "publishedAt": "2026-07-05T05:58:57.000Z"
+      },
+      {
+        "time": "16:02",
+        "title": "供給過多 新米3000円割れ予想も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586808?source=rss",
+        "publishedAt": "2026-07-05T07:02:42.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-07-05T11:19:15.000Z"
       },
       {
-        "time": "17:55",
-        "title": "自民県幹部に現金渡した 県議証言",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586826?source=rss",
-        "publishedAt": "2026-07-05T08:55:38.000Z"
-      },
-      {
         "time": "20:57",
         "title": "市長選候補「仙人」得票2割の衝撃",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586847?source=rss",
         "publishedAt": "2026-07-05T11:39:16.000Z"
+      },
+      {
+        "time": "21:08",
+        "title": "4歳不明から30年 男の行方を捜査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586849?source=rss",
+        "publishedAt": "2026-07-05T12:08:43.000Z"
       },
       {
         "time": "19:57",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T12:00:04.027Z",
+  "updatedAt": "2026-07-05T12:39:56.177Z",
   "items": [
     {
       "time": "19:16",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中露が軍事演習発表 日本けん制か"
     },
     {
-      "time": "20:39",
-      "title": "橋から車が転落し大破 男性が重体",
+      "time": "21:08",
+      "title": "4歳不明から30年 男の行方を捜査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586847?source=rss",
-      "publishedAt": "2026-07-05T11:39:16.000Z",
-      "xQuery": "橋から車が転落し大破 男性が重体"
+      "url": "https://news.yahoo.co.jp/pickup/6586849?source=rss",
+      "publishedAt": "2026-07-05T12:08:43.000Z",
+      "xQuery": "4歳不明から30年 男の行方を捜査"
     },
     {
       "time": "20:57",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "市長選候補「仙人」得票2割の衝撃"
     },
     {
-      "time": "20:15",
-      "title": "銀座に異変 大衆チェーン続々出店",
+      "time": "19:44",
+      "title": "日本一低い山で山開き 6歩で山頂",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586843?source=rss",
-      "publishedAt": "2026-07-05T11:15:01.000Z",
-      "xQuery": "銀座に異変 大衆チェーン続々出店"
+      "url": "https://news.yahoo.co.jp/pickup/6586840?source=rss",
+      "publishedAt": "2026-07-05T10:44:04.000Z",
+      "xQuery": "日本一低い山で山開き 6歩で山頂"
     }
   ]
 };
