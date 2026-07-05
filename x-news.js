@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T12:39:56.177Z",
+  "updatedAt": "2026-07-05T13:35:45.634Z",
   "items": [
     {
-      "time": "19:16",
-      "title": "九州北部 土砂災害など厳重警戒を",
+      "time": "22:00",
+      "title": "九州北部で非常に激しい雨か 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586836?source=rss",
-      "publishedAt": "2026-07-05T10:16:06.000Z",
-      "xQuery": "九州北部 土砂災害など厳重警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6586856?source=rss",
+      "publishedAt": "2026-07-05T13:00:20.000Z",
+      "xQuery": "九州北部で非常に激しい雨か 警戒"
     },
     {
-      "time": "17:01",
-      "title": "中露が軍事演習発表 日本けん制か",
+      "time": "19:05",
+      "title": "終盤国会「空回し」の異常事態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586820?source=rss",
-      "publishedAt": "2026-07-05T08:01:02.000Z",
-      "xQuery": "中露が軍事演習発表 日本けん制か"
+      "url": "https://news.yahoo.co.jp/pickup/6586834?source=rss",
+      "publishedAt": "2026-07-05T10:05:50.000Z",
+      "xQuery": "終盤国会「空回し」の異常事態"
+    },
+    {
+      "time": "22:27",
+      "title": "英石油大手 山形の洋上風力撤退か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586863?source=rss",
+      "publishedAt": "2026-07-05T13:27:08.000Z",
+      "xQuery": "英石油大手 山形の洋上風力撤退か"
     },
     {
       "time": "21:08",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "4歳不明から30年 男の行方を捜査"
     },
     {
-      "time": "20:57",
-      "title": "市長選候補「仙人」得票2割の衝撃",
+      "time": "21:54",
+      "title": "スイミング大会中に溺れ 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586848?source=rss",
-      "publishedAt": "2026-07-05T11:57:46.000Z",
-      "xQuery": "市長選候補「仙人」得票2割の衝撃"
-    },
-    {
-      "time": "19:44",
-      "title": "日本一低い山で山開き 6歩で山頂",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586840?source=rss",
-      "publishedAt": "2026-07-05T10:44:04.000Z",
-      "xQuery": "日本一低い山で山開き 6歩で山頂"
+      "url": "https://news.yahoo.co.jp/pickup/6586857?source=rss",
+      "publishedAt": "2026-07-05T12:54:54.000Z",
+      "xQuery": "スイミング大会中に溺れ 男性死亡"
     }
   ]
 };
