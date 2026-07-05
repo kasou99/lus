@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T13:35:45.634Z",
+  "updatedAt": "2026-07-05T14:37:00.768Z",
   "items": [
     {
       "time": "22:00",
@@ -10,6 +10,22 @@ window.LUS_X_NEWS = {
       "xQuery": "九州北部で非常に激しい雨か 警戒"
     },
     {
+      "time": "22:24",
+      "title": "はやぶさ2 小惑星の通過観測成功",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586862?source=rss",
+      "publishedAt": "2026-07-05T13:24:55.000Z",
+      "xQuery": "はやぶさ2 小惑星の通過観測成功"
+    },
+    {
+      "time": "23:21",
+      "title": "高市内閣の支持率65.9% JNN",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586866?source=rss",
+      "publishedAt": "2026-07-05T14:21:13.000Z",
+      "xQuery": "高市内閣の支持率65.9% JNN"
+    },
+    {
       "time": "19:05",
       "title": "終盤国会「空回し」の異常事態",
       "source": "Yahoo!ニュース",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "終盤国会「空回し」の異常事態"
     },
     {
-      "time": "22:27",
-      "title": "英石油大手 山形の洋上風力撤退か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586863?source=rss",
-      "publishedAt": "2026-07-05T13:27:08.000Z",
-      "xQuery": "英石油大手 山形の洋上風力撤退か"
-    },
-    {
       "time": "21:08",
       "title": "4歳不明から30年 男の行方を捜査",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6586849?source=rss",
       "publishedAt": "2026-07-05T12:08:43.000Z",
       "xQuery": "4歳不明から30年 男の行方を捜査"
-    },
-    {
-      "time": "21:54",
-      "title": "スイミング大会中に溺れ 男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586857?source=rss",
-      "publishedAt": "2026-07-05T12:54:54.000Z",
-      "xQuery": "スイミング大会中に溺れ 男性死亡"
     }
   ]
 };
