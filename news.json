@@ -1,42 +1,7 @@
 {
-  "updatedAt": "2026-07-05T20:29:13.117Z",
+  "updatedAt": "2026-07-05T20:55:35.071Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "05:02",
-        "title": "DMG森精機、伊賀事業所公開 工作機械のデジタル・自動化推進",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45X3pZVjVSTlVWaGlkS1BrTUJERkwzQ3p0cnUzdUV2elJ0SFl2OUp4czVjQXA0SHVUUFR4Q0x3MVVVb19JWTZjY0RrdF9pMVc5SjZfUXRvY0FDeE0?oc=5",
-        "publishedAt": "2026-07-05T20:02:35.000Z"
-      },
-      {
-        "time": "23:40",
-        "title": "次世代設備保全クラウドの株式会社M2X、株式会社京都プラテックの導入事例を公開",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QMVotVEZwSzVuZFo3SUtXcndDLXM0M1hDSUtncEdBZmpHTGEyNXpJcXBfZE1oeDJfbGpsM0c4MDlwOXVuMzMxcmtBcmR6VEsxZkNkOUNNN0g4Sk5zSFBEVUhYVGcwZ3hRM2U4?oc=5",
-        "publishedAt": "2026-07-05T14:40:00.000Z"
-      },
-      {
-        "time": "10:21",
-        "title": "分析ツールは、世にあふれている。足りないのは、いつも\"土台\"のほう。--設備保全クラウド「ミロクルカルテ」",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JRGhjMEFOZTN0UjM2dThGZnBHUWY1YmJBYnhnbi1reFFYWjdDRHFjWnBqYV9oT0s5bTRzMmpYVTBjVW1KUmY1R3Fma2JsQW9OV2c?oc=5",
-        "publishedAt": "2026-07-05T01:21:50.000Z"
-      },
-      {
-        "time": "05:04",
-        "title": "For Future 先端技術（214）大阪公立大学 スマートビルOS実証",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PcDV2NnJpNGdKRDVXX2RfelVPcGtLNEphVDNSRHJYM1dkYnVoZHZTNFkwRDZuVlFieG1WV0hjSEF0UXUzREE4NEZJdTg0c2F3b0I2LWdtYU9laHc?oc=5",
-        "publishedAt": "2026-07-05T20:04:33.000Z"
-      },
-      {
-        "time": "18:00",
-        "title": "(株)ツガミ【6101】：株価・株式情報（夜間PTS含む）",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qT2NrZ21VTVpvcVdDaUF6RVVYZkFRWlUybklfRkRLS0I3WkFROW5VbG0zNXlHbTBERTVQU05FYWJ1S0p6Y0MzbXFMQUszUHpBb3c?oc=5",
-        "publishedAt": "2026-07-05T09:00:00.000Z"
-      },
       {
         "time": "14:58",
         "title": "消費減税で自民 早く一定の方向を",
@@ -57,6 +22,41 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586808?source=rss",
         "publishedAt": "2026-07-05T07:02:42.000Z"
+      },
+      {
+        "time": "20:15",
+        "title": "銀座に異変 大衆チェーン続々出店",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586843?source=rss",
+        "publishedAt": "2026-07-05T11:15:01.000Z"
+      },
+      {
+        "time": "17:22",
+        "title": "タクシー運転手 若返りの兆しも",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586824?source=rss",
+        "publishedAt": "2026-07-05T08:22:00.000Z"
+      },
+      {
+        "time": "20:33",
+        "title": "昭和レトロで転機 V字回復の企業",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586846?source=rss",
+        "publishedAt": "2026-07-05T11:33:22.000Z"
+      },
+      {
+        "time": "14:54",
+        "title": "「ガリだけ」ドンキ偏愛めし裏側",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586801?source=rss",
+        "publishedAt": "2026-07-05T05:54:37.000Z"
+      },
+      {
+        "time": "18:26",
+        "title": "マッチゼリー 学習塾自販機で好調",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586830?source=rss",
+        "publishedAt": "2026-07-05T09:26:10.000Z"
       }
     ],
     "worldHeadlines": [
