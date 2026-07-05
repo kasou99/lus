@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T22:25:36.552Z",
+  "updatedAt": "2026-07-05T22:51:33.615Z",
   "items": [
     {
       "time": "07:21",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "九州～東海 激しい雨や落雷に注意"
     },
     {
-      "time": "23:21",
-      "title": "高市内閣の支持率65.9% JNN",
+      "time": "07:27",
+      "title": "防衛省に新たな局を増設へ調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586866?source=rss",
-      "publishedAt": "2026-07-05T14:21:13.000Z",
-      "xQuery": "高市内閣の支持率65.9% JNN"
+      "url": "https://news.yahoo.co.jp/pickup/6586878?source=rss",
+      "publishedAt": "2026-07-05T22:27:14.000Z",
+      "xQuery": "防衛省に新たな局を増設へ調整"
     },
     {
       "time": "21:54",
