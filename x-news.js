@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T04:50:54.535Z",
+  "updatedAt": "2026-07-05T06:21:50.472Z",
   "items": [
     {
       "time": "13:31",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "西～東日本 6日にかけ大雨の恐れ"
     },
     {
-      "time": "11:05",
-      "title": "米露首脳 90分近く電話で会談",
+      "time": "13:39",
+      "title": "首相お膝元の知事選 与党対決か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586783?source=rss",
-      "publishedAt": "2026-07-05T02:05:48.000Z",
-      "xQuery": "米露首脳 90分近く電話で会談"
-    },
-    {
-      "time": "12:30",
-      "title": "武装勢力拠点に響く 長渕の乾杯",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586787?source=rss",
-      "publishedAt": "2026-07-05T03:30:51.000Z",
-      "xQuery": "武装勢力拠点に響く 長渕の乾杯"
+      "url": "https://news.yahoo.co.jp/pickup/6586794?source=rss",
+      "publishedAt": "2026-07-05T04:39:09.000Z",
+      "xQuery": "首相お膝元の知事選 与党対決か"
     },
     {
       "time": "12:57",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "バイクから女性転落 運転手が出頭"
     },
     {
-      "time": "12:24",
-      "title": "クマに襲われ 山菜取りの男性けが",
+      "time": "14:21",
+      "title": "踏切に車いす 電車通過間際に救出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586788?source=rss",
-      "publishedAt": "2026-07-05T03:24:06.000Z",
-      "xQuery": "クマに襲われ 山菜取りの男性けが"
+      "url": "https://news.yahoo.co.jp/pickup/6586799?source=rss",
+      "publishedAt": "2026-07-05T05:21:14.000Z",
+      "xQuery": "踏切に車いす 電車通過間際に救出"
+    },
+    {
+      "time": "14:54",
+      "title": "「ガリだけ」ドンキ偏愛めし裏側",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586801?source=rss",
+      "publishedAt": "2026-07-05T05:54:37.000Z",
+      "xQuery": "「ガリだけ」ドンキ偏愛めし裏側"
     }
   ]
 };
