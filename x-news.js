@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T06:21:50.472Z",
+  "updatedAt": "2026-07-05T07:39:52.125Z",
   "items": [
+    {
+      "time": "15:31",
+      "title": "米建国250年 トランプ大統領演説",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586805?source=rss",
+      "publishedAt": "2026-07-05T06:31:00.000Z",
+      "xQuery": "米建国250年 トランプ大統領演説"
+    },
     {
       "time": "13:31",
       "title": "西～東日本 6日にかけ大雨の恐れ",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "西～東日本 6日にかけ大雨の恐れ"
     },
     {
-      "time": "13:39",
-      "title": "首相お膝元の知事選 与党対決か",
+      "time": "14:58",
+      "title": "消費減税で自民 早く一定の方向を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586794?source=rss",
-      "publishedAt": "2026-07-05T04:39:09.000Z",
-      "xQuery": "首相お膝元の知事選 与党対決か"
+      "url": "https://news.yahoo.co.jp/pickup/6586802?source=rss",
+      "publishedAt": "2026-07-05T05:58:57.000Z",
+      "xQuery": "消費減税で自民 早く一定の方向を"
     },
     {
-      "time": "12:57",
-      "title": "バイクから女性転落 運転手が出頭",
+      "time": "15:36",
+      "title": "10代女性暴行され重体 19歳男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586790?source=rss",
-      "publishedAt": "2026-07-05T03:57:38.000Z",
-      "xQuery": "バイクから女性転落 運転手が出頭"
+      "url": "https://news.yahoo.co.jp/pickup/6586807?source=rss",
+      "publishedAt": "2026-07-05T06:36:57.000Z",
+      "xQuery": "10代女性暴行され重体 19歳男逮捕"
     },
     {
-      "time": "14:21",
-      "title": "踏切に車いす 電車通過間際に救出",
+      "time": "16:14",
+      "title": "SNS「setlog」日本での急成長",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586799?source=rss",
-      "publishedAt": "2026-07-05T05:21:14.000Z",
-      "xQuery": "踏切に車いす 電車通過間際に救出"
-    },
-    {
-      "time": "14:54",
-      "title": "「ガリだけ」ドンキ偏愛めし裏側",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586801?source=rss",
-      "publishedAt": "2026-07-05T05:54:37.000Z",
-      "xQuery": "「ガリだけ」ドンキ偏愛めし裏側"
+      "url": "https://news.yahoo.co.jp/pickup/6586810?source=rss",
+      "publishedAt": "2026-07-05T07:14:16.000Z",
+      "xQuery": "SNS「setlog」日本での急成長"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T06:21:49.372Z",
+  "updatedAt": "2026-07-05T07:39:51.375Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-05T05:58:57.000Z"
       },
       {
-        "time": "14:15",
-        "title": "事故絶えぬ第4種踏切 解消進まず",
+        "time": "16:02",
+        "title": "供給過多 新米3000円割れ予想も",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586797?source=rss",
-        "publishedAt": "2026-07-05T05:15:11.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586808?source=rss",
+        "publishedAt": "2026-07-05T07:02:42.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586783?source=rss",
         "publishedAt": "2026-07-05T02:05:48.000Z"
+      },
+      {
+        "time": "15:31",
+        "title": "米建国250年 トランプ大統領演説",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586805?source=rss",
+        "publishedAt": "2026-07-05T06:31:00.000Z"
       },
       {
         "time": "08:45",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586708?source=rss",
         "publishedAt": "2026-07-04T07:32:41.000Z"
-      },
-      {
-        "time": "12:30",
-        "title": "武装勢力拠点に響く 長渕の乾杯",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586787?source=rss",
-        "publishedAt": "2026-07-05T03:30:51.000Z"
       }
     ],
     "economyHeadlines": [
@@ -112,18 +112,18 @@
         "publishedAt": "2026-07-05T05:58:57.000Z"
       },
       {
+        "time": "16:02",
+        "title": "供給過多 新米3000円割れ予想も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586808?source=rss",
+        "publishedAt": "2026-07-05T07:02:42.000Z"
+      },
+      {
         "time": "14:15",
         "title": "事故絶えぬ第4種踏切 解消進まず",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586797?source=rss",
         "publishedAt": "2026-07-05T05:15:11.000Z"
-      },
-      {
-        "time": "08:28",
-        "title": "大手企業と中小 消えぬ賃上げ格差",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586653?source=rss",
-        "publishedAt": "2026-07-03T23:28:08.000Z"
       },
       {
         "time": "15:20",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-07-05T03:57:38.000Z"
       },
       {
+        "time": "15:36",
+        "title": "10代女性暴行され重体 19歳男逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586807?source=rss",
+        "publishedAt": "2026-07-05T06:36:57.000Z"
+      },
+      {
         "time": "10:50",
         "title": "歩が死んだ 娘の死知った母の記憶",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-07-05T03:24:06.000Z"
       },
       {
-        "time": "08:12",
-        "title": "ヒグマ目撃 山で4人一時立ち往生",
+        "time": "15:36",
+        "title": "富士登山 軽装巡り客と押し問答も",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586762?source=rss",
-        "publishedAt": "2026-07-04T23:12:12.000Z"
-      },
-      {
-        "time": "14:21",
-        "title": "踏切に車いす 電車通過間際に救出",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586799?source=rss",
-        "publishedAt": "2026-07-05T05:21:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586806?source=rss",
+        "publishedAt": "2026-07-05T06:36:21.000Z"
       }
     ],
     "subsidyHeadlines": [
