@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T07:39:52.125Z",
+  "updatedAt": "2026-07-05T09:09:30.311Z",
   "items": [
     {
-      "time": "15:31",
-      "title": "米建国250年 トランプ大統領演説",
+      "time": "17:04",
+      "title": "九州北部警戒 夜から再び雨強まる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586805?source=rss",
-      "publishedAt": "2026-07-05T06:31:00.000Z",
-      "xQuery": "米建国250年 トランプ大統領演説"
+      "url": "https://news.yahoo.co.jp/pickup/6586821?source=rss",
+      "publishedAt": "2026-07-05T08:04:00.000Z",
+      "xQuery": "九州北部警戒 夜から再び雨強まる"
     },
     {
-      "time": "13:31",
-      "title": "西～東日本 6日にかけ大雨の恐れ",
+      "time": "17:19",
+      "title": "バイクの同乗者が転落後死亡 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586793?source=rss",
-      "publishedAt": "2026-07-05T04:31:10.000Z",
-      "xQuery": "西～東日本 6日にかけ大雨の恐れ"
-    },
-    {
-      "time": "14:58",
-      "title": "消費減税で自民 早く一定の方向を",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586802?source=rss",
-      "publishedAt": "2026-07-05T05:58:57.000Z",
-      "xQuery": "消費減税で自民 早く一定の方向を"
+      "url": "https://news.yahoo.co.jp/pickup/6586823?source=rss",
+      "publishedAt": "2026-07-05T08:19:01.000Z",
+      "xQuery": "バイクの同乗者が転落後死亡 逮捕"
     },
     {
       "time": "15:36",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "10代女性暴行され重体 19歳男逮捕"
     },
     {
-      "time": "16:14",
-      "title": "SNS「setlog」日本での急成長",
+      "time": "16:41",
+      "title": "離婚届見せられ不貞行為 責任は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586810?source=rss",
-      "publishedAt": "2026-07-05T07:14:16.000Z",
-      "xQuery": "SNS「setlog」日本での急成長"
+      "url": "https://news.yahoo.co.jp/pickup/6586816?source=rss",
+      "publishedAt": "2026-07-05T07:41:32.000Z",
+      "xQuery": "離婚届見せられ不貞行為 責任は"
+    },
+    {
+      "time": "16:32",
+      "title": "まるで玩具「舌がん」学ぶグッズ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586815?source=rss",
+      "publishedAt": "2026-07-05T07:32:30.000Z",
+      "xQuery": "まるで玩具「舌がん」学ぶグッズ"
     }
   ]
 };

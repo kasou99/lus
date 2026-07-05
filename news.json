@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T07:39:51.375Z",
+  "updatedAt": "2026-07-05T09:09:28.973Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,11 @@
         "publishedAt": "2026-07-04T23:52:02.000Z"
       },
       {
-        "time": "14:53",
-        "title": "傷病者を搬送中の救急車が交通事故 交差点で別の車と衝突 傷病者は他の救急車で搬送《新潟》",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41b0dHSUR0U3N4Zk1HcUNFaUFNWVpHQVVZeHR6dHRCbHMteHV2Sm1NT0tQd3V0MlRucERxZVhvSzBsdHlaVEFkZVFuS0lxNTliMFVMc1hkUmdTeldUWmNkLXpIVjNhNGtFSl9IUVRHcDAxZ0hPcjFJbGdrYw?oc=5",
-        "publishedAt": "2026-07-05T05:53:00.000Z"
-      },
-      {
-        "time": "05:05",
-        "title": "「マルガー」の竹野さん優勝 「ジェラートマエストロ」 砂糖使わず健康配慮を評価",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JSWpDVUh0cUljRjhfN2pId3ZsdXlCU2hOUEU5a3p2ckxtRWEtOXlOaG9ZazlYNHQ4YmFTTi1EeERtc084RmtiNWxnTEZsRDJERk56UkFFZ2pFSXlBQjVCMmk4Z0hUSDZoZklUR044YVRYcXhWRnFPU19LbzRmSGvSAX9BVV95cUxNSUlqQ1VIdHFJY0Y4XzdqSHd2bHV5QlNoTlBFOWt6dnJMbUVhLTl5TmhvWWs5WDR0OGJhU04tRHhEbXNPOEZrYjVsZ0xGbEQyREZOelJBRWdqRUl5QUI1QjJpOGdIVEg2aGZJVEdOOGFUWHF4VkZxT1NfS280Zkhr?oc=5",
-        "publishedAt": "2026-07-04T20:05:00.000Z"
+        "time": "18:00",
+        "title": "(株)ツガミ【6101】：株価・株式情報（夜間PTS含む）",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qT2NrZ21VTVpvcVdDaUF6RVVYZkFRWlUybklfRkRLS0I3WkFROW5VbG0zNXlHbTBERTVQU05FYWJ1S0p6Y0MzbXFMQUszUHpBb3c?oc=5",
+        "publishedAt": "2026-07-05T09:00:00.000Z"
       },
       {
         "time": "21:33",
@@ -45,21 +38,35 @@
         "publishedAt": "2026-07-04T12:33:23.000Z"
       },
       {
+        "time": "05:05",
+        "title": "「マルガー」の竹野さん優勝 「ジェラートマエストロ」 砂糖使わず健康配慮を評価",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JSWpDVUh0cUljRjhfN2pId3ZsdXlCU2hOUEU5a3p2ckxtRWEtOXlOaG9ZazlYNHQ4YmFTTi1EeERtc084RmtiNWxnTEZsRDJERk56UkFFZ2pFSXlBQjVCMmk4Z0hUSDZoZklUR044YVRYcXhWRnFPU19LbzRmSGvSAX9BVV95cUxNSUlqQ1VIdHFJY0Y4XzdqSHd2bHV5QlNoTlBFOWt6dnJMbUVhLTl5TmhvWWs5WDR0OGJhU04tRHhEbXNPOEZrYjVsZ0xGbEQyREZOelJBRWdqRUl5QUI1QjJpOGdIVEg2aGZJVEdOOGFUWHF4VkZxT1NfS280Zkhr?oc=5",
+        "publishedAt": "2026-07-04T20:05:00.000Z"
+      },
+      {
+        "time": "14:53",
+        "title": "傷病者を搬送中の救急車が交通事故 交差点で別の車と衝突 傷病者は他の救急車で搬送《新潟》",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41b0dHSUR0U3N4Zk1HcUNFaUFNWVpHQVVZeHR6dHRCbHMteHV2Sm1NT0tQd3V0MlRucERxZVhvSzBsdHlaVEFkZVFuS0lxNTliMFVMc1hkUmdTeldUWmNkLXpIVjNhNGtFSl9IUVRHcDAxZ0hPcjFJbGdrYw?oc=5",
+        "publishedAt": "2026-07-05T05:53:00.000Z"
+      },
+      {
         "time": "14:58",
         "title": "消費減税で自民 早く一定の方向を",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586802?source=rss",
         "publishedAt": "2026-07-05T05:58:57.000Z"
-      },
-      {
-        "time": "16:02",
-        "title": "供給過多 新米3000円割れ予想も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586808?source=rss",
-        "publishedAt": "2026-07-05T07:02:42.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "17:01",
+        "title": "中露が軍事演習発表 日本けん制か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586820?source=rss",
+        "publishedAt": "2026-07-05T08:01:02.000Z"
+      },
       {
         "time": "07:58",
         "title": "露 ウ東部要衝への砲撃停止を提案",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586773?source=rss",
         "publishedAt": "2026-07-05T00:43:52.000Z"
-      },
-      {
-        "time": "16:32",
-        "title": "ドイツ 中国大使呼び出し懸念表明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586708?source=rss",
-        "publishedAt": "2026-07-04T07:32:41.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-07-05T05:15:11.000Z"
       },
       {
+        "time": "17:22",
+        "title": "タクシー運転手 若返りの兆しも",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586824?source=rss",
+        "publishedAt": "2026-07-05T08:22:00.000Z"
+      },
+      {
         "time": "15:20",
         "title": "伝説のラーメン店復活 玄孫の奮闘",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586711?source=rss",
         "publishedAt": "2026-07-04T07:33:05.000Z"
-      },
-      {
-        "time": "14:54",
-        "title": "「ガリだけ」ドンキ偏愛めし裏側",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586801?source=rss",
-        "publishedAt": "2026-07-05T05:54:37.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,11 +156,18 @@
         "publishedAt": "2026-07-05T04:39:09.000Z"
       },
       {
-        "time": "12:57",
-        "title": "バイクから女性転落 運転手が出頭",
+        "time": "17:55",
+        "title": "自民県幹部に現金渡した 県議証言",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586790?source=rss",
-        "publishedAt": "2026-07-05T03:57:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586826?source=rss",
+        "publishedAt": "2026-07-05T08:55:38.000Z"
+      },
+      {
+        "time": "17:19",
+        "title": "バイクの同乗者が転落後死亡 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586823?source=rss",
+        "publishedAt": "2026-07-05T08:19:01.000Z"
       },
       {
         "time": "15:36",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586781?source=rss",
         "publishedAt": "2026-07-05T01:50:37.000Z"
-      },
-      {
-        "time": "12:24",
-        "title": "クマに襲われ 山菜取りの男性けが",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586788?source=rss",
-        "publishedAt": "2026-07-05T03:24:06.000Z"
       },
       {
         "time": "15:36",
