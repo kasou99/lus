@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T01:41:46.896Z",
+  "updatedAt": "2026-07-05T03:15:20.234Z",
   "items": [
+    {
+      "time": "11:16",
+      "title": "九州北部大雨 昼過ぎまで厳重警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586785?source=rss",
+      "publishedAt": "2026-07-05T02:16:20.000Z",
+      "xQuery": "九州北部大雨 昼過ぎまで厳重警戒"
+    },
     {
       "time": "09:34",
       "title": "「維新2法案」カギ握る首相の判断",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "「維新2法案」カギ握る首相の判断"
     },
     {
-      "time": "09:43",
-      "title": "ハメネイ師国葬 「復讐」の叫び",
+      "time": "11:18",
+      "title": "犯罪組織プリンスGの幹部 再逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586773?source=rss",
-      "publishedAt": "2026-07-05T00:43:52.000Z",
-      "xQuery": "ハメネイ師国葬 「復讐」の叫び"
+      "url": "https://news.yahoo.co.jp/pickup/6586784?source=rss",
+      "publishedAt": "2026-07-05T02:18:12.000Z",
+      "xQuery": "犯罪組織プリンスGの幹部 再逮捕"
     },
     {
-      "time": "08:33",
-      "title": "障害者事業所への運営指導 低迷",
+      "time": "10:50",
+      "title": "歩が死んだ 娘の死知った母の記憶",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586765?source=rss",
-      "publishedAt": "2026-07-04T23:33:16.000Z",
-      "xQuery": "障害者事業所への運営指導 低迷"
+      "url": "https://news.yahoo.co.jp/pickup/6586781?source=rss",
+      "publishedAt": "2026-07-05T01:50:37.000Z",
+      "xQuery": "歩が死んだ 娘の死知った母の記憶"
     },
     {
-      "time": "10:35",
-      "title": "娘の命を突然奪われ 母が語る記憶",
+      "time": "11:46",
+      "title": "スクイーズにのめり込み 貯金が底",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586778?source=rss",
-      "publishedAt": "2026-07-05T01:35:48.000Z",
-      "xQuery": "娘の命を突然奪われ 母が語る記憶"
-    },
-    {
-      "time": "09:44",
-      "title": "工場にオオサンショウウオ 騒然",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586775?source=rss",
-      "publishedAt": "2026-07-05T00:44:58.000Z",
-      "xQuery": "工場にオオサンショウウオ 騒然"
+      "url": "https://news.yahoo.co.jp/pickup/6586786?source=rss",
+      "publishedAt": "2026-07-05T02:46:16.000Z",
+      "xQuery": "スクイーズにのめり込み 貯金が底"
     }
   ]
 };
