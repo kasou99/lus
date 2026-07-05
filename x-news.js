@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T15:31:31.271Z",
+  "updatedAt": "2026-07-05T16:27:54.646Z",
   "items": [
     {
       "time": "22:00",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "スイミング大会中に溺れ 男性死亡"
     },
     {
-      "time": "22:10",
-      "title": "ヒグマ襲った羅臼岳に 次々と入山",
+      "time": "00:49",
+      "title": "ヒグマ事故 羅臼岳で登山道再開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586859?source=rss",
-      "publishedAt": "2026-07-05T13:10:22.000Z",
-      "xQuery": "ヒグマ襲った羅臼岳に 次々と入山"
+      "url": "https://news.yahoo.co.jp/pickup/6586871?source=rss",
+      "publishedAt": "2026-07-05T15:49:49.000Z",
+      "xQuery": "ヒグマ事故 羅臼岳で登山道再開"
     }
   ]
 };
