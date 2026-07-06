@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-06T23:30:03.241Z",
+  "updatedAt": "2026-07-06T23:57:48.418Z",
   "items": [
     {
       "time": "07:47",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "1類感染症患者の診療体制 強化へ"
     },
     {
+      "time": "08:50",
+      "title": "内田梨瑚被告 懲役27年の判決確定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587008?source=rss",
+      "publishedAt": "2026-07-06T23:50:53.000Z",
+      "xQuery": "内田梨瑚被告 懲役27年の判決確定"
+    },
+    {
+      "time": "08:28",
+      "title": "車と衝突 重体の男子高校生が死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587003?source=rss",
+      "publishedAt": "2026-07-06T23:28:34.000Z",
+      "xQuery": "車と衝突 重体の男子高校生が死亡"
+    },
+    {
       "time": "07:20",
       "title": "障害の少女監禁疑い 新たに兄逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6586995?source=rss",
       "publishedAt": "2026-07-06T22:20:02.000Z",
       "xQuery": "障害の少女監禁疑い 新たに兄逮捕"
-    },
-    {
-      "time": "23:24",
-      "title": "逮捕状出された少年 川泳いで逃走",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586990?source=rss",
-      "publishedAt": "2026-07-06T14:24:49.000Z",
-      "xQuery": "逮捕状出された少年 川泳いで逃走"
-    },
-    {
-      "time": "07:23",
-      "title": "旧人と現生人類に共通文化か 研究",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586997?source=rss",
-      "publishedAt": "2026-07-06T22:23:15.000Z",
-      "xQuery": "旧人と現生人類に共通文化か 研究"
     }
   ]
 };
