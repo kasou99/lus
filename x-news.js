@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-06T00:58:36.114Z",
+  "updatedAt": "2026-07-06T01:43:17.083Z",
   "items": [
     {
       "time": "09:31",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "豪雨で親友失う 教師志し語り継ぐ"
     },
     {
-      "time": "08:04",
-      "title": "露「制圧」要衝 ウが砲撃停止拒否",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586881?source=rss",
-      "publishedAt": "2026-07-05T23:04:48.000Z",
-      "xQuery": "露「制圧」要衝 ウが砲撃停止拒否"
-    },
-    {
       "time": "07:56",
       "title": "「クマ不安」欠席とせず 各地学校",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「クマ不安」欠席とせず 各地学校"
     },
     {
-      "time": "08:01",
-      "title": "6歳の娘を殺害した疑い 父親逮捕",
+      "time": "09:23",
+      "title": "建設業の倒産 4年連続前年上回る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586885?source=rss",
-      "publishedAt": "2026-07-05T23:01:38.000Z",
-      "xQuery": "6歳の娘を殺害した疑い 父親逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6586892?source=rss",
+      "publishedAt": "2026-07-06T00:23:53.000Z",
+      "xQuery": "建設業の倒産 4年連続前年上回る"
+    },
+    {
+      "time": "09:47",
+      "title": "バンダイchに攻撃疑い 15歳を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586895?source=rss",
+      "publishedAt": "2026-07-06T00:47:37.000Z",
+      "xQuery": "バンダイchに攻撃疑い 15歳を逮捕"
     },
     {
       "time": "08:43",
