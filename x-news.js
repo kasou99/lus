@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-06T04:58:35.978Z",
+  "updatedAt": "2026-07-06T06:38:45.952Z",
   "items": [
     {
-      "time": "11:15",
-      "title": "台風9号 10-11日に沖縄接近見通し",
+      "time": "15:17",
+      "title": "中国ミサイル発射実験 成功と発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586903?source=rss",
-      "publishedAt": "2026-07-06T02:15:59.000Z",
-      "xQuery": "台風9号 10-11日に沖縄接近見通し"
+      "url": "https://news.yahoo.co.jp/pickup/6586935?source=rss",
+      "publishedAt": "2026-07-06T06:17:33.000Z",
+      "xQuery": "中国ミサイル発射実験 成功と発表"
     },
     {
-      "time": "12:55",
-      "title": "陸に加え海へ 北朝鮮の海軍強化",
+      "time": "13:53",
+      "title": "自民と立憲 集中審議など実施合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586918?source=rss",
-      "publishedAt": "2026-07-06T03:55:40.000Z",
-      "xQuery": "陸に加え海へ 北朝鮮の海軍強化"
+      "url": "https://news.yahoo.co.jp/pickup/6586930?source=rss",
+      "publishedAt": "2026-07-06T04:53:34.000Z",
+      "xQuery": "自民と立憲 集中審議など実施合意"
     },
     {
       "time": "13:41",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "車で小6はねた疑いの男 無免許か"
     },
     {
-      "time": "12:36",
-      "title": "車と衝突 自転車の高校生が重体",
+      "time": "13:51",
+      "title": "高校生が暴行受ける 男5人が逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586922?source=rss",
-      "publishedAt": "2026-07-06T03:36:47.000Z",
-      "xQuery": "車と衝突 自転車の高校生が重体"
+      "url": "https://news.yahoo.co.jp/pickup/6586927?source=rss",
+      "publishedAt": "2026-07-06T04:51:58.000Z",
+      "xQuery": "高校生が暴行受ける 男5人が逃走"
     },
     {
-      "time": "12:21",
-      "title": "中古ゲーム ビジネスと訴訟の歴史",
+      "time": "14:02",
+      "title": "中古ゲーム市場 ネット接続で変化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586915?source=rss",
-      "publishedAt": "2026-07-06T03:21:19.000Z",
-      "xQuery": "中古ゲーム ビジネスと訴訟の歴史"
+      "url": "https://news.yahoo.co.jp/pickup/6586931?source=rss",
+      "publishedAt": "2026-07-06T05:02:26.000Z",
+      "xQuery": "中古ゲーム市場 ネット接続で変化"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T04:58:27.513Z",
+  "updatedAt": "2026-07-06T06:38:36.395Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "15:17",
+        "title": "中国ミサイル発射実験 成功と発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586935?source=rss",
+        "publishedAt": "2026-07-06T06:17:33.000Z"
+      },
+      {
         "time": "09:53",
         "title": "米・ウクライナ 8日に首脳会談",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586820?source=rss",
         "publishedAt": "2026-07-05T08:01:02.000Z"
-      },
-      {
-        "time": "08:04",
-        "title": "露「制圧」要衝 ウが砲撃停止拒否",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586881?source=rss",
-        "publishedAt": "2026-07-05T23:04:48.000Z"
       }
     ],
     "economyHeadlines": [
