@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-06T13:48:39.084Z",
+  "updatedAt": "2026-07-06T15:10:36.965Z",
   "items": [
     {
       "time": "22:17",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "5歳不明2週間 父「諦めていない」"
     },
     {
-      "time": "16:15",
-      "title": "鳥人間 作業員が琵琶湖落下し死亡",
+      "time": "23:24",
+      "title": "逮捕状出された少年 川泳いで逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586940?source=rss",
-      "publishedAt": "2026-07-06T07:15:58.000Z",
-      "xQuery": "鳥人間 作業員が琵琶湖落下し死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6586990?source=rss",
+      "publishedAt": "2026-07-06T14:24:49.000Z",
+      "xQuery": "逮捕状出された少年 川泳いで逃走"
     },
     {
-      "time": "22:04",
-      "title": "「漁船乗るか」誘拐疑いで4人逮捕",
+      "time": "21:05",
+      "title": "サッポロ カールスバーグと新会社",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586982?source=rss",
-      "publishedAt": "2026-07-06T13:04:15.000Z",
-      "xQuery": "「漁船乗るか」誘拐疑いで4人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6586974?source=rss",
+      "publishedAt": "2026-07-06T12:05:30.000Z",
+      "xQuery": "サッポロ カールスバーグと新会社"
     },
     {
-      "time": "21:25",
-      "title": "関空送迎レーン有料化へ 5分300円",
+      "time": "23:47",
+      "title": "小林製薬 今年3回目の価格改定へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586977?source=rss",
-      "publishedAt": "2026-07-06T12:25:49.000Z",
-      "xQuery": "関空送迎レーン有料化へ 5分300円"
+      "url": "https://news.yahoo.co.jp/pickup/6586991?source=rss",
+      "publishedAt": "2026-07-06T14:47:18.000Z",
+      "xQuery": "小林製薬 今年3回目の価格改定へ"
     }
   ]
 };
