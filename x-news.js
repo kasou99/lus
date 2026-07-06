@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-06T06:38:45.952Z",
+  "updatedAt": "2026-07-06T08:36:57.014Z",
   "items": [
     {
-      "time": "15:17",
-      "title": "中国ミサイル発射実験 成功と発表",
+      "time": "15:38",
+      "title": "上昇続く長期金利 一時2.83%に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586935?source=rss",
-      "publishedAt": "2026-07-06T06:17:33.000Z",
-      "xQuery": "中国ミサイル発射実験 成功と発表"
+      "url": "https://news.yahoo.co.jp/pickup/6586936?source=rss",
+      "publishedAt": "2026-07-06T06:38:09.000Z",
+      "xQuery": "上昇続く長期金利 一時2.83%に"
     },
     {
-      "time": "13:53",
-      "title": "自民と立憲 集中審議など実施合意",
+      "time": "16:08",
+      "title": "中国ミサイル発射 日本が懸念伝達",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586930?source=rss",
-      "publishedAt": "2026-07-06T04:53:34.000Z",
-      "xQuery": "自民と立憲 集中審議など実施合意"
+      "url": "https://news.yahoo.co.jp/pickup/6586939?source=rss",
+      "publishedAt": "2026-07-06T07:08:41.000Z",
+      "xQuery": "中国ミサイル発射 日本が懸念伝達"
     },
     {
-      "time": "13:41",
-      "title": "車で小6はねた疑いの男 無免許か",
+      "time": "16:34",
+      "title": "はやぶさ2 小惑星トリフネ撮影",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586926?source=rss",
-      "publishedAt": "2026-07-06T04:41:15.000Z",
-      "xQuery": "車で小6はねた疑いの男 無免許か"
+      "url": "https://news.yahoo.co.jp/pickup/6586942?source=rss",
+      "publishedAt": "2026-07-06T07:34:22.000Z",
+      "xQuery": "はやぶさ2 小惑星トリフネ撮影"
     },
     {
-      "time": "13:51",
-      "title": "高校生が暴行受ける 男5人が逃走",
+      "time": "17:18",
+      "title": "全東信が破産 負債は約1259億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586927?source=rss",
-      "publishedAt": "2026-07-06T04:51:58.000Z",
-      "xQuery": "高校生が暴行受ける 男5人が逃走"
+      "url": "https://news.yahoo.co.jp/pickup/6586950?source=rss",
+      "publishedAt": "2026-07-06T08:18:23.000Z",
+      "xQuery": "全東信が破産 負債は約1259億円"
     },
     {
-      "time": "14:02",
-      "title": "中古ゲーム市場 ネット接続で変化",
+      "time": "16:15",
+      "title": "鳥人間 作業員が琵琶湖落下し死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586931?source=rss",
-      "publishedAt": "2026-07-06T05:02:26.000Z",
-      "xQuery": "中古ゲーム市場 ネット接続で変化"
+      "url": "https://news.yahoo.co.jp/pickup/6586940?source=rss",
+      "publishedAt": "2026-07-06T07:15:58.000Z",
+      "xQuery": "鳥人間 作業員が琵琶湖落下し死亡"
     }
   ]
 };
