@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-06T21:35:57.512Z",
+  "updatedAt": "2026-07-06T22:32:16.071Z",
   "items": [
     {
       "time": "22:17",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "5歳不明2週間 父「諦めていない」"
     },
     {
+      "time": "07:20",
+      "title": "障害の少女監禁疑い 新たに兄逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586995?source=rss",
+      "publishedAt": "2026-07-06T22:20:02.000Z",
+      "xQuery": "障害の少女監禁疑い 新たに兄逮捕"
+    },
+    {
       "time": "23:24",
       "title": "逮捕状出された少年 川泳いで逃走",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "逮捕状出された少年 川泳いで逃走"
     },
     {
-      "time": "21:05",
-      "title": "サッポロ カールスバーグと新会社",
+      "time": "07:23",
+      "title": "旧人と現生人類に共通文化か 研究",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586974?source=rss",
-      "publishedAt": "2026-07-06T12:05:30.000Z",
-      "xQuery": "サッポロ カールスバーグと新会社"
-    },
-    {
-      "time": "23:47",
-      "title": "小林製薬 今年3回目の価格改定へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586991?source=rss",
-      "publishedAt": "2026-07-06T14:47:18.000Z",
-      "xQuery": "小林製薬 今年3回目の価格改定へ"
+      "url": "https://news.yahoo.co.jp/pickup/6586997?source=rss",
+      "publishedAt": "2026-07-06T22:23:15.000Z",
+      "xQuery": "旧人と現生人類に共通文化か 研究"
     }
   ]
 };
