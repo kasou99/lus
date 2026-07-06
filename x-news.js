@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-06T10:40:33.371Z",
+  "updatedAt": "2026-07-06T12:21:20.603Z",
   "items": [
     {
-      "time": "18:22",
-      "title": "消費減税 13日にも協議再開で合意",
+      "time": "21:02",
+      "title": "日本政府 中国の軍事動向を注視",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586961?source=rss",
-      "publishedAt": "2026-07-06T09:22:29.000Z",
-      "xQuery": "消費減税 13日にも協議再開で合意"
+      "url": "https://news.yahoo.co.jp/pickup/6586973?source=rss",
+      "publishedAt": "2026-07-06T12:02:33.000Z",
+      "xQuery": "日本政府 中国の軍事動向を注視"
     },
     {
-      "time": "18:57",
-      "title": "中国が進める世論工作 圧力拡大か",
+      "time": "21:03",
+      "title": "年金運用が好調 年金財政どうなる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586964?source=rss",
-      "publishedAt": "2026-07-06T09:57:32.000Z",
-      "xQuery": "中国が進める世論工作 圧力拡大か"
+      "url": "https://news.yahoo.co.jp/pickup/6586976?source=rss",
+      "publishedAt": "2026-07-06T12:03:37.000Z",
+      "xQuery": "年金運用が好調 年金財政どうなる"
     },
     {
-      "time": "18:05",
-      "title": "女性が刺され死亡 直後に死亡事故",
+      "time": "19:53",
+      "title": "愛知で男性刺されて搬送 男が逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586959?source=rss",
-      "publishedAt": "2026-07-06T09:05:36.000Z",
-      "xQuery": "女性が刺され死亡 直後に死亡事故"
+      "url": "https://news.yahoo.co.jp/pickup/6586967?source=rss",
+      "publishedAt": "2026-07-06T10:53:55.000Z",
+      "xQuery": "愛知で男性刺されて搬送 男が逃走"
     },
     {
       "time": "19:29",
