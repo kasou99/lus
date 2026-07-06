@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T17:54:46.548Z",
+  "updatedAt": "2026-07-06T18:48:10.749Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-07-06T12:30:40.000Z"
       },
       {
-        "time": "17:28",
-        "title": "工作機械受注2兆円時代へ！ 日本工作機械工業会が総会を開く - | 製造現場ドットコム",
-        "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XLWNwZGk5QlNVbjZvaUJ1YVNvMjNHd3U2LXpzaGRuOUNyR1ptLUdHZW9UdVI5VkhRWHhVNlBWcVp6OWRSeFMyTEpn?oc=5",
-        "publishedAt": "2026-07-06T08:28:54.000Z"
-      },
-      {
         "time": "19:09",
         "title": "パナソニック インダストリーが「産業オープンネット展 2026」に出展～圧力制御対応サーボアンプ「MINAS A7BRT」と低慣性小型サーボモータ「MSMGシリーズ」の新ラインアップを実機デモで紹介～ | 展示会・ショウルーム | イベント・スポンサー活動 | トピックス",
         "source": "Panasonic Newsroom Global",
@@ -24,10 +17,17 @@
         "publishedAt": "2026-07-06T10:09:57.000Z"
       },
       {
+        "time": "17:28",
+        "title": "工作機械受注2兆円時代へ！ 日本工作機械工業会が総会を開く - | 製造現場ドットコム",
+        "source": "| 製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XLWNwZGk5QlNVbjZvaUJ1YVNvMjNHd3U2LXpzaGRuOUNyR1ptLUdHZW9UdVI5VkhRWHhVNlBWcVp6OWRSeFMyTEpn?oc=5",
+        "publishedAt": "2026-07-06T08:28:54.000Z"
+      },
+      {
         "time": "09:23",
         "title": "DMG森精機、伊賀事業所公開 工作機械のデジタル・自動化推進",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45X3pZVjVSTlVWaGlkS1BrTUJERkwzQ3p0cnUzdUV2elJ0SFl2OUp4czVjQXA0SHVUUFR4Q0x3MVVVb19JWTZjY0RrdF9pMVc5SjZfUXRvY0FDeE0?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lbmMyNnJjTnNqSU1URFQtUVgzZXdXM01QamZZSXNyZzczYVlzZXRwcHh1OWF3NDVYZWVzcmJDR0w4eUY3VXNMd1Jfd1BrTU5JZC1aTVliQnc?oc=5",
         "publishedAt": "2026-07-06T00:23:50.000Z"
       },
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-07-06T13:31:12.000Z"
       },
       {
-        "time": "13:29",
-        "title": "「地政学リスク警戒も需要に期待」日本工作機械販売協会が通常総会を開く - | 製造現場ドットコム",
+        "time": "13:17",
+        "title": "「工作機械技術の発展へ」工作機械技術振興財団 第47回工作機械技術振興賞 贈賞式を開く - | 製造現場ドットコム",
         "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55ejB5dncwazlNay1id3RxNWhzN19DOXI5YWtTZkdnaW1scFlxNkVyQ1VMcnl4V1Awam1pNUhrN2VDNy1YdkVqSXFR?oc=5",
-        "publishedAt": "2026-07-06T04:29:15.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBLLUJfbnJ6WkhFYnltdDhOTldWMXUzeTZQalJVY0IwdWZ1a1h6N24xQ2xKYmdpM0R1c2c4Y3dwUWUwYVZNWGRyOGR3?oc=5",
+        "publishedAt": "2026-07-06T04:17:18.000Z"
       },
       {
         "time": "15:03",
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金のポイント解説",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-07-01T07:00:00.000Z"
       }
     ]
   }
