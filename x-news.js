@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-06T22:32:16.071Z",
+  "updatedAt": "2026-07-06T23:30:03.241Z",
   "items": [
     {
-      "time": "22:17",
-      "title": "高市首相 NATO首脳会議を欠席へ",
+      "time": "07:47",
+      "title": "西日本 激しい雨や雷雨に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586983?source=rss",
-      "publishedAt": "2026-07-06T13:17:24.000Z",
-      "xQuery": "高市首相 NATO首脳会議を欠席へ"
+      "url": "https://news.yahoo.co.jp/pickup/6587000?source=rss",
+      "publishedAt": "2026-07-06T22:47:56.000Z",
+      "xQuery": "西日本 激しい雨や雷雨に注意"
     },
     {
-      "time": "21:43",
-      "title": "5歳不明2週間 父「諦めていない」",
+      "time": "07:53",
+      "title": "1類感染症患者の診療体制 強化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586980?source=rss",
-      "publishedAt": "2026-07-06T12:43:45.000Z",
-      "xQuery": "5歳不明2週間 父「諦めていない」"
+      "url": "https://news.yahoo.co.jp/pickup/6587002?source=rss",
+      "publishedAt": "2026-07-06T22:53:26.000Z",
+      "xQuery": "1類感染症患者の診療体制 強化へ"
     },
     {
       "time": "07:20",
