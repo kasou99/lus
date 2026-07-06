@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-06T08:36:57.014Z",
+  "updatedAt": "2026-07-06T10:40:33.371Z",
   "items": [
     {
-      "time": "15:38",
-      "title": "上昇続く長期金利 一時2.83%に",
+      "time": "18:22",
+      "title": "消費減税 13日にも協議再開で合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586936?source=rss",
-      "publishedAt": "2026-07-06T06:38:09.000Z",
-      "xQuery": "上昇続く長期金利 一時2.83%に"
+      "url": "https://news.yahoo.co.jp/pickup/6586961?source=rss",
+      "publishedAt": "2026-07-06T09:22:29.000Z",
+      "xQuery": "消費減税 13日にも協議再開で合意"
     },
     {
-      "time": "16:08",
-      "title": "中国ミサイル発射 日本が懸念伝達",
+      "time": "18:57",
+      "title": "中国が進める世論工作 圧力拡大か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586939?source=rss",
-      "publishedAt": "2026-07-06T07:08:41.000Z",
-      "xQuery": "中国ミサイル発射 日本が懸念伝達"
+      "url": "https://news.yahoo.co.jp/pickup/6586964?source=rss",
+      "publishedAt": "2026-07-06T09:57:32.000Z",
+      "xQuery": "中国が進める世論工作 圧力拡大か"
     },
     {
-      "time": "16:34",
-      "title": "はやぶさ2 小惑星トリフネ撮影",
+      "time": "18:05",
+      "title": "女性が刺され死亡 直後に死亡事故",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586942?source=rss",
-      "publishedAt": "2026-07-06T07:34:22.000Z",
-      "xQuery": "はやぶさ2 小惑星トリフネ撮影"
+      "url": "https://news.yahoo.co.jp/pickup/6586959?source=rss",
+      "publishedAt": "2026-07-06T09:05:36.000Z",
+      "xQuery": "女性が刺され死亡 直後に死亡事故"
     },
     {
-      "time": "17:18",
-      "title": "全東信が破産 負債は約1259億円",
+      "time": "19:29",
+      "title": "同居人の唇を縫った疑い 女を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586950?source=rss",
-      "publishedAt": "2026-07-06T08:18:23.000Z",
-      "xQuery": "全東信が破産 負債は約1259億円"
+      "url": "https://news.yahoo.co.jp/pickup/6586966?source=rss",
+      "publishedAt": "2026-07-06T10:29:48.000Z",
+      "xQuery": "同居人の唇を縫った疑い 女を逮捕"
     },
     {
-      "time": "16:15",
-      "title": "鳥人間 作業員が琵琶湖落下し死亡",
+      "time": "19:08",
+      "title": "物価高 20代会社員のリアルな弁当",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586940?source=rss",
-      "publishedAt": "2026-07-06T07:15:58.000Z",
-      "xQuery": "鳥人間 作業員が琵琶湖落下し死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6586963?source=rss",
+      "publishedAt": "2026-07-06T10:08:08.000Z",
+      "xQuery": "物価高 20代会社員のリアルな弁当"
     }
   ]
 };
