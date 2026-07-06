@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-05T23:54:55.789Z",
+  "updatedAt": "2026-07-06T00:58:36.114Z",
   "items": [
     {
-      "time": "07:21",
-      "title": "九州～東海 激しい雨や落雷に注意",
+      "time": "09:31",
+      "title": "豪雨で親友失う 教師志し語り継ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586877?source=rss",
-      "publishedAt": "2026-07-05T22:21:12.000Z",
-      "xQuery": "九州～東海 激しい雨や落雷に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6586893?source=rss",
+      "publishedAt": "2026-07-06T00:31:36.000Z",
+      "xQuery": "豪雨で親友失う 教師志し語り継ぐ"
     },
     {
       "time": "08:04",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586881?source=rss",
       "publishedAt": "2026-07-05T23:04:48.000Z",
       "xQuery": "露「制圧」要衝 ウが砲撃停止拒否"
-    },
-    {
-      "time": "07:27",
-      "title": "防衛省に新たな局を増設へ調整",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586878?source=rss",
-      "publishedAt": "2026-07-05T22:27:14.000Z",
-      "xQuery": "防衛省に新たな局を増設へ調整"
     },
     {
       "time": "07:56",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6586885?source=rss",
       "publishedAt": "2026-07-05T23:01:38.000Z",
       "xQuery": "6歳の娘を殺害した疑い 父親逮捕"
+    },
+    {
+      "time": "08:43",
+      "title": "寺に放火疑い 僧侶見習いを逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6586887?source=rss",
+      "publishedAt": "2026-07-05T23:43:55.000Z",
+      "xQuery": "寺に放火疑い 僧侶見習いを逮捕"
     }
   ]
 };

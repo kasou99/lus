@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T23:54:55.339Z",
+  "updatedAt": "2026-07-06T00:58:34.960Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-07-05T20:04:11.000Z"
       },
       {
+        "time": "07:46",
+        "title": "川崎会議所、富士通・松本氏と契約 AI指南役に",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BUTBoUHQ3djRWNjM2MWtBc2Y2aVhkWU5qNloxM2RaQXdhMDlTXzRMNms2N05maFVRUndaVjB5Z09GQnRoZ2tSMzlIMUh1anFPdXNiZzBkYXpubTBrekUxZUtBUlJHM1pGNkx4LWVXdVZFUnE0MnBkbWMwYw?oc=5",
+        "publishedAt": "2026-07-05T22:46:08.000Z"
+      },
+      {
         "time": "10:21",
         "title": "分析ツールは、世にあふれている。足りないのは、いつも\"土台\"のほう。--設備保全クラウド「ミロクルカルテ」",
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JRGhjMEFOZTN0UjM2dThGZnBHUWY1YmJBYnhnbi1reFFYWjdDRHFjWnBqYV9oT0s5bTRzMmpYVTBjVW1KUmY1R3Fma2JsQW9OV2c?oc=5",
         "publishedAt": "2026-07-05T01:21:50.000Z"
-      },
-      {
-        "time": "07:46",
-        "title": "TKC、最新の自治体DX紹介 宇都宮でイベント",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HWVZkWkdlaDhPekEyUWZPVDJlXzFfRlVxYlJ6bDQzSnl1RHJrZWVVOVp0OTVzTFc3TFBlTE1vSFJVMWtRclNzTjI5eFVGR1JyZXhCTllBamg0S3plaXJsTC1iVXNfUkVkb1R5TG9CVUZoSnp3NFdUSGM0Zw?oc=5",
-        "publishedAt": "2026-07-05T22:46:08.000Z"
       },
       {
         "time": "18:00",
@@ -45,11 +45,11 @@
         "publishedAt": "2026-07-05T09:00:00.000Z"
       },
       {
-        "time": "14:58",
-        "title": "消費減税で自民 早く一定の方向を",
+        "time": "09:23",
+        "title": "建設業の倒産 4年連続前年上回る",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586802?source=rss",
-        "publishedAt": "2026-07-05T05:58:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586892?source=rss",
+        "publishedAt": "2026-07-06T00:23:53.000Z"
       },
       {
         "time": "22:27",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "09:53",
+        "title": "米・ウクライナ 8日に首脳会談",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586896?source=rss",
+        "publishedAt": "2026-07-06T00:53:09.000Z"
+      },
       {
         "time": "21:40",
         "title": "米建国250年 行事の私物化批判も",
@@ -94,22 +101,15 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586881?source=rss",
         "publishedAt": "2026-07-05T23:04:48.000Z"
-      },
-      {
-        "time": "19:04",
-        "title": "猛暑のパリ セーヌ川での遊泳人気",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586835?source=rss",
-        "publishedAt": "2026-07-05T10:04:41.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "14:58",
-        "title": "消費減税で自民 早く一定の方向を",
+        "time": "09:23",
+        "title": "建設業の倒産 4年連続前年上回る",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586802?source=rss",
-        "publishedAt": "2026-07-05T05:58:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586892?source=rss",
+        "publishedAt": "2026-07-06T00:23:53.000Z"
       },
       {
         "time": "22:27",
@@ -156,18 +156,18 @@
         "publishedAt": "2026-07-05T23:01:38.000Z"
       },
       {
-        "time": "20:57",
-        "title": "市長選候補「仙人」得票2割の衝撃",
+        "time": "09:31",
+        "title": "豪雨で親友失う 教師志し語り継ぐ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586848?source=rss",
-        "publishedAt": "2026-07-05T11:57:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586893?source=rss",
+        "publishedAt": "2026-07-06T00:31:36.000Z"
       },
       {
-        "time": "21:08",
-        "title": "4歳不明から30年 男の行方を捜査",
+        "time": "09:47",
+        "title": "バンダイchに攻撃疑い 15歳を逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586849?source=rss",
-        "publishedAt": "2026-07-05T12:08:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586895?source=rss",
+        "publishedAt": "2026-07-06T00:47:37.000Z"
       },
       {
         "time": "08:43",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-07-05T23:43:55.000Z"
       },
       {
+        "time": "20:57",
+        "title": "市長選候補「仙人」得票2割の衝撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586848?source=rss",
+        "publishedAt": "2026-07-05T11:57:46.000Z"
+      },
+      {
         "time": "21:54",
         "title": "スイミング大会中に溺れ 男性死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586857?source=rss",
         "publishedAt": "2026-07-05T12:54:54.000Z"
-      },
-      {
-        "time": "23:36",
-        "title": "警察学校生が容疑者を追う 男逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586869?source=rss",
-        "publishedAt": "2026-07-05T14:36:09.000Z"
       }
     ],
     "subsidyHeadlines": [
