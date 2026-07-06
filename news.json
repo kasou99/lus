@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T01:43:16.071Z",
+  "updatedAt": "2026-07-06T03:17:00.995Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45X3pZVjVSTlVWaGlkS1BrTUJERkwzQ3p0cnUzdUV2elJ0SFl2OUp4czVjQXA0SHVUUFR4Q0x3MVVVb19JWTZjY0RrdF9pMVc5SjZfUXRvY0FDeE0?oc=5",
         "publishedAt": "2026-07-05T20:02:35.000Z"
+      },
+      {
+        "time": "10:45",
+        "title": "圧電アクチュエータ調査レポート：市場規模、シェア、動向、予測2026-2032",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCQzVfek1aYzgyMy1qbGpQLUhHVlluVjI1ZVZPeXRuSkN0OEZhOTJjVmxGbGpWcjFZTFRaaTZkNnpqRVZHMDdmbTZVaXB3QQ?oc=5",
+        "publishedAt": "2026-07-06T01:45:00.000Z"
       },
       {
         "time": "23:40",
@@ -31,32 +38,25 @@
         "publishedAt": "2026-07-05T20:04:11.000Z"
       },
       {
-        "time": "08:48",
-        "title": "TKC、最新の自治体DX紹介 宇都宮でイベント",
+        "time": "10:16",
+        "title": "眞和興業、メッキ前後工程を内製化 新工場で一貫生産",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4bDBUTE1hOC1pNWNyeFRVN3MteHJIMkI0WC1pelNjemh5WHJ5RnNRYk5wc19hN2FMQXVYLUlQZmFQd3hOR3NFNU9jNUZFZXkzTkdnV3FlaGpjX2s?oc=5",
-        "publishedAt": "2026-07-05T23:48:45.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyblFtTGdwLXB2V0ktSVRqdHY5X0h4SzJBaUtYNmN1dFVseERncFpNX294dTR2UWJ1WGFILVJoSlNZYVpMSFpTbGhER0g3SDRIb3dFVzhLaTk4RTA?oc=5",
+        "publishedAt": "2026-07-06T01:16:07.000Z"
       },
       {
-        "time": "10:27",
-        "title": "書店4割「赤字」10年前から2割減",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586898?source=rss",
-        "publishedAt": "2026-07-06T01:27:10.000Z"
+        "time": "09:45",
+        "title": "川崎会議所、富士通・松本氏と契約 AI指南役に",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1veDB5c1dxMzNBX0lDc1ZlZGpGZm4xaTU5WW1zR0FYQjkxbTMweXRMM2MtLTdIQVowMVhOWklLMGRpYjk0ODFzZ0dmWVNnZS1zalRQSjVPbHVIWkU?oc=5",
+        "publishedAt": "2026-07-06T00:45:00.000Z"
       },
       {
-        "time": "09:23",
-        "title": "建設業の倒産 4年連続前年上回る",
+        "time": "11:37",
+        "title": "金融庁 ウリ信組元役員らを告発へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586892?source=rss",
-        "publishedAt": "2026-07-06T00:23:53.000Z"
-      },
-      {
-        "time": "22:27",
-        "title": "英石油大手 山形の洋上風力撤退か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586863?source=rss",
-        "publishedAt": "2026-07-05T13:27:08.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586911?source=rss",
+        "publishedAt": "2026-07-06T02:37:31.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "11:37",
+        "title": "金融庁 ウリ信組元役員らを告発へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6586911?source=rss",
+        "publishedAt": "2026-07-06T02:37:31.000Z"
+      },
+      {
         "time": "10:27",
         "title": "書店4割「赤字」10年前から2割減",
         "source": "Yahoo!ニュース",
@@ -126,13 +133,6 @@
         "publishedAt": "2026-07-05T13:27:08.000Z"
       },
       {
-        "time": "16:02",
-        "title": "供給過多 新米3000円割れ予想も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586808?source=rss",
-        "publishedAt": "2026-07-05T07:02:42.000Z"
-      },
-      {
         "time": "20:15",
         "title": "銀座に異変 大衆チェーン続々出店",
         "source": "Yahoo!ニュース",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "08:01",
-        "title": "6歳の娘を殺害した疑い 父親逮捕",
+        "time": "11:32",
+        "title": "6歳殺害疑いで父逮捕 3歳も死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586885?source=rss",
-        "publishedAt": "2026-07-05T23:01:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6586907?source=rss",
+        "publishedAt": "2026-07-06T02:32:23.000Z"
       },
       {
         "time": "09:31",

@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-06T01:43:17.083Z",
+  "updatedAt": "2026-07-06T03:17:01.803Z",
   "items": [
     {
-      "time": "09:31",
-      "title": "豪雨で親友失う 教師志し語り継ぐ",
+      "time": "11:15",
+      "title": "台風9号 10-11日に沖縄接近見通し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586893?source=rss",
-      "publishedAt": "2026-07-06T00:31:36.000Z",
-      "xQuery": "豪雨で親友失う 教師志し語り継ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6586903?source=rss",
+      "publishedAt": "2026-07-06T02:15:59.000Z",
+      "xQuery": "台風9号 10-11日に沖縄接近見通し"
     },
     {
-      "time": "07:56",
-      "title": "「クマ不安」欠席とせず 各地学校",
+      "time": "09:53",
+      "title": "米・ウクライナ 8日に首脳会談",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586882?source=rss",
-      "publishedAt": "2026-07-05T22:56:12.000Z",
-      "xQuery": "「クマ不安」欠席とせず 各地学校"
+      "url": "https://news.yahoo.co.jp/pickup/6586896?source=rss",
+      "publishedAt": "2026-07-06T00:53:09.000Z",
+      "xQuery": "米・ウクライナ 8日に首脳会談"
     },
     {
-      "time": "09:23",
-      "title": "建設業の倒産 4年連続前年上回る",
+      "time": "11:37",
+      "title": "金融庁 ウリ信組元役員らを告発へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586892?source=rss",
-      "publishedAt": "2026-07-06T00:23:53.000Z",
-      "xQuery": "建設業の倒産 4年連続前年上回る"
+      "url": "https://news.yahoo.co.jp/pickup/6586911?source=rss",
+      "publishedAt": "2026-07-06T02:37:31.000Z",
+      "xQuery": "金融庁 ウリ信組元役員らを告発へ"
     },
     {
-      "time": "09:47",
-      "title": "バンダイchに攻撃疑い 15歳を逮捕",
+      "time": "11:32",
+      "title": "6歳殺害疑いで父逮捕 3歳も死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586895?source=rss",
-      "publishedAt": "2026-07-06T00:47:37.000Z",
-      "xQuery": "バンダイchに攻撃疑い 15歳を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6586907?source=rss",
+      "publishedAt": "2026-07-06T02:32:23.000Z",
+      "xQuery": "6歳殺害疑いで父逮捕 3歳も死亡"
     },
     {
-      "time": "08:43",
-      "title": "寺に放火疑い 僧侶見習いを逮捕",
+      "time": "10:07",
+      "title": "男児濁流に流され 1.2km先で救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586887?source=rss",
-      "publishedAt": "2026-07-05T23:43:55.000Z",
-      "xQuery": "寺に放火疑い 僧侶見習いを逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6586897?source=rss",
+      "publishedAt": "2026-07-06T01:07:00.000Z",
+      "xQuery": "男児濁流に流され 1.2km先で救助"
     }
   ]
 };
