@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-06T12:21:20.603Z",
+  "updatedAt": "2026-07-06T13:48:39.084Z",
   "items": [
     {
-      "time": "21:02",
-      "title": "日本政府 中国の軍事動向を注視",
+      "time": "22:17",
+      "title": "高市首相 NATO首脳会議を欠席へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586973?source=rss",
-      "publishedAt": "2026-07-06T12:02:33.000Z",
-      "xQuery": "日本政府 中国の軍事動向を注視"
+      "url": "https://news.yahoo.co.jp/pickup/6586983?source=rss",
+      "publishedAt": "2026-07-06T13:17:24.000Z",
+      "xQuery": "高市首相 NATO首脳会議を欠席へ"
     },
     {
-      "time": "21:03",
-      "title": "年金運用が好調 年金財政どうなる",
+      "time": "21:43",
+      "title": "5歳不明2週間 父「諦めていない」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586976?source=rss",
-      "publishedAt": "2026-07-06T12:03:37.000Z",
-      "xQuery": "年金運用が好調 年金財政どうなる"
+      "url": "https://news.yahoo.co.jp/pickup/6586980?source=rss",
+      "publishedAt": "2026-07-06T12:43:45.000Z",
+      "xQuery": "5歳不明2週間 父「諦めていない」"
     },
     {
-      "time": "19:53",
-      "title": "愛知で男性刺されて搬送 男が逃走",
+      "time": "16:15",
+      "title": "鳥人間 作業員が琵琶湖落下し死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586967?source=rss",
-      "publishedAt": "2026-07-06T10:53:55.000Z",
-      "xQuery": "愛知で男性刺されて搬送 男が逃走"
+      "url": "https://news.yahoo.co.jp/pickup/6586940?source=rss",
+      "publishedAt": "2026-07-06T07:15:58.000Z",
+      "xQuery": "鳥人間 作業員が琵琶湖落下し死亡"
     },
     {
-      "time": "19:29",
-      "title": "同居人の唇を縫った疑い 女を逮捕",
+      "time": "22:04",
+      "title": "「漁船乗るか」誘拐疑いで4人逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586966?source=rss",
-      "publishedAt": "2026-07-06T10:29:48.000Z",
-      "xQuery": "同居人の唇を縫った疑い 女を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6586982?source=rss",
+      "publishedAt": "2026-07-06T13:04:15.000Z",
+      "xQuery": "「漁船乗るか」誘拐疑いで4人逮捕"
     },
     {
-      "time": "19:08",
-      "title": "物価高 20代会社員のリアルな弁当",
+      "time": "21:25",
+      "title": "関空送迎レーン有料化へ 5分300円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586963?source=rss",
-      "publishedAt": "2026-07-06T10:08:08.000Z",
-      "xQuery": "物価高 20代会社員のリアルな弁当"
+      "url": "https://news.yahoo.co.jp/pickup/6586977?source=rss",
+      "publishedAt": "2026-07-06T12:25:49.000Z",
+      "xQuery": "関空送迎レーン有料化へ 5分300円"
     }
   ]
 };
