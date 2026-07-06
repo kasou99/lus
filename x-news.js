@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-06T03:17:01.803Z",
+  "updatedAt": "2026-07-06T04:58:35.978Z",
   "items": [
     {
       "time": "11:15",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "台風9号 10-11日に沖縄接近見通し"
     },
     {
-      "time": "09:53",
-      "title": "米・ウクライナ 8日に首脳会談",
+      "time": "12:55",
+      "title": "陸に加え海へ 北朝鮮の海軍強化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586896?source=rss",
-      "publishedAt": "2026-07-06T00:53:09.000Z",
-      "xQuery": "米・ウクライナ 8日に首脳会談"
+      "url": "https://news.yahoo.co.jp/pickup/6586918?source=rss",
+      "publishedAt": "2026-07-06T03:55:40.000Z",
+      "xQuery": "陸に加え海へ 北朝鮮の海軍強化"
     },
     {
-      "time": "11:37",
-      "title": "金融庁 ウリ信組元役員らを告発へ",
+      "time": "13:41",
+      "title": "車で小6はねた疑いの男 無免許か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586911?source=rss",
-      "publishedAt": "2026-07-06T02:37:31.000Z",
-      "xQuery": "金融庁 ウリ信組元役員らを告発へ"
+      "url": "https://news.yahoo.co.jp/pickup/6586926?source=rss",
+      "publishedAt": "2026-07-06T04:41:15.000Z",
+      "xQuery": "車で小6はねた疑いの男 無免許か"
     },
     {
-      "time": "11:32",
-      "title": "6歳殺害疑いで父逮捕 3歳も死亡",
+      "time": "12:36",
+      "title": "車と衝突 自転車の高校生が重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586907?source=rss",
-      "publishedAt": "2026-07-06T02:32:23.000Z",
-      "xQuery": "6歳殺害疑いで父逮捕 3歳も死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6586922?source=rss",
+      "publishedAt": "2026-07-06T03:36:47.000Z",
+      "xQuery": "車と衝突 自転車の高校生が重体"
     },
     {
-      "time": "10:07",
-      "title": "男児濁流に流され 1.2km先で救助",
+      "time": "12:21",
+      "title": "中古ゲーム ビジネスと訴訟の歴史",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586897?source=rss",
-      "publishedAt": "2026-07-06T01:07:00.000Z",
-      "xQuery": "男児濁流に流され 1.2km先で救助"
+      "url": "https://news.yahoo.co.jp/pickup/6586915?source=rss",
+      "publishedAt": "2026-07-06T03:21:19.000Z",
+      "xQuery": "中古ゲーム ビジネスと訴訟の歴史"
     }
   ]
 };
