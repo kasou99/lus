@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-07T01:00:39.914Z",
+  "updatedAt": "2026-07-07T02:22:06.826Z",
   "items": [
+    {
+      "time": "10:07",
+      "title": "米国務省 中国のミサイル発射批判",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587016?source=rss",
+      "publishedAt": "2026-07-07T01:07:24.000Z",
+      "xQuery": "米国務省 中国のミサイル発射批判"
+    },
     {
       "time": "09:31",
       "title": "参院正常化へ 首相追い込まれ転換",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587010?source=rss",
       "publishedAt": "2026-07-07T00:31:39.000Z",
       "xQuery": "参院正常化へ 首相追い込まれ転換"
-    },
-    {
-      "time": "07:47",
-      "title": "西日本 激しい雨や雷雨に注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587000?source=rss",
-      "publishedAt": "2026-07-06T22:47:56.000Z",
-      "xQuery": "西日本 激しい雨や雷雨に注意"
     },
     {
       "time": "08:50",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "内田梨瑚被告 懲役27年の判決確定"
     },
     {
+      "time": "10:26",
+      "title": "車にはねられ女性死亡 ひき逃げか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587017?source=rss",
+      "publishedAt": "2026-07-07T01:26:36.000Z",
+      "xQuery": "車にはねられ女性死亡 ひき逃げか"
+    },
+    {
       "time": "08:28",
       "title": "車と衝突 重体の男子高校生が死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587003?source=rss",
       "publishedAt": "2026-07-06T23:28:34.000Z",
       "xQuery": "車と衝突 重体の男子高校生が死亡"
-    },
-    {
-      "time": "07:20",
-      "title": "障害の少女監禁疑い 新たに兄逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6586995?source=rss",
-      "publishedAt": "2026-07-06T22:20:02.000Z",
-      "xQuery": "障害の少女監禁疑い 新たに兄逮捕"
     }
   ]
 };
