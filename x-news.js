@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-07T12:21:07.731Z",
+  "updatedAt": "2026-07-07T13:19:34.572Z",
   "items": [
     {
       "time": "20:41",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "自維 定数削減法案成立見送り確認"
     },
     {
-      "time": "18:12",
-      "title": "西太平洋展開する艦艇 中国正当化",
+      "time": "20:10",
+      "title": "8日 九州で35℃以上の猛暑日も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587073?source=rss",
-      "publishedAt": "2026-07-07T09:12:01.000Z",
-      "xQuery": "西太平洋展開する艦艇 中国正当化"
+      "url": "https://news.yahoo.co.jp/pickup/6587092?source=rss",
+      "publishedAt": "2026-07-07T11:10:50.000Z",
+      "xQuery": "8日 九州で35℃以上の猛暑日も"
     },
     {
-      "time": "18:58",
-      "title": "立花孝志被告の保釈 地裁が認めず",
+      "time": "21:27",
+      "title": "手足口病流行 15都県で警報レベル",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587083?source=rss",
-      "publishedAt": "2026-07-07T09:58:31.000Z",
-      "xQuery": "立花孝志被告の保釈 地裁が認めず"
+      "url": "https://news.yahoo.co.jp/pickup/6587101?source=rss",
+      "publishedAt": "2026-07-07T12:27:20.000Z",
+      "xQuery": "手足口病流行 15都県で警報レベル"
     },
     {
-      "time": "20:01",
-      "title": "全東信破産 融資焦げ付きの恐れも",
+      "time": "19:25",
+      "title": "激しく光る物体 沖縄で目撃20分",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587090?source=rss",
-      "publishedAt": "2026-07-07T11:01:10.000Z",
-      "xQuery": "全東信破産 融資焦げ付きの恐れも"
+      "url": "https://news.yahoo.co.jp/pickup/6587086?source=rss",
+      "publishedAt": "2026-07-07T10:25:25.000Z",
+      "xQuery": "激しく光る物体 沖縄で目撃20分"
     },
     {
       "time": "20:48",
