@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T20:40:32.284Z",
+  "updatedAt": "2026-07-07T21:33:56.090Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-07-07T04:30:00.000Z"
       },
       {
-        "time": "17:11",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-07-07T08:11:37.000Z"
-      },
-      {
         "time": "18:51",
         "title": "土曜版・７月６日の株式市場を前に。（鎌田伸一）｜マーケットプレス｜マネー・投資",
         "source": "radionikkei.jp",
@@ -38,18 +31,11 @@
         "publishedAt": "2026-07-07T09:51:47.000Z"
       },
       {
-        "time": "06:32",
-        "title": "パナソニック インダストリーが「産業オープンネット展 2026」に出展～圧力制御対応サーボアンプ「MINAS A7BRT」と低慣性小型サーボモータ「MSMGシリーズ」の新ラインアップを実機デモで紹介～ | 展示会・ショウルーム | イベント・スポンサー活動 | トピックス",
-        "source": "Panasonic Newsroom Global",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByazc1S0VZcVJwYW1GYnFBS1N4d3NiWWVuNEFrMEItY24welg0b0c4OVh0Ny1CWHd6WEd5eTAtR1NPRS1WdWdmZE90bE8yRzhoc1dTT0h3?oc=5",
-        "publishedAt": "2026-07-06T21:32:33.000Z"
-      },
-      {
-        "time": "06:04",
-        "title": "新工場棟が稼働、AIロボットがロボットを作る／安川電機",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94SXhnejJlTjdjWjVGVTZwUTl4NERtdW10Qk9MZXJtWnRtajN3bVVITHhVblFMSEpnZnhNdnN5RUZWTUUwYk1QQmg1dVJLaWZQdzJKTlMwbDB0Y0tWSFItVFNaTkU4TnZCekpJ?oc=5",
-        "publishedAt": "2026-07-06T21:04:37.000Z"
+        "time": "18:02",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-07-07T09:02:41.000Z"
       },
       {
         "time": "10:15",
@@ -57,6 +43,20 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BbWdqOGFDWlMwNUw5cG9sVjU1X3k5Y1pNWjdjU0hjdmlXMTFsc0x6MC0teFFGdzVDUzlLZHpYVUZEdkxRWjI1eEtQV0Z2eHc2anN1bjVjc09IUnI4d2t0NDk5QjRPbFNXQi1ObkRNUFBkS3JIZlE?oc=5",
         "publishedAt": "2026-07-07T01:15:20.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "NISA向き？50万円未満で買える好業績・好配当期待11銘柄 ―― 日本株投資戦略",
+        "source": "ZUU online",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xWEY5RHV3cW9LSmk2Z2FtVW4xOGliNlNERll3cmNrTGEwT2VFR3pmVExQV2JoOTJSVnRvSVl0S2NIelRkMXMwMVM4OE5iZw?oc=5",
+        "publishedAt": "2026-07-07T04:00:00.000Z"
+      },
+      {
+        "time": "09:57",
+        "title": "「働いた証し」を付加価値に 友伸エンジニアリング一関工場 作業で着用 デニム販売へ",
+        "source": "iwanichi.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41OTRRdXdySWx0Z0ZzNGx0Y1lPd0dneWtfaFpqTHZWUkxTRE81X2hMWVREMGdwaFYwbzZmUzVoVzlTWmJ1ZmZFZ3E5cVZmUGVFUEt4cFlCS2laZmM?oc=5",
+        "publishedAt": "2026-07-07T00:57:52.000Z"
       }
     ],
     "worldHeadlines": [

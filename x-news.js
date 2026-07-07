@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-07T20:40:33.117Z",
+  "updatedAt": "2026-07-07T21:33:56.995Z",
   "items": [
     {
       "time": "22:49",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "被告黙秘で7カ月 悩んだ裁判員"
     },
     {
-      "time": "23:54",
-      "title": "トヨタの米投資 トランプ氏が評価",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587116?source=rss",
-      "publishedAt": "2026-07-07T14:54:14.000Z",
-      "xQuery": "トヨタの米投資 トランプ氏が評価"
-    },
-    {
       "time": "23:15",
       "title": "穴開いた商船三井船 ホルムズ通過",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587111?source=rss",
       "publishedAt": "2026-07-07T14:07:54.000Z",
       "xQuery": "女性死亡 ひき逃げ疑いで25歳逮捕"
+    },
+    {
+      "time": "22:11",
+      "title": "ベネズエラ地震 バレーの主将死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587107?source=rss",
+      "publishedAt": "2026-07-07T13:11:01.000Z",
+      "xQuery": "ベネズエラ地震 バレーの主将死去"
     }
   ]
 };
