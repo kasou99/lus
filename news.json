@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T22:28:32.339Z",
+  "updatedAt": "2026-07-07T22:54:55.208Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-07-07T21:15:00.000Z"
       },
       {
+        "time": "07:19",
+        "title": "日本の工作機械、中国の地方都市に敗れ始める―中国メディア",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPXzBKZmY3MVRTNzdlbUZiVWFZXzFmcTRQbVFHdU9WRUFJanVhdndPcnYtUTRISlgxdm4xcDFhamZtOUlOeEFGRmFYaW5EQWJmVEQyaVlGWlhkdjNQTWxvTHYycVJxZGsxZkR6d1pUQmFfVFNXanlreG9QVU1FXzRlM0dkazA3MVZxUGRHZTVDeldsSGpRVlBsSdIBiwFBVV95cUxNSV9mb3g0MUt3SjZtNmk3WkpRaXpJdC1aU3NwWWxWVWpmZjIxcktnOTF1Nl9DdzF2U1ZaWlozZmt3dkVRSkJ1Q2EzODdTLWhEcmVlbGEwOURycDRwTGZZQ0hIcnBhWlhxYWZNM1VrZm1GOWkycjNXR1FPUmRCOGdja1FKZ2N2dG9zcHdj?oc=5",
+        "publishedAt": "2026-07-07T22:19:33.000Z"
+      },
+      {
         "time": "15:56",
         "title": "オートデスク、設備保全データを運用基盤に統合",
         "source": "LOGISTICS TODAY",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-07-07T09:51:47.000Z"
       },
       {
-        "time": "17:11",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-07-07T08:11:37.000Z"
-      },
-      {
         "time": "13:30",
         "title": "TAKISAWAが工具主軸型複合加工機、旋盤加工から歯車加工まで集約：工作機械",
         "source": "MONOist",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-07T04:30:00.000Z"
       },
       {
+        "time": "18:02",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-07-07T09:02:41.000Z"
+      },
+      {
         "time": "10:15",
         "title": "部品不足で生産ラインを止めないために--設備保全クラウド「ミロクルカルテ」、モバイルで完結する部品棚卸し機能α版をリリース",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BbWdqOGFDWlMwNUw5cG9sVjU1X3k5Y1pNWjdjU0hjdmlXMTFsc0x6MC0teFFGdzVDUzlLZHpYVUZEdkxRWjI1eEtQV0Z2eHc2anN1bjVjc09IUnI4d2t0NDk5QjRPbFNXQi1ObkRNUFBkS3JIZlE?oc=5",
         "publishedAt": "2026-07-07T01:15:20.000Z"
-      },
-      {
-        "time": "17:31",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-07-07T08:31:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:39",
+        "title": "違法性疑いの移植手術 潜むリスク",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587120?source=rss",
+        "publishedAt": "2026-07-07T22:39:58.000Z"
+      },
+      {
         "time": "22:15",
         "title": "被告黙秘で7カ月 悩んだ裁判員",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587106?source=rss",
         "publishedAt": "2026-07-07T13:15:38.000Z"
-      },
-      {
-        "time": "23:29",
-        "title": "再審無罪巡る国賠訴訟 原告が上告",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587114?source=rss",
-        "publishedAt": "2026-07-07T14:29:58.000Z"
       },
       {
         "time": "11:50",
