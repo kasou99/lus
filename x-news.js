@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-07T09:48:24.442Z",
+  "updatedAt": "2026-07-07T11:06:33.922Z",
   "items": [
     {
       "time": "18:45",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "西日本豪雨8年 亡き義母への思い"
     },
     {
-      "time": "16:09",
-      "title": "天の川 東北を中心に観測チャンス",
+      "time": "16:39",
+      "title": "広島知事 首相は原爆資料館視察を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587051?source=rss",
-      "publishedAt": "2026-07-07T07:09:17.000Z",
-      "xQuery": "天の川 東北を中心に観測チャンス"
+      "url": "https://news.yahoo.co.jp/pickup/6587060?source=rss",
+      "publishedAt": "2026-07-07T07:39:14.000Z",
+      "xQuery": "広島知事 首相は原爆資料館視察を"
     },
     {
-      "time": "17:17",
-      "title": "横浜の上半身のみの遺体 身元判明",
+      "time": "18:58",
+      "title": "立花孝志被告の保釈 地裁が認めず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587067?source=rss",
-      "publishedAt": "2026-07-07T08:17:39.000Z",
-      "xQuery": "横浜の上半身のみの遺体 身元判明"
+      "url": "https://news.yahoo.co.jp/pickup/6587083?source=rss",
+      "publishedAt": "2026-07-07T09:58:31.000Z",
+      "xQuery": "立花孝志被告の保釈 地裁が認めず"
     },
     {
-      "time": "17:45",
-      "title": "はま寿司強い憤り 相次ぐ迷惑行為",
+      "time": "18:02",
+      "title": "白タク疑い逮捕 120km/hで事故か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587070?source=rss",
-      "publishedAt": "2026-07-07T08:45:03.000Z",
-      "xQuery": "はま寿司強い憤り 相次ぐ迷惑行為"
+      "url": "https://news.yahoo.co.jp/pickup/6587069?source=rss",
+      "publishedAt": "2026-07-07T09:02:16.000Z",
+      "xQuery": "白タク疑い逮捕 120km/hで事故か"
     },
     {
-      "time": "16:12",
-      "title": "D.O容疑者逮捕 大麻など所持疑い",
+      "time": "19:25",
+      "title": "激しく光る物体 沖縄で目撃20分",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587054?source=rss",
-      "publishedAt": "2026-07-07T07:12:02.000Z",
-      "xQuery": "D.O容疑者逮捕 大麻など所持疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6587086?source=rss",
+      "publishedAt": "2026-07-07T10:25:25.000Z",
+      "xQuery": "激しく光る物体 沖縄で目撃20分"
     }
   ]
 };
