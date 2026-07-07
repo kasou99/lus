@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-06T23:57:48.418Z",
+  "updatedAt": "2026-07-07T01:00:39.914Z",
   "items": [
+    {
+      "time": "09:31",
+      "title": "参院正常化へ 首相追い込まれ転換",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587010?source=rss",
+      "publishedAt": "2026-07-07T00:31:39.000Z",
+      "xQuery": "参院正常化へ 首相追い込まれ転換"
+    },
     {
       "time": "07:47",
       "title": "西日本 激しい雨や雷雨に注意",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587000?source=rss",
       "publishedAt": "2026-07-06T22:47:56.000Z",
       "xQuery": "西日本 激しい雨や雷雨に注意"
-    },
-    {
-      "time": "07:53",
-      "title": "1類感染症患者の診療体制 強化へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587002?source=rss",
-      "publishedAt": "2026-07-06T22:53:26.000Z",
-      "xQuery": "1類感染症患者の診療体制 強化へ"
     },
     {
       "time": "08:50",
