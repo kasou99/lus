@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-07T03:48:19.489Z",
+  "updatedAt": "2026-07-07T05:26:00.009Z",
   "items": [
+    {
+      "time": "11:44",
+      "title": "高齢者医療負担 原則3割明記せず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587026?source=rss",
+      "publishedAt": "2026-07-07T02:44:23.000Z",
+      "xQuery": "高齢者医療負担 原則3割明記せず"
+    },
     {
       "time": "11:39",
       "title": "リニア着工 静岡知事が容認を表明",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "リニア着工 静岡知事が容認を表明"
     },
     {
-      "time": "10:07",
-      "title": "米国務省 中国のミサイル発射批判",
+      "time": "14:16",
+      "title": "空気注入 殺人罪2件のうち1件無罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587016?source=rss",
-      "publishedAt": "2026-07-07T01:07:24.000Z",
-      "xQuery": "米国務省 中国のミサイル発射批判"
+      "url": "https://news.yahoo.co.jp/pickup/6587040?source=rss",
+      "publishedAt": "2026-07-07T05:16:11.000Z",
+      "xQuery": "空気注入 殺人罪2件のうち1件無罪"
     },
     {
       "time": "11:50",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "子2人死亡 逮捕の父「将来悲観」"
     },
     {
-      "time": "11:43",
-      "title": "愛知の強盗傷害事件 うそだった",
+      "time": "13:17",
+      "title": "18年前に男性を殺害疑い 男を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587023?source=rss",
-      "publishedAt": "2026-07-07T02:43:15.000Z",
-      "xQuery": "愛知の強盗傷害事件 うそだった"
-    },
-    {
-      "time": "12:10",
-      "title": "ブルーカラー 就活市場で活気づく",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587030?source=rss",
-      "publishedAt": "2026-07-07T03:10:13.000Z",
-      "xQuery": "ブルーカラー 就活市場で活気づく"
+      "url": "https://news.yahoo.co.jp/pickup/6587037?source=rss",
+      "publishedAt": "2026-07-07T04:17:33.000Z",
+      "xQuery": "18年前に男性を殺害疑い 男を逮捕"
     }
   ]
 };

@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-07-07T03:48:18.715Z",
+  "updatedAt": "2026-07-07T05:25:59.384Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:26",
+        "time": "13:30",
+        "title": "TAKISAWAが工具主軸型複合加工機、旋盤加工から歯車加工まで集約：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqY3lzcUpwTF93RXlBQkdwdkNiRlhmcDVkSFpGX201dFlMTmRwbGstZERhYnJJT1VZTjV2TmlwQmNtSUZDSm5OUkIxQ282a25oZl81bW04SFNPTVlEcHljVGlYeDdnZS1GS01YSkpBaw?oc=5",
+        "publishedAt": "2026-07-07T04:30:00.000Z"
+      },
+      {
+        "time": "05:28",
         "title": "「工作機械技術の発展へ」工作機械技術振興財団 第47回工作機械技術振興賞 贈賞式を開く - | 製造現場ドットコム",
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBLLUJfbnJ6WkhFYnltdDhOTldWMXUzeTZQalJVY0IwdWZ1a1h6N24xQ2xKYmdpM0R1c2c4Y3dwUWUwYVZNWGRyOGR3?oc=5",
-        "publishedAt": "2026-07-06T20:26:15.000Z"
+        "publishedAt": "2026-07-06T20:28:54.000Z"
       },
       {
         "time": "06:32",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-07-07T01:15:20.000Z"
       },
       {
-        "time": "08:25",
-        "title": "中小、今年度47％が設備投資 意欲高まるも規模縮小 日商まとめ",
+        "time": "13:00",
+        "title": "NISA向き？50万円未満で買える好業績・好配当期待11銘柄 ―― 日本株投資戦略",
+        "source": "ZUU online",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xWEY5RHV3cW9LSmk2Z2FtVW4xOGliNlNERll3cmNrTGEwT2VFR3pmVExQV2JoOTJSVnRvSVl0S2NIelRkMXMwMVM4OE5iZw?oc=5",
+        "publishedAt": "2026-07-07T04:00:00.000Z"
+      },
+      {
+        "time": "07:35",
+        "title": "三菱UFJFG、世界トップ5へ改革加速 資本効率を重視",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjclQ4WHdIVGZ1aXlZemg5SHlIT2pyUFVkZ3poWEU4bEVsRnRxWkxSbmtBSTYzcmdneDcwaUJma3VmbzFSQ0F4bE5vTmJZSUZmX19vWmwySWhLLUU?oc=5",
-        "publishedAt": "2026-07-06T23:25:28.000Z"
-      },
-      {
-        "time": "09:57",
-        "title": "「働いた証し」を付加価値に 友伸エンジニアリング一関工場 作業で着用 デニム販売へ",
-        "source": "iwanichi.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41OTRRdXdySWx0Z0ZzNGx0Y1lPd0dneWtfaFpqTHZWUkxTRE81X2hMWVREMGdwaFYwbzZmUzVoVzlTWmJ1ZmZFZ3E5cVZmUGVFUEt4cFlCS2laZmM?oc=5",
-        "publishedAt": "2026-07-07T00:57:52.000Z"
-      },
-      {
-        "time": "05:28",
-        "title": "「地政学リスク警戒も需要に期待」日本工作機械販売協会が通常総会を開く - | 製造現場ドットコム",
-        "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55ejB5dncwazlNay1id3RxNWhzN19DOXI5YWtTZkdnaW1scFlxNkVyQ1VMcnl4V1Awam1pNUhrN2VDNy1YdkVqSXFR?oc=5",
-        "publishedAt": "2026-07-06T20:28:54.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAydzBUbzZ5MVVrOXA2S2ZGRXZHWE91Zzd6Xy1wOTNUc0xPQVdxUE1BczFfX3lCMVBXWHA3c1VzMDhkLURWOUFrMElISzBmRjJhSjQ4elZhRTVLY1E?oc=5",
+        "publishedAt": "2026-07-06T22:35:14.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:16",
+        "title": "空気注入 殺人罪2件のうち1件無罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587040?source=rss",
+        "publishedAt": "2026-07-07T05:16:11.000Z"
+      },
+      {
         "time": "08:50",
         "title": "内田梨瑚被告 懲役27年の判決確定",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587028?source=rss",
         "publishedAt": "2026-07-07T02:50:14.000Z"
-      },
-      {
-        "time": "16:15",
-        "title": "鳥人間 作業員が琵琶湖落下し死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586940?source=rss",
-        "publishedAt": "2026-07-06T07:15:58.000Z"
       },
       {
         "time": "07:20",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-07-07T01:26:36.000Z"
       },
       {
-        "time": "08:28",
-        "title": "車と衝突 重体の男子高校生が死亡",
+        "time": "13:17",
+        "title": "18年前に男性を殺害疑い 男を逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587003?source=rss",
-        "publishedAt": "2026-07-06T23:28:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587037?source=rss",
+        "publishedAt": "2026-07-07T04:17:33.000Z"
       }
     ],
     "subsidyHeadlines": [
