@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-07T19:37:06.516Z",
+  "updatedAt": "2026-07-07T20:40:32.284Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "DMG森が工作機械向けフィジカルAI開発へ、100TBのデータ収集目指す",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wZHN1SEdORVBvdDR3aldRY3gtNDRiNWxwd3Y5NFVaX1g4MWtPdXc4dVdLSFJtekU4OWZfLTJyZ2ZQWnlINUpsVmJsVXEyTHl0TUt1WFhCMmxRbFhlYjNmdGNmMm5iblFpaXBkag?oc=5",
+        "publishedAt": "2026-07-07T20:00:00.000Z"
+      },
       {
         "time": "15:56",
         "title": "オートデスク、設備保全データを運用基盤に統合",
@@ -17,20 +24,6 @@
         "publishedAt": "2026-07-07T04:30:00.000Z"
       },
       {
-        "time": "05:28",
-        "title": "「工作機械技術の発展へ」工作機械技術振興財団 第47回工作機械技術振興賞 贈賞式を開く - | 製造現場ドットコム",
-        "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBLLUJfbnJ6WkhFYnltdDhOTldWMXUzeTZQalJVY0IwdWZ1a1h6N24xQ2xKYmdpM0R1c2c4Y3dwUWUwYVZNWGRyOGR3?oc=5",
-        "publishedAt": "2026-07-06T20:28:54.000Z"
-      },
-      {
-        "time": "06:32",
-        "title": "パナソニック インダストリーが「産業オープンネット展 2026」に出展～圧力制御対応サーボアンプ「MINAS A7BRT」と低慣性小型サーボモータ「MSMGシリーズ」の新ラインアップを実機デモで紹介～ | 展示会・ショウルーム | イベント・スポンサー活動 | トピックス",
-        "source": "Panasonic Newsroom Global",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByazc1S0VZcVJwYW1GYnFBS1N4d3NiWWVuNEFrMEItY24welg0b0c4OVh0Ny1CWHd6WEd5eTAtR1NPRS1WdWdmZE90bE8yRzhoc1dTT0h3?oc=5",
-        "publishedAt": "2026-07-06T21:32:33.000Z"
-      },
-      {
         "time": "17:11",
         "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
         "source": "山陽新聞",
@@ -43,6 +36,13 @@
         "source": "radionikkei.jp",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DMXRsb2c4dUtOX28yTHJndDFuNUFsdUVwbEhtTjBiWENONmhzdlYxcjRwVVIzRy11Vm1WcUttWjhrZGNhdUYtLTY3MjNMdjNhdjRMUlh2ZGJoaFNFM0c1WExzZnE?oc=5",
         "publishedAt": "2026-07-07T09:51:47.000Z"
+      },
+      {
+        "time": "06:32",
+        "title": "パナソニック インダストリーが「産業オープンネット展 2026」に出展～圧力制御対応サーボアンプ「MINAS A7BRT」と低慣性小型サーボモータ「MSMGシリーズ」の新ラインアップを実機デモで紹介～ | 展示会・ショウルーム | イベント・スポンサー活動 | トピックス",
+        "source": "Panasonic Newsroom Global",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByazc1S0VZcVJwYW1GYnFBS1N4d3NiWWVuNEFrMEItY24welg0b0c4OVh0Ny1CWHd6WEd5eTAtR1NPRS1WdWdmZE90bE8yRzhoc1dTT0h3?oc=5",
+        "publishedAt": "2026-07-06T21:32:33.000Z"
       },
       {
         "time": "06:04",
