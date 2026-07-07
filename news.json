@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-07T16:53:29.121Z",
+  "updatedAt": "2026-07-07T17:43:05.640Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "13:30",
-        "title": "TAKISAWAが工具主軸型複合加工機、旋盤加工から歯車加工まで集約：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqY3lzcUpwTF93RXlBQkdwdkNiRlhmcDVkSFpGX201dFlMTmRwbGstZERhYnJJT1VZTjV2TmlwQmNtSUZDSm5OUkIxQ282a25oZl81bW04SFNPTVlEcHljVGlYeDdnZS1GS01YSkpBaw?oc=5",
-        "publishedAt": "2026-07-07T04:30:00.000Z"
-      },
       {
         "time": "15:56",
         "title": "オートデスク、設備保全データを運用基盤に統合",
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52YUhOWUR3UkhzUlZaS2F1MHc1MGQ3MFZjN0dGdzRITElQcHc5ZHNLQi1ubzcwWDVubVFTRmp4c21HNFhHaVVZUw?oc=5",
         "publishedAt": "2026-07-07T06:56:13.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "TAKISAWAが工具主軸型複合加工機、旋盤加工から歯車加工まで集約：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqY3lzcUpwTF93RXlBQkdwdkNiRlhmcDVkSFpGX201dFlMTmRwbGstZERhYnJJT1VZTjV2TmlwQmNtSUZDSm5OUkIxQ282a25oZl81bW04SFNPTVlEcHljVGlYeDdnZS1GS01YSkpBaw?oc=5",
+        "publishedAt": "2026-07-07T04:30:00.000Z"
       },
       {
         "time": "05:28",
@@ -24,18 +24,18 @@
         "publishedAt": "2026-07-06T20:28:54.000Z"
       },
       {
-        "time": "03:40",
-        "title": "工学研究科工学専攻機械工学領域の田邊響介さんら(中尾研究室)が公益財団法人工作機械技術振興財団「工作機械技術振興賞・奨励賞」を受賞／お知らせ - kanagawa-u.ac.jp",
-        "source": "kanagawa-u.ac.jp",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XTFZTZmpsc2tOQTVmc3M5SXV3MGU5ZDF0YlRfR3d5MHBoOS1SZFl1YmJkTFl1Mm90SkZhQzk4NHltYTltTWtzQXQ0VGZsVUJ0TDNTN0liQ2ROMWNOTUtRVA?oc=5",
-        "publishedAt": "2026-07-06T18:40:21.000Z"
-      },
-      {
         "time": "06:32",
         "title": "パナソニック インダストリーが「産業オープンネット展 2026」に出展～圧力制御対応サーボアンプ「MINAS A7BRT」と低慣性小型サーボモータ「MSMGシリーズ」の新ラインアップを実機デモで紹介～ | 展示会・ショウルーム | イベント・スポンサー活動 | トピックス",
         "source": "Panasonic Newsroom Global",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByazc1S0VZcVJwYW1GYnFBS1N4d3NiWWVuNEFrMEItY24welg0b0c4OVh0Ny1CWHd6WEd5eTAtR1NPRS1WdWdmZE90bE8yRzhoc1dTT0h3?oc=5",
         "publishedAt": "2026-07-06T21:32:33.000Z"
+      },
+      {
+        "time": "17:11",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-07-07T08:11:37.000Z"
       },
       {
         "time": "18:51",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-06T21:04:37.000Z"
       },
       {
-        "time": "18:02",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-07-07T09:02:41.000Z"
+        "time": "10:15",
+        "title": "部品不足で生産ラインを止めないために--設備保全クラウド「ミロクルカルテ」、モバイルで完結する部品棚卸し機能α版をリリース",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BbWdqOGFDWlMwNUw5cG9sVjU1X3k5Y1pNWjdjU0hjdmlXMTFsc0x6MC0teFFGdzVDUzlLZHpYVUZEdkxRWjI1eEtQV0Z2eHc2anN1bjVjc09IUnI4d2t0NDk5QjRPbFNXQi1ObkRNUFBkS3JIZlE?oc=5",
+        "publishedAt": "2026-07-07T01:15:20.000Z"
       }
     ],
     "worldHeadlines": [
