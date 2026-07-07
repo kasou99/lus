@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-07T22:54:56.046Z",
+  "updatedAt": "2026-07-07T23:24:49.108Z",
   "items": [
+    {
+      "time": "08:20",
+      "title": "九州など35℃以上予想 熱中症警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587124?source=rss",
+      "publishedAt": "2026-07-07T23:20:33.000Z",
+      "xQuery": "九州など35℃以上予想 熱中症警戒"
+    },
     {
       "time": "06:43",
       "title": "ホルムズ海峡で船舶攻撃 混乱続く",
@@ -8,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587119?source=rss",
       "publishedAt": "2026-07-07T21:43:56.000Z",
       "xQuery": "ホルムズ海峡で船舶攻撃 混乱続く"
+    },
+    {
+      "time": "07:39",
+      "title": "違法性疑いの移植手術 潜むリスク",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587120?source=rss",
+      "publishedAt": "2026-07-07T22:39:58.000Z",
+      "xQuery": "違法性疑いの移植手術 潜むリスク"
     },
     {
       "time": "22:15",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587112?source=rss",
       "publishedAt": "2026-07-07T14:15:16.000Z",
       "xQuery": "穴開いた商船三井船 ホルムズ通過"
-    },
-    {
-      "time": "23:07",
-      "title": "女性死亡 ひき逃げ疑いで25歳逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587111?source=rss",
-      "publishedAt": "2026-07-07T14:07:54.000Z",
-      "xQuery": "女性死亡 ひき逃げ疑いで25歳逮捕"
-    },
-    {
-      "time": "22:11",
-      "title": "ベネズエラ地震 バレーの主将死去",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587107?source=rss",
-      "publishedAt": "2026-07-07T13:11:01.000Z",
-      "xQuery": "ベネズエラ地震 バレーの主将死去"
     }
   ]
 };
