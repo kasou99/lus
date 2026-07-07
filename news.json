@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T06:49:35.641Z",
+  "updatedAt": "2026-07-07T08:10:47.632Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-07T04:00:00.000Z"
       },
       {
-        "time": "08:25",
-        "title": "中小、今年度47％が設備投資 意欲高まるも規模縮小 日商まとめ",
+        "time": "07:35",
+        "title": "三菱UFJFG、世界トップ5へ改革加速 資本効率を重視",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjclQ4WHdIVGZ1aXlZemg5SHlIT2pyUFVkZ3poWEU4bEVsRnRxWkxSbmtBSTYzcmdneDcwaUJma3VmbzFSQ0F4bE5vTmJZSUZmX19vWmwySWhLLUU?oc=5",
-        "publishedAt": "2026-07-06T23:25:28.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAydzBUbzZ5MVVrOXA2S2ZGRXZHWE91Zzd6Xy1wOTNUc0xPQVdxUE1BczFfX3lCMVBXWHA3c1VzMDhkLURWOUFrMElISzBmRjJhSjQ4elZhRTVLY1E?oc=5",
+        "publishedAt": "2026-07-06T22:35:14.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,6 +112,13 @@
         "publishedAt": "2026-07-07T02:39:46.000Z"
       },
       {
+        "time": "16:18",
+        "title": "静岡リニア着工容認も 完成に10年",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587056?source=rss",
+        "publishedAt": "2026-07-07T07:18:20.000Z"
+      },
+      {
         "time": "14:34",
         "title": "ナフサの備蓄検討を表明 経産相",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587012?source=rss",
         "publishedAt": "2026-07-07T01:03:13.000Z"
-      },
-      {
-        "time": "21:25",
-        "title": "関空送迎レーン有料化へ 5分300円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586977?source=rss",
-        "publishedAt": "2026-07-06T12:25:49.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,6 +163,20 @@
         "publishedAt": "2026-07-06T23:50:53.000Z"
       },
       {
+        "time": "16:54",
+        "title": "臓器移植を有償あっせん疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587062?source=rss",
+        "publishedAt": "2026-07-07T07:54:40.000Z"
+      },
+      {
+        "time": "16:32",
+        "title": "クマに遭遇した男性10m滑落 東京",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587058?source=rss",
+        "publishedAt": "2026-07-07T07:32:37.000Z"
+      },
+      {
         "time": "11:50",
         "title": "子2人死亡 逮捕の父「将来悲観」",
         "source": "Yahoo!ニュース",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-07-07T02:50:14.000Z"
       },
       {
-        "time": "07:20",
-        "title": "障害の少女監禁疑い 新たに兄逮捕",
+        "time": "11:43",
+        "title": "愛知の強盗傷害事件 うそだった",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586995?source=rss",
-        "publishedAt": "2026-07-06T22:20:02.000Z"
-      },
-      {
-        "time": "10:26",
-        "title": "車にはねられ女性死亡 ひき逃げか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587017?source=rss",
-        "publishedAt": "2026-07-07T01:26:36.000Z"
-      },
-      {
-        "time": "13:17",
-        "title": "18年前に男性を殺害疑い 男を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587037?source=rss",
-        "publishedAt": "2026-07-07T04:17:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587023?source=rss",
+        "publishedAt": "2026-07-07T02:43:15.000Z"
       }
     ],
     "subsidyHeadlines": [

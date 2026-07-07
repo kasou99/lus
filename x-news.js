@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-07T06:49:36.560Z",
+  "updatedAt": "2026-07-07T08:10:48.385Z",
   "items": [
     {
-      "time": "14:34",
-      "title": "ナフサの備蓄検討を表明 経産相",
+      "time": "16:13",
+      "title": "自維国 皇室典範改正の実現を優先",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587042?source=rss",
-      "publishedAt": "2026-07-07T05:34:43.000Z",
-      "xQuery": "ナフサの備蓄検討を表明 経産相"
+      "url": "https://news.yahoo.co.jp/pickup/6587053?source=rss",
+      "publishedAt": "2026-07-07T07:13:55.000Z",
+      "xQuery": "自維国 皇室典範改正の実現を優先"
     },
     {
-      "time": "11:44",
-      "title": "高齢者医療負担 原則3割明記せず",
+      "time": "16:18",
+      "title": "静岡リニア着工容認も 完成に10年",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587026?source=rss",
-      "publishedAt": "2026-07-07T02:44:23.000Z",
-      "xQuery": "高齢者医療負担 原則3割明記せず"
+      "url": "https://news.yahoo.co.jp/pickup/6587056?source=rss",
+      "publishedAt": "2026-07-07T07:18:20.000Z",
+      "xQuery": "静岡リニア着工容認も 完成に10年"
     },
     {
-      "time": "15:11",
-      "title": "メガソーラー巡る画期的判決 焦点",
+      "time": "16:54",
+      "title": "臓器移植を有償あっせん疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587043?source=rss",
-      "publishedAt": "2026-07-07T06:11:23.000Z",
-      "xQuery": "メガソーラー巡る画期的判決 焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6587062?source=rss",
+      "publishedAt": "2026-07-07T07:54:40.000Z",
+      "xQuery": "臓器移植を有償あっせん疑い 逮捕"
     },
     {
-      "time": "14:16",
-      "title": "空気注入 殺人罪2件のうち1件無罪",
+      "time": "16:32",
+      "title": "クマに遭遇した男性10m滑落 東京",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587040?source=rss",
-      "publishedAt": "2026-07-07T05:16:11.000Z",
-      "xQuery": "空気注入 殺人罪2件のうち1件無罪"
+      "url": "https://news.yahoo.co.jp/pickup/6587058?source=rss",
+      "publishedAt": "2026-07-07T07:32:37.000Z",
+      "xQuery": "クマに遭遇した男性10m滑落 東京"
     },
     {
-      "time": "13:17",
-      "title": "18年前に男性を殺害疑い 男を逮捕",
+      "time": "16:12",
+      "title": "D.O容疑者逮捕 大麻など所持疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587037?source=rss",
-      "publishedAt": "2026-07-07T04:17:33.000Z",
-      "xQuery": "18年前に男性を殺害疑い 男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6587054?source=rss",
+      "publishedAt": "2026-07-07T07:12:02.000Z",
+      "xQuery": "D.O容疑者逮捕 大麻など所持疑い"
     }
   ]
 };
