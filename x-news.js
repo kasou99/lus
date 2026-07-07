@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-07T13:19:34.572Z",
+  "updatedAt": "2026-07-07T14:20:11.403Z",
   "items": [
     {
       "time": "20:41",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "8日 九州で35℃以上の猛暑日も"
     },
     {
-      "time": "21:27",
-      "title": "手足口病流行 15都県で警報レベル",
+      "time": "23:07",
+      "title": "女性死亡 ひき逃げ疑いで25歳逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587101?source=rss",
-      "publishedAt": "2026-07-07T12:27:20.000Z",
-      "xQuery": "手足口病流行 15都県で警報レベル"
-    },
-    {
-      "time": "19:25",
-      "title": "激しく光る物体 沖縄で目撃20分",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587086?source=rss",
-      "publishedAt": "2026-07-07T10:25:25.000Z",
-      "xQuery": "激しく光る物体 沖縄で目撃20分"
+      "url": "https://news.yahoo.co.jp/pickup/6587111?source=rss",
+      "publishedAt": "2026-07-07T14:07:54.000Z",
+      "xQuery": "女性死亡 ひき逃げ疑いで25歳逮捕"
     },
     {
       "time": "20:48",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587098?source=rss",
       "publishedAt": "2026-07-07T11:48:31.000Z",
       "xQuery": "ぐんまパスポート申請殺到 抽選に"
+    },
+    {
+      "time": "21:14",
+      "title": "なりすまし閉店セール投稿 店憤り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587100?source=rss",
+      "publishedAt": "2026-07-07T12:14:22.000Z",
+      "xQuery": "なりすまし閉店セール投稿 店憤り"
     }
   ]
 };
