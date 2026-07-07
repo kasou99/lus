@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T23:24:48.206Z",
+  "updatedAt": "2026-07-07T23:50:29.985Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-07-07T09:51:47.000Z"
       },
       {
-        "time": "17:31",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "time": "17:11",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-07-07T08:31:16.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-07-07T08:11:37.000Z"
       },
       {
         "time": "13:30",
@@ -68,6 +68,13 @@
         "publishedAt": "2026-07-07T21:43:56.000Z"
       },
       {
+        "time": "08:42",
+        "title": "NY高層ビル崩落の恐れ 周辺避難",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587127?source=rss",
+        "publishedAt": "2026-07-07T23:42:54.000Z"
+      },
+      {
         "time": "08:07",
         "title": "仏極右ルペン氏 大統領選出馬表明",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587046?source=rss",
         "publishedAt": "2026-07-07T06:37:57.000Z"
-      },
-      {
-        "time": "10:07",
-        "title": "米国務省 中国のミサイル発射批判",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587016?source=rss",
-        "publishedAt": "2026-07-07T01:07:24.000Z"
       },
       {
         "time": "18:12",

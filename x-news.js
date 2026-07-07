@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-07T23:24:49.108Z",
+  "updatedAt": "2026-07-07T23:50:30.987Z",
   "items": [
     {
       "time": "08:20",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "違法性疑いの移植手術 潜むリスク"
     },
     {
-      "time": "22:15",
-      "title": "被告黙秘で7カ月 悩んだ裁判員",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587106?source=rss",
-      "publishedAt": "2026-07-07T13:15:38.000Z",
-      "xQuery": "被告黙秘で7カ月 悩んだ裁判員"
-    },
-    {
       "time": "23:15",
       "title": "穴開いた商船三井船 ホルムズ通過",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587112?source=rss",
       "publishedAt": "2026-07-07T14:15:16.000Z",
       "xQuery": "穴開いた商船三井船 ホルムズ通過"
+    },
+    {
+      "time": "08:42",
+      "title": "NY高層ビル崩落の恐れ 周辺避難",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587127?source=rss",
+      "publishedAt": "2026-07-07T23:42:54.000Z",
+      "xQuery": "NY高層ビル崩落の恐れ 周辺避難"
     }
   ]
 };
