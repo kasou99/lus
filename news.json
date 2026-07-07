@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-07T17:43:05.640Z",
+  "updatedAt": "2026-07-07T18:48:01.152Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "15:56",
-        "title": "オートデスク、設備保全データを運用基盤に統合",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52YUhOWUR3UkhzUlZaS2F1MHc1MGQ3MFZjN0dGdzRITElQcHc5ZHNLQi1ubzcwWDVubVFTRmp4c21HNFhHaVVZUw?oc=5",
-        "publishedAt": "2026-07-07T06:56:13.000Z"
-      },
       {
         "time": "13:30",
         "title": "TAKISAWAが工具主軸型複合加工機、旋盤加工から歯車加工まで集約：工作機械",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqY3lzcUpwTF93RXlBQkdwdkNiRlhmcDVkSFpGX201dFlMTmRwbGstZERhYnJJT1VZTjV2TmlwQmNtSUZDSm5OUkIxQ282a25oZl81bW04SFNPTVlEcHljVGlYeDdnZS1GS01YSkpBaw?oc=5",
         "publishedAt": "2026-07-07T04:30:00.000Z"
+      },
+      {
+        "time": "15:56",
+        "title": "オートデスク、設備保全データを運用基盤に統合",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52YUhOWUR3UkhzUlZaS2F1MHc1MGQ3MFZjN0dGdzRITElQcHc5ZHNLQi1ubzcwWDVubVFTRmp4c21HNFhHaVVZUw?oc=5",
+        "publishedAt": "2026-07-07T06:56:13.000Z"
       },
       {
         "time": "05:28",
@@ -31,13 +31,6 @@
         "publishedAt": "2026-07-06T21:32:33.000Z"
       },
       {
-        "time": "17:11",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-07-07T08:11:37.000Z"
-      },
-      {
         "time": "18:51",
         "title": "土曜版・７月６日の株式市場を前に。（鎌田伸一）｜マーケットプレス｜マネー・投資",
         "source": "radionikkei.jp",
@@ -50,6 +43,13 @@
         "source": "robot digest",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94SXhnejJlTjdjWjVGVTZwUTl4NERtdW10Qk9MZXJtWnRtajN3bVVITHhVblFMSEpnZnhNdnN5RUZWTUUwYk1QQmg1dVJLaWZQdzJKTlMwbDB0Y0tWSFItVFNaTkU4TnZCekpJ?oc=5",
         "publishedAt": "2026-07-06T21:04:37.000Z"
+      },
+      {
+        "time": "18:02",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-07-07T09:02:41.000Z"
       },
       {
         "time": "10:15",
