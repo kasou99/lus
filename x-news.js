@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-07T08:10:48.385Z",
+  "updatedAt": "2026-07-07T09:48:24.442Z",
   "items": [
     {
-      "time": "16:13",
-      "title": "自維国 皇室典範改正の実現を優先",
+      "time": "18:45",
+      "title": "西日本豪雨8年 亡き義母への思い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587053?source=rss",
-      "publishedAt": "2026-07-07T07:13:55.000Z",
-      "xQuery": "自維国 皇室典範改正の実現を優先"
+      "url": "https://news.yahoo.co.jp/pickup/6587079?source=rss",
+      "publishedAt": "2026-07-07T09:45:00.000Z",
+      "xQuery": "西日本豪雨8年 亡き義母への思い"
     },
     {
-      "time": "16:18",
-      "title": "静岡リニア着工容認も 完成に10年",
+      "time": "16:09",
+      "title": "天の川 東北を中心に観測チャンス",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587056?source=rss",
-      "publishedAt": "2026-07-07T07:18:20.000Z",
-      "xQuery": "静岡リニア着工容認も 完成に10年"
+      "url": "https://news.yahoo.co.jp/pickup/6587051?source=rss",
+      "publishedAt": "2026-07-07T07:09:17.000Z",
+      "xQuery": "天の川 東北を中心に観測チャンス"
     },
     {
-      "time": "16:54",
-      "title": "臓器移植を有償あっせん疑い 逮捕",
+      "time": "17:17",
+      "title": "横浜の上半身のみの遺体 身元判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587062?source=rss",
-      "publishedAt": "2026-07-07T07:54:40.000Z",
-      "xQuery": "臓器移植を有償あっせん疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6587067?source=rss",
+      "publishedAt": "2026-07-07T08:17:39.000Z",
+      "xQuery": "横浜の上半身のみの遺体 身元判明"
     },
     {
-      "time": "16:32",
-      "title": "クマに遭遇した男性10m滑落 東京",
+      "time": "17:45",
+      "title": "はま寿司強い憤り 相次ぐ迷惑行為",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587058?source=rss",
-      "publishedAt": "2026-07-07T07:32:37.000Z",
-      "xQuery": "クマに遭遇した男性10m滑落 東京"
+      "url": "https://news.yahoo.co.jp/pickup/6587070?source=rss",
+      "publishedAt": "2026-07-07T08:45:03.000Z",
+      "xQuery": "はま寿司強い憤り 相次ぐ迷惑行為"
     },
     {
       "time": "16:12",
