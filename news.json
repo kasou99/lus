@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T11:06:33.152Z",
+  "updatedAt": "2026-07-07T12:21:06.603Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,13 +163,6 @@
         "publishedAt": "2026-07-07T08:17:39.000Z"
       },
       {
-        "time": "16:54",
-        "title": "臓器移植を有償あっせん疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587062?source=rss",
-        "publishedAt": "2026-07-07T07:54:40.000Z"
-      },
-      {
         "time": "17:12",
         "title": "滋賀の住宅地で市道崩落 長さ30m",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587028?source=rss",
         "publishedAt": "2026-07-07T02:50:14.000Z"
+      },
+      {
+        "time": "17:47",
+        "title": "国内最南端のスキー場 廃止を表明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587072?source=rss",
+        "publishedAt": "2026-07-07T08:47:50.000Z"
       }
     ],
     "subsidyHeadlines": [

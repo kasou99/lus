@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-07T11:06:33.922Z",
+  "updatedAt": "2026-07-07T12:21:07.731Z",
   "items": [
     {
-      "time": "18:45",
-      "title": "西日本豪雨8年 亡き義母への思い",
+      "time": "20:41",
+      "title": "自維 定数削減法案成立見送り確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587079?source=rss",
-      "publishedAt": "2026-07-07T09:45:00.000Z",
-      "xQuery": "西日本豪雨8年 亡き義母への思い"
+      "url": "https://news.yahoo.co.jp/pickup/6587097?source=rss",
+      "publishedAt": "2026-07-07T11:41:33.000Z",
+      "xQuery": "自維 定数削減法案成立見送り確認"
     },
     {
-      "time": "16:39",
-      "title": "広島知事 首相は原爆資料館視察を",
+      "time": "18:12",
+      "title": "西太平洋展開する艦艇 中国正当化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587060?source=rss",
-      "publishedAt": "2026-07-07T07:39:14.000Z",
-      "xQuery": "広島知事 首相は原爆資料館視察を"
+      "url": "https://news.yahoo.co.jp/pickup/6587073?source=rss",
+      "publishedAt": "2026-07-07T09:12:01.000Z",
+      "xQuery": "西太平洋展開する艦艇 中国正当化"
     },
     {
       "time": "18:58",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "立花孝志被告の保釈 地裁が認めず"
     },
     {
-      "time": "18:02",
-      "title": "白タク疑い逮捕 120km/hで事故か",
+      "time": "20:01",
+      "title": "全東信破産 融資焦げ付きの恐れも",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587069?source=rss",
-      "publishedAt": "2026-07-07T09:02:16.000Z",
-      "xQuery": "白タク疑い逮捕 120km/hで事故か"
+      "url": "https://news.yahoo.co.jp/pickup/6587090?source=rss",
+      "publishedAt": "2026-07-07T11:01:10.000Z",
+      "xQuery": "全東信破産 融資焦げ付きの恐れも"
     },
     {
-      "time": "19:25",
-      "title": "激しく光る物体 沖縄で目撃20分",
+      "time": "20:48",
+      "title": "ぐんまパスポート申請殺到 抽選に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587086?source=rss",
-      "publishedAt": "2026-07-07T10:25:25.000Z",
-      "xQuery": "激しく光る物体 沖縄で目撃20分"
+      "url": "https://news.yahoo.co.jp/pickup/6587098?source=rss",
+      "publishedAt": "2026-07-07T11:48:31.000Z",
+      "xQuery": "ぐんまパスポート申請殺到 抽選に"
     }
   ]
 };
