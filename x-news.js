@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-07T02:22:06.826Z",
+  "updatedAt": "2026-07-07T03:48:19.489Z",
   "items": [
+    {
+      "time": "11:39",
+      "title": "リニア着工 静岡知事が容認を表明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587029?source=rss",
+      "publishedAt": "2026-07-07T02:39:46.000Z",
+      "xQuery": "リニア着工 静岡知事が容認を表明"
+    },
     {
       "time": "10:07",
       "title": "米国務省 中国のミサイル発射批判",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米国務省 中国のミサイル発射批判"
     },
     {
-      "time": "09:31",
-      "title": "参院正常化へ 首相追い込まれ転換",
+      "time": "11:50",
+      "title": "子2人死亡 逮捕の父「将来悲観」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587010?source=rss",
-      "publishedAt": "2026-07-07T00:31:39.000Z",
-      "xQuery": "参院正常化へ 首相追い込まれ転換"
+      "url": "https://news.yahoo.co.jp/pickup/6587028?source=rss",
+      "publishedAt": "2026-07-07T02:50:14.000Z",
+      "xQuery": "子2人死亡 逮捕の父「将来悲観」"
     },
     {
-      "time": "08:50",
-      "title": "内田梨瑚被告 懲役27年の判決確定",
+      "time": "11:43",
+      "title": "愛知の強盗傷害事件 うそだった",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587008?source=rss",
-      "publishedAt": "2026-07-06T23:50:53.000Z",
-      "xQuery": "内田梨瑚被告 懲役27年の判決確定"
+      "url": "https://news.yahoo.co.jp/pickup/6587023?source=rss",
+      "publishedAt": "2026-07-07T02:43:15.000Z",
+      "xQuery": "愛知の強盗傷害事件 うそだった"
     },
     {
-      "time": "10:26",
-      "title": "車にはねられ女性死亡 ひき逃げか",
+      "time": "12:10",
+      "title": "ブルーカラー 就活市場で活気づく",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587017?source=rss",
-      "publishedAt": "2026-07-07T01:26:36.000Z",
-      "xQuery": "車にはねられ女性死亡 ひき逃げか"
-    },
-    {
-      "time": "08:28",
-      "title": "車と衝突 重体の男子高校生が死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587003?source=rss",
-      "publishedAt": "2026-07-06T23:28:34.000Z",
-      "xQuery": "車と衝突 重体の男子高校生が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6587030?source=rss",
+      "publishedAt": "2026-07-07T03:10:13.000Z",
+      "xQuery": "ブルーカラー 就活市場で活気づく"
     }
   ]
 };

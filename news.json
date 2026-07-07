@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T02:22:05.939Z",
+  "updatedAt": "2026-07-07T03:48:18.715Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-06T23:25:28.000Z"
       },
       {
-        "time": "05:26",
-        "title": "「地政学リスク警戒も需要に期待」日本工作機械販売協会が通常総会を開く - | 製造現場ドットコム",
-        "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55ejB5dncwazlNay1id3RxNWhzN19DOXI5YWtTZkdnaW1scFlxNkVyQ1VMcnl4V1Awam1pNUhrN2VDNy1YdkVqSXFR?oc=5",
-        "publishedAt": "2026-07-06T20:26:15.000Z"
-      },
-      {
-        "time": "22:31",
+        "time": "09:57",
         "title": "「働いた証し」を付加価値に 友伸エンジニアリング一関工場 作業で着用 デニム販売へ",
         "source": "iwanichi.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41OTRRdXdySWx0Z0ZzNGx0Y1lPd0dneWtfaFpqTHZWUkxTRE81X2hMWVREMGdwaFYwbzZmUzVoVzlTWmJ1ZmZFZ3E5cVZmUGVFUEt4cFlCS2laZmM?oc=5",
-        "publishedAt": "2026-07-06T13:31:12.000Z"
+        "publishedAt": "2026-07-07T00:57:52.000Z"
+      },
+      {
+        "time": "05:28",
+        "title": "「地政学リスク警戒も需要に期待」日本工作機械販売協会が通常総会を開く - | 製造現場ドットコム",
+        "source": "| 製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE55ejB5dncwazlNay1id3RxNWhzN19DOXI5YWtTZkdnaW1scFlxNkVyQ1VMcnl4V1Awam1pNUhrN2VDNy1YdkVqSXFR?oc=5",
+        "publishedAt": "2026-07-06T20:28:54.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "21:05",
-        "title": "サッポロ カールスバーグと新会社",
+        "time": "11:39",
+        "title": "リニア着工 静岡知事が容認を表明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586974?source=rss",
-        "publishedAt": "2026-07-06T12:05:30.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587029?source=rss",
+        "publishedAt": "2026-07-07T02:39:46.000Z"
       },
       {
         "time": "17:18",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-07-06T12:25:49.000Z"
       },
       {
-        "time": "19:19",
-        "title": "「モスバーガー」470円→500円に",
+        "time": "12:10",
+        "title": "ブルーカラー 就活市場で活気づく",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586965?source=rss",
-        "publishedAt": "2026-07-06T10:19:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587030?source=rss",
+        "publishedAt": "2026-07-07T03:10:13.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587008?source=rss",
         "publishedAt": "2026-07-06T23:50:53.000Z"
+      },
+      {
+        "time": "11:50",
+        "title": "子2人死亡 逮捕の父「将来悲観」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587028?source=rss",
+        "publishedAt": "2026-07-07T02:50:14.000Z"
       },
       {
         "time": "16:15",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587003?source=rss",
         "publishedAt": "2026-07-06T23:28:34.000Z"
-      },
-      {
-        "time": "08:34",
-        "title": "検察審査員名の流出 書面返還要請",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587001?source=rss",
-        "publishedAt": "2026-07-06T23:34:04.000Z"
       }
     ],
     "subsidyHeadlines": [
