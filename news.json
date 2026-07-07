@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T05:25:59.384Z",
+  "updatedAt": "2026-07-07T06:49:35.641Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,14 +52,21 @@
         "publishedAt": "2026-07-07T04:00:00.000Z"
       },
       {
-        "time": "07:35",
-        "title": "三菱UFJFG、世界トップ5へ改革加速 資本効率を重視",
+        "time": "08:25",
+        "title": "中小、今年度47％が設備投資 意欲高まるも規模縮小 日商まとめ",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAydzBUbzZ5MVVrOXA2S2ZGRXZHWE91Zzd6Xy1wOTNUc0xPQVdxUE1BczFfX3lCMVBXWHA3c1VzMDhkLURWOUFrMElISzBmRjJhSjQ4elZhRTVLY1E?oc=5",
-        "publishedAt": "2026-07-06T22:35:14.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjclQ4WHdIVGZ1aXlZemg5SHlIT2pyUFVkZ3poWEU4bEVsRnRxWkxSbmtBSTYzcmdneDcwaUJma3VmbzFSQ0F4bE5vTmJZSUZmX19vWmwySWhLLUU?oc=5",
+        "publishedAt": "2026-07-06T23:25:28.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "15:37",
+        "title": "露「爆発的な」銀行危機リスクか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587046?source=rss",
+        "publishedAt": "2026-07-07T06:37:57.000Z"
+      },
       {
         "time": "15:17",
         "title": "中国ミサイル発射実験 成功と発表",
@@ -89,13 +96,6 @@
         "publishedAt": "2026-07-06T12:16:05.000Z"
       },
       {
-        "time": "08:04",
-        "title": "露「制圧」要衝 ウが砲撃停止拒否",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6586881?source=rss",
-        "publishedAt": "2026-07-05T23:04:48.000Z"
-      },
-      {
         "time": "12:55",
         "title": "陸に加え海へ 北朝鮮の海軍強化",
         "source": "Yahoo!ニュース",
@@ -110,6 +110,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587029?source=rss",
         "publishedAt": "2026-07-07T02:39:46.000Z"
+      },
+      {
+        "time": "14:34",
+        "title": "ナフサの備蓄検討を表明 経産相",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587042?source=rss",
+        "publishedAt": "2026-07-07T05:34:43.000Z"
       },
       {
         "time": "17:18",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6586977?source=rss",
         "publishedAt": "2026-07-06T12:25:49.000Z"
-      },
-      {
-        "time": "12:10",
-        "title": "ブルーカラー 就活市場で活気づく",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587030?source=rss",
-        "publishedAt": "2026-07-07T03:10:13.000Z"
       }
     ],
     "localHeadlines": [
@@ -215,13 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金のポイント解説",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-07-01T07:00:00.000Z"
       }
     ]
   }

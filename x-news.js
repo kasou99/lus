@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-07T05:26:00.009Z",
+  "updatedAt": "2026-07-07T06:49:36.560Z",
   "items": [
+    {
+      "time": "14:34",
+      "title": "ナフサの備蓄検討を表明 経産相",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587042?source=rss",
+      "publishedAt": "2026-07-07T05:34:43.000Z",
+      "xQuery": "ナフサの備蓄検討を表明 経産相"
+    },
     {
       "time": "11:44",
       "title": "高齢者医療負担 原則3割明記せず",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高齢者医療負担 原則3割明記せず"
     },
     {
-      "time": "11:39",
-      "title": "リニア着工 静岡知事が容認を表明",
+      "time": "15:11",
+      "title": "メガソーラー巡る画期的判決 焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587029?source=rss",
-      "publishedAt": "2026-07-07T02:39:46.000Z",
-      "xQuery": "リニア着工 静岡知事が容認を表明"
+      "url": "https://news.yahoo.co.jp/pickup/6587043?source=rss",
+      "publishedAt": "2026-07-07T06:11:23.000Z",
+      "xQuery": "メガソーラー巡る画期的判決 焦点"
     },
     {
       "time": "14:16",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587040?source=rss",
       "publishedAt": "2026-07-07T05:16:11.000Z",
       "xQuery": "空気注入 殺人罪2件のうち1件無罪"
-    },
-    {
-      "time": "11:50",
-      "title": "子2人死亡 逮捕の父「将来悲観」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587028?source=rss",
-      "publishedAt": "2026-07-07T02:50:14.000Z",
-      "xQuery": "子2人死亡 逮捕の父「将来悲観」"
     },
     {
       "time": "13:17",
