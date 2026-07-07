@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-07T21:33:56.995Z",
+  "updatedAt": "2026-07-07T22:28:33.201Z",
   "items": [
     {
-      "time": "22:49",
-      "title": "豪雨被災地で力不足 四国ILの悔い",
+      "time": "06:43",
+      "title": "ホルムズ海峡で船舶攻撃 混乱続く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587108?source=rss",
-      "publishedAt": "2026-07-07T13:49:21.000Z",
-      "xQuery": "豪雨被災地で力不足 四国ILの悔い"
+      "url": "https://news.yahoo.co.jp/pickup/6587119?source=rss",
+      "publishedAt": "2026-07-07T21:43:56.000Z",
+      "xQuery": "ホルムズ海峡で船舶攻撃 混乱続く"
     },
     {
       "time": "22:15",
