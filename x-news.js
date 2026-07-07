@@ -1,21 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-07T14:20:11.403Z",
+  "updatedAt": "2026-07-07T15:31:33.904Z",
   "items": [
     {
-      "time": "20:41",
-      "title": "自維 定数削減法案成立見送り確認",
+      "time": "22:49",
+      "title": "豪雨被災地で力不足 四国ILの悔い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587097?source=rss",
-      "publishedAt": "2026-07-07T11:41:33.000Z",
-      "xQuery": "自維 定数削減法案成立見送り確認"
+      "url": "https://news.yahoo.co.jp/pickup/6587108?source=rss",
+      "publishedAt": "2026-07-07T13:49:21.000Z",
+      "xQuery": "豪雨被災地で力不足 四国ILの悔い"
     },
     {
-      "time": "20:10",
-      "title": "8日 九州で35℃以上の猛暑日も",
+      "time": "22:15",
+      "title": "被告黙秘で7カ月 悩んだ裁判員",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587092?source=rss",
-      "publishedAt": "2026-07-07T11:10:50.000Z",
-      "xQuery": "8日 九州で35℃以上の猛暑日も"
+      "url": "https://news.yahoo.co.jp/pickup/6587106?source=rss",
+      "publishedAt": "2026-07-07T13:15:38.000Z",
+      "xQuery": "被告黙秘で7カ月 悩んだ裁判員"
+    },
+    {
+      "time": "23:54",
+      "title": "トヨタの米投資 トランプ氏が評価",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587116?source=rss",
+      "publishedAt": "2026-07-07T14:54:14.000Z",
+      "xQuery": "トヨタの米投資 トランプ氏が評価"
+    },
+    {
+      "time": "23:15",
+      "title": "穴開いた商船三井船 ホルムズ通過",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587112?source=rss",
+      "publishedAt": "2026-07-07T14:15:16.000Z",
+      "xQuery": "穴開いた商船三井船 ホルムズ通過"
     },
     {
       "time": "23:07",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587111?source=rss",
       "publishedAt": "2026-07-07T14:07:54.000Z",
       "xQuery": "女性死亡 ひき逃げ疑いで25歳逮捕"
-    },
-    {
-      "time": "20:48",
-      "title": "ぐんまパスポート申請殺到 抽選に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587098?source=rss",
-      "publishedAt": "2026-07-07T11:48:31.000Z",
-      "xQuery": "ぐんまパスポート申請殺到 抽選に"
-    },
-    {
-      "time": "21:14",
-      "title": "なりすまし閉店セール投稿 店憤り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587100?source=rss",
-      "publishedAt": "2026-07-07T12:14:22.000Z",
-      "xQuery": "なりすまし閉店セール投稿 店憤り"
     }
   ]
 };
