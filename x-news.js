@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T21:29:07.303Z",
+  "updatedAt": "2026-07-08T21:56:57.771Z",
   "items": [
     {
-      "time": "20:46",
-      "title": "皇族数確保策 審議「中継入り」に",
+      "time": "06:28",
+      "title": "台風9号 11日朝石垣島など直撃か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587218?source=rss",
-      "publishedAt": "2026-07-08T11:46:29.000Z",
-      "xQuery": "皇族数確保策 審議「中継入り」に"
+      "url": "https://news.yahoo.co.jp/pickup/6587241?source=rss",
+      "publishedAt": "2026-07-08T21:28:32.000Z",
+      "xQuery": "台風9号 11日朝石垣島など直撃か"
     },
     {
       "time": "06:20",
