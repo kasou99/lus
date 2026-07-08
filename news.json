@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T00:48:21.149Z",
+  "updatedAt": "2026-07-08T01:40:21.583Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSV9mb3g0MUt3SjZtNmk3WkpRaXpJdC1aU3NwWWxWVWpmZjIxcktnOTF1Nl9DdzF2U1ZaWlozZmt3dkVRSkJ1Q2EzODdTLWhEcmVlbGEwOURycDRwTGZZQ0hIcnBhWlhxYWZNM1VrZm1GOWkycjNXR1FPUmRCOGdja1FKZ2N2dG9zcHdj0gGLAUFVX3lxTE1JX2ZveDQxS3dKNm02aTdaSlFpekl0LVpTc3BZbFZVamZmMjFyS2c5MXU2X0N3MXZTVlpaWjNma3d2RVFKQnVDYTM4N1MtaERyZWVsYTA5RHJwNHBMZllDSEhycGFaWHFhZk0zVWtmbUY5aTJyM1dHUU9SZEI4Z2NrUUpnY3Z0b3Nwd2M?oc=5",
         "publishedAt": "2026-07-07T22:00:00.000Z"
+      },
+      {
+        "time": "10:30",
+        "title": "【設備保全DX】メンテナンス・レジリエンス2026 に次世代設備保全クラウド「M2X」ブースを出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CcW9GMGVqWFByZWdIa0FFVXpqdlhsSEZ1VHg0bTBiSXl1cGNfNzNWRVZiWWRTY1IzSHFYbTlBbnl2Z0RCQkFIQTlsb3dOWEpxUzhkTVhWRUFSUktBMDAyQm9aV2xRYzRxcnc?oc=5",
+        "publishedAt": "2026-07-08T01:30:38.000Z"
       },
       {
         "time": "05:00",
@@ -22,6 +29,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZNDBZYk1vaGF5NUNTTE5qc2xCX3hobFpnUlBFeTdON0ZyQ1pTMUxLS3U2VmpJNG84YktyWUlxZlczQm9fUTFrd3hMc0tWN2pmX1k3QTh5ZGlXV1pNUUMtV1ZJUHotOXRqdDk2TlB4SQ?oc=5",
         "publishedAt": "2026-07-07T21:15:00.000Z"
+      },
+      {
+        "time": "16:12",
+        "title": "部品不足で生産ラインを止めないために--設備保全クラウド「ミロクルカルテ」、モバイルで完結する部品棚卸し機能α版をリリース",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xZHhmZUhvWi16YTRtLWRBUkZCaU5VOWItRlg1eHNDclRyOXNCUXZSajdlQ05keE5QWXQ1X09WeThvbHhPbDM2Z1hmc1ZkSVBEY2c?oc=5",
+        "publishedAt": "2026-07-07T07:12:00.000Z"
       },
       {
         "time": "15:56",
@@ -43,23 +57,16 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqY3lzcUpwTF93RXlBQkdwdkNiRlhmcDVkSFpGX201dFlMTmRwbGstZERhYnJJT1VZTjV2TmlwQmNtSUZDSm5OUkIxQ282a25oZl81bW04SFNPTVlEcHljVGlYeDdnZS1GS01YSkpBaw?oc=5",
         "publishedAt": "2026-07-07T04:30:00.000Z"
-      },
-      {
-        "time": "18:02",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-07-07T09:02:41.000Z"
-      },
-      {
-        "time": "10:15",
-        "title": "部品不足で生産ラインを止めないために--設備保全クラウド「ミロクルカルテ」、モバイルで完結する部品棚卸し機能α版をリリース",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BbWdqOGFDWlMwNUw5cG9sVjU1X3k5Y1pNWjdjU0hjdmlXMTFsc0x6MC0teFFGdzVDUzlLZHpYVUZEdkxRWjI1eEtQV0Z2eHc2anN1bjVjc09IUnI4d2t0NDk5QjRPbFNXQi1ObkRNUFBkS3JIZlE?oc=5",
-        "publishedAt": "2026-07-07T01:15:20.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "10:01",
+        "title": "防衛投資拡大アピール NATO首脳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587133?source=rss",
+        "publishedAt": "2026-07-08T01:01:59.000Z"
+      },
       {
         "time": "09:02",
         "title": "米軍がイラン攻撃 商船攻撃に対抗",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587116?source=rss",
         "publishedAt": "2026-07-07T14:54:14.000Z"
-      },
-      {
-        "time": "15:37",
-        "title": "露「爆発的な」銀行危機リスクか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587046?source=rss",
-        "publishedAt": "2026-07-07T06:37:57.000Z"
       }
     ],
     "economyHeadlines": [

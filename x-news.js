@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T00:48:21.920Z",
+  "updatedAt": "2026-07-08T01:40:22.538Z",
   "items": [
+    {
+      "time": "09:02",
+      "title": "米軍がイラン攻撃 商船攻撃に対抗",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587128?source=rss",
+      "publishedAt": "2026-07-08T00:02:02.000Z",
+      "xQuery": "米軍がイラン攻撃 商船攻撃に対抗"
+    },
     {
       "time": "09:40",
       "title": "台風9号が沖縄接近 早めの備えを",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587129?source=rss",
       "publishedAt": "2026-07-08T00:03:31.000Z",
       "xQuery": "皇室典範改正案賛成せず 立憲調整"
-    },
-    {
-      "time": "23:15",
-      "title": "穴開いた商船三井船 ホルムズ通過",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587112?source=rss",
-      "publishedAt": "2026-07-07T14:15:16.000Z",
-      "xQuery": "穴開いた商船三井船 ホルムズ通過"
     },
     {
       "time": "08:42",
