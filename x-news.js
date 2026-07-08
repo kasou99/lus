@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T23:29:08.901Z",
+  "updatedAt": "2026-07-08T23:57:05.261Z",
   "items": [
     {
       "time": "06:28",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン緊張 パキスタン懸念表明"
     },
     {
-      "time": "23:37",
-      "title": "米大統領 イランと日本言い間違え",
+      "time": "08:32",
+      "title": "ロシア ディーゼル燃料の輸出禁止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587233?source=rss",
-      "publishedAt": "2026-07-08T14:37:14.000Z",
-      "xQuery": "米大統領 イランと日本言い間違え"
-    },
-    {
-      "time": "07:25",
-      "title": "KDDI共同創業者の子4人 申告漏れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587245?source=rss",
-      "publishedAt": "2026-07-08T22:25:13.000Z",
-      "xQuery": "KDDI共同創業者の子4人 申告漏れ"
+      "url": "https://news.yahoo.co.jp/pickup/6587253?source=rss",
+      "publishedAt": "2026-07-08T23:32:37.000Z",
+      "xQuery": "ロシア ディーゼル燃料の輸出禁止"
     },
     {
       "time": "07:32",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587243?source=rss",
       "publishedAt": "2026-07-08T22:32:24.000Z",
       "xQuery": "快活CLUBアプリ攻撃疑い18歳逮捕"
+    },
+    {
+      "time": "08:10",
+      "title": "ポケモン空港のグッズ 高額転売も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587251?source=rss",
+      "publishedAt": "2026-07-08T23:10:39.000Z",
+      "xQuery": "ポケモン空港のグッズ 高額転売も"
     }
   ]
 };
