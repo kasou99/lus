@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T13:04:36.985Z",
+  "updatedAt": "2026-07-08T14:18:59.280Z",
   "items": [
     {
-      "time": "19:18",
-      "title": "台風9号 10～11日に先島諸島接近",
+      "time": "20:46",
+      "title": "皇族数確保策 審議「中継入り」に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587209?source=rss",
-      "publishedAt": "2026-07-08T10:18:13.000Z",
-      "xQuery": "台風9号 10～11日に先島諸島接近"
+      "url": "https://news.yahoo.co.jp/pickup/6587218?source=rss",
+      "publishedAt": "2026-07-08T11:46:29.000Z",
+      "xQuery": "皇族数確保策 審議「中継入り」に"
     },
     {
-      "time": "18:29",
-      "title": "イラン覚書 米大統領「終わった」",
+      "time": "22:34",
+      "title": "中国SLBM 事前通知の透明性は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587200?source=rss",
-      "publishedAt": "2026-07-08T09:29:15.000Z",
-      "xQuery": "イラン覚書 米大統領「終わった」"
+      "url": "https://news.yahoo.co.jp/pickup/6587227?source=rss",
+      "publishedAt": "2026-07-08T13:34:22.000Z",
+      "xQuery": "中国SLBM 事前通知の透明性は"
     },
     {
-      "time": "20:18",
-      "title": "スペインと貿易停止 米大統領指示",
+      "time": "22:19",
+      "title": "カツアゲ告発県議 逆に百万円受領",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587215?source=rss",
-      "publishedAt": "2026-07-08T11:18:05.000Z",
-      "xQuery": "スペインと貿易停止 米大統領指示"
+      "url": "https://news.yahoo.co.jp/pickup/6587223?source=rss",
+      "publishedAt": "2026-07-08T13:19:50.000Z",
+      "xQuery": "カツアゲ告発県議 逆に百万円受領"
     },
     {
-      "time": "20:33",
-      "title": "アパートに刺し傷ある男性 死亡",
+      "time": "22:19",
+      "title": "検事 元容疑者の女性と不適切交際",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587213?source=rss",
-      "publishedAt": "2026-07-08T11:33:51.000Z",
-      "xQuery": "アパートに刺し傷ある男性 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6587225?source=rss",
+      "publishedAt": "2026-07-08T13:19:10.000Z",
+      "xQuery": "検事 元容疑者の女性と不適切交際"
     },
     {
-      "time": "21:36",
-      "title": "三笘薫選手が事故 赤信号で進入か",
+      "time": "22:45",
+      "title": "唇を縫い付けた疑い 共犯もいたか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587221?source=rss",
-      "publishedAt": "2026-07-08T12:36:42.000Z",
-      "xQuery": "三笘薫選手が事故 赤信号で進入か"
+      "url": "https://news.yahoo.co.jp/pickup/6587226?source=rss",
+      "publishedAt": "2026-07-08T13:45:37.000Z",
+      "xQuery": "唇を縫い付けた疑い 共犯もいたか"
     }
   ]
 };

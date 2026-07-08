@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T13:04:36.210Z",
+  "updatedAt": "2026-07-08T14:18:58.500Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-07-08T04:30:00.000Z"
       },
       {
-        "time": "10:30",
-        "title": "【設備保全DX】メンテナンス・レジリエンス2026 に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CcW9GMGVqWFByZWdIa0FFVXpqdlhsSEZ1VHg0bTBiSXl1cGNfNzNWRVZiWWRTY1IzSHFYbTlBbnl2Z0RCQkFIQTlsb3dOWEpxUzhkTVhWRUFSUktBMDAyQm9aV2xRYzRxcnc?oc=5",
-        "publishedAt": "2026-07-08T01:30:38.000Z"
-      },
-      {
         "time": "05:00",
         "title": "DMG森が工作機械向けフィジカルAI開発へ、100TBのデータ収集目指す",
         "source": "日経クロステック",
@@ -24,25 +17,25 @@
         "publishedAt": "2026-07-07T20:00:00.000Z"
       },
       {
-        "time": "07:00",
+        "time": "11:00",
+        "title": "工作機械や小型プリンターのスター精密、NotionとNotion AIを国内全社ナレッジ基盤として導入",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIYkZWdXZRTTNLdmdsMkg4Z3pKWU52SW9jcnhXbmZ6NFZJWmxoNHozcEx1bDZMR2pEVjNsNVBuS0hHNnp2Si1vblJqVGVqcU44dmhxMXZkWkZuMVI5QkRZVW5CUDcyMmF4VlE?oc=5",
+        "publishedAt": "2026-07-08T02:00:03.000Z"
+      },
+      {
+        "time": "22:03",
         "title": "日本の工作機械、中国の地方都市に敗れ始める―中国メディア",
         "source": "Record China",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lR3lhYmRabTkxbDR4NVFfOVYwYjJhbm1CN0d4NDBOSElQdHAxVG9XSXVMZ0dQbm5oUmhDQ1A3RlRtWmNsMzBoM2lZMmYzMDhFT2NxY3BlbW9mVmhSZ1ZJWGhkT01aZFk?oc=5",
-        "publishedAt": "2026-07-07T22:00:02.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40TmY3dVVCS3NJMGFDenhvLWxPNEROMjdscnl0S25xMFZxRHhHQ1BRYTVTRVBrdmt3X3VwNllkUmtwWE9rSDJDRGZRZFJWblZ1dmZvUWVUYm9GSXV5?oc=5",
+        "publishedAt": "2026-07-08T13:03:36.000Z"
       },
       {
-        "time": "12:15",
-        "title": "工作機械や小型プリンターのスター精密、NotionとNotion AIを国内全社ナレッジ基盤として導入",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oeFJVM1NydDZrUVRYZkp1ZVlfdERfVVAyMFd4MGVkRUpCWTNvN1NKZ2VJUW1ub19mU1hqNi1VNjlBZDR5Z29nMHhWZWM3bUVxY0dOMlRqdkNBTEstWHFKcDVVcXI0b2JtX01wQUIySnZPQXc?oc=5",
-        "publishedAt": "2026-07-08T03:15:00.000Z"
-      },
-      {
-        "time": "06:15",
-        "title": "DMG森精機が挑む工作機械のフィジカルAI、産総研と機械加工の基盤モデル構築促進",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZNDBZYk1vaGF5NUNTTE5qc2xCX3hobFpnUlBFeTdON0ZyQ1pTMUxLS3U2VmpJNG84YktyWUlxZlczQm9fUTFrd3hMc0tWN2pmX1k3QTh5ZGlXV1pNUUMtV1ZJUHotOXRqdDk2TlB4SQ?oc=5",
-        "publishedAt": "2026-07-07T21:15:00.000Z"
+        "time": "15:21",
+        "title": "【設備保全DX】メンテナンス・レジリエンス2026 に次世代設備保全クラウド「M2X」ブースを出展",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oS0Q2VXRsb0JRUWhuRVVhbkV5emRVblIzNFFnWjEzRE9iVVpEM2dscnVQMHNCNFFCenEwemlYaHh0cnVBX0JRVGcwRTZCeFlzV09DYmxBTzh0OFRGZGxrMVRpNEZjQ2xKOFdUekM2NVFZVFI4bXF6SlpmTQ?oc=5",
+        "publishedAt": "2026-07-08T06:21:33.000Z"
       },
       {
         "time": "13:00",
@@ -50,6 +43,13 @@
         "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fcE1VQVNRS0k5Tzgtd09GV0ozWnZ3SUFFajBIR2VkOXRULWMtcVVCempRc01tenZNLUZ6cHptUzdmZTlPYTdSY09JdEIxTEU?oc=5",
         "publishedAt": "2026-07-08T04:00:00.000Z"
+      },
+      {
+        "time": "06:15",
+        "title": "DMG森精機が挑む工作機械のフィジカルAI、産総研と機械加工の基盤モデル構築促進",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZNDBZYk1vaGF5NUNTTE5qc2xCX3hobFpnUlBFeTdON0ZyQ1pTMUxLS3U2VmpJNG84YktyWUlxZlczQm9fUTFrd3hMc0tWN2pmX1k3QTh5ZGlXV1pNUUMtV1ZJUHotOXRqdDk2TlB4SQ?oc=5",
+        "publishedAt": "2026-07-07T21:15:00.000Z"
       },
       {
         "time": "16:53",
@@ -126,11 +126,11 @@
         "publishedAt": "2026-07-08T09:17:40.000Z"
       },
       {
-        "time": "13:09",
-        "title": "5000人が250億円投資被害 告訴へ",
+        "time": "22:44",
+        "title": "暑さで勝手に仕事中断 法的には",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587157?source=rss",
-        "publishedAt": "2026-07-08T04:09:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587228?source=rss",
+        "publishedAt": "2026-07-08T13:44:43.000Z"
       },
       {
         "time": "17:16",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-07-08T08:54:54.000Z"
       },
       {
+        "time": "22:19",
+        "title": "カツアゲ告発県議 逆に百万円受領",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587223?source=rss",
+        "publishedAt": "2026-07-08T13:19:50.000Z"
+      },
+      {
         "time": "16:19",
         "title": "ガンホー元本部長 背任疑いで逮捕",
         "source": "Yahoo!ニュース",
@@ -163,11 +170,18 @@
         "publishedAt": "2026-07-08T07:19:28.000Z"
       },
       {
-        "time": "16:55",
-        "title": "小樽飲酒事故「優しい兄返して」",
+        "time": "22:45",
+        "title": "唇を縫い付けた疑い 共犯もいたか",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587185?source=rss",
-        "publishedAt": "2026-07-08T07:55:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587226?source=rss",
+        "publishedAt": "2026-07-08T13:45:37.000Z"
+      },
+      {
+        "time": "22:19",
+        "title": "検事 元容疑者の女性と不適切交際",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587225?source=rss",
+        "publishedAt": "2026-07-08T13:19:10.000Z"
       },
       {
         "time": "20:33",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587213?source=rss",
         "publishedAt": "2026-07-08T11:33:51.000Z"
-      },
-      {
-        "time": "19:05",
-        "title": "取材ヘリに光線照射した疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587207?source=rss",
-        "publishedAt": "2026-07-08T10:05:37.000Z"
-      },
-      {
-        "time": "21:36",
-        "title": "三笘薫選手が事故 赤信号で進入か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587221?source=rss",
-        "publishedAt": "2026-07-08T12:36:42.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -222,6 +222,13 @@
         "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-01T07:00:00.000Z"
+      },
+      {
+        "time": "16:00",
+        "title": "食洗機設置の設置で使える！省エネ住宅補助金",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wb3R6alFKeVRpMkVWVGpiMjRhdGVkZFhZZXRBTl8yeU5xTDlwMDQwelhkQ3hFSnNaMEszMjRYMl9VYjAxUi1xVzRzSEkwTWkxLXZhbndUWkpGUUg4aXY4V0VPSDQ?oc=5",
+        "publishedAt": "2026-06-30T07:00:00.000Z"
       }
     ]
   }
