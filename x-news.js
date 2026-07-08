@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T07:21:33.804Z",
+  "updatedAt": "2026-07-08T08:19:51.295Z",
   "items": [
     {
-      "time": "14:16",
-      "title": "安倍氏銃撃4年 昭恵さんの思い",
+      "time": "17:02",
+      "title": "国会 衆議院も正常化する見通し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587163?source=rss",
-      "publishedAt": "2026-07-08T05:16:32.000Z",
-      "xQuery": "安倍氏銃撃4年 昭恵さんの思い"
+      "url": "https://news.yahoo.co.jp/pickup/6587184?source=rss",
+      "publishedAt": "2026-07-08T08:02:55.000Z",
+      "xQuery": "国会 衆議院も正常化する見通し"
     },
     {
       "time": "16:07",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ベネズエラ地震 掘り出せぬ遺体も"
     },
     {
-      "time": "14:05",
-      "title": "村上誠一郎氏 高市政権に苦言連発",
+      "time": "16:41",
+      "title": "「060」番号の提供延期 5社発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587162?source=rss",
-      "publishedAt": "2026-07-08T05:05:07.000Z",
-      "xQuery": "村上誠一郎氏 高市政権に苦言連発"
+      "url": "https://news.yahoo.co.jp/pickup/6587180?source=rss",
+      "publishedAt": "2026-07-08T07:41:14.000Z",
+      "xQuery": "「060」番号の提供延期 5社発表"
     },
     {
       "time": "15:27",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "全東信破産 負債額は1000億円超"
     },
     {
-      "time": "14:25",
-      "title": "富山の遊園地 安全バー閉めず運行",
+      "time": "16:19",
+      "title": "ガンホー元本部長 背任疑いで逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587164?source=rss",
-      "publishedAt": "2026-07-08T05:25:10.000Z",
-      "xQuery": "富山の遊園地 安全バー閉めず運行"
+      "url": "https://news.yahoo.co.jp/pickup/6587177?source=rss",
+      "publishedAt": "2026-07-08T07:19:28.000Z",
+      "xQuery": "ガンホー元本部長 背任疑いで逮捕"
     }
   ]
 };
