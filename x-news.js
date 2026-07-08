@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-07T23:50:30.987Z",
+  "updatedAt": "2026-07-08T00:48:21.920Z",
   "items": [
     {
-      "time": "08:20",
-      "title": "九州など35℃以上予想 熱中症警戒",
+      "time": "09:40",
+      "title": "台風9号が沖縄接近 早めの備えを",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587124?source=rss",
-      "publishedAt": "2026-07-07T23:20:33.000Z",
-      "xQuery": "九州など35℃以上予想 熱中症警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6587131?source=rss",
+      "publishedAt": "2026-07-08T00:40:08.000Z",
+      "xQuery": "台風9号が沖縄接近 早めの備えを"
     },
     {
-      "time": "06:43",
-      "title": "ホルムズ海峡で船舶攻撃 混乱続く",
+      "time": "09:03",
+      "title": "皇室典範改正案賛成せず 立憲調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587119?source=rss",
-      "publishedAt": "2026-07-07T21:43:56.000Z",
-      "xQuery": "ホルムズ海峡で船舶攻撃 混乱続く"
-    },
-    {
-      "time": "07:39",
-      "title": "違法性疑いの移植手術 潜むリスク",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587120?source=rss",
-      "publishedAt": "2026-07-07T22:39:58.000Z",
-      "xQuery": "違法性疑いの移植手術 潜むリスク"
+      "url": "https://news.yahoo.co.jp/pickup/6587129?source=rss",
+      "publishedAt": "2026-07-08T00:03:31.000Z",
+      "xQuery": "皇室典範改正案賛成せず 立憲調整"
     },
     {
       "time": "23:15",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587127?source=rss",
       "publishedAt": "2026-07-07T23:42:54.000Z",
       "xQuery": "NY高層ビル崩落の恐れ 周辺避難"
+    },
+    {
+      "time": "09:31",
+      "title": "障害ある弟の文字 姉がデザインに",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587130?source=rss",
+      "publishedAt": "2026-07-08T00:31:53.000Z",
+      "xQuery": "障害ある弟の文字 姉がデザインに"
     }
   ]
 };
