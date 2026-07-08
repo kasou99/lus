@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T15:19:31.022Z",
+  "updatedAt": "2026-07-08T16:11:26.107Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,13 +156,6 @@
         "publishedAt": "2026-07-08T08:54:54.000Z"
       },
       {
-        "time": "22:19",
-        "title": "カツアゲ告発県議 逆に百万円受領",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587223?source=rss",
-        "publishedAt": "2026-07-08T13:19:50.000Z"
-      },
-      {
         "time": "16:19",
         "title": "ガンホー元本部長 背任疑いで逮捕",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587225?source=rss",
         "publishedAt": "2026-07-08T13:19:10.000Z"
+      },
+      {
+        "time": "01:02",
+        "title": "「カツアゲ」告発の県議 金銭受領",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587237?source=rss",
+        "publishedAt": "2026-07-08T16:02:30.000Z"
       },
       {
         "time": "20:33",
