@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T22:53:29.253Z",
+  "updatedAt": "2026-07-08T23:29:08.901Z",
   "items": [
     {
       "time": "06:28",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風9号 11日朝石垣島など直撃か"
     },
     {
-      "time": "06:20",
-      "title": "米軍 イランへの新たな攻撃実施",
+      "time": "07:50",
+      "title": "米イラン緊張 パキスタン懸念表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587240?source=rss",
-      "publishedAt": "2026-07-08T21:20:25.000Z",
-      "xQuery": "米軍 イランへの新たな攻撃実施"
+      "url": "https://news.yahoo.co.jp/pickup/6587246?source=rss",
+      "publishedAt": "2026-07-08T22:50:27.000Z",
+      "xQuery": "米イラン緊張 パキスタン懸念表明"
     },
     {
       "time": "23:37",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 イランと日本言い間違え"
     },
     {
-      "time": "06:11",
-      "title": "住宅で70代死亡 殺人疑い息子逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587239?source=rss",
-      "publishedAt": "2026-07-08T21:11:21.000Z",
-      "xQuery": "住宅で70代死亡 殺人疑い息子逮捕"
-    },
-    {
       "time": "07:25",
       "title": "KDDI共同創業者の子4人 申告漏れ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587245?source=rss",
       "publishedAt": "2026-07-08T22:25:13.000Z",
       "xQuery": "KDDI共同創業者の子4人 申告漏れ"
+    },
+    {
+      "time": "07:32",
+      "title": "快活CLUBアプリ攻撃疑い18歳逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587243?source=rss",
+      "publishedAt": "2026-07-08T22:32:24.000Z",
+      "xQuery": "快活CLUBアプリ攻撃疑い18歳逮捕"
     }
   ]
 };
