@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T08:19:51.295Z",
+  "updatedAt": "2026-07-08T09:20:50.006Z",
   "items": [
     {
       "time": "17:02",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "国会 衆議院も正常化する見通し"
     },
     {
-      "time": "16:07",
-      "title": "ベネズエラ地震 掘り出せぬ遺体も",
+      "time": "16:26",
+      "title": "攻撃被害続く ホルムズ通航量減少",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587172?source=rss",
-      "publishedAt": "2026-07-08T07:07:59.000Z",
-      "xQuery": "ベネズエラ地震 掘り出せぬ遺体も"
+      "url": "https://news.yahoo.co.jp/pickup/6587176?source=rss",
+      "publishedAt": "2026-07-08T07:26:22.000Z",
+      "xQuery": "攻撃被害続く ホルムズ通航量減少"
     },
     {
-      "time": "16:41",
-      "title": "「060」番号の提供延期 5社発表",
+      "time": "17:51",
+      "title": "首相週末に終日公邸 安倍氏の10倍",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587180?source=rss",
-      "publishedAt": "2026-07-08T07:41:14.000Z",
-      "xQuery": "「060」番号の提供延期 5社発表"
+      "url": "https://news.yahoo.co.jp/pickup/6587193?source=rss",
+      "publishedAt": "2026-07-08T08:51:23.000Z",
+      "xQuery": "首相週末に終日公邸 安倍氏の10倍"
     },
     {
-      "time": "15:27",
-      "title": "全東信破産 負債額は1000億円超",
+      "time": "17:30",
+      "title": "全東信破産 20年前から粉飾決算か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587168?source=rss",
-      "publishedAt": "2026-07-08T06:27:59.000Z",
-      "xQuery": "全東信破産 負債額は1000億円超"
+      "url": "https://news.yahoo.co.jp/pickup/6587189?source=rss",
+      "publishedAt": "2026-07-08T08:30:48.000Z",
+      "xQuery": "全東信破産 20年前から粉飾決算か"
     },
     {
-      "time": "16:19",
-      "title": "ガンホー元本部長 背任疑いで逮捕",
+      "time": "17:54",
+      "title": "事故で乳児重体 救出者「生きろ」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587177?source=rss",
-      "publishedAt": "2026-07-08T07:19:28.000Z",
-      "xQuery": "ガンホー元本部長 背任疑いで逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6587194?source=rss",
+      "publishedAt": "2026-07-08T08:54:54.000Z",
+      "xQuery": "事故で乳児重体 救出者「生きろ」"
     }
   ]
 };
