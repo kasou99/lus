@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T10:18:53.971Z",
+  "updatedAt": "2026-07-08T11:14:00.789Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-08T04:00:00.000Z"
       },
       {
-        "time": "03:59",
-        "title": "ミロクリエ、現場完結の部品棚卸し機能",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9BNjJ3azM2WG5pU3dLUHk5VjRRUldMVzA5T0c4ZmwwTmxDQ2JkYVBuSjBrb1gzSVRmVDU5bnVjTnByWXphS3M4eg?oc=5",
-        "publishedAt": "2026-07-07T18:59:49.000Z"
+        "time": "16:53",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-07-08T07:53:14.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "23:15",
-        "title": "穴開いた商船三井船 ホルムズ通過",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587112?source=rss",
-        "publishedAt": "2026-07-07T14:15:16.000Z"
-      },
-      {
         "time": "15:27",
         "title": "全東信破産 負債額は1000億円超",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587179?source=rss",
         "publishedAt": "2026-07-08T08:16:01.000Z"
+      },
+      {
+        "time": "17:18",
+        "title": "焼肉店窮地 ロピアが新たな競合?",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587188?source=rss",
+        "publishedAt": "2026-07-08T08:18:19.000Z"
       }
     ],
     "localHeadlines": [
@@ -222,13 +222,6 @@
         "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-01T07:00:00.000Z"
-      },
-      {
-        "time": "16:00",
-        "title": "【令和8年・2026年】もらえる給付金・支援金まとめ！物価高・農業・子育て・生活支援等、目的別に紹介",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PbTA2anpjTjlKcUhxXzQtbEFhcXpkSE1UYjItLXZYTHJ0cG5uS3daeVBsY20xTzFCREZ6NEZYdm16OC1iRzRHZWlWZkpyVUYzZmZiTzVGaXd6Q1dhX2ptWVhpLTZuUkZt?oc=5",
-        "publishedAt": "2026-07-02T07:00:00.000Z"
       }
     ]
   }

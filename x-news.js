@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T10:18:54.661Z",
+  "updatedAt": "2026-07-08T11:14:02.285Z",
   "items": [
+    {
+      "time": "19:18",
+      "title": "台風9号 10～11日に先島諸島接近",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587209?source=rss",
+      "publishedAt": "2026-07-08T10:18:13.000Z",
+      "xQuery": "台風9号 10～11日に先島諸島接近"
+    },
     {
       "time": "18:29",
       "title": "イラン覚書 米大統領「終わった」",
@@ -10,28 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン覚書 米大統領「終わった」"
     },
     {
-      "time": "17:16",
-      "title": "夫の転勤で妻は転職 家族にも負担",
+      "time": "18:17",
+      "title": "ノーリツが下請法違反 公取委勧告",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587179?source=rss",
-      "publishedAt": "2026-07-08T08:16:01.000Z",
-      "xQuery": "夫の転勤で妻は転職 家族にも負担"
-    },
-    {
-      "time": "17:54",
-      "title": "事故で乳児重体 救出者「生きろ」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587194?source=rss",
-      "publishedAt": "2026-07-08T08:54:54.000Z",
-      "xQuery": "事故で乳児重体 救出者「生きろ」"
-    },
-    {
-      "time": "14:52",
-      "title": "9歳で母をケア 幸せな時間あった",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587165?source=rss",
-      "publishedAt": "2026-07-08T05:52:51.000Z",
-      "xQuery": "9歳で母をケア 幸せな時間あった"
+      "url": "https://news.yahoo.co.jp/pickup/6587199?source=rss",
+      "publishedAt": "2026-07-08T09:17:40.000Z",
+      "xQuery": "ノーリツが下請法違反 公取委勧告"
     },
     {
       "time": "19:05",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587207?source=rss",
       "publishedAt": "2026-07-08T10:05:37.000Z",
       "xQuery": "取材ヘリに光線照射した疑い 逮捕"
+    },
+    {
+      "time": "18:31",
+      "title": "三笘薫選手が交通事故 女性軽傷",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587204?source=rss",
+      "publishedAt": "2026-07-08T09:31:02.000Z",
+      "xQuery": "三笘薫選手が交通事故 女性軽傷"
     }
   ]
 };
