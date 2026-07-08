@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T11:14:02.285Z",
+  "updatedAt": "2026-07-08T12:04:21.129Z",
   "items": [
     {
       "time": "19:18",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン覚書 米大統領「終わった」"
     },
     {
-      "time": "18:17",
-      "title": "ノーリツが下請法違反 公取委勧告",
+      "time": "20:18",
+      "title": "スペインと貿易停止 米大統領指示",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587199?source=rss",
-      "publishedAt": "2026-07-08T09:17:40.000Z",
-      "xQuery": "ノーリツが下請法違反 公取委勧告"
+      "url": "https://news.yahoo.co.jp/pickup/6587215?source=rss",
+      "publishedAt": "2026-07-08T11:18:05.000Z",
+      "xQuery": "スペインと貿易停止 米大統領指示"
     },
     {
-      "time": "19:05",
-      "title": "取材ヘリに光線照射した疑い 逮捕",
+      "time": "20:33",
+      "title": "アパートに刺し傷ある男性 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587207?source=rss",
-      "publishedAt": "2026-07-08T10:05:37.000Z",
-      "xQuery": "取材ヘリに光線照射した疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6587213?source=rss",
+      "publishedAt": "2026-07-08T11:33:51.000Z",
+      "xQuery": "アパートに刺し傷ある男性 死亡"
     },
     {
       "time": "18:31",

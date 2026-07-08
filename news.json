@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T11:14:00.789Z",
+  "updatedAt": "2026-07-08T12:04:20.320Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "20:18",
+        "title": "スペインと貿易停止 米大統領指示",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587215?source=rss",
+        "publishedAt": "2026-07-08T11:18:05.000Z"
+      },
+      {
         "time": "18:29",
         "title": "イラン覚書 米大統領「終わった」",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587128?source=rss",
         "publishedAt": "2026-07-08T00:02:02.000Z"
-      },
-      {
-        "time": "10:01",
-        "title": "防衛投資拡大アピール NATO首脳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587133?source=rss",
-        "publishedAt": "2026-07-08T01:01:59.000Z"
       },
       {
         "time": "16:07",
@@ -170,11 +170,11 @@
         "publishedAt": "2026-07-08T07:55:20.000Z"
       },
       {
-        "time": "23:07",
-        "title": "女性死亡 ひき逃げ疑いで25歳逮捕",
+        "time": "20:33",
+        "title": "アパートに刺し傷ある男性 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587111?source=rss",
-        "publishedAt": "2026-07-07T14:07:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587213?source=rss",
+        "publishedAt": "2026-07-08T11:33:51.000Z"
       },
       {
         "time": "19:05",
