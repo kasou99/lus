@@ -1,37 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T09:20:50.006Z",
+  "updatedAt": "2026-07-08T10:18:54.661Z",
   "items": [
     {
-      "time": "17:02",
-      "title": "国会 衆議院も正常化する見通し",
+      "time": "18:29",
+      "title": "イラン覚書 米大統領「終わった」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587184?source=rss",
-      "publishedAt": "2026-07-08T08:02:55.000Z",
-      "xQuery": "国会 衆議院も正常化する見通し"
+      "url": "https://news.yahoo.co.jp/pickup/6587200?source=rss",
+      "publishedAt": "2026-07-08T09:29:15.000Z",
+      "xQuery": "イラン覚書 米大統領「終わった」"
     },
     {
-      "time": "16:26",
-      "title": "攻撃被害続く ホルムズ通航量減少",
+      "time": "17:16",
+      "title": "夫の転勤で妻は転職 家族にも負担",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587176?source=rss",
-      "publishedAt": "2026-07-08T07:26:22.000Z",
-      "xQuery": "攻撃被害続く ホルムズ通航量減少"
-    },
-    {
-      "time": "17:51",
-      "title": "首相週末に終日公邸 安倍氏の10倍",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587193?source=rss",
-      "publishedAt": "2026-07-08T08:51:23.000Z",
-      "xQuery": "首相週末に終日公邸 安倍氏の10倍"
-    },
-    {
-      "time": "17:30",
-      "title": "全東信破産 20年前から粉飾決算か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587189?source=rss",
-      "publishedAt": "2026-07-08T08:30:48.000Z",
-      "xQuery": "全東信破産 20年前から粉飾決算か"
+      "url": "https://news.yahoo.co.jp/pickup/6587179?source=rss",
+      "publishedAt": "2026-07-08T08:16:01.000Z",
+      "xQuery": "夫の転勤で妻は転職 家族にも負担"
     },
     {
       "time": "17:54",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587194?source=rss",
       "publishedAt": "2026-07-08T08:54:54.000Z",
       "xQuery": "事故で乳児重体 救出者「生きろ」"
+    },
+    {
+      "time": "14:52",
+      "title": "9歳で母をケア 幸せな時間あった",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587165?source=rss",
+      "publishedAt": "2026-07-08T05:52:51.000Z",
+      "xQuery": "9歳で母をケア 幸せな時間あった"
+    },
+    {
+      "time": "19:05",
+      "title": "取材ヘリに光線照射した疑い 逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587207?source=rss",
+      "publishedAt": "2026-07-08T10:05:37.000Z",
+      "xQuery": "取材ヘリに光線照射した疑い 逮捕"
     }
   ]
 };

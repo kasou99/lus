@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T09:20:49.208Z",
+  "updatedAt": "2026-07-08T10:18:53.971Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-07-08T03:15:00.000Z"
       },
       {
-        "time": "13:00",
-        "title": "位置エンコーダチップの世界市場（2026年～2032年）、市場規模（アナログ信号出力タイプ、デジタル信号出力タイプ）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fcE1VQVNRS0k5Tzgtd09GV0ozWnZ3SUFFajBIR2VkOXRULWMtcVVCempRc01tenZNLUZ6cHptUzdmZTlPYTdSY09JdEIxTEU?oc=5",
-        "publishedAt": "2026-07-08T04:00:00.000Z"
-      },
-      {
         "time": "06:15",
         "title": "DMG森精機が挑む工作機械のフィジカルAI、産総研と機械加工の基盤モデル構築促進",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZNDBZYk1vaGF5NUNTTE5qc2xCX3hobFpnUlBFeTdON0ZyQ1pTMUxLS3U2VmpJNG84YktyWUlxZlczQm9fUTFrd3hMc0tWN2pmX1k3QTh5ZGlXV1pNUUMtV1ZJUHotOXRqdDk2TlB4SQ?oc=5",
         "publishedAt": "2026-07-07T21:15:00.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "位置エンコーダチップの世界市場（2026年～2032年）、市場規模（アナログ信号出力タイプ、デジタル信号出力タイプ）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fcE1VQVNRS0k5Tzgtd09GV0ozWnZ3SUFFajBIR2VkOXRULWMtcVVCempRc01tenZNLUZ6cHptUzdmZTlPYTdSY09JdEIxTEU?oc=5",
+        "publishedAt": "2026-07-08T04:00:00.000Z"
       },
       {
         "time": "03:59",
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "10:01",
-        "title": "防衛投資拡大アピール NATO首脳",
+        "time": "18:29",
+        "title": "イラン覚書 米大統領「終わった」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587133?source=rss",
-        "publishedAt": "2026-07-08T01:01:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587200?source=rss",
+        "publishedAt": "2026-07-08T09:29:15.000Z"
       },
       {
         "time": "16:26",
@@ -82,18 +82,18 @@
         "publishedAt": "2026-07-08T00:02:02.000Z"
       },
       {
+        "time": "10:01",
+        "title": "防衛投資拡大アピール NATO首脳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587133?source=rss",
+        "publishedAt": "2026-07-08T01:01:59.000Z"
+      },
+      {
         "time": "16:07",
         "title": "ベネズエラ地震 掘り出せぬ遺体も",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587172?source=rss",
         "publishedAt": "2026-07-08T07:07:59.000Z"
-      },
-      {
-        "time": "22:11",
-        "title": "ベネズエラ地震 バレーの主将死去",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587107?source=rss",
-        "publishedAt": "2026-07-07T13:11:01.000Z"
       },
       {
         "time": "11:34",
@@ -170,25 +170,25 @@
         "publishedAt": "2026-07-08T07:55:20.000Z"
       },
       {
-        "time": "13:48",
-        "title": "他県警の捜査情報 店側に漏洩疑い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587161?source=rss",
-        "publishedAt": "2026-07-08T04:48:18.000Z"
-      },
-      {
-        "time": "17:17",
-        "title": "横浜の上半身のみの遺体 身元判明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587067?source=rss",
-        "publishedAt": "2026-07-07T08:17:39.000Z"
-      },
-      {
         "time": "23:07",
         "title": "女性死亡 ひき逃げ疑いで25歳逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587111?source=rss",
         "publishedAt": "2026-07-07T14:07:54.000Z"
+      },
+      {
+        "time": "19:05",
+        "title": "取材ヘリに光線照射した疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587207?source=rss",
+        "publishedAt": "2026-07-08T10:05:37.000Z"
+      },
+      {
+        "time": "18:31",
+        "title": "三笘薫選手が交通事故 女性軽傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587204?source=rss",
+        "publishedAt": "2026-07-08T09:31:02.000Z"
       }
     ],
     "subsidyHeadlines": [
