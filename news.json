@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-07-08T04:37:24.048Z",
+  "updatedAt": "2026-07-08T06:03:15.932Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "06:15",
-        "title": "DMG森精機が挑む工作機械のフィジカルAI、産総研と機械加工の基盤モデル構築促進",
+        "time": "13:30",
+        "title": "ソディックが新プラットフォームを提供、機械の設備監視と遠隔サポートを統合：工作機械",
         "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZNDBZYk1vaGF5NUNTTE5qc2xCX3hobFpnUlBFeTdON0ZyQ1pTMUxLS3U2VmpJNG84YktyWUlxZlczQm9fUTFrd3hMc0tWN2pmX1k3QTh5ZGlXV1pNUUMtV1ZJUHotOXRqdDk2TlB4SQ?oc=5",
-        "publishedAt": "2026-07-07T21:15:00.000Z"
-      },
-      {
-        "time": "07:00",
-        "title": "日本の工作機械、中国の地方都市に敗れ始める―中国メディア",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSV9mb3g0MUt3SjZtNmk3WkpRaXpJdC1aU3NwWWxWVWpmZjIxcktnOTF1Nl9DdzF2U1ZaWlozZmt3dkVRSkJ1Q2EzODdTLWhEcmVlbGEwOURycDRwTGZZQ0hIcnBhWlhxYWZNM1VrZm1GOWkycjNXR1FPUmRCOGdja1FKZ2N2dG9zcHdj0gGLAUFVX3lxTE1JX2ZveDQxS3dKNm02aTdaSlFpekl0LVpTc3BZbFZVamZmMjFyS2c5MXU2X0N3MXZTVlpaWjNma3d2RVFKQnVDYTM4N1MtaERyZWVsYTA5RHJwNHBMZllDSEhycGFaWHFhZk0zVWtmbUY5aTJyM1dHUU9SZEI4Z2NrUUpnY3Z0b3Nwd2M?oc=5",
-        "publishedAt": "2026-07-07T22:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Xd1lZYzZldDlpMEJybENrZVJGNHQtVS1KZFNPT3A0MnpWR3BxZ01ncGRRQlRRNkRENTZ6UWJSTmt1NGJpLVlvU2d1NXdiWVJ5Q2lWaDhGZ084ci1jeEE0QnNiS2VQREZlZ0tkUnRjaw?oc=5",
+        "publishedAt": "2026-07-08T04:30:00.000Z"
       },
       {
         "time": "05:00",
@@ -24,11 +17,25 @@
         "publishedAt": "2026-07-07T20:00:00.000Z"
       },
       {
+        "time": "07:00",
+        "title": "日本の工作機械、中国の地方都市に敗れ始める―中国メディア",
+        "source": "Record China",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lR3lhYmRabTkxbDR4NVFfOVYwYjJhbm1CN0d4NDBOSElQdHAxVG9XSXVMZ0dQbm5oUmhDQ1A3RlRtWmNsMzBoM2lZMmYzMDhFT2NxY3BlbW9mVmhSZ1ZJWGhkT01aZFk?oc=5",
+        "publishedAt": "2026-07-07T22:00:02.000Z"
+      },
+      {
         "time": "12:15",
         "title": "工作機械や小型プリンターのスター精密、NotionとNotion AIを国内全社ナレッジ基盤として導入",
         "source": "Excite エキサイト",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oeFJVM1NydDZrUVRYZkp1ZVlfdERfVVAyMFd4MGVkRUpCWTNvN1NKZ2VJUW1ub19mU1hqNi1VNjlBZDR5Z29nMHhWZWM3bUVxY0dOMlRqdkNBTEstWHFKcDVVcXI0b2JtX01wQUIySnZPQXc?oc=5",
         "publishedAt": "2026-07-08T03:15:00.000Z"
+      },
+      {
+        "time": "06:15",
+        "title": "DMG森精機が挑む工作機械のフィジカルAI、産総研と機械加工の基盤モデル構築促進",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZNDBZYk1vaGF5NUNTTE5qc2xCX3hobFpnUlBFeTdON0ZyQ1pTMUxLS3U2VmpJNG84YktyWUlxZlczQm9fUTFrd3hMc0tWN2pmX1k3QTh5ZGlXV1pNUUMtV1ZJUHotOXRqdDk2TlB4SQ?oc=5",
+        "publishedAt": "2026-07-07T21:15:00.000Z"
       },
       {
         "time": "13:00",
@@ -50,13 +57,6 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52YUhOWUR3UkhzUlZaS2F1MHc1MGQ3MFZjN0dGdzRITElQcHc5ZHNLQi1ubzcwWDVubVFTRmp4c21HNFhHaVVZUw?oc=5",
         "publishedAt": "2026-07-07T06:56:13.000Z"
-      },
-      {
-        "time": "09:11",
-        "title": "小松物産、ティーズリンク買収 建材の商圏拡大",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wMVdzSFN2VWY5bHlQdVRJRmx5cUlYb0U1ZlprRmdXZnlzOXkyTzJuTUNZSURtclhfeVVodHkwWExTaU56XzdNZDhkbzM2Qkx4aWszWkhrRk1pd2U2eG9zay1PY2l0bWlVbElUWlNBUldVS0VKQ3d3TFlucw?oc=5",
-        "publishedAt": "2026-07-08T00:11:15.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-07-07T14:15:16.000Z"
       },
       {
-        "time": "16:18",
-        "title": "静岡リニア着工容認も 完成に10年",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587056?source=rss",
-        "publishedAt": "2026-07-07T07:18:20.000Z"
-      },
-      {
         "time": "20:01",
         "title": "全東信破産 融資焦げ付きの恐れも",
         "source": "Yahoo!ニュース",
@@ -140,6 +133,13 @@
         "publishedAt": "2026-07-07T09:55:47.000Z"
       },
       {
+        "time": "14:52",
+        "title": "喜多方ラーメン消滅の危機 なぜ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587166?source=rss",
+        "publishedAt": "2026-07-08T05:52:12.000Z"
+      },
+      {
         "time": "12:07",
         "title": "極太麺も 冷やし中華に背徳系の波",
         "source": "Yahoo!ニュース",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "13:48",
+        "title": "他県警の捜査情報 店側に漏洩疑い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587161?source=rss",
+        "publishedAt": "2026-07-08T04:48:18.000Z"
+      },
+      {
         "time": "22:15",
         "title": "被告黙秘で7カ月 悩んだ裁判員",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587106?source=rss",
         "publishedAt": "2026-07-07T13:15:38.000Z"
-      },
-      {
-        "time": "11:50",
-        "title": "子2人死亡 逮捕の父「将来悲観」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587028?source=rss",
-        "publishedAt": "2026-07-07T02:50:14.000Z"
       },
       {
         "time": "10:55",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-07-07T14:07:54.000Z"
       },
       {
-        "time": "09:31",
-        "title": "障害ある弟の文字 姉がデザインに",
+        "time": "13:42",
+        "title": "乗用車とトラック衝突 乳児が重体",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587130?source=rss",
-        "publishedAt": "2026-07-08T00:31:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587160?source=rss",
+        "publishedAt": "2026-07-08T04:42:00.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T04:37:24.800Z",
+  "updatedAt": "2026-07-08T06:03:16.981Z",
   "items": [
     {
-      "time": "11:56",
-      "title": "旧統一 元職員を新団体で再雇用か",
+      "time": "14:16",
+      "title": "安倍氏銃撃4年 昭恵さんの思い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587144?source=rss",
-      "publishedAt": "2026-07-08T02:56:51.000Z",
-      "xQuery": "旧統一 元職員を新団体で再雇用か"
+      "url": "https://news.yahoo.co.jp/pickup/6587163?source=rss",
+      "publishedAt": "2026-07-08T05:16:32.000Z",
+      "xQuery": "安倍氏銃撃4年 昭恵さんの思い"
     },
     {
-      "time": "10:01",
-      "title": "防衛投資拡大アピール NATO首脳",
+      "time": "13:02",
+      "title": "フロンティアAI 国際政治の課題に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587133?source=rss",
-      "publishedAt": "2026-07-08T01:01:59.000Z",
-      "xQuery": "防衛投資拡大アピール NATO首脳"
+      "url": "https://news.yahoo.co.jp/pickup/6587150?source=rss",
+      "publishedAt": "2026-07-08T04:02:40.000Z",
+      "xQuery": "フロンティアAI 国際政治の課題に"
     },
     {
-      "time": "11:34",
-      "title": "モナコ爆弾事件 容疑者がウで死亡",
+      "time": "14:05",
+      "title": "村上誠一郎氏 高市政権に苦言連発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587137?source=rss",
-      "publishedAt": "2026-07-08T02:34:09.000Z",
-      "xQuery": "モナコ爆弾事件 容疑者がウで死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6587162?source=rss",
+      "publishedAt": "2026-07-08T05:05:07.000Z",
+      "xQuery": "村上誠一郎氏 高市政権に苦言連発"
     },
     {
       "time": "13:09",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "5000人が250億円投資被害 告訴へ"
     },
     {
-      "time": "13:19",
-      "title": "しまむら戦略奏功 純利益過去最高",
+      "time": "13:42",
+      "title": "乗用車とトラック衝突 乳児が重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587158?source=rss",
-      "publishedAt": "2026-07-08T04:19:19.000Z",
-      "xQuery": "しまむら戦略奏功 純利益過去最高"
+      "url": "https://news.yahoo.co.jp/pickup/6587160?source=rss",
+      "publishedAt": "2026-07-08T04:42:00.000Z",
+      "xQuery": "乗用車とトラック衝突 乳児が重体"
     }
   ]
 };
