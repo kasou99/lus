@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T01:40:22.538Z",
+  "updatedAt": "2026-07-08T03:11:16.336Z",
   "items": [
     {
-      "time": "09:02",
-      "title": "米軍がイラン攻撃 商船攻撃に対抗",
+      "time": "11:15",
+      "title": "九州北部・中国・近畿で梅雨明け",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587128?source=rss",
-      "publishedAt": "2026-07-08T00:02:02.000Z",
-      "xQuery": "米軍がイラン攻撃 商船攻撃に対抗"
+      "url": "https://news.yahoo.co.jp/pickup/6587139?source=rss",
+      "publishedAt": "2026-07-08T02:15:52.000Z",
+      "xQuery": "九州北部・中国・近畿で梅雨明け"
     },
     {
-      "time": "09:40",
-      "title": "台風9号が沖縄接近 早めの備えを",
+      "time": "08:07",
+      "title": "仏極右ルペン氏 大統領選出馬表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587131?source=rss",
-      "publishedAt": "2026-07-08T00:40:08.000Z",
-      "xQuery": "台風9号が沖縄接近 早めの備えを"
+      "url": "https://news.yahoo.co.jp/pickup/6587123?source=rss",
+      "publishedAt": "2026-07-07T23:07:05.000Z",
+      "xQuery": "仏極右ルペン氏 大統領選出馬表明"
     },
     {
-      "time": "09:03",
-      "title": "皇室典範改正案賛成せず 立憲調整",
+      "time": "10:55",
+      "title": "2歳虐待死 両親に拘禁刑9年求刑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587129?source=rss",
-      "publishedAt": "2026-07-08T00:03:31.000Z",
-      "xQuery": "皇室典範改正案賛成せず 立憲調整"
+      "url": "https://news.yahoo.co.jp/pickup/6587136?source=rss",
+      "publishedAt": "2026-07-08T01:55:51.000Z",
+      "xQuery": "2歳虐待死 両親に拘禁刑9年求刑"
     },
     {
-      "time": "08:42",
-      "title": "NY高層ビル崩落の恐れ 周辺避難",
+      "time": "10:27",
+      "title": "絵本作家・林明子さんが死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587127?source=rss",
-      "publishedAt": "2026-07-07T23:42:54.000Z",
-      "xQuery": "NY高層ビル崩落の恐れ 周辺避難"
+      "url": "https://news.yahoo.co.jp/pickup/6587135?source=rss",
+      "publishedAt": "2026-07-08T01:27:10.000Z",
+      "xQuery": "絵本作家・林明子さんが死去"
     },
     {
-      "time": "09:31",
-      "title": "障害ある弟の文字 姉がデザインに",
+      "time": "11:47",
+      "title": "ハンガリー 公共放送「うそ」謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587130?source=rss",
-      "publishedAt": "2026-07-08T00:31:53.000Z",
-      "xQuery": "障害ある弟の文字 姉がデザインに"
+      "url": "https://news.yahoo.co.jp/pickup/6587143?source=rss",
+      "publishedAt": "2026-07-08T02:47:48.000Z",
+      "xQuery": "ハンガリー 公共放送「うそ」謝罪"
     }
   ]
 };
