@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T18:57:42.549Z",
+  "updatedAt": "2026-07-08T19:37:09.176Z",
   "items": [
     {
       "time": "20:46",
