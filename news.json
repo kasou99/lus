@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T21:56:56.695Z",
+  "updatedAt": "2026-07-08T22:26:45.147Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xZHhmZUhvWi16YTRtLWRBUkZCaU5VOWItRlg1eHNDclRyOXNCUXZSajdlQ05keE5QWXQ1X09WeThvbHhPbDM2Z1hmc1ZkSVBEY2c?oc=5",
         "publishedAt": "2026-07-08T17:04:27.000Z"
+      },
+      {
+        "time": "07:01",
+        "title": "ドコモが設備保守をAIで効率化 障害時の初動時間を6割短縮",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SWmtLc3RnaHo5VFNrZlVJR3hudktkdFlIMjNpZDhaUzd4LUJTZkdFaXlQSEkwUm1VTmprQTNYV091d1NJdmtZMXU2dEJRRmdDd0txMkJ2NXRUM09pdXdYcmE4VGJyd3dDTURiMGRlbTVBUQ?oc=5",
+        "publishedAt": "2026-07-08T22:01:00.000Z"
       },
       {
         "time": "13:30",
@@ -26,7 +33,7 @@
       {
         "time": "05:10",
         "title": "工作機械や小型プリンターのスター精密、NotionとNotion AIを国内全社ナレッジ基盤として導入",
-        "source": "rbbtoday.com",
+        "source": "RBB TODAY",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Mdmk4SkNsY29WV3ItYmdfcWw0eGJ0U1lPd2dheF9Vd3JqTUthUzR4aVJJSUN1MmxYSlo4aFBZNEZudjdtaU1HSVFDSVdLcktsX3FjbHJWRlVWM0dfR001R2w0Yy14S1BBSmhUZGxBRjZZNnRlZTJacQ?oc=5",
         "publishedAt": "2026-07-08T20:10:02.000Z"
       },
@@ -48,15 +55,8 @@
         "time": "13:00",
         "title": "位置エンコーダチップの世界市場（2026年～2032年）、市場規模（アナログ信号出力タイプ、デジタル信号出力タイプ）・分析レポートを発表",
         "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fcE1VQVNRS0k5Tzgtd09GV0ozWnZ3SUFFajBIR2VkOXRULWMtcVVCempRc01tenZNLUZ6cHptUzdmZTlPYTdSY09JdEIxTEU?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9udVJPekM5b0xmOEJRNjJaV3RJanJWVE9EOV8wRTFtWjB6REVMeTVha0V2OFBGX3FRclg0aVBCbXh5RGhuc1Ew?oc=5",
         "publishedAt": "2026-07-08T04:00:00.000Z"
-      },
-      {
-        "time": "05:01",
-        "title": "挑む・モノづくりヒトづくり／小松電気化学工業社長・西章洋氏",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oYWRtZHJyN0E5am9ZcUNIbmJCWmpQMFoyeWNNaVdjUVdVQjVzLXVLSW1WeGFfNEFMblVVWGNnX2p1U2EzTTdOX0FjcDFHQTJneGYtcGJtVlJ1LU0?oc=5",
-        "publishedAt": "2026-07-08T20:01:43.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "07:25",
+        "title": "KDDI共同創業者の子4人 申告漏れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587245?source=rss",
+        "publishedAt": "2026-07-08T22:25:13.000Z"
+      },
+      {
         "time": "23:26",
         "title": "全東信が破産 2万店超に未入金か",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587179?source=rss",
         "publishedAt": "2026-07-08T08:16:01.000Z"
-      },
-      {
-        "time": "17:18",
-        "title": "焼肉店窮地 ロピアが新たな競合?",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587188?source=rss",
-        "publishedAt": "2026-07-08T08:18:19.000Z"
       }
     ],
     "localHeadlines": [
