@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T03:11:16.336Z",
+  "updatedAt": "2026-07-08T04:37:24.800Z",
   "items": [
     {
-      "time": "11:15",
-      "title": "九州北部・中国・近畿で梅雨明け",
+      "time": "11:56",
+      "title": "旧統一 元職員を新団体で再雇用か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587139?source=rss",
-      "publishedAt": "2026-07-08T02:15:52.000Z",
-      "xQuery": "九州北部・中国・近畿で梅雨明け"
+      "url": "https://news.yahoo.co.jp/pickup/6587144?source=rss",
+      "publishedAt": "2026-07-08T02:56:51.000Z",
+      "xQuery": "旧統一 元職員を新団体で再雇用か"
     },
     {
-      "time": "08:07",
-      "title": "仏極右ルペン氏 大統領選出馬表明",
+      "time": "10:01",
+      "title": "防衛投資拡大アピール NATO首脳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587123?source=rss",
-      "publishedAt": "2026-07-07T23:07:05.000Z",
-      "xQuery": "仏極右ルペン氏 大統領選出馬表明"
+      "url": "https://news.yahoo.co.jp/pickup/6587133?source=rss",
+      "publishedAt": "2026-07-08T01:01:59.000Z",
+      "xQuery": "防衛投資拡大アピール NATO首脳"
     },
     {
-      "time": "10:55",
-      "title": "2歳虐待死 両親に拘禁刑9年求刑",
+      "time": "11:34",
+      "title": "モナコ爆弾事件 容疑者がウで死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587136?source=rss",
-      "publishedAt": "2026-07-08T01:55:51.000Z",
-      "xQuery": "2歳虐待死 両親に拘禁刑9年求刑"
+      "url": "https://news.yahoo.co.jp/pickup/6587137?source=rss",
+      "publishedAt": "2026-07-08T02:34:09.000Z",
+      "xQuery": "モナコ爆弾事件 容疑者がウで死亡"
     },
     {
-      "time": "10:27",
-      "title": "絵本作家・林明子さんが死去",
+      "time": "13:09",
+      "title": "5000人が250億円投資被害 告訴へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587135?source=rss",
-      "publishedAt": "2026-07-08T01:27:10.000Z",
-      "xQuery": "絵本作家・林明子さんが死去"
+      "url": "https://news.yahoo.co.jp/pickup/6587157?source=rss",
+      "publishedAt": "2026-07-08T04:09:28.000Z",
+      "xQuery": "5000人が250億円投資被害 告訴へ"
     },
     {
-      "time": "11:47",
-      "title": "ハンガリー 公共放送「うそ」謝罪",
+      "time": "13:19",
+      "title": "しまむら戦略奏功 純利益過去最高",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587143?source=rss",
-      "publishedAt": "2026-07-08T02:47:48.000Z",
-      "xQuery": "ハンガリー 公共放送「うそ」謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6587158?source=rss",
+      "publishedAt": "2026-07-08T04:19:19.000Z",
+      "xQuery": "しまむら戦略奏功 純利益過去最高"
     }
   ]
 };
