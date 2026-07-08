@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T20:34:03.554Z",
+  "updatedAt": "2026-07-08T21:29:07.303Z",
   "items": [
     {
       "time": "20:46",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "皇族数確保策 審議「中継入り」に"
     },
     {
-      "time": "23:50",
-      "title": "米 ウにパトリオット生産を容認へ",
+      "time": "06:20",
+      "title": "米軍 イランへの新たな攻撃実施",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587235?source=rss",
-      "publishedAt": "2026-07-08T14:50:23.000Z",
-      "xQuery": "米 ウにパトリオット生産を容認へ"
+      "url": "https://news.yahoo.co.jp/pickup/6587240?source=rss",
+      "publishedAt": "2026-07-08T21:20:25.000Z",
+      "xQuery": "米軍 イランへの新たな攻撃実施"
     },
     {
       "time": "23:37",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "全東信が破産 2万店超に未入金か"
     },
     {
-      "time": "22:19",
-      "title": "検事 元容疑者の女性と不適切交際",
+      "time": "06:11",
+      "title": "住宅で70代死亡 殺人疑い息子逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587225?source=rss",
-      "publishedAt": "2026-07-08T13:19:10.000Z",
-      "xQuery": "検事 元容疑者の女性と不適切交際"
+      "url": "https://news.yahoo.co.jp/pickup/6587239?source=rss",
+      "publishedAt": "2026-07-08T21:11:21.000Z",
+      "xQuery": "住宅で70代死亡 殺人疑い息子逮捕"
     }
   ]
 };

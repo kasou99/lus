@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T20:34:02.708Z",
+  "updatedAt": "2026-07-08T21:29:06.642Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-07-08T01:30:38.000Z"
       },
       {
+        "time": "05:10",
+        "title": "工作機械や小型プリンターのスター精密、NotionとNotion AIを国内全社ナレッジ基盤として導入",
+        "source": "RBB TODAY",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Mdmk4SkNsY29WV3ItYmdfcWw0eGJ0U1lPd2dheF9Vd3JqTUthUzR4aVJJSUN1MmxYSlo4aFBZNEZudjdtaU1HSVFDSVdLcktsX3FjbHJWRlVWM0dfR001R2w0Yy14S1BBSmhUZGxBRjZZNnRlZTJacQ?oc=5",
+        "publishedAt": "2026-07-08T20:10:02.000Z"
+      },
+      {
         "time": "02:33",
         "title": "日本の工作機械、中国の地方都市に敗れ始める―中国メディア",
         "source": "Record China",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40TmY3dVVCS3NJMGFDenhvLWxPNEROMjdscnl0S25xMFZxRHhHQ1BRYTVTRVBrdmt3X3VwNllkUmtwWE9rSDJDRGZRZFJWblZ1dmZvUWVUYm9GSXV5?oc=5",
         "publishedAt": "2026-07-08T17:33:57.000Z"
-      },
-      {
-        "time": "16:00",
-        "title": "工作機械や小型プリンターのスター精密、NotionとNotion AIを国内全社ナレッジ基盤として導入",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81NnFYTnlTWlZUbU9BeWp2VER3dU9laFJieTdrdlNEY3J3MUZ4VURDeS0tQVBwQzRmdzVCNk9iU2ZTYnNMM2VrUklIWmstaDA3bWJHRDE4cXJuaTFudUpUdERnMUxnb2VFcm9jRG9kZWRiak9CTUE?oc=5",
-        "publishedAt": "2026-07-08T07:00:36.000Z"
       },
       {
         "time": "15:01",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "06:20",
+        "title": "米軍 イランへの新たな攻撃実施",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587240?source=rss",
+        "publishedAt": "2026-07-08T21:20:25.000Z"
+      },
+      {
         "time": "23:50",
         "title": "米 ウにパトリオット生産を容認へ",
         "source": "Yahoo!ニュース",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587215?source=rss",
         "publishedAt": "2026-07-08T11:18:05.000Z"
-      },
-      {
-        "time": "18:29",
-        "title": "イラン覚書 米大統領「終わった」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587200?source=rss",
-        "publishedAt": "2026-07-08T09:29:15.000Z"
       },
       {
         "time": "23:37",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "06:11",
+        "title": "住宅で70代死亡 殺人疑い息子逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587239?source=rss",
+        "publishedAt": "2026-07-08T21:11:21.000Z"
+      },
+      {
         "time": "17:54",
         "title": "事故で乳児重体 救出者「生きろ」",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587237?source=rss",
         "publishedAt": "2026-07-08T16:02:30.000Z"
-      },
-      {
-        "time": "20:33",
-        "title": "アパートに刺し傷ある男性 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587213?source=rss",
-        "publishedAt": "2026-07-08T11:33:51.000Z"
       }
     ],
     "subsidyHeadlines": [
