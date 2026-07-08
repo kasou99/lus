@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T14:18:58.500Z",
+  "updatedAt": "2026-07-08T15:19:31.022Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-07-08T13:03:36.000Z"
       },
       {
+        "time": "15:01",
+        "title": "DMG森精機、長時間稼働AMRの新型発売",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vcVo4WE45YzJSZTNMT0kwa1RUSmo5cmdfOC14bGN3SFVOYVRWT0hPRnRQa0g4LWJySFN2OXlETUNMcThZMldNSw?oc=5",
+        "publishedAt": "2026-07-08T06:01:07.000Z"
+      },
+      {
         "time": "15:21",
         "title": "【設備保全DX】メンテナンス・レジリエンス2026 に次世代設備保全クラウド「M2X」ブースを出展",
         "source": "ニコニコニュース",
@@ -50,16 +57,16 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZNDBZYk1vaGF5NUNTTE5qc2xCX3hobFpnUlBFeTdON0ZyQ1pTMUxLS3U2VmpJNG84YktyWUlxZlczQm9fUTFrd3hMc0tWN2pmX1k3QTh5ZGlXV1pNUUMtV1ZJUHotOXRqdDk2TlB4SQ?oc=5",
         "publishedAt": "2026-07-07T21:15:00.000Z"
-      },
-      {
-        "time": "16:53",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-07-08T07:53:14.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "23:50",
+        "title": "米 ウにパトリオット生産を容認へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587235?source=rss",
+        "publishedAt": "2026-07-08T14:50:23.000Z"
+      },
       {
         "time": "20:18",
         "title": "スペインと貿易停止 米大統領指示",
@@ -75,18 +82,11 @@
         "publishedAt": "2026-07-08T09:29:15.000Z"
       },
       {
-        "time": "16:26",
-        "title": "攻撃被害続く ホルムズ通航量減少",
+        "time": "23:37",
+        "title": "米大統領 イランと日本言い間違え",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587176?source=rss",
-        "publishedAt": "2026-07-08T07:26:22.000Z"
-      },
-      {
-        "time": "09:02",
-        "title": "米軍がイラン攻撃 商船攻撃に対抗",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587128?source=rss",
-        "publishedAt": "2026-07-08T00:02:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587233?source=rss",
+        "publishedAt": "2026-07-08T14:37:14.000Z"
       },
       {
         "time": "16:07",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "15:27",
-        "title": "全東信破産 負債額は1000億円超",
+        "time": "23:26",
+        "title": "全東信が破産 2万店超に未入金か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587168?source=rss",
-        "publishedAt": "2026-07-08T06:27:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587232?source=rss",
+        "publishedAt": "2026-07-08T14:26:25.000Z"
       },
       {
         "time": "17:30",

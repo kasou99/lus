@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T14:18:59.280Z",
+  "updatedAt": "2026-07-08T15:19:32.258Z",
   "items": [
     {
       "time": "20:46",
@@ -10,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "皇族数確保策 審議「中継入り」に"
     },
     {
-      "time": "22:34",
-      "title": "中国SLBM 事前通知の透明性は",
+      "time": "23:50",
+      "title": "米 ウにパトリオット生産を容認へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587227?source=rss",
-      "publishedAt": "2026-07-08T13:34:22.000Z",
-      "xQuery": "中国SLBM 事前通知の透明性は"
+      "url": "https://news.yahoo.co.jp/pickup/6587235?source=rss",
+      "publishedAt": "2026-07-08T14:50:23.000Z",
+      "xQuery": "米 ウにパトリオット生産を容認へ"
     },
     {
-      "time": "22:19",
-      "title": "カツアゲ告発県議 逆に百万円受領",
+      "time": "23:37",
+      "title": "米大統領 イランと日本言い間違え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587223?source=rss",
-      "publishedAt": "2026-07-08T13:19:50.000Z",
-      "xQuery": "カツアゲ告発県議 逆に百万円受領"
+      "url": "https://news.yahoo.co.jp/pickup/6587233?source=rss",
+      "publishedAt": "2026-07-08T14:37:14.000Z",
+      "xQuery": "米大統領 イランと日本言い間違え"
+    },
+    {
+      "time": "23:26",
+      "title": "全東信が破産 2万店超に未入金か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587232?source=rss",
+      "publishedAt": "2026-07-08T14:26:25.000Z",
+      "xQuery": "全東信が破産 2万店超に未入金か"
     },
     {
       "time": "22:19",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587225?source=rss",
       "publishedAt": "2026-07-08T13:19:10.000Z",
       "xQuery": "検事 元容疑者の女性と不適切交際"
-    },
-    {
-      "time": "22:45",
-      "title": "唇を縫い付けた疑い 共犯もいたか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587226?source=rss",
-      "publishedAt": "2026-07-08T13:45:37.000Z",
-      "xQuery": "唇を縫い付けた疑い 共犯もいたか"
     }
   ]
 };
