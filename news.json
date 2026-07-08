@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-08T06:03:15.932Z",
+  "updatedAt": "2026-07-08T07:21:33.218Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "10:30",
+        "title": "【設備保全DX】メンテナンス・レジリエンス2026 に次世代設備保全クラウド「M2X」ブースを出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CcW9GMGVqWFByZWdIa0FFVXpqdlhsSEZ1VHg0bTBiSXl1cGNfNzNWRVZiWWRTY1IzSHFYbTlBbnl2Z0RCQkFIQTlsb3dOWEpxUzhkTVhWRUFSUktBMDAyQm9aV2xRYzRxcnc?oc=5",
+        "publishedAt": "2026-07-08T01:30:38.000Z"
+      },
       {
         "time": "13:30",
         "title": "ソディックが新プラットフォームを提供、機械の設備監視と遠隔サポートを統合：工作機械",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-07-07T21:15:00.000Z"
       },
       {
+        "time": "17:11",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-07-07T08:11:37.000Z"
+      },
+      {
         "time": "13:00",
         "title": "位置エンコーダチップの世界市場（2026年～2032年）、市場規模（アナログ信号出力タイプ、デジタル信号出力タイプ）・分析レポートを発表",
         "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fcE1VQVNRS0k5Tzgtd09GV0ozWnZ3SUFFajBIR2VkOXRULWMtcVVCempRc01tenZNLUZ6cHptUzdmZTlPYTdSY09JdEIxTEU?oc=5",
         "publishedAt": "2026-07-08T04:00:00.000Z"
-      },
-      {
-        "time": "16:12",
-        "title": "部品不足で生産ラインを止めないために--設備保全クラウド「ミロクルカルテ」、モバイルで完結する部品棚卸し機能α版をリリース",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xZHhmZUhvWi16YTRtLWRBUkZCaU5VOWItRlg1eHNDclRyOXNCUXZSajdlQ05keE5QWXQ1X09WeThvbHhPbDM2Z1hmc1ZkSVBEY2c?oc=5",
-        "publishedAt": "2026-07-07T07:12:00.000Z"
-      },
-      {
-        "time": "15:56",
-        "title": "オートデスク、設備保全データを運用基盤に統合",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52YUhOWUR3UkhzUlZaS2F1MHc1MGQ3MFZjN0dGdzRITElQcHc5ZHNLQi1ubzcwWDVubVFTRmp4c21HNFhHaVVZUw?oc=5",
-        "publishedAt": "2026-07-07T06:56:13.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,25 +82,25 @@
         "publishedAt": "2026-07-07T21:43:56.000Z"
       },
       {
+        "time": "16:07",
+        "title": "ベネズエラ地震 掘り出せぬ遺体も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587172?source=rss",
+        "publishedAt": "2026-07-08T07:07:59.000Z"
+      },
+      {
+        "time": "22:11",
+        "title": "ベネズエラ地震 バレーの主将死去",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587107?source=rss",
+        "publishedAt": "2026-07-07T13:11:01.000Z"
+      },
+      {
         "time": "11:34",
         "title": "モナコ爆弾事件 容疑者がウで死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587137?source=rss",
         "publishedAt": "2026-07-08T02:34:09.000Z"
-      },
-      {
-        "time": "08:42",
-        "title": "NY高層ビル崩落の恐れ 周辺避難",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587127?source=rss",
-        "publishedAt": "2026-07-07T23:42:54.000Z"
-      },
-      {
-        "time": "08:07",
-        "title": "仏極右ルペン氏 大統領選出馬表明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587123?source=rss",
-        "publishedAt": "2026-07-07T23:07:05.000Z"
       }
     ],
     "economyHeadlines": [
@@ -112,11 +112,11 @@
         "publishedAt": "2026-07-07T14:15:16.000Z"
       },
       {
-        "time": "20:01",
-        "title": "全東信破産 融資焦げ付きの恐れも",
+        "time": "15:27",
+        "title": "全東信破産 負債額は1000億円超",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587090?source=rss",
-        "publishedAt": "2026-07-07T11:01:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587168?source=rss",
+        "publishedAt": "2026-07-08T06:27:59.000Z"
       },
       {
         "time": "13:09",
@@ -133,11 +133,11 @@
         "publishedAt": "2026-07-07T09:55:47.000Z"
       },
       {
-        "time": "14:52",
-        "title": "喜多方ラーメン消滅の危機 なぜ",
+        "time": "15:16",
+        "title": "喜多方ラーメンの閉店相次ぐ 背景",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587166?source=rss",
-        "publishedAt": "2026-07-08T05:52:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587169?source=rss",
+        "publishedAt": "2026-07-08T06:16:03.000Z"
       },
       {
         "time": "12:07",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "16:19",
+        "title": "ガンホー元本部長 背任疑いで逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587177?source=rss",
+        "publishedAt": "2026-07-08T07:19:28.000Z"
+      },
       {
         "time": "13:48",
         "title": "他県警の捜査情報 店側に漏洩疑い",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587106?source=rss",
         "publishedAt": "2026-07-07T13:15:38.000Z"
-      },
-      {
-        "time": "10:55",
-        "title": "2歳虐待死 両親に拘禁刑9年求刑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587136?source=rss",
-        "publishedAt": "2026-07-08T01:55:51.000Z"
       },
       {
         "time": "17:17",

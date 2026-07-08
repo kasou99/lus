@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T06:03:16.981Z",
+  "updatedAt": "2026-07-08T07:21:33.804Z",
   "items": [
     {
       "time": "14:16",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "安倍氏銃撃4年 昭恵さんの思い"
     },
     {
-      "time": "13:02",
-      "title": "フロンティアAI 国際政治の課題に",
+      "time": "16:07",
+      "title": "ベネズエラ地震 掘り出せぬ遺体も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587150?source=rss",
-      "publishedAt": "2026-07-08T04:02:40.000Z",
-      "xQuery": "フロンティアAI 国際政治の課題に"
+      "url": "https://news.yahoo.co.jp/pickup/6587172?source=rss",
+      "publishedAt": "2026-07-08T07:07:59.000Z",
+      "xQuery": "ベネズエラ地震 掘り出せぬ遺体も"
     },
     {
       "time": "14:05",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "村上誠一郎氏 高市政権に苦言連発"
     },
     {
-      "time": "13:09",
-      "title": "5000人が250億円投資被害 告訴へ",
+      "time": "15:27",
+      "title": "全東信破産 負債額は1000億円超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587157?source=rss",
-      "publishedAt": "2026-07-08T04:09:28.000Z",
-      "xQuery": "5000人が250億円投資被害 告訴へ"
+      "url": "https://news.yahoo.co.jp/pickup/6587168?source=rss",
+      "publishedAt": "2026-07-08T06:27:59.000Z",
+      "xQuery": "全東信破産 負債額は1000億円超"
     },
     {
-      "time": "13:42",
-      "title": "乗用車とトラック衝突 乳児が重体",
+      "time": "14:25",
+      "title": "富山の遊園地 安全バー閉めず運行",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587160?source=rss",
-      "publishedAt": "2026-07-08T04:42:00.000Z",
-      "xQuery": "乗用車とトラック衝突 乳児が重体"
+      "url": "https://news.yahoo.co.jp/pickup/6587164?source=rss",
+      "publishedAt": "2026-07-08T05:25:10.000Z",
+      "xQuery": "富山の遊園地 安全バー閉めず運行"
     }
   ]
 };
