@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T22:26:45.794Z",
+  "updatedAt": "2026-07-08T22:53:29.253Z",
   "items": [
     {
       "time": "06:28",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 イランと日本言い間違え"
     },
     {
-      "time": "23:26",
-      "title": "全東信が破産 2万店超に未入金か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587232?source=rss",
-      "publishedAt": "2026-07-08T14:26:25.000Z",
-      "xQuery": "全東信が破産 2万店超に未入金か"
-    },
-    {
       "time": "06:11",
       "title": "住宅で70代死亡 殺人疑い息子逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587239?source=rss",
       "publishedAt": "2026-07-08T21:11:21.000Z",
       "xQuery": "住宅で70代死亡 殺人疑い息子逮捕"
+    },
+    {
+      "time": "07:25",
+      "title": "KDDI共同創業者の子4人 申告漏れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587245?source=rss",
+      "publishedAt": "2026-07-08T22:25:13.000Z",
+      "xQuery": "KDDI共同創業者の子4人 申告漏れ"
     }
   ]
 };
