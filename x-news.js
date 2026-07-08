@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T12:04:21.129Z",
+  "updatedAt": "2026-07-08T13:04:36.985Z",
   "items": [
     {
       "time": "19:18",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "アパートに刺し傷ある男性 死亡"
     },
     {
-      "time": "18:31",
-      "title": "三笘薫選手が交通事故 女性軽傷",
+      "time": "21:36",
+      "title": "三笘薫選手が事故 赤信号で進入か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587204?source=rss",
-      "publishedAt": "2026-07-08T09:31:02.000Z",
-      "xQuery": "三笘薫選手が交通事故 女性軽傷"
+      "url": "https://news.yahoo.co.jp/pickup/6587221?source=rss",
+      "publishedAt": "2026-07-08T12:36:42.000Z",
+      "xQuery": "三笘薫選手が事故 赤信号で進入か"
     }
   ]
 };
