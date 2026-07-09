@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-09T00:56:23.598Z",
+  "updatedAt": "2026-07-09T01:42:17.180Z",
   "items": [
     {
       "time": "09:17",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "九州で37℃予想 万全な暑さ対策を"
     },
     {
-      "time": "08:32",
-      "title": "ロシア ディーゼル燃料の輸出禁止",
+      "time": "07:55",
+      "title": "小中の情報教育大幅拡充へ 文科省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587253?source=rss",
-      "publishedAt": "2026-07-08T23:32:37.000Z",
-      "xQuery": "ロシア ディーゼル燃料の輸出禁止"
+      "url": "https://news.yahoo.co.jp/pickup/6587249?source=rss",
+      "publishedAt": "2026-07-08T22:55:13.000Z",
+      "xQuery": "小中の情報教育大幅拡充へ 文科省"
     },
     {
       "time": "09:18",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "重体の0歳死亡 トラックと車衝突"
     },
     {
-      "time": "07:32",
-      "title": "快活CLUBアプリ攻撃疑い18歳逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587243?source=rss",
-      "publishedAt": "2026-07-08T22:32:24.000Z",
-      "xQuery": "快活CLUBアプリ攻撃疑い18歳逮捕"
-    },
-    {
       "time": "08:10",
       "title": "ポケモン空港のグッズ 高額転売も",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587251?source=rss",
       "publishedAt": "2026-07-08T23:10:39.000Z",
       "xQuery": "ポケモン空港のグッズ 高額転売も"
+    },
+    {
+      "time": "10:10",
+      "title": "体育着替え男女一緒 子が切実な声",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587266?source=rss",
+      "publishedAt": "2026-07-09T01:10:43.000Z",
+      "xQuery": "体育着替え男女一緒 子が切実な声"
     }
   ]
 };
