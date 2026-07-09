@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-09T07:47:17.457Z",
+  "updatedAt": "2026-07-09T09:14:44.102Z",
   "items": [
     {
-      "time": "16:31",
-      "title": "ロシア NATO首脳会議の決定非難",
+      "time": "17:17",
+      "title": "台風が11日にも沖縄に最接近 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587309?source=rss",
-      "publishedAt": "2026-07-09T07:31:05.000Z",
-      "xQuery": "ロシア NATO首脳会議の決定非難"
+      "url": "https://news.yahoo.co.jp/pickup/6587315?source=rss",
+      "publishedAt": "2026-07-09T08:17:51.000Z",
+      "xQuery": "台風が11日にも沖縄に最接近 警戒"
     },
     {
-      "time": "14:38",
-      "title": "元特捜検事の不適切交際疑い 調査",
+      "time": "17:12",
+      "title": "タダノに下請法違反で勧告 公取委",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587300?source=rss",
-      "publishedAt": "2026-07-09T05:38:51.000Z",
-      "xQuery": "元特捜検事の不適切交際疑い 調査"
+      "url": "https://news.yahoo.co.jp/pickup/6587314?source=rss",
+      "publishedAt": "2026-07-09T08:12:20.000Z",
+      "xQuery": "タダノに下請法違反で勧告 公取委"
     },
     {
-      "time": "16:08",
-      "title": "台風 10-11日に空の便が一部欠航",
+      "time": "18:01",
+      "title": "集団暴行死 川村葉音被告も控訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587307?source=rss",
-      "publishedAt": "2026-07-09T07:08:36.000Z",
-      "xQuery": "台風 10-11日に空の便が一部欠航"
+      "url": "https://news.yahoo.co.jp/pickup/6587326?source=rss",
+      "publishedAt": "2026-07-09T09:01:47.000Z",
+      "xQuery": "集団暴行死 川村葉音被告も控訴"
     },
     {
-      "time": "14:16",
-      "title": "韓国の出生率反転 婚姻増の背景",
+      "time": "17:46",
+      "title": "川で高校生2人が行方不明 滋賀",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587285?source=rss",
-      "publishedAt": "2026-07-09T05:16:25.000Z",
-      "xQuery": "韓国の出生率反転 婚姻増の背景"
+      "url": "https://news.yahoo.co.jp/pickup/6587323?source=rss",
+      "publishedAt": "2026-07-09T08:46:45.000Z",
+      "xQuery": "川で高校生2人が行方不明 滋賀"
     },
     {
-      "time": "13:37",
-      "title": "外免切替「受からない」外国人増",
+      "time": "17:32",
+      "title": "長引くせき・たん 理解されず退職",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587293?source=rss",
-      "publishedAt": "2026-07-09T04:37:20.000Z",
-      "xQuery": "外免切替「受からない」外国人増"
+      "url": "https://news.yahoo.co.jp/pickup/6587319?source=rss",
+      "publishedAt": "2026-07-09T08:32:19.000Z",
+      "xQuery": "長引くせき・たん 理解されず退職"
     }
   ]
 };
