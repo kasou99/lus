@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-09T12:08:55.862Z",
+  "updatedAt": "2026-07-09T13:33:07.391Z",
   "items": [
     {
       "time": "20:39",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "元宮内庁長官 典範は構造的欠陥"
     },
     {
-      "time": "19:30",
-      "title": "10日以降も暑さに警戒 猛暑日続出",
+      "time": "22:04",
+      "title": "中道落選者が意見交換 代表涙ぐむ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587334?source=rss",
-      "publishedAt": "2026-07-09T10:30:36.000Z",
-      "xQuery": "10日以降も暑さに警戒 猛暑日続出"
-    },
-    {
-      "time": "20:18",
-      "title": "国産人型ロボ 三菱自動車が量産へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587337?source=rss",
-      "publishedAt": "2026-07-09T11:18:06.000Z",
-      "xQuery": "国産人型ロボ 三菱自動車が量産へ"
+      "url": "https://news.yahoo.co.jp/pickup/6587344?source=rss",
+      "publishedAt": "2026-07-09T13:04:45.000Z",
+      "xQuery": "中道落選者が意見交換 代表涙ぐむ"
     },
     {
       "time": "20:38",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "山本太郎氏 政界引退を表明"
     },
     {
-      "time": "18:56",
-      "title": "川底で高校生2人を発見 心肺停止",
+      "time": "20:36",
+      "title": "富山空港の新愛称 訪日客も賛否",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587330?source=rss",
-      "publishedAt": "2026-07-09T09:56:47.000Z",
-      "xQuery": "川底で高校生2人を発見 心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6587338?source=rss",
+      "publishedAt": "2026-07-09T11:36:29.000Z",
+      "xQuery": "富山空港の新愛称 訪日客も賛否"
+    },
+    {
+      "time": "22:06",
+      "title": "ジャンプ付録巡る混乱 書店が警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587346?source=rss",
+      "publishedAt": "2026-07-09T13:06:01.000Z",
+      "xQuery": "ジャンプ付録巡る混乱 書店が警戒"
     }
   ]
 };
