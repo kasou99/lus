@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-09T09:14:44.102Z",
+  "updatedAt": "2026-07-09T10:45:46.801Z",
   "items": [
     {
-      "time": "17:17",
-      "title": "台風が11日にも沖縄に最接近 警戒",
+      "time": "19:30",
+      "title": "10日以降も暑さに警戒 猛暑日続出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587315?source=rss",
-      "publishedAt": "2026-07-09T08:17:51.000Z",
-      "xQuery": "台風が11日にも沖縄に最接近 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6587334?source=rss",
+      "publishedAt": "2026-07-09T10:30:36.000Z",
+      "xQuery": "10日以降も暑さに警戒 猛暑日続出"
     },
     {
-      "time": "17:12",
-      "title": "タダノに下請法違反で勧告 公取委",
+      "time": "17:46",
+      "title": "スズキ 4車種50万台余りリコール",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587314?source=rss",
-      "publishedAt": "2026-07-09T08:12:20.000Z",
-      "xQuery": "タダノに下請法違反で勧告 公取委"
+      "url": "https://news.yahoo.co.jp/pickup/6587320?source=rss",
+      "publishedAt": "2026-07-09T08:46:24.000Z",
+      "xQuery": "スズキ 4車種50万台余りリコール"
+    },
+    {
+      "time": "19:06",
+      "title": "山本太郎氏 れいわ代表を辞任",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587332?source=rss",
+      "publishedAt": "2026-07-09T10:06:05.000Z",
+      "xQuery": "山本太郎氏 れいわ代表を辞任"
     },
     {
       "time": "18:01",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "集団暴行死 川村葉音被告も控訴"
     },
     {
-      "time": "17:46",
-      "title": "川で高校生2人が行方不明 滋賀",
+      "time": "18:56",
+      "title": "川底で高校生2人を発見 心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587323?source=rss",
-      "publishedAt": "2026-07-09T08:46:45.000Z",
-      "xQuery": "川で高校生2人が行方不明 滋賀"
-    },
-    {
-      "time": "17:32",
-      "title": "長引くせき・たん 理解されず退職",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587319?source=rss",
-      "publishedAt": "2026-07-09T08:32:19.000Z",
-      "xQuery": "長引くせき・たん 理解されず退職"
+      "url": "https://news.yahoo.co.jp/pickup/6587330?source=rss",
+      "publishedAt": "2026-07-09T09:56:47.000Z",
+      "xQuery": "川底で高校生2人を発見 心肺停止"
     }
   ]
 };
