@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T23:57:04.231Z",
+  "updatedAt": "2026-07-09T00:56:22.575Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-07-08T17:04:27.000Z"
       },
       {
+        "time": "07:01",
+        "title": "ドコモが設備保守をAIで効率化 障害時の初動時間を6割短縮",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SWmtLc3RnaHo5VFNrZlVJR3hudktkdFlIMjNpZDhaUzd4LUJTZkdFaXlQSEkwUm1VTmprQTNYV091d1NJdmtZMXU2dEJRRmdDd0txMkJ2NXRUM09pdXdYcmE4VGJyd3dDTURiMGRlbTVBUQ?oc=5",
+        "publishedAt": "2026-07-08T22:01:00.000Z"
+      },
+      {
         "time": "13:30",
         "title": "ソディックが新プラットフォームを提供、機械の設備監視と遠隔サポートを統合：工作機械",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Xd1lZYzZldDlpMEJybENrZVJGNHQtVS1KZFNPT3A0MnpWR3BxZ01ncGRRQlRRNkRENTZ6UWJSTmt1NGJpLVlvU2d1NXdiWVJ5Q2lWaDhGZ084ci1jeEE0QnNiS2VQREZlZ0tkUnRjaw?oc=5",
         "publishedAt": "2026-07-08T04:30:00.000Z"
-      },
-      {
-        "time": "10:30",
-        "title": "【設備保全DX】メンテナンス・レジリエンス2026 に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CcW9GMGVqWFByZWdIa0FFVXpqdlhsSEZ1VHg0bTBiSXl1cGNfNzNWRVZiWWRTY1IzSHFYbTlBbnl2Z0RCQkFIQTlsb3dOWEpxUzhkTVhWRUFSUktBMDAyQm9aV2xRYzRxcnc?oc=5",
-        "publishedAt": "2026-07-08T01:30:38.000Z"
       },
       {
         "time": "05:10",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-08T17:34:59.000Z"
       },
       {
+        "time": "10:30",
+        "title": "【設備保全DX】メンテナンス・レジリエンス2026 に次世代設備保全クラウド「M2X」ブースを出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CcW9GMGVqWFByZWdIa0FFVXpqdlhsSEZ1VHg0bTBiSXl1cGNfNzNWRVZiWWRTY1IzSHFYbTlBbnl2Z0RCQkFIQTlsb3dOWEpxUzhkTVhWRUFSUktBMDAyQm9aV2xRYzRxcnc?oc=5",
+        "publishedAt": "2026-07-08T01:30:38.000Z"
+      },
+      {
         "time": "15:01",
         "title": "DMG森精機、長時間稼働AMRの新型発売",
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vcVo4WE45YzJSZTNMT0kwa1RUSmo5cmdfOC14bGN3SFVOYVRWT0hPRnRQa0g4LWJySFN2OXlETUNMcThZMldNSw?oc=5",
         "publishedAt": "2026-07-08T06:01:07.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "位置エンコーダチップの世界市場（2026年～2032年）、市場規模（アナログ信号出力タイプ、デジタル信号出力タイプ）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9udVJPekM5b0xmOEJRNjJaV3RJanJWVE9EOV8wRTFtWjB6REVMeTVha0V2OFBGX3FRclg0aVBCbXh5RGhuc1Ew?oc=5",
-        "publishedAt": "2026-07-08T04:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,18 +75,18 @@
         "publishedAt": "2026-07-08T22:50:27.000Z"
       },
       {
-        "time": "23:50",
-        "title": "米 ウにパトリオット生産を容認へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587235?source=rss",
-        "publishedAt": "2026-07-08T14:50:23.000Z"
-      },
-      {
         "time": "08:32",
         "title": "ロシア ディーゼル燃料の輸出禁止",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587253?source=rss",
         "publishedAt": "2026-07-08T23:32:37.000Z"
+      },
+      {
+        "time": "09:30",
+        "title": "米 ウにパトリオット生産を容認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587260?source=rss",
+        "publishedAt": "2026-07-09T00:30:30.000Z"
       },
       {
         "time": "20:18",
@@ -156,11 +156,11 @@
         "publishedAt": "2026-07-08T21:11:21.000Z"
       },
       {
-        "time": "17:54",
-        "title": "事故で乳児重体 救出者「生きろ」",
+        "time": "09:18",
+        "title": "重体の0歳死亡 トラックと車衝突",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587194?source=rss",
-        "publishedAt": "2026-07-08T08:54:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587259?source=rss",
+        "publishedAt": "2026-07-09T00:18:14.000Z"
       },
       {
         "time": "22:45",

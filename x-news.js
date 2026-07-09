@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-08T23:57:05.261Z",
+  "updatedAt": "2026-07-09T00:56:23.598Z",
   "items": [
     {
-      "time": "06:28",
-      "title": "台風9号 11日朝石垣島など直撃か",
+      "time": "09:17",
+      "title": "九州で37℃予想 万全な暑さ対策を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587241?source=rss",
-      "publishedAt": "2026-07-08T21:28:32.000Z",
-      "xQuery": "台風9号 11日朝石垣島など直撃か"
-    },
-    {
-      "time": "07:50",
-      "title": "米イラン緊張 パキスタン懸念表明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587246?source=rss",
-      "publishedAt": "2026-07-08T22:50:27.000Z",
-      "xQuery": "米イラン緊張 パキスタン懸念表明"
+      "url": "https://news.yahoo.co.jp/pickup/6587258?source=rss",
+      "publishedAt": "2026-07-09T00:17:25.000Z",
+      "xQuery": "九州で37℃予想 万全な暑さ対策を"
     },
     {
       "time": "08:32",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587253?source=rss",
       "publishedAt": "2026-07-08T23:32:37.000Z",
       "xQuery": "ロシア ディーゼル燃料の輸出禁止"
+    },
+    {
+      "time": "09:18",
+      "title": "重体の0歳死亡 トラックと車衝突",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587259?source=rss",
+      "publishedAt": "2026-07-09T00:18:14.000Z",
+      "xQuery": "重体の0歳死亡 トラックと車衝突"
     },
     {
       "time": "07:32",
