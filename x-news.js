@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-09T15:08:02.008Z",
+  "updatedAt": "2026-07-09T16:21:11.343Z",
   "items": [
     {
       "time": "22:56",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "杉並区長 23日間の長期休暇取得へ"
     },
     {
-      "time": "23:53",
-      "title": "ファストリ 純利益予想5000億円に",
+      "time": "22:06",
+      "title": "ジャンプ付録巡る混乱 書店が警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587358?source=rss",
-      "publishedAt": "2026-07-09T14:53:36.000Z",
-      "xQuery": "ファストリ 純利益予想5000億円に"
+      "url": "https://news.yahoo.co.jp/pickup/6587346?source=rss",
+      "publishedAt": "2026-07-09T13:06:01.000Z",
+      "xQuery": "ジャンプ付録巡る混乱 書店が警戒"
     }
   ]
 };
