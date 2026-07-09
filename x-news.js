@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-09T22:02:49.864Z",
+  "updatedAt": "2026-07-09T22:56:16.135Z",
   "items": [
     {
       "time": "06:59",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン 攻撃応酬で高まる緊張"
     },
     {
-      "time": "20:38",
-      "title": "山本太郎氏 政界引退を表明",
+      "time": "07:24",
+      "title": "現役世代の社保料 引き下げ明記へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587340?source=rss",
-      "publishedAt": "2026-07-09T11:38:41.000Z",
-      "xQuery": "山本太郎氏 政界引退を表明"
+      "url": "https://news.yahoo.co.jp/pickup/6587367?source=rss",
+      "publishedAt": "2026-07-09T22:24:55.000Z",
+      "xQuery": "現役世代の社保料 引き下げ明記へ"
     },
     {
       "time": "23:14",
