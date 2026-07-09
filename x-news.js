@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-09T04:49:45.157Z",
+  "updatedAt": "2026-07-09T06:23:31.634Z",
   "items": [
     {
       "time": "13:05",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "米軍が追加攻撃完了 イランも報復"
     },
     {
-      "time": "12:43",
-      "title": "米大統領 イランとの戦争再開否定",
+      "time": "13:49",
+      "title": "ECサイト不正防止 警察と3社協定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587283?source=rss",
-      "publishedAt": "2026-07-09T03:43:57.000Z",
-      "xQuery": "米大統領 イランとの戦争再開否定"
+      "url": "https://news.yahoo.co.jp/pickup/6587295?source=rss",
+      "publishedAt": "2026-07-09T04:49:02.000Z",
+      "xQuery": "ECサイト不正防止 警察と3社協定"
     },
     {
-      "time": "12:22",
-      "title": "川村葉音被告に懲役30年 検察控訴",
+      "time": "14:38",
+      "title": "元特捜検事の不適切交際疑い 調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587281?source=rss",
-      "publishedAt": "2026-07-09T03:22:40.000Z",
-      "xQuery": "川村葉音被告に懲役30年 検察控訴"
+      "url": "https://news.yahoo.co.jp/pickup/6587300?source=rss",
+      "publishedAt": "2026-07-09T05:38:51.000Z",
+      "xQuery": "元特捜検事の不適切交際疑い 調査"
     },
     {
-      "time": "11:15",
-      "title": "車にひかれ28歳死亡 ひき逃げか",
+      "time": "14:16",
+      "title": "韓国の出生率反転 婚姻増の背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587270?source=rss",
-      "publishedAt": "2026-07-09T02:15:00.000Z",
-      "xQuery": "車にひかれ28歳死亡 ひき逃げか"
+      "url": "https://news.yahoo.co.jp/pickup/6587285?source=rss",
+      "publishedAt": "2026-07-09T05:16:25.000Z",
+      "xQuery": "韓国の出生率反転 婚姻増の背景"
     },
     {
-      "time": "12:19",
-      "title": "通学中 自転車の12歳はねられ重体",
+      "time": "13:37",
+      "title": "外免切替「受からない」外国人増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587282?source=rss",
-      "publishedAt": "2026-07-09T03:19:33.000Z",
-      "xQuery": "通学中 自転車の12歳はねられ重体"
+      "url": "https://news.yahoo.co.jp/pickup/6587293?source=rss",
+      "publishedAt": "2026-07-09T04:37:20.000Z",
+      "xQuery": "外免切替「受からない」外国人増"
     }
   ]
 };
