@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-09T03:13:56.362Z",
+  "updatedAt": "2026-07-09T04:49:45.157Z",
   "items": [
     {
-      "time": "11:59",
-      "title": "与野党の対立解消 国会の審議再開",
+      "time": "13:05",
+      "title": "米軍が追加攻撃完了 イランも報復",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587279?source=rss",
-      "publishedAt": "2026-07-09T02:59:39.000Z",
-      "xQuery": "与野党の対立解消 国会の審議再開"
+      "url": "https://news.yahoo.co.jp/pickup/6587288?source=rss",
+      "publishedAt": "2026-07-09T04:05:27.000Z",
+      "xQuery": "米軍が追加攻撃完了 イランも報復"
     },
     {
-      "time": "11:45",
-      "title": "旧安倍派内で主導権争いが活発化",
+      "time": "12:43",
+      "title": "米大統領 イランとの戦争再開否定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587275?source=rss",
-      "publishedAt": "2026-07-09T02:45:26.000Z",
-      "xQuery": "旧安倍派内で主導権争いが活発化"
+      "url": "https://news.yahoo.co.jp/pickup/6587283?source=rss",
+      "publishedAt": "2026-07-09T03:43:57.000Z",
+      "xQuery": "米大統領 イランとの戦争再開否定"
     },
     {
-      "time": "11:21",
-      "title": "加熱式たばこの規制強化 見送り",
+      "time": "12:22",
+      "title": "川村葉音被告に懲役30年 検察控訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587269?source=rss",
-      "publishedAt": "2026-07-09T02:21:12.000Z",
-      "xQuery": "加熱式たばこの規制強化 見送り"
+      "url": "https://news.yahoo.co.jp/pickup/6587281?source=rss",
+      "publishedAt": "2026-07-09T03:22:40.000Z",
+      "xQuery": "川村葉音被告に懲役30年 検察控訴"
     },
     {
       "time": "11:15",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車にひかれ28歳死亡 ひき逃げか"
     },
     {
-      "time": "10:37",
-      "title": "マンジャロ 処方した精神科の院長",
+      "time": "12:19",
+      "title": "通学中 自転車の12歳はねられ重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587268?source=rss",
-      "publishedAt": "2026-07-09T01:37:43.000Z",
-      "xQuery": "マンジャロ 処方した精神科の院長"
+      "url": "https://news.yahoo.co.jp/pickup/6587282?source=rss",
+      "publishedAt": "2026-07-09T03:19:33.000Z",
+      "xQuery": "通学中 自転車の12歳はねられ重体"
     }
   ]
 };

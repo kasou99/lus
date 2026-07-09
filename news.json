@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T03:13:55.935Z",
+  "updatedAt": "2026-07-09T04:49:44.526Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,25 @@
         "publishedAt": "2026-07-09T02:30:00.000Z"
       },
       {
+        "time": "13:30",
+        "title": "門型五面加工機のデジタルツイン基盤、加工前の事前検証を大幅効率化：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YRm1xU1VOMDc4cjl1MGpwZVdlY20tMHc1TDZsMTAwMmJEWEcyamZGdkV4RkxMNVZ5TTlrQWtnbkZ2aERlRENQWmd5TjZqdUFWUnNuSW4tR3ZERDdQcGNRRzVKQUJZdTVYX1BhalVxVQ?oc=5",
+        "publishedAt": "2026-07-09T04:30:00.000Z"
+      },
+      {
         "time": "11:01",
         "title": "日本精工、軸力の状態安定化機構で受賞 工作機械技術振興賞・論文賞",
         "source": "ゴムタイムス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hTEhBekswQlBVRDFTMUs5SGZEU2M5anh3TzJUNFl3S0pCTTdjR0hRamx6dFNmZkdIM25fYUhNNFkzLTF3c0U5aE9GbWw4dw?oc=5",
         "publishedAt": "2026-07-09T02:01:16.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "CNCねじ研削盤産業の成長フェーズを検証：市場規模の拡大と新たな機会",
+        "source": "ドリームニュース",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQNmN6U1IybDlTbTIxckI4aWNfSVJJaXlGbEpIMmZRdldQUzMzYnJiVlVMNXFWUEd3cWZZY09TTXA0Y2dKNy1SWE1oYXRNMmxXRllN?oc=5",
+        "publishedAt": "2026-07-09T04:30:00.000Z"
       },
       {
         "time": "02:04",
@@ -43,29 +57,22 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsZG1mNVE5ME5uQmtVYjhTWWh4NE9MbVlPWDJTSzFrZ2ZwUkZuQjljbFBKU3ctcDR3ekRuaExkSjh5VEs0LWlVbWF3WWhKeDFqVXI0dkxhT20wWW8?oc=5",
         "publishedAt": "2026-07-08T20:47:21.000Z"
-      },
-      {
-        "time": "13:30",
-        "title": "ソディックが新プラットフォームを提供、機械の設備監視と遠隔サポートを統合：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Xd1lZYzZldDlpMEJybENrZVJGNHQtVS1KZFNPT3A0MnpWR3BxZ01ncGRRQlRRNkRENTZ6UWJSTmt1NGJpLVlvU2d1NXdiWVJ5Q2lWaDhGZ084ci1jeEE0QnNiS2VQREZlZ0tkUnRjaw?oc=5",
-        "publishedAt": "2026-07-08T04:30:00.000Z"
-      },
-      {
-        "time": "15:01",
-        "title": "DMG森精機、長時間稼働AMRの新型発売",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vcVo4WE45YzJSZTNMT0kwa1RUSmo5cmdfOC14bGN3SFVOYVRWT0hPRnRQa0g4LWJySFN2OXlETUNMcThZMldNSw?oc=5",
-        "publishedAt": "2026-07-08T06:01:07.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "06:20",
-        "title": "米軍 イランへの新たな攻撃実施",
+        "time": "13:05",
+        "title": "米軍が追加攻撃完了 イランも報復",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587240?source=rss",
-        "publishedAt": "2026-07-08T21:20:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587288?source=rss",
+        "publishedAt": "2026-07-09T04:05:27.000Z"
+      },
+      {
+        "time": "12:43",
+        "title": "米大統領 イランとの戦争再開否定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587283?source=rss",
+        "publishedAt": "2026-07-09T03:43:57.000Z"
       },
       {
         "time": "07:50",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587215?source=rss",
         "publishedAt": "2026-07-08T11:18:05.000Z"
-      },
-      {
-        "time": "23:37",
-        "title": "米大統領 イランと日本言い間違え",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587233?source=rss",
-        "publishedAt": "2026-07-08T14:37:14.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,18 +126,18 @@
         "publishedAt": "2026-07-08T08:30:48.000Z"
       },
       {
-        "time": "22:44",
-        "title": "暑さで勝手に仕事中断 法的には",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587228?source=rss",
-        "publishedAt": "2026-07-08T13:44:43.000Z"
-      },
-      {
         "time": "08:52",
         "title": "客単価↑ディズニー「若者離れ」",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587255?source=rss",
         "publishedAt": "2026-07-08T23:52:22.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "カルビー フルカラー包装一部再開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587294?source=rss",
+        "publishedAt": "2026-07-09T04:30:23.000Z"
       },
       {
         "time": "08:10",
@@ -148,6 +148,20 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "12:22",
+        "title": "川村葉音被告に懲役30年 検察控訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587281?source=rss",
+        "publishedAt": "2026-07-09T03:22:40.000Z"
+      },
+      {
+        "time": "12:19",
+        "title": "通学中 自転車の12歳はねられ重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587282?source=rss",
+        "publishedAt": "2026-07-09T03:19:33.000Z"
+      },
       {
         "time": "12:12",
         "title": "中3死亡事故 運転の71歳書類送検",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587226?source=rss",
         "publishedAt": "2026-07-08T13:45:37.000Z"
-      },
-      {
-        "time": "07:32",
-        "title": "快活CLUBアプリ攻撃疑い18歳逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587243?source=rss",
-        "publishedAt": "2026-07-08T22:32:24.000Z"
-      },
-      {
-        "time": "22:19",
-        "title": "検事 元容疑者の女性と不適切交際",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587225?source=rss",
-        "publishedAt": "2026-07-08T13:19:10.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,17 +218,17 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金のポイント解説",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-07-01T07:00:00.000Z"
-      },
-      {
-        "time": "16:00",
         "title": "食洗機設置の設置で使える！省エネ住宅補助金",
         "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wb3R6alFKeVRpMkVWVGpiMjRhdGVkZFhZZXRBTl8yeU5xTDlwMDQwelhkQ3hFSnNaMEszMjRYMl9VYjAxUi1xVzRzSEkwTWkxLXZhbndUWkpGUUg4aXY4V0VPSDQ?oc=5",
         "publishedAt": "2026-06-30T07:00:00.000Z"
+      },
+      {
+        "time": "16:00",
+        "title": "【令和8年・2026年】もらえる給付金・支援金まとめ！物価高・農業・子育て・生活支援等、目的別に紹介",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PbTA2anpjTjlKcUhxXzQtbEFhcXpkSE1UYjItLXZYTHJ0cG5uS3daeVBsY20xTzFCREZ6NEZYdm16OC1iRzRHZWlWZkpyVUYzZmZiTzVGaXd6Q1dhX2ptWVhpLTZuUkZt?oc=5",
+        "publishedAt": "2026-07-02T07:00:00.000Z"
       }
     ]
   }
