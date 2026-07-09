@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-09T10:45:46.801Z",
+  "updatedAt": "2026-07-09T12:08:55.862Z",
   "items": [
+    {
+      "time": "20:39",
+      "title": "元宮内庁長官 典範は構造的欠陥",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587339?source=rss",
+      "publishedAt": "2026-07-09T11:39:38.000Z",
+      "xQuery": "元宮内庁長官 典範は構造的欠陥"
+    },
     {
       "time": "19:30",
       "title": "10日以降も暑さに警戒 猛暑日続出",
@@ -10,28 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "10日以降も暑さに警戒 猛暑日続出"
     },
     {
-      "time": "17:46",
-      "title": "スズキ 4車種50万台余りリコール",
+      "time": "20:18",
+      "title": "国産人型ロボ 三菱自動車が量産へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587320?source=rss",
-      "publishedAt": "2026-07-09T08:46:24.000Z",
-      "xQuery": "スズキ 4車種50万台余りリコール"
+      "url": "https://news.yahoo.co.jp/pickup/6587337?source=rss",
+      "publishedAt": "2026-07-09T11:18:06.000Z",
+      "xQuery": "国産人型ロボ 三菱自動車が量産へ"
     },
     {
-      "time": "19:06",
-      "title": "山本太郎氏 れいわ代表を辞任",
+      "time": "20:38",
+      "title": "山本太郎氏 政界引退を表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587332?source=rss",
-      "publishedAt": "2026-07-09T10:06:05.000Z",
-      "xQuery": "山本太郎氏 れいわ代表を辞任"
-    },
-    {
-      "time": "18:01",
-      "title": "集団暴行死 川村葉音被告も控訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587326?source=rss",
-      "publishedAt": "2026-07-09T09:01:47.000Z",
-      "xQuery": "集団暴行死 川村葉音被告も控訴"
+      "url": "https://news.yahoo.co.jp/pickup/6587340?source=rss",
+      "publishedAt": "2026-07-09T11:38:41.000Z",
+      "xQuery": "山本太郎氏 政界引退を表明"
     },
     {
       "time": "18:56",
