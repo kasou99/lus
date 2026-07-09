@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T13:33:06.376Z",
+  "updatedAt": "2026-07-09T15:08:01.120Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,10 +11,17 @@
       },
       {
         "time": "15:35",
-        "title": "6月工作機械受注は前年比52.8％増、12カ月連続プラス＝工作機械工業会（ロイター）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82bHZIb0lVZ2FuaTlWRjhpVTJFazVrV3hiUGtYb1BlMlpEQVp2Q05Cc2NSWFBOUmt4MnhwY3ltQ1R0QVd3YkJtcWN4UTREUGhtdlJLa21lSEdYTkdSQWlrdVpGTXlUV0xycDlIVUs1VWNFWmJiQ3RhTUtOSnVVRmc?oc=5",
-        "publishedAt": "2026-07-09T06:35:34.000Z"
+        "title": "6月工作機械受注は前年比52.8％増、12カ月連続プラス＝工作機械工業会(ロイター)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc2UtMnp1X09nWE9laXlxLVVLd2kxVUk4ZmhIekswdmFORDVXRFJ6QWpiSEJaWlc4OXA5ejNqS1d1OFd2UFdkY3laY2Q5NThaSGMxNEJZRXRNM0FOdENfZjJWeGRaSVBWanY2aFpJZzZBR0N5RE54cklrX216dGxIRlV5em83SEE?oc=5",
+        "publishedAt": "2026-07-09T06:35:00.000Z"
+      },
+      {
+        "time": "11:30",
+        "title": "ACサーボモーターコントローラの世界市場（2026年～2032年）、市場規模（永久磁石同期ACサーボモーター、非同期ACサーボモーター）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRdHBVa0hsYWROVUU3Z1BldFJqcllfQ2F2cmdMRDNIdGh2bmlRUUdHU3VZdFlHeTM3dXVBVC1qUThheElHNWhkUUFkYlc?oc=5",
+        "publishedAt": "2026-07-09T02:30:00.000Z"
       },
       {
         "time": "15:53",
@@ -22,13 +29,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdTRfQWt3am5oWmpLSzJpOW5CUy1kWlc3WERhOS1uSEN1WGo2UEpYdDNoWkVZazV3emZXOEJpVGRZNlhlUHBqSlJ4dkwzekV4T2JxNlI1MUduQW03Slh4MzZwSXJ6RVZRV0o4ZQ?oc=5",
         "publishedAt": "2026-07-09T06:53:17.000Z"
-      },
-      {
-        "time": "11:30",
-        "title": "ACサーボモーターコントローラの世界市場（2026年～2032年）、市場規模（永久磁石同期ACサーボモーター、非同期ACサーボモーター）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EY3FTZzZrTlo0QlRvcTMycjRnNF90a04xSmIxR01tTGVnM0pfbkpOTW9OVFliOWt6OVdoTHRNU0d5Wnd4SS1HeDVyNWZsaDQ?oc=5",
-        "publishedAt": "2026-07-09T02:30:00.000Z"
       },
       {
         "time": "16:00",
@@ -45,21 +45,35 @@
         "publishedAt": "2026-07-09T04:30:00.000Z"
       },
       {
+        "time": "22:56",
+        "title": "日本の工作機械、中国の地方都市に敗れ始める―中国メディア",
+        "source": "Record China",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40TmY3dVVCS3NJMGFDenhvLWxPNEROMjdscnl0S25xMFZxRHhHQ1BRYTVTRVBrdmt3X3VwNllkUmtwWE9rSDJDRGZRZFJWblZ1dmZvUWVUYm9GSXV5?oc=5",
+        "publishedAt": "2026-07-09T13:56:00.000Z"
+      },
+      {
         "time": "11:01",
         "title": "日本精工、軸力の状態安定化機構で受賞 工作機械技術振興賞・論文賞",
         "source": "ゴムタイムス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hTEhBekswQlBVRDFTMUs5SGZEU2M5anh3TzJUNFl3S0pCTTdjR0hRamx6dFNmZkdIM25fYUhNNFkzLTF3c0U5aE9GbWw4dw?oc=5",
         "publishedAt": "2026-07-09T02:01:16.000Z"
-      },
-      {
-        "time": "17:54",
-        "title": "日本の工作機械、中国の地方都市に敗れ始める―中国メディア",
-        "source": "Record China",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40TmY3dVVCS3NJMGFDenhvLWxPNEROMjdscnl0S25xMFZxRHhHQ1BRYTVTRVBrdmt3X3VwNllkUmtwWE9rSDJDRGZRZFJWblZ1dmZvUWVUYm9GSXV5?oc=5",
-        "publishedAt": "2026-07-09T08:54:18.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "22:56",
+        "title": "プーチン氏 戦闘継続の意志強める",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587352?source=rss",
+        "publishedAt": "2026-07-09T13:56:03.000Z"
+      },
+      {
+        "time": "08:32",
+        "title": "ロシア ディーゼル燃料の輸出禁止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587253?source=rss",
+        "publishedAt": "2026-07-08T23:32:37.000Z"
+      },
       {
         "time": "16:31",
         "title": "ロシア NATO首脳会議の決定非難",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587350?source=rss",
         "publishedAt": "2026-07-09T13:28:29.000Z"
-      },
-      {
-        "time": "08:32",
-        "title": "ロシア ディーゼル燃料の輸出禁止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587253?source=rss",
-        "publishedAt": "2026-07-08T23:32:37.000Z"
-      },
-      {
-        "time": "20:18",
-        "title": "スペインと貿易停止 米大統領指示",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587215?source=rss",
-        "publishedAt": "2026-07-08T11:18:05.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,6 +110,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587307?source=rss",
         "publishedAt": "2026-07-09T07:08:36.000Z"
+      },
+      {
+        "time": "23:53",
+        "title": "ファストリ 純利益予想5000億円に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587358?source=rss",
+        "publishedAt": "2026-07-09T14:53:36.000Z"
       },
       {
         "time": "17:46",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587347?source=rss",
         "publishedAt": "2026-07-09T13:08:54.000Z"
-      },
-      {
-        "time": "20:36",
-        "title": "富山空港の新愛称 訪日客も賛否",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587338?source=rss",
-        "publishedAt": "2026-07-09T11:36:29.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587326?source=rss",
         "publishedAt": "2026-07-09T09:01:47.000Z"
+      },
+      {
+        "time": "23:14",
+        "title": "杉並区長 23日間の長期休暇取得へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587354?source=rss",
+        "publishedAt": "2026-07-09T14:14:11.000Z"
       },
       {
         "time": "14:38",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587270?source=rss",
         "publishedAt": "2026-07-09T02:15:00.000Z"
-      },
-      {
-        "time": "18:56",
-        "title": "川底で高校生2人を発見 心肺停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587330?source=rss",
-        "publishedAt": "2026-07-09T09:56:47.000Z"
       }
     ],
     "subsidyHeadlines": [

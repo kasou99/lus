@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-09T13:33:07.391Z",
+  "updatedAt": "2026-07-09T15:08:02.008Z",
   "items": [
     {
-      "time": "20:39",
-      "title": "元宮内庁長官 典範は構造的欠陥",
+      "time": "22:56",
+      "title": "プーチン氏 戦闘継続の意志強める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587339?source=rss",
-      "publishedAt": "2026-07-09T11:39:38.000Z",
-      "xQuery": "元宮内庁長官 典範は構造的欠陥"
+      "url": "https://news.yahoo.co.jp/pickup/6587352?source=rss",
+      "publishedAt": "2026-07-09T13:56:03.000Z",
+      "xQuery": "プーチン氏 戦闘継続の意志強める"
     },
     {
-      "time": "22:04",
-      "title": "中道落選者が意見交換 代表涙ぐむ",
+      "time": "22:57",
+      "title": "安全保障巡り行政傍受 自民提言へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587344?source=rss",
-      "publishedAt": "2026-07-09T13:04:45.000Z",
-      "xQuery": "中道落選者が意見交換 代表涙ぐむ"
+      "url": "https://news.yahoo.co.jp/pickup/6587353?source=rss",
+      "publishedAt": "2026-07-09T13:57:48.000Z",
+      "xQuery": "安全保障巡り行政傍受 自民提言へ"
     },
     {
       "time": "20:38",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "山本太郎氏 政界引退を表明"
     },
     {
-      "time": "20:36",
-      "title": "富山空港の新愛称 訪日客も賛否",
+      "time": "23:14",
+      "title": "杉並区長 23日間の長期休暇取得へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587338?source=rss",
-      "publishedAt": "2026-07-09T11:36:29.000Z",
-      "xQuery": "富山空港の新愛称 訪日客も賛否"
+      "url": "https://news.yahoo.co.jp/pickup/6587354?source=rss",
+      "publishedAt": "2026-07-09T14:14:11.000Z",
+      "xQuery": "杉並区長 23日間の長期休暇取得へ"
     },
     {
-      "time": "22:06",
-      "title": "ジャンプ付録巡る混乱 書店が警戒",
+      "time": "23:53",
+      "title": "ファストリ 純利益予想5000億円に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587346?source=rss",
-      "publishedAt": "2026-07-09T13:06:01.000Z",
-      "xQuery": "ジャンプ付録巡る混乱 書店が警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6587358?source=rss",
+      "publishedAt": "2026-07-09T14:53:36.000Z",
+      "xQuery": "ファストリ 純利益予想5000億円に"
     }
   ]
 };
