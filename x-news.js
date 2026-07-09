@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-09T22:56:16.135Z",
+  "updatedAt": "2026-07-09T23:32:52.976Z",
   "items": [
     {
       "time": "06:59",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "現役世代の社保料 引き下げ明記へ"
     },
     {
-      "time": "23:14",
-      "title": "杉並区長 23日間の長期休暇取得へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587354?source=rss",
-      "publishedAt": "2026-07-09T14:14:11.000Z",
-      "xQuery": "杉並区長 23日間の長期休暇取得へ"
-    },
-    {
       "time": "06:08",
       "title": "川底で発見された高校生2人 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587359?source=rss",
       "publishedAt": "2026-07-09T21:08:06.000Z",
       "xQuery": "川底で発見された高校生2人 死亡"
+    },
+    {
+      "time": "08:20",
+      "title": "全東信が破産 債権者の全63社判明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587374?source=rss",
+      "publishedAt": "2026-07-09T23:20:01.000Z",
+      "xQuery": "全東信が破産 債権者の全63社判明"
     }
   ]
 };
