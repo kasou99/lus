@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-09T01:42:17.180Z",
+  "updatedAt": "2026-07-09T03:13:56.362Z",
   "items": [
     {
-      "time": "09:17",
-      "title": "九州で37℃予想 万全な暑さ対策を",
+      "time": "11:59",
+      "title": "与野党の対立解消 国会の審議再開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587258?source=rss",
-      "publishedAt": "2026-07-09T00:17:25.000Z",
-      "xQuery": "九州で37℃予想 万全な暑さ対策を"
+      "url": "https://news.yahoo.co.jp/pickup/6587279?source=rss",
+      "publishedAt": "2026-07-09T02:59:39.000Z",
+      "xQuery": "与野党の対立解消 国会の審議再開"
     },
     {
-      "time": "07:55",
-      "title": "小中の情報教育大幅拡充へ 文科省",
+      "time": "11:45",
+      "title": "旧安倍派内で主導権争いが活発化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587249?source=rss",
-      "publishedAt": "2026-07-08T22:55:13.000Z",
-      "xQuery": "小中の情報教育大幅拡充へ 文科省"
+      "url": "https://news.yahoo.co.jp/pickup/6587275?source=rss",
+      "publishedAt": "2026-07-09T02:45:26.000Z",
+      "xQuery": "旧安倍派内で主導権争いが活発化"
     },
     {
-      "time": "09:18",
-      "title": "重体の0歳死亡 トラックと車衝突",
+      "time": "11:21",
+      "title": "加熱式たばこの規制強化 見送り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587259?source=rss",
-      "publishedAt": "2026-07-09T00:18:14.000Z",
-      "xQuery": "重体の0歳死亡 トラックと車衝突"
+      "url": "https://news.yahoo.co.jp/pickup/6587269?source=rss",
+      "publishedAt": "2026-07-09T02:21:12.000Z",
+      "xQuery": "加熱式たばこの規制強化 見送り"
     },
     {
-      "time": "08:10",
-      "title": "ポケモン空港のグッズ 高額転売も",
+      "time": "11:15",
+      "title": "車にひかれ28歳死亡 ひき逃げか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587251?source=rss",
-      "publishedAt": "2026-07-08T23:10:39.000Z",
-      "xQuery": "ポケモン空港のグッズ 高額転売も"
+      "url": "https://news.yahoo.co.jp/pickup/6587270?source=rss",
+      "publishedAt": "2026-07-09T02:15:00.000Z",
+      "xQuery": "車にひかれ28歳死亡 ひき逃げか"
     },
     {
-      "time": "10:10",
-      "title": "体育着替え男女一緒 子が切実な声",
+      "time": "10:37",
+      "title": "マンジャロ 処方した精神科の院長",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587266?source=rss",
-      "publishedAt": "2026-07-09T01:10:43.000Z",
-      "xQuery": "体育着替え男女一緒 子が切実な声"
+      "url": "https://news.yahoo.co.jp/pickup/6587268?source=rss",
+      "publishedAt": "2026-07-09T01:37:43.000Z",
+      "xQuery": "マンジャロ 処方した精神科の院長"
     }
   ]
 };

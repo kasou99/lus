@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-07-09T01:42:15.199Z",
+  "updatedAt": "2026-07-09T03:13:55.935Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "10:12",
-        "title": "DMG森精機が挑む工作機械のフィジカルAI、産総研と機械加工の基盤モデル構築促進（MONOist）",
+        "time": "11:45",
+        "title": "三和特殊鋼 名古屋支店 マシニング加工機新設 NC旋盤も 造船・医療向け新規開拓（日刊産業新聞）",
         "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGpzVmFSaDdFNjNONUpvdk9VY3BUd3AwWjQxemtUelBETW1qdFczOFBTUVJiMnZLaVBUSmc0MWczZXBHd2w5ek1VdlY0emd6XzZSdXg5QjFRWENicG80RUppQ0JQNUx2QTdDY2RsY2RaODRwdEZ6VHZZdGJjN0J6c1lMY3pESzFfbm50QlJR?oc=5",
-        "publishedAt": "2026-07-09T01:12:25.000Z"
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMXY5NHVZa3ZxaHZBb09wdnZvbXZBczJlVFYzUlNNOEZKUVlnV1l1SEFGSE1CQ0owamllWk9YalIyTmdpZ0REMnlONjQ3clJVRmxCWXBPTExjaWQ1OGhUWWtFVDkyaUJHMkdNZlQ2VVJJTVFNeFNxcjQ4d2txZVpYLWxpLTR1UkhlYlpPOGhB?oc=5",
+        "publishedAt": "2026-07-09T02:45:17.000Z"
+      },
+      {
+        "time": "11:30",
+        "title": "ACサーボモーターコントローラの世界市場（2026年～2032年）、市場規模（永久磁石同期ACサーボモーター、非同期ACサーボモーター）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EY3FTZzZrTlo0QlRvcTMycjRnNF90a04xSmIxR01tTGVnM0pfbkpOTW9OVFliOWt6OVdoTHRNU0d5Wnd4SS1HeDVyNWZsaDQ?oc=5",
+        "publishedAt": "2026-07-09T02:30:00.000Z"
+      },
+      {
+        "time": "11:01",
+        "title": "日本精工、軸力の状態安定化機構で受賞 工作機械技術振興賞・論文賞",
+        "source": "ゴムタイムス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hTEhBekswQlBVRDFTMUs5SGZEU2M5anh3TzJUNFl3S0pCTTdjR0hRamx6dFNmZkdIM25fYUhNNFkzLTF3c0U5aE9GbWw4dw?oc=5",
+        "publishedAt": "2026-07-09T02:01:16.000Z"
       },
       {
         "time": "02:04",
@@ -17,18 +31,18 @@
         "publishedAt": "2026-07-08T17:04:27.000Z"
       },
       {
-        "time": "07:01",
-        "title": "ドコモが設備保守をAIで効率化 障害時の初動時間を6割短縮",
-        "source": "日経クロステック",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SWmtLc3RnaHo5VFNrZlVJR3hudktkdFlIMjNpZDhaUzd4LUJTZkdFaXlQSEkwUm1VTmprQTNYV091d1NJdmtZMXU2dEJRRmdDd0txMkJ2NXRUM09pdXdYcmE4VGJyd3dDTURiMGRlbTVBUQ?oc=5",
-        "publishedAt": "2026-07-08T22:01:00.000Z"
+        "time": "10:12",
+        "title": "DMG森精機が挑む工作機械のフィジカルAI、産総研と機械加工の基盤モデル構築促進（MONOist）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGpzVmFSaDdFNjNONUpvdk9VY3BUd3AwWjQxemtUelBETW1qdFczOFBTUVJiMnZLaVBUSmc0MWczZXBHd2w5ek1VdlY0emd6XzZSdXg5QjFRWENicG80RUppQ0JQNUx2QTdDY2RsY2RaODRwdEZ6VHZZdGJjN0J6c1lMY3pESzFfbm50QlJR?oc=5",
+        "publishedAt": "2026-07-09T01:12:25.000Z"
       },
       {
-        "time": "07:09",
-        "title": "今日のスケジュール－6月工作機械受注や米6月中古住宅販売件数など(トレーダーズ・ウェブ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa2h3TlRuMHdIYzNjMzIxWklDc1hvaGNtNk1ZZDJXcGh4cDd5c3JZNzMwSGpuSWZhUEg0ZUhQdGFMa0hod211VnBvaklyTEp3eE1DMUhkeGN4MEZCRUwxdGVQY25TSmdkUmZ6dE02UUhrYjRTX0UwREh2QXI2Q2JiN2R1VV9MUFk?oc=5",
-        "publishedAt": "2026-07-08T22:09:38.000Z"
+        "time": "05:47",
+        "title": "経営ひと言／DMG森精機・森雅彦社長「課題改善が使命」",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsZG1mNVE5ME5uQmtVYjhTWWh4NE9MbVlPWDJTSzFrZ2ZwUkZuQjljbFBKU3ctcDR3ekRuaExkSjh5VEs0LWlVbWF3WWhKeDFqVXI0dkxhT20wWW8?oc=5",
+        "publishedAt": "2026-07-08T20:47:21.000Z"
       },
       {
         "time": "13:30",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-07-08T04:30:00.000Z"
       },
       {
-        "time": "00:34",
-        "title": "日本の工作機械、中国の地方都市に敗れ始める―中国メディア",
-        "source": "Record China",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40TmY3dVVCS3NJMGFDenhvLWxPNEROMjdscnl0S25xMFZxRHhHQ1BRYTVTRVBrdmt3X3VwNllkUmtwWE9rSDJDRGZRZFJWblZ1dmZvUWVUYm9GSXV5?oc=5",
-        "publishedAt": "2026-07-08T15:34:59.000Z"
-      },
-      {
         "time": "15:01",
         "title": "DMG森精機、長時間稼働AMRの新型発売",
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vcVo4WE45YzJSZTNMT0kwa1RUSmo5cmdfOC14bGN3SFVOYVRWT0hPRnRQa0g4LWJySFN2OXlETUNMcThZMldNSw?oc=5",
         "publishedAt": "2026-07-08T06:01:07.000Z"
-      },
-      {
-        "time": "09:09",
-        "title": "アネスト岩田、金属3Dプリンターなどを備えた新生産技術拠点「MIC」を横浜本社に開設",
-        "source": "ShareLab NEWS",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWDA5UzhmVjN2c3cybmJ1T3QwM1J3amxvOENCUDRnZ2JQU2pzWVF4dWl0d0wxYk1zcnhpeS1BdjhjRmQzNjA1WkZMMEFOWUQwTFhUa1FNdi1qMkhmZ2tFR1dOTmxjcVNXQTc5M04zMmNCQnQzMDFoLXRFaWM1U2kxdjVkQ1V4R3UyWlpyRXNGZ2VqYktfUDFqQS1tOHFhTWo2?oc=5",
-        "publishedAt": "2026-07-09T00:09:13.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "06:11",
-        "title": "住宅で70代死亡 殺人疑い息子逮捕",
+        "time": "12:12",
+        "title": "中3死亡事故 運転の71歳書類送検",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587239?source=rss",
-        "publishedAt": "2026-07-08T21:11:21.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587278?source=rss",
+        "publishedAt": "2026-07-09T03:12:35.000Z"
+      },
+      {
+        "time": "11:15",
+        "title": "車にひかれ28歳死亡 ひき逃げか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587270?source=rss",
+        "publishedAt": "2026-07-09T02:15:00.000Z"
       },
       {
         "time": "09:18",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587225?source=rss",
         "publishedAt": "2026-07-08T13:19:10.000Z"
-      },
-      {
-        "time": "01:02",
-        "title": "「カツアゲ」告発の県議 金銭受領",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587237?source=rss",
-        "publishedAt": "2026-07-08T16:02:30.000Z"
       }
     ],
     "subsidyHeadlines": [
