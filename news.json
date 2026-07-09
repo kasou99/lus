@@ -1,20 +1,41 @@
 {
-  "updatedAt": "2026-07-09T06:23:30.494Z",
+  "updatedAt": "2026-07-09T07:47:16.854Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "11:45",
-        "title": "三和特殊鋼 名古屋支店 マシニング加工機新設 NC旋盤も 造船・医療向け新規開拓（日刊産業新聞）",
+        "time": "15:35",
+        "title": "6月工作機械受注は前年比52.8％増、12カ月連続プラス＝工作機械工業会",
+        "source": "ロイター",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdzlsRWVpZjYyc29XNWppdmY4dC02M1VKNjJvZk1zcmctQ0EtZ1RGbGJ3MUdycUg5aTNCQnBqdkhXeENMVGs0U09SNHY1RlJWMFdQTkJvWTNWQ3B1RmdqN1RCVDktY1hwQVJQZDdmaElIT3JlYlI1Z0pCVkd6cHo1eg?oc=5",
+        "publishedAt": "2026-07-09T06:35:00.000Z"
+      },
+      {
+        "time": "15:35",
+        "title": "6月工作機械受注は前年比52.8％増、12カ月連続プラス＝工作機械工業会（ロイター）",
         "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMXY5NHVZa3ZxaHZBb09wdnZvbXZBczJlVFYzUlNNOEZKUVlnV1l1SEFGSE1CQ0owamllWk9YalIyTmdpZ0REMnlONjQ3clJVRmxCWXBPTExjaWQ1OGhUWWtFVDkyaUJHMkdNZlQ2VVJJTVFNeFNxcjQ4d2txZVpYLWxpLTR1UkhlYlpPOGhB?oc=5",
-        "publishedAt": "2026-07-09T02:45:17.000Z"
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82bHZIb0lVZ2FuaTlWRjhpVTJFazVrV3hiUGtYb1BlMlpEQVp2Q05Cc2NSWFBOUmt4MnhwY3ltQ1R0QVd3YkJtcWN4UTREUGhtdlJLa21lSEdYTkdSQWlrdVpGTXlUV0xycDlIVUs1VWNFWmJiQ3RhTUtOSnVVRmc?oc=5",
+        "publishedAt": "2026-07-09T06:35:34.000Z"
+      },
+      {
+        "time": "15:53",
+        "title": "6月の工作機械受注53%増、単月最高の2035億円 半導体向けなど好調",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdTRfQWt3am5oWmpLSzJpOW5CUy1kWlc3WERhOS1uSEN1WGo2UEpYdDNoWkVZazV3emZXOEJpVGRZNlhlUHBqSlJ4dkwzekV4T2JxNlI1MUduQW03Slh4MzZwSXJ6RVZRV0o4ZQ?oc=5",
+        "publishedAt": "2026-07-09T06:53:17.000Z"
       },
       {
         "time": "11:30",
         "title": "ACサーボモーターコントローラの世界市場（2026年～2032年）、市場規模（永久磁石同期ACサーボモーター、非同期ACサーボモーター）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qd3NTVHgxcDZFcmoweWlzOVIxN015VE94RTEtNDlEWjlXaHlSaEttTjI0TXBwUkJRRlFZbzRja2VDVHdPNFh3RG1sY0JMY1k?oc=5",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EY3FTZzZrTlo0QlRvcTMycjRnNF90a04xSmIxR01tTGVnM0pfbkpOTW9OVFliOWt6OVdoTHRNU0d5Wnd4SS1HeDVyNWZsaDQ?oc=5",
         "publishedAt": "2026-07-09T02:30:00.000Z"
+      },
+      {
+        "time": "16:00",
+        "title": "設備保全とリスク管理を融合 設備保全総合研究所×SOMPOリスクマネジメント - jutaku-s.com",
+        "source": "jutaku-s.com",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XZHVEdFNkSWl4UGUzd0ZhQWt5c3hURXFQWVp1LXA1WE8wUUs0MXhCMGdCcy1zcmRkY2owNHZaeG04cjFTbUp0dkNHVTNpdVlWWFhfUUhn?oc=5",
+        "publishedAt": "2026-07-09T07:00:00.000Z"
       },
       {
         "time": "13:30",
@@ -31,35 +52,21 @@
         "publishedAt": "2026-07-09T02:01:16.000Z"
       },
       {
-        "time": "02:04",
-        "title": "部品不足で生産ラインを止めないために--設備保全クラウド「ミロクルカルテ」、モバイルで完結する部品棚卸し機能α版をリリース",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xZHhmZUhvWi16YTRtLWRBUkZCaU5VOWItRlg1eHNDclRyOXNCUXZSajdlQ05keE5QWXQ1X09WeThvbHhPbDM2Z1hmc1ZkSVBEY2c?oc=5",
-        "publishedAt": "2026-07-08T17:04:27.000Z"
-      },
-      {
-        "time": "10:12",
-        "title": "DMG森精機が挑む工作機械のフィジカルAI、産総研と機械加工の基盤モデル構築促進（MONOist）",
+        "time": "11:45",
+        "title": "三和特殊鋼 名古屋支店 マシニング加工機新設 NC旋盤も 造船・医療向け新規開拓（日刊産業新聞）",
         "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGpzVmFSaDdFNjNONUpvdk9VY3BUd3AwWjQxemtUelBETW1qdFczOFBTUVJiMnZLaVBUSmc0MWczZXBHd2w5ek1VdlY0emd6XzZSdXg5QjFRWENicG80RUppQ0JQNUx2QTdDY2RsY2RaODRwdEZ6VHZZdGJjN0J6c1lMY3pESzFfbm50QlJR?oc=5",
-        "publishedAt": "2026-07-09T01:12:25.000Z"
-      },
-      {
-        "time": "11:40",
-        "title": "日本の工作機械、中国の地方都市に敗れ始める―中国メディア",
-        "source": "Record China",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40TmY3dVVCS3NJMGFDenhvLWxPNEROMjdscnl0S25xMFZxRHhHQ1BRYTVTRVBrdmt3X3VwNllkUmtwWE9rSDJDRGZRZFJWblZ1dmZvUWVUYm9GSXV5?oc=5",
-        "publishedAt": "2026-07-09T02:40:59.000Z"
-      },
-      {
-        "time": "15:03",
-        "title": "CNCねじ研削盤市場分析レポート（2026年）：2032年825百万米ドル到達予測",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UQ3lBUmNtT0dXNFctRS1GVGxuaEc2cFZFaE40T1lMU3RzNnpPOTNvYnRhZ2FrMTlObXNid0tuV3djQjB5VTQ4aGJjbzVmNUdYeU1GVmpXQ0drbVNGTTMyWi0tc0xFbGRQdFdHazFJcXVodkJoSEV4TEV3Yw?oc=5",
-        "publishedAt": "2026-07-09T06:03:36.000Z"
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMXY5NHVZa3ZxaHZBb09wdnZvbXZBczJlVFYzUlNNOEZKUVlnV1l1SEFGSE1CQ0owamllWk9YalIyTmdpZ0REMnlONjQ3clJVRmxCWXBPTExjaWQ1OGhUWWtFVDkyaUJHMkdNZlQ2VVJJTVFNeFNxcjQ4d2txZVpYLWxpLTR1UkhlYlpPOGhB?oc=5",
+        "publishedAt": "2026-07-09T02:45:17.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "16:31",
+        "title": "ロシア NATO首脳会議の決定非難",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587309?source=rss",
+        "publishedAt": "2026-07-09T07:31:05.000Z"
+      },
       {
         "time": "13:05",
         "title": "米軍が追加攻撃完了 イランも報復",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587215?source=rss",
         "publishedAt": "2026-07-08T11:18:05.000Z"
-      },
-      {
-        "time": "23:37",
-        "title": "米大統領 イランと日本言い間違え",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587233?source=rss",
-        "publishedAt": "2026-07-08T14:37:14.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-07-08T08:30:48.000Z"
       },
       {
+        "time": "16:08",
+        "title": "台風 10-11日に空の便が一部欠航",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587307?source=rss",
+        "publishedAt": "2026-07-09T07:08:36.000Z"
+      },
+      {
         "time": "08:52",
         "title": "客単価↑ディズニー「若者離れ」",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587294?source=rss",
         "publishedAt": "2026-07-09T04:30:23.000Z"
-      },
-      {
-        "time": "08:10",
-        "title": "ポケモン空港のグッズ 高額転売も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587251?source=rss",
-        "publishedAt": "2026-07-08T23:10:39.000Z"
       }
     ],
     "localHeadlines": [
@@ -218,17 +218,17 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金のポイント解説",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-07-01T07:00:00.000Z"
-      },
-      {
-        "time": "16:00",
         "title": "食洗機設置の設置で使える！省エネ住宅補助金",
         "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wb3R6alFKeVRpMkVWVGpiMjRhdGVkZFhZZXRBTl8yeU5xTDlwMDQwelhkQ3hFSnNaMEszMjRYMl9VYjAxUi1xVzRzSEkwTWkxLXZhbndUWkpGUUg4aXY4V0VPSDQ?oc=5",
         "publishedAt": "2026-06-30T07:00:00.000Z"
+      },
+      {
+        "time": "16:00",
+        "title": "【令和8年・2026年】もらえる給付金・支援金まとめ！物価高・農業・子育て・生活支援等、目的別に紹介",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PbTA2anpjTjlKcUhxXzQtbEFhcXpkSE1UYjItLXZYTHJ0cG5uS3daeVBsY20xTzFCREZ6NEZYdm16OC1iRzRHZWlWZkpyVUYzZmZiTzVGaXd6Q1dhX2ptWVhpLTZuUkZt?oc=5",
+        "publishedAt": "2026-07-02T07:00:00.000Z"
       }
     ]
   }

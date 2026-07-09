@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-09T06:23:31.634Z",
+  "updatedAt": "2026-07-09T07:47:17.457Z",
   "items": [
     {
-      "time": "13:05",
-      "title": "米軍が追加攻撃完了 イランも報復",
+      "time": "16:31",
+      "title": "ロシア NATO首脳会議の決定非難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587288?source=rss",
-      "publishedAt": "2026-07-09T04:05:27.000Z",
-      "xQuery": "米軍が追加攻撃完了 イランも報復"
-    },
-    {
-      "time": "13:49",
-      "title": "ECサイト不正防止 警察と3社協定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587295?source=rss",
-      "publishedAt": "2026-07-09T04:49:02.000Z",
-      "xQuery": "ECサイト不正防止 警察と3社協定"
+      "url": "https://news.yahoo.co.jp/pickup/6587309?source=rss",
+      "publishedAt": "2026-07-09T07:31:05.000Z",
+      "xQuery": "ロシア NATO首脳会議の決定非難"
     },
     {
       "time": "14:38",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587300?source=rss",
       "publishedAt": "2026-07-09T05:38:51.000Z",
       "xQuery": "元特捜検事の不適切交際疑い 調査"
+    },
+    {
+      "time": "16:08",
+      "title": "台風 10-11日に空の便が一部欠航",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587307?source=rss",
+      "publishedAt": "2026-07-09T07:08:36.000Z",
+      "xQuery": "台風 10-11日に空の便が一部欠航"
     },
     {
       "time": "14:16",
