@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T21:03:54.367Z",
+  "updatedAt": "2026-07-09T22:02:48.822Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -34,15 +34,8 @@
         "time": "11:30",
         "title": "ACサーボモーターコントローラの世界市場（2026年～2032年）、市場規模（永久磁石同期ACサーボモーター、非同期ACサーボモーター）・分析レポートを発表",
         "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tc0R6LU1sUG5GSEZJNkhybnJPRWRFeXo1NF9aODdLT29KS3F6OC1NcWpMTkljazhUd1M5cnZEbmxkdXVzaEFF?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EY3FTZzZrTlo0QlRvcTMycjRnNF90a04xSmIxR01tTGVnM0pfbkpOTW9OVFliOWt6OVdoTHRNU0d5Wnd4SS1HeDVyNWZsaDQ?oc=5",
         "publishedAt": "2026-07-09T02:30:00.000Z"
-      },
-      {
-        "time": "16:00",
-        "title": "設備保全とリスク管理を融合 設備保全総合研究所×SOMPOリスクマネジメント - jutaku-s.com",
-        "source": "jutaku-s.com",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XZHVEdFNkSWl4UGUzd0ZhQWt5c3hURXFQWVp1LXA1WE8wUUs0MXhCMGdCcy1zcmRkY2owNHZaeG04cjFTbUp0dkNHVTNpdVlWWFhfUUhn?oc=5",
-        "publishedAt": "2026-07-09T07:00:00.000Z"
       },
       {
         "time": "13:30",
@@ -50,6 +43,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YRm1xU1VOMDc4cjl1MGpwZVdlY20tMHc1TDZsMTAwMmJEWEcyamZGdkV4RkxMNVZ5TTlrQWtnbkZ2aERlRENQWmd5TjZqdUFWUnNuSW4tR3ZERDdQcGNRRzVKQUJZdTVYX1BhalVxVQ?oc=5",
         "publishedAt": "2026-07-09T04:30:00.000Z"
+      },
+      {
+        "time": "16:00",
+        "title": "設備保全とリスク管理を融合 設備保全総合研究所×SOMPOリスクマネジメント - jutaku-s.com",
+        "source": "jutaku-s.com",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XZHVEdFNkSWl4UGUzd0ZhQWt5c3hURXFQWVp1LXA1WE8wUUs0MXhCMGdCcy1zcmRkY2owNHZaeG04cjFTbUp0dkNHVTNpdVlWWFhfUUhn?oc=5",
+        "publishedAt": "2026-07-09T07:00:00.000Z"
       },
       {
         "time": "22:42",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "06:35",
+        "title": "米イラン 攻撃応酬で高まる緊張",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587362?source=rss",
+        "publishedAt": "2026-07-09T21:35:31.000Z"
+      },
       {
         "time": "22:56",
         "title": "プーチン氏 戦闘継続の意志強める",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587309?source=rss",
         "publishedAt": "2026-07-09T07:31:05.000Z"
-      },
-      {
-        "time": "13:05",
-        "title": "米軍が追加攻撃完了 イランも報復",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587288?source=rss",
-        "publishedAt": "2026-07-09T04:05:27.000Z"
       },
       {
         "time": "12:43",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "06:08",
+        "title": "川底で発見された高校生2人 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587359?source=rss",
+        "publishedAt": "2026-07-09T21:08:06.000Z"
+      },
+      {
         "time": "18:01",
         "title": "集団暴行死 川村葉音被告も控訴",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587282?source=rss",
         "publishedAt": "2026-07-09T03:19:33.000Z"
-      },
-      {
-        "time": "11:15",
-        "title": "車にひかれ28歳死亡 ひき逃げか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587270?source=rss",
-        "publishedAt": "2026-07-09T02:15:00.000Z"
       }
     ],
     "subsidyHeadlines": [

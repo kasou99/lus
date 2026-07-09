@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-09T21:03:55.147Z",
+  "updatedAt": "2026-07-09T22:02:49.864Z",
   "items": [
     {
-      "time": "22:56",
-      "title": "プーチン氏 戦闘継続の意志強める",
+      "time": "06:59",
+      "title": "台風9号あす沖縄最接近恐れ 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587352?source=rss",
-      "publishedAt": "2026-07-09T13:56:03.000Z",
-      "xQuery": "プーチン氏 戦闘継続の意志強める"
+      "url": "https://news.yahoo.co.jp/pickup/6587364?source=rss",
+      "publishedAt": "2026-07-09T21:59:27.000Z",
+      "xQuery": "台風9号あす沖縄最接近恐れ 警戒"
     },
     {
-      "time": "22:57",
-      "title": "安全保障巡り行政傍受 自民提言へ",
+      "time": "06:35",
+      "title": "米イラン 攻撃応酬で高まる緊張",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587353?source=rss",
-      "publishedAt": "2026-07-09T13:57:48.000Z",
-      "xQuery": "安全保障巡り行政傍受 自民提言へ"
+      "url": "https://news.yahoo.co.jp/pickup/6587362?source=rss",
+      "publishedAt": "2026-07-09T21:35:31.000Z",
+      "xQuery": "米イラン 攻撃応酬で高まる緊張"
     },
     {
       "time": "20:38",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "杉並区長 23日間の長期休暇取得へ"
     },
     {
-      "time": "22:06",
-      "title": "ジャンプ付録巡る混乱 書店が警戒",
+      "time": "06:08",
+      "title": "川底で発見された高校生2人 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587346?source=rss",
-      "publishedAt": "2026-07-09T13:06:01.000Z",
-      "xQuery": "ジャンプ付録巡る混乱 書店が警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6587359?source=rss",
+      "publishedAt": "2026-07-09T21:08:06.000Z",
+      "xQuery": "川底で発見された高校生2人 死亡"
     }
   ]
 };
