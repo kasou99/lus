@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-10T23:24:40.323Z",
+  "updatedAt": "2026-07-10T23:50:28.813Z",
   "items": [
     {
       "time": "07:20",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風9号が先島諸島に最接近 警戒"
     },
     {
-      "time": "06:26",
-      "title": "米イラン協議 近く再開する可能性",
+      "time": "08:26",
+      "title": "Apple 営業秘密流用でOpenAI提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587484?source=rss",
-      "publishedAt": "2026-07-10T21:26:08.000Z",
-      "xQuery": "米イラン協議 近く再開する可能性"
+      "url": "https://news.yahoo.co.jp/pickup/6587501?source=rss",
+      "publishedAt": "2026-07-10T23:26:40.000Z",
+      "xQuery": "Apple 営業秘密流用でOpenAI提訴"
+    },
+    {
+      "time": "08:29",
+      "title": "老舗うなぎ店で火事 千葉・成田山",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587500?source=rss",
+      "publishedAt": "2026-07-10T23:29:24.000Z",
+      "xQuery": "老舗うなぎ店で火事 千葉・成田山"
     },
     {
       "time": "07:31",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ビル1室で3千社起業 経営実態は?"
     },
     {
-      "time": "07:25",
-      "title": "EU インスタ中毒性に設計変更を",
+      "time": "08:29",
+      "title": "2Eギフテッド 抱える生きづらさ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587490?source=rss",
-      "publishedAt": "2026-07-10T22:25:47.000Z",
-      "xQuery": "EU インスタ中毒性に設計変更を"
-    },
-    {
-      "time": "08:08",
-      "title": "「2Eギフテッド」が抱える困難",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587498?source=rss",
-      "publishedAt": "2026-07-10T23:08:38.000Z",
-      "xQuery": "「2Eギフテッド」が抱える困難"
+      "url": "https://news.yahoo.co.jp/pickup/6587504?source=rss",
+      "publishedAt": "2026-07-10T23:29:50.000Z",
+      "xQuery": "2Eギフテッド 抱える生きづらさ"
     }
   ]
 };
