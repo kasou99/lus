@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T00:53:06.551Z",
+  "updatedAt": "2026-07-10T01:41:19.096Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-07-09T08:08:00.000Z"
       },
       {
-        "time": "13:30",
-        "title": "門型五面加工機のデジタルツイン基盤、加工前の事前検証を大幅効率化：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YRm1xU1VOMDc4cjl1MGpwZVdlY20tMHc1TDZsMTAwMmJEWEcyamZGdkV4RkxMNVZ5TTlrQWtnbkZ2aERlRENQWmd5TjZqdUFWUnNuSW4tR3ZERDdQcGNRRzVKQUJZdTVYX1BhalVxVQ?oc=5",
-        "publishedAt": "2026-07-09T04:30:00.000Z"
-      },
-      {
         "time": "16:00",
         "title": "設備保全とリスク管理を融合 設備保全総合研究所×SOMPOリスクマネジメント - jutaku-s.com",
         "source": "jutaku-s.com",
@@ -45,10 +38,17 @@
         "publishedAt": "2026-07-09T07:00:00.000Z"
       },
       {
+        "time": "13:30",
+        "title": "門型五面加工機のデジタルツイン基盤、加工前の事前検証を大幅効率化：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YRm1xU1VOMDc4cjl1MGpwZVdlY20tMHc1TDZsMTAwMmJEWEcyamZGdkV4RkxMNVZ5TTlrQWtnbkZ2aERlRENQWmd5TjZqdUFWUnNuSW4tR3ZERDdQcGNRRzVKQUJZdTVYX1BhalVxVQ?oc=5",
+        "publishedAt": "2026-07-09T04:30:00.000Z"
+      },
+      {
         "time": "11:30",
         "title": "ACサーボモーターコントローラの世界市場（2026年～2032年）、市場規模（永久磁石同期ACサーボモーター、非同期ACサーボモーター）・分析レポートを発表",
         "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRdHBVa0hsYWROVUU3Z1BldFJqcllfQ2F2cmdMRDNIdGh2bmlRUUdHU3VZdFlHeTM3dXVBVC1qUThheElHNWhkUUFkYlc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tc0R6LU1sUG5GSEZJNkhybnJPRWRFeXo1NF9aODdLT29KS3F6OC1NcWpMTkljazhUd1M5cnZEbmxkdXVzaEFF?oc=5",
         "publishedAt": "2026-07-09T02:30:00.000Z"
       },
       {
@@ -177,11 +177,11 @@
         "publishedAt": "2026-07-09T14:14:11.000Z"
       },
       {
-        "time": "17:01",
-        "title": "体育で事故 県に1.5億円賠償命令",
+        "time": "10:38",
+        "title": "児童ら15人がハチに刺される 搬送",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587312?source=rss",
-        "publishedAt": "2026-07-09T08:01:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587391?source=rss",
+        "publishedAt": "2026-07-10T01:38:20.000Z"
       },
       {
         "time": "12:19",

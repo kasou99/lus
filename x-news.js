@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-10T00:53:07.349Z",
+  "updatedAt": "2026-07-10T01:41:19.878Z",
   "items": [
     {
       "time": "08:48",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中道と立・公 早期合流に黄信号"
     },
     {
-      "time": "07:24",
-      "title": "現役世代の社保料 引き下げ明記へ",
+      "time": "09:22",
+      "title": "放送局に株主圧力懸念 自民調査会",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587367?source=rss",
-      "publishedAt": "2026-07-09T22:24:55.000Z",
-      "xQuery": "現役世代の社保料 引き下げ明記へ"
+      "url": "https://news.yahoo.co.jp/pickup/6587381?source=rss",
+      "publishedAt": "2026-07-10T00:22:47.000Z",
+      "xQuery": "放送局に株主圧力懸念 自民調査会"
     },
     {
       "time": "08:20",
