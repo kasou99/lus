@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-10T07:46:29.776Z",
+  "updatedAt": "2026-07-10T09:14:38.783Z",
   "items": [
     {
-      "time": "16:18",
-      "title": "熱中症疑い 東京できょう22人搬送",
+      "time": "17:42",
+      "title": "台風 沖縄・先島諸島に11日最接近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587432?source=rss",
-      "publishedAt": "2026-07-10T07:18:53.000Z",
-      "xQuery": "熱中症疑い 東京できょう22人搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6587442?source=rss",
+      "publishedAt": "2026-07-10T08:42:42.000Z",
+      "xQuery": "台風 沖縄・先島諸島に11日最接近"
     },
     {
-      "time": "14:58",
-      "title": "覚書は終わり トランプ氏激怒の訳",
+      "time": "18:02",
+      "title": "地方税収50兆円超え 給与所得増で",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587426?source=rss",
-      "publishedAt": "2026-07-10T05:58:51.000Z",
-      "xQuery": "覚書は終わり トランプ氏激怒の訳"
+      "url": "https://news.yahoo.co.jp/pickup/6587446?source=rss",
+      "publishedAt": "2026-07-10T09:02:27.000Z",
+      "xQuery": "地方税収50兆円超え 給与所得増で"
     },
     {
-      "time": "13:37",
-      "title": "全東信破産 店側の資金繰り支援へ",
+      "time": "17:23",
+      "title": "江別暴行死 少年ら2人の実刑確定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587419?source=rss",
-      "publishedAt": "2026-07-10T04:37:50.000Z",
-      "xQuery": "全東信破産 店側の資金繰り支援へ"
+      "url": "https://news.yahoo.co.jp/pickup/6587439?source=rss",
+      "publishedAt": "2026-07-10T08:23:01.000Z",
+      "xQuery": "江別暴行死 少年ら2人の実刑確定"
     },
     {
-      "time": "15:19",
-      "title": "駐機中の飛行機内から煙 新千歳",
+      "time": "17:33",
+      "title": "死亡ひき逃げ事件 配送業の男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587428?source=rss",
-      "publishedAt": "2026-07-10T06:19:11.000Z",
-      "xQuery": "駐機中の飛行機内から煙 新千歳"
+      "url": "https://news.yahoo.co.jp/pickup/6587443?source=rss",
+      "publishedAt": "2026-07-10T08:33:16.000Z",
+      "xQuery": "死亡ひき逃げ事件 配送業の男逮捕"
     },
     {
       "time": "16:42",
