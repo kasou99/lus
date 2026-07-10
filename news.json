@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T12:02:55.759Z",
+  "updatedAt": "2026-07-10T13:17:16.772Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,13 +163,6 @@
         "publishedAt": "2026-07-10T09:29:54.000Z"
       },
       {
-        "time": "16:18",
-        "title": "熱中症疑い 東京できょう22人搬送",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587432?source=rss",
-        "publishedAt": "2026-07-10T07:18:53.000Z"
-      },
-      {
         "time": "17:33",
         "title": "死亡ひき逃げ事件 配送業の男逮捕",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587466?source=rss",
         "publishedAt": "2026-07-10T11:43:42.000Z"
+      },
+      {
+        "time": "21:54",
+        "title": "新設エレベーター 子3人閉じ込め",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587470?source=rss",
+        "publishedAt": "2026-07-10T12:54:10.000Z"
       }
     ],
     "subsidyHeadlines": [

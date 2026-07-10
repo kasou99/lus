@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-10T12:02:56.378Z",
+  "updatedAt": "2026-07-10T13:17:17.477Z",
   "items": [
     {
       "time": "20:24",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "悠仁さま 公的行事で8月広島訪問"
     },
     {
-      "time": "18:29",
-      "title": "女性2人殺害 男に無期懲役の判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587451?source=rss",
-      "publishedAt": "2026-07-10T09:29:54.000Z",
-      "xQuery": "女性2人殺害 男に無期懲役の判決"
-    },
-    {
       "time": "20:53",
       "title": "全東信が破産 飲食店の混乱拡大",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "全東信が破産 飲食店の混乱拡大"
     },
     {
-      "time": "18:40",
-      "title": "サンマ1匹21万6000円 客は驚き",
+      "time": "20:43",
+      "title": "鮎釣り中2人が川に流され 1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587455?source=rss",
-      "publishedAt": "2026-07-10T09:40:38.000Z",
-      "xQuery": "サンマ1匹21万6000円 客は驚き"
+      "url": "https://news.yahoo.co.jp/pickup/6587466?source=rss",
+      "publishedAt": "2026-07-10T11:43:42.000Z",
+      "xQuery": "鮎釣り中2人が川に流され 1人死亡"
+    },
+    {
+      "time": "21:54",
+      "title": "新設エレベーター 子3人閉じ込め",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587470?source=rss",
+      "publishedAt": "2026-07-10T12:54:10.000Z",
+      "xQuery": "新設エレベーター 子3人閉じ込め"
     }
   ]
 };
