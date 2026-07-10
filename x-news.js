@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-10T06:22:50.713Z",
+  "updatedAt": "2026-07-10T07:46:29.776Z",
   "items": [
     {
-      "time": "13:49",
-      "title": "皇室典範改正案 衆院本会議を通過",
+      "time": "16:18",
+      "title": "熱中症疑い 東京できょう22人搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587421?source=rss",
-      "publishedAt": "2026-07-10T04:49:54.000Z",
-      "xQuery": "皇室典範改正案 衆院本会議を通過"
-    },
-    {
-      "time": "13:37",
-      "title": "全東信破産 店側の資金繰り支援へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587419?source=rss",
-      "publishedAt": "2026-07-10T04:37:50.000Z",
-      "xQuery": "全東信破産 店側の資金繰り支援へ"
+      "url": "https://news.yahoo.co.jp/pickup/6587432?source=rss",
+      "publishedAt": "2026-07-10T07:18:53.000Z",
+      "xQuery": "熱中症疑い 東京できょう22人搬送"
     },
     {
       "time": "14:58",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "覚書は終わり トランプ氏激怒の訳"
     },
     {
-      "time": "11:50",
-      "title": "北陸新幹線 延伸ルート来週決定へ",
+      "time": "13:37",
+      "title": "全東信破産 店側の資金繰り支援へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587397?source=rss",
-      "publishedAt": "2026-07-10T02:50:51.000Z",
-      "xQuery": "北陸新幹線 延伸ルート来週決定へ"
+      "url": "https://news.yahoo.co.jp/pickup/6587419?source=rss",
+      "publishedAt": "2026-07-10T04:37:50.000Z",
+      "xQuery": "全東信破産 店側の資金繰り支援へ"
     },
     {
       "time": "15:19",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587428?source=rss",
       "publishedAt": "2026-07-10T06:19:11.000Z",
       "xQuery": "駐機中の飛行機内から煙 新千歳"
+    },
+    {
+      "time": "16:42",
+      "title": "モバイルSuica障害 払い戻し発表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587435?source=rss",
+      "publishedAt": "2026-07-10T07:42:37.000Z",
+      "xQuery": "モバイルSuica障害 払い戻し発表"
     }
   ]
 };

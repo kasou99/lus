@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T06:22:49.985Z",
+  "updatedAt": "2026-07-10T07:46:28.926Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-07-09T21:00:00.000Z"
       },
       {
-        "time": "15:35",
-        "title": "6月工作機械受注は前年比52.8％増、12カ月連続プラス＝工作機械工業会",
-        "source": "ロイター",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdzlsRWVpZjYyc29XNWppdmY4dC02M1VKNjJvZk1zcmctQ0EtZ1RGbGJ3MUdycUg5aTNCQnBqdkhXeENMVGs0U09SNHY1RlJWMFdQTkJvWTNWQ3B1RmdqN1RCVDktY1hwQVJQZDdmaElIT3JlYlI1Z0pCVkd6cHo1eg?oc=5",
-        "publishedAt": "2026-07-09T06:35:00.000Z"
-      },
-      {
         "time": "05:03",
         "title": "6月の工作機械受注、単月初2000億円超 1－6月は1兆円超",
         "source": "日刊工業新聞",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-07-09T20:03:24.000Z"
       },
       {
-        "time": "16:00",
-        "title": "設備保全とリスク管理を融合 設備保全総合研究所×SOMPOリスクマネジメント - jutaku-s.com",
-        "source": "jutaku-s.com",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XZHVEdFNkSWl4UGUzd0ZhQWt5c3hURXFQWVp1LXA1WE8wUUs0MXhCMGdCcy1zcmRkY2owNHZaeG04cjFTbUp0dkNHVTNpdVlWWFhfUUhn?oc=5",
-        "publishedAt": "2026-07-09T07:00:00.000Z"
+        "time": "14:03",
+        "title": "山一電機、大和証が目標株価１万１５００円に引き上げ 速報",
+        "source": "kabushiki.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtdXkzYlBVNUFiSmhjQ2tmaFdFYXBSUWVKdDRLUHBiRTBHWFI3NEF1WUZ1M3pYRHRSUjBQVmQxUnZiZXprNkpF?oc=5",
+        "publishedAt": "2026-07-10T05:03:00.000Z"
+      },
+      {
+        "time": "22:40",
+        "title": "日本の工作機械、中国の地方都市に敗れ始める―中国メディア",
+        "source": "Record China",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40TmY3dVVCS3NJMGFDenhvLWxPNEROMjdscnl0S25xMFZxRHhHQ1BRYTVTRVBrdmt3X3VwNllkUmtwWE9rSDJDRGZRZFJWblZ1dmZvUWVUYm9GSXV5?oc=5",
+        "publishedAt": "2026-07-09T13:40:48.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "16:18",
+        "title": "熱中症疑い 東京できょう22人搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587432?source=rss",
+        "publishedAt": "2026-07-10T07:18:53.000Z"
+      },
+      {
         "time": "09:03",
         "title": "「トンネルで車Uターン」1人死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587400?source=rss",
         "publishedAt": "2026-07-10T03:07:54.000Z"
-      },
-      {
-        "time": "23:14",
-        "title": "杉並区長 23日間の長期休暇取得へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587354?source=rss",
-        "publishedAt": "2026-07-09T14:14:11.000Z"
       }
     ],
     "subsidyHeadlines": [
