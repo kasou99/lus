@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-10T04:49:27.592Z",
+  "updatedAt": "2026-07-10T06:22:50.713Z",
   "items": [
     {
-      "time": "13:38",
-      "title": "改正個人情報保護法が成立 今後は",
+      "time": "13:49",
+      "title": "皇室典範改正案 衆院本会議を通過",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587420?source=rss",
-      "publishedAt": "2026-07-10T04:38:32.000Z",
-      "xQuery": "改正個人情報保護法が成立 今後は"
+      "url": "https://news.yahoo.co.jp/pickup/6587421?source=rss",
+      "publishedAt": "2026-07-10T04:49:54.000Z",
+      "xQuery": "皇室典範改正案 衆院本会議を通過"
     },
     {
-      "time": "12:36",
-      "title": "成田新滑走路巡り土地収用申請へ",
+      "time": "13:37",
+      "title": "全東信破産 店側の資金繰り支援へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587412?source=rss",
-      "publishedAt": "2026-07-10T03:36:40.000Z",
-      "xQuery": "成田新滑走路巡り土地収用申請へ"
+      "url": "https://news.yahoo.co.jp/pickup/6587419?source=rss",
+      "publishedAt": "2026-07-10T04:37:50.000Z",
+      "xQuery": "全東信破産 店側の資金繰り支援へ"
     },
     {
-      "time": "11:17",
-      "title": "皇室典範改正案の行方 識者に聞く",
+      "time": "14:58",
+      "title": "覚書は終わり トランプ氏激怒の訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587388?source=rss",
-      "publishedAt": "2026-07-10T02:17:38.000Z",
-      "xQuery": "皇室典範改正案の行方 識者に聞く"
+      "url": "https://news.yahoo.co.jp/pickup/6587426?source=rss",
+      "publishedAt": "2026-07-10T05:58:51.000Z",
+      "xQuery": "覚書は終わり トランプ氏激怒の訳"
     },
     {
       "time": "11:50",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "北陸新幹線 延伸ルート来週決定へ"
     },
     {
-      "time": "11:37",
-      "title": "イラン トランプ氏の暗殺を計画か",
+      "time": "15:19",
+      "title": "駐機中の飛行機内から煙 新千歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587394?source=rss",
-      "publishedAt": "2026-07-10T02:37:27.000Z",
-      "xQuery": "イラン トランプ氏の暗殺を計画か"
+      "url": "https://news.yahoo.co.jp/pickup/6587428?source=rss",
+      "publishedAt": "2026-07-10T06:19:11.000Z",
+      "xQuery": "駐機中の飛行機内から煙 新千歳"
     }
   ]
 };

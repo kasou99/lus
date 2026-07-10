@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T04:49:26.570Z",
+  "updatedAt": "2026-07-10T06:22:49.985Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "第一ライフ資産運用経済研究所",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuOFBlZUJIZ0NaVlppSGg1RjkyMDh6OWxxUnpGSFJ6YUZraEs1cjFabUVCXzFHVlBGOVNUZEhWcVVYSjhBeVYtdmhlMWtvNzV1eFlUWEVPeHF6RXM?oc=5",
         "publishedAt": "2026-07-10T02:30:03.000Z"
+      },
+      {
+        "time": "14:42",
+        "title": "丸紅－3日続落 インド工作機械需要を開拓 データ拠点拡大で半導体製造活況＝日経(トレーダーズ・ウェブ)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmNGemxmQ3JLX1RqRWFZR3lSeFd5SHZPanhHY3RNLUVYRk5rOHBMdzZNVlBwVC1lQWNwNHVTX0NGekZLZVA4WTN2SDdHMDladThrWUZNblVXcEp2b1JQa0RXUm4yN0NSeG8wZU0tRUVhZFFqbHBFbi1tWVlLNjRLTXo4MVE0TVk?oc=5",
+        "publishedAt": "2026-07-10T05:42:00.000Z"
       },
       {
         "time": "05:00",
@@ -24,18 +31,18 @@
         "publishedAt": "2026-07-09T20:03:28.000Z"
       },
       {
+        "time": "06:00",
+        "title": "人材育成から検査自動化、脱中国まで――DMG森精機欧州最大生産拠点の展望：スマート工場最前線（2/2 ページ）",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhY1VsWFFFNmRsODczZ0c1cmFnazdUTC1nb0M5cEgyZ2lvUHI3TXVETklLbExnNE9jVU95VkFQQnZBSEhQRUtJWUhyd2E0SVhMYWpEY3ZnSko0ak00RmxwdXFmRmVkak5kaDBfeUNkd1NQUQ?oc=5",
+        "publishedAt": "2026-07-09T21:00:00.000Z"
+      },
+      {
         "time": "15:35",
         "title": "6月工作機械受注は前年比52.8％増、12カ月連続プラス＝工作機械工業会",
         "source": "ロイター",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdzlsRWVpZjYyc29XNWppdmY4dC02M1VKNjJvZk1zcmctQ0EtZ1RGbGJ3MUdycUg5aTNCQnBqdkhXeENMVGs0U09SNHY1RlJWMFdQTkJvWTNWQ3B1RmdqN1RCVDktY1hwQVJQZDdmaElIT3JlYlI1Z0pCVkd6cHo1eg?oc=5",
         "publishedAt": "2026-07-09T06:35:00.000Z"
-      },
-      {
-        "time": "17:08",
-        "title": "6月の工作機械受注速報、前年比52．8％増＝26年上半期は35．7％増(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObWMzOEFvZUVUcXhqZWkydExjODNVYUtBOWVmaDIzQlNGZW41Qlk4ekdDenNrTnBIQVlxTHZ2SDNCaV83Rk5JS1NlWkg1OUF3ZUl3aHgyZ0NLRmE1U2hrdlJiY2VvcEJBNXBubF9vUmJ2VUwyclo5V283MEdyVFBIOElSdEpveFE?oc=5",
-        "publishedAt": "2026-07-09T08:08:00.000Z"
       },
       {
         "time": "05:03",
@@ -50,13 +57,6 @@
         "source": "jutaku-s.com",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XZHVEdFNkSWl4UGUzd0ZhQWt5c3hURXFQWVp1LXA1WE8wUUs0MXhCMGdCcy1zcmRkY2owNHZaeG04cjFTbUp0dkNHVTNpdVlWWFhfUUhn?oc=5",
         "publishedAt": "2026-07-09T07:00:00.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "人材育成から検査自動化、脱中国まで――DMG森精機欧州最大生産拠点の展望：スマート工場最前線（2/2 ページ）",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhY1VsWFFFNmRsODczZ0c1cmFnazdUTC1nb0M5cEgyZ2lvUHI3TXVETklLbExnNE9jVU95VkFQQnZBSEhQRUtJWUhyd2E0SVhMYWpEY3ZnSko0ak00RmxwdXFmRmVkak5kaDBfeUNkd1NQUQ?oc=5",
-        "publishedAt": "2026-07-09T21:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,11 @@
         "publishedAt": "2026-07-10T03:46:29.000Z"
       },
       {
-        "time": "13:06",
-        "title": "トランプ氏 空爆に踏み切った背景",
+        "time": "14:58",
+        "title": "覚書は終わり トランプ氏激怒の訳",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587405?source=rss",
-        "publishedAt": "2026-07-10T04:06:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587426?source=rss",
+        "publishedAt": "2026-07-10T05:58:51.000Z"
       },
       {
         "time": "11:37",
@@ -170,6 +170,13 @@
         "publishedAt": "2026-07-10T02:56:16.000Z"
       },
       {
+        "time": "15:19",
+        "title": "駐機中の飛行機内から煙 新千歳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587428?source=rss",
+        "publishedAt": "2026-07-10T06:19:11.000Z"
+      },
+      {
         "time": "12:07",
         "title": "マンション下がけ崩れ 監視続ける",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587354?source=rss",
         "publishedAt": "2026-07-09T14:14:11.000Z"
-      },
-      {
-        "time": "10:38",
-        "title": "児童ら15人がハチに刺される 搬送",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587391?source=rss",
-        "publishedAt": "2026-07-10T01:38:20.000Z"
       }
     ],
     "subsidyHeadlines": [
