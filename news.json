@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T18:06:08.343Z",
+  "updatedAt": "2026-07-10T19:03:19.350Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-09T20:03:28.000Z"
       },
       {
+        "time": "03:10",
+        "title": "『装置の近くや内部に置きたいAIエッジサーバー・PC、設置スペースは十分ですか？』というテーマのウェビナーを開催",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLalFwc1F0OVpuakxzaFpZeW5hUnVCVmpBWU1TblpyNERGdWlLTXFCUjVZdUl1OUZFVkVMRHdjOGJLaFAzaTlEOHV5aC15b01temczbXVuLWVlbE9Td1VHTHI5cU5saktiXzEw?oc=5",
+        "publishedAt": "2026-07-10T18:10:00.000Z"
+      },
+      {
         "time": "06:00",
         "title": "人材育成から検査自動化、脱中国まで――DMG森精機欧州最大生産拠点の展望：スマート工場最前線（2/2 ページ）",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhY1VsWFFFNmRsODczZ0c1cmFnazdUTC1nb0M5cEgyZ2lvUHI3TXVETklLbExnNE9jVU95VkFQQnZBSEhQRUtJWUhyd2E0SVhMYWpEY3ZnSko0ak00RmxwdXFmRmVkak5kaDBfeUNkd1NQUQ?oc=5",
         "publishedAt": "2026-07-09T21:00:00.000Z"
-      },
-      {
-        "time": "19:55",
-        "title": "AIが工場に進出：シーメンスが組み込みボードとエンジニアリングAIエージェントで産業界の3つの根源的問いに回答",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWRDd3NElfSUtCazRGRzFfWkJkTWpkMXdTQ3BoeGZZd2p2Y1lvVFg0NklJYUFnTDNpUURMbXhZYWkyZ2drT2hRUDlySG1KY1RtOVBuT08yYVNxSktRWjRIUFFYX0VTQndTbEloeHdXMlh0Ni1H?oc=5",
-        "publishedAt": "2026-07-10T10:55:00.000Z"
       }
     ],
     "worldHeadlines": [
