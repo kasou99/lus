@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-10T14:19:39.765Z",
+  "updatedAt": "2026-07-10T15:23:35.481Z",
   "items": [
     {
-      "time": "20:24",
-      "title": "西・東日本 週末に猛暑日が続出か",
+      "time": "23:32",
+      "title": "台風 石垣島など丸1日暴風域恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587465?source=rss",
-      "publishedAt": "2026-07-10T11:24:54.000Z",
-      "xQuery": "西・東日本 週末に猛暑日が続出か"
+      "url": "https://news.yahoo.co.jp/pickup/6587476?source=rss",
+      "publishedAt": "2026-07-10T14:32:17.000Z",
+      "xQuery": "台風 石垣島など丸1日暴風域恐れ"
     },
     {
       "time": "22:17",
