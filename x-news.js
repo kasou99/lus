@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-10T22:51:54.571Z",
+  "updatedAt": "2026-07-10T23:24:40.323Z",
   "items": [
     {
       "time": "07:20",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン協議 近く再開する可能性"
     },
     {
-      "time": "07:24",
-      "title": "取り調べで罵倒 検察官が無罪主張",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587491?source=rss",
-      "publishedAt": "2026-07-10T22:24:04.000Z",
-      "xQuery": "取り調べで罵倒 検察官が無罪主張"
-    },
-    {
       "time": "07:31",
       "title": "ビル1室で3千社起業 経営実態は?",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587490?source=rss",
       "publishedAt": "2026-07-10T22:25:47.000Z",
       "xQuery": "EU インスタ中毒性に設計変更を"
+    },
+    {
+      "time": "08:08",
+      "title": "「2Eギフテッド」が抱える困難",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587498?source=rss",
+      "publishedAt": "2026-07-10T23:08:38.000Z",
+      "xQuery": "「2Eギフテッド」が抱える困難"
     }
   ]
 };
