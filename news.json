@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T09:14:38.158Z",
+  "updatedAt": "2026-07-10T10:33:56.038Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "第一ライフ資産運用経済研究所",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuOFBlZUJIZ0NaVlppSGg1RjkyMDh6OWxxUnpGSFJ6YUZraEs1cjFabUVCXzFHVlBGOVNUZEhWcVVYSjhBeVYtdmhlMWtvNzV1eFlUWEVPeHF6RXM?oc=5",
         "publishedAt": "2026-07-10T02:30:03.000Z"
+      },
+      {
+        "time": "16:55",
+        "title": "丸紅、スイス工作機械販社を完全子会社化",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLX0tvdDVQQjFmbjBDOHo5R0JhUnhLeENTUk5sY2xmdF9qRGFEQXBQVEh3ZE03ZUxSRDNUY3laMUtTdVIxRUxrUA?oc=5",
+        "publishedAt": "2026-07-10T07:55:37.000Z"
       },
       {
         "time": "14:42",
@@ -43,13 +50,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhY1VsWFFFNmRsODczZ0c1cmFnazdUTC1nb0M5cEgyZ2lvUHI3TXVETklLbExnNE9jVU95VkFQQnZBSEhQRUtJWUhyd2E0SVhMYWpEY3ZnSko0ak00RmxwdXFmRmVkak5kaDBfeUNkd1NQUQ?oc=5",
         "publishedAt": "2026-07-09T21:00:00.000Z"
-      },
-      {
-        "time": "05:03",
-        "title": "6月の工作機械受注、単月初2000億円超 1－6月は1兆円超",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLcEFQc0VxOGJXLWJaZnNQNFRJODVNbllrck9iOWZnNklndGNCZEQ2MVgwRFp4RGVGWHFQY1BTVGRQYVpZRFlZck50eDgyQXBROFpiMHVHSFNHOXc?oc=5",
-        "publishedAt": "2026-07-09T20:03:24.000Z"
       },
       {
         "time": "14:03",
@@ -112,13 +112,6 @@
         "publishedAt": "2026-07-10T03:36:40.000Z"
       },
       {
-        "time": "11:50",
-        "title": "北陸新幹線 延伸ルート来週決定へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587397?source=rss",
-        "publishedAt": "2026-07-10T02:50:51.000Z"
-      },
-      {
         "time": "13:37",
         "title": "全東信破産 店側の資金繰り支援へ",
         "source": "Yahoo!ニュース",
@@ -126,18 +119,25 @@
         "publishedAt": "2026-07-10T04:37:50.000Z"
       },
       {
-        "time": "08:20",
-        "title": "全東信が破産 債権者の全63社判明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587374?source=rss",
-        "publishedAt": "2026-07-09T23:20:01.000Z"
-      },
-      {
         "time": "18:02",
         "title": "東京Dシティ事故 遊園地を再開へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587447?source=rss",
         "publishedAt": "2026-07-10T09:02:26.000Z"
+      },
+      {
+        "time": "18:55",
+        "title": "コメ 1年半ぶり5kg3500円下回る",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587456?source=rss",
+        "publishedAt": "2026-07-10T09:55:53.000Z"
+      },
+      {
+        "time": "18:26",
+        "title": "イトーヨーカドー運営 なぜ急回復",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587448?source=rss",
+        "publishedAt": "2026-07-10T09:26:51.000Z"
       },
       {
         "time": "17:10",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-07-10T07:18:53.000Z"
       },
       {
+        "time": "18:29",
+        "title": "女性2人殺害 男に無期懲役の判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587451?source=rss",
+        "publishedAt": "2026-07-10T09:29:54.000Z"
+      },
+      {
         "time": "17:33",
         "title": "死亡ひき逃げ事件 配送業の男逮捕",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587379?source=rss",
         "publishedAt": "2026-07-10T00:03:34.000Z"
-      },
-      {
-        "time": "06:08",
-        "title": "川底で発見された高校生2人 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587359?source=rss",
-        "publishedAt": "2026-07-09T21:08:06.000Z"
       },
       {
         "time": "17:38",

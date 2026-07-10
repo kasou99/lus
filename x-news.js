@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-10T09:14:38.783Z",
+  "updatedAt": "2026-07-10T10:33:57.133Z",
   "items": [
-    {
-      "time": "17:42",
-      "title": "台風 沖縄・先島諸島に11日最接近",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587442?source=rss",
-      "publishedAt": "2026-07-10T08:42:42.000Z",
-      "xQuery": "台風 沖縄・先島諸島に11日最接近"
-    },
     {
       "time": "18:02",
       "title": "地方税収50兆円超え 給与所得増で",
@@ -18,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "地方税収50兆円超え 給与所得増で"
     },
     {
-      "time": "17:23",
-      "title": "江別暴行死 少年ら2人の実刑確定",
+      "time": "17:42",
+      "title": "台風 沖縄・先島諸島に11日最接近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587439?source=rss",
-      "publishedAt": "2026-07-10T08:23:01.000Z",
-      "xQuery": "江別暴行死 少年ら2人の実刑確定"
+      "url": "https://news.yahoo.co.jp/pickup/6587442?source=rss",
+      "publishedAt": "2026-07-10T08:42:42.000Z",
+      "xQuery": "台風 沖縄・先島諸島に11日最接近"
     },
     {
       "time": "17:33",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "死亡ひき逃げ事件 配送業の男逮捕"
     },
     {
-      "time": "16:42",
-      "title": "モバイルSuica障害 払い戻し発表",
+      "time": "18:26",
+      "title": "イトーヨーカドー運営 なぜ急回復",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587435?source=rss",
-      "publishedAt": "2026-07-10T07:42:37.000Z",
-      "xQuery": "モバイルSuica障害 払い戻し発表"
+      "url": "https://news.yahoo.co.jp/pickup/6587448?source=rss",
+      "publishedAt": "2026-07-10T09:26:51.000Z",
+      "xQuery": "イトーヨーカドー運営 なぜ急回復"
+    },
+    {
+      "time": "18:40",
+      "title": "サンマ1匹21万6000円 客は驚き",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587455?source=rss",
+      "publishedAt": "2026-07-10T09:40:38.000Z",
+      "xQuery": "サンマ1匹21万6000円 客は驚き"
     }
   ]
 };
