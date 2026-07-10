@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-10T10:33:57.133Z",
+  "updatedAt": "2026-07-10T12:02:56.378Z",
   "items": [
     {
-      "time": "18:02",
-      "title": "地方税収50兆円超え 給与所得増で",
+      "time": "20:24",
+      "title": "西・東日本 週末に猛暑日が続出か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587446?source=rss",
-      "publishedAt": "2026-07-10T09:02:27.000Z",
-      "xQuery": "地方税収50兆円超え 給与所得増で"
+      "url": "https://news.yahoo.co.jp/pickup/6587465?source=rss",
+      "publishedAt": "2026-07-10T11:24:54.000Z",
+      "xQuery": "西・東日本 週末に猛暑日が続出か"
     },
     {
-      "time": "17:42",
-      "title": "台風 沖縄・先島諸島に11日最接近",
+      "time": "20:13",
+      "title": "悠仁さま 公的行事で8月広島訪問",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587442?source=rss",
-      "publishedAt": "2026-07-10T08:42:42.000Z",
-      "xQuery": "台風 沖縄・先島諸島に11日最接近"
+      "url": "https://news.yahoo.co.jp/pickup/6587461?source=rss",
+      "publishedAt": "2026-07-10T11:13:23.000Z",
+      "xQuery": "悠仁さま 公的行事で8月広島訪問"
     },
     {
-      "time": "17:33",
-      "title": "死亡ひき逃げ事件 配送業の男逮捕",
+      "time": "18:29",
+      "title": "女性2人殺害 男に無期懲役の判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587443?source=rss",
-      "publishedAt": "2026-07-10T08:33:16.000Z",
-      "xQuery": "死亡ひき逃げ事件 配送業の男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6587451?source=rss",
+      "publishedAt": "2026-07-10T09:29:54.000Z",
+      "xQuery": "女性2人殺害 男に無期懲役の判決"
     },
     {
-      "time": "18:26",
-      "title": "イトーヨーカドー運営 なぜ急回復",
+      "time": "20:53",
+      "title": "全東信が破産 飲食店の混乱拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587448?source=rss",
-      "publishedAt": "2026-07-10T09:26:51.000Z",
-      "xQuery": "イトーヨーカドー運営 なぜ急回復"
+      "url": "https://news.yahoo.co.jp/pickup/6587467?source=rss",
+      "publishedAt": "2026-07-10T11:53:14.000Z",
+      "xQuery": "全東信が破産 飲食店の混乱拡大"
     },
     {
       "time": "18:40",
