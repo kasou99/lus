@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-10T01:41:19.878Z",
+  "updatedAt": "2026-07-10T03:13:42.950Z",
   "items": [
     {
-      "time": "08:48",
-      "title": "内陸部中心に猛烈暑さ 熱中症警戒",
+      "time": "11:33",
+      "title": "台風警戒 沖縄で長時間暴風の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587377?source=rss",
-      "publishedAt": "2026-07-09T23:48:16.000Z",
-      "xQuery": "内陸部中心に猛烈暑さ 熱中症警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6587393?source=rss",
+      "publishedAt": "2026-07-10T02:33:50.000Z",
+      "xQuery": "台風警戒 沖縄で長時間暴風の恐れ"
     },
     {
-      "time": "08:15",
-      "title": "中道と立・公 早期合流に黄信号",
+      "time": "10:27",
+      "title": "「国旗損壊罪」案 対象なお不明確",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587373?source=rss",
-      "publishedAt": "2026-07-09T23:15:54.000Z",
-      "xQuery": "中道と立・公 早期合流に黄信号"
+      "url": "https://news.yahoo.co.jp/pickup/6587390?source=rss",
+      "publishedAt": "2026-07-10T01:27:19.000Z",
+      "xQuery": "「国旗損壊罪」案 対象なお不明確"
     },
     {
-      "time": "09:22",
-      "title": "放送局に株主圧力懸念 自民調査会",
+      "time": "11:37",
+      "title": "イラン トランプ氏の暗殺を計画か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587381?source=rss",
-      "publishedAt": "2026-07-10T00:22:47.000Z",
-      "xQuery": "放送局に株主圧力懸念 自民調査会"
+      "url": "https://news.yahoo.co.jp/pickup/6587394?source=rss",
+      "publishedAt": "2026-07-10T02:37:27.000Z",
+      "xQuery": "イラン トランプ氏の暗殺を計画か"
     },
     {
-      "time": "08:20",
-      "title": "全東信が破産 債権者の全63社判明",
+      "time": "12:07",
+      "title": "マンション下がけ崩れ 監視続ける",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587374?source=rss",
-      "publishedAt": "2026-07-09T23:20:01.000Z",
-      "xQuery": "全東信が破産 債権者の全63社判明"
+      "url": "https://news.yahoo.co.jp/pickup/6587400?source=rss",
+      "publishedAt": "2026-07-10T03:07:54.000Z",
+      "xQuery": "マンション下がけ崩れ 監視続ける"
     },
     {
-      "time": "09:03",
-      "title": "「トンネルで車Uターン」1人死亡",
+      "time": "10:38",
+      "title": "児童ら15人がハチに刺される 搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587379?source=rss",
-      "publishedAt": "2026-07-10T00:03:34.000Z",
-      "xQuery": "「トンネルで車Uターン」1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6587391?source=rss",
+      "publishedAt": "2026-07-10T01:38:20.000Z",
+      "xQuery": "児童ら15人がハチに刺される 搬送"
     }
   ]
 };
