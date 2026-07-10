@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-10T13:17:17.477Z",
+  "updatedAt": "2026-07-10T14:19:39.765Z",
   "items": [
     {
       "time": "20:24",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "西・東日本 週末に猛暑日が続出か"
     },
     {
-      "time": "20:13",
-      "title": "悠仁さま 公的行事で8月広島訪問",
+      "time": "22:17",
+      "title": "退職自衛官支援へ「庁」新設検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587461?source=rss",
-      "publishedAt": "2026-07-10T11:13:23.000Z",
-      "xQuery": "悠仁さま 公的行事で8月広島訪問"
+      "url": "https://news.yahoo.co.jp/pickup/6587472?source=rss",
+      "publishedAt": "2026-07-10T13:17:10.000Z",
+      "xQuery": "退職自衛官支援へ「庁」新設検討"
     },
     {
-      "time": "20:53",
-      "title": "全東信が破産 飲食店の混乱拡大",
+      "time": "22:32",
+      "title": "無罪決め手の証拠 検察5人は把握",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587467?source=rss",
-      "publishedAt": "2026-07-10T11:53:14.000Z",
-      "xQuery": "全東信が破産 飲食店の混乱拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6587459?source=rss",
+      "publishedAt": "2026-07-10T13:32:25.000Z",
+      "xQuery": "無罪決め手の証拠 検察5人は把握"
     },
     {
-      "time": "20:43",
-      "title": "鮎釣り中2人が川に流され 1人死亡",
+      "time": "22:37",
+      "title": "所得税7.8億円を脱税疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587466?source=rss",
-      "publishedAt": "2026-07-10T11:43:42.000Z",
-      "xQuery": "鮎釣り中2人が川に流され 1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6587474?source=rss",
+      "publishedAt": "2026-07-10T13:37:05.000Z",
+      "xQuery": "所得税7.8億円を脱税疑い 逮捕"
     },
     {
       "time": "21:54",
