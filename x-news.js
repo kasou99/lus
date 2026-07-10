@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-09T23:32:52.976Z",
+  "updatedAt": "2026-07-10T00:53:07.349Z",
   "items": [
     {
-      "time": "06:59",
-      "title": "台風9号あす沖縄最接近恐れ 警戒",
+      "time": "08:48",
+      "title": "内陸部中心に猛烈暑さ 熱中症警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587364?source=rss",
-      "publishedAt": "2026-07-09T21:59:27.000Z",
-      "xQuery": "台風9号あす沖縄最接近恐れ 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6587377?source=rss",
+      "publishedAt": "2026-07-09T23:48:16.000Z",
+      "xQuery": "内陸部中心に猛烈暑さ 熱中症警戒"
     },
     {
-      "time": "06:35",
-      "title": "米イラン 攻撃応酬で高まる緊張",
+      "time": "08:15",
+      "title": "中道と立・公 早期合流に黄信号",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587362?source=rss",
-      "publishedAt": "2026-07-09T21:35:31.000Z",
-      "xQuery": "米イラン 攻撃応酬で高まる緊張"
+      "url": "https://news.yahoo.co.jp/pickup/6587373?source=rss",
+      "publishedAt": "2026-07-09T23:15:54.000Z",
+      "xQuery": "中道と立・公 早期合流に黄信号"
     },
     {
       "time": "07:24",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "現役世代の社保料 引き下げ明記へ"
     },
     {
-      "time": "06:08",
-      "title": "川底で発見された高校生2人 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587359?source=rss",
-      "publishedAt": "2026-07-09T21:08:06.000Z",
-      "xQuery": "川底で発見された高校生2人 死亡"
-    },
-    {
       "time": "08:20",
       "title": "全東信が破産 債権者の全63社判明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587374?source=rss",
       "publishedAt": "2026-07-09T23:20:01.000Z",
       "xQuery": "全東信が破産 債権者の全63社判明"
+    },
+    {
+      "time": "09:03",
+      "title": "「トンネルで車Uターン」1人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587379?source=rss",
+      "publishedAt": "2026-07-10T00:03:34.000Z",
+      "xQuery": "「トンネルで車Uターン」1人死亡"
     }
   ]
 };

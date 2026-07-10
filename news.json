@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T23:32:52.006Z",
+  "updatedAt": "2026-07-10T00:53:06.551Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-07-09T08:08:00.000Z"
       },
       {
-        "time": "11:30",
-        "title": "ACサーボモーターコントローラの世界市場（2026年～2032年）、市場規模（永久磁石同期ACサーボモーター、非同期ACサーボモーター）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tc0R6LU1sUG5GSEZJNkhybnJPRWRFeXo1NF9aODdLT29KS3F6OC1NcWpMTkljazhUd1M5cnZEbmxkdXVzaEFF?oc=5",
-        "publishedAt": "2026-07-09T02:30:00.000Z"
-      },
-      {
         "time": "13:30",
         "title": "門型五面加工機のデジタルツイン基盤、加工前の事前検証を大幅効率化：工作機械",
         "source": "MONOist",
@@ -50,6 +43,13 @@
         "source": "jutaku-s.com",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XZHVEdFNkSWl4UGUzd0ZhQWt5c3hURXFQWVp1LXA1WE8wUUs0MXhCMGdCcy1zcmRkY2owNHZaeG04cjFTbUp0dkNHVTNpdVlWWFhfUUhn?oc=5",
         "publishedAt": "2026-07-09T07:00:00.000Z"
+      },
+      {
+        "time": "11:30",
+        "title": "ACサーボモーターコントローラの世界市場（2026年～2032年）、市場規模（永久磁石同期ACサーボモーター、非同期ACサーボモーター）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRdHBVa0hsYWROVUU3Z1BldFJqcllfQ2F2cmdMRDNIdGh2bmlRUUdHU3VZdFlHeTM3dXVBVC1qUThheElHNWhkUUFkYlc?oc=5",
+        "publishedAt": "2026-07-09T02:30:00.000Z"
       },
       {
         "time": "22:46",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "09:03",
+        "title": "「トンネルで車Uターン」1人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587379?source=rss",
+        "publishedAt": "2026-07-10T00:03:34.000Z"
+      },
+      {
         "time": "06:08",
         "title": "川底で発見された高校生2人 死亡",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587354?source=rss",
         "publishedAt": "2026-07-09T14:14:11.000Z"
-      },
-      {
-        "time": "14:38",
-        "title": "元特捜検事の不適切交際疑い 調査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587300?source=rss",
-        "publishedAt": "2026-07-09T05:38:51.000Z"
       },
       {
         "time": "17:01",
