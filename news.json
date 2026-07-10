@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T21:27:37.702Z",
+  "updatedAt": "2026-07-10T21:53:55.951Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-07-10T05:42:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "安川電の3－5月期、売上高1389億円 ACサーボモーター伸長",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55VWRkWGY1d3RHZVJSRzczQ0pKOFdZNXBmTy05Zm5QQ1dSR3NhWGpKLV9aNXZleWY5WmpBNUpIOVlka3hvaXdIS1gxWDRWX0ZsUXM3cGgtNXhheXM?oc=5",
-        "publishedAt": "2026-07-10T20:00:59.000Z"
-      },
-      {
         "time": "16:55",
         "title": "丸紅、スイス工作機械販社を完全子会社化",
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLX0tvdDVQQjFmbjBDOHo5R0JhUnhLeENTUk5sY2xmdF9qRGFEQXBQVEh3ZE03ZUxSRDNUY3laMUtTdVIxRUxrUA?oc=5",
         "publishedAt": "2026-07-10T07:55:37.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "安川電の3－5月期、売上高1389億円 ACサーボモーター伸長",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55VWRkWGY1d3RHZVJSRzczQ0pKOFdZNXBmTy05Zm5QQ1dSR3NhWGpKLV9aNXZleWY5WmpBNUpIOVlka3hvaXdIS1gxWDRWX0ZsUXM3cGgtNXhheXM?oc=5",
+        "publishedAt": "2026-07-10T20:00:59.000Z"
       },
       {
         "time": "03:10",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "06:48",
+        "title": "台風9号 暴風域の石垣島の様子は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587485?source=rss",
+        "publishedAt": "2026-07-10T21:48:01.000Z"
+      },
+      {
         "time": "17:23",
         "title": "江別暴行死 少年ら2人の実刑確定",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587443?source=rss",
         "publishedAt": "2026-07-10T08:33:16.000Z"
-      },
-      {
-        "time": "09:03",
-        "title": "「トンネルで車Uターン」1人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587379?source=rss",
-        "publishedAt": "2026-07-10T00:03:34.000Z"
       },
       {
         "time": "20:43",

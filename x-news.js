@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-10T21:27:38.865Z",
+  "updatedAt": "2026-07-10T21:53:56.820Z",
   "items": [
     {
-      "time": "23:32",
-      "title": "台風 石垣島など丸1日暴風域恐れ",
+      "time": "06:48",
+      "title": "台風9号 暴風域の石垣島の様子は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587476?source=rss",
-      "publishedAt": "2026-07-10T14:32:17.000Z",
-      "xQuery": "台風 石垣島など丸1日暴風域恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6587485?source=rss",
+      "publishedAt": "2026-07-10T21:48:01.000Z",
+      "xQuery": "台風9号 暴風域の石垣島の様子は"
     },
     {
-      "time": "22:17",
-      "title": "退職自衛官支援へ「庁」新設検討",
+      "time": "06:26",
+      "title": "米イラン協議 近く再開する可能性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587472?source=rss",
-      "publishedAt": "2026-07-10T13:17:10.000Z",
-      "xQuery": "退職自衛官支援へ「庁」新設検討"
+      "url": "https://news.yahoo.co.jp/pickup/6587484?source=rss",
+      "publishedAt": "2026-07-10T21:26:08.000Z",
+      "xQuery": "米イラン協議 近く再開する可能性"
     },
     {
       "time": "22:32",
