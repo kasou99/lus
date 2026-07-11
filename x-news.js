@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T13:35:07.574Z",
+  "updatedAt": "2026-07-11T14:31:01.910Z",
   "items": [
     {
       "time": "20:58",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 安倍氏の追悼集会で決意語る"
     },
     {
-      "time": "20:30",
-      "title": "米大統領 暗殺試みればイラン破壊",
+      "time": "18:09",
+      "title": "三河湾岸に新球場 反対住民提訴へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587592?source=rss",
-      "publishedAt": "2026-07-11T11:30:56.000Z",
-      "xQuery": "米大統領 暗殺試みればイラン破壊"
-    },
-    {
-      "time": "22:10",
-      "title": "「居酒屋」逆風 倒産が上半期最多",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587602?source=rss",
-      "publishedAt": "2026-07-11T13:10:00.000Z",
-      "xQuery": "「居酒屋」逆風 倒産が上半期最多"
+      "url": "https://news.yahoo.co.jp/pickup/6587578?source=rss",
+      "publishedAt": "2026-07-11T09:09:57.000Z",
+      "xQuery": "三河湾岸に新球場 反対住民提訴へ"
     },
     {
       "time": "21:48",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "クマが家の菓子食べる 眠れぬ住人"
     },
     {
-      "time": "20:20",
-      "title": "玩具店ハローマック なぜ消えた",
+      "time": "23:22",
+      "title": "釣り道具追いかけおぼれたか 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587590?source=rss",
-      "publishedAt": "2026-07-11T11:20:24.000Z",
-      "xQuery": "玩具店ハローマック なぜ消えた"
+      "url": "https://news.yahoo.co.jp/pickup/6587610?source=rss",
+      "publishedAt": "2026-07-11T14:22:07.000Z",
+      "xQuery": "釣り道具追いかけおぼれたか 死亡"
+    },
+    {
+      "time": "23:00",
+      "title": "1日千人使うバス廃止へ 住民困惑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587607?source=rss",
+      "publishedAt": "2026-07-11T14:00:35.000Z",
+      "xQuery": "1日千人使うバス廃止へ 住民困惑"
     }
   ]
 };
