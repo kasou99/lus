@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T08:39:43.778Z",
+  "updatedAt": "2026-07-11T09:36:07.169Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yZEhNTVcwTXNoWEdrcWt3Rk0xLUh4azB1T1o1WE9zcU0zN00wbEFVb1FIZFhLWmVodkZFMmY4WF9nOXhNM1AycDdGQzBHV1hVWWFkT3g0eVBqdmhzZi05Nm93WGVQUWpzckd1eEY3YTlpOUo3?oc=5",
         "publishedAt": "2026-07-10T20:30:00.000Z"
+      },
+      {
+        "time": "18:30",
+        "title": "非接触リニア磁気エンコーダの世界市場（2026年～2032年）、市場規模（アブソリュート型リニア磁気エンコーダ、インクリメンタル型リニア磁気エンコーダ）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80T1BCdWpUWWNUQ0w2a21taTBfckhmQlE1RmJFT0w1emJWd3MwUVZPandiaExyNkxWY3pPYWVUN3ZYMk1EbkdiZ0ZjQTFMV3c?oc=5",
+        "publishedAt": "2026-07-11T09:30:00.000Z"
       },
       {
         "time": "08:20",
@@ -38,13 +45,6 @@
         "publishedAt": "2026-07-10T10:55:00.000Z"
       },
       {
-        "time": "18:49",
-        "title": "【新トップ登場】ＴＡＫＩＳＡＷＡ 松田哲社長（５３） ボトムアップで課題解決",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hUHB0Uks4OVdibWdRVVJrSy1QRDZXUzNKRWRPbnN3cWFwUktya1hUSHJKcm5XWUR5YjJaYlFLbG9HSHpkZkgxQTFDM2FleUVlMUE?oc=5",
-        "publishedAt": "2026-07-10T09:49:18.000Z"
-      },
-      {
         "time": "05:30",
         "title": "日本自動車会議所、モータースポーツの魅力発信 委員会設置 クルマ文化醸成図る",
         "source": "日刊工業新聞",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-10T20:30:00.000Z"
       },
       {
-        "time": "15:18",
-        "title": "全東信が破産 契約店から憤りの声",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587556?source=rss",
-        "publishedAt": "2026-07-11T06:18:31.000Z"
+        "time": "18:49",
+        "title": "【新トップ登場】ＴＡＫＩＳＡＷＡ 松田哲社長（５３） ボトムアップで課題解決",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hUHB0Uks4OVdibWdRVVJrSy1QRDZXUzNKRWRPbnN3cWFwUktya1hUSHJKcm5XWUR5YjJaYlFLbG9HSHpkZkgxQTFDM2FleUVlMUE?oc=5",
+        "publishedAt": "2026-07-10T09:49:18.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "12:01",
-        "title": "台風9号7人ケガ 2万2000戸が停電",
+        "time": "17:45",
+        "title": "前静岡知事 リニア工事は万死に値",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587531?source=rss",
-        "publishedAt": "2026-07-11T03:01:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587576?source=rss",
+        "publishedAt": "2026-07-11T08:45:31.000Z"
+      },
+      {
+        "time": "18:09",
+        "title": "三河湾岸に新球場 反対住民提訴へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587578?source=rss",
+        "publishedAt": "2026-07-11T09:09:57.000Z"
       },
       {
         "time": "14:18",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587533?source=rss",
         "publishedAt": "2026-07-11T03:39:02.000Z"
-      },
-      {
-        "time": "09:19",
-        "title": "積み荷崩れ運転席潰れる 男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587508?source=rss",
-        "publishedAt": "2026-07-11T00:19:09.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T08:39:44.678Z",
+  "updatedAt": "2026-07-11T09:36:07.898Z",
   "items": [
     {
       "time": "16:27",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "全東信が破産 契約店から憤りの声"
     },
     {
+      "time": "17:45",
+      "title": "前静岡知事 リニア工事は万死に値",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587576?source=rss",
+      "publishedAt": "2026-07-11T08:45:31.000Z",
+      "xQuery": "前静岡知事 リニア工事は万死に値"
+    },
+    {
       "time": "15:48",
       "title": "宮崎麗果被告に判決へ 公判で釈明",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587567?source=rss",
       "publishedAt": "2026-07-11T07:47:07.000Z",
       "xQuery": "V字回復した大戸屋 社長交代の訳"
-    },
-    {
-      "time": "15:19",
-      "title": "多頭飼育の男性急死 保護団体奔走",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587557?source=rss",
-      "publishedAt": "2026-07-11T06:19:14.000Z",
-      "xQuery": "多頭飼育の男性急死 保護団体奔走"
     }
   ]
 };
