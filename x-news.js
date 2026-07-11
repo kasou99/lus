@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T05:54:50.928Z",
+  "updatedAt": "2026-07-11T06:54:16.290Z",
   "items": [
+    {
+      "time": "14:51",
+      "title": "台風 沖縄は暴風や大雨などに警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587554?source=rss",
+      "publishedAt": "2026-07-11T05:51:18.000Z",
+      "xQuery": "台風 沖縄は暴風や大雨などに警戒"
+    },
     {
       "time": "13:19",
       "title": "友好変わらず 習氏が正恩氏に書簡",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "友好変わらず 習氏が正恩氏に書簡"
     },
     {
-      "time": "12:20",
-      "title": "原爆の惨状伝える「異形の遺骨」",
+      "time": "15:18",
+      "title": "全東信が破産 契約店から憤りの声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587532?source=rss",
-      "publishedAt": "2026-07-11T03:20:45.000Z",
-      "xQuery": "原爆の惨状伝える「異形の遺骨」"
+      "url": "https://news.yahoo.co.jp/pickup/6587556?source=rss",
+      "publishedAt": "2026-07-11T06:18:31.000Z",
+      "xQuery": "全東信が破産 契約店から憤りの声"
     },
     {
       "time": "12:39",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587549?source=rss",
       "publishedAt": "2026-07-11T05:18:47.000Z",
       "xQuery": "唇縫う事件前 女性関係者警察相談"
-    },
-    {
-      "time": "14:44",
-      "title": "店の前で催涙スプレー 客ら20人咳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587551?source=rss",
-      "publishedAt": "2026-07-11T05:44:43.000Z",
-      "xQuery": "店の前で催涙スプレー 客ら20人咳"
     }
   ]
 };
