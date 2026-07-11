@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T04:35:51.664Z",
+  "updatedAt": "2026-07-11T05:54:50.928Z",
   "items": [
     {
-      "time": "12:01",
-      "title": "台風9号7人ケガ 2万2000戸が停電",
+      "time": "13:19",
+      "title": "友好変わらず 習氏が正恩氏に書簡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587531?source=rss",
-      "publishedAt": "2026-07-11T03:01:41.000Z",
-      "xQuery": "台風9号7人ケガ 2万2000戸が停電"
+      "url": "https://news.yahoo.co.jp/pickup/6587540?source=rss",
+      "publishedAt": "2026-07-11T04:19:41.000Z",
+      "xQuery": "友好変わらず 習氏が正恩氏に書簡"
     },
     {
       "time": "12:20",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首切断事件 現場ホテル厳しい現実"
     },
     {
-      "time": "13:16",
-      "title": "再使用ロケット実験機 着陸成功",
+      "time": "14:18",
+      "title": "唇縫う事件前 女性関係者警察相談",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587541?source=rss",
-      "publishedAt": "2026-07-11T04:16:34.000Z",
-      "xQuery": "再使用ロケット実験機 着陸成功"
+      "url": "https://news.yahoo.co.jp/pickup/6587549?source=rss",
+      "publishedAt": "2026-07-11T05:18:47.000Z",
+      "xQuery": "唇縫う事件前 女性関係者警察相談"
     },
     {
-      "time": "11:47",
-      "title": "ヘンリー王子一家 英国王と対面",
+      "time": "14:44",
+      "title": "店の前で催涙スプレー 客ら20人咳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587528?source=rss",
-      "publishedAt": "2026-07-11T02:47:54.000Z",
-      "xQuery": "ヘンリー王子一家 英国王と対面"
+      "url": "https://news.yahoo.co.jp/pickup/6587551?source=rss",
+      "publishedAt": "2026-07-11T05:44:43.000Z",
+      "xQuery": "店の前で催涙スプレー 客ら20人咳"
     }
   ]
 };

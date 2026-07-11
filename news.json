@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T04:35:50.666Z",
+  "updatedAt": "2026-07-11T05:54:50.336Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLX0tvdDVQQjFmbjBDOHo5R0JhUnhLeENTUk5sY2xmdF9qRGFEQXBQVEh3ZE03ZUxSRDNUY3laMUtTdVIxRUxrUA?oc=5",
         "publishedAt": "2026-07-10T07:55:37.000Z"
-      },
-      {
-        "time": "14:42",
-        "title": "丸紅－3日続落 インド工作機械需要を開拓 データ拠点拡大で半導体製造活況＝日経(トレーダーズ・ウェブ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmNGemxmQ3JLX1RqRWFZR3lSeFd5SHZPanhHY3RNLUVYRk5rOHBMdzZNVlBwVC1lQWNwNHVTX0NGekZLZVA4WTN2SDdHMDladThrWUZNblVXcEp2b1JQa0RXUm4yN0NSeG8wZU0tRUVhZFFqbHBFbi1tWVlLNjRLTXo4MVE0TVk?oc=5",
-        "publishedAt": "2026-07-10T05:42:00.000Z"
       },
       {
         "time": "08:20",
@@ -57,6 +50,13 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hUHB0Uks4OVdibWdRVVJrSy1QRDZXUzNKRWRPbnN3cWFwUktya1hUSHJKcm5XWUR5YjJaYlFLbG9HSHpkZkgxQTFDM2FleUVlMUE?oc=5",
         "publishedAt": "2026-07-10T09:49:18.000Z"
+      },
+      {
+        "time": "17:08",
+        "title": "油圧ショベルトラック市場規模は2026年1264百万米ドル、成長率6.3%で拡大予測｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oWHFCYktmZGYyZFhnQUxPVE5GTmxnRGR4ZnU2aDUxQmpDb2FBalc0OWNXT1N2Zm8wYUZCS1YyTktkWGdvTENWNUh0TGlKYVhmVnpXUEZLQQ?oc=5",
+        "publishedAt": "2026-07-10T08:08:18.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-07-10T22:31:14.000Z"
       },
       {
+        "time": "13:47",
+        "title": "新幹線に「弱冷房車」JR東海見解",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587544?source=rss",
+        "publishedAt": "2026-07-11T04:47:20.000Z"
+      },
+      {
         "time": "09:47",
         "title": "映画席の予約巡る迷惑行為 議論",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587518?source=rss",
         "publishedAt": "2026-07-11T01:14:54.000Z"
-      },
-      {
-        "time": "18:26",
-        "title": "イトーヨーカドー運営 なぜ急回復",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587448?source=rss",
-        "publishedAt": "2026-07-10T09:26:51.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,11 +156,18 @@
         "publishedAt": "2026-07-11T03:01:41.000Z"
       },
       {
-        "time": "08:46",
-        "title": "高波にさらわれ2人けが 宮古島市",
+        "time": "14:18",
+        "title": "唇縫う事件前 女性関係者警察相談",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587503?source=rss",
-        "publishedAt": "2026-07-10T23:46:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587549?source=rss",
+        "publishedAt": "2026-07-11T05:18:47.000Z"
+      },
+      {
+        "time": "13:53",
+        "title": "波にさらわれ50代男性死亡 静岡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587545?source=rss",
+        "publishedAt": "2026-07-11T04:53:20.000Z"
       },
       {
         "time": "12:39",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587516?source=rss",
         "publishedAt": "2026-07-11T00:58:28.000Z"
-      },
-      {
-        "time": "07:24",
-        "title": "取り調べで罵倒 検察官が無罪主張",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587491?source=rss",
-        "publishedAt": "2026-07-10T22:24:04.000Z"
       }
     ],
     "subsidyHeadlines": [
