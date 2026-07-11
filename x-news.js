@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T20:48:42.818Z",
+  "updatedAt": "2026-07-11T21:20:52.182Z",
   "items": [
     {
       "time": "22:42",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587605?source=rss",
       "publishedAt": "2026-07-11T13:42:24.000Z",
       "xQuery": "特別国会ヤマ場 重要法案積み残し"
-    },
-    {
-      "time": "20:58",
-      "title": "首相 安倍氏の追悼集会で決意語る",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587593?source=rss",
-      "publishedAt": "2026-07-11T11:58:14.000Z",
-      "xQuery": "首相 安倍氏の追悼集会で決意語る"
     },
     {
       "time": "23:48",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587607?source=rss",
       "publishedAt": "2026-07-11T14:00:35.000Z",
       "xQuery": "1日千人使うバス廃止へ 住民困惑"
+    },
+    {
+      "time": "21:31",
+      "title": "モンストを欧州展開 MIXIが検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587597?source=rss",
+      "publishedAt": "2026-07-11T12:31:35.000Z",
+      "xQuery": "モンストを欧州展開 MIXIが検討"
     }
   ]
 };
