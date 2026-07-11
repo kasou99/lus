@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T12:26:03.365Z",
+  "updatedAt": "2026-07-11T12:52:17.117Z",
   "items": [
     {
       "time": "20:58",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "花火大会 警備費増で苦渋の判断"
     },
     {
-      "time": "19:13",
-      "title": "パンチ君の公立動物園 地道な工夫",
+      "time": "20:20",
+      "title": "玩具店ハローマック なぜ消えた",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587583?source=rss",
-      "publishedAt": "2026-07-11T10:13:11.000Z",
-      "xQuery": "パンチ君の公立動物園 地道な工夫"
+      "url": "https://news.yahoo.co.jp/pickup/6587590?source=rss",
+      "publishedAt": "2026-07-11T11:20:24.000Z",
+      "xQuery": "玩具店ハローマック なぜ消えた"
     }
   ]
 };
