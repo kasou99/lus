@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-11T17:50:17.085Z",
+  "updatedAt": "2026-07-11T18:23:52.626Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "12:24",
+        "title": "【設備保全】コスモ石油、堺製油所で四足歩行ロボットを活用した設備点検のPoC開始",
+        "source": "ctiweb.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNNWtJUEE2T21rWENxenRSTHBEYlRidEl5Qml5bmQtYnVqWXZRNXlMbXZ3bHVFMnJtNWgtWm1sU0hBdlhLX1BHX3V4aVpRT3ZlbzlWRjBwdHhsMEg3ZDZuX3pNU3lnbWRoci1QczhlVkhDUl9GWERkMS1LYmcwaTFfQ3A4ZXNBdmNJcVBTemtmUm5YRkYxYjFSWFpEcVc0SVFEaWZ6UWdQdkpXVGFldW5UaDBIRDl2U2tFN0tpSXRVZk9BaUpGX0NCUlRTcnd0elBHV2F4VDhaazBTbktBQWtkeEY5Q2cwSGhVSzJQOHoyNzNDUjlTeUpva1BKdC10OGhoT0oyT0V5RkVBR3RpVmFGTURreDhaMlpBWkxvRXFWdGI4aFplazhXdEV4S2pJRWJyR3dULTVkYk9QRlFXMkl6LXJPbWNiREhXTGo3aEVQQjlQQ25LV0E?oc=5",
+        "publishedAt": "2026-07-11T03:24:43.000Z"
+      },
       {
         "time": "07:30",
         "title": "丸紅、工作機械販社を買収 数百億円投じ海外に販路 新興国の半導体需要狙う",
@@ -50,13 +57,6 @@
         "source": "t.co",
         "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB5b3hkNnFFZGltS3YxOF9sdjRzMUpHMTlKRmFKVC10LW5kM0txWG1HSHkzV0tWNVRrZzIw?oc=5",
         "publishedAt": "2026-07-11T08:20:37.000Z"
-      },
-      {
-        "time": "15:18",
-        "title": "全東信が破産 契約店から憤りの声",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587556?source=rss",
-        "publishedAt": "2026-07-11T06:18:31.000Z"
       }
     ],
     "worldHeadlines": [
