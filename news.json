@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T11:26:05.022Z",
+  "updatedAt": "2026-07-11T11:50:20.805Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-07-10T22:30:00.000Z"
       },
       {
-        "time": "18:30",
-        "title": "非接触リニア磁気エンコーダの世界市場（2026年～2032年）、市場規模（アブソリュート型リニア磁気エンコーダ、インクリメンタル型リニア磁気エンコーダ）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80T1BCdWpUWWNUQ0w2a21taTBfckhmQlE1RmJFT0w1emJWd3MwUVZPandiaExyNkxWY3pPYWVUN3ZYMk1EbkdiZ0ZjQTFMV3c?oc=5",
-        "publishedAt": "2026-07-11T09:30:00.000Z"
-      },
-      {
         "time": "05:30",
         "title": "安川電の3－5月期、売上高1389億円 ACサーボモーター伸長",
         "source": "日刊工業新聞",
@@ -24,11 +17,11 @@
         "publishedAt": "2026-07-10T20:30:00.000Z"
       },
       {
-        "time": "03:10",
-        "title": "『装置の近くや内部に置きたいAIエッジサーバー・PC、設置スペースは十分ですか？』というテーマのウェビナーを開催",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLalFwc1F0OVpuakxzaFpZeW5hUnVCVmpBWU1TblpyNERGdWlLTXFCUjVZdUl1OUZFVkVMRHdjOGJLaFAzaTlEOHV5aC15b01temczbXVuLWVlbE9Td1VHTHI5cU5saktiXzEw?oc=5",
-        "publishedAt": "2026-07-10T18:10:00.000Z"
+        "time": "18:30",
+        "title": "非接触リニア磁気エンコーダの世界市場（2026年～2032年）、市場規模（アブソリュート型リニア磁気エンコーダ、インクリメンタル型リニア磁気エンコーダ）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80T1BCdWpUWWNUQ0w2a21taTBfckhmQlE1RmJFT0w1emJWd3MwUVZPandiaExyNkxWY3pPYWVUN3ZYMk1EbkdiZ0ZjQTFMV3c?oc=5",
+        "publishedAt": "2026-07-11T09:30:00.000Z"
       },
       {
         "time": "08:20",
@@ -36,6 +29,13 @@
         "source": "ハフポスト",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wcFpLOGp1N3REOVg5UlVNb3Nob00wWmFKLTI2WXhzS2FRRlhqRkdRQThmZHlZVnEwYmJYMm1vNEdSVWVCSDZKZkZSUFpWWEhiNmpJNzRCV1k0UWlJWE1kTi1zSFVNeFVLellvd0VfWUFBeHkzOFRFWQ?oc=5",
         "publishedAt": "2026-07-10T23:20:57.000Z"
+      },
+      {
+        "time": "03:10",
+        "title": "『装置の近くや内部に置きたいAIエッジサーバー・PC、設置スペースは十分ですか？』というテーマのウェビナーを開催",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLalFwc1F0OVpuakxzaFpZeW5hUnVCVmpBWU1TblpyNERGdWlLTXFCUjVZdUl1OUZFVkVMRHdjOGJLaFAzaTlEOHV5aC15b01temczbXVuLWVlbE9Td1VHTHI5cU5saktiXzEw?oc=5",
+        "publishedAt": "2026-07-10T18:10:00.000Z"
       },
       {
         "time": "05:30",
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "20:11",
-        "title": "米大統領 自身暗殺ならイラン壊滅",
+        "time": "20:30",
+        "title": "米大統領 暗殺試みればイラン破壊",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587588?source=rss",
-        "publishedAt": "2026-07-11T11:11:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587592?source=rss",
+        "publishedAt": "2026-07-11T11:30:56.000Z"
       },
       {
         "time": "06:26",
