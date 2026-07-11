@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T00:46:23.485Z",
+  "updatedAt": "2026-07-11T01:39:58.552Z",
   "items": [
     {
       "time": "08:51",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "九州で38℃予想も 各地で気温上昇"
     },
     {
-      "time": "09:14",
-      "title": "中国 ヘリウム輸出を一時禁止",
+      "time": "08:46",
+      "title": "高波にさらわれ2人けが 宮古島市",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587509?source=rss",
-      "publishedAt": "2026-07-11T00:14:34.000Z",
-      "xQuery": "中国 ヘリウム輸出を一時禁止"
-    },
-    {
-      "time": "08:29",
-      "title": "老舗うなぎ店で火事 千葉・成田山",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587500?source=rss",
-      "publishedAt": "2026-07-10T23:29:24.000Z",
-      "xQuery": "老舗うなぎ店で火事 千葉・成田山"
+      "url": "https://news.yahoo.co.jp/pickup/6587503?source=rss",
+      "publishedAt": "2026-07-10T23:46:17.000Z",
+      "xQuery": "高波にさらわれ2人けが 宮古島市"
     },
     {
       "time": "09:28",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587508?source=rss",
       "publishedAt": "2026-07-11T00:19:09.000Z",
       "xQuery": "積み荷崩れ運転席潰れる 男性死亡"
+    },
+    {
+      "time": "09:58",
+      "title": "10代の男女2人はねられる 1人重傷",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587516?source=rss",
+      "publishedAt": "2026-07-11T00:58:28.000Z",
+      "xQuery": "10代の男女2人はねられる 1人重傷"
     }
   ]
 };

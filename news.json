@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T00:46:22.805Z",
+  "updatedAt": "2026-07-11T01:39:57.679Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-07-10T02:02:44.000Z"
       },
       {
+        "time": "16:55",
+        "title": "丸紅、スイス工作機械販社を完全子会社化",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLX0tvdDVQQjFmbjBDOHo5R0JhUnhLeENTUk5sY2xmdF9qRGFEQXBQVEh3ZE03ZUxSRDNUY3laMUtTdVIxRUxrUA?oc=5",
+        "publishedAt": "2026-07-10T07:55:37.000Z"
+      },
+      {
         "time": "14:42",
         "title": "丸紅－3日続落 インド工作機械需要を開拓 データ拠点拡大で半導体製造活況＝日経(トレーダーズ・ウェブ)",
         "source": "Yahoo!ファイナンス",
@@ -36,13 +43,6 @@
         "source": "第一ライフ資産運用経済研究所",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuOFBlZUJIZ0NaVlppSGg1RjkyMDh6OWxxUnpGSFJ6YUZraEs1cjFabUVCXzFHVlBGOVNUZEhWcVVYSjhBeVYtdmhlMWtvNzV1eFlUWEVPeHF6RXM?oc=5",
         "publishedAt": "2026-07-10T02:30:03.000Z"
-      },
-      {
-        "time": "16:55",
-        "title": "丸紅、スイス工作機械販社を完全子会社化",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLX0tvdDVQQjFmbjBDOHo5R0JhUnhLeENTUk5sY2xmdF9qRGFEQXBQVEh3ZE03ZUxSRDNUY3laMUtTdVIxRUxrUA?oc=5",
-        "publishedAt": "2026-07-10T07:55:37.000Z"
       },
       {
         "time": "08:20",
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "12:36",
-        "title": "成田新滑走路巡り土地収用申請へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587412?source=rss",
-        "publishedAt": "2026-07-10T03:36:40.000Z"
-      },
-      {
         "time": "20:53",
         "title": "全東信が破産 飲食店の混乱拡大",
         "source": "Yahoo!ニュース",
@@ -126,13 +119,6 @@
         "publishedAt": "2026-07-10T04:37:50.000Z"
       },
       {
-        "time": "18:02",
-        "title": "東京Dシティ事故 遊園地を再開へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587447?source=rss",
-        "publishedAt": "2026-07-10T09:02:26.000Z"
-      },
-      {
         "time": "22:37",
         "title": "所得税7.8億円を脱税疑い 逮捕",
         "source": "Yahoo!ニュース",
@@ -145,6 +131,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587492?source=rss",
         "publishedAt": "2026-07-10T22:31:14.000Z"
+      },
+      {
+        "time": "09:47",
+        "title": "映画席の予約巡る迷惑行為 議論",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587515?source=rss",
+        "publishedAt": "2026-07-11T00:47:03.000Z"
+      },
+      {
+        "time": "10:14",
+        "title": "成城石井ソーセージ回収 腐敗恐れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587518?source=rss",
+        "publishedAt": "2026-07-11T01:14:54.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,11 +170,11 @@
         "publishedAt": "2026-07-10T23:46:17.000Z"
       },
       {
-        "time": "17:23",
-        "title": "江別暴行死 少年ら2人の実刑確定",
+        "time": "09:58",
+        "title": "10代の男女2人はねられる 1人重傷",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587439?source=rss",
-        "publishedAt": "2026-07-10T08:23:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587516?source=rss",
+        "publishedAt": "2026-07-11T00:58:28.000Z"
       },
       {
         "time": "07:24",
