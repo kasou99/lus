@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T11:50:21.360Z",
+  "updatedAt": "2026-07-11T12:26:03.365Z",
   "items": [
     {
-      "time": "17:28",
-      "title": "皇室典範巡り 中道立憲賛否割れる",
+      "time": "20:58",
+      "title": "首相 安倍氏の追悼集会で決意語る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587570?source=rss",
-      "publishedAt": "2026-07-11T08:28:18.000Z",
-      "xQuery": "皇室典範巡り 中道立憲賛否割れる"
+      "url": "https://news.yahoo.co.jp/pickup/6587593?source=rss",
+      "publishedAt": "2026-07-11T11:58:14.000Z",
+      "xQuery": "首相 安倍氏の追悼集会で決意語る"
     },
     {
       "time": "18:46",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 暗殺試みればイラン破壊"
     },
     {
-      "time": "17:45",
-      "title": "前静岡知事 リニア工事は万死に値",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587576?source=rss",
-      "publishedAt": "2026-07-11T08:45:31.000Z",
-      "xQuery": "前静岡知事 リニア工事は万死に値"
-    },
-    {
       "time": "17:28",
       "title": "花火大会 警備費増で苦渋の判断",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587573?source=rss",
       "publishedAt": "2026-07-11T08:28:18.000Z",
       "xQuery": "花火大会 警備費増で苦渋の判断"
+    },
+    {
+      "time": "19:13",
+      "title": "パンチ君の公立動物園 地道な工夫",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587583?source=rss",
+      "publishedAt": "2026-07-11T10:13:11.000Z",
+      "xQuery": "パンチ君の公立動物園 地道な工夫"
     }
   ]
 };
