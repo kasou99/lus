@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-10T23:50:28.813Z",
+  "updatedAt": "2026-07-11T00:46:23.485Z",
   "items": [
     {
-      "time": "07:20",
-      "title": "台風9号が先島諸島に最接近 警戒",
+      "time": "08:51",
+      "title": "九州で38℃予想も 各地で気温上昇",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587489?source=rss",
-      "publishedAt": "2026-07-10T22:20:58.000Z",
-      "xQuery": "台風9号が先島諸島に最接近 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6587506?source=rss",
+      "publishedAt": "2026-07-10T23:51:12.000Z",
+      "xQuery": "九州で38℃予想も 各地で気温上昇"
     },
     {
-      "time": "08:26",
-      "title": "Apple 営業秘密流用でOpenAI提訴",
+      "time": "09:14",
+      "title": "中国 ヘリウム輸出を一時禁止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587501?source=rss",
-      "publishedAt": "2026-07-10T23:26:40.000Z",
-      "xQuery": "Apple 営業秘密流用でOpenAI提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6587509?source=rss",
+      "publishedAt": "2026-07-11T00:14:34.000Z",
+      "xQuery": "中国 ヘリウム輸出を一時禁止"
     },
     {
       "time": "08:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "老舗うなぎ店で火事 千葉・成田山"
     },
     {
-      "time": "07:31",
-      "title": "ビル1室で3千社起業 経営実態は?",
+      "time": "09:28",
+      "title": "欧州機 上空で客の体一部が機外に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587492?source=rss",
-      "publishedAt": "2026-07-10T22:31:14.000Z",
-      "xQuery": "ビル1室で3千社起業 経営実態は?"
+      "url": "https://news.yahoo.co.jp/pickup/6587512?source=rss",
+      "publishedAt": "2026-07-11T00:28:34.000Z",
+      "xQuery": "欧州機 上空で客の体一部が機外に"
     },
     {
-      "time": "08:29",
-      "title": "2Eギフテッド 抱える生きづらさ",
+      "time": "09:19",
+      "title": "積み荷崩れ運転席潰れる 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587504?source=rss",
-      "publishedAt": "2026-07-10T23:29:50.000Z",
-      "xQuery": "2Eギフテッド 抱える生きづらさ"
+      "url": "https://news.yahoo.co.jp/pickup/6587508?source=rss",
+      "publishedAt": "2026-07-11T00:19:09.000Z",
+      "xQuery": "積み荷崩れ運転席潰れる 男性死亡"
     }
   ]
 };
