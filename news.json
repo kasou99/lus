@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T20:21:42.488Z",
+  "updatedAt": "2026-07-11T20:48:42.075Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGJwVEU5dUhPT1lzSGVTRERnQnJLV2ZXTXYteTZnaVdybGs2bG1Sa1lGSTJ4VEVVOG8xYWFpSlNURzE1SHJkbEFVSzhYYThIQVNCa25GN2hHdVloaER5a2dfVzNaUnV0Y2xMUTU3VWs1ckJTSEdfeVFNaVBrNzFBT1AxbUJpTjB1eWdQbGZIdW5NSDUzN2EzNWhtb24yTDBYTGc?oc=5",
         "publishedAt": "2026-07-10T22:30:00.000Z"
-      },
-      {
-        "time": "05:30",
-        "title": "安川電の3－5月期、売上高1389億円 ACサーボモーター伸長",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yZEhNTVcwTXNoWEdrcWt3Rk0xLUh4azB1T1o1WE9zcU0zN00wbEFVb1FIZFhLWmVodkZFMmY4WF9nOXhNM1AycDdGQzBHV1hVWWFkT3g0eVBqdmhzZi05Nm93WGVQUWpzckd1eEY3YTlpOUo3?oc=5",
-        "publishedAt": "2026-07-10T20:30:00.000Z"
       },
       {
         "time": "18:30",
@@ -38,13 +31,6 @@
         "publishedAt": "2026-07-10T23:20:57.000Z"
       },
       {
-        "time": "05:30",
-        "title": "日本自動車会議所、モータースポーツの魅力発信 委員会設置 クルマ文化醸成図る",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OazVXNm9mdzlJajlFNzIzdVVuWXJuT25MMVVSNkJrY1pCa1pwRUlocEFab2o5blJ2cXh4cXlldnpVNGVhczZKNlcyN2prNUtoekJGYjBOdU1SdUh2RFlOOG9yNEtKeTRXZGpxRzU2QmlncF9M?oc=5",
-        "publishedAt": "2026-07-10T20:30:00.000Z"
-      },
-      {
         "time": "22:39",
         "title": "牟礼斎場を休場 高松市、再開時期は未定｜四国新聞WEB朝刊",
         "source": "四国新聞",
@@ -57,6 +43,20 @@
         "source": "t.co",
         "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB5b3hkNnFFZGltS3YxOF9sdjRzMUpHMTlKRmFKVC10LW5kM0txWG1HSHkzV0tWNVRrZzIw?oc=5",
         "publishedAt": "2026-07-11T08:20:37.000Z"
+      },
+      {
+        "time": "15:18",
+        "title": "全東信が破産 契約店から憤りの声",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587556?source=rss",
+        "publishedAt": "2026-07-11T06:18:31.000Z"
+      },
+      {
+        "time": "21:31",
+        "title": "モンストを欧州展開 MIXIが検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587597?source=rss",
+        "publishedAt": "2026-07-11T12:31:35.000Z"
       }
     ],
     "worldHeadlines": [
