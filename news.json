@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-07-11T15:24:42.478Z",
+  "updatedAt": "2026-07-11T15:49:51.564Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "12:24",
-        "title": "【設備保全】コスモ石油、堺製油所で四足歩行ロボットを活用した設備点検のPoC開始",
-        "source": "ctiweb.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNNWtJUEE2T21rWENxenRSTHBEYlRidEl5Qml5bmQtYnVqWXZRNXlMbXZ3bHVFMnJtNWgtWm1sU0hBdlhLX1BHX3V4aVpRT3ZlbzlWRjBwdHhsMEg3ZDZuX3pNU3lnbWRoci1QczhlVkhDUl9GWERkMS1LYmcwaTFfQ3A4ZXNBdmNJcVBTemtmUm5YRkYxYjFSWFpEcVc0SVFEaWZ6UWdQdkpXVGFldW5UaDBIRDl2U2tFN0tpSXRVZk9BaUpGX0NCUlRTcnd0elBHV2F4VDhaazBTbktBQWtkeEY5Q2cwSGhVSzJQOHoyNzNDUjlTeUpva1BKdC10OGhoT0oyT0V5RkVBR3RpVmFGTURreDhaMlpBWkxvRXFWdGI4aFplazhXdEV4S2pJRWJyR3dULTVkYk9QRlFXMkl6LXJPbWNiREhXTGo3aEVQQjlQQ25LV0E?oc=5",
-        "publishedAt": "2026-07-11T03:24:43.000Z"
-      },
       {
         "time": "07:30",
         "title": "丸紅、工作機械販社を買収 数百億円投じ海外に販路 新興国の半導体需要狙う",
@@ -24,11 +17,11 @@
         "publishedAt": "2026-07-10T20:30:00.000Z"
       },
       {
-        "time": "06:05",
+        "time": "06:00",
         "title": "Snow Man深澤辰哉、2週連続『サクヒム』参戦で“シル活”にドハマリ パンサー尾形の娘相手に「大人の交換見せるわ」",
         "source": "オリコンニュース",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLS0I4RTJjenBVMlBfV3lJd2JRNkVibjRKQktrMFJmdHBRNnRLVFZXaXZ6Z1hnbnFyUlRfZHpyaFJvb1I5RXNXTkdDdldEQVVFOTNCVFplbldkZw?oc=5",
-        "publishedAt": "2026-07-10T21:05:10.000Z"
+        "publishedAt": "2026-07-10T21:00:00.000Z"
       },
       {
         "time": "18:30",
@@ -57,6 +50,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OazVXNm9mdzlJajlFNzIzdVVuWXJuT25MMVVSNkJrY1pCa1pwRUlocEFab2o5blJ2cXh4cXlldnpVNGVhczZKNlcyN2prNUtoekJGYjBOdU1SdUh2RFlOOG9yNEtKeTRXZGpxRzU2QmlncF9M?oc=5",
         "publishedAt": "2026-07-10T20:30:00.000Z"
+      },
+      {
+        "time": "17:20",
+        "title": "【工場保全・製造業必見】なぜ油圧作動油や切削油が届かない？産業機械向け潤滑油の今後の供給見通しと中小工場が取るべき対策",
+        "source": "t.co",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB5b3hkNnFFZGltS3YxOF9sdjRzMUpHMTlKRmFKVC10LW5kM0txWG1HSHkzV0tWNVRrZzIw?oc=5",
+        "publishedAt": "2026-07-11T08:20:37.000Z"
       }
     ],
     "worldHeadlines": [
