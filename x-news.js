@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T03:10:50.788Z",
+  "updatedAt": "2026-07-11T04:35:51.664Z",
   "items": [
     {
       "time": "12:01",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "台風9号7人ケガ 2万2000戸が停電"
     },
     {
-      "time": "10:41",
-      "title": "ベネズエラ地震 死者数4100人超",
+      "time": "12:20",
+      "title": "原爆の惨状伝える「異形の遺骨」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587520?source=rss",
-      "publishedAt": "2026-07-11T01:41:23.000Z",
-      "xQuery": "ベネズエラ地震 死者数4100人超"
+      "url": "https://news.yahoo.co.jp/pickup/6587532?source=rss",
+      "publishedAt": "2026-07-11T03:20:45.000Z",
+      "xQuery": "原爆の惨状伝える「異形の遺骨」"
     },
     {
-      "time": "09:28",
-      "title": "欧州機 上空で客の体一部が機外に",
+      "time": "12:39",
+      "title": "首切断事件 現場ホテル厳しい現実",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587512?source=rss",
-      "publishedAt": "2026-07-11T00:28:34.000Z",
-      "xQuery": "欧州機 上空で客の体一部が機外に"
+      "url": "https://news.yahoo.co.jp/pickup/6587533?source=rss",
+      "publishedAt": "2026-07-11T03:39:02.000Z",
+      "xQuery": "首切断事件 現場ホテル厳しい現実"
     },
     {
-      "time": "09:19",
-      "title": "積み荷崩れ運転席潰れる 男性死亡",
+      "time": "13:16",
+      "title": "再使用ロケット実験機 着陸成功",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587508?source=rss",
-      "publishedAt": "2026-07-11T00:19:09.000Z",
-      "xQuery": "積み荷崩れ運転席潰れる 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6587541?source=rss",
+      "publishedAt": "2026-07-11T04:16:34.000Z",
+      "xQuery": "再使用ロケット実験機 着陸成功"
     },
     {
-      "time": "11:01",
-      "title": "歯の治療 保険適用外選ぶ患者増",
+      "time": "11:47",
+      "title": "ヘンリー王子一家 英国王と対面",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587525?source=rss",
-      "publishedAt": "2026-07-11T02:01:20.000Z",
-      "xQuery": "歯の治療 保険適用外選ぶ患者増"
+      "url": "https://news.yahoo.co.jp/pickup/6587528?source=rss",
+      "publishedAt": "2026-07-11T02:47:54.000Z",
+      "xQuery": "ヘンリー王子一家 英国王と対面"
     }
   ]
 };

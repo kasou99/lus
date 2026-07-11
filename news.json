@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T03:10:50.030Z",
+  "updatedAt": "2026-07-11T04:35:50.666Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,14 +52,21 @@
         "publishedAt": "2026-07-10T10:55:00.000Z"
       },
       {
-        "time": "13:00",
-        "title": "AIエージェントのSMT工程改善分析サービス、熟練者依存を低下 東芝：製造現場向けAI技術",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSejd6UkZaYVdXQjd3Nkk4MDdlUnJvQjVYSDgtMVY5SWZJcHdwUXBmVHl5QkZ4d29LVWNXTVczY19hN2J4WU9WTUpseGdFLVVoMHBMbTRac1M4NWxSX2ZWQmtfWlFsbFJGRkwyeldqUQ?oc=5",
-        "publishedAt": "2026-07-10T04:00:00.000Z"
+        "time": "18:49",
+        "title": "【新トップ登場】ＴＡＫＩＳＡＷＡ 松田哲社長（５３） ボトムアップで課題解決",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hUHB0Uks4OVdibWdRVVJrSy1QRDZXUzNKRWRPbnN3cWFwUktya1hUSHJKcm5XWUR5YjJaYlFLbG9HSHpkZkgxQTFDM2FleUVlMUE?oc=5",
+        "publishedAt": "2026-07-10T09:49:18.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "13:19",
+        "title": "友好変わらず 習氏が正恩氏に書簡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587540?source=rss",
+        "publishedAt": "2026-07-11T04:19:41.000Z"
+      },
       {
         "time": "06:26",
         "title": "米イラン協議 近く再開する可能性",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587426?source=rss",
         "publishedAt": "2026-07-10T05:58:51.000Z"
-      },
-      {
-        "time": "12:46",
-        "title": "旧統一総裁に懲役13年求刑 韓国",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587409?source=rss",
-        "publishedAt": "2026-07-10T03:46:29.000Z"
       },
       {
         "time": "10:41",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-07-10T23:46:17.000Z"
       },
       {
+        "time": "12:39",
+        "title": "首切断事件 現場ホテル厳しい現実",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587533?source=rss",
+        "publishedAt": "2026-07-11T03:39:02.000Z"
+      },
+      {
         "time": "09:19",
         "title": "積み荷崩れ運転席潰れる 男性死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587491?source=rss",
         "publishedAt": "2026-07-10T22:24:04.000Z"
-      },
-      {
-        "time": "08:29",
-        "title": "老舗うなぎ店で火事 千葉・成田山",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587500?source=rss",
-        "publishedAt": "2026-07-10T23:29:24.000Z"
       }
     ],
     "subsidyHeadlines": [
