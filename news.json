@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T18:50:08.595Z",
+  "updatedAt": "2026-07-11T19:28:12.166Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yZEhNTVcwTXNoWEdrcWt3Rk0xLUh4azB1T1o1WE9zcU0zN00wbEFVb1FIZFhLWmVodkZFMmY4WF9nOXhNM1AycDdGQzBHV1hVWWFkT3g0eVBqdmhzZi05Nm93WGVQUWpzckd1eEY3YTlpOUo3?oc=5",
         "publishedAt": "2026-07-10T20:30:00.000Z"
-      },
-      {
-        "time": "21:10",
-        "title": "『装置の近くや内部に置きたいAIエッジサーバー・PC、設置スペースは十分ですか？』というテーマのウェビナーを開催",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNamd4ekFxa0h4a0dlZjBhR21Nb0tVa2hTTm5Gd011SjdsLThvNXlmVGp0d2hDMFJ4ekVwdm5CdV9aU3RTWEItcFhVRGhUbGtjeFJEM3BiWVJiOVFuRExja0swUmMwbmc2cjlKRjY5a0JFeUtJSFE?oc=5",
-        "publishedAt": "2026-07-11T12:10:00.000Z"
       },
       {
         "time": "08:20",
@@ -43,6 +36,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80T1BCdWpUWWNUQ0w2a21taTBfckhmQlE1RmJFT0w1emJWd3MwUVZPandiaExyNkxWY3pPYWVUN3ZYMk1EbkdiZ0ZjQTFMV3c?oc=5",
         "publishedAt": "2026-07-11T09:30:00.000Z"
+      },
+      {
+        "time": "21:10",
+        "title": "『装置の近くや内部に置きたいAIエッジサーバー・PC、設置スペースは十分ですか？』というテーマのウェビナーを開催",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNamd4ekFxa0h4a0dlZjBhR21Nb0tVa2hTTm5Gd011SjdsLThvNXlmVGp0d2hDMFJ4ekVwdm5CdV9aU3RTWEItcFhVRGhUbGtjeFJEM3BiWVJiOVFuRExja0swUmMwbmc2cjlKRjY5a0JFeUtJSFE?oc=5",
+        "publishedAt": "2026-07-11T12:10:00.000Z"
       },
       {
         "time": "17:20",
