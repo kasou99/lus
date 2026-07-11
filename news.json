@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T07:37:07.760Z",
+  "updatedAt": "2026-07-11T08:39:43.778Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,11 @@
         "publishedAt": "2026-07-10T22:30:00.000Z"
       },
       {
-        "time": "05:00",
+        "time": "05:30",
         "title": "安川電の3－5月期、売上高1389億円 ACサーボモーター伸長",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55VWRkWGY1d3RHZVJSRzczQ0pKOFdZNXBmTy05Zm5QQ1dSR3NhWGpKLV9aNXZleWY5WmpBNUpIOVlka3hvaXdIS1gxWDRWX0ZsUXM3cGgtNXhheXM?oc=5",
-        "publishedAt": "2026-07-10T20:00:59.000Z"
-      },
-      {
-        "time": "16:55",
-        "title": "丸紅、スイス工作機械販社を完全子会社化",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLX0tvdDVQQjFmbjBDOHo5R0JhUnhLeENTUk5sY2xmdF9qRGFEQXBQVEh3ZE03ZUxSRDNUY3laMUtTdVIxRUxrUA?oc=5",
-        "publishedAt": "2026-07-10T07:55:37.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yZEhNTVcwTXNoWEdrcWt3Rk0xLUh4azB1T1o1WE9zcU0zN00wbEFVb1FIZFhLWmVodkZFMmY4WF9nOXhNM1AycDdGQzBHV1hVWWFkT3g0eVBqdmhzZi05Nm93WGVQUWpzckd1eEY3YTlpOUo3?oc=5",
+        "publishedAt": "2026-07-10T20:30:00.000Z"
       },
       {
         "time": "08:20",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-07-10T09:49:18.000Z"
       },
       {
-        "time": "17:08",
-        "title": "油圧ショベルトラック市場規模は2026年1264百万米ドル、成長率6.3%で拡大予測｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oWHFCYktmZGYyZFhnQUxPVE5GTmxnRGR4ZnU2aDUxQmpDb2FBalc0OWNXT1N2Zm8wYUZCS1YyTktkWGdvTENWNUh0TGlKYVhmVnpXUEZLQQ?oc=5",
-        "publishedAt": "2026-07-10T08:08:18.000Z"
+        "time": "05:30",
+        "title": "日本自動車会議所、モータースポーツの魅力発信 委員会設置 クルマ文化醸成図る",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OazVXNm9mdzlJajlFNzIzdVVuWXJuT25MMVVSNkJrY1pCa1pwRUlocEFab2o5blJ2cXh4cXlldnpVNGVhczZKNlcyN2prNUtoekJGYjBOdU1SdUh2RFlOOG9yNEtKeTRXZGpxRzU2QmlncF9M?oc=5",
+        "publishedAt": "2026-07-10T20:30:00.000Z"
+      },
+      {
+        "time": "15:18",
+        "title": "全東信が破産 契約店から憤りの声",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587556?source=rss",
+        "publishedAt": "2026-07-11T06:18:31.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,20 @@
         "publishedAt": "2026-07-10T13:37:05.000Z"
       },
       {
+        "time": "16:47",
+        "title": "V字回復した大戸屋 社長交代の訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587567?source=rss",
+        "publishedAt": "2026-07-11T07:47:07.000Z"
+      },
+      {
+        "time": "17:28",
+        "title": "花火大会 警備費増で苦渋の判断",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587573?source=rss",
+        "publishedAt": "2026-07-11T08:28:18.000Z"
+      },
+      {
         "time": "07:31",
         "title": "ビル1室で3千社起業 経営実態は?",
         "source": "Yahoo!ニュース",
@@ -131,20 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587544?source=rss",
         "publishedAt": "2026-07-11T04:47:20.000Z"
-      },
-      {
-        "time": "09:47",
-        "title": "映画席の予約巡る迷惑行為 議論",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587515?source=rss",
-        "publishedAt": "2026-07-11T00:47:03.000Z"
-      },
-      {
-        "time": "10:14",
-        "title": "成城石井ソーセージ回収 腐敗恐れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587518?source=rss",
-        "publishedAt": "2026-07-11T01:14:54.000Z"
       }
     ],
     "localHeadlines": [

@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T07:37:08.427Z",
+  "updatedAt": "2026-07-11T08:39:44.678Z",
   "items": [
     {
-      "time": "14:51",
-      "title": "台風 沖縄は暴風や大雨などに警戒",
+      "time": "16:27",
+      "title": "ロシアの燃料不足 近隣国にも影響",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587554?source=rss",
-      "publishedAt": "2026-07-11T05:51:18.000Z",
-      "xQuery": "台風 沖縄は暴風や大雨などに警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6587566?source=rss",
+      "publishedAt": "2026-07-11T07:27:37.000Z",
+      "xQuery": "ロシアの燃料不足 近隣国にも影響"
     },
     {
       "time": "15:18",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "全東信が破産 契約店から憤りの声"
     },
     {
-      "time": "12:39",
-      "title": "首切断事件 現場ホテル厳しい現実",
+      "time": "15:48",
+      "title": "宮崎麗果被告に判決へ 公判で釈明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587533?source=rss",
-      "publishedAt": "2026-07-11T03:39:02.000Z",
-      "xQuery": "首切断事件 現場ホテル厳しい現実"
+      "url": "https://news.yahoo.co.jp/pickup/6587560?source=rss",
+      "publishedAt": "2026-07-11T06:48:10.000Z",
+      "xQuery": "宮崎麗果被告に判決へ 公判で釈明"
+    },
+    {
+      "time": "16:47",
+      "title": "V字回復した大戸屋 社長交代の訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587567?source=rss",
+      "publishedAt": "2026-07-11T07:47:07.000Z",
+      "xQuery": "V字回復した大戸屋 社長交代の訳"
     },
     {
       "time": "15:19",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587557?source=rss",
       "publishedAt": "2026-07-11T06:19:14.000Z",
       "xQuery": "多頭飼育の男性急死 保護団体奔走"
-    },
-    {
-      "time": "14:18",
-      "title": "唇縫う事件前 女性関係者警察相談",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587549?source=rss",
-      "publishedAt": "2026-07-11T05:18:47.000Z",
-      "xQuery": "唇縫う事件前 女性関係者警察相談"
     }
   ]
 };
