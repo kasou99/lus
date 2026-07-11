@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T22:20:54.699Z",
+  "updatedAt": "2026-07-11T22:48:52.056Z",
   "items": [
     {
-      "time": "22:42",
-      "title": "特別国会ヤマ場 重要法案積み残し",
+      "time": "07:38",
+      "title": "九州 40℃に迫る危険な暑さ予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587605?source=rss",
-      "publishedAt": "2026-07-11T13:42:24.000Z",
-      "xQuery": "特別国会ヤマ場 重要法案積み残し"
+      "url": "https://news.yahoo.co.jp/pickup/6587616?source=rss",
+      "publishedAt": "2026-07-11T22:38:57.000Z",
+      "xQuery": "九州 40℃に迫る危険な暑さ予想"
     },
     {
       "time": "23:48",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587611?source=rss",
       "publishedAt": "2026-07-11T14:48:01.000Z",
       "xQuery": "モジタバ師「復讐を誓う」と表明"
+    },
+    {
+      "time": "07:34",
+      "title": "マンションで女性殺害疑い 男逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587615?source=rss",
+      "publishedAt": "2026-07-11T22:34:45.000Z",
+      "xQuery": "マンションで女性殺害疑い 男逮捕"
     },
     {
       "time": "23:22",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587607?source=rss",
       "publishedAt": "2026-07-11T14:00:35.000Z",
       "xQuery": "1日千人使うバス廃止へ 住民困惑"
-    },
-    {
-      "time": "21:31",
-      "title": "モンストを欧州展開 MIXIが検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587597?source=rss",
-      "publishedAt": "2026-07-11T12:31:35.000Z",
-      "xQuery": "モンストを欧州展開 MIXIが検討"
     }
   ]
 };

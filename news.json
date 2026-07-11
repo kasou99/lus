@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-11T22:20:53.971Z",
+  "updatedAt": "2026-07-11T22:48:50.910Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "07:30",
-        "title": "丸紅、工作機械販社を買収 数百億円投じ海外に販路 新興国の半導体需要狙う",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGJwVEU5dUhPT1lzSGVTRERnQnJLV2ZXTXYteTZnaVdybGs2bG1Sa1lGSTJ4VEVVOG8xYWFpSlNURzE1SHJkbEFVSzhYYThIQVNCa25GN2hHdVloaER5a2dfVzNaUnV0Y2xMUTU3VWs1ckJTSEdfeVFNaVBrNzFBT1AxbUJpTjB1eWdQbGZIdW5NSDUzN2EzNWhtb24yTDBYTGc?oc=5",
-        "publishedAt": "2026-07-10T22:30:00.000Z"
-      },
       {
         "time": "18:30",
         "title": "非接触リニア磁気エンコーダの世界市場（2026年～2032年）、市場規模（アブソリュート型リニア磁気エンコーダ、インクリメンタル型リニア磁気エンコーダ）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80T1BCdWpUWWNUQ0w2a21taTBfckhmQlE1RmJFT0w1emJWd3MwUVZPandiaExyNkxWY3pPYWVUN3ZYMk1EbkdiZ0ZjQTFMV3c?oc=5",
         "publishedAt": "2026-07-11T09:30:00.000Z"
+      },
+      {
+        "time": "22:39",
+        "title": "牟礼斎場を休場 高松市、再開時期は未定｜四国新聞WEB朝刊",
+        "source": "四国新聞",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GZEtOalczeUN4UVdTX1dyTm1hdHRDYWpoMVF6OFFQS1V4bmNnZ1RpN21EWTlpRFY1REpjQmF5bzdreEJfZ2s0Y3p5RGRNelE3ZHg0c1N6cGdTbDd6NjdUT3BDT3d6MU9qaUxCX2JNMm50bWtIcDZ3LUhmRHrSAXxBVV95cUxPRmRLTmpXM3lDeFFXU19Xck5tYXR0Q2FqaDFRejhRUEtVeG5jZ2dUaTdtRFk5aURWNURKY0JheW83a3hCX2drNGN6eURkTXpRN2R4NHNTenBnU2w3ejY3VE9wQ093ejFPamlMQl9iTTJudG1rSHA2dy1IZkR6?oc=5",
+        "publishedAt": "2026-07-11T13:39:03.000Z"
       },
       {
         "time": "21:10",
@@ -29,13 +29,6 @@
         "source": "ハフポスト",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wcFpLOGp1N3REOVg5UlVNb3Nob00wWmFKLTI2WXhzS2FRRlhqRkdRQThmZHlZVnEwYmJYMm1vNEdSVWVCSDZKZkZSUFpWWEhiNmpJNzRCV1k0UWlJWE1kTi1zSFVNeFVLellvd0VfWUFBeHkzOFRFWQ?oc=5",
         "publishedAt": "2026-07-10T23:20:57.000Z"
-      },
-      {
-        "time": "22:39",
-        "title": "牟礼斎場を休場 高松市、再開時期は未定｜四国新聞WEB朝刊",
-        "source": "四国新聞",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GZEtOalczeUN4UVdTX1dyTm1hdHRDYWpoMVF6OFFQS1V4bmNnZ1RpN21EWTlpRFY1REpjQmF5bzdreEJfZ2s0Y3p5RGRNelE3ZHg0c1N6cGdTbDd6NjdUT3BDT3d6MU9qaUxCX2JNMm50bWtIcDZ3LUhmRHrSAXxBVV95cUxPRmRLTmpXM3lDeFFXU19Xck5tYXR0Q2FqaDFRejhRUEtVeG5jZ2dUaTdtRFk5aURWNURKY0JheW83a3hCX2drNGN6eURkTXpRN2R4NHNTenBnU2w3ejY3VE9wQ093ejFPamlMQl9iTTJudG1rSHA2dy1IZkR6?oc=5",
-        "publishedAt": "2026-07-11T13:39:03.000Z"
       },
       {
         "time": "17:20",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587597?source=rss",
         "publishedAt": "2026-07-11T12:31:35.000Z"
+      },
+      {
+        "time": "16:47",
+        "title": "V字回復した大戸屋 社長交代の訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587567?source=rss",
+        "publishedAt": "2026-07-11T07:47:07.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-07-11T08:45:31.000Z"
       },
       {
+        "time": "07:34",
+        "title": "マンションで女性殺害疑い 男逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587615?source=rss",
+        "publishedAt": "2026-07-11T22:34:45.000Z"
+      },
+      {
         "time": "23:00",
         "title": "1日千人使うバス廃止へ 住民困惑",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587599?source=rss",
         "publishedAt": "2026-07-11T12:48:17.000Z"
-      },
-      {
-        "time": "23:22",
-        "title": "釣り道具追いかけおぼれたか 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587610?source=rss",
-        "publishedAt": "2026-07-11T14:22:07.000Z"
       }
     ],
     "subsidyHeadlines": [
