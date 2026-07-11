@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T14:31:01.910Z",
+  "updatedAt": "2026-07-11T15:24:43.091Z",
   "items": [
+    {
+      "time": "22:42",
+      "title": "特別国会ヤマ場 重要法案積み残し",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587605?source=rss",
+      "publishedAt": "2026-07-11T13:42:24.000Z",
+      "xQuery": "特別国会ヤマ場 重要法案積み残し"
+    },
     {
       "time": "20:58",
       "title": "首相 安倍氏の追悼集会で決意語る",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 安倍氏の追悼集会で決意語る"
     },
     {
-      "time": "18:09",
-      "title": "三河湾岸に新球場 反対住民提訴へ",
+      "time": "23:48",
+      "title": "モジタバ師「復讐を誓う」と表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587578?source=rss",
-      "publishedAt": "2026-07-11T09:09:57.000Z",
-      "xQuery": "三河湾岸に新球場 反対住民提訴へ"
-    },
-    {
-      "time": "21:48",
-      "title": "クマが家の菓子食べる 眠れぬ住人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587599?source=rss",
-      "publishedAt": "2026-07-11T12:48:17.000Z",
-      "xQuery": "クマが家の菓子食べる 眠れぬ住人"
+      "url": "https://news.yahoo.co.jp/pickup/6587611?source=rss",
+      "publishedAt": "2026-07-11T14:48:01.000Z",
+      "xQuery": "モジタバ師「復讐を誓う」と表明"
     },
     {
       "time": "23:22",
