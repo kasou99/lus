@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T12:52:17.117Z",
+  "updatedAt": "2026-07-11T13:35:07.574Z",
   "items": [
     {
       "time": "20:58",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 安倍氏の追悼集会で決意語る"
     },
     {
-      "time": "18:46",
-      "title": "O157で級友犠牲 今は管理栄養士",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587584?source=rss",
-      "publishedAt": "2026-07-11T09:46:07.000Z",
-      "xQuery": "O157で級友犠牲 今は管理栄養士"
-    },
-    {
       "time": "20:30",
       "title": "米大統領 暗殺試みればイラン破壊",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 暗殺試みればイラン破壊"
     },
     {
-      "time": "17:28",
-      "title": "花火大会 警備費増で苦渋の判断",
+      "time": "22:10",
+      "title": "「居酒屋」逆風 倒産が上半期最多",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587573?source=rss",
-      "publishedAt": "2026-07-11T08:28:18.000Z",
-      "xQuery": "花火大会 警備費増で苦渋の判断"
+      "url": "https://news.yahoo.co.jp/pickup/6587602?source=rss",
+      "publishedAt": "2026-07-11T13:10:00.000Z",
+      "xQuery": "「居酒屋」逆風 倒産が上半期最多"
+    },
+    {
+      "time": "21:48",
+      "title": "クマが家の菓子食べる 眠れぬ住人",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587599?source=rss",
+      "publishedAt": "2026-07-11T12:48:17.000Z",
+      "xQuery": "クマが家の菓子食べる 眠れぬ住人"
     },
     {
       "time": "20:20",
