@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T10:31:06.075Z",
+  "updatedAt": "2026-07-11T11:26:05.742Z",
   "items": [
     {
       "time": "17:28",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "台風は油断禁物 暴風や高波に警戒"
     },
     {
-      "time": "18:44",
-      "title": "川に流された18歳技能実習生 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587582?source=rss",
-      "publishedAt": "2026-07-11T09:44:57.000Z",
-      "xQuery": "川に流された18歳技能実習生 死亡"
-    },
-    {
       "time": "17:45",
       "title": "前静岡知事 リニア工事は万死に値",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "前静岡知事 リニア工事は万死に値"
     },
     {
-      "time": "12:39",
-      "title": "首切断事件 現場ホテル厳しい現実",
+      "time": "18:44",
+      "title": "川に流された18歳技能実習生 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587533?source=rss",
-      "publishedAt": "2026-07-11T03:39:02.000Z",
-      "xQuery": "首切断事件 現場ホテル厳しい現実"
+      "url": "https://news.yahoo.co.jp/pickup/6587582?source=rss",
+      "publishedAt": "2026-07-11T09:44:57.000Z",
+      "xQuery": "川に流された18歳技能実習生 死亡"
+    },
+    {
+      "time": "17:28",
+      "title": "花火大会 警備費増で苦渋の判断",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587573?source=rss",
+      "publishedAt": "2026-07-11T08:28:18.000Z",
+      "xQuery": "花火大会 警備費増で苦渋の判断"
     }
   ]
 };
