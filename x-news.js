@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T06:54:16.290Z",
+  "updatedAt": "2026-07-11T07:37:08.427Z",
   "items": [
     {
       "time": "14:51",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587554?source=rss",
       "publishedAt": "2026-07-11T05:51:18.000Z",
       "xQuery": "台風 沖縄は暴風や大雨などに警戒"
-    },
-    {
-      "time": "13:19",
-      "title": "友好変わらず 習氏が正恩氏に書簡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587540?source=rss",
-      "publishedAt": "2026-07-11T04:19:41.000Z",
-      "xQuery": "友好変わらず 習氏が正恩氏に書簡"
     },
     {
       "time": "15:18",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587533?source=rss",
       "publishedAt": "2026-07-11T03:39:02.000Z",
       "xQuery": "首切断事件 現場ホテル厳しい現実"
+    },
+    {
+      "time": "15:19",
+      "title": "多頭飼育の男性急死 保護団体奔走",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587557?source=rss",
+      "publishedAt": "2026-07-11T06:19:14.000Z",
+      "xQuery": "多頭飼育の男性急死 保護団体奔走"
     },
     {
       "time": "14:18",
