@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T22:48:52.056Z",
+  "updatedAt": "2026-07-11T23:22:02.796Z",
   "items": [
     {
       "time": "07:38",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "九州 40℃に迫る危険な暑さ予想"
     },
     {
-      "time": "23:48",
-      "title": "モジタバ師「復讐を誓う」と表明",
+      "time": "08:05",
+      "title": "特別国会 与野党が最終盤の攻防へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587611?source=rss",
-      "publishedAt": "2026-07-11T14:48:01.000Z",
-      "xQuery": "モジタバ師「復讐を誓う」と表明"
+      "url": "https://news.yahoo.co.jp/pickup/6587618?source=rss",
+      "publishedAt": "2026-07-11T23:05:59.000Z",
+      "xQuery": "特別国会 与野党が最終盤の攻防へ"
+    },
+    {
+      "time": "07:47",
+      "title": "高波で船が転覆か 1人行方不明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587617?source=rss",
+      "publishedAt": "2026-07-11T22:47:25.000Z",
+      "xQuery": "高波で船が転覆か 1人行方不明"
     },
     {
       "time": "07:34",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587615?source=rss",
       "publishedAt": "2026-07-11T22:34:45.000Z",
       "xQuery": "マンションで女性殺害疑い 男逮捕"
-    },
-    {
-      "time": "23:22",
-      "title": "釣り道具追いかけおぼれたか 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587610?source=rss",
-      "publishedAt": "2026-07-11T14:22:07.000Z",
-      "xQuery": "釣り道具追いかけおぼれたか 死亡"
     },
     {
       "time": "23:00",
