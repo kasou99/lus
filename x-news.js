@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T09:36:07.898Z",
+  "updatedAt": "2026-07-11T10:31:06.075Z",
   "items": [
     {
-      "time": "16:27",
-      "title": "ロシアの燃料不足 近隣国にも影響",
+      "time": "17:28",
+      "title": "皇室典範巡り 中道立憲賛否割れる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587566?source=rss",
-      "publishedAt": "2026-07-11T07:27:37.000Z",
-      "xQuery": "ロシアの燃料不足 近隣国にも影響"
+      "url": "https://news.yahoo.co.jp/pickup/6587570?source=rss",
+      "publishedAt": "2026-07-11T08:28:18.000Z",
+      "xQuery": "皇室典範巡り 中道立憲賛否割れる"
     },
     {
-      "time": "15:18",
-      "title": "全東信が破産 契約店から憤りの声",
+      "time": "19:21",
+      "title": "台風は油断禁物 暴風や高波に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587556?source=rss",
-      "publishedAt": "2026-07-11T06:18:31.000Z",
-      "xQuery": "全東信が破産 契約店から憤りの声"
+      "url": "https://news.yahoo.co.jp/pickup/6587587?source=rss",
+      "publishedAt": "2026-07-11T10:21:14.000Z",
+      "xQuery": "台風は油断禁物 暴風や高波に警戒"
+    },
+    {
+      "time": "18:44",
+      "title": "川に流された18歳技能実習生 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587582?source=rss",
+      "publishedAt": "2026-07-11T09:44:57.000Z",
+      "xQuery": "川に流された18歳技能実習生 死亡"
     },
     {
       "time": "17:45",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "前静岡知事 リニア工事は万死に値"
     },
     {
-      "time": "15:48",
-      "title": "宮崎麗果被告に判決へ 公判で釈明",
+      "time": "12:39",
+      "title": "首切断事件 現場ホテル厳しい現実",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587560?source=rss",
-      "publishedAt": "2026-07-11T06:48:10.000Z",
-      "xQuery": "宮崎麗果被告に判決へ 公判で釈明"
-    },
-    {
-      "time": "16:47",
-      "title": "V字回復した大戸屋 社長交代の訳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587567?source=rss",
-      "publishedAt": "2026-07-11T07:47:07.000Z",
-      "xQuery": "V字回復した大戸屋 社長交代の訳"
+      "url": "https://news.yahoo.co.jp/pickup/6587533?source=rss",
+      "publishedAt": "2026-07-11T03:39:02.000Z",
+      "xQuery": "首切断事件 現場ホテル厳しい現実"
     }
   ]
 };

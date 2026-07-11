@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T09:36:07.169Z",
+  "updatedAt": "2026-07-11T10:31:05.269Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-07-10T22:30:00.000Z"
       },
       {
-        "time": "05:30",
-        "title": "安川電の3－5月期、売上高1389億円 ACサーボモーター伸長",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yZEhNTVcwTXNoWEdrcWt3Rk0xLUh4azB1T1o1WE9zcU0zN00wbEFVb1FIZFhLWmVodkZFMmY4WF9nOXhNM1AycDdGQzBHV1hVWWFkT3g0eVBqdmhzZi05Nm93WGVQUWpzckd1eEY3YTlpOUo3?oc=5",
-        "publishedAt": "2026-07-10T20:30:00.000Z"
-      },
-      {
         "time": "18:30",
         "title": "非接触リニア磁気エンコーダの世界市場（2026年～2032年）、市場規模（アブソリュート型リニア磁気エンコーダ、インクリメンタル型リニア磁気エンコーダ）・分析レポートを発表",
         "source": "アットプレス",
@@ -24,11 +17,11 @@
         "publishedAt": "2026-07-11T09:30:00.000Z"
       },
       {
-        "time": "08:20",
-        "title": "「今から始めるなら何を買う？」資産5億円超ママ投資家・ちょる子さんが語る2026年後半注目テーマと次なる目標",
-        "source": "ハフポスト",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wcFpLOGp1N3REOVg5UlVNb3Nob00wWmFKLTI2WXhzS2FRRlhqRkdRQThmZHlZVnEwYmJYMm1vNEdSVWVCSDZKZkZSUFpWWEhiNmpJNzRCV1k0UWlJWE1kTi1zSFVNeFVLellvd0VfWUFBeHkzOFRFWQ?oc=5",
-        "publishedAt": "2026-07-10T23:20:57.000Z"
+        "time": "05:30",
+        "title": "安川電の3－5月期、売上高1389億円 ACサーボモーター伸長",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yZEhNTVcwTXNoWEdrcWt3Rk0xLUh4azB1T1o1WE9zcU0zN00wbEFVb1FIZFhLWmVodkZFMmY4WF9nOXhNM1AycDdGQzBHV1hVWWFkT3g0eVBqdmhzZi05Nm93WGVQUWpzckd1eEY3YTlpOUo3?oc=5",
+        "publishedAt": "2026-07-10T20:30:00.000Z"
       },
       {
         "time": "03:10",
@@ -38,11 +31,11 @@
         "publishedAt": "2026-07-10T18:10:00.000Z"
       },
       {
-        "time": "19:55",
-        "title": "AIが工場に進出：シーメンスが組み込みボードとエンジニアリングAIエージェントで産業界の3つの根源的問いに回答",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWRDd3NElfSUtCazRGRzFfWkJkTWpkMXdTQ3BoeGZZd2p2Y1lvVFg0NklJYUFnTDNpUURMbXhZYWkyZ2drT2hRUDlySG1KY1RtOVBuT08yYVNxSktRWjRIUFFYX0VTQndTbEloeHdXMlh0Ni1H?oc=5",
-        "publishedAt": "2026-07-10T10:55:00.000Z"
+        "time": "08:20",
+        "title": "「今から始めるなら何を買う？」資産5億円超ママ投資家・ちょる子さんが語る2026年後半注目テーマと次なる目標",
+        "source": "ハフポスト",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wcFpLOGp1N3REOVg5UlVNb3Nob00wWmFKLTI2WXhzS2FRRlhqRkdRQThmZHlZVnEwYmJYMm1vNEdSVWVCSDZKZkZSUFpWWEhiNmpJNzRCV1k0UWlJWE1kTi1zSFVNeFVLellvd0VfWUFBeHkzOFRFWQ?oc=5",
+        "publishedAt": "2026-07-10T23:20:57.000Z"
       },
       {
         "time": "05:30",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-07-10T20:30:00.000Z"
       },
       {
-        "time": "18:49",
-        "title": "【新トップ登場】ＴＡＫＩＳＡＷＡ 松田哲社長（５３） ボトムアップで課題解決",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hUHB0Uks4OVdibWdRVVJrSy1QRDZXUzNKRWRPbnN3cWFwUktya1hUSHJKcm5XWUR5YjJaYlFLbG9HSHpkZkgxQTFDM2FleUVlMUE?oc=5",
-        "publishedAt": "2026-07-10T09:49:18.000Z"
+        "time": "19:55",
+        "title": "AIが工場に進出：シーメンスが組み込みボードとエンジニアリングAIエージェントで産業界の3つの根源的問いに回答",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWRDd3NElfSUtCazRGRzFfWkJkTWpkMXdTQ3BoeGZZd2p2Y1lvVFg0NklJYUFnTDNpUURMbXhZYWkyZ2drT2hRUDlySG1KY1RtOVBuT08yYVNxSktRWjRIUFFYX0VTQndTbEloeHdXMlh0Ni1H?oc=5",
+        "publishedAt": "2026-07-10T10:55:00.000Z"
+      },
+      {
+        "time": "17:20",
+        "title": "【工場保全・製造業必見】なぜ油圧作動油や切削油が届かない？産業機械向け潤滑油の今後の供給見通しと中小工場が取るべき対策",
+        "source": "t.co",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB5b3hkNnFFZGltS3YxOF9sdjRzMUpHMTlKRmFKVC10LW5kM0txWG1HSHkzV0tWNVRrZzIw?oc=5",
+        "publishedAt": "2026-07-11T08:20:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,11 +177,11 @@
         "publishedAt": "2026-07-11T06:48:10.000Z"
       },
       {
-        "time": "13:53",
-        "title": "波にさらわれ50代男性死亡 静岡",
+        "time": "18:44",
+        "title": "川に流された18歳技能実習生 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587545?source=rss",
-        "publishedAt": "2026-07-11T04:53:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587582?source=rss",
+        "publishedAt": "2026-07-11T09:44:57.000Z"
       },
       {
         "time": "12:39",
