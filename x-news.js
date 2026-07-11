@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T01:39:58.552Z",
+  "updatedAt": "2026-07-11T03:10:50.788Z",
   "items": [
     {
-      "time": "08:51",
-      "title": "九州で38℃予想も 各地で気温上昇",
+      "time": "12:01",
+      "title": "台風9号7人ケガ 2万2000戸が停電",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587506?source=rss",
-      "publishedAt": "2026-07-10T23:51:12.000Z",
-      "xQuery": "九州で38℃予想も 各地で気温上昇"
+      "url": "https://news.yahoo.co.jp/pickup/6587531?source=rss",
+      "publishedAt": "2026-07-11T03:01:41.000Z",
+      "xQuery": "台風9号7人ケガ 2万2000戸が停電"
     },
     {
-      "time": "08:46",
-      "title": "高波にさらわれ2人けが 宮古島市",
+      "time": "10:41",
+      "title": "ベネズエラ地震 死者数4100人超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587503?source=rss",
-      "publishedAt": "2026-07-10T23:46:17.000Z",
-      "xQuery": "高波にさらわれ2人けが 宮古島市"
+      "url": "https://news.yahoo.co.jp/pickup/6587520?source=rss",
+      "publishedAt": "2026-07-11T01:41:23.000Z",
+      "xQuery": "ベネズエラ地震 死者数4100人超"
     },
     {
       "time": "09:28",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "積み荷崩れ運転席潰れる 男性死亡"
     },
     {
-      "time": "09:58",
-      "title": "10代の男女2人はねられる 1人重傷",
+      "time": "11:01",
+      "title": "歯の治療 保険適用外選ぶ患者増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587516?source=rss",
-      "publishedAt": "2026-07-11T00:58:28.000Z",
-      "xQuery": "10代の男女2人はねられる 1人重傷"
+      "url": "https://news.yahoo.co.jp/pickup/6587525?source=rss",
+      "publishedAt": "2026-07-11T02:01:20.000Z",
+      "xQuery": "歯の治療 保険適用外選ぶ患者増"
     }
   ]
 };

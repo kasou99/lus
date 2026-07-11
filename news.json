@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T01:39:57.679Z",
+  "updatedAt": "2026-07-11T03:10:50.030Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,11 @@
         "publishedAt": "2026-07-10T22:30:00.000Z"
       },
       {
-        "time": "05:30",
+        "time": "05:00",
         "title": "安川電の3－5月期、売上高1389億円 ACサーボモーター伸長",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yZEhNTVcwTXNoWEdrcWt3Rk0xLUh4azB1T1o1WE9zcU0zN00wbEFVb1FIZFhLWmVodkZFMmY4WF9nOXhNM1AycDdGQzBHV1hVWWFkT3g0eVBqdmhzZi05Nm93WGVQUWpzckd1eEY3YTlpOUo3?oc=5",
-        "publishedAt": "2026-07-10T20:30:00.000Z"
-      },
-      {
-        "time": "11:02",
-        "title": "スイス・オーストリアの工作機械販売会社TOLUS Group AGの完全子会社化について～工作機械領域における事業プラットフォームの拡充～",
-        "source": "marubeni.com",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuaHNCa0FlclNjdkI5WEE5N2xIa0tVLXNUcmtQMlotT1dCcF9RaHRxRUtsV2VZZS12TG9WS3R0OVdNUnplbVhLWnRxRkQ1b1VwQ2MteU9jYXFSMVFQNmRvTUtWTkZVeU0?oc=5",
-        "publishedAt": "2026-07-10T02:02:44.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55VWRkWGY1d3RHZVJSRzczQ0pKOFdZNXBmTy05Zm5QQ1dSR3NhWGpKLV9aNXZleWY5WmpBNUpIOVlka3hvaXdIS1gxWDRWX0ZsUXM3cGgtNXhheXM?oc=5",
+        "publishedAt": "2026-07-10T20:00:59.000Z"
       },
       {
         "time": "16:55",
@@ -38,13 +31,6 @@
         "publishedAt": "2026-07-10T05:42:00.000Z"
       },
       {
-        "time": "11:30",
-        "title": "工作機械受注が教えてくれる日本株・世界経済（26 年６月） | 藤代 宏一 | 第一ライフ資産運用経済研究所",
-        "source": "第一ライフ資産運用経済研究所",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuOFBlZUJIZ0NaVlppSGg1RjkyMDh6OWxxUnpGSFJ6YUZraEs1cjFabUVCXzFHVlBGOVNUZEhWcVVYSjhBeVYtdmhlMWtvNzV1eFlUWEVPeHF6RXM?oc=5",
-        "publishedAt": "2026-07-10T02:30:03.000Z"
-      },
-      {
         "time": "08:20",
         "title": "「今から始めるなら何を買う？」資産5億円超ママ投資家・ちょる子さんが語る2026年後半注目テーマと次なる目標",
         "source": "ハフポスト",
@@ -57,6 +43,20 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLalFwc1F0OVpuakxzaFpZeW5hUnVCVmpBWU1TblpyNERGdWlLTXFCUjVZdUl1OUZFVkVMRHdjOGJLaFAzaTlEOHV5aC15b01temczbXVuLWVlbE9Td1VHTHI5cU5saktiXzEw?oc=5",
         "publishedAt": "2026-07-10T18:10:00.000Z"
+      },
+      {
+        "time": "19:55",
+        "title": "AIが工場に進出：シーメンスが組み込みボードとエンジニアリングAIエージェントで産業界の3つの根源的問いに回答",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWRDd3NElfSUtCazRGRzFfWkJkTWpkMXdTQ3BoeGZZd2p2Y1lvVFg0NklJYUFnTDNpUURMbXhZYWkyZ2drT2hRUDlySG1KY1RtOVBuT08yYVNxSktRWjRIUFFYX0VTQndTbEloeHdXMlh0Ni1H?oc=5",
+        "publishedAt": "2026-07-10T10:55:00.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "AIエージェントのSMT工程改善分析サービス、熟練者依存を低下 東芝：製造現場向けAI技術",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSejd6UkZaYVdXQjd3Nkk4MDdlUnJvQjVYSDgtMVY5SWZJcHdwUXBmVHl5QkZ4d29LVWNXTVczY19hN2J4WU9WTUpseGdFLVVoMHBMbTRac1M4NWxSX2ZWQmtfWlFsbFJGRkwyeldqUQ?oc=5",
+        "publishedAt": "2026-07-10T04:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,13 +68,6 @@
         "publishedAt": "2026-07-10T21:26:08.000Z"
       },
       {
-        "time": "12:46",
-        "title": "旧統一総裁に懲役13年求刑 韓国",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587409?source=rss",
-        "publishedAt": "2026-07-10T03:46:29.000Z"
-      },
-      {
         "time": "14:58",
         "title": "覚書は終わり トランプ氏激怒の訳",
         "source": "Yahoo!ニュース",
@@ -82,18 +75,18 @@
         "publishedAt": "2026-07-10T05:58:51.000Z"
       },
       {
-        "time": "11:37",
-        "title": "イラン トランプ氏の暗殺を計画か",
+        "time": "12:46",
+        "title": "旧統一総裁に懲役13年求刑 韓国",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587394?source=rss",
-        "publishedAt": "2026-07-10T02:37:27.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587409?source=rss",
+        "publishedAt": "2026-07-10T03:46:29.000Z"
       },
       {
-        "time": "09:14",
-        "title": "中国 ヘリウム輸出を一時禁止",
+        "time": "10:41",
+        "title": "ベネズエラ地震 死者数4100人超",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587509?source=rss",
-        "publishedAt": "2026-07-11T00:14:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587520?source=rss",
+        "publishedAt": "2026-07-11T01:41:23.000Z"
       },
       {
         "time": "09:28",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587512?source=rss",
         "publishedAt": "2026-07-11T00:28:34.000Z"
+      },
+      {
+        "time": "09:14",
+        "title": "中国 ヘリウム輸出を一時禁止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587509?source=rss",
+        "publishedAt": "2026-07-11T00:14:34.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,13 +110,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587467?source=rss",
         "publishedAt": "2026-07-10T11:53:14.000Z"
-      },
-      {
-        "time": "13:37",
-        "title": "全東信破産 店側の資金繰り支援へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587419?source=rss",
-        "publishedAt": "2026-07-10T04:37:50.000Z"
       },
       {
         "time": "22:37",
@@ -145,22 +138,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587518?source=rss",
         "publishedAt": "2026-07-11T01:14:54.000Z"
+      },
+      {
+        "time": "18:26",
+        "title": "イトーヨーカドー運営 なぜ急回復",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587448?source=rss",
+        "publishedAt": "2026-07-10T09:26:51.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "09:19",
-        "title": "積み荷崩れ運転席潰れる 男性死亡",
+        "time": "12:01",
+        "title": "台風9号7人ケガ 2万2000戸が停電",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587508?source=rss",
-        "publishedAt": "2026-07-11T00:19:09.000Z"
-      },
-      {
-        "time": "06:48",
-        "title": "台風9号 暴風域の石垣島の様子は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587485?source=rss",
-        "publishedAt": "2026-07-10T21:48:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587531?source=rss",
+        "publishedAt": "2026-07-11T03:01:41.000Z"
       },
       {
         "time": "08:46",
@@ -168,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587503?source=rss",
         "publishedAt": "2026-07-10T23:46:17.000Z"
+      },
+      {
+        "time": "09:19",
+        "title": "積み荷崩れ運転席潰れる 男性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587508?source=rss",
+        "publishedAt": "2026-07-11T00:19:09.000Z"
       },
       {
         "time": "09:58",
