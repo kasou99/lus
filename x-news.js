@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T00:51:19.874Z",
+  "updatedAt": "2026-07-12T01:39:28.968Z",
   "items": [
+    {
+      "time": "10:05",
+      "title": "米軍 新たなイラン空爆を開始",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587635?source=rss",
+      "publishedAt": "2026-07-12T01:05:50.000Z",
+      "xQuery": "米軍 新たなイラン空爆を開始"
+    },
     {
       "time": "09:03",
       "title": "イラン ホルムズ海峡の閉鎖を宣言",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン ホルムズ海峡の閉鎖を宣言"
     },
     {
-      "time": "07:38",
-      "title": "九州 40℃に迫る危険な暑さ予想",
+      "time": "08:53",
+      "title": "勤務医の残業 年960時間超が15%",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587616?source=rss",
-      "publishedAt": "2026-07-11T22:38:57.000Z",
-      "xQuery": "九州 40℃に迫る危険な暑さ予想"
-    },
-    {
-      "time": "08:05",
-      "title": "特別国会 与野党が最終盤の攻防へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587618?source=rss",
-      "publishedAt": "2026-07-11T23:05:59.000Z",
-      "xQuery": "特別国会 与野党が最終盤の攻防へ"
+      "url": "https://news.yahoo.co.jp/pickup/6587625?source=rss",
+      "publishedAt": "2026-07-11T23:53:38.000Z",
+      "xQuery": "勤務医の残業 年960時間超が15%"
     },
     {
       "time": "09:06",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "死亡ひき逃げ疑い アルコール検出"
     },
     {
-      "time": "07:47",
-      "title": "高波で船が転覆か 1人行方不明",
+      "time": "09:35",
+      "title": "大阪の公園に毒キノコ 大量発生",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587617?source=rss",
-      "publishedAt": "2026-07-11T22:47:25.000Z",
-      "xQuery": "高波で船が転覆か 1人行方不明"
+      "url": "https://news.yahoo.co.jp/pickup/6587633?source=rss",
+      "publishedAt": "2026-07-12T00:35:53.000Z",
+      "xQuery": "大阪の公園に毒キノコ 大量発生"
     }
   ]
 };

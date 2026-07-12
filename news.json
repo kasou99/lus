@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T00:51:19.437Z",
+  "updatedAt": "2026-07-12T01:39:28.207Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "10:05",
+        "title": "米軍 新たなイラン空爆を開始",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587635?source=rss",
+        "publishedAt": "2026-07-12T01:05:50.000Z"
+      },
+      {
         "time": "09:03",
         "title": "イラン ホルムズ海峡の閉鎖を宣言",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587566?source=rss",
         "publishedAt": "2026-07-11T07:27:37.000Z"
-      },
-      {
-        "time": "09:28",
-        "title": "欧州機 上空で客の体一部が機外に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587512?source=rss",
-        "publishedAt": "2026-07-11T00:28:34.000Z"
       }
     ],
     "economyHeadlines": [
