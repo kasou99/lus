@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T21:49:03.230Z",
+  "updatedAt": "2026-07-12T22:21:33.499Z",
   "items": [
     {
-      "time": "22:49",
-      "title": "戦う政治家発言も 国会運営実態は",
+      "time": "07:16",
+      "title": "米イラン 海峡巡り主張に食い違い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587722?source=rss",
-      "publishedAt": "2026-07-12T13:49:50.000Z",
-      "xQuery": "戦う政治家発言も 国会運営実態は"
+      "url": "https://news.yahoo.co.jp/pickup/6587733?source=rss",
+      "publishedAt": "2026-07-12T22:16:14.000Z",
+      "xQuery": "米イラン 海峡巡り主張に食い違い"
     },
     {
-      "time": "22:13",
-      "title": "ウクライナ 内閣改造で首相交代へ",
+      "time": "06:59",
+      "title": "公益通報体制 8道府県が見直し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587720?source=rss",
-      "publishedAt": "2026-07-12T13:13:59.000Z",
-      "xQuery": "ウクライナ 内閣改造で首相交代へ"
+      "url": "https://news.yahoo.co.jp/pickup/6587732?source=rss",
+      "publishedAt": "2026-07-12T21:59:25.000Z",
+      "xQuery": "公益通報体制 8道府県が見直し"
     },
     {
       "time": "06:42",
