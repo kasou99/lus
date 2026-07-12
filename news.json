@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T12:51:55.153Z",
+  "updatedAt": "2026-07-12T13:33:53.371Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -82,11 +82,11 @@
         "publishedAt": "2026-07-12T00:03:52.000Z"
       },
       {
-        "time": "23:48",
-        "title": "モジタバ師「復讐を誓う」と表明",
+        "time": "22:13",
+        "title": "ウクライナ 内閣改造で首相交代へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587611?source=rss",
-        "publishedAt": "2026-07-11T14:48:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587720?source=rss",
+        "publishedAt": "2026-07-12T13:13:59.000Z"
       },
       {
         "time": "20:55",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-07-12T12:28:46.000Z"
       },
       {
+        "time": "22:22",
+        "title": "同じ住宅に1週間で4回 クマが侵入",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587721?source=rss",
+        "publishedAt": "2026-07-12T13:22:43.000Z"
+      },
+      {
         "time": "19:56",
         "title": "元消防庁長官 登山中に倒れて死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587695?source=rss",
         "publishedAt": "2026-07-12T08:50:50.000Z"
-      },
-      {
-        "time": "16:08",
-        "title": "水上バイク3人転落 16歳女性不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587681?source=rss",
-        "publishedAt": "2026-07-12T07:08:45.000Z"
       }
     ],
     "subsidyHeadlines": [

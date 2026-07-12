@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T12:51:55.605Z",
+  "updatedAt": "2026-07-12T13:33:54.311Z",
   "items": [
     {
       "time": "20:23",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587708?source=rss",
       "publishedAt": "2026-07-12T11:23:20.000Z",
       "xQuery": "13日 西日本中心に猛暑日続出か"
+    },
+    {
+      "time": "21:37",
+      "title": "軽い事件に埋もれる冤罪 85歳訴え",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587718?source=rss",
+      "publishedAt": "2026-07-12T12:37:56.000Z",
+      "xQuery": "軽い事件に埋もれる冤罪 85歳訴え"
     },
     {
       "time": "20:55",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587704?source=rss",
       "publishedAt": "2026-07-12T10:49:09.000Z",
       "xQuery": "暴力で患者怒らせ 面白がり撮影か"
-    },
-    {
-      "time": "18:29",
-      "title": "緑茶飲料 収益面で板挟み状態",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587699?source=rss",
-      "publishedAt": "2026-07-12T09:29:10.000Z",
-      "xQuery": "緑茶飲料 収益面で板挟み状態"
     }
   ]
 };
