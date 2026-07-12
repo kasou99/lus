@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T13:33:54.311Z",
+  "updatedAt": "2026-07-12T14:34:30.279Z",
   "items": [
     {
-      "time": "20:23",
-      "title": "13日 西日本中心に猛暑日続出か",
+      "time": "22:49",
+      "title": "戦う政治家発言も 国会運営実態は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587708?source=rss",
-      "publishedAt": "2026-07-12T11:23:20.000Z",
-      "xQuery": "13日 西日本中心に猛暑日続出か"
+      "url": "https://news.yahoo.co.jp/pickup/6587722?source=rss",
+      "publishedAt": "2026-07-12T13:49:50.000Z",
+      "xQuery": "戦う政治家発言も 国会運営実態は"
     },
     {
-      "time": "21:37",
-      "title": "軽い事件に埋もれる冤罪 85歳訴え",
+      "time": "22:13",
+      "title": "ウクライナ 内閣改造で首相交代へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587718?source=rss",
-      "publishedAt": "2026-07-12T12:37:56.000Z",
-      "xQuery": "軽い事件に埋もれる冤罪 85歳訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6587720?source=rss",
+      "publishedAt": "2026-07-12T13:13:59.000Z",
+      "xQuery": "ウクライナ 内閣改造で首相交代へ"
     },
     {
-      "time": "20:55",
-      "title": "ミャンマー外相 ASEAN会合出席",
+      "time": "21:36",
+      "title": "生食用鶏肉 ガイドライン初策定へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587712?source=rss",
-      "publishedAt": "2026-07-12T11:55:09.000Z",
-      "xQuery": "ミャンマー外相 ASEAN会合出席"
+      "url": "https://news.yahoo.co.jp/pickup/6587717?source=rss",
+      "publishedAt": "2026-07-12T12:36:20.000Z",
+      "xQuery": "生食用鶏肉 ガイドライン初策定へ"
     },
     {
       "time": "21:28",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マットで中1死亡 賠償応じない3人"
     },
     {
-      "time": "19:49",
-      "title": "暴力で患者怒らせ 面白がり撮影か",
+      "time": "23:18",
+      "title": "セクハラ辞任の前市長落選 田川市",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587704?source=rss",
-      "publishedAt": "2026-07-12T10:49:09.000Z",
-      "xQuery": "暴力で患者怒らせ 面白がり撮影か"
+      "url": "https://news.yahoo.co.jp/pickup/6587726?source=rss",
+      "publishedAt": "2026-07-12T14:18:45.000Z",
+      "xQuery": "セクハラ辞任の前市長落選 田川市"
     }
   ]
 };

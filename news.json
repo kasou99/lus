@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T13:33:53.371Z",
+  "updatedAt": "2026-07-12T14:34:29.557Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-07-12T05:26:32.000Z"
       },
       {
-        "time": "22:39",
-        "title": "牟礼斎場を休場 高松市、再開時期は未定｜四国新聞WEB朝刊",
-        "source": "四国新聞",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GZEtOalczeUN4UVdTX1dyTm1hdHRDYWpoMVF6OFFQS1V4bmNnZ1RpN21EWTlpRFY1REpjQmF5bzdreEJfZ2s0Y3p5RGRNelE3ZHg0c1N6cGdTbDd6NjdUT3BDT3d6MU9qaUxCX2JNMm50bWtIcDZ3LUhmRHrSAXxBVV95cUxPRmRLTmpXM3lDeFFXU19Xck5tYXR0Q2FqaDFRejhRUEtVeG5jZ2dUaTdtRFk5aURWNURKY0JheW83a3hCX2drNGN6eURkTXpRN2R4NHNTenBnU2w3ejY3VE9wQ093ejFPamlMQl9iTTJudG1rSHA2dy1IZkR6?oc=5",
-        "publishedAt": "2026-07-11T13:39:03.000Z"
-      },
-      {
         "time": "18:30",
         "title": "中国湖北省黄岡市、台風に備えダム放水 一斉点検も実施",
         "source": "ライブドアニュース",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587706?source=rss",
         "publishedAt": "2026-07-12T11:05:42.000Z"
+      },
+      {
+        "time": "18:33",
+        "title": "福岡住宅高騰 JR佐賀駅前に勢い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587700?source=rss",
+        "publishedAt": "2026-07-12T09:33:10.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "23:18",
+        "title": "セクハラ辞任の前市長落選 田川市",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587726?source=rss",
+        "publishedAt": "2026-07-12T14:18:45.000Z"
+      },
+      {
         "time": "21:28",
         "title": "マットで中1死亡 賠償応じない3人",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587678?source=rss",
         "publishedAt": "2026-07-12T06:55:17.000Z"
-      },
-      {
-        "time": "17:50",
-        "title": "ぬれぎぬで解雇され自殺 遺族憤り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587695?source=rss",
-        "publishedAt": "2026-07-12T08:50:50.000Z"
       }
     ],
     "subsidyHeadlines": [
