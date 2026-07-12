@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T10:59:00.386Z",
+  "updatedAt": "2026-07-12T11:31:25.190Z",
   "items": [
     {
       "time": "17:23",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "南シナ海の中国主張巡り 共同声明"
     },
     {
+      "time": "19:56",
+      "title": "元消防庁長官 登山中に倒れて死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587705?source=rss",
+      "publishedAt": "2026-07-12T10:56:53.000Z",
+      "xQuery": "元消防庁長官 登山中に倒れて死亡"
+    },
+    {
       "time": "19:49",
       "title": "暴力で患者怒らせ 面白がり撮影か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587704?source=rss",
       "publishedAt": "2026-07-12T10:49:09.000Z",
       "xQuery": "暴力で患者怒らせ 面白がり撮影か"
-    },
-    {
-      "time": "18:46",
-      "title": "40歳女性ひかれ死亡 6歳娘は軽傷",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587702?source=rss",
-      "publishedAt": "2026-07-12T09:46:12.000Z",
-      "xQuery": "40歳女性ひかれ死亡 6歳娘は軽傷"
     },
     {
       "time": "17:50",
