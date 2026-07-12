@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T22:21:33.499Z",
+  "updatedAt": "2026-07-12T22:48:45.057Z",
   "items": [
     {
-      "time": "07:16",
-      "title": "米イラン 海峡巡り主張に食い違い",
+      "time": "07:36",
+      "title": "米中央軍 イランに新たな攻撃開始",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587733?source=rss",
-      "publishedAt": "2026-07-12T22:16:14.000Z",
-      "xQuery": "米イラン 海峡巡り主張に食い違い"
+      "url": "https://news.yahoo.co.jp/pickup/6587737?source=rss",
+      "publishedAt": "2026-07-12T22:36:48.000Z",
+      "xQuery": "米中央軍 イランに新たな攻撃開始"
     },
     {
-      "time": "06:59",
-      "title": "公益通報体制 8道府県が見直し",
+      "time": "07:46",
+      "title": "九州～近畿は猛暑続く 熱中症警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587732?source=rss",
-      "publishedAt": "2026-07-12T21:59:25.000Z",
-      "xQuery": "公益通報体制 8道府県が見直し"
+      "url": "https://news.yahoo.co.jp/pickup/6587738?source=rss",
+      "publishedAt": "2026-07-12T22:46:53.000Z",
+      "xQuery": "九州～近畿は猛暑続く 熱中症警戒"
+    },
+    {
+      "time": "07:26",
+      "title": "中国 日本大使館幹部呼び出し抗議",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587734?source=rss",
+      "publishedAt": "2026-07-12T22:26:24.000Z",
+      "xQuery": "中国 日本大使館幹部呼び出し抗議"
     },
     {
       "time": "06:42",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587731?source=rss",
       "publishedAt": "2026-07-12T21:42:39.000Z",
       "xQuery": "バンコクのパブで火災 27人が死亡"
-    },
-    {
-      "time": "21:28",
-      "title": "マットで中1死亡 賠償応じない3人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587716?source=rss",
-      "publishedAt": "2026-07-12T12:28:46.000Z",
-      "xQuery": "マットで中1死亡 賠償応じない3人"
     },
     {
       "time": "06:19",
