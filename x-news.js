@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T06:03:57.921Z",
+  "updatedAt": "2026-07-12T07:21:57.038Z",
   "items": [
     {
-      "time": "14:34",
-      "title": "東北で大雨 九州-関東も雷雨注意",
+      "time": "15:26",
+      "title": "米軍 イラン軍施設140カ所を攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587668?source=rss",
-      "publishedAt": "2026-07-12T05:34:21.000Z",
-      "xQuery": "東北で大雨 九州-関東も雷雨注意"
+      "url": "https://news.yahoo.co.jp/pickup/6587674?source=rss",
+      "publishedAt": "2026-07-12T06:26:37.000Z",
+      "xQuery": "米軍 イラン軍施設140カ所を攻撃"
     },
     {
-      "time": "12:13",
-      "title": "カナダ・トロントで銃撃 2人死亡",
+      "time": "15:24",
+      "title": "自民 会期内の全法案成立目指す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587653?source=rss",
-      "publishedAt": "2026-07-12T03:13:16.000Z",
-      "xQuery": "カナダ・トロントで銃撃 2人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6587673?source=rss",
+      "publishedAt": "2026-07-12T06:24:28.000Z",
+      "xQuery": "自民 会期内の全法案成立目指す"
+    },
+    {
+      "time": "15:55",
+      "title": "女性警官を殴り鼻折った疑い 逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587678?source=rss",
+      "publishedAt": "2026-07-12T06:55:17.000Z",
+      "xQuery": "女性警官を殴り鼻折った疑い 逮捕"
     },
     {
       "time": "14:32",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トラックと車が衝突 中学生が死亡"
     },
     {
-      "time": "12:29",
-      "title": "海で流された10歳 救った漁業者ら",
+      "time": "16:08",
+      "title": "水上バイク3人転落 16歳女性不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587654?source=rss",
-      "publishedAt": "2026-07-12T03:29:36.000Z",
-      "xQuery": "海で流された10歳 救った漁業者ら"
-    },
-    {
-      "time": "11:29",
-      "title": "2万2141人かつらかぶりギネス 英",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587647?source=rss",
-      "publishedAt": "2026-07-12T02:29:26.000Z",
-      "xQuery": "2万2141人かつらかぶりギネス 英"
+      "url": "https://news.yahoo.co.jp/pickup/6587681?source=rss",
+      "publishedAt": "2026-07-12T07:08:45.000Z",
+      "xQuery": "水上バイク3人転落 16歳女性不明"
     }
   ]
 };

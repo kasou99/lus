@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-12T06:03:57.028Z",
+  "updatedAt": "2026-07-12T07:21:55.922Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "14:21",
+        "title": "部品不足で生産ラインを止めないために--設備保全クラウド「ミロクルカルテ」、モバイルで完結する部品棚卸し機能α版をリリース",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xZHhmZUhvWi16YTRtLWRBUkZCaU5VOWItRlg1eHNDclRyOXNCUXZSajdlQ05keE5QWXQ1X09WeThvbHhPbDM2Z1hmc1ZkSVBEY2c?oc=5",
+        "publishedAt": "2026-07-12T05:21:50.000Z"
+      },
       {
         "time": "18:30",
         "title": "非接触リニア磁気エンコーダの世界市場（2026年～2032年）、市場規模（アブソリュート型リニア磁気エンコーダ、インクリメンタル型リニア磁気エンコーダ）・分析レポートを発表",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-07-12T05:26:32.000Z"
       },
       {
-        "time": "17:20",
-        "title": "【工場保全・製造業必見】なぜ油圧作動油や切削油が届かない？産業機械向け潤滑油の今後の供給見通しと中小工場が取るべき対策",
-        "source": "t.co",
-        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB5b3hkNnFFZGltS3YxOF9sdjRzMUpHMTlKRmFKVC10LW5kM0txWG1HSHkzV0tWNVRrZzIw?oc=5",
-        "publishedAt": "2026-07-11T08:20:37.000Z"
-      },
-      {
         "time": "15:18",
         "title": "全東信が破産 契約店から憤りの声",
         "source": "Yahoo!ニュース",
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "10:05",
-        "title": "米軍 新たなイラン空爆を開始",
+        "time": "15:26",
+        "title": "米軍 イラン軍施設140カ所を攻撃",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587635?source=rss",
-        "publishedAt": "2026-07-12T01:05:50.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587674?source=rss",
+        "publishedAt": "2026-07-12T06:26:37.000Z"
       },
       {
         "time": "09:03",
@@ -163,11 +163,11 @@
         "publishedAt": "2026-07-12T05:32:13.000Z"
       },
       {
-        "time": "09:06",
-        "title": "死亡ひき逃げ疑い アルコール検出",
+        "time": "15:55",
+        "title": "女性警官を殴り鼻折った疑い 逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587626?source=rss",
-        "publishedAt": "2026-07-12T00:06:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587678?source=rss",
+        "publishedAt": "2026-07-12T06:55:17.000Z"
       },
       {
         "time": "14:58",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-07-12T05:58:10.000Z"
       },
       {
-        "time": "23:22",
-        "title": "釣り道具追いかけおぼれたか 死亡",
+        "time": "16:08",
+        "title": "水上バイク3人転落 16歳女性不明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587610?source=rss",
-        "publishedAt": "2026-07-11T14:22:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587681?source=rss",
+        "publishedAt": "2026-07-12T07:08:45.000Z"
       },
       {
         "time": "23:00",
