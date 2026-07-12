@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T11:31:25.190Z",
+  "updatedAt": "2026-07-12T12:25:50.414Z",
   "items": [
     {
-      "time": "17:23",
-      "title": "ホルムズ海峡で攻撃 インド人不明",
+      "time": "20:23",
+      "title": "13日 西日本中心に猛暑日続出か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587690?source=rss",
-      "publishedAt": "2026-07-12T08:23:06.000Z",
-      "xQuery": "ホルムズ海峡で攻撃 インド人不明"
+      "url": "https://news.yahoo.co.jp/pickup/6587708?source=rss",
+      "publishedAt": "2026-07-12T11:23:20.000Z",
+      "xQuery": "13日 西日本中心に猛暑日続出か"
     },
     {
-      "time": "18:00",
-      "title": "南シナ海の中国主張巡り 共同声明",
+      "time": "20:40",
+      "title": "米共和党ベテラン「急病」で死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587693?source=rss",
-      "publishedAt": "2026-07-12T09:00:01.000Z",
-      "xQuery": "南シナ海の中国主張巡り 共同声明"
+      "url": "https://news.yahoo.co.jp/pickup/6587709?source=rss",
+      "publishedAt": "2026-07-12T11:40:33.000Z",
+      "xQuery": "米共和党ベテラン「急病」で死去"
     },
     {
       "time": "19:56",

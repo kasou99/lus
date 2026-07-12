@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T11:31:24.477Z",
+  "updatedAt": "2026-07-12T12:25:49.682Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xZHhmZUhvWi16YTRtLWRBUkZCaU5VOWItRlg1eHNDclRyOXNCUXZSajdlQ05keE5QWXQ1X09WeThvbHhPbDM2Z1hmc1ZkSVBEY2c?oc=5",
         "publishedAt": "2026-07-12T05:21:50.000Z"
+      },
+      {
+        "time": "11:55",
+        "title": "5Gエッジコンピューティングがディスクリート製造の課題を解決：蘇州工場のPLC遠隔保守で年間100万元超のダウンタイム損失を削減",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CRG8zQWlGbkp3OExqN2NfS2htWGNobU9oOTRramVSV1p1bzVfZWxrY1BYWUNfY2R3cU42ckgwQUJLb1lRSzhsYzNwTmFna1FRNWlYY3dLdFhaTGVmUzl0blRiRXpUOVhDek8zbEVzTV9QOVdt?oc=5",
+        "publishedAt": "2026-07-12T02:55:00.000Z"
       },
       {
         "time": "14:26",
@@ -24,18 +31,18 @@
         "publishedAt": "2026-07-11T13:39:03.000Z"
       },
       {
-        "time": "21:10",
-        "title": "『装置の近くや内部に置きたいAIエッジサーバー・PC、設置スペースは十分ですか？』というテーマのウェビナーを開催",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNamd4ekFxa0h4a0dlZjBhR21Nb0tVa2hTTm5Gd011SjdsLThvNXlmVGp0d2hDMFJ4ekVwdm5CdV9aU3RTWEItcFhVRGhUbGtjeFJEM3BiWVJiOVFuRExja0swUmMwbmc2cjlKRjY5a0JFeUtJSFE?oc=5",
-        "publishedAt": "2026-07-11T12:10:00.000Z"
-      },
-      {
         "time": "18:30",
         "title": "中国湖北省黄岡市、台風に備えダム放水 一斉点検も実施",
         "source": "ライブドアニュース",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fSDAxbmZSeGNCUWdRdklaLTFvOU1MRVQ3UURVdHgwamxYMDNJT0I3NzU4b09MVldqWURpcmZEVWVtcHB2dXVMcVpDRXhvTDZYODBYLXRPVHgtaWVRZEFv?oc=5",
         "publishedAt": "2026-07-12T09:30:41.000Z"
+      },
+      {
+        "time": "20:46",
+        "title": "ナフサ不足続く シンナー再利用も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587711?source=rss",
+        "publishedAt": "2026-07-12T11:46:03.000Z"
       },
       {
         "time": "20:05",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587700?source=rss",
         "publishedAt": "2026-07-12T09:33:10.000Z"
-      },
-      {
-        "time": "21:31",
-        "title": "モンストを欧州展開 MIXIが検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587597?source=rss",
-        "publishedAt": "2026-07-11T12:31:35.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,21 +89,28 @@
         "publishedAt": "2026-07-11T14:48:01.000Z"
       },
       {
-        "time": "20:30",
-        "title": "米大統領 暗殺試みればイラン破壊",
+        "time": "20:55",
+        "title": "ミャンマー外相 ASEAN会合出席",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587592?source=rss",
-        "publishedAt": "2026-07-11T11:30:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587712?source=rss",
+        "publishedAt": "2026-07-12T11:55:09.000Z"
       },
       {
-        "time": "18:00",
-        "title": "南シナ海の中国主張巡り 共同声明",
+        "time": "20:40",
+        "title": "米共和党ベテラン「急病」で死去",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587693?source=rss",
-        "publishedAt": "2026-07-12T09:00:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587709?source=rss",
+        "publishedAt": "2026-07-12T11:40:33.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "20:46",
+        "title": "ナフサ不足続く シンナー再利用も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587711?source=rss",
+        "publishedAt": "2026-07-12T11:46:03.000Z"
+      },
       {
         "time": "20:05",
         "title": "プリウスも ハイブリッド市場変化",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587602?source=rss",
         "publishedAt": "2026-07-11T13:10:00.000Z"
-      },
-      {
-        "time": "17:28",
-        "title": "花火大会 警備費増で苦渋の判断",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587573?source=rss",
-        "publishedAt": "2026-07-11T08:28:18.000Z"
       }
     ],
     "localHeadlines": [
