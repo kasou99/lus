@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T12:25:50.414Z",
+  "updatedAt": "2026-07-12T12:51:55.605Z",
   "items": [
     {
       "time": "20:23",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "13日 西日本中心に猛暑日続出か"
     },
     {
-      "time": "20:40",
-      "title": "米共和党ベテラン「急病」で死去",
+      "time": "20:55",
+      "title": "ミャンマー外相 ASEAN会合出席",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587709?source=rss",
-      "publishedAt": "2026-07-12T11:40:33.000Z",
-      "xQuery": "米共和党ベテラン「急病」で死去"
+      "url": "https://news.yahoo.co.jp/pickup/6587712?source=rss",
+      "publishedAt": "2026-07-12T11:55:09.000Z",
+      "xQuery": "ミャンマー外相 ASEAN会合出席"
     },
     {
-      "time": "19:56",
-      "title": "元消防庁長官 登山中に倒れて死亡",
+      "time": "21:28",
+      "title": "マットで中1死亡 賠償応じない3人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587705?source=rss",
-      "publishedAt": "2026-07-12T10:56:53.000Z",
-      "xQuery": "元消防庁長官 登山中に倒れて死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6587716?source=rss",
+      "publishedAt": "2026-07-12T12:28:46.000Z",
+      "xQuery": "マットで中1死亡 賠償応じない3人"
     },
     {
       "time": "19:49",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "暴力で患者怒らせ 面白がり撮影か"
     },
     {
-      "time": "17:50",
-      "title": "ぬれぎぬで解雇され自殺 遺族憤り",
+      "time": "18:29",
+      "title": "緑茶飲料 収益面で板挟み状態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587695?source=rss",
-      "publishedAt": "2026-07-12T08:50:50.000Z",
-      "xQuery": "ぬれぎぬで解雇され自殺 遺族憤り"
+      "url": "https://news.yahoo.co.jp/pickup/6587699?source=rss",
+      "publishedAt": "2026-07-12T09:29:10.000Z",
+      "xQuery": "緑茶飲料 収益面で板挟み状態"
     }
   ]
 };

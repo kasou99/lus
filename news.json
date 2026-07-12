@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-12T12:25:49.682Z",
+  "updatedAt": "2026-07-12T12:51:55.153Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "19:49",
+        "title": "初の研究施設７月稼働、安田工業 工作機械の性能向上探る",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NaVRYTUlrSFVSRnljazZqS0pJN1JYN2pNbXdjM1JYd0tSSV9ESVl0VXFIcWg2bXdOZTJCRDh4U2VKb2lETlFRZVV0UzdoX2NlcEE?oc=5",
+        "publishedAt": "2026-07-12T10:49:00.000Z"
+      },
       {
         "time": "14:21",
         "title": "部品不足で生産ラインを止めないために--設備保全クラウド「ミロクルカルテ」、モバイルで完結する部品棚卸し機能α版をリリース",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587706?source=rss",
         "publishedAt": "2026-07-12T11:05:42.000Z"
-      },
-      {
-        "time": "18:33",
-        "title": "福岡住宅高騰 JR佐賀駅前に勢い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587700?source=rss",
-        "publishedAt": "2026-07-12T09:33:10.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "21:28",
+        "title": "マットで中1死亡 賠償応じない3人",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587716?source=rss",
+        "publishedAt": "2026-07-12T12:28:46.000Z"
+      },
+      {
         "time": "19:56",
         "title": "元消防庁長官 登山中に倒れて死亡",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587702?source=rss",
         "publishedAt": "2026-07-12T09:46:12.000Z"
-      },
-      {
-        "time": "14:32",
-        "title": "トラックと車が衝突 中学生が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587669?source=rss",
-        "publishedAt": "2026-07-12T05:32:13.000Z"
       },
       {
         "time": "15:55",
