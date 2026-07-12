@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T18:24:18.970Z",
+  "updatedAt": "2026-07-12T18:50:36.143Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-07-12T10:49:00.000Z"
       },
       {
-        "time": "14:21",
-        "title": "部品不足で生産ラインを止めないために--設備保全クラウド「ミロクルカルテ」、モバイルで完結する部品棚卸し機能α版をリリース",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xZHhmZUhvWi16YTRtLWRBUkZCaU5VOWItRlg1eHNDclRyOXNCUXZSajdlQ05keE5QWXQ1X09WeThvbHhPbDM2Z1hmc1ZkSVBEY2c?oc=5",
-        "publishedAt": "2026-07-12T05:21:50.000Z"
-      },
-      {
         "time": "11:55",
         "title": "5Gエッジコンピューティングがディスクリート製造の課題を解決：蘇州工場のPLC遠隔保守で年間100万元超のダウンタイム損失を削減",
         "source": "BigGo ファイナンス",
@@ -24,18 +17,18 @@
         "publishedAt": "2026-07-12T02:55:00.000Z"
       },
       {
-        "time": "14:26",
-        "title": "【イベントレポート】その技術、ロケットに使えるかもしれない--福岡企業に広がる宇宙輸送ビジネスへの参入機会",
-        "source": "天神経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yeXhROVphUHZiSHJYTXNfZFBmUEQ5TDBvSVBkTnhJeEthZktabjlhdEEzYkMzd2pNd0h3VEYzVXRCY1U2TnNqTlR4bTkxWjViRUQ4?oc=5",
-        "publishedAt": "2026-07-12T05:26:32.000Z"
-      },
-      {
         "time": "19:06",
         "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
         "publishedAt": "2026-07-12T10:06:02.000Z"
+      },
+      {
+        "time": "14:26",
+        "title": "【イベントレポート】その技術、ロケットに使えるかもしれない--福岡企業に広がる宇宙輸送ビジネスへの参入機会",
+        "source": "天神経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yeXhROVphUHZiSHJYTXNfZFBmUEQ5TDBvSVBkTnhJeEthZktabjlhdEEzYkMzd2pNd0h3VEYzVXRCY1U2TnNqTlR4bTkxWjViRUQ4?oc=5",
+        "publishedAt": "2026-07-12T05:26:32.000Z"
       },
       {
         "time": "18:30",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587706?source=rss",
         "publishedAt": "2026-07-12T11:05:42.000Z"
+      },
+      {
+        "time": "18:33",
+        "title": "福岡住宅高騰 JR佐賀駅前に勢い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587700?source=rss",
+        "publishedAt": "2026-07-12T09:33:10.000Z"
       }
     ],
     "worldHeadlines": [
