@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-12T20:48:57.342Z",
+  "updatedAt": "2026-07-12T21:21:03.997Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "14:21",
-        "title": "部品不足で生産ラインを止めないために--設備保全クラウド「ミロクルカルテ」、モバイルで完結する部品棚卸し機能α版をリリース",
+        "time": "19:06",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xZHhmZUhvWi16YTRtLWRBUkZCaU5VOWItRlg1eHNDclRyOXNCUXZSajdlQ05keE5QWXQ1X09WeThvbHhPbDM2Z1hmc1ZkSVBEY2c?oc=5",
-        "publishedAt": "2026-07-12T05:21:50.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-07-12T10:06:02.000Z"
       },
       {
         "time": "11:55",
@@ -15,13 +15,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CRG8zQWlGbkp3OExqN2NfS2htWGNobU9oOTRramVSV1p1bzVfZWxrY1BYWUNfY2R3cU42ckgwQUJLb1lRSzhsYzNwTmFna1FRNWlYY3dLdFhaTGVmUzl0blRiRXpUOVhDek8zbEVzTV9QOVdt?oc=5",
         "publishedAt": "2026-07-12T02:55:00.000Z"
-      },
-      {
-        "time": "19:06",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-07-12T10:06:02.000Z"
       },
       {
         "time": "14:26",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587700?source=rss",
         "publishedAt": "2026-07-12T09:33:10.000Z"
+      },
+      {
+        "time": "21:31",
+        "title": "モンストを欧州展開 MIXIが検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587597?source=rss",
+        "publishedAt": "2026-07-11T12:31:35.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "06:19",
+        "title": "祭りでトラブル 20歳男性刺される",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587729?source=rss",
+        "publishedAt": "2026-07-12T21:19:18.000Z"
+      },
+      {
         "time": "23:18",
         "title": "セクハラ辞任の前市長落選 田川市",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587702?source=rss",
         "publishedAt": "2026-07-12T09:46:12.000Z"
-      },
-      {
-        "time": "15:55",
-        "title": "女性警官を殴り鼻折った疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587678?source=rss",
-        "publishedAt": "2026-07-12T06:55:17.000Z"
       }
     ],
     "subsidyHeadlines": [
