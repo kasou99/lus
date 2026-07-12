@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T09:13:25.444Z",
+  "updatedAt": "2026-07-12T10:05:17.929Z",
   "items": [
     {
       "time": "17:23",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ホルムズ海峡で攻撃 インド人不明"
     },
     {
-      "time": "17:29",
-      "title": "北海道・十勝地方で猛烈な雨 警戒",
+      "time": "17:22",
+      "title": "政府 AI分野で同志国との協力加速",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587688?source=rss",
-      "publishedAt": "2026-07-12T08:29:38.000Z",
-      "xQuery": "北海道・十勝地方で猛烈な雨 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6587691?source=rss",
+      "publishedAt": "2026-07-12T08:22:34.000Z",
+      "xQuery": "政府 AI分野で同志国との協力加速"
     },
     {
-      "time": "15:55",
-      "title": "女性警官を殴り鼻折った疑い 逮捕",
+      "time": "18:46",
+      "title": "40歳女性ひかれ死亡 6歳娘は軽傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587678?source=rss",
-      "publishedAt": "2026-07-12T06:55:17.000Z",
-      "xQuery": "女性警官を殴り鼻折った疑い 逮捕"
-    },
-    {
-      "time": "17:26",
-      "title": "40歳女性ひかれ死亡 7歳娘は軽傷",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587692?source=rss",
-      "publishedAt": "2026-07-12T08:26:13.000Z",
-      "xQuery": "40歳女性ひかれ死亡 7歳娘は軽傷"
+      "url": "https://news.yahoo.co.jp/pickup/6587702?source=rss",
+      "publishedAt": "2026-07-12T09:46:12.000Z",
+      "xQuery": "40歳女性ひかれ死亡 6歳娘は軽傷"
     },
     {
       "time": "17:50",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587695?source=rss",
       "publishedAt": "2026-07-12T08:50:50.000Z",
       "xQuery": "ぬれぎぬで解雇され自殺 遺族憤り"
+    },
+    {
+      "time": "18:53",
+      "title": "プリウス3年で売れ行き半減 なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587701?source=rss",
+      "publishedAt": "2026-07-12T09:53:40.000Z",
+      "xQuery": "プリウス3年で売れ行き半減 なぜ"
     }
   ]
 };
