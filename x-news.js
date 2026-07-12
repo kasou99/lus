@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T01:39:28.968Z",
+  "updatedAt": "2026-07-12T03:11:42.197Z",
   "items": [
     {
-      "time": "10:05",
-      "title": "米軍 新たなイラン空爆を開始",
+      "time": "11:09",
+      "title": "内閣支持率65%超を維持 JNN分析",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587635?source=rss",
-      "publishedAt": "2026-07-12T01:05:50.000Z",
-      "xQuery": "米軍 新たなイラン空爆を開始"
+      "url": "https://news.yahoo.co.jp/pickup/6587644?source=rss",
+      "publishedAt": "2026-07-12T02:09:35.000Z",
+      "xQuery": "内閣支持率65%超を維持 JNN分析"
     },
     {
-      "time": "09:03",
-      "title": "イラン ホルムズ海峡の閉鎖を宣言",
+      "time": "11:28",
+      "title": "デジタル教育先進国 日本への助言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587629?source=rss",
-      "publishedAt": "2026-07-12T00:03:52.000Z",
-      "xQuery": "イラン ホルムズ海峡の閉鎖を宣言"
+      "url": "https://news.yahoo.co.jp/pickup/6587648?source=rss",
+      "publishedAt": "2026-07-12T02:28:35.000Z",
+      "xQuery": "デジタル教育先進国 日本への助言"
     },
     {
-      "time": "08:53",
-      "title": "勤務医の残業 年960時間超が15%",
+      "time": "10:24",
+      "title": "給食でO157集団食中毒 女性後悔",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587625?source=rss",
-      "publishedAt": "2026-07-11T23:53:38.000Z",
-      "xQuery": "勤務医の残業 年960時間超が15%"
-    },
-    {
-      "time": "09:06",
-      "title": "死亡ひき逃げ疑い アルコール検出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587626?source=rss",
-      "publishedAt": "2026-07-12T00:06:36.000Z",
-      "xQuery": "死亡ひき逃げ疑い アルコール検出"
+      "url": "https://news.yahoo.co.jp/pickup/6587638?source=rss",
+      "publishedAt": "2026-07-12T01:24:20.000Z",
+      "xQuery": "給食でO157集団食中毒 女性後悔"
     },
     {
       "time": "09:35",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587633?source=rss",
       "publishedAt": "2026-07-12T00:35:53.000Z",
       "xQuery": "大阪の公園に毒キノコ 大量発生"
+    },
+    {
+      "time": "11:29",
+      "title": "2万2141人かつらかぶりギネス 英",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587647?source=rss",
+      "publishedAt": "2026-07-12T02:29:26.000Z",
+      "xQuery": "2万2141人かつらかぶりギネス 英"
     }
   ]
 };
