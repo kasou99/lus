@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T08:18:56.160Z",
+  "updatedAt": "2026-07-12T09:13:25.444Z",
   "items": [
     {
-      "time": "15:26",
-      "title": "米軍 イラン軍施設140カ所を攻撃",
+      "time": "17:23",
+      "title": "ホルムズ海峡で攻撃 インド人不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587674?source=rss",
-      "publishedAt": "2026-07-12T06:26:37.000Z",
-      "xQuery": "米軍 イラン軍施設140カ所を攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6587690?source=rss",
+      "publishedAt": "2026-07-12T08:23:06.000Z",
+      "xQuery": "ホルムズ海峡で攻撃 インド人不明"
     },
     {
-      "time": "16:24",
-      "title": "検察6人誤り把握 前川さんが怒り",
+      "time": "17:29",
+      "title": "北海道・十勝地方で猛烈な雨 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587683?source=rss",
-      "publishedAt": "2026-07-12T07:24:55.000Z",
-      "xQuery": "検察6人誤り把握 前川さんが怒り"
+      "url": "https://news.yahoo.co.jp/pickup/6587688?source=rss",
+      "publishedAt": "2026-07-12T08:29:38.000Z",
+      "xQuery": "北海道・十勝地方で猛烈な雨 警戒"
     },
     {
       "time": "15:55",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "女性警官を殴り鼻折った疑い 逮捕"
     },
     {
-      "time": "16:08",
-      "title": "水上バイク3人転落 16歳女性不明",
+      "time": "17:26",
+      "title": "40歳女性ひかれ死亡 7歳娘は軽傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587681?source=rss",
-      "publishedAt": "2026-07-12T07:08:45.000Z",
-      "xQuery": "水上バイク3人転落 16歳女性不明"
+      "url": "https://news.yahoo.co.jp/pickup/6587692?source=rss",
+      "publishedAt": "2026-07-12T08:26:13.000Z",
+      "xQuery": "40歳女性ひかれ死亡 7歳娘は軽傷"
     },
     {
-      "time": "16:48",
-      "title": "夜から髪洗い朝に 強迫症の苦しみ",
+      "time": "17:50",
+      "title": "ぬれぎぬで解雇され自殺 遺族憤り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587685?source=rss",
-      "publishedAt": "2026-07-12T07:48:28.000Z",
-      "xQuery": "夜から髪洗い朝に 強迫症の苦しみ"
+      "url": "https://news.yahoo.co.jp/pickup/6587695?source=rss",
+      "publishedAt": "2026-07-12T08:50:50.000Z",
+      "xQuery": "ぬれぎぬで解雇され自殺 遺族憤り"
     }
   ]
 };
