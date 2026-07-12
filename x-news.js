@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T21:21:05.190Z",
+  "updatedAt": "2026-07-12T21:49:03.230Z",
   "items": [
     {
       "time": "22:49",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ウクライナ 内閣改造で首相交代へ"
     },
     {
-      "time": "21:36",
-      "title": "生食用鶏肉 ガイドライン初策定へ",
+      "time": "06:42",
+      "title": "バンコクのパブで火災 27人が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587717?source=rss",
-      "publishedAt": "2026-07-12T12:36:20.000Z",
-      "xQuery": "生食用鶏肉 ガイドライン初策定へ"
+      "url": "https://news.yahoo.co.jp/pickup/6587731?source=rss",
+      "publishedAt": "2026-07-12T21:42:39.000Z",
+      "xQuery": "バンコクのパブで火災 27人が死亡"
     },
     {
       "time": "21:28",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マットで中1死亡 賠償応じない3人"
     },
     {
-      "time": "23:18",
-      "title": "セクハラ辞任の前市長落選 田川市",
+      "time": "06:19",
+      "title": "祭りでトラブル 20歳男性刺される",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587726?source=rss",
-      "publishedAt": "2026-07-12T14:18:45.000Z",
-      "xQuery": "セクハラ辞任の前市長落選 田川市"
+      "url": "https://news.yahoo.co.jp/pickup/6587729?source=rss",
+      "publishedAt": "2026-07-12T21:19:18.000Z",
+      "xQuery": "祭りでトラブル 20歳男性刺される"
     }
   ]
 };
