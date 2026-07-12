@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T23:49:47.254Z",
+  "updatedAt": "2026-07-12T00:51:19.437Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "09:03",
+        "title": "イラン ホルムズ海峡の閉鎖を宣言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587629?source=rss",
+        "publishedAt": "2026-07-12T00:03:52.000Z"
+      },
+      {
         "time": "23:48",
         "title": "モジタバ師「復讐を誓う」と表明",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587512?source=rss",
         "publishedAt": "2026-07-11T00:28:34.000Z"
-      },
-      {
-        "time": "09:14",
-        "title": "中国 ヘリウム輸出を一時禁止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587509?source=rss",
-        "publishedAt": "2026-07-11T00:14:34.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-07-11T22:34:45.000Z"
       },
       {
+        "time": "09:06",
+        "title": "死亡ひき逃げ疑い アルコール検出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587626?source=rss",
+        "publishedAt": "2026-07-12T00:06:36.000Z"
+      },
+      {
         "time": "23:00",
         "title": "1日千人使うバス廃止へ 住民困惑",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587578?source=rss",
         "publishedAt": "2026-07-11T09:09:57.000Z"
-      },
-      {
-        "time": "15:48",
-        "title": "宮崎麗果被告に判決へ 公判で釈明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587560?source=rss",
-        "publishedAt": "2026-07-11T06:48:10.000Z"
       }
     ],
     "subsidyHeadlines": [

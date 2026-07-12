@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-11T23:49:48.090Z",
+  "updatedAt": "2026-07-12T00:51:19.874Z",
   "items": [
+    {
+      "time": "09:03",
+      "title": "イラン ホルムズ海峡の閉鎖を宣言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587629?source=rss",
+      "publishedAt": "2026-07-12T00:03:52.000Z",
+      "xQuery": "イラン ホルムズ海峡の閉鎖を宣言"
+    },
     {
       "time": "07:38",
       "title": "九州 40℃に迫る危険な暑さ予想",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "特別国会 与野党が最終盤の攻防へ"
     },
     {
+      "time": "09:06",
+      "title": "死亡ひき逃げ疑い アルコール検出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587626?source=rss",
+      "publishedAt": "2026-07-12T00:06:36.000Z",
+      "xQuery": "死亡ひき逃げ疑い アルコール検出"
+    },
+    {
       "time": "07:47",
       "title": "高波で船が転覆か 1人行方不明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587617?source=rss",
       "publishedAt": "2026-07-11T22:47:25.000Z",
       "xQuery": "高波で船が転覆か 1人行方不明"
-    },
-    {
-      "time": "07:34",
-      "title": "マンションで女性殺害疑い 男逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587615?source=rss",
-      "publishedAt": "2026-07-11T22:34:45.000Z",
-      "xQuery": "マンションで女性殺害疑い 男逮捕"
-    },
-    {
-      "time": "23:00",
-      "title": "1日千人使うバス廃止へ 住民困惑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587607?source=rss",
-      "publishedAt": "2026-07-11T14:00:35.000Z",
-      "xQuery": "1日千人使うバス廃止へ 住民困惑"
     }
   ]
 };
