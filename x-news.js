@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T03:11:42.197Z",
+  "updatedAt": "2026-07-12T04:40:57.817Z",
   "items": [
     {
-      "time": "11:09",
-      "title": "内閣支持率65%超を維持 JNN分析",
+      "time": "13:21",
+      "title": "男系男子養子案 対象の旧宮家とは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587644?source=rss",
-      "publishedAt": "2026-07-12T02:09:35.000Z",
-      "xQuery": "内閣支持率65%超を維持 JNN分析"
+      "url": "https://news.yahoo.co.jp/pickup/6587661?source=rss",
+      "publishedAt": "2026-07-12T04:21:17.000Z",
+      "xQuery": "男系男子養子案 対象の旧宮家とは"
     },
     {
-      "time": "11:28",
-      "title": "デジタル教育先進国 日本への助言",
+      "time": "12:13",
+      "title": "カナダ・トロントで銃撃 2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587648?source=rss",
-      "publishedAt": "2026-07-12T02:28:35.000Z",
-      "xQuery": "デジタル教育先進国 日本への助言"
+      "url": "https://news.yahoo.co.jp/pickup/6587653?source=rss",
+      "publishedAt": "2026-07-12T03:13:16.000Z",
+      "xQuery": "カナダ・トロントで銃撃 2人死亡"
     },
     {
       "time": "10:24",

@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-12T03:11:41.081Z",
+  "updatedAt": "2026-07-12T04:40:56.792Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "12:24",
-        "title": "【設備保全】コスモ石油、堺製油所で四足歩行ロボットを活用した設備点検のPoC開始",
-        "source": "ctiweb.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNNWtJUEE2T21rWENxenRSTHBEYlRidEl5Qml5bmQtYnVqWXZRNXlMbXZ3bHVFMnJtNWgtWm1sU0hBdlhLX1BHX3V4aVpRT3ZlbzlWRjBwdHhsMEg3ZDZuX3pNU3lnbWRoci1QczhlVkhDUl9GWERkMS1LYmcwaTFfQ3A4ZXNBdmNJcVBTemtmUm5YRkYxYjFSWFpEcVc0SVFEaWZ6UWdQdkpXVGFldW5UaDBIRDl2U2tFN0tpSXRVZk9BaUpGX0NCUlRTcnd0elBHV2F4VDhaazBTbktBQWtkeEY5Q2cwSGhVSzJQOHoyNzNDUjlTeUpva1BKdC10OGhoT0oyT0V5RkVBR3RpVmFGTURreDhaMlpBWkxvRXFWdGI4aFplazhXdEV4S2pJRWJyR3dULTVkYk9QRlFXMkl6LXJPbWNiREhXTGo3aEVQQjlQQ25LV0E?oc=5",
-        "publishedAt": "2026-07-11T03:24:43.000Z"
-      },
       {
         "time": "18:30",
         "title": "非接触リニア磁気エンコーダの世界市場（2026年～2032年）、市場規模（アブソリュート型リニア磁気エンコーダ、インクリメンタル型リニア磁気エンコーダ）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80T1BCdWpUWWNUQ0w2a21taTBfckhmQlE1RmJFT0w1emJWd3MwUVZPandiaExyNkxWY3pPYWVUN3ZYMk1EbkdiZ0ZjQTFMV3c?oc=5",
         "publishedAt": "2026-07-11T09:30:00.000Z"
+      },
+      {
+        "time": "12:11",
+        "title": "【イベントレポート】その技術、ロケットに使えるかもしれない--福岡企業に広がる宇宙輸送ビジネスへの参入機会",
+        "source": "博多経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80dDhaT2FPUl9nV2hta09vNEJmUXJmd1FyaE9CaklaUTZiSC15WHBvYnBOd182eGRuWGUzTVc1bUNSUmt6WDRFR1VBMWhFdmdMUy1F?oc=5",
+        "publishedAt": "2026-07-12T03:11:08.000Z"
       },
       {
         "time": "22:39",
@@ -29,13 +29,6 @@
         "source": "Excite エキサイト",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNamd4ekFxa0h4a0dlZjBhR21Nb0tVa2hTTm5Gd011SjdsLThvNXlmVGp0d2hDMFJ4ekVwdm5CdV9aU3RTWEItcFhVRGhUbGtjeFJEM3BiWVJiOVFuRExja0swUmMwbmc2cjlKRjY5a0JFeUtJSFE?oc=5",
         "publishedAt": "2026-07-11T12:10:00.000Z"
-      },
-      {
-        "time": "12:11",
-        "title": "【イベントレポート】その技術、ロケットに使えるかもしれない--福岡企業に広がる宇宙輸送ビジネスへの参入機会",
-        "source": "博多経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80dDhaT2FPUl9nV2hta09vNEJmUXJmd1FyaE9CaklaUTZiSC15WHBvYnBOd182eGRuWGUzTVc1bUNSUmt6WDRFR1VBMWhFdmdMUy1F?oc=5",
-        "publishedAt": "2026-07-12T03:11:08.000Z"
       },
       {
         "time": "17:20",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587597?source=rss",
         "publishedAt": "2026-07-11T12:31:35.000Z"
+      },
+      {
+        "time": "16:47",
+        "title": "V字回復した大戸屋 社長交代の訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587567?source=rss",
+        "publishedAt": "2026-07-11T07:47:07.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-07-11T11:30:56.000Z"
       },
       {
+        "time": "12:13",
+        "title": "カナダ・トロントで銃撃 2人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587653?source=rss",
+        "publishedAt": "2026-07-12T03:13:16.000Z"
+      },
+      {
         "time": "16:27",
         "title": "ロシアの燃料不足 近隣国にも影響",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587566?source=rss",
         "publishedAt": "2026-07-11T07:27:37.000Z"
-      },
-      {
-        "time": "11:47",
-        "title": "ヘンリー王子一家 英国王と対面",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587528?source=rss",
-        "publishedAt": "2026-07-11T02:47:54.000Z"
       }
     ],
     "economyHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-07-11T22:47:25.000Z"
       },
       {
-        "time": "18:09",
-        "title": "三河湾岸に新球場 反対住民提訴へ",
+        "time": "21:48",
+        "title": "クマが家の菓子食べる 眠れぬ住人",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587578?source=rss",
-        "publishedAt": "2026-07-11T09:09:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587599?source=rss",
+        "publishedAt": "2026-07-11T12:48:17.000Z"
       }
     ],
     "subsidyHeadlines": [
