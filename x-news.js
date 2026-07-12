@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T07:21:57.038Z",
+  "updatedAt": "2026-07-12T08:18:56.160Z",
   "items": [
     {
       "time": "15:26",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米軍 イラン軍施設140カ所を攻撃"
     },
     {
-      "time": "15:24",
-      "title": "自民 会期内の全法案成立目指す",
+      "time": "16:24",
+      "title": "検察6人誤り把握 前川さんが怒り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587673?source=rss",
-      "publishedAt": "2026-07-12T06:24:28.000Z",
-      "xQuery": "自民 会期内の全法案成立目指す"
+      "url": "https://news.yahoo.co.jp/pickup/6587683?source=rss",
+      "publishedAt": "2026-07-12T07:24:55.000Z",
+      "xQuery": "検察6人誤り把握 前川さんが怒り"
     },
     {
       "time": "15:55",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "女性警官を殴り鼻折った疑い 逮捕"
     },
     {
-      "time": "14:32",
-      "title": "トラックと車が衝突 中学生が死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587669?source=rss",
-      "publishedAt": "2026-07-12T05:32:13.000Z",
-      "xQuery": "トラックと車が衝突 中学生が死亡"
-    },
-    {
       "time": "16:08",
       "title": "水上バイク3人転落 16歳女性不明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587681?source=rss",
       "publishedAt": "2026-07-12T07:08:45.000Z",
       "xQuery": "水上バイク3人転落 16歳女性不明"
+    },
+    {
+      "time": "16:48",
+      "title": "夜から髪洗い朝に 強迫症の苦しみ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587685?source=rss",
+      "publishedAt": "2026-07-12T07:48:28.000Z",
+      "xQuery": "夜から髪洗い朝に 強迫症の苦しみ"
     }
   ]
 };
