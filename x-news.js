@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T23:22:12.887Z",
+  "updatedAt": "2026-07-12T23:49:43.499Z",
   "items": [
     {
       "time": "07:36",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中国 日本大使館幹部呼び出し抗議"
     },
     {
-      "time": "06:42",
-      "title": "バンコクのパブで火災 27人が死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587731?source=rss",
-      "publishedAt": "2026-07-12T21:42:39.000Z",
-      "xQuery": "バンコクのパブで火災 27人が死亡"
-    },
-    {
       "time": "06:19",
       "title": "祭りでトラブル 20歳男性刺される",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587729?source=rss",
       "publishedAt": "2026-07-12T21:19:18.000Z",
       "xQuery": "祭りでトラブル 20歳男性刺される"
+    },
+    {
+      "time": "08:16",
+      "title": "東証上場の昭和HD消失? 異常事態",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587740?source=rss",
+      "publishedAt": "2026-07-12T23:16:00.000Z",
+      "xQuery": "東証上場の昭和HD消失? 異常事態"
     }
   ]
 };
