@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T10:05:17.929Z",
+  "updatedAt": "2026-07-12T10:59:00.386Z",
   "items": [
     {
       "time": "17:23",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ホルムズ海峡で攻撃 インド人不明"
     },
     {
-      "time": "17:22",
-      "title": "政府 AI分野で同志国との協力加速",
+      "time": "18:00",
+      "title": "南シナ海の中国主張巡り 共同声明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587691?source=rss",
-      "publishedAt": "2026-07-12T08:22:34.000Z",
-      "xQuery": "政府 AI分野で同志国との協力加速"
+      "url": "https://news.yahoo.co.jp/pickup/6587693?source=rss",
+      "publishedAt": "2026-07-12T09:00:01.000Z",
+      "xQuery": "南シナ海の中国主張巡り 共同声明"
+    },
+    {
+      "time": "19:49",
+      "title": "暴力で患者怒らせ 面白がり撮影か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587704?source=rss",
+      "publishedAt": "2026-07-12T10:49:09.000Z",
+      "xQuery": "暴力で患者怒らせ 面白がり撮影か"
     },
     {
       "time": "18:46",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587695?source=rss",
       "publishedAt": "2026-07-12T08:50:50.000Z",
       "xQuery": "ぬれぎぬで解雇され自殺 遺族憤り"
-    },
-    {
-      "time": "18:53",
-      "title": "プリウス3年で売れ行き半減 なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587701?source=rss",
-      "publishedAt": "2026-07-12T09:53:40.000Z",
-      "xQuery": "プリウス3年で売れ行き半減 なぜ"
     }
   ]
 };
