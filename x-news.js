@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-12T04:40:57.817Z",
+  "updatedAt": "2026-07-12T06:03:57.921Z",
   "items": [
     {
-      "time": "13:21",
-      "title": "男系男子養子案 対象の旧宮家とは",
+      "time": "14:34",
+      "title": "東北で大雨 九州-関東も雷雨注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587661?source=rss",
-      "publishedAt": "2026-07-12T04:21:17.000Z",
-      "xQuery": "男系男子養子案 対象の旧宮家とは"
+      "url": "https://news.yahoo.co.jp/pickup/6587668?source=rss",
+      "publishedAt": "2026-07-12T05:34:21.000Z",
+      "xQuery": "東北で大雨 九州-関東も雷雨注意"
     },
     {
       "time": "12:13",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "カナダ・トロントで銃撃 2人死亡"
     },
     {
-      "time": "10:24",
-      "title": "給食でO157集団食中毒 女性後悔",
+      "time": "14:32",
+      "title": "トラックと車が衝突 中学生が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587638?source=rss",
-      "publishedAt": "2026-07-12T01:24:20.000Z",
-      "xQuery": "給食でO157集団食中毒 女性後悔"
+      "url": "https://news.yahoo.co.jp/pickup/6587669?source=rss",
+      "publishedAt": "2026-07-12T05:32:13.000Z",
+      "xQuery": "トラックと車が衝突 中学生が死亡"
     },
     {
-      "time": "09:35",
-      "title": "大阪の公園に毒キノコ 大量発生",
+      "time": "12:29",
+      "title": "海で流された10歳 救った漁業者ら",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587633?source=rss",
-      "publishedAt": "2026-07-12T00:35:53.000Z",
-      "xQuery": "大阪の公園に毒キノコ 大量発生"
+      "url": "https://news.yahoo.co.jp/pickup/6587654?source=rss",
+      "publishedAt": "2026-07-12T03:29:36.000Z",
+      "xQuery": "海で流された10歳 救った漁業者ら"
     },
     {
       "time": "11:29",

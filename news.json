@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T04:40:56.792Z",
+  "updatedAt": "2026-07-12T06:03:57.028Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80T1BCdWpUWWNUQ0w2a21taTBfckhmQlE1RmJFT0w1emJWd3MwUVZPandiaExyNkxWY3pPYWVUN3ZYMk1EbkdiZ0ZjQTFMV3c?oc=5",
         "publishedAt": "2026-07-11T09:30:00.000Z"
-      },
-      {
-        "time": "12:11",
-        "title": "【イベントレポート】その技術、ロケットに使えるかもしれない--福岡企業に広がる宇宙輸送ビジネスへの参入機会",
-        "source": "博多経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80dDhaT2FPUl9nV2hta09vNEJmUXJmd1FyaE9CaklaUTZiSC15WHBvYnBOd182eGRuWGUzTVc1bUNSUmt6WDRFR1VBMWhFdmdMUy1F?oc=5",
-        "publishedAt": "2026-07-12T03:11:08.000Z"
       },
       {
         "time": "22:39",
@@ -29,6 +22,13 @@
         "source": "Excite エキサイト",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNamd4ekFxa0h4a0dlZjBhR21Nb0tVa2hTTm5Gd011SjdsLThvNXlmVGp0d2hDMFJ4ekVwdm5CdV9aU3RTWEItcFhVRGhUbGtjeFJEM3BiWVJiOVFuRExja0swUmMwbmc2cjlKRjY5a0JFeUtJSFE?oc=5",
         "publishedAt": "2026-07-11T12:10:00.000Z"
+      },
+      {
+        "time": "14:26",
+        "title": "【イベントレポート】その技術、ロケットに使えるかもしれない--福岡企業に広がる宇宙輸送ビジネスへの参入機会",
+        "source": "天神経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yeXhROVphUHZiSHJYTXNfZFBmUEQ5TDBvSVBkTnhJeEthZktabjlhdEEzYkMzd2pNd0h3VEYzVXRCY1U2TnNqTlR4bTkxWjViRUQ4?oc=5",
+        "publishedAt": "2026-07-12T05:26:32.000Z"
       },
       {
         "time": "17:20",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "17:45",
-        "title": "前静岡知事 リニア工事は万死に値",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587576?source=rss",
-        "publishedAt": "2026-07-11T08:45:31.000Z"
-      },
-      {
         "time": "07:34",
         "title": "マンションで女性殺害疑い 男逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587615?source=rss",
         "publishedAt": "2026-07-11T22:34:45.000Z"
+      },
+      {
+        "time": "14:32",
+        "title": "トラックと車が衝突 中学生が死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587669?source=rss",
+        "publishedAt": "2026-07-12T05:32:13.000Z"
       },
       {
         "time": "09:06",
@@ -170,25 +170,25 @@
         "publishedAt": "2026-07-12T00:06:36.000Z"
       },
       {
+        "time": "14:58",
+        "title": "海水浴場で1人行方不明 高校生か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587671?source=rss",
+        "publishedAt": "2026-07-12T05:58:10.000Z"
+      },
+      {
+        "time": "23:22",
+        "title": "釣り道具追いかけおぼれたか 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587610?source=rss",
+        "publishedAt": "2026-07-11T14:22:07.000Z"
+      },
+      {
         "time": "23:00",
         "title": "1日千人使うバス廃止へ 住民困惑",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587607?source=rss",
         "publishedAt": "2026-07-11T14:00:35.000Z"
-      },
-      {
-        "time": "07:47",
-        "title": "高波で船が転覆か 1人行方不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587617?source=rss",
-        "publishedAt": "2026-07-11T22:47:25.000Z"
-      },
-      {
-        "time": "21:48",
-        "title": "クマが家の菓子食べる 眠れぬ住人",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587599?source=rss",
-        "publishedAt": "2026-07-11T12:48:17.000Z"
       }
     ],
     "subsidyHeadlines": [
