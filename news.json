@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T17:51:32.970Z",
+  "updatedAt": "2026-07-12T18:24:18.970Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-07-12T05:26:32.000Z"
       },
       {
+        "time": "19:06",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-07-12T10:06:02.000Z"
+      },
+      {
         "time": "18:30",
         "title": "中国湖北省黄岡市、台風に備えダム放水 一斉点検も実施",
         "source": "ライブドアニュース",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587706?source=rss",
         "publishedAt": "2026-07-12T11:05:42.000Z"
-      },
-      {
-        "time": "18:33",
-        "title": "福岡住宅高騰 JR佐賀駅前に勢い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587700?source=rss",
-        "publishedAt": "2026-07-12T09:33:10.000Z"
       }
     ],
     "worldHeadlines": [
