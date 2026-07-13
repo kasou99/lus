@@ -1,29 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T12:04:25.843Z",
+  "updatedAt": "2026-07-13T13:19:56.133Z",
   "items": [
     {
-      "time": "19:43",
-      "title": "兵庫県の財政指標 算定誤りで悪化",
+      "time": "21:14",
+      "title": "14日 東日本も熱中症リスク高まる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587812?source=rss",
-      "publishedAt": "2026-07-13T10:43:22.000Z",
-      "xQuery": "兵庫県の財政指標 算定誤りで悪化"
-    },
-    {
-      "time": "20:13",
-      "title": "父親の寝ている寝室からクマ 目撃",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587816?source=rss",
-      "publishedAt": "2026-07-13T11:13:30.000Z",
-      "xQuery": "父親の寝ている寝室からクマ 目撃"
-    },
-    {
-      "time": "20:55",
-      "title": "4人刺傷 誰でも良かったと男供述",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587820?source=rss",
-      "publishedAt": "2026-07-13T11:55:48.000Z",
-      "xQuery": "4人刺傷 誰でも良かったと男供述"
+      "url": "https://news.yahoo.co.jp/pickup/6587822?source=rss",
+      "publishedAt": "2026-07-13T12:14:59.000Z",
+      "xQuery": "14日 東日本も熱中症リスク高まる"
     },
     {
       "time": "20:19",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "検事の不適切関係 女性がコメント"
     },
     {
-      "time": "18:01",
-      "title": "イランで人質生活の過去 41歳の今",
+      "time": "21:51",
+      "title": "LINE ゲーム利用者識別情報が流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587801?source=rss",
-      "publishedAt": "2026-07-13T09:01:36.000Z",
-      "xQuery": "イランで人質生活の過去 41歳の今"
+      "url": "https://news.yahoo.co.jp/pickup/6587824?source=rss",
+      "publishedAt": "2026-07-13T12:51:48.000Z",
+      "xQuery": "LINE ゲーム利用者識別情報が流出"
+    },
+    {
+      "time": "20:55",
+      "title": "4人刺傷 誰でも良かったと男供述",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587820?source=rss",
+      "publishedAt": "2026-07-13T11:55:48.000Z",
+      "xQuery": "4人刺傷 誰でも良かったと男供述"
+    },
+    {
+      "time": "21:48",
+      "title": "高尾署で勾留中 トルコ人男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587823?source=rss",
+      "publishedAt": "2026-07-13T12:48:00.000Z",
+      "xQuery": "高尾署で勾留中 トルコ人男性死亡"
     }
   ]
 };
