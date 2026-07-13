@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T14:20:08.587Z",
+  "updatedAt": "2026-07-13T15:30:50.596Z",
   "items": [
-    {
-      "time": "22:49",
-      "title": "辺野古訴訟 一部に原告適格認める",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587827?source=rss",
-      "publishedAt": "2026-07-13T13:49:54.000Z",
-      "xQuery": "辺野古訴訟 一部に原告適格認める"
-    },
     {
       "time": "21:14",
       "title": "14日 東日本も熱中症リスク高まる",
@@ -18,28 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "14日 東日本も熱中症リスク高まる"
     },
     {
-      "time": "20:55",
-      "title": "4人刺傷 誰でも良かったと男供述",
+      "time": "23:09",
+      "title": "EUも子のSNS制限へ 13歳未満対象",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587820?source=rss",
-      "publishedAt": "2026-07-13T11:55:48.000Z",
-      "xQuery": "4人刺傷 誰でも良かったと男供述"
+      "url": "https://news.yahoo.co.jp/pickup/6587832?source=rss",
+      "publishedAt": "2026-07-13T14:09:06.000Z",
+      "xQuery": "EUも子のSNS制限へ 13歳未満対象"
     },
     {
-      "time": "20:19",
-      "title": "検事の不適切関係 女性がコメント",
+      "time": "23:18",
+      "title": "全東信破産 465億円超焦げ付きか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587814?source=rss",
-      "publishedAt": "2026-07-13T11:19:45.000Z",
-      "xQuery": "検事の不適切関係 女性がコメント"
+      "url": "https://news.yahoo.co.jp/pickup/6587833?source=rss",
+      "publishedAt": "2026-07-13T14:18:23.000Z",
+      "xQuery": "全東信破産 465億円超焦げ付きか"
     },
     {
-      "time": "21:48",
-      "title": "高尾署で勾留中 トルコ人男性死亡",
+      "time": "23:50",
+      "title": "東京で無差別殺傷を計画疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587823?source=rss",
-      "publishedAt": "2026-07-13T12:48:00.000Z",
-      "xQuery": "高尾署で勾留中 トルコ人男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6587835?source=rss",
+      "publishedAt": "2026-07-13T14:50:37.000Z",
+      "xQuery": "東京で無差別殺傷を計画疑い 逮捕"
+    },
+    {
+      "time": "22:45",
+      "title": "鎌倉花火 有料席購入者に返金検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587830?source=rss",
+      "publishedAt": "2026-07-13T13:45:48.000Z",
+      "xQuery": "鎌倉花火 有料席購入者に返金検討"
     }
   ]
 };
