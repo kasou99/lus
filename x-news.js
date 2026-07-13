@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T20:31:27.795Z",
+  "updatedAt": "2026-07-13T21:24:01.989Z",
   "items": [
+    {
+      "time": "06:12",
+      "title": "米大統領 イラン海上封鎖再開表明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587836?source=rss",
+      "publishedAt": "2026-07-13T21:12:49.000Z",
+      "xQuery": "米大統領 イラン海上封鎖再開表明"
+    },
     {
       "time": "21:14",
       "title": "14日 東日本も熱中症リスク高まる",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587835?source=rss",
       "publishedAt": "2026-07-13T14:50:37.000Z",
       "xQuery": "東京で無差別殺傷を計画疑い 逮捕"
-    },
-    {
-      "time": "22:45",
-      "title": "鎌倉花火 有料席購入者に返金検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587830?source=rss",
-      "publishedAt": "2026-07-13T13:45:48.000Z",
-      "xQuery": "鎌倉花火 有料席購入者に返金検討"
     }
   ]
 };

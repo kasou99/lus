@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T20:31:26.948Z",
+  "updatedAt": "2026-07-13T21:24:01.356Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "06:12",
+        "title": "米大統領 イラン海上封鎖再開表明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587836?source=rss",
+        "publishedAt": "2026-07-13T21:12:49.000Z"
+      },
+      {
         "time": "12:43",
         "title": "米軍がイランを追加攻撃 応酬激化",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587731?source=rss",
         "publishedAt": "2026-07-12T21:42:39.000Z"
-      },
-      {
-        "time": "07:26",
-        "title": "中国 日本大使館幹部呼び出し抗議",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587734?source=rss",
-        "publishedAt": "2026-07-12T22:26:24.000Z"
       }
     ],
     "economyHeadlines": [
