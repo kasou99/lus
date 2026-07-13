@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T09:14:35.037Z",
+  "updatedAt": "2026-07-13T10:37:24.223Z",
   "items": [
+    {
+      "time": "18:47",
+      "title": "検察 不祥事相次いでも会見なし",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587808?source=rss",
+      "publishedAt": "2026-07-13T09:47:34.000Z",
+      "xQuery": "検察 不祥事相次いでも会見なし"
+    },
     {
       "time": "17:26",
       "title": "SNS規制法成立 選挙の偽情報対策",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "SNS規制法成立 選挙の偽情報対策"
     },
     {
-      "time": "16:50",
-      "title": "東北-北海道 15日から大雨恐れ",
+      "time": "18:26",
+      "title": "警棒で高校生失明 沖縄県が賠償へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587791?source=rss",
-      "publishedAt": "2026-07-13T07:50:38.000Z",
-      "xQuery": "東北-北海道 15日から大雨恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6587806?source=rss",
+      "publishedAt": "2026-07-13T09:26:14.000Z",
+      "xQuery": "警棒で高校生失明 沖縄県が賠償へ"
     },
     {
-      "time": "16:34",
-      "title": "県議会の現金授受疑惑 音声を分析",
+      "time": "18:12",
+      "title": "新型車 なぜ「オラオラ顔」増加",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587788?source=rss",
-      "publishedAt": "2026-07-13T07:34:33.000Z",
-      "xQuery": "県議会の現金授受疑惑 音声を分析"
+      "url": "https://news.yahoo.co.jp/pickup/6587804?source=rss",
+      "publishedAt": "2026-07-13T09:12:34.000Z",
+      "xQuery": "新型車 なぜ「オラオラ顔」増加"
     },
     {
-      "time": "17:03",
-      "title": "ダンプ逆走か 正面衝突し1人死亡",
+      "time": "19:17",
+      "title": "スマホ盗聴し広告掲出? 説を整理",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587792?source=rss",
-      "publishedAt": "2026-07-13T08:03:53.000Z",
-      "xQuery": "ダンプ逆走か 正面衝突し1人死亡"
-    },
-    {
-      "time": "17:47",
-      "title": "窓割れるほどの衝撃音 都内で火災",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587800?source=rss",
-      "publishedAt": "2026-07-13T08:47:03.000Z",
-      "xQuery": "窓割れるほどの衝撃音 都内で火災"
+      "url": "https://news.yahoo.co.jp/pickup/6587811?source=rss",
+      "publishedAt": "2026-07-13T10:17:35.000Z",
+      "xQuery": "スマホ盗聴し広告掲出? 説を整理"
     }
   ]
 };
