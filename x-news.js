@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T01:41:31.240Z",
+  "updatedAt": "2026-07-13T03:13:07.684Z",
   "items": [
     {
-      "time": "07:58",
-      "title": "国会残り5日 与野党の論戦ヤマ場",
+      "time": "10:40",
+      "title": "政権 長期金利上昇に神経とがらせ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587739?source=rss",
-      "publishedAt": "2026-07-12T22:58:19.000Z",
-      "xQuery": "国会残り5日 与野党の論戦ヤマ場"
+      "url": "https://news.yahoo.co.jp/pickup/6587752?source=rss",
+      "publishedAt": "2026-07-13T01:40:14.000Z",
+      "xQuery": "政権 長期金利上昇に神経とがらせ"
     },
     {
-      "time": "07:46",
-      "title": "九州～近畿は猛暑続く 熱中症警戒",
+      "time": "11:26",
+      "title": "九州南部が梅雨明け 熱中症に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587738?source=rss",
-      "publishedAt": "2026-07-12T22:46:53.000Z",
-      "xQuery": "九州～近畿は猛暑続く 熱中症警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6587756?source=rss",
+      "publishedAt": "2026-07-13T02:26:43.000Z",
+      "xQuery": "九州南部が梅雨明け 熱中症に警戒"
     },
     {
-      "time": "09:56",
-      "title": "原油先物が急上昇 海峡の懸念再燃",
+      "time": "11:54",
+      "title": "MUFG時価総額 一時日本企業1位",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587748?source=rss",
-      "publishedAt": "2026-07-13T00:56:40.000Z",
-      "xQuery": "原油先物が急上昇 海峡の懸念再燃"
+      "url": "https://news.yahoo.co.jp/pickup/6587765?source=rss",
+      "publishedAt": "2026-07-13T02:54:36.000Z",
+      "xQuery": "MUFG時価総額 一時日本企業1位"
     },
     {
-      "time": "08:16",
-      "title": "東証上場の昭和HD消失? 異常事態",
+      "time": "11:40",
+      "title": "男女4人が相次ぎ刺される 男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587740?source=rss",
-      "publishedAt": "2026-07-12T23:16:00.000Z",
-      "xQuery": "東証上場の昭和HD消失? 異常事態"
+      "url": "https://news.yahoo.co.jp/pickup/6587761?source=rss",
+      "publishedAt": "2026-07-13T02:40:07.000Z",
+      "xQuery": "男女4人が相次ぎ刺される 男逮捕"
     },
     {
-      "time": "08:40",
-      "title": "パンチくんに寄付金 暑さ対策強化",
+      "time": "11:28",
+      "title": "江別暴行死「主犯格」初公判で涙",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587743?source=rss",
-      "publishedAt": "2026-07-12T23:40:21.000Z",
-      "xQuery": "パンチくんに寄付金 暑さ対策強化"
+      "url": "https://news.yahoo.co.jp/pickup/6587757?source=rss",
+      "publishedAt": "2026-07-13T02:28:56.000Z",
+      "xQuery": "江別暴行死「主犯格」初公判で涙"
     }
   ]
 };
