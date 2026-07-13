@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T22:50:06.642Z",
+  "updatedAt": "2026-07-13T23:22:39.403Z",
   "items": [
     {
       "time": "07:23",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "猛暑日100地点超えか 熱中症警戒"
     },
     {
-      "time": "06:12",
-      "title": "米大統領 イラン海上封鎖再開表明",
+      "time": "07:35",
+      "title": "北陸新幹線延伸 桂川案急浮上の訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587836?source=rss",
-      "publishedAt": "2026-07-13T21:12:49.000Z",
-      "xQuery": "米大統領 イラン海上封鎖再開表明"
+      "url": "https://news.yahoo.co.jp/pickup/6587843?source=rss",
+      "publishedAt": "2026-07-13T22:35:17.000Z",
+      "xQuery": "北陸新幹線延伸 桂川案急浮上の訳"
     },
     {
       "time": "06:34",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "5人乗りゴムボート転覆 1人死亡"
     },
     {
-      "time": "07:35",
-      "title": "北陸新幹線延伸 桂川案急浮上の訳",
+      "time": "08:08",
+      "title": "休職代行広がり 公務員ら駆け込み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587843?source=rss",
-      "publishedAt": "2026-07-13T22:35:17.000Z",
-      "xQuery": "北陸新幹線延伸 桂川案急浮上の訳"
+      "url": "https://news.yahoo.co.jp/pickup/6587847?source=rss",
+      "publishedAt": "2026-07-13T23:08:01.000Z",
+      "xQuery": "休職代行広がり 公務員ら駆け込み"
     },
     {
-      "time": "23:50",
-      "title": "東京で無差別殺傷を計画疑い 逮捕",
+      "time": "07:29",
+      "title": "「ローカル億ション」なぜ増える",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587835?source=rss",
-      "publishedAt": "2026-07-13T14:50:37.000Z",
-      "xQuery": "東京で無差別殺傷を計画疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6587844?source=rss",
+      "publishedAt": "2026-07-13T22:29:58.000Z",
+      "xQuery": "「ローカル億ション」なぜ増える"
     }
   ]
 };
