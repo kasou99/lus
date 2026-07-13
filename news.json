@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T07:40:33.616Z",
+  "updatedAt": "2026-07-13T09:14:33.956Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-07-12T22:53:37.000Z"
       },
       {
+        "time": "11:26",
+        "title": "安川電機がストップ安、想定外の減益決算に失望売り—受注は15四半期ぶり高水準も利益下振れ",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0OTB5a3NUME5qOE9VV0xoQTJQV3p2YmlZTnJERXY1OUZta2d6ajIyaFRLcWFsR3ZhcGxXZVh6Z3BpeVFXVmJqb0JjY3NCeEtFQUZjeWZPdURPa0c0MHA3dldob1VlTVFRemFmdzJHbXhJWHFK?oc=5",
+        "publishedAt": "2026-07-13T02:26:00.000Z"
+      },
+      {
         "time": "07:33",
         "title": "１０日の動意株＞丸紅、工作機械および周辺機器と自動化設備の販売・保守事業のＴＯＬＵＳを子会社化(ウエルスアドバイザー)",
         "source": "Yahoo!ファイナンス",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-07-12T22:33:00.000Z"
       },
       {
-        "time": "11:55",
-        "title": "丸紅(株)【8002】：今の株価の理由は？値動きの背景をAIが解説",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94M3NCN3B4aktIMXhJWUZncEY3VUNlZTNUVzNwenJqUWhIX3BqNlJHLWZkd0FXQ1hSY0NERWU5Zng5cU5nLThQa1BDRkYwbVdObllWYlh4b2lTaHhYbU00?oc=5",
-        "publishedAt": "2026-07-13T02:55:55.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "SEM修理サービスの世界市場（2026年～2032年）、市場規模（予防保全、故障・緊急修理、その他）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nbWxwNHAzc0I3THZhVEtKdmVzMlZ5QzBVVGg5eUQwaTBleEtkYVBlTGhJM3hkZHVWUWx3dzJxOUUzRG42NUoxR0N0eEtMX1k?oc=5",
-        "publishedAt": "2026-07-13T06:00:00.000Z"
+        "time": "19:06",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-07-12T10:06:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-07-12T11:05:42.000Z"
       },
       {
+        "time": "18:12",
+        "title": "新型車 なぜ「オラオラ顔」増加",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587804?source=rss",
+        "publishedAt": "2026-07-13T09:12:34.000Z"
+      },
+      {
         "time": "18:33",
         "title": "福岡住宅高騰 JR佐賀駅前に勢い",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587700?source=rss",
         "publishedAt": "2026-07-12T09:33:10.000Z"
-      },
-      {
-        "time": "08:16",
-        "title": "東証上場の昭和HD消失? 異常事態",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587740?source=rss",
-        "publishedAt": "2026-07-12T23:16:00.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-07-13T07:34:33.000Z"
       },
       {
+        "time": "17:03",
+        "title": "ダンプ逆走か 正面衝突し1人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587792?source=rss",
+        "publishedAt": "2026-07-13T08:03:53.000Z"
+      },
+      {
         "time": "11:40",
         "title": "男女4人が相次ぎ刺される 男逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587761?source=rss",
         "publishedAt": "2026-07-13T02:40:07.000Z"
-      },
-      {
-        "time": "13:57",
-        "title": "大分刺傷 現場の店員「怖かった」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587779?source=rss",
-        "publishedAt": "2026-07-13T04:57:36.000Z"
       },
       {
         "time": "15:36",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-07-13T06:36:19.000Z"
       },
       {
-        "time": "11:28",
-        "title": "江別暴行死「主犯格」初公判で涙",
+        "time": "17:47",
+        "title": "窓割れるほどの衝撃音 都内で火災",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587757?source=rss",
-        "publishedAt": "2026-07-13T02:28:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587800?source=rss",
+        "publishedAt": "2026-07-13T08:47:03.000Z"
       },
       {
         "time": "14:35",

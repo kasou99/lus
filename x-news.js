@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T07:40:34.249Z",
+  "updatedAt": "2026-07-13T09:14:35.037Z",
   "items": [
     {
-      "time": "16:21",
-      "title": "防災庁設置法成立 11月設置目指す",
+      "time": "17:26",
+      "title": "SNS規制法成立 選挙の偽情報対策",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587785?source=rss",
-      "publishedAt": "2026-07-13T07:21:04.000Z",
-      "xQuery": "防災庁設置法成立 11月設置目指す"
+      "url": "https://news.yahoo.co.jp/pickup/6587793?source=rss",
+      "publishedAt": "2026-07-13T08:26:51.000Z",
+      "xQuery": "SNS規制法成立 選挙の偽情報対策"
     },
     {
-      "time": "11:02",
-      "title": "赤ちゃんポストに市が挑戦 課題は",
+      "time": "16:50",
+      "title": "東北-北海道 15日から大雨恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587753?source=rss",
-      "publishedAt": "2026-07-13T02:02:39.000Z",
-      "xQuery": "赤ちゃんポストに市が挑戦 課題は"
+      "url": "https://news.yahoo.co.jp/pickup/6587791?source=rss",
+      "publishedAt": "2026-07-13T07:50:38.000Z",
+      "xQuery": "東北-北海道 15日から大雨恐れ"
     },
     {
-      "time": "14:21",
-      "title": "熱波原因か 欧州で死者1万人超に",
+      "time": "16:34",
+      "title": "県議会の現金授受疑惑 音声を分析",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587780?source=rss",
-      "publishedAt": "2026-07-13T05:21:51.000Z",
-      "xQuery": "熱波原因か 欧州で死者1万人超に"
+      "url": "https://news.yahoo.co.jp/pickup/6587788?source=rss",
+      "publishedAt": "2026-07-13T07:34:33.000Z",
+      "xQuery": "県議会の現金授受疑惑 音声を分析"
     },
     {
-      "time": "15:36",
-      "title": "死亡ひき逃げ 殺人容疑で男逮捕",
+      "time": "17:03",
+      "title": "ダンプ逆走か 正面衝突し1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587784?source=rss",
-      "publishedAt": "2026-07-13T06:36:19.000Z",
-      "xQuery": "死亡ひき逃げ 殺人容疑で男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6587792?source=rss",
+      "publishedAt": "2026-07-13T08:03:53.000Z",
+      "xQuery": "ダンプ逆走か 正面衝突し1人死亡"
     },
     {
-      "time": "14:35",
-      "title": "立花孝志氏の脅迫疑い 不起訴不当",
+      "time": "17:47",
+      "title": "窓割れるほどの衝撃音 都内で火災",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587782?source=rss",
-      "publishedAt": "2026-07-13T05:35:54.000Z",
-      "xQuery": "立花孝志氏の脅迫疑い 不起訴不当"
+      "url": "https://news.yahoo.co.jp/pickup/6587800?source=rss",
+      "publishedAt": "2026-07-13T08:47:03.000Z",
+      "xQuery": "窓割れるほどの衝撃音 都内で火災"
     }
   ]
 };
