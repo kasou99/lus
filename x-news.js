@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T06:06:04.673Z",
+  "updatedAt": "2026-07-13T07:40:34.249Z",
   "items": [
     {
-      "time": "09:38",
-      "title": "国旗損壊罪法案 賛否対立する理由",
+      "time": "16:21",
+      "title": "防災庁設置法成立 11月設置目指す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587746?source=rss",
-      "publishedAt": "2026-07-13T00:38:15.000Z",
-      "xQuery": "国旗損壊罪法案 賛否対立する理由"
+      "url": "https://news.yahoo.co.jp/pickup/6587785?source=rss",
+      "publishedAt": "2026-07-13T07:21:04.000Z",
+      "xQuery": "防災庁設置法成立 11月設置目指す"
+    },
+    {
+      "time": "11:02",
+      "title": "赤ちゃんポストに市が挑戦 課題は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587753?source=rss",
+      "publishedAt": "2026-07-13T02:02:39.000Z",
+      "xQuery": "赤ちゃんポストに市が挑戦 課題は"
     },
     {
       "time": "14:21",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熱波原因か 欧州で死者1万人超に"
     },
     {
-      "time": "13:57",
-      "title": "大分刺傷 現場の店員「怖かった」",
+      "time": "15:36",
+      "title": "死亡ひき逃げ 殺人容疑で男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587779?source=rss",
-      "publishedAt": "2026-07-13T04:57:36.000Z",
-      "xQuery": "大分刺傷 現場の店員「怖かった」"
+      "url": "https://news.yahoo.co.jp/pickup/6587784?source=rss",
+      "publishedAt": "2026-07-13T06:36:19.000Z",
+      "xQuery": "死亡ひき逃げ 殺人容疑で男逮捕"
     },
     {
       "time": "14:35",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587782?source=rss",
       "publishedAt": "2026-07-13T05:35:54.000Z",
       "xQuery": "立花孝志氏の脅迫疑い 不起訴不当"
-    },
-    {
-      "time": "13:07",
-      "title": "露スパイの拠点に日本 米紙報道",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587771?source=rss",
-      "publishedAt": "2026-07-13T04:07:18.000Z",
-      "xQuery": "露スパイの拠点に日本 米紙報道"
     }
   ]
 };
