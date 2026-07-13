@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T00:50:44.918Z",
+  "updatedAt": "2026-07-13T01:41:30.369Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-07-12T05:21:50.000Z"
       },
       {
+        "time": "02:40",
+        "title": "『装置の近くや内部に置きたいAIエッジサーバー・PC、設置スペースは十分ですか？』というテーマのウェビナーを開催",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLalFwc1F0OVpuakxzaFpZeW5hUnVCVmpBWU1TblpyNERGdWlLTXFCUjVZdUl1OUZFVkVMRHdjOGJLaFAzaTlEOHV5aC15b01temczbXVuLWVlbE9Td1VHTHI5cU5saktiXzEw?oc=5",
+        "publishedAt": "2026-07-12T17:40:00.000Z"
+      },
+      {
         "time": "11:55",
         "title": "5Gエッジコンピューティングがディスクリート製造の課題を解決：蘇州工場のPLC遠隔保守で年間100万元超のダウンタイム損失を削減",
         "source": "BigGo ファイナンス",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-07-12T09:30:41.000Z"
       },
       {
-        "time": "20:46",
-        "title": "ナフサ不足続く シンナー再利用も",
+        "time": "09:56",
+        "title": "原油先物が急上昇 海峡の懸念再燃",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587711?source=rss",
-        "publishedAt": "2026-07-12T11:46:03.000Z"
-      },
-      {
-        "time": "20:05",
-        "title": "プリウスも ハイブリッド市場変化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587706?source=rss",
-        "publishedAt": "2026-07-12T11:05:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587748?source=rss",
+        "publishedAt": "2026-07-13T00:56:40.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:56",
+        "title": "原油先物が急上昇 海峡の懸念再燃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587748?source=rss",
+        "publishedAt": "2026-07-13T00:56:40.000Z"
+      },
+      {
         "time": "20:46",
         "title": "ナフサ不足続く シンナー再利用も",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587740?source=rss",
         "publishedAt": "2026-07-12T23:16:00.000Z"
-      },
-      {
-        "time": "21:31",
-        "title": "モンストを欧州展開 MIXIが検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587597?source=rss",
-        "publishedAt": "2026-07-11T12:31:35.000Z"
       },
       {
         "time": "18:29",

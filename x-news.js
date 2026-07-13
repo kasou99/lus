@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T00:50:46.248Z",
+  "updatedAt": "2026-07-13T01:41:31.240Z",
   "items": [
     {
-      "time": "07:36",
-      "title": "米中央軍 イランに新たな攻撃開始",
+      "time": "07:58",
+      "title": "国会残り5日 与野党の論戦ヤマ場",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587737?source=rss",
-      "publishedAt": "2026-07-12T22:36:48.000Z",
-      "xQuery": "米中央軍 イランに新たな攻撃開始"
+      "url": "https://news.yahoo.co.jp/pickup/6587739?source=rss",
+      "publishedAt": "2026-07-12T22:58:19.000Z",
+      "xQuery": "国会残り5日 与野党の論戦ヤマ場"
     },
     {
       "time": "07:46",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "九州～近畿は猛暑続く 熱中症警戒"
     },
     {
-      "time": "07:26",
-      "title": "中国 日本大使館幹部呼び出し抗議",
+      "time": "09:56",
+      "title": "原油先物が急上昇 海峡の懸念再燃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587734?source=rss",
-      "publishedAt": "2026-07-12T22:26:24.000Z",
-      "xQuery": "中国 日本大使館幹部呼び出し抗議"
+      "url": "https://news.yahoo.co.jp/pickup/6587748?source=rss",
+      "publishedAt": "2026-07-13T00:56:40.000Z",
+      "xQuery": "原油先物が急上昇 海峡の懸念再燃"
     },
     {
       "time": "08:16",
