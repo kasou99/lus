@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T10:37:24.223Z",
+  "updatedAt": "2026-07-13T12:04:25.843Z",
   "items": [
     {
-      "time": "18:47",
-      "title": "検察 不祥事相次いでも会見なし",
+      "time": "19:43",
+      "title": "兵庫県の財政指標 算定誤りで悪化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587808?source=rss",
-      "publishedAt": "2026-07-13T09:47:34.000Z",
-      "xQuery": "検察 不祥事相次いでも会見なし"
+      "url": "https://news.yahoo.co.jp/pickup/6587812?source=rss",
+      "publishedAt": "2026-07-13T10:43:22.000Z",
+      "xQuery": "兵庫県の財政指標 算定誤りで悪化"
     },
     {
-      "time": "17:26",
-      "title": "SNS規制法成立 選挙の偽情報対策",
+      "time": "20:13",
+      "title": "父親の寝ている寝室からクマ 目撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587793?source=rss",
-      "publishedAt": "2026-07-13T08:26:51.000Z",
-      "xQuery": "SNS規制法成立 選挙の偽情報対策"
+      "url": "https://news.yahoo.co.jp/pickup/6587816?source=rss",
+      "publishedAt": "2026-07-13T11:13:30.000Z",
+      "xQuery": "父親の寝ている寝室からクマ 目撃"
     },
     {
-      "time": "18:26",
-      "title": "警棒で高校生失明 沖縄県が賠償へ",
+      "time": "20:55",
+      "title": "4人刺傷 誰でも良かったと男供述",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587806?source=rss",
-      "publishedAt": "2026-07-13T09:26:14.000Z",
-      "xQuery": "警棒で高校生失明 沖縄県が賠償へ"
+      "url": "https://news.yahoo.co.jp/pickup/6587820?source=rss",
+      "publishedAt": "2026-07-13T11:55:48.000Z",
+      "xQuery": "4人刺傷 誰でも良かったと男供述"
     },
     {
-      "time": "18:12",
-      "title": "新型車 なぜ「オラオラ顔」増加",
+      "time": "20:19",
+      "title": "検事の不適切関係 女性がコメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587804?source=rss",
-      "publishedAt": "2026-07-13T09:12:34.000Z",
-      "xQuery": "新型車 なぜ「オラオラ顔」増加"
+      "url": "https://news.yahoo.co.jp/pickup/6587814?source=rss",
+      "publishedAt": "2026-07-13T11:19:45.000Z",
+      "xQuery": "検事の不適切関係 女性がコメント"
     },
     {
-      "time": "19:17",
-      "title": "スマホ盗聴し広告掲出? 説を整理",
+      "time": "18:01",
+      "title": "イランで人質生活の過去 41歳の今",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587811?source=rss",
-      "publishedAt": "2026-07-13T10:17:35.000Z",
-      "xQuery": "スマホ盗聴し広告掲出? 説を整理"
+      "url": "https://news.yahoo.co.jp/pickup/6587801?source=rss",
+      "publishedAt": "2026-07-13T09:01:36.000Z",
+      "xQuery": "イランで人質生活の過去 41歳の今"
     }
   ]
 };
