@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T22:23:29.817Z",
+  "updatedAt": "2026-07-13T22:50:06.642Z",
   "items": [
+    {
+      "time": "07:23",
+      "title": "猛暑日100地点超えか 熱中症警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587842?source=rss",
+      "publishedAt": "2026-07-13T22:23:08.000Z",
+      "xQuery": "猛暑日100地点超えか 熱中症警戒"
+    },
     {
       "time": "06:12",
       "title": "米大統領 イラン海上封鎖再開表明",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587836?source=rss",
       "publishedAt": "2026-07-13T21:12:49.000Z",
       "xQuery": "米大統領 イラン海上封鎖再開表明"
-    },
-    {
-      "time": "23:18",
-      "title": "全東信破産 465億円超焦げ付きか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587833?source=rss",
-      "publishedAt": "2026-07-13T14:18:23.000Z",
-      "xQuery": "全東信破産 465億円超焦げ付きか"
     },
     {
       "time": "06:34",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "5人乗りゴムボート転覆 1人死亡"
     },
     {
+      "time": "07:35",
+      "title": "北陸新幹線延伸 桂川案急浮上の訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587843?source=rss",
+      "publishedAt": "2026-07-13T22:35:17.000Z",
+      "xQuery": "北陸新幹線延伸 桂川案急浮上の訳"
+    },
+    {
       "time": "23:50",
       "title": "東京で無差別殺傷を計画疑い 逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587835?source=rss",
       "publishedAt": "2026-07-13T14:50:37.000Z",
       "xQuery": "東京で無差別殺傷を計画疑い 逮捕"
-    },
-    {
-      "time": "22:45",
-      "title": "鎌倉花火 有料席購入者に返金検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587830?source=rss",
-      "publishedAt": "2026-07-13T13:45:48.000Z",
-      "xQuery": "鎌倉花火 有料席購入者に返金検討"
     }
   ]
 };

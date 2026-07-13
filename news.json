@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T22:23:29.214Z",
+  "updatedAt": "2026-07-13T22:50:05.917Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,6 +112,13 @@
         "publishedAt": "2026-07-13T14:18:23.000Z"
       },
       {
+        "time": "07:35",
+        "title": "北陸新幹線延伸 桂川案急浮上の訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587843?source=rss",
+        "publishedAt": "2026-07-13T22:35:17.000Z"
+      },
+      {
         "time": "09:56",
         "title": "原油先物が急上昇 海峡の懸念再燃",
         "source": "Yahoo!ニュース",
@@ -126,11 +133,11 @@
         "publishedAt": "2026-07-12T11:46:03.000Z"
       },
       {
-        "time": "07:16",
-        "title": "地方都市で「億ション」なぜ増",
+        "time": "07:29",
+        "title": "「ローカル億ション」なぜ増える",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587840?source=rss",
-        "publishedAt": "2026-07-13T22:16:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587844?source=rss",
+        "publishedAt": "2026-07-13T22:29:58.000Z"
       },
       {
         "time": "20:05",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587706?source=rss",
         "publishedAt": "2026-07-12T11:05:42.000Z"
-      },
-      {
-        "time": "18:12",
-        "title": "新型車 なぜ「オラオラ顔」増加",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587804?source=rss",
-        "publishedAt": "2026-07-13T09:12:34.000Z"
       }
     ],
     "localHeadlines": [
