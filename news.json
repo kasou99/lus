@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-13T21:24:01.356Z",
+  "updatedAt": "2026-07-13T21:50:08.525Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "16:30",
         "title": "工作機械用リニアモーターの世界市場（2026年～2032年）、市場規模（フラットプレート型、U字型スロット型、円筒型）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IZzJtYXNaZ2hpZkhWNUJ4eUxfdF9ETlo4d3JMOUp5V2VsdjdJX2NZVm5wXzB5Uzh3QU5SZkYxc0NtZGpZTWdBR1RzWnRMZVE?oc=5",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLODlZcm5OMVNVc0FKSTJ1eDlPelJLeHV3SVV1UzR1UVFIM3QwaWlGbmJCMUhlZDJpXzUyVE9leG5fOGtTU2w4?oc=5",
         "publishedAt": "2026-07-13T07:30:00.000Z"
       },
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "06:34",
+        "title": "5人乗りゴムボート転覆 1人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587838?source=rss",
+        "publishedAt": "2026-07-13T21:34:54.000Z"
+      },
+      {
         "time": "20:55",
         "title": "4人刺傷 誰でも良かったと男供述",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587823?source=rss",
         "publishedAt": "2026-07-13T12:48:00.000Z"
-      },
-      {
-        "time": "20:13",
-        "title": "父親の寝ている寝室からクマ 目撃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587816?source=rss",
-        "publishedAt": "2026-07-13T11:13:30.000Z"
       }
     ],
     "subsidyHeadlines": [

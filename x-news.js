@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T21:24:01.989Z",
+  "updatedAt": "2026-07-13T21:50:09.279Z",
   "items": [
     {
       "time": "06:12",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "14日 東日本も熱中症リスク高まる"
     },
     {
-      "time": "23:09",
-      "title": "EUも子のSNS制限へ 13歳未満対象",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587832?source=rss",
-      "publishedAt": "2026-07-13T14:09:06.000Z",
-      "xQuery": "EUも子のSNS制限へ 13歳未満対象"
-    },
-    {
       "time": "23:18",
       "title": "全東信破産 465億円超焦げ付きか",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587833?source=rss",
       "publishedAt": "2026-07-13T14:18:23.000Z",
       "xQuery": "全東信破産 465億円超焦げ付きか"
+    },
+    {
+      "time": "06:34",
+      "title": "5人乗りゴムボート転覆 1人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587838?source=rss",
+      "publishedAt": "2026-07-13T21:34:54.000Z",
+      "xQuery": "5人乗りゴムボート転覆 1人死亡"
     },
     {
       "time": "23:50",
