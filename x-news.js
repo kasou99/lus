@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T13:19:56.133Z",
+  "updatedAt": "2026-07-13T14:20:08.587Z",
   "items": [
+    {
+      "time": "22:49",
+      "title": "辺野古訴訟 一部に原告適格認める",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587827?source=rss",
+      "publishedAt": "2026-07-13T13:49:54.000Z",
+      "xQuery": "辺野古訴訟 一部に原告適格認める"
+    },
     {
       "time": "21:14",
       "title": "14日 東日本も熱中症リスク高まる",
@@ -10,28 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "14日 東日本も熱中症リスク高まる"
     },
     {
-      "time": "20:19",
-      "title": "検事の不適切関係 女性がコメント",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587814?source=rss",
-      "publishedAt": "2026-07-13T11:19:45.000Z",
-      "xQuery": "検事の不適切関係 女性がコメント"
-    },
-    {
-      "time": "21:51",
-      "title": "LINE ゲーム利用者識別情報が流出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587824?source=rss",
-      "publishedAt": "2026-07-13T12:51:48.000Z",
-      "xQuery": "LINE ゲーム利用者識別情報が流出"
-    },
-    {
       "time": "20:55",
       "title": "4人刺傷 誰でも良かったと男供述",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587820?source=rss",
       "publishedAt": "2026-07-13T11:55:48.000Z",
       "xQuery": "4人刺傷 誰でも良かったと男供述"
+    },
+    {
+      "time": "20:19",
+      "title": "検事の不適切関係 女性がコメント",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587814?source=rss",
+      "publishedAt": "2026-07-13T11:19:45.000Z",
+      "xQuery": "検事の不適切関係 女性がコメント"
     },
     {
       "time": "21:48",
