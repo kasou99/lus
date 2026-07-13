@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T23:22:38.386Z",
+  "updatedAt": "2026-07-13T23:49:45.679Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-07-13T01:49:00.000Z"
       },
       {
-        "time": "05:02",
-        "title": "インタビュー／芝浦機械社長・坂元繁友氏 超精密機、競合迎え北米開拓",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45R1JQeVFWQzZ0bTNUQ3pNcTgzeWNDcTFWdGlUcU85clF4STBVT2I1YzUwclFhcEJFcDV4UmswZ0NkZ3RaSDFhWHJWeE90bFZ3ZjNXUUF6WG50Uzg?oc=5",
-        "publishedAt": "2026-07-13T20:02:46.000Z"
-      },
-      {
         "time": "11:17",
         "title": "工学府機械システム工学専攻博士前期課程１年の野口丈さんが公益財団法人工作機械技術振興団「第47次工作機械技術振興賞奨励賞」を受賞",
         "source": "tuat.ac.jp",
@@ -43,6 +36,13 @@
         "source": "国際自動車ニュース",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YRXpabnNBTFo2b3A2STYwRVBkdWpGWWFVdVV3bE1mWWRCaHNrbDZQZnBOaUd2bFgzcGQ3VnpONVprXzVPYUxJdndESjdOTUdIZFQtbDJXbk8zUUQtM0NrX2VWenhwTm1ZcDNxWmo5aGVTWmJUS0otdjhQYUVZUQ?oc=5",
         "publishedAt": "2026-07-13T05:11:00.000Z"
+      },
+      {
+        "time": "05:12",
+        "title": "自動化を支える／加藤鉄工 エグロ買収 設備に価格競争力",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ac0d4Tm9TaFhvOW5GMVpNN2M5dnVlTUNzOEtTb3RUZEZwZWZxYlp0R2NWMnlGVl9CM0dST0dsRmJRd3NFdmttRE9zaGtiZndZdC1WUUZMY3ExMS01RmxBUTU2M1ZEU3Z2bXZQdUdFXzJRb2JP?oc=5",
+        "publishedAt": "2026-07-13T20:12:49.000Z"
       },
       {
         "time": "16:40",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "08:39",
+        "title": "イラン UAEタンカー攻撃1人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587854?source=rss",
+        "publishedAt": "2026-07-13T23:39:48.000Z"
+      },
       {
         "time": "06:12",
         "title": "米大統領 イラン海上封鎖再開表明",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587771?source=rss",
         "publishedAt": "2026-07-13T04:07:18.000Z"
-      },
-      {
-        "time": "06:42",
-        "title": "バンコクのパブで火災 27人が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587731?source=rss",
-        "publishedAt": "2026-07-12T21:42:39.000Z"
       }
     ],
     "economyHeadlines": [

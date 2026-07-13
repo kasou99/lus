@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T23:22:39.403Z",
+  "updatedAt": "2026-07-13T23:49:46.591Z",
   "items": [
     {
       "time": "07:23",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "猛暑日100地点超えか 熱中症警戒"
     },
     {
-      "time": "07:35",
-      "title": "北陸新幹線延伸 桂川案急浮上の訳",
+      "time": "08:41",
+      "title": "維新 入閣意向を高市首相に伝達",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587843?source=rss",
-      "publishedAt": "2026-07-13T22:35:17.000Z",
-      "xQuery": "北陸新幹線延伸 桂川案急浮上の訳"
-    },
-    {
-      "time": "06:34",
-      "title": "5人乗りゴムボート転覆 1人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587838?source=rss",
-      "publishedAt": "2026-07-13T21:34:54.000Z",
-      "xQuery": "5人乗りゴムボート転覆 1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6587853?source=rss",
+      "publishedAt": "2026-07-13T23:41:12.000Z",
+      "xQuery": "維新 入閣意向を高市首相に伝達"
     },
     {
       "time": "08:08",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587844?source=rss",
       "publishedAt": "2026-07-13T22:29:58.000Z",
       "xQuery": "「ローカル億ション」なぜ増える"
+    },
+    {
+      "time": "08:15",
+      "title": "「目立ちたい」令和の暴走族 実態",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587850?source=rss",
+      "publishedAt": "2026-07-13T23:15:25.000Z",
+      "xQuery": "「目立ちたい」令和の暴走族 実態"
     }
   ]
 };
