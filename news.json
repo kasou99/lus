@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T04:43:10.005Z",
+  "updatedAt": "2026-07-13T06:06:03.970Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-07-12T22:53:37.000Z"
       },
       {
+        "time": "15:00",
+        "title": "サーボドライブ市場分析レポート：2026年8082百万米ドル規模、成長率5.4%推移",
+        "source": "ドリームニュース",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52Z3JqWTdhX2U2MVp5SGpZTmZhRG5sZWZTeDRXTjd5Xy1ZWUZRTUR2b3JtcUlSZWRvRldwQlZDMy1zX2VROV9sd2gwS2JHRm9Sdndn?oc=5",
+        "publishedAt": "2026-07-13T06:00:00.000Z"
+      },
+      {
         "time": "07:33",
         "title": "１０日の動意株＞丸紅、工作機械および周辺機器と自動化設備の販売・保守事業のＴＯＬＵＳを子会社化(ウエルスアドバイザー)",
         "source": "Yahoo!ファイナンス",
@@ -38,13 +45,6 @@
         "publishedAt": "2026-07-12T17:40:00.000Z"
       },
       {
-        "time": "19:06",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-07-12T10:06:02.000Z"
-      },
-      {
         "time": "11:21",
         "title": "車３台絡む事故…１台横転 駐車中の無人バスに衝突も 男性１人が病院搬送 JR函館駅付近・北海道",
         "source": "au Webポータル",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-13T02:21:00.000Z"
       },
       {
-        "time": "11:30",
-        "title": "前場コメント No.8 丸紅、ＭＡＲＵＷＡ、スタジオアタオ、ＭｏｎｏｔａＲＯ、住友商(トレーダーズ・ウェブ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVzFXeUZJeTlKUUVaSHJQbnB6MFctRk53UmhVWjUwRGJYd0FTamo4WVVGdkdKWmp4THloazlZcjZzMGlLNmlVS2NSZm9aTVR6U1kyOGZjd2xVaEk0dEJTcXlpU1BUVTZaelJ1YW1CT2Yza0d6WXltQzk1V0M5UlVOYzJpVmdDNjA?oc=5",
-        "publishedAt": "2026-07-13T02:30:00.000Z"
+        "time": "19:06",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-07-12T10:06:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,11 +75,11 @@
         "publishedAt": "2026-07-12T22:16:14.000Z"
       },
       {
-        "time": "17:23",
-        "title": "ホルムズ海峡で攻撃 インド人不明",
+        "time": "14:21",
+        "title": "熱波原因か 欧州で死者1万人超に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587690?source=rss",
-        "publishedAt": "2026-07-12T08:23:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587780?source=rss",
+        "publishedAt": "2026-07-13T05:21:51.000Z"
       },
       {
         "time": "13:07",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-07-13T02:40:07.000Z"
       },
       {
+        "time": "13:57",
+        "title": "大分刺傷 現場の店員「怖かった」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587779?source=rss",
+        "publishedAt": "2026-07-13T04:57:36.000Z"
+      },
+      {
         "time": "11:26",
         "title": "九州南部が梅雨明け 熱中症に警戒",
         "source": "Yahoo!ニュース",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-07-13T02:28:56.000Z"
       },
       {
+        "time": "14:35",
+        "title": "立花孝志氏の脅迫疑い 不起訴不当",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587782?source=rss",
+        "publishedAt": "2026-07-13T05:35:54.000Z"
+      },
+      {
         "time": "06:19",
         "title": "祭りでトラブル 20歳男性刺される",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587729?source=rss",
         "publishedAt": "2026-07-12T21:19:18.000Z"
-      },
-      {
-        "time": "23:18",
-        "title": "セクハラ辞任の前市長落選 田川市",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587726?source=rss",
-        "publishedAt": "2026-07-12T14:18:45.000Z"
-      },
-      {
-        "time": "11:02",
-        "title": "赤ちゃんポストに市が挑戦 課題は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587753?source=rss",
-        "publishedAt": "2026-07-13T02:02:39.000Z"
       }
     ],
     "subsidyHeadlines": [

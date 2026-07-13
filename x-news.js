@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T04:43:10.650Z",
+  "updatedAt": "2026-07-13T06:06:04.673Z",
   "items": [
     {
-      "time": "12:43",
-      "title": "米軍がイランを追加攻撃 応酬激化",
+      "time": "09:38",
+      "title": "国旗損壊罪法案 賛否対立する理由",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587769?source=rss",
-      "publishedAt": "2026-07-13T03:43:27.000Z",
-      "xQuery": "米軍がイランを追加攻撃 応酬激化"
+      "url": "https://news.yahoo.co.jp/pickup/6587746?source=rss",
+      "publishedAt": "2026-07-13T00:38:15.000Z",
+      "xQuery": "国旗損壊罪法案 賛否対立する理由"
     },
     {
-      "time": "11:15",
-      "title": "日本なぜAIで遅れ 巻き返しの鍵は",
+      "time": "14:21",
+      "title": "熱波原因か 欧州で死者1万人超に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587754?source=rss",
-      "publishedAt": "2026-07-13T02:15:36.000Z",
-      "xQuery": "日本なぜAIで遅れ 巻き返しの鍵は"
+      "url": "https://news.yahoo.co.jp/pickup/6587780?source=rss",
+      "publishedAt": "2026-07-13T05:21:51.000Z",
+      "xQuery": "熱波原因か 欧州で死者1万人超に"
     },
     {
-      "time": "11:54",
-      "title": "MUFG時価総額 一時日本企業1位",
+      "time": "13:57",
+      "title": "大分刺傷 現場の店員「怖かった」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587765?source=rss",
-      "publishedAt": "2026-07-13T02:54:36.000Z",
-      "xQuery": "MUFG時価総額 一時日本企業1位"
+      "url": "https://news.yahoo.co.jp/pickup/6587779?source=rss",
+      "publishedAt": "2026-07-13T04:57:36.000Z",
+      "xQuery": "大分刺傷 現場の店員「怖かった」"
     },
     {
-      "time": "11:40",
-      "title": "男女4人が相次ぎ刺される 男逮捕",
+      "time": "14:35",
+      "title": "立花孝志氏の脅迫疑い 不起訴不当",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587761?source=rss",
-      "publishedAt": "2026-07-13T02:40:07.000Z",
-      "xQuery": "男女4人が相次ぎ刺される 男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6587782?source=rss",
+      "publishedAt": "2026-07-13T05:35:54.000Z",
+      "xQuery": "立花孝志氏の脅迫疑い 不起訴不当"
     },
     {
       "time": "13:07",
