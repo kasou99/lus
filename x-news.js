@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T03:13:07.684Z",
+  "updatedAt": "2026-07-13T04:43:10.650Z",
   "items": [
     {
-      "time": "10:40",
-      "title": "政権 長期金利上昇に神経とがらせ",
+      "time": "12:43",
+      "title": "米軍がイランを追加攻撃 応酬激化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587752?source=rss",
-      "publishedAt": "2026-07-13T01:40:14.000Z",
-      "xQuery": "政権 長期金利上昇に神経とがらせ"
+      "url": "https://news.yahoo.co.jp/pickup/6587769?source=rss",
+      "publishedAt": "2026-07-13T03:43:27.000Z",
+      "xQuery": "米軍がイランを追加攻撃 応酬激化"
     },
     {
-      "time": "11:26",
-      "title": "九州南部が梅雨明け 熱中症に警戒",
+      "time": "11:15",
+      "title": "日本なぜAIで遅れ 巻き返しの鍵は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587756?source=rss",
-      "publishedAt": "2026-07-13T02:26:43.000Z",
-      "xQuery": "九州南部が梅雨明け 熱中症に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6587754?source=rss",
+      "publishedAt": "2026-07-13T02:15:36.000Z",
+      "xQuery": "日本なぜAIで遅れ 巻き返しの鍵は"
     },
     {
       "time": "11:54",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "男女4人が相次ぎ刺される 男逮捕"
     },
     {
-      "time": "11:28",
-      "title": "江別暴行死「主犯格」初公判で涙",
+      "time": "13:07",
+      "title": "露スパイの拠点に日本 米紙報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587757?source=rss",
-      "publishedAt": "2026-07-13T02:28:56.000Z",
-      "xQuery": "江別暴行死「主犯格」初公判で涙"
+      "url": "https://news.yahoo.co.jp/pickup/6587771?source=rss",
+      "publishedAt": "2026-07-13T04:07:18.000Z",
+      "xQuery": "露スパイの拠点に日本 米紙報道"
     }
   ]
 };
