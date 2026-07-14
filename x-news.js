@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T23:22:14.170Z",
+  "updatedAt": "2026-07-14T23:49:49.213Z",
   "items": [
+    {
+      "time": "08:37",
+      "title": "北陸新幹線延伸「桂川」案に決定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587983?source=rss",
+      "publishedAt": "2026-07-14T23:37:27.000Z",
+      "xQuery": "北陸新幹線延伸「桂川」案に決定"
+    },
     {
       "time": "06:44",
       "title": "米軍 イランの港湾封鎖を再開",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587969?source=rss",
       "publishedAt": "2026-07-14T21:44:05.000Z",
       "xQuery": "米軍 イランの港湾封鎖を再開"
-    },
-    {
-      "time": "06:58",
-      "title": "トランプ氏 海峡「通航料」を撤回",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587970?source=rss",
-      "publishedAt": "2026-07-14T21:58:23.000Z",
-      "xQuery": "トランプ氏 海峡「通航料」を撤回"
     },
     {
       "time": "07:51",
