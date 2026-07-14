@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T05:50:05.335Z",
+  "updatedAt": "2026-07-14T06:53:16.538Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-13T23:30:03.000Z"
       },
       {
-        "time": "20:28",
-        "title": "「AIブームは半導体だけではない」日本国内の工作機械メーカーに“注文が殺到”",
-        "source": "MSN",
-        "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQMTdfMFk3cFVjWE1qNjZzaWgzSldOMWVPV1Fvd2psTHR1NUhVRGx2ZTdyUzEzUmQ5aXp0Snd1NUxZYWlSdGw1eFFSQlJ1TnJVWjRsTHJoXy0zRWZ1RlNzdFZBOVp5eTF1UDU2OG5ZalBuTDVQVk1Dbl9xN2JjSlBDbE54dFJoc0JuRHVKUFhzMWZQSWhHenRSa1hCcWlSMU9udHFyaXpXS0F0ZlFDVFZyNlpYRHktVXY4SjZTQW1sb2t1UVE0ZC1odC1QYlB6dXZXeG9GbjdSSEtpY3J0a2lXc2h2aHdhbnlPRFB0Uno4cDM3XzgyR1RHR0NvTS1qYzFEUWFTN3VIclpIZzM4b1Z6VmcyMlluMEpiNkhEMGt6TnRnakliQlIxUmQxSzdFbVlma2M3R0NvVmtCcXpfbmhhQ244eU1DYXZWMFl2UVBsd3lvbC1jdThlOXota3ByU0FZOEs5QS1UclNiSm93MWF0NnlEaVVOdFE0VDR3QkNKZkQ4OUxJTlNhZktjYTQ5TW1rYnBfQlRDbHlVUnA5YXN5ZVhKbG5aV0hGV1pyaG1iODdkLTZMMThIa1BENllDb0lQblBFOEtEMnYyVGM0NVNIeWpMcVh1SUYyOFN6b0JWc1QxY0d4?oc=5",
-        "publishedAt": "2026-07-13T11:28:43.000Z"
+        "time": "17:00",
+        "title": "産業用ジョーカップリングの世界市場（2026年～2032年）、市場規模（ポリウレタン、ゴム、その他）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JNEg5UzUxUXByMU83cXVmSnp4ZlpYeGZYU2o5MTVzcnNoLTRHWm9fWlN6NFpQUzdkV0ticElvX2VoSWRmS1pabFJWMHN3dw?oc=5",
+        "publishedAt": "2026-07-13T08:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-07-14T03:16:51.000Z"
       },
       {
+        "time": "15:40",
+        "title": "ANA機長に実刑 不同意わいせつ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587897?source=rss",
+        "publishedAt": "2026-07-14T06:40:30.000Z"
+      },
+      {
         "time": "07:35",
         "title": "北陸新幹線延伸 桂川案急浮上の訳",
         "source": "Yahoo!ニュース",
@@ -138,16 +145,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587844?source=rss",
         "publishedAt": "2026-07-13T22:29:58.000Z"
-      },
-      {
-        "time": "09:51",
-        "title": "クレカ作れない 借金150万円男性",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587858?source=rss",
-        "publishedAt": "2026-07-14T00:51:53.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "15:35",
+        "title": "中尾副議長「音声」自身と認めず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587896?source=rss",
+        "publishedAt": "2026-07-14T06:35:01.000Z"
+      },
       {
         "time": "12:26",
         "title": "道頓堀死亡火災 たばこの不始末か",
@@ -163,13 +170,6 @@
         "publishedAt": "2026-07-14T02:49:40.000Z"
       },
       {
-        "time": "11:17",
-        "title": "路上に血を流した男性 犯人逃走",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587864?source=rss",
-        "publishedAt": "2026-07-14T02:17:19.000Z"
-      },
-      {
         "time": "12:46",
         "title": "警察追跡の車燃え パトカーに引火",
         "source": "Yahoo!ニュース",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-07-14T03:46:26.000Z"
       },
       {
-        "time": "09:03",
-        "title": "愛媛県の内部通報20年間ゼロ 調査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587855?source=rss",
-        "publishedAt": "2026-07-14T00:03:10.000Z"
-      },
-      {
         "time": "23:50",
         "title": "東京で無差別殺傷を計画疑い 逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587835?source=rss",
         "publishedAt": "2026-07-13T14:50:37.000Z"
+      },
+      {
+        "time": "09:04",
+        "title": "冷凍庫遺体 元妻「離婚届作った」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587856?source=rss",
+        "publishedAt": "2026-07-14T00:04:32.000Z"
       }
     ],
     "subsidyHeadlines": [

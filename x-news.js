@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T05:50:06.224Z",
+  "updatedAt": "2026-07-14T06:53:17.109Z",
   "items": [
     {
-      "time": "07:18",
-      "title": "フィジカルAI 日米欧14機関が連携",
+      "time": "14:54",
+      "title": "大飯原発運転差し止め認めず 地裁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587841?source=rss",
-      "publishedAt": "2026-07-13T22:18:52.000Z",
-      "xQuery": "フィジカルAI 日米欧14機関が連携"
+      "url": "https://news.yahoo.co.jp/pickup/6587891?source=rss",
+      "publishedAt": "2026-07-14T05:54:30.000Z",
+      "xQuery": "大飯原発運転差し止め認めず 地裁"
     },
     {
-      "time": "13:52",
-      "title": "米国務長官「ICC解体」を主張",
+      "time": "15:32",
+      "title": "政府 国会会期1週間ほど延長検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587884?source=rss",
-      "publishedAt": "2026-07-14T04:52:13.000Z",
-      "xQuery": "米国務長官「ICC解体」を主張"
+      "url": "https://news.yahoo.co.jp/pickup/6587895?source=rss",
+      "publishedAt": "2026-07-14T06:32:23.000Z",
+      "xQuery": "政府 国会会期1週間ほど延長検討"
     },
     {
-      "time": "13:59",
-      "title": "引退した菅義偉元首相 事務所開設",
+      "time": "15:35",
+      "title": "中尾副議長「音声」自身と認めず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587886?source=rss",
-      "publishedAt": "2026-07-14T04:59:18.000Z",
-      "xQuery": "引退した菅義偉元首相 事務所開設"
+      "url": "https://news.yahoo.co.jp/pickup/6587896?source=rss",
+      "publishedAt": "2026-07-14T06:35:01.000Z",
+      "xQuery": "中尾副議長「音声」自身と認めず"
     },
     {
-      "time": "12:16",
-      "title": "セブンの冷蔵設備巡り3社談合疑い",
+      "time": "14:48",
+      "title": "2009年に性的暴行疑い 51歳逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587877?source=rss",
-      "publishedAt": "2026-07-14T03:16:51.000Z",
-      "xQuery": "セブンの冷蔵設備巡り3社談合疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6587889?source=rss",
+      "publishedAt": "2026-07-14T05:48:37.000Z",
+      "xQuery": "2009年に性的暴行疑い 51歳逮捕"
     },
     {
-      "time": "12:29",
-      "title": "結婚と子は金次第 世界に拡大傾向",
+      "time": "15:40",
+      "title": "ANA機長に実刑 不同意わいせつ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587869?source=rss",
-      "publishedAt": "2026-07-14T03:29:05.000Z",
-      "xQuery": "結婚と子は金次第 世界に拡大傾向"
+      "url": "https://news.yahoo.co.jp/pickup/6587897?source=rss",
+      "publishedAt": "2026-07-14T06:40:30.000Z",
+      "xQuery": "ANA機長に実刑 不同意わいせつ"
     }
   ]
 };
