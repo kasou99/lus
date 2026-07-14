@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T21:50:15.547Z",
+  "updatedAt": "2026-07-14T22:25:02.362Z",
   "items": [
     {
       "time": "06:44",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米軍 イランの港湾封鎖を再開"
     },
     {
+      "time": "06:58",
+      "title": "トランプ氏 海峡「通航料」を撤回",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587970?source=rss",
+      "publishedAt": "2026-07-14T21:58:23.000Z",
+      "xQuery": "トランプ氏 海峡「通航料」を撤回"
+    },
+    {
       "time": "19:19",
       "title": "東日本中心に危険な暑さ続く 注意",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587937?source=rss",
       "publishedAt": "2026-07-14T10:19:37.000Z",
       "xQuery": "東日本中心に危険な暑さ続く 注意"
-    },
-    {
-      "time": "23:15",
-      "title": "米消費者物価3.5%上昇 大幅鈍化",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587963?source=rss",
-      "publishedAt": "2026-07-14T14:15:37.000Z",
-      "xQuery": "米消費者物価3.5%上昇 大幅鈍化"
     },
     {
       "time": "23:07",
