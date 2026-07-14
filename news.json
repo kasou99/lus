@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T04:32:08.952Z",
+  "updatedAt": "2026-07-14T05:50:05.335Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,11 @@
         "publishedAt": "2026-07-13T07:32:32.000Z"
       },
       {
-        "time": "14:11",
-        "title": "【欧州―生産】丸紅、工作機械販売トルスを完全子会社化",
-        "source": "国際自動車ニュース",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YRXpabnNBTFo2b3A2STYwRVBkdWpGWWFVdVV3bE1mWWRCaHNrbDZQZnBOaUd2bFgzcGQ3VnpONVprXzVPYUxJdndESjdOTUdIZFQtbDJXbk8zUUQtM0NrX2VWenhwTm1ZcDNxWmo5aGVTWmJUS0otdjhQYUVZUQ?oc=5",
-        "publishedAt": "2026-07-13T05:11:00.000Z"
-      },
-      {
-        "time": "21:22",
+        "time": "03:46",
         "title": "ＳＯＭＰＯリスクマネジメントと設備保全総合研究所が連携協定を締結（ＳＯＭＰＯリスクマネジメント株式会社 プレスリリース）",
         "source": "財経新聞",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yV0VkdWJYQU5JWW0wS3diQ1JoMDVlaTdsRFI0OGFzRFMwV2FuSENUVkI0c3dSS0RydGhqN0t0RUktakg1eW15dGxuLWVPZW1SSWQ0Tg?oc=5",
-        "publishedAt": "2026-07-13T12:22:20.000Z"
+        "publishedAt": "2026-07-13T18:46:24.000Z"
       },
       {
         "time": "08:30",
@@ -57,6 +50,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LZVZPU3Q5eVRqdFJERldQYjBsTmlra0pmcFpsUmJYek1GNndhbGZKZlBwYkZOQ2YyS1otM0MybFFRajFBOWpRR00zWWN1Q2plaXY2emZBRlNUajA?oc=5",
         "publishedAt": "2026-07-13T23:30:03.000Z"
+      },
+      {
+        "time": "20:28",
+        "title": "「AIブームは半導体だけではない」日本国内の工作機械メーカーに“注文が殺到”",
+        "source": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQMTdfMFk3cFVjWE1qNjZzaWgzSldOMWVPV1Fvd2psTHR1NUhVRGx2ZTdyUzEzUmQ5aXp0Snd1NUxZYWlSdGw1eFFSQlJ1TnJVWjRsTHJoXy0zRWZ1RlNzdFZBOVp5eTF1UDU2OG5ZalBuTDVQVk1Dbl9xN2JjSlBDbE54dFJoc0JuRHVKUFhzMWZQSWhHenRSa1hCcWlSMU9udHFyaXpXS0F0ZlFDVFZyNlpYRHktVXY4SjZTQW1sb2t1UVE0ZC1odC1QYlB6dXZXeG9GbjdSSEtpY3J0a2lXc2h2aHdhbnlPRFB0Uno4cDM3XzgyR1RHR0NvTS1qYzFEUWFTN3VIclpIZzM4b1Z6VmcyMlluMEpiNkhEMGt6TnRnakliQlIxUmQxSzdFbVlma2M3R0NvVmtCcXpfbmhhQ244eU1DYXZWMFl2UVBsd3lvbC1jdThlOXota3ByU0FZOEs5QS1UclNiSm93MWF0NnlEaVVOdFE0VDR3QkNKZkQ4OUxJTlNhZktjYTQ5TW1rYnBfQlRDbHlVUnA5YXN5ZVhKbG5aV0hGV1pyaG1iODdkLTZMMThIa1BENllDb0lQblBFOEtEMnYyVGM0NVNIeWpMcVh1SUYyOFN6b0JWc1QxY0d4?oc=5",
+        "publishedAt": "2026-07-13T11:28:43.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-07-13T03:43:27.000Z"
       },
       {
+        "time": "13:52",
+        "title": "米国務長官「ICC解体」を主張",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587884?source=rss",
+        "publishedAt": "2026-07-14T04:52:13.000Z"
+      },
+      {
         "time": "14:21",
         "title": "熱波原因か 欧州で死者1万人超に",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587780?source=rss",
         "publishedAt": "2026-07-13T05:21:51.000Z"
-      },
-      {
-        "time": "13:07",
-        "title": "露スパイの拠点に日本 米紙報道",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587771?source=rss",
-        "publishedAt": "2026-07-13T04:07:18.000Z"
       }
     ],
     "economyHeadlines": [

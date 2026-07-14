@@ -1,13 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T04:32:09.702Z",
+  "updatedAt": "2026-07-14T05:50:06.224Z",
   "items": [
     {
-      "time": "12:26",
-      "title": "道頓堀死亡火災 たばこの不始末か",
+      "time": "07:18",
+      "title": "フィジカルAI 日米欧14機関が連携",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587879?source=rss",
-      "publishedAt": "2026-07-14T03:26:01.000Z",
-      "xQuery": "道頓堀死亡火災 たばこの不始末か"
+      "url": "https://news.yahoo.co.jp/pickup/6587841?source=rss",
+      "publishedAt": "2026-07-13T22:18:52.000Z",
+      "xQuery": "フィジカルAI 日米欧14機関が連携"
+    },
+    {
+      "time": "13:52",
+      "title": "米国務長官「ICC解体」を主張",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587884?source=rss",
+      "publishedAt": "2026-07-14T04:52:13.000Z",
+      "xQuery": "米国務長官「ICC解体」を主張"
+    },
+    {
+      "time": "13:59",
+      "title": "引退した菅義偉元首相 事務所開設",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587886?source=rss",
+      "publishedAt": "2026-07-14T04:59:18.000Z",
+      "xQuery": "引退した菅義偉元首相 事務所開設"
     },
     {
       "time": "12:16",
@@ -16,22 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587877?source=rss",
       "publishedAt": "2026-07-14T03:16:51.000Z",
       "xQuery": "セブンの冷蔵設備巡り3社談合疑い"
-    },
-    {
-      "time": "12:10",
-      "title": "危険な暑さ 猛暑日150地点迫るか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587874?source=rss",
-      "publishedAt": "2026-07-14T03:10:03.000Z",
-      "xQuery": "危険な暑さ 猛暑日150地点迫るか"
-    },
-    {
-      "time": "11:49",
-      "title": "海水浴で不明の高校生 遺体で発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587873?source=rss",
-      "publishedAt": "2026-07-14T02:49:40.000Z",
-      "xQuery": "海水浴で不明の高校生 遺体で発見"
     },
     {
       "time": "12:29",
