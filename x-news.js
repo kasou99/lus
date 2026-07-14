@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T10:37:20.847Z",
+  "updatedAt": "2026-07-14T11:34:21.457Z",
   "items": [
     {
-      "time": "17:26",
-      "title": "クロマグロ漁獲枠拡大 合意至らず",
+      "time": "18:40",
+      "title": "中道・立憲・公明 相違が浮き彫り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587908?source=rss",
-      "publishedAt": "2026-07-14T08:26:06.000Z",
-      "xQuery": "クロマグロ漁獲枠拡大 合意至らず"
+      "url": "https://news.yahoo.co.jp/pickup/6587930?source=rss",
+      "publishedAt": "2026-07-14T09:40:30.000Z",
+      "xQuery": "中道・立憲・公明 相違が浮き彫り"
     },
     {
-      "time": "17:02",
-      "title": "元死刑囚の友人 無差別殺人止める",
+      "time": "18:05",
+      "title": "米イラン戦争の出口は 3つの想定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587907?source=rss",
-      "publishedAt": "2026-07-14T08:02:56.000Z",
-      "xQuery": "元死刑囚の友人 無差別殺人止める"
+      "url": "https://news.yahoo.co.jp/pickup/6587917?source=rss",
+      "publishedAt": "2026-07-14T09:05:51.000Z",
+      "xQuery": "米イラン戦争の出口は 3つの想定"
     },
     {
-      "time": "18:56",
-      "title": "小泉氏 防衛省の体制「限界超え」",
+      "time": "19:58",
+      "title": "工場で実験中に爆発か 意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587932?source=rss",
-      "publishedAt": "2026-07-14T09:56:56.000Z",
-      "xQuery": "小泉氏 防衛省の体制「限界超え」"
+      "url": "https://news.yahoo.co.jp/pickup/6587940?source=rss",
+      "publishedAt": "2026-07-14T10:58:21.000Z",
+      "xQuery": "工場で実験中に爆発か 意識不明"
     },
     {
-      "time": "18:09",
-      "title": "男女4人刺傷 人生に疲れたと供述",
+      "time": "19:33",
+      "title": "福岡知事 県議「先生」呼びやめて",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587922?source=rss",
-      "publishedAt": "2026-07-14T09:09:28.000Z",
-      "xQuery": "男女4人刺傷 人生に疲れたと供述"
+      "url": "https://news.yahoo.co.jp/pickup/6587938?source=rss",
+      "publishedAt": "2026-07-14T10:33:46.000Z",
+      "xQuery": "福岡知事 県議「先生」呼びやめて"
     },
     {
-      "time": "18:02",
-      "title": "警棒で右目失明 元生徒に中傷再燃",
+      "time": "20:21",
+      "title": "イケアジャパンに初の日本人社長",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587921?source=rss",
-      "publishedAt": "2026-07-14T09:02:53.000Z",
-      "xQuery": "警棒で右目失明 元生徒に中傷再燃"
+      "url": "https://news.yahoo.co.jp/pickup/6587943?source=rss",
+      "publishedAt": "2026-07-14T11:21:44.000Z",
+      "xQuery": "イケアジャパンに初の日本人社長"
     }
   ]
 };
