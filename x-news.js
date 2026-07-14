@@ -1,29 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T00:44:10.426Z",
+  "updatedAt": "2026-07-14T01:39:29.482Z",
   "items": [
     {
-      "time": "08:39",
-      "title": "イラン UAEタンカー攻撃1人死亡",
+      "time": "09:32",
+      "title": "米大統領 海峡「通航料」20%要求",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587854?source=rss",
-      "publishedAt": "2026-07-13T23:39:48.000Z",
-      "xQuery": "イラン UAEタンカー攻撃1人死亡"
-    },
-    {
-      "time": "08:41",
-      "title": "維新 入閣意向を高市首相に伝達",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587853?source=rss",
-      "publishedAt": "2026-07-13T23:41:12.000Z",
-      "xQuery": "維新 入閣意向を高市首相に伝達"
-    },
-    {
-      "time": "09:04",
-      "title": "冷凍庫遺体 元妻「離婚届作った」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587856?source=rss",
-      "publishedAt": "2026-07-14T00:04:32.000Z",
-      "xQuery": "冷凍庫遺体 元妻「離婚届作った」"
+      "url": "https://news.yahoo.co.jp/pickup/6587857?source=rss",
+      "publishedAt": "2026-07-14T00:32:39.000Z",
+      "xQuery": "米大統領 海峡「通航料」20%要求"
     },
     {
       "time": "09:03",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "愛媛県の内部通報20年間ゼロ 調査"
     },
     {
+      "time": "09:04",
+      "title": "冷凍庫遺体 元妻「離婚届作った」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587856?source=rss",
+      "publishedAt": "2026-07-14T00:04:32.000Z",
+      "xQuery": "冷凍庫遺体 元妻「離婚届作った」"
+    },
+    {
       "time": "08:08",
       "title": "休職代行広がり 公務員ら駆け込み",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587847?source=rss",
       "publishedAt": "2026-07-13T23:08:01.000Z",
       "xQuery": "休職代行広がり 公務員ら駆け込み"
+    },
+    {
+      "time": "09:51",
+      "title": "クレカ作れない 借金150万円男性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587858?source=rss",
+      "publishedAt": "2026-07-14T00:51:53.000Z",
+      "xQuery": "クレカ作れない 借金150万円男性"
     }
   ]
 };
