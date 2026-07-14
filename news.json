@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T21:24:53.214Z",
+  "updatedAt": "2026-07-14T21:50:14.622Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-07-14T01:03:25.000Z"
       },
       {
-        "time": "21:31",
-        "title": "第二次エジプト・日本科学技術大学教育・研究機材調達計画",
-        "source": "jica.go.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjdWxhYUM4bkVhVHdMMlFON0NSR0pQdmNMZ2wtbHBqcW4xWWhjdzhOR0huQTJVSnhXWUZoUW1pcnFnLWNlMGpwQ3BJa2ExUUhkLUdOSXdB?oc=5",
-        "publishedAt": "2026-07-14T12:31:11.000Z"
-      },
-      {
         "time": "19:54",
         "title": "ダイチュウ、滋賀県長浜市に大型部品加工の新工場を竣工 大型門形マシニングセンタを導入",
         "source": "オートメーション新聞",
@@ -57,9 +50,23 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yZExtSDhLVUJHdU1zcDFuQnJLd253QWJicGstNnR2bHAwcHZFT2h2VGtUemE5c3cxVUhaWW5jTXViSE1qU0E1RTczUWFHNDA3YnZOS3ZzeUhvR2M2QkpoTHIwVWVYVVE?oc=5",
         "publishedAt": "2026-07-14T09:25:39.000Z"
+      },
+      {
+        "time": "21:31",
+        "title": "第二次エジプト・日本科学技術大学教育・研究機材調達計画",
+        "source": "jica.go.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjdWxhYUM4bkVhVHdMMlFON0NSR0pQdmNMZ2wtbHBqcW4xWWhjdzhOR0huQTJVSnhXWUZoUW1pcnFnLWNlMGpwQ3BJa2ExUUhkLUdOSXdB?oc=5",
+        "publishedAt": "2026-07-14T12:31:11.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "06:44",
+        "title": "米軍 イランの港湾封鎖を再開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587969?source=rss",
+        "publishedAt": "2026-07-14T21:44:05.000Z"
+      },
       {
         "time": "09:32",
         "title": "米大統領 海峡「通航料」20%要求",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587854?source=rss",
         "publishedAt": "2026-07-13T23:39:48.000Z"
-      },
-      {
-        "time": "06:12",
-        "title": "米大統領 イラン海上封鎖再開表明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587836?source=rss",
-        "publishedAt": "2026-07-13T21:12:49.000Z"
       },
       {
         "time": "18:05",

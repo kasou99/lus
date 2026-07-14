@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T21:24:53.969Z",
+  "updatedAt": "2026-07-14T21:50:15.547Z",
   "items": [
+    {
+      "time": "06:44",
+      "title": "米軍 イランの港湾封鎖を再開",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587969?source=rss",
+      "publishedAt": "2026-07-14T21:44:05.000Z",
+      "xQuery": "米軍 イランの港湾封鎖を再開"
+    },
     {
       "time": "19:19",
       "title": "東日本中心に危険な暑さ続く 注意",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587963?source=rss",
       "publishedAt": "2026-07-14T14:15:37.000Z",
       "xQuery": "米消費者物価3.5%上昇 大幅鈍化"
-    },
-    {
-      "time": "22:34",
-      "title": "手足口病 27都府県で警報レベル超",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587962?source=rss",
-      "publishedAt": "2026-07-14T13:34:25.000Z",
-      "xQuery": "手足口病 27都府県で警報レベル超"
     },
     {
       "time": "23:07",
