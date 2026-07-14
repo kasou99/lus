@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T12:35:54.257Z",
+  "updatedAt": "2026-07-14T13:37:04.495Z",
   "items": [
+    {
+      "time": "21:25",
+      "title": "国旗損壊罪 参考人2人は違憲主張",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587951?source=rss",
+      "publishedAt": "2026-07-14T12:25:48.000Z",
+      "xQuery": "国旗損壊罪 参考人2人は違憲主張"
+    },
     {
       "time": "21:01",
       "title": "福岡県 21年～海外訪問に3億円超",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡県 21年～海外訪問に3億円超"
     },
     {
-      "time": "20:44",
-      "title": "クロマグロ会議 メキシコ突然反発",
+      "time": "17:48",
+      "title": "北陸新幹線延伸 全ルート案に課題",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587945?source=rss",
-      "publishedAt": "2026-07-14T11:44:08.000Z",
-      "xQuery": "クロマグロ会議 メキシコ突然反発"
-    },
-    {
-      "time": "18:05",
-      "title": "米イラン戦争の出口は 3つの想定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587917?source=rss",
-      "publishedAt": "2026-07-14T09:05:51.000Z",
-      "xQuery": "米イラン戦争の出口は 3つの想定"
+      "url": "https://news.yahoo.co.jp/pickup/6587918?source=rss",
+      "publishedAt": "2026-07-14T08:48:00.000Z",
+      "xQuery": "北陸新幹線延伸 全ルート案に課題"
     },
     {
       "time": "21:12",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "たばこポイ捨て 悔しいと殉職遺族"
     },
     {
-      "time": "20:21",
-      "title": "イケアジャパンに初の日本人社長",
+      "time": "22:12",
+      "title": "KFC全店 品切れや臨時休業の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587943?source=rss",
-      "publishedAt": "2026-07-14T11:21:44.000Z",
-      "xQuery": "イケアジャパンに初の日本人社長"
+      "url": "https://news.yahoo.co.jp/pickup/6587957?source=rss",
+      "publishedAt": "2026-07-14T13:12:08.000Z",
+      "xQuery": "KFC全店 品切れや臨時休業の恐れ"
     }
   ]
 };
