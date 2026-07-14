@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T07:39:52.232Z",
+  "updatedAt": "2026-07-14T08:50:44.708Z",
   "items": [
     {
-      "time": "15:32",
-      "title": "政府 国会会期1週間ほど延長検討",
+      "time": "16:38",
+      "title": "骨太最終案「日銀の自主性尊重」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587895?source=rss",
-      "publishedAt": "2026-07-14T06:32:23.000Z",
-      "xQuery": "政府 国会会期1週間ほど延長検討"
+      "url": "https://news.yahoo.co.jp/pickup/6587905?source=rss",
+      "publishedAt": "2026-07-14T07:38:39.000Z",
+      "xQuery": "骨太最終案「日銀の自主性尊重」"
     },
     {
-      "time": "16:23",
-      "title": "今年最多の全国167地点で猛暑日",
+      "time": "17:18",
+      "title": "今年最多 全国170地点で猛暑日",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587901?source=rss",
-      "publishedAt": "2026-07-14T07:23:05.000Z",
-      "xQuery": "今年最多の全国167地点で猛暑日"
+      "url": "https://news.yahoo.co.jp/pickup/6587912?source=rss",
+      "publishedAt": "2026-07-14T08:18:36.000Z",
+      "xQuery": "今年最多 全国170地点で猛暑日"
     },
     {
-      "time": "15:35",
-      "title": "中尾副議長「音声」自身と認めず",
+      "time": "17:02",
+      "title": "元死刑囚の友人 無差別殺人止める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587896?source=rss",
-      "publishedAt": "2026-07-14T06:35:01.000Z",
-      "xQuery": "中尾副議長「音声」自身と認めず"
+      "url": "https://news.yahoo.co.jp/pickup/6587907?source=rss",
+      "publishedAt": "2026-07-14T08:02:56.000Z",
+      "xQuery": "元死刑囚の友人 無差別殺人止める"
     },
     {
-      "time": "16:32",
-      "title": "江別暴行死 川村被告が暴行を証言",
+      "time": "17:11",
+      "title": "福岡県庁 中堅職員の退職が急増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587904?source=rss",
-      "publishedAt": "2026-07-14T07:32:54.000Z",
-      "xQuery": "江別暴行死 川村被告が暴行を証言"
+      "url": "https://news.yahoo.co.jp/pickup/6587910?source=rss",
+      "publishedAt": "2026-07-14T08:11:55.000Z",
+      "xQuery": "福岡県庁 中堅職員の退職が急増"
     },
     {
-      "time": "15:40",
-      "title": "ANA機長に実刑 不同意わいせつ",
+      "time": "17:19",
+      "title": "ノーベル賞候補が異例の移籍 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587897?source=rss",
-      "publishedAt": "2026-07-14T06:40:30.000Z",
-      "xQuery": "ANA機長に実刑 不同意わいせつ"
+      "url": "https://news.yahoo.co.jp/pickup/6587911?source=rss",
+      "publishedAt": "2026-07-14T08:19:09.000Z",
+      "xQuery": "ノーベル賞候補が異例の移籍 背景"
     }
   ]
 };

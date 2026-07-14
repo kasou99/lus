@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T07:39:51.682Z",
+  "updatedAt": "2026-07-14T08:50:43.830Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,25 +10,18 @@
         "publishedAt": "2026-07-14T03:16:00.000Z"
       },
       {
+        "time": "16:39",
+        "title": "インタビュー／芝浦機械社長・坂元繁友氏 超精密機、競合迎え北米開拓",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45R1JQeVFWQzZ0bTNUQ3pNcTgzeWNDcTFWdGlUcU85clF4STBVT2I1YzUwclFhcEJFcDV4UmswZ0NkZ3RaSDFhWHJWeE90bFZ3ZjNXUUF6WG50Uzg?oc=5",
+        "publishedAt": "2026-07-14T07:39:27.000Z"
+      },
+      {
         "time": "10:03",
         "title": "CNC工作機械市場レポート2026：世界的な成長トレンド、主要セグメント、競争環境を分析",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15U1hDUWdsdG1wLThFRm83Ump1Wmkyblh6bS1BOS1fOWJsTXl0U3p5dnRCU0JjT3R0eFNESkQxejZ3Qm1HaEtaWlphN0o5dFdNX0lidktmV1VONGs5d1ktbGZqdkFaTlJCcnVFQVhrVHlWTG80cGttaWlGVQ?oc=5",
         "publishedAt": "2026-07-14T01:03:25.000Z"
-      },
-      {
-        "time": "11:01",
-        "title": "インタビュー／芝浦機械社長・坂元繁友氏 超精密機、競合迎え北米開拓",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45R1JQeVFWQzZ0bTNUQ3pNcTgzeWNDcTFWdGlUcU85clF4STBVT2I1YzUwclFhcEJFcDV4UmswZ0NkZ3RaSDFhWHJWeE90bFZ3ZjNXUUF6WG50Uzg?oc=5",
-        "publishedAt": "2026-07-14T02:01:50.000Z"
-      },
-      {
-        "time": "16:51",
-        "title": "プレスリリース：設備保全・インフラ点検の省人化を支える技術を展示 「メンテナンス・レジリエンス2026」に出展（PR TIMES）",
-        "source": "毎日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EMXVKcDhwdzFHb1Q0NHNHbTlBYWdfZlh2Sm9OeWRkZERXeF9PdlpMNWcta3BaNjhJTlItRktSRVF0NFk1UW11aHJNYTdQYWtqMnlTUVZ0SXBfd3hrMDMzdTJlQkpQWVlm?oc=5",
-        "publishedAt": "2026-07-13T07:51:48.000Z"
       },
       {
         "time": "03:46",
@@ -38,25 +31,32 @@
         "publishedAt": "2026-07-13T18:46:24.000Z"
       },
       {
-        "time": "08:30",
-        "title": "戸塚重量、移設・設置を内製化 大型クレーン車導入",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LZVZPU3Q5eVRqdFJERldQYjBsTmlra0pmcFpsUmJYek1GNndhbGZKZlBwYkZOQ2YyS1otM0MybFFRajFBOWpRR00zWWN1Q2plaXY2emZBRlNUajA?oc=5",
-        "publishedAt": "2026-07-13T23:30:03.000Z"
-      },
-      {
-        "time": "17:00",
-        "title": "産業用ジョーカップリングの世界市場（2026年～2032年）、市場規模（ポリウレタン、ゴム、その他）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JNEg5UzUxUXByMU83cXVmSnp4ZlpYeGZYU2o5MTVzcnNoLTRHWm9fWlN6NFpQUzdkV0ticElvX2VoSWRmS1pabFJWMHN3dw?oc=5",
-        "publishedAt": "2026-07-13T08:00:00.000Z"
-      },
-      {
         "time": "10:00",
         "title": "株式会社FRICS Fab、イプロス主催「第1回AI/DX 経営課題の解決展」に出展",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKS3VDQ21jYkkyTzNoQXQtMkNZNEc2bUJNOXpWR0JyalMteWFlZkQ3TFZaT0pRY0NQVlRnN1ZEZlZWNkRXb1RsY1FVVmV6X1NHRkJFb3pGTzFDY29USEZKdHBzaHNCcGJHa2c?oc=5",
         "publishedAt": "2026-07-14T01:00:02.000Z"
+      },
+      {
+        "time": "11:54",
+        "title": "インタビュー／経済産業省製造産業局産業機械課長・須賀千鶴氏 製造AX拠点をDXインフラに",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5U0daWTlPTVNDVUx1T1NOYUxYUm5sbmJPSDVNbUdSYnl6VzJFWjJHQVAxVmFVcnQzLTI4elVORUF5ZzRyUGdzRkRuRU9qRjBTby1nd2JQSXdDcGM?oc=5",
+        "publishedAt": "2026-07-14T02:54:17.000Z"
+      },
+      {
+        "time": "17:25",
+        "title": "沼津土木 工業技術支援C ハロンガス消化設備改修",
+        "source": "建通新聞",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcFIxMWhiUThNbURyTUk2aE8zUlRZdTZqUmNPOHpDSjJ3UG5tci0tVjN0WW9EeHlPbGZqNW5FcGdYR3B0c2tyOWdwLTB3MDZYZ2tSczJMSUFlSnRPSjBMN2E3bVdvQ0RyNHROakdxX0hMclQ4amdFQmoyeG9pcS1tVQ?oc=5",
+        "publishedAt": "2026-07-14T08:25:00.000Z"
+      },
+      {
+        "time": "07:16",
+        "title": "「中国のゾッとする半導体戦略」キオクシアに浮かれる日本の危うさ",
+        "source": "現代ビジネス",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5Q1lHcWtjSkNxQzIzMms1b1dnVl9Kei1pMzdVZENDTTJNMlN3TWRFak9vVkdfLUhfRThrTjNLb1h3OEZYODljb2tiMXloZ290UU90NFFfWkE?oc=5",
+        "publishedAt": "2026-07-13T22:16:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,13 +82,6 @@
         "publishedAt": "2026-07-13T21:12:49.000Z"
       },
       {
-        "time": "12:43",
-        "title": "米軍がイランを追加攻撃 応酬激化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587769?source=rss",
-        "publishedAt": "2026-07-13T03:43:27.000Z"
-      },
-      {
         "time": "13:52",
         "title": "米国務長官「ICC解体」を主張",
         "source": "Yahoo!ニュース",
@@ -101,9 +94,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587780?source=rss",
         "publishedAt": "2026-07-13T05:21:51.000Z"
+      },
+      {
+        "time": "13:07",
+        "title": "露スパイの拠点に日本 米紙報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587771?source=rss",
+        "publishedAt": "2026-07-13T04:07:18.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "17:26",
+        "title": "クロマグロ漁獲枠拡大 合意至らず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587908?source=rss",
+        "publishedAt": "2026-07-14T08:26:06.000Z"
+      },
       {
         "time": "23:18",
         "title": "全東信破産 465億円超焦げ付きか",
@@ -119,6 +126,13 @@
         "publishedAt": "2026-07-14T03:16:51.000Z"
       },
       {
+        "time": "17:48",
+        "title": "北陸新幹線延伸 全ルート案に課題",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587918?source=rss",
+        "publishedAt": "2026-07-14T08:48:00.000Z"
+      },
+      {
         "time": "15:40",
         "title": "ANA機長に実刑 不同意わいせつ",
         "source": "Yahoo!ニュース",
@@ -126,25 +140,11 @@
         "publishedAt": "2026-07-14T06:40:30.000Z"
       },
       {
-        "time": "07:35",
-        "title": "北陸新幹線延伸 桂川案急浮上の訳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587843?source=rss",
-        "publishedAt": "2026-07-13T22:35:17.000Z"
-      },
-      {
         "time": "08:08",
         "title": "休職代行広がり 公務員ら駆け込み",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587847?source=rss",
         "publishedAt": "2026-07-13T23:08:01.000Z"
-      },
-      {
-        "time": "07:29",
-        "title": "「ローカル億ション」なぜ増える",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587844?source=rss",
-        "publishedAt": "2026-07-13T22:29:58.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,27 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587896?source=rss",
         "publishedAt": "2026-07-14T06:35:01.000Z"
+      },
+      {
+        "time": "17:11",
+        "title": "福岡県庁 中堅職員の退職が急増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587910?source=rss",
+        "publishedAt": "2026-07-14T08:11:55.000Z"
+      },
+      {
+        "time": "17:02",
+        "title": "元死刑囚の友人 無差別殺人止める",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587907?source=rss",
+        "publishedAt": "2026-07-14T08:02:56.000Z"
+      },
+      {
+        "time": "23:50",
+        "title": "東京で無差別殺傷を計画疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587835?source=rss",
+        "publishedAt": "2026-07-13T14:50:37.000Z"
       },
       {
         "time": "16:32",
@@ -168,27 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587879?source=rss",
         "publishedAt": "2026-07-14T03:26:01.000Z"
-      },
-      {
-        "time": "11:49",
-        "title": "海水浴で不明の高校生 遺体で発見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587873?source=rss",
-        "publishedAt": "2026-07-14T02:49:40.000Z"
-      },
-      {
-        "time": "23:50",
-        "title": "東京で無差別殺傷を計画疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587835?source=rss",
-        "publishedAt": "2026-07-13T14:50:37.000Z"
-      },
-      {
-        "time": "09:04",
-        "title": "冷凍庫遺体 元妻「離婚届作った」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587856?source=rss",
-        "publishedAt": "2026-07-14T00:04:32.000Z"
       }
     ],
     "subsidyHeadlines": [
