@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T06:53:17.109Z",
+  "updatedAt": "2026-07-14T07:39:52.232Z",
   "items": [
-    {
-      "time": "14:54",
-      "title": "大飯原発運転差し止め認めず 地裁",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587891?source=rss",
-      "publishedAt": "2026-07-14T05:54:30.000Z",
-      "xQuery": "大飯原発運転差し止め認めず 地裁"
-    },
     {
       "time": "15:32",
       "title": "政府 国会会期1週間ほど延長検討",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587895?source=rss",
       "publishedAt": "2026-07-14T06:32:23.000Z",
       "xQuery": "政府 国会会期1週間ほど延長検討"
+    },
+    {
+      "time": "16:23",
+      "title": "今年最多の全国167地点で猛暑日",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587901?source=rss",
+      "publishedAt": "2026-07-14T07:23:05.000Z",
+      "xQuery": "今年最多の全国167地点で猛暑日"
     },
     {
       "time": "15:35",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中尾副議長「音声」自身と認めず"
     },
     {
-      "time": "14:48",
-      "title": "2009年に性的暴行疑い 51歳逮捕",
+      "time": "16:32",
+      "title": "江別暴行死 川村被告が暴行を証言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587889?source=rss",
-      "publishedAt": "2026-07-14T05:48:37.000Z",
-      "xQuery": "2009年に性的暴行疑い 51歳逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6587904?source=rss",
+      "publishedAt": "2026-07-14T07:32:54.000Z",
+      "xQuery": "江別暴行死 川村被告が暴行を証言"
     },
     {
       "time": "15:40",
