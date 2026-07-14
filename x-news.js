@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T14:39:41.730Z",
+  "updatedAt": "2026-07-14T15:35:00.108Z",
   "items": [
     {
       "time": "19:19",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東日本中心に危険な暑さ続く 注意"
     },
     {
-      "time": "21:25",
-      "title": "国旗損壊罪 参考人2人は違憲主張",
+      "time": "23:15",
+      "title": "米消費者物価3.5%上昇 大幅鈍化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587951?source=rss",
-      "publishedAt": "2026-07-14T12:25:48.000Z",
-      "xQuery": "国旗損壊罪 参考人2人は違憲主張"
+      "url": "https://news.yahoo.co.jp/pickup/6587963?source=rss",
+      "publishedAt": "2026-07-14T14:15:37.000Z",
+      "xQuery": "米消費者物価3.5%上昇 大幅鈍化"
     },
     {
       "time": "22:34",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "手足口病 27都府県で警報レベル超"
     },
     {
-      "time": "21:12",
-      "title": "たばこポイ捨て 悔しいと殉職遺族",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587949?source=rss",
-      "publishedAt": "2026-07-14T12:12:24.000Z",
-      "xQuery": "たばこポイ捨て 悔しいと殉職遺族"
-    },
-    {
       "time": "23:07",
       "title": "工場放火 男性に21億円の賠償命令",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587964?source=rss",
       "publishedAt": "2026-07-14T14:07:09.000Z",
       "xQuery": "工場放火 男性に21億円の賠償命令"
+    },
+    {
+      "time": "22:12",
+      "title": "KFC全店 品切れや臨時休業の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587957?source=rss",
+      "publishedAt": "2026-07-14T13:12:08.000Z",
+      "xQuery": "KFC全店 品切れや臨時休業の恐れ"
     }
   ]
 };
