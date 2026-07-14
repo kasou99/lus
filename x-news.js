@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T09:40:33.272Z",
+  "updatedAt": "2026-07-14T10:37:20.847Z",
   "items": [
     {
-      "time": "16:38",
-      "title": "骨太最終案「日銀の自主性尊重」",
+      "time": "17:26",
+      "title": "クロマグロ漁獲枠拡大 合意至らず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587905?source=rss",
-      "publishedAt": "2026-07-14T07:38:39.000Z",
-      "xQuery": "骨太最終案「日銀の自主性尊重」"
+      "url": "https://news.yahoo.co.jp/pickup/6587908?source=rss",
+      "publishedAt": "2026-07-14T08:26:06.000Z",
+      "xQuery": "クロマグロ漁獲枠拡大 合意至らず"
     },
     {
       "time": "17:02",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "元死刑囚の友人 無差別殺人止める"
     },
     {
+      "time": "18:56",
+      "title": "小泉氏 防衛省の体制「限界超え」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587932?source=rss",
+      "publishedAt": "2026-07-14T09:56:56.000Z",
+      "xQuery": "小泉氏 防衛省の体制「限界超え」"
+    },
+    {
+      "time": "18:09",
+      "title": "男女4人刺傷 人生に疲れたと供述",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587922?source=rss",
+      "publishedAt": "2026-07-14T09:09:28.000Z",
+      "xQuery": "男女4人刺傷 人生に疲れたと供述"
+    },
+    {
       "time": "18:02",
       "title": "警棒で右目失明 元生徒に中傷再燃",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587921?source=rss",
       "publishedAt": "2026-07-14T09:02:53.000Z",
       "xQuery": "警棒で右目失明 元生徒に中傷再燃"
-    },
-    {
-      "time": "17:11",
-      "title": "福岡県庁 中堅職員の退職が急増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587910?source=rss",
-      "publishedAt": "2026-07-14T08:11:55.000Z",
-      "xQuery": "福岡県庁 中堅職員の退職が急増"
-    },
-    {
-      "time": "17:19",
-      "title": "ノーベル賞候補が異例の移籍 背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587911?source=rss",
-      "publishedAt": "2026-07-14T08:19:09.000Z",
-      "xQuery": "ノーベル賞候補が異例の移籍 背景"
     }
   ]
 };
