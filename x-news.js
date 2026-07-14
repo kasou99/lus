@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T08:50:44.708Z",
+  "updatedAt": "2026-07-14T09:40:33.272Z",
   "items": [
     {
       "time": "16:38",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "骨太最終案「日銀の自主性尊重」"
     },
     {
-      "time": "17:18",
-      "title": "今年最多 全国170地点で猛暑日",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587912?source=rss",
-      "publishedAt": "2026-07-14T08:18:36.000Z",
-      "xQuery": "今年最多 全国170地点で猛暑日"
-    },
-    {
       "time": "17:02",
       "title": "元死刑囚の友人 無差別殺人止める",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587907?source=rss",
       "publishedAt": "2026-07-14T08:02:56.000Z",
       "xQuery": "元死刑囚の友人 無差別殺人止める"
+    },
+    {
+      "time": "18:02",
+      "title": "警棒で右目失明 元生徒に中傷再燃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587921?source=rss",
+      "publishedAt": "2026-07-14T09:02:53.000Z",
+      "xQuery": "警棒で右目失明 元生徒に中傷再燃"
     },
     {
       "time": "17:11",
