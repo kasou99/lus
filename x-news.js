@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T13:37:04.495Z",
+  "updatedAt": "2026-07-14T14:39:41.730Z",
   "items": [
+    {
+      "time": "19:19",
+      "title": "東日本中心に危険な暑さ続く 注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587937?source=rss",
+      "publishedAt": "2026-07-14T10:19:37.000Z",
+      "xQuery": "東日本中心に危険な暑さ続く 注意"
+    },
     {
       "time": "21:25",
       "title": "国旗損壊罪 参考人2人は違憲主張",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "国旗損壊罪 参考人2人は違憲主張"
     },
     {
-      "time": "21:01",
-      "title": "福岡県 21年～海外訪問に3億円超",
+      "time": "22:34",
+      "title": "手足口病 27都府県で警報レベル超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587946?source=rss",
-      "publishedAt": "2026-07-14T12:01:40.000Z",
-      "xQuery": "福岡県 21年～海外訪問に3億円超"
-    },
-    {
-      "time": "17:48",
-      "title": "北陸新幹線延伸 全ルート案に課題",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587918?source=rss",
-      "publishedAt": "2026-07-14T08:48:00.000Z",
-      "xQuery": "北陸新幹線延伸 全ルート案に課題"
+      "url": "https://news.yahoo.co.jp/pickup/6587962?source=rss",
+      "publishedAt": "2026-07-14T13:34:25.000Z",
+      "xQuery": "手足口病 27都府県で警報レベル超"
     },
     {
       "time": "21:12",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "たばこポイ捨て 悔しいと殉職遺族"
     },
     {
-      "time": "22:12",
-      "title": "KFC全店 品切れや臨時休業の恐れ",
+      "time": "23:07",
+      "title": "工場放火 男性に21億円の賠償命令",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587957?source=rss",
-      "publishedAt": "2026-07-14T13:12:08.000Z",
-      "xQuery": "KFC全店 品切れや臨時休業の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6587964?source=rss",
+      "publishedAt": "2026-07-14T14:07:09.000Z",
+      "xQuery": "工場放火 男性に21億円の賠償命令"
     }
   ]
 };
