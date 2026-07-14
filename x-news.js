@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T03:09:43.701Z",
+  "updatedAt": "2026-07-14T04:32:09.702Z",
   "items": [
     {
-      "time": "09:32",
-      "title": "米大統領 海峡「通航料」20%要求",
+      "time": "12:26",
+      "title": "道頓堀死亡火災 たばこの不始末か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587857?source=rss",
-      "publishedAt": "2026-07-14T00:32:39.000Z",
-      "xQuery": "米大統領 海峡「通航料」20%要求"
+      "url": "https://news.yahoo.co.jp/pickup/6587879?source=rss",
+      "publishedAt": "2026-07-14T03:26:01.000Z",
+      "xQuery": "道頓堀死亡火災 たばこの不始末か"
     },
     {
-      "time": "10:52",
-      "title": "防災庁設置へ 個人の行動変容課題",
+      "time": "12:16",
+      "title": "セブンの冷蔵設備巡り3社談合疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587862?source=rss",
-      "publishedAt": "2026-07-14T01:52:37.000Z",
-      "xQuery": "防災庁設置へ 個人の行動変容課題"
+      "url": "https://news.yahoo.co.jp/pickup/6587877?source=rss",
+      "publishedAt": "2026-07-14T03:16:51.000Z",
+      "xQuery": "セブンの冷蔵設備巡り3社談合疑い"
     },
     {
-      "time": "11:17",
-      "title": "路上に血を流した男性 犯人逃走",
+      "time": "12:10",
+      "title": "危険な暑さ 猛暑日150地点迫るか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587864?source=rss",
-      "publishedAt": "2026-07-14T02:17:19.000Z",
-      "xQuery": "路上に血を流した男性 犯人逃走"
-    },
-    {
-      "time": "11:44",
-      "title": "道頓堀死亡火災 タバコの不始末か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587871?source=rss",
-      "publishedAt": "2026-07-14T02:44:44.000Z",
-      "xQuery": "道頓堀死亡火災 タバコの不始末か"
+      "url": "https://news.yahoo.co.jp/pickup/6587874?source=rss",
+      "publishedAt": "2026-07-14T03:10:03.000Z",
+      "xQuery": "危険な暑さ 猛暑日150地点迫るか"
     },
     {
       "time": "11:49",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587873?source=rss",
       "publishedAt": "2026-07-14T02:49:40.000Z",
       "xQuery": "海水浴で不明の高校生 遺体で発見"
+    },
+    {
+      "time": "12:29",
+      "title": "結婚と子は金次第 世界に拡大傾向",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587869?source=rss",
+      "publishedAt": "2026-07-14T03:29:05.000Z",
+      "xQuery": "結婚と子は金次第 世界に拡大傾向"
     }
   ]
 };
