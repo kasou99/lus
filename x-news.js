@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T22:25:02.362Z",
+  "updatedAt": "2026-07-14T22:50:25.228Z",
   "items": [
     {
       "time": "06:44",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 海峡「通航料」を撤回"
     },
     {
-      "time": "19:19",
-      "title": "東日本中心に危険な暑さ続く 注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587937?source=rss",
-      "publishedAt": "2026-07-14T10:19:37.000Z",
-      "xQuery": "東日本中心に危険な暑さ続く 注意"
-    },
-    {
       "time": "23:07",
       "title": "工場放火 男性に21億円の賠償命令",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587964?source=rss",
       "publishedAt": "2026-07-14T14:07:09.000Z",
       "xQuery": "工場放火 男性に21億円の賠償命令"
+    },
+    {
+      "time": "07:27",
+      "title": "GMO在宅勤務を完全廃止 狙いは",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587973?source=rss",
+      "publishedAt": "2026-07-14T22:27:02.000Z",
+      "xQuery": "GMO在宅勤務を完全廃止 狙いは"
     },
     {
       "time": "22:12",
