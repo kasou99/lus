@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-14T11:34:20.785Z",
+  "updatedAt": "2026-07-14T12:35:53.355Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "18:31",
+        "title": "１０日の動意株＞丸紅、工作機械および周辺機器と自動化設備の販売・保守事業のＴＯＬＵＳを子会社化(ウエルスアドバイザー)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQWxHd2hXT00zWVFJYmpQZGtjbWwzTTVaWTVsb1JKZkotQ3Q4NTBwMnNkZWU5ckJPY21oeGV3elYwVVVSSUxSQ2FRZWNReHZNblA2SG5Fa2llbG9STGVNQ29CUm90c2ZQdU9PRUhGbm92dHZXOXJHUk9tT3JCTW5fRjJkb3FBOFk?oc=5",
+        "publishedAt": "2026-07-14T09:31:32.000Z"
+      },
       {
         "time": "19:30",
         "title": "アピステ、制御盤用クーラーの仕様を一覧で比較できる「比較表作成ツール」公開",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-07-14T10:40:00.000Z"
       },
       {
-        "time": "15:56",
-        "title": "丸紅(株)【8002】：今の株価の理由は？値動きの背景をAIが解説",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94M3NCN3B4aktIMXhJWUZncEY3VUNlZTNUVzNwenJqUWhIX3BqNlJHLWZkd0FXQ1hSY0NERWU5Zng5cU5nLThQa1BDRkYwbVdObllWYlh4b2lTaHhYbU00?oc=5",
-        "publishedAt": "2026-07-14T06:56:01.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "株式会社FRICS Fab、イプロス主催「第1回AI/DX 経営課題の解決展」に出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKS3VDQ21jYkkyTzNoQXQtMkNZNEc2bUJNOXpWR0JyalMteWFlZkQ3TFZaT0pRY0NQVlRnN1ZEZlZWNkRXb1RsY1FVVmV6X1NHRkJFb3pGTzFDY29USEZKdHBzaHNCcGJHa2c?oc=5",
-        "publishedAt": "2026-07-14T01:00:02.000Z"
+        "time": "03:46",
+        "title": "ＳＯＭＰＯリスクマネジメントと設備保全総合研究所が連携協定を締結（ＳＯＭＰＯリスクマネジメント株式会社 プレスリリース）",
+        "source": "財経新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yV0VkdWJYQU5JWW0wS3diQ1JoMDVlaTdsRFI0OGFzRFMwV2FuSENUVkI0c3dSS0RydGhqN0t0RUktakg1eW15dGxuLWVPZW1SSWQ0Tg?oc=5",
+        "publishedAt": "2026-07-13T18:46:24.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,6 +112,13 @@
         "publishedAt": "2026-07-14T08:26:06.000Z"
       },
       {
+        "time": "20:44",
+        "title": "クロマグロ会議 メキシコ突然反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587945?source=rss",
+        "publishedAt": "2026-07-14T11:44:08.000Z"
+      },
+      {
         "time": "23:18",
         "title": "全東信破産 465億円超焦げ付きか",
         "source": "Yahoo!ニュース",
@@ -138,16 +145,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587897?source=rss",
         "publishedAt": "2026-07-14T06:40:30.000Z"
-      },
-      {
-        "time": "08:08",
-        "title": "休職代行広がり 公務員ら駆け込み",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587847?source=rss",
-        "publishedAt": "2026-07-13T23:08:01.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "21:01",
+        "title": "福岡県 21年～海外訪問に3億円超",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587946?source=rss",
+        "publishedAt": "2026-07-14T12:01:40.000Z"
+      },
       {
         "time": "19:33",
         "title": "福岡知事 県議「先生」呼びやめて",
@@ -163,11 +170,18 @@
         "publishedAt": "2026-07-14T08:11:55.000Z"
       },
       {
-        "time": "18:09",
-        "title": "男女4人刺傷 人生に疲れたと供述",
+        "time": "21:12",
+        "title": "たばこポイ捨て 悔しいと殉職遺族",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587922?source=rss",
-        "publishedAt": "2026-07-14T09:09:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587949?source=rss",
+        "publishedAt": "2026-07-14T12:12:24.000Z"
+      },
+      {
+        "time": "12:26",
+        "title": "道頓堀死亡火災 たばこの不始末か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587879?source=rss",
+        "publishedAt": "2026-07-14T03:26:01.000Z"
       },
       {
         "time": "16:32",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587904?source=rss",
         "publishedAt": "2026-07-14T07:32:54.000Z"
-      },
-      {
-        "time": "19:58",
-        "title": "工場で実験中に爆発か 意識不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587940?source=rss",
-        "publishedAt": "2026-07-14T10:58:21.000Z"
-      },
-      {
-        "time": "20:14",
-        "title": "市のパワハラ発端条例 市民も対象",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587941?source=rss",
-        "publishedAt": "2026-07-14T11:14:35.000Z"
       }
     ],
     "subsidyHeadlines": [

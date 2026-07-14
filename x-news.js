@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T11:34:21.457Z",
+  "updatedAt": "2026-07-14T12:35:54.257Z",
   "items": [
     {
-      "time": "18:40",
-      "title": "中道・立憲・公明 相違が浮き彫り",
+      "time": "21:01",
+      "title": "福岡県 21年～海外訪問に3億円超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587930?source=rss",
-      "publishedAt": "2026-07-14T09:40:30.000Z",
-      "xQuery": "中道・立憲・公明 相違が浮き彫り"
+      "url": "https://news.yahoo.co.jp/pickup/6587946?source=rss",
+      "publishedAt": "2026-07-14T12:01:40.000Z",
+      "xQuery": "福岡県 21年～海外訪問に3億円超"
+    },
+    {
+      "time": "20:44",
+      "title": "クロマグロ会議 メキシコ突然反発",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587945?source=rss",
+      "publishedAt": "2026-07-14T11:44:08.000Z",
+      "xQuery": "クロマグロ会議 メキシコ突然反発"
     },
     {
       "time": "18:05",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン戦争の出口は 3つの想定"
     },
     {
-      "time": "19:58",
-      "title": "工場で実験中に爆発か 意識不明",
+      "time": "21:12",
+      "title": "たばこポイ捨て 悔しいと殉職遺族",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587940?source=rss",
-      "publishedAt": "2026-07-14T10:58:21.000Z",
-      "xQuery": "工場で実験中に爆発か 意識不明"
-    },
-    {
-      "time": "19:33",
-      "title": "福岡知事 県議「先生」呼びやめて",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587938?source=rss",
-      "publishedAt": "2026-07-14T10:33:46.000Z",
-      "xQuery": "福岡知事 県議「先生」呼びやめて"
+      "url": "https://news.yahoo.co.jp/pickup/6587949?source=rss",
+      "publishedAt": "2026-07-14T12:12:24.000Z",
+      "xQuery": "たばこポイ捨て 悔しいと殉職遺族"
     },
     {
       "time": "20:21",
