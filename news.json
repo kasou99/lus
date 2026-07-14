@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T19:33:57.004Z",
+  "updatedAt": "2026-07-14T20:30:22.257Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-07-14T10:34:49.000Z"
       },
       {
+        "time": "05:04",
+        "title": "コマツ、空港プロで建設DX シンガポールに初",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3MTFGN240YmVMa2RaVzBydE5NYUYxeExBOWV6X3NsTVJBMjVHOU01aUlac2Z3MjJFbEVNdV9FQ1FJbVdtOUFNalFxTWhQbWNtNG8yX29ndFotejA?oc=5",
+        "publishedAt": "2026-07-14T20:04:46.000Z"
+      },
+      {
         "time": "12:16",
         "title": "SMAC、半導体装置を93億ウォン追加受注…下半期の受注拡大に期待",
         "source": "BigGo ファイナンス",
@@ -24,25 +31,11 @@
         "publishedAt": "2026-07-14T03:16:00.000Z"
       },
       {
-        "time": "16:39",
-        "title": "インタビュー／芝浦機械社長・坂元繁友氏 超精密機、競合迎え北米開拓",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45R1JQeVFWQzZ0bTNUQ3pNcTgzeWNDcTFWdGlUcU85clF4STBVT2I1YzUwclFhcEJFcDV4UmswZ0NkZ3RaSDFhWHJWeE90bFZ3ZjNXUUF6WG50Uzg?oc=5",
-        "publishedAt": "2026-07-14T07:39:27.000Z"
-      },
-      {
         "time": "10:03",
         "title": "CNC工作機械市場レポート2026：世界的な成長トレンド、主要セグメント、競争環境を分析",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15U1hDUWdsdG1wLThFRm83Ump1Wmkyblh6bS1BOS1fOWJsTXl0U3p5dnRCU0JjT3R0eFNESkQxejZ3Qm1HaEtaWlphN0o5dFdNX0lidktmV1VONGs5d1ktbGZqdkFaTlJCcnVFQVhrVHlWTG80cGttaWlGVQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tU0JMb096dHUyRE9HWG83dURwdkhkNzZkYmt6RnFsRWNYRGdsMWh3V0I3NmFJNkQyOVAtSHB3d2prLWFSQ1JtbWtRdmVYT29QbkpXS0Z5cDFKc3BZNHl4YTQ5SjJQVjI1Uzh1ZEMzVkl0Q2ZUU3FBVnBB?oc=5",
         "publishedAt": "2026-07-14T01:03:25.000Z"
-      },
-      {
-        "time": "19:54",
-        "title": "ダイチュウ、滋賀県長浜市に大型部品加工の新工場を竣工 大型門形マシニングセンタを導入",
-        "source": "オートメーション新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HemEyOE5rNHd6TDY1Rkc3RVBLV1hidlZlelRDV0FnbkFJc3NxclBCSmxnalJXZmxzQkJjOTEyOFVDUGJqU0RYZkR5dlVZdTFVWTh2NEVrY19TZw?oc=5",
-        "publishedAt": "2026-07-14T10:54:52.000Z"
       },
       {
         "time": "21:31",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-07-14T12:31:11.000Z"
       },
       {
-        "time": "19:40",
-        "title": "ロシア情報機関、東京拠点に活動か 「身分偽装し密輸」NYT報道",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1URnkybUNDNy0yQm1IWTYxU2JRdWNhdTY3MnFtSzByQ0xRQy1wY09YamdmRl9aZVFaQnZ1QVV3QTZJT1hqRk1sMFdja0FiUWxzMTBpUTFUR0dWbTc2NTBqeHZEdE5VcUk?oc=5",
-        "publishedAt": "2026-07-14T10:40:00.000Z"
+        "time": "19:54",
+        "title": "ダイチュウ、滋賀県長浜市に大型部品加工の新工場を竣工 大型門形マシニングセンタを導入",
+        "source": "オートメーション新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HemEyOE5rNHd6TDY1Rkc3RVBLV1hidlZlelRDV0FnbkFJc3NxclBCSmxnalJXZmxzQkJjOTEyOFVDUGJqU0RYZkR5dlVZdTFVWTh2NEVrY19TZw?oc=5",
+        "publishedAt": "2026-07-14T10:54:52.000Z"
+      },
+      {
+        "time": "18:25",
+        "title": "部品不足で生産ラインを止めないために--設備保全クラウド「ミロクルカルテ」、モバイルで完結する部品棚卸し機能α版をリリース",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yZExtSDhLVUJHdU1zcDFuQnJLd253QWJicGstNnR2bHAwcHZFT2h2VGtUemE5c3cxVUhaWW5jTXViSE1qU0E1RTczUWFHNDA3YnZOS3ZzeUhvR2M2QkpoTHIwVWVYVVE?oc=5",
+        "publishedAt": "2026-07-14T09:25:39.000Z"
       }
     ],
     "worldHeadlines": [
