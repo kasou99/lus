@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-13T23:49:46.591Z",
+  "updatedAt": "2026-07-14T00:44:10.426Z",
   "items": [
     {
-      "time": "07:23",
-      "title": "猛暑日100地点超えか 熱中症警戒",
+      "time": "08:39",
+      "title": "イラン UAEタンカー攻撃1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587842?source=rss",
-      "publishedAt": "2026-07-13T22:23:08.000Z",
-      "xQuery": "猛暑日100地点超えか 熱中症警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6587854?source=rss",
+      "publishedAt": "2026-07-13T23:39:48.000Z",
+      "xQuery": "イラン UAEタンカー攻撃1人死亡"
     },
     {
       "time": "08:41",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "維新 入閣意向を高市首相に伝達"
     },
     {
+      "time": "09:04",
+      "title": "冷凍庫遺体 元妻「離婚届作った」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587856?source=rss",
+      "publishedAt": "2026-07-14T00:04:32.000Z",
+      "xQuery": "冷凍庫遺体 元妻「離婚届作った」"
+    },
+    {
+      "time": "09:03",
+      "title": "愛媛県の内部通報20年間ゼロ 調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587855?source=rss",
+      "publishedAt": "2026-07-14T00:03:10.000Z",
+      "xQuery": "愛媛県の内部通報20年間ゼロ 調査"
+    },
+    {
       "time": "08:08",
       "title": "休職代行広がり 公務員ら駆け込み",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6587847?source=rss",
       "publishedAt": "2026-07-13T23:08:01.000Z",
       "xQuery": "休職代行広がり 公務員ら駆け込み"
-    },
-    {
-      "time": "07:29",
-      "title": "「ローカル億ション」なぜ増える",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587844?source=rss",
-      "publishedAt": "2026-07-13T22:29:58.000Z",
-      "xQuery": "「ローカル億ション」なぜ増える"
-    },
-    {
-      "time": "08:15",
-      "title": "「目立ちたい」令和の暴走族 実態",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587850?source=rss",
-      "publishedAt": "2026-07-13T23:15:25.000Z",
-      "xQuery": "「目立ちたい」令和の暴走族 実態"
     }
   ]
 };
