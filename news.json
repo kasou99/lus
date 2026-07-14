@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-07-14T01:39:28.930Z",
+  "updatedAt": "2026-07-14T03:09:42.943Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "10:03",
+        "title": "CNC工作機械市場レポート2026：世界的な成長トレンド、主要セグメント、競争環境を分析",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15U1hDUWdsdG1wLThFRm83Ump1Wmkyblh6bS1BOS1fOWJsTXl0U3p5dnRCU0JjT3R0eFNESkQxejZ3Qm1HaEtaWlphN0o5dFdNX0lidktmV1VONGs5d1ktbGZqdkFaTlJCcnVFQVhrVHlWTG80cGttaWlGVQ?oc=5",
+        "publishedAt": "2026-07-14T01:03:25.000Z"
+      },
+      {
+        "time": "11:01",
+        "title": "インタビュー／芝浦機械社長・坂元繁友氏 超精密機、競合迎え北米開拓",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45R1JQeVFWQzZ0bTNUQ3pNcTgzeWNDcTFWdGlUcU85clF4STBVT2I1YzUwclFhcEJFcDV4UmswZ0NkZ3RaSDFhWHJWeE90bFZ3ZjNXUUF6WG50Uzg?oc=5",
+        "publishedAt": "2026-07-14T02:01:50.000Z"
+      },
       {
         "time": "16:30",
         "title": "工作機械用リニアモーターの世界市場（2026年～2032年）、市場規模（フラットプレート型、U字型スロット型、円筒型）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IZzJtYXNaZ2hpZkhWNUJ4eUxfdF9ETlo4d3JMOUp5V2VsdjdJX2NZVm5wXzB5Uzh3QU5SZkYxc0NtZGpZTWdBR1RzWnRMZVE?oc=5",
         "publishedAt": "2026-07-13T07:30:00.000Z"
-      },
-      {
-        "time": "08:30",
-        "title": "戸塚重量、移設・設置を内製化 大型クレーン車導入",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LZVZPU3Q5eVRqdFJERldQYjBsTmlra0pmcFpsUmJYek1GNndhbGZKZlBwYkZOQ2YyS1otM0MybFFRajFBOWpRR00zWWN1Q2plaXY2emZBRlNUajA?oc=5",
-        "publishedAt": "2026-07-13T23:30:03.000Z"
       },
       {
         "time": "16:32",
@@ -24,25 +31,11 @@
         "publishedAt": "2026-07-13T07:32:32.000Z"
       },
       {
-        "time": "10:49",
-        "title": "丸紅－底堅い スイスの工作機械販売会社を子会社化(トレーダーズ・ウェブ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0tiX2M5Q05vbGE5ZS1oWlN3Q21aSW4yYnVsdjhPN2tsLTQyLTZmN1VYQW41YW53b2R6M2xOSGFkSXdMSmI1TTM2SFIzM0RHQlI4TE1jcDBCWVBMMjB4X1JGY3d1My03N240T0RZWDBoZS1VYWZCZ0I0Sl84a3JrZUJRVW12bkU?oc=5",
-        "publishedAt": "2026-07-13T01:49:00.000Z"
-      },
-      {
         "time": "03:46",
         "title": "ＳＯＭＰＯリスクマネジメントと設備保全総合研究所が連携協定を締結（ＳＯＭＰＯリスクマネジメント株式会社 プレスリリース）",
         "source": "財経新聞",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yV0VkdWJYQU5JWW0wS3diQ1JoMDVlaTdsRFI0OGFzRFMwV2FuSENUVkI0c3dSS0RydGhqN0t0RUktakg1eW15dGxuLWVPZW1SSWQ0Tg?oc=5",
         "publishedAt": "2026-07-13T18:46:24.000Z"
-      },
-      {
-        "time": "11:17",
-        "title": "工学府機械システム工学専攻博士前期課程１年の野口丈さんが公益財団法人工作機械技術振興団「第47次工作機械技術振興賞奨励賞」を受賞",
-        "source": "tuat.ac.jp",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JSlNtR3ZDUElBRGlpcmFRQkNPM3BYWWpPTGJqYnIzdC1ia3FZLWhKZTNEUExjR3c0bXlfQnkwNlhkVGNVMUFrWjZOYmt5bW41QW82dzA0MDc0WURRMmRQTWEtYw?oc=5",
-        "publishedAt": "2026-07-13T02:17:30.000Z"
       },
       {
         "time": "14:11",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-07-13T05:11:00.000Z"
       },
       {
-        "time": "09:30",
-        "title": "CNC工作機械市場レポート2026：世界的な成長トレンド、主要セグメント、競争環境を分析",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40NEZQcGUwcF9ycnJNWDZaZ0tON0QxM2NmUHB6SnAtZFF6TDlVUXA2UXlnVDZPZGxuU0t0SWI5Y1NxNk5UeVZkMUZuVlNsZGc1R1VDbUxlTkRWanZnRkJOVWJvLTZFempLeGc?oc=5",
-        "publishedAt": "2026-07-14T00:30:00.000Z"
+        "time": "08:30",
+        "title": "戸塚重量、移設・設置を内製化 大型クレーン車導入",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LZVZPU3Q5eVRqdFJERldQYjBsTmlra0pmcFpsUmJYek1GNndhbGZKZlBwYkZOQ2YyS1otM0MybFFRajFBOWpRR00zWWN1Q2plaXY2emZBRlNUajA?oc=5",
+        "publishedAt": "2026-07-13T23:30:03.000Z"
+      },
+      {
+        "time": "16:40",
+        "title": "世界のロータリーエンコーダ市場規模レポート2026-2032：競合状況、需要分析、成長予測",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xM2VQejZZTUx3QlJBRXhrWWxVSFREX0djeXp1cTRONThiMFJsQ1cyNmJnMWstMEx5VkVaMUhMMXB6ZEFES3A0?oc=5",
+        "publishedAt": "2026-07-13T07:40:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "11:49",
+        "title": "海水浴で不明の高校生 遺体で発見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587873?source=rss",
+        "publishedAt": "2026-07-14T02:49:40.000Z"
+      },
+      {
+        "time": "11:44",
+        "title": "道頓堀死亡火災 タバコの不始末か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587871?source=rss",
+        "publishedAt": "2026-07-14T02:44:44.000Z"
+      },
+      {
         "time": "06:34",
         "title": "5人乗りゴムボート転覆 1人死亡",
         "source": "Yahoo!ニュース",
@@ -156,11 +170,11 @@
         "publishedAt": "2026-07-13T21:34:54.000Z"
       },
       {
-        "time": "20:55",
-        "title": "4人刺傷 誰でも良かったと男供述",
+        "time": "11:17",
+        "title": "路上に血を流した男性 犯人逃走",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587820?source=rss",
-        "publishedAt": "2026-07-13T11:55:48.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587864?source=rss",
+        "publishedAt": "2026-07-14T02:17:19.000Z"
       },
       {
         "time": "09:03",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587835?source=rss",
         "publishedAt": "2026-07-13T14:50:37.000Z"
-      },
-      {
-        "time": "09:04",
-        "title": "冷凍庫遺体 元妻「離婚届作った」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587856?source=rss",
-        "publishedAt": "2026-07-14T00:04:32.000Z"
-      },
-      {
-        "time": "20:46",
-        "title": "中村小三郎さんがひき逃げか 聴取",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587821?source=rss",
-        "publishedAt": "2026-07-13T11:46:38.000Z"
       }
     ],
     "subsidyHeadlines": [

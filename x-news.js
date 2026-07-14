@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T01:39:29.482Z",
+  "updatedAt": "2026-07-14T03:09:43.701Z",
   "items": [
     {
       "time": "09:32",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 海峡「通航料」20%要求"
     },
     {
-      "time": "09:03",
-      "title": "愛媛県の内部通報20年間ゼロ 調査",
+      "time": "10:52",
+      "title": "防災庁設置へ 個人の行動変容課題",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587855?source=rss",
-      "publishedAt": "2026-07-14T00:03:10.000Z",
-      "xQuery": "愛媛県の内部通報20年間ゼロ 調査"
+      "url": "https://news.yahoo.co.jp/pickup/6587862?source=rss",
+      "publishedAt": "2026-07-14T01:52:37.000Z",
+      "xQuery": "防災庁設置へ 個人の行動変容課題"
     },
     {
-      "time": "09:04",
-      "title": "冷凍庫遺体 元妻「離婚届作った」",
+      "time": "11:17",
+      "title": "路上に血を流した男性 犯人逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587856?source=rss",
-      "publishedAt": "2026-07-14T00:04:32.000Z",
-      "xQuery": "冷凍庫遺体 元妻「離婚届作った」"
+      "url": "https://news.yahoo.co.jp/pickup/6587864?source=rss",
+      "publishedAt": "2026-07-14T02:17:19.000Z",
+      "xQuery": "路上に血を流した男性 犯人逃走"
     },
     {
-      "time": "08:08",
-      "title": "休職代行広がり 公務員ら駆け込み",
+      "time": "11:44",
+      "title": "道頓堀死亡火災 タバコの不始末か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587847?source=rss",
-      "publishedAt": "2026-07-13T23:08:01.000Z",
-      "xQuery": "休職代行広がり 公務員ら駆け込み"
+      "url": "https://news.yahoo.co.jp/pickup/6587871?source=rss",
+      "publishedAt": "2026-07-14T02:44:44.000Z",
+      "xQuery": "道頓堀死亡火災 タバコの不始末か"
     },
     {
-      "time": "09:51",
-      "title": "クレカ作れない 借金150万円男性",
+      "time": "11:49",
+      "title": "海水浴で不明の高校生 遺体で発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587858?source=rss",
-      "publishedAt": "2026-07-14T00:51:53.000Z",
-      "xQuery": "クレカ作れない 借金150万円男性"
+      "url": "https://news.yahoo.co.jp/pickup/6587873?source=rss",
+      "publishedAt": "2026-07-14T02:49:40.000Z",
+      "xQuery": "海水浴で不明の高校生 遺体で発見"
     }
   ]
 };
