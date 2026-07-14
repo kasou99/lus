@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T22:50:25.228Z",
+  "updatedAt": "2026-07-14T23:22:14.170Z",
   "items": [
     {
       "time": "06:44",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 海峡「通航料」を撤回"
     },
     {
-      "time": "23:07",
-      "title": "工場放火 男性に21億円の賠償命令",
+      "time": "07:51",
+      "title": "東日本を中心に猛暑日予想 警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587964?source=rss",
-      "publishedAt": "2026-07-14T14:07:09.000Z",
-      "xQuery": "工場放火 男性に21億円の賠償命令"
+      "url": "https://news.yahoo.co.jp/pickup/6587976?source=rss",
+      "publishedAt": "2026-07-14T22:51:33.000Z",
+      "xQuery": "東日本を中心に猛暑日予想 警戒を"
     },
     {
       "time": "07:27",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "GMO在宅勤務を完全廃止 狙いは"
     },
     {
-      "time": "22:12",
-      "title": "KFC全店 品切れや臨時休業の恐れ",
+      "time": "07:49",
+      "title": "KFC なぜ品切れや臨時休業の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587957?source=rss",
-      "publishedAt": "2026-07-14T13:12:08.000Z",
-      "xQuery": "KFC全店 品切れや臨時休業の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6587975?source=rss",
+      "publishedAt": "2026-07-14T22:49:04.000Z",
+      "xQuery": "KFC なぜ品切れや臨時休業の恐れ"
     }
   ]
 };

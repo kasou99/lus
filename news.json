@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T22:50:24.185Z",
+  "updatedAt": "2026-07-14T23:22:13.706Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-07-14T03:16:00.000Z"
       },
       {
+        "time": "19:54",
+        "title": "ダイチュウ、滋賀県長浜市に大型部品加工の新工場を竣工 大型門形マシニングセンタを導入",
+        "source": "オートメーション新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HemEyOE5rNHd6TDY1Rkc3RVBLV1hidlZlelRDV0FnbkFJc3NxclBCSmxnalJXZmxzQkJjOTEyOFVDUGJqU0RYZkR5dlVZdTFVWTh2NEVrY19TZw?oc=5",
+        "publishedAt": "2026-07-14T10:54:52.000Z"
+      },
+      {
         "time": "10:03",
         "title": "CNC工作機械市場レポート2026：世界的な成長トレンド、主要セグメント、競争環境を分析",
         "source": "ニコニコニュース",
@@ -43,13 +50,6 @@
         "source": "jica.go.jp",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjdWxhYUM4bkVhVHdMMlFON0NSR0pQdmNMZ2wtbHBqcW4xWWhjdzhOR0huQTJVSnhXWUZoUW1pcnFnLWNlMGpwQ3BJa2ExUUhkLUdOSXdB?oc=5",
         "publishedAt": "2026-07-14T12:31:11.000Z"
-      },
-      {
-        "time": "19:54",
-        "title": "ダイチュウ、滋賀県長浜市に大型部品加工の新工場を竣工 大型門形マシニングセンタを導入",
-        "source": "オートメーション新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HemEyOE5rNHd6TDY1Rkc3RVBLV1hidlZlelRDV0FnbkFJc3NxclBCSmxnalJXZmxzQkJjOTEyOFVDUGJqU0RYZkR5dlVZdTFVWTh2NEVrY19TZw?oc=5",
-        "publishedAt": "2026-07-14T10:54:52.000Z"
       },
       {
         "time": "18:25",
@@ -75,13 +75,6 @@
         "publishedAt": "2026-07-14T21:44:05.000Z"
       },
       {
-        "time": "08:39",
-        "title": "イラン UAEタンカー攻撃1人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587854?source=rss",
-        "publishedAt": "2026-07-13T23:39:48.000Z"
-      },
-      {
         "time": "18:05",
         "title": "米イラン戦争の出口は 3つの想定",
         "source": "Yahoo!ニュース",
@@ -101,9 +94,30 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587884?source=rss",
         "publishedAt": "2026-07-14T04:52:13.000Z"
+      },
+      {
+        "time": "08:08",
+        "title": "データセンター建設 米社会問題に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587978?source=rss",
+        "publishedAt": "2026-07-14T23:08:55.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "07:49",
+        "title": "KFC なぜ品切れや臨時休業の恐れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587975?source=rss",
+        "publishedAt": "2026-07-14T22:49:04.000Z"
+      },
+      {
+        "time": "22:12",
+        "title": "KFC全店 品切れや臨時休業の恐れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587957?source=rss",
+        "publishedAt": "2026-07-14T13:12:08.000Z"
+      },
       {
         "time": "17:26",
         "title": "クロマグロ漁獲枠拡大 合意至らず",
@@ -131,20 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587897?source=rss",
         "publishedAt": "2026-07-14T06:40:30.000Z"
-      },
-      {
-        "time": "08:08",
-        "title": "休職代行広がり 公務員ら駆け込み",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587847?source=rss",
-        "publishedAt": "2026-07-13T23:08:01.000Z"
-      },
-      {
-        "time": "20:21",
-        "title": "イケアジャパンに初の日本人社長",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587943?source=rss",
-        "publishedAt": "2026-07-14T11:21:44.000Z"
       }
     ],
     "localHeadlines": [
