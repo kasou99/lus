@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T11:34:45.704Z",
+  "updatedAt": "2026-07-15T12:37:23.718Z",
   "items": [
     {
       "time": "19:15",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "ニチレイ障害 サイバー攻撃が原因"
     },
     {
-      "time": "18:41",
-      "title": "音声データで名指し 県議面会否定",
+      "time": "20:51",
+      "title": "米軍 イランを5日連続で攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588066?source=rss",
-      "publishedAt": "2026-07-15T09:41:15.000Z",
-      "xQuery": "音声データで名指し 県議面会否定"
+      "url": "https://news.yahoo.co.jp/pickup/6588078?source=rss",
+      "publishedAt": "2026-07-15T11:51:10.000Z",
+      "xQuery": "米軍 イランを5日連続で攻撃"
     },
     {
-      "time": "18:38",
-      "title": "小1はねられ死亡 横断中に転倒か",
+      "time": "20:40",
+      "title": "「検察なめんな」法廷で映像上映",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588060?source=rss",
-      "publishedAt": "2026-07-15T09:38:28.000Z",
-      "xQuery": "小1はねられ死亡 横断中に転倒か"
+      "url": "https://news.yahoo.co.jp/pickup/6588077?source=rss",
+      "publishedAt": "2026-07-15T11:40:04.000Z",
+      "xQuery": "「検察なめんな」法廷で映像上映"
     },
     {
-      "time": "17:38",
-      "title": "点滴に大便入れ患者殺害疑い 逮捕",
+      "time": "19:45",
+      "title": "芥川賞と直木賞 受賞作が決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588054?source=rss",
-      "publishedAt": "2026-07-15T08:38:43.000Z",
-      "xQuery": "点滴に大便入れ患者殺害疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6588075?source=rss",
+      "publishedAt": "2026-07-15T10:45:19.000Z",
+      "xQuery": "芥川賞と直木賞 受賞作が決定"
     },
     {
-      "time": "20:23",
-      "title": "「LINE VOOM」サービス終了へ",
+      "time": "18:46",
+      "title": "友達でも敵?「フレネミー」流行",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588076?source=rss",
-      "publishedAt": "2026-07-15T11:23:28.000Z",
-      "xQuery": "「LINE VOOM」サービス終了へ"
+      "url": "https://news.yahoo.co.jp/pickup/6588067?source=rss",
+      "publishedAt": "2026-07-15T09:46:54.000Z",
+      "xQuery": "友達でも敵?「フレネミー」流行"
     }
   ]
 };
