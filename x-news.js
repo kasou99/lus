@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T04:32:14.703Z",
+  "updatedAt": "2026-07-15T05:50:25.708Z",
   "items": [
     {
       "time": "12:16",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "皇室典範改正案 参院で審議始まる"
     },
     {
-      "time": "11:27",
-      "title": "2歳虐待死 両親に拘禁刑8年判決",
+      "time": "14:46",
+      "title": "狙われる従業員 次の詐欺手口は?",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588003?source=rss",
-      "publishedAt": "2026-07-15T02:27:07.000Z",
-      "xQuery": "2歳虐待死 両親に拘禁刑8年判決"
+      "url": "https://news.yahoo.co.jp/pickup/6588033?source=rss",
+      "publishedAt": "2026-07-15T05:46:09.000Z",
+      "xQuery": "狙われる従業員 次の詐欺手口は?"
     },
     {
-      "time": "12:28",
-      "title": "集団登校中 女児はねられ意識不明",
+      "time": "14:25",
+      "title": "6歳死亡 集団登校中にはねられる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588020?source=rss",
-      "publishedAt": "2026-07-15T03:28:44.000Z",
-      "xQuery": "集団登校中 女児はねられ意識不明"
+      "url": "https://news.yahoo.co.jp/pickup/6588031?source=rss",
+      "publishedAt": "2026-07-15T05:25:58.000Z",
+      "xQuery": "6歳死亡 集団登校中にはねられる"
     },
     {
-      "time": "11:14",
-      "title": "イオンでも一部欠品 ニチレイ障害",
+      "time": "14:13",
+      "title": "万博「2億円トイレ」移設に1億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588002?source=rss",
-      "publishedAt": "2026-07-15T02:14:42.000Z",
-      "xQuery": "イオンでも一部欠品 ニチレイ障害"
+      "url": "https://news.yahoo.co.jp/pickup/6588030?source=rss",
+      "publishedAt": "2026-07-15T05:13:35.000Z",
+      "xQuery": "万博「2億円トイレ」移設に1億円"
     },
     {
-      "time": "10:53",
-      "title": "宮崎麗果被告に有罪 1.5億円脱税",
+      "time": "13:10",
+      "title": "「顔パス」の改札 都内で初運用",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587999?source=rss",
-      "publishedAt": "2026-07-15T01:53:40.000Z",
-      "xQuery": "宮崎麗果被告に有罪 1.5億円脱税"
+      "url": "https://news.yahoo.co.jp/pickup/6588022?source=rss",
+      "publishedAt": "2026-07-15T04:10:15.000Z",
+      "xQuery": "「顔パス」の改札 都内で初運用"
     }
   ]
 };
