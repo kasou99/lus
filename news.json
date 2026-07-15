@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T21:50:27.968Z",
+  "updatedAt": "2026-07-15T22:24:56.837Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-07-15T20:03:48.000Z"
       },
       {
-        "time": "11:00",
-        "title": "ブラザー工業－SMBC日興が新規「1」 事務機堅調、工作機械はデータセンター向け拡大へ〔DZH 個別株情報〕(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMVJtU0ItOTRYOXU3YVlIVWhHVVN3YjRYUWNtQ0c3YW5YeTZMd0JZb3dCUWpWdmNRUVVZRkVVckNuQ191VmRDNVRfdkh5WVowMTR0YmlPOWJ0Ymh1QzhCRzE5Z3prWXItWHhrVlFTYlJyRXRLQ09Od0J5RUJTbC1sUnBUSmFqcVE?oc=5",
-        "publishedAt": "2026-07-15T02:00:00.000Z"
-      },
-      {
         "time": "12:59",
         "title": "取得単価非開示。売上4.14億の半導体設備メンテナンス会社を内外テック（3374）がM&A｜需要拡大中の半導体産業をどう伸ばすか｜モリタマナヴ / M&Aニュース解説",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LWlJkTmhuRDd6ZWZQS2ItWWp1V2JJNGRNS21OSE1TamplMk9icTRsSXJoNGw4UmdiOUpCN2ZQQ1Z0ZzBDWk9UQmw1TVd1eWI4?oc=5",
         "publishedAt": "2026-07-15T03:59:48.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "ブラザー工業－SMBC日興が新規「1」 事務機堅調、工作機械はデータセンター向け拡大へ〔DZH 個別株情報〕(時事通信)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMVJtU0ItOTRYOXU3YVlIVWhHVVN3YjRYUWNtQ0c3YW5YeTZMd0JZb3dCUWpWdmNRUVVZRkVVckNuQ191VmRDNVRfdkh5WVowMTR0YmlPOWJ0Ymh1QzhCRzE5Z3prWXItWHhrVlFTYlJyRXRLQ09Od0J5RUJTbC1sUnBUSmFqcVE?oc=5",
+        "publishedAt": "2026-07-15T02:00:00.000Z"
       },
       {
         "time": "11:52",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-14T23:50:59.000Z"
       },
       {
+        "time": "05:00",
+        "title": "深層断面／りそなHD、異業種連携で基盤強化",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QaVZBbzktNHlZTWs4UHJkc19CVWpVT1NDX0JiU3BUamZCVDlDVm9GUkNsQTJZWmhVYXB0bDZ0X0xlNUNxN1ZOREpGN0wwZUY5LXZaQlBtR1BTYVk?oc=5",
+        "publishedAt": "2026-07-15T20:00:42.000Z"
+      },
+      {
         "time": "12:00",
         "title": "高精度磁気エンコーダ業界の競争激化：大手企業の戦略と新興企業の生き残り方",
         "source": "ドリームニュース",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UN2tGRGJGdVE5el9LU0pFUm5lSkx6OEJpeFdKN1Q2dDl3WmphMzBfNXVZaVBZQnd2Q05mMzJRMTN0RkNGSVdVb3E1RFpmNFI1cEpz?oc=5",
         "publishedAt": "2026-07-15T03:00:00.000Z"
-      },
-      {
-        "time": "11:30",
-        "title": "ロータリー光学式エンコーダの世界市場（2026年～2032年）、市場規模（インクリメンタルエンコーダ、アブソリュートエンコーダ）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE42Zno0SjJyWGRZVVFlckJObWw4aGkzaVcxMlQtajkxdTUtZWhjVnQwbmJVcHBhWjRGSTQ2bzA4V0VWUGZnSGhZ?oc=5",
-        "publishedAt": "2026-07-15T02:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-07-15T11:40:04.000Z"
       },
       {
-        "time": "17:12",
-        "title": "小3男児がはねられ死亡 西東京市",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588048?source=rss",
-        "publishedAt": "2026-07-15T08:12:50.000Z"
-      },
-      {
         "time": "18:38",
         "title": "小1はねられ死亡 横断中に転倒か",
         "source": "Yahoo!ニュース",
@@ -175,6 +168,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588080?source=rss",
         "publishedAt": "2026-07-15T12:46:18.000Z"
+      },
+      {
+        "time": "06:51",
+        "title": "容疑者「便注入、死ぬか」と検索",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588098?source=rss",
+        "publishedAt": "2026-07-15T21:51:36.000Z"
       },
       {
         "time": "22:59",

@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T21:50:28.889Z",
+  "updatedAt": "2026-07-15T22:24:57.420Z",
   "items": [
     {
-      "time": "18:55",
-      "title": "党首討論 消費減税など激しい論戦",
+      "time": "07:21",
+      "title": "利根川進さん死去 ノーベル賞受賞",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588068?source=rss",
-      "publishedAt": "2026-07-15T09:55:36.000Z",
-      "xQuery": "党首討論 消費減税など激しい論戦"
+      "url": "https://news.yahoo.co.jp/pickup/6588101?source=rss",
+      "publishedAt": "2026-07-15T22:21:38.000Z",
+      "xQuery": "利根川進さん死去 ノーベル賞受賞"
     },
     {
-      "time": "23:12",
-      "title": "「生活苦しい」半数超 厚労省調査",
+      "time": "07:20",
+      "title": "皇室典範改正 あす成立の公算大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588091?source=rss",
-      "publishedAt": "2026-07-15T14:12:23.000Z",
-      "xQuery": "「生活苦しい」半数超 厚労省調査"
+      "url": "https://news.yahoo.co.jp/pickup/6588099?source=rss",
+      "publishedAt": "2026-07-15T22:20:11.000Z",
+      "xQuery": "皇室典範改正 あす成立の公算大"
+    },
+    {
+      "time": "06:51",
+      "title": "容疑者「便注入、死ぬか」と検索",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588098?source=rss",
+      "publishedAt": "2026-07-15T21:51:36.000Z",
+      "xQuery": "容疑者「便注入、死ぬか」と検索"
     },
     {
       "time": "06:36",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588096?source=rss",
       "publishedAt": "2026-07-15T21:36:31.000Z",
       "xQuery": "障害者に「クズ」 施設で虐待か"
-    },
-    {
-      "time": "21:46",
-      "title": "便混入で殺害か 死因は多臓器不全",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588080?source=rss",
-      "publishedAt": "2026-07-15T12:46:18.000Z",
-      "xQuery": "便混入で殺害か 死因は多臓器不全"
     },
     {
       "time": "22:59",
