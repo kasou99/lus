@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T23:49:48.492Z",
+  "updatedAt": "2026-07-15T00:42:32.092Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-07-14T20:04:46.000Z"
       },
       {
+        "time": "06:01",
+        "title": "移設・設置を内製化…戸塚重量、最大吊り下げ重量70トン「大型クレーン車」導入",
+        "source": "ニュースイッチ by 日刊工業新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5KdnpGenR0dG1GZHdoaGxHczRwZWFpRHBYZWs0dGg4dGRJd2hKUG1ETDZpbE5sSF9FLUFXblR1MHl2dw?oc=5",
+        "publishedAt": "2026-07-14T21:01:58.000Z"
+      },
+      {
         "time": "12:16",
         "title": "SMAC、半導体装置を93億ウォン追加受注…下半期の受注拡大に期待",
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jWlFsWGJLTUFrUlp3Nl9sV1NrcmROUy03QmhrYzBaR0Q3VkZjYkRkcnBxM1VOYlgxbGE5X0xOY1hveHJjT0dyRXhDYjRKUGlWWFlUSldmZ3lzenEyczN4eGkwNVBOQl9TTVQ5WUtvY2FLbHZE?oc=5",
         "publishedAt": "2026-07-14T03:16:00.000Z"
-      },
-      {
-        "time": "19:54",
-        "title": "ダイチュウ、滋賀県長浜市に大型部品加工の新工場を竣工 大型門形マシニングセンタを導入",
-        "source": "オートメーション新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HemEyOE5rNHd6TDY1Rkc3RVBLV1hidlZlelRDV0FnbkFJc3NxclBCSmxnalJXZmxzQkJjOTEyOFVDUGJqU0RYZkR5dlVZdTFVWTh2NEVrY19TZw?oc=5",
-        "publishedAt": "2026-07-14T10:54:52.000Z"
       },
       {
         "time": "21:31",
@@ -45,11 +45,11 @@
         "publishedAt": "2026-07-14T12:31:11.000Z"
       },
       {
-        "time": "10:03",
-        "title": "CNC工作機械市場レポート2026：世界的な成長トレンド、主要セグメント、競争環境を分析",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tU0JMb096dHUyRE9HWG83dURwdkhkNzZkYmt6RnFsRWNYRGdsMWh3V0I3NmFJNkQyOVAtSHB3d2prLWFSQ1JtbWtRdmVYT29QbkpXS0Z5cDFKc3BZNHl4YTQ5SjJQVjI1Uzh1ZEMzVkl0Q2ZUU3FBVnBB?oc=5",
-        "publishedAt": "2026-07-14T01:03:25.000Z"
+        "time": "19:54",
+        "title": "ダイチュウ、滋賀県長浜市に大型部品加工の新工場を竣工 大型門形マシニングセンタを導入",
+        "source": "オートメーション新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HemEyOE5rNHd6TDY1Rkc3RVBLV1hidlZlelRDV0FnbkFJc3NxclBCSmxnalJXZmxzQkJjOTEyOFVDUGJqU0RYZkR5dlVZdTFVWTh2NEVrY19TZw?oc=5",
+        "publishedAt": "2026-07-14T10:54:52.000Z"
       },
       {
         "time": "18:25",
@@ -82,18 +82,18 @@
         "publishedAt": "2026-07-14T09:05:51.000Z"
       },
       {
+        "time": "09:30",
+        "title": "習主席側近の失脚相次ぐ 摘発激化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587987?source=rss",
+        "publishedAt": "2026-07-15T00:30:50.000Z"
+      },
+      {
         "time": "23:15",
         "title": "米消費者物価3.5%上昇 大幅鈍化",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587963?source=rss",
         "publishedAt": "2026-07-14T14:15:37.000Z"
-      },
-      {
-        "time": "13:52",
-        "title": "米国務長官「ICC解体」を主張",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587884?source=rss",
-        "publishedAt": "2026-07-14T04:52:13.000Z"
       },
       {
         "time": "08:08",
@@ -104,6 +104,13 @@
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "09:40",
+        "title": "FRB議長「インフレ容認しない」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587990?source=rss",
+        "publishedAt": "2026-07-15T00:40:22.000Z"
+      },
       {
         "time": "08:37",
         "title": "北陸新幹線延伸「桂川」案に決定",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587918?source=rss",
         "publishedAt": "2026-07-14T08:48:00.000Z"
-      },
-      {
-        "time": "15:40",
-        "title": "ANA機長に実刑 不同意わいせつ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587897?source=rss",
-        "publishedAt": "2026-07-14T06:40:30.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,18 +170,18 @@
         "publishedAt": "2026-07-14T08:11:55.000Z"
       },
       {
+        "time": "09:25",
+        "title": "中学生死亡 川で魚追いかけ溺れる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587988?source=rss",
+        "publishedAt": "2026-07-15T00:25:26.000Z"
+      },
+      {
         "time": "21:12",
         "title": "たばこポイ捨て 悔しいと殉職遺族",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587949?source=rss",
         "publishedAt": "2026-07-14T12:12:24.000Z"
-      },
-      {
-        "time": "16:32",
-        "title": "江別暴行死 川村被告が暴行を証言",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587904?source=rss",
-        "publishedAt": "2026-07-14T07:32:54.000Z"
       },
       {
         "time": "23:07",

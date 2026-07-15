@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-14T23:49:49.213Z",
+  "updatedAt": "2026-07-15T00:42:32.642Z",
   "items": [
     {
       "time": "08:37",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "北陸新幹線延伸「桂川」案に決定"
     },
     {
-      "time": "06:44",
-      "title": "米軍 イランの港湾封鎖を再開",
+      "time": "08:08",
+      "title": "データセンター建設 米社会問題に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587969?source=rss",
-      "publishedAt": "2026-07-14T21:44:05.000Z",
-      "xQuery": "米軍 イランの港湾封鎖を再開"
+      "url": "https://news.yahoo.co.jp/pickup/6587978?source=rss",
+      "publishedAt": "2026-07-14T23:08:55.000Z",
+      "xQuery": "データセンター建設 米社会問題に"
     },
     {
-      "time": "07:51",
-      "title": "東日本を中心に猛暑日予想 警戒を",
+      "time": "09:10",
+      "title": "寄生虫感染症が拡大 米で1600人超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587976?source=rss",
-      "publishedAt": "2026-07-14T22:51:33.000Z",
-      "xQuery": "東日本を中心に猛暑日予想 警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6587984?source=rss",
+      "publishedAt": "2026-07-15T00:10:57.000Z",
+      "xQuery": "寄生虫感染症が拡大 米で1600人超"
     },
     {
-      "time": "07:27",
-      "title": "GMO在宅勤務を完全廃止 狙いは",
+      "time": "08:14",
+      "title": "都知事 米NY大の誘致検討を表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587973?source=rss",
-      "publishedAt": "2026-07-14T22:27:02.000Z",
-      "xQuery": "GMO在宅勤務を完全廃止 狙いは"
+      "url": "https://news.yahoo.co.jp/pickup/6587980?source=rss",
+      "publishedAt": "2026-07-14T23:14:48.000Z",
+      "xQuery": "都知事 米NY大の誘致検討を表明"
     },
     {
       "time": "07:49",
