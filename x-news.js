@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T13:36:14.505Z",
+  "updatedAt": "2026-07-15T14:39:28.429Z",
   "items": [
-    {
-      "time": "19:15",
-      "title": "ニチレイ障害 サイバー攻撃が原因",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588070?source=rss",
-      "publishedAt": "2026-07-15T10:15:56.000Z",
-      "xQuery": "ニチレイ障害 サイバー攻撃が原因"
-    },
-    {
-      "time": "20:40",
-      "title": "「検察なめんな」法廷で映像上映",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588077?source=rss",
-      "publishedAt": "2026-07-15T11:40:04.000Z",
-      "xQuery": "「検察なめんな」法廷で映像上映"
-    },
     {
       "time": "18:55",
       "title": "党首討論 消費減税など激しい論戦",
@@ -24,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588068?source=rss",
       "publishedAt": "2026-07-15T09:55:36.000Z",
       "xQuery": "党首討論 消費減税など激しい論戦"
+    },
+    {
+      "time": "23:12",
+      "title": "「生活苦しい」半数超 厚労省調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588091?source=rss",
+      "publishedAt": "2026-07-15T14:12:23.000Z",
+      "xQuery": "「生活苦しい」半数超 厚労省調査"
     },
     {
       "time": "21:46",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "便混入で殺害か 死因は多臓器不全"
     },
     {
-      "time": "21:33",
-      "title": "若林さん 選考評価も直木賞ならず",
+      "time": "22:50",
+      "title": "台船で女性倒れ死亡 事件の可能性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588081?source=rss",
-      "publishedAt": "2026-07-15T12:33:45.000Z",
-      "xQuery": "若林さん 選考評価も直木賞ならず"
+      "url": "https://news.yahoo.co.jp/pickup/6588088?source=rss",
+      "publishedAt": "2026-07-15T13:50:32.000Z",
+      "xQuery": "台船で女性倒れ死亡 事件の可能性"
+    },
+    {
+      "time": "22:59",
+      "title": "飼い犬助けに川に入る 女性が死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588090?source=rss",
+      "publishedAt": "2026-07-15T13:59:56.000Z",
+      "xQuery": "飼い犬助けに川に入る 女性が死亡"
     }
   ]
 };
