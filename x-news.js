@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T03:10:20.203Z",
+  "updatedAt": "2026-07-15T04:32:14.703Z",
   "items": [
     {
-      "time": "10:10",
-      "title": "官邸と自民 国会対応でぎくしゃく",
+      "time": "12:16",
+      "title": "皇室典範改正案 参院で審議始まる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587993?source=rss",
-      "publishedAt": "2026-07-15T01:10:45.000Z",
-      "xQuery": "官邸と自民 国会対応でぎくしゃく"
+      "url": "https://news.yahoo.co.jp/pickup/6588014?source=rss",
+      "publishedAt": "2026-07-15T03:16:19.000Z",
+      "xQuery": "皇室典範改正案 参院で審議始まる"
     },
     {
-      "time": "10:35",
-      "title": "新幹線新駅の候補 桂川どんな場所",
+      "time": "11:27",
+      "title": "2歳虐待死 両親に拘禁刑8年判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587997?source=rss",
-      "publishedAt": "2026-07-15T01:35:12.000Z",
-      "xQuery": "新幹線新駅の候補 桂川どんな場所"
+      "url": "https://news.yahoo.co.jp/pickup/6588003?source=rss",
+      "publishedAt": "2026-07-15T02:27:07.000Z",
+      "xQuery": "2歳虐待死 両親に拘禁刑8年判決"
+    },
+    {
+      "time": "12:28",
+      "title": "集団登校中 女児はねられ意識不明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588020?source=rss",
+      "publishedAt": "2026-07-15T03:28:44.000Z",
+      "xQuery": "集団登校中 女児はねられ意識不明"
     },
     {
       "time": "11:14",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588002?source=rss",
       "publishedAt": "2026-07-15T02:14:42.000Z",
       "xQuery": "イオンでも一部欠品 ニチレイ障害"
-    },
-    {
-      "time": "10:14",
-      "title": "鉄製カゴとローラーに挟まる 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587994?source=rss",
-      "publishedAt": "2026-07-15T01:14:56.000Z",
-      "xQuery": "鉄製カゴとローラーに挟まる 死亡"
     },
     {
       "time": "10:53",
