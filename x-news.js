@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T09:42:37.506Z",
+  "updatedAt": "2026-07-15T10:38:36.602Z",
   "items": [
     {
-      "time": "18:19",
-      "title": "16日も危険な暑さ 熱中症に警戒",
+      "time": "19:15",
+      "title": "ニチレイ障害 サイバー攻撃が原因",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588062?source=rss",
-      "publishedAt": "2026-07-15T09:19:51.000Z",
-      "xQuery": "16日も危険な暑さ 熱中症に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6588070?source=rss",
+      "publishedAt": "2026-07-15T10:15:56.000Z",
+      "xQuery": "ニチレイ障害 サイバー攻撃が原因"
     },
     {
-      "time": "17:56",
-      "title": "「副首都」法案 衆院特別委で可決",
+      "time": "17:11",
+      "title": "皇室典範改正案 成立急ぐ背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588058?source=rss",
-      "publishedAt": "2026-07-15T08:56:07.000Z",
-      "xQuery": "「副首都」法案 衆院特別委で可決"
+      "url": "https://news.yahoo.co.jp/pickup/6588046?source=rss",
+      "publishedAt": "2026-07-15T08:11:44.000Z",
+      "xQuery": "皇室典範改正案 成立急ぐ背景"
     },
     {
-      "time": "17:12",
-      "title": "小3男児がはねられ死亡 西東京市",
+      "time": "16:43",
+      "title": "ながら運転で1歳死亡 禁錮4年判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588048?source=rss",
-      "publishedAt": "2026-07-15T08:12:50.000Z",
-      "xQuery": "小3男児がはねられ死亡 西東京市"
+      "url": "https://news.yahoo.co.jp/pickup/6588041?source=rss",
+      "publishedAt": "2026-07-15T07:43:23.000Z",
+      "xQuery": "ながら運転で1歳死亡 禁錮4年判決"
+    },
+    {
+      "time": "18:38",
+      "title": "小1はねられ死亡 横断中に転倒か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588060?source=rss",
+      "publishedAt": "2026-07-15T09:38:28.000Z",
+      "xQuery": "小1はねられ死亡 横断中に転倒か"
     },
     {
       "time": "17:38",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588054?source=rss",
       "publishedAt": "2026-07-15T08:38:43.000Z",
       "xQuery": "点滴に大便入れ患者殺害疑い 逮捕"
-    },
-    {
-      "time": "16:50",
-      "title": "通話アプリPOPOPO 半年で終了へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588045?source=rss",
-      "publishedAt": "2026-07-15T07:50:46.000Z",
-      "xQuery": "通話アプリPOPOPO 半年で終了へ"
     }
   ]
 };

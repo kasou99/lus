@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T09:42:36.777Z",
+  "updatedAt": "2026-07-15T10:38:35.905Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-07-15T04:30:03.000Z"
       },
       {
-        "time": "11:00",
-        "title": "ブラザー工業－SMBC日興が新規「1」 事務機堅調、工作機械はデータセンター向け拡大へ〔DZH 個別株情報〕(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMVJtU0ItOTRYOXU3YVlIVWhHVVN3YjRYUWNtQ0c3YW5YeTZMd0JZb3dCUWpWdmNRUVVZRkVVckNuQ191VmRDNVRfdkh5WVowMTR0YmlPOWJ0Ymh1QzhCRzE5Z3prWXItWHhrVlFTYlJyRXRLQ09Od0J5RUJTbC1sUnBUSmFqcVE?oc=5",
-        "publishedAt": "2026-07-15T02:00:00.000Z"
-      },
-      {
         "time": "12:59",
         "title": "取得単価非開示。売上4.14億の半導体設備メンテナンス会社を内外テック（3374）がM&A｜需要拡大中の半導体産業をどう伸ばすか｜モリタマナヴ / M&Aニュース解説",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LWlJkTmhuRDd6ZWZQS2ItWWp1V2JJNGRNS21OSE1TamplMk9icTRsSXJoNGw4UmdiOUpCN2ZQQ1Z0ZzBDWk9UQmw1TVd1eWI4?oc=5",
         "publishedAt": "2026-07-15T03:59:48.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "ブラザー工業－SMBC日興が新規「1」 事務機堅調、工作機械はデータセンター向け拡大へ〔DZH 個別株情報〕(時事通信)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMVJtU0ItOTRYOXU3YVlIVWhHVVN3YjRYUWNtQ0c3YW5YeTZMd0JZb3dCUWpWdmNRUVVZRkVVckNuQ191VmRDNVRfdkh5WVowMTR0YmlPOWJ0Ymh1QzhCRzE5Z3prWXItWHhrVlFTYlJyRXRLQ09Od0J5RUJTbC1sUnBUSmFqcVE?oc=5",
+        "publishedAt": "2026-07-15T02:00:00.000Z"
       },
       {
         "time": "16:30",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-15T03:00:00.000Z"
       },
       {
-        "time": "19:34",
-        "title": "アピステ、制御盤用クーラーの仕様を一覧で比較できる「比較表作成ツール」公開",
-        "source": "オートメーション新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wT1NOVzVNTEE5NmU1SHA5WEI1OWlvSVZXNE1JV1o2X1duUmIxNWNrNzRtbWZTYnlBeFZiSnFoLVBaalJLLXFBbFRtV3ZSTFlnNDllYkdoOG5mdw?oc=5",
-        "publishedAt": "2026-07-14T10:34:49.000Z"
+        "time": "16:55",
+        "title": "ウォームギアアクチュエーターの最新調査2026-2032：市場規模1446百万米ドル、今後動向を予測",
+        "source": "atpress.ne.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVNnhka0FIeDN1a08tSDFqLW9HUTFMeGNvOHdqODlwQWRtZE9IMDlhSFp3a2xXSXVVQUhQbUg0V0FvUFVGRGRVaGRoVXZaekk?oc=5",
+        "publishedAt": "2026-07-15T07:55:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-07-15T00:40:22.000Z"
       },
       {
+        "time": "19:15",
+        "title": "ニチレイ障害 サイバー攻撃が原因",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588070?source=rss",
+        "publishedAt": "2026-07-15T10:15:56.000Z"
+      },
+      {
         "time": "07:49",
         "title": "KFC なぜ品切れや臨時休業の恐れ",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587957?source=rss",
         "publishedAt": "2026-07-14T13:12:08.000Z"
-      },
-      {
-        "time": "11:14",
-        "title": "イオンでも一部欠品 ニチレイ障害",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588002?source=rss",
-        "publishedAt": "2026-07-15T02:14:42.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-07-15T09:38:28.000Z"
       },
       {
-        "time": "17:38",
-        "title": "点滴に大便入れ患者殺害疑い 逮捕",
+        "time": "18:41",
+        "title": "音声データで名指し 県議面会否定",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588054?source=rss",
-        "publishedAt": "2026-07-15T08:38:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588066?source=rss",
+        "publishedAt": "2026-07-15T09:41:15.000Z"
       }
     ],
     "subsidyHeadlines": [
