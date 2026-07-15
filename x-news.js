@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T12:37:23.718Z",
+  "updatedAt": "2026-07-15T13:36:14.505Z",
   "items": [
     {
       "time": "19:15",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ニチレイ障害 サイバー攻撃が原因"
     },
     {
-      "time": "20:51",
-      "title": "米軍 イランを5日連続で攻撃",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588078?source=rss",
-      "publishedAt": "2026-07-15T11:51:10.000Z",
-      "xQuery": "米軍 イランを5日連続で攻撃"
-    },
-    {
       "time": "20:40",
       "title": "「検察なめんな」法廷で映像上映",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "「検察なめんな」法廷で映像上映"
     },
     {
-      "time": "19:45",
-      "title": "芥川賞と直木賞 受賞作が決定",
+      "time": "18:55",
+      "title": "党首討論 消費減税など激しい論戦",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588075?source=rss",
-      "publishedAt": "2026-07-15T10:45:19.000Z",
-      "xQuery": "芥川賞と直木賞 受賞作が決定"
+      "url": "https://news.yahoo.co.jp/pickup/6588068?source=rss",
+      "publishedAt": "2026-07-15T09:55:36.000Z",
+      "xQuery": "党首討論 消費減税など激しい論戦"
     },
     {
-      "time": "18:46",
-      "title": "友達でも敵?「フレネミー」流行",
+      "time": "21:46",
+      "title": "便混入で殺害か 死因は多臓器不全",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588067?source=rss",
-      "publishedAt": "2026-07-15T09:46:54.000Z",
-      "xQuery": "友達でも敵?「フレネミー」流行"
+      "url": "https://news.yahoo.co.jp/pickup/6588080?source=rss",
+      "publishedAt": "2026-07-15T12:46:18.000Z",
+      "xQuery": "便混入で殺害か 死因は多臓器不全"
+    },
+    {
+      "time": "21:33",
+      "title": "若林さん 選考評価も直木賞ならず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588081?source=rss",
+      "publishedAt": "2026-07-15T12:33:45.000Z",
+      "xQuery": "若林さん 選考評価も直木賞ならず"
     }
   ]
 };
