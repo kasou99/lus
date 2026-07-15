@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T10:38:36.602Z",
+  "updatedAt": "2026-07-15T11:34:45.704Z",
   "items": [
     {
       "time": "19:15",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ニチレイ障害 サイバー攻撃が原因"
     },
     {
-      "time": "17:11",
-      "title": "皇室典範改正案 成立急ぐ背景",
+      "time": "18:41",
+      "title": "音声データで名指し 県議面会否定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588046?source=rss",
-      "publishedAt": "2026-07-15T08:11:44.000Z",
-      "xQuery": "皇室典範改正案 成立急ぐ背景"
-    },
-    {
-      "time": "16:43",
-      "title": "ながら運転で1歳死亡 禁錮4年判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588041?source=rss",
-      "publishedAt": "2026-07-15T07:43:23.000Z",
-      "xQuery": "ながら運転で1歳死亡 禁錮4年判決"
+      "url": "https://news.yahoo.co.jp/pickup/6588066?source=rss",
+      "publishedAt": "2026-07-15T09:41:15.000Z",
+      "xQuery": "音声データで名指し 県議面会否定"
     },
     {
       "time": "18:38",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588054?source=rss",
       "publishedAt": "2026-07-15T08:38:43.000Z",
       "xQuery": "点滴に大便入れ患者殺害疑い 逮捕"
+    },
+    {
+      "time": "20:23",
+      "title": "「LINE VOOM」サービス終了へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588076?source=rss",
+      "publishedAt": "2026-07-15T11:23:28.000Z",
+      "xQuery": "「LINE VOOM」サービス終了へ"
     }
   ]
 };
