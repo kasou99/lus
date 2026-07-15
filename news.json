@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T00:42:32.092Z",
+  "updatedAt": "2026-07-15T01:39:15.045Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "オートメーション新聞",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wT1NOVzVNTEE5NmU1SHA5WEI1OWlvSVZXNE1JV1o2X1duUmIxNWNrNzRtbWZTYnlBeFZiSnFoLVBaalJLLXFBbFRtV3ZSTFlnNDllYkdoOG5mdw?oc=5",
         "publishedAt": "2026-07-14T10:34:49.000Z"
+      },
+      {
+        "time": "08:50",
+        "title": "【美濃加茂市】子ども向け工場見学イベント「かもっこlaboバスツアー」参加者募集中！",
+        "source": "さかだちブックス",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83SDl2N0piVnBmVEc5eFRXd3MwNUdieDNTcnE3V0VwWkR4S0J0WHVqZE5jN2dPTExaTXdmc1BmdE5kOWFoa01TTzAtMUxlTS1LTXJLRlB5cw?oc=5",
+        "publishedAt": "2026-07-14T23:50:59.000Z"
       },
       {
         "time": "05:04",
@@ -50,13 +57,6 @@
         "source": "オートメーション新聞",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HemEyOE5rNHd6TDY1Rkc3RVBLV1hidlZlelRDV0FnbkFJc3NxclBCSmxnalJXZmxzQkJjOTEyOFVDUGJqU0RYZkR5dlVZdTFVWTh2NEVrY19TZw?oc=5",
         "publishedAt": "2026-07-14T10:54:52.000Z"
-      },
-      {
-        "time": "18:25",
-        "title": "部品不足で生産ラインを止めないために--設備保全クラウド「ミロクルカルテ」、モバイルで完結する部品棚卸し機能α版をリリース",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yZExtSDhLVUJHdU1zcDFuQnJLd253QWJicGstNnR2bHAwcHZFT2h2VGtUemE5c3cxVUhaWW5jTXViSE1qU0E1RTczUWFHNDA3YnZOS3ZzeUhvR2M2QkpoTHIwVWVYVVE?oc=5",
-        "publishedAt": "2026-07-14T09:25:39.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,18 +105,25 @@
     ],
     "economyHeadlines": [
       {
-        "time": "09:40",
-        "title": "FRB議長「インフレ容認しない」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587990?source=rss",
-        "publishedAt": "2026-07-15T00:40:22.000Z"
-      },
-      {
         "time": "08:37",
         "title": "北陸新幹線延伸「桂川」案に決定",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587983?source=rss",
         "publishedAt": "2026-07-14T23:37:27.000Z"
+      },
+      {
+        "time": "10:35",
+        "title": "新幹線新駅の候補 桂川どんな場所",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587997?source=rss",
+        "publishedAt": "2026-07-15T01:35:12.000Z"
+      },
+      {
+        "time": "09:40",
+        "title": "FRB議長「インフレ容認しない」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587990?source=rss",
+        "publishedAt": "2026-07-15T00:40:22.000Z"
       },
       {
         "time": "07:49",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587945?source=rss",
         "publishedAt": "2026-07-14T11:44:08.000Z"
-      },
-      {
-        "time": "17:48",
-        "title": "北陸新幹線延伸 全ルート案に課題",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587918?source=rss",
-        "publishedAt": "2026-07-14T08:48:00.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,13 +170,6 @@
         "publishedAt": "2026-07-14T08:11:55.000Z"
       },
       {
-        "time": "09:25",
-        "title": "中学生死亡 川で魚追いかけ溺れる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587988?source=rss",
-        "publishedAt": "2026-07-15T00:25:26.000Z"
-      },
-      {
         "time": "21:12",
         "title": "たばこポイ捨て 悔しいと殉職遺族",
         "source": "Yahoo!ニュース",
@@ -184,11 +177,18 @@
         "publishedAt": "2026-07-14T12:12:24.000Z"
       },
       {
-        "time": "23:07",
-        "title": "工場放火 男性に21億円の賠償命令",
+        "time": "10:14",
+        "title": "鉄製カゴとローラーに挟まる 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587964?source=rss",
-        "publishedAt": "2026-07-14T14:07:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6587994?source=rss",
+        "publishedAt": "2026-07-15T01:14:56.000Z"
+      },
+      {
+        "time": "09:25",
+        "title": "中学生死亡 川で魚追いかけ溺れる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6587988?source=rss",
+        "publishedAt": "2026-07-15T00:25:26.000Z"
       }
     ],
     "subsidyHeadlines": [

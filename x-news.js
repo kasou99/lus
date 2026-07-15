@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T00:42:32.642Z",
+  "updatedAt": "2026-07-15T01:39:15.737Z",
   "items": [
+    {
+      "time": "10:10",
+      "title": "官邸と自民 国会対応でぎくしゃく",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587993?source=rss",
+      "publishedAt": "2026-07-15T01:10:45.000Z",
+      "xQuery": "官邸と自民 国会対応でぎくしゃく"
+    },
     {
       "time": "08:37",
       "title": "北陸新幹線延伸「桂川」案に決定",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "北陸新幹線延伸「桂川」案に決定"
     },
     {
-      "time": "08:08",
-      "title": "データセンター建設 米社会問題に",
+      "time": "09:40",
+      "title": "FRB議長「インフレ容認しない」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587978?source=rss",
-      "publishedAt": "2026-07-14T23:08:55.000Z",
-      "xQuery": "データセンター建設 米社会問題に"
+      "url": "https://news.yahoo.co.jp/pickup/6587990?source=rss",
+      "publishedAt": "2026-07-15T00:40:22.000Z",
+      "xQuery": "FRB議長「インフレ容認しない」"
     },
     {
       "time": "09:10",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "寄生虫感染症が拡大 米で1600人超"
     },
     {
-      "time": "08:14",
-      "title": "都知事 米NY大の誘致検討を表明",
+      "time": "10:14",
+      "title": "鉄製カゴとローラーに挟まる 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587980?source=rss",
-      "publishedAt": "2026-07-14T23:14:48.000Z",
-      "xQuery": "都知事 米NY大の誘致検討を表明"
-    },
-    {
-      "time": "07:49",
-      "title": "KFC なぜ品切れや臨時休業の恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587975?source=rss",
-      "publishedAt": "2026-07-14T22:49:04.000Z",
-      "xQuery": "KFC なぜ品切れや臨時休業の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6587994?source=rss",
+      "publishedAt": "2026-07-15T01:14:56.000Z",
+      "xQuery": "鉄製カゴとローラーに挟まる 死亡"
     }
   ]
 };
