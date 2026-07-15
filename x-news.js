@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T07:42:10.176Z",
+  "updatedAt": "2026-07-15T08:53:42.027Z",
   "items": [
     {
-      "time": "15:12",
-      "title": "マット死事件 遺族訴え認める判決",
+      "time": "16:21",
+      "title": "熱中症で都内48人搬送 2人重症",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588034?source=rss",
-      "publishedAt": "2026-07-15T06:12:23.000Z",
-      "xQuery": "マット死事件 遺族訴え認める判決"
+      "url": "https://news.yahoo.co.jp/pickup/6588039?source=rss",
+      "publishedAt": "2026-07-15T07:21:54.000Z",
+      "xQuery": "熱中症で都内48人搬送 2人重症"
     },
     {
-      "time": "15:02",
-      "title": "子育て世帯 子1人が初の5割超え",
+      "time": "17:12",
+      "title": "小3男児がはねられ死亡 西東京市",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588032?source=rss",
-      "publishedAt": "2026-07-15T06:02:10.000Z",
-      "xQuery": "子育て世帯 子1人が初の5割超え"
+      "url": "https://news.yahoo.co.jp/pickup/6588048?source=rss",
+      "publishedAt": "2026-07-15T08:12:50.000Z",
+      "xQuery": "小3男児がはねられ死亡 西東京市"
     },
     {
-      "time": "15:39",
-      "title": "高田馬場刺殺 懲役16年の実刑判決",
+      "time": "17:38",
+      "title": "点滴に大便入れ患者殺害疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588035?source=rss",
-      "publishedAt": "2026-07-15T06:39:30.000Z",
-      "xQuery": "高田馬場刺殺 懲役16年の実刑判決"
+      "url": "https://news.yahoo.co.jp/pickup/6588054?source=rss",
+      "publishedAt": "2026-07-15T08:38:43.000Z",
+      "xQuery": "点滴に大便入れ患者殺害疑い 逮捕"
     },
     {
-      "time": "14:25",
-      "title": "6歳死亡 集団登校中にはねられる",
+      "time": "16:50",
+      "title": "通話アプリPOPOPO 半年で終了へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588031?source=rss",
-      "publishedAt": "2026-07-15T05:25:58.000Z",
-      "xQuery": "6歳死亡 集団登校中にはねられる"
+      "url": "https://news.yahoo.co.jp/pickup/6588045?source=rss",
+      "publishedAt": "2026-07-15T07:50:46.000Z",
+      "xQuery": "通話アプリPOPOPO 半年で終了へ"
     },
     {
-      "time": "13:59",
-      "title": "パワハラ問題 福澤監督の法的責任",
+      "time": "12:36",
+      "title": "「甘いもの」狙い クマ侵入相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588026?source=rss",
-      "publishedAt": "2026-07-15T04:59:47.000Z",
-      "xQuery": "パワハラ問題 福澤監督の法的責任"
+      "url": "https://news.yahoo.co.jp/pickup/6588012?source=rss",
+      "publishedAt": "2026-07-15T03:36:04.000Z",
+      "xQuery": "「甘いもの」狙い クマ侵入相次ぐ"
     }
   ]
 };
