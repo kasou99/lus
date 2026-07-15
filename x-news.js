@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T22:50:38.215Z",
+  "updatedAt": "2026-07-15T23:24:09.555Z",
   "items": [
     {
       "time": "07:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "障害者に「クズ」 施設で虐待か"
     },
     {
-      "time": "22:59",
-      "title": "飼い犬助けに川に入る 女性が死亡",
+      "time": "07:57",
+      "title": "温泉施設で5歳不明 父が海上捜索",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588090?source=rss",
-      "publishedAt": "2026-07-15T13:59:56.000Z",
-      "xQuery": "飼い犬助けに川に入る 女性が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6588104?source=rss",
+      "publishedAt": "2026-07-15T22:57:50.000Z",
+      "xQuery": "温泉施設で5歳不明 父が海上捜索"
     }
   ]
 };

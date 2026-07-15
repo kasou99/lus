@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T22:50:37.597Z",
+  "updatedAt": "2026-07-15T23:24:08.674Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -177,18 +177,18 @@
         "publishedAt": "2026-07-15T21:51:36.000Z"
       },
       {
+        "time": "07:57",
+        "title": "温泉施設で5歳不明 父が海上捜索",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588104?source=rss",
+        "publishedAt": "2026-07-15T22:57:50.000Z"
+      },
+      {
         "time": "22:59",
         "title": "飼い犬助けに川に入る 女性が死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588090?source=rss",
         "publishedAt": "2026-07-15T13:59:56.000Z"
-      },
-      {
-        "time": "22:50",
-        "title": "台船で女性倒れ死亡 事件の可能性",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588088?source=rss",
-        "publishedAt": "2026-07-15T13:50:32.000Z"
       }
     ],
     "subsidyHeadlines": [
