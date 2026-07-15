@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T21:24:34.041Z",
+  "updatedAt": "2026-07-15T21:50:28.889Z",
   "items": [
     {
       "time": "18:55",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「生活苦しい」半数超 厚労省調査"
     },
     {
+      "time": "06:36",
+      "title": "障害者に「クズ」 施設で虐待か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588096?source=rss",
+      "publishedAt": "2026-07-15T21:36:31.000Z",
+      "xQuery": "障害者に「クズ」 施設で虐待か"
+    },
+    {
       "time": "21:46",
       "title": "便混入で殺害か 死因は多臓器不全",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6588080?source=rss",
       "publishedAt": "2026-07-15T12:46:18.000Z",
       "xQuery": "便混入で殺害か 死因は多臓器不全"
-    },
-    {
-      "time": "22:50",
-      "title": "台船で女性倒れ死亡 事件の可能性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588088?source=rss",
-      "publishedAt": "2026-07-15T13:50:32.000Z",
-      "xQuery": "台船で女性倒れ死亡 事件の可能性"
     },
     {
       "time": "22:59",
