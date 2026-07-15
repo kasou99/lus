@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T20:26:47.451Z",
+  "updatedAt": "2026-07-15T20:52:26.639Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "12:59",
         "title": "取得単価非開示。売上4.14億の半導体設備メンテナンス会社を内外テック（3374）がM&A｜需要拡大中の半導体産業をどう伸ばすか｜モリタマナヴ / M&Aニュース解説",
-        "source": "note",
+        "source": "Note.com",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LWlJkTmhuRDd6ZWZQS2ItWWp1V2JJNGRNS21OSE1TamplMk9icTRsSXJoNGw4UmdiOUpCN2ZQQ1Z0ZzBDWk9UQmw1TVd1eWI4?oc=5",
         "publishedAt": "2026-07-15T03:59:48.000Z"
       },
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-14T23:50:59.000Z"
       },
       {
-        "time": "11:30",
-        "title": "ロータリー光学式エンコーダの世界市場（2026年～2032年）、市場規模（インクリメンタルエンコーダ、アブソリュートエンコーダ）・分析レポートを発表",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpS1NkRnNoSWI5S25hRHhDQ1dKTmxUM3ZQZEtJMFVDNUwtbXk4SWRDNkdOTnJoQ1pVY25XSmw3SGxETktpZUpydUx5SWx2S0U?oc=5",
-        "publishedAt": "2026-07-15T02:30:00.000Z"
-      },
-      {
         "time": "12:00",
         "title": "高精度磁気エンコーダ業界の競争激化：大手企業の戦略と新興企業の生き残り方",
         "source": "ドリームニュース",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UN2tGRGJGdVE5el9LU0pFUm5lSkx6OEJpeFdKN1Q2dDl3WmphMzBfNXVZaVBZQnd2Q05mMzJRMTN0RkNGSVdVb3E1RFpmNFI1cEpz?oc=5",
         "publishedAt": "2026-07-15T03:00:00.000Z"
+      },
+      {
+        "time": "11:30",
+        "title": "ロータリー光学式エンコーダの世界市場（2026年～2032年）、市場規模（インクリメンタルエンコーダ、アブソリュートエンコーダ）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE42Zno0SjJyWGRZVVFlckJObWw4aGkzaVcxMlQtajkxdTUtZWhjVnQwbmJVcHBhWjRGSTQ2bzA4V0VWUGZnSGhZ?oc=5",
+        "publishedAt": "2026-07-15T02:30:00.000Z"
       }
     ],
     "worldHeadlines": [
