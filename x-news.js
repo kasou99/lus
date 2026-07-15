@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T05:50:25.708Z",
+  "updatedAt": "2026-07-15T06:54:51.105Z",
   "items": [
     {
-      "time": "12:16",
-      "title": "皇室典範改正案 参院で審議始まる",
+      "time": "15:12",
+      "title": "マット死事件 遺族訴え認める判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588014?source=rss",
-      "publishedAt": "2026-07-15T03:16:19.000Z",
-      "xQuery": "皇室典範改正案 参院で審議始まる"
+      "url": "https://news.yahoo.co.jp/pickup/6588034?source=rss",
+      "publishedAt": "2026-07-15T06:12:23.000Z",
+      "xQuery": "マット死事件 遺族訴え認める判決"
     },
     {
-      "time": "14:46",
-      "title": "狙われる従業員 次の詐欺手口は?",
+      "time": "11:38",
+      "title": "iPS角膜の治験開始 阪大発の企業",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588033?source=rss",
-      "publishedAt": "2026-07-15T05:46:09.000Z",
-      "xQuery": "狙われる従業員 次の詐欺手口は?"
+      "url": "https://news.yahoo.co.jp/pickup/6588006?source=rss",
+      "publishedAt": "2026-07-15T02:38:35.000Z",
+      "xQuery": "iPS角膜の治験開始 阪大発の企業"
+    },
+    {
+      "time": "15:39",
+      "title": "高田馬場刺殺 懲役16年の実刑判決",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588035?source=rss",
+      "publishedAt": "2026-07-15T06:39:30.000Z",
+      "xQuery": "高田馬場刺殺 懲役16年の実刑判決"
     },
     {
       "time": "14:25",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588030?source=rss",
       "publishedAt": "2026-07-15T05:13:35.000Z",
       "xQuery": "万博「2億円トイレ」移設に1億円"
-    },
-    {
-      "time": "13:10",
-      "title": "「顔パス」の改札 都内で初運用",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588022?source=rss",
-      "publishedAt": "2026-07-15T04:10:15.000Z",
-      "xQuery": "「顔パス」の改札 都内で初運用"
     }
   ]
 };

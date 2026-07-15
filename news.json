@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T05:50:24.915Z",
+  "updatedAt": "2026-07-15T06:54:50.197Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "15:12",
+        "title": "マット死事件 遺族訴え認める判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588034?source=rss",
+        "publishedAt": "2026-07-15T06:12:23.000Z"
+      },
+      {
         "time": "21:01",
         "title": "福岡県 21年～海外訪問に3億円超",
         "source": "Yahoo!ニュース",
@@ -156,11 +163,11 @@
         "publishedAt": "2026-07-14T12:01:40.000Z"
       },
       {
-        "time": "19:33",
-        "title": "福岡知事 県議「先生」呼びやめて",
+        "time": "15:39",
+        "title": "高田馬場刺殺 懲役16年の実刑判決",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587938?source=rss",
-        "publishedAt": "2026-07-14T10:33:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588035?source=rss",
+        "publishedAt": "2026-07-15T06:39:30.000Z"
       },
       {
         "time": "14:25",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588028?source=rss",
         "publishedAt": "2026-07-15T05:02:31.000Z"
-      },
-      {
-        "time": "10:14",
-        "title": "鉄製カゴとローラーに挟まる 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587994?source=rss",
-        "publishedAt": "2026-07-15T01:14:56.000Z"
       },
       {
         "time": "10:53",
