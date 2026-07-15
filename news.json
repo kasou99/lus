@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T08:53:41.286Z",
+  "updatedAt": "2026-07-15T09:42:36.777Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,25 +38,25 @@
         "publishedAt": "2026-07-14T23:50:59.000Z"
       },
       {
+        "time": "11:30",
+        "title": "ロータリー光学式エンコーダの世界市場（2026年～2032年）、市場規模（インクリメンタルエンコーダ、アブソリュートエンコーダ）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpS1NkRnNoSWI5S25hRHhDQ1dKTmxUM3ZQZEtJMFVDNUwtbXk4SWRDNkdOTnJoQ1pVY25XSmw3SGxETktpZUpydUx5SWx2S0U?oc=5",
+        "publishedAt": "2026-07-15T02:30:00.000Z"
+      },
+      {
+        "time": "12:00",
+        "title": "高精度磁気エンコーダ業界の競争激化：大手企業の戦略と新興企業の生き残り方",
+        "source": "ドリームニュース",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UN2tGRGJGdVE5el9LU0pFUm5lSkx6OEJpeFdKN1Q2dDl3WmphMzBfNXVZaVBZQnd2Q05mMzJRMTN0RkNGSVdVb3E1RFpmNFI1cEpz?oc=5",
+        "publishedAt": "2026-07-15T03:00:00.000Z"
+      },
+      {
         "time": "19:34",
         "title": "アピステ、制御盤用クーラーの仕様を一覧で比較できる「比較表作成ツール」公開",
         "source": "オートメーション新聞",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wT1NOVzVNTEE5NmU1SHA5WEI1OWlvSVZXNE1JV1o2X1duUmIxNWNrNzRtbWZTYnlBeFZiSnFoLVBaalJLLXFBbFRtV3ZSTFlnNDllYkdoOG5mdw?oc=5",
         "publishedAt": "2026-07-14T10:34:49.000Z"
-      },
-      {
-        "time": "05:04",
-        "title": "コマツ、空港プロで建設DX シンガポールに初",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3MTFGN240YmVMa2RaVzBydE5NYUYxeExBOWV6X3NsTVJBMjVHOU01aUlac2Z3MjJFbEVNdV9FQ1FJbVdtOUFNalFxTWhQbWNtNG8yX29ndFotejA?oc=5",
-        "publishedAt": "2026-07-14T20:04:46.000Z"
-      },
-      {
-        "time": "19:54",
-        "title": "ダイチュウ、滋賀県長浜市に大型部品加工の新工場を竣工 大型門形マシニングセンタを導入",
-        "source": "オートメーション新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HemEyOE5rNHd6TDY1Rkc3RVBLV1hidlZlelRDV0FnbkFJc3NxclBCSmxnalJXZmxzQkJjOTEyOFVDUGJqU0RYZkR5dlVZdTFVWTh2NEVrY19TZw?oc=5",
-        "publishedAt": "2026-07-14T10:54:52.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,11 +163,11 @@
         "publishedAt": "2026-07-15T06:12:23.000Z"
       },
       {
-        "time": "15:39",
-        "title": "高田馬場刺殺 懲役16年の実刑判決",
+        "time": "18:31",
+        "title": "4人刺傷 胸刺された男性語る惨劇",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588035?source=rss",
-        "publishedAt": "2026-07-15T06:39:30.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588063?source=rss",
+        "publishedAt": "2026-07-15T09:31:06.000Z"
       },
       {
         "time": "17:12",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-07-15T08:12:50.000Z"
       },
       {
-        "time": "14:25",
-        "title": "6歳死亡 集団登校中にはねられる",
+        "time": "18:38",
+        "title": "小1はねられ死亡 横断中に転倒か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588031?source=rss",
-        "publishedAt": "2026-07-15T05:25:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588060?source=rss",
+        "publishedAt": "2026-07-15T09:38:28.000Z"
       },
       {
         "time": "17:38",

@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T08:53:42.027Z",
+  "updatedAt": "2026-07-15T09:42:37.506Z",
   "items": [
     {
-      "time": "16:21",
-      "title": "熱中症で都内48人搬送 2人重症",
+      "time": "18:19",
+      "title": "16日も危険な暑さ 熱中症に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588039?source=rss",
-      "publishedAt": "2026-07-15T07:21:54.000Z",
-      "xQuery": "熱中症で都内48人搬送 2人重症"
+      "url": "https://news.yahoo.co.jp/pickup/6588062?source=rss",
+      "publishedAt": "2026-07-15T09:19:51.000Z",
+      "xQuery": "16日も危険な暑さ 熱中症に警戒"
+    },
+    {
+      "time": "17:56",
+      "title": "「副首都」法案 衆院特別委で可決",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588058?source=rss",
+      "publishedAt": "2026-07-15T08:56:07.000Z",
+      "xQuery": "「副首都」法案 衆院特別委で可決"
     },
     {
       "time": "17:12",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588045?source=rss",
       "publishedAt": "2026-07-15T07:50:46.000Z",
       "xQuery": "通話アプリPOPOPO 半年で終了へ"
-    },
-    {
-      "time": "12:36",
-      "title": "「甘いもの」狙い クマ侵入相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588012?source=rss",
-      "publishedAt": "2026-07-15T03:36:04.000Z",
-      "xQuery": "「甘いもの」狙い クマ侵入相次ぐ"
     }
   ]
 };
