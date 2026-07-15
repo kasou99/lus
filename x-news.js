@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T06:54:51.105Z",
+  "updatedAt": "2026-07-15T07:42:10.176Z",
   "items": [
     {
       "time": "15:12",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マット死事件 遺族訴え認める判決"
     },
     {
-      "time": "11:38",
-      "title": "iPS角膜の治験開始 阪大発の企業",
+      "time": "15:02",
+      "title": "子育て世帯 子1人が初の5割超え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588006?source=rss",
-      "publishedAt": "2026-07-15T02:38:35.000Z",
-      "xQuery": "iPS角膜の治験開始 阪大発の企業"
+      "url": "https://news.yahoo.co.jp/pickup/6588032?source=rss",
+      "publishedAt": "2026-07-15T06:02:10.000Z",
+      "xQuery": "子育て世帯 子1人が初の5割超え"
     },
     {
       "time": "15:39",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "6歳死亡 集団登校中にはねられる"
     },
     {
-      "time": "14:13",
-      "title": "万博「2億円トイレ」移設に1億円",
+      "time": "13:59",
+      "title": "パワハラ問題 福澤監督の法的責任",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588030?source=rss",
-      "publishedAt": "2026-07-15T05:13:35.000Z",
-      "xQuery": "万博「2億円トイレ」移設に1億円"
+      "url": "https://news.yahoo.co.jp/pickup/6588026?source=rss",
+      "publishedAt": "2026-07-15T04:59:47.000Z",
+      "xQuery": "パワハラ問題 福澤監督の法的責任"
     }
   ]
 };
