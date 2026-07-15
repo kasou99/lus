@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T01:39:15.737Z",
+  "updatedAt": "2026-07-15T03:10:20.203Z",
   "items": [
     {
       "time": "10:10",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "官邸と自民 国会対応でぎくしゃく"
     },
     {
-      "time": "08:37",
-      "title": "北陸新幹線延伸「桂川」案に決定",
+      "time": "10:35",
+      "title": "新幹線新駅の候補 桂川どんな場所",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587983?source=rss",
-      "publishedAt": "2026-07-14T23:37:27.000Z",
-      "xQuery": "北陸新幹線延伸「桂川」案に決定"
+      "url": "https://news.yahoo.co.jp/pickup/6587997?source=rss",
+      "publishedAt": "2026-07-15T01:35:12.000Z",
+      "xQuery": "新幹線新駅の候補 桂川どんな場所"
     },
     {
-      "time": "09:40",
-      "title": "FRB議長「インフレ容認しない」",
+      "time": "11:14",
+      "title": "イオンでも一部欠品 ニチレイ障害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587990?source=rss",
-      "publishedAt": "2026-07-15T00:40:22.000Z",
-      "xQuery": "FRB議長「インフレ容認しない」"
-    },
-    {
-      "time": "09:10",
-      "title": "寄生虫感染症が拡大 米で1600人超",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6587984?source=rss",
-      "publishedAt": "2026-07-15T00:10:57.000Z",
-      "xQuery": "寄生虫感染症が拡大 米で1600人超"
+      "url": "https://news.yahoo.co.jp/pickup/6588002?source=rss",
+      "publishedAt": "2026-07-15T02:14:42.000Z",
+      "xQuery": "イオンでも一部欠品 ニチレイ障害"
     },
     {
       "time": "10:14",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6587994?source=rss",
       "publishedAt": "2026-07-15T01:14:56.000Z",
       "xQuery": "鉄製カゴとローラーに挟まる 死亡"
+    },
+    {
+      "time": "10:53",
+      "title": "宮崎麗果被告に有罪 1.5億円脱税",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6587999?source=rss",
+      "publishedAt": "2026-07-15T01:53:40.000Z",
+      "xQuery": "宮崎麗果被告に有罪 1.5億円脱税"
     }
   ]
 };
