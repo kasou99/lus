@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T23:24:09.555Z",
+  "updatedAt": "2026-07-15T23:50:40.109Z",
   "items": [
     {
-      "time": "07:21",
-      "title": "利根川進さん死去 ノーベル賞受賞",
+      "time": "08:18",
+      "title": "消費減税8月頭までに結論を 首相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588101?source=rss",
-      "publishedAt": "2026-07-15T22:21:38.000Z",
-      "xQuery": "利根川進さん死去 ノーベル賞受賞"
+      "url": "https://news.yahoo.co.jp/pickup/6588107?source=rss",
+      "publishedAt": "2026-07-15T23:18:36.000Z",
+      "xQuery": "消費減税8月頭までに結論を 首相"
     },
     {
       "time": "07:20",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "皇室典範改正 あす成立の公算大"
     },
     {
+      "time": "07:21",
+      "title": "利根川進さん死去 ノーベル賞受賞",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588101?source=rss",
+      "publishedAt": "2026-07-15T22:21:38.000Z",
+      "xQuery": "利根川進さん死去 ノーベル賞受賞"
+    },
+    {
       "time": "06:51",
       "title": "容疑者「便注入、死ぬか」と検索",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6588098?source=rss",
       "publishedAt": "2026-07-15T21:51:36.000Z",
       "xQuery": "容疑者「便注入、死ぬか」と検索"
-    },
-    {
-      "time": "06:36",
-      "title": "障害者に「クズ」 施設で虐待か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588096?source=rss",
-      "publishedAt": "2026-07-15T21:36:31.000Z",
-      "xQuery": "障害者に「クズ」 施設で虐待か"
     },
     {
       "time": "07:57",
