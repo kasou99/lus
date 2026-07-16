@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T10:44:16.491Z",
+  "updatedAt": "2026-07-16T11:35:37.502Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-16T06:03:39.000Z"
       },
       {
+        "time": "11:55",
+        "title": "丸紅(株)【8002】：今の株価の理由は？値動きの背景をAIが解説",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94M3NCN3B4aktIMXhJWUZncEY3VUNlZTNUVzNwenJqUWhIX3BqNlJHLWZkd0FXQ1hSY0NERWU5Zng5cU5nLThQa1BDRkYwbVdObllWYlh4b2lTaHhYbU00?oc=5",
+        "publishedAt": "2026-07-16T02:55:46.000Z"
+      },
+      {
         "time": "07:00",
         "title": "DMG森精機、最大生産拠点の現場デジタル化と工程集約：メイドインジャパンの現場力（2/2 ページ）",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PQnNZTDFJRldkbjNpeVRsdG5uN20xcHVhUEQ5ZlBLVWtiREYtcWRrR1Q0a1VHZFpXTUg1dFBlWmJWa2VqeXpuLVh3QlhWaGNnZVVIN25uR0hZOXVnMlVwdS1iZVJ2WDRNNVJtbTAycHMzUQ?oc=5",
         "publishedAt": "2026-07-15T22:00:00.000Z"
-      },
-      {
-        "time": "05:26",
-        "title": "週末は別人／LIXIL常務役員・安井卓氏 チーム一丸、魅力尽きないF1",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tampEYW5IRkx2VEVoMWdxRmRFUFhRWXlYdTBLcFFtUlItUk1DWHJETEVxME03LUt2a19OX3ZjZFRCOVQzb1lHVnRRMkQwblBRcnZyR1JVRnk4WEJ5TTdJel9TVmpHRlNwUnJ3NkczT3RZRHla?oc=5",
-        "publishedAt": "2026-07-15T20:26:08.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-07-16T06:20:00.000Z"
       },
       {
-        "time": "12:07",
-        "title": "登校中はねられ小3死亡 男を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588133?source=rss",
-        "publishedAt": "2026-07-16T03:07:17.000Z"
-      },
-      {
         "time": "06:51",
         "title": "容疑者「便注入、死ぬか」と検索",
         "source": "Yahoo!ニュース",
@@ -177,18 +170,25 @@
         "publishedAt": "2026-07-15T21:51:36.000Z"
       },
       {
+        "time": "20:26",
+        "title": "いじめ訴えに「花丸」裁判 棄却",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588180?source=rss",
+        "publishedAt": "2026-07-16T11:26:48.000Z"
+      },
+      {
+        "time": "12:07",
+        "title": "登校中はねられ小3死亡 男を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588133?source=rss",
+        "publishedAt": "2026-07-16T03:07:17.000Z"
+      },
+      {
         "time": "19:06",
         "title": "車で乳児死亡 エンジン切ったと母",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588175?source=rss",
         "publishedAt": "2026-07-16T10:06:41.000Z"
-      },
-      {
-        "time": "16:22",
-        "title": "元生徒に性的暴行疑い 教諭再逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588156?source=rss",
-        "publishedAt": "2026-07-16T07:22:57.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T10:44:17.229Z",
+  "updatedAt": "2026-07-16T11:35:38.260Z",
   "items": [
     {
-      "time": "16:38",
-      "title": "首相 食料品の消費減税にこだわり",
+      "time": "19:43",
+      "title": "皇室典範改正案 17日成立の見通し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588157?source=rss",
-      "publishedAt": "2026-07-16T07:38:29.000Z",
-      "xQuery": "首相 食料品の消費減税にこだわり"
+      "url": "https://news.yahoo.co.jp/pickup/6588176?source=rss",
+      "publishedAt": "2026-07-16T10:43:40.000Z",
+      "xQuery": "皇室典範改正案 17日成立の見通し"
     },
     {
       "time": "16:52",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "AWSで障害 PayPayなどに影響"
     },
     {
-      "time": "17:37",
-      "title": "ロヒンギャら500人 転覆で死亡か",
+      "time": "20:26",
+      "title": "いじめ訴えに「花丸」裁判 棄却",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588166?source=rss",
-      "publishedAt": "2026-07-16T08:37:43.000Z",
-      "xQuery": "ロヒンギャら500人 転覆で死亡か"
+      "url": "https://news.yahoo.co.jp/pickup/6588180?source=rss",
+      "publishedAt": "2026-07-16T11:26:48.000Z",
+      "xQuery": "いじめ訴えに「花丸」裁判 棄却"
     },
     {
-      "time": "17:39",
-      "title": "マイナ保険証移行 8月以降注意点",
+      "time": "19:06",
+      "title": "車で乳児死亡 エンジン切ったと母",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588165?source=rss",
-      "publishedAt": "2026-07-16T08:39:49.000Z",
-      "xQuery": "マイナ保険証移行 8月以降注意点"
+      "url": "https://news.yahoo.co.jp/pickup/6588175?source=rss",
+      "publishedAt": "2026-07-16T10:06:41.000Z",
+      "xQuery": "車で乳児死亡 エンジン切ったと母"
     }
   ]
 };
