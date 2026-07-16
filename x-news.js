@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T08:53:49.089Z",
+  "updatedAt": "2026-07-16T09:47:10.979Z",
   "items": [
-    {
-      "time": "15:53",
-      "title": "国旗損壊罪法案 参院内閣委で可決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588153?source=rss",
-      "publishedAt": "2026-07-16T06:53:02.000Z",
-      "xQuery": "国旗損壊罪法案 参院内閣委で可決"
-    },
     {
       "time": "16:38",
       "title": "首相 食料品の消費減税にこだわり",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588157?source=rss",
       "publishedAt": "2026-07-16T07:38:29.000Z",
       "xQuery": "首相 食料品の消費減税にこだわり"
+    },
+    {
+      "time": "16:52",
+      "title": "全東信はなぜ突然破綻したか 解説",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588161?source=rss",
+      "publishedAt": "2026-07-16T07:52:32.000Z",
+      "xQuery": "全東信はなぜ突然破綻したか 解説"
     },
     {
       "time": "17:37",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マイナ保険証移行 8月以降注意点"
     },
     {
-      "time": "15:20",
-      "title": "点滴に便入れ殺害疑い 病院が謝罪",
+      "time": "18:23",
+      "title": "殺害疑い 院内から大便持ち出しか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588152?source=rss",
-      "publishedAt": "2026-07-16T06:20:00.000Z",
-      "xQuery": "点滴に便入れ殺害疑い 病院が謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6588169?source=rss",
+      "publishedAt": "2026-07-16T09:23:01.000Z",
+      "xQuery": "殺害疑い 院内から大便持ち出しか"
     }
   ]
 };

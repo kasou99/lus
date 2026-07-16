@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T08:53:47.779Z",
+  "updatedAt": "2026-07-16T09:47:10.373Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,28 +89,21 @@
         "publishedAt": "2026-07-16T08:37:43.000Z"
       },
       {
+        "time": "18:27",
+        "title": "「トランプ崇拝」強要に米で反感",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588170?source=rss",
+        "publishedAt": "2026-07-16T09:27:27.000Z"
+      },
+      {
         "time": "17:31",
         "title": "アルゼンチン 英の領海通過に抗議",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588164?source=rss",
         "publishedAt": "2026-07-16T08:31:01.000Z"
-      },
-      {
-        "time": "09:30",
-        "title": "習主席側近の失脚相次ぐ 摘発激化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587987?source=rss",
-        "publishedAt": "2026-07-15T00:30:50.000Z"
       }
     ],
     "economyHeadlines": [
-      {
-        "time": "10:02",
-        "title": "日経平均 一時2000円超の値下がり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588121?source=rss",
-        "publishedAt": "2026-07-16T01:02:44.000Z"
-      },
       {
         "time": "11:27",
         "title": "JR西日本 5年以内に運賃値上げへ",
@@ -133,6 +126,13 @@
         "publishedAt": "2026-07-16T07:52:32.000Z"
       },
       {
+        "time": "18:13",
+        "title": "サイゼ株ストップ高 社長発言受け",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588171?source=rss",
+        "publishedAt": "2026-07-16T09:13:43.000Z"
+      },
+      {
         "time": "12:04",
         "title": "暑さを避けてレジャー プラン続々",
         "source": "Yahoo!ニュース",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "12:07",
-        "title": "登校中はねられ小3死亡 男を逮捕",
+        "time": "18:23",
+        "title": "殺害疑い 院内から大便持ち出しか",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588133?source=rss",
-        "publishedAt": "2026-07-16T03:07:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588169?source=rss",
+        "publishedAt": "2026-07-16T09:23:01.000Z"
       },
       {
         "time": "15:20",
@@ -161,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588152?source=rss",
         "publishedAt": "2026-07-16T06:20:00.000Z"
+      },
+      {
+        "time": "12:07",
+        "title": "登校中はねられ小3死亡 男を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588133?source=rss",
+        "publishedAt": "2026-07-16T03:07:17.000Z"
       },
       {
         "time": "06:51",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588156?source=rss",
         "publishedAt": "2026-07-16T07:22:57.000Z"
-      },
-      {
-        "time": "16:51",
-        "title": "マリンスポーツ中転落か 男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588162?source=rss",
-        "publishedAt": "2026-07-16T07:51:28.000Z"
       }
     ],
     "subsidyHeadlines": [
