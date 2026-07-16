@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-15T23:50:39.394Z",
+  "updatedAt": "2026-07-16T00:45:34.294Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:00",
+        "title": "DMG森精機、最大生産拠点の現場デジタル化と工程集約：メイドインジャパンの現場力（2/2 ページ）",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PQnNZTDFJRldkbjNpeVRsdG5uN20xcHVhUEQ5ZlBLVWtiREYtcWRrR1Q0a1VHZFpXTUg1dFBlWmJWa2VqeXpuLVh3QlhWaGNnZVVIN25uR0hZOXVnMlVwdS1iZVJ2WDRNNVJtbTAycHMzUQ?oc=5",
+        "publishedAt": "2026-07-15T22:00:00.000Z"
+      },
       {
         "time": "05:00",
         "title": "台日AI技術交流 都内で開催、350人集結",
@@ -45,13 +52,6 @@
         "publishedAt": "2026-07-15T20:03:48.000Z"
       },
       {
-        "time": "08:50",
-        "title": "【美濃加茂市】子ども向け工場見学イベント「かもっこlaboバスツアー」参加者募集中！",
-        "source": "さかだちブックス",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83SDl2N0piVnBmVEc5eFRXd3MwNUdieDNTcnE3V0VwWkR4S0J0WHVqZE5jN2dPTExaTXdmc1BmdE5kOWFoa01TTzAtMUxlTS1LTXJLRlB5cw?oc=5",
-        "publishedAt": "2026-07-14T23:50:59.000Z"
-      },
-      {
         "time": "12:00",
         "title": "高精度磁気エンコーダ業界の競争激化：大手企業の戦略と新興企業の生き残り方",
         "source": "ドリームニュース",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "09:00",
+        "title": "米 港湾封鎖の突破図った商船攻撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588113?source=rss",
+        "publishedAt": "2026-07-16T00:00:45.000Z"
+      },
       {
         "time": "20:51",
         "title": "米軍 イランを5日連続で攻撃",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588015?source=rss",
         "publishedAt": "2026-07-15T04:22:49.000Z"
-      },
-      {
-        "time": "23:15",
-        "title": "米消費者物価3.5%上昇 大幅鈍化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587963?source=rss",
-        "publishedAt": "2026-07-14T14:15:37.000Z"
       },
       {
         "time": "08:08",

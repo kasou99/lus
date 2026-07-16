@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-15T23:50:40.109Z",
+  "updatedAt": "2026-07-16T00:45:35.193Z",
   "items": [
     {
       "time": "08:18",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "消費減税8月頭までに結論を 首相"
     },
     {
-      "time": "07:20",
-      "title": "皇室典範改正 あす成立の公算大",
+      "time": "09:00",
+      "title": "米 港湾封鎖の突破図った商船攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588099?source=rss",
-      "publishedAt": "2026-07-15T22:20:11.000Z",
-      "xQuery": "皇室典範改正 あす成立の公算大"
+      "url": "https://news.yahoo.co.jp/pickup/6588113?source=rss",
+      "publishedAt": "2026-07-16T00:00:45.000Z",
+      "xQuery": "米 港湾封鎖の突破図った商船攻撃"
     },
     {
       "time": "07:21",
