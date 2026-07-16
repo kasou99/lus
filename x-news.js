@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T03:10:17.625Z",
+  "updatedAt": "2026-07-16T04:34:52.689Z",
   "items": [
     {
       "time": "12:02",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "各地猛烈な暑さ 午前に37℃観測も"
     },
     {
-      "time": "11:27",
-      "title": "JR西日本 5年以内に運賃値上げへ",
+      "time": "12:19",
+      "title": "公用車のNHK受信料 免除要請へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588125?source=rss",
-      "publishedAt": "2026-07-16T02:27:42.000Z",
-      "xQuery": "JR西日本 5年以内に運賃値上げへ"
+      "url": "https://news.yahoo.co.jp/pickup/6588134?source=rss",
+      "publishedAt": "2026-07-16T03:19:35.000Z",
+      "xQuery": "公用車のNHK受信料 免除要請へ"
     },
     {
       "time": "11:42",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "一部クレカで決済できず 障害か"
     },
     {
-      "time": "09:29",
-      "title": "無差別殺人防いだ「偶然」舞台裏",
+      "time": "12:33",
+      "title": "2人死亡 長男殺害疑いで父再逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588114?source=rss",
-      "publishedAt": "2026-07-16T00:29:16.000Z",
-      "xQuery": "無差別殺人防いだ「偶然」舞台裏"
+      "url": "https://news.yahoo.co.jp/pickup/6588135?source=rss",
+      "publishedAt": "2026-07-16T03:33:13.000Z",
+      "xQuery": "2人死亡 長男殺害疑いで父再逮捕"
     },
     {
-      "time": "10:08",
-      "title": "日本の砂浜 2100年には6割消失か",
+      "time": "12:07",
+      "title": "登校中はねられ小3死亡 男を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588120?source=rss",
-      "publishedAt": "2026-07-16T01:08:10.000Z",
-      "xQuery": "日本の砂浜 2100年には6割消失か"
+      "url": "https://news.yahoo.co.jp/pickup/6588133?source=rss",
+      "publishedAt": "2026-07-16T03:07:17.000Z",
+      "xQuery": "登校中はねられ小3死亡 男を逮捕"
     }
   ]
 };
