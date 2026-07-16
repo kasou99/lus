@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T11:35:37.502Z",
+  "updatedAt": "2026-07-16T12:41:57.457Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,18 +75,18 @@
         "publishedAt": "2026-07-16T00:00:45.000Z"
       },
       {
-        "time": "20:51",
-        "title": "米軍 イランを5日連続で攻撃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588078?source=rss",
-        "publishedAt": "2026-07-15T11:51:10.000Z"
-      },
-      {
         "time": "17:37",
         "title": "ロヒンギャら500人 転覆で死亡か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588166?source=rss",
         "publishedAt": "2026-07-16T08:37:43.000Z"
+      },
+      {
+        "time": "21:37",
+        "title": "米兵の男性ホルモン毎年検査へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588187?source=rss",
+        "publishedAt": "2026-07-16T12:37:10.000Z"
       },
       {
         "time": "18:27",
@@ -104,13 +104,6 @@
       }
     ],
     "economyHeadlines": [
-      {
-        "time": "11:27",
-        "title": "JR西日本 5年以内に運賃値上げへ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588125?source=rss",
-        "publishedAt": "2026-07-16T02:27:42.000Z"
-      },
       {
         "time": "14:14",
         "title": "ニチレイの障害 給食にも影響拡大",
@@ -133,6 +126,13 @@
         "publishedAt": "2026-07-16T07:52:32.000Z"
       },
       {
+        "time": "21:16",
+        "title": "ダイハツ 軽トラ約29万台リコール",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588185?source=rss",
+        "publishedAt": "2026-07-16T12:16:01.000Z"
+      },
+      {
         "time": "18:13",
         "title": "サイゼ株ストップ高 社長発言受け",
         "source": "Yahoo!ニュース",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-07-16T09:13:43.000Z"
       },
       {
-        "time": "12:04",
-        "title": "暑さを避けてレジャー プラン続々",
+        "time": "20:49",
+        "title": "書籍に差別的表現 双葉社が謝罪",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588132?source=rss",
-        "publishedAt": "2026-07-16T03:04:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588183?source=rss",
+        "publishedAt": "2026-07-16T11:49:34.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-07-16T09:23:01.000Z"
       },
       {
-        "time": "15:20",
-        "title": "点滴に便入れ殺害疑い 病院が謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588152?source=rss",
-        "publishedAt": "2026-07-16T06:20:00.000Z"
-      },
-      {
         "time": "06:51",
         "title": "容疑者「便注入、死ぬか」と検索",
         "source": "Yahoo!ニュース",
@@ -170,18 +163,25 @@
         "publishedAt": "2026-07-15T21:51:36.000Z"
       },
       {
+        "time": "21:21",
+        "title": "列車と車が衝突 外国籍の5人搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588186?source=rss",
+        "publishedAt": "2026-07-16T12:21:46.000Z"
+      },
+      {
+        "time": "20:43",
+        "title": "懲戒免職 退職金巡り市が2度敗訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588181?source=rss",
+        "publishedAt": "2026-07-16T11:43:14.000Z"
+      },
+      {
         "time": "20:26",
         "title": "いじめ訴えに「花丸」裁判 棄却",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588180?source=rss",
         "publishedAt": "2026-07-16T11:26:48.000Z"
-      },
-      {
-        "time": "12:07",
-        "title": "登校中はねられ小3死亡 男を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588133?source=rss",
-        "publishedAt": "2026-07-16T03:07:17.000Z"
       },
       {
         "time": "19:06",

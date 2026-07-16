@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T11:35:38.260Z",
+  "updatedAt": "2026-07-16T12:41:58.250Z",
   "items": [
     {
       "time": "19:43",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "皇室典範改正案 17日成立の見通し"
     },
     {
-      "time": "16:52",
-      "title": "全東信はなぜ突然破綻したか 解説",
+      "time": "17:31",
+      "title": "アルゼンチン 英の領海通過に抗議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588161?source=rss",
-      "publishedAt": "2026-07-16T07:52:32.000Z",
-      "xQuery": "全東信はなぜ突然破綻したか 解説"
+      "url": "https://news.yahoo.co.jp/pickup/6588164?source=rss",
+      "publishedAt": "2026-07-16T08:31:01.000Z",
+      "xQuery": "アルゼンチン 英の領海通過に抗議"
     },
     {
-      "time": "19:34",
-      "title": "AWSで障害 PayPayなどに影響",
+      "time": "20:43",
+      "title": "懲戒免職 退職金巡り市が2度敗訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588177?source=rss",
-      "publishedAt": "2026-07-16T10:34:56.000Z",
-      "xQuery": "AWSで障害 PayPayなどに影響"
+      "url": "https://news.yahoo.co.jp/pickup/6588181?source=rss",
+      "publishedAt": "2026-07-16T11:43:14.000Z",
+      "xQuery": "懲戒免職 退職金巡り市が2度敗訴"
     },
     {
       "time": "20:26",
