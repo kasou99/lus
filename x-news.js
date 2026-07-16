@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T01:39:44.071Z",
+  "updatedAt": "2026-07-16T03:10:17.625Z",
   "items": [
     {
-      "time": "10:02",
-      "title": "日経平均 一時2000円超の値下がり",
+      "time": "12:02",
+      "title": "各地猛烈な暑さ 午前に37℃観測も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588121?source=rss",
-      "publishedAt": "2026-07-16T01:02:44.000Z",
-      "xQuery": "日経平均 一時2000円超の値下がり"
+      "url": "https://news.yahoo.co.jp/pickup/6588131?source=rss",
+      "publishedAt": "2026-07-16T03:02:14.000Z",
+      "xQuery": "各地猛烈な暑さ 午前に37℃観測も"
     },
     {
-      "time": "08:18",
-      "title": "消費減税8月頭までに結論を 首相",
+      "time": "11:27",
+      "title": "JR西日本 5年以内に運賃値上げへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588107?source=rss",
-      "publishedAt": "2026-07-15T23:18:36.000Z",
-      "xQuery": "消費減税8月頭までに結論を 首相"
+      "url": "https://news.yahoo.co.jp/pickup/6588125?source=rss",
+      "publishedAt": "2026-07-16T02:27:42.000Z",
+      "xQuery": "JR西日本 5年以内に運賃値上げへ"
     },
     {
-      "time": "09:00",
-      "title": "米 港湾封鎖の突破図った商船攻撃",
+      "time": "11:42",
+      "title": "一部クレカで決済できず 障害か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588113?source=rss",
-      "publishedAt": "2026-07-16T00:00:45.000Z",
-      "xQuery": "米 港湾封鎖の突破図った商船攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6588129?source=rss",
+      "publishedAt": "2026-07-16T02:42:28.000Z",
+      "xQuery": "一部クレカで決済できず 障害か"
+    },
+    {
+      "time": "09:29",
+      "title": "無差別殺人防いだ「偶然」舞台裏",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588114?source=rss",
+      "publishedAt": "2026-07-16T00:29:16.000Z",
+      "xQuery": "無差別殺人防いだ「偶然」舞台裏"
     },
     {
       "time": "10:08",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588120?source=rss",
       "publishedAt": "2026-07-16T01:08:10.000Z",
       "xQuery": "日本の砂浜 2100年には6割消失か"
-    },
-    {
-      "time": "07:57",
-      "title": "温泉施設で5歳不明 父が海上捜索",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588104?source=rss",
-      "publishedAt": "2026-07-15T22:57:50.000Z",
-      "xQuery": "温泉施設で5歳不明 父が海上捜索"
     }
   ]
 };
