@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T13:37:21.740Z",
+  "updatedAt": "2026-07-16T14:45:40.820Z",
   "items": [
     {
       "time": "22:17",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熱中症で127人救急搬送 東京"
     },
     {
-      "time": "22:25",
-      "title": "水難事故相次ぐ 10代2人意識不明",
+      "time": "19:00",
+      "title": "大阪メトロ会長 引責辞任し相談役",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588192?source=rss",
-      "publishedAt": "2026-07-16T13:25:49.000Z",
-      "xQuery": "水難事故相次ぐ 10代2人意識不明"
+      "url": "https://news.yahoo.co.jp/pickup/6588173?source=rss",
+      "publishedAt": "2026-07-16T10:00:57.000Z",
+      "xQuery": "大阪メトロ会長 引責辞任し相談役"
     },
     {
       "time": "22:08",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "アエラホーム 民事再生法を申請"
     },
     {
-      "time": "21:37",
-      "title": "米兵の男性ホルモン毎年検査へ",
+      "time": "23:08",
+      "title": "人権NGOでパワハラ 組織の内情は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588187?source=rss",
-      "publishedAt": "2026-07-16T12:37:10.000Z",
-      "xQuery": "米兵の男性ホルモン毎年検査へ"
+      "url": "https://news.yahoo.co.jp/pickup/6588198?source=rss",
+      "publishedAt": "2026-07-16T14:08:37.000Z",
+      "xQuery": "人権NGOでパワハラ 組織の内情は"
     },
     {
-      "time": "22:32",
-      "title": "書籍に差別的表現 双葉社が回収",
+      "time": "18:13",
+      "title": "サイゼ株ストップ高 社長発言受け",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588195?source=rss",
-      "publishedAt": "2026-07-16T13:32:12.000Z",
-      "xQuery": "書籍に差別的表現 双葉社が回収"
+      "url": "https://news.yahoo.co.jp/pickup/6588171?source=rss",
+      "publishedAt": "2026-07-16T09:13:43.000Z",
+      "xQuery": "サイゼ株ストップ高 社長発言受け"
     }
   ]
 };
