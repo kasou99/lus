@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T09:47:10.979Z",
+  "updatedAt": "2026-07-16T10:44:17.229Z",
   "items": [
     {
       "time": "16:38",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "全東信はなぜ突然破綻したか 解説"
     },
     {
+      "time": "19:34",
+      "title": "AWSで障害 PayPayなどに影響",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588177?source=rss",
+      "publishedAt": "2026-07-16T10:34:56.000Z",
+      "xQuery": "AWSで障害 PayPayなどに影響"
+    },
+    {
       "time": "17:37",
       "title": "ロヒンギャら500人 転覆で死亡か",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588165?source=rss",
       "publishedAt": "2026-07-16T08:39:49.000Z",
       "xQuery": "マイナ保険証移行 8月以降注意点"
-    },
-    {
-      "time": "18:23",
-      "title": "殺害疑い 院内から大便持ち出しか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588169?source=rss",
-      "publishedAt": "2026-07-16T09:23:01.000Z",
-      "xQuery": "殺害疑い 院内から大便持ち出しか"
     }
   ]
 };

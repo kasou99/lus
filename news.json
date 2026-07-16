@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T09:47:10.373Z",
+  "updatedAt": "2026-07-16T10:44:16.491Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-07-16T00:30:00.000Z"
       },
       {
-        "time": "08:26",
-        "title": "インタビュー／経済産業省製造産業局産業機械課長・須賀千鶴氏 製造AX拠点をDXインフラに",
+        "time": "05:00",
+        "title": "深層断面／りそなHD、異業種連携で基盤強化",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pdTJiTXdIX2hVUXNoOXlCdkx6ajJDMTRwclNpb1JvTnhoZ0c4d2hLYnBFcjFBMmpHbmtpaXVVOU5xMDdZbDlrVDAzNFc2Q3MyVDhtaWNvZnFjR0FvdzBBN05idUdMcWhTWkFRajRqZkNKY0JD?oc=5",
-        "publishedAt": "2026-07-15T23:26:18.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QaVZBbzktNHlZTWs4UHJkc19CVWpVT1NDX0JiU3BUamZCVDlDVm9GUkNsQTJZWmhVYXB0bDZ0X0xlNUNxN1ZOREpGN0wwZUY5LXZaQlBtR1BTYVk?oc=5",
+        "publishedAt": "2026-07-15T20:00:42.000Z"
       },
       {
         "time": "15:03",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-15T22:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "深層断面／りそなHD、異業種連携で基盤強化",
+        "time": "05:26",
+        "title": "週末は別人／LIXIL常務役員・安井卓氏 チーム一丸、魅力尽きないF1",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QaVZBbzktNHlZTWs4UHJkc19CVWpVT1NDX0JiU3BUamZCVDlDVm9GUkNsQTJZWmhVYXB0bDZ0X0xlNUNxN1ZOREpGN0wwZUY5LXZaQlBtR1BTYVk?oc=5",
-        "publishedAt": "2026-07-15T20:00:42.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tampEYW5IRkx2VEVoMWdxRmRFUFhRWXlYdTBLcFFtUlItUk1DWHJETEVxME03LUt2a19OX3ZjZFRCOVQzb1lHVnRRMkQwblBRcnZyR1JVRnk4WEJ5TTdJel9TVmpHRlNwUnJ3NkczT3RZRHla?oc=5",
+        "publishedAt": "2026-07-15T20:26:08.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-07-16T05:14:41.000Z"
       },
       {
+        "time": "19:00",
+        "title": "大阪メトロ会長 引責辞任し相談役",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588173?source=rss",
+        "publishedAt": "2026-07-16T10:00:57.000Z"
+      },
+      {
         "time": "16:52",
         "title": "全東信はなぜ突然破綻したか 解説",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588132?source=rss",
         "publishedAt": "2026-07-16T03:04:34.000Z"
-      },
-      {
-        "time": "23:12",
-        "title": "「生活苦しい」半数超 厚労省調査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588091?source=rss",
-        "publishedAt": "2026-07-15T14:12:23.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,11 +177,11 @@
         "publishedAt": "2026-07-15T21:51:36.000Z"
       },
       {
-        "time": "16:27",
-        "title": "車内で熱中症か 搬送先で乳児死亡",
+        "time": "19:06",
+        "title": "車で乳児死亡 エンジン切ったと母",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588155?source=rss",
-        "publishedAt": "2026-07-16T07:27:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588175?source=rss",
+        "publishedAt": "2026-07-16T10:06:41.000Z"
       },
       {
         "time": "16:22",
