@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T06:59:48.284Z",
+  "updatedAt": "2026-07-16T07:47:45.858Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-07-15T23:26:18.000Z"
       },
       {
+        "time": "11:55",
+        "title": "丸紅(株)【8002】：今の株価の理由は？値動きの背景をAIが解説",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94M3NCN3B4aktIMXhJWUZncEY3VUNlZTNUVzNwenJqUWhIX3BqNlJHLWZkd0FXQ1hSY0NERWU5Zng5cU5nLThQa1BDRkYwbVdObllWYlh4b2lTaHhYbU00?oc=5",
+        "publishedAt": "2026-07-16T02:55:46.000Z"
+      },
+      {
         "time": "07:00",
         "title": "DMG森精機、最大生産拠点の現場デジタル化と工程集約：メイドインジャパンの現場力（2/2 ページ）",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PQnNZTDFJRldkbjNpeVRsdG5uN20xcHVhUEQ5ZlBLVWtiREYtcWRrR1Q0a1VHZFpXTUg1dFBlWmJWa2VqeXpuLVh3QlhWaGNnZVVIN25uR0hZOXVnMlVwdS1iZVJ2WDRNNVJtbTAycHMzUQ?oc=5",
         "publishedAt": "2026-07-15T22:00:00.000Z"
-      },
-      {
-        "time": "14:03",
-        "title": "G3/G5級高精度鋼球市場分析レポート（2026年）：2032年29.82百万米ドル到達予測",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iM2dtYmNPVFJ4YlhFV19oaFZsYTFZQ25md2VjcURpQ0M3WHgzOGtrZjV4cjRmVVNCcWt6YlBNWGU5NWdrbkZPblJGRGJhR0U3UHVCN2Nzckl5Wk0yOHJvUXRRTXM5TnVX?oc=5",
-        "publishedAt": "2026-07-16T05:03:25.000Z"
       },
       {
         "time": "05:00",
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "20:40",
-        "title": "「検察なめんな」法廷で映像上映",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588077?source=rss",
-        "publishedAt": "2026-07-15T11:40:04.000Z"
-      },
-      {
         "time": "12:07",
         "title": "登校中はねられ小3死亡 男を逮捕",
         "source": "Yahoo!ニュース",
@@ -177,11 +170,18 @@
         "publishedAt": "2026-07-15T21:51:36.000Z"
       },
       {
-        "time": "12:33",
-        "title": "2人死亡 長男殺害疑いで父再逮捕",
+        "time": "16:27",
+        "title": "車内で熱中症か 搬送先で乳児死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588135?source=rss",
-        "publishedAt": "2026-07-16T03:33:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588155?source=rss",
+        "publishedAt": "2026-07-16T07:27:25.000Z"
+      },
+      {
+        "time": "16:22",
+        "title": "元生徒に性的暴行疑い 教諭再逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588156?source=rss",
+        "publishedAt": "2026-07-16T07:22:57.000Z"
       },
       {
         "time": "14:07",

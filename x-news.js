@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T06:59:49.091Z",
+  "updatedAt": "2026-07-16T07:47:46.812Z",
   "items": [
     {
       "time": "15:53",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "国旗損壊罪法案 参院内閣委で可決"
     },
     {
-      "time": "14:14",
-      "title": "ニチレイの障害 給食にも影響拡大",
+      "time": "16:34",
+      "title": "内閣支持49%で発足後最低 時事",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588147?source=rss",
-      "publishedAt": "2026-07-16T05:14:41.000Z",
-      "xQuery": "ニチレイの障害 給食にも影響拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6588160?source=rss",
+      "publishedAt": "2026-07-16T07:34:47.000Z",
+      "xQuery": "内閣支持49%で発足後最低 時事"
     },
     {
       "time": "14:45",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "点滴に便入れ殺害疑い 病院が謝罪"
     },
     {
-      "time": "14:07",
-      "title": "パラセーリングで墜落か 意識不明",
+      "time": "16:27",
+      "title": "車内で熱中症か 搬送先で乳児死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588148?source=rss",
-      "publishedAt": "2026-07-16T05:07:17.000Z",
-      "xQuery": "パラセーリングで墜落か 意識不明"
+      "url": "https://news.yahoo.co.jp/pickup/6588155?source=rss",
+      "publishedAt": "2026-07-16T07:27:25.000Z",
+      "xQuery": "車内で熱中症か 搬送先で乳児死亡"
     }
   ]
 };
