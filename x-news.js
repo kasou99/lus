@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T12:41:58.250Z",
+  "updatedAt": "2026-07-16T13:37:21.740Z",
   "items": [
     {
-      "time": "19:43",
-      "title": "皇室典範改正案 17日成立の見通し",
+      "time": "22:17",
+      "title": "熱中症で127人救急搬送 東京",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588176?source=rss",
-      "publishedAt": "2026-07-16T10:43:40.000Z",
-      "xQuery": "皇室典範改正案 17日成立の見通し"
+      "url": "https://news.yahoo.co.jp/pickup/6588190?source=rss",
+      "publishedAt": "2026-07-16T13:17:04.000Z",
+      "xQuery": "熱中症で127人救急搬送 東京"
     },
     {
-      "time": "17:31",
-      "title": "アルゼンチン 英の領海通過に抗議",
+      "time": "22:25",
+      "title": "水難事故相次ぐ 10代2人意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588164?source=rss",
-      "publishedAt": "2026-07-16T08:31:01.000Z",
-      "xQuery": "アルゼンチン 英の領海通過に抗議"
+      "url": "https://news.yahoo.co.jp/pickup/6588192?source=rss",
+      "publishedAt": "2026-07-16T13:25:49.000Z",
+      "xQuery": "水難事故相次ぐ 10代2人意識不明"
     },
     {
-      "time": "20:43",
-      "title": "懲戒免職 退職金巡り市が2度敗訴",
+      "time": "22:08",
+      "title": "アエラホーム 民事再生法を申請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588181?source=rss",
-      "publishedAt": "2026-07-16T11:43:14.000Z",
-      "xQuery": "懲戒免職 退職金巡り市が2度敗訴"
+      "url": "https://news.yahoo.co.jp/pickup/6588189?source=rss",
+      "publishedAt": "2026-07-16T13:08:07.000Z",
+      "xQuery": "アエラホーム 民事再生法を申請"
     },
     {
-      "time": "20:26",
-      "title": "いじめ訴えに「花丸」裁判 棄却",
+      "time": "21:37",
+      "title": "米兵の男性ホルモン毎年検査へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588180?source=rss",
-      "publishedAt": "2026-07-16T11:26:48.000Z",
-      "xQuery": "いじめ訴えに「花丸」裁判 棄却"
+      "url": "https://news.yahoo.co.jp/pickup/6588187?source=rss",
+      "publishedAt": "2026-07-16T12:37:10.000Z",
+      "xQuery": "米兵の男性ホルモン毎年検査へ"
     },
     {
-      "time": "19:06",
-      "title": "車で乳児死亡 エンジン切ったと母",
+      "time": "22:32",
+      "title": "書籍に差別的表現 双葉社が回収",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588175?source=rss",
-      "publishedAt": "2026-07-16T10:06:41.000Z",
-      "xQuery": "車で乳児死亡 エンジン切ったと母"
+      "url": "https://news.yahoo.co.jp/pickup/6588195?source=rss",
+      "publishedAt": "2026-07-16T13:32:12.000Z",
+      "xQuery": "書籍に差別的表現 双葉社が回収"
     }
   ]
 };

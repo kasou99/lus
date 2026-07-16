@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-16T12:41:57.457Z",
+  "updatedAt": "2026-07-16T13:37:20.814Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "12:00",
-        "title": "トラベリングコラム型CNCマシニングセンターの世界市場（2026年～2032年）、市場規模（3軸、4軸、5軸）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xVVRhd2FSVEJ3QUY3c2pVckYxV0toZXhoNG43Uko3VnUtMmc5elhTa3Nyd3o5UzFfXzVaTEI2blFuRC1NdC0yMTdhcEx6UQ?oc=5",
-        "publishedAt": "2026-07-16T03:00:00.000Z"
-      },
       {
         "time": "13:00",
         "title": "自動化進展で保全業務の負荷高まるも人員未拡充、実態調査で判明：FAニュース",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QejE3cDZCYjNUWUlDdDRCQktzZEdoVGxoYTdpWmVRaWsydzZ1Q1VjcExHRmh3b1B2QkpVRjZlbVNQWi1lTTNKdkNKdTN6X0tJMmpBQjdqRk82THRPLVNiLWRyNDlETGdsXzlLWXY0Zw?oc=5",
         "publishedAt": "2026-07-16T04:00:00.000Z"
+      },
+      {
+        "time": "12:00",
+        "title": "トラベリングコラム型CNCマシニングセンターの世界市場（2026年～2032年）、市場規模（3軸、4軸、5軸）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xVVRhd2FSVEJ3QUY3c2pVckYxV0toZXhoNG43Uko3VnUtMmc5elhTa3Nyd3o5UzFfXzVaTEI2blFuRC1NdC0yMTdhcEx6UQ?oc=5",
+        "publishedAt": "2026-07-16T03:00:00.000Z"
       },
       {
         "time": "15:15",
@@ -96,11 +96,11 @@
         "publishedAt": "2026-07-16T09:27:27.000Z"
       },
       {
-        "time": "17:31",
-        "title": "アルゼンチン 英の領海通過に抗議",
+        "time": "22:18",
+        "title": "「南米のドバイ」ガイアナ急成長",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588164?source=rss",
-        "publishedAt": "2026-07-16T08:31:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588191?source=rss",
+        "publishedAt": "2026-07-16T13:18:57.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-07-16T07:52:32.000Z"
       },
       {
+        "time": "22:08",
+        "title": "アエラホーム 民事再生法を申請",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588189?source=rss",
+        "publishedAt": "2026-07-16T13:08:07.000Z"
+      },
+      {
         "time": "21:16",
         "title": "ダイハツ 軽トラ約29万台リコール",
         "source": "Yahoo!ニュース",
@@ -138,29 +145,36 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588171?source=rss",
         "publishedAt": "2026-07-16T09:13:43.000Z"
-      },
-      {
-        "time": "20:49",
-        "title": "書籍に差別的表現 双葉社が謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588183?source=rss",
-        "publishedAt": "2026-07-16T11:49:34.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "22:17",
+        "title": "熱中症で127人救急搬送 東京",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588190?source=rss",
+        "publishedAt": "2026-07-16T13:17:04.000Z"
+      },
+      {
+        "time": "22:25",
+        "title": "水難事故相次ぐ 10代2人意識不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588192?source=rss",
+        "publishedAt": "2026-07-16T13:25:49.000Z"
+      },
+      {
+        "time": "22:33",
+        "title": "便入れ殺害疑い 当時夜勤リーダー",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588194?source=rss",
+        "publishedAt": "2026-07-16T13:33:41.000Z"
+      },
       {
         "time": "18:23",
         "title": "殺害疑い 院内から大便持ち出しか",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588169?source=rss",
         "publishedAt": "2026-07-16T09:23:01.000Z"
-      },
-      {
-        "time": "06:51",
-        "title": "容疑者「便注入、死ぬか」と検索",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588098?source=rss",
-        "publishedAt": "2026-07-15T21:51:36.000Z"
       },
       {
         "time": "21:21",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588181?source=rss",
         "publishedAt": "2026-07-16T11:43:14.000Z"
-      },
-      {
-        "time": "20:26",
-        "title": "いじめ訴えに「花丸」裁判 棄却",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588180?source=rss",
-        "publishedAt": "2026-07-16T11:26:48.000Z"
-      },
-      {
-        "time": "19:06",
-        "title": "車で乳児死亡 エンジン切ったと母",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588175?source=rss",
-        "publishedAt": "2026-07-16T10:06:41.000Z"
       }
     ],
     "subsidyHeadlines": [
