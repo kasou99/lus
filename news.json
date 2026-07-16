@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-16T22:25:04.237Z",
+  "updatedAt": "2026-07-16T22:50:24.373Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:40",
+        "title": "北陸新幹線延伸ルート、与党「桂川案」選定…経済界の声は？",
+        "source": "ニュースイッチ by 日刊工業新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5X0VKY3dZVzVZUFNGUUFFOUdGMVlwb1ZwNWRuSWdsR2UtQlNwRFVyelVYU0RpY2ZUcHpBRDI4Vjlyb2JCUzVv?oc=5",
+        "publishedAt": "2026-07-16T21:40:51.000Z"
+      },
       {
         "time": "05:04",
         "title": "低炭素農法でバングラ耕す 両備システムズ、ITで新風",
@@ -24,18 +31,11 @@
         "publishedAt": "2026-07-16T03:00:00.000Z"
       },
       {
-        "time": "15:15",
-        "title": "トルクモーターの世界市場 2026年～2030年",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wWTlGc3JKS2xaUlZYNU5SR2lPVlE5bTcyb2dZcWItTnYxd0NvWC1ZOUtoZ2tZVlliMHg2b3JpdW9oVjI5bWVjcGlmTTM5QlU?oc=5",
-        "publishedAt": "2026-07-16T06:15:00.000Z"
-      },
-      {
-        "time": "15:55",
-        "title": "丸紅(株)【8002】：今の株価の理由は？値動きの背景をAIが解説",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RazZOREVKM2w5YU16eXZjVjB3RnFCekN2NUxVeXFVeVdLdWRELTVrTXBWNjI4UXIwUHRqYnJZZTF2T3FYSjhKUWpkS2NyVXBzMklwUUhnd0NVVFJLX3JB?oc=5",
-        "publishedAt": "2026-07-16T06:55:52.000Z"
+        "time": "06:11",
+        "title": "オムロン、半導体検査を高度・簡易に エヌビディア技術活用、実用化急ぐ",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FcWhROHZCcGFSal9HZ1c1ckk4NGxtcUMyVjI4R3V3c05YNldpLWlTNXk0ZERHaFZESVBTWmE3dEpicWtzVmJ5bmZhcTVnZEV3NjFOUklKM0NKNkU?oc=5",
+        "publishedAt": "2026-07-16T21:11:15.000Z"
       },
       {
         "time": "09:30",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-16T00:30:00.000Z"
       },
       {
+        "time": "15:55",
+        "title": "丸紅(株)【8002】：今の株価の理由は？値動きの背景をAIが解説",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94M3NCN3B4aktIMXhJWUZncEY3VUNlZTNUVzNwenJqUWhIX3BqNlJHLWZkd0FXQ1hSY0NERWU5Zng5cU5nLThQa1BDRkYwbVdObllWYlh4b2lTaHhYbU00?oc=5",
+        "publishedAt": "2026-07-16T06:55:52.000Z"
+      },
+      {
         "time": "15:03",
         "title": "スラスト球面すべり軸受の世界市場2026年、グローバル市場規模（鋼対鋼、鋼対フッ素樹脂織物、鋼対フッ素樹脂樹脂）・分析",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yMkxnUzdZTDlTalRGYUZUckc4aDVyanVLN2xPaDdfc3U0Tlh0SFY0MUZuTjU4bDZFYmVfU3NYZXI5ZUNFM2trUE4wSXlheGdKU2JDUDdTSHVIRnUxTldHNDg3Z3BWUngza0JIekRxOEZrWXRyV2tnOTJQSQ?oc=5",
         "publishedAt": "2026-07-16T06:03:39.000Z"
-      },
-      {
-        "time": "17:03",
-        "title": "オムロン、Noetraの国産AI基盤モデル開発に参画",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wM0VMT1Y1Z1FFYm1tTzlQLUZWRzVGYmx2VEstclhSeVc4a281cmRlZjJvT2RFYklVV0dOV09OR1YzSUVfLWVyNzVHRVl3b3dKVG13?oc=5",
-        "publishedAt": "2026-07-16T08:03:33.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "22:17",
-        "title": "熱中症で127人救急搬送 東京",
+        "time": "07:34",
+        "title": "勾留中に男性死亡 見えてきた経緯",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588190?source=rss",
-        "publishedAt": "2026-07-16T13:17:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588212?source=rss",
+        "publishedAt": "2026-07-16T22:34:37.000Z"
       },
       {
         "time": "22:25",

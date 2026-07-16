@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T22:25:05.316Z",
+  "updatedAt": "2026-07-16T22:50:25.173Z",
   "items": [
     {
       "time": "06:19",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米 留学生ビザを原則4年に短縮へ"
     },
     {
-      "time": "23:31",
-      "title": "ウクライナ 国防相更迭に市民怒り",
+      "time": "07:34",
+      "title": "勾留中に男性死亡 見えてきた経緯",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588201?source=rss",
-      "publishedAt": "2026-07-16T14:31:43.000Z",
-      "xQuery": "ウクライナ 国防相更迭に市民怒り"
+      "url": "https://news.yahoo.co.jp/pickup/6588212?source=rss",
+      "publishedAt": "2026-07-16T22:34:37.000Z",
+      "xQuery": "勾留中に男性死亡 見えてきた経緯"
     },
     {
       "time": "06:33",
