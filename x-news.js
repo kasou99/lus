@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T00:45:35.193Z",
+  "updatedAt": "2026-07-16T01:39:44.071Z",
   "items": [
+    {
+      "time": "10:02",
+      "title": "日経平均 一時2000円超の値下がり",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588121?source=rss",
+      "publishedAt": "2026-07-16T01:02:44.000Z",
+      "xQuery": "日経平均 一時2000円超の値下がり"
+    },
     {
       "time": "08:18",
       "title": "消費減税8月頭までに結論を 首相",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米 港湾封鎖の突破図った商船攻撃"
     },
     {
-      "time": "07:21",
-      "title": "利根川進さん死去 ノーベル賞受賞",
+      "time": "10:08",
+      "title": "日本の砂浜 2100年には6割消失か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588101?source=rss",
-      "publishedAt": "2026-07-15T22:21:38.000Z",
-      "xQuery": "利根川進さん死去 ノーベル賞受賞"
-    },
-    {
-      "time": "06:51",
-      "title": "容疑者「便注入、死ぬか」と検索",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588098?source=rss",
-      "publishedAt": "2026-07-15T21:51:36.000Z",
-      "xQuery": "容疑者「便注入、死ぬか」と検索"
+      "url": "https://news.yahoo.co.jp/pickup/6588120?source=rss",
+      "publishedAt": "2026-07-16T01:08:10.000Z",
+      "xQuery": "日本の砂浜 2100年には6割消失か"
     },
     {
       "time": "07:57",

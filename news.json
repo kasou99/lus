@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T00:45:34.294Z",
+  "updatedAt": "2026-07-16T01:39:42.935Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,18 @@
         "publishedAt": "2026-07-15T22:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "台日AI技術交流 都内で開催、350人集結",
+        "time": "08:26",
+        "title": "インタビュー／経済産業省製造産業局産業機械課長・須賀千鶴氏 製造AX拠点をDXインフラに",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZY3ZLcDY4aUxkOWpkLW9qaTJyVjhJbTdGeWZBZjExbUl4czFmajM1OExDZ2FackZCa2hmME1PNG5JSjNWMVUycDY5ODhjNDBvMTM1WWFGSTI2bm4tNXJhdnlha3ZKdnZweUViSnVUeWNnamhV?oc=5",
-        "publishedAt": "2026-07-15T20:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pdTJiTXdIX2hVUXNoOXlCdkx6ajJDMTRwclNpb1JvTnhoZ0c4d2hLYnBFcjFBMmpHbmtpaXVVOU5xMDdZbDlrVDAzNFc2Q3MyVDhtaWNvZnFjR0FvdzBBN05idUdMcWhTWkFRajRqZkNKY0JD?oc=5",
+        "publishedAt": "2026-07-15T23:26:18.000Z"
+      },
+      {
+        "time": "09:30",
+        "title": "戦略的提携と高度な自動化の導入が成長するコンピュータ数値制御工作機械市場におけるイノベーションを牽引",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02NnR2V3FZTXJDOFRGNHpiNGxJVTRSLWJCalBYeHRCMHNCSld6NjUzYzI4eFlhYTF2dmlMWFMwSlhPeXN5YWNNRW5NM0JJSVZMUlVBNDZGLUotWXMzOEtNd3ZTUm5sT3o0N1E?oc=5",
+        "publishedAt": "2026-07-16T00:30:00.000Z"
       },
       {
         "time": "12:59",
@@ -24,18 +31,18 @@
         "publishedAt": "2026-07-15T03:59:48.000Z"
       },
       {
-        "time": "11:00",
-        "title": "ブラザー工業－SMBC日興が新規「1」 事務機堅調、工作機械はデータセンター向け拡大へ〔DZH 個別株情報〕(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMVJtU0ItOTRYOXU3YVlIVWhHVVN3YjRYUWNtQ0c3YW5YeTZMd0JZb3dCUWpWdmNRUVVZRkVVckNuQ191VmRDNVRfdkh5WVowMTR0YmlPOWJ0Ymh1QzhCRzE5Z3prWXItWHhrVlFTYlJyRXRLQ09Od0J5RUJTbC1sUnBUSmFqcVE?oc=5",
-        "publishedAt": "2026-07-15T02:00:00.000Z"
-      },
-      {
         "time": "11:52",
         "title": "次世代設備保全クラウドのM2X、「ITreview Grid Award 2026 Summer」で最高位の「Leader」を7期連続受賞（PR TIMES）",
         "source": "毎日新聞",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tbjlWQkVvRXB6UEJ4eG9ZUm1fR2VTY2hYX19nS2NFMnpHNzlOTkZwM3lZV3BRQ0tCVEllQUJyMUx1LTNPMmpOYk5YMTh1b1R6VUEwQThPczJSWXhYREprN0pZeFdReUw1?oc=5",
         "publishedAt": "2026-07-15T02:52:04.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "ブラザー工業－SMBC日興が新規「1」 事務機堅調、工作機械はデータセンター向け拡大へ〔DZH 個別株情報〕(時事通信)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMVJtU0ItOTRYOXU3YVlIVWhHVVN3YjRYUWNtQ0c3YW5YeTZMd0JZb3dCUWpWdmNRUVVZRkVVckNuQ191VmRDNVRfdkh5WVowMTR0YmlPOWJ0Ymh1QzhCRzE5Z3prWXItWHhrVlFTYlJyRXRLQ09Od0J5RUJTbC1sUnBUSmFqcVE?oc=5",
+        "publishedAt": "2026-07-15T02:00:00.000Z"
       },
       {
         "time": "13:30",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Qcjk2YkdRLTNGc0VWQU9rcmZRbWc0MzFEU3NDSVNVSGZDRElKNDdEMmNyRnB1SGtRaWhVb05NbDhqQnVMSkpOSnZwX3N0ZUl4ODdKNlZDRFJ1U28?oc=5",
         "publishedAt": "2026-07-15T20:03:48.000Z"
-      },
-      {
-        "time": "12:00",
-        "title": "高精度磁気エンコーダ業界の競争激化：大手企業の戦略と新興企業の生き残り方",
-        "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UN2tGRGJGdVE5el9LU0pFUm5lSkx6OEJpeFdKN1Q2dDl3WmphMzBfNXVZaVBZQnd2Q05mMzJRMTN0RkNGSVdVb3E1RFpmNFI1cEpz?oc=5",
-        "publishedAt": "2026-07-15T03:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "10:02",
+        "title": "日経平均 一時2000円超の値下がり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588121?source=rss",
+        "publishedAt": "2026-07-16T01:02:44.000Z"
+      },
+      {
         "time": "23:12",
         "title": "「生活苦しい」半数超 厚労省調査",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6587990?source=rss",
         "publishedAt": "2026-07-15T00:40:22.000Z"
-      },
-      {
-        "time": "08:37",
-        "title": "北陸新幹線延伸「桂川」案に決定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6587983?source=rss",
-        "publishedAt": "2026-07-14T23:37:27.000Z"
       },
       {
         "time": "10:35",
