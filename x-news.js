@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T07:47:46.812Z",
+  "updatedAt": "2026-07-16T08:53:49.089Z",
   "items": [
     {
       "time": "15:53",
@@ -10,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "国旗損壊罪法案 参院内閣委で可決"
     },
     {
-      "time": "16:34",
-      "title": "内閣支持49%で発足後最低 時事",
+      "time": "16:38",
+      "title": "首相 食料品の消費減税にこだわり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588160?source=rss",
-      "publishedAt": "2026-07-16T07:34:47.000Z",
-      "xQuery": "内閣支持49%で発足後最低 時事"
+      "url": "https://news.yahoo.co.jp/pickup/6588157?source=rss",
+      "publishedAt": "2026-07-16T07:38:29.000Z",
+      "xQuery": "首相 食料品の消費減税にこだわり"
     },
     {
-      "time": "14:45",
-      "title": "クレカ全国で一時使用できず 障害",
+      "time": "17:37",
+      "title": "ロヒンギャら500人 転覆で死亡か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588150?source=rss",
-      "publishedAt": "2026-07-16T05:45:43.000Z",
-      "xQuery": "クレカ全国で一時使用できず 障害"
+      "url": "https://news.yahoo.co.jp/pickup/6588166?source=rss",
+      "publishedAt": "2026-07-16T08:37:43.000Z",
+      "xQuery": "ロヒンギャら500人 転覆で死亡か"
+    },
+    {
+      "time": "17:39",
+      "title": "マイナ保険証移行 8月以降注意点",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588165?source=rss",
+      "publishedAt": "2026-07-16T08:39:49.000Z",
+      "xQuery": "マイナ保険証移行 8月以降注意点"
     },
     {
       "time": "15:20",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588152?source=rss",
       "publishedAt": "2026-07-16T06:20:00.000Z",
       "xQuery": "点滴に便入れ殺害疑い 病院が謝罪"
-    },
-    {
-      "time": "16:27",
-      "title": "車内で熱中症か 搬送先で乳児死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588155?source=rss",
-      "publishedAt": "2026-07-16T07:27:25.000Z",
-      "xQuery": "車内で熱中症か 搬送先で乳児死亡"
     }
   ]
 };
