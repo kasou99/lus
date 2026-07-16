@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-16T15:36:00.290Z",
+  "updatedAt": "2026-07-16T16:35:35.336Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "12:00",
-        "title": "トラベリングコラム型CNCマシニングセンターの世界市場（2026年～2032年）、市場規模（3軸、4軸、5軸）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xVVRhd2FSVEJ3QUY3c2pVckYxV0toZXhoNG43Uko3VnUtMmc5elhTa3Nyd3o5UzFfXzVaTEI2blFuRC1NdC0yMTdhcEx6UQ?oc=5",
-        "publishedAt": "2026-07-16T03:00:00.000Z"
-      },
       {
         "time": "13:00",
         "title": "自動化進展で保全業務の負荷高まるも人員未拡充、実態調査で判明：FAニュース",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QejE3cDZCYjNUWUlDdDRCQktzZEdoVGxoYTdpWmVRaWsydzZ1Q1VjcExHRmh3b1B2QkpVRjZlbVNQWi1lTTNKdkNKdTN6X0tJMmpBQjdqRk82THRPLVNiLWRyNDlETGdsXzlLWXY0Zw?oc=5",
         "publishedAt": "2026-07-16T04:00:00.000Z"
+      },
+      {
+        "time": "12:00",
+        "title": "トラベリングコラム型CNCマシニングセンターの世界市場（2026年～2032年）、市場規模（3軸、4軸、5軸）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xVVRhd2FSVEJ3QUY3c2pVckYxV0toZXhoNG43Uko3VnUtMmc5elhTa3Nyd3o5UzFfXzVaTEI2blFuRC1NdC0yMTdhcEx6UQ?oc=5",
+        "publishedAt": "2026-07-16T03:00:00.000Z"
       },
       {
         "time": "15:15",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-16T06:03:39.000Z"
       },
       {
+        "time": "11:55",
+        "title": "丸紅(株)【8002】：今の株価の理由は？値動きの背景をAIが解説",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94M3NCN3B4aktIMXhJWUZncEY3VUNlZTNUVzNwenJqUWhIX3BqNlJHLWZkd0FXQ1hSY0NERWU5Zng5cU5nLThQa1BDRkYwbVdObllWYlh4b2lTaHhYbU00?oc=5",
+        "publishedAt": "2026-07-16T02:55:46.000Z"
+      },
+      {
         "time": "07:00",
         "title": "DMG森精機、最大生産拠点の現場デジタル化と工程集約：メイドインジャパンの現場力（2/2 ページ）",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PQnNZTDFJRldkbjNpeVRsdG5uN20xcHVhUEQ5ZlBLVWtiREYtcWRrR1Q0a1VHZFpXTUg1dFBlWmJWa2VqeXpuLVh3QlhWaGNnZVVIN25uR0hZOXVnMlVwdS1iZVJ2WDRNNVJtbTAycHMzUQ?oc=5",
         "publishedAt": "2026-07-15T22:00:00.000Z"
-      },
-      {
-        "time": "05:26",
-        "title": "週末は別人／LIXIL常務役員・安井卓氏 チーム一丸、魅力尽きないF1",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tampEYW5IRkx2VEVoMWdxRmRFUFhRWXlYdTBLcFFtUlItUk1DWHJETEVxME03LUt2a19OX3ZjZFRCOVQzb1lHVnRRMkQwblBRcnZyR1JVRnk4WEJ5TTdJel9TVmpHRlNwUnJ3NkczT3RZRHla?oc=5",
-        "publishedAt": "2026-07-15T20:26:08.000Z"
       }
     ],
     "worldHeadlines": [
