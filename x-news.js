@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T21:52:31.858Z",
+  "updatedAt": "2026-07-16T22:25:05.316Z",
   "items": [
     {
       "time": "06:19",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "近畿や東海中心に猛烈な暑さ 警戒"
     },
     {
-      "time": "23:31",
-      "title": "ウクライナ 国防相更迭に市民怒り",
+      "time": "07:16",
+      "title": "所得連動給付 29年度の導入で合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588201?source=rss",
-      "publishedAt": "2026-07-16T14:31:43.000Z",
-      "xQuery": "ウクライナ 国防相更迭に市民怒り"
+      "url": "https://news.yahoo.co.jp/pickup/6588208?source=rss",
+      "publishedAt": "2026-07-16T22:16:51.000Z",
+      "xQuery": "所得連動給付 29年度の導入で合意"
     },
     {
       "time": "06:44",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米 留学生ビザを原則4年に短縮へ"
     },
     {
-      "time": "22:18",
-      "title": "「南米のドバイ」ガイアナ急成長",
+      "time": "23:31",
+      "title": "ウクライナ 国防相更迭に市民怒り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588191?source=rss",
-      "publishedAt": "2026-07-16T13:18:57.000Z",
-      "xQuery": "「南米のドバイ」ガイアナ急成長"
+      "url": "https://news.yahoo.co.jp/pickup/6588201?source=rss",
+      "publishedAt": "2026-07-16T14:31:43.000Z",
+      "xQuery": "ウクライナ 国防相更迭に市民怒り"
     },
     {
       "time": "06:33",
