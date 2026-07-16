@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T04:34:52.689Z",
+  "updatedAt": "2026-07-16T05:55:40.663Z",
   "items": [
     {
-      "time": "12:02",
-      "title": "各地猛烈な暑さ 午前に37℃観測も",
+      "time": "13:48",
+      "title": "イラン巡る米大統領発言 二転三転",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588131?source=rss",
-      "publishedAt": "2026-07-16T03:02:14.000Z",
-      "xQuery": "各地猛烈な暑さ 午前に37℃観測も"
+      "url": "https://news.yahoo.co.jp/pickup/6588142?source=rss",
+      "publishedAt": "2026-07-16T04:48:01.000Z",
+      "xQuery": "イラン巡る米大統領発言 二転三転"
     },
     {
-      "time": "12:19",
-      "title": "公用車のNHK受信料 免除要請へ",
+      "time": "13:25",
+      "title": "命を守る服へ 夏用制服の緩和加速",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588134?source=rss",
-      "publishedAt": "2026-07-16T03:19:35.000Z",
-      "xQuery": "公用車のNHK受信料 免除要請へ"
+      "url": "https://news.yahoo.co.jp/pickup/6588137?source=rss",
+      "publishedAt": "2026-07-16T04:25:02.000Z",
+      "xQuery": "命を守る服へ 夏用制服の緩和加速"
     },
     {
-      "time": "11:42",
-      "title": "一部クレカで決済できず 障害か",
+      "time": "14:45",
+      "title": "クレカ全国で一時使用できず 障害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588129?source=rss",
-      "publishedAt": "2026-07-16T02:42:28.000Z",
-      "xQuery": "一部クレカで決済できず 障害か"
+      "url": "https://news.yahoo.co.jp/pickup/6588150?source=rss",
+      "publishedAt": "2026-07-16T05:45:43.000Z",
+      "xQuery": "クレカ全国で一時使用できず 障害"
     },
     {
-      "time": "12:33",
-      "title": "2人死亡 長男殺害疑いで父再逮捕",
+      "time": "13:47",
+      "title": "運営移行の市立病院 退職ドミノ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588135?source=rss",
-      "publishedAt": "2026-07-16T03:33:13.000Z",
-      "xQuery": "2人死亡 長男殺害疑いで父再逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6588144?source=rss",
+      "publishedAt": "2026-07-16T04:47:00.000Z",
+      "xQuery": "運営移行の市立病院 退職ドミノ"
     },
     {
-      "time": "12:07",
-      "title": "登校中はねられ小3死亡 男を逮捕",
+      "time": "14:07",
+      "title": "パラセーリングで墜落か 意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588133?source=rss",
-      "publishedAt": "2026-07-16T03:07:17.000Z",
-      "xQuery": "登校中はねられ小3死亡 男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6588148?source=rss",
+      "publishedAt": "2026-07-16T05:07:17.000Z",
+      "xQuery": "パラセーリングで墜落か 意識不明"
     }
   ]
 };
