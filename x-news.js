@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T05:55:40.663Z",
+  "updatedAt": "2026-07-16T06:59:49.091Z",
   "items": [
     {
-      "time": "13:48",
-      "title": "イラン巡る米大統領発言 二転三転",
+      "time": "15:53",
+      "title": "国旗損壊罪法案 参院内閣委で可決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588142?source=rss",
-      "publishedAt": "2026-07-16T04:48:01.000Z",
-      "xQuery": "イラン巡る米大統領発言 二転三転"
+      "url": "https://news.yahoo.co.jp/pickup/6588153?source=rss",
+      "publishedAt": "2026-07-16T06:53:02.000Z",
+      "xQuery": "国旗損壊罪法案 参院内閣委で可決"
     },
     {
-      "time": "13:25",
-      "title": "命を守る服へ 夏用制服の緩和加速",
+      "time": "14:14",
+      "title": "ニチレイの障害 給食にも影響拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588137?source=rss",
-      "publishedAt": "2026-07-16T04:25:02.000Z",
-      "xQuery": "命を守る服へ 夏用制服の緩和加速"
+      "url": "https://news.yahoo.co.jp/pickup/6588147?source=rss",
+      "publishedAt": "2026-07-16T05:14:41.000Z",
+      "xQuery": "ニチレイの障害 給食にも影響拡大"
     },
     {
       "time": "14:45",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "クレカ全国で一時使用できず 障害"
     },
     {
-      "time": "13:47",
-      "title": "運営移行の市立病院 退職ドミノ",
+      "time": "15:20",
+      "title": "点滴に便入れ殺害疑い 病院が謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588144?source=rss",
-      "publishedAt": "2026-07-16T04:47:00.000Z",
-      "xQuery": "運営移行の市立病院 退職ドミノ"
+      "url": "https://news.yahoo.co.jp/pickup/6588152?source=rss",
+      "publishedAt": "2026-07-16T06:20:00.000Z",
+      "xQuery": "点滴に便入れ殺害疑い 病院が謝罪"
     },
     {
       "time": "14:07",
