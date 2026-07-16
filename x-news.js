@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T20:50:30.505Z",
+  "updatedAt": "2026-07-16T21:26:06.551Z",
   "items": [
     {
-      "time": "22:17",
-      "title": "熱中症で127人救急搬送 東京",
+      "time": "06:19",
+      "title": "近畿や東海中心に猛烈な暑さ 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588190?source=rss",
-      "publishedAt": "2026-07-16T13:17:04.000Z",
-      "xQuery": "熱中症で127人救急搬送 東京"
+      "url": "https://news.yahoo.co.jp/pickup/6588205?source=rss",
+      "publishedAt": "2026-07-16T21:19:16.000Z",
+      "xQuery": "近畿や東海中心に猛烈な暑さ 警戒"
     },
     {
       "time": "23:31",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588201?source=rss",
       "publishedAt": "2026-07-16T14:31:43.000Z",
       "xQuery": "ウクライナ 国防相更迭に市民怒り"
-    },
-    {
-      "time": "22:08",
-      "title": "アエラホーム 民事再生法を申請",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588189?source=rss",
-      "publishedAt": "2026-07-16T13:08:07.000Z",
-      "xQuery": "アエラホーム 民事再生法を申請"
     },
     {
       "time": "18:13",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588185?source=rss",
       "publishedAt": "2026-07-16T12:16:01.000Z",
       "xQuery": "ダイハツ 軽トラ約29万台リコール"
+    },
+    {
+      "time": "22:18",
+      "title": "「南米のドバイ」ガイアナ急成長",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588191?source=rss",
+      "publishedAt": "2026-07-16T13:18:57.000Z",
+      "xQuery": "「南米のドバイ」ガイアナ急成長"
     }
   ]
 };
