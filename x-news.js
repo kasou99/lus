@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T21:26:06.551Z",
+  "updatedAt": "2026-07-16T21:52:31.858Z",
   "items": [
     {
       "time": "06:19",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ウクライナ 国防相更迭に市民怒り"
     },
     {
-      "time": "18:13",
-      "title": "サイゼ株ストップ高 社長発言受け",
+      "time": "06:44",
+      "title": "米 留学生ビザを原則4年に短縮へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588171?source=rss",
-      "publishedAt": "2026-07-16T09:13:43.000Z",
-      "xQuery": "サイゼ株ストップ高 社長発言受け"
-    },
-    {
-      "time": "21:16",
-      "title": "ダイハツ 軽トラ約29万台リコール",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588185?source=rss",
-      "publishedAt": "2026-07-16T12:16:01.000Z",
-      "xQuery": "ダイハツ 軽トラ約29万台リコール"
+      "url": "https://news.yahoo.co.jp/pickup/6588207?source=rss",
+      "publishedAt": "2026-07-16T21:44:25.000Z",
+      "xQuery": "米 留学生ビザを原則4年に短縮へ"
     },
     {
       "time": "22:18",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588191?source=rss",
       "publishedAt": "2026-07-16T13:18:57.000Z",
       "xQuery": "「南米のドバイ」ガイアナ急成長"
+    },
+    {
+      "time": "06:33",
+      "title": "米大統領 サッカーW杯決勝観戦へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588206?source=rss",
+      "publishedAt": "2026-07-16T21:33:45.000Z",
+      "xQuery": "米大統領 サッカーW杯決勝観戦へ"
     }
   ]
 };
