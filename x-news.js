@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T23:21:45.775Z",
+  "updatedAt": "2026-07-16T23:50:51.310Z",
   "items": [
-    {
-      "time": "06:19",
-      "title": "近畿や東海中心に猛烈な暑さ 警戒",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588205?source=rss",
-      "publishedAt": "2026-07-16T21:19:16.000Z",
-      "xQuery": "近畿や東海中心に猛烈な暑さ 警戒"
-    },
     {
       "time": "07:16",
       "title": "所得連動給付 29年度の導入で合意",
@@ -18,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "所得連動給付 29年度の導入で合意"
     },
     {
-      "time": "06:44",
-      "title": "米 留学生ビザを原則4年に短縮へ",
+      "time": "07:52",
+      "title": "放送事業者の資本のあり方 検討へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588207?source=rss",
-      "publishedAt": "2026-07-16T21:44:25.000Z",
-      "xQuery": "米 留学生ビザを原則4年に短縮へ"
+      "url": "https://news.yahoo.co.jp/pickup/6588214?source=rss",
+      "publishedAt": "2026-07-16T22:52:20.000Z",
+      "xQuery": "放送事業者の資本のあり方 検討へ"
+    },
+    {
+      "time": "08:01",
+      "title": "新米価格が高騰一転 今年は下落か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588215?source=rss",
+      "publishedAt": "2026-07-16T23:01:13.000Z",
+      "xQuery": "新米価格が高騰一転 今年は下落か"
     },
     {
       "time": "07:34",

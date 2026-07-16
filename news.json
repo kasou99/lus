@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-16T23:21:44.544Z",
+  "updatedAt": "2026-07-16T23:50:50.365Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:40",
+        "title": "北陸新幹線延伸ルート、与党「桂川案」選定…経済界の声は？",
+        "source": "ニュースイッチ by 日刊工業新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5X0VKY3dZVzVZUFNGUUFFOUdGMVlwb1ZwNWRuSWdsR2UtQlNwRFVyelVYU0RpY2ZUcHpBRDI4Vjlyb2JCUzVv?oc=5",
+        "publishedAt": "2026-07-16T21:40:51.000Z"
+      },
       {
         "time": "05:04",
         "title": "低炭素農法でバングラ耕す 両備システムズ、ITで新風",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yMkxnUzdZTDlTalRGYUZUckc4aDVyanVLN2xPaDdfc3U0Tlh0SFY0MUZuTjU4bDZFYmVfU3NYZXI5ZUNFM2trUE4wSXlheGdKU2JDUDdTSHVIRnUxTldHNDg3Z3BWUngza0JIekRxOEZrWXRyV2tnOTJQSQ?oc=5",
         "publishedAt": "2026-07-16T06:03:39.000Z"
-      },
-      {
-        "time": "15:15",
-        "title": "トルクモーターの世界市場 2026年～2030年",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wWTlGc3JKS2xaUlZYNU5SR2lPVlE5bTcyb2dZcWItTnYxd0NvWC1ZOUtoZ2tZVlliMHg2b3JpdW9oVjI5bWVjcGlmTTM5QlU?oc=5",
-        "publishedAt": "2026-07-16T06:15:00.000Z"
       }
     ],
     "worldHeadlines": [
