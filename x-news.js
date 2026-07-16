@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T14:45:40.820Z",
+  "updatedAt": "2026-07-16T15:36:00.840Z",
   "items": [
     {
       "time": "22:17",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熱中症で127人救急搬送 東京"
     },
     {
-      "time": "19:00",
-      "title": "大阪メトロ会長 引責辞任し相談役",
+      "time": "23:31",
+      "title": "ウクライナ 国防相更迭に市民怒り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588173?source=rss",
-      "publishedAt": "2026-07-16T10:00:57.000Z",
-      "xQuery": "大阪メトロ会長 引責辞任し相談役"
+      "url": "https://news.yahoo.co.jp/pickup/6588201?source=rss",
+      "publishedAt": "2026-07-16T14:31:43.000Z",
+      "xQuery": "ウクライナ 国防相更迭に市民怒り"
     },
     {
       "time": "22:08",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "アエラホーム 民事再生法を申請"
     },
     {
-      "time": "23:08",
-      "title": "人権NGOでパワハラ 組織の内情は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588198?source=rss",
-      "publishedAt": "2026-07-16T14:08:37.000Z",
-      "xQuery": "人権NGOでパワハラ 組織の内情は"
-    },
-    {
       "time": "18:13",
       "title": "サイゼ株ストップ高 社長発言受け",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6588171?source=rss",
       "publishedAt": "2026-07-16T09:13:43.000Z",
       "xQuery": "サイゼ株ストップ高 社長発言受け"
+    },
+    {
+      "time": "21:16",
+      "title": "ダイハツ 軽トラ約29万台リコール",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588185?source=rss",
+      "publishedAt": "2026-07-16T12:16:01.000Z",
+      "xQuery": "ダイハツ 軽トラ約29万台リコール"
     }
   ]
 };
