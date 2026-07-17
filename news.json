@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T08:50:49.176Z",
+  "updatedAt": "2026-07-17T09:40:06.267Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-07-16T21:40:51.000Z"
       },
       {
-        "time": "15:12",
-        "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
-        "source": "sannichi.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlY1JRN1c0eXRvMlNMeEoteGNiYXlFVS03Y2g2MlIzSExwVzBCMnI4SkVfcjRrOXRmRUxhYW9YeFQxYkZfN2ZTZ21NODVuWGZEZWFndGZsSU55YUt5ampMVEFENA?oc=5",
-        "publishedAt": "2026-07-17T06:12:54.000Z"
+        "time": "16:58",
+        "title": "自動車の軸受関連製品を手がけるジェイテクト 亀山工場に「MISUMI floow」を導入",
+        "source": "富士山経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xREN5LWpNWVJfQmRHWURZT05TSVBqdy1fZ0ZGb2ZWQjdyWktGbXhUNW8zd0ZmVEZrUERkdEZ2QXNfaVRycFNET0NFRTBTX3hCWnpF?oc=5",
+        "publishedAt": "2026-07-17T07:58:59.000Z"
       },
       {
         "time": "17:02",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-07-17T07:09:00.000Z"
       },
       {
-        "time": "08:01",
-        "title": "新米価格が高騰一転 今年は下落か",
+        "time": "17:58",
+        "title": "トラック出火 郵便物4600通が焼損",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588215?source=rss",
-        "publishedAt": "2026-07-16T23:01:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588301?source=rss",
+        "publishedAt": "2026-07-17T08:58:02.000Z"
       },
       {
-        "time": "08:06",
-        "title": "コンビニが服販売 新たな成長分野",
+        "time": "17:58",
+        "title": "ジャングリア沖縄 今後の課題は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588216?source=rss",
-        "publishedAt": "2026-07-16T23:06:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588305?source=rss",
+        "publishedAt": "2026-07-17T08:58:43.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-07-17T08:05:37.000Z"
       },
       {
+        "time": "18:38",
+        "title": "台船で女性倒れ死亡 殺人で捜査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588309?source=rss",
+        "publishedAt": "2026-07-17T09:38:20.000Z"
+      },
+      {
         "time": "16:13",
         "title": "JFE工場5人転落事故 海から遺体",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588243?source=rss",
         "publishedAt": "2026-07-17T02:31:53.000Z"
-      },
-      {
-        "time": "08:52",
-        "title": "勾留中に男性死亡 浮かんだ経緯",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588223?source=rss",
-        "publishedAt": "2026-07-16T23:52:31.000Z"
       }
     ],
     "subsidyHeadlines": [

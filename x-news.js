@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-17T08:50:49.792Z",
+  "updatedAt": "2026-07-17T09:40:07.029Z",
   "items": [
     {
-      "time": "16:41",
-      "title": "八王子で非常に激しい雨 観測1位",
+      "time": "17:27",
+      "title": "改正皇室典範成立 宮内庁コメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588287?source=rss",
-      "publishedAt": "2026-07-17T07:41:31.000Z",
-      "xQuery": "八王子で非常に激しい雨 観測1位"
+      "url": "https://news.yahoo.co.jp/pickup/6588296?source=rss",
+      "publishedAt": "2026-07-17T08:27:35.000Z",
+      "xQuery": "改正皇室典範成立 宮内庁コメント"
     },
     {
       "time": "17:04",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "富士山で99歳女性遭難 救助される"
     },
     {
-      "time": "17:25",
-      "title": "憲法缶バッジ盛況 開発元「感動」",
+      "time": "18:10",
+      "title": "新幹線で見える 巨大建造物解体へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588294?source=rss",
-      "publishedAt": "2026-07-17T08:25:35.000Z",
-      "xQuery": "憲法缶バッジ盛況 開発元「感動」"
+      "url": "https://news.yahoo.co.jp/pickup/6588304?source=rss",
+      "publishedAt": "2026-07-17T09:10:16.000Z",
+      "xQuery": "新幹線で見える 巨大建造物解体へ"
     }
   ]
 };
