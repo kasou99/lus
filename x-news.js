@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-16T23:50:51.310Z",
+  "updatedAt": "2026-07-17T00:48:17.067Z",
   "items": [
     {
-      "time": "07:16",
-      "title": "所得連動給付 29年度の導入で合意",
+      "time": "09:45",
+      "title": "日経平均 一時2500円以上値下がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588208?source=rss",
-      "publishedAt": "2026-07-16T22:16:51.000Z",
-      "xQuery": "所得連動給付 29年度の導入で合意"
+      "url": "https://news.yahoo.co.jp/pickup/6588229?source=rss",
+      "publishedAt": "2026-07-17T00:45:08.000Z",
+      "xQuery": "日経平均 一時2500円以上値下がり"
     },
     {
-      "time": "07:52",
-      "title": "放送事業者の資本のあり方 検討へ",
+      "time": "08:52",
+      "title": "関東甲信 今日も局地的な大雨注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588214?source=rss",
-      "publishedAt": "2026-07-16T22:52:20.000Z",
-      "xQuery": "放送事業者の資本のあり方 検討へ"
+      "url": "https://news.yahoo.co.jp/pickup/6588222?source=rss",
+      "publishedAt": "2026-07-16T23:52:00.000Z",
+      "xQuery": "関東甲信 今日も局地的な大雨注意"
     },
     {
       "time": "08:01",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "新米価格が高騰一転 今年は下落か"
     },
     {
-      "time": "07:34",
-      "title": "勾留中に男性死亡 見えてきた経緯",
+      "time": "09:26",
+      "title": "登下校中にクマ 備えにハードル",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588212?source=rss",
-      "publishedAt": "2026-07-16T22:34:37.000Z",
-      "xQuery": "勾留中に男性死亡 見えてきた経緯"
+      "url": "https://news.yahoo.co.jp/pickup/6588225?source=rss",
+      "publishedAt": "2026-07-17T00:26:52.000Z",
+      "xQuery": "登下校中にクマ 備えにハードル"
     },
     {
-      "time": "06:33",
-      "title": "米大統領 サッカーW杯決勝観戦へ",
+      "time": "08:52",
+      "title": "勾留中に男性死亡 浮かんだ経緯",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588206?source=rss",
-      "publishedAt": "2026-07-16T21:33:45.000Z",
-      "xQuery": "米大統領 サッカーW杯決勝観戦へ"
+      "url": "https://news.yahoo.co.jp/pickup/6588223?source=rss",
+      "publishedAt": "2026-07-16T23:52:31.000Z",
+      "xQuery": "勾留中に男性死亡 浮かんだ経緯"
     }
   ]
 };
