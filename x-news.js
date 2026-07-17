@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-17T01:40:34.828Z",
+  "updatedAt": "2026-07-17T03:10:34.348Z",
   "items": [
+    {
+      "time": "11:48",
+      "title": "改正皇室典範が可決・成立",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588245?source=rss",
+      "publishedAt": "2026-07-17T02:48:47.000Z",
+      "xQuery": "改正皇室典範が可決・成立"
+    },
     {
       "time": "09:07",
       "title": "イラン 交渉巡り強硬姿勢崩さず",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン 交渉巡り強硬姿勢崩さず"
     },
     {
-      "time": "08:52",
-      "title": "関東甲信 今日も局地的な大雨注意",
+      "time": "11:12",
+      "title": "キオクシア 上場来高値から半値に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588222?source=rss",
-      "publishedAt": "2026-07-16T23:52:00.000Z",
-      "xQuery": "関東甲信 今日も局地的な大雨注意"
+      "url": "https://news.yahoo.co.jp/pickup/6588239?source=rss",
+      "publishedAt": "2026-07-17T02:12:32.000Z",
+      "xQuery": "キオクシア 上場来高値から半値に"
     },
     {
-      "time": "10:00",
-      "title": "日経平均 一時2700円以上値下がり",
+      "time": "11:28",
+      "title": "遺体か 不明5歳男児の捜索中発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588230?source=rss",
-      "publishedAt": "2026-07-17T01:00:34.000Z",
-      "xQuery": "日経平均 一時2700円以上値下がり"
+      "url": "https://news.yahoo.co.jp/pickup/6588242?source=rss",
+      "publishedAt": "2026-07-17T02:28:14.000Z",
+      "xQuery": "遺体か 不明5歳男児の捜索中発見"
     },
     {
-      "time": "09:39",
-      "title": "タイの公務員試験 5800人超不正か",
+      "time": "11:31",
+      "title": "中学でスプレーまいたか 23人ケガ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588227?source=rss",
-      "publishedAt": "2026-07-17T00:39:01.000Z",
-      "xQuery": "タイの公務員試験 5800人超不正か"
-    },
-    {
-      "time": "09:26",
-      "title": "登下校中にクマ 備えにハードル",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588225?source=rss",
-      "publishedAt": "2026-07-17T00:26:52.000Z",
-      "xQuery": "登下校中にクマ 備えにハードル"
+      "url": "https://news.yahoo.co.jp/pickup/6588243?source=rss",
+      "publishedAt": "2026-07-17T02:31:53.000Z",
+      "xQuery": "中学でスプレーまいたか 23人ケガ"
     }
   ]
 };
