@@ -1,13 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-17T05:56:00.437Z",
+  "updatedAt": "2026-07-17T06:57:45.330Z",
   "items": [
     {
-      "time": "12:35",
-      "title": "東京・千葉・神奈川 大雨危険警報",
+      "time": "15:49",
+      "title": "日経終値2694円安 5番目の下げ幅",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588252?source=rss",
-      "publishedAt": "2026-07-17T03:35:45.000Z",
-      "xQuery": "東京・千葉・神奈川 大雨危険警報"
+      "url": "https://news.yahoo.co.jp/pickup/6588276?source=rss",
+      "publishedAt": "2026-07-17T06:49:54.000Z",
+      "xQuery": "日経終値2694円安 5番目の下げ幅"
+    },
+    {
+      "time": "15:47",
+      "title": "政府与党 25日まで国会延長を調整",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588271?source=rss",
+      "publishedAt": "2026-07-17T06:47:56.000Z",
+      "xQuery": "政府与党 25日まで国会延長を調整"
+    },
+    {
+      "time": "10:31",
+      "title": "女性2人承諾殺人 被告に懲役10年",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588235?source=rss",
+      "publishedAt": "2026-07-17T01:31:25.000Z",
+      "xQuery": "女性2人承諾殺人 被告に懲役10年"
     },
     {
       "time": "13:38",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "海上封鎖 イランの影響は限定的?"
     },
     {
-      "time": "13:48",
-      "title": "日経平均株価 一時4000円超下落",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588266?source=rss",
-      "publishedAt": "2026-07-17T04:48:45.000Z",
-      "xQuery": "日経平均株価 一時4000円超下落"
-    },
-    {
       "time": "13:35",
       "title": "汚物混入殺人 おむつ替えに不満か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6588262?source=rss",
       "publishedAt": "2026-07-17T04:35:50.000Z",
       "xQuery": "汚物混入殺人 おむつ替えに不満か"
-    },
-    {
-      "time": "13:09",
-      "title": "キオクシアに2億ドル賠償評決 米",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588255?source=rss",
-      "publishedAt": "2026-07-17T04:09:09.000Z",
-      "xQuery": "キオクシアに2億ドル賠償評決 米"
     }
   ]
 };

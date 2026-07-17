@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T05:55:59.244Z",
+  "updatedAt": "2026-07-17T06:57:44.790Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,25 +31,18 @@
         "publishedAt": "2026-07-16T21:40:51.000Z"
       },
       {
-        "time": "15:15",
-        "title": "トルクモーターの世界市場 2026年～2030年",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wWTlGc3JKS2xaUlZYNU5SR2lPVlE5bTcyb2dZcWItTnYxd0NvWC1ZOUtoZ2tZVlliMHg2b3JpdW9oVjI5bWVjcGlmTTM5QlU?oc=5",
-        "publishedAt": "2026-07-16T06:15:00.000Z"
-      },
-      {
         "time": "15:55",
-        "title": "丸紅(株)【8002】：今の株価の理由は？値動きの背景をAIが解説",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RazZOREVKM2w5YU16eXZjVjB3RnFCekN2NUxVeXFVeVdLdWRELTVrTXBWNjI4UXIwUHRqYnJZZTF2T3FYSjhKUWpkS2NyVXBzMklwUUhnd0NVVFJLX3JB?oc=5",
-        "publishedAt": "2026-07-16T06:55:52.000Z"
+        "title": "自動車の軸受関連製品を手がけるジェイテクト 亀山工場に「MISUMI floow」を導入",
+        "source": "浜松経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xenZHZkJLVzY2YUgtN3l2dUdIejJMdENKMW5SNlJBTGhhVHdSRDlMT2JUS05xSlJaR1pVQ1lqT3F5UkxZQlg0b0pub2lDYlFaWFg3WmNmMA?oc=5",
+        "publishedAt": "2026-07-17T06:55:53.000Z"
       },
       {
-        "time": "15:03",
-        "title": "スラスト球面すべり軸受の世界市場2026年、グローバル市場規模（鋼対鋼、鋼対フッ素樹脂織物、鋼対フッ素樹脂樹脂）・分析",
+        "time": "12:33",
+        "title": "【8/18開催】製造現場のAI活用実践ウェビナー 紙帳票のデジタル化から故障を未然に防ぐ異常予兆検知AIまで",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yMkxnUzdZTDlTalRGYUZUckc4aDVyanVLN2xPaDdfc3U0Tlh0SFY0MUZuTjU4bDZFYmVfU3NYZXI5ZUNFM2trUE4wSXlheGdKU2JDUDdTSHVIRnUxTldHNDg3Z3BWUngza0JIekRxOEZrWXRyV2tnOTJQSQ?oc=5",
-        "publishedAt": "2026-07-16T06:03:39.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DNllEMDZRSlFKemJ5VzJ0dEFsWTZ5RHNfcDUzNDUxRHBEbEkzRjhURG1mRzJDcFVDNUl3MVY4UnNiUGtLTWJOZ2hUaW9EYmlMamRSejdQcVJHVzBmYW1rXzgtTGZxRllHUl9yTXFXWGQ3YzJRTlpHT2xTSQ?oc=5",
+        "publishedAt": "2026-07-17T03:33:35.000Z"
       },
       {
         "time": "05:04",
@@ -57,6 +50,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DNTRkVzdqZGIxTU1uY1hiTW1VUUZRZU0tVFlFdGxzcDhJNjdLcnlrREs5Q2VUX3RFR1ZLNW9DbGtHWS1aRnRxWjJtSTl5MmpBVDZtM2Jqam9XSUE?oc=5",
         "publishedAt": "2026-07-16T20:04:10.000Z"
+      },
+      {
+        "time": "06:11",
+        "title": "オムロン、半導体検査を高度・簡易に エヌビディア技術活用、実用化急ぐ",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FcWhROHZCcGFSal9HZ1c1ckk4NGxtcUMyVjI4R3V3c05YNldpLWlTNXk0ZERHaFZESVBTWmE3dEpicWtzVmJ5bmZhcTVnZEV3NjFOUklKM0NKNkU?oc=5",
+        "publishedAt": "2026-07-16T21:11:15.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,27 +89,27 @@
         "publishedAt": "2026-07-16T21:44:25.000Z"
       },
       {
-        "time": "22:18",
-        "title": "「南米のドバイ」ガイアナ急成長",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588191?source=rss",
-        "publishedAt": "2026-07-16T13:18:57.000Z"
-      },
-      {
         "time": "06:33",
         "title": "米大統領 サッカーW杯決勝観戦へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588206?source=rss",
         "publishedAt": "2026-07-16T21:33:45.000Z"
+      },
+      {
+        "time": "09:39",
+        "title": "タイの公務員試験 5800人超不正か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588227?source=rss",
+        "publishedAt": "2026-07-17T00:39:01.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "13:48",
-        "title": "日経平均株価 一時4000円超下落",
+        "time": "15:49",
+        "title": "日経終値2694円安 5番目の下げ幅",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588266?source=rss",
-        "publishedAt": "2026-07-17T04:48:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588276?source=rss",
+        "publishedAt": "2026-07-17T06:49:54.000Z"
       },
       {
         "time": "11:12",
