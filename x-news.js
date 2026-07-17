@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-17T06:57:45.330Z",
+  "updatedAt": "2026-07-17T07:45:28.351Z",
   "items": [
     {
       "time": "15:49",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "政府与党 25日まで国会延長を調整"
     },
     {
-      "time": "10:31",
-      "title": "女性2人承諾殺人 被告に懲役10年",
+      "time": "16:41",
+      "title": "八王子で非常に激しい雨 観測1位",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588235?source=rss",
-      "publishedAt": "2026-07-17T01:31:25.000Z",
-      "xQuery": "女性2人承諾殺人 被告に懲役10年"
+      "url": "https://news.yahoo.co.jp/pickup/6588287?source=rss",
+      "publishedAt": "2026-07-17T07:41:31.000Z",
+      "xQuery": "八王子で非常に激しい雨 観測1位"
     },
     {
-      "time": "13:38",
-      "title": "海上封鎖 イランの影響は限定的?",
+      "time": "16:13",
+      "title": "JFE工場5人転落事故 海から遺体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588254?source=rss",
-      "publishedAt": "2026-07-17T04:38:59.000Z",
-      "xQuery": "海上封鎖 イランの影響は限定的?"
+      "url": "https://news.yahoo.co.jp/pickup/6588279?source=rss",
+      "publishedAt": "2026-07-17T07:13:24.000Z",
+      "xQuery": "JFE工場5人転落事故 海から遺体"
     },
     {
-      "time": "13:35",
-      "title": "汚物混入殺人 おむつ替えに不満か",
+      "time": "16:25",
+      "title": "富士山で99歳女性遭難 救助される",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588262?source=rss",
-      "publishedAt": "2026-07-17T04:35:50.000Z",
-      "xQuery": "汚物混入殺人 おむつ替えに不満か"
+      "url": "https://news.yahoo.co.jp/pickup/6588272?source=rss",
+      "publishedAt": "2026-07-17T07:25:45.000Z",
+      "xQuery": "富士山で99歳女性遭難 救助される"
     }
   ]
 };
