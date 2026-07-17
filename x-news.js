@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-17T09:40:07.029Z",
+  "updatedAt": "2026-07-17T10:37:41.838Z",
   "items": [
     {
-      "time": "17:27",
-      "title": "改正皇室典範成立 宮内庁コメント",
+      "time": "19:32",
+      "title": "国会会期を8日間延長 25日まで",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588296?source=rss",
-      "publishedAt": "2026-07-17T08:27:35.000Z",
-      "xQuery": "改正皇室典範成立 宮内庁コメント"
+      "url": "https://news.yahoo.co.jp/pickup/6588315?source=rss",
+      "publishedAt": "2026-07-17T10:32:48.000Z",
+      "xQuery": "国会会期を8日間延長 25日まで"
     },
     {
-      "time": "17:04",
-      "title": "福岡県議会議長 金銭授受を否定",
+      "time": "16:22",
+      "title": "子のSNSいつから? 禁止の是非",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588290?source=rss",
-      "publishedAt": "2026-07-17T08:04:30.000Z",
-      "xQuery": "福岡県議会議長 金銭授受を否定"
+      "url": "https://news.yahoo.co.jp/pickup/6588282?source=rss",
+      "publishedAt": "2026-07-17T07:22:20.000Z",
+      "xQuery": "子のSNSいつから? 禁止の是非"
     },
     {
       "time": "17:05",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "5歳不明 発見の遺体は身長115cm"
     },
     {
-      "time": "16:25",
-      "title": "富士山で99歳女性遭難 救助される",
+      "time": "18:38",
+      "title": "台船で女性倒れ死亡 殺人で捜査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588272?source=rss",
-      "publishedAt": "2026-07-17T07:25:45.000Z",
-      "xQuery": "富士山で99歳女性遭難 救助される"
+      "url": "https://news.yahoo.co.jp/pickup/6588309?source=rss",
+      "publishedAt": "2026-07-17T09:38:20.000Z",
+      "xQuery": "台船で女性倒れ死亡 殺人で捜査"
     },
     {
-      "time": "18:10",
-      "title": "新幹線で見える 巨大建造物解体へ",
+      "time": "17:58",
+      "title": "トラック出火 郵便物4600通が焼損",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588304?source=rss",
-      "publishedAt": "2026-07-17T09:10:16.000Z",
-      "xQuery": "新幹線で見える 巨大建造物解体へ"
+      "url": "https://news.yahoo.co.jp/pickup/6588301?source=rss",
+      "publishedAt": "2026-07-17T08:58:02.000Z",
+      "xQuery": "トラック出火 郵便物4600通が焼損"
     }
   ]
 };
