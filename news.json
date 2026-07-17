@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T13:36:33.464Z",
+  "updatedAt": "2026-07-17T14:37:51.982Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yeDliYk5QSGFPR1E2aGI2ci13TURId2IwWHZ2aExnMmduZk00R2ZfNkxtbjRlMmhBX21UemtRRDhCNzBQUEQzaF9uXzNoQlNXZXIxZExzbmFMRlN2NlRSLU1oaHBNTzRzc0t1bnNLSUU2ZldVNlV2dWFrVQ?oc=5",
         "publishedAt": "2026-07-16T22:56:43.000Z"
+      },
+      {
+        "time": "15:00",
+        "title": "金属切断用丸鋸盤の世界市場（2026年～2032年）、市場規模（手動式、半自動式、全自動式）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQejZWc0ZKWmtIeHVpNF9vR3ZSNWRrWElVTGczTjlkY1d4YlZyVlR6RmtueVpSemJVOXVoM1RQWTd6SF9obS0zUnQ3WkRKTVRMLWtrZ3pONXFNRXhhcnljd0QtM2xWNjhtNmJNdUZqUmxoWWs3eUVuNW1fQWw3SzhyMGhrT0Z4QlYwd1RiWS1EeXZKQjdEWmtLZDFLVlAtVjN0MV9fNXMtQlBtNnhvd2t0U3BpNHppVnIwRm9RUmNIUHMtOVpjcVRVbUY3X3ZWd3JDeTBvOE1OVUhwcG9PQVNENGZQcw?oc=5",
+        "publishedAt": "2026-07-17T06:00:00.000Z"
       },
       {
         "time": "16:33",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DNTRkVzdqZGIxTU1uY1hiTW1VUUZRZU0tVFlFdGxzcDhJNjdLcnlrREs5Q2VUX3RFR1ZLNW9DbGtHWS1aRnRxWjJtSTl5MmpBVDZtM2Jqam9XSUE?oc=5",
         "publishedAt": "2026-07-16T20:02:27.000Z"
-      },
-      {
-        "time": "06:11",
-        "title": "オムロン、半導体検査を高度・簡易に エヌビディア技術活用、実用化急ぐ",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FcWhROHZCcGFSal9HZ1c1ckk4NGxtcUMyVjI4R3V3c05YNldpLWlTNXk0ZERHaFZESVBTWmE3dEpicWtzVmJ5bmZhcTVnZEV3NjFOUklKM0NKNkU?oc=5",
-        "publishedAt": "2026-07-16T21:11:15.000Z"
       }
     ],
     "worldHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-07-17T11:26:22.000Z"
       },
       {
-        "time": "20:02",
-        "title": "青春18きっぷ 利用者離れ止まらず",
+        "time": "23:04",
+        "title": "花火大会チケット 不正転売相次ぐ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588319?source=rss",
-        "publishedAt": "2026-07-17T11:02:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588342?source=rss",
+        "publishedAt": "2026-07-17T14:04:47.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-07-17T08:04:30.000Z"
       },
       {
-        "time": "13:35",
-        "title": "汚物混入殺人 おむつ替えに不満か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588262?source=rss",
-        "publishedAt": "2026-07-17T04:35:50.000Z"
-      },
-      {
         "time": "17:05",
         "title": "5歳不明 発見の遺体は身長115cm",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588289?source=rss",
         "publishedAt": "2026-07-17T08:05:37.000Z"
+      },
+      {
+        "time": "22:40",
+        "title": "絞殺後に橋から女性落とされたか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588341?source=rss",
+        "publishedAt": "2026-07-17T13:40:57.000Z"
       },
       {
         "time": "20:52",

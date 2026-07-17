@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-17T13:36:34.079Z",
+  "updatedAt": "2026-07-17T14:37:52.958Z",
   "items": [
     {
-      "time": "21:36",
-      "title": "英与党 新党首にバーナム氏を選出",
+      "time": "23:23",
+      "title": "3連休 関東以西は急な雷雨に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588332?source=rss",
-      "publishedAt": "2026-07-17T12:36:20.000Z",
-      "xQuery": "英与党 新党首にバーナム氏を選出"
+      "url": "https://news.yahoo.co.jp/pickup/6588343?source=rss",
+      "publishedAt": "2026-07-17T14:23:02.000Z",
+      "xQuery": "3連休 関東以西は急な雷雨に注意"
     },
     {
       "time": "20:23",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 皇室典範巡り蓮舫氏に苦言"
     },
     {
-      "time": "21:10",
-      "title": "園児ら64人食中毒 八王子の保育園",
+      "time": "22:36",
+      "title": "クマに攻撃されて20秒 眼球破裂も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588330?source=rss",
-      "publishedAt": "2026-07-17T12:10:22.000Z",
-      "xQuery": "園児ら64人食中毒 八王子の保育園"
+      "url": "https://news.yahoo.co.jp/pickup/6588340?source=rss",
+      "publishedAt": "2026-07-17T13:36:21.000Z",
+      "xQuery": "クマに攻撃されて20秒 眼球破裂も"
+    },
+    {
+      "time": "22:40",
+      "title": "絞殺後に橋から女性落とされたか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588341?source=rss",
+      "publishedAt": "2026-07-17T13:40:57.000Z",
+      "xQuery": "絞殺後に橋から女性落とされたか"
     },
     {
       "time": "20:26",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588324?source=rss",
       "publishedAt": "2026-07-17T11:26:22.000Z",
       "xQuery": "ハウスメーカー倒産 9割増の衝撃"
-    },
-    {
-      "time": "19:29",
-      "title": "ジャズピアニスト渋谷毅さん死去",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588312?source=rss",
-      "publishedAt": "2026-07-17T10:29:53.000Z",
-      "xQuery": "ジャズピアニスト渋谷毅さん死去"
     }
   ]
 };
