@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T15:33:02.457Z",
+  "updatedAt": "2026-07-17T16:32:08.910Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-07-16T21:40:51.000Z"
       },
       {
-        "time": "16:58",
+        "time": "23:15",
         "title": "自動車の軸受関連製品を手がけるジェイテクト 亀山工場に「MISUMI floow」を導入",
-        "source": "富士山経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xREN5LWpNWVJfQmRHWURZT05TSVBqdy1fZ0ZGb2ZWQjdyWktGbXhUNW8zd0ZmVEZrUERkdEZ2QXNfaVRycFNET0NFRTBTX3hCWnpF?oc=5",
-        "publishedAt": "2026-07-17T07:58:59.000Z"
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1TW5wU0FGRjRwRjFOdTNBT0JLTmhMcV9lM3JRRUxzdW9uUVpTU3JqcndxQ0h0RnRfYjRPQUNjUFhNalRoR3ZiQmhxbkZYTjhfSU91SnJnSW5zSzFOUC1BX181SmxieGtLLWJobWFrMlhBbUpyX2FiR0ZHNA?oc=5",
+        "publishedAt": "2026-07-17T14:15:28.000Z"
       },
       {
         "time": "05:02",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "00:38",
+        "title": "メキシコM7.4地震 日本津波なし",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588346?source=rss",
+        "publishedAt": "2026-07-17T15:38:55.000Z"
+      },
+      {
         "time": "13:38",
         "title": "海上封鎖 イランの影響は限定的?",
         "source": "Yahoo!ニュース",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588224?source=rss",
         "publishedAt": "2026-07-17T00:07:31.000Z"
-      },
-      {
-        "time": "23:31",
-        "title": "ウクライナ 国防相更迭に市民怒り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588201?source=rss",
-        "publishedAt": "2026-07-16T14:31:43.000Z"
       },
       {
         "time": "21:36",

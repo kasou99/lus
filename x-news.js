@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-17T15:33:03.236Z",
+  "updatedAt": "2026-07-17T16:32:09.377Z",
   "items": [
     {
-      "time": "23:23",
-      "title": "3連休 関東以西は急な雷雨に注意",
+      "time": "00:38",
+      "title": "メキシコM7.4地震 日本津波なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588343?source=rss",
-      "publishedAt": "2026-07-17T14:23:02.000Z",
-      "xQuery": "3連休 関東以西は急な雷雨に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6588346?source=rss",
+      "publishedAt": "2026-07-17T15:38:55.000Z",
+      "xQuery": "メキシコM7.4地震 日本津波なし"
     },
     {
       "time": "20:23",
