@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-17T22:19:36.243Z",
+  "updatedAt": "2026-07-17T22:49:05.199Z",
   "items": [
     {
       "time": "00:38",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588346?source=rss",
       "publishedAt": "2026-07-17T15:38:55.000Z",
       "xQuery": "メキシコM7.4地震 日本津波なし"
+    },
+    {
+      "time": "07:22",
+      "title": "土砂で住宅倒壊し安否不明 足利市",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588349?source=rss",
+      "publishedAt": "2026-07-17T22:22:28.000Z",
+      "xQuery": "土砂で住宅倒壊し安否不明 足利市"
     },
     {
       "time": "20:23",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588341?source=rss",
       "publishedAt": "2026-07-17T13:40:57.000Z",
       "xQuery": "絞殺後に橋から女性落とされたか"
-    },
-    {
-      "time": "20:26",
-      "title": "ハウスメーカー倒産 9割増の衝撃",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588324?source=rss",
-      "publishedAt": "2026-07-17T11:26:22.000Z",
-      "xQuery": "ハウスメーカー倒産 9割増の衝撃"
     }
   ]
 };
