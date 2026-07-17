@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T18:29:03.031Z",
+  "updatedAt": "2026-07-17T18:56:04.004Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-07-16T21:40:51.000Z"
       },
       {
-        "time": "23:15",
-        "title": "自動車の軸受関連製品を手がけるジェイテクト 亀山工場に「MISUMI floow」を導入",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1TW5wU0FGRjRwRjFOdTNBT0JLTmhMcV9lM3JRRUxzdW9uUVpTU3JqcndxQ0h0RnRfYjRPQUNjUFhNalRoR3ZiQmhxbkZYTjhfSU91SnJnSW5zSzFOUC1BX181SmxieGtLLWJobWFrMlhBbUpyX2FiR0ZHNA?oc=5",
-        "publishedAt": "2026-07-17T14:15:28.000Z"
-      },
-      {
         "time": "05:02",
         "title": "低炭素農法でバングラ耕す 両備システムズ、ITで新風",
         "source": "日刊工業新聞",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-07-16T20:02:27.000Z"
       },
       {
-        "time": "06:11",
-        "title": "オムロン、半導体検査を高度・簡易に エヌビディア技術活用、実用化急ぐ",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FcWhROHZCcGFSal9HZ1c1ckk4NGxtcUMyVjI4R3V3c05YNldpLWlTNXk0ZERHaFZESVBTWmE3dEpicWtzVmJ5bmZhcTVnZEV3NjFOUklKM0NKNkU?oc=5",
-        "publishedAt": "2026-07-16T21:11:15.000Z"
+        "time": "16:53",
+        "title": "製造業向け専門情報メディア「CNC自動旋盤ナビ」を公開",
+        "source": "AppBank 株式会社",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9feHdGQXR5MWk1XzFsSVBaRmpRcTNxa2F5QTFKV2wxMG9EaEw0LVJLaGsyQ1dVdzJOcUlJM1FtSl9fdmNhX2UwUm9FcWM?oc=5",
+        "publishedAt": "2026-07-17T07:53:00.000Z"
+      },
+      {
+        "time": "17:06",
+        "title": "電気モーター市場：タイプ、出力、冷却方式、フェーズ、取付方式、フレーム材質、絶縁クラス、電圧、用途、エンドユーザー産業、販売チャネル別―2026年～2032年の世界市場予測",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yWkpxMWRMUENpNFdEcmFHb2xOeFBZS29VNmo0UGVhaXhUNUcwNWRBQW1BUXlMeDY2QU9id292MFZxdHJydlM3Uzk1UElVZw?oc=5",
+        "publishedAt": "2026-07-17T08:06:00.000Z"
       }
     ],
     "worldHeadlines": [
