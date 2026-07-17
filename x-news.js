@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-17T03:10:34.348Z",
+  "updatedAt": "2026-07-17T04:35:36.235Z",
   "items": [
     {
-      "time": "11:48",
-      "title": "改正皇室典範が可決・成立",
+      "time": "12:35",
+      "title": "東京・千葉・神奈川 大雨危険警報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588245?source=rss",
-      "publishedAt": "2026-07-17T02:48:47.000Z",
-      "xQuery": "改正皇室典範が可決・成立"
+      "url": "https://news.yahoo.co.jp/pickup/6588252?source=rss",
+      "publishedAt": "2026-07-17T03:35:45.000Z",
+      "xQuery": "東京・千葉・神奈川 大雨危険警報"
     },
     {
-      "time": "09:07",
-      "title": "イラン 交渉巡り強硬姿勢崩さず",
+      "time": "11:19",
+      "title": "「フィジカルAI」国産で勝機狙う",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588224?source=rss",
-      "publishedAt": "2026-07-17T00:07:31.000Z",
-      "xQuery": "イラン 交渉巡り強硬姿勢崩さず"
+      "url": "https://news.yahoo.co.jp/pickup/6588240?source=rss",
+      "publishedAt": "2026-07-17T02:19:27.000Z",
+      "xQuery": "「フィジカルAI」国産で勝機狙う"
     },
     {
-      "time": "11:12",
-      "title": "キオクシア 上場来高値から半値に",
+      "time": "13:28",
+      "title": "日経平均 一時3500円以上値下がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588239?source=rss",
-      "publishedAt": "2026-07-17T02:12:32.000Z",
-      "xQuery": "キオクシア 上場来高値から半値に"
+      "url": "https://news.yahoo.co.jp/pickup/6588263?source=rss",
+      "publishedAt": "2026-07-17T04:28:43.000Z",
+      "xQuery": "日経平均 一時3500円以上値下がり"
+    },
+    {
+      "time": "13:09",
+      "title": "キオクシアに2億ドル賠償評決 米",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588255?source=rss",
+      "publishedAt": "2026-07-17T04:09:09.000Z",
+      "xQuery": "キオクシアに2億ドル賠償評決 米"
     },
     {
       "time": "11:28",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588242?source=rss",
       "publishedAt": "2026-07-17T02:28:14.000Z",
       "xQuery": "遺体か 不明5歳男児の捜索中発見"
-    },
-    {
-      "time": "11:31",
-      "title": "中学でスプレーまいたか 23人ケガ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588243?source=rss",
-      "publishedAt": "2026-07-17T02:31:53.000Z",
-      "xQuery": "中学でスプレーまいたか 23人ケガ"
     }
   ]
 };
