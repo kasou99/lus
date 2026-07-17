@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T12:34:13.010Z",
+  "updatedAt": "2026-07-17T13:36:33.464Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -82,6 +82,13 @@
         "publishedAt": "2026-07-16T14:31:43.000Z"
       },
       {
+        "time": "21:36",
+        "title": "英与党 新党首にバーナム氏を選出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588332?source=rss",
+        "publishedAt": "2026-07-17T12:36:20.000Z"
+      },
+      {
         "time": "06:44",
         "title": "米 留学生ビザを原則4年に短縮へ",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588206?source=rss",
         "publishedAt": "2026-07-16T21:33:45.000Z"
-      },
-      {
-        "time": "09:39",
-        "title": "タイの公務員試験 5800人超不正か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588227?source=rss",
-        "publishedAt": "2026-07-17T00:39:01.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,11 +126,11 @@
         "publishedAt": "2026-07-17T02:12:32.000Z"
       },
       {
-        "time": "13:09",
-        "title": "キオクシアに2億ドル賠償評決 米",
+        "time": "21:57",
+        "title": "CAの飲酒問題 JALが再発防止策",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588255?source=rss",
-        "publishedAt": "2026-07-17T04:09:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588334?source=rss",
+        "publishedAt": "2026-07-17T12:57:14.000Z"
       },
       {
         "time": "20:26",
@@ -170,13 +170,6 @@
         "publishedAt": "2026-07-17T08:05:37.000Z"
       },
       {
-        "time": "19:48",
-        "title": "東広島放火殺人 倉本容疑者を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588316?source=rss",
-        "publishedAt": "2026-07-17T10:48:09.000Z"
-      },
-      {
         "time": "20:52",
         "title": "奈良で女性2人遺体 不明の母娘か",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588279?source=rss",
         "publishedAt": "2026-07-17T07:13:24.000Z"
+      },
+      {
+        "time": "21:10",
+        "title": "園児ら64人食中毒 八王子の保育園",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588330?source=rss",
+        "publishedAt": "2026-07-17T12:10:22.000Z"
       }
     ],
     "subsidyHeadlines": [
