@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-17T11:33:43.372Z",
+  "updatedAt": "2026-07-17T12:34:13.535Z",
   "items": [
     {
       "time": "18:00",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "再審見直し がっかりと袴田さん姉"
     },
     {
-      "time": "19:48",
-      "title": "東広島放火殺人 倉本容疑者を逮捕",
+      "time": "19:28",
+      "title": "日銀 政策金利1.0%維持する方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588316?source=rss",
-      "publishedAt": "2026-07-17T10:48:09.000Z",
-      "xQuery": "東広島放火殺人 倉本容疑者を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6588314?source=rss",
+      "publishedAt": "2026-07-17T10:28:19.000Z",
+      "xQuery": "日銀 政策金利1.0%維持する方針"
     },
     {
-      "time": "19:48",
-      "title": "児童のSNS通じた被害増 どう防ぐ",
+      "time": "20:52",
+      "title": "奈良で女性2人遺体 不明の母娘か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588318?source=rss",
-      "publishedAt": "2026-07-17T10:48:03.000Z",
-      "xQuery": "児童のSNS通じた被害増 どう防ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6588327?source=rss",
+      "publishedAt": "2026-07-17T11:52:00.000Z",
+      "xQuery": "奈良で女性2人遺体 不明の母娘か"
     },
     {
       "time": "20:26",
