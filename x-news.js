@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-17T22:49:05.199Z",
+  "updatedAt": "2026-07-17T23:21:03.003Z",
   "items": [
     {
-      "time": "00:38",
-      "title": "メキシコM7.4地震 日本津波なし",
+      "time": "08:01",
+      "title": "ベネズエラ地震 死者5000人超に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588346?source=rss",
-      "publishedAt": "2026-07-17T15:38:55.000Z",
-      "xQuery": "メキシコM7.4地震 日本津波なし"
+      "url": "https://news.yahoo.co.jp/pickup/6588355?source=rss",
+      "publishedAt": "2026-07-17T23:01:09.000Z",
+      "xQuery": "ベネズエラ地震 死者5000人超に"
+    },
+    {
+      "time": "07:42",
+      "title": "米軍 イランの港の監視塔を破壊",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588350?source=rss",
+      "publishedAt": "2026-07-17T22:42:31.000Z",
+      "xQuery": "米軍 イランの港の監視塔を破壊"
     },
     {
       "time": "07:22",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "土砂で住宅倒壊し安否不明 足利市"
     },
     {
-      "time": "20:23",
-      "title": "首相 皇室典範巡り蓮舫氏に苦言",
+      "time": "22:40",
+      "title": "絞殺後に橋から女性落とされたか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588322?source=rss",
-      "publishedAt": "2026-07-17T11:23:43.000Z",
-      "xQuery": "首相 皇室典範巡り蓮舫氏に苦言"
+      "url": "https://news.yahoo.co.jp/pickup/6588341?source=rss",
+      "publishedAt": "2026-07-17T13:40:57.000Z",
+      "xQuery": "絞殺後に橋から女性落とされたか"
     },
     {
       "time": "22:36",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588340?source=rss",
       "publishedAt": "2026-07-17T13:36:21.000Z",
       "xQuery": "クマに攻撃されて20秒 眼球破裂も"
-    },
-    {
-      "time": "22:40",
-      "title": "絞殺後に橋から女性落とされたか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588341?source=rss",
-      "publishedAt": "2026-07-17T13:40:57.000Z",
-      "xQuery": "絞殺後に橋から女性落とされたか"
     }
   ]
 };
