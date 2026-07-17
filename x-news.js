@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-17T00:48:17.067Z",
+  "updatedAt": "2026-07-17T01:40:34.828Z",
   "items": [
     {
-      "time": "09:45",
-      "title": "日経平均 一時2500円以上値下がり",
+      "time": "09:07",
+      "title": "イラン 交渉巡り強硬姿勢崩さず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588229?source=rss",
-      "publishedAt": "2026-07-17T00:45:08.000Z",
-      "xQuery": "日経平均 一時2500円以上値下がり"
+      "url": "https://news.yahoo.co.jp/pickup/6588224?source=rss",
+      "publishedAt": "2026-07-17T00:07:31.000Z",
+      "xQuery": "イラン 交渉巡り強硬姿勢崩さず"
     },
     {
       "time": "08:52",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "関東甲信 今日も局地的な大雨注意"
     },
     {
-      "time": "08:01",
-      "title": "新米価格が高騰一転 今年は下落か",
+      "time": "10:00",
+      "title": "日経平均 一時2700円以上値下がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588215?source=rss",
-      "publishedAt": "2026-07-16T23:01:13.000Z",
-      "xQuery": "新米価格が高騰一転 今年は下落か"
+      "url": "https://news.yahoo.co.jp/pickup/6588230?source=rss",
+      "publishedAt": "2026-07-17T01:00:34.000Z",
+      "xQuery": "日経平均 一時2700円以上値下がり"
+    },
+    {
+      "time": "09:39",
+      "title": "タイの公務員試験 5800人超不正か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588227?source=rss",
+      "publishedAt": "2026-07-17T00:39:01.000Z",
+      "xQuery": "タイの公務員試験 5800人超不正か"
     },
     {
       "time": "09:26",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588225?source=rss",
       "publishedAt": "2026-07-17T00:26:52.000Z",
       "xQuery": "登下校中にクマ 備えにハードル"
-    },
-    {
-      "time": "08:52",
-      "title": "勾留中に男性死亡 浮かんだ経緯",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588223?source=rss",
-      "publishedAt": "2026-07-16T23:52:31.000Z",
-      "xQuery": "勾留中に男性死亡 浮かんだ経緯"
     }
   ]
 };

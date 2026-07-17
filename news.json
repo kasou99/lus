@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-17T00:48:16.406Z",
+  "updatedAt": "2026-07-17T01:40:34.385Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "10:10",
+        "title": "Felo、製造業向けホワイトペーパー「暗黙知を、競争力へ——AIが変える、製造業のナレッジプラットフォーム」を公開",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSRHludm1Tck1PMDNJTThYc1NnRTJ3aGx3bEg2ZlRxRXR1UUQ5UmhzLVlCZURldDBjVGwzOEY5Q25nT2hxOERpb2loaW54WDdNQ2xwQVRmaTd6MS1uV19YcnFwWXdkc0tObmc?oc=5",
+        "publishedAt": "2026-07-17T01:10:02.000Z"
+      },
       {
         "time": "06:40",
         "title": "北陸新幹線延伸ルート、与党「桂川案」選定…経済界の声は？",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yMkxnUzdZTDlTalRGYUZUckc4aDVyanVLN2xPaDdfc3U0Tlh0SFY0MUZuTjU4bDZFYmVfU3NYZXI5ZUNFM2trUE4wSXlheGdKU2JDUDdTSHVIRnUxTldHNDg3Z3BWUngza0JIekRxOEZrWXRyV2tnOTJQSQ?oc=5",
         "publishedAt": "2026-07-16T06:03:39.000Z"
-      },
-      {
-        "time": "15:15",
-        "title": "トルクモーターの世界市場 2026年～2030年",
-        "source": "newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wWTlGc3JKS2xaUlZYNU5SR2lPVlE5bTcyb2dZcWItTnYxd0NvWC1ZOUtoZ2tZVlliMHg2b3JpdW9oVjI5bWVjcGlmTTM5QlU?oc=5",
-        "publishedAt": "2026-07-16T06:15:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "09:45",
-        "title": "日経平均 一時2500円以上値下がり",
+        "time": "10:00",
+        "title": "日経平均 一時2700円以上値下がり",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588229?source=rss",
-        "publishedAt": "2026-07-17T00:45:08.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588230?source=rss",
+        "publishedAt": "2026-07-17T01:00:34.000Z"
       },
       {
         "time": "08:01",
@@ -156,13 +156,6 @@
         "publishedAt": "2026-07-16T23:52:31.000Z"
       },
       {
-        "time": "22:25",
-        "title": "水難事故相次ぐ 10代2人意識不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588192?source=rss",
-        "publishedAt": "2026-07-16T13:25:49.000Z"
-      },
-      {
         "time": "22:33",
         "title": "便入れ殺害疑い 当時夜勤リーダー",
         "source": "Yahoo!ニュース",
@@ -175,6 +168,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588169?source=rss",
         "publishedAt": "2026-07-16T09:23:01.000Z"
+      },
+      {
+        "time": "10:31",
+        "title": "女性2人承諾殺人 被告に懲役10年",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588235?source=rss",
+        "publishedAt": "2026-07-17T01:31:25.000Z"
       },
       {
         "time": "21:21",
