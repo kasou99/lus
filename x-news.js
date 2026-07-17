@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-17T23:21:03.003Z",
+  "updatedAt": "2026-07-17T23:49:34.963Z",
   "items": [
     {
       "time": "08:01",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ベネズエラ地震 死者5000人超に"
     },
     {
-      "time": "07:42",
-      "title": "米軍 イランの港の監視塔を破壊",
+      "time": "08:21",
+      "title": "連休 関東～九州は雷雨と暑さ注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588350?source=rss",
-      "publishedAt": "2026-07-17T22:42:31.000Z",
-      "xQuery": "米軍 イランの港の監視塔を破壊"
+      "url": "https://news.yahoo.co.jp/pickup/6588356?source=rss",
+      "publishedAt": "2026-07-17T23:21:48.000Z",
+      "xQuery": "連休 関東～九州は雷雨と暑さ注意"
     },
     {
       "time": "07:22",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "絞殺後に橋から女性落とされたか"
     },
     {
-      "time": "22:36",
-      "title": "クマに攻撃されて20秒 眼球破裂も",
+      "time": "07:52",
+      "title": "ホンダ社長 北米にもう一つ拠点を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588340?source=rss",
-      "publishedAt": "2026-07-17T13:36:21.000Z",
-      "xQuery": "クマに攻撃されて20秒 眼球破裂も"
+      "url": "https://news.yahoo.co.jp/pickup/6588353?source=rss",
+      "publishedAt": "2026-07-17T22:52:08.000Z",
+      "xQuery": "ホンダ社長 北米にもう一つ拠点を"
     }
   ]
 };
