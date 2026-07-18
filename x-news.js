@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T10:33:16.914Z",
+  "updatedAt": "2026-07-18T11:25:16.657Z",
   "items": [
     {
       "time": "17:41",
@@ -10,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "連休明け 名古屋など40℃迫る予想"
     },
     {
-      "time": "16:59",
-      "title": "米イランが攻撃応酬 原油は大幅高",
+      "time": "18:14",
+      "title": "京アニ事件7年 犠牲者の兄の後悔",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588408?source=rss",
-      "publishedAt": "2026-07-18T07:59:02.000Z",
-      "xQuery": "米イランが攻撃応酬 原油は大幅高"
+      "url": "https://news.yahoo.co.jp/pickup/6588414?source=rss",
+      "publishedAt": "2026-07-18T09:14:26.000Z",
+      "xQuery": "京アニ事件7年 犠牲者の兄の後悔"
+    },
+    {
+      "time": "19:56",
+      "title": "栃木住宅倒壊 心肺停止の女性発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588427?source=rss",
+      "publishedAt": "2026-07-18T10:56:38.000Z",
+      "xQuery": "栃木住宅倒壊 心肺停止の女性発見"
+    },
+    {
+      "time": "20:14",
+      "title": "伐採中に木がぶつかったか 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588429?source=rss",
+      "publishedAt": "2026-07-18T11:14:33.000Z",
+      "xQuery": "伐採中に木がぶつかったか 死亡"
     },
     {
       "time": "19:06",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588420?source=rss",
       "publishedAt": "2026-07-18T10:06:35.000Z",
       "xQuery": "iPhone値上げ 廉価版も10万円台"
-    },
-    {
-      "time": "09:39",
-      "title": "小6が拾った石 国内2例目の発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588363?source=rss",
-      "publishedAt": "2026-07-18T00:39:34.000Z",
-      "xQuery": "小6が拾った石 国内2例目の発見"
-    },
-    {
-      "time": "16:15",
-      "title": "3時間の格闘「幻の魚」釣り上げる",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588404?source=rss",
-      "publishedAt": "2026-07-18T07:15:23.000Z",
-      "xQuery": "3時間の格闘「幻の魚」釣り上げる"
     }
   ]
 };
