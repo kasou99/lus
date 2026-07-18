@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T11:49:46.975Z",
+  "updatedAt": "2026-07-18T12:25:04.785Z",
   "items": [
     {
-      "time": "17:41",
-      "title": "連休明け 名古屋など40℃迫る予想",
+      "time": "20:13",
+      "title": "食品消費税1% 効果に不透明感も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588413?source=rss",
-      "publishedAt": "2026-07-18T08:41:23.000Z",
-      "xQuery": "連休明け 名古屋など40℃迫る予想"
+      "url": "https://news.yahoo.co.jp/pickup/6588426?source=rss",
+      "publishedAt": "2026-07-18T11:13:17.000Z",
+      "xQuery": "食品消費税1% 効果に不透明感も"
     },
     {
       "time": "18:14",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "栃木住宅倒壊 心肺停止の女性発見"
     },
     {
+      "time": "20:49",
+      "title": "刃物持つ女 警察官が空に威嚇射撃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588431?source=rss",
+      "publishedAt": "2026-07-18T11:49:53.000Z",
+      "xQuery": "刃物持つ女 警察官が空に威嚇射撃"
+    },
+    {
       "time": "20:14",
       "title": "伐採中に木がぶつかったか 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6588429?source=rss",
       "publishedAt": "2026-07-18T11:14:33.000Z",
       "xQuery": "伐採中に木がぶつかったか 死亡"
-    },
-    {
-      "time": "19:06",
-      "title": "iPhone値上げ 廉価版も10万円台",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588420?source=rss",
-      "publishedAt": "2026-07-18T10:06:35.000Z",
-      "xQuery": "iPhone値上げ 廉価版も10万円台"
     }
   ]
 };
