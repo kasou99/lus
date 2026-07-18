@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T01:39:00.126Z",
+  "updatedAt": "2026-07-18T03:09:22.676Z",
   "items": [
     {
-      "time": "10:01",
-      "title": "次の英首相バーナム氏 大阪市と縁",
+      "time": "11:20",
+      "title": "土砂で住宅倒壊 夫婦と連絡取れず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588365?source=rss",
-      "publishedAt": "2026-07-18T01:01:58.000Z",
-      "xQuery": "次の英首相バーナム氏 大阪市と縁"
+      "url": "https://news.yahoo.co.jp/pickup/6588370?source=rss",
+      "publishedAt": "2026-07-18T02:20:36.000Z",
+      "xQuery": "土砂で住宅倒壊 夫婦と連絡取れず"
     },
     {
-      "time": "10:03",
-      "title": "ドイツ 仏軍の核演習に初参加へ",
+      "time": "11:41",
+      "title": "京アニ事件現場 今も更地のまま",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588366?source=rss",
-      "publishedAt": "2026-07-18T01:03:17.000Z",
-      "xQuery": "ドイツ 仏軍の核演習に初参加へ"
+      "url": "https://news.yahoo.co.jp/pickup/6588372?source=rss",
+      "publishedAt": "2026-07-18T02:41:23.000Z",
+      "xQuery": "京アニ事件現場 今も更地のまま"
     },
     {
-      "time": "08:51",
-      "title": "奈良女性2人遺体 男「1人で遺棄」",
+      "time": "11:17",
+      "title": "京大の総長選考が波紋 教員ら反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588359?source=rss",
-      "publishedAt": "2026-07-17T23:51:49.000Z",
-      "xQuery": "奈良女性2人遺体 男「1人で遺棄」"
+      "url": "https://news.yahoo.co.jp/pickup/6588369?source=rss",
+      "publishedAt": "2026-07-18T02:17:40.000Z",
+      "xQuery": "京大の総長選考が波紋 教員ら反発"
     },
     {
-      "time": "09:04",
-      "title": "自転車の子乗せ 範囲拡大への警鐘",
+      "time": "10:45",
+      "title": "子の口腔機能発達不全症が増 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588361?source=rss",
-      "publishedAt": "2026-07-18T00:04:32.000Z",
-      "xQuery": "自転車の子乗せ 範囲拡大への警鐘"
+      "url": "https://news.yahoo.co.jp/pickup/6588368?source=rss",
+      "publishedAt": "2026-07-18T01:45:03.000Z",
+      "xQuery": "子の口腔機能発達不全症が増 背景"
     },
     {
-      "time": "09:56",
-      "title": "日本でiPhone値上げ 円安反映か",
+      "time": "09:40",
+      "title": "マンゴーが長野で豊作 趣味で栽培",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588364?source=rss",
-      "publishedAt": "2026-07-18T00:56:30.000Z",
-      "xQuery": "日本でiPhone値上げ 円安反映か"
+      "url": "https://news.yahoo.co.jp/pickup/6588362?source=rss",
+      "publishedAt": "2026-07-18T00:40:06.000Z",
+      "xQuery": "マンゴーが長野で豊作 趣味で栽培"
     }
   ]
 };
