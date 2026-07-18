@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T06:47:13.141Z",
+  "updatedAt": "2026-07-18T07:36:45.788Z",
   "items": [
+    {
+      "time": "16:22",
+      "title": "東南アジア要衝海図 外務省整備へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588402?source=rss",
+      "publishedAt": "2026-07-18T07:22:13.000Z",
+      "xQuery": "東南アジア要衝海図 外務省整備へ"
+    },
     {
       "time": "13:08",
       "title": "米イラン 全面戦争のリスク高まる",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン 全面戦争のリスク高まる"
     },
     {
-      "time": "14:20",
-      "title": "JR東海と静岡県 リニア巡り協定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588387?source=rss",
-      "publishedAt": "2026-07-18T05:20:21.000Z",
-      "xQuery": "JR東海と静岡県 リニア巡り協定"
-    },
-    {
-      "time": "14:03",
-      "title": "米国で寄生虫感染症 レタス関連か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588386?source=rss",
-      "publishedAt": "2026-07-18T05:03:26.000Z",
-      "xQuery": "米国で寄生虫感染症 レタス関連か"
-    },
-    {
-      "time": "15:26",
-      "title": "佐川急便 7万人分の情報漏えいか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588396?source=rss",
-      "publishedAt": "2026-07-18T06:26:09.000Z",
-      "xQuery": "佐川急便 7万人分の情報漏えいか"
-    },
-    {
       "time": "14:14",
       "title": "クマに襲われた男性 目潰しで抵抗",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6588384?source=rss",
       "publishedAt": "2026-07-18T05:14:49.000Z",
       "xQuery": "クマに襲われた男性 目潰しで抵抗"
+    },
+    {
+      "time": "16:25",
+      "title": "救急搬送拒否され苦痛 市を提訴へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588405?source=rss",
+      "publishedAt": "2026-07-18T07:25:15.000Z",
+      "xQuery": "救急搬送拒否され苦痛 市を提訴へ"
+    },
+    {
+      "time": "16:10",
+      "title": "生まれつき髪少ない病 女性の苦悩",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588400?source=rss",
+      "publishedAt": "2026-07-18T07:10:04.000Z",
+      "xQuery": "生まれつき髪少ない病 女性の苦悩"
     }
   ]
 };
