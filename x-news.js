@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T22:21:02.124Z",
+  "updatedAt": "2026-07-18T22:49:05.546Z",
   "items": [
     {
-      "time": "22:40",
-      "title": "19日と20日 北日本は大雨に警戒",
+      "time": "07:30",
+      "title": "関東など梅雨明け秒読み 暑さ警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588445?source=rss",
-      "publishedAt": "2026-07-18T13:40:42.000Z",
-      "xQuery": "19日と20日 北日本は大雨に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6588456?source=rss",
+      "publishedAt": "2026-07-18T22:30:15.000Z",
+      "xQuery": "関東など梅雨明け秒読み 暑さ警戒"
     },
     {
       "time": "20:13",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "建物から男性転落 歩行者巻き込む"
     },
     {
-      "time": "23:43",
-      "title": "ボートから落ち23歳死亡 琵琶湖",
+      "time": "07:31",
+      "title": "バギー転倒し中国女性が重体 沖縄",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588451?source=rss",
-      "publishedAt": "2026-07-18T14:43:02.000Z",
-      "xQuery": "ボートから落ち23歳死亡 琵琶湖"
+      "url": "https://news.yahoo.co.jp/pickup/6588455?source=rss",
+      "publishedAt": "2026-07-18T22:31:55.000Z",
+      "xQuery": "バギー転倒し中国女性が重体 沖縄"
     },
     {
       "time": "23:03",
