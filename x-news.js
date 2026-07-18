@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T04:30:53.934Z",
+  "updatedAt": "2026-07-18T05:47:40.604Z",
   "items": [
     {
-      "time": "11:20",
-      "title": "土砂で住宅倒壊 夫婦と連絡取れず",
+      "time": "13:08",
+      "title": "米イラン 全面戦争のリスク高まる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588370?source=rss",
-      "publishedAt": "2026-07-18T02:20:36.000Z",
-      "xQuery": "土砂で住宅倒壊 夫婦と連絡取れず"
+      "url": "https://news.yahoo.co.jp/pickup/6588381?source=rss",
+      "publishedAt": "2026-07-18T04:08:40.000Z",
+      "xQuery": "米イラン 全面戦争のリスク高まる"
     },
     {
-      "time": "12:54",
-      "title": "海水浴場で25年ぶりの海開き 福島",
+      "time": "14:20",
+      "title": "JR東海と静岡県 リニア巡り協定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588379?source=rss",
-      "publishedAt": "2026-07-18T03:54:57.000Z",
-      "xQuery": "海水浴場で25年ぶりの海開き 福島"
+      "url": "https://news.yahoo.co.jp/pickup/6588387?source=rss",
+      "publishedAt": "2026-07-18T05:20:21.000Z",
+      "xQuery": "JR東海と静岡県 リニア巡り協定"
     },
     {
-      "time": "11:17",
-      "title": "京大の総長選考が波紋 教員ら反発",
+      "time": "13:29",
+      "title": "トランプ氏 W杯米単独開催に意欲",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588369?source=rss",
-      "publishedAt": "2026-07-18T02:17:40.000Z",
-      "xQuery": "京大の総長選考が波紋 教員ら反発"
+      "url": "https://news.yahoo.co.jp/pickup/6588382?source=rss",
+      "publishedAt": "2026-07-18T04:29:25.000Z",
+      "xQuery": "トランプ氏 W杯米単独開催に意欲"
     },
     {
-      "time": "10:45",
-      "title": "子の口腔機能発達不全症が増 背景",
+      "time": "14:03",
+      "title": "米国で寄生虫感染症 レタス関連か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588368?source=rss",
-      "publishedAt": "2026-07-18T01:45:03.000Z",
-      "xQuery": "子の口腔機能発達不全症が増 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6588386?source=rss",
+      "publishedAt": "2026-07-18T05:03:26.000Z",
+      "xQuery": "米国で寄生虫感染症 レタス関連か"
     },
     {
-      "time": "09:39",
-      "title": "小6が拾った石 国内2例目の発見",
+      "time": "13:35",
+      "title": "iPhone値上げは日本だけ?解説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588363?source=rss",
-      "publishedAt": "2026-07-18T00:39:34.000Z",
-      "xQuery": "小6が拾った石 国内2例目の発見"
+      "url": "https://news.yahoo.co.jp/pickup/6588383?source=rss",
+      "publishedAt": "2026-07-18T04:35:49.000Z",
+      "xQuery": "iPhone値上げは日本だけ?解説"
     }
   ]
 };

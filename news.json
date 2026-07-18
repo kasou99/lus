@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-18T04:30:53.033Z",
+  "updatedAt": "2026-07-18T05:47:39.963Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "10:40",
+        "title": "Felo、製造業向けホワイトペーパー「暗黙知を、競争力へ--AIが変える、製造業のナレッジプラットフォーム」を公開",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtc2ZCNmJmU3VVZy1UQTF0R0FlaUpobzg0bFp4dm9kTHBhcG9MV0pVZndaRTVlODNxQzN0bXVhYnRRWGpvN1ZPRDhaN0djMGoxZEZCcWZtZlFNZGJHSGZscjRyb2VwVzBQZXJuN1dfUmdwUHJl?oc=5",
+        "publishedAt": "2026-07-18T01:40:00.000Z"
+      },
       {
         "time": "15:00",
         "title": "金属切断用丸鋸盤の世界市場（2026年～2032年）、市場規模（手動式、半自動式、全自動式）・分析レポートを発表",
@@ -17,13 +24,6 @@
         "publishedAt": "2026-07-17T07:33:45.000Z"
       },
       {
-        "time": "16:53",
-        "title": "製造業向け専門情報メディア「CNC自動旋盤ナビ」を公開",
-        "source": "AppBank 株式会社",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9feHdGQXR5MWk1XzFsSVBaRmpRcTNxa2F5QTFKV2wxMG9EaEw0LVJLaGsyQ1dVdzJOcUlJM1FtSl9fdmNhX2UwUm9FcWM?oc=5",
-        "publishedAt": "2026-07-17T07:53:00.000Z"
-      },
-      {
         "time": "15:12",
         "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
         "source": "sannichi.co.jp",
@@ -31,11 +31,18 @@
         "publishedAt": "2026-07-17T06:12:54.000Z"
       },
       {
-        "time": "14:18",
-        "title": "Felo、製造業向けホワイトペーパー「暗黙知を、競争力へ--AIが変える、製造業のナレッジプラットフォーム」を公開",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44QUxYQjJfMlJ3bGFySDlYQmZNMFA1TWs0ckNHQWhaTUExc0pLQTU5LS1uVC1KR3pOU2lFRFZRSlFZSFhFeElPRlFFT3dXQUt4NG5YTw?oc=5",
-        "publishedAt": "2026-07-17T05:18:42.000Z"
+        "time": "16:53",
+        "title": "製造業向け専門情報メディア「CNC自動旋盤ナビ」を公開",
+        "source": "AppBank 株式会社",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9feHdGQXR5MWk1XzFsSVBaRmpRcTNxa2F5QTFKV2wxMG9EaEw0LVJLaGsyQ1dVdzJOcUlJM1FtSl9fdmNhX2UwUm9FcWM?oc=5",
+        "publishedAt": "2026-07-17T07:53:00.000Z"
+      },
+      {
+        "time": "20:20",
+        "title": "黒沢尻工業、地元企業からデジタル技術学ぶ さらなる拡大へ授業公開 岩手県（岩手めんこいテレビ）",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb1ZoZXhqdHA1NTVJbDJMRHZOUjFURnRqd1dYeWxFTFVhQ09pXzlXYkkyR3U0TGMtSU4tTm1hT1E0SlVfeGdOVUl0UHFxamlrNDY2V0lldEljQXhhMnhHUkJnVzBSM0pYX0JwUFlyQVg3dWJtTEFSR1VoVEVYd3kwV1Fn?oc=5",
+        "publishedAt": "2026-07-17T11:20:00.000Z"
       },
       {
         "time": "14:48",
@@ -50,13 +57,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yWkpxMWRMUENpNFdEcmFHb2xOeFBZS29VNmo0UGVhaXhUNUcwNWRBQW1BUXlMeDY2QU9id292MFZxdHJydlM3Uzk1UElVZw?oc=5",
         "publishedAt": "2026-07-17T08:06:00.000Z"
-      },
-      {
-        "time": "17:48",
-        "title": "【8/18開催】製造現場のAI活用実践ウェビナー 紙帳票のデジタル化から故障を未然に防ぐ異常予兆検知AIまで～AI-O",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiS0FZUTlYYk95anZYUkdkWEs5cnhWVEZCeG9VeEs0ZDhLd0FURXFlelEwWnNMYVBYUDBzNGh3XzBCci1QMERISU10Y25WSF9UMEhnVmxLZXpPRVdXQUtPcXlWZzJKcWZmTXNJQUxWcEdmQVlVS1VvOEp5aw?oc=5",
-        "publishedAt": "2026-07-17T08:48:22.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,18 @@
     ],
     "economyHeadlines": [
       {
-        "time": "19:28",
-        "title": "日銀 政策金利1.0%維持する方針",
+        "time": "14:20",
+        "title": "JR東海と静岡県 リニア巡り協定",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588314?source=rss",
-        "publishedAt": "2026-07-17T10:28:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588387?source=rss",
+        "publishedAt": "2026-07-18T05:20:21.000Z"
+      },
+      {
+        "time": "14:13",
+        "title": "防衛産業 生産能力の増強が課題",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588385?source=rss",
+        "publishedAt": "2026-07-18T05:13:42.000Z"
       },
       {
         "time": "08:18",
@@ -119,11 +126,11 @@
         "publishedAt": "2026-07-17T23:18:12.000Z"
       },
       {
-        "time": "23:43",
-        "title": "万博EVバス問題 大阪メトロ謝罪",
+        "time": "07:52",
+        "title": "ホンダ社長 北米にもう一つ拠点を",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588344?source=rss",
-        "publishedAt": "2026-07-17T14:43:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588353?source=rss",
+        "publishedAt": "2026-07-17T22:52:08.000Z"
       },
       {
         "time": "21:57",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588334?source=rss",
         "publishedAt": "2026-07-17T12:57:14.000Z"
-      },
-      {
-        "time": "07:52",
-        "title": "ホンダ社長 北米にもう一つ拠点を",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588353?source=rss",
-        "publishedAt": "2026-07-17T22:52:08.000Z"
       },
       {
         "time": "20:26",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-07-17T13:40:57.000Z"
       },
       {
-        "time": "08:51",
-        "title": "奈良女性2人遺体 男「1人で遺棄」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588359?source=rss",
-        "publishedAt": "2026-07-17T23:51:49.000Z"
-      },
-      {
         "time": "22:36",
         "title": "クマに攻撃されて20秒 眼球破裂も",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588340?source=rss",
         "publishedAt": "2026-07-17T13:36:21.000Z"
+      },
+      {
+        "time": "14:14",
+        "title": "クマに襲われた男性 目潰しで抵抗",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588384?source=rss",
+        "publishedAt": "2026-07-18T05:14:49.000Z"
       }
     ],
     "subsidyHeadlines": [
