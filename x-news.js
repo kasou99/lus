@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T08:39:51.629Z",
+  "updatedAt": "2026-07-18T09:35:25.098Z",
   "items": [
     {
       "time": "16:59",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東南アジア要衝海図 外務省整備へ"
     },
     {
-      "time": "16:51",
-      "title": "奈良2遺体 1人は容疑者の交際女性",
+      "time": "18:29",
+      "title": "無党派層で「高市離れ」時事調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588409?source=rss",
-      "publishedAt": "2026-07-18T07:51:32.000Z",
-      "xQuery": "奈良2遺体 1人は容疑者の交際女性"
+      "url": "https://news.yahoo.co.jp/pickup/6588419?source=rss",
+      "publishedAt": "2026-07-18T09:29:26.000Z",
+      "xQuery": "無党派層で「高市離れ」時事調査"
     },
     {
       "time": "16:33",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "駐車場で車と衝突 3歳女児が重体"
     },
     {
-      "time": "16:10",
-      "title": "生まれつき髪少ない病 女性の苦悩",
+      "time": "18:06",
+      "title": "東急東横線 中目黒で車両から発煙",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588400?source=rss",
-      "publishedAt": "2026-07-18T07:10:04.000Z",
-      "xQuery": "生まれつき髪少ない病 女性の苦悩"
+      "url": "https://news.yahoo.co.jp/pickup/6588416?source=rss",
+      "publishedAt": "2026-07-18T09:06:45.000Z",
+      "xQuery": "東急東横線 中目黒で車両から発煙"
     }
   ]
 };
