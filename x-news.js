@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T21:49:22.029Z",
+  "updatedAt": "2026-07-18T22:21:02.124Z",
   "items": [
     {
       "time": "22:40",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "食品消費税1% 効果に不透明感も"
     },
     {
+      "time": "07:14",
+      "title": "建物から男性転落 歩行者巻き込む",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588453?source=rss",
+      "publishedAt": "2026-07-18T22:14:33.000Z",
+      "xQuery": "建物から男性転落 歩行者巻き込む"
+    },
+    {
       "time": "23:43",
       "title": "ボートから落ち23歳死亡 琵琶湖",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6588451?source=rss",
       "publishedAt": "2026-07-18T14:43:02.000Z",
       "xQuery": "ボートから落ち23歳死亡 琵琶湖"
-    },
-    {
-      "time": "22:12",
-      "title": "花火大会で火事 落下後に爆発か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588442?source=rss",
-      "publishedAt": "2026-07-18T13:12:19.000Z",
-      "xQuery": "花火大会で火事 落下後に爆発か"
     },
     {
       "time": "23:03",
