@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T13:33:41.511Z",
+  "updatedAt": "2026-07-18T14:29:58.094Z",
   "items": [
     {
       "time": "20:13",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "花火大会で火事 落下後に爆発か"
     },
     {
-      "time": "20:49",
-      "title": "刃物持つ女 警察官が空に威嚇射撃",
+      "time": "23:03",
+      "title": "iPhone値上げ 中古の需要急増か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588431?source=rss",
-      "publishedAt": "2026-07-18T11:49:53.000Z",
-      "xQuery": "刃物持つ女 警察官が空に威嚇射撃"
+      "url": "https://news.yahoo.co.jp/pickup/6588448?source=rss",
+      "publishedAt": "2026-07-18T14:03:34.000Z",
+      "xQuery": "iPhone値上げ 中古の需要急増か"
     },
     {
-      "time": "20:14",
-      "title": "伐採中に木がぶつかったか 死亡",
+      "time": "23:17",
+      "title": "ポケモンGOが10周年 遊び方変化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588429?source=rss",
-      "publishedAt": "2026-07-18T11:14:33.000Z",
-      "xQuery": "伐採中に木がぶつかったか 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6588446?source=rss",
+      "publishedAt": "2026-07-18T14:17:34.000Z",
+      "xQuery": "ポケモンGOが10周年 遊び方変化"
     }
   ]
 };
