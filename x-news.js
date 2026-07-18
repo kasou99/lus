@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T12:50:43.794Z",
+  "updatedAt": "2026-07-18T13:33:41.511Z",
   "items": [
     {
       "time": "20:13",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "京アニ事件7年 犠牲者の兄の後悔"
     },
     {
-      "time": "19:56",
-      "title": "栃木住宅倒壊 心肺停止の女性発見",
+      "time": "22:12",
+      "title": "花火大会で火事 落下後に爆発か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588427?source=rss",
-      "publishedAt": "2026-07-18T10:56:38.000Z",
-      "xQuery": "栃木住宅倒壊 心肺停止の女性発見"
-    },
-    {
-      "time": "21:26",
-      "title": "南アルプス北岳で遭難か 男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588435?source=rss",
-      "publishedAt": "2026-07-18T12:26:22.000Z",
-      "xQuery": "南アルプス北岳で遭難か 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6588442?source=rss",
+      "publishedAt": "2026-07-18T13:12:19.000Z",
+      "xQuery": "花火大会で火事 落下後に爆発か"
     },
     {
       "time": "20:49",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588431?source=rss",
       "publishedAt": "2026-07-18T11:49:53.000Z",
       "xQuery": "刃物持つ女 警察官が空に威嚇射撃"
+    },
+    {
+      "time": "20:14",
+      "title": "伐採中に木がぶつかったか 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588429?source=rss",
+      "publishedAt": "2026-07-18T11:14:33.000Z",
+      "xQuery": "伐採中に木がぶつかったか 死亡"
     }
   ]
 };
