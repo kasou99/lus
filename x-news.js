@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-17T23:49:34.963Z",
+  "updatedAt": "2026-07-18T00:43:58.339Z",
   "items": [
     {
       "time": "08:01",
@@ -10,6 +10,22 @@ window.LUS_X_NEWS = {
       "xQuery": "ベネズエラ地震 死者5000人超に"
     },
     {
+      "time": "08:51",
+      "title": "奈良女性2人遺体 男「1人で遺棄」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588359?source=rss",
+      "publishedAt": "2026-07-17T23:51:49.000Z",
+      "xQuery": "奈良女性2人遺体 男「1人で遺棄」"
+    },
+    {
+      "time": "08:18",
+      "title": "お盆渋滞予測 中央道で最大45km",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588357?source=rss",
+      "publishedAt": "2026-07-17T23:18:12.000Z",
+      "xQuery": "お盆渋滞予測 中央道で最大45km"
+    },
+    {
       "time": "08:21",
       "title": "連休 関東～九州は雷雨と暑さ注意",
       "source": "Yahoo!ニュース",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "連休 関東～九州は雷雨と暑さ注意"
     },
     {
-      "time": "07:22",
-      "title": "土砂で住宅倒壊し安否不明 足利市",
+      "time": "07:19",
+      "title": "Apple 日本でiPhone一斉値上げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588349?source=rss",
-      "publishedAt": "2026-07-17T22:22:28.000Z",
-      "xQuery": "土砂で住宅倒壊し安否不明 足利市"
-    },
-    {
-      "time": "22:40",
-      "title": "絞殺後に橋から女性落とされたか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588341?source=rss",
-      "publishedAt": "2026-07-17T13:40:57.000Z",
-      "xQuery": "絞殺後に橋から女性落とされたか"
-    },
-    {
-      "time": "07:52",
-      "title": "ホンダ社長 北米にもう一つ拠点を",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588353?source=rss",
-      "publishedAt": "2026-07-17T22:52:08.000Z",
-      "xQuery": "ホンダ社長 北米にもう一つ拠点を"
+      "url": "https://news.yahoo.co.jp/pickup/6588348?source=rss",
+      "publishedAt": "2026-07-17T22:19:00.000Z",
+      "xQuery": "Apple 日本でiPhone一斉値上げ"
     }
   ]
 };
