@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T09:35:25.098Z",
+  "updatedAt": "2026-07-18T10:33:16.914Z",
   "items": [
+    {
+      "time": "17:41",
+      "title": "連休明け 名古屋など40℃迫る予想",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588413?source=rss",
+      "publishedAt": "2026-07-18T08:41:23.000Z",
+      "xQuery": "連休明け 名古屋など40℃迫る予想"
+    },
     {
       "time": "16:59",
       "title": "米イランが攻撃応酬 原油は大幅高",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米イランが攻撃応酬 原油は大幅高"
     },
     {
-      "time": "16:22",
-      "title": "東南アジア要衝海図 外務省整備へ",
+      "time": "19:06",
+      "title": "iPhone値上げ 廉価版も10万円台",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588402?source=rss",
-      "publishedAt": "2026-07-18T07:22:13.000Z",
-      "xQuery": "東南アジア要衝海図 外務省整備へ"
+      "url": "https://news.yahoo.co.jp/pickup/6588420?source=rss",
+      "publishedAt": "2026-07-18T10:06:35.000Z",
+      "xQuery": "iPhone値上げ 廉価版も10万円台"
     },
     {
-      "time": "18:29",
-      "title": "無党派層で「高市離れ」時事調査",
+      "time": "09:39",
+      "title": "小6が拾った石 国内2例目の発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588419?source=rss",
-      "publishedAt": "2026-07-18T09:29:26.000Z",
-      "xQuery": "無党派層で「高市離れ」時事調査"
+      "url": "https://news.yahoo.co.jp/pickup/6588363?source=rss",
+      "publishedAt": "2026-07-18T00:39:34.000Z",
+      "xQuery": "小6が拾った石 国内2例目の発見"
     },
     {
-      "time": "16:33",
-      "title": "駐車場で車と衝突 3歳女児が重体",
+      "time": "16:15",
+      "title": "3時間の格闘「幻の魚」釣り上げる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588407?source=rss",
-      "publishedAt": "2026-07-18T07:33:51.000Z",
-      "xQuery": "駐車場で車と衝突 3歳女児が重体"
-    },
-    {
-      "time": "18:06",
-      "title": "東急東横線 中目黒で車両から発煙",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588416?source=rss",
-      "publishedAt": "2026-07-18T09:06:45.000Z",
-      "xQuery": "東急東横線 中目黒で車両から発煙"
+      "url": "https://news.yahoo.co.jp/pickup/6588404?source=rss",
+      "publishedAt": "2026-07-18T07:15:23.000Z",
+      "xQuery": "3時間の格闘「幻の魚」釣り上げる"
     }
   ]
 };
