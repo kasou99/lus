@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T05:47:40.604Z",
+  "updatedAt": "2026-07-18T06:47:13.141Z",
   "items": [
     {
       "time": "13:08",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "JR東海と静岡県 リニア巡り協定"
     },
     {
-      "time": "13:29",
-      "title": "トランプ氏 W杯米単独開催に意欲",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588382?source=rss",
-      "publishedAt": "2026-07-18T04:29:25.000Z",
-      "xQuery": "トランプ氏 W杯米単独開催に意欲"
-    },
-    {
       "time": "14:03",
       "title": "米国で寄生虫感染症 レタス関連か",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米国で寄生虫感染症 レタス関連か"
     },
     {
-      "time": "13:35",
-      "title": "iPhone値上げは日本だけ?解説",
+      "time": "15:26",
+      "title": "佐川急便 7万人分の情報漏えいか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588383?source=rss",
-      "publishedAt": "2026-07-18T04:35:49.000Z",
-      "xQuery": "iPhone値上げは日本だけ?解説"
+      "url": "https://news.yahoo.co.jp/pickup/6588396?source=rss",
+      "publishedAt": "2026-07-18T06:26:09.000Z",
+      "xQuery": "佐川急便 7万人分の情報漏えいか"
+    },
+    {
+      "time": "14:14",
+      "title": "クマに襲われた男性 目潰しで抵抗",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588384?source=rss",
+      "publishedAt": "2026-07-18T05:14:49.000Z",
+      "xQuery": "クマに襲われた男性 目潰しで抵抗"
     }
   ]
 };
