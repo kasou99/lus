@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T07:36:45.788Z",
+  "updatedAt": "2026-07-18T08:39:51.629Z",
   "items": [
+    {
+      "time": "16:59",
+      "title": "米イランが攻撃応酬 原油は大幅高",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588408?source=rss",
+      "publishedAt": "2026-07-18T07:59:02.000Z",
+      "xQuery": "米イランが攻撃応酬 原油は大幅高"
+    },
     {
       "time": "16:22",
       "title": "東南アジア要衝海図 外務省整備へ",
@@ -10,28 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "東南アジア要衝海図 外務省整備へ"
     },
     {
-      "time": "13:08",
-      "title": "米イラン 全面戦争のリスク高まる",
+      "time": "16:51",
+      "title": "奈良2遺体 1人は容疑者の交際女性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588381?source=rss",
-      "publishedAt": "2026-07-18T04:08:40.000Z",
-      "xQuery": "米イラン 全面戦争のリスク高まる"
+      "url": "https://news.yahoo.co.jp/pickup/6588409?source=rss",
+      "publishedAt": "2026-07-18T07:51:32.000Z",
+      "xQuery": "奈良2遺体 1人は容疑者の交際女性"
     },
     {
-      "time": "14:14",
-      "title": "クマに襲われた男性 目潰しで抵抗",
+      "time": "16:33",
+      "title": "駐車場で車と衝突 3歳女児が重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588384?source=rss",
-      "publishedAt": "2026-07-18T05:14:49.000Z",
-      "xQuery": "クマに襲われた男性 目潰しで抵抗"
-    },
-    {
-      "time": "16:25",
-      "title": "救急搬送拒否され苦痛 市を提訴へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588405?source=rss",
-      "publishedAt": "2026-07-18T07:25:15.000Z",
-      "xQuery": "救急搬送拒否され苦痛 市を提訴へ"
+      "url": "https://news.yahoo.co.jp/pickup/6588407?source=rss",
+      "publishedAt": "2026-07-18T07:33:51.000Z",
+      "xQuery": "駐車場で車と衝突 3歳女児が重体"
     },
     {
       "time": "16:10",
