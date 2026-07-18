@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T14:55:32.636Z",
+  "updatedAt": "2026-07-18T15:25:00.876Z",
   "items": [
+    {
+      "time": "22:40",
+      "title": "19日と20日 北日本は大雨に警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588445?source=rss",
+      "publishedAt": "2026-07-18T13:40:42.000Z",
+      "xQuery": "19日と20日 北日本は大雨に警戒"
+    },
     {
       "time": "20:13",
       "title": "食品消費税1% 効果に不透明感も",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588426?source=rss",
       "publishedAt": "2026-07-18T11:13:17.000Z",
       "xQuery": "食品消費税1% 効果に不透明感も"
-    },
-    {
-      "time": "18:14",
-      "title": "京アニ事件7年 犠牲者の兄の後悔",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588414?source=rss",
-      "publishedAt": "2026-07-18T09:14:26.000Z",
-      "xQuery": "京アニ事件7年 犠牲者の兄の後悔"
     },
     {
       "time": "23:43",
