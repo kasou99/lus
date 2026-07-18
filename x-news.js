@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T03:09:22.676Z",
+  "updatedAt": "2026-07-18T04:30:53.934Z",
   "items": [
     {
       "time": "11:20",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "土砂で住宅倒壊 夫婦と連絡取れず"
     },
     {
-      "time": "11:41",
-      "title": "京アニ事件現場 今も更地のまま",
+      "time": "12:54",
+      "title": "海水浴場で25年ぶりの海開き 福島",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588372?source=rss",
-      "publishedAt": "2026-07-18T02:41:23.000Z",
-      "xQuery": "京アニ事件現場 今も更地のまま"
+      "url": "https://news.yahoo.co.jp/pickup/6588379?source=rss",
+      "publishedAt": "2026-07-18T03:54:57.000Z",
+      "xQuery": "海水浴場で25年ぶりの海開き 福島"
     },
     {
       "time": "11:17",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "子の口腔機能発達不全症が増 背景"
     },
     {
-      "time": "09:40",
-      "title": "マンゴーが長野で豊作 趣味で栽培",
+      "time": "09:39",
+      "title": "小6が拾った石 国内2例目の発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588362?source=rss",
-      "publishedAt": "2026-07-18T00:40:06.000Z",
-      "xQuery": "マンゴーが長野で豊作 趣味で栽培"
+      "url": "https://news.yahoo.co.jp/pickup/6588363?source=rss",
+      "publishedAt": "2026-07-18T00:39:34.000Z",
+      "xQuery": "小6が拾った石 国内2例目の発見"
     }
   ]
 };
