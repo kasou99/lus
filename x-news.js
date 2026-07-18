@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T00:43:58.339Z",
+  "updatedAt": "2026-07-18T01:39:00.126Z",
   "items": [
     {
-      "time": "08:01",
-      "title": "ベネズエラ地震 死者5000人超に",
+      "time": "10:01",
+      "title": "次の英首相バーナム氏 大阪市と縁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588355?source=rss",
-      "publishedAt": "2026-07-17T23:01:09.000Z",
-      "xQuery": "ベネズエラ地震 死者5000人超に"
+      "url": "https://news.yahoo.co.jp/pickup/6588365?source=rss",
+      "publishedAt": "2026-07-18T01:01:58.000Z",
+      "xQuery": "次の英首相バーナム氏 大阪市と縁"
+    },
+    {
+      "time": "10:03",
+      "title": "ドイツ 仏軍の核演習に初参加へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588366?source=rss",
+      "publishedAt": "2026-07-18T01:03:17.000Z",
+      "xQuery": "ドイツ 仏軍の核演習に初参加へ"
     },
     {
       "time": "08:51",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "奈良女性2人遺体 男「1人で遺棄」"
     },
     {
-      "time": "08:18",
-      "title": "お盆渋滞予測 中央道で最大45km",
+      "time": "09:04",
+      "title": "自転車の子乗せ 範囲拡大への警鐘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588357?source=rss",
-      "publishedAt": "2026-07-17T23:18:12.000Z",
-      "xQuery": "お盆渋滞予測 中央道で最大45km"
+      "url": "https://news.yahoo.co.jp/pickup/6588361?source=rss",
+      "publishedAt": "2026-07-18T00:04:32.000Z",
+      "xQuery": "自転車の子乗せ 範囲拡大への警鐘"
     },
     {
-      "time": "08:21",
-      "title": "連休 関東～九州は雷雨と暑さ注意",
+      "time": "09:56",
+      "title": "日本でiPhone値上げ 円安反映か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588356?source=rss",
-      "publishedAt": "2026-07-17T23:21:48.000Z",
-      "xQuery": "連休 関東～九州は雷雨と暑さ注意"
-    },
-    {
-      "time": "07:19",
-      "title": "Apple 日本でiPhone一斉値上げ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588348?source=rss",
-      "publishedAt": "2026-07-17T22:19:00.000Z",
-      "xQuery": "Apple 日本でiPhone一斉値上げ"
+      "url": "https://news.yahoo.co.jp/pickup/6588364?source=rss",
+      "publishedAt": "2026-07-18T00:56:30.000Z",
+      "xQuery": "日本でiPhone値上げ 円安反映か"
     }
   ]
 };

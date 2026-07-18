@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T00:43:57.127Z",
+  "updatedAt": "2026-07-18T01:38:59.584Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,11 @@
         "publishedAt": "2026-07-17T03:00:00.000Z"
       },
       {
-        "time": "10:10",
-        "title": "Felo、製造業向けホワイトペーパー「暗黙知を、競争力へ——AIが変える、製造業のナレッジプラットフォーム」を公開",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSRHludm1Tck1PMDNJTThYc1NnRTJ3aGx3bEg2ZlRxRXR1UUQ5UmhzLVlCZURldDBjVGwzOEY5Q25nT2hxOERpb2loaW54WDdNQ2xwQVRmaTd6MS1uV19YcnFwWXdkc0tObmc?oc=5",
-        "publishedAt": "2026-07-17T01:10:02.000Z"
+        "time": "14:18",
+        "title": "Felo、製造業向けホワイトペーパー「暗黙知を、競争力へ--AIが変える、製造業のナレッジプラットフォーム」を公開",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uRGFHZVREQ1VNY1BSN3Nmd2tlV3pUZVpMT0xqYmtOMWc3WVRRY3hnUXI0dFpZa29hTHMwci1Cd3lSQ3FJazk5OHNNZmRSSm1CN3FQUDRUaklhWGliVktWaEJUcHpOQUhkNWRoMzhtSC1kWlBsUVE?oc=5",
+        "publishedAt": "2026-07-17T05:18:42.000Z"
       },
       {
         "time": "23:15",
@@ -61,13 +61,6 @@
     ],
     "worldHeadlines": [
       {
-        "time": "00:38",
-        "title": "メキシコM7.4地震 日本津波なし",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588346?source=rss",
-        "publishedAt": "2026-07-17T15:38:55.000Z"
-      },
-      {
         "time": "07:42",
         "title": "米軍 イランの港の監視塔を破壊",
         "source": "Yahoo!ニュース",
@@ -89,6 +82,13 @@
         "publishedAt": "2026-07-17T23:01:09.000Z"
       },
       {
+        "time": "10:03",
+        "title": "ドイツ 仏軍の核演習に初参加へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588366?source=rss",
+        "publishedAt": "2026-07-18T01:03:17.000Z"
+      },
+      {
         "time": "21:36",
         "title": "英与党 新党首にバーナム氏を選出",
         "source": "Yahoo!ニュース",
@@ -96,11 +96,11 @@
         "publishedAt": "2026-07-17T12:36:20.000Z"
       },
       {
-        "time": "06:44",
-        "title": "米 留学生ビザを原則4年に短縮へ",
+        "time": "10:01",
+        "title": "次の英首相バーナム氏 大阪市と縁",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588207?source=rss",
-        "publishedAt": "2026-07-16T21:44:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588365?source=rss",
+        "publishedAt": "2026-07-18T01:01:58.000Z"
       }
     ],
     "economyHeadlines": [
