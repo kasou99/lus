@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T22:49:05.546Z",
+  "updatedAt": "2026-07-18T23:22:08.297Z",
   "items": [
+    {
+      "time": "08:16",
+      "title": "米イラン 覚書1カ月で有名無実化",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588461?source=rss",
+      "publishedAt": "2026-07-18T23:16:09.000Z",
+      "xQuery": "米イラン 覚書1カ月で有名無実化"
+    },
     {
       "time": "07:30",
       "title": "関東など梅雨明け秒読み 暑さ警戒",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588456?source=rss",
       "publishedAt": "2026-07-18T22:30:15.000Z",
       "xQuery": "関東など梅雨明け秒読み 暑さ警戒"
-    },
-    {
-      "time": "20:13",
-      "title": "食品消費税1% 効果に不透明感も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588426?source=rss",
-      "publishedAt": "2026-07-18T11:13:17.000Z",
-      "xQuery": "食品消費税1% 効果に不透明感も"
     },
     {
       "time": "07:14",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "建物から男性転落 歩行者巻き込む"
     },
     {
+      "time": "07:59",
+      "title": "30m滑落 砂防ダム調査中に死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588459?source=rss",
+      "publishedAt": "2026-07-18T22:59:19.000Z",
+      "xQuery": "30m滑落 砂防ダム調査中に死亡"
+    },
+    {
       "time": "07:31",
       "title": "バギー転倒し中国女性が重体 沖縄",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6588455?source=rss",
       "publishedAt": "2026-07-18T22:31:55.000Z",
       "xQuery": "バギー転倒し中国女性が重体 沖縄"
-    },
-    {
-      "time": "23:03",
-      "title": "iPhone値上げ 中古の需要急増か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588448?source=rss",
-      "publishedAt": "2026-07-18T14:03:34.000Z",
-      "xQuery": "iPhone値上げ 中古の需要急増か"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T22:49:04.637Z",
+  "updatedAt": "2026-07-18T23:22:07.762Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "08:16",
+        "title": "米イラン 覚書1カ月で有名無実化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588461?source=rss",
+        "publishedAt": "2026-07-18T23:16:09.000Z"
+      },
+      {
         "time": "13:08",
         "title": "米イラン 全面戦争のリスク高まる",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588366?source=rss",
         "publishedAt": "2026-07-18T01:03:17.000Z"
-      },
-      {
-        "time": "21:36",
-        "title": "英与党 新党首にバーナム氏を選出",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588332?source=rss",
-        "publishedAt": "2026-07-17T12:36:20.000Z"
       },
       {
         "time": "10:01",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-07-18T22:14:33.000Z"
       },
       {
+        "time": "07:59",
+        "title": "30m滑落 砂防ダム調査中に死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588459?source=rss",
+        "publishedAt": "2026-07-18T22:59:19.000Z"
+      },
+      {
         "time": "23:43",
         "title": "ボートから落ち23歳死亡 琵琶湖",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588431?source=rss",
         "publishedAt": "2026-07-18T11:49:53.000Z"
-      },
-      {
-        "time": "20:14",
-        "title": "伐採中に木がぶつかったか 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588429?source=rss",
-        "publishedAt": "2026-07-18T11:14:33.000Z"
       }
     ],
     "subsidyHeadlines": [
