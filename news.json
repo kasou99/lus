@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T17:24:20.363Z",
+  "updatedAt": "2026-07-18T17:50:24.833Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-07-18T03:02:00.000Z"
       },
       {
-        "time": "10:40",
-        "title": "Felo、製造業向けホワイトペーパー「暗黙知を、競争力へ--AIが変える、製造業のナレッジプラットフォーム」を公開",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtc2ZCNmJmU3VVZy1UQTF0R0FlaUpobzg0bFp4dm9kTHBhcG9MV0pVZndaRTVlODNxQzN0bXVhYnRRWGpvN1ZPRDhaN0djMGoxZEZCcWZtZlFNZGJHSGZscjRyb2VwVzBQZXJuN1dfUmdwUHJl?oc=5",
-        "publishedAt": "2026-07-18T01:40:00.000Z"
-      },
-      {
         "time": "17:59",
         "title": "帆船や飛行機の模型展 北九州市で開催",
         "source": "ｄメニューニュース",
@@ -38,11 +31,11 @@
         "publishedAt": "2026-07-18T08:59:00.000Z"
       },
       {
-        "time": "02:30",
-        "title": "AIマーケティング事業における製造業向け専門情報メディア「CNC自動旋盤ナビ」公開のお知らせ",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kaDZ2UFVZaEdZTlVKVlVKSUpYd2Q0RE9COUgzVmU4bTZ3QUR6Z0owd1M4S1N3YWkxMTJRWVR1RmZxRldkQ1RSY1ZYVHUxT0FkZFZ2WEVKVGdjN3hYZzgzVDdKNUd5aTV0WFM1R2lpeFYwTS10eTkxbWpscw?oc=5",
-        "publishedAt": "2026-07-17T17:30:42.000Z"
+        "time": "10:40",
+        "title": "Felo、製造業向けホワイトペーパー「暗黙知を、競争力へ--AIが変える、製造業のナレッジプラットフォーム」を公開",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtc2ZCNmJmU3VVZy1UQTF0R0FlaUpobzg0bFp4dm9kTHBhcG9MV0pVZndaRTVlODNxQzN0bXVhYnRRWGpvN1ZPRDhaN0djMGoxZEZCcWZtZlFNZGJHSGZscjRyb2VwVzBQZXJuN1dfUmdwUHJl?oc=5",
+        "publishedAt": "2026-07-18T01:40:00.000Z"
       },
       {
         "time": "20:13",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588408?source=rss",
         "publishedAt": "2026-07-18T07:59:02.000Z"
+      },
+      {
+        "time": "14:20",
+        "title": "JR東海と静岡県 リニア巡り協定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588387?source=rss",
+        "publishedAt": "2026-07-18T05:20:21.000Z"
       }
     ],
     "worldHeadlines": [
