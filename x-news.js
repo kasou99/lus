@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T14:29:58.094Z",
+  "updatedAt": "2026-07-18T14:55:32.636Z",
   "items": [
     {
       "time": "20:13",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "京アニ事件7年 犠牲者の兄の後悔"
     },
     {
+      "time": "23:43",
+      "title": "ボートから落ち23歳死亡 琵琶湖",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588451?source=rss",
+      "publishedAt": "2026-07-18T14:43:02.000Z",
+      "xQuery": "ボートから落ち23歳死亡 琵琶湖"
+    },
+    {
       "time": "22:12",
       "title": "花火大会で火事 落下後に爆発か",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588448?source=rss",
       "publishedAt": "2026-07-18T14:03:34.000Z",
       "xQuery": "iPhone値上げ 中古の需要急増か"
-    },
-    {
-      "time": "23:17",
-      "title": "ポケモンGOが10周年 遊び方変化",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588446?source=rss",
-      "publishedAt": "2026-07-18T14:17:34.000Z",
-      "xQuery": "ポケモンGOが10周年 遊び方変化"
     }
   ]
 };
