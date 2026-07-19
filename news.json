@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T13:34:08.217Z",
+  "updatedAt": "2026-07-19T14:32:11.328Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MR214WS1IUFd6RzYzVVhfSEM1WEpUZFhfM01mRXN4dEZmWXlCaVdGUWFSLU85bmhDLUpPM1F6VkhqRzRUMUJKZ1F2VF9oSzA?oc=5",
         "publishedAt": "2026-07-19T04:00:00.000Z"
+      },
+      {
+        "time": "20:47",
+        "title": "産業発展の新たな原動力続々 中国・重慶市沙坪壩区",
+        "source": "新華網日本語",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43eXRxaHk1WFZmUWYwdUJQeU5sT3p4THd6V2lXMVA3VmlEaDVFY2NjTl95T2JtLXNlU2xnVm5fZ2YyT2Fvd09ocnhYZnZCMzdLMWxPOXlGSmFHdnRUOTFydlUwYTNsRi1Fb21nVGlaNjlGTFhuUHZ5LXpSRTk?oc=5",
+        "publishedAt": "2026-07-19T11:47:17.000Z"
       },
       {
         "time": "16:59",
@@ -24,20 +31,6 @@
         "publishedAt": "2026-07-19T03:11:00.000Z"
       },
       {
-        "time": "23:02",
-        "title": "都内のアエロフロート事務所、ロシア人スパイの活動拠点か…身分偽った軍将校がハイテク機器買い付けと報道",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rMGh3amxzV1Y1SXowOXBpcmFrVm9xRk96dGZaak5sSU9KOE5aMzZnRTdtUmhPc3hfWTFZdkZzMWdyajVxVm5rdmhHZlRRSWt2TnBVLUpVMVlXc3NxODVlbVVibmM5M2pXNTdPcXQ5NVAzeWpKam1NU0NDcC1Hc1k?oc=5",
-        "publishedAt": "2026-07-18T14:02:00.000Z"
-      },
-      {
-        "time": "20:46",
-        "title": "産業発展の新たな原動力続々 中国・重慶市沙坪壩区",
-        "source": "ライブドアニュース",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LRDZUSm9pZVRCekdUUEVxZTVRejMteUdrVUlHNFI1cjhCaU9sbFBZQUUyak50Y05EOGJWV1V5OXZVU0lXQUEzX1g1dEp5YmxXVHpwVXpOTk5ZX0NfRTdB?oc=5",
-        "publishedAt": "2026-07-19T11:46:11.000Z"
-      },
-      {
         "time": "20:13",
         "title": "食品消費税1% 効果に不透明感も",
         "source": "Yahoo!ニュース",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-07-18T11:13:17.000Z"
       },
       {
-        "time": "16:59",
-        "title": "米イランが攻撃応酬 原油は大幅高",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588408?source=rss",
-        "publishedAt": "2026-07-18T07:59:02.000Z"
-      },
-      {
         "time": "16:12",
         "title": "ニチレイの障害 物流復旧へ正念場",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588516?source=rss",
         "publishedAt": "2026-07-19T07:12:22.000Z"
+      },
+      {
+        "time": "10:59",
+        "title": "1円玉1億3200万枚量産 背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588483?source=rss",
+        "publishedAt": "2026-07-19T01:59:49.000Z"
+      },
+      {
+        "time": "19:06",
+        "title": "飲食店倒産増 個人店どう生き残る",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588540?source=rss",
+        "publishedAt": "2026-07-19T10:06:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-07-18T11:13:17.000Z"
       },
       {
-        "time": "16:59",
-        "title": "米イランが攻撃応酬 原油は大幅高",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588408?source=rss",
-        "publishedAt": "2026-07-18T07:59:02.000Z"
-      },
-      {
         "time": "16:12",
         "title": "ニチレイの障害 物流復旧へ正念場",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588438?source=rss",
         "publishedAt": "2026-07-18T12:45:26.000Z"
+      },
+      {
+        "time": "14:41",
+        "title": "冷やし甘酒が特産品に 海外輸出も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588506?source=rss",
+        "publishedAt": "2026-07-19T05:41:17.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-07-19T02:07:06.000Z"
       },
       {
-        "time": "18:24",
-        "title": "海水浴場で沈んでいる男性 死亡",
+        "time": "17:11",
+        "title": "SUP中に海転落の大学生死亡 横浜",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588538?source=rss",
-        "publishedAt": "2026-07-19T09:24:40.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588524?source=rss",
+        "publishedAt": "2026-07-19T08:11:16.000Z"
       }
     ],
     "subsidyHeadlines": [

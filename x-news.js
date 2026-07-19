@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T13:34:08.781Z",
+  "updatedAt": "2026-07-19T14:32:12.407Z",
   "items": [
     {
       "time": "21:57",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "連休最終日は猛暑日エリア拡大か"
     },
     {
-      "time": "19:26",
-      "title": "日ウ企業間の技術協力 露が批判",
+      "time": "22:01",
+      "title": "日比海洋交渉入り合意 中国猛反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588544?source=rss",
-      "publishedAt": "2026-07-19T10:26:29.000Z",
-      "xQuery": "日ウ企業間の技術協力 露が批判"
+      "url": "https://news.yahoo.co.jp/pickup/6588562?source=rss",
+      "publishedAt": "2026-07-19T13:01:32.000Z",
+      "xQuery": "日比海洋交渉入り合意 中国猛反発"
     },
     {
       "time": "22:13",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "母娘3人を切りつけ 長男の知人か"
     },
     {
+      "time": "22:46",
+      "title": "クマ3頭と遭遇し襲われる 搬送",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588569?source=rss",
+      "publishedAt": "2026-07-19T13:46:20.000Z",
+      "xQuery": "クマ3頭と遭遇し襲われる 搬送"
+    },
+    {
       "time": "20:48",
       "title": "スポーツカーとSUV衝突 2人死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6588552?source=rss",
       "publishedAt": "2026-07-19T11:48:54.000Z",
       "xQuery": "スポーツカーとSUV衝突 2人死亡"
-    },
-    {
-      "time": "21:17",
-      "title": "斜面を40m滑落 登山客の男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588555?source=rss",
-      "publishedAt": "2026-07-19T12:17:58.000Z",
-      "xQuery": "斜面を40m滑落 登山客の男性死亡"
     }
   ]
 };
