@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T12:25:25.843Z",
+  "updatedAt": "2026-07-19T12:51:23.049Z",
   "items": [
     {
       "time": "20:15",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣支持率が41%に大幅下落 毎日"
     },
     {
-      "time": "20:55",
-      "title": "栃木土砂崩れ 男性1人の遺体発見",
+      "time": "19:26",
+      "title": "日ウ企業間の技術協力 露が批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588553?source=rss",
-      "publishedAt": "2026-07-19T11:55:17.000Z",
-      "xQuery": "栃木土砂崩れ 男性1人の遺体発見"
-    },
-    {
-      "time": "20:11",
-      "title": "倒木で7人搬送「バーンと倒れた」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588548?source=rss",
-      "publishedAt": "2026-07-19T11:11:22.000Z",
-      "xQuery": "倒木で7人搬送「バーンと倒れた」"
+      "url": "https://news.yahoo.co.jp/pickup/6588544?source=rss",
+      "publishedAt": "2026-07-19T10:26:29.000Z",
+      "xQuery": "日ウ企業間の技術協力 露が批判"
     },
     {
       "time": "20:48",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588555?source=rss",
       "publishedAt": "2026-07-19T12:17:58.000Z",
       "xQuery": "斜面を40m滑落 登山客の男性死亡"
+    },
+    {
+      "time": "16:30",
+      "title": "解説滑らか 87歳の男性バスガイド",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588519?source=rss",
+      "publishedAt": "2026-07-19T07:30:49.000Z",
+      "xQuery": "解説滑らか 87歳の男性バスガイド"
     }
   ]
 };
