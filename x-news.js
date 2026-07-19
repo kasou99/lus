@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T23:23:05.607Z",
+  "updatedAt": "2026-07-19T23:50:19.846Z",
   "items": [
     {
       "time": "07:55",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "正面衝突で2人死亡1人重体 逆走か"
     },
     {
-      "time": "21:59",
-      "title": "闇バイト投稿に警告7万件超 25年",
+      "time": "08:25",
+      "title": "3歳男児ひかれ死亡 1人で道路渡る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588560?source=rss",
-      "publishedAt": "2026-07-19T12:59:38.000Z",
-      "xQuery": "闇バイト投稿に警告7万件超 25年"
+      "url": "https://news.yahoo.co.jp/pickup/6588587?source=rss",
+      "publishedAt": "2026-07-19T23:25:49.000Z",
+      "xQuery": "3歳男児ひかれ死亡 1人で道路渡る"
     },
     {
       "time": "23:41",
