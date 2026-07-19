@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T22:49:24.522Z",
+  "updatedAt": "2026-07-19T23:23:05.607Z",
   "items": [
     {
-      "time": "21:57",
-      "title": "連休最終日は猛暑日エリア拡大か",
+      "time": "07:55",
+      "title": "20日も広く猛暑日に 熱中症警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588559?source=rss",
-      "publishedAt": "2026-07-19T12:57:25.000Z",
-      "xQuery": "連休最終日は猛暑日エリア拡大か"
+      "url": "https://news.yahoo.co.jp/pickup/6588584?source=rss",
+      "publishedAt": "2026-07-19T22:55:38.000Z",
+      "xQuery": "20日も広く猛暑日に 熱中症警戒"
     },
     {
-      "time": "22:01",
-      "title": "日比海洋交渉入り合意 中国猛反発",
+      "time": "08:04",
+      "title": "皇室典範 国民の理解得られぬ60%",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588562?source=rss",
-      "publishedAt": "2026-07-19T13:01:32.000Z",
-      "xQuery": "日比海洋交渉入り合意 中国猛反発"
+      "url": "https://news.yahoo.co.jp/pickup/6588583?source=rss",
+      "publishedAt": "2026-07-19T23:04:40.000Z",
+      "xQuery": "皇室典範 国民の理解得られぬ60%"
     },
     {
       "time": "07:16",
