@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T11:30:42.196Z",
+  "updatedAt": "2026-07-19T12:25:25.843Z",
   "items": [
     {
       "time": "20:15",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣支持率が41%に大幅下落 毎日"
     },
     {
+      "time": "20:55",
+      "title": "栃木土砂崩れ 男性1人の遺体発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588553?source=rss",
+      "publishedAt": "2026-07-19T11:55:17.000Z",
+      "xQuery": "栃木土砂崩れ 男性1人の遺体発見"
+    },
+    {
       "time": "20:11",
       "title": "倒木で7人搬送「バーンと倒れた」",
       "source": "Yahoo!ニュース",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "倒木で7人搬送「バーンと倒れた」"
     },
     {
-      "time": "18:24",
-      "title": "海水浴場で沈んでいる男性 死亡",
+      "time": "20:48",
+      "title": "スポーツカーとSUV衝突 2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588538?source=rss",
-      "publishedAt": "2026-07-19T09:24:40.000Z",
-      "xQuery": "海水浴場で沈んでいる男性 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6588552?source=rss",
+      "publishedAt": "2026-07-19T11:48:54.000Z",
+      "xQuery": "スポーツカーとSUV衝突 2人死亡"
     },
     {
-      "time": "17:11",
-      "title": "SUP中に海転落の大学生死亡 横浜",
+      "time": "21:17",
+      "title": "斜面を40m滑落 登山客の男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588524?source=rss",
-      "publishedAt": "2026-07-19T08:11:16.000Z",
-      "xQuery": "SUP中に海転落の大学生死亡 横浜"
-    },
-    {
-      "time": "19:31",
-      "title": "韓国「犬肉禁止」施行へ 現場葛藤",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588543?source=rss",
-      "publishedAt": "2026-07-19T10:31:29.000Z",
-      "xQuery": "韓国「犬肉禁止」施行へ 現場葛藤"
+      "url": "https://news.yahoo.co.jp/pickup/6588555?source=rss",
+      "publishedAt": "2026-07-19T12:17:58.000Z",
+      "xQuery": "斜面を40m滑落 登山客の男性死亡"
     }
   ]
 };

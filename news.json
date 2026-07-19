@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T11:30:41.355Z",
+  "updatedAt": "2026-07-19T12:25:24.809Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-07-18T14:02:00.000Z"
       },
       {
+        "time": "20:46",
+        "title": "産業発展の新たな原動力続々 中国・重慶市沙坪壩区",
+        "source": "ライブドアニュース",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LRDZUSm9pZVRCekdUUEVxZTVRejMteUdrVUlHNFI1cjhCaU9sbFBZQUUyak50Y05EOGJWV1V5OXZVU0lXQUEzX1g1dEp5YmxXVHpwVXpOTk5ZX0NfRTdB?oc=5",
+        "publishedAt": "2026-07-19T11:46:11.000Z"
+      },
+      {
         "time": "20:13",
         "title": "食品消費税1% 効果に不透明感も",
         "source": "Yahoo!ニュース",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588516?source=rss",
         "publishedAt": "2026-07-19T07:12:22.000Z"
-      },
-      {
-        "time": "10:59",
-        "title": "1円玉1億3200万枚量産 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588483?source=rss",
-        "publishedAt": "2026-07-19T01:59:49.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "20:55",
+        "title": "栃木土砂崩れ 男性1人の遺体発見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588553?source=rss",
+        "publishedAt": "2026-07-19T11:55:17.000Z"
+      },
+      {
         "time": "20:11",
         "title": "倒木で7人搬送「バーンと倒れた」",
         "source": "Yahoo!ニュース",
@@ -156,18 +163,18 @@
         "publishedAt": "2026-07-19T11:11:22.000Z"
       },
       {
-        "time": "15:56",
-        "title": "サッカー場で倒木 幼児ら7人搬送",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588514?source=rss",
-        "publishedAt": "2026-07-19T06:56:15.000Z"
-      },
-      {
         "time": "15:49",
         "title": "親子切られ重軽傷 逃走の少年死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588512?source=rss",
         "publishedAt": "2026-07-19T06:49:50.000Z"
+      },
+      {
+        "time": "21:17",
+        "title": "斜面を40m滑落 登山客の男性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588555?source=rss",
+        "publishedAt": "2026-07-19T12:17:58.000Z"
       },
       {
         "time": "11:07",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588538?source=rss",
         "publishedAt": "2026-07-19T09:24:40.000Z"
-      },
-      {
-        "time": "17:11",
-        "title": "SUP中に海転落の大学生死亡 横浜",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588524?source=rss",
-        "publishedAt": "2026-07-19T08:11:16.000Z"
       }
     ],
     "subsidyHeadlines": [
