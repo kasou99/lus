@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T04:39:04.894Z",
+  "updatedAt": "2026-07-19T06:02:54.358Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -96,11 +96,11 @@
         "publishedAt": "2026-07-18T01:03:17.000Z"
       },
       {
-        "time": "10:01",
-        "title": "次の英首相バーナム氏 大阪市と縁",
+        "time": "14:03",
+        "title": "米国で寄生虫感染症 レタス関連か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588365?source=rss",
-        "publishedAt": "2026-07-18T01:01:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588386?source=rss",
+        "publishedAt": "2026-07-18T05:03:26.000Z"
       }
     ],
     "economyHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-07-18T12:45:26.000Z"
       },
       {
-        "time": "08:18",
-        "title": "お盆渋滞予測 中央道で最大45km",
+        "time": "14:41",
+        "title": "冷やし甘酒が特産品に 海外輸出も",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588357?source=rss",
-        "publishedAt": "2026-07-17T23:18:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588506?source=rss",
+        "publishedAt": "2026-07-19T05:41:17.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,11 +156,18 @@
         "publishedAt": "2026-07-19T03:37:19.000Z"
       },
       {
-        "time": "10:43",
-        "title": "クマ出没ほぼない茨城 なぜ銃猟隊",
+        "time": "14:45",
+        "title": "奈良2遺体 不明前日に男と外出",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588482?source=rss",
-        "publishedAt": "2026-07-19T01:43:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588507?source=rss",
+        "publishedAt": "2026-07-19T05:45:56.000Z"
+      },
+      {
+        "time": "14:39",
+        "title": "サッカー場で倒木 10人程度が負傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588505?source=rss",
+        "publishedAt": "2026-07-19T05:39:33.000Z"
       },
       {
         "time": "11:07",
@@ -170,11 +177,11 @@
         "publishedAt": "2026-07-19T02:07:06.000Z"
       },
       {
-        "time": "13:28",
-        "title": "三浦市沖で釣り船炎上 全員避難",
+        "time": "13:47",
+        "title": "警察署長のパワハラ 3度目認定",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588498?source=rss",
-        "publishedAt": "2026-07-19T04:28:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588501?source=rss",
+        "publishedAt": "2026-07-19T04:47:16.000Z"
       },
       {
         "time": "13:26",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588499?source=rss",
         "publishedAt": "2026-07-19T04:26:01.000Z"
-      },
-      {
-        "time": "12:59",
-        "title": "富士山17歳負傷 交代で背負い救助",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588495?source=rss",
-        "publishedAt": "2026-07-19T03:59:09.000Z"
       }
     ],
     "subsidyHeadlines": [

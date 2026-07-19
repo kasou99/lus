@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T04:39:05.607Z",
+  "updatedAt": "2026-07-19T06:02:55.466Z",
   "items": [
     {
-      "time": "12:34",
-      "title": "世界一律の10%代替関税 失効へ",
+      "time": "14:22",
+      "title": "21日から災害級暑さ 名古屋40℃か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588491?source=rss",
-      "publishedAt": "2026-07-19T03:34:46.000Z",
-      "xQuery": "世界一律の10%代替関税 失効へ"
+      "url": "https://news.yahoo.co.jp/pickup/6588502?source=rss",
+      "publishedAt": "2026-07-19T05:22:16.000Z",
+      "xQuery": "21日から災害級暑さ 名古屋40℃か"
     },
     {
-      "time": "12:05",
-      "title": "北海道で大雨 土砂災害に注意",
+      "time": "14:39",
+      "title": "サッカー場で倒木 10人程度が負傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588493?source=rss",
-      "publishedAt": "2026-07-19T03:05:45.000Z",
-      "xQuery": "北海道で大雨 土砂災害に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6588505?source=rss",
+      "publishedAt": "2026-07-19T05:39:33.000Z",
+      "xQuery": "サッカー場で倒木 10人程度が負傷"
     },
     {
-      "time": "13:28",
-      "title": "三浦市沖で釣り船炎上 全員避難",
+      "time": "13:46",
+      "title": "八幡市長産休巡り 海外報道相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588498?source=rss",
-      "publishedAt": "2026-07-19T04:28:31.000Z",
-      "xQuery": "三浦市沖で釣り船炎上 全員避難"
+      "url": "https://news.yahoo.co.jp/pickup/6588500?source=rss",
+      "publishedAt": "2026-07-19T04:46:15.000Z",
+      "xQuery": "八幡市長産休巡り 海外報道相次ぐ"
     },
     {
-      "time": "11:07",
-      "title": "男性転落 巻き込まれた歩行者死亡",
+      "time": "13:47",
+      "title": "警察署長のパワハラ 3度目認定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588485?source=rss",
-      "publishedAt": "2026-07-19T02:07:06.000Z",
-      "xQuery": "男性転落 巻き込まれた歩行者死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6588501?source=rss",
+      "publishedAt": "2026-07-19T04:47:16.000Z",
+      "xQuery": "警察署長のパワハラ 3度目認定"
     },
     {
-      "time": "13:26",
-      "title": "江の島に異変 海開き後も客足鈍く",
+      "time": "11:34",
+      "title": "故人のサブスク 解約苦労する遺族",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588499?source=rss",
-      "publishedAt": "2026-07-19T04:26:01.000Z",
-      "xQuery": "江の島に異変 海開き後も客足鈍く"
+      "url": "https://news.yahoo.co.jp/pickup/6588487?source=rss",
+      "publishedAt": "2026-07-19T02:34:10.000Z",
+      "xQuery": "故人のサブスク 解約苦労する遺族"
     }
   ]
 };
