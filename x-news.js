@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-18T23:49:34.795Z",
+  "updatedAt": "2026-07-19T00:50:02.975Z",
   "items": [
+    {
+      "time": "08:16",
+      "title": "海保向け無人船開発へ 中国に対処",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588460?source=rss",
+      "publishedAt": "2026-07-18T23:16:15.000Z",
+      "xQuery": "海保向け無人船開発へ 中国に対処"
+    },
     {
       "time": "08:16",
       "title": "米イラン 覚書1カ月で有名無実化",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588461?source=rss",
       "publishedAt": "2026-07-18T23:16:09.000Z",
       "xQuery": "米イラン 覚書1カ月で有名無実化"
-    },
-    {
-      "time": "07:30",
-      "title": "関東など梅雨明け秒読み 暑さ警戒",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588456?source=rss",
-      "publishedAt": "2026-07-18T22:30:15.000Z",
-      "xQuery": "関東など梅雨明け秒読み 暑さ警戒"
     },
     {
       "time": "07:14",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "建物から男性転落 歩行者巻き込む"
     },
     {
-      "time": "07:59",
-      "title": "30m滑落 砂防ダム調査中に死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588459?source=rss",
-      "publishedAt": "2026-07-18T22:59:19.000Z",
-      "xQuery": "30m滑落 砂防ダム調査中に死亡"
-    },
-    {
       "time": "07:31",
       "title": "バギー転倒し中国女性が重体 沖縄",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6588455?source=rss",
       "publishedAt": "2026-07-18T22:31:55.000Z",
       "xQuery": "バギー転倒し中国女性が重体 沖縄"
+    },
+    {
+      "time": "09:40",
+      "title": "サカがハット 両軍計10発の乱打戦",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588473?source=rss",
+      "publishedAt": "2026-07-19T00:40:33.000Z",
+      "xQuery": "サカがハット 両軍計10発の乱打戦"
     }
   ]
 };
