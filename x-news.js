@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T00:50:02.975Z",
+  "updatedAt": "2026-07-19T01:39:37.699Z",
   "items": [
     {
       "time": "08:16",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "海保向け無人船開発へ 中国に対処"
     },
     {
+      "time": "09:48",
+      "title": "ウ軍がロシア通販の倉庫を攻撃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588476?source=rss",
+      "publishedAt": "2026-07-19T00:48:12.000Z",
+      "xQuery": "ウ軍がロシア通販の倉庫を攻撃"
+    },
+    {
       "time": "08:16",
       "title": "米イラン 覚書1カ月で有名無実化",
       "source": "Yahoo!ニュース",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン 覚書1カ月で有名無実化"
     },
     {
-      "time": "07:14",
-      "title": "建物から男性転落 歩行者巻き込む",
+      "time": "10:26",
+      "title": "人転落し歩行者巻き込む 2人重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588453?source=rss",
-      "publishedAt": "2026-07-18T22:14:33.000Z",
-      "xQuery": "建物から男性転落 歩行者巻き込む"
+      "url": "https://news.yahoo.co.jp/pickup/6588481?source=rss",
+      "publishedAt": "2026-07-19T01:26:02.000Z",
+      "xQuery": "人転落し歩行者巻き込む 2人重体"
     },
     {
-      "time": "07:31",
-      "title": "バギー転倒し中国女性が重体 沖縄",
+      "time": "10:25",
+      "title": "橋で車が正面衝突 2台とも炎上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588455?source=rss",
-      "publishedAt": "2026-07-18T22:31:55.000Z",
-      "xQuery": "バギー転倒し中国女性が重体 沖縄"
-    },
-    {
-      "time": "09:40",
-      "title": "サカがハット 両軍計10発の乱打戦",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588473?source=rss",
-      "publishedAt": "2026-07-19T00:40:33.000Z",
-      "xQuery": "サカがハット 両軍計10発の乱打戦"
+      "url": "https://news.yahoo.co.jp/pickup/6588480?source=rss",
+      "publishedAt": "2026-07-19T01:25:27.000Z",
+      "xQuery": "橋で車が正面衝突 2台とも炎上"
     }
   ]
 };
