@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T10:05:06.502Z",
+  "updatedAt": "2026-07-19T10:58:33.553Z",
   "items": [
     {
-      "time": "17:46",
-      "title": "21日から東海で40℃超の酷暑日か",
+      "time": "18:50",
+      "title": "政府 カンボジア軍に装備品供与へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588530?source=rss",
-      "publishedAt": "2026-07-19T08:46:04.000Z",
-      "xQuery": "21日から東海で40℃超の酷暑日か"
+      "url": "https://news.yahoo.co.jp/pickup/6588539?source=rss",
+      "publishedAt": "2026-07-19T09:50:17.000Z",
+      "xQuery": "政府 カンボジア軍に装備品供与へ"
     },
     {
-      "time": "18:04",
-      "title": "露 キーウに弾道ミサイル40発以上",
+      "time": "16:41",
+      "title": "3日間漂流の5人救助 インドネシア",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588533?source=rss",
-      "publishedAt": "2026-07-19T09:04:47.000Z",
-      "xQuery": "露 キーウに弾道ミサイル40発以上"
-    },
-    {
-      "time": "15:49",
-      "title": "親子切られ重軽傷 逃走の少年死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588512?source=rss",
-      "publishedAt": "2026-07-19T06:49:50.000Z",
-      "xQuery": "親子切られ重軽傷 逃走の少年死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6588521?source=rss",
+      "publishedAt": "2026-07-19T07:41:49.000Z",
+      "xQuery": "3日間漂流の5人救助 インドネシア"
     },
     {
       "time": "18:24",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "海水浴場で沈んでいる男性 死亡"
     },
     {
-      "time": "13:26",
-      "title": "江の島に異変 海開き後も客足鈍く",
+      "time": "17:11",
+      "title": "SUP中に海転落の大学生死亡 横浜",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588499?source=rss",
-      "publishedAt": "2026-07-19T04:26:01.000Z",
-      "xQuery": "江の島に異変 海開き後も客足鈍く"
+      "url": "https://news.yahoo.co.jp/pickup/6588524?source=rss",
+      "publishedAt": "2026-07-19T08:11:16.000Z",
+      "xQuery": "SUP中に海転落の大学生死亡 横浜"
+    },
+    {
+      "time": "19:31",
+      "title": "韓国「犬肉禁止」施行へ 現場葛藤",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588543?source=rss",
+      "publishedAt": "2026-07-19T10:31:29.000Z",
+      "xQuery": "韓国「犬肉禁止」施行へ 現場葛藤"
     }
   ]
 };

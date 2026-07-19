@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T10:05:05.578Z",
+  "updatedAt": "2026-07-19T10:58:32.434Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MR214WS1IUFd6RzYzVVhfSEM1WEpUZFhfM01mRXN4dEZmWXlCaVdGUWFSLU85bmhDLUpPM1F6VkhqRzRUMUJKZ1F2VF9oSzA?oc=5",
         "publishedAt": "2026-07-19T04:00:00.000Z"
+      },
+      {
+        "time": "16:59",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-07-19T07:59:22.000Z"
       },
       {
         "time": "12:11",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588516?source=rss",
         "publishedAt": "2026-07-19T07:12:22.000Z"
-      },
-      {
-        "time": "10:59",
-        "title": "1円玉1億3200万枚量産 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588483?source=rss",
-        "publishedAt": "2026-07-19T01:59:49.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,13 +75,6 @@
         "publishedAt": "2026-07-19T03:34:46.000Z"
       },
       {
-        "time": "08:16",
-        "title": "米イラン 覚書1カ月で有名無実化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588461?source=rss",
-        "publishedAt": "2026-07-18T23:16:09.000Z"
-      },
-      {
         "time": "18:04",
         "title": "露 キーウに弾道ミサイル40発以上",
         "source": "Yahoo!ニュース",
@@ -89,11 +82,11 @@
         "publishedAt": "2026-07-19T09:04:47.000Z"
       },
       {
-        "time": "09:48",
-        "title": "ウ軍がロシア通販の倉庫を攻撃",
+        "time": "19:26",
+        "title": "日ウ企業間の技術協力 露が批判",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588476?source=rss",
-        "publishedAt": "2026-07-19T00:48:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588544?source=rss",
+        "publishedAt": "2026-07-19T10:26:29.000Z"
       },
       {
         "time": "16:41",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588521?source=rss",
         "publishedAt": "2026-07-19T07:41:49.000Z"
+      },
+      {
+        "time": "19:31",
+        "title": "韓国「犬肉禁止」施行へ 現場葛藤",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588543?source=rss",
+        "publishedAt": "2026-07-19T10:31:29.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-07-19T01:59:49.000Z"
       },
       {
+        "time": "19:06",
+        "title": "飲食店倒産増 個人店どう生き残る",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588540?source=rss",
+        "publishedAt": "2026-07-19T10:06:16.000Z"
+      },
+      {
         "time": "21:45",
         "title": "トレカ人気 ブックオフG株が高値",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588438?source=rss",
         "publishedAt": "2026-07-18T12:45:26.000Z"
-      },
-      {
-        "time": "14:41",
-        "title": "冷やし甘酒が特産品に 海外輸出も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588506?source=rss",
-        "publishedAt": "2026-07-19T05:41:17.000Z"
       }
     ],
     "localHeadlines": [
