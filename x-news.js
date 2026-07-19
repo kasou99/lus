@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T06:02:55.466Z",
+  "updatedAt": "2026-07-19T07:20:54.650Z",
   "items": [
     {
       "time": "14:22",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "21日から災害級暑さ 名古屋40℃か"
     },
     {
-      "time": "14:39",
-      "title": "サッカー場で倒木 10人程度が負傷",
+      "time": "15:56",
+      "title": "サッカー場で倒木 幼児ら7人搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588505?source=rss",
-      "publishedAt": "2026-07-19T05:39:33.000Z",
-      "xQuery": "サッカー場で倒木 10人程度が負傷"
+      "url": "https://news.yahoo.co.jp/pickup/6588514?source=rss",
+      "publishedAt": "2026-07-19T06:56:15.000Z",
+      "xQuery": "サッカー場で倒木 幼児ら7人搬送"
     },
     {
-      "time": "13:46",
-      "title": "八幡市長産休巡り 海外報道相次ぐ",
+      "time": "15:23",
+      "title": "NY市長 イスラエル首相拘束検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588500?source=rss",
-      "publishedAt": "2026-07-19T04:46:15.000Z",
-      "xQuery": "八幡市長産休巡り 海外報道相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6588509?source=rss",
+      "publishedAt": "2026-07-19T06:23:54.000Z",
+      "xQuery": "NY市長 イスラエル首相拘束検討"
     },
     {
-      "time": "13:47",
-      "title": "警察署長のパワハラ 3度目認定",
+      "time": "15:49",
+      "title": "親子切られ重軽傷 逃走の少年死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588501?source=rss",
-      "publishedAt": "2026-07-19T04:47:16.000Z",
-      "xQuery": "警察署長のパワハラ 3度目認定"
+      "url": "https://news.yahoo.co.jp/pickup/6588512?source=rss",
+      "publishedAt": "2026-07-19T06:49:50.000Z",
+      "xQuery": "親子切られ重軽傷 逃走の少年死亡"
     },
     {
-      "time": "11:34",
-      "title": "故人のサブスク 解約苦労する遺族",
+      "time": "14:45",
+      "title": "奈良2遺体 不明前日に男と外出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588487?source=rss",
-      "publishedAt": "2026-07-19T02:34:10.000Z",
-      "xQuery": "故人のサブスク 解約苦労する遺族"
+      "url": "https://news.yahoo.co.jp/pickup/6588507?source=rss",
+      "publishedAt": "2026-07-19T05:45:56.000Z",
+      "xQuery": "奈良2遺体 不明前日に男と外出"
     }
   ]
 };
