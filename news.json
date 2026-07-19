@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T21:49:26.138Z",
+  "updatedAt": "2026-07-19T22:22:06.193Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-19T20:03:36.000Z"
       },
       {
-        "time": "12:11",
-        "title": "ロシアのミサイルの90％に日本製部品…東京の真ん中に「スパイ基地」",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXFTS1kzcVhBUzNuMzBCUUUtcHZGeWZ6WmdXcFMzM2RGZHNjVXAxbTBfLTlFWTg0eml0TExFV1JZUV9jYnJheDg5VWl6RVJpekFfMlc4VmQ3Nmd3OUhKZlowQWpvOGprSjN5b3JiVjRIeWl0ZWVyOEZMOVQ5QVI2VG1ydW9WQWQ3MTRIRNIBjAFBVV95cUxPcXFTS1kzcVhBUzNuMzBCUUUtcHZGeWZ6WmdXcFMzM2RGZHNjVXAxbTBfLTlFWTg0eml0TExFV1JZUV9jYnJheDg5VWl6RVJpekFfMlc4VmQ3Nmd3OUhKZlowQWpvOGprSjN5b3JiVjRIeWl0ZWVyOEZMOVQ5QVI2VG1ydW9WQWQ3MTRIRA?oc=5",
-        "publishedAt": "2026-07-19T03:11:00.000Z"
-      },
-      {
         "time": "11:01",
         "title": "世界首位から転落、日本車はあとどれだけ持ちこたえられるのか―中国メディア",
         "source": "Record China",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YdHNSX2g4ZnUzQTJWSm0xOUhOOUowT3ViQ2k5Qm9Mb0wtdkxncGZ2MmgzRlBKZFkwSXQyb1hVNTRtSEZ2XzUwTTY1OHVudlJwbEQyR05zMmtjblM1?oc=5",
         "publishedAt": "2026-07-19T02:01:21.000Z"
+      },
+      {
+        "time": "12:11",
+        "title": "ロシアのミサイルの90％に日本製部品…東京の真ん中に「スパイ基地」",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXFTS1kzcVhBUzNuMzBCUUUtcHZGeWZ6WmdXcFMzM2RGZHNjVXAxbTBfLTlFWTg0eml0TExFV1JZUV9jYnJheDg5VWl6RVJpekFfMlc4VmQ3Nmd3OUhKZlowQWpvOGprSjN5b3JiVjRIeWl0ZWVyOEZMOVQ5QVI2VG1ydW9WQWQ3MTRIRNIBjAFBVV95cUxPcXFTS1kzcVhBUzNuMzBCUUUtcHZGeWZ6WmdXcFMzM2RGZHNjVXAxbTBfLTlFWTg0eml0TExFV1JZUV9jYnJheDg5VWl6RVJpekFfMlc4VmQ3Nmd3OUhKZlowQWpvOGprSjN5b3JiVjRIeWl0ZWVyOEZMOVQ5QVI2VG1ydW9WQWQ3MTRIRA?oc=5",
+        "publishedAt": "2026-07-19T03:11:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:16",
+        "title": "正面衝突で2人死亡1人重体 逆走か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588578?source=rss",
+        "publishedAt": "2026-07-19T22:16:27.000Z"
+      },
+      {
         "time": "20:55",
         "title": "栃木土砂崩れ 男性1人の遺体発見",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588563?source=rss",
         "publishedAt": "2026-07-19T13:13:27.000Z"
-      },
-      {
-        "time": "20:11",
-        "title": "倒木で7人搬送「バーンと倒れた」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588548?source=rss",
-        "publishedAt": "2026-07-19T11:11:22.000Z"
       },
       {
         "time": "23:41",
