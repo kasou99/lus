@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T22:22:07.228Z",
+  "updatedAt": "2026-07-19T22:49:24.522Z",
   "items": [
     {
       "time": "21:57",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "日比海洋交渉入り合意 中国猛反発"
     },
     {
+      "time": "07:16",
+      "title": "正面衝突で2人死亡1人重体 逆走か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588578?source=rss",
+      "publishedAt": "2026-07-19T22:16:27.000Z",
+      "xQuery": "正面衝突で2人死亡1人重体 逆走か"
+    },
+    {
       "time": "21:59",
       "title": "闇バイト投稿に警告7万件超 25年",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588573?source=rss",
       "publishedAt": "2026-07-19T14:41:18.000Z",
       "xQuery": "老舗酒造会社「越後鶴亀」全焼か"
-    },
-    {
-      "time": "22:46",
-      "title": "クマ3頭と遭遇し襲われる 搬送",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588569?source=rss",
-      "publishedAt": "2026-07-19T13:46:20.000Z",
-      "xQuery": "クマ3頭と遭遇し襲われる 搬送"
     }
   ]
 };
