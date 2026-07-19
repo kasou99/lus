@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-07-19T03:11:30.390Z",
+  "updatedAt": "2026-07-19T04:39:04.894Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:00",
+        "title": "HVAC制御盤の世界市場（2026年～2032年）、市場規模（プログラマブル制御盤、非プログラマブル制御盤）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MR214WS1IUFd6RzYzVVhfSEM1WEpUZFhfM01mRXN4dEZmWXlCaVdGUWFSLU85bmhDLUpPM1F6VkhqRzRUMUJKZ1F2VF9oSzA?oc=5",
+        "publishedAt": "2026-07-19T04:00:00.000Z"
+      },
+      {
+        "time": "12:11",
+        "title": "ロシアのミサイルの90％に日本製部品…東京の真ん中に「スパイ基地」",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXFTS1kzcVhBUzNuMzBCUUUtcHZGeWZ6WmdXcFMzM2RGZHNjVXAxbTBfLTlFWTg0eml0TExFV1JZUV9jYnJheDg5VWl6RVJpekFfMlc4VmQ3Nmd3OUhKZlowQWpvOGprSjN5b3JiVjRIeWl0ZWVyOEZMOVQ5QVI2VG1ydW9WQWQ3MTRIRNIBjAFBVV95cUxPcXFTS1kzcVhBUzNuMzBCUUUtcHZGeWZ6WmdXcFMzM2RGZHNjVXAxbTBfLTlFWTg0eml0TExFV1JZUV9jYnJheDg5VWl6RVJpekFfMlc4VmQ3Nmd3OUhKZlowQWpvOGprSjN5b3JiVjRIeWl0ZWVyOEZMOVQ5QVI2VG1ydW9WQWQ3MTRIRA?oc=5",
+        "publishedAt": "2026-07-19T03:11:00.000Z"
+      },
       {
         "time": "23:02",
         "title": "都内のアエロフロート事務所、ロシア人スパイの活動拠点か…身分偽った軍将校がハイテク機器買い付けと報道",
@@ -43,23 +57,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588408?source=rss",
         "publishedAt": "2026-07-18T07:59:02.000Z"
-      },
-      {
-        "time": "14:20",
-        "title": "JR東海と静岡県 リニア巡り協定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588387?source=rss",
-        "publishedAt": "2026-07-18T05:20:21.000Z"
-      },
-      {
-        "time": "10:59",
-        "title": "1円玉1億3200万枚量産 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588483?source=rss",
-        "publishedAt": "2026-07-19T01:59:49.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "12:34",
+        "title": "世界一律の10%代替関税 失効へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588491?source=rss",
+        "publishedAt": "2026-07-19T03:34:46.000Z"
+      },
       {
         "time": "08:16",
         "title": "米イラン 覚書1カ月で有名無実化",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588476?source=rss",
         "publishedAt": "2026-07-19T00:48:12.000Z"
-      },
-      {
-        "time": "08:01",
-        "title": "ベネズエラ地震 死者5000人超に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588355?source=rss",
-        "publishedAt": "2026-07-17T23:01:09.000Z"
       },
       {
         "time": "10:03",
@@ -149,11 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "10:25",
-        "title": "橋で車が正面衝突 2台とも炎上",
+        "time": "12:37",
+        "title": "土砂崩れで住宅倒壊 女性1人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588480?source=rss",
-        "publishedAt": "2026-07-19T01:25:27.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588494?source=rss",
+        "publishedAt": "2026-07-19T03:37:19.000Z"
+      },
+      {
+        "time": "10:43",
+        "title": "クマ出没ほぼない茨城 なぜ銃猟隊",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588482?source=rss",
+        "publishedAt": "2026-07-19T01:43:04.000Z"
       },
       {
         "time": "11:07",
@@ -163,32 +170,25 @@
         "publishedAt": "2026-07-19T02:07:06.000Z"
       },
       {
-        "time": "07:59",
-        "title": "30m滑落 砂防ダム調査中に死亡",
+        "time": "13:28",
+        "title": "三浦市沖で釣り船炎上 全員避難",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588459?source=rss",
-        "publishedAt": "2026-07-18T22:59:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588498?source=rss",
+        "publishedAt": "2026-07-19T04:28:31.000Z"
       },
       {
-        "time": "23:43",
-        "title": "ボートから落ち23歳死亡 琵琶湖",
+        "time": "13:26",
+        "title": "江の島に異変 海開き後も客足鈍く",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588451?source=rss",
-        "publishedAt": "2026-07-18T14:43:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588499?source=rss",
+        "publishedAt": "2026-07-19T04:26:01.000Z"
       },
       {
-        "time": "07:31",
-        "title": "バギー転倒し中国女性が重体 沖縄",
+        "time": "12:59",
+        "title": "富士山17歳負傷 交代で背負い救助",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588455?source=rss",
-        "publishedAt": "2026-07-18T22:31:55.000Z"
-      },
-      {
-        "time": "10:43",
-        "title": "クマ出没ほぼない茨城 なぜ銃猟隊",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588482?source=rss",
-        "publishedAt": "2026-07-19T01:43:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588495?source=rss",
+        "publishedAt": "2026-07-19T03:59:09.000Z"
       }
     ],
     "subsidyHeadlines": [

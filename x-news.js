@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T03:11:31.026Z",
+  "updatedAt": "2026-07-19T04:39:05.607Z",
   "items": [
+    {
+      "time": "12:34",
+      "title": "世界一律の10%代替関税 失効へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588491?source=rss",
+      "publishedAt": "2026-07-19T03:34:46.000Z",
+      "xQuery": "世界一律の10%代替関税 失効へ"
+    },
     {
       "time": "12:05",
       "title": "北海道で大雨 土砂災害に注意",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "北海道で大雨 土砂災害に注意"
     },
     {
-      "time": "09:34",
-      "title": "延長国会も綱渡り 審議実質3日間",
+      "time": "13:28",
+      "title": "三浦市沖で釣り船炎上 全員避難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588472?source=rss",
-      "publishedAt": "2026-07-19T00:34:12.000Z",
-      "xQuery": "延長国会も綱渡り 審議実質3日間"
+      "url": "https://news.yahoo.co.jp/pickup/6588498?source=rss",
+      "publishedAt": "2026-07-19T04:28:31.000Z",
+      "xQuery": "三浦市沖で釣り船炎上 全員避難"
     },
     {
       "time": "11:07",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "男性転落 巻き込まれた歩行者死亡"
     },
     {
-      "time": "11:10",
-      "title": "夏休み中の「学校開放」現場困惑",
+      "time": "13:26",
+      "title": "江の島に異変 海開き後も客足鈍く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588484?source=rss",
-      "publishedAt": "2026-07-19T02:10:29.000Z",
-      "xQuery": "夏休み中の「学校開放」現場困惑"
-    },
-    {
-      "time": "10:59",
-      "title": "1円玉1億3200万枚量産 背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588483?source=rss",
-      "publishedAt": "2026-07-19T01:59:49.000Z",
-      "xQuery": "1円玉1億3200万枚量産 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6588499?source=rss",
+      "publishedAt": "2026-07-19T04:26:01.000Z",
+      "xQuery": "江の島に異変 海開き後も客足鈍く"
     }
   ]
 };
