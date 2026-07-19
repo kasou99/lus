@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T01:39:37.699Z",
+  "updatedAt": "2026-07-19T03:11:31.026Z",
   "items": [
     {
-      "time": "08:16",
-      "title": "海保向け無人船開発へ 中国に対処",
+      "time": "12:05",
+      "title": "北海道で大雨 土砂災害に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588460?source=rss",
-      "publishedAt": "2026-07-18T23:16:15.000Z",
-      "xQuery": "海保向け無人船開発へ 中国に対処"
+      "url": "https://news.yahoo.co.jp/pickup/6588493?source=rss",
+      "publishedAt": "2026-07-19T03:05:45.000Z",
+      "xQuery": "北海道で大雨 土砂災害に注意"
     },
     {
-      "time": "09:48",
-      "title": "ウ軍がロシア通販の倉庫を攻撃",
+      "time": "09:34",
+      "title": "延長国会も綱渡り 審議実質3日間",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588476?source=rss",
-      "publishedAt": "2026-07-19T00:48:12.000Z",
-      "xQuery": "ウ軍がロシア通販の倉庫を攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6588472?source=rss",
+      "publishedAt": "2026-07-19T00:34:12.000Z",
+      "xQuery": "延長国会も綱渡り 審議実質3日間"
     },
     {
-      "time": "08:16",
-      "title": "米イラン 覚書1カ月で有名無実化",
+      "time": "11:07",
+      "title": "男性転落 巻き込まれた歩行者死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588461?source=rss",
-      "publishedAt": "2026-07-18T23:16:09.000Z",
-      "xQuery": "米イラン 覚書1カ月で有名無実化"
+      "url": "https://news.yahoo.co.jp/pickup/6588485?source=rss",
+      "publishedAt": "2026-07-19T02:07:06.000Z",
+      "xQuery": "男性転落 巻き込まれた歩行者死亡"
     },
     {
-      "time": "10:26",
-      "title": "人転落し歩行者巻き込む 2人重体",
+      "time": "11:10",
+      "title": "夏休み中の「学校開放」現場困惑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588481?source=rss",
-      "publishedAt": "2026-07-19T01:26:02.000Z",
-      "xQuery": "人転落し歩行者巻き込む 2人重体"
+      "url": "https://news.yahoo.co.jp/pickup/6588484?source=rss",
+      "publishedAt": "2026-07-19T02:10:29.000Z",
+      "xQuery": "夏休み中の「学校開放」現場困惑"
     },
     {
-      "time": "10:25",
-      "title": "橋で車が正面衝突 2台とも炎上",
+      "time": "10:59",
+      "title": "1円玉1億3200万枚量産 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588480?source=rss",
-      "publishedAt": "2026-07-19T01:25:27.000Z",
-      "xQuery": "橋で車が正面衝突 2台とも炎上"
+      "url": "https://news.yahoo.co.jp/pickup/6588483?source=rss",
+      "publishedAt": "2026-07-19T01:59:49.000Z",
+      "xQuery": "1円玉1億3200万枚量産 背景"
     }
   ]
 };
