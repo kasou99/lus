@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T10:58:33.553Z",
+  "updatedAt": "2026-07-19T11:30:42.196Z",
   "items": [
     {
-      "time": "18:50",
-      "title": "政府 カンボジア軍に装備品供与へ",
+      "time": "20:15",
+      "title": "内閣支持率が41%に大幅下落 毎日",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588539?source=rss",
-      "publishedAt": "2026-07-19T09:50:17.000Z",
-      "xQuery": "政府 カンボジア軍に装備品供与へ"
+      "url": "https://news.yahoo.co.jp/pickup/6588550?source=rss",
+      "publishedAt": "2026-07-19T11:15:04.000Z",
+      "xQuery": "内閣支持率が41%に大幅下落 毎日"
     },
     {
-      "time": "16:41",
-      "title": "3日間漂流の5人救助 インドネシア",
+      "time": "20:11",
+      "title": "倒木で7人搬送「バーンと倒れた」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588521?source=rss",
-      "publishedAt": "2026-07-19T07:41:49.000Z",
-      "xQuery": "3日間漂流の5人救助 インドネシア"
+      "url": "https://news.yahoo.co.jp/pickup/6588548?source=rss",
+      "publishedAt": "2026-07-19T11:11:22.000Z",
+      "xQuery": "倒木で7人搬送「バーンと倒れた」"
     },
     {
       "time": "18:24",
