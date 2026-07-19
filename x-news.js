@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T07:20:54.650Z",
+  "updatedAt": "2026-07-19T08:18:48.628Z",
   "items": [
     {
-      "time": "14:22",
-      "title": "21日から災害級暑さ 名古屋40℃か",
+      "time": "16:12",
+      "title": "ニチレイの障害 物流復旧へ正念場",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588502?source=rss",
-      "publishedAt": "2026-07-19T05:22:16.000Z",
-      "xQuery": "21日から災害級暑さ 名古屋40℃か"
+      "url": "https://news.yahoo.co.jp/pickup/6588516?source=rss",
+      "publishedAt": "2026-07-19T07:12:22.000Z",
+      "xQuery": "ニチレイの障害 物流復旧へ正念場"
     },
     {
       "time": "15:56",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "サッカー場で倒木 幼児ら7人搬送"
     },
     {
-      "time": "15:23",
-      "title": "NY市長 イスラエル首相拘束検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588509?source=rss",
-      "publishedAt": "2026-07-19T06:23:54.000Z",
-      "xQuery": "NY市長 イスラエル首相拘束検討"
-    },
-    {
       "time": "15:49",
       "title": "親子切られ重軽傷 逃走の少年死亡",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "親子切られ重軽傷 逃走の少年死亡"
     },
     {
-      "time": "14:45",
-      "title": "奈良2遺体 不明前日に男と外出",
+      "time": "17:11",
+      "title": "SUP中に海転落の大学生死亡 横浜",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588507?source=rss",
-      "publishedAt": "2026-07-19T05:45:56.000Z",
-      "xQuery": "奈良2遺体 不明前日に男と外出"
+      "url": "https://news.yahoo.co.jp/pickup/6588524?source=rss",
+      "publishedAt": "2026-07-19T08:11:16.000Z",
+      "xQuery": "SUP中に海転落の大学生死亡 横浜"
+    },
+    {
+      "time": "17:06",
+      "title": "米スペースX城下町 反発の動きも",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588526?source=rss",
+      "publishedAt": "2026-07-19T08:06:42.000Z",
+      "xQuery": "米スペースX城下町 反発の動きも"
     }
   ]
 };
