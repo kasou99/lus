@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T09:14:03.890Z",
+  "updatedAt": "2026-07-19T10:05:06.502Z",
   "items": [
     {
       "time": "17:46",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "21日から東海で40℃超の酷暑日か"
     },
     {
-      "time": "16:12",
-      "title": "ニチレイの障害 物流復旧へ正念場",
+      "time": "18:04",
+      "title": "露 キーウに弾道ミサイル40発以上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588516?source=rss",
-      "publishedAt": "2026-07-19T07:12:22.000Z",
-      "xQuery": "ニチレイの障害 物流復旧へ正念場"
+      "url": "https://news.yahoo.co.jp/pickup/6588533?source=rss",
+      "publishedAt": "2026-07-19T09:04:47.000Z",
+      "xQuery": "露 キーウに弾道ミサイル40発以上"
     },
     {
       "time": "15:49",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "親子切られ重軽傷 逃走の少年死亡"
     },
     {
-      "time": "17:11",
-      "title": "SUP中に海転落の大学生死亡 横浜",
+      "time": "18:24",
+      "title": "海水浴場で沈んでいる男性 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588524?source=rss",
-      "publishedAt": "2026-07-19T08:11:16.000Z",
-      "xQuery": "SUP中に海転落の大学生死亡 横浜"
+      "url": "https://news.yahoo.co.jp/pickup/6588538?source=rss",
+      "publishedAt": "2026-07-19T09:24:40.000Z",
+      "xQuery": "海水浴場で沈んでいる男性 死亡"
     },
     {
-      "time": "14:41",
-      "title": "冷やし甘酒が特産品に 海外輸出も",
+      "time": "13:26",
+      "title": "江の島に異変 海開き後も客足鈍く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588506?source=rss",
-      "publishedAt": "2026-07-19T05:41:17.000Z",
-      "xQuery": "冷やし甘酒が特産品に 海外輸出も"
+      "url": "https://news.yahoo.co.jp/pickup/6588499?source=rss",
+      "publishedAt": "2026-07-19T04:26:01.000Z",
+      "xQuery": "江の島に異変 海開き後も客足鈍く"
     }
   ]
 };

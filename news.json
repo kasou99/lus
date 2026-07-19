@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T09:14:03.152Z",
+  "updatedAt": "2026-07-19T10:05:05.578Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -177,18 +177,18 @@
         "publishedAt": "2026-07-19T02:07:06.000Z"
       },
       {
+        "time": "18:24",
+        "title": "海水浴場で沈んでいる男性 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588538?source=rss",
+        "publishedAt": "2026-07-19T09:24:40.000Z"
+      },
+      {
         "time": "17:11",
         "title": "SUP中に海転落の大学生死亡 横浜",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588524?source=rss",
         "publishedAt": "2026-07-19T08:11:16.000Z"
-      },
-      {
-        "time": "13:47",
-        "title": "警察署長のパワハラ 3度目認定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588501?source=rss",
-        "publishedAt": "2026-07-19T04:47:16.000Z"
       }
     ],
     "subsidyHeadlines": [
