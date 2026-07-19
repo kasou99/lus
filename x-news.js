@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T14:32:12.407Z",
+  "updatedAt": "2026-07-19T15:25:02.684Z",
   "items": [
     {
       "time": "21:57",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日比海洋交渉入り合意 中国猛反発"
     },
     {
-      "time": "22:13",
-      "title": "母娘3人を切りつけ 長男の知人か",
+      "time": "21:59",
+      "title": "闇バイト投稿に警告7万件超 25年",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588563?source=rss",
-      "publishedAt": "2026-07-19T13:13:27.000Z",
-      "xQuery": "母娘3人を切りつけ 長男の知人か"
+      "url": "https://news.yahoo.co.jp/pickup/6588560?source=rss",
+      "publishedAt": "2026-07-19T12:59:38.000Z",
+      "xQuery": "闇バイト投稿に警告7万件超 25年"
+    },
+    {
+      "time": "23:41",
+      "title": "老舗酒造会社「越後鶴亀」全焼か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588573?source=rss",
+      "publishedAt": "2026-07-19T14:41:18.000Z",
+      "xQuery": "老舗酒造会社「越後鶴亀」全焼か"
     },
     {
       "time": "22:46",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588569?source=rss",
       "publishedAt": "2026-07-19T13:46:20.000Z",
       "xQuery": "クマ3頭と遭遇し襲われる 搬送"
-    },
-    {
-      "time": "20:48",
-      "title": "スポーツカーとSUV衝突 2人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588552?source=rss",
-      "publishedAt": "2026-07-19T11:48:54.000Z",
-      "xQuery": "スポーツカーとSUV衝突 2人死亡"
     }
   ]
 };
