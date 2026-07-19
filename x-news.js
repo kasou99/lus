@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T12:51:23.049Z",
+  "updatedAt": "2026-07-19T13:34:08.781Z",
   "items": [
     {
-      "time": "20:15",
-      "title": "内閣支持率が41%に大幅下落 毎日",
+      "time": "21:57",
+      "title": "連休最終日は猛暑日エリア拡大か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588550?source=rss",
-      "publishedAt": "2026-07-19T11:15:04.000Z",
-      "xQuery": "内閣支持率が41%に大幅下落 毎日"
+      "url": "https://news.yahoo.co.jp/pickup/6588559?source=rss",
+      "publishedAt": "2026-07-19T12:57:25.000Z",
+      "xQuery": "連休最終日は猛暑日エリア拡大か"
     },
     {
       "time": "19:26",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588544?source=rss",
       "publishedAt": "2026-07-19T10:26:29.000Z",
       "xQuery": "日ウ企業間の技術協力 露が批判"
+    },
+    {
+      "time": "22:13",
+      "title": "母娘3人を切りつけ 長男の知人か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588563?source=rss",
+      "publishedAt": "2026-07-19T13:13:27.000Z",
+      "xQuery": "母娘3人を切りつけ 長男の知人か"
     },
     {
       "time": "20:48",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588555?source=rss",
       "publishedAt": "2026-07-19T12:17:58.000Z",
       "xQuery": "斜面を40m滑落 登山客の男性死亡"
-    },
-    {
-      "time": "16:30",
-      "title": "解説滑らか 87歳の男性バスガイド",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588519?source=rss",
-      "publishedAt": "2026-07-19T07:30:49.000Z",
-      "xQuery": "解説滑らか 87歳の男性バスガイド"
     }
   ]
 };

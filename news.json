@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T12:51:22.266Z",
+  "updatedAt": "2026-07-19T13:34:08.217Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "22:01",
+        "title": "日比海洋交渉入り合意 中国猛反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588562?source=rss",
+        "publishedAt": "2026-07-19T13:01:32.000Z"
+      },
+      {
         "time": "15:23",
         "title": "NY市長 イスラエル首相拘束検討",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588521?source=rss",
         "publishedAt": "2026-07-19T07:41:49.000Z"
-      },
-      {
-        "time": "19:31",
-        "title": "韓国「犬肉禁止」施行へ 現場葛藤",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588543?source=rss",
-        "publishedAt": "2026-07-19T10:31:29.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-07-19T11:55:17.000Z"
       },
       {
+        "time": "22:13",
+        "title": "母娘3人を切りつけ 長男の知人か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588563?source=rss",
+        "publishedAt": "2026-07-19T13:13:27.000Z"
+      },
+      {
         "time": "20:11",
         "title": "倒木で7人搬送「バーンと倒れた」",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588548?source=rss",
         "publishedAt": "2026-07-19T11:11:22.000Z"
-      },
-      {
-        "time": "15:49",
-        "title": "親子切られ重軽傷 逃走の少年死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588512?source=rss",
-        "publishedAt": "2026-07-19T06:49:50.000Z"
       },
       {
         "time": "21:17",
