@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-07-19T19:58:07.327Z",
+  "updatedAt": "2026-07-19T20:23:11.146Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "三菱電機、エレベーター制御盤を「切り込み隊長」に 他社顧客を奪取へ",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHRTI2SVpwNllKSXFiUS1OYjRmbWp5Zm9GVmUzSGhuODNVVFh4bWY3WE5GekllUExwYVcxWWRkcHlHNlVRamJOTjgwLUszR21VSFVVMGFMV0w0X3RpSE5lU3JUM2JaZk1wcUJ1Vw?oc=5",
+        "publishedAt": "2026-07-19T20:00:00.000Z"
+      },
       {
         "time": "13:00",
         "title": "HVAC制御盤の世界市場（2026年～2032年）、市場規模（プログラマブル制御盤、非プログラマブル制御盤）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MR214WS1IUFd6RzYzVVhfSEM1WEpUZFhfM01mRXN4dEZmWXlCaVdGUWFSLU85bmhDLUpPM1F6VkhqRzRUMUJKZ1F2VF9oSzA?oc=5",
         "publishedAt": "2026-07-19T04:00:00.000Z"
+      },
+      {
+        "time": "05:03",
+        "title": "福島イノベ機構、DXでヘルスケア課題解決 浜通り企業が成果披露",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZalUwT3htbUxnUngzcEhRdFowbWU3N3JxS1dRQW5jQ21hYzljalVxcVdwUjY3NkNnSTFSOXNRbndkUi1lZkhvUDB4R3dfdTRrOXRPMTNPVmhfTGs?oc=5",
+        "publishedAt": "2026-07-19T20:03:49.000Z"
       },
       {
         "time": "20:47",
@@ -24,6 +38,13 @@
         "publishedAt": "2026-07-19T07:59:22.000Z"
       },
       {
+        "time": "05:03",
+        "title": "書窓／石塚工業社長・小柳郁弥氏 チャンスつかむ行動指針『運の方程式』",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWYmd5dDZOeExWZ0NpY3VfZDZGOTVKS1lKOWhMWVJxVndzUTlER3JscnRYS1FjWS1meGVWMDctcEdNcjlEaDRPa3lqeHY3VEdwU29yYnRKVjRONkU?oc=5",
+        "publishedAt": "2026-07-19T20:03:36.000Z"
+      },
+      {
         "time": "12:11",
         "title": "ロシアのミサイルの90％に日本製部品…東京の真ん中に「スパイ基地」",
         "source": "ｄメニューニュース",
@@ -36,27 +57,6 @@
         "source": "Record China",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YdHNSX2g4ZnUzQTJWSm0xOUhOOUowT3ViQ2k5Qm9Mb0wtdkxncGZ2MmgzRlBKZFkwSXQyb1hVNTRtSEZ2XzUwTTY1OHVudlJwbEQyR05zMmtjblM1?oc=5",
         "publishedAt": "2026-07-19T02:01:21.000Z"
-      },
-      {
-        "time": "20:13",
-        "title": "食品消費税1% 効果に不透明感も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588426?source=rss",
-        "publishedAt": "2026-07-18T11:13:17.000Z"
-      },
-      {
-        "time": "16:12",
-        "title": "ニチレイの障害 物流復旧へ正念場",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588516?source=rss",
-        "publishedAt": "2026-07-19T07:12:22.000Z"
-      },
-      {
-        "time": "10:59",
-        "title": "1円玉1億3200万枚量産 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588483?source=rss",
-        "publishedAt": "2026-07-19T01:59:49.000Z"
       }
     ],
     "worldHeadlines": [
