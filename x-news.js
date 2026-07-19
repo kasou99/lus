@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T08:18:48.628Z",
+  "updatedAt": "2026-07-19T09:14:03.890Z",
   "items": [
+    {
+      "time": "17:46",
+      "title": "21日から東海で40℃超の酷暑日か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588530?source=rss",
+      "publishedAt": "2026-07-19T08:46:04.000Z",
+      "xQuery": "21日から東海で40℃超の酷暑日か"
+    },
     {
       "time": "16:12",
       "title": "ニチレイの障害 物流復旧へ正念場",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588516?source=rss",
       "publishedAt": "2026-07-19T07:12:22.000Z",
       "xQuery": "ニチレイの障害 物流復旧へ正念場"
-    },
-    {
-      "time": "15:56",
-      "title": "サッカー場で倒木 幼児ら7人搬送",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588514?source=rss",
-      "publishedAt": "2026-07-19T06:56:15.000Z",
-      "xQuery": "サッカー場で倒木 幼児ら7人搬送"
     },
     {
       "time": "15:49",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "SUP中に海転落の大学生死亡 横浜"
     },
     {
-      "time": "17:06",
-      "title": "米スペースX城下町 反発の動きも",
+      "time": "14:41",
+      "title": "冷やし甘酒が特産品に 海外輸出も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588526?source=rss",
-      "publishedAt": "2026-07-19T08:06:42.000Z",
-      "xQuery": "米スペースX城下町 反発の動きも"
+      "url": "https://news.yahoo.co.jp/pickup/6588506?source=rss",
+      "publishedAt": "2026-07-19T05:41:17.000Z",
+      "xQuery": "冷やし甘酒が特産品に 海外輸出も"
     }
   ]
 };
