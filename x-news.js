@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T09:11:47.512Z",
+  "updatedAt": "2026-07-20T10:28:46.751Z",
   "items": [
     {
-      "time": "15:22",
-      "title": "ホルムズ タンカー2隻が「爆発」",
+      "time": "17:06",
+      "title": "今週40℃予想も 梅雨明け酷暑警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588633?source=rss",
-      "publishedAt": "2026-07-20T06:22:44.000Z",
-      "xQuery": "ホルムズ タンカー2隻が「爆発」"
+      "url": "https://news.yahoo.co.jp/pickup/6588646?source=rss",
+      "publishedAt": "2026-07-20T08:06:40.000Z",
+      "xQuery": "今週40℃予想も 梅雨明け酷暑警戒"
     },
     {
-      "time": "16:20",
-      "title": "遠征中の小4死亡 水の事故相次ぐ",
+      "time": "18:47",
+      "title": "養子希望者は 改正皇室典範の難題",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588640?source=rss",
-      "publishedAt": "2026-07-20T07:20:23.000Z",
-      "xQuery": "遠征中の小4死亡 水の事故相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6588654?source=rss",
+      "publishedAt": "2026-07-20T09:47:35.000Z",
+      "xQuery": "養子希望者は 改正皇室典範の難題"
     },
     {
-      "time": "16:49",
-      "title": "水上バイクが22歳と衝突 心肺停止",
+      "time": "17:20",
+      "title": "ウ 徴兵担当者への暴力事件が増加",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588643?source=rss",
-      "publishedAt": "2026-07-20T07:49:08.000Z",
-      "xQuery": "水上バイクが22歳と衝突 心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6588647?source=rss",
+      "publishedAt": "2026-07-20T08:20:23.000Z",
+      "xQuery": "ウ 徴兵担当者への暴力事件が増加"
     },
     {
-      "time": "15:47",
-      "title": "クマ3頭と遭遇 スコップで頭叩く",
+      "time": "18:30",
+      "title": "ローソン「車中泊」50代利用者も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588636?source=rss",
-      "publishedAt": "2026-07-20T06:47:45.000Z",
-      "xQuery": "クマ3頭と遭遇 スコップで頭叩く"
+      "url": "https://news.yahoo.co.jp/pickup/6588655?source=rss",
+      "publishedAt": "2026-07-20T09:30:22.000Z",
+      "xQuery": "ローソン「車中泊」50代利用者も"
     },
     {
-      "time": "15:54",
-      "title": "携帯「060」18カ月準備もなぜ延期",
+      "time": "18:18",
+      "title": "トイストーリー5がX流出 違法性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588635?source=rss",
-      "publishedAt": "2026-07-20T06:54:33.000Z",
-      "xQuery": "携帯「060」18カ月準備もなぜ延期"
+      "url": "https://news.yahoo.co.jp/pickup/6588653?source=rss",
+      "publishedAt": "2026-07-20T09:18:11.000Z",
+      "xQuery": "トイストーリー5がX流出 違法性"
     }
   ]
 };
