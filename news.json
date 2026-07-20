@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T10:28:45.941Z",
+  "updatedAt": "2026-07-20T11:29:36.969Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-19T11:47:17.000Z"
       },
       {
+        "time": "18:57",
+        "title": "ヨーロッパのレーザー切断機市場規模・予測レポート 2026-2035年",
+        "source": "Global Market Insights Inc.",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0c2cFhjMzNid2EtMmRsWnlXT0dyQXVZbWR0RXl3Smdhbm9aMGdzZzJENmVFVE5fS2JsbzhOd0t5NVdkVms5YzQzbXRvdjlzenRBeFZlSlVTaTRQbDBPNEJlV2l2RFF6Szd5Qk9IWC1uX25fRHA5ZTBhUVpuckI4dTgwWkFZckt3em1nNA?oc=5",
+        "publishedAt": "2026-07-20T09:57:51.000Z"
+      },
+      {
         "time": "10:00",
         "title": "ターニングホルダーの世界市場（2026年～2032年）、市場規模（内径旋削用ツールホルダー、外径旋削用ツールホルダー）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVTRCSHQybmxtMnQtSWVTVUVpVFhfWXNES1Zzd09qaW1aeExxenNQajMyY3dSOHhGX1FWWFluMVRORzZCd0xIMEp2bHBaWm9iS3M0NVRTNEpnUHJ5bnY4YnY5UlFWSkprYnpJLXFhNXI3a2RIYnlNWnNMTWFlekdZd1V6UHFhMUExbWtkakM1OWpxemFJR1ZNdGpsb0cwc3ZIeHJuRHRRRllHd09iYzctLW85WVFUWndjSmlVMy04aWREUmhnSFE?oc=5",
         "publishedAt": "2026-07-20T01:00:00.000Z"
-      },
-      {
-        "time": "15:12",
-        "title": "真夏は地獄なオープンエアーの「ゴルフカート」に革命!? 大胆すぎる“ポン付け冷房システム” すでに実績1000台！「フォークリフト用も作ってます」",
-        "source": "乗りものニュース",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9pVkdSU2NUcmlPOGphUHRQc2NVeDlDd29lTGpEZXZnd3NNNGQ4ZWpWWE1iOGlyV213dWlFWW0tMG9YV21aOWpmTmJR?oc=5",
-        "publishedAt": "2026-07-20T06:12:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "11:07",
-        "title": "関東甲信と東海が梅雨明け 気象庁",
+        "time": "20:23",
+        "title": "新名神事故で夫死亡 形見も残らず",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588607?source=rss",
-        "publishedAt": "2026-07-20T02:07:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588667?source=rss",
+        "publishedAt": "2026-07-20T11:23:09.000Z"
+      },
+      {
+        "time": "19:58",
+        "title": "土砂崩れ倒壊 死亡2人は住人夫婦",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588662?source=rss",
+        "publishedAt": "2026-07-20T10:58:03.000Z"
       },
       {
         "time": "14:57",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588640?source=rss",
         "publishedAt": "2026-07-20T07:20:23.000Z"
-      },
-      {
-        "time": "16:49",
-        "title": "水上バイクが22歳と衝突 心肺停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588643?source=rss",
-        "publishedAt": "2026-07-20T07:49:08.000Z"
       },
       {
         "time": "08:25",

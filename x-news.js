@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T10:28:46.751Z",
+  "updatedAt": "2026-07-20T11:29:37.770Z",
   "items": [
     {
       "time": "17:06",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "養子希望者は 改正皇室典範の難題"
     },
     {
-      "time": "17:20",
-      "title": "ウ 徴兵担当者への暴力事件が増加",
+      "time": "20:23",
+      "title": "新名神事故で夫死亡 形見も残らず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588647?source=rss",
-      "publishedAt": "2026-07-20T08:20:23.000Z",
-      "xQuery": "ウ 徴兵担当者への暴力事件が増加"
+      "url": "https://news.yahoo.co.jp/pickup/6588667?source=rss",
+      "publishedAt": "2026-07-20T11:23:09.000Z",
+      "xQuery": "新名神事故で夫死亡 形見も残らず"
+    },
+    {
+      "time": "19:36",
+      "title": "外国人運転の車がはみ出しか 衝突",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588659?source=rss",
+      "publishedAt": "2026-07-20T10:36:11.000Z",
+      "xQuery": "外国人運転の車がはみ出しか 衝突"
     },
     {
       "time": "18:30",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588655?source=rss",
       "publishedAt": "2026-07-20T09:30:22.000Z",
       "xQuery": "ローソン「車中泊」50代利用者も"
-    },
-    {
-      "time": "18:18",
-      "title": "トイストーリー5がX流出 違法性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588653?source=rss",
-      "publishedAt": "2026-07-20T09:18:11.000Z",
-      "xQuery": "トイストーリー5がX流出 違法性"
     }
   ]
 };
