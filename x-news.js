@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T22:51:01.317Z",
+  "updatedAt": "2026-07-20T23:25:38.627Z",
   "items": [
     {
       "time": "07:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "公取委 来夏にも大幅組織改編"
     },
     {
+      "time": "07:54",
+      "title": "EU 中国系通販に制裁金1000億円",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588701?source=rss",
+      "publishedAt": "2026-07-20T22:54:42.000Z",
+      "xQuery": "EU 中国系通販に制裁金1000億円"
+    },
+    {
       "time": "06:22",
       "title": "ワーナー買収一時差し止め 米地裁",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6588694?source=rss",
       "publishedAt": "2026-07-20T21:22:12.000Z",
       "xQuery": "ワーナー買収一時差し止め 米地裁"
-    },
-    {
-      "time": "23:03",
-      "title": "市長産休入り 妊娠後も多忙な日々",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588685?source=rss",
-      "publishedAt": "2026-07-20T14:03:56.000Z",
-      "xQuery": "市長産休入り 妊娠後も多忙な日々"
     }
   ]
 };
