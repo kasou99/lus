@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T19:09:45.290Z",
+  "updatedAt": "2026-07-20T20:04:58.443Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,11 @@
         "publishedAt": "2026-07-20T06:58:30.000Z"
       },
       {
-        "time": "05:00",
-        "title": "三菱電機、エレベーター制御盤を「切り込み隊長」に 他社顧客を奪取へ",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHRTI2SVpwNllKSXFiUS1OYjRmbWp5Zm9GVmUzSGhuODNVVFh4bWY3WE5GekllUExwYVcxWWRkcHlHNlVRamJOTjgwLUszR21VSFVVMGFMV0w0X3RpSE5lU3JUM2JaZk1wcUJ1Vw?oc=5",
-        "publishedAt": "2026-07-19T20:00:00.000Z"
-      },
-      {
-        "time": "11:16",
-        "title": "兵庫工業会、昨年度の研究成果発表会 経営者同士、本音で語り学ぶ",
+        "time": "05:04",
+        "title": "AIとともに／AGC 数理最適化で課題解決 迅速に合理的な意思決定",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54OEQ3ZEtIVjh1dHFPQXBCeGpOdDFKcGdSc2NKUUJfaTdoV1ByZVRQbjVYUmRnYVA0SG1EaTJIYTl6S0FiQzRhT0FJWkU0VnR0elNSZ1BuX3UwdE1sVXNlUUhISnpPZjFIejN1dXUwb2FPblpITkF6RFdaQQ?oc=5",
-        "publishedAt": "2026-07-20T02:16:39.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rRUdqQm14MHVRQzNHYnNPVlRKVFlwNEJuUTFQN3hwcmQzeHJXZWJoVWJRcVJyNXhNTE5aUGNBSVR4OGRZeUhUSVVhYkkyYnZjSFJWYVFpcmFsQXM?oc=5",
+        "publishedAt": "2026-07-20T20:04:15.000Z"
       },
       {
         "time": "18:57",
@@ -31,17 +24,17 @@
         "publishedAt": "2026-07-20T09:57:51.000Z"
       },
       {
+        "time": "05:04",
+        "title": "ケーススタディー オープンイノベーション（64）金融庁、学界と連携",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43VXBQRzhLbnVxU1dEeTZjTEJucnUtSG1TYUw0RHJUby1IaEM0WkZYMUtuaG1DZWk1YmNob1NLQVpxT0RSZGtjaFg4bF9jcU9KQlJhaTFvRjZhNWc?oc=5",
+        "publishedAt": "2026-07-20T20:04:07.000Z"
+      },
+      {
         "time": "10:00",
         "title": "サーボロールフィードの世界市場（2026年～2032年）、市場規模（ACサーボロールフィード、DCサーボロールフィード）・分析レポートを発表",
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fSmJQOElldEtqYUpXQ1oxNFYzMGoxLWx0SDBHdXJNOHp2NDgya3FjRFJBa1JOQWFKZmZtWkVXbWhqLVFuci0w?oc=5",
-        "publishedAt": "2026-07-20T01:00:00.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "ターニングホルダーの世界市場（2026年～2032年）、市場規模（内径旋削用ツールホルダー、外径旋削用ツールホルダー）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVTRCSHQybmxtMnQtSWVTVUVpVFhfWXNES1Zzd09qaW1aeExxenNQajMyY3dSOHhGX1FWWFluMVRORzZCd0xIMEp2bHBaWm9iS3M0NVRTNEpnUHJ5bnY4YnY5UlFWSkprYnpJLXFhNXI3a2RIYnlNWnNMTWFlekdZd1V6UHFhMUExbWtkakM1OWpxemFJR1ZNdGpsb0cwc3ZIeHJuRHRRRllHd09iYzctLW85WVFUWndjSmlVMy04aWREUmhnSFE?oc=5",
         "publishedAt": "2026-07-20T01:00:00.000Z"
       },
       {
@@ -50,6 +43,13 @@
         "source": "乗りものニュース",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9pVkdSU2NUcmlPOGphUHRQc2NVeDlDd29lTGpEZXZnd3NNNGQ4ZWpWWE1iOGlyV213dWlFWW0tMG9YV21aOWpmTmJR?oc=5",
         "publishedAt": "2026-07-20T06:12:00.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "ターニングホルダーの世界市場（2026年～2032年）、市場規模（内径旋削用ツールホルダー、外径旋削用ツールホルダー）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVTRCSHQybmxtMnQtSWVTVUVpVFhfWXNES1Zzd09qaW1aeExxenNQajMyY3dSOHhGX1FWWFluMVRORzZCd0xIMEp2bHBaWm9iS3M0NVRTNEpnUHJ5bnY4YnY5UlFWSkprYnpJLXFhNXI3a2RIYnlNWnNMTWFlekdZd1V6UHFhMUExbWtkakM1OWpxemFJR1ZNdGpsb0cwc3ZIeHJuRHRRRllHd09iYzctLW85WVFUWndjSmlVMy04aWREUmhnSFE?oc=5",
+        "publishedAt": "2026-07-20T01:00:00.000Z"
       },
       {
         "time": "14:56",
