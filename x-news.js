@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T06:06:07.463Z",
+  "updatedAt": "2026-07-20T07:37:56.685Z",
   "items": [
     {
-      "time": "10:54",
-      "title": "日米合意1年 関税の負担依然重く",
+      "time": "15:22",
+      "title": "ホルムズ タンカー2隻が「爆発」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588606?source=rss",
-      "publishedAt": "2026-07-20T01:54:28.000Z",
-      "xQuery": "日米合意1年 関税の負担依然重く"
+      "url": "https://news.yahoo.co.jp/pickup/6588633?source=rss",
+      "publishedAt": "2026-07-20T06:22:44.000Z",
+      "xQuery": "ホルムズ タンカー2隻が「爆発」"
     },
     {
-      "time": "13:42",
-      "title": "猟銃許可の身辺調査見直し 警察庁",
+      "time": "15:02",
+      "title": "人身売買罪の適用低調 立件難しく",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588623?source=rss",
-      "publishedAt": "2026-07-20T04:42:14.000Z",
-      "xQuery": "猟銃許可の身辺調査見直し 警察庁"
+      "url": "https://news.yahoo.co.jp/pickup/6588629?source=rss",
+      "publishedAt": "2026-07-20T06:02:40.000Z",
+      "xQuery": "人身売買罪の適用低調 立件難しく"
     },
     {
       "time": "14:57",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "姫路の殺人事件 新たに男2人逮捕"
     },
     {
-      "time": "14:20",
-      "title": "山陽道に釘など散乱 約10台パンク",
+      "time": "15:47",
+      "title": "クマ3頭と遭遇 スコップで頭叩く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588626?source=rss",
-      "publishedAt": "2026-07-20T05:20:21.000Z",
-      "xQuery": "山陽道に釘など散乱 約10台パンク"
+      "url": "https://news.yahoo.co.jp/pickup/6588636?source=rss",
+      "publishedAt": "2026-07-20T06:47:45.000Z",
+      "xQuery": "クマ3頭と遭遇 スコップで頭叩く"
     },
     {
-      "time": "12:30",
-      "title": "運営もう無理 酷暑で海水浴離れ",
+      "time": "15:54",
+      "title": "携帯「060」18カ月準備もなぜ延期",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588617?source=rss",
-      "publishedAt": "2026-07-20T03:30:38.000Z",
-      "xQuery": "運営もう無理 酷暑で海水浴離れ"
+      "url": "https://news.yahoo.co.jp/pickup/6588635?source=rss",
+      "publishedAt": "2026-07-20T06:54:33.000Z",
+      "xQuery": "携帯「060」18カ月準備もなぜ延期"
     }
   ]
 };
