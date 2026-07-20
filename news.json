@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-20T07:37:55.621Z",
+  "updatedAt": "2026-07-20T09:11:46.522Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:58",
+        "title": "初の研究施設７月稼働、安田工業 工作機械の性能向上探る",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NaVRYTUlrSFVSRnljazZqS0pJN1JYN2pNbXdjM1JYd0tSSV9ESVl0VXFIcWg2bXdOZTJCRDh4U2VKb2lETlFRZVV0UzdoX2NlcEE?oc=5",
+        "publishedAt": "2026-07-20T06:58:30.000Z"
+      },
       {
         "time": "05:00",
         "title": "三菱電機、エレベーター制御盤を「切り込み隊長」に 他社顧客を奪取へ",
@@ -36,13 +43,6 @@
         "source": "新華網日本語",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JT1ZrZmIxRnIyQk4tRjNxazRNY2VvaDVQWlMxcUF0STVpdDdGWjY2U1g3RWJOQW94alVVWG03UWlIZWxEV25jTkJMMVRoNmNCdjJ5Z24tekVvdG42bW5xNlp3aUVuWU5rTmZwd1RLZXhjYW1G?oc=5",
         "publishedAt": "2026-07-19T11:47:17.000Z"
-      },
-      {
-        "time": "16:59",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-07-19T07:59:22.000Z"
       },
       {
         "time": "10:00",
@@ -82,18 +82,18 @@
         "publishedAt": "2026-07-19T13:01:32.000Z"
       },
       {
-        "time": "15:23",
-        "title": "NY市長 イスラエル首相拘束検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588509?source=rss",
-        "publishedAt": "2026-07-19T06:23:54.000Z"
-      },
-      {
         "time": "18:04",
         "title": "露 キーウに弾道ミサイル40発以上",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588533?source=rss",
         "publishedAt": "2026-07-19T09:04:47.000Z"
+      },
+      {
+        "time": "17:20",
+        "title": "ウ 徴兵担当者への暴力事件が増加",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588647?source=rss",
+        "publishedAt": "2026-07-20T08:20:23.000Z"
       },
       {
         "time": "19:26",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-07-20T04:10:20.000Z"
       },
       {
-        "time": "14:41",
-        "title": "冷やし甘酒が特産品に 海外輸出も",
+        "time": "12:30",
+        "title": "運営もう無理 酷暑で海水浴離れ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588506?source=rss",
-        "publishedAt": "2026-07-19T05:41:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588617?source=rss",
+        "publishedAt": "2026-07-20T03:30:38.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-07-20T07:20:23.000Z"
       },
       {
+        "time": "16:49",
+        "title": "水上バイクが22歳と衝突 心肺停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588643?source=rss",
+        "publishedAt": "2026-07-20T07:49:08.000Z"
+      },
+      {
         "time": "08:25",
         "title": "3歳男児ひかれ死亡 1人で道路渡る",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588587?source=rss",
         "publishedAt": "2026-07-19T23:25:49.000Z"
-      },
-      {
-        "time": "20:48",
-        "title": "スポーツカーとSUV衝突 2人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588552?source=rss",
-        "publishedAt": "2026-07-19T11:48:54.000Z"
       }
     ],
     "subsidyHeadlines": [

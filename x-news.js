@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T07:37:56.685Z",
+  "updatedAt": "2026-07-20T09:11:47.512Z",
   "items": [
     {
       "time": "15:22",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ホルムズ タンカー2隻が「爆発」"
     },
     {
-      "time": "15:02",
-      "title": "人身売買罪の適用低調 立件難しく",
+      "time": "16:20",
+      "title": "遠征中の小4死亡 水の事故相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588629?source=rss",
-      "publishedAt": "2026-07-20T06:02:40.000Z",
-      "xQuery": "人身売買罪の適用低調 立件難しく"
+      "url": "https://news.yahoo.co.jp/pickup/6588640?source=rss",
+      "publishedAt": "2026-07-20T07:20:23.000Z",
+      "xQuery": "遠征中の小4死亡 水の事故相次ぐ"
     },
     {
-      "time": "14:57",
-      "title": "姫路の殺人事件 新たに男2人逮捕",
+      "time": "16:49",
+      "title": "水上バイクが22歳と衝突 心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588630?source=rss",
-      "publishedAt": "2026-07-20T05:57:34.000Z",
-      "xQuery": "姫路の殺人事件 新たに男2人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6588643?source=rss",
+      "publishedAt": "2026-07-20T07:49:08.000Z",
+      "xQuery": "水上バイクが22歳と衝突 心肺停止"
     },
     {
       "time": "15:47",
