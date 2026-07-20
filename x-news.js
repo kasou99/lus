@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T00:50:28.609Z",
+  "updatedAt": "2026-07-20T03:04:59.683Z",
   "items": [
     {
-      "time": "09:06",
-      "title": "米国の対イラン攻撃 範囲が拡大",
+      "time": "11:07",
+      "title": "関東甲信と東海が梅雨明け 気象庁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588597?source=rss",
-      "publishedAt": "2026-07-20T00:06:20.000Z",
-      "xQuery": "米国の対イラン攻撃 範囲が拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6588607?source=rss",
+      "publishedAt": "2026-07-20T02:07:45.000Z",
+      "xQuery": "関東甲信と東海が梅雨明け 気象庁"
     },
     {
-      "time": "08:04",
-      "title": "皇室典範 国民の理解得られぬ60%",
+      "time": "11:15",
+      "title": "不法残留の外国人摘発 職員増員へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588583?source=rss",
-      "publishedAt": "2026-07-19T23:04:40.000Z",
-      "xQuery": "皇室典範 国民の理解得られぬ60%"
+      "url": "https://news.yahoo.co.jp/pickup/6588608?source=rss",
+      "publishedAt": "2026-07-20T02:15:45.000Z",
+      "xQuery": "不法残留の外国人摘発 職員増員へ"
+    },
+    {
+      "time": "11:42",
+      "title": "高市内閣支持率「過去最低」ANN",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588612?source=rss",
+      "publishedAt": "2026-07-20T02:42:19.000Z",
+      "xQuery": "高市内閣支持率「過去最低」ANN"
     },
     {
       "time": "08:25",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳男児ひかれ死亡 1人で道路渡る"
     },
     {
-      "time": "08:37",
-      "title": "アルツハイマー病巡り新発見 研究",
+      "time": "10:15",
+      "title": "ヘルプマークに戸惑い 誤解の背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588590?source=rss",
-      "publishedAt": "2026-07-19T23:37:43.000Z",
-      "xQuery": "アルツハイマー病巡り新発見 研究"
-    },
-    {
-      "time": "09:33",
-      "title": "今も地方に残る「ヤミ小作」実態",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588599?source=rss",
-      "publishedAt": "2026-07-20T00:33:33.000Z",
-      "xQuery": "今も地方に残る「ヤミ小作」実態"
+      "url": "https://news.yahoo.co.jp/pickup/6588601?source=rss",
+      "publishedAt": "2026-07-20T01:15:03.000Z",
+      "xQuery": "ヘルプマークに戸惑い 誤解の背景"
     }
   ]
 };

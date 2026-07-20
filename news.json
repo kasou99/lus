@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T00:50:27.729Z",
+  "updatedAt": "2026-07-20T03:04:58.707Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-07-19T20:00:00.000Z"
       },
       {
+        "time": "06:59",
+        "title": "福島イノベ機構、DXでヘルスケア課題解決 浜通り企業が成果披露",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZalUwT3htbUxnUngzcEhRdFowbWU3N3JxS1dRQW5jQ21hYzljalVxcVdwUjY3NkNnSTFSOXNRbndkUi1lZkhvUDB4R3dfdTRrOXRPMTNPVmhfTGs?oc=5",
+        "publishedAt": "2026-07-19T21:59:51.000Z"
+      },
+      {
         "time": "13:00",
         "title": "HVAC制御盤の世界市場（2026年～2032年）、市場規模（プログラマブル制御盤、非プログラマブル制御盤）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MR214WS1IUFd6RzYzVVhfSEM1WEpUZFhfM01mRXN4dEZmWXlCaVdGUWFSLU85bmhDLUpPM1F6VkhqRzRUMUJKZ1F2VF9oSzA?oc=5",
         "publishedAt": "2026-07-19T04:00:00.000Z"
-      },
-      {
-        "time": "05:03",
-        "title": "福島イノベ機構、DXでヘルスケア課題解決 浜通り企業が成果披露",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZalUwT3htbUxnUngzcEhRdFowbWU3N3JxS1dRQW5jQ21hYzljalVxcVdwUjY3NkNnSTFSOXNRbndkUi1lZkhvUDB4R3dfdTRrOXRPMTNPVmhfTGs?oc=5",
-        "publishedAt": "2026-07-19T20:03:49.000Z"
       },
       {
         "time": "20:47",
@@ -31,6 +31,13 @@
         "publishedAt": "2026-07-19T11:47:17.000Z"
       },
       {
+        "time": "10:00",
+        "title": "ターニングホルダーの世界市場（2026年～2032年）、市場規模（内径旋削用ツールホルダー、外径旋削用ツールホルダー）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11VVRBTnNoa3ozT2xuZHVuQVFZUGhPWk13VDdXd2FCVGpjQXcxUGFCbDJVRFBqYXNkQW5oUjhDVkJrc1V0X3FCOE1FVVUxXzQ?oc=5",
+        "publishedAt": "2026-07-20T01:00:00.000Z"
+      },
+      {
         "time": "16:59",
         "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
         "source": "山陽新聞",
@@ -38,11 +45,11 @@
         "publishedAt": "2026-07-19T07:59:22.000Z"
       },
       {
-        "time": "05:03",
-        "title": "書窓／石塚工業社長・小柳郁弥氏 チャンスつかむ行動指針『運の方程式』",
+        "time": "05:16",
+        "title": "兵庫工業会、昨年度の研究成果発表会 経営者同士、本音で語り学ぶ",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWYmd5dDZOeExWZ0NpY3VfZDZGOTVKS1lKOWhMWVJxVndzUTlER3JscnRYS1FjWS1meGVWMDctcEdNcjlEaDRPa3lqeHY3VEdwU29yYnRKVjRONkU?oc=5",
-        "publishedAt": "2026-07-19T20:03:36.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHYTRfZ1FZbktZTGlkUDRUOC1la1FMYU5mT3AzRHF2UzBIYTU2Z3pPdjYyZjVSVk1HV0pIbEswa1VuNWxyR2FFdHd0Rk1NVHNzT3pJNHJMakllQWVBc01WQURPRXlWVTY3WENNMk5wY0lOY1dw?oc=5",
+        "publishedAt": "2026-07-19T20:16:17.000Z"
       },
       {
         "time": "12:11",
@@ -50,13 +57,6 @@
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXFTS1kzcVhBUzNuMzBCUUUtcHZGeWZ6WmdXcFMzM2RGZHNjVXAxbTBfLTlFWTg0eml0TExFV1JZUV9jYnJheDg5VWl6RVJpekFfMlc4VmQ3Nmd3OUhKZlowQWpvOGprSjN5b3JiVjRIeWl0ZWVyOEZMOVQ5QVI2VG1ydW9WQWQ3MTRIRNIBjAFBVV95cUxPcXFTS1kzcVhBUzNuMzBCUUUtcHZGeWZ6WmdXcFMzM2RGZHNjVXAxbTBfLTlFWTg0eml0TExFV1JZUV9jYnJheDg5VWl6RVJpekFfMlc4VmQ3Nmd3OUhKZlowQWpvOGprSjN5b3JiVjRIeWl0ZWVyOEZMOVQ5QVI2VG1ydW9WQWQ3MTRIRA?oc=5",
         "publishedAt": "2026-07-19T03:11:00.000Z"
-      },
-      {
-        "time": "11:01",
-        "title": "世界首位から転落、日本車はあとどれだけ持ちこたえられるのか―中国メディア",
-        "source": "Record China",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YdHNSX2g4ZnUzQTJWSm0xOUhOOUowT3ViQ2k5Qm9Mb0wtdkxncGZ2MmgzRlBKZFkwSXQyb1hVNTRtSEZ2XzUwTTY1OHVudlJwbEQyR05zMmtjblM1?oc=5",
-        "publishedAt": "2026-07-19T02:01:21.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "10:54",
+        "title": "日米合意1年 関税の負担依然重く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588606?source=rss",
+        "publishedAt": "2026-07-20T01:54:28.000Z"
+      },
+      {
         "time": "16:12",
         "title": "ニチレイの障害 物流復旧へ正念場",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588516?source=rss",
         "publishedAt": "2026-07-19T07:12:22.000Z"
-      },
-      {
-        "time": "10:59",
-        "title": "1円玉1億3200万枚量産 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588483?source=rss",
-        "publishedAt": "2026-07-19T01:59:49.000Z"
       },
       {
         "time": "19:06",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "11:07",
+        "title": "関東甲信と東海が梅雨明け 気象庁",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588607?source=rss",
+        "publishedAt": "2026-07-20T02:07:45.000Z"
+      },
+      {
         "time": "07:16",
         "title": "正面衝突で2人死亡1人重体 逆走か",
         "source": "Yahoo!ニュース",
@@ -163,13 +170,6 @@
         "publishedAt": "2026-07-19T23:25:49.000Z"
       },
       {
-        "time": "20:55",
-        "title": "栃木土砂崩れ 男性1人の遺体発見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588553?source=rss",
-        "publishedAt": "2026-07-19T11:55:17.000Z"
-      },
-      {
         "time": "23:41",
         "title": "老舗酒造会社「越後鶴亀」全焼か",
         "source": "Yahoo!ニュース",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-07-19T14:41:18.000Z"
       },
       {
-        "time": "11:07",
-        "title": "男性転落 巻き込まれた歩行者死亡",
+        "time": "20:48",
+        "title": "スポーツカーとSUV衝突 2人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588485?source=rss",
-        "publishedAt": "2026-07-19T02:07:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588552?source=rss",
+        "publishedAt": "2026-07-19T11:48:54.000Z"
       },
       {
-        "time": "17:11",
-        "title": "SUP中に海転落の大学生死亡 横浜",
+        "time": "22:46",
+        "title": "クマ3頭と遭遇し襲われる 搬送",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588524?source=rss",
-        "publishedAt": "2026-07-19T08:11:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588569?source=rss",
+        "publishedAt": "2026-07-19T13:46:20.000Z"
       }
     ],
     "subsidyHeadlines": [
