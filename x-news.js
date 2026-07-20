@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T03:04:59.683Z",
+  "updatedAt": "2026-07-20T03:12:41.942Z",
   "items": [
     {
-      "time": "11:07",
-      "title": "関東甲信と東海が梅雨明け 気象庁",
+      "time": "11:31",
+      "title": "東京都心で今年初の猛暑日 警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588607?source=rss",
-      "publishedAt": "2026-07-20T02:07:45.000Z",
-      "xQuery": "関東甲信と東海が梅雨明け 気象庁"
+      "url": "https://news.yahoo.co.jp/pickup/6588609?source=rss",
+      "publishedAt": "2026-07-20T02:31:03.000Z",
+      "xQuery": "東京都心で今年初の猛暑日 警戒を"
     },
     {
       "time": "11:15",
