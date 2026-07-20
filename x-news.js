@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T12:23:20.185Z",
+  "updatedAt": "2026-07-20T13:14:49.541Z",
   "items": [
+    {
+      "time": "21:43",
+      "title": "42都府県に熱中症警戒アラート",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588679?source=rss",
+      "publishedAt": "2026-07-20T12:43:06.000Z",
+      "xQuery": "42都府県に熱中症警戒アラート"
+    },
     {
       "time": "20:57",
       "title": "英国 バーナム氏が新首相に就任",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "英国 バーナム氏が新首相に就任"
     },
     {
-      "time": "18:47",
-      "title": "養子希望者は 改正皇室典範の難題",
+      "time": "16:19",
+      "title": "労災認定に7年 過酷だったと遺族",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588654?source=rss",
-      "publishedAt": "2026-07-20T09:47:35.000Z",
-      "xQuery": "養子希望者は 改正皇室典範の難題"
-    },
-    {
-      "time": "20:55",
-      "title": "福岡県議会巡り 式で予定外の苦言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588672?source=rss",
-      "publishedAt": "2026-07-20T11:55:20.000Z",
-      "xQuery": "福岡県議会巡り 式で予定外の苦言"
+      "url": "https://news.yahoo.co.jp/pickup/6588638?source=rss",
+      "publishedAt": "2026-07-20T07:19:42.000Z",
+      "xQuery": "労災認定に7年 過酷だったと遺族"
     },
     {
       "time": "20:23",
