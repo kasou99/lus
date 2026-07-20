@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T20:54:39.067Z",
+  "updatedAt": "2026-07-20T21:29:33.545Z",
   "items": [
     {
       "time": "23:12",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中露 日本のEEZ内で実弾演習"
     },
     {
-      "time": "22:53",
-      "title": "ハマス 新最高指導者にハイヤ氏",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588684?source=rss",
-      "publishedAt": "2026-07-20T13:53:56.000Z",
-      "xQuery": "ハマス 新最高指導者にハイヤ氏"
-    },
-    {
       "time": "23:55",
       "title": "イラン攻撃で米兵死亡 19歳と25歳",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6588690?source=rss",
       "publishedAt": "2026-07-20T14:55:37.000Z",
       "xQuery": "イラン攻撃で米兵死亡 19歳と25歳"
+    },
+    {
+      "time": "06:22",
+      "title": "ワーナー買収一時差し止め 米地裁",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588694?source=rss",
+      "publishedAt": "2026-07-20T21:22:12.000Z",
+      "xQuery": "ワーナー買収一時差し止め 米地裁"
     },
     {
       "time": "20:23",
