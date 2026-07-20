@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T04:45:37.877Z",
+  "updatedAt": "2026-07-20T06:06:07.463Z",
   "items": [
     {
-      "time": "11:31",
-      "title": "東京都心で今年初の猛暑日 警戒を",
+      "time": "10:54",
+      "title": "日米合意1年 関税の負担依然重く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588609?source=rss",
-      "publishedAt": "2026-07-20T02:31:03.000Z",
-      "xQuery": "東京都心で今年初の猛暑日 警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6588606?source=rss",
+      "publishedAt": "2026-07-20T01:54:28.000Z",
+      "xQuery": "日米合意1年 関税の負担依然重く"
     },
     {
-      "time": "11:15",
-      "title": "不法残留の外国人摘発 職員増員へ",
+      "time": "13:42",
+      "title": "猟銃許可の身辺調査見直し 警察庁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588608?source=rss",
-      "publishedAt": "2026-07-20T02:15:45.000Z",
-      "xQuery": "不法残留の外国人摘発 職員増員へ"
+      "url": "https://news.yahoo.co.jp/pickup/6588623?source=rss",
+      "publishedAt": "2026-07-20T04:42:14.000Z",
+      "xQuery": "猟銃許可の身辺調査見直し 警察庁"
     },
     {
-      "time": "12:27",
-      "title": "海水浴場で10歳死亡 海中で発見",
+      "time": "14:57",
+      "title": "姫路の殺人事件 新たに男2人逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588616?source=rss",
-      "publishedAt": "2026-07-20T03:27:30.000Z",
-      "xQuery": "海水浴場で10歳死亡 海中で発見"
+      "url": "https://news.yahoo.co.jp/pickup/6588630?source=rss",
+      "publishedAt": "2026-07-20T05:57:34.000Z",
+      "xQuery": "姫路の殺人事件 新たに男2人逮捕"
+    },
+    {
+      "time": "14:20",
+      "title": "山陽道に釘など散乱 約10台パンク",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588626?source=rss",
+      "publishedAt": "2026-07-20T05:20:21.000Z",
+      "xQuery": "山陽道に釘など散乱 約10台パンク"
     },
     {
       "time": "12:30",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588617?source=rss",
       "publishedAt": "2026-07-20T03:30:38.000Z",
       "xQuery": "運営もう無理 酷暑で海水浴離れ"
-    },
-    {
-      "time": "13:10",
-      "title": "今年の夏はウナギが値下がり なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588621?source=rss",
-      "publishedAt": "2026-07-20T04:10:20.000Z",
-      "xQuery": "今年の夏はウナギが値下がり なぜ"
     }
   ]
 };

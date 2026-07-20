@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T04:45:36.805Z",
+  "updatedAt": "2026-07-20T06:06:06.707Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-07-20T01:00:00.000Z"
       },
       {
+        "time": "14:56",
+        "title": "DNソリューションズが航空機難削材向け新型複合旋盤を発売 - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcnpGdGR5RlpmZ3RmdWYwNUNXRUExWGt6N0JTMm1PakVfR05hUkRaVU54SkJQSExETE1oeTRFSFVTT1NnN3dNV1FfcEhPcHJ5MUxJdVNrenBwbEx2Q0xUcVVEUmhYUEZmMDAzam9CQS1lMEtNUy1rb0lzUkMzTVZhcWJR0gGWAUFVX3lxTE5hMTlJam9EVWptSlZLdFJpMTMwamJMTjBvazc2dndndEhiNVZNX0k4eVJiVE1NWmVWWnRyX3FfVWRQN0tBOFNKNno4c1NaU0ptZ05kajZGTDQzNzJrbnM3alRlSTBJc3REOEtCVC1XdkpkRDIzMXFtenFnWmEzNEMwZVZVNk9aTF9sM1ppamZ4c1hHZlBOdw?oc=5",
+        "publishedAt": "2026-07-20T05:56:00.000Z"
+      },
+      {
         "time": "20:47",
         "title": "産業発展の新たな原動力続々 中国・重慶市沙坪壩区",
         "source": "新華網日本語",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588606?source=rss",
         "publishedAt": "2026-07-20T01:54:28.000Z"
-      },
-      {
-        "time": "19:06",
-        "title": "飲食店倒産増 個人店どう生き残る",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588540?source=rss",
-        "publishedAt": "2026-07-19T10:06:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,13 +82,6 @@
         "publishedAt": "2026-07-19T06:23:54.000Z"
       },
       {
-        "time": "12:34",
-        "title": "世界一律の10%代替関税 失効へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588491?source=rss",
-        "publishedAt": "2026-07-19T03:34:46.000Z"
-      },
-      {
         "time": "18:04",
         "title": "露 キーウに弾道ミサイル40発以上",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588544?source=rss",
         "publishedAt": "2026-07-19T10:26:29.000Z"
+      },
+      {
+        "time": "14:43",
+        "title": "物流センターで2日延焼続く 韓国",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588628?source=rss",
+        "publishedAt": "2026-07-20T05:43:12.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-07-19T22:16:27.000Z"
       },
       {
+        "time": "14:57",
+        "title": "姫路の殺人事件 新たに男2人逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588630?source=rss",
+        "publishedAt": "2026-07-20T05:57:34.000Z"
+      },
+      {
         "time": "08:25",
         "title": "3歳男児ひかれ死亡 1人で道路渡る",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588616?source=rss",
         "publishedAt": "2026-07-20T03:27:30.000Z"
-      },
-      {
-        "time": "23:41",
-        "title": "老舗酒造会社「越後鶴亀」全焼か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588573?source=rss",
-        "publishedAt": "2026-07-19T14:41:18.000Z"
       },
       {
         "time": "20:48",
