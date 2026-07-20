@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T11:29:37.770Z",
+  "updatedAt": "2026-07-20T12:23:20.185Z",
   "items": [
     {
-      "time": "17:06",
-      "title": "今週40℃予想も 梅雨明け酷暑警戒",
+      "time": "20:57",
+      "title": "英国 バーナム氏が新首相に就任",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588646?source=rss",
-      "publishedAt": "2026-07-20T08:06:40.000Z",
-      "xQuery": "今週40℃予想も 梅雨明け酷暑警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6588671?source=rss",
+      "publishedAt": "2026-07-20T11:57:16.000Z",
+      "xQuery": "英国 バーナム氏が新首相に就任"
     },
     {
       "time": "18:47",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588654?source=rss",
       "publishedAt": "2026-07-20T09:47:35.000Z",
       "xQuery": "養子希望者は 改正皇室典範の難題"
+    },
+    {
+      "time": "20:55",
+      "title": "福岡県議会巡り 式で予定外の苦言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588672?source=rss",
+      "publishedAt": "2026-07-20T11:55:20.000Z",
+      "xQuery": "福岡県議会巡り 式で予定外の苦言"
     },
     {
       "time": "20:23",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588659?source=rss",
       "publishedAt": "2026-07-20T10:36:11.000Z",
       "xQuery": "外国人運転の車がはみ出しか 衝突"
-    },
-    {
-      "time": "18:30",
-      "title": "ローソン「車中泊」50代利用者も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588655?source=rss",
-      "publishedAt": "2026-07-20T09:30:22.000Z",
-      "xQuery": "ローソン「車中泊」50代利用者も"
     }
   ]
 };
