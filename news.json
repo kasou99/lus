@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T13:14:48.686Z",
+  "updatedAt": "2026-07-20T14:18:11.651Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,18 +75,11 @@
         "publishedAt": "2026-07-20T00:06:20.000Z"
       },
       {
-        "time": "20:57",
-        "title": "英国 バーナム氏が新首相に就任",
+        "time": "23:12",
+        "title": "露軍 ウ南部で民間貨物船を攻撃",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588671?source=rss",
-        "publishedAt": "2026-07-20T11:57:16.000Z"
-      },
-      {
-        "time": "22:01",
-        "title": "日比海洋交渉入り合意 中国猛反発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588562?source=rss",
-        "publishedAt": "2026-07-19T13:01:32.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588688?source=rss",
+        "publishedAt": "2026-07-20T14:12:01.000Z"
       },
       {
         "time": "17:20",
@@ -96,11 +89,18 @@
         "publishedAt": "2026-07-20T08:20:23.000Z"
       },
       {
-        "time": "19:26",
-        "title": "日ウ企業間の技術協力 露が批判",
+        "time": "20:57",
+        "title": "英国 バーナム氏が新首相に就任",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588544?source=rss",
-        "publishedAt": "2026-07-19T10:26:29.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588671?source=rss",
+        "publishedAt": "2026-07-20T11:57:16.000Z"
+      },
+      {
+        "time": "22:53",
+        "title": "ハマス 新最高指導者にハイヤ氏",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588684?source=rss",
+        "publishedAt": "2026-07-20T13:53:56.000Z"
       }
     ],
     "economyHeadlines": [

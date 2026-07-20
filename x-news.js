@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T13:14:49.541Z",
+  "updatedAt": "2026-07-20T14:18:12.436Z",
   "items": [
     {
       "time": "21:43",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "42都府県に熱中症警戒アラート"
     },
     {
-      "time": "20:57",
-      "title": "英国 バーナム氏が新首相に就任",
+      "time": "21:34",
+      "title": "消費減税 自民要職経験者が慎重論",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588671?source=rss",
-      "publishedAt": "2026-07-20T11:57:16.000Z",
-      "xQuery": "英国 バーナム氏が新首相に就任"
+      "url": "https://news.yahoo.co.jp/pickup/6588677?source=rss",
+      "publishedAt": "2026-07-20T12:34:59.000Z",
+      "xQuery": "消費減税 自民要職経験者が慎重論"
     },
     {
-      "time": "16:19",
-      "title": "労災認定に7年 過酷だったと遺族",
+      "time": "23:12",
+      "title": "中露 日本のEEZ内で実弾演習",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588638?source=rss",
-      "publishedAt": "2026-07-20T07:19:42.000Z",
-      "xQuery": "労災認定に7年 過酷だったと遺族"
+      "url": "https://news.yahoo.co.jp/pickup/6588686?source=rss",
+      "publishedAt": "2026-07-20T14:12:12.000Z",
+      "xQuery": "中露 日本のEEZ内で実弾演習"
     },
     {
-      "time": "20:23",
-      "title": "新名神事故で夫死亡 形見も残らず",
+      "time": "22:08",
+      "title": "港の岸壁で倒れていた男性 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588667?source=rss",
-      "publishedAt": "2026-07-20T11:23:09.000Z",
-      "xQuery": "新名神事故で夫死亡 形見も残らず"
+      "url": "https://news.yahoo.co.jp/pickup/6588680?source=rss",
+      "publishedAt": "2026-07-20T13:08:47.000Z",
+      "xQuery": "港の岸壁で倒れていた男性 死亡"
     },
     {
-      "time": "19:36",
-      "title": "外国人運転の車がはみ出しか 衝突",
+      "time": "23:03",
+      "title": "市長産休入り 妊娠後も多忙な日々",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588659?source=rss",
-      "publishedAt": "2026-07-20T10:36:11.000Z",
-      "xQuery": "外国人運転の車がはみ出しか 衝突"
+      "url": "https://news.yahoo.co.jp/pickup/6588685?source=rss",
+      "publishedAt": "2026-07-20T14:03:56.000Z",
+      "xQuery": "市長産休入り 妊娠後も多忙な日々"
     }
   ]
 };
