@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T23:25:38.627Z",
+  "updatedAt": "2026-07-20T23:50:51.469Z",
   "items": [
     {
       "time": "07:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "公取委 来夏にも大幅組織改編"
     },
     {
-      "time": "07:54",
-      "title": "EU 中国系通販に制裁金1000億円",
+      "time": "08:39",
+      "title": "保育中うつぶせ寝で死亡 母の無念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588701?source=rss",
-      "publishedAt": "2026-07-20T22:54:42.000Z",
-      "xQuery": "EU 中国系通販に制裁金1000億円"
+      "url": "https://news.yahoo.co.jp/pickup/6588705?source=rss",
+      "publishedAt": "2026-07-20T23:39:09.000Z",
+      "xQuery": "保育中うつぶせ寝で死亡 母の無念"
     },
     {
-      "time": "06:22",
-      "title": "ワーナー買収一時差し止め 米地裁",
+      "time": "08:38",
+      "title": "学校のぎょう虫検査 姿消した訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588694?source=rss",
-      "publishedAt": "2026-07-20T21:22:12.000Z",
-      "xQuery": "ワーナー買収一時差し止め 米地裁"
+      "url": "https://news.yahoo.co.jp/pickup/6588703?source=rss",
+      "publishedAt": "2026-07-20T23:38:03.000Z",
+      "xQuery": "学校のぎょう虫検査 姿消した訳"
     }
   ]
 };
