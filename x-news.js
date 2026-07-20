@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T21:29:33.545Z",
+  "updatedAt": "2026-07-20T21:56:35.198Z",
   "items": [
     {
-      "time": "23:12",
-      "title": "中露 日本のEEZ内で実弾演習",
+      "time": "06:36",
+      "title": "東海などで危険な暑さ 酷暑日予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588686?source=rss",
-      "publishedAt": "2026-07-20T14:12:12.000Z",
-      "xQuery": "中露 日本のEEZ内で実弾演習"
+      "url": "https://news.yahoo.co.jp/pickup/6588695?source=rss",
+      "publishedAt": "2026-07-20T21:36:52.000Z",
+      "xQuery": "東海などで危険な暑さ 酷暑日予想"
     },
     {
       "time": "23:55",
