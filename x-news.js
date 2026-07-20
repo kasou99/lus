@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-19T23:50:19.846Z",
+  "updatedAt": "2026-07-20T00:50:28.609Z",
   "items": [
     {
-      "time": "07:55",
-      "title": "20日も広く猛暑日に 熱中症警戒",
+      "time": "09:06",
+      "title": "米国の対イラン攻撃 範囲が拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588584?source=rss",
-      "publishedAt": "2026-07-19T22:55:38.000Z",
-      "xQuery": "20日も広く猛暑日に 熱中症警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6588597?source=rss",
+      "publishedAt": "2026-07-20T00:06:20.000Z",
+      "xQuery": "米国の対イラン攻撃 範囲が拡大"
     },
     {
       "time": "08:04",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "皇室典範 国民の理解得られぬ60%"
     },
     {
-      "time": "07:16",
-      "title": "正面衝突で2人死亡1人重体 逆走か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588578?source=rss",
-      "publishedAt": "2026-07-19T22:16:27.000Z",
-      "xQuery": "正面衝突で2人死亡1人重体 逆走か"
-    },
-    {
       "time": "08:25",
       "title": "3歳男児ひかれ死亡 1人で道路渡る",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳男児ひかれ死亡 1人で道路渡る"
     },
     {
-      "time": "23:41",
-      "title": "老舗酒造会社「越後鶴亀」全焼か",
+      "time": "08:37",
+      "title": "アルツハイマー病巡り新発見 研究",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588573?source=rss",
-      "publishedAt": "2026-07-19T14:41:18.000Z",
-      "xQuery": "老舗酒造会社「越後鶴亀」全焼か"
+      "url": "https://news.yahoo.co.jp/pickup/6588590?source=rss",
+      "publishedAt": "2026-07-19T23:37:43.000Z",
+      "xQuery": "アルツハイマー病巡り新発見 研究"
+    },
+    {
+      "time": "09:33",
+      "title": "今も地方に残る「ヤミ小作」実態",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588599?source=rss",
+      "publishedAt": "2026-07-20T00:33:33.000Z",
+      "xQuery": "今も地方に残る「ヤミ小作」実態"
     }
   ]
 };

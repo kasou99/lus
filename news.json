@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T23:50:18.504Z",
+  "updatedAt": "2026-07-20T00:50:27.729Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "09:06",
+        "title": "米国の対イラン攻撃 範囲が拡大",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588597?source=rss",
+        "publishedAt": "2026-07-20T00:06:20.000Z"
+      },
+      {
         "time": "22:01",
         "title": "日比海洋交渉入り合意 中国猛反発",
         "source": "Yahoo!ニュース",
@@ -94,23 +101,9 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588544?source=rss",
         "publishedAt": "2026-07-19T10:26:29.000Z"
-      },
-      {
-        "time": "16:41",
-        "title": "3日間漂流の5人救助 インドネシア",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588521?source=rss",
-        "publishedAt": "2026-07-19T07:41:49.000Z"
       }
     ],
     "economyHeadlines": [
-      {
-        "time": "20:13",
-        "title": "食品消費税1% 効果に不透明感も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588426?source=rss",
-        "publishedAt": "2026-07-18T11:13:17.000Z"
-      },
       {
         "time": "16:12",
         "title": "ニチレイの障害 物流復旧へ正念場",
@@ -133,11 +126,18 @@
         "publishedAt": "2026-07-19T10:06:16.000Z"
       },
       {
-        "time": "21:45",
-        "title": "トレカ人気 ブックオフG株が高値",
+        "time": "09:32",
+        "title": "マンジャロの違法転売 取り巻く闇",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588438?source=rss",
-        "publishedAt": "2026-07-18T12:45:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588598?source=rss",
+        "publishedAt": "2026-07-20T00:32:41.000Z"
+      },
+      {
+        "time": "09:49",
+        "title": "契約書や許可なし ヤミ小作の実態",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588600?source=rss",
+        "publishedAt": "2026-07-20T00:49:28.000Z"
       },
       {
         "time": "14:41",
