@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T03:12:41.942Z",
+  "updatedAt": "2026-07-20T04:45:37.877Z",
   "items": [
     {
       "time": "11:31",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "不法残留の外国人摘発 職員増員へ"
     },
     {
-      "time": "11:42",
-      "title": "高市内閣支持率「過去最低」ANN",
+      "time": "12:27",
+      "title": "海水浴場で10歳死亡 海中で発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588612?source=rss",
-      "publishedAt": "2026-07-20T02:42:19.000Z",
-      "xQuery": "高市内閣支持率「過去最低」ANN"
+      "url": "https://news.yahoo.co.jp/pickup/6588616?source=rss",
+      "publishedAt": "2026-07-20T03:27:30.000Z",
+      "xQuery": "海水浴場で10歳死亡 海中で発見"
     },
     {
-      "time": "08:25",
-      "title": "3歳男児ひかれ死亡 1人で道路渡る",
+      "time": "12:30",
+      "title": "運営もう無理 酷暑で海水浴離れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588587?source=rss",
-      "publishedAt": "2026-07-19T23:25:49.000Z",
-      "xQuery": "3歳男児ひかれ死亡 1人で道路渡る"
+      "url": "https://news.yahoo.co.jp/pickup/6588617?source=rss",
+      "publishedAt": "2026-07-20T03:30:38.000Z",
+      "xQuery": "運営もう無理 酷暑で海水浴離れ"
     },
     {
-      "time": "10:15",
-      "title": "ヘルプマークに戸惑い 誤解の背景",
+      "time": "13:10",
+      "title": "今年の夏はウナギが値下がり なぜ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588601?source=rss",
-      "publishedAt": "2026-07-20T01:15:03.000Z",
-      "xQuery": "ヘルプマークに戸惑い 誤解の背景"
+      "url": "https://news.yahoo.co.jp/pickup/6588621?source=rss",
+      "publishedAt": "2026-07-20T04:10:20.000Z",
+      "xQuery": "今年の夏はウナギが値下がり なぜ"
     }
   ]
 };
