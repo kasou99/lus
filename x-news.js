@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T22:25:43.167Z",
+  "updatedAt": "2026-07-20T22:51:01.317Z",
   "items": [
+    {
+      "time": "07:35",
+      "title": "米兵死亡 米大統領がイランに警告",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588700?source=rss",
+      "publishedAt": "2026-07-20T22:35:03.000Z",
+      "xQuery": "米兵死亡 米大統領がイランに警告"
+    },
     {
       "time": "06:36",
       "title": "東海などで危険な暑さ 酷暑日予想",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588697?source=rss",
       "publishedAt": "2026-07-20T22:15:29.000Z",
       "xQuery": "公取委 来夏にも大幅組織改編"
-    },
-    {
-      "time": "23:55",
-      "title": "イラン攻撃で米兵死亡 19歳と25歳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588690?source=rss",
-      "publishedAt": "2026-07-20T14:55:37.000Z",
-      "xQuery": "イラン攻撃で米兵死亡 19歳と25歳"
     },
     {
       "time": "06:22",

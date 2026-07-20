@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T22:25:42.268Z",
+  "updatedAt": "2026-07-20T22:51:00.474Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-07-20T20:32:39.000Z"
       },
       {
-        "time": "05:04",
-        "title": "ケーススタディー オープンイノベーション（64）金融庁、学界と連携",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43VXBQRzhLbnVxU1dEeTZjTEJucnUtSG1TYUw0RHJUby1IaEM0WkZYMUtuaG1DZWk1YmNob1NLQVpxT0RSZGtjaFg4bF9jcU9KQlJhaTFvRjZhNWc?oc=5",
-        "publishedAt": "2026-07-20T20:04:07.000Z"
-      },
-      {
         "time": "18:57",
         "title": "ヨーロッパのレーザー切断機市場規模・予測レポート 2026-2035年",
         "source": "Global Market Insights Inc.",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0c2cFhjMzNid2EtMmRsWnlXT0dyQXVZbWR0RXl3Smdhbm9aMGdzZzJENmVFVE5fS2JsbzhOd0t5NVdkVms5YzQzbXRvdjlzenRBeFZlSlVTaTRQbDBPNEJlV2l2RFF6Szd5Qk9IWC1uX25fRHA5ZTBhUVpuckI4dTgwWkFZckt3em1nNA?oc=5",
         "publishedAt": "2026-07-20T09:57:51.000Z"
+      },
+      {
+        "time": "05:04",
+        "title": "ケーススタディー オープンイノベーション（64）金融庁、学界と連携",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43VXBQRzhLbnVxU1dEeTZjTEJucnUtSG1TYUw0RHJUby1IaEM0WkZYMUtuaG1DZWk1YmNob1NLQVpxT0RSZGtjaFg4bF9jcU9KQlJhaTFvRjZhNWc?oc=5",
+        "publishedAt": "2026-07-20T20:04:07.000Z"
       },
       {
         "time": "10:00",
@@ -61,18 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "06:22",
-        "title": "ワーナー買収一時差し止め 米地裁",
+        "time": "07:35",
+        "title": "米兵死亡 米大統領がイランに警告",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588694?source=rss",
-        "publishedAt": "2026-07-20T21:22:12.000Z"
-      },
-      {
-        "time": "15:22",
-        "title": "ホルムズ タンカー2隻が「爆発」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588633?source=rss",
-        "publishedAt": "2026-07-20T06:22:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588700?source=rss",
+        "publishedAt": "2026-07-20T22:35:03.000Z"
       },
       {
         "time": "23:55",
@@ -82,11 +75,18 @@
         "publishedAt": "2026-07-20T14:55:37.000Z"
       },
       {
-        "time": "09:06",
-        "title": "米国の対イラン攻撃 範囲が拡大",
+        "time": "15:22",
+        "title": "ホルムズ タンカー2隻が「爆発」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588597?source=rss",
-        "publishedAt": "2026-07-20T00:06:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588633?source=rss",
+        "publishedAt": "2026-07-20T06:22:44.000Z"
+      },
+      {
+        "time": "06:22",
+        "title": "ワーナー買収一時差し止め 米地裁",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588694?source=rss",
+        "publishedAt": "2026-07-20T21:22:12.000Z"
       },
       {
         "time": "23:12",
