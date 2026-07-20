@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T14:18:12.436Z",
+  "updatedAt": "2026-07-20T15:17:49.252Z",
   "items": [
-    {
-      "time": "21:43",
-      "title": "42都府県に熱中症警戒アラート",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588679?source=rss",
-      "publishedAt": "2026-07-20T12:43:06.000Z",
-      "xQuery": "42都府県に熱中症警戒アラート"
-    },
-    {
-      "time": "21:34",
-      "title": "消費減税 自民要職経験者が慎重論",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588677?source=rss",
-      "publishedAt": "2026-07-20T12:34:59.000Z",
-      "xQuery": "消費減税 自民要職経験者が慎重論"
-    },
     {
       "time": "23:12",
       "title": "中露 日本のEEZ内で実弾演習",
@@ -26,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "中露 日本のEEZ内で実弾演習"
     },
     {
-      "time": "22:08",
-      "title": "港の岸壁で倒れていた男性 死亡",
+      "time": "22:53",
+      "title": "ハマス 新最高指導者にハイヤ氏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588680?source=rss",
-      "publishedAt": "2026-07-20T13:08:47.000Z",
-      "xQuery": "港の岸壁で倒れていた男性 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6588684?source=rss",
+      "publishedAt": "2026-07-20T13:53:56.000Z",
+      "xQuery": "ハマス 新最高指導者にハイヤ氏"
+    },
+    {
+      "time": "23:55",
+      "title": "イラン攻撃で米兵死亡 19歳と25歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588690?source=rss",
+      "publishedAt": "2026-07-20T14:55:37.000Z",
+      "xQuery": "イラン攻撃で米兵死亡 19歳と25歳"
+    },
+    {
+      "time": "20:23",
+      "title": "新名神事故で夫死亡 形見も残らず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588667?source=rss",
+      "publishedAt": "2026-07-20T11:23:09.000Z",
+      "xQuery": "新名神事故で夫死亡 形見も残らず"
     },
     {
       "time": "23:03",
