@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T21:56:35.198Z",
+  "updatedAt": "2026-07-20T22:25:43.167Z",
   "items": [
     {
       "time": "06:36",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588695?source=rss",
       "publishedAt": "2026-07-20T21:36:52.000Z",
       "xQuery": "東海などで危険な暑さ 酷暑日予想"
+    },
+    {
+      "time": "07:15",
+      "title": "公取委 来夏にも大幅組織改編",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588697?source=rss",
+      "publishedAt": "2026-07-20T22:15:29.000Z",
+      "xQuery": "公取委 来夏にも大幅組織改編"
     },
     {
       "time": "23:55",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588694?source=rss",
       "publishedAt": "2026-07-20T21:22:12.000Z",
       "xQuery": "ワーナー買収一時差し止め 米地裁"
-    },
-    {
-      "time": "20:23",
-      "title": "新名神事故で夫死亡 形見も残らず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588667?source=rss",
-      "publishedAt": "2026-07-20T11:23:09.000Z",
-      "xQuery": "新名神事故で夫死亡 形見も残らず"
     },
     {
       "time": "23:03",
