@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T11:15:36.406Z",
+  "updatedAt": "2026-07-21T12:05:50.235Z",
   "items": [
     {
-      "time": "17:48",
-      "title": "コメ価格下落基調続く 今後の鍵は",
+      "time": "20:40",
+      "title": "22日は関東も40℃の酷暑日予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588780?source=rss",
-      "publishedAt": "2026-07-21T08:48:29.000Z",
-      "xQuery": "コメ価格下落基調続く 今後の鍵は"
+      "url": "https://news.yahoo.co.jp/pickup/6588807?source=rss",
+      "publishedAt": "2026-07-21T11:40:30.000Z",
+      "xQuery": "22日は関東も40℃の酷暑日予想"
     },
     {
-      "time": "18:19",
-      "title": "金銭授受告白の県議 第三者委要望",
+      "time": "20:00",
+      "title": "自民有志 トレカ振興の議連設立へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588788?source=rss",
-      "publishedAt": "2026-07-21T09:19:12.000Z",
-      "xQuery": "金銭授受告白の県議 第三者委要望"
-    },
-    {
-      "time": "19:25",
-      "title": "伐採中に倒れた木が直撃 男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588800?source=rss",
-      "publishedAt": "2026-07-21T10:25:46.000Z",
-      "xQuery": "伐採中に倒れた木が直撃 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6588804?source=rss",
+      "publishedAt": "2026-07-21T11:00:38.000Z",
+      "xQuery": "自民有志 トレカ振興の議連設立へ"
     },
     {
       "time": "18:35",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588767?source=rss",
       "publishedAt": "2026-07-21T07:36:38.000Z",
       "xQuery": "熱中症疑い死亡 発見時体温42.6℃"
+    },
+    {
+      "time": "20:51",
+      "title": "勤務後休憩1hで乗務 誤って駅通過",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588812?source=rss",
+      "publishedAt": "2026-07-21T11:51:10.000Z",
+      "xQuery": "勤務後休憩1hで乗務 誤って駅通過"
     }
   ]
 };

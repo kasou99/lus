@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T11:15:35.642Z",
+  "updatedAt": "2026-07-21T12:05:49.472Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-07-21T03:30:00.000Z"
       },
       {
-        "time": "08:10",
-        "title": "新役員／NGK 執行役員エネルギー＆インダストリー事業本部ガイシ事業部長・石川貴浩氏ほか",
+        "time": "08:26",
+        "title": "経営ひと言／津田駒工業・高納伸宏会長兼社長「新事業が軌道に」",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSnVpOE5rR2xmNjJ4UXdqYlpLNmh5MkxWNUNDNVFoWDQ3aVhDanplUWdiOWVVNmlZbzdNN3lyUkdxSXZqWmRJbzlfcmVrNkJJRnNFR2g2dXN5MkU?oc=5",
-        "publishedAt": "2026-07-20T23:10:29.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pTm1lOFZDRXhuekZJcEdqNmVsUjlramZvbnRUa0xCQkZxY0xFQ1FtQWxuUW5vNzI3Y1B1dUVPTTZLMzZJN0Y5YXBSV2ViVHdHdXJpdzdLZU15RE0?oc=5",
+        "publishedAt": "2026-07-20T23:26:33.000Z"
       },
       {
         "time": "07:57",
@@ -105,25 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "16:37",
-        "title": "下請法違反 医療機器HOYAに勧告",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588768?source=rss",
-        "publishedAt": "2026-07-21T07:37:11.000Z"
-      },
-      {
         "time": "16:31",
         "title": "マンション1都3県 平均1億円超",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588765?source=rss",
         "publishedAt": "2026-07-21T07:31:04.000Z"
-      },
-      {
-        "time": "11:15",
-        "title": "サムスン 米で大規模な人員削‌減",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588722?source=rss",
-        "publishedAt": "2026-07-21T02:15:59.000Z"
       },
       {
         "time": "17:48",
@@ -138,6 +124,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588744?source=rss",
         "publishedAt": "2026-07-21T04:05:16.000Z"
+      },
+      {
+        "time": "20:36",
+        "title": "カンロ 健康のど飴など値上げへ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588806?source=rss",
+        "publishedAt": "2026-07-21T11:36:09.000Z"
+      },
+      {
+        "time": "20:51",
+        "title": "勤務後休憩1hで乗務 誤って駅通過",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588812?source=rss",
+        "publishedAt": "2026-07-21T11:51:10.000Z"
       },
       {
         "time": "18:33",
