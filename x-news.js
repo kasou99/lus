@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T10:20:06.148Z",
+  "updatedAt": "2026-07-21T11:15:36.406Z",
   "items": [
     {
-      "time": "17:20",
-      "title": "中国 日本EEZ内での訓練巡り反論",
+      "time": "17:48",
+      "title": "コメ価格下落基調続く 今後の鍵は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588774?source=rss",
-      "publishedAt": "2026-07-21T08:20:53.000Z",
-      "xQuery": "中国 日本EEZ内での訓練巡り反論"
+      "url": "https://news.yahoo.co.jp/pickup/6588780?source=rss",
+      "publishedAt": "2026-07-21T08:48:29.000Z",
+      "xQuery": "コメ価格下落基調続く 今後の鍵は"
     },
     {
-      "time": "16:37",
-      "title": "下請法違反 医療機器HOYAに勧告",
+      "time": "18:19",
+      "title": "金銭授受告白の県議 第三者委要望",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588768?source=rss",
-      "publishedAt": "2026-07-21T07:37:11.000Z",
-      "xQuery": "下請法違反 医療機器HOYAに勧告"
+      "url": "https://news.yahoo.co.jp/pickup/6588788?source=rss",
+      "publishedAt": "2026-07-21T09:19:12.000Z",
+      "xQuery": "金銭授受告白の県議 第三者委要望"
     },
     {
-      "time": "17:00",
-      "title": "首相の「0～3時間睡眠」投稿 波紋",
+      "time": "19:25",
+      "title": "伐採中に倒れた木が直撃 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588770?source=rss",
-      "publishedAt": "2026-07-21T08:00:03.000Z",
-      "xQuery": "首相の「0～3時間睡眠」投稿 波紋"
+      "url": "https://news.yahoo.co.jp/pickup/6588800?source=rss",
+      "publishedAt": "2026-07-21T10:25:46.000Z",
+      "xQuery": "伐採中に倒れた木が直撃 男性死亡"
     },
     {
       "time": "18:35",
