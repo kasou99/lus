@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T22:22:31.410Z",
+  "updatedAt": "2026-07-21T22:49:58.901Z",
   "items": [
     {
       "time": "06:13",
@@ -10,6 +10,22 @@ window.LUS_X_NEWS = {
       "xQuery": "一時1ドル163円台 約39年半ぶり"
     },
     {
+      "time": "07:26",
+      "title": "22日も各地で酷暑日予想 厳重警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588838?source=rss",
+      "publishedAt": "2026-07-21T22:26:47.000Z",
+      "xQuery": "22日も各地で酷暑日予想 厳重警戒"
+    },
+    {
+      "time": "07:44",
+      "title": "首相「多忙アピール」なぜ逆効果",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588842?source=rss",
+      "publishedAt": "2026-07-21T22:44:34.000Z",
+      "xQuery": "首相「多忙アピール」なぜ逆効果"
+    },
+    {
       "time": "06:54",
       "title": "ウ軍総司令官解任 前国防相と対立",
       "source": "Yahoo!ニュース",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ウ軍総司令官解任 前国防相と対立"
     },
     {
-      "time": "21:36",
-      "title": "石破氏 消費減税見直しも選択肢",
+      "time": "07:29",
+      "title": "住宅全焼し4人遺体 千葉・八街市",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588817?source=rss",
-      "publishedAt": "2026-07-21T12:36:40.000Z",
-      "xQuery": "石破氏 消費減税見直しも選択肢"
-    },
-    {
-      "time": "06:23",
-      "title": "ニチレイ障害 ハッカー集団が声明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588834?source=rss",
-      "publishedAt": "2026-07-21T21:23:14.000Z",
-      "xQuery": "ニチレイ障害 ハッカー集団が声明"
-    },
-    {
-      "time": "23:05",
-      "title": "露への大学生ら短期派遣 再開へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588829?source=rss",
-      "publishedAt": "2026-07-21T14:05:19.000Z",
-      "xQuery": "露への大学生ら短期派遣 再開へ"
+      "url": "https://news.yahoo.co.jp/pickup/6588840?source=rss",
+      "publishedAt": "2026-07-21T22:29:40.000Z",
+      "xQuery": "住宅全焼し4人遺体 千葉・八街市"
     }
   ]
 };

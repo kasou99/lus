@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T22:22:30.909Z",
+  "updatedAt": "2026-07-21T22:49:58.210Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "47NEWS",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0aUx4Y0JoSzV2Y1NPZ3BwU290SUlqNEtraE1VZm1kVDk2Vy1ZaFZlZjh2NWdRMmd6ZG9EREllbjU2V1p2QVdxNWJabw?oc=5",
         "publishedAt": "2026-07-21T20:00:00.000Z"
+      },
+      {
+        "time": "07:36",
+        "title": "コレクター垂涎の1200万超。ローマン・ゴティエ、超精密加工×伝統的手仕上げの腕時計（GOETHE）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yQUR0dG5QSFA1YjJ0ekNxWXZPN1Bzb2UwQ3B6VlpyeGFUOWhGVE9tbTVkTGJQbHZTNHBqdGFOR1NpZHc2N0RuVDUwWkx6a0ZsOXNfWHhOOUF3UFpFZUc5ZWJWYkp1bmZjNTZReXM1bnZtaUliMHI5SVdhdU16Z0E?oc=5",
+        "publishedAt": "2026-07-21T22:36:44.000Z"
       },
       {
         "time": "05:04",
@@ -50,13 +57,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
         "publishedAt": "2026-07-21T10:22:42.000Z"
-      },
-      {
-        "time": "16:56",
-        "title": "DN Solutions、チタン・超合金の精密切削に特化した「PUMA VTR 1620 MC」を発表",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrSWVfckNZQjF1Q0NoSWZVdVRaUFFZWFR4ZlZQME5fNE9lM2JJbS1fYVMzakc1WkVyZnppY1R0SjhtaFVpQWcxSnlreTRXQkJ3VEdVY1RFdHpPZV9RbmZER25XQUliS2tXbnQzbXY0dDhvYTRI?oc=5",
-        "publishedAt": "2026-07-21T07:56:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:29",
+        "title": "住宅全焼し4人遺体 千葉・八街市",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588840?source=rss",
+        "publishedAt": "2026-07-21T22:29:40.000Z"
+      },
+      {
         "time": "22:56",
         "title": "明石歩道橋事故 25年前の救助活動",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588825?source=rss",
         "publishedAt": "2026-07-21T13:21:50.000Z"
-      },
-      {
-        "time": "16:33",
-        "title": "バイク音うるさいと追突疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588766?source=rss",
-        "publishedAt": "2026-07-21T07:33:32.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -225,10 +225,10 @@
       },
       {
         "time": "16:00",
-        "title": "令和8年度エイジフレンドリー補助金とは？いつから・変更点や概要・熱中症対策コースを解説【2026年】",
+        "title": "食洗機設置の設置で使える！省エネ住宅補助金",
         "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45aXIzZXh4TFBhV004SVlUeGNTQ3FHTGtHdjhqWU13S3BCODBfaEdSdVZ6djNjZ0tLcFg4cjJrMkxqQVB5M0g1Nmgzd2wyV1BIU2g0Y1lTdXRpaGx5Q0xHZXZGTExJUQ?oc=5",
-        "publishedAt": "2026-06-22T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wb3R6alFKeVRpMkVWVGpiMjRhdGVkZFhZZXRBTl8yeU5xTDlwMDQwelhkQ3hFSnNaMEszMjRYMl9VYjAxUi1xVzRzSEkwTWkxLXZhbndUWkpGUUg4aXY4V0VPSDQ?oc=5",
+        "publishedAt": "2026-06-30T07:00:00.000Z"
       }
     ]
   }
