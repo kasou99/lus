@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T22:49:58.210Z",
+  "updatedAt": "2026-07-21T23:23:50.936Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-07-21T20:04:50.000Z"
       },
       {
-        "time": "08:07",
-        "title": "【レポート】DMG森精機 工程集約で工作機械の価値を最大化 伊賀事業所でMX戦略を公開！ - | 製造現場ドットコム",
+        "time": "13:10",
+        "title": "「売るのは測定器ではなく生産性」 ～ブルーム-ノボテスト 朝尾信之 日本法人社長に聞く～ - | 製造現場ドットコム",
         "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE14OGxKUFFia254dFNvWjdhSVVMNU1mbmgtX0xacGMwZTAzREg1bVNuRGRVdHZ4Ui1HeF8tYjdNaVpqNFJEclJlUlJn?oc=5",
-        "publishedAt": "2026-07-20T23:07:19.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tREJneXVWcDZGYi1JLXBEY1ZXLUpvY1BzZUFoNDV5XzgwM3d5UE1VOU5TWVZsU01VeWliNW54MWZUQWpzZnhFM0RB?oc=5",
+        "publishedAt": "2026-07-21T04:10:19.000Z"
       },
       {
         "time": "18:21",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "08:16",
+        "title": "米 イラン山岳地帯を「近く攻撃」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588845?source=rss",
+        "publishedAt": "2026-07-21T23:16:36.000Z"
+      },
+      {
         "time": "06:54",
         "title": "ウ軍総司令官解任 前国防相と対立",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588774?source=rss",
         "publishedAt": "2026-07-21T08:20:53.000Z"
-      },
-      {
-        "time": "12:04",
-        "title": "北外相が電撃訪露 さまざまな思惑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588738?source=rss",
-        "publishedAt": "2026-07-21T03:04:39.000Z"
       },
       {
         "time": "18:02",
@@ -126,25 +126,25 @@
         "publishedAt": "2026-07-21T07:31:04.000Z"
       },
       {
-        "time": "17:48",
-        "title": "コメ価格下落基調続く 今後の鍵は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588780?source=rss",
-        "publishedAt": "2026-07-21T08:48:29.000Z"
-      },
-      {
-        "time": "13:05",
-        "title": "「着る虫よけ」人気 大手も参入",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588744?source=rss",
-        "publishedAt": "2026-07-21T04:05:16.000Z"
-      },
-      {
         "time": "20:51",
         "title": "勤務後休憩1hで乗務 誤って駅通過",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588812?source=rss",
         "publishedAt": "2026-07-21T11:51:10.000Z"
+      },
+      {
+        "time": "08:18",
+        "title": "Made in Japanの服 消えゆく未来",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588846?source=rss",
+        "publishedAt": "2026-07-21T23:18:29.000Z"
+      },
+      {
+        "time": "08:10",
+        "title": "職場で広がるハーフパンツ 実態は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588844?source=rss",
+        "publishedAt": "2026-07-21T23:10:40.000Z"
       }
     ],
     "localHeadlines": [

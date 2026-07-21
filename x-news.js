@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T22:49:58.901Z",
+  "updatedAt": "2026-07-21T23:23:51.760Z",
   "items": [
     {
-      "time": "06:13",
-      "title": "一時1ドル163円台 約39年半ぶり",
+      "time": "07:38",
+      "title": "骨太方針 経済成長へ国内投資強化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588833?source=rss",
-      "publishedAt": "2026-07-21T21:13:13.000Z",
-      "xQuery": "一時1ドル163円台 約39年半ぶり"
+      "url": "https://news.yahoo.co.jp/pickup/6588841?source=rss",
+      "publishedAt": "2026-07-21T22:38:50.000Z",
+      "xQuery": "骨太方針 経済成長へ国内投資強化"
     },
     {
       "time": "07:26",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相「多忙アピール」なぜ逆効果"
     },
     {
-      "time": "06:54",
-      "title": "ウ軍総司令官解任 前国防相と対立",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588836?source=rss",
-      "publishedAt": "2026-07-21T21:54:30.000Z",
-      "xQuery": "ウ軍総司令官解任 前国防相と対立"
-    },
-    {
       "time": "07:29",
       "title": "住宅全焼し4人遺体 千葉・八街市",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6588840?source=rss",
       "publishedAt": "2026-07-21T22:29:40.000Z",
       "xQuery": "住宅全焼し4人遺体 千葉・八街市"
+    },
+    {
+      "time": "06:23",
+      "title": "ニチレイ障害 ハッカー集団が声明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588834?source=rss",
+      "publishedAt": "2026-07-21T21:23:14.000Z",
+      "xQuery": "ニチレイ障害 ハッカー集団が声明"
     }
   ]
 };
