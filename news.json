@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T21:30:31.961Z",
+  "updatedAt": "2026-07-21T22:22:30.909Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "06:54",
+        "title": "ウ軍総司令官解任 前国防相と対立",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588836?source=rss",
+        "publishedAt": "2026-07-21T21:54:30.000Z"
+      },
+      {
         "time": "07:54",
         "title": "EU 中国系通販に制裁金1000億円",
         "source": "Yahoo!ニュース",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588774?source=rss",
         "publishedAt": "2026-07-21T08:20:53.000Z"
-      },
-      {
-        "time": "07:35",
-        "title": "米兵死亡 米大統領がイランに警告",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588700?source=rss",
-        "publishedAt": "2026-07-20T22:35:03.000Z"
       },
       {
         "time": "12:04",
@@ -225,10 +225,10 @@
       },
       {
         "time": "16:00",
-        "title": "食洗機設置の設置で使える！省エネ住宅補助金",
+        "title": "令和8年度エイジフレンドリー補助金とは？いつから・変更点や概要・熱中症対策コースを解説【2026年】",
         "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wb3R6alFKeVRpMkVWVGpiMjRhdGVkZFhZZXRBTl8yeU5xTDlwMDQwelhkQ3hFSnNaMEszMjRYMl9VYjAxUi1xVzRzSEkwTWkxLXZhbndUWkpGUUg4aXY4V0VPSDQ?oc=5",
-        "publishedAt": "2026-06-30T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45aXIzZXh4TFBhV004SVlUeGNTQ3FHTGtHdjhqWU13S3BCODBfaEdSdVZ6djNjZ0tLcFg4cjJrMkxqQVB5M0g1Nmgzd2wyV1BIU2g0Y1lTdXRpaGx5Q0xHZXZGTExJUQ?oc=5",
+        "publishedAt": "2026-06-22T07:00:00.000Z"
       }
     ]
   }

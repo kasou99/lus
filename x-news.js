@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T21:30:32.431Z",
+  "updatedAt": "2026-07-21T22:22:31.410Z",
   "items": [
     {
       "time": "06:13",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588833?source=rss",
       "publishedAt": "2026-07-21T21:13:13.000Z",
       "xQuery": "一時1ドル163円台 約39年半ぶり"
+    },
+    {
+      "time": "06:54",
+      "title": "ウ軍総司令官解任 前国防相と対立",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588836?source=rss",
+      "publishedAt": "2026-07-21T21:54:30.000Z",
+      "xQuery": "ウ軍総司令官解任 前国防相と対立"
     },
     {
       "time": "21:36",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588829?source=rss",
       "publishedAt": "2026-07-21T14:05:19.000Z",
       "xQuery": "露への大学生ら短期派遣 再開へ"
-    },
-    {
-      "time": "22:56",
-      "title": "明石歩道橋事故 25年前の救助活動",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588828?source=rss",
-      "publishedAt": "2026-07-21T13:56:10.000Z",
-      "xQuery": "明石歩道橋事故 25年前の救助活動"
     }
   ]
 };
