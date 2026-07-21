@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T12:05:50.235Z",
+  "updatedAt": "2026-07-21T13:00:46.038Z",
   "items": [
     {
       "time": "20:40",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "22日は関東も40℃の酷暑日予想"
     },
     {
-      "time": "20:00",
-      "title": "自民有志 トレカ振興の議連設立へ",
+      "time": "21:38",
+      "title": "「夜の熱中症」潜む危険と対策",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588804?source=rss",
-      "publishedAt": "2026-07-21T11:00:38.000Z",
-      "xQuery": "自民有志 トレカ振興の議連設立へ"
+      "url": "https://news.yahoo.co.jp/pickup/6588818?source=rss",
+      "publishedAt": "2026-07-21T12:38:38.000Z",
+      "xQuery": "「夜の熱中症」潜む危険と対策"
     },
     {
-      "time": "18:35",
-      "title": "学習放獣したクマが出没 殺処分",
+      "time": "21:48",
+      "title": "霧島市遺体 身元特定に数日見込み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588793?source=rss",
-      "publishedAt": "2026-07-21T09:35:37.000Z",
-      "xQuery": "学習放獣したクマが出没 殺処分"
+      "url": "https://news.yahoo.co.jp/pickup/6588821?source=rss",
+      "publishedAt": "2026-07-21T12:48:44.000Z",
+      "xQuery": "霧島市遺体 身元特定に数日見込み"
     },
     {
-      "time": "16:36",
-      "title": "熱中症疑い死亡 発見時体温42.6℃",
+      "time": "17:00",
+      "title": "首相の「0～3時間睡眠」投稿 波紋",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588767?source=rss",
-      "publishedAt": "2026-07-21T07:36:38.000Z",
-      "xQuery": "熱中症疑い死亡 発見時体温42.6℃"
+      "url": "https://news.yahoo.co.jp/pickup/6588770?source=rss",
+      "publishedAt": "2026-07-21T08:00:03.000Z",
+      "xQuery": "首相の「0～3時間睡眠」投稿 波紋"
     },
     {
-      "time": "20:51",
-      "title": "勤務後休憩1hで乗務 誤って駅通過",
+      "time": "18:52",
+      "title": "脊髄iPS移植4年観察 副作用なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588812?source=rss",
-      "publishedAt": "2026-07-21T11:51:10.000Z",
-      "xQuery": "勤務後休憩1hで乗務 誤って駅通過"
+      "url": "https://news.yahoo.co.jp/pickup/6588797?source=rss",
+      "publishedAt": "2026-07-21T09:52:15.000Z",
+      "xQuery": "脊髄iPS移植4年観察 副作用なし"
     }
   ]
 };
