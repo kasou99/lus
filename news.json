@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T18:35:39.735Z",
+  "updatedAt": "2026-07-21T19:34:40.363Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-07-21T06:19:00.000Z"
       },
       {
-        "time": "19:22",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-07-21T10:22:42.000Z"
-      },
-      {
         "time": "16:56",
         "title": "DN Solutions、チタン・超合金の精密切削に特化した「PUMA VTR 1620 MC」を発表",
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrSWVfckNZQjF1Q0NoSWZVdVRaUFFZWFR4ZlZQME5fNE9lM2JJbS1fYVMzakc1WkVyZnppY1R0SjhtaFVpQWcxSnlreTRXQkJ3VEdVY1RFdHpPZV9RbmZER25XQUliS2tXbnQzbXY0dDhvYTRI?oc=5",
         "publishedAt": "2026-07-21T07:56:00.000Z"
+      },
+      {
+        "time": "19:22",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-07-21T10:22:42.000Z"
       },
       {
         "time": "12:30",
@@ -225,10 +225,10 @@
       },
       {
         "time": "16:00",
-        "title": "令和8年度エイジフレンドリー補助金とは？いつから・変更点や概要・熱中症対策コースを解説【2026年】",
+        "title": "食洗機設置の設置で使える！省エネ住宅補助金",
         "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45aXIzZXh4TFBhV004SVlUeGNTQ3FHTGtHdjhqWU13S3BCODBfaEdSdVZ6djNjZ0tLcFg4cjJrMkxqQVB5M0g1Nmgzd2wyV1BIU2g0Y1lTdXRpaGx5Q0xHZXZGTExJUQ?oc=5",
-        "publishedAt": "2026-06-22T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wb3R6alFKeVRpMkVWVGpiMjRhdGVkZFhZZXRBTl8yeU5xTDlwMDQwelhkQ3hFSnNaMEszMjRYMl9VYjAxUi1xVzRzSEkwTWkxLXZhbndUWkpGUUg4aXY4V0VPSDQ?oc=5",
+        "publishedAt": "2026-06-30T07:00:00.000Z"
       }
     ]
   }
