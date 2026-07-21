@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-07-21T19:34:40.363Z",
+  "updatedAt": "2026-07-21T20:31:58.138Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:12",
+        "title": "工作機械部品加工の小垣江鉄工所 安城工場など設備増強 半導体関連需要に対応",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wZ0lVTkt2OW1FQzVNT0d2VDRNSGg4V2NnZkZQMm92bjFDTGVFa3NUbHRDck5FVE94dWE5aDBJdGVOY1RaMWdqamFhMFR3ZzdmRHk4VHd1elhlYmhyMXg0eFAwdlJQNFU2ZmhfREFiNGNaUFE?oc=5",
+        "publishedAt": "2026-07-21T20:12:51.000Z"
+      },
+      {
+        "time": "05:04",
+        "title": "インタビュー／東京センチュリー社長・藤原弘治氏 投資拡大、10年で当期益3.6倍",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwR0dtWExBVjh0bmFNYjltTEZGbGIyYTNkNktvYnpTRDl3X1FNU0k2aGpzbnBLazJIc0liR2k0YUMyaGFUTW5vMFB2bTJiY0dSX2oycFZ4ck1MZDQ?oc=5",
+        "publishedAt": "2026-07-21T20:04:50.000Z"
+      },
       {
         "time": "08:07",
         "title": "【レポート】DMG森精機 工程集約で工作機械の価値を最大化 伊賀事業所でMX戦略を公開！ - | 製造現場ドットコム",
@@ -24,13 +38,6 @@
         "publishedAt": "2026-07-21T06:19:00.000Z"
       },
       {
-        "time": "16:56",
-        "title": "DN Solutions、チタン・超合金の精密切削に特化した「PUMA VTR 1620 MC」を発表",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrSWVfckNZQjF1Q0NoSWZVdVRaUFFZWFR4ZlZQME5fNE9lM2JJbS1fYVMzakc1WkVyZnppY1R0SjhtaFVpQWcxSnlreTRXQkJ3VEdVY1RFdHpPZV9RbmZER25XQUliS2tXbnQzbXY0dDhvYTRI?oc=5",
-        "publishedAt": "2026-07-21T07:56:00.000Z"
-      },
-      {
         "time": "19:22",
         "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
         "source": "山陽新聞",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-07-21T10:22:42.000Z"
       },
       {
+        "time": "16:56",
+        "title": "DN Solutions、チタン・超合金の精密切削に特化した「PUMA VTR 1620 MC」を発表",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrSWVfckNZQjF1Q0NoSWZVdVRaUFFZWFR4ZlZQME5fNE9lM2JJbS1fYVMzakc1WkVyZnppY1R0SjhtaFVpQWcxSnlreTRXQkJ3VEdVY1RFdHpPZV9RbmZER25XQUliS2tXbnQzbXY0dDhvYTRI?oc=5",
+        "publishedAt": "2026-07-21T07:56:00.000Z"
+      },
+      {
         "time": "12:30",
         "title": "機械が売れると必ず潤う「裏方」20銘柄。切削工具・ベアリング・専門商社の穴場リスト｜日本個別株デューデリジェンスセンター",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6VF8xdlhibWNFd3pabHZFbHJvbHFhakE3RkMweXRyMkZ3LVJtVFQ0SnRSRXdpMERaTnpwa01PZjU0NHYzNjdOV3Z2Qm9OTEFyUEV0OGw2VjBqYVk?oc=5",
         "publishedAt": "2026-07-21T03:30:00.000Z"
-      },
-      {
-        "time": "08:26",
-        "title": "経営ひと言／津田駒工業・高納伸宏会長兼社長「新事業が軌道に」",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pTm1lOFZDRXhuekZJcEdqNmVsUjlramZvbnRUa0xCQkZxY0xFQ1FtQWxuUW5vNzI3Y1B1dUVPTTZLMzZJN0Y5YXBSV2ViVHdHdXJpdzdLZU15RE0?oc=5",
-        "publishedAt": "2026-07-20T23:26:33.000Z"
-      },
-      {
-        "time": "07:57",
-        "title": "DMG森精機 CELOS Clubに「Condition Agent」を搭載 ～工作機械の予兆保全を標準機能へ～ - | 製造現場ドットコム",
-        "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBwaGM3OGlaUnZqTVhyOWZsWTlsR1JybWQ5Y1B5c1UxcjJQUGMxdDBSOFFQWHZJbUZrMDZfUHpBdERuRm9uYU9MYnd3?oc=5",
-        "publishedAt": "2026-07-20T22:57:18.000Z"
       }
     ],
     "worldHeadlines": [
