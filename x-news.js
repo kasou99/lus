@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-20T23:50:51.469Z",
+  "updatedAt": "2026-07-21T00:47:39.224Z",
   "items": [
+    {
+      "time": "09:07",
+      "title": "延長国会 副首都など4法案綱渡り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588708?source=rss",
+      "publishedAt": "2026-07-21T00:07:54.000Z",
+      "xQuery": "延長国会 副首都など4法案綱渡り"
+    },
     {
       "time": "07:35",
       "title": "米兵死亡 米大統領がイランに警告",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588700?source=rss",
       "publishedAt": "2026-07-20T22:35:03.000Z",
       "xQuery": "米兵死亡 米大統領がイランに警告"
-    },
-    {
-      "time": "06:36",
-      "title": "東海などで危険な暑さ 酷暑日予想",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588695?source=rss",
-      "publishedAt": "2026-07-20T21:36:52.000Z",
-      "xQuery": "東海などで危険な暑さ 酷暑日予想"
     },
     {
       "time": "07:15",

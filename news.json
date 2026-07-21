@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T23:50:50.754Z",
+  "updatedAt": "2026-07-21T00:47:38.300Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,11 @@
         "publishedAt": "2026-07-20T20:32:39.000Z"
       },
       {
-        "time": "05:04",
-        "title": "ケーススタディー オープンイノベーション（64）金融庁、学界と連携",
+        "time": "08:26",
+        "title": "経営ひと言／津田駒工業・高納伸宏会長兼社長「新事業が軌道に」",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43VXBQRzhLbnVxU1dEeTZjTEJucnUtSG1TYUw0RHJUby1IaEM0WkZYMUtuaG1DZWk1YmNob1NLQVpxT0RSZGtjaFg4bF9jcU9KQlJhaTFvRjZhNWc?oc=5",
-        "publishedAt": "2026-07-20T20:04:07.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "サーボロールフィードの世界市場（2026年～2032年）、市場規模（ACサーボロールフィード、DCサーボロールフィード）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fSmJQOElldEtqYUpXQ1oxNFYzMGoxLWx0SDBHdXJNOHp2NDgya3FjRFJBa1JOQWFKZmZtWkVXbWhqLVFuci0w?oc=5",
-        "publishedAt": "2026-07-20T01:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pTm1lOFZDRXhuekZJcEdqNmVsUjlramZvbnRUa0xCQkZxY0xFQ1FtQWxuUW5vNzI3Y1B1dUVPTTZLMzZJN0Y5YXBSV2ViVHdHdXJpdzdLZU15RE0?oc=5",
+        "publishedAt": "2026-07-20T23:26:33.000Z"
       },
       {
         "time": "08:17",
@@ -57,6 +50,13 @@
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tREJneXVWcDZGYi1JLXBEY1ZXLUpvY1BzZUFoNDV5XzgwM3d5UE1VOU5TWVZsU01VeWliNW54MWZUQWpzZnhFM0RB?oc=5",
         "publishedAt": "2026-07-20T23:17:24.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "サーボロールフィードの世界市場（2026年～2032年）、市場規模（ACサーボロールフィード、DCサーボロールフィード）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fSmJQOElldEtqYUpXQ1oxNFYzMGoxLWx0SDBHdXJNOHp2NDgya3FjRFJBa1JOQWFKZmZtWkVXbWhqLVFuci0w?oc=5",
+        "publishedAt": "2026-07-20T01:00:00.000Z"
       }
     ],
     "worldHeadlines": [
