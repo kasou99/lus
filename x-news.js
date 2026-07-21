@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T00:47:39.224Z",
+  "updatedAt": "2026-07-21T01:40:28.077Z",
   "items": [
     {
       "time": "09:07",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米兵死亡 米大統領がイランに警告"
     },
     {
-      "time": "07:15",
-      "title": "公取委 来夏にも大幅組織改編",
+      "time": "10:08",
+      "title": "米 カナダ製品の一部に50%関税へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588697?source=rss",
-      "publishedAt": "2026-07-20T22:15:29.000Z",
-      "xQuery": "公取委 来夏にも大幅組織改編"
+      "url": "https://news.yahoo.co.jp/pickup/6588715?source=rss",
+      "publishedAt": "2026-07-21T01:08:19.000Z",
+      "xQuery": "米 カナダ製品の一部に50%関税へ"
     },
     {
       "time": "08:39",

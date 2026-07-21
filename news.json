@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T00:47:38.300Z",
+  "updatedAt": "2026-07-21T01:40:26.828Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,20 @@
         "publishedAt": "2026-07-20T22:57:18.000Z"
       },
       {
+        "time": "10:15",
+        "title": "コレクター垂涎の1200万超。ローマン・ゴティエ、超精密加工×伝統的手仕上げの腕時計",
+        "source": "GOETHE[ゲーテ]",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aZThJbGFueTFXRGROc3Q5ZHJpaVFVckdxTmtkYmRnOVJxc2hLMW5QSzUzLWRIVHFaSF9jLUdlUGlrazZTZU9SMHZDWDFKSS1jbnBqNzFUYkJEV25mZmpYRXBnT01tT0JRWXVmd1ZB?oc=5",
+        "publishedAt": "2026-07-21T01:15:00.000Z"
+      },
+      {
+        "time": "09:00",
+        "title": "ベアリング用スチールボール市場規模分析レポート：2026年は1902百万米ドルに到達予測",
+        "source": "ドリームニュース",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aZzhEZjJPMTExdU9TQU5kWW90V3ZRNlJCZlg5RElRMVRXbWFpejhxRGlIZ3FEeXZsVURTeExOV0xhNTZTQ09SYjZQVnAxQVVUOEw4?oc=5",
+        "publishedAt": "2026-07-21T00:00:00.000Z"
+      },
+      {
         "time": "05:32",
         "title": "ツガミ（6101）株価1年3倍の裏で、会社計画は営業益「プラス1.1％」。この違和感を放置していいのか",
         "source": "note",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-07-20T20:32:39.000Z"
       },
       {
-        "time": "08:26",
-        "title": "経営ひと言／津田駒工業・高納伸宏会長兼社長「新事業が軌道に」",
+        "time": "08:10",
+        "title": "新役員／NGK 執行役員エネルギー＆インダストリー事業本部ガイシ事業部長・石川貴浩氏ほか",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pTm1lOFZDRXhuekZJcEdqNmVsUjlramZvbnRUa0xCQkZxY0xFQ1FtQWxuUW5vNzI3Y1B1dUVPTTZLMzZJN0Y5YXBSV2ViVHdHdXJpdzdLZU15RE0?oc=5",
-        "publishedAt": "2026-07-20T23:26:33.000Z"
-      },
-      {
-        "time": "08:17",
-        "title": "「売るのは測定器ではなく生産性」 ～ブルーム-ノボテスト 朝尾信之 日本法人社長に聞く～ - | 製造現場ドットコム",
-        "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tREJneXVWcDZGYi1JLXBEY1ZXLUpvY1BzZUFoNDV5XzgwM3d5UE1VOU5TWVZsU01VeWliNW54MWZUQWpzZnhFM0RB?oc=5",
-        "publishedAt": "2026-07-20T23:17:24.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "サーボロールフィードの世界市場（2026年～2032年）、市場規模（ACサーボロールフィード、DCサーボロールフィード）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fSmJQOElldEtqYUpXQ1oxNFYzMGoxLWx0SDBHdXJNOHp2NDgya3FjRFJBa1JOQWFKZmZtWkVXbWhqLVFuci0w?oc=5",
-        "publishedAt": "2026-07-20T01:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZSnVpOE5rR2xmNjJ4UXdqYlpLNmh5MkxWNUNDNVFoWDQ3aVhDanplUWdiOWVVNmlZbzdNN3lyUkdxSXZqWmRJbzlfcmVrNkJJRnNFR2g2dXN5MkU?oc=5",
+        "publishedAt": "2026-07-20T23:10:29.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "10:08",
+        "title": "米 カナダ製品の一部に50%関税へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588715?source=rss",
+        "publishedAt": "2026-07-21T01:08:19.000Z"
+      },
+      {
         "time": "10:54",
         "title": "日米合意1年 関税の負担依然重く",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588598?source=rss",
         "publishedAt": "2026-07-20T00:32:41.000Z"
-      },
-      {
-        "time": "09:49",
-        "title": "契約書や許可なし ヤミ小作の実態",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588600?source=rss",
-        "publishedAt": "2026-07-20T00:49:28.000Z"
       },
       {
         "time": "13:10",
