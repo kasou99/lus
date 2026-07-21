@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T07:23:53.966Z",
+  "updatedAt": "2026-07-21T08:19:50.486Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,11 +112,11 @@
         "publishedAt": "2026-07-21T05:00:19.000Z"
       },
       {
-        "time": "10:08",
-        "title": "米 カナダ製品の一部に50%関税へ",
+        "time": "16:37",
+        "title": "下請法違反 医療機器HOYAに勧告",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588715?source=rss",
-        "publishedAt": "2026-07-21T01:08:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588768?source=rss",
+        "publishedAt": "2026-07-21T07:37:11.000Z"
       },
       {
         "time": "14:52",
@@ -124,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588755?source=rss",
         "publishedAt": "2026-07-21T05:52:09.000Z"
+      },
+      {
+        "time": "16:31",
+        "title": "マンション1都3県 平均1億円超",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588765?source=rss",
+        "publishedAt": "2026-07-21T07:31:04.000Z"
       },
       {
         "time": "12:32",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588722?source=rss",
         "publishedAt": "2026-07-21T02:15:59.000Z"
-      },
-      {
-        "time": "12:00",
-        "title": "北陸新幹線桂川ルート 抱える難題",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588731?source=rss",
-        "publishedAt": "2026-07-21T03:00:39.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588739?source=rss",
         "publishedAt": "2026-07-21T03:10:06.000Z"
+      },
+      {
+        "time": "16:36",
+        "title": "熱中症疑い死亡 発見時体温42.6℃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588767?source=rss",
+        "publishedAt": "2026-07-21T07:36:38.000Z"
+      },
+      {
+        "time": "16:33",
+        "title": "バイク音うるさいと追突疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588766?source=rss",
+        "publishedAt": "2026-07-21T07:33:32.000Z"
       },
       {
         "time": "12:06",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-07-21T03:24:23.000Z"
       },
       {
-        "time": "08:39",
-        "title": "保育中うつぶせ寝で死亡 母の無念",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588705?source=rss",
-        "publishedAt": "2026-07-20T23:39:09.000Z"
-      },
-      {
         "time": "11:50",
         "title": "路上で倒れた44歳死亡 熱中症疑い",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588733?source=rss",
         "publishedAt": "2026-07-21T02:50:39.000Z"
-      },
-      {
-        "time": "20:23",
-        "title": "新名神事故で夫死亡 形見も残らず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588667?source=rss",
-        "publishedAt": "2026-07-20T11:23:09.000Z"
       }
     ],
     "subsidyHeadlines": [

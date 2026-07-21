@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T07:23:54.886Z",
+  "updatedAt": "2026-07-21T08:19:51.490Z",
   "items": [
     {
       "time": "16:08",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "酷暑日観測 命奪う危険な暑さ警戒"
     },
     {
-      "time": "14:00",
-      "title": "企業統治指針 5年ぶりに改訂",
+      "time": "12:51",
+      "title": "武田のデング熱ワクチン 印で承認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588749?source=rss",
-      "publishedAt": "2026-07-21T05:00:19.000Z",
-      "xQuery": "企業統治指針 5年ぶりに改訂"
+      "url": "https://news.yahoo.co.jp/pickup/6588743?source=rss",
+      "publishedAt": "2026-07-21T03:51:41.000Z",
+      "xQuery": "武田のデング熱ワクチン 印で承認"
     },
     {
       "time": "16:05",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "南鳥島沖から重レアアース確認"
     },
     {
-      "time": "13:05",
-      "title": "「着る虫よけ」人気 大手も参入",
+      "time": "17:00",
+      "title": "首相の「0～3時間睡眠」投稿 波紋",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588744?source=rss",
-      "publishedAt": "2026-07-21T04:05:16.000Z",
-      "xQuery": "「着る虫よけ」人気 大手も参入"
+      "url": "https://news.yahoo.co.jp/pickup/6588770?source=rss",
+      "publishedAt": "2026-07-21T08:00:03.000Z",
+      "xQuery": "首相の「0～3時間睡眠」投稿 波紋"
     },
     {
-      "time": "13:28",
-      "title": "準優勝アルゼンチン 一部が暴徒化",
+      "time": "16:31",
+      "title": "マンション1都3県 平均1億円超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588745?source=rss",
-      "publishedAt": "2026-07-21T04:28:12.000Z",
-      "xQuery": "準優勝アルゼンチン 一部が暴徒化"
+      "url": "https://news.yahoo.co.jp/pickup/6588765?source=rss",
+      "publishedAt": "2026-07-21T07:31:04.000Z",
+      "xQuery": "マンション1都3県 平均1億円超"
     }
   ]
 };
