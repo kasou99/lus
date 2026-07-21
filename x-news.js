@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T03:10:44.317Z",
+  "updatedAt": "2026-07-21T04:37:56.247Z",
   "items": [
     {
-      "time": "11:44",
-      "title": "国会延長で外遊中止 会談機会失う",
+      "time": "12:48",
+      "title": "政府「骨太の方針」を閣議決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588727?source=rss",
-      "publishedAt": "2026-07-21T02:44:16.000Z",
-      "xQuery": "国会延長で外遊中止 会談機会失う"
+      "url": "https://news.yahoo.co.jp/pickup/6588742?source=rss",
+      "publishedAt": "2026-07-21T03:48:55.000Z",
+      "xQuery": "政府「骨太の方針」を閣議決定"
     },
     {
-      "time": "10:17",
-      "title": "衆院議員の資産公開 平均3278万円",
+      "time": "12:32",
+      "title": "全東信元幹部「破産予兆あった」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588716?source=rss",
-      "publishedAt": "2026-07-21T01:17:57.000Z",
-      "xQuery": "衆院議員の資産公開 平均3278万円"
+      "url": "https://news.yahoo.co.jp/pickup/6588741?source=rss",
+      "publishedAt": "2026-07-21T03:32:39.000Z",
+      "xQuery": "全東信元幹部「破産予兆あった」"
     },
     {
       "time": "11:52",
