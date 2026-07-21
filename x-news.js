@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T06:02:56.719Z",
+  "updatedAt": "2026-07-21T07:23:54.886Z",
   "items": [
     {
-      "time": "14:22",
-      "title": "岐阜県郡上市で「酷暑日」全国初",
+      "time": "16:08",
+      "title": "酷暑日観測 命奪う危険な暑さ警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588752?source=rss",
-      "publishedAt": "2026-07-21T05:22:41.000Z",
-      "xQuery": "岐阜県郡上市で「酷暑日」全国初"
+      "url": "https://news.yahoo.co.jp/pickup/6588761?source=rss",
+      "publishedAt": "2026-07-21T07:08:44.000Z",
+      "xQuery": "酷暑日観測 命奪う危険な暑さ警戒"
     },
     {
       "time": "14:00",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "企業統治指針 5年ぶりに改訂"
     },
     {
-      "time": "12:00",
-      "title": "北陸新幹線桂川ルート 抱える難題",
+      "time": "16:05",
+      "title": "南鳥島沖から重レアアース確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588731?source=rss",
-      "publishedAt": "2026-07-21T03:00:39.000Z",
-      "xQuery": "北陸新幹線桂川ルート 抱える難題"
-    },
-    {
-      "time": "14:52",
-      "title": "関経連でハラスメント 処分を発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588755?source=rss",
-      "publishedAt": "2026-07-21T05:52:09.000Z",
-      "xQuery": "関経連でハラスメント 処分を発表"
+      "url": "https://news.yahoo.co.jp/pickup/6588760?source=rss",
+      "publishedAt": "2026-07-21T07:05:07.000Z",
+      "xQuery": "南鳥島沖から重レアアース確認"
     },
     {
       "time": "13:05",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588744?source=rss",
       "publishedAt": "2026-07-21T04:05:16.000Z",
       "xQuery": "「着る虫よけ」人気 大手も参入"
+    },
+    {
+      "time": "13:28",
+      "title": "準優勝アルゼンチン 一部が暴徒化",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588745?source=rss",
+      "publishedAt": "2026-07-21T04:28:12.000Z",
+      "xQuery": "準優勝アルゼンチン 一部が暴徒化"
     }
   ]
 };
