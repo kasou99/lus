@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T04:37:56.247Z",
+  "updatedAt": "2026-07-21T06:02:56.719Z",
   "items": [
     {
-      "time": "12:48",
-      "title": "政府「骨太の方針」を閣議決定",
+      "time": "14:22",
+      "title": "岐阜県郡上市で「酷暑日」全国初",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588742?source=rss",
-      "publishedAt": "2026-07-21T03:48:55.000Z",
-      "xQuery": "政府「骨太の方針」を閣議決定"
+      "url": "https://news.yahoo.co.jp/pickup/6588752?source=rss",
+      "publishedAt": "2026-07-21T05:22:41.000Z",
+      "xQuery": "岐阜県郡上市で「酷暑日」全国初"
     },
     {
-      "time": "12:32",
-      "title": "全東信元幹部「破産予兆あった」",
+      "time": "14:00",
+      "title": "企業統治指針 5年ぶりに改訂",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588741?source=rss",
-      "publishedAt": "2026-07-21T03:32:39.000Z",
-      "xQuery": "全東信元幹部「破産予兆あった」"
+      "url": "https://news.yahoo.co.jp/pickup/6588749?source=rss",
+      "publishedAt": "2026-07-21T05:00:19.000Z",
+      "xQuery": "企業統治指針 5年ぶりに改訂"
     },
     {
-      "time": "11:52",
-      "title": "並みの暑さでない 初「酷暑日」か",
+      "time": "12:00",
+      "title": "北陸新幹線桂川ルート 抱える難題",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588736?source=rss",
-      "publishedAt": "2026-07-21T02:52:21.000Z",
-      "xQuery": "並みの暑さでない 初「酷暑日」か"
+      "url": "https://news.yahoo.co.jp/pickup/6588731?source=rss",
+      "publishedAt": "2026-07-21T03:00:39.000Z",
+      "xQuery": "北陸新幹線桂川ルート 抱える難題"
     },
     {
-      "time": "11:50",
-      "title": "路上で倒れた44歳死亡 熱中症疑い",
+      "time": "14:52",
+      "title": "関経連でハラスメント 処分を発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588733?source=rss",
-      "publishedAt": "2026-07-21T02:50:39.000Z",
-      "xQuery": "路上で倒れた44歳死亡 熱中症疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6588755?source=rss",
+      "publishedAt": "2026-07-21T05:52:09.000Z",
+      "xQuery": "関経連でハラスメント 処分を発表"
     },
     {
-      "time": "11:13",
-      "title": "GMO代表 在宅勤務巡る投稿謝罪",
+      "time": "13:05",
+      "title": "「着る虫よけ」人気 大手も参入",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588720?source=rss",
-      "publishedAt": "2026-07-21T02:13:47.000Z",
-      "xQuery": "GMO代表 在宅勤務巡る投稿謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6588744?source=rss",
+      "publishedAt": "2026-07-21T04:05:16.000Z",
+      "xQuery": "「着る虫よけ」人気 大手も参入"
     }
   ]
 };
