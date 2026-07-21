@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T09:21:15.081Z",
+  "updatedAt": "2026-07-21T10:20:06.148Z",
   "items": [
     {
       "time": "17:20",
@@ -10,28 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中国 日本EEZ内での訓練巡り反論"
     },
     {
-      "time": "17:25",
-      "title": "手足口病 35都府県で警報レベル超",
+      "time": "16:37",
+      "title": "下請法違反 医療機器HOYAに勧告",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588775?source=rss",
-      "publishedAt": "2026-07-21T08:25:26.000Z",
-      "xQuery": "手足口病 35都府県で警報レベル超"
-    },
-    {
-      "time": "18:02",
-      "title": "韓国 外交官全員の情報流出か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588785?source=rss",
-      "publishedAt": "2026-07-21T09:02:22.000Z",
-      "xQuery": "韓国 外交官全員の情報流出か"
-    },
-    {
-      "time": "17:29",
-      "title": "マイナ取得義務化を見送り 政府",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588778?source=rss",
-      "publishedAt": "2026-07-21T08:29:51.000Z",
-      "xQuery": "マイナ取得義務化を見送り 政府"
+      "url": "https://news.yahoo.co.jp/pickup/6588768?source=rss",
+      "publishedAt": "2026-07-21T07:37:11.000Z",
+      "xQuery": "下請法違反 医療機器HOYAに勧告"
     },
     {
       "time": "17:00",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588770?source=rss",
       "publishedAt": "2026-07-21T08:00:03.000Z",
       "xQuery": "首相の「0～3時間睡眠」投稿 波紋"
+    },
+    {
+      "time": "18:35",
+      "title": "学習放獣したクマが出没 殺処分",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588793?source=rss",
+      "publishedAt": "2026-07-21T09:35:37.000Z",
+      "xQuery": "学習放獣したクマが出没 殺処分"
+    },
+    {
+      "time": "16:36",
+      "title": "熱中症疑い死亡 発見時体温42.6℃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588767?source=rss",
+      "publishedAt": "2026-07-21T07:36:38.000Z",
+      "xQuery": "熱中症疑い死亡 発見時体温42.6℃"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T09:21:14.307Z",
+  "updatedAt": "2026-07-21T10:20:05.479Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE14OGxKUFFia254dFNvWjdhSVVMNU1mbmgtX0xacGMwZTAzREg1bVNuRGRVdHZ4Ui1HeF8tYjdNaVpqNFJEclJlUlJn?oc=5",
         "publishedAt": "2026-07-20T23:07:19.000Z"
+      },
+      {
+        "time": "18:21",
+        "title": "CMESベトナム2026：専門工作機械展示会が規模を2倍にして帰ってきます。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFg2NzVvdUF2eVF3VXBqN01jdmZnd3lSUjhHMGZnVDJ2VGJOdFlSOV9GZ2RWa1ppMWxDU3BjcjRJZzZCbnJRMHpWUG8xUEpGYTBidElqbGpRTURvUlRwMlFOcl9OQ1JyNmJDNWloVF9JRXFqRXFhSDRndnpWZURYdHcyZl9wbWZfWkdjWV9PNU1MbnZFY0FPSTFvRm5LcWtIcVhMNm5obGo?oc=5",
+        "publishedAt": "2026-07-21T09:21:59.000Z"
       },
       {
         "time": "15:19",
@@ -22,13 +29,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrSWVfckNZQjF1Q0NoSWZVdVRaUFFZWFR4ZlZQME5fNE9lM2JJbS1fYVMzakc1WkVyZnppY1R0SjhtaFVpQWcxSnlreTRXQkJ3VEdVY1RFdHpPZV9RbmZER25XQUliS2tXbnQzbXY0dDhvYTRI?oc=5",
         "publishedAt": "2026-07-21T07:56:00.000Z"
-      },
-      {
-        "time": "13:30",
-        "title": "高出力電動スピンドルの世界市場（2026年～2032年）、市場規模（ローリングモータースピンドル、エアベアリングモータースピンドル、液体軸受モータースピンドル、その他）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmMl94RlhoYlZoMmZkSUJXd3MzTi1lNzFoZ2FhTjdQNF8yVWdHTDRUNEVzQ0x6MUhrb0FOVldhQk9ZU3puNmdEU3k0RTlkX1E?oc=5",
-        "publishedAt": "2026-07-21T04:30:00.000Z"
       },
       {
         "time": "12:30",
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "14:00",
-        "title": "企業統治指針 5年ぶりに改訂",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588749?source=rss",
-        "publishedAt": "2026-07-21T05:00:19.000Z"
-      },
-      {
         "time": "16:37",
         "title": "下請法違反 医療機器HOYAに勧告",
         "source": "Yahoo!ニュース",
@@ -140,14 +133,28 @@
         "publishedAt": "2026-07-21T08:48:29.000Z"
       },
       {
-        "time": "12:00",
-        "title": "北陸新幹線桂川ルート 抱える難題",
+        "time": "13:05",
+        "title": "「着る虫よけ」人気 大手も参入",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588731?source=rss",
-        "publishedAt": "2026-07-21T03:00:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588744?source=rss",
+        "publishedAt": "2026-07-21T04:05:16.000Z"
+      },
+      {
+        "time": "18:33",
+        "title": "景品「仕分け」? 吉野家は否定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588795?source=rss",
+        "publishedAt": "2026-07-21T09:33:58.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "18:35",
+        "title": "学習放獣したクマが出没 殺処分",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588793?source=rss",
+        "publishedAt": "2026-07-21T09:35:37.000Z"
+      },
       {
         "time": "18:19",
         "title": "金銭授受告白の県議 第三者委要望",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588781?source=rss",
         "publishedAt": "2026-07-21T08:33:51.000Z"
-      },
-      {
-        "time": "12:24",
-        "title": "唇縫い付け 被害女性の給料管理か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588740?source=rss",
-        "publishedAt": "2026-07-21T03:24:23.000Z"
       }
     ],
     "subsidyHeadlines": [
