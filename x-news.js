@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T01:40:28.077Z",
+  "updatedAt": "2026-07-21T03:10:44.317Z",
   "items": [
     {
-      "time": "09:07",
-      "title": "延長国会 副首都など4法案綱渡り",
+      "time": "11:44",
+      "title": "国会延長で外遊中止 会談機会失う",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588708?source=rss",
-      "publishedAt": "2026-07-21T00:07:54.000Z",
-      "xQuery": "延長国会 副首都など4法案綱渡り"
+      "url": "https://news.yahoo.co.jp/pickup/6588727?source=rss",
+      "publishedAt": "2026-07-21T02:44:16.000Z",
+      "xQuery": "国会延長で外遊中止 会談機会失う"
     },
     {
-      "time": "07:35",
-      "title": "米兵死亡 米大統領がイランに警告",
+      "time": "10:17",
+      "title": "衆院議員の資産公開 平均3278万円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588700?source=rss",
-      "publishedAt": "2026-07-20T22:35:03.000Z",
-      "xQuery": "米兵死亡 米大統領がイランに警告"
+      "url": "https://news.yahoo.co.jp/pickup/6588716?source=rss",
+      "publishedAt": "2026-07-21T01:17:57.000Z",
+      "xQuery": "衆院議員の資産公開 平均3278万円"
     },
     {
-      "time": "10:08",
-      "title": "米 カナダ製品の一部に50%関税へ",
+      "time": "11:52",
+      "title": "並みの暑さでない 初「酷暑日」か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588715?source=rss",
-      "publishedAt": "2026-07-21T01:08:19.000Z",
-      "xQuery": "米 カナダ製品の一部に50%関税へ"
+      "url": "https://news.yahoo.co.jp/pickup/6588736?source=rss",
+      "publishedAt": "2026-07-21T02:52:21.000Z",
+      "xQuery": "並みの暑さでない 初「酷暑日」か"
     },
     {
-      "time": "08:39",
-      "title": "保育中うつぶせ寝で死亡 母の無念",
+      "time": "11:50",
+      "title": "路上で倒れた44歳死亡 熱中症疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588705?source=rss",
-      "publishedAt": "2026-07-20T23:39:09.000Z",
-      "xQuery": "保育中うつぶせ寝で死亡 母の無念"
+      "url": "https://news.yahoo.co.jp/pickup/6588733?source=rss",
+      "publishedAt": "2026-07-21T02:50:39.000Z",
+      "xQuery": "路上で倒れた44歳死亡 熱中症疑い"
     },
     {
-      "time": "08:38",
-      "title": "学校のぎょう虫検査 姿消した訳",
+      "time": "11:13",
+      "title": "GMO代表 在宅勤務巡る投稿謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588703?source=rss",
-      "publishedAt": "2026-07-20T23:38:03.000Z",
-      "xQuery": "学校のぎょう虫検査 姿消した訳"
+      "url": "https://news.yahoo.co.jp/pickup/6588720?source=rss",
+      "publishedAt": "2026-07-21T02:13:47.000Z",
+      "xQuery": "GMO代表 在宅勤務巡る投稿謝罪"
     }
   ]
 };
