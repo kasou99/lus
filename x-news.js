@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T20:31:58.860Z",
+  "updatedAt": "2026-07-21T21:30:32.431Z",
   "items": [
+    {
+      "time": "06:13",
+      "title": "一時1ドル163円台 約39年半ぶり",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588833?source=rss",
+      "publishedAt": "2026-07-21T21:13:13.000Z",
+      "xQuery": "一時1ドル163円台 約39年半ぶり"
+    },
     {
       "time": "21:36",
       "title": "石破氏 消費減税見直しも選択肢",
@@ -8,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588817?source=rss",
       "publishedAt": "2026-07-21T12:36:40.000Z",
       "xQuery": "石破氏 消費減税見直しも選択肢"
+    },
+    {
+      "time": "06:23",
+      "title": "ニチレイ障害 ハッカー集団が声明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588834?source=rss",
+      "publishedAt": "2026-07-21T21:23:14.000Z",
+      "xQuery": "ニチレイ障害 ハッカー集団が声明"
     },
     {
       "time": "23:05",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588828?source=rss",
       "publishedAt": "2026-07-21T13:56:10.000Z",
       "xQuery": "明石歩道橋事故 25年前の救助活動"
-    },
-    {
-      "time": "18:35",
-      "title": "学習放獣したクマが出没 殺処分",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588793?source=rss",
-      "publishedAt": "2026-07-21T09:35:37.000Z",
-      "xQuery": "学習放獣したクマが出没 殺処分"
-    },
-    {
-      "time": "21:38",
-      "title": "「夜の熱中症」潜む危険と対策",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588818?source=rss",
-      "publishedAt": "2026-07-21T12:38:38.000Z",
-      "xQuery": "「夜の熱中症」潜む危険と対策"
     }
   ]
 };

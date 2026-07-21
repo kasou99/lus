@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-07-21T20:31:58.138Z",
+  "updatedAt": "2026-07-21T21:30:31.961Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:12",
-        "title": "工作機械部品加工の小垣江鉄工所 安城工場など設備増強 半導体関連需要に対応",
-        "source": "中部経済新聞",
+        "title": "工作機械部品加工の小垣江鉄工所 安城工場など設備増強 半導体関連需要に対応 - chukei-news.co.jp",
+        "source": "chukei-news.co.jp",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wZ0lVTkt2OW1FQzVNT0d2VDRNSGg4V2NnZkZQMm92bjFDTGVFa3NUbHRDck5FVE94dWE5aDBJdGVOY1RaMWdqamFhMFR3ZzdmRHk4VHd1elhlYmhyMXg0eFAwdlJQNFU2ZmhfREFiNGNaUFE?oc=5",
         "publishedAt": "2026-07-21T20:12:51.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "工作機械部品加工の小垣江鉄工所 安城工場など設備増強 半導体関連需要に対応",
+        "source": "47NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0aUx4Y0JoSzV2Y1NPZ3BwU290SUlqNEtraE1VZm1kVDk2Vy1ZaFZlZjh2NWdRMmd6ZG9EREllbjU2V1p2QVdxNWJabw?oc=5",
+        "publishedAt": "2026-07-21T20:00:00.000Z"
       },
       {
         "time": "05:04",
@@ -50,13 +57,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrSWVfckNZQjF1Q0NoSWZVdVRaUFFZWFR4ZlZQME5fNE9lM2JJbS1fYVMzakc1WkVyZnppY1R0SjhtaFVpQWcxSnlreTRXQkJ3VEdVY1RFdHpPZV9RbmZER25XQUliS2tXbnQzbXY0dDhvYTRI?oc=5",
         "publishedAt": "2026-07-21T07:56:00.000Z"
-      },
-      {
-        "time": "12:30",
-        "title": "機械が売れると必ず潤う「裏方」20銘柄。切削工具・ベアリング・専門商社の穴場リスト｜日本個別株デューデリジェンスセンター",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6VF8xdlhibWNFd3pabHZFbHJvbHFhakE3RkMweXRyMkZ3LVJtVFQ0SnRSRXdpMERaTnpwa01PZjU0NHYzNjdOV3Z2Qm9OTEFyUEV0OGw2VjBqYVk?oc=5",
-        "publishedAt": "2026-07-21T03:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,20 @@
     ],
     "economyHeadlines": [
       {
+        "time": "06:13",
+        "title": "一時1ドル163円台 約39年半ぶり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588833?source=rss",
+        "publishedAt": "2026-07-21T21:13:13.000Z"
+      },
+      {
+        "time": "06:23",
+        "title": "ニチレイ障害 ハッカー集団が声明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588834?source=rss",
+        "publishedAt": "2026-07-21T21:23:14.000Z"
+      },
+      {
         "time": "16:31",
         "title": "マンション1都3県 平均1億円超",
         "source": "Yahoo!ニュース",
@@ -126,25 +140,11 @@
         "publishedAt": "2026-07-21T04:05:16.000Z"
       },
       {
-        "time": "20:36",
-        "title": "カンロ 健康のど飴など値上げへ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588806?source=rss",
-        "publishedAt": "2026-07-21T11:36:09.000Z"
-      },
-      {
         "time": "20:51",
         "title": "勤務後休憩1hで乗務 誤って駅通過",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588812?source=rss",
         "publishedAt": "2026-07-21T11:51:10.000Z"
-      },
-      {
-        "time": "18:33",
-        "title": "景品「仕分け」? 吉野家は否定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588795?source=rss",
-        "publishedAt": "2026-07-21T09:33:58.000Z"
       }
     ],
     "localHeadlines": [
