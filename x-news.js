@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T14:15:56.474Z",
+  "updatedAt": "2026-07-21T15:14:24.204Z",
   "items": [
     {
       "time": "21:36",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "石破氏 消費減税見直しも選択肢"
     },
     {
+      "time": "23:05",
+      "title": "露への大学生ら短期派遣 再開へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588829?source=rss",
+      "publishedAt": "2026-07-21T14:05:19.000Z",
+      "xQuery": "露への大学生ら短期派遣 再開へ"
+    },
+    {
       "time": "22:56",
       "title": "明石歩道橋事故 25年前の救助活動",
       "source": "Yahoo!ニュース",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "明石歩道橋事故 25年前の救助活動"
     },
     {
-      "time": "17:00",
-      "title": "首相の「0～3時間睡眠」投稿 波紋",
+      "time": "18:35",
+      "title": "学習放獣したクマが出没 殺処分",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588770?source=rss",
-      "publishedAt": "2026-07-21T08:00:03.000Z",
-      "xQuery": "首相の「0～3時間睡眠」投稿 波紋"
+      "url": "https://news.yahoo.co.jp/pickup/6588793?source=rss",
+      "publishedAt": "2026-07-21T09:35:37.000Z",
+      "xQuery": "学習放獣したクマが出没 殺処分"
     },
     {
       "time": "21:38",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588818?source=rss",
       "publishedAt": "2026-07-21T12:38:38.000Z",
       "xQuery": "「夜の熱中症」潜む危険と対策"
-    },
-    {
-      "time": "21:52",
-      "title": "人に腎移植 治験用のブタ生産開始",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588820?source=rss",
-      "publishedAt": "2026-07-21T12:52:35.000Z",
-      "xQuery": "人に腎移植 治験用のブタ生産開始"
     }
   ]
 };
