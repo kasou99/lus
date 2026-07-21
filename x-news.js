@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T13:00:46.038Z",
+  "updatedAt": "2026-07-21T14:15:56.474Z",
   "items": [
     {
-      "time": "20:40",
-      "title": "22日は関東も40℃の酷暑日予想",
+      "time": "21:36",
+      "title": "石破氏 消費減税見直しも選択肢",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588807?source=rss",
-      "publishedAt": "2026-07-21T11:40:30.000Z",
-      "xQuery": "22日は関東も40℃の酷暑日予想"
+      "url": "https://news.yahoo.co.jp/pickup/6588817?source=rss",
+      "publishedAt": "2026-07-21T12:36:40.000Z",
+      "xQuery": "石破氏 消費減税見直しも選択肢"
     },
     {
-      "time": "21:38",
-      "title": "「夜の熱中症」潜む危険と対策",
+      "time": "22:56",
+      "title": "明石歩道橋事故 25年前の救助活動",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588818?source=rss",
-      "publishedAt": "2026-07-21T12:38:38.000Z",
-      "xQuery": "「夜の熱中症」潜む危険と対策"
-    },
-    {
-      "time": "21:48",
-      "title": "霧島市遺体 身元特定に数日見込み",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588821?source=rss",
-      "publishedAt": "2026-07-21T12:48:44.000Z",
-      "xQuery": "霧島市遺体 身元特定に数日見込み"
+      "url": "https://news.yahoo.co.jp/pickup/6588828?source=rss",
+      "publishedAt": "2026-07-21T13:56:10.000Z",
+      "xQuery": "明石歩道橋事故 25年前の救助活動"
     },
     {
       "time": "17:00",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相の「0～3時間睡眠」投稿 波紋"
     },
     {
-      "time": "18:52",
-      "title": "脊髄iPS移植4年観察 副作用なし",
+      "time": "21:38",
+      "title": "「夜の熱中症」潜む危険と対策",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588797?source=rss",
-      "publishedAt": "2026-07-21T09:52:15.000Z",
-      "xQuery": "脊髄iPS移植4年観察 副作用なし"
+      "url": "https://news.yahoo.co.jp/pickup/6588818?source=rss",
+      "publishedAt": "2026-07-21T12:38:38.000Z",
+      "xQuery": "「夜の熱中症」潜む危険と対策"
+    },
+    {
+      "time": "21:52",
+      "title": "人に腎移植 治験用のブタ生産開始",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588820?source=rss",
+      "publishedAt": "2026-07-21T12:52:35.000Z",
+      "xQuery": "人に腎移植 治験用のブタ生産開始"
     }
   ]
 };

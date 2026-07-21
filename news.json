@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T13:00:45.262Z",
+  "updatedAt": "2026-07-21T14:15:55.456Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "22:56",
+        "title": "明石歩道橋事故 25年前の救助活動",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588828?source=rss",
+        "publishedAt": "2026-07-21T13:56:10.000Z"
+      },
+      {
+        "time": "16:36",
+        "title": "熱中症疑い死亡 発見時体温42.6℃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588767?source=rss",
+        "publishedAt": "2026-07-21T07:36:38.000Z"
+      },
+      {
         "time": "21:48",
         "title": "霧島市遺体 身元特定に数日見込み",
         "source": "Yahoo!ニュース",
@@ -163,25 +177,11 @@
         "publishedAt": "2026-07-21T09:35:37.000Z"
       },
       {
-        "time": "18:19",
-        "title": "金銭授受告白の県議 第三者委要望",
+        "time": "22:21",
+        "title": "梨5000個盗まれ「栽培辞めます」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588788?source=rss",
-        "publishedAt": "2026-07-21T09:19:12.000Z"
-      },
-      {
-        "time": "20:08",
-        "title": "独身偽装で結婚前提交際 賠償命令",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588805?source=rss",
-        "publishedAt": "2026-07-21T11:08:55.000Z"
-      },
-      {
-        "time": "16:36",
-        "title": "熱中症疑い死亡 発見時体温42.6℃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588767?source=rss",
-        "publishedAt": "2026-07-21T07:36:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588825?source=rss",
+        "publishedAt": "2026-07-21T13:21:50.000Z"
       },
       {
         "time": "16:33",
