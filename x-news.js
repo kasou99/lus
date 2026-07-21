@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T23:23:51.760Z",
+  "updatedAt": "2026-07-21T23:50:27.812Z",
   "items": [
-    {
-      "time": "07:38",
-      "title": "骨太方針 経済成長へ国内投資強化",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588841?source=rss",
-      "publishedAt": "2026-07-21T22:38:50.000Z",
-      "xQuery": "骨太方針 経済成長へ国内投資強化"
-    },
     {
       "time": "07:26",
       "title": "22日も各地で酷暑日予想 厳重警戒",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588838?source=rss",
       "publishedAt": "2026-07-21T22:26:47.000Z",
       "xQuery": "22日も各地で酷暑日予想 厳重警戒"
+    },
+    {
+      "time": "07:49",
+      "title": "日英伊の次期戦闘機 カナダ参加",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588843?source=rss",
+      "publishedAt": "2026-07-21T22:49:58.000Z",
+      "xQuery": "日英伊の次期戦闘機 カナダ参加"
     },
     {
       "time": "07:44",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T23:23:50.936Z",
+  "updatedAt": "2026-07-21T23:50:27.167Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -126,6 +126,13 @@
         "publishedAt": "2026-07-21T07:31:04.000Z"
       },
       {
+        "time": "08:33",
+        "title": "新幹線・札幌延伸工事で不正発覚",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588848?source=rss",
+        "publishedAt": "2026-07-21T23:33:57.000Z"
+      },
+      {
         "time": "20:51",
         "title": "勤務後休憩1hで乗務 誤って駅通過",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588846?source=rss",
         "publishedAt": "2026-07-21T23:18:29.000Z"
-      },
-      {
-        "time": "08:10",
-        "title": "職場で広がるハーフパンツ 実態は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588844?source=rss",
-        "publishedAt": "2026-07-21T23:10:40.000Z"
       }
     ],
     "localHeadlines": [
