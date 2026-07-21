@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T08:19:51.490Z",
+  "updatedAt": "2026-07-21T09:21:15.081Z",
   "items": [
     {
-      "time": "16:08",
-      "title": "酷暑日観測 命奪う危険な暑さ警戒",
+      "time": "17:20",
+      "title": "中国 日本EEZ内での訓練巡り反論",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588761?source=rss",
-      "publishedAt": "2026-07-21T07:08:44.000Z",
-      "xQuery": "酷暑日観測 命奪う危険な暑さ警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6588774?source=rss",
+      "publishedAt": "2026-07-21T08:20:53.000Z",
+      "xQuery": "中国 日本EEZ内での訓練巡り反論"
     },
     {
-      "time": "12:51",
-      "title": "武田のデング熱ワクチン 印で承認",
+      "time": "17:25",
+      "title": "手足口病 35都府県で警報レベル超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588743?source=rss",
-      "publishedAt": "2026-07-21T03:51:41.000Z",
-      "xQuery": "武田のデング熱ワクチン 印で承認"
+      "url": "https://news.yahoo.co.jp/pickup/6588775?source=rss",
+      "publishedAt": "2026-07-21T08:25:26.000Z",
+      "xQuery": "手足口病 35都府県で警報レベル超"
     },
     {
-      "time": "16:05",
-      "title": "南鳥島沖から重レアアース確認",
+      "time": "18:02",
+      "title": "韓国 外交官全員の情報流出か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588760?source=rss",
-      "publishedAt": "2026-07-21T07:05:07.000Z",
-      "xQuery": "南鳥島沖から重レアアース確認"
+      "url": "https://news.yahoo.co.jp/pickup/6588785?source=rss",
+      "publishedAt": "2026-07-21T09:02:22.000Z",
+      "xQuery": "韓国 外交官全員の情報流出か"
+    },
+    {
+      "time": "17:29",
+      "title": "マイナ取得義務化を見送り 政府",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588778?source=rss",
+      "publishedAt": "2026-07-21T08:29:51.000Z",
+      "xQuery": "マイナ取得義務化を見送り 政府"
     },
     {
       "time": "17:00",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588770?source=rss",
       "publishedAt": "2026-07-21T08:00:03.000Z",
       "xQuery": "首相の「0～3時間睡眠」投稿 波紋"
-    },
-    {
-      "time": "16:31",
-      "title": "マンション1都3県 平均1億円超",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588765?source=rss",
-      "publishedAt": "2026-07-21T07:31:04.000Z",
-      "xQuery": "マンション1都3県 平均1億円超"
     }
   ]
 };

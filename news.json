@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T08:19:50.486Z",
+  "updatedAt": "2026-07-21T09:21:14.307Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aWnYyb01Dc2F1Z3ZkSkRwRUhzN2lCbEJzeTRPcWRMRHpYR1dLUjN6aEFDQUpIMFN0UnVuN19HVmxyZF9JQ05UM2RUQVpoNmM?oc=5",
         "publishedAt": "2026-07-21T06:19:00.000Z"
+      },
+      {
+        "time": "16:56",
+        "title": "DN Solutions、チタン・超合金の精密切削に特化した「PUMA VTR 1620 MC」を発表",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrSWVfckNZQjF1Q0NoSWZVdVRaUFFZWFR4ZlZQME5fNE9lM2JJbS1fYVMzakc1WkVyZnppY1R0SjhtaFVpQWcxSnlreTRXQkJ3VEdVY1RFdHpPZV9RbmZER25XQUliS2tXbnQzbXY0dDhvYTRI?oc=5",
+        "publishedAt": "2026-07-21T07:56:00.000Z"
       },
       {
         "time": "13:30",
@@ -50,13 +57,6 @@
         "source": "GOETHE[ゲーテ]",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aZThJbGFueTFXRGROc3Q5ZHJpaVFVckdxTmtkYmRnOVJxc2hLMW5QSzUzLWRIVHFaSF9jLUdlUGlrazZTZU9SMHZDWDFKSS1jbnBqNzFUYkJEV25mZmpYRXBnT01tT0JRWXVmd1ZB?oc=5",
         "publishedAt": "2026-07-21T01:15:00.000Z"
-      },
-      {
-        "time": "15:13",
-        "title": "窒化ケイ素ベアリングボール市場分析レポート：2026年266.57百万米ドル規模、成長率13.77%推移",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1idElLUmlzU0NoeXJMQkZUdFZiTGI2dlFGSmtCdVg0OXBSZjZ5ckJDWUhxbXNqWVBJQmNHMmw3WXpYRWgtNTVEbGN0Sk1VUQ?oc=5",
-        "publishedAt": "2026-07-21T06:13:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588701?source=rss",
         "publishedAt": "2026-07-20T22:54:42.000Z"
+      },
+      {
+        "time": "17:20",
+        "title": "中国 日本EEZ内での訓練巡り反論",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588774?source=rss",
+        "publishedAt": "2026-07-21T08:20:53.000Z"
       },
       {
         "time": "07:35",
@@ -89,18 +96,11 @@
         "publishedAt": "2026-07-21T03:04:39.000Z"
       },
       {
-        "time": "06:22",
-        "title": "ワーナー買収一時差し止め 米地裁",
+        "time": "18:02",
+        "title": "韓国 外交官全員の情報流出か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588694?source=rss",
-        "publishedAt": "2026-07-20T21:22:12.000Z"
-      },
-      {
-        "time": "23:12",
-        "title": "露軍 ウ南部で民間貨物船を攻撃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588688?source=rss",
-        "publishedAt": "2026-07-20T14:12:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588785?source=rss",
+        "publishedAt": "2026-07-21T09:02:22.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-07-21T07:37:11.000Z"
       },
       {
-        "time": "14:52",
-        "title": "関経連でハラスメント 処分を発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588755?source=rss",
-        "publishedAt": "2026-07-21T05:52:09.000Z"
-      },
-      {
         "time": "16:31",
         "title": "マンション1都3県 平均1億円超",
         "source": "Yahoo!ニュース",
@@ -133,21 +126,35 @@
         "publishedAt": "2026-07-21T07:31:04.000Z"
       },
       {
-        "time": "12:32",
-        "title": "全東信元幹部「破産予兆あった」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588741?source=rss",
-        "publishedAt": "2026-07-21T03:32:39.000Z"
-      },
-      {
         "time": "11:15",
         "title": "サムスン 米で大規模な人員削‌減",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588722?source=rss",
         "publishedAt": "2026-07-21T02:15:59.000Z"
+      },
+      {
+        "time": "17:48",
+        "title": "コメ価格下落基調続く 今後の鍵は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588780?source=rss",
+        "publishedAt": "2026-07-21T08:48:29.000Z"
+      },
+      {
+        "time": "12:00",
+        "title": "北陸新幹線桂川ルート 抱える難題",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588731?source=rss",
+        "publishedAt": "2026-07-21T03:00:39.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "18:19",
+        "title": "金銭授受告白の県議 第三者委要望",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588788?source=rss",
+        "publishedAt": "2026-07-21T09:19:12.000Z"
+      },
       {
         "time": "12:10",
         "title": "羽田1.9億円強盗未遂疑い 4人逮捕",
@@ -170,11 +177,11 @@
         "publishedAt": "2026-07-21T07:33:32.000Z"
       },
       {
-        "time": "12:06",
-        "title": "夏休み 闇バイト勧誘の活発化恐れ",
+        "time": "17:33",
+        "title": "闇バイト勧誘の活発化恐れ 対策は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588734?source=rss",
-        "publishedAt": "2026-07-21T03:06:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588781?source=rss",
+        "publishedAt": "2026-07-21T08:33:51.000Z"
       },
       {
         "time": "12:24",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588740?source=rss",
         "publishedAt": "2026-07-21T03:24:23.000Z"
-      },
-      {
-        "time": "11:50",
-        "title": "路上で倒れた44歳死亡 熱中症疑い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588733?source=rss",
-        "publishedAt": "2026-07-21T02:50:39.000Z"
       }
     ],
     "subsidyHeadlines": [
