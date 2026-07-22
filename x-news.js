@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T23:25:24.157Z",
+  "updatedAt": "2026-07-22T23:51:32.117Z",
   "items": [
     {
       "time": "06:33",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "25年中傷投稿特定申し立て1万件超"
     },
     {
+      "time": "08:28",
+      "title": "対向車多いのに右折信号なし 背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588975?source=rss",
+      "publishedAt": "2026-07-22T23:28:02.000Z",
+      "xQuery": "対向車多いのに右折信号なし 背景"
+    },
+    {
       "time": "07:33",
       "title": "セブン 従業員らの不正転売横行か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6588970?source=rss",
       "publishedAt": "2026-07-22T22:33:44.000Z",
       "xQuery": "セブン 従業員らの不正転売横行か"
-    },
-    {
-      "time": "06:50",
-      "title": "SNSで中古マンション購入増 なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588966?source=rss",
-      "publishedAt": "2026-07-22T21:50:23.000Z",
-      "xQuery": "SNSで中古マンション購入増 なぜ"
     }
   ]
 };

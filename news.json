@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T23:25:23.210Z",
+  "updatedAt": "2026-07-22T23:51:31.184Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,11 +156,11 @@
         "publishedAt": "2026-07-22T13:03:52.000Z"
       },
       {
-        "time": "14:39",
-        "title": "隣人をバットで殴り殺害疑い 逮捕",
+        "time": "08:28",
+        "title": "対向車多いのに右折信号なし 背景",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588897?source=rss",
-        "publishedAt": "2026-07-22T05:39:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588975?source=rss",
+        "publishedAt": "2026-07-22T23:28:02.000Z"
       },
       {
         "time": "20:04",
@@ -168,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588938?source=rss",
         "publishedAt": "2026-07-22T11:04:14.000Z"
-      },
-      {
-        "time": "18:11",
-        "title": "保育園でCO漏れ 職員4人搬送",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588929?source=rss",
-        "publishedAt": "2026-07-22T09:11:24.000Z"
       },
       {
         "time": "17:12",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588934?source=rss",
         "publishedAt": "2026-07-22T10:05:36.000Z"
+      },
+      {
+        "time": "08:39",
+        "title": "野焼きが燃え広がったか 99歳死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588979?source=rss",
+        "publishedAt": "2026-07-22T23:39:42.000Z"
       }
     ],
     "subsidyHeadlines": [
