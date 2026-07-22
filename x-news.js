@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T10:20:03.191Z",
+  "updatedAt": "2026-07-22T11:15:57.241Z",
   "items": [
     {
       "time": "18:03",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "マット死 賠償巡る元少年の言い分"
     },
     {
-      "time": "18:38",
-      "title": "ルフトハンザ機 羽田に緊急着陸",
+      "time": "20:04",
+      "title": "学童保育で性虐待 説明会に怒りも",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588932?source=rss",
-      "publishedAt": "2026-07-22T09:38:20.000Z",
-      "xQuery": "ルフトハンザ機 羽田に緊急着陸"
+      "url": "https://news.yahoo.co.jp/pickup/6588938?source=rss",
+      "publishedAt": "2026-07-22T11:04:14.000Z",
+      "xQuery": "学童保育で性虐待 説明会に怒りも"
     },
     {
-      "time": "18:03",
-      "title": "廃墟ホテルに謎の巨大落書き 話題",
+      "time": "18:28",
+      "title": "山田五郎氏死去 原発不明がんとは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588921?source=rss",
-      "publishedAt": "2026-07-22T09:03:51.000Z",
-      "xQuery": "廃墟ホテルに謎の巨大落書き 話題"
+      "url": "https://news.yahoo.co.jp/pickup/6588931?source=rss",
+      "publishedAt": "2026-07-22T09:28:41.000Z",
+      "xQuery": "山田五郎氏死去 原発不明がんとは"
     }
   ]
 };
