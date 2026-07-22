@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T00:46:22.257Z",
+  "updatedAt": "2026-07-22T01:40:28.171Z",
   "items": [
     {
-      "time": "07:49",
-      "title": "日英伊の次期戦闘機 カナダ参加",
+      "time": "09:58",
+      "title": "危険な猛暑 午後は天気急変に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588843?source=rss",
-      "publishedAt": "2026-07-21T22:49:58.000Z",
-      "xQuery": "日英伊の次期戦闘機 カナダ参加"
+      "url": "https://news.yahoo.co.jp/pickup/6588860?source=rss",
+      "publishedAt": "2026-07-22T00:58:22.000Z",
+      "xQuery": "危険な猛暑 午後は天気急変に注意"
     },
     {
-      "time": "08:56",
-      "title": "大阪都構想 維新の区割り案に賛否",
+      "time": "10:11",
+      "title": "骨太の方針「高市カラー」鮮明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588852?source=rss",
-      "publishedAt": "2026-07-21T23:56:42.000Z",
-      "xQuery": "大阪都構想 維新の区割り案に賛否"
+      "url": "https://news.yahoo.co.jp/pickup/6588863?source=rss",
+      "publishedAt": "2026-07-22T01:11:09.000Z",
+      "xQuery": "骨太の方針「高市カラー」鮮明"
+    },
+    {
+      "time": "09:48",
+      "title": "「送金犯罪」疑い初摘発 罰則解説",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588858?source=rss",
+      "publishedAt": "2026-07-22T00:48:00.000Z",
+      "xQuery": "「送金犯罪」疑い初摘発 罰則解説"
     },
     {
       "time": "09:15",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "救命器具を載せず救急車出動 徳島"
     },
     {
-      "time": "08:33",
-      "title": "新幹線・札幌延伸工事で不正発覚",
+      "time": "10:37",
+      "title": "ケンタッキー 全店で通常営業再開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588848?source=rss",
-      "publishedAt": "2026-07-21T23:33:57.000Z",
-      "xQuery": "新幹線・札幌延伸工事で不正発覚"
-    },
-    {
-      "time": "09:02",
-      "title": "グーグル ジェ‌ミニ低価格版発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588851?source=rss",
-      "publishedAt": "2026-07-22T00:02:09.000Z",
-      "xQuery": "グーグル ジェ‌ミニ低価格版発表"
+      "url": "https://news.yahoo.co.jp/pickup/6588866?source=rss",
+      "publishedAt": "2026-07-22T01:37:32.000Z",
+      "xQuery": "ケンタッキー 全店で通常営業再開"
     }
   ]
 };
