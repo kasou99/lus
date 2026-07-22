@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-22T19:33:42.046Z",
+  "updatedAt": "2026-07-22T20:29:43.340Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:03",
+        "title": "村田機械、レーザー加工機拡充 生産能力2倍",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rLXJ4WVpZS1NRZEUyVXBuQUxQTlVyQzBYVTJmZ0lDWFFacFYzUUVJWEMwbVJFQ0dnTDFGcFltT3lBOFpCSWs4bkN0Zlp2ZmN5OExQZTR1UmRSVlE?oc=5",
+        "publishedAt": "2026-07-22T20:03:15.000Z"
+      },
       {
         "time": "12:30",
         "title": "【新製品発表】レニショーが工作機械用プローブ 2 製品を発表",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12aWpQSVYxTHpyS0hTUW1HYjB0OTR3aWdXeW5HSk9QNkJjanF5MkI2WmFvZktqdC1ZU1NFT0Exb092RU10WW43ckhycHp6bzJsdkUzblFOT2VBeUVrTjA5eElqZWxmNGE0Vmc?oc=5",
         "publishedAt": "2026-07-22T03:30:02.000Z"
-      },
-      {
-        "time": "05:12",
-        "title": "工作機械部品加工の小垣江鉄工所 安城工場など設備増強 半導体関連需要に対応 - chukei-news.co.jp",
-        "source": "chukei-news.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wZ0lVTkt2OW1FQzVNT0d2VDRNSGg4V2NnZkZQMm92bjFDTGVFa3NUbHRDck5FVE94dWE5aDBJdGVOY1RaMWdqamFhMFR3ZzdmRHk4VHd1elhlYmhyMXg0eFAwdlJQNFU2ZmhfREFiNGNaUFE?oc=5",
-        "publishedAt": "2026-07-21T20:12:51.000Z"
       },
       {
         "time": "01:47",
@@ -24,18 +24,11 @@
         "publishedAt": "2026-07-22T16:47:55.000Z"
       },
       {
-        "time": "07:52",
-        "title": "工作機械部品加工の小垣江鉄工所 安城工場など設備増強 半導体関連需要に対応 (中部経済新聞)",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXFnRUpCX1RVTGRmVHpYa3RQSzRQd3Q1UEg3SjA4STdiTm1mNEs4cDJEeGM3ZWVFZXNFX3BKTFE5dXNwTWZqQTdEUWhZbXZUWHpBRzJ5QnFhR202UnBQNkNTOXZQWmRYTnhfSk1Md2JJVWctSnRhZjVlanc2d3NKUVNLLXhSZk1QVzhDMkdn?oc=5",
-        "publishedAt": "2026-07-21T22:52:18.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "工作機械部品加工の小垣江鉄工所 安城工場など設備増強 半導体関連需要に対応",
-        "source": "47NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0aUx4Y0JoSzV2Y1NPZ3BwU290SUlqNEtraE1VZm1kVDk2Vy1ZaFZlZjh2NWdRMmd6ZG9EREllbjU2V1p2QVdxNWJabw?oc=5",
-        "publishedAt": "2026-07-21T20:00:00.000Z"
+        "time": "05:22",
+        "title": "ブラザー工業 ＡＩや半導体市場開拓へ ５軸加工機の提案強化",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPemtYcW5aeXJQTjh1aHRJTnpHTUZIRF9wUlpOMmJNMkV3c1JJejJGQUtjV0JpRnplZWZ2WHZJdDZSZmdsSmxWMUo2ak8tOGxHR1BaNV96aDRzRGQxT0EzRVpDM1A3MGk3ZXctYkpPbGd0dldWQXhUTzdfd180V1kzQmh4RkpXeE56UzllRHVR0gGTAUFVX3lxTE9ZSXV1MnoyUTR4RHIxckozWHp3SmdlMHVzaXVSVF9Icm1LN1V0WEdLMzNhR2VGaXUxN2Q4TEJUb3lubGU2eUhGTExaOUlzTTBiVklEMFdwcXVrbUlHSTFsTHl0RHR3RXZILV9VRFNKU3ZxaXk2aXJUWWFLYWRaREh5QnYtNnJNa1kwLXNncHhwd0VPVQ?oc=5",
+        "publishedAt": "2026-07-22T20:22:15.000Z"
       },
       {
         "time": "12:00",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-07-22T03:00:00.000Z"
       },
       {
-        "time": "06:22",
-        "title": "経営ひと言／産機テクノス・大泉東専務「独自製品を普及」",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yU1pDZV81U3BJWE9WYTBtR203Q0ZLbjBoYnlaeElraHZLdjdldnJqbGtoa0M4WHl0Zzk5Nld4bFVLN2xPUVdDX0xpSUtoM0M4UWd6RHBPMnA?oc=5",
-        "publishedAt": "2026-07-21T21:22:30.000Z"
+        "time": "11:00",
+        "title": "Ｌｉｂｅｒａｗａｒｅ[218A]：Liberawareと国産AIロボットの開発を手がけるｕｇｏが業務提携に関する覚書を締結 2026年7月22日(適時開示) ：日経会社情報DIGITAL",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBueFFRak5ndFVmdlF6NHJpS1RjUVdGZVlvRW04YVcwRzZ4WDlhaTlCaXVwMG9lZzR1UFZuUnpDeFZkZlVzcTlDSExVelE3d0VmRTdxa2VrN3hELW1UaVZPNnpkdXU2MlNVWGc?oc=5",
+        "publishedAt": "2026-07-22T02:00:00.000Z"
       },
       {
-        "time": "15:03",
-        "title": "3Dトラスマニピュレーターの世界市場2026年、グローバル市場規模（直線型、回転型）・分析レポートを発表",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CR0lnMDQ3MWphTG14NEVhNlJkdTlKLUdiT0M1UTI4eEFVR3Q4U01hajVxMW1UX3N2ZUpib3VnOVJZM25KNWNKN1hhTUVEaDJRRlhWWXdDOWozWUU1RDA5VEdKaEhYamxYOUQwa3l2b1FGeWJZckFyazZzaw?oc=5",
-        "publishedAt": "2026-07-22T06:03:12.000Z"
+        "time": "10:00",
+        "title": "「製造AX拠点」を構築、産総研がデータとAIで日本の製造業の変革を支援：製造マネジメントニュース",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzVGVCZzN3VzdOenBvZE51OW14U2l4X0hLUmIyY29Nb1AzeFVIUHF3SDg1eDBWbmJxN19OcDhpTC1oNW5XbFIyajVfQl9wVDlST1dtS3pfWXc2UGk0WndETEFoTDd4clVUM1RaNFgtNA?oc=5",
+        "publishedAt": "2026-07-22T01:00:00.000Z"
+      },
+      {
+        "time": "07:30",
+        "title": "コレクター垂涎の1200万超。ローマン・ゴティエ、超精密加工×伝統的手仕上げの腕時計（GOETHE）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yQUR0dG5QSFA1YjJ0ekNxWXZPN1Bzb2UwQ3B6VlpyeGFUOWhGVE9tbTVkTGJQbHZTNHBqdGFOR1NpZHc2N0RuVDUwWkx6a0ZsOXNfWHhOOUF3UFpFZUc5ZWJWYkp1bmZjNTZReXM1bnZtaUliMHI5SVdhdU16Z0E?oc=5",
+        "publishedAt": "2026-07-21T22:30:09.000Z"
       }
     ],
     "worldHeadlines": [
