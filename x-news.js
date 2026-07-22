@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T14:16:47.787Z",
+  "updatedAt": "2026-07-22T15:13:52.085Z",
   "items": [
     {
-      "time": "20:44",
-      "title": "週の熱中症搬送者 今年初1万人超",
+      "time": "23:10",
+      "title": "米国務長官 日中関係の悪化に憂慮",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588941?source=rss",
-      "publishedAt": "2026-07-22T11:44:07.000Z",
-      "xQuery": "週の熱中症搬送者 今年初1万人超"
+      "url": "https://news.yahoo.co.jp/pickup/6588959?source=rss",
+      "publishedAt": "2026-07-22T14:10:40.000Z",
+      "xQuery": "米国務長官 日中関係の悪化に憂慮"
     },
     {
-      "time": "21:25",
-      "title": "新設大学4校 充足率は50%以下",
+      "time": "23:11",
+      "title": "ウ軍 露通販大手の倉庫を再び攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588926?source=rss",
-      "publishedAt": "2026-07-22T12:25:25.000Z",
-      "xQuery": "新設大学4校 充足率は50%以下"
+      "url": "https://news.yahoo.co.jp/pickup/6588957?source=rss",
+      "publishedAt": "2026-07-22T14:11:36.000Z",
+      "xQuery": "ウ軍 露通販大手の倉庫を再び攻撃"
     },
     {
       "time": "21:24",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ソウル市長に有罪 刑確定なら失職"
     },
     {
-      "time": "21:44",
-      "title": "ヒトラー生家 警察署に改修される",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588949?source=rss",
-      "publishedAt": "2026-07-22T12:44:32.000Z",
-      "xQuery": "ヒトラー生家 警察署に改修される"
-    },
-    {
       "time": "22:03",
       "title": "刃物持つ男 警察官の発砲受け負傷",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6588951?source=rss",
       "publishedAt": "2026-07-22T13:03:52.000Z",
       "xQuery": "刃物持つ男 警察官の発砲受け負傷"
+    },
+    {
+      "time": "23:34",
+      "title": "離島専門に引っ越し業 年商8億円",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588960?source=rss",
+      "publishedAt": "2026-07-22T14:34:58.000Z",
+      "xQuery": "離島専門に引っ越し業 年商8億円"
     }
   ]
 };
