@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T13:02:50.256Z",
+  "updatedAt": "2026-07-22T14:16:46.867Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-21T21:22:30.000Z"
       },
       {
-        "time": "15:03",
-        "title": "3Dトラスマニピュレーターの世界市場2026年、グローバル市場規模（直線型、回転型）・分析レポートを発表",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CR0lnMDQ3MWphTG14NEVhNlJkdTlKLUdiT0M1UTI4eEFVR3Q4U01hajVxMW1UX3N2ZUpib3VnOVJZM25KNWNKN1hhTUVEaDJRRlhWWXdDOWozWUU1RDA5VEdKaEhYamxYOUQwa3l2b1FGeWJZckFyazZzaw?oc=5",
-        "publishedAt": "2026-07-22T06:03:12.000Z"
-      },
-      {
         "time": "09:00",
         "title": "機電系学生向け「機電系が活躍できる業界 石油化学工業」電子版ブックレット2026年版を公開",
         "source": "zakⅡ",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wM0hONXdyaGViQ28ycjNnUFNiamJrN2M5VVJtUm1QOTRUSHBONkk0S2RwN29TV3E4Zm5Ldk1MQk5DRi1qUzE2MExsQTU1OGVHakxIcE01b05aWVhDUEVJY05heHdvWm9jQ0lIOUxWMkxFb1U1OE9MRHoyMFA1dw?oc=5",
         "publishedAt": "2026-07-22T00:00:00.000Z"
+      },
+      {
+        "time": "15:03",
+        "title": "3Dトラスマニピュレーターの世界市場2026年、グローバル市場規模（直線型、回転型）・分析レポートを発表",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CR0lnMDQ3MWphTG14NEVhNlJkdTlKLUdiT0M1UTI4eEFVR3Q4U01hajVxMW1UX3N2ZUpib3VnOVJZM25KNWNKN1hhTUVEaDJRRlhWWXdDOWozWUU1RDA5VEdKaEhYamxYOUQwa3l2b1FGeWJZckFyazZzaw?oc=5",
+        "publishedAt": "2026-07-22T06:03:12.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,18 +68,25 @@
         "publishedAt": "2026-07-21T23:16:36.000Z"
       },
       {
+        "time": "23:10",
+        "title": "米国務長官 日中関係の悪化に憂慮",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588959?source=rss",
+        "publishedAt": "2026-07-22T14:10:40.000Z"
+      },
+      {
+        "time": "23:11",
+        "title": "ウ軍 露通販大手の倉庫を再び攻撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588957?source=rss",
+        "publishedAt": "2026-07-22T14:11:36.000Z"
+      },
+      {
         "time": "11:59",
         "title": "ウ軍総司令官を解任 政権の内幕は",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588873?source=rss",
         "publishedAt": "2026-07-22T02:59:39.000Z"
-      },
-      {
-        "time": "06:54",
-        "title": "ウ軍総司令官解任 前国防相と対立",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588836?source=rss",
-        "publishedAt": "2026-07-21T21:54:30.000Z"
       },
       {
         "time": "21:24",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588906?source=rss",
         "publishedAt": "2026-07-22T07:30:27.000Z"
-      },
-      {
-        "time": "12:48",
-        "title": "後発医薬品関税2年後100%に 米",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588882?source=rss",
-        "publishedAt": "2026-07-22T03:48:05.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "22:03",
+        "title": "刃物持つ男 警察官の発砲受け負傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588951?source=rss",
+        "publishedAt": "2026-07-22T13:03:52.000Z"
+      },
+      {
         "time": "14:39",
         "title": "隣人をバットで殴り殺害疑い 逮捕",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588934?source=rss",
         "publishedAt": "2026-07-22T10:05:36.000Z"
-      },
-      {
-        "time": "18:03",
-        "title": "廃墟ホテルに謎の巨大落書き 話題",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588921?source=rss",
-        "publishedAt": "2026-07-22T09:03:51.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T13:02:51.180Z",
+  "updatedAt": "2026-07-22T14:16:47.787Z",
   "items": [
     {
       "time": "20:44",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "新設大学4校 充足率は50%以下"
     },
     {
-      "time": "20:51",
-      "title": "乗務員休憩不足なら運休も JR西",
+      "time": "21:24",
+      "title": "ソウル市長に有罪 刑確定なら失職",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588943?source=rss",
-      "publishedAt": "2026-07-22T11:51:06.000Z",
-      "xQuery": "乗務員休憩不足なら運休も JR西"
+      "url": "https://news.yahoo.co.jp/pickup/6588946?source=rss",
+      "publishedAt": "2026-07-22T12:24:33.000Z",
+      "xQuery": "ソウル市長に有罪 刑確定なら失職"
     },
     {
-      "time": "20:04",
-      "title": "学童保育で性虐待 説明会に怒りも",
+      "time": "21:44",
+      "title": "ヒトラー生家 警察署に改修される",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588938?source=rss",
-      "publishedAt": "2026-07-22T11:04:14.000Z",
-      "xQuery": "学童保育で性虐待 説明会に怒りも"
+      "url": "https://news.yahoo.co.jp/pickup/6588949?source=rss",
+      "publishedAt": "2026-07-22T12:44:32.000Z",
+      "xQuery": "ヒトラー生家 警察署に改修される"
     },
     {
-      "time": "18:28",
-      "title": "山田五郎氏死去 原発不明がんとは",
+      "time": "22:03",
+      "title": "刃物持つ男 警察官の発砲受け負傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588931?source=rss",
-      "publishedAt": "2026-07-22T09:28:41.000Z",
-      "xQuery": "山田五郎氏死去 原発不明がんとは"
+      "url": "https://news.yahoo.co.jp/pickup/6588951?source=rss",
+      "publishedAt": "2026-07-22T13:03:52.000Z",
+      "xQuery": "刃物持つ男 警察官の発砲受け負傷"
     }
   ]
 };
