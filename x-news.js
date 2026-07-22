@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T21:56:58.992Z",
+  "updatedAt": "2026-07-22T22:27:02.080Z",
   "items": [
     {
       "time": "06:33",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "災害級の暑さ 山梨などで酷暑日か"
     },
     {
-      "time": "23:11",
-      "title": "ウ軍 露通販大手の倉庫を再び攻撃",
+      "time": "07:15",
+      "title": "25年中傷投稿特定申し立て1万件超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588957?source=rss",
-      "publishedAt": "2026-07-22T14:11:36.000Z",
-      "xQuery": "ウ軍 露通販大手の倉庫を再び攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6588968?source=rss",
+      "publishedAt": "2026-07-22T22:15:24.000Z",
+      "xQuery": "25年中傷投稿特定申し立て1万件超"
     },
     {
       "time": "22:03",
