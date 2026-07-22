@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T06:02:04.043Z",
+  "updatedAt": "2026-07-22T07:25:03.966Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,25 +112,11 @@
         "publishedAt": "2026-07-22T02:55:02.000Z"
       },
       {
-        "time": "06:13",
-        "title": "一時1ドル163円台 約39年半ぶり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588833?source=rss",
-        "publishedAt": "2026-07-21T21:13:13.000Z"
-      },
-      {
         "time": "06:23",
         "title": "ニチレイ障害 ハッカー集団が声明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588834?source=rss",
         "publishedAt": "2026-07-21T21:23:14.000Z"
-      },
-      {
-        "time": "08:33",
-        "title": "新幹線・札幌延伸工事で不正発覚",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588848?source=rss",
-        "publishedAt": "2026-07-21T23:33:57.000Z"
       },
       {
         "time": "10:37",
@@ -140,11 +126,25 @@
         "publishedAt": "2026-07-22T01:37:32.000Z"
       },
       {
+        "time": "16:06",
+        "title": "山陽新幹線こだま デザインを変更",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588902?source=rss",
+        "publishedAt": "2026-07-22T07:06:45.000Z"
+      },
+      {
         "time": "11:48",
         "title": "出社とテレワーク 不公平感の背景",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588871?source=rss",
         "publishedAt": "2026-07-22T02:48:47.000Z"
+      },
+      {
+        "time": "10:27",
+        "title": "花火大会 席「プレミアム化」加速",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588865?source=rss",
+        "publishedAt": "2026-07-22T01:27:59.000Z"
       }
     ],
     "localHeadlines": [

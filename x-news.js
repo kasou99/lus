@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T06:02:04.712Z",
+  "updatedAt": "2026-07-22T07:25:04.732Z",
   "items": [
     {
       "time": "14:10",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東京都内でも38℃超 熱中症に警戒"
     },
     {
-      "time": "11:59",
-      "title": "ウ軍総司令官を解任 政権の内幕は",
+      "time": "12:48",
+      "title": "後発医薬品関税2年後100%に 米",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588873?source=rss",
-      "publishedAt": "2026-07-22T02:59:39.000Z",
-      "xQuery": "ウ軍総司令官を解任 政権の内幕は"
+      "url": "https://news.yahoo.co.jp/pickup/6588882?source=rss",
+      "publishedAt": "2026-07-22T03:48:05.000Z",
+      "xQuery": "後発医薬品関税2年後100%に 米"
     },
     {
       "time": "14:39",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "白タクに名義貸した疑い 男を逮捕"
     },
     {
-      "time": "13:21",
-      "title": "運転手不足 自動運転実用化の課題",
+      "time": "16:06",
+      "title": "山陽新幹線こだま デザインを変更",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588886?source=rss",
-      "publishedAt": "2026-07-22T04:21:37.000Z",
-      "xQuery": "運転手不足 自動運転実用化の課題"
+      "url": "https://news.yahoo.co.jp/pickup/6588902?source=rss",
+      "publishedAt": "2026-07-22T07:06:45.000Z",
+      "xQuery": "山陽新幹線こだま デザインを変更"
     }
   ]
 };
