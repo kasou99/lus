@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T11:15:57.241Z",
+  "updatedAt": "2026-07-22T12:08:13.699Z",
   "items": [
     {
-      "time": "18:03",
-      "title": "23日は関東内陸でも酷暑日か 危険",
+      "time": "19:52",
+      "title": "中傷動画 首相が秘書の陳述書提出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588923?source=rss",
-      "publishedAt": "2026-07-22T09:03:16.000Z",
-      "xQuery": "23日は関東内陸でも酷暑日か 危険"
+      "url": "https://news.yahoo.co.jp/pickup/6588936?source=rss",
+      "publishedAt": "2026-07-22T10:52:49.000Z",
+      "xQuery": "中傷動画 首相が秘書の陳述書提出"
     },
     {
       "time": "18:05",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "公立教員 精神疾患理由の退職最多"
     },
     {
-      "time": "19:05",
-      "title": "マット死 賠償巡る元少年の言い分",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588934?source=rss",
-      "publishedAt": "2026-07-22T10:05:36.000Z",
-      "xQuery": "マット死 賠償巡る元少年の言い分"
-    },
-    {
       "time": "20:04",
       "title": "学童保育で性虐待 説明会に怒りも",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "学童保育で性虐待 説明会に怒りも"
     },
     {
-      "time": "18:28",
-      "title": "山田五郎氏死去 原発不明がんとは",
+      "time": "18:49",
+      "title": "マイナとAIエージェント連携 論点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588931?source=rss",
-      "publishedAt": "2026-07-22T09:28:41.000Z",
-      "xQuery": "山田五郎氏死去 原発不明がんとは"
+      "url": "https://news.yahoo.co.jp/pickup/6588927?source=rss",
+      "publishedAt": "2026-07-22T09:49:57.000Z",
+      "xQuery": "マイナとAIエージェント連携 論点"
+    },
+    {
+      "time": "20:30",
+      "title": "速報バレー女子 日本vs.ブラジル",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588939?source=rss",
+      "publishedAt": "2026-07-22T11:30:52.000Z",
+      "xQuery": "速報バレー女子 日本vs.ブラジル"
     }
   ]
 };
