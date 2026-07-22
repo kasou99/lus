@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T07:25:04.732Z",
+  "updatedAt": "2026-07-22T08:20:10.791Z",
   "items": [
     {
-      "time": "14:10",
-      "title": "東京都内でも38℃超 熱中症に警戒",
+      "time": "16:32",
+      "title": "静岡などで40度台 熱中症防止を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588891?source=rss",
-      "publishedAt": "2026-07-22T05:10:16.000Z",
-      "xQuery": "東京都内でも38℃超 熱中症に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6588904?source=rss",
+      "publishedAt": "2026-07-22T07:32:51.000Z",
+      "xQuery": "静岡などで40度台 熱中症防止を"
     },
     {
-      "time": "12:48",
-      "title": "後発医薬品関税2年後100%に 米",
+      "time": "16:30",
+      "title": "NY市長 イスラエル首相拘束断念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588882?source=rss",
-      "publishedAt": "2026-07-22T03:48:05.000Z",
-      "xQuery": "後発医薬品関税2年後100%に 米"
+      "url": "https://news.yahoo.co.jp/pickup/6588906?source=rss",
+      "publishedAt": "2026-07-22T07:30:27.000Z",
+      "xQuery": "NY市長 イスラエル首相拘束断念"
+    },
+    {
+      "time": "17:12",
+      "title": "不同意わいせつ ANA機長側が控訴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588912?source=rss",
+      "publishedAt": "2026-07-22T08:12:36.000Z",
+      "xQuery": "不同意わいせつ ANA機長側が控訴"
     },
     {
       "time": "14:39",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "隣人をバットで殴り殺害疑い 逮捕"
     },
     {
-      "time": "14:08",
-      "title": "白タクに名義貸した疑い 男を逮捕",
+      "time": "16:52",
+      "title": "USJ R-18指定アトラクション発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588892?source=rss",
-      "publishedAt": "2026-07-22T05:08:10.000Z",
-      "xQuery": "白タクに名義貸した疑い 男を逮捕"
-    },
-    {
-      "time": "16:06",
-      "title": "山陽新幹線こだま デザインを変更",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588902?source=rss",
-      "publishedAt": "2026-07-22T07:06:45.000Z",
-      "xQuery": "山陽新幹線こだま デザインを変更"
+      "url": "https://news.yahoo.co.jp/pickup/6588910?source=rss",
+      "publishedAt": "2026-07-22T07:52:40.000Z",
+      "xQuery": "USJ R-18指定アトラクション発表"
     }
   ]
 };

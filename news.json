@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T07:25:03.966Z",
+  "updatedAt": "2026-07-22T08:20:10.004Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,18 @@
         "publishedAt": "2026-07-22T03:00:00.000Z"
       },
       {
-        "time": "07:45",
-        "title": "1－6月の黒物家電国内出荷、大型テレビ好調 サッカーW杯需要 JEITA調べ",
+        "time": "06:22",
+        "title": "経営ひと言／産機テクノス・大泉東専務「独自製品を普及」",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85LXpJTHd3bWxTdEZ1akMzYVhWenB1UnJwX1lnTUVTRFNPWG9vMV9FckpneFdNYWxqNUtuSUM5UUtLTnRXZHZJb2JpamZjd2ZVT0pLYzlJck5BVVE?oc=5",
-        "publishedAt": "2026-07-21T22:45:52.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yU1pDZV81U3BJWE9WYTBtR203Q0ZLbjBoYnlaeElraHZLdjdldnJqbGtoa0M4WHl0Zzk5Nld4bFVLN2xPUVdDX0xpSUtoM0M4UWd6RHBPMnA?oc=5",
+        "publishedAt": "2026-07-21T21:22:30.000Z"
+      },
+      {
+        "time": "15:03",
+        "title": "3Dトラスマニピュレーターの世界市場2026年、グローバル市場規模（直線型、回転型）・分析レポートを発表",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CR0lnMDQ3MWphTG14NEVhNlJkdTlKLUdiT0M1UTI4eEFVR3Q4U01hajVxMW1UX3N2ZUpib3VnOVJZM25KNWNKN1hhTUVEaDJRRlhWWXdDOWozWUU1RDA5VEdKaEhYamxYOUQwa3l2b1FGeWJZckFyazZzaw?oc=5",
+        "publishedAt": "2026-07-22T06:03:12.000Z"
       },
       {
         "time": "09:00",
@@ -50,13 +57,6 @@
         "source": "zakⅡ",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wM0hONXdyaGViQ28ycjNnUFNiamJrN2M5VVJtUm1QOTRUSHBONkk0S2RwN29TV3E4Zm5Ldk1MQk5DRi1qUzE2MExsQTU1OGVHakxIcE01b05aWVhDUEVJY05heHdvWm9jQ0lIOUxWMkxFb1U1OE9MRHoyMFA1dw?oc=5",
         "publishedAt": "2026-07-22T00:00:00.000Z"
-      },
-      {
-        "time": "13:48",
-        "title": "部材納入から出荷まで「6.6日間⇒30分」を実現した、台湾企業のサプライチェーン改革の舞台裏",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBteUdMSVFDU3ZPTGtfeTRPQUtPdGRnd2dBUHVsbnVyLWEyM3RjT1M1bkg1TnlzSXdjOExqT0RGdFBoZUdhOEIxMUdRM0cwNVlVc1FtLW40NV8xVUt1ZUVoRzY3aHBkdUlSYUg0SkJrc1BGeng0cG01Q0ZMZw?oc=5",
-        "publishedAt": "2026-07-22T04:48:29.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,11 +82,11 @@
         "publishedAt": "2026-07-21T21:54:30.000Z"
       },
       {
-        "time": "17:20",
-        "title": "中国 日本EEZ内での訓練巡り反論",
+        "time": "16:30",
+        "title": "NY市長 イスラエル首相拘束断念",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588774?source=rss",
-        "publishedAt": "2026-07-21T08:20:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588906?source=rss",
+        "publishedAt": "2026-07-22T07:30:27.000Z"
       },
       {
         "time": "12:48",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "11:55",
-        "title": "円安加速 財務相が市場をけん制",
+        "time": "16:37",
+        "title": "有事ドル買い 為替介入の警戒続く",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588875?source=rss",
-        "publishedAt": "2026-07-22T02:55:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588909?source=rss",
+        "publishedAt": "2026-07-22T07:37:43.000Z"
       },
       {
         "time": "06:23",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "16:32",
+        "title": "静岡などで40度台 熱中症防止を",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588904?source=rss",
+        "publishedAt": "2026-07-22T07:32:51.000Z"
+      },
+      {
         "time": "14:39",
         "title": "隣人をバットで殴り殺害疑い 逮捕",
         "source": "Yahoo!ニュース",
@@ -156,18 +163,18 @@
         "publishedAt": "2026-07-22T05:39:43.000Z"
       },
       {
-        "time": "11:47",
-        "title": "奈良女性2遺体 死因を特定できず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588872?source=rss",
-        "publishedAt": "2026-07-22T02:47:59.000Z"
-      },
-      {
         "time": "13:20",
         "title": "住宅全焼4遺体 住人と連絡取れず",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588884?source=rss",
         "publishedAt": "2026-07-22T04:20:10.000Z"
+      },
+      {
+        "time": "17:12",
+        "title": "不同意わいせつ ANA機長側が控訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588912?source=rss",
+        "publishedAt": "2026-07-22T08:12:36.000Z"
       },
       {
         "time": "09:15",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588852?source=rss",
         "publishedAt": "2026-07-21T23:56:42.000Z"
-      },
-      {
-        "time": "14:08",
-        "title": "白タクに名義貸した疑い 男を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588892?source=rss",
-        "publishedAt": "2026-07-22T05:08:10.000Z"
       }
     ],
     "subsidyHeadlines": [
