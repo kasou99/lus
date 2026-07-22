@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T09:21:00.006Z",
+  "updatedAt": "2026-07-22T10:20:03.191Z",
   "items": [
     {
-      "time": "16:37",
-      "title": "有事ドル買い 為替介入の警戒続く",
+      "time": "18:03",
+      "title": "23日は関東内陸でも酷暑日か 危険",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588909?source=rss",
-      "publishedAt": "2026-07-22T07:37:43.000Z",
-      "xQuery": "有事ドル買い 為替介入の警戒続く"
+      "url": "https://news.yahoo.co.jp/pickup/6588923?source=rss",
+      "publishedAt": "2026-07-22T09:03:16.000Z",
+      "xQuery": "23日は関東内陸でも酷暑日か 危険"
     },
     {
-      "time": "16:30",
-      "title": "NY市長 イスラエル首相拘束断念",
+      "time": "18:05",
+      "title": "公立教員 精神疾患理由の退職最多",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588906?source=rss",
-      "publishedAt": "2026-07-22T07:30:27.000Z",
-      "xQuery": "NY市長 イスラエル首相拘束断念"
+      "url": "https://news.yahoo.co.jp/pickup/6588920?source=rss",
+      "publishedAt": "2026-07-22T09:05:03.000Z",
+      "xQuery": "公立教員 精神疾患理由の退職最多"
     },
     {
-      "time": "17:28",
-      "title": "エスカレーター 立ち止まりの是非",
+      "time": "19:05",
+      "title": "マット死 賠償巡る元少年の言い分",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588918?source=rss",
-      "publishedAt": "2026-07-22T08:28:13.000Z",
-      "xQuery": "エスカレーター 立ち止まりの是非"
+      "url": "https://news.yahoo.co.jp/pickup/6588934?source=rss",
+      "publishedAt": "2026-07-22T10:05:36.000Z",
+      "xQuery": "マット死 賠償巡る元少年の言い分"
     },
     {
-      "time": "17:12",
-      "title": "不同意わいせつ ANA機長側が控訴",
+      "time": "18:38",
+      "title": "ルフトハンザ機 羽田に緊急着陸",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588912?source=rss",
-      "publishedAt": "2026-07-22T08:12:36.000Z",
-      "xQuery": "不同意わいせつ ANA機長側が控訴"
+      "url": "https://news.yahoo.co.jp/pickup/6588932?source=rss",
+      "publishedAt": "2026-07-22T09:38:20.000Z",
+      "xQuery": "ルフトハンザ機 羽田に緊急着陸"
     },
     {
-      "time": "16:30",
-      "title": "オープンAIのモデル テスト中暴走",
+      "time": "18:03",
+      "title": "廃墟ホテルに謎の巨大落書き 話題",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588907?source=rss",
-      "publishedAt": "2026-07-22T07:30:55.000Z",
-      "xQuery": "オープンAIのモデル テスト中暴走"
+      "url": "https://news.yahoo.co.jp/pickup/6588921?source=rss",
+      "publishedAt": "2026-07-22T09:03:51.000Z",
+      "xQuery": "廃墟ホテルに謎の巨大落書き 話題"
     }
   ]
 };
