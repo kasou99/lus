@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T04:38:04.858Z",
+  "updatedAt": "2026-07-22T06:02:04.712Z",
   "items": [
     {
-      "time": "11:56",
-      "title": "文科省 私大に資産運用を促す方針",
+      "time": "14:10",
+      "title": "東京都内でも38℃超 熱中症に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588876?source=rss",
-      "publishedAt": "2026-07-22T02:56:11.000Z",
-      "xQuery": "文科省 私大に資産運用を促す方針"
+      "url": "https://news.yahoo.co.jp/pickup/6588891?source=rss",
+      "publishedAt": "2026-07-22T05:10:16.000Z",
+      "xQuery": "東京都内でも38℃超 熱中症に警戒"
     },
     {
-      "time": "12:53",
-      "title": "北海道・十勝岳が噴火 ごく小規模",
+      "time": "11:59",
+      "title": "ウ軍総司令官を解任 政権の内幕は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588883?source=rss",
-      "publishedAt": "2026-07-22T03:53:24.000Z",
-      "xQuery": "北海道・十勝岳が噴火 ごく小規模"
+      "url": "https://news.yahoo.co.jp/pickup/6588873?source=rss",
+      "publishedAt": "2026-07-22T02:59:39.000Z",
+      "xQuery": "ウ軍総司令官を解任 政権の内幕は"
     },
     {
-      "time": "13:20",
-      "title": "住宅全焼4遺体 住人と連絡取れず",
+      "time": "14:39",
+      "title": "隣人をバットで殴り殺害疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588884?source=rss",
-      "publishedAt": "2026-07-22T04:20:10.000Z",
-      "xQuery": "住宅全焼4遺体 住人と連絡取れず"
+      "url": "https://news.yahoo.co.jp/pickup/6588897?source=rss",
+      "publishedAt": "2026-07-22T05:39:43.000Z",
+      "xQuery": "隣人をバットで殴り殺害疑い 逮捕"
+    },
+    {
+      "time": "14:08",
+      "title": "白タクに名義貸した疑い 男を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588892?source=rss",
+      "publishedAt": "2026-07-22T05:08:10.000Z",
+      "xQuery": "白タクに名義貸した疑い 男を逮捕"
     },
     {
       "time": "13:21",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588886?source=rss",
       "publishedAt": "2026-07-22T04:21:37.000Z",
       "xQuery": "運転手不足 自動運転実用化の課題"
-    },
-    {
-      "time": "11:48",
-      "title": "出社とテレワーク 不公平感の背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588871?source=rss",
-      "publishedAt": "2026-07-22T02:48:47.000Z",
-      "xQuery": "出社とテレワーク 不公平感の背景"
     }
   ]
 };
