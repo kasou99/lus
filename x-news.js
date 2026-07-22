@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T22:27:02.080Z",
+  "updatedAt": "2026-07-22T22:53:18.281Z",
   "items": [
     {
       "time": "06:33",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "災害級の暑さ 山梨などで酷暑日か"
     },
     {
+      "time": "07:18",
+      "title": "オンカジ対策 強制遮断を排除せず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588969?source=rss",
+      "publishedAt": "2026-07-22T22:18:40.000Z",
+      "xQuery": "オンカジ対策 強制遮断を排除せず"
+    },
+    {
       "time": "07:15",
       "title": "25年中傷投稿特定申し立て1万件超",
       "source": "Yahoo!ニュース",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "25年中傷投稿特定申し立て1万件超"
     },
     {
-      "time": "22:03",
-      "title": "刃物持つ男 警察官の発砲受け負傷",
+      "time": "07:33",
+      "title": "セブン 従業員らの不正転売横行か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588951?source=rss",
-      "publishedAt": "2026-07-22T13:03:52.000Z",
-      "xQuery": "刃物持つ男 警察官の発砲受け負傷"
-    },
-    {
-      "time": "23:34",
-      "title": "離島専門に引っ越し業 年商8億円",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588960?source=rss",
-      "publishedAt": "2026-07-22T14:34:58.000Z",
-      "xQuery": "離島専門に引っ越し業 年商8億円"
+      "url": "https://news.yahoo.co.jp/pickup/6588970?source=rss",
+      "publishedAt": "2026-07-22T22:33:44.000Z",
+      "xQuery": "セブン 従業員らの不正転売横行か"
     },
     {
       "time": "06:50",

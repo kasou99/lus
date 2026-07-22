@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-22T22:27:01.371Z",
+  "updatedAt": "2026-07-22T22:53:17.426Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:30",
+        "title": "超低温環境も対応、AIと専門家がタッグ組む回転機器予知保全ソリューション：メンテナンス・レジリエンス2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vMUVucDlZT2VWZ1FPYzNvTFpXS0UzbnN3RkFDYVVVdTIzOFc5MUNsbHRaTzZ1dUQ0bEhhazBhamJ4ZlFZV0ZtbDl6Qk5tZ2hJREVVZHNBa0F2bmNjZ1VaQ1N4R2trbWFOVDNPdUd1QQ?oc=5",
+        "publishedAt": "2026-07-22T22:30:00.000Z"
+      },
       {
         "time": "05:03",
         "title": "村田機械、レーザー加工機拡充 生産能力2倍",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-07-22T02:00:00.000Z"
       },
       {
-        "time": "10:00",
-        "title": "「製造AX拠点」を構築、産総研がデータとAIで日本の製造業の変革を支援：製造マネジメントニュース",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzVGVCZzN3VzdOenBvZE51OW14U2l4X0hLUmIyY29Nb1AzeFVIUHF3SDg1eDBWbmJxN19OcDhpTC1oNW5XbFIyajVfQl9wVDlST1dtS3pfWXc2UGk0WndETEFoTDd4clVUM1RaNFgtNA?oc=5",
-        "publishedAt": "2026-07-22T01:00:00.000Z"
-      },
-      {
-        "time": "07:30",
-        "title": "コレクター垂涎の1200万超。ローマン・ゴティエ、超精密加工×伝統的手仕上げの腕時計（GOETHE）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yQUR0dG5QSFA1YjJ0ekNxWXZPN1Bzb2UwQ3B6VlpyeGFUOWhGVE9tbTVkTGJQbHZTNHBqdGFOR1NpZHc2N0RuVDUwWkx6a0ZsOXNfWHhOOUF3UFpFZUc5ZWJWYkp1bmZjNTZReXM1bnZtaUliMHI5SVdhdU16Z0E?oc=5",
-        "publishedAt": "2026-07-21T22:30:09.000Z"
+        "time": "12:00",
+        "title": "中村留精密工業がSalesforce入力エージェント「bellSalesAI」を導入し営業DXを推進 - J-CAST ニュース",
+        "source": "J-CAST ニュース",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RN3lNbGRnMW4waVdkVjhNTlNKeWpHZ1d2TXgzY3pVYkdtbmZqdzE2aG8yVG93QjByQWt4LTdPVnJUQUZHYnN6ekpUQjBzalAzWnVnbWxJMm56SjNSQ3ZxbWgzY1BPMHJDWDVZ?oc=5",
+        "publishedAt": "2026-07-22T03:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "16:37",
-        "title": "有事ドル買い 為替介入の警戒続く",
+        "time": "07:33",
+        "title": "セブン 従業員らの不正転売横行か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588909?source=rss",
-        "publishedAt": "2026-07-22T07:37:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588970?source=rss",
+        "publishedAt": "2026-07-22T22:33:44.000Z"
       },
       {
         "time": "20:51",
