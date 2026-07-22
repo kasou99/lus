@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T01:40:28.171Z",
+  "updatedAt": "2026-07-22T03:10:52.390Z",
   "items": [
     {
       "time": "09:58",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "危険な猛暑 午後は天気急変に注意"
     },
     {
-      "time": "10:11",
-      "title": "骨太の方針「高市カラー」鮮明",
+      "time": "11:55",
+      "title": "円安加速 財務相が市場をけん制",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588863?source=rss",
-      "publishedAt": "2026-07-22T01:11:09.000Z",
-      "xQuery": "骨太の方針「高市カラー」鮮明"
+      "url": "https://news.yahoo.co.jp/pickup/6588875?source=rss",
+      "publishedAt": "2026-07-22T02:55:02.000Z",
+      "xQuery": "円安加速 財務相が市場をけん制"
     },
     {
-      "time": "09:48",
-      "title": "「送金犯罪」疑い初摘発 罰則解説",
+      "time": "11:47",
+      "title": "奈良女性2遺体 死因を特定できず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588858?source=rss",
-      "publishedAt": "2026-07-22T00:48:00.000Z",
-      "xQuery": "「送金犯罪」疑い初摘発 罰則解説"
+      "url": "https://news.yahoo.co.jp/pickup/6588872?source=rss",
+      "publishedAt": "2026-07-22T02:47:59.000Z",
+      "xQuery": "奈良女性2遺体 死因を特定できず"
     },
     {
-      "time": "09:15",
-      "title": "救命器具を載せず救急車出動 徳島",
+      "time": "10:04",
+      "title": "ベネズエラ地震1カ月 市民は憤り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588856?source=rss",
-      "publishedAt": "2026-07-22T00:15:20.000Z",
-      "xQuery": "救命器具を載せず救急車出動 徳島"
+      "url": "https://news.yahoo.co.jp/pickup/6588862?source=rss",
+      "publishedAt": "2026-07-22T01:04:48.000Z",
+      "xQuery": "ベネズエラ地震1カ月 市民は憤り"
     },
     {
-      "time": "10:37",
-      "title": "ケンタッキー 全店で通常営業再開",
+      "time": "06:23",
+      "title": "ニチレイ障害 ハッカー集団が声明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588866?source=rss",
-      "publishedAt": "2026-07-22T01:37:32.000Z",
-      "xQuery": "ケンタッキー 全店で通常営業再開"
+      "url": "https://news.yahoo.co.jp/pickup/6588834?source=rss",
+      "publishedAt": "2026-07-21T21:23:14.000Z",
+      "xQuery": "ニチレイ障害 ハッカー集団が声明"
     }
   ]
 };
