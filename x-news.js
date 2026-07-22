@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T12:08:13.699Z",
+  "updatedAt": "2026-07-22T13:02:51.180Z",
   "items": [
     {
-      "time": "19:52",
-      "title": "中傷動画 首相が秘書の陳述書提出",
+      "time": "20:44",
+      "title": "週の熱中症搬送者 今年初1万人超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588936?source=rss",
-      "publishedAt": "2026-07-22T10:52:49.000Z",
-      "xQuery": "中傷動画 首相が秘書の陳述書提出"
+      "url": "https://news.yahoo.co.jp/pickup/6588941?source=rss",
+      "publishedAt": "2026-07-22T11:44:07.000Z",
+      "xQuery": "週の熱中症搬送者 今年初1万人超"
     },
     {
-      "time": "18:05",
-      "title": "公立教員 精神疾患理由の退職最多",
+      "time": "21:25",
+      "title": "新設大学4校 充足率は50%以下",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588920?source=rss",
-      "publishedAt": "2026-07-22T09:05:03.000Z",
-      "xQuery": "公立教員 精神疾患理由の退職最多"
+      "url": "https://news.yahoo.co.jp/pickup/6588926?source=rss",
+      "publishedAt": "2026-07-22T12:25:25.000Z",
+      "xQuery": "新設大学4校 充足率は50%以下"
+    },
+    {
+      "time": "20:51",
+      "title": "乗務員休憩不足なら運休も JR西",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588943?source=rss",
+      "publishedAt": "2026-07-22T11:51:06.000Z",
+      "xQuery": "乗務員休憩不足なら運休も JR西"
     },
     {
       "time": "20:04",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "学童保育で性虐待 説明会に怒りも"
     },
     {
-      "time": "18:49",
-      "title": "マイナとAIエージェント連携 論点",
+      "time": "18:28",
+      "title": "山田五郎氏死去 原発不明がんとは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588927?source=rss",
-      "publishedAt": "2026-07-22T09:49:57.000Z",
-      "xQuery": "マイナとAIエージェント連携 論点"
-    },
-    {
-      "time": "20:30",
-      "title": "速報バレー女子 日本vs.ブラジル",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588939?source=rss",
-      "publishedAt": "2026-07-22T11:30:52.000Z",
-      "xQuery": "速報バレー女子 日本vs.ブラジル"
+      "url": "https://news.yahoo.co.jp/pickup/6588931?source=rss",
+      "publishedAt": "2026-07-22T09:28:41.000Z",
+      "xQuery": "山田五郎氏死去 原発不明がんとは"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T12:08:12.925Z",
+  "updatedAt": "2026-07-22T13:02:50.256Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-07-22T03:00:00.000Z"
       },
       {
-        "time": "05:29",
+        "time": "06:22",
         "title": "経営ひと言／産機テクノス・大泉東専務「独自製品を普及」",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81Znl3Nzk5V3gwYVFvMkdGYjlGaGttc3Q2YzlHM3l6S00yNXZ3T0ZVd1BLOGR4bGxKOHdQNDVITTZ5VnplaFdtMks4UFN5YmtVeERHMFBYNDhKck5DRlhldVQ3X0RNRm5xYVFjbWtpYkNTeTlZ?oc=5",
-        "publishedAt": "2026-07-21T20:29:08.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yU1pDZV81U3BJWE9WYTBtR203Q0ZLbjBoYnlaeElraHZLdjdldnJqbGtoa0M4WHl0Zzk5Nld4bFVLN2xPUVdDX0xpSUtoM0M4UWd6RHBPMnA?oc=5",
+        "publishedAt": "2026-07-21T21:22:30.000Z"
       },
       {
         "time": "15:03",
@@ -82,6 +82,13 @@
         "publishedAt": "2026-07-21T21:54:30.000Z"
       },
       {
+        "time": "21:24",
+        "title": "ソウル市長に有罪 刑確定なら失職",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588946?source=rss",
+        "publishedAt": "2026-07-22T12:24:33.000Z"
+      },
+      {
         "time": "16:30",
         "title": "NY市長 イスラエル首相拘束断念",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588882?source=rss",
         "publishedAt": "2026-07-22T03:48:05.000Z"
-      },
-      {
-        "time": "10:04",
-        "title": "ベネズエラ地震1カ月 市民は憤り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588862?source=rss",
-        "publishedAt": "2026-07-22T01:04:48.000Z"
       }
     ],
     "economyHeadlines": [
