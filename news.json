@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T03:10:51.901Z",
+  "updatedAt": "2026-07-22T04:38:04.025Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "chukei-news.co.jp",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wZ0lVTkt2OW1FQzVNT0d2VDRNSGg4V2NnZkZQMm92bjFDTGVFa3NUbHRDck5FVE94dWE5aDBJdGVOY1RaMWdqamFhMFR3ZzdmRHk4VHd1elhlYmhyMXg0eFAwdlJQNFU2ZmhfREFiNGNaUFE?oc=5",
         "publishedAt": "2026-07-21T20:12:51.000Z"
+      },
+      {
+        "time": "12:30",
+        "title": "【新製品発表】レニショーが工作機械用プローブ 2 製品を発表",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12aWpQSVYxTHpyS0hTUW1HYjB0OTR3aWdXeW5HSk9QNkJjanF5MkI2WmFvZktqdC1ZU1NFT0Exb092RU10WW43ckhycHp6bzJsdkUzblFOT2VBeUVrTjA5eElqZWxmNGE0Vmc?oc=5",
+        "publishedAt": "2026-07-22T03:30:02.000Z"
       },
       {
         "time": "07:52",
@@ -24,18 +31,18 @@
         "publishedAt": "2026-07-21T20:00:00.000Z"
       },
       {
-        "time": "07:45",
-        "title": "1－6月の黒物家電国内出荷、大型テレビ好調 サッカーW杯需要 JEITA調べ",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85LXpJTHd3bWxTdEZ1akMzYVhWenB1UnJwX1lnTUVTRFNPWG9vMV9FckpneFdNYWxqNUtuSUM5UUtLTnRXZHZJb2JpamZjd2ZVT0pLYzlJck5BVVE?oc=5",
-        "publishedAt": "2026-07-21T22:45:52.000Z"
+        "time": "12:00",
+        "title": "中村留精密工業が「bellSalesAI」を導入 商談記録の入力時間を1案件あたり約80％削減し、 管理職フィードバックを具体化",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yX0NrZExBOG5tNjhURVpaa1FGU01URDRQekk0aVppMlZwRWF6Y3YydUMzckdIWFZ0VkpLX1JBbGFwYWhiaDYwOUVmZl9wQQ?oc=5",
+        "publishedAt": "2026-07-22T03:00:00.000Z"
       },
       {
-        "time": "12:03",
-        "title": "中村留精密工業が「bellSalesAI」を導入 商談記録の入力時間を1案件あたり約80％削減し、 管理職フィードバックを具体化",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNNllqLVFjSlFwSkRvUnZ4bnREd01CdkFzS3ZxUHNXMTB4ZVE2YkhJR2tiVDlvMWtPSElCZEpIck9qcEJpMVdvTW00eXhiVVozY3pKWmJCWm1SZWhLOWJFRFpoS0VfVTJDSkpIYWt3dkxwRWtVZHZ1ZzZwQQ?oc=5",
-        "publishedAt": "2026-07-22T03:03:29.000Z"
+        "time": "05:29",
+        "title": "経営ひと言／産機テクノス・大泉東専務「独自製品を普及」",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81Znl3Nzk5V3gwYVFvMkdGYjlGaGttc3Q2YzlHM3l6S00yNXZ3T0ZVd1BLOGR4bGxKOHdQNDVITTZ5VnplaFdtMks4UFN5YmtVeERHMFBYNDhKck5DRlhldVQ3X0RNRm5xYVFjbWtpYkNTeTlZ?oc=5",
+        "publishedAt": "2026-07-21T20:29:08.000Z"
       },
       {
         "time": "09:00",
@@ -50,13 +57,6 @@
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFg2NzVvdUF2eVF3VXBqN01jdmZnd3lSUjhHMGZnVDJ2VGJOdFlSOV9GZ2RWa1ppMWxDU3BjcjRJZzZCbnJRMHpWUG8xUEpGYTBidElqbGpRTURvUlRwMlFOcl9OQ1JyNmJDNWloVF9JRXFqRXFhSDRndnpWZURYdHcyZl9wbWZfWkdjWV9PNU1MbnZFY0FPSTFvRm5LcWtIcVhMNm5obGo?oc=5",
         "publishedAt": "2026-07-21T09:21:59.000Z"
-      },
-      {
-        "time": "13:10",
-        "title": "「売るのは測定器ではなく生産性」 ～ブルーム-ノボテスト 朝尾信之 日本法人社長に聞く～ - | 製造現場ドットコム",
-        "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tREJneXVWcDZGYi1JLXBEY1ZXLUpvY1BzZUFoNDV5XzgwM3d5UE1VOU5TWVZsU01VeWliNW54MWZUQWpzZnhFM0RB?oc=5",
-        "publishedAt": "2026-07-21T04:10:19.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-07-21T08:20:53.000Z"
       },
       {
+        "time": "12:48",
+        "title": "後発医薬品関税2年後100%に 米",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588882?source=rss",
+        "publishedAt": "2026-07-22T03:48:05.000Z"
+      },
+      {
         "time": "10:04",
         "title": "ベネズエラ地震1カ月 市民は憤り",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588862?source=rss",
         "publishedAt": "2026-07-22T01:04:48.000Z"
-      },
-      {
-        "time": "18:02",
-        "title": "韓国 外交官全員の情報流出か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588785?source=rss",
-        "publishedAt": "2026-07-21T09:02:22.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-07-22T02:47:59.000Z"
       },
       {
+        "time": "13:20",
+        "title": "住宅全焼4遺体 住人と連絡取れず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588884?source=rss",
+        "publishedAt": "2026-07-22T04:20:10.000Z"
+      },
+      {
         "time": "09:15",
         "title": "救命器具を載せず救急車出動 徳島",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588856?source=rss",
         "publishedAt": "2026-07-22T00:15:20.000Z"
-      },
-      {
-        "time": "07:29",
-        "title": "住宅全焼し4人遺体 千葉・八街市",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588840?source=rss",
-        "publishedAt": "2026-07-21T22:29:40.000Z"
       },
       {
         "time": "08:56",

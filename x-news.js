@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T03:10:52.390Z",
+  "updatedAt": "2026-07-22T04:38:04.858Z",
   "items": [
     {
-      "time": "09:58",
-      "title": "危険な猛暑 午後は天気急変に注意",
+      "time": "11:56",
+      "title": "文科省 私大に資産運用を促す方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588860?source=rss",
-      "publishedAt": "2026-07-22T00:58:22.000Z",
-      "xQuery": "危険な猛暑 午後は天気急変に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6588876?source=rss",
+      "publishedAt": "2026-07-22T02:56:11.000Z",
+      "xQuery": "文科省 私大に資産運用を促す方針"
     },
     {
-      "time": "11:55",
-      "title": "円安加速 財務相が市場をけん制",
+      "time": "12:53",
+      "title": "北海道・十勝岳が噴火 ごく小規模",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588875?source=rss",
-      "publishedAt": "2026-07-22T02:55:02.000Z",
-      "xQuery": "円安加速 財務相が市場をけん制"
+      "url": "https://news.yahoo.co.jp/pickup/6588883?source=rss",
+      "publishedAt": "2026-07-22T03:53:24.000Z",
+      "xQuery": "北海道・十勝岳が噴火 ごく小規模"
     },
     {
-      "time": "11:47",
-      "title": "奈良女性2遺体 死因を特定できず",
+      "time": "13:20",
+      "title": "住宅全焼4遺体 住人と連絡取れず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588872?source=rss",
-      "publishedAt": "2026-07-22T02:47:59.000Z",
-      "xQuery": "奈良女性2遺体 死因を特定できず"
+      "url": "https://news.yahoo.co.jp/pickup/6588884?source=rss",
+      "publishedAt": "2026-07-22T04:20:10.000Z",
+      "xQuery": "住宅全焼4遺体 住人と連絡取れず"
     },
     {
-      "time": "10:04",
-      "title": "ベネズエラ地震1カ月 市民は憤り",
+      "time": "13:21",
+      "title": "運転手不足 自動運転実用化の課題",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588862?source=rss",
-      "publishedAt": "2026-07-22T01:04:48.000Z",
-      "xQuery": "ベネズエラ地震1カ月 市民は憤り"
+      "url": "https://news.yahoo.co.jp/pickup/6588886?source=rss",
+      "publishedAt": "2026-07-22T04:21:37.000Z",
+      "xQuery": "運転手不足 自動運転実用化の課題"
     },
     {
-      "time": "06:23",
-      "title": "ニチレイ障害 ハッカー集団が声明",
+      "time": "11:48",
+      "title": "出社とテレワーク 不公平感の背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588834?source=rss",
-      "publishedAt": "2026-07-21T21:23:14.000Z",
-      "xQuery": "ニチレイ障害 ハッカー集団が声明"
+      "url": "https://news.yahoo.co.jp/pickup/6588871?source=rss",
+      "publishedAt": "2026-07-22T02:48:47.000Z",
+      "xQuery": "出社とテレワーク 不公平感の背景"
     }
   ]
 };
