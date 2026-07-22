@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-21T23:50:27.812Z",
+  "updatedAt": "2026-07-22T00:46:22.257Z",
   "items": [
-    {
-      "time": "07:26",
-      "title": "22日も各地で酷暑日予想 厳重警戒",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588838?source=rss",
-      "publishedAt": "2026-07-21T22:26:47.000Z",
-      "xQuery": "22日も各地で酷暑日予想 厳重警戒"
-    },
     {
       "time": "07:49",
       "title": "日英伊の次期戦闘機 カナダ参加",
@@ -18,28 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "日英伊の次期戦闘機 カナダ参加"
     },
     {
-      "time": "07:44",
-      "title": "首相「多忙アピール」なぜ逆効果",
+      "time": "08:56",
+      "title": "大阪都構想 維新の区割り案に賛否",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588842?source=rss",
-      "publishedAt": "2026-07-21T22:44:34.000Z",
-      "xQuery": "首相「多忙アピール」なぜ逆効果"
+      "url": "https://news.yahoo.co.jp/pickup/6588852?source=rss",
+      "publishedAt": "2026-07-21T23:56:42.000Z",
+      "xQuery": "大阪都構想 維新の区割り案に賛否"
     },
     {
-      "time": "07:29",
-      "title": "住宅全焼し4人遺体 千葉・八街市",
+      "time": "09:15",
+      "title": "救命器具を載せず救急車出動 徳島",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588840?source=rss",
-      "publishedAt": "2026-07-21T22:29:40.000Z",
-      "xQuery": "住宅全焼し4人遺体 千葉・八街市"
+      "url": "https://news.yahoo.co.jp/pickup/6588856?source=rss",
+      "publishedAt": "2026-07-22T00:15:20.000Z",
+      "xQuery": "救命器具を載せず救急車出動 徳島"
     },
     {
-      "time": "06:23",
-      "title": "ニチレイ障害 ハッカー集団が声明",
+      "time": "08:33",
+      "title": "新幹線・札幌延伸工事で不正発覚",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588834?source=rss",
-      "publishedAt": "2026-07-21T21:23:14.000Z",
-      "xQuery": "ニチレイ障害 ハッカー集団が声明"
+      "url": "https://news.yahoo.co.jp/pickup/6588848?source=rss",
+      "publishedAt": "2026-07-21T23:33:57.000Z",
+      "xQuery": "新幹線・札幌延伸工事で不正発覚"
+    },
+    {
+      "time": "09:02",
+      "title": "グーグル ジェ‌ミニ低価格版発表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588851?source=rss",
+      "publishedAt": "2026-07-22T00:02:09.000Z",
+      "xQuery": "グーグル ジェ‌ミニ低価格版発表"
     }
   ]
 };
