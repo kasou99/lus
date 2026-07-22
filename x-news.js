@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T08:20:10.791Z",
+  "updatedAt": "2026-07-22T09:21:00.006Z",
   "items": [
     {
-      "time": "16:32",
-      "title": "静岡などで40度台 熱中症防止を",
+      "time": "16:37",
+      "title": "有事ドル買い 為替介入の警戒続く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588904?source=rss",
-      "publishedAt": "2026-07-22T07:32:51.000Z",
-      "xQuery": "静岡などで40度台 熱中症防止を"
+      "url": "https://news.yahoo.co.jp/pickup/6588909?source=rss",
+      "publishedAt": "2026-07-22T07:37:43.000Z",
+      "xQuery": "有事ドル買い 為替介入の警戒続く"
     },
     {
       "time": "16:30",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "NY市長 イスラエル首相拘束断念"
     },
     {
+      "time": "17:28",
+      "title": "エスカレーター 立ち止まりの是非",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588918?source=rss",
+      "publishedAt": "2026-07-22T08:28:13.000Z",
+      "xQuery": "エスカレーター 立ち止まりの是非"
+    },
+    {
       "time": "17:12",
       "title": "不同意わいせつ ANA機長側が控訴",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "不同意わいせつ ANA機長側が控訴"
     },
     {
-      "time": "14:39",
-      "title": "隣人をバットで殴り殺害疑い 逮捕",
+      "time": "16:30",
+      "title": "オープンAIのモデル テスト中暴走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588897?source=rss",
-      "publishedAt": "2026-07-22T05:39:43.000Z",
-      "xQuery": "隣人をバットで殴り殺害疑い 逮捕"
-    },
-    {
-      "time": "16:52",
-      "title": "USJ R-18指定アトラクション発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588910?source=rss",
-      "publishedAt": "2026-07-22T07:52:40.000Z",
-      "xQuery": "USJ R-18指定アトラクション発表"
+      "url": "https://news.yahoo.co.jp/pickup/6588907?source=rss",
+      "publishedAt": "2026-07-22T07:30:55.000Z",
+      "xQuery": "オープンAIのモデル テスト中暴走"
     }
   ]
 };

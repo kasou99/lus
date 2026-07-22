@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T08:20:10.004Z",
+  "updatedAt": "2026-07-22T09:20:59.186Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-07-22T03:00:00.000Z"
       },
       {
-        "time": "06:22",
-        "title": "経営ひと言／産機テクノス・大泉東専務「独自製品を普及」",
+        "time": "06:00",
+        "title": "AI時代、税理士に好機 TKC全国会が都内で役員大会",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yU1pDZV81U3BJWE9WYTBtR203Q0ZLbjBoYnlaeElraHZLdjdldnJqbGtoa0M4WHl0Zzk5Nld4bFVLN2xPUVdDX0xpSUtoM0M4UWd6RHBPMnA?oc=5",
-        "publishedAt": "2026-07-21T21:22:30.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VbzdwbVhGYzVfdzdFWUZpMVFtSjN5cW5ieHJJTVBWVlNRUUZoUnBDa2hic2xKWEwzRXM2VF9UVEVuZ3VYOTRON3p4dUhmLWxTT2NCUkxVbUZHdE1JUG9UbzBKOEo5NzBKNjlLOEpnMGV6YkNHNVRyWlBzQQ?oc=5",
+        "publishedAt": "2026-07-21T21:00:00.000Z"
       },
       {
         "time": "15:03",
@@ -170,6 +170,13 @@
         "publishedAt": "2026-07-22T04:20:10.000Z"
       },
       {
+        "time": "18:11",
+        "title": "保育園でCO漏れ 職員4人搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588929?source=rss",
+        "publishedAt": "2026-07-22T09:11:24.000Z"
+      },
+      {
         "time": "17:12",
         "title": "不同意わいせつ ANA機長側が控訴",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-07-22T08:12:36.000Z"
       },
       {
-        "time": "09:15",
-        "title": "救命器具を載せず救急車出動 徳島",
+        "time": "18:03",
+        "title": "廃墟ホテルに謎の巨大落書き 話題",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588856?source=rss",
-        "publishedAt": "2026-07-22T00:15:20.000Z"
-      },
-      {
-        "time": "08:56",
-        "title": "大阪都構想 維新の区割り案に賛否",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588852?source=rss",
-        "publishedAt": "2026-07-21T23:56:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588921?source=rss",
+        "publishedAt": "2026-07-22T09:03:51.000Z"
       }
     ],
     "subsidyHeadlines": [
