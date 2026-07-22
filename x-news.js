@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T21:34:25.534Z",
+  "updatedAt": "2026-07-22T21:56:58.992Z",
   "items": [
     {
-      "time": "23:10",
-      "title": "米国務長官 日中関係の悪化に憂慮",
+      "time": "06:33",
+      "title": "災害級の暑さ 山梨などで酷暑日か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588959?source=rss",
-      "publishedAt": "2026-07-22T14:10:40.000Z",
-      "xQuery": "米国務長官 日中関係の悪化に憂慮"
+      "url": "https://news.yahoo.co.jp/pickup/6588965?source=rss",
+      "publishedAt": "2026-07-22T21:33:34.000Z",
+      "xQuery": "災害級の暑さ 山梨などで酷暑日か"
     },
     {
       "time": "23:11",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588957?source=rss",
       "publishedAt": "2026-07-22T14:11:36.000Z",
       "xQuery": "ウ軍 露通販大手の倉庫を再び攻撃"
-    },
-    {
-      "time": "21:24",
-      "title": "ソウル市長に有罪 刑確定なら失職",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588946?source=rss",
-      "publishedAt": "2026-07-22T12:24:33.000Z",
-      "xQuery": "ソウル市長に有罪 刑確定なら失職"
     },
     {
       "time": "22:03",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588960?source=rss",
       "publishedAt": "2026-07-22T14:34:58.000Z",
       "xQuery": "離島専門に引っ越し業 年商8億円"
+    },
+    {
+      "time": "06:50",
+      "title": "SNSで中古マンション購入増 なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588966?source=rss",
+      "publishedAt": "2026-07-22T21:50:23.000Z",
+      "xQuery": "SNSで中古マンション購入増 なぜ"
     }
   ]
 };
