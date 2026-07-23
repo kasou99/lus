@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T23:51:31.184Z",
+  "updatedAt": "2026-07-23T00:49:08.655Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,18 +61,18 @@
     ],
     "worldHeadlines": [
       {
-        "time": "08:16",
-        "title": "米 イラン山岳地帯を「近く攻撃」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588845?source=rss",
-        "publishedAt": "2026-07-21T23:16:36.000Z"
-      },
-      {
         "time": "23:10",
         "title": "米国務長官 日中関係の悪化に憂慮",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588959?source=rss",
         "publishedAt": "2026-07-22T14:10:40.000Z"
+      },
+      {
+        "time": "08:54",
+        "title": "中国 新型の攻撃型原潜を建造か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588976?source=rss",
+        "publishedAt": "2026-07-22T23:54:52.000Z"
       },
       {
         "time": "23:11",
@@ -133,21 +133,28 @@
         "publishedAt": "2026-07-22T21:50:23.000Z"
       },
       {
+        "time": "09:21",
+        "title": "セルフレジ 万引きにスーパー苦慮",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588980?source=rss",
+        "publishedAt": "2026-07-23T00:21:18.000Z"
+      },
+      {
         "time": "16:06",
         "title": "山陽新幹線こだま デザインを変更",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588902?source=rss",
         "publishedAt": "2026-07-22T07:06:45.000Z"
-      },
-      {
-        "time": "23:34",
-        "title": "離島専門に引っ越し業 年商8億円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588960?source=rss",
-        "publishedAt": "2026-07-22T14:34:58.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "08:50",
+        "title": "独身偽装被害 女性は何度も確認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588977?source=rss",
+        "publishedAt": "2026-07-22T23:50:50.000Z"
+      },
       {
         "time": "22:03",
         "title": "刃物持つ男 警察官の発砲受け負傷",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588934?source=rss",
         "publishedAt": "2026-07-22T10:05:36.000Z"
-      },
-      {
-        "time": "08:39",
-        "title": "野焼きが燃え広がったか 99歳死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588979?source=rss",
-        "publishedAt": "2026-07-22T23:39:42.000Z"
       }
     ],
     "subsidyHeadlines": [

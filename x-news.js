@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-22T23:51:32.117Z",
+  "updatedAt": "2026-07-23T00:49:09.364Z",
   "items": [
     {
-      "time": "06:33",
-      "title": "災害級の暑さ 山梨などで酷暑日か",
+      "time": "09:34",
+      "title": "厳暑続く 東海中心に40℃超の予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588965?source=rss",
-      "publishedAt": "2026-07-22T21:33:34.000Z",
-      "xQuery": "災害級の暑さ 山梨などで酷暑日か"
+      "url": "https://news.yahoo.co.jp/pickup/6588982?source=rss",
+      "publishedAt": "2026-07-23T00:34:10.000Z",
+      "xQuery": "厳暑続く 東海中心に40℃超の予想"
     },
     {
-      "time": "07:18",
-      "title": "オンカジ対策 強制遮断を排除せず",
+      "time": "08:54",
+      "title": "中国 新型の攻撃型原潜を建造か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588969?source=rss",
-      "publishedAt": "2026-07-22T22:18:40.000Z",
-      "xQuery": "オンカジ対策 強制遮断を排除せず"
-    },
-    {
-      "time": "07:15",
-      "title": "25年中傷投稿特定申し立て1万件超",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588968?source=rss",
-      "publishedAt": "2026-07-22T22:15:24.000Z",
-      "xQuery": "25年中傷投稿特定申し立て1万件超"
+      "url": "https://news.yahoo.co.jp/pickup/6588976?source=rss",
+      "publishedAt": "2026-07-22T23:54:52.000Z",
+      "xQuery": "中国 新型の攻撃型原潜を建造か"
     },
     {
       "time": "08:28",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6588970?source=rss",
       "publishedAt": "2026-07-22T22:33:44.000Z",
       "xQuery": "セブン 従業員らの不正転売横行か"
+    },
+    {
+      "time": "08:50",
+      "title": "独身偽装被害 女性は何度も確認",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588977?source=rss",
+      "publishedAt": "2026-07-22T23:50:50.000Z",
+      "xQuery": "独身偽装被害 女性は何度も確認"
     }
   ]
 };
