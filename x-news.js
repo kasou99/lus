@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T13:03:16.651Z",
+  "updatedAt": "2026-07-23T14:18:19.753Z",
   "items": [
     {
       "time": "19:26",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "皇室典範改正 麻生氏「ようやく」"
     },
     {
-      "time": "19:52",
-      "title": "都こんぶ 外国産使用39万袋を回収",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589058?source=rss",
-      "publishedAt": "2026-07-23T10:52:24.000Z",
-      "xQuery": "都こんぶ 外国産使用39万袋を回収"
-    },
-    {
       "time": "21:38",
       "title": "山岳部の女子高校生 奥穂高で滑落",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6589072?source=rss",
       "publishedAt": "2026-07-23T12:38:37.000Z",
       "xQuery": "山岳部の女子高校生 奥穂高で滑落"
+    },
+    {
+      "time": "23:00",
+      "title": "刃物を持った男に警官が発砲 映像",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589078?source=rss",
+      "publishedAt": "2026-07-23T14:00:46.000Z",
+      "xQuery": "刃物を持った男に警官が発砲 映像"
     },
     {
       "time": "20:21",

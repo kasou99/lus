@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T13:03:15.734Z",
+  "updatedAt": "2026-07-23T14:18:18.985Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "Giornale Radio",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oOWdpQVNOOWlEYlRjUTRSZURZY0ZLVEJDQjZqSEtJdmVkSjNWeUNMcll4U0pWa0s0T2hiUXRFNFdqd3pkTHktY3k1czE0cVBVdnVhX3prcw?oc=5",
         "publishedAt": "2026-07-23T08:31:11.000Z"
+      },
+      {
+        "time": "17:06",
+        "title": "【FISCO銘柄コメント】ツガミ---工作機械メーカー(フィスコ)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZkp6WTRac3dJSnJYSVFidEVuZUp6NmdLYlJPVTZQV05fSTBldWJZVkMxZmRlNW5STlhBaU1OSzl6Z2d1YmlVLXpiT1M3b2JWYUYxclJkMTNFYzdGQjV2djJYSDZTMlZ2MWl1Z3BoeEswU0MxeFdLcWk2QWZyM0I4aDNqYW42R3c?oc=5",
+        "publishedAt": "2026-07-23T08:06:00.000Z"
       },
       {
         "time": "09:54",
@@ -48,15 +55,8 @@
         "time": "17:03",
         "title": "CNCスピンドル修理と再構築サービス成長シナリオ分析：年平均成長率7.3%を支える要因とは",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XMktXSjdULXNyLTliNFM3SWNDRXE3aFdraXhYOWZfdnRDRXJxaUlMRWQ3dk10eGNETHNPeU5ubDR0dldqRXlubnp1cXVGdkxFU1pkOUdxajNUMXo3bVdyY2ctS3ZVZ0E0NGdIUFhCNmwxcHEzOFV5MFI0aw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzX3FoM2xsWl9mc09GdjU4ZE13WVh1aDcxMFQzLTZHdHlkRUQ5eGJGTnFsSWhuZ2dMTDFVX0ZSRW9LTlVHd0ZDa09zcVZEa0JZNDBPVQ?oc=5",
         "publishedAt": "2026-07-23T08:03:52.000Z"
-      },
-      {
-        "time": "07:30",
-        "title": "超低温環境も対応、AIと専門家がタッグ組む回転機器予知保全ソリューション：メンテナンス・レジリエンス2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vMUVucDlZT2VWZ1FPYzNvTFpXS0UzbnN3RkFDYVVVdTIzOFc5MUNsbHRaTzZ1dUQ0bEhhazBhamJ4ZlFZV0ZtbDl6Qk5tZ2hJREVVZHNBa0F2bmNjZ1VaQ1N4R2trbWFOVDNPdUd1QQ?oc=5",
-        "publishedAt": "2026-07-22T22:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -96,20 +96,20 @@
         "publishedAt": "2026-07-22T12:24:33.000Z"
       },
       {
-        "time": "16:30",
-        "title": "NY市長 イスラエル首相拘束断念",
+        "time": "22:28",
+        "title": "伊南部で山火事 猫を放火に利用",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588906?source=rss",
-        "publishedAt": "2026-07-22T07:30:27.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589076?source=rss",
+        "publishedAt": "2026-07-23T13:28:08.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "17:06",
-        "title": "日本郵便「指定日営業」導入検討",
+        "time": "23:10",
+        "title": "愛媛2行 経営統合に向け最終調整",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589034?source=rss",
-        "publishedAt": "2026-07-23T08:06:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589080?source=rss",
+        "publishedAt": "2026-07-23T14:10:00.000Z"
       },
       {
         "time": "13:47",
@@ -119,11 +119,18 @@
         "publishedAt": "2026-07-23T04:47:21.000Z"
       },
       {
-        "time": "18:14",
-        "title": "ダスキン 上海子会社を解散",
+        "time": "23:12",
+        "title": "セブン従業員が不正転売 法的には",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589049?source=rss",
-        "publishedAt": "2026-07-23T09:14:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589081?source=rss",
+        "publishedAt": "2026-07-23T14:12:27.000Z"
+      },
+      {
+        "time": "22:19",
+        "title": "永谷園「モコモコ」12年ぶり復活",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589075?source=rss",
+        "publishedAt": "2026-07-23T13:19:27.000Z"
       },
       {
         "time": "20:52",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589058?source=rss",
         "publishedAt": "2026-07-23T10:52:24.000Z"
-      },
-      {
-        "time": "19:31",
-        "title": "「100g451円」輸入牛高騰 今後は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589044?source=rss",
-        "publishedAt": "2026-07-23T10:31:05.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-07-23T08:23:25.000Z"
       },
       {
+        "time": "23:00",
+        "title": "刃物を持った男に警官が発砲 映像",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589078?source=rss",
+        "publishedAt": "2026-07-23T14:00:46.000Z"
+      },
+      {
         "time": "21:38",
         "title": "山岳部の女子高校生 奥穂高で滑落",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589045?source=rss",
         "publishedAt": "2026-07-23T09:03:37.000Z"
-      },
-      {
-        "time": "17:29",
-        "title": "運転中に猟銃の弾当たったか けが",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589037?source=rss",
-        "publishedAt": "2026-07-23T08:29:40.000Z"
       }
     ],
     "subsidyHeadlines": [
