@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T07:23:42.749Z",
+  "updatedAt": "2026-07-23T08:20:11.266Z",
   "items": [
     {
-      "time": "15:57",
-      "title": "浜松で41.1℃観測 今年の全国最高",
+      "time": "16:55",
+      "title": "日中外相 首相答弁以来初めて接触",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589024?source=rss",
-      "publishedAt": "2026-07-23T06:57:13.000Z",
-      "xQuery": "浜松で41.1℃観測 今年の全国最高"
+      "url": "https://news.yahoo.co.jp/pickup/6589032?source=rss",
+      "publishedAt": "2026-07-23T07:55:23.000Z",
+      "xQuery": "日中外相 首相答弁以来初めて接触"
     },
     {
-      "time": "13:52",
-      "title": "中傷動画巡る秘書陳述書 識者分析",
+      "time": "16:45",
+      "title": "ストーカー加害者にGPS 政府検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589016?source=rss",
-      "publishedAt": "2026-07-23T04:52:04.000Z",
-      "xQuery": "中傷動画巡る秘書陳述書 識者分析"
-    },
-    {
-      "time": "16:12",
-      "title": "セブンとPayPay 顧客IDの統合検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589025?source=rss",
-      "publishedAt": "2026-07-23T07:12:17.000Z",
-      "xQuery": "セブンとPayPay 顧客IDの統合検討"
+      "url": "https://news.yahoo.co.jp/pickup/6589028?source=rss",
+      "publishedAt": "2026-07-23T07:45:00.000Z",
+      "xQuery": "ストーカー加害者にGPS 政府検討"
     },
     {
       "time": "15:21",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "江別暴行死 生きて帰ると被害者"
     },
     {
-      "time": "13:21",
-      "title": "草刈り中にため池転落 2人死亡",
+      "time": "16:16",
+      "title": "川で男子中学生が溺れ死亡 高知",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589012?source=rss",
-      "publishedAt": "2026-07-23T04:21:21.000Z",
-      "xQuery": "草刈り中にため池転落 2人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589026?source=rss",
+      "publishedAt": "2026-07-23T07:16:14.000Z",
+      "xQuery": "川で男子中学生が溺れ死亡 高知"
+    },
+    {
+      "time": "16:31",
+      "title": "詐欺疑い全仏V元テニス選手 否認",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589027?source=rss",
+      "publishedAt": "2026-07-23T07:31:20.000Z",
+      "xQuery": "詐欺疑い全仏V元テニス選手 否認"
     }
   ]
 };
