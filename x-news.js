@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T22:51:01.483Z",
+  "updatedAt": "2026-07-23T23:24:16.258Z",
   "items": [
     {
       "time": "07:21",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "米政権が新関税発表 日本は12.5%"
     },
     {
-      "time": "06:09",
-      "title": "元日本赤軍 岡本公三容疑者が死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589085?source=rss",
-      "publishedAt": "2026-07-23T21:09:15.000Z",
-      "xQuery": "元日本赤軍 岡本公三容疑者が死亡"
-    },
-    {
       "time": "06:45",
       "title": "8月初旬 関東甲信など40℃以上か",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "8月初旬 関東甲信など40℃以上か"
     },
     {
-      "time": "23:12",
-      "title": "セブン従業員が不正転売 法的には",
+      "time": "06:09",
+      "title": "元日本赤軍 岡本公三容疑者が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589081?source=rss",
-      "publishedAt": "2026-07-23T14:12:27.000Z",
-      "xQuery": "セブン従業員が不正転売 法的には"
+      "url": "https://news.yahoo.co.jp/pickup/6589085?source=rss",
+      "publishedAt": "2026-07-23T21:09:15.000Z",
+      "xQuery": "元日本赤軍 岡本公三容疑者が死亡"
     },
     {
       "time": "21:38",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589072?source=rss",
       "publishedAt": "2026-07-23T12:38:37.000Z",
       "xQuery": "山岳部の女子高校生 奥穂高で滑落"
+    },
+    {
+      "time": "07:55",
+      "title": "ストリーミング詐欺 悩む音楽業界",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589094?source=rss",
+      "publishedAt": "2026-07-23T22:55:04.000Z",
+      "xQuery": "ストリーミング詐欺 悩む音楽業界"
     }
   ]
 };
