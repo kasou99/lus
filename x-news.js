@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T00:49:09.364Z",
+  "updatedAt": "2026-07-23T01:40:38.595Z",
   "items": [
     {
       "time": "09:34",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "厳暑続く 東海中心に40℃超の予想"
     },
     {
-      "time": "08:54",
-      "title": "中国 新型の攻撃型原潜を建造か",
+      "time": "09:47",
+      "title": "Google親会社4-6月期 純利益4倍",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588976?source=rss",
-      "publishedAt": "2026-07-22T23:54:52.000Z",
-      "xQuery": "中国 新型の攻撃型原潜を建造か"
+      "url": "https://news.yahoo.co.jp/pickup/6588983?source=rss",
+      "publishedAt": "2026-07-23T00:47:10.000Z",
+      "xQuery": "Google親会社4-6月期 純利益4倍"
     },
     {
-      "time": "08:28",
-      "title": "対向車多いのに右折信号なし 背景",
+      "time": "10:14",
+      "title": "日本で露スパイ活動 報道直後出国",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588975?source=rss",
-      "publishedAt": "2026-07-22T23:28:02.000Z",
-      "xQuery": "対向車多いのに右折信号なし 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6588985?source=rss",
+      "publishedAt": "2026-07-23T01:14:19.000Z",
+      "xQuery": "日本で露スパイ活動 報道直後出国"
     },
     {
       "time": "07:33",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "セブン 従業員らの不正転売横行か"
     },
     {
-      "time": "08:50",
-      "title": "独身偽装被害 女性は何度も確認",
+      "time": "08:28",
+      "title": "対向車多いのに右折信号なし 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588977?source=rss",
-      "publishedAt": "2026-07-22T23:50:50.000Z",
-      "xQuery": "独身偽装被害 女性は何度も確認"
+      "url": "https://news.yahoo.co.jp/pickup/6588975?source=rss",
+      "publishedAt": "2026-07-22T23:28:02.000Z",
+      "xQuery": "対向車多いのに右折信号なし 背景"
     }
   ]
 };

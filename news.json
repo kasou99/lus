@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-23T00:49:08.655Z",
+  "updatedAt": "2026-07-23T01:40:37.870Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:54",
+        "title": "【台湾情報】2026年上半期の台湾工作機械輸出、完成機は微減も部品需要が11.4%増と牽引＜ワイズ機械業界ジャーナル2026年7月第４週号発行＞",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iNmR0QTVFYk5KVDVCallwSUhKMnVOMi1OS3dvd1NxTmgxbUJxZTlwRW1ZQzFQZTJSbDc3TkRaWWlKNHdTZS1tc2hZQUNfYU1HT1oyZ2V5TmNxM19rd25GcEt3ejZUS2xCdFE?oc=5",
+        "publishedAt": "2026-07-23T00:54:18.000Z"
+      },
       {
         "time": "07:30",
         "title": "超低温環境も対応、AIと専門家がタッグ組む回転機器予知保全ソリューション：メンテナンス・レジリエンス2026",
@@ -15,13 +22,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rLXJ4WVpZS1NRZEUyVXBuQUxQTlVyQzBYVTJmZ0lDWFFacFYzUUVJWEMwbVJFQ0dnTDFGcFltT3lBOFpCSWs4bkN0Zlp2ZmN5OExQZTR1UmRSVlE?oc=5",
         "publishedAt": "2026-07-22T20:03:15.000Z"
-      },
-      {
-        "time": "12:30",
-        "title": "【新製品発表】レニショーが工作機械用プローブ 2 製品を発表",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12aWpQSVYxTHpyS0hTUW1HYjB0OTR3aWdXeW5HSk9QNkJjanF5MkI2WmFvZktqdC1ZU1NFT0Exb092RU10WW43ckhycHp6bzJsdkUzblFOT2VBeUVrTjA5eElqZWxmNGE0Vmc?oc=5",
-        "publishedAt": "2026-07-22T03:30:02.000Z"
       },
       {
         "time": "01:47",
@@ -45,17 +45,17 @@
         "publishedAt": "2026-07-22T03:00:00.000Z"
       },
       {
+        "time": "12:30",
+        "title": "【新製品発表】レニショーが工作機械用プローブ 2 製品を発表",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12aWpQSVYxTHpyS0hTUW1HYjB0OTR3aWdXeW5HSk9QNkJjanF5MkI2WmFvZktqdC1ZU1NFT0Exb092RU10WW43ckhycHp6bzJsdkUzblFOT2VBeUVrTjA5eElqZWxmNGE0Vmc?oc=5",
+        "publishedAt": "2026-07-22T03:30:02.000Z"
+      },
+      {
         "time": "11:00",
         "title": "Ｌｉｂｅｒａｗａｒｅ[218A]：Liberawareと国産AIロボットの開発を手がけるｕｇｏが業務提携に関する覚書を締結 2026年7月22日(適時開示) ：日経会社情報DIGITAL",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBueFFRak5ndFVmdlF6NHJpS1RjUVdGZVlvRW04YVcwRzZ4WDlhaTlCaXVwMG9lZzR1UFZuUnpDeFZkZlVzcTlDSExVelE3d0VmRTdxa2VrN3hELW1UaVZPNnpkdXU2MlNVWGc?oc=5",
-        "publishedAt": "2026-07-22T02:00:00.000Z"
-      },
-      {
-        "time": "11:00",
-        "title": "自動化時代にあえて手動！職人技15社がMOBIOに集結「汎用旋盤技術展」開催",
-        "source": "イザ！",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QQ09CMDR5UXZwNUFVdDdFVVp3dkZjdEZTNFRrckpWQjExSEhrSHJPVXdSUTVfRHkyS3p0S1paY0FzR05sTTY5d3M4YVZaeTh1bE9WU0NZdzRUTl9HSkN5a2xRN0ZPQm4tSWRmTGVMMDR5ZjJlU01WZU5R?oc=5",
         "publishedAt": "2026-07-22T02:00:00.000Z"
       }
     ],
