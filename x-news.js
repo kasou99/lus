@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T12:07:12.611Z",
+  "updatedAt": "2026-07-23T13:03:16.651Z",
   "items": [
-    {
-      "time": "20:43",
-      "title": "皇室典範改正 麻生氏「ようやく」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589065?source=rss",
-      "publishedAt": "2026-07-23T11:43:24.000Z",
-      "xQuery": "皇室典範改正 麻生氏「ようやく」"
-    },
     {
       "time": "19:26",
       "title": "EU グーグルに制裁金1660億円",
@@ -18,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "EU グーグルに制裁金1660億円"
     },
     {
-      "time": "19:08",
-      "title": "甲子園大学 27年度以降の募集停止",
+      "time": "20:43",
+      "title": "皇室典範改正 麻生氏「ようやく」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589054?source=rss",
-      "publishedAt": "2026-07-23T10:08:04.000Z",
-      "xQuery": "甲子園大学 27年度以降の募集停止"
+      "url": "https://news.yahoo.co.jp/pickup/6589065?source=rss",
+      "publishedAt": "2026-07-23T11:43:24.000Z",
+      "xQuery": "皇室典範改正 麻生氏「ようやく」"
     },
     {
       "time": "19:52",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589058?source=rss",
       "publishedAt": "2026-07-23T10:52:24.000Z",
       "xQuery": "都こんぶ 外国産使用39万袋を回収"
+    },
+    {
+      "time": "21:38",
+      "title": "山岳部の女子高校生 奥穂高で滑落",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589072?source=rss",
+      "publishedAt": "2026-07-23T12:38:37.000Z",
+      "xQuery": "山岳部の女子高校生 奥穂高で滑落"
     },
     {
       "time": "20:21",
