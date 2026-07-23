@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T16:06:07.972Z",
+  "updatedAt": "2026-07-23T17:01:39.849Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-07-22T20:00:00.000Z"
       },
       {
-        "time": "07:30",
-        "title": "超低温環境も対応、AIと専門家がタッグ組む回転機器予知保全ソリューション：メンテナンス・レジリエンス2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vMUVucDlZT2VWZ1FPYzNvTFpXS0UzbnN3RkFDYVVVdTIzOFc5MUNsbHRaTzZ1dUQ0bEhhazBhamJ4ZlFZV0ZtbDl6Qk5tZ2hJREVVZHNBa0F2bmNjZ1VaQ1N4R2trbWFOVDNPdUd1QQ?oc=5",
-        "publishedAt": "2026-07-22T22:30:00.000Z"
-      },
-      {
         "time": "19:28",
         "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
         "source": "山陽新聞",
@@ -57,6 +50,13 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IQzJFY1E0T1h1ME10a1J4cE1TYWJlcEdxTXBQUGtjenB2ZjZhdDdwQ2JtS2RHSkV2UTZoV25wRkhMUGh0RFlqWQ?oc=5",
         "publishedAt": "2026-07-23T03:41:31.000Z"
+      },
+      {
+        "time": "07:30",
+        "title": "超低温環境も対応、AIと専門家がタッグ組む回転機器予知保全ソリューション：メンテナンス・レジリエンス2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vMUVucDlZT2VWZ1FPYzNvTFpXS0UzbnN3RkFDYVVVdTIzOFc5MUNsbHRaTzZ1dUQ0bEhhazBhamJ4ZlFZV0ZtbDl6Qk5tZ2hJREVVZHNBa0F2bmNjZ1VaQ1N4R2trbWFOVDNPdUd1QQ?oc=5",
+        "publishedAt": "2026-07-22T22:30:00.000Z"
       }
     ],
     "worldHeadlines": [
