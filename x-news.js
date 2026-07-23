@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T15:17:27.870Z",
+  "updatedAt": "2026-07-23T16:06:08.434Z",
   "items": [
     {
       "time": "23:49",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "愛媛2行 経営統合に向け最終調整"
     },
     {
+      "time": "17:23",
+      "title": "遺体発見 JFE事故の作業員と判明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589036?source=rss",
+      "publishedAt": "2026-07-23T08:23:25.000Z",
+      "xQuery": "遺体発見 JFE事故の作業員と判明"
+    },
+    {
       "time": "21:38",
       "title": "山岳部の女子高校生 奥穂高で滑落",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589078?source=rss",
       "publishedAt": "2026-07-23T14:00:46.000Z",
       "xQuery": "刃物を持った男に警官が発砲 映像"
-    },
-    {
-      "time": "23:12",
-      "title": "セブン従業員が不正転売 法的には",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589081?source=rss",
-      "publishedAt": "2026-07-23T14:12:27.000Z",
-      "xQuery": "セブン従業員が不正転売 法的には"
     }
   ]
 };
