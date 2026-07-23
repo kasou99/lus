@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T03:10:42.769Z",
+  "updatedAt": "2026-07-23T04:39:03.660Z",
   "items": [
     {
-      "time": "10:39",
-      "title": "内閣支持率が下落 与党に危機感",
+      "time": "13:35",
+      "title": "三重で40.4℃ 国内3日連続酷暑日",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588988?source=rss",
-      "publishedAt": "2026-07-23T01:39:21.000Z",
-      "xQuery": "内閣支持率が下落 与党に危機感"
+      "url": "https://news.yahoo.co.jp/pickup/6589014?source=rss",
+      "publishedAt": "2026-07-23T04:35:37.000Z",
+      "xQuery": "三重で40.4℃ 国内3日連続酷暑日"
     },
     {
-      "time": "11:04",
-      "title": "仏で猛暑の16日間 死者5764人増",
+      "time": "08:56",
+      "title": "富士山 高齢登山者の救助が相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588990?source=rss",
-      "publishedAt": "2026-07-23T02:04:40.000Z",
-      "xQuery": "仏で猛暑の16日間 死者5764人増"
+      "url": "https://news.yahoo.co.jp/pickup/6588978?source=rss",
+      "publishedAt": "2026-07-22T23:56:11.000Z",
+      "xQuery": "富士山 高齢登山者の救助が相次ぐ"
     },
     {
-      "time": "11:44",
-      "title": "園昼食で0歳窒息 市への報告遅れ",
+      "time": "12:33",
+      "title": "東京23区 中古マンション価格下落",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588997?source=rss",
-      "publishedAt": "2026-07-23T02:44:43.000Z",
-      "xQuery": "園昼食で0歳窒息 市への報告遅れ"
+      "url": "https://news.yahoo.co.jp/pickup/6589007?source=rss",
+      "publishedAt": "2026-07-23T03:33:13.000Z",
+      "xQuery": "東京23区 中古マンション価格下落"
     },
     {
-      "time": "07:33",
-      "title": "セブン 従業員らの不正転売横行か",
+      "time": "08:39",
+      "title": "野焼きが燃え広がったか 99歳死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588970?source=rss",
-      "publishedAt": "2026-07-22T22:33:44.000Z",
-      "xQuery": "セブン 従業員らの不正転売横行か"
+      "url": "https://news.yahoo.co.jp/pickup/6588979?source=rss",
+      "publishedAt": "2026-07-22T23:39:42.000Z",
+      "xQuery": "野焼きが燃え広がったか 99歳死亡"
     },
     {
-      "time": "11:39",
-      "title": "警官ら懲戒処分「異性関係」最多",
+      "time": "10:54",
+      "title": "全仏V元テニス選手逮捕 詐欺疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588994?source=rss",
-      "publishedAt": "2026-07-23T02:39:18.000Z",
-      "xQuery": "警官ら懲戒処分「異性関係」最多"
+      "url": "https://news.yahoo.co.jp/pickup/6588991?source=rss",
+      "publishedAt": "2026-07-23T01:54:47.000Z",
+      "xQuery": "全仏V元テニス選手逮捕 詐欺疑い"
     }
   ]
 };

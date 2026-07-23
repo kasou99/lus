@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T03:10:41.787Z",
+  "updatedAt": "2026-07-23T04:39:02.942Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -13,7 +13,7 @@
         "time": "11:30",
         "title": "【台湾情報】2026年上半期の台湾工作機械輸出、完成機は微減も部品需要が11.4%増と牽引＜ワイズ機械業界ジャーナル2",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XalljTWJ2NlVPRW8tYXE5cnBvZFIzdmZKTWx0VXE1eXZvOEgtd1RKYjQwME93Q1pPWURnNXR2UWdtSkR6RGdZaUY4X3RTTjhMeHFmM0oyZHFuQ1BiU19Pb0cwblpvZ0ZRM3YtRXU2eUVKWFFKYlRFYVNBSQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FbVpOZll6cnYtNGZSVjQ2dXpVMVg5QVpqNm82YjVyWGJ6QmJmREtsLUZPQzkwNkd3RlJ5NmRHRDlFLVJWTGNxUEowOTlPbVBWbHdLZUdmYU5VUzQ0anpMcmJOWU9VRVNJbGJIYW1zc3BheTlZWGlJdHNZaw?oc=5",
         "publishedAt": "2026-07-23T02:30:45.000Z"
       },
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-07-22T16:47:56.000Z"
       },
       {
-        "time": "12:30",
-        "title": "【新製品発表】レニショーが工作機械用プローブ 2 製品を発表",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12aWpQSVYxTHpyS0hTUW1HYjB0OTR3aWdXeW5HSk9QNkJjanF5MkI2WmFvZktqdC1ZU1NFT0Exb092RU10WW43ckhycHp6bzJsdkUzblFOT2VBeUVrTjA5eElqZWxmNGE0Vmc?oc=5",
-        "publishedAt": "2026-07-22T03:30:02.000Z"
+        "time": "12:41",
+        "title": "アイキューブデジタル、MESとWESを連携",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IQzJFY1E0T1h1ME10a1J4cE1TYWJlcEdxTXBQUGtjenB2ZjZhdDdwQ2JtS2RHSkV2UTZoV25wRkhMUGh0RFlqWQ?oc=5",
+        "publishedAt": "2026-07-23T03:41:31.000Z"
       },
       {
         "time": "05:00",
@@ -112,6 +112,13 @@
         "publishedAt": "2026-07-22T22:33:44.000Z"
       },
       {
+        "time": "12:33",
+        "title": "東京23区 中古マンション価格下落",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589007?source=rss",
+        "publishedAt": "2026-07-23T03:33:13.000Z"
+      },
+      {
         "time": "20:51",
         "title": "乗務員休憩不足なら運休も JR西",
         "source": "Yahoo!ニュース",
@@ -138,22 +145,15 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588980?source=rss",
         "publishedAt": "2026-07-23T00:21:18.000Z"
-      },
-      {
-        "time": "16:06",
-        "title": "山陽新幹線こだま デザインを変更",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588902?source=rss",
-        "publishedAt": "2026-07-22T07:06:45.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "12:10",
-        "title": "草刈り中に池転落か 2人心肺停止",
+        "time": "13:21",
+        "title": "草刈り中にため池転落 2人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589002?source=rss",
-        "publishedAt": "2026-07-23T03:10:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589012?source=rss",
+        "publishedAt": "2026-07-23T04:21:21.000Z"
       },
       {
         "time": "11:44",
