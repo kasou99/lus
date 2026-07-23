@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T04:39:03.660Z",
+  "updatedAt": "2026-07-23T06:03:38.459Z",
   "items": [
     {
       "time": "13:35",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "三重で40.4℃ 国内3日連続酷暑日"
     },
     {
-      "time": "08:56",
-      "title": "富士山 高齢登山者の救助が相次ぐ",
+      "time": "13:52",
+      "title": "中傷動画巡る秘書陳述書 識者分析",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588978?source=rss",
-      "publishedAt": "2026-07-22T23:56:11.000Z",
-      "xQuery": "富士山 高齢登山者の救助が相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6589016?source=rss",
+      "publishedAt": "2026-07-23T04:52:04.000Z",
+      "xQuery": "中傷動画巡る秘書陳述書 識者分析"
     },
     {
-      "time": "12:33",
-      "title": "東京23区 中古マンション価格下落",
+      "time": "13:21",
+      "title": "草刈り中にため池転落 2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589007?source=rss",
-      "publishedAt": "2026-07-23T03:33:13.000Z",
-      "xQuery": "東京23区 中古マンション価格下落"
+      "url": "https://news.yahoo.co.jp/pickup/6589012?source=rss",
+      "publishedAt": "2026-07-23T04:21:21.000Z",
+      "xQuery": "草刈り中にため池転落 2人死亡"
     },
     {
-      "time": "08:39",
-      "title": "野焼きが燃え広がったか 99歳死亡",
+      "time": "14:26",
+      "title": "川で男子中学生が溺れる 心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588979?source=rss",
-      "publishedAt": "2026-07-22T23:39:42.000Z",
-      "xQuery": "野焼きが燃え広がったか 99歳死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589020?source=rss",
+      "publishedAt": "2026-07-23T05:26:32.000Z",
+      "xQuery": "川で男子中学生が溺れる 心肺停止"
     },
     {
-      "time": "10:54",
-      "title": "全仏V元テニス選手逮捕 詐欺疑い",
+      "time": "13:47",
+      "title": "セブン 従業員らの転売は重大問題",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588991?source=rss",
-      "publishedAt": "2026-07-23T01:54:47.000Z",
-      "xQuery": "全仏V元テニス選手逮捕 詐欺疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6589015?source=rss",
+      "publishedAt": "2026-07-23T04:47:21.000Z",
+      "xQuery": "セブン 従業員らの転売は重大問題"
     }
   ]
 };
