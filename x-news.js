@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T14:18:19.753Z",
+  "updatedAt": "2026-07-23T15:17:27.870Z",
   "items": [
     {
-      "time": "19:26",
-      "title": "EU グーグルに制裁金1660億円",
+      "time": "23:49",
+      "title": "入国警備官に退職自衛官を活用へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589057?source=rss",
-      "publishedAt": "2026-07-23T10:26:52.000Z",
-      "xQuery": "EU グーグルに制裁金1660億円"
+      "url": "https://news.yahoo.co.jp/pickup/6589084?source=rss",
+      "publishedAt": "2026-07-23T14:49:58.000Z",
+      "xQuery": "入国警備官に退職自衛官を活用へ"
     },
     {
-      "time": "20:43",
-      "title": "皇室典範改正 麻生氏「ようやく」",
+      "time": "23:10",
+      "title": "愛媛2行 経営統合に向け最終調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589065?source=rss",
-      "publishedAt": "2026-07-23T11:43:24.000Z",
-      "xQuery": "皇室典範改正 麻生氏「ようやく」"
+      "url": "https://news.yahoo.co.jp/pickup/6589080?source=rss",
+      "publishedAt": "2026-07-23T14:10:00.000Z",
+      "xQuery": "愛媛2行 経営統合に向け最終調整"
     },
     {
       "time": "21:38",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "刃物を持った男に警官が発砲 映像"
     },
     {
-      "time": "20:21",
-      "title": "動物園でペンギン全4羽相次ぎ死ぬ",
+      "time": "23:12",
+      "title": "セブン従業員が不正転売 法的には",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589060?source=rss",
-      "publishedAt": "2026-07-23T11:21:25.000Z",
-      "xQuery": "動物園でペンギン全4羽相次ぎ死ぬ"
+      "url": "https://news.yahoo.co.jp/pickup/6589081?source=rss",
+      "publishedAt": "2026-07-23T14:12:27.000Z",
+      "xQuery": "セブン従業員が不正転売 法的には"
     }
   ]
 };
