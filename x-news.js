@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T20:55:27.274Z",
+  "updatedAt": "2026-07-23T21:28:04.495Z",
   "items": [
     {
-      "time": "23:49",
-      "title": "入国警備官に退職自衛官を活用へ",
+      "time": "06:09",
+      "title": "元日本赤軍 岡本公三容疑者が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589084?source=rss",
-      "publishedAt": "2026-07-23T14:49:58.000Z",
-      "xQuery": "入国警備官に退職自衛官を活用へ"
+      "url": "https://news.yahoo.co.jp/pickup/6589085?source=rss",
+      "publishedAt": "2026-07-23T21:09:15.000Z",
+      "xQuery": "元日本赤軍 岡本公三容疑者が死亡"
     },
     {
       "time": "23:10",
