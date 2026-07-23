@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T09:20:23.555Z",
+  "updatedAt": "2026-07-23T10:19:33.907Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,8 +12,8 @@
       {
         "time": "17:30",
         "title": "中古工作機械の通販サイト「機械販売センター」がオープン、製造業の設備調達コストを削減",
-        "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hblZPUUZMN2dTVkhUenRQcXNBSXc2Q1N4dGQ4ZW1sam9qamNKQy1HcWl2SkVBbC0yZU1HSkdycDJBLTh5LV95VXhlUnNIRTJ1Ym44?oc=5",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01WEphRElUUHBJcXdRZWthVnhqNVFLbWM3Q1FIUVdONUNqMkEzYktXeEVWdVI2bHptUWlnOXdJQUc5M1h1eTBaclNnaTdTNXV5QnZSeTQtaWtldE03XzZCTUdib1RULWxaR2c?oc=5",
         "publishedAt": "2026-07-23T08:30:00.000Z"
       },
       {
@@ -38,17 +38,10 @@
         "publishedAt": "2026-07-22T20:00:00.000Z"
       },
       {
-        "time": "14:30",
-        "title": "菊池製作所[3444]：定款 2026/07/23 2026年7月23日(適時開示) ：日経会社情報DIGITAL",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05cy1oZ3FvZzhyNnFWcXhMWFlYOW5PTE84cnB1ZFZMU3Vra21RenlUNFVDX013RTVfbExBV1hPU0NSd0U5c2VOR3Z0anBpSmRIbmphR0NzT2g0QkZydEtOYWlzWHZORTJhSVE?oc=5",
-        "publishedAt": "2026-07-23T05:30:00.000Z"
-      },
-      {
         "time": "17:03",
         "title": "CNCスピンドル修理と再構築サービス成長シナリオ分析：年平均成長率7.3%を支える要因とは",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LUlJRQlBjUW1ZVTR4eDRDTDdyN2k0MHloX3BSWGZZLW40TUlPeEZ6TEJVcm1FWEI4dVFnNEMyblNoZVBIOHNVYUcwRlpreUNvMVY0ZzFRR0ZsVkVCcDBOWERHUEstTklxNDFIU0ZSbHgxbExES1M4ZXMzZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52UzBKMjUxbDNfcVFlQ3gxM08yY2plU05SdEpGa19JU2hLM2VHYTNVb1Z4anNjZ3lFNS1fSlpKZ0lUdndaUmlZM3JlQWVYcE1NMVAydTF0UDQxMWlwLTlmT0lVRWxuMGZjTUg1SXJxcVRvN002cElkd01GRQ?oc=5",
         "publishedAt": "2026-07-23T08:03:52.000Z"
       },
       {
@@ -57,9 +50,23 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vMUVucDlZT2VWZ1FPYzNvTFpXS0UzbnN3RkFDYVVVdTIzOFc5MUNsbHRaTzZ1dUQ0bEhhazBhamJ4ZlFZV0ZtbDl6Qk5tZ2hJREVVZHNBa0F2bmNjZ1VaQ1N4R2trbWFOVDNPdUd1QQ?oc=5",
         "publishedAt": "2026-07-22T22:30:00.000Z"
+      },
+      {
+        "time": "12:41",
+        "title": "アイキューブデジタル、MESとWESを連携",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IQzJFY1E0T1h1ME10a1J4cE1TYWJlcEdxTXBQUGtjenB2ZjZhdDdwQ2JtS2RHSkV2UTZoV25wRkhMUGh0RFlqWQ?oc=5",
+        "publishedAt": "2026-07-23T03:41:31.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "18:54",
+        "title": "フーシ派 サウジのタンカーを攻撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589055?source=rss",
+        "publishedAt": "2026-07-23T09:54:33.000Z"
+      },
       {
         "time": "23:10",
         "title": "米国務長官 日中関係の悪化に憂慮",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588906?source=rss",
         "publishedAt": "2026-07-22T07:30:27.000Z"
-      },
-      {
-        "time": "11:04",
-        "title": "仏で猛暑の16日間 死者5764人増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588990?source=rss",
-        "publishedAt": "2026-07-23T02:04:40.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-07-23T06:57:13.000Z"
       },
       {
+        "time": "19:10",
+        "title": "ため池2人死亡 熱中症の可能性も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589056?source=rss",
+        "publishedAt": "2026-07-23T10:10:19.000Z"
+      },
+      {
         "time": "15:21",
         "title": "江別暴行死 生きて帰ると被害者",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589037?source=rss",
         "publishedAt": "2026-07-23T08:29:40.000Z"
-      },
-      {
-        "time": "15:13",
-        "title": "違う歯を抜かれ入れ歯に 患者提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589021?source=rss",
-        "publishedAt": "2026-07-23T06:13:32.000Z"
       }
     ],
     "subsidyHeadlines": [

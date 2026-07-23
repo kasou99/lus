@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T09:20:24.307Z",
+  "updatedAt": "2026-07-23T10:19:34.742Z",
   "items": [
     {
-      "time": "16:55",
-      "title": "日中外相 首相答弁以来初めて接触",
+      "time": "17:46",
+      "title": "陸自情報部隊が「愛国心」調査か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589032?source=rss",
-      "publishedAt": "2026-07-23T07:55:23.000Z",
-      "xQuery": "日中外相 首相答弁以来初めて接触"
+      "url": "https://news.yahoo.co.jp/pickup/6589038?source=rss",
+      "publishedAt": "2026-07-23T08:46:28.000Z",
+      "xQuery": "陸自情報部隊が「愛国心」調査か"
     },
     {
-      "time": "16:45",
-      "title": "ストーカー加害者にGPS 政府検討",
+      "time": "18:54",
+      "title": "フーシ派 サウジのタンカーを攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589028?source=rss",
-      "publishedAt": "2026-07-23T07:45:00.000Z",
-      "xQuery": "ストーカー加害者にGPS 政府検討"
+      "url": "https://news.yahoo.co.jp/pickup/6589055?source=rss",
+      "publishedAt": "2026-07-23T09:54:33.000Z",
+      "xQuery": "フーシ派 サウジのタンカーを攻撃"
+    },
+    {
+      "time": "18:33",
+      "title": "寝てください 首相に自民幹部進言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589051?source=rss",
+      "publishedAt": "2026-07-23T09:33:22.000Z",
+      "xQuery": "寝てください 首相に自民幹部進言"
     },
     {
       "time": "17:23",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "遺体発見 JFE事故の作業員と判明"
     },
     {
-      "time": "17:29",
-      "title": "運転中に猟銃の弾当たったか けが",
+      "time": "19:10",
+      "title": "ため池2人死亡 熱中症の可能性も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589037?source=rss",
-      "publishedAt": "2026-07-23T08:29:40.000Z",
-      "xQuery": "運転中に猟銃の弾当たったか けが"
-    },
-    {
-      "time": "18:03",
-      "title": "大音量で不眠症にさせた疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589045?source=rss",
-      "publishedAt": "2026-07-23T09:03:37.000Z",
-      "xQuery": "大音量で不眠症にさせた疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6589056?source=rss",
+      "publishedAt": "2026-07-23T10:10:19.000Z",
+      "xQuery": "ため池2人死亡 熱中症の可能性も"
     }
   ]
 };
