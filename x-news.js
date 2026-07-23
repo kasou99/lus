@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T21:55:13.762Z",
+  "updatedAt": "2026-07-23T22:25:58.637Z",
   "items": [
+    {
+      "time": "07:21",
+      "title": "米政権が新関税発表 日本は12.5%",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589090?source=rss",
+      "publishedAt": "2026-07-23T22:21:40.000Z",
+      "xQuery": "米政権が新関税発表 日本は12.5%"
+    },
     {
       "time": "06:09",
       "title": "元日本赤軍 岡本公三容疑者が死亡",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589072?source=rss",
       "publishedAt": "2026-07-23T12:38:37.000Z",
       "xQuery": "山岳部の女子高校生 奥穂高で滑落"
-    },
-    {
-      "time": "23:00",
-      "title": "刃物を持った男に警官が発砲 映像",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589078?source=rss",
-      "publishedAt": "2026-07-23T14:00:46.000Z",
-      "xQuery": "刃物を持った男に警官が発砲 映像"
     }
   ]
 };
