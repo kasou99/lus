@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T01:40:38.595Z",
+  "updatedAt": "2026-07-23T03:10:42.769Z",
   "items": [
     {
-      "time": "09:34",
-      "title": "厳暑続く 東海中心に40℃超の予想",
+      "time": "10:39",
+      "title": "内閣支持率が下落 与党に危機感",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588982?source=rss",
-      "publishedAt": "2026-07-23T00:34:10.000Z",
-      "xQuery": "厳暑続く 東海中心に40℃超の予想"
+      "url": "https://news.yahoo.co.jp/pickup/6588988?source=rss",
+      "publishedAt": "2026-07-23T01:39:21.000Z",
+      "xQuery": "内閣支持率が下落 与党に危機感"
     },
     {
-      "time": "09:47",
-      "title": "Google親会社4-6月期 純利益4倍",
+      "time": "11:04",
+      "title": "仏で猛暑の16日間 死者5764人増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588983?source=rss",
-      "publishedAt": "2026-07-23T00:47:10.000Z",
-      "xQuery": "Google親会社4-6月期 純利益4倍"
+      "url": "https://news.yahoo.co.jp/pickup/6588990?source=rss",
+      "publishedAt": "2026-07-23T02:04:40.000Z",
+      "xQuery": "仏で猛暑の16日間 死者5764人増"
     },
     {
-      "time": "10:14",
-      "title": "日本で露スパイ活動 報道直後出国",
+      "time": "11:44",
+      "title": "園昼食で0歳窒息 市への報告遅れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588985?source=rss",
-      "publishedAt": "2026-07-23T01:14:19.000Z",
-      "xQuery": "日本で露スパイ活動 報道直後出国"
+      "url": "https://news.yahoo.co.jp/pickup/6588997?source=rss",
+      "publishedAt": "2026-07-23T02:44:43.000Z",
+      "xQuery": "園昼食で0歳窒息 市への報告遅れ"
     },
     {
       "time": "07:33",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "セブン 従業員らの不正転売横行か"
     },
     {
-      "time": "08:28",
-      "title": "対向車多いのに右折信号なし 背景",
+      "time": "11:39",
+      "title": "警官ら懲戒処分「異性関係」最多",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588975?source=rss",
-      "publishedAt": "2026-07-22T23:28:02.000Z",
-      "xQuery": "対向車多いのに右折信号なし 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6588994?source=rss",
+      "publishedAt": "2026-07-23T02:39:18.000Z",
+      "xQuery": "警官ら懲戒処分「異性関係」最多"
     }
   ]
 };

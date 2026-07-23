@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-07-23T01:40:37.870Z",
+  "updatedAt": "2026-07-23T03:10:41.787Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "09:54",
-        "title": "【台湾情報】2026年上半期の台湾工作機械輸出、完成機は微減も部品需要が11.4%増と牽引＜ワイズ機械業界ジャーナル2026年7月第４週号発行＞",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iNmR0QTVFYk5KVDVCallwSUhKMnVOMi1OS3dvd1NxTmgxbUJxZTlwRW1ZQzFQZTJSbDc3TkRaWWlKNHdTZS1tc2hZQUNfYU1HT1oyZ2V5TmNxM19rd25GcEt3ejZUS2xCdFE?oc=5",
-        "publishedAt": "2026-07-23T00:54:18.000Z"
+        "time": "05:00",
+        "title": "機械技術夏号／海外製工作機械・ツーリング機器の技術動向と活用事例",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00Yjh4NzVZSzZvYjVfZ2k1bGtKamtlYXBNRzhoNHVrV2Jucmw5ajI2bmM0Y29wb3Y2WThRSThDbEJ4VVNYaE5kZ0pvczE4M0k1SFdPOUFrNVJSdnc?oc=5",
+        "publishedAt": "2026-07-22T20:00:00.000Z"
+      },
+      {
+        "time": "11:30",
+        "title": "【台湾情報】2026年上半期の台湾工作機械輸出、完成機は微減も部品需要が11.4%増と牽引＜ワイズ機械業界ジャーナル2",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XalljTWJ2NlVPRW8tYXE5cnBvZFIzdmZKTWx0VXE1eXZvOEgtd1RKYjQwME93Q1pPWURnNXR2UWdtSkR6RGdZaUY4X3RTTjhMeHFmM0oyZHFuQ1BiU19Pb0cwblpvZ0ZRM3YtRXU2eUVKWFFKYlRFYVNBSQ?oc=5",
+        "publishedAt": "2026-07-23T02:30:45.000Z"
       },
       {
         "time": "07:30",
@@ -17,32 +24,11 @@
         "publishedAt": "2026-07-22T22:30:00.000Z"
       },
       {
-        "time": "05:03",
-        "title": "村田機械、レーザー加工機拡充 生産能力2倍",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rLXJ4WVpZS1NRZEUyVXBuQUxQTlVyQzBYVTJmZ0lDWFFacFYzUUVJWEMwbVJFQ0dnTDFGcFltT3lBOFpCSWs4bkN0Zlp2ZmN5OExQZTR1UmRSVlE?oc=5",
-        "publishedAt": "2026-07-22T20:03:15.000Z"
-      },
-      {
         "time": "01:47",
         "title": "日本のサーボモーター駆動市場予測 2026-2033：地域別セグメンテーションと競争環境",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9QQlVUM2RYQlJkTzVvTnlCMW41dm9JOE1oWW91WF9PZ2pGUS1vOWp6THBsbFpLMmZhdzNEeGIxMGJQeEd3RlpfQ2pB?oc=5",
-        "publishedAt": "2026-07-22T16:47:55.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ブラザー工業 ＡＩや半導体市場開拓へ ５軸加工機の提案強化",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUl1dTJ6MlE0eERyMXJKM1h6d0pnZTB1c2l1UlRfSHJtSzdVdFhHSzMzYUdlRml1MTdkOExCVG95bmxlNnlIRkxMWjlJc00wYlZJRDBXcHF1a21JR0kxbEx5dER0d0V2SC1fVURTSlN2cWl5NmlyVFlhS2FkWkRIeUJ2LTZyTWtZMC1zZ3B4cHdFT1XSAZMBQVVfeXFMT1lJdXUyejJRNHhEcjFySjNYendKZ2UwdXNpdVJUX0hybUs3VXRYR0szM2FHZUZpdTE3ZDhMQlRveW5sZTZ5SEZMTFo5SXNNMGJWSUQwV3BxdWttSUdJMWxMeXREdHdFdkgtX1VEU0pTdnFpeTZpclRZYUthZFpESHlCdi02ck1rWTAtc2dweHB3RU9V?oc=5",
-        "publishedAt": "2026-07-22T20:00:00.000Z"
-      },
-      {
-        "time": "12:00",
-        "title": "中村留精密工業が「bellSalesAI」を導入 商談記録の入力時間を1案件あたり約80％削減し、 管理職フィードバックを具体化",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yX0NrZExBOG5tNjhURVpaa1FGU01URDRQekk0aVppMlZwRWF6Y3YydUMzckdIWFZ0VkpLX1JBbGFwYWhiaDYwOUVmZl9wQQ?oc=5",
-        "publishedAt": "2026-07-22T03:00:00.000Z"
+        "publishedAt": "2026-07-22T16:47:56.000Z"
       },
       {
         "time": "12:30",
@@ -52,11 +38,25 @@
         "publishedAt": "2026-07-22T03:30:02.000Z"
       },
       {
-        "time": "11:00",
-        "title": "Ｌｉｂｅｒａｗａｒｅ[218A]：Liberawareと国産AIロボットの開発を手がけるｕｇｏが業務提携に関する覚書を締結 2026年7月22日(適時開示) ：日経会社情報DIGITAL",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBueFFRak5ndFVmdlF6NHJpS1RjUVdGZVlvRW04YVcwRzZ4WDlhaTlCaXVwMG9lZzR1UFZuUnpDeFZkZlVzcTlDSExVelE3d0VmRTdxa2VrN3hELW1UaVZPNnpkdXU2MlNVWGc?oc=5",
-        "publishedAt": "2026-07-22T02:00:00.000Z"
+        "time": "05:00",
+        "title": "ブラザー工業 ＡＩや半導体市場開拓へ ５軸加工機の提案強化",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUl1dTJ6MlE0eERyMXJKM1h6d0pnZTB1c2l1UlRfSHJtSzdVdFhHSzMzYUdlRml1MTdkOExCVG95bmxlNnlIRkxMWjlJc00wYlZJRDBXcHF1a21JR0kxbEx5dER0d0V2SC1fVURTSlN2cWl5NmlyVFlhS2FkWkRIeUJ2LTZyTWtZMC1zZ3B4cHdFT1XSAZMBQVVfeXFMT1lJdXUyejJRNHhEcjFySjNYendKZ2UwdXNpdVJUX0hybUs3VXRYR0szM2FHZUZpdTE3ZDhMQlRveW5sZTZ5SEZMTFo5SXNNMGJWSUQwV3BxdWttSUdJMWxMeXREdHdFdkgtX1VEU0pTdnFpeTZpclRZYUthZFpESHlCdi02ck1rWTAtc2dweHB3RU9V?oc=5",
+        "publishedAt": "2026-07-22T20:00:00.000Z"
+      },
+      {
+        "time": "17:11",
+        "title": "CNC機械市場：機械タイプ、軸、加工材料、最終用途産業、用途、販売チャネル別、世界予測、2026年～2032年",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VNWwycFNQbWZ3eUhUVzJxaGRqSHJ1Wk9kQkdrV3NNU3lPN2lMZ0pFcUJ2dDlWa3FJN19SVUNNd0ZDVGEta0NKTnVFam5KMWM?oc=5",
+        "publishedAt": "2026-07-22T08:11:00.000Z"
+      },
+      {
+        "time": "11:56",
+        "title": "グローバルガントリーロボット市場動向と今後の展望",
+        "source": "Spherical Insights",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GNnZGTHdKNnFxbHNVS2xUNTBnYUpSdGk3X1NYQ29MNElDdF9RSU05eWNQajN5UGI5NnNRazQwT2tMX2lobTRaNU9XQnVGNmhraGRRQXBaSzlRaHJFbXpEY0F5NDBsbjBxSldRdncwS3J5QQ?oc=5",
+        "publishedAt": "2026-07-23T02:56:17.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,13 +82,6 @@
         "publishedAt": "2026-07-22T14:11:36.000Z"
       },
       {
-        "time": "11:59",
-        "title": "ウ軍総司令官を解任 政権の内幕は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588873?source=rss",
-        "publishedAt": "2026-07-22T02:59:39.000Z"
-      },
-      {
         "time": "21:24",
         "title": "ソウル市長に有罪 刑確定なら失職",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588906?source=rss",
         "publishedAt": "2026-07-22T07:30:27.000Z"
+      },
+      {
+        "time": "11:04",
+        "title": "仏で猛暑の16日間 死者5764人増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588990?source=rss",
+        "publishedAt": "2026-07-23T02:04:40.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "12:10",
+        "title": "草刈り中に池転落か 2人心肺停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589002?source=rss",
+        "publishedAt": "2026-07-23T03:10:12.000Z"
+      },
+      {
+        "time": "11:44",
+        "title": "園昼食で0歳窒息 市への報告遅れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6588997?source=rss",
+        "publishedAt": "2026-07-23T02:44:43.000Z"
+      },
+      {
         "time": "08:50",
         "title": "独身偽装被害 女性は何度も確認",
         "source": "Yahoo!ニュース",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-07-22T23:28:02.000Z"
       },
       {
-        "time": "20:04",
-        "title": "学童保育で性虐待 説明会に怒りも",
+        "time": "08:39",
+        "title": "野焼きが燃え広がったか 99歳死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588938?source=rss",
-        "publishedAt": "2026-07-22T11:04:14.000Z"
-      },
-      {
-        "time": "17:12",
-        "title": "不同意わいせつ ANA機長側が控訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588912?source=rss",
-        "publishedAt": "2026-07-22T08:12:36.000Z"
-      },
-      {
-        "time": "19:05",
-        "title": "マット死 賠償巡る元少年の言い分",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588934?source=rss",
-        "publishedAt": "2026-07-22T10:05:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6588979?source=rss",
+        "publishedAt": "2026-07-22T23:39:42.000Z"
       }
     ],
     "subsidyHeadlines": [
