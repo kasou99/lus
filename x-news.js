@@ -1,37 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T11:17:00.019Z",
+  "updatedAt": "2026-07-23T12:07:12.611Z",
   "items": [
     {
-      "time": "17:46",
-      "title": "陸自情報部隊が「愛国心」調査か",
+      "time": "20:43",
+      "title": "皇室典範改正 麻生氏「ようやく」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589038?source=rss",
-      "publishedAt": "2026-07-23T08:46:28.000Z",
-      "xQuery": "陸自情報部隊が「愛国心」調査か"
+      "url": "https://news.yahoo.co.jp/pickup/6589065?source=rss",
+      "publishedAt": "2026-07-23T11:43:24.000Z",
+      "xQuery": "皇室典範改正 麻生氏「ようやく」"
     },
     {
-      "time": "18:54",
-      "title": "フーシ派 サウジのタンカーを攻撃",
+      "time": "19:26",
+      "title": "EU グーグルに制裁金1660億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589055?source=rss",
-      "publishedAt": "2026-07-23T09:54:33.000Z",
-      "xQuery": "フーシ派 サウジのタンカーを攻撃"
-    },
-    {
-      "time": "17:23",
-      "title": "遺体発見 JFE事故の作業員と判明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589036?source=rss",
-      "publishedAt": "2026-07-23T08:23:25.000Z",
-      "xQuery": "遺体発見 JFE事故の作業員と判明"
-    },
-    {
-      "time": "18:03",
-      "title": "大音量で不眠症にさせた疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589045?source=rss",
-      "publishedAt": "2026-07-23T09:03:37.000Z",
-      "xQuery": "大音量で不眠症にさせた疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6589057?source=rss",
+      "publishedAt": "2026-07-23T10:26:52.000Z",
+      "xQuery": "EU グーグルに制裁金1660億円"
     },
     {
       "time": "19:08",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589054?source=rss",
       "publishedAt": "2026-07-23T10:08:04.000Z",
       "xQuery": "甲子園大学 27年度以降の募集停止"
+    },
+    {
+      "time": "19:52",
+      "title": "都こんぶ 外国産使用39万袋を回収",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589058?source=rss",
+      "publishedAt": "2026-07-23T10:52:24.000Z",
+      "xQuery": "都こんぶ 外国産使用39万袋を回収"
+    },
+    {
+      "time": "20:21",
+      "title": "動物園でペンギン全4羽相次ぎ死ぬ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589060?source=rss",
+      "publishedAt": "2026-07-23T11:21:25.000Z",
+      "xQuery": "動物園でペンギン全4羽相次ぎ死ぬ"
     }
   ]
 };
