@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T10:19:34.742Z",
+  "updatedAt": "2026-07-23T11:17:00.019Z",
   "items": [
     {
       "time": "17:46",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "フーシ派 サウジのタンカーを攻撃"
     },
     {
-      "time": "18:33",
-      "title": "寝てください 首相に自民幹部進言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589051?source=rss",
-      "publishedAt": "2026-07-23T09:33:22.000Z",
-      "xQuery": "寝てください 首相に自民幹部進言"
-    },
-    {
       "time": "17:23",
       "title": "遺体発見 JFE事故の作業員と判明",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "遺体発見 JFE事故の作業員と判明"
     },
     {
-      "time": "19:10",
-      "title": "ため池2人死亡 熱中症の可能性も",
+      "time": "18:03",
+      "title": "大音量で不眠症にさせた疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589056?source=rss",
-      "publishedAt": "2026-07-23T10:10:19.000Z",
-      "xQuery": "ため池2人死亡 熱中症の可能性も"
+      "url": "https://news.yahoo.co.jp/pickup/6589045?source=rss",
+      "publishedAt": "2026-07-23T09:03:37.000Z",
+      "xQuery": "大音量で不眠症にさせた疑い 逮捕"
+    },
+    {
+      "time": "19:08",
+      "title": "甲子園大学 27年度以降の募集停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589054?source=rss",
+      "publishedAt": "2026-07-23T10:08:04.000Z",
+      "xQuery": "甲子園大学 27年度以降の募集停止"
     }
   ]
 };
