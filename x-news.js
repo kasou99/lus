@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T06:03:38.459Z",
+  "updatedAt": "2026-07-23T07:23:42.749Z",
   "items": [
     {
-      "time": "13:35",
-      "title": "三重で40.4℃ 国内3日連続酷暑日",
+      "time": "15:57",
+      "title": "浜松で41.1℃観測 今年の全国最高",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589014?source=rss",
-      "publishedAt": "2026-07-23T04:35:37.000Z",
-      "xQuery": "三重で40.4℃ 国内3日連続酷暑日"
+      "url": "https://news.yahoo.co.jp/pickup/6589024?source=rss",
+      "publishedAt": "2026-07-23T06:57:13.000Z",
+      "xQuery": "浜松で41.1℃観測 今年の全国最高"
     },
     {
       "time": "13:52",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "中傷動画巡る秘書陳述書 識者分析"
     },
     {
+      "time": "16:12",
+      "title": "セブンとPayPay 顧客IDの統合検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589025?source=rss",
+      "publishedAt": "2026-07-23T07:12:17.000Z",
+      "xQuery": "セブンとPayPay 顧客IDの統合検討"
+    },
+    {
+      "time": "15:21",
+      "title": "江別暴行死 生きて帰ると被害者",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589022?source=rss",
+      "publishedAt": "2026-07-23T06:21:50.000Z",
+      "xQuery": "江別暴行死 生きて帰ると被害者"
+    },
+    {
       "time": "13:21",
       "title": "草刈り中にため池転落 2人死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6589012?source=rss",
       "publishedAt": "2026-07-23T04:21:21.000Z",
       "xQuery": "草刈り中にため池転落 2人死亡"
-    },
-    {
-      "time": "14:26",
-      "title": "川で男子中学生が溺れる 心肺停止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589020?source=rss",
-      "publishedAt": "2026-07-23T05:26:32.000Z",
-      "xQuery": "川で男子中学生が溺れる 心肺停止"
-    },
-    {
-      "time": "13:47",
-      "title": "セブン 従業員らの転売は重大問題",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589015?source=rss",
-      "publishedAt": "2026-07-23T04:47:21.000Z",
-      "xQuery": "セブン 従業員らの転売は重大問題"
     }
   ]
 };

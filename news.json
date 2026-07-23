@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-23T06:03:37.690Z",
+  "updatedAt": "2026-07-23T07:23:42.130Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:54",
+        "title": "【台湾情報】2026年上半期の台湾工作機械輸出、完成機は微減も部品需要が11.4%増と牽引＜ワイズ機械業界ジャーナル2026年7月第４週号発行＞ | 威志企管顧問股ｲ分有限公司（ワイズコンサルティンググループ）のプレスリリース",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iNmR0QTVFYk5KVDVCallwSUhKMnVOMi1OS3dvd1NxTmgxbUJxZTlwRW1ZQzFQZTJSbDc3TkRaWWlKNHdTZS1tc2hZQUNfYU1HT1oyZ2V5TmNxM19rd25GcEt3ejZUS2xCdFE?oc=5",
+        "publishedAt": "2026-07-23T00:54:18.000Z"
+      },
       {
         "time": "05:00",
         "title": "機械技術夏号／海外製工作機械・ツーリング機器の技術動向と活用事例",
@@ -10,11 +17,11 @@
         "publishedAt": "2026-07-22T20:00:00.000Z"
       },
       {
-        "time": "11:30",
-        "title": "【台湾情報】2026年上半期の台湾工作機械輸出、完成機は微減も部品需要が11.4%増と牽引＜ワイズ機械業界ジャーナル2",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yM0RVcmpFWHhDT2NTYXlDaGJQM2FoZnNRTzRva185Wm5vMDZMZHFBZnlOazh6OHVwWGRydlU1WVdGVkhFaUU5Z3VvSjZWTmo2V3pLUw?oc=5",
-        "publishedAt": "2026-07-23T02:30:45.000Z"
+        "time": "15:00",
+        "title": "世界CNCスピンドル修理と再構築サービス市場調査2026：2032年4670百万米ドル規模を展望",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LNUk0akp5LTFEVmtScXVtRjgycTlJaS0yMU9hMF9GVXk3VW9oQ3FEQUdxcjBkVG1NbmhVNkxwVktZMFRlOFc1OGpiVTI0clU?oc=5",
+        "publishedAt": "2026-07-23T06:00:00.000Z"
       },
       {
         "time": "12:41",
@@ -29,13 +36,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vMUVucDlZT2VWZ1FPYzNvTFpXS0UzbnN3RkFDYVVVdTIzOFc5MUNsbHRaTzZ1dUQ0bEhhazBhamJ4ZlFZV0ZtbDl6Qk5tZ2hJREVVZHNBa0F2bmNjZ1VaQ1N4R2trbWFOVDNPdUd1QQ?oc=5",
         "publishedAt": "2026-07-22T22:30:00.000Z"
-      },
-      {
-        "time": "14:30",
-        "title": "世界磁気エンコーダ市場、2032年に約19.89億ドルへ – 年平均成長率（CAGR）6.9％で成長（2026～2032年）",
-        "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MNWVUWTNRRUNad002VktGSUZVZTJ6eWFFb1RDa0x3a2xJMG8zNHZJZV96bjNPOE53YjNjWGp5MWpER0ZyTnJlNGpvOTlkbGZlM1Zj?oc=5",
-        "publishedAt": "2026-07-23T05:30:00.000Z"
       },
       {
         "time": "14:30",
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "15:57",
+        "title": "浜松で41.1℃観測 今年の全国最高",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589024?source=rss",
+        "publishedAt": "2026-07-23T06:57:13.000Z"
+      },
+      {
+        "time": "15:21",
+        "title": "江別暴行死 生きて帰ると被害者",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589022?source=rss",
+        "publishedAt": "2026-07-23T06:21:50.000Z"
+      },
+      {
         "time": "13:21",
         "title": "草刈り中にため池転落 2人死亡",
         "source": "Yahoo!ニュース",
@@ -156,11 +170,11 @@
         "publishedAt": "2026-07-23T04:21:21.000Z"
       },
       {
-        "time": "14:26",
-        "title": "川で男子中学生が溺れる 心肺停止",
+        "time": "16:16",
+        "title": "川で男子中学生が溺れ死亡 高知",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589020?source=rss",
-        "publishedAt": "2026-07-23T05:26:32.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589026?source=rss",
+        "publishedAt": "2026-07-23T07:16:14.000Z"
       },
       {
         "time": "11:44",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588977?source=rss",
         "publishedAt": "2026-07-22T23:50:50.000Z"
-      },
-      {
-        "time": "22:03",
-        "title": "刃物持つ男 警察官の発砲受け負傷",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588951?source=rss",
-        "publishedAt": "2026-07-22T13:03:52.000Z"
-      },
-      {
-        "time": "08:39",
-        "title": "野焼きが燃え広がったか 99歳死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588979?source=rss",
-        "publishedAt": "2026-07-22T23:39:42.000Z"
       }
     ],
     "subsidyHeadlines": [
