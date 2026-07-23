@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T08:20:11.266Z",
+  "updatedAt": "2026-07-23T09:20:24.307Z",
   "items": [
     {
       "time": "16:55",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ストーカー加害者にGPS 政府検討"
     },
     {
-      "time": "15:21",
-      "title": "江別暴行死 生きて帰ると被害者",
+      "time": "17:23",
+      "title": "遺体発見 JFE事故の作業員と判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589022?source=rss",
-      "publishedAt": "2026-07-23T06:21:50.000Z",
-      "xQuery": "江別暴行死 生きて帰ると被害者"
+      "url": "https://news.yahoo.co.jp/pickup/6589036?source=rss",
+      "publishedAt": "2026-07-23T08:23:25.000Z",
+      "xQuery": "遺体発見 JFE事故の作業員と判明"
     },
     {
-      "time": "16:16",
-      "title": "川で男子中学生が溺れ死亡 高知",
+      "time": "17:29",
+      "title": "運転中に猟銃の弾当たったか けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589026?source=rss",
-      "publishedAt": "2026-07-23T07:16:14.000Z",
-      "xQuery": "川で男子中学生が溺れ死亡 高知"
+      "url": "https://news.yahoo.co.jp/pickup/6589037?source=rss",
+      "publishedAt": "2026-07-23T08:29:40.000Z",
+      "xQuery": "運転中に猟銃の弾当たったか けが"
     },
     {
-      "time": "16:31",
-      "title": "詐欺疑い全仏V元テニス選手 否認",
+      "time": "18:03",
+      "title": "大音量で不眠症にさせた疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589027?source=rss",
-      "publishedAt": "2026-07-23T07:31:20.000Z",
-      "xQuery": "詐欺疑い全仏V元テニス選手 否認"
+      "url": "https://news.yahoo.co.jp/pickup/6589045?source=rss",
+      "publishedAt": "2026-07-23T09:03:37.000Z",
+      "xQuery": "大音量で不眠症にさせた疑い 逮捕"
     }
   ]
 };
