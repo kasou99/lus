@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T22:25:57.828Z",
+  "updatedAt": "2026-07-23T22:51:00.809Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-07-23T08:08:56.000Z"
       },
       {
-        "time": "19:28",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-07-23T10:28:34.000Z"
+        "time": "10:15",
+        "title": "中村留精密工業がSalesforce入力エージェント「bellSalesAI」を導入し営業DXを推進",
+        "source": "South65",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQRVpSaXFaRVZSdjB3Q3dKQ2NTcEl4RHNIMXBvd0FaejFrTVF2QUFtd240TzhEVkFRUk1PTGdFUG90UUJ0OHZsQXF1MjBBMjlTR3pNX1lnMHE3Vnl4ZU9zcV9qQjNBY3drUnVyU18tRngzaUpqUUpsbm94QUpaWG83TjVYejg3UHhiemxXSUR0ZjdoaFVBNFJFeW5EX3h2T3ZBZ3ZDM0hMS09vZlVuaUViT05YbnF0ak5XVnRBOV9qelZsRjVvamtpTFRCV1N2ZGdxNVJxOXpzTlhFbUloeHhqWmJBc1BGMXVRbVBWWXRobWpKRE03ZHdMRl9NVzZHcUZ3LUVTdk9OU2p0LXpRRVNBYWlZOUphaDNqMXpuOWs0Y2x4RUo2OVhzOFpKczNJMzQzeVdNV2Q3Y9IBvAJBVV95cUxObEZ1VHFMN0lWVG9ndTlTZTBsNU9qZjVXMExWR3BNUmh2dVlGV29EaXBoczV4a1JKVEN3SVowMFp6M1gwV0pXeFdKUG5HajV0NzFyekM3aHN0OFAtQlNISHhVcHBKc2lneUZyN0ZNSWNEZW1vNzJub0lyRk9CeDhYTnF5WTVNMHRHZzBPNmd2NUZGdEZ1bXJVNmYzbEY4eXkyaHo3bXR5QXY2bU5BcE1qTEZmOFZ6ZlAwRlRPRVVpb0F0bE54M3NhUDMzeE5OaHlRZGNER2toZ2tfa0dkaDdEaGVCUklzdmVqZjFweDhWMGNlYzk4bjVhc2tpMDV3eUNsOGlSYUI1eHUwT2JiWGZPTy1tZm5MWnpWZmdWemNuYnVWM1Q0RDlfVGgwRTc5TlVRcmJzaWJya1BKclpC?oc=5",
+        "publishedAt": "2026-07-23T01:15:42.000Z"
       },
       {
         "time": "05:04",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-23T20:04:16.000Z"
       },
       {
-        "time": "07:30",
-        "title": "超低温環境も対応、AIと専門家がタッグ組む回転機器予知保全ソリューション：メンテナンス・レジリエンス2026",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vMUVucDlZT2VWZ1FPYzNvTFpXS0UzbnN3RkFDYVVVdTIzOFc5MUNsbHRaTzZ1dUQ0bEhhazBhamJ4ZlFZV0ZtbDl6Qk5tZ2hJREVVZHNBa0F2bmNjZ1VaQ1N4R2trbWFOVDNPdUd1QQ?oc=5",
-        "publishedAt": "2026-07-22T22:30:00.000Z"
-      },
-      {
         "time": "16:30",
         "title": "CNCスピンドル修理と再構築サービス成長シナリオ分析：年平均成長率7.3%を支える要因とは",
         "source": "ドリームニュース",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lQmlHMjlvMVdfQWEzMUYxSnROU0VxT3dxVm1RaENrTGhPLVNGWDRCVnk5UHpvTVJKMHl4NDlpSzhpekpTOTdYR2paNXdlREVrTEQ0?oc=5",
         "publishedAt": "2026-07-23T07:30:00.000Z"
+      },
+      {
+        "time": "12:41",
+        "title": "アイキューブデジタル、MESとWESを連携",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IQzJFY1E0T1h1ME10a1J4cE1TYWJlcEdxTXBQUGtjenB2ZjZhdDdwQ2JtS2RHSkV2UTZoV25wRkhMUGh0RFlqWQ?oc=5",
+        "publishedAt": "2026-07-23T03:41:31.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589090?source=rss",
         "publishedAt": "2026-07-23T22:21:40.000Z"
+      },
+      {
+        "time": "07:38",
+        "title": "米がイランへ大規模攻撃検討 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589091?source=rss",
+        "publishedAt": "2026-07-23T22:38:15.000Z"
       },
       {
         "time": "18:54",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6588976?source=rss",
         "publishedAt": "2026-07-22T23:54:52.000Z"
-      },
-      {
-        "time": "23:11",
-        "title": "ウ軍 露通販大手の倉庫を再び攻撃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6588957?source=rss",
-        "publishedAt": "2026-07-22T14:11:36.000Z"
       },
       {
         "time": "23:18",
