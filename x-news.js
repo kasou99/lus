@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T21:28:04.495Z",
+  "updatedAt": "2026-07-23T21:55:13.762Z",
   "items": [
     {
       "time": "06:09",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "元日本赤軍 岡本公三容疑者が死亡"
     },
     {
-      "time": "23:10",
-      "title": "愛媛2行 経営統合に向け最終調整",
+      "time": "06:45",
+      "title": "8月初旬 関東甲信など40℃以上か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589080?source=rss",
-      "publishedAt": "2026-07-23T14:10:00.000Z",
-      "xQuery": "愛媛2行 経営統合に向け最終調整"
+      "url": "https://news.yahoo.co.jp/pickup/6589088?source=rss",
+      "publishedAt": "2026-07-23T21:45:38.000Z",
+      "xQuery": "8月初旬 関東甲信など40℃以上か"
     },
     {
-      "time": "17:23",
-      "title": "遺体発見 JFE事故の作業員と判明",
+      "time": "23:12",
+      "title": "セブン従業員が不正転売 法的には",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589036?source=rss",
-      "publishedAt": "2026-07-23T08:23:25.000Z",
-      "xQuery": "遺体発見 JFE事故の作業員と判明"
+      "url": "https://news.yahoo.co.jp/pickup/6589081?source=rss",
+      "publishedAt": "2026-07-23T14:12:27.000Z",
+      "xQuery": "セブン従業員が不正転売 法的には"
     },
     {
       "time": "21:38",
