@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T23:24:16.258Z",
+  "updatedAt": "2026-07-23T23:50:42.376Z",
   "items": [
     {
       "time": "07:21",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米政権が新関税発表 日本は12.5%"
     },
     {
-      "time": "06:45",
-      "title": "8月初旬 関東甲信など40℃以上か",
+      "time": "08:03",
+      "title": "関東や東北 激しい雨や雷に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589088?source=rss",
-      "publishedAt": "2026-07-23T21:45:38.000Z",
-      "xQuery": "8月初旬 関東甲信など40℃以上か"
+      "url": "https://news.yahoo.co.jp/pickup/6589097?source=rss",
+      "publishedAt": "2026-07-23T23:03:43.000Z",
+      "xQuery": "関東や東北 激しい雨や雷に注意"
     },
     {
       "time": "06:09",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "元日本赤軍 岡本公三容疑者が死亡"
     },
     {
-      "time": "21:38",
-      "title": "山岳部の女子高校生 奥穂高で滑落",
+      "time": "07:58",
+      "title": "蛇口盗難に農家「死活問題」茨城",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589072?source=rss",
-      "publishedAt": "2026-07-23T12:38:37.000Z",
-      "xQuery": "山岳部の女子高校生 奥穂高で滑落"
+      "url": "https://news.yahoo.co.jp/pickup/6589096?source=rss",
+      "publishedAt": "2026-07-23T22:58:29.000Z",
+      "xQuery": "蛇口盗難に農家「死活問題」茨城"
     },
     {
       "time": "07:55",
