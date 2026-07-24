@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T13:02:45.641Z",
+  "updatedAt": "2026-07-24T14:11:48.406Z",
   "items": [
+    {
+      "time": "22:12",
+      "title": "「副首都構想」関連法が成立",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589183?source=rss",
+      "publishedAt": "2026-07-24T13:12:07.000Z",
+      "xQuery": "「副首都構想」関連法が成立"
+    },
     {
       "time": "20:47",
       "title": "露軍の航空機 北方領土を領空侵犯",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "露軍の航空機 北方領土を領空侵犯"
     },
     {
-      "time": "20:01",
-      "title": "19人殺害から10年 やまゆり園は今",
+      "time": "19:59",
+      "title": "首相の睡眠 海外メディアも注目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589175?source=rss",
-      "publishedAt": "2026-07-24T11:01:17.000Z",
-      "xQuery": "19人殺害から10年 やまゆり園は今"
+      "url": "https://news.yahoo.co.jp/pickup/6589176?source=rss",
+      "publishedAt": "2026-07-24T10:59:54.000Z",
+      "xQuery": "首相の睡眠 海外メディアも注目"
     },
     {
-      "time": "20:39",
-      "title": "ベネズエラ地震1カ月 死者5300人",
+      "time": "22:45",
+      "title": "森林火災で非常事態宣言 スペイン",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589177?source=rss",
-      "publishedAt": "2026-07-24T11:39:35.000Z",
-      "xQuery": "ベネズエラ地震1カ月 死者5300人"
+      "url": "https://news.yahoo.co.jp/pickup/6589186?source=rss",
+      "publishedAt": "2026-07-24T13:45:02.000Z",
+      "xQuery": "森林火災で非常事態宣言 スペイン"
     },
     {
-      "time": "21:07",
-      "title": "LINE ユーザー記録3年半分誤削除",
+      "time": "22:45",
+      "title": "霧島市の遺体は不明男児 父親胸中",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589180?source=rss",
-      "publishedAt": "2026-07-24T12:07:03.000Z",
-      "xQuery": "LINE ユーザー記録3年半分誤削除"
-    },
-    {
-      "time": "17:40",
-      "title": "死覚悟も 滑落→救助までの48時間",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589159?source=rss",
-      "publishedAt": "2026-07-24T08:40:22.000Z",
-      "xQuery": "死覚悟も 滑落→救助までの48時間"
+      "url": "https://news.yahoo.co.jp/pickup/6589185?source=rss",
+      "publishedAt": "2026-07-24T13:45:18.000Z",
+      "xQuery": "霧島市の遺体は不明男児 父親胸中"
     }
   ]
 };
