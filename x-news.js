@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T01:40:29.495Z",
+  "updatedAt": "2026-07-24T03:11:06.495Z",
   "items": [
     {
-      "time": "07:38",
-      "title": "米がイランへ大規模攻撃検討 報道",
+      "time": "11:29",
+      "title": "日経平均 一時2000円超の下げ幅",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589091?source=rss",
-      "publishedAt": "2026-07-23T22:38:15.000Z",
-      "xQuery": "米がイランへ大規模攻撃検討 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6589118?source=rss",
+      "publishedAt": "2026-07-24T02:29:39.000Z",
+      "xQuery": "日経平均 一時2000円超の下げ幅"
     },
     {
-      "time": "08:03",
-      "title": "関東や東北 激しい雨や雷に注意",
+      "time": "11:36",
+      "title": "息子が豪雨で殉職 誇りに思うと親",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589097?source=rss",
-      "publishedAt": "2026-07-23T23:03:43.000Z",
-      "xQuery": "関東や東北 激しい雨や雷に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6589121?source=rss",
+      "publishedAt": "2026-07-24T02:36:37.000Z",
+      "xQuery": "息子が豪雨で殉職 誇りに思うと親"
     },
     {
-      "time": "09:46",
-      "title": "露の最新鋭機「スホイ57」墜落か",
+      "time": "10:05",
+      "title": "陸自情報部隊 私的な情報も収集か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589107?source=rss",
-      "publishedAt": "2026-07-24T00:46:02.000Z",
-      "xQuery": "露の最新鋭機「スホイ57」墜落か"
+      "url": "https://news.yahoo.co.jp/pickup/6589113?source=rss",
+      "publishedAt": "2026-07-24T01:05:20.000Z",
+      "xQuery": "陸自情報部隊 私的な情報も収集か"
     },
     {
-      "time": "10:00",
-      "title": "車突っ込む事故 運転手は熱中症か",
+      "time": "11:26",
+      "title": "福岡県議会の中尾副議長 議員辞職",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589111?source=rss",
-      "publishedAt": "2026-07-24T01:00:16.000Z",
-      "xQuery": "車突っ込む事故 運転手は熱中症か"
+      "url": "https://news.yahoo.co.jp/pickup/6589122?source=rss",
+      "publishedAt": "2026-07-24T02:26:58.000Z",
+      "xQuery": "福岡県議会の中尾副議長 議員辞職"
     },
     {
-      "time": "09:01",
-      "title": "ドクターヘリ運航危惧 整備士不足",
+      "time": "11:59",
+      "title": "Teamsで障害 会議や通話に不具合",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589102?source=rss",
-      "publishedAt": "2026-07-24T00:01:35.000Z",
-      "xQuery": "ドクターヘリ運航危惧 整備士不足"
+      "url": "https://news.yahoo.co.jp/pickup/6589126?source=rss",
+      "publishedAt": "2026-07-24T02:59:54.000Z",
+      "xQuery": "Teamsで障害 会議や通話に不具合"
     }
   ]
 };
