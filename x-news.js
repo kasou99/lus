@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T09:19:17.372Z",
+  "updatedAt": "2026-07-24T10:18:41.552Z",
   "items": [
-    {
-      "time": "16:56",
-      "title": "副首都法案 与野党駆け引き大詰め",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589154?source=rss",
-      "publishedAt": "2026-07-24T07:56:13.000Z",
-      "xQuery": "副首都法案 与野党駆け引き大詰め"
-    },
     {
       "time": "16:52",
       "title": "世銀 中国への融資を段階的に廃止",
@@ -18,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "世銀 中国への融資を段階的に廃止"
     },
     {
-      "time": "17:30",
-      "title": "都内で大雨 現地からのSNS投稿",
+      "time": "18:37",
+      "title": "いよぎんHDと愛媛銀 来年4月統合",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589160?source=rss",
-      "publishedAt": "2026-07-24T08:30:25.000Z",
-      "xQuery": "都内で大雨 現地からのSNS投稿"
+      "url": "https://news.yahoo.co.jp/pickup/6589170?source=rss",
+      "publishedAt": "2026-07-24T09:37:37.000Z",
+      "xQuery": "いよぎんHDと愛媛銀 来年4月統合"
     },
     {
-      "time": "16:41",
-      "title": "川の遺体 不明の5歳男児と判明",
+      "time": "17:55",
+      "title": "南鳥島レアアース泥 分析結果公表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589155?source=rss",
-      "publishedAt": "2026-07-24T07:41:59.000Z",
-      "xQuery": "川の遺体 不明の5歳男児と判明"
+      "url": "https://news.yahoo.co.jp/pickup/6589165?source=rss",
+      "publishedAt": "2026-07-24T08:55:47.000Z",
+      "xQuery": "南鳥島レアアース泥 分析結果公表"
+    },
+    {
+      "time": "19:06",
+      "title": "湖で男性死亡 近くにSUPボード",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589172?source=rss",
+      "publishedAt": "2026-07-24T10:06:17.000Z",
+      "xQuery": "湖で男性死亡 近くにSUPボード"
     },
     {
       "time": "18:00",
