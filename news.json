@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T08:19:48.250Z",
+  "updatedAt": "2026-07-24T09:19:16.595Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-07-24T01:00:00.000Z"
       },
       {
-        "time": "07:06",
-        "title": "設備保全テーマソング「天地」｜突発修理と計画保全を描くIndustrial Rap Rock",
-        "source": "YouTube",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aRW1fYkJjcVBpS3lOVV9kdnl4UGxKbWdPV3oyekNpWC1iX1cyYWxVRzY1VEttQVRfWGZaZEhvTzZ3QQ?oc=5",
-        "publishedAt": "2026-07-23T22:06:56.000Z"
-      },
-      {
         "time": "15:03",
         "title": "日本製鉄発のスタートアップＫＡＭＡＭＥＳＨＩが大田区で設備保全の実証実験を継続実施する意義",
         "source": "ニュースメディアVOIX",
@@ -38,11 +31,18 @@
         "publishedAt": "2026-07-24T06:03:24.000Z"
       },
       {
-        "time": "17:30",
-        "title": "中古工作機械の通販サイト「機械販売センター」がオープン、製造業の設備調達コストを削減",
-        "source": "CNET Japan",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yRnNTck40bTV4TEl1d01GT2ZlMXMyaGJsZnh2bmpGRzJxLU9oUHIzZlFUTVJfSHpxUE9FcXlDX3R3aEdhOGw0Z0toeVJMVHk4a2c?oc=5",
-        "publishedAt": "2026-07-23T08:30:00.000Z"
+        "time": "10:00",
+        "title": "日本製鉄発のスタートアップＫＡＭＡＭＥＳＨＩ、大田区実証実験・実装促進事業「HOIP」で2年目の実証実験を開始",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XUEpMWldrZEctLU1FOElPMjJRdFlTNHZJRmFLdVpNSGlQX2I5N0hQdG96N1Z3UWhkSHNFMXpOaEhvS1BUVzRoekRfRjB4M1VhSEVodkNTNUMtWVdWMlFuLUxsZUZNV2lWZWc?oc=5",
+        "publishedAt": "2026-07-24T01:00:02.000Z"
+      },
+      {
+        "time": "19:28",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-07-23T10:28:34.000Z"
       },
       {
         "time": "22:10",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-23T13:10:00.000Z"
       },
       {
-        "time": "09:26",
-        "title": "アイキューブデジタル、MESとWESを連携",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IQzJFY1E0T1h1ME10a1J4cE1TYWJlcEdxTXBQUGtjenB2ZjZhdDdwQ2JtS2RHSkV2UTZoV25wRkhMUGh0RFlqWQ?oc=5",
-        "publishedAt": "2026-07-24T00:26:18.000Z"
+        "time": "23:09",
+        "title": "ホット圧着シーラント、手持ち式圧着ヒートシーラー、バッグ圧着ヒートシーラー、シーリング工作機械アルミホイルクラフト、ポータブル手持ちAmazon.co.jp: 手開催圧着ヒート シーラー バッグ マシン ツール アルミ箔クラフト、W/0-300 ℃ 温度制御、熱圧着シーラー ポータブル、手開",
+        "source": "Giornale Radio",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pcW9JQnFkTkhkRkNrcXNkTENSN1l1N2ZoWGE3M0xXeVBRTkZ1azdkX0d4dTdaTm84V3Y0Q3FMc2ZfVG1EX0xtd1otYUNMcUE0MmZfSUhkUQ?oc=5",
+        "publishedAt": "2026-07-23T14:09:59.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,25 @@
     ],
     "localHeadlines": [
       {
+        "time": "17:30",
+        "title": "都内で大雨 現地からのSNS投稿",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589160?source=rss",
+        "publishedAt": "2026-07-24T08:30:25.000Z"
+      },
+      {
         "time": "16:41",
         "title": "川の遺体 不明の5歳男児と判明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589155?source=rss",
         "publishedAt": "2026-07-24T07:41:59.000Z"
+      },
+      {
+        "time": "17:37",
+        "title": "長野の親子3人死傷 父親を再逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589157?source=rss",
+        "publishedAt": "2026-07-24T08:37:21.000Z"
       },
       {
         "time": "13:46",
@@ -163,32 +177,18 @@
         "publishedAt": "2026-07-24T04:46:06.000Z"
       },
       {
-        "time": "11:26",
-        "title": "福岡県議会の中尾副議長 議員辞職",
+        "time": "18:00",
+        "title": "「私かも」児童ひき逃げ巡り出頭",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589122?source=rss",
-        "publishedAt": "2026-07-24T02:26:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589166?source=rss",
+        "publishedAt": "2026-07-24T09:00:29.000Z"
       },
       {
-        "time": "15:57",
-        "title": "映画監督・榊被告に2審も実刑判決",
+        "time": "17:40",
+        "title": "死覚悟も 滑落→救助までの48時間",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589148?source=rss",
-        "publishedAt": "2026-07-24T06:57:56.000Z"
-      },
-      {
-        "time": "16:48",
-        "title": "唇縫う行為強要した疑い 女再逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589153?source=rss",
-        "publishedAt": "2026-07-24T07:48:09.000Z"
-      },
-      {
-        "time": "11:36",
-        "title": "息子が豪雨で殉職 誇りに思うと親",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589121?source=rss",
-        "publishedAt": "2026-07-24T02:36:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589159?source=rss",
+        "publishedAt": "2026-07-24T08:40:22.000Z"
       }
     ],
     "subsidyHeadlines": [

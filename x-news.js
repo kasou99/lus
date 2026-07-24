@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T08:19:49.211Z",
+  "updatedAt": "2026-07-24T09:19:17.372Z",
   "items": [
     {
       "time": "16:56",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "副首都法案 与野党駆け引き大詰め"
     },
     {
-      "time": "16:19",
-      "title": "コメの民間在庫 適正量を大幅超過",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589152?source=rss",
-      "publishedAt": "2026-07-24T07:19:28.000Z",
-      "xQuery": "コメの民間在庫 適正量を大幅超過"
-    },
-    {
       "time": "16:52",
       "title": "世銀 中国への融資を段階的に廃止",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6589149?source=rss",
       "publishedAt": "2026-07-24T07:52:42.000Z",
       "xQuery": "世銀 中国への融資を段階的に廃止"
+    },
+    {
+      "time": "17:30",
+      "title": "都内で大雨 現地からのSNS投稿",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589160?source=rss",
+      "publishedAt": "2026-07-24T08:30:25.000Z",
+      "xQuery": "都内で大雨 現地からのSNS投稿"
     },
     {
       "time": "16:41",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "川の遺体 不明の5歳男児と判明"
     },
     {
-      "time": "15:11",
-      "title": "プルデンシャル被害 新たに125人",
+      "time": "18:00",
+      "title": "「私かも」児童ひき逃げ巡り出頭",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589145?source=rss",
-      "publishedAt": "2026-07-24T06:11:53.000Z",
-      "xQuery": "プルデンシャル被害 新たに125人"
+      "url": "https://news.yahoo.co.jp/pickup/6589166?source=rss",
+      "publishedAt": "2026-07-24T09:00:29.000Z",
+      "xQuery": "「私かも」児童ひき逃げ巡り出頭"
     }
   ]
 };
