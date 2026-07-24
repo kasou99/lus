@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T12:02:57.177Z",
+  "updatedAt": "2026-07-24T13:02:45.641Z",
   "items": [
     {
       "time": "20:47",
@@ -19,27 +19,27 @@ window.LUS_X_NEWS = {
     },
     {
       "time": "20:39",
-      "title": "逃亡の日本赤軍6人 今も国際手配",
+      "title": "ベネズエラ地震1カ月 死者5300人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589178?source=rss",
-      "publishedAt": "2026-07-24T11:39:54.000Z",
-      "xQuery": "逃亡の日本赤軍6人 今も国際手配"
+      "url": "https://news.yahoo.co.jp/pickup/6589177?source=rss",
+      "publishedAt": "2026-07-24T11:39:35.000Z",
+      "xQuery": "ベネズエラ地震1カ月 死者5300人"
     },
     {
-      "time": "17:55",
-      "title": "南鳥島レアアース泥 分析結果公表",
+      "time": "21:07",
+      "title": "LINE ユーザー記録3年半分誤削除",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589165?source=rss",
-      "publishedAt": "2026-07-24T08:55:47.000Z",
-      "xQuery": "南鳥島レアアース泥 分析結果公表"
+      "url": "https://news.yahoo.co.jp/pickup/6589180?source=rss",
+      "publishedAt": "2026-07-24T12:07:03.000Z",
+      "xQuery": "LINE ユーザー記録3年半分誤削除"
     },
     {
-      "time": "18:00",
-      "title": "「私かも」児童ひき逃げ巡り出頭",
+      "time": "17:40",
+      "title": "死覚悟も 滑落→救助までの48時間",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589166?source=rss",
-      "publishedAt": "2026-07-24T09:00:29.000Z",
-      "xQuery": "「私かも」児童ひき逃げ巡り出頭"
+      "url": "https://news.yahoo.co.jp/pickup/6589159?source=rss",
+      "publishedAt": "2026-07-24T08:40:22.000Z",
+      "xQuery": "死覚悟も 滑落→救助までの48時間"
     }
   ]
 };
