@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T23:25:54.824Z",
+  "updatedAt": "2026-07-24T23:52:17.933Z",
   "items": [
+    {
+      "time": "07:56",
+      "title": "トランプ氏 EUに「高関税」警告",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589204?source=rss",
+      "publishedAt": "2026-07-24T22:56:41.000Z",
+      "xQuery": "トランプ氏 EUに「高関税」警告"
+    },
     {
       "time": "07:44",
       "title": "40℃予想も 初の5日連続酷暑日か",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589201?source=rss",
       "publishedAt": "2026-07-24T22:44:57.000Z",
       "xQuery": "40℃予想も 初の5日連続酷暑日か"
-    },
-    {
-      "time": "23:32",
-      "title": "首相 内閣改造と党役員人事検討へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589193?source=rss",
-      "publishedAt": "2026-07-24T14:32:24.000Z",
-      "xQuery": "首相 内閣改造と党役員人事検討へ"
     },
     {
       "time": "07:29",
