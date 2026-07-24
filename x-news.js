@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T10:18:41.552Z",
+  "updatedAt": "2026-07-24T11:11:58.879Z",
   "items": [
     {
-      "time": "16:52",
-      "title": "世銀 中国への融資を段階的に廃止",
+      "time": "20:01",
+      "title": "19人殺害から10年 やまゆり園は今",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589149?source=rss",
-      "publishedAt": "2026-07-24T07:52:42.000Z",
-      "xQuery": "世銀 中国への融資を段階的に廃止"
+      "url": "https://news.yahoo.co.jp/pickup/6589175?source=rss",
+      "publishedAt": "2026-07-24T11:01:17.000Z",
+      "xQuery": "19人殺害から10年 やまゆり園は今"
     },
     {
-      "time": "18:37",
-      "title": "いよぎんHDと愛媛銀 来年4月統合",
+      "time": "19:43",
+      "title": "不法残留外国人の摘発強化へ 政府",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589170?source=rss",
-      "publishedAt": "2026-07-24T09:37:37.000Z",
-      "xQuery": "いよぎんHDと愛媛銀 来年4月統合"
+      "url": "https://news.yahoo.co.jp/pickup/6589168?source=rss",
+      "publishedAt": "2026-07-24T10:43:36.000Z",
+      "xQuery": "不法残留外国人の摘発強化へ 政府"
     },
     {
       "time": "17:55",

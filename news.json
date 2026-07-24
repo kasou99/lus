@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T10:18:40.646Z",
+  "updatedAt": "2026-07-24T11:11:58.116Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-07-24T01:00:02.000Z"
       },
       {
-        "time": "19:28",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-07-23T10:28:34.000Z"
-      },
-      {
         "time": "22:10",
         "title": "【台湾情報】2026年上半期の台湾工作機械輸出、完成機は微減も部品需要が11.4%増と牽引＜ワイズ機械業界ジャーナル2026年7月第４週号発行",
         "source": "Excite エキサイト",
@@ -57,6 +50,13 @@
         "source": "Giornale Radio",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pcW9JQnFkTkhkRkNrcXNkTENSN1l1N2ZoWGE3M0xXeVBRTkZ1azdkX0d4dTdaTm84V3Y0Q3FMc2ZfVG1EX0xtd1otYUNMcUE0MmZfSUhkUQ?oc=5",
         "publishedAt": "2026-07-23T14:09:59.000Z"
+      },
+      {
+        "time": "09:26",
+        "title": "アイキューブデジタル、MESとWESを連携",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IQzJFY1E0T1h1ME10a1J4cE1TYWJlcEdxTXBQUGtjenB2ZjZhdDdwQ2JtS2RHSkV2UTZoV25wRkhMUGh0RFlqWQ?oc=5",
+        "publishedAt": "2026-07-24T00:26:18.000Z"
       }
     ],
     "worldHeadlines": [
