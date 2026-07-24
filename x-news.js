@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T04:38:35.267Z",
+  "updatedAt": "2026-07-24T06:01:24.003Z",
   "items": [
     {
-      "time": "12:12",
-      "title": "リニア開業時期 年内にも公表へ",
+      "time": "14:15",
+      "title": "4日連続で酷暑日 過去最長と並ぶ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589127?source=rss",
-      "publishedAt": "2026-07-24T03:12:11.000Z",
-      "xQuery": "リニア開業時期 年内にも公表へ"
+      "url": "https://news.yahoo.co.jp/pickup/6589143?source=rss",
+      "publishedAt": "2026-07-24T05:15:26.000Z",
+      "xQuery": "4日連続で酷暑日 過去最長と並ぶ"
     },
     {
-      "time": "13:30",
-      "title": "3人死傷 逆転無罪の二審見直しか",
+      "time": "13:36",
+      "title": "トランプ政権の新関税が発動",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589140?source=rss",
-      "publishedAt": "2026-07-24T04:30:40.000Z",
-      "xQuery": "3人死傷 逆転無罪の二審見直しか"
+      "url": "https://news.yahoo.co.jp/pickup/6589139?source=rss",
+      "publishedAt": "2026-07-24T04:36:20.000Z",
+      "xQuery": "トランプ政権の新関税が発動"
     },
     {
-      "time": "11:26",
-      "title": "福岡県議会の中尾副議長 議員辞職",
+      "time": "13:46",
+      "title": "副議長辞職 告発の県議を告訴方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589122?source=rss",
-      "publishedAt": "2026-07-24T02:26:58.000Z",
-      "xQuery": "福岡県議会の中尾副議長 議員辞職"
+      "url": "https://news.yahoo.co.jp/pickup/6589142?source=rss",
+      "publishedAt": "2026-07-24T04:46:06.000Z",
+      "xQuery": "副議長辞職 告発の県議を告訴方針"
     },
     {
-      "time": "13:15",
-      "title": "北海道根室市 ほぼ全域で断水続く",
+      "time": "12:28",
+      "title": "現職市長が産休 市政はチーム運営",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589138?source=rss",
-      "publishedAt": "2026-07-24T04:15:19.000Z",
-      "xQuery": "北海道根室市 ほぼ全域で断水続く"
+      "url": "https://news.yahoo.co.jp/pickup/6589132?source=rss",
+      "publishedAt": "2026-07-24T03:28:50.000Z",
+      "xQuery": "現職市長が産休 市政はチーム運営"
     },
     {
-      "time": "11:59",
-      "title": "Teamsで障害 会議や通話に不具合",
+      "time": "14:41",
+      "title": "あふれる名言フェイク動画 背景は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589126?source=rss",
-      "publishedAt": "2026-07-24T02:59:54.000Z",
-      "xQuery": "Teamsで障害 会議や通話に不具合"
+      "url": "https://news.yahoo.co.jp/pickup/6589130?source=rss",
+      "publishedAt": "2026-07-24T05:41:23.000Z",
+      "xQuery": "あふれる名言フェイク動画 背景は"
     }
   ]
 };
