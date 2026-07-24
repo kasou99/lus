@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T22:27:47.582Z",
+  "updatedAt": "2026-07-24T22:54:25.248Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EWGxidFpkOTNWUk9xXzlsci0tMUl2bnNqNWZHN2FfSVdKcWxhZDRtNFc5cWdTV1hlVVZ0M2pWbUJ1LTZZV0duXzRLYjVLWEUxaFNVcE16REw0SEZxNFMwUXQ3YjR2a1pGS0E?oc=5",
         "publishedAt": "2026-07-24T01:40:11.000Z"
-      },
-      {
-        "time": "01:52",
-        "title": "ノーコードAIを高校生に指南 MENOUが特別授業",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVUWM2cTVOZjA5ZkZORTRKWmpsenIyS1VJSFhOV0pVWHFRMXNTeTUyOEYyM2xpLUdMNzJGYVlEYXA4YUg3U3FkeFBubXFVNE1Lb1EwXzZJbl9ZMlE?oc=5",
-        "publishedAt": "2026-07-24T16:52:30.000Z"
       },
       {
         "time": "15:03",
@@ -50,6 +43,13 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XUEpMWldrZEctLU1FOElPMjJRdFlTNHZJRmFLdVpNSGlQX2I5N0hQdG96N1Z3UWhkSHNFMXpOaEhvS1BUVzRoekRfRjB4M1VhSEVodkNTNUMtWVdWMlFuLUxsZUZNV2lWZWc?oc=5",
         "publishedAt": "2026-07-24T01:00:02.000Z"
+      },
+      {
+        "time": "04:38",
+        "title": "デジタルツイン、産業競争力向上 中部圏で推進組織発足",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lT3hRTFVERjBObnhCZlBIam5IaDROR0lKQ2cyYXktVk9JSGk0MkVRRXpoVF9NZF9CQzUtWFJCZGh6T0VIamNJYXBmWEYtaGZfaGxzaGJReFZxbzg?oc=5",
+        "publishedAt": "2026-07-24T19:38:55.000Z"
       },
       {
         "time": "09:26",
@@ -149,18 +149,25 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:37",
+        "title": "中尾副議長が議員辞職 地元は憤り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589200?source=rss",
+        "publishedAt": "2026-07-24T22:37:56.000Z"
+      },
+      {
+        "time": "07:29",
+        "title": "台船に女性遺体 夫の遺体見つかる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589199?source=rss",
+        "publishedAt": "2026-07-24T22:29:47.000Z"
+      },
+      {
         "time": "22:45",
         "title": "霧島市の遺体は不明男児 父親胸中",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589185?source=rss",
         "publishedAt": "2026-07-24T13:45:18.000Z"
-      },
-      {
-        "time": "13:46",
-        "title": "副議長辞職 告発の県議を告訴方針",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589142?source=rss",
-        "publishedAt": "2026-07-24T04:46:06.000Z"
       },
       {
         "time": "19:06",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-07-24T10:06:17.000Z"
       },
       {
-        "time": "22:31",
-        "title": "運転中に猟銃被弾か 女性語る状況",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589182?source=rss",
-        "publishedAt": "2026-07-24T13:31:53.000Z"
-      },
-      {
-        "time": "18:00",
-        "title": "「私かも」児童ひき逃げ巡り出頭",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589166?source=rss",
-        "publishedAt": "2026-07-24T09:00:29.000Z"
-      },
-      {
         "time": "22:29",
         "title": "6月に児童50分放置 学校バス車内",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589184?source=rss",
         "publishedAt": "2026-07-24T13:29:48.000Z"
+      },
+      {
+        "time": "22:31",
+        "title": "運転中に猟銃被弾か 女性語る状況",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589182?source=rss",
+        "publishedAt": "2026-07-24T13:31:53.000Z"
       }
     ],
     "subsidyHeadlines": [

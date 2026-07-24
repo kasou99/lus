@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T22:27:48.338Z",
+  "updatedAt": "2026-07-24T22:54:26.014Z",
   "items": [
     {
       "time": "22:12",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "植松死刑囚に刺され 被害者の歩み"
     },
     {
-      "time": "22:45",
-      "title": "霧島市の遺体は不明男児 父親胸中",
+      "time": "07:29",
+      "title": "ゼロパンダ解消困難 日中関係悪化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589185?source=rss",
-      "publishedAt": "2026-07-24T13:45:18.000Z",
-      "xQuery": "霧島市の遺体は不明男児 父親胸中"
+      "url": "https://news.yahoo.co.jp/pickup/6589198?source=rss",
+      "publishedAt": "2026-07-24T22:29:24.000Z",
+      "xQuery": "ゼロパンダ解消困難 日中関係悪化"
     },
     {
-      "time": "22:29",
-      "title": "6月に児童50分放置 学校バス車内",
+      "time": "07:37",
+      "title": "中尾副議長が議員辞職 地元は憤り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589184?source=rss",
-      "publishedAt": "2026-07-24T13:29:48.000Z",
-      "xQuery": "6月に児童50分放置 学校バス車内"
+      "url": "https://news.yahoo.co.jp/pickup/6589200?source=rss",
+      "publishedAt": "2026-07-24T22:37:56.000Z",
+      "xQuery": "中尾副議長が議員辞職 地元は憤り"
     }
   ]
 };
