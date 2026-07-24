@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T07:22:15.412Z",
+  "updatedAt": "2026-07-24T08:19:49.211Z",
   "items": [
     {
-      "time": "14:15",
-      "title": "4日連続で酷暑日 過去最長と並ぶ",
+      "time": "16:56",
+      "title": "副首都法案 与野党駆け引き大詰め",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589143?source=rss",
-      "publishedAt": "2026-07-24T05:15:26.000Z",
-      "xQuery": "4日連続で酷暑日 過去最長と並ぶ"
+      "url": "https://news.yahoo.co.jp/pickup/6589154?source=rss",
+      "publishedAt": "2026-07-24T07:56:13.000Z",
+      "xQuery": "副首都法案 与野党駆け引き大詰め"
     },
     {
-      "time": "13:36",
-      "title": "トランプ政権の新関税が発動",
+      "time": "16:19",
+      "title": "コメの民間在庫 適正量を大幅超過",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589139?source=rss",
-      "publishedAt": "2026-07-24T04:36:20.000Z",
-      "xQuery": "トランプ政権の新関税が発動"
+      "url": "https://news.yahoo.co.jp/pickup/6589152?source=rss",
+      "publishedAt": "2026-07-24T07:19:28.000Z",
+      "xQuery": "コメの民間在庫 適正量を大幅超過"
     },
     {
-      "time": "13:46",
-      "title": "副議長辞職 告発の県議を告訴方針",
+      "time": "16:52",
+      "title": "世銀 中国への融資を段階的に廃止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589142?source=rss",
-      "publishedAt": "2026-07-24T04:46:06.000Z",
-      "xQuery": "副議長辞職 告発の県議を告訴方針"
+      "url": "https://news.yahoo.co.jp/pickup/6589149?source=rss",
+      "publishedAt": "2026-07-24T07:52:42.000Z",
+      "xQuery": "世銀 中国への融資を段階的に廃止"
+    },
+    {
+      "time": "16:41",
+      "title": "川の遺体 不明の5歳男児と判明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589155?source=rss",
+      "publishedAt": "2026-07-24T07:41:59.000Z",
+      "xQuery": "川の遺体 不明の5歳男児と判明"
     },
     {
       "time": "15:11",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589145?source=rss",
       "publishedAt": "2026-07-24T06:11:53.000Z",
       "xQuery": "プルデンシャル被害 新たに125人"
-    },
-    {
-      "time": "15:57",
-      "title": "映画監督・榊被告に2審も実刑判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589148?source=rss",
-      "publishedAt": "2026-07-24T06:57:56.000Z",
-      "xQuery": "映画監督・榊被告に2審も実刑判決"
     }
   ]
 };
