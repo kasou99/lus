@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T22:54:26.014Z",
+  "updatedAt": "2026-07-24T23:25:54.824Z",
   "items": [
     {
-      "time": "22:12",
-      "title": "「副首都構想」関連法が成立",
+      "time": "07:44",
+      "title": "40℃予想も 初の5日連続酷暑日か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589183?source=rss",
-      "publishedAt": "2026-07-24T13:12:07.000Z",
-      "xQuery": "「副首都構想」関連法が成立"
+      "url": "https://news.yahoo.co.jp/pickup/6589201?source=rss",
+      "publishedAt": "2026-07-24T22:44:57.000Z",
+      "xQuery": "40℃予想も 初の5日連続酷暑日か"
     },
     {
       "time": "23:32",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589193?source=rss",
       "publishedAt": "2026-07-24T14:32:24.000Z",
       "xQuery": "首相 内閣改造と党役員人事検討へ"
-    },
-    {
-      "time": "23:30",
-      "title": "植松死刑囚に刺され 被害者の歩み",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589192?source=rss",
-      "publishedAt": "2026-07-24T14:30:58.000Z",
-      "xQuery": "植松死刑囚に刺され 被害者の歩み"
     },
     {
       "time": "07:29",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589200?source=rss",
       "publishedAt": "2026-07-24T22:37:56.000Z",
       "xQuery": "中尾副議長が議員辞職 地元は憤り"
+    },
+    {
+      "time": "07:29",
+      "title": "台船に女性遺体 夫の遺体見つかる",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589199?source=rss",
+      "publishedAt": "2026-07-24T22:29:47.000Z",
+      "xQuery": "台船に女性遺体 夫の遺体見つかる"
     }
   ]
 };
