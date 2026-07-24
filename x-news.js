@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T00:46:12.927Z",
+  "updatedAt": "2026-07-24T01:40:29.495Z",
   "items": [
     {
-      "time": "07:21",
-      "title": "米政権が新関税発表 日本は12.5%",
+      "time": "07:38",
+      "title": "米がイランへ大規模攻撃検討 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589090?source=rss",
-      "publishedAt": "2026-07-23T22:21:40.000Z",
-      "xQuery": "米政権が新関税発表 日本は12.5%"
+      "url": "https://news.yahoo.co.jp/pickup/6589091?source=rss",
+      "publishedAt": "2026-07-23T22:38:15.000Z",
+      "xQuery": "米がイランへ大規模攻撃検討 報道"
     },
     {
       "time": "08:03",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "関東や東北 激しい雨や雷に注意"
     },
     {
+      "time": "09:46",
+      "title": "露の最新鋭機「スホイ57」墜落か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589107?source=rss",
+      "publishedAt": "2026-07-24T00:46:02.000Z",
+      "xQuery": "露の最新鋭機「スホイ57」墜落か"
+    },
+    {
+      "time": "10:00",
+      "title": "車突っ込む事故 運転手は熱中症か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589111?source=rss",
+      "publishedAt": "2026-07-24T01:00:16.000Z",
+      "xQuery": "車突っ込む事故 運転手は熱中症か"
+    },
+    {
       "time": "09:01",
       "title": "ドクターヘリ運航危惧 整備士不足",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6589102?source=rss",
       "publishedAt": "2026-07-24T00:01:35.000Z",
       "xQuery": "ドクターヘリ運航危惧 整備士不足"
-    },
-    {
-      "time": "07:58",
-      "title": "蛇口盗難に農家「死活問題」茨城",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589096?source=rss",
-      "publishedAt": "2026-07-23T22:58:29.000Z",
-      "xQuery": "蛇口盗難に農家「死活問題」茨城"
-    },
-    {
-      "time": "07:55",
-      "title": "ストリーミング詐欺 悩む音楽業界",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589094?source=rss",
-      "publishedAt": "2026-07-23T22:55:04.000Z",
-      "xQuery": "ストリーミング詐欺 悩む音楽業界"
     }
   ]
 };
