@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T14:11:48.406Z",
+  "updatedAt": "2026-07-24T15:10:04.333Z",
   "items": [
     {
       "time": "22:12",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「副首都構想」関連法が成立"
     },
     {
-      "time": "20:47",
-      "title": "露軍の航空機 北方領土を領空侵犯",
+      "time": "23:32",
+      "title": "首相 内閣改造と党役員人事検討へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589179?source=rss",
-      "publishedAt": "2026-07-24T11:47:22.000Z",
-      "xQuery": "露軍の航空機 北方領土を領空侵犯"
+      "url": "https://news.yahoo.co.jp/pickup/6589193?source=rss",
+      "publishedAt": "2026-07-24T14:32:24.000Z",
+      "xQuery": "首相 内閣改造と党役員人事検討へ"
     },
     {
-      "time": "19:59",
-      "title": "首相の睡眠 海外メディアも注目",
+      "time": "23:30",
+      "title": "植松死刑囚に刺され 被害者の歩み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589176?source=rss",
-      "publishedAt": "2026-07-24T10:59:54.000Z",
-      "xQuery": "首相の睡眠 海外メディアも注目"
-    },
-    {
-      "time": "22:45",
-      "title": "森林火災で非常事態宣言 スペイン",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589186?source=rss",
-      "publishedAt": "2026-07-24T13:45:02.000Z",
-      "xQuery": "森林火災で非常事態宣言 スペイン"
+      "url": "https://news.yahoo.co.jp/pickup/6589192?source=rss",
+      "publishedAt": "2026-07-24T14:30:58.000Z",
+      "xQuery": "植松死刑囚に刺され 被害者の歩み"
     },
     {
       "time": "22:45",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589185?source=rss",
       "publishedAt": "2026-07-24T13:45:18.000Z",
       "xQuery": "霧島市の遺体は不明男児 父親胸中"
+    },
+    {
+      "time": "22:29",
+      "title": "6月に児童50分放置 学校バス車内",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589184?source=rss",
+      "publishedAt": "2026-07-24T13:29:48.000Z",
+      "xQuery": "6月に児童50分放置 学校バス車内"
     }
   ]
 };
