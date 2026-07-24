@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T11:11:58.879Z",
+  "updatedAt": "2026-07-24T12:02:57.177Z",
   "items": [
+    {
+      "time": "20:47",
+      "title": "露軍の航空機 北方領土を領空侵犯",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589179?source=rss",
+      "publishedAt": "2026-07-24T11:47:22.000Z",
+      "xQuery": "露軍の航空機 北方領土を領空侵犯"
+    },
     {
       "time": "20:01",
       "title": "19人殺害から10年 やまゆり園は今",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "19人殺害から10年 やまゆり園は今"
     },
     {
-      "time": "19:43",
-      "title": "不法残留外国人の摘発強化へ 政府",
+      "time": "20:39",
+      "title": "逃亡の日本赤軍6人 今も国際手配",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589168?source=rss",
-      "publishedAt": "2026-07-24T10:43:36.000Z",
-      "xQuery": "不法残留外国人の摘発強化へ 政府"
+      "url": "https://news.yahoo.co.jp/pickup/6589178?source=rss",
+      "publishedAt": "2026-07-24T11:39:54.000Z",
+      "xQuery": "逃亡の日本赤軍6人 今も国際手配"
     },
     {
       "time": "17:55",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589165?source=rss",
       "publishedAt": "2026-07-24T08:55:47.000Z",
       "xQuery": "南鳥島レアアース泥 分析結果公表"
-    },
-    {
-      "time": "19:06",
-      "title": "湖で男性死亡 近くにSUPボード",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589172?source=rss",
-      "publishedAt": "2026-07-24T10:06:17.000Z",
-      "xQuery": "湖で男性死亡 近くにSUPボード"
     },
     {
       "time": "18:00",
