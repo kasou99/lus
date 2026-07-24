@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T20:36:44.627Z",
+  "updatedAt": "2026-07-24T21:27:35.134Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-07-24T01:40:11.000Z"
       },
       {
+        "time": "01:52",
+        "title": "ノーコードAIを高校生に指南 MENOUが特別授業",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVUWM2cTVOZjA5ZkZORTRKWmpsenIyS1VJSFhOV0pVWHFRMXNTeTUyOEYyM2xpLUdMNzJGYVlEYXA4YUg3U3FkeFBubXFVNE1Lb1EwXzZJbl9ZMlE?oc=5",
+        "publishedAt": "2026-07-24T16:52:30.000Z"
+      },
+      {
         "time": "15:03",
         "title": "日本製鉄発のスタートアップＫＡＭＡＭＥＳＨＩが大田区で設備保全の実証実験を継続実施する意義",
         "source": "ニュースメディアVOIX",
@@ -29,13 +36,6 @@
         "source": "PlusWeb3",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsRm9xQVFicUpBeGNvc2Zwc3k2RnBBZUl5YlF5ZWpHcHVjb0lmRXpMNkpOZUdHNEd0SzFCT2xSNUhSSm5ZaUg1ek4xNmNqdElQTm1oY29HeG5ZSmFsa3dn?oc=5",
         "publishedAt": "2026-07-24T04:27:36.000Z"
-      },
-      {
-        "time": "08:05",
-        "title": "デジタルツイン、産業競争力向上 中部圏で推進組織発足",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lT3hRTFVERjBObnhCZlBIam5IaDROR0lKQ2cyYXktVk9JSGk0MkVRRXpoVF9NZF9CQzUtWFJCZGh6T0VIamNJYXBmWEYtaGZfaGxzaGJReFZxbzg?oc=5",
-        "publishedAt": "2026-07-23T23:05:27.000Z"
       },
       {
         "time": "15:03",
