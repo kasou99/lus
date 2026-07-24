@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T19:59:15.324Z",
+  "updatedAt": "2026-07-24T20:36:44.627Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-07-24T04:27:36.000Z"
       },
       {
+        "time": "08:05",
+        "title": "デジタルツイン、産業競争力向上 中部圏で推進組織発足",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lT3hRTFVERjBObnhCZlBIam5IaDROR0lKQ2cyYXktVk9JSGk0MkVRRXpoVF9NZF9CQzUtWFJCZGh6T0VIamNJYXBmWEYtaGZfaGxzaGJReFZxbzg?oc=5",
+        "publishedAt": "2026-07-23T23:05:27.000Z"
+      },
+      {
         "time": "15:03",
         "title": "2026年機械製造用潤滑コーティング業界分析：市場現状＋発展見通し- 年平均成長率（CAGR）6.1％で成長",
         "source": "ニコニコニュース",
@@ -50,13 +57,6 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IQzJFY1E0T1h1ME10a1J4cE1TYWJlcEdxTXBQUGtjenB2ZjZhdDdwQ2JtS2RHSkV2UTZoV25wRkhMUGh0RFlqWQ?oc=5",
         "publishedAt": "2026-07-24T00:26:18.000Z"
-      },
-      {
-        "time": "08:05",
-        "title": "デジタルツイン、産業競争力向上 中部圏で推進組織発足",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lT3hRTFVERjBObnhCZlBIam5IaDROR0lKQ2cyYXktVk9JSGk0MkVRRXpoVF9NZF9CQzUtWFJCZGh6T0VIamNJYXBmWEYtaGZfaGxzaGJReFZxbzg?oc=5",
-        "publishedAt": "2026-07-23T23:05:27.000Z"
       }
     ],
     "worldHeadlines": [
