@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T03:11:06.495Z",
+  "updatedAt": "2026-07-24T04:38:35.267Z",
   "items": [
     {
-      "time": "11:29",
-      "title": "日経平均 一時2000円超の下げ幅",
+      "time": "12:12",
+      "title": "リニア開業時期 年内にも公表へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589118?source=rss",
-      "publishedAt": "2026-07-24T02:29:39.000Z",
-      "xQuery": "日経平均 一時2000円超の下げ幅"
+      "url": "https://news.yahoo.co.jp/pickup/6589127?source=rss",
+      "publishedAt": "2026-07-24T03:12:11.000Z",
+      "xQuery": "リニア開業時期 年内にも公表へ"
     },
     {
-      "time": "11:36",
-      "title": "息子が豪雨で殉職 誇りに思うと親",
+      "time": "13:30",
+      "title": "3人死傷 逆転無罪の二審見直しか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589121?source=rss",
-      "publishedAt": "2026-07-24T02:36:37.000Z",
-      "xQuery": "息子が豪雨で殉職 誇りに思うと親"
-    },
-    {
-      "time": "10:05",
-      "title": "陸自情報部隊 私的な情報も収集か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589113?source=rss",
-      "publishedAt": "2026-07-24T01:05:20.000Z",
-      "xQuery": "陸自情報部隊 私的な情報も収集か"
+      "url": "https://news.yahoo.co.jp/pickup/6589140?source=rss",
+      "publishedAt": "2026-07-24T04:30:40.000Z",
+      "xQuery": "3人死傷 逆転無罪の二審見直しか"
     },
     {
       "time": "11:26",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589122?source=rss",
       "publishedAt": "2026-07-24T02:26:58.000Z",
       "xQuery": "福岡県議会の中尾副議長 議員辞職"
+    },
+    {
+      "time": "13:15",
+      "title": "北海道根室市 ほぼ全域で断水続く",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589138?source=rss",
+      "publishedAt": "2026-07-24T04:15:19.000Z",
+      "xQuery": "北海道根室市 ほぼ全域で断水続く"
     },
     {
       "time": "11:59",
