@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-23T23:50:42.376Z",
+  "updatedAt": "2026-07-24T00:46:12.927Z",
   "items": [
     {
       "time": "07:21",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東や東北 激しい雨や雷に注意"
     },
     {
-      "time": "06:09",
-      "title": "元日本赤軍 岡本公三容疑者が死亡",
+      "time": "09:01",
+      "title": "ドクターヘリ運航危惧 整備士不足",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589085?source=rss",
-      "publishedAt": "2026-07-23T21:09:15.000Z",
-      "xQuery": "元日本赤軍 岡本公三容疑者が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589102?source=rss",
+      "publishedAt": "2026-07-24T00:01:35.000Z",
+      "xQuery": "ドクターヘリ運航危惧 整備士不足"
     },
     {
       "time": "07:58",
