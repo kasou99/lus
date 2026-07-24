@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T16:02:13.668Z",
+  "updatedAt": "2026-07-24T17:04:00.076Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EWGxidFpkOTNWUk9xXzlsci0tMUl2bnNqNWZHN2FfSVdKcWxhZDRtNFc5cWdTV1hlVVZ0M2pWbUJ1LTZZV0duXzRLYjVLWEUxaFNVcE16REw0SEZxNFMwUXQ3YjR2a1pGS0E?oc=5",
         "publishedAt": "2026-07-24T01:40:11.000Z"
-      },
-      {
-        "time": "11:11",
-        "title": "オートメーション、精密工学および企業によるCNC機械用具の市場がスマートな製造業を革命化しているなぜか",
-        "source": "Spherical Insights",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdVpGYWNBVVZGMnFMdVpBeTZwS0tRdnE4OUM3MXhoTmdteURTWmR0dkFYT2VrWmtxd29KSV8wS3hIai04WUZDdlZyMUgzUFNycHJPR3U1dGRNcWtUNDUwWWE5SkNkQXNsdDNZWDNxZE1zTUI4c3lUN1gxRG5LdzlQTjRzMk5UNloyOEZSbXloell6d3ZDaklJTUxYZkYxRktHLWtOTEhwX1llNmVKYVZIdDlLV3RmZ2dqQ19SUnY4V0h4QzgwZDZvTjFGWlgzVTNuMXNDSXB1YmdwX25IeG05UXE5Mko1Sm8zMnk3d1RJU1pKU0tJWVpuS1J6eEU?oc=5",
-        "publishedAt": "2026-07-24T02:11:28.000Z"
       },
       {
         "time": "15:03",
@@ -57,6 +50,13 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IQzJFY1E0T1h1ME10a1J4cE1TYWJlcEdxTXBQUGtjenB2ZjZhdDdwQ2JtS2RHSkV2UTZoV25wRkhMUGh0RFlqWQ?oc=5",
         "publishedAt": "2026-07-24T00:26:18.000Z"
+      },
+      {
+        "time": "08:05",
+        "title": "デジタルツイン、産業競争力向上 中部圏で推進組織発足",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lT3hRTFVERjBObnhCZlBIam5IaDROR0lKQ2cyYXktVk9JSGk0MkVRRXpoVF9NZF9CQzUtWFJCZGh6T0VIamNJYXBmWEYtaGZfaGxzaGJReFZxbzg?oc=5",
+        "publishedAt": "2026-07-23T23:05:27.000Z"
       }
     ],
     "worldHeadlines": [
