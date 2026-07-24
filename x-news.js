@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T06:01:24.003Z",
+  "updatedAt": "2026-07-24T07:22:15.412Z",
   "items": [
     {
       "time": "14:15",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "副議長辞職 告発の県議を告訴方針"
     },
     {
-      "time": "12:28",
-      "title": "現職市長が産休 市政はチーム運営",
+      "time": "15:11",
+      "title": "プルデンシャル被害 新たに125人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589132?source=rss",
-      "publishedAt": "2026-07-24T03:28:50.000Z",
-      "xQuery": "現職市長が産休 市政はチーム運営"
+      "url": "https://news.yahoo.co.jp/pickup/6589145?source=rss",
+      "publishedAt": "2026-07-24T06:11:53.000Z",
+      "xQuery": "プルデンシャル被害 新たに125人"
     },
     {
-      "time": "14:41",
-      "title": "あふれる名言フェイク動画 背景は",
+      "time": "15:57",
+      "title": "映画監督・榊被告に2審も実刑判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589130?source=rss",
-      "publishedAt": "2026-07-24T05:41:23.000Z",
-      "xQuery": "あふれる名言フェイク動画 背景は"
+      "url": "https://news.yahoo.co.jp/pickup/6589148?source=rss",
+      "publishedAt": "2026-07-24T06:57:56.000Z",
+      "xQuery": "映画監督・榊被告に2審も実刑判決"
     }
   ]
 };
