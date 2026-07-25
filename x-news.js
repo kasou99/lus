@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T14:35:12.760Z",
+  "updatedAt": "2026-07-25T15:27:38.109Z",
   "items": [
     {
       "time": "22:37",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "陸自情報部隊 元隊員が実態を証言"
     },
     {
-      "time": "18:12",
-      "title": "やまゆり園長「悲しみ癒えない」",
+      "time": "20:28",
+      "title": "仏「核の傘」拡大構想 相次ぐ賛同",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589280?source=rss",
-      "publishedAt": "2026-07-25T09:12:21.000Z",
-      "xQuery": "やまゆり園長「悲しみ癒えない」"
+      "url": "https://news.yahoo.co.jp/pickup/6589297?source=rss",
+      "publishedAt": "2026-07-25T11:28:16.000Z",
+      "xQuery": "仏「核の傘」拡大構想 相次ぐ賛同"
     },
     {
-      "time": "22:03",
-      "title": "次期戦闘機 愛知が組み立て中核に",
+      "time": "23:45",
+      "title": "内閣支持率下落 市民求める政策は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589310?source=rss",
-      "publishedAt": "2026-07-25T13:03:09.000Z",
-      "xQuery": "次期戦闘機 愛知が組み立て中核に"
+      "url": "https://news.yahoo.co.jp/pickup/6589323?source=rss",
+      "publishedAt": "2026-07-25T14:45:16.000Z",
+      "xQuery": "内閣支持率下落 市民求める政策は"
     },
     {
       "time": "21:16",

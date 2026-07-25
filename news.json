@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T14:35:11.669Z",
+  "updatedAt": "2026-07-25T15:27:37.208Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,11 @@
         "publishedAt": "2026-07-25T08:33:06.000Z"
       },
       {
-        "time": "00:10",
-        "title": "Green AI、タイ設備保全管理システム最大手のFactoriumと業務提携覚書（MOU）を締結",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUYXBKSmhaYkc1SGs2d0dHZGlYLVZ4UkpNVWZVendZR0xBaWRha0dBb3V1Uk9CRnhpSWZZQ3hkTUhMZ0dGRGtzbWRtV2NRYUxaYXpaekN2bzY0blhPaHR4SWJPU2xjVmdvalhoLWFVYzYwLXhw?oc=5",
-        "publishedAt": "2026-07-24T15:10:00.000Z"
-      },
-      {
-        "time": "00:10",
-        "title": "日本製鉄発のスタートアップＫＡＭＡＭＥＳＨＩ、大田区実証実験・実装促進事業「HOIP」で2年目の実証実験を開始",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12Tk5ZMlNCWHRaNzg5RUxHbkFlc0NaTjdpeHRQLXhXVDhBcUw2WGtsSUxuMERVMmtBTHhhMDJSdTN2NnJWd2JNLTc2eEo1SDRUc1NWRWtOSS1BblpuamdsT3ZPcUo5YzBaZTVZ?oc=5",
-        "publishedAt": "2026-07-24T15:10:00.000Z"
+        "time": "06:00",
+        "title": "画像 | 工作機械受注｢年後半から半導体･EV向け本格化｣ 日工会1月会見リポート&稲葉会長質疑応答",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OU0pHc0VxS2taakE3VTVwcm5BRFNrRjhCMXl2WmlhTnRyaFVJMXRNT3FKRWc3YzBYYjZLcjhaQzRkTDdqQS1PVTBvelhiT213c21XX1pUbGp0TEZlQ0E?oc=5",
+        "publishedAt": "2026-07-24T21:00:00.000Z"
       },
       {
         "time": "04:38",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589279?source=rss",
         "publishedAt": "2026-07-25T08:47:05.000Z"
+      },
+      {
+        "time": "21:49",
+        "title": "ジャングリア1年 経済効果494億円",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589309?source=rss",
+        "publishedAt": "2026-07-25T12:49:15.000Z"
       }
     ],
     "worldHeadlines": [
