@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T22:49:41.569Z",
+  "updatedAt": "2026-07-25T23:23:49.375Z",
   "items": [
     {
       "time": "07:23",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "九州～東海 体温超えるような暑さ"
     },
     {
-      "time": "07:18",
-      "title": "露 北朝鮮兵3万人追加受け入れか",
+      "time": "08:13",
+      "title": "独LGBTQ祭典 車突っ込み1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589327?source=rss",
-      "publishedAt": "2026-07-25T22:18:20.000Z",
-      "xQuery": "露 北朝鮮兵3万人追加受け入れか"
-    },
-    {
-      "time": "21:16",
-      "title": "岡本公三容疑者 死因は肺の合併症",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589304?source=rss",
-      "publishedAt": "2026-07-25T12:16:38.000Z",
-      "xQuery": "岡本公三容疑者 死因は肺の合併症"
+      "url": "https://news.yahoo.co.jp/pickup/6589336?source=rss",
+      "publishedAt": "2026-07-25T23:13:42.000Z",
+      "xQuery": "独LGBTQ祭典 車突っ込み1人死亡"
     },
     {
       "time": "07:19",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589325?source=rss",
       "publishedAt": "2026-07-25T22:11:34.000Z",
       "xQuery": "花火が爆発 打ち上げ船の2人搬送"
+    },
+    {
+      "time": "08:10",
+      "title": "隅田川花火に異変 極端な天気など",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589334?source=rss",
+      "publishedAt": "2026-07-25T23:10:03.000Z",
+      "xQuery": "隅田川花火に異変 極端な天気など"
     }
   ]
 };

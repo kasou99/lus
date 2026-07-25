@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T22:49:40.773Z",
+  "updatedAt": "2026-07-25T23:23:48.324Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "08:13",
+        "title": "独LGBTQ祭典 車突っ込み1人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589336?source=rss",
+        "publishedAt": "2026-07-25T23:13:42.000Z"
+      },
+      {
         "time": "07:18",
         "title": "露 北朝鮮兵3万人追加受け入れか",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589233?source=rss",
         "publishedAt": "2026-07-25T02:10:59.000Z"
-      },
-      {
-        "time": "07:56",
-        "title": "トランプ氏 EUに「高関税」警告",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589204?source=rss",
-        "publishedAt": "2026-07-24T22:56:41.000Z"
       },
       {
         "time": "15:55",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "07:11",
-        "title": "花火が爆発 打ち上げ船の2人搬送",
+        "time": "07:54",
+        "title": "相模原殺傷 道半ばの障害者理解",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589325?source=rss",
-        "publishedAt": "2026-07-25T22:11:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589333?source=rss",
+        "publishedAt": "2026-07-25T22:54:04.000Z"
       },
       {
         "time": "14:45",
@@ -163,6 +163,20 @@
         "publishedAt": "2026-07-25T05:45:04.000Z"
       },
       {
+        "time": "07:11",
+        "title": "花火が爆発 打ち上げ船の2人搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589325?source=rss",
+        "publishedAt": "2026-07-25T22:11:34.000Z"
+      },
+      {
+        "time": "08:10",
+        "title": "隅田川花火に異変 極端な天気など",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589334?source=rss",
+        "publishedAt": "2026-07-25T23:10:03.000Z"
+      },
+      {
         "time": "23:06",
         "title": "強気一変 福岡県副議長辞職の裏側",
         "source": "Yahoo!ニュース",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-07-25T14:06:05.000Z"
       },
       {
-        "time": "20:54",
-        "title": "6人死亡事故「元気な姿返して」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589300?source=rss",
-        "publishedAt": "2026-07-25T11:54:07.000Z"
-      },
-      {
         "time": "18:31",
         "title": "切断遺体 事件後にノコギリ出品か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589285?source=rss",
         "publishedAt": "2026-07-25T09:31:22.000Z"
-      },
-      {
-        "time": "07:19",
-        "title": "11歳女児がはねられ重体 22歳逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589326?source=rss",
-        "publishedAt": "2026-07-25T22:19:15.000Z"
       }
     ],
     "subsidyHeadlines": [
