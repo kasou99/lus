@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T08:47:07.975Z",
+  "updatedAt": "2026-07-25T09:37:22.638Z",
   "items": [
     {
       "time": "17:05",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "25日夕～都心周辺で激しい雨か"
     },
     {
-      "time": "14:48",
-      "title": "辞職の副議長 蔵内議長を支えたい",
+      "time": "17:47",
+      "title": "最賃で競争「チキンレース」の声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589255?source=rss",
-      "publishedAt": "2026-07-25T05:48:19.000Z",
-      "xQuery": "辞職の副議長 蔵内議長を支えたい"
+      "url": "https://news.yahoo.co.jp/pickup/6589279?source=rss",
+      "publishedAt": "2026-07-25T08:47:05.000Z",
+      "xQuery": "最賃で競争「チキンレース」の声"
     },
     {
-      "time": "16:49",
-      "title": "最賃 近隣県を意識した競争過熱",
+      "time": "18:31",
+      "title": "切断遺体 事件後にノコギリ出品か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589266?source=rss",
-      "publishedAt": "2026-07-25T07:49:14.000Z",
-      "xQuery": "最賃 近隣県を意識した競争過熱"
+      "url": "https://news.yahoo.co.jp/pickup/6589285?source=rss",
+      "publishedAt": "2026-07-25T09:31:22.000Z",
+      "xQuery": "切断遺体 事件後にノコギリ出品か"
     },
     {
-      "time": "14:42",
-      "title": "ジャングリア1年 来場者数100万人",
+      "time": "18:11",
+      "title": "輸送中2200万円落下 窃盗疑い逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589256?source=rss",
-      "publishedAt": "2026-07-25T05:42:15.000Z",
-      "xQuery": "ジャングリア1年 来場者数100万人"
+      "url": "https://news.yahoo.co.jp/pickup/6589281?source=rss",
+      "publishedAt": "2026-07-25T09:11:36.000Z",
+      "xQuery": "輸送中2200万円落下 窃盗疑い逮捕"
     },
     {
-      "time": "16:53",
-      "title": "かゆみ止め薬「ムヒ」 ギネス認定",
+      "time": "17:57",
+      "title": "ジャングリア売上100億円超見通し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589270?source=rss",
-      "publishedAt": "2026-07-25T07:53:52.000Z",
-      "xQuery": "かゆみ止め薬「ムヒ」 ギネス認定"
+      "url": "https://news.yahoo.co.jp/pickup/6589278?source=rss",
+      "publishedAt": "2026-07-25T08:57:45.000Z",
+      "xQuery": "ジャングリア売上100億円超見通し"
     }
   ]
 };
