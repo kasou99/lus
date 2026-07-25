@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T07:43:26.400Z",
+  "updatedAt": "2026-07-25T08:47:07.975Z",
   "items": [
     {
-      "time": "15:09",
-      "title": "防災庁の地方拠点要望 全国45団体",
+      "time": "17:05",
+      "title": "25日夕～都心周辺で激しい雨か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589259?source=rss",
-      "publishedAt": "2026-07-25T06:09:52.000Z",
-      "xQuery": "防災庁の地方拠点要望 全国45団体"
+      "url": "https://news.yahoo.co.jp/pickup/6589274?source=rss",
+      "publishedAt": "2026-07-25T08:05:47.000Z",
+      "xQuery": "25日夕～都心周辺で激しい雨か"
     },
     {
-      "time": "14:45",
-      "title": "植松聖死刑囚 事件から10年の手記",
+      "time": "14:48",
+      "title": "辞職の副議長 蔵内議長を支えたい",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589257?source=rss",
-      "publishedAt": "2026-07-25T05:45:04.000Z",
-      "xQuery": "植松聖死刑囚 事件から10年の手記"
+      "url": "https://news.yahoo.co.jp/pickup/6589255?source=rss",
+      "publishedAt": "2026-07-25T05:48:19.000Z",
+      "xQuery": "辞職の副議長 蔵内議長を支えたい"
     },
     {
-      "time": "15:17",
-      "title": "従業員死亡 暴行疑いで経営者逮捕",
+      "time": "16:49",
+      "title": "最賃 近隣県を意識した競争過熱",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589258?source=rss",
-      "publishedAt": "2026-07-25T06:17:42.000Z",
-      "xQuery": "従業員死亡 暴行疑いで経営者逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6589266?source=rss",
+      "publishedAt": "2026-07-25T07:49:14.000Z",
+      "xQuery": "最賃 近隣県を意識した競争過熱"
     },
     {
       "time": "14:42",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ジャングリア1年 来場者数100万人"
     },
     {
-      "time": "15:34",
-      "title": "商社→タクシー運転手 給料倍以上",
+      "time": "16:53",
+      "title": "かゆみ止め薬「ムヒ」 ギネス認定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589261?source=rss",
-      "publishedAt": "2026-07-25T06:34:28.000Z",
-      "xQuery": "商社→タクシー運転手 給料倍以上"
+      "url": "https://news.yahoo.co.jp/pickup/6589270?source=rss",
+      "publishedAt": "2026-07-25T07:53:52.000Z",
+      "xQuery": "かゆみ止め薬「ムヒ」 ギネス認定"
     }
   ]
 };
