@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T23:23:48.324Z",
+  "updatedAt": "2026-07-25T23:50:56.234Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -68,6 +68,13 @@
         "publishedAt": "2026-07-25T23:13:42.000Z"
       },
       {
+        "time": "08:34",
+        "title": "カザフ大統領 露に侵攻凍結を進言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589337?source=rss",
+        "publishedAt": "2026-07-25T23:34:07.000Z"
+      },
+      {
         "time": "07:18",
         "title": "露 北朝鮮兵3万人追加受け入れか",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589262?source=rss",
         "publishedAt": "2026-07-25T06:55:29.000Z"
-      },
-      {
-        "time": "17:35",
-        "title": "フーシ派がサウジ攻撃 空爆の報復",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589277?source=rss",
-        "publishedAt": "2026-07-25T08:35:39.000Z"
       }
     ],
     "economyHeadlines": [
