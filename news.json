@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-25T01:40:32.061Z",
+  "updatedAt": "2026-07-25T03:09:41.781Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "04:38",
+        "title": "デジタルツイン、産業競争力向上 中部圏で推進組織発足",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lT3hRTFVERjBObnhCZlBIam5IaDROR0lKQ2cyYXktVk9JSGk0MkVRRXpoVF9NZF9CQzUtWFJCZGh6T0VIamNJYXBmWEYtaGZfaGxzaGJReFZxbzg?oc=5",
+        "publishedAt": "2026-07-24T19:38:55.000Z"
+      },
       {
         "time": "14:30",
         "title": "Green AI、タイ設備保全管理システム最大手のFactoriumと業務提携覚書（MOU）を締結",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDN2FUTC1yZlVRRzBZV2QzeDBtd3RWZnN2dWtFWWZwMXptZ2plNl9GU2tucnl3Q0lNNVhtTldPZ2dLdFQtdFB6bktUbXpxWG9fOFJJRUVwb21PSlFSamFhX2NJQlR5Z0pldG01NlV3RnlseTBfZGc?oc=5",
         "publishedAt": "2026-07-24T05:30:29.000Z"
-      },
-      {
-        "time": "11:11",
-        "title": "オートメーション、精密工学および企業によるCNC機械用具の市場がスマートな製造業を革命化しているなぜか",
-        "source": "Spherical Insights",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdVpGYWNBVVZGMnFMdVpBeTZwS0tRdnE4OUM3MXhoTmdteURTWmR0dkFYT2VrWmtxd29KSV8wS3hIai04WUZDdlZyMUgzUFNycHJPR3U1dGRNcWtUNDUwWWE5SkNkQXNsdDNZWDNxZE1zTUI4c3lUN1gxRG5LdzlQTjRzMk5UNloyOEZSbXloell6d3ZDaklJTUxYZkYxRktHLWtOTEhwX1llNmVKYVZIdDlLV3RmZ2dqQ19SUnY4V0h4QzgwZDZvTjFGWlgzVTNuMXNDSXB1YmdwX25IeG05UXE5Mko1Sm8zMnk3d1RJU1pKU0tJWVpuS1J6eEU?oc=5",
-        "publishedAt": "2026-07-24T02:11:28.000Z"
       },
       {
         "time": "15:03",
@@ -31,13 +31,6 @@
         "publishedAt": "2026-07-24T04:27:36.000Z"
       },
       {
-        "time": "13:18",
-        "title": "日本製鉄発のスタートアップＫＡＭＡＭＥＳＨＩ、大田区実証実験・実装促進事業「HOIP」で2年目の実証実験を開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01TDRpSmJTVHdYQWt1bFNYdXg3RVhJRDlNVVlscHdCaTJrZ2VwdlVZc1NvNDlZNXhKYno5MjhDeWhnR3ByVGhRajlnS1JicVI3cGtQbnFJWVFhcW91ekFKWWh1X3V5LW9M?oc=5",
-        "publishedAt": "2026-07-24T04:18:24.000Z"
-      },
-      {
         "time": "15:03",
         "title": "2026年機械製造用潤滑コーティング業界分析：市場現状＋発展見通し- 年平均成長率（CAGR）6.1％で成長",
         "source": "ニコニコニュース",
@@ -45,11 +38,11 @@
         "publishedAt": "2026-07-24T06:03:24.000Z"
       },
       {
-        "time": "04:38",
-        "title": "デジタルツイン、産業競争力向上 中部圏で推進組織発足",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lT3hRTFVERjBObnhCZlBIam5IaDROR0lKQ2cyYXktVk9JSGk0MkVRRXpoVF9NZF9CQzUtWFJCZGh6T0VIamNJYXBmWEYtaGZfaGxzaGJReFZxbzg?oc=5",
-        "publishedAt": "2026-07-24T19:38:55.000Z"
+        "time": "13:18",
+        "title": "日本製鉄発のスタートアップＫＡＭＡＭＥＳＨＩ、大田区実証実験・実装促進事業「HOIP」で2年目の実証実験を開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01TDRpSmJTVHdYQWt1bFNYdXg3RVhJRDlNVVlscHdCaTJrZ2VwdlVZc1NvNDlZNXhKYno5MjhDeWhnR3ByVGhRajlnS1JicVI3cGtQbnFJWVFhcW91ekFKWWh1X3V5LW9M?oc=5",
+        "publishedAt": "2026-07-24T04:18:24.000Z"
       },
       {
         "time": "19:00",
@@ -57,15 +50,22 @@
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1d4VDNmWkg3N3lGZURMVTU3ekN1Z0F6OEV5WHRLTDRiQnpTNXFZWE1nMGJGMXdtcE9SME5iNjBaVGJnbzhGLWRfX2hCRFdxbm5OaGZ2am4zbEFDT2Qya2VzZC1ydnZzWEhuTi1oZ2FmRGhzTThaY3dfbVI3T2Q4Mjlha1pKc0E?oc=5",
         "publishedAt": "2026-07-24T10:00:00.000Z"
+      },
+      {
+        "time": "01:52",
+        "title": "静岡理工科大と東海大、教育・地域連携を推進",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qdllKSUhoajhXVmlmcFdMaDJaRmJPamRlY0xHT3RKLTZpdlRZaTFUNHF3N0lsZklLN1dqVUpfM3htUzdsd2ctaXFiSWtKcS1CR2t5emc4dzVHMjA?oc=5",
+        "publishedAt": "2026-07-24T16:52:30.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "10:16",
-        "title": "米軍 イラン港湾巡りタンカー攻撃",
+        "time": "11:10",
+        "title": "米軍 イラン港湾封鎖巡り商船攻撃",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589223?source=rss",
-        "publishedAt": "2026-07-25T01:16:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589233?source=rss",
+        "publishedAt": "2026-07-25T02:10:59.000Z"
       },
       {
         "time": "07:56",
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "11:39",
+        "title": "セブン&i 東欧企業への出資見送り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589235?source=rss",
+        "publishedAt": "2026-07-25T02:39:58.000Z"
+      },
+      {
         "time": "19:11",
         "title": "ニチレイ 出荷業務などすべて復旧",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589173?source=rss",
         "publishedAt": "2026-07-24T10:11:51.000Z"
-      },
-      {
-        "time": "12:12",
-        "title": "リニア開業時期 年内にも公表へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589127?source=rss",
-        "publishedAt": "2026-07-24T03:12:11.000Z"
       },
       {
         "time": "16:52",
@@ -225,9 +225,9 @@
       },
       {
         "time": "16:00",
-        "title": "物価高騰や米国関税措置・中東情勢の変化等により影響を受ける県内事業者の皆様への主な支援策",
-        "source": "pref.hiroshima.lg.jp",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ed24zSjhRX0NxVnYxeFMxallrVW5sQXh5SV8yY1VUXzI0ajIwQVpVb2hTalZlU3AybmJrSVZ3U2F2MWU3bkVzb2RvNTlyaEZOQ2tDN1dUQjJKR1NVQ2tHYU1rSjhKZWoybllUVnpn?oc=5",
+        "title": "食洗機設置の設置で使える！省エネ住宅補助金",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wb3R6alFKeVRpMkVWVGpiMjRhdGVkZFhZZXRBTl8yeU5xTDlwMDQwelhkQ3hFSnNaMEszMjRYMl9VYjAxUi1xVzRzSEkwTWkxLXZhbndUWkpGUUg4aXY4V0VPSDQ?oc=5",
         "publishedAt": "2026-06-30T07:00:00.000Z"
       }
     ]

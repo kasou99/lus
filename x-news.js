@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T01:40:32.903Z",
+  "updatedAt": "2026-07-25T03:09:42.872Z",
   "items": [
     {
-      "time": "10:16",
-      "title": "米軍 イラン港湾巡りタンカー攻撃",
+      "time": "11:39",
+      "title": "セブン&i 東欧企業への出資見送り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589223?source=rss",
-      "publishedAt": "2026-07-25T01:16:16.000Z",
-      "xQuery": "米軍 イラン港湾巡りタンカー攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6589235?source=rss",
+      "publishedAt": "2026-07-25T02:39:58.000Z",
+      "xQuery": "セブン&i 東欧企業への出資見送り"
     },
     {
-      "time": "08:42",
-      "title": "27年度予算 概算要求基準案が判明",
+      "time": "11:10",
+      "title": "米軍 イラン港湾封鎖巡り商船攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589213?source=rss",
-      "publishedAt": "2026-07-24T23:42:33.000Z",
-      "xQuery": "27年度予算 概算要求基準案が判明"
+      "url": "https://news.yahoo.co.jp/pickup/6589233?source=rss",
+      "publishedAt": "2026-07-25T02:10:59.000Z",
+      "xQuery": "米軍 イラン港湾封鎖巡り商船攻撃"
     },
     {
-      "time": "09:48",
-      "title": "突然意識失った 熱中症の患者語る",
+      "time": "10:09",
+      "title": "感想文は自ら思考重視 文科省見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589220?source=rss",
-      "publishedAt": "2026-07-25T00:48:05.000Z",
-      "xQuery": "突然意識失った 熱中症の患者語る"
+      "url": "https://news.yahoo.co.jp/pickup/6589224?source=rss",
+      "publishedAt": "2026-07-25T01:09:33.000Z",
+      "xQuery": "感想文は自ら思考重視 文科省見解"
     },
     {
-      "time": "07:37",
-      "title": "中尾副議長が議員辞職 地元は憤り",
+      "time": "11:44",
+      "title": "実験的遺伝子治療後 中国6歳死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589200?source=rss",
-      "publishedAt": "2026-07-24T22:37:56.000Z",
-      "xQuery": "中尾副議長が議員辞職 地元は憤り"
+      "url": "https://news.yahoo.co.jp/pickup/6589236?source=rss",
+      "publishedAt": "2026-07-25T02:44:10.000Z",
+      "xQuery": "実験的遺伝子治療後 中国6歳死亡"
     },
     {
-      "time": "09:07",
-      "title": "女性死亡 ひき逃げ疑い運転手逮捕",
+      "time": "11:17",
+      "title": "妊娠出産が怖い トコフォビアとは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589217?source=rss",
-      "publishedAt": "2026-07-25T00:07:13.000Z",
-      "xQuery": "女性死亡 ひき逃げ疑い運転手逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6589230?source=rss",
+      "publishedAt": "2026-07-25T02:17:25.000Z",
+      "xQuery": "妊娠出産が怖い トコフォビアとは"
     }
   ]
 };
