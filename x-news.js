@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T12:56:18.452Z",
+  "updatedAt": "2026-07-25T13:35:21.744Z",
   "items": [
     {
-      "time": "16:45",
-      "title": "国会 政府提出法案の成立率100%",
+      "time": "18:12",
+      "title": "やまゆり園長「悲しみ癒えない」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589269?source=rss",
-      "publishedAt": "2026-07-25T07:45:40.000Z",
-      "xQuery": "国会 政府提出法案の成立率100%"
+      "url": "https://news.yahoo.co.jp/pickup/6589280?source=rss",
+      "publishedAt": "2026-07-25T09:12:21.000Z",
+      "xQuery": "やまゆり園長「悲しみ癒えない」"
+    },
+    {
+      "time": "22:03",
+      "title": "次期戦闘機 愛知が組み立て中核に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589310?source=rss",
+      "publishedAt": "2026-07-25T13:03:09.000Z",
+      "xQuery": "次期戦闘機 愛知が組み立て中核に"
     },
     {
       "time": "20:41",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "6人死亡事故「元気な姿返して」"
     },
     {
-      "time": "18:31",
-      "title": "切断遺体 事件後にノコギリ出品か",
+      "time": "21:16",
+      "title": "岡本公三容疑者 死因は肺の合併症",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589285?source=rss",
-      "publishedAt": "2026-07-25T09:31:22.000Z",
-      "xQuery": "切断遺体 事件後にノコギリ出品か"
-    },
-    {
-      "time": "15:34",
-      "title": "商社→タクシー運転手 給料倍以上",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589261?source=rss",
-      "publishedAt": "2026-07-25T06:34:28.000Z",
-      "xQuery": "商社→タクシー運転手 給料倍以上"
+      "url": "https://news.yahoo.co.jp/pickup/6589304?source=rss",
+      "publishedAt": "2026-07-25T12:16:38.000Z",
+      "xQuery": "岡本公三容疑者 死因は肺の合併症"
     }
   ]
 };

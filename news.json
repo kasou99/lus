@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T12:56:17.691Z",
+  "updatedAt": "2026-07-25T13:35:20.525Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,20 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
         "publishedAt": "2026-07-25T08:33:06.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "画像 | 工作機械受注｢年後半から半導体･EV向け本格化｣ 日工会1月会見リポート&稲葉会長質疑応答",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OU0pHc0VxS2taakE3VTVwcm5BRFNrRjhCMXl2WmlhTnRyaFVJMXRNT3FKRWc3YzBYYjZLcjhaQzRkTDdqQS1PVTBvelhiT213c21XX1pUbGp0TEZlQ0E?oc=5",
+        "publishedAt": "2026-07-24T21:00:00.000Z"
+      },
+      {
+        "time": "23:31",
+        "title": "機械技術夏号／海外製工作機械・ツーリング機器の技術動向と活用事例",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TbzBrZk1TSFo5NzBWTEtGLXphVFFQT3JIOHEwSHY1M051UXVkVGc5aDVCTkRCX3hrcFN6cmVoT1RObmM5cWw4RElleC00SmVMams5SXMyV1lwcW1nTnhSQ19xR3ZZay02MGpKR2ZzNA?oc=5",
+        "publishedAt": "2026-07-24T14:31:03.000Z"
       },
       {
         "time": "00:10",
@@ -43,20 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589235?source=rss",
         "publishedAt": "2026-07-25T02:39:58.000Z"
-      },
-      {
-        "time": "19:11",
-        "title": "ニチレイ 出荷業務などすべて復旧",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589173?source=rss",
-        "publishedAt": "2026-07-24T10:11:51.000Z"
-      },
-      {
-        "time": "17:47",
-        "title": "最賃で競争「チキンレース」の声",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589279?source=rss",
-        "publishedAt": "2026-07-25T08:47:05.000Z"
       }
     ],
     "worldHeadlines": [
