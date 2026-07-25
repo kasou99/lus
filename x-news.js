@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T13:35:21.744Z",
+  "updatedAt": "2026-07-25T14:35:12.760Z",
   "items": [
+    {
+      "time": "22:37",
+      "title": "陸自情報部隊 元隊員が実態を証言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589313?source=rss",
+      "publishedAt": "2026-07-25T13:37:10.000Z",
+      "xQuery": "陸自情報部隊 元隊員が実態を証言"
+    },
     {
       "time": "18:12",
       "title": "やまゆり園長「悲しみ癒えない」",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "次期戦闘機 愛知が組み立て中核に"
     },
     {
-      "time": "20:41",
-      "title": "副首都 大阪・福岡・愛知が名乗り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589298?source=rss",
-      "publishedAt": "2026-07-25T11:41:38.000Z",
-      "xQuery": "副首都 大阪・福岡・愛知が名乗り"
-    },
-    {
-      "time": "20:54",
-      "title": "6人死亡事故「元気な姿返して」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589300?source=rss",
-      "publishedAt": "2026-07-25T11:54:07.000Z",
-      "xQuery": "6人死亡事故「元気な姿返して」"
-    },
-    {
       "time": "21:16",
       "title": "岡本公三容疑者 死因は肺の合併症",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6589304?source=rss",
       "publishedAt": "2026-07-25T12:16:38.000Z",
       "xQuery": "岡本公三容疑者 死因は肺の合併症"
+    },
+    {
+      "time": "18:31",
+      "title": "切断遺体 事件後にノコギリ出品か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589285?source=rss",
+      "publishedAt": "2026-07-25T09:31:22.000Z",
+      "xQuery": "切断遺体 事件後にノコギリ出品か"
     }
   ]
 };
