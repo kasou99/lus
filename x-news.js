@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T11:29:52.481Z",
+  "updatedAt": "2026-07-25T11:57:38.635Z",
   "items": [
     {
       "time": "16:45",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "中道 内閣不信任案の提出を見送り"
     },
     {
+      "time": "20:41",
+      "title": "副首都 大阪・福岡・愛知が名乗り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589298?source=rss",
+      "publishedAt": "2026-07-25T11:41:38.000Z",
+      "xQuery": "副首都 大阪・福岡・愛知が名乗り"
+    },
+    {
       "time": "18:31",
       "title": "切断遺体 事件後にノコギリ出品か",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589291?source=rss",
       "publishedAt": "2026-07-25T10:53:25.000Z",
       "xQuery": "海で80歳死亡 孫らと訪れ溺れたか"
-    },
-    {
-      "time": "19:56",
-      "title": "伐採作業中に屋根から転落 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589293?source=rss",
-      "publishedAt": "2026-07-25T10:56:42.000Z",
-      "xQuery": "伐採作業中に屋根から転落 死亡"
     }
   ]
 };
