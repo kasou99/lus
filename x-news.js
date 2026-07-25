@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T09:37:22.638Z",
+  "updatedAt": "2026-07-25T10:34:36.927Z",
   "items": [
     {
-      "time": "17:05",
-      "title": "25日夕～都心周辺で激しい雨か",
+      "time": "15:55",
+      "title": "夕食会再び開催 トランプ氏が演説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589274?source=rss",
-      "publishedAt": "2026-07-25T08:05:47.000Z",
-      "xQuery": "25日夕～都心周辺で激しい雨か"
+      "url": "https://news.yahoo.co.jp/pickup/6589262?source=rss",
+      "publishedAt": "2026-07-25T06:55:29.000Z",
+      "xQuery": "夕食会再び開催 トランプ氏が演説"
     },
     {
       "time": "17:47",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "切断遺体 事件後にノコギリ出品か"
     },
     {
-      "time": "18:11",
-      "title": "輸送中2200万円落下 窃盗疑い逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589281?source=rss",
-      "publishedAt": "2026-07-25T09:11:36.000Z",
-      "xQuery": "輸送中2200万円落下 窃盗疑い逮捕"
-    },
-    {
       "time": "17:57",
       "title": "ジャングリア売上100億円超見通し",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6589278?source=rss",
       "publishedAt": "2026-07-25T08:57:45.000Z",
       "xQuery": "ジャングリア売上100億円超見通し"
+    },
+    {
+      "time": "15:34",
+      "title": "商社→タクシー運転手 給料倍以上",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589261?source=rss",
+      "publishedAt": "2026-07-25T06:34:28.000Z",
+      "xQuery": "商社→タクシー運転手 給料倍以上"
     }
   ]
 };
