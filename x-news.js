@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T05:56:10.672Z",
+  "updatedAt": "2026-07-25T06:56:11.266Z",
   "items": [
     {
       "time": "12:11",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "陸自部隊 身分隠し識者情報収集か"
     },
     {
-      "time": "14:00",
-      "title": "庭先で倒れた90代が死亡 熱中症か",
+      "time": "14:45",
+      "title": "植松聖死刑囚 事件から10年の手記",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589252?source=rss",
-      "publishedAt": "2026-07-25T05:00:44.000Z",
-      "xQuery": "庭先で倒れた90代が死亡 熱中症か"
+      "url": "https://news.yahoo.co.jp/pickup/6589257?source=rss",
+      "publishedAt": "2026-07-25T05:45:04.000Z",
+      "xQuery": "植松聖死刑囚 事件から10年の手記"
     },
     {
       "time": "14:42",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ジャングリア1年 来場者数100万人"
     },
     {
-      "time": "14:28",
-      "title": "市バスが信号無視 小2とぶつかる",
+      "time": "15:17",
+      "title": "従業員死亡 暴行疑いで経営者逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589254?source=rss",
-      "publishedAt": "2026-07-25T05:28:53.000Z",
-      "xQuery": "市バスが信号無視 小2とぶつかる"
+      "url": "https://news.yahoo.co.jp/pickup/6589258?source=rss",
+      "publishedAt": "2026-07-25T06:17:42.000Z",
+      "xQuery": "従業員死亡 暴行疑いで経営者逮捕"
     },
     {
-      "time": "12:48",
-      "title": "酷暑屋外でハンディファン 注意",
+      "time": "15:34",
+      "title": "商社→タクシー運転手 給料倍以上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589242?source=rss",
-      "publishedAt": "2026-07-25T03:48:57.000Z",
-      "xQuery": "酷暑屋外でハンディファン 注意"
+      "url": "https://news.yahoo.co.jp/pickup/6589261?source=rss",
+      "publishedAt": "2026-07-25T06:34:28.000Z",
+      "xQuery": "商社→タクシー運転手 給料倍以上"
     }
   ]
 };
