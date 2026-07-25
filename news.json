@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T21:49:47.290Z",
+  "updatedAt": "2026-07-25T22:22:24.456Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "07:18",
+        "title": "露 北朝鮮兵3万人追加受け入れか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589327?source=rss",
+        "publishedAt": "2026-07-25T22:18:20.000Z"
+      },
+      {
         "time": "20:28",
         "title": "仏「核の傘」拡大構想 相次ぐ賛同",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589277?source=rss",
         "publishedAt": "2026-07-25T08:35:39.000Z"
-      },
-      {
-        "time": "10:26",
-        "title": "ICC主任検察官を解任 性加害疑惑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589227?source=rss",
-        "publishedAt": "2026-07-25T01:26:45.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "18:12",
-        "title": "やまゆり園長「悲しみ癒えない」",
+        "time": "07:11",
+        "title": "花火が爆発 打ち上げ船の2人搬送",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589280?source=rss",
-        "publishedAt": "2026-07-25T09:12:21.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589325?source=rss",
+        "publishedAt": "2026-07-25T22:11:34.000Z"
       },
       {
         "time": "14:45",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-07-25T09:31:22.000Z"
       },
       {
-        "time": "19:53",
-        "title": "海で80歳死亡 孫らと訪れ溺れたか",
+        "time": "07:19",
+        "title": "11歳女児がはねられ重体 22歳逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589291?source=rss",
-        "publishedAt": "2026-07-25T10:53:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589326?source=rss",
+        "publishedAt": "2026-07-25T22:19:15.000Z"
       }
     ],
     "subsidyHeadlines": [

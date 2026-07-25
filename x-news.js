@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T21:49:48.188Z",
+  "updatedAt": "2026-07-25T22:22:25.565Z",
   "items": [
     {
       "time": "22:37",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "陸自情報部隊 元隊員が実態を証言"
     },
     {
-      "time": "20:28",
-      "title": "仏「核の傘」拡大構想 相次ぐ賛同",
+      "time": "07:18",
+      "title": "露 北朝鮮兵3万人追加受け入れか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589297?source=rss",
-      "publishedAt": "2026-07-25T11:28:16.000Z",
-      "xQuery": "仏「核の傘」拡大構想 相次ぐ賛同"
-    },
-    {
-      "time": "23:45",
-      "title": "内閣支持率下落 市民求める政策は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589323?source=rss",
-      "publishedAt": "2026-07-25T14:45:16.000Z",
-      "xQuery": "内閣支持率下落 市民求める政策は"
+      "url": "https://news.yahoo.co.jp/pickup/6589327?source=rss",
+      "publishedAt": "2026-07-25T22:18:20.000Z",
+      "xQuery": "露 北朝鮮兵3万人追加受け入れか"
     },
     {
       "time": "21:16",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "岡本公三容疑者 死因は肺の合併症"
     },
     {
-      "time": "18:31",
-      "title": "切断遺体 事件後にノコギリ出品か",
+      "time": "07:19",
+      "title": "11歳女児がはねられ重体 22歳逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589285?source=rss",
-      "publishedAt": "2026-07-25T09:31:22.000Z",
-      "xQuery": "切断遺体 事件後にノコギリ出品か"
+      "url": "https://news.yahoo.co.jp/pickup/6589326?source=rss",
+      "publishedAt": "2026-07-25T22:19:15.000Z",
+      "xQuery": "11歳女児がはねられ重体 22歳逮捕"
+    },
+    {
+      "time": "07:11",
+      "title": "花火が爆発 打ち上げ船の2人搬送",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589325?source=rss",
+      "publishedAt": "2026-07-25T22:11:34.000Z",
+      "xQuery": "花火が爆発 打ち上げ船の2人搬送"
     }
   ]
 };
