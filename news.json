@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T15:27:37.208Z",
+  "updatedAt": "2026-07-25T15:54:29.131Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
         "publishedAt": "2026-07-25T08:33:06.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "画像 | 工作機械受注｢年後半から半導体･EV向け本格化｣ 日工会1月会見リポート&稲葉会長質疑応答",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OU0pHc0VxS2taakE3VTVwcm5BRFNrRjhCMXl2WmlhTnRyaFVJMXRNT3FKRWc3YzBYYjZLcjhaQzRkTDdqQS1PVTBvelhiT213c21XX1pUbGp0TEZlQ0E?oc=5",
-        "publishedAt": "2026-07-24T21:00:00.000Z"
       },
       {
         "time": "04:38",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589309?source=rss",
         "publishedAt": "2026-07-25T12:49:15.000Z"
+      },
+      {
+        "time": "17:40",
+        "title": "Trip.comGに1250億円処分 中国",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589275?source=rss",
+        "publishedAt": "2026-07-25T08:40:04.000Z"
       }
     ],
     "worldHeadlines": [
