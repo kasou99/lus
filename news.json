@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-25T20:00:37.728Z",
+  "updatedAt": "2026-07-25T20:49:20.351Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "04:15",
+        "title": "米国301条関税、台湾は10％で日韓に優位 伝統産業7分野に転注商機 台湾経済部「最終税率は未定」",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yenBYejRROGxrb2hkVU5IQlV5X2kxRXl2M2FQMXRYRnd6MzItX3JXdUJtSjZKSmx5TDE4bHZyVmVCT1Atb2FxQllmOGR5SjZHSGxfNUNjOUZnUXJpVlhjX2RDanpVQkJieTZlTGt3Z0hiX2pD?oc=5",
+        "publishedAt": "2026-07-25T19:15:00.000Z"
+      },
       {
         "time": "17:33",
         "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589275?source=rss",
         "publishedAt": "2026-07-25T08:40:04.000Z"
-      },
-      {
-        "time": "15:34",
-        "title": "商社→タクシー運転手 給料倍以上",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589261?source=rss",
-        "publishedAt": "2026-07-25T06:34:28.000Z"
       }
     ],
     "worldHeadlines": [
