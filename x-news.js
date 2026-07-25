@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-24T23:52:17.933Z",
+  "updatedAt": "2026-07-25T00:48:46.194Z",
   "items": [
     {
       "time": "07:56",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "40℃予想も 初の5日連続酷暑日か"
     },
     {
-      "time": "07:29",
-      "title": "ゼロパンダ解消困難 日中関係悪化",
+      "time": "08:42",
+      "title": "27年度予算 概算要求基準案が判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589198?source=rss",
-      "publishedAt": "2026-07-24T22:29:24.000Z",
-      "xQuery": "ゼロパンダ解消困難 日中関係悪化"
+      "url": "https://news.yahoo.co.jp/pickup/6589213?source=rss",
+      "publishedAt": "2026-07-24T23:42:33.000Z",
+      "xQuery": "27年度予算 概算要求基準案が判明"
     },
     {
       "time": "07:37",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中尾副議長が議員辞職 地元は憤り"
     },
     {
-      "time": "07:29",
-      "title": "台船に女性遺体 夫の遺体見つかる",
+      "time": "09:07",
+      "title": "女性死亡 ひき逃げ疑い運転手逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589199?source=rss",
-      "publishedAt": "2026-07-24T22:29:47.000Z",
-      "xQuery": "台船に女性遺体 夫の遺体見つかる"
+      "url": "https://news.yahoo.co.jp/pickup/6589217?source=rss",
+      "publishedAt": "2026-07-25T00:07:13.000Z",
+      "xQuery": "女性死亡 ひき逃げ疑い運転手逮捕"
     }
   ]
 };
