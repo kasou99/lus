@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T19:30:01.766Z",
+  "updatedAt": "2026-07-25T20:00:37.728Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "東洋経済オンライン",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OU0pHc0VxS2taakE3VTVwcm5BRFNrRjhCMXl2WmlhTnRyaFVJMXRNT3FKRWc3YzBYYjZLcjhaQzRkTDdqQS1PVTBvelhiT213c21XX1pUbGp0TEZlQ0E?oc=5",
         "publishedAt": "2026-07-24T21:00:00.000Z"
-      },
-      {
-        "time": "04:38",
-        "title": "デジタルツイン、産業競争力向上 中部圏で推進組織発足",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lT3hRTFVERjBObnhCZlBIam5IaDROR0lKQ2cyYXktVk9JSGk0MkVRRXpoVF9NZF9CQzUtWFJCZGh6T0VIamNJYXBmWEYtaGZfaGxzaGJReFZxbzg?oc=5",
-        "publishedAt": "2026-07-24T19:38:55.000Z"
       },
       {
         "time": "11:39",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589275?source=rss",
         "publishedAt": "2026-07-25T08:40:04.000Z"
+      },
+      {
+        "time": "15:34",
+        "title": "商社→タクシー運転手 給料倍以上",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589261?source=rss",
+        "publishedAt": "2026-07-25T06:34:28.000Z"
       }
     ],
     "worldHeadlines": [
