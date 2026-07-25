@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T22:22:25.565Z",
+  "updatedAt": "2026-07-25T22:49:41.569Z",
   "items": [
     {
-      "time": "22:37",
-      "title": "陸自情報部隊 元隊員が実態を証言",
+      "time": "07:23",
+      "title": "九州～東海 体温超えるような暑さ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589313?source=rss",
-      "publishedAt": "2026-07-25T13:37:10.000Z",
-      "xQuery": "陸自情報部隊 元隊員が実態を証言"
+      "url": "https://news.yahoo.co.jp/pickup/6589329?source=rss",
+      "publishedAt": "2026-07-25T22:23:00.000Z",
+      "xQuery": "九州～東海 体温超えるような暑さ"
     },
     {
       "time": "07:18",
