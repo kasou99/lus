@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T03:09:42.872Z",
+  "updatedAt": "2026-07-25T04:36:04.353Z",
   "items": [
     {
-      "time": "11:39",
-      "title": "セブン&i 東欧企業への出資見送り",
+      "time": "13:07",
+      "title": "5日連続の酷暑日 過去最長を更新",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589235?source=rss",
-      "publishedAt": "2026-07-25T02:39:58.000Z",
-      "xQuery": "セブン&i 東欧企業への出資見送り"
+      "url": "https://news.yahoo.co.jp/pickup/6589246?source=rss",
+      "publishedAt": "2026-07-25T04:07:12.000Z",
+      "xQuery": "5日連続の酷暑日 過去最長を更新"
     },
     {
-      "time": "11:10",
-      "title": "米軍 イラン港湾封鎖巡り商船攻撃",
+      "time": "08:04",
+      "title": "副首都法2票差で成立 野党は反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589233?source=rss",
-      "publishedAt": "2026-07-25T02:10:59.000Z",
-      "xQuery": "米軍 イラン港湾封鎖巡り商船攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6589202?source=rss",
+      "publishedAt": "2026-07-24T23:04:50.000Z",
+      "xQuery": "副首都法2票差で成立 野党は反発"
     },
     {
-      "time": "10:09",
-      "title": "感想文は自ら思考重視 文科省見解",
+      "time": "13:13",
+      "title": "やまゆり園事件 美帆さん母の願い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589224?source=rss",
-      "publishedAt": "2026-07-25T01:09:33.000Z",
-      "xQuery": "感想文は自ら思考重視 文科省見解"
+      "url": "https://news.yahoo.co.jp/pickup/6589243?source=rss",
+      "publishedAt": "2026-07-25T04:13:02.000Z",
+      "xQuery": "やまゆり園事件 美帆さん母の願い"
+    },
+    {
+      "time": "12:48",
+      "title": "酷暑屋外でハンディファン 注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589242?source=rss",
+      "publishedAt": "2026-07-25T03:48:57.000Z",
+      "xQuery": "酷暑屋外でハンディファン 注意"
     },
     {
       "time": "11:44",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589236?source=rss",
       "publishedAt": "2026-07-25T02:44:10.000Z",
       "xQuery": "実験的遺伝子治療後 中国6歳死亡"
-    },
-    {
-      "time": "11:17",
-      "title": "妊娠出産が怖い トコフォビアとは",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589230?source=rss",
-      "publishedAt": "2026-07-25T02:17:25.000Z",
-      "xQuery": "妊娠出産が怖い トコフォビアとは"
     }
   ]
 };
