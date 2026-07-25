@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T04:36:03.436Z",
+  "updatedAt": "2026-07-25T05:56:10.040Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-07-24T14:31:03.000Z"
       },
       {
-        "time": "14:30",
+        "time": "00:10",
         "title": "Green AI、タイ設備保全管理システム最大手のFactoriumと業務提携覚書（MOU）を締結",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDN2FUTC1yZlVRRzBZV2QzeDBtd3RWZnN2dWtFWWZwMXptZ2plNl9GU2tucnl3Q0lNNVhtTldPZ2dLdFQtdFB6bktUbXpxWG9fOFJJRUVwb21PSlFSamFhX2NJQlR5Z0pldG01NlV3RnlseTBfZGc?oc=5",
-        "publishedAt": "2026-07-24T05:30:29.000Z"
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3VHdpNnZJYTZJMmZqQzVGY09JWWpvZDhHX0dBTHc3SEZkbGFWMWpsWFVwMGRHRDRGWjZHZ0FqZXFFVlVWRFA1YTBmME1pNGtWdXJwdElDN1VlVGROcWM5MUt1aEJzUElyTjEw?oc=5",
+        "publishedAt": "2026-07-24T15:10:00.000Z"
       },
       {
         "time": "04:38",
@@ -29,6 +29,13 @@
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xZUptT1dyMlVHaWtMY2tsWGpnZXBGZ09lMTctdVBWbG83UmNnS1FTUXJVRzBrWVI1SWZiNjRkQzFDb1hhMWJRT0FtSUF0aFNrU0FBZkFzejMzZEFkUjJXN2pIOENpUEVOYjJXbE9lVURCdw?oc=5",
         "publishedAt": "2026-07-24T06:03:08.000Z"
+      },
+      {
+        "time": "00:10",
+        "title": "日本製鉄発のスタートアップＫＡＭＡＭＥＳＨＩ、大田区実証実験・実装促進事業「HOIP」で2年目の実証実験を開始",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12Tk5ZMlNCWHRaNzg5RUxHbkFlc0NaTjdpeHRQLXhXVDhBcUw2WGtsSUxuMERVMmtBTHhhMDJSdTN2NnJWd2JNLTc2eEo1SDRUc1NWRWtOSS1BblpuamdsT3ZPcUo5YzBaZTVZ?oc=5",
+        "publishedAt": "2026-07-24T15:10:00.000Z"
       },
       {
         "time": "15:03",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qdllKSUhoajhXVmlmcFdMaDJaRmJPamRlY0xHT3RKLTZpdlRZaTFUNHF3N0lsZklLN1dqVUpfM3htUzdsd2ctaXFiSWtKcS1CR2t5emc4dzVHMjA?oc=5",
         "publishedAt": "2026-07-24T16:52:30.000Z"
-      },
-      {
-        "time": "17:00",
-        "title": "シムトップス、点検・測量ドローンから空間データプラットフォームまでを手掛けるLiberawareと業務提携に関する覚書を締結",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zM3pkZUhRQU44TVVhU3dUUHlseS1feTRONUQydkNKZzRaNTZTdHpldlM5ZnVmV3lZbGF5dkJjVFJ2ZHhLVFVLNHNaUllVT0IzbDFiMW9OZm85QU9HVG03UVJNQlVmaVU0N1BkUnpacGFTdzdPb3FNYi1VWQ?oc=5",
-        "publishedAt": "2026-07-24T08:00:29.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,21 +133,28 @@
         "publishedAt": "2026-07-24T06:11:53.000Z"
       },
       {
+        "time": "14:42",
+        "title": "ジャングリア1年 来場者数100万人",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589256?source=rss",
+        "publishedAt": "2026-07-25T05:42:15.000Z"
+      },
+      {
         "time": "18:37",
         "title": "いよぎんHDと愛媛銀 来年4月統合",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589170?source=rss",
         "publishedAt": "2026-07-24T09:37:37.000Z"
-      },
-      {
-        "time": "16:19",
-        "title": "コメの民間在庫 適正量を大幅超過",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589152?source=rss",
-        "publishedAt": "2026-07-24T07:19:28.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "14:45",
+        "title": "植松聖死刑囚 事件から10年の手記",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589257?source=rss",
+        "publishedAt": "2026-07-25T05:45:04.000Z"
+      },
       {
         "time": "13:13",
         "title": "やまゆり園事件 美帆さん母の願い",
@@ -163,6 +170,13 @@
         "publishedAt": "2026-07-24T22:37:56.000Z"
       },
       {
+        "time": "14:48",
+        "title": "辞職の副議長 蔵内議長を支えたい",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589255?source=rss",
+        "publishedAt": "2026-07-25T05:48:19.000Z"
+      },
+      {
         "time": "07:29",
         "title": "台船に女性遺体 夫の遺体見つかる",
         "source": "Yahoo!ニュース",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-07-24T22:29:47.000Z"
       },
       {
-        "time": "22:45",
-        "title": "霧島市の遺体は不明男児 父親胸中",
+        "time": "14:00",
+        "title": "庭先で倒れた90代が死亡 熱中症か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589185?source=rss",
-        "publishedAt": "2026-07-24T13:45:18.000Z"
-      },
-      {
-        "time": "09:07",
-        "title": "女性死亡 ひき逃げ疑い運転手逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589217?source=rss",
-        "publishedAt": "2026-07-25T00:07:13.000Z"
-      },
-      {
-        "time": "19:06",
-        "title": "湖で男性死亡 近くにSUPボード",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589172?source=rss",
-        "publishedAt": "2026-07-24T10:06:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589252?source=rss",
+        "publishedAt": "2026-07-25T05:00:44.000Z"
       }
     ],
     "subsidyHeadlines": [

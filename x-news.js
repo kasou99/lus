@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T04:36:04.353Z",
+  "updatedAt": "2026-07-25T05:56:10.672Z",
   "items": [
     {
-      "time": "13:07",
-      "title": "5日連続の酷暑日 過去最長を更新",
+      "time": "12:11",
+      "title": "陸自部隊 身分隠し識者情報収集か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589246?source=rss",
-      "publishedAt": "2026-07-25T04:07:12.000Z",
-      "xQuery": "5日連続の酷暑日 過去最長を更新"
+      "url": "https://news.yahoo.co.jp/pickup/6589239?source=rss",
+      "publishedAt": "2026-07-25T03:11:21.000Z",
+      "xQuery": "陸自部隊 身分隠し識者情報収集か"
     },
     {
-      "time": "08:04",
-      "title": "副首都法2票差で成立 野党は反発",
+      "time": "14:00",
+      "title": "庭先で倒れた90代が死亡 熱中症か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589202?source=rss",
-      "publishedAt": "2026-07-24T23:04:50.000Z",
-      "xQuery": "副首都法2票差で成立 野党は反発"
+      "url": "https://news.yahoo.co.jp/pickup/6589252?source=rss",
+      "publishedAt": "2026-07-25T05:00:44.000Z",
+      "xQuery": "庭先で倒れた90代が死亡 熱中症か"
     },
     {
-      "time": "13:13",
-      "title": "やまゆり園事件 美帆さん母の願い",
+      "time": "14:42",
+      "title": "ジャングリア1年 来場者数100万人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589243?source=rss",
-      "publishedAt": "2026-07-25T04:13:02.000Z",
-      "xQuery": "やまゆり園事件 美帆さん母の願い"
+      "url": "https://news.yahoo.co.jp/pickup/6589256?source=rss",
+      "publishedAt": "2026-07-25T05:42:15.000Z",
+      "xQuery": "ジャングリア1年 来場者数100万人"
+    },
+    {
+      "time": "14:28",
+      "title": "市バスが信号無視 小2とぶつかる",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589254?source=rss",
+      "publishedAt": "2026-07-25T05:28:53.000Z",
+      "xQuery": "市バスが信号無視 小2とぶつかる"
     },
     {
       "time": "12:48",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589242?source=rss",
       "publishedAt": "2026-07-25T03:48:57.000Z",
       "xQuery": "酷暑屋外でハンディファン 注意"
-    },
-    {
-      "time": "11:44",
-      "title": "実験的遺伝子治療後 中国6歳死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589236?source=rss",
-      "publishedAt": "2026-07-25T02:44:10.000Z",
-      "xQuery": "実験的遺伝子治療後 中国6歳死亡"
     }
   ]
 };
