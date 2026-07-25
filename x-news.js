@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T10:34:36.927Z",
+  "updatedAt": "2026-07-25T11:29:52.481Z",
   "items": [
     {
-      "time": "15:55",
-      "title": "夕食会再び開催 トランプ氏が演説",
+      "time": "16:45",
+      "title": "国会 政府提出法案の成立率100%",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589262?source=rss",
-      "publishedAt": "2026-07-25T06:55:29.000Z",
-      "xQuery": "夕食会再び開催 トランプ氏が演説"
+      "url": "https://news.yahoo.co.jp/pickup/6589269?source=rss",
+      "publishedAt": "2026-07-25T07:45:40.000Z",
+      "xQuery": "国会 政府提出法案の成立率100%"
     },
     {
-      "time": "17:47",
-      "title": "最賃で競争「チキンレース」の声",
+      "time": "19:27",
+      "title": "中道 内閣不信任案の提出を見送り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589279?source=rss",
-      "publishedAt": "2026-07-25T08:47:05.000Z",
-      "xQuery": "最賃で競争「チキンレース」の声"
+      "url": "https://news.yahoo.co.jp/pickup/6589288?source=rss",
+      "publishedAt": "2026-07-25T10:27:51.000Z",
+      "xQuery": "中道 内閣不信任案の提出を見送り"
     },
     {
       "time": "18:31",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "切断遺体 事件後にノコギリ出品か"
     },
     {
-      "time": "17:57",
-      "title": "ジャングリア売上100億円超見通し",
+      "time": "19:53",
+      "title": "海で80歳死亡 孫らと訪れ溺れたか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589278?source=rss",
-      "publishedAt": "2026-07-25T08:57:45.000Z",
-      "xQuery": "ジャングリア売上100億円超見通し"
+      "url": "https://news.yahoo.co.jp/pickup/6589291?source=rss",
+      "publishedAt": "2026-07-25T10:53:25.000Z",
+      "xQuery": "海で80歳死亡 孫らと訪れ溺れたか"
     },
     {
-      "time": "15:34",
-      "title": "商社→タクシー運転手 給料倍以上",
+      "time": "19:56",
+      "title": "伐採作業中に屋根から転落 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589261?source=rss",
-      "publishedAt": "2026-07-25T06:34:28.000Z",
-      "xQuery": "商社→タクシー運転手 給料倍以上"
+      "url": "https://news.yahoo.co.jp/pickup/6589293?source=rss",
+      "publishedAt": "2026-07-25T10:56:42.000Z",
+      "xQuery": "伐採作業中に屋根から転落 死亡"
     }
   ]
 };

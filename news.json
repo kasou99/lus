@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-07-25T10:34:36.058Z",
+  "updatedAt": "2026-07-25T11:29:51.703Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "06:00",
-        "title": "画像 | 工作機械受注｢年後半から半導体･EV向け本格化｣ 日工会1月会見リポート&稲葉会長質疑応答",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OU0pHc0VxS2taakE3VTVwcm5BRFNrRjhCMXl2WmlhTnRyaFVJMXRNT3FKRWc3YzBYYjZLcjhaQzRkTDdqQS1PVTBvelhiT213c21XX1pUbGp0TEZlQ0E?oc=5",
-        "publishedAt": "2026-07-24T21:00:00.000Z"
-      },
-      {
-        "time": "04:38",
-        "title": "デジタルツイン、産業競争力向上 中部圏で推進組織発足",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lT3hRTFVERjBObnhCZlBIam5IaDROR0lKQ2cyYXktVk9JSGk0MkVRRXpoVF9NZF9CQzUtWFJCZGh6T0VIamNJYXBmWEYtaGZfaGxzaGJReFZxbzg?oc=5",
-        "publishedAt": "2026-07-24T19:38:55.000Z"
+        "time": "17:33",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-07-25T08:33:06.000Z"
       },
       {
         "time": "00:10",
@@ -29,6 +22,13 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12Tk5ZMlNCWHRaNzg5RUxHbkFlc0NaTjdpeHRQLXhXVDhBcUw2WGtsSUxuMERVMmtBTHhhMDJSdTN2NnJWd2JNLTc2eEo1SDRUc1NWRWtOSS1BblpuamdsT3ZPcUo5YzBaZTVZ?oc=5",
         "publishedAt": "2026-07-24T15:10:00.000Z"
+      },
+      {
+        "time": "04:38",
+        "title": "デジタルツイン、産業競争力向上 中部圏で推進組織発足",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lT3hRTFVERjBObnhCZlBIam5IaDROR0lKQ2cyYXktVk9JSGk0MkVRRXpoVF9NZF9CQzUtWFJCZGh6T0VIamNJYXBmWEYtaGZfaGxzaGJReFZxbzg?oc=5",
+        "publishedAt": "2026-07-24T19:38:55.000Z"
       },
       {
         "time": "01:52",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-07-25T06:17:42.000Z"
       },
       {
-        "time": "18:11",
-        "title": "輸送中2200万円落下 窃盗疑い逮捕",
+        "time": "19:56",
+        "title": "伐採作業中に屋根から転落 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589281?source=rss",
-        "publishedAt": "2026-07-25T09:11:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589293?source=rss",
+        "publishedAt": "2026-07-25T10:56:42.000Z"
       }
     ],
     "subsidyHeadlines": [
