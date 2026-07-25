@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T00:48:46.194Z",
+  "updatedAt": "2026-07-25T01:40:32.903Z",
   "items": [
     {
-      "time": "07:56",
-      "title": "トランプ氏 EUに「高関税」警告",
+      "time": "10:16",
+      "title": "米軍 イラン港湾巡りタンカー攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589204?source=rss",
-      "publishedAt": "2026-07-24T22:56:41.000Z",
-      "xQuery": "トランプ氏 EUに「高関税」警告"
-    },
-    {
-      "time": "07:44",
-      "title": "40℃予想も 初の5日連続酷暑日か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589201?source=rss",
-      "publishedAt": "2026-07-24T22:44:57.000Z",
-      "xQuery": "40℃予想も 初の5日連続酷暑日か"
+      "url": "https://news.yahoo.co.jp/pickup/6589223?source=rss",
+      "publishedAt": "2026-07-25T01:16:16.000Z",
+      "xQuery": "米軍 イラン港湾巡りタンカー攻撃"
     },
     {
       "time": "08:42",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589213?source=rss",
       "publishedAt": "2026-07-24T23:42:33.000Z",
       "xQuery": "27年度予算 概算要求基準案が判明"
+    },
+    {
+      "time": "09:48",
+      "title": "突然意識失った 熱中症の患者語る",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589220?source=rss",
+      "publishedAt": "2026-07-25T00:48:05.000Z",
+      "xQuery": "突然意識失った 熱中症の患者語る"
     },
     {
       "time": "07:37",
