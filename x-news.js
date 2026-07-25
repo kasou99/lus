@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T11:57:38.635Z",
+  "updatedAt": "2026-07-25T12:28:47.320Z",
   "items": [
     {
       "time": "16:45",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "国会 政府提出法案の成立率100%"
     },
     {
-      "time": "19:27",
-      "title": "中道 内閣不信任案の提出を見送り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589288?source=rss",
-      "publishedAt": "2026-07-25T10:27:51.000Z",
-      "xQuery": "中道 内閣不信任案の提出を見送り"
-    },
-    {
       "time": "20:41",
       "title": "副首都 大阪・福岡・愛知が名乗り",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6589298?source=rss",
       "publishedAt": "2026-07-25T11:41:38.000Z",
       "xQuery": "副首都 大阪・福岡・愛知が名乗り"
+    },
+    {
+      "time": "20:54",
+      "title": "6人死亡事故「元気な姿返して」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589300?source=rss",
+      "publishedAt": "2026-07-25T11:54:07.000Z",
+      "xQuery": "6人死亡事故「元気な姿返して」"
     },
     {
       "time": "18:31",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "切断遺体 事件後にノコギリ出品か"
     },
     {
-      "time": "19:53",
-      "title": "海で80歳死亡 孫らと訪れ溺れたか",
+      "time": "15:34",
+      "title": "商社→タクシー運転手 給料倍以上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589291?source=rss",
-      "publishedAt": "2026-07-25T10:53:25.000Z",
-      "xQuery": "海で80歳死亡 孫らと訪れ溺れたか"
+      "url": "https://news.yahoo.co.jp/pickup/6589261?source=rss",
+      "publishedAt": "2026-07-25T06:34:28.000Z",
+      "xQuery": "商社→タクシー運転手 給料倍以上"
     }
   ]
 };
