@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T06:56:10.405Z",
+  "updatedAt": "2026-07-25T07:43:25.703Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,8 +12,15 @@
       {
         "time": "00:10",
         "title": "Green AI、タイ設備保全管理システム最大手のFactoriumと業務提携覚書（MOU）を締結",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUYXBKSmhaYkc1SGs2d0dHZGlYLVZ4UkpNVWZVendZR0xBaWRha0dBb3V1Uk9CRnhpSWZZQ3hkTUhMZ0dGRGtzbWRtV2NRYUxaYXpaekN2bzY0blhPaHR4SWJPU2xjVmdvalhoLWFVYzYwLXhw?oc=5",
+        "publishedAt": "2026-07-24T15:10:00.000Z"
+      },
+      {
+        "time": "00:10",
+        "title": "日本製鉄発のスタートアップＫＡＭＡＭＥＳＨＩ、大田区実証実験・実装促進事業「HOIP」で2年目の実証実験を開始",
         "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3VHdpNnZJYTZJMmZqQzVGY09JWWpvZDhHX0dBTHc3SEZkbGFWMWpsWFVwMGRHRDRGWjZHZ0FqZXFFVlVWRFA1YTBmME1pNGtWdXJwdElDN1VlVGROcWM5MUt1aEJzUElyTjEw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12Tk5ZMlNCWHRaNzg5RUxHbkFlc0NaTjdpeHRQLXhXVDhBcUw2WGtsSUxuMERVMmtBTHhhMDJSdTN2NnJWd2JNLTc2eEo1SDRUc1NWRWtOSS1BblpuamdsT3ZPcUo5YzBaZTVZ?oc=5",
         "publishedAt": "2026-07-24T15:10:00.000Z"
       },
       {
@@ -29,13 +36,6 @@
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1d4VDNmWkg3N3lGZURMVTU3ekN1Z0F6OEV5WHRLTDRiQnpTNXFZWE1nMGJGMXdtcE9SME5iNjBaVGJnbzhGLWRfX2hCRFdxbm5OaGZ2am4zbEFDT2Qya2VzZC1ydnZzWEhuTi1oZ2FmRGhzTThaY3dfbVI3T2Q4Mjlha1pKc0E?oc=5",
         "publishedAt": "2026-07-24T10:00:00.000Z"
-      },
-      {
-        "time": "00:10",
-        "title": "日本製鉄発のスタートアップＫＡＭＡＭＥＳＨＩ、大田区実証実験・実装促進事業「HOIP」で2年目の実証実験を開始",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12Tk5ZMlNCWHRaNzg5RUxHbkFlc0NaTjdpeHRQLXhXVDhBcUw2WGtsSUxuMERVMmtBTHhhMDJSdTN2NnJWd2JNLTc2eEo1SDRUc1NWRWtOSS1BblpuamdsT3ZPcUo5YzBaZTVZ?oc=5",
-        "publishedAt": "2026-07-24T15:10:00.000Z"
       },
       {
         "time": "01:52",
@@ -82,6 +82,13 @@
         "publishedAt": "2026-07-24T04:36:20.000Z"
       },
       {
+        "time": "15:55",
+        "title": "夕食会再び開催 トランプ氏が演説",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589262?source=rss",
+        "publishedAt": "2026-07-25T06:55:29.000Z"
+      },
+      {
         "time": "20:39",
         "title": "ベネズエラ地震1カ月 死者5300人",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589227?source=rss",
         "publishedAt": "2026-07-25T01:26:45.000Z"
-      },
-      {
-        "time": "09:46",
-        "title": "露の最新鋭機「スホイ57」墜落か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589107?source=rss",
-        "publishedAt": "2026-07-24T00:46:02.000Z"
       }
     ],
     "economyHeadlines": [

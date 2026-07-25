@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T06:56:11.266Z",
+  "updatedAt": "2026-07-25T07:43:26.400Z",
   "items": [
     {
-      "time": "12:11",
-      "title": "陸自部隊 身分隠し識者情報収集か",
+      "time": "15:09",
+      "title": "防災庁の地方拠点要望 全国45団体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589239?source=rss",
-      "publishedAt": "2026-07-25T03:11:21.000Z",
-      "xQuery": "陸自部隊 身分隠し識者情報収集か"
+      "url": "https://news.yahoo.co.jp/pickup/6589259?source=rss",
+      "publishedAt": "2026-07-25T06:09:52.000Z",
+      "xQuery": "防災庁の地方拠点要望 全国45団体"
     },
     {
       "time": "14:45",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "植松聖死刑囚 事件から10年の手記"
     },
     {
-      "time": "14:42",
-      "title": "ジャングリア1年 来場者数100万人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589256?source=rss",
-      "publishedAt": "2026-07-25T05:42:15.000Z",
-      "xQuery": "ジャングリア1年 来場者数100万人"
-    },
-    {
       "time": "15:17",
       "title": "従業員死亡 暴行疑いで経営者逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6589258?source=rss",
       "publishedAt": "2026-07-25T06:17:42.000Z",
       "xQuery": "従業員死亡 暴行疑いで経営者逮捕"
+    },
+    {
+      "time": "14:42",
+      "title": "ジャングリア1年 来場者数100万人",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589256?source=rss",
+      "publishedAt": "2026-07-25T05:42:15.000Z",
+      "xQuery": "ジャングリア1年 来場者数100万人"
     },
     {
       "time": "15:34",
