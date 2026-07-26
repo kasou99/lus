@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T00:52:27.588Z",
+  "updatedAt": "2026-07-26T01:39:42.014Z",
   "items": [
     {
-      "time": "07:54",
-      "title": "相模原殺傷 道半ばの障害者理解",
+      "time": "09:19",
+      "title": "米大統領 イラン空爆中止を指示か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589333?source=rss",
-      "publishedAt": "2026-07-25T22:54:04.000Z",
-      "xQuery": "相模原殺傷 道半ばの障害者理解"
-    },
-    {
-      "time": "08:13",
-      "title": "独LGBTQ祭典 車突っ込み1人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589336?source=rss",
-      "publishedAt": "2026-07-25T23:13:42.000Z",
-      "xQuery": "独LGBTQ祭典 車突っ込み1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589345?source=rss",
+      "publishedAt": "2026-07-26T00:19:04.000Z",
+      "xQuery": "米大統領 イラン空爆中止を指示か"
     },
     {
       "time": "08:34",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "カザフ大統領 露に侵攻凍結を進言"
     },
     {
+      "time": "07:54",
+      "title": "相模原殺傷 道半ばの障害者理解",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589333?source=rss",
+      "publishedAt": "2026-07-25T22:54:04.000Z",
+      "xQuery": "相模原殺傷 道半ばの障害者理解"
+    },
+    {
+      "time": "10:02",
+      "title": "限界と言われた台風予測 AIで激変",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589347?source=rss",
+      "publishedAt": "2026-07-26T01:02:02.000Z",
+      "xQuery": "限界と言われた台風予測 AIで激変"
+    },
+    {
       "time": "09:04",
       "title": "車が逆走か オートバイの男性死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6589343?source=rss",
       "publishedAt": "2026-07-26T00:04:11.000Z",
       "xQuery": "車が逆走か オートバイの男性死亡"
-    },
-    {
-      "time": "07:11",
-      "title": "花火が爆発 打ち上げ船の2人搬送",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589325?source=rss",
-      "publishedAt": "2026-07-25T22:11:34.000Z",
-      "xQuery": "花火が爆発 打ち上げ船の2人搬送"
     }
   ]
 };

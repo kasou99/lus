@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T00:52:26.578Z",
+  "updatedAt": "2026-07-26T01:39:41.231Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,6 +163,13 @@
         "publishedAt": "2026-07-25T05:45:04.000Z"
       },
       {
+        "time": "10:21",
+        "title": "江別暴行死 殺人になると母に連絡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589350?source=rss",
+        "publishedAt": "2026-07-26T01:21:59.000Z"
+      },
+      {
         "time": "09:04",
         "title": "車が逆走か オートバイの男性死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589334?source=rss",
         "publishedAt": "2026-07-25T23:10:03.000Z"
-      },
-      {
-        "time": "23:06",
-        "title": "強気一変 福岡県副議長辞職の裏側",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589321?source=rss",
-        "publishedAt": "2026-07-25T14:06:05.000Z"
       }
     ],
     "subsidyHeadlines": [
