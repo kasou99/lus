@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T23:23:51.039Z",
+  "updatedAt": "2026-07-26T23:50:46.302Z",
   "items": [
     {
       "time": "06:46",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高市内閣支持率が急落57% 読売"
     },
     {
-      "time": "07:37",
-      "title": "イスラエル首相 NY訪問に意欲",
+      "time": "08:07",
+      "title": "独LGBTQ祭典襲撃 容疑者が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589439?source=rss",
-      "publishedAt": "2026-07-26T22:37:52.000Z",
-      "xQuery": "イスラエル首相 NY訪問に意欲"
+      "url": "https://news.yahoo.co.jp/pickup/6589443?source=rss",
+      "publishedAt": "2026-07-26T23:07:33.000Z",
+      "xQuery": "独LGBTQ祭典襲撃 容疑者が死亡"
     },
     {
       "time": "06:55",
