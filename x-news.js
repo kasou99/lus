@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T06:04:23.112Z",
+  "updatedAt": "2026-07-26T07:25:12.829Z",
   "items": [
     {
       "time": "13:06",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "親子ら3人海に流され父死亡 茨城"
     },
     {
-      "time": "14:03",
-      "title": "Joshin導入「ピース」で勤怠打刻",
+      "time": "14:59",
+      "title": "梨5000個盗難被害 農家に支援の輪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589372?source=rss",
-      "publishedAt": "2026-07-26T05:03:58.000Z",
-      "xQuery": "Joshin導入「ピース」で勤怠打刻"
+      "url": "https://news.yahoo.co.jp/pickup/6589378?source=rss",
+      "publishedAt": "2026-07-26T05:59:15.000Z",
+      "xQuery": "梨5000個盗難被害 農家に支援の輪"
     }
   ]
 };

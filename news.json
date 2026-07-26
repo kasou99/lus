@@ -1,21 +1,7 @@
 {
-  "updatedAt": "2026-07-26T06:04:22.507Z",
+  "updatedAt": "2026-07-26T07:25:04.252Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "04:15",
-        "title": "米国301条関税、台湾は10％で日韓に優位 伝統産業7分野に転注商機 台湾経済部「最終税率は未定」",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yenBYejRROGxrb2hkVU5IQlV5X2kxRXl2M2FQMXRYRnd6MzItX3JXdUJtSjZKSmx5TDE4bHZyVmVCT1Atb2FxQllmOGR5SjZHSGxfNUNjOUZnUXJpVlhjX2RDanpVQkJieTZlTGt3Z0hiX2pD?oc=5",
-        "publishedAt": "2026-07-25T19:15:00.000Z"
-      },
-      {
-        "time": "17:33",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-07-25T08:33:06.000Z"
-      },
       {
         "time": "11:39",
         "title": "セブン&i 東欧企業への出資見送り",
@@ -24,11 +10,11 @@
         "publishedAt": "2026-07-25T02:39:58.000Z"
       },
       {
-        "time": "19:11",
-        "title": "ニチレイ 出荷業務などすべて復旧",
+        "time": "16:12",
+        "title": "ホンダ日産の次世代車 日産OS軸",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589173?source=rss",
-        "publishedAt": "2026-07-24T10:11:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589384?source=rss",
+        "publishedAt": "2026-07-26T07:12:14.000Z"
       },
       {
         "time": "17:47",
@@ -57,6 +43,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589261?source=rss",
         "publishedAt": "2026-07-25T06:34:28.000Z"
+      },
+      {
+        "time": "16:53",
+        "title": "かゆみ止め薬「ムヒ」 ギネス認定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589270?source=rss",
+        "publishedAt": "2026-07-25T07:53:52.000Z"
+      },
+      {
+        "time": "09:10",
+        "title": "GUに元マルニデザイナー 意図は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589215?source=rss",
+        "publishedAt": "2026-07-25T00:10:26.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,11 +112,11 @@
         "publishedAt": "2026-07-25T02:39:58.000Z"
       },
       {
-        "time": "19:11",
-        "title": "ニチレイ 出荷業務などすべて復旧",
+        "time": "16:12",
+        "title": "ホンダ日産の次世代車 日産OS軸",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589173?source=rss",
-        "publishedAt": "2026-07-24T10:11:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589384?source=rss",
+        "publishedAt": "2026-07-26T07:12:14.000Z"
       },
       {
         "time": "17:47",
@@ -215,20 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金のポイント解説",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-07-09T07:00:00.000Z"
-      },
-      {
-        "time": "16:00",
-        "title": "食洗機設置の設置で使える！省エネ住宅補助金",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wb3R6alFKeVRpMkVWVGpiMjRhdGVkZFhZZXRBTl8yeU5xTDlwMDQwelhkQ3hFSnNaMEszMjRYMl9VYjAxUi1xVzRzSEkwTWkxLXZhbndUWkpGUUg4aXY4V0VPSDQ?oc=5",
-        "publishedAt": "2026-06-30T07:00:00.000Z"
       }
     ]
   }
