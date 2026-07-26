@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T22:50:39.764Z",
+  "updatedAt": "2026-07-26T23:23:51.039Z",
   "items": [
     {
       "time": "06:46",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高市内閣支持率が急落57% 読売"
     },
     {
-      "time": "07:45",
-      "title": "イラン 米が攻撃停止なら報復停止",
+      "time": "07:37",
+      "title": "イスラエル首相 NY訪問に意欲",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589440?source=rss",
-      "publishedAt": "2026-07-26T22:45:44.000Z",
-      "xQuery": "イラン 米が攻撃停止なら報復停止"
+      "url": "https://news.yahoo.co.jp/pickup/6589439?source=rss",
+      "publishedAt": "2026-07-26T22:37:52.000Z",
+      "xQuery": "イスラエル首相 NY訪問に意欲"
     },
     {
       "time": "06:55",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "路上に寝ていたか 男性ひかれ死亡"
     },
     {
-      "time": "06:38",
-      "title": "富士山頂で台湾女性意識失う 搬送",
+      "time": "07:33",
+      "title": "低価格帯のかつや 客離れ進む訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589432?source=rss",
-      "publishedAt": "2026-07-26T21:38:37.000Z",
-      "xQuery": "富士山頂で台湾女性意識失う 搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6589436?source=rss",
+      "publishedAt": "2026-07-26T22:33:34.000Z",
+      "xQuery": "低価格帯のかつや 客離れ進む訳"
     }
   ]
 };
