@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T14:35:33.726Z",
+  "updatedAt": "2026-07-26T15:28:05.498Z",
   "items": [
     {
       "time": "22:20",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "強気貫く首相国会運営 身内も異論"
     },
     {
-      "time": "23:25",
-      "title": "消費減税の可否 自民で意見集約案",
+      "time": "19:58",
+      "title": "遺伝子治療で中国6歳死亡 調査へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589429?source=rss",
-      "publishedAt": "2026-07-26T14:25:07.000Z",
-      "xQuery": "消費減税の可否 自民で意見集約案"
-    },
-    {
-      "time": "16:43",
-      "title": "ゴルフ場でカートから転落 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589389?source=rss",
-      "publishedAt": "2026-07-26T07:43:42.000Z",
-      "xQuery": "ゴルフ場でカートから転落 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589407?source=rss",
+      "publishedAt": "2026-07-26T10:58:10.000Z",
+      "xQuery": "遺伝子治療で中国6歳死亡 調査へ"
     },
     {
       "time": "22:15",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589425?source=rss",
       "publishedAt": "2026-07-26T13:15:47.000Z",
       "xQuery": "半年で70kg減量 体はボロボロに"
+    },
+    {
+      "time": "21:13",
+      "title": "小学生に「スクイーズ」人気 なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589416?source=rss",
+      "publishedAt": "2026-07-26T12:13:33.000Z",
+      "xQuery": "小学生に「スクイーズ」人気 なぜ"
     }
   ]
 };
