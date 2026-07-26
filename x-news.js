@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T22:24:27.622Z",
+  "updatedAt": "2026-07-26T22:50:39.764Z",
   "items": [
     {
       "time": "06:46",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高市内閣支持率が急落57% 読売"
     },
     {
-      "time": "22:20",
-      "title": "イラン報復休止 米軍攻撃停止受け",
+      "time": "07:45",
+      "title": "イラン 米が攻撃停止なら報復停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589421?source=rss",
-      "publishedAt": "2026-07-26T13:20:03.000Z",
-      "xQuery": "イラン報復休止 米軍攻撃停止受け"
+      "url": "https://news.yahoo.co.jp/pickup/6589440?source=rss",
+      "publishedAt": "2026-07-26T22:45:44.000Z",
+      "xQuery": "イラン 米が攻撃停止なら報復停止"
     },
     {
       "time": "06:55",
