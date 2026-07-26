@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T09:17:57.465Z",
+  "updatedAt": "2026-07-26T10:12:09.221Z",
   "items": [
     {
-      "time": "16:33",
-      "title": "やまゆり園事件10年 多くの人献花",
+      "time": "18:20",
+      "title": "週明け 九州で初の「酷暑日」か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589387?source=rss",
-      "publishedAt": "2026-07-26T07:33:44.000Z",
-      "xQuery": "やまゆり園事件10年 多くの人献花"
+      "url": "https://news.yahoo.co.jp/pickup/6589398?source=rss",
+      "publishedAt": "2026-07-26T09:20:29.000Z",
+      "xQuery": "週明け 九州で初の「酷暑日」か"
     },
     {
-      "time": "16:12",
-      "title": "ホンダ日産の次世代車 日産OS軸",
+      "time": "17:51",
+      "title": "難病の夫 認知症の妻が一番大好き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589384?source=rss",
-      "publishedAt": "2026-07-26T07:12:14.000Z",
-      "xQuery": "ホンダ日産の次世代車 日産OS軸"
+      "url": "https://news.yahoo.co.jp/pickup/6589394?source=rss",
+      "publishedAt": "2026-07-26T08:51:34.000Z",
+      "xQuery": "難病の夫 認知症の妻が一番大好き"
     },
     {
       "time": "16:43",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "特別支援学校に「闇」教員の証言"
     },
     {
-      "time": "17:23",
-      "title": "ヘイ、Siri 小5男児3人女性救護",
+      "time": "17:44",
+      "title": "26年前殺害された少女身元判明 米",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589392?source=rss",
-      "publishedAt": "2026-07-26T08:23:41.000Z",
-      "xQuery": "ヘイ、Siri 小5男児3人女性救護"
+      "url": "https://news.yahoo.co.jp/pickup/6589395?source=rss",
+      "publishedAt": "2026-07-26T08:44:53.000Z",
+      "xQuery": "26年前殺害された少女身元判明 米"
     }
   ]
 };
