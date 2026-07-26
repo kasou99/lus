@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T21:22:21.537Z",
+  "updatedAt": "2026-07-26T21:50:35.485Z",
   "items": [
     {
-      "time": "22:20",
-      "title": "イラン報復休止 米軍攻撃停止受け",
+      "time": "06:46",
+      "title": "高市内閣支持率が急落57% 読売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589421?source=rss",
-      "publishedAt": "2026-07-26T13:20:03.000Z",
-      "xQuery": "イラン報復休止 米軍攻撃停止受け"
+      "url": "https://news.yahoo.co.jp/pickup/6589433?source=rss",
+      "publishedAt": "2026-07-26T21:46:40.000Z",
+      "xQuery": "高市内閣支持率が急落57% 読売"
     },
     {
       "time": "20:49",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "強気貫く首相国会運営 身内も異論"
     },
     {
-      "time": "19:58",
-      "title": "遺伝子治療で中国6歳死亡 調査へ",
+      "time": "22:20",
+      "title": "イラン報復休止 米軍攻撃停止受け",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589407?source=rss",
-      "publishedAt": "2026-07-26T10:58:10.000Z",
-      "xQuery": "遺伝子治療で中国6歳死亡 調査へ"
+      "url": "https://news.yahoo.co.jp/pickup/6589421?source=rss",
+      "publishedAt": "2026-07-26T13:20:03.000Z",
+      "xQuery": "イラン報復休止 米軍攻撃停止受け"
     },
     {
-      "time": "22:15",
-      "title": "半年で70kg減量 体はボロボロに",
+      "time": "06:38",
+      "title": "富士山頂で台湾女性意識失う 搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589425?source=rss",
-      "publishedAt": "2026-07-26T13:15:47.000Z",
-      "xQuery": "半年で70kg減量 体はボロボロに"
+      "url": "https://news.yahoo.co.jp/pickup/6589432?source=rss",
+      "publishedAt": "2026-07-26T21:38:37.000Z",
+      "xQuery": "富士山頂で台湾女性意識失う 搬送"
     },
     {
       "time": "21:13",

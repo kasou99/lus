@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T21:22:20.607Z",
+  "updatedAt": "2026-07-26T21:50:34.724Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,6 +163,13 @@
         "publishedAt": "2026-07-26T09:22:33.000Z"
       },
       {
+        "time": "06:38",
+        "title": "富士山頂で台湾女性意識失う 搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589432?source=rss",
+        "publishedAt": "2026-07-26T21:38:37.000Z"
+      },
+      {
         "time": "14:09",
         "title": "親子ら3人海に流され父死亡 茨城",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589389?source=rss",
         "publishedAt": "2026-07-26T07:43:42.000Z"
-      },
-      {
-        "time": "14:59",
-        "title": "梨5000個盗難被害 農家に支援の輪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589378?source=rss",
-        "publishedAt": "2026-07-26T05:59:15.000Z"
       }
     ],
     "subsidyHeadlines": [
