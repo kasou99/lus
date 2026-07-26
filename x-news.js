@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-25T23:50:57.203Z",
+  "updatedAt": "2026-07-26T00:52:27.588Z",
   "items": [
     {
-      "time": "07:23",
-      "title": "九州～東海 体温超えるような暑さ",
+      "time": "07:54",
+      "title": "相模原殺傷 道半ばの障害者理解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589329?source=rss",
-      "publishedAt": "2026-07-25T22:23:00.000Z",
-      "xQuery": "九州～東海 体温超えるような暑さ"
+      "url": "https://news.yahoo.co.jp/pickup/6589333?source=rss",
+      "publishedAt": "2026-07-25T22:54:04.000Z",
+      "xQuery": "相模原殺傷 道半ばの障害者理解"
     },
     {
       "time": "08:13",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "独LGBTQ祭典 車突っ込み1人死亡"
     },
     {
-      "time": "07:19",
-      "title": "11歳女児がはねられ重体 22歳逮捕",
+      "time": "08:34",
+      "title": "カザフ大統領 露に侵攻凍結を進言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589326?source=rss",
-      "publishedAt": "2026-07-25T22:19:15.000Z",
-      "xQuery": "11歳女児がはねられ重体 22歳逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6589337?source=rss",
+      "publishedAt": "2026-07-25T23:34:07.000Z",
+      "xQuery": "カザフ大統領 露に侵攻凍結を進言"
+    },
+    {
+      "time": "09:04",
+      "title": "車が逆走か オートバイの男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589343?source=rss",
+      "publishedAt": "2026-07-26T00:04:11.000Z",
+      "xQuery": "車が逆走か オートバイの男性死亡"
     },
     {
       "time": "07:11",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589325?source=rss",
       "publishedAt": "2026-07-25T22:11:34.000Z",
       "xQuery": "花火が爆発 打ち上げ船の2人搬送"
-    },
-    {
-      "time": "08:10",
-      "title": "隅田川花火に異変 極端な天気など",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589334?source=rss",
-      "publishedAt": "2026-07-25T23:10:03.000Z",
-      "xQuery": "隅田川花火に異変 極端な天気など"
     }
   ]
 };
