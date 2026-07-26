@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T08:19:46.685Z",
+  "updatedAt": "2026-07-26T09:17:57.465Z",
   "items": [
     {
       "time": "16:33",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ホンダ日産の次世代車 日産OS軸"
     },
     {
-      "time": "14:09",
-      "title": "親子ら3人海に流され父死亡 茨城",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589375?source=rss",
-      "publishedAt": "2026-07-26T05:09:38.000Z",
-      "xQuery": "親子ら3人海に流され父死亡 茨城"
-    },
-    {
       "time": "16:43",
       "title": "ゴルフ場でカートから転落 死亡",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ゴルフ場でカートから転落 死亡"
     },
     {
-      "time": "16:26",
-      "title": "結婚相談所「お見合い」実態は",
+      "time": "16:57",
+      "title": "特別支援学校に「闇」教員の証言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589385?source=rss",
-      "publishedAt": "2026-07-26T07:26:09.000Z",
-      "xQuery": "結婚相談所「お見合い」実態は"
+      "url": "https://news.yahoo.co.jp/pickup/6589388?source=rss",
+      "publishedAt": "2026-07-26T07:57:31.000Z",
+      "xQuery": "特別支援学校に「闇」教員の証言"
+    },
+    {
+      "time": "17:23",
+      "title": "ヘイ、Siri 小5男児3人女性救護",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589392?source=rss",
+      "publishedAt": "2026-07-26T08:23:41.000Z",
+      "xQuery": "ヘイ、Siri 小5男児3人女性救護"
     }
   ]
 };

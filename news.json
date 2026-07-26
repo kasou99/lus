@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T08:19:45.823Z",
+  "updatedAt": "2026-07-26T09:17:56.417Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WZnBWQlpNNW1rdDdvbEZKd1QteDZHcndNZ0c0dEpKVjA4anRYVnQ0cTNlMUhld1BlWUxPSmNLSU9acUlfNXN3YzAtUVFJT3lsSm9nbWJGVVBna05wbk9MRERPX05ReU0zTmVHLUtXdFJFRkRN?oc=5",
         "publishedAt": "2026-07-25T15:02:26.000Z"
-      },
-      {
-        "time": "17:33",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-07-25T08:33:06.000Z"
       },
       {
         "time": "11:39",
@@ -57,9 +50,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589309?source=rss",
         "publishedAt": "2026-07-25T12:49:15.000Z"
+      },
+      {
+        "time": "17:40",
+        "title": "Trip.comGに1250億円処分 中国",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589275?source=rss",
+        "publishedAt": "2026-07-25T08:40:04.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "17:44",
+        "title": "26年前殺害された少女身元判明 米",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589395?source=rss",
+        "publishedAt": "2026-07-26T08:44:53.000Z"
+      },
       {
         "time": "09:19",
         "title": "米大統領 イラン空爆中止を指示か",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589297?source=rss",
         "publishedAt": "2026-07-25T11:28:16.000Z"
-      },
-      {
-        "time": "15:55",
-        "title": "夕食会再び開催 トランプ氏が演説",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589262?source=rss",
-        "publishedAt": "2026-07-25T06:55:29.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-07-26T05:09:38.000Z"
       },
       {
-        "time": "10:21",
-        "title": "江別暴行死 殺人になると母に連絡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589350?source=rss",
-        "publishedAt": "2026-07-26T01:21:59.000Z"
-      },
-      {
         "time": "16:57",
         "title": "特別支援学校に「闇」教員の証言",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589389?source=rss",
         "publishedAt": "2026-07-26T07:43:42.000Z"
+      },
+      {
+        "time": "14:59",
+        "title": "梨5000個盗難被害 農家に支援の輪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589378?source=rss",
+        "publishedAt": "2026-07-26T05:59:15.000Z"
       }
     ],
     "subsidyHeadlines": [
