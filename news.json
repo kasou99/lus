@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-26T20:25:22.159Z",
+  "updatedAt": "2026-07-26T20:50:14.079Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "管理工数を約80％削減 ジェイテクトが「手袋」の配布をやめた理由：手袋の発注、配布作業をほぼ不要に",
+        "source": "ITmedia",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iMEZqbWwycy1GZHh3QWtLZ2lhLXQya1ZJejJjRk5WN2hvNjdZemNNZ2IzN0xSaHpsN2tJOFVTWTBVU3V2OUZCNlRYT0t6R2RsRlhWNkQ4aFJVaERQTmRaZnQ0TUZOaEpka3pVZg?oc=5",
+        "publishedAt": "2026-07-26T20:00:00.000Z"
+      },
       {
         "time": "22:00",
         "title": "CFOの視点／日本酸素HD・久保宏一郎氏",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589406?source=rss",
         "publishedAt": "2026-07-26T10:32:07.000Z"
-      },
-      {
-        "time": "15:34",
-        "title": "商社→タクシー運転手 給料倍以上",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589261?source=rss",
-        "publishedAt": "2026-07-25T06:34:28.000Z"
       }
     ],
     "worldHeadlines": [
