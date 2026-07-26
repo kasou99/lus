@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T11:51:17.699Z",
+  "updatedAt": "2026-07-26T12:31:27.200Z",
   "items": [
     {
       "time": "18:26",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "障害者家族9割 殺傷事件「風化」"
     },
     {
-      "time": "16:43",
-      "title": "ゴルフ場でカートから転落 死亡",
+      "time": "17:15",
+      "title": "夏休み宿題 猛暑で植物観察に異変",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589389?source=rss",
-      "publishedAt": "2026-07-26T07:43:42.000Z",
-      "xQuery": "ゴルフ場でカートから転落 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589390?source=rss",
+      "publishedAt": "2026-07-26T08:15:20.000Z",
+      "xQuery": "夏休み宿題 猛暑で植物観察に異変"
     },
     {
       "time": "17:23",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ヘイ、Siri 小5男児3人女性救護"
     },
     {
-      "time": "19:32",
-      "title": "ウナギ店 仕入れ値安いがコスト増",
+      "time": "21:13",
+      "title": "小学生に「スクイーズ」人気 なぜ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589406?source=rss",
-      "publishedAt": "2026-07-26T10:32:07.000Z",
-      "xQuery": "ウナギ店 仕入れ値安いがコスト増"
+      "url": "https://news.yahoo.co.jp/pickup/6589416?source=rss",
+      "publishedAt": "2026-07-26T12:13:33.000Z",
+      "xQuery": "小学生に「スクイーズ」人気 なぜ"
     }
   ]
 };
