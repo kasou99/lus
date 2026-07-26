@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-07-26T07:25:04.252Z",
+  "updatedAt": "2026-07-26T08:19:45.823Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:09",
+        "title": "岡山県経済ダイジェスト最新版 岡山経済研究所が発刊",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSbV9NUDNLaTZUdXUtTVFoVkxxRy0xNGkyeVhOLXVISDhIdXlkUmtvM2xVay01eDN1N2o5bm45WWd4VXdRT0pFMFBHaFdycFUtRVE?oc=5",
+        "publishedAt": "2026-07-26T07:09:42.000Z"
+      },
+      {
+        "time": "04:15",
+        "title": "米国301条関税、台湾は10％で日韓に優位 伝統産業7分野に転注商機 台湾経済部「最終税率は未定」",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yenBYejRROGxrb2hkVU5IQlV5X2kxRXl2M2FQMXRYRnd6MzItX3JXdUJtSjZKSmx5TDE4bHZyVmVCT1Atb2FxQllmOGR5SjZHSGxfNUNjOUZnUXJpVlhjX2RDanpVQkJieTZlTGt3Z0hiX2pD?oc=5",
+        "publishedAt": "2026-07-25T19:15:00.000Z"
+      },
+      {
+        "time": "00:02",
+        "title": "デジタルツイン、産業競争力向上 中部圏で推進組織発足",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WZnBWQlpNNW1rdDdvbEZKd1QteDZHcndNZ0c0dEpKVjA4anRYVnQ0cTNlMUhld1BlWUxPSmNLSU9acUlfNXN3YzAtUVFJT3lsSm9nbWJGVVBna05wbk9MRERPX05ReU0zTmVHLUtXdFJFRkRN?oc=5",
+        "publishedAt": "2026-07-25T15:02:26.000Z"
+      },
+      {
+        "time": "17:33",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-07-25T08:33:06.000Z"
+      },
       {
         "time": "11:39",
         "title": "セブン&i 東欧企業への出資見送り",
@@ -29,34 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589309?source=rss",
         "publishedAt": "2026-07-25T12:49:15.000Z"
-      },
-      {
-        "time": "17:40",
-        "title": "Trip.comGに1250億円処分 中国",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589275?source=rss",
-        "publishedAt": "2026-07-25T08:40:04.000Z"
-      },
-      {
-        "time": "15:34",
-        "title": "商社→タクシー運転手 給料倍以上",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589261?source=rss",
-        "publishedAt": "2026-07-25T06:34:28.000Z"
-      },
-      {
-        "time": "16:53",
-        "title": "かゆみ止め薬「ムヒ」 ギネス認定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589270?source=rss",
-        "publishedAt": "2026-07-25T07:53:52.000Z"
-      },
-      {
-        "time": "09:10",
-        "title": "GUに元マルニデザイナー 意図は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589215?source=rss",
-        "publishedAt": "2026-07-25T00:10:26.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "16:33",
+        "title": "やまゆり園事件10年 多くの人献花",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589387?source=rss",
+        "publishedAt": "2026-07-26T07:33:44.000Z"
+      },
+      {
         "time": "14:09",
         "title": "親子ら3人海に流され父死亡 茨城",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589375?source=rss",
         "publishedAt": "2026-07-26T05:09:38.000Z"
-      },
-      {
-        "time": "07:54",
-        "title": "相模原殺傷 道半ばの障害者理解",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589333?source=rss",
-        "publishedAt": "2026-07-25T22:54:04.000Z"
       },
       {
         "time": "10:21",
@@ -170,6 +170,13 @@
         "publishedAt": "2026-07-26T01:21:59.000Z"
       },
       {
+        "time": "16:57",
+        "title": "特別支援学校に「闇」教員の証言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589388?source=rss",
+        "publishedAt": "2026-07-26T07:57:31.000Z"
+      },
+      {
         "time": "09:04",
         "title": "車が逆走か オートバイの男性死亡",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-07-26T00:04:11.000Z"
       },
       {
-        "time": "12:25",
-        "title": "農薬散布機が木に衝突 男性死亡",
+        "time": "16:43",
+        "title": "ゴルフ場でカートから転落 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589361?source=rss",
-        "publishedAt": "2026-07-26T03:25:11.000Z"
-      },
-      {
-        "time": "14:59",
-        "title": "梨5000個盗難被害 農家に支援の輪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589378?source=rss",
-        "publishedAt": "2026-07-26T05:59:15.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589389?source=rss",
+        "publishedAt": "2026-07-26T07:43:42.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -215,6 +215,20 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金のポイント解説",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-07-09T07:00:00.000Z"
+      },
+      {
+        "time": "16:00",
+        "title": "食洗機設置の設置で使える！省エネ住宅補助金",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wb3R6alFKeVRpMkVWVGpiMjRhdGVkZFhZZXRBTl8yeU5xTDlwMDQwelhkQ3hFSnNaMEszMjRYMl9VYjAxUi1xVzRzSEkwTWkxLXZhbndUWkpGUUg4aXY4V0VPSDQ?oc=5",
+        "publishedAt": "2026-06-30T07:00:00.000Z"
       }
     ]
   }

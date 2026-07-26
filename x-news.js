@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T07:25:12.829Z",
+  "updatedAt": "2026-07-26T08:19:46.685Z",
   "items": [
     {
-      "time": "13:06",
-      "title": "飛鳥・藤原 首相「世界の宝に」",
+      "time": "16:33",
+      "title": "やまゆり園事件10年 多くの人献花",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589366?source=rss",
-      "publishedAt": "2026-07-26T04:06:25.000Z",
-      "xQuery": "飛鳥・藤原 首相「世界の宝に」"
+      "url": "https://news.yahoo.co.jp/pickup/6589387?source=rss",
+      "publishedAt": "2026-07-26T07:33:44.000Z",
+      "xQuery": "やまゆり園事件10年 多くの人献花"
     },
     {
-      "time": "11:53",
-      "title": "日中外相接触 関係改善の道険しく",
+      "time": "16:12",
+      "title": "ホンダ日産の次世代車 日産OS軸",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589358?source=rss",
-      "publishedAt": "2026-07-26T02:53:39.000Z",
-      "xQuery": "日中外相接触 関係改善の道険しく"
-    },
-    {
-      "time": "14:02",
-      "title": "「不登校離職」母は父の30倍 調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589374?source=rss",
-      "publishedAt": "2026-07-26T05:02:27.000Z",
-      "xQuery": "「不登校離職」母は父の30倍 調査"
+      "url": "https://news.yahoo.co.jp/pickup/6589384?source=rss",
+      "publishedAt": "2026-07-26T07:12:14.000Z",
+      "xQuery": "ホンダ日産の次世代車 日産OS軸"
     },
     {
       "time": "14:09",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "親子ら3人海に流され父死亡 茨城"
     },
     {
-      "time": "14:59",
-      "title": "梨5000個盗難被害 農家に支援の輪",
+      "time": "16:43",
+      "title": "ゴルフ場でカートから転落 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589378?source=rss",
-      "publishedAt": "2026-07-26T05:59:15.000Z",
-      "xQuery": "梨5000個盗難被害 農家に支援の輪"
+      "url": "https://news.yahoo.co.jp/pickup/6589389?source=rss",
+      "publishedAt": "2026-07-26T07:43:42.000Z",
+      "xQuery": "ゴルフ場でカートから転落 死亡"
+    },
+    {
+      "time": "16:26",
+      "title": "結婚相談所「お見合い」実態は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589385?source=rss",
+      "publishedAt": "2026-07-26T07:26:09.000Z",
+      "xQuery": "結婚相談所「お見合い」実態は"
     }
   ]
 };
