@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T12:31:27.200Z",
+  "updatedAt": "2026-07-26T13:34:15.628Z",
   "items": [
     {
-      "time": "18:26",
-      "title": "副首都法の議論不十分66% 共同",
+      "time": "20:49",
+      "title": "強気貫く首相国会運営 身内も異論",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589397?source=rss",
-      "publishedAt": "2026-07-26T09:26:28.000Z",
-      "xQuery": "副首都法の議論不十分66% 共同"
+      "url": "https://news.yahoo.co.jp/pickup/6589414?source=rss",
+      "publishedAt": "2026-07-26T11:49:12.000Z",
+      "xQuery": "強気貫く首相国会運営 身内も異論"
     },
     {
-      "time": "18:22",
-      "title": "障害者家族9割 殺傷事件「風化」",
+      "time": "21:37",
+      "title": "大阪自民 年内にも副首都なるべき",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589399?source=rss",
-      "publishedAt": "2026-07-26T09:22:33.000Z",
-      "xQuery": "障害者家族9割 殺傷事件「風化」"
+      "url": "https://news.yahoo.co.jp/pickup/6589417?source=rss",
+      "publishedAt": "2026-07-26T12:37:59.000Z",
+      "xQuery": "大阪自民 年内にも副首都なるべき"
     },
     {
       "time": "17:15",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "夏休み宿題 猛暑で植物観察に異変"
     },
     {
-      "time": "17:23",
-      "title": "ヘイ、Siri 小5男児3人女性救護",
+      "time": "22:15",
+      "title": "半年で70kg減量 体はボロボロに",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589392?source=rss",
-      "publishedAt": "2026-07-26T08:23:41.000Z",
-      "xQuery": "ヘイ、Siri 小5男児3人女性救護"
+      "url": "https://news.yahoo.co.jp/pickup/6589425?source=rss",
+      "publishedAt": "2026-07-26T13:15:47.000Z",
+      "xQuery": "半年で70kg減量 体はボロボロに"
     },
     {
       "time": "21:13",

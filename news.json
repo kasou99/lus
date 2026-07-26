@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T12:31:26.636Z",
+  "updatedAt": "2026-07-26T13:34:14.985Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,18 +61,18 @@
     ],
     "worldHeadlines": [
       {
+        "time": "22:20",
+        "title": "イラン報復休止 米軍攻撃停止受け",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589421?source=rss",
+        "publishedAt": "2026-07-26T13:20:03.000Z"
+      },
+      {
         "time": "17:44",
         "title": "26年前殺害された少女身元判明 米",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589395?source=rss",
         "publishedAt": "2026-07-26T08:44:53.000Z"
-      },
-      {
-        "time": "09:19",
-        "title": "米大統領 イラン空爆中止を指示か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589345?source=rss",
-        "publishedAt": "2026-07-26T00:19:04.000Z"
       },
       {
         "time": "08:13",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "16:33",
-        "title": "やまゆり園事件10年 多くの人献花",
+        "time": "21:37",
+        "title": "大阪自民 年内にも副首都なるべき",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589387?source=rss",
-        "publishedAt": "2026-07-26T07:33:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589417?source=rss",
+        "publishedAt": "2026-07-26T12:37:59.000Z"
       },
       {
         "time": "18:22",
