@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T04:41:31.130Z",
+  "updatedAt": "2026-07-26T06:04:22.507Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:09",
+        "title": "親子ら3人海に流され父死亡 茨城",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589375?source=rss",
+        "publishedAt": "2026-07-26T05:09:38.000Z"
+      },
+      {
         "time": "07:54",
         "title": "相模原殺傷 道半ばの障害者理解",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-07-26T03:25:11.000Z"
       },
       {
-        "time": "07:11",
-        "title": "花火が爆発 打ち上げ船の2人搬送",
+        "time": "14:59",
+        "title": "梨5000個盗難被害 農家に支援の輪",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589325?source=rss",
-        "publishedAt": "2026-07-25T22:11:34.000Z"
-      },
-      {
-        "time": "08:10",
-        "title": "隅田川花火に異変 極端な天気など",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589334?source=rss",
-        "publishedAt": "2026-07-25T23:10:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589378?source=rss",
+        "publishedAt": "2026-07-26T05:59:15.000Z"
       }
     ],
     "subsidyHeadlines": [

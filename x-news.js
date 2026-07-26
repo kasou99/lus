@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T04:41:31.912Z",
+  "updatedAt": "2026-07-26T06:04:23.112Z",
   "items": [
     {
-      "time": "10:52",
-      "title": "飛鳥・藤原の宮都 世界遺産に決定",
+      "time": "13:06",
+      "title": "飛鳥・藤原 首相「世界の宝に」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589354?source=rss",
-      "publishedAt": "2026-07-26T01:52:06.000Z",
-      "xQuery": "飛鳥・藤原の宮都 世界遺産に決定"
+      "url": "https://news.yahoo.co.jp/pickup/6589366?source=rss",
+      "publishedAt": "2026-07-26T04:06:25.000Z",
+      "xQuery": "飛鳥・藤原 首相「世界の宝に」"
     },
     {
-      "time": "09:59",
-      "title": "東北と北陸 梅雨末期の大雨に注意",
+      "time": "11:53",
+      "title": "日中外相接触 関係改善の道険しく",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589349?source=rss",
-      "publishedAt": "2026-07-26T00:59:37.000Z",
-      "xQuery": "東北と北陸 梅雨末期の大雨に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6589358?source=rss",
+      "publishedAt": "2026-07-26T02:53:39.000Z",
+      "xQuery": "日中外相接触 関係改善の道険しく"
     },
     {
-      "time": "12:53",
-      "title": "首相の集中審議出席 大幅に減少",
+      "time": "14:02",
+      "title": "「不登校離職」母は父の30倍 調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589365?source=rss",
-      "publishedAt": "2026-07-26T03:53:49.000Z",
-      "xQuery": "首相の集中審議出席 大幅に減少"
+      "url": "https://news.yahoo.co.jp/pickup/6589374?source=rss",
+      "publishedAt": "2026-07-26T05:02:27.000Z",
+      "xQuery": "「不登校離職」母は父の30倍 調査"
     },
     {
-      "time": "10:21",
-      "title": "江別暴行死 殺人になると母に連絡",
+      "time": "14:09",
+      "title": "親子ら3人海に流され父死亡 茨城",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589350?source=rss",
-      "publishedAt": "2026-07-26T01:21:59.000Z",
-      "xQuery": "江別暴行死 殺人になると母に連絡"
+      "url": "https://news.yahoo.co.jp/pickup/6589375?source=rss",
+      "publishedAt": "2026-07-26T05:09:38.000Z",
+      "xQuery": "親子ら3人海に流され父死亡 茨城"
     },
     {
-      "time": "12:25",
-      "title": "農薬散布機が木に衝突 男性死亡",
+      "time": "14:03",
+      "title": "Joshin導入「ピース」で勤怠打刻",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589361?source=rss",
-      "publishedAt": "2026-07-26T03:25:11.000Z",
-      "xQuery": "農薬散布機が木に衝突 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589372?source=rss",
+      "publishedAt": "2026-07-26T05:03:58.000Z",
+      "xQuery": "Joshin導入「ピース」で勤怠打刻"
     }
   ]
 };
