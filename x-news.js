@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T11:03:04.803Z",
+  "updatedAt": "2026-07-26T11:51:17.699Z",
   "items": [
     {
-      "time": "18:20",
-      "title": "週明け 九州で初の「酷暑日」か",
+      "time": "18:26",
+      "title": "副首都法の議論不十分66% 共同",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589398?source=rss",
-      "publishedAt": "2026-07-26T09:20:29.000Z",
-      "xQuery": "週明け 九州で初の「酷暑日」か"
+      "url": "https://news.yahoo.co.jp/pickup/6589397?source=rss",
+      "publishedAt": "2026-07-26T09:26:28.000Z",
+      "xQuery": "副首都法の議論不十分66% 共同"
     },
     {
       "time": "18:22",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "障害者家族9割 殺傷事件「風化」"
     },
     {
-      "time": "17:51",
-      "title": "難病の夫 認知症の妻が一番大好き",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589394?source=rss",
-      "publishedAt": "2026-07-26T08:51:34.000Z",
-      "xQuery": "難病の夫 認知症の妻が一番大好き"
-    },
-    {
       "time": "16:43",
       "title": "ゴルフ場でカートから転落 死亡",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ゴルフ場でカートから転落 死亡"
     },
     {
-      "time": "17:44",
-      "title": "26年前殺害された少女身元判明 米",
+      "time": "17:23",
+      "title": "ヘイ、Siri 小5男児3人女性救護",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589395?source=rss",
-      "publishedAt": "2026-07-26T08:44:53.000Z",
-      "xQuery": "26年前殺害された少女身元判明 米"
+      "url": "https://news.yahoo.co.jp/pickup/6589392?source=rss",
+      "publishedAt": "2026-07-26T08:23:41.000Z",
+      "xQuery": "ヘイ、Siri 小5男児3人女性救護"
+    },
+    {
+      "time": "19:32",
+      "title": "ウナギ店 仕入れ値安いがコスト増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589406?source=rss",
+      "publishedAt": "2026-07-26T10:32:07.000Z",
+      "xQuery": "ウナギ店 仕入れ値安いがコスト増"
     }
   ]
 };
