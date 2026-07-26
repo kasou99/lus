@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-26T21:50:34.724Z",
+  "updatedAt": "2026-07-26T22:24:26.749Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "05:00",
-        "title": "管理工数を約80％削減 ジェイテクトが「手袋」の配布をやめた理由：手袋の発注、配布作業をほぼ不要に",
-        "source": "ITmedia",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iMEZqbWwycy1GZHh3QWtLZ2lhLXQya1ZJejJjRk5WN2hvNjdZemNNZ2IzN0xSaHpsN2tJOFVTWTBVU3V2OUZCNlRYT0t6R2RsRlhWNkQ4aFJVaERQTmRaZnQ0TUZOaEpka3pVZg?oc=5",
-        "publishedAt": "2026-07-26T20:00:00.000Z"
-      },
       {
         "time": "22:00",
         "title": "CFOの視点／日本酸素HD・久保宏一郎氏",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uT0NvU00tRXNja1lXZnRaTUc1SUU3XzBIUWV6WGlqWFRWWjFCS3BIVEJHRDBQWXY2dFBFLXNzbi1pLTloZzdTUnlvQ3l2bkFBSXI1RXRtU0tBaWM?oc=5",
         "publishedAt": "2026-07-26T13:00:04.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "管理工数を約80％削減 ジェイテクトが「手袋」の配布をやめた理由：手袋の発注、配布作業をほぼ不要に",
+        "source": "ITmedia",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iMEZqbWwycy1GZHh3QWtLZ2lhLXQya1ZJejJjRk5WN2hvNjdZemNNZ2IzN0xSaHpsN2tJOFVTWTBVU3V2OUZCNlRYT0t6R2RsRlhWNkQ4aFJVaERQTmRaZnQ0TUZOaEpka3pVZg?oc=5",
+        "publishedAt": "2026-07-26T20:00:00.000Z"
       },
       {
         "time": "16:09",
@@ -163,6 +163,20 @@
         "publishedAt": "2026-07-26T09:22:33.000Z"
       },
       {
+        "time": "06:55",
+        "title": "国道で車同士が正面衝突 男性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589434?source=rss",
+        "publishedAt": "2026-07-26T21:55:13.000Z"
+      },
+      {
+        "time": "07:19",
+        "title": "路上に寝ていたか 男性ひかれ死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589437?source=rss",
+        "publishedAt": "2026-07-26T22:19:14.000Z"
+      },
+      {
         "time": "06:38",
         "title": "富士山頂で台湾女性意識失う 搬送",
         "source": "Yahoo!ニュース",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-07-26T21:38:37.000Z"
       },
       {
-        "time": "14:09",
-        "title": "親子ら3人海に流され父死亡 茨城",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589375?source=rss",
-        "publishedAt": "2026-07-26T05:09:38.000Z"
-      },
-      {
         "time": "16:57",
         "title": "特別支援学校に「闇」教員の証言",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589388?source=rss",
         "publishedAt": "2026-07-26T07:57:31.000Z"
-      },
-      {
-        "time": "16:43",
-        "title": "ゴルフ場でカートから転落 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589389?source=rss",
-        "publishedAt": "2026-07-26T07:43:42.000Z"
       }
     ],
     "subsidyHeadlines": [

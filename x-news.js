@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T21:50:35.485Z",
+  "updatedAt": "2026-07-26T22:24:27.622Z",
   "items": [
     {
       "time": "06:46",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "高市内閣支持率が急落57% 読売"
     },
     {
-      "time": "20:49",
-      "title": "強気貫く首相国会運営 身内も異論",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589414?source=rss",
-      "publishedAt": "2026-07-26T11:49:12.000Z",
-      "xQuery": "強気貫く首相国会運営 身内も異論"
-    },
-    {
       "time": "22:20",
       "title": "イラン報復休止 米軍攻撃停止受け",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン報復休止 米軍攻撃停止受け"
     },
     {
+      "time": "06:55",
+      "title": "国道で車同士が正面衝突 男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589434?source=rss",
+      "publishedAt": "2026-07-26T21:55:13.000Z",
+      "xQuery": "国道で車同士が正面衝突 男性死亡"
+    },
+    {
+      "time": "07:19",
+      "title": "路上に寝ていたか 男性ひかれ死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589437?source=rss",
+      "publishedAt": "2026-07-26T22:19:14.000Z",
+      "xQuery": "路上に寝ていたか 男性ひかれ死亡"
+    },
+    {
       "time": "06:38",
       "title": "富士山頂で台湾女性意識失う 搬送",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6589432?source=rss",
       "publishedAt": "2026-07-26T21:38:37.000Z",
       "xQuery": "富士山頂で台湾女性意識失う 搬送"
-    },
-    {
-      "time": "21:13",
-      "title": "小学生に「スクイーズ」人気 なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589416?source=rss",
-      "publishedAt": "2026-07-26T12:13:33.000Z",
-      "xQuery": "小学生に「スクイーズ」人気 なぜ"
     }
   ]
 };
