@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T01:39:42.014Z",
+  "updatedAt": "2026-07-26T03:11:34.370Z",
   "items": [
     {
-      "time": "09:19",
-      "title": "米大統領 イラン空爆中止を指示か",
+      "time": "10:52",
+      "title": "飛鳥・藤原の宮都 世界遺産に決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589345?source=rss",
-      "publishedAt": "2026-07-26T00:19:04.000Z",
-      "xQuery": "米大統領 イラン空爆中止を指示か"
+      "url": "https://news.yahoo.co.jp/pickup/6589354?source=rss",
+      "publishedAt": "2026-07-26T01:52:06.000Z",
+      "xQuery": "飛鳥・藤原の宮都 世界遺産に決定"
     },
     {
-      "time": "08:34",
-      "title": "カザフ大統領 露に侵攻凍結を進言",
+      "time": "09:59",
+      "title": "東北と北陸 梅雨末期の大雨に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589337?source=rss",
-      "publishedAt": "2026-07-25T23:34:07.000Z",
-      "xQuery": "カザフ大統領 露に侵攻凍結を進言"
+      "url": "https://news.yahoo.co.jp/pickup/6589349?source=rss",
+      "publishedAt": "2026-07-26T00:59:37.000Z",
+      "xQuery": "東北と北陸 梅雨末期の大雨に注意"
     },
     {
-      "time": "07:54",
-      "title": "相模原殺傷 道半ばの障害者理解",
+      "time": "09:06",
+      "title": "自治体のAI本格活用 総務省後押し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589333?source=rss",
-      "publishedAt": "2026-07-25T22:54:04.000Z",
-      "xQuery": "相模原殺傷 道半ばの障害者理解"
+      "url": "https://news.yahoo.co.jp/pickup/6589344?source=rss",
+      "publishedAt": "2026-07-26T00:06:14.000Z",
+      "xQuery": "自治体のAI本格活用 総務省後押し"
     },
     {
-      "time": "10:02",
-      "title": "限界と言われた台風予測 AIで激変",
+      "time": "10:21",
+      "title": "江別暴行死 殺人になると母に連絡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589347?source=rss",
-      "publishedAt": "2026-07-26T01:02:02.000Z",
-      "xQuery": "限界と言われた台風予測 AIで激変"
+      "url": "https://news.yahoo.co.jp/pickup/6589350?source=rss",
+      "publishedAt": "2026-07-26T01:21:59.000Z",
+      "xQuery": "江別暴行死 殺人になると母に連絡"
     },
     {
       "time": "09:04",
