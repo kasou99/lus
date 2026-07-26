@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T03:11:34.370Z",
+  "updatedAt": "2026-07-26T04:41:31.912Z",
   "items": [
     {
       "time": "10:52",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東北と北陸 梅雨末期の大雨に注意"
     },
     {
-      "time": "09:06",
-      "title": "自治体のAI本格活用 総務省後押し",
+      "time": "12:53",
+      "title": "首相の集中審議出席 大幅に減少",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589344?source=rss",
-      "publishedAt": "2026-07-26T00:06:14.000Z",
-      "xQuery": "自治体のAI本格活用 総務省後押し"
+      "url": "https://news.yahoo.co.jp/pickup/6589365?source=rss",
+      "publishedAt": "2026-07-26T03:53:49.000Z",
+      "xQuery": "首相の集中審議出席 大幅に減少"
     },
     {
       "time": "10:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "江別暴行死 殺人になると母に連絡"
     },
     {
-      "time": "09:04",
-      "title": "車が逆走か オートバイの男性死亡",
+      "time": "12:25",
+      "title": "農薬散布機が木に衝突 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589343?source=rss",
-      "publishedAt": "2026-07-26T00:04:11.000Z",
-      "xQuery": "車が逆走か オートバイの男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589361?source=rss",
+      "publishedAt": "2026-07-26T03:25:11.000Z",
+      "xQuery": "農薬散布機が木に衝突 男性死亡"
     }
   ]
 };

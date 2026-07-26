@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T03:11:33.596Z",
+  "updatedAt": "2026-07-26T04:41:31.130Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,13 +156,6 @@
         "publishedAt": "2026-07-25T22:54:04.000Z"
       },
       {
-        "time": "14:45",
-        "title": "植松聖死刑囚 事件から10年の手記",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589257?source=rss",
-        "publishedAt": "2026-07-25T05:45:04.000Z"
-      },
-      {
         "time": "10:21",
         "title": "江別暴行死 殺人になると母に連絡",
         "source": "Yahoo!ニュース",
@@ -175,6 +168,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589343?source=rss",
         "publishedAt": "2026-07-26T00:04:11.000Z"
+      },
+      {
+        "time": "12:25",
+        "title": "農薬散布機が木に衝突 男性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589361?source=rss",
+        "publishedAt": "2026-07-26T03:25:11.000Z"
       },
       {
         "time": "07:11",
