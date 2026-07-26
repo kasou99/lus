@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T13:34:15.628Z",
+  "updatedAt": "2026-07-26T14:35:33.726Z",
   "items": [
+    {
+      "time": "22:20",
+      "title": "イラン報復休止 米軍攻撃停止受け",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589421?source=rss",
+      "publishedAt": "2026-07-26T13:20:03.000Z",
+      "xQuery": "イラン報復休止 米軍攻撃停止受け"
+    },
     {
       "time": "20:49",
       "title": "強気貫く首相国会運営 身内も異論",
@@ -10,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "強気貫く首相国会運営 身内も異論"
     },
     {
-      "time": "21:37",
-      "title": "大阪自民 年内にも副首都なるべき",
+      "time": "23:25",
+      "title": "消費減税の可否 自民で意見集約案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589417?source=rss",
-      "publishedAt": "2026-07-26T12:37:59.000Z",
-      "xQuery": "大阪自民 年内にも副首都なるべき"
+      "url": "https://news.yahoo.co.jp/pickup/6589429?source=rss",
+      "publishedAt": "2026-07-26T14:25:07.000Z",
+      "xQuery": "消費減税の可否 自民で意見集約案"
     },
     {
-      "time": "17:15",
-      "title": "夏休み宿題 猛暑で植物観察に異変",
+      "time": "16:43",
+      "title": "ゴルフ場でカートから転落 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589390?source=rss",
-      "publishedAt": "2026-07-26T08:15:20.000Z",
-      "xQuery": "夏休み宿題 猛暑で植物観察に異変"
+      "url": "https://news.yahoo.co.jp/pickup/6589389?source=rss",
+      "publishedAt": "2026-07-26T07:43:42.000Z",
+      "xQuery": "ゴルフ場でカートから転落 死亡"
     },
     {
       "time": "22:15",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589425?source=rss",
       "publishedAt": "2026-07-26T13:15:47.000Z",
       "xQuery": "半年で70kg減量 体はボロボロに"
-    },
-    {
-      "time": "21:13",
-      "title": "小学生に「スクイーズ」人気 なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589416?source=rss",
-      "publishedAt": "2026-07-26T12:13:33.000Z",
-      "xQuery": "小学生に「スクイーズ」人気 なぜ"
     }
   ]
 };
