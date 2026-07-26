@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T10:12:09.221Z",
+  "updatedAt": "2026-07-26T11:03:04.803Z",
   "items": [
     {
       "time": "18:20",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589398?source=rss",
       "publishedAt": "2026-07-26T09:20:29.000Z",
       "xQuery": "週明け 九州で初の「酷暑日」か"
+    },
+    {
+      "time": "18:22",
+      "title": "障害者家族9割 殺傷事件「風化」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589399?source=rss",
+      "publishedAt": "2026-07-26T09:22:33.000Z",
+      "xQuery": "障害者家族9割 殺傷事件「風化」"
     },
     {
       "time": "17:51",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589389?source=rss",
       "publishedAt": "2026-07-26T07:43:42.000Z",
       "xQuery": "ゴルフ場でカートから転落 死亡"
-    },
-    {
-      "time": "16:57",
-      "title": "特別支援学校に「闇」教員の証言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589388?source=rss",
-      "publishedAt": "2026-07-26T07:57:31.000Z",
-      "xQuery": "特別支援学校に「闇」教員の証言"
     },
     {
       "time": "17:44",
