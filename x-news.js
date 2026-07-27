@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T06:12:30.642Z",
+  "updatedAt": "2026-07-27T07:45:20.272Z",
   "items": [
     {
-      "time": "14:53",
-      "title": "松橋事件 国と熊本県に賠償命令",
+      "time": "16:11",
+      "title": "作家の東野圭吾さん死去 68歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589495?source=rss",
-      "publishedAt": "2026-07-27T05:53:36.000Z",
-      "xQuery": "松橋事件 国と熊本県に賠償命令"
+      "url": "https://news.yahoo.co.jp/pickup/6589509?source=rss",
+      "publishedAt": "2026-07-27T07:11:17.000Z",
+      "xQuery": "作家の東野圭吾さん死去 68歳"
     },
     {
-      "time": "14:06",
-      "title": "カネを情に変え 識者が見る角栄氏",
+      "time": "16:32",
+      "title": "九州で観測史上初の酷暑日 日田市",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589488?source=rss",
-      "publishedAt": "2026-07-27T05:06:17.000Z",
-      "xQuery": "カネを情に変え 識者が見る角栄氏"
+      "url": "https://news.yahoo.co.jp/pickup/6589510?source=rss",
+      "publishedAt": "2026-07-27T07:32:54.000Z",
+      "xQuery": "九州で観測史上初の酷暑日 日田市"
     },
     {
-      "time": "13:44",
-      "title": "1回の登山で「2度遭難」相次ぐ",
+      "time": "15:39",
+      "title": "江別暴行 当時17歳に懲役30年求刑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589485?source=rss",
-      "publishedAt": "2026-07-27T04:44:37.000Z",
-      "xQuery": "1回の登山で「2度遭難」相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6589506?source=rss",
+      "publishedAt": "2026-07-27T06:39:09.000Z",
+      "xQuery": "江別暴行 当時17歳に懲役30年求刑"
     },
     {
-      "time": "14:47",
-      "title": "可搬式オービス盗んだ疑い 男逮捕",
+      "time": "15:27",
+      "title": "海水浴場で大学生が行方不明か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589490?source=rss",
-      "publishedAt": "2026-07-27T05:47:49.000Z",
-      "xQuery": "可搬式オービス盗んだ疑い 男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6589502?source=rss",
+      "publishedAt": "2026-07-27T06:27:43.000Z",
+      "xQuery": "海水浴場で大学生が行方不明か"
     },
     {
-      "time": "14:58",
-      "title": "テスト中暴走 OpenAI把握に時間",
+      "time": "15:12",
+      "title": "池袋刺殺で休業 ポケセン8/24再開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589496?source=rss",
-      "publishedAt": "2026-07-27T05:58:51.000Z",
-      "xQuery": "テスト中暴走 OpenAI把握に時間"
+      "url": "https://news.yahoo.co.jp/pickup/6589497?source=rss",
+      "publishedAt": "2026-07-27T06:12:46.000Z",
+      "xQuery": "池袋刺殺で休業 ポケセン8/24再開"
     }
   ]
 };
