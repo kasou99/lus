@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T18:03:58.726Z",
+  "updatedAt": "2026-07-27T18:59:49.518Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "イザ！",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40QjFxODMwcmZTYnhpVDF4dTEyZDJLTC1qWkVkVmQwSmItVmVCcW94RHlFX3l2Nk1scm5pZFVYbVBZbEZkNV90OF9DbkY2dGRMOV91cHh3VXMxYzZCSmVGR1d2UXZHVUxFZGlrWGRON3BESEVra1luY1h3?oc=5",
         "publishedAt": "2026-07-27T01:20:00.000Z"
-      },
-      {
-        "time": "11:30",
-        "title": "東京タワー相当の紙を“完全撤廃” 点検業務をkintone化した“現場ファースト”な改善術",
-        "source": "週刊アスキー",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SMEJ3YkMtc25jbktfb1luTkN2NjZYWWFZbDRIZ2dtcjFHOHR4eHdFcUV5VVB5ZHJxeGF2WGN6NHUydmN3bHNpQmlwUnN0UXA0eEJkQjNDb2N2LWVHMkE?oc=5",
-        "publishedAt": "2026-07-27T02:30:00.000Z"
       },
       {
         "time": "15:03",
@@ -57,6 +50,13 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QcjVHOUZPVUZ3VVYzdFhHRVBZT3dwVHB0RWNoc3VEc1VRN210OVpmSjg5QS1Vam1nWGRhdGZEZnl2VDQ2VG53VUZoeVhvaFpyenBUM2U4S0RPMDI3WXlqcHZjMDZUZl9u?oc=5",
         "publishedAt": "2026-07-27T04:30:19.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "変わる潮目2026 企業のトップに聞く（1）三菱UFJFG社長・半沢淳一氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpdUJmMFR6TEVLcnJMS2lDQk9kdXdvUGN3UlRKMFhMZ0VUSE9iOGFHUTZXS1Q5Qm1qRjBzcTB5YUVSR0FvWHVHS0x1MjVvTGhEY0lUR3JCYzNwOG8wZU9xanZFR09Uc0dKNUJyTkRlMFNLLW9i?oc=5",
+        "publishedAt": "2026-07-26T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
