@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T12:06:37.807Z",
+  "updatedAt": "2026-07-27T13:28:41.373Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNT2ZjQV95VmRQSjJmeHV2MVlYZThhUGE3eC1qYjUydmt6OE80ODNxdjQxcHNTdDNRakJDNlVyNFVwNzhmX29zVnUxMXl5QlNDdnJkRHo5bXZKcV8tblI1S2ZSSEFPZFlvWTcwaGxfOURmcGt0cG1NMWdkOA?oc=5",
         "publishedAt": "2026-07-27T02:13:01.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "ファナック設備のデータ活用をよりスムーズに ー「LINKA3」が「FIELD system Basic Package」と連携",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ROWVBUFgySXBVVHJoZjJSR2M3bDM2T1lic3RjcWg0dHhVT0dLdUhRaDRweGNBTk81ZHhNY2tGMGZTbzdfczNNOHZ2cFBrMFd0RzFieXl2bzJzZ2Z4bHlRWFJranZNaF9TeVE?oc=5",
+        "publishedAt": "2026-07-27T01:00:02.000Z"
       },
       {
         "time": "10:20",
@@ -24,6 +31,13 @@
         "publishedAt": "2026-07-27T02:30:00.000Z"
       },
       {
+        "time": "05:00",
+        "title": "管理工数を約80％削減 ジェイテクトが「手袋」の配布をやめた理由：手袋の発注、配布作業をほぼ不要に",
+        "source": "ITmedia",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iMEZqbWwycy1GZHh3QWtLZ2lhLXQya1ZJejJjRk5WN2hvNjdZemNNZ2IzN0xSaHpsN2tJOFVTWTBVU3V2OUZCNlRYT0t6R2RsRlhWNkQ4aFJVaERQTmRaZnQ0TUZOaEpka3pVZg?oc=5",
+        "publishedAt": "2026-07-26T20:00:00.000Z"
+      },
+      {
         "time": "15:03",
         "title": "ケーブルグランド＆キットの世界市場2026年、グローバル市場規模（金属製、樹脂製）・分析レポートを発表",
         "source": "ニコニコニュース",
@@ -32,24 +46,10 @@
       },
       {
         "time": "05:00",
-        "title": "管理工数を約80％削減 ジェイテクトが「手袋」の配布をやめた理由：手袋の発注、配布作業をほぼ不要に",
-        "source": "ITmedia",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iMEZqbWwycy1GZHh3QWtLZ2lhLXQya1ZJejJjRk5WN2hvNjdZemNNZ2IzN0xSaHpsN2tJOFVTWTBVU3V2OUZCNlRYT0t6R2RsRlhWNkQ4aFJVaERQTmRaZnQ0TUZOaEpka3pVZg?oc=5",
-        "publishedAt": "2026-07-26T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
         "title": "変わる潮目2026 企業のトップに聞く（1）三菱UFJFG社長・半沢淳一氏",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02UkZSc3N4RmFJTFFJMW5uMkdBYTZUclk0b0d2d1lmdDRyRE1fbHR3ZXBqX05ZdUNZY2RIWkd4WmpuRkgtUmxVNlFSMjFXd3pTRGljbXRFSXhjT0k?oc=5",
         "publishedAt": "2026-07-26T20:00:00.000Z"
-      },
-      {
-        "time": "11:18",
-        "title": "ファナック設備のデータ活用をよりスムーズに ー「LINKA3」が「FIELD system Basic Package」と連携",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sQ1JRc2lMQlhPcnltQV9GbjdRYXNpTElwdjVhb3R0ZlkwbEdaamFQcjZxWHhKWXdlU2FDdDhTajVIeDdWc25DcWJZZF84RjhSQ2RFaA?oc=5",
-        "publishedAt": "2026-07-27T02:18:23.000Z"
       },
       {
         "time": "13:30",
@@ -112,18 +112,18 @@
         "publishedAt": "2026-07-27T07:47:26.000Z"
       },
       {
-        "time": "17:36",
-        "title": "羊肉におい 冷蔵技術向上で少なく",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589521?source=rss",
-        "publishedAt": "2026-07-27T08:36:13.000Z"
-      },
-      {
         "time": "19:22",
         "title": "卒業控える女子大学生 主婦志す訳",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589536?source=rss",
         "publishedAt": "2026-07-27T10:22:59.000Z"
+      },
+      {
+        "time": "21:47",
+        "title": "園経営者が園児に塩 保育士ら会見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589546?source=rss",
+        "publishedAt": "2026-07-27T12:47:01.000Z"
       },
       {
         "time": "20:59",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-07-27T05:53:36.000Z"
       },
       {
+        "time": "21:45",
+        "title": "辺野古 遺族が校長や団体側を告訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589549?source=rss",
+        "publishedAt": "2026-07-27T12:45:04.000Z"
+      },
+      {
         "time": "18:06",
         "title": "副議長就任など825万円渡す 証言",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589506?source=rss",
         "publishedAt": "2026-07-27T06:39:09.000Z"
-      },
-      {
-        "time": "11:57",
-        "title": "正面衝突 死亡の77歳が高速逆走か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589473?source=rss",
-        "publishedAt": "2026-07-27T02:57:52.000Z"
       },
       {
         "time": "17:53",
