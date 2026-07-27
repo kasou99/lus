@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T20:36:06.177Z",
+  "updatedAt": "2026-07-27T21:28:36.568Z",
   "items": [
     {
       "time": "22:39",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "アイヌ遺骨研究で北海道大が謝罪"
     },
     {
-      "time": "18:36",
-      "title": "クマを溺死させ駆除 町に苦情続く",
+      "time": "06:10",
+      "title": "東野圭吾さん死去 41年で106冊",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589531?source=rss",
-      "publishedAt": "2026-07-27T09:36:24.000Z",
-      "xQuery": "クマを溺死させ駆除 町に苦情続く"
+      "url": "https://news.yahoo.co.jp/pickup/6589562?source=rss",
+      "publishedAt": "2026-07-27T21:10:43.000Z",
+      "xQuery": "東野圭吾さん死去 41年で106冊"
     }
   ]
 };
