@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T14:24:55.150Z",
+  "updatedAt": "2026-07-27T15:29:17.376Z",
   "items": [
     {
       "time": "22:39",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "外国の不当干渉に刑罰 自民提言へ"
     },
     {
-      "time": "20:30",
-      "title": "「生成AIは友人」増 活用か依存か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589523?source=rss",
-      "publishedAt": "2026-07-27T11:30:52.000Z",
-      "xQuery": "「生成AIは友人」増 活用か依存か"
-    },
-    {
       "time": "23:08",
       "title": "海保が同志社国際高校を家宅捜索",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "海保が同志社国際高校を家宅捜索"
     },
     {
-      "time": "21:00",
-      "title": "5歳遺体発見 父が語る最後の対面",
+      "time": "22:36",
+      "title": "アイヌ遺骨研究で北海道大が謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589542?source=rss",
-      "publishedAt": "2026-07-27T12:00:55.000Z",
-      "xQuery": "5歳遺体発見 父が語る最後の対面"
+      "url": "https://news.yahoo.co.jp/pickup/6589553?source=rss",
+      "publishedAt": "2026-07-27T13:36:42.000Z",
+      "xQuery": "アイヌ遺骨研究で北海道大が謝罪"
+    },
+    {
+      "time": "18:36",
+      "title": "クマを溺死させ駆除 町に苦情続く",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589531?source=rss",
+      "publishedAt": "2026-07-27T09:36:24.000Z",
+      "xQuery": "クマを溺死させ駆除 町に苦情続く"
     }
   ]
 };
