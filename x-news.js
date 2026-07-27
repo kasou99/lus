@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-26T23:50:46.302Z",
+  "updatedAt": "2026-07-27T00:52:35.536Z",
   "items": [
     {
-      "time": "06:46",
-      "title": "高市内閣支持率が急落57% 読売",
+      "time": "08:50",
+      "title": "各地で猛烈な暑さ 九州で酷暑日か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589433?source=rss",
-      "publishedAt": "2026-07-26T21:46:40.000Z",
-      "xQuery": "高市内閣支持率が急落57% 読売"
+      "url": "https://news.yahoo.co.jp/pickup/6589447?source=rss",
+      "publishedAt": "2026-07-26T23:50:03.000Z",
+      "xQuery": "各地で猛烈な暑さ 九州で酷暑日か"
+    },
+    {
+      "time": "07:41",
+      "title": "主食用米 20県で増産の見込み",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589438?source=rss",
+      "publishedAt": "2026-07-26T22:41:29.000Z",
+      "xQuery": "主食用米 20県で増産の見込み"
     },
     {
       "time": "08:07",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "独LGBTQ祭典襲撃 容疑者が死亡"
     },
     {
-      "time": "06:55",
-      "title": "国道で車同士が正面衝突 男性死亡",
+      "time": "09:41",
+      "title": "住宅火災 子ども2人含む4人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589434?source=rss",
-      "publishedAt": "2026-07-26T21:55:13.000Z",
-      "xQuery": "国道で車同士が正面衝突 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589456?source=rss",
+      "publishedAt": "2026-07-27T00:41:50.000Z",
+      "xQuery": "住宅火災 子ども2人含む4人死亡"
     },
     {
       "time": "07:19",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589437?source=rss",
       "publishedAt": "2026-07-26T22:19:14.000Z",
       "xQuery": "路上に寝ていたか 男性ひかれ死亡"
-    },
-    {
-      "time": "07:33",
-      "title": "低価格帯のかつや 客離れ進む訳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589436?source=rss",
-      "publishedAt": "2026-07-26T22:33:34.000Z",
-      "xQuery": "低価格帯のかつや 客離れ進む訳"
     }
   ]
 };
