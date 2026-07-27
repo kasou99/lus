@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T09:15:52.181Z",
+  "updatedAt": "2026-07-27T10:47:48.148Z",
   "items": [
     {
-      "time": "17:55",
-      "title": "中継 特別国会の閉会受け首相会見",
+      "time": "18:24",
+      "title": "国民会議 消費減税で合意至らず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589516?source=rss",
-      "publishedAt": "2026-07-27T08:55:12.000Z",
-      "xQuery": "中継 特別国会の閉会受け首相会見"
+      "url": "https://news.yahoo.co.jp/pickup/6589529?source=rss",
+      "publishedAt": "2026-07-27T09:24:47.000Z",
+      "xQuery": "国民会議 消費減税で合意至らず"
     },
     {
-      "time": "13:24",
-      "title": "「大イスラエル主義」加速の背景",
+      "time": "19:02",
+      "title": "声の権利を検討会明記 AIに歯止め",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589469?source=rss",
-      "publishedAt": "2026-07-27T04:24:06.000Z",
-      "xQuery": "「大イスラエル主義」加速の背景"
+      "url": "https://news.yahoo.co.jp/pickup/6589532?source=rss",
+      "publishedAt": "2026-07-27T10:02:30.000Z",
+      "xQuery": "声の権利を検討会明記 AIに歯止め"
     },
     {
-      "time": "18:06",
-      "title": "副議長就任など825万円渡す 証言",
+      "time": "18:36",
+      "title": "クマを溺死させ駆除 町に苦情続く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589527?source=rss",
-      "publishedAt": "2026-07-27T09:06:42.000Z",
-      "xQuery": "副議長就任など825万円渡す 証言"
+      "url": "https://news.yahoo.co.jp/pickup/6589531?source=rss",
+      "publishedAt": "2026-07-27T09:36:24.000Z",
+      "xQuery": "クマを溺死させ駆除 町に苦情続く"
     },
     {
-      "time": "17:53",
-      "title": "海水浴場で21歳男性が溺れる 死亡",
+      "time": "19:22",
+      "title": "卒業控える女子大学生 主婦志す訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589524?source=rss",
-      "publishedAt": "2026-07-27T08:53:39.000Z",
-      "xQuery": "海水浴場で21歳男性が溺れる 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589536?source=rss",
+      "publishedAt": "2026-07-27T10:22:59.000Z",
+      "xQuery": "卒業控える女子大学生 主婦志す訳"
     },
     {
-      "time": "17:33",
-      "title": "観光バスなど5台事故 10人超けが",
+      "time": "18:32",
+      "title": "プールのスライダーで指切断 和解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589520?source=rss",
-      "publishedAt": "2026-07-27T08:33:53.000Z",
-      "xQuery": "観光バスなど5台事故 10人超けが"
+      "url": "https://news.yahoo.co.jp/pickup/6589530?source=rss",
+      "publishedAt": "2026-07-27T09:32:37.000Z",
+      "xQuery": "プールのスライダーで指切断 和解"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T09:15:51.462Z",
+  "updatedAt": "2026-07-27T10:47:47.195Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -55,7 +55,7 @@
         "time": "11:18",
         "title": "ファナック設備のデータ活用をよりスムーズに ー「LINKA3」が「FIELD system Basic Package」と連携",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sQ1JRc2lMQlhPcnltQV9GbjdRYXNpTElwdjVhb3R0ZlkwbEdaamFQcjZxWHhKWXdlU2FDdDhTajVIeDdWc25DcWJZZF84RjhSQ2RFaA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wcnIxSk5QSzg4cURRemZXQ2stZzBYbDhyeUhCVjFRTG5ZRUJEcml5YU1WRHNwbHZ5QWZoT3J2SW9lS2xhdEVvX3QtaGFoOXp1bW5USElkZ1c0VnM3a1J6Nm11VmNEbUg4cXpXSE9uTjIzMzBJX1VJREY2Zw?oc=5",
         "publishedAt": "2026-07-27T02:18:23.000Z"
       }
     ],
@@ -112,11 +112,18 @@
         "publishedAt": "2026-07-27T07:47:26.000Z"
       },
       {
-        "time": "17:38",
-        "title": "就職は社会勉強 主婦志す21歳学生",
+        "time": "17:36",
+        "title": "羊肉におい 冷蔵技術向上で少なく",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589518?source=rss",
-        "publishedAt": "2026-07-27T08:38:23.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589521?source=rss",
+        "publishedAt": "2026-07-27T08:36:13.000Z"
+      },
+      {
+        "time": "19:22",
+        "title": "卒業控える女子大学生 主婦志す訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589536?source=rss",
+        "publishedAt": "2026-07-27T10:22:59.000Z"
       },
       {
         "time": "17:22",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589515?source=rss",
         "publishedAt": "2026-07-27T08:22:00.000Z"
-      },
-      {
-        "time": "17:36",
-        "title": "羊肉におい 冷蔵技術向上で少なく",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589521?source=rss",
-        "publishedAt": "2026-07-27T08:36:13.000Z"
       },
       {
         "time": "16:52",
@@ -225,10 +225,10 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年7月】エアコン設置に使える補助金まとめ！申請方法や国・自治体の支援制度を紹介",
+        "title": "食洗機設置の設置で使える！省エネ住宅補助金",
         "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0OVJMS1RoNE1OYWpBeF9vdlREdzhzcm5RaU9jUGZRU3lSQlk5eDFZVWtvWVB6X3p5QXZsR0RUX1FfTjI1VklpVktwSXo0OF9Hc3RQeFV6T2pyZmszbVNwNw?oc=5",
-        "publishedAt": "2026-07-18T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wb3R6alFKeVRpMkVWVGpiMjRhdGVkZFhZZXRBTl8yeU5xTDlwMDQwelhkQ3hFSnNaMEszMjRYMl9VYjAxUi1xVzRzSEkwTWkxLXZhbndUWkpGUUg4aXY4V0VPSDQ?oc=5",
+        "publishedAt": "2026-06-30T07:00:00.000Z"
       }
     ]
   }
