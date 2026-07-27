@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T03:13:28.025Z",
+  "updatedAt": "2026-07-27T04:46:12.113Z",
   "items": [
     {
       "time": "12:07",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東日本 夜にかけ激しい雷雨の恐れ"
     },
     {
-      "time": "10:25",
-      "title": "首相 支持率下落の原因分からない",
+      "time": "12:42",
+      "title": "米軍司令官 イラン攻撃停止進言か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589461?source=rss",
-      "publishedAt": "2026-07-27T01:25:38.000Z",
-      "xQuery": "首相 支持率下落の原因分からない"
+      "url": "https://news.yahoo.co.jp/pickup/6589479?source=rss",
+      "publishedAt": "2026-07-27T03:42:33.000Z",
+      "xQuery": "米軍司令官 イラン攻撃停止進言か"
     },
     {
       "time": "11:57",
