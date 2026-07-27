@@ -1,29 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T10:47:48.148Z",
+  "updatedAt": "2026-07-27T12:06:38.485Z",
   "items": [
     {
-      "time": "18:24",
-      "title": "国民会議 消費減税で合意至らず",
+      "time": "20:19",
+      "title": "首相 国会運営に「反省点ない」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589529?source=rss",
-      "publishedAt": "2026-07-27T09:24:47.000Z",
-      "xQuery": "国民会議 消費減税で合意至らず"
-    },
-    {
-      "time": "19:02",
-      "title": "声の権利を検討会明記 AIに歯止め",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589532?source=rss",
-      "publishedAt": "2026-07-27T10:02:30.000Z",
-      "xQuery": "声の権利を検討会明記 AIに歯止め"
-    },
-    {
-      "time": "18:36",
-      "title": "クマを溺死させ駆除 町に苦情続く",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589531?source=rss",
-      "publishedAt": "2026-07-27T09:36:24.000Z",
-      "xQuery": "クマを溺死させ駆除 町に苦情続く"
+      "url": "https://news.yahoo.co.jp/pickup/6589540?source=rss",
+      "publishedAt": "2026-07-27T11:19:06.000Z",
+      "xQuery": "首相 国会運営に「反省点ない」"
     },
     {
       "time": "19:22",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "卒業控える女子大学生 主婦志す訳"
     },
     {
-      "time": "18:32",
-      "title": "プールのスライダーで指切断 和解",
+      "time": "21:00",
+      "title": "5歳遺体発見 父が語る最後の対面",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589530?source=rss",
-      "publishedAt": "2026-07-27T09:32:37.000Z",
-      "xQuery": "プールのスライダーで指切断 和解"
+      "url": "https://news.yahoo.co.jp/pickup/6589542?source=rss",
+      "publishedAt": "2026-07-27T12:00:55.000Z",
+      "xQuery": "5歳遺体発見 父が語る最後の対面"
+    },
+    {
+      "time": "18:36",
+      "title": "クマを溺死させ駆除 町に苦情続く",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589531?source=rss",
+      "publishedAt": "2026-07-27T09:36:24.000Z",
+      "xQuery": "クマを溺死させ駆除 町に苦情続く"
+    },
+    {
+      "time": "20:59",
+      "title": "「食べ放題」業態 増え続ける背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589544?source=rss",
+      "publishedAt": "2026-07-27T11:59:38.000Z",
+      "xQuery": "「食べ放題」業態 増え続ける背景"
     }
   ]
 };

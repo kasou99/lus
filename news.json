@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T10:47:47.195Z",
+  "updatedAt": "2026-07-27T12:06:37.807Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-26T20:00:00.000Z"
       },
       {
-        "time": "20:02",
-        "title": "広東省の上半期貿易額、初の5兆元突破 中国全体の貿易成長を力強く牽引",
-        "source": "CGTN Japanese",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hX2g3UDJkdFdVdVJ5NG5sX1F3RkI1TWdtTnlmVnVHZTV0WDhSdk1KdHBNTnp4eGxsZ3duZG9Sc2FoVXlyWlNlTTV1OGhLUnZkZ2U2OWNPOHBYRVB2d3BDa2s0UHB0dw?oc=5",
-        "publishedAt": "2026-07-26T11:02:35.000Z"
-      },
-      {
         "time": "11:18",
         "title": "ファナック設備のデータ活用をよりスムーズに ー「LINKA3」が「FIELD system Basic Package」と連携",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wcnIxSk5QSzg4cURRemZXQ2stZzBYbDhyeUhCVjFRTG5ZRUJEcml5YU1WRHNwbHZ5QWZoT3J2SW9lS2xhdEVvX3QtaGFoOXp1bW5USElkZ1c0VnM3a1J6Nm11VmNEbUg4cXpXSE9uTjIzMzBJX1VJREY2Zw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sQ1JRc2lMQlhPcnltQV9GbjdRYXNpTElwdjVhb3R0ZlkwbEdaamFQcjZxWHhKWXdlU2FDdDhTajVIeDdWc25DcWJZZF84RjhSQ2RFaA?oc=5",
         "publishedAt": "2026-07-27T02:18:23.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "広東省の上半期貿易額が初の5兆元突破、中国全体の貿易成長を力強く牽引",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QcjVHOUZPVUZ3VVYzdFhHRVBZT3dwVHB0RWNoc3VEc1VRN210OVpmSjg5QS1Vam1nWGRhdGZEZnl2VDQ2VG53VUZoeVhvaFpyenBUM2U4S0RPMDI3WXlqcHZjMDZUZl9u?oc=5",
+        "publishedAt": "2026-07-27T04:30:19.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-07-27T10:22:59.000Z"
       },
       {
+        "time": "20:59",
+        "title": "「食べ放題」業態 増え続ける背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589544?source=rss",
+        "publishedAt": "2026-07-27T11:59:38.000Z"
+      },
+      {
         "time": "17:22",
         "title": "「寝ていない自慢」上司 問題点は",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589513?source=rss",
         "publishedAt": "2026-07-27T07:52:24.000Z"
-      },
-      {
-        "time": "11:37",
-        "title": "新幹線での包丁使用 JR東海見解",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589467?source=rss",
-        "publishedAt": "2026-07-27T02:37:18.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-07-27T09:06:42.000Z"
       },
       {
+        "time": "21:00",
+        "title": "5歳遺体発見 父が語る最後の対面",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589542?source=rss",
+        "publishedAt": "2026-07-27T12:00:55.000Z"
+      },
+      {
         "time": "15:39",
         "title": "江別暴行 当時17歳に懲役30年求刑",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589506?source=rss",
         "publishedAt": "2026-07-27T06:39:09.000Z"
-      },
-      {
-        "time": "17:33",
-        "title": "観光バスなど5台事故 10人超けが",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589520?source=rss",
-        "publishedAt": "2026-07-27T08:33:53.000Z"
       },
       {
         "time": "11:57",
