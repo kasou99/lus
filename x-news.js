@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T07:45:20.272Z",
+  "updatedAt": "2026-07-27T09:15:52.181Z",
   "items": [
     {
-      "time": "16:11",
-      "title": "作家の東野圭吾さん死去 68歳",
+      "time": "17:55",
+      "title": "中継 特別国会の閉会受け首相会見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589509?source=rss",
-      "publishedAt": "2026-07-27T07:11:17.000Z",
-      "xQuery": "作家の東野圭吾さん死去 68歳"
+      "url": "https://news.yahoo.co.jp/pickup/6589516?source=rss",
+      "publishedAt": "2026-07-27T08:55:12.000Z",
+      "xQuery": "中継 特別国会の閉会受け首相会見"
     },
     {
-      "time": "16:32",
-      "title": "九州で観測史上初の酷暑日 日田市",
+      "time": "13:24",
+      "title": "「大イスラエル主義」加速の背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589510?source=rss",
-      "publishedAt": "2026-07-27T07:32:54.000Z",
-      "xQuery": "九州で観測史上初の酷暑日 日田市"
+      "url": "https://news.yahoo.co.jp/pickup/6589469?source=rss",
+      "publishedAt": "2026-07-27T04:24:06.000Z",
+      "xQuery": "「大イスラエル主義」加速の背景"
     },
     {
-      "time": "15:39",
-      "title": "江別暴行 当時17歳に懲役30年求刑",
+      "time": "18:06",
+      "title": "副議長就任など825万円渡す 証言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589506?source=rss",
-      "publishedAt": "2026-07-27T06:39:09.000Z",
-      "xQuery": "江別暴行 当時17歳に懲役30年求刑"
+      "url": "https://news.yahoo.co.jp/pickup/6589527?source=rss",
+      "publishedAt": "2026-07-27T09:06:42.000Z",
+      "xQuery": "副議長就任など825万円渡す 証言"
     },
     {
-      "time": "15:27",
-      "title": "海水浴場で大学生が行方不明か",
+      "time": "17:53",
+      "title": "海水浴場で21歳男性が溺れる 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589502?source=rss",
-      "publishedAt": "2026-07-27T06:27:43.000Z",
-      "xQuery": "海水浴場で大学生が行方不明か"
+      "url": "https://news.yahoo.co.jp/pickup/6589524?source=rss",
+      "publishedAt": "2026-07-27T08:53:39.000Z",
+      "xQuery": "海水浴場で21歳男性が溺れる 死亡"
     },
     {
-      "time": "15:12",
-      "title": "池袋刺殺で休業 ポケセン8/24再開",
+      "time": "17:33",
+      "title": "観光バスなど5台事故 10人超けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589497?source=rss",
-      "publishedAt": "2026-07-27T06:12:46.000Z",
-      "xQuery": "池袋刺殺で休業 ポケセン8/24再開"
+      "url": "https://news.yahoo.co.jp/pickup/6589520?source=rss",
+      "publishedAt": "2026-07-27T08:33:53.000Z",
+      "xQuery": "観光バスなど5台事故 10人超けが"
     }
   ]
 };
