@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T22:54:24.646Z",
+  "updatedAt": "2026-07-27T23:27:44.823Z",
   "items": [
     {
-      "time": "22:39",
-      "title": "食品消費税1% 政府・与党が方針",
+      "time": "08:12",
+      "title": "西日本で猛烈な暑さ 熱中症に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589556?source=rss",
-      "publishedAt": "2026-07-27T13:39:24.000Z",
-      "xQuery": "食品消費税1% 政府・与党が方針"
+      "url": "https://news.yahoo.co.jp/pickup/6589573?source=rss",
+      "publishedAt": "2026-07-27T23:12:37.000Z",
+      "xQuery": "西日本で猛烈な暑さ 熱中症に警戒"
     },
     {
-      "time": "06:51",
-      "title": "トランプ氏 FRBに利下げを要求",
+      "time": "07:57",
+      "title": "安保目的の通信傍受 自民が提言へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589565?source=rss",
-      "publishedAt": "2026-07-27T21:51:24.000Z",
-      "xQuery": "トランプ氏 FRBに利下げを要求"
-    },
-    {
-      "time": "06:34",
-      "title": "車と衝突 ミニバイクの高校生死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589564?source=rss",
-      "publishedAt": "2026-07-27T21:34:56.000Z",
-      "xQuery": "車と衝突 ミニバイクの高校生死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589575?source=rss",
+      "publishedAt": "2026-07-27T22:57:21.000Z",
+      "xQuery": "安保目的の通信傍受 自民が提言へ"
     },
     {
       "time": "07:42",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589569?source=rss",
       "publishedAt": "2026-07-27T22:42:06.000Z",
       "xQuery": "プルデンシャル 成果主義見直しへ"
+    },
+    {
+      "time": "07:52",
+      "title": "屋根に人 大阪・天神祭で迷惑行為",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589571?source=rss",
+      "publishedAt": "2026-07-27T22:52:49.000Z",
+      "xQuery": "屋根に人 大阪・天神祭で迷惑行為"
     },
     {
       "time": "07:36",
