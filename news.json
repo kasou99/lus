@@ -1,27 +1,34 @@
 {
-  "updatedAt": "2026-07-27T21:55:44.977Z",
+  "updatedAt": "2026-07-27T22:28:05.713Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:00",
+        "title": "工作機械向け長期保証サービス「Anshin+V 延長保証プログラム」の開発・販売開始のお知らせ",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oVG9DMVo3VVg5RDlnUmI1SWVfM2kydnJhT0tCdHJwYTV2XzF6NjFLaHdzZ05JQm9EcjY2MnhVejhLVmFScDU1blJkQWRmdXhxeTRMZjU1TmVjMEhsM0d5cHZLMElybHlEMEE?oc=5",
+        "publishedAt": "2026-07-27T22:00:01.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "マツダが挑む設備保全DX、AIやIoTで自動車工場内火力発電所の現地点検ゼロへ",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nNzR6M0xOZkxHaEstUDVfWGUtb20yVC02RXE0SFdPLUxKZC1Pbl9kT1dWamExQlhFdHRWeXZWMWo4QzI1OWVoeUY0eWJGNmVWc2dDcVkwaHIxQ2Y0MDhubWVYcC1SVjgzMW1vOU1IRQ?oc=5",
+        "publishedAt": "2026-07-27T21:00:00.000Z"
+      },
+      {
+        "time": "05:04",
+        "title": "中村留精密、小型CNC旋盤を高速化 2タレット複合",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95QVZBSHpQS0gzVExZY1Nvc2Y5T2tBV0UzZFRTUl9ibkFsTzB5bVNUVXZRSlM2STZGRWlzYVY3WDAtLTlrUUs3UEFVUmhucmFiZFJLQmRKUmlOVzA?oc=5",
+        "publishedAt": "2026-07-27T20:04:48.000Z"
+      },
       {
         "time": "05:02",
         "title": "ドイツで磨く DMG森精機の強み（中）訓練生受け入れ",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNdzBhQUdVeVU1YUtaRl9nZmE1blM1SjBnX1o4U203WTVNbGcxUXE4dl9iSVNxVHRQN29UUUVybExRZU9BbG1UclpUOFpCTUJubGpwSUxTeGlnNlE?oc=5",
         "publishedAt": "2026-07-27T20:02:37.000Z"
-      },
-      {
-        "time": "05:02",
-        "title": "地域経済の今（21）埼玉・木型の生き残り策 鋳物と連携 産業成長狙う",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBucThDR3JKRWJPNzJvVGFFZ0RNb0k3SGtFSC1CbWFaQXhRb1l1ZTc1bnBJaTZhcWZtY29RQ3JVSEVzbzNZWDUxTXBhV1Z6RldRMTVHZGZObnNuTVk?oc=5",
-        "publishedAt": "2026-07-27T20:02:37.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "ファナック設備のデータ活用をよりスムーズに ー「LINKA3」が「FIELD system Basic Package」と連携",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ROWVBUFgySXBVVHJoZjJSR2M3bDM2T1lic3RjcWg0dHhVT0dLdUhRaDRweGNBTk81ZHhNY2tGMGZTbzdfczNNOHZ2cFBrMFd0RzFieXl2bzJzZ2Z4bHlRWFJranZNaF9TeVE?oc=5",
-        "publishedAt": "2026-07-27T01:00:02.000Z"
       },
       {
         "time": "10:20",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-07-27T06:03:13.000Z"
       },
       {
-        "time": "05:02",
-        "title": "さあ出番／インフォネット社長に就任した東間大氏",
+        "time": "05:33",
+        "title": "地域経済の今（21）埼玉・木型の生き残り策 鋳物と連携 産業成長狙う",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPS3NWYmRtTUZkRTNoU2ZyUmJnVUNHMG9TaVRwWUFMaGZJWEIzWkNPTUoxVkVRQ2tkTU9jSXJCcFZRaFdRWXhiY2JfOEExb3JOY2tTR0JBQ2pkWVk?oc=5",
-        "publishedAt": "2026-07-27T20:02:37.000Z"
-      },
-      {
-        "time": "13:30",
-        "title": "広東省の上半期貿易額が初の5兆元突破、中国全体の貿易成長を力強く牽引",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QcjVHOUZPVUZ3VVYzdFhHRVBZT3dwVHB0RWNoc3VEc1VRN210OVpmSjg5QS1Vam1nWGRhdGZEZnl2VDQ2VG53VUZoeVhvaFpyenBUM2U4S0RPMDI3WXlqcHZjMDZUZl9u?oc=5",
-        "publishedAt": "2026-07-27T04:30:19.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MbG5OM1FXVWdacmR5b0EyclZfLWVWZ0dMVnppR0NYdk52Z3JWNWlieUZLNFNtRks0bWQtRHVxTUVHdHVlYmRSSnFnYkpQNXFKUmhtNDExaVpPT1FQTm1tbmJzZWc0UjF0VXdIdWpvQWM5dVRQ?oc=5",
+        "publishedAt": "2026-07-27T20:33:09.000Z"
       }
     ],
     "worldHeadlines": [

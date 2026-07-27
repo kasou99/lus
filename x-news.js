@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T21:55:45.602Z",
+  "updatedAt": "2026-07-27T22:28:06.523Z",
   "items": [
     {
       "time": "22:39",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車と衝突 ミニバイクの高校生死亡"
     },
     {
-      "time": "06:10",
-      "title": "東野圭吾さん死去 41年で106冊",
+      "time": "07:19",
+      "title": "東野圭吾さん 今年初めには車いす",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589562?source=rss",
-      "publishedAt": "2026-07-27T21:10:43.000Z",
-      "xQuery": "東野圭吾さん死去 41年で106冊"
+      "url": "https://news.yahoo.co.jp/pickup/6589566?source=rss",
+      "publishedAt": "2026-07-27T22:19:25.000Z",
+      "xQuery": "東野圭吾さん 今年初めには車いす"
     }
   ]
 };
