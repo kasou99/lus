@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-27T01:41:27.316Z",
+  "updatedAt": "2026-07-27T03:13:27.214Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "06:50",
-        "title": "データ・デザイン、小型3Dスキャナー発売 ワイヤレスで移動容易",
+        "time": "07:33",
+        "title": "変わる潮目2026 企業のトップに聞く（1）三菱UFJFG社長・半沢淳一氏",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFVG9HU0hvWTNMSEhPOWNPaGp2MUpFQllfRmRYQ2p4cS1reFJnZC1KNFlyME5scEdSaFBwQWExNXlFajg2VW53NVAxcWU0b1FxYVR1emZ2SWZqV2JPenZOSnIySWFfSExHMUJPdkJQMHRHU0U2d2ZucUNMOA?oc=5",
-        "publishedAt": "2026-07-26T21:50:36.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02UkZSc3N4RmFJTFFJMW5uMkdBYTZUclk0b0d2d1lmdDRyRE1fbHR3ZXBqX05ZdUNZY2RIWkd4WmpuRkgtUmxVNlFSMjFXd3pTRGljbXRFSXhjT0k?oc=5",
+        "publishedAt": "2026-07-26T22:33:20.000Z"
       },
       {
         "time": "10:00",
@@ -17,6 +17,13 @@
         "publishedAt": "2026-07-27T01:00:02.000Z"
       },
       {
+        "time": "11:30",
+        "title": "東京タワー相当の紙を“完全撤廃” 点検業務をkintone化した“現場ファースト”な改善術",
+        "source": "週刊アスキー",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SMEJ3YkMtc25jbktfb1luTkN2NjZYWWFZbDRIZ2dtcjFHOHR4eHdFcUV5VVB5ZHJxeGF2WGN6NHUydmN3bHNpQmlwUnN0UXA0eEJkQjNDb2N2LWVHMkE?oc=5",
+        "publishedAt": "2026-07-27T02:30:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "管理工数を約80％削減 ジェイテクトが「手袋」の配布をやめた理由：手袋の発注、配布作業をほぼ不要に",
         "source": "ITmedia",
@@ -24,11 +31,11 @@
         "publishedAt": "2026-07-26T20:00:00.000Z"
       },
       {
-        "time": "05:01",
-        "title": "変わる潮目2026 企業のトップに聞く（1）三菱UFJFG社長・半沢淳一氏",
+        "time": "06:50",
+        "title": "データ・デザイン、小型3Dスキャナー発売 ワイヤレスで移動容易",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02UkZSc3N4RmFJTFFJMW5uMkdBYTZUclk0b0d2d1lmdDRyRE1fbHR3ZXBqX05ZdUNZY2RIWkd4WmpuRkgtUmxVNlFSMjFXd3pTRGljbXRFSXhjT0k?oc=5",
-        "publishedAt": "2026-07-26T20:01:11.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFVG9HU0hvWTNMSEhPOWNPaGp2MUpFQllfRmRYQ2p4cS1reFJnZC1KNFlyME5scEdSaFBwQWExNXlFajg2VW53NVAxcWU0b1FxYVR1emZ2SWZqV2JPenZOSnIySWFfSExHMUJPdkJQMHRHU0U2d2ZucUNMOA?oc=5",
+        "publishedAt": "2026-07-26T21:50:36.000Z"
       },
       {
         "time": "16:09",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589384?source=rss",
         "publishedAt": "2026-07-26T07:12:14.000Z"
-      },
-      {
-        "time": "17:47",
-        "title": "最賃で競争「チキンレース」の声",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589279?source=rss",
-        "publishedAt": "2026-07-25T08:47:05.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,18 +119,11 @@
         "publishedAt": "2026-07-26T07:12:14.000Z"
       },
       {
-        "time": "17:47",
-        "title": "最賃で競争「チキンレース」の声",
+        "time": "11:37",
+        "title": "新幹線での包丁使用 JR東海見解",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589279?source=rss",
-        "publishedAt": "2026-07-25T08:47:05.000Z"
-      },
-      {
-        "time": "21:49",
-        "title": "ジャングリア1年 経済効果494億円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589309?source=rss",
-        "publishedAt": "2026-07-25T12:49:15.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589467?source=rss",
+        "publishedAt": "2026-07-27T02:37:18.000Z"
       },
       {
         "time": "07:33",
@@ -138,6 +131,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589436?source=rss",
         "publishedAt": "2026-07-26T22:33:34.000Z"
+      },
+      {
+        "time": "11:30",
+        "title": "ミスド マタニティー対応ユニ導入",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589468?source=rss",
+        "publishedAt": "2026-07-27T02:30:49.000Z"
       },
       {
         "time": "08:24",
@@ -170,11 +170,18 @@
         "publishedAt": "2026-07-26T12:37:59.000Z"
       },
       {
-        "time": "18:22",
-        "title": "障害者家族9割 殺傷事件「風化」",
+        "time": "11:57",
+        "title": "正面衝突 死亡の77歳が高速逆走か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589399?source=rss",
-        "publishedAt": "2026-07-26T09:22:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589473?source=rss",
+        "publishedAt": "2026-07-27T02:57:52.000Z"
+      },
+      {
+        "time": "11:26",
+        "title": "生活保護悪用 薬大量入手し若者に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589466?source=rss",
+        "publishedAt": "2026-07-27T02:26:39.000Z"
       },
       {
         "time": "06:55",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589434?source=rss",
         "publishedAt": "2026-07-26T21:55:13.000Z"
-      },
-      {
-        "time": "07:19",
-        "title": "路上に寝ていたか 男性ひかれ死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589437?source=rss",
-        "publishedAt": "2026-07-26T22:19:14.000Z"
       }
     ],
     "subsidyHeadlines": [

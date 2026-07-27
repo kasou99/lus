@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T01:41:28.138Z",
+  "updatedAt": "2026-07-27T03:13:28.025Z",
   "items": [
     {
-      "time": "08:50",
-      "title": "各地で猛烈な暑さ 九州で酷暑日か",
+      "time": "12:07",
+      "title": "東日本 夜にかけ激しい雷雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589447?source=rss",
-      "publishedAt": "2026-07-26T23:50:03.000Z",
-      "xQuery": "各地で猛烈な暑さ 九州で酷暑日か"
-    },
-    {
-      "time": "08:58",
-      "title": "露大統領 侵攻継続の意欲変わらず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589451?source=rss",
-      "publishedAt": "2026-07-26T23:58:41.000Z",
-      "xQuery": "露大統領 侵攻継続の意欲変わらず"
+      "url": "https://news.yahoo.co.jp/pickup/6589476?source=rss",
+      "publishedAt": "2026-07-27T03:07:53.000Z",
+      "xQuery": "東日本 夜にかけ激しい雷雨の恐れ"
     },
     {
       "time": "10:25",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 支持率下落の原因分からない"
     },
     {
-      "time": "09:41",
-      "title": "住宅火災 子ども2人含む4人死亡",
+      "time": "11:57",
+      "title": "正面衝突 死亡の77歳が高速逆走か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589456?source=rss",
-      "publishedAt": "2026-07-27T00:41:50.000Z",
-      "xQuery": "住宅火災 子ども2人含む4人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589473?source=rss",
+      "publishedAt": "2026-07-27T02:57:52.000Z",
+      "xQuery": "正面衝突 死亡の77歳が高速逆走か"
     },
     {
-      "time": "09:51",
-      "title": "県議公開の音声 改ざん痕見られず",
+      "time": "11:26",
+      "title": "生活保護悪用 薬大量入手し若者に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589454?source=rss",
-      "publishedAt": "2026-07-27T00:51:24.000Z",
-      "xQuery": "県議公開の音声 改ざん痕見られず"
+      "url": "https://news.yahoo.co.jp/pickup/6589466?source=rss",
+      "publishedAt": "2026-07-27T02:26:39.000Z",
+      "xQuery": "生活保護悪用 薬大量入手し若者に"
+    },
+    {
+      "time": "11:37",
+      "title": "新幹線での包丁使用 JR東海見解",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589467?source=rss",
+      "publishedAt": "2026-07-27T02:37:18.000Z",
+      "xQuery": "新幹線での包丁使用 JR東海見解"
     }
   ]
 };
