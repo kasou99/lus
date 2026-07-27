@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T23:27:44.823Z",
+  "updatedAt": "2026-07-27T23:54:17.326Z",
   "items": [
     {
       "time": "08:12",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "西日本で猛烈な暑さ 熱中症に警戒"
     },
     {
-      "time": "07:57",
-      "title": "安保目的の通信傍受 自民が提言へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589575?source=rss",
-      "publishedAt": "2026-07-27T22:57:21.000Z",
-      "xQuery": "安保目的の通信傍受 自民が提言へ"
-    },
-    {
       "time": "07:42",
       "title": "プルデンシャル 成果主義見直しへ",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "プルデンシャル 成果主義見直しへ"
     },
     {
+      "time": "08:44",
+      "title": "5歳遺体 客足戻らぬ現場温泉施設",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589582?source=rss",
+      "publishedAt": "2026-07-27T23:44:05.000Z",
+      "xQuery": "5歳遺体 客足戻らぬ現場温泉施設"
+    },
+    {
+      "time": "08:20",
+      "title": "「セクストーション」相談が急増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589577?source=rss",
+      "publishedAt": "2026-07-27T23:20:23.000Z",
+      "xQuery": "「セクストーション」相談が急増"
+    },
+    {
       "time": "07:52",
       "title": "屋根に人 大阪・天神祭で迷惑行為",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6589571?source=rss",
       "publishedAt": "2026-07-27T22:52:49.000Z",
       "xQuery": "屋根に人 大阪・天神祭で迷惑行為"
-    },
-    {
-      "time": "07:36",
-      "title": "東野圭吾さん 数年前から体調崩す",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589572?source=rss",
-      "publishedAt": "2026-07-27T22:36:47.000Z",
-      "xQuery": "東野圭吾さん 数年前から体調崩す"
     }
   ]
 };
