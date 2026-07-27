@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T21:28:36.568Z",
+  "updatedAt": "2026-07-27T21:55:45.602Z",
   "items": [
     {
       "time": "22:39",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "食品消費税1% 政府・与党が方針"
     },
     {
-      "time": "21:31",
-      "title": "外国の不当干渉に刑罰 自民提言へ",
+      "time": "06:51",
+      "title": "トランプ氏 FRBに利下げを要求",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589547?source=rss",
-      "publishedAt": "2026-07-27T12:31:29.000Z",
-      "xQuery": "外国の不当干渉に刑罰 自民提言へ"
+      "url": "https://news.yahoo.co.jp/pickup/6589565?source=rss",
+      "publishedAt": "2026-07-27T21:51:24.000Z",
+      "xQuery": "トランプ氏 FRBに利下げを要求"
     },
     {
       "time": "23:08",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "海保が同志社国際高校を家宅捜索"
     },
     {
-      "time": "22:36",
-      "title": "アイヌ遺骨研究で北海道大が謝罪",
+      "time": "06:34",
+      "title": "車と衝突 ミニバイクの高校生死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589553?source=rss",
-      "publishedAt": "2026-07-27T13:36:42.000Z",
-      "xQuery": "アイヌ遺骨研究で北海道大が謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6589564?source=rss",
+      "publishedAt": "2026-07-27T21:34:56.000Z",
+      "xQuery": "車と衝突 ミニバイクの高校生死亡"
     },
     {
       "time": "06:10",
