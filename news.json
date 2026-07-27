@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T00:52:34.787Z",
+  "updatedAt": "2026-07-27T01:41:27.316Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFVG9HU0hvWTNMSEhPOWNPaGp2MUpFQllfRmRYQ2p4cS1reFJnZC1KNFlyME5scEdSaFBwQWExNXlFajg2VW53NVAxcWU0b1FxYVR1emZ2SWZqV2JPenZOSnIySWFfSExHMUJPdkJQMHRHU0U2d2ZucUNMOA?oc=5",
         "publishedAt": "2026-07-26T21:50:36.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "ファナック設備のデータ活用をよりスムーズに ー「LINKA3」が「FIELD system Basic Package」と連携",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ROWVBUFgySXBVVHJoZjJSR2M3bDM2T1lic3RjcWg0dHhVT0dLdUhRaDRweGNBTk81ZHhNY2tGMGZTbzdfczNNOHZ2cFBrMFd0RzFieXl2bzJzZ2Z4bHlRWFJranZNaF9TeVE?oc=5",
+        "publishedAt": "2026-07-27T01:00:02.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589279?source=rss",
         "publishedAt": "2026-07-25T08:47:05.000Z"
-      },
-      {
-        "time": "21:49",
-        "title": "ジャングリア1年 経済効果494億円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589309?source=rss",
-        "publishedAt": "2026-07-25T12:49:15.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589451?source=rss",
         "publishedAt": "2026-07-26T23:58:41.000Z"
+      },
+      {
+        "time": "10:16",
+        "title": "金与正氏 ARFの非核化声明に反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589460?source=rss",
+        "publishedAt": "2026-07-27T01:16:04.000Z"
       },
       {
         "time": "07:37",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589395?source=rss",
         "publishedAt": "2026-07-26T08:44:53.000Z"
-      },
-      {
-        "time": "08:34",
-        "title": "カザフ大統領 露に侵攻凍結を進言",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589337?source=rss",
-        "publishedAt": "2026-07-25T23:34:07.000Z"
       }
     ],
     "economyHeadlines": [

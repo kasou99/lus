@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T00:52:35.536Z",
+  "updatedAt": "2026-07-27T01:41:28.138Z",
   "items": [
     {
       "time": "08:50",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "各地で猛烈な暑さ 九州で酷暑日か"
     },
     {
-      "time": "07:41",
-      "title": "主食用米 20県で増産の見込み",
+      "time": "08:58",
+      "title": "露大統領 侵攻継続の意欲変わらず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589438?source=rss",
-      "publishedAt": "2026-07-26T22:41:29.000Z",
-      "xQuery": "主食用米 20県で増産の見込み"
+      "url": "https://news.yahoo.co.jp/pickup/6589451?source=rss",
+      "publishedAt": "2026-07-26T23:58:41.000Z",
+      "xQuery": "露大統領 侵攻継続の意欲変わらず"
     },
     {
-      "time": "08:07",
-      "title": "独LGBTQ祭典襲撃 容疑者が死亡",
+      "time": "10:25",
+      "title": "首相 支持率下落の原因分からない",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589443?source=rss",
-      "publishedAt": "2026-07-26T23:07:33.000Z",
-      "xQuery": "独LGBTQ祭典襲撃 容疑者が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589461?source=rss",
+      "publishedAt": "2026-07-27T01:25:38.000Z",
+      "xQuery": "首相 支持率下落の原因分からない"
     },
     {
       "time": "09:41",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "住宅火災 子ども2人含む4人死亡"
     },
     {
-      "time": "07:19",
-      "title": "路上に寝ていたか 男性ひかれ死亡",
+      "time": "09:51",
+      "title": "県議公開の音声 改ざん痕見られず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589437?source=rss",
-      "publishedAt": "2026-07-26T22:19:14.000Z",
-      "xQuery": "路上に寝ていたか 男性ひかれ死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589454?source=rss",
+      "publishedAt": "2026-07-27T00:51:24.000Z",
+      "xQuery": "県議公開の音声 改ざん痕見られず"
     }
   ]
 };
