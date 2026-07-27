@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T13:28:42.546Z",
+  "updatedAt": "2026-07-27T14:24:55.150Z",
   "items": [
+    {
+      "time": "22:39",
+      "title": "食品消費税1% 政府・与党が方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589556?source=rss",
+      "publishedAt": "2026-07-27T13:39:24.000Z",
+      "xQuery": "食品消費税1% 政府・与党が方針"
+    },
     {
       "time": "21:31",
       "title": "外国の不当干渉に刑罰 自民提言へ",
@@ -10,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "外国の不当干渉に刑罰 自民提言へ"
     },
     {
-      "time": "21:45",
-      "title": "辺野古 遺族が校長や団体側を告訴",
+      "time": "20:30",
+      "title": "「生成AIは友人」増 活用か依存か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589549?source=rss",
-      "publishedAt": "2026-07-27T12:45:04.000Z",
-      "xQuery": "辺野古 遺族が校長や団体側を告訴"
+      "url": "https://news.yahoo.co.jp/pickup/6589523?source=rss",
+      "publishedAt": "2026-07-27T11:30:52.000Z",
+      "xQuery": "「生成AIは友人」増 活用か依存か"
+    },
+    {
+      "time": "23:08",
+      "title": "海保が同志社国際高校を家宅捜索",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589555?source=rss",
+      "publishedAt": "2026-07-27T14:08:53.000Z",
+      "xQuery": "海保が同志社国際高校を家宅捜索"
     },
     {
       "time": "21:00",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589542?source=rss",
       "publishedAt": "2026-07-27T12:00:55.000Z",
       "xQuery": "5歳遺体発見 父が語る最後の対面"
-    },
-    {
-      "time": "21:47",
-      "title": "園経営者が園児に塩 保育士ら会見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589546?source=rss",
-      "publishedAt": "2026-07-27T12:47:01.000Z",
-      "xQuery": "園経営者が園児に塩 保育士ら会見"
-    },
-    {
-      "time": "22:14",
-      "title": "静岡県の偽サイト発見 今年4件目",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589550?source=rss",
-      "publishedAt": "2026-07-27T13:14:28.000Z",
-      "xQuery": "静岡県の偽サイト発見 今年4件目"
     }
   ]
 };
