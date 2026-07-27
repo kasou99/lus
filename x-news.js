@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T22:28:06.523Z",
+  "updatedAt": "2026-07-27T22:54:24.646Z",
   "items": [
     {
       "time": "22:39",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 FRBに利下げを要求"
     },
     {
-      "time": "23:08",
-      "title": "海保が同志社国際高校を家宅捜索",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589555?source=rss",
-      "publishedAt": "2026-07-27T14:08:53.000Z",
-      "xQuery": "海保が同志社国際高校を家宅捜索"
-    },
-    {
       "time": "06:34",
       "title": "車と衝突 ミニバイクの高校生死亡",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "車と衝突 ミニバイクの高校生死亡"
     },
     {
-      "time": "07:19",
-      "title": "東野圭吾さん 今年初めには車いす",
+      "time": "07:42",
+      "title": "プルデンシャル 成果主義見直しへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589566?source=rss",
-      "publishedAt": "2026-07-27T22:19:25.000Z",
-      "xQuery": "東野圭吾さん 今年初めには車いす"
+      "url": "https://news.yahoo.co.jp/pickup/6589569?source=rss",
+      "publishedAt": "2026-07-27T22:42:06.000Z",
+      "xQuery": "プルデンシャル 成果主義見直しへ"
+    },
+    {
+      "time": "07:36",
+      "title": "東野圭吾さん 数年前から体調崩す",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589572?source=rss",
+      "publishedAt": "2026-07-27T22:36:47.000Z",
+      "xQuery": "東野圭吾さん 数年前から体調崩す"
     }
   ]
 };

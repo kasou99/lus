@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T22:28:05.713Z",
+  "updatedAt": "2026-07-27T22:54:23.711Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "07:42",
+        "title": "プルデンシャル 成果主義見直しへ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589569?source=rss",
+        "publishedAt": "2026-07-27T22:42:06.000Z"
+      },
+      {
         "time": "16:47",
         "title": "新車高騰 中古車大手相次ぎ最高益",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589536?source=rss",
         "publishedAt": "2026-07-27T10:22:59.000Z"
-      },
-      {
-        "time": "11:37",
-        "title": "新幹線での包丁使用 JR東海見解",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589467?source=rss",
-        "publishedAt": "2026-07-27T02:37:18.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-07-27T12:00:55.000Z"
       },
       {
-        "time": "15:39",
-        "title": "江別暴行 当時17歳に懲役30年求刑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589506?source=rss",
-        "publishedAt": "2026-07-27T06:39:09.000Z"
-      },
-      {
         "time": "06:34",
         "title": "車と衝突 ミニバイクの高校生死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589564?source=rss",
         "publishedAt": "2026-07-27T21:34:56.000Z"
+      },
+      {
+        "time": "22:36",
+        "title": "アイヌ遺骨研究で北海道大が謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589553?source=rss",
+        "publishedAt": "2026-07-27T13:36:42.000Z"
       }
     ],
     "subsidyHeadlines": [
