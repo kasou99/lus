@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T04:46:12.113Z",
+  "updatedAt": "2026-07-27T06:12:30.642Z",
   "items": [
     {
-      "time": "12:07",
-      "title": "東日本 夜にかけ激しい雷雨の恐れ",
+      "time": "14:53",
+      "title": "松橋事件 国と熊本県に賠償命令",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589476?source=rss",
-      "publishedAt": "2026-07-27T03:07:53.000Z",
-      "xQuery": "東日本 夜にかけ激しい雷雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6589495?source=rss",
+      "publishedAt": "2026-07-27T05:53:36.000Z",
+      "xQuery": "松橋事件 国と熊本県に賠償命令"
     },
     {
-      "time": "12:42",
-      "title": "米軍司令官 イラン攻撃停止進言か",
+      "time": "14:06",
+      "title": "カネを情に変え 識者が見る角栄氏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589479?source=rss",
-      "publishedAt": "2026-07-27T03:42:33.000Z",
-      "xQuery": "米軍司令官 イラン攻撃停止進言か"
+      "url": "https://news.yahoo.co.jp/pickup/6589488?source=rss",
+      "publishedAt": "2026-07-27T05:06:17.000Z",
+      "xQuery": "カネを情に変え 識者が見る角栄氏"
     },
     {
-      "time": "11:57",
-      "title": "正面衝突 死亡の77歳が高速逆走か",
+      "time": "13:44",
+      "title": "1回の登山で「2度遭難」相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589473?source=rss",
-      "publishedAt": "2026-07-27T02:57:52.000Z",
-      "xQuery": "正面衝突 死亡の77歳が高速逆走か"
+      "url": "https://news.yahoo.co.jp/pickup/6589485?source=rss",
+      "publishedAt": "2026-07-27T04:44:37.000Z",
+      "xQuery": "1回の登山で「2度遭難」相次ぐ"
     },
     {
-      "time": "11:26",
-      "title": "生活保護悪用 薬大量入手し若者に",
+      "time": "14:47",
+      "title": "可搬式オービス盗んだ疑い 男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589466?source=rss",
-      "publishedAt": "2026-07-27T02:26:39.000Z",
-      "xQuery": "生活保護悪用 薬大量入手し若者に"
+      "url": "https://news.yahoo.co.jp/pickup/6589490?source=rss",
+      "publishedAt": "2026-07-27T05:47:49.000Z",
+      "xQuery": "可搬式オービス盗んだ疑い 男逮捕"
     },
     {
-      "time": "11:37",
-      "title": "新幹線での包丁使用 JR東海見解",
+      "time": "14:58",
+      "title": "テスト中暴走 OpenAI把握に時間",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589467?source=rss",
-      "publishedAt": "2026-07-27T02:37:18.000Z",
-      "xQuery": "新幹線での包丁使用 JR東海見解"
+      "url": "https://news.yahoo.co.jp/pickup/6589496?source=rss",
+      "publishedAt": "2026-07-27T05:58:51.000Z",
+      "xQuery": "テスト中暴走 OpenAI把握に時間"
     }
   ]
 };

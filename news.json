@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T04:46:11.549Z",
+  "updatedAt": "2026-07-27T06:12:29.781Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-07-27T02:13:01.000Z"
       },
       {
-        "time": "10:00",
-        "title": "ファナック設備のデータ活用をよりスムーズに ー「LINKA3」が「FIELD system Basic Package」と連携",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ROWVBUFgySXBVVHJoZjJSR2M3bDM2T1lic3RjcWg0dHhVT0dLdUhRaDRweGNBTk81ZHhNY2tGMGZTbzdfczNNOHZ2cFBrMFd0RzFieXl2bzJzZ2Z4bHlRWFJranZNaF9TeVE?oc=5",
-        "publishedAt": "2026-07-27T01:00:02.000Z"
-      },
-      {
         "time": "11:30",
         "title": "東京タワー相当の紙を“完全撤廃” 点検業務をkintone化した“現場ファースト”な改善術",
         "source": "週刊アスキー",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SMEJ3YkMtc25jbktfb1luTkN2NjZYWWFZbDRIZ2dtcjFHOHR4eHdFcUV5VVB5ZHJxeGF2WGN6NHUydmN3bHNpQmlwUnN0UXA0eEJkQjNDb2N2LWVHMkE?oc=5",
         "publishedAt": "2026-07-27T02:30:00.000Z"
+      },
+      {
+        "time": "12:48",
+        "title": "大田区実証実験・実装促進事業（HOIP）令和8年度継続企業3社が実証・実装を開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CZGNXWVdwckpSdGNXaWFmcXRYOUlyaWExZFYzNXkxT1BReTdvT3RRZjBFU2VibDBKV3RjTEpNd1A3cU1rQWZGT2hGSFBJbU1vdndPc3ZLR0FhZUdaUXpOal9Qb3Q0Nmll?oc=5",
+        "publishedAt": "2026-07-27T03:48:20.000Z"
       },
       {
         "time": "05:00",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-26T21:50:36.000Z"
       },
       {
-        "time": "07:41",
-        "title": "主食用米 20県で増産の見込み",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589438?source=rss",
-        "publishedAt": "2026-07-26T22:41:29.000Z"
+        "time": "11:18",
+        "title": "ファナック設備のデータ活用をよりスムーズに ー「LINKA3」が「FIELD system Basic Package」と連携",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wcnIxSk5QSzg4cURRemZXQ2stZzBYbDhyeUhCVjFRTG5ZRUJEcml5YU1WRHNwbHZ5QWZoT3J2SW9lS2xhdEVvX3QtaGFoOXp1bW5USElkZ1c0VnM3a1J6Nm11VmNEbUg4cXpXSE9uTjIzMzBJX1VJREY2Zw?oc=5",
+        "publishedAt": "2026-07-27T02:18:23.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:53",
+        "title": "松橋事件 国と熊本県に賠償命令",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589495?source=rss",
+        "publishedAt": "2026-07-27T05:53:36.000Z"
+      },
+      {
         "time": "09:41",
         "title": "住宅火災 子ども2人含む4人死亡",
         "source": "Yahoo!ニュース",
@@ -163,13 +170,6 @@
         "publishedAt": "2026-07-27T03:24:11.000Z"
       },
       {
-        "time": "09:51",
-        "title": "県議公開の音声 改ざん痕見られず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589454?source=rss",
-        "publishedAt": "2026-07-27T00:51:24.000Z"
-      },
-      {
         "time": "11:57",
         "title": "正面衝突 死亡の77歳が高速逆走か",
         "source": "Yahoo!ニュース",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-07-27T02:57:52.000Z"
       },
       {
+        "time": "14:47",
+        "title": "可搬式オービス盗んだ疑い 男逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589490?source=rss",
+        "publishedAt": "2026-07-27T05:47:49.000Z"
+      },
+      {
         "time": "11:26",
         "title": "生活保護悪用 薬大量入手し若者に",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589466?source=rss",
         "publishedAt": "2026-07-27T02:26:39.000Z"
-      },
-      {
-        "time": "07:19",
-        "title": "路上に寝ていたか 男性ひかれ死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589437?source=rss",
-        "publishedAt": "2026-07-26T22:19:14.000Z"
       }
     ],
     "subsidyHeadlines": [
