@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T21:29:27.742Z",
+  "updatedAt": "2026-07-28T21:56:26.295Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,20 @@
         "source": "city.yamagata-yamagata.lg.jp",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQazVKODVRTldCd2liX0FTb20xaVo0ZGVINC1mVEtoWnBURFljbXVJM2hXX09fejkxXzNqRjNJN0lEck9SUE90RFZ5Q0psVmdYanhadnVtaHpVVk9aMXp0WHdDV2lkbF8xcHBzdlgxZHM4bXZ5RjIzbnpxVVBQX2NUaUgzaXpLSnBJQWRDZHhXRHpLWHM?oc=5",
         "publishedAt": "2026-07-28T17:30:17.000Z"
+      },
+      {
+        "time": "06:30",
+        "title": "今日の注目スケジュール：工作機械受注、豪消費者物価指数、米FOMC政策金利発表など 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+        "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mbS1WSDM4Y0VHVVRXVEpOOGtRejB4V0FpT2FwT1J2WWt1TkIxZHlHRjU1MHVTQVVTMDB6VDhyWGlyNEZ4aTI1aElTbjdDWlN5UFFEVUMwR1l1SndWdDJiNUVLdklXdXM?oc=5",
+        "publishedAt": "2026-07-28T21:30:00.000Z"
+      },
+      {
+        "time": "06:30",
+        "title": "【注目トピックス 市況・概況】今日の注目スケジュール：工作機械受注、豪消費者物価指数、米FOMC政策金利発表など",
+        "source": "マネーポストWEB",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBXVnV5UGF6dS15OFAzeDhoTVZrUzhUbFRtd3RoRHEzeTFyTjVGN1RYZVZwbVhuTWRNVVFPdHVCUXMtelU0MjRR?oc=5",
+        "publishedAt": "2026-07-28T21:30:00.000Z"
       },
       {
         "time": "17:03",
@@ -31,20 +45,6 @@
         "publishedAt": "2026-07-28T00:42:36.000Z"
       },
       {
-        "time": "03:56",
-        "title": "商談記録80％削減へ！ ベルフェイス「bellSalesAI」中村留精密工業導入",
-        "source": "Dtimes",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KWWlNZkN4X1ZJME5GU1NBOXFoWnVsUmx3VmdLQXpKMGgzb0UtM3oxWVRTTmx4ZnFmYWJkLUhoVHY5VVkwYWc?oc=5",
-        "publishedAt": "2026-07-28T18:56:29.000Z"
-      },
-      {
-        "time": "12:14",
-        "title": "ベッコフオートメーション、日本市場向けに「エコノミードライブシステム」を発表",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xUmNFVGZ5dTJVNnZHbTJEMkxqVHduZWhUVEQwZkFzTTVjTy0yVk9TdFZYMFlySjlNSkliNEhMd1V4VnJHb2d6aHRiUVdqb1FYZEVtSw?oc=5",
-        "publishedAt": "2026-07-28T03:14:16.000Z"
-      },
-      {
         "time": "05:00",
         "title": "ドイツで磨く DMG森精機の強み（下）調達先の認定制度",
         "source": "日刊工業新聞",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-28T20:00:04.000Z"
       },
       {
-        "time": "09:46",
-        "title": "中村留精密、小型CNC旋盤を高速化 2タレット複合",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95QVZBSHpQS0gzVExZY1Nvc2Y5T2tBV0UzZFRTUl9ibkFsTzB5bVNUVXZRSlM2STZGRWlzYVY3WDAtLTlrUUs3UEFVUmhucmFiZFJLQmRKUmlOVzA?oc=5",
-        "publishedAt": "2026-07-28T00:46:02.000Z"
+        "time": "12:14",
+        "title": "ベッコフオートメーション、日本市場向けに「エコノミードライブシステム」を発表",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xUmNFVGZ5dTJVNnZHbTJEMkxqVHduZWhUVEQwZkFzTTVjTy0yVk9TdFZYMFlySjlNSkliNEhMd1V4VnJHb2d6aHRiUVdqb1FYZEVtSw?oc=5",
+        "publishedAt": "2026-07-28T03:14:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-07-28T19:24:45.000Z"
       },
       {
+        "time": "06:42",
+        "title": "イオン崩落 駐車場にいた記者ルポ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589722?source=rss",
+        "publishedAt": "2026-07-28T21:42:33.000Z"
+      },
+      {
         "time": "21:08",
         "title": "地震時のイオンモール 従業員語る",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-07-28T15:43:12.000Z"
       },
       {
-        "time": "03:43",
-        "title": "熊本県17市町村で約14万戸断水",
+        "time": "06:49",
+        "title": "地震 避難者は36市町村で4700人超",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589715?source=rss",
-        "publishedAt": "2026-07-28T18:43:08.000Z"
-      },
-      {
-        "time": "23:27",
-        "title": "宇城総合病院 一時受け入れを停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589703?source=rss",
-        "publishedAt": "2026-07-28T14:27:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589723?source=rss",
+        "publishedAt": "2026-07-28T21:49:57.000Z"
       }
     ],
     "subsidyHeadlines": [
