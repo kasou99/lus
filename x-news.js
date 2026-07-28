@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T00:45:51.776Z",
+  "updatedAt": "2026-07-28T01:38:56.938Z",
   "items": [
     {
-      "time": "08:45",
-      "title": "食品消費税1% 課題の先送り目立つ",
+      "time": "09:37",
+      "title": "米大統領 決裂なら再びイラン攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589583?source=rss",
-      "publishedAt": "2026-07-27T23:45:40.000Z",
-      "xQuery": "食品消費税1% 課題の先送り目立つ"
+      "url": "https://news.yahoo.co.jp/pickup/6589586?source=rss",
+      "publishedAt": "2026-07-28T00:37:05.000Z",
+      "xQuery": "米大統領 決裂なら再びイラン攻撃"
     },
     {
-      "time": "09:38",
-      "title": "日経平均 一時2500円以上値下がり",
+      "time": "08:33",
+      "title": "米の「麻薬船」攻撃 効果限定的か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589590?source=rss",
-      "publishedAt": "2026-07-28T00:38:51.000Z",
-      "xQuery": "日経平均 一時2500円以上値下がり"
+      "url": "https://news.yahoo.co.jp/pickup/6589578?source=rss",
+      "publishedAt": "2026-07-27T23:33:01.000Z",
+      "xQuery": "米の「麻薬船」攻撃 効果限定的か"
     },
     {
       "time": "08:54",
