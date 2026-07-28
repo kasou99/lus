@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T23:54:16.585Z",
+  "updatedAt": "2026-07-28T00:45:51.034Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-07-27T20:04:48.000Z"
       },
       {
+        "time": "09:19",
+        "title": "DNソリューションズが造船向け加工装置投入 - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnM0ZWZDODRGNmJtU0JNN0dvZmtmTWM1Z29Ua09XNmNPSVVjNFQ4TlZrczl4bmY0SEktdmozR2lBWkJ1X2hiNWNxWTNndFpjUE9sZGxkSmJVQmV4NXVCaTRXbVlRVDQ1c1p1XzlqdE02cEVDUmdsZnZVVkxJOHVJWTdB0gGWAUFVX3lxTE1BQmw2X0hXNzVlVVc4bHFGdEVFTUdWUWVJN3lmVWdocFFJc3VJak1md0g0RVVoNk5EN2Vzei1Gak9aLXJ6cm1sWmU5NjhneGcxME9MQ0x5WlFGZWRiT3JWOXREY29qaVBQdXpXdkFmTGdjNEhnWXFwVk5PbUNlZFVFVXlQcjJkTkZZTTg4eDJScVBZX3R3QQ?oc=5",
+        "publishedAt": "2026-07-28T00:19:00.000Z"
+      },
+      {
         "time": "05:02",
         "title": "ドイツで磨く DMG森精機の強み（中）訓練生受け入れ",
         "source": "日刊工業新聞",
@@ -45,13 +52,6 @@
         "publishedAt": "2026-07-27T01:20:00.000Z"
       },
       {
-        "time": "11:30",
-        "title": "東京タワー相当の紙を“完全撤廃” 点検業務をkintone化した“現場ファースト”な改善術",
-        "source": "週刊アスキー",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SMEJ3YkMtc25jbktfb1luTkN2NjZYWWFZbDRIZ2dtcjFHOHR4eHdFcUV5VVB5ZHJxeGF2WGN6NHUydmN3bHNpQmlwUnN0UXA0eEJkQjNDb2N2LWVHMkE?oc=5",
-        "publishedAt": "2026-07-27T02:30:00.000Z"
-      },
-      {
         "time": "15:03",
         "title": "ケーブルグランド＆キットの世界市場2026年、グローバル市場規模（金属製、樹脂製）・分析レポートを発表",
         "source": "ニコニコニュース",
@@ -61,18 +61,18 @@
     ],
     "worldHeadlines": [
       {
+        "time": "09:37",
+        "title": "米大統領 決裂なら再びイラン攻撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589586?source=rss",
+        "publishedAt": "2026-07-28T00:37:05.000Z"
+      },
+      {
         "time": "12:42",
         "title": "米軍司令官 イラン攻撃停止進言か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589479?source=rss",
         "publishedAt": "2026-07-27T03:42:33.000Z"
-      },
-      {
-        "time": "07:45",
-        "title": "イラン 米が攻撃停止なら報復停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589440?source=rss",
-        "publishedAt": "2026-07-26T22:45:44.000Z"
       },
       {
         "time": "08:58",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:38",
+        "title": "日経平均 一時2500円以上値下がり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589590?source=rss",
+        "publishedAt": "2026-07-28T00:38:51.000Z"
+      },
+      {
         "time": "07:42",
         "title": "プルデンシャル 成果主義見直しへ",
         "source": "Yahoo!ニュース",
@@ -126,25 +133,18 @@
         "publishedAt": "2026-07-27T13:35:28.000Z"
       },
       {
-        "time": "20:59",
-        "title": "「食べ放題」業態 増え続ける背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589544?source=rss",
-        "publishedAt": "2026-07-27T11:59:38.000Z"
-      },
-      {
-        "time": "17:22",
-        "title": "「寝ていない自慢」上司 問題点は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589515?source=rss",
-        "publishedAt": "2026-07-27T08:22:00.000Z"
-      },
-      {
         "time": "19:22",
         "title": "卒業控える女子大学生 主婦志す訳",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589536?source=rss",
         "publishedAt": "2026-07-27T10:22:59.000Z"
+      },
+      {
+        "time": "21:47",
+        "title": "園経営者が園児に塩 保育士ら会見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589546?source=rss",
+        "publishedAt": "2026-07-27T12:47:01.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-07-27T14:08:53.000Z"
       },
       {
-        "time": "21:45",
-        "title": "辺野古 遺族が校長や団体側を告訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589549?source=rss",
-        "publishedAt": "2026-07-27T12:45:04.000Z"
-      },
-      {
         "time": "06:34",
         "title": "車と衝突 ミニバイクの高校生死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589564?source=rss",
         "publishedAt": "2026-07-27T21:34:56.000Z"
+      },
+      {
+        "time": "08:54",
+        "title": "中学生か 自転車はねられ意識不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589584?source=rss",
+        "publishedAt": "2026-07-27T23:54:24.000Z"
       },
       {
         "time": "08:44",

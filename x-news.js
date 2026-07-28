@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-27T23:54:17.326Z",
+  "updatedAt": "2026-07-28T00:45:51.776Z",
   "items": [
     {
-      "time": "08:12",
-      "title": "西日本で猛烈な暑さ 熱中症に警戒",
+      "time": "08:45",
+      "title": "食品消費税1% 課題の先送り目立つ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589573?source=rss",
-      "publishedAt": "2026-07-27T23:12:37.000Z",
-      "xQuery": "西日本で猛烈な暑さ 熱中症に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6589583?source=rss",
+      "publishedAt": "2026-07-27T23:45:40.000Z",
+      "xQuery": "食品消費税1% 課題の先送り目立つ"
     },
     {
-      "time": "07:42",
-      "title": "プルデンシャル 成果主義見直しへ",
+      "time": "09:38",
+      "title": "日経平均 一時2500円以上値下がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589569?source=rss",
-      "publishedAt": "2026-07-27T22:42:06.000Z",
-      "xQuery": "プルデンシャル 成果主義見直しへ"
+      "url": "https://news.yahoo.co.jp/pickup/6589590?source=rss",
+      "publishedAt": "2026-07-28T00:38:51.000Z",
+      "xQuery": "日経平均 一時2500円以上値下がり"
     },
     {
-      "time": "08:44",
-      "title": "5歳遺体 客足戻らぬ現場温泉施設",
+      "time": "08:54",
+      "title": "中学生か 自転車はねられ意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589582?source=rss",
-      "publishedAt": "2026-07-27T23:44:05.000Z",
-      "xQuery": "5歳遺体 客足戻らぬ現場温泉施設"
+      "url": "https://news.yahoo.co.jp/pickup/6589584?source=rss",
+      "publishedAt": "2026-07-27T23:54:24.000Z",
+      "xQuery": "中学生か 自転車はねられ意識不明"
     },
     {
       "time": "08:20",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「セクストーション」相談が急増"
     },
     {
-      "time": "07:52",
-      "title": "屋根に人 大阪・天神祭で迷惑行為",
+      "time": "08:44",
+      "title": "5歳遺体 客足戻らぬ現場温泉施設",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589571?source=rss",
-      "publishedAt": "2026-07-27T22:52:49.000Z",
-      "xQuery": "屋根に人 大阪・天神祭で迷惑行為"
+      "url": "https://news.yahoo.co.jp/pickup/6589582?source=rss",
+      "publishedAt": "2026-07-27T23:44:05.000Z",
+      "xQuery": "5歳遺体 客足戻らぬ現場温泉施設"
     }
   ]
 };
