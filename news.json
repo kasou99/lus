@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T18:00:20.577Z",
+  "updatedAt": "2026-07-28T18:57:03.573Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "03:27",
+        "title": "地震影響 鉄道やフライト情報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589714?source=rss",
+        "publishedAt": "2026-07-28T18:27:55.000Z"
+      },
+      {
         "time": "22:31",
         "title": "九州の交通網やライフライン 影響",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589699?source=rss",
         "publishedAt": "2026-07-28T13:15:21.000Z"
-      },
-      {
-        "time": "17:14",
-        "title": "熊本で震度7 鉄道などの運行情報",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589642?source=rss",
-        "publishedAt": "2026-07-28T08:14:57.000Z"
       },
       {
         "time": "20:09",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-07-28T15:43:12.000Z"
       },
       {
-        "time": "20:18",
-        "title": "病院運ばれた1人死亡 熊本で震度7",
+        "time": "03:43",
+        "title": "熊本県17市町村で約14万戸断水",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589684?source=rss",
-        "publishedAt": "2026-07-28T11:18:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589715?source=rss",
+        "publishedAt": "2026-07-28T18:43:08.000Z"
       },
       {
         "time": "23:27",

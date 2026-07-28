@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T18:00:21.259Z",
+  "updatedAt": "2026-07-28T18:57:04.128Z",
   "items": [
     {
       "time": "01:28",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本県で震度7 最新情報まとめ"
     },
     {
-      "time": "16:54",
-      "title": "熊本県で震度7 現地のSNS投稿",
+      "time": "03:43",
+      "title": "熊本県17市町村で約14万戸断水",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589640?source=rss",
-      "publishedAt": "2026-07-28T07:54:10.000Z",
-      "xQuery": "熊本県で震度7 現地のSNS投稿"
+      "url": "https://news.yahoo.co.jp/pickup/6589715?source=rss",
+      "publishedAt": "2026-07-28T18:43:08.000Z",
+      "xQuery": "熊本県17市町村で約14万戸断水"
     }
   ]
 };
