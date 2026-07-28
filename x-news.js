@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T03:11:00.430Z",
+  "updatedAt": "2026-07-28T04:35:55.839Z",
   "items": [
     {
+      "time": "13:16",
+      "title": "板東英二さん死去 86歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589619?source=rss",
+      "publishedAt": "2026-07-28T04:16:37.000Z",
+      "xQuery": "板東英二さん死去 86歳"
+    },
+    {
+      "time": "11:59",
+      "title": "火災で一家4人死亡 悲しむ同級生",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589607?source=rss",
+      "publishedAt": "2026-07-28T02:59:07.000Z",
+      "xQuery": "火災で一家4人死亡 悲しむ同級生"
+    },
+    {
       "time": "11:22",
-      "title": "東日本・東北 激しい雷雨のおそれ",
+      "title": "相次ぐ夫の転勤 追い詰められた妻",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589600?source=rss",
-      "publishedAt": "2026-07-28T02:22:51.000Z",
-      "xQuery": "東日本・東北 激しい雷雨のおそれ"
-    },
-    {
-      "time": "11:25",
-      "title": "日経平均 一時3000円以上値下がり",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589604?source=rss",
-      "publishedAt": "2026-07-28T02:25:55.000Z",
-      "xQuery": "日経平均 一時3000円以上値下がり"
-    },
-    {
-      "time": "11:33",
-      "title": "刃物で女性3人が襲われる パリ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589602?source=rss",
-      "publishedAt": "2026-07-28T02:33:57.000Z",
-      "xQuery": "刃物で女性3人が襲われる パリ"
+      "url": "https://news.yahoo.co.jp/pickup/6589599?source=rss",
+      "publishedAt": "2026-07-28T02:22:58.000Z",
+      "xQuery": "相次ぐ夫の転勤 追い詰められた妻"
     },
     {
       "time": "11:46",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "国連で仏発言中 米代表団が退席"
     },
     {
-      "time": "11:26",
-      "title": "踏切でシニアカーと列車衝突 重体",
+      "time": "11:33",
+      "title": "刃物で女性3人が襲われる パリ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589603?source=rss",
-      "publishedAt": "2026-07-28T02:26:28.000Z",
-      "xQuery": "踏切でシニアカーと列車衝突 重体"
+      "url": "https://news.yahoo.co.jp/pickup/6589602?source=rss",
+      "publishedAt": "2026-07-28T02:33:57.000Z",
+      "xQuery": "刃物で女性3人が襲われる パリ"
     }
   ]
 };
