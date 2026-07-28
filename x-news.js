@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T04:35:55.839Z",
+  "updatedAt": "2026-07-28T06:00:31.200Z",
   "items": [
     {
-      "time": "13:16",
-      "title": "板東英二さん死去 86歳",
+      "time": "13:46",
+      "title": "東海でもマンション修繕談合疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589619?source=rss",
-      "publishedAt": "2026-07-28T04:16:37.000Z",
-      "xQuery": "板東英二さん死去 86歳"
+      "url": "https://news.yahoo.co.jp/pickup/6589620?source=rss",
+      "publishedAt": "2026-07-28T04:46:35.000Z",
+      "xQuery": "東海でもマンション修繕談合疑い"
     },
     {
-      "time": "11:59",
-      "title": "火災で一家4人死亡 悲しむ同級生",
+      "time": "14:53",
+      "title": "地方の「交通空白」どう解消する",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589607?source=rss",
-      "publishedAt": "2026-07-28T02:59:07.000Z",
-      "xQuery": "火災で一家4人死亡 悲しむ同級生"
+      "url": "https://news.yahoo.co.jp/pickup/6589617?source=rss",
+      "publishedAt": "2026-07-28T05:53:08.000Z",
+      "xQuery": "地方の「交通空白」どう解消する"
     },
     {
-      "time": "11:22",
-      "title": "相次ぐ夫の転勤 追い詰められた妻",
+      "time": "12:28",
+      "title": "老後に焦り「おひとりさま」本音",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589599?source=rss",
-      "publishedAt": "2026-07-28T02:22:58.000Z",
-      "xQuery": "相次ぐ夫の転勤 追い詰められた妻"
+      "url": "https://news.yahoo.co.jp/pickup/6589611?source=rss",
+      "publishedAt": "2026-07-28T03:28:00.000Z",
+      "xQuery": "老後に焦り「おひとりさま」本音"
     },
     {
-      "time": "11:46",
-      "title": "国連で仏発言中 米代表団が退席",
+      "time": "12:02",
+      "title": "VIVANT「別班」実在せずと小泉氏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589606?source=rss",
-      "publishedAt": "2026-07-28T02:46:45.000Z",
-      "xQuery": "国連で仏発言中 米代表団が退席"
+      "url": "https://news.yahoo.co.jp/pickup/6589609?source=rss",
+      "publishedAt": "2026-07-28T03:02:45.000Z",
+      "xQuery": "VIVANT「別班」実在せずと小泉氏"
     },
     {
-      "time": "11:33",
-      "title": "刃物で女性3人が襲われる パリ",
+      "time": "12:04",
+      "title": "BYDが日本で軽EV 実質100万円台",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589602?source=rss",
-      "publishedAt": "2026-07-28T02:33:57.000Z",
-      "xQuery": "刃物で女性3人が襲われる パリ"
+      "url": "https://news.yahoo.co.jp/pickup/6589608?source=rss",
+      "publishedAt": "2026-07-28T03:04:01.000Z",
+      "xQuery": "BYDが日本で軽EV 実質100万円台"
     }
   ]
 };

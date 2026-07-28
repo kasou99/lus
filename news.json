@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T04:35:54.953Z",
+  "updatedAt": "2026-07-28T06:00:30.730Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:51",
-        "title": "国産米需要が過去最低 輸入が急増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589595?source=rss",
-        "publishedAt": "2026-07-28T01:51:55.000Z"
-      },
-      {
         "time": "11:25",
         "title": "日経平均 一時3000円以上値下がり",
         "source": "Yahoo!ニュース",
@@ -119,11 +112,18 @@
         "publishedAt": "2026-07-28T02:25:55.000Z"
       },
       {
-        "time": "07:42",
-        "title": "プルデンシャル 成果主義見直しへ",
+        "time": "13:46",
+        "title": "東海でもマンション修繕談合疑い",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589569?source=rss",
-        "publishedAt": "2026-07-27T22:42:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589620?source=rss",
+        "publishedAt": "2026-07-28T04:46:35.000Z"
+      },
+      {
+        "time": "10:51",
+        "title": "国産米需要が過去最低 輸入が急増",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589595?source=rss",
+        "publishedAt": "2026-07-28T01:51:55.000Z"
       },
       {
         "time": "12:04",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-07-28T03:04:01.000Z"
       },
       {
+        "time": "14:53",
+        "title": "地方の「交通空白」どう解消する",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589617?source=rss",
+        "publishedAt": "2026-07-28T05:53:08.000Z"
+      },
+      {
         "time": "11:22",
         "title": "相次ぐ夫の転勤 追い詰められた妻",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589599?source=rss",
         "publishedAt": "2026-07-28T02:22:58.000Z"
-      },
-      {
-        "time": "10:18",
-        "title": "4玉まで同一価格 うどん店の戦略",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589593?source=rss",
-        "publishedAt": "2026-07-28T01:18:40.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-07-27T23:54:24.000Z"
       },
       {
+        "time": "13:44",
+        "title": "有償で腎移植あっせん疑い 再逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589615?source=rss",
+        "publishedAt": "2026-07-28T04:44:16.000Z"
+      },
+      {
         "time": "08:44",
         "title": "5歳遺体 客足戻らぬ現場温泉施設",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589582?source=rss",
         "publishedAt": "2026-07-27T23:44:05.000Z"
-      },
-      {
-        "time": "18:36",
-        "title": "クマを溺死させ駆除 町に苦情続く",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589531?source=rss",
-        "publishedAt": "2026-07-27T09:36:24.000Z"
       }
     ],
     "subsidyHeadlines": [
