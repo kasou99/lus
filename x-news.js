@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T08:20:54.467Z",
+  "updatedAt": "2026-07-28T09:26:24.201Z",
   "items": [
     {
-      "time": "16:40",
-      "title": "有明・八代海に津波注意報",
+      "time": "18:11",
+      "title": "1週間程度は震度7程度の地震注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589636?source=rss",
-      "publishedAt": "2026-07-28T07:40:33.000Z",
-      "xQuery": "有明・八代海に津波注意報"
+      "url": "https://news.yahoo.co.jp/pickup/6589662?source=rss",
+      "publishedAt": "2026-07-28T09:11:31.000Z",
+      "xQuery": "1週間程度は震度7程度の地震注意"
     },
     {
-      "time": "17:03",
+      "time": "18:15",
+      "title": "津波注意報を全て解除 気象庁",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589663?source=rss",
+      "publishedAt": "2026-07-28T09:15:16.000Z",
+      "xQuery": "津波注意報を全て解除 気象庁"
+    },
+    {
+      "time": "17:28",
+      "title": "熊本県で震度7 けが人複数か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589648?source=rss",
+      "publishedAt": "2026-07-28T08:28:04.000Z",
+      "xQuery": "熊本県で震度7 けが人複数か"
+    },
+    {
+      "time": "18:08",
       "title": "熊本県で震度7 最新情報まとめ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589641?source=rss",
-      "publishedAt": "2026-07-28T08:03:11.000Z",
+      "url": "https://news.yahoo.co.jp/pickup/6589656?source=rss",
+      "publishedAt": "2026-07-28T09:08:59.000Z",
       "xQuery": "熊本県で震度7 最新情報まとめ"
     },
     {
-      "time": "17:10",
-      "title": "有明・八代海に最大1mの津波予想",
+      "time": "17:18",
+      "title": "熊本などで停電 最新情報を地図で",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589643?source=rss",
-      "publishedAt": "2026-07-28T08:10:39.000Z",
-      "xQuery": "有明・八代海に最大1mの津波予想"
-    },
-    {
-      "time": "16:58",
-      "title": "有明・八代海の津波到達予想時刻",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589639?source=rss",
-      "publishedAt": "2026-07-28T07:58:27.000Z",
-      "xQuery": "有明・八代海の津波到達予想時刻"
-    },
-    {
-      "time": "17:10",
-      "title": "人的被害情報は確認されず 熊本県",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589645?source=rss",
-      "publishedAt": "2026-07-28T08:10:25.000Z",
-      "xQuery": "人的被害情報は確認されず 熊本県"
+      "url": "https://news.yahoo.co.jp/pickup/6589646?source=rss",
+      "publishedAt": "2026-07-28T08:18:31.000Z",
+      "xQuery": "熊本などで停電 最新情報を地図で"
     }
   ]
 };
