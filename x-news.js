@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T01:38:56.938Z",
+  "updatedAt": "2026-07-28T03:11:00.430Z",
   "items": [
     {
-      "time": "09:37",
-      "title": "米大統領 決裂なら再びイラン攻撃",
+      "time": "11:22",
+      "title": "東日本・東北 激しい雷雨のおそれ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589586?source=rss",
-      "publishedAt": "2026-07-28T00:37:05.000Z",
-      "xQuery": "米大統領 決裂なら再びイラン攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6589600?source=rss",
+      "publishedAt": "2026-07-28T02:22:51.000Z",
+      "xQuery": "東日本・東北 激しい雷雨のおそれ"
     },
     {
-      "time": "08:33",
-      "title": "米の「麻薬船」攻撃 効果限定的か",
+      "time": "11:25",
+      "title": "日経平均 一時3000円以上値下がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589578?source=rss",
-      "publishedAt": "2026-07-27T23:33:01.000Z",
-      "xQuery": "米の「麻薬船」攻撃 効果限定的か"
+      "url": "https://news.yahoo.co.jp/pickup/6589604?source=rss",
+      "publishedAt": "2026-07-28T02:25:55.000Z",
+      "xQuery": "日経平均 一時3000円以上値下がり"
     },
     {
-      "time": "08:54",
-      "title": "中学生か 自転車はねられ意識不明",
+      "time": "11:33",
+      "title": "刃物で女性3人が襲われる パリ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589584?source=rss",
-      "publishedAt": "2026-07-27T23:54:24.000Z",
-      "xQuery": "中学生か 自転車はねられ意識不明"
+      "url": "https://news.yahoo.co.jp/pickup/6589602?source=rss",
+      "publishedAt": "2026-07-28T02:33:57.000Z",
+      "xQuery": "刃物で女性3人が襲われる パリ"
     },
     {
-      "time": "08:20",
-      "title": "「セクストーション」相談が急増",
+      "time": "11:46",
+      "title": "国連で仏発言中 米代表団が退席",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589577?source=rss",
-      "publishedAt": "2026-07-27T23:20:23.000Z",
-      "xQuery": "「セクストーション」相談が急増"
+      "url": "https://news.yahoo.co.jp/pickup/6589606?source=rss",
+      "publishedAt": "2026-07-28T02:46:45.000Z",
+      "xQuery": "国連で仏発言中 米代表団が退席"
     },
     {
-      "time": "08:44",
-      "title": "5歳遺体 客足戻らぬ現場温泉施設",
+      "time": "11:26",
+      "title": "踏切でシニアカーと列車衝突 重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589582?source=rss",
-      "publishedAt": "2026-07-27T23:44:05.000Z",
-      "xQuery": "5歳遺体 客足戻らぬ現場温泉施設"
+      "url": "https://news.yahoo.co.jp/pickup/6589603?source=rss",
+      "publishedAt": "2026-07-28T02:26:28.000Z",
+      "xQuery": "踏切でシニアカーと列車衝突 重体"
     }
   ]
 };

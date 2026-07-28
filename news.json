@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-28T01:38:56.299Z",
+  "updatedAt": "2026-07-28T03:10:59.277Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:03",
+        "title": "YUASA、工作機械に5年保証 延長プログラム創設",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TemFldndKTUpLSzJNQlk0bThRT3J4dnI4dmZfN2V4bDEtYU9CTk0yWlRHZUtJMnlQSExpQzE4cGc5bzR5UU5rNkQ0RmktZU9CUHA0bjJPOHNKc1k?oc=5",
+        "publishedAt": "2026-07-27T20:03:59.000Z"
+      },
       {
         "time": "06:00",
         "title": "マツダが挑む設備保全DX、AIやIoTで自動車工場内火力発電所の現地点検ゼロへ",
@@ -10,11 +17,11 @@
         "publishedAt": "2026-07-27T21:00:00.000Z"
       },
       {
-        "time": "05:03",
-        "title": "YUASA、工作機械に5年保証 延長プログラム創設",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TemFldndKTUpLSzJNQlk0bThRT3J4dnI4dmZfN2V4bDEtYU9CTk0yWlRHZUtJMnlQSExpQzE4cGc5bzR5UU5rNkQ0RmktZU9CUHA0bjJPOHNKc1k?oc=5",
-        "publishedAt": "2026-07-27T20:03:59.000Z"
+        "time": "12:00",
+        "title": "ベッコフオートメーション、日本市場向けに「エコノミードライブシステム」を発表",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xUmNFVGZ5dTJVNnZHbTJEMkxqVHduZWhUVEQwZkFzTTVjTy0yVk9TdFZYMFlySjlNSkliNEhMd1V4VnJHb2d6aHRiUVdqb1FYZEVtSw?oc=5",
+        "publishedAt": "2026-07-28T03:00:19.000Z"
       },
       {
         "time": "09:42",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-07-27T22:00:00.000Z"
       },
       {
-        "time": "10:00",
-        "title": "ベッコフオートメーション、日本市場向けに「エコノミードライブシステム」を発表",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83cjJhbTNhTm96WEFJckJTUVNOSFMtVnBmaThCVHhOVWVfZ3h4bW1jaDBNZVY1bXlHQUpsNFR6VFZubEZGaVBaNVRhTjNwU0JJZnRRUF9iMEg1aElsMms3aVZGVkg2Q21ucWc?oc=5",
-        "publishedAt": "2026-07-28T01:00:03.000Z"
-      },
-      {
         "time": "05:04",
         "title": "中村留精密、小型CNC旋盤を高速化 2タレット複合",
         "source": "日刊工業新聞",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-28T00:19:00.000Z"
       },
       {
-        "time": "05:02",
-        "title": "ドイツで磨く DMG森精機の強み（中）訓練生受け入れ",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNdzBhQUdVeVU1YUtaRl9nZmE1blM1SjBnX1o4U203WTVNbGcxUXE4dl9iSVNxVHRQN29UUUVybExRZU9BbG1UclpUOFpCTUJubGpwSUxTeGlnNlE?oc=5",
-        "publishedAt": "2026-07-27T20:02:37.000Z"
+        "time": "15:03",
+        "title": "ケーブルグランド＆キットの世界市場2026年、グローバル市場規模（金属製、樹脂製）・分析レポートを発表",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMRWVQN3FCeXM5LUtOMjRqNG9URmdlZjZ3c3VEaTFRWnExWWlWN2R6V0ZsV3NsTHFXVEFCVWk5aTJhTG5vMHFRZnpxUWtjWHVZbzFfdUVlRkxlMEw3VXllaWg3VFdhYmRM?oc=5",
+        "publishedAt": "2026-07-27T06:03:13.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,18 +75,18 @@
         "publishedAt": "2026-07-27T03:42:33.000Z"
       },
       {
-        "time": "08:58",
-        "title": "露大統領 侵攻継続の意欲変わらず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589451?source=rss",
-        "publishedAt": "2026-07-26T23:58:41.000Z"
-      },
-      {
         "time": "06:51",
         "title": "トランプ氏 FRBに利下げを要求",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589565?source=rss",
         "publishedAt": "2026-07-27T21:51:24.000Z"
+      },
+      {
+        "time": "11:46",
+        "title": "国連で仏発言中 米代表団が退席",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589606?source=rss",
+        "publishedAt": "2026-07-28T02:46:45.000Z"
       },
       {
         "time": "13:24",
@@ -96,20 +96,27 @@
         "publishedAt": "2026-07-27T04:24:06.000Z"
       },
       {
-        "time": "10:17",
-        "title": "仏の山火事 消防士足りず住民消火",
+        "time": "11:33",
+        "title": "刃物で女性3人が襲われる パリ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589591?source=rss",
-        "publishedAt": "2026-07-28T01:17:49.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589602?source=rss",
+        "publishedAt": "2026-07-28T02:33:57.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "09:38",
-        "title": "日経平均 一時2500円以上値下がり",
+        "time": "10:51",
+        "title": "国産米需要が過去最低 輸入が急増",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589590?source=rss",
-        "publishedAt": "2026-07-28T00:38:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589595?source=rss",
+        "publishedAt": "2026-07-28T01:51:55.000Z"
+      },
+      {
+        "time": "11:25",
+        "title": "日経平均 一時3000円以上値下がり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589604?source=rss",
+        "publishedAt": "2026-07-28T02:25:55.000Z"
       },
       {
         "time": "07:42",
@@ -119,18 +126,18 @@
         "publishedAt": "2026-07-27T22:42:06.000Z"
       },
       {
-        "time": "19:22",
-        "title": "卒業控える女子大学生 主婦志す訳",
+        "time": "12:04",
+        "title": "BYDが日本で軽EV 実質100万円台",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589536?source=rss",
-        "publishedAt": "2026-07-27T10:22:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589608?source=rss",
+        "publishedAt": "2026-07-28T03:04:01.000Z"
       },
       {
-        "time": "22:35",
-        "title": "ホテル高騰 「コスパ旅」に熱視線",
+        "time": "11:22",
+        "title": "相次ぐ夫の転勤 追い詰められた妻",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589554?source=rss",
-        "publishedAt": "2026-07-27T13:35:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589599?source=rss",
+        "publishedAt": "2026-07-28T02:22:58.000Z"
       },
       {
         "time": "10:18",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589593?source=rss",
         "publishedAt": "2026-07-28T01:18:40.000Z"
-      },
-      {
-        "time": "10:17",
-        "title": "草刈り「エンタメ化」で人材確保",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589594?source=rss",
-        "publishedAt": "2026-07-28T01:17:55.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,11 +156,18 @@
         "publishedAt": "2026-07-27T14:08:53.000Z"
       },
       {
-        "time": "06:34",
-        "title": "車と衝突 ミニバイクの高校生死亡",
+        "time": "11:59",
+        "title": "火災で一家4人死亡 悲しむ同級生",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589564?source=rss",
-        "publishedAt": "2026-07-27T21:34:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589607?source=rss",
+        "publishedAt": "2026-07-28T02:59:07.000Z"
+      },
+      {
+        "time": "11:26",
+        "title": "踏切でシニアカーと列車衝突 重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589603?source=rss",
+        "publishedAt": "2026-07-28T02:26:28.000Z"
       },
       {
         "time": "08:54",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589582?source=rss",
         "publishedAt": "2026-07-27T23:44:05.000Z"
-      },
-      {
-        "time": "22:36",
-        "title": "アイヌ遺骨研究で北海道大が謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589553?source=rss",
-        "publishedAt": "2026-07-27T13:36:42.000Z"
       },
       {
         "time": "18:36",
