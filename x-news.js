@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T13:06:40.287Z",
+  "updatedAt": "2026-07-28T14:18:12.653Z",
   "items": [
-    {
-      "time": "21:08",
-      "title": "熊本県で震度7 最新情報まとめ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589694?source=rss",
-      "publishedAt": "2026-07-28T12:08:03.000Z",
-      "xQuery": "熊本県で震度7 最新情報まとめ"
-    },
-    {
-      "time": "20:09",
-      "title": "電気ガス停止 安全優先でどう対応",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6583459?source=rss",
-      "publishedAt": "2026-07-28T11:09:00.000Z",
-      "xQuery": "電気ガス停止 安全優先でどう対応"
-    },
     {
       "time": "21:32",
       "title": "イオンモール熊本20-30人安否不明",
@@ -26,20 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "イオンモール熊本20-30人安否不明"
     },
     {
-      "time": "21:54",
-      "title": "日本製紙で数人が安否不明か 熊本",
+      "time": "21:08",
+      "title": "熊本県で震度7 最新情報まとめ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589697?source=rss",
-      "publishedAt": "2026-07-28T12:54:23.000Z",
-      "xQuery": "日本製紙で数人が安否不明か 熊本"
+      "url": "https://news.yahoo.co.jp/pickup/6589694?source=rss",
+      "publishedAt": "2026-07-28T12:08:03.000Z",
+      "xQuery": "熊本県で震度7 最新情報まとめ"
     },
     {
-      "time": "20:45",
-      "title": "家屋一部倒壊し女性閉じ込め 熊本",
+      "time": "16:54",
+      "title": "熊本県で震度7 現地のSNS投稿",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589688?source=rss",
-      "publishedAt": "2026-07-28T11:45:20.000Z",
-      "xQuery": "家屋一部倒壊し女性閉じ込め 熊本"
+      "url": "https://news.yahoo.co.jp/pickup/6589640?source=rss",
+      "publishedAt": "2026-07-28T07:54:10.000Z",
+      "xQuery": "熊本県で震度7 現地のSNS投稿"
+    },
+    {
+      "time": "22:31",
+      "title": "九州の交通網やライフライン 影響",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589702?source=rss",
+      "publishedAt": "2026-07-28T13:31:06.000Z",
+      "xQuery": "九州の交通網やライフライン 影響"
+    },
+    {
+      "time": "22:15",
+      "title": "鉄道各社見合わせ 帰宅困難者続出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589699?source=rss",
+      "publishedAt": "2026-07-28T13:15:21.000Z",
+      "xQuery": "鉄道各社見合わせ 帰宅困難者続出"
     }
   ]
 };

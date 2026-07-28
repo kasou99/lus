@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T13:06:39.565Z",
+  "updatedAt": "2026-07-28T14:18:11.911Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,20 @@
     ],
     "economyHeadlines": [
       {
+        "time": "22:31",
+        "title": "九州の交通網やライフライン 影響",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589702?source=rss",
+        "publishedAt": "2026-07-28T13:31:06.000Z"
+      },
+      {
+        "time": "22:15",
+        "title": "鉄道各社見合わせ 帰宅困難者続出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589699?source=rss",
+        "publishedAt": "2026-07-28T13:15:21.000Z"
+      },
+      {
         "time": "17:14",
         "title": "熊本で震度7 鉄道などの運行情報",
         "source": "Yahoo!ニュース",
@@ -117,20 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6583459?source=rss",
         "publishedAt": "2026-07-28T11:09:00.000Z"
-      },
-      {
-        "time": "13:46",
-        "title": "東海でもマンション修繕談合疑い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589620?source=rss",
-        "publishedAt": "2026-07-28T04:46:35.000Z"
-      },
-      {
-        "time": "10:51",
-        "title": "国産米需要が過去最低 輸入が急増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589595?source=rss",
-        "publishedAt": "2026-07-28T01:51:55.000Z"
       },
       {
         "time": "12:04",
@@ -170,11 +170,11 @@
         "publishedAt": "2026-07-28T12:08:10.000Z"
       },
       {
-        "time": "21:54",
-        "title": "日本製紙で数人が安否不明か 熊本",
+        "time": "22:22",
+        "title": "日本製紙で要救助「8人程度」熊本",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589697?source=rss",
-        "publishedAt": "2026-07-28T12:54:23.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589701?source=rss",
+        "publishedAt": "2026-07-28T13:22:27.000Z"
       },
       {
         "time": "20:18",
