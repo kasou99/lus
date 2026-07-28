@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T11:18:35.369Z",
+  "updatedAt": "2026-07-28T12:12:08.237Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-07-28T03:14:16.000Z"
       },
       {
-        "time": "05:53",
+        "time": "09:46",
         "title": "中村留精密、小型CNC旋盤を高速化 2タレット複合",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95X01uakxIRDFkUGd2LXV3RGNpaVp0S05rd09XOFZJN1lxQXZQYUc1d3F5cC14UWdUbzVJejFCendBTXdiTTFldTV4MXEwTS1TWnJMRF93cl8?oc=5",
-        "publishedAt": "2026-07-27T20:53:03.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95QVZBSHpQS0gzVExZY1Nvc2Y5T2tBV0UzZFRTUl9ibkFsTzB5bVNUVXZRSlM2STZGRWlzYVY3WDAtLTlrUUs3UEFVUmhucmFiZFJLQmRKUmlOVzA?oc=5",
+        "publishedAt": "2026-07-28T00:46:02.000Z"
       },
       {
         "time": "09:19",
@@ -149,11 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "19:59",
-        "title": "イオンモール熊本で死者多数 県警",
+        "time": "21:00",
+        "title": "イオンモール熊本 複数人が死亡か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589681?source=rss",
-        "publishedAt": "2026-07-28T10:59:15.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589690?source=rss",
+        "publishedAt": "2026-07-28T12:00:28.000Z"
+      },
+      {
+        "time": "21:08",
+        "title": "地震時のイオンモール 従業員語る",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589689?source=rss",
+        "publishedAt": "2026-07-28T12:08:10.000Z"
       },
       {
         "time": "20:01",
@@ -163,18 +170,18 @@
         "publishedAt": "2026-07-28T11:01:48.000Z"
       },
       {
-        "time": "19:20",
-        "title": "熊本氷川町の病院 50人以上けが",
+        "time": "20:18",
+        "title": "病院運ばれた1人死亡 熊本で震度7",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589675?source=rss",
-        "publishedAt": "2026-07-28T10:20:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589684?source=rss",
+        "publishedAt": "2026-07-28T11:18:22.000Z"
       },
       {
-        "time": "18:32",
-        "title": "家屋倒壊12件・閉じ込め4件 熊本",
+        "time": "20:45",
+        "title": "家屋一部倒壊し女性閉じ込め 熊本",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589665?source=rss",
-        "publishedAt": "2026-07-28T09:32:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589688?source=rss",
+        "publishedAt": "2026-07-28T11:45:20.000Z"
       },
       {
         "time": "19:22",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589677?source=rss",
         "publishedAt": "2026-07-28T10:22:18.000Z"
-      },
-      {
-        "time": "18:18",
-        "title": "10年ぶりの恐怖 熊本襲った震度7",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589661?source=rss",
-        "publishedAt": "2026-07-28T09:18:43.000Z"
       }
     ],
     "subsidyHeadlines": [

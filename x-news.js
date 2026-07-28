@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T11:18:36.213Z",
+  "updatedAt": "2026-07-28T12:12:08.917Z",
   "items": [
     {
-      "time": "19:59",
-      "title": "イオンモール熊本で死者多数 県警",
+      "time": "21:08",
+      "title": "熊本県で震度7 最新情報まとめ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589681?source=rss",
-      "publishedAt": "2026-07-28T10:59:15.000Z",
-      "xQuery": "イオンモール熊本で死者多数 県警"
+      "url": "https://news.yahoo.co.jp/pickup/6589694?source=rss",
+      "publishedAt": "2026-07-28T12:08:03.000Z",
+      "xQuery": "熊本県で震度7 最新情報まとめ"
+    },
+    {
+      "time": "20:09",
+      "title": "電気ガス停止 安全優先でどう対応",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6583459?source=rss",
+      "publishedAt": "2026-07-28T11:09:00.000Z",
+      "xQuery": "電気ガス停止 安全優先でどう対応"
     },
     {
       "time": "18:51",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "避難中の熱中症警戒 蒸し暑さ続く"
     },
     {
-      "time": "17:18",
-      "title": "熊本などで停電 最新情報を地図で",
+      "time": "21:00",
+      "title": "イオンモール熊本 複数人が死亡か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589646?source=rss",
-      "publishedAt": "2026-07-28T08:18:31.000Z",
-      "xQuery": "熊本などで停電 最新情報を地図で"
+      "url": "https://news.yahoo.co.jp/pickup/6589690?source=rss",
+      "publishedAt": "2026-07-28T12:00:28.000Z",
+      "xQuery": "イオンモール熊本 複数人が死亡か"
     },
     {
-      "time": "19:20",
-      "title": "熊本氷川町の病院 50人以上けが",
+      "time": "21:08",
+      "title": "地震時のイオンモール 従業員語る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589675?source=rss",
-      "publishedAt": "2026-07-28T10:20:31.000Z",
-      "xQuery": "熊本氷川町の病院 50人以上けが"
-    },
-    {
-      "time": "19:22",
-      "title": "島原市の眉山で斜面崩落 地震影響",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589677?source=rss",
-      "publishedAt": "2026-07-28T10:22:18.000Z",
-      "xQuery": "島原市の眉山で斜面崩落 地震影響"
+      "url": "https://news.yahoo.co.jp/pickup/6589689?source=rss",
+      "publishedAt": "2026-07-28T12:08:10.000Z",
+      "xQuery": "地震時のイオンモール 従業員語る"
     }
   ]
 };
