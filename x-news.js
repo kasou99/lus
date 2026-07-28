@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T09:26:24.201Z",
+  "updatedAt": "2026-07-28T10:22:34.292Z",
   "items": [
+    {
+      "time": "19:09",
+      "title": "イオンモール熊本爆発 閉じ込めか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589674?source=rss",
+      "publishedAt": "2026-07-28T10:09:48.000Z",
+      "xQuery": "イオンモール熊本爆発 閉じ込めか"
+    },
     {
       "time": "18:11",
       "title": "1週間程度は震度7程度の地震注意",
@@ -10,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "1週間程度は震度7程度の地震注意"
     },
     {
-      "time": "18:15",
-      "title": "津波注意報を全て解除 気象庁",
+      "time": "19:20",
+      "title": "熊本氷川町の病院 50人以上けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589663?source=rss",
-      "publishedAt": "2026-07-28T09:15:16.000Z",
-      "xQuery": "津波注意報を全て解除 気象庁"
+      "url": "https://news.yahoo.co.jp/pickup/6589675?source=rss",
+      "publishedAt": "2026-07-28T10:20:31.000Z",
+      "xQuery": "熊本氷川町の病院 50人以上けが"
     },
     {
-      "time": "17:28",
-      "title": "熊本県で震度7 けが人複数か",
+      "time": "16:54",
+      "title": "熊本県で震度7 現地のSNS投稿",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589648?source=rss",
-      "publishedAt": "2026-07-28T08:28:04.000Z",
-      "xQuery": "熊本県で震度7 けが人複数か"
+      "url": "https://news.yahoo.co.jp/pickup/6589640?source=rss",
+      "publishedAt": "2026-07-28T07:54:10.000Z",
+      "xQuery": "熊本県で震度7 現地のSNS投稿"
     },
     {
       "time": "18:08",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589656?source=rss",
       "publishedAt": "2026-07-28T09:08:59.000Z",
       "xQuery": "熊本県で震度7 最新情報まとめ"
-    },
-    {
-      "time": "17:18",
-      "title": "熊本などで停電 最新情報を地図で",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589646?source=rss",
-      "publishedAt": "2026-07-28T08:18:31.000Z",
-      "xQuery": "熊本などで停電 最新情報を地図で"
     }
   ]
 };

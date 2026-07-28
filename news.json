@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T09:26:23.584Z",
+  "updatedAt": "2026-07-28T10:22:33.651Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TemFldndKTUpLSzJNQlk0bThRT3J4dnI4dmZfN2V4bDEtYU9CTk0yWlRHZUtJMnlQSExpQzE4cGc5bzR5UU5rNkQ0RmktZU9CUHA0bjJPOHNKc1k?oc=5",
         "publishedAt": "2026-07-28T08:03:38.000Z"
+      },
+      {
+        "time": "07:00",
+        "title": "工作機械向け長期保証サービス「Anshin+V 延長保証プログラム」の開発・販売開始のお知らせ",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oVG9DMVo3VVg5RDlnUmI1SWVfM2kydnJhT0tCdHJwYTV2XzF6NjFLaHdzZ05JQm9EcjY2MnhVejhLVmFScDU1blJkQWRmdXhxeTRMZjU1TmVjMEhsM0d5cHZLMElybHlEMEE?oc=5",
+        "publishedAt": "2026-07-27T22:00:01.000Z"
       },
       {
         "time": "06:00",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-07-28T03:14:16.000Z"
       },
       {
-        "time": "07:00",
-        "title": "工作機械向け長期保証サービス「Anshin+V 延長保証プログラム」の開発・販売開始のお知らせ",
-        "source": "イザ！",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Fd2RtXy1qdDFDczA4MDhaTTllTDJkMXhUbHVSNFNyeksweXluanA5NHBmQzNjSjdYQzYwbDEyWVY2T1NyZExXSWZxQnM0QndiXzFXMk1xS3pYRjF4dXQ4c3M2ekZRYUU3dkFreWEtYXV3ZUlvbE1lMTNR?oc=5",
-        "publishedAt": "2026-07-27T22:00:00.000Z"
-      },
-      {
         "time": "05:53",
         "title": "中村留精密、小型CNC旋盤を高速化 2タレット複合",
         "source": "日刊工業新聞",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-28T00:19:00.000Z"
       },
       {
-        "time": "05:02",
-        "title": "新頭取登場／十六銀行・種村京平氏 150周年、地域貢献の施策を",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LUU1TeXBFeVlWekFTOGRxMk1aRTdUdXNXWGdKd0RXbXJpUTlmNXUxbmhoVlV2V2xJVEcyenZudW52Z2trNTZPc1ROZXFJdTN3VTg0cXVYR1dxOXc?oc=5",
-        "publishedAt": "2026-07-27T20:02:37.000Z"
+        "time": "11:30",
+        "title": "固定式自動消火システムの世界市場（2026年～2032年）、市場規模（ユニット独立型消火システム、集中配管式消火システム）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16Zi04UVhGQjh2YTl2RDNUQVRXcEc4T2JtNEpsMGxJdk1pSF8zN1pYazBxaTA0WW5nMUhBTTBFNms0VmgtSFQzcjhXcXNxMVk?oc=5",
+        "publishedAt": "2026-07-28T02:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,18 +149,32 @@
     ],
     "localHeadlines": [
       {
+        "time": "19:09",
+        "title": "イオンモール熊本爆発 閉じ込めか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589674?source=rss",
+        "publishedAt": "2026-07-28T10:09:48.000Z"
+      },
+      {
+        "time": "19:20",
+        "title": "熊本氷川町の病院 50人以上けが",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589675?source=rss",
+        "publishedAt": "2026-07-28T10:20:31.000Z"
+      },
+      {
+        "time": "18:32",
+        "title": "家屋倒壊12件・閉じ込め4件 熊本",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589665?source=rss",
+        "publishedAt": "2026-07-28T09:32:52.000Z"
+      },
+      {
         "time": "18:18",
         "title": "10年ぶりの恐怖 熊本襲った震度7",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589661?source=rss",
         "publishedAt": "2026-07-28T09:18:43.000Z"
-      },
-      {
-        "time": "17:28",
-        "title": "熊本県で震度7 けが人複数か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589648?source=rss",
-        "publishedAt": "2026-07-28T08:28:04.000Z"
       },
       {
         "time": "18:00",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589640?source=rss",
         "publishedAt": "2026-07-28T07:54:10.000Z"
-      },
-      {
-        "time": "17:56",
-        "title": "熊本県 一部エリアで通信できず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589657?source=rss",
-        "publishedAt": "2026-07-28T08:56:32.000Z"
-      },
-      {
-        "time": "11:59",
-        "title": "火災で一家4人死亡 悲しむ同級生",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589607?source=rss",
-        "publishedAt": "2026-07-28T02:59:07.000Z"
       }
     ],
     "subsidyHeadlines": [
