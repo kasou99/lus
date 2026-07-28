@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T10:22:33.651Z",
+  "updatedAt": "2026-07-28T11:18:35.369Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-28T00:19:00.000Z"
       },
       {
-        "time": "11:30",
-        "title": "固定式自動消火システムの世界市場（2026年～2032年）、市場規模（ユニット独立型消火システム、集中配管式消火システム）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16Zi04UVhGQjh2YTl2RDNUQVRXcEc4T2JtNEpsMGxJdk1pSF8zN1pYazBxaTA0WW5nMUhBTTBFNms0VmgtSFQzcjhXcXNxMVk?oc=5",
-        "publishedAt": "2026-07-28T02:30:00.000Z"
+        "time": "05:02",
+        "title": "新頭取登場／十六銀行・種村京平氏 150周年、地域貢献の施策を",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LUU1TeXBFeVlWekFTOGRxMk1aRTdUdXNXWGdKd0RXbXJpUTlmNXUxbmhoVlV2V2xJVEcyenZudW52Z2trNTZPc1ROZXFJdTN3VTg0cXVYR1dxOXc?oc=5",
+        "publishedAt": "2026-07-27T20:02:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,11 +112,11 @@
         "publishedAt": "2026-07-28T08:14:57.000Z"
       },
       {
-        "time": "15:52",
-        "title": "東証大幅反落 終値は6万2364円",
+        "time": "20:09",
+        "title": "電気ガス停止 安全優先でどう対応",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589631?source=rss",
-        "publishedAt": "2026-07-28T06:52:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6583459?source=rss",
+        "publishedAt": "2026-07-28T11:09:00.000Z"
       },
       {
         "time": "13:46",
@@ -149,11 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "19:09",
-        "title": "イオンモール熊本爆発 閉じ込めか",
+        "time": "19:59",
+        "title": "イオンモール熊本で死者多数 県警",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589674?source=rss",
-        "publishedAt": "2026-07-28T10:09:48.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589681?source=rss",
+        "publishedAt": "2026-07-28T10:59:15.000Z"
+      },
+      {
+        "time": "20:01",
+        "title": "熊本城で石垣の一部崩落 復旧懸念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589680?source=rss",
+        "publishedAt": "2026-07-28T11:01:48.000Z"
       },
       {
         "time": "19:20",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-07-28T09:32:52.000Z"
       },
       {
+        "time": "19:22",
+        "title": "島原市の眉山で斜面崩落 地震影響",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589677?source=rss",
+        "publishedAt": "2026-07-28T10:22:18.000Z"
+      },
+      {
         "time": "18:18",
         "title": "10年ぶりの恐怖 熊本襲った震度7",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589661?source=rss",
         "publishedAt": "2026-07-28T09:18:43.000Z"
-      },
-      {
-        "time": "18:00",
-        "title": "熊本城 石垣が複数の場所で崩れる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589659?source=rss",
-        "publishedAt": "2026-07-28T09:00:16.000Z"
-      },
-      {
-        "time": "16:54",
-        "title": "熊本県で震度7 現地のSNS投稿",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589640?source=rss",
-        "publishedAt": "2026-07-28T07:54:10.000Z"
       }
     ],
     "subsidyHeadlines": [

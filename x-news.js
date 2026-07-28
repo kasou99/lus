@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T10:22:34.292Z",
+  "updatedAt": "2026-07-28T11:18:36.213Z",
   "items": [
     {
-      "time": "19:09",
-      "title": "イオンモール熊本爆発 閉じ込めか",
+      "time": "19:59",
+      "title": "イオンモール熊本で死者多数 県警",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589674?source=rss",
-      "publishedAt": "2026-07-28T10:09:48.000Z",
-      "xQuery": "イオンモール熊本爆発 閉じ込めか"
+      "url": "https://news.yahoo.co.jp/pickup/6589681?source=rss",
+      "publishedAt": "2026-07-28T10:59:15.000Z",
+      "xQuery": "イオンモール熊本で死者多数 県警"
     },
     {
-      "time": "18:11",
-      "title": "1週間程度は震度7程度の地震注意",
+      "time": "18:51",
+      "title": "避難中の熱中症警戒 蒸し暑さ続く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589662?source=rss",
-      "publishedAt": "2026-07-28T09:11:31.000Z",
-      "xQuery": "1週間程度は震度7程度の地震注意"
+      "url": "https://news.yahoo.co.jp/pickup/6589666?source=rss",
+      "publishedAt": "2026-07-28T09:51:12.000Z",
+      "xQuery": "避難中の熱中症警戒 蒸し暑さ続く"
+    },
+    {
+      "time": "17:18",
+      "title": "熊本などで停電 最新情報を地図で",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589646?source=rss",
+      "publishedAt": "2026-07-28T08:18:31.000Z",
+      "xQuery": "熊本などで停電 最新情報を地図で"
     },
     {
       "time": "19:20",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本氷川町の病院 50人以上けが"
     },
     {
-      "time": "16:54",
-      "title": "熊本県で震度7 現地のSNS投稿",
+      "time": "19:22",
+      "title": "島原市の眉山で斜面崩落 地震影響",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589640?source=rss",
-      "publishedAt": "2026-07-28T07:54:10.000Z",
-      "xQuery": "熊本県で震度7 現地のSNS投稿"
-    },
-    {
-      "time": "18:08",
-      "title": "熊本県で震度7 最新情報まとめ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589656?source=rss",
-      "publishedAt": "2026-07-28T09:08:59.000Z",
-      "xQuery": "熊本県で震度7 最新情報まとめ"
+      "url": "https://news.yahoo.co.jp/pickup/6589677?source=rss",
+      "publishedAt": "2026-07-28T10:22:18.000Z",
+      "xQuery": "島原市の眉山で斜面崩落 地震影響"
     }
   ]
 };
