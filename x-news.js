@@ -1,13 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T15:19:08.910Z",
+  "updatedAt": "2026-07-28T16:14:04.668Z",
   "items": [
     {
-      "time": "21:32",
-      "title": "イオンモール熊本20-30人安否不明",
+      "time": "00:32",
+      "title": "イオンモール熊本 10人連絡つかず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589695?source=rss",
-      "publishedAt": "2026-07-28T12:32:21.000Z",
-      "xQuery": "イオンモール熊本20-30人安否不明"
+      "url": "https://news.yahoo.co.jp/pickup/6589704?source=rss",
+      "publishedAt": "2026-07-28T15:32:41.000Z",
+      "xQuery": "イオンモール熊本 10人連絡つかず"
+    },
+    {
+      "time": "01:03",
+      "title": "イオンモール爆発 LPガス原因か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589706?source=rss",
+      "publishedAt": "2026-07-28T16:03:49.000Z",
+      "xQuery": "イオンモール爆発 LPガス原因か"
+    },
+    {
+      "time": "00:43",
+      "title": "日本製紙八代 2人心肺停止9人不明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589705?source=rss",
+      "publishedAt": "2026-07-28T15:43:12.000Z",
+      "xQuery": "日本製紙八代 2人心肺停止9人不明"
     },
     {
       "time": "21:08",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589640?source=rss",
       "publishedAt": "2026-07-28T07:54:10.000Z",
       "xQuery": "熊本県で震度7 現地のSNS投稿"
-    },
-    {
-      "time": "22:31",
-      "title": "九州の交通網やライフライン 影響",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589702?source=rss",
-      "publishedAt": "2026-07-28T13:31:06.000Z",
-      "xQuery": "九州の交通網やライフライン 影響"
-    },
-    {
-      "time": "22:15",
-      "title": "鉄道各社見合わせ 帰宅困難者続出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589699?source=rss",
-      "publishedAt": "2026-07-28T13:15:21.000Z",
-      "xQuery": "鉄道各社見合わせ 帰宅困難者続出"
     }
   ]
 };
