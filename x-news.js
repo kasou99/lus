@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T22:52:37.497Z",
+  "updatedAt": "2026-07-28T23:25:41.960Z",
   "items": [
     {
-      "time": "05:21",
-      "title": "イオンモール 2人死亡1人心肺停止",
+      "time": "08:08",
+      "title": "イオン爆発 死亡の2人は20代女性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589719?source=rss",
-      "publishedAt": "2026-07-28T20:21:54.000Z",
-      "xQuery": "イオンモール 2人死亡1人心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6589731?source=rss",
+      "publishedAt": "2026-07-28T23:08:09.000Z",
+      "xQuery": "イオン爆発 死亡の2人は20代女性"
     },
     {
       "time": "05:56",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589721?source=rss",
       "publishedAt": "2026-07-28T20:56:07.000Z",
       "xQuery": "熊本厳しい暑さ 熱中症と地震警戒"
+    },
+    {
+      "time": "07:37",
+      "title": "熊本で地震 最大84cmの地殻変動",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589728?source=rss",
+      "publishedAt": "2026-07-28T22:37:02.000Z",
+      "xQuery": "熊本で地震 最大84cmの地殻変動"
     },
     {
       "time": "06:49",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589718?source=rss",
       "publishedAt": "2026-07-28T20:29:51.000Z",
       "xQuery": "地震で政府 プッシュ型支援展開へ"
-    },
-    {
-      "time": "03:27",
-      "title": "地震影響 鉄道やフライト情報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589714?source=rss",
-      "publishedAt": "2026-07-28T18:27:55.000Z",
-      "xQuery": "地震影響 鉄道やフライト情報"
     }
   ]
 };
