@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T07:25:42.159Z",
+  "updatedAt": "2026-07-28T08:20:54.467Z",
   "items": [
     {
-      "time": "15:52",
-      "title": "東証大幅反落 終値は6万2364円",
+      "time": "16:40",
+      "title": "有明・八代海に津波注意報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589631?source=rss",
-      "publishedAt": "2026-07-28T06:52:03.000Z",
-      "xQuery": "東証大幅反落 終値は6万2364円"
+      "url": "https://news.yahoo.co.jp/pickup/6589636?source=rss",
+      "publishedAt": "2026-07-28T07:40:33.000Z",
+      "xQuery": "有明・八代海に津波注意報"
     },
     {
-      "time": "14:27",
-      "title": "子のSNS利用に年齢制限 議論へ",
+      "time": "17:03",
+      "title": "熊本県で震度7 最新情報まとめ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589626?source=rss",
-      "publishedAt": "2026-07-28T05:27:03.000Z",
-      "xQuery": "子のSNS利用に年齢制限 議論へ"
+      "url": "https://news.yahoo.co.jp/pickup/6589641?source=rss",
+      "publishedAt": "2026-07-28T08:03:11.000Z",
+      "xQuery": "熊本県で震度7 最新情報まとめ"
     },
     {
-      "time": "16:14",
-      "title": "Apple時価総額 世界首位返り咲き",
+      "time": "17:10",
+      "title": "有明・八代海に最大1mの津波予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589632?source=rss",
-      "publishedAt": "2026-07-28T07:14:16.000Z",
-      "xQuery": "Apple時価総額 世界首位返り咲き"
+      "url": "https://news.yahoo.co.jp/pickup/6589643?source=rss",
+      "publishedAt": "2026-07-28T08:10:39.000Z",
+      "xQuery": "有明・八代海に最大1mの津波予想"
     },
     {
-      "time": "15:27",
-      "title": "給食にねじ 保育士が吐き出させる",
+      "time": "16:58",
+      "title": "有明・八代海の津波到達予想時刻",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589629?source=rss",
-      "publishedAt": "2026-07-28T06:27:27.000Z",
-      "xQuery": "給食にねじ 保育士が吐き出させる"
+      "url": "https://news.yahoo.co.jp/pickup/6589639?source=rss",
+      "publishedAt": "2026-07-28T07:58:27.000Z",
+      "xQuery": "有明・八代海の津波到達予想時刻"
     },
     {
-      "time": "12:28",
-      "title": "老後に焦り「おひとりさま」本音",
+      "time": "17:10",
+      "title": "人的被害情報は確認されず 熊本県",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589611?source=rss",
-      "publishedAt": "2026-07-28T03:28:00.000Z",
-      "xQuery": "老後に焦り「おひとりさま」本音"
+      "url": "https://news.yahoo.co.jp/pickup/6589645?source=rss",
+      "publishedAt": "2026-07-28T08:10:25.000Z",
+      "xQuery": "人的被害情報は確認されず 熊本県"
     }
   ]
 };

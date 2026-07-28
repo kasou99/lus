@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-28T07:25:41.237Z",
+  "updatedAt": "2026-07-28T08:20:53.933Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:03",
+        "time": "17:03",
         "title": "YUASA、工作機械に5年保証 延長プログラム創設",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TemFldndKTUpLSzJNQlk0bThRT3J4dnI4dmZfN2V4bDEtYU9CTk0yWlRHZUtJMnlQSExpQzE4cGc5bzR5UU5rNkQ0RmktZU9CUHA0bjJPOHNKc1k?oc=5",
-        "publishedAt": "2026-07-27T20:03:59.000Z"
+        "publishedAt": "2026-07-28T08:03:38.000Z"
       },
       {
         "time": "06:00",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "17:14",
+        "title": "熊本で震度7 鉄道などの運行情報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589642?source=rss",
+        "publishedAt": "2026-07-28T08:14:57.000Z"
+      },
+      {
         "time": "15:52",
         "title": "東証大幅反落 終値は6万2364円",
         "source": "Yahoo!ニュース",
@@ -133,13 +140,6 @@
         "publishedAt": "2026-07-28T03:04:01.000Z"
       },
       {
-        "time": "14:53",
-        "title": "地方の「交通空白」どう解消する",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589617?source=rss",
-        "publishedAt": "2026-07-28T05:53:08.000Z"
-      },
-      {
         "time": "11:22",
         "title": "相次ぐ夫の転勤 追い詰められた妻",
         "source": "Yahoo!ニュース",
@@ -148,6 +148,20 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "17:10",
+        "title": "人的被害情報は確認されず 熊本県",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589645?source=rss",
+        "publishedAt": "2026-07-28T08:10:25.000Z"
+      },
+      {
+        "time": "16:54",
+        "title": "熊本県で震度7 現地のSNS投稿",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589640?source=rss",
+        "publishedAt": "2026-07-28T07:54:10.000Z"
+      },
       {
         "time": "23:08",
         "title": "海保が同志社国際高校を家宅捜索",
@@ -163,18 +177,11 @@
         "publishedAt": "2026-07-28T02:59:07.000Z"
       },
       {
-        "time": "11:26",
-        "title": "踏切でシニアカーと列車衝突 重体",
+        "time": "16:25",
+        "title": "大型トラックにはねられ 13歳死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589603?source=rss",
-        "publishedAt": "2026-07-28T02:26:28.000Z"
-      },
-      {
-        "time": "08:54",
-        "title": "中学生か 自転車はねられ意識不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589584?source=rss",
-        "publishedAt": "2026-07-27T23:54:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589633?source=rss",
+        "publishedAt": "2026-07-28T07:25:22.000Z"
       },
       {
         "time": "13:44",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589615?source=rss",
         "publishedAt": "2026-07-28T04:44:16.000Z"
-      },
-      {
-        "time": "15:27",
-        "title": "給食にねじ 保育士が吐き出させる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589629?source=rss",
-        "publishedAt": "2026-07-28T06:27:27.000Z"
       }
     ],
     "subsidyHeadlines": [
