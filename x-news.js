@@ -1,21 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T06:00:31.200Z",
+  "updatedAt": "2026-07-28T07:25:42.159Z",
   "items": [
     {
-      "time": "13:46",
-      "title": "東海でもマンション修繕談合疑い",
+      "time": "15:52",
+      "title": "東証大幅反落 終値は6万2364円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589620?source=rss",
-      "publishedAt": "2026-07-28T04:46:35.000Z",
-      "xQuery": "東海でもマンション修繕談合疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6589631?source=rss",
+      "publishedAt": "2026-07-28T06:52:03.000Z",
+      "xQuery": "東証大幅反落 終値は6万2364円"
     },
     {
-      "time": "14:53",
-      "title": "地方の「交通空白」どう解消する",
+      "time": "14:27",
+      "title": "子のSNS利用に年齢制限 議論へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589617?source=rss",
-      "publishedAt": "2026-07-28T05:53:08.000Z",
-      "xQuery": "地方の「交通空白」どう解消する"
+      "url": "https://news.yahoo.co.jp/pickup/6589626?source=rss",
+      "publishedAt": "2026-07-28T05:27:03.000Z",
+      "xQuery": "子のSNS利用に年齢制限 議論へ"
+    },
+    {
+      "time": "16:14",
+      "title": "Apple時価総額 世界首位返り咲き",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589632?source=rss",
+      "publishedAt": "2026-07-28T07:14:16.000Z",
+      "xQuery": "Apple時価総額 世界首位返り咲き"
+    },
+    {
+      "time": "15:27",
+      "title": "給食にねじ 保育士が吐き出させる",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589629?source=rss",
+      "publishedAt": "2026-07-28T06:27:27.000Z",
+      "xQuery": "給食にねじ 保育士が吐き出させる"
     },
     {
       "time": "12:28",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589611?source=rss",
       "publishedAt": "2026-07-28T03:28:00.000Z",
       "xQuery": "老後に焦り「おひとりさま」本音"
-    },
-    {
-      "time": "12:02",
-      "title": "VIVANT「別班」実在せずと小泉氏",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589609?source=rss",
-      "publishedAt": "2026-07-28T03:02:45.000Z",
-      "xQuery": "VIVANT「別班」実在せずと小泉氏"
-    },
-    {
-      "time": "12:04",
-      "title": "BYDが日本で軽EV 実質100万円台",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589608?source=rss",
-      "publishedAt": "2026-07-28T03:04:01.000Z",
-      "xQuery": "BYDが日本で軽EV 実質100万円台"
     }
   ]
 };
