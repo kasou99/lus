@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T22:26:43.618Z",
+  "updatedAt": "2026-07-28T22:52:37.497Z",
   "items": [
     {
       "time": "05:21",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589719?source=rss",
       "publishedAt": "2026-07-28T20:21:54.000Z",
       "xQuery": "イオンモール 2人死亡1人心肺停止"
-    },
-    {
-      "time": "04:24",
-      "title": "イオンモール ガス漏れの可能性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589717?source=rss",
-      "publishedAt": "2026-07-28T19:24:45.000Z",
-      "xQuery": "イオンモール ガス漏れの可能性"
     },
     {
       "time": "05:56",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589718?source=rss",
       "publishedAt": "2026-07-28T20:29:51.000Z",
       "xQuery": "地震で政府 プッシュ型支援展開へ"
+    },
+    {
+      "time": "03:27",
+      "title": "地震影響 鉄道やフライト情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589714?source=rss",
+      "publishedAt": "2026-07-28T18:27:55.000Z",
+      "xQuery": "地震影響 鉄道やフライト情報"
     }
   ]
 };
