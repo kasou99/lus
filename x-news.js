@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T16:14:04.668Z",
+  "updatedAt": "2026-07-28T17:02:09.016Z",
   "items": [
     {
-      "time": "00:32",
-      "title": "イオンモール熊本 10人連絡つかず",
+      "time": "01:28",
+      "title": "イオンモール熊本 5人を救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589704?source=rss",
-      "publishedAt": "2026-07-28T15:32:41.000Z",
-      "xQuery": "イオンモール熊本 10人連絡つかず"
+      "url": "https://news.yahoo.co.jp/pickup/6589707?source=rss",
+      "publishedAt": "2026-07-28T16:28:17.000Z",
+      "xQuery": "イオンモール熊本 5人を救助"
     },
     {
       "time": "01:03",
