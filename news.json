@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-28T18:57:03.573Z",
+  "updatedAt": "2026-07-28T19:36:02.296Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "02:30",
+        "title": "ミクロン精密株式会社 - city.yamagata-yamagata.lg.jp",
+        "source": "city.yamagata-yamagata.lg.jp",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQazVKODVRTldCd2liX0FTb20xaVo0ZGVINC1mVEtoWnBURFljbXVJM2hXX09fejkxXzNqRjNJN0lEck9SUE90RFZ5Q0psVmdYanhadnVtaHpVVk9aMXp0WHdDV2lkbF8xcHBzdlgxZHM4bXZ5RjIzbnpxVVBQX2NUaUgzaXpLSnBJQWRDZHhXRHpLWHM?oc=5",
+        "publishedAt": "2026-07-28T17:30:17.000Z"
+      },
       {
         "time": "17:03",
         "title": "YUASA、工作機械に5年保証 延長プログラム創設",
@@ -50,13 +57,6 @@
         "source": "Chosunbiz",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnM0ZWZDODRGNmJtU0JNN0dvZmtmTWM1Z29Ua09XNmNPSVVjNFQ4TlZrczl4bmY0SEktdmozR2lBWkJ1X2hiNWNxWTNndFpjUE9sZGxkSmJVQmV4NXVCaTRXbVlRVDQ1c1p1XzlqdE02cEVDUmdsZnZVVkxJOHVJWTdB0gGWAUFVX3lxTE1BQmw2X0hXNzVlVVc4bHFGdEVFTUdWUWVJN3lmVWdocFFJc3VJak1md0g0RVVoNk5EN2Vzei1Gak9aLXJ6cm1sWmU5NjhneGcxME9MQ0x5WlFGZWRiT3JWOXREY29qaVBQdXpXdkFmTGdjNEhnWXFwVk5PbUNlZFVFVXlQcjJkTkZZTTg4eDJScVBZX3R3QQ?oc=5",
         "publishedAt": "2026-07-28T00:19:00.000Z"
-      },
-      {
-        "time": "05:02",
-        "title": "新頭取登場／十六銀行・種村京平氏 150周年、地域貢献の施策を",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LUU1TeXBFeVlWekFTOGRxMk1aRTdUdXNXWGdKd0RXbXJpUTlmNXUxbmhoVlV2V2xJVEcyenZudW52Z2trNTZPc1ROZXFJdTN3VTg0cXVYR1dxOXc?oc=5",
-        "publishedAt": "2026-07-27T20:02:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "01:28",
-        "title": "イオンモール熊本 5人を救助",
+        "time": "04:07",
+        "title": "イオンモール熊本 2人の死亡確認",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589707?source=rss",
-        "publishedAt": "2026-07-28T16:28:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589716?source=rss",
+        "publishedAt": "2026-07-28T19:07:25.000Z"
       },
       {
-        "time": "01:03",
-        "title": "イオンモール爆発 LPガス原因か",
+        "time": "04:24",
+        "title": "イオンモール ガス漏れの可能性",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589706?source=rss",
-        "publishedAt": "2026-07-28T16:03:49.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589717?source=rss",
+        "publishedAt": "2026-07-28T19:24:45.000Z"
       },
       {
         "time": "21:08",

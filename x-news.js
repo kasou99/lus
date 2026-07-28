@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T18:57:04.128Z",
+  "updatedAt": "2026-07-28T19:36:03.316Z",
   "items": [
     {
-      "time": "01:28",
-      "title": "イオンモール熊本 5人を救助",
+      "time": "04:07",
+      "title": "イオンモール熊本 2人の死亡確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589707?source=rss",
-      "publishedAt": "2026-07-28T16:28:17.000Z",
-      "xQuery": "イオンモール熊本 5人を救助"
+      "url": "https://news.yahoo.co.jp/pickup/6589716?source=rss",
+      "publishedAt": "2026-07-28T19:07:25.000Z",
+      "xQuery": "イオンモール熊本 2人の死亡確認"
     },
     {
-      "time": "01:03",
-      "title": "イオンモール爆発 LPガス原因か",
+      "time": "04:24",
+      "title": "イオンモール ガス漏れの可能性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589706?source=rss",
-      "publishedAt": "2026-07-28T16:03:49.000Z",
-      "xQuery": "イオンモール爆発 LPガス原因か"
+      "url": "https://news.yahoo.co.jp/pickup/6589717?source=rss",
+      "publishedAt": "2026-07-28T19:24:45.000Z",
+      "xQuery": "イオンモール ガス漏れの可能性"
     },
     {
       "time": "00:43",
