@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T20:31:33.198Z",
+  "updatedAt": "2026-07-28T21:29:27.742Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-07-27T22:00:01.000Z"
       },
       {
-        "time": "06:00",
-        "title": "マツダが挑む設備保全DX、AIやIoTで自動車工場内火力発電所の現地点検ゼロへ",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nNzR6M0xOZkxHaEstUDVfWGUtb20yVC02RXE0SFdPLUxKZC1Pbl9kT1dWamExQlhFdHRWeXZWMWo4QzI1OWVoeUY0eWJGNmVWc2dDcVkwaHIxQ2Y0MDhubWVYcC1SVjgzMW1vOU1IRQ?oc=5",
-        "publishedAt": "2026-07-27T21:00:00.000Z"
-      },
-      {
         "time": "09:42",
         "title": "ＹＵＡＳＡ、工作機械向け「Ａｎｓｈｉｎ＋Ｖ延長保証プログラム」を８月３日発売 - kabu-ir.com",
         "source": "kabu-ir.com",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tTmg5b3MtRlotZHRQT1FZZVNXNFlMM0NpY2V3bUhNTUd2QmdxRk9tYW9hblRRV0JmdkxFYWFLbUE5WVVvNEdUX2JFanJsWXZFU1h1Ng?oc=5",
         "publishedAt": "2026-07-28T00:42:36.000Z"
+      },
+      {
+        "time": "03:56",
+        "title": "商談記録80％削減へ！ ベルフェイス「bellSalesAI」中村留精密工業導入",
+        "source": "Dtimes",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KWWlNZkN4X1ZJME5GU1NBOXFoWnVsUmx3VmdLQXpKMGgzb0UtM3oxWVRTTmx4ZnFmYWJkLUhoVHY5VVkwYWc?oc=5",
+        "publishedAt": "2026-07-28T18:56:29.000Z"
       },
       {
         "time": "12:14",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-28T20:00:04.000Z"
       },
       {
-        "time": "09:19",
-        "title": "DNソリューションズが造船向け加工装置投入 - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnM0ZWZDODRGNmJtU0JNN0dvZmtmTWM1Z29Ua09XNmNPSVVjNFQ4TlZrczl4bmY0SEktdmozR2lBWkJ1X2hiNWNxWTNndFpjUE9sZGxkSmJVQmV4NXVCaTRXbVlRVDQ1c1p1XzlqdE02cEVDUmdsZnZVVkxJOHVJWTdB0gGWAUFVX3lxTE1BQmw2X0hXNzVlVVc4bHFGdEVFTUdWUWVJN3lmVWdocFFJc3VJak1md0g0RVVoNk5EN2Vzei1Gak9aLXJ6cm1sWmU5NjhneGcxME9MQ0x5WlFGZWRiT3JWOXREY29qaVBQdXpXdkFmTGdjNEhnWXFwVk5PbUNlZFVFVXlQcjJkTkZZTTg4eDJScVBZX3R3QQ?oc=5",
-        "publishedAt": "2026-07-28T00:19:00.000Z"
+        "time": "09:46",
+        "title": "中村留精密、小型CNC旋盤を高速化 2タレット複合",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95QVZBSHpQS0gzVExZY1Nvc2Y5T2tBV0UzZFRTUl9ibkFsTzB5bVNUVXZRSlM2STZGRWlzYVY3WDAtLTlrUUs3UEFVUmhucmFiZFJLQmRKUmlOVzA?oc=5",
+        "publishedAt": "2026-07-28T00:46:02.000Z"
       }
     ],
     "worldHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T20:31:33.972Z",
+  "updatedAt": "2026-07-28T21:29:28.610Z",
   "items": [
     {
       "time": "05:21",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日本製紙八代 2人心肺停止9人不明"
     },
     {
-      "time": "21:08",
-      "title": "熊本県で震度7 最新情報まとめ",
+      "time": "05:56",
+      "title": "熊本厳しい暑さ 熱中症と地震警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589694?source=rss",
-      "publishedAt": "2026-07-28T12:08:03.000Z",
-      "xQuery": "熊本県で震度7 最新情報まとめ"
+      "url": "https://news.yahoo.co.jp/pickup/6589721?source=rss",
+      "publishedAt": "2026-07-28T20:56:07.000Z",
+      "xQuery": "熊本厳しい暑さ 熱中症と地震警戒"
     },
     {
-      "time": "03:43",
-      "title": "熊本県17市町村で約14万戸断水",
+      "time": "05:29",
+      "title": "地震で政府 プッシュ型支援展開へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589715?source=rss",
-      "publishedAt": "2026-07-28T18:43:08.000Z",
-      "xQuery": "熊本県17市町村で約14万戸断水"
+      "url": "https://news.yahoo.co.jp/pickup/6589718?source=rss",
+      "publishedAt": "2026-07-28T20:29:51.000Z",
+      "xQuery": "地震で政府 プッシュ型支援展開へ"
     }
   ]
 };
