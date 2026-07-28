@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T19:36:03.316Z",
+  "updatedAt": "2026-07-28T20:31:33.972Z",
   "items": [
     {
-      "time": "04:07",
-      "title": "イオンモール熊本 2人の死亡確認",
+      "time": "05:21",
+      "title": "イオンモール 2人死亡1人心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589716?source=rss",
-      "publishedAt": "2026-07-28T19:07:25.000Z",
-      "xQuery": "イオンモール熊本 2人の死亡確認"
+      "url": "https://news.yahoo.co.jp/pickup/6589719?source=rss",
+      "publishedAt": "2026-07-28T20:21:54.000Z",
+      "xQuery": "イオンモール 2人死亡1人心肺停止"
     },
     {
       "time": "04:24",
