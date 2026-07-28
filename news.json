@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T12:12:08.237Z",
+  "updatedAt": "2026-07-28T13:06:39.565Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,11 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "21:00",
-        "title": "イオンモール熊本 複数人が死亡か",
+        "time": "21:59",
+        "title": "イオンモール熊本 4人を救助",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589690?source=rss",
-        "publishedAt": "2026-07-28T12:00:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589698?source=rss",
+        "publishedAt": "2026-07-28T12:59:32.000Z"
+      },
+      {
+        "time": "21:32",
+        "title": "イオンモール熊本20-30人安否不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589695?source=rss",
+        "publishedAt": "2026-07-28T12:32:21.000Z"
       },
       {
         "time": "21:08",
@@ -163,11 +170,11 @@
         "publishedAt": "2026-07-28T12:08:10.000Z"
       },
       {
-        "time": "20:01",
-        "title": "熊本城で石垣の一部崩落 復旧懸念",
+        "time": "21:54",
+        "title": "日本製紙で数人が安否不明か 熊本",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589680?source=rss",
-        "publishedAt": "2026-07-28T11:01:48.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589697?source=rss",
+        "publishedAt": "2026-07-28T12:54:23.000Z"
       },
       {
         "time": "20:18",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589688?source=rss",
         "publishedAt": "2026-07-28T11:45:20.000Z"
-      },
-      {
-        "time": "19:22",
-        "title": "島原市の眉山で斜面崩落 地震影響",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589677?source=rss",
-        "publishedAt": "2026-07-28T10:22:18.000Z"
       }
     ],
     "subsidyHeadlines": [

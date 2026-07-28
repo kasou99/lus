@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T12:12:08.917Z",
+  "updatedAt": "2026-07-28T13:06:40.287Z",
   "items": [
     {
       "time": "21:08",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "電気ガス停止 安全優先でどう対応"
     },
     {
-      "time": "18:51",
-      "title": "避難中の熱中症警戒 蒸し暑さ続く",
+      "time": "21:32",
+      "title": "イオンモール熊本20-30人安否不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589666?source=rss",
-      "publishedAt": "2026-07-28T09:51:12.000Z",
-      "xQuery": "避難中の熱中症警戒 蒸し暑さ続く"
+      "url": "https://news.yahoo.co.jp/pickup/6589695?source=rss",
+      "publishedAt": "2026-07-28T12:32:21.000Z",
+      "xQuery": "イオンモール熊本20-30人安否不明"
     },
     {
-      "time": "21:00",
-      "title": "イオンモール熊本 複数人が死亡か",
+      "time": "21:54",
+      "title": "日本製紙で数人が安否不明か 熊本",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589690?source=rss",
-      "publishedAt": "2026-07-28T12:00:28.000Z",
-      "xQuery": "イオンモール熊本 複数人が死亡か"
+      "url": "https://news.yahoo.co.jp/pickup/6589697?source=rss",
+      "publishedAt": "2026-07-28T12:54:23.000Z",
+      "xQuery": "日本製紙で数人が安否不明か 熊本"
     },
     {
-      "time": "21:08",
-      "title": "地震時のイオンモール 従業員語る",
+      "time": "20:45",
+      "title": "家屋一部倒壊し女性閉じ込め 熊本",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589689?source=rss",
-      "publishedAt": "2026-07-28T12:08:10.000Z",
-      "xQuery": "地震時のイオンモール 従業員語る"
+      "url": "https://news.yahoo.co.jp/pickup/6589688?source=rss",
+      "publishedAt": "2026-07-28T11:45:20.000Z",
+      "xQuery": "家屋一部倒壊し女性閉じ込め 熊本"
     }
   ]
 };
