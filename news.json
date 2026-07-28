@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T21:56:26.295Z",
+  "updatedAt": "2026-07-28T22:26:42.755Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-07-28T21:30:00.000Z"
       },
       {
-        "time": "06:30",
-        "title": "【注目トピックス 市況・概況】今日の注目スケジュール：工作機械受注、豪消費者物価指数、米FOMC政策金利発表など",
-        "source": "マネーポストWEB",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBXVnV5UGF6dS15OFAzeDhoTVZrUzhUbFRtd3RoRHEzeTFyTjVGN1RYZVZwbVhuTWRNVVFPdHVCUXMtelU0MjRR?oc=5",
-        "publishedAt": "2026-07-28T21:30:00.000Z"
-      },
-      {
         "time": "17:03",
         "title": "YUASA、工作機械に5年保証 延長プログラム創設",
         "source": "日刊工業新聞",
@@ -31,18 +24,18 @@
         "publishedAt": "2026-07-28T08:03:38.000Z"
       },
       {
-        "time": "07:00",
-        "title": "工作機械向け長期保証サービス「Anshin+V 延長保証プログラム」の開発・販売開始のお知らせ",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oVG9DMVo3VVg5RDlnUmI1SWVfM2kydnJhT0tCdHJwYTV2XzF6NjFLaHdzZ05JQm9EcjY2MnhVejhLVmFScDU1blJkQWRmdXhxeTRMZjU1TmVjMEhsM0d5cHZLMElybHlEMEE?oc=5",
-        "publishedAt": "2026-07-27T22:00:01.000Z"
-      },
-      {
         "time": "09:42",
         "title": "ＹＵＡＳＡ、工作機械向け「Ａｎｓｈｉｎ＋Ｖ延長保証プログラム」を８月３日発売 - kabu-ir.com",
         "source": "kabu-ir.com",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tTmg5b3MtRlotZHRQT1FZZVNXNFlMM0NpY2V3bUhNTUd2QmdxRk9tYW9hblRRV0JmdkxFYWFLbUE5WVVvNEdUX2JFanJsWXZFU1h1Ng?oc=5",
         "publishedAt": "2026-07-28T00:42:36.000Z"
+      },
+      {
+        "time": "03:56",
+        "title": "商談記録80％削減へ！ ベルフェイス「bellSalesAI」中村留精密工業導入",
+        "source": "Dtimes",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KWWlNZkN4X1ZJME5GU1NBOXFoWnVsUmx3VmdLQXpKMGgzb0UtM3oxWVRTTmx4ZnFmYWJkLUhoVHY5VVkwYWc?oc=5",
+        "publishedAt": "2026-07-28T18:56:29.000Z"
       },
       {
         "time": "05:00",
@@ -57,22 +50,29 @@
         "source": "ASCII.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xUmNFVGZ5dTJVNnZHbTJEMkxqVHduZWhUVEQwZkFzTTVjTy0yVk9TdFZYMFlySjlNSkliNEhMd1V4VnJHb2d6aHRiUVdqb1FYZEVtSw?oc=5",
         "publishedAt": "2026-07-28T03:14:16.000Z"
+      },
+      {
+        "time": "09:48",
+        "title": "工作機械向け長期保証サービス「Anshin+V 延長保証プログラム」の開発・販売開始のお知らせ",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qX3JjUkItN0Y4b3QxeEVGU2FrRnh1X2lpZkg3Rlp4ZjdkeHdBR3lHV2Nqb3plU2pIZGJvXzZDZDJPUkNya0lnZE5NaE5IdC1WSWQ2RFAtZE8yUWlLclh3Q0c0YnJvaXVseGF6SFFZYmZwNlJVMy1ELUphdw?oc=5",
+        "publishedAt": "2026-07-28T00:48:23.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:11",
+        "title": "熊本地震 海外メディアが一斉速報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589725?source=rss",
+        "publishedAt": "2026-07-28T22:11:22.000Z"
+      },
       {
         "time": "09:37",
         "title": "米大統領 決裂なら再びイラン攻撃",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589586?source=rss",
         "publishedAt": "2026-07-28T00:37:05.000Z"
-      },
-      {
-        "time": "12:42",
-        "title": "米軍司令官 イラン攻撃停止進言か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589479?source=rss",
-        "publishedAt": "2026-07-27T03:42:33.000Z"
       },
       {
         "time": "06:51",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T21:56:27.232Z",
+  "updatedAt": "2026-07-28T22:26:43.618Z",
   "items": [
     {
       "time": "05:21",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオンモール ガス漏れの可能性"
     },
     {
-      "time": "00:43",
-      "title": "日本製紙八代 2人心肺停止9人不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589705?source=rss",
-      "publishedAt": "2026-07-28T15:43:12.000Z",
-      "xQuery": "日本製紙八代 2人心肺停止9人不明"
-    },
-    {
       "time": "05:56",
       "title": "熊本厳しい暑さ 熱中症と地震警戒",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6589721?source=rss",
       "publishedAt": "2026-07-28T20:56:07.000Z",
       "xQuery": "熊本厳しい暑さ 熱中症と地震警戒"
+    },
+    {
+      "time": "06:49",
+      "title": "地震 避難者は36市町村で4700人超",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589723?source=rss",
+      "publishedAt": "2026-07-28T21:49:57.000Z",
+      "xQuery": "地震 避難者は36市町村で4700人超"
     },
     {
       "time": "05:29",
