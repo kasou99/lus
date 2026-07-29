@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T03:08:50.859Z",
+  "updatedAt": "2026-07-29T04:37:04.608Z",
   "items": [
     {
-      "time": "10:26",
-      "title": "地震 首相「調査中含め死者13人」",
+      "time": "12:56",
+      "title": "九州危険な暑さ 水分や塩分補給を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589741?source=rss",
-      "publishedAt": "2026-07-29T01:26:24.000Z",
-      "xQuery": "地震 首相「調査中含め死者13人」"
+      "url": "https://news.yahoo.co.jp/pickup/6589766?source=rss",
+      "publishedAt": "2026-07-29T03:56:43.000Z",
+      "xQuery": "九州危険な暑さ 水分や塩分補給を"
     },
     {
-      "time": "10:41",
-      "title": "停電時や避難所 体を冷やすには",
+      "time": "11:48",
+      "title": "熊本城は臨時休園 石垣28カ所崩落",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589743?source=rss",
-      "publishedAt": "2026-07-29T01:41:02.000Z",
-      "xQuery": "停電時や避難所 体を冷やすには"
+      "url": "https://news.yahoo.co.jp/pickup/6589747?source=rss",
+      "publishedAt": "2026-07-29T02:48:25.000Z",
+      "xQuery": "熊本城は臨時休園 石垣28カ所崩落"
     },
     {
       "time": "11:53",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "内部映像 爆発のイオンモール熊本"
     },
     {
-      "time": "11:33",
-      "title": "熊本で地震 46の医療機関が被災",
+      "time": "12:58",
+      "title": "イオン出た後に爆発 視界真っ白",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589749?source=rss",
-      "publishedAt": "2026-07-29T02:33:57.000Z",
-      "xQuery": "熊本で地震 46の医療機関が被災"
+      "url": "https://news.yahoo.co.jp/pickup/6589764?source=rss",
+      "publishedAt": "2026-07-29T03:58:19.000Z",
+      "xQuery": "イオン出た後に爆発 視界真っ白"
     },
     {
-      "time": "10:36",
-      "title": "熊本で地震 高速道路上下にずれる",
+      "time": "12:22",
+      "title": "自宅の下敷きに 兄亡くし男性悲嘆",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589744?source=rss",
-      "publishedAt": "2026-07-29T01:36:50.000Z",
-      "xQuery": "熊本で地震 高速道路上下にずれる"
+      "url": "https://news.yahoo.co.jp/pickup/6589759?source=rss",
+      "publishedAt": "2026-07-29T03:22:42.000Z",
+      "xQuery": "自宅の下敷きに 兄亡くし男性悲嘆"
     }
   ]
 };

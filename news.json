@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-29T03:08:50.336Z",
+  "updatedAt": "2026-07-29T04:37:03.597Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "12:30",
+        "title": "エンコーダ付きサーボモーターの世界市場（2026年～2032年）、市場規模（インクリメンタルエンコーダ付きサーボモーター、アブソリュートエンコーダ付きサーボモーター）・分...",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EaEtUNGYyZ2tWRnRmSnlLdHE0RFVkaDlaOW5xVm56ZVZGT0VQeUQ0TUZpSnB3dDNBQWxLTHR0cFN1cTZRYm5pOFB0WjRVX2M?oc=5",
+        "publishedAt": "2026-07-29T03:30:00.000Z"
+      },
       {
         "time": "07:35",
         "title": "29日の注目材料：日銀オペ、6月工作機械受注、豪CPI、そしてFOMC政策金利発表",
@@ -50,13 +57,6 @@
         "source": "Dtimes",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KWWlNZkN4X1ZJME5GU1NBOXFoWnVsUmx3VmdLQXpKMGgzb0UtM3oxWVRTTmx4ZnFmYWJkLUhoVHY5VVkwYWc?oc=5",
         "publishedAt": "2026-07-28T18:56:29.000Z"
-      },
-      {
-        "time": "12:14",
-        "title": "ベッコフオートメーション、日本市場向けに「エコノミードライブシステム」を発表",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xUmNFVGZ5dTJVNnZHbTJEMkxqVHduZWhUVEQwZkFzTTVjTy0yVk9TdFZYMFlySjlNSkliNEhMd1V4VnJHb2d6aHRiUVdqb1FYZEVtSw?oc=5",
-        "publishedAt": "2026-07-28T03:14:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "12:58",
+        "title": "イオン出た後に爆発 視界真っ白",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589764?source=rss",
+        "publishedAt": "2026-07-29T03:58:19.000Z"
+      },
+      {
+        "time": "12:22",
+        "title": "自宅の下敷きに 兄亡くし男性悲嘆",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589759?source=rss",
+        "publishedAt": "2026-07-29T03:22:42.000Z"
+      },
+      {
         "time": "08:08",
         "title": "イオン爆発 死亡の2人は20代女性",
         "source": "Yahoo!ニュース",
@@ -161,20 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589753?source=rss",
         "publishedAt": "2026-07-29T02:53:21.000Z"
-      },
-      {
-        "time": "07:37",
-        "title": "映像 イオン爆発時のドラレコ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589727?source=rss",
-        "publishedAt": "2026-07-28T22:37:11.000Z"
-      },
-      {
-        "time": "06:42",
-        "title": "イオン崩落 駐車場にいた記者ルポ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589722?source=rss",
-        "publishedAt": "2026-07-28T21:42:33.000Z"
       },
       {
         "time": "10:36",
