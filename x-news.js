@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T20:50:47.829Z",
+  "updatedAt": "2026-07-29T21:22:23.418Z",
   "items": [
     {
       "time": "05:28",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米FRB 政策金利の据え置きを決定"
     },
     {
-      "time": "22:39",
-      "title": "猛暑 避難所では脱水症状の人も",
+      "time": "21:59",
+      "title": "イオン社長「爆発想定しきれず」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589828?source=rss",
-      "publishedAt": "2026-07-29T13:39:02.000Z",
-      "xQuery": "猛暑 避難所では脱水症状の人も"
+      "url": "https://news.yahoo.co.jp/pickup/6589825?source=rss",
+      "publishedAt": "2026-07-29T12:59:12.000Z",
+      "xQuery": "イオン社長「爆発想定しきれず」"
+    },
+    {
+      "time": "06:19",
+      "title": "イオン熊本で妻不明 案ずる夫と子",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589842?source=rss",
+      "publishedAt": "2026-07-29T21:19:02.000Z",
+      "xQuery": "イオン熊本で妻不明 案ずる夫と子"
     },
     {
       "time": "20:36",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589817?source=rss",
       "publishedAt": "2026-07-29T11:36:52.000Z",
       "xQuery": "がれきから「助けて」緊迫の救助"
-    },
-    {
-      "time": "21:59",
-      "title": "イオン社長「爆発想定しきれず」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589825?source=rss",
-      "publishedAt": "2026-07-29T12:59:12.000Z",
-      "xQuery": "イオン社長「爆発想定しきれず」"
     }
   ]
 };
