@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T22:23:56.787Z",
+  "updatedAt": "2026-07-29T22:50:34.486Z",
   "items": [
     {
       "time": "06:47",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン社長「爆発想定しきれず」"
     },
     {
-      "time": "20:36",
-      "title": "がれきから「助けて」緊迫の救助",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589817?source=rss",
-      "publishedAt": "2026-07-29T11:36:52.000Z",
-      "xQuery": "がれきから「助けて」緊迫の救助"
-    },
-    {
       "time": "06:19",
       "title": "イオン熊本で妻不明 案ずる夫と子",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589843?source=rss",
       "publishedAt": "2026-07-29T21:28:55.000Z",
       "xQuery": "潰れた1階から「ここー」弟を救出"
+    },
+    {
+      "time": "07:22",
+      "title": "露 北方領土の島「ゾルゲ」命名へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589847?source=rss",
+      "publishedAt": "2026-07-29T22:22:49.000Z",
+      "xQuery": "露 北方領土の島「ゾルゲ」命名へ"
     }
   ]
 };
