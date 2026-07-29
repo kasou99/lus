@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T18:27:02.355Z",
+  "updatedAt": "2026-07-29T18:53:42.107Z",
   "items": [
+    {
+      "time": "03:24",
+      "title": "米FRB 政策金利の据え置きを決定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589839?source=rss",
+      "publishedAt": "2026-07-29T18:24:52.000Z",
+      "xQuery": "米FRB 政策金利の据え置きを決定"
+    },
     {
       "time": "22:39",
       "title": "猛暑 避難所では脱水症状の人も",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589835?source=rss",
       "publishedAt": "2026-07-29T14:17:04.000Z",
       "xQuery": "建て替えたばかり 八代市庁舎損傷"
-    },
-    {
-      "time": "20:59",
-      "title": "九州新幹線 被害の全容つかめず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589820?source=rss",
-      "publishedAt": "2026-07-29T11:59:01.000Z",
-      "xQuery": "九州新幹線 被害の全容つかめず"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T18:27:01.887Z",
+  "updatedAt": "2026-07-29T18:53:41.444Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "03:24",
+        "title": "米FRB 政策金利の据え置きを決定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589839?source=rss",
+        "publishedAt": "2026-07-29T18:24:52.000Z"
+      },
+      {
         "time": "21:59",
         "title": "イオン社長「爆発想定しきれず」",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589770?source=rss",
         "publishedAt": "2026-07-29T04:47:39.000Z"
-      },
-      {
-        "time": "11:26",
-        "title": "最低賃金の目安 時給1176円に決定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589750?source=rss",
-        "publishedAt": "2026-07-29T02:26:54.000Z"
       }
     ],
     "localHeadlines": [
