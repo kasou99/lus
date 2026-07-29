@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T12:14:31.822Z",
+  "updatedAt": "2026-07-29T13:10:12.598Z",
   "items": [
-    {
-      "time": "20:23",
-      "title": "熊本県内3万戸超で停電 断水も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589816?source=rss",
-      "publishedAt": "2026-07-29T11:23:17.000Z",
-      "xQuery": "熊本県内3万戸超で停電 断水も"
-    },
     {
       "time": "20:59",
       "title": "熊本地震 問われた「企業防災」",
@@ -16,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589821?source=rss",
       "publishedAt": "2026-07-29T11:59:51.000Z",
       "xQuery": "熊本地震 問われた「企業防災」"
-    },
-    {
-      "time": "20:45",
-      "title": "イオンモール爆発事故 死者4人に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589819?source=rss",
-      "publishedAt": "2026-07-29T11:45:48.000Z",
-      "xQuery": "イオンモール爆発事故 死者4人に"
     },
     {
       "time": "20:36",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "がれきから「助けて」緊迫の救助"
     },
     {
-      "time": "19:06",
-      "title": "イオン爆発 猫カフェの全25匹救出",
+      "time": "21:15",
+      "title": "イオンモール爆発事故 死者5人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589806?source=rss",
-      "publishedAt": "2026-07-29T10:06:35.000Z",
-      "xQuery": "イオン爆発 猫カフェの全25匹救出"
+      "url": "https://news.yahoo.co.jp/pickup/6589822?source=rss",
+      "publishedAt": "2026-07-29T12:15:05.000Z",
+      "xQuery": "イオンモール爆発事故 死者5人に"
+    },
+    {
+      "time": "20:23",
+      "title": "熊本県内3万戸超で停電 断水も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589816?source=rss",
+      "publishedAt": "2026-07-29T11:23:17.000Z",
+      "xQuery": "熊本県内3万戸超で停電 断水も"
+    },
+    {
+      "time": "22:00",
+      "title": "自転車の中学生転倒 車衝突し死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589827?source=rss",
+      "publishedAt": "2026-07-29T13:00:47.000Z",
+      "xQuery": "自転車の中学生転倒 車衝突し死亡"
     }
   ]
 };
