@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T10:25:23.798Z",
+  "updatedAt": "2026-07-29T11:20:22.795Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -133,18 +133,18 @@
         "publishedAt": "2026-07-29T02:33:57.000Z"
       },
       {
-        "time": "03:27",
-        "title": "地震影響 鉄道やフライト情報",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589714?source=rss",
-        "publishedAt": "2026-07-28T18:27:55.000Z"
-      },
-      {
         "time": "13:47",
         "title": "熊本で「通れた道」トヨタが公開",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589770?source=rss",
         "publishedAt": "2026-07-29T04:47:39.000Z"
+      },
+      {
+        "time": "11:26",
+        "title": "最低賃金の目安 時給1176円に決定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589750?source=rss",
+        "publishedAt": "2026-07-29T02:26:54.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,13 +170,6 @@
         "publishedAt": "2026-07-29T02:53:21.000Z"
       },
       {
-        "time": "17:41",
-        "title": "25年広島強殺 17歳に懲役20年判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589796?source=rss",
-        "publishedAt": "2026-07-29T08:41:05.000Z"
-      },
-      {
         "time": "16:41",
         "title": "地震後 自民福岡県議らパーティー",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589784?source=rss",
         "publishedAt": "2026-07-29T06:48:20.000Z"
+      },
+      {
+        "time": "15:55",
+        "title": "雲仙普賢岳の溶岩ドーム 一部崩落",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589785?source=rss",
+        "publishedAt": "2026-07-29T06:55:24.000Z"
       }
     ],
     "subsidyHeadlines": [

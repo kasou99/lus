@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T10:25:24.286Z",
+  "updatedAt": "2026-07-29T11:20:23.546Z",
   "items": [
     {
-      "time": "16:55",
-      "title": "12人死亡6人心肺停止 熊本県発表",
+      "time": "19:44",
+      "title": "週末の熊本は40℃迫る酷暑か 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589791?source=rss",
-      "publishedAt": "2026-07-29T07:55:34.000Z",
-      "xQuery": "12人死亡6人心肺停止 熊本県発表"
+      "url": "https://news.yahoo.co.jp/pickup/6589811?source=rss",
+      "publishedAt": "2026-07-29T10:44:14.000Z",
+      "xQuery": "週末の熊本は40℃迫る酷暑か 警戒"
     },
     {
       "time": "18:11",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "爆発受けイオン社長 深くおわび"
     },
     {
+      "time": "15:55",
+      "title": "雲仙普賢岳の溶岩ドーム 一部崩落",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589785?source=rss",
+      "publishedAt": "2026-07-29T06:55:24.000Z",
+      "xQuery": "雲仙普賢岳の溶岩ドーム 一部崩落"
+    },
+    {
       "time": "19:06",
       "title": "イオン爆発 猫カフェの全25匹救出",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6589806?source=rss",
       "publishedAt": "2026-07-29T10:06:35.000Z",
       "xQuery": "イオン爆発 猫カフェの全25匹救出"
-    },
-    {
-      "time": "16:41",
-      "title": "地震後 自民福岡県議らパーティー",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589789?source=rss",
-      "publishedAt": "2026-07-29T07:41:04.000Z",
-      "xQuery": "地震後 自民福岡県議らパーティー"
     }
   ]
 };
