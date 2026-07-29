@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-29T06:03:18.183Z",
+  "updatedAt": "2026-07-29T07:28:50.379Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:12",
+        "title": "6月の工作機械受注53%増で過去最高 データセンター・半導体が寄与",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVQkllU3NBT2VIMWFEczFoMVJwbVNabUtBU3ZCa0JhSkFZaHdLRjBrcTRUNkFWU1hzWnJqTWRLRDlOMFFVeF80MGNxX3RJU0ZhdGE3c1JkRUpBcjRSVGxva0Z2SWRMbC1RRFBGYg?oc=5",
+        "publishedAt": "2026-07-29T07:12:31.000Z"
+      },
       {
         "time": "12:30",
         "title": "エンコーダ付きサーボモーターの世界市場（2026年～2032年）、市場規模（インクリメンタルエンコーダ付きサーボモーター、アブソリュートエンコーダ付きサーボモーター）・分...",
@@ -31,11 +38,11 @@
         "publishedAt": "2026-07-28T21:30:00.000Z"
       },
       {
-        "time": "10:00",
+        "time": "14:22",
         "title": "TOPPAN、小型・軽量なRFIDリーダーに温度センサータグの読み取り機能を搭載",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4OExlMEtlQ0FQS1hNWjhYRjNWVnM1amtrWnRCVzhuZ01QaGZ0dm1zNkN3a0hscjJFR2JKUzZsdlR5eU5qMEV2UGhIWndtT3J2QWdsSDZFUG50UGthSVQ3MkJFLTNxTzRrUHc?oc=5",
-        "publishedAt": "2026-07-29T01:00:24.000Z"
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1MkVmN0Q3VWJjc2llRkRXZ0VMd2VxajlhbWxuVERCNi1lNDJsMGhWdXRVeEE5OUxkU0tXai05WnN3aTRONHUzcmY4bGpJVFA3Wmh1dg?oc=5",
+        "publishedAt": "2026-07-29T05:22:16.000Z"
       },
       {
         "time": "17:03",
@@ -50,13 +57,6 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SWXBwS29PQ2NlYXgwb21oUzJrX1dYVGRwUlpGTnB2VnRpSV9DUThFQnk4NGJ3N3ppM1IxM3NvUWtpSHVyLW1aSVpzTHExaURFLXM0a2pYSnZMc3A5emc?oc=5",
         "publishedAt": "2026-07-28T22:30:00.000Z"
-      },
-      {
-        "time": "03:56",
-        "title": "商談記録80％削減へ！ ベルフェイス「bellSalesAI」中村留精密工業導入",
-        "source": "Dtimes",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KWWlNZkN4X1ZJME5GU1NBOXFoWnVsUmx3VmdLQXpKMGgzb0UtM3oxWVRTTmx4ZnFmYWJkLUhoVHY5VVkwYWc?oc=5",
-        "publishedAt": "2026-07-28T18:56:29.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-07-29T05:27:05.000Z"
       },
       {
-        "time": "12:58",
-        "title": "イオン出た後に爆発 視界真っ白",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589764?source=rss",
-        "publishedAt": "2026-07-29T03:58:19.000Z"
-      },
-      {
         "time": "12:22",
         "title": "自宅の下敷きに 兄亡くし男性悲嘆",
         "source": "Yahoo!ニュース",
@@ -177,18 +170,25 @@
         "publishedAt": "2026-07-29T02:53:21.000Z"
       },
       {
-        "time": "14:12",
-        "title": "被災の病院 深夜に127人転院決行",
+        "time": "15:48",
+        "title": "国の名勝「松浜軒」地震で崩れる",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589773?source=rss",
-        "publishedAt": "2026-07-29T05:12:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589784?source=rss",
+        "publishedAt": "2026-07-29T06:48:20.000Z"
       },
       {
-        "time": "11:48",
-        "title": "熊本城は臨時休園 石垣28カ所崩落",
+        "time": "15:55",
+        "title": "雲仙普賢岳の溶岩ドーム 一部崩落",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589747?source=rss",
-        "publishedAt": "2026-07-29T02:48:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589785?source=rss",
+        "publishedAt": "2026-07-29T06:55:24.000Z"
+      },
+      {
+        "time": "15:02",
+        "title": "池袋女性刺殺 死亡の男を書類送検",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589780?source=rss",
+        "publishedAt": "2026-07-29T06:02:55.000Z"
       }
     ],
     "subsidyHeadlines": [

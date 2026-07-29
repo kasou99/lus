@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T06:03:18.948Z",
+  "updatedAt": "2026-07-29T07:28:51.369Z",
   "items": [
-    {
-      "time": "14:36",
-      "title": "イオンモール熊本で3人死亡 首相",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589778?source=rss",
-      "publishedAt": "2026-07-29T05:36:15.000Z",
-      "xQuery": "イオンモール熊本で3人死亡 首相"
-    },
     {
       "time": "14:37",
       "title": "イオン発表 従業員4人が安否不明",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン爆発 マッハ超える衝撃波か"
     },
     {
-      "time": "14:27",
-      "title": "熊本に避難所465カ所 約1万人避難",
+      "time": "15:48",
+      "title": "国の名勝「松浜軒」地震で崩れる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589774?source=rss",
-      "publishedAt": "2026-07-29T05:27:05.000Z",
-      "xQuery": "熊本に避難所465カ所 約1万人避難"
+      "url": "https://news.yahoo.co.jp/pickup/6589784?source=rss",
+      "publishedAt": "2026-07-29T06:48:20.000Z",
+      "xQuery": "国の名勝「松浜軒」地震で崩れる"
     },
     {
-      "time": "14:12",
-      "title": "被災の病院 深夜に127人転院決行",
+      "time": "15:58",
+      "title": "生保協会 3万7千人分情報漏えいか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589773?source=rss",
-      "publishedAt": "2026-07-29T05:12:53.000Z",
-      "xQuery": "被災の病院 深夜に127人転院決行"
+      "url": "https://news.yahoo.co.jp/pickup/6589786?source=rss",
+      "publishedAt": "2026-07-29T06:58:06.000Z",
+      "xQuery": "生保協会 3万7千人分情報漏えいか"
+    },
+    {
+      "time": "13:43",
+      "title": "保育施設での事故は3130件 2025年",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589768?source=rss",
+      "publishedAt": "2026-07-29T04:43:46.000Z",
+      "xQuery": "保育施設での事故は3130件 2025年"
     }
   ]
 };
