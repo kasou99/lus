@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T00:46:07.399Z",
+  "updatedAt": "2026-07-29T01:39:31.766Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-28T03:14:16.000Z"
       },
       {
-        "time": "09:48",
-        "title": "工作機械向け長期保証サービス「Anshin+V 延長保証プログラム」の開発・販売開始のお知らせ",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qX3JjUkItN0Y4b3QxeEVGU2FrRnh1X2lpZkg3Rlp4ZjdkeHdBR3lHV2Nqb3plU2pIZGJvXzZDZDJPUkNya0lnZE5NaE5IdC1WSWQ2RFAtZE8yUWlLclh3Q0c0YnJvaXVseGF6SFFZYmZwNlJVMy1ELUphdw?oc=5",
-        "publishedAt": "2026-07-28T00:48:23.000Z"
+        "time": "23:02",
+        "title": "九電など、産学官4者連携 薩摩川内を活性化 AIDC集積見据える",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSZWg3MlBJV2tIaS11Nk96TVBZTHR3Tlk2WUNBY1ZsWkdRU1pQN29NRUhFRDdZN1NwOWNVWC1KRzJvbDdXaVhhVmxwR3BUVmVtVmRZNjZKUEJTckk?oc=5",
+        "publishedAt": "2026-07-28T14:02:12.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-07-28T21:42:33.000Z"
       },
       {
+        "time": "10:36",
+        "title": "熊本で地震 高速道路上下にずれる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589744?source=rss",
+        "publishedAt": "2026-07-29T01:36:50.000Z"
+      },
+      {
         "time": "00:43",
         "title": "日本製紙八代 2人心肺停止9人不明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589705?source=rss",
         "publishedAt": "2026-07-28T15:43:12.000Z"
-      },
-      {
-        "time": "09:08",
-        "title": "クレーン下敷き1人死亡 各地被害",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589735?source=rss",
-        "publishedAt": "2026-07-29T00:08:53.000Z"
       }
     ],
     "subsidyHeadlines": [

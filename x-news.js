@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T00:46:08.175Z",
+  "updatedAt": "2026-07-29T01:39:32.291Z",
   "items": [
+    {
+      "time": "10:26",
+      "title": "地震 首相「調査中含め死者13人」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589741?source=rss",
+      "publishedAt": "2026-07-29T01:26:24.000Z",
+      "xQuery": "地震 首相「調査中含め死者13人」"
+    },
     {
       "time": "08:08",
       "title": "イオン爆発 死亡の2人は20代女性",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン爆発 死亡の2人は20代女性"
     },
     {
-      "time": "09:08",
-      "title": "クレーン下敷き1人死亡 各地被害",
+      "time": "07:37",
+      "title": "映像 イオン爆発時のドラレコ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589735?source=rss",
-      "publishedAt": "2026-07-29T00:08:53.000Z",
-      "xQuery": "クレーン下敷き1人死亡 各地被害"
+      "url": "https://news.yahoo.co.jp/pickup/6589727?source=rss",
+      "publishedAt": "2026-07-28T22:37:11.000Z",
+      "xQuery": "映像 イオン爆発時のドラレコ"
     },
     {
       "time": "09:25",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589728?source=rss",
       "publishedAt": "2026-07-28T22:37:02.000Z",
       "xQuery": "熊本で地震 最大84cmの地殻変動"
-    },
-    {
-      "time": "07:11",
-      "title": "熊本地震 海外メディアが一斉速報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589725?source=rss",
-      "publishedAt": "2026-07-28T22:11:22.000Z",
-      "xQuery": "熊本地震 海外メディアが一斉速報"
     }
   ]
 };
