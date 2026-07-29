@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T08:25:46.632Z",
+  "updatedAt": "2026-07-29T09:27:58.702Z",
   "items": [
     {
       "time": "16:55",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "12人死亡6人心肺停止 熊本県発表"
     },
     {
-      "time": "16:32",
-      "title": "中継 爆発事故受けイオン社長会見",
+      "time": "18:11",
+      "title": "熱中症に注意 避難生活のポイント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589790?source=rss",
-      "publishedAt": "2026-07-29T07:32:34.000Z",
-      "xQuery": "中継 爆発事故受けイオン社長会見"
+      "url": "https://news.yahoo.co.jp/pickup/6589803?source=rss",
+      "publishedAt": "2026-07-29T09:11:37.000Z",
+      "xQuery": "熱中症に注意 避難生活のポイント"
     },
     {
-      "time": "14:37",
-      "title": "イオン発表 従業員4人が安否不明",
+      "time": "17:25",
+      "title": "イオン熊本で死亡の3人は従業員",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589779?source=rss",
-      "publishedAt": "2026-07-29T05:37:07.000Z",
-      "xQuery": "イオン発表 従業員4人が安否不明"
+      "url": "https://news.yahoo.co.jp/pickup/6589793?source=rss",
+      "publishedAt": "2026-07-29T08:25:19.000Z",
+      "xQuery": "イオン熊本で死亡の3人は従業員"
     },
     {
-      "time": "15:48",
-      "title": "国の名勝「松浜軒」地震で崩れる",
+      "time": "17:31",
+      "title": "日本人人口1.2億人割れ 42年ぶり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589784?source=rss",
-      "publishedAt": "2026-07-29T06:48:20.000Z",
-      "xQuery": "国の名勝「松浜軒」地震で崩れる"
+      "url": "https://news.yahoo.co.jp/pickup/6589794?source=rss",
+      "publishedAt": "2026-07-29T08:31:15.000Z",
+      "xQuery": "日本人人口1.2億人割れ 42年ぶり"
     },
     {
-      "time": "16:41",
-      "title": "地震後 自民福岡県議らパーティー",
+      "time": "16:30",
+      "title": "米大統領 ウ大統領らとの会談良好",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589789?source=rss",
-      "publishedAt": "2026-07-29T07:41:04.000Z",
-      "xQuery": "地震後 自民福岡県議らパーティー"
+      "url": "https://news.yahoo.co.jp/pickup/6589788?source=rss",
+      "publishedAt": "2026-07-29T07:30:45.000Z",
+      "xQuery": "米大統領 ウ大統領らとの会談良好"
     }
   ]
 };
