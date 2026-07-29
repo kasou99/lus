@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T11:20:23.546Z",
+  "updatedAt": "2026-07-29T12:14:31.822Z",
   "items": [
     {
-      "time": "19:44",
-      "title": "週末の熊本は40℃迫る酷暑か 警戒",
+      "time": "20:23",
+      "title": "熊本県内3万戸超で停電 断水も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589811?source=rss",
-      "publishedAt": "2026-07-29T10:44:14.000Z",
-      "xQuery": "週末の熊本は40℃迫る酷暑か 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6589816?source=rss",
+      "publishedAt": "2026-07-29T11:23:17.000Z",
+      "xQuery": "熊本県内3万戸超で停電 断水も"
     },
     {
-      "time": "18:11",
-      "title": "熱中症に注意 避難生活のポイント",
+      "time": "20:59",
+      "title": "熊本地震 問われた「企業防災」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589803?source=rss",
-      "publishedAt": "2026-07-29T09:11:37.000Z",
-      "xQuery": "熱中症に注意 避難生活のポイント"
+      "url": "https://news.yahoo.co.jp/pickup/6589821?source=rss",
+      "publishedAt": "2026-07-29T11:59:51.000Z",
+      "xQuery": "熊本地震 問われた「企業防災」"
     },
     {
-      "time": "17:38",
-      "title": "爆発受けイオン社長 深くおわび",
+      "time": "20:45",
+      "title": "イオンモール爆発事故 死者4人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589795?source=rss",
-      "publishedAt": "2026-07-29T08:38:24.000Z",
-      "xQuery": "爆発受けイオン社長 深くおわび"
+      "url": "https://news.yahoo.co.jp/pickup/6589819?source=rss",
+      "publishedAt": "2026-07-29T11:45:48.000Z",
+      "xQuery": "イオンモール爆発事故 死者4人に"
     },
     {
-      "time": "15:55",
-      "title": "雲仙普賢岳の溶岩ドーム 一部崩落",
+      "time": "20:36",
+      "title": "がれきから「助けて」緊迫の救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589785?source=rss",
-      "publishedAt": "2026-07-29T06:55:24.000Z",
-      "xQuery": "雲仙普賢岳の溶岩ドーム 一部崩落"
+      "url": "https://news.yahoo.co.jp/pickup/6589817?source=rss",
+      "publishedAt": "2026-07-29T11:36:52.000Z",
+      "xQuery": "がれきから「助けて」緊迫の救助"
     },
     {
       "time": "19:06",

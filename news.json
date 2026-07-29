@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T11:20:22.795Z",
+  "updatedAt": "2026-07-29T12:14:31.048Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,18 +112,11 @@
         "publishedAt": "2026-07-29T08:38:24.000Z"
       },
       {
-        "time": "17:25",
-        "title": "イオン熊本で死亡の3人は従業員",
+        "time": "20:59",
+        "title": "九州新幹線 被害の全容つかめず",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589793?source=rss",
-        "publishedAt": "2026-07-29T08:25:19.000Z"
-      },
-      {
-        "time": "17:47",
-        "title": "イオン爆発 従業員3人が安否不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589799?source=rss",
-        "publishedAt": "2026-07-29T08:47:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589820?source=rss",
+        "publishedAt": "2026-07-29T11:59:01.000Z"
       },
       {
         "time": "11:33",
@@ -131,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589749?source=rss",
         "publishedAt": "2026-07-29T02:33:57.000Z"
+      },
+      {
+        "time": "20:59",
+        "title": "熊本地震 問われた「企業防災」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589821?source=rss",
+        "publishedAt": "2026-07-29T11:59:51.000Z"
       },
       {
         "time": "13:47",
@@ -156,11 +156,11 @@
         "publishedAt": "2026-07-29T05:27:05.000Z"
       },
       {
-        "time": "12:22",
-        "title": "自宅の下敷きに 兄亡くし男性悲嘆",
+        "time": "20:45",
+        "title": "イオンモール爆発事故 死者4人に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589759?source=rss",
-        "publishedAt": "2026-07-29T03:22:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589819?source=rss",
+        "publishedAt": "2026-07-29T11:45:48.000Z"
       },
       {
         "time": "11:53",
@@ -168,6 +168,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589753?source=rss",
         "publishedAt": "2026-07-29T02:53:21.000Z"
+      },
+      {
+        "time": "20:36",
+        "title": "がれきから「助けて」緊迫の救助",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589817?source=rss",
+        "publishedAt": "2026-07-29T11:36:52.000Z"
       },
       {
         "time": "16:41",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589784?source=rss",
         "publishedAt": "2026-07-29T06:48:20.000Z"
-      },
-      {
-        "time": "15:55",
-        "title": "雲仙普賢岳の溶岩ドーム 一部崩落",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589785?source=rss",
-        "publishedAt": "2026-07-29T06:55:24.000Z"
       }
     ],
     "subsidyHeadlines": [
