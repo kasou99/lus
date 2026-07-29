@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T14:18:26.428Z",
+  "updatedAt": "2026-07-29T15:16:25.700Z",
   "items": [
     {
       "time": "22:39",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "猛暑 避難所では脱水症状の人も"
     },
     {
-      "time": "20:59",
-      "title": "熊本地震 問われた「企業防災」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589821?source=rss",
-      "publishedAt": "2026-07-29T11:59:51.000Z",
-      "xQuery": "熊本地震 問われた「企業防災」"
-    },
-    {
       "time": "20:36",
       "title": "がれきから「助けて」緊迫の救助",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "がれきから「助けて」緊迫の救助"
     },
     {
-      "time": "21:15",
-      "title": "イオンモール爆発事故 死者5人に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589822?source=rss",
-      "publishedAt": "2026-07-29T12:15:05.000Z",
-      "xQuery": "イオンモール爆発事故 死者5人に"
-    },
-    {
       "time": "21:59",
       "title": "イオン社長「爆発想定しきれず」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6589825?source=rss",
       "publishedAt": "2026-07-29T12:59:12.000Z",
       "xQuery": "イオン社長「爆発想定しきれず」"
+    },
+    {
+      "time": "23:17",
+      "title": "建て替えたばかり 八代市庁舎損傷",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589835?source=rss",
+      "publishedAt": "2026-07-29T14:17:04.000Z",
+      "xQuery": "建て替えたばかり 八代市庁舎損傷"
+    },
+    {
+      "time": "20:59",
+      "title": "九州新幹線 被害の全容つかめず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589820?source=rss",
+      "publishedAt": "2026-07-29T11:59:01.000Z",
+      "xQuery": "九州新幹線 被害の全容つかめず"
     }
   ]
 };
