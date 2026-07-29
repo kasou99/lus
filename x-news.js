@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T07:28:51.369Z",
+  "updatedAt": "2026-07-29T08:25:46.632Z",
   "items": [
+    {
+      "time": "16:55",
+      "title": "12人死亡6人心肺停止 熊本県発表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589791?source=rss",
+      "publishedAt": "2026-07-29T07:55:34.000Z",
+      "xQuery": "12人死亡6人心肺停止 熊本県発表"
+    },
+    {
+      "time": "16:32",
+      "title": "中継 爆発事故受けイオン社長会見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589790?source=rss",
+      "publishedAt": "2026-07-29T07:32:34.000Z",
+      "xQuery": "中継 爆発事故受けイオン社長会見"
+    },
     {
       "time": "14:37",
       "title": "イオン発表 従業員4人が安否不明",
@@ -8,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589779?source=rss",
       "publishedAt": "2026-07-29T05:37:07.000Z",
       "xQuery": "イオン発表 従業員4人が安否不明"
-    },
-    {
-      "time": "14:19",
-      "title": "イオン爆発 マッハ超える衝撃波か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589772?source=rss",
-      "publishedAt": "2026-07-29T05:19:19.000Z",
-      "xQuery": "イオン爆発 マッハ超える衝撃波か"
     },
     {
       "time": "15:48",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "国の名勝「松浜軒」地震で崩れる"
     },
     {
-      "time": "15:58",
-      "title": "生保協会 3万7千人分情報漏えいか",
+      "time": "16:41",
+      "title": "地震後 自民福岡県議らパーティー",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589786?source=rss",
-      "publishedAt": "2026-07-29T06:58:06.000Z",
-      "xQuery": "生保協会 3万7千人分情報漏えいか"
-    },
-    {
-      "time": "13:43",
-      "title": "保育施設での事故は3130件 2025年",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589768?source=rss",
-      "publishedAt": "2026-07-29T04:43:46.000Z",
-      "xQuery": "保育施設での事故は3130件 2025年"
+      "url": "https://news.yahoo.co.jp/pickup/6589789?source=rss",
+      "publishedAt": "2026-07-29T07:41:04.000Z",
+      "xQuery": "地震後 自民福岡県議らパーティー"
     }
   ]
 };

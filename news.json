@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T07:28:50.379Z",
+  "updatedAt": "2026-07-29T08:25:45.605Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EaEtUNGYyZ2tWRnRmSnlLdHE0RFVkaDlaOW5xVm56ZVZGT0VQeUQ0TUZpSnB3dDNBQWxLTHR0cFN1cTZRYm5pOFB0WjRVX2M?oc=5",
         "publishedAt": "2026-07-29T03:30:00.000Z"
+      },
+      {
+        "time": "16:45",
+        "title": "工作機械受注、6月52％増 アジア・北米伸長 単月初の2000億円超",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yWTBLMUd1Q1hCNVZhOU1zdnl6UGo2SnBNWV9wUWF1eEFHeC0teHh6aGM0cHY0eDVHZHBpVXZrTXd3YmJTdTZURS16V3E3d0hPSVlGeEx1RmU5Qkk?oc=5",
+        "publishedAt": "2026-07-29T07:45:56.000Z"
       },
       {
         "time": "07:35",
@@ -45,13 +52,6 @@
         "publishedAt": "2026-07-29T05:22:16.000Z"
       },
       {
-        "time": "17:03",
-        "title": "YUASA、工作機械に5年保証 延長プログラム創設",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TemFldndKTUpLSzJNQlk0bThRT3J4dnI4dmZfN2V4bDEtYU9CTk0yWlRHZUtJMnlQSExpQzE4cGc5bzR5UU5rNkQ0RmktZU9CUHA0bjJPOHNKc1k?oc=5",
-        "publishedAt": "2026-07-28T08:03:38.000Z"
-      },
-      {
         "time": "07:30",
         "title": "【ガチ分析】FA・ロボットの絶対王者・ファナック（6954）の正体〜AI半導体の「超精密加工」と工場の無人化を牛耳る、黄色い帝国の全貌〜｜Semiconductor Geek",
         "source": "note",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "16:30",
+        "title": "米大統領 ウ大統領らとの会談良好",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589788?source=rss",
+        "publishedAt": "2026-07-29T07:30:45.000Z"
+      },
       {
         "time": "12:04",
         "title": "ペルー大統領 ケイコ氏が就任",
@@ -94,29 +101,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589606?source=rss",
         "publishedAt": "2026-07-28T02:46:45.000Z"
-      },
-      {
-        "time": "11:33",
-        "title": "刃物で女性3人が襲われる パリ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589602?source=rss",
-        "publishedAt": "2026-07-28T02:33:57.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "16:32",
+        "title": "中継 爆発事故受けイオン社長会見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589790?source=rss",
+        "publishedAt": "2026-07-29T07:32:34.000Z"
+      },
       {
         "time": "03:27",
         "title": "地震影響 鉄道やフライト情報",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589714?source=rss",
         "publishedAt": "2026-07-28T18:27:55.000Z"
-      },
-      {
-        "time": "22:31",
-        "title": "九州の交通網やライフライン 影響",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589702?source=rss",
-        "publishedAt": "2026-07-28T13:31:06.000Z"
       },
       {
         "time": "14:37",
@@ -170,6 +170,13 @@
         "publishedAt": "2026-07-29T02:53:21.000Z"
       },
       {
+        "time": "16:41",
+        "title": "地震後 自民福岡県議らパーティー",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589789?source=rss",
+        "publishedAt": "2026-07-29T07:41:04.000Z"
+      },
+      {
         "time": "15:48",
         "title": "国の名勝「松浜軒」地震で崩れる",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589785?source=rss",
         "publishedAt": "2026-07-29T06:55:24.000Z"
-      },
-      {
-        "time": "15:02",
-        "title": "池袋女性刺殺 死亡の男を書類送検",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589780?source=rss",
-        "publishedAt": "2026-07-29T06:02:55.000Z"
       }
     ],
     "subsidyHeadlines": [
