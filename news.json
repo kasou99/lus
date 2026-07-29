@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T16:57:09.485Z",
+  "updatedAt": "2026-07-29T17:32:38.650Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-07-29T07:45:56.000Z"
       },
       {
-        "time": "21:26",
-        "title": "三井情報と AssetWatch が変える製造業のDXと設備保全 AI×専門家で突発故障ゼロへ！ 専門家CME が高度解析＆伴走型アドバイス 設置簡単 電源工事不要 1か月トライアルあり",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xdWZRM2ZJVDJlOEpldjBsb3B0UVc1Q0I2YllZcjJsXzJIYkJ1OEVnaDZqM1lmOFVwOVVyeF9vTl9WWmxaR29RWFJwWjB6UDBDV0dfQUlmSFZjbXZGMFRzd2pCVVRhUkhpUU1r0gFwQVVfeXFMTVBwaVU1WHhCbUFhUEVnM3RIUWhyQlJrdFZNZEgtN0owcmZYWng5OUdFb21SU2J5YzA3TjRtd2l3SG9vX29wTHM0aVhFNmRCZEhQNlQ1dG9HOV9RVzA3U29OSGg1U2RXZlRSTzZxeXZuQw?oc=5",
-        "publishedAt": "2026-07-29T12:26:00.000Z"
-      },
-      {
         "time": "12:30",
         "title": "エンコーダ付きサーボモーターの世界市場（2026年～2032年）、市場規模（インクリメンタルエンコーダ付きサーボモーター、アブソリュートエンコーダ付きサーボモーター）・分析レポートを発表",
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NamltMnZkZ2pJSTNqYkFaM0JwSUpzUU9sQUMyRkRSbEtTUF9Qc1Zub2ZVZmdZdTgxbDV2Z011UTlPNExQSElEQ0dkcHR1cW8?oc=5",
         "publishedAt": "2026-07-29T03:30:00.000Z"
+      },
+      {
+        "time": "21:26",
+        "title": "三井情報と AssetWatch が変える製造業のDXと設備保全 AI×専門家で突発故障ゼロへ！ 専門家CME が高度解析＆伴走型アドバイス 設置簡単 電源工事不要 1か月トライアルあり",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xdWZRM2ZJVDJlOEpldjBsb3B0UVc1Q0I2YllZcjJsXzJIYkJ1OEVnaDZqM1lmOFVwOVVyeF9vTl9WWmxaR29RWFJwWjB6UDBDV0dfQUlmSFZjbXZGMFRzd2pCVVRhUkhpUU1r0gFwQVVfeXFMTVBwaVU1WHhCbUFhUEVnM3RIUWhyQlJrdFZNZEgtN0owcmZYWng5OUdFb21SU2J5YzA3TjRtd2l3SG9vX29wTHM0aVhFNmRCZEhQNlQ1dG9HOV9RVzA3U29OSGg1U2RXZlRSTzZxeXZuQw?oc=5",
+        "publishedAt": "2026-07-29T12:26:00.000Z"
       },
       {
         "time": "07:35",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-28T22:35:00.000Z"
       },
       {
-        "time": "02:30",
-        "title": "ミクロン精密株式会社 - city.yamagata-yamagata.lg.jp",
-        "source": "city.yamagata-yamagata.lg.jp",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQazVKODVRTldCd2liX0FTb20xaVo0ZGVINC1mVEtoWnBURFljbXVJM2hXX09fejkxXzNqRjNJN0lEck9SUE90RFZ5Q0psVmdYanhadnVtaHpVVk9aMXp0WHdDV2lkbF8xcHBzdlgxZHM4bXZ5RjIzbnpxVVBQX2NUaUgzaXpLSnBJQWRDZHhXRHpLWHM?oc=5",
-        "publishedAt": "2026-07-28T17:30:17.000Z"
-      },
-      {
         "time": "06:30",
         "title": "今日の注目スケジュール：工作機械受注、豪消費者物価指数、米FOMC政策金利発表など 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mbS1WSDM4Y0VHVVRXVEpOOGtRejB4V0FpT2FwT1J2WWt1TkIxZHlHRjU1MHVTQVVTMDB6VDhyWGlyNEZ4aTI1aElTbjdDWlN5UFFEVUMwR1l1SndWdDJiNUVLdklXdXM?oc=5",
         "publishedAt": "2026-07-28T21:30:00.000Z"
+      },
+      {
+        "time": "14:22",
+        "title": "TOPPAN、小型・軽量なRFIDリーダーに温度センサータグの読み取り機能を搭載",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1MkVmN0Q3VWJjc2llRkRXZ0VMd2VxajlhbWxuVERCNi1lNDJsMGhWdXRVeEE5OUxkU0tXai05WnN3aTRONHUzcmY4bGpJVFA3Wmh1dg?oc=5",
+        "publishedAt": "2026-07-29T05:22:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -225,10 +225,10 @@
       },
       {
         "time": "16:00",
-        "title": "防犯対策・防犯カメラ設置の補助金・助成金2026｜個人向けの申請方法と全国の制度を解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFVFV1MEdRM3YwbDdWaHRFenRXbzNHcXMtN3hkckN0dk9DOXlyZnA4RllKTTI2VmNiVU5pUjJmZ0xOUXJWQ29TWlhfTlYxQzBabGlZWTJ6Q012NTg?oc=5",
-        "publishedAt": "2026-07-24T07:00:00.000Z"
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金のポイント解説",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-07-09T07:00:00.000Z"
       }
     ]
   }
