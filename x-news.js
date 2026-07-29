@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T13:10:12.598Z",
+  "updatedAt": "2026-07-29T14:18:26.428Z",
   "items": [
+    {
+      "time": "22:39",
+      "title": "猛暑 避難所では脱水症状の人も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589828?source=rss",
+      "publishedAt": "2026-07-29T13:39:02.000Z",
+      "xQuery": "猛暑 避難所では脱水症状の人も"
+    },
     {
       "time": "20:59",
       "title": "熊本地震 問われた「企業防災」",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イオンモール爆発事故 死者5人に"
     },
     {
-      "time": "20:23",
-      "title": "熊本県内3万戸超で停電 断水も",
+      "time": "21:59",
+      "title": "イオン社長「爆発想定しきれず」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589816?source=rss",
-      "publishedAt": "2026-07-29T11:23:17.000Z",
-      "xQuery": "熊本県内3万戸超で停電 断水も"
-    },
-    {
-      "time": "22:00",
-      "title": "自転車の中学生転倒 車衝突し死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589827?source=rss",
-      "publishedAt": "2026-07-29T13:00:47.000Z",
-      "xQuery": "自転車の中学生転倒 車衝突し死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589825?source=rss",
+      "publishedAt": "2026-07-29T12:59:12.000Z",
+      "xQuery": "イオン社長「爆発想定しきれず」"
     }
   ]
 };

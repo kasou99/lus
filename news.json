@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T13:10:11.953Z",
+  "updatedAt": "2026-07-29T14:18:25.189Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,10 +11,24 @@
       },
       {
         "time": "16:12",
-        "title": "6月の工作機械受注53%増で過去最高 データセンター・半導体が寄与",
+        "title": "6月の工作機械受注53%増、単月で過去最高 データセンター特需で",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVQkllU3NBT2VIMWFEczFoMVJwbVNabUtBU3ZCa0JhSkFZaHdLRjBrcTRUNkFWU1hzWnJqTWRLRDlOMFFVeF80MGNxX3RJU0ZhdGE3c1JkRUpBcjRSVGxva0Z2SWRMbC1RRFBGYg?oc=5",
         "publishedAt": "2026-07-29T07:12:31.000Z"
+      },
+      {
+        "time": "16:45",
+        "title": "工作機械受注、6月52％増 アジア・北米伸長 単月初の2000億円超",
+        "source": "nikkan.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yWTBLMUd1Q1hCNVZhOU1zdnl6UGo2SnBNWV9wUWF1eEFHeC0teHh6aGM0cHY0eDVHZHBpVXZrTXd3YmJTdTZURS16V3E3d0hPSVlGeEx1RmU5Qkk?oc=5",
+        "publishedAt": "2026-07-29T07:45:56.000Z"
+      },
+      {
+        "time": "21:26",
+        "title": "三井情報と AssetWatch が変える製造業のDXと設備保全 AI×専門家で突発故障ゼロへ！ 専門家CME が高度解析＆伴走型アドバイス 設置簡単 電源工事不要 1か月トライアルあり",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xdWZRM2ZJVDJlOEpldjBsb3B0UVc1Q0I2YllZcjJsXzJIYkJ1OEVnaDZqM1lmOFVwOVVyeF9vTl9WWmxaR29RWFJwWjB6UDBDV0dfQUlmSFZjbXZGMFRzd2pCVVRhUkhpUU1r0gFwQVVfeXFMTVBwaVU1WHhCbUFhUEVnM3RIUWhyQlJrdFZNZEgtN0owcmZYWng5OUdFb21SU2J5YzA3TjRtd2l3SG9vX29wTHM0aVhFNmRCZEhQNlQ1dG9HOV9RVzA3U29OSGg1U2RXZlRSTzZxeXZuQw?oc=5",
+        "publishedAt": "2026-07-29T12:26:00.000Z"
       },
       {
         "time": "12:30",
@@ -22,20 +36,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NamltMnZkZ2pJSTNqYkFaM0JwSUpzUU9sQUMyRkRSbEtTUF9Qc1Zub2ZVZmdZdTgxbDV2Z011UTlPNExQSElEQ0dkcHR1cW8?oc=5",
         "publishedAt": "2026-07-29T03:30:00.000Z"
-      },
-      {
-        "time": "21:26",
-        "title": "三井情報と AssetWatch が変える製造業のDXと設備保全 AI×専門家で突発故障ゼロへ！ 専門家CME が高度解析＆伴走型アドバイス 設置簡単 電源工事不要 1か月トライアルあり",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xRV92ZDRUTHhKLVVVbU8wWUVudGRIZ3hMX0xEaVhEVkxoZ2g5RWVuWFBrdU1lLXYyWmtDcmlpYlFUem5obVE1TzR0TmZpdFNoQ1NJMGJBR0k5UFlsUk8xZ05OMlRxZEN5Um0zbzhHZzJmaF9mQ2dFQVliOHdJd9IBcEFVX3lxTE1QcGlVNVh4Qm1BYVBFZzN0SFFockJSa3RWTWRILTdKMHJmWFp4OTlHRW9tUlNieWMwN040bXdpd0hvb19vcExzNGlYRTZkQmRIUDZUNXRvRzlfUVcwN1NvTkhoNVNkV2ZUUk82cXl2bkM?oc=5",
-        "publishedAt": "2026-07-29T12:26:00.000Z"
-      },
-      {
-        "time": "16:45",
-        "title": "工作機械受注、6月52％増 アジア・北米伸長 単月初の2000億円超",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yWTBLMUd1Q1hCNVZhOU1zdnl6UGo2SnBNWV9wUWF1eEFHeC0teHh6aGM0cHY0eDVHZHBpVXZrTXd3YmJTdTZURS16V3E3d0hPSVlGeEx1RmU5Qkk?oc=5",
-        "publishedAt": "2026-07-29T07:45:56.000Z"
       },
       {
         "time": "07:35",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "22:39",
+        "title": "猛暑 避難所では脱水症状の人も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589828?source=rss",
+        "publishedAt": "2026-07-29T13:39:02.000Z"
+      },
+      {
         "time": "21:15",
         "title": "イオンモール爆発事故 死者5人に",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589822?source=rss",
         "publishedAt": "2026-07-29T12:15:05.000Z"
-      },
-      {
-        "time": "11:53",
-        "title": "内部映像 爆発のイオンモール熊本",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589753?source=rss",
-        "publishedAt": "2026-07-29T02:53:21.000Z"
       },
       {
         "time": "20:36",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-07-29T07:41:04.000Z"
       },
       {
+        "time": "23:17",
+        "title": "建て替えたばかり 八代市庁舎損傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589835?source=rss",
+        "publishedAt": "2026-07-29T14:17:04.000Z"
+      },
+      {
         "time": "15:55",
         "title": "雲仙普賢岳の溶岩ドーム 一部崩落",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589785?source=rss",
         "publishedAt": "2026-07-29T06:55:24.000Z"
-      },
-      {
-        "time": "19:06",
-        "title": "イオン爆発 猫カフェの全25匹救出",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589806?source=rss",
-        "publishedAt": "2026-07-29T10:06:35.000Z"
       }
     ],
     "subsidyHeadlines": [
