@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T04:37:03.597Z",
+  "updatedAt": "2026-07-29T06:03:18.183Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -119,6 +119,13 @@
         "publishedAt": "2026-07-28T13:31:06.000Z"
       },
       {
+        "time": "14:37",
+        "title": "イオン発表 従業員4人が安否不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589779?source=rss",
+        "publishedAt": "2026-07-29T05:37:07.000Z"
+      },
+      {
         "time": "20:09",
         "title": "電気ガス停止 安全優先でどう対応",
         "source": "Yahoo!ニュース",
@@ -138,16 +145,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589748?source=rss",
         "publishedAt": "2026-07-29T02:23:18.000Z"
-      },
-      {
-        "time": "11:26",
-        "title": "最低賃金の目安 時給1176円に決定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589750?source=rss",
-        "publishedAt": "2026-07-29T02:26:54.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "14:27",
+        "title": "熊本に避難所465カ所 約1万人避難",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589774?source=rss",
+        "publishedAt": "2026-07-29T05:27:05.000Z"
+      },
       {
         "time": "12:58",
         "title": "イオン出た後に爆発 視界真っ白",
@@ -163,13 +170,6 @@
         "publishedAt": "2026-07-29T03:22:42.000Z"
       },
       {
-        "time": "08:08",
-        "title": "イオン爆発 死亡の2人は20代女性",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589731?source=rss",
-        "publishedAt": "2026-07-28T23:08:09.000Z"
-      },
-      {
         "time": "11:53",
         "title": "内部映像 爆発のイオンモール熊本",
         "source": "Yahoo!ニュース",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-07-29T02:53:21.000Z"
       },
       {
-        "time": "10:36",
-        "title": "熊本で地震 高速道路上下にずれる",
+        "time": "14:12",
+        "title": "被災の病院 深夜に127人転院決行",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589744?source=rss",
-        "publishedAt": "2026-07-29T01:36:50.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589773?source=rss",
+        "publishedAt": "2026-07-29T05:12:53.000Z"
       },
       {
         "time": "11:48",

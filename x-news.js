@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T04:37:04.608Z",
+  "updatedAt": "2026-07-29T06:03:18.948Z",
   "items": [
     {
-      "time": "12:56",
-      "title": "九州危険な暑さ 水分や塩分補給を",
+      "time": "14:36",
+      "title": "イオンモール熊本で3人死亡 首相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589766?source=rss",
-      "publishedAt": "2026-07-29T03:56:43.000Z",
-      "xQuery": "九州危険な暑さ 水分や塩分補給を"
+      "url": "https://news.yahoo.co.jp/pickup/6589778?source=rss",
+      "publishedAt": "2026-07-29T05:36:15.000Z",
+      "xQuery": "イオンモール熊本で3人死亡 首相"
     },
     {
-      "time": "11:48",
-      "title": "熊本城は臨時休園 石垣28カ所崩落",
+      "time": "14:37",
+      "title": "イオン発表 従業員4人が安否不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589747?source=rss",
-      "publishedAt": "2026-07-29T02:48:25.000Z",
-      "xQuery": "熊本城は臨時休園 石垣28カ所崩落"
+      "url": "https://news.yahoo.co.jp/pickup/6589779?source=rss",
+      "publishedAt": "2026-07-29T05:37:07.000Z",
+      "xQuery": "イオン発表 従業員4人が安否不明"
     },
     {
-      "time": "11:53",
-      "title": "内部映像 爆発のイオンモール熊本",
+      "time": "14:19",
+      "title": "イオン爆発 マッハ超える衝撃波か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589753?source=rss",
-      "publishedAt": "2026-07-29T02:53:21.000Z",
-      "xQuery": "内部映像 爆発のイオンモール熊本"
+      "url": "https://news.yahoo.co.jp/pickup/6589772?source=rss",
+      "publishedAt": "2026-07-29T05:19:19.000Z",
+      "xQuery": "イオン爆発 マッハ超える衝撃波か"
     },
     {
-      "time": "12:58",
-      "title": "イオン出た後に爆発 視界真っ白",
+      "time": "14:27",
+      "title": "熊本に避難所465カ所 約1万人避難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589764?source=rss",
-      "publishedAt": "2026-07-29T03:58:19.000Z",
-      "xQuery": "イオン出た後に爆発 視界真っ白"
+      "url": "https://news.yahoo.co.jp/pickup/6589774?source=rss",
+      "publishedAt": "2026-07-29T05:27:05.000Z",
+      "xQuery": "熊本に避難所465カ所 約1万人避難"
     },
     {
-      "time": "12:22",
-      "title": "自宅の下敷きに 兄亡くし男性悲嘆",
+      "time": "14:12",
+      "title": "被災の病院 深夜に127人転院決行",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589759?source=rss",
-      "publishedAt": "2026-07-29T03:22:42.000Z",
-      "xQuery": "自宅の下敷きに 兄亡くし男性悲嘆"
+      "url": "https://news.yahoo.co.jp/pickup/6589773?source=rss",
+      "publishedAt": "2026-07-29T05:12:53.000Z",
+      "xQuery": "被災の病院 深夜に127人転院決行"
     }
   ]
 };
