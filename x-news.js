@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T20:25:58.380Z",
+  "updatedAt": "2026-07-29T20:50:47.829Z",
   "items": [
     {
-      "time": "05:21",
-      "title": "地震情報",
+      "time": "05:28",
+      "title": "熊本で震度4 津波の心配なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588273?source=rss",
-      "publishedAt": "2026-07-29T20:21:45.000Z",
-      "xQuery": "地震情報"
+      "url": "https://news.yahoo.co.jp/pickup/6589840?source=rss",
+      "publishedAt": "2026-07-29T20:28:35.000Z",
+      "xQuery": "熊本で震度4 津波の心配なし"
     },
     {
       "time": "03:24",
