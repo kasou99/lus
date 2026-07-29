@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T21:50:36.020Z",
+  "updatedAt": "2026-07-29T22:23:56.787Z",
   "items": [
+    {
+      "time": "06:47",
+      "title": "猛暑日続出 関東は天気急変の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589844?source=rss",
+      "publishedAt": "2026-07-29T21:47:59.000Z",
+      "xQuery": "猛暑日続出 関東は天気急変の恐れ"
+    },
     {
       "time": "21:59",
       "title": "イオン社長「爆発想定しきれず」",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589843?source=rss",
       "publishedAt": "2026-07-29T21:28:55.000Z",
       "xQuery": "潰れた1階から「ここー」弟を救出"
-    },
-    {
-      "time": "23:17",
-      "title": "建て替えたばかり 八代市庁舎損傷",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589835?source=rss",
-      "publishedAt": "2026-07-29T14:17:04.000Z",
-      "xQuery": "建て替えたばかり 八代市庁舎損傷"
     }
   ]
 };
