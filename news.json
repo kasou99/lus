@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-29T17:32:38.650Z",
+  "updatedAt": "2026-07-29T18:27:01.887Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "18:30",
-        "title": "ブラシレスサーボモーターコントローラーの世界市場（2026年～2032年）、市場規模（永久磁石同期サーボモーター、ブラシレスDCサーボモーター）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzemJ5SEU5WWJIN1AtUjhwcXozVXZNU0w0ZnowdHBHR2Q1Nk5EbXhOUm02dWdvY0R1aUlBNWFwWEdvYjBpTFcwUG4tUXNvRlk?oc=5",
-        "publishedAt": "2026-07-29T09:30:00.000Z"
-      },
       {
         "time": "16:12",
         "title": "6月の工作機械受注53%増、単月で過去最高 データセンター特需で",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVQkllU3NBT2VIMWFEczFoMVJwbVNabUtBU3ZCa0JhSkFZaHdLRjBrcTRUNkFWU1hzWnJqTWRLRDlOMFFVeF80MGNxX3RJU0ZhdGE3c1JkRUpBcjRSVGxva0Z2SWRMbC1RRFBGYg?oc=5",
         "publishedAt": "2026-07-29T07:12:31.000Z"
+      },
+      {
+        "time": "18:30",
+        "title": "ブラシレスサーボモーターコントローラーの世界市場（2026年～2032年）、市場規模（永久磁石同期サーボモーター、ブラシレスDCサーボモーター）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzemJ5SEU5WWJIN1AtUjhwcXozVXZNU0w0ZnowdHBHR2Q1Nk5EbXhOUm02dWdvY0R1aUlBNWFwWEdvYjBpTFcwUG4tUXNvRlk?oc=5",
+        "publishedAt": "2026-07-29T09:30:00.000Z"
       },
       {
         "time": "16:45",
@@ -46,9 +46,9 @@
       },
       {
         "time": "06:30",
-        "title": "今日の注目スケジュール：工作機械受注、豪消費者物価指数、米FOMC政策金利発表など 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-        "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mbS1WSDM4Y0VHVVRXVEpOOGtRejB4V0FpT2FwT1J2WWt1TkIxZHlHRjU1MHVTQVVTMDB6VDhyWGlyNEZ4aTI1aElTbjdDWlN5UFFEVUMwR1l1SndWdDJiNUVLdklXdXM?oc=5",
+        "title": "今日の注目スケジュール：工作機械受注、豪消費者物価指数、米FOMC政策金利発表など",
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81VkhoLVdTOWJUeHp1ZzRZUUJULV9kS2sybURla0djTEh5czlwRzd2R01yc1h5NWdCNUg3Skl5Z3BEVnFudjQ3SVgzNXRvZ2hCUTluRGZHQmJRa0xCOHhIX3dZclBDdw?oc=5",
         "publishedAt": "2026-07-28T21:30:00.000Z"
       },
       {
@@ -225,10 +225,10 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金のポイント解説",
+        "title": "防犯対策・防犯カメラ設置の補助金・助成金2026｜個人向けの申請方法と全国の制度を解説",
         "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-07-09T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFVFV1MEdRM3YwbDdWaHRFenRXbzNHcXMtN3hkckN0dk9DOXlyZnA4RllKTTI2VmNiVU5pUjJmZ0xOUXJWQ29TWlhfTlYxQzBabGlZWTJ6Q012NTg?oc=5",
+        "publishedAt": "2026-07-24T07:00:00.000Z"
       }
     ]
   }
