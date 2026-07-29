@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T19:32:55.455Z",
+  "updatedAt": "2026-07-29T20:25:58.380Z",
   "items": [
+    {
+      "time": "05:21",
+      "title": "地震情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6588273?source=rss",
+      "publishedAt": "2026-07-29T20:21:45.000Z",
+      "xQuery": "地震情報"
+    },
     {
       "time": "03:24",
       "title": "米FRB 政策金利の据え置きを決定",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589825?source=rss",
       "publishedAt": "2026-07-29T12:59:12.000Z",
       "xQuery": "イオン社長「爆発想定しきれず」"
-    },
-    {
-      "time": "23:17",
-      "title": "建て替えたばかり 八代市庁舎損傷",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589835?source=rss",
-      "publishedAt": "2026-07-29T14:17:04.000Z",
-      "xQuery": "建て替えたばかり 八代市庁舎損傷"
     }
   ]
 };
