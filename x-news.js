@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T21:22:23.418Z",
+  "updatedAt": "2026-07-29T21:50:36.020Z",
   "items": [
-    {
-      "time": "05:28",
-      "title": "熊本で震度4 津波の心配なし",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589840?source=rss",
-      "publishedAt": "2026-07-29T20:28:35.000Z",
-      "xQuery": "熊本で震度4 津波の心配なし"
-    },
-    {
-      "time": "03:24",
-      "title": "米FRB 政策金利の据え置きを決定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589839?source=rss",
-      "publishedAt": "2026-07-29T18:24:52.000Z",
-      "xQuery": "米FRB 政策金利の据え置きを決定"
-    },
     {
       "time": "21:59",
       "title": "イオン社長「爆発想定しきれず」",
@@ -24,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589825?source=rss",
       "publishedAt": "2026-07-29T12:59:12.000Z",
       "xQuery": "イオン社長「爆発想定しきれず」"
+    },
+    {
+      "time": "20:36",
+      "title": "がれきから「助けて」緊迫の救助",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589817?source=rss",
+      "publishedAt": "2026-07-29T11:36:52.000Z",
+      "xQuery": "がれきから「助けて」緊迫の救助"
     },
     {
       "time": "06:19",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン熊本で妻不明 案ずる夫と子"
     },
     {
-      "time": "20:36",
-      "title": "がれきから「助けて」緊迫の救助",
+      "time": "06:28",
+      "title": "潰れた1階から「ここー」弟を救出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589817?source=rss",
-      "publishedAt": "2026-07-29T11:36:52.000Z",
-      "xQuery": "がれきから「助けて」緊迫の救助"
+      "url": "https://news.yahoo.co.jp/pickup/6589843?source=rss",
+      "publishedAt": "2026-07-29T21:28:55.000Z",
+      "xQuery": "潰れた1階から「ここー」弟を救出"
+    },
+    {
+      "time": "23:17",
+      "title": "建て替えたばかり 八代市庁舎損傷",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589835?source=rss",
+      "publishedAt": "2026-07-29T14:17:04.000Z",
+      "xQuery": "建て替えたばかり 八代市庁舎損傷"
     }
   ]
 };

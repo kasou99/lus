@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T21:22:22.672Z",
+  "updatedAt": "2026-07-29T21:50:35.291Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-29T07:12:31.000Z"
       },
       {
-        "time": "06:30",
-        "title": "今日の注目スケジュール：工作機械受注、豪消費者物価指数、米FOMC政策金利発表など",
-        "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEaFFRTnd0MkVhRDZKUWh1STNRcVlxS1JjSEowb0lZN1QtNjdLQ3ZiTGtsVHRLZGttaFJyalo4QTBQYUwySEczTUFzaHduRW04eG5raHN5SXBKaVdvbEtLaUtxY2I?oc=5",
-        "publishedAt": "2026-07-28T21:30:00.000Z"
-      },
-      {
         "time": "07:35",
         "title": "29日の注目材料：日銀オペ、6月工作機械受注、豪CPI、そしてFOMC政策金利発表",
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2RE9YXy1BdmloQkpkLWE5cFJyRzQtOHRlX2ptbDkyRXNNTWlEcUNuWWk4N0FOVEllb2Q3emNDODhxbk5VajR4NGJTQU9KVUFxZUl1dzk1X1gyMG10a1ZTZmUxNTR5VjdBTVVHSm03U3hkUXR0?oc=5",
         "publishedAt": "2026-07-28T22:35:00.000Z"
+      },
+      {
+        "time": "16:45",
+        "title": "工作機械受注、6月52％増 アジア・北米伸長 単月初の2000億円超",
+        "source": "nikkan.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yWTBLMUd1Q1hCNVZhOU1zdnl6UGo2SnBNWV9wUWF1eEFHeC0teHh6aGM0cHY0eDVHZHBpVXZrTXd3YmJTdTZURS16V3E3d0hPSVlGeEx1RmU5Qkk?oc=5",
+        "publishedAt": "2026-07-29T07:45:56.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,18 +170,18 @@
         "publishedAt": "2026-07-29T11:36:52.000Z"
       },
       {
+        "time": "06:28",
+        "title": "潰れた1階から「ここー」弟を救出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589843?source=rss",
+        "publishedAt": "2026-07-29T21:28:55.000Z"
+      },
+      {
         "time": "16:41",
         "title": "地震後 自民福岡県議らパーティー",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589789?source=rss",
         "publishedAt": "2026-07-29T07:41:04.000Z"
-      },
-      {
-        "time": "22:39",
-        "title": "猛暑 避難所では脱水症状の人も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589828?source=rss",
-        "publishedAt": "2026-07-29T13:39:02.000Z"
       },
       {
         "time": "23:17",
