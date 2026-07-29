@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T01:39:31.766Z",
+  "updatedAt": "2026-07-29T03:08:50.336Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mbS1WSDM4Y0VHVVRXVEpOOGtRejB4V0FpT2FwT1J2WWt1TkIxZHlHRjU1MHVTQVVTMDB6VDhyWGlyNEZ4aTI1aElTbjdDWlN5UFFEVUMwR1l1SndWdDJiNUVLdklXdXM?oc=5",
         "publishedAt": "2026-07-28T21:30:00.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "TOPPAN、小型・軽量なRFIDリーダーに温度センサータグの読み取り機能を搭載",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4OExlMEtlQ0FQS1hNWjhYRjNWVnM1amtrWnRCVzhuZ01QaGZ0dm1zNkN3a0hscjJFR2JKUzZsdlR5eU5qMEV2UGhIWndtT3J2QWdsSDZFUG50UGthSVQ3MkJFLTNxTzRrUHc?oc=5",
+        "publishedAt": "2026-07-29T01:00:24.000Z"
       },
       {
         "time": "17:03",
@@ -50,16 +57,23 @@
         "source": "ASCII.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xUmNFVGZ5dTJVNnZHbTJEMkxqVHduZWhUVEQwZkFzTTVjTy0yVk9TdFZYMFlySjlNSkliNEhMd1V4VnJHb2d6aHRiUVdqb1FYZEVtSw?oc=5",
         "publishedAt": "2026-07-28T03:14:16.000Z"
-      },
-      {
-        "time": "23:02",
-        "title": "九電など、産学官4者連携 薩摩川内を活性化 AIDC集積見据える",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSZWg3MlBJV2tIaS11Nk96TVBZTHR3Tlk2WUNBY1ZsWkdRU1pQN29NRUhFRDdZN1NwOWNVWC1KRzJvbDdXaVhhVmxwR3BUVmVtVmRZNjZKUEJTckk?oc=5",
-        "publishedAt": "2026-07-28T14:02:12.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "12:04",
+        "title": "ペルー大統領 ケイコ氏が就任",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589758?source=rss",
+        "publishedAt": "2026-07-29T03:04:44.000Z"
+      },
+      {
+        "time": "10:55",
+        "title": "米軍 イランのミサイル攻撃を迎撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589745?source=rss",
+        "publishedAt": "2026-07-29T01:55:44.000Z"
+      },
       {
         "time": "07:11",
         "title": "熊本地震 海外メディアが一斉速報",
@@ -75,25 +89,11 @@
         "publishedAt": "2026-07-28T00:37:05.000Z"
       },
       {
-        "time": "06:51",
-        "title": "トランプ氏 FRBに利下げを要求",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589565?source=rss",
-        "publishedAt": "2026-07-27T21:51:24.000Z"
-      },
-      {
         "time": "11:46",
         "title": "国連で仏発言中 米代表団が退席",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589606?source=rss",
         "publishedAt": "2026-07-28T02:46:45.000Z"
-      },
-      {
-        "time": "13:24",
-        "title": "「大イスラエル主義」加速の背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589469?source=rss",
-        "publishedAt": "2026-07-27T04:24:06.000Z"
       },
       {
         "time": "11:33",
@@ -119,13 +119,6 @@
         "publishedAt": "2026-07-28T13:31:06.000Z"
       },
       {
-        "time": "22:15",
-        "title": "鉄道各社見合わせ 帰宅困難者続出",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589699?source=rss",
-        "publishedAt": "2026-07-28T13:15:21.000Z"
-      },
-      {
         "time": "20:09",
         "title": "電気ガス停止 安全優先でどう対応",
         "source": "Yahoo!ニュース",
@@ -133,18 +126,25 @@
         "publishedAt": "2026-07-28T11:09:00.000Z"
       },
       {
-        "time": "12:04",
-        "title": "BYDが日本で軽EV 実質100万円台",
+        "time": "11:33",
+        "title": "熊本で地震 46の医療機関が被災",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589608?source=rss",
-        "publishedAt": "2026-07-28T03:04:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589749?source=rss",
+        "publishedAt": "2026-07-29T02:33:57.000Z"
       },
       {
-        "time": "11:22",
-        "title": "相次ぐ夫の転勤 追い詰められた妻",
+        "time": "11:23",
+        "title": "熊本地震 半導体生産に影響恐れも",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589599?source=rss",
-        "publishedAt": "2026-07-28T02:22:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589748?source=rss",
+        "publishedAt": "2026-07-29T02:23:18.000Z"
+      },
+      {
+        "time": "11:26",
+        "title": "最低賃金の目安 時給1176円に決定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589750?source=rss",
+        "publishedAt": "2026-07-29T02:26:54.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-07-28T23:08:09.000Z"
       },
       {
+        "time": "11:53",
+        "title": "内部映像 爆発のイオンモール熊本",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589753?source=rss",
+        "publishedAt": "2026-07-29T02:53:21.000Z"
+      },
+      {
         "time": "07:37",
         "title": "映像 イオン爆発時のドラレコ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589727?source=rss",
         "publishedAt": "2026-07-28T22:37:11.000Z"
-      },
-      {
-        "time": "04:24",
-        "title": "イオンモール ガス漏れの可能性",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589717?source=rss",
-        "publishedAt": "2026-07-28T19:24:45.000Z"
       },
       {
         "time": "06:42",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-07-29T01:36:50.000Z"
       },
       {
-        "time": "00:43",
-        "title": "日本製紙八代 2人心肺停止9人不明",
+        "time": "11:48",
+        "title": "熊本城は臨時休園 石垣28カ所崩落",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589705?source=rss",
-        "publishedAt": "2026-07-28T15:43:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589747?source=rss",
+        "publishedAt": "2026-07-29T02:48:25.000Z"
       }
     ],
     "subsidyHeadlines": [

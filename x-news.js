@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T01:39:32.291Z",
+  "updatedAt": "2026-07-29T03:08:50.859Z",
   "items": [
     {
       "time": "10:26",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "地震 首相「調査中含め死者13人」"
     },
     {
-      "time": "08:08",
-      "title": "イオン爆発 死亡の2人は20代女性",
+      "time": "10:41",
+      "title": "停電時や避難所 体を冷やすには",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589731?source=rss",
-      "publishedAt": "2026-07-28T23:08:09.000Z",
-      "xQuery": "イオン爆発 死亡の2人は20代女性"
+      "url": "https://news.yahoo.co.jp/pickup/6589743?source=rss",
+      "publishedAt": "2026-07-29T01:41:02.000Z",
+      "xQuery": "停電時や避難所 体を冷やすには"
     },
     {
-      "time": "07:37",
-      "title": "映像 イオン爆発時のドラレコ",
+      "time": "11:53",
+      "title": "内部映像 爆発のイオンモール熊本",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589727?source=rss",
-      "publishedAt": "2026-07-28T22:37:11.000Z",
-      "xQuery": "映像 イオン爆発時のドラレコ"
+      "url": "https://news.yahoo.co.jp/pickup/6589753?source=rss",
+      "publishedAt": "2026-07-29T02:53:21.000Z",
+      "xQuery": "内部映像 爆発のイオンモール熊本"
     },
     {
-      "time": "09:25",
-      "title": "熊本で危険な暑さ予想 熱中症警戒",
+      "time": "11:33",
+      "title": "熊本で地震 46の医療機関が被災",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589736?source=rss",
-      "publishedAt": "2026-07-29T00:25:22.000Z",
-      "xQuery": "熊本で危険な暑さ予想 熱中症警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6589749?source=rss",
+      "publishedAt": "2026-07-29T02:33:57.000Z",
+      "xQuery": "熊本で地震 46の医療機関が被災"
     },
     {
-      "time": "07:37",
-      "title": "熊本で地震 最大84cmの地殻変動",
+      "time": "10:36",
+      "title": "熊本で地震 高速道路上下にずれる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589728?source=rss",
-      "publishedAt": "2026-07-28T22:37:02.000Z",
-      "xQuery": "熊本で地震 最大84cmの地殻変動"
+      "url": "https://news.yahoo.co.jp/pickup/6589744?source=rss",
+      "publishedAt": "2026-07-29T01:36:50.000Z",
+      "xQuery": "熊本で地震 高速道路上下にずれる"
     }
   ]
 };
