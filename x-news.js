@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-28T23:51:24.459Z",
+  "updatedAt": "2026-07-29T00:46:08.175Z",
   "items": [
     {
       "time": "08:08",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン爆発 死亡の2人は20代女性"
     },
     {
-      "time": "05:56",
-      "title": "熊本厳しい暑さ 熱中症と地震警戒",
+      "time": "09:08",
+      "title": "クレーン下敷き1人死亡 各地被害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589721?source=rss",
-      "publishedAt": "2026-07-28T20:56:07.000Z",
-      "xQuery": "熊本厳しい暑さ 熱中症と地震警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6589735?source=rss",
+      "publishedAt": "2026-07-29T00:08:53.000Z",
+      "xQuery": "クレーン下敷き1人死亡 各地被害"
+    },
+    {
+      "time": "09:25",
+      "title": "熊本で危険な暑さ予想 熱中症警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589736?source=rss",
+      "publishedAt": "2026-07-29T00:25:22.000Z",
+      "xQuery": "熊本で危険な暑さ予想 熱中症警戒"
     },
     {
       "time": "07:37",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本で地震 最大84cmの地殻変動"
     },
     {
-      "time": "06:49",
-      "title": "地震 避難者は36市町村で4700人超",
+      "time": "07:11",
+      "title": "熊本地震 海外メディアが一斉速報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589723?source=rss",
-      "publishedAt": "2026-07-28T21:49:57.000Z",
-      "xQuery": "地震 避難者は36市町村で4700人超"
-    },
-    {
-      "time": "05:29",
-      "title": "地震で政府 プッシュ型支援展開へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589718?source=rss",
-      "publishedAt": "2026-07-28T20:29:51.000Z",
-      "xQuery": "地震で政府 プッシュ型支援展開へ"
+      "url": "https://news.yahoo.co.jp/pickup/6589725?source=rss",
+      "publishedAt": "2026-07-28T22:11:22.000Z",
+      "xQuery": "熊本地震 海外メディアが一斉速報"
     }
   ]
 };
