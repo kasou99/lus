@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T22:50:34.486Z",
+  "updatedAt": "2026-07-29T23:24:59.614Z",
   "items": [
+    {
+      "time": "07:53",
+      "title": "熊本地震3日目の朝 続く救出活動",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589850?source=rss",
+      "publishedAt": "2026-07-29T22:53:20.000Z",
+      "xQuery": "熊本地震3日目の朝 続く救出活動"
+    },
     {
       "time": "06:47",
       "title": "猛暑日続出 関東は天気急変の恐れ",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "猛暑日続出 関東は天気急変の恐れ"
     },
     {
-      "time": "21:59",
-      "title": "イオン社長「爆発想定しきれず」",
+      "time": "07:55",
+      "title": "熊本地震受け 各国首脳らコメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589825?source=rss",
-      "publishedAt": "2026-07-29T12:59:12.000Z",
-      "xQuery": "イオン社長「爆発想定しきれず」"
+      "url": "https://news.yahoo.co.jp/pickup/6589851?source=rss",
+      "publishedAt": "2026-07-29T22:55:04.000Z",
+      "xQuery": "熊本地震受け 各国首脳らコメント"
     },
     {
       "time": "06:19",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン熊本で妻不明 案ずる夫と子"
     },
     {
-      "time": "06:28",
-      "title": "潰れた1階から「ここー」弟を救出",
+      "time": "07:23",
+      "title": "イオン爆発 なぜ地震の1時間半後",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589843?source=rss",
-      "publishedAt": "2026-07-29T21:28:55.000Z",
-      "xQuery": "潰れた1階から「ここー」弟を救出"
-    },
-    {
-      "time": "07:22",
-      "title": "露 北方領土の島「ゾルゲ」命名へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589847?source=rss",
-      "publishedAt": "2026-07-29T22:22:49.000Z",
-      "xQuery": "露 北方領土の島「ゾルゲ」命名へ"
+      "url": "https://news.yahoo.co.jp/pickup/6589846?source=rss",
+      "publishedAt": "2026-07-29T22:23:41.000Z",
+      "xQuery": "イオン爆発 なぜ地震の1時間半後"
     }
   ]
 };

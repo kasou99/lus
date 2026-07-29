@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T22:50:33.332Z",
+  "updatedAt": "2026-07-29T23:24:58.811Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-07-29T09:30:00.000Z"
       },
       {
-        "time": "12:30",
-        "title": "エンコーダ付きサーボモーターの世界市場（2026年～2032年）、市場規模（インクリメンタルエンコーダ付きサーボモーター、アブソリュートエンコーダ付きサーボモーター）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NamltMnZkZ2pJSTNqYkFaM0JwSUpzUU9sQUMyRkRSbEtTUF9Qc1Zub2ZVZmdZdTgxbDV2Z011UTlPNExQSElEQ0dkcHR1cW8?oc=5",
-        "publishedAt": "2026-07-29T03:30:00.000Z"
-      },
-      {
         "time": "21:26",
         "title": "三井情報と AssetWatch が変える製造業のDXと設備保全 AI×専門家で突発故障ゼロへ！ 専門家CME が高度解析＆伴走型アドバイス 設置簡単 電源工事不要 1か月トライアルあり",
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xdWZRM2ZJVDJlOEpldjBsb3B0UVc1Q0I2YllZcjJsXzJIYkJ1OEVnaDZqM1lmOFVwOVVyeF9vTl9WWmxaR29RWFJwWjB6UDBDV0dfQUlmSFZjbXZGMFRzd2pCVVRhUkhpUU1r0gFwQVVfeXFMTVBwaVU1WHhCbUFhUEVnM3RIUWhyQlJrdFZNZEgtN0owcmZYWng5OUdFb21SU2J5YzA3TjRtd2l3SG9vX29wTHM0aVhFNmRCZEhQNlQ1dG9HOV9RVzA3U29OSGg1U2RXZlRSTzZxeXZuQw?oc=5",
         "publishedAt": "2026-07-29T12:26:00.000Z"
+      },
+      {
+        "time": "12:30",
+        "title": "エンコーダ付きサーボモーターの世界市場（2026年～2032年）、市場規模（インクリメンタルエンコーダ付きサーボモーター、アブソリュートエンコーダ付きサーボモーター）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NamltMnZkZ2pJSTNqYkFaM0JwSUpzUU9sQUMyRkRSbEtTUF9Qc1Zub2ZVZmdZdTgxbDV2Z011UTlPNExQSElEQ0dkcHR1cW8?oc=5",
+        "publishedAt": "2026-07-29T03:30:00.000Z"
       },
       {
         "time": "16:12",
@@ -61,6 +61,20 @@
     ],
     "worldHeadlines": [
       {
+        "time": "07:55",
+        "title": "熊本地震受け 各国首脳らコメント",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589851?source=rss",
+        "publishedAt": "2026-07-29T22:55:04.000Z"
+      },
+      {
+        "time": "07:11",
+        "title": "熊本地震 海外メディアが一斉速報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589725?source=rss",
+        "publishedAt": "2026-07-28T22:11:22.000Z"
+      },
+      {
         "time": "06:54",
         "title": "トランプ氏 イランに報復を予告",
         "source": "Yahoo!ニュース",
@@ -75,20 +89,6 @@
         "publishedAt": "2026-07-29T10:16:21.000Z"
       },
       {
-        "time": "16:30",
-        "title": "米大統領 ウ大統領らとの会談良好",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589788?source=rss",
-        "publishedAt": "2026-07-29T07:30:45.000Z"
-      },
-      {
-        "time": "12:04",
-        "title": "ペルー大統領 ケイコ氏が就任",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589758?source=rss",
-        "publishedAt": "2026-07-29T03:04:44.000Z"
-      },
-      {
         "time": "10:55",
         "title": "米軍 イランのミサイル攻撃を迎撃",
         "source": "Yahoo!ニュース",
@@ -96,11 +96,11 @@
         "publishedAt": "2026-07-29T01:55:44.000Z"
       },
       {
-        "time": "07:22",
-        "title": "露 北方領土の島「ゾルゲ」命名へ",
+        "time": "16:30",
+        "title": "米大統領 ウ大統領らとの会談良好",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589847?source=rss",
-        "publishedAt": "2026-07-29T22:22:49.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589788?source=rss",
+        "publishedAt": "2026-07-29T07:30:45.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:53",
+        "title": "熊本地震3日目の朝 続く救出活動",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589850?source=rss",
+        "publishedAt": "2026-07-29T22:53:20.000Z"
+      },
+      {
         "time": "06:19",
         "title": "イオン熊本で妻不明 案ずる夫と子",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589789?source=rss",
         "publishedAt": "2026-07-29T07:41:04.000Z"
-      },
-      {
-        "time": "23:17",
-        "title": "建て替えたばかり 八代市庁舎損傷",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589835?source=rss",
-        "publishedAt": "2026-07-29T14:17:04.000Z"
       }
     ],
     "subsidyHeadlines": [
