@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-07-30T23:27:04.971Z",
+  "updatedAt": "2026-07-30T23:53:21.768Z",
   "groups": {
     "machineHeadlines": [
       {
+        "time": "06:30",
+        "title": "ベッコフが日本向けドライブシステム、価格競争力と機能性を両立：FAニュース",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtTmZFeEhzSG1kMmdFejhUdUFHUDVzTXdlSTR0aGRaOTFEWUQ2d2hNekdFdnQzSEhmckxKMUJFaXl3bzRBLUdDWGdXZzcwUDB5Um9aS2pTdmVJSFVLVjdVczlKWnBMYnVSMEs1dWV6MA?oc=5",
+        "publishedAt": "2026-07-30T21:30:00.000Z"
+      },
+      {
         "time": "14:30",
         "title": "制御盤を「切り込み隊長」に 三菱電機、エレベーター顧客開拓",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TbU8zVkdkTEdkUG5CZHpEbzl0eGZScGJNZ1ZoZ2xRcHFUaXRqRXU4NEN5QXVuWTdMZkQwM1ZyVURodEVBVndpc0VtS2x2UlZiUDVEZHVPekRDNXVJZEl5dHhFNmt4azJVLWlDaQ?oc=5",
         "publishedAt": "2026-07-30T05:30:00.000Z"
       },
@@ -17,18 +24,18 @@
         "publishedAt": "2026-07-30T08:59:04.000Z"
       },
       {
-        "time": "09:15",
-        "title": "習近平は手を汚さぬ\"死の商人\"…ロシアに工作機械､ウクライナにドローンの中国が｢台湾有事｣で日本に使う手",
-        "source": "news.yahoo.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SVFhuaXYxSUlJRmtLaUdRMDNiV3hlODFnOVk1M2M2Zk1FdXNEMzRsSnBUMGJ5SkNBbDdyeU5kQTQ1RlViODRJRk1URGhtdWsxamVxbHRJUWV0RFVFNUtMbnZSNzlIVWExc3g0cmg3X1dtVU9pZ2VYODNDUjBUTDQ?oc=5",
-        "publishedAt": "2026-07-30T00:15:36.000Z"
-      },
-      {
         "time": "15:26",
         "title": "ブラザー、第56回 機械工業デザイン賞 IDEA「日本工作機械工業会賞」を受賞",
         "source": "イザ！",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xcV91cU45OEVEbXY1UE40MGdzU3FrcnV1QjY2SDNtRUFZWmJBR0xpbkZqZDM1RWczUkVmSFdSbDhXTDNIdTh6bVNxOFVtbW5xY1JFMTFBS01SYmRabnFuQ1MyNjBwT1AwbkN5WWk5UXliWk9jNzlfNUF3?oc=5",
         "publishedAt": "2026-07-30T06:26:54.000Z"
+      },
+      {
+        "time": "09:15",
+        "title": "習近平は手を汚さぬ\"死の商人\"…ロシアに工作機械､ウクライナにドローンの中国が｢台湾有事｣で日本に使う手",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SVFhuaXYxSUlJRmtLaUdRMDNiV3hlODFnOVk1M2M2Zk1FdXNEMzRsSnBUMGJ5SkNBbDdyeU5kQTQ1RlViODRJRk1URGhtdWsxamVxbHRJUWV0RFVFNUtMbnZSNzlIVWExc3g0cmg3X1dtVU9pZ2VYODNDUjBUTDQ?oc=5",
+        "publishedAt": "2026-07-30T00:15:36.000Z"
       },
       {
         "time": "13:00",
@@ -47,16 +54,9 @@
       {
         "time": "09:30",
         "title": "【台湾情報】台湾無人機産業、世界の防衛サプライチェーンの要へ＜ワイズ機械業界ジャーナル2026年8月第１週号発行＞",
-        "source": "PR TIMES",
+        "source": "prtimes.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xNjNMY05qM3JDaVpNRFBDTFZhalg1Rk1SOHF1UkYtTm5CYVAwd2VnMmNNYXpuUUJLRW4zajdYR2g2OER3UlJSN3l4Wmt2cXFjb0NVemdtMUFpdGZGSjRQQ3A1djU2NlAwSkE?oc=5",
         "publishedAt": "2026-07-30T00:30:01.000Z"
-      },
-      {
-        "time": "06:30",
-        "title": "ベッコフが日本向けドライブシステム、価格競争力と機能性を両立：FAニュース",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtTmZFeEhzSG1kMmdFejhUdUFHUDVzTXdlSTR0aGRaOTFEWUQ2d2hNekdFdnQzSEhmckxKMUJFaXl3bzRBLUdDWGdXZzcwUDB5Um9aS2pTdmVJSFVLVjdVczlKWnBMYnVSMEs1dWV6MA?oc=5",
-        "publishedAt": "2026-07-30T21:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,18 +119,18 @@
         "publishedAt": "2026-07-30T11:27:08.000Z"
       },
       {
-        "time": "20:10",
-        "title": "九州新幹線 31日に博多-熊本再開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589941?source=rss",
-        "publishedAt": "2026-07-30T11:10:08.000Z"
-      },
-      {
         "time": "21:32",
         "title": "イオンモール爆発 経産省が調査",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589951?source=rss",
         "publishedAt": "2026-07-30T12:32:11.000Z"
+      },
+      {
+        "time": "08:36",
+        "title": "キオクシア株が1カ月で1/3に 背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589980?source=rss",
+        "publishedAt": "2026-07-30T23:36:50.000Z"
       },
       {
         "time": "18:12",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T23:27:07.921Z",
+  "updatedAt": "2026-07-30T23:53:22.543Z",
   "items": [
     {
       "time": "06:23",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震 迫る「72時間」捜索懸命"
     },
     {
-      "time": "06:39",
-      "title": "多くの被災者が車中泊 専門家警鐘",
+      "time": "07:22",
+      "title": "九州～関東は広く猛暑 熱中症警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589967?source=rss",
-      "publishedAt": "2026-07-30T21:39:41.000Z",
-      "xQuery": "多くの被災者が車中泊 専門家警鐘"
+      "url": "https://news.yahoo.co.jp/pickup/6589969?source=rss",
+      "publishedAt": "2026-07-30T22:22:59.000Z",
+      "xQuery": "九州～関東は広く猛暑 熱中症警戒"
     },
     {
       "time": "08:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "外国人採用の県アンケ 差別と指摘"
     },
     {
-      "time": "07:14",
-      "title": "Apple純利益が27%増 iPhone好調",
+      "time": "08:36",
+      "title": "キオクシア株が1カ月で1/3に 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589968?source=rss",
-      "publishedAt": "2026-07-30T22:14:44.000Z",
-      "xQuery": "Apple純利益が27%増 iPhone好調"
+      "url": "https://news.yahoo.co.jp/pickup/6589980?source=rss",
+      "publishedAt": "2026-07-30T23:36:50.000Z",
+      "xQuery": "キオクシア株が1カ月で1/3に 背景"
     }
   ]
 };
