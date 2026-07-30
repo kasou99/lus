@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T01:39:08.127Z",
+  "updatedAt": "2026-07-30T03:10:34.306Z",
   "items": [
     {
-      "time": "10:02",
-      "title": "17人死亡6人心肺停止 熊本県発表",
+      "time": "11:16",
+      "title": "熊本地震 関連調査中含め28人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589860?source=rss",
-      "publishedAt": "2026-07-30T01:02:48.000Z",
-      "xQuery": "17人死亡6人心肺停止 熊本県発表"
+      "url": "https://news.yahoo.co.jp/pickup/6589870?source=rss",
+      "publishedAt": "2026-07-30T02:16:48.000Z",
+      "xQuery": "熊本地震 関連調査中含め28人死亡"
     },
     {
-      "time": "07:53",
-      "title": "熊本地震3日目の朝 続く救出活動",
+      "time": "10:50",
+      "title": "交通やライフライン影響続く 九州",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589850?source=rss",
-      "publishedAt": "2026-07-29T22:53:20.000Z",
-      "xQuery": "熊本地震3日目の朝 続く救出活動"
+      "url": "https://news.yahoo.co.jp/pickup/6589868?source=rss",
+      "publishedAt": "2026-07-30T01:50:50.000Z",
+      "xQuery": "交通やライフライン影響続く 九州"
     },
     {
-      "time": "07:55",
-      "title": "熊本地震受け 各国首脳らコメント",
+      "time": "10:33",
+      "title": "震源の断層にまだ割れ残り 調査委",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589851?source=rss",
-      "publishedAt": "2026-07-29T22:55:04.000Z",
-      "xQuery": "熊本地震受け 各国首脳らコメント"
+      "url": "https://news.yahoo.co.jp/pickup/6589865?source=rss",
+      "publishedAt": "2026-07-30T01:33:48.000Z",
+      "xQuery": "震源の断層にまだ割れ残り 調査委"
     },
     {
-      "time": "09:12",
-      "title": "地震で家つぶれ下敷きに 救助難航",
+      "time": "08:51",
+      "title": "災害関連死を防ぐために 識者指摘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589855?source=rss",
-      "publishedAt": "2026-07-30T00:12:45.000Z",
-      "xQuery": "地震で家つぶれ下敷きに 救助難航"
+      "url": "https://news.yahoo.co.jp/pickup/6589854?source=rss",
+      "publishedAt": "2026-07-29T23:51:19.000Z",
+      "xQuery": "災害関連死を防ぐために 識者指摘"
     },
     {
-      "time": "10:28",
-      "title": "米がイラン空爆を再開 応酬再燃か",
+      "time": "11:57",
+      "title": "韓国国会 W杯敗退で前監督ら追及",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589864?source=rss",
-      "publishedAt": "2026-07-30T01:28:30.000Z",
-      "xQuery": "米がイラン空爆を再開 応酬再燃か"
+      "url": "https://news.yahoo.co.jp/pickup/6589873?source=rss",
+      "publishedAt": "2026-07-30T02:57:11.000Z",
+      "xQuery": "韓国国会 W杯敗退で前監督ら追及"
     }
   ]
 };
