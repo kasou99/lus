@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-30T14:18:22.035Z",
+  "updatedAt": "2026-07-30T15:17:17.909Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "17:59",
-        "title": "山口製作所の門形五面加工機「MVR40Hx」導入事例｜大型加工を強化 | ニデックマシンツール",
-        "source": "nidec.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkQ0cV92dkJ0MzR1WWJaNXo3ZGJ5NjdobXptb19FX05lNmxVRTBLX215LUhmcmt2eDVtbzFTTmI3WlVPWjBoQkdwVUVtTWc0THpnRWh4V21nYjdFR2E0MnhyMlZ1WDh1X3VERmkwMFZucnQtX1JEN0FSOWJVeEJ1OUxUd3hlUzg3MnUtalNRcWxWYm9vWGpKQnA0SHMwZWhZbFM5RV9VdDY1bzVRUUFHQW53?oc=5",
-        "publishedAt": "2026-07-30T08:59:04.000Z"
-      },
       {
         "time": "14:30",
         "title": "制御盤を「切り込み隊長」に 三菱電機、エレベーター顧客開拓",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TbU8zVkdkTEdkUG5CZHpEbzl0eGZScGJNZ1ZoZ2xRcHFUaXRqRXU4NEN5QXVuWTdMZkQwM1ZyVURodEVBVndpc0VtS2x2UlZiUDVEZHVPekRDNXVJZEl5dHhFNmt4azJVLWlDaQ?oc=5",
         "publishedAt": "2026-07-30T05:30:00.000Z"
+      },
+      {
+        "time": "17:59",
+        "title": "山口製作所の門形五面加工機「MVR40Hx」導入事例｜大型加工を強化 | ニデックマシンツール",
+        "source": "nidec.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkQ0cV92dkJ0MzR1WWJaNXo3ZGJ5NjdobXptb19FX05lNmxVRTBLX215LUhmcmt2eDVtbzFTTmI3WlVPWjBoQkdwVUVtTWc0THpnRWh4V21nYjdFR2E0MnhyMlZ1WDh1X3VERmkwMFZucnQtX1JEN0FSOWJVeEJ1OUxUd3hlUzg3MnUtalNRcWxWYm9vWGpKQnA0SHMwZWhZbFM5RV9VdDY1bzVRUUFHQW53?oc=5",
+        "publishedAt": "2026-07-30T08:59:04.000Z"
       },
       {
         "time": "15:26",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "23:33",
+        "title": "一時1ドル157円台 為替介入か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589962?source=rss",
+        "publishedAt": "2026-07-30T14:33:10.000Z"
+      },
+      {
         "time": "20:27",
         "title": "食料品消費税1% 生活への影響は",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589951?source=rss",
         "publishedAt": "2026-07-30T12:32:11.000Z"
-      },
-      {
-        "time": "18:49",
-        "title": "備蓄米買い戻し 判断時期巡る課題",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589931?source=rss",
-        "publishedAt": "2026-07-30T09:49:26.000Z"
       },
       {
         "time": "18:12",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "防犯対策・防犯カメラ設置の補助金・助成金2026｜個人向けの申請方法と全国の制度を解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "防犯対策・防犯カメラ設置の補助金・助成金2026｜個人向けの申請方法と全国の制度を解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFVFV1MEdRM3YwbDdWaHRFenRXbzNHcXMtN3hkckN0dk9DOXlyZnA4RllKTTI2VmNiVU5pUjJmZ0xOUXJWQ29TWlhfTlYxQzBabGlZWTJ6Q012NTg?oc=5",
         "publishedAt": "2026-07-24T07:00:00.000Z"
       }

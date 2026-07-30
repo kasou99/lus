@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T14:18:22.633Z",
+  "updatedAt": "2026-07-30T15:17:18.844Z",
   "items": [
     {
       "time": "22:01",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 8月3日にも熊本入りで調整"
     },
     {
-      "time": "18:12",
-      "title": "8月使用分の電気・ガス 値下がり",
+      "time": "23:33",
+      "title": "一時1ドル157円台 為替介入か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589926?source=rss",
-      "publishedAt": "2026-07-30T09:12:24.000Z",
-      "xQuery": "8月使用分の電気・ガス 値下がり"
-    },
-    {
-      "time": "18:49",
-      "title": "備蓄米買い戻し 判断時期巡る課題",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589931?source=rss",
-      "publishedAt": "2026-07-30T09:49:26.000Z",
-      "xQuery": "備蓄米買い戻し 判断時期巡る課題"
+      "url": "https://news.yahoo.co.jp/pickup/6589962?source=rss",
+      "publishedAt": "2026-07-30T14:33:10.000Z",
+      "xQuery": "一時1ドル157円台 為替介入か"
     },
     {
       "time": "21:43",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589952?source=rss",
       "publishedAt": "2026-07-30T12:43:08.000Z",
       "xQuery": "イオン 全従業員の安否を確認"
+    },
+    {
+      "time": "21:03",
+      "title": "はやぶさ2 小惑星接近の記録更新",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589948?source=rss",
+      "publishedAt": "2026-07-30T12:03:24.000Z",
+      "xQuery": "はやぶさ2 小惑星接近の記録更新"
     }
   ]
 };
