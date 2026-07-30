@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T12:08:11.503Z",
+  "updatedAt": "2026-07-30T13:04:56.661Z",
   "items": [
     {
       "time": "20:10",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "地震波の重なりで揺れ増幅か 分析"
     },
     {
-      "time": "19:43",
-      "title": "地震48時間「TKB」避難所整わず",
+      "time": "21:13",
+      "title": "飲食料品の税率1% 党内から異論",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589938?source=rss",
-      "publishedAt": "2026-07-30T10:43:30.000Z",
-      "xQuery": "地震48時間「TKB」避難所整わず"
+      "url": "https://news.yahoo.co.jp/pickup/6589949?source=rss",
+      "publishedAt": "2026-07-30T12:13:49.000Z",
+      "xQuery": "飲食料品の税率1% 党内から異論"
     },
     {
-      "time": "20:26",
-      "title": "露ミサイル落下とポーランド首相",
+      "time": "21:43",
+      "title": "イオン 全従業員の安否を確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589942?source=rss",
-      "publishedAt": "2026-07-30T11:26:24.000Z",
-      "xQuery": "露ミサイル落下とポーランド首相"
+      "url": "https://news.yahoo.co.jp/pickup/6589952?source=rss",
+      "publishedAt": "2026-07-30T12:43:08.000Z",
+      "xQuery": "イオン 全従業員の安否を確認"
     },
     {
       "time": "19:13",
