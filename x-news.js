@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T20:31:17.495Z",
+  "updatedAt": "2026-07-30T21:29:11.927Z",
   "items": [
     {
-      "time": "22:01",
-      "title": "熊本地震 ボラ受け入れ態勢準備中",
+      "time": "06:23",
+      "title": "熊本地震 迫る「72時間」捜索懸命",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589953?source=rss",
-      "publishedAt": "2026-07-30T13:01:28.000Z",
-      "xQuery": "熊本地震 ボラ受け入れ態勢準備中"
+      "url": "https://news.yahoo.co.jp/pickup/6589966?source=rss",
+      "publishedAt": "2026-07-30T21:23:36.000Z",
+      "xQuery": "熊本地震 迫る「72時間」捜索懸命"
     },
     {
       "time": "22:33",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン 全従業員の安否を確認"
     },
     {
-      "time": "23:17",
-      "title": "カープ2選手宅を捜索 薬物巡り",
+      "time": "18:12",
+      "title": "8月使用分の電気・ガス 値下がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589960?source=rss",
-      "publishedAt": "2026-07-30T14:17:14.000Z",
-      "xQuery": "カープ2選手宅を捜索 薬物巡り"
+      "url": "https://news.yahoo.co.jp/pickup/6589926?source=rss",
+      "publishedAt": "2026-07-30T09:12:24.000Z",
+      "xQuery": "8月使用分の電気・ガス 値下がり"
     }
   ]
 };

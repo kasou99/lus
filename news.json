@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T20:31:15.109Z",
+  "updatedAt": "2026-07-30T21:29:11.023Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -39,9 +39,9 @@
       },
       {
         "time": "05:03",
-        "title": "TOTO、名古屋展示場を刷新 実機と映像連動",
+        "title": "産業TREND／羅針盤 野村総合研究所（195）【大規模洪水】",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfV3RXYTIzNkw1a19LN2MySVA3Unl5TGUzbENodmJjQVE3SEJzRjJzUHNEWTg1d282MkNwN2hDUGw2VmRGLWY0a3pYQzhRbVBoaXVwcF9vQUg1TlU?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hdUVyQy1vMjJSRDhVZGhEWlpjM0lyYTNEUHpCdWF2Y0lSZ28ydWJCU3FLQ1lZMGFYYUxIc1hDbjNKTVNud0EyOWdfcVpTOEZRV0JXcU5ybTJpWVU?oc=5",
         "publishedAt": "2026-07-30T20:03:38.000Z"
       },
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "06:23",
+        "title": "熊本地震 迫る「72時間」捜索懸命",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589966?source=rss",
+        "publishedAt": "2026-07-30T21:23:36.000Z"
+      },
+      {
         "time": "21:43",
         "title": "イオン 全従業員の安否を確認",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589960?source=rss",
         "publishedAt": "2026-07-30T14:17:14.000Z"
-      },
-      {
-        "time": "15:41",
-        "title": "八王子射殺31年 新たに写真を公開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589902?source=rss",
-        "publishedAt": "2026-07-30T06:41:03.000Z"
       }
     ],
     "subsidyHeadlines": [
