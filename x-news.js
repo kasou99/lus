@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-29T23:51:27.609Z",
+  "updatedAt": "2026-07-30T00:44:06.617Z",
   "items": [
     {
       "time": "07:53",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震受け 各国首脳らコメント"
     },
     {
-      "time": "06:19",
-      "title": "イオン熊本で妻不明 案ずる夫と子",
+      "time": "09:12",
+      "title": "地震で家つぶれ下敷きに 救助難航",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589842?source=rss",
-      "publishedAt": "2026-07-29T21:19:02.000Z",
-      "xQuery": "イオン熊本で妻不明 案ずる夫と子"
+      "url": "https://news.yahoo.co.jp/pickup/6589855?source=rss",
+      "publishedAt": "2026-07-30T00:12:45.000Z",
+      "xQuery": "地震で家つぶれ下敷きに 救助難航"
     },
     {
-      "time": "07:23",
-      "title": "イオン爆発 なぜ地震の1時間半後",
+      "time": "09:12",
+      "title": "カフェ火災で1人死亡 東京・目黒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589846?source=rss",
-      "publishedAt": "2026-07-29T22:23:41.000Z",
-      "xQuery": "イオン爆発 なぜ地震の1時間半後"
+      "url": "https://news.yahoo.co.jp/pickup/6589856?source=rss",
+      "publishedAt": "2026-07-30T00:12:45.000Z",
+      "xQuery": "カフェ火災で1人死亡 東京・目黒"
     }
   ]
 };
