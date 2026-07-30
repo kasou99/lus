@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T21:29:11.927Z",
+  "updatedAt": "2026-07-30T21:57:05.650Z",
   "items": [
     {
       "time": "06:23",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589966?source=rss",
       "publishedAt": "2026-07-30T21:23:36.000Z",
       "xQuery": "熊本地震 迫る「72時間」捜索懸命"
+    },
+    {
+      "time": "06:39",
+      "title": "多くの被災者が車中泊 専門家警鐘",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589967?source=rss",
+      "publishedAt": "2026-07-30T21:39:41.000Z",
+      "xQuery": "多くの被災者が車中泊 専門家警鐘"
     },
     {
       "time": "22:33",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589962?source=rss",
       "publishedAt": "2026-07-30T14:33:10.000Z",
       "xQuery": "一時1ドル157円台 為替介入か"
-    },
-    {
-      "time": "21:43",
-      "title": "イオン 全従業員の安否を確認",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589952?source=rss",
-      "publishedAt": "2026-07-30T12:43:08.000Z",
-      "xQuery": "イオン 全従業員の安否を確認"
     },
     {
       "time": "18:12",
