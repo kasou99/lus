@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T22:55:15.962Z",
+  "updatedAt": "2026-07-30T23:27:07.921Z",
   "items": [
     {
       "time": "06:23",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "多くの被災者が車中泊 専門家警鐘"
     },
     {
-      "time": "23:33",
-      "title": "一時1ドル157円台 為替介入か",
+      "time": "08:21",
+      "title": "為替介入か 50分で5円近く上昇",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589962?source=rss",
-      "publishedAt": "2026-07-30T14:33:10.000Z",
-      "xQuery": "一時1ドル157円台 為替介入か"
+      "url": "https://news.yahoo.co.jp/pickup/6589979?source=rss",
+      "publishedAt": "2026-07-30T23:21:24.000Z",
+      "xQuery": "為替介入か 50分で5円近く上昇"
     },
     {
       "time": "07:27",
