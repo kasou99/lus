@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T21:57:05.650Z",
+  "updatedAt": "2026-07-30T22:28:28.707Z",
   "items": [
     {
       "time": "06:23",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "一時1ドル157円台 為替介入か"
     },
     {
-      "time": "18:12",
-      "title": "8月使用分の電気・ガス 値下がり",
+      "time": "07:14",
+      "title": "Apple純利益が27%増 iPhone好調",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589926?source=rss",
-      "publishedAt": "2026-07-30T09:12:24.000Z",
-      "xQuery": "8月使用分の電気・ガス 値下がり"
+      "url": "https://news.yahoo.co.jp/pickup/6589968?source=rss",
+      "publishedAt": "2026-07-30T22:14:44.000Z",
+      "xQuery": "Apple純利益が27%増 iPhone好調"
     }
   ]
 };
