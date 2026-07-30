@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T08:19:31.456Z",
+  "updatedAt": "2026-07-30T09:22:42.112Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,18 +89,18 @@
         "publishedAt": "2026-07-29T22:55:04.000Z"
       },
       {
+        "time": "18:15",
+        "title": "7人乱立 国連事務総長選が投票へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589929?source=rss",
+        "publishedAt": "2026-07-30T09:15:57.000Z"
+      },
+      {
         "time": "16:50",
         "title": "中国「ポケットに手」の局長 交代",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589911?source=rss",
         "publishedAt": "2026-07-30T07:50:56.000Z"
-      },
-      {
-        "time": "16:30",
-        "title": "米大統領 ウ大統領らとの会談良好",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589788?source=rss",
-        "publishedAt": "2026-07-29T07:30:45.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,11 +126,11 @@
         "publishedAt": "2026-07-29T12:59:12.000Z"
       },
       {
-        "time": "12:05",
-        "title": "27年度以降の財政収支は黒字 試算",
+        "time": "18:12",
+        "title": "8月使用分の電気・ガス 値下がり",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589880?source=rss",
-        "publishedAt": "2026-07-30T03:05:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589926?source=rss",
+        "publishedAt": "2026-07-30T09:12:24.000Z"
       },
       {
         "time": "13:35",
@@ -149,18 +149,25 @@
     ],
     "localHeadlines": [
       {
+        "time": "17:50",
+        "title": "熊本災害マップ 給水所や航空写真",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589920?source=rss",
+        "publishedAt": "2026-07-30T08:50:39.000Z"
+      },
+      {
+        "time": "18:02",
+        "title": "イオンモール爆発 死者は7人に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589917?source=rss",
+        "publishedAt": "2026-07-30T09:02:09.000Z"
+      },
+      {
         "time": "14:08",
         "title": "DMATの医師 イオン捜索状況語る",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589893?source=rss",
         "publishedAt": "2026-07-30T05:08:42.000Z"
-      },
-      {
-        "time": "06:19",
-        "title": "イオン熊本で妻不明 案ずる夫と子",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589842?source=rss",
-        "publishedAt": "2026-07-29T21:19:02.000Z"
       },
       {
         "time": "16:23",
@@ -170,13 +177,6 @@
         "publishedAt": "2026-07-30T07:23:14.000Z"
       },
       {
-        "time": "16:19",
-        "title": "辺野古転覆 なぜ命失わなければ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589905?source=rss",
-        "publishedAt": "2026-07-30T07:19:59.000Z"
-      },
-      {
         "time": "15:41",
         "title": "八王子射殺31年 新たに写真を公開",
         "source": "Yahoo!ニュース",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-07-30T06:41:03.000Z"
       },
       {
-        "time": "12:54",
-        "title": "火災で4遺体 2人は死後1カ月超か",
+        "time": "17:51",
+        "title": "パワハラ認定 横浜市長がコメント",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589889?source=rss",
-        "publishedAt": "2026-07-30T03:54:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589924?source=rss",
+        "publishedAt": "2026-07-30T08:51:59.000Z"
       }
     ],
     "subsidyHeadlines": [

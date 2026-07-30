@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T08:19:32.020Z",
+  "updatedAt": "2026-07-30T09:22:43.185Z",
   "items": [
     {
       "time": "16:31",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震の死者34人に 県発表"
     },
     {
-      "time": "16:13",
-      "title": "立秋後も酷暑日恐れ 台風にも注意",
+      "time": "17:50",
+      "title": "熊本災害マップ 給水所や航空写真",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589904?source=rss",
-      "publishedAt": "2026-07-30T07:13:29.000Z",
-      "xQuery": "立秋後も酷暑日恐れ 台風にも注意"
+      "url": "https://news.yahoo.co.jp/pickup/6589920?source=rss",
+      "publishedAt": "2026-07-30T08:50:39.000Z",
+      "xQuery": "熊本災害マップ 給水所や航空写真"
     },
     {
-      "time": "17:07",
-      "title": "国と熊本県で死者数に差 国側説明",
+      "time": "18:02",
+      "title": "イオンモール爆発 死者は7人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589912?source=rss",
-      "publishedAt": "2026-07-30T08:07:19.000Z",
-      "xQuery": "国と熊本県で死者数に差 国側説明"
+      "url": "https://news.yahoo.co.jp/pickup/6589917?source=rss",
+      "publishedAt": "2026-07-30T09:02:09.000Z",
+      "xQuery": "イオンモール爆発 死者は7人に"
     },
     {
-      "time": "16:42",
-      "title": "小渕優子氏 党税調インナーを辞任",
+      "time": "17:49",
+      "title": "ひろゆき氏と泉房穂氏 新党を設立",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589910?source=rss",
-      "publishedAt": "2026-07-30T07:42:18.000Z",
-      "xQuery": "小渕優子氏 党税調インナーを辞任"
+      "url": "https://news.yahoo.co.jp/pickup/6589923?source=rss",
+      "publishedAt": "2026-07-30T08:49:47.000Z",
+      "xQuery": "ひろゆき氏と泉房穂氏 新党を設立"
     },
     {
-      "time": "16:19",
-      "title": "辺野古転覆 なぜ命失わなければ",
+      "time": "17:51",
+      "title": "パワハラ認定 横浜市長がコメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589905?source=rss",
-      "publishedAt": "2026-07-30T07:19:59.000Z",
-      "xQuery": "辺野古転覆 なぜ命失わなければ"
+      "url": "https://news.yahoo.co.jp/pickup/6589924?source=rss",
+      "publishedAt": "2026-07-30T08:51:59.000Z",
+      "xQuery": "パワハラ認定 横浜市長がコメント"
     }
   ]
 };
