@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T09:22:43.185Z",
+  "updatedAt": "2026-07-30T10:19:48.903Z",
   "items": [
     {
-      "time": "16:31",
-      "title": "熊本地震の死者34人に 県発表",
+      "time": "17:19",
+      "title": "入浴食事を支援 防衛省船舶派遣へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589909?source=rss",
-      "publishedAt": "2026-07-30T07:31:36.000Z",
-      "xQuery": "熊本地震の死者34人に 県発表"
+      "url": "https://news.yahoo.co.jp/pickup/6589915?source=rss",
+      "publishedAt": "2026-07-30T08:19:58.000Z",
+      "xQuery": "入浴食事を支援 防衛省船舶派遣へ"
     },
     {
       "time": "17:50",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオンモール爆発 死者は7人に"
     },
     {
+      "time": "18:47",
+      "title": "熊本県 当面ボランティア自粛要請",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589932?source=rss",
+      "publishedAt": "2026-07-30T09:47:59.000Z",
+      "xQuery": "熊本県 当面ボランティア自粛要請"
+    },
+    {
       "time": "17:49",
       "title": "ひろゆき氏と泉房穂氏 新党を設立",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6589923?source=rss",
       "publishedAt": "2026-07-30T08:49:47.000Z",
       "xQuery": "ひろゆき氏と泉房穂氏 新党を設立"
-    },
-    {
-      "time": "17:51",
-      "title": "パワハラ認定 横浜市長がコメント",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589924?source=rss",
-      "publishedAt": "2026-07-30T08:51:59.000Z",
-      "xQuery": "パワハラ認定 横浜市長がコメント"
     }
   ]
 };
