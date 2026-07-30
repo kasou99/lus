@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T11:16:46.439Z",
+  "updatedAt": "2026-07-30T12:08:11.503Z",
   "items": [
     {
-      "time": "17:20",
-      "title": "避難生活で体調不良 防ぐためには",
+      "time": "20:10",
+      "title": "九州新幹線 31日に博多-熊本再開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589916?source=rss",
-      "publishedAt": "2026-07-30T08:20:35.000Z",
-      "xQuery": "避難生活で体調不良 防ぐためには"
+      "url": "https://news.yahoo.co.jp/pickup/6589941?source=rss",
+      "publishedAt": "2026-07-30T11:10:08.000Z",
+      "xQuery": "九州新幹線 31日に博多-熊本再開"
     },
     {
-      "time": "18:56",
-      "title": "食料品消費税1% 首相が正式表明",
+      "time": "17:11",
+      "title": "地震波の重なりで揺れ増幅か 分析",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589935?source=rss",
-      "publishedAt": "2026-07-30T09:56:51.000Z",
-      "xQuery": "食料品消費税1% 首相が正式表明"
+      "url": "https://news.yahoo.co.jp/pickup/6589913?source=rss",
+      "publishedAt": "2026-07-30T08:11:16.000Z",
+      "xQuery": "地震波の重なりで揺れ増幅か 分析"
     },
     {
-      "time": "18:47",
-      "title": "熊本県 当面ボランティア自粛要請",
+      "time": "19:43",
+      "title": "地震48時間「TKB」避難所整わず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589932?source=rss",
-      "publishedAt": "2026-07-30T09:47:59.000Z",
-      "xQuery": "熊本県 当面ボランティア自粛要請"
+      "url": "https://news.yahoo.co.jp/pickup/6589938?source=rss",
+      "publishedAt": "2026-07-30T10:43:30.000Z",
+      "xQuery": "地震48時間「TKB」避難所整わず"
+    },
+    {
+      "time": "20:26",
+      "title": "露ミサイル落下とポーランド首相",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589942?source=rss",
+      "publishedAt": "2026-07-30T11:26:24.000Z",
+      "xQuery": "露ミサイル落下とポーランド首相"
     },
     {
       "time": "19:13",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589936?source=rss",
       "publishedAt": "2026-07-30T10:13:52.000Z",
       "xQuery": "日本製紙八代 11人の捜索が完了"
-    },
-    {
-      "time": "17:49",
-      "title": "ひろゆき氏と泉房穂氏 新党を設立",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589923?source=rss",
-      "publishedAt": "2026-07-30T08:49:47.000Z",
-      "xQuery": "ひろゆき氏と泉房穂氏 新党を設立"
     }
   ]
 };
