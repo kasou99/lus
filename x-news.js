@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T04:34:01.278Z",
+  "updatedAt": "2026-07-30T05:57:53.355Z",
   "items": [
     {
-      "time": "12:20",
-      "title": "食料品の消費税率1%方針 首相表明",
+      "time": "14:12",
+      "title": "熊本地震 関連調査中含め30人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589883?source=rss",
-      "publishedAt": "2026-07-30T03:20:34.000Z",
-      "xQuery": "食料品の消費税率1%方針 首相表明"
+      "url": "https://news.yahoo.co.jp/pickup/6589895?source=rss",
+      "publishedAt": "2026-07-30T05:12:44.000Z",
+      "xQuery": "熊本地震 関連調査中含め30人死亡"
     },
     {
-      "time": "11:16",
-      "title": "熊本地震 関連調査中含め28人死亡",
+      "time": "13:40",
+      "title": "イオンモール爆発 死者は計6人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589870?source=rss",
-      "publishedAt": "2026-07-30T02:16:48.000Z",
-      "xQuery": "熊本地震 関連調査中含め28人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589892?source=rss",
+      "publishedAt": "2026-07-30T04:40:52.000Z",
+      "xQuery": "イオンモール爆発 死者は計6人に"
     },
     {
-      "time": "12:43",
-      "title": "猛暑の熊本 水なく傷口まだ洗えず",
+      "time": "14:08",
+      "title": "DMATの医師 イオン捜索状況語る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589884?source=rss",
-      "publishedAt": "2026-07-30T03:43:41.000Z",
-      "xQuery": "猛暑の熊本 水なく傷口まだ洗えず"
+      "url": "https://news.yahoo.co.jp/pickup/6589893?source=rss",
+      "publishedAt": "2026-07-30T05:08:42.000Z",
+      "xQuery": "DMATの医師 イオン捜索状況語る"
     },
     {
-      "time": "12:09",
-      "title": "災害時のニュース つらい人へ",
+      "time": "14:43",
+      "title": "地震 データ通信など各社支援策",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589878?source=rss",
-      "publishedAt": "2026-07-30T03:09:03.000Z",
-      "xQuery": "災害時のニュース つらい人へ"
+      "url": "https://news.yahoo.co.jp/pickup/6589897?source=rss",
+      "publishedAt": "2026-07-30T05:43:17.000Z",
+      "xQuery": "地震 データ通信など各社支援策"
     },
     {
-      "time": "12:04",
-      "title": "横浜市長のパワハラ認定 第三者委",
+      "time": "14:31",
+      "title": "外相など歴任 松本剛明氏が死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589877?source=rss",
-      "publishedAt": "2026-07-30T03:04:57.000Z",
-      "xQuery": "横浜市長のパワハラ認定 第三者委"
+      "url": "https://news.yahoo.co.jp/pickup/6589896?source=rss",
+      "publishedAt": "2026-07-30T05:31:40.000Z",
+      "xQuery": "外相など歴任 松本剛明氏が死去"
     }
   ]
 };
