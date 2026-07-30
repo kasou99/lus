@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T07:04:36.433Z",
+  "updatedAt": "2026-07-30T08:19:32.020Z",
   "items": [
     {
-      "time": "14:12",
-      "title": "熊本地震 関連調査中含め30人死亡",
+      "time": "16:31",
+      "title": "熊本地震の死者34人に 県発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589895?source=rss",
-      "publishedAt": "2026-07-30T05:12:44.000Z",
-      "xQuery": "熊本地震 関連調査中含め30人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6589909?source=rss",
+      "publishedAt": "2026-07-30T07:31:36.000Z",
+      "xQuery": "熊本地震の死者34人に 県発表"
     },
     {
-      "time": "13:40",
-      "title": "イオンモール爆発 死者は計6人に",
+      "time": "16:13",
+      "title": "立秋後も酷暑日恐れ 台風にも注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589892?source=rss",
-      "publishedAt": "2026-07-30T04:40:52.000Z",
-      "xQuery": "イオンモール爆発 死者は計6人に"
+      "url": "https://news.yahoo.co.jp/pickup/6589904?source=rss",
+      "publishedAt": "2026-07-30T07:13:29.000Z",
+      "xQuery": "立秋後も酷暑日恐れ 台風にも注意"
     },
     {
-      "time": "15:21",
-      "title": "河野太郎氏 消費減税に反対表明",
+      "time": "17:07",
+      "title": "国と熊本県で死者数に差 国側説明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589899?source=rss",
-      "publishedAt": "2026-07-30T06:21:49.000Z",
-      "xQuery": "河野太郎氏 消費減税に反対表明"
+      "url": "https://news.yahoo.co.jp/pickup/6589912?source=rss",
+      "publishedAt": "2026-07-30T08:07:19.000Z",
+      "xQuery": "国と熊本県で死者数に差 国側説明"
     },
     {
-      "time": "14:16",
-      "title": "防災拠点で存在感 イオンに衝撃",
+      "time": "16:42",
+      "title": "小渕優子氏 党税調インナーを辞任",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589894?source=rss",
-      "publishedAt": "2026-07-30T05:16:56.000Z",
-      "xQuery": "防災拠点で存在感 イオンに衝撃"
+      "url": "https://news.yahoo.co.jp/pickup/6589910?source=rss",
+      "publishedAt": "2026-07-30T07:42:18.000Z",
+      "xQuery": "小渕優子氏 党税調インナーを辞任"
     },
     {
-      "time": "14:43",
-      "title": "地震 データ通信など各社支援策",
+      "time": "16:19",
+      "title": "辺野古転覆 なぜ命失わなければ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589897?source=rss",
-      "publishedAt": "2026-07-30T05:43:17.000Z",
-      "xQuery": "地震 データ通信など各社支援策"
+      "url": "https://news.yahoo.co.jp/pickup/6589905?source=rss",
+      "publishedAt": "2026-07-30T07:19:59.000Z",
+      "xQuery": "辺野古転覆 なぜ命失わなければ"
     }
   ]
 };
