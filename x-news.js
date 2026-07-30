@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T05:57:53.355Z",
+  "updatedAt": "2026-07-30T07:04:36.433Z",
   "items": [
     {
       "time": "14:12",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオンモール爆発 死者は計6人に"
     },
     {
-      "time": "14:08",
-      "title": "DMATの医師 イオン捜索状況語る",
+      "time": "15:21",
+      "title": "河野太郎氏 消費減税に反対表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589893?source=rss",
-      "publishedAt": "2026-07-30T05:08:42.000Z",
-      "xQuery": "DMATの医師 イオン捜索状況語る"
+      "url": "https://news.yahoo.co.jp/pickup/6589899?source=rss",
+      "publishedAt": "2026-07-30T06:21:49.000Z",
+      "xQuery": "河野太郎氏 消費減税に反対表明"
+    },
+    {
+      "time": "14:16",
+      "title": "防災拠点で存在感 イオンに衝撃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589894?source=rss",
+      "publishedAt": "2026-07-30T05:16:56.000Z",
+      "xQuery": "防災拠点で存在感 イオンに衝撃"
     },
     {
       "time": "14:43",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589897?source=rss",
       "publishedAt": "2026-07-30T05:43:17.000Z",
       "xQuery": "地震 データ通信など各社支援策"
-    },
-    {
-      "time": "14:31",
-      "title": "外相など歴任 松本剛明氏が死去",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589896?source=rss",
-      "publishedAt": "2026-07-30T05:31:40.000Z",
-      "xQuery": "外相など歴任 松本剛明氏が死去"
     }
   ]
 };

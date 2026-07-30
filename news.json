@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-30T05:57:52.580Z",
+  "updatedAt": "2026-07-30T07:04:35.689Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:26",
+        "title": "ブラザー、第56回 機械工業デザイン賞 IDEA「日本工作機械工業会賞」を受賞",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yUlpCczdMX2RDdndCTnlmN0ZHYWZqQVdhSG0wdEl4T0dHelNibTRPRGplOHUtaFM1NjV2RWROLTdGRWZFdXZfbGZRTmFaUGphd2tscnpMbkFIVzMzZXlhWnRLWDhYaEw1anc?oc=5",
+        "publishedAt": "2026-07-30T06:26:54.000Z"
+      },
       {
         "time": "09:15",
         "title": "習近平は手を汚さぬ\"死の商人\"…ロシアに工作機械､ウクライナにドローンの中国が｢台湾有事｣で日本に使う手",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORnczYXYwdEFHaDRGQXplYWVMM1Z6b1FMaU0teWl4clhHNGppZV92eTVFeFpKVXRXNFNWaVZrSHNQNDBlUXo3empmWlRLQ2x0MzQ0UkJpR0l1Zm04SUZjMmZKN0Q4RUp1WDIya0pIdGVYQnV0R2lkcmFvU1g2QnlzRjNQTS1jSFVQ?oc=5",
         "publishedAt": "2026-07-30T00:15:36.000Z"
-      },
-      {
-        "time": "05:02",
-        "title": "6月の工作機械受注、52％増 アジア・北米伸長",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VaHoyS3JQd0xUSUs2bHN6RjFJU2VKTEFXVFJkUFZRTVR5TVAwV252TWYxczBwV2dEYkJ6QXhNVWl1UjhYVFlSZjZadmdEVGVFckRnSU5hbkl5MHM?oc=5",
-        "publishedAt": "2026-07-29T20:02:09.000Z"
       },
       {
         "time": "13:00",
@@ -47,7 +47,7 @@
       {
         "time": "16:45",
         "title": "工作機械受注、6月52％増 アジア・北米伸長 単月初の2000億円超",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yWTBLMUd1Q1hCNVZhOU1zdnl6UGo2SnBNWV9wUWF1eEFHeC0teHh6aGM0cHY0eDVHZHBpVXZrTXd3YmJTdTZURS16V3E3d0hPSVlGeEx1RmU5Qkk?oc=5",
         "publishedAt": "2026-07-29T07:45:56.000Z"
       },
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:50",
-        "title": "交通やライフライン影響続く 九州",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589868?source=rss",
-        "publishedAt": "2026-07-30T01:50:50.000Z"
-      },
-      {
         "time": "14:16",
         "title": "防災拠点で存在感 イオンに衝撃",
         "source": "Yahoo!ニュース",
@@ -140,11 +133,18 @@
         "publishedAt": "2026-07-30T03:05:36.000Z"
       },
       {
-        "time": "03:24",
-        "title": "米FRB 政策金利の据え置きを決定",
+        "time": "13:35",
+        "title": "ソニーG タムロンに買収提案",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589839?source=rss",
-        "publishedAt": "2026-07-29T18:24:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589891?source=rss",
+        "publishedAt": "2026-07-30T04:35:26.000Z"
+      },
+      {
+        "time": "15:13",
+        "title": "スタバ 地震踏まえグッズ発売延期",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589898?source=rss",
+        "publishedAt": "2026-07-30T06:13:41.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,11 +177,11 @@
         "publishedAt": "2026-07-29T21:28:55.000Z"
       },
       {
-        "time": "16:41",
-        "title": "地震後 自民福岡県議らパーティー",
+        "time": "15:41",
+        "title": "八王子射殺31年 新たに写真を公開",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589789?source=rss",
-        "publishedAt": "2026-07-29T07:41:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589902?source=rss",
+        "publishedAt": "2026-07-30T06:41:03.000Z"
       },
       {
         "time": "12:54",
@@ -215,13 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "16:00",
-        "title": "物価高騰や米国関税措置・中東情勢の変化等により影響を受ける県内事業者の皆様への主な支援策",
-        "source": "pref.hiroshima.lg.jp",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ed24zSjhRX0NxVnYxeFMxallrVW5sQXh5SV8yY1VUXzI0ajIwQVpVb2hTalZlU3AybmJrSVZ3U2F2MWU3bkVzb2RvNTlyaEZOQ2tDN1dUQjJKR1NVQ2tHYU1rSjhKZWoybllUVnpn?oc=5",
-        "publishedAt": "2026-06-30T07:00:00.000Z"
       },
       {
         "time": "16:00",
