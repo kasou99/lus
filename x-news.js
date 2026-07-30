@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T10:19:48.903Z",
+  "updatedAt": "2026-07-30T11:16:46.439Z",
   "items": [
     {
-      "time": "17:19",
-      "title": "入浴食事を支援 防衛省船舶派遣へ",
+      "time": "17:20",
+      "title": "避難生活で体調不良 防ぐためには",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589915?source=rss",
-      "publishedAt": "2026-07-30T08:19:58.000Z",
-      "xQuery": "入浴食事を支援 防衛省船舶派遣へ"
+      "url": "https://news.yahoo.co.jp/pickup/6589916?source=rss",
+      "publishedAt": "2026-07-30T08:20:35.000Z",
+      "xQuery": "避難生活で体調不良 防ぐためには"
     },
     {
-      "time": "17:50",
-      "title": "熊本災害マップ 給水所や航空写真",
+      "time": "18:56",
+      "title": "食料品消費税1% 首相が正式表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589920?source=rss",
-      "publishedAt": "2026-07-30T08:50:39.000Z",
-      "xQuery": "熊本災害マップ 給水所や航空写真"
-    },
-    {
-      "time": "18:02",
-      "title": "イオンモール爆発 死者は7人に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589917?source=rss",
-      "publishedAt": "2026-07-30T09:02:09.000Z",
-      "xQuery": "イオンモール爆発 死者は7人に"
+      "url": "https://news.yahoo.co.jp/pickup/6589935?source=rss",
+      "publishedAt": "2026-07-30T09:56:51.000Z",
+      "xQuery": "食料品消費税1% 首相が正式表明"
     },
     {
       "time": "18:47",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589932?source=rss",
       "publishedAt": "2026-07-30T09:47:59.000Z",
       "xQuery": "熊本県 当面ボランティア自粛要請"
+    },
+    {
+      "time": "19:13",
+      "title": "日本製紙八代 11人の捜索が完了",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589936?source=rss",
+      "publishedAt": "2026-07-30T10:13:52.000Z",
+      "xQuery": "日本製紙八代 11人の捜索が完了"
     },
     {
       "time": "17:49",
