@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T22:28:28.707Z",
+  "updatedAt": "2026-07-30T22:55:15.962Z",
   "items": [
     {
       "time": "06:23",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "多くの被災者が車中泊 専門家警鐘"
     },
     {
-      "time": "22:33",
-      "title": "首相 8月3日にも熊本入りで調整",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589958?source=rss",
-      "publishedAt": "2026-07-30T13:33:44.000Z",
-      "xQuery": "首相 8月3日にも熊本入りで調整"
-    },
-    {
       "time": "23:33",
       "title": "一時1ドル157円台 為替介入か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6589962?source=rss",
       "publishedAt": "2026-07-30T14:33:10.000Z",
       "xQuery": "一時1ドル157円台 為替介入か"
+    },
+    {
+      "time": "07:27",
+      "title": "外国人採用の県アンケ 差別と指摘",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589971?source=rss",
+      "publishedAt": "2026-07-30T22:27:37.000Z",
+      "xQuery": "外国人採用の県アンケ 差別と指摘"
     },
     {
       "time": "07:14",
