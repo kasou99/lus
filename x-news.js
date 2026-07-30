@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T15:17:18.844Z",
+  "updatedAt": "2026-07-30T16:05:04.101Z",
   "items": [
     {
       "time": "22:01",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン 全従業員の安否を確認"
     },
     {
-      "time": "21:03",
-      "title": "はやぶさ2 小惑星接近の記録更新",
+      "time": "23:17",
+      "title": "カープ2選手宅を捜索 薬物巡り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589948?source=rss",
-      "publishedAt": "2026-07-30T12:03:24.000Z",
-      "xQuery": "はやぶさ2 小惑星接近の記録更新"
+      "url": "https://news.yahoo.co.jp/pickup/6589960?source=rss",
+      "publishedAt": "2026-07-30T14:17:14.000Z",
+      "xQuery": "カープ2選手宅を捜索 薬物巡り"
     }
   ]
 };
