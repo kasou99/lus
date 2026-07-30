@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T00:44:05.544Z",
+  "updatedAt": "2026-07-30T01:39:07.073Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "05:00",
         "title": "車向け工作機械受注､6月は2.2倍 設備投資｢底を打った｣",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rbU9xQkhQOE9VYjh1WGNGMFhDUXJ2UURmb2ZmWnFmQjlOdkpuZnY3cVJIWkdzU2FTNUIwRFpJdDZfVFJfakpJNm82MTd2RWMyQ1l3WUtSeUhsMFQ2VVFPQ0JUUlYwLWo5cXVtMmRRdWMzN1FtaW5TWGppaHNPRFU?oc=5",
         "publishedAt": "2026-07-29T20:00:00.000Z"
       },
@@ -54,32 +54,18 @@
       {
         "time": "16:12",
         "title": "6月の工作機械受注53%増、単月で過去最高 データセンター特需で",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVQkllU3NBT2VIMWFEczFoMVJwbVNabUtBU3ZCa0JhSkFZaHdLRjBrcTRUNkFWU1hzWnJqTWRLRDlOMFFVeF80MGNxX3RJU0ZhdGE3c1JkRUpBcjRSVGxva0Z2SWRMbC1RRFBGYg?oc=5",
         "publishedAt": "2026-07-29T07:12:31.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "07:55",
-        "title": "熊本地震受け 各国首脳らコメント",
+        "time": "10:28",
+        "title": "米がイラン空爆を再開 応酬再燃か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589851?source=rss",
-        "publishedAt": "2026-07-29T22:55:04.000Z"
-      },
-      {
-        "time": "07:11",
-        "title": "熊本地震 海外メディアが一斉速報",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589725?source=rss",
-        "publishedAt": "2026-07-28T22:11:22.000Z"
-      },
-      {
-        "time": "06:54",
-        "title": "トランプ氏 イランに報復を予告",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589845?source=rss",
-        "publishedAt": "2026-07-29T21:54:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589864?source=rss",
+        "publishedAt": "2026-07-30T01:28:30.000Z"
       },
       {
         "time": "19:16",
@@ -94,6 +80,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589745?source=rss",
         "publishedAt": "2026-07-29T01:55:44.000Z"
+      },
+      {
+        "time": "07:55",
+        "title": "熊本地震受け 各国首脳らコメント",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589851?source=rss",
+        "publishedAt": "2026-07-29T22:55:04.000Z"
+      },
+      {
+        "time": "07:11",
+        "title": "熊本地震 海外メディアが一斉速報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589725?source=rss",
+        "publishedAt": "2026-07-28T22:11:22.000Z"
       },
       {
         "time": "16:30",
@@ -119,13 +119,6 @@
         "publishedAt": "2026-07-29T12:59:12.000Z"
       },
       {
-        "time": "20:59",
-        "title": "九州新幹線 被害の全容つかめず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589820?source=rss",
-        "publishedAt": "2026-07-29T11:59:01.000Z"
-      },
-      {
         "time": "11:33",
         "title": "熊本で地震 46の医療機関が被災",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589770?source=rss",
         "publishedAt": "2026-07-29T04:47:39.000Z"
+      },
+      {
+        "time": "03:24",
+        "title": "米FRB 政策金利の据え置きを決定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589839?source=rss",
+        "publishedAt": "2026-07-29T18:24:52.000Z"
       }
     ],
     "localHeadlines": [

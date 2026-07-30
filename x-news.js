@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T00:44:06.617Z",
+  "updatedAt": "2026-07-30T01:39:08.127Z",
   "items": [
+    {
+      "time": "10:02",
+      "title": "17人死亡6人心肺停止 熊本県発表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589860?source=rss",
+      "publishedAt": "2026-07-30T01:02:48.000Z",
+      "xQuery": "17人死亡6人心肺停止 熊本県発表"
+    },
     {
       "time": "07:53",
       "title": "熊本地震3日目の朝 続く救出活動",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6589850?source=rss",
       "publishedAt": "2026-07-29T22:53:20.000Z",
       "xQuery": "熊本地震3日目の朝 続く救出活動"
-    },
-    {
-      "time": "06:47",
-      "title": "猛暑日続出 関東は天気急変の恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589844?source=rss",
-      "publishedAt": "2026-07-29T21:47:59.000Z",
-      "xQuery": "猛暑日続出 関東は天気急変の恐れ"
     },
     {
       "time": "07:55",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "地震で家つぶれ下敷きに 救助難航"
     },
     {
-      "time": "09:12",
-      "title": "カフェ火災で1人死亡 東京・目黒",
+      "time": "10:28",
+      "title": "米がイラン空爆を再開 応酬再燃か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589856?source=rss",
-      "publishedAt": "2026-07-30T00:12:45.000Z",
-      "xQuery": "カフェ火災で1人死亡 東京・目黒"
+      "url": "https://news.yahoo.co.jp/pickup/6589864?source=rss",
+      "publishedAt": "2026-07-30T01:28:30.000Z",
+      "xQuery": "米がイラン空爆を再開 応酬再燃か"
     }
   ]
 };
