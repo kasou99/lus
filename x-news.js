@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-30T03:10:34.306Z",
+  "updatedAt": "2026-07-30T04:34:01.278Z",
   "items": [
+    {
+      "time": "12:20",
+      "title": "食料品の消費税率1%方針 首相表明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589883?source=rss",
+      "publishedAt": "2026-07-30T03:20:34.000Z",
+      "xQuery": "食料品の消費税率1%方針 首相表明"
+    },
     {
       "time": "11:16",
       "title": "熊本地震 関連調査中含め28人死亡",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震 関連調査中含め28人死亡"
     },
     {
-      "time": "10:50",
-      "title": "交通やライフライン影響続く 九州",
+      "time": "12:43",
+      "title": "猛暑の熊本 水なく傷口まだ洗えず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589868?source=rss",
-      "publishedAt": "2026-07-30T01:50:50.000Z",
-      "xQuery": "交通やライフライン影響続く 九州"
+      "url": "https://news.yahoo.co.jp/pickup/6589884?source=rss",
+      "publishedAt": "2026-07-30T03:43:41.000Z",
+      "xQuery": "猛暑の熊本 水なく傷口まだ洗えず"
     },
     {
-      "time": "10:33",
-      "title": "震源の断層にまだ割れ残り 調査委",
+      "time": "12:09",
+      "title": "災害時のニュース つらい人へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589865?source=rss",
-      "publishedAt": "2026-07-30T01:33:48.000Z",
-      "xQuery": "震源の断層にまだ割れ残り 調査委"
+      "url": "https://news.yahoo.co.jp/pickup/6589878?source=rss",
+      "publishedAt": "2026-07-30T03:09:03.000Z",
+      "xQuery": "災害時のニュース つらい人へ"
     },
     {
-      "time": "08:51",
-      "title": "災害関連死を防ぐために 識者指摘",
+      "time": "12:04",
+      "title": "横浜市長のパワハラ認定 第三者委",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589854?source=rss",
-      "publishedAt": "2026-07-29T23:51:19.000Z",
-      "xQuery": "災害関連死を防ぐために 識者指摘"
-    },
-    {
-      "time": "11:57",
-      "title": "韓国国会 W杯敗退で前監督ら追及",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589873?source=rss",
-      "publishedAt": "2026-07-30T02:57:11.000Z",
-      "xQuery": "韓国国会 W杯敗退で前監督ら追及"
+      "url": "https://news.yahoo.co.jp/pickup/6589877?source=rss",
+      "publishedAt": "2026-07-30T03:04:57.000Z",
+      "xQuery": "横浜市長のパワハラ認定 第三者委"
     }
   ]
 };

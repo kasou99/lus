@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-30T03:10:33.491Z",
+  "updatedAt": "2026-07-30T04:34:00.350Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:15",
+        "title": "習近平は手を汚さぬ\"死の商人\"…ロシアに工作機械､ウクライナにドローンの中国が｢台湾有事｣で日本に使う手",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORnczYXYwdEFHaDRGQXplYWVMM1Z6b1FMaU0teWl4clhHNGppZV92eTVFeFpKVXRXNFNWaVZrSHNQNDBlUXo3empmWlRLQ2x0MzQ0UkJpR0l1Zm04SUZjMmZKN0Q4RUp1WDIya0pIdGVYQnV0R2lkcmFvU1g2QnlzRjNQTS1jSFVQ?oc=5",
+        "publishedAt": "2026-07-30T00:15:36.000Z"
+      },
       {
         "time": "05:02",
         "title": "6月の工作機械受注、52％増 アジア・北米伸長",
@@ -17,16 +24,9 @@
         "publishedAt": "2026-07-29T20:00:00.000Z"
       },
       {
-        "time": "09:00",
-        "title": "習近平は手を汚さぬ\"死の商人\"…ロシアに工作機械､ウクライナにドローンの中国が｢台湾有事｣で日本に使う手",
-        "source": "PRESIDENT Online（プレジデントオンライン）",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XTEpYcGxxSFdrWkhOUTF3bUJGRXBYb0pVUlFsYzJGdjJDQVgwTzlDbGgyUXJSYTJJRW9kT1ZYeUhKUURkMWg1dDVoV0Y2WU5WMkI2aVlsY00?oc=5",
-        "publishedAt": "2026-07-30T00:00:00.000Z"
-      },
-      {
         "time": "18:30",
         "title": "ブラシレスサーボモーターコントローラーの世界市場（2026年～2032年）、市場規模（永久磁石同期サーボモーター、ブラシレスDCサーボモーター）・分析レポートを発表",
-        "source": "atpress.ne.jp",
+        "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzemJ5SEU5WWJIN1AtUjhwcXozVXZNU0w0ZnowdHBHR2Q1Nk5EbXhOUm02dWdvY0R1aUlBNWFwWEdvYjBpTFcwUG4tUXNvRlk?oc=5",
         "publishedAt": "2026-07-29T09:30:00.000Z"
       },
@@ -38,18 +38,11 @@
         "publishedAt": "2026-07-29T12:26:00.000Z"
       },
       {
-        "time": "12:30",
-        "title": "エンコーダ付きサーボモーターの世界市場（2026年～2032年）、市場規模（インクリメンタルエンコーダ付きサーボモーター、アブソリュートエンコーダ付きサーボモーター）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NamltMnZkZ2pJSTNqYkFaM0JwSUpzUU9sQUMyRkRSbEtTUF9Qc1Zub2ZVZmdZdTgxbDV2Z011UTlPNExQSElEQ0dkcHR1cW8?oc=5",
-        "publishedAt": "2026-07-29T03:30:00.000Z"
-      },
-      {
-        "time": "11:45",
-        "title": "【台湾情報】台湾無人機産業、世界の防衛サプライチェーンの要へ＜ワイズ機械業界ジャーナル2026年8月第１週号発行",
+        "time": "13:15",
+        "title": "高硬度材加工に対応！マルチローラタイプの新型「スパロールSHX/SBX」販売開始",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNzg4T1ZyeGpEejg4RkZocHV5amFhRG5vRF9uYWFDMTBPX3JXNUoxd2ZzSmZlSGxBRGNwcXJwZjZORnlyS0dIczNhMDQ4amVfRmdHZUl1TE0yNUhsbm1xaWlQSF9hOU8yMEw0dWpBYjc1RTg?oc=5",
-        "publishedAt": "2026-07-30T02:45:31.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fQk1CYUNvckpiS2FfUjhlNVBOTXAtdFpqSnU0Z2o1b2ZfNXQ4RE1oUFNxUFRZMFdndXdVemtfaEtTWHVranpIbVNPWFBHT0FwQ3VYZlI4ZldjbEZXcVliQkFvajhtZW9rNC00ZlVJYmZtSmlteC1hYk1vZw?oc=5",
+        "publishedAt": "2026-07-30T04:15:35.000Z"
       },
       {
         "time": "16:45",
@@ -57,15 +50,29 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yWTBLMUd1Q1hCNVZhOU1zdnl6UGo2SnBNWV9wUWF1eEFHeC0teHh6aGM0cHY0eDVHZHBpVXZrTXd3YmJTdTZURS16V3E3d0hPSVlGeEx1RmU5Qkk?oc=5",
         "publishedAt": "2026-07-29T07:45:56.000Z"
+      },
+      {
+        "time": "16:12",
+        "title": "6月の工作機械受注53%増、単月で過去最高 データセンター特需で",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVQkllU3NBT2VIMWFEczFoMVJwbVNabUtBU3ZCa0JhSkFZaHdLRjBrcTRUNkFWU1hzWnJqTWRLRDlOMFFVeF80MGNxX3RJU0ZhdGE3c1JkRUpBcjRSVGxva0Z2SWRMbC1RRFBGYg?oc=5",
+        "publishedAt": "2026-07-29T07:12:31.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "10:28",
-        "title": "米がイラン空爆を再開 応酬再燃か",
+        "time": "12:43",
+        "title": "米大統領 イランに「厳しい打撃」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589864?source=rss",
-        "publishedAt": "2026-07-30T01:28:30.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589885?source=rss",
+        "publishedAt": "2026-07-30T03:43:15.000Z"
+      },
+      {
+        "time": "12:31",
+        "title": "米サウジ軍 親イラン武装組織空爆",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589879?source=rss",
+        "publishedAt": "2026-07-30T03:31:43.000Z"
       },
       {
         "time": "19:16",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589788?source=rss",
         "publishedAt": "2026-07-29T07:30:45.000Z"
-      },
-      {
-        "time": "12:04",
-        "title": "ペルー大統領 ケイコ氏が就任",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589758?source=rss",
-        "publishedAt": "2026-07-29T03:04:44.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,20 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "07:53",
-        "title": "熊本地震3日目の朝 続く救出活動",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589850?source=rss",
-        "publishedAt": "2026-07-29T22:53:20.000Z"
-      },
-      {
-        "time": "09:12",
-        "title": "地震で家つぶれ下敷きに 救助難航",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589855?source=rss",
-        "publishedAt": "2026-07-30T00:12:45.000Z"
-      },
-      {
         "time": "06:19",
         "title": "イオン熊本で妻不明 案ずる夫と子",
         "source": "Yahoo!ニュース",
@@ -189,6 +175,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589835?source=rss",
         "publishedAt": "2026-07-29T14:17:04.000Z"
+      },
+      {
+        "time": "12:54",
+        "title": "火災で4遺体 2人は死後1カ月超か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589889?source=rss",
+        "publishedAt": "2026-07-30T03:54:24.000Z"
+      },
+      {
+        "time": "12:51",
+        "title": "ダンプカーが穴に転落 運転手死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589887?source=rss",
+        "publishedAt": "2026-07-30T03:51:52.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -225,10 +225,10 @@
       },
       {
         "time": "16:00",
-        "title": "防犯対策・防犯カメラ設置の補助金・助成金2026｜個人向けの申請方法と全国の制度を解説",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金のポイント解説",
         "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFVFV1MEdRM3YwbDdWaHRFenRXbzNHcXMtN3hkckN0dk9DOXlyZnA4RllKTTI2VmNiVU5pUjJmZ0xOUXJWQ29TWlhfTlYxQzBabGlZWTJ6Q012NTg?oc=5",
-        "publishedAt": "2026-07-24T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-07-09T07:00:00.000Z"
       }
     ]
   }
