@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T23:25:07.771Z",
+  "updatedAt": "2026-07-31T23:51:02.454Z",
   "items": [
     {
       "time": "07:34",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "九州-関東危険な暑さ 熱中症警戒"
     },
     {
-      "time": "07:11",
-      "title": "円 一時1ドル157円台半ばまで急騰",
+      "time": "08:29",
+      "title": "円が急伸 2日連続の為替介入か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590088?source=rss",
-      "publishedAt": "2026-07-31T22:11:29.000Z",
-      "xQuery": "円 一時1ドル157円台半ばまで急騰"
+      "url": "https://news.yahoo.co.jp/pickup/6590101?source=rss",
+      "publishedAt": "2026-07-31T23:29:06.000Z",
+      "xQuery": "円が急伸 2日連続の為替介入か"
     },
     {
       "time": "07:32",

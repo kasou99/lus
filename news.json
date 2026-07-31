@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T23:25:06.858Z",
+  "updatedAt": "2026-07-31T23:51:01.926Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,11 @@
         "publishedAt": "2026-07-31T06:30:00.000Z"
       },
       {
-        "time": "00:09",
-        "title": "プレハブ建築協会、住宅ストック社会構築 新5カ年計画",
+        "time": "03:31",
+        "title": "インタビュー／経済産業省製造産業局産業機械課長・須賀千鶴氏 製造AX拠点をDXインフラに",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BcEJHZnY5U3BjdDByejVMLWY4TUQtSTVFM05fdm41UExKWGJyTlcya0dpcDFTb01PdFBkNFBwZmd6WnA3Z0h3RkhwSUxab0VQV3pNWGRMeGxjNHM?oc=5",
-        "publishedAt": "2026-07-31T15:09:53.000Z"
+        "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQWEhJWTV6eE9naG91enNaM2EteUhhYlM3Vk5hYm95b0dNT0xMclBTX0JJNHhOVjA5R1UzS2RKUzZJZEpYYnVEeTNVN28yb0xncDVkRzU5Sk9XeTNmcUV3WVpidEtmQUpoMXZEM29La3pYelgtdHNhd2N0N3pqS1BvbHdzTnJyd21rOERJWkk0VXFad1V0TktralBzaGI5SUR6Rm9QUUk1UENZN0gybElTLXN1QlJUWFdIQ2xKSEdENW5nZTIzaGRfNllWY09OQldpNV9ISTJiTjdhWGtfTUtwTU12VmxaQ2xtX1V1Y0dzekhqX19Kc0ZUNnVEalhBbTdNR2k1amZPeFFEVWJ1Z1A4NEhEXzNiak5yaktHMEhNdkxNVUNlVWFoOTFfYXZFd1Z6am9PVlpPNTJ5WkpXNm03YlRaQ3RtdEVQMDFIRnJsTFo5RC1iOXQxbGhDS2FSY19jc3lUdEdEa1I3em9DLWNuVjZJYnJYQnp4UHc?oc=5",
+        "publishedAt": "2026-07-31T18:31:43.000Z"
       },
       {
         "time": "00:32",
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "22:53",
-        "title": "ハマスが武装解除合意 幹部明かす",
+        "time": "08:23",
+        "title": "米 過去最大級のイラン攻撃計画か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590083?source=rss",
-        "publishedAt": "2026-07-31T13:53:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590099?source=rss",
+        "publishedAt": "2026-07-31T23:23:37.000Z"
       },
       {
         "time": "08:53",
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589982?source=rss",
         "publishedAt": "2026-07-30T23:53:54.000Z"
+      },
+      {
+        "time": "22:53",
+        "title": "ハマスが武装解除合意 幹部明かす",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590083?source=rss",
+        "publishedAt": "2026-07-31T13:53:03.000Z"
       },
       {
         "time": "08:11",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590079?source=rss",
         "publishedAt": "2026-07-31T13:11:14.000Z"
-      },
-      {
-        "time": "07:32",
-        "title": "スペイン飛び地不法移民 大半帰還",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590092?source=rss",
-        "publishedAt": "2026-07-31T22:32:55.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,11 +119,11 @@
         "publishedAt": "2026-07-31T02:22:07.000Z"
       },
       {
-        "time": "07:11",
-        "title": "円 一時1ドル157円台半ばまで急騰",
+        "time": "08:29",
+        "title": "円が急伸 2日連続の為替介入か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590088?source=rss",
-        "publishedAt": "2026-07-31T22:11:29.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590101?source=rss",
+        "publishedAt": "2026-07-31T23:29:06.000Z"
       },
       {
         "time": "11:48",
