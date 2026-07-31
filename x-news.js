@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T06:05:17.971Z",
+  "updatedAt": "2026-07-31T07:29:59.509Z",
   "items": [
     {
-      "time": "14:03",
-      "title": "熊本地震 液状化被害拡大の恐れ",
+      "time": "16:04",
+      "title": "病院も被災 医療継続の課題浮かぶ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590019?source=rss",
-      "publishedAt": "2026-07-31T05:03:03.000Z",
-      "xQuery": "熊本地震 液状化被害拡大の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6590030?source=rss",
+      "publishedAt": "2026-07-31T07:04:52.000Z",
+      "xQuery": "病院も被災 医療継続の課題浮かぶ"
     },
     {
-      "time": "12:23",
-      "title": "日銀 政策金利1.0%程度に据え置き",
+      "time": "16:22",
+      "title": "地震の救助 イオン以外は全て終了",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590011?source=rss",
-      "publishedAt": "2026-07-31T03:23:48.000Z",
-      "xQuery": "日銀 政策金利1.0%程度に据え置き"
+      "url": "https://news.yahoo.co.jp/pickup/6590029?source=rss",
+      "publishedAt": "2026-07-31T07:22:01.000Z",
+      "xQuery": "地震の救助 イオン以外は全て終了"
     },
     {
-      "time": "13:58",
-      "title": "実家崩壊 避難所で暮らさない男性",
+      "time": "15:31",
+      "title": "被災地で賞味期限を弾力運用 狙い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590020?source=rss",
-      "publishedAt": "2026-07-31T04:58:28.000Z",
-      "xQuery": "実家崩壊 避難所で暮らさない男性"
-    },
-    {
-      "time": "14:19",
-      "title": "煙突折れた日本製紙八代 9人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590022?source=rss",
-      "publishedAt": "2026-07-31T05:19:00.000Z",
-      "xQuery": "煙突折れた日本製紙八代 9人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590027?source=rss",
+      "publishedAt": "2026-07-31T06:31:40.000Z",
+      "xQuery": "被災地で賞味期限を弾力運用 狙い"
     },
     {
       "time": "14:44",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590025?source=rss",
       "publishedAt": "2026-07-31T05:44:06.000Z",
       "xQuery": "海保3千人超 日当を不正・誤請求"
+    },
+    {
+      "time": "13:26",
+      "title": "名古屋が都市ランキング2位 なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590012?source=rss",
+      "publishedAt": "2026-07-31T04:26:41.000Z",
+      "xQuery": "名古屋が都市ランキング2位 なぜ"
     }
   ]
 };
