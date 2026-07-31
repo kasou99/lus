@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T23:53:21.768Z",
+  "updatedAt": "2026-07-31T00:49:51.295Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-07-30T21:30:00.000Z"
       },
       {
-        "time": "14:30",
-        "title": "制御盤を「切り込み隊長」に 三菱電機、エレベーター顧客開拓",
-        "source": "nikkei.com",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TbU8zVkdkTEdkUG5CZHpEbzl0eGZScGJNZ1ZoZ2xRcHFUaXRqRXU4NEN5QXVuWTdMZkQwM1ZyVURodEVBVndpc0VtS2x2UlZiUDVEZHVPekRDNXVJZEl5dHhFNmt4azJVLWlDaQ?oc=5",
-        "publishedAt": "2026-07-30T05:30:00.000Z"
+        "time": "05:00",
+        "title": "DMG森精機が欧州基盤を強化 人材や自動化、AM開発に攻めの投資（2ページ目）",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwY01NcXFsSmhIYnNJNHJDa1N3TTd6eHVPdWZHY3BhVG1fc1lxc0NNaXVWYmJGTllLRVQzSHdwY2cyTTFYcVN6eEFDZUtSdHdROGNQdy01VWVrbzdsSGNNR2dMcF9pTkhUVXgwc1Nn?oc=5",
+        "publishedAt": "2026-07-30T20:00:00.000Z"
       },
       {
         "time": "17:59",
@@ -31,13 +31,6 @@
         "publishedAt": "2026-07-30T06:26:54.000Z"
       },
       {
-        "time": "09:15",
-        "title": "習近平は手を汚さぬ\"死の商人\"…ロシアに工作機械､ウクライナにドローンの中国が｢台湾有事｣で日本に使う手",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SVFhuaXYxSUlJRmtLaUdRMDNiV3hlODFnOVk1M2M2Zk1FdXNEMzRsSnBUMGJ5SkNBbDdyeU5kQTQ1RlViODRJRk1URGhtdWsxamVxbHRJUWV0RFVFNUtMbnZSNzlIVWExc3g0cmg3X1dtVU9pZ2VYODNDUjBUTDQ?oc=5",
-        "publishedAt": "2026-07-30T00:15:36.000Z"
-      },
-      {
         "time": "13:00",
         "title": "自律走行ロボット第2世代 連続稼働時間3.6倍、他社製品との連携も可能：工作機械",
         "source": "MONOist",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-07-30T04:00:00.000Z"
       },
       {
-        "time": "05:03",
-        "title": "産業TREND／羅針盤 野村総合研究所（195）【大規模洪水】",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hdUVyQy1vMjJSRDhVZGhEWlpjM0lyYTNEUHpCdWF2Y0lSZ28ydWJCU3FLQ1lZMGFYYUxIc1hDbjNKTVNud0EyOWdfcVpTOEZRV0JXcU5ybTJpWVU?oc=5",
-        "publishedAt": "2026-07-30T20:03:38.000Z"
+        "time": "14:30",
+        "title": "制御盤を「切り込み隊長」に 三菱電機、エレベーター顧客開拓",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TbU8zVkdkTEdkUG5CZHpEbzl0eGZScGJNZ1ZoZ2xRcHFUaXRqRXU4NEN5QXVuWTdMZkQwM1ZyVURodEVBVndpc0VtS2x2UlZiUDVEZHVPekRDNXVJZEl5dHhFNmt4azJVLWlDaQ?oc=5",
+        "publishedAt": "2026-07-30T05:30:00.000Z"
       },
       {
-        "time": "09:30",
-        "title": "【台湾情報】台湾無人機産業、世界の防衛サプライチェーンの要へ＜ワイズ機械業界ジャーナル2026年8月第１週号発行＞",
-        "source": "prtimes.jp",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xNjNMY05qM3JDaVpNRFBDTFZhalg1Rk1SOHF1UkYtTm5CYVAwd2VnMmNNYXpuUUJLRW4zajdYR2g2OER3UlJSN3l4Wmt2cXFjb0NVemdtMUFpdGZGSjRQQ3A1djU2NlAwSkE?oc=5",
-        "publishedAt": "2026-07-30T00:30:01.000Z"
+        "time": "11:45",
+        "title": "【台湾情報】台湾無人機産業、世界の防衛サプライチェーンの要へ＜ワイズ機械業界ジャーナル2026年8月第１週号発行",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RZTJOWTdNLXh0VzZfZWVWUXM1THROUmlGV1YwM203dVFZb3pPelpqaVRfY0lSNFYybG5aS3p3UlhKbTVzR19jdEcyU091ZldWQVlMckl5bHpjc1JmeFFtbUVTRFBiWG1QNkpyYXlhcw?oc=5",
+        "publishedAt": "2026-07-30T02:45:31.000Z"
+      },
+      {
+        "time": "13:15",
+        "title": "高硬度材加工に対応！マルチローラタイプの新型「スパロールSHX/SBX」販売開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95NDJFWXk5d0FSVTJWQmN6Q1pFUTNjN1h6eDRDU3dSejFsbFVBRTBBVzV4cTRQdjBwcDduYlRXY1l4YmtyeFJOTTFKYXdOYlNPM3VfbTBleGJMdnhBdHlLTFR0VG1RT2RxSWtvZlBSdG82OFRkNkE?oc=5",
+        "publishedAt": "2026-07-30T04:15:35.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589977?source=rss",
         "publishedAt": "2026-07-30T23:11:30.000Z"
+      },
+      {
+        "time": "08:53",
+        "title": "イラン 中東の米軍基地相次ぎ攻撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589982?source=rss",
+        "publishedAt": "2026-07-30T23:53:54.000Z"
       },
       {
         "time": "20:26",
@@ -89,13 +96,6 @@
         "publishedAt": "2026-07-30T03:31:43.000Z"
       },
       {
-        "time": "07:55",
-        "title": "熊本地震受け 各国首脳らコメント",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589851?source=rss",
-        "publishedAt": "2026-07-29T22:55:04.000Z"
-      },
-      {
         "time": "18:15",
         "title": "7人乱立 国連事務総長選が投票へ",
         "source": "Yahoo!ニュース",
@@ -105,11 +105,18 @@
     ],
     "economyHeadlines": [
       {
-        "time": "08:21",
-        "title": "為替介入か 50分で5円近く上昇",
+        "time": "09:37",
+        "title": "日経平均 一時3200円超の値上がり",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589979?source=rss",
-        "publishedAt": "2026-07-30T23:21:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589991?source=rss",
+        "publishedAt": "2026-07-31T00:37:27.000Z"
+      },
+      {
+        "time": "09:10",
+        "title": "政府・日銀が為替介入 政府関係者",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589985?source=rss",
+        "publishedAt": "2026-07-31T00:10:28.000Z"
       },
       {
         "time": "20:27",
@@ -133,13 +140,6 @@
         "publishedAt": "2026-07-30T23:36:50.000Z"
       },
       {
-        "time": "18:12",
-        "title": "8月使用分の電気・ガス 値下がり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589926?source=rss",
-        "publishedAt": "2026-07-30T09:12:24.000Z"
-      },
-      {
         "time": "20:31",
         "title": "森永乳業 ピノなど61商品値上げへ",
         "source": "Yahoo!ニュース",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "06:23",
-        "title": "熊本地震 迫る「72時間」捜索懸命",
+        "time": "09:13",
+        "title": "迫る72h イオンモール大規模捜索",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589966?source=rss",
-        "publishedAt": "2026-07-30T21:23:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589984?source=rss",
+        "publishedAt": "2026-07-31T00:13:31.000Z"
       },
       {
         "time": "06:39",
