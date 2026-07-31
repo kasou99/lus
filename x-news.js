@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T22:25:17.555Z",
+  "updatedAt": "2026-07-31T22:50:57.148Z",
   "items": [
     {
-      "time": "23:08",
-      "title": "熊本地震 揺れの大きさ前回上回る",
+      "time": "07:34",
+      "title": "熊本9000人超避難 住宅被害1526棟",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590081?source=rss",
-      "publishedAt": "2026-07-31T14:08:30.000Z",
-      "xQuery": "熊本地震 揺れの大きさ前回上回る"
+      "url": "https://news.yahoo.co.jp/pickup/6590094?source=rss",
+      "publishedAt": "2026-07-31T22:34:04.000Z",
+      "xQuery": "熊本9000人超避難 住宅被害1526棟"
+    },
+    {
+      "time": "07:34",
+      "title": "九州-関東危険な暑さ 熱中症警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590093?source=rss",
+      "publishedAt": "2026-07-31T22:34:16.000Z",
+      "xQuery": "九州-関東危険な暑さ 熱中症警戒"
     },
     {
       "time": "07:11",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "円 一時1ドル157円台半ばまで急騰"
     },
     {
-      "time": "20:46",
-      "title": "イオン爆発 娘を亡くした母の心境",
+      "time": "07:32",
+      "title": "スペイン飛び地不法移民 大半帰還",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590068?source=rss",
-      "publishedAt": "2026-07-31T11:46:47.000Z",
-      "xQuery": "イオン爆発 娘を亡くした母の心境"
-    },
-    {
-      "time": "23:09",
-      "title": "男性が刺され死亡 おいの男を確保",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590084?source=rss",
-      "publishedAt": "2026-07-31T14:09:35.000Z",
-      "xQuery": "男性が刺され死亡 おいの男を確保"
+      "url": "https://news.yahoo.co.jp/pickup/6590092?source=rss",
+      "publishedAt": "2026-07-31T22:32:55.000Z",
+      "xQuery": "スペイン飛び地不法移民 大半帰還"
     },
     {
       "time": "23:45",
