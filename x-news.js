@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T01:41:00.695Z",
+  "updatedAt": "2026-07-31T03:11:55.603Z",
   "items": [
+    {
+      "time": "11:47",
+      "title": "断水続く猛暑の熊本 給水所に列",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590002?source=rss",
+      "publishedAt": "2026-07-31T02:47:45.000Z",
+      "xQuery": "断水続く猛暑の熊本 給水所に列"
+    },
     {
       "time": "10:09",
       "title": "熊本地震 関連調査中含め35人死亡",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震 関連調査中含め35人死亡"
     },
     {
-      "time": "09:13",
-      "title": "迫る72h イオンモール大規模捜索",
+      "time": "11:22",
+      "title": "イオン爆発 オンワードの3人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589984?source=rss",
-      "publishedAt": "2026-07-31T00:13:31.000Z",
-      "xQuery": "迫る72h イオンモール大規模捜索"
+      "url": "https://news.yahoo.co.jp/pickup/6589999?source=rss",
+      "publishedAt": "2026-07-31T02:22:07.000Z",
+      "xQuery": "イオン爆発 オンワードの3人死亡"
     },
     {
-      "time": "10:36",
-      "title": "日経平均 一時3400円超の値上がり",
+      "time": "11:58",
+      "title": "奈良女性2遺体 不明の親子と判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589996?source=rss",
-      "publishedAt": "2026-07-31T01:36:28.000Z",
-      "xQuery": "日経平均 一時3400円超の値上がり"
+      "url": "https://news.yahoo.co.jp/pickup/6590005?source=rss",
+      "publishedAt": "2026-07-31T02:58:07.000Z",
+      "xQuery": "奈良女性2遺体 不明の親子と判明"
     },
     {
-      "time": "08:10",
-      "title": "戦没者弔慰金を50年間誤支給 富山",
+      "time": "11:38",
+      "title": "円急騰 財務官「米当局から支援」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589976?source=rss",
-      "publishedAt": "2026-07-30T23:10:15.000Z",
-      "xQuery": "戦没者弔慰金を50年間誤支給 富山"
-    },
-    {
-      "time": "08:36",
-      "title": "キオクシア株が1カ月で1/3に 背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589980?source=rss",
-      "publishedAt": "2026-07-30T23:36:50.000Z",
-      "xQuery": "キオクシア株が1カ月で1/3に 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6590001?source=rss",
+      "publishedAt": "2026-07-31T02:38:42.000Z",
+      "xQuery": "円急騰 財務官「米当局から支援」"
     }
   ]
 };

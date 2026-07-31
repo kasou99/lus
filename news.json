@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T01:40:59.980Z",
+  "updatedAt": "2026-07-31T03:11:54.447Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "15:26",
         "title": "ブラザー、第56回 機械工業デザイン賞 IDEA「日本工作機械工業会賞」を受賞",
-        "source": "iza.ne.jp",
+        "source": "イザ！",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xcV91cU45OEVEbXY1UE40MGdzU3FrcnV1QjY2SDNtRUFZWmJBR0xpbkZqZDM1RWczUkVmSFdSbDhXTDNIdTh6bVNxOFVtbW5xY1JFMTFBS01SYmRabnFuQ1MyNjBwT1AwbkN5WWk5UXliWk9jNzlfNUF3?oc=5",
         "publishedAt": "2026-07-30T06:26:54.000Z"
       },
@@ -45,11 +45,11 @@
         "publishedAt": "2026-07-30T05:30:00.000Z"
       },
       {
-        "time": "11:45",
-        "title": "【台湾情報】台湾無人機産業、世界の防衛サプライチェーンの要へ＜ワイズ機械業界ジャーナル2026年8月第１週号発行",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RZTJOWTdNLXh0VzZfZWVWUXM1THROUmlGV1YwM203dVFZb3pPelpqaVRfY0lSNFYybG5aS3p3UlhKbTVzR19jdEcyU091ZldWQVlMckl5bHpjc1JmeFFtbUVTRFBiWG1QNkpyYXlhcw?oc=5",
-        "publishedAt": "2026-07-30T02:45:31.000Z"
+        "time": "15:35",
+        "title": "イートン・エレクトリック・ジャパン、コーセーエンジニアリングと提携し、日本におけるIEC準拠の電力インフラ需要拡大に対応 - J-CAST ニュース",
+        "source": "J-CAST ニュース",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yVlU5QjhUZnBnaVdkNFZXVkNsRzBMXzRHbEx6RDk1WWpJZ2QzclJIc0J5Q2lNMHhmMVBIejJyTFdDVmVmVnpVVjFEVnZiNGYtWGd5MUtHRmlDMjloX3lyR1oxVHNOTUk?oc=5",
+        "publishedAt": "2026-07-30T06:35:00.000Z"
       },
       {
         "time": "13:15",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "12:02",
+        "title": "スペインの飛び地 不法移民が殺到",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590007?source=rss",
+        "publishedAt": "2026-07-31T03:02:38.000Z"
+      },
       {
         "time": "08:11",
         "title": "サウジ主導 海洋防衛連合を設立へ",
@@ -89,13 +96,6 @@
         "publishedAt": "2026-07-30T03:43:15.000Z"
       },
       {
-        "time": "12:31",
-        "title": "米サウジ軍 親イラン武装組織空爆",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589879?source=rss",
-        "publishedAt": "2026-07-30T03:31:43.000Z"
-      },
-      {
         "time": "18:15",
         "title": "7人乱立 国連事務総長選が投票へ",
         "source": "Yahoo!ニュース",
@@ -105,25 +105,18 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:36",
-        "title": "日経平均 一時3400円超の値上がり",
+        "time": "11:48",
+        "title": "東海汽船に事業停止命令へ 国交省",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589996?source=rss",
-        "publishedAt": "2026-07-31T01:36:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590004?source=rss",
+        "publishedAt": "2026-07-31T02:48:29.000Z"
       },
       {
-        "time": "09:10",
-        "title": "政府・日銀が為替介入 政府関係者",
+        "time": "11:22",
+        "title": "イオン爆発 オンワードの3人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589985?source=rss",
-        "publishedAt": "2026-07-31T00:10:28.000Z"
-      },
-      {
-        "time": "20:27",
-        "title": "食料品消費税1% 生活への影響は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589946?source=rss",
-        "publishedAt": "2026-07-30T11:27:08.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589999?source=rss",
+        "publishedAt": "2026-07-31T02:22:07.000Z"
       },
       {
         "time": "21:32",
@@ -133,21 +126,35 @@
         "publishedAt": "2026-07-30T12:32:11.000Z"
       },
       {
-        "time": "08:36",
-        "title": "キオクシア株が1カ月で1/3に 背景",
+        "time": "11:38",
+        "title": "円急騰 財務官「米当局から支援」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589980?source=rss",
-        "publishedAt": "2026-07-30T23:36:50.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590001?source=rss",
+        "publishedAt": "2026-07-31T02:38:42.000Z"
       },
       {
-        "time": "20:31",
-        "title": "森永乳業 ピノなど61商品値上げへ",
+        "time": "09:10",
+        "title": "政府・日銀が為替介入 政府関係者",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589945?source=rss",
-        "publishedAt": "2026-07-30T11:31:15.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6589985?source=rss",
+        "publishedAt": "2026-07-31T00:10:28.000Z"
+      },
+      {
+        "time": "10:36",
+        "title": "日経平均 一時3400円超の値上がり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589996?source=rss",
+        "publishedAt": "2026-07-31T01:36:28.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "11:47",
+        "title": "断水続く猛暑の熊本 給水所に列",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590002?source=rss",
+        "publishedAt": "2026-07-31T02:47:45.000Z"
+      },
       {
         "time": "09:13",
         "title": "迫る72h イオンモール大規模捜索",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-07-30T08:50:39.000Z"
       },
       {
-        "time": "08:10",
-        "title": "戦没者弔慰金を50年間誤支給 富山",
+        "time": "11:58",
+        "title": "奈良女性2遺体 不明の親子と判明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589976?source=rss",
-        "publishedAt": "2026-07-30T23:10:15.000Z"
-      },
-      {
-        "time": "07:27",
-        "title": "外国人採用の県アンケ 差別と指摘",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589971?source=rss",
-        "publishedAt": "2026-07-30T22:27:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590005?source=rss",
+        "publishedAt": "2026-07-31T02:58:07.000Z"
       }
     ],
     "subsidyHeadlines": [
