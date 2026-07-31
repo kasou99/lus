@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T08:28:16.529Z",
+  "updatedAt": "2026-07-31T09:31:18.763Z",
   "items": [
+    {
+      "time": "18:00",
+      "title": "地震後に新たな命 不安あったと母",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590049?source=rss",
+      "publishedAt": "2026-07-31T09:00:13.000Z",
+      "xQuery": "地震後に新たな命 不安あったと母"
+    },
     {
       "time": "16:28",
       "title": "熊本で体温超える暑さ予想 警戒を",
@@ -10,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本で体温超える暑さ予想 警戒を"
     },
     {
-      "time": "16:22",
-      "title": "地震の救助 イオン以外は全て終了",
+      "time": "16:55",
+      "title": "国民民主の連立入り 当面困難に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590029?source=rss",
-      "publishedAt": "2026-07-31T07:22:01.000Z",
-      "xQuery": "地震の救助 イオン以外は全て終了"
+      "url": "https://news.yahoo.co.jp/pickup/6590040?source=rss",
+      "publishedAt": "2026-07-31T07:55:30.000Z",
+      "xQuery": "国民民主の連立入り 当面困難に"
+    },
+    {
+      "time": "17:42",
+      "title": "日銀総裁 物価上振れリスクを意識",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590046?source=rss",
+      "publishedAt": "2026-07-31T08:42:47.000Z",
+      "xQuery": "日銀総裁 物価上振れリスクを意識"
     },
     {
       "time": "16:28",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590035?source=rss",
       "publishedAt": "2026-07-31T07:28:34.000Z",
       "xQuery": "イオンモール イベント中止相次ぐ"
-    },
-    {
-      "time": "17:12",
-      "title": "筑後川花火大会 地震を受け中止に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590041?source=rss",
-      "publishedAt": "2026-07-31T08:12:29.000Z",
-      "xQuery": "筑後川花火大会 地震を受け中止に"
-    },
-    {
-      "time": "16:32",
-      "title": "キオクシア純利益35倍へ 4-9月期",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590036?source=rss",
-      "publishedAt": "2026-07-31T07:32:45.000Z",
-      "xQuery": "キオクシア純利益35倍へ 4-9月期"
     }
   ]
 };
