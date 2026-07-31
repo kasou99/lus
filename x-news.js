@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T11:47:36.107Z",
+  "updatedAt": "2026-07-31T12:46:10.522Z",
   "items": [
     {
-      "time": "19:19",
-      "title": "新幹線 熊本-新水俣の8月再開困難",
+      "time": "21:40",
+      "title": "熊本地震の死者36人に 県発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590063?source=rss",
-      "publishedAt": "2026-07-31T10:19:57.000Z",
-      "xQuery": "新幹線 熊本-新水俣の8月再開困難"
+      "url": "https://news.yahoo.co.jp/pickup/6590073?source=rss",
+      "publishedAt": "2026-07-31T12:40:28.000Z",
+      "xQuery": "熊本地震の死者36人に 県発表"
     },
     {
       "time": "20:08",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "被災自治体に支援 税繰り上げ交付"
     },
     {
-      "time": "17:49",
-      "title": "辺野古事故報告書 遺族がコメント",
+      "time": "21:07",
+      "title": "約6～9兆円規模の為替介入か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590047?source=rss",
-      "publishedAt": "2026-07-31T08:49:18.000Z",
-      "xQuery": "辺野古事故報告書 遺族がコメント"
+      "url": "https://news.yahoo.co.jp/pickup/6590071?source=rss",
+      "publishedAt": "2026-07-31T12:07:58.000Z",
+      "xQuery": "約6～9兆円規模の為替介入か"
     },
     {
       "time": "20:02",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イオンモール宇城 下敷き男性救助"
     },
     {
-      "time": "16:28",
-      "title": "イオンモール イベント中止相次ぐ",
+      "time": "20:46",
+      "title": "イオン爆発 娘を亡くした母の心境",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590035?source=rss",
-      "publishedAt": "2026-07-31T07:28:34.000Z",
-      "xQuery": "イオンモール イベント中止相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6590068?source=rss",
+      "publishedAt": "2026-07-31T11:46:47.000Z",
+      "xQuery": "イオン爆発 娘を亡くした母の心境"
     }
   ]
 };
