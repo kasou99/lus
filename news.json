@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T04:41:17.365Z",
+  "updatedAt": "2026-07-31T06:05:17.273Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-07-30T06:26:54.000Z"
       },
       {
+        "time": "12:12",
+        "title": "プレハブ建築協会、住宅ストック社会構築 新5カ年計画",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BcEJHZnY5U3BjdDByejVMLWY4TUQtSTVFM05fdm41UExKWGJyTlcya0dpcDFTb01PdFBkNFBwZmd6WnA3Z0h3RkhwSUxab0VQV3pNWGRMeGxjNHM?oc=5",
+        "publishedAt": "2026-07-31T03:12:56.000Z"
+      },
+      {
         "time": "17:59",
         "title": "サンワテクノス---1Qは2ケタ増収・大幅な増益、国内およびアジアの売上高・利益が好調に推移",
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNzJfeU5PNXJtM3ZLRVYyWm5GM19BeEJaWWNBZVdCVGduY0xjU3dNUVlVWjhQdTd3ZlN5QWZsdnhVNkNKaU4yRlFYMjRPWHhHcHpkSC1LZ1lSZ3daNi1XU1lfbzVXYi1fVndMeXNrcHhXRE1Xb2hBSzNjSTduVVN3eDU4U3pJYnBMTmJsZ9IBjAFBVV95cUxQNzJfeU5PNXJtM3ZLRVYyWm5GM19BeEJaWWNBZVdCVGduY0xjU3dNUVlVWjhQdTd3ZlN5QWZsdnhVNkNKaU4yRlFYMjRPWHhHcHpkSC1LZ1lSZ3daNi1XU1lfbzVXYi1fVndMeXNrcHhXRE1Xb2hBSzNjSTduVVN3eDU4U3pJYnBMTmJsZw?oc=5",
         "publishedAt": "2026-07-30T08:59:00.000Z"
-      },
-      {
-        "time": "14:30",
-        "title": "制御盤を「切り込み隊長」に 三菱電機、エレベーター顧客開拓",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TbU8zVkdkTEdkUG5CZHpEbzl0eGZScGJNZ1ZoZ2xRcHFUaXRqRXU4NEN5QXVuWTdMZkQwM1ZyVURodEVBVndpc0VtS2x2UlZiUDVEZHVPekRDNXVJZEl5dHhFNmt4azJVLWlDaQ?oc=5",
-        "publishedAt": "2026-07-30T05:30:00.000Z"
       },
       {
         "time": "15:35",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-30T06:35:00.000Z"
       },
       {
-        "time": "06:00",
-        "title": "コスモ石油、製油所の設備点検への四足歩行ロボット利用を検証",
-        "source": "デジタルクロス",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZODAwNUJKTkhydDUybDE2SWxDM0RwY1o4dU1FNTFQN1BMck9MSGxybFBOQjRZcXE5QlRaXzBuRU0xUkhyejVvdVkzVVhVQUwtYkQyX3FOOWo1LXdXR0lOS0lCUQ?oc=5",
-        "publishedAt": "2026-07-30T21:00:00.000Z"
+        "time": "21:40",
+        "title": "【台湾情報】台湾無人機産業、世界の防衛サプライチェーンの要へ＜ワイズ機械業界ジャーナル2026年8月第１週号発行",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEZHh5b2xmQ0JoVXlDVGNicWFSQ3hkTXdzYzhiaEViaXk4cU43Q0Zzd3pVeWJIRGFJbDdYM0tJTElteFo5NEJzTVRWODZySmtCOHdUVERNeFRPeGozRDhDOEh2SEZrNWdzZjRmRFBBN2J1bnZS?oc=5",
+        "publishedAt": "2026-07-30T12:40:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,18 +149,25 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:03",
+        "title": "熊本地震 液状化被害拡大の恐れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590019?source=rss",
+        "publishedAt": "2026-07-31T05:03:03.000Z"
+      },
+      {
+        "time": "14:19",
+        "title": "煙突折れた日本製紙八代 9人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590022?source=rss",
+        "publishedAt": "2026-07-31T05:19:00.000Z"
+      },
+      {
         "time": "11:47",
         "title": "断水続く猛暑の熊本 給水所に列",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590002?source=rss",
         "publishedAt": "2026-07-31T02:47:45.000Z"
-      },
-      {
-        "time": "09:13",
-        "title": "迫る72h イオンモール大規模捜索",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589984?source=rss",
-        "publishedAt": "2026-07-31T00:13:31.000Z"
       },
       {
         "time": "06:39",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-07-30T21:39:41.000Z"
       },
       {
+        "time": "13:58",
+        "title": "実家崩壊 避難所で暮らさない男性",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590020?source=rss",
+        "publishedAt": "2026-07-31T04:58:28.000Z"
+      },
+      {
         "time": "17:50",
         "title": "熊本災害マップ 給水所や航空写真",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589920?source=rss",
         "publishedAt": "2026-07-30T08:50:39.000Z"
-      },
-      {
-        "time": "11:58",
-        "title": "奈良女性2遺体 不明の親子と判明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590005?source=rss",
-        "publishedAt": "2026-07-31T02:58:07.000Z"
-      },
-      {
-        "time": "12:22",
-        "title": "梨5000個盗難に支援 前向く農家",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590009?source=rss",
-        "publishedAt": "2026-07-31T03:22:08.000Z"
       }
     ],
     "subsidyHeadlines": [

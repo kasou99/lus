@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T04:41:17.941Z",
+  "updatedAt": "2026-07-31T06:05:17.971Z",
   "items": [
     {
-      "time": "11:47",
-      "title": "断水続く猛暑の熊本 給水所に列",
+      "time": "14:03",
+      "title": "熊本地震 液状化被害拡大の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590002?source=rss",
-      "publishedAt": "2026-07-31T02:47:45.000Z",
-      "xQuery": "断水続く猛暑の熊本 給水所に列"
+      "url": "https://news.yahoo.co.jp/pickup/6590019?source=rss",
+      "publishedAt": "2026-07-31T05:03:03.000Z",
+      "xQuery": "熊本地震 液状化被害拡大の恐れ"
     },
     {
       "time": "12:23",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "日銀 政策金利1.0%程度に据え置き"
     },
     {
-      "time": "11:22",
-      "title": "イオン爆発 オンワードの3人死亡",
+      "time": "13:58",
+      "title": "実家崩壊 避難所で暮らさない男性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589999?source=rss",
-      "publishedAt": "2026-07-31T02:22:07.000Z",
-      "xQuery": "イオン爆発 オンワードの3人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590020?source=rss",
+      "publishedAt": "2026-07-31T04:58:28.000Z",
+      "xQuery": "実家崩壊 避難所で暮らさない男性"
     },
     {
-      "time": "11:48",
-      "title": "東海汽船に事業停止命令へ 国交省",
+      "time": "14:19",
+      "title": "煙突折れた日本製紙八代 9人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590004?source=rss",
-      "publishedAt": "2026-07-31T02:48:29.000Z",
-      "xQuery": "東海汽船に事業停止命令へ 国交省"
+      "url": "https://news.yahoo.co.jp/pickup/6590022?source=rss",
+      "publishedAt": "2026-07-31T05:19:00.000Z",
+      "xQuery": "煙突折れた日本製紙八代 9人死亡"
     },
     {
-      "time": "13:26",
-      "title": "名古屋が都市ランキング2位 なぜ",
+      "time": "14:44",
+      "title": "海保3千人超 日当を不正・誤請求",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590012?source=rss",
-      "publishedAt": "2026-07-31T04:26:41.000Z",
-      "xQuery": "名古屋が都市ランキング2位 なぜ"
+      "url": "https://news.yahoo.co.jp/pickup/6590025?source=rss",
+      "publishedAt": "2026-07-31T05:44:06.000Z",
+      "xQuery": "海保3千人超 日当を不正・誤請求"
     }
   ]
 };
