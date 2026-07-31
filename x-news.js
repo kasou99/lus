@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T21:54:13.219Z",
+  "updatedAt": "2026-07-31T22:25:17.555Z",
   "items": [
     {
       "time": "23:08",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震 揺れの大きさ前回上回る"
     },
     {
-      "time": "22:53",
-      "title": "ハマスが武装解除合意 幹部明かす",
+      "time": "07:11",
+      "title": "円 一時1ドル157円台半ばまで急騰",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590083?source=rss",
-      "publishedAt": "2026-07-31T13:53:03.000Z",
-      "xQuery": "ハマスが武装解除合意 幹部明かす"
+      "url": "https://news.yahoo.co.jp/pickup/6590088?source=rss",
+      "publishedAt": "2026-07-31T22:11:29.000Z",
+      "xQuery": "円 一時1ドル157円台半ばまで急騰"
     },
     {
       "time": "20:46",
