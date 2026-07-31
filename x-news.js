@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T12:46:10.522Z",
+  "updatedAt": "2026-07-31T13:37:46.752Z",
   "items": [
     {
       "time": "21:40",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震の死者36人に 県発表"
     },
     {
-      "time": "20:08",
-      "title": "被災自治体に支援 税繰り上げ交付",
+      "time": "16:49",
+      "title": "男性の育休取得率 初の50%超え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590065?source=rss",
-      "publishedAt": "2026-07-31T11:08:03.000Z",
-      "xQuery": "被災自治体に支援 税繰り上げ交付"
-    },
-    {
-      "time": "21:07",
-      "title": "約6～9兆円規模の為替介入か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590071?source=rss",
-      "publishedAt": "2026-07-31T12:07:58.000Z",
-      "xQuery": "約6～9兆円規模の為替介入か"
+      "url": "https://news.yahoo.co.jp/pickup/6590038?source=rss",
+      "publishedAt": "2026-07-31T07:49:13.000Z",
+      "xQuery": "男性の育休取得率 初の50%超え"
     },
     {
       "time": "20:02",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590068?source=rss",
       "publishedAt": "2026-07-31T11:46:47.000Z",
       "xQuery": "イオン爆発 娘を亡くした母の心境"
+    },
+    {
+      "time": "22:02",
+      "title": "死亡生徒 辺野古コースの変更希望",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590077?source=rss",
+      "publishedAt": "2026-07-31T13:02:45.000Z",
+      "xQuery": "死亡生徒 辺野古コースの変更希望"
     }
   ]
 };

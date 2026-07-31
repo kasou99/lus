@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T12:46:09.727Z",
+  "updatedAt": "2026-07-31T13:37:46.181Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,21 +12,21 @@
       {
         "time": "06:30",
         "title": "ベッコフが日本向けドライブシステム、価格競争力と機能性を両立：FAニュース",
-        "source": "MONOist",
+        "source": "monoist.itmedia.co.jp",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtTmZFeEhzSG1kMmdFejhUdUFHUDVzTXdlSTR0aGRaOTFEWUQ2d2hNekdFdnQzSEhmckxKMUJFaXl3bzRBLUdDWGdXZzcwUDB5Um9aS2pTdmVJSFVLVjdVczlKWnBMYnVSMEs1dWV6MA?oc=5",
         "publishedAt": "2026-07-30T21:30:00.000Z"
       },
       {
         "time": "19:21",
-        "title": "牧野フライス、買収提案拒否 ＮＳＳＫから、外為法で懸念｜全国の記事｜京都新聞 ON BUSINESS - kyoto-np.co.jp",
-        "source": "kyoto-np.co.jp",
+        "title": "牧野フライス、買収提案拒否 ＮＳＳＫから、外為法で懸念｜全国の記事｜京都新聞 ON BUSINESS",
+        "source": "京都新聞デジタル",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBacmlvM2pNMldkWjdqV2RFakllbEpsTW4zWlNGTVZWSUJsZWV1ckthcm9iQmZabllWQ3Y4MXY4azc3RjIzZmREWGdsNHpOQ3czc0lHTXFvRHY5WTA?oc=5",
         "publishedAt": "2026-07-31T10:21:33.000Z"
       },
       {
         "time": "17:51",
         "title": "◎牧野フライス、日系ファンドの買収提案拒否",
-        "source": "時事通信ニュース",
+        "source": "sp.m.jiji.com",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBic0x2a21Od0ZGbGVfM0lNSWlPLWZaTDh4MVI3NVJiWUJFR3FTMEJaVVh2T1ZvUzFzNk5oT2gwUWd5ejFPeEd4Y0o5eXFCcHFzM3NUbA?oc=5",
         "publishedAt": "2026-07-31T08:51:00.000Z"
       },
@@ -47,16 +47,16 @@
       {
         "time": "01:30",
         "title": "ブラザー、第56回 機械工業デザイン賞 IDEA「日本工作機械工業会賞」を受賞",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5peWY5a0l6cE9zSUZPT05ZU2NLNlNEUkJaeXRvMUh1NHE3ejlLaDNIcU1RRUp0akx0clBJc0RTQ0VBd1d3MVlQbl8xNG5oT1R1WEhpaG92eUVRMHFuM2VuUW5zdEE1QzJCTjZCOUVpTQ?oc=5",
         "publishedAt": "2026-07-30T16:30:49.000Z"
       },
       {
-        "time": "16:26",
-        "title": "イートン・エレクトリック・ジャパン、コーセーエンジニアリングと提携し、日本におけるIEC準拠の電力インフラ需要拡大に対応",
-        "source": "acrofan.com",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90X3BZY3JTWW5lbU10UXdscWxEcnFJTDZma1JUVTZGYkh0WkxiTWI3MHpObkZfOWNsU2NEejJONC1NSFFFTWNpNW15VVRuRF92d2lIR2JlSWJ4T2M?oc=5",
-        "publishedAt": "2026-07-31T07:26:35.000Z"
+        "time": "16:58",
+        "title": "【新トップ登場】ＴＡＫＩＳＡＷＡ 松田哲社長（５３） ボトムアップで課題解決",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hUHB0Uks4OVdibWdRVVJrSy1QRDZXUzNKRWRPbnN3cWFwUktya1hUSHJKcm5XWUR5YjJaYlFLbG9HSHpkZkgxQTFDM2FleUVlMUE?oc=5",
+        "publishedAt": "2026-07-31T07:58:52.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590007?source=rss",
         "publishedAt": "2026-07-31T03:02:38.000Z"
+      },
+      {
+        "time": "22:11",
+        "title": "韓国軍 米軍無人機を撃墜しかけた",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590079?source=rss",
+        "publishedAt": "2026-07-31T13:11:14.000Z"
       },
       {
         "time": "08:11",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589942?source=rss",
         "publishedAt": "2026-07-30T11:26:24.000Z"
-      },
-      {
-        "time": "12:43",
-        "title": "米大統領 イランに「厳しい打撃」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589885?source=rss",
-        "publishedAt": "2026-07-30T03:43:15.000Z"
       },
       {
         "time": "18:15",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-07-31T11:02:38.000Z"
       },
       {
+        "time": "22:02",
+        "title": "死亡生徒 辺野古コースの変更希望",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590077?source=rss",
+        "publishedAt": "2026-07-31T13:02:45.000Z"
+      },
+      {
         "time": "18:00",
         "title": "地震後に新たな命 不安あったと母",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590022?source=rss",
         "publishedAt": "2026-07-31T05:19:00.000Z"
-      },
-      {
-        "time": "17:49",
-        "title": "辺野古事故報告書 遺族がコメント",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590047?source=rss",
-        "publishedAt": "2026-07-31T08:49:18.000Z"
       },
       {
         "time": "21:10",
