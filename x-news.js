@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T10:58:33.773Z",
+  "updatedAt": "2026-07-31T11:47:36.107Z",
   "items": [
     {
       "time": "19:19",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "新幹線 熊本-新水俣の8月再開困難"
     },
     {
-      "time": "19:24",
-      "title": "LINEヤフーに行政指導 総務省",
+      "time": "20:08",
+      "title": "被災自治体に支援 税繰り上げ交付",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590061?source=rss",
-      "publishedAt": "2026-07-31T10:24:24.000Z",
-      "xQuery": "LINEヤフーに行政指導 総務省"
+      "url": "https://news.yahoo.co.jp/pickup/6590065?source=rss",
+      "publishedAt": "2026-07-31T11:08:03.000Z",
+      "xQuery": "被災自治体に支援 税繰り上げ交付"
     },
     {
       "time": "17:49",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "辺野古事故報告書 遺族がコメント"
     },
     {
-      "time": "16:45",
-      "title": "努力できない 33歳ギフテッド悩み",
+      "time": "20:02",
+      "title": "イオンモール宇城 下敷き男性救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590037?source=rss",
-      "publishedAt": "2026-07-31T07:45:47.000Z",
-      "xQuery": "努力できない 33歳ギフテッド悩み"
+      "url": "https://news.yahoo.co.jp/pickup/6590066?source=rss",
+      "publishedAt": "2026-07-31T11:02:38.000Z",
+      "xQuery": "イオンモール宇城 下敷き男性救助"
     },
     {
-      "time": "19:04",
-      "title": "手足口病が都内で流行 医師の懸念",
+      "time": "16:28",
+      "title": "イオンモール イベント中止相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590058?source=rss",
-      "publishedAt": "2026-07-31T10:04:20.000Z",
-      "xQuery": "手足口病が都内で流行 医師の懸念"
+      "url": "https://news.yahoo.co.jp/pickup/6590035?source=rss",
+      "publishedAt": "2026-07-31T07:28:34.000Z",
+      "xQuery": "イオンモール イベント中止相次ぐ"
     }
   ]
 };

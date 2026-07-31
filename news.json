@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T10:58:33.095Z",
+  "updatedAt": "2026-07-31T11:47:35.523Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-07-31T08:51:00.000Z"
       },
       {
+        "time": "12:12",
+        "title": "プレハブ建築協会、住宅ストック社会構築 新5カ年計画",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BcEJHZnY5U3BjdDByejVMLWY4TUQtSTVFM05fdm41UExKWGJyTlcya0dpcDFTb01PdFBkNFBwZmd6WnA3Z0h3RkhwSUxab0VQV3pNWGRMeGxjNHM?oc=5",
+        "publishedAt": "2026-07-31T03:12:56.000Z"
+      },
+      {
         "time": "07:00",
         "title": "日本のロボット産業はなぜ「夜明け前」に力尽きたのか？―香港メディア",
         "source": "ｄメニューニュース",
@@ -50,13 +57,6 @@
         "source": "Excite エキサイト",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uMmhkckhuNFpOdUoxVXJfcHBway1MbjlCbERrSHdUdDZDY08ydmV1NTBjYmpWNm1ldHp4akFNM3JHbjZqVWZGanBfSUdlODdpYnliZG9JSFBpcnJIbzk0?oc=5",
         "publishedAt": "2026-07-31T08:51:00.000Z"
-      },
-      {
-        "time": "06:42",
-        "title": "プレハブ建築協会、住宅ストック社会構築 新5カ年計画",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VTWhYalZjbjg0a1o2UG5zYW1ScnhvQ0pRZl9vT0dBSlJ4QmtrTVVSR0hLSFo2R0xKVV95V0pueGYtSTkxRWQxTVlrZ29QUE9Yall2OUtISHNxbHltaEZtNDE5akxFRWV2UTQwLXpST1prVThxTmlqZENiZw?oc=5",
-        "publishedAt": "2026-07-30T21:42:53.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "20:02",
+        "title": "イオンモール宇城 下敷き男性救助",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590066?source=rss",
+        "publishedAt": "2026-07-31T11:02:38.000Z"
+      },
+      {
         "time": "18:00",
         "title": "地震後に新たな命 不安あったと母",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590022?source=rss",
         "publishedAt": "2026-07-31T05:19:00.000Z"
-      },
-      {
-        "time": "13:58",
-        "title": "実家崩壊 避難所で暮らさない男性",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590020?source=rss",
-        "publishedAt": "2026-07-31T04:58:28.000Z"
       },
       {
         "time": "17:12",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "防犯対策・防犯カメラ設置の補助金・助成金2026｜個人向けの申請方法と全国の制度を解説",
-        "source": "補助金ポータル",
+        "title": "防犯対策・防犯カメラ設置の補助金・助成金2026｜個人向けの申請方法と全国の制度を解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFVFV1MEdRM3YwbDdWaHRFenRXbzNHcXMtN3hkckN0dk9DOXlyZnA4RllKTTI2VmNiVU5pUjJmZ0xOUXJWQ29TWlhfTlYxQzBabGlZWTJ6Q012NTg?oc=5",
         "publishedAt": "2026-07-24T07:00:00.000Z"
       }
