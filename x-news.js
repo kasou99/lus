@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T09:31:18.763Z",
+  "updatedAt": "2026-07-31T10:58:33.773Z",
   "items": [
     {
-      "time": "18:00",
-      "title": "地震後に新たな命 不安あったと母",
+      "time": "19:19",
+      "title": "新幹線 熊本-新水俣の8月再開困難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590049?source=rss",
-      "publishedAt": "2026-07-31T09:00:13.000Z",
-      "xQuery": "地震後に新たな命 不安あったと母"
+      "url": "https://news.yahoo.co.jp/pickup/6590063?source=rss",
+      "publishedAt": "2026-07-31T10:19:57.000Z",
+      "xQuery": "新幹線 熊本-新水俣の8月再開困難"
     },
     {
-      "time": "16:28",
-      "title": "熊本で体温超える暑さ予想 警戒を",
+      "time": "19:24",
+      "title": "LINEヤフーに行政指導 総務省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590034?source=rss",
-      "publishedAt": "2026-07-31T07:28:55.000Z",
-      "xQuery": "熊本で体温超える暑さ予想 警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6590061?source=rss",
+      "publishedAt": "2026-07-31T10:24:24.000Z",
+      "xQuery": "LINEヤフーに行政指導 総務省"
     },
     {
-      "time": "16:55",
-      "title": "国民民主の連立入り 当面困難に",
+      "time": "17:49",
+      "title": "辺野古事故報告書 遺族がコメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590040?source=rss",
-      "publishedAt": "2026-07-31T07:55:30.000Z",
-      "xQuery": "国民民主の連立入り 当面困難に"
+      "url": "https://news.yahoo.co.jp/pickup/6590047?source=rss",
+      "publishedAt": "2026-07-31T08:49:18.000Z",
+      "xQuery": "辺野古事故報告書 遺族がコメント"
     },
     {
-      "time": "17:42",
-      "title": "日銀総裁 物価上振れリスクを意識",
+      "time": "16:45",
+      "title": "努力できない 33歳ギフテッド悩み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590046?source=rss",
-      "publishedAt": "2026-07-31T08:42:47.000Z",
-      "xQuery": "日銀総裁 物価上振れリスクを意識"
+      "url": "https://news.yahoo.co.jp/pickup/6590037?source=rss",
+      "publishedAt": "2026-07-31T07:45:47.000Z",
+      "xQuery": "努力できない 33歳ギフテッド悩み"
     },
     {
-      "time": "16:28",
-      "title": "イオンモール イベント中止相次ぐ",
+      "time": "19:04",
+      "title": "手足口病が都内で流行 医師の懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590035?source=rss",
-      "publishedAt": "2026-07-31T07:28:34.000Z",
-      "xQuery": "イオンモール イベント中止相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6590058?source=rss",
+      "publishedAt": "2026-07-31T10:04:20.000Z",
+      "xQuery": "手足口病が都内で流行 医師の懸念"
     }
   ]
 };
