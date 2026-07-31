@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T07:29:59.509Z",
+  "updatedAt": "2026-07-31T08:28:16.529Z",
   "items": [
     {
-      "time": "16:04",
-      "title": "病院も被災 医療継続の課題浮かぶ",
+      "time": "16:28",
+      "title": "熊本で体温超える暑さ予想 警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590030?source=rss",
-      "publishedAt": "2026-07-31T07:04:52.000Z",
-      "xQuery": "病院も被災 医療継続の課題浮かぶ"
+      "url": "https://news.yahoo.co.jp/pickup/6590034?source=rss",
+      "publishedAt": "2026-07-31T07:28:55.000Z",
+      "xQuery": "熊本で体温超える暑さ予想 警戒を"
     },
     {
       "time": "16:22",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "地震の救助 イオン以外は全て終了"
     },
     {
-      "time": "15:31",
-      "title": "被災地で賞味期限を弾力運用 狙い",
+      "time": "16:28",
+      "title": "イオンモール イベント中止相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590027?source=rss",
-      "publishedAt": "2026-07-31T06:31:40.000Z",
-      "xQuery": "被災地で賞味期限を弾力運用 狙い"
+      "url": "https://news.yahoo.co.jp/pickup/6590035?source=rss",
+      "publishedAt": "2026-07-31T07:28:34.000Z",
+      "xQuery": "イオンモール イベント中止相次ぐ"
     },
     {
-      "time": "14:44",
-      "title": "海保3千人超 日当を不正・誤請求",
+      "time": "17:12",
+      "title": "筑後川花火大会 地震を受け中止に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590025?source=rss",
-      "publishedAt": "2026-07-31T05:44:06.000Z",
-      "xQuery": "海保3千人超 日当を不正・誤請求"
+      "url": "https://news.yahoo.co.jp/pickup/6590041?source=rss",
+      "publishedAt": "2026-07-31T08:12:29.000Z",
+      "xQuery": "筑後川花火大会 地震を受け中止に"
     },
     {
-      "time": "13:26",
-      "title": "名古屋が都市ランキング2位 なぜ",
+      "time": "16:32",
+      "title": "キオクシア純利益35倍へ 4-9月期",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590012?source=rss",
-      "publishedAt": "2026-07-31T04:26:41.000Z",
-      "xQuery": "名古屋が都市ランキング2位 なぜ"
+      "url": "https://news.yahoo.co.jp/pickup/6590036?source=rss",
+      "publishedAt": "2026-07-31T07:32:45.000Z",
+      "xQuery": "キオクシア純利益35倍へ 4-9月期"
     }
   ]
 };
