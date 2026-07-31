@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T03:11:55.603Z",
+  "updatedAt": "2026-07-31T04:41:17.941Z",
   "items": [
     {
       "time": "11:47",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "断水続く猛暑の熊本 給水所に列"
     },
     {
-      "time": "10:09",
-      "title": "熊本地震 関連調査中含め35人死亡",
+      "time": "12:23",
+      "title": "日銀 政策金利1.0%程度に据え置き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589994?source=rss",
-      "publishedAt": "2026-07-31T01:09:35.000Z",
-      "xQuery": "熊本地震 関連調査中含め35人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590011?source=rss",
+      "publishedAt": "2026-07-31T03:23:48.000Z",
+      "xQuery": "日銀 政策金利1.0%程度に据え置き"
     },
     {
       "time": "11:22",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン爆発 オンワードの3人死亡"
     },
     {
-      "time": "11:58",
-      "title": "奈良女性2遺体 不明の親子と判明",
+      "time": "11:48",
+      "title": "東海汽船に事業停止命令へ 国交省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590005?source=rss",
-      "publishedAt": "2026-07-31T02:58:07.000Z",
-      "xQuery": "奈良女性2遺体 不明の親子と判明"
+      "url": "https://news.yahoo.co.jp/pickup/6590004?source=rss",
+      "publishedAt": "2026-07-31T02:48:29.000Z",
+      "xQuery": "東海汽船に事業停止命令へ 国交省"
     },
     {
-      "time": "11:38",
-      "title": "円急騰 財務官「米当局から支援」",
+      "time": "13:26",
+      "title": "名古屋が都市ランキング2位 なぜ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590001?source=rss",
-      "publishedAt": "2026-07-31T02:38:42.000Z",
-      "xQuery": "円急騰 財務官「米当局から支援」"
+      "url": "https://news.yahoo.co.jp/pickup/6590012?source=rss",
+      "publishedAt": "2026-07-31T04:26:41.000Z",
+      "xQuery": "名古屋が都市ランキング2位 なぜ"
     }
   ]
 };
