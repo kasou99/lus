@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T22:50:55.751Z",
+  "updatedAt": "2026-07-31T23:25:06.858Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "東洋経済オンライン",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSZ1BrN0hQRlVRcnVhMUtfTXlKa05SVjAyWS1HLW9FdTZVT1kySS1QZmdiU2FiOTROWmZGb1l4MTV5ajNwdHo5SVl0aFowUUYzN3YwdkJOeHJRMXNuVXVN?oc=5",
         "publishedAt": "2026-07-31T20:40:00.000Z"
+      },
+      {
+        "time": "08:00",
+        "title": "【日本株】AI相場の次なる主役｢フィジカルAI｣の本命株を紹介！ 工作機械大手で業績が急回復中の｢DMG森精機｣と、エヌビディアと提携の｢ファナック｣に注目！",
+        "source": "ダイヤモンド・オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91eDI4Y2VybUVidXpJdlRIOHNCR0NaemszWmQybllMeUJrc1lSMkc3MUprcnByVkRiS1ZaSDU2MEg3YkdKa3ZpSmo1aTJiUFRWZ2hB?oc=5",
+        "publishedAt": "2026-07-31T23:00:00.000Z"
       },
       {
         "time": "15:30",
@@ -50,13 +57,6 @@
         "source": "東奥日報社",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55S0FKRkNfaC1ldGVzdmRhczlMOUwyanpNV0dCdW03T2ZzRHk0aE8xWk5xbWRnQmFvUlllSmJ3cXl0Z2lzdnBlQ2ctS2k1VTF1M2hnaWhhVXA?oc=5",
         "publishedAt": "2026-07-31T10:21:29.000Z"
-      },
-      {
-        "time": "16:26",
-        "title": "イートン・エレクトリック・ジャパン、コーセーエンジニアリングと提携し、日本におけるIEC準拠の電力インフラ需要拡大に対応",
-        "source": "acrofan.com",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90X3BZY3JTWW5lbU10UXdscWxEcnFJTDZma1JUVTZGYkh0WkxiTWI3MHpObkZfOWNsU2NEejJONC1NSFFFTWNpNW15VVRuRF92d2lIR2JlSWJ4T2M?oc=5",
-        "publishedAt": "2026-07-31T07:26:35.000Z"
       }
     ],
     "worldHeadlines": [

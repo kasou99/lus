@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T22:50:57.148Z",
+  "updatedAt": "2026-07-31T23:25:07.771Z",
   "items": [
     {
       "time": "07:34",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "スペイン飛び地不法移民 大半帰還"
     },
     {
-      "time": "23:45",
-      "title": "倒れたコンテナに挟まれる 死亡",
+      "time": "07:13",
+      "title": "三笘薫選手の人身事故 不起訴処分",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590087?source=rss",
-      "publishedAt": "2026-07-31T14:45:41.000Z",
-      "xQuery": "倒れたコンテナに挟まれる 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590089?source=rss",
+      "publishedAt": "2026-07-31T22:13:36.000Z",
+      "xQuery": "三笘薫選手の人身事故 不起訴処分"
     }
   ]
 };
