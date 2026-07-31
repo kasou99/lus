@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T00:49:52.143Z",
+  "updatedAt": "2026-07-31T01:41:00.695Z",
   "items": [
+    {
+      "time": "10:09",
+      "title": "熊本地震 関連調査中含め35人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589994?source=rss",
+      "publishedAt": "2026-07-31T01:09:35.000Z",
+      "xQuery": "熊本地震 関連調査中含め35人死亡"
+    },
     {
       "time": "09:13",
       "title": "迫る72h イオンモール大規模捜索",
@@ -10,28 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "迫る72h イオンモール大規模捜索"
     },
     {
-      "time": "07:22",
-      "title": "九州～関東は広く猛暑 熱中症警戒",
+      "time": "10:36",
+      "title": "日経平均 一時3400円超の値上がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589969?source=rss",
-      "publishedAt": "2026-07-30T22:22:59.000Z",
-      "xQuery": "九州～関東は広く猛暑 熱中症警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6589996?source=rss",
+      "publishedAt": "2026-07-31T01:36:28.000Z",
+      "xQuery": "日経平均 一時3400円超の値上がり"
     },
     {
-      "time": "09:10",
-      "title": "政府・日銀が為替介入 政府関係者",
+      "time": "08:10",
+      "title": "戦没者弔慰金を50年間誤支給 富山",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589985?source=rss",
-      "publishedAt": "2026-07-31T00:10:28.000Z",
-      "xQuery": "政府・日銀が為替介入 政府関係者"
-    },
-    {
-      "time": "09:37",
-      "title": "日経平均 一時3200円超の値上がり",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589991?source=rss",
-      "publishedAt": "2026-07-31T00:37:27.000Z",
-      "xQuery": "日経平均 一時3200円超の値上がり"
+      "url": "https://news.yahoo.co.jp/pickup/6589976?source=rss",
+      "publishedAt": "2026-07-30T23:10:15.000Z",
+      "xQuery": "戦没者弔慰金を50年間誤支給 富山"
     },
     {
       "time": "08:36",
