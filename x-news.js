@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T13:37:46.752Z",
+  "updatedAt": "2026-07-31T14:53:29.241Z",
   "items": [
     {
-      "time": "21:40",
-      "title": "熊本地震の死者36人に 県発表",
+      "time": "23:08",
+      "title": "熊本地震 揺れの大きさ前回上回る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590073?source=rss",
-      "publishedAt": "2026-07-31T12:40:28.000Z",
-      "xQuery": "熊本地震の死者36人に 県発表"
+      "url": "https://news.yahoo.co.jp/pickup/6590081?source=rss",
+      "publishedAt": "2026-07-31T14:08:30.000Z",
+      "xQuery": "熊本地震 揺れの大きさ前回上回る"
     },
     {
-      "time": "16:49",
-      "title": "男性の育休取得率 初の50%超え",
+      "time": "22:53",
+      "title": "ハマスが武装解除合意 幹部明かす",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590038?source=rss",
-      "publishedAt": "2026-07-31T07:49:13.000Z",
-      "xQuery": "男性の育休取得率 初の50%超え"
-    },
-    {
-      "time": "20:02",
-      "title": "イオンモール宇城 下敷き男性救助",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590066?source=rss",
-      "publishedAt": "2026-07-31T11:02:38.000Z",
-      "xQuery": "イオンモール宇城 下敷き男性救助"
+      "url": "https://news.yahoo.co.jp/pickup/6590083?source=rss",
+      "publishedAt": "2026-07-31T13:53:03.000Z",
+      "xQuery": "ハマスが武装解除合意 幹部明かす"
     },
     {
       "time": "20:46",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン爆発 娘を亡くした母の心境"
     },
     {
-      "time": "22:02",
-      "title": "死亡生徒 辺野古コースの変更希望",
+      "time": "23:09",
+      "title": "男性が刺され死亡 おいの男を確保",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590077?source=rss",
-      "publishedAt": "2026-07-31T13:02:45.000Z",
-      "xQuery": "死亡生徒 辺野古コースの変更希望"
+      "url": "https://news.yahoo.co.jp/pickup/6590084?source=rss",
+      "publishedAt": "2026-07-31T14:09:35.000Z",
+      "xQuery": "男性が刺され死亡 おいの男を確保"
+    },
+    {
+      "time": "23:45",
+      "title": "倒れたコンテナに挟まれる 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590087?source=rss",
+      "publishedAt": "2026-07-31T14:45:41.000Z",
+      "xQuery": "倒れたコンテナに挟まれる 死亡"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T13:37:46.181Z",
+  "updatedAt": "2026-07-31T14:53:28.275Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "06:30",
         "title": "ベッコフが日本向けドライブシステム、価格競争力と機能性を両立：FAニュース",
-        "source": "monoist.itmedia.co.jp",
+        "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtTmZFeEhzSG1kMmdFejhUdUFHUDVzTXdlSTR0aGRaOTFEWUQ2d2hNekdFdnQzSEhmckxKMUJFaXl3bzRBLUdDWGdXZzcwUDB5Um9aS2pTdmVJSFVLVjdVczlKWnBMYnVSMEs1dWV6MA?oc=5",
         "publishedAt": "2026-07-30T21:30:00.000Z"
       },
@@ -26,7 +26,7 @@
       {
         "time": "17:51",
         "title": "◎牧野フライス、日系ファンドの買収提案拒否",
-        "source": "sp.m.jiji.com",
+        "source": "時事通信ニュース",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBic0x2a21Od0ZGbGVfM0lNSWlPLWZaTDh4MVI3NVJiWUJFR3FTMEJaVVh2T1ZvUzFzNk5oT2gwUWd5ejFPeEd4Y0o5eXFCcHFzM3NUbA?oc=5",
         "publishedAt": "2026-07-31T08:51:00.000Z"
       },
@@ -47,7 +47,7 @@
       {
         "time": "01:30",
         "title": "ブラザー、第56回 機械工業デザイン賞 IDEA「日本工作機械工業会賞」を受賞",
-        "source": "ニコニコニュース",
+        "source": "news.nicovideo.jp",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5peWY5a0l6cE9zSUZPT05ZU2NLNlNEUkJaeXRvMUh1NHE3ejlLaDNIcU1RRUp0akx0clBJc0RTQ0VBd1d3MVlQbl8xNG5oT1R1WEhpaG92eUVRMHFuM2VuUW5zdEE1QzJCTjZCOUVpTQ?oc=5",
         "publishedAt": "2026-07-30T16:30:49.000Z"
       },
@@ -61,25 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "12:02",
-        "title": "スペインの飛び地 不法移民が殺到",
+        "time": "22:53",
+        "title": "ハマスが武装解除合意 幹部明かす",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590007?source=rss",
-        "publishedAt": "2026-07-31T03:02:38.000Z"
-      },
-      {
-        "time": "22:11",
-        "title": "韓国軍 米軍無人機を撃墜しかけた",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590079?source=rss",
-        "publishedAt": "2026-07-31T13:11:14.000Z"
-      },
-      {
-        "time": "08:11",
-        "title": "サウジ主導 海洋防衛連合を設立へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589977?source=rss",
-        "publishedAt": "2026-07-30T23:11:30.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590083?source=rss",
+        "publishedAt": "2026-07-31T13:53:03.000Z"
       },
       {
         "time": "08:53",
@@ -89,6 +75,13 @@
         "publishedAt": "2026-07-30T23:53:54.000Z"
       },
       {
+        "time": "08:11",
+        "title": "サウジ主導 海洋防衛連合を設立へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6589977?source=rss",
+        "publishedAt": "2026-07-30T23:11:30.000Z"
+      },
+      {
         "time": "20:26",
         "title": "露ミサイル落下とポーランド首相",
         "source": "Yahoo!ニュース",
@@ -96,11 +89,18 @@
         "publishedAt": "2026-07-30T11:26:24.000Z"
       },
       {
-        "time": "18:15",
-        "title": "7人乱立 国連事務総長選が投票へ",
+        "time": "22:11",
+        "title": "韓国軍 米軍無人機を撃墜しかけた",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589929?source=rss",
-        "publishedAt": "2026-07-30T09:15:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590079?source=rss",
+        "publishedAt": "2026-07-31T13:11:14.000Z"
+      },
+      {
+        "time": "12:02",
+        "title": "スペインの飛び地 不法移民が殺到",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590007?source=rss",
+        "publishedAt": "2026-07-31T03:02:38.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,6 +163,20 @@
         "publishedAt": "2026-07-31T11:02:38.000Z"
       },
       {
+        "time": "23:09",
+        "title": "男性が刺され死亡 おいの男を確保",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590084?source=rss",
+        "publishedAt": "2026-07-31T14:09:35.000Z"
+      },
+      {
+        "time": "23:45",
+        "title": "倒れたコンテナに挟まれる 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590087?source=rss",
+        "publishedAt": "2026-07-31T14:45:41.000Z"
+      },
+      {
         "time": "22:02",
         "title": "死亡生徒 辺野古コースの変更希望",
         "source": "Yahoo!ニュース",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-07-31T13:02:45.000Z"
       },
       {
-        "time": "18:00",
-        "title": "地震後に新たな命 不安あったと母",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590049?source=rss",
-        "publishedAt": "2026-07-31T09:00:13.000Z"
-      },
-      {
         "time": "14:19",
         "title": "煙突折れた日本製紙八代 9人死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590022?source=rss",
         "publishedAt": "2026-07-31T05:19:00.000Z"
-      },
-      {
-        "time": "21:10",
-        "title": "「夫刺された」容疑者逃走 岡山",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590070?source=rss",
-        "publishedAt": "2026-07-31T12:10:46.000Z"
       }
     ],
     "subsidyHeadlines": [
