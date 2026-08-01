@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T12:28:55.561Z",
+  "updatedAt": "2026-08-01T12:56:06.969Z",
   "items": [
     {
-      "time": "20:45",
-      "title": "熊本 10市町の7万2千戸で断水続く",
+      "time": "21:50",
+      "title": "地震情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590188?source=rss",
-      "publishedAt": "2026-08-01T11:45:41.000Z",
-      "xQuery": "熊本 10市町の7万2千戸で断水続く"
+      "url": "https://news.yahoo.co.jp/pickup/6590128?source=rss",
+      "publishedAt": "2026-08-01T12:50:27.000Z",
+      "xQuery": "地震情報"
     },
     {
       "time": "19:31",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震 生き埋めの妻救った夫"
     },
     {
+      "time": "21:22",
+      "title": "石破氏 財源示さない減税は無責任",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590189?source=rss",
+      "publishedAt": "2026-08-01T12:22:42.000Z",
+      "xQuery": "石破氏 財源示さない減税は無責任"
+    },
+    {
       "time": "19:49",
       "title": "2歳が行方不明 祖母の家に帰省中",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590182?source=rss",
       "publishedAt": "2026-08-01T10:49:40.000Z",
       "xQuery": "2歳が行方不明 祖母の家に帰省中"
-    },
-    {
-      "time": "20:21",
-      "title": "千葉爆発 未明に「ガスくさい」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590186?source=rss",
-      "publishedAt": "2026-08-01T11:21:47.000Z",
-      "xQuery": "千葉爆発 未明に「ガスくさい」"
     }
   ]
 };
