@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T23:22:52.593Z",
+  "updatedAt": "2026-08-01T23:50:25.661Z",
   "items": [
     {
       "time": "08:14",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日米が協調為替介入 15年ぶり"
     },
     {
-      "time": "08:05",
-      "title": "帰省中に行方不明の2歳 山で発見",
+      "time": "07:50",
+      "title": "モスクワで店爆発3人死亡 テロか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590212?source=rss",
-      "publishedAt": "2026-08-01T23:05:19.000Z",
-      "xQuery": "帰省中に行方不明の2歳 山で発見"
+      "url": "https://news.yahoo.co.jp/pickup/6590208?source=rss",
+      "publishedAt": "2026-08-01T22:50:17.000Z",
+      "xQuery": "モスクワで店爆発3人死亡 テロか"
+    },
+    {
+      "time": "08:44",
+      "title": "帰省中に行方不明の2歳 無事発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590217?source=rss",
+      "publishedAt": "2026-08-01T23:44:33.000Z",
+      "xQuery": "帰省中に行方不明の2歳 無事発見"
     },
     {
       "time": "07:33",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590205?source=rss",
       "publishedAt": "2026-08-01T22:33:15.000Z",
       "xQuery": "シジミ採り中に溺れたか 男性死亡"
-    },
-    {
-      "time": "22:22",
-      "title": "著名登山家死亡 パキスタンで雪崩",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590194?source=rss",
-      "publishedAt": "2026-08-01T13:22:35.000Z",
-      "xQuery": "著名登山家死亡 パキスタンで雪崩"
     }
   ]
 };
