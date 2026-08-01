@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T22:22:18.767Z",
+  "updatedAt": "2026-08-01T22:49:52.334Z",
   "items": [
+    {
+      "time": "07:28",
+      "title": "日米が協調為替介入 15年ぶり",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590202?source=rss",
+      "publishedAt": "2026-08-01T22:28:48.000Z",
+      "xQuery": "日米が協調為替介入 15年ぶり"
+    },
     {
       "time": "21:47",
       "title": "猛暑日予想 週明け熊本は40℃恐れ",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "り災証明の申請 片付け前に撮影を"
     },
     {
-      "time": "22:44",
-      "title": "日米両政府 円安是正の方針表明へ",
+      "time": "07:33",
+      "title": "シジミ採り中に溺れたか 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590196?source=rss",
-      "publishedAt": "2026-08-01T13:44:35.000Z",
-      "xQuery": "日米両政府 円安是正の方針表明へ"
-    },
-    {
-      "time": "19:49",
-      "title": "2歳が行方不明 祖母の家に帰省中",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590182?source=rss",
-      "publishedAt": "2026-08-01T10:49:40.000Z",
-      "xQuery": "2歳が行方不明 祖母の家に帰省中"
+      "url": "https://news.yahoo.co.jp/pickup/6590205?source=rss",
+      "publishedAt": "2026-08-01T22:33:15.000Z",
+      "xQuery": "シジミ採り中に溺れたか 男性死亡"
     },
     {
       "time": "22:22",
