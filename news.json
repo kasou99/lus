@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T06:03:04.039Z",
+  "updatedAt": "2026-08-01T07:21:08.270Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,16 +17,9 @@
         "publishedAt": "2026-07-31T23:00:00.000Z"
       },
       {
-        "time": "15:30",
-        "title": "岡本工作機械製作所[6125]：第三者割当増資における調達資金の資金使途および支出予定時期の一部変更に関するお知らせ 2026年7月31日(適時開示) ：日経会社情報DIGITAL",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZWl1ZmxrNTVRb3NFNkpYSl9JVFFXUzFNdG5JMTBaS2ZXQVNFaW0xaV96cVItUHQ2VzJaV3FCY1dtN2x2REphNzFRc3hYMVNrN1Ywbk04djhodWxjcEJrMzJiSDlMMU9ENFIxZFBXaDlWR1lsYWRwaTF2VWgxb21FdHhlU2hBbGo4SjROLXkwZFV2N1FKR21oUWEtWjJJTF9iTnl3T3ZjdG5FRDFPekQxZ1llVm1CQW5uNjAzREJwR2IzakEtYXBXbllWcno?oc=5",
-        "publishedAt": "2026-07-31T06:30:00.000Z"
-      },
-      {
         "time": "04:24",
         "title": "プレハブ建築協会、住宅ストック社会構築 新5カ年計画",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15aEtGbWhJMmxLUGIxTXpQenktZ3BOMjEycjNueGM5WmhFTW82N2dmTWt3TFNnTzRwRjRkV3JTMVFPbUdZUFZaYnpvLUZNeFFHWGozcmhTVFZCTEtaM2hRbmluTnhCTkVsZmZYSUlGTWFTXzFq?oc=5",
         "publishedAt": "2026-07-31T19:24:58.000Z"
       },
@@ -47,16 +40,23 @@
       {
         "time": "17:51",
         "title": "◎牧野フライス、日系ファンドの買収提案拒否",
-        "source": "時事通信ニュース",
+        "source": "sp.m.jiji.com",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBic0x2a21Od0ZGbGVfM0lNSWlPLWZaTDh4MVI3NVJiWUJFR3FTMEJaVVh2T1ZvUzFzNk5oT2gwUWd5ejFPeEd4Y0o5eXFCcHFzM3NUbA?oc=5",
         "publishedAt": "2026-07-31T08:51:00.000Z"
       },
       {
         "time": "03:31",
         "title": "インタビュー／経済産業省製造産業局産業機械課長・須賀千鶴氏 製造AX拠点をDXインフラに",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQWEhJWTV6eE9naG91enNaM2EteUhhYlM3Vk5hYm95b0dNT0xMclBTX0JJNHhOVjA5R1UzS2RKUzZJZEpYYnVEeTNVN28yb0xncDVkRzU5Sk9XeTNmcUV3WVpidEtmQUpoMXZEM29La3pYelgtdHNhd2N0N3pqS1BvbHdzTnJyd21rOERJWkk0VXFad1V0TktralBzaGI5SUR6Rm9QUUk1UENZN0gybElTLXN1QlJUWFdIQ2xKSEdENW5nZTIzaGRfNllWY09OQldpNV9ISTJiTjdhWGtfTUtwTU12VmxaQ2xtX1V1Y0dzekhqX19Kc0ZUNnVEalhBbTdNR2k1amZPeFFEVWJ1Z1A4NEhEXzNiak5yaktHMEhNdkxNVUNlVWFoOTFfYXZFd1Z6am9PVlpPNTJ5WkpXNm03YlRaQ3RtdEVQMDFIRnJsTFo5RC1iOXQxbGhDS2FSY19jc3lUdEdEa1I3em9DLWNuVjZJYnJYQnp4UHc?oc=5",
         "publishedAt": "2026-07-31T18:31:43.000Z"
+      },
+      {
+        "time": "19:22",
+        "title": "牧野フライス、買収提案拒否 NSSKから、外為法で懸念",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYaDhFakRFYnpxUzZacm9LeWxoLU1pc0ZMQ3RqTjFTNHQ1eUhZejhoUm5EeHdfemlpLTYyWUVBcjV2S1pENnhaMFkxY1U1d0RFTGo2emU3TFltV2k1eVczcmtEMjlLMGpyTlFvUFRYbkM?oc=5",
+        "publishedAt": "2026-07-31T10:22:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "15:51",
+        "title": "熊本地震で家失う 診療続ける医師",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590154?source=rss",
+        "publishedAt": "2026-08-01T06:51:02.000Z"
+      },
+      {
         "time": "14:47",
         "title": "下敷きの高齢者を救う 19歳使命感",
         "source": "Yahoo!ニュース",
@@ -163,32 +170,25 @@
         "publishedAt": "2026-08-01T04:47:17.000Z"
       },
       {
-        "time": "12:55",
-        "title": "炎天下 片付け追われる熊本被災者",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590133?source=rss",
-        "publishedAt": "2026-08-01T03:55:05.000Z"
-      },
-      {
-        "time": "08:54",
-        "title": "熊本地震で断水 一部は長期化恐れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590104?source=rss",
-        "publishedAt": "2026-07-31T23:54:22.000Z"
-      },
-      {
-        "time": "10:48",
-        "title": "地震 益城町でボランティア開始",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590115?source=rss",
-        "publishedAt": "2026-08-01T01:48:41.000Z"
-      },
-      {
         "time": "09:50",
         "title": "熊本地震で犬逃げ出す 飼い主再会",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590112?source=rss",
         "publishedAt": "2026-08-01T00:50:58.000Z"
+      },
+      {
+        "time": "16:17",
+        "title": "未明に国道ではねられ 9歳が重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590157?source=rss",
+        "publishedAt": "2026-08-01T07:17:18.000Z"
+      },
+      {
+        "time": "11:12",
+        "title": "市川のマンションで爆発 周辺被害",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590119?source=rss",
+        "publishedAt": "2026-08-01T02:12:29.000Z"
       }
     ],
     "subsidyHeadlines": [

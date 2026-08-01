@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T06:03:04.892Z",
+  "updatedAt": "2026-08-01T07:21:09.021Z",
   "items": [
-    {
-      "time": "12:58",
-      "title": "日銀の金融政策 利上げ加速が焦点",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590135?source=rss",
-      "publishedAt": "2026-08-01T03:58:01.000Z",
-      "xQuery": "日銀の金融政策 利上げ加速が焦点"
-    },
     {
       "time": "14:47",
       "title": "下敷きの高齢者を救う 19歳使命感",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "死ぬかも がれきに顔が挟まり圧迫"
     },
     {
-      "time": "13:40",
-      "title": "「マイナ保険証」8/1から完全移行",
+      "time": "12:58",
+      "title": "日銀の金融政策 利上げ加速が焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590140?source=rss",
-      "publishedAt": "2026-08-01T04:40:50.000Z",
-      "xQuery": "「マイナ保険証」8/1から完全移行"
+      "url": "https://news.yahoo.co.jp/pickup/6590135?source=rss",
+      "publishedAt": "2026-08-01T03:58:01.000Z",
+      "xQuery": "日銀の金融政策 利上げ加速が焦点"
+    },
+    {
+      "time": "16:00",
+      "title": "母から苛烈な虐待 今も続く後遺症",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590153?source=rss",
+      "publishedAt": "2026-08-01T07:00:35.000Z",
+      "xQuery": "母から苛烈な虐待 今も続く後遺症"
     },
     {
       "time": "12:27",
