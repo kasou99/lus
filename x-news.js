@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T07:21:09.021Z",
+  "updatedAt": "2026-08-01T08:19:06.926Z",
   "items": [
+    {
+      "time": "16:45",
+      "title": "イオンモール熊本の捜索活動終了",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590166?source=rss",
+      "publishedAt": "2026-08-01T07:45:20.000Z",
+      "xQuery": "イオンモール熊本の捜索活動終了"
+    },
+    {
+      "time": "16:31",
+      "title": "東海や西日本2日以降も危険な暑さ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590162?source=rss",
+      "publishedAt": "2026-08-01T07:31:18.000Z",
+      "xQuery": "東海や西日本2日以降も危険な暑さ"
+    },
     {
       "time": "14:47",
       "title": "下敷きの高齢者を救う 19歳使命感",
@@ -10,28 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "下敷きの高齢者を救う 19歳使命感"
     },
     {
-      "time": "13:47",
-      "title": "死ぬかも がれきに顔が挟まり圧迫",
+      "time": "16:17",
+      "title": "未明に国道ではねられ 9歳が重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590139?source=rss",
-      "publishedAt": "2026-08-01T04:47:17.000Z",
-      "xQuery": "死ぬかも がれきに顔が挟まり圧迫"
-    },
-    {
-      "time": "12:58",
-      "title": "日銀の金融政策 利上げ加速が焦点",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590135?source=rss",
-      "publishedAt": "2026-08-01T03:58:01.000Z",
-      "xQuery": "日銀の金融政策 利上げ加速が焦点"
-    },
-    {
-      "time": "16:00",
-      "title": "母から苛烈な虐待 今も続く後遺症",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590153?source=rss",
-      "publishedAt": "2026-08-01T07:00:35.000Z",
-      "xQuery": "母から苛烈な虐待 今も続く後遺症"
+      "url": "https://news.yahoo.co.jp/pickup/6590157?source=rss",
+      "publishedAt": "2026-08-01T07:17:18.000Z",
+      "xQuery": "未明に国道ではねられ 9歳が重体"
     },
     {
       "time": "12:27",
