@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T11:51:48.050Z",
+  "updatedAt": "2026-08-01T12:28:55.561Z",
   "items": [
+    {
+      "time": "20:45",
+      "title": "熊本 10市町の7万2千戸で断水続く",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590188?source=rss",
+      "publishedAt": "2026-08-01T11:45:41.000Z",
+      "xQuery": "熊本 10市町の7万2千戸で断水続く"
+    },
     {
       "time": "19:31",
       "title": "避難者2200人規模受け入れへ 調整",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "避難者2200人規模受け入れへ 調整"
     },
     {
-      "time": "18:54",
-      "title": "ベトナム人5人がれきから女性救出",
+      "time": "20:49",
+      "title": "熊本地震 生き埋めの妻救った夫",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590175?source=rss",
-      "publishedAt": "2026-08-01T09:54:51.000Z",
-      "xQuery": "ベトナム人5人がれきから女性救出"
+      "url": "https://news.yahoo.co.jp/pickup/6590187?source=rss",
+      "publishedAt": "2026-08-01T11:49:45.000Z",
+      "xQuery": "熊本地震 生き埋めの妻救った夫"
     },
     {
       "time": "19:49",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590186?source=rss",
       "publishedAt": "2026-08-01T11:21:47.000Z",
       "xQuery": "千葉爆発 未明に「ガスくさい」"
-    },
-    {
-      "time": "17:08",
-      "title": "原点知って 長岡花火マナーに懸念",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590158?source=rss",
-      "publishedAt": "2026-08-01T08:08:35.000Z",
-      "xQuery": "原点知って 長岡花火マナーに懸念"
     }
   ]
 };
