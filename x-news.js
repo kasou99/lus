@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T11:01:38.875Z",
+  "updatedAt": "2026-08-01T11:51:48.050Z",
   "items": [
-    {
-      "time": "17:31",
-      "title": "ロシアがウ首都を空爆 9人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590168?source=rss",
-      "publishedAt": "2026-08-01T08:31:12.000Z",
-      "xQuery": "ロシアがウ首都を空爆 9人死亡"
-    },
     {
       "time": "19:31",
       "title": "避難者2200人規模受け入れへ 調整",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ベトナム人5人がれきから女性救出"
     },
     {
-      "time": "19:26",
-      "title": "川遊びの中学生 流され意識不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590179?source=rss",
-      "publishedAt": "2026-08-01T10:26:24.000Z",
-      "xQuery": "川遊びの中学生 流され意識不明"
-    },
-    {
       "time": "19:49",
       "title": "2歳が行方不明 祖母の家に帰省中",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590182?source=rss",
       "publishedAt": "2026-08-01T10:49:40.000Z",
       "xQuery": "2歳が行方不明 祖母の家に帰省中"
+    },
+    {
+      "time": "20:21",
+      "title": "千葉爆発 未明に「ガスくさい」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590186?source=rss",
+      "publishedAt": "2026-08-01T11:21:47.000Z",
+      "xQuery": "千葉爆発 未明に「ガスくさい」"
+    },
+    {
+      "time": "17:08",
+      "title": "原点知って 長岡花火マナーに懸念",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590158?source=rss",
+      "publishedAt": "2026-08-01T08:08:35.000Z",
+      "xQuery": "原点知って 長岡花火マナーに懸念"
     }
   ]
 };

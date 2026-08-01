@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-08-01T11:01:37.986Z",
+  "updatedAt": "2026-08-01T11:51:47.300Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:40",
         "title": "〈工作機械受注〉6月は史上初の2000億円超え､半導体やデータセンター､航空･宇宙向け需要旺盛､国内自動車も底打ち感",
-        "source": "東洋経済オンライン",
+        "source": "toyokeizai.net",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83U09mUVNSSlNEZ2M2OWl1SC1OdlVQcVkxNDA4WjNscldyb2hsTnUxNEtxMVBwYS1MZXA0enFkbEF3bTNBbzFkVTVnYkhEZzVSZ0ZtT2FfZTJRWFU?oc=5",
         "publishedAt": "2026-07-31T20:40:00.000Z"
       },
       {
         "time": "17:28",
         "title": "MUSE、自律移動ロボ実証 都内薬局5店で来月",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZmhfcy1ZdnhCQ2l1LVdicG5kZzZmYlV3a2dqM1dmanROUlZwRGU4ZGxCTFYxTklRemhRWWpQVXVVUF8tTDhQbE9kMWNQZlZWTzU2dTdRbUVwMFBJdGh4SEVrQnRxZGJyZktXZVdrT3BLZzZ1?oc=5",
         "publishedAt": "2026-08-01T08:28:24.000Z"
       },
@@ -24,11 +24,11 @@
         "publishedAt": "2026-07-31T23:00:00.000Z"
       },
       {
-        "time": "00:32",
-        "title": "牧野フライス、ＮＳＳＫの買収計画に応じない意向…海外投資家からの資金調達「実現可能性に懸念」",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXFMU2ZRRGtTd1E4cjltMXBTYjVHVEZMSW95T2I4RUxmLTNGblhPVjhtYmdkeTcweHgydmpoWXFHc0tqVW1QQkhlTDNhMllHN3gxN0ZwTDV6TW5TRU1mU0M5NzZnOVFxTUFaVW53N2ZFcGJWcEx4aTFsNkpncXUtX3lQR3ZvZFlaelNwU9IBjAFBVV95cUxPYXFMU2ZRRGtTd1E4cjltMXBTYjVHVEZMSW95T2I4RUxmLTNGblhPVjhtYmdkeTcweHgydmpoWXFHc0tqVW1QQkhlTDNhMllHN3gxN0ZwTDV6TW5TRU1mU0M5NzZnOVFxTUFaVW53N2ZFcGJWcEx4aTFsNkpncXUtX3lQR3ZvZFlaelNwUw?oc=5",
-        "publishedAt": "2026-07-31T15:32:00.000Z"
+        "time": "00:33",
+        "title": "牧野フライス、ＮＳＳＫの買収計画に応じない意向…海外投資家からの資金調達「実現可能性に懸念」（読売新聞オンライン）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wU2wwX2NUeFhTSmdMZlZ6SVRGNjVnSXJrdGpYTV9XNF92bXJ3S1dXWlozZ1BVWjFSSExXNE1QdWVuN2dBdEFVclJOQi1KZzZrZGpmWHZLcE1mSXVRbEw3QjlaUnp2VU1pYWhSN1Y3RVNKZ3FleklpNHNNS2NNV1k?oc=5",
+        "publishedAt": "2026-07-31T15:33:04.000Z"
       },
       {
         "time": "02:37",
@@ -40,23 +40,23 @@
       {
         "time": "04:24",
         "title": "プレハブ建築協会、住宅ストック社会構築 新5カ年計画",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15aEtGbWhJMmxLUGIxTXpQenktZ3BOMjEycjNueGM5WmhFTW82N2dmTWt3TFNnTzRwRjRkV3JTMVFPbUdZUFZaYnpvLUZNeFFHWGozcmhTVFZCTEtaM2hRbmluTnhCTkVsZmZYSUlGTWFTXzFq?oc=5",
         "publishedAt": "2026-07-31T19:24:58.000Z"
       },
       {
         "time": "03:31",
         "title": "インタビュー／経済産業省製造産業局産業機械課長・須賀千鶴氏 製造AX拠点をDXインフラに",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQWEhJWTV6eE9naG91enNaM2EteUhhYlM3Vk5hYm95b0dNT0xMclBTX0JJNHhOVjA5R1UzS2RKUzZJZEpYYnVEeTNVN28yb0xncDVkRzU5Sk9XeTNmcUV3WVpidEtmQUpoMXZEM29La3pYelgtdHNhd2N0N3pqS1BvbHdzTnJyd21rOERJWkk0VXFad1V0TktralBzaGI5SUR6Rm9QUUk1UENZN0gybElTLXN1QlJUWFdIQ2xKSEdENW5nZTIzaGRfNllWY09OQldpNV9ISTJiTjdhWGtfTUtwTU12VmxaQ2xtX1V1Y0dzekhqX19Kc0ZUNnVEalhBbTdNR2k1amZPeFFEVWJ1Z1A4NEhEXzNiak5yaktHMEhNdkxNVUNlVWFoOTFfYXZFd1Z6am9PVlpPNTJ5WkpXNm03YlRaQ3RtdEVQMDFIRnJsTFo5RC1iOXQxbGhDS2FSY19jc3lUdEdEa1I3em9DLWNuVjZJYnJYQnp4UHc?oc=5",
         "publishedAt": "2026-07-31T18:31:43.000Z"
       },
       {
-        "time": "02:44",
-        "title": "商談記録の入力時間を80％削減！ ベルフェイス「bellSalesAI」",
-        "source": "news.livedoor.com",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81YmVVd2pNODVzQU00RkpYQ2ktaDU2ZjdpYllGY25xU2V6RWJYblgyR2dlLTl3QUt4a3hGaHp3RXZwYzRkUlk3SmsyNlF2MUJXWFpReUZDYmZQcnlkbGNj?oc=5",
-        "publishedAt": "2026-07-31T17:44:05.000Z"
+        "time": "03:53",
+        "title": "商談記録80％削減へ！ ベルフェイス「bellSalesAI」中村留精密工業導入 (2026年8月1日掲載)",
+        "source": "ライブドアニュース",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1obmFEUThqaEJBZ3E0RHJYQmYzSW9ucXAzaU1HYUh2bDcxaTN1dFhzN2doWTAycm85c19NeklWQXdZeE0wdnhLZVpCZWZUVG9lRlpmNXY5M29XejNIUmc?oc=5",
+        "publishedAt": "2026-07-31T18:53:05.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,25 @@
     ],
     "localHeadlines": [
       {
+        "time": "20:45",
+        "title": "熊本 10市町の7万2千戸で断水続く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590188?source=rss",
+        "publishedAt": "2026-08-01T11:45:41.000Z"
+      },
+      {
         "time": "16:45",
         "title": "イオンモール熊本の捜索活動終了",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590166?source=rss",
         "publishedAt": "2026-08-01T07:45:20.000Z"
+      },
+      {
+        "time": "20:49",
+        "title": "熊本地震 生き埋めの妻救った夫",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590187?source=rss",
+        "publishedAt": "2026-08-01T11:49:45.000Z"
       },
       {
         "time": "18:54",
@@ -163,11 +177,11 @@
         "publishedAt": "2026-08-01T09:54:51.000Z"
       },
       {
-        "time": "13:47",
-        "title": "死ぬかも がれきに顔が挟まり圧迫",
+        "time": "20:21",
+        "title": "千葉爆発 未明に「ガスくさい」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590139?source=rss",
-        "publishedAt": "2026-08-01T04:47:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590186?source=rss",
+        "publishedAt": "2026-08-01T11:21:47.000Z"
       },
       {
         "time": "19:49",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590182?source=rss",
         "publishedAt": "2026-08-01T10:49:40.000Z"
-      },
-      {
-        "time": "19:26",
-        "title": "川遊びの中学生 流され意識不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590179?source=rss",
-        "publishedAt": "2026-08-01T10:26:24.000Z"
-      },
-      {
-        "time": "16:17",
-        "title": "未明に国道ではねられ 9歳が重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590157?source=rss",
-        "publishedAt": "2026-08-01T07:17:18.000Z"
       }
     ],
     "subsidyHeadlines": [
