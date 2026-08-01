@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-01T03:10:21.008Z",
+  "updatedAt": "2026-08-01T04:39:30.565Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:40",
         "title": "〈工作機械受注〉6月は史上初の2000億円超え､半導体やデータセンター､航空･宇宙向け需要旺盛､国内自動車も底打ち感",
         "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSZ1BrN0hQRlVRcnVhMUtfTXlKa05SVjAyWS1HLW9FdTZVT1kySS1QZmdiU2FiOTROWmZGb1l4MTV5ajNwdHo5SVl0aFowUUYzN3YwdkJOeHJRMXNuVXVN?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jZ0VuUXFMT0RiVHptTkZIak4zYTJDNEJpQ0wxdEVnQlpBTkJTbkw0a3QtN2Y1S0IzVWxqNHhnTlRLMXpNRW91N203M3pJbHNPd3dHMUVJbEFYWEk?oc=5",
         "publishedAt": "2026-07-31T20:40:00.000Z"
       },
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "12:31",
+        "title": "米軍のF35B戦闘機が墜落 米加州",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590130?source=rss",
+        "publishedAt": "2026-08-01T03:31:29.000Z"
+      },
+      {
         "time": "08:23",
         "title": "米 過去最大級のイラン攻撃計画か",
         "source": "Yahoo!ニュース",
@@ -89,13 +96,6 @@
         "publishedAt": "2026-07-30T23:11:30.000Z"
       },
       {
-        "time": "20:26",
-        "title": "露ミサイル落下とポーランド首相",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6589942?source=rss",
-        "publishedAt": "2026-07-30T11:26:24.000Z"
-      },
-      {
         "time": "22:11",
         "title": "韓国軍 米軍無人機を撃墜しかけた",
         "source": "Yahoo!ニュース",
@@ -104,6 +104,13 @@
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "12:58",
+        "title": "日銀の金融政策 利上げ加速が焦点",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590135?source=rss",
+        "publishedAt": "2026-08-01T03:58:01.000Z"
+      },
       {
         "time": "09:31",
         "title": "米財務長官ToDoメモに「円買い」",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590061?source=rss",
         "publishedAt": "2026-07-31T10:24:24.000Z"
-      },
-      {
-        "time": "17:42",
-        "title": "日銀総裁 物価上振れリスクを意識",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590046?source=rss",
-        "publishedAt": "2026-07-31T08:42:47.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-07-31T23:54:22.000Z"
       },
       {
-        "time": "07:34",
-        "title": "熊本9000人超避難 住宅被害1526棟",
+        "time": "12:55",
+        "title": "炎天下 片付け追われる熊本被災者",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590094?source=rss",
-        "publishedAt": "2026-07-31T22:34:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590133?source=rss",
+        "publishedAt": "2026-08-01T03:55:05.000Z"
       },
       {
         "time": "10:48",

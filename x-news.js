@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T03:10:21.713Z",
+  "updatedAt": "2026-08-01T04:39:31.333Z",
   "items": [
     {
-      "time": "11:55",
-      "title": "青森県などで震度4 津波心配なし",
+      "time": "12:55",
+      "title": "炎天下 片付け追われる熊本被災者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590127?source=rss",
-      "publishedAt": "2026-08-01T02:55:55.000Z",
-      "xQuery": "青森県などで震度4 津波心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6590133?source=rss",
+      "publishedAt": "2026-08-01T03:55:05.000Z",
+      "xQuery": "炎天下 片付け追われる熊本被災者"
     },
     {
-      "time": "10:53",
-      "title": "首相 3日に熊本の被災地訪問へ",
+      "time": "11:41",
+      "title": "キオクシアなぜ急成長 背景を解説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590118?source=rss",
-      "publishedAt": "2026-08-01T01:53:01.000Z",
-      "xQuery": "首相 3日に熊本の被災地訪問へ"
+      "url": "https://news.yahoo.co.jp/pickup/6590122?source=rss",
+      "publishedAt": "2026-08-01T02:41:44.000Z",
+      "xQuery": "キオクシアなぜ急成長 背景を解説"
     },
     {
-      "time": "11:12",
-      "title": "市川のマンションで爆発 周辺被害",
+      "time": "11:17",
+      "title": "8月5日 ロケット残骸が月に衝突へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590119?source=rss",
-      "publishedAt": "2026-08-01T02:12:29.000Z",
-      "xQuery": "市川のマンションで爆発 周辺被害"
+      "url": "https://news.yahoo.co.jp/pickup/6590120?source=rss",
+      "publishedAt": "2026-08-01T02:17:24.000Z",
+      "xQuery": "8月5日 ロケット残骸が月に衝突へ"
     },
     {
-      "time": "09:32",
-      "title": "流星群も 8月天体ショー目白押し",
+      "time": "12:08",
+      "title": "TDR「DPA」対象10→16に拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590110?source=rss",
-      "publishedAt": "2026-08-01T00:32:37.000Z",
-      "xQuery": "流星群も 8月天体ショー目白押し"
+      "url": "https://news.yahoo.co.jp/pickup/6590123?source=rss",
+      "publishedAt": "2026-08-01T03:08:02.000Z",
+      "xQuery": "TDR「DPA」対象10→16に拡大"
     },
     {
-      "time": "08:48",
-      "title": "エルニーニョ現象 さらに発達予測",
+      "time": "09:53",
+      "title": "各社投入「夏の福袋」定着する?",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590103?source=rss",
-      "publishedAt": "2026-07-31T23:48:17.000Z",
-      "xQuery": "エルニーニョ現象 さらに発達予測"
+      "url": "https://news.yahoo.co.jp/pickup/6590113?source=rss",
+      "publishedAt": "2026-08-01T00:53:50.000Z",
+      "xQuery": "各社投入「夏の福袋」定着する?"
     }
   ]
 };
