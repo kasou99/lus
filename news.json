@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T18:51:36.273Z",
+  "updatedAt": "2026-08-01T19:29:16.804Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,11 @@
         "publishedAt": "2026-08-01T08:28:24.000Z"
       },
       {
-        "time": "04:24",
-        "title": "プレハブ建築協会、住宅ストック社会構築 新5カ年計画",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15aEtGbWhJMmxLUGIxTXpQenktZ3BOMjEycjNueGM5WmhFTW82N2dmTWt3TFNnTzRwRjRkV3JTMVFPbUdZUFZaYnpvLUZNeFFHWGozcmhTVFZCTEtaM2hRbmluTnhCTkVsZmZYSUlGTWFTXzFq?oc=5",
-        "publishedAt": "2026-07-31T19:24:58.000Z"
-      },
-      {
-        "time": "03:53",
-        "title": "商談記録80％削減へ！ ベルフェイス「bellSalesAI」中村留精密工業導入",
-        "source": "ライブドアニュース",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vRGNpUFhQODc4cjVkMlFTeXBSVVBrZGprT3JZb1NvRC1mdWZSd2JrLUh1aVVVZkNqT3AwbEYwLThXa0xjdF9tNG9yNzRNR01HZEJJNUpid29kUkNpc1hZ?oc=5",
-        "publishedAt": "2026-07-31T18:53:05.000Z"
+        "time": "15:03",
+        "title": "岡山県経済ダイジェスト最新版 岡山経済研究所が発刊",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGNIVE9RRWl0cHNjQ1JYUkJQSWgxZC1YcHBYVTJoY09WWmwtWFllblVMc05uNlEtelE3VkZweTlENnNHZHJEaVRfdVhIX3FOVmVXcl9tM1VIa0JuakZnSml2VTZiWU93eWR6MW96RzV2cEpfMnAyVzhSSDRIeFJYQ1FkV2VYbGJNUTlhS294SGlKZWs?oc=5",
+        "publishedAt": "2026-08-01T06:03:50.000Z"
       },
       {
         "time": "22:44",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590109?source=rss",
         "publishedAt": "2026-08-01T00:31:02.000Z"
+      },
+      {
+        "time": "16:46",
+        "title": "BYDオート社長 EV補助金に見解",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590164?source=rss",
+        "publishedAt": "2026-08-01T07:46:05.000Z"
       }
     ],
     "worldHeadlines": [
