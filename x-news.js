@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T04:39:31.333Z",
+  "updatedAt": "2026-08-01T06:03:04.892Z",
   "items": [
     {
-      "time": "12:55",
-      "title": "炎天下 片付け追われる熊本被災者",
+      "time": "12:58",
+      "title": "日銀の金融政策 利上げ加速が焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590133?source=rss",
-      "publishedAt": "2026-08-01T03:55:05.000Z",
-      "xQuery": "炎天下 片付け追われる熊本被災者"
+      "url": "https://news.yahoo.co.jp/pickup/6590135?source=rss",
+      "publishedAt": "2026-08-01T03:58:01.000Z",
+      "xQuery": "日銀の金融政策 利上げ加速が焦点"
     },
     {
-      "time": "11:41",
-      "title": "キオクシアなぜ急成長 背景を解説",
+      "time": "14:47",
+      "title": "下敷きの高齢者を救う 19歳使命感",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590122?source=rss",
-      "publishedAt": "2026-08-01T02:41:44.000Z",
-      "xQuery": "キオクシアなぜ急成長 背景を解説"
+      "url": "https://news.yahoo.co.jp/pickup/6590149?source=rss",
+      "publishedAt": "2026-08-01T05:47:41.000Z",
+      "xQuery": "下敷きの高齢者を救う 19歳使命感"
     },
     {
-      "time": "11:17",
-      "title": "8月5日 ロケット残骸が月に衝突へ",
+      "time": "13:47",
+      "title": "死ぬかも がれきに顔が挟まり圧迫",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590120?source=rss",
-      "publishedAt": "2026-08-01T02:17:24.000Z",
-      "xQuery": "8月5日 ロケット残骸が月に衝突へ"
+      "url": "https://news.yahoo.co.jp/pickup/6590139?source=rss",
+      "publishedAt": "2026-08-01T04:47:17.000Z",
+      "xQuery": "死ぬかも がれきに顔が挟まり圧迫"
     },
     {
-      "time": "12:08",
-      "title": "TDR「DPA」対象10→16に拡大",
+      "time": "13:40",
+      "title": "「マイナ保険証」8/1から完全移行",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590123?source=rss",
-      "publishedAt": "2026-08-01T03:08:02.000Z",
-      "xQuery": "TDR「DPA」対象10→16に拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6590140?source=rss",
+      "publishedAt": "2026-08-01T04:40:50.000Z",
+      "xQuery": "「マイナ保険証」8/1から完全移行"
     },
     {
-      "time": "09:53",
-      "title": "各社投入「夏の福袋」定着する?",
+      "time": "12:27",
+      "title": "26歳で早発閉経 出産を諦めた決断",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590113?source=rss",
-      "publishedAt": "2026-08-01T00:53:50.000Z",
-      "xQuery": "各社投入「夏の福袋」定着する?"
+      "url": "https://news.yahoo.co.jp/pickup/6590124?source=rss",
+      "publishedAt": "2026-08-01T03:27:58.000Z",
+      "xQuery": "26歳で早発閉経 出産を諦めた決断"
     }
   ]
 };
