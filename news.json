@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-01T15:53:10.947Z",
+  "updatedAt": "2026-08-01T16:24:58.671Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "21:20",
         "title": "【日本株】AI相場の次なる主役｢フィジカルAI｣の本命株を紹介！ 工作機械大手で業績が急回復中の｢DMG森精機｣と、エヌビディアと提携の｢ファナック｣に注目！（ダイヤモンド・ザイ）",
-        "source": "news.yahoo.co.jp",
+        "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3dFE4WkpZeWVCTms1bDdqQjNnU2NER0FzczZiVldmb044RzlrWWJHNWJCT1lyZlZsLTlQRk9GWHd0c2RITmI0Rmg3Q2Q4Y05IQXd1Q0w4clhFTEM3dGhTTDUyd1dKMU1JZ0luYW5BcnVLSDJyTUdXX0xNZWJqSWM?oc=5",
         "publishedAt": "2026-08-01T12:20:28.000Z"
       },
@@ -19,23 +19,16 @@
       {
         "time": "17:28",
         "title": "MUSE、自律移動ロボ実証 都内薬局5店で来月",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZmhfcy1ZdnhCQ2l1LVdicG5kZzZmYlV3a2dqM1dmanROUlZwRGU4ZGxCTFYxTklRemhRWWpQVXVVUF8tTDhQbE9kMWNQZlZWTzU2dTdRbUVwMFBJdGh4SEVrQnRxZGJyZktXZVdrT3BLZzZ1?oc=5",
         "publishedAt": "2026-08-01T08:28:24.000Z"
       },
       {
         "time": "04:24",
         "title": "プレハブ建築協会、住宅ストック社会構築 新5カ年計画",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15aEtGbWhJMmxLUGIxTXpQenktZ3BOMjEycjNueGM5WmhFTW82N2dmTWt3TFNnTzRwRjRkV3JTMVFPbUdZUFZaYnpvLUZNeFFHWGozcmhTVFZCTEtaM2hRbmluTnhCTkVsZmZYSUlGTWFTXzFq?oc=5",
         "publishedAt": "2026-07-31T19:24:58.000Z"
-      },
-      {
-        "time": "03:31",
-        "title": "インタビュー／経済産業省製造産業局産業機械課長・須賀千鶴氏 製造AX拠点をDXインフラに",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQWEhJWTV6eE9naG91enNaM2EteUhhYlM3Vk5hYm95b0dNT0xMclBTX0JJNHhOVjA5R1UzS2RKUzZJZEpYYnVEeTNVN28yb0xncDVkRzU5Sk9XeTNmcUV3WVpidEtmQUpoMXZEM29La3pYelgtdHNhd2N0N3pqS1BvbHdzTnJyd21rOERJWkk0VXFad1V0TktralBzaGI5SUR6Rm9QUUk1UENZN0gybElTLXN1QlJUWFdIQ2xKSEdENW5nZTIzaGRfNllWY09OQldpNV9ISTJiTjdhWGtfTUtwTU12VmxaQ2xtX1V1Y0dzekhqX19Kc0ZUNnVEalhBbTdNR2k1amZPeFFEVWJ1Z1A4NEhEXzNiak5yaktHMEhNdkxNVUNlVWFoOTFfYXZFd1Z6am9PVlpPNTJ5WkpXNm03YlRaQ3RtdEVQMDFIRnJsTFo5RC1iOXQxbGhDS2FSY19jc3lUdEdEa1I3em9DLWNuVjZJYnJYQnp4UHc?oc=5",
-        "publishedAt": "2026-07-31T18:31:43.000Z"
       },
       {
         "time": "02:37",
@@ -43,6 +36,13 @@
         "source": "朝日新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmQVlWWUwwZGxEOGI1Z2x3QjN0X3RLTURRNG8xNTFwUXRYNXBqbURPTVRVMk1Ed3RpR1N0OC10TllrUGhlb1dPdWJJbjNjUkJGU1lvV1Q2MHBpbU0?oc=5",
         "publishedAt": "2026-07-31T17:37:56.000Z"
+      },
+      {
+        "time": "03:31",
+        "title": "インタビュー／経済産業省製造産業局産業機械課長・須賀千鶴氏 製造AX拠点をDXインフラに",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQWEhJWTV6eE9naG91enNaM2EteUhhYlM3Vk5hYm95b0dNT0xMclBTX0JJNHhOVjA5R1UzS2RKUzZJZEpYYnVEeTNVN28yb0xncDVkRzU5Sk9XeTNmcUV3WVpidEtmQUpoMXZEM29La3pYelgtdHNhd2N0N3pqS1BvbHdzTnJyd21rOERJWkk0VXFad1V0TktralBzaGI5SUR6Rm9QUUk1UENZN0gybElTLXN1QlJUWFdIQ2xKSEdENW5nZTIzaGRfNllWY09OQldpNV9ISTJiTjdhWGtfTUtwTU12VmxaQ2xtX1V1Y0dzekhqX19Kc0ZUNnVEalhBbTdNR2k1amZPeFFEVWJ1Z1A4NEhEXzNiak5yaktHMEhNdkxNVUNlVWFoOTFfYXZFd1Z6am9PVlpPNTJ5WkpXNm03YlRaQ3RtdEVQMDFIRnJsTFo5RC1iOXQxbGhDS2FSY19jc3lUdEdEa1I3em9DLWNuVjZJYnJYQnp4UHc?oc=5",
+        "publishedAt": "2026-07-31T18:31:43.000Z"
       },
       {
         "time": "02:44",
