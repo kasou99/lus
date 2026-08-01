@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T12:56:06.969Z",
+  "updatedAt": "2026-08-01T13:34:33.654Z",
   "items": [
     {
-      "time": "21:50",
-      "title": "地震情報",
+      "time": "21:56",
+      "title": "熊本で最大震度5弱 津波心配なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590128?source=rss",
-      "publishedAt": "2026-08-01T12:50:27.000Z",
-      "xQuery": "地震情報"
+      "url": "https://news.yahoo.co.jp/pickup/6590191?source=rss",
+      "publishedAt": "2026-08-01T12:56:00.000Z",
+      "xQuery": "熊本で最大震度5弱 津波心配なし"
+    },
+    {
+      "time": "21:47",
+      "title": "猛暑日予想 週明け熊本は40℃恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590190?source=rss",
+      "publishedAt": "2026-08-01T12:47:46.000Z",
+      "xQuery": "猛暑日予想 週明け熊本は40℃恐れ"
     },
     {
       "time": "19:31",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590181?source=rss",
       "publishedAt": "2026-08-01T10:31:28.000Z",
       "xQuery": "避難者2200人規模受け入れへ 調整"
-    },
-    {
-      "time": "20:49",
-      "title": "熊本地震 生き埋めの妻救った夫",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590187?source=rss",
-      "publishedAt": "2026-08-01T11:49:45.000Z",
-      "xQuery": "熊本地震 生き埋めの妻救った夫"
     },
     {
       "time": "21:22",
