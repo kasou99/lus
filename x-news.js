@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T08:19:06.926Z",
+  "updatedAt": "2026-08-01T09:15:20.172Z",
   "items": [
     {
       "time": "16:45",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオンモール熊本の捜索活動終了"
     },
     {
+      "time": "15:51",
+      "title": "熊本地震で家失う 診療続ける医師",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590154?source=rss",
+      "publishedAt": "2026-08-01T06:51:02.000Z",
+      "xQuery": "熊本地震で家失う 診療続ける医師"
+    },
+    {
       "time": "16:31",
       "title": "東海や西日本2日以降も危険な暑さ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590162?source=rss",
       "publishedAt": "2026-08-01T07:31:18.000Z",
       "xQuery": "東海や西日本2日以降も危険な暑さ"
-    },
-    {
-      "time": "14:47",
-      "title": "下敷きの高齢者を救う 19歳使命感",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590149?source=rss",
-      "publishedAt": "2026-08-01T05:47:41.000Z",
-      "xQuery": "下敷きの高齢者を救う 19歳使命感"
     },
     {
       "time": "16:17",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "未明に国道ではねられ 9歳が重体"
     },
     {
-      "time": "12:27",
-      "title": "26歳で早発閉経 出産を諦めた決断",
+      "time": "16:57",
+      "title": "男児がいじめ被害 重大事態に認定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590124?source=rss",
-      "publishedAt": "2026-08-01T03:27:58.000Z",
-      "xQuery": "26歳で早発閉経 出産を諦めた決断"
+      "url": "https://news.yahoo.co.jp/pickup/6590165?source=rss",
+      "publishedAt": "2026-08-01T07:57:40.000Z",
+      "xQuery": "男児がいじめ被害 重大事態に認定"
     }
   ]
 };
