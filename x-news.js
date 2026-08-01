@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T00:50:02.218Z",
+  "updatedAt": "2026-08-01T01:40:35.363Z",
   "items": [
     {
-      "time": "08:54",
-      "title": "熊本地震で断水 一部は長期化恐れ",
+      "time": "07:50",
+      "title": "国家情報局が発足 縦割り打破狙う",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590104?source=rss",
-      "publishedAt": "2026-07-31T23:54:22.000Z",
-      "xQuery": "熊本地震で断水 一部は長期化恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6590097?source=rss",
+      "publishedAt": "2026-07-31T22:50:32.000Z",
+      "xQuery": "国家情報局が発足 縦割り打破狙う"
     },
     {
       "time": "08:23",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米 過去最大級のイラン攻撃計画か"
     },
     {
-      "time": "07:51",
-      "title": "高額療養費 負担上限が最大7%増",
+      "time": "09:50",
+      "title": "熊本地震で犬逃げ出す 飼い主再会",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590096?source=rss",
-      "publishedAt": "2026-07-31T22:51:31.000Z",
-      "xQuery": "高額療養費 負担上限が最大7%増"
+      "url": "https://news.yahoo.co.jp/pickup/6590112?source=rss",
+      "publishedAt": "2026-08-01T00:50:58.000Z",
+      "xQuery": "熊本地震で犬逃げ出す 飼い主再会"
     },
     {
       "time": "09:31",
