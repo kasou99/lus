@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T09:15:20.172Z",
+  "updatedAt": "2026-08-01T10:10:29.959Z",
   "items": [
+    {
+      "time": "17:31",
+      "title": "ロシアがウ首都を空爆 9人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590168?source=rss",
+      "publishedAt": "2026-08-01T08:31:12.000Z",
+      "xQuery": "ロシアがウ首都を空爆 9人死亡"
+    },
     {
       "time": "16:45",
       "title": "イオンモール熊本の捜索活動終了",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590166?source=rss",
       "publishedAt": "2026-08-01T07:45:20.000Z",
       "xQuery": "イオンモール熊本の捜索活動終了"
-    },
-    {
-      "time": "15:51",
-      "title": "熊本地震で家失う 診療続ける医師",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590154?source=rss",
-      "publishedAt": "2026-08-01T06:51:02.000Z",
-      "xQuery": "熊本地震で家失う 診療続ける医師"
     },
     {
       "time": "16:31",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "東海や西日本2日以降も危険な暑さ"
     },
     {
-      "time": "16:17",
-      "title": "未明に国道ではねられ 9歳が重体",
+      "time": "18:54",
+      "title": "ベトナム人5人がれきから女性救出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590157?source=rss",
-      "publishedAt": "2026-08-01T07:17:18.000Z",
-      "xQuery": "未明に国道ではねられ 9歳が重体"
+      "url": "https://news.yahoo.co.jp/pickup/6590175?source=rss",
+      "publishedAt": "2026-08-01T09:54:51.000Z",
+      "xQuery": "ベトナム人5人がれきから女性救出"
     },
     {
-      "time": "16:57",
-      "title": "男児がいじめ被害 重大事態に認定",
+      "time": "16:46",
+      "title": "BYDオート社長 EV補助金に見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590165?source=rss",
-      "publishedAt": "2026-08-01T07:57:40.000Z",
-      "xQuery": "男児がいじめ被害 重大事態に認定"
+      "url": "https://news.yahoo.co.jp/pickup/6590164?source=rss",
+      "publishedAt": "2026-08-01T07:46:05.000Z",
+      "xQuery": "BYDオート社長 EV補助金に見解"
     }
   ]
 };
