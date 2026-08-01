@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-01T22:49:51.563Z",
+  "updatedAt": "2026-08-01T23:22:52.036Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "21:20",
         "title": "【日本株】AI相場の次なる主役｢フィジカルAI｣の本命株を紹介！ 工作機械大手で業績が急回復中の｢DMG森精機｣と、エヌビディアと提携の｢ファナック｣に注目！（ダイヤモンド・ザイ）",
-        "source": "Yahoo!ニュース",
+        "source": "news.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3dFE4WkpZeWVCTms1bDdqQjNnU2NER0FzczZiVldmb044RzlrWWJHNWJCT1lyZlZsLTlQRk9GWHd0c2RITmI0Rmg3Q2Q4Y05IQXd1Q0w4clhFTEM3dGhTTDUyd1dKMU1JZ0luYW5BcnVLSDJyTUdXX0xNZWJqSWM?oc=5",
         "publishedAt": "2026-08-01T12:20:28.000Z"
       },
@@ -15,13 +15,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZmhfcy1ZdnhCQ2l1LVdicG5kZzZmYlV3a2dqM1dmanROUlZwRGU4ZGxCTFYxTklRemhRWWpQVXVVUF8tTDhQbE9kMWNQZlZWTzU2dTdRbUVwMFBJdGh4SEVrQnRxZGJyZktXZVdrT3BLZzZ1?oc=5",
         "publishedAt": "2026-08-01T08:28:24.000Z"
-      },
-      {
-        "time": "15:03",
-        "title": "岡山県経済ダイジェスト最新版 岡山経済研究所が発刊",
-        "source": "sanyonews.jp",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGNIVE9RRWl0cHNjQ1JYUkJQSWgxZC1YcHBYVTJoY09WWmwtWFllblVMc05uNlEtelE3VkZweTlENnNHZHJEaVRfdVhIX3FOVmVXcl9tM1VIa0JuakZnSml2VTZiWU93eWR6MW96RzV2cEpfMnAyVzhSSDRIeFJYQ1FkV2VYbGJNUTlhS294SGlKZWs?oc=5",
-        "publishedAt": "2026-08-01T06:03:50.000Z"
       },
       {
         "time": "07:28",
@@ -57,9 +50,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590122?source=rss",
         "publishedAt": "2026-08-01T02:41:44.000Z"
+      },
+      {
+        "time": "12:08",
+        "title": "TDR「DPA」対象10→16に拡大",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590123?source=rss",
+        "publishedAt": "2026-08-01T03:08:02.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:50",
+        "title": "モスクワで店爆発3人死亡 テロか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590208?source=rss",
+        "publishedAt": "2026-08-01T22:50:17.000Z"
+      },
       {
         "time": "12:31",
         "title": "米軍のF35B戦闘機が墜落 米加州",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590168?source=rss",
         "publishedAt": "2026-08-01T08:31:12.000Z"
-      },
-      {
-        "time": "22:11",
-        "title": "韓国軍 米軍無人機を撃墜しかけた",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590079?source=rss",
-        "publishedAt": "2026-07-31T13:11:14.000Z"
       },
       {
         "time": "14:35",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "20:45",
-        "title": "熊本 10市町の7万2千戸で断水続く",
+        "time": "08:14",
+        "title": "地震住宅被害3649棟 前日の2倍超",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590188?source=rss",
-        "publishedAt": "2026-08-01T11:45:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590213?source=rss",
+        "publishedAt": "2026-08-01T23:14:07.000Z"
       },
       {
         "time": "16:45",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-08-01T09:54:51.000Z"
       },
       {
+        "time": "08:05",
+        "title": "帰省中に行方不明の2歳 山で発見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590212?source=rss",
+        "publishedAt": "2026-08-01T23:05:19.000Z"
+      },
+      {
         "time": "07:33",
         "title": "シジミ採り中に溺れたか 男性死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590205?source=rss",
         "publishedAt": "2026-08-01T22:33:15.000Z"
-      },
-      {
-        "time": "20:21",
-        "title": "千葉爆発 未明に「ガスくさい」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590186?source=rss",
-        "publishedAt": "2026-08-01T11:21:47.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,15 +218,15 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
         "time": "16:00",
-        "title": "防犯対策・防犯カメラ設置の補助金・助成金2026｜個人向けの申請方法と全国の制度を解説",
-        "source": "補助金ポータル",
+        "title": "防犯対策・防犯カメラ設置の補助金・助成金2026｜個人向けの申請方法と全国の制度を解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFVFV1MEdRM3YwbDdWaHRFenRXbzNHcXMtN3hkckN0dk9DOXlyZnA4RllKTTI2VmNiVU5pUjJmZ0xOUXJWQ29TWlhfTlYxQzBabGlZWTJ6Q012NTg?oc=5",
         "publishedAt": "2026-07-24T07:00:00.000Z"
       }

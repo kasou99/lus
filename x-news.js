@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T22:49:52.334Z",
+  "updatedAt": "2026-08-01T23:22:52.593Z",
   "items": [
+    {
+      "time": "08:14",
+      "title": "地震住宅被害3649棟 前日の2倍超",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590213?source=rss",
+      "publishedAt": "2026-08-01T23:14:07.000Z",
+      "xQuery": "地震住宅被害3649棟 前日の2倍超"
+    },
     {
       "time": "07:28",
       "title": "日米が協調為替介入 15年ぶり",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日米が協調為替介入 15年ぶり"
     },
     {
-      "time": "21:47",
-      "title": "猛暑日予想 週明け熊本は40℃恐れ",
+      "time": "08:05",
+      "title": "帰省中に行方不明の2歳 山で発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590190?source=rss",
-      "publishedAt": "2026-08-01T12:47:46.000Z",
-      "xQuery": "猛暑日予想 週明け熊本は40℃恐れ"
-    },
-    {
-      "time": "23:03",
-      "title": "り災証明の申請 片付け前に撮影を",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590195?source=rss",
-      "publishedAt": "2026-08-01T14:03:13.000Z",
-      "xQuery": "り災証明の申請 片付け前に撮影を"
+      "url": "https://news.yahoo.co.jp/pickup/6590212?source=rss",
+      "publishedAt": "2026-08-01T23:05:19.000Z",
+      "xQuery": "帰省中に行方不明の2歳 山で発見"
     },
     {
       "time": "07:33",
