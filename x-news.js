@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T14:34:48.651Z",
+  "updatedAt": "2026-08-01T15:27:07.263Z",
   "items": [
     {
       "time": "21:47",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "猛暑日予想 週明け熊本は40℃恐れ"
     },
     {
-      "time": "21:22",
-      "title": "石破氏 財源示さない減税は無責任",
+      "time": "23:03",
+      "title": "り災証明の申請 片付け前に撮影を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590189?source=rss",
-      "publishedAt": "2026-08-01T12:22:42.000Z",
-      "xQuery": "石破氏 財源示さない減税は無責任"
+      "url": "https://news.yahoo.co.jp/pickup/6590195?source=rss",
+      "publishedAt": "2026-08-01T14:03:13.000Z",
+      "xQuery": "り災証明の申請 片付け前に撮影を"
     },
     {
       "time": "22:44",
