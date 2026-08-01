@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T13:34:32.707Z",
+  "updatedAt": "2026-08-01T14:34:47.790Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-31T18:31:43.000Z"
       },
       {
-        "time": "15:03",
-        "title": "岡山県経済ダイジェスト最新版 岡山経済研究所が発刊",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGNIVE9RRWl0cHNjQ1JYUkJQSWgxZC1YcHBYVTJoY09WWmwtWFllblVMc05uNlEtelE3VkZweTlENnNHZHJEaVRfdVhIX3FOVmVXcl9tM1VIa0JuakZnSml2VTZiWU93eWR6MW96RzV2cEpfMnAyVzhSSDRIeFJYQ1FkV2VYbGJNUTlhS294SGlKZWs?oc=5",
-        "publishedAt": "2026-08-01T06:03:50.000Z"
-      },
-      {
         "time": "02:37",
         "title": "飲料工場の暑熱対策としてSPACECOOLルーフシェードを採用 屋根表面温度を25.6℃低減、飲料業界の労働環境改善と省エネに貢献",
         "source": "朝日新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmQVlWWUwwZGxEOGI1Z2x3QjN0X3RLTURRNG8xNTFwUXRYNXBqbURPTVRVMk1Ed3RpR1N0OC10TllrUGhlb1dPdWJJbjNjUkJGU1lvV1Q2MHBpbU0?oc=5",
         "publishedAt": "2026-07-31T17:37:56.000Z"
+      },
+      {
+        "time": "02:44",
+        "title": "商談記録の入力時間を80％削減！ ベルフェイス「bellSalesAI」",
+        "source": "ライブドアニュース",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81YmVVd2pNODVzQU00RkpYQ2ktaDU2ZjdpYllGY25xU2V6RWJYblgyR2dlLTl3QUt4a3hGaHp3RXZwYzRkUlk3SmsyNlF2MUJXWFpReUZDYmZQcnlkbGNj?oc=5",
+        "publishedAt": "2026-07-31T17:44:05.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "22:44",
+        "title": "日米両政府 円安是正の方針表明へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590196?source=rss",
+        "publishedAt": "2026-08-01T13:44:35.000Z"
+      },
+      {
         "time": "12:58",
         "title": "日銀の金融政策 利上げ加速が焦点",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590109?source=rss",
         "publishedAt": "2026-08-01T00:31:02.000Z"
-      },
-      {
-        "time": "18:25",
-        "title": "北海道エアシステム 機体トラブル",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590172?source=rss",
-        "publishedAt": "2026-08-01T09:25:28.000Z"
       },
       {
         "time": "16:46",

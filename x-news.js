@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T13:34:33.654Z",
+  "updatedAt": "2026-08-01T14:34:48.651Z",
   "items": [
-    {
-      "time": "21:56",
-      "title": "熊本で最大震度5弱 津波心配なし",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590191?source=rss",
-      "publishedAt": "2026-08-01T12:56:00.000Z",
-      "xQuery": "熊本で最大震度5弱 津波心配なし"
-    },
     {
       "time": "21:47",
       "title": "猛暑日予想 週明け熊本は40℃恐れ",
@@ -16,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590190?source=rss",
       "publishedAt": "2026-08-01T12:47:46.000Z",
       "xQuery": "猛暑日予想 週明け熊本は40℃恐れ"
-    },
-    {
-      "time": "19:31",
-      "title": "避難者2200人規模受け入れへ 調整",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590181?source=rss",
-      "publishedAt": "2026-08-01T10:31:28.000Z",
-      "xQuery": "避難者2200人規模受け入れへ 調整"
     },
     {
       "time": "21:22",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "石破氏 財源示さない減税は無責任"
     },
     {
+      "time": "22:44",
+      "title": "日米両政府 円安是正の方針表明へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590196?source=rss",
+      "publishedAt": "2026-08-01T13:44:35.000Z",
+      "xQuery": "日米両政府 円安是正の方針表明へ"
+    },
+    {
       "time": "19:49",
       "title": "2歳が行方不明 祖母の家に帰省中",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590182?source=rss",
       "publishedAt": "2026-08-01T10:49:40.000Z",
       "xQuery": "2歳が行方不明 祖母の家に帰省中"
+    },
+    {
+      "time": "22:22",
+      "title": "著名登山家死亡 パキスタンで雪崩",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590194?source=rss",
+      "publishedAt": "2026-08-01T13:22:35.000Z",
+      "xQuery": "著名登山家死亡 パキスタンで雪崩"
     }
   ]
 };
