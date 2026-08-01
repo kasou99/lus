@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T23:51:01.926Z",
+  "updatedAt": "2026-08-01T00:50:01.171Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-31T08:51:00.000Z"
       },
       {
-        "time": "19:21",
-        "title": "牧野フライス、買収提案拒否 ＮＳＳＫから、外為法で懸念｜全国のニュース｜Web東奥",
-        "source": "東奥日報社",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55S0FKRkNfaC1ldGVzdmRhczlMOUwyanpNV0dCdW03T2ZzRHk0aE8xWk5xbWRnQmFvUlllSmJ3cXl0Z2lzdnBlQ2ctS2k1VTF1M2hnaWhhVXA?oc=5",
-        "publishedAt": "2026-07-31T10:21:29.000Z"
+        "time": "00:09",
+        "title": "プレハブ建築協会、住宅ストック社会構築 新5カ年計画",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BcEJHZnY5U3BjdDByejVMLWY4TUQtSTVFM05fdm41UExKWGJyTlcya0dpcDFTb01PdFBkNFBwZmd6WnA3Z0h3RkhwSUxab0VQV3pNWGRMeGxjNHM?oc=5",
+        "publishedAt": "2026-07-31T15:09:53.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,20 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:31",
+        "title": "米財務長官ToDoメモに「円買い」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590109?source=rss",
+        "publishedAt": "2026-08-01T00:31:02.000Z"
+      },
+      {
+        "time": "08:29",
+        "title": "円が急伸 2日連続の為替介入か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590101?source=rss",
+        "publishedAt": "2026-07-31T23:29:06.000Z"
+      },
+      {
         "time": "19:19",
         "title": "新幹線 熊本-新水俣の8月再開困難",
         "source": "Yahoo!ニュース",
@@ -117,20 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6589999?source=rss",
         "publishedAt": "2026-07-31T02:22:07.000Z"
-      },
-      {
-        "time": "08:29",
-        "title": "円が急伸 2日連続の為替介入か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590101?source=rss",
-        "publishedAt": "2026-07-31T23:29:06.000Z"
-      },
-      {
-        "time": "11:48",
-        "title": "東海汽船に事業停止命令へ 国交省",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590004?source=rss",
-        "publishedAt": "2026-07-31T02:48:29.000Z"
       },
       {
         "time": "19:24",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:54",
+        "title": "熊本地震で断水 一部は長期化恐れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590104?source=rss",
+        "publishedAt": "2026-07-31T23:54:22.000Z"
+      },
+      {
         "time": "07:34",
         "title": "熊本9000人超避難 住宅被害1526棟",
         "source": "Yahoo!ニュース",
@@ -163,11 +170,11 @@
         "publishedAt": "2026-07-31T11:46:47.000Z"
       },
       {
-        "time": "20:02",
-        "title": "イオンモール宇城 下敷き男性救助",
+        "time": "08:51",
+        "title": "市川のマンションで爆発か2人搬送",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590066?source=rss",
-        "publishedAt": "2026-07-31T11:02:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590105?source=rss",
+        "publishedAt": "2026-07-31T23:51:03.000Z"
       },
       {
         "time": "23:09",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590087?source=rss",
         "publishedAt": "2026-07-31T14:45:41.000Z"
-      },
-      {
-        "time": "22:02",
-        "title": "死亡生徒 辺野古コースの変更希望",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590077?source=rss",
-        "publishedAt": "2026-07-31T13:02:45.000Z"
       }
     ],
     "subsidyHeadlines": [

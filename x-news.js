@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-07-31T23:51:02.454Z",
+  "updatedAt": "2026-08-01T00:50:02.218Z",
   "items": [
     {
-      "time": "07:34",
-      "title": "熊本9000人超避難 住宅被害1526棟",
+      "time": "08:54",
+      "title": "熊本地震で断水 一部は長期化恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590094?source=rss",
-      "publishedAt": "2026-07-31T22:34:04.000Z",
-      "xQuery": "熊本9000人超避難 住宅被害1526棟"
+      "url": "https://news.yahoo.co.jp/pickup/6590104?source=rss",
+      "publishedAt": "2026-07-31T23:54:22.000Z",
+      "xQuery": "熊本地震で断水 一部は長期化恐れ"
     },
     {
-      "time": "07:34",
-      "title": "九州-関東危険な暑さ 熱中症警戒",
+      "time": "08:23",
+      "title": "米 過去最大級のイラン攻撃計画か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590093?source=rss",
-      "publishedAt": "2026-07-31T22:34:16.000Z",
-      "xQuery": "九州-関東危険な暑さ 熱中症警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6590099?source=rss",
+      "publishedAt": "2026-07-31T23:23:37.000Z",
+      "xQuery": "米 過去最大級のイラン攻撃計画か"
     },
     {
-      "time": "08:29",
-      "title": "円が急伸 2日連続の為替介入か",
+      "time": "07:51",
+      "title": "高額療養費 負担上限が最大7%増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590101?source=rss",
-      "publishedAt": "2026-07-31T23:29:06.000Z",
-      "xQuery": "円が急伸 2日連続の為替介入か"
+      "url": "https://news.yahoo.co.jp/pickup/6590096?source=rss",
+      "publishedAt": "2026-07-31T22:51:31.000Z",
+      "xQuery": "高額療養費 負担上限が最大7%増"
     },
     {
-      "time": "07:32",
-      "title": "スペイン飛び地不法移民 大半帰還",
+      "time": "09:31",
+      "title": "米財務長官ToDoメモに「円買い」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590092?source=rss",
-      "publishedAt": "2026-07-31T22:32:55.000Z",
-      "xQuery": "スペイン飛び地不法移民 大半帰還"
+      "url": "https://news.yahoo.co.jp/pickup/6590109?source=rss",
+      "publishedAt": "2026-08-01T00:31:02.000Z",
+      "xQuery": "米財務長官ToDoメモに「円買い」"
     },
     {
-      "time": "07:13",
-      "title": "三笘薫選手の人身事故 不起訴処分",
+      "time": "08:51",
+      "title": "市川のマンションで爆発か2人搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590089?source=rss",
-      "publishedAt": "2026-07-31T22:13:36.000Z",
-      "xQuery": "三笘薫選手の人身事故 不起訴処分"
+      "url": "https://news.yahoo.co.jp/pickup/6590105?source=rss",
+      "publishedAt": "2026-07-31T23:51:03.000Z",
+      "xQuery": "市川のマンションで爆発か2人搬送"
     }
   ]
 };
