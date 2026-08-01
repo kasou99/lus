@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-08-01T10:10:29.188Z",
+  "updatedAt": "2026-08-01T11:01:37.986Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:40",
         "title": "〈工作機械受注〉6月は史上初の2000億円超え､半導体やデータセンター､航空･宇宙向け需要旺盛､国内自動車も底打ち感",
         "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jZ0VuUXFMT0RiVHptTkZIak4zYTJDNEJpQ0wxdEVnQlpBTkJTbkw0a3QtN2Y1S0IzVWxqNHhnTlRLMXpNRW91N203M3pJbHNPd3dHMUVJbEFYWEk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83U09mUVNSSlNEZ2M2OWl1SC1OdlVQcVkxNDA4WjNscldyb2hsTnUxNEtxMVBwYS1MZXA0enFkbEF3bTNBbzFkVTVnYkhEZzVSZ0ZtT2FfZTJRWFU?oc=5",
         "publishedAt": "2026-07-31T20:40:00.000Z"
-      },
-      {
-        "time": "08:00",
-        "title": "【日本株】AI相場の次なる主役｢フィジカルAI｣の本命株を紹介！ 工作機械大手で業績が急回復中の｢DMG森精機｣と、エヌビディアと提携の｢ファナック｣に注目！",
-        "source": "ダイヤモンド・オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91eDI4Y2VybUVidXpJdlRIOHNCR0NaemszWmQybllMeUJrc1lSMkc3MUprcnByVkRiS1ZaSDU2MEg3YkdKa3ZpSmo1aTJiUFRWZ2hB?oc=5",
-        "publishedAt": "2026-07-31T23:00:00.000Z"
       },
       {
         "time": "17:28",
@@ -24,6 +17,13 @@
         "publishedAt": "2026-08-01T08:28:24.000Z"
       },
       {
+        "time": "08:00",
+        "title": "【日本株】AI相場の次なる主役｢フィジカルAI｣の本命株を紹介！ 工作機械大手で業績が急回復中の｢DMG森精機｣と、エヌビディアと提携の｢ファナック｣に注目！",
+        "source": "ダイヤモンド・オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91eDI4Y2VybUVidXpJdlRIOHNCR0NaemszWmQybllMeUJrc1lSMkc3MUprcnByVkRiS1ZaSDU2MEg3YkdKa3ZpSmo1aTJiUFRWZ2hB?oc=5",
+        "publishedAt": "2026-07-31T23:00:00.000Z"
+      },
+      {
         "time": "00:32",
         "title": "牧野フライス、ＮＳＳＫの買収計画に応じない意向…海外投資家からの資金調達「実現可能性に懸念」",
         "source": "ｄメニューニュース",
@@ -31,11 +31,11 @@
         "publishedAt": "2026-07-31T15:32:00.000Z"
       },
       {
-        "time": "19:21",
-        "title": "牧野フライス、買収提案拒否 ＮＳＳＫから、外為法で懸念｜全国の記事｜京都新聞 ON BUSINESS",
-        "source": "京都新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBacmlvM2pNMldkWjdqV2RFakllbEpsTW4zWlNGTVZWSUJsZWV1ckthcm9iQmZabllWQ3Y4MXY4azc3RjIzZmREWGdsNHpOQ3czc0lHTXFvRHY5WTA?oc=5",
-        "publishedAt": "2026-07-31T10:21:33.000Z"
+        "time": "02:37",
+        "title": "飲料工場の暑熱対策としてSPACECOOLルーフシェードを採用 屋根表面温度を25.6℃低減、飲料業界の労働環境改善と省エネに貢献",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmQVlWWUwwZGxEOGI1Z2x3QjN0X3RLTURRNG8xNTFwUXRYNXBqbURPTVRVMk1Ed3RpR1N0OC10TllrUGhlb1dPdWJJbjNjUkJGU1lvV1Q2MHBpbU0?oc=5",
+        "publishedAt": "2026-07-31T17:37:56.000Z"
       },
       {
         "time": "04:24",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-07-31T19:24:58.000Z"
       },
       {
-        "time": "19:22",
-        "title": "牧野フライス、買収提案拒否 NSSKから、外為法で懸念",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYaDhFakRFYnpxUzZacm9LeWxoLU1pc0ZMQ3RqTjFTNHQ1eUhZejhoUm5EeHdfemlpLTYyWUVBcjV2S1pENnhaMFkxY1U1d0RFTGo2emU3TFltV2k1eVczcmtEMjlLMGpyTlFvUFRYbkM?oc=5",
-        "publishedAt": "2026-07-31T10:22:00.000Z"
-      },
-      {
         "time": "03:31",
         "title": "インタビュー／経済産業省製造産業局産業機械課長・須賀千鶴氏 製造AX拠点をDXインフラに",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQWEhJWTV6eE9naG91enNaM2EteUhhYlM3Vk5hYm95b0dNT0xMclBTX0JJNHhOVjA5R1UzS2RKUzZJZEpYYnVEeTNVN28yb0xncDVkRzU5Sk9XeTNmcUV3WVpidEtmQUpoMXZEM29La3pYelgtdHNhd2N0N3pqS1BvbHdzTnJyd21rOERJWkk0VXFad1V0TktralBzaGI5SUR6Rm9QUUk1UENZN0gybElTLXN1QlJUWFdIQ2xKSEdENW5nZTIzaGRfNllWY09OQldpNV9ISTJiTjdhWGtfTUtwTU12VmxaQ2xtX1V1Y0dzekhqX19Kc0ZUNnVEalhBbTdNR2k1amZPeFFEVWJ1Z1A4NEhEXzNiak5yaktHMEhNdkxNVUNlVWFoOTFfYXZFd1Z6am9PVlpPNTJ5WkpXNm03YlRaQ3RtdEVQMDFIRnJsTFo5RC1iOXQxbGhDS2FSY19jc3lUdEdEa1I3em9DLWNuVjZJYnJYQnp4UHc?oc=5",
         "publishedAt": "2026-07-31T18:31:43.000Z"
+      },
+      {
+        "time": "02:44",
+        "title": "商談記録の入力時間を80％削減！ ベルフェイス「bellSalesAI」",
+        "source": "news.livedoor.com",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81YmVVd2pNODVzQU00RkpYQ2ktaDU2ZjdpYllGY25xU2V6RWJYblgyR2dlLTl3QUt4a3hGaHp3RXZwYzRkUlk3SmsyNlF2MUJXWFpReUZDYmZQcnlkbGNj?oc=5",
+        "publishedAt": "2026-07-31T17:44:05.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-08-01T07:45:20.000Z"
       },
       {
-        "time": "15:51",
-        "title": "熊本地震で家失う 診療続ける医師",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590154?source=rss",
-        "publishedAt": "2026-08-01T06:51:02.000Z"
-      },
-      {
         "time": "18:54",
         "title": "ベトナム人5人がれきから女性救出",
         "source": "Yahoo!ニュース",
@@ -170,18 +163,25 @@
         "publishedAt": "2026-08-01T09:54:51.000Z"
       },
       {
-        "time": "14:47",
-        "title": "下敷きの高齢者を救う 19歳使命感",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590149?source=rss",
-        "publishedAt": "2026-08-01T05:47:41.000Z"
-      },
-      {
         "time": "13:47",
         "title": "死ぬかも がれきに顔が挟まり圧迫",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590139?source=rss",
         "publishedAt": "2026-08-01T04:47:17.000Z"
+      },
+      {
+        "time": "19:49",
+        "title": "2歳が行方不明 祖母の家に帰省中",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590182?source=rss",
+        "publishedAt": "2026-08-01T10:49:40.000Z"
+      },
+      {
+        "time": "19:26",
+        "title": "川遊びの中学生 流され意識不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590179?source=rss",
+        "publishedAt": "2026-08-01T10:26:24.000Z"
       },
       {
         "time": "16:17",

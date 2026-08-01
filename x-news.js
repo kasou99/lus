@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T10:10:29.959Z",
+  "updatedAt": "2026-08-01T11:01:38.875Z",
   "items": [
     {
       "time": "17:31",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ロシアがウ首都を空爆 9人死亡"
     },
     {
-      "time": "16:45",
-      "title": "イオンモール熊本の捜索活動終了",
+      "time": "19:31",
+      "title": "避難者2200人規模受け入れへ 調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590166?source=rss",
-      "publishedAt": "2026-08-01T07:45:20.000Z",
-      "xQuery": "イオンモール熊本の捜索活動終了"
-    },
-    {
-      "time": "16:31",
-      "title": "東海や西日本2日以降も危険な暑さ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590162?source=rss",
-      "publishedAt": "2026-08-01T07:31:18.000Z",
-      "xQuery": "東海や西日本2日以降も危険な暑さ"
+      "url": "https://news.yahoo.co.jp/pickup/6590181?source=rss",
+      "publishedAt": "2026-08-01T10:31:28.000Z",
+      "xQuery": "避難者2200人規模受け入れへ 調整"
     },
     {
       "time": "18:54",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ベトナム人5人がれきから女性救出"
     },
     {
-      "time": "16:46",
-      "title": "BYDオート社長 EV補助金に見解",
+      "time": "19:26",
+      "title": "川遊びの中学生 流され意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590164?source=rss",
-      "publishedAt": "2026-08-01T07:46:05.000Z",
-      "xQuery": "BYDオート社長 EV補助金に見解"
+      "url": "https://news.yahoo.co.jp/pickup/6590179?source=rss",
+      "publishedAt": "2026-08-01T10:26:24.000Z",
+      "xQuery": "川遊びの中学生 流され意識不明"
+    },
+    {
+      "time": "19:49",
+      "title": "2歳が行方不明 祖母の家に帰省中",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590182?source=rss",
+      "publishedAt": "2026-08-01T10:49:40.000Z",
+      "xQuery": "2歳が行方不明 祖母の家に帰省中"
     }
   ]
 };
