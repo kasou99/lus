@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T18:25:35.258Z",
+  "updatedAt": "2026-08-01T18:51:36.273Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-08-01T08:28:24.000Z"
       },
       {
-        "time": "15:03",
-        "title": "岡山県経済ダイジェスト最新版 岡山経済研究所が発刊",
-        "source": "sanyonews.jp",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGNIVE9RRWl0cHNjQ1JYUkJQSWgxZC1YcHBYVTJoY09WWmwtWFllblVMc05uNlEtelE3VkZweTlENnNHZHJEaVRfdVhIX3FOVmVXcl9tM1VIa0JuakZnSml2VTZiWU93eWR6MW96RzV2cEpfMnAyVzhSSDRIeFJYQ1FkV2VYbGJNUTlhS294SGlKZWs?oc=5",
-        "publishedAt": "2026-08-01T06:03:50.000Z"
-      },
-      {
         "time": "04:24",
         "title": "プレハブ建築協会、住宅ストック社会構築 新5カ年計画",
         "source": "日刊工業新聞",
@@ -38,17 +31,10 @@
         "publishedAt": "2026-07-31T19:24:58.000Z"
       },
       {
-        "time": "03:31",
-        "title": "インタビュー／経済産業省製造産業局産業機械課長・須賀千鶴氏 製造AX拠点をDXインフラに",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQWEhJWTV6eE9naG91enNaM2EteUhhYlM3Vk5hYm95b0dNT0xMclBTX0JJNHhOVjA5R1UzS2RKUzZJZEpYYnVEeTNVN28yb0xncDVkRzU5Sk9XeTNmcUV3WVpidEtmQUpoMXZEM29La3pYelgtdHNhd2N0N3pqS1BvbHdzTnJyd21rOERJWkk0VXFad1V0TktralBzaGI5SUR6Rm9QUUk1UENZN0gybElTLXN1QlJUWFdIQ2xKSEdENW5nZTIzaGRfNllWY09OQldpNV9ISTJiTjdhWGtfTUtwTU12VmxaQ2xtX1V1Y0dzekhqX19Kc0ZUNnVEalhBbTdNR2k1amZPeFFEVWJ1Z1A4NEhEXzNiak5yaktHMEhNdkxNVUNlVWFoOTFfYXZFd1Z6am9PVlpPNTJ5WkpXNm03YlRaQ3RtdEVQMDFIRnJsTFo5RC1iOXQxbGhDS2FSY19jc3lUdEdEa1I3em9DLWNuVjZJYnJYQnp4UHc?oc=5",
-        "publishedAt": "2026-07-31T18:31:43.000Z"
-      },
-      {
         "time": "03:53",
-        "title": "商談記録80％削減へ！ ベルフェイス「bellSalesAI」中村留精密工業導入 (2026年8月1日掲載)",
+        "title": "商談記録80％削減へ！ ベルフェイス「bellSalesAI」中村留精密工業導入",
         "source": "ライブドアニュース",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1obmFEUThqaEJBZ3E0RHJYQmYzSW9ucXAzaU1HYUh2bDcxaTN1dFhzN2doWTAycm85c19NeklWQXdZeE0wdnhLZVpCZWZUVG9lRlpmNXY5M29XejNIUmc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vRGNpUFhQODc4cjVkMlFTeXBSVVBrZGprT3JZb1NvRC1mdWZSd2JrLUh1aVVVZkNqT3AwbEYwLThXa0xjdF9tNG9yNzRNR01HZEJJNUpid29kUkNpc1hZ?oc=5",
         "publishedAt": "2026-07-31T18:53:05.000Z"
       },
       {
@@ -57,6 +43,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590196?source=rss",
         "publishedAt": "2026-08-01T13:44:35.000Z"
+      },
+      {
+        "time": "12:58",
+        "title": "日銀の金融政策 利上げ加速が焦点",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590135?source=rss",
+        "publishedAt": "2026-08-01T03:58:01.000Z"
+      },
+      {
+        "time": "09:31",
+        "title": "米財務長官ToDoメモに「円買い」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590109?source=rss",
+        "publishedAt": "2026-08-01T00:31:02.000Z"
       }
     ],
     "worldHeadlines": [
