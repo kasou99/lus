@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T19:29:16.804Z",
+  "updatedAt": "2026-08-01T19:59:43.705Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZmhfcy1ZdnhCQ2l1LVdicG5kZzZmYlV3a2dqM1dmanROUlZwRGU4ZGxCTFYxTklRemhRWWpQVXVVUF8tTDhQbE9kMWNQZlZWTzU2dTdRbUVwMFBJdGh4SEVrQnRxZGJyZktXZVdrT3BLZzZ1?oc=5",
         "publishedAt": "2026-08-01T08:28:24.000Z"
-      },
-      {
-        "time": "15:03",
-        "title": "岡山県経済ダイジェスト最新版 岡山経済研究所が発刊",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGNIVE9RRWl0cHNjQ1JYUkJQSWgxZC1YcHBYVTJoY09WWmwtWFllblVMc05uNlEtelE3VkZweTlENnNHZHJEaVRfdVhIX3FOVmVXcl9tM1VIa0JuakZnSml2VTZiWU93eWR6MW96RzV2cEpfMnAyVzhSSDRIeFJYQ1FkV2VYbGJNUTlhS294SGlKZWs?oc=5",
-        "publishedAt": "2026-08-01T06:03:50.000Z"
       },
       {
         "time": "22:44",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590164?source=rss",
         "publishedAt": "2026-08-01T07:46:05.000Z"
+      },
+      {
+        "time": "11:41",
+        "title": "キオクシアなぜ急成長 背景を解説",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590122?source=rss",
+        "publishedAt": "2026-08-01T02:41:44.000Z"
       }
     ],
     "worldHeadlines": [
