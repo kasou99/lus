@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T01:40:35.363Z",
+  "updatedAt": "2026-08-01T03:10:21.713Z",
   "items": [
     {
-      "time": "07:50",
-      "title": "国家情報局が発足 縦割り打破狙う",
+      "time": "11:55",
+      "title": "青森県などで震度4 津波心配なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590097?source=rss",
-      "publishedAt": "2026-07-31T22:50:32.000Z",
-      "xQuery": "国家情報局が発足 縦割り打破狙う"
+      "url": "https://news.yahoo.co.jp/pickup/6590127?source=rss",
+      "publishedAt": "2026-08-01T02:55:55.000Z",
+      "xQuery": "青森県などで震度4 津波心配なし"
     },
     {
-      "time": "08:23",
-      "title": "米 過去最大級のイラン攻撃計画か",
+      "time": "10:53",
+      "title": "首相 3日に熊本の被災地訪問へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590099?source=rss",
-      "publishedAt": "2026-07-31T23:23:37.000Z",
-      "xQuery": "米 過去最大級のイラン攻撃計画か"
+      "url": "https://news.yahoo.co.jp/pickup/6590118?source=rss",
+      "publishedAt": "2026-08-01T01:53:01.000Z",
+      "xQuery": "首相 3日に熊本の被災地訪問へ"
     },
     {
-      "time": "09:50",
-      "title": "熊本地震で犬逃げ出す 飼い主再会",
+      "time": "11:12",
+      "title": "市川のマンションで爆発 周辺被害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590112?source=rss",
-      "publishedAt": "2026-08-01T00:50:58.000Z",
-      "xQuery": "熊本地震で犬逃げ出す 飼い主再会"
+      "url": "https://news.yahoo.co.jp/pickup/6590119?source=rss",
+      "publishedAt": "2026-08-01T02:12:29.000Z",
+      "xQuery": "市川のマンションで爆発 周辺被害"
     },
     {
-      "time": "09:31",
-      "title": "米財務長官ToDoメモに「円買い」",
+      "time": "09:32",
+      "title": "流星群も 8月天体ショー目白押し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590109?source=rss",
-      "publishedAt": "2026-08-01T00:31:02.000Z",
-      "xQuery": "米財務長官ToDoメモに「円買い」"
+      "url": "https://news.yahoo.co.jp/pickup/6590110?source=rss",
+      "publishedAt": "2026-08-01T00:32:37.000Z",
+      "xQuery": "流星群も 8月天体ショー目白押し"
     },
     {
-      "time": "08:51",
-      "title": "市川のマンションで爆発か2人搬送",
+      "time": "08:48",
+      "title": "エルニーニョ現象 さらに発達予測",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590105?source=rss",
-      "publishedAt": "2026-07-31T23:51:03.000Z",
-      "xQuery": "市川のマンションで爆発か2人搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6590103?source=rss",
+      "publishedAt": "2026-07-31T23:48:17.000Z",
+      "xQuery": "エルニーニョ現象 さらに発達予測"
     }
   ]
 };

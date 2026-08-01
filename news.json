@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T01:40:34.661Z",
+  "updatedAt": "2026-08-01T03:10:21.008Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-07-31T08:51:00.000Z"
       },
       {
-        "time": "19:21",
-        "title": "牧野フライス、買収提案拒否 ＮＳＳＫから、外為法で懸念｜全国のニュース｜Web東奥",
-        "source": "東奥日報社",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55S0FKRkNfaC1ldGVzdmRhczlMOUwyanpNV0dCdW03T2ZzRHk0aE8xWk5xbWRnQmFvUlllSmJ3cXl0Z2lzdnBlQ2ctS2k1VTF1M2hnaWhhVXA?oc=5",
-        "publishedAt": "2026-07-31T10:21:29.000Z"
+        "time": "00:09",
+        "title": "プレハブ建築協会、住宅ストック社会構築 新5カ年計画",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BcEJHZnY5U3BjdDByejVMLWY4TUQtSTVFM05fdm41UExKWGJyTlcya0dpcDFTb01PdFBkNFBwZmd6WnA3Z0h3RkhwSUxab0VQV3pNWGRMeGxjNHM?oc=5",
+        "publishedAt": "2026-07-31T15:09:53.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-07-31T23:29:06.000Z"
       },
       {
+        "time": "11:41",
+        "title": "キオクシアなぜ急成長 背景を解説",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590122?source=rss",
+        "publishedAt": "2026-08-01T02:41:44.000Z"
+      },
+      {
         "time": "19:19",
         "title": "新幹線 熊本-新水俣の8月再開困難",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590046?source=rss",
         "publishedAt": "2026-07-31T08:42:47.000Z"
-      },
-      {
-        "time": "16:32",
-        "title": "キオクシア純利益35倍へ 4-9月期",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590036?source=rss",
-        "publishedAt": "2026-07-31T07:32:45.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-07-31T22:34:04.000Z"
       },
       {
+        "time": "10:48",
+        "title": "地震 益城町でボランティア開始",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590115?source=rss",
+        "publishedAt": "2026-08-01T01:48:41.000Z"
+      },
+      {
         "time": "20:46",
         "title": "イオン爆発 娘を亡くした母の心境",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-08-01T00:50:58.000Z"
       },
       {
-        "time": "08:51",
-        "title": "市川のマンションで爆発か2人搬送",
+        "time": "11:12",
+        "title": "市川のマンションで爆発 周辺被害",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590105?source=rss",
-        "publishedAt": "2026-07-31T23:51:03.000Z"
-      },
-      {
-        "time": "23:45",
-        "title": "倒れたコンテナに挟まれる 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590087?source=rss",
-        "publishedAt": "2026-07-31T14:45:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590119?source=rss",
+        "publishedAt": "2026-08-01T02:12:29.000Z"
       }
     ],
     "subsidyHeadlines": [
