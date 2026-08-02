@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-02T04:40:14.490Z",
+  "updatedAt": "2026-08-02T06:03:38.825Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "04:35",
+        "title": "経営ひと言／ブラザー工業・池田和史社長「工作機械のびる」",
+        "source": "nikkan.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Bb3N3RVMweVhpcXFoMG5GYnZ5cEtSOEdYcVdQRFBUV0hKTDNuQ3UzaDhsNm5GellHSDN3SG1lS3NQYWtEVEt3NHZGWVAzU3UwYUZnODJiVWs?oc=5",
+        "publishedAt": "2026-08-01T19:35:18.000Z"
+      },
       {
         "time": "21:20",
         "title": "【日本株】AI相場の次なる主役｢フィジカルAI｣の本命株を紹介！ 工作機械大手で業績が急回復中の｢DMG森精機｣と、エヌビディアと提携の｢ファナック｣に注目！（ダイヤモンド・ザイ）",
@@ -17,9 +24,16 @@
         "publishedAt": "2026-08-01T20:11:51.000Z"
       },
       {
+        "time": "15:03",
+        "title": "岡山県経済ダイジェスト最新版 岡山経済研究所が発刊",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGNIVE9RRWl0cHNjQ1JYUkJQSWgxZC1YcHBYVTJoY09WWmwtWFllblVMc05uNlEtelE3VkZweTlENnNHZHJEaVRfdVhIX3FOVmVXcl9tM1VIa0JuakZnSml2VTZiWU93eWR6MW96RzV2cEpfMnAyVzhSSDRIeFJYQ1FkV2VYbGJNUTlhS294SGlKZWs?oc=5",
+        "publishedAt": "2026-08-01T06:03:50.000Z"
+      },
+      {
         "time": "17:28",
         "title": "MUSE、自律移動ロボ実証 都内薬局5店で来月",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZmhfcy1ZdnhCQ2l1LVdicG5kZzZmYlV3a2dqM1dmanROUlZwRGU4ZGxCTFYxTklRemhRWWpQVXVVUF8tTDhQbE9kMWNQZlZWTzU2dTdRbUVwMFBJdGh4SEVrQnRxZGJyZktXZVdrT3BLZzZ1?oc=5",
         "publishedAt": "2026-08-01T08:28:24.000Z"
       },
@@ -43,20 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590164?source=rss",
         "publishedAt": "2026-08-01T07:46:05.000Z"
-      },
-      {
-        "time": "11:41",
-        "title": "キオクシアなぜ急成長 背景を解説",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590122?source=rss",
-        "publishedAt": "2026-08-01T02:41:44.000Z"
-      },
-      {
-        "time": "10:15",
-        "title": "ジェリーシューズ なぜ大人が支持",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590228?source=rss",
-        "publishedAt": "2026-08-02T01:15:35.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "10:39",
-        "title": "車に避難の70代女性死亡 熱中症か",
+        "time": "14:30",
+        "title": "がれきから母の声 数時間で途絶え",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590231?source=rss",
-        "publishedAt": "2026-08-02T01:39:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590255?source=rss",
+        "publishedAt": "2026-08-02T05:30:01.000Z"
       },
       {
-        "time": "10:33",
-        "title": "熊本地震の死者38人に 県発表",
+        "time": "14:27",
+        "title": "車中泊避難者が死亡 ガソリンは空",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590230?source=rss",
-        "publishedAt": "2026-08-02T01:33:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590256?source=rss",
+        "publishedAt": "2026-08-02T05:27:55.000Z"
       },
       {
         "time": "12:26",

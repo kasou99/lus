@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T04:40:15.289Z",
+  "updatedAt": "2026-08-02T06:03:39.800Z",
   "items": [
     {
-      "time": "12:02",
-      "title": "米大統領 イラン大規模攻撃を中止",
+      "time": "14:17",
+      "title": "近畿で初の酷暑日 和歌山県で40℃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590237?source=rss",
-      "publishedAt": "2026-08-02T03:02:05.000Z",
-      "xQuery": "米大統領 イラン大規模攻撃を中止"
+      "url": "https://news.yahoo.co.jp/pickup/6590254?source=rss",
+      "publishedAt": "2026-08-02T05:17:39.000Z",
+      "xQuery": "近畿で初の酷暑日 和歌山県で40℃"
     },
     {
-      "time": "11:35",
-      "title": "防衛機密 クラウドで運用へ",
+      "time": "14:30",
+      "title": "がれきから母の声 数時間で途絶え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590235?source=rss",
-      "publishedAt": "2026-08-02T02:35:06.000Z",
-      "xQuery": "防衛機密 クラウドで運用へ"
+      "url": "https://news.yahoo.co.jp/pickup/6590255?source=rss",
+      "publishedAt": "2026-08-02T05:30:01.000Z",
+      "xQuery": "がれきから母の声 数時間で途絶え"
     },
     {
-      "time": "12:26",
-      "title": "避難所の70代女性 コロナに感染",
+      "time": "14:27",
+      "title": "車中泊避難者が死亡 ガソリンは空",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590242?source=rss",
-      "publishedAt": "2026-08-02T03:26:15.000Z",
-      "xQuery": "避難所の70代女性 コロナに感染"
+      "url": "https://news.yahoo.co.jp/pickup/6590256?source=rss",
+      "publishedAt": "2026-08-02T05:27:55.000Z",
+      "xQuery": "車中泊避難者が死亡 ガソリンは空"
     },
     {
       "time": "12:56",
