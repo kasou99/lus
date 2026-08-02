@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T16:25:06.878Z",
+  "updatedAt": "2026-08-02T16:50:35.926Z",
   "items": [
     {
       "time": "21:01",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "爆発前戻るよう指示 店舗運営謝罪"
     },
     {
+      "time": "01:40",
+      "title": "地震と雲を関係付ける誤情報 注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590323?source=rss",
+      "publishedAt": "2026-08-02T16:40:22.000Z",
+      "xQuery": "地震と雲を関係付ける誤情報 注意"
+    },
+    {
       "time": "20:15",
       "title": "落石で女性死亡 小学生の子が目撃",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590299?source=rss",
       "publishedAt": "2026-08-02T11:15:25.000Z",
       "xQuery": "落石で女性死亡 小学生の子が目撃"
-    },
-    {
-      "time": "23:27",
-      "title": "車2台が正面衝突 1人死亡2人重体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590321?source=rss",
-      "publishedAt": "2026-08-02T14:27:43.000Z",
-      "xQuery": "車2台が正面衝突 1人死亡2人重体"
     }
   ]
 };
