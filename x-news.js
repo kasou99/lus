@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T07:23:33.060Z",
+  "updatedAt": "2026-08-02T08:19:14.096Z",
   "items": [
     {
-      "time": "14:17",
-      "title": "近畿で初の酷暑日 和歌山県で40℃",
+      "time": "15:35",
+      "title": "日本製紙の工場被災 経営に打撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590254?source=rss",
-      "publishedAt": "2026-08-02T05:17:39.000Z",
-      "xQuery": "近畿で初の酷暑日 和歌山県で40℃"
+      "url": "https://news.yahoo.co.jp/pickup/6590265?source=rss",
+      "publishedAt": "2026-08-02T06:35:24.000Z",
+      "xQuery": "日本製紙の工場被災 経営に打撃"
     },
     {
-      "time": "16:12",
-      "title": "倒壊した自宅 途絶えた祖母の声",
+      "time": "16:57",
+      "title": "高額療養費見直し パブコメ5300件",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590267?source=rss",
-      "publishedAt": "2026-08-02T07:12:27.000Z",
-      "xQuery": "倒壊した自宅 途絶えた祖母の声"
+      "url": "https://news.yahoo.co.jp/pickup/6590271?source=rss",
+      "publishedAt": "2026-08-02T07:57:00.000Z",
+      "xQuery": "高額療養費見直し パブコメ5300件"
     },
     {
       "time": "14:27",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "車中泊避難者が死亡 ガソリンは空"
     },
     {
-      "time": "15:35",
-      "title": "日本製紙の工場被災 経営に打撃",
+      "time": "16:25",
+      "title": "海岸で夫を撮影中に落石 女性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590265?source=rss",
-      "publishedAt": "2026-08-02T06:35:24.000Z",
-      "xQuery": "日本製紙の工場被災 経営に打撃"
+      "url": "https://news.yahoo.co.jp/pickup/6590270?source=rss",
+      "publishedAt": "2026-08-02T07:25:34.000Z",
+      "xQuery": "海岸で夫を撮影中に落石 女性死亡"
     },
     {
-      "time": "12:56",
-      "title": "スカイダイビングで着地失敗 死亡",
+      "time": "16:18",
+      "title": "久保田智子氏 特別養子縁組を語る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590246?source=rss",
-      "publishedAt": "2026-08-02T03:56:15.000Z",
-      "xQuery": "スカイダイビングで着地失敗 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590266?source=rss",
+      "publishedAt": "2026-08-02T07:18:12.000Z",
+      "xQuery": "久保田智子氏 特別養子縁組を語る"
     }
   ]
 };
