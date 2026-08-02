@@ -1,21 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T00:50:55.618Z",
+  "updatedAt": "2026-08-02T01:40:04.520Z",
   "items": [
     {
-      "time": "08:42",
-      "title": "東海-九州酷暑日も 熱中症対策を",
+      "time": "10:33",
+      "title": "熊本地震の死者38人に 県発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590216?source=rss",
-      "publishedAt": "2026-08-01T23:42:23.000Z",
-      "xQuery": "東海-九州酷暑日も 熱中症対策を"
+      "url": "https://news.yahoo.co.jp/pickup/6590230?source=rss",
+      "publishedAt": "2026-08-02T01:33:24.000Z",
+      "xQuery": "熊本地震の死者38人に 県発表"
     },
     {
-      "time": "08:57",
-      "title": "八代市でシャワー開放 施設の思い",
+      "time": "09:15",
+      "title": "エボラ熱 コンゴで過去最大の流行",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590218?source=rss",
-      "publishedAt": "2026-08-01T23:57:42.000Z",
-      "xQuery": "八代市でシャワー開放 施設の思い"
+      "url": "https://news.yahoo.co.jp/pickup/6590219?source=rss",
+      "publishedAt": "2026-08-02T00:15:54.000Z",
+      "xQuery": "エボラ熱 コンゴで過去最大の流行"
+    },
+    {
+      "time": "09:55",
+      "title": "出産費無償化へ 医療界に不安の声",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590224?source=rss",
+      "publishedAt": "2026-08-02T00:55:07.000Z",
+      "xQuery": "出産費無償化へ 医療界に不安の声"
+    },
+    {
+      "time": "10:13",
+      "title": "日帰り部活遠征26万円 現場の葛藤",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590226?source=rss",
+      "publishedAt": "2026-08-02T01:13:41.000Z",
+      "xQuery": "日帰り部活遠征26万円 現場の葛藤"
     },
     {
       "time": "08:44",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590217?source=rss",
       "publishedAt": "2026-08-01T23:44:33.000Z",
       "xQuery": "帰省中に行方不明の2歳 無事発見"
-    },
-    {
-      "time": "07:33",
-      "title": "シジミ採り中に溺れたか 男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590205?source=rss",
-      "publishedAt": "2026-08-01T22:33:15.000Z",
-      "xQuery": "シジミ採り中に溺れたか 男性死亡"
-    },
-    {
-      "time": "08:56",
-      "title": "町が明るくなった 町内会長に17歳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590220?source=rss",
-      "publishedAt": "2026-08-01T23:56:31.000Z",
-      "xQuery": "町が明るくなった 町内会長に17歳"
     }
   ]
 };
