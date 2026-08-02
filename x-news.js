@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T22:22:52.410Z",
+  "updatedAt": "2026-08-02T22:49:47.465Z",
   "items": [
+    {
+      "time": "07:38",
+      "title": "熊本の復旧復興 補正予算編成論も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590331?source=rss",
+      "publishedAt": "2026-08-02T22:38:27.000Z",
+      "xQuery": "熊本の復旧復興 補正予算編成論も"
+    },
     {
       "time": "06:54",
       "title": "高市内閣の支持率59.2% JNN調査",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590328?source=rss",
       "publishedAt": "2026-08-02T21:54:45.000Z",
       "xQuery": "高市内閣の支持率59.2% JNN調査"
-    },
-    {
-      "time": "21:01",
-      "title": "災害関連死の抑制に軸足 官房長官",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590302?source=rss",
-      "publishedAt": "2026-08-02T12:01:51.000Z",
-      "xQuery": "災害関連死の抑制に軸足 官房長官"
     },
     {
       "time": "22:33",
