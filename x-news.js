@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T21:49:46.942Z",
+  "updatedAt": "2026-08-02T22:22:52.410Z",
   "items": [
+    {
+      "time": "06:54",
+      "title": "高市内閣の支持率59.2% JNN調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590328?source=rss",
+      "publishedAt": "2026-08-02T21:54:45.000Z",
+      "xQuery": "高市内閣の支持率59.2% JNN調査"
+    },
     {
       "time": "21:01",
       "title": "災害関連死の抑制に軸足 官房長官",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590302?source=rss",
       "publishedAt": "2026-08-02T12:01:51.000Z",
       "xQuery": "災害関連死の抑制に軸足 官房長官"
-    },
-    {
-      "time": "20:18",
-      "title": "高額療養費見直し 政府の狙いは",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590298?source=rss",
-      "publishedAt": "2026-08-02T11:18:01.000Z",
-      "xQuery": "高額療養費見直し 政府の狙いは"
     },
     {
       "time": "22:33",
