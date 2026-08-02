@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T12:30:07.054Z",
+  "updatedAt": "2026-08-02T12:57:53.225Z",
   "items": [
+    {
+      "time": "20:18",
+      "title": "高額療養費見直し 政府の狙いは",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590298?source=rss",
+      "publishedAt": "2026-08-02T11:18:01.000Z",
+      "xQuery": "高額療養費見直し 政府の狙いは"
+    },
     {
       "time": "19:39",
       "title": "3日 熊本の複数地点40℃以上予想",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590294?source=rss",
       "publishedAt": "2026-08-02T10:39:08.000Z",
       "xQuery": "3日 熊本の複数地点40℃以上予想"
-    },
-    {
-      "time": "19:12",
-      "title": "非常に強い台風 小笠原諸島接近へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590290?source=rss",
-      "publishedAt": "2026-08-02T10:12:43.000Z",
-      "xQuery": "非常に強い台風 小笠原諸島接近へ"
-    },
-    {
-      "time": "20:44",
-      "title": "ホテルへ2次避難 3日から受け付け",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590301?source=rss",
-      "publishedAt": "2026-08-02T11:44:15.000Z",
-      "xQuery": "ホテルへ2次避難 3日から受け付け"
     },
     {
       "time": "19:43",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオンモール宇城 下敷きの客死亡"
     },
     {
-      "time": "19:24",
-      "title": "イオン爆発 妻のスマホが形見に",
+      "time": "20:15",
+      "title": "落石で女性死亡 小学生の子が目撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590295?source=rss",
-      "publishedAt": "2026-08-02T10:24:42.000Z",
-      "xQuery": "イオン爆発 妻のスマホが形見に"
+      "url": "https://news.yahoo.co.jp/pickup/6590299?source=rss",
+      "publishedAt": "2026-08-02T11:15:25.000Z",
+      "xQuery": "落石で女性死亡 小学生の子が目撃"
+    },
+    {
+      "time": "21:16",
+      "title": "HBOCの女性 着床前診断を申請へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590305?source=rss",
+      "publishedAt": "2026-08-02T12:16:12.000Z",
+      "xQuery": "HBOCの女性 着床前診断を申請へ"
     }
   ]
 };
