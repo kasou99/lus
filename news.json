@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T11:02:36.639Z",
+  "updatedAt": "2026-08-02T11:51:29.865Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-08-02T10:07:29.000Z"
       },
       {
-        "time": "18:07",
-        "title": "大雨被害の現場へ。改修と今後の対応をお伝えするために。 : ブログ : 川崎市議会議員 工藤れいこ 公式サイト",
-        "source": "公明党",
-        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPUjhmNXMzdVU2MUhQOHBBT2luZnJuY0cyd3BHdk15cjJpOVpQckxCLWN4YURXcGd3YVVyM21LaHlzU3ozejNoR0o3TlBRcW83V19MaVdhVFRac1Jxc2ZXOHNQUWF5UDlwcHU0VnYwanB2NGlwZW9kVlc3Rmo3cm1wcEdhYnk1QWczblVPODdOWTduNEtIY1FsaG5zbFR4RHpXZWRmbzVKNWtmS19SckNlRTNteXhCazdCUEQtSHRFbk5pdzZQZFc3RkFZZGlwVkNuMFczcUtEaG5Jd0RQODBmbk9ycEo2VG1SNDRVSWNFVXVoWjlTMlhPVDlHVUZPcFN3NDFzQU13UjVWYlhOU2FHb1VUb0NrYXhsdGhTMHdjNUJpQmxJNDBPckg1ZFMxajhoNFg1Q3VVSnRsdThxZC1hWXhsalJrWjJoTjljdGZzNmVjZktBT2lVSVctQS1aVEN0QnZTZnRPbF93UW1sSFdUdGg1MA?oc=5",
-        "publishedAt": "2026-08-02T09:07:39.000Z"
-      },
-      {
         "time": "04:35",
         "title": "経営ひと言／ブラザー工業・池田和史社長「工作機械のびる」",
         "source": "日刊工業新聞",
@@ -24,11 +17,25 @@
         "publishedAt": "2026-08-01T19:35:18.000Z"
       },
       {
+        "time": "18:07",
+        "title": "2026 8月",
+        "source": "公明党",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jZXBEMkNXY3JUUEVMNUJSYmFoRVNpUlBDQnh1ZlNmTndETURlUjQ2M2VGV2RpZ0J1RnNjZ09XT2lXRnUzV1Ixd3RsTVNXQU9VaGNONVIzdXJZTEJSRGNoaURTRGpzQQ?oc=5",
+        "publishedAt": "2026-08-02T09:07:38.000Z"
+      },
+      {
         "time": "17:27",
         "title": "飲料工場の暑熱対策としてSPACECOOLルーフシェードを採用 屋根表面温度を25.6℃低減、飲料業界の労働環境改善と省エネに貢献",
         "source": "朝日新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmQVlWWUwwZGxEOGI1Z2x3QjN0X3RLTURRNG8xNTFwUXRYNXBqbURPTVRVMk1Ed3RpR1N0OC10TllrUGhlb1dPdWJJbjNjUkJGU1lvV1Q2MHBpbU0?oc=5",
         "publishedAt": "2026-08-02T08:27:11.000Z"
+      },
+      {
+        "time": "20:11",
+        "title": "信号待ちの車列に車が突っ込み横転",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vRXc1OUx1cTg0NVB1Q3VYYkpIUTV2VGZ2akRVT1B5YXNMVGZfM0xfcEZpYWNrQ3UwaHE0VUhOWWhUWUJGOWFxWjlWanFaTERLZXpYNm9sU2J6ZWhzM3FHVUMxcUlWZjNRVE51QVkybkxPMThVUU5BbUNzdw?oc=5",
+        "publishedAt": "2026-08-02T11:11:00.000Z"
       },
       {
         "time": "15:35",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590135?source=rss",
         "publishedAt": "2026-08-01T03:58:01.000Z"
-      },
-      {
-        "time": "17:54",
-        "title": "地震で商品落下 コストコの回答",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590283?source=rss",
-        "publishedAt": "2026-08-02T08:54:59.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "20:44",
+        "title": "ホテルへ2次避難 3日から受け付け",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590301?source=rss",
+        "publishedAt": "2026-08-02T11:44:15.000Z"
+      },
+      {
         "time": "19:43",
         "title": "イオンモール宇城 下敷きの客死亡",
         "source": "Yahoo!ニュース",
@@ -170,11 +177,11 @@
         "publishedAt": "2026-08-02T09:14:37.000Z"
       },
       {
-        "time": "14:27",
-        "title": "車中泊避難者が死亡 ガソリンは空",
+        "time": "20:15",
+        "title": "落石で女性死亡 小学生の子が目撃",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590256?source=rss",
-        "publishedAt": "2026-08-02T05:27:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590299?source=rss",
+        "publishedAt": "2026-08-02T11:15:25.000Z"
       },
       {
         "time": "16:25",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590270?source=rss",
         "publishedAt": "2026-08-02T07:25:34.000Z"
-      },
-      {
-        "time": "17:27",
-        "title": "上空3000mから着地失敗 46歳死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590276?source=rss",
-        "publishedAt": "2026-08-02T08:27:42.000Z"
       }
     ],
     "subsidyHeadlines": [

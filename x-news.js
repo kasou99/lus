@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T11:02:37.353Z",
+  "updatedAt": "2026-08-02T11:51:30.605Z",
   "items": [
     {
-      "time": "18:14",
-      "title": "被災の老人ホーム 熱中症疑い続出",
+      "time": "19:39",
+      "title": "3日 熊本の複数地点40℃以上予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590284?source=rss",
-      "publishedAt": "2026-08-02T09:14:37.000Z",
-      "xQuery": "被災の老人ホーム 熱中症疑い続出"
+      "url": "https://news.yahoo.co.jp/pickup/6590294?source=rss",
+      "publishedAt": "2026-08-02T10:39:08.000Z",
+      "xQuery": "3日 熊本の複数地点40℃以上予想"
     },
     {
       "time": "19:12",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590290?source=rss",
       "publishedAt": "2026-08-02T10:12:43.000Z",
       "xQuery": "非常に強い台風 小笠原諸島接近へ"
+    },
+    {
+      "time": "20:44",
+      "title": "ホテルへ2次避難 3日から受け付け",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590301?source=rss",
+      "publishedAt": "2026-08-02T11:44:15.000Z",
+      "xQuery": "ホテルへ2次避難 3日から受け付け"
     },
     {
       "time": "19:43",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590295?source=rss",
       "publishedAt": "2026-08-02T10:24:42.000Z",
       "xQuery": "イオン爆発 妻のスマホが形見に"
-    },
-    {
-      "time": "19:07",
-      "title": "中継 長岡まつり大花火大会",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590289?source=rss",
-      "publishedAt": "2026-08-02T10:07:01.000Z",
-      "xQuery": "中継 長岡まつり大花火大会"
     }
   ]
 };
