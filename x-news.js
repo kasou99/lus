@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T14:35:18.329Z",
+  "updatedAt": "2026-08-02T15:27:28.490Z",
   "items": [
+    {
+      "time": "21:01",
+      "title": "災害関連死の抑制に軸足 官房長官",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590302?source=rss",
+      "publishedAt": "2026-08-02T12:01:51.000Z",
+      "xQuery": "災害関連死の抑制に軸足 官房長官"
+    },
     {
       "time": "20:18",
       "title": "高額療養費見直し 政府の狙いは",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590298?source=rss",
       "publishedAt": "2026-08-02T11:18:01.000Z",
       "xQuery": "高額療養費見直し 政府の狙いは"
-    },
-    {
-      "time": "22:58",
-      "title": "EU AI規制法で透明性確保を義務化",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590319?source=rss",
-      "publishedAt": "2026-08-02T13:58:32.000Z",
-      "xQuery": "EU AI規制法で透明性確保を義務化"
     },
     {
       "time": "22:33",
