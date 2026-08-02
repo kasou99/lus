@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T10:09:58.938Z",
+  "updatedAt": "2026-08-02T11:02:37.353Z",
   "items": [
     {
       "time": "18:14",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "被災の老人ホーム 熱中症疑い続出"
     },
     {
-      "time": "17:02",
-      "title": "移民流入のスペイン 海にフェンス",
+      "time": "19:12",
+      "title": "非常に強い台風 小笠原諸島接近へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590274?source=rss",
-      "publishedAt": "2026-08-02T08:02:59.000Z",
-      "xQuery": "移民流入のスペイン 海にフェンス"
+      "url": "https://news.yahoo.co.jp/pickup/6590290?source=rss",
+      "publishedAt": "2026-08-02T10:12:43.000Z",
+      "xQuery": "非常に強い台風 小笠原諸島接近へ"
     },
     {
-      "time": "16:54",
-      "title": "給食がない夏休み 困窮世帯の実態",
+      "time": "19:43",
+      "title": "イオンモール宇城 下敷きの客死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590273?source=rss",
-      "publishedAt": "2026-08-02T07:54:04.000Z",
-      "xQuery": "給食がない夏休み 困窮世帯の実態"
+      "url": "https://news.yahoo.co.jp/pickup/6590296?source=rss",
+      "publishedAt": "2026-08-02T10:43:38.000Z",
+      "xQuery": "イオンモール宇城 下敷きの客死亡"
     },
     {
-      "time": "17:54",
-      "title": "地震で商品落下 コストコの回答",
+      "time": "19:24",
+      "title": "イオン爆発 妻のスマホが形見に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590283?source=rss",
-      "publishedAt": "2026-08-02T08:54:59.000Z",
-      "xQuery": "地震で商品落下 コストコの回答"
+      "url": "https://news.yahoo.co.jp/pickup/6590295?source=rss",
+      "publishedAt": "2026-08-02T10:24:42.000Z",
+      "xQuery": "イオン爆発 妻のスマホが形見に"
     },
     {
-      "time": "16:25",
-      "title": "海岸で夫を撮影中に落石 女性死亡",
+      "time": "19:07",
+      "title": "中継 長岡まつり大花火大会",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590270?source=rss",
-      "publishedAt": "2026-08-02T07:25:34.000Z",
-      "xQuery": "海岸で夫を撮影中に落石 女性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590289?source=rss",
+      "publishedAt": "2026-08-02T10:07:01.000Z",
+      "xQuery": "中継 長岡まつり大花火大会"
     }
   ]
 };

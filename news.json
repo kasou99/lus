@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T10:09:58.098Z",
+  "updatedAt": "2026-08-02T11:02:36.639Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,18 +149,25 @@
     ],
     "localHeadlines": [
       {
+        "time": "19:43",
+        "title": "イオンモール宇城 下敷きの客死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590296?source=rss",
+        "publishedAt": "2026-08-02T10:43:38.000Z"
+      },
+      {
+        "time": "19:24",
+        "title": "イオン爆発 妻のスマホが形見に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590295?source=rss",
+        "publishedAt": "2026-08-02T10:24:42.000Z"
+      },
+      {
         "time": "18:14",
         "title": "被災の老人ホーム 熱中症疑い続出",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590284?source=rss",
         "publishedAt": "2026-08-02T09:14:37.000Z"
-      },
-      {
-        "time": "18:50",
-        "title": "イオン爆発 妻を失った夫の胸中",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590288?source=rss",
-        "publishedAt": "2026-08-02T09:50:36.000Z"
       },
       {
         "time": "14:27",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590276?source=rss",
         "publishedAt": "2026-08-02T08:27:42.000Z"
-      },
-      {
-        "time": "19:07",
-        "title": "中継 長岡まつり大花火大会",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590289?source=rss",
-        "publishedAt": "2026-08-02T10:07:01.000Z"
       }
     ],
     "subsidyHeadlines": [
