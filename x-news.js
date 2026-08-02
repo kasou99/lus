@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T12:57:53.225Z",
+  "updatedAt": "2026-08-02T13:37:17.215Z",
   "items": [
     {
       "time": "20:18",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "高額療養費見直し 政府の狙いは"
     },
     {
-      "time": "19:39",
-      "title": "3日 熊本の複数地点40℃以上予想",
+      "time": "21:44",
+      "title": "揺れの中で分娩室に 1時間後出産",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590294?source=rss",
-      "publishedAt": "2026-08-02T10:39:08.000Z",
-      "xQuery": "3日 熊本の複数地点40℃以上予想"
+      "url": "https://news.yahoo.co.jp/pickup/6590306?source=rss",
+      "publishedAt": "2026-08-02T12:44:22.000Z",
+      "xQuery": "揺れの中で分娩室に 1時間後出産"
+    },
+    {
+      "time": "22:33",
+      "title": "爆発前戻るよう指示 店舗運営謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590315?source=rss",
+      "publishedAt": "2026-08-02T13:33:16.000Z",
+      "xQuery": "爆発前戻るよう指示 店舗運営謝罪"
     },
     {
       "time": "19:43",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イオンモール宇城 下敷きの客死亡"
     },
     {
-      "time": "20:15",
-      "title": "落石で女性死亡 小学生の子が目撃",
+      "time": "22:18",
+      "title": "航行中フェリー火災 インドネシア",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590299?source=rss",
-      "publishedAt": "2026-08-02T11:15:25.000Z",
-      "xQuery": "落石で女性死亡 小学生の子が目撃"
-    },
-    {
-      "time": "21:16",
-      "title": "HBOCの女性 着床前診断を申請へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590305?source=rss",
-      "publishedAt": "2026-08-02T12:16:12.000Z",
-      "xQuery": "HBOCの女性 着床前診断を申請へ"
+      "url": "https://news.yahoo.co.jp/pickup/6590312?source=rss",
+      "publishedAt": "2026-08-02T13:18:28.000Z",
+      "xQuery": "航行中フェリー火災 インドネシア"
     }
   ]
 };

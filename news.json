@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-02T12:57:52.322Z",
+  "updatedAt": "2026-08-02T13:37:16.672Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "19:07",
+        "time": "22:08",
         "title": "【日本株】AI相場の次なる主役｢フィジカルAI｣の本命株を紹介！ 工作機械大手で業績が急回復中の｢DMG森精機｣と、エヌビディアと提携の｢ファナック｣に注目！",
-        "source": "diamond.jp",
+        "source": "ダイヤモンド・オンライン",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91eDI4Y2VybUVidXpJdlRIOHNCR0NaemszWmQybllMeUJrc1lSMkc3MUprcnByVkRiS1ZaSDU2MEg3YkdKa3ZpSmo1aTJiUFRWZ2hB?oc=5",
-        "publishedAt": "2026-08-02T10:07:29.000Z"
+        "publishedAt": "2026-08-02T13:08:02.000Z"
       },
       {
         "time": "18:07",
@@ -38,6 +38,13 @@
         "publishedAt": "2026-08-02T11:11:00.000Z"
       },
       {
+        "time": "22:33",
+        "title": "爆発前戻るよう指示 店舗運営謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590315?source=rss",
+        "publishedAt": "2026-08-02T13:33:16.000Z"
+      },
+      {
         "time": "15:35",
         "title": "日本製紙の工場被災 経営に打撃",
         "source": "Yahoo!ニュース",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590202?source=rss",
         "publishedAt": "2026-08-01T22:28:48.000Z"
-      },
-      {
-        "time": "12:58",
-        "title": "日銀の金融政策 利上げ加速が焦点",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590135?source=rss",
-        "publishedAt": "2026-08-01T03:58:01.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,6 +75,13 @@
         "publishedAt": "2026-08-01T22:50:17.000Z"
       },
       {
+        "time": "22:18",
+        "title": "航行中フェリー火災 インドネシア",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590312?source=rss",
+        "publishedAt": "2026-08-02T13:18:28.000Z"
+      },
+      {
         "time": "15:30",
         "title": "米ファストフード店で銃撃3人死亡",
         "source": "Yahoo!ニュース",
@@ -89,13 +96,6 @@
         "publishedAt": "2026-08-02T03:14:51.000Z"
       },
       {
-        "time": "17:31",
-        "title": "ロシアがウ首都を空爆 9人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590168?source=rss",
-        "publishedAt": "2026-08-01T08:31:12.000Z"
-      },
-      {
         "time": "17:02",
         "title": "移民流入のスペイン 海にフェンス",
         "source": "Yahoo!ニュース",
@@ -104,6 +104,13 @@
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "22:33",
+        "title": "爆発前戻るよう指示 店舗運営謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590315?source=rss",
+        "publishedAt": "2026-08-02T13:33:16.000Z"
+      },
       {
         "time": "15:35",
         "title": "日本製紙の工場被災 経営に打撃",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590202?source=rss",
         "publishedAt": "2026-08-01T22:28:48.000Z"
-      },
-      {
-        "time": "12:58",
-        "title": "日銀の金融政策 利上げ加速が焦点",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590135?source=rss",
-        "publishedAt": "2026-08-01T03:58:01.000Z"
       },
       {
         "time": "17:54",
@@ -218,15 +218,15 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
         "time": "16:00",
-        "title": "防犯対策・防犯カメラ設置の補助金・助成金2026｜個人向けの申請方法と全国の制度を解説",
-        "source": "補助金ポータル",
+        "title": "防犯対策・防犯カメラ設置の補助金・助成金2026｜個人向けの申請方法と全国の制度を解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFVFV1MEdRM3YwbDdWaHRFenRXbzNHcXMtN3hkckN0dk9DOXlyZnA4RllKTTI2VmNiVU5pUjJmZ0xOUXJWQ29TWlhfTlYxQzBabGlZWTJ6Q012NTg?oc=5",
         "publishedAt": "2026-07-24T07:00:00.000Z"
       }
