@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T13:37:17.215Z",
+  "updatedAt": "2026-08-02T14:35:18.329Z",
   "items": [
     {
       "time": "20:18",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高額療養費見直し 政府の狙いは"
     },
     {
-      "time": "21:44",
-      "title": "揺れの中で分娩室に 1時間後出産",
+      "time": "22:58",
+      "title": "EU AI規制法で透明性確保を義務化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590306?source=rss",
-      "publishedAt": "2026-08-02T12:44:22.000Z",
-      "xQuery": "揺れの中で分娩室に 1時間後出産"
+      "url": "https://news.yahoo.co.jp/pickup/6590319?source=rss",
+      "publishedAt": "2026-08-02T13:58:32.000Z",
+      "xQuery": "EU AI規制法で透明性確保を義務化"
     },
     {
       "time": "22:33",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "爆発前戻るよう指示 店舗運営謝罪"
     },
     {
-      "time": "19:43",
-      "title": "イオンモール宇城 下敷きの客死亡",
+      "time": "20:15",
+      "title": "落石で女性死亡 小学生の子が目撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590296?source=rss",
-      "publishedAt": "2026-08-02T10:43:38.000Z",
-      "xQuery": "イオンモール宇城 下敷きの客死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590299?source=rss",
+      "publishedAt": "2026-08-02T11:15:25.000Z",
+      "xQuery": "落石で女性死亡 小学生の子が目撃"
     },
     {
-      "time": "22:18",
-      "title": "航行中フェリー火災 インドネシア",
+      "time": "23:27",
+      "title": "車2台が正面衝突 1人死亡2人重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590312?source=rss",
-      "publishedAt": "2026-08-02T13:18:28.000Z",
-      "xQuery": "航行中フェリー火災 インドネシア"
+      "url": "https://news.yahoo.co.jp/pickup/6590321?source=rss",
+      "publishedAt": "2026-08-02T14:27:43.000Z",
+      "xQuery": "車2台が正面衝突 1人死亡2人重体"
     }
   ]
 };
