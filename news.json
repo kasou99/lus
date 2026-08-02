@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T16:50:35.299Z",
+  "updatedAt": "2026-08-02T17:24:56.215Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,11 @@
         "publishedAt": "2026-08-01T19:35:18.000Z"
       },
       {
-        "time": "05:11",
-        "title": "自動化時代にあえて手動！職人技15社がMOBIOに集結「汎用旋盤技術展」開催",
+        "time": "17:27",
+        "title": "飲料工場の暑熱対策としてSPACECOOLルーフシェードを採用 屋根表面温度を25.6℃低減、飲料業界の労働環境改善と省エネに貢献",
         "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fNDNFTU9telVaN0tKMVJJSzFxenc5Z2pqTmxOUXM4MHM0Z05rUnpFU1U4VzNHSlhkbk5wV3NlYUh0X2toZGFIdE9nMUFVWGFxcXZteW1WXzVJN1E?oc=5",
-        "publishedAt": "2026-08-01T20:11:51.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmQVlWWUwwZGxEOGI1Z2x3QjN0X3RLTURRNG8xNTFwUXRYNXBqbURPTVRVMk1Ed3RpR1N0OC10TllrUGhlb1dPdWJJbjNjUkJGU1lvV1Q2MHBpbU0?oc=5",
+        "publishedAt": "2026-08-02T08:27:11.000Z"
       },
       {
         "time": "20:11",
@@ -36,13 +36,6 @@
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vRXc1OUx1cTg0NVB1Q3VYYkpIUTV2VGZ2akRVT1B5YXNMVGZfM0xfcEZpYWNrQ3UwaHE0VUhOWWhUWUJGOWFxWjlWanFaTERLZXpYNm9sU2J6ZWhzM3FHVUMxcUlWZjNRVE51QVkybkxPMThVUU5BbUNzdw?oc=5",
         "publishedAt": "2026-08-02T11:11:00.000Z"
-      },
-      {
-        "time": "17:27",
-        "title": "飲料工場の暑熱対策としてSPACECOOLルーフシェードを採用 屋根表面温度を25.6℃低減、飲料業界の労働環境改善と省エネに貢献",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmQVlWWUwwZGxEOGI1Z2x3QjN0X3RLTURRNG8xNTFwUXRYNXBqbURPTVRVMk1Ed3RpR1N0OC10TllrUGhlb1dPdWJJbjNjUkJGU1lvV1Q2MHBpbU0?oc=5",
-        "publishedAt": "2026-08-02T08:27:11.000Z"
       },
       {
         "time": "22:33",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590265?source=rss",
         "publishedAt": "2026-08-02T06:35:24.000Z"
+      },
+      {
+        "time": "07:28",
+        "title": "日米が協調為替介入 15年ぶり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590202?source=rss",
+        "publishedAt": "2026-08-01T22:28:48.000Z"
       }
     ],
     "worldHeadlines": [
