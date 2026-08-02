@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T22:49:47.465Z",
+  "updatedAt": "2026-08-02T23:23:28.607Z",
   "items": [
     {
       "time": "07:38",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本の復旧復興 補正予算編成論も"
     },
     {
-      "time": "06:54",
-      "title": "高市内閣の支持率59.2% JNN調査",
+      "time": "07:59",
+      "title": "ヘリ同士衝突し2人死亡 ギリシャ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590328?source=rss",
-      "publishedAt": "2026-08-02T21:54:45.000Z",
-      "xQuery": "高市内閣の支持率59.2% JNN調査"
+      "url": "https://news.yahoo.co.jp/pickup/6590333?source=rss",
+      "publishedAt": "2026-08-02T22:59:40.000Z",
+      "xQuery": "ヘリ同士衝突し2人死亡 ギリシャ"
     },
     {
-      "time": "22:33",
-      "title": "爆発前戻るよう指示 店舗運営謝罪",
+      "time": "08:07",
+      "title": "トランプ氏 円買い介入は友好の証",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590315?source=rss",
-      "publishedAt": "2026-08-02T13:33:16.000Z",
-      "xQuery": "爆発前戻るよう指示 店舗運営謝罪"
-    },
-    {
-      "time": "01:40",
-      "title": "地震と雲を関係付ける誤情報 注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590323?source=rss",
-      "publishedAt": "2026-08-02T16:40:22.000Z",
-      "xQuery": "地震と雲を関係付ける誤情報 注意"
+      "url": "https://news.yahoo.co.jp/pickup/6590335?source=rss",
+      "publishedAt": "2026-08-02T23:07:54.000Z",
+      "xQuery": "トランプ氏 円買い介入は友好の証"
     },
     {
       "time": "06:35",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590327?source=rss",
       "publishedAt": "2026-08-02T21:35:26.000Z",
       "xQuery": "同じ会社の男性を殺害疑い 男逮捕"
+    },
+    {
+      "time": "08:06",
+      "title": "湖池屋ポテチ「直送便」好調理由",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590334?source=rss",
+      "publishedAt": "2026-08-02T23:06:16.000Z",
+      "xQuery": "湖池屋ポテチ「直送便」好調理由"
     }
   ]
 };
