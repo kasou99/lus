@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T19:29:33.572Z",
+  "updatedAt": "2026-08-02T19:59:37.096Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-08-02T09:07:38.000Z"
       },
       {
-        "time": "04:35",
-        "title": "経営ひと言／ブラザー工業・池田和史社長「工作機械のびる」",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Bb3N3RVMweVhpcXFoMG5GYnZ5cEtSOEdYcVdQRFBUV0hKTDNuQ3UzaDhsNm5GellHSDN3SG1lS3NQYWtEVEt3NHZGWVAzU3UwYUZnODJiVWs?oc=5",
-        "publishedAt": "2026-08-01T19:35:18.000Z"
-      },
-      {
         "time": "17:27",
         "title": "飲料工場の暑熱対策としてSPACECOOLルーフシェードを採用 屋根表面温度を25.6℃低減、飲料業界の労働環境改善と省エネに貢献",
         "source": "朝日新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmQVlWWUwwZGxEOGI1Z2x3QjN0X3RLTURRNG8xNTFwUXRYNXBqbURPTVRVMk1Ed3RpR1N0OC10TllrUGhlb1dPdWJJbjNjUkJGU1lvV1Q2MHBpbU0?oc=5",
         "publishedAt": "2026-08-02T08:27:11.000Z"
+      },
+      {
+        "time": "05:11",
+        "title": "自動化時代にあえて手動！職人技15社がMOBIOに集結「汎用旋盤技術展」開催",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fNDNFTU9telVaN0tKMVJJSzFxenc5Z2pqTmxOUXM4MHM0Z05rUnpFU1U4VzNHSlhkbk5wV3NlYUh0X2toZGFIdE9nMUFVWGFxcXZteW1WXzVJN1E?oc=5",
+        "publishedAt": "2026-08-01T20:11:51.000Z"
       },
       {
         "time": "20:11",
