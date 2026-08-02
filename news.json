@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-08-02T19:59:37.096Z",
+  "updatedAt": "2026-08-02T20:26:38.455Z",
   "groups": {
     "machineHeadlines": [
       {
+        "time": "05:00",
+        "title": "工場自動化へ工作機械のM&A活況 東明工業、長野の企業買収",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40azNsQjRqaHF2dU11d3VsMUM5aElBb2lnZmVvUHhqai1RR2J3V3BkUnRzVk1CTUdydUpXQm5RY1E2N08xYnJmTnVfcG1kWTVuam5KOTJzN3VWYmg3VnZ0OGgtcW1mWHpGcUZjNA?oc=5",
+        "publishedAt": "2026-08-02T20:00:00.000Z"
+      },
+      {
         "time": "01:13",
         "title": "【日本株】AI相場の次なる主役｢フィジカルAI｣の本命株を紹介！ 工作機械大手で業績が急回復中の｢DMG森精機｣と、エヌビディアと提携の｢ファナック｣に注目！",
-        "source": "ダイヤモンド・オンライン",
+        "source": "diamond.jp",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91eDI4Y2VybUVidXpJdlRIOHNCR0NaemszWmQybllMeUJrc1lSMkc3MUprcnByVkRiS1ZaSDU2MEg3YkdKa3ZpSmo1aTJiUFRWZ2hB?oc=5",
         "publishedAt": "2026-08-02T16:13:28.000Z"
+      },
+      {
+        "time": "04:52",
+        "title": "インタビュー／八洲電機社長・清宮茂樹氏 幸せ原動力に循環型成長",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCLVozQzBUNnBncG5iN2ROYTFqSUpmejkzUE40VW1fd3RzVVU3ZWJnUHFrdEhCMVduYl93UFU3ZmNGZk56R3MyOGNzX2lFWHdDTFBPM1Z1OTBIc2c?oc=5",
+        "publishedAt": "2026-08-02T19:52:30.000Z"
       },
       {
         "time": "18:07",
@@ -17,18 +31,25 @@
         "publishedAt": "2026-08-02T09:07:38.000Z"
       },
       {
-        "time": "17:27",
-        "title": "飲料工場の暑熱対策としてSPACECOOLルーフシェードを採用 屋根表面温度を25.6℃低減、飲料業界の労働環境改善と省エネに貢献",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmQVlWWUwwZGxEOGI1Z2x3QjN0X3RLTURRNG8xNTFwUXRYNXBqbURPTVRVMk1Ed3RpR1N0OC10TllrUGhlb1dPdWJJbjNjUkJGU1lvV1Q2MHBpbU0?oc=5",
-        "publishedAt": "2026-08-02T08:27:11.000Z"
+        "time": "05:01",
+        "title": "大手商社3社の通期見通し、業績底堅く 成長投資が利益貢献",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tczF5SEFfcTh0TmtISzVtRDdTM2hpRm1DQVFtcjFLTGgwdXNmOFJzemtxU2d3OEtjdjN6cDZZVGh0NFJpUmJkTHVZN25pRnM5LVdtam1XQWtWa1k?oc=5",
+        "publishedAt": "2026-08-02T20:01:09.000Z"
       },
       {
-        "time": "05:11",
-        "title": "自動化時代にあえて手動！職人技15社がMOBIOに集結「汎用旋盤技術展」開催",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fNDNFTU9telVaN0tKMVJJSzFxenc5Z2pqTmxOUXM4MHM0Z05rUnpFU1U4VzNHSlhkbk5wV3NlYUh0X2toZGFIdE9nMUFVWGFxcXZteW1WXzVJN1E?oc=5",
-        "publishedAt": "2026-08-01T20:11:51.000Z"
+        "time": "05:00",
+        "title": "考察／官民挙げて日本を再び強く、日本成長戦略会議の成長シナリオ（下）／産業全体の底上げが必要、戦略分野に高級鋼で貢献／グリーンスチールは「戦略性の高い商品」、供給力が鉄鋼メーカーの存続左右",
+        "source": "日刊鉄鋼新聞 Japan Metal Daily",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sRDA4TGZyc0FiQ01CVVdVZ3NUSWJGNm1jQ3QzZnZ3SnM0MC1JUDBWZVBzYjYxc1EyR1NFUVYtTUhDU3RmTDBISFp4c1AwRnpYTGxIampfNmhmeUJGeGc?oc=5",
+        "publishedAt": "2026-08-02T20:00:00.000Z"
+      },
+      {
+        "time": "17:27",
+        "title": "飲料工場の暑熱対策としてSPACECOOLルーフシェードを採用 屋根表面温度を25.6℃低減、飲料業界の労働環境改善と省エネに貢献",
+        "source": "asahi.com",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmQVlWWUwwZGxEOGI1Z2x3QjN0X3RLTURRNG8xNTFwUXRYNXBqbURPTVRVMk1Ed3RpR1N0OC10TllrUGhlb1dPdWJJbjNjUkJGU1lvV1Q2MHBpbU0?oc=5",
+        "publishedAt": "2026-08-02T08:27:11.000Z"
       },
       {
         "time": "20:11",
@@ -36,27 +57,6 @@
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vRXc1OUx1cTg0NVB1Q3VYYkpIUTV2VGZ2akRVT1B5YXNMVGZfM0xfcEZpYWNrQ3UwaHE0VUhOWWhUWUJGOWFxWjlWanFaTERLZXpYNm9sU2J6ZWhzM3FHVUMxcUlWZjNRVE51QVkybkxPMThVUU5BbUNzdw?oc=5",
         "publishedAt": "2026-08-02T11:11:00.000Z"
-      },
-      {
-        "time": "22:33",
-        "title": "爆発前戻るよう指示 店舗運営謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590315?source=rss",
-        "publishedAt": "2026-08-02T13:33:16.000Z"
-      },
-      {
-        "time": "15:35",
-        "title": "日本製紙の工場被災 経営に打撃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590265?source=rss",
-        "publishedAt": "2026-08-02T06:35:24.000Z"
-      },
-      {
-        "time": "07:28",
-        "title": "日米が協調為替介入 15年ぶり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590202?source=rss",
-        "publishedAt": "2026-08-01T22:28:48.000Z"
       }
     ],
     "worldHeadlines": [
