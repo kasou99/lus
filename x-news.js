@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T03:11:15.605Z",
+  "updatedAt": "2026-08-02T04:40:15.289Z",
   "items": [
-    {
-      "time": "10:39",
-      "title": "車に避難の70代女性死亡 熱中症か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590231?source=rss",
-      "publishedAt": "2026-08-02T01:39:28.000Z",
-      "xQuery": "車に避難の70代女性死亡 熱中症か"
-    },
     {
       "time": "12:02",
       "title": "米大統領 イラン大規模攻撃を中止",
@@ -18,28 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 イラン大規模攻撃を中止"
     },
     {
-      "time": "10:06",
-      "title": "首相「メシ会苦手」に起きた変化",
+      "time": "11:35",
+      "title": "防衛機密 クラウドで運用へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590225?source=rss",
-      "publishedAt": "2026-08-02T01:06:43.000Z",
-      "xQuery": "首相「メシ会苦手」に起きた変化"
+      "url": "https://news.yahoo.co.jp/pickup/6590235?source=rss",
+      "publishedAt": "2026-08-02T02:35:06.000Z",
+      "xQuery": "防衛機密 クラウドで運用へ"
     },
     {
-      "time": "10:45",
-      "title": "台風13号 沖縄のあと九州接近か",
+      "time": "12:26",
+      "title": "避難所の70代女性 コロナに感染",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590227?source=rss",
-      "publishedAt": "2026-08-02T01:45:20.000Z",
-      "xQuery": "台風13号 沖縄のあと九州接近か"
+      "url": "https://news.yahoo.co.jp/pickup/6590242?source=rss",
+      "publishedAt": "2026-08-02T03:26:15.000Z",
+      "xQuery": "避難所の70代女性 コロナに感染"
     },
     {
-      "time": "10:13",
-      "title": "日帰り部活遠征26万円 現場の葛藤",
+      "time": "12:56",
+      "title": "スカイダイビングで着地失敗 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590226?source=rss",
-      "publishedAt": "2026-08-02T01:13:41.000Z",
-      "xQuery": "日帰り部活遠征26万円 現場の葛藤"
+      "url": "https://news.yahoo.co.jp/pickup/6590246?source=rss",
+      "publishedAt": "2026-08-02T03:56:15.000Z",
+      "xQuery": "スカイダイビングで着地失敗 死亡"
+    },
+    {
+      "time": "12:41",
+      "title": "山中で2歳を保護 不明から21時間",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590245?source=rss",
+      "publishedAt": "2026-08-02T03:41:41.000Z",
+      "xQuery": "山中で2歳を保護 不明から21時間"
     }
   ]
 };
