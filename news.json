@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T01:40:03.539Z",
+  "updatedAt": "2026-08-02T03:11:14.841Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-08-01T12:20:28.000Z"
       },
       {
-        "time": "05:11",
-        "title": "自動化時代にあえて手動！職人技15社がMOBIOに集結「汎用旋盤技術展」開催",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fNDNFTU9telVaN0tKMVJJSzFxenc5Z2pqTmxOUXM4MHM0Z05rUnpFU1U4VzNHSlhkbk5wV3NlYUh0X2toZGFIdE9nMUFVWGFxcXZteW1WXzVJN1E?oc=5",
-        "publishedAt": "2026-08-01T20:11:51.000Z"
-      },
-      {
         "time": "17:28",
         "title": "MUSE、自律移動ロボ実証 都内薬局5店で来月",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZmhfcy1ZdnhCQ2l1LVdicG5kZzZmYlV3a2dqM1dmanROUlZwRGU4ZGxCTFYxTklRemhRWWpQVXVVUF8tTDhQbE9kMWNQZlZWTzU2dTdRbUVwMFBJdGh4SEVrQnRxZGJyZktXZVdrT3BLZzZ1?oc=5",
         "publishedAt": "2026-08-01T08:28:24.000Z"
+      },
+      {
+        "time": "15:03",
+        "title": "岡山県経済ダイジェスト最新版 岡山経済研究所が発刊",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGNIVE9RRWl0cHNjQ1JYUkJQSWgxZC1YcHBYVTJoY09WWmwtWFllblVMc05uNlEtelE3VkZweTlENnNHZHJEaVRfdVhIX3FOVmVXcl9tM1VIa0JuakZnSml2VTZiWU93eWR6MW96RzV2cEpfMnAyVzhSSDRIeFJYQ1FkV2VYbGJNUTlhS294SGlKZWs?oc=5",
+        "publishedAt": "2026-08-01T06:03:50.000Z"
       },
       {
         "time": "07:28",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "12:02",
+        "title": "米大統領 イラン大規模攻撃を中止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590237?source=rss",
+        "publishedAt": "2026-08-02T03:02:05.000Z"
+      },
+      {
         "time": "07:50",
         "title": "モスクワで店爆発3人死亡 テロか",
         "source": "Yahoo!ニュース",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590130?source=rss",
         "publishedAt": "2026-08-01T03:31:29.000Z"
-      },
-      {
-        "time": "08:23",
-        "title": "米 過去最大級のイラン攻撃計画か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590099?source=rss",
-        "publishedAt": "2026-07-31T23:23:37.000Z"
       },
       {
         "time": "17:31",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "10:39",
+        "title": "車に避難の70代女性死亡 熱中症か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590231?source=rss",
+        "publishedAt": "2026-08-02T01:39:28.000Z"
+      },
+      {
         "time": "10:33",
         "title": "熊本地震の死者38人に 県発表",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590217?source=rss",
         "publishedAt": "2026-08-01T23:44:33.000Z"
-      },
-      {
-        "time": "07:33",
-        "title": "シジミ採り中に溺れたか 男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590205?source=rss",
-        "publishedAt": "2026-08-01T22:33:15.000Z"
       }
     ],
     "subsidyHeadlines": [

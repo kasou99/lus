@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T01:40:04.520Z",
+  "updatedAt": "2026-08-02T03:11:15.605Z",
   "items": [
     {
-      "time": "10:33",
-      "title": "熊本地震の死者38人に 県発表",
+      "time": "10:39",
+      "title": "車に避難の70代女性死亡 熱中症か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590230?source=rss",
-      "publishedAt": "2026-08-02T01:33:24.000Z",
-      "xQuery": "熊本地震の死者38人に 県発表"
+      "url": "https://news.yahoo.co.jp/pickup/6590231?source=rss",
+      "publishedAt": "2026-08-02T01:39:28.000Z",
+      "xQuery": "車に避難の70代女性死亡 熱中症か"
     },
     {
-      "time": "09:15",
-      "title": "エボラ熱 コンゴで過去最大の流行",
+      "time": "12:02",
+      "title": "米大統領 イラン大規模攻撃を中止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590219?source=rss",
-      "publishedAt": "2026-08-02T00:15:54.000Z",
-      "xQuery": "エボラ熱 コンゴで過去最大の流行"
+      "url": "https://news.yahoo.co.jp/pickup/6590237?source=rss",
+      "publishedAt": "2026-08-02T03:02:05.000Z",
+      "xQuery": "米大統領 イラン大規模攻撃を中止"
     },
     {
-      "time": "09:55",
-      "title": "出産費無償化へ 医療界に不安の声",
+      "time": "10:06",
+      "title": "首相「メシ会苦手」に起きた変化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590224?source=rss",
-      "publishedAt": "2026-08-02T00:55:07.000Z",
-      "xQuery": "出産費無償化へ 医療界に不安の声"
+      "url": "https://news.yahoo.co.jp/pickup/6590225?source=rss",
+      "publishedAt": "2026-08-02T01:06:43.000Z",
+      "xQuery": "首相「メシ会苦手」に起きた変化"
+    },
+    {
+      "time": "10:45",
+      "title": "台風13号 沖縄のあと九州接近か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590227?source=rss",
+      "publishedAt": "2026-08-02T01:45:20.000Z",
+      "xQuery": "台風13号 沖縄のあと九州接近か"
     },
     {
       "time": "10:13",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590226?source=rss",
       "publishedAt": "2026-08-02T01:13:41.000Z",
       "xQuery": "日帰り部活遠征26万円 現場の葛藤"
-    },
-    {
-      "time": "08:44",
-      "title": "帰省中に行方不明の2歳 無事発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590217?source=rss",
-      "publishedAt": "2026-08-01T23:44:33.000Z",
-      "xQuery": "帰省中に行方不明の2歳 無事発見"
     }
   ]
 };
