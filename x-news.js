@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T21:21:44.496Z",
+  "updatedAt": "2026-08-02T21:49:46.942Z",
   "items": [
     {
       "time": "21:01",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "地震と雲を関係付ける誤情報 注意"
     },
     {
-      "time": "20:15",
-      "title": "落石で女性死亡 小学生の子が目撃",
+      "time": "06:35",
+      "title": "同じ会社の男性を殺害疑い 男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590299?source=rss",
-      "publishedAt": "2026-08-02T11:15:25.000Z",
-      "xQuery": "落石で女性死亡 小学生の子が目撃"
+      "url": "https://news.yahoo.co.jp/pickup/6590327?source=rss",
+      "publishedAt": "2026-08-02T21:35:26.000Z",
+      "xQuery": "同じ会社の男性を殺害疑い 男逮捕"
     }
   ]
 };
