@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T08:19:14.096Z",
+  "updatedAt": "2026-08-02T09:16:33.944Z",
   "items": [
     {
-      "time": "15:35",
-      "title": "日本製紙の工場被災 経営に打撃",
+      "time": "18:14",
+      "title": "被災の老人ホーム 熱中症疑い続出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590265?source=rss",
-      "publishedAt": "2026-08-02T06:35:24.000Z",
-      "xQuery": "日本製紙の工場被災 経営に打撃"
+      "url": "https://news.yahoo.co.jp/pickup/6590284?source=rss",
+      "publishedAt": "2026-08-02T09:14:37.000Z",
+      "xQuery": "被災の老人ホーム 熱中症疑い続出"
     },
     {
-      "time": "16:57",
-      "title": "高額療養費見直し パブコメ5300件",
+      "time": "17:02",
+      "title": "移民流入のスペイン 海にフェンス",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590271?source=rss",
-      "publishedAt": "2026-08-02T07:57:00.000Z",
-      "xQuery": "高額療養費見直し パブコメ5300件"
+      "url": "https://news.yahoo.co.jp/pickup/6590274?source=rss",
+      "publishedAt": "2026-08-02T08:02:59.000Z",
+      "xQuery": "移民流入のスペイン 海にフェンス"
     },
     {
-      "time": "14:27",
-      "title": "車中泊避難者が死亡 ガソリンは空",
+      "time": "16:54",
+      "title": "給食がない夏休み 困窮世帯の実態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590256?source=rss",
-      "publishedAt": "2026-08-02T05:27:55.000Z",
-      "xQuery": "車中泊避難者が死亡 ガソリンは空"
+      "url": "https://news.yahoo.co.jp/pickup/6590273?source=rss",
+      "publishedAt": "2026-08-02T07:54:04.000Z",
+      "xQuery": "給食がない夏休み 困窮世帯の実態"
     },
     {
       "time": "16:25",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "海岸で夫を撮影中に落石 女性死亡"
     },
     {
-      "time": "16:18",
-      "title": "久保田智子氏 特別養子縁組を語る",
+      "time": "17:27",
+      "title": "上空3000mから着地失敗 46歳死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590266?source=rss",
-      "publishedAt": "2026-08-02T07:18:12.000Z",
-      "xQuery": "久保田智子氏 特別養子縁組を語る"
+      "url": "https://news.yahoo.co.jp/pickup/6590276?source=rss",
+      "publishedAt": "2026-08-02T08:27:42.000Z",
+      "xQuery": "上空3000mから着地失敗 46歳死亡"
     }
   ]
 };

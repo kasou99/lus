@@ -1,27 +1,13 @@
 {
-  "updatedAt": "2026-08-02T08:19:12.427Z",
+  "updatedAt": "2026-08-02T09:16:33.123Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "16:06",
         "title": "【日本株】AI相場の次なる主役｢フィジカルAI｣の本命株を紹介！ 工作機械大手で業績が急回復中の｢DMG森精機｣と、エヌビディアと提携の｢ファナック｣に注目！",
-        "source": "diamond.jp",
+        "source": "ダイヤモンド・オンライン",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91eDI4Y2VybUVidXpJdlRIOHNCR0NaemszWmQybllMeUJrc1lSMkc3MUprcnByVkRiS1ZaSDU2MEg3YkdKa3ZpSmo1aTJiUFRWZ2hB?oc=5",
         "publishedAt": "2026-08-02T07:06:05.000Z"
-      },
-      {
-        "time": "04:35",
-        "title": "経営ひと言／ブラザー工業・池田和史社長「工作機械のびる」",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Bb3N3RVMweVhpcXFoMG5GYnZ5cEtSOEdYcVdQRFBUV0hKTDNuQ3UzaDhsNm5GellHSDN3SG1lS3NQYWtEVEt3NHZGWVAzU3UwYUZnODJiVWs?oc=5",
-        "publishedAt": "2026-08-01T19:35:18.000Z"
-      },
-      {
-        "time": "17:28",
-        "title": "MUSE、自律移動ロボ実証 都内薬局5店で来月",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZmhfcy1ZdnhCQ2l1LVdicG5kZzZmYlV3a2dqM1dmanROUlZwRGU4ZGxCTFYxTklRemhRWWpQVXVVUF8tTDhQbE9kMWNQZlZWTzU2dTdRbUVwMFBJdGh4SEVrQnRxZGJyZktXZVdrT3BLZzZ1?oc=5",
-        "publishedAt": "2026-08-01T08:28:24.000Z"
       },
       {
         "time": "15:35",
@@ -45,6 +31,13 @@
         "publishedAt": "2026-08-01T03:58:01.000Z"
       },
       {
+        "time": "17:54",
+        "title": "地震で商品落下 コストコの回答",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590283?source=rss",
+        "publishedAt": "2026-08-02T08:54:59.000Z"
+      },
+      {
         "time": "16:46",
         "title": "BYDオート社長 EV補助金に見解",
         "source": "Yahoo!ニュース",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-08-01T07:46:05.000Z"
       },
       {
-        "time": "11:41",
-        "title": "キオクシアなぜ急成長 背景を解説",
+        "time": "17:20",
+        "title": "「見せる延長コード」開発の情熱",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590122?source=rss",
-        "publishedAt": "2026-08-01T02:41:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590275?source=rss",
+        "publishedAt": "2026-08-02T08:20:39.000Z"
+      },
+      {
+        "time": "10:15",
+        "title": "ジェリーシューズ なぜ大人が支持",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590228?source=rss",
+        "publishedAt": "2026-08-02T01:15:35.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-08-01T03:58:01.000Z"
       },
       {
+        "time": "17:54",
+        "title": "地震で商品落下 コストコの回答",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590283?source=rss",
+        "publishedAt": "2026-08-02T08:54:59.000Z"
+      },
+      {
         "time": "16:46",
         "title": "BYDオート社長 EV補助金に見解",
         "source": "Yahoo!ニュース",
@@ -133,21 +140,21 @@
         "publishedAt": "2026-08-01T07:46:05.000Z"
       },
       {
-        "time": "11:41",
-        "title": "キオクシアなぜ急成長 背景を解説",
+        "time": "17:20",
+        "title": "「見せる延長コード」開発の情熱",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590122?source=rss",
-        "publishedAt": "2026-08-01T02:41:44.000Z"
-      },
-      {
-        "time": "10:15",
-        "title": "ジェリーシューズ なぜ大人が支持",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590228?source=rss",
-        "publishedAt": "2026-08-02T01:15:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590275?source=rss",
+        "publishedAt": "2026-08-02T08:20:39.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "18:14",
+        "title": "被災の老人ホーム 熱中症疑い続出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590284?source=rss",
+        "publishedAt": "2026-08-02T09:14:37.000Z"
+      },
       {
         "time": "16:12",
         "title": "倒壊した自宅 途絶えた祖母の声",
@@ -163,20 +170,6 @@
         "publishedAt": "2026-08-02T05:27:55.000Z"
       },
       {
-        "time": "12:26",
-        "title": "避難所の70代女性 コロナに感染",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590242?source=rss",
-        "publishedAt": "2026-08-02T03:26:15.000Z"
-      },
-      {
-        "time": "15:10",
-        "title": "山中に女性遺体 男から事情聴く",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590261?source=rss",
-        "publishedAt": "2026-08-02T06:10:31.000Z"
-      },
-      {
         "time": "16:25",
         "title": "海岸で夫を撮影中に落石 女性死亡",
         "source": "Yahoo!ニュース",
@@ -184,11 +177,18 @@
         "publishedAt": "2026-08-02T07:25:34.000Z"
       },
       {
-        "time": "12:56",
-        "title": "スカイダイビングで着地失敗 死亡",
+        "time": "17:27",
+        "title": "上空3000mから着地失敗 46歳死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590246?source=rss",
-        "publishedAt": "2026-08-02T03:56:15.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590276?source=rss",
+        "publishedAt": "2026-08-02T08:27:42.000Z"
+      },
+      {
+        "time": "17:52",
+        "title": "長岡花火巡り 道の駅に長時間駐車",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590281?source=rss",
+        "publishedAt": "2026-08-02T08:52:09.000Z"
       }
     ],
     "subsidyHeadlines": [
