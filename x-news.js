@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-01T23:50:25.661Z",
+  "updatedAt": "2026-08-02T00:50:55.618Z",
   "items": [
     {
-      "time": "08:14",
-      "title": "地震住宅被害3649棟 前日の2倍超",
+      "time": "08:42",
+      "title": "東海-九州酷暑日も 熱中症対策を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590213?source=rss",
-      "publishedAt": "2026-08-01T23:14:07.000Z",
-      "xQuery": "地震住宅被害3649棟 前日の2倍超"
+      "url": "https://news.yahoo.co.jp/pickup/6590216?source=rss",
+      "publishedAt": "2026-08-01T23:42:23.000Z",
+      "xQuery": "東海-九州酷暑日も 熱中症対策を"
     },
     {
-      "time": "07:28",
-      "title": "日米が協調為替介入 15年ぶり",
+      "time": "08:57",
+      "title": "八代市でシャワー開放 施設の思い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590202?source=rss",
-      "publishedAt": "2026-08-01T22:28:48.000Z",
-      "xQuery": "日米が協調為替介入 15年ぶり"
-    },
-    {
-      "time": "07:50",
-      "title": "モスクワで店爆発3人死亡 テロか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590208?source=rss",
-      "publishedAt": "2026-08-01T22:50:17.000Z",
-      "xQuery": "モスクワで店爆発3人死亡 テロか"
+      "url": "https://news.yahoo.co.jp/pickup/6590218?source=rss",
+      "publishedAt": "2026-08-01T23:57:42.000Z",
+      "xQuery": "八代市でシャワー開放 施設の思い"
     },
     {
       "time": "08:44",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590205?source=rss",
       "publishedAt": "2026-08-01T22:33:15.000Z",
       "xQuery": "シジミ採り中に溺れたか 男性死亡"
+    },
+    {
+      "time": "08:56",
+      "title": "町が明るくなった 町内会長に17歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590220?source=rss",
+      "publishedAt": "2026-08-01T23:56:31.000Z",
+      "xQuery": "町が明るくなった 町内会長に17歳"
     }
   ]
 };
