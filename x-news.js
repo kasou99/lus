@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T09:16:33.944Z",
+  "updatedAt": "2026-08-02T10:09:58.938Z",
   "items": [
     {
       "time": "18:14",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "給食がない夏休み 困窮世帯の実態"
     },
     {
+      "time": "17:54",
+      "title": "地震で商品落下 コストコの回答",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590283?source=rss",
+      "publishedAt": "2026-08-02T08:54:59.000Z",
+      "xQuery": "地震で商品落下 コストコの回答"
+    },
+    {
       "time": "16:25",
       "title": "海岸で夫を撮影中に落石 女性死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590270?source=rss",
       "publishedAt": "2026-08-02T07:25:34.000Z",
       "xQuery": "海岸で夫を撮影中に落石 女性死亡"
-    },
-    {
-      "time": "17:27",
-      "title": "上空3000mから着地失敗 46歳死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590276?source=rss",
-      "publishedAt": "2026-08-02T08:27:42.000Z",
-      "xQuery": "上空3000mから着地失敗 46歳死亡"
     }
   ]
 };
