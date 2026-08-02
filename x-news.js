@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T23:23:28.607Z",
+  "updatedAt": "2026-08-02T23:50:26.481Z",
   "items": [
+    {
+      "time": "08:40",
+      "title": "財務相 さらなる協調介入躊躇せず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590337?source=rss",
+      "publishedAt": "2026-08-02T23:40:39.000Z",
+      "xQuery": "財務相 さらなる協調介入躊躇せず"
+    },
     {
       "time": "07:38",
       "title": "熊本の復旧復興 補正予算編成論も",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590331?source=rss",
       "publishedAt": "2026-08-02T22:38:27.000Z",
       "xQuery": "熊本の復旧復興 補正予算編成論も"
-    },
-    {
-      "time": "07:59",
-      "title": "ヘリ同士衝突し2人死亡 ギリシャ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590333?source=rss",
-      "publishedAt": "2026-08-02T22:59:40.000Z",
-      "xQuery": "ヘリ同士衝突し2人死亡 ギリシャ"
     },
     {
       "time": "08:07",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T23:23:27.823Z",
+  "updatedAt": "2026-08-02T23:50:25.585Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "06:15",
         "title": "高硬度材加工に対応、マルチローラタイプの鏡面仕上げ工具：工作機械",
-        "source": "monoist.itmedia.co.jp",
+        "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zdzBZZVJ0bWdMaWpsY1hHRThmbTNrOG42RXJuWG1QREpESG8xUC1DM0dWZWlnVDRvQVFJMW0yVGVSaGpwdG90MGd5R2M5eXBKU2ZuSUZXRHRuNjZ5VXB4WkFCOExiLWI4N1dza0RIMA?oc=5",
         "publishedAt": "2026-08-02T21:15:00.000Z"
       },
@@ -24,11 +24,11 @@
         "publishedAt": "2026-08-02T16:13:28.000Z"
       },
       {
-        "time": "05:01",
-        "title": "大手商社3社の通期見通し、業績底堅く 成長投資が利益貢献",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tczF5SEFfcTh0TmtISzVtRDdTM2hpRm1DQVFtcjFLTGgwdXNmOFJzemtxU2d3OEtjdjN6cDZZVGh0NFJpUmJkTHVZN25pRnM5LVdtam1XQWtWa1k?oc=5",
-        "publishedAt": "2026-08-02T20:01:09.000Z"
+        "time": "04:52",
+        "title": "インタビュー／八洲電機社長・清宮茂樹氏 幸せ原動力に循環型成長",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCLVozQzBUNnBncG5iN2ROYTFqSUpmejkzUE40VW1fd3RzVVU3ZWJnUHFrdEhCMVduYl93UFU3ZmNGZk56R3MyOGNzX2lFWHdDTFBPM1Z1OTBIc2c?oc=5",
+        "publishedAt": "2026-08-02T19:52:30.000Z"
       },
       {
         "time": "18:07",
@@ -36,6 +36,13 @@
         "source": "公明党",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jZXBEMkNXY3JUUEVMNUJSYmFoRVNpUlBDQnh1ZlNmTndETURlUjQ2M2VGV2RpZ0J1RnNjZ09XT2lXRnUzV1Ixd3RsTVNXQU9VaGNONVIzdXJZTEJSRGNoaURTRGpzQQ?oc=5",
         "publishedAt": "2026-08-02T09:07:38.000Z"
+      },
+      {
+        "time": "05:01",
+        "title": "大手商社3社の通期見通し、業績底堅く 成長投資が利益貢献",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tczF5SEFfcTh0TmtISzVtRDdTM2hpRm1DQVFtcjFLTGgwdXNmOFJzemtxU2d3OEtjdjN6cDZZVGh0NFJpUmJkTHVZN25pRnM5LVdtam1XQWtWa1k?oc=5",
+        "publishedAt": "2026-08-02T20:01:09.000Z"
       },
       {
         "time": "06:45",
@@ -47,16 +54,9 @@
       {
         "time": "05:00",
         "title": "考察／官民挙げて日本を再び強く、日本成長戦略会議の成長シナリオ（下）／産業全体の底上げが必要、戦略分野に高級鋼で貢献／グリーンスチールは「戦略性の高い商品」、供給力が鉄鋼メーカーの存続左右",
-        "source": "日刊鉄鋼新聞 Japan Metal Daily",
+        "source": "japanmetaldaily.com",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sRDA4TGZyc0FiQ01CVVdVZ3NUSWJGNm1jQ3QzZnZ3SnM0MC1JUDBWZVBzYjYxc1EyR1NFUVYtTUhDU3RmTDBISFp4c1AwRnpYTGxIampfNmhmeUJGeGc?oc=5",
         "publishedAt": "2026-08-02T20:00:00.000Z"
-      },
-      {
-        "time": "04:52",
-        "title": "インタビュー／八洲電機社長・清宮茂樹氏 幸せ原動力に循環型成長",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCLVozQzBUNnBncG5iN2ROYTFqSUpmejkzUE40VW1fd3RzVVU3ZWJnUHFrdEhCMVduYl93UFU3ZmNGZk56R3MyOGNzX2lFWHdDTFBPM1Z1OTBIc2c?oc=5",
-        "publishedAt": "2026-08-02T19:52:30.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,20 @@
     ],
     "economyHeadlines": [
       {
+        "time": "08:40",
+        "title": "財務相 さらなる協調介入躊躇せず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590337?source=rss",
+        "publishedAt": "2026-08-02T23:40:39.000Z"
+      },
+      {
+        "time": "08:07",
+        "title": "トランプ氏 円買い介入は友好の証",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590335?source=rss",
+        "publishedAt": "2026-08-02T23:07:54.000Z"
+      },
+      {
         "time": "22:33",
         "title": "爆発前戻るよう指示 店舗運営謝罪",
         "source": "Yahoo!ニュース",
@@ -117,20 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590265?source=rss",
         "publishedAt": "2026-08-02T06:35:24.000Z"
-      },
-      {
-        "time": "07:28",
-        "title": "日米が協調為替介入 15年ぶり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590202?source=rss",
-        "publishedAt": "2026-08-01T22:28:48.000Z"
-      },
-      {
-        "time": "08:07",
-        "title": "トランプ氏 円買い介入は友好の証",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590335?source=rss",
-        "publishedAt": "2026-08-02T23:07:54.000Z"
       },
       {
         "time": "17:54",
