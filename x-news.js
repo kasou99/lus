@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T03:12:16.786Z",
+  "updatedAt": "2026-08-03T04:43:37.103Z",
   "items": [
+    {
+      "time": "13:00",
+      "title": "台風 4日に小笠原諸島へ最接近",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590368?source=rss",
+      "publishedAt": "2026-08-03T04:00:08.000Z",
+      "xQuery": "台風 4日に小笠原諸島へ最接近"
+    },
     {
       "time": "11:53",
       "title": "熊本地震 ふるさと納税7.3億円超",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震 ふるさと納税7.3億円超"
     },
     {
-      "time": "11:46",
-      "title": "知的財産で企業価値向上 政府指針",
+      "time": "12:39",
+      "title": "地震で頸椎損傷 高1の女性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590355?source=rss",
-      "publishedAt": "2026-08-03T02:46:25.000Z",
-      "xQuery": "知的財産で企業価値向上 政府指針"
-    },
-    {
-      "time": "09:22",
-      "title": "熊本地震で転倒が原因か 16歳死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590341?source=rss",
-      "publishedAt": "2026-08-03T00:22:19.000Z",
-      "xQuery": "熊本地震で転倒が原因か 16歳死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590364?source=rss",
+      "publishedAt": "2026-08-03T03:39:09.000Z",
+      "xQuery": "地震で頸椎損傷 高1の女性死亡"
     },
     {
       "time": "11:46",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン爆発前 戻る指示の法的責任"
     },
     {
-      "time": "11:46",
-      "title": "江別暴行 当時18歳に無期懲役求刑",
+      "time": "11:41",
+      "title": "8歳男児2人はねられ 1人意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590357?source=rss",
-      "publishedAt": "2026-08-03T02:46:19.000Z",
-      "xQuery": "江別暴行 当時18歳に無期懲役求刑"
+      "url": "https://news.yahoo.co.jp/pickup/6590360?source=rss",
+      "publishedAt": "2026-08-03T02:41:12.000Z",
+      "xQuery": "8歳男児2人はねられ 1人意識不明"
     }
   ]
 };
