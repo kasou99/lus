@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T06:07:27.669Z",
+  "updatedAt": "2026-08-03T07:43:07.196Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -68,11 +68,11 @@
         "publishedAt": "2026-08-03T01:51:01.000Z"
       },
       {
-        "time": "12:02",
-        "title": "米大統領 イラン大規模攻撃を中止",
+        "time": "16:15",
+        "title": "スーチー氏 赤十字関係者と面会",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590237?source=rss",
-        "publishedAt": "2026-08-02T03:02:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590383?source=rss",
+        "publishedAt": "2026-08-03T07:15:12.000Z"
       },
       {
         "time": "22:18",
@@ -96,11 +96,11 @@
         "publishedAt": "2026-08-02T06:30:07.000Z"
       },
       {
-        "time": "12:14",
-        "title": "ナスカ見学の小型機墜落 13人死亡",
+        "time": "07:59",
+        "title": "ヘリ同士衝突し2人死亡 ギリシャ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590239?source=rss",
-        "publishedAt": "2026-08-02T03:14:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590333?source=rss",
+        "publishedAt": "2026-08-02T22:59:40.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-08-03T02:46:02.000Z"
       },
       {
+        "time": "15:38",
+        "title": "爆発で従業員犠牲 危機管理の盲点",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590354?source=rss",
+        "publishedAt": "2026-08-03T06:38:36.000Z"
+      },
+      {
         "time": "14:41",
         "title": "羽田国内線 預け入れ締切を厳格化",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590377?source=rss",
         "publishedAt": "2026-08-03T05:41:08.000Z"
-      },
-      {
-        "time": "17:54",
-        "title": "地震で商品落下 コストコの回答",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590283?source=rss",
-        "publishedAt": "2026-08-02T08:54:59.000Z"
       }
     ],
     "localHeadlines": [

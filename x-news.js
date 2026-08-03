@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T06:07:28.488Z",
+  "updatedAt": "2026-08-03T07:43:07.945Z",
   "items": [
     {
-      "time": "14:46",
-      "title": "熊本市で酷暑日 最大級の警戒を",
+      "time": "16:25",
+      "title": "自民 食料品の消費減税を大筋了承",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590380?source=rss",
-      "publishedAt": "2026-08-03T05:46:20.000Z",
-      "xQuery": "熊本市で酷暑日 最大級の警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6590386?source=rss",
+      "publishedAt": "2026-08-03T07:25:58.000Z",
+      "xQuery": "自民 食料品の消費減税を大筋了承"
     },
     {
-      "time": "12:59",
-      "title": "コロナ感染も 避難所は雑魚寝状態",
+      "time": "15:38",
+      "title": "爆発で従業員犠牲 危機管理の盲点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590369?source=rss",
-      "publishedAt": "2026-08-03T03:59:53.000Z",
-      "xQuery": "コロナ感染も 避難所は雑魚寝状態"
-    },
-    {
-      "time": "14:41",
-      "title": "羽田国内線 預け入れ締切を厳格化",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590377?source=rss",
-      "publishedAt": "2026-08-03T05:41:08.000Z",
-      "xQuery": "羽田国内線 預け入れ締切を厳格化"
+      "url": "https://news.yahoo.co.jp/pickup/6590354?source=rss",
+      "publishedAt": "2026-08-03T06:38:36.000Z",
+      "xQuery": "爆発で従業員犠牲 危機管理の盲点"
     },
     {
       "time": "14:29",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン爆発 雑貨店幹部が指示謝罪"
     },
     {
-      "time": "12:45",
-      "title": "山林遺体「腹すいて盗みに」供述",
+      "time": "16:15",
+      "title": "スーチー氏 赤十字関係者と面会",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590367?source=rss",
-      "publishedAt": "2026-08-03T03:45:20.000Z",
-      "xQuery": "山林遺体「腹すいて盗みに」供述"
+      "url": "https://news.yahoo.co.jp/pickup/6590383?source=rss",
+      "publishedAt": "2026-08-03T07:15:12.000Z",
+      "xQuery": "スーチー氏 赤十字関係者と面会"
+    },
+    {
+      "time": "15:33",
+      "title": "ポケカ マイナ使用の本人認証導入",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590381?source=rss",
+      "publishedAt": "2026-08-03T06:33:39.000Z",
+      "xQuery": "ポケカ マイナ使用の本人認証導入"
     }
   ]
 };
