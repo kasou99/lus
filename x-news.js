@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T13:28:51.078Z",
+  "updatedAt": "2026-08-03T14:25:31.130Z",
   "items": [
     {
-      "time": "21:50",
-      "title": "経産省 イオンモール熊本本格調査",
+      "time": "22:47",
+      "title": "米大統領 対イラン発言は二転三転",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590422?source=rss",
-      "publishedAt": "2026-08-03T12:50:20.000Z",
-      "xQuery": "経産省 イオンモール熊本本格調査"
+      "url": "https://news.yahoo.co.jp/pickup/6590431?source=rss",
+      "publishedAt": "2026-08-03T13:47:24.000Z",
+      "xQuery": "米大統領 対イラン発言は二転三転"
     },
     {
-      "time": "21:20",
-      "title": "30-31日の為替介入 計11兆円超か",
+      "time": "20:22",
+      "title": "車両集中 地震の復旧阻む大渋滞",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590420?source=rss",
-      "publishedAt": "2026-08-03T12:20:08.000Z",
-      "xQuery": "30-31日の為替介入 計11兆円超か"
+      "url": "https://news.yahoo.co.jp/pickup/6590413?source=rss",
+      "publishedAt": "2026-08-03T11:22:39.000Z",
+      "xQuery": "車両集中 地震の復旧阻む大渋滞"
     },
     {
-      "time": "21:59",
-      "title": "刑務官を起訴 受刑者に便宜約束か",
+      "time": "23:04",
+      "title": "地震で家倒壊 避難直後に盗難被害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590423?source=rss",
-      "publishedAt": "2026-08-03T12:59:32.000Z",
-      "xQuery": "刑務官を起訴 受刑者に便宜約束か"
+      "url": "https://news.yahoo.co.jp/pickup/6590433?source=rss",
+      "publishedAt": "2026-08-03T14:04:22.000Z",
+      "xQuery": "地震で家倒壊 避難直後に盗難被害"
     },
     {
-      "time": "20:39",
-      "title": "園のライオン3頭死ぬ 他3頭も治療",
+      "time": "22:40",
+      "title": "自民・小渕氏 消費減税方針に反対",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590415?source=rss",
-      "publishedAt": "2026-08-03T11:39:13.000Z",
-      "xQuery": "園のライオン3頭死ぬ 他3頭も治療"
+      "url": "https://news.yahoo.co.jp/pickup/6590429?source=rss",
+      "publishedAt": "2026-08-03T13:40:51.000Z",
+      "xQuery": "自民・小渕氏 消費減税方針に反対"
     },
     {
-      "time": "19:58",
-      "title": "本州最北の造り酒屋 自己破産へ",
+      "time": "22:28",
+      "title": "河口近くから海に流され 高1死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590411?source=rss",
-      "publishedAt": "2026-08-03T10:58:53.000Z",
-      "xQuery": "本州最北の造り酒屋 自己破産へ"
+      "url": "https://news.yahoo.co.jp/pickup/6590428?source=rss",
+      "publishedAt": "2026-08-03T13:28:34.000Z",
+      "xQuery": "河口近くから海に流され 高1死亡"
     }
   ]
 };
