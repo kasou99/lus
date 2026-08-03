@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-08-03T19:04:53.851Z",
+  "updatedAt": "2026-08-03T20:06:02.171Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:00",
-        "title": "工場自動化へ工作機械のM&A活況 東明工業、長野の企業買収",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40azNsQjRqaHF2dU11d3VsMUM5aElBb2lnZmVvUHhqai1RR2J3V3BkUnRzVk1CTUdydUpXQm5RY1E2N08xYnJmTnVfcG1kWTVuam5KOTJzN3VWYmg3VnZ0OGgtcW1mWHpGcUZjNA?oc=5",
-        "publishedAt": "2026-08-02T20:00:00.000Z"
+        "title": "中村留精密工業が工作機械のショールーム刷新、機能を体感できる場に",
+        "source": "日経クロステック",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBncHhkNkVUSERIbzdLa2lTejFkekRXWFpuczlOU3hNQlk0SjhmVkRCTExhX0tQVElLckNBbktTdklOemc2WXMxb1ZuTXdZSC1wQjg5ekJQOTdBTUh0RnpQc05mTUE4TnB6aWpsTg?oc=5",
+        "publishedAt": "2026-08-03T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "工作機械受注5割増 AI銘柄に化けたツガミ、過剰投資を懸念する株価",
+        "source": "nikkei.com",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KUDlHQmpPT2FkdWN1dUI5cXZta3habDhQNlI1bjFwUmxOVmFyMkJ3S0dadWhkVFNVbjhVcTFVSS1GWGNoQmtKWXVEWVJvZ3R0dVRlb0ViVkFTVUxnb3kxUDVjNGxSTmQtTmN3Yg?oc=5",
+        "publishedAt": "2026-08-03T20:00:00.000Z"
+      },
+      {
+        "time": "23:24",
+        "title": "日本電技株式会社 新規オフィシャルパートナー契約締結について",
+        "source": "ジェフユナイテッド市原・千葉 公式ウェブサイト",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3ODVPU0I3eHJjeDVrbGNHX2N4a0hIZ2pRNnQ0QUJpRHZkTmZwZmJuUHlZdFkzNmlXY0EwWUplWDNWMURFNzA3Q1FkT3JRampaekE?oc=5",
+        "publishedAt": "2026-08-03T14:24:25.000Z"
       },
       {
         "time": "06:15",
@@ -19,7 +33,7 @@
       {
         "time": "12:00",
         "title": "機械制御、性能維持・低コストに ベッコフオートメーション",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Wd016Q0NueFJYdFVNT0RoR2RSbnBwUHlheFBVM3YyRUFsXzc2ZVpnRUMtTkxLZHU5UVVKOWhIVW53NVVxNXN3X2NjM0toWXRIc25YbnM2c00zdWc?oc=5",
         "publishedAt": "2026-08-03T03:00:00.000Z"
       },
@@ -29,13 +43,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOdWsxNko2NGZtLXIyc2pxXzg5RFg1cW14UmFYWmRJOXg1TVhZcTZERFhWN3RsWTVLaVlPaEFlSW9QLXV0OTJBNzgxcEJKQXM?oc=5",
         "publishedAt": "2026-08-03T01:30:00.000Z"
-      },
-      {
-        "time": "04:10",
-        "title": "【日本株】AI相場の次なる主役｢フィジカルAI｣の本命株を紹介！ 工作機械大手で業績が急回復中の｢DMG森精機｣と、エヌビディアと提携の｢ファナック｣に注目！（ダイヤモンド・ザイ）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3dFE4WkpZeWVCTms1bDdqQjNnU2NER0FzczZiVldmb044RzlrWWJHNWJCT1lyZlZsLTlQRk9GWHd0c2RITmI0Rmg3Q2Q4Y05IQXd1Q0w4clhFTEM3dGhTTDUyd1dKMU1JZ0luYW5BcnVLSDJyTUdXX0xNZWJqSWM?oc=5",
-        "publishedAt": "2026-08-02T19:10:00.000Z"
       },
       {
         "time": "23:02",
@@ -50,13 +57,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rYlBmSTU2WUZ5dFZPUUkwUDF3TWx5ajh0Q2JfM0d6a2ZDUXdrOFBFbUxCVENJWDc0dW5vdzJjWlNqb1dXbmpfUWlTZTVtUW5IT3RHUkhRbVdDWWU0MmF5SXVyZTZmUWlDZUE?oc=5",
         "publishedAt": "2026-08-03T02:56:07.000Z"
-      },
-      {
-        "time": "17:44",
-        "title": "【新トップ登場】ＴＡＫＩＳＡＷＡ 松田哲社長（５３） ボトムアップで課題解決",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hUHB0Uks4OVdibWdRVVJrSy1QRDZXUzNKRWRPbnN3cWFwUktya1hUSHJKcm5XWUR5YjJaYlFLbG9HSHpkZkgxQTFDM2FleUVlMUE?oc=5",
-        "publishedAt": "2026-08-03T08:44:59.000Z"
       }
     ],
     "worldHeadlines": [
