@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T04:43:36.103Z",
+  "updatedAt": "2026-08-03T06:07:27.669Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-08-03T01:30:00.000Z"
       },
       {
-        "time": "10:51",
-        "title": "大手商社3社の通期見通し、業績底堅く 成長投資が利益貢献",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tczF5SEFfcTh0TmtISzVtRDdTM2hpRm1DQVFtcjFLTGgwdXNmOFJzemtxU2d3OEtjdjN6cDZZVGh0NFJpUmJkTHVZN25pRnM5LVdtam1XQWtWa1k?oc=5",
-        "publishedAt": "2026-08-03T01:51:02.000Z"
-      },
-      {
         "time": "18:07",
         "title": "2026 8月",
         "source": "公明党",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jZXBEMkNXY3JUUEVMNUJSYmFoRVNpUlBDQnh1ZlNmTndETURlUjQ2M2VGV2RpZ0J1RnNjZ09XT2lXRnUzV1Ixd3RsTVNXQU9VaGNONVIzdXJZTEJSRGNoaURTRGpzQQ?oc=5",
         "publishedAt": "2026-08-02T09:07:38.000Z"
+      },
+      {
+        "time": "10:51",
+        "title": "大手商社3社の通期見通し、業績底堅く 成長投資が利益貢献",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tczF5SEFfcTh0TmtISzVtRDdTM2hpRm1DQVFtcjFLTGgwdXNmOFJzemtxU2d3OEtjdjN6cDZZVGh0NFJpUmJkTHVZN25pRnM5LVdtam1XQWtWa1k?oc=5",
+        "publishedAt": "2026-08-03T01:51:02.000Z"
       },
       {
         "time": "08:03",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-08-02T23:03:45.000Z"
       },
       {
-        "time": "10:10",
-        "title": "【双葉電子工業】産業用サーボ「BLA34シリーズ」にサイドコネクタタイプ2機種を追加",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vZFZUZWlHaUFrS1Rlb1ZRRlBVUmJyUHlQblZ0WkkxaHhRZzlqOXVGWnY1WlpOU0RUOFY0NlBkV3Q3dFJwT3ZVc0ZHODZDc0FkM25xOE9QNDAxOEh3MkdtREg5NEtDUWJfVVE?oc=5",
-        "publishedAt": "2026-08-03T01:10:01.000Z"
+        "time": "12:43",
+        "title": "日本電技株式会社 新規オフィシャルパートナー契約締結について",
+        "source": "ジェフユナイテッド市原・千葉 公式ウェブサイト",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3ODVPU0I3eHJjeDVrbGNHX2N4a0hIZ2pRNnQ0QUJpRHZkTmZwZmJuUHlZdFkzNmlXY0EwWUplWDNWMURFNzA3Q1FkT3JRampaekE?oc=5",
+        "publishedAt": "2026-08-03T03:43:13.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:38",
-        "title": "円が急騰 一時1ドル=155円台前半",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590348?source=rss",
-        "publishedAt": "2026-08-03T01:38:48.000Z"
-      },
-      {
         "time": "08:40",
         "title": "財務相 さらなる協調介入躊躇せず",
         "source": "Yahoo!ニュース",
@@ -126,6 +119,13 @@
         "publishedAt": "2026-08-02T23:07:54.000Z"
       },
       {
+        "time": "14:29",
+        "title": "イオン爆発 雑貨店幹部が指示謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590376?source=rss",
+        "publishedAt": "2026-08-03T05:29:52.000Z"
+      },
+      {
         "time": "11:46",
         "title": "イオン爆発前 戻る指示の法的責任",
         "source": "Yahoo!ニュース",
@@ -133,11 +133,11 @@
         "publishedAt": "2026-08-03T02:46:02.000Z"
       },
       {
-        "time": "22:33",
-        "title": "爆発前戻るよう指示 店舗運営謝罪",
+        "time": "14:41",
+        "title": "羽田国内線 預け入れ締切を厳格化",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590315?source=rss",
-        "publishedAt": "2026-08-02T13:33:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590377?source=rss",
+        "publishedAt": "2026-08-03T05:41:08.000Z"
       },
       {
         "time": "17:54",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:46",
+        "title": "熊本市で酷暑日 最大級の警戒を",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590380?source=rss",
+        "publishedAt": "2026-08-03T05:46:20.000Z"
+      },
+      {
         "time": "12:39",
         "title": "地震で頸椎損傷 高1の女性死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590364?source=rss",
         "publishedAt": "2026-08-03T03:39:09.000Z"
-      },
-      {
-        "time": "19:43",
-        "title": "イオンモール宇城 下敷きの客死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590296?source=rss",
-        "publishedAt": "2026-08-02T10:43:38.000Z"
       },
       {
         "time": "12:59",

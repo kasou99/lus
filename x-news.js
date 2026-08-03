@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T04:43:37.103Z",
+  "updatedAt": "2026-08-03T06:07:28.488Z",
   "items": [
     {
-      "time": "13:00",
-      "title": "台風 4日に小笠原諸島へ最接近",
+      "time": "14:46",
+      "title": "熊本市で酷暑日 最大級の警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590368?source=rss",
-      "publishedAt": "2026-08-03T04:00:08.000Z",
-      "xQuery": "台風 4日に小笠原諸島へ最接近"
+      "url": "https://news.yahoo.co.jp/pickup/6590380?source=rss",
+      "publishedAt": "2026-08-03T05:46:20.000Z",
+      "xQuery": "熊本市で酷暑日 最大級の警戒を"
     },
     {
-      "time": "11:53",
-      "title": "熊本地震 ふるさと納税7.3億円超",
+      "time": "12:59",
+      "title": "コロナ感染も 避難所は雑魚寝状態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590359?source=rss",
-      "publishedAt": "2026-08-03T02:53:46.000Z",
-      "xQuery": "熊本地震 ふるさと納税7.3億円超"
+      "url": "https://news.yahoo.co.jp/pickup/6590369?source=rss",
+      "publishedAt": "2026-08-03T03:59:53.000Z",
+      "xQuery": "コロナ感染も 避難所は雑魚寝状態"
     },
     {
-      "time": "12:39",
-      "title": "地震で頸椎損傷 高1の女性死亡",
+      "time": "14:41",
+      "title": "羽田国内線 預け入れ締切を厳格化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590364?source=rss",
-      "publishedAt": "2026-08-03T03:39:09.000Z",
-      "xQuery": "地震で頸椎損傷 高1の女性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590377?source=rss",
+      "publishedAt": "2026-08-03T05:41:08.000Z",
+      "xQuery": "羽田国内線 預け入れ締切を厳格化"
     },
     {
-      "time": "11:46",
-      "title": "イオン爆発前 戻る指示の法的責任",
+      "time": "14:29",
+      "title": "イオン爆発 雑貨店幹部が指示謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590353?source=rss",
-      "publishedAt": "2026-08-03T02:46:02.000Z",
-      "xQuery": "イオン爆発前 戻る指示の法的責任"
+      "url": "https://news.yahoo.co.jp/pickup/6590376?source=rss",
+      "publishedAt": "2026-08-03T05:29:52.000Z",
+      "xQuery": "イオン爆発 雑貨店幹部が指示謝罪"
     },
     {
-      "time": "11:41",
-      "title": "8歳男児2人はねられ 1人意識不明",
+      "time": "12:45",
+      "title": "山林遺体「腹すいて盗みに」供述",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590360?source=rss",
-      "publishedAt": "2026-08-03T02:41:12.000Z",
-      "xQuery": "8歳男児2人はねられ 1人意識不明"
+      "url": "https://news.yahoo.co.jp/pickup/6590367?source=rss",
+      "publishedAt": "2026-08-03T03:45:20.000Z",
+      "xQuery": "山林遺体「腹すいて盗みに」供述"
     }
   ]
 };
