@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T10:48:06.233Z",
+  "updatedAt": "2026-08-03T12:07:06.874Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zdzBZZVJ0bWdMaWpsY1hHRThmbTNrOG42RXJuWG1QREpESG8xUC1DM0dWZWlnVDRvQVFJMW0yVGVSaGpwdG90MGd5R2M5eXBKU2ZuSUZXRHRuNjZ5VXB4WkFCOExiLWI4N1dza0RIMA?oc=5",
         "publishedAt": "2026-08-02T21:15:00.000Z"
-      },
-      {
-        "time": "12:43",
-        "title": "日本電技株式会社 新規オフィシャルパートナー契約締結について",
-        "source": "ジェフユナイテッド市原・千葉 公式ウェブサイト",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3ODVPU0I3eHJjeDVrbGNHX2N4a0hIZ2pRNnQ0QUJpRHZkTmZwZmJuUHlZdFkzNmlXY0EwWUplWDNWMURFNzA3Q1FkT3JRampaekE?oc=5",
-        "publishedAt": "2026-08-03T03:43:13.000Z"
       },
       {
         "time": "12:00",
@@ -43,6 +36,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3dFE4WkpZeWVCTms1bDdqQjNnU2NER0FzczZiVldmb044RzlrWWJHNWJCT1lyZlZsLTlQRk9GWHd0c2RITmI0Rmg3Q2Q4Y05IQXd1Q0w4clhFTEM3dGhTTDUyd1dKMU1JZ0luYW5BcnVLSDJyTUdXX0xNZWJqSWM?oc=5",
         "publishedAt": "2026-08-02T19:10:00.000Z"
+      },
+      {
+        "time": "17:44",
+        "title": "【新トップ登場】ＴＡＫＩＳＡＷＡ 松田哲社長（５３） ボトムアップで課題解決",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hUHB0Uks4OVdibWdRVVJrSy1QRDZXUzNKRWRPbnN3cWFwUktya1hUSHJKcm5XWUR5YjJaYlFLbG9HSHpkZkgxQTFDM2FleUVlMUE?oc=5",
+        "publishedAt": "2026-08-03T08:44:59.000Z"
       },
       {
         "time": "11:56",
@@ -75,6 +75,13 @@
         "publishedAt": "2026-08-03T07:15:12.000Z"
       },
       {
+        "time": "20:57",
+        "title": "モスクワの飲食店爆発 死者5人に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590419?source=rss",
+        "publishedAt": "2026-08-03T11:57:35.000Z"
+      },
+      {
         "time": "22:18",
         "title": "航行中フェリー火災 インドネシア",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590263?source=rss",
         "publishedAt": "2026-08-02T06:30:07.000Z"
-      },
-      {
-        "time": "07:59",
-        "title": "ヘリ同士衝突し2人死亡 ギリシャ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590333?source=rss",
-        "publishedAt": "2026-08-02T22:59:40.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-08-03T08:45:45.000Z"
       },
       {
-        "time": "14:29",
-        "title": "イオン爆発 雑貨店幹部が指示謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590376?source=rss",
-        "publishedAt": "2026-08-03T05:29:52.000Z"
-      },
-      {
         "time": "11:46",
         "title": "イオン爆発前 戻る指示の法的責任",
         "source": "Yahoo!ニュース",
@@ -133,11 +126,18 @@
         "publishedAt": "2026-08-03T02:46:02.000Z"
       },
       {
-        "time": "15:38",
-        "title": "爆発で従業員犠牲 危機管理の盲点",
+        "time": "14:29",
+        "title": "イオン爆発 雑貨店幹部が指示謝罪",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590354?source=rss",
-        "publishedAt": "2026-08-03T06:38:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590376?source=rss",
+        "publishedAt": "2026-08-03T05:29:52.000Z"
+      },
+      {
+        "time": "20:21",
+        "title": "日産4～6月期2年ぶり黒字 37億円",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590414?source=rss",
+        "publishedAt": "2026-08-03T11:21:29.000Z"
       },
       {
         "time": "14:41",
@@ -156,11 +156,11 @@
         "publishedAt": "2026-08-03T07:52:36.000Z"
       },
       {
-        "time": "19:33",
-        "title": "福岡 県議会議長と距離を置く動き",
+        "time": "20:32",
+        "title": "「福岡県議会のドン」王国 揺らぐ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590410?source=rss",
-        "publishedAt": "2026-08-03T10:33:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590416?source=rss",
+        "publishedAt": "2026-08-03T11:32:10.000Z"
       },
       {
         "time": "14:46",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-03T10:15:03.000Z"
       },
       {
-        "time": "12:45",
-        "title": "山林遺体「腹すいて盗みに」供述",
+        "time": "17:30",
+        "title": "39歳でがん患う 正座できない家元",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590367?source=rss",
-        "publishedAt": "2026-08-03T03:45:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590393?source=rss",
+        "publishedAt": "2026-08-03T08:30:59.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }

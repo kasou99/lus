@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T10:48:06.793Z",
+  "updatedAt": "2026-08-03T12:07:07.795Z",
   "items": [
-    {
-      "time": "18:56",
-      "title": "熊本地震 激甚災害に指定見込み",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590406?source=rss",
-      "publishedAt": "2026-08-03T09:56:15.000Z",
-      "xQuery": "熊本地震 激甚災害に指定見込み"
-    },
     {
       "time": "17:45",
       "title": "熊本県の宿泊キャンセル 約9億円",
@@ -18,28 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本県の宿泊キャンセル 約9億円"
     },
     {
-      "time": "16:52",
-      "title": "福岡の自民県議団 会長が辞意表明",
+      "time": "20:21",
+      "title": "日産4～6月期2年ぶり黒字 37億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590389?source=rss",
-      "publishedAt": "2026-08-03T07:52:36.000Z",
-      "xQuery": "福岡の自民県議団 会長が辞意表明"
+      "url": "https://news.yahoo.co.jp/pickup/6590414?source=rss",
+      "publishedAt": "2026-08-03T11:21:29.000Z",
+      "xQuery": "日産4～6月期2年ぶり黒字 37億円"
     },
     {
-      "time": "17:30",
-      "title": "39歳でがん患う 正座できない家元",
+      "time": "19:15",
+      "title": "千葉爆発 前日の夜からガス漏れか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590393?source=rss",
-      "publishedAt": "2026-08-03T08:30:59.000Z",
-      "xQuery": "39歳でがん患う 正座できない家元"
+      "url": "https://news.yahoo.co.jp/pickup/6590401?source=rss",
+      "publishedAt": "2026-08-03T10:15:03.000Z",
+      "xQuery": "千葉爆発 前日の夜からガス漏れか"
     },
     {
-      "time": "17:15",
-      "title": "「ドコモの銀行」始動 強みは何か",
+      "time": "20:32",
+      "title": "「福岡県議会のドン」王国 揺らぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590391?source=rss",
-      "publishedAt": "2026-08-03T08:15:49.000Z",
-      "xQuery": "「ドコモの銀行」始動 強みは何か"
+      "url": "https://news.yahoo.co.jp/pickup/6590416?source=rss",
+      "publishedAt": "2026-08-03T11:32:10.000Z",
+      "xQuery": "「福岡県議会のドン」王国 揺らぐ"
+    },
+    {
+      "time": "20:39",
+      "title": "園のライオン3頭死ぬ 他3頭も治療",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590415?source=rss",
+      "publishedAt": "2026-08-03T11:39:13.000Z",
+      "xQuery": "園のライオン3頭死ぬ 他3頭も治療"
     }
   ]
 };
