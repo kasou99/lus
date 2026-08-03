@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T20:51:21.311Z",
+  "updatedAt": "2026-08-03T21:28:49.982Z",
   "items": [
     {
       "time": "22:47",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 対イラン発言は二転三転"
     },
     {
-      "time": "21:32",
-      "title": "「全国学力テスト」分析結果公表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590421?source=rss",
-      "publishedAt": "2026-08-03T12:32:24.000Z",
-      "xQuery": "「全国学力テスト」分析結果公表"
-    },
-    {
       "time": "20:22",
       "title": "車両集中 地震の復旧阻む大渋滞",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590413?source=rss",
       "publishedAt": "2026-08-03T11:22:39.000Z",
       "xQuery": "車両集中 地震の復旧阻む大渋滞"
+    },
+    {
+      "time": "06:26",
+      "title": "ウ大統領 対日関係の強化を指示",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590442?source=rss",
+      "publishedAt": "2026-08-03T21:26:27.000Z",
+      "xQuery": "ウ大統領 対日関係の強化を指示"
     },
     {
       "time": "23:04",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "地震で家倒壊 避難直後に盗難被害"
     },
     {
-      "time": "22:40",
-      "title": "自民・小渕氏 消費減税方針に反対",
+      "time": "06:05",
+      "title": "マンション火災で12人けが 小金井",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590429?source=rss",
-      "publishedAt": "2026-08-03T13:40:51.000Z",
-      "xQuery": "自民・小渕氏 消費減税方針に反対"
+      "url": "https://news.yahoo.co.jp/pickup/6590440?source=rss",
+      "publishedAt": "2026-08-03T21:05:59.000Z",
+      "xQuery": "マンション火災で12人けが 小金井"
     }
   ]
 };
