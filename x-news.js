@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T21:56:29.166Z",
+  "updatedAt": "2026-08-03T22:27:10.454Z",
   "items": [
+    {
+      "time": "07:13",
+      "title": "イランが協議否定 米大統領は批判",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590445?source=rss",
+      "publishedAt": "2026-08-03T22:13:42.000Z",
+      "xQuery": "イランが協議否定 米大統領は批判"
+    },
     {
       "time": "06:49",
       "title": "NYダウ終値693ドル高 最高値更新",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590444?source=rss",
       "publishedAt": "2026-08-03T21:49:53.000Z",
       "xQuery": "NYダウ終値693ドル高 最高値更新"
-    },
-    {
-      "time": "22:47",
-      "title": "米大統領 対イラン発言は二転三転",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590431?source=rss",
-      "publishedAt": "2026-08-03T13:47:24.000Z",
-      "xQuery": "米大統領 対イラン発言は二転三転"
-    },
-    {
-      "time": "06:26",
-      "title": "ウ大統領 対日関係の強化を指示",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590442?source=rss",
-      "publishedAt": "2026-08-03T21:26:27.000Z",
-      "xQuery": "ウ大統領 対日関係の強化を指示"
     },
     {
       "time": "23:04",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590440?source=rss",
       "publishedAt": "2026-08-03T21:05:59.000Z",
       "xQuery": "マンション火災で12人けが 小金井"
+    },
+    {
+      "time": "23:48",
+      "title": "窓清掃中マンションから転落 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590436?source=rss",
+      "publishedAt": "2026-08-03T14:48:17.000Z",
+      "xQuery": "窓清掃中マンションから転落 死亡"
     }
   ]
 };
