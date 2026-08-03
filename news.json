@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T23:50:25.585Z",
+  "updatedAt": "2026-08-03T00:50:30.603Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-08-02T21:15:00.000Z"
       },
       {
-        "time": "01:13",
-        "title": "【日本株】AI相場の次なる主役｢フィジカルAI｣の本命株を紹介！ 工作機械大手で業績が急回復中の｢DMG森精機｣と、エヌビディアと提携の｢ファナック｣に注目！",
-        "source": "ダイヤモンド・オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91eDI4Y2VybUVidXpJdlRIOHNCR0NaemszWmQybllMeUJrc1lSMkc3MUprcnByVkRiS1ZaSDU2MEg3YkdKa3ZpSmo1aTJiUFRWZ2hB?oc=5",
-        "publishedAt": "2026-08-02T16:13:28.000Z"
-      },
-      {
         "time": "04:52",
         "title": "インタビュー／八洲電機社長・清宮茂樹氏 幸せ原動力に循環型成長",
         "source": "日刊工業新聞",
@@ -36,6 +29,13 @@
         "source": "公明党",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jZXBEMkNXY3JUUEVMNUJSYmFoRVNpUlBDQnh1ZlNmTndETURlUjQ2M2VGV2RpZ0J1RnNjZ09XT2lXRnUzV1Ixd3RsTVNXQU9VaGNONVIzdXJZTEJSRGNoaURTRGpzQQ?oc=5",
         "publishedAt": "2026-08-02T09:07:38.000Z"
+      },
+      {
+        "time": "04:52",
+        "title": "航空宇宙ビジネス・フロンティアへの挑戦（135）日本航空電子工業 慣性センサユニット",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tQ1J3OE94a3JzTWNfUllGYzB2Z0loQ1lLVnpQVXlzTkowOF9aWmhLOUxPNzdTSDVUSHdCVFNUZXBURk9ZZXpEc3JIRjJoSGp5WGxoYnlPdzF0Q1k?oc=5",
+        "publishedAt": "2026-08-02T19:52:30.000Z"
       },
       {
         "time": "05:01",
@@ -54,7 +54,7 @@
       {
         "time": "05:00",
         "title": "考察／官民挙げて日本を再び強く、日本成長戦略会議の成長シナリオ（下）／産業全体の底上げが必要、戦略分野に高級鋼で貢献／グリーンスチールは「戦略性の高い商品」、供給力が鉄鋼メーカーの存続左右",
-        "source": "japanmetaldaily.com",
+        "source": "日刊鉄鋼新聞 Japan Metal Daily",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sRDA4TGZyc0FiQ01CVVdVZ3NUSWJGNm1jQ3QzZnZ3SnM0MC1JUDBWZVBzYjYxc1EyR1NFUVYtTUhDU3RmTDBISFp4c1AwRnpYTGxIampfNmhmeUJGeGc?oc=5",
         "publishedAt": "2026-08-02T20:00:00.000Z"
       }
@@ -68,18 +68,18 @@
         "publishedAt": "2026-08-02T03:02:05.000Z"
       },
       {
-        "time": "07:50",
-        "title": "モスクワで店爆発3人死亡 テロか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590208?source=rss",
-        "publishedAt": "2026-08-01T22:50:17.000Z"
-      },
-      {
         "time": "22:18",
         "title": "航行中フェリー火災 インドネシア",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590312?source=rss",
         "publishedAt": "2026-08-02T13:18:28.000Z"
+      },
+      {
+        "time": "09:16",
+        "title": "マレーシア首相 難民巡る発言物議",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590339?source=rss",
+        "publishedAt": "2026-08-03T00:16:07.000Z"
       },
       {
         "time": "15:30",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "09:22",
+        "title": "熊本地震で転倒が原因か 16歳死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590341?source=rss",
+        "publishedAt": "2026-08-03T00:22:19.000Z"
+      },
+      {
         "time": "20:44",
         "title": "ホテルへ2次避難 3日から受け付け",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590270?source=rss",
         "publishedAt": "2026-08-02T07:25:34.000Z"
-      },
-      {
-        "time": "06:35",
-        "title": "同じ会社の男性を殺害疑い 男逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590327?source=rss",
-        "publishedAt": "2026-08-02T21:35:26.000Z"
       }
     ],
     "subsidyHeadlines": [

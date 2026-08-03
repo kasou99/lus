@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-02T23:50:26.481Z",
+  "updatedAt": "2026-08-03T00:50:32.737Z",
   "items": [
     {
       "time": "08:40",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "財務相 さらなる協調介入躊躇せず"
     },
     {
-      "time": "07:38",
-      "title": "熊本の復旧復興 補正予算編成論も",
+      "time": "08:52",
+      "title": "3日は熊本40℃予想 九州で酷暑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590331?source=rss",
-      "publishedAt": "2026-08-02T22:38:27.000Z",
-      "xQuery": "熊本の復旧復興 補正予算編成論も"
+      "url": "https://news.yahoo.co.jp/pickup/6590336?source=rss",
+      "publishedAt": "2026-08-02T23:52:05.000Z",
+      "xQuery": "3日は熊本40℃予想 九州で酷暑"
     },
     {
-      "time": "08:07",
-      "title": "トランプ氏 円買い介入は友好の証",
+      "time": "09:16",
+      "title": "マレーシア首相 難民巡る発言物議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590335?source=rss",
-      "publishedAt": "2026-08-02T23:07:54.000Z",
-      "xQuery": "トランプ氏 円買い介入は友好の証"
+      "url": "https://news.yahoo.co.jp/pickup/6590339?source=rss",
+      "publishedAt": "2026-08-03T00:16:07.000Z",
+      "xQuery": "マレーシア首相 難民巡る発言物議"
     },
     {
-      "time": "06:35",
-      "title": "同じ会社の男性を殺害疑い 男逮捕",
+      "time": "09:22",
+      "title": "熊本地震で転倒が原因か 16歳死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590327?source=rss",
-      "publishedAt": "2026-08-02T21:35:26.000Z",
-      "xQuery": "同じ会社の男性を殺害疑い 男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6590341?source=rss",
+      "publishedAt": "2026-08-03T00:22:19.000Z",
+      "xQuery": "熊本地震で転倒が原因か 16歳死亡"
     },
     {
-      "time": "08:06",
-      "title": "湖池屋ポテチ「直送便」好調理由",
+      "time": "09:41",
+      "title": "路面電車の下敷きになり死亡 函館",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590334?source=rss",
-      "publishedAt": "2026-08-02T23:06:16.000Z",
-      "xQuery": "湖池屋ポテチ「直送便」好調理由"
+      "url": "https://news.yahoo.co.jp/pickup/6590342?source=rss",
+      "publishedAt": "2026-08-03T00:41:35.000Z",
+      "xQuery": "路面電車の下敷きになり死亡 函館"
     }
   ]
 };
