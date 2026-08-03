@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T12:07:07.795Z",
+  "updatedAt": "2026-08-03T13:28:51.078Z",
   "items": [
     {
-      "time": "17:45",
-      "title": "熊本県の宿泊キャンセル 約9億円",
+      "time": "21:50",
+      "title": "経産省 イオンモール熊本本格調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590397?source=rss",
-      "publishedAt": "2026-08-03T08:45:45.000Z",
-      "xQuery": "熊本県の宿泊キャンセル 約9億円"
+      "url": "https://news.yahoo.co.jp/pickup/6590422?source=rss",
+      "publishedAt": "2026-08-03T12:50:20.000Z",
+      "xQuery": "経産省 イオンモール熊本本格調査"
     },
     {
-      "time": "20:21",
-      "title": "日産4～6月期2年ぶり黒字 37億円",
+      "time": "21:20",
+      "title": "30-31日の為替介入 計11兆円超か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590414?source=rss",
-      "publishedAt": "2026-08-03T11:21:29.000Z",
-      "xQuery": "日産4～6月期2年ぶり黒字 37億円"
+      "url": "https://news.yahoo.co.jp/pickup/6590420?source=rss",
+      "publishedAt": "2026-08-03T12:20:08.000Z",
+      "xQuery": "30-31日の為替介入 計11兆円超か"
     },
     {
-      "time": "19:15",
-      "title": "千葉爆発 前日の夜からガス漏れか",
+      "time": "21:59",
+      "title": "刑務官を起訴 受刑者に便宜約束か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590401?source=rss",
-      "publishedAt": "2026-08-03T10:15:03.000Z",
-      "xQuery": "千葉爆発 前日の夜からガス漏れか"
-    },
-    {
-      "time": "20:32",
-      "title": "「福岡県議会のドン」王国 揺らぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590416?source=rss",
-      "publishedAt": "2026-08-03T11:32:10.000Z",
-      "xQuery": "「福岡県議会のドン」王国 揺らぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6590423?source=rss",
+      "publishedAt": "2026-08-03T12:59:32.000Z",
+      "xQuery": "刑務官を起訴 受刑者に便宜約束か"
     },
     {
       "time": "20:39",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590415?source=rss",
       "publishedAt": "2026-08-03T11:39:13.000Z",
       "xQuery": "園のライオン3頭死ぬ 他3頭も治療"
+    },
+    {
+      "time": "19:58",
+      "title": "本州最北の造り酒屋 自己破産へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590411?source=rss",
+      "publishedAt": "2026-08-03T10:58:53.000Z",
+      "xQuery": "本州最北の造り酒屋 自己破産へ"
     }
   ]
 };

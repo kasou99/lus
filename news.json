@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T12:07:06.874Z",
+  "updatedAt": "2026-08-03T13:28:50.068Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "10:30",
         "title": "CNCねじ研削盤の世界市場（2026年～2032年）、市場規模（ボールねじ精度：P1、ボールねじ精度：P2、ボールねじ精度：P3、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
-        "source": "アットプレス",
+        "source": "atpress.ne.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOdWsxNko2NGZtLXIyc2pxXzg5RFg1cW14UmFYWmRJOXg1TVhZcTZERFhWN3RsWTVLaVlPaEFlSW9QLXV0OTJBNzgxcEJKQXM?oc=5",
         "publishedAt": "2026-08-03T01:30:00.000Z"
       },
@@ -52,11 +52,11 @@
         "publishedAt": "2026-08-03T02:56:07.000Z"
       },
       {
-        "time": "10:50",
-        "title": "ファナックが急反落､27年3月期予想上方修正も想定の範囲内",
-        "source": "四季報オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhWGFVSE8tdGhNNFVtTnZ1RnVPc0dFQXpoY2xVaGlGMkdTS3BqZXJTemhqN1ZOMEpkakZFVGZuaUl6Z21wLTdzelVGRklQNy1keGE3NXdfOA?oc=5",
-        "publishedAt": "2026-08-03T01:50:00.000Z"
+        "time": "06:45",
+        "title": "平山ホールディングスが特殊電極を子会社化、製造業のインフラ支援強化",
+        "source": "金属産業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oYXlNU19PMF81cjFnMzhJWFppVHR6SU5vQy05U3VTc3RiTm9QRXk0TWJfVVJGWVVkWHVHVUNXQ0FmQmtGeExUdXdJY2FNcEQ5cWtIeVUwczY?oc=5",
+        "publishedAt": "2026-08-02T21:45:40.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "08:40",
-        "title": "財務相 さらなる協調介入躊躇せず",
+        "time": "21:20",
+        "title": "30-31日の為替介入 計11兆円超か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590337?source=rss",
-        "publishedAt": "2026-08-02T23:40:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590420?source=rss",
+        "publishedAt": "2026-08-03T12:20:08.000Z"
       },
       {
         "time": "17:45",
@@ -117,6 +117,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590397?source=rss",
         "publishedAt": "2026-08-03T08:45:45.000Z"
+      },
+      {
+        "time": "21:50",
+        "title": "経産省 イオンモール熊本本格調査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590422?source=rss",
+        "publishedAt": "2026-08-03T12:50:20.000Z"
       },
       {
         "time": "11:46",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590414?source=rss",
         "publishedAt": "2026-08-03T11:21:29.000Z"
-      },
-      {
-        "time": "14:41",
-        "title": "羽田国内線 預け入れ締切を厳格化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590377?source=rss",
-        "publishedAt": "2026-08-03T05:41:08.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,20 +163,6 @@
         "publishedAt": "2026-08-03T11:32:10.000Z"
       },
       {
-        "time": "14:46",
-        "title": "熊本市で酷暑日 最大級の警戒を",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590380?source=rss",
-        "publishedAt": "2026-08-03T05:46:20.000Z"
-      },
-      {
-        "time": "12:39",
-        "title": "地震で頸椎損傷 高1の女性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590364?source=rss",
-        "publishedAt": "2026-08-03T03:39:09.000Z"
-      },
-      {
         "time": "19:15",
         "title": "千葉爆発 前日の夜からガス漏れか",
         "source": "Yahoo!ニュース",
@@ -184,11 +170,25 @@
         "publishedAt": "2026-08-03T10:15:03.000Z"
       },
       {
+        "time": "21:59",
+        "title": "刑務官を起訴 受刑者に便宜約束か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590423?source=rss",
+        "publishedAt": "2026-08-03T12:59:32.000Z"
+      },
+      {
         "time": "17:30",
         "title": "39歳でがん患う 正座できない家元",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590393?source=rss",
         "publishedAt": "2026-08-03T08:30:59.000Z"
+      },
+      {
+        "time": "12:45",
+        "title": "山林遺体「腹すいて盗みに」供述",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590367?source=rss",
+        "publishedAt": "2026-08-03T03:45:20.000Z"
       }
     ],
     "subsidyHeadlines": [
