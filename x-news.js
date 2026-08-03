@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T23:27:03.136Z",
+  "updatedAt": "2026-08-03T23:54:53.902Z",
   "items": [
+    {
+      "time": "08:41",
+      "title": "台風が小笠原に最接近 厳重警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590457?source=rss",
+      "publishedAt": "2026-08-03T23:41:14.000Z",
+      "xQuery": "台風が小笠原に最接近 厳重警戒"
+    },
     {
       "time": "07:40",
       "title": "熊本で暑さ 高齢者中心に医療課題",
@@ -10,28 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本で暑さ 高齢者中心に医療課題"
     },
     {
-      "time": "07:13",
-      "title": "イランが協議否定 米大統領は批判",
+      "time": "07:42",
+      "title": "日米協調介入 約9カ月前から調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590445?source=rss",
-      "publishedAt": "2026-08-03T22:13:42.000Z",
-      "xQuery": "イランが協議否定 米大統領は批判"
+      "url": "https://news.yahoo.co.jp/pickup/6590447?source=rss",
+      "publishedAt": "2026-08-03T22:42:34.000Z",
+      "xQuery": "日米協調介入 約9カ月前から調整"
     },
     {
-      "time": "23:04",
-      "title": "地震で家倒壊 避難直後に盗難被害",
+      "time": "08:34",
+      "title": "東名高速で3台絡む事故 1人重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590433?source=rss",
-      "publishedAt": "2026-08-03T14:04:22.000Z",
-      "xQuery": "地震で家倒壊 避難直後に盗難被害"
-    },
-    {
-      "time": "23:48",
-      "title": "窓清掃中マンションから転落 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590436?source=rss",
-      "publishedAt": "2026-08-03T14:48:17.000Z",
-      "xQuery": "窓清掃中マンションから転落 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590456?source=rss",
+      "publishedAt": "2026-08-03T23:34:16.000Z",
+      "xQuery": "東名高速で3台絡む事故 1人重体"
     },
     {
       "time": "08:05",

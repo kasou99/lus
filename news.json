@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T23:27:02.204Z",
+  "updatedAt": "2026-08-03T23:54:52.625Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,25 +10,18 @@
         "publishedAt": "2026-08-03T20:00:00.000Z"
       },
       {
+        "time": "06:33",
+        "title": "吉見鈑金が来春新工場を稼働 生産能力3割増",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GV1l0NEdCaDItSUhDWkZFQThhSzZVc2xwRzJBWFd6MzAxd3BqdzlZZk5WTzVkNmROSU0yUFE4NXR1Z2ZZWmwtQ05mNlBWZVp6RG0wQVlDc2IxQlREbHc3TS1abnZ0LURzSnMxV1VPam9ta2JBeS0wSktUaw?oc=5",
+        "publishedAt": "2026-08-03T21:33:45.000Z"
+      },
+      {
         "time": "04:13",
         "title": "マーケット速報",
         "source": "sannichi.co.jp",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjVhZmtTTVR3UXpEVzc3YnZZeVJKdWhSVEhJTFdKUnkxQlN3V05zVFY5bFhydU5vYWxWWHFNT3JhYTFzaGoyLVoyNk9IYjN5R1NvOEwyazZ4UF90UkJNR0ltcTdaVGFkcHdHSjZudjVaZk10VmQ0VnZDRGtCSEpHdnd0amY4clItQUluRTk2X1hlYTNWRC1jVFE2SEpsQkpSamtEcDM0dGZhaFBLUUpEdm9UYl96ZkxOdnVzaHRB?oc=5",
         "publishedAt": "2026-08-03T19:13:03.000Z"
-      },
-      {
-        "time": "05:44",
-        "title": "銅スクラップ、高値圏 車・半導体生産増支えに",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14SEpXblA3MkZyZE9sc0YxV2hTYjFTTUdJb0xHUmZiTUJYd0Y0c3Z3bGY3MHlyc2xzb2RfMnR4Y3BiTmJuclVsMXByNkVJMk5hZ2pmbGN3NTdjT2w1a0QxU1BfUEIxSEducTRaYk41M0lSY2w4?oc=5",
-        "publishedAt": "2026-08-03T20:44:54.000Z"
-      },
-      {
-        "time": "10:30",
-        "title": "CNCねじ研削盤の世界市場（2026年～2032年）、市場規模（ボールねじ精度：P1、ボールねじ精度：P2、ボールねじ精度：P3、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOdWsxNko2NGZtLXIyc2pxXzg5RFg1cW14UmFYWmRJOXg1TVhZcTZERFhWN3RsWTVLaVlPaEFlSW9QLXV0OTJBNzgxcEJKQXM?oc=5",
-        "publishedAt": "2026-08-03T01:30:00.000Z"
       },
       {
         "time": "19:28",
@@ -38,9 +31,16 @@
         "publishedAt": "2026-08-03T10:28:39.000Z"
       },
       {
+        "time": "10:30",
+        "title": "CNCねじ研削盤の世界市場（2026年～2032年）、市場規模（ボールねじ精度：P1、ボールねじ精度：P2、ボールねじ精度：P3、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOdWsxNko2NGZtLXIyc2pxXzg5RFg1cW14UmFYWmRJOXg1TVhZcTZERFhWN3RsWTVLaVlPaEFlSW9QLXV0OTJBNzgxcEJKQXM?oc=5",
+        "publishedAt": "2026-08-03T01:30:00.000Z"
+      },
+      {
         "time": "05:44",
         "title": "変わるAIエージェント 道具から誰かへ（下）学習データ、修正で偏り",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSNEw0a0IwbWhRdUpUYXpJLWxfaDJZUV9XMmE4azRqazBDQWhnalUwQUJOVXRZak5waXpHYWNTYnZTend3TXY5dWJmbVU5TERHTGl0RldabzQzeUctRjJlb0syc1V1NDRUSUFJWUlOV0w1Q3pE?oc=5",
         "publishedAt": "2026-08-03T20:44:52.000Z"
       },
@@ -52,11 +52,11 @@
         "publishedAt": "2026-08-03T14:02:26.000Z"
       },
       {
-        "time": "17:44",
-        "title": "【新トップ登場】ＴＡＫＩＳＡＷＡ 松田哲社長（５３） ボトムアップで課題解決",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hUHB0Uks4OVdibWdRVVJrSy1QRDZXUzNKRWRPbnN3cWFwUktya1hUSHJKcm5XWUR5YjJaYlFLbG9HSHpkZkgxQTFDM2FleUVlMUE?oc=5",
-        "publishedAt": "2026-08-03T08:44:59.000Z"
+        "time": "10:50",
+        "title": "ファナックが急反落､27年3月期予想上方修正も想定の範囲内",
+        "source": "四季報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhWGFVSE8tdGhNNFVtTnZ1RnVPc0dFQXpoY2xVaGlGMkdTS3BqZXJTemhqN1ZOMEpkakZFVGZuaUl6Z21wLTdzelVGRklQNy1keGE3NXdfOA?oc=5",
+        "publishedAt": "2026-08-03T01:50:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:37",
+        "title": "熊本の高齢者施設 職員の負担増加",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590455?source=rss",
+        "publishedAt": "2026-08-03T23:37:29.000Z"
+      },
+      {
         "time": "23:04",
         "title": "地震で家倒壊 避難直後に盗難被害",
         "source": "Yahoo!ニュース",
@@ -170,11 +177,11 @@
         "publishedAt": "2026-08-03T21:05:59.000Z"
       },
       {
-        "time": "22:28",
-        "title": "河口近くから海に流され 高1死亡",
+        "time": "08:34",
+        "title": "東名高速で3台絡む事故 1人重体",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590428?source=rss",
-        "publishedAt": "2026-08-03T13:28:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590456?source=rss",
+        "publishedAt": "2026-08-03T23:34:16.000Z"
       },
       {
         "time": "23:48",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590436?source=rss",
         "publishedAt": "2026-08-03T14:48:17.000Z"
-      },
-      {
-        "time": "22:26",
-        "title": "京都・高台寺 岡林院の施設全焼",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590427?source=rss",
-        "publishedAt": "2026-08-03T13:26:03.000Z"
       }
     ],
     "subsidyHeadlines": [
