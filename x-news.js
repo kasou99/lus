@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T22:27:10.454Z",
+  "updatedAt": "2026-08-03T22:53:02.874Z",
   "items": [
+    {
+      "time": "07:40",
+      "title": "熊本で暑さ 高齢者中心に医療課題",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590448?source=rss",
+      "publishedAt": "2026-08-03T22:40:26.000Z",
+      "xQuery": "熊本で暑さ 高齢者中心に医療課題"
+    },
     {
       "time": "07:13",
       "title": "イランが協議否定 米大統領は批判",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590440?source=rss",
       "publishedAt": "2026-08-03T21:05:59.000Z",
       "xQuery": "マンション火災で12人けが 小金井"
-    },
-    {
-      "time": "23:48",
-      "title": "窓清掃中マンションから転落 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590436?source=rss",
-      "publishedAt": "2026-08-03T14:48:17.000Z",
-      "xQuery": "窓清掃中マンションから転落 死亡"
     }
   ]
 };
