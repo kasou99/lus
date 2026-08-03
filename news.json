@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T17:16:32.419Z",
+  "updatedAt": "2026-08-03T18:10:01.723Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -33,16 +33,9 @@
       {
         "time": "04:10",
         "title": "【日本株】AI相場の次なる主役｢フィジカルAI｣の本命株を紹介！ 工作機械大手で業績が急回復中の｢DMG森精機｣と、エヌビディアと提携の｢ファナック｣に注目！（ダイヤモンド・ザイ）",
-        "source": "Yahoo!ニュース",
+        "source": "news.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3dFE4WkpZeWVCTms1bDdqQjNnU2NER0FzczZiVldmb044RzlrWWJHNWJCT1lyZlZsLTlQRk9GWHd0c2RITmI0Rmg3Q2Q4Y05IQXd1Q0w4clhFTEM3dGhTTDUyd1dKMU1JZ0luYW5BcnVLSDJyTUdXX0xNZWJqSWM?oc=5",
         "publishedAt": "2026-08-02T19:10:00.000Z"
-      },
-      {
-        "time": "23:02",
-        "title": "CNC VAITECH：AIはCNC加工業界の未来をどのように変えるのか？",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNclM2VzZ6VV9rMk5wdU1LaFp2ajU2ZGt5eWFQVnFHeGdIeEJoZmU1TURiZkJhTE4tZ1FEaWIzS2ZObHFkaGFyRVNVSTBwY3JIZlE4WFZyXy1GdEdkN3hYUzlSRHp5TVJLbWxsdnZqSmh4RkFMdnZ6Y21RN1VPSEpCLU9FdVMySWhZa01jVnhETWVBem9nWG05bg?oc=5",
-        "publishedAt": "2026-08-03T14:02:26.000Z"
       },
       {
         "time": "11:56",
@@ -54,9 +47,16 @@
       {
         "time": "17:44",
         "title": "【新トップ登場】ＴＡＫＩＳＡＷＡ 松田哲社長（５３） ボトムアップで課題解決",
-        "source": "山陽新聞",
+        "source": "sanyonews.jp",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hUHB0Uks4OVdibWdRVVJrSy1QRDZXUzNKRWRPbnN3cWFwUktya1hUSHJKcm5XWUR5YjJaYlFLbG9HSHpkZkgxQTFDM2FleUVlMUE?oc=5",
         "publishedAt": "2026-08-03T08:44:59.000Z"
+      },
+      {
+        "time": "06:45",
+        "title": "平山ホールディングスが特殊電極を子会社化、製造業のインフラ支援強化",
+        "source": "金属産業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oYXlNU19PMF81cjFnMzhJWFppVHR6SU5vQy05U3VTc3RiTm9QRXk0TWJfVVJGWVVkWHVHVUNXQ0FmQmtGeExUdXdJY2FNcEQ5cWtIeVUwczY?oc=5",
+        "publishedAt": "2026-08-02T21:45:40.000Z"
       }
     ],
     "worldHeadlines": [
