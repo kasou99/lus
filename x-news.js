@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T07:43:07.945Z",
+  "updatedAt": "2026-08-03T09:16:33.517Z",
   "items": [
     {
-      "time": "16:25",
-      "title": "自民 食料品の消費減税を大筋了承",
+      "time": "16:52",
+      "title": "福岡の自民県議団 会長が辞意表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590386?source=rss",
-      "publishedAt": "2026-08-03T07:25:58.000Z",
-      "xQuery": "自民 食料品の消費減税を大筋了承"
+      "url": "https://news.yahoo.co.jp/pickup/6590389?source=rss",
+      "publishedAt": "2026-08-03T07:52:36.000Z",
+      "xQuery": "福岡の自民県議団 会長が辞意表明"
     },
     {
       "time": "15:38",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "爆発で従業員犠牲 危機管理の盲点"
     },
     {
-      "time": "14:29",
-      "title": "イオン爆発 雑貨店幹部が指示謝罪",
+      "time": "17:45",
+      "title": "熊本県の宿泊キャンセル 約9億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590376?source=rss",
-      "publishedAt": "2026-08-03T05:29:52.000Z",
-      "xQuery": "イオン爆発 雑貨店幹部が指示謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6590397?source=rss",
+      "publishedAt": "2026-08-03T08:45:45.000Z",
+      "xQuery": "熊本県の宿泊キャンセル 約9億円"
     },
     {
-      "time": "16:15",
-      "title": "スーチー氏 赤十字関係者と面会",
+      "time": "17:02",
+      "title": "H3ロケット9号機 打ち上げ延期",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590383?source=rss",
-      "publishedAt": "2026-08-03T07:15:12.000Z",
-      "xQuery": "スーチー氏 赤十字関係者と面会"
+      "url": "https://news.yahoo.co.jp/pickup/6590390?source=rss",
+      "publishedAt": "2026-08-03T08:02:27.000Z",
+      "xQuery": "H3ロケット9号機 打ち上げ延期"
     },
     {
-      "time": "15:33",
-      "title": "ポケカ マイナ使用の本人認証導入",
+      "time": "17:30",
+      "title": "39歳でがん患う 正座できない家元",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590381?source=rss",
-      "publishedAt": "2026-08-03T06:33:39.000Z",
-      "xQuery": "ポケカ マイナ使用の本人認証導入"
+      "url": "https://news.yahoo.co.jp/pickup/6590393?source=rss",
+      "publishedAt": "2026-08-03T08:30:59.000Z",
+      "xQuery": "39歳でがん患う 正座できない家元"
     }
   ]
 };

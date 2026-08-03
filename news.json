@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T07:43:07.196Z",
+  "updatedAt": "2026-08-03T09:16:31.077Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-08-03T01:30:00.000Z"
       },
       {
-        "time": "18:07",
-        "title": "2026 8月",
-        "source": "公明党",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jZXBEMkNXY3JUUEVMNUJSYmFoRVNpUlBDQnh1ZlNmTndETURlUjQ2M2VGV2RpZ0J1RnNjZ09XT2lXRnUzV1Ixd3RsTVNXQU9VaGNONVIzdXJZTEJSRGNoaURTRGpzQQ?oc=5",
-        "publishedAt": "2026-08-02T09:07:38.000Z"
+        "time": "06:45",
+        "title": "平山ホールディングスが特殊電極を子会社化、製造業のインフラ支援強化",
+        "source": "金属産業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oYXlNU19PMF81cjFnMzhJWFppVHR6SU5vQy05U3VTc3RiTm9QRXk0TWJfVVJGWVVkWHVHVUNXQ0FmQmtGeExUdXdJY2FNcEQ5cWtIeVUwczY?oc=5",
+        "publishedAt": "2026-08-02T21:45:40.000Z"
       },
       {
-        "time": "10:51",
-        "title": "大手商社3社の通期見通し、業績底堅く 成長投資が利益貢献",
+        "time": "05:00",
+        "title": "航空宇宙ビジネス・フロンティアへの挑戦（135）日本航空電子工業 慣性センサユニット",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tczF5SEFfcTh0TmtISzVtRDdTM2hpRm1DQVFtcjFLTGgwdXNmOFJzemtxU2d3OEtjdjN6cDZZVGh0NFJpUmJkTHVZN25pRnM5LVdtam1XQWtWa1k?oc=5",
-        "publishedAt": "2026-08-03T01:51:02.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tQ1J3OE94a3JzTWNfUllGYzB2Z0loQ1lLVnpQVXlzTkowOF9aWmhLOUxPNzdTSDVUSHdCVFNUZXBURk9ZZXpEc3JIRjJoSGp5WGxoYnlPdzF0Q1k?oc=5",
+        "publishedAt": "2026-08-02T20:00:00.000Z"
       },
       {
         "time": "08:03",
@@ -112,11 +112,11 @@
         "publishedAt": "2026-08-02T23:40:39.000Z"
       },
       {
-        "time": "08:07",
-        "title": "トランプ氏 円買い介入は友好の証",
+        "time": "17:45",
+        "title": "熊本県の宿泊キャンセル 約9億円",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590335?source=rss",
-        "publishedAt": "2026-08-02T23:07:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590397?source=rss",
+        "publishedAt": "2026-08-03T08:45:45.000Z"
       },
       {
         "time": "14:29",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "16:52",
+        "title": "福岡の自民県議団 会長が辞意表明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590389?source=rss",
+        "publishedAt": "2026-08-03T07:52:36.000Z"
+      },
+      {
         "time": "14:46",
         "title": "熊本市で酷暑日 最大級の警戒を",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590364?source=rss",
         "publishedAt": "2026-08-03T03:39:09.000Z"
-      },
-      {
-        "time": "12:59",
-        "title": "コロナ感染も 避難所は雑魚寝状態",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590369?source=rss",
-        "publishedAt": "2026-08-03T03:59:53.000Z"
       },
       {
         "time": "11:46",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-03T03:45:20.000Z"
       },
       {
-        "time": "11:41",
-        "title": "8歳男児2人はねられ 1人意識不明",
+        "time": "17:30",
+        "title": "39歳でがん患う 正座できない家元",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590360?source=rss",
-        "publishedAt": "2026-08-03T02:41:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590393?source=rss",
+        "publishedAt": "2026-08-03T08:30:59.000Z"
       }
     ],
     "subsidyHeadlines": [
