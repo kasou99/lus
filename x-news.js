@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T14:25:31.130Z",
+  "updatedAt": "2026-08-03T15:29:27.618Z",
   "items": [
     {
       "time": "22:47",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590431?source=rss",
       "publishedAt": "2026-08-03T13:47:24.000Z",
       "xQuery": "米大統領 対イラン発言は二転三転"
+    },
+    {
+      "time": "21:32",
+      "title": "「全国学力テスト」分析結果公表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590421?source=rss",
+      "publishedAt": "2026-08-03T12:32:24.000Z",
+      "xQuery": "「全国学力テスト」分析結果公表"
     },
     {
       "time": "20:22",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590429?source=rss",
       "publishedAt": "2026-08-03T13:40:51.000Z",
       "xQuery": "自民・小渕氏 消費減税方針に反対"
-    },
-    {
-      "time": "22:28",
-      "title": "河口近くから海に流され 高1死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590428?source=rss",
-      "publishedAt": "2026-08-03T13:28:34.000Z",
-      "xQuery": "河口近くから海に流され 高1死亡"
     }
   ]
 };
