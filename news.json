@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T22:53:02.021Z",
+  "updatedAt": "2026-08-03T23:27:02.204Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -18,17 +18,10 @@
       },
       {
         "time": "05:44",
-        "title": "変わるAIエージェント 道具から誰かへ（下）学習データ、修正で偏り",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSNEw0a0IwbWhRdUpUYXpJLWxfaDJZUV9XMmE4azRqazBDQWhnalUwQUJOVXRZak5waXpHYWNTYnZTend3TXY5dWJmbVU5TERHTGl0RldabzQzeUctRjJlb0syc1V1NDRUSUFJWUlOV0w1Q3pE?oc=5",
-        "publishedAt": "2026-08-03T20:44:52.000Z"
-      },
-      {
-        "time": "15:32",
-        "title": "低電圧DCサーボモーターの世界市場規模：最新トレンド、成長要因、今後動向2026-2032｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52T0VwQk54dWhOY1ZJY1NBWndscjd3NFJJbThBMEhQTkdYNlpBZEVYaVo5aEJ6amVyU2V4eFE0Um9ITHhDX0FLa2FvT1QzZDBYekk2WGstOA?oc=5",
-        "publishedAt": "2026-08-03T06:32:11.000Z"
+        "title": "銅スクラップ、高値圏 車・半導体生産増支えに",
+        "source": "nikkan.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14SEpXblA3MkZyZE9sc0YxV2hTYjFTTUdJb0xHUmZiTUJYd0Y0c3Z3bGY3MHlyc2xzb2RfMnR4Y3BiTmJuclVsMXByNkVJMk5hZ2pmbGN3NTdjT2w1a0QxU1BfUEIxSEducTRaYk41M0lSY2w4?oc=5",
+        "publishedAt": "2026-08-03T20:44:54.000Z"
       },
       {
         "time": "10:30",
@@ -43,6 +36,13 @@
         "source": "ASCII.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81OXNzYlpBOVA5OEd0YzVTRFg2Tl9Vb2VXWkR4WGJCWE1KdS1XaldBeERzYWliYkJIeDkxWVZpeWVWWUNKYXMzQVAwTy1pQ1dkUUVDZw?oc=5",
         "publishedAt": "2026-08-03T10:28:39.000Z"
+      },
+      {
+        "time": "05:44",
+        "title": "変わるAIエージェント 道具から誰かへ（下）学習データ、修正で偏り",
+        "source": "nikkan.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSNEw0a0IwbWhRdUpUYXpJLWxfaDJZUV9XMmE4azRqazBDQWhnalUwQUJOVXRZak5waXpHYWNTYnZTend3TXY5dWJmbVU5TERHTGl0RldabzQzeUctRjJlb0syc1V1NDRUSUFJWUlOV0w1Q3pE?oc=5",
+        "publishedAt": "2026-08-03T20:44:52.000Z"
       },
       {
         "time": "23:02",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-08-03T21:26:27.000Z"
       },
       {
+        "time": "08:12",
+        "title": "関税措置巡り 米25州が政権を提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590452?source=rss",
+        "publishedAt": "2026-08-03T23:12:34.000Z"
+      },
+      {
         "time": "16:15",
         "title": "スーチー氏 赤十字関係者と面会",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590383?source=rss",
         "publishedAt": "2026-08-03T07:15:12.000Z"
-      },
-      {
-        "time": "20:57",
-        "title": "モスクワの飲食店爆発 死者5人に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590419?source=rss",
-        "publishedAt": "2026-08-03T11:57:35.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-08-03T11:32:10.000Z"
       },
       {
-        "time": "17:30",
-        "title": "39歳でがん患う 正座できない家元",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590393?source=rss",
-        "publishedAt": "2026-08-03T08:30:59.000Z"
-      },
-      {
         "time": "06:05",
         "title": "マンション火災で12人けが 小金井",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590436?source=rss",
         "publishedAt": "2026-08-03T14:48:17.000Z"
+      },
+      {
+        "time": "22:26",
+        "title": "京都・高台寺 岡林院の施設全焼",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590427?source=rss",
+        "publishedAt": "2026-08-03T13:26:03.000Z"
       }
     ],
     "subsidyHeadlines": [

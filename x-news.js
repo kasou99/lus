@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T22:53:02.874Z",
+  "updatedAt": "2026-08-03T23:27:03.136Z",
   "items": [
     {
       "time": "07:40",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "イランが協議否定 米大統領は批判"
     },
     {
-      "time": "06:49",
-      "title": "NYダウ終値693ドル高 最高値更新",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590444?source=rss",
-      "publishedAt": "2026-08-03T21:49:53.000Z",
-      "xQuery": "NYダウ終値693ドル高 最高値更新"
-    },
-    {
       "time": "23:04",
       "title": "地震で家倒壊 避難直後に盗難被害",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "地震で家倒壊 避難直後に盗難被害"
     },
     {
-      "time": "06:05",
-      "title": "マンション火災で12人けが 小金井",
+      "time": "23:48",
+      "title": "窓清掃中マンションから転落 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590440?source=rss",
-      "publishedAt": "2026-08-03T21:05:59.000Z",
-      "xQuery": "マンション火災で12人けが 小金井"
+      "url": "https://news.yahoo.co.jp/pickup/6590436?source=rss",
+      "publishedAt": "2026-08-03T14:48:17.000Z",
+      "xQuery": "窓清掃中マンションから転落 死亡"
+    },
+    {
+      "time": "08:05",
+      "title": "花火大会で禁止行為相次ぎ 怒り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590453?source=rss",
+      "publishedAt": "2026-08-03T23:05:47.000Z",
+      "xQuery": "花火大会で禁止行為相次ぎ 怒り"
     }
   ]
 };
