@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T21:28:49.982Z",
+  "updatedAt": "2026-08-03T21:56:29.166Z",
   "items": [
+    {
+      "time": "06:49",
+      "title": "NYダウ終値693ドル高 最高値更新",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590444?source=rss",
+      "publishedAt": "2026-08-03T21:49:53.000Z",
+      "xQuery": "NYダウ終値693ドル高 最高値更新"
+    },
     {
       "time": "22:47",
       "title": "米大統領 対イラン発言は二転三転",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590431?source=rss",
       "publishedAt": "2026-08-03T13:47:24.000Z",
       "xQuery": "米大統領 対イラン発言は二転三転"
-    },
-    {
-      "time": "20:22",
-      "title": "車両集中 地震の復旧阻む大渋滞",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590413?source=rss",
-      "publishedAt": "2026-08-03T11:22:39.000Z",
-      "xQuery": "車両集中 地震の復旧阻む大渋滞"
     },
     {
       "time": "06:26",
