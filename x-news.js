@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T01:41:17.531Z",
+  "updatedAt": "2026-08-03T03:12:16.786Z",
   "items": [
     {
-      "time": "10:38",
-      "title": "円が急騰 一時1ドル=155円台前半",
+      "time": "11:53",
+      "title": "熊本地震 ふるさと納税7.3億円超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590348?source=rss",
-      "publishedAt": "2026-08-03T01:38:48.000Z",
-      "xQuery": "円が急騰 一時1ドル=155円台前半"
+      "url": "https://news.yahoo.co.jp/pickup/6590359?source=rss",
+      "publishedAt": "2026-08-03T02:53:46.000Z",
+      "xQuery": "熊本地震 ふるさと納税7.3億円超"
     },
     {
-      "time": "08:52",
-      "title": "3日は熊本40℃予想 九州で酷暑",
+      "time": "11:46",
+      "title": "知的財産で企業価値向上 政府指針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590336?source=rss",
-      "publishedAt": "2026-08-02T23:52:05.000Z",
-      "xQuery": "3日は熊本40℃予想 九州で酷暑"
-    },
-    {
-      "time": "09:16",
-      "title": "マレーシア首相 難民巡る発言物議",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590339?source=rss",
-      "publishedAt": "2026-08-03T00:16:07.000Z",
-      "xQuery": "マレーシア首相 難民巡る発言物議"
+      "url": "https://news.yahoo.co.jp/pickup/6590355?source=rss",
+      "publishedAt": "2026-08-03T02:46:25.000Z",
+      "xQuery": "知的財産で企業価値向上 政府指針"
     },
     {
       "time": "09:22",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震で転倒が原因か 16歳死亡"
     },
     {
-      "time": "09:41",
-      "title": "路面電車の下敷きになり死亡 函館",
+      "time": "11:46",
+      "title": "イオン爆発前 戻る指示の法的責任",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590342?source=rss",
-      "publishedAt": "2026-08-03T00:41:35.000Z",
-      "xQuery": "路面電車の下敷きになり死亡 函館"
+      "url": "https://news.yahoo.co.jp/pickup/6590353?source=rss",
+      "publishedAt": "2026-08-03T02:46:02.000Z",
+      "xQuery": "イオン爆発前 戻る指示の法的責任"
+    },
+    {
+      "time": "11:46",
+      "title": "江別暴行 当時18歳に無期懲役求刑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590357?source=rss",
+      "publishedAt": "2026-08-03T02:46:19.000Z",
+      "xQuery": "江別暴行 当時18歳に無期懲役求刑"
     }
   ]
 };
