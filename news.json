@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T00:50:30.603Z",
+  "updatedAt": "2026-08-03T01:41:16.735Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-02T20:01:09.000Z"
       },
       {
+        "time": "10:10",
+        "title": "【双葉電子工業】産業用サーボ「BLA34シリーズ」にサイドコネクタタイプ2機種を追加",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vZFZUZWlHaUFrS1Rlb1ZRRlBVUmJyUHlQblZ0WkkxaHhRZzlqOXVGWnY1WlpOU0RUOFY0NlBkV3Q3dFJwT3ZVc0ZHODZDc0FkM25xOE9QNDAxOEh3MkdtREg5NEtDUWJfVVE?oc=5",
+        "publishedAt": "2026-08-03T01:10:01.000Z"
+      },
+      {
         "time": "06:45",
         "title": "平山ホールディングスが特殊電極を子会社化、製造業のインフラ支援強化",
         "source": "金属産業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oYXlNU19PMF81cjFnMzhJWFppVHR6SU5vQy05U3VTc3RiTm9QRXk0TWJfVVJGWVVkWHVHVUNXQ0FmQmtGeExUdXdJY2FNcEQ5cWtIeVUwczY?oc=5",
         "publishedAt": "2026-08-02T21:45:40.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "考察／官民挙げて日本を再び強く、日本成長戦略会議の成長シナリオ（下）／産業全体の底上げが必要、戦略分野に高級鋼で貢献／グリーンスチールは「戦略性の高い商品」、供給力が鉄鋼メーカーの存続左右",
-        "source": "日刊鉄鋼新聞 Japan Metal Daily",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sRDA4TGZyc0FiQ01CVVdVZ3NUSWJGNm1jQ3QzZnZ3SnM0MC1JUDBWZVBzYjYxc1EyR1NFUVYtTUhDU3RmTDBISFp4c1AwRnpYTGxIampfNmhmeUJGeGc?oc=5",
-        "publishedAt": "2026-08-02T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,13 +170,6 @@
         "publishedAt": "2026-08-02T10:43:38.000Z"
       },
       {
-        "time": "19:24",
-        "title": "イオン爆発 妻のスマホが形見に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590295?source=rss",
-        "publishedAt": "2026-08-02T10:24:42.000Z"
-      },
-      {
         "time": "20:15",
         "title": "落石で女性死亡 小学生の子が目撃",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590270?source=rss",
         "publishedAt": "2026-08-02T07:25:34.000Z"
+      },
+      {
+        "time": "06:35",
+        "title": "同じ会社の男性を殺害疑い 男逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590327?source=rss",
+        "publishedAt": "2026-08-02T21:35:26.000Z"
       }
     ],
     "subsidyHeadlines": [

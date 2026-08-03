@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T00:50:32.737Z",
+  "updatedAt": "2026-08-03T01:41:17.531Z",
   "items": [
     {
-      "time": "08:40",
-      "title": "財務相 さらなる協調介入躊躇せず",
+      "time": "10:38",
+      "title": "円が急騰 一時1ドル=155円台前半",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590337?source=rss",
-      "publishedAt": "2026-08-02T23:40:39.000Z",
-      "xQuery": "財務相 さらなる協調介入躊躇せず"
+      "url": "https://news.yahoo.co.jp/pickup/6590348?source=rss",
+      "publishedAt": "2026-08-03T01:38:48.000Z",
+      "xQuery": "円が急騰 一時1ドル=155円台前半"
     },
     {
       "time": "08:52",
