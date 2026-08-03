@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T09:16:31.077Z",
+  "updatedAt": "2026-08-03T10:48:06.233Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-08-02T21:15:00.000Z"
       },
       {
+        "time": "12:43",
+        "title": "日本電技株式会社 新規オフィシャルパートナー契約締結について",
+        "source": "ジェフユナイテッド市原・千葉 公式ウェブサイト",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3ODVPU0I3eHJjeDVrbGNHX2N4a0hIZ2pRNnQ0QUJpRHZkTmZwZmJuUHlZdFkzNmlXY0EwWUplWDNWMURFNzA3Q1FkT3JRampaekE?oc=5",
+        "publishedAt": "2026-08-03T03:43:13.000Z"
+      },
+      {
         "time": "12:00",
         "title": "機械制御、性能維持・低コストに ベッコフオートメーション",
         "source": "日刊工業新聞",
@@ -31,32 +38,25 @@
         "publishedAt": "2026-08-03T01:30:00.000Z"
       },
       {
-        "time": "06:45",
-        "title": "平山ホールディングスが特殊電極を子会社化、製造業のインフラ支援強化",
-        "source": "金属産業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oYXlNU19PMF81cjFnMzhJWFppVHR6SU5vQy05U3VTc3RiTm9QRXk0TWJfVVJGWVVkWHVHVUNXQ0FmQmtGeExUdXdJY2FNcEQ5cWtIeVUwczY?oc=5",
-        "publishedAt": "2026-08-02T21:45:40.000Z"
+        "time": "04:10",
+        "title": "【日本株】AI相場の次なる主役｢フィジカルAI｣の本命株を紹介！ 工作機械大手で業績が急回復中の｢DMG森精機｣と、エヌビディアと提携の｢ファナック｣に注目！（ダイヤモンド・ザイ）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3dFE4WkpZeWVCTms1bDdqQjNnU2NER0FzczZiVldmb044RzlrWWJHNWJCT1lyZlZsLTlQRk9GWHd0c2RITmI0Rmg3Q2Q4Y05IQXd1Q0w4clhFTEM3dGhTTDUyd1dKMU1JZ0luYW5BcnVLSDJyTUdXX0xNZWJqSWM?oc=5",
+        "publishedAt": "2026-08-02T19:10:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "航空宇宙ビジネス・フロンティアへの挑戦（135）日本航空電子工業 慣性センサユニット",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tQ1J3OE94a3JzTWNfUllGYzB2Z0loQ1lLVnpQVXlzTkowOF9aWmhLOUxPNzdTSDVUSHdCVFNUZXBURk9ZZXpEc3JIRjJoSGp5WGxoYnlPdzF0Q1k?oc=5",
-        "publishedAt": "2026-08-02T20:00:00.000Z"
+        "time": "11:56",
+        "title": "最新のIntel® Core™ プロセッサー (Series 2)対応の産業用ボードコンピュータ「RICOH FB22RB」および「RICOH FB22RBM」を2026年10月から発売開始",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rYlBmSTU2WUZ5dFZPUUkwUDF3TWx5ajh0Q2JfM0d6a2ZDUXdrOFBFbUxCVENJWDc0dW5vdzJjWlNqb1dXbmpfUWlTZTVtUW5IT3RHUkhRbVdDWWU0MmF5SXVyZTZmUWlDZUE?oc=5",
+        "publishedAt": "2026-08-03T02:56:07.000Z"
       },
       {
-        "time": "08:03",
-        "title": "互大商工、全自動消火装置取り扱い開始",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5TFV4cWIxQUxLaHh3MUdNMU1VMnFCYjV0LUo5cjVyR2ZnSTVHOVBZQ01BMXJvMEhveWs5QkNidGxtc0hfRmZFNnhsaklXeWFsbDVxQkVIcDR6ZG5YOWFyUXdFQ2piTm5lR19GX3p4UDVaS3ZxeUluQjF4MA?oc=5",
-        "publishedAt": "2026-08-02T23:03:45.000Z"
-      },
-      {
-        "time": "12:43",
-        "title": "日本電技株式会社 新規オフィシャルパートナー契約締結について",
-        "source": "ジェフユナイテッド市原・千葉 公式ウェブサイト",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3ODVPU0I3eHJjeDVrbGNHX2N4a0hIZ2pRNnQ0QUJpRHZkTmZwZmJuUHlZdFkzNmlXY0EwWUplWDNWMURFNzA3Q1FkT3JRampaekE?oc=5",
-        "publishedAt": "2026-08-03T03:43:13.000Z"
+        "time": "10:50",
+        "title": "ファナックが急反落､27年3月期予想上方修正も想定の範囲内",
+        "source": "四季報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhWGFVSE8tdGhNNFVtTnZ1RnVPc0dFQXpoY2xVaGlGMkdTS3BqZXJTemhqN1ZOMEpkakZFVGZuaUl6Z21wLTdzelVGRklQNy1keGE3NXdfOA?oc=5",
+        "publishedAt": "2026-08-03T01:50:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-08-03T07:52:36.000Z"
       },
       {
+        "time": "19:33",
+        "title": "福岡 県議会議長と距離を置く動き",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590410?source=rss",
+        "publishedAt": "2026-08-03T10:33:51.000Z"
+      },
+      {
         "time": "14:46",
         "title": "熊本市で酷暑日 最大級の警戒を",
         "source": "Yahoo!ニュース",
@@ -170,11 +177,11 @@
         "publishedAt": "2026-08-03T03:39:09.000Z"
       },
       {
-        "time": "11:46",
-        "title": "江別暴行 当時18歳に無期懲役求刑",
+        "time": "19:15",
+        "title": "千葉爆発 前日の夜からガス漏れか",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590357?source=rss",
-        "publishedAt": "2026-08-03T02:46:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590401?source=rss",
+        "publishedAt": "2026-08-03T10:15:03.000Z"
       },
       {
         "time": "12:45",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590367?source=rss",
         "publishedAt": "2026-08-03T03:45:20.000Z"
-      },
-      {
-        "time": "17:30",
-        "title": "39歳でがん患う 正座できない家元",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590393?source=rss",
-        "publishedAt": "2026-08-03T08:30:59.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }

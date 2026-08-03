@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T09:16:33.517Z",
+  "updatedAt": "2026-08-03T10:48:06.793Z",
   "items": [
     {
-      "time": "16:52",
-      "title": "福岡の自民県議団 会長が辞意表明",
+      "time": "18:56",
+      "title": "熊本地震 激甚災害に指定見込み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590389?source=rss",
-      "publishedAt": "2026-08-03T07:52:36.000Z",
-      "xQuery": "福岡の自民県議団 会長が辞意表明"
-    },
-    {
-      "time": "15:38",
-      "title": "爆発で従業員犠牲 危機管理の盲点",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590354?source=rss",
-      "publishedAt": "2026-08-03T06:38:36.000Z",
-      "xQuery": "爆発で従業員犠牲 危機管理の盲点"
+      "url": "https://news.yahoo.co.jp/pickup/6590406?source=rss",
+      "publishedAt": "2026-08-03T09:56:15.000Z",
+      "xQuery": "熊本地震 激甚災害に指定見込み"
     },
     {
       "time": "17:45",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本県の宿泊キャンセル 約9億円"
     },
     {
-      "time": "17:02",
-      "title": "H3ロケット9号機 打ち上げ延期",
+      "time": "16:52",
+      "title": "福岡の自民県議団 会長が辞意表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590390?source=rss",
-      "publishedAt": "2026-08-03T08:02:27.000Z",
-      "xQuery": "H3ロケット9号機 打ち上げ延期"
+      "url": "https://news.yahoo.co.jp/pickup/6590389?source=rss",
+      "publishedAt": "2026-08-03T07:52:36.000Z",
+      "xQuery": "福岡の自民県議団 会長が辞意表明"
     },
     {
       "time": "17:30",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590393?source=rss",
       "publishedAt": "2026-08-03T08:30:59.000Z",
       "xQuery": "39歳でがん患う 正座できない家元"
+    },
+    {
+      "time": "17:15",
+      "title": "「ドコモの銀行」始動 強みは何か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590391?source=rss",
+      "publishedAt": "2026-08-03T08:15:49.000Z",
+      "xQuery": "「ドコモの銀行」始動 強みは何か"
     }
   ]
 };
