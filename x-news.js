@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T09:27:29.760Z",
+  "updatedAt": "2026-08-04T10:24:32.049Z",
   "items": [
     {
       "time": "17:25",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "九州道 8月後半には通行可能に"
     },
     {
-      "time": "17:42",
-      "title": "デンマーク新兵役制度 20%が女性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590516?source=rss",
-      "publishedAt": "2026-08-04T08:42:37.000Z",
-      "xQuery": "デンマーク新兵役制度 20%が女性"
-    },
-    {
       "time": "17:57",
       "title": "台風13号「迷走」可能性 進路注意",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "台風13号「迷走」可能性 進路注意"
     },
     {
-      "time": "15:35",
-      "title": "オンワード 3人死亡した被災経緯",
+      "time": "17:42",
+      "title": "デンマーク新兵役制度 20%が女性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590500?source=rss",
-      "publishedAt": "2026-08-04T06:35:15.000Z",
-      "xQuery": "オンワード 3人死亡した被災経緯"
+      "url": "https://news.yahoo.co.jp/pickup/6590516?source=rss",
+      "publishedAt": "2026-08-04T08:42:37.000Z",
+      "xQuery": "デンマーク新兵役制度 20%が女性"
     },
     {
-      "time": "17:30",
-      "title": "中部電 7万人超の情報漏えい恐れ",
+      "time": "17:29",
+      "title": "終了した「104」今もかける60代母",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590517?source=rss",
-      "publishedAt": "2026-08-04T08:30:30.000Z",
-      "xQuery": "中部電 7万人超の情報漏えい恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6590515?source=rss",
+      "publishedAt": "2026-08-04T08:29:36.000Z",
+      "xQuery": "終了した「104」今もかける60代母"
+    },
+    {
+      "time": "18:49",
+      "title": "小学館 社長ら26人が報酬返納",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590528?source=rss",
+      "publishedAt": "2026-08-04T09:49:41.000Z",
+      "xQuery": "小学館 社長ら26人が報酬返納"
     }
   ]
 };
