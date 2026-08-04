@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T06:01:26.285Z",
+  "updatedAt": "2026-08-04T07:25:41.699Z",
   "items": [
+    {
+      "time": "15:53",
+      "title": "中継 熊本地震1週間で気象庁会見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590503?source=rss",
+      "publishedAt": "2026-08-04T06:53:21.000Z",
+      "xQuery": "中継 熊本地震1週間で気象庁会見"
+    },
     {
       "time": "14:26",
       "title": "熊本「何よりも水を」住民ら切実",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本「何よりも水を」住民ら切実"
     },
     {
-      "time": "12:20",
-      "title": "倒壊カフェから生還 声震わせ再会",
+      "time": "16:17",
+      "title": "消費減税 臨時国会に法案提出意向",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590481?source=rss",
-      "publishedAt": "2026-08-04T03:20:18.000Z",
-      "xQuery": "倒壊カフェから生還 声震わせ再会"
+      "url": "https://news.yahoo.co.jp/pickup/6590504?source=rss",
+      "publishedAt": "2026-08-04T07:17:07.000Z",
+      "xQuery": "消費減税 臨時国会に法案提出意向"
     },
     {
-      "time": "13:33",
-      "title": "事故で胎児が被害 法整備巡る現状",
+      "time": "15:35",
+      "title": "オンワード 3人死亡した被災経緯",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590470?source=rss",
-      "publishedAt": "2026-08-04T04:33:36.000Z",
-      "xQuery": "事故で胎児が被害 法整備巡る現状"
+      "url": "https://news.yahoo.co.jp/pickup/6590500?source=rss",
+      "publishedAt": "2026-08-04T06:35:15.000Z",
+      "xQuery": "オンワード 3人死亡した被災経緯"
     },
     {
-      "time": "14:06",
-      "title": "八王子6人負傷事故 男を再逮捕",
+      "time": "15:46",
+      "title": "遊泳中の高校生が行方不明 青森",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590491?source=rss",
-      "publishedAt": "2026-08-04T05:06:46.000Z",
-      "xQuery": "八王子6人負傷事故 男を再逮捕"
-    },
-    {
-      "time": "12:52",
-      "title": "グミ誤発注で「SOS」投稿 客続々",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590487?source=rss",
-      "publishedAt": "2026-08-04T03:52:19.000Z",
-      "xQuery": "グミ誤発注で「SOS」投稿 客続々"
+      "url": "https://news.yahoo.co.jp/pickup/6590502?source=rss",
+      "publishedAt": "2026-08-04T06:46:58.000Z",
+      "xQuery": "遊泳中の高校生が行方不明 青森"
     }
   ]
 };

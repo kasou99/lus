@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T06:01:25.724Z",
+  "updatedAt": "2026-08-04T07:25:40.958Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,15 +26,22 @@
       {
         "time": "05:00",
         "title": "中村留精密工業が工作機械のショールーム刷新、機能を体感できる場に",
-        "source": "xtech.nikkei.com",
+        "source": "日経クロステック",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBncHhkNkVUSERIbzdLa2lTejFkekRXWFpuczlOU3hNQlk0SjhmVkRCTExhX0tQVElLckNBbktTdklOemc2WXMxb1ZuTXdZSC1wQjg5ekJQOTdBTUh0RnpQc05mTUE4TnB6aWpsTg?oc=5",
         "publishedAt": "2026-08-03T20:00:00.000Z"
       },
       {
+        "time": "15:23",
+        "title": "『雪庇はある？』『漏水している？』と聞くだけ。アトラックラボ、LLM搭載マルチモーダルAI設備診断システムを開発",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aWDJkNno3X1VSb0FxWm9yNUoyRHZpQ0lDRGhFR0xEcGtmYno3elVXdHBrZEtsUzUyTlkycEtudWwyXzJIZmE1UW9TSmJrLXRhbUlVbHdlZXdCQ2lXRjRFM2dNQi1BeG5LdWc?oc=5",
+        "publishedAt": "2026-08-04T06:23:42.000Z"
+      },
+      {
         "time": "10:30",
-        "title": "宮崎銀、連携2行3信金に 宮崎太陽銀・宮崎第一信金参加",
+        "title": "変わるAIエージェント 道具から誰かへ（下）学習データ、修正で偏り",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91U2hsR09MeHFXWGpPbmZoNzRtbExnU0xxME13bjRsQXROUW9Yck9BNEk5SmZDTmhGWko5OGM1WDltUVhQcnlQSVVYVmtHeXpFVklwVHQ1ZnZ6cm9qU1ZITEl6TzJ1elI0R1lqOUh2Umk2MG5kSzdLa3pqcw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1M1huaTBFaTBvb0drR19WdGFna3JtYzdxWHUyV0poVDhiUXN6Q043bF93VHJyNGFsckJkb3VmSjNfM0JDLXpHZHRHUVBOTkdvamF0YXFQUXlhaF94Y3FacV9JeHItRTlfeGNaMENNQXNVYUNxOTMzYTdKdw?oc=5",
         "publishedAt": "2026-08-04T01:30:00.000Z"
       },
       {
@@ -45,18 +52,11 @@
         "publishedAt": "2026-08-03T19:13:03.000Z"
       },
       {
-        "time": "10:30",
-        "title": "変わるAIエージェント 道具から誰かへ（下）学習データ、修正で偏り",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1M1huaTBFaTBvb0drR19WdGFna3JtYzdxWHUyV0poVDhiUXN6Q043bF93VHJyNGFsckJkb3VmSjNfM0JDLXpHZHRHUVBOTkdvamF0YXFQUXlhaF94Y3FacV9JeHItRTlfeGNaMENNQXNVYUNxOTMzYTdKdw?oc=5",
-        "publishedAt": "2026-08-04T01:30:00.000Z"
-      },
-      {
-        "time": "10:02",
-        "title": "DNソリューションズが韓国AI・ロボット産業協会に加盟 - CHOSUNBIZ",
-        "source": "Chosunbiz",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkd0cUlVbDR4M2hoWXpTTlA3U0NucHlrTFZCdkp6cVo4MF81VXpmaGp0bmd1SEpGM195SXJGWm9JRHNaelBtRzZfendMTjlnTF9tUDNkOS1lLUdaVmp5eU10YUV4X3o1UzlBdU1qYS1yZXpla2s5ZkRsVUNnazlNYmhXVUxHWVVZd25ReWlQTEhMVEFJRHfSAZYBQVVfeXFMT2ZHdHFJVWw0eDNoaFl6U05QN1NDbnB5a0xWQnZKenFaODBfNVV6ZmhqdG5ndUhKRjNfeUlyRlpvSURzWnpQbUc2X3p3TE45Z0xfbVAzZDktZS1HWlZqeXlNdGFFeF96NVM5QXVNamEtcmV6ZWtrOWZEbFVDZ2s5TWJoV1VMR1lVWXduUXlpUExITFRBSUR3?oc=5",
-        "publishedAt": "2026-08-04T01:02:00.000Z"
+        "time": "18:06",
+        "title": "2026 8月",
+        "source": "公明党",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVJ6Q3JpZXU4bnlpUVRiMXFZTzlKNVI5cTd1THZQZTVMSVFIclBSWXZzWm9ORTBVUldsVm9DaTJpYVBCdDFCZGY0c3c4ZEh6MGxPWlJJMjZiV0JGbGE2WkNMQlFvWXQ1dDVTQjJQVmxPSTBvN09MQ1NqVmlPWDZzdWxlR1Y0TmhNZ21aY1NmTU9uYko4RFczS2Y0SGhmVGQxdW13MA?oc=5",
+        "publishedAt": "2026-08-03T09:06:01.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,11 +112,11 @@
         "publishedAt": "2026-08-03T12:20:08.000Z"
       },
       {
-        "time": "07:42",
-        "title": "日米協調介入 約9カ月前から調整",
+        "time": "15:35",
+        "title": "オンワード 3人死亡した被災経緯",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590447?source=rss",
-        "publishedAt": "2026-08-03T22:42:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590500?source=rss",
+        "publishedAt": "2026-08-04T06:35:15.000Z"
       },
       {
         "time": "11:51",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-08-04T02:43:08.000Z"
       },
       {
+        "time": "15:46",
+        "title": "遊泳中の高校生が行方不明 青森",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590502?source=rss",
+        "publishedAt": "2026-08-04T06:46:58.000Z"
+      },
+      {
         "time": "12:20",
         "title": "倒壊カフェから生還 声震わせ再会",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590491?source=rss",
         "publishedAt": "2026-08-04T05:06:46.000Z"
-      },
-      {
-        "time": "12:35",
-        "title": "こどもの国線 列車とトラック接触",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590485?source=rss",
-        "publishedAt": "2026-08-04T03:35:54.000Z"
       },
       {
         "time": "11:29",
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }
