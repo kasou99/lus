@@ -1,19 +1,26 @@
 {
-  "updatedAt": "2026-08-04T00:48:24.836Z",
+  "updatedAt": "2026-08-04T01:40:26.642Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "05:00",
-        "title": "工作機械受注5割増 AI銘柄に化けたツガミ、過剰投資を懸念する株価",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KUDlHQmpPT2FkdWN1dUI5cXZta3habDhQNlI1bjFwUmxOVmFyMkJ3S0dadWhkVFNVbjhVcTFVSS1GWGNoQmtKWXVEWVJvZ3R0dVRlb0ViVkFTVUxnb3kxUDVjNGxSTmQtTmN3Yg?oc=5",
-        "publishedAt": "2026-08-03T20:00:00.000Z"
-      },
       {
         "time": "05:00",
         "title": "中村留精密工業が工作機械のショールーム刷新、機能を体感できる場に",
         "source": "日経クロステック",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBncHhkNkVUSERIbzdLa2lTejFkekRXWFpuczlOU3hNQlk0SjhmVkRCTExhX0tQVElLckNBbktTdklOemc2WXMxb1ZuTXdZSC1wQjg5ekJQOTdBTUh0RnpQc05mTUE4TnB6aWpsTg?oc=5",
+        "publishedAt": "2026-08-03T20:00:00.000Z"
+      },
+      {
+        "time": "10:30",
+        "title": "DINレール組み込みコンピュータの世界市場（2026年～2032年）、市場規模（インテル、NVIDIA、AMD）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52MTF4cm1GRnZfRmJOaGF3QWRlcjdVclpoWlA4dnNxT29mQlhGOEY2ZHROTTBoOVlqTHNDeFpyNTF3ZFhRVUNmQ1pYMWtsNHc?oc=5",
+        "publishedAt": "2026-08-04T01:30:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "工作機械受注5割増 AI銘柄に化けたツガミ、過剰投資を懸念する株価",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KUDlHQmpPT2FkdWN1dUI5cXZta3habDhQNlI1bjFwUmxOVmFyMkJ3S0dadWhkVFNVbjhVcTFVSS1GWGNoQmtKWXVEWVJvZ3R0dVRlb0ViVkFTVUxnb3kxUDVjNGxSTmQtTmN3Yg?oc=5",
         "publishedAt": "2026-08-03T20:00:00.000Z"
       },
       {
@@ -31,11 +38,18 @@
         "publishedAt": "2026-08-03T19:13:03.000Z"
       },
       {
-        "time": "15:32",
-        "title": "低電圧DCサーボモーターの世界市場規模：最新トレンド、成長要因、今後動向2026-2032｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52T0VwQk54dWhOY1ZJY1NBWndscjd3NFJJbThBMEhQTkdYNlpBZEVYaVo5aEJ6amVyU2V4eFE0Um9ITHhDX0FLa2FvT1QzZDBYekk2WGstOA?oc=5",
-        "publishedAt": "2026-08-03T06:32:11.000Z"
+        "time": "23:24",
+        "title": "日本電技株式会社 新規オフィシャルパートナー契約締結について",
+        "source": "ジェフユナイテッド市原・千葉 公式ウェブサイト",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3ODVPU0I3eHJjeDVrbGNHX2N4a0hIZ2pRNnQ0QUJpRHZkTmZwZmJuUHlZdFkzNmlXY0EwWUplWDNWMURFNzA3Q1FkT3JRampaekE?oc=5",
+        "publishedAt": "2026-08-03T14:24:25.000Z"
+      },
+      {
+        "time": "07:00",
+        "title": "プーチンはとにかく焦っている…｢普通の30代日本人男性｣をスパイの共犯に絡めとるロシアの\"本当の狙い\"",
+        "source": "PRESIDENT Online（プレジデントオンライン）",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EcUl4YzQzbmVVa1NJU0pLWGdmZnVnUWE5UDdrdjBHd0dSeWloQkV6R01fbUdNNTdscU16MGc4N0NGRkY2NFpoR3FIWFpySlF6bjdsY1dMbms?oc=5",
+        "publishedAt": "2026-08-03T22:00:00.000Z"
       },
       {
         "time": "19:28",
@@ -43,20 +57,6 @@
         "source": "ASCII.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81OXNzYlpBOVA5OEd0YzVTRFg2Tl9Vb2VXWkR4WGJCWE1KdS1XaldBeERzYWliYkJIeDkxWVZpeWVWWUNKYXMzQVAwTy1pQ1dkUUVDZw?oc=5",
         "publishedAt": "2026-08-03T10:28:39.000Z"
-      },
-      {
-        "time": "05:44",
-        "title": "変わるAIエージェント 道具から誰かへ（下）学習データ、修正で偏り",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSNEw0a0IwbWhRdUpUYXpJLWxfaDJZUV9XMmE4azRqazBDQWhnalUwQUJOVXRZak5waXpHYWNTYnZTend3TXY5dWJmbVU5TERHTGl0RldabzQzeUctRjJlb0syc1V1NDRUSUFJWUlOV0w1Q3pE?oc=5",
-        "publishedAt": "2026-08-03T20:44:52.000Z"
-      },
-      {
-        "time": "10:30",
-        "title": "CNCねじ研削盤の世界市場（2026年～2032年）、市場規模（ボールねじ精度：P1、ボールねじ精度：P2、ボールねじ精度：P3、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOdWsxNko2NGZtLXIyc2pxXzg5RFg1cW14UmFYWmRJOXg1TVhZcTZERFhWN3RsWTVLaVlPaEFlSW9QLXV0OTJBNzgxcEJKQXM?oc=5",
-        "publishedAt": "2026-08-03T01:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590431?source=rss",
         "publishedAt": "2026-08-03T13:47:24.000Z"
+      },
+      {
+        "time": "09:48",
+        "title": "ウ軍が露ビーチに攻撃 7人が死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590463?source=rss",
+        "publishedAt": "2026-08-04T00:48:55.000Z"
       },
       {
         "time": "06:26",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590458?source=rss",
         "publishedAt": "2026-08-04T00:06:55.000Z"
-      },
-      {
-        "time": "16:15",
-        "title": "スーチー氏 赤十字関係者と面会",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590383?source=rss",
-        "publishedAt": "2026-08-03T07:15:12.000Z"
       }
     ],
     "economyHeadlines": [
@@ -170,18 +170,18 @@
         "publishedAt": "2026-08-03T11:32:10.000Z"
       },
       {
-        "time": "06:05",
-        "title": "マンション火災で12人けが 小金井",
+        "time": "09:48",
+        "title": "ネイリスト殺害 関与認める供述か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590440?source=rss",
-        "publishedAt": "2026-08-03T21:05:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590461?source=rss",
+        "publishedAt": "2026-08-04T00:48:14.000Z"
       },
       {
-        "time": "08:34",
-        "title": "東名高速で3台絡む事故 1人重体",
+        "time": "10:06",
+        "title": "東名高速で3台絡む事故 1人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590456?source=rss",
-        "publishedAt": "2026-08-03T23:34:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590464?source=rss",
+        "publishedAt": "2026-08-04T01:06:30.000Z"
       },
       {
         "time": "23:48",

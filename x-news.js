@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T00:48:25.391Z",
+  "updatedAt": "2026-08-04T01:40:27.369Z",
   "items": [
+    {
+      "time": "08:37",
+      "title": "熊本の高齢者施設 職員の負担増加",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590455?source=rss",
+      "publishedAt": "2026-08-03T23:37:29.000Z",
+      "xQuery": "熊本の高齢者施設 職員の負担増加"
+    },
     {
       "time": "08:41",
       "title": "台風が小笠原に最接近 厳重警戒",
@@ -10,28 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風が小笠原に最接近 厳重警戒"
     },
     {
-      "time": "07:42",
-      "title": "日米協調介入 約9カ月前から調整",
+      "time": "09:48",
+      "title": "ウ軍が露ビーチに攻撃 7人が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590447?source=rss",
-      "publishedAt": "2026-08-03T22:42:34.000Z",
-      "xQuery": "日米協調介入 約9カ月前から調整"
+      "url": "https://news.yahoo.co.jp/pickup/6590463?source=rss",
+      "publishedAt": "2026-08-04T00:48:55.000Z",
+      "xQuery": "ウ軍が露ビーチに攻撃 7人が死亡"
     },
     {
-      "time": "08:12",
-      "title": "関税措置巡り 米25州が政権を提訴",
+      "time": "10:06",
+      "title": "東名高速で3台絡む事故 1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590452?source=rss",
-      "publishedAt": "2026-08-03T23:12:34.000Z",
-      "xQuery": "関税措置巡り 米25州が政権を提訴"
-    },
-    {
-      "time": "08:34",
-      "title": "東名高速で3台絡む事故 1人重体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590456?source=rss",
-      "publishedAt": "2026-08-03T23:34:16.000Z",
-      "xQuery": "東名高速で3台絡む事故 1人重体"
+      "url": "https://news.yahoo.co.jp/pickup/6590464?source=rss",
+      "publishedAt": "2026-08-04T01:06:30.000Z",
+      "xQuery": "東名高速で3台絡む事故 1人死亡"
     },
     {
       "time": "08:05",
