@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-04T20:56:04.149Z",
+  "updatedAt": "2026-08-04T21:31:28.629Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:02",
+        "title": "四国電力などが研究発表会／最新の取り組み共有 –",
+        "source": "電気新聞ウェブサイト",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUQ0gtdzh6d25PVVhZMlFfTTFLaEgzMEhDRW1nbV9udHNlX0xJTjJVUkQ0Zmd5M1NXVlA2bHdkUzQ4SVFDNkZxeUd6dGNJS1FKUkZnd0w2Yw?oc=5",
+        "publishedAt": "2026-08-04T21:02:21.000Z"
+      },
       {
         "time": "12:57",
         "title": "ジェイテクト、工作機械会社の持ち分売却 政策保有を縮減",
@@ -50,13 +57,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aWDJkNno3X1VSb0FxWm9yNUoyRHZpQ0lDRGhFR0xEcGtmYno3elVXdHBrZEtsUzUyTlkycEtudWwyXzJIZmE1UW9TSmJrLXRhbUlVbHdlZXdCQ2lXRjRFM2dNQi1BeG5LdWc?oc=5",
         "publishedAt": "2026-08-04T06:23:42.000Z"
-      },
-      {
-        "time": "11:00",
-        "title": "ジェイテクト、持分法適用会社の株式売却に関するお知らせ",
-        "source": "イザ！",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uM1lLZ0xoQm10YlMyV2l2V3RDRjd3NndSb216QXN1b1o5dldJU2l6TVdfaTlaRkNwTzg5REZrT1FJZFI4U2k2WjNlelNGNXRRdnJ1eGF4S3p1QWFSWXVYckhnMTNRMVBiak1TT3Z4MjZMaUFVNmF0M2Rn?oc=5",
-        "publishedAt": "2026-08-04T02:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-08-04T08:00:26.000Z"
       },
       {
+        "time": "06:26",
+        "title": "福岡県議会 第三者委を設置へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590553?source=rss",
+        "publishedAt": "2026-08-04T21:26:12.000Z"
+      },
+      {
         "time": "23:50",
         "title": "刃物持つ男に警官が発砲 男は死亡",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590510?source=rss",
         "publishedAt": "2026-08-04T08:00:54.000Z"
-      },
-      {
-        "time": "20:42",
-        "title": "ルフィ事件 幹部の懲役20年確定へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590536?source=rss",
-        "publishedAt": "2026-08-04T11:42:31.000Z"
       },
       {
         "time": "08:05",
