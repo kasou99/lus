@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T03:10:30.764Z",
+  "updatedAt": "2026-08-04T04:36:19.776Z",
   "items": [
     {
-      "time": "11:41",
-      "title": "北陸・東北で梅雨明け 気象庁発表",
+      "time": "12:18",
+      "title": "被災地支援に予備費242億円 政府",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590472?source=rss",
-      "publishedAt": "2026-08-04T02:41:24.000Z",
-      "xQuery": "北陸・東北で梅雨明け 気象庁発表"
+      "url": "https://news.yahoo.co.jp/pickup/6590483?source=rss",
+      "publishedAt": "2026-08-04T03:18:56.000Z",
+      "xQuery": "被災地支援に予備費242億円 政府"
     },
     {
-      "time": "11:43",
-      "title": "イオンモール熊本前 花束や色紙",
+      "time": "12:20",
+      "title": "倒壊カフェから生還 声震わせ再会",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590477?source=rss",
-      "publishedAt": "2026-08-04T02:43:08.000Z",
-      "xQuery": "イオンモール熊本前 花束や色紙"
+      "url": "https://news.yahoo.co.jp/pickup/6590481?source=rss",
+      "publishedAt": "2026-08-04T03:20:18.000Z",
+      "xQuery": "倒壊カフェから生還 声震わせ再会"
     },
     {
-      "time": "09:06",
-      "title": "ベネズエラ地震 死者6000人超に",
+      "time": "11:29",
+      "title": "成績上位は外国人 タクシー会社",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590458?source=rss",
-      "publishedAt": "2026-08-04T00:06:55.000Z",
-      "xQuery": "ベネズエラ地震 死者6000人超に"
+      "url": "https://news.yahoo.co.jp/pickup/6590469?source=rss",
+      "publishedAt": "2026-08-04T02:29:26.000Z",
+      "xQuery": "成績上位は外国人 タクシー会社"
     },
     {
-      "time": "11:51",
-      "title": "ANA機と国の飛行検査機 異常接近",
+      "time": "12:35",
+      "title": "こどもの国線 列車とトラック接触",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590478?source=rss",
-      "publishedAt": "2026-08-04T02:51:33.000Z",
-      "xQuery": "ANA機と国の飛行検査機 異常接近"
+      "url": "https://news.yahoo.co.jp/pickup/6590485?source=rss",
+      "publishedAt": "2026-08-04T03:35:54.000Z",
+      "xQuery": "こどもの国線 列車とトラック接触"
     },
     {
       "time": "11:29",
