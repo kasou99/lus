@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T01:40:27.369Z",
+  "updatedAt": "2026-08-04T03:10:30.764Z",
   "items": [
     {
-      "time": "08:37",
-      "title": "熊本の高齢者施設 職員の負担増加",
+      "time": "11:41",
+      "title": "北陸・東北で梅雨明け 気象庁発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590455?source=rss",
-      "publishedAt": "2026-08-03T23:37:29.000Z",
-      "xQuery": "熊本の高齢者施設 職員の負担増加"
+      "url": "https://news.yahoo.co.jp/pickup/6590472?source=rss",
+      "publishedAt": "2026-08-04T02:41:24.000Z",
+      "xQuery": "北陸・東北で梅雨明け 気象庁発表"
     },
     {
-      "time": "08:41",
-      "title": "台風が小笠原に最接近 厳重警戒",
+      "time": "11:43",
+      "title": "イオンモール熊本前 花束や色紙",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590457?source=rss",
-      "publishedAt": "2026-08-03T23:41:14.000Z",
-      "xQuery": "台風が小笠原に最接近 厳重警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6590477?source=rss",
+      "publishedAt": "2026-08-04T02:43:08.000Z",
+      "xQuery": "イオンモール熊本前 花束や色紙"
     },
     {
-      "time": "09:48",
-      "title": "ウ軍が露ビーチに攻撃 7人が死亡",
+      "time": "09:06",
+      "title": "ベネズエラ地震 死者6000人超に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590463?source=rss",
-      "publishedAt": "2026-08-04T00:48:55.000Z",
-      "xQuery": "ウ軍が露ビーチに攻撃 7人が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590458?source=rss",
+      "publishedAt": "2026-08-04T00:06:55.000Z",
+      "xQuery": "ベネズエラ地震 死者6000人超に"
     },
     {
-      "time": "10:06",
-      "title": "東名高速で3台絡む事故 1人死亡",
+      "time": "11:51",
+      "title": "ANA機と国の飛行検査機 異常接近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590464?source=rss",
-      "publishedAt": "2026-08-04T01:06:30.000Z",
-      "xQuery": "東名高速で3台絡む事故 1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590478?source=rss",
+      "publishedAt": "2026-08-04T02:51:33.000Z",
+      "xQuery": "ANA機と国の飛行検査機 異常接近"
     },
     {
-      "time": "08:05",
-      "title": "花火大会で禁止行為相次ぎ 怒り",
+      "time": "11:29",
+      "title": "道で意識ない状態 熱中症疑い死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590453?source=rss",
-      "publishedAt": "2026-08-03T23:05:47.000Z",
-      "xQuery": "花火大会で禁止行為相次ぎ 怒り"
+      "url": "https://news.yahoo.co.jp/pickup/6590474?source=rss",
+      "publishedAt": "2026-08-04T02:29:41.000Z",
+      "xQuery": "道で意識ない状態 熱中症疑い死亡"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T01:40:26.642Z",
+  "updatedAt": "2026-08-04T03:10:29.860Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-08-04T01:30:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "工作機械受注5割増 AI銘柄に化けたツガミ、過剰投資を懸念する株価",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KUDlHQmpPT2FkdWN1dUI5cXZta3habDhQNlI1bjFwUmxOVmFyMkJ3S0dadWhkVFNVbjhVcTFVSS1GWGNoQmtKWXVEWVJvZ3R0dVRlb0ViVkFTVUxnb3kxUDVjNGxSTmQtTmN3Yg?oc=5",
-        "publishedAt": "2026-08-03T20:00:00.000Z"
+        "time": "11:00",
+        "title": "ジェイテクト、持分法適用会社の株式売却に関するお知らせ",
+        "source": "prtimes.jp",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FOUdlcVNIR1U2RUNqelpvOXBqUjB0LWpvVEJpRkFtcUI2RVptWHdFcE5tM2NxcWtrN0M4RzdsSl9FdWtPd3AyMHB5WjduR25nY2JEc0lpcFRMS19kSkxUby1Xd3F6d196Vnc?oc=5",
+        "publishedAt": "2026-08-04T02:00:02.000Z"
       },
       {
         "time": "06:33",
@@ -38,13 +38,6 @@
         "publishedAt": "2026-08-03T19:13:03.000Z"
       },
       {
-        "time": "23:24",
-        "title": "日本電技株式会社 新規オフィシャルパートナー契約締結について",
-        "source": "ジェフユナイテッド市原・千葉 公式ウェブサイト",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3ODVPU0I3eHJjeDVrbGNHX2N4a0hIZ2pRNnQ0QUJpRHZkTmZwZmJuUHlZdFkzNmlXY0EwWUplWDNWMURFNzA3Q1FkT3JRampaekE?oc=5",
-        "publishedAt": "2026-08-03T14:24:25.000Z"
-      },
-      {
         "time": "07:00",
         "title": "プーチンはとにかく焦っている…｢普通の30代日本人男性｣をスパイの共犯に絡めとるロシアの\"本当の狙い\"",
         "source": "PRESIDENT Online（プレジデントオンライン）",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-08-03T22:00:00.000Z"
       },
       {
-        "time": "19:28",
-        "title": "最新のIntel(R) Core(TM) プロセッサー (Series 2)対応の産業用ボードコンピュータ「RICOH FB22RB」および「RICOH FB22RBM」を2026年10月から発売開始",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81OXNzYlpBOVA5OEd0YzVTRFg2Tl9Vb2VXWkR4WGJCWE1KdS1XaldBeERzYWliYkJIeDkxWVZpeWVWWUNKYXMzQVAwTy1pQ1dkUUVDZw?oc=5",
-        "publishedAt": "2026-08-03T10:28:39.000Z"
+        "time": "18:06",
+        "title": "2026 8月",
+        "source": "公明党",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVJ6Q3JpZXU4bnlpUVRiMXFZTzlKNVI5cTd1THZQZTVMSVFIclBSWXZzWm9ORTBVUldsVm9DaTJpYVBCdDFCZGY0c3c4ZEh6MGxPWlJJMjZiV0JGbGE2WkNMQlFvWXQ1dDVTQjJQVmxPSTBvN09MQ1NqVmlPWDZzdWxlR1Y0TmhNZ21aY1NmTU9uYko4RFczS2Y0SGhmVGQxdW13MA?oc=5",
+        "publishedAt": "2026-08-03T09:06:01.000Z"
+      },
+      {
+        "time": "10:02",
+        "title": "DNソリューションズが韓国AI・ロボット産業協会に加盟 - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQkI0akVJVHl0SmViaWo4N0tmU3NYYjA2X0w1ampDYm1mLTRfem9RRU9mQmxKWFMtN2VqVTBhWHQ4emE3NEpKQll1ZUZobjRPSUY3NlRrMThhdFVDX05lZnRIUEw5WUctbGFtMnlmR1p0U2dpVjM1aHpGbGlWemU5YWFR0gGWAUFVX3lxTE9mR3RxSVVsNHgzaGhZelNOUDdTQ25weWtMVkJ2SnpxWjgwXzVVemZoanRuZ3VISkYzX3lJckZab0lEc1p6UG1HNl96d0xOOWdMX21QM2Q5LWUtR1pWanl5TXRhRXhfejVTOUF1TWphLXJlemVrazlmRGxVQ2drOU1iaFdVTEdZVVl3blF5aVBMSExUQUlEdw?oc=5",
+        "publishedAt": "2026-08-04T01:02:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,13 +126,6 @@
         "publishedAt": "2026-08-03T22:42:34.000Z"
       },
       {
-        "time": "11:46",
-        "title": "イオン爆発前 戻る指示の法的責任",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590353?source=rss",
-        "publishedAt": "2026-08-03T02:46:02.000Z"
-      },
-      {
         "time": "14:29",
         "title": "イオン爆発 雑貨店幹部が指示謝罪",
         "source": "Yahoo!ニュース",
@@ -140,11 +133,18 @@
         "publishedAt": "2026-08-03T05:29:52.000Z"
       },
       {
-        "time": "20:21",
-        "title": "日産4～6月期2年ぶり黒字 37億円",
+        "time": "11:51",
+        "title": "ANA機と国の飛行検査機 異常接近",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590414?source=rss",
-        "publishedAt": "2026-08-03T11:21:29.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590478?source=rss",
+        "publishedAt": "2026-08-04T02:51:33.000Z"
+      },
+      {
+        "time": "11:29",
+        "title": "成績上位は外国人 タクシー会社",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590469?source=rss",
+        "publishedAt": "2026-08-04T02:29:26.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-08-03T23:37:29.000Z"
       },
       {
-        "time": "23:04",
-        "title": "地震で家倒壊 避難直後に盗難被害",
+        "time": "11:43",
+        "title": "イオンモール熊本前 花束や色紙",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590433?source=rss",
-        "publishedAt": "2026-08-03T14:04:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590477?source=rss",
+        "publishedAt": "2026-08-04T02:43:08.000Z"
       },
       {
         "time": "20:32",
@@ -170,18 +170,18 @@
         "publishedAt": "2026-08-03T11:32:10.000Z"
       },
       {
-        "time": "09:48",
-        "title": "ネイリスト殺害 関与認める供述か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590461?source=rss",
-        "publishedAt": "2026-08-04T00:48:14.000Z"
-      },
-      {
         "time": "10:06",
         "title": "東名高速で3台絡む事故 1人死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590464?source=rss",
         "publishedAt": "2026-08-04T01:06:30.000Z"
+      },
+      {
+        "time": "11:29",
+        "title": "道で意識ない状態 熱中症疑い死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590474?source=rss",
+        "publishedAt": "2026-08-04T02:29:41.000Z"
       },
       {
         "time": "23:48",
