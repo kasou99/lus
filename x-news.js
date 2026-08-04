@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T08:21:21.962Z",
+  "updatedAt": "2026-08-04T09:27:29.760Z",
   "items": [
     {
-      "time": "16:52",
-      "title": "8月末までに断水解消 首相が指示",
+      "time": "17:25",
+      "title": "九州道 8月後半には通行可能に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590505?source=rss",
-      "publishedAt": "2026-08-04T07:52:04.000Z",
-      "xQuery": "8月末までに断水解消 首相が指示"
+      "url": "https://news.yahoo.co.jp/pickup/6590514?source=rss",
+      "publishedAt": "2026-08-04T08:25:00.000Z",
+      "xQuery": "九州道 8月後半には通行可能に"
     },
     {
-      "time": "14:26",
-      "title": "熊本「何よりも水を」住民ら切実",
+      "time": "17:42",
+      "title": "デンマーク新兵役制度 20%が女性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590494?source=rss",
-      "publishedAt": "2026-08-04T05:26:28.000Z",
-      "xQuery": "熊本「何よりも水を」住民ら切実"
+      "url": "https://news.yahoo.co.jp/pickup/6590516?source=rss",
+      "publishedAt": "2026-08-04T08:42:37.000Z",
+      "xQuery": "デンマーク新兵役制度 20%が女性"
     },
     {
-      "time": "16:17",
-      "title": "消費減税 臨時国会に法案提出意向",
+      "time": "17:57",
+      "title": "台風13号「迷走」可能性 進路注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590504?source=rss",
-      "publishedAt": "2026-08-04T07:17:07.000Z",
-      "xQuery": "消費減税 臨時国会に法案提出意向"
+      "url": "https://news.yahoo.co.jp/pickup/6590524?source=rss",
+      "publishedAt": "2026-08-04T08:57:56.000Z",
+      "xQuery": "台風13号「迷走」可能性 進路注意"
     },
     {
       "time": "15:35",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "オンワード 3人死亡した被災経緯"
     },
     {
-      "time": "17:00",
-      "title": "感電か 建築現場で作業員2人死亡",
+      "time": "17:30",
+      "title": "中部電 7万人超の情報漏えい恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590510?source=rss",
-      "publishedAt": "2026-08-04T08:00:54.000Z",
-      "xQuery": "感電か 建築現場で作業員2人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590517?source=rss",
+      "publishedAt": "2026-08-04T08:30:30.000Z",
+      "xQuery": "中部電 7万人超の情報漏えい恐れ"
     }
   ]
 };
