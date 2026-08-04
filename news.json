@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T13:11:02.705Z",
+  "updatedAt": "2026-08-04T14:18:41.461Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-08-03T20:00:00.000Z"
       },
       {
+        "time": "15:23",
+        "title": "『雪庇はある？』『漏水している？』と聞くだけ。アトラックラボ、LLM搭載マルチモーダルAI設備診断システムを開発",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aWDJkNno3X1VSb0FxWm9yNUoyRHZpQ0lDRGhFR0xEcGtmYno3elVXdHBrZEtsUzUyTlkycEtudWwyXzJIZmE1UW9TSmJrLXRhbUlVbHdlZXdCQ2lXRjRFM2dNQi1BeG5LdWc?oc=5",
+        "publishedAt": "2026-08-04T06:23:42.000Z"
+      },
+      {
         "time": "10:02",
         "title": "DNソリューションズが韓国AI・ロボット産業協会に加盟 - CHOSUNBIZ",
         "source": "Chosunbiz",
@@ -50,13 +57,6 @@
         "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UOWV4T2FPT2JvclpLX2hSMXNXcDQtMnhTMV95MW1tcTBiSE5fQjdMSngzUGFuSVhaNWF3QXpoSXJwNGNqdmlsbnlvaXJzY1FxQnJBckhxUUZKUGVVN0xQcA?oc=5",
         "publishedAt": "2026-08-04T10:30:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "工作機械受注5割増 AI銘柄に化けたツガミ、過剰投資を懸念する株価",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KUDlHQmpPT2FkdWN1dUI5cXZta3habDhQNlI1bjFwUmxOVmFyMkJ3S0dadWhkVFNVbjhVcTFVSS1GWGNoQmtKWXVEWVJvZ3R0dVRlb0ViVkFTVUxnb3kxUDVjNGxSTmQtTmN3Yg?oc=5",
-        "publishedAt": "2026-08-03T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [

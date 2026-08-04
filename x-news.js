@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T13:11:03.648Z",
+  "updatedAt": "2026-08-04T14:18:42.368Z",
   "items": [
     {
       "time": "20:07",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風13号 週末は沖縄に直撃の恐れ"
     },
     {
-      "time": "21:07",
-      "title": "消費減税 財源示してと自民幹事長",
+      "time": "23:14",
+      "title": "防衛白書 中国への警戒感が色濃く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590537?source=rss",
-      "publishedAt": "2026-08-04T12:07:31.000Z",
-      "xQuery": "消費減税 財源示してと自民幹事長"
+      "url": "https://news.yahoo.co.jp/pickup/6590549?source=rss",
+      "publishedAt": "2026-08-04T14:14:00.000Z",
+      "xQuery": "防衛白書 中国への警戒感が色濃く"
     },
     {
       "time": "21:43",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "オンワード3人死亡「指導不徹底」"
     },
     {
-      "time": "20:42",
-      "title": "ルフィ事件 幹部の懲役20年確定へ",
+      "time": "18:34",
+      "title": "猫の防除巡る案 批判殺到で撤回へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590536?source=rss",
-      "publishedAt": "2026-08-04T11:42:31.000Z",
-      "xQuery": "ルフィ事件 幹部の懲役20年確定へ"
+      "url": "https://news.yahoo.co.jp/pickup/6590527?source=rss",
+      "publishedAt": "2026-08-04T09:34:45.000Z",
+      "xQuery": "猫の防除巡る案 批判殺到で撤回へ"
     }
   ]
 };
