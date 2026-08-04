@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-03T23:54:53.902Z",
+  "updatedAt": "2026-08-04T00:48:25.391Z",
   "items": [
     {
       "time": "08:41",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風が小笠原に最接近 厳重警戒"
     },
     {
-      "time": "07:40",
-      "title": "熊本で暑さ 高齢者中心に医療課題",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590448?source=rss",
-      "publishedAt": "2026-08-03T22:40:26.000Z",
-      "xQuery": "熊本で暑さ 高齢者中心に医療課題"
-    },
-    {
       "time": "07:42",
       "title": "日米協調介入 約9カ月前から調整",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590447?source=rss",
       "publishedAt": "2026-08-03T22:42:34.000Z",
       "xQuery": "日米協調介入 約9カ月前から調整"
+    },
+    {
+      "time": "08:12",
+      "title": "関税措置巡り 米25州が政権を提訴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590452?source=rss",
+      "publishedAt": "2026-08-03T23:12:34.000Z",
+      "xQuery": "関税措置巡り 米25州が政権を提訴"
     },
     {
       "time": "08:34",
