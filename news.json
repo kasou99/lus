@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-08-04T04:36:18.920Z",
+  "updatedAt": "2026-08-04T06:01:25.724Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "12:57",
         "title": "ジェイテクト、工作機械会社の持ち分売却 政策保有を縮減",
-        "source": "nikkei.com",
+        "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fbk5tUEtWR25xQXgzenkteU40cDVtNDJKRVBxckwwMm51WEFTa0oyaldnWTBwYmVwWllEaE1rQndXd0RXYzlsY3V6eDVNUWp6WmRFZUhablJIOFZaU1gySmQ3MHpjOVpRU3dHbA?oc=5",
         "publishedAt": "2026-08-04T03:57:12.000Z"
+      },
+      {
+        "time": "14:18",
+        "title": "6月機械受注（除船電民需）前月比は2カ月ぶりに増加に。関連データの工作機械受注（国内向け）6月前年同月比は＋45.5％と大幅増加。日本の主要経済指標予測（2026年8月4日）―｜宅森昭吉（景気探検家・エコノミスト）",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MUHpfRThkNUtacmJZTVpIaTc0a2FMR3pEaExHeEdkZ3pSR3pfR0lNUG10ekVVSUZKN2F1X2RULTB0SXZrbXN1b1BocUl4VmtudHBHTnpOYWdVM3JXNlE?oc=5",
+        "publishedAt": "2026-08-04T05:18:02.000Z"
       },
       {
         "time": "10:30",
@@ -19,15 +26,15 @@
       {
         "time": "05:00",
         "title": "中村留精密工業が工作機械のショールーム刷新、機能を体感できる場に",
-        "source": "日経クロステック",
+        "source": "xtech.nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBncHhkNkVUSERIbzdLa2lTejFkekRXWFpuczlOU3hNQlk0SjhmVkRCTExhX0tQVElLckNBbktTdklOemc2WXMxb1ZuTXdZSC1wQjg5ekJQOTdBTUh0RnpQc05mTUE4TnB6aWpsTg?oc=5",
         "publishedAt": "2026-08-03T20:00:00.000Z"
       },
       {
         "time": "10:30",
-        "title": "変わるAIエージェント 道具から誰かへ（下）学習データ、修正で偏り",
+        "title": "宮崎銀、連携2行3信金に 宮崎太陽銀・宮崎第一信金参加",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1M1huaTBFaTBvb0drR19WdGFna3JtYzdxWHUyV0poVDhiUXN6Q043bF93VHJyNGFsckJkb3VmSjNfM0JDLXpHZHRHUVBOTkdvamF0YXFQUXlhaF94Y3FacV9JeHItRTlfeGNaMENNQXNVYUNxOTMzYTdKdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91U2hsR09MeHFXWGpPbmZoNzRtbExnU0xxME13bjRsQXROUW9Yck9BNEk5SmZDTmhGWko5OGM1WDltUVhQcnlQSVVYVmtHeXpFVklwVHQ1ZnZ6cm9qU1ZITEl6TzJ1elI0R1lqOUh2Umk2MG5kSzdLa3pqcw?oc=5",
         "publishedAt": "2026-08-04T01:30:00.000Z"
       },
       {
@@ -38,23 +45,16 @@
         "publishedAt": "2026-08-03T19:13:03.000Z"
       },
       {
-        "time": "07:00",
-        "title": "プーチンはとにかく焦っている…｢普通の30代日本人男性｣をスパイの共犯に絡めとるロシアの\"本当の狙い\"",
-        "source": "president.jp",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EcUl4YzQzbmVVa1NJU0pLWGdmZnVnUWE5UDdrdjBHd0dSeWloQkV6R01fbUdNNTdscU16MGc4N0NGRkY2NFpoR3FIWFpySlF6bjdsY1dMbms?oc=5",
-        "publishedAt": "2026-08-03T22:00:00.000Z"
-      },
-      {
-        "time": "18:06",
-        "title": "2026 8月",
-        "source": "公明党",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVJ6Q3JpZXU4bnlpUVRiMXFZTzlKNVI5cTd1THZQZTVMSVFIclBSWXZzWm9ORTBVUldsVm9DaTJpYVBCdDFCZGY0c3c4ZEh6MGxPWlJJMjZiV0JGbGE2WkNMQlFvWXQ1dDVTQjJQVmxPSTBvN09MQ1NqVmlPWDZzdWxlR1Y0TmhNZ21aY1NmTU9uYko4RFczS2Y0SGhmVGQxdW13MA?oc=5",
-        "publishedAt": "2026-08-03T09:06:01.000Z"
+        "time": "10:30",
+        "title": "変わるAIエージェント 道具から誰かへ（下）学習データ、修正で偏り",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1M1huaTBFaTBvb0drR19WdGFna3JtYzdxWHUyV0poVDhiUXN6Q043bF93VHJyNGFsckJkb3VmSjNfM0JDLXpHZHRHUVBOTkdvamF0YXFQUXlhaF94Y3FacV9JeHItRTlfeGNaMENNQXNVYUNxOTMzYTdKdw?oc=5",
+        "publishedAt": "2026-08-04T01:30:00.000Z"
       },
       {
         "time": "10:02",
         "title": "DNソリューションズが韓国AI・ロボット産業協会に加盟 - CHOSUNBIZ",
-        "source": "biz.chosun.com",
+        "source": "Chosunbiz",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkd0cUlVbDR4M2hoWXpTTlA3U0NucHlrTFZCdkp6cVo4MF81VXpmaGp0bmd1SEpGM195SXJGWm9JRHNaelBtRzZfendMTjlnTF9tUDNkOS1lLUdaVmp5eU10YUV4X3o1UzlBdU1qYS1yZXpla2s5ZkRsVUNnazlNYmhXVUxHWVVZd25ReWlQTEhMVEFJRHfSAZYBQVVfeXFMT2ZHdHFJVWw0eDNoaFl6U05QN1NDbnB5a0xWQnZKenFaODBfNVV6ZmhqdG5ndUhKRjNfeUlyRlpvSURzWnpQbUc2X3p3TE45Z0xfbVAzZDktZS1HWlZqeXlNdGFFeF96NVM5QXVNamEtcmV6ZWtrOWZEbFVDZ2s5TWJoV1VMR1lVWXduUXlpUExITFRBSUR3?oc=5",
         "publishedAt": "2026-08-04T01:02:00.000Z"
       }
@@ -112,13 +112,6 @@
         "publishedAt": "2026-08-03T12:20:08.000Z"
       },
       {
-        "time": "06:49",
-        "title": "NYダウ終値693ドル高 最高値更新",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590444?source=rss",
-        "publishedAt": "2026-08-03T21:49:53.000Z"
-      },
-      {
         "time": "07:42",
         "title": "日米協調介入 約9カ月前から調整",
         "source": "Yahoo!ニュース",
@@ -140,6 +133,13 @@
         "publishedAt": "2026-08-04T02:29:26.000Z"
       },
       {
+        "time": "14:24",
+        "title": "「財政再建」宣言へ 埼玉・久喜市",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590495?source=rss",
+        "publishedAt": "2026-08-04T05:24:42.000Z"
+      },
+      {
         "time": "13:00",
         "title": "奈良観光「滞在型」へ転換なるか",
         "source": "Yahoo!ニュース",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "14:26",
+        "title": "熊本「何よりも水を」住民ら切実",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590494?source=rss",
+        "publishedAt": "2026-08-04T05:26:28.000Z"
+      },
       {
         "time": "11:43",
         "title": "イオンモール熊本前 花束や色紙",
@@ -163,6 +170,13 @@
         "publishedAt": "2026-08-04T03:20:18.000Z"
       },
       {
+        "time": "14:06",
+        "title": "八王子6人負傷事故 男を再逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590491?source=rss",
+        "publishedAt": "2026-08-04T05:06:46.000Z"
+      },
+      {
         "time": "12:35",
         "title": "こどもの国線 列車とトラック接触",
         "source": "Yahoo!ニュース",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590474?source=rss",
         "publishedAt": "2026-08-04T02:29:41.000Z"
-      },
-      {
-        "time": "23:48",
-        "title": "窓清掃中マンションから転落 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590436?source=rss",
-        "publishedAt": "2026-08-03T14:48:17.000Z"
-      },
-      {
-        "time": "11:51",
-        "title": "ハーブ自販機に謎の液体 農家憤り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590479?source=rss",
-        "publishedAt": "2026-08-04T02:51:48.000Z"
       }
     ],
     "subsidyHeadlines": [

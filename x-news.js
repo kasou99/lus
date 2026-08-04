@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T04:36:19.776Z",
+  "updatedAt": "2026-08-04T06:01:26.285Z",
   "items": [
     {
-      "time": "12:18",
-      "title": "被災地支援に予備費242億円 政府",
+      "time": "14:26",
+      "title": "熊本「何よりも水を」住民ら切実",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590483?source=rss",
-      "publishedAt": "2026-08-04T03:18:56.000Z",
-      "xQuery": "被災地支援に予備費242億円 政府"
+      "url": "https://news.yahoo.co.jp/pickup/6590494?source=rss",
+      "publishedAt": "2026-08-04T05:26:28.000Z",
+      "xQuery": "熊本「何よりも水を」住民ら切実"
     },
     {
       "time": "12:20",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "倒壊カフェから生還 声震わせ再会"
     },
     {
-      "time": "11:29",
-      "title": "成績上位は外国人 タクシー会社",
+      "time": "13:33",
+      "title": "事故で胎児が被害 法整備巡る現状",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590469?source=rss",
-      "publishedAt": "2026-08-04T02:29:26.000Z",
-      "xQuery": "成績上位は外国人 タクシー会社"
+      "url": "https://news.yahoo.co.jp/pickup/6590470?source=rss",
+      "publishedAt": "2026-08-04T04:33:36.000Z",
+      "xQuery": "事故で胎児が被害 法整備巡る現状"
     },
     {
-      "time": "12:35",
-      "title": "こどもの国線 列車とトラック接触",
+      "time": "14:06",
+      "title": "八王子6人負傷事故 男を再逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590485?source=rss",
-      "publishedAt": "2026-08-04T03:35:54.000Z",
-      "xQuery": "こどもの国線 列車とトラック接触"
+      "url": "https://news.yahoo.co.jp/pickup/6590491?source=rss",
+      "publishedAt": "2026-08-04T05:06:46.000Z",
+      "xQuery": "八王子6人負傷事故 男を再逮捕"
     },
     {
-      "time": "11:29",
-      "title": "道で意識ない状態 熱中症疑い死亡",
+      "time": "12:52",
+      "title": "グミ誤発注で「SOS」投稿 客続々",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590474?source=rss",
-      "publishedAt": "2026-08-04T02:29:41.000Z",
-      "xQuery": "道で意識ない状態 熱中症疑い死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590487?source=rss",
+      "publishedAt": "2026-08-04T03:52:19.000Z",
+      "xQuery": "グミ誤発注で「SOS」投稿 客続々"
     }
   ]
 };
