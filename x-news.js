@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T14:18:42.368Z",
+  "updatedAt": "2026-08-04T15:20:19.246Z",
   "items": [
     {
-      "time": "20:07",
-      "title": "台風13号 週末は沖縄に直撃の恐れ",
+      "time": "23:12",
+      "title": "熊本地震1週間 避難所に7500人超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590534?source=rss",
-      "publishedAt": "2026-08-04T11:07:29.000Z",
-      "xQuery": "台風13号 週末は沖縄に直撃の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6590548?source=rss",
+      "publishedAt": "2026-08-04T14:12:21.000Z",
+      "xQuery": "熊本地震1週間 避難所に7500人超"
     },
     {
       "time": "23:14",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590549?source=rss",
       "publishedAt": "2026-08-04T14:14:00.000Z",
       "xQuery": "防衛白書 中国への警戒感が色濃く"
+    },
+    {
+      "time": "23:50",
+      "title": "刃物持つ男に警官が発砲 男は死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590551?source=rss",
+      "publishedAt": "2026-08-04T14:50:36.000Z",
+      "xQuery": "刃物持つ男に警官が発砲 男は死亡"
     },
     {
       "time": "21:43",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590542?source=rss",
       "publishedAt": "2026-08-04T12:57:09.000Z",
       "xQuery": "オンワード3人死亡「指導不徹底」"
-    },
-    {
-      "time": "18:34",
-      "title": "猫の防除巡る案 批判殺到で撤回へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590527?source=rss",
-      "publishedAt": "2026-08-04T09:34:45.000Z",
-      "xQuery": "猫の防除巡る案 批判殺到で撤回へ"
     }
   ]
 };
