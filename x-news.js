@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T07:25:41.699Z",
+  "updatedAt": "2026-08-04T08:21:21.962Z",
   "items": [
     {
-      "time": "15:53",
-      "title": "中継 熊本地震1週間で気象庁会見",
+      "time": "16:52",
+      "title": "8月末までに断水解消 首相が指示",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590503?source=rss",
-      "publishedAt": "2026-08-04T06:53:21.000Z",
-      "xQuery": "中継 熊本地震1週間で気象庁会見"
+      "url": "https://news.yahoo.co.jp/pickup/6590505?source=rss",
+      "publishedAt": "2026-08-04T07:52:04.000Z",
+      "xQuery": "8月末までに断水解消 首相が指示"
     },
     {
       "time": "14:26",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "オンワード 3人死亡した被災経緯"
     },
     {
-      "time": "15:46",
-      "title": "遊泳中の高校生が行方不明 青森",
+      "time": "17:00",
+      "title": "感電か 建築現場で作業員2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590502?source=rss",
-      "publishedAt": "2026-08-04T06:46:58.000Z",
-      "xQuery": "遊泳中の高校生が行方不明 青森"
+      "url": "https://news.yahoo.co.jp/pickup/6590510?source=rss",
+      "publishedAt": "2026-08-04T08:00:54.000Z",
+      "xQuery": "感電か 建築現場で作業員2人死亡"
     }
   ]
 };

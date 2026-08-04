@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T07:25:40.958Z",
+  "updatedAt": "2026-08-04T08:21:21.211Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MUHpfRThkNUtacmJZTVpIaTc0a2FMR3pEaExHeEdkZ3pSR3pfR0lNUG10ekVVSUZKN2F1X2RULTB0SXZrbXN1b1BocUl4VmtudHBHTnpOYWdVM3JXNlE?oc=5",
         "publishedAt": "2026-08-04T05:18:02.000Z"
+      },
+      {
+        "time": "15:25",
+        "title": "マーケット速報",
+        "source": "sannichi.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOGFDajA2QmNrUFdnaWV3bFFRdmdPQ05ILWlpUUNSRzI2U1A0cmxYX24xNjcxQTJOQkZ5LUQwYVJIVkdHN2gwYlVUcHVoLUpTN0U0WFpGUHlheWtUVHRjNktaZER0ZDRTcEQtdHVDdXpFZmRkMk9ESEtZX3llRS1NbTFzd2loLVR4SDZncFJVWHNpcUxxYTdiYkl1VHVkMkFSd1NnOEl0R1AxclJMekpscWdLalIxdlBNRzNWZ253?oc=5",
+        "publishedAt": "2026-08-04T06:25:24.000Z"
       },
       {
         "time": "10:30",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-08-04T06:23:42.000Z"
       },
       {
-        "time": "10:30",
+        "time": "05:44",
         "title": "変わるAIエージェント 道具から誰かへ（下）学習データ、修正で偏り",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1M1huaTBFaTBvb0drR19WdGFna3JtYzdxWHUyV0poVDhiUXN6Q043bF93VHJyNGFsckJkb3VmSjNfM0JDLXpHZHRHUVBOTkdvamF0YXFQUXlhaF94Y3FacV9JeHItRTlfeGNaMENNQXNVYUNxOTMzYTdKdw?oc=5",
-        "publishedAt": "2026-08-04T01:30:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSNEw0a0IwbWhRdUpUYXpJLWxfaDJZUV9XMmE4azRqazBDQWhnalUwQUJOVXRZak5waXpHYWNTYnZTend3TXY5dWJmbVU5TERHTGl0RldabzQzeUctRjJlb0syc1V1NDRUSUFJWUlOV0w1Q3pE?oc=5",
+        "publishedAt": "2026-08-03T20:44:52.000Z"
       },
       {
-        "time": "04:13",
-        "title": "マーケット速報",
-        "source": "sannichi.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjVhZmtTTVR3UXpEVzc3YnZZeVJKdWhSVEhJTFdKUnkxQlN3V05zVFY5bFhydU5vYWxWWHFNT3JhYTFzaGoyLVoyNk9IYjN5R1NvOEwyazZ4UF90UkJNR0ltcTdaVGFkcHdHSjZudjVaZk10VmQ0VnZDRGtCSEpHdnd0amY4clItQUluRTk2X1hlYTNWRC1jVFE2SEpsQkpSamtEcDM0dGZhaFBLUUpEdm9UYl96ZkxOdnVzaHRB?oc=5",
-        "publishedAt": "2026-08-03T19:13:03.000Z"
-      },
-      {
-        "time": "18:06",
-        "title": "2026 8月",
-        "source": "公明党",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVJ6Q3JpZXU4bnlpUVRiMXFZTzlKNVI5cTd1THZQZTVMSVFIclBSWXZzWm9ORTBVUldsVm9DaTJpYVBCdDFCZGY0c3c4ZEh6MGxPWlJJMjZiV0JGbGE2WkNMQlFvWXQ1dDVTQjJQVmxPSTBvN09MQ1NqVmlPWDZzdWxlR1Y0TmhNZ21aY1NmTU9uYko4RFczS2Y0SGhmVGQxdW13MA?oc=5",
-        "publishedAt": "2026-08-03T09:06:01.000Z"
+        "time": "10:02",
+        "title": "DNソリューションズが韓国AI・ロボット産業協会に加盟 - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkd0cUlVbDR4M2hoWXpTTlA3U0NucHlrTFZCdkp6cVo4MF81VXpmaGp0bmd1SEpGM195SXJGWm9JRHNaelBtRzZfendMTjlnTF9tUDNkOS1lLUdaVmp5eU10YUV4X3o1UzlBdU1qYS1yZXpla2s5ZkRsVUNnazlNYmhXVUxHWVVZd25ReWlQTEhMVEFJRHfSAZYBQVVfeXFMT2ZHdHFJVWw0eDNoaFl6U05QN1NDbnB5a0xWQnZKenFaODBfNVV6ZmhqdG5ndUhKRjNfeUlyRlpvSURzWnpQbUc2X3p3TE45Z0xfbVAzZDktZS1HWlZqeXlNdGFFeF96NVM5QXVNamEtcmV6ZWtrOWZEbFVDZ2s5TWJoV1VMR1lVWXduUXlpUExITFRBSUR3?oc=5",
+        "publishedAt": "2026-08-04T01:02:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-08-04T06:35:15.000Z"
       },
       {
+        "time": "17:05",
+        "title": "大企業の賃上げ率5.37% 春闘集計",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590512?source=rss",
+        "publishedAt": "2026-08-04T08:05:50.000Z"
+      },
+      {
         "time": "11:51",
         "title": "ANA機と国の飛行検査機 異常接近",
         "source": "Yahoo!ニュース",
@@ -138,16 +145,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590495?source=rss",
         "publishedAt": "2026-08-04T05:24:42.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "奈良観光「滞在型」へ転換なるか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590473?source=rss",
-        "publishedAt": "2026-08-04T04:00:32.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "17:00",
+        "title": "車中泊 先見えない避難生活に疲労",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590509?source=rss",
+        "publishedAt": "2026-08-04T08:00:26.000Z"
+      },
       {
         "time": "14:26",
         "title": "熊本「何よりも水を」住民ら切実",
@@ -156,11 +163,11 @@
         "publishedAt": "2026-08-04T05:26:28.000Z"
       },
       {
-        "time": "11:43",
-        "title": "イオンモール熊本前 花束や色紙",
+        "time": "17:00",
+        "title": "感電か 建築現場で作業員2人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590477?source=rss",
-        "publishedAt": "2026-08-04T02:43:08.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590510?source=rss",
+        "publishedAt": "2026-08-04T08:00:54.000Z"
       },
       {
         "time": "15:46",
@@ -170,11 +177,11 @@
         "publishedAt": "2026-08-04T06:46:58.000Z"
       },
       {
-        "time": "12:20",
-        "title": "倒壊カフェから生還 声震わせ再会",
+        "time": "16:37",
+        "title": "山車の仕掛けに挟まれる 男性死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590481?source=rss",
-        "publishedAt": "2026-08-04T03:20:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590508?source=rss",
+        "publishedAt": "2026-08-04T07:37:59.000Z"
       },
       {
         "time": "14:06",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590491?source=rss",
         "publishedAt": "2026-08-04T05:06:46.000Z"
-      },
-      {
-        "time": "11:29",
-        "title": "道で意識ない状態 熱中症疑い死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590474?source=rss",
-        "publishedAt": "2026-08-04T02:29:41.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }
