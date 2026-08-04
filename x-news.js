@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T22:54:19.318Z",
+  "updatedAt": "2026-08-04T23:26:39.478Z",
   "items": [
     {
-      "time": "23:12",
-      "title": "熊本地震1週間 避難所に7500人超",
+      "time": "07:58",
+      "title": "九州-東海猛暑 熊本40℃迫る予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590548?source=rss",
-      "publishedAt": "2026-08-04T14:12:21.000Z",
-      "xQuery": "熊本地震1週間 避難所に7500人超"
+      "url": "https://news.yahoo.co.jp/pickup/6590561?source=rss",
+      "publishedAt": "2026-08-04T22:58:01.000Z",
+      "xQuery": "九州-東海猛暑 熊本40℃迫る予想"
     },
     {
       "time": "06:42",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡県議会 第三者委を設置へ"
     },
     {
-      "time": "23:50",
-      "title": "刃物持つ男に警官が発砲 男は死亡",
+      "time": "07:58",
+      "title": "威嚇射撃応じず警官発砲 男死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590551?source=rss",
-      "publishedAt": "2026-08-04T14:50:36.000Z",
-      "xQuery": "刃物持つ男に警官が発砲 男は死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590563?source=rss",
+      "publishedAt": "2026-08-04T22:58:31.000Z",
+      "xQuery": "威嚇射撃応じず警官発砲 男死亡"
     },
     {
-      "time": "21:43",
-      "title": "イオン爆発 告別式に飾ったドレス",
+      "time": "07:43",
+      "title": "偽iPhone大量発見 不正還付発覚",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590541?source=rss",
-      "publishedAt": "2026-08-04T12:43:44.000Z",
-      "xQuery": "イオン爆発 告別式に飾ったドレス"
+      "url": "https://news.yahoo.co.jp/pickup/6590559?source=rss",
+      "publishedAt": "2026-08-04T22:43:07.000Z",
+      "xQuery": "偽iPhone大量発見 不正還付発覚"
     }
   ]
 };
