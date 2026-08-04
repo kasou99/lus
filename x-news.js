@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T21:31:29.150Z",
+  "updatedAt": "2026-08-04T22:27:59.617Z",
   "items": [
     {
       "time": "23:12",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震1週間 避難所に7500人超"
     },
     {
-      "time": "23:14",
-      "title": "防衛白書 中国への警戒感が色濃く",
+      "time": "06:42",
+      "title": "NYダウ900ドル超高 連日の最高値",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590549?source=rss",
-      "publishedAt": "2026-08-04T14:14:00.000Z",
-      "xQuery": "防衛白書 中国への警戒感が色濃く"
+      "url": "https://news.yahoo.co.jp/pickup/6590554?source=rss",
+      "publishedAt": "2026-08-04T21:42:27.000Z",
+      "xQuery": "NYダウ900ドル超高 連日の最高値"
+    },
+    {
+      "time": "06:26",
+      "title": "福岡県議会 第三者委を設置へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590553?source=rss",
+      "publishedAt": "2026-08-04T21:26:12.000Z",
+      "xQuery": "福岡県議会 第三者委を設置へ"
     },
     {
       "time": "23:50",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590541?source=rss",
       "publishedAt": "2026-08-04T12:43:44.000Z",
       "xQuery": "イオン爆発 告別式に飾ったドレス"
-    },
-    {
-      "time": "21:57",
-      "title": "オンワード3人死亡「指導不徹底」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590542?source=rss",
-      "publishedAt": "2026-08-04T12:57:09.000Z",
-      "xQuery": "オンワード3人死亡「指導不徹底」"
     }
   ]
 };

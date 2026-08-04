@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T21:31:28.629Z",
+  "updatedAt": "2026-08-04T22:27:59.090Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,9 +10,16 @@
         "publishedAt": "2026-08-04T21:02:21.000Z"
       },
       {
+        "time": "06:30",
+        "title": "脱自動車でもDMG森精機が業績再上方修正、2028年度にピーク利益計画：製造マネジメントニュース（1/2 ページ）",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YMkNkM0RNN0lzQVViQkYyZVhCWHpyWi1NVzRBWGltQlU3SVdrWWhSbzlHMFA2VnhBRG9sYjBPcUdZb292Sk9iWjhNRF9GRk5DSFR4WjYySmlrZS1NVU53T1R1RkRBZ0xvcVJJa211OA?oc=5",
+        "publishedAt": "2026-08-04T21:30:00.000Z"
+      },
+      {
         "time": "12:57",
         "title": "ジェイテクト、工作機械会社の持ち分売却 政策保有を縮減",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fbk5tUEtWR25xQXgzenkteU40cDVtNDJKRVBxckwwMm51WEFTa0oyaldnWTBwYmVwWllEaE1rQndXd0RXYzlsY3V6eDVNUWp6WmRFZUhablJIOFZaU1gySmQ3MHpjOVpRU3dHbA?oc=5",
         "publishedAt": "2026-08-04T03:57:12.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52MTF4cm1GRnZfRmJOaGF3QWRlcjdVclpoWlA4dnNxT29mQlhGOEY2ZHROTTBoOVlqTHNDeFpyNTF3ZFhRVUNmQ1pYMWtsNHc?oc=5",
         "publishedAt": "2026-08-04T01:30:00.000Z"
-      },
-      {
-        "time": "15:23",
-        "title": "『雪庇はある？』『漏水している？』と聞くだけ。アトラックラボ、LLM搭載マルチモーダルAI設備診断システムを開発",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aWDJkNno3X1VSb0FxWm9yNUoyRHZpQ0lDRGhFR0xEcGtmYno3elVXdHBrZEtsUzUyTlkycEtudWwyXzJIZmE1UW9TSmJrLXRhbUlVbHdlZXdCQ2lXRjRFM2dNQi1BeG5LdWc?oc=5",
-        "publishedAt": "2026-08-04T06:23:42.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "06:42",
+        "title": "NYダウ900ドル超高 連日の最高値",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590554?source=rss",
+        "publishedAt": "2026-08-04T21:42:27.000Z"
+      },
+      {
         "time": "21:57",
         "title": "オンワード3人死亡「指導不徹底」",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590512?source=rss",
         "publishedAt": "2026-08-04T08:05:50.000Z"
-      },
-      {
-        "time": "17:30",
-        "title": "中部電 7万人超の情報漏えい恐れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590517?source=rss",
-        "publishedAt": "2026-08-04T08:30:30.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,11 +177,11 @@
         "publishedAt": "2026-08-04T14:50:36.000Z"
       },
       {
-        "time": "17:00",
-        "title": "感電か 建築現場で作業員2人死亡",
+        "time": "07:19",
+        "title": "点滴に大便混入事件 殺人罪で起訴",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590510?source=rss",
-        "publishedAt": "2026-08-04T08:00:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590556?source=rss",
+        "publishedAt": "2026-08-04T22:19:35.000Z"
       },
       {
         "time": "08:05",
