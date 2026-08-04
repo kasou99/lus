@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T20:05:55.273Z",
+  "updatedAt": "2026-08-04T20:56:04.149Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fbk5tUEtWR25xQXgzenkteU40cDVtNDJKRVBxckwwMm51WEFTa0oyaldnWTBwYmVwWllEaE1rQndXd0RXYzlsY3V6eDVNUWp6WmRFZUhablJIOFZaU1gySmQ3MHpjOVpRU3dHbA?oc=5",
         "publishedAt": "2026-08-04T03:57:12.000Z"
+      },
+      {
+        "time": "05:02",
+        "title": "JA三井リース、エネ総利益30年度100億円 営農型太陽光を拡大",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40b2x6bHUyUk9lNzZnQUZPT1hxb3JEWGNiWlV6ei1KV3RZZ1FpczA0TXFKd0JsRDVrb0FCVGRiSHNFa2tPUHJtWklSVGowNjFQUzcwemVEV3ZVRjg?oc=5",
+        "publishedAt": "2026-08-04T20:02:49.000Z"
       },
       {
         "time": "19:30",
@@ -43,13 +50,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aWDJkNno3X1VSb0FxWm9yNUoyRHZpQ0lDRGhFR0xEcGtmYno3elVXdHBrZEtsUzUyTlkycEtudWwyXzJIZmE1UW9TSmJrLXRhbUlVbHdlZXdCQ2lXRjRFM2dNQi1BeG5LdWc?oc=5",
         "publishedAt": "2026-08-04T06:23:42.000Z"
-      },
-      {
-        "time": "10:30",
-        "title": "変わるAIエージェント 道具から誰かへ（下）学習データ、修正で偏り",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1M1huaTBFaTBvb0drR19WdGFna3JtYzdxWHUyV0poVDhiUXN6Q043bF93VHJyNGFsckJkb3VmSjNfM0JDLXpHZHRHUVBOTkdvamF0YXFQUXlhaF94Y3FacV9JeHItRTlfeGNaMENNQXNVYUNxOTMzYTdKdw?oc=5",
-        "publishedAt": "2026-08-04T01:30:00.000Z"
       },
       {
         "time": "11:00",
