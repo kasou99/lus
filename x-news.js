@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T11:19:51.935Z",
+  "updatedAt": "2026-08-04T12:14:29.134Z",
   "items": [
     {
       "time": "19:06",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "消費減税で自民亀裂 選挙に影響は"
     },
     {
-      "time": "17:57",
-      "title": "台風13号「迷走」可能性 進路注意",
+      "time": "20:42",
+      "title": "ルフィ事件 幹部の懲役20年確定へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590524?source=rss",
-      "publishedAt": "2026-08-04T08:57:56.000Z",
-      "xQuery": "台風13号「迷走」可能性 進路注意"
-    },
-    {
-      "time": "17:29",
-      "title": "終了した「104」今もかける60代母",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590515?source=rss",
-      "publishedAt": "2026-08-04T08:29:36.000Z",
-      "xQuery": "終了した「104」今もかける60代母"
+      "url": "https://news.yahoo.co.jp/pickup/6590536?source=rss",
+      "publishedAt": "2026-08-04T11:42:31.000Z",
+      "xQuery": "ルフィ事件 幹部の懲役20年確定へ"
     },
     {
       "time": "18:49",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590528?source=rss",
       "publishedAt": "2026-08-04T09:49:41.000Z",
       "xQuery": "小学館 社長ら26人が報酬返納"
+    },
+    {
+      "time": "20:24",
+      "title": "僧侶になる儀式 9歳男女48人参加",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590535?source=rss",
+      "publishedAt": "2026-08-04T11:24:52.000Z",
+      "xQuery": "僧侶になる儀式 9歳男女48人参加"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T11:19:51.152Z",
+  "updatedAt": "2026-08-04T12:14:28.416Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "10:30",
         "title": "DINレール組み込みコンピュータの世界市場（2026年～2032年）、市場規模（インテル、NVIDIA、AMD）・分析レポートを発表",
-        "source": "newscast.jp",
+        "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52MTF4cm1GRnZfRmJOaGF3QWRlcjdVclpoWlA4dnNxT29mQlhGOEY2ZHROTTBoOVlqTHNDeFpyNTF3ZFhRVUNmQ1pYMWtsNHc?oc=5",
         "publishedAt": "2026-08-04T01:30:00.000Z"
       },
@@ -40,7 +40,7 @@
       {
         "time": "10:02",
         "title": "DNソリューションズが韓国AI・ロボット産業協会に加盟 - CHOSUNBIZ",
-        "source": "Chosunbiz",
+        "source": "biz.chosun.com",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkd0cUlVbDR4M2hoWXpTTlA3U0NucHlrTFZCdkp6cVo4MF81VXpmaGp0bmd1SEpGM195SXJGWm9JRHNaelBtRzZfendMTjlnTF9tUDNkOS1lLUdaVmp5eU10YUV4X3o1UzlBdU1qYS1yZXpla2s5ZkRsVUNnazlNYmhXVUxHWVVZd25ReWlQTEhMVEFJRHfSAZYBQVVfeXFMT2ZHdHFJVWw0eDNoaFl6U05QN1NDbnB5a0xWQnZKenFaODBfNVV6ZmhqdG5ndUhKRjNfeUlyRlpvSURzWnpQbUc2X3p3TE45Z0xfbVAzZDktZS1HWlZqeXlNdGFFeF96NVM5QXVNamEtcmV6ZWtrOWZEbFVDZ2s5TWJoV1VMR1lVWXduUXlpUExITFRBSUR3?oc=5",
         "publishedAt": "2026-08-04T01:02:00.000Z"
       },
@@ -156,13 +156,6 @@
         "publishedAt": "2026-08-04T08:00:26.000Z"
       },
       {
-        "time": "14:26",
-        "title": "熊本「何よりも水を」住民ら切実",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590494?source=rss",
-        "publishedAt": "2026-08-04T05:26:28.000Z"
-      },
-      {
         "time": "17:00",
         "title": "感電か 建築現場で作業員2人死亡",
         "source": "Yahoo!ニュース",
@@ -170,11 +163,11 @@
         "publishedAt": "2026-08-04T08:00:54.000Z"
       },
       {
-        "time": "15:46",
-        "title": "遊泳中の高校生が行方不明 青森",
+        "time": "20:42",
+        "title": "ルフィ事件 幹部の懲役20年確定へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590502?source=rss",
-        "publishedAt": "2026-08-04T06:46:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590536?source=rss",
+        "publishedAt": "2026-08-04T11:42:31.000Z"
       },
       {
         "time": "16:37",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590491?source=rss",
         "publishedAt": "2026-08-04T05:06:46.000Z"
+      },
+      {
+        "time": "08:05",
+        "title": "花火大会で禁止行為相次ぎ 怒り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590453?source=rss",
+        "publishedAt": "2026-08-03T23:05:47.000Z"
       }
     ],
     "subsidyHeadlines": [
