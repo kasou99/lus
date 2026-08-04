@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T10:24:32.049Z",
+  "updatedAt": "2026-08-04T11:19:51.935Z",
   "items": [
     {
-      "time": "17:25",
-      "title": "九州道 8月後半には通行可能に",
+      "time": "19:06",
+      "title": "震度5強以上に1週間程度注意 熊本",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590514?source=rss",
-      "publishedAt": "2026-08-04T08:25:00.000Z",
-      "xQuery": "九州道 8月後半には通行可能に"
+      "url": "https://news.yahoo.co.jp/pickup/6590529?source=rss",
+      "publishedAt": "2026-08-04T10:06:12.000Z",
+      "xQuery": "震度5強以上に1週間程度注意 熊本"
+    },
+    {
+      "time": "17:46",
+      "title": "消費減税で自民亀裂 選挙に影響は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590518?source=rss",
+      "publishedAt": "2026-08-04T08:46:02.000Z",
+      "xQuery": "消費減税で自民亀裂 選挙に影響は"
     },
     {
       "time": "17:57",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590524?source=rss",
       "publishedAt": "2026-08-04T08:57:56.000Z",
       "xQuery": "台風13号「迷走」可能性 進路注意"
-    },
-    {
-      "time": "17:42",
-      "title": "デンマーク新兵役制度 20%が女性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590516?source=rss",
-      "publishedAt": "2026-08-04T08:42:37.000Z",
-      "xQuery": "デンマーク新兵役制度 20%が女性"
     },
     {
       "time": "17:29",
