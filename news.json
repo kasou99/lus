@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T23:26:38.690Z",
+  "updatedAt": "2026-08-04T23:53:09.423Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "06:30",
         "title": "脱自動車でもDMG森精機が業績再上方修正、2028年度にピーク利益計画：製造マネジメントニュース（1/2 ページ）",
-        "source": "MONOist",
+        "source": "monoist.itmedia.co.jp",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YMkNkM0RNN0lzQVViQkYyZVhCWHpyWi1NVzRBWGltQlU3SVdrWWhSbzlHMFA2VnhBRG9sYjBPcUdZb292Sk9iWjhNRF9GRk5DSFR4WjYySmlrZS1NVU53T1R1RkRBZ0xvcVJJa211OA?oc=5",
         "publishedAt": "2026-08-04T21:30:00.000Z"
       },
@@ -31,11 +31,11 @@
         "publishedAt": "2026-08-04T03:57:12.000Z"
       },
       {
-        "time": "05:48",
-        "title": "横顔／奈良経済同友会代表幹事に就任した近東宏佳氏",
+        "time": "06:00",
+        "title": "地域の現場から支局便り（22）東海中小、東京・青梅を視察 新事業の “種” 探る",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yQ0h5cURjV3kxQmJOcFh1TjREUmhWdXNpTWFHcG9SNVJIcWhRQVRrS1VPUktGTE9WbEtRazFiVlRocm1qWXpSTVVSci1vSjJ0eVc3Q3NMZTlUaE13cWlpTV9QYmVPa20wczJxNmIwZ05lc19YUzhBZFRuYw?oc=5",
-        "publishedAt": "2026-08-04T20:48:02.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82Y0VQTUI4cVFhb01FN01pNGNnUjEtYXFzYVVoQ1dkb0FoeDRXRmpReWhiU3JscDdKZndRR3dpamhTaHVNQkNwdkRiNHBmeEE2R2l3Y3BCSENjRXFjMlZDRm5aV2swX0ljZFNpb2NyRzhFNHVI?oc=5",
+        "publishedAt": "2026-08-04T21:00:03.000Z"
       },
       {
         "time": "19:30",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "06:42",
-        "title": "NYダウ900ドル超高 連日の最高値",
+        "time": "08:39",
+        "title": "避難後なぜ再入館 証言からの実態",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590554?source=rss",
-        "publishedAt": "2026-08-04T21:42:27.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590566?source=rss",
+        "publishedAt": "2026-08-04T23:39:33.000Z"
       },
       {
         "time": "21:57",
@@ -126,6 +126,13 @@
         "publishedAt": "2026-08-04T08:25:00.000Z"
       },
       {
+        "time": "06:42",
+        "title": "NYダウ900ドル超高 連日の最高値",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590554?source=rss",
+        "publishedAt": "2026-08-04T21:42:27.000Z"
+      },
+      {
         "time": "07:43",
         "title": "偽iPhone大量発見 不正還付発覚",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590528?source=rss",
         "publishedAt": "2026-08-04T09:49:41.000Z"
-      },
-      {
-        "time": "21:32",
-        "title": "マンガワン問題 担当編集者が謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590540?source=rss",
-        "publishedAt": "2026-08-04T12:32:24.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,13 +154,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590541?source=rss",
         "publishedAt": "2026-08-04T12:43:44.000Z"
-      },
-      {
-        "time": "17:00",
-        "title": "車中泊 先見えない避難生活に疲労",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590509?source=rss",
-        "publishedAt": "2026-08-04T08:00:26.000Z"
       },
       {
         "time": "06:26",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590551?source=rss",
         "publishedAt": "2026-08-04T14:50:36.000Z"
+      },
+      {
+        "time": "08:28",
+        "title": "交通整理中にはねられ 男性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590565?source=rss",
+        "publishedAt": "2026-08-04T23:28:28.000Z"
       },
       {
         "time": "07:19",
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }

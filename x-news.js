@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T23:26:39.478Z",
+  "updatedAt": "2026-08-04T23:53:10.190Z",
   "items": [
     {
       "time": "07:58",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "九州-東海猛暑 熊本40℃迫る予想"
     },
     {
-      "time": "06:42",
-      "title": "NYダウ900ドル超高 連日の最高値",
+      "time": "08:39",
+      "title": "避難後なぜ再入館 証言からの実態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590554?source=rss",
-      "publishedAt": "2026-08-04T21:42:27.000Z",
-      "xQuery": "NYダウ900ドル超高 連日の最高値"
-    },
-    {
-      "time": "06:26",
-      "title": "福岡県議会 第三者委を設置へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590553?source=rss",
-      "publishedAt": "2026-08-04T21:26:12.000Z",
-      "xQuery": "福岡県議会 第三者委を設置へ"
+      "url": "https://news.yahoo.co.jp/pickup/6590566?source=rss",
+      "publishedAt": "2026-08-04T23:39:33.000Z",
+      "xQuery": "避難後なぜ再入館 証言からの実態"
     },
     {
       "time": "07:58",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590563?source=rss",
       "publishedAt": "2026-08-04T22:58:31.000Z",
       "xQuery": "威嚇射撃応じず警官発砲 男死亡"
+    },
+    {
+      "time": "08:28",
+      "title": "交通整理中にはねられ 男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590565?source=rss",
+      "publishedAt": "2026-08-04T23:28:28.000Z",
+      "xQuery": "交通整理中にはねられ 男性死亡"
     },
     {
       "time": "07:43",
