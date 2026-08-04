@@ -1,21 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T12:14:29.134Z",
+  "updatedAt": "2026-08-04T13:11:03.648Z",
   "items": [
     {
-      "time": "19:06",
-      "title": "震度5強以上に1週間程度注意 熊本",
+      "time": "20:07",
+      "title": "台風13号 週末は沖縄に直撃の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590529?source=rss",
-      "publishedAt": "2026-08-04T10:06:12.000Z",
-      "xQuery": "震度5強以上に1週間程度注意 熊本"
+      "url": "https://news.yahoo.co.jp/pickup/6590534?source=rss",
+      "publishedAt": "2026-08-04T11:07:29.000Z",
+      "xQuery": "台風13号 週末は沖縄に直撃の恐れ"
     },
     {
-      "time": "17:46",
-      "title": "消費減税で自民亀裂 選挙に影響は",
+      "time": "21:07",
+      "title": "消費減税 財源示してと自民幹事長",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590518?source=rss",
-      "publishedAt": "2026-08-04T08:46:02.000Z",
-      "xQuery": "消費減税で自民亀裂 選挙に影響は"
+      "url": "https://news.yahoo.co.jp/pickup/6590537?source=rss",
+      "publishedAt": "2026-08-04T12:07:31.000Z",
+      "xQuery": "消費減税 財源示してと自民幹事長"
+    },
+    {
+      "time": "21:43",
+      "title": "イオン爆発 告別式に飾ったドレス",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590541?source=rss",
+      "publishedAt": "2026-08-04T12:43:44.000Z",
+      "xQuery": "イオン爆発 告別式に飾ったドレス"
+    },
+    {
+      "time": "21:57",
+      "title": "オンワード3人死亡「指導不徹底」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590542?source=rss",
+      "publishedAt": "2026-08-04T12:57:09.000Z",
+      "xQuery": "オンワード3人死亡「指導不徹底」"
     },
     {
       "time": "20:42",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590536?source=rss",
       "publishedAt": "2026-08-04T11:42:31.000Z",
       "xQuery": "ルフィ事件 幹部の懲役20年確定へ"
-    },
-    {
-      "time": "18:49",
-      "title": "小学館 社長ら26人が報酬返納",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590528?source=rss",
-      "publishedAt": "2026-08-04T09:49:41.000Z",
-      "xQuery": "小学館 社長ら26人が報酬返納"
-    },
-    {
-      "time": "20:24",
-      "title": "僧侶になる儀式 9歳男女48人参加",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590535?source=rss",
-      "publishedAt": "2026-08-04T11:24:52.000Z",
-      "xQuery": "僧侶になる儀式 9歳男女48人参加"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T12:14:28.416Z",
+  "updatedAt": "2026-08-04T13:11:02.705Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -40,7 +40,7 @@
       {
         "time": "10:02",
         "title": "DNソリューションズが韓国AI・ロボット産業協会に加盟 - CHOSUNBIZ",
-        "source": "biz.chosun.com",
+        "source": "Chosunbiz",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkd0cUlVbDR4M2hoWXpTTlA3U0NucHlrTFZCdkp6cVo4MF81VXpmaGp0bmd1SEpGM195SXJGWm9JRHNaelBtRzZfendMTjlnTF9tUDNkOS1lLUdaVmp5eU10YUV4X3o1UzlBdU1qYS1yZXpla2s5ZkRsVUNnazlNYmhXVUxHWVVZd25ReWlQTEhMVEFJRHfSAZYBQVVfeXFMT2ZHdHFJVWw0eDNoaFl6U05QN1NDbnB5a0xWQnZKenFaODBfNVV6ZmhqdG5ndUhKRjNfeUlyRlpvSURzWnpQbUc2X3p3TE45Z0xfbVAzZDktZS1HWlZqeXlNdGFFeF96NVM5QXVNamEtcmV6ZWtrOWZEbFVDZ2s5TWJoV1VMR1lVWXduUXlpUExITFRBSUR3?oc=5",
         "publishedAt": "2026-08-04T01:02:00.000Z"
       },
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "21:57",
+        "title": "オンワード3人死亡「指導不徹底」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590542?source=rss",
+        "publishedAt": "2026-08-04T12:57:09.000Z"
+      },
+      {
         "time": "18:49",
         "title": "小学館 社長ら26人が報酬返納",
         "source": "Yahoo!ニュース",
@@ -112,18 +119,18 @@
         "publishedAt": "2026-08-04T09:49:41.000Z"
       },
       {
+        "time": "21:32",
+        "title": "マンガワン問題 担当編集者が謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590540?source=rss",
+        "publishedAt": "2026-08-04T12:32:24.000Z"
+      },
+      {
         "time": "17:25",
         "title": "九州道 8月後半には通行可能に",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590514?source=rss",
         "publishedAt": "2026-08-04T08:25:00.000Z"
-      },
-      {
-        "time": "15:35",
-        "title": "オンワード 3人死亡した被災経緯",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590500?source=rss",
-        "publishedAt": "2026-08-04T06:35:15.000Z"
       },
       {
         "time": "17:05",
@@ -138,16 +145,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590517?source=rss",
         "publishedAt": "2026-08-04T08:30:30.000Z"
-      },
-      {
-        "time": "11:29",
-        "title": "成績上位は外国人 タクシー会社",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590469?source=rss",
-        "publishedAt": "2026-08-04T02:29:26.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "21:43",
+        "title": "イオン爆発 告別式に飾ったドレス",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590541?source=rss",
+        "publishedAt": "2026-08-04T12:43:44.000Z"
+      },
       {
         "time": "17:00",
         "title": "車中泊 先見えない避難生活に疲労",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590508?source=rss",
         "publishedAt": "2026-08-04T07:37:59.000Z"
-      },
-      {
-        "time": "14:06",
-        "title": "八王子6人負傷事故 男を再逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590491?source=rss",
-        "publishedAt": "2026-08-04T05:06:46.000Z"
       },
       {
         "time": "08:05",
