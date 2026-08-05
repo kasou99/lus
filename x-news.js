@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T08:20:48.681Z",
+  "updatedAt": "2026-08-05T09:25:59.570Z",
   "items": [
     {
-      "time": "16:28",
-      "title": "飲食料品の消費税率1% 閣議決定",
+      "time": "18:12",
+      "title": "消費減税の閣議決定 首相コメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590619?source=rss",
-      "publishedAt": "2026-08-05T07:28:39.000Z",
-      "xQuery": "飲食料品の消費税率1% 閣議決定"
+      "url": "https://news.yahoo.co.jp/pickup/6590642?source=rss",
+      "publishedAt": "2026-08-05T09:12:48.000Z",
+      "xQuery": "消費減税の閣議決定 首相コメント"
     },
     {
-      "time": "17:09",
-      "title": "花火文化に危機感 希望の取り組み",
+      "time": "17:30",
+      "title": "花火大会の1/4中止縮小 救う策は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590620?source=rss",
-      "publishedAt": "2026-08-05T08:09:13.000Z",
-      "xQuery": "花火文化に危機感 希望の取り組み"
+      "url": "https://news.yahoo.co.jp/pickup/6590631?source=rss",
+      "publishedAt": "2026-08-05T08:30:24.000Z",
+      "xQuery": "花火大会の1/4中止縮小 救う策は"
     },
     {
-      "time": "15:31",
-      "title": "日本製紙会見 社長「深くおわび」",
+      "time": "17:40",
+      "title": "6人デスクワーク中死亡 日本製紙",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590614?source=rss",
-      "publishedAt": "2026-08-05T06:31:01.000Z",
-      "xQuery": "日本製紙会見 社長「深くおわび」"
+      "url": "https://news.yahoo.co.jp/pickup/6590632?source=rss",
+      "publishedAt": "2026-08-05T08:40:47.000Z",
+      "xQuery": "6人デスクワーク中死亡 日本製紙"
     },
     {
-      "time": "16:00",
-      "title": "公園の集団礼拝を市認めず 適切か",
+      "time": "17:28",
+      "title": "地中から筒出現 責任は施工受注者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590617?source=rss",
-      "publishedAt": "2026-08-05T07:00:42.000Z",
-      "xQuery": "公園の集団礼拝を市認めず 適切か"
+      "url": "https://news.yahoo.co.jp/pickup/6590628?source=rss",
+      "publishedAt": "2026-08-05T08:28:12.000Z",
+      "xQuery": "地中から筒出現 責任は施工受注者"
     },
     {
-      "time": "16:28",
-      "title": "出演者から性被害 NHK職員が休職",
+      "time": "17:59",
+      "title": "都供給の住宅に人気殺到 識者見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590618?source=rss",
-      "publishedAt": "2026-08-05T07:28:39.000Z",
-      "xQuery": "出演者から性被害 NHK職員が休職"
+      "url": "https://news.yahoo.co.jp/pickup/6590634?source=rss",
+      "publishedAt": "2026-08-05T08:59:53.000Z",
+      "xQuery": "都供給の住宅に人気殺到 識者見解"
     }
   ]
 };
