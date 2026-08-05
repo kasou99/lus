@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T11:19:20.197Z",
+  "updatedAt": "2026-08-05T12:13:26.337Z",
   "items": [
+    {
+      "time": "18:15",
+      "title": "被爆時は1歳 家族の証言継ぐ女性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590635?source=rss",
+      "publishedAt": "2026-08-05T09:15:08.000Z",
+      "xQuery": "被爆時は1歳 家族の証言継ぐ女性"
+    },
     {
       "time": "15:41",
       "title": "8月も高温傾向続く 今後の見通し",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "8月も高温傾向続く 今後の見通し"
     },
     {
-      "time": "16:44",
-      "title": "爆発巡り イオンが事故調査委設置",
+      "time": "20:11",
+      "title": "消費減税巡り 野党が一斉に批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590622?source=rss",
-      "publishedAt": "2026-08-05T07:44:11.000Z",
-      "xQuery": "爆発巡り イオンが事故調査委設置"
+      "url": "https://news.yahoo.co.jp/pickup/6590655?source=rss",
+      "publishedAt": "2026-08-05T11:11:08.000Z",
+      "xQuery": "消費減税巡り 野党が一斉に批判"
     },
     {
       "time": "19:53",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590647?source=rss",
       "publishedAt": "2026-08-05T09:54:45.000Z",
       "xQuery": "イオン熊本の爆発 LPガス原因か"
-    },
-    {
-      "time": "17:40",
-      "title": "6人デスクワーク中死亡 日本製紙",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590632?source=rss",
-      "publishedAt": "2026-08-05T08:40:47.000Z",
-      "xQuery": "6人デスクワーク中死亡 日本製紙"
     }
   ]
 };
