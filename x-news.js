@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T20:51:15.954Z",
+  "updatedAt": "2026-08-05T21:29:58.974Z",
   "items": [
     {
-      "time": "18:15",
-      "title": "被爆時は1歳 家族の証言継ぐ女性",
+      "time": "06:25",
+      "title": "原爆投下81年 核リスク高まる現在",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590635?source=rss",
-      "publishedAt": "2026-08-05T09:15:08.000Z",
-      "xQuery": "被爆時は1歳 家族の証言継ぐ女性"
+      "url": "https://news.yahoo.co.jp/pickup/6590674?source=rss",
+      "publishedAt": "2026-08-05T21:25:11.000Z",
+      "xQuery": "原爆投下81年 核リスク高まる現在"
     },
     {
       "time": "22:30",
