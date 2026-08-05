@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T09:25:59.570Z",
+  "updatedAt": "2026-08-05T10:22:38.726Z",
   "items": [
     {
       "time": "18:12",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "消費減税の閣議決定 首相コメント"
     },
     {
-      "time": "17:30",
-      "title": "花火大会の1/4中止縮小 救う策は",
+      "time": "17:28",
+      "title": "オバマ氏と抱擁した夫 遺志継ぐ妻",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590631?source=rss",
-      "publishedAt": "2026-08-05T08:30:24.000Z",
-      "xQuery": "花火大会の1/4中止縮小 救う策は"
+      "url": "https://news.yahoo.co.jp/pickup/6590626?source=rss",
+      "publishedAt": "2026-08-05T08:28:59.000Z",
+      "xQuery": "オバマ氏と抱擁した夫 遺志継ぐ妻"
+    },
+    {
+      "time": "18:54",
+      "title": "イオン熊本の爆発 LPガス原因か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590647?source=rss",
+      "publishedAt": "2026-08-05T09:54:45.000Z",
+      "xQuery": "イオン熊本の爆発 LPガス原因か"
     },
     {
       "time": "17:40",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "6人デスクワーク中死亡 日本製紙"
     },
     {
-      "time": "17:28",
-      "title": "地中から筒出現 責任は施工受注者",
+      "time": "11:48",
+      "title": "指摘に部下怒り 心身崩し上司退職",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590628?source=rss",
-      "publishedAt": "2026-08-05T08:28:12.000Z",
-      "xQuery": "地中から筒出現 責任は施工受注者"
-    },
-    {
-      "time": "17:59",
-      "title": "都供給の住宅に人気殺到 識者見解",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590634?source=rss",
-      "publishedAt": "2026-08-05T08:59:53.000Z",
-      "xQuery": "都供給の住宅に人気殺到 識者見解"
+      "url": "https://news.yahoo.co.jp/pickup/6590591?source=rss",
+      "publishedAt": "2026-08-05T02:48:52.000Z",
+      "xQuery": "指摘に部下怒り 心身崩し上司退職"
     }
   ]
 };
