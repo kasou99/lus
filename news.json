@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-05T01:38:30.618Z",
+  "updatedAt": "2026-08-05T03:10:24.427Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "09:00",
-        "title": "次世代設備保全クラウドの株式会社M2X、日興薬品工業株式会社の導入事例を公開",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkdjM1R1BDbWFyVXBrTTVEWFJyTnZxLWduZmFjcEhjV0lhb2EwSlkyNkpRSlY5eHdCWUtHUkRabEpSZEh1R08xc0F1YWVLYXVpNzF3aVRNWDhJR2g5SnJQT2dNRkhVekh4dEE?oc=5",
-        "publishedAt": "2026-08-05T00:00:03.000Z"
-      },
       {
         "time": "07:50",
         "title": "2026年6月分工作機械受注総額は2033.8億円 - | 製造現場ドットコム",
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1aa1FDZUlRU2x6bm5SdC05YU15b3pmZHEyUFRXWVF5TmZWNjlWUVBQWnpmWWFtVG1ESmZXTXZtYy1FbmVQVUh2SFdn?oc=5",
         "publishedAt": "2026-08-04T22:50:44.000Z"
+      },
+      {
+        "time": "09:00",
+        "title": "次世代設備保全クラウドの株式会社M2X、日興薬品工業株式会社の導入事例を公開",
+        "source": "産経ニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrSE16SG4wdU1aSDE5YUxxUTBMMFR0S0xFN0w1V0p1UElmemNyaWR3VUQ2cmg1OC1NVkxTdnhxY0NsellVeEpRbzV3WVVqNmUya2xJVF8zd3RCNUd1X3BKRWJfTTIxbE56YnRZc3F2OHZlT29sTXBFS1JMVQ?oc=5",
+        "publishedAt": "2026-08-05T00:00:03.000Z"
       },
       {
         "time": "06:02",
@@ -31,23 +31,23 @@
         "publishedAt": "2026-08-04T21:30:00.000Z"
       },
       {
+        "time": "05:00",
+        "title": "インタビュー／ブラザー工業社長・池田和史氏 小型MC倍増に手応え",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tVmRQWDZTc003bE55ai1fRHlFaF9rYWhXVjI4TEdIQXduSFBkYjdUbEVhNkJUWDQ1UnNNcXA0bDduXzA2cHl1SU1odkdCN0lWUzBTZEdPYUhRZG8?oc=5",
+        "publishedAt": "2026-08-04T20:00:00.000Z"
+      },
+      {
         "time": "12:57",
         "title": "ジェイテクト、工作機械会社の持ち分売却 政策保有を縮減",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fbk5tUEtWR25xQXgzenkteU40cDVtNDJKRVBxckwwMm51WEFTa0oyaldnWTBwYmVwWllEaE1rQndXd0RXYzlsY3V6eDVNUWp6WmRFZUhablJIOFZaU1gySmQ3MHpjOVpRU3dHbA?oc=5",
         "publishedAt": "2026-08-04T03:57:12.000Z"
       },
       {
-        "time": "05:48",
-        "title": "横顔／奈良経済同友会代表幹事に就任した近東宏佳氏",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yQ0h5cURjV3kxQmJOcFh1TjREUmhWdXNpTWFHcG9SNVJIcWhRQVRrS1VPUktGTE9WbEtRazFiVlRocm1qWXpSTVVSci1vSjJ0eVc3Q3NMZTlUaE13cWlpTV9QYmVPa20wczJxNmIwZ05lc19YUzhBZFRuYw?oc=5",
-        "publishedAt": "2026-08-04T20:48:02.000Z"
-      },
-      {
         "time": "19:30",
         "title": "AI需要が追い風、設備投資拡大で「機械」関連株に台頭する再評価の潮流 ＜株探トップ特集＞",
-        "source": "株探",
+        "source": "kabutan.jp",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UOWV4T2FPT2JvclpLX2hSMXNXcDQtMnhTMV95MW1tcTBiSE5fQjdMSngzUGFuSVhaNWF3QXpoSXJwNGNqdmlsbnlvaXJzY1FxQnJBckhxUUZKUGVVN0xQcA?oc=5",
         "publishedAt": "2026-08-04T10:30:00.000Z"
       },
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "11:49",
+        "title": "北朝鮮 日本のトマホーク試射批判",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590588?source=rss",
+        "publishedAt": "2026-08-05T02:49:49.000Z"
+      },
       {
         "time": "09:20",
         "title": "ドローンがウの民間人を追跡 爆発",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590442?source=rss",
         "publishedAt": "2026-08-03T21:26:27.000Z"
-      },
-      {
-        "time": "07:13",
-        "title": "イランが協議否定 米大統領は批判",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590445?source=rss",
-        "publishedAt": "2026-08-03T22:13:42.000Z"
       },
       {
         "time": "08:12",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-08-04T12:57:09.000Z"
       },
       {
-        "time": "06:42",
-        "title": "NYダウ900ドル超高 連日の最高値",
+        "time": "11:48",
+        "title": "指摘に部下怒り 心身崩し上司退職",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590554?source=rss",
-        "publishedAt": "2026-08-04T21:42:27.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590591?source=rss",
+        "publishedAt": "2026-08-05T02:48:52.000Z"
       },
       {
-        "time": "09:38",
-        "title": "ソニー生命 金銭詐取また判明",
+        "time": "11:54",
+        "title": "セブン苦戦「集中出店」曲がり角",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590572?source=rss",
-        "publishedAt": "2026-08-05T00:38:32.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590589?source=rss",
+        "publishedAt": "2026-08-05T02:54:02.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,6 +163,20 @@
         "publishedAt": "2026-08-04T21:26:12.000Z"
       },
       {
+        "time": "11:27",
+        "title": "トラックと衝突し車炎上 1人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590585?source=rss",
+        "publishedAt": "2026-08-05T02:27:30.000Z"
+      },
+      {
+        "time": "10:43",
+        "title": "住宅が全焼 3人の死亡確認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590580?source=rss",
+        "publishedAt": "2026-08-05T01:43:44.000Z"
+      },
+      {
         "time": "10:03",
         "title": "刃物持つ男に警官発砲 左胸に命中",
         "source": "Yahoo!ニュース",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590563?source=rss",
         "publishedAt": "2026-08-04T22:58:31.000Z"
-      },
-      {
-        "time": "10:26",
-        "title": "交通誘導中にはねられ 男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590579?source=rss",
-        "publishedAt": "2026-08-05T01:26:52.000Z"
-      },
-      {
-        "time": "07:19",
-        "title": "点滴に大便混入事件 殺人罪で起訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590556?source=rss",
-        "publishedAt": "2026-08-04T22:19:35.000Z"
       }
     ],
     "subsidyHeadlines": [

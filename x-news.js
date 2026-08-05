@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T01:38:31.462Z",
+  "updatedAt": "2026-08-05T03:10:25.424Z",
   "items": [
     {
-      "time": "09:46",
-      "title": "日経平均 一時2200円超の値上がり",
+      "time": "10:10",
+      "title": "首相 日銀総裁に国債買い入れ要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590575?source=rss",
-      "publishedAt": "2026-08-05T00:46:30.000Z",
-      "xQuery": "日経平均 一時2200円超の値上がり"
+      "url": "https://news.yahoo.co.jp/pickup/6590577?source=rss",
+      "publishedAt": "2026-08-05T01:10:11.000Z",
+      "xQuery": "首相 日銀総裁に国債買い入れ要請"
     },
     {
-      "time": "08:56",
-      "title": "米財務長官 円の水準を問題視",
+      "time": "11:35",
+      "title": "自民総務会 消費税減税の方針了承",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590567?source=rss",
-      "publishedAt": "2026-08-04T23:56:06.000Z",
-      "xQuery": "米財務長官 円の水準を問題視"
+      "url": "https://news.yahoo.co.jp/pickup/6590584?source=rss",
+      "publishedAt": "2026-08-05T02:35:43.000Z",
+      "xQuery": "自民総務会 消費税減税の方針了承"
     },
     {
-      "time": "09:20",
-      "title": "ドローンがウの民間人を追跡 爆発",
+      "time": "11:49",
+      "title": "北朝鮮 日本のトマホーク試射批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590569?source=rss",
-      "publishedAt": "2026-08-05T00:20:28.000Z",
-      "xQuery": "ドローンがウの民間人を追跡 爆発"
+      "url": "https://news.yahoo.co.jp/pickup/6590588?source=rss",
+      "publishedAt": "2026-08-05T02:49:49.000Z",
+      "xQuery": "北朝鮮 日本のトマホーク試射批判"
     },
     {
-      "time": "10:03",
-      "title": "刃物持つ男に警官発砲 左胸に命中",
+      "time": "10:43",
+      "title": "住宅が全焼 3人の死亡確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590576?source=rss",
-      "publishedAt": "2026-08-05T01:03:41.000Z",
-      "xQuery": "刃物持つ男に警官発砲 左胸に命中"
+      "url": "https://news.yahoo.co.jp/pickup/6590580?source=rss",
+      "publishedAt": "2026-08-05T01:43:44.000Z",
+      "xQuery": "住宅が全焼 3人の死亡確認"
     },
     {
-      "time": "07:43",
-      "title": "偽iPhone大量発見 不正還付発覚",
+      "time": "11:27",
+      "title": "トラックと衝突し車炎上 1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590559?source=rss",
-      "publishedAt": "2026-08-04T22:43:07.000Z",
-      "xQuery": "偽iPhone大量発見 不正還付発覚"
+      "url": "https://news.yahoo.co.jp/pickup/6590585?source=rss",
+      "publishedAt": "2026-08-05T02:27:30.000Z",
+      "xQuery": "トラックと衝突し車炎上 1人死亡"
     }
   ]
 };
