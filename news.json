@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-04T23:53:09.423Z",
+  "updatedAt": "2026-08-05T00:44:19.484Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:00",
+        "title": "次世代設備保全クラウドの株式会社M2X、日興薬品工業株式会社の導入事例を公開",
+        "source": "prtimes.jp",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkdjM1R1BDbWFyVXBrTTVEWFJyTnZxLWduZmFjcEhjV0lhb2EwSlkyNkpRSlY5eHdCWUtHUkRabEpSZEh1R08xc0F1YWVLYXVpNzF3aVRNWDhJR2g5SnJQT2dNRkhVekh4dEE?oc=5",
+        "publishedAt": "2026-08-05T00:00:03.000Z"
+      },
       {
         "time": "07:50",
         "title": "2026年6月分工作機械受注総額は2033.8億円 - | 製造現場ドットコム",
@@ -19,7 +26,7 @@
       {
         "time": "06:30",
         "title": "脱自動車でもDMG森精機が業績再上方修正、2028年度にピーク利益計画：製造マネジメントニュース（1/2 ページ）",
-        "source": "monoist.itmedia.co.jp",
+        "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YMkNkM0RNN0lzQVViQkYyZVhCWHpyWi1NVzRBWGltQlU3SVdrWWhSbzlHMFA2VnhBRG9sYjBPcUdZb292Sk9iWjhNRF9GRk5DSFR4WjYySmlrZS1NVU53T1R1RkRBZ0xvcVJJa211OA?oc=5",
         "publishedAt": "2026-08-04T21:30:00.000Z"
       },
@@ -29,13 +36,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fbk5tUEtWR25xQXgzenkteU40cDVtNDJKRVBxckwwMm51WEFTa0oyaldnWTBwYmVwWllEaE1rQndXd0RXYzlsY3V6eDVNUWp6WmRFZUhablJIOFZaU1gySmQ3MHpjOVpRU3dHbA?oc=5",
         "publishedAt": "2026-08-04T03:57:12.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "地域の現場から支局便り（22）東海中小、東京・青梅を視察 新事業の “種” 探る",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82Y0VQTUI4cVFhb01FN01pNGNnUjEtYXFzYVVoQ1dkb0FoeDRXRmpReWhiU3JscDdKZndRR3dpamhTaHVNQkNwdkRiNHBmeEE2R2l3Y3BCSENjRXFjMlZDRm5aV2swX0ljZFNpb2NyRzhFNHVI?oc=5",
-        "publishedAt": "2026-08-04T21:00:03.000Z"
       },
       {
         "time": "19:30",
@@ -61,18 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "07:13",
-        "title": "イランが協議否定 米大統領は批判",
+        "time": "09:20",
+        "title": "ドローンがウの民間人を追跡 爆発",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590445?source=rss",
-        "publishedAt": "2026-08-03T22:13:42.000Z"
-      },
-      {
-        "time": "22:47",
-        "title": "米大統領 対イラン発言は二転三転",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590431?source=rss",
-        "publishedAt": "2026-08-03T13:47:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590569?source=rss",
+        "publishedAt": "2026-08-05T00:20:28.000Z"
       },
       {
         "time": "09:48",
@@ -87,6 +80,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590442?source=rss",
         "publishedAt": "2026-08-03T21:26:27.000Z"
+      },
+      {
+        "time": "07:13",
+        "title": "イランが協議否定 米大統領は批判",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590445?source=rss",
+        "publishedAt": "2026-08-03T22:13:42.000Z"
       },
       {
         "time": "08:12",
@@ -104,6 +104,13 @@
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "08:56",
+        "title": "米財務長官 円の水準を問題視",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590567?source=rss",
+        "publishedAt": "2026-08-04T23:56:06.000Z"
+      },
       {
         "time": "08:39",
         "title": "避難後なぜ再入館 証言からの実態",
@@ -133,18 +140,11 @@
         "publishedAt": "2026-08-04T21:42:27.000Z"
       },
       {
-        "time": "07:43",
-        "title": "偽iPhone大量発見 不正還付発覚",
+        "time": "09:38",
+        "title": "ソニー生命 金銭詐取また判明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590559?source=rss",
-        "publishedAt": "2026-08-04T22:43:07.000Z"
-      },
-      {
-        "time": "18:49",
-        "title": "小学館 社長ら26人が報酬返納",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590528?source=rss",
-        "publishedAt": "2026-08-04T09:49:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590572?source=rss",
+        "publishedAt": "2026-08-05T00:38:32.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,11 +177,11 @@
         "publishedAt": "2026-08-04T14:50:36.000Z"
       },
       {
-        "time": "08:28",
+        "time": "09:23",
         "title": "交通整理中にはねられ 男性死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590565?source=rss",
-        "publishedAt": "2026-08-04T23:28:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590571?source=rss",
+        "publishedAt": "2026-08-05T00:23:20.000Z"
       },
       {
         "time": "07:19",
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }

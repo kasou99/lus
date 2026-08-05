@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-04T23:53:10.190Z",
+  "updatedAt": "2026-08-05T00:44:20.250Z",
   "items": [
     {
-      "time": "07:58",
-      "title": "九州-東海猛暑 熊本40℃迫る予想",
+      "time": "08:56",
+      "title": "米財務長官 円の水準を問題視",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590561?source=rss",
-      "publishedAt": "2026-08-04T22:58:01.000Z",
-      "xQuery": "九州-東海猛暑 熊本40℃迫る予想"
+      "url": "https://news.yahoo.co.jp/pickup/6590567?source=rss",
+      "publishedAt": "2026-08-04T23:56:06.000Z",
+      "xQuery": "米財務長官 円の水準を問題視"
+    },
+    {
+      "time": "09:20",
+      "title": "ドローンがウの民間人を追跡 爆発",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590569?source=rss",
+      "publishedAt": "2026-08-05T00:20:28.000Z",
+      "xQuery": "ドローンがウの民間人を追跡 爆発"
     },
     {
       "time": "08:39",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "威嚇射撃応じず警官発砲 男死亡"
     },
     {
-      "time": "08:28",
+      "time": "09:23",
       "title": "交通整理中にはねられ 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590565?source=rss",
-      "publishedAt": "2026-08-04T23:28:28.000Z",
+      "url": "https://news.yahoo.co.jp/pickup/6590571?source=rss",
+      "publishedAt": "2026-08-05T00:23:20.000Z",
       "xQuery": "交通整理中にはねられ 男性死亡"
-    },
-    {
-      "time": "07:43",
-      "title": "偽iPhone大量発見 不正還付発覚",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590559?source=rss",
-      "publishedAt": "2026-08-04T22:43:07.000Z",
-      "xQuery": "偽iPhone大量発見 不正還付発覚"
     }
   ]
 };
