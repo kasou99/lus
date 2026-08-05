@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T23:24:53.354Z",
+  "updatedAt": "2026-08-05T23:50:28.402Z",
   "items": [
     {
       "time": "07:48",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本県などで震度4 津波心配なし"
     },
     {
-      "time": "06:59",
-      "title": "消費減税1% 外食に「割高感」も",
+      "time": "08:19",
+      "title": "イラン トランプ氏に攻撃自制促す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590677?source=rss",
-      "publishedAt": "2026-08-05T21:59:07.000Z",
-      "xQuery": "消費減税1% 外食に「割高感」も"
+      "url": "https://news.yahoo.co.jp/pickup/6590683?source=rss",
+      "publishedAt": "2026-08-05T23:19:37.000Z",
+      "xQuery": "イラン トランプ氏に攻撃自制促す"
     },
     {
       "time": "07:28",
