@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T14:18:39.118Z",
+  "updatedAt": "2026-08-05T15:18:13.043Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-08-05T03:36:16.000Z"
       },
       {
-        "time": "16:19",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-08-05T07:19:01.000Z"
-      },
-      {
         "time": "06:02",
         "title": "四国電力などが研究発表会／最新の取り組み共有 –",
         "source": "電気新聞ウェブサイト",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-08-04T21:02:21.000Z"
       },
       {
-        "time": "07:50",
-        "title": "フジムラ製作所が切削加工部門を拡充 ～約1億8,000万円を投じ5軸MCや自動旋盤を導入～ - | 製造現場ドットコム",
-        "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tQjNpRWpqV1BodkEwR1RfNG9sV0NRdlZYN3hYZXNldVJRX1NReTFBWUpQZ0dKR0QzbXY3OGx1SGhqYzJheWlZR3NB?oc=5",
-        "publishedAt": "2026-08-04T22:50:44.000Z"
+        "time": "06:00",
+        "title": "地域の現場から支局便り（22）東海中小、東京・青梅を視察 新事業の “種” 探る",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82Y0VQTUI4cVFhb01FN01pNGNnUjEtYXFzYVVoQ1dkb0FoeDRXRmpReWhiU3JscDdKZndRR3dpamhTaHVNQkNwdkRiNHBmeEE2R2l3Y3BCSENjRXFjMlZDRm5aV2swX0ljZFNpb2NyRzhFNHVI?oc=5",
+        "publishedAt": "2026-08-04T21:00:03.000Z"
+      },
+      {
+        "time": "14:02",
+        "title": "【ビーストオブリンカネーション】エピソード8「蟲食い」の攻略チャート",
+        "source": "AppMedia",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsRWdkR3plLWhlUDQxOW9QNnNzSzg3UWdjMEFPSldIcEpYLTlWVWVNNHp3Z1JzMmhjLXN6LWFMX3VjYnJYZGdxR1REck5EWVFxVzF3NXI3czBlS3hadlAzOQ?oc=5",
+        "publishedAt": "2026-08-05T05:02:01.000Z"
       }
     ],
     "worldHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-05T08:28:12.000Z"
       },
       {
-        "time": "18:30",
-        "title": "山でクマスプレー誤噴射 生徒搬送",
+        "time": "16:00",
+        "title": "公園の集団礼拝を市認めず 適切か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590640?source=rss",
-        "publishedAt": "2026-08-05T09:30:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590617?source=rss",
+        "publishedAt": "2026-08-05T07:00:42.000Z"
       }
     ],
     "subsidyHeadlines": [

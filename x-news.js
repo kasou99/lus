@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T14:18:39.846Z",
+  "updatedAt": "2026-08-05T15:18:13.907Z",
   "items": [
     {
       "time": "18:15",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "住宅全焼4人遺体 叫び声聞こえた"
     },
     {
-      "time": "17:28",
-      "title": "地中から筒出現 責任は施工受注者",
+      "time": "23:20",
+      "title": "立体駐車場から車が転落 77歳重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590628?source=rss",
-      "publishedAt": "2026-08-05T08:28:12.000Z",
-      "xQuery": "地中から筒出現 責任は施工受注者"
+      "url": "https://news.yahoo.co.jp/pickup/6590671?source=rss",
+      "publishedAt": "2026-08-05T14:20:20.000Z",
+      "xQuery": "立体駐車場から車が転落 77歳重体"
     },
     {
-      "time": "21:16",
-      "title": "日産の新型キックス 売れ行き好調",
+      "time": "23:16",
+      "title": "スペースXロケット残骸 月衝突か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590659?source=rss",
-      "publishedAt": "2026-08-05T12:16:14.000Z",
-      "xQuery": "日産の新型キックス 売れ行き好調"
+      "url": "https://news.yahoo.co.jp/pickup/6590670?source=rss",
+      "publishedAt": "2026-08-05T14:16:27.000Z",
+      "xQuery": "スペースXロケット残骸 月衝突か"
     }
   ]
 };
