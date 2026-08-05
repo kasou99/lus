@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T00:44:20.250Z",
+  "updatedAt": "2026-08-05T01:38:31.462Z",
   "items": [
+    {
+      "time": "09:46",
+      "title": "日経平均 一時2200円超の値上がり",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590575?source=rss",
+      "publishedAt": "2026-08-05T00:46:30.000Z",
+      "xQuery": "日経平均 一時2200円超の値上がり"
+    },
     {
       "time": "08:56",
       "title": "米財務長官 円の水準を問題視",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ドローンがウの民間人を追跡 爆発"
     },
     {
-      "time": "08:39",
-      "title": "避難後なぜ再入館 証言からの実態",
+      "time": "10:03",
+      "title": "刃物持つ男に警官発砲 左胸に命中",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590566?source=rss",
-      "publishedAt": "2026-08-04T23:39:33.000Z",
-      "xQuery": "避難後なぜ再入館 証言からの実態"
+      "url": "https://news.yahoo.co.jp/pickup/6590576?source=rss",
+      "publishedAt": "2026-08-05T01:03:41.000Z",
+      "xQuery": "刃物持つ男に警官発砲 左胸に命中"
     },
     {
-      "time": "07:58",
-      "title": "威嚇射撃応じず警官発砲 男死亡",
+      "time": "07:43",
+      "title": "偽iPhone大量発見 不正還付発覚",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590563?source=rss",
-      "publishedAt": "2026-08-04T22:58:31.000Z",
-      "xQuery": "威嚇射撃応じず警官発砲 男死亡"
-    },
-    {
-      "time": "09:23",
-      "title": "交通整理中にはねられ 男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590571?source=rss",
-      "publishedAt": "2026-08-05T00:23:20.000Z",
-      "xQuery": "交通整理中にはねられ 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590559?source=rss",
+      "publishedAt": "2026-08-04T22:43:07.000Z",
+      "xQuery": "偽iPhone大量発見 不正還付発覚"
     }
   ]
 };

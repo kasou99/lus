@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-05T00:44:19.484Z",
+  "updatedAt": "2026-08-05T01:38:30.618Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "09:00",
         "title": "次世代設備保全クラウドの株式会社M2X、日興薬品工業株式会社の導入事例を公開",
-        "source": "prtimes.jp",
+        "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkdjM1R1BDbWFyVXBrTTVEWFJyTnZxLWduZmFjcEhjV0lhb2EwSlkyNkpRSlY5eHdCWUtHUkRabEpSZEh1R08xc0F1YWVLYXVpNzF3aVRNWDhJR2g5SnJQT2dNRkhVekh4dEE?oc=5",
         "publishedAt": "2026-08-05T00:00:03.000Z"
       },
@@ -38,9 +38,16 @@
         "publishedAt": "2026-08-04T03:57:12.000Z"
       },
       {
+        "time": "05:48",
+        "title": "横顔／奈良経済同友会代表幹事に就任した近東宏佳氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yQ0h5cURjV3kxQmJOcFh1TjREUmhWdXNpTWFHcG9SNVJIcWhRQVRrS1VPUktGTE9WbEtRazFiVlRocm1qWXpSTVVSci1vSjJ0eVc3Q3NMZTlUaE13cWlpTV9QYmVPa20wczJxNmIwZ05lc19YUzhBZFRuYw?oc=5",
+        "publishedAt": "2026-08-04T20:48:02.000Z"
+      },
+      {
         "time": "19:30",
         "title": "AI需要が追い風、設備投資拡大で「機械」関連株に台頭する再評価の潮流 ＜株探トップ特集＞",
-        "source": "kabutan.jp",
+        "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UOWV4T2FPT2JvclpLX2hSMXNXcDQtMnhTMV95MW1tcTBiSE5fQjdMSngzUGFuSVhaNWF3QXpoSXJwNGNqdmlsbnlvaXJzY1FxQnJBckhxUUZKUGVVN0xQcA?oc=5",
         "publishedAt": "2026-08-04T10:30:00.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tQjNpRWpqV1BodkEwR1RfNG9sV0NRdlZYN3hYZXNldVJRX1NReTFBWUpQZ0dKR0QzbXY3OGx1SGhqYzJheWlZR3NB?oc=5",
         "publishedAt": "2026-08-04T22:50:44.000Z"
-      },
-      {
-        "time": "14:18",
-        "title": "6月機械受注（除船電民需）前月比は2カ月ぶりに増加に。関連データの工作機械受注（国内向け）6月前年同月比は＋45.5％と大幅増加。日本の主要経済指標予測（2026年8月4日）―｜宅森昭吉（景気探検家・エコノミスト）",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MUHpfRThkNUtacmJZTVpIaTc0a2FMR3pEaExHeEdkZ3pSR3pfR0lNUG10ekVVSUZKN2F1X2RULTB0SXZrbXN1b1BocUl4VmtudHBHTnpOYWdVM3JXNlE?oc=5",
-        "publishedAt": "2026-08-04T05:18:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:46",
+        "title": "日経平均 一時2200円超の値上がり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590575?source=rss",
+        "publishedAt": "2026-08-05T00:46:30.000Z"
+      },
+      {
         "time": "08:56",
         "title": "米財務長官 円の水準を問題視",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590542?source=rss",
         "publishedAt": "2026-08-04T12:57:09.000Z"
-      },
-      {
-        "time": "17:25",
-        "title": "九州道 8月後半には通行可能に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590514?source=rss",
-        "publishedAt": "2026-08-04T08:25:00.000Z"
       },
       {
         "time": "06:42",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-08-04T21:26:12.000Z"
       },
       {
+        "time": "10:03",
+        "title": "刃物持つ男に警官発砲 左胸に命中",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590576?source=rss",
+        "publishedAt": "2026-08-05T01:03:41.000Z"
+      },
+      {
         "time": "07:58",
         "title": "威嚇射撃応じず警官発砲 男死亡",
         "source": "Yahoo!ニュース",
@@ -170,18 +177,11 @@
         "publishedAt": "2026-08-04T22:58:31.000Z"
       },
       {
-        "time": "23:50",
-        "title": "刃物持つ男に警官が発砲 男は死亡",
+        "time": "10:26",
+        "title": "交通誘導中にはねられ 男性死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590551?source=rss",
-        "publishedAt": "2026-08-04T14:50:36.000Z"
-      },
-      {
-        "time": "09:23",
-        "title": "交通整理中にはねられ 男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590571?source=rss",
-        "publishedAt": "2026-08-05T00:23:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590579?source=rss",
+        "publishedAt": "2026-08-05T01:26:52.000Z"
       },
       {
         "time": "07:19",
