@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-05T03:10:24.427Z",
+  "updatedAt": "2026-08-05T04:36:07.821Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:30",
+        "title": "「工作機械市場規模、シェア、動向、2033年までの世界予測」市場調査レポートの出版・販売開始のご案内",
+        "source": "dreamnews.jp",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01QThlTFluQXBsYTZtc1J6RXhOZVdRWUk3bGZPQWtHQVNQNm52RFplZUFCT3VmVXRRU3FhRF9QRUFpSFVfOVhfR2U0VmY4MjA0VlJr?oc=5",
+        "publishedAt": "2026-08-05T04:30:00.000Z"
+      },
       {
         "time": "07:50",
         "title": "2026年6月分工作機械受注総額は2033.8億円 - | 製造現場ドットコム",
@@ -38,16 +45,9 @@
         "publishedAt": "2026-08-04T20:00:00.000Z"
       },
       {
-        "time": "12:57",
-        "title": "ジェイテクト、工作機械会社の持ち分売却 政策保有を縮減",
-        "source": "nikkei.com",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fbk5tUEtWR25xQXgzenkteU40cDVtNDJKRVBxckwwMm51WEFTa0oyaldnWTBwYmVwWllEaE1rQndXd0RXYzlsY3V6eDVNUWp6WmRFZUhablJIOFZaU1gySmQ3MHpjOVpRU3dHbA?oc=5",
-        "publishedAt": "2026-08-04T03:57:12.000Z"
-      },
-      {
         "time": "19:30",
         "title": "AI需要が追い風、設備投資拡大で「機械」関連株に台頭する再評価の潮流 ＜株探トップ特集＞",
-        "source": "kabutan.jp",
+        "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UOWV4T2FPT2JvclpLX2hSMXNXcDQtMnhTMV95MW1tcTBiSE5fQjdMSngzUGFuSVhaNWF3QXpoSXJwNGNqdmlsbnlvaXJzY1FxQnJBckhxUUZKUGVVN0xQcA?oc=5",
         "publishedAt": "2026-08-04T10:30:00.000Z"
       },
@@ -89,27 +89,27 @@
         "publishedAt": "2026-08-03T21:26:27.000Z"
       },
       {
-        "time": "08:12",
-        "title": "関税措置巡り 米25州が政権を提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590452?source=rss",
-        "publishedAt": "2026-08-03T23:12:34.000Z"
-      },
-      {
         "time": "09:06",
         "title": "ベネズエラ地震 死者6000人超に",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590458?source=rss",
         "publishedAt": "2026-08-04T00:06:55.000Z"
+      },
+      {
+        "time": "17:42",
+        "title": "デンマーク新兵役制度 20%が女性",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590516?source=rss",
+        "publishedAt": "2026-08-04T08:42:37.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "09:46",
-        "title": "日経平均 一時2200円超の値上がり",
+        "time": "12:47",
+        "title": "新水俣-鹿児島中央 新幹線再開へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590575?source=rss",
-        "publishedAt": "2026-08-05T00:46:30.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590599?source=rss",
+        "publishedAt": "2026-08-05T03:47:19.000Z"
       },
       {
         "time": "08:56",
@@ -126,11 +126,18 @@
         "publishedAt": "2026-08-04T23:39:33.000Z"
       },
       {
-        "time": "21:57",
-        "title": "オンワード3人死亡「指導不徹底」",
+        "time": "13:14",
+        "title": "スペースX赤字850億円 4-6月期",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590542?source=rss",
-        "publishedAt": "2026-08-04T12:57:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590602?source=rss",
+        "publishedAt": "2026-08-05T04:14:00.000Z"
+      },
+      {
+        "time": "12:11",
+        "title": "オンワード 貴重品携行を義務付け",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590595?source=rss",
+        "publishedAt": "2026-08-05T03:11:05.000Z"
       },
       {
         "time": "11:48",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590591?source=rss",
         "publishedAt": "2026-08-05T02:48:52.000Z"
-      },
-      {
-        "time": "11:54",
-        "title": "セブン苦戦「集中出店」曲がり角",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590589?source=rss",
-        "publishedAt": "2026-08-05T02:54:02.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,13 +154,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590541?source=rss",
         "publishedAt": "2026-08-04T12:43:44.000Z"
-      },
-      {
-        "time": "06:26",
-        "title": "福岡県議会 第三者委を設置へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590553?source=rss",
-        "publishedAt": "2026-08-04T21:26:12.000Z"
       },
       {
         "time": "11:27",
@@ -177,11 +170,11 @@
         "publishedAt": "2026-08-05T01:43:44.000Z"
       },
       {
-        "time": "10:03",
-        "title": "刃物持つ男に警官発砲 左胸に命中",
+        "time": "13:06",
+        "title": "台船に女性遺体 死亡の夫書類送検",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590576?source=rss",
-        "publishedAt": "2026-08-05T01:03:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590601?source=rss",
+        "publishedAt": "2026-08-05T04:06:19.000Z"
       },
       {
         "time": "07:58",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590563?source=rss",
         "publishedAt": "2026-08-04T22:58:31.000Z"
+      },
+      {
+        "time": "12:30",
+        "title": "刃物持つ男に警官発砲 法的には",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590598?source=rss",
+        "publishedAt": "2026-08-05T03:30:27.000Z"
       }
     ],
     "subsidyHeadlines": [

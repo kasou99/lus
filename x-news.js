@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T03:10:25.424Z",
+  "updatedAt": "2026-08-05T04:36:08.582Z",
   "items": [
     {
-      "time": "10:10",
-      "title": "首相 日銀総裁に国債買い入れ要請",
+      "time": "12:47",
+      "title": "新水俣-鹿児島中央 新幹線再開へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590577?source=rss",
-      "publishedAt": "2026-08-05T01:10:11.000Z",
-      "xQuery": "首相 日銀総裁に国債買い入れ要請"
+      "url": "https://news.yahoo.co.jp/pickup/6590599?source=rss",
+      "publishedAt": "2026-08-05T03:47:19.000Z",
+      "xQuery": "新水俣-鹿児島中央 新幹線再開へ"
     },
     {
-      "time": "11:35",
-      "title": "自民総務会 消費税減税の方針了承",
+      "time": "12:11",
+      "title": "台風13号 沖縄で影響が長引く恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590584?source=rss",
-      "publishedAt": "2026-08-05T02:35:43.000Z",
-      "xQuery": "自民総務会 消費税減税の方針了承"
+      "url": "https://news.yahoo.co.jp/pickup/6590590?source=rss",
+      "publishedAt": "2026-08-05T03:11:15.000Z",
+      "xQuery": "台風13号 沖縄で影響が長引く恐れ"
     },
     {
       "time": "11:49",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "北朝鮮 日本のトマホーク試射批判"
     },
     {
-      "time": "10:43",
-      "title": "住宅が全焼 3人の死亡確認",
+      "time": "13:06",
+      "title": "台船に女性遺体 死亡の夫書類送検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590580?source=rss",
-      "publishedAt": "2026-08-05T01:43:44.000Z",
-      "xQuery": "住宅が全焼 3人の死亡確認"
+      "url": "https://news.yahoo.co.jp/pickup/6590601?source=rss",
+      "publishedAt": "2026-08-05T04:06:19.000Z",
+      "xQuery": "台船に女性遺体 死亡の夫書類送検"
     },
     {
       "time": "11:27",
