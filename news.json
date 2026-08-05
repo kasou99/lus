@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T22:00:05.748Z",
+  "updatedAt": "2026-08-05T22:30:25.304Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -33,7 +33,7 @@
       {
         "time": "09:00",
         "title": "超精密加工で､工作機械､産業機械から食品機械まで｡ソディック､3事業の躍進で挑む次の50年",
-        "source": "東洋経済オンライン",
+        "source": "toyokeizai.net",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKMGppWHJfYmpkZ0xOeDRxc3NjQTQtZ2E4ZnAxMHBueFhpY1FFLWRVTktfN2dKNG8yS1JnbUFZUE96WlBuRkhKODhoNmtuTHFpbmc?oc=5",
         "publishedAt": "2026-08-05T00:00:00.000Z"
       },
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-05T03:36:16.000Z"
       },
       {
-        "time": "16:19",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-08-05T07:19:01.000Z"
-      },
-      {
         "time": "14:30",
         "title": "CNCアングルヘッドの世界市場（2026年～2032年）、市場規模（軽量CNCアングルヘッド、重量CNCアングルヘッド）・分析レポートを発表",
         "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBmOEtXeXRIczV5QXY1WDlQTzByUjZXQ0FaX3MzblEwV0JoaDFGVmNPajdJVHRnVW51cmQzaVlzWmVMWVo3d0I0?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zZ2Z6SEdxdWZGWHFlQTkyejBIbERKQUs1VEZMS3ZQTVJ6cmxTakp5SFpDYkNsbkI1Q3Y0QUZCbWEyRmhTMFYzWjVQcWhWT0E?oc=5",
         "publishedAt": "2026-08-05T05:30:00.000Z"
+      },
+      {
+        "time": "12:07",
+        "title": "自動化時代にあえて手動！職人技15社がMOBIOに集結「汎用旋盤技術展」開催",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fNDNFTU9telVaN0tKMVJJSzFxenc5Z2pqTmxOUXM4MHM0Z05rUnpFU1U4VzNHSlhkbk5wV3NlYUh0X2toZGFIdE9nMUFVWGFxcXZteW1WXzVJN1E?oc=5",
+        "publishedAt": "2026-08-05T03:07:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "07:28",
+        "title": "SBI新生銀行 地銀20行超と連携へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590680?source=rss",
+        "publishedAt": "2026-08-05T22:28:00.000Z"
+      },
+      {
         "time": "18:54",
         "title": "イオン熊本の爆発 LPガス原因か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590647?source=rss",
         "publishedAt": "2026-08-05T09:54:45.000Z"
-      },
-      {
-        "time": "16:44",
-        "title": "爆発巡り イオンが事故調査委設置",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590622?source=rss",
-        "publishedAt": "2026-08-05T07:44:11.000Z"
       },
       {
         "time": "17:40",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-08-05T06:31:01.000Z"
       },
       {
-        "time": "12:47",
-        "title": "新水俣-鹿児島中央 新幹線再開へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590599?source=rss",
-        "publishedAt": "2026-08-05T03:47:19.000Z"
-      },
-      {
         "time": "12:11",
         "title": "オンワード 貴重品携行を義務付け",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590595?source=rss",
         "publishedAt": "2026-08-05T03:11:05.000Z"
+      },
+      {
+        "time": "07:26",
+        "title": "「パチンコ」法人数 10年間で半減",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590679?source=rss",
+        "publishedAt": "2026-08-05T22:26:10.000Z"
       }
     ],
     "localHeadlines": [

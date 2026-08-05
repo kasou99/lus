@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T22:00:06.505Z",
+  "updatedAt": "2026-08-05T22:30:26.586Z",
   "items": [
     {
       "time": "06:25",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "台風13号あす沖縄に最接近 警戒を"
     },
     {
+      "time": "06:59",
+      "title": "消費減税1% 外食に「割高感」も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590677?source=rss",
+      "publishedAt": "2026-08-05T21:59:07.000Z",
+      "xQuery": "消費減税1% 外食に「割高感」も"
+    },
+    {
       "time": "22:56",
       "title": "住宅全焼4人遺体 叫び声聞こえた",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590671?source=rss",
       "publishedAt": "2026-08-05T14:20:20.000Z",
       "xQuery": "立体駐車場から車が転落 77歳重体"
-    },
-    {
-      "time": "23:16",
-      "title": "スペースXロケット残骸 月衝突か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590670?source=rss",
-      "publishedAt": "2026-08-05T14:16:27.000Z",
-      "xQuery": "スペースXロケット残骸 月衝突か"
     }
   ]
 };
