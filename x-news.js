@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T10:22:38.726Z",
+  "updatedAt": "2026-08-05T11:19:20.197Z",
   "items": [
     {
-      "time": "18:12",
-      "title": "消費減税の閣議決定 首相コメント",
+      "time": "15:41",
+      "title": "8月も高温傾向続く 今後の見通し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590642?source=rss",
-      "publishedAt": "2026-08-05T09:12:48.000Z",
-      "xQuery": "消費減税の閣議決定 首相コメント"
+      "url": "https://news.yahoo.co.jp/pickup/6590615?source=rss",
+      "publishedAt": "2026-08-05T06:41:18.000Z",
+      "xQuery": "8月も高温傾向続く 今後の見通し"
     },
     {
-      "time": "17:28",
-      "title": "オバマ氏と抱擁した夫 遺志継ぐ妻",
+      "time": "16:44",
+      "title": "爆発巡り イオンが事故調査委設置",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590626?source=rss",
-      "publishedAt": "2026-08-05T08:28:59.000Z",
-      "xQuery": "オバマ氏と抱擁した夫 遺志継ぐ妻"
+      "url": "https://news.yahoo.co.jp/pickup/6590622?source=rss",
+      "publishedAt": "2026-08-05T07:44:11.000Z",
+      "xQuery": "爆発巡り イオンが事故調査委設置"
+    },
+    {
+      "time": "19:53",
+      "title": "露がウ首都周辺を攻撃 17人が死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590654?source=rss",
+      "publishedAt": "2026-08-05T10:53:29.000Z",
+      "xQuery": "露がウ首都周辺を攻撃 17人が死亡"
     },
     {
       "time": "18:54",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590632?source=rss",
       "publishedAt": "2026-08-05T08:40:47.000Z",
       "xQuery": "6人デスクワーク中死亡 日本製紙"
-    },
-    {
-      "time": "11:48",
-      "title": "指摘に部下怒り 心身崩し上司退職",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590591?source=rss",
-      "publishedAt": "2026-08-05T02:48:52.000Z",
-      "xQuery": "指摘に部下怒り 心身崩し上司退職"
     }
   ]
 };

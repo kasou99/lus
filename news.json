@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T10:22:37.977Z",
+  "updatedAt": "2026-08-05T11:19:19.646Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-05T03:36:16.000Z"
       },
       {
+        "time": "14:30",
+        "title": "CNCアングルヘッドの世界市場（2026年～2032年）、市場規模（軽量CNCアングルヘッド、重量CNCアングルヘッド）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zZ2Z6SEdxdWZGWHFlQTkyejBIbERKQUs1VEZMS3ZQTVJ6cmxTakp5SFpDYkNsbkI1Q3Y0QUZCbWEyRmhTMFYzWjVQcWhWT0E?oc=5",
+        "publishedAt": "2026-08-05T05:30:00.000Z"
+      },
+      {
         "time": "06:02",
         "title": "四国電力などが研究発表会／最新の取り組み共有 –",
         "source": "電気新聞ウェブサイト",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUQ0gtdzh6d25PVVhZMlFfTTFLaEgzMEhDRW1nbV9udHNlX0xJTjJVUkQ0Zmd5M1NXVlA2bHdkUzQ4SVFDNkZxeUd6dGNJS1FKUkZnd0w2Yw?oc=5",
         "publishedAt": "2026-08-04T21:02:21.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "地域の現場から支局便り（22）東海中小、東京・青梅を視察 新事業の “種” 探る",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82Y0VQTUI4cVFhb01FN01pNGNnUjEtYXFzYVVoQ1dkb0FoeDRXRmpReWhiU3JscDdKZndRR3dpamhTaHVNQkNwdkRiNHBmeEE2R2l3Y3BCSENjRXFjMlZDRm5aV2swX0ljZFNpb2NyRzhFNHVI?oc=5",
-        "publishedAt": "2026-08-04T21:00:03.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590588?source=rss",
         "publishedAt": "2026-08-05T02:49:49.000Z"
+      },
+      {
+        "time": "19:53",
+        "title": "露がウ首都周辺を攻撃 17人が死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590654?source=rss",
+        "publishedAt": "2026-08-05T10:53:29.000Z"
       },
       {
         "time": "09:20",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590607?source=rss",
         "publishedAt": "2026-08-05T04:52:10.000Z"
-      },
-      {
-        "time": "17:42",
-        "title": "デンマーク新兵役制度 20%が女性",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590516?source=rss",
-        "publishedAt": "2026-08-04T08:42:37.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "17:28",
-        "title": "オバマ氏と抱擁した夫 遺志継ぐ妻",
+        "time": "19:28",
+        "title": "オバマ氏と抱擁 急逝した夫の遺志",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590626?source=rss",
-        "publishedAt": "2026-08-05T08:28:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590653?source=rss",
+        "publishedAt": "2026-08-05T10:28:14.000Z"
       },
       {
         "time": "18:15",
