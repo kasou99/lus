@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T04:36:08.582Z",
+  "updatedAt": "2026-08-05T05:58:34.753Z",
   "items": [
     {
-      "time": "12:47",
-      "title": "新水俣-鹿児島中央 新幹線再開へ",
+      "time": "14:16",
+      "title": "同級生たちの死 戦後に知り負い目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590599?source=rss",
-      "publishedAt": "2026-08-05T03:47:19.000Z",
-      "xQuery": "新水俣-鹿児島中央 新幹線再開へ"
+      "url": "https://news.yahoo.co.jp/pickup/6590606?source=rss",
+      "publishedAt": "2026-08-05T05:16:45.000Z",
+      "xQuery": "同級生たちの死 戦後に知り負い目"
+    },
+    {
+      "time": "13:51",
+      "title": "首相の視察動画にBGM 木原氏説明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590604?source=rss",
+      "publishedAt": "2026-08-05T04:51:27.000Z",
+      "xQuery": "首相の視察動画にBGM 木原氏説明"
     },
     {
       "time": "12:11",
-      "title": "台風13号 沖縄で影響が長引く恐れ",
+      "title": "オンワード 貴重品携行を義務付け",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590590?source=rss",
-      "publishedAt": "2026-08-05T03:11:15.000Z",
-      "xQuery": "台風13号 沖縄で影響が長引く恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6590595?source=rss",
+      "publishedAt": "2026-08-05T03:11:05.000Z",
+      "xQuery": "オンワード 貴重品携行を義務付け"
     },
     {
-      "time": "11:49",
-      "title": "北朝鮮 日本のトマホーク試射批判",
+      "time": "13:40",
+      "title": "韓国警察がスタバを家宅捜索 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590588?source=rss",
-      "publishedAt": "2026-08-05T02:49:49.000Z",
-      "xQuery": "北朝鮮 日本のトマホーク試射批判"
+      "url": "https://news.yahoo.co.jp/pickup/6590603?source=rss",
+      "publishedAt": "2026-08-05T04:40:40.000Z",
+      "xQuery": "韓国警察がスタバを家宅捜索 報道"
     },
     {
-      "time": "13:06",
-      "title": "台船に女性遺体 死亡の夫書類送検",
+      "time": "12:43",
+      "title": "点滴に大便混入事件 裁判の焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590601?source=rss",
-      "publishedAt": "2026-08-05T04:06:19.000Z",
-      "xQuery": "台船に女性遺体 死亡の夫書類送検"
-    },
-    {
-      "time": "11:27",
-      "title": "トラックと衝突し車炎上 1人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590585?source=rss",
-      "publishedAt": "2026-08-05T02:27:30.000Z",
-      "xQuery": "トラックと衝突し車炎上 1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590594?source=rss",
+      "publishedAt": "2026-08-05T03:43:27.000Z",
+      "xQuery": "点滴に大便混入事件 裁判の焦点"
     }
   ]
 };

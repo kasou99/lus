@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-08-05T04:36:07.821Z",
+  "updatedAt": "2026-08-05T05:58:33.149Z",
   "groups": {
     "machineHeadlines": [
       {
+        "time": "13:00",
+        "title": "マザックが最大加工径910mmのCNC旋盤、大径および長尺ワーク向け：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TVExsMFdUbENxSkNWckY5NFNvUGpycGxfNGJuOEVTREE3R29hR2l4VVZqU1hKaFJuRVJ6LU9YVmJIcEtoaWJUUzhiLUhtM05PUmVkRW05Q2g4UVFwQmMzWlpOS2E4RFUtTWNnTlFiQQ?oc=5",
+        "publishedAt": "2026-08-05T04:00:00.000Z"
+      },
+      {
         "time": "13:30",
         "title": "「工作機械市場規模、シェア、動向、2033年までの世界予測」市場調査レポートの出版・販売開始のご案内",
-        "source": "dreamnews.jp",
+        "source": "ドリームニュース",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01QThlTFluQXBsYTZtc1J6RXhOZVdRWUk3bGZPQWtHQVNQNm52RFplZUFCT3VmVXRRU3FhRF9QRUFpSFVfOVhfR2U0VmY4MjA0VlJr?oc=5",
         "publishedAt": "2026-08-05T04:30:00.000Z"
       },
@@ -24,18 +31,18 @@
         "publishedAt": "2026-08-05T00:00:03.000Z"
       },
       {
+        "time": "12:36",
+        "title": "ジェイテクト、三井精機株売却も連携継続",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hdTg4R1U5UVBCcG02MFlCYzg3T1JvRzVvcWd1QmhNdEFwWnZvMnJWT3JtejNMMkEyb3ZyMVZWejZJS1B4Zm9ESQ?oc=5",
+        "publishedAt": "2026-08-05T03:36:16.000Z"
+      },
+      {
         "time": "06:02",
         "title": "四国電力などが研究発表会／最新の取り組み共有 –",
         "source": "電気新聞ウェブサイト",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUQ0gtdzh6d25PVVhZMlFfTTFLaEgzMEhDRW1nbV9udHNlX0xJTjJVUkQ0Zmd5M1NXVlA2bHdkUzQ4SVFDNkZxeUd6dGNJS1FKUkZnd0w2Yw?oc=5",
         "publishedAt": "2026-08-04T21:02:21.000Z"
-      },
-      {
-        "time": "06:30",
-        "title": "脱自動車でもDMG森精機が業績再上方修正、2028年度にピーク利益計画：製造マネジメントニュース（1/2 ページ）",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YMkNkM0RNN0lzQVViQkYyZVhCWHpyWi1NVzRBWGltQlU3SVdrWWhSbzlHMFA2VnhBRG9sYjBPcUdZb292Sk9iWjhNRF9GRk5DSFR4WjYySmlrZS1NVU53T1R1RkRBZ0xvcVJJa211OA?oc=5",
-        "publishedAt": "2026-08-04T21:30:00.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UOWV4T2FPT2JvclpLX2hSMXNXcDQtMnhTMV95MW1tcTBiSE5fQjdMSngzUGFuSVhaNWF3QXpoSXJwNGNqdmlsbnlvaXJzY1FxQnJBckhxUUZKUGVVN0xQcA?oc=5",
         "publishedAt": "2026-08-04T10:30:00.000Z"
-      },
-      {
-        "time": "07:50",
-        "title": "フジムラ製作所が切削加工部門を拡充 ～約1億8,000万円を投じ5軸MCや自動旋盤を導入～ - | 製造現場ドットコム",
-        "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tQjNpRWpqV1BodkEwR1RfNG9sV0NRdlZYN3hYZXNldVJRX1NReTFBWUpQZ0dKR0QzbXY3OGx1SGhqYzJheWlZR3NB?oc=5",
-        "publishedAt": "2026-08-04T22:50:44.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,13 +75,6 @@
         "publishedAt": "2026-08-05T00:20:28.000Z"
       },
       {
-        "time": "09:48",
-        "title": "ウ軍が露ビーチに攻撃 7人が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590463?source=rss",
-        "publishedAt": "2026-08-04T00:48:55.000Z"
-      },
-      {
         "time": "06:26",
         "title": "ウ大統領 対日関係の強化を指示",
         "source": "Yahoo!ニュース",
@@ -94,6 +87,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590458?source=rss",
         "publishedAt": "2026-08-04T00:06:55.000Z"
+      },
+      {
+        "time": "13:52",
+        "title": "米大統領が米石油大手批判 今後は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590607?source=rss",
+        "publishedAt": "2026-08-05T04:52:10.000Z"
       },
       {
         "time": "17:42",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:16",
+        "title": "同級生たちの死 戦後に知り負い目",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590606?source=rss",
+        "publishedAt": "2026-08-05T05:16:45.000Z"
+      },
+      {
         "time": "21:43",
         "title": "イオン爆発 告別式に飾ったドレス",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590563?source=rss",
         "publishedAt": "2026-08-04T22:58:31.000Z"
-      },
-      {
-        "time": "12:30",
-        "title": "刃物持つ男に警官発砲 法的には",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590598?source=rss",
-        "publishedAt": "2026-08-05T03:30:27.000Z"
       }
     ],
     "subsidyHeadlines": [
