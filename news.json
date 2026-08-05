@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T16:11:09.120Z",
+  "updatedAt": "2026-08-05T17:03:16.271Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -18,8 +18,8 @@
       },
       {
         "time": "18:10",
-        "title": "南信工科短大でオープン講座｜ニュース",
-        "source": "伊那谷ねっと",
+        "title": "南信工科短大でオープン講座｜ニュース - ina-dani.net",
+        "source": "ina-dani.net",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15SWpYT3FmaEl1TTl1Tkp4VWFETXNnTW55ZGJ6V012b2FuSEg4bGg3MWZzUFY4VllvZ0ZpQWtxWFVfZTlsU3hiaEZLc0JoeUY1b2xwTTFSYw?oc=5",
         "publishedAt": "2026-08-05T09:10:16.000Z"
       },
@@ -38,6 +38,13 @@
         "publishedAt": "2026-08-05T03:36:16.000Z"
       },
       {
+        "time": "16:19",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-08-05T07:19:01.000Z"
+      },
+      {
         "time": "06:02",
         "title": "四国電力などが研究発表会／最新の取り組み共有 –",
         "source": "電気新聞ウェブサイト",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82Y0VQTUI4cVFhb01FN01pNGNnUjEtYXFzYVVoQ1dkb0FoeDRXRmpReWhiU3JscDdKZndRR3dpamhTaHVNQkNwdkRiNHBmeEE2R2l3Y3BCSENjRXFjMlZDRm5aV2swX0ljZFNpb2NyRzhFNHVI?oc=5",
         "publishedAt": "2026-08-04T21:00:03.000Z"
-      },
-      {
-        "time": "14:02",
-        "title": "【ビーストオブリンカネーション】エピソード8「蟲食い」の攻略チャート",
-        "source": "AppMedia",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsRWdkR3plLWhlUDQxOW9QNnNzSzg3UWdjMEFPSldIcEpYLTlWVWVNNHp3Z1JzMmhjLXN6LWFMX3VjYnJYZGdxR1REck5EWVFxVzF3NXI3czBlS3hadlAzOQ?oc=5",
-        "publishedAt": "2026-08-05T05:02:01.000Z"
       }
     ],
     "worldHeadlines": [
