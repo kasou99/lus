@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T05:58:33.149Z",
+  "updatedAt": "2026-08-05T07:05:25.753Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-08-05T04:30:00.000Z"
       },
       {
+        "time": "09:00",
+        "title": "次世代設備保全クラウドの株式会社M2X、日興薬品工業株式会社の導入事例を公開",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkdjM1R1BDbWFyVXBrTTVEWFJyTnZxLWduZmFjcEhjV0lhb2EwSlkyNkpRSlY5eHdCWUtHUkRabEpSZEh1R08xc0F1YWVLYXVpNzF3aVRNWDhJR2g5SnJQT2dNRkhVekh4dEE?oc=5",
+        "publishedAt": "2026-08-05T00:00:03.000Z"
+      },
+      {
         "time": "07:50",
         "title": "2026年6月分工作機械受注総額は2033.8億円 - | 製造現場ドットコム",
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1aa1FDZUlRU2x6bm5SdC05YU15b3pmZHEyUFRXWVF5TmZWNjlWUVBQWnpmWWFtVG1ESmZXTXZtYy1FbmVQVUh2SFdn?oc=5",
         "publishedAt": "2026-08-04T22:50:44.000Z"
-      },
-      {
-        "time": "09:00",
-        "title": "次世代設備保全クラウドの株式会社M2X、日興薬品工業株式会社の導入事例を公開",
-        "source": "産経ニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrSE16SG4wdU1aSDE5YUxxUTBMMFR0S0xFN0w1V0p1UElmemNyaWR3VUQ2cmg1OC1NVkxTdnhxY0NsellVeEpRbzV3WVVqNmUya2xJVF8zd3RCNUd1X3BKRWJfTTIxbE56YnRZc3F2OHZlT29sTXBFS1JMVQ?oc=5",
-        "publishedAt": "2026-08-05T00:00:03.000Z"
       },
       {
         "time": "12:36",
@@ -54,7 +54,7 @@
       {
         "time": "19:30",
         "title": "AI需要が追い風、設備投資拡大で「機械」関連株に台頭する再評価の潮流 ＜株探トップ特集＞",
-        "source": "株探",
+        "source": "kabutan.jp",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UOWV4T2FPT2JvclpLX2hSMXNXcDQtMnhTMV95MW1tcTBiSE5fQjdMSngzUGFuSVhaNWF3QXpoSXJwNGNqdmlsbnlvaXJzY1FxQnJBckhxUUZKUGVVN0xQcA?oc=5",
         "publishedAt": "2026-08-04T10:30:00.000Z"
       }
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "15:31",
+        "title": "日本製紙会見 社長「深くおわび」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590614?source=rss",
+        "publishedAt": "2026-08-05T06:31:01.000Z"
+      },
+      {
         "time": "12:47",
         "title": "新水俣-鹿児島中央 新幹線再開へ",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590567?source=rss",
         "publishedAt": "2026-08-04T23:56:06.000Z"
-      },
-      {
-        "time": "08:39",
-        "title": "避難後なぜ再入館 証言からの実態",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590566?source=rss",
-        "publishedAt": "2026-08-04T23:39:33.000Z"
       },
       {
         "time": "13:14",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-08-05T01:43:44.000Z"
       },
       {
-        "time": "13:06",
-        "title": "台船に女性遺体 死亡の夫書類送検",
+        "time": "15:17",
+        "title": "車と自転車が衝突 6歳が意識不明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590601?source=rss",
-        "publishedAt": "2026-08-05T04:06:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590611?source=rss",
+        "publishedAt": "2026-08-05T06:17:49.000Z"
       },
       {
         "time": "07:58",

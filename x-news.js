@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T05:58:34.753Z",
+  "updatedAt": "2026-08-05T07:05:26.438Z",
   "items": [
+    {
+      "time": "13:52",
+      "title": "米大統領が米石油大手批判 今後は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590607?source=rss",
+      "publishedAt": "2026-08-05T04:52:10.000Z",
+      "xQuery": "米大統領が米石油大手批判 今後は"
+    },
     {
       "time": "14:16",
       "title": "同級生たちの死 戦後に知り負い目",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "同級生たちの死 戦後に知り負い目"
     },
     {
-      "time": "13:51",
-      "title": "首相の視察動画にBGM 木原氏説明",
+      "time": "15:31",
+      "title": "日本製紙会見 社長「深くおわび」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590604?source=rss",
-      "publishedAt": "2026-08-05T04:51:27.000Z",
-      "xQuery": "首相の視察動画にBGM 木原氏説明"
-    },
-    {
-      "time": "12:11",
-      "title": "オンワード 貴重品携行を義務付け",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590595?source=rss",
-      "publishedAt": "2026-08-05T03:11:05.000Z",
-      "xQuery": "オンワード 貴重品携行を義務付け"
+      "url": "https://news.yahoo.co.jp/pickup/6590614?source=rss",
+      "publishedAt": "2026-08-05T06:31:01.000Z",
+      "xQuery": "日本製紙会見 社長「深くおわび」"
     },
     {
       "time": "13:40",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "韓国警察がスタバを家宅捜索 報道"
     },
     {
-      "time": "12:43",
-      "title": "点滴に大便混入事件 裁判の焦点",
+      "time": "15:17",
+      "title": "車と自転車が衝突 6歳が意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590594?source=rss",
-      "publishedAt": "2026-08-05T03:43:27.000Z",
-      "xQuery": "点滴に大便混入事件 裁判の焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6590611?source=rss",
+      "publishedAt": "2026-08-05T06:17:49.000Z",
+      "xQuery": "車と自転車が衝突 6歳が意識不明"
     }
   ]
 };
