@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T21:29:58.974Z",
+  "updatedAt": "2026-08-05T22:00:06.505Z",
   "items": [
     {
       "time": "06:25",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "原爆投下81年 核リスク高まる現在"
     },
     {
-      "time": "22:30",
-      "title": "かき氷の名店 熊本地震で涙の解体",
+      "time": "06:49",
+      "title": "台風13号あす沖縄に最接近 警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590665?source=rss",
-      "publishedAt": "2026-08-05T13:30:54.000Z",
-      "xQuery": "かき氷の名店 熊本地震で涙の解体"
+      "url": "https://news.yahoo.co.jp/pickup/6590676?source=rss",
+      "publishedAt": "2026-08-05T21:49:18.000Z",
+      "xQuery": "台風13号あす沖縄に最接近 警戒を"
     },
     {
       "time": "22:56",
