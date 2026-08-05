@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T12:13:26.337Z",
+  "updatedAt": "2026-08-05T13:06:49.813Z",
   "items": [
     {
       "time": "18:15",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590635?source=rss",
       "publishedAt": "2026-08-05T09:15:08.000Z",
       "xQuery": "被爆時は1歳 家族の証言継ぐ女性"
+    },
+    {
+      "time": "21:55",
+      "title": "政府AIを被災自治体に提供 利点は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590639?source=rss",
+      "publishedAt": "2026-08-05T12:55:06.000Z",
+      "xQuery": "政府AIを被災自治体に提供 利点は"
     },
     {
       "time": "15:41",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "消費減税巡り 野党が一斉に批判"
     },
     {
-      "time": "19:53",
-      "title": "露がウ首都周辺を攻撃 17人が死亡",
+      "time": "21:42",
+      "title": "職員の性被害巡り NHKが対応謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590654?source=rss",
-      "publishedAt": "2026-08-05T10:53:29.000Z",
-      "xQuery": "露がウ首都周辺を攻撃 17人が死亡"
-    },
-    {
-      "time": "18:54",
-      "title": "イオン熊本の爆発 LPガス原因か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590647?source=rss",
-      "publishedAt": "2026-08-05T09:54:45.000Z",
-      "xQuery": "イオン熊本の爆発 LPガス原因か"
+      "url": "https://news.yahoo.co.jp/pickup/6590660?source=rss",
+      "publishedAt": "2026-08-05T12:42:13.000Z",
+      "xQuery": "職員の性被害巡り NHKが対応謝罪"
     }
   ]
 };

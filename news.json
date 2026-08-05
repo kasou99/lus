@@ -1,25 +1,18 @@
 {
-  "updatedAt": "2026-08-05T12:13:25.797Z",
+  "updatedAt": "2026-08-05T13:06:49.021Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "13:00",
         "title": "マザックが最大加工径910mmのCNC旋盤、大径および長尺ワーク向け：工作機械",
-        "source": "monoist.itmedia.co.jp",
+        "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TVExsMFdUbENxSkNWckY5NFNvUGpycGxfNGJuOEVTREE3R29hR2l4VVZqU1hKaFJuRVJ6LU9YVmJIcEtoaWJUUzhiLUhtM05PUmVkRW05Q2g4UVFwQmMzWlpOS2E4RFUtTWNnTlFiQQ?oc=5",
         "publishedAt": "2026-08-05T04:00:00.000Z"
       },
       {
-        "time": "13:30",
-        "title": "「工作機械市場規模、シェア、動向、2033年までの世界予測」市場調査レポートの出版・販売開始のご案内",
-        "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01QThlTFluQXBsYTZtc1J6RXhOZVdRWUk3bGZPQWtHQVNQNm52RFplZUFCT3VmVXRRU3FhRF9QRUFpSFVfOVhfR2U0VmY4MjA0VlJr?oc=5",
-        "publishedAt": "2026-08-05T04:30:00.000Z"
-      },
-      {
         "time": "09:00",
         "title": "次世代設備保全クラウドの株式会社M2X、日興薬品工業株式会社の導入事例を公開",
-        "source": "prtimes.jp",
+        "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkdjM1R1BDbWFyVXBrTTVEWFJyTnZxLWduZmFjcEhjV0lhb2EwSlkyNkpRSlY5eHdCWUtHUkRabEpSZEh1R08xc0F1YWVLYXVpNzF3aVRNWDhJR2g5SnJQT2dNRkhVekh4dEE?oc=5",
         "publishedAt": "2026-08-05T00:00:03.000Z"
       },
@@ -57,6 +50,13 @@
         "source": "電気新聞ウェブサイト",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUQ0gtdzh6d25PVVhZMlFfTTFLaEgzMEhDRW1nbV9udHNlX0xJTjJVUkQ0Zmd5M1NXVlA2bHdkUzQ4SVFDNkZxeUd6dGNJS1FKUkZnd0w2Yw?oc=5",
         "publishedAt": "2026-08-04T21:02:21.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "地域の現場から支局便り（22）東海中小、東京・青梅を視察 新事業の “種” 探る",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82Y0VQTUI4cVFhb01FN01pNGNnUjEtYXFzYVVoQ1dkb0FoeDRXRmpReWhiU3JscDdKZndRR3dpamhTaHVNQkNwdkRiNHBmeEE2R2l3Y3BCSENjRXFjMlZDRm5aV2swX0ljZFNpb2NyRzhFNHVI?oc=5",
+        "publishedAt": "2026-08-04T21:00:03.000Z"
       }
     ],
     "worldHeadlines": [
