@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T13:06:49.021Z",
+  "updatedAt": "2026-08-05T14:18:39.118Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-08-04T21:02:21.000Z"
       },
       {
-        "time": "06:00",
-        "title": "地域の現場から支局便り（22）東海中小、東京・青梅を視察 新事業の “種” 探る",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82Y0VQTUI4cVFhb01FN01pNGNnUjEtYXFzYVVoQ1dkb0FoeDRXRmpReWhiU3JscDdKZndRR3dpamhTaHVNQkNwdkRiNHBmeEE2R2l3Y3BCSENjRXFjMlZDRm5aV2swX0ljZFNpb2NyRzhFNHVI?oc=5",
-        "publishedAt": "2026-08-04T21:00:03.000Z"
+        "time": "07:50",
+        "title": "フジムラ製作所が切削加工部門を拡充 ～約1億8,000万円を投じ5軸MCや自動旋盤を導入～ - | 製造現場ドットコム",
+        "source": "| 製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tQjNpRWpqV1BodkEwR1RfNG9sV0NRdlZYN3hYZXNldVJRX1NReTFBWUpQZ0dKR0QzbXY3OGx1SGhqYzJheWlZR3NB?oc=5",
+        "publishedAt": "2026-08-04T22:50:44.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,11 +163,18 @@
         "publishedAt": "2026-08-05T09:15:08.000Z"
       },
       {
-        "time": "14:16",
-        "title": "同級生たちの死 戦後に知り負い目",
+        "time": "22:30",
+        "title": "かき氷の名店 熊本地震で涙の解体",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590606?source=rss",
-        "publishedAt": "2026-08-05T05:16:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590665?source=rss",
+        "publishedAt": "2026-08-05T13:30:54.000Z"
+      },
+      {
+        "time": "22:56",
+        "title": "住宅全焼4人遺体 叫び声聞こえた",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590669?source=rss",
+        "publishedAt": "2026-08-05T13:56:04.000Z"
       },
       {
         "time": "17:28",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590628?source=rss",
         "publishedAt": "2026-08-05T08:28:12.000Z"
-      },
-      {
-        "time": "15:17",
-        "title": "車と自転車が衝突 6歳が意識不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590611?source=rss",
-        "publishedAt": "2026-08-05T06:17:49.000Z"
       },
       {
         "time": "18:30",

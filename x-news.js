@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T13:06:49.813Z",
+  "updatedAt": "2026-08-05T14:18:39.846Z",
   "items": [
     {
       "time": "18:15",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "被爆時は1歳 家族の証言継ぐ女性"
     },
     {
-      "time": "21:55",
-      "title": "政府AIを被災自治体に提供 利点は",
+      "time": "22:30",
+      "title": "かき氷の名店 熊本地震で涙の解体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590639?source=rss",
-      "publishedAt": "2026-08-05T12:55:06.000Z",
-      "xQuery": "政府AIを被災自治体に提供 利点は"
+      "url": "https://news.yahoo.co.jp/pickup/6590665?source=rss",
+      "publishedAt": "2026-08-05T13:30:54.000Z",
+      "xQuery": "かき氷の名店 熊本地震で涙の解体"
     },
     {
-      "time": "15:41",
-      "title": "8月も高温傾向続く 今後の見通し",
+      "time": "22:56",
+      "title": "住宅全焼4人遺体 叫び声聞こえた",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590615?source=rss",
-      "publishedAt": "2026-08-05T06:41:18.000Z",
-      "xQuery": "8月も高温傾向続く 今後の見通し"
+      "url": "https://news.yahoo.co.jp/pickup/6590669?source=rss",
+      "publishedAt": "2026-08-05T13:56:04.000Z",
+      "xQuery": "住宅全焼4人遺体 叫び声聞こえた"
     },
     {
-      "time": "20:11",
-      "title": "消費減税巡り 野党が一斉に批判",
+      "time": "17:28",
+      "title": "地中から筒出現 責任は施工受注者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590655?source=rss",
-      "publishedAt": "2026-08-05T11:11:08.000Z",
-      "xQuery": "消費減税巡り 野党が一斉に批判"
+      "url": "https://news.yahoo.co.jp/pickup/6590628?source=rss",
+      "publishedAt": "2026-08-05T08:28:12.000Z",
+      "xQuery": "地中から筒出現 責任は施工受注者"
     },
     {
-      "time": "21:42",
-      "title": "職員の性被害巡り NHKが対応謝罪",
+      "time": "21:16",
+      "title": "日産の新型キックス 売れ行き好調",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590660?source=rss",
-      "publishedAt": "2026-08-05T12:42:13.000Z",
-      "xQuery": "職員の性被害巡り NHKが対応謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6590659?source=rss",
+      "publishedAt": "2026-08-05T12:16:14.000Z",
+      "xQuery": "日産の新型キックス 売れ行き好調"
     }
   ]
 };
