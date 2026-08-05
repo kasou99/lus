@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T07:05:25.753Z",
+  "updatedAt": "2026-08-05T08:20:47.776Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,16 +45,16 @@
         "publishedAt": "2026-08-04T21:02:21.000Z"
       },
       {
-        "time": "05:00",
-        "title": "インタビュー／ブラザー工業社長・池田和史氏 小型MC倍増に手応え",
+        "time": "06:00",
+        "title": "地域の現場から支局便り（22）東海中小、東京・青梅を視察 新事業の “種” 探る",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tVmRQWDZTc003bE55ai1fRHlFaF9rYWhXVjI4TEdIQXduSFBkYjdUbEVhNkJUWDQ1UnNNcXA0bDduXzA2cHl1SU1odkdCN0lWUzBTZEdPYUhRZG8?oc=5",
-        "publishedAt": "2026-08-04T20:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82Y0VQTUI4cVFhb01FN01pNGNnUjEtYXFzYVVoQ1dkb0FoeDRXRmpReWhiU3JscDdKZndRR3dpamhTaHVNQkNwdkRiNHBmeEE2R2l3Y3BCSENjRXFjMlZDRm5aV2swX0ljZFNpb2NyRzhFNHVI?oc=5",
+        "publishedAt": "2026-08-04T21:00:03.000Z"
       },
       {
         "time": "19:30",
         "title": "AI需要が追い風、設備投資拡大で「機械」関連株に台頭する再評価の潮流 ＜株探トップ特集＞",
-        "source": "kabutan.jp",
+        "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UOWV4T2FPT2JvclpLX2hSMXNXcDQtMnhTMV95MW1tcTBiSE5fQjdMSngzUGFuSVhaNWF3QXpoSXJwNGNqdmlsbnlvaXJzY1FxQnJBckhxUUZKUGVVN0xQcA?oc=5",
         "publishedAt": "2026-08-04T10:30:00.000Z"
       }
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "16:44",
+        "title": "爆発巡り イオンが事故調査委設置",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590622?source=rss",
+        "publishedAt": "2026-08-05T07:44:11.000Z"
+      },
+      {
         "time": "15:31",
         "title": "日本製紙会見 社長「深くおわび」",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590595?source=rss",
         "publishedAt": "2026-08-05T03:11:05.000Z"
-      },
-      {
-        "time": "11:48",
-        "title": "指摘に部下怒り 心身崩し上司退職",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590591?source=rss",
-        "publishedAt": "2026-08-05T02:48:52.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,11 +170,11 @@
         "publishedAt": "2026-08-05T02:27:30.000Z"
       },
       {
-        "time": "10:43",
-        "title": "住宅が全焼 3人の死亡確認",
+        "time": "16:50",
+        "title": "住宅の火事で4人の遺体発見 広島",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590580?source=rss",
-        "publishedAt": "2026-08-05T01:43:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590623?source=rss",
+        "publishedAt": "2026-08-05T07:50:53.000Z"
       },
       {
         "time": "15:17",

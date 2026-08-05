@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T07:05:26.438Z",
+  "updatedAt": "2026-08-05T08:20:48.681Z",
   "items": [
     {
-      "time": "13:52",
-      "title": "米大統領が米石油大手批判 今後は",
+      "time": "16:28",
+      "title": "飲食料品の消費税率1% 閣議決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590607?source=rss",
-      "publishedAt": "2026-08-05T04:52:10.000Z",
-      "xQuery": "米大統領が米石油大手批判 今後は"
+      "url": "https://news.yahoo.co.jp/pickup/6590619?source=rss",
+      "publishedAt": "2026-08-05T07:28:39.000Z",
+      "xQuery": "飲食料品の消費税率1% 閣議決定"
     },
     {
-      "time": "14:16",
-      "title": "同級生たちの死 戦後に知り負い目",
+      "time": "17:09",
+      "title": "花火文化に危機感 希望の取り組み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590606?source=rss",
-      "publishedAt": "2026-08-05T05:16:45.000Z",
-      "xQuery": "同級生たちの死 戦後に知り負い目"
+      "url": "https://news.yahoo.co.jp/pickup/6590620?source=rss",
+      "publishedAt": "2026-08-05T08:09:13.000Z",
+      "xQuery": "花火文化に危機感 希望の取り組み"
     },
     {
       "time": "15:31",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日本製紙会見 社長「深くおわび」"
     },
     {
-      "time": "13:40",
-      "title": "韓国警察がスタバを家宅捜索 報道",
+      "time": "16:00",
+      "title": "公園の集団礼拝を市認めず 適切か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590603?source=rss",
-      "publishedAt": "2026-08-05T04:40:40.000Z",
-      "xQuery": "韓国警察がスタバを家宅捜索 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6590617?source=rss",
+      "publishedAt": "2026-08-05T07:00:42.000Z",
+      "xQuery": "公園の集団礼拝を市認めず 適切か"
     },
     {
-      "time": "15:17",
-      "title": "車と自転車が衝突 6歳が意識不明",
+      "time": "16:28",
+      "title": "出演者から性被害 NHK職員が休職",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590611?source=rss",
-      "publishedAt": "2026-08-05T06:17:49.000Z",
-      "xQuery": "車と自転車が衝突 6歳が意識不明"
+      "url": "https://news.yahoo.co.jp/pickup/6590618?source=rss",
+      "publishedAt": "2026-08-05T07:28:39.000Z",
+      "xQuery": "出演者から性被害 NHK職員が休職"
     }
   ]
 };
