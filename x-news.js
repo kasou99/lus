@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-06T11:19:41.787Z",
+  "updatedAt": "2026-08-06T12:14:15.207Z",
   "items": [
     {
-      "time": "20:03",
-      "title": "熊本県で最大震度4 津波心配なし",
+      "time": "20:22",
+      "title": "台風13号は沖縄・奄美に接近 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590783?source=rss",
-      "publishedAt": "2026-08-06T11:03:36.000Z",
-      "xQuery": "熊本県で最大震度4 津波心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6590782?source=rss",
+      "publishedAt": "2026-08-06T11:22:02.000Z",
+      "xQuery": "台風13号は沖縄・奄美に接近 警戒"
     },
     {
       "time": "17:43",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "被爆した姉の遺体 1人で焼いた弟"
     },
     {
-      "time": "18:28",
-      "title": "熊本県 地震犠牲者5人の名前公表",
+      "time": "20:29",
+      "title": "イオン爆発 ガス供給会社コメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590773?source=rss",
-      "publishedAt": "2026-08-06T09:28:22.000Z",
-      "xQuery": "熊本県 地震犠牲者5人の名前公表"
+      "url": "https://news.yahoo.co.jp/pickup/6590785?source=rss",
+      "publishedAt": "2026-08-06T11:29:28.000Z",
+      "xQuery": "イオン爆発 ガス供給会社コメント"
+    },
+    {
+      "time": "20:52",
+      "title": "3年で2.6億円 福岡県議会海外視察",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590788?source=rss",
+      "publishedAt": "2026-08-06T11:52:25.000Z",
+      "xQuery": "3年で2.6億円 福岡県議会海外視察"
     },
     {
       "time": "18:53",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590778?source=rss",
       "publishedAt": "2026-08-06T09:53:40.000Z",
       "xQuery": "エース級の財務官僚人事が波紋"
-    },
-    {
-      "time": "19:04",
-      "title": "茨城県も「パスポート」を発行へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590777?source=rss",
-      "publishedAt": "2026-08-06T10:04:20.000Z",
-      "xQuery": "茨城県も「パスポート」を発行へ"
     }
   ]
 };
