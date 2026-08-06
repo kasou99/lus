@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-06T09:28:11.158Z",
+  "updatedAt": "2026-08-06T10:25:23.290Z",
   "items": [
     {
-      "time": "17:35",
-      "title": "北発射のミサイルはEEZ外落下か",
+      "time": "17:43",
+      "title": "被爆した姉の遺体 1人で焼いた弟",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590759?source=rss",
-      "publishedAt": "2026-08-06T08:35:08.000Z",
-      "xQuery": "北発射のミサイルはEEZ外落下か"
+      "url": "https://news.yahoo.co.jp/pickup/6590760?source=rss",
+      "publishedAt": "2026-08-06T08:43:02.000Z",
+      "xQuery": "被爆した姉の遺体 1人で焼いた弟"
     },
     {
-      "time": "16:49",
-      "title": "原爆当日に学校休む 生き残り葛藤",
+      "time": "18:28",
+      "title": "熊本県 地震犠牲者5人の名前公表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590750?source=rss",
-      "publishedAt": "2026-08-06T07:49:57.000Z",
-      "xQuery": "原爆当日に学校休む 生き残り葛藤"
+      "url": "https://news.yahoo.co.jp/pickup/6590773?source=rss",
+      "publishedAt": "2026-08-06T09:28:22.000Z",
+      "xQuery": "熊本県 地震犠牲者5人の名前公表"
     },
     {
-      "time": "17:01",
-      "title": "大手の夏ボーナス過去最高 経団連",
+      "time": "18:43",
+      "title": "れいわが党名変更「いのちの党」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590752?source=rss",
-      "publishedAt": "2026-08-06T08:01:59.000Z",
-      "xQuery": "大手の夏ボーナス過去最高 経団連"
+      "url": "https://news.yahoo.co.jp/pickup/6590775?source=rss",
+      "publishedAt": "2026-08-06T09:43:20.000Z",
+      "xQuery": "れいわが党名変更「いのちの党」"
     },
     {
-      "time": "18:04",
-      "title": "飲食店利用の192人食中毒 御殿場",
+      "time": "18:53",
+      "title": "エース級の財務官僚人事が波紋",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590763?source=rss",
-      "publishedAt": "2026-08-06T09:04:04.000Z",
-      "xQuery": "飲食店利用の192人食中毒 御殿場"
+      "url": "https://news.yahoo.co.jp/pickup/6590778?source=rss",
+      "publishedAt": "2026-08-06T09:53:40.000Z",
+      "xQuery": "エース級の財務官僚人事が波紋"
     },
     {
       "time": "17:32",

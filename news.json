@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T09:28:10.097Z",
+  "updatedAt": "2026-08-06T10:25:22.458Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-08-06T04:16:00.000Z"
       },
       {
-        "time": "14:00",
-        "title": "鉱物鋳物の世界市場（2026年～2032年）、市場規模（エポキシ樹脂結合型、セメント結合型、その他）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jU3pmc2hiM2dwY1NLVVN2YnhBY3lIZmQ4NG5EanplSlgzd3dEaTBCZGdCdDRVMDFiMXBfS0VneW1GeW1UaHQ2a2hhSmJmZw?oc=5",
-        "publishedAt": "2026-08-06T05:00:00.000Z"
-      },
-      {
         "time": "10:00",
         "title": "ファンレスDINレールPCの世界市場（2026年～2032年）、市場規模（Intel、NVIDIA、AMD）・分析レポートを発表",
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pZ2xvNWtMdzlibndfY3o1X1lHUHRsVlRUR1JBTURjdXBnZUlvMlp6Y3dMUENwN0NoOEUzQVpMSmJGSFk4WHczRTVsYzY?oc=5",
         "publishedAt": "2026-08-06T01:00:00.000Z"
+      },
+      {
+        "time": "14:00",
+        "title": "鉱物鋳物の世界市場（2026年～2032年）、市場規模（エポキシ樹脂結合型、セメント結合型、その他）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jU3pmc2hiM2dwY1NLVVN2YnhBY3lIZmQ4NG5EanplSlgzd3dEaTBCZGdCdDRVMDFiMXBfS0VneW1GeW1UaHQ2a2hhSmJmZw?oc=5",
+        "publishedAt": "2026-08-06T05:00:00.000Z"
       },
       {
         "time": "15:00",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "18:28",
+        "title": "熊本県 地震犠牲者5人の名前公表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590773?source=rss",
+        "publishedAt": "2026-08-06T09:28:22.000Z"
+      },
+      {
         "time": "17:43",
         "title": "被爆した姉の遺体 1人で焼いた弟",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590739?source=rss",
         "publishedAt": "2026-08-06T06:34:07.000Z"
-      },
-      {
-        "time": "09:21",
-        "title": "工場で高さ4.3mから転落 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590692?source=rss",
-        "publishedAt": "2026-08-06T00:21:38.000Z"
       },
       {
         "time": "18:04",
