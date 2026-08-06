@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-06T15:18:15.120Z",
+  "updatedAt": "2026-08-06T23:21:05.515Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "四半期決算＜４～６月期＞＝エンシュウ 工作機械 損益改善",
+        "source": "静岡新聞DIGITAL",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5STjVNTkw2SHNyaEQxdEZlS3BQV3prU1IzLWotMFVDNVZVMEl5ajNNOEgxbEEtamU0ZDExdVM3QXZUdFRGUmZsOE1tYlRJQQ?oc=5",
+        "publishedAt": "2026-08-06T20:00:00.000Z"
+      },
+      {
+        "time": "05:12",
+        "title": "工作機械体験したよ いちい信金、金融教室開く",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92NUJTX3VCeG9iX0RiTm45VHhiYklhelhrTV9QTEk2aGxLcWFBOTRrQWpDWk82N3FSZ0VOSUZoYS04SVFlR1dHRjRCd1o1VWFSdWJSemZhcllCSXRKTkQ4UHI2ZVg2TTgtUERhNWRETEtUaXc?oc=5",
+        "publishedAt": "2026-08-06T20:12:29.000Z"
+      },
       {
         "time": "13:00",
         "title": "独自機能で非切削時間を最適化、中村留が2タレット複合精密CNC旋盤：工作機械",
@@ -17,6 +31,13 @@
         "publishedAt": "2026-08-06T06:30:00.000Z"
       },
       {
+        "time": "04:45",
+        "title": "【機械業界の5年後大予測】ファナック、ダイフク、川崎重工、THK…設備投資拡大の追い風だけでない強さの秘訣と本命企業をトップアナリストが解説",
+        "source": "ダイヤモンド・オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Mc3VQQkZqa2RRZl95NFo3MUZSeDN6WVZBTHJQUVJmcDRDWTVoU0dZTU45RXVkZC05ZXFULXZwYnI2b1hjUjhKREtXNGHSAU9BVV95cUxPb1AyTkZoV2xuczFBZlNVZWNldzZ2SFBEa2dZelJwYUNMc3VmaU1VRTFoR19OM0dHaHRlejFPVzdITk9TdVk4Vkd3c0plNnBv?oc=5",
+        "publishedAt": "2026-08-06T19:45:00.000Z"
+      },
+      {
         "time": "09:00",
         "title": "次世代設備保全クラウド「M2X」が大幅アップデート。ガントチャートで保全計画の進捗を俯瞰し、コストの予実管理を一元化",
         "source": "PR TIMES",
@@ -24,39 +45,18 @@
         "publishedAt": "2026-08-06T00:00:02.000Z"
       },
       {
-        "time": "15:24",
-        "title": "小型低背スイッチング電源にUSB PD対応モデル新ラインアップを追加",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42S0dJeHQ4aXVHakN2Tk12azAyUjh0UXFHcVJIQ18xSW5sVkhfRmFqejIwYTNqOW1NUHpQTXlfUk9OaHI1d0s2Nl9pcmVQOWdhdjE3Nw?oc=5",
-        "publishedAt": "2026-08-06T06:24:11.000Z"
+        "time": "05:00",
+        "title": "プラ物流大手の三甲 三井精機工業へ出資 筆頭株主に、工作機メーカー株取得は初",
+        "source": "47NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IWFNBSVlEdzlSZkJ0Q3c5WU81RkVNNXlQTjFYZ1QwT3g5Ml90Z3ZJQ2ZDUWstR2NKRzk0T2ZFcjJsU1hMTS1kcnlEaw?oc=5",
+        "publishedAt": "2026-08-06T20:00:00.000Z"
       },
       {
-        "time": "14:00",
-        "title": "鉱物鋳物の世界市場（2026年～2032年）、市場規模（エポキシ樹脂結合型、セメント結合型、その他）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9BVUdVWWJRQWlHUTJTOFpWak9lUkVsc0VoMWt3MWhielpORWx0eXE5TVV5YVVsTl85cklvYTVfMTNtNjFySC1v?oc=5",
-        "publishedAt": "2026-08-06T05:00:00.000Z"
-      },
-      {
-        "time": "11:03",
-        "title": "ヒーハイスト Research Memo（3）：主要事業は直動機器、精密部品加工、ユニット製品の3領域",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSEpBYzcwYXBYUWFiOGZjUWhEMFQ0NHZaNGRMc3h4VEViM3NpX0h1WHdSajczS3RKTUVHc0oySERvNGwxWjVHcUp2YmFER05SemtDeDdjMnl2aVZlTjNPTzhNVlFRaE1lU3hfRi1PX1RnYlZoTnotMnZYckVrNWZGLUFPajlvNUhCUjZhetIBjAFBVV95cUxPSEpBYzcwYXBYUWFiOGZjUWhEMFQ0NHZaNGRMc3h4VEViM3NpX0h1WHdSajczS3RKTUVHc0oySERvNGwxWjVHcUp2YmFER05SemtDeDdjMnl2aVZlTjNPTzhNVlFRaE1lU3hfRi1PX1RnYlZoTnotMnZYckVrNWZGLUFPajlvNUhCUjZheg?oc=5",
-        "publishedAt": "2026-08-06T02:03:00.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "オイレス工業[6282]：2027年３月期 第２四半期（中間期）連結業績予想の修正に関するお知らせ 2026年8月6日(適時開示) ：日経会社情報DIGITAL",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oanhIVTBfZU9leC1VSzZsamxUVUNLTV9mQkh5elYxaFRQbFlhLTNhTXltQk9MYWRGNnVtM0dQVGVkM3ZOZHBUZEo3MFBfMy1hVHJMRlBaRERDLWlNbWkwUkE2eTlRYVZtWEE?oc=5",
-        "publishedAt": "2026-08-06T06:00:00.000Z"
-      },
-      {
-        "time": "07:07",
-        "title": "横浜国大、学長直轄でAI戦略統括室設置 教育・研究を高度化",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xZjlwQkdaWW5ZRTBWVkN4R2RSSVZQdkJCcE1OY2hMbk5iMEdlcFh4Ylc2RVF0bUFGVUFWZDZMQkpLU3BDbjRUdFBqU2FydnYxcWplOVUwd3g0SlJ6enVoVWpUMFBvazhFcGF6bDQ5NUdQTHZC?oc=5",
-        "publishedAt": "2026-08-05T22:07:47.000Z"
+        "time": "05:03",
+        "title": "ニコン、営業黒字110億円 米関税還付など寄与",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YMW9yakhnaERBVHFUdXJPLTZwbVZGVXFqSmdPbWtlVTltUldGR3NGenY3ektiQVRRT29fOVlEUV9KTmxVTEpWYWF5anYzM19jUjNDa0R0NlJxTEk?oc=5",
+        "publishedAt": "2026-08-06T20:03:32.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:09",
+        "title": "イオン爆発遺族 本当のこと言って",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590821?source=rss",
+        "publishedAt": "2026-08-06T23:09:41.000Z"
+      },
+      {
         "time": "18:28",
         "title": "熊本県 地震犠牲者5人の名前公表",
         "source": "Yahoo!ニュース",
@@ -163,13 +170,6 @@
         "publishedAt": "2026-08-06T08:43:02.000Z"
       },
       {
-        "time": "22:46",
-        "title": "断水で竹やぶ火災の消火難航 熊本",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590800?source=rss",
-        "publishedAt": "2026-08-06T13:46:00.000Z"
-      },
-      {
         "time": "20:52",
         "title": "3年で2.6億円 福岡県議会海外視察",
         "source": "Yahoo!ニュース",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-08-06T11:52:25.000Z"
       },
       {
-        "time": "18:04",
-        "title": "飲食店利用の192人食中毒 御殿場",
+        "time": "07:31",
+        "title": "バイクと複数車絡む事故 男性死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590763?source=rss",
-        "publishedAt": "2026-08-06T09:04:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590814?source=rss",
+        "publishedAt": "2026-08-06T22:31:59.000Z"
       },
       {
-        "time": "22:34",
-        "title": "名古屋城のお堀のシカ 残り1頭に",
+        "time": "06:56",
+        "title": "18歳死亡 海で遊泳中に溺れたか",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590797?source=rss",
-        "publishedAt": "2026-08-06T13:34:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590810?source=rss",
+        "publishedAt": "2026-08-06T21:56:57.000Z"
       }
     ],
     "subsidyHeadlines": [

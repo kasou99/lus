@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-06T15:18:16.037Z",
+  "updatedAt": "2026-08-06T23:21:06.641Z",
   "items": [
     {
-      "time": "22:38",
-      "title": "避難所巡り格差も 制度の改革急務",
+      "time": "06:39",
+      "title": "台風13号 きょう沖縄・奄美に接近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590799?source=rss",
-      "publishedAt": "2026-08-06T13:38:27.000Z",
-      "xQuery": "避難所巡り格差も 制度の改革急務"
+      "url": "https://news.yahoo.co.jp/pickup/6590809?source=rss",
+      "publishedAt": "2026-08-06T21:39:10.000Z",
+      "xQuery": "台風13号 きょう沖縄・奄美に接近"
     },
     {
-      "time": "22:51",
-      "title": "きのこ雲目撃 復興語る元広島捕手",
+      "time": "07:48",
+      "title": "秋田にAIデータセンター建設へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590802?source=rss",
-      "publishedAt": "2026-08-06T13:51:29.000Z",
-      "xQuery": "きのこ雲目撃 復興語る元広島捕手"
+      "url": "https://news.yahoo.co.jp/pickup/6590818?source=rss",
+      "publishedAt": "2026-08-06T22:48:51.000Z",
+      "xQuery": "秋田にAIデータセンター建設へ"
     },
     {
-      "time": "20:29",
-      "title": "イオン爆発 ガス供給会社コメント",
+      "time": "08:09",
+      "title": "イオン爆発遺族 本当のこと言って",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590785?source=rss",
-      "publishedAt": "2026-08-06T11:29:28.000Z",
-      "xQuery": "イオン爆発 ガス供給会社コメント"
+      "url": "https://news.yahoo.co.jp/pickup/6590821?source=rss",
+      "publishedAt": "2026-08-06T23:09:41.000Z",
+      "xQuery": "イオン爆発遺族 本当のこと言って"
     },
     {
-      "time": "18:53",
-      "title": "エース級の財務官僚人事が波紋",
+      "time": "07:31",
+      "title": "バイクと複数車絡む事故 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590778?source=rss",
-      "publishedAt": "2026-08-06T09:53:40.000Z",
-      "xQuery": "エース級の財務官僚人事が波紋"
+      "url": "https://news.yahoo.co.jp/pickup/6590814?source=rss",
+      "publishedAt": "2026-08-06T22:31:59.000Z",
+      "xQuery": "バイクと複数車絡む事故 男性死亡"
     },
     {
-      "time": "21:23",
-      "title": "みんなで大家さん債務超過額 判明",
+      "time": "06:56",
+      "title": "18歳死亡 海で遊泳中に溺れたか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590792?source=rss",
-      "publishedAt": "2026-08-06T12:23:51.000Z",
-      "xQuery": "みんなで大家さん債務超過額 判明"
+      "url": "https://news.yahoo.co.jp/pickup/6590810?source=rss",
+      "publishedAt": "2026-08-06T21:56:57.000Z",
+      "xQuery": "18歳死亡 海で遊泳中に溺れたか"
     }
   ]
 };
