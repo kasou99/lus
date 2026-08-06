@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-06T00:41:56.212Z",
+  "updatedAt": "2026-08-06T01:39:37.497Z",
   "items": [
     {
-      "time": "08:59",
-      "title": "平和祈念式 広島市長の宣言全文",
+      "time": "09:18",
+      "title": "原爆で孤児に 子に背中押され手記",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590690?source=rss",
-      "publishedAt": "2026-08-05T23:59:30.000Z",
-      "xQuery": "平和祈念式 広島市長の宣言全文"
+      "url": "https://news.yahoo.co.jp/pickup/6590694?source=rss",
+      "publishedAt": "2026-08-06T00:18:37.000Z",
+      "xQuery": "原爆で孤児に 子に背中押され手記"
     },
     {
-      "time": "08:19",
-      "title": "イラン トランプ氏に攻撃自制促す",
+      "time": "09:51",
+      "title": "維新 大阪都構想の区割り4区案に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590683?source=rss",
-      "publishedAt": "2026-08-05T23:19:37.000Z",
-      "xQuery": "イラン トランプ氏に攻撃自制促す"
+      "url": "https://news.yahoo.co.jp/pickup/6590697?source=rss",
+      "publishedAt": "2026-08-06T00:51:55.000Z",
+      "xQuery": "維新 大阪都構想の区割り4区案に"
     },
     {
-      "time": "08:35",
-      "title": "消費減税 日本の社会保障は岐路に",
+      "time": "10:16",
+      "title": "産経新聞 東北での発行を休止へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590685?source=rss",
-      "publishedAt": "2026-08-05T23:35:00.000Z",
-      "xQuery": "消費減税 日本の社会保障は岐路に"
+      "url": "https://news.yahoo.co.jp/pickup/6590702?source=rss",
+      "publishedAt": "2026-08-06T01:16:32.000Z",
+      "xQuery": "産経新聞 東北での発行を休止へ"
     },
     {
       "time": "09:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "工場で高さ4.3mから転落 死亡"
     },
     {
-      "time": "07:38",
-      "title": "株投資で若年男性が自信喪失か 米",
+      "time": "09:19",
+      "title": "元ジャンポケ斉藤被告 裁判の焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590681?source=rss",
-      "publishedAt": "2026-08-05T22:38:47.000Z",
-      "xQuery": "株投資で若年男性が自信喪失か 米"
+      "url": "https://news.yahoo.co.jp/pickup/6590693?source=rss",
+      "publishedAt": "2026-08-06T00:19:59.000Z",
+      "xQuery": "元ジャンポケ斉藤被告 裁判の焦点"
     }
   ]
 };
