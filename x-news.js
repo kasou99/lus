@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-06T03:09:40.537Z",
+  "updatedAt": "2026-08-06T04:36:07.151Z",
   "items": [
     {
-      "time": "11:21",
-      "title": "平和記念式典で首相挨拶 就任後初",
+      "time": "12:45",
+      "title": "台風13号 あす沖縄本島に最接近へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590708?source=rss",
-      "publishedAt": "2026-08-06T02:21:25.000Z",
-      "xQuery": "平和記念式典で首相挨拶 就任後初"
+      "url": "https://news.yahoo.co.jp/pickup/6590724?source=rss",
+      "publishedAt": "2026-08-06T03:45:43.000Z",
+      "xQuery": "台風13号 あす沖縄本島に最接近へ"
     },
     {
-      "time": "09:51",
-      "title": "維新 大阪都構想の区割り4区案に",
+      "time": "11:52",
+      "title": "皮ズルズルに剥けた人も 原爆光景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590697?source=rss",
-      "publishedAt": "2026-08-06T00:51:55.000Z",
-      "xQuery": "維新 大阪都構想の区割り4区案に"
+      "url": "https://news.yahoo.co.jp/pickup/6590712?source=rss",
+      "publishedAt": "2026-08-06T02:52:21.000Z",
+      "xQuery": "皮ズルズルに剥けた人も 原爆光景"
     },
     {
-      "time": "11:42",
-      "title": "8歳に心の傷 被爆した人の群れ",
+      "time": "12:34",
+      "title": "中国 なぜ領有権争いを続けるのか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590709?source=rss",
-      "publishedAt": "2026-08-06T02:42:55.000Z",
-      "xQuery": "8歳に心の傷 被爆した人の群れ"
+      "url": "https://news.yahoo.co.jp/pickup/6590721?source=rss",
+      "publishedAt": "2026-08-06T03:34:29.000Z",
+      "xQuery": "中国 なぜ領有権争いを続けるのか"
     },
     {
-      "time": "11:12",
-      "title": "イラン 海峡運用でオマーンと合意",
+      "time": "12:15",
+      "title": "睡眠障害自覚し事故 危険運転疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590707?source=rss",
-      "publishedAt": "2026-08-06T02:12:19.000Z",
-      "xQuery": "イラン 海峡運用でオマーンと合意"
+      "url": "https://news.yahoo.co.jp/pickup/6590714?source=rss",
+      "publishedAt": "2026-08-06T03:15:11.000Z",
+      "xQuery": "睡眠障害自覚し事故 危険運転疑い"
     },
     {
-      "time": "10:16",
-      "title": "産経新聞 東北での発行を休止へ",
+      "time": "12:40",
+      "title": "集英社通販サイトで妨害疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590702?source=rss",
-      "publishedAt": "2026-08-06T01:16:32.000Z",
-      "xQuery": "産経新聞 東北での発行を休止へ"
+      "url": "https://news.yahoo.co.jp/pickup/6590725?source=rss",
+      "publishedAt": "2026-08-06T03:40:45.000Z",
+      "xQuery": "集英社通販サイトで妨害疑い 逮捕"
     }
   ]
 };
