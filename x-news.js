@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-06T10:25:23.290Z",
+  "updatedAt": "2026-08-06T11:19:41.787Z",
   "items": [
+    {
+      "time": "20:03",
+      "title": "熊本県で最大震度4 津波心配なし",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590783?source=rss",
+      "publishedAt": "2026-08-06T11:03:36.000Z",
+      "xQuery": "熊本県で最大震度4 津波心配なし"
+    },
     {
       "time": "17:43",
       "title": "被爆した姉の遺体 1人で焼いた弟",
@@ -18,14 +26,6 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本県 地震犠牲者5人の名前公表"
     },
     {
-      "time": "18:43",
-      "title": "れいわが党名変更「いのちの党」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590775?source=rss",
-      "publishedAt": "2026-08-06T09:43:20.000Z",
-      "xQuery": "れいわが党名変更「いのちの党」"
-    },
-    {
       "time": "18:53",
       "title": "エース級の財務官僚人事が波紋",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "エース級の財務官僚人事が波紋"
     },
     {
-      "time": "17:32",
-      "title": "加工アプリ「SNOW」に措置命令",
+      "time": "19:04",
+      "title": "茨城県も「パスポート」を発行へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590755?source=rss",
-      "publishedAt": "2026-08-06T08:32:35.000Z",
-      "xQuery": "加工アプリ「SNOW」に措置命令"
+      "url": "https://news.yahoo.co.jp/pickup/6590777?source=rss",
+      "publishedAt": "2026-08-06T10:04:20.000Z",
+      "xQuery": "茨城県も「パスポート」を発行へ"
     }
   ]
 };

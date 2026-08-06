@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-06T10:25:22.458Z",
+  "updatedAt": "2026-08-06T11:19:41.205Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "13:00",
         "title": "独自機能で非切削時間を最適化、中村留が2タレット複合精密CNC旋盤：工作機械",
-        "source": "MONOist",
+        "source": "monoist.itmedia.co.jp",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xbklFNUZ1V3ZBd1VIUlJtT0xsVDFzLW1NWjZxSjdKQ2Vxa3JPejk2YlpqUlh0ODMtX2lpamQxR2FvbTdaQ1JZZkktM3lHd0d6cjVXX0ZNRkc4WFk3bXk3SU0wNG1BTE1BVW9KT3NPZw?oc=5",
         "publishedAt": "2026-08-06T04:00:00.000Z"
       },
@@ -19,7 +19,7 @@
       {
         "time": "09:00",
         "title": "次世代設備保全クラウド「M2X」が大幅アップデート。ガントチャートで保全計画の進捗を俯瞰し、コストの予実管理を一元化",
-        "source": "PR TIMES",
+        "source": "prtimes.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zMXcwdU1XUnhpZm5BM0tWdmJZRGItZjJlUlBvZTFhVGJwUUliUjVzNHVGd2JkN0N6bzNKaVlIN05mNlZhem81RTBQeHo2c1I0d1BqVGhudFNPVFBXVjBoei1JZ3JkWlNCTVE?oc=5",
         "publishedAt": "2026-08-06T00:00:02.000Z"
       },
@@ -31,6 +31,13 @@
         "publishedAt": "2026-08-06T02:03:00.000Z"
       },
       {
+        "time": "14:00",
+        "title": "鉱物鋳物の世界市場（2026年～2032年）、市場規模（エポキシ樹脂結合型、セメント結合型、その他）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44US0wYjJCTGhtdjRCRzJfejZLYWNleVdsRU53YzlXNUZacUlSVkRha1lsNmNRV3F1LVI3c0lFUkEwSUlUbFUzOTNMY0hQWXc?oc=5",
+        "publishedAt": "2026-08-06T05:00:00.000Z"
+      },
+      {
         "time": "13:16",
         "title": "小型低背スイッチング電源にUSB PD対応モデル新ラインアップを追加",
         "source": "時事ドットコム",
@@ -40,16 +47,9 @@
       {
         "time": "10:00",
         "title": "ファンレスDINレールPCの世界市場（2026年～2032年）、市場規模（Intel、NVIDIA、AMD）・分析レポートを発表",
-        "source": "Newscast.jp",
+        "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pZ2xvNWtMdzlibndfY3o1X1lHUHRsVlRUR1JBTURjdXBnZUlvMlp6Y3dMUENwN0NoOEUzQVpMSmJGSFk4WHczRTVsYzY?oc=5",
         "publishedAt": "2026-08-06T01:00:00.000Z"
-      },
-      {
-        "time": "14:00",
-        "title": "鉱物鋳物の世界市場（2026年～2032年）、市場規模（エポキシ樹脂結合型、セメント結合型、その他）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jU3pmc2hiM2dwY1NLVVN2YnhBY3lIZmQ4NG5EanplSlgzd3dEaTBCZGdCdDRVMDFiMXBfS0VneW1GeW1UaHQ2a2hhSmJmZw?oc=5",
-        "publishedAt": "2026-08-06T05:00:00.000Z"
       },
       {
         "time": "15:00",
