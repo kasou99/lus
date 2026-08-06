@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-06T01:39:36.513Z",
+  "updatedAt": "2026-08-06T03:09:39.774Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "10:15",
+        "title": "次世代設備保全クラウド「M2X」が大幅アップデート。ガントチャートで保全計画の進捗を俯瞰し、コストの予実管理を一元化",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JZk5pSG11MjlLMGJaRTc5YkRZZlZINFFGN18yVHlFR0JjRXVlQVRqNDZISjhfb0JyaHo4VEJaaExTYjN1dzgxSnR0QlU4dnp5STRoZk1ESG5mWmlxWlhHamNFaVRwNWZWeHZmeUM4a0lwdw?oc=5",
+        "publishedAt": "2026-08-06T01:15:26.000Z"
+      },
+      {
+        "time": "11:00",
+        "title": "小型低背スイッチング電源にUSB PD対応モデル新ラインアップを追加",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iMl9nNlhXa08zbGRxVVpETXFVYW1GYlI0QXlKOXZuelJHYUttYng3OXBKMTYyR09EbGJUdzliM2o4X09LYks4cmh1QTNKeGdHNFliX1Fvb2t6Wm45YW1SemxqSkJKSUdfc1E?oc=5",
+        "publishedAt": "2026-08-06T02:00:02.000Z"
+      },
       {
         "time": "13:00",
         "title": "マザックが最大加工径910mmのCNC旋盤、大径および長尺ワーク向け：工作機械",
@@ -10,11 +24,11 @@
         "publishedAt": "2026-08-05T04:00:00.000Z"
       },
       {
-        "time": "09:10",
-        "title": "【台湾情報】ヒト型ロボット市場4.7兆ドルへ、台湾メーカーが「脱中国」需要狙う＜ワイズ機械業界ジャーナル2026年8月第２週号発行＞",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ibDd1QUpqeUF6WU1EZXQ5RkliRlZYbms1QzlYd1BhTFAxMGI5aXBuUTJYUi1jYlYwY3kySDlzYTBlc0JLc2NqMHF5RVpxSEptVEF3OFJyM0UzVGJaMGZSeUQ2aXVfYzNCRmc?oc=5",
-        "publishedAt": "2026-08-06T00:10:01.000Z"
+        "time": "05:02",
+        "title": "働く人の安全・健康・ウェルビーイング／IOSHからのメッセージ",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50T0lKam1UQ2dNdXBiVlJOSUhubDdiMFJwTTBMMjZTcjJrZWY2cC12ZThvaGFROF9WaE9CdUE2Z2o3bzhkTnpGWFJkZHdWa290eEV4alF1eXE0dDA?oc=5",
+        "publishedAt": "2026-08-05T20:02:40.000Z"
       },
       {
         "time": "18:10",
@@ -25,8 +39,8 @@
       },
       {
         "time": "16:51",
-        "title": "次世代設備保全クラウドの株式会社M2X、日興薬品工業株式会社の導入事例を公開 - foods-ch.infomart.co.jp",
-        "source": "foods-ch.infomart.co.jp",
+        "title": "次世代設備保全クラウドの株式会社M2X、日興薬品工業株式会社の導入事例を公開",
+        "source": "フーズチャネル",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hTkV4Uk1NOGdZT0lJMXA2ZHVHMjJKZm42U2FQX1EwY2FfQ3pwMktUS3hRNHcwaFV4Rl9DX3hyQkZ1UVJCNHFCa2RfZlVxaF91QXdlRlZn?oc=5",
         "publishedAt": "2026-08-05T07:51:34.000Z"
       },
@@ -38,28 +52,21 @@
         "publishedAt": "2026-08-05T03:36:16.000Z"
       },
       {
-        "time": "14:30",
-        "title": "CNCアングルヘッドの世界市場（2026年～2032年）、市場規模（軽量CNCアングルヘッド、重量CNCアングルヘッド）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBmOEtXeXRIczV5QXY1WDlQTzByUjZXQ0FaX3MzblEwV0JoaDFGVmNPajdJVHRnVW51cmQzaVlzWmVMWVo3d0I0?oc=5",
-        "publishedAt": "2026-08-05T05:30:00.000Z"
-      },
-      {
-        "time": "12:30",
-        "title": "世界小穴放電加工機業界の最新分析2026：39.19百万米ドル規模への拡大予測",
-        "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14U2RBZzRzOGFyMzl6X0NNcW9tLV8wLW45N05wX3k4cW5tLUxtWnVNc3pybUFETl93ZnNyZGFLOThicmUzbDdIN3hhWXV4Tm9pOEJF?oc=5",
-        "publishedAt": "2026-08-05T03:30:00.000Z"
-      },
-      {
-        "time": "14:02",
-        "title": "【ビーストオブリンカネーション】エピソード8「蟲食い」の攻略チャート",
-        "source": "AppMedia",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsRWdkR3plLWhlUDQxOW9QNnNzSzg3UWdjMEFPSldIcEpYLTlWVWVNNHp3Z1JzMmhjLXN6LWFMX3VjYnJYZGdxR1REck5EWVFxVzF3NXI3czBlS3hadlAzOQ?oc=5",
-        "publishedAt": "2026-08-05T05:02:01.000Z"
+        "time": "16:19",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-08-05T07:19:01.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "11:12",
+        "title": "イラン 海峡運用でオマーンと合意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590707?source=rss",
+        "publishedAt": "2026-08-06T02:12:19.000Z"
+      },
       {
         "time": "08:19",
         "title": "イラン トランプ氏に攻撃自制促す",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590654?source=rss",
         "publishedAt": "2026-08-05T10:53:29.000Z"
-      },
-      {
-        "time": "09:20",
-        "title": "ドローンがウの民間人を追跡 爆発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590569?source=rss",
-        "publishedAt": "2026-08-05T00:20:28.000Z"
       },
       {
         "time": "13:52",
@@ -149,18 +149,25 @@
     ],
     "localHeadlines": [
       {
+        "time": "11:52",
+        "title": "皮ズルズルに剥けた人も 原爆光景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590712?source=rss",
+        "publishedAt": "2026-08-06T02:52:21.000Z"
+      },
+      {
+        "time": "11:42",
+        "title": "8歳に心の傷 被爆した人の群れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590709?source=rss",
+        "publishedAt": "2026-08-06T02:42:55.000Z"
+      },
+      {
         "time": "09:18",
         "title": "原爆で孤児に 子に背中押され手記",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590694?source=rss",
         "publishedAt": "2026-08-06T00:18:37.000Z"
-      },
-      {
-        "time": "08:24",
-        "title": "原爆 94歳姉が伝える「生きた証」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590684?source=rss",
-        "publishedAt": "2026-08-05T23:24:06.000Z"
       },
       {
         "time": "22:30",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590692?source=rss",
         "publishedAt": "2026-08-06T00:21:38.000Z"
-      },
-      {
-        "time": "22:56",
-        "title": "住宅全焼4人遺体 叫び声聞こえた",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590669?source=rss",
-        "publishedAt": "2026-08-05T13:56:04.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-06T01:39:37.497Z",
+  "updatedAt": "2026-08-06T03:09:40.537Z",
   "items": [
     {
-      "time": "09:18",
-      "title": "原爆で孤児に 子に背中押され手記",
+      "time": "11:21",
+      "title": "平和記念式典で首相挨拶 就任後初",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590694?source=rss",
-      "publishedAt": "2026-08-06T00:18:37.000Z",
-      "xQuery": "原爆で孤児に 子に背中押され手記"
+      "url": "https://news.yahoo.co.jp/pickup/6590708?source=rss",
+      "publishedAt": "2026-08-06T02:21:25.000Z",
+      "xQuery": "平和記念式典で首相挨拶 就任後初"
     },
     {
       "time": "09:51",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "維新 大阪都構想の区割り4区案に"
     },
     {
+      "time": "11:42",
+      "title": "8歳に心の傷 被爆した人の群れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590709?source=rss",
+      "publishedAt": "2026-08-06T02:42:55.000Z",
+      "xQuery": "8歳に心の傷 被爆した人の群れ"
+    },
+    {
+      "time": "11:12",
+      "title": "イラン 海峡運用でオマーンと合意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590707?source=rss",
+      "publishedAt": "2026-08-06T02:12:19.000Z",
+      "xQuery": "イラン 海峡運用でオマーンと合意"
+    },
+    {
       "time": "10:16",
       "title": "産経新聞 東北での発行を休止へ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590702?source=rss",
       "publishedAt": "2026-08-06T01:16:32.000Z",
       "xQuery": "産経新聞 東北での発行を休止へ"
-    },
-    {
-      "time": "09:21",
-      "title": "工場で高さ4.3mから転落 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590692?source=rss",
-      "publishedAt": "2026-08-06T00:21:38.000Z",
-      "xQuery": "工場で高さ4.3mから転落 死亡"
-    },
-    {
-      "time": "09:19",
-      "title": "元ジャンポケ斉藤被告 裁判の焦点",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590693?source=rss",
-      "publishedAt": "2026-08-06T00:19:59.000Z",
-      "xQuery": "元ジャンポケ斉藤被告 裁判の焦点"
     }
   ]
 };
