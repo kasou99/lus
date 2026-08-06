@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T07:25:59.770Z",
+  "updatedAt": "2026-08-06T08:21:15.304Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,30 +17,30 @@
         "publishedAt": "2026-08-06T06:30:00.000Z"
       },
       {
-        "time": "10:15",
+        "time": "09:00",
         "title": "次世代設備保全クラウド「M2X」が大幅アップデート。ガントチャートで保全計画の進捗を俯瞰し、コストの予実管理を一元化",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JZk5pSG11MjlLMGJaRTc5YkRZZlZINFFGN18yVHlFR0JjRXVlQVRqNDZISjhfb0JyaHo4VEJaaExTYjN1dzgxSnR0QlU4dnp5STRoZk1ESG5mWmlxWlhHamNFaVRwNWZWeHZmeUM4a0lwdw?oc=5",
-        "publishedAt": "2026-08-06T01:15:26.000Z"
-      },
-      {
-        "time": "11:00",
-        "title": "小型低背スイッチング電源にUSB PD対応モデル新ラインアップを追加",
-        "source": "prtimes.jp",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iMl9nNlhXa08zbGRxVVpETXFVYW1GYlI0QXlKOXZuelJHYUttYng3OXBKMTYyR09EbGJUdzliM2o4X09LYks4cmh1QTNKeGdHNFliX1Fvb2t6Wm45YW1SemxqSkJKSUdfc1E?oc=5",
-        "publishedAt": "2026-08-06T02:00:02.000Z"
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zMXcwdU1XUnhpZm5BM0tWdmJZRGItZjJlUlBvZTFhVGJwUUliUjVzNHVGd2JkN0N6bzNKaVlIN05mNlZhem81RTBQeHo2c1I0d1BqVGhudFNPVFBXVjBoei1JZ3JkWlNCTVE?oc=5",
+        "publishedAt": "2026-08-06T00:00:02.000Z"
       },
       {
         "time": "11:03",
         "title": "ヒーハイスト Research Memo（3）：主要事業は直動機器、精密部品加工、ユニット製品の3領域",
-        "source": "topics.smt.docomo.ne.jp",
+        "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSEpBYzcwYXBYUWFiOGZjUWhEMFQ0NHZaNGRMc3h4VEViM3NpX0h1WHdSajczS3RKTUVHc0oySERvNGwxWjVHcUp2YmFER05SemtDeDdjMnl2aVZlTjNPTzhNVlFRaE1lU3hfRi1PX1RnYlZoTnotMnZYckVrNWZGLUFPajlvNUhCUjZhetIBjAFBVV95cUxPSEpBYzcwYXBYUWFiOGZjUWhEMFQ0NHZaNGRMc3h4VEViM3NpX0h1WHdSajczS3RKTUVHc0oySERvNGwxWjVHcUp2YmFER05SemtDeDdjMnl2aVZlTjNPTzhNVlFRaE1lU3hfRi1PX1RnYlZoTnotMnZYckVrNWZGLUFPajlvNUhCUjZheg?oc=5",
         "publishedAt": "2026-08-06T02:03:00.000Z"
       },
       {
+        "time": "13:16",
+        "title": "小型低背スイッチング電源にUSB PD対応モデル新ラインアップを追加",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94MWZIclJ0SzlneWhRRDN6N1ZyZDBLcmVBV3AyY1Y1eHNvb25lMFhUZ0tMU0R4cGNWeExsSWhvX0NfNnFrcjdtMUQxYmk4WTkzLWpnd3pmaHZ5TEZsOWtpRGFYVENqY0Y2dkNR?oc=5",
+        "publishedAt": "2026-08-06T04:16:00.000Z"
+      },
+      {
         "time": "14:00",
         "title": "鉱物鋳物の世界市場（2026年～2032年）、市場規模（エポキシ樹脂結合型、セメント結合型、その他）・分析レポートを発表",
-        "source": "atpress.ne.jp",
+        "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jU3pmc2hiM2dwY1NLVVN2YnhBY3lIZmQ4NG5EanplSlgzd3dEaTBCZGdCdDRVMDFiMXBfS0VneW1GeW1UaHQ2a2hhSmJmZw?oc=5",
         "publishedAt": "2026-08-06T05:00:00.000Z"
       },
@@ -52,14 +52,21 @@
         "publishedAt": "2026-08-06T06:00:00.000Z"
       },
       {
-        "time": "07:07",
-        "title": "横浜国大、学長直轄でAI戦略統括室設置 教育・研究を高度化",
+        "time": "06:16",
+        "title": "深層断面／交通空白解消、新段階へ",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xZjlwQkdaWW5ZRTBWVkN4R2RSSVZQdkJCcE1OY2hMbk5iMEdlcFh4Ylc2RVF0bUFGVUFWZDZMQkpLU3BDbjRUdFBqU2FydnYxcWplOVUwd3g0SlJ6enVoVWpUMFBvazhFcGF6bDQ5NUdQTHZC?oc=5",
-        "publishedAt": "2026-08-05T22:07:47.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FTmNvTnJWTWNqRzZQelRfSDBOamxUQU1LV1hPRGx3LXZUMGQtckMwamN2STdPYU5EVGhKS0hTMWh0SENHUzgwWV9ZYTJ6U1otNnV4RWZvLUwtSE1wNVVDUVg0dkhtYTZDUEh0dks5X2RZQ21q?oc=5",
+        "publishedAt": "2026-08-05T21:16:41.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "17:18",
+        "title": "北朝鮮が弾道ミサイルを発射か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590756?source=rss",
+        "publishedAt": "2026-08-06T08:18:31.000Z"
+      },
       {
         "time": "11:12",
         "title": "イラン 海峡運用でオマーンと合意",
@@ -94,16 +101,30 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590654?source=rss",
         "publishedAt": "2026-08-05T10:53:29.000Z"
-      },
-      {
-        "time": "13:52",
-        "title": "米大統領が米石油大手批判 今後は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590607?source=rss",
-        "publishedAt": "2026-08-05T04:52:10.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "16:32",
+        "title": "レイバン 値下げ禁止で公取が処分",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590746?source=rss",
+        "publishedAt": "2026-08-06T07:32:48.000Z"
+      },
+      {
+        "time": "17:01",
+        "title": "大手の夏ボーナス過去最高 経団連",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590752?source=rss",
+        "publishedAt": "2026-08-06T08:01:59.000Z"
+      },
+      {
+        "time": "17:04",
+        "title": "大胆に社名変える老舗企業 相次ぐ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590751?source=rss",
+        "publishedAt": "2026-08-06T08:04:53.000Z"
+      },
       {
         "time": "10:16",
         "title": "産経新聞 東北での発行を休止へ",
@@ -119,35 +140,21 @@
         "publishedAt": "2026-08-05T22:28:00.000Z"
       },
       {
-        "time": "12:46",
-        "title": "被災地の産業 融資だけでは守れず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590722?source=rss",
-        "publishedAt": "2026-08-06T03:46:00.000Z"
-      },
-      {
         "time": "14:14",
         "title": "九州新幹線復旧 8月中に時期示す",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590736?source=rss",
         "publishedAt": "2026-08-06T05:14:40.000Z"
-      },
-      {
-        "time": "12:37",
-        "title": "活気づく栄 名駅前から覇権奪還?",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590727?source=rss",
-        "publishedAt": "2026-08-06T03:37:53.000Z"
-      },
-      {
-        "time": "09:52",
-        "title": "ワタミ「鳥メロ」新規出店の勝算",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590696?source=rss",
-        "publishedAt": "2026-08-06T00:52:50.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "16:49",
+        "title": "原爆当日に学校休む 生き残り葛藤",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590750?source=rss",
+        "publishedAt": "2026-08-06T07:49:57.000Z"
+      },
       {
         "time": "11:52",
         "title": "皮ズルズルに剥けた人も 原爆光景",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590692?source=rss",
         "publishedAt": "2026-08-06T00:21:38.000Z"
-      },
-      {
-        "time": "14:04",
-        "title": "外国人採用のアンケ 県が差別否定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590733?source=rss",
-        "publishedAt": "2026-08-06T05:04:02.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-06T07:26:00.500Z",
+  "updatedAt": "2026-08-06T08:21:16.244Z",
   "items": [
     {
-      "time": "14:21",
-      "title": "安保3文書改定 予断控えると首相",
+      "time": "17:18",
+      "title": "北朝鮮が弾道ミサイルを発射か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590737?source=rss",
-      "publishedAt": "2026-08-06T05:21:04.000Z",
-      "xQuery": "安保3文書改定 予断控えると首相"
+      "url": "https://news.yahoo.co.jp/pickup/6590756?source=rss",
+      "publishedAt": "2026-08-06T08:18:31.000Z",
+      "xQuery": "北朝鮮が弾道ミサイルを発射か"
     },
     {
-      "time": "13:33",
-      "title": "国連事務総長 核兵器減の潮流逆行",
+      "time": "16:49",
+      "title": "原爆当日に学校休む 生き残り葛藤",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590728?source=rss",
-      "publishedAt": "2026-08-06T04:33:22.000Z",
-      "xQuery": "国連事務総長 核兵器減の潮流逆行"
+      "url": "https://news.yahoo.co.jp/pickup/6590750?source=rss",
+      "publishedAt": "2026-08-06T07:49:57.000Z",
+      "xQuery": "原爆当日に学校休む 生き残り葛藤"
     },
     {
-      "time": "14:14",
-      "title": "九州新幹線復旧 8月中に時期示す",
+      "time": "16:46",
+      "title": "関東 お盆は平年より気温低い予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590736?source=rss",
-      "publishedAt": "2026-08-06T05:14:40.000Z",
-      "xQuery": "九州新幹線復旧 8月中に時期示す"
+      "url": "https://news.yahoo.co.jp/pickup/6590749?source=rss",
+      "publishedAt": "2026-08-06T07:46:07.000Z",
+      "xQuery": "関東 お盆は平年より気温低い予想"
+    },
+    {
+      "time": "17:01",
+      "title": "大手の夏ボーナス過去最高 経団連",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590752?source=rss",
+      "publishedAt": "2026-08-06T08:01:59.000Z",
+      "xQuery": "大手の夏ボーナス過去最高 経団連"
     },
     {
       "time": "15:34",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590739?source=rss",
       "publishedAt": "2026-08-06T06:34:07.000Z",
       "xQuery": "水難事故か 川底で16歳の遺体発見"
-    },
-    {
-      "time": "14:28",
-      "title": "ディズニーとTikTok 提携を発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590738?source=rss",
-      "publishedAt": "2026-08-06T05:28:42.000Z",
-      "xQuery": "ディズニーとTikTok 提携を発表"
     }
   ]
 };
