@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-06T13:07:01.056Z",
+  "updatedAt": "2026-08-06T14:18:38.664Z",
   "items": [
     {
       "time": "21:51",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "北発射は短距離弾道ミサイル 韓国"
     },
     {
-      "time": "21:28",
-      "title": "国債買い入れ 増額ならどんな懸念",
+      "time": "22:51",
+      "title": "きのこ雲目撃 復興語る元広島捕手",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590791?source=rss",
-      "publishedAt": "2026-08-06T12:28:21.000Z",
-      "xQuery": "国債買い入れ 増額ならどんな懸念"
+      "url": "https://news.yahoo.co.jp/pickup/6590802?source=rss",
+      "publishedAt": "2026-08-06T13:51:29.000Z",
+      "xQuery": "きのこ雲目撃 復興語る元広島捕手"
     },
     {
       "time": "20:29",
