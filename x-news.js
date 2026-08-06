@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-06T12:14:15.207Z",
+  "updatedAt": "2026-08-06T13:07:01.056Z",
   "items": [
     {
-      "time": "20:22",
-      "title": "台風13号は沖縄・奄美に接近 警戒",
+      "time": "21:51",
+      "title": "北発射は短距離弾道ミサイル 韓国",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590782?source=rss",
-      "publishedAt": "2026-08-06T11:22:02.000Z",
-      "xQuery": "台風13号は沖縄・奄美に接近 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6590794?source=rss",
+      "publishedAt": "2026-08-06T12:51:47.000Z",
+      "xQuery": "北発射は短距離弾道ミサイル 韓国"
     },
     {
-      "time": "17:43",
-      "title": "被爆した姉の遺体 1人で焼いた弟",
+      "time": "21:28",
+      "title": "国債買い入れ 増額ならどんな懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590760?source=rss",
-      "publishedAt": "2026-08-06T08:43:02.000Z",
-      "xQuery": "被爆した姉の遺体 1人で焼いた弟"
+      "url": "https://news.yahoo.co.jp/pickup/6590791?source=rss",
+      "publishedAt": "2026-08-06T12:28:21.000Z",
+      "xQuery": "国債買い入れ 増額ならどんな懸念"
     },
     {
       "time": "20:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン爆発 ガス供給会社コメント"
     },
     {
-      "time": "20:52",
-      "title": "3年で2.6億円 福岡県議会海外視察",
+      "time": "21:23",
+      "title": "みんなで大家さん債務超過額 判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590788?source=rss",
-      "publishedAt": "2026-08-06T11:52:25.000Z",
-      "xQuery": "3年で2.6億円 福岡県議会海外視察"
+      "url": "https://news.yahoo.co.jp/pickup/6590792?source=rss",
+      "publishedAt": "2026-08-06T12:23:51.000Z",
+      "xQuery": "みんなで大家さん債務超過額 判明"
     },
     {
-      "time": "18:53",
-      "title": "エース級の財務官僚人事が波紋",
+      "time": "22:03",
+      "title": "太陽表面 過去最高の解像度で観測",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590778?source=rss",
-      "publishedAt": "2026-08-06T09:53:40.000Z",
-      "xQuery": "エース級の財務官僚人事が波紋"
+      "url": "https://news.yahoo.co.jp/pickup/6590795?source=rss",
+      "publishedAt": "2026-08-06T13:03:06.000Z",
+      "xQuery": "太陽表面 過去最高の解像度で観測"
     }
   ]
 };

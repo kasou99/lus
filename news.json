@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T12:14:14.265Z",
+  "updatedAt": "2026-08-06T13:07:00.176Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,21 +45,28 @@
         "publishedAt": "2026-08-06T05:00:00.000Z"
       },
       {
+        "time": "10:00",
+        "title": "ファンレスDINレールPCの世界市場（2026年～2032年）、市場規模（Intel、NVIDIA、AMD）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pZ2xvNWtMdzlibndfY3o1X1lHUHRsVlRUR1JBTURjdXBnZUlvMlp6Y3dMUENwN0NoOEUzQVpMSmJGSFk4WHczRTVsYzY?oc=5",
+        "publishedAt": "2026-08-06T01:00:00.000Z"
+      },
+      {
         "time": "15:00",
         "title": "オイレス工業[6282]：2027年３月期 第２四半期（中間期）連結業績予想の修正に関するお知らせ 2026年8月6日(適時開示) ：日経会社情報DIGITAL",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oanhIVTBfZU9leC1VSzZsamxUVUNLTV9mQkh5elYxaFRQbFlhLTNhTXltQk9MYWRGNnVtM0dQVGVkM3ZOZHBUZEo3MFBfMy1hVHJMRlBaRERDLWlNbWkwUkE2eTlRYVZtWEE?oc=5",
         "publishedAt": "2026-08-06T06:00:00.000Z"
-      },
-      {
-        "time": "08:28",
-        "title": "設備保全】クラウドかオンプレミスか？もう迷わない！EAMicと競合製品を徹底比較 Canadiens But Refusé (nxkS0O2EGk)",
-        "source": "Mshale",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRFhvYllRanZ4TWtlbnZKLVgtNy16RXVUZk9WNTE0YWNha3oxREdxUndWZXdTSzU4bnMwYkVHNmtDWVEzTEgxSkxxdldpajNqamdIRWxYSExuQjQ?oc=5",
-        "publishedAt": "2026-08-05T23:28:31.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "21:51",
+        "title": "北発射は短距離弾道ミサイル 韓国",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590794?source=rss",
+        "publishedAt": "2026-08-06T12:51:47.000Z"
+      },
       {
         "time": "17:35",
         "title": "北発射のミサイルはEEZ外落下か",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590698?source=rss",
         "publishedAt": "2026-08-06T00:52:46.000Z"
-      },
-      {
-        "time": "19:53",
-        "title": "露がウ首都周辺を攻撃 17人が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590654?source=rss",
-        "publishedAt": "2026-08-05T10:53:29.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,6 +110,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590785?source=rss",
         "publishedAt": "2026-08-06T11:29:28.000Z"
+      },
+      {
+        "time": "21:28",
+        "title": "国債買い入れ 増額ならどんな懸念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590791?source=rss",
+        "publishedAt": "2026-08-06T12:28:21.000Z"
       },
       {
         "time": "16:32",
@@ -133,18 +140,11 @@
         "publishedAt": "2026-08-06T08:04:53.000Z"
       },
       {
-        "time": "10:16",
-        "title": "産経新聞 東北での発行を休止へ",
+        "time": "21:23",
+        "title": "みんなで大家さん債務超過額 判明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590702?source=rss",
-        "publishedAt": "2026-08-06T01:16:32.000Z"
-      },
-      {
-        "time": "07:28",
-        "title": "SBI新生銀行 地銀20行超と連携へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590680?source=rss",
-        "publishedAt": "2026-08-05T22:28:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590792?source=rss",
+        "publishedAt": "2026-08-06T12:23:51.000Z"
       }
     ],
     "localHeadlines": [
