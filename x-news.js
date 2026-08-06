@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-06T04:36:07.151Z",
+  "updatedAt": "2026-08-06T06:01:40.250Z",
   "items": [
     {
-      "time": "12:45",
-      "title": "台風13号 あす沖縄本島に最接近へ",
+      "time": "14:21",
+      "title": "安保3文書改定 予断控えると首相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590724?source=rss",
-      "publishedAt": "2026-08-06T03:45:43.000Z",
-      "xQuery": "台風13号 あす沖縄本島に最接近へ"
+      "url": "https://news.yahoo.co.jp/pickup/6590737?source=rss",
+      "publishedAt": "2026-08-06T05:21:04.000Z",
+      "xQuery": "安保3文書改定 予断控えると首相"
     },
     {
       "time": "11:52",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "皮ズルズルに剥けた人も 原爆光景"
     },
     {
-      "time": "12:34",
-      "title": "中国 なぜ領有権争いを続けるのか",
+      "time": "14:14",
+      "title": "九州新幹線復旧 8月中に時期示す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590721?source=rss",
-      "publishedAt": "2026-08-06T03:34:29.000Z",
-      "xQuery": "中国 なぜ領有権争いを続けるのか"
+      "url": "https://news.yahoo.co.jp/pickup/6590736?source=rss",
+      "publishedAt": "2026-08-06T05:14:40.000Z",
+      "xQuery": "九州新幹線復旧 8月中に時期示す"
     },
     {
-      "time": "12:15",
-      "title": "睡眠障害自覚し事故 危険運転疑い",
+      "time": "14:04",
+      "title": "外国人採用のアンケ 県が差別否定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590714?source=rss",
-      "publishedAt": "2026-08-06T03:15:11.000Z",
-      "xQuery": "睡眠障害自覚し事故 危険運転疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6590733?source=rss",
+      "publishedAt": "2026-08-06T05:04:02.000Z",
+      "xQuery": "外国人採用のアンケ 県が差別否定"
     },
     {
-      "time": "12:40",
-      "title": "集英社通販サイトで妨害疑い 逮捕",
+      "time": "14:00",
+      "title": "メタAIモデルも外部システム侵入",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590725?source=rss",
-      "publishedAt": "2026-08-06T03:40:45.000Z",
-      "xQuery": "集英社通販サイトで妨害疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6590734?source=rss",
+      "publishedAt": "2026-08-06T05:00:16.000Z",
+      "xQuery": "メタAIモデルも外部システム侵入"
     }
   ]
 };

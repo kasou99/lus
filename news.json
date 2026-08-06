@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-08-06T04:36:06.020Z",
+  "updatedAt": "2026-08-06T06:01:39.313Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:00",
+        "title": "独自機能で非切削時間を最適化、中村留が2タレット複合精密CNC旋盤：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xbklFNUZ1V3ZBd1VIUlJtT0xsVDFzLW1NWjZxSjdKQ2Vxa3JPejk2YlpqUlh0ODMtX2lpamQxR2FvbTdaQ1JZZkktM3lHd0d6cjVXX0ZNRkc4WFk3bXk3SU0wNG1BTE1BVW9KT3NPZw?oc=5",
+        "publishedAt": "2026-08-06T04:00:00.000Z"
+      },
       {
         "time": "10:15",
         "title": "次世代設備保全クラウド「M2X」が大幅アップデート。ガントチャートで保全計画の進捗を俯瞰し、コストの予実管理を一元化",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JZk5pSG11MjlLMGJaRTc5YkRZZlZINFFGN18yVHlFR0JjRXVlQVRqNDZISjhfb0JyaHo4VEJaaExTYjN1dzgxSnR0QlU4dnp5STRoZk1ESG5mWmlxWlhHamNFaVRwNWZWeHZmeUM4a0lwdw?oc=5",
         "publishedAt": "2026-08-06T01:15:26.000Z"
+      },
+      {
+        "time": "14:00",
+        "title": "鉱物鋳物の世界市場（2026年～2032年）、市場規模（エポキシ樹脂結合型、セメント結合型、その他）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jU3pmc2hiM2dwY1NLVVN2YnhBY3lIZmQ4NG5EanplSlgzd3dEaTBCZGdCdDRVMDFiMXBfS0VneW1GeW1UaHQ2a2hhSmJmZw?oc=5",
+        "publishedAt": "2026-08-06T05:00:00.000Z"
       },
       {
         "time": "11:00",
@@ -43,20 +57,6 @@
         "source": "フーズチャネル",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hTkV4Uk1NOGdZT0lJMXA2ZHVHMjJKZm42U2FQX1EwY2FfQ3pwMktUS3hRNHcwaFV4Rl9DX3hyQkZ1UVJCNHFCa2RfZlVxaF91QXdlRlZn?oc=5",
         "publishedAt": "2026-08-05T07:51:34.000Z"
-      },
-      {
-        "time": "09:10",
-        "title": "【台湾情報】ヒト型ロボット市場4.7兆ドルへ、台湾メーカーが「脱中国」需要狙う＜ワイズ機械業界ジャーナル2026年8月第２週号発行＞",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ibDd1QUpqeUF6WU1EZXQ5RkliRlZYbms1QzlYd1BhTFAxMGI5aXBuUTJYUi1jYlYwY3kySDlzYTBlc0JLc2NqMHF5RVpxSEptVEF3OFJyM0UzVGJaMGZSeUQ2aXVfYzNCRmc?oc=5",
-        "publishedAt": "2026-08-06T00:10:01.000Z"
-      },
-      {
-        "time": "14:30",
-        "title": "CNCアングルヘッドの世界市場（2026年～2032年）、市場規模（軽量CNCアングルヘッド、重量CNCアングルヘッド）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zZ2Z6SEdxdWZGWHFlQTkyejBIbERKQUs1VEZMS3ZQTVJ6cmxTakp5SFpDYkNsbkI1Q3Y0QUZCbWEyRmhTMFYzWjVQcWhWT0E?oc=5",
-        "publishedAt": "2026-08-05T05:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,11 +126,11 @@
         "publishedAt": "2026-08-06T03:46:00.000Z"
       },
       {
-        "time": "18:54",
-        "title": "イオン熊本の爆発 LPガス原因か",
+        "time": "14:14",
+        "title": "九州新幹線復旧 8月中に時期示す",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590647?source=rss",
-        "publishedAt": "2026-08-05T09:54:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590736?source=rss",
+        "publishedAt": "2026-08-06T05:14:40.000Z"
       },
       {
         "time": "12:37",
@@ -154,13 +154,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590712?source=rss",
         "publishedAt": "2026-08-06T02:52:21.000Z"
-      },
-      {
-        "time": "12:09",
-        "title": "被爆兵の頼み 何もできず少女後悔",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590717?source=rss",
-        "publishedAt": "2026-08-06T03:09:00.000Z"
       },
       {
         "time": "13:01",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590692?source=rss",
         "publishedAt": "2026-08-06T00:21:38.000Z"
+      },
+      {
+        "time": "14:04",
+        "title": "外国人採用のアンケ 県が差別否定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590733?source=rss",
+        "publishedAt": "2026-08-06T05:04:02.000Z"
       }
     ],
     "subsidyHeadlines": [
