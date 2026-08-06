@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-06T08:21:16.244Z",
+  "updatedAt": "2026-08-06T09:28:11.158Z",
   "items": [
     {
-      "time": "17:18",
-      "title": "北朝鮮が弾道ミサイルを発射か",
+      "time": "17:35",
+      "title": "北発射のミサイルはEEZ外落下か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590756?source=rss",
-      "publishedAt": "2026-08-06T08:18:31.000Z",
-      "xQuery": "北朝鮮が弾道ミサイルを発射か"
+      "url": "https://news.yahoo.co.jp/pickup/6590759?source=rss",
+      "publishedAt": "2026-08-06T08:35:08.000Z",
+      "xQuery": "北発射のミサイルはEEZ外落下か"
     },
     {
       "time": "16:49",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "原爆当日に学校休む 生き残り葛藤"
     },
     {
-      "time": "16:46",
-      "title": "関東 お盆は平年より気温低い予想",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590749?source=rss",
-      "publishedAt": "2026-08-06T07:46:07.000Z",
-      "xQuery": "関東 お盆は平年より気温低い予想"
-    },
-    {
       "time": "17:01",
       "title": "大手の夏ボーナス過去最高 経団連",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "大手の夏ボーナス過去最高 経団連"
     },
     {
-      "time": "15:34",
-      "title": "水難事故か 川底で16歳の遺体発見",
+      "time": "18:04",
+      "title": "飲食店利用の192人食中毒 御殿場",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590739?source=rss",
-      "publishedAt": "2026-08-06T06:34:07.000Z",
-      "xQuery": "水難事故か 川底で16歳の遺体発見"
+      "url": "https://news.yahoo.co.jp/pickup/6590763?source=rss",
+      "publishedAt": "2026-08-06T09:04:04.000Z",
+      "xQuery": "飲食店利用の192人食中毒 御殿場"
+    },
+    {
+      "time": "17:32",
+      "title": "加工アプリ「SNOW」に措置命令",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590755?source=rss",
+      "publishedAt": "2026-08-06T08:32:35.000Z",
+      "xQuery": "加工アプリ「SNOW」に措置命令"
     }
   ]
 };

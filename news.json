@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T08:21:15.304Z",
+  "updatedAt": "2026-08-06T09:28:10.097Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,27 +45,27 @@
         "publishedAt": "2026-08-06T05:00:00.000Z"
       },
       {
+        "time": "10:00",
+        "title": "ファンレスDINレールPCの世界市場（2026年～2032年）、市場規模（Intel、NVIDIA、AMD）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pZ2xvNWtMdzlibndfY3o1X1lHUHRsVlRUR1JBTURjdXBnZUlvMlp6Y3dMUENwN0NoOEUzQVpMSmJGSFk4WHczRTVsYzY?oc=5",
+        "publishedAt": "2026-08-06T01:00:00.000Z"
+      },
+      {
         "time": "15:00",
         "title": "オイレス工業[6282]：2027年３月期 第２四半期（中間期）連結業績予想の修正に関するお知らせ 2026年8月6日(適時開示) ：日経会社情報DIGITAL",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oanhIVTBfZU9leC1VSzZsamxUVUNLTV9mQkh5elYxaFRQbFlhLTNhTXltQk9MYWRGNnVtM0dQVGVkM3ZOZHBUZEo3MFBfMy1hVHJMRlBaRERDLWlNbWkwUkE2eTlRYVZtWEE?oc=5",
         "publishedAt": "2026-08-06T06:00:00.000Z"
-      },
-      {
-        "time": "06:16",
-        "title": "深層断面／交通空白解消、新段階へ",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FTmNvTnJWTWNqRzZQelRfSDBOamxUQU1LV1hPRGx3LXZUMGQtckMwamN2STdPYU5EVGhKS0hTMWh0SENHUzgwWV9ZYTJ6U1otNnV4RWZvLUwtSE1wNVVDUVg0dkhtYTZDUEh0dks5X2RZQ21q?oc=5",
-        "publishedAt": "2026-08-05T21:16:41.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "17:18",
-        "title": "北朝鮮が弾道ミサイルを発射か",
+        "time": "17:35",
+        "title": "北発射のミサイルはEEZ外落下か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590756?source=rss",
-        "publishedAt": "2026-08-06T08:18:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590759?source=rss",
+        "publishedAt": "2026-08-06T08:35:08.000Z"
       },
       {
         "time": "11:12",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "17:43",
+        "title": "被爆した姉の遺体 1人で焼いた弟",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590760?source=rss",
+        "publishedAt": "2026-08-06T08:43:02.000Z"
+      },
+      {
         "time": "16:49",
         "title": "原爆当日に学校休む 生き残り葛藤",
         "source": "Yahoo!ニュース",
@@ -156,25 +163,11 @@
         "publishedAt": "2026-08-06T07:49:57.000Z"
       },
       {
-        "time": "11:52",
-        "title": "皮ズルズルに剥けた人も 原爆光景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590712?source=rss",
-        "publishedAt": "2026-08-06T02:52:21.000Z"
-      },
-      {
         "time": "13:01",
         "title": "熊本地震 農業インフラ被害深刻",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590726?source=rss",
         "publishedAt": "2026-08-06T04:01:56.000Z"
-      },
-      {
-        "time": "12:15",
-        "title": "睡眠障害自覚し事故 危険運転疑い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590714?source=rss",
-        "publishedAt": "2026-08-06T03:15:11.000Z"
       },
       {
         "time": "15:34",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590692?source=rss",
         "publishedAt": "2026-08-06T00:21:38.000Z"
+      },
+      {
+        "time": "18:04",
+        "title": "飲食店利用の192人食中毒 御殿場",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590763?source=rss",
+        "publishedAt": "2026-08-06T09:04:04.000Z"
       }
     ],
     "subsidyHeadlines": [
