@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-05T23:50:28.402Z",
+  "updatedAt": "2026-08-06T00:41:56.212Z",
   "items": [
     {
-      "time": "07:48",
-      "title": "中継 「原爆の日」広島で平和式典",
+      "time": "08:59",
+      "title": "平和祈念式 広島市長の宣言全文",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590645?source=rss",
-      "publishedAt": "2026-08-05T22:48:56.000Z",
-      "xQuery": "中継 「原爆の日」広島で平和式典"
-    },
-    {
-      "time": "08:10",
-      "title": "熊本県などで震度4 津波心配なし",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590688?source=rss",
-      "publishedAt": "2026-08-05T23:10:00.000Z",
-      "xQuery": "熊本県などで震度4 津波心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6590690?source=rss",
+      "publishedAt": "2026-08-05T23:59:30.000Z",
+      "xQuery": "平和祈念式 広島市長の宣言全文"
     },
     {
       "time": "08:19",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン トランプ氏に攻撃自制促す"
     },
     {
-      "time": "07:28",
-      "title": "SBI新生銀行 地銀20行超と連携へ",
+      "time": "08:35",
+      "title": "消費減税 日本の社会保障は岐路に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590680?source=rss",
-      "publishedAt": "2026-08-05T22:28:00.000Z",
-      "xQuery": "SBI新生銀行 地銀20行超と連携へ"
+      "url": "https://news.yahoo.co.jp/pickup/6590685?source=rss",
+      "publishedAt": "2026-08-05T23:35:00.000Z",
+      "xQuery": "消費減税 日本の社会保障は岐路に"
+    },
+    {
+      "time": "09:21",
+      "title": "工場で高さ4.3mから転落 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590692?source=rss",
+      "publishedAt": "2026-08-06T00:21:38.000Z",
+      "xQuery": "工場で高さ4.3mから転落 死亡"
     },
     {
       "time": "07:38",
