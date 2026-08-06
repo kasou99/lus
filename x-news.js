@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-06T06:01:40.250Z",
+  "updatedAt": "2026-08-06T07:26:00.500Z",
   "items": [
     {
       "time": "14:21",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "安保3文書改定 予断控えると首相"
     },
     {
-      "time": "11:52",
-      "title": "皮ズルズルに剥けた人も 原爆光景",
+      "time": "13:33",
+      "title": "国連事務総長 核兵器減の潮流逆行",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590712?source=rss",
-      "publishedAt": "2026-08-06T02:52:21.000Z",
-      "xQuery": "皮ズルズルに剥けた人も 原爆光景"
+      "url": "https://news.yahoo.co.jp/pickup/6590728?source=rss",
+      "publishedAt": "2026-08-06T04:33:22.000Z",
+      "xQuery": "国連事務総長 核兵器減の潮流逆行"
     },
     {
       "time": "14:14",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "九州新幹線復旧 8月中に時期示す"
     },
     {
-      "time": "14:04",
-      "title": "外国人採用のアンケ 県が差別否定",
+      "time": "15:34",
+      "title": "水難事故か 川底で16歳の遺体発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590733?source=rss",
-      "publishedAt": "2026-08-06T05:04:02.000Z",
-      "xQuery": "外国人採用のアンケ 県が差別否定"
+      "url": "https://news.yahoo.co.jp/pickup/6590739?source=rss",
+      "publishedAt": "2026-08-06T06:34:07.000Z",
+      "xQuery": "水難事故か 川底で16歳の遺体発見"
     },
     {
-      "time": "14:00",
-      "title": "メタAIモデルも外部システム侵入",
+      "time": "14:28",
+      "title": "ディズニーとTikTok 提携を発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590734?source=rss",
-      "publishedAt": "2026-08-06T05:00:16.000Z",
-      "xQuery": "メタAIモデルも外部システム侵入"
+      "url": "https://news.yahoo.co.jp/pickup/6590738?source=rss",
+      "publishedAt": "2026-08-06T05:28:42.000Z",
+      "xQuery": "ディズニーとTikTok 提携を発表"
     }
   ]
 };
