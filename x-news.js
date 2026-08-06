@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-06T14:18:38.664Z",
+  "updatedAt": "2026-08-06T15:18:16.037Z",
   "items": [
     {
-      "time": "21:51",
-      "title": "北発射は短距離弾道ミサイル 韓国",
+      "time": "22:38",
+      "title": "避難所巡り格差も 制度の改革急務",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590794?source=rss",
-      "publishedAt": "2026-08-06T12:51:47.000Z",
-      "xQuery": "北発射は短距離弾道ミサイル 韓国"
+      "url": "https://news.yahoo.co.jp/pickup/6590799?source=rss",
+      "publishedAt": "2026-08-06T13:38:27.000Z",
+      "xQuery": "避難所巡り格差も 制度の改革急務"
     },
     {
       "time": "22:51",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン爆発 ガス供給会社コメント"
     },
     {
+      "time": "18:53",
+      "title": "エース級の財務官僚人事が波紋",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590778?source=rss",
+      "publishedAt": "2026-08-06T09:53:40.000Z",
+      "xQuery": "エース級の財務官僚人事が波紋"
+    },
+    {
       "time": "21:23",
       "title": "みんなで大家さん債務超過額 判明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590792?source=rss",
       "publishedAt": "2026-08-06T12:23:51.000Z",
       "xQuery": "みんなで大家さん債務超過額 判明"
-    },
-    {
-      "time": "22:03",
-      "title": "太陽表面 過去最高の解像度で観測",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590795?source=rss",
-      "publishedAt": "2026-08-06T13:03:06.000Z",
-      "xQuery": "太陽表面 過去最高の解像度で観測"
     }
   ]
 };

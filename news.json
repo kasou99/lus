@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-06T14:18:37.942Z",
+  "updatedAt": "2026-08-06T15:18:15.120Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "13:00",
         "title": "独自機能で非切削時間を最適化、中村留が2タレット複合精密CNC旋盤：工作機械",
-        "source": "monoist.itmedia.co.jp",
+        "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xbklFNUZ1V3ZBd1VIUlJtT0xsVDFzLW1NWjZxSjdKQ2Vxa3JPejk2YlpqUlh0ODMtX2lpamQxR2FvbTdaQ1JZZkktM3lHd0d6cjVXX0ZNRkc4WFk3bXk3SU0wNG1BTE1BVW9KT3NPZw?oc=5",
         "publishedAt": "2026-08-06T04:00:00.000Z"
       },
@@ -31,6 +31,13 @@
         "publishedAt": "2026-08-06T06:24:11.000Z"
       },
       {
+        "time": "14:00",
+        "title": "鉱物鋳物の世界市場（2026年～2032年）、市場規模（エポキシ樹脂結合型、セメント結合型、その他）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9BVUdVWWJRQWlHUTJTOFpWak9lUkVsc0VoMWt3MWhielpORWx0eXE5TVV5YVVsTl85cklvYTVfMTNtNjFySC1v?oc=5",
+        "publishedAt": "2026-08-06T05:00:00.000Z"
+      },
+      {
         "time": "11:03",
         "title": "ヒーハイスト Research Memo（3）：主要事業は直動機器、精密部品加工、ユニット製品の3領域",
         "source": "ｄメニューニュース",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-08-06T02:03:00.000Z"
       },
       {
-        "time": "10:00",
-        "title": "ファンレスDINレールPCの世界市場（2026年～2032年）、市場規模（Intel、NVIDIA、AMD）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pZ2xvNWtMdzlibndfY3o1X1lHUHRsVlRUR1JBTURjdXBnZUlvMlp6Y3dMUENwN0NoOEUzQVpMSmJGSFk4WHczRTVsYzY?oc=5",
-        "publishedAt": "2026-08-06T01:00:00.000Z"
-      },
-      {
-        "time": "14:00",
-        "title": "鉱物鋳物の世界市場（2026年～2032年）、市場規模（エポキシ樹脂結合型、セメント結合型、その他）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44US0wYjJCTGhtdjRCRzJfejZLYWNleVdsRU53YzlXNUZacUlSVkRha1lsNmNRV3F1LVI3c0lFUkEwSUlUbFUzOTNMY0hQWXc?oc=5",
-        "publishedAt": "2026-08-06T05:00:00.000Z"
-      },
-      {
         "time": "15:00",
         "title": "オイレス工業[6282]：2027年３月期 第２四半期（中間期）連結業績予想の修正に関するお知らせ 2026年8月6日(適時開示) ：日経会社情報DIGITAL",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oanhIVTBfZU9leC1VSzZsamxUVUNLTV9mQkh5elYxaFRQbFlhLTNhTXltQk9MYWRGNnVtM0dQVGVkM3ZOZHBUZEo3MFBfMy1hVHJMRlBaRERDLWlNbWkwUkE2eTlRYVZtWEE?oc=5",
         "publishedAt": "2026-08-06T06:00:00.000Z"
+      },
+      {
+        "time": "07:07",
+        "title": "横浜国大、学長直轄でAI戦略統括室設置 教育・研究を高度化",
+        "source": "nikkan.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xZjlwQkdaWW5ZRTBWVkN4R2RSSVZQdkJCcE1OY2hMbk5iMEdlcFh4Ylc2RVF0bUFGVUFWZDZMQkpLU3BDbjRUdFBqU2FydnYxcWplOVUwd3g0SlJ6enVoVWpUMFBvazhFcGF6bDQ5NUdQTHZC?oc=5",
+        "publishedAt": "2026-08-05T22:07:47.000Z"
       }
     ],
     "worldHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-06T09:04:04.000Z"
       },
       {
-        "time": "18:13",
-        "title": "自宅前の標識を切断疑い 書類送検",
+        "time": "22:34",
+        "title": "名古屋城のお堀のシカ 残り1頭に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590764?source=rss",
-        "publishedAt": "2026-08-06T09:13:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590797?source=rss",
+        "publishedAt": "2026-08-06T13:34:51.000Z"
       }
     ],
     "subsidyHeadlines": [
