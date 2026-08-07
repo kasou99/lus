@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T14:50:16.628Z",
+  "updatedAt": "2026-08-07T15:21:42.629Z",
   "items": [
     {
       "time": "20:58",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "脳一部を誤摘出され 自発呼吸不能"
     },
     {
-      "time": "23:06",
-      "title": "声優らの声も権利保護の対象 指針",
+      "time": "22:28",
+      "title": "過剰な餌「ウサギの島」に異変",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590916?source=rss",
-      "publishedAt": "2026-08-07T14:06:52.000Z",
-      "xQuery": "声優らの声も権利保護の対象 指針"
+      "url": "https://news.yahoo.co.jp/pickup/6590912?source=rss",
+      "publishedAt": "2026-08-07T13:28:24.000Z",
+      "xQuery": "過剰な餌「ウサギの島」に異変"
     }
   ]
 };
