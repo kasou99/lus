@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T11:48:15.297Z",
+  "updatedAt": "2026-08-07T12:22:32.667Z",
   "items": [
     {
-      "time": "17:43",
-      "title": "爆心地から500mで被爆 生還した父",
+      "time": "20:58",
+      "title": "台風15号 来週に東・北日本接近か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590878?source=rss",
-      "publishedAt": "2026-08-07T08:43:43.000Z",
-      "xQuery": "爆心地から500mで被爆 生還した父"
+      "url": "https://news.yahoo.co.jp/pickup/6590888?source=rss",
+      "publishedAt": "2026-08-07T11:58:18.000Z",
+      "xQuery": "台風15号 来週に東・北日本接近か"
     },
     {
       "time": "20:03",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "81年前 6歳の私かばい死んだ祖母"
     },
     {
+      "time": "21:05",
+      "title": "蓮池薫さんの母・ハツイさん死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590902?source=rss",
+      "publishedAt": "2026-08-07T12:05:42.000Z",
+      "xQuery": "蓮池薫さんの母・ハツイさん死去"
+    },
+    {
       "time": "20:30",
       "title": "「家族いる」前提の世間 抱く不安",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「家族いる」前提の世間 抱く不安"
     },
     {
-      "time": "19:28",
-      "title": "穴にショベルカー転落 運転手死亡",
+      "time": "20:40",
+      "title": "生成AIが新ウイルス設計 米研究",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590893?source=rss",
-      "publishedAt": "2026-08-07T10:28:13.000Z",
-      "xQuery": "穴にショベルカー転落 運転手死亡"
-    },
-    {
-      "time": "17:40",
-      "title": "ペンギン4羽死ぬ 園が死因発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590882?source=rss",
-      "publishedAt": "2026-08-07T08:40:40.000Z",
-      "xQuery": "ペンギン4羽死ぬ 園が死因発表"
+      "url": "https://news.yahoo.co.jp/pickup/6590898?source=rss",
+      "publishedAt": "2026-08-07T11:40:56.000Z",
+      "xQuery": "生成AIが新ウイルス設計 米研究"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T11:48:14.472Z",
+  "updatedAt": "2026-08-07T12:22:31.848Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-08-06T20:12:29.000Z"
       },
       {
-        "time": "18:20",
-        "title": "サンリツ1Q、半導体装置好調で営業益3.4倍",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByZEx0TGFZbGN0UWtWS0tMdkZBdm5oVHVscTQySmVUczkyT2pjMUJfc25fNnpySzhaUEs1Nl9UZENDNlZSMDAxcA?oc=5",
-        "publishedAt": "2026-08-07T09:20:36.000Z"
-      },
-      {
         "time": "04:45",
         "title": "【機械業界の5年後大予測】ファナック、ダイフク、川崎重工、THK…設備投資拡大の追い風だけでない強さの秘訣と本命企業をトップアナリストが解説",
         "source": "ダイヤモンド・オンライン",
@@ -40,7 +33,7 @@
       {
         "time": "05:15",
         "title": "プラ物流大手の三甲 三井精機工業へ出資 筆頭株主に、工作機メーカー株取得は初（中部経済新聞）",
-        "source": "Yahoo!ニュース",
+        "source": "news.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04M2F0WFE4RkhDQUVSQmpnV3Z2WGxCMWFncHRMcUVDcEZBcENMelNVYlBDemwxdFkyTUdnM0J3ZTdPYktqekd0ZEJYdW9nV2doRFZZNFFXcjhvNzcyZVdTQ1RFMEprM0xUZFVXdEluQnhlak9saDRwNXEydlJ2TUU?oc=5",
         "publishedAt": "2026-08-06T20:15:24.000Z"
       },
@@ -57,6 +50,13 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVW81WXhyenRLbDV0QmhWMXoxSjhqLTdXT21RcldYWU83S0xhc3hZZXhLc2tIa1NGVzVkbDZKbGd3azllU3B5eGNkOXIwajdJUjdsbzM2M2RXelUzbVlybWVpbF9lMEFDUGc?oc=5",
         "publishedAt": "2026-08-07T00:00:02.000Z"
+      },
+      {
+        "time": "05:31",
+        "title": "第56回機械工業デザイン賞IDEA（6）日本産業機械工業会賞 芝浦機械",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LOXpkY3RtdFVtNi1Qek81ZXlSanBTVjlMeWxIenFlMmgxRlZFLUs5WjAyTjI3QmJwZkdieFVUdThUQjRXWjNLVmd0a2lsY3h6MHlQYmtlakJnYXdyVW9TdFpEVjNzNkNtU2JlRnZscldJZHpo?oc=5",
+        "publishedAt": "2026-08-06T20:31:19.000Z"
       }
     ],
     "worldHeadlines": [
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }
