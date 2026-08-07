@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T12:22:31.848Z",
+  "updatedAt": "2026-08-07T12:50:06.125Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -33,7 +33,7 @@
       {
         "time": "05:15",
         "title": "プラ物流大手の三甲 三井精機工業へ出資 筆頭株主に、工作機メーカー株取得は初（中部経済新聞）",
-        "source": "news.yahoo.co.jp",
+        "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04M2F0WFE4RkhDQUVSQmpnV3Z2WGxCMWFncHRMcUVDcEZBcENMelNVYlBDemwxdFkyTUdnM0J3ZTdPYktqekd0ZEJYdW9nV2doRFZZNFFXcjhvNzcyZVdTQ1RFMEprM0xUZFVXdEluQnhlak9saDRwNXEydlJ2TUU?oc=5",
         "publishedAt": "2026-08-06T20:15:24.000Z"
       },
@@ -75,13 +75,6 @@
         "publishedAt": "2026-08-06T02:12:19.000Z"
       },
       {
-        "time": "08:19",
-        "title": "イラン トランプ氏に攻撃自制促す",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590683?source=rss",
-        "publishedAt": "2026-08-05T23:19:37.000Z"
-      },
-      {
         "time": "17:00",
         "title": "米「出産旅行」禁止 大統領令署名",
         "source": "Yahoo!ニュース",
@@ -94,6 +87,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590881?source=rss",
         "publishedAt": "2026-08-07T08:30:32.000Z"
+      },
+      {
+        "time": "21:43",
+        "title": "中国船同士衝突2人死亡 公表に1年",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590904?source=rss",
+        "publishedAt": "2026-08-07T12:43:17.000Z"
       },
       {
         "time": "12:34",
@@ -112,18 +112,18 @@
         "publishedAt": "2026-08-07T00:56:22.000Z"
       },
       {
+        "time": "21:46",
+        "title": "「日銀利上げで円高」は本当か?",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590885?source=rss",
+        "publishedAt": "2026-08-07T12:46:50.000Z"
+      },
+      {
         "time": "10:07",
         "title": "全東信破産 539億円超焦げ付くか",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590831?source=rss",
         "publishedAt": "2026-08-07T01:07:51.000Z"
-      },
-      {
-        "time": "13:47",
-        "title": "プルデンシャル 顧客面談を録音へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590857?source=rss",
-        "publishedAt": "2026-08-07T04:47:46.000Z"
       },
       {
         "time": "13:14",
@@ -156,6 +156,20 @@
         "publishedAt": "2026-08-07T04:41:53.000Z"
       },
       {
+        "time": "21:26",
+        "title": "江別暴行で無期判決 諭した裁判長",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590901?source=rss",
+        "publishedAt": "2026-08-07T12:26:16.000Z"
+      },
+      {
+        "time": "21:31",
+        "title": "脳一部を誤摘出され 自発呼吸不能",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590906?source=rss",
+        "publishedAt": "2026-08-07T12:31:18.000Z"
+      },
+      {
         "time": "20:03",
         "title": "81年前 6歳の私かばい死んだ祖母",
         "source": "Yahoo!ニュース",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590842?source=rss",
         "publishedAt": "2026-08-07T02:58:53.000Z"
-      },
-      {
-        "time": "20:17",
-        "title": "DNA型鑑定不正巡り再審請求 佐賀",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590894?source=rss",
-        "publishedAt": "2026-08-07T11:17:00.000Z"
-      },
-      {
-        "time": "17:30",
-        "title": "鉄塔の保守作業員が死亡 熱中症か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590877?source=rss",
-        "publishedAt": "2026-08-07T08:30:01.000Z"
       }
     ],
     "subsidyHeadlines": [

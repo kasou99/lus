@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T12:22:32.667Z",
+  "updatedAt": "2026-08-07T12:50:06.872Z",
   "items": [
     {
       "time": "20:58",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "蓮池薫さんの母・ハツイさん死去"
     },
     {
-      "time": "20:30",
-      "title": "「家族いる」前提の世間 抱く不安",
+      "time": "17:00",
+      "title": "米「出産旅行」禁止 大統領令署名",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590896?source=rss",
-      "publishedAt": "2026-08-07T11:30:14.000Z",
-      "xQuery": "「家族いる」前提の世間 抱く不安"
+      "url": "https://news.yahoo.co.jp/pickup/6590874?source=rss",
+      "publishedAt": "2026-08-07T08:00:23.000Z",
+      "xQuery": "米「出産旅行」禁止 大統領令署名"
     },
     {
-      "time": "20:40",
-      "title": "生成AIが新ウイルス設計 米研究",
+      "time": "21:26",
+      "title": "江別暴行で無期判決 諭した裁判長",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590898?source=rss",
-      "publishedAt": "2026-08-07T11:40:56.000Z",
-      "xQuery": "生成AIが新ウイルス設計 米研究"
+      "url": "https://news.yahoo.co.jp/pickup/6590901?source=rss",
+      "publishedAt": "2026-08-07T12:26:16.000Z",
+      "xQuery": "江別暴行で無期判決 諭した裁判長"
     }
   ]
 };
