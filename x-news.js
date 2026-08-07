@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T08:56:13.240Z",
+  "updatedAt": "2026-08-07T09:26:42.990Z",
   "items": [
     {
       "time": "17:43",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "爆心地から500mで被爆 生還した父"
     },
     {
+      "time": "17:56",
+      "title": "台風 沖縄・奄美で暴風雨続く恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590883?source=rss",
+      "publishedAt": "2026-08-07T08:56:36.000Z",
+      "xQuery": "台風 沖縄・奄美で暴風雨続く恐れ"
+    },
+    {
       "time": "17:30",
       "title": "タイの学校で銃撃 教職員5人死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590881?source=rss",
       "publishedAt": "2026-08-07T08:30:32.000Z",
       "xQuery": "タイの学校で銃撃 教職員5人死亡"
-    },
-    {
-      "time": "17:04",
-      "title": "国家公務員の月給3.51%増へ 勧告",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590876?source=rss",
-      "publishedAt": "2026-08-07T08:04:45.000Z",
-      "xQuery": "国家公務員の月給3.51%増へ 勧告"
     },
     {
       "time": "15:58",
