@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T15:21:41.796Z",
+  "updatedAt": "2026-08-07T15:50:00.743Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -18,10 +18,17 @@
       },
       {
         "time": "05:00",
-        "title": "四半期決算＜４～６月期＞＝エンシュウ 工作機械 損益改善 - news.at-s.com",
-        "source": "news.at-s.com",
+        "title": "四半期決算＜４～６月期＞＝エンシュウ 工作機械 損益改善",
+        "source": "静岡新聞DIGITAL",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5STjVNTkw2SHNyaEQxdEZlS3BQV3prU1IzLWotMFVDNVZVMEl5ajNNOEgxbEEtamU0ZDExdVM3QXZUdFRGUmZsOE1tYlRJQQ?oc=5",
         "publishedAt": "2026-08-06T20:00:00.000Z"
+      },
+      {
+        "time": "18:20",
+        "title": "サンリツ1Q、半導体装置好調で営業益3.4倍",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByZEx0TGFZbGN0UWtWS0tMdkZBdm5oVHVscTQySmVUczkyT2pjMUJfc25fNnpySzhaUEs1Nl9UZENDNlZSMDAxcA?oc=5",
+        "publishedAt": "2026-08-07T09:20:36.000Z"
       },
       {
         "time": "04:45",
@@ -33,7 +40,7 @@
       {
         "time": "05:15",
         "title": "プラ物流大手の三甲 三井精機工業へ出資 筆頭株主に、工作機メーカー株取得は初（中部経済新聞）",
-        "source": "Yahoo!ニュース",
+        "source": "news.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04M2F0WFE4RkhDQUVSQmpnV3Z2WGxCMWFncHRMcUVDcEZBcENMelNVYlBDemwxdFkyTUdnM0J3ZTdPYktqekd0ZEJYdW9nV2doRFZZNFFXcjhvNzcyZVdTQ1RFMEprM0xUZFVXdEluQnhlak9saDRwNXEydlJ2TUU?oc=5",
         "publishedAt": "2026-08-06T20:15:24.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVW81WXhyenRLbDV0QmhWMXoxSjhqLTdXT21RcldYWU83S0xhc3hZZXhLc2tIa1NGVzVkbDZKbGd3azllU3B5eGNkOXIwajdJUjdsbzM2M2RXelUzbVlybWVpbF9lMEFDUGc?oc=5",
         "publishedAt": "2026-08-07T00:00:02.000Z"
-      },
-      {
-        "time": "05:31",
-        "title": "第56回機械工業デザイン賞IDEA（6）日本産業機械工業会賞 芝浦機械",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LOXpkY3RtdFVtNi1Qek81ZXlSanBTVjlMeWxIenFlMmgxRlZFLUs5WjAyTjI3QmJwZkdieFVUdThUQjRXWjNLVmd0a2lsY3h6MHlQYmtlakJnYXdyVW9TdFpEVjNzNkNtU2JlRnZscldJZHpo?oc=5",
-        "publishedAt": "2026-08-06T20:31:19.000Z"
       }
     ],
     "worldHeadlines": [
