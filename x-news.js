@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T01:51:38.324Z",
+  "updatedAt": "2026-08-07T03:06:35.698Z",
   "items": [
     {
-      "time": "09:56",
-      "title": "4/30に6兆円超の介入 政府・日銀",
+      "time": "11:58",
+      "title": "台風13号 沖縄・奄美に最接近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590832?source=rss",
-      "publishedAt": "2026-08-07T00:56:22.000Z",
-      "xQuery": "4/30に6兆円超の介入 政府・日銀"
+      "url": "https://news.yahoo.co.jp/pickup/6590846?source=rss",
+      "publishedAt": "2026-08-07T02:58:27.000Z",
+      "xQuery": "台風13号 沖縄・奄美に最接近"
     },
     {
-      "time": "07:58",
-      "title": "女性研究者支援 新制度設ける方針",
+      "time": "11:47",
+      "title": "空襲から逃げ疲れた母へ 叫んだ娘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590820?source=rss",
-      "publishedAt": "2026-08-06T22:58:11.000Z",
-      "xQuery": "女性研究者支援 新制度設ける方針"
+      "url": "https://news.yahoo.co.jp/pickup/6590845?source=rss",
+      "publishedAt": "2026-08-07T02:47:05.000Z",
+      "xQuery": "空襲から逃げ疲れた母へ 叫んだ娘"
     },
     {
-      "time": "08:09",
-      "title": "イオン爆発遺族 本当のこと言って",
+      "time": "10:40",
+      "title": "米大統領 イラン戦闘「近く終結」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590821?source=rss",
-      "publishedAt": "2026-08-06T23:09:41.000Z",
-      "xQuery": "イオン爆発遺族 本当のこと言って"
+      "url": "https://news.yahoo.co.jp/pickup/6590834?source=rss",
+      "publishedAt": "2026-08-07T01:40:49.000Z",
+      "xQuery": "米大統領 イラン戦闘「近く終結」"
     },
     {
-      "time": "10:07",
-      "title": "全東信破産 539億円超焦げ付くか",
+      "time": "11:36",
+      "title": "スクーターと車衝突 高校生が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590831?source=rss",
-      "publishedAt": "2026-08-07T01:07:51.000Z",
-      "xQuery": "全東信破産 539億円超焦げ付くか"
+      "url": "https://news.yahoo.co.jp/pickup/6590840?source=rss",
+      "publishedAt": "2026-08-07T02:36:04.000Z",
+      "xQuery": "スクーターと車衝突 高校生が死亡"
     },
     {
       "time": "10:30",
