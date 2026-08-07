@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T03:06:35.698Z",
+  "updatedAt": "2026-08-07T04:20:16.429Z",
   "items": [
     {
       "time": "11:58",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風13号 沖縄・奄美に最接近"
     },
     {
-      "time": "11:47",
-      "title": "空襲から逃げ疲れた母へ 叫んだ娘",
+      "time": "11:58",
+      "title": "広島が嫌いだった 86歳で初の式典",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590845?source=rss",
-      "publishedAt": "2026-08-07T02:47:05.000Z",
-      "xQuery": "空襲から逃げ疲れた母へ 叫んだ娘"
-    },
-    {
-      "time": "10:40",
-      "title": "米大統領 イラン戦闘「近く終結」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590834?source=rss",
-      "publishedAt": "2026-08-07T01:40:49.000Z",
-      "xQuery": "米大統領 イラン戦闘「近く終結」"
+      "url": "https://news.yahoo.co.jp/pickup/6590842?source=rss",
+      "publishedAt": "2026-08-07T02:58:53.000Z",
+      "xQuery": "広島が嫌いだった 86歳で初の式典"
     },
     {
       "time": "11:36",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590833?source=rss",
       "publishedAt": "2026-08-07T01:30:52.000Z",
       "xQuery": "従業員「退職」で倒産 最多ペース"
+    },
+    {
+      "time": "11:35",
+      "title": "西鉄の駅で不適切音声 被害届検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590838?source=rss",
+      "publishedAt": "2026-08-07T02:35:18.000Z",
+      "xQuery": "西鉄の駅で不適切音声 被害届検討"
     }
   ]
 };
