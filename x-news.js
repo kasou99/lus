@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-06T23:21:06.641Z",
+  "updatedAt": "2026-08-07T00:57:42.506Z",
   "items": [
     {
-      "time": "06:39",
-      "title": "台風13号 きょう沖縄・奄美に接近",
+      "time": "07:58",
+      "title": "女性研究者支援 新制度設ける方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590809?source=rss",
-      "publishedAt": "2026-08-06T21:39:10.000Z",
-      "xQuery": "台風13号 きょう沖縄・奄美に接近"
+      "url": "https://news.yahoo.co.jp/pickup/6590820?source=rss",
+      "publishedAt": "2026-08-06T22:58:11.000Z",
+      "xQuery": "女性研究者支援 新制度設ける方針"
     },
     {
       "time": "07:48",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "バイクと複数車絡む事故 男性死亡"
     },
     {
-      "time": "06:56",
-      "title": "18歳死亡 海で遊泳中に溺れたか",
+      "time": "09:26",
+      "title": "月のロケット残骸衝突跡 画像公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590810?source=rss",
-      "publishedAt": "2026-08-06T21:56:57.000Z",
-      "xQuery": "18歳死亡 海で遊泳中に溺れたか"
+      "url": "https://news.yahoo.co.jp/pickup/6590828?source=rss",
+      "publishedAt": "2026-08-07T00:26:46.000Z",
+      "xQuery": "月のロケット残骸衝突跡 画像公開"
     }
   ]
 };

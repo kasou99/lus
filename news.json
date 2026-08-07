@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T23:21:05.515Z",
+  "updatedAt": "2026-08-07T00:57:41.788Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-08-06T04:00:00.000Z"
       },
       {
-        "time": "15:30",
-        "title": "【決算速報】岡本工作機械、1Q経常-292百万。(アイフィス株予報)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcVZoZ180aUpkckFvNTV3SzhjZDVYOVZLQlkyaWg4RkRmSXRldjNhRjFwSEY2emZnZWVoX1cyTEd6NGUwMng4Ti11R1lHUlpSREtXVllrMEdBc2xZNEJ3UVh4YTBUT1V3a3Jld2NrMlNndEVxTkZ1OWJXempONWh0MUh3aEI2SUU?oc=5",
-        "publishedAt": "2026-08-06T06:30:00.000Z"
-      },
-      {
         "time": "04:45",
         "title": "【機械業界の5年後大予測】ファナック、ダイフク、川崎重工、THK…設備投資拡大の追い風だけでない強さの秘訣と本命企業をトップアナリストが解説",
         "source": "ダイヤモンド・オンライン",
@@ -38,11 +31,18 @@
         "publishedAt": "2026-08-06T19:45:00.000Z"
       },
       {
-        "time": "09:00",
-        "title": "次世代設備保全クラウド「M2X」が大幅アップデート。ガントチャートで保全計画の進捗を俯瞰し、コストの予実管理を一元化",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zMXcwdU1XUnhpZm5BM0tWdmJZRGItZjJlUlBvZTFhVGJwUUliUjVzNHVGd2JkN0N6bzNKaVlIN05mNlZhem81RTBQeHo2c1I0d1BqVGhudFNPVFBXVjBoei1JZ3JkWlNCTVE?oc=5",
-        "publishedAt": "2026-08-06T00:00:02.000Z"
+        "time": "15:30",
+        "title": "【決算速報】岡本工作機械、1Q経常-292百万。(アイフィス株予報)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcVZoZ180aUpkckFvNTV3SzhjZDVYOVZLQlkyaWg4RkRmSXRldjNhRjFwSEY2emZnZWVoX1cyTEd6NGUwMng4Ti11R1lHUlpSREtXVllrMEdBc2xZNEJ3UVh4YTBUT1V3a3Jld2NrMlNndEVxTkZ1OWJXempONWh0MUh3aEI2SUU?oc=5",
+        "publishedAt": "2026-08-06T06:30:00.000Z"
+      },
+      {
+        "time": "06:54",
+        "title": "第56回機械工業デザイン賞IDEA（6）日本産業機械工業会賞 芝浦機械",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0MWNuZHozd0lYVF9ieDgzMGtmV0ZKY3NWSUVrSXJwZnkwQXRJR0QtWDZjd0JoSkZyWU1QamN3eXU0eGtTV2N6MWQ2cjdBNUtLUkY1YUllejRPVDA?oc=5",
+        "publishedAt": "2026-08-06T21:54:26.000Z"
       },
       {
         "time": "05:00",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-08-06T20:00:00.000Z"
       },
       {
-        "time": "05:03",
-        "title": "ニコン、営業黒字110億円 米関税還付など寄与",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YMW9yakhnaERBVHFUdXJPLTZwbVZGVXFqSmdPbWtlVTltUldGR3NGenY3ektiQVRRT29fOVlEUV9KTmxVTEpWYWF5anYzM19jUjNDa0R0NlJxTEk?oc=5",
-        "publishedAt": "2026-08-06T20:03:32.000Z"
+        "time": "15:24",
+        "title": "小型低背スイッチング電源にUSB PD対応モデル新ラインアップを追加",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42S0dJeHQ4aXVHakN2Tk12azAyUjh0UXFHcVJIQ18xSW5sVkhfRmFqejIwYTNqOW1NUHpQTXlfUk9OaHI1d0s2Nl9pcmVQOWdhdjE3Nw?oc=5",
+        "publishedAt": "2026-08-06T06:24:11.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:38",
+        "title": "4/30に6兆円超為替介入 過去最大",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590830?source=rss",
+        "publishedAt": "2026-08-07T00:38:37.000Z"
+      },
+      {
         "time": "20:29",
         "title": "イオン爆発 ガス供給会社コメント",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590751?source=rss",
         "publishedAt": "2026-08-06T08:04:53.000Z"
-      },
-      {
-        "time": "21:23",
-        "title": "みんなで大家さん債務超過額 判明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590792?source=rss",
-        "publishedAt": "2026-08-06T12:23:51.000Z"
       }
     ],
     "localHeadlines": [
