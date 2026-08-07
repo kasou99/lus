@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-07T21:17:28.820Z",
+  "updatedAt": "2026-08-07T21:47:33.952Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:00",
-        "title": "四半期決算＜４～６月期＞＝ヤマザキ 工作機械減で赤字 - news.at-s.com",
-        "source": "news.at-s.com",
+        "title": "四半期決算＜４～６月期＞＝ヤマザキ 工作機械減で赤字",
+        "source": "静岡新聞DIGITAL",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CZlc0RnZwR1lqZDdBaVNTcWpXRDNNdU81YnFaTDFUY2NlV3VVS21MUVRFQWpPcGZvay1JQnlPcjE4a01zZVNDdllDNVQ0QQ?oc=5",
         "publishedAt": "2026-08-07T20:00:00.000Z"
       },
@@ -15,6 +15,13 @@
         "source": "上毛新聞電子版",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfejhvZHMzVkhUZTZCZURmOUVMVU9PX2tsNzVhRmNEalVKLW0zMXJLbGVXUUp5RElWOHVwUXhEMmNaZk1COXJ4aGZuaEZKSmxWaHlxNzRlb1c?oc=5",
         "publishedAt": "2026-08-07T06:30:00.000Z"
+      },
+      {
+        "time": "18:20",
+        "title": "サンリツ1Q、半導体装置好調で営業益3.4倍",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByZEx0TGFZbGN0UWtWS0tMdkZBdm5oVHVscTQySmVUczkyT2pjMUJfc25fNnpySzhaUEs1Nl9UZENDNlZSMDAxcA?oc=5",
+        "publishedAt": "2026-08-07T09:20:36.000Z"
       },
       {
         "time": "16:30",
@@ -33,7 +40,7 @@
       {
         "time": "07:21",
         "title": "「クルマが景気を動かす」時代は戻るのか？ 景気DI「43.6」が映すAI時代の産業連鎖、ものづくり再始動への新たな循環とは",
-        "source": "topics.smt.docomo.ne.jp",
+        "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNUNNZGJIQmlBZHhpUWlpaEJBcmdnVEJMY0RBUVVvTUlqN0hsbmNUeERfRXByUGd2c3htakdrYXpQRERQd082YjRIMmtSOXk0WkVDMDlsdVl4VEZTeEdfRHYybTE4c1NoS2tFbXUwUV9yT3FrNXBmX0tobDNONEV0WEU0T0tsS0Jt0gGIAUFVX3lxTE01Q01kYkhCaUFkeGlRaWloQkFyZ2dUQkxjREFRVW9NSWo3SGxuY1R4RF9FcHJQZ3ZzeG1qR2thelBERFB3TzZiNEgya1I5eTRaRUMwOWx1WXhURlN4R19EdjJtMThzU2hLa0VtdTBRX3JPcWs1cGZfS2hsM040RXRYRTRPS2xLQm0?oc=5",
         "publishedAt": "2026-08-06T22:21:00.000Z"
       },
@@ -47,16 +54,9 @@
       {
         "time": "12:25",
         "title": "大雨被害から１年、金沢競馬場の浸水対策完了 「白熱のレースで恩返し」｜社会｜石川のニュース",
-        "source": "北國新聞",
+        "source": "hokkoku.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zV0dySTZMN2xrbFg3ZVBHRzVTbHRGVHpfSlI2WHY3WEsxWkM0WlJnV2QxM2dsVXlITnlCTU9vQV84Vk05UlBkRzBxOVhpOWZhQUVOdWxDRQ?oc=5",
         "publishedAt": "2026-08-07T03:25:00.000Z"
-      },
-      {
-        "time": "11:56",
-        "title": "半導体業界の現場知見をもとに、求職者の経験を業界目線で読み解く「LAYLA-HR」ベータ版を公開",
-        "source": "oita.keizai.biz",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EQUxsejZScWw0VnRJc2o2Qm50LWlUb1BVQklQQXUzVnd6Ujl4V0hUU1hhUkxEbFUxYk1kVE4yeWJ0WWZycTVwMkd4V21mUGNS?oc=5",
-        "publishedAt": "2026-08-07T02:56:27.000Z"
       }
     ],
     "worldHeadlines": [
