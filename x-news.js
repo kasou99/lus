@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T07:33:59.124Z",
+  "updatedAt": "2026-08-07T08:29:48.820Z",
   "items": [
     {
-      "time": "14:00",
-      "title": "熊本地震を激甚災害に指定 政府",
+      "time": "17:01",
+      "title": "改憲は必要? 国会と世論に乖離も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590858?source=rss",
-      "publishedAt": "2026-08-07T05:00:26.000Z",
-      "xQuery": "熊本地震を激甚災害に指定 政府"
+      "url": "https://news.yahoo.co.jp/pickup/6590870?source=rss",
+      "publishedAt": "2026-08-07T08:01:26.000Z",
+      "xQuery": "改憲は必要? 国会と世論に乖離も"
     },
     {
-      "time": "13:59",
-      "title": "国民代表選 玉木氏と橋本氏立候補",
+      "time": "17:04",
+      "title": "国家公務員の月給3.51%増へ 勧告",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590859?source=rss",
-      "publishedAt": "2026-08-07T04:59:57.000Z",
-      "xQuery": "国民代表選 玉木氏と橋本氏立候補"
+      "url": "https://news.yahoo.co.jp/pickup/6590876?source=rss",
+      "publishedAt": "2026-08-07T08:04:45.000Z",
+      "xQuery": "国家公務員の月給3.51%増へ 勧告"
     },
     {
-      "time": "13:41",
-      "title": "江別暴行 当時18歳に無期懲役判決",
+      "time": "15:58",
+      "title": "脳腫瘍手術で誤摘出 京大病院謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590860?source=rss",
-      "publishedAt": "2026-08-07T04:41:53.000Z",
-      "xQuery": "江別暴行 当時18歳に無期懲役判決"
+      "url": "https://news.yahoo.co.jp/pickup/6590868?source=rss",
+      "publishedAt": "2026-08-07T06:58:03.000Z",
+      "xQuery": "脳腫瘍手術で誤摘出 京大病院謝罪"
     },
     {
       "time": "16:24",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "タイの学校で銃撃 生徒ら6人死亡"
     },
     {
-      "time": "15:58",
-      "title": "脳腫瘍手術で誤摘出 京大病院謝罪",
+      "time": "14:48",
+      "title": "東京駅近く 地下シェルター整備へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590868?source=rss",
-      "publishedAt": "2026-08-07T06:58:03.000Z",
-      "xQuery": "脳腫瘍手術で誤摘出 京大病院謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6590862?source=rss",
+      "publishedAt": "2026-08-07T05:48:18.000Z",
+      "xQuery": "東京駅近く 地下シェルター整備へ"
     }
   ]
 };
