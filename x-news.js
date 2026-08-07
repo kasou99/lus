@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T08:29:48.820Z",
+  "updatedAt": "2026-08-07T08:56:13.240Z",
   "items": [
     {
-      "time": "17:01",
-      "title": "改憲は必要? 国会と世論に乖離も",
+      "time": "17:43",
+      "title": "爆心地から500mで被爆 生還した父",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590870?source=rss",
-      "publishedAt": "2026-08-07T08:01:26.000Z",
-      "xQuery": "改憲は必要? 国会と世論に乖離も"
+      "url": "https://news.yahoo.co.jp/pickup/6590878?source=rss",
+      "publishedAt": "2026-08-07T08:43:43.000Z",
+      "xQuery": "爆心地から500mで被爆 生還した父"
+    },
+    {
+      "time": "17:30",
+      "title": "タイの学校で銃撃 教職員5人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590881?source=rss",
+      "publishedAt": "2026-08-07T08:30:32.000Z",
+      "xQuery": "タイの学校で銃撃 教職員5人死亡"
     },
     {
       "time": "17:04",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "脳腫瘍手術で誤摘出 京大病院謝罪"
     },
     {
-      "time": "16:24",
-      "title": "タイの学校で銃撃 生徒ら6人死亡",
+      "time": "17:30",
+      "title": "鉄塔の保守作業員が死亡 熱中症か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590869?source=rss",
-      "publishedAt": "2026-08-07T07:24:05.000Z",
-      "xQuery": "タイの学校で銃撃 生徒ら6人死亡"
-    },
-    {
-      "time": "14:48",
-      "title": "東京駅近く 地下シェルター整備へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590862?source=rss",
-      "publishedAt": "2026-08-07T05:48:18.000Z",
-      "xQuery": "東京駅近く 地下シェルター整備へ"
+      "url": "https://news.yahoo.co.jp/pickup/6590877?source=rss",
+      "publishedAt": "2026-08-07T08:30:01.000Z",
+      "xQuery": "鉄塔の保守作業員が死亡 熱中症か"
     }
   ]
 };
