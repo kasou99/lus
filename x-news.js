@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T12:50:06.872Z",
+  "updatedAt": "2026-08-07T13:31:04.241Z",
   "items": [
     {
       "time": "20:58",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "台風15号 来週に東・北日本接近か"
     },
     {
-      "time": "20:03",
-      "title": "81年前 6歳の私かばい死んだ祖母",
+      "time": "21:46",
+      "title": "「日銀利上げで円高」は本当か?",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590895?source=rss",
-      "publishedAt": "2026-08-07T11:03:26.000Z",
-      "xQuery": "81年前 6歳の私かばい死んだ祖母"
+      "url": "https://news.yahoo.co.jp/pickup/6590885?source=rss",
+      "publishedAt": "2026-08-07T12:46:50.000Z",
+      "xQuery": "「日銀利上げで円高」は本当か?"
     },
     {
-      "time": "21:05",
-      "title": "蓮池薫さんの母・ハツイさん死去",
+      "time": "21:34",
+      "title": "国税不祥事 前例ない事態に危機感",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590902?source=rss",
-      "publishedAt": "2026-08-07T12:05:42.000Z",
-      "xQuery": "蓮池薫さんの母・ハツイさん死去"
+      "url": "https://news.yahoo.co.jp/pickup/6590905?source=rss",
+      "publishedAt": "2026-08-07T12:34:50.000Z",
+      "xQuery": "国税不祥事 前例ない事態に危機感"
     },
     {
-      "time": "17:00",
-      "title": "米「出産旅行」禁止 大統領令署名",
+      "time": "21:31",
+      "title": "脳一部を誤摘出され 自発呼吸不能",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590874?source=rss",
-      "publishedAt": "2026-08-07T08:00:23.000Z",
-      "xQuery": "米「出産旅行」禁止 大統領令署名"
+      "url": "https://news.yahoo.co.jp/pickup/6590906?source=rss",
+      "publishedAt": "2026-08-07T12:31:18.000Z",
+      "xQuery": "脳一部を誤摘出され 自発呼吸不能"
     },
     {
-      "time": "21:26",
-      "title": "江別暴行で無期判決 諭した裁判長",
+      "time": "16:16",
+      "title": "グーグル幹部退社 AI競争に危機感",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590901?source=rss",
-      "publishedAt": "2026-08-07T12:26:16.000Z",
-      "xQuery": "江別暴行で無期判決 諭した裁判長"
+      "url": "https://news.yahoo.co.jp/pickup/6590866?source=rss",
+      "publishedAt": "2026-08-07T07:16:41.000Z",
+      "xQuery": "グーグル幹部退社 AI競争に危機感"
     }
   ]
 };

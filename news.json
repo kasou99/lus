@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T12:50:06.125Z",
+  "updatedAt": "2026-08-07T13:31:03.303Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-08-06T20:12:29.000Z"
       },
       {
+        "time": "18:20",
+        "title": "サンリツ1Q、半導体装置好調で営業益3.4倍",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByZEx0TGFZbGN0UWtWS0tMdkZBdm5oVHVscTQySmVUczkyT2pjMUJfc25fNnpySzhaUEs1Nl9UZENDNlZSMDAxcA?oc=5",
+        "publishedAt": "2026-08-07T09:20:36.000Z"
+      },
+      {
         "time": "04:45",
         "title": "【機械業界の5年後大予測】ファナック、ダイフク、川崎重工、THK…設備投資拡大の追い風だけでない強さの秘訣と本命企業をトップアナリストが解説",
         "source": "ダイヤモンド・オンライン",
@@ -33,7 +40,7 @@
       {
         "time": "05:15",
         "title": "プラ物流大手の三甲 三井精機工業へ出資 筆頭株主に、工作機メーカー株取得は初（中部経済新聞）",
-        "source": "Yahoo!ニュース",
+        "source": "news.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04M2F0WFE4RkhDQUVSQmpnV3Z2WGxCMWFncHRMcUVDcEZBcENMelNVYlBDemwxdFkyTUdnM0J3ZTdPYktqekd0ZEJYdW9nV2doRFZZNFFXcjhvNzcyZVdTQ1RFMEprM0xUZFVXdEluQnhlak9saDRwNXEydlJ2TUU?oc=5",
         "publishedAt": "2026-08-06T20:15:24.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVW81WXhyenRLbDV0QmhWMXoxSjhqLTdXT21RcldYWU83S0xhc3hZZXhLc2tIa1NGVzVkbDZKbGd3azllU3B5eGNkOXIwajdJUjdsbzM2M2RXelUzbVlybWVpbF9lMEFDUGc?oc=5",
         "publishedAt": "2026-08-07T00:00:02.000Z"
-      },
-      {
-        "time": "05:31",
-        "title": "第56回機械工業デザイン賞IDEA（6）日本産業機械工業会賞 芝浦機械",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LOXpkY3RtdFVtNi1Qek81ZXlSanBTVjlMeWxIenFlMmgxRlZFLUs5WjAyTjI3QmJwZkdieFVUdThUQjRXWjNLVmd0a2lsY3h6MHlQYmtlakJnYXdyVW9TdFpEVjNzNkNtU2JlRnZscldJZHpo?oc=5",
-        "publishedAt": "2026-08-06T20:31:19.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,18 +105,25 @@
     ],
     "economyHeadlines": [
       {
-        "time": "09:56",
-        "title": "4/30に6兆円超の介入 政府・日銀",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590832?source=rss",
-        "publishedAt": "2026-08-07T00:56:22.000Z"
-      },
-      {
         "time": "21:46",
         "title": "「日銀利上げで円高」は本当か?",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590885?source=rss",
         "publishedAt": "2026-08-07T12:46:50.000Z"
+      },
+      {
+        "time": "22:21",
+        "title": "四国新幹線 調査対象路線に国選定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590913?source=rss",
+        "publishedAt": "2026-08-07T13:21:57.000Z"
+      },
+      {
+        "time": "22:25",
+        "title": "キオクシア株 東芝にも巨額の恩恵",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590911?source=rss",
+        "publishedAt": "2026-08-07T13:25:18.000Z"
       },
       {
         "time": "10:07",
@@ -133,18 +140,11 @@
         "publishedAt": "2026-08-07T04:14:28.000Z"
       },
       {
-        "time": "10:30",
-        "title": "従業員「退職」で倒産 最多ペース",
+        "time": "21:51",
+        "title": "中国でスシロー好調 5時間待ちも",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590833?source=rss",
-        "publishedAt": "2026-08-07T01:30:52.000Z"
-      },
-      {
-        "time": "11:35",
-        "title": "西鉄の駅で不適切音声 被害届検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590838?source=rss",
-        "publishedAt": "2026-08-07T02:35:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590909?source=rss",
+        "publishedAt": "2026-08-07T12:51:44.000Z"
       }
     ],
     "localHeadlines": [
