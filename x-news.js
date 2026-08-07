@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T22:14:54.328Z",
+  "updatedAt": "2026-08-07T22:47:07.128Z",
   "items": [
     {
-      "time": "20:58",
-      "title": "台風15号 来週に東・北日本接近か",
+      "time": "07:34",
+      "title": "台風13号 沖縄など影響長引く恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590888?source=rss",
-      "publishedAt": "2026-08-07T11:58:18.000Z",
-      "xQuery": "台風15号 来週に東・北日本接近か"
+      "url": "https://news.yahoo.co.jp/pickup/6590923?source=rss",
+      "publishedAt": "2026-08-07T22:34:39.000Z",
+      "xQuery": "台風13号 沖縄など影響長引く恐れ"
     },
     {
       "time": "21:34",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "国税不祥事 前例ない事態に危機感"
     },
     {
-      "time": "22:25",
-      "title": "キオクシア株 東芝にも巨額の恩恵",
+      "time": "07:26",
+      "title": "イオンの従業員誘導 規定に抵触か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590911?source=rss",
-      "publishedAt": "2026-08-07T13:25:18.000Z",
-      "xQuery": "キオクシア株 東芝にも巨額の恩恵"
+      "url": "https://news.yahoo.co.jp/pickup/6590922?source=rss",
+      "publishedAt": "2026-08-07T22:26:44.000Z",
+      "xQuery": "イオンの従業員誘導 規定に抵触か"
     },
     {
       "time": "21:31",
