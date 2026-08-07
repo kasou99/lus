@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T06:32:52.764Z",
+  "updatedAt": "2026-08-07T07:33:58.589Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -82,18 +82,11 @@
         "publishedAt": "2026-08-05T23:19:37.000Z"
       },
       {
-        "time": "21:51",
-        "title": "北発射は短距離弾道ミサイル 韓国",
+        "time": "16:24",
+        "title": "タイの学校で銃撃 生徒ら6人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590794?source=rss",
-        "publishedAt": "2026-08-06T12:51:47.000Z"
-      },
-      {
-        "time": "17:35",
-        "title": "北発射のミサイルはEEZ外落下か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590759?source=rss",
-        "publishedAt": "2026-08-06T08:35:08.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590869?source=rss",
+        "publishedAt": "2026-08-07T07:24:05.000Z"
       },
       {
         "time": "12:34",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590721?source=rss",
         "publishedAt": "2026-08-06T03:34:29.000Z"
+      },
+      {
+        "time": "21:51",
+        "title": "北発射は短距離弾道ミサイル 韓国",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590794?source=rss",
+        "publishedAt": "2026-08-06T12:51:47.000Z"
       }
     ],
     "economyHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-08-06T23:09:41.000Z"
       },
       {
-        "time": "14:48",
-        "title": "東京駅近く 地下シェルター整備へ",
+        "time": "15:58",
+        "title": "脳腫瘍手術で誤摘出 京大病院謝罪",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590862?source=rss",
-        "publishedAt": "2026-08-07T05:48:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590868?source=rss",
+        "publishedAt": "2026-08-07T06:58:03.000Z"
       },
       {
-        "time": "20:52",
-        "title": "3年で2.6億円 福岡県議会海外視察",
+        "time": "15:35",
+        "title": "田沢湖で60代男性が溺れる 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590788?source=rss",
-        "publishedAt": "2026-08-06T11:52:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590864?source=rss",
+        "publishedAt": "2026-08-07T06:35:58.000Z"
       }
     ],
     "subsidyHeadlines": [

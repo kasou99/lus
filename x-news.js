@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T06:32:53.365Z",
+  "updatedAt": "2026-08-07T07:33:59.124Z",
   "items": [
     {
       "time": "14:00",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590858?source=rss",
       "publishedAt": "2026-08-07T05:00:26.000Z",
       "xQuery": "熊本地震を激甚災害に指定 政府"
-    },
-    {
-      "time": "11:58",
-      "title": "広島が嫌いだった 86歳で初の式典",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590842?source=rss",
-      "publishedAt": "2026-08-07T02:58:53.000Z",
-      "xQuery": "広島が嫌いだった 86歳で初の式典"
     },
     {
       "time": "13:59",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "江別暴行 当時18歳に無期懲役判決"
     },
     {
-      "time": "13:14",
-      "title": "大手ボーナス増 裏側で広がる格差",
+      "time": "16:24",
+      "title": "タイの学校で銃撃 生徒ら6人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590856?source=rss",
-      "publishedAt": "2026-08-07T04:14:28.000Z",
-      "xQuery": "大手ボーナス増 裏側で広がる格差"
+      "url": "https://news.yahoo.co.jp/pickup/6590869?source=rss",
+      "publishedAt": "2026-08-07T07:24:05.000Z",
+      "xQuery": "タイの学校で銃撃 生徒ら6人死亡"
+    },
+    {
+      "time": "15:58",
+      "title": "脳腫瘍手術で誤摘出 京大病院謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590868?source=rss",
+      "publishedAt": "2026-08-07T06:58:03.000Z",
+      "xQuery": "脳腫瘍手術で誤摘出 京大病院謝罪"
     }
   ]
 };
