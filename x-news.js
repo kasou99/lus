@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T13:31:04.241Z",
+  "updatedAt": "2026-08-07T14:25:44.699Z",
   "items": [
     {
       "time": "20:58",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風15号 来週に東・北日本接近か"
     },
     {
-      "time": "21:46",
-      "title": "「日銀利上げで円高」は本当か?",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590885?source=rss",
-      "publishedAt": "2026-08-07T12:46:50.000Z",
-      "xQuery": "「日銀利上げで円高」は本当か?"
-    },
-    {
       "time": "21:34",
       "title": "国税不祥事 前例ない事態に危機感",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590905?source=rss",
       "publishedAt": "2026-08-07T12:34:50.000Z",
       "xQuery": "国税不祥事 前例ない事態に危機感"
+    },
+    {
+      "time": "22:25",
+      "title": "キオクシア株 東芝にも巨額の恩恵",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590911?source=rss",
+      "publishedAt": "2026-08-07T13:25:18.000Z",
+      "xQuery": "キオクシア株 東芝にも巨額の恩恵"
     },
     {
       "time": "21:31",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "脳一部を誤摘出され 自発呼吸不能"
     },
     {
-      "time": "16:16",
-      "title": "グーグル幹部退社 AI競争に危機感",
+      "time": "21:05",
+      "title": "「墓じまい」が急増 墓石はどこへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590866?source=rss",
-      "publishedAt": "2026-08-07T07:16:41.000Z",
-      "xQuery": "グーグル幹部退社 AI競争に危機感"
+      "url": "https://news.yahoo.co.jp/pickup/6590899?source=rss",
+      "publishedAt": "2026-08-07T12:05:42.000Z",
+      "xQuery": "「墓じまい」が急増 墓石はどこへ"
     }
   ]
 };
