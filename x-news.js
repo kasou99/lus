@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T11:19:54.245Z",
+  "updatedAt": "2026-08-07T11:48:15.297Z",
   "items": [
     {
       "time": "17:43",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "爆心地から500mで被爆 生還した父"
     },
     {
-      "time": "17:56",
-      "title": "台風 沖縄・奄美で暴風雨続く恐れ",
+      "time": "20:03",
+      "title": "81年前 6歳の私かばい死んだ祖母",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590883?source=rss",
-      "publishedAt": "2026-08-07T08:56:36.000Z",
-      "xQuery": "台風 沖縄・奄美で暴風雨続く恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6590895?source=rss",
+      "publishedAt": "2026-08-07T11:03:26.000Z",
+      "xQuery": "81年前 6歳の私かばい死んだ祖母"
     },
     {
-      "time": "17:30",
-      "title": "鉄塔の保守作業員が死亡 熱中症か",
+      "time": "20:30",
+      "title": "「家族いる」前提の世間 抱く不安",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590877?source=rss",
-      "publishedAt": "2026-08-07T08:30:01.000Z",
-      "xQuery": "鉄塔の保守作業員が死亡 熱中症か"
+      "url": "https://news.yahoo.co.jp/pickup/6590896?source=rss",
+      "publishedAt": "2026-08-07T11:30:14.000Z",
+      "xQuery": "「家族いる」前提の世間 抱く不安"
     },
     {
       "time": "19:28",

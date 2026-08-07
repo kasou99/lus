@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T11:19:53.462Z",
+  "updatedAt": "2026-08-07T11:48:14.472Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92NUJTX3VCeG9iX0RiTm45VHhiYklhelhrTV9QTEk2aGxLcWFBOTRrQWpDWk82N3FSZ0VOSUZoYS04SVFlR1dHRjRCd1o1VWFSdWJSemZhcllCSXRKTkQ4UHI2ZVg2TTgtUERhNWRETEtUaXc?oc=5",
         "publishedAt": "2026-08-06T20:12:29.000Z"
+      },
+      {
+        "time": "18:20",
+        "title": "サンリツ1Q、半導体装置好調で営業益3.4倍",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByZEx0TGFZbGN0UWtWS0tMdkZBdm5oVHVscTQySmVUczkyT2pjMUJfc25fNnpySzhaUEs1Nl9UZENDNlZSMDAxcA?oc=5",
+        "publishedAt": "2026-08-07T09:20:36.000Z"
       },
       {
         "time": "04:45",
@@ -50,13 +57,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVW81WXhyenRLbDV0QmhWMXoxSjhqLTdXT21RcldYWU83S0xhc3hZZXhLc2tIa1NGVzVkbDZKbGd3azllU3B5eGNkOXIwajdJUjdsbzM2M2RXelUzbVlybWVpbF9lMEFDUGc?oc=5",
         "publishedAt": "2026-08-07T00:00:02.000Z"
-      },
-      {
-        "time": "06:54",
-        "title": "第56回機械工業デザイン賞IDEA（6）日本産業機械工業会賞 芝浦機械",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0MWNuZHozd0lYVF9ieDgzMGtmV0ZKY3NWSUVrSXJwZnkwQXRJR0QtWDZjd0JoSkZyWU1QamN3eXU0eGtTV2N6MWQ2cjdBNUtLUkY1YUllejRPVDA?oc=5",
-        "publishedAt": "2026-08-06T21:54:26.000Z"
       }
     ],
     "worldHeadlines": [
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }
