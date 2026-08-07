@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T23:14:55.203Z",
+  "updatedAt": "2026-08-07T23:44:22.891Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-08-07T07:30:00.000Z"
       },
       {
+        "time": "18:25",
+        "title": "「クルマが景気を動かす」時代は戻るのか？ 景気DI「43.6」が映すAI時代の産業連鎖、ものづくり再始動への新たな循環とは",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4LThvOTV0ZnNnVFVQWTJJdHg5VTZkUHFGR2RsRC1OTkhYdjJzbHpxdEJVazByc2g4czNvMmtHRmxfSVo2MDZoSnJDdURtbkxTcHY5WGRhcGVvc2FfLVdNMm5VeUdHS1h4Q2JQdmRB?oc=5",
+        "publishedAt": "2026-08-07T09:25:06.000Z"
+      },
+      {
         "time": "09:00",
         "title": "製紙工場の煙道・煙突点検に360°カメラ搭載マイクロドローンを活用、リックスとアイ・ロボティクス",
         "source": "PR TIMES",
@@ -50,16 +57,16 @@
         "source": "大分経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EQUxsejZScWw0VnRJc2o2Qm50LWlUb1BVQklQQXUzVnd6Ujl4V0hUU1hhUkxEbFUxYk1kVE4yeWJ0WWZycTVwMkd4V21mUGNS?oc=5",
         "publishedAt": "2026-08-07T02:56:27.000Z"
-      },
-      {
-        "time": "08:25",
-        "title": "「クルマが景気を動かす」時代は戻るのか？ 景気DI「43.6」が映すAI時代の産業連鎖、ものづくり再始動への新たな循環とは",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4LThvOTV0ZnNnVFVQWTJJdHg5VTZkUHFGR2RsRC1OTkhYdjJzbHpxdEJVazByc2g4czNvMmtHRmxfSVo2MDZoSnJDdURtbkxTcHY5WGRhcGVvc2FfLVdNMm5VeUdHS1h4Q2JQdmRB?oc=5",
-        "publishedAt": "2026-08-06T23:25:06.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "08:31",
+        "title": "トランプ氏 FRB理事解任なお模索",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590932?source=rss",
+        "publishedAt": "2026-08-07T23:31:36.000Z"
+      },
       {
         "time": "10:40",
         "title": "米大統領 イラン戦闘「近く終結」",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590904?source=rss",
         "publishedAt": "2026-08-07T12:43:17.000Z"
-      },
-      {
-        "time": "12:34",
-        "title": "中国 なぜ領有権争いを続けるのか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590721?source=rss",
-        "publishedAt": "2026-08-06T03:34:29.000Z"
       }
     ],
     "economyHeadlines": [
@@ -170,13 +170,6 @@
         "publishedAt": "2026-08-07T02:58:53.000Z"
       },
       {
-        "time": "13:41",
-        "title": "江別暴行 当時18歳に無期懲役判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590860?source=rss",
-        "publishedAt": "2026-08-07T04:41:53.000Z"
-      },
-      {
         "time": "21:26",
         "title": "江別暴行で無期判決 諭した裁判長",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590894?source=rss",
         "publishedAt": "2026-08-07T11:17:00.000Z"
+      },
+      {
+        "time": "08:39",
+        "title": "53歳男性が死亡 ひき逃げの疑い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590934?source=rss",
+        "publishedAt": "2026-08-07T23:39:21.000Z"
       }
     ],
     "subsidyHeadlines": [
