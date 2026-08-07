@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T05:59:17.151Z",
+  "updatedAt": "2026-08-07T06:32:53.365Z",
   "items": [
     {
       "time": "14:00",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "江別暴行 当時18歳に無期懲役判決"
     },
     {
-      "time": "13:47",
-      "title": "プルデンシャル 顧客面談を録音へ",
+      "time": "13:14",
+      "title": "大手ボーナス増 裏側で広がる格差",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590857?source=rss",
-      "publishedAt": "2026-08-07T04:47:46.000Z",
-      "xQuery": "プルデンシャル 顧客面談を録音へ"
+      "url": "https://news.yahoo.co.jp/pickup/6590856?source=rss",
+      "publishedAt": "2026-08-07T04:14:28.000Z",
+      "xQuery": "大手ボーナス増 裏側で広がる格差"
     }
   ]
 };

@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-07T05:59:16.090Z",
+  "updatedAt": "2026-08-07T06:32:52.764Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:30",
+        "title": "《決算短信》 小倉クラッチ、岡本工作機械製作所、SANKYO、佐田建設 2026年4～6月期",
+        "source": "上毛新聞電子版",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfejhvZHMzVkhUZTZCZURmOUVMVU9PX2tsNzVhRmNEalVKLW0zMXJLbGVXUUp5RElWOHVwUXhEMmNaZk1COXJ4aGZuaEZKSmxWaHlxNzRlb1c?oc=5",
+        "publishedAt": "2026-08-07T06:30:00.000Z"
+      },
       {
         "time": "05:00",
         "title": "四半期決算＜４～６月期＞＝エンシュウ 工作機械 損益改善",
@@ -24,6 +31,13 @@
         "publishedAt": "2026-08-06T19:45:00.000Z"
       },
       {
+        "time": "05:15",
+        "title": "プラ物流大手の三甲 三井精機工業へ出資 筆頭株主に、工作機メーカー株取得は初（中部経済新聞）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04M2F0WFE4RkhDQUVSQmpnV3Z2WGxCMWFncHRMcUVDcEZBcENMelNVYlBDemwxdFkyTUdnM0J3ZTdPYktqekd0ZEJYdW9nV2doRFZZNFFXcjhvNzcyZVdTQ1RFMEprM0xUZFVXdEluQnhlak9saDRwNXEydlJ2TUU?oc=5",
+        "publishedAt": "2026-08-06T20:15:24.000Z"
+      },
+      {
         "time": "07:21",
         "title": "「クルマが景気を動かす」時代は戻るのか？ 景気DI「43.6」が映すAI時代の産業連鎖、ものづくり再始動への新たな循環とは",
         "source": "ｄメニューニュース",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-08-07T00:00:02.000Z"
       },
       {
-        "time": "05:15",
-        "title": "プラ物流大手の三甲 三井精機工業へ出資 筆頭株主に、工作機メーカー株取得は初（中部経済新聞）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04M2F0WFE4RkhDQUVSQmpnV3Z2WGxCMWFncHRMcUVDcEZBcENMelNVYlBDemwxdFkyTUdnM0J3ZTdPYktqekd0ZEJYdW9nV2doRFZZNFFXcjhvNzcyZVdTQ1RFMEprM0xUZFVXdEluQnhlak9saDRwNXEydlJ2TUU?oc=5",
-        "publishedAt": "2026-08-06T20:15:24.000Z"
-      },
-      {
-        "time": "05:31",
+        "time": "06:54",
         "title": "第56回機械工業デザイン賞IDEA（6）日本産業機械工業会賞 芝浦機械",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LOXpkY3RtdFVtNi1Qek81ZXlSanBTVjlMeWxIenFlMmgxRlZFLUs5WjAyTjI3QmJwZkdieFVUdThUQjRXWjNLVmd0a2lsY3h6MHlQYmtlakJnYXdyVW9TdFpEVjNzNkNtU2JlRnZscldJZHpo?oc=5",
-        "publishedAt": "2026-08-06T20:31:19.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "プラ物流大手の三甲 三井精機工業へ出資 筆頭株主に、工作機メーカー株取得は初",
-        "source": "47NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IWFNBSVlEdzlSZkJ0Q3c5WU81RkVNNXlQTjFYZ1QwT3g5Ml90Z3ZJQ2ZDUWstR2NKRzk0T2ZFcjJsU1hMTS1kcnlEaw?oc=5",
-        "publishedAt": "2026-08-06T20:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0MWNuZHozd0lYVF9ieDgzMGtmV0ZKY3NWSUVrSXJwZnkwQXRJR0QtWDZjd0JoSkZyWU1QamN3eXU0eGtTV2N6MWQ2cjdBNUtLUkY1YUllejRPVDA?oc=5",
+        "publishedAt": "2026-08-06T21:54:26.000Z"
       }
     ],
     "worldHeadlines": [
