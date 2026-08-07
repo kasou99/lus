@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T05:07:42.592Z",
+  "updatedAt": "2026-08-07T05:59:16.090Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -177,18 +177,18 @@
         "publishedAt": "2026-08-06T23:09:41.000Z"
       },
       {
+        "time": "14:48",
+        "title": "東京駅近く 地下シェルター整備へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590862?source=rss",
+        "publishedAt": "2026-08-07T05:48:18.000Z"
+      },
+      {
         "time": "20:52",
         "title": "3年で2.6億円 福岡県議会海外視察",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590788?source=rss",
         "publishedAt": "2026-08-06T11:52:25.000Z"
-      },
-      {
-        "time": "11:36",
-        "title": "スクーターと車衝突 高校生が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590840?source=rss",
-        "publishedAt": "2026-08-07T02:36:04.000Z"
       }
     ],
     "subsidyHeadlines": [

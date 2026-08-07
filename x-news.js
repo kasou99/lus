@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T05:07:43.271Z",
+  "updatedAt": "2026-08-07T05:59:17.151Z",
   "items": [
     {
       "time": "14:00",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "広島が嫌いだった 86歳で初の式典"
     },
     {
+      "time": "13:59",
+      "title": "国民代表選 玉木氏と橋本氏立候補",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590859?source=rss",
+      "publishedAt": "2026-08-07T04:59:57.000Z",
+      "xQuery": "国民代表選 玉木氏と橋本氏立候補"
+    },
+    {
       "time": "13:41",
       "title": "江別暴行 当時18歳に無期懲役判決",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590857?source=rss",
       "publishedAt": "2026-08-07T04:47:46.000Z",
       "xQuery": "プルデンシャル 顧客面談を録音へ"
-    },
-    {
-      "time": "11:36",
-      "title": "スクーターと車衝突 高校生が死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590840?source=rss",
-      "publishedAt": "2026-08-07T02:36:04.000Z",
-      "xQuery": "スクーターと車衝突 高校生が死亡"
     }
   ]
 };
