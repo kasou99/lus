@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T14:25:44.699Z",
+  "updatedAt": "2026-08-07T14:50:16.628Z",
   "items": [
     {
       "time": "20:58",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "脳一部を誤摘出され 自発呼吸不能"
     },
     {
-      "time": "21:05",
-      "title": "「墓じまい」が急増 墓石はどこへ",
+      "time": "23:06",
+      "title": "声優らの声も権利保護の対象 指針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590899?source=rss",
-      "publishedAt": "2026-08-07T12:05:42.000Z",
-      "xQuery": "「墓じまい」が急増 墓石はどこへ"
+      "url": "https://news.yahoo.co.jp/pickup/6590916?source=rss",
+      "publishedAt": "2026-08-07T14:06:52.000Z",
+      "xQuery": "声優らの声も権利保護の対象 指針"
     }
   ]
 };
