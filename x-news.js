@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T00:57:42.506Z",
+  "updatedAt": "2026-08-07T01:51:38.324Z",
   "items": [
+    {
+      "time": "09:56",
+      "title": "4/30に6兆円超の介入 政府・日銀",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590832?source=rss",
+      "publishedAt": "2026-08-07T00:56:22.000Z",
+      "xQuery": "4/30に6兆円超の介入 政府・日銀"
+    },
     {
       "time": "07:58",
       "title": "女性研究者支援 新制度設ける方針",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590820?source=rss",
       "publishedAt": "2026-08-06T22:58:11.000Z",
       "xQuery": "女性研究者支援 新制度設ける方針"
-    },
-    {
-      "time": "07:48",
-      "title": "秋田にAIデータセンター建設へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590818?source=rss",
-      "publishedAt": "2026-08-06T22:48:51.000Z",
-      "xQuery": "秋田にAIデータセンター建設へ"
     },
     {
       "time": "08:09",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン爆発遺族 本当のこと言って"
     },
     {
-      "time": "07:31",
-      "title": "バイクと複数車絡む事故 男性死亡",
+      "time": "10:07",
+      "title": "全東信破産 539億円超焦げ付くか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590814?source=rss",
-      "publishedAt": "2026-08-06T22:31:59.000Z",
-      "xQuery": "バイクと複数車絡む事故 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6590831?source=rss",
+      "publishedAt": "2026-08-07T01:07:51.000Z",
+      "xQuery": "全東信破産 539億円超焦げ付くか"
     },
     {
-      "time": "09:26",
-      "title": "月のロケット残骸衝突跡 画像公開",
+      "time": "10:30",
+      "title": "従業員「退職」で倒産 最多ペース",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590828?source=rss",
-      "publishedAt": "2026-08-07T00:26:46.000Z",
-      "xQuery": "月のロケット残骸衝突跡 画像公開"
+      "url": "https://news.yahoo.co.jp/pickup/6590833?source=rss",
+      "publishedAt": "2026-08-07T01:30:52.000Z",
+      "xQuery": "従業員「退職」で倒産 最多ペース"
     }
   ]
 };
