@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T10:22:23.786Z",
+  "updatedAt": "2026-08-07T10:49:29.125Z",
   "items": [
     {
       "time": "17:43",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "鉄塔の保守作業員が死亡 熱中症か"
     },
     {
+      "time": "19:28",
+      "title": "穴にショベルカー転落 運転手死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590893?source=rss",
+      "publishedAt": "2026-08-07T10:28:13.000Z",
+      "xQuery": "穴にショベルカー転落 運転手死亡"
+    },
+    {
       "time": "17:40",
       "title": "ペンギン4羽死ぬ 園が死因発表",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590882?source=rss",
       "publishedAt": "2026-08-07T08:40:40.000Z",
       "xQuery": "ペンギン4羽死ぬ 園が死因発表"
-    },
-    {
-      "time": "16:43",
-      "title": "倉持由香 子の「自閉症」告知に涙",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590871?source=rss",
-      "publishedAt": "2026-08-07T07:43:58.000Z",
-      "xQuery": "倉持由香 子の「自閉症」告知に涙"
     }
   ]
 };
