@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T10:49:28.580Z",
+  "updatedAt": "2026-08-07T11:19:53.462Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-08-07T04:41:53.000Z"
       },
       {
+        "time": "20:03",
+        "title": "81年前 6歳の私かばい死んだ祖母",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590895?source=rss",
+        "publishedAt": "2026-08-07T11:03:26.000Z"
+      },
+      {
         "time": "17:43",
         "title": "爆心地から500mで被爆 生還した父",
         "source": "Yahoo!ニュース",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-08-07T02:58:53.000Z"
       },
       {
+        "time": "20:17",
+        "title": "DNA型鑑定不正巡り再審請求 佐賀",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590894?source=rss",
+        "publishedAt": "2026-08-07T11:17:00.000Z"
+      },
+      {
         "time": "17:30",
         "title": "鉄塔の保守作業員が死亡 熱中症か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590877?source=rss",
         "publishedAt": "2026-08-07T08:30:01.000Z"
-      },
-      {
-        "time": "19:28",
-        "title": "穴にショベルカー転落 運転手死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590893?source=rss",
-        "publishedAt": "2026-08-07T10:28:13.000Z"
-      },
-      {
-        "time": "15:58",
-        "title": "脳腫瘍手術で誤摘出 京大病院謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590868?source=rss",
-        "publishedAt": "2026-08-07T06:58:03.000Z"
       }
     ],
     "subsidyHeadlines": [
