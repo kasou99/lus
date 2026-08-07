@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T04:20:16.429Z",
+  "updatedAt": "2026-08-07T05:07:43.271Z",
   "items": [
     {
-      "time": "11:58",
-      "title": "台風13号 沖縄・奄美に最接近",
+      "time": "14:00",
+      "title": "熊本地震を激甚災害に指定 政府",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590846?source=rss",
-      "publishedAt": "2026-08-07T02:58:27.000Z",
-      "xQuery": "台風13号 沖縄・奄美に最接近"
+      "url": "https://news.yahoo.co.jp/pickup/6590858?source=rss",
+      "publishedAt": "2026-08-07T05:00:26.000Z",
+      "xQuery": "熊本地震を激甚災害に指定 政府"
     },
     {
       "time": "11:58",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "広島が嫌いだった 86歳で初の式典"
     },
     {
+      "time": "13:41",
+      "title": "江別暴行 当時18歳に無期懲役判決",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590860?source=rss",
+      "publishedAt": "2026-08-07T04:41:53.000Z",
+      "xQuery": "江別暴行 当時18歳に無期懲役判決"
+    },
+    {
+      "time": "13:47",
+      "title": "プルデンシャル 顧客面談を録音へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590857?source=rss",
+      "publishedAt": "2026-08-07T04:47:46.000Z",
+      "xQuery": "プルデンシャル 顧客面談を録音へ"
+    },
+    {
       "time": "11:36",
       "title": "スクーターと車衝突 高校生が死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590840?source=rss",
       "publishedAt": "2026-08-07T02:36:04.000Z",
       "xQuery": "スクーターと車衝突 高校生が死亡"
-    },
-    {
-      "time": "10:30",
-      "title": "従業員「退職」で倒産 最多ペース",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590833?source=rss",
-      "publishedAt": "2026-08-07T01:30:52.000Z",
-      "xQuery": "従業員「退職」で倒産 最多ペース"
-    },
-    {
-      "time": "11:35",
-      "title": "西鉄の駅で不適切音声 被害届検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590838?source=rss",
-      "publishedAt": "2026-08-07T02:35:18.000Z",
-      "xQuery": "西鉄の駅で不適切音声 被害届検討"
     }
   ]
 };
