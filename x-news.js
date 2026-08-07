@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T22:47:07.128Z",
+  "updatedAt": "2026-08-07T23:14:55.679Z",
   "items": [
     {
       "time": "07:34",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風13号 沖縄など影響長引く恐れ"
     },
     {
-      "time": "21:34",
-      "title": "国税不祥事 前例ない事態に危機感",
+      "time": "08:00",
+      "title": "日本郵便で障害 一部で受け取れず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590905?source=rss",
-      "publishedAt": "2026-08-07T12:34:50.000Z",
-      "xQuery": "国税不祥事 前例ない事態に危機感"
+      "url": "https://news.yahoo.co.jp/pickup/6590928?source=rss",
+      "publishedAt": "2026-08-07T23:00:09.000Z",
+      "xQuery": "日本郵便で障害 一部で受け取れず"
     },
     {
       "time": "07:26",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオンの従業員誘導 規定に抵触か"
     },
     {
-      "time": "21:31",
-      "title": "脳一部を誤摘出され 自発呼吸不能",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590906?source=rss",
-      "publishedAt": "2026-08-07T12:31:18.000Z",
-      "xQuery": "脳一部を誤摘出され 自発呼吸不能"
-    },
-    {
       "time": "22:28",
       "title": "過剰な餌「ウサギの島」に異変",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590912?source=rss",
       "publishedAt": "2026-08-07T13:28:24.000Z",
       "xQuery": "過剰な餌「ウサギの島」に異変"
+    },
+    {
+      "time": "07:49",
+      "title": "オープンAI 対話スピーカー発売か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590926?source=rss",
+      "publishedAt": "2026-08-07T22:49:12.000Z",
+      "xQuery": "オープンAI 対話スピーカー発売か"
     }
   ]
 };

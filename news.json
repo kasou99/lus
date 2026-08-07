@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T22:47:05.969Z",
+  "updatedAt": "2026-08-07T23:14:55.203Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -40,16 +40,9 @@
       {
         "time": "12:25",
         "title": "大雨被害から１年、金沢競馬場の浸水対策完了 「白熱のレースで恩返し」｜社会｜石川のニュース",
-        "source": "hokkoku.co.jp",
+        "source": "北國新聞",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zV0dySTZMN2xrbFg3ZVBHRzVTbHRGVHpfSlI2WHY3WEsxWkM0WlJnV2QxM2dsVXlITnlCTU9vQV84Vk05UlBkRzBxOVhpOWZhQUVOdWxDRQ?oc=5",
         "publishedAt": "2026-08-07T03:25:00.000Z"
-      },
-      {
-        "time": "20:11",
-        "title": "大雨被害から1年、金沢競馬場の浸水対策完了 「白熱のレースで恩返し」",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hMENlN1d2Q2xONjVRNW9raE5QSEIxMWZkc25LMm5BNndfVTdwNF9lRkthZTR0UjlHZ2FwWW9PT1JqS3VieUxld2RRMEFtRGs0RXoyUzNUZTBBSVYwUEphLW1MZWhsdWc2ZXBNeHNlb1VpNmlrVWhTaA?oc=5",
-        "publishedAt": "2026-08-07T11:11:00.000Z"
       },
       {
         "time": "11:56",
@@ -57,6 +50,13 @@
         "source": "大分経済新聞",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EQUxsejZScWw0VnRJc2o2Qm50LWlUb1BVQklQQXUzVnd6Ujl4V0hUU1hhUkxEbFUxYk1kVE4yeWJ0WWZycTVwMkd4V21mUGNS?oc=5",
         "publishedAt": "2026-08-07T02:56:27.000Z"
+      },
+      {
+        "time": "08:25",
+        "title": "「クルマが景気を動かす」時代は戻るのか？ 景気DI「43.6」が映すAI時代の産業連鎖、ものづくり再始動への新たな循環とは",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4LThvOTV0ZnNnVFVQWTJJdHg5VTZkUHFGR2RsRC1OTkhYdjJzbHpxdEJVazByc2g4czNvMmtHRmxfSVo2MDZoSnJDdURtbkxTcHY5WGRhcGVvc2FfLVdNMm5VeUdHS1h4Q2JQdmRB?oc=5",
+        "publishedAt": "2026-08-06T23:25:06.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,6 +112,13 @@
         "publishedAt": "2026-08-07T22:26:44.000Z"
       },
       {
+        "time": "08:00",
+        "title": "日本郵便で障害 一部で受け取れず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590928?source=rss",
+        "publishedAt": "2026-08-07T23:00:09.000Z"
+      },
+      {
         "time": "21:46",
         "title": "「日銀利上げで円高」は本当か?",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590856?source=rss",
         "publishedAt": "2026-08-07T04:14:28.000Z"
-      },
-      {
-        "time": "21:51",
-        "title": "中国でスシロー好調 5時間待ちも",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590909?source=rss",
-        "publishedAt": "2026-08-07T12:51:44.000Z"
       }
     ],
     "localHeadlines": [
