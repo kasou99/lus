@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T09:52:28.736Z",
+  "updatedAt": "2026-08-07T10:22:23.786Z",
   "items": [
     {
       "time": "17:43",
@@ -19,27 +19,27 @@ window.LUS_X_NEWS = {
     },
     {
       "time": "17:30",
-      "title": "タイの学校で銃撃 教職員5人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590881?source=rss",
-      "publishedAt": "2026-08-07T08:30:32.000Z",
-      "xQuery": "タイの学校で銃撃 教職員5人死亡"
-    },
-    {
-      "time": "15:58",
-      "title": "脳腫瘍手術で誤摘出 京大病院謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590868?source=rss",
-      "publishedAt": "2026-08-07T06:58:03.000Z",
-      "xQuery": "脳腫瘍手術で誤摘出 京大病院謝罪"
-    },
-    {
-      "time": "17:30",
       "title": "鉄塔の保守作業員が死亡 熱中症か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590877?source=rss",
       "publishedAt": "2026-08-07T08:30:01.000Z",
       "xQuery": "鉄塔の保守作業員が死亡 熱中症か"
+    },
+    {
+      "time": "17:40",
+      "title": "ペンギン4羽死ぬ 園が死因発表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590882?source=rss",
+      "publishedAt": "2026-08-07T08:40:40.000Z",
+      "xQuery": "ペンギン4羽死ぬ 園が死因発表"
+    },
+    {
+      "time": "16:43",
+      "title": "倉持由香 子の「自閉症」告知に涙",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590871?source=rss",
+      "publishedAt": "2026-08-07T07:43:58.000Z",
+      "xQuery": "倉持由香 子の「自閉症」告知に涙"
     }
   ]
 };
