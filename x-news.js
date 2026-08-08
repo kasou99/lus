@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T23:10:04.199Z",
+  "updatedAt": "2026-08-08T23:42:16.217Z",
   "items": [
     {
       "time": "08:08",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591050?source=rss",
       "publishedAt": "2026-08-08T23:08:40.000Z",
       "xQuery": "熊本県で最大震度4 津波心配なし"
-    },
-    {
-      "time": "07:20",
-      "title": "イオン爆発巡り 遺族装う投稿拡散",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591038?source=rss",
-      "publishedAt": "2026-08-08T22:20:10.000Z",
-      "xQuery": "イオン爆発巡り 遺族装う投稿拡散"
     },
     {
       "time": "07:47",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591035?source=rss",
       "publishedAt": "2026-08-08T14:28:15.000Z",
       "xQuery": "息子助けようと川に 父親溺れ死亡"
+    },
+    {
+      "time": "07:51",
+      "title": "男性はねられ死亡 ひき逃げで捜査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591045?source=rss",
+      "publishedAt": "2026-08-08T22:51:41.000Z",
+      "xQuery": "男性はねられ死亡 ひき逃げで捜査"
     },
     {
       "time": "07:54",

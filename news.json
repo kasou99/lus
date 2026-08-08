@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T23:10:03.387Z",
+  "updatedAt": "2026-08-08T23:42:15.339Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-08-08T14:09:59.000Z"
       },
       {
+        "time": "21:50",
+        "title": "（2）その統合に大義はあるか【中部企業研究・東海地銀コンフィデンシャル編】：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HMjgyNkRPOU5EdVNVZE92QWlCajlwS0NFbU5GSnFrMHptejU2T09jS0oyNEdRakRqbFQ4cFpNcElqZWxwQlJLRTVEY0FCU1ZOZDc5SVl0clNNTlBocExF?oc=5",
+        "publishedAt": "2026-08-08T12:50:09.000Z"
+      },
+      {
         "time": "18:30",
         "title": "決算後株価はストップ安――安川電機「フィジカルAI」への期待は結実するか？",
         "source": "つばめ投資顧問",
@@ -29,13 +36,6 @@
         "source": "ケンオー・ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jU1RRN2hWelVSWFJPa0NSeGVHOEx4VkhlVmdEalE5Uy1TSHVUdmJSb2Mwc190MjdjTGtaTUN3VWFWYlpzNXZFRDdmLVY0OWp4?oc=5",
         "publishedAt": "2026-08-08T05:27:32.000Z"
-      },
-      {
-        "time": "17:48",
-        "title": "【買収中止勧告】技術流出に危機感 判断分ける中国の影？",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01bU1FczU0UUExSHJ6dVl6TzRTcVFRNkRCbDI5Ylo2Wk9zMmxoSVFtNXp5RFB5Ri1UTFhQMWg2bWpaUDZ3SnV1NzRGNWlrUkxvRkE?oc=5",
-        "publishedAt": "2026-08-08T08:48:42.000Z"
       },
       {
         "time": "23:09",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "08:28",
+        "title": "米中間選挙 岩盤層「MAGA」健在",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591048?source=rss",
+        "publishedAt": "2026-08-08T23:28:01.000Z"
+      },
       {
         "time": "22:55",
         "title": "イラン革命防衛隊 米国をけん制",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590964?source=rss",
         "publishedAt": "2026-08-08T04:13:15.000Z"
-      },
-      {
-        "time": "10:35",
-        "title": "韓国 竹島周辺の日本EEZで調査か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590949?source=rss",
-        "publishedAt": "2026-08-08T01:35:48.000Z"
       }
     ],
     "economyHeadlines": [
