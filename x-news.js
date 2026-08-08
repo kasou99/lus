@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T04:52:18.708Z",
+  "updatedAt": "2026-08-08T05:19:53.412Z",
   "items": [
+    {
+      "time": "13:03",
+      "title": "高市首相 人事で旧安倍派重用か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590962?source=rss",
+      "publishedAt": "2026-08-08T04:03:47.000Z",
+      "xQuery": "高市首相 人事で旧安倍派重用か"
+    },
     {
       "time": "11:48",
       "title": "無理に学校行かせ被爆死 母は自責",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590957?source=rss",
       "publishedAt": "2026-08-08T02:48:25.000Z",
       "xQuery": "無理に学校行かせ被爆死 母は自責"
-    },
-    {
-      "time": "13:12",
-      "title": "露唯一の反戦政党 選挙排除の危機",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590966?source=rss",
-      "publishedAt": "2026-08-08T04:12:47.000Z",
-      "xQuery": "露唯一の反戦政党 選挙排除の危機"
-    },
-    {
-      "time": "11:23",
-      "title": "警察の拳銃「使えば面倒」の意識",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590954?source=rss",
-      "publishedAt": "2026-08-08T02:23:00.000Z",
-      "xQuery": "警察の拳銃「使えば面倒」の意識"
     },
     {
       "time": "10:59",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590958?source=rss",
       "publishedAt": "2026-08-08T03:18:53.000Z",
       "xQuery": "令和8年8月8日 婚姻届窓口に行列"
+    },
+    {
+      "time": "09:40",
+      "title": "名前ドラえもん16人 インドネシア",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590941?source=rss",
+      "publishedAt": "2026-08-08T00:40:29.000Z",
+      "xQuery": "名前ドラえもん16人 インドネシア"
     }
   ]
 };
