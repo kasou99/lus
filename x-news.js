@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T09:17:44.486Z",
+  "updatedAt": "2026-08-08T09:47:02.127Z",
   "items": [
+    {
+      "time": "15:13",
+      "title": "前回地震の教訓 生きた熊本赤十字",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590983?source=rss",
+      "publishedAt": "2026-08-08T06:13:32.000Z",
+      "xQuery": "前回地震の教訓 生きた熊本赤十字"
+    },
     {
       "time": "14:48",
       "title": "被爆81年 語り部再開を目指す99歳",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591002?source=rss",
       "publishedAt": "2026-08-08T09:14:55.000Z",
       "xQuery": "2歳がん診断 希望の薬は5500万円"
-    },
-    {
-      "time": "16:25",
-      "title": "タイの学校銃撃疑い14歳 計画的か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590992?source=rss",
-      "publishedAt": "2026-08-08T07:25:18.000Z",
-      "xQuery": "タイの学校銃撃疑い14歳 計画的か"
     },
     {
       "time": "17:04",

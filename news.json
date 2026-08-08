@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-08-08T09:17:43.791Z",
+  "updatedAt": "2026-08-08T09:47:01.372Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "09:00",
         "title": "二重ポンプ制御盤の世界市場（2026年～2032年）、市場規模（単相制御盤、三相制御盤）・分析レポートを発表",
-        "source": "Newscast.jp",
+        "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZUEZBVWltOUVVMHVtU1d6Mzlja2hkVThoeTdnbmZYNjV0QlJ3TUZjd3Y0dl9XRnBaWktMdllTX3RTaDk2OHFqbnpkS1hELTQ?oc=5",
         "publishedAt": "2026-08-08T00:00:00.000Z"
+      },
+      {
+        "time": "18:30",
+        "title": "決算後株価はストップ安――安川電機「フィジカルAI」への期待は結実するか？",
+        "source": "つばめ投資顧問",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14OTl5SWQ1ZzY1dmJvNlhSdnBaX1dYME1nSWYzYVpLLVBlNmN4LWdNZld4WjFPTXl0RG1iR2haUmlEc3hzZmZuWVB0RDlLUQ?oc=5",
+        "publishedAt": "2026-08-08T09:30:11.000Z"
       },
       {
         "time": "14:27",
@@ -19,16 +26,9 @@
       {
         "time": "21:10",
         "title": "製紙工場の煙道・煙突点検に360°カメラ搭載マイクロドローンを活用、リックスとアイ・ロボティクス",
-        "source": "jiji.com",
+        "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tUzRSRUhGZGtOMXFuWEs5SU15YTYyLVV1elo1TW5UWG5hMm5EU25QakpGWnY1R3BUSGQtYUU4WFgxZnkydHlGblNxb2J0VWhiamxEYVlRUVU0Ml95cGlmTC1NZ295dnN4QU1Z?oc=5",
         "publishedAt": "2026-08-07T12:10:00.000Z"
-      },
-      {
-        "time": "18:20",
-        "title": "サンリツ1Q、半導体装置好調で営業益3.4倍",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByZEx0TGFZbGN0UWtWS0tMdkZBdm5oVHVscTQySmVUczkyT2pjMUJfc25fNnpySzhaUEs1Nl9UZENDNlZSMDAxcA?oc=5",
-        "publishedAt": "2026-08-07T09:20:36.000Z"
       },
       {
         "time": "08:00",
@@ -36,13 +36,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wLWN5b0phS1lYakQxeVdGbGJVNG9IUFNuQ1pfNzRFYmVmb0RCTXFyVGwzSUFSUUc3elJWR0J2MHlObEFoTzU4UnFBTGJjOXIyYUxuS21rVE5pUXVtRW5LczNySWJkSV82ellmRjVOZHY3Rm92WWc?oc=5",
         "publishedAt": "2026-08-07T23:00:22.000Z"
-      },
-      {
-        "time": "18:25",
-        "title": "「クルマが景気を動かす」時代は戻るのか？ 景気DI「43.6」が映すAI時代の産業連鎖、ものづくり再始動への新たな循環とは",
-        "source": "article.auone.jp",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4LThvOTV0ZnNnVFVQWTJJdHg5VTZkUHFGR2RsRC1OTkhYdjJzbHpxdEJVazByc2g4czNvMmtHRmxfSVo2MDZoSnJDdURtbkxTcHY5WGRhcGVvc2FfLVdNMm5VeUdHS1h4Q2JQdmRB?oc=5",
-        "publishedAt": "2026-08-07T09:25:06.000Z"
       },
       {
         "time": "13:08",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590939?source=rss",
         "publishedAt": "2026-08-08T00:05:59.000Z"
+      },
+      {
+        "time": "07:26",
+        "title": "イオンの従業員誘導 規定に抵触か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590922?source=rss",
+        "publishedAt": "2026-08-07T22:26:44.000Z"
       }
     ],
     "worldHeadlines": [
