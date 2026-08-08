@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T09:47:02.127Z",
+  "updatedAt": "2026-08-08T10:12:42.718Z",
   "items": [
     {
       "time": "15:13",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590983?source=rss",
       "publishedAt": "2026-08-08T06:13:32.000Z",
       "xQuery": "前回地震の教訓 生きた熊本赤十字"
-    },
-    {
-      "time": "14:48",
-      "title": "被爆81年 語り部再開を目指す99歳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590978?source=rss",
-      "publishedAt": "2026-08-08T05:48:57.000Z",
-      "xQuery": "被爆81年 語り部再開を目指す99歳"
     },
     {
       "time": "18:03",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591002?source=rss",
       "publishedAt": "2026-08-08T09:14:55.000Z",
       "xQuery": "2歳がん診断 希望の薬は5500万円"
+    },
+    {
+      "time": "18:53",
+      "title": "サーフィン中に溺れ 46歳男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591010?source=rss",
+      "publishedAt": "2026-08-08T09:53:53.000Z",
+      "xQuery": "サーフィン中に溺れ 46歳男性死亡"
     },
     {
       "time": "17:04",
