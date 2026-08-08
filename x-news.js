@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T17:43:29.745Z",
+  "updatedAt": "2026-08-08T18:11:44.533Z",
   "items": [
+    {
+      "time": "03:05",
+      "title": "地震情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590192?source=rss",
+      "publishedAt": "2026-08-08T18:05:34.000Z",
+      "xQuery": "地震情報"
+    },
     {
       "time": "22:19",
       "title": "戦時中 複数大学で輸血の人体実験",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591027?source=rss",
       "publishedAt": "2026-08-08T13:19:53.000Z",
       "xQuery": "戦時中 複数大学で輸血の人体実験"
-    },
-    {
-      "time": "20:29",
-      "title": "沖縄で語り部 被爆体験訴える理由",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591018?source=rss",
-      "publishedAt": "2026-08-08T11:29:35.000Z",
-      "xQuery": "沖縄で語り部 被爆体験訴える理由"
     },
     {
       "time": "22:55",
