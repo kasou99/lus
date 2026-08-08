@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-07T23:44:23.838Z",
+  "updatedAt": "2026-08-08T00:26:54.442Z",
   "items": [
     {
-      "time": "07:34",
-      "title": "台風13号 沖縄など影響長引く恐れ",
+      "time": "08:49",
+      "title": "避難生活続く 被災地の緊急課題は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590923?source=rss",
-      "publishedAt": "2026-08-07T22:34:39.000Z",
-      "xQuery": "台風13号 沖縄など影響長引く恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6590935?source=rss",
+      "publishedAt": "2026-08-07T23:49:06.000Z",
+      "xQuery": "避難生活続く 被災地の緊急課題は"
     },
     {
-      "time": "08:00",
-      "title": "日本郵便で障害 一部で受け取れず",
+      "time": "08:05",
+      "title": "外国人受け入れ反対増加 東大調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590928?source=rss",
-      "publishedAt": "2026-08-07T23:00:09.000Z",
-      "xQuery": "日本郵便で障害 一部で受け取れず"
+      "url": "https://news.yahoo.co.jp/pickup/6590929?source=rss",
+      "publishedAt": "2026-08-07T23:05:27.000Z",
+      "xQuery": "外国人受け入れ反対増加 東大調査"
+    },
+    {
+      "time": "08:39",
+      "title": "53歳男性が死亡 ひき逃げの疑い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590934?source=rss",
+      "publishedAt": "2026-08-07T23:39:21.000Z",
+      "xQuery": "53歳男性が死亡 ひき逃げの疑い"
     },
     {
       "time": "07:26",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イオンの従業員誘導 規定に抵触か"
     },
     {
-      "time": "22:28",
-      "title": "過剰な餌「ウサギの島」に異変",
+      "time": "07:47",
+      "title": "「サ終」続くスマホゲーム 倒産増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590912?source=rss",
-      "publishedAt": "2026-08-07T13:28:24.000Z",
-      "xQuery": "過剰な餌「ウサギの島」に異変"
-    },
-    {
-      "time": "07:49",
-      "title": "オープンAI 対話スピーカー発売か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590926?source=rss",
-      "publishedAt": "2026-08-07T22:49:12.000Z",
-      "xQuery": "オープンAI 対話スピーカー発売か"
+      "url": "https://news.yahoo.co.jp/pickup/6590925?source=rss",
+      "publishedAt": "2026-08-07T22:47:08.000Z",
+      "xQuery": "「サ終」続くスマホゲーム 倒産増"
     }
   ]
 };
