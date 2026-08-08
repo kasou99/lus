@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T00:26:54.442Z",
+  "updatedAt": "2026-08-08T00:53:03.133Z",
   "items": [
+    {
+      "time": "08:12",
+      "title": "政権の積極財政「日本売り」危機",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590927?source=rss",
+      "publishedAt": "2026-08-07T23:12:07.000Z",
+      "xQuery": "政権の積極財政「日本売り」危機"
+    },
     {
       "time": "08:49",
       "title": "避難生活続く 被災地の緊急課題は",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590935?source=rss",
       "publishedAt": "2026-08-07T23:49:06.000Z",
       "xQuery": "避難生活続く 被災地の緊急課題は"
-    },
-    {
-      "time": "08:05",
-      "title": "外国人受け入れ反対増加 東大調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590929?source=rss",
-      "publishedAt": "2026-08-07T23:05:27.000Z",
-      "xQuery": "外国人受け入れ反対増加 東大調査"
     },
     {
       "time": "08:39",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "53歳男性が死亡 ひき逃げの疑い"
     },
     {
+      "time": "09:13",
+      "title": "野球部員死亡 別CT画像で診察か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590937?source=rss",
+      "publishedAt": "2026-08-08T00:13:58.000Z",
+      "xQuery": "野球部員死亡 別CT画像で診察か"
+    },
+    {
       "time": "07:26",
       "title": "イオンの従業員誘導 規定に抵触か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590922?source=rss",
       "publishedAt": "2026-08-07T22:26:44.000Z",
       "xQuery": "イオンの従業員誘導 規定に抵触か"
-    },
-    {
-      "time": "07:47",
-      "title": "「サ終」続くスマホゲーム 倒産増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590925?source=rss",
-      "publishedAt": "2026-08-07T22:47:08.000Z",
-      "xQuery": "「サ終」続くスマホゲーム 倒産増"
     }
   ]
 };
