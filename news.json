@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T22:09:32.767Z",
+  "updatedAt": "2026-08-08T22:43:41.975Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,9 +24,16 @@
         "publishedAt": "2026-08-08T09:30:11.000Z"
       },
       {
+        "time": "14:27",
+        "title": "新潟精機が熊本地震の被災企業に高精度水準器を無償貸与 生産設備の早期復旧を支援",
+        "source": "ケンオー・ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jU1RRN2hWelVSWFJPa0NSeGVHOEx4VkhlVmdEalE5Uy1TSHVUdmJSb2Mwc190MjdjTGtaTUN3VWFWYlpzNXZFRDdmLVY0OWp4?oc=5",
+        "publishedAt": "2026-08-08T05:27:32.000Z"
+      },
+      {
         "time": "17:48",
         "title": "【買収中止勧告】技術流出に危機感 判断分ける中国の影？",
-        "source": "山陽新聞",
+        "source": "sanyonews.jp",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01bU1FczU0UUExSHJ6dVl6TzRTcVFRNkRCbDI5Ylo2Wk9zMmxoSVFtNXp5RFB5Ri1UTFhQMWg2bWpaUDZ3SnV1NzRGNWlrUkxvRkE?oc=5",
         "publishedAt": "2026-08-08T08:48:42.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "d-sharing.jp",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaVFZTWm5ZT0RrOUJUQjFTaXFyRmxzU0plY3dHaEFaOWU0c0Nha05lS2F5M05ObDhPOVhCVVhoOEY2Zy10WXFSXzFZZTQyb2c4bDBDakk3QllzUS1YblRjWXYwakpfWjZB?oc=5",
         "publishedAt": "2026-08-08T14:09:59.000Z"
-      },
-      {
-        "time": "14:27",
-        "title": "新潟精機が熊本地震の被災企業に高精度水準器を無償貸与 生産設備の早期復旧を支援",
-        "source": "ケンオー・ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jU1RRN2hWelVSWFJPa0NSeGVHOEx4VkhlVmdEalE5Uy1TSHVUdmJSb2Mwc190MjdjTGtaTUN3VWFWYlpzNXZFRDdmLVY0OWp4?oc=5",
-        "publishedAt": "2026-08-08T05:27:32.000Z"
       }
     ],
     "worldHeadlines": [

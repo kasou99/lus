@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T22:09:34.019Z",
+  "updatedAt": "2026-08-08T22:43:43.071Z",
   "items": [
     {
-      "time": "03:13",
-      "title": "岩手県で震度4 津波の心配なし",
+      "time": "07:20",
+      "title": "イオン爆発巡り 遺族装う投稿拡散",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591037?source=rss",
-      "publishedAt": "2026-08-08T18:13:01.000Z",
-      "xQuery": "岩手県で震度4 津波の心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6591038?source=rss",
+      "publishedAt": "2026-08-08T22:20:10.000Z",
+      "xQuery": "イオン爆発巡り 遺族装う投稿拡散"
     },
     {
       "time": "22:55",
