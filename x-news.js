@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T06:20:52.913Z",
+  "updatedAt": "2026-08-08T06:49:10.333Z",
   "items": [
+    {
+      "time": "14:39",
+      "title": "台風13号 沖縄で転倒など5人けが",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590977?source=rss",
+      "publishedAt": "2026-08-08T05:39:06.000Z",
+      "xQuery": "台風13号 沖縄で転倒など5人けが"
+    },
     {
       "time": "15:01",
       "title": "自民党「萩生田幹事長」案が浮上",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590967?source=rss",
       "publishedAt": "2026-08-08T04:08:46.000Z",
       "xQuery": "大分 被害なしでも旅先変更相次ぐ"
-    },
-    {
-      "time": "13:13",
-      "title": "トランプ氏「大統領ビジネス」増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590964?source=rss",
-      "publishedAt": "2026-08-08T04:13:15.000Z",
-      "xQuery": "トランプ氏「大統領ビジネス」増"
     },
     {
       "time": "14:43",
