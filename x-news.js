@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T02:43:15.015Z",
+  "updatedAt": "2026-08-08T03:34:26.738Z",
   "items": [
     {
-      "time": "11:21",
-      "title": "熊本地震の死者39人に 県発表",
+      "time": "11:48",
+      "title": "無理に学校行かせ被爆死 母は自責",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590952?source=rss",
-      "publishedAt": "2026-08-08T02:21:27.000Z",
-      "xQuery": "熊本地震の死者39人に 県発表"
+      "url": "https://news.yahoo.co.jp/pickup/6590957?source=rss",
+      "publishedAt": "2026-08-08T02:48:25.000Z",
+      "xQuery": "無理に学校行かせ被爆死 母は自責"
     },
     {
-      "time": "11:38",
-      "title": "被爆した兄らの碑 妹の最後の掃除",
+      "time": "12:02",
+      "title": "台風15号 11-12日接近・上陸恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590955?source=rss",
-      "publishedAt": "2026-08-08T02:38:59.000Z",
-      "xQuery": "被爆した兄らの碑 妹の最後の掃除"
+      "url": "https://news.yahoo.co.jp/pickup/6590959?source=rss",
+      "publishedAt": "2026-08-08T03:02:04.000Z",
+      "xQuery": "台風15号 11-12日接近・上陸恐れ"
     },
     {
       "time": "09:13",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "野球部員死亡 別CT画像で診察か"
     },
     {
-      "time": "08:54",
-      "title": "年収600万円 高速バスWILLER狙い",
+      "time": "10:08",
+      "title": "日本のマヨネーズ 世界でなぜ人気",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590936?source=rss",
-      "publishedAt": "2026-08-07T23:54:29.000Z",
-      "xQuery": "年収600万円 高速バスWILLER狙い"
+      "url": "https://news.yahoo.co.jp/pickup/6590943?source=rss",
+      "publishedAt": "2026-08-08T01:08:32.000Z",
+      "xQuery": "日本のマヨネーズ 世界でなぜ人気"
     },
     {
       "time": "09:40",
