@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T11:41:48.427Z",
+  "updatedAt": "2026-08-08T12:13:33.920Z",
   "items": [
     {
-      "time": "19:16",
-      "title": "台風15号 11-12日に東北上陸恐れ",
+      "time": "17:34",
+      "title": "夏休みに被災 ストレス感じる子も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591011?source=rss",
-      "publishedAt": "2026-08-08T10:16:08.000Z",
-      "xQuery": "台風15号 11-12日に東北上陸恐れ"
-    },
-    {
-      "time": "15:13",
-      "title": "前回地震の教訓 生きた熊本赤十字",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590983?source=rss",
-      "publishedAt": "2026-08-08T06:13:32.000Z",
-      "xQuery": "前回地震の教訓 生きた熊本赤十字"
+      "url": "https://news.yahoo.co.jp/pickup/6591001?source=rss",
+      "publishedAt": "2026-08-08T08:34:27.000Z",
+      "xQuery": "夏休みに被災 ストレス感じる子も"
     },
     {
       "time": "19:51",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "避難で留守の家から窃盗疑い 逮捕"
     },
     {
+      "time": "19:16",
+      "title": "台風15号 11-12日に東北上陸恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591011?source=rss",
+      "publishedAt": "2026-08-08T10:16:08.000Z",
+      "xQuery": "台風15号 11-12日に東北上陸恐れ"
+    },
+    {
+      "time": "20:25",
+      "title": "露軍がウ首都や周辺攻撃 4人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591019?source=rss",
+      "publishedAt": "2026-08-08T11:25:38.000Z",
+      "xQuery": "露軍がウ首都や周辺攻撃 4人死亡"
+    },
+    {
       "time": "18:14",
       "title": "2歳がん診断 希望の薬は5500万円",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591002?source=rss",
       "publishedAt": "2026-08-08T09:14:55.000Z",
       "xQuery": "2歳がん診断 希望の薬は5500万円"
-    },
-    {
-      "time": "18:53",
-      "title": "サーフィン中に溺れ 46歳男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591010?source=rss",
-      "publishedAt": "2026-08-08T09:53:53.000Z",
-      "xQuery": "サーフィン中に溺れ 46歳男性死亡"
     }
   ]
 };
