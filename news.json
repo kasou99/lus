@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-08-08T14:15:18.785Z",
+  "updatedAt": "2026-08-08T14:44:47.015Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "09:00",
         "title": "二重ポンプ制御盤の世界市場（2026年～2032年）、市場規模（単相制御盤、三相制御盤）・分析レポートを発表",
-        "source": "newscast.jp",
+        "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kZ0ZCWC1kdkdYaHE4QjA2XzlYeHVIN1pGUzRFQ3NLMk1BQU5VQXpfWDhfQkhyYVNaUXRxVTJNXzJjOU9hQTk2OEhxeVI?oc=5",
         "publishedAt": "2026-08-08T00:00:00.000Z"
+      },
+      {
+        "time": "21:50",
+        "title": "（2）その統合に大義はあるか【中部企業研究・東海地銀コンフィデンシャル編】：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HMjgyNkRPOU5EdVNVZE92QWlCajlwS0NFbU5GSnFrMHptejU2T09jS0oyNEdRakRqbFQ4cFpNcElqZWxwQlJLRTVEY0FCU1ZOZDc5SVl0clNNTlBocExF?oc=5",
+        "publishedAt": "2026-08-08T12:50:09.000Z"
       },
       {
         "time": "18:30",
@@ -31,6 +38,13 @@
         "publishedAt": "2026-08-07T18:15:21.000Z"
       },
       {
+        "time": "02:03",
+        "title": "大雨被害から1年、金沢競馬場の浸水対策完了 「白熱のレースで恩返し」",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hMENlN1d2Q2xONjVRNW9raE5QSEIxMWZkc25LMm5BNndfVTdwNF9lRkthZTR0UjlHZ2FwWW9PT1JqS3VieUxld2RRMEFtRGs0RXoyUzNUZTBBSVYwUEphLW1MZWhsdWc2ZXBNeHNlb1VpNmlrVWhTaA?oc=5",
+        "publishedAt": "2026-08-07T17:03:20.000Z"
+      },
+      {
         "time": "08:00",
         "title": "中国のレアアースのような「切り札」はどこに？ドイツが探る対中カード―中国メディア",
         "source": "ニコニコニュース",
@@ -43,20 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590967?source=rss",
         "publishedAt": "2026-08-08T04:08:46.000Z"
-      },
-      {
-        "time": "09:05",
-        "title": "障害者雇用「水増し」対象外計上",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590939?source=rss",
-        "publishedAt": "2026-08-08T00:05:59.000Z"
-      },
-      {
-        "time": "07:26",
-        "title": "イオンの従業員誘導 規定に抵触か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590922?source=rss",
-        "publishedAt": "2026-08-07T22:26:44.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,11 +177,11 @@
         "publishedAt": "2026-08-08T08:04:45.000Z"
       },
       {
-        "time": "18:53",
-        "title": "サーフィン中に溺れ 46歳男性死亡",
+        "time": "23:28",
+        "title": "息子助けようと川に 父親溺れ死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591010?source=rss",
-        "publishedAt": "2026-08-08T09:53:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591035?source=rss",
+        "publishedAt": "2026-08-08T14:28:15.000Z"
       },
       {
         "time": "22:13",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T14:15:20.950Z",
+  "updatedAt": "2026-08-08T14:44:47.564Z",
   "items": [
     {
       "time": "22:19",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "19歳不明 単独1泊2日予定で入山"
     },
     {
-      "time": "21:46",
-      "title": "ブドウ200房窃盗疑い 販売目的か",
+      "time": "23:28",
+      "title": "息子助けようと川に 父親溺れ死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591025?source=rss",
-      "publishedAt": "2026-08-08T12:46:20.000Z",
-      "xQuery": "ブドウ200房窃盗疑い 販売目的か"
+      "url": "https://news.yahoo.co.jp/pickup/6591035?source=rss",
+      "publishedAt": "2026-08-08T14:28:15.000Z",
+      "xQuery": "息子助けようと川に 父親溺れ死亡"
     }
   ]
 };
