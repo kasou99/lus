@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T05:47:39.850Z",
+  "updatedAt": "2026-08-08T06:20:52.913Z",
   "items": [
     {
-      "time": "13:03",
-      "title": "高市首相 人事で旧安倍派重用か",
+      "time": "15:01",
+      "title": "自民党「萩生田幹事長」案が浮上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590962?source=rss",
-      "publishedAt": "2026-08-08T04:03:47.000Z",
-      "xQuery": "高市首相 人事で旧安倍派重用か"
+      "url": "https://news.yahoo.co.jp/pickup/6590982?source=rss",
+      "publishedAt": "2026-08-08T06:01:53.000Z",
+      "xQuery": "自民党「萩生田幹事長」案が浮上"
     },
     {
       "time": "13:08",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590967?source=rss",
       "publishedAt": "2026-08-08T04:08:46.000Z",
       "xQuery": "大分 被害なしでも旅先変更相次ぐ"
+    },
+    {
+      "time": "13:13",
+      "title": "トランプ氏「大統領ビジネス」増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590964?source=rss",
+      "publishedAt": "2026-08-08T04:13:15.000Z",
+      "xQuery": "トランプ氏「大統領ビジネス」増"
     },
     {
       "time": "14:43",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590948?source=rss",
       "publishedAt": "2026-08-08T01:59:41.000Z",
       "xQuery": "高速道で何度も追突され 一部始終"
-    },
-    {
-      "time": "14:08",
-      "title": "琵琶湖「花火大会」3市が関与否定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590975?source=rss",
-      "publishedAt": "2026-08-08T05:08:12.000Z",
-      "xQuery": "琵琶湖「花火大会」3市が関与否定"
     }
   ]
 };
