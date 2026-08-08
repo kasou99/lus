@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T11:11:00.861Z",
+  "updatedAt": "2026-08-08T11:41:47.035Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -32,10 +32,10 @@
       },
       {
         "time": "08:00",
-        "title": "中国のレアアースのような「切り札」はどこに？ドイツが探る対中カード―中国メディア",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wLWN5b0phS1lYakQxeVdGbGJVNG9IUFNuQ1pfNzRFYmVmb0RCTXFyVGwzSUFSUUc3elJWR0J2MHlObEFoTzU4UnFBTGJjOXIyYUxuS21rVE5pUXVtRW5LczNySWJkSV82ellmRjVOZHY3Rm92WWc?oc=5",
-        "publishedAt": "2026-08-07T23:00:22.000Z"
+        "title": "中国のレアアースのような「切り札」はどこに？ドイツが探る対中カード―中国メディア｜Infoseekニュース",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpMnVuejNTbkJ1eW1lYlRiYXJzRmlrVExJUnl2NUp3NDhyUnNZNjdndEYtV0hYV0p5SnhOeEhMZ29HQWxtcF9VNmp3RjNYRVVzM1VFMzBURjVpSEttSU9tMUpmVTgwcUVhblE?oc=5",
+        "publishedAt": "2026-08-07T23:00:01.000Z"
       },
       {
         "time": "13:08",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "20:25",
+        "title": "露軍がウ首都や周辺攻撃 4人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591019?source=rss",
+        "publishedAt": "2026-08-08T11:25:38.000Z"
+      },
+      {
         "time": "13:12",
         "title": "露唯一の反戦政党 選挙排除の危機",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590964?source=rss",
         "publishedAt": "2026-08-08T04:13:15.000Z"
-      },
-      {
-        "time": "17:00",
-        "title": "米「出産旅行」禁止 大統領令署名",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590874?source=rss",
-        "publishedAt": "2026-08-07T08:00:23.000Z"
       },
       {
         "time": "16:25",
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "15:48",
-        "title": "新潟県中越 線状降水帯発生の恐れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590987?source=rss",
-        "publishedAt": "2026-08-08T06:48:49.000Z"
-      },
-      {
         "time": "15:13",
         "title": "前回地震の教訓 生きた熊本赤十字",
         "source": "Yahoo!ニュース",
@@ -168,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591015?source=rss",
         "publishedAt": "2026-08-08T10:51:16.000Z"
+      },
+      {
+        "time": "20:29",
+        "title": "沖縄で語り部 被爆体験訴える理由",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591018?source=rss",
+        "publishedAt": "2026-08-08T11:29:35.000Z"
       },
       {
         "time": "14:48",
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }
