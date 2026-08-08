@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T22:43:43.071Z",
+  "updatedAt": "2026-08-08T23:10:04.199Z",
   "items": [
+    {
+      "time": "08:08",
+      "title": "熊本県で最大震度4 津波心配なし",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591050?source=rss",
+      "publishedAt": "2026-08-08T23:08:40.000Z",
+      "xQuery": "熊本県で最大震度4 津波心配なし"
+    },
     {
       "time": "07:20",
       "title": "イオン爆発巡り 遺族装う投稿拡散",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン爆発巡り 遺族装う投稿拡散"
     },
     {
-      "time": "22:55",
-      "title": "イラン革命防衛隊 米国をけん制",
+      "time": "07:47",
+      "title": "大飯原発3号機自動停止 警報発信",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591033?source=rss",
-      "publishedAt": "2026-08-08T13:55:05.000Z",
-      "xQuery": "イラン革命防衛隊 米国をけん制"
-    },
-    {
-      "time": "22:19",
-      "title": "戦時中 複数大学で輸血の人体実験",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591027?source=rss",
-      "publishedAt": "2026-08-08T13:19:53.000Z",
-      "xQuery": "戦時中 複数大学で輸血の人体実験"
+      "url": "https://news.yahoo.co.jp/pickup/6591044?source=rss",
+      "publishedAt": "2026-08-08T22:47:35.000Z",
+      "xQuery": "大飯原発3号機自動停止 警報発信"
     },
     {
       "time": "23:28",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "息子助けようと川に 父親溺れ死亡"
     },
     {
-      "time": "22:13",
-      "title": "19歳不明 単独1泊2日予定で入山",
+      "time": "07:54",
+      "title": "ソニーがタムロンに買収提案 なぜ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591028?source=rss",
-      "publishedAt": "2026-08-08T13:13:16.000Z",
-      "xQuery": "19歳不明 単独1泊2日予定で入山"
+      "url": "https://news.yahoo.co.jp/pickup/6591046?source=rss",
+      "publishedAt": "2026-08-08T22:54:18.000Z",
+      "xQuery": "ソニーがタムロンに買収提案 なぜ"
     }
   ]
 };

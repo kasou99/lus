@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T22:43:41.975Z",
+  "updatedAt": "2026-08-08T23:10:03.387Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -33,7 +33,7 @@
       {
         "time": "17:48",
         "title": "【買収中止勧告】技術流出に危機感 判断分ける中国の影？",
-        "source": "sanyonews.jp",
+        "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01bU1FczU0UUExSHJ6dVl6TzRTcVFRNkRCbDI5Ylo2Wk9zMmxoSVFtNXp5RFB5Ri1UTFhQMWg2bWpaUDZ3SnV1NzRGNWlrUkxvRkE?oc=5",
         "publishedAt": "2026-08-08T08:48:42.000Z"
       },
@@ -45,17 +45,17 @@
         "publishedAt": "2026-08-08T14:09:59.000Z"
       },
       {
-        "time": "08:00",
-        "title": "中国のレアアースのような「切り札」はどこに？ドイツが探る対中カード―中国メディア｜Infoseekニュース",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpMnVuejNTbkJ1eW1lYlRiYXJzRmlrVExJUnl2NUp3NDhyUnNZNjdndEYtV0hYV0p5SnhOeEhMZ29HQWxtcF9VNmp3RjNYRVVzM1VFMzBURjVpSEttSU9tMUpmVTgwcUVhblE?oc=5",
-        "publishedAt": "2026-08-07T23:00:01.000Z"
-      },
-      {
         "time": "23:09",
         "title": "オークマの投資戦略｜フィジカルAIと自動化で利益率回復へ - d-sharing.jp",
         "source": "d-sharing.jp",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaVFZTWm5ZT0RrOUJUQjFTaXFyRmxzU0plY3dHaEFaOWU0c0Nha05lS2F5M05ObDhPOVhCVVhoOEY2Zy10WXFSXzFZZTQyb2c4bDBDakk3QllzUS1YblRjWXYwakpfWjZB?oc=5",
+        "publishedAt": "2026-08-08T14:09:59.000Z"
+      },
+      {
+        "time": "23:09",
+        "title": "日本精工の投資分析｜MTP2028とNTN経営統合を読む - d-sharing.jp",
+        "source": "d-sharing.jp",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OQmtzYUNjVnpGcS1JXzN6WGh6Qm1uMUdMU1lXcDRBZGJJYTk2UDF6bk1rYXJkZzdaNGg5ZkxzckRwMzYtd1pQV3NvSGxDWXYwYzdoWC1CS3lzdHFxMnJKaUpJeW8zQQ?oc=5",
         "publishedAt": "2026-08-08T14:09:59.000Z"
       }
     ],
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "07:54",
+        "title": "ソニーがタムロンに買収提案 なぜ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591046?source=rss",
+        "publishedAt": "2026-08-08T22:54:18.000Z"
+      },
+      {
         "time": "13:08",
         "title": "大分 被害なしでも旅先変更相次ぐ",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590922?source=rss",
         "publishedAt": "2026-08-07T22:26:44.000Z"
-      },
-      {
-        "time": "22:25",
-        "title": "キオクシア株 東芝にも巨額の恩恵",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590911?source=rss",
-        "publishedAt": "2026-08-07T13:25:18.000Z"
       },
       {
         "time": "16:27",
@@ -170,11 +170,11 @@
         "publishedAt": "2026-08-08T11:56:19.000Z"
       },
       {
-        "time": "17:04",
-        "title": "工事中転落か 建築会社社長が死亡",
+        "time": "07:51",
+        "title": "男性はねられ死亡 ひき逃げで捜査",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590998?source=rss",
-        "publishedAt": "2026-08-08T08:04:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591045?source=rss",
+        "publishedAt": "2026-08-08T22:51:41.000Z"
       },
       {
         "time": "23:28",
