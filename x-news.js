@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T12:48:45.504Z",
+  "updatedAt": "2026-08-08T13:22:01.288Z",
   "items": [
+    {
+      "time": "20:29",
+      "title": "沖縄で語り部 被爆体験訴える理由",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591018?source=rss",
+      "publishedAt": "2026-08-08T11:29:35.000Z",
+      "xQuery": "沖縄で語り部 被爆体験訴える理由"
+    },
     {
       "time": "17:34",
       "title": "夏休みに被災 ストレス感じる子も",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591001?source=rss",
       "publishedAt": "2026-08-08T08:34:27.000Z",
       "xQuery": "夏休みに被災 ストレス感じる子も"
-    },
-    {
-      "time": "20:25",
-      "title": "露軍がウ首都や周辺攻撃 4人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591019?source=rss",
-      "publishedAt": "2026-08-08T11:25:38.000Z",
-      "xQuery": "露軍がウ首都や周辺攻撃 4人死亡"
     },
     {
       "time": "20:56",

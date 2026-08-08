@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-08T12:48:44.844Z",
+  "updatedAt": "2026-08-08T13:22:00.187Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "09:00",
         "title": "二重ポンプ制御盤の世界市場（2026年～2032年）、市場規模（単相制御盤、三相制御盤）・分析レポートを発表",
-        "source": "Newscast.jp",
+        "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZUEZBVWltOUVVMHVtU1d6Mzlja2hkVThoeTdnbmZYNjV0QlJ3TUZjd3Y0dl9XRnBaWktMdllTX3RTaDk2OHFqbnpkS1hELTQ?oc=5",
         "publishedAt": "2026-08-08T00:00:00.000Z"
       },
@@ -24,16 +24,9 @@
         "publishedAt": "2026-08-08T05:27:32.000Z"
       },
       {
-        "time": "03:15",
-        "title": "グループ会社の三陽電工が多点センシング技術に関する特許を取得",
-        "source": "news.nicovideo.jp",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lTzk4SEVPVUVSTWhnV2tnUDI1N1hRdUVvd1FvUkhwWWJCdkptaGtqSGRsanZaSWdDNWFqZDlmVkhoSm4ySkdDMm1OS1RCbndmNG1iQ0otMm5xTlJoTEtveTJuTUxHNFQ3aWNnWFNGb05xZGY0b00xWl9fTQ?oc=5",
-        "publishedAt": "2026-08-07T18:15:21.000Z"
-      },
-      {
         "time": "08:00",
         "title": "中国のレアアースのような「切り札」はどこに？ドイツが探る対中カード―中国メディア",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wLWN5b0phS1lYakQxeVdGbGJVNG9IUFNuQ1pfNzRFYmVmb0RCTXFyVGwzSUFSUUc3elJWR0J2MHlObEFoTzU4UnFBTGJjOXIyYUxuS21rVE5pUXVtRW5LczNySWJkSV82ellmRjVOZHY3Rm92WWc?oc=5",
         "publishedAt": "2026-08-07T23:00:22.000Z"
       },
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590922?source=rss",
         "publishedAt": "2026-08-07T22:26:44.000Z"
+      },
+      {
+        "time": "22:25",
+        "title": "キオクシア株 東芝にも巨額の恩恵",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590911?source=rss",
+        "publishedAt": "2026-08-07T13:25:18.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "15:13",
-        "title": "前回地震の教訓 生きた熊本赤十字",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590983?source=rss",
-        "publishedAt": "2026-08-08T06:13:32.000Z"
-      },
-      {
         "time": "19:51",
         "title": "避難で留守の家から窃盗疑い 逮捕",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591010?source=rss",
         "publishedAt": "2026-08-08T09:53:53.000Z"
+      },
+      {
+        "time": "22:13",
+        "title": "19歳不明 単独1泊2日予定で入山",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591028?source=rss",
+        "publishedAt": "2026-08-08T13:13:16.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,15 +218,15 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
         "time": "16:00",
-        "title": "防犯対策・防犯カメラ設置の補助金・助成金2026｜個人向けの申請方法と全国の制度を解説",
-        "source": "補助金ポータル",
+        "title": "防犯対策・防犯カメラ設置の補助金・助成金2026｜個人向けの申請方法と全国の制度を解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFVFV1MEdRM3YwbDdWaHRFenRXbzNHcXMtN3hkckN0dk9DOXlyZnA4RllKTTI2VmNiVU5pUjJmZ0xOUXJWQ29TWlhfTlYxQzBabGlZWTJ6Q012NTg?oc=5",
         "publishedAt": "2026-07-24T07:00:00.000Z"
       }
