@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T12:13:33.920Z",
+  "updatedAt": "2026-08-08T12:48:45.504Z",
   "items": [
     {
       "time": "17:34",
@@ -10,22 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "夏休みに被災 ストレス感じる子も"
     },
     {
-      "time": "19:51",
-      "title": "避難で留守の家から窃盗疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591015?source=rss",
-      "publishedAt": "2026-08-08T10:51:16.000Z",
-      "xQuery": "避難で留守の家から窃盗疑い 逮捕"
-    },
-    {
-      "time": "19:16",
-      "title": "台風15号 11-12日に東北上陸恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591011?source=rss",
-      "publishedAt": "2026-08-08T10:16:08.000Z",
-      "xQuery": "台風15号 11-12日に東北上陸恐れ"
-    },
-    {
       "time": "20:25",
       "title": "露軍がウ首都や周辺攻撃 4人死亡",
       "source": "Yahoo!ニュース",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "露軍がウ首都や周辺攻撃 4人死亡"
     },
     {
-      "time": "18:14",
-      "title": "2歳がん診断 希望の薬は5500万円",
+      "time": "20:56",
+      "title": "男性死亡 ひき逃げ疑いで女を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591002?source=rss",
-      "publishedAt": "2026-08-08T09:14:55.000Z",
-      "xQuery": "2歳がん診断 希望の薬は5500万円"
+      "url": "https://news.yahoo.co.jp/pickup/6591021?source=rss",
+      "publishedAt": "2026-08-08T11:56:19.000Z",
+      "xQuery": "男性死亡 ひき逃げ疑いで女を逮捕"
+    },
+    {
+      "time": "21:46",
+      "title": "ブドウ200房窃盗疑い 販売目的か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591025?source=rss",
+      "publishedAt": "2026-08-08T12:46:20.000Z",
+      "xQuery": "ブドウ200房窃盗疑い 販売目的か"
+    },
+    {
+      "time": "21:19",
+      "title": "志茂田景樹さん「要介護5」の今",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591022?source=rss",
+      "publishedAt": "2026-08-08T12:19:52.000Z",
+      "xQuery": "志茂田景樹さん「要介護5」の今"
     }
   ]
 };
