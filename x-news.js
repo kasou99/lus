@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T10:12:42.718Z",
+  "updatedAt": "2026-08-08T10:45:18.754Z",
   "items": [
     {
       "time": "15:13",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "前回地震の教訓 生きた熊本赤十字"
     },
     {
-      "time": "18:03",
-      "title": "子を産む不安 「家族留学」で変化",
+      "time": "19:16",
+      "title": "台風15号 11-12日に東北上陸恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591007?source=rss",
-      "publishedAt": "2026-08-08T09:03:54.000Z",
-      "xQuery": "子を産む不安 「家族留学」で変化"
+      "url": "https://news.yahoo.co.jp/pickup/6591011?source=rss",
+      "publishedAt": "2026-08-08T10:16:08.000Z",
+      "xQuery": "台風15号 11-12日に東北上陸恐れ"
     },
     {
       "time": "18:14",
