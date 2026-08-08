@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T10:45:17.814Z",
+  "updatedAt": "2026-08-08T11:11:00.861Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,14 +26,14 @@
       {
         "time": "21:10",
         "title": "製紙工場の煙道・煙突点検に360°カメラ搭載マイクロドローンを活用、リックスとアイ・ロボティクス",
-        "source": "jiji.com",
+        "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tUzRSRUhGZGtOMXFuWEs5SU15YTYyLVV1elo1TW5UWG5hMm5EU25QakpGWnY1R3BUSGQtYUU4WFgxZnkydHlGblNxb2J0VWhiamxEYVlRUVU0Ml95cGlmTC1NZ295dnN4QU1Z?oc=5",
         "publishedAt": "2026-08-07T12:10:00.000Z"
       },
       {
         "time": "08:00",
         "title": "中国のレアアースのような「切り札」はどこに？ドイツが探る対中カード―中国メディア",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wLWN5b0phS1lYakQxeVdGbGJVNG9IUFNuQ1pfNzRFYmVmb0RCTXFyVGwzSUFSUUc3elJWR0J2MHlObEFoTzU4UnFBTGJjOXIyYUxuS21rVE5pUXVtRW5LczNySWJkSV82ellmRjVOZHY3Rm92WWc?oc=5",
         "publishedAt": "2026-08-07T23:00:22.000Z"
       },
@@ -163,6 +163,13 @@
         "publishedAt": "2026-08-08T06:13:32.000Z"
       },
       {
+        "time": "19:51",
+        "title": "避難で留守の家から窃盗疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591015?source=rss",
+        "publishedAt": "2026-08-08T10:51:16.000Z"
+      },
+      {
         "time": "14:48",
         "title": "被爆81年 語り部再開を目指す99歳",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591010?source=rss",
         "publishedAt": "2026-08-08T09:53:53.000Z"
-      },
-      {
-        "time": "14:08",
-        "title": "琵琶湖「花火大会」3市が関与否定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590975?source=rss",
-        "publishedAt": "2026-08-08T05:08:12.000Z"
       }
     ],
     "subsidyHeadlines": [

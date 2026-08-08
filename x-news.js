@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T10:45:18.754Z",
+  "updatedAt": "2026-08-08T11:11:01.745Z",
   "items": [
     {
       "time": "15:13",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "2歳がん診断 希望の薬は5500万円"
     },
     {
+      "time": "19:51",
+      "title": "避難で留守の家から窃盗疑い 逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591015?source=rss",
+      "publishedAt": "2026-08-08T10:51:16.000Z",
+      "xQuery": "避難で留守の家から窃盗疑い 逮捕"
+    },
+    {
       "time": "18:53",
       "title": "サーフィン中に溺れ 46歳男性死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591010?source=rss",
       "publishedAt": "2026-08-08T09:53:53.000Z",
       "xQuery": "サーフィン中に溺れ 46歳男性死亡"
-    },
-    {
-      "time": "17:04",
-      "title": "工事中転落か 建築会社社長が死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590998?source=rss",
-      "publishedAt": "2026-08-08T08:04:45.000Z",
-      "xQuery": "工事中転落か 建築会社社長が死亡"
     }
   ]
 };
