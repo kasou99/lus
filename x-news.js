@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T13:22:01.288Z",
+  "updatedAt": "2026-08-08T13:48:12.495Z",
   "items": [
     {
       "time": "20:29",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "夏休みに被災 ストレス感じる子も"
     },
     {
-      "time": "20:56",
-      "title": "男性死亡 ひき逃げ疑いで女を逮捕",
+      "time": "22:34",
+      "title": "日本郵便で一時システム障害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591021?source=rss",
-      "publishedAt": "2026-08-08T11:56:19.000Z",
-      "xQuery": "男性死亡 ひき逃げ疑いで女を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6591030?source=rss",
+      "publishedAt": "2026-08-08T13:34:41.000Z",
+      "xQuery": "日本郵便で一時システム障害"
+    },
+    {
+      "time": "22:13",
+      "title": "19歳不明 単独1泊2日予定で入山",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591028?source=rss",
+      "publishedAt": "2026-08-08T13:13:16.000Z",
+      "xQuery": "19歳不明 単独1泊2日予定で入山"
     },
     {
       "time": "21:46",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591025?source=rss",
       "publishedAt": "2026-08-08T12:46:20.000Z",
       "xQuery": "ブドウ200房窃盗疑い 販売目的か"
-    },
-    {
-      "time": "21:19",
-      "title": "志茂田景樹さん「要介護5」の今",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591022?source=rss",
-      "publishedAt": "2026-08-08T12:19:52.000Z",
-      "xQuery": "志茂田景樹さん「要介護5」の今"
     }
   ]
 };
