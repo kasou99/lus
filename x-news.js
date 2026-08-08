@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T13:48:12.495Z",
+  "updatedAt": "2026-08-08T14:15:20.950Z",
   "items": [
+    {
+      "time": "22:19",
+      "title": "戦時中 複数大学で輸血の人体実験",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591027?source=rss",
+      "publishedAt": "2026-08-08T13:19:53.000Z",
+      "xQuery": "戦時中 複数大学で輸血の人体実験"
+    },
     {
       "time": "20:29",
       "title": "沖縄で語り部 被爆体験訴える理由",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "沖縄で語り部 被爆体験訴える理由"
     },
     {
-      "time": "17:34",
-      "title": "夏休みに被災 ストレス感じる子も",
+      "time": "22:55",
+      "title": "イラン革命防衛隊 米国をけん制",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591001?source=rss",
-      "publishedAt": "2026-08-08T08:34:27.000Z",
-      "xQuery": "夏休みに被災 ストレス感じる子も"
-    },
-    {
-      "time": "22:34",
-      "title": "日本郵便で一時システム障害",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591030?source=rss",
-      "publishedAt": "2026-08-08T13:34:41.000Z",
-      "xQuery": "日本郵便で一時システム障害"
+      "url": "https://news.yahoo.co.jp/pickup/6591033?source=rss",
+      "publishedAt": "2026-08-08T13:55:05.000Z",
+      "xQuery": "イラン革命防衛隊 米国をけん制"
     },
     {
       "time": "22:13",
