@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T20:44:06.308Z",
+  "updatedAt": "2026-08-08T21:10:47.926Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "d-sharing.jp",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sWUxDR0hid2VZb2g1bG94RjZFeXZmRWRiMFdLaEU3UlhLM3dPMVYtSnNtMnJWRFRBRlV5TFBEeWY5emJXemNkb1dLYWpYSVdGVDlrUzZaMGhYa0dl?oc=5",
         "publishedAt": "2026-08-08T14:09:59.000Z"
-      },
-      {
-        "time": "21:50",
-        "title": "（2）その統合に大義はあるか【中部企業研究・東海地銀コンフィデンシャル編】：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HMjgyNkRPOU5EdVNVZE92QWlCajlwS0NFbU5GSnFrMHptejU2T09jS0oyNEdRakRqbFQ4cFpNcElqZWxwQlJLRTVEY0FCU1ZOZDc5SVl0clNNTlBocExF?oc=5",
-        "publishedAt": "2026-08-08T12:50:09.000Z"
       },
       {
         "time": "18:30",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-08-08T14:09:59.000Z"
       },
       {
-        "time": "17:48",
-        "title": "【買収中止勧告】技術流出に危機感 判断分ける中国の影？",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01bU1FczU0UUExSHJ6dVl6TzRTcVFRNkRCbDI5Ylo2Wk9zMmxoSVFtNXp5RFB5Ri1UTFhQMWg2bWpaUDZ3SnV1NzRGNWlrUkxvRkE?oc=5",
-        "publishedAt": "2026-08-08T08:48:42.000Z"
-      },
-      {
         "time": "08:00",
         "title": "中国のレアアースのような「切り札」はどこに？ドイツが探る対中カード―中国メディア｜Infoseekニュース",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpMnVuejNTbkJ1eW1lYlRiYXJzRmlrVExJUnl2NUp3NDhyUnNZNjdndEYtV0hYV0p5SnhOeEhMZ29HQWxtcF9VNmp3RjNYRVVzM1VFMzBURjVpSEttSU9tMUpmVTgwcUVhblE?oc=5",
         "publishedAt": "2026-08-07T23:00:01.000Z"
+      },
+      {
+        "time": "23:09",
+        "title": "オークマの投資戦略｜フィジカルAIと自動化で利益率回復へ - d-sharing.jp",
+        "source": "d-sharing.jp",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaVFZTWm5ZT0RrOUJUQjFTaXFyRmxzU0plY3dHaEFaOWU0c0Nha05lS2F5M05ObDhPOVhCVVhoOEY2Zy10WXFSXzFZZTQyb2c4bDBDakk3QllzUS1YblRjWXYwakpfWjZB?oc=5",
+        "publishedAt": "2026-08-08T14:09:59.000Z"
+      },
+      {
+        "time": "21:50",
+        "title": "（2）その統合に大義はあるか【中部企業研究・東海地銀コンフィデンシャル編】：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HMjgyNkRPOU5EdVNVZE92QWlCajlwS0NFbU5GSnFrMHptejU2T09jS0oyNEdRakRqbFQ4cFpNcElqZWxwQlJLRTVEY0FCU1ZOZDc5SVl0clNNTlBocExF?oc=5",
+        "publishedAt": "2026-08-08T12:50:09.000Z"
       }
     ],
     "worldHeadlines": [
