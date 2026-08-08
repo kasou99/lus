@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T05:19:52.669Z",
+  "updatedAt": "2026-08-08T05:47:38.752Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "上毛新聞電子版",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfejhvZHMzVkhUZTZCZURmOUVMVU9PX2tsNzVhRmNEalVKLW0zMXJLbGVXUUp5RElWOHVwUXhEMmNaZk1COXJ4aGZuaEZKSmxWaHlxNzRlb1c?oc=5",
         "publishedAt": "2026-08-07T06:30:00.000Z"
+      },
+      {
+        "time": "14:27",
+        "title": "新潟精機が熊本地震の被災企業に高精度水準器を無償貸与 生産設備の早期復旧を支援",
+        "source": "ケンオー・ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jU1RRN2hWelVSWFJPa0NSeGVHOEx4VkhlVmdEalE5Uy1TSHVUdmJSb2Mwc190MjdjTGtaTUN3VWFWYlpzNXZFRDdmLVY0OWp4?oc=5",
+        "publishedAt": "2026-08-08T05:27:32.000Z"
       },
       {
         "time": "21:10",
@@ -33,7 +40,7 @@
       {
         "time": "16:30",
         "title": "産業用制御用ワイヤの世界市場（2026年～2032年）、市場規模（PVC、ポリエチレン、ポリウレタン、その他）・分析レポートを発表",
-        "source": "atpress.ne.jp",
+        "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GNG12VlcxdzF6ZXUzQXY1azlkZEhSME5OM1VMWXFKSmxWcEtkNlVxeTcydDByYktKbXhDaVZHWm5GLV9tQ3dkcFpUYmlqOWM?oc=5",
         "publishedAt": "2026-08-07T07:30:00.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CZFV3U0lPUHNuUDVpWTBXaGxmTHpBZURQVlBJdG9hYVE3Q2FQdFJiSGZoLUg3aUpHU0xXbTBtMklxbzY0bDdwVHI4UzVuR3VXVFdGX1I1eTFxQXM0TWN1RWFwaFJNdTRWU1doZzhWU3dPQjNuS3c?oc=5",
         "publishedAt": "2026-08-07T08:02:58.000Z"
-      },
-      {
-        "time": "13:08",
-        "title": "大分 被害なしでも旅先変更相次ぐ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590967?source=rss",
-        "publishedAt": "2026-08-08T04:08:46.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,6 +163,20 @@
         "publishedAt": "2026-08-08T02:48:25.000Z"
       },
       {
+        "time": "14:43",
+        "title": "男性2人溺れ1人心肺停止 海水浴場",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590979?source=rss",
+        "publishedAt": "2026-08-08T05:43:16.000Z"
+      },
+      {
+        "time": "14:39",
+        "title": "台風13号 沖縄で転倒など5人けが",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590977?source=rss",
+        "publishedAt": "2026-08-08T05:39:06.000Z"
+      },
+      {
         "time": "14:08",
         "title": "琵琶湖「花火大会」3市が関与否定",
         "source": "Yahoo!ニュース",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590937?source=rss",
         "publishedAt": "2026-08-08T00:13:58.000Z"
-      },
-      {
-        "time": "08:39",
-        "title": "53歳男性が死亡 ひき逃げの疑い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590934?source=rss",
-        "publishedAt": "2026-08-07T23:39:21.000Z"
-      },
-      {
-        "time": "10:59",
-        "title": "高速道で何度も追突され 一部始終",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590948?source=rss",
-        "publishedAt": "2026-08-08T01:59:41.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T05:19:53.412Z",
+  "updatedAt": "2026-08-08T05:47:39.850Z",
   "items": [
     {
       "time": "13:03",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "高市首相 人事で旧安倍派重用か"
     },
     {
-      "time": "11:48",
-      "title": "無理に学校行かせ被爆死 母は自責",
+      "time": "13:08",
+      "title": "大分 被害なしでも旅先変更相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590957?source=rss",
-      "publishedAt": "2026-08-08T02:48:25.000Z",
-      "xQuery": "無理に学校行かせ被爆死 母は自責"
+      "url": "https://news.yahoo.co.jp/pickup/6590967?source=rss",
+      "publishedAt": "2026-08-08T04:08:46.000Z",
+      "xQuery": "大分 被害なしでも旅先変更相次ぐ"
+    },
+    {
+      "time": "14:43",
+      "title": "男性2人溺れ1人心肺停止 海水浴場",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590979?source=rss",
+      "publishedAt": "2026-08-08T05:43:16.000Z",
+      "xQuery": "男性2人溺れ1人心肺停止 海水浴場"
     },
     {
       "time": "10:59",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高速道で何度も追突され 一部始終"
     },
     {
-      "time": "12:18",
-      "title": "令和8年8月8日 婚姻届窓口に行列",
+      "time": "14:08",
+      "title": "琵琶湖「花火大会」3市が関与否定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590958?source=rss",
-      "publishedAt": "2026-08-08T03:18:53.000Z",
-      "xQuery": "令和8年8月8日 婚姻届窓口に行列"
-    },
-    {
-      "time": "09:40",
-      "title": "名前ドラえもん16人 インドネシア",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590941?source=rss",
-      "publishedAt": "2026-08-08T00:40:29.000Z",
-      "xQuery": "名前ドラえもん16人 インドネシア"
+      "url": "https://news.yahoo.co.jp/pickup/6590975?source=rss",
+      "publishedAt": "2026-08-08T05:08:12.000Z",
+      "xQuery": "琵琶湖「花火大会」3市が関与否定"
     }
   ]
 };
