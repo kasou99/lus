@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T06:49:09.735Z",
+  "updatedAt": "2026-08-08T07:24:01.575Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,23 +31,16 @@
         "publishedAt": "2026-08-07T09:20:36.000Z"
       },
       {
-        "time": "03:15",
-        "title": "グループ会社の三陽電工が多点センシング技術に関する特許を取得",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lTzk4SEVPVUVSTWhnV2tnUDI1N1hRdUVvd1FvUkhwWWJCdkptaGtqSGRsanZaSWdDNWFqZDlmVkhoSm4ySkdDMm1OS1RCbndmNG1iQ0otMm5xTlJoTEtveTJuTUxHNFQ3aWNnWFNGb05xZGY0b00xWl9fTQ?oc=5",
-        "publishedAt": "2026-08-07T18:15:21.000Z"
-      },
-      {
         "time": "16:30",
         "title": "産業用制御用ワイヤの世界市場（2026年～2032年）、市場規模（PVC、ポリエチレン、ポリウレタン、その他）・分析レポートを発表",
-        "source": "アットプレス",
+        "source": "atpress.ne.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GNG12VlcxdzF6ZXUzQXY1azlkZEhSME5OM1VMWXFKSmxWcEtkNlVxeTcydDByYktKbXhDaVZHWm5GLV9tQ3dkcFpUYmlqOWM?oc=5",
         "publishedAt": "2026-08-07T07:30:00.000Z"
       },
       {
         "time": "18:25",
         "title": "「クルマが景気を動かす」時代は戻るのか？ 景気DI「43.6」が映すAI時代の産業連鎖、ものづくり再始動への新たな循環とは",
-        "source": "article.auone.jp",
+        "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4LThvOTV0ZnNnVFVQWTJJdHg5VTZkUHFGR2RsRC1OTkhYdjJzbHpxdEJVazByc2g4czNvMmtHRmxfSVo2MDZoSnJDdURtbkxTcHY5WGRhcGVvc2FfLVdNMm5VeUdHS1h4Q2JQdmRB?oc=5",
         "publishedAt": "2026-08-07T09:25:06.000Z"
       },
@@ -57,6 +50,13 @@
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CZFV3U0lPUHNuUDVpWTBXaGxmTHpBZURQVlBJdG9hYVE3Q2FQdFJiSGZoLUg3aUpHU0xXbTBtMklxbzY0bDdwVHI4UzVuR3VXVFdGX1I1eTFxQXM0TWN1RWFwaFJNdTRWU1doZzhWU3dPQjNuS3c?oc=5",
         "publishedAt": "2026-08-07T08:02:58.000Z"
+      },
+      {
+        "time": "13:08",
+        "title": "大分 被害なしでも旅先変更相次ぐ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590967?source=rss",
+        "publishedAt": "2026-08-08T04:08:46.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "15:48",
+        "title": "新潟県中越 線状降水帯発生の恐れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590987?source=rss",
+        "publishedAt": "2026-08-08T06:48:49.000Z"
+      },
+      {
         "time": "15:13",
         "title": "前回地震の教訓 生きた熊本赤十字",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590975?source=rss",
         "publishedAt": "2026-08-08T05:08:12.000Z"
-      },
-      {
-        "time": "09:13",
-        "title": "野球部員死亡 別CT画像で診察か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590937?source=rss",
-        "publishedAt": "2026-08-08T00:13:58.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }

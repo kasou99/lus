@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T06:49:10.333Z",
+  "updatedAt": "2026-08-08T07:24:02.656Z",
   "items": [
     {
       "time": "14:39",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風13号 沖縄で転倒など5人けが"
     },
     {
+      "time": "15:48",
+      "title": "新潟県中越 線状降水帯発生の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590987?source=rss",
+      "publishedAt": "2026-08-08T06:48:49.000Z",
+      "xQuery": "新潟県中越 線状降水帯発生の恐れ"
+    },
+    {
       "time": "15:01",
       "title": "自民党「萩生田幹事長」案が浮上",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6590982?source=rss",
       "publishedAt": "2026-08-08T06:01:53.000Z",
       "xQuery": "自民党「萩生田幹事長」案が浮上"
-    },
-    {
-      "time": "13:08",
-      "title": "大分 被害なしでも旅先変更相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590967?source=rss",
-      "publishedAt": "2026-08-08T04:08:46.000Z",
-      "xQuery": "大分 被害なしでも旅先変更相次ぐ"
     },
     {
       "time": "14:43",
