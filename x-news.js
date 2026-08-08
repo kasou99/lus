@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T07:48:49.641Z",
+  "updatedAt": "2026-08-08T08:16:57.686Z",
   "items": [
+    {
+      "time": "14:48",
+      "title": "被爆81年 語り部再開を目指す99歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590978?source=rss",
+      "publishedAt": "2026-08-08T05:48:57.000Z",
+      "xQuery": "被爆81年 語り部再開を目指す99歳"
+    },
     {
       "time": "14:39",
       "title": "台風13号 沖縄で転倒など5人けが",
@@ -10,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風13号 沖縄で転倒など5人けが"
     },
     {
-      "time": "15:48",
-      "title": "新潟県中越 線状降水帯発生の恐れ",
+      "time": "16:25",
+      "title": "タイの学校銃撃疑い14歳 計画的か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590987?source=rss",
-      "publishedAt": "2026-08-08T06:48:49.000Z",
-      "xQuery": "新潟県中越 線状降水帯発生の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6590992?source=rss",
+      "publishedAt": "2026-08-08T07:25:18.000Z",
+      "xQuery": "タイの学校銃撃疑い14歳 計画的か"
     },
     {
-      "time": "15:01",
-      "title": "自民党「萩生田幹事長」案が浮上",
+      "time": "17:04",
+      "title": "工事中転落か 建築会社社長が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590982?source=rss",
-      "publishedAt": "2026-08-08T06:01:53.000Z",
-      "xQuery": "自民党「萩生田幹事長」案が浮上"
+      "url": "https://news.yahoo.co.jp/pickup/6590998?source=rss",
+      "publishedAt": "2026-08-08T08:04:45.000Z",
+      "xQuery": "工事中転落か 建築会社社長が死亡"
     },
     {
       "time": "14:08",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590975?source=rss",
       "publishedAt": "2026-08-08T05:08:12.000Z",
       "xQuery": "琵琶湖「花火大会」3市が関与否定"
-    },
-    {
-      "time": "16:27",
-      "title": "テーマパーク値上げ 30施設超に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590991?source=rss",
-      "publishedAt": "2026-08-08T07:27:43.000Z",
-      "xQuery": "テーマパーク値上げ 30施設超に"
     }
   ]
 };

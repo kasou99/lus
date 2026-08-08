@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T07:48:48.861Z",
+  "updatedAt": "2026-08-08T08:16:56.923Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-08-07T09:25:06.000Z"
       },
       {
-        "time": "17:02",
-        "title": "三陽電工が取得した特許が実現する多点センシング技術の進化とその応用",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CZFV3U0lPUHNuUDVpWTBXaGxmTHpBZURQVlBJdG9hYVE3Q2FQdFJiSGZoLUg3aUpHU0xXbTBtMklxbzY0bDdwVHI4UzVuR3VXVFdGX1I1eTFxQXM0TWN1RWFwaFJNdTRWU1doZzhWU3dPQjNuS3c?oc=5",
-        "publishedAt": "2026-08-07T08:02:58.000Z"
-      },
-      {
         "time": "13:08",
         "title": "大分 被害なしでも旅先変更相次ぐ",
         "source": "Yahoo!ニュース",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590939?source=rss",
         "publishedAt": "2026-08-08T00:05:59.000Z"
+      },
+      {
+        "time": "07:26",
+        "title": "イオンの従業員誘導 規定に抵触か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590922?source=rss",
+        "publishedAt": "2026-08-07T22:26:44.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,18 +170,18 @@
         "publishedAt": "2026-08-08T05:48:57.000Z"
       },
       {
-        "time": "14:43",
-        "title": "男性2人溺れ1人心肺停止 海水浴場",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590979?source=rss",
-        "publishedAt": "2026-08-08T05:43:16.000Z"
-      },
-      {
         "time": "14:39",
         "title": "台風13号 沖縄で転倒など5人けが",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590977?source=rss",
         "publishedAt": "2026-08-08T05:39:06.000Z"
+      },
+      {
+        "time": "17:04",
+        "title": "工事中転落か 建築会社社長が死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590998?source=rss",
+        "publishedAt": "2026-08-08T08:04:45.000Z"
       },
       {
         "time": "14:08",
