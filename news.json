@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T03:34:25.923Z",
+  "updatedAt": "2026-08-08T04:27:02.865Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-08-07T06:30:00.000Z"
       },
       {
-        "time": "18:20",
-        "title": "サンリツ1Q、半導体装置好調で営業益3.4倍",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByZEx0TGFZbGN0UWtWS0tMdkZBdm5oVHVscTQySmVUczkyT2pjMUJfc25fNnpySzhaUEs1Nl9UZENDNlZSMDAxcA?oc=5",
-        "publishedAt": "2026-08-07T09:20:36.000Z"
-      },
-      {
         "time": "21:10",
         "title": "製紙工場の煙道・煙突点検に360°カメラ搭載マイクロドローンを活用、リックスとアイ・ロボティクス",
         "source": "時事ドットコム",
@@ -31,11 +24,11 @@
         "publishedAt": "2026-08-07T12:10:00.000Z"
       },
       {
-        "time": "03:15",
-        "title": "グループ会社の三陽電工が多点センシング技術に関する特許を取得",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lTzk4SEVPVUVSTWhnV2tnUDI1N1hRdUVvd1FvUkhwWWJCdkptaGtqSGRsanZaSWdDNWFqZDlmVkhoSm4ySkdDMm1OS1RCbndmNG1iQ0otMm5xTlJoTEtveTJuTUxHNFQ3aWNnWFNGb05xZGY0b00xWl9fTQ?oc=5",
-        "publishedAt": "2026-08-07T18:15:21.000Z"
+        "time": "18:20",
+        "title": "サンリツ1Q、半導体装置好調で営業益3.4倍",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByZEx0TGFZbGN0UWtWS0tMdkZBdm5oVHVscTQySmVUczkyT2pjMUJfc25fNnpySzhaUEs1Nl9UZENDNlZSMDAxcA?oc=5",
+        "publishedAt": "2026-08-07T09:20:36.000Z"
       },
       {
         "time": "16:30",
@@ -57,9 +50,23 @@
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CZFV3U0lPUHNuUDVpWTBXaGxmTHpBZURQVlBJdG9hYVE3Q2FQdFJiSGZoLUg3aUpHU0xXbTBtMklxbzY0bDdwVHI4UzVuR3VXVFdGX1I1eTFxQXM0TWN1RWFwaFJNdTRWU1doZzhWU3dPQjNuS3c?oc=5",
         "publishedAt": "2026-08-07T08:02:58.000Z"
+      },
+      {
+        "time": "13:08",
+        "title": "大分 被害なしでも旅先変更相次ぐ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590967?source=rss",
+        "publishedAt": "2026-08-08T04:08:46.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "13:12",
+        "title": "露唯一の反戦政党 選挙排除の危機",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590966?source=rss",
+        "publishedAt": "2026-08-08T04:12:47.000Z"
+      },
       {
         "time": "08:31",
         "title": "トランプ氏 FRB理事解任なお模索",
@@ -75,11 +82,11 @@
         "publishedAt": "2026-08-07T01:40:49.000Z"
       },
       {
-        "time": "11:12",
-        "title": "イラン 海峡運用でオマーンと合意",
+        "time": "13:13",
+        "title": "トランプ氏「大統領ビジネス」増",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590707?source=rss",
-        "publishedAt": "2026-08-06T02:12:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590964?source=rss",
+        "publishedAt": "2026-08-08T04:13:15.000Z"
       },
       {
         "time": "17:00",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590874?source=rss",
         "publishedAt": "2026-08-07T08:00:23.000Z"
-      },
-      {
-        "time": "17:30",
-        "title": "タイの学校で銃撃 教職員5人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590881?source=rss",
-        "publishedAt": "2026-08-07T08:30:32.000Z"
       },
       {
         "time": "10:35",
@@ -104,6 +104,13 @@
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "13:08",
+        "title": "大分 被害なしでも旅先変更相次ぐ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590967?source=rss",
+        "publishedAt": "2026-08-08T04:08:46.000Z"
+      },
       {
         "time": "09:05",
         "title": "障害者雇用「水増し」対象外計上",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590928?source=rss",
         "publishedAt": "2026-08-07T23:00:09.000Z"
-      },
-      {
-        "time": "21:46",
-        "title": "「日銀利上げで円高」は本当か?",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590885?source=rss",
-        "publishedAt": "2026-08-07T12:46:50.000Z"
       },
       {
         "time": "22:25",

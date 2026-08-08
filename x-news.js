@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T03:34:26.738Z",
+  "updatedAt": "2026-08-08T04:27:03.684Z",
   "items": [
     {
       "time": "11:48",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "無理に学校行かせ被爆死 母は自責"
     },
     {
-      "time": "12:02",
-      "title": "台風15号 11-12日接近・上陸恐れ",
+      "time": "13:12",
+      "title": "露唯一の反戦政党 選挙排除の危機",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590959?source=rss",
-      "publishedAt": "2026-08-08T03:02:04.000Z",
-      "xQuery": "台風15号 11-12日接近・上陸恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6590966?source=rss",
+      "publishedAt": "2026-08-08T04:12:47.000Z",
+      "xQuery": "露唯一の反戦政党 選挙排除の危機"
     },
     {
-      "time": "09:13",
-      "title": "野球部員死亡 別CT画像で診察か",
+      "time": "11:23",
+      "title": "警察の拳銃「使えば面倒」の意識",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590937?source=rss",
-      "publishedAt": "2026-08-08T00:13:58.000Z",
-      "xQuery": "野球部員死亡 別CT画像で診察か"
+      "url": "https://news.yahoo.co.jp/pickup/6590954?source=rss",
+      "publishedAt": "2026-08-08T02:23:00.000Z",
+      "xQuery": "警察の拳銃「使えば面倒」の意識"
     },
     {
-      "time": "10:08",
-      "title": "日本のマヨネーズ 世界でなぜ人気",
+      "time": "10:59",
+      "title": "高速道で何度も追突され 一部始終",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590943?source=rss",
-      "publishedAt": "2026-08-08T01:08:32.000Z",
-      "xQuery": "日本のマヨネーズ 世界でなぜ人気"
+      "url": "https://news.yahoo.co.jp/pickup/6590948?source=rss",
+      "publishedAt": "2026-08-08T01:59:41.000Z",
+      "xQuery": "高速道で何度も追突され 一部始終"
     },
     {
-      "time": "09:40",
-      "title": "名前ドラえもん16人 インドネシア",
+      "time": "12:18",
+      "title": "令和8年8月8日 婚姻届窓口に行列",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590941?source=rss",
-      "publishedAt": "2026-08-08T00:40:29.000Z",
-      "xQuery": "名前ドラえもん16人 インドネシア"
+      "url": "https://news.yahoo.co.jp/pickup/6590958?source=rss",
+      "publishedAt": "2026-08-08T03:18:53.000Z",
+      "xQuery": "令和8年8月8日 婚姻届窓口に行列"
     }
   ]
 };
