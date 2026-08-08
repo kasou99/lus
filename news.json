@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T01:35:01.523Z",
+  "updatedAt": "2026-08-08T02:43:14.237Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZUEZBVWltOUVVMHVtU1d6Mzlja2hkVThoeTdnbmZYNjV0QlJ3TUZjd3Y0dl9XRnBaWktMdllTX3RTaDk2OHFqbnpkS1hELTQ?oc=5",
         "publishedAt": "2026-08-08T00:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "四半期決算＜４～６月期＞＝ヤマザキ 工作機械減で赤字",
-        "source": "静岡新聞DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CZlc0RnZwR1lqZDdBaVNTcWpXRDNNdU81YnFaTDFUY2NlV3VVS21MUVRFQWpPcGZvay1JQnlPcjE4a01zZVNDdllDNVQ0QQ?oc=5",
-        "publishedAt": "2026-08-07T20:00:00.000Z"
       },
       {
         "time": "15:30",
@@ -57,6 +50,13 @@
         "source": "北國新聞",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zV0dySTZMN2xrbFg3ZVBHRzVTbHRGVHpfSlI2WHY3WEsxWkM0WlJnV2QxM2dsVXlITnlCTU9vQV84Vk05UlBkRzBxOVhpOWZhQUVOdWxDRQ?oc=5",
         "publishedAt": "2026-08-07T03:25:00.000Z"
+      },
+      {
+        "time": "11:56",
+        "title": "半導体業界の現場知見をもとに、求職者の経験を業界目線で読み解く「LAYLA-HR」ベータ版を公開",
+        "source": "大分経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EQUxsejZScWw0VnRJc2o2Qm50LWlUb1BVQklQQXUzVnd6Ujl4V0hUU1hhUkxEbFUxYk1kVE4yeWJ0WWZycTVwMkd4V21mUGNS?oc=5",
+        "publishedAt": "2026-08-07T02:56:27.000Z"
       }
     ],
     "worldHeadlines": [
@@ -96,11 +96,11 @@
         "publishedAt": "2026-08-07T08:30:32.000Z"
       },
       {
-        "time": "21:43",
-        "title": "中国船同士衝突2人死亡 公表に1年",
+        "time": "10:35",
+        "title": "韓国 竹島周辺の日本EEZで調査か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590904?source=rss",
-        "publishedAt": "2026-08-07T12:43:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590949?source=rss",
+        "publishedAt": "2026-08-08T01:35:48.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-08-07T23:49:06.000Z"
       },
       {
+        "time": "11:38",
+        "title": "被爆した兄らの碑 妹の最後の掃除",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590955?source=rss",
+        "publishedAt": "2026-08-08T02:38:59.000Z"
+      },
+      {
         "time": "20:03",
         "title": "81年前 6歳の私かばい死んだ祖母",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590895?source=rss",
         "publishedAt": "2026-08-07T11:03:26.000Z"
-      },
-      {
-        "time": "10:32",
-        "title": "クマ対策 投票所に爆竹や鈴を用意",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590950?source=rss",
-        "publishedAt": "2026-08-08T01:32:33.000Z"
       },
       {
         "time": "09:13",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-08-08T00:13:58.000Z"
       },
       {
-        "time": "21:26",
-        "title": "江別暴行で無期判決 諭した裁判長",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590901?source=rss",
-        "publishedAt": "2026-08-07T12:26:16.000Z"
-      },
-      {
         "time": "08:39",
         "title": "53歳男性が死亡 ひき逃げの疑い",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590934?source=rss",
         "publishedAt": "2026-08-07T23:39:21.000Z"
+      },
+      {
+        "time": "10:59",
+        "title": "高速道で何度も追突され 一部始終",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590948?source=rss",
+        "publishedAt": "2026-08-08T01:59:41.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }

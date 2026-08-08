@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T01:35:02.515Z",
+  "updatedAt": "2026-08-08T02:43:15.015Z",
   "items": [
     {
-      "time": "08:12",
-      "title": "政権の積極財政「日本売り」危機",
+      "time": "11:21",
+      "title": "熊本地震の死者39人に 県発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590927?source=rss",
-      "publishedAt": "2026-08-07T23:12:07.000Z",
-      "xQuery": "政権の積極財政「日本売り」危機"
+      "url": "https://news.yahoo.co.jp/pickup/6590952?source=rss",
+      "publishedAt": "2026-08-08T02:21:27.000Z",
+      "xQuery": "熊本地震の死者39人に 県発表"
     },
     {
-      "time": "08:31",
-      "title": "トランプ氏 FRB理事解任なお模索",
+      "time": "11:38",
+      "title": "被爆した兄らの碑 妹の最後の掃除",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590932?source=rss",
-      "publishedAt": "2026-08-07T23:31:36.000Z",
-      "xQuery": "トランプ氏 FRB理事解任なお模索"
-    },
-    {
-      "time": "07:26",
-      "title": "イオンの従業員誘導 規定に抵触か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590922?source=rss",
-      "publishedAt": "2026-08-07T22:26:44.000Z",
-      "xQuery": "イオンの従業員誘導 規定に抵触か"
+      "url": "https://news.yahoo.co.jp/pickup/6590955?source=rss",
+      "publishedAt": "2026-08-08T02:38:59.000Z",
+      "xQuery": "被爆した兄らの碑 妹の最後の掃除"
     },
     {
       "time": "09:13",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590936?source=rss",
       "publishedAt": "2026-08-07T23:54:29.000Z",
       "xQuery": "年収600万円 高速バスWILLER狙い"
+    },
+    {
+      "time": "09:40",
+      "title": "名前ドラえもん16人 インドネシア",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6590941?source=rss",
+      "publishedAt": "2026-08-08T00:40:29.000Z",
+      "xQuery": "名前ドラえもん16人 インドネシア"
     }
   ]
 };
