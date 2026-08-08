@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T00:53:02.066Z",
+  "updatedAt": "2026-08-08T01:35:01.523Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -133,18 +133,18 @@
         "publishedAt": "2026-08-07T12:46:50.000Z"
       },
       {
-        "time": "22:21",
-        "title": "四国新幹線 調査対象路線に国選定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590913?source=rss",
-        "publishedAt": "2026-08-07T13:21:57.000Z"
-      },
-      {
         "time": "22:25",
         "title": "キオクシア株 東芝にも巨額の恩恵",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590911?source=rss",
         "publishedAt": "2026-08-07T13:25:18.000Z"
+      },
+      {
+        "time": "08:54",
+        "title": "年収600万円 高速バスWILLER狙い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6590936?source=rss",
+        "publishedAt": "2026-08-07T23:54:29.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,11 +163,11 @@
         "publishedAt": "2026-08-07T11:03:26.000Z"
       },
       {
-        "time": "17:43",
-        "title": "爆心地から500mで被爆 生還した父",
+        "time": "10:32",
+        "title": "クマ対策 投票所に爆竹や鈴を用意",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590878?source=rss",
-        "publishedAt": "2026-08-07T08:43:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6590950?source=rss",
+        "publishedAt": "2026-08-08T01:32:33.000Z"
       },
       {
         "time": "09:13",
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }

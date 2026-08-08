@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T00:53:03.133Z",
+  "updatedAt": "2026-08-08T01:35:02.515Z",
   "items": [
     {
       "time": "08:12",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "政権の積極財政「日本売り」危機"
     },
     {
-      "time": "08:49",
-      "title": "避難生活続く 被災地の緊急課題は",
+      "time": "08:31",
+      "title": "トランプ氏 FRB理事解任なお模索",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590935?source=rss",
-      "publishedAt": "2026-08-07T23:49:06.000Z",
-      "xQuery": "避難生活続く 被災地の緊急課題は"
+      "url": "https://news.yahoo.co.jp/pickup/6590932?source=rss",
+      "publishedAt": "2026-08-07T23:31:36.000Z",
+      "xQuery": "トランプ氏 FRB理事解任なお模索"
     },
     {
-      "time": "08:39",
-      "title": "53歳男性が死亡 ひき逃げの疑い",
+      "time": "07:26",
+      "title": "イオンの従業員誘導 規定に抵触か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590934?source=rss",
-      "publishedAt": "2026-08-07T23:39:21.000Z",
-      "xQuery": "53歳男性が死亡 ひき逃げの疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6590922?source=rss",
+      "publishedAt": "2026-08-07T22:26:44.000Z",
+      "xQuery": "イオンの従業員誘導 規定に抵触か"
     },
     {
       "time": "09:13",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "野球部員死亡 別CT画像で診察か"
     },
     {
-      "time": "07:26",
-      "title": "イオンの従業員誘導 規定に抵触か",
+      "time": "08:54",
+      "title": "年収600万円 高速バスWILLER狙い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590922?source=rss",
-      "publishedAt": "2026-08-07T22:26:44.000Z",
-      "xQuery": "イオンの従業員誘導 規定に抵触か"
+      "url": "https://news.yahoo.co.jp/pickup/6590936?source=rss",
+      "publishedAt": "2026-08-07T23:54:29.000Z",
+      "xQuery": "年収600万円 高速バスWILLER狙い"
     }
   ]
 };
