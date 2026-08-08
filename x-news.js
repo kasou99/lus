@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T18:11:44.533Z",
+  "updatedAt": "2026-08-08T18:47:51.900Z",
   "items": [
     {
-      "time": "03:05",
-      "title": "地震情報",
+      "time": "03:13",
+      "title": "岩手県で震度4 津波の心配なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590192?source=rss",
-      "publishedAt": "2026-08-08T18:05:34.000Z",
-      "xQuery": "地震情報"
-    },
-    {
-      "time": "22:19",
-      "title": "戦時中 複数大学で輸血の人体実験",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591027?source=rss",
-      "publishedAt": "2026-08-08T13:19:53.000Z",
-      "xQuery": "戦時中 複数大学で輸血の人体実験"
+      "url": "https://news.yahoo.co.jp/pickup/6591037?source=rss",
+      "publishedAt": "2026-08-08T18:13:01.000Z",
+      "xQuery": "岩手県で震度4 津波の心配なし"
     },
     {
       "time": "22:55",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン革命防衛隊 米国をけん制"
     },
     {
-      "time": "22:13",
-      "title": "19歳不明 単独1泊2日予定で入山",
+      "time": "22:19",
+      "title": "戦時中 複数大学で輸血の人体実験",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591028?source=rss",
-      "publishedAt": "2026-08-08T13:13:16.000Z",
-      "xQuery": "19歳不明 単独1泊2日予定で入山"
+      "url": "https://news.yahoo.co.jp/pickup/6591027?source=rss",
+      "publishedAt": "2026-08-08T13:19:53.000Z",
+      "xQuery": "戦時中 複数大学で輸血の人体実験"
     },
     {
       "time": "23:28",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591035?source=rss",
       "publishedAt": "2026-08-08T14:28:15.000Z",
       "xQuery": "息子助けようと川に 父親溺れ死亡"
+    },
+    {
+      "time": "22:13",
+      "title": "19歳不明 単独1泊2日予定で入山",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591028?source=rss",
+      "publishedAt": "2026-08-08T13:13:16.000Z",
+      "xQuery": "19歳不明 単独1泊2日予定で入山"
     }
   ]
 };
