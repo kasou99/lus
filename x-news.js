@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T07:24:02.656Z",
+  "updatedAt": "2026-08-08T07:48:49.641Z",
   "items": [
     {
       "time": "14:39",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "自民党「萩生田幹事長」案が浮上"
     },
     {
-      "time": "14:43",
-      "title": "男性2人溺れ1人心肺停止 海水浴場",
+      "time": "14:08",
+      "title": "琵琶湖「花火大会」3市が関与否定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590979?source=rss",
-      "publishedAt": "2026-08-08T05:43:16.000Z",
-      "xQuery": "男性2人溺れ1人心肺停止 海水浴場"
+      "url": "https://news.yahoo.co.jp/pickup/6590975?source=rss",
+      "publishedAt": "2026-08-08T05:08:12.000Z",
+      "xQuery": "琵琶湖「花火大会」3市が関与否定"
     },
     {
-      "time": "10:59",
-      "title": "高速道で何度も追突され 一部始終",
+      "time": "16:27",
+      "title": "テーマパーク値上げ 30施設超に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590948?source=rss",
-      "publishedAt": "2026-08-08T01:59:41.000Z",
-      "xQuery": "高速道で何度も追突され 一部始終"
+      "url": "https://news.yahoo.co.jp/pickup/6590991?source=rss",
+      "publishedAt": "2026-08-08T07:27:43.000Z",
+      "xQuery": "テーマパーク値上げ 30施設超に"
     }
   ]
 };
