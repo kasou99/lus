@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-08T08:47:57.022Z",
+  "updatedAt": "2026-08-08T09:17:43.791Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "09:00",
         "title": "二重ポンプ制御盤の世界市場（2026年～2032年）、市場規模（単相制御盤、三相制御盤）・分析レポートを発表",
-        "source": "newscast.jp",
+        "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZUEZBVWltOUVVMHVtU1d6Mzlja2hkVThoeTdnbmZYNjV0QlJ3TUZjd3Y0dl9XRnBaWktMdllTX3RTaDk2OHFqbnpkS1hELTQ?oc=5",
         "publishedAt": "2026-08-08T00:00:00.000Z"
       },
@@ -19,7 +19,7 @@
       {
         "time": "21:10",
         "title": "製紙工場の煙道・煙突点検に360°カメラ搭載マイクロドローンを活用、リックスとアイ・ロボティクス",
-        "source": "時事ドットコム",
+        "source": "jiji.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tUzRSRUhGZGtOMXFuWEs5SU15YTYyLVV1elo1TW5UWG5hMm5EU25QakpGWnY1R3BUSGQtYUU4WFgxZnkydHlGblNxb2J0VWhiamxEYVlRUVU0Ml95cGlmTC1NZ295dnN4QU1Z?oc=5",
         "publishedAt": "2026-08-07T12:10:00.000Z"
       },
@@ -31,9 +31,16 @@
         "publishedAt": "2026-08-07T09:20:36.000Z"
       },
       {
+        "time": "08:00",
+        "title": "中国のレアアースのような「切り札」はどこに？ドイツが探る対中カード―中国メディア",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wLWN5b0phS1lYakQxeVdGbGJVNG9IUFNuQ1pfNzRFYmVmb0RCTXFyVGwzSUFSUUc3elJWR0J2MHlObEFoTzU4UnFBTGJjOXIyYUxuS21rVE5pUXVtRW5LczNySWJkSV82ellmRjVOZHY3Rm92WWc?oc=5",
+        "publishedAt": "2026-08-07T23:00:22.000Z"
+      },
+      {
         "time": "18:25",
         "title": "「クルマが景気を動かす」時代は戻るのか？ 景気DI「43.6」が映すAI時代の産業連鎖、ものづくり再始動への新たな循環とは",
-        "source": "au Webポータル",
+        "source": "article.auone.jp",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4LThvOTV0ZnNnVFVQWTJJdHg5VTZkUHFGR2RsRC1OTkhYdjJzbHpxdEJVazByc2g4czNvMmtHRmxfSVo2MDZoSnJDdURtbkxTcHY5WGRhcGVvc2FfLVdNMm5VeUdHS1h4Q2JQdmRB?oc=5",
         "publishedAt": "2026-08-07T09:25:06.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590939?source=rss",
         "publishedAt": "2026-08-08T00:05:59.000Z"
-      },
-      {
-        "time": "07:26",
-        "title": "イオンの従業員誘導 規定に抵触か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590922?source=rss",
-        "publishedAt": "2026-08-07T22:26:44.000Z"
       }
     ],
     "worldHeadlines": [
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T08:47:57.941Z",
+  "updatedAt": "2026-08-08T09:17:44.486Z",
   "items": [
     {
       "time": "14:48",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "被爆81年 語り部再開を目指す99歳"
     },
     {
-      "time": "14:39",
-      "title": "台風13号 沖縄で転倒など5人けが",
+      "time": "18:03",
+      "title": "子を産む不安 「家族留学」で変化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590977?source=rss",
-      "publishedAt": "2026-08-08T05:39:06.000Z",
-      "xQuery": "台風13号 沖縄で転倒など5人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6591007?source=rss",
+      "publishedAt": "2026-08-08T09:03:54.000Z",
+      "xQuery": "子を産む不安 「家族留学」で変化"
+    },
+    {
+      "time": "18:14",
+      "title": "2歳がん診断 希望の薬は5500万円",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591002?source=rss",
+      "publishedAt": "2026-08-08T09:14:55.000Z",
+      "xQuery": "2歳がん診断 希望の薬は5500万円"
     },
     {
       "time": "16:25",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6590998?source=rss",
       "publishedAt": "2026-08-08T08:04:45.000Z",
       "xQuery": "工事中転落か 建築会社社長が死亡"
-    },
-    {
-      "time": "14:08",
-      "title": "琵琶湖「花火大会」3市が関与否定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6590975?source=rss",
-      "publishedAt": "2026-08-08T05:08:12.000Z",
-      "xQuery": "琵琶湖「花火大会」3市が関与否定"
     }
   ]
 };
