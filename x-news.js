@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T08:17:52.397Z",
+  "updatedAt": "2026-08-09T08:47:56.525Z",
   "items": [
     {
       "time": "15:24",
@@ -10,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "台風15号 11日午後に東北上陸恐れ"
     },
     {
-      "time": "13:51",
-      "title": "長崎原爆の日 被爆者代表の誓い",
+      "time": "17:23",
+      "title": "原爆の記憶忘れる前に 語る97歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591081?source=rss",
-      "publishedAt": "2026-08-09T04:51:33.000Z",
-      "xQuery": "長崎原爆の日 被爆者代表の誓い"
+      "url": "https://news.yahoo.co.jp/pickup/6591104?source=rss",
+      "publishedAt": "2026-08-09T08:23:19.000Z",
+      "xQuery": "原爆の記憶忘れる前に 語る97歳"
     },
     {
-      "time": "16:02",
-      "title": "地震で煙突倒壊し息子犠牲 母は涙",
+      "time": "17:40",
+      "title": "台湾 長崎式典の席巡り異例の抗議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591096?source=rss",
-      "publishedAt": "2026-08-09T07:02:16.000Z",
-      "xQuery": "地震で煙突倒壊し息子犠牲 母は涙"
+      "url": "https://news.yahoo.co.jp/pickup/6591107?source=rss",
+      "publishedAt": "2026-08-09T08:40:58.000Z",
+      "xQuery": "台湾 長崎式典の席巡り異例の抗議"
+    },
+    {
+      "time": "17:35",
+      "title": "橋流され390人が孤立 下山始まる",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591105?source=rss",
+      "publishedAt": "2026-08-09T08:35:31.000Z",
+      "xQuery": "橋流され390人が孤立 下山始まる"
     },
     {
       "time": "16:59",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591100?source=rss",
       "publishedAt": "2026-08-09T07:59:25.000Z",
       "xQuery": "がれきの下にチワワ 15h後に救出"
-    },
-    {
-      "time": "13:31",
-      "title": "槍ヶ岳に遺体 付近では19歳が不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591079?source=rss",
-      "publishedAt": "2026-08-09T04:31:04.000Z",
-      "xQuery": "槍ヶ岳に遺体 付近では19歳が不明"
     }
   ]
 };
