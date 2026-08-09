@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T06:21:15.658Z",
+  "updatedAt": "2026-08-09T06:49:31.218Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "09:12",
         "title": "臨時休館…埼玉・寄居の「県立川の博物館」、8日から 上水設備が故障 ポンプ制御盤の基盤に不具合か 職員が故障に気付く 再開は見通しが立ち次第、HPやSNSで案内（埼玉新聞）",
-        "source": "Yahoo!ニュース",
+        "source": "news.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9md0VoSUI1ZlpKdndRXzYtUU9rM3ZLMWRBV2w5ZkVXUDN2MDVFYkVQbEdfQnp0LUp2ZEp5OUlkdlc0UndkdmRId0hEVFh6ZkJKMjFwYTFJb091N2tMR0FsWkVMdXBVS2FWaS1kdzc0Rlo3TFJxN0lqT2IzNG4xYnc?oc=5",
         "publishedAt": "2026-08-09T00:12:07.000Z"
       },
@@ -20,7 +20,7 @@
         "time": "09:04",
         "title": "臨時休館…寄居・川の博物館、8日から 上水設備が故障 ポンプ制御盤の基盤に不具合か 職員が故障に気付く 再開は見通しが立ち次第、HPやSNSで案内",
         "source": "埼玉新聞",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95QUFIX1ZhSEtaY3NjRWxMcF94b09ycnEyTDNXOXJhV2FNRUVKeXBBWElSNkdzbXVxTmZhdzNpQmptTU03NHRwRnYxQVQ3UGI0blRRUXl4NA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mb2Jnc2s1dkg4ZlRCalB2SVpQdU1KbllpamV1ZlBZeW43ejhGMERrbE1VbkF1ZS1pdjc1azJxV3ZrcUxYTEJKZW95VlRzMTZKV0szbTRjdzNyQjJnMXBKbExRbWp3U2s2OHB4RGFNSnh3WWs?oc=5",
         "publishedAt": "2026-08-09T00:04:00.000Z"
       },
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-08-08T14:09:59.000Z"
       },
       {
-        "time": "18:30",
-        "title": "決算後株価はストップ安――安川電機「フィジカルAI」への期待は結実するか？",
-        "source": "つばめ投資顧問",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14OTl5SWQ1ZzY1dmJvNlhSdnBaX1dYME1nSWYzYVpLLVBlNmN4LWdNZld4WjFPTXl0RG1iR2haUmlEc3hzZmZuWVB0RDlLUQ?oc=5",
-        "publishedAt": "2026-08-08T09:30:11.000Z"
-      },
-      {
         "time": "23:09",
         "title": "ジェイテクトの投資分析｜構造改革と過去最高益計画 - d-sharing.jp",
         "source": "d-sharing.jp",
@@ -57,6 +50,13 @@
         "source": "d-sharing.jp",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaVFZTWm5ZT0RrOUJUQjFTaXFyRmxzU0plY3dHaEFaOWU0c0Nha05lS2F5M05ObDhPOVhCVVhoOEY2Zy10WXFSXzFZZTQyb2c4bDBDakk3QllzUS1YblRjWXYwakpfWjZB?oc=5",
         "publishedAt": "2026-08-08T14:09:59.000Z"
+      },
+      {
+        "time": "09:50",
+        "title": "説得応じない男性…スマホ片手にATM操作 スピーカー状態のスマホから漏れる操作を指示する声 偶然居合わせた女性2人が相談、説得も応じず110番 被害防止につなげた、面識ない2人の行動を絶賛",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NdGRISHRsaXUyTkZvLWhYU0JGWHBlYVlaWU9JREk0UDRtbzZFU1RJdnZlTVhhcmxzUEt6d0p2bEhpclltSWM4dWRER21XSVE2YVJiczNScHlReG93WmlkTWpER2FYOVE4VHN6bUdR?oc=5",
+        "publishedAt": "2026-08-09T00:50:57.000Z"
       }
     ],
     "worldHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-09T04:31:04.000Z"
       },
       {
-        "time": "13:14",
-        "title": "大人に失望感 トー横に集まる若者",
+        "time": "15:20",
+        "title": "共産市議 民家フェンスに当て逃げ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591078?source=rss",
-        "publishedAt": "2026-08-09T04:14:48.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591091?source=rss",
+        "publishedAt": "2026-08-09T06:20:33.000Z"
       }
     ],
     "subsidyHeadlines": [

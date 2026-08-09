@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T06:21:16.897Z",
+  "updatedAt": "2026-08-09T06:49:32.381Z",
   "items": [
+    {
+      "time": "15:24",
+      "title": "台風15号 11日午後に東北上陸恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591092?source=rss",
+      "publishedAt": "2026-08-09T06:24:07.000Z",
+      "xQuery": "台風15号 11日午後に東北上陸恐れ"
+    },
     {
       "time": "13:51",
       "title": "長崎原爆の日 被爆者代表の誓い",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン 海峡開放巡り米に補償要求"
     },
     {
+      "time": "15:14",
+      "title": "地震で煙突倒壊し息子犠牲 母思い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591090?source=rss",
+      "publishedAt": "2026-08-09T06:14:30.000Z",
+      "xQuery": "地震で煙突倒壊し息子犠牲 母思い"
+    },
+    {
       "time": "13:31",
       "title": "槍ヶ岳に遺体 付近では19歳が不明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591079?source=rss",
       "publishedAt": "2026-08-09T04:31:04.000Z",
       "xQuery": "槍ヶ岳に遺体 付近では19歳が不明"
-    },
-    {
-      "time": "12:06",
-      "title": "市関与否定の琵琶湖花火大会 中止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591074?source=rss",
-      "publishedAt": "2026-08-09T03:06:00.000Z",
-      "xQuery": "市関与否定の琵琶湖花火大会 中止"
-    },
-    {
-      "time": "14:00",
-      "title": "夜発朝着の東海道新幹線 同乗取材",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591080?source=rss",
-      "publishedAt": "2026-08-09T05:00:47.000Z",
-      "xQuery": "夜発朝着の東海道新幹線 同乗取材"
     }
   ]
 };
