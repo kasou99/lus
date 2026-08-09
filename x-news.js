@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T00:56:09.173Z",
+  "updatedAt": "2026-08-09T01:35:43.830Z",
   "items": [
+    {
+      "time": "10:25",
+      "title": "台風15号 東から西に本州横断か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591062?source=rss",
+      "publishedAt": "2026-08-09T01:25:52.000Z",
+      "xQuery": "台風15号 東から西に本州横断か"
+    },
     {
       "time": "08:46",
       "title": "平和祈念像 彫刻家がこめた情熱",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591045?source=rss",
       "publishedAt": "2026-08-08T22:51:41.000Z",
       "xQuery": "男性はねられ死亡 ひき逃げで捜査"
-    },
-    {
-      "time": "07:54",
-      "title": "ソニーがタムロンに買収提案 なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591046?source=rss",
-      "publishedAt": "2026-08-08T22:54:18.000Z",
-      "xQuery": "ソニーがタムロンに買収提案 なぜ"
     }
   ]
 };
