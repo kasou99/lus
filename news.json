@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T02:47:36.210Z",
+  "updatedAt": "2026-08-09T03:36:53.439Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-08-08T14:09:59.000Z"
       },
       {
-        "time": "21:50",
-        "title": "（2）その統合に大義はあるか【中部企業研究・東海地銀コンフィデンシャル編】：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HMjgyNkRPOU5EdVNVZE92QWlCajlwS0NFbU5GSnFrMHptejU2T09jS0oyNEdRakRqbFQ4cFpNcElqZWxwQlJLRTVEY0FCU1ZOZDc5SVl0clNNTlBocExF?oc=5",
-        "publishedAt": "2026-08-08T12:50:09.000Z"
-      },
-      {
         "time": "23:09",
         "title": "オークマの投資戦略｜フィジカルAIと自動化で利益率回復へ - d-sharing.jp",
         "source": "d-sharing.jp",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-08-08T14:09:59.000Z"
       },
       {
-        "time": "23:09",
-        "title": "日本精工の投資分析｜MTP2028とNTN経営統合を読む - d-sharing.jp",
-        "source": "d-sharing.jp",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OQmtzYUNjVnpGcS1JXzN6WGh6Qm1uMUdMU1lXcDRBZGJJYTk2UDF6bk1rYXJkZzdaNGg5ZkxzckRwMzYtd1pQV3NvSGxDWXYwYzdoWC1CS3lzdHFxMnJKaUpJeW8zQQ?oc=5",
-        "publishedAt": "2026-08-08T14:09:59.000Z"
+        "time": "09:41",
+        "title": "福島空港で「取れたてモモ」販売 降ひょう被害の県北地区の農家応援",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RYWFjallfdjduQ1RMbG1nWTZlRDM0dkFHUE1UQXRlSW5lb2VWWWYxeFJwM3hJa2tRb1p5MkRPZ2I2NHhyRzJ0WXpkZDVtVVpPcTVmS2Z2RlQ5cFFqYzc2bGRXcDNZUUg1aHFzS2VXUmtxa2FNbVFHYg?oc=5",
+        "publishedAt": "2026-08-09T00:41:19.000Z"
+      },
+      {
+        "time": "09:50",
+        "title": "説得応じない男性…スマホ片手にATM操作 スピーカー状態のスマホから漏れる操作を指示する声 偶然居合わせた女性2人が相談、説得も応じず110番 被害防止につなげた、面識ない2人の行動を絶賛",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NdGRISHRsaXUyTkZvLWhYU0JGWHBlYVlaWU9JREk0UDRtbzZFU1RJdnZlTVhhcmxzUEt6d0p2bEhpclltSWM4dWRER21XSVE2YVJiczNScHlReG93WmlkTWpER2FYOVE4VHN6bUdR?oc=5",
+        "publishedAt": "2026-08-09T00:50:57.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,11 +170,11 @@
         "publishedAt": "2026-08-08T11:56:19.000Z"
       },
       {
-        "time": "07:51",
-        "title": "男性はねられ死亡 ひき逃げで捜査",
+        "time": "23:28",
+        "title": "息子助けようと川に 父親溺れ死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591045?source=rss",
-        "publishedAt": "2026-08-08T22:51:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591035?source=rss",
+        "publishedAt": "2026-08-08T14:28:15.000Z"
       },
       {
         "time": "10:46",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-09T01:46:46.000Z"
       },
       {
-        "time": "23:28",
-        "title": "息子助けようと川に 父親溺れ死亡",
+        "time": "12:06",
+        "title": "市関与否定の琵琶湖花火大会 中止",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591035?source=rss",
-        "publishedAt": "2026-08-08T14:28:15.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591074?source=rss",
+        "publishedAt": "2026-08-09T03:06:00.000Z"
       }
     ],
     "subsidyHeadlines": [

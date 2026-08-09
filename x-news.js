@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T02:47:36.842Z",
+  "updatedAt": "2026-08-09T03:36:54.227Z",
   "items": [
     {
-      "time": "10:31",
-      "title": "中継 長崎「原爆の日」の平和式典",
+      "time": "12:24",
+      "title": "首相あいさつ 非核三原則「堅持」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591059?source=rss",
-      "publishedAt": "2026-08-09T01:31:02.000Z",
-      "xQuery": "中継 長崎「原爆の日」の平和式典"
+      "url": "https://news.yahoo.co.jp/pickup/6591075?source=rss",
+      "publishedAt": "2026-08-09T03:24:05.000Z",
+      "xQuery": "首相あいさつ 非核三原則「堅持」"
     },
     {
-      "time": "10:25",
-      "title": "台風15号 東から西に本州横断か",
+      "time": "10:09",
+      "title": "非核三原則 堅持求める地方議会増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591062?source=rss",
-      "publishedAt": "2026-08-09T01:25:52.000Z",
-      "xQuery": "台風15号 東から西に本州横断か"
+      "url": "https://news.yahoo.co.jp/pickup/6591061?source=rss",
+      "publishedAt": "2026-08-09T01:09:59.000Z",
+      "xQuery": "非核三原則 堅持求める地方議会増"
     },
     {
       "time": "11:08",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "阿波おどりで不適切な動画 憤り"
     },
     {
-      "time": "09:50",
-      "title": "SNSで紹介した川で事故 責任は",
+      "time": "12:06",
+      "title": "市関与否定の琵琶湖花火大会 中止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591058?source=rss",
-      "publishedAt": "2026-08-09T00:50:34.000Z",
-      "xQuery": "SNSで紹介した川で事故 責任は"
+      "url": "https://news.yahoo.co.jp/pickup/6591074?source=rss",
+      "publishedAt": "2026-08-09T03:06:00.000Z",
+      "xQuery": "市関与否定の琵琶湖花火大会 中止"
     }
   ]
 };
