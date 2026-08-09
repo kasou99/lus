@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T13:23:51.987Z",
+  "updatedAt": "2026-08-09T13:48:57.586Z",
   "items": [
+    {
+      "time": "21:51",
+      "title": "熊本地震 家屋被害2万棟超える",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591128?source=rss",
+      "publishedAt": "2026-08-09T12:51:54.000Z",
+      "xQuery": "熊本地震 家屋被害2万棟超える"
+    },
     {
       "time": "20:54",
       "title": "血で染まった洗面器 8/9の記憶",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591122?source=rss",
       "publishedAt": "2026-08-09T11:54:27.000Z",
       "xQuery": "血で染まった洗面器 8/9の記憶"
-    },
-    {
-      "time": "20:03",
-      "title": "長崎市長 平和宣言1文読み飛ばし",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591118?source=rss",
-      "publishedAt": "2026-08-09T11:03:34.000Z",
-      "xQuery": "長崎市長 平和宣言1文読み飛ばし"
-    },
-    {
-      "time": "21:42",
-      "title": "イラン最高指導者 大統領と面会",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591127?source=rss",
-      "publishedAt": "2026-08-09T12:42:37.000Z",
-      "xQuery": "イラン最高指導者 大統領と面会"
     },
     {
       "time": "21:53",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591131?source=rss",
       "publishedAt": "2026-08-09T13:17:11.000Z",
       "xQuery": "孫運転の車にはねられ 女性死亡"
+    },
+    {
+      "time": "22:32",
+      "title": "JR東海「夜行」新幹線 客4割女性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591134?source=rss",
+      "publishedAt": "2026-08-09T13:32:42.000Z",
+      "xQuery": "JR東海「夜行」新幹線 客4割女性"
     }
   ]
 };
