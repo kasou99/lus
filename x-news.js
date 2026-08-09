@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T15:12:05.793Z",
+  "updatedAt": "2026-08-09T15:43:27.477Z",
   "items": [
-    {
-      "time": "20:54",
-      "title": "血で染まった洗面器 8/9の記憶",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591122?source=rss",
-      "publishedAt": "2026-08-09T11:54:27.000Z",
-      "xQuery": "血で染まった洗面器 8/9の記憶"
-    },
     {
       "time": "21:53",
       "title": "台風15号 列島を横断する可能性",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591135?source=rss",
       "publishedAt": "2026-08-09T14:12:52.000Z",
       "xQuery": "イオン 自己判断で店内戻った人も"
+    },
+    {
+      "time": "22:17",
+      "title": "孫運転の車にはねられ 女性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591131?source=rss",
+      "publishedAt": "2026-08-09T13:17:11.000Z",
+      "xQuery": "孫運転の車にはねられ 女性死亡"
     }
   ]
 };
