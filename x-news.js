@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T20:45:56.638Z",
+  "updatedAt": "2026-08-09T21:11:44.497Z",
   "items": [
     {
       "time": "21:53",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ガザ和平工程 ネタニヤフ氏が拒否"
     },
     {
-      "time": "23:46",
-      "title": "長野県知事選 現職の阿部氏が5選",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591137?source=rss",
-      "publishedAt": "2026-08-09T14:46:18.000Z",
-      "xQuery": "長野県知事選 現職の阿部氏が5選"
-    },
-    {
       "time": "23:12",
       "title": "イオン 自己判断で店内戻った人も",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591131?source=rss",
       "publishedAt": "2026-08-09T13:17:11.000Z",
       "xQuery": "孫運転の車にはねられ 女性死亡"
+    },
+    {
+      "time": "22:32",
+      "title": "JR東海「夜行」新幹線 客4割女性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591134?source=rss",
+      "publishedAt": "2026-08-09T13:32:42.000Z",
+      "xQuery": "JR東海「夜行」新幹線 客4割女性"
     }
   ]
 };
