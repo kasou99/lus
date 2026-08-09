@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T11:42:42.134Z",
+  "updatedAt": "2026-08-09T12:13:46.945Z",
   "items": [
     {
       "time": "19:29",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "長崎市長 平和宣言1文読み飛ばし"
     },
     {
-      "time": "18:50",
-      "title": "遊泳中に女性3人溺れる 1人死亡",
+      "time": "20:48",
+      "title": "槍ヶ岳に遺体 不明の19歳と判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591112?source=rss",
-      "publishedAt": "2026-08-09T09:50:54.000Z",
-      "xQuery": "遊泳中に女性3人溺れる 1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6591123?source=rss",
+      "publishedAt": "2026-08-09T11:48:45.000Z",
+      "xQuery": "槍ヶ岳に遺体 不明の19歳と判明"
     },
     {
       "time": "10:46",
