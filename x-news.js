@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T05:48:21.277Z",
+  "updatedAt": "2026-08-09T06:21:16.897Z",
   "items": [
     {
       "time": "13:51",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン 海峡開放巡り米に補償要求"
     },
     {
-      "time": "12:39",
-      "title": "80歳母を踏み死亡させた疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591076?source=rss",
-      "publishedAt": "2026-08-09T03:39:42.000Z",
-      "xQuery": "80歳母を踏み死亡させた疑い 逮捕"
-    },
-    {
       "time": "13:31",
       "title": "槍ヶ岳に遺体 付近では19歳が不明",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "槍ヶ岳に遺体 付近では19歳が不明"
     },
     {
-      "time": "10:46",
-      "title": "阿波おどりで不適切な動画 憤り",
+      "time": "12:06",
+      "title": "市関与否定の琵琶湖花火大会 中止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591066?source=rss",
-      "publishedAt": "2026-08-09T01:46:46.000Z",
-      "xQuery": "阿波おどりで不適切な動画 憤り"
+      "url": "https://news.yahoo.co.jp/pickup/6591074?source=rss",
+      "publishedAt": "2026-08-09T03:06:00.000Z",
+      "xQuery": "市関与否定の琵琶湖花火大会 中止"
+    },
+    {
+      "time": "14:00",
+      "title": "夜発朝着の東海道新幹線 同乗取材",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591080?source=rss",
+      "publishedAt": "2026-08-09T05:00:47.000Z",
+      "xQuery": "夜発朝着の東海道新幹線 同乗取材"
     }
   ]
 };
