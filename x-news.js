@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T09:18:16.640Z",
+  "updatedAt": "2026-08-09T09:47:28.812Z",
   "items": [
     {
       "time": "17:23",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591104?source=rss",
       "publishedAt": "2026-08-09T08:23:19.000Z",
       "xQuery": "原爆の記憶忘れる前に 語る97歳"
-    },
-    {
-      "time": "15:24",
-      "title": "台風15号 11日午後に東北上陸恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591092?source=rss",
-      "publishedAt": "2026-08-09T06:24:07.000Z",
-      "xQuery": "台風15号 11日午後に東北上陸恐れ"
     },
     {
       "time": "17:35",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591107?source=rss",
       "publishedAt": "2026-08-09T08:40:58.000Z",
       "xQuery": "台湾 長崎式典の席巡り異例の抗議"
+    },
+    {
+      "time": "18:18",
+      "title": "波にさらわれ男性死亡 海岸散歩中",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591108?source=rss",
+      "publishedAt": "2026-08-09T09:18:46.000Z",
+      "xQuery": "波にさらわれ男性死亡 海岸散歩中"
     },
     {
       "time": "16:59",
