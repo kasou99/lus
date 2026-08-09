@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T05:24:51.506Z",
+  "updatedAt": "2026-08-09T05:48:21.277Z",
   "items": [
     {
-      "time": "12:24",
-      "title": "首相あいさつ 非核三原則「堅持」",
+      "time": "13:51",
+      "title": "長崎原爆の日 被爆者代表の誓い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591075?source=rss",
-      "publishedAt": "2026-08-09T03:24:05.000Z",
-      "xQuery": "首相あいさつ 非核三原則「堅持」"
+      "url": "https://news.yahoo.co.jp/pickup/6591081?source=rss",
+      "publishedAt": "2026-08-09T04:51:33.000Z",
+      "xQuery": "長崎原爆の日 被爆者代表の誓い"
     },
     {
-      "time": "11:18",
-      "title": "所得連動給付 政府が法整備検討",
+      "time": "14:16",
+      "title": "イラン 海峡開放巡り米に補償要求",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591067?source=rss",
-      "publishedAt": "2026-08-09T02:18:16.000Z",
-      "xQuery": "所得連動給付 政府が法整備検討"
+      "url": "https://news.yahoo.co.jp/pickup/6591084?source=rss",
+      "publishedAt": "2026-08-09T05:16:54.000Z",
+      "xQuery": "イラン 海峡開放巡り米に補償要求"
     },
     {
       "time": "12:39",
