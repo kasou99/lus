@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T14:45:41.334Z",
+  "updatedAt": "2026-08-09T15:12:05.793Z",
   "items": [
-    {
-      "time": "21:51",
-      "title": "熊本地震 家屋被害2万棟超える",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591128?source=rss",
-      "publishedAt": "2026-08-09T12:51:54.000Z",
-      "xQuery": "熊本地震 家屋被害2万棟超える"
-    },
     {
       "time": "20:54",
       "title": "血で染まった洗面器 8/9の記憶",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "台風15号 列島を横断する可能性"
     },
     {
+      "time": "22:35",
+      "title": "ガザ和平工程 ネタニヤフ氏が拒否",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591133?source=rss",
+      "publishedAt": "2026-08-09T13:35:29.000Z",
+      "xQuery": "ガザ和平工程 ネタニヤフ氏が拒否"
+    },
+    {
+      "time": "23:46",
+      "title": "長野県知事選 現職の阿部氏が5選",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591137?source=rss",
+      "publishedAt": "2026-08-09T14:46:18.000Z",
+      "xQuery": "長野県知事選 現職の阿部氏が5選"
+    },
+    {
       "time": "23:12",
       "title": "イオン 自己判断で店内戻った人も",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591135?source=rss",
       "publishedAt": "2026-08-09T14:12:52.000Z",
       "xQuery": "イオン 自己判断で店内戻った人も"
-    },
-    {
-      "time": "22:17",
-      "title": "孫運転の車にはねられ 女性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591131?source=rss",
-      "publishedAt": "2026-08-09T13:17:11.000Z",
-      "xQuery": "孫運転の車にはねられ 女性死亡"
     }
   ]
 };
