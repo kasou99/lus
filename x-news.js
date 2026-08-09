@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T06:49:32.381Z",
+  "updatedAt": "2026-08-09T07:25:13.955Z",
   "items": [
     {
       "time": "15:24",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "長崎原爆の日 被爆者代表の誓い"
     },
     {
-      "time": "14:16",
-      "title": "イラン 海峡開放巡り米に補償要求",
+      "time": "16:02",
+      "title": "地震で煙突倒壊し息子犠牲 母は涙",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591084?source=rss",
-      "publishedAt": "2026-08-09T05:16:54.000Z",
-      "xQuery": "イラン 海峡開放巡り米に補償要求"
-    },
-    {
-      "time": "15:14",
-      "title": "地震で煙突倒壊し息子犠牲 母思い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591090?source=rss",
-      "publishedAt": "2026-08-09T06:14:30.000Z",
-      "xQuery": "地震で煙突倒壊し息子犠牲 母思い"
+      "url": "https://news.yahoo.co.jp/pickup/6591096?source=rss",
+      "publishedAt": "2026-08-09T07:02:16.000Z",
+      "xQuery": "地震で煙突倒壊し息子犠牲 母は涙"
     },
     {
       "time": "13:31",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591079?source=rss",
       "publishedAt": "2026-08-09T04:31:04.000Z",
       "xQuery": "槍ヶ岳に遺体 付近では19歳が不明"
+    },
+    {
+      "time": "14:23",
+      "title": "ポケモン空港 復興起爆剤となるか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591085?source=rss",
+      "publishedAt": "2026-08-09T05:23:14.000Z",
+      "xQuery": "ポケモン空港 復興起爆剤となるか"
     }
   ]
 };
