@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T01:35:43.038Z",
+  "updatedAt": "2026-08-09T02:47:36.210Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-08-08T14:09:59.000Z"
       },
       {
-        "time": "17:48",
-        "title": "【買収中止勧告】技術流出に危機感 判断分ける中国の影？",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01bU1FczU0UUExSHJ6dVl6TzRTcVFRNkRCbDI5Ylo2Wk9zMmxoSVFtNXp5RFB5Ri1UTFhQMWg2bWpaUDZ3SnV1NzRGNWlrUkxvRkE?oc=5",
-        "publishedAt": "2026-08-08T08:48:42.000Z"
-      },
-      {
         "time": "21:50",
         "title": "（2）その統合に大義はあるか【中部企業研究・東海地銀コンフィデンシャル編】：ニュース",
         "source": "中日BIZナビ",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-08-08T12:50:09.000Z"
       },
       {
-        "time": "14:27",
-        "title": "新潟精機が熊本地震の被災企業に高精度水準器を無償貸与 生産設備の早期復旧を支援",
-        "source": "ケンオー・ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jU1RRN2hWelVSWFJPa0NSeGVHOEx4VkhlVmdEalE5Uy1TSHVUdmJSb2Mwc190MjdjTGtaTUN3VWFWYlpzNXZFRDdmLVY0OWp4?oc=5",
-        "publishedAt": "2026-08-08T05:27:32.000Z"
+        "time": "23:09",
+        "title": "オークマの投資戦略｜フィジカルAIと自動化で利益率回復へ - d-sharing.jp",
+        "source": "d-sharing.jp",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaVFZTWm5ZT0RrOUJUQjFTaXFyRmxzU0plY3dHaEFaOWU0c0Nha05lS2F5M05ObDhPOVhCVVhoOEY2Zy10WXFSXzFZZTQyb2c4bDBDakk3QllzUS1YblRjWXYwakpfWjZB?oc=5",
+        "publishedAt": "2026-08-08T14:09:59.000Z"
+      },
+      {
+        "time": "23:09",
+        "title": "日本精工の投資分析｜MTP2028とNTN経営統合を読む - d-sharing.jp",
+        "source": "d-sharing.jp",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OQmtzYUNjVnpGcS1JXzN6WGh6Qm1uMUdMU1lXcDRBZGJJYTk2UDF6bk1rYXJkZzdaNGg5ZkxzckRwMzYtd1pQV3NvSGxDWXYwYzdoWC1CS3lzdHFxMnJKaUpJeW8zQQ?oc=5",
+        "publishedAt": "2026-08-08T14:09:59.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,18 +82,18 @@
         "publishedAt": "2026-08-08T11:25:38.000Z"
       },
       {
+        "time": "11:08",
+        "title": "バイデン氏はがん転移し激痛 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591069?source=rss",
+        "publishedAt": "2026-08-09T02:08:20.000Z"
+      },
+      {
         "time": "13:12",
         "title": "露唯一の反戦政党 選挙排除の危機",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6590966?source=rss",
         "publishedAt": "2026-08-08T04:12:47.000Z"
-      },
-      {
-        "time": "08:31",
-        "title": "トランプ氏 FRB理事解任なお模索",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6590932?source=rss",
-        "publishedAt": "2026-08-07T23:31:36.000Z"
       },
       {
         "time": "13:13",
@@ -163,13 +163,6 @@
         "publishedAt": "2026-08-08T23:48:20.000Z"
       },
       {
-        "time": "19:51",
-        "title": "避難で留守の家から窃盗疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591015?source=rss",
-        "publishedAt": "2026-08-08T10:51:16.000Z"
-      },
-      {
         "time": "20:56",
         "title": "男性死亡 ひき逃げ疑いで女を逮捕",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591045?source=rss",
         "publishedAt": "2026-08-08T22:51:41.000Z"
+      },
+      {
+        "time": "10:46",
+        "title": "阿波おどりで不適切な動画 憤り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591066?source=rss",
+        "publishedAt": "2026-08-09T01:46:46.000Z"
       },
       {
         "time": "23:28",

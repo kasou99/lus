@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T01:35:43.830Z",
+  "updatedAt": "2026-08-09T02:47:36.842Z",
   "items": [
+    {
+      "time": "10:31",
+      "title": "中継 長崎「原爆の日」の平和式典",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591059?source=rss",
+      "publishedAt": "2026-08-09T01:31:02.000Z",
+      "xQuery": "中継 長崎「原爆の日」の平和式典"
+    },
     {
       "time": "10:25",
       "title": "台風15号 東から西に本州横断か",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "台風15号 東から西に本州横断か"
     },
     {
-      "time": "08:46",
-      "title": "平和祈念像 彫刻家がこめた情熱",
+      "time": "11:08",
+      "title": "バイデン氏はがん転移し激痛 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591055?source=rss",
-      "publishedAt": "2026-08-08T23:46:58.000Z",
-      "xQuery": "平和祈念像 彫刻家がこめた情熱"
+      "url": "https://news.yahoo.co.jp/pickup/6591069?source=rss",
+      "publishedAt": "2026-08-09T02:08:20.000Z",
+      "xQuery": "バイデン氏はがん転移し激痛 報道"
     },
     {
-      "time": "08:28",
-      "title": "米中間選挙 岩盤層「MAGA」健在",
+      "time": "10:46",
+      "title": "阿波おどりで不適切な動画 憤り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591048?source=rss",
-      "publishedAt": "2026-08-08T23:28:01.000Z",
-      "xQuery": "米中間選挙 岩盤層「MAGA」健在"
+      "url": "https://news.yahoo.co.jp/pickup/6591066?source=rss",
+      "publishedAt": "2026-08-09T01:46:46.000Z",
+      "xQuery": "阿波おどりで不適切な動画 憤り"
     },
     {
-      "time": "08:48",
-      "title": "長野で土砂崩落 400人近く孤立か",
+      "time": "09:50",
+      "title": "SNSで紹介した川で事故 責任は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591053?source=rss",
-      "publishedAt": "2026-08-08T23:48:20.000Z",
-      "xQuery": "長野で土砂崩落 400人近く孤立か"
-    },
-    {
-      "time": "07:51",
-      "title": "男性はねられ死亡 ひき逃げで捜査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591045?source=rss",
-      "publishedAt": "2026-08-08T22:51:41.000Z",
-      "xQuery": "男性はねられ死亡 ひき逃げで捜査"
+      "url": "https://news.yahoo.co.jp/pickup/6591058?source=rss",
+      "publishedAt": "2026-08-09T00:50:34.000Z",
+      "xQuery": "SNSで紹介した川で事故 責任は"
     }
   ]
 };
