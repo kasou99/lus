@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T11:11:31.536Z",
+  "updatedAt": "2026-08-09T11:42:42.134Z",
   "items": [
     {
       "time": "19:29",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "沖縄戦犠牲の祖母 戸籍再製できず"
     },
     {
+      "time": "20:03",
+      "title": "長崎市長 平和宣言1文読み飛ばし",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591118?source=rss",
+      "publishedAt": "2026-08-09T11:03:34.000Z",
+      "xQuery": "長崎市長 平和宣言1文読み飛ばし"
+    },
+    {
       "time": "18:50",
       "title": "遊泳中に女性3人溺れる 1人死亡",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "遊泳中に女性3人溺れる 1人死亡"
     },
     {
-      "time": "18:18",
-      "title": "波にさらわれ男性死亡 海岸散歩中",
+      "time": "10:46",
+      "title": "阿波おどりで不適切な動画 憤り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591108?source=rss",
-      "publishedAt": "2026-08-09T09:18:46.000Z",
-      "xQuery": "波にさらわれ男性死亡 海岸散歩中"
-    },
-    {
-      "time": "19:46",
-      "title": "車内で運転手寝入り バス47分遅延",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591116?source=rss",
-      "publishedAt": "2026-08-09T10:46:52.000Z",
-      "xQuery": "車内で運転手寝入り バス47分遅延"
+      "url": "https://news.yahoo.co.jp/pickup/6591066?source=rss",
+      "publishedAt": "2026-08-09T01:46:46.000Z",
+      "xQuery": "阿波おどりで不適切な動画 憤り"
     }
   ]
 };
