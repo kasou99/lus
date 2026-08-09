@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-08-09T21:44:24.290Z",
+  "updatedAt": "2026-08-09T22:10:28.481Z",
   "groups": {
     "machineHeadlines": [
       {
+        "time": "06:07",
+        "title": "白銅、埼玉2拠点を熊谷に統合。NC旋盤加工機も新設（鉄鋼新聞）",
+        "source": "news.yahoo.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GbHpqcmdVT1RaMGU2b0J1c2RVakdBRlY1NHBXczc2cXR4eE5BZTN5bW1vcndOTGtQdzlWVERhSkREY0dxaFdzMUc0YXpZM1R0bVZNT2xqeGpCVEd4Q05BYVI2VmZQVHAtZ2lscEdYSmlGS1NFQzRUTy1WWUhkdzQ?oc=5",
+        "publishedAt": "2026-08-09T21:07:32.000Z"
+      },
+      {
         "time": "05:01",
         "title": "第56回機械工業デザイン賞IDEA（7）日本工作機械工業会賞 ブラザー工業",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LWllRNzZtLUduUFFQOWczMlBob01JWlVJNnJIRDJLQnV0dkZlX1FJOUdSQ0I2Rzc1T1gyd1RQal9QN3IwVUM2RnZGNmtaYm9Qbkd6TEJOTks2Zlk?oc=5",
         "publishedAt": "2026-08-09T20:01:35.000Z"
       },
@@ -24,6 +31,20 @@
         "publishedAt": "2026-08-09T21:15:34.000Z"
       },
       {
+        "time": "09:04",
+        "title": "臨時休館…寄居・川の博物館、8日から 上水設備が故障 ポンプ制御盤の基盤に不具合か 職員が故障に気付く 再開は見通しが立ち次第、HPやSNSで案内",
+        "source": "埼玉新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSdUJCbFRwUlJDeHE4OUc4WTMzaldPdlN4aU5JNTBuNHJtU2c1a0hxQ1ZFX2RtbXYxMWhidkE3ZE8tZHRuclRVbG81S1NJODBfX0Q3Zzlmd0pVMUJiVXBfeF95aGE?oc=5",
+        "publishedAt": "2026-08-09T00:04:00.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "ソディック、通期見通し上方修正 営業益2.2倍",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RDU4N0h5cHRBZy1PNFNBLWVNOWxYcDU1UlFvT05oZ0VoVGVyQS1OeUYxNnhxUDFudmVqYTFHa3VKUWY1bzVyMGRKMkZDUjBiOWd6aXBZUlBaZFE?oc=5",
+        "publishedAt": "2026-08-09T21:00:00.000Z"
+      },
+      {
         "time": "15:05",
         "title": "地下鉄はどのように中央監視・運営されるのでしょうか？",
         "source": "Vietnam.vn",
@@ -31,32 +52,11 @@
         "publishedAt": "2026-08-09T06:05:49.000Z"
       },
       {
-        "time": "04:12",
-        "title": "135団体・6600人「ドンワッセ」 いわきおどり、駅前大通りで踊り流し",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HOWNiRWFyRXJGaEtnaVRUN0RMRGRPSmZ6bGV1SzdlOEEtTEJDWUw2cVpwM2paLVF2MmJCN0hEUWt4R05mT2JfY042dVZrdXo2aGlmZnRoVnVLclVYTmhuRkhnSERFSVpacmhDcHhKNG5nMG93M0Z0bw?oc=5",
-        "publishedAt": "2026-08-09T19:12:52.000Z"
-      },
-      {
-        "time": "10:21",
-        "title": "福島空港で「取れたてモモ」販売 降ひょう被害の県北地区の農家応援",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91bHNCVEZnTHk4Uy1Jb3RSVlBpOVFHaEVlV3o3a0xUdmlFQVN6MlFpdG9OQk1TdmtqSXlTLWt0NFpZbFFZMW9qMGFZUmo1SG5SWlJxVmV1cUdRMG8yVVh6eHVmYXM0dzYwR0xnd2Rn?oc=5",
-        "publishedAt": "2026-08-09T01:21:07.000Z"
-      },
-      {
-        "time": "10:41",
-        "title": "アップアップガールズ（2）が新曲 4期生と5期生加え9人体制に",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5US1ZQXy1rcGtFNjZ1MkJkTmYwblN1b0FfOUwwUGh0VVR6RTlQSzBfdldYdWdWRFRGekxxOEd6Uy11TG16c1JxMXJYV3ZhcENsamwzQk42S21ZY3ZucjN2SmdQSS1mMFlvbUJuRzFB?oc=5",
-        "publishedAt": "2026-08-09T01:41:18.000Z"
-      },
-      {
-        "time": "23:12",
-        "title": "イオン 自己判断で店内戻った人も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591135?source=rss",
-        "publishedAt": "2026-08-09T14:12:52.000Z"
+        "time": "18:39",
+        "title": "【遮断器・警報灯設置進む】安城市県道76号バイパス工事レポート 2026年6月末 Silvia Bonolis (xz0cai1WRY)",
+        "source": "Mshale",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uejZQX1JZaWtQTkNsbm5FZERUcEd3WmxJUlQwUzYwQ29CZzlxY0gxNFNWaV9NMTJvODJjcGZnNHg4eVhabExRaVA4dktfNmsyQkpidXZVVmNSUXc?oc=5",
+        "publishedAt": "2026-08-09T09:39:59.000Z"
       }
     ],
     "worldHeadlines": [
