@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T09:47:28.812Z",
+  "updatedAt": "2026-08-09T10:14:09.789Z",
   "items": [
     {
       "time": "17:23",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "原爆の記憶忘れる前に 語る97歳"
     },
     {
-      "time": "17:35",
-      "title": "橋流され390人が孤立 下山始まる",
+      "time": "17:49",
+      "title": "沖縄戦犠牲の祖母 戸籍再製できず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591105?source=rss",
-      "publishedAt": "2026-08-09T08:35:31.000Z",
-      "xQuery": "橋流され390人が孤立 下山始まる"
+      "url": "https://news.yahoo.co.jp/pickup/6591106?source=rss",
+      "publishedAt": "2026-08-09T08:49:19.000Z",
+      "xQuery": "沖縄戦犠牲の祖母 戸籍再製できず"
     },
     {
       "time": "17:40",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台湾 長崎式典の席巡り異例の抗議"
     },
     {
+      "time": "18:50",
+      "title": "遊泳中に女性3人溺れる 1人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591112?source=rss",
+      "publishedAt": "2026-08-09T09:50:54.000Z",
+      "xQuery": "遊泳中に女性3人溺れる 1人死亡"
+    },
+    {
       "time": "18:18",
       "title": "波にさらわれ男性死亡 海岸散歩中",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591108?source=rss",
       "publishedAt": "2026-08-09T09:18:46.000Z",
       "xQuery": "波にさらわれ男性死亡 海岸散歩中"
-    },
-    {
-      "time": "16:59",
-      "title": "がれきの下にチワワ 15h後に救出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591100?source=rss",
-      "publishedAt": "2026-08-09T07:59:25.000Z",
-      "xQuery": "がれきの下にチワワ 15h後に救出"
     }
   ]
 };
