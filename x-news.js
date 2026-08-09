@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-08T23:42:16.217Z",
+  "updatedAt": "2026-08-09T00:28:51.172Z",
   "items": [
     {
-      "time": "08:08",
-      "title": "熊本県で最大震度4 津波心配なし",
+      "time": "08:46",
+      "title": "平和祈念像 彫刻家がこめた情熱",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591050?source=rss",
-      "publishedAt": "2026-08-08T23:08:40.000Z",
-      "xQuery": "熊本県で最大震度4 津波心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6591055?source=rss",
+      "publishedAt": "2026-08-08T23:46:58.000Z",
+      "xQuery": "平和祈念像 彫刻家がこめた情熱"
     },
     {
-      "time": "07:47",
-      "title": "大飯原発3号機自動停止 警報発信",
+      "time": "08:28",
+      "title": "米中間選挙 岩盤層「MAGA」健在",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591044?source=rss",
-      "publishedAt": "2026-08-08T22:47:35.000Z",
-      "xQuery": "大飯原発3号機自動停止 警報発信"
+      "url": "https://news.yahoo.co.jp/pickup/6591048?source=rss",
+      "publishedAt": "2026-08-08T23:28:01.000Z",
+      "xQuery": "米中間選挙 岩盤層「MAGA」健在"
     },
     {
-      "time": "23:28",
-      "title": "息子助けようと川に 父親溺れ死亡",
+      "time": "08:48",
+      "title": "長野で土砂崩落 400人近く孤立か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591035?source=rss",
-      "publishedAt": "2026-08-08T14:28:15.000Z",
-      "xQuery": "息子助けようと川に 父親溺れ死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6591053?source=rss",
+      "publishedAt": "2026-08-08T23:48:20.000Z",
+      "xQuery": "長野で土砂崩落 400人近く孤立か"
     },
     {
       "time": "07:51",
