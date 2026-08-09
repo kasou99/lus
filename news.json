@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T08:47:55.824Z",
+  "updatedAt": "2026-08-09T09:18:15.763Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "17:49",
+        "title": "沖縄戦犠牲の祖母 戸籍再製できず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591106?source=rss",
+        "publishedAt": "2026-08-09T08:49:19.000Z"
+      },
+      {
         "time": "17:23",
         "title": "原爆の記憶忘れる前に 語る97歳",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591100?source=rss",
         "publishedAt": "2026-08-09T07:59:25.000Z"
-      },
-      {
-        "time": "12:39",
-        "title": "80歳母を踏み死亡させた疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591076?source=rss",
-        "publishedAt": "2026-08-09T03:39:42.000Z"
       },
       {
         "time": "17:35",

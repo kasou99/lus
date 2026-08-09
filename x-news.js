@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T08:47:56.525Z",
+  "updatedAt": "2026-08-09T09:18:16.640Z",
   "items": [
-    {
-      "time": "15:24",
-      "title": "台風15号 11日午後に東北上陸恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591092?source=rss",
-      "publishedAt": "2026-08-09T06:24:07.000Z",
-      "xQuery": "台風15号 11日午後に東北上陸恐れ"
-    },
     {
       "time": "17:23",
       "title": "原爆の記憶忘れる前に 語る97歳",
@@ -18,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "原爆の記憶忘れる前に 語る97歳"
     },
     {
-      "time": "17:40",
-      "title": "台湾 長崎式典の席巡り異例の抗議",
+      "time": "15:24",
+      "title": "台風15号 11日午後に東北上陸恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591107?source=rss",
-      "publishedAt": "2026-08-09T08:40:58.000Z",
-      "xQuery": "台湾 長崎式典の席巡り異例の抗議"
+      "url": "https://news.yahoo.co.jp/pickup/6591092?source=rss",
+      "publishedAt": "2026-08-09T06:24:07.000Z",
+      "xQuery": "台風15号 11日午後に東北上陸恐れ"
     },
     {
       "time": "17:35",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591105?source=rss",
       "publishedAt": "2026-08-09T08:35:31.000Z",
       "xQuery": "橋流され390人が孤立 下山始まる"
+    },
+    {
+      "time": "17:40",
+      "title": "台湾 長崎式典の席巡り異例の抗議",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591107?source=rss",
+      "publishedAt": "2026-08-09T08:40:58.000Z",
+      "xQuery": "台湾 長崎式典の席巡り異例の抗議"
     },
     {
       "time": "16:59",
