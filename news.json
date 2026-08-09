@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-09T16:11:26.358Z",
+  "updatedAt": "2026-08-09T16:46:49.433Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "12:30",
         "title": "サーボモーターコアの世界市場（2026年～2032年）、市場規模（",
-        "source": "atpress.ne.jp",
+        "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRWFBMZ09ydzVYRTMwMXg3cDRxbVBOSEYxMTlLRVc1d2dJZFhFd1l1czlFSzB3WGtPR1JTN1JvX1NPVGhyUi1DNklPa0FCamM?oc=5",
         "publishedAt": "2026-08-09T03:30:00.000Z"
       },
@@ -15,13 +15,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9md0VoSUI1ZlpKdndRXzYtUU9rM3ZLMWRBV2w5ZkVXUDN2MDVFYkVQbEdfQnp0LUp2ZEp5OUlkdlc0UndkdmRId0hEVFh6ZkJKMjFwYTFJb091N2tMR0FsWkVMdXBVS2FWaS1kdzc0Rlo3TFJxN0lqT2IzNG4xYnc?oc=5",
         "publishedAt": "2026-08-09T00:12:07.000Z"
-      },
-      {
-        "time": "11:46",
-        "title": "小型低背スイッチング電源にUSB PD対応モデル新ラインアップを追加 企業リリース",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iemJrNlRyWHJmQ05jR3ZHc2t2SkZ2ZFNUbVhjUzhRMTdKUldfR1UwMGktdjJscFhQMHJYX01SQkYyVkVhSFVxOFctTXNyVUJDcl9JT1R6UWQ?oc=5",
-        "publishedAt": "2026-08-09T02:46:01.000Z"
       },
       {
         "time": "15:05",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591134?source=rss",
         "publishedAt": "2026-08-09T13:32:42.000Z"
+      },
+      {
+        "time": "14:00",
+        "title": "夜発朝着の東海道新幹線 同乗取材",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591080?source=rss",
+        "publishedAt": "2026-08-09T05:00:47.000Z"
       }
     ],
     "worldHeadlines": [
