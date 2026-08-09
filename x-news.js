@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T10:46:03.541Z",
+  "updatedAt": "2026-08-09T11:11:31.536Z",
   "items": [
     {
-      "time": "17:23",
-      "title": "原爆の記憶忘れる前に 語る97歳",
+      "time": "19:29",
+      "title": "米軍 熊本に飲料水約16トン支援",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591104?source=rss",
-      "publishedAt": "2026-08-09T08:23:19.000Z",
-      "xQuery": "原爆の記憶忘れる前に 語る97歳"
+      "url": "https://news.yahoo.co.jp/pickup/6591114?source=rss",
+      "publishedAt": "2026-08-09T10:29:37.000Z",
+      "xQuery": "米軍 熊本に飲料水約16トン支援"
     },
     {
       "time": "17:49",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591106?source=rss",
       "publishedAt": "2026-08-09T08:49:19.000Z",
       "xQuery": "沖縄戦犠牲の祖母 戸籍再製できず"
-    },
-    {
-      "time": "17:40",
-      "title": "台湾 長崎式典の席巡り異例の抗議",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591107?source=rss",
-      "publishedAt": "2026-08-09T08:40:58.000Z",
-      "xQuery": "台湾 長崎式典の席巡り異例の抗議"
     },
     {
       "time": "18:50",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591108?source=rss",
       "publishedAt": "2026-08-09T09:18:46.000Z",
       "xQuery": "波にさらわれ男性死亡 海岸散歩中"
+    },
+    {
+      "time": "19:46",
+      "title": "車内で運転手寝入り バス47分遅延",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591116?source=rss",
+      "publishedAt": "2026-08-09T10:46:52.000Z",
+      "xQuery": "車内で運転手寝入り バス47分遅延"
     }
   ]
 };
