@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T03:36:54.227Z",
+  "updatedAt": "2026-08-09T04:31:30.726Z",
   "items": [
     {
       "time": "12:24",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "非核三原則 堅持求める地方議会増"
     },
     {
-      "time": "11:08",
-      "title": "バイデン氏はがん転移し激痛 報道",
+      "time": "12:39",
+      "title": "80歳母を踏み死亡させた疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591069?source=rss",
-      "publishedAt": "2026-08-09T02:08:20.000Z",
-      "xQuery": "バイデン氏はがん転移し激痛 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6591076?source=rss",
+      "publishedAt": "2026-08-09T03:39:42.000Z",
+      "xQuery": "80歳母を踏み死亡させた疑い 逮捕"
+    },
+    {
+      "time": "13:14",
+      "title": "大人に失望感 トー横に集まる若者",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591078?source=rss",
+      "publishedAt": "2026-08-09T04:14:48.000Z",
+      "xQuery": "大人に失望感 トー横に集まる若者"
     },
     {
       "time": "10:46",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591066?source=rss",
       "publishedAt": "2026-08-09T01:46:46.000Z",
       "xQuery": "阿波おどりで不適切な動画 憤り"
-    },
-    {
-      "time": "12:06",
-      "title": "市関与否定の琵琶湖花火大会 中止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591074?source=rss",
-      "publishedAt": "2026-08-09T03:06:00.000Z",
-      "xQuery": "市関与否定の琵琶湖花火大会 中止"
     }
   ]
 };
