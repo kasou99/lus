@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T04:31:30.726Z",
+  "updatedAt": "2026-08-09T05:24:51.506Z",
   "items": [
     {
       "time": "12:24",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相あいさつ 非核三原則「堅持」"
     },
     {
-      "time": "10:09",
-      "title": "非核三原則 堅持求める地方議会増",
+      "time": "11:18",
+      "title": "所得連動給付 政府が法整備検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591061?source=rss",
-      "publishedAt": "2026-08-09T01:09:59.000Z",
-      "xQuery": "非核三原則 堅持求める地方議会増"
+      "url": "https://news.yahoo.co.jp/pickup/6591067?source=rss",
+      "publishedAt": "2026-08-09T02:18:16.000Z",
+      "xQuery": "所得連動給付 政府が法整備検討"
     },
     {
       "time": "12:39",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "80歳母を踏み死亡させた疑い 逮捕"
     },
     {
-      "time": "13:14",
-      "title": "大人に失望感 トー横に集まる若者",
+      "time": "13:31",
+      "title": "槍ヶ岳に遺体 付近では19歳が不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591078?source=rss",
-      "publishedAt": "2026-08-09T04:14:48.000Z",
-      "xQuery": "大人に失望感 トー横に集まる若者"
+      "url": "https://news.yahoo.co.jp/pickup/6591079?source=rss",
+      "publishedAt": "2026-08-09T04:31:04.000Z",
+      "xQuery": "槍ヶ岳に遺体 付近では19歳が不明"
     },
     {
       "time": "10:46",
