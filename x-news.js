@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T21:11:44.497Z",
+  "updatedAt": "2026-08-09T21:44:25.219Z",
   "items": [
     {
-      "time": "21:53",
-      "title": "台風15号 列島を横断する可能性",
+      "time": "06:41",
+      "title": "台風 11日に東北～関東に上陸恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591129?source=rss",
-      "publishedAt": "2026-08-09T12:53:29.000Z",
-      "xQuery": "台風15号 列島を横断する可能性"
+      "url": "https://news.yahoo.co.jp/pickup/6591141?source=rss",
+      "publishedAt": "2026-08-09T21:41:02.000Z",
+      "xQuery": "台風 11日に東北～関東に上陸恐れ"
+    },
+    {
+      "time": "06:29",
+      "title": "自衛隊の指揮統制に国産AI 検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591140?source=rss",
+      "publishedAt": "2026-08-09T21:29:55.000Z",
+      "xQuery": "自衛隊の指揮統制に国産AI 検討"
     },
     {
       "time": "22:35",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591131?source=rss",
       "publishedAt": "2026-08-09T13:17:11.000Z",
       "xQuery": "孫運転の車にはねられ 女性死亡"
-    },
-    {
-      "time": "22:32",
-      "title": "JR東海「夜行」新幹線 客4割女性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591134?source=rss",
-      "publishedAt": "2026-08-09T13:32:42.000Z",
-      "xQuery": "JR東海「夜行」新幹線 客4割女性"
     }
   ]
 };
