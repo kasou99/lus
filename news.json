@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T20:10:35.662Z",
+  "updatedAt": "2026-08-09T20:45:55.576Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-08-09T06:05:49.000Z"
       },
       {
+        "time": "10:41",
+        "title": "アップアップガールズ（2）が新曲 4期生と5期生加え9人体制に",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5US1ZQXy1rcGtFNjZ1MkJkTmYwblN1b0FfOUwwUGh0VVR6RTlQSzBfdldYdWdWRFRGekxxOEd6Uy11TG16c1JxMXJYV3ZhcENsamwzQk42S21ZY3ZucjN2SmdQSS1mMFlvbUJuRzFB?oc=5",
+        "publishedAt": "2026-08-09T01:41:18.000Z"
+      },
+      {
         "time": "23:12",
         "title": "イオン 自己判断で店内戻った人も",
         "source": "Yahoo!ニュース",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591098?source=rss",
         "publishedAt": "2026-08-09T07:31:50.000Z"
-      },
-      {
-        "time": "22:32",
-        "title": "JR東海「夜行」新幹線 客4割女性",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591134?source=rss",
-        "publishedAt": "2026-08-09T13:32:42.000Z"
       }
     ],
     "worldHeadlines": [
