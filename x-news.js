@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T23:10:54.651Z",
+  "updatedAt": "2026-08-09T23:43:34.316Z",
   "items": [
     {
       "time": "06:41",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 11日に東北～関東に上陸恐れ"
     },
     {
-      "time": "06:29",
-      "title": "自衛隊の指揮統制に国産AI 検討",
+      "time": "07:38",
+      "title": "不同意性交の認知件数 増加傾向",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591140?source=rss",
-      "publishedAt": "2026-08-09T21:29:55.000Z",
-      "xQuery": "自衛隊の指揮統制に国産AI 検討"
+      "url": "https://news.yahoo.co.jp/pickup/6591146?source=rss",
+      "publishedAt": "2026-08-09T22:38:11.000Z",
+      "xQuery": "不同意性交の認知件数 増加傾向"
     },
     {
       "time": "07:49",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "身寄りのない死 膨らむ公費負担"
     },
     {
-      "time": "07:38",
-      "title": "不同意性交の認知件数 増加傾向",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591146?source=rss",
-      "publishedAt": "2026-08-09T22:38:11.000Z",
-      "xQuery": "不同意性交の認知件数 増加傾向"
-    },
-    {
       "time": "07:17",
       "title": "AI「暴走」自律的攻撃に米危機感",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591142?source=rss",
       "publishedAt": "2026-08-09T22:17:32.000Z",
       "xQuery": "AI「暴走」自律的攻撃に米危機感"
+    },
+    {
+      "time": "08:02",
+      "title": "家電激戦池袋 ヨドバシが狙う商圏",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591148?source=rss",
+      "publishedAt": "2026-08-09T23:02:17.000Z",
+      "xQuery": "家電激戦池袋 ヨドバシが狙う商圏"
     }
   ]
 };
