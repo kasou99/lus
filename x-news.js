@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T12:48:46.967Z",
+  "updatedAt": "2026-08-09T13:23:51.987Z",
   "items": [
     {
       "time": "20:54",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "血で染まった洗面器 8/9の記憶"
     },
     {
-      "time": "19:29",
-      "title": "米軍 熊本に飲料水約16トン支援",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591114?source=rss",
-      "publishedAt": "2026-08-09T10:29:37.000Z",
-      "xQuery": "米軍 熊本に飲料水約16トン支援"
-    },
-    {
       "time": "20:03",
       "title": "長崎市長 平和宣言1文読み飛ばし",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "長崎市長 平和宣言1文読み飛ばし"
     },
     {
-      "time": "20:48",
-      "title": "槍ヶ岳に遺体 不明の19歳と判明",
+      "time": "21:42",
+      "title": "イラン最高指導者 大統領と面会",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591123?source=rss",
-      "publishedAt": "2026-08-09T11:48:45.000Z",
-      "xQuery": "槍ヶ岳に遺体 不明の19歳と判明"
+      "url": "https://news.yahoo.co.jp/pickup/6591127?source=rss",
+      "publishedAt": "2026-08-09T12:42:37.000Z",
+      "xQuery": "イラン最高指導者 大統領と面会"
     },
     {
-      "time": "10:46",
-      "title": "阿波おどりで不適切な動画 憤り",
+      "time": "21:53",
+      "title": "台風15号 列島を横断する可能性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591066?source=rss",
-      "publishedAt": "2026-08-09T01:46:46.000Z",
-      "xQuery": "阿波おどりで不適切な動画 憤り"
+      "url": "https://news.yahoo.co.jp/pickup/6591129?source=rss",
+      "publishedAt": "2026-08-09T12:53:29.000Z",
+      "xQuery": "台風15号 列島を横断する可能性"
+    },
+    {
+      "time": "22:17",
+      "title": "孫運転の車にはねられ 女性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591131?source=rss",
+      "publishedAt": "2026-08-09T13:17:11.000Z",
+      "xQuery": "孫運転の車にはねられ 女性死亡"
     }
   ]
 };

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-09T12:48:46.373Z",
+  "updatedAt": "2026-08-09T13:23:51.372Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "12:30",
         "title": "サーボモーターコアの世界市場（2026年～2032年）、市場規模（",
-        "source": "atpress.ne.jp",
+        "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRWFBMZ09ydzVYRTMwMXg3cDRxbVBOSEYxMTlLRVc1d2dJZFhFd1l1czlFSzB3WGtPR1JTN1JvX1NPVGhyUi1DNklPa0FCamM?oc=5",
         "publishedAt": "2026-08-09T03:30:00.000Z"
       },
@@ -18,15 +18,15 @@
       },
       {
         "time": "09:04",
-        "title": "臨時休館…寄居・川の博物館、8日から 上水設備が故障 ポンプ制御盤の基盤に不具合か 職員が故障に気付く 再開は見通しが立ち次第、HPやSNSで案内",
-        "source": "埼玉新聞",
+        "title": "臨時休館…寄居・川の博物館、8日から 上水設備が故障 ポンプ制御盤の基盤に不具合か 職員が故障に気付く 再開は見通しが立ち次第、HPやSNSで案内 - saitama-np.co.jp",
+        "source": "saitama-np.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSdUJCbFRwUlJDeHE4OUc4WTMzaldPdlN4aU5JNTBuNHJtU2c1a0hxQ1ZFX2RtbXYxMWhidkE3ZE8tZHRuclRVbG81S1NJODBfX0Q3Zzlmd0pVMUJiVXBfeF95aGE?oc=5",
         "publishedAt": "2026-08-09T00:04:00.000Z"
       },
       {
         "time": "11:46",
         "title": "小型低背スイッチング電源にUSB PD対応モデル新ラインアップを追加 企業リリース",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iemJrNlRyWHJmQ05jR3ZHc2t2SkZ2ZFNUbVhjUzhRMTdKUldfR1UwMGktdjJscFhQMHJYX01SQkYyVkVhSFVxOFctTXNyVUJDcl9JT1R6UWQ?oc=5",
         "publishedAt": "2026-08-09T02:46:01.000Z"
       },
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "21:51",
+        "title": "熊本地震 家屋被害2万棟超える",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591128?source=rss",
+        "publishedAt": "2026-08-09T12:51:54.000Z"
+      },
+      {
         "time": "20:54",
         "title": "血で染まった洗面器 8/9の記憶",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591122?source=rss",
         "publishedAt": "2026-08-09T11:54:27.000Z"
-      },
-      {
-        "time": "17:23",
-        "title": "原爆の記憶忘れる前に 語る97歳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591104?source=rss",
-        "publishedAt": "2026-08-09T08:23:19.000Z"
       },
       {
         "time": "20:03",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-09T09:50:54.000Z"
       },
       {
-        "time": "18:18",
-        "title": "波にさらわれ男性死亡 海岸散歩中",
+        "time": "20:48",
+        "title": "槍ヶ岳に遺体 不明の19歳と判明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591108?source=rss",
-        "publishedAt": "2026-08-09T09:18:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591123?source=rss",
+        "publishedAt": "2026-08-09T11:48:45.000Z"
       }
     ],
     "subsidyHeadlines": [
