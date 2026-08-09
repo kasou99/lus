@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T15:43:26.638Z",
+  "updatedAt": "2026-08-09T16:11:26.358Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-08-09T06:05:49.000Z"
       },
       {
-        "time": "10:21",
-        "title": "福島空港で「取れたてモモ」販売 降ひょう被害の県北地区の農家応援",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91bHNCVEZnTHk4Uy1Jb3RSVlBpOVFHaEVlV3o3a0xUdmlFQVN6MlFpdG9OQk1TdmtqSXlTLWt0NFpZbFFZMW9qMGFZUmo1SG5SWlJxVmV1cUdRMG8yVVh6eHVmYXM0dzYwR0xnd2Rn?oc=5",
-        "publishedAt": "2026-08-09T01:21:07.000Z"
-      },
-      {
         "time": "23:12",
         "title": "イオン 自己判断で店内戻った人も",
         "source": "Yahoo!ニュース",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591098?source=rss",
         "publishedAt": "2026-08-09T07:31:50.000Z"
+      },
+      {
+        "time": "22:32",
+        "title": "JR東海「夜行」新幹線 客4割女性",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591134?source=rss",
+        "publishedAt": "2026-08-09T13:32:42.000Z"
       }
     ],
     "worldHeadlines": [
