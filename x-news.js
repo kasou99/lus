@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T12:13:46.945Z",
+  "updatedAt": "2026-08-09T12:48:46.967Z",
   "items": [
+    {
+      "time": "20:54",
+      "title": "血で染まった洗面器 8/9の記憶",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591122?source=rss",
+      "publishedAt": "2026-08-09T11:54:27.000Z",
+      "xQuery": "血で染まった洗面器 8/9の記憶"
+    },
     {
       "time": "19:29",
       "title": "米軍 熊本に飲料水約16トン支援",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591114?source=rss",
       "publishedAt": "2026-08-09T10:29:37.000Z",
       "xQuery": "米軍 熊本に飲料水約16トン支援"
-    },
-    {
-      "time": "17:49",
-      "title": "沖縄戦犠牲の祖母 戸籍再製できず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591106?source=rss",
-      "publishedAt": "2026-08-09T08:49:19.000Z",
-      "xQuery": "沖縄戦犠牲の祖母 戸籍再製できず"
     },
     {
       "time": "20:03",
