@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T14:15:49.839Z",
+  "updatedAt": "2026-08-09T14:45:41.334Z",
   "items": [
     {
       "time": "21:51",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風15号 列島を横断する可能性"
     },
     {
+      "time": "23:12",
+      "title": "イオン 自己判断で店内戻った人も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591135?source=rss",
+      "publishedAt": "2026-08-09T14:12:52.000Z",
+      "xQuery": "イオン 自己判断で店内戻った人も"
+    },
+    {
       "time": "22:17",
       "title": "孫運転の車にはねられ 女性死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591131?source=rss",
       "publishedAt": "2026-08-09T13:17:11.000Z",
       "xQuery": "孫運転の車にはねられ 女性死亡"
-    },
-    {
-      "time": "22:32",
-      "title": "JR東海「夜行」新幹線 客4割女性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591134?source=rss",
-      "publishedAt": "2026-08-09T13:32:42.000Z",
-      "xQuery": "JR東海「夜行」新幹線 客4割女性"
     }
   ]
 };
