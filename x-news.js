@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T22:44:55.728Z",
+  "updatedAt": "2026-08-09T23:10:54.651Z",
   "items": [
     {
       "time": "06:41",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "自衛隊の指揮統制に国産AI 検討"
     },
     {
+      "time": "07:49",
+      "title": "身寄りのない死 膨らむ公費負担",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591147?source=rss",
+      "publishedAt": "2026-08-09T22:49:07.000Z",
+      "xQuery": "身寄りのない死 膨らむ公費負担"
+    },
+    {
+      "time": "07:38",
+      "title": "不同意性交の認知件数 増加傾向",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591146?source=rss",
+      "publishedAt": "2026-08-09T22:38:11.000Z",
+      "xQuery": "不同意性交の認知件数 増加傾向"
+    },
+    {
       "time": "07:17",
       "title": "AI「暴走」自律的攻撃に米危機感",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591142?source=rss",
       "publishedAt": "2026-08-09T22:17:32.000Z",
       "xQuery": "AI「暴走」自律的攻撃に米危機感"
-    },
-    {
-      "time": "23:12",
-      "title": "イオン 自己判断で店内戻った人も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591135?source=rss",
-      "publishedAt": "2026-08-09T14:12:52.000Z",
-      "xQuery": "イオン 自己判断で店内戻った人も"
-    },
-    {
-      "time": "22:17",
-      "title": "孫運転の車にはねられ 女性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591131?source=rss",
-      "publishedAt": "2026-08-09T13:17:11.000Z",
-      "xQuery": "孫運転の車にはねられ 女性死亡"
     }
   ]
 };

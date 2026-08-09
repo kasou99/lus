@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T22:44:54.858Z",
+  "updatedAt": "2026-08-09T23:10:54.139Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,16 +10,9 @@
         "publishedAt": "2026-08-09T21:07:32.000Z"
       },
       {
-        "time": "05:01",
-        "title": "第56回機械工業デザイン賞IDEA（7）日本工作機械工業会賞 ブラザー工業",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LWllRNzZtLUduUFFQOWczMlBob01JWlVJNnJIRDJLQnV0dkZlX1FJOUdSQ0I2Rzc1T1gyd1RQal9QN3IwVUM2RnZGNmtaYm9Qbkd6TEJOTks2Zlk?oc=5",
-        "publishedAt": "2026-08-09T20:01:35.000Z"
-      },
-      {
         "time": "12:30",
         "title": "サーボモーターコアの世界市場（2026年～2032年）、市場規模（",
-        "source": "アットプレス",
+        "source": "atpress.ne.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRWFBMZ09ydzVYRTMwMXg3cDRxbVBOSEYxMTlLRVc1d2dJZFhFd1l1czlFSzB3WGtPR1JTN1JvX1NPVGhyUi1DNklPa0FCamM?oc=5",
         "publishedAt": "2026-08-09T03:30:00.000Z"
       },
@@ -40,23 +33,30 @@
       {
         "time": "07:30",
         "title": "ソディック光コネクター向け“3種の神器”受注殺到、業績見通しも上方修正：製造マネジメントニュース",
-        "source": "monoist.itmedia.co.jp",
+        "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5TzlRLUE5dTlOX1QyV2tfcTVBMjIyejd6OTU5anNMVGR6MVMydUx5S0RPbGF2X0l0clJyV2JLalZVSktVWnB3U2trRU9NNkU1VW81SWJlZ2FOTHpyQTBXOVJyWFJ6MEw3WUlVS0lPYw?oc=5",
         "publishedAt": "2026-08-09T22:30:00.000Z"
       },
       {
+        "time": "06:00",
+        "title": "ソディック、通期見通し上方修正 営業益2.2倍",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RDU4N0h5cHRBZy1PNFNBLWVNOWxYcDU1UlFvT05oZ0VoVGVyQS1OeUYxNnhxUDFudmVqYTFHa3VKUWY1bzVyMGRKMkZDUjBiOWd6aXBZUlBaZFE?oc=5",
+        "publishedAt": "2026-08-09T21:00:00.000Z"
+      },
+      {
         "time": "15:05",
         "title": "地下鉄はどのように中央監視・運営されるのでしょうか？",
-        "source": "vietnam.vn",
+        "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUzZackV1TTgtRmp6RUdNT2p6Z1B2ckQ5MDZlQUM4WmFqcDhsUTlwclpEQ0VJY3pvc1FIY1dWMlI2UndYRXA5ZVk0bi1nYTl3OHVRQjVGaEw4NGNQa3JSaHpHbnRwOVlkVTBqNkxUR0Z0LXNvOXRoaXN5RmhXbFJ1Zw?oc=5",
         "publishedAt": "2026-08-09T06:05:49.000Z"
       },
       {
-        "time": "18:39",
-        "title": "【遮断器・警報灯設置進む】安城市県道76号バイパス工事レポート 2026年6月末 Silvia Bonolis (xz0cai1WRY)",
-        "source": "Mshale",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uejZQX1JZaWtQTkNsbm5FZERUcEd3WmxJUlQwUzYwQ29CZzlxY0gxNFNWaV9NMTJvODJjcGZnNHg4eVhabExRaVA4dktfNmsyQkpidXZVVmNSUXc?oc=5",
-        "publishedAt": "2026-08-09T09:39:59.000Z"
+        "time": "05:37",
+        "title": "経営ひと言／富士フイルム・野口仁シニアフェロー「ムーア超す速さ」",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OYUVBWndrOG9TNFJaemlvTnpDYklzTHNVTE9fbnJ1UHVFUUtFa0ZsT19nNTg3alZRZkl0NzF4dkFOdWlOOTB5amVnN09ncHdzMDMzb1N2MjVtM0k?oc=5",
+        "publishedAt": "2026-08-09T20:37:30.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-08-09T14:12:52.000Z"
       },
       {
-        "time": "07:54",
-        "title": "ソニーがタムロンに買収提案 なぜ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591046?source=rss",
-        "publishedAt": "2026-08-08T22:54:18.000Z"
-      },
-      {
         "time": "16:31",
         "title": "米Z世代 高リスク投資に走る背景",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591116?source=rss",
         "publishedAt": "2026-08-09T10:46:52.000Z"
+      },
+      {
+        "time": "08:02",
+        "title": "家電激戦池袋 ヨドバシが狙う商圏",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591148?source=rss",
+        "publishedAt": "2026-08-09T23:02:17.000Z"
       }
     ],
     "localHeadlines": [
