@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T13:33:29.848Z",
+  "updatedAt": "2026-08-10T14:30:21.339Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "23:24",
+        "title": "南米コロンビアでM7.4の地震",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591262?source=rss",
+        "publishedAt": "2026-08-10T14:24:11.000Z"
+      },
+      {
         "time": "09:58",
         "title": "NY自由の女神観光で転覆 2人死亡",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591084?source=rss",
         "publishedAt": "2026-08-09T05:16:54.000Z"
-      },
-      {
-        "time": "22:35",
-        "title": "ガザ和平工程 ネタニヤフ氏が拒否",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591133?source=rss",
-        "publishedAt": "2026-08-09T13:35:29.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "22:58",
+        "title": "八代地域 大潮での浸水や冠水注意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591261?source=rss",
+        "publishedAt": "2026-08-10T13:58:09.000Z"
+      },
+      {
         "time": "20:44",
         "title": "中1と小3死亡 遊具があおられ落水",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591233?source=rss",
         "publishedAt": "2026-08-10T10:08:02.000Z"
-      },
-      {
-        "time": "17:58",
-        "title": "長野の土石流 登山者は全員下山",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591220?source=rss",
-        "publishedAt": "2026-08-10T08:58:40.000Z"
       },
       {
         "time": "20:30",
@@ -218,17 +218,17 @@
       },
       {
         "time": "16:00",
+        "title": "物価高騰や米国関税措置・中東情勢の変化等により影響を受ける県内事業者の皆様への主な支援策",
+        "source": "pref.hiroshima.lg.jp",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ed24zSjhRX0NxVnYxeFMxallrVW5sQXh5SV8yY1VUXzI0ajIwQVpVb2hTalZlU3AybmJrSVZ3U2F2MWU3bkVzb2RvNTlyaEZOQ2tDN1dUQjJKR1NVQ2tHYU1rSjhKZWoybllUVnpn?oc=5",
+        "publishedAt": "2026-07-31T07:00:00.000Z"
+      },
+      {
+        "time": "16:00",
         "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
         "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
-        "time": "16:00",
-        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90V3dlOVVrSGp0bjNKUVFUck1BaHE1aE1wMkRCYUFWMG14b0htdHlOVWZQWnYtTE95RE5vcDhwT0ctell1aWxwNXRlNmVPYkNFNHpQaTA3YklPWTRlNFdudGR6N2lKdw?oc=5",
-        "publishedAt": "2026-08-07T07:00:00.000Z"
       }
     ]
   }

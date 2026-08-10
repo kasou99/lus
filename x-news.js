@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T13:33:30.800Z",
+  "updatedAt": "2026-08-10T14:30:22.172Z",
   "items": [
+    {
+      "time": "22:13",
+      "title": "協調介入 日銀利上げ示唆が決め手",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591255?source=rss",
+      "publishedAt": "2026-08-10T13:13:43.000Z",
+      "xQuery": "協調介入 日銀利上げ示唆が決め手"
+    },
     {
       "time": "19:48",
       "title": "台風 東北新幹線で遅れや運休恐れ",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 東北新幹線で遅れや運休恐れ"
     },
     {
-      "time": "20:55",
-      "title": "内閣支持率62.5%で横ばい FNN",
+      "time": "22:41",
+      "title": "中道支持率が野党6番手 産経FNN",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591246?source=rss",
-      "publishedAt": "2026-08-10T11:55:06.000Z",
-      "xQuery": "内閣支持率62.5%で横ばい FNN"
+      "url": "https://news.yahoo.co.jp/pickup/6591259?source=rss",
+      "publishedAt": "2026-08-10T13:41:07.000Z",
+      "xQuery": "中道支持率が野党6番手 産経FNN"
     },
     {
       "time": "20:44",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591245?source=rss",
       "publishedAt": "2026-08-10T11:44:56.000Z",
       "xQuery": "中1と小3死亡 遊具があおられ落水"
-    },
-    {
-      "time": "20:30",
-      "title": "生徒送迎中バスが追突し逃走 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591243?source=rss",
-      "publishedAt": "2026-08-10T11:30:33.000Z",
-      "xQuery": "生徒送迎中バスが追突し逃走 逮捕"
     },
     {
       "time": "22:04",
