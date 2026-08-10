@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T06:38:13.036Z",
+  "updatedAt": "2026-08-10T07:36:14.463Z",
   "items": [
     {
       "time": "14:33",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "北朝鮮ハッカー AIツール開発か"
     },
     {
-      "time": "12:41",
-      "title": "日銀委員 利上げペース加速の意見",
+      "time": "16:23",
+      "title": "海で3人救助も2人死亡確認 新潟",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591178?source=rss",
-      "publishedAt": "2026-08-10T03:41:02.000Z",
-      "xQuery": "日銀委員 利上げペース加速の意見"
+      "url": "https://news.yahoo.co.jp/pickup/6591200?source=rss",
+      "publishedAt": "2026-08-10T07:23:47.000Z",
+      "xQuery": "海で3人救助も2人死亡確認 新潟"
     },
     {
       "time": "13:36",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "2年前に89歳女性殺害疑い 娘逮捕"
     },
     {
-      "time": "14:57",
-      "title": "海で3人救助 女性と男児心肺停止",
+      "time": "16:03",
+      "title": "ニチレイ個人情報 ハッカー公開か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591192?source=rss",
-      "publishedAt": "2026-08-10T05:57:42.000Z",
-      "xQuery": "海で3人救助 女性と男児心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6591196?source=rss",
+      "publishedAt": "2026-08-10T07:03:35.000Z",
+      "xQuery": "ニチレイ個人情報 ハッカー公開か"
     }
   ]
 };
