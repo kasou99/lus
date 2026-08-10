@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T00:57:41.020Z",
+  "updatedAt": "2026-08-10T01:38:18.904Z",
   "items": [
     {
       "time": "09:13",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "便乗犯罪 熊本の被災者に追い打ち"
     },
     {
-      "time": "07:38",
-      "title": "不同意性交の認知件数 増加傾向",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591146?source=rss",
-      "publishedAt": "2026-08-09T22:38:11.000Z",
-      "xQuery": "不同意性交の認知件数 増加傾向"
-    },
-    {
       "time": "07:49",
       "title": "身寄りのない死 膨らむ公費負担",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "身寄りのない死 膨らむ公費負担"
     },
     {
-      "time": "07:17",
-      "title": "AI「暴走」自律的攻撃に米危機感",
+      "time": "09:58",
+      "title": "NY自由の女神観光で転覆 2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591142?source=rss",
-      "publishedAt": "2026-08-09T22:17:32.000Z",
-      "xQuery": "AI「暴走」自律的攻撃に米危機感"
+      "url": "https://news.yahoo.co.jp/pickup/6591161?source=rss",
+      "publishedAt": "2026-08-10T00:58:06.000Z",
+      "xQuery": "NY自由の女神観光で転覆 2人死亡"
     },
     {
       "time": "08:57",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591154?source=rss",
       "publishedAt": "2026-08-09T23:57:49.000Z",
       "xQuery": "休暇中に会社の電話無視 法的には"
+    },
+    {
+      "time": "10:06",
+      "title": "祖父の愛車を継承 奇跡のケンメリ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591160?source=rss",
+      "publishedAt": "2026-08-10T01:06:53.000Z",
+      "xQuery": "祖父の愛車を継承 奇跡のケンメリ"
     }
   ]
 };
