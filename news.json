@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T07:36:13.799Z",
+  "updatedAt": "2026-08-10T08:38:32.040Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-08-09T21:01:05.000Z"
       },
       {
-        "time": "05:06",
+        "time": "05:00",
         "title": "第56回機械工業デザイン賞IDEA（7）日本工作機械工業会賞 ブラザー工業",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LWllRNzZtLUduUFFQOWczMlBob01JWlVJNnJIRDJLQnV0dkZlX1FJOUdSQ0I2Rzc1T1gyd1RQal9QN3IwVUM2RnZGNmtaYm9Qbkd6TEJOTks2Zlk?oc=5",
-        "publishedAt": "2026-08-09T20:06:40.000Z"
+        "publishedAt": "2026-08-09T20:00:00.000Z"
       },
       {
         "time": "07:30",
@@ -126,11 +126,18 @@
         "publishedAt": "2026-08-09T14:12:52.000Z"
       },
       {
-        "time": "22:32",
-        "title": "JR東海「夜行」新幹線 客4割女性",
+        "time": "17:33",
+        "title": "合格者0人の年も 宮城ご当地検定",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591134?source=rss",
-        "publishedAt": "2026-08-09T13:32:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591214?source=rss",
+        "publishedAt": "2026-08-10T08:33:19.000Z"
+      },
+      {
+        "time": "17:03",
+        "title": "塩入りキャンディ市場 猛暑で拡大",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591202?source=rss",
+        "publishedAt": "2026-08-10T08:03:17.000Z"
       },
       {
         "time": "08:57",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591154?source=rss",
         "publishedAt": "2026-08-09T23:57:49.000Z"
-      },
-      {
-        "time": "19:46",
-        "title": "車内で運転手寝入り バス47分遅延",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591116?source=rss",
-        "publishedAt": "2026-08-09T10:46:52.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-08-10T05:33:58.000Z"
       },
       {
+        "time": "17:27",
+        "title": "中1姉と小3弟死亡 海水浴場で事故",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591216?source=rss",
+        "publishedAt": "2026-08-10T08:27:54.000Z"
+      },
+      {
         "time": "16:23",
         "title": "海で3人救助も2人死亡確認 新潟",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591200?source=rss",
         "publishedAt": "2026-08-10T07:23:47.000Z"
-      },
-      {
-        "time": "13:36",
-        "title": "2年前に89歳女性殺害疑い 娘逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591184?source=rss",
-        "publishedAt": "2026-08-10T04:36:43.000Z"
       },
       {
         "time": "12:53",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-08-10T03:53:05.000Z"
       },
       {
+        "time": "17:01",
+        "title": "突如中止の花火大会 資料を入手",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591210?source=rss",
+        "publishedAt": "2026-08-10T08:01:25.000Z"
+      },
+      {
         "time": "11:18",
         "title": "検事から「反社」 法廷で映像再生",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591168?source=rss",
         "publishedAt": "2026-08-10T02:18:04.000Z"
-      },
-      {
-        "time": "11:42",
-        "title": "沢登り中の女性 流され行方不明に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591172?source=rss",
-        "publishedAt": "2026-08-10T02:42:17.000Z"
       }
     ],
     "subsidyHeadlines": [

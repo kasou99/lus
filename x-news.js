@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T07:36:14.463Z",
+  "updatedAt": "2026-08-10T08:38:32.804Z",
   "items": [
     {
-      "time": "14:33",
-      "title": "熊本城13日に再開「復興の力に」",
+      "time": "16:49",
+      "title": "台風 11日午後に関東甲信接近恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591191?source=rss",
-      "publishedAt": "2026-08-10T05:33:58.000Z",
-      "xQuery": "熊本城13日に再開「復興の力に」"
+      "url": "https://news.yahoo.co.jp/pickup/6591208?source=rss",
+      "publishedAt": "2026-08-10T07:49:19.000Z",
+      "xQuery": "台風 11日午後に関東甲信接近恐れ"
     },
     {
-      "time": "12:21",
-      "title": "北朝鮮ハッカー AIツール開発か",
+      "time": "17:26",
+      "title": "防衛白書の「新しい戦い方」解説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591176?source=rss",
-      "publishedAt": "2026-08-10T03:21:12.000Z",
-      "xQuery": "北朝鮮ハッカー AIツール開発か"
+      "url": "https://news.yahoo.co.jp/pickup/6591217?source=rss",
+      "publishedAt": "2026-08-10T08:26:01.000Z",
+      "xQuery": "防衛白書の「新しい戦い方」解説"
     },
     {
-      "time": "16:23",
-      "title": "海で3人救助も2人死亡確認 新潟",
+      "time": "17:27",
+      "title": "中1姉と小3弟死亡 海水浴場で事故",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591200?source=rss",
-      "publishedAt": "2026-08-10T07:23:47.000Z",
-      "xQuery": "海で3人救助も2人死亡確認 新潟"
-    },
-    {
-      "time": "13:36",
-      "title": "2年前に89歳女性殺害疑い 娘逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591184?source=rss",
-      "publishedAt": "2026-08-10T04:36:43.000Z",
-      "xQuery": "2年前に89歳女性殺害疑い 娘逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6591216?source=rss",
+      "publishedAt": "2026-08-10T08:27:54.000Z",
+      "xQuery": "中1姉と小3弟死亡 海水浴場で事故"
     },
     {
       "time": "16:03",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591196?source=rss",
       "publishedAt": "2026-08-10T07:03:35.000Z",
       "xQuery": "ニチレイ個人情報 ハッカー公開か"
+    },
+    {
+      "time": "17:01",
+      "title": "突如中止の花火大会 資料を入手",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591210?source=rss",
+      "publishedAt": "2026-08-10T08:01:25.000Z",
+      "xQuery": "突如中止の花火大会 資料を入手"
     }
   ]
 };
