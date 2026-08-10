@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-10T14:30:21.339Z",
+  "updatedAt": "2026-08-10T14:56:46.619Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "06:01",
         "title": "白銅、埼玉2拠点を熊谷に統合。NC旋盤加工機も新設（鉄鋼新聞）",
-        "source": "Yahoo!ニュース",
+        "source": "news.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GbHpqcmdVT1RaMGU2b0J1c2RVakdBRlY1NHBXczc2cXR4eE5BZTN5bW1vcndOTGtQdzlWVERhSkREY0dxaFdzMUc0YXpZM1R0bVZNT2xqeGpCVEd4Q05BYVI2VmZQVHAtZ2lscEdYSmlGS1NFQzRUTy1WWUhkdzQ?oc=5",
         "publishedAt": "2026-08-09T21:01:05.000Z"
       },
@@ -17,11 +17,11 @@
         "publishedAt": "2026-08-09T22:30:00.000Z"
       },
       {
-        "time": "05:37",
-        "title": "アマノ／エレベーター連携 フロア自律清掃ロボ",
+        "time": "06:00",
+        "title": "ソディック、通期見通し上方修正 営業益2.2倍",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tUHRab21NWklOV2FqcjJiTHpjTnd3R2xsbjVKUUh3TE92THl1dml6NVZONHdyUU9hZ0VaakRSOVkxdmhVNEVvdDYwc2NQaTVRdnFRWXBRSmw4RTA?oc=5",
-        "publishedAt": "2026-08-09T20:37:30.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RDU4N0h5cHRBZy1PNFNBLWVNOWxYcDU1UlFvT05oZ0VoVGVyQS1OeUYxNnhxUDFudmVqYTFHa3VKUWY1bzVyMGRKMkZDUjBiOWd6aXBZUlBaZFE?oc=5",
+        "publishedAt": "2026-08-09T21:00:00.000Z"
       },
       {
         "time": "06:52",
@@ -31,11 +31,11 @@
         "publishedAt": "2026-08-09T21:52:46.000Z"
       },
       {
-        "time": "06:00",
-        "title": "ソディック、通期見通し上方修正 営業益2.2倍",
+        "time": "05:37",
+        "title": "経営ひと言／富士フイルム・野口仁シニアフェロー「ムーア超す速さ」",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RDU4N0h5cHRBZy1PNFNBLWVNOWxYcDU1UlFvT05oZ0VoVGVyQS1OeUYxNnhxUDFudmVqYTFHa3VKUWY1bzVyMGRKMkZDUjBiOWd6aXBZUlBaZFE?oc=5",
-        "publishedAt": "2026-08-09T21:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OYUVBWndrOG9TNFJaemlvTnpDYklzTHNVTE9fbnJ1UHVFUUtFa0ZsT19nNTg3alZRZkl0NzF4dkFOdWlOOTB5amVnN09ncHdzMDMzb1N2MjVtM0k?oc=5",
+        "publishedAt": "2026-08-09T20:37:30.000Z"
       },
       {
         "time": "06:19",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "23:47",
+        "title": "避難所に幼なじみ 70年ぶりの再会",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591263?source=rss",
+        "publishedAt": "2026-08-10T14:47:09.000Z"
+      },
+      {
         "time": "22:58",
         "title": "八代地域 大潮での浸水や冠水注意",
         "source": "Yahoo!ニュース",
@@ -163,13 +170,6 @@
         "publishedAt": "2026-08-10T11:44:56.000Z"
       },
       {
-        "time": "17:27",
-        "title": "中1姉と小3弟死亡 海水浴場で事故",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591216?source=rss",
-        "publishedAt": "2026-08-10T08:27:54.000Z"
-      },
-      {
         "time": "19:08",
         "title": "男児転び一時意識不明 1年非公表",
         "source": "Yahoo!ニュース",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-08-10T10:08:02.000Z"
       },
       {
-        "time": "20:30",
-        "title": "生徒送迎中バスが追突し逃走 逮捕",
+        "time": "23:43",
+        "title": "中日・嶋コーチが事故 相手軽傷",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591243?source=rss",
-        "publishedAt": "2026-08-10T11:30:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591267?source=rss",
+        "publishedAt": "2026-08-10T14:43:59.000Z"
       },
       {
         "time": "22:04",
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }

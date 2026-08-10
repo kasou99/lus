@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T14:30:22.172Z",
+  "updatedAt": "2026-08-10T14:56:47.226Z",
   "items": [
     {
       "time": "22:13",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "協調介入 日銀利上げ示唆が決め手"
     },
     {
-      "time": "19:48",
-      "title": "台風 東北新幹線で遅れや運休恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591237?source=rss",
-      "publishedAt": "2026-08-10T10:48:30.000Z",
-      "xQuery": "台風 東北新幹線で遅れや運休恐れ"
-    },
-    {
       "time": "22:41",
       "title": "中道支持率が野党6番手 産経FNN",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591259?source=rss",
       "publishedAt": "2026-08-10T13:41:07.000Z",
       "xQuery": "中道支持率が野党6番手 産経FNN"
+    },
+    {
+      "time": "23:24",
+      "title": "南米コロンビアでM7.4の地震",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591262?source=rss",
+      "publishedAt": "2026-08-10T14:24:11.000Z",
+      "xQuery": "南米コロンビアでM7.4の地震"
     },
     {
       "time": "20:44",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中1と小3死亡 遊具があおられ落水"
     },
     {
-      "time": "22:04",
-      "title": "突如中止の花火大会 主催者が回答",
+      "time": "23:27",
+      "title": "心肺蘇生 命救う「3つのPUSH」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591256?source=rss",
-      "publishedAt": "2026-08-10T13:04:32.000Z",
-      "xQuery": "突如中止の花火大会 主催者が回答"
+      "url": "https://news.yahoo.co.jp/pickup/6591265?source=rss",
+      "publishedAt": "2026-08-10T14:27:20.000Z",
+      "xQuery": "心肺蘇生 命救う「3つのPUSH」"
     }
   ]
 };
