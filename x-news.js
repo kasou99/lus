@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T11:50:16.025Z",
+  "updatedAt": "2026-08-10T12:23:01.418Z",
   "items": [
     {
-      "time": "17:58",
-      "title": "長野の土石流 登山者は全員下山",
+      "time": "19:48",
+      "title": "台風 東北新幹線で遅れや運休恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591220?source=rss",
-      "publishedAt": "2026-08-10T08:58:40.000Z",
-      "xQuery": "長野の土石流 登山者は全員下山"
+      "url": "https://news.yahoo.co.jp/pickup/6591237?source=rss",
+      "publishedAt": "2026-08-10T10:48:30.000Z",
+      "xQuery": "台風 東北新幹線で遅れや運休恐れ"
     },
     {
-      "time": "17:30",
-      "title": "母は寝たきり娘は不登校 女性孤立",
+      "time": "20:55",
+      "title": "内閣支持率62.5%で横ばい FNN",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591215?source=rss",
-      "publishedAt": "2026-08-10T08:30:12.000Z",
-      "xQuery": "母は寝たきり娘は不登校 女性孤立"
+      "url": "https://news.yahoo.co.jp/pickup/6591246?source=rss",
+      "publishedAt": "2026-08-10T11:55:06.000Z",
+      "xQuery": "内閣支持率62.5%で横ばい FNN"
     },
     {
-      "time": "20:20",
-      "title": "冷凍庫遺体 殺人疑いで元妻再逮捕",
+      "time": "20:44",
+      "title": "中1と小3死亡 遊具があおられ落水",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591241?source=rss",
-      "publishedAt": "2026-08-10T11:20:09.000Z",
-      "xQuery": "冷凍庫遺体 殺人疑いで元妻再逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6591245?source=rss",
+      "publishedAt": "2026-08-10T11:44:56.000Z",
+      "xQuery": "中1と小3死亡 遊具があおられ落水"
     },
     {
       "time": "20:30",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "生徒送迎中バスが追突し逃走 逮捕"
     },
     {
-      "time": "19:08",
-      "title": "男児転び一時意識不明 1年非公表",
+      "time": "20:10",
+      "title": "大腸がん 毒素作る腸内細菌が関与",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591233?source=rss",
-      "publishedAt": "2026-08-10T10:08:02.000Z",
-      "xQuery": "男児転び一時意識不明 1年非公表"
+      "url": "https://news.yahoo.co.jp/pickup/6591240?source=rss",
+      "publishedAt": "2026-08-10T11:10:36.000Z",
+      "xQuery": "大腸がん 毒素作る腸内細菌が関与"
     }
   ]
 };
