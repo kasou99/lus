@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T01:38:18.904Z",
+  "updatedAt": "2026-08-10T02:52:30.432Z",
   "items": [
     {
       "time": "09:13",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "便乗犯罪 熊本の被災者に追い打ち"
     },
     {
-      "time": "07:49",
-      "title": "身寄りのない死 膨らむ公費負担",
+      "time": "10:44",
+      "title": "高速のバイク事故 時間や区間分析",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591147?source=rss",
-      "publishedAt": "2026-08-09T22:49:07.000Z",
-      "xQuery": "身寄りのない死 膨らむ公費負担"
+      "url": "https://news.yahoo.co.jp/pickup/6591164?source=rss",
+      "publishedAt": "2026-08-10T01:44:34.000Z",
+      "xQuery": "高速のバイク事故 時間や区間分析"
     },
     {
-      "time": "09:58",
-      "title": "NY自由の女神観光で転覆 2人死亡",
+      "time": "11:18",
+      "title": "検事から「反社」 法廷で映像再生",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591161?source=rss",
-      "publishedAt": "2026-08-10T00:58:06.000Z",
-      "xQuery": "NY自由の女神観光で転覆 2人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6591168?source=rss",
+      "publishedAt": "2026-08-10T02:18:04.000Z",
+      "xQuery": "検事から「反社」 法廷で映像再生"
     },
     {
-      "time": "08:57",
-      "title": "休暇中に会社の電話無視 法的には",
+      "time": "11:42",
+      "title": "沢登り中の女性 流され行方不明に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591154?source=rss",
-      "publishedAt": "2026-08-09T23:57:49.000Z",
-      "xQuery": "休暇中に会社の電話無視 法的には"
+      "url": "https://news.yahoo.co.jp/pickup/6591172?source=rss",
+      "publishedAt": "2026-08-10T02:42:17.000Z",
+      "xQuery": "沢登り中の女性 流され行方不明に"
     },
     {
-      "time": "10:06",
-      "title": "祖父の愛車を継承 奇跡のケンメリ",
+      "time": "11:38",
+      "title": "世帯年収1000万円 理想とは遠い家",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591160?source=rss",
-      "publishedAt": "2026-08-10T01:06:53.000Z",
-      "xQuery": "祖父の愛車を継承 奇跡のケンメリ"
+      "url": "https://news.yahoo.co.jp/pickup/6591171?source=rss",
+      "publishedAt": "2026-08-10T02:38:20.000Z",
+      "xQuery": "世帯年収1000万円 理想とは遠い家"
     }
   ]
 };
