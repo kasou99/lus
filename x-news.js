@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T14:56:47.226Z",
+  "updatedAt": "2026-08-10T15:26:01.693Z",
   "items": [
     {
-      "time": "22:13",
-      "title": "協調介入 日銀利上げ示唆が決め手",
+      "time": "00:10",
+      "title": "台風 雨風による交通機関乱れ注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591255?source=rss",
-      "publishedAt": "2026-08-10T13:13:43.000Z",
-      "xQuery": "協調介入 日銀利上げ示唆が決め手"
+      "url": "https://news.yahoo.co.jp/pickup/6591269?source=rss",
+      "publishedAt": "2026-08-10T15:10:06.000Z",
+      "xQuery": "台風 雨風による交通機関乱れ注意"
     },
     {
-      "time": "22:41",
-      "title": "中道支持率が野党6番手 産経FNN",
+      "time": "23:47",
+      "title": "避難所に幼なじみ 70年ぶりの再会",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591259?source=rss",
-      "publishedAt": "2026-08-10T13:41:07.000Z",
-      "xQuery": "中道支持率が野党6番手 産経FNN"
+      "url": "https://news.yahoo.co.jp/pickup/6591263?source=rss",
+      "publishedAt": "2026-08-10T14:47:09.000Z",
+      "xQuery": "避難所に幼なじみ 70年ぶりの再会"
+    },
+    {
+      "time": "22:58",
+      "title": "八代地域 大潮での浸水や冠水注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591261?source=rss",
+      "publishedAt": "2026-08-10T13:58:09.000Z",
+      "xQuery": "八代地域 大潮での浸水や冠水注意"
     },
     {
       "time": "23:24",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591245?source=rss",
       "publishedAt": "2026-08-10T11:44:56.000Z",
       "xQuery": "中1と小3死亡 遊具があおられ落水"
-    },
-    {
-      "time": "23:27",
-      "title": "心肺蘇生 命救う「3つのPUSH」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591265?source=rss",
-      "publishedAt": "2026-08-10T14:27:20.000Z",
-      "xQuery": "心肺蘇生 命救う「3つのPUSH」"
     }
   ]
 };

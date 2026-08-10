@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-10T14:56:46.619Z",
+  "updatedAt": "2026-08-10T15:26:00.763Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "06:01",
         "title": "白銅、埼玉2拠点を熊谷に統合。NC旋盤加工機も新設（鉄鋼新聞）",
-        "source": "news.yahoo.co.jp",
+        "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GbHpqcmdVT1RaMGU2b0J1c2RVakdBRlY1NHBXczc2cXR4eE5BZTN5bW1vcndOTGtQdzlWVERhSkREY0dxaFdzMUc0YXpZM1R0bVZNT2xqeGpCVEd4Q05BYVI2VmZQVHAtZ2lscEdYSmlGS1NFQzRUTy1WWUhkdzQ?oc=5",
         "publishedAt": "2026-08-09T21:01:05.000Z"
       },
@@ -17,11 +17,18 @@
         "publishedAt": "2026-08-09T22:30:00.000Z"
       },
       {
-        "time": "06:00",
-        "title": "ソディック、通期見通し上方修正 営業益2.2倍",
+        "time": "23:00",
+        "title": "フレキシブルビームカップリング市場規模分析レポート：2026年は1572百万米ドルに到達予測｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wSmN1MmZEVWJPZWxOcTY5ekZJLVo2STBsSmZRMzBCbUxIeXBOR1lZNzE3eGprM3NsandrOXhVaEwxM3VveXc4UmFQMTNKV0hPS1JXSHBVNA?oc=5",
+        "publishedAt": "2026-08-10T14:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "経営ひと言／富士フイルム・野口仁シニアフェロー「ムーア超す速さ」",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RDU4N0h5cHRBZy1PNFNBLWVNOWxYcDU1UlFvT05oZ0VoVGVyQS1OeUYxNnhxUDFudmVqYTFHa3VKUWY1bzVyMGRKMkZDUjBiOWd6aXBZUlBaZFE?oc=5",
-        "publishedAt": "2026-08-09T21:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OYUVBWndrOG9TNFJaemlvTnpDYklzTHNVTE9fbnJ1UHVFUUtFa0ZsT19nNTg3alZRZkl0NzF4dkFOdWlOOTB5amVnN09ncHdzMDMzb1N2MjVtM0k?oc=5",
+        "publishedAt": "2026-08-09T20:00:00.000Z"
       },
       {
         "time": "06:52",
@@ -31,11 +38,11 @@
         "publishedAt": "2026-08-09T21:52:46.000Z"
       },
       {
-        "time": "05:37",
-        "title": "経営ひと言／富士フイルム・野口仁シニアフェロー「ムーア超す速さ」",
+        "time": "06:00",
+        "title": "ソディック、通期見通し上方修正 営業益2.2倍",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OYUVBWndrOG9TNFJaemlvTnpDYklzTHNVTE9fbnJ1UHVFUUtFa0ZsT19nNTg3alZRZkl0NzF4dkFOdWlOOTB5amVnN09ncHdzMDMzb1N2MjVtM0k?oc=5",
-        "publishedAt": "2026-08-09T20:37:30.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RDU4N0h5cHRBZy1PNFNBLWVNOWxYcDU1UlFvT05oZ0VoVGVyQS1OeUYxNnhxUDFudmVqYTFHa3VKUWY1bzVyMGRKMkZDUjBiOWd6aXBZUlBaZFE?oc=5",
+        "publishedAt": "2026-08-09T21:00:00.000Z"
       },
       {
         "time": "06:19",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591255?source=rss",
         "publishedAt": "2026-08-10T13:13:43.000Z"
-      },
-      {
-        "time": "19:48",
-        "title": "台風 東北新幹線で遅れや運休恐れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591237?source=rss",
-        "publishedAt": "2026-08-10T10:48:30.000Z"
       }
     ],
     "worldHeadlines": [
