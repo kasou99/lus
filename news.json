@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T09:37:03.026Z",
+  "updatedAt": "2026-08-10T10:32:16.123Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-08-09T22:30:00.000Z"
       },
       {
-        "time": "06:00",
-        "title": "ソディック、通期見通し上方修正 営業益2.2倍",
+        "time": "05:37",
+        "title": "アマノ／エレベーター連携 フロア自律清掃ロボ",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RDU4N0h5cHRBZy1PNFNBLWVNOWxYcDU1UlFvT05oZ0VoVGVyQS1OeUYxNnhxUDFudmVqYTFHa3VKUWY1bzVyMGRKMkZDUjBiOWd6aXBZUlBaZFE?oc=5",
-        "publishedAt": "2026-08-09T21:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tUHRab21NWklOV2FqcjJiTHpjTnd3R2xsbjVKUUh3TE92THl1dml6NVZONHdyUU9hZ0VaakRSOVkxdmhVNEVvdDYwc2NQaTVRdnFRWXBRSmw4RTA?oc=5",
+        "publishedAt": "2026-08-09T20:37:30.000Z"
       },
       {
         "time": "06:52",
@@ -31,18 +31,11 @@
         "publishedAt": "2026-08-09T21:52:46.000Z"
       },
       {
-        "time": "05:37",
-        "title": "経営ひと言／富士フイルム・野口仁シニアフェロー「ムーア超す速さ」",
+        "time": "06:00",
+        "title": "ソディック、通期見通し上方修正 営業益2.2倍",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OYUVBWndrOG9TNFJaemlvTnpDYklzTHNVTE9fbnJ1UHVFUUtFa0ZsT19nNTg3alZRZkl0NzF4dkFOdWlOOTB5amVnN09ncHdzMDMzb1N2MjVtM0k?oc=5",
-        "publishedAt": "2026-08-09T20:37:30.000Z"
-      },
-      {
-        "time": "18:39",
-        "title": "【遮断器・警報灯設置進む】安城市県道76号バイパス工事レポート 2026年6月末 Silvia Bonolis (xz0cai1WRY)",
-        "source": "Mshale",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uejZQX1JZaWtQTkNsbm5FZERUcEd3WmxJUlQwUzYwQ29CZzlxY0gxNFNWaV9NMTJvODJjcGZnNHg4eVhabExRaVA4dktfNmsyQkpidXZVVmNSUXc?oc=5",
-        "publishedAt": "2026-08-09T09:39:59.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RDU4N0h5cHRBZy1PNFNBLWVNOWxYcDU1UlFvT05oZ0VoVGVyQS1OeUYxNnhxUDFudmVqYTFHa3VKUWY1bzVyMGRKMkZDUjBiOWd6aXBZUlBaZFE?oc=5",
+        "publishedAt": "2026-08-09T21:00:00.000Z"
       },
       {
         "time": "12:41",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591171?source=rss",
         "publishedAt": "2026-08-10T02:38:20.000Z"
+      },
+      {
+        "time": "23:12",
+        "title": "イオン 自己判断で店内戻った人も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591135?source=rss",
+        "publishedAt": "2026-08-09T14:12:52.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-08-09T14:12:52.000Z"
       },
       {
+        "time": "18:44",
+        "title": "議員秘書を経て屋台バー営業 なぜ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591230?source=rss",
+        "publishedAt": "2026-08-10T09:44:08.000Z"
+      },
+      {
         "time": "17:33",
         "title": "合格者0人の年も 宮城ご当地検定",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591202?source=rss",
         "publishedAt": "2026-08-10T08:03:17.000Z"
-      },
-      {
-        "time": "08:57",
-        "title": "休暇中に会社の電話無視 法的には",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591154?source=rss",
-        "publishedAt": "2026-08-09T23:57:49.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-08-10T07:23:47.000Z"
       },
       {
+        "time": "19:08",
+        "title": "男児転び一時意識不明 1年非公表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591233?source=rss",
+        "publishedAt": "2026-08-10T10:08:02.000Z"
+      },
+      {
         "time": "17:58",
         "title": "長野の土石流 登山者は全員下山",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-08-10T09:33:40.000Z"
       },
       {
-        "time": "17:01",
-        "title": "突如中止の花火大会 資料を入手",
+        "time": "18:50",
+        "title": "アユ釣りで転倒し流され 70歳死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591210?source=rss",
-        "publishedAt": "2026-08-10T08:01:25.000Z"
-      },
-      {
-        "time": "11:18",
-        "title": "検事から「反社」 法廷で映像再生",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591168?source=rss",
-        "publishedAt": "2026-08-10T02:18:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591231?source=rss",
+        "publishedAt": "2026-08-10T09:50:40.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T09:37:03.761Z",
+  "updatedAt": "2026-08-10T10:32:16.877Z",
   "items": [
     {
-      "time": "17:06",
-      "title": "熊本全域に被災者支援法を適用へ",
+      "time": "18:21",
+      "title": "台風上陸恐れ 備えチェックリスト",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591209?source=rss",
-      "publishedAt": "2026-08-10T08:06:54.000Z",
-      "xQuery": "熊本全域に被災者支援法を適用へ"
+      "url": "https://news.yahoo.co.jp/pickup/6591227?source=rss",
+      "publishedAt": "2026-08-10T09:21:59.000Z",
+      "xQuery": "台風上陸恐れ 備えチェックリスト"
     },
     {
       "time": "17:30",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中1姉と小3弟死亡 海水浴場で事故"
     },
     {
+      "time": "19:08",
+      "title": "男児転び一時意識不明 1年非公表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591233?source=rss",
+      "publishedAt": "2026-08-10T10:08:02.000Z",
+      "xQuery": "男児転び一時意識不明 1年非公表"
+    },
+    {
       "time": "17:01",
       "title": "突如中止の花火大会 資料を入手",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591210?source=rss",
       "publishedAt": "2026-08-10T08:01:25.000Z",
       "xQuery": "突如中止の花火大会 資料を入手"
-    },
-    {
-      "time": "11:38",
-      "title": "世帯年収1000万円 理想とは遠い家",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591171?source=rss",
-      "publishedAt": "2026-08-10T02:38:20.000Z",
-      "xQuery": "世帯年収1000万円 理想とは遠い家"
     }
   ]
 };
