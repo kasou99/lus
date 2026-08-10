@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T10:32:16.877Z",
+  "updatedAt": "2026-08-10T11:26:27.904Z",
   "items": [
     {
-      "time": "18:21",
-      "title": "台風上陸恐れ 備えチェックリスト",
+      "time": "17:58",
+      "title": "長野の土石流 登山者は全員下山",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591227?source=rss",
-      "publishedAt": "2026-08-10T09:21:59.000Z",
-      "xQuery": "台風上陸恐れ 備えチェックリスト"
+      "url": "https://news.yahoo.co.jp/pickup/6591220?source=rss",
+      "publishedAt": "2026-08-10T08:58:40.000Z",
+      "xQuery": "長野の土石流 登山者は全員下山"
     },
     {
       "time": "17:30",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591215?source=rss",
       "publishedAt": "2026-08-10T08:30:12.000Z",
       "xQuery": "母は寝たきり娘は不登校 女性孤立"
+    },
+    {
+      "time": "19:38",
+      "title": "天皇皇后両陛下が熊本県に見舞金",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591235?source=rss",
+      "publishedAt": "2026-08-10T10:38:25.000Z",
+      "xQuery": "天皇皇后両陛下が熊本県に見舞金"
     },
     {
       "time": "17:27",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591233?source=rss",
       "publishedAt": "2026-08-10T10:08:02.000Z",
       "xQuery": "男児転び一時意識不明 1年非公表"
-    },
-    {
-      "time": "17:01",
-      "title": "突如中止の花火大会 資料を入手",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591210?source=rss",
-      "publishedAt": "2026-08-10T08:01:25.000Z",
-      "xQuery": "突如中止の花火大会 資料を入手"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T10:32:16.123Z",
+  "updatedAt": "2026-08-10T11:26:27.165Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-08-09T22:30:00.000Z"
       },
       {
-        "time": "05:37",
-        "title": "アマノ／エレベーター連携 フロア自律清掃ロボ",
+        "time": "06:00",
+        "title": "ソディック、通期見通し上方修正 営業益2.2倍",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tUHRab21NWklOV2FqcjJiTHpjTnd3R2xsbjVKUUh3TE92THl1dml6NVZONHdyUU9hZ0VaakRSOVkxdmhVNEVvdDYwc2NQaTVRdnFRWXBRSmw4RTA?oc=5",
-        "publishedAt": "2026-08-09T20:37:30.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RDU4N0h5cHRBZy1PNFNBLWVNOWxYcDU1UlFvT05oZ0VoVGVyQS1OeUYxNnhxUDFudmVqYTFHa3VKUWY1bzVyMGRKMkZDUjBiOWd6aXBZUlBaZFE?oc=5",
+        "publishedAt": "2026-08-09T21:00:00.000Z"
       },
       {
         "time": "06:52",
@@ -31,11 +31,18 @@
         "publishedAt": "2026-08-09T21:52:46.000Z"
       },
       {
-        "time": "06:00",
-        "title": "ソディック、通期見通し上方修正 営業益2.2倍",
+        "time": "05:37",
+        "title": "経営ひと言／富士フイルム・野口仁シニアフェロー「ムーア超す速さ」",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RDU4N0h5cHRBZy1PNFNBLWVNOWxYcDU1UlFvT05oZ0VoVGVyQS1OeUYxNnhxUDFudmVqYTFHa3VKUWY1bzVyMGRKMkZDUjBiOWd6aXBZUlBaZFE?oc=5",
-        "publishedAt": "2026-08-09T21:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OYUVBWndrOG9TNFJaemlvTnpDYklzTHNVTE9fbnJ1UHVFUUtFa0ZsT19nNTg3alZRZkl0NzF4dkFOdWlOOTB5amVnN09ncHdzMDMzb1N2MjVtM0k?oc=5",
+        "publishedAt": "2026-08-09T20:37:30.000Z"
+      },
+      {
+        "time": "19:48",
+        "title": "台風 東北新幹線で遅れや運休恐れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591237?source=rss",
+        "publishedAt": "2026-08-10T10:48:30.000Z"
       },
       {
         "time": "12:41",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591171?source=rss",
         "publishedAt": "2026-08-10T02:38:20.000Z"
-      },
-      {
-        "time": "23:12",
-        "title": "イオン 自己判断で店内戻った人も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591135?source=rss",
-        "publishedAt": "2026-08-09T14:12:52.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "19:48",
+        "title": "台風 東北新幹線で遅れや運休恐れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591237?source=rss",
+        "publishedAt": "2026-08-10T10:48:30.000Z"
+      },
+      {
         "time": "12:41",
         "title": "日銀委員 利上げペース加速の意見",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591171?source=rss",
         "publishedAt": "2026-08-10T02:38:20.000Z"
-      },
-      {
-        "time": "23:12",
-        "title": "イオン 自己判断で店内戻った人も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591135?source=rss",
-        "publishedAt": "2026-08-09T14:12:52.000Z"
       },
       {
         "time": "18:44",
@@ -156,13 +156,6 @@
         "publishedAt": "2026-08-10T08:27:54.000Z"
       },
       {
-        "time": "16:23",
-        "title": "海で3人救助も2人死亡確認 新潟",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591200?source=rss",
-        "publishedAt": "2026-08-10T07:23:47.000Z"
-      },
-      {
         "time": "19:08",
         "title": "男児転び一時意識不明 1年非公表",
         "source": "Yahoo!ニュース",
@@ -177,18 +170,25 @@
         "publishedAt": "2026-08-10T08:58:40.000Z"
       },
       {
-        "time": "18:33",
-        "title": "沖縄知事選 旗など367件撤去命令",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591228?source=rss",
-        "publishedAt": "2026-08-10T09:33:40.000Z"
-      },
-      {
         "time": "18:50",
         "title": "アユ釣りで転倒し流され 70歳死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591231?source=rss",
         "publishedAt": "2026-08-10T09:50:40.000Z"
+      },
+      {
+        "time": "20:20",
+        "title": "冷凍庫遺体 殺人疑いで元妻再逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591241?source=rss",
+        "publishedAt": "2026-08-10T11:20:09.000Z"
+      },
+      {
+        "time": "17:01",
+        "title": "突如中止の花火大会 資料を入手",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591210?source=rss",
+        "publishedAt": "2026-08-10T08:01:25.000Z"
       }
     ],
     "subsidyHeadlines": [
