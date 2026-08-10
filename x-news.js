@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-09T23:43:34.316Z",
+  "updatedAt": "2026-08-10T00:29:53.845Z",
   "items": [
     {
-      "time": "06:41",
-      "title": "台風 11日に東北～関東に上陸恐れ",
+      "time": "09:13",
+      "title": "便乗犯罪 熊本の被災者に追い打ち",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591141?source=rss",
-      "publishedAt": "2026-08-09T21:41:02.000Z",
-      "xQuery": "台風 11日に東北～関東に上陸恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6591156?source=rss",
+      "publishedAt": "2026-08-10T00:13:40.000Z",
+      "xQuery": "便乗犯罪 熊本の被災者に追い打ち"
     },
     {
       "time": "07:38",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "AI「暴走」自律的攻撃に米危機感"
     },
     {
-      "time": "08:02",
-      "title": "家電激戦池袋 ヨドバシが狙う商圏",
+      "time": "08:57",
+      "title": "休暇中に会社の電話無視 法的には",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591148?source=rss",
-      "publishedAt": "2026-08-09T23:02:17.000Z",
-      "xQuery": "家電激戦池袋 ヨドバシが狙う商圏"
+      "url": "https://news.yahoo.co.jp/pickup/6591154?source=rss",
+      "publishedAt": "2026-08-09T23:57:49.000Z",
+      "xQuery": "休暇中に会社の電話無視 法的には"
     }
   ]
 };
