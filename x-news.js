@@ -1,29 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T22:47:23.969Z",
+  "updatedAt": "2026-08-10T23:14:57.523Z",
   "items": [
     {
-      "time": "07:26",
-      "title": "台風が関東上陸へ 交通乱れに注意",
+      "time": "07:50",
+      "title": "熊本地震2週間 6千人なお避難生活",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591272?source=rss",
-      "publishedAt": "2026-08-10T22:26:28.000Z",
-      "xQuery": "台風が関東上陸へ 交通乱れに注意"
-    },
-    {
-      "time": "07:22",
-      "title": "H3ロケット9号機 打ち上げ成功",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591271?source=rss",
-      "publishedAt": "2026-08-10T22:22:08.000Z",
-      "xQuery": "H3ロケット9号機 打ち上げ成功"
-    },
-    {
-      "time": "23:47",
-      "title": "避難所に幼なじみ 70年ぶりの再会",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591263?source=rss",
-      "publishedAt": "2026-08-10T14:47:09.000Z",
-      "xQuery": "避難所に幼なじみ 70年ぶりの再会"
+      "url": "https://news.yahoo.co.jp/pickup/6591276?source=rss",
+      "publishedAt": "2026-08-10T22:50:20.000Z",
+      "xQuery": "熊本地震2週間 6千人なお避難生活"
     },
     {
       "time": "07:19",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "コロンビアで地震 110人超死亡"
     },
     {
-      "time": "20:44",
-      "title": "中1と小3死亡 遊具があおられ落水",
+      "time": "07:26",
+      "title": "台風が関東上陸へ 交通乱れに注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591245?source=rss",
-      "publishedAt": "2026-08-10T11:44:56.000Z",
-      "xQuery": "中1と小3死亡 遊具があおられ落水"
+      "url": "https://news.yahoo.co.jp/pickup/6591272?source=rss",
+      "publishedAt": "2026-08-10T22:26:28.000Z",
+      "xQuery": "台風が関東上陸へ 交通乱れに注意"
+    },
+    {
+      "time": "08:05",
+      "title": "中国で複数邦人の拘束が判明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591277?source=rss",
+      "publishedAt": "2026-08-10T23:05:46.000Z",
+      "xQuery": "中国で複数邦人の拘束が判明"
+    },
+    {
+      "time": "07:22",
+      "title": "H3ロケット9号機 打ち上げ成功",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591271?source=rss",
+      "publishedAt": "2026-08-10T22:22:08.000Z",
+      "xQuery": "H3ロケット9号機 打ち上げ成功"
     }
   ]
 };
