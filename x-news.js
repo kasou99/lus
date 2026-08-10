@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T05:35:05.165Z",
+  "updatedAt": "2026-08-10T06:38:13.036Z",
   "items": [
     {
-      "time": "12:21",
-      "title": "台風 あす関東・東北に上陸の恐れ",
+      "time": "14:33",
+      "title": "熊本城13日に再開「復興の力に」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591177?source=rss",
-      "publishedAt": "2026-08-10T03:21:09.000Z",
-      "xQuery": "台風 あす関東・東北に上陸の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6591191?source=rss",
+      "publishedAt": "2026-08-10T05:33:58.000Z",
+      "xQuery": "熊本城13日に再開「復興の力に」"
+    },
+    {
+      "time": "12:21",
+      "title": "北朝鮮ハッカー AIツール開発か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591176?source=rss",
+      "publishedAt": "2026-08-10T03:21:12.000Z",
+      "xQuery": "北朝鮮ハッカー AIツール開発か"
     },
     {
       "time": "12:41",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "2年前に89歳女性殺害疑い 娘逮捕"
     },
     {
-      "time": "14:07",
-      "title": "海で3人流されたか 2人心肺停止",
+      "time": "14:57",
+      "title": "海で3人救助 女性と男児心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591189?source=rss",
-      "publishedAt": "2026-08-10T05:07:34.000Z",
-      "xQuery": "海で3人流されたか 2人心肺停止"
-    },
-    {
-      "time": "14:24",
-      "title": "クマが牧場のヤギを襲撃 捕食確認",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591190?source=rss",
-      "publishedAt": "2026-08-10T05:24:33.000Z",
-      "xQuery": "クマが牧場のヤギを襲撃 捕食確認"
+      "url": "https://news.yahoo.co.jp/pickup/6591192?source=rss",
+      "publishedAt": "2026-08-10T05:57:42.000Z",
+      "xQuery": "海で3人救助 女性と男児心肺停止"
     }
   ]
 };
