@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T02:52:30.432Z",
+  "updatedAt": "2026-08-10T03:39:45.171Z",
   "items": [
     {
-      "time": "09:13",
-      "title": "便乗犯罪 熊本の被災者に追い打ち",
+      "time": "12:21",
+      "title": "台風 あす関東・東北に上陸の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591156?source=rss",
-      "publishedAt": "2026-08-10T00:13:40.000Z",
-      "xQuery": "便乗犯罪 熊本の被災者に追い打ち"
+      "url": "https://news.yahoo.co.jp/pickup/6591177?source=rss",
+      "publishedAt": "2026-08-10T03:21:09.000Z",
+      "xQuery": "台風 あす関東・東北に上陸の恐れ"
     },
     {
-      "time": "10:44",
-      "title": "高速のバイク事故 時間や区間分析",
+      "time": "12:06",
+      "title": "熊本で35℃予想 熱中症に警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591164?source=rss",
-      "publishedAt": "2026-08-10T01:44:34.000Z",
-      "xQuery": "高速のバイク事故 時間や区間分析"
+      "url": "https://news.yahoo.co.jp/pickup/6591174?source=rss",
+      "publishedAt": "2026-08-10T03:06:30.000Z",
+      "xQuery": "熊本で35℃予想 熱中症に警戒を"
     },
     {
       "time": "11:18",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "検事から「反社」 法廷で映像再生"
     },
     {
-      "time": "11:42",
-      "title": "沢登り中の女性 流され行方不明に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591172?source=rss",
-      "publishedAt": "2026-08-10T02:42:17.000Z",
-      "xQuery": "沢登り中の女性 流され行方不明に"
-    },
-    {
       "time": "11:38",
       "title": "世帯年収1000万円 理想とは遠い家",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591171?source=rss",
       "publishedAt": "2026-08-10T02:38:20.000Z",
       "xQuery": "世帯年収1000万円 理想とは遠い家"
+    },
+    {
+      "time": "11:29",
+      "title": "廃虚も バブルで乱立したリゾマン",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591169?source=rss",
+      "publishedAt": "2026-08-10T02:29:32.000Z",
+      "xQuery": "廃虚も バブルで乱立したリゾマン"
     }
   ]
 };
