@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T12:23:01.418Z",
+  "updatedAt": "2026-08-10T12:50:31.447Z",
   "items": [
     {
       "time": "19:48",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "生徒送迎中バスが追突し逃走 逮捕"
     },
     {
-      "time": "20:10",
-      "title": "大腸がん 毒素作る腸内細菌が関与",
+      "time": "21:33",
+      "title": "八代市民が発信 WEBで情報共有",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591240?source=rss",
-      "publishedAt": "2026-08-10T11:10:36.000Z",
-      "xQuery": "大腸がん 毒素作る腸内細菌が関与"
+      "url": "https://news.yahoo.co.jp/pickup/6591250?source=rss",
+      "publishedAt": "2026-08-10T12:33:25.000Z",
+      "xQuery": "八代市民が発信 WEBで情報共有"
     }
   ]
 };
