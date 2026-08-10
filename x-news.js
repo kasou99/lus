@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T08:38:32.804Z",
+  "updatedAt": "2026-08-10T09:37:03.761Z",
   "items": [
     {
-      "time": "16:49",
-      "title": "台風 11日午後に関東甲信接近恐れ",
+      "time": "17:06",
+      "title": "熊本全域に被災者支援法を適用へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591208?source=rss",
-      "publishedAt": "2026-08-10T07:49:19.000Z",
-      "xQuery": "台風 11日午後に関東甲信接近恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6591209?source=rss",
+      "publishedAt": "2026-08-10T08:06:54.000Z",
+      "xQuery": "熊本全域に被災者支援法を適用へ"
     },
     {
-      "time": "17:26",
-      "title": "防衛白書の「新しい戦い方」解説",
+      "time": "17:30",
+      "title": "母は寝たきり娘は不登校 女性孤立",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591217?source=rss",
-      "publishedAt": "2026-08-10T08:26:01.000Z",
-      "xQuery": "防衛白書の「新しい戦い方」解説"
+      "url": "https://news.yahoo.co.jp/pickup/6591215?source=rss",
+      "publishedAt": "2026-08-10T08:30:12.000Z",
+      "xQuery": "母は寝たきり娘は不登校 女性孤立"
     },
     {
       "time": "17:27",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中1姉と小3弟死亡 海水浴場で事故"
     },
     {
-      "time": "16:03",
-      "title": "ニチレイ個人情報 ハッカー公開か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591196?source=rss",
-      "publishedAt": "2026-08-10T07:03:35.000Z",
-      "xQuery": "ニチレイ個人情報 ハッカー公開か"
-    },
-    {
       "time": "17:01",
       "title": "突如中止の花火大会 資料を入手",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591210?source=rss",
       "publishedAt": "2026-08-10T08:01:25.000Z",
       "xQuery": "突如中止の花火大会 資料を入手"
+    },
+    {
+      "time": "11:38",
+      "title": "世帯年収1000万円 理想とは遠い家",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591171?source=rss",
+      "publishedAt": "2026-08-10T02:38:20.000Z",
+      "xQuery": "世帯年収1000万円 理想とは遠い家"
     }
   ]
 };
