@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-10T20:16:47.418Z",
+  "updatedAt": "2026-08-10T20:48:09.294Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:03",
         "title": "オリオン機械、DX推進 “人が歩かない工場”コンセプト",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91SDM5dVdFNFRLeW1FUUZQODJPSks1UDlMRi1lNWNqaWxaMWtiNkI5MFJOQmJFeVdNWENTZ1V4VDZpR0JlSWFlRS1uekNlaDFvbkhMdlVRRjdxYVE?oc=5",
         "publishedAt": "2026-08-10T20:03:07.000Z"
       },
@@ -26,9 +26,16 @@
       {
         "time": "23:00",
         "title": "フレキシブルビームカップリング市場規模分析レポート：2026年は1572百万米ドルに到達予測｜QYResearch",
-        "source": "note.com",
+        "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wSmN1MmZEVWJPZWxOcTY5ekZJLVo2STBsSmZRMzBCbUxIeXBOR1lZNzE3eGprM3NsandrOXhVaEwxM3VveXc4UmFQMTNKV0hPS1JXSHBVNA?oc=5",
         "publishedAt": "2026-08-10T14:00:00.000Z"
+      },
+      {
+        "time": "20:55",
+        "title": "【遮断器・警報灯設置進む】安城市県道76号バイパス工事レポート 2026年6月末 Silvia Bonolis (xz0cai1WRY)",
+        "source": "Mshale",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uejZQX1JZaWtQTkNsbm5FZERUcEd3WmxJUlQwUzYwQ29CZzlxY0gxNFNWaV9NMTJvODJjcGZnNHg4eVhabExRaVA4dktfNmsyQkpidXZVVmNSUXc?oc=5",
+        "publishedAt": "2026-08-10T11:55:39.000Z"
       },
       {
         "time": "06:19",
@@ -40,7 +47,7 @@
       {
         "time": "06:00",
         "title": "ソディック、通期見通し上方修正 営業益2.2倍",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RDU4N0h5cHRBZy1PNFNBLWVNOWxYcDU1UlFvT05oZ0VoVGVyQS1OeUYxNnhxUDFudmVqYTFHa3VKUWY1bzVyMGRKMkZDUjBiOWd6aXBZUlBaZFE?oc=5",
         "publishedAt": "2026-08-09T21:00:00.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591255?source=rss",
         "publishedAt": "2026-08-10T13:13:43.000Z"
-      },
-      {
-        "time": "19:48",
-        "title": "台風 東北新幹線で遅れや運休恐れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591237?source=rss",
-        "publishedAt": "2026-08-10T10:48:30.000Z"
       }
     ],
     "worldHeadlines": [
