@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T23:14:57.523Z",
+  "updatedAt": "2026-08-10T23:46:06.036Z",
   "items": [
+    {
+      "time": "07:26",
+      "title": "台風が関東上陸へ 交通乱れに注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591272?source=rss",
+      "publishedAt": "2026-08-10T22:26:28.000Z",
+      "xQuery": "台風が関東上陸へ 交通乱れに注意"
+    },
     {
       "time": "07:50",
       "title": "熊本地震2週間 6千人なお避難生活",
@@ -18,14 +26,6 @@ window.LUS_X_NEWS = {
       "xQuery": "コロンビアで地震 110人超死亡"
     },
     {
-      "time": "07:26",
-      "title": "台風が関東上陸へ 交通乱れに注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591272?source=rss",
-      "publishedAt": "2026-08-10T22:26:28.000Z",
-      "xQuery": "台風が関東上陸へ 交通乱れに注意"
-    },
-    {
       "time": "08:05",
       "title": "中国で複数邦人の拘束が判明",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中国で複数邦人の拘束が判明"
     },
     {
-      "time": "07:22",
-      "title": "H3ロケット9号機 打ち上げ成功",
+      "time": "08:26",
+      "title": "母殺害疑い娘が投げ銭1千万円以上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591271?source=rss",
-      "publishedAt": "2026-08-10T22:22:08.000Z",
-      "xQuery": "H3ロケット9号機 打ち上げ成功"
+      "url": "https://news.yahoo.co.jp/pickup/6591280?source=rss",
+      "publishedAt": "2026-08-10T23:26:37.000Z",
+      "xQuery": "母殺害疑い娘が投げ銭1千万円以上"
     }
   ]
 };

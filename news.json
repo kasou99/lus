@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T23:14:56.011Z",
+  "updatedAt": "2026-08-10T23:46:05.162Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "23:00",
         "title": "フレキシブルビームカップリング市場規模分析レポート：2026年は1572百万米ドルに到達予測｜QYResearch",
-        "source": "note.com",
+        "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wSmN1MmZEVWJPZWxOcTY5ekZJLVo2STBsSmZRMzBCbUxIeXBOR1lZNzE3eGprM3NsandrOXhVaEwxM3VveXc4UmFQMTNKV0hPS1JXSHBVNA?oc=5",
         "publishedAt": "2026-08-10T14:00:00.000Z"
       },
@@ -163,6 +163,13 @@
         "publishedAt": "2026-08-10T13:58:09.000Z"
       },
       {
+        "time": "08:26",
+        "title": "母殺害疑い娘が投げ銭1千万円以上",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591280?source=rss",
+        "publishedAt": "2026-08-10T23:26:37.000Z"
+      },
+      {
         "time": "20:44",
         "title": "中1と小3死亡 遊具があおられ落水",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591278?source=rss",
         "publishedAt": "2026-08-10T23:09:22.000Z"
-      },
-      {
-        "time": "23:43",
-        "title": "中日・嶋コーチが事故 相手軽傷",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591267?source=rss",
-        "publishedAt": "2026-08-10T14:43:59.000Z"
       }
     ],
     "subsidyHeadlines": [
