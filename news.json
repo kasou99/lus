@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T20:48:09.294Z",
+  "updatedAt": "2026-08-10T21:18:59.890Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91SDM5dVdFNFRLeW1FUUZQODJPSks1UDlMRi1lNWNqaWxaMWtiNkI5MFJOQmJFeVdNWENTZ1V4VDZpR0JlSWFlRS1uekNlaDFvbkhMdlVRRjdxYVE?oc=5",
         "publishedAt": "2026-08-10T20:03:07.000Z"
-      },
-      {
-        "time": "06:01",
-        "title": "白銅、埼玉2拠点を熊谷に統合。NC旋盤加工機も新設（鉄鋼新聞）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GbHpqcmdVT1RaMGU2b0J1c2RVakdBRlY1NHBXczc2cXR4eE5BZTN5bW1vcndOTGtQdzlWVERhSkREY0dxaFdzMUc0YXpZM1R0bVZNT2xqeGpCVEd4Q05BYVI2VmZQVHAtZ2lscEdYSmlGS1NFQzRUTy1WWUhkdzQ?oc=5",
-        "publishedAt": "2026-08-09T21:01:05.000Z"
       },
       {
         "time": "07:30",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-08-09T21:19:48.000Z"
       },
       {
-        "time": "06:00",
-        "title": "ソディック、通期見通し上方修正 営業益2.2倍",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RDU4N0h5cHRBZy1PNFNBLWVNOWxYcDU1UlFvT05oZ0VoVGVyQS1OeUYxNnhxUDFudmVqYTFHa3VKUWY1bzVyMGRKMkZDUjBiOWd6aXBZUlBaZFE?oc=5",
-        "publishedAt": "2026-08-09T21:00:00.000Z"
-      },
-      {
         "time": "22:13",
         "title": "協調介入 日銀利上げ示唆が決め手",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591255?source=rss",
         "publishedAt": "2026-08-10T13:13:43.000Z"
+      },
+      {
+        "time": "19:48",
+        "title": "台風 東北新幹線で遅れや運休恐れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591237?source=rss",
+        "publishedAt": "2026-08-10T10:48:30.000Z"
+      },
+      {
+        "time": "12:41",
+        "title": "日銀委員 利上げペース加速の意見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591178?source=rss",
+        "publishedAt": "2026-08-10T03:41:02.000Z"
       }
     ],
     "worldHeadlines": [
