@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T18:49:52.779Z",
+  "updatedAt": "2026-08-10T19:24:29.569Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-08-09T20:00:00.000Z"
       },
       {
-        "time": "06:52",
-        "title": "JR指宿枕崎線、大雨で五位野―枕崎運行見合わせ",
+        "time": "06:19",
+        "title": "「うねめ踊り流し」フィナーレ彩る ミスうねめパレードは雨で中止 郡山",
         "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MTFQ4bTk3cFRkbl92ZVpETDhEVllRU1EtU2tqUWNCV1FhOWNmdGl3YVBIekpfLWEwOGp0NzJUUFgzWDFkN3J1ZVh0NXU2ekR0bnBaU3p5a3hhWDZsUUpDZXY3YjJTdFVxRmVtNVpWN3hCeVhRdHdHWQ?oc=5",
-        "publishedAt": "2026-08-09T21:52:46.000Z"
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hQ2J5eERoT0cwd09HRWhReVBKSEV4ZWkxemJreFdRSGlDTFFBRklnZUkwV1JsMGJwY05zME12R1hPZEp2OXlBZzJDSXdGLVQweHJ6MVA3MVhRZHY3LU9lQXVOTVlVOXBseVVCbThXZnhXSTV2MnA0Sg?oc=5",
+        "publishedAt": "2026-08-09T21:19:48.000Z"
       },
       {
         "time": "06:00",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-09T21:00:00.000Z"
       },
       {
-        "time": "06:19",
-        "title": "「うねめ踊り流し」フィナーレ彩る ミスうねめパレードは雨で中止 郡山",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hQ2J5eERoT0cwd09HRWhReVBKSEV4ZWkxemJreFdRSGlDTFFBRklnZUkwV1JsMGJwY05zME12R1hPZEp2OXlBZzJDSXdGLVQweHJ6MVA3MVhRZHY3LU9lQXVOTVlVOXBseVVCbThXZnhXSTV2MnA0Sg?oc=5",
-        "publishedAt": "2026-08-09T21:19:48.000Z"
-      },
-      {
         "time": "22:13",
         "title": "協調介入 日銀利上げ示唆が決め手",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591255?source=rss",
         "publishedAt": "2026-08-10T13:13:43.000Z"
+      },
+      {
+        "time": "19:48",
+        "title": "台風 東北新幹線で遅れや運休恐れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591237?source=rss",
+        "publishedAt": "2026-08-10T10:48:30.000Z"
       }
     ],
     "worldHeadlines": [
