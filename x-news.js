@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T12:50:31.447Z",
+  "updatedAt": "2026-08-10T13:33:30.800Z",
   "items": [
     {
       "time": "19:48",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "生徒送迎中バスが追突し逃走 逮捕"
     },
     {
-      "time": "21:33",
-      "title": "八代市民が発信 WEBで情報共有",
+      "time": "22:04",
+      "title": "突如中止の花火大会 主催者が回答",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591250?source=rss",
-      "publishedAt": "2026-08-10T12:33:25.000Z",
-      "xQuery": "八代市民が発信 WEBで情報共有"
+      "url": "https://news.yahoo.co.jp/pickup/6591256?source=rss",
+      "publishedAt": "2026-08-10T13:04:32.000Z",
+      "xQuery": "突如中止の花火大会 主催者が回答"
     }
   ]
 };
