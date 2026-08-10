@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T04:36:06.995Z",
+  "updatedAt": "2026-08-10T05:35:05.165Z",
   "items": [
     {
       "time": "12:21",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "日銀委員 利上げペース加速の意見"
     },
     {
-      "time": "11:18",
-      "title": "検事から「反社」 法廷で映像再生",
+      "time": "13:36",
+      "title": "2年前に89歳女性殺害疑い 娘逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591168?source=rss",
-      "publishedAt": "2026-08-10T02:18:04.000Z",
-      "xQuery": "検事から「反社」 法廷で映像再生"
+      "url": "https://news.yahoo.co.jp/pickup/6591184?source=rss",
+      "publishedAt": "2026-08-10T04:36:43.000Z",
+      "xQuery": "2年前に89歳女性殺害疑い 娘逮捕"
     },
     {
-      "time": "11:38",
-      "title": "世帯年収1000万円 理想とは遠い家",
+      "time": "14:07",
+      "title": "海で3人流されたか 2人心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591171?source=rss",
-      "publishedAt": "2026-08-10T02:38:20.000Z",
-      "xQuery": "世帯年収1000万円 理想とは遠い家"
+      "url": "https://news.yahoo.co.jp/pickup/6591189?source=rss",
+      "publishedAt": "2026-08-10T05:07:34.000Z",
+      "xQuery": "海で3人流されたか 2人心肺停止"
     },
     {
-      "time": "11:42",
-      "title": "沢登り中の女性 流され行方不明に",
+      "time": "14:24",
+      "title": "クマが牧場のヤギを襲撃 捕食確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591172?source=rss",
-      "publishedAt": "2026-08-10T02:42:17.000Z",
-      "xQuery": "沢登り中の女性 流され行方不明に"
+      "url": "https://news.yahoo.co.jp/pickup/6591190?source=rss",
+      "publishedAt": "2026-08-10T05:24:33.000Z",
+      "xQuery": "クマが牧場のヤギを襲撃 捕食確認"
     }
   ]
 };

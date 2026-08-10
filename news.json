@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T04:36:06.346Z",
+  "updatedAt": "2026-08-10T05:35:04.281Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "05:06",
         "title": "第56回機械工業デザイン賞IDEA（7）日本工作機械工業会賞 ブラザー工業",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LWllRNzZtLUduUFFQOWczMlBob01JWlVJNnJIRDJLQnV0dkZlX1FJOUdSQ0I2Rzc1T1gyd1RQal9QN3IwVUM2RnZGNmtaYm9Qbkd6TEJOTks2Zlk?oc=5",
         "publishedAt": "2026-08-09T20:06:40.000Z"
       },
@@ -24,16 +24,16 @@
         "publishedAt": "2026-08-09T22:30:00.000Z"
       },
       {
-        "time": "07:40",
-        "title": "臨時休館…埼玉・寄居の「県立川の博物館」、8日から 上水設備が故障 ポンプ制御盤の基盤に不具合か 職員が故障に気付く 再開は見通しが立ち次第、HPやSNSで案内",
+        "time": "06:52",
+        "title": "JR指宿枕崎線、大雨で五位野―枕崎運行見合わせ",
         "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtMmhvLUhLR05EbU9jdkdLWnYzME9EbWMySzNVMkFUMHJsWkgwbXR5QzFHWHVtNHctVjk4bnM0QngwSVFpUEIweWNSb1NoOVR5WEZabWg3YlFEWE5aVVJpYXBQTWs1NDc0Sk5mVHlmWVc2MG5zWTRsZQ?oc=5",
-        "publishedAt": "2026-08-09T22:40:39.000Z"
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MTFQ4bTk3cFRkbl92ZVpETDhEVllRU1EtU2tqUWNCV1FhOWNmdGl3YVBIekpfLWEwOGp0NzJUUFgzWDFkN3J1ZVh0NXU2ekR0bnBaU3p5a3hhWDZsUUpDZXY3YjJTdFVxRmVtNVpWN3hCeVhRdHdHWQ?oc=5",
+        "publishedAt": "2026-08-09T21:52:46.000Z"
       },
       {
         "time": "06:00",
         "title": "ソディック、通期見通し上方修正 営業益2.2倍",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RDU4N0h5cHRBZy1PNFNBLWVNOWxYcDU1UlFvT05oZ0VoVGVyQS1OeUYxNnhxUDFudmVqYTFHa3VKUWY1bzVyMGRKMkZDUjBiOWd6aXBZUlBaZFE?oc=5",
         "publishedAt": "2026-08-09T21:00:00.000Z"
       },
@@ -149,11 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "20:54",
-        "title": "血で染まった洗面器 8/9の記憶",
+        "time": "14:07",
+        "title": "海で3人流されたか 2人心肺停止",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591122?source=rss",
-        "publishedAt": "2026-08-09T11:54:27.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591189?source=rss",
+        "publishedAt": "2026-08-10T05:07:34.000Z"
+      },
+      {
+        "time": "13:36",
+        "title": "2年前に89歳女性殺害疑い 娘逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591184?source=rss",
+        "publishedAt": "2026-08-10T04:36:43.000Z"
       },
       {
         "time": "09:13",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591168?source=rss",
         "publishedAt": "2026-08-10T02:18:04.000Z"
-      },
-      {
-        "time": "11:42",
-        "title": "沢登り中の女性 流され行方不明に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591172?source=rss",
-        "publishedAt": "2026-08-10T02:42:17.000Z"
       }
     ],
     "subsidyHeadlines": [
