@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T03:39:45.171Z",
+  "updatedAt": "2026-08-10T04:36:06.995Z",
   "items": [
     {
       "time": "12:21",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 あす関東・東北に上陸の恐れ"
     },
     {
-      "time": "12:06",
-      "title": "熊本で35℃予想 熱中症に警戒を",
+      "time": "12:41",
+      "title": "日銀委員 利上げペース加速の意見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591174?source=rss",
-      "publishedAt": "2026-08-10T03:06:30.000Z",
-      "xQuery": "熊本で35℃予想 熱中症に警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6591178?source=rss",
+      "publishedAt": "2026-08-10T03:41:02.000Z",
+      "xQuery": "日銀委員 利上げペース加速の意見"
     },
     {
       "time": "11:18",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "世帯年収1000万円 理想とは遠い家"
     },
     {
-      "time": "11:29",
-      "title": "廃虚も バブルで乱立したリゾマン",
+      "time": "11:42",
+      "title": "沢登り中の女性 流され行方不明に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591169?source=rss",
-      "publishedAt": "2026-08-10T02:29:32.000Z",
-      "xQuery": "廃虚も バブルで乱立したリゾマン"
+      "url": "https://news.yahoo.co.jp/pickup/6591172?source=rss",
+      "publishedAt": "2026-08-10T02:42:17.000Z",
+      "xQuery": "沢登り中の女性 流され行方不明に"
     }
   ]
 };
