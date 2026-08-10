@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T11:26:27.165Z",
+  "updatedAt": "2026-08-10T11:50:14.439Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-08-09T22:30:00.000Z"
       },
       {
-        "time": "06:00",
-        "title": "ソディック、通期見通し上方修正 営業益2.2倍",
+        "time": "05:37",
+        "title": "アマノ／エレベーター連携 フロア自律清掃ロボ",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RDU4N0h5cHRBZy1PNFNBLWVNOWxYcDU1UlFvT05oZ0VoVGVyQS1OeUYxNnhxUDFudmVqYTFHa3VKUWY1bzVyMGRKMkZDUjBiOWd6aXBZUlBaZFE?oc=5",
-        "publishedAt": "2026-08-09T21:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tUHRab21NWklOV2FqcjJiTHpjTnd3R2xsbjVKUUh3TE92THl1dml6NVZONHdyUU9hZ0VaakRSOVkxdmhVNEVvdDYwc2NQaTVRdnFRWXBRSmw4RTA?oc=5",
+        "publishedAt": "2026-08-09T20:37:30.000Z"
       },
       {
         "time": "06:52",
@@ -31,11 +31,11 @@
         "publishedAt": "2026-08-09T21:52:46.000Z"
       },
       {
-        "time": "05:37",
-        "title": "経営ひと言／富士フイルム・野口仁シニアフェロー「ムーア超す速さ」",
+        "time": "06:00",
+        "title": "ソディック、通期見通し上方修正 営業益2.2倍",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OYUVBWndrOG9TNFJaemlvTnpDYklzTHNVTE9fbnJ1UHVFUUtFa0ZsT19nNTg3alZRZkl0NzF4dkFOdWlOOTB5amVnN09ncHdzMDMzb1N2MjVtM0k?oc=5",
-        "publishedAt": "2026-08-09T20:37:30.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5RDU4N0h5cHRBZy1PNFNBLWVNOWxYcDU1UlFvT05oZ0VoVGVyQS1OeUYxNnhxUDFudmVqYTFHa3VKUWY1bzVyMGRKMkZDUjBiOWd6aXBZUlBaZFE?oc=5",
+        "publishedAt": "2026-08-09T21:00:00.000Z"
       },
       {
         "time": "19:48",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "20:44",
+        "title": "中1と小3死亡 遊具があおられ落水",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591245?source=rss",
+        "publishedAt": "2026-08-10T11:44:56.000Z"
+      },
+      {
         "time": "17:27",
         "title": "中1姉と小3弟死亡 海水浴場で事故",
         "source": "Yahoo!ニュース",
@@ -170,13 +177,6 @@
         "publishedAt": "2026-08-10T08:58:40.000Z"
       },
       {
-        "time": "18:50",
-        "title": "アユ釣りで転倒し流され 70歳死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591231?source=rss",
-        "publishedAt": "2026-08-10T09:50:40.000Z"
-      },
-      {
         "time": "20:20",
         "title": "冷凍庫遺体 殺人疑いで元妻再逮捕",
         "source": "Yahoo!ニュース",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-10T11:20:09.000Z"
       },
       {
-        "time": "17:01",
-        "title": "突如中止の花火大会 資料を入手",
+        "time": "20:30",
+        "title": "生徒送迎中バスが追突し逃走 逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591210?source=rss",
-        "publishedAt": "2026-08-10T08:01:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591243?source=rss",
+        "publishedAt": "2026-08-10T11:30:33.000Z"
       }
     ],
     "subsidyHeadlines": [

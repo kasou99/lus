@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T11:26:27.904Z",
+  "updatedAt": "2026-08-10T11:50:16.025Z",
   "items": [
     {
       "time": "17:58",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "母は寝たきり娘は不登校 女性孤立"
     },
     {
-      "time": "19:38",
-      "title": "天皇皇后両陛下が熊本県に見舞金",
+      "time": "20:20",
+      "title": "冷凍庫遺体 殺人疑いで元妻再逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591235?source=rss",
-      "publishedAt": "2026-08-10T10:38:25.000Z",
-      "xQuery": "天皇皇后両陛下が熊本県に見舞金"
+      "url": "https://news.yahoo.co.jp/pickup/6591241?source=rss",
+      "publishedAt": "2026-08-10T11:20:09.000Z",
+      "xQuery": "冷凍庫遺体 殺人疑いで元妻再逮捕"
     },
     {
-      "time": "17:27",
-      "title": "中1姉と小3弟死亡 海水浴場で事故",
+      "time": "20:30",
+      "title": "生徒送迎中バスが追突し逃走 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591216?source=rss",
-      "publishedAt": "2026-08-10T08:27:54.000Z",
-      "xQuery": "中1姉と小3弟死亡 海水浴場で事故"
+      "url": "https://news.yahoo.co.jp/pickup/6591243?source=rss",
+      "publishedAt": "2026-08-10T11:30:33.000Z",
+      "xQuery": "生徒送迎中バスが追突し逃走 逮捕"
     },
     {
       "time": "19:08",
