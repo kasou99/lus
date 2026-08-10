@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T22:15:57.570Z",
+  "updatedAt": "2026-08-10T22:47:23.311Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,16 +12,9 @@
       {
         "time": "23:00",
         "title": "フレキシブルビームカップリング市場規模分析レポート：2026年は1572百万米ドルに到達予測｜QYResearch",
-        "source": "note.com",
+        "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wSmN1MmZEVWJPZWxOcTY5ekZJLVo2STBsSmZRMzBCbUxIeXBOR1lZNzE3eGprM3NsandrOXhVaEwxM3VveXc4UmFQMTNKV0hPS1JXSHBVNA?oc=5",
         "publishedAt": "2026-08-10T14:00:00.000Z"
-      },
-      {
-        "time": "07:30",
-        "title": "ソディック光コネクター向け“3種の神器”受注殺到、業績見通しも上方修正：製造マネジメントニュース",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5TzlRLUE5dTlOX1QyV2tfcTVBMjIyejd6OTU5anNMVGR6MVMydUx5S0RPbGF2X0l0clJyV2JLalZVSktVWnB3U2trRU9NNkU1VW81SWJlZ2FOTHpyQTBXOVJyWFJ6MEw3WUlVS0lPYw?oc=5",
-        "publishedAt": "2026-08-09T22:30:00.000Z"
       },
       {
         "time": "22:13",
@@ -52,6 +45,13 @@
         "publishedAt": "2026-08-10T02:38:20.000Z"
       },
       {
+        "time": "07:44",
+        "title": "シャインマスカット 盗難相次ぐ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591273?source=rss",
+        "publishedAt": "2026-08-10T22:44:06.000Z"
+      },
+      {
         "time": "18:44",
         "title": "議員秘書を経て屋台バー営業 なぜ",
         "source": "Yahoo!ニュース",
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "23:24",
-        "title": "南米コロンビアでM7.4の地震",
+        "time": "07:19",
+        "title": "コロンビアで地震 110人超死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591262?source=rss",
-        "publishedAt": "2026-08-10T14:24:11.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591270?source=rss",
+        "publishedAt": "2026-08-10T22:19:52.000Z"
       },
       {
         "time": "09:58",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-08-10T02:38:20.000Z"
       },
       {
+        "time": "07:44",
+        "title": "シャインマスカット 盗難相次ぐ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591273?source=rss",
+        "publishedAt": "2026-08-10T22:44:06.000Z"
+      },
+      {
         "time": "18:44",
         "title": "議員秘書を経て屋台バー営業 なぜ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591230?source=rss",
         "publishedAt": "2026-08-10T09:44:08.000Z"
-      },
-      {
-        "time": "17:33",
-        "title": "合格者0人の年も 宮城ご当地検定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591214?source=rss",
-        "publishedAt": "2026-08-10T08:33:19.000Z"
       }
     ],
     "localHeadlines": [

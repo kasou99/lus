@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T22:15:58.181Z",
+  "updatedAt": "2026-08-10T22:47:23.969Z",
   "items": [
     {
-      "time": "00:10",
-      "title": "台風 雨風による交通機関乱れ注意",
+      "time": "07:26",
+      "title": "台風が関東上陸へ 交通乱れに注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591269?source=rss",
-      "publishedAt": "2026-08-10T15:10:06.000Z",
-      "xQuery": "台風 雨風による交通機関乱れ注意"
+      "url": "https://news.yahoo.co.jp/pickup/6591272?source=rss",
+      "publishedAt": "2026-08-10T22:26:28.000Z",
+      "xQuery": "台風が関東上陸へ 交通乱れに注意"
+    },
+    {
+      "time": "07:22",
+      "title": "H3ロケット9号機 打ち上げ成功",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591271?source=rss",
+      "publishedAt": "2026-08-10T22:22:08.000Z",
+      "xQuery": "H3ロケット9号機 打ち上げ成功"
     },
     {
       "time": "23:47",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "避難所に幼なじみ 70年ぶりの再会"
     },
     {
-      "time": "22:58",
-      "title": "八代地域 大潮での浸水や冠水注意",
+      "time": "07:19",
+      "title": "コロンビアで地震 110人超死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591261?source=rss",
-      "publishedAt": "2026-08-10T13:58:09.000Z",
-      "xQuery": "八代地域 大潮での浸水や冠水注意"
-    },
-    {
-      "time": "23:24",
-      "title": "南米コロンビアでM7.4の地震",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591262?source=rss",
-      "publishedAt": "2026-08-10T14:24:11.000Z",
-      "xQuery": "南米コロンビアでM7.4の地震"
+      "url": "https://news.yahoo.co.jp/pickup/6591270?source=rss",
+      "publishedAt": "2026-08-10T22:19:52.000Z",
+      "xQuery": "コロンビアで地震 110人超死亡"
     },
     {
       "time": "20:44",
