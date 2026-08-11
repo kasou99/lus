@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-10T23:46:06.036Z",
+  "updatedAt": "2026-08-11T00:28:03.538Z",
   "items": [
     {
       "time": "07:26",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震2週間 6千人なお避難生活"
     },
     {
-      "time": "07:19",
-      "title": "コロンビアで地震 110人超死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591270?source=rss",
-      "publishedAt": "2026-08-10T22:19:52.000Z",
-      "xQuery": "コロンビアで地震 110人超死亡"
-    },
-    {
       "time": "08:05",
       "title": "中国で複数邦人の拘束が判明",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591280?source=rss",
       "publishedAt": "2026-08-10T23:26:37.000Z",
       "xQuery": "母殺害疑い娘が投げ銭1千万円以上"
+    },
+    {
+      "time": "08:56",
+      "title": "半蔵門線の一部 午後再開を目指す",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591283?source=rss",
+      "publishedAt": "2026-08-10T23:56:40.000Z",
+      "xQuery": "半蔵門線の一部 午後再開を目指す"
     }
   ]
 };
