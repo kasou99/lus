@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T00:28:03.538Z",
+  "updatedAt": "2026-08-11T00:55:06.261Z",
   "items": [
     {
       "time": "07:26",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風が関東上陸へ 交通乱れに注意"
     },
     {
-      "time": "07:50",
-      "title": "熊本地震2週間 6千人なお避難生活",
+      "time": "09:06",
+      "title": "米大統領 イランの賠償要求に対抗",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591276?source=rss",
-      "publishedAt": "2026-08-10T22:50:20.000Z",
-      "xQuery": "熊本地震2週間 6千人なお避難生活"
+      "url": "https://news.yahoo.co.jp/pickup/6591284?source=rss",
+      "publishedAt": "2026-08-11T00:06:04.000Z",
+      "xQuery": "米大統領 イランの賠償要求に対抗"
     },
     {
       "time": "08:05",
