@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T08:26:06.058Z",
+  "updatedAt": "2026-08-11T08:50:40.106Z",
   "items": [
     {
       "time": "17:18",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "息子が戦死 5年葬式しなかった母"
     },
     {
-      "time": "16:06",
-      "title": "イオン 再入館した人数確認できず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591324?source=rss",
-      "publishedAt": "2026-08-11T07:06:25.000Z",
-      "xQuery": "イオン 再入館した人数確認できず"
-    },
-    {
       "time": "16:10",
       "title": "東京・多摩川で男性が溺れる 死亡",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591330?source=rss",
       "publishedAt": "2026-08-11T07:34:08.000Z",
       "xQuery": "半蔵門線の運転再開は「本日中」"
+    },
+    {
+      "time": "16:55",
+      "title": "H3ロケット成功 種子島で拍手",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591333?source=rss",
+      "publishedAt": "2026-08-11T07:55:19.000Z",
+      "xQuery": "H3ロケット成功 種子島で拍手"
     }
   ]
 };

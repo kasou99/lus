@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-11T08:26:05.008Z",
+  "updatedAt": "2026-08-11T08:50:39.298Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:01",
+        "title": "オリオン機械、DX推進 “人が歩かない工場”コンセプト",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91SDM5dVdFNFRLeW1FUUZQODJPSks1UDlMRi1lNWNqaWxaMWtiNkI5MFJOQmJFeVdNWENTZ1V4VDZpR0JlSWFlRS1uekNlaDFvbkhMdlVRRjdxYVE?oc=5",
+        "publishedAt": "2026-08-10T20:01:49.000Z"
+      },
       {
         "time": "09:44",
         "title": "世界微細気泡発生装置市場調査2026：2032年144百万米ドル規模を展望",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04cUgwMjdXUlNUWDVGWEJvai03TVI1eEtvM3V2c0NYZFZXYmd2ckZFSDc1bE54S0hPYVRrMGJYcHN4Z0dscjVzUVpybU9IVDg?oc=5",
         "publishedAt": "2026-08-11T00:44:00.000Z"
-      },
-      {
-        "time": "06:16",
-        "title": "AI代理購入を安全に 大日印、権限管理基盤を提供",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16U0VJeWpnZm5xOWRxbWhaeGFGTDZTVzdwcmxINUFnMWpGYm9IdjYtZHJoaHlzVlFvYXJPRWc2Y21yM1BoRkJlQ1N2c3ZLM2tpeXgwTTcxREdiYk0?oc=5",
-        "publishedAt": "2026-08-10T21:16:25.000Z"
       },
       {
         "time": "23:00",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-08-11T08:03:05.000Z"
       },
       {
+        "time": "17:49",
+        "title": "家族と体験ダイビング中溺れ 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591340?source=rss",
+        "publishedAt": "2026-08-11T08:49:18.000Z"
+      },
+      {
         "time": "08:26",
         "title": "母殺害疑い娘が投げ銭1千万円以上",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591309?source=rss",
         "publishedAt": "2026-08-11T04:39:11.000Z"
-      },
-      {
-        "time": "13:49",
-        "title": "母の救助中に流され 18歳行方不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591313?source=rss",
-        "publishedAt": "2026-08-11T04:49:33.000Z"
       }
     ],
     "subsidyHeadlines": [
