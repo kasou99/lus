@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-11T22:48:02.567Z",
+  "updatedAt": "2026-08-11T23:18:36.094Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "07:07",
-        "title": "今日のスケジュール－米7月消費者物価指数や7月工作機械受注など(トレーダーズ・ウェブ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGxnUDR5TWZfbGc5ZjVNU0ZUQVZSWjZ0a2puY2JObExqWGxzMXhFam5fNDIzODJ3Ql9zRUpRRVNBS2NUeXdlNE1KNUVJX3BGZWY2TUFKV09tYjBmel93bWFsRHNLa0p0SjZLVUFSWU8tOTUwdXlGODN2TG9hVkNwTVNUSVQ4RUk?oc=5",
-        "publishedAt": "2026-08-11T22:07:51.000Z"
-      },
       {
         "time": "06:30",
         "title": "今日の注目スケジュール：工作機械受注、米消費者物価コア指数、米財政収支など 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-08-11T09:39:00.000Z"
       },
       {
-        "time": "06:15",
-        "title": "ベリリウム銅 加工事例 Pachuca - Toluca (hl2fR56g10)",
-        "source": "Mshale",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RVW40dE45RFBkUFZhTzE4X3oxLVcxdVBRbnBOTDV5eDN1MGhjX0ltNUZSOTVtRS1JUjNuSzBCQ2RwczZzeTU3c2xPU1J5b1ZXZUpGdHJvUVlySmc?oc=5",
-        "publishedAt": "2026-08-11T21:15:59.000Z"
-      },
-      {
         "time": "18:00",
         "title": "世界の灰鉄鋳物市場規模：産業調査、トップメーカー、ランキング、機会分析2026｜QYResearch",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42ZjRTTGQ5MS1GU3Yza1N2VWk2TTB3YUNqaFJETUstSEZXNVhtazQydUh3T1c4S2hIVnJHd2FCSDZNRUFTX3YyNGV2THBRMUFKa3NrVVRFMA?oc=5",
         "publishedAt": "2026-08-11T09:00:00.000Z"
+      },
+      {
+        "time": "22:30",
+        "title": "小型低背スイッチング電源にUSB PD対応モデル新ラインアップを追加 企業リリース",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iemJrNlRyWHJmQ05jR3ZHc2t2SkZ2ZFNUbVhjUzhRMTdKUldfR1UwMGktdjJscFhQMHJYX01SQkYyVkVhSFVxOFctTXNyVUJDcl9JT1R6UWQ?oc=5",
+        "publishedAt": "2026-08-11T13:30:45.000Z"
+      },
+      {
+        "time": "09:44",
+        "title": "世界微細気泡発生装置市場調査2026：2032年144百万米ドル規模を展望",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04cUgwMjdXUlNUWDVGWEJvai03TVI1eEtvM3V2c0NYZFZXYmd2ckZFSDc1bE54S0hPYVRrMGJYcHN4Z0dscjVzUVpybU9IVDg?oc=5",
+        "publishedAt": "2026-08-11T00:44:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "18:50",
-        "title": "台風帰省ラッシュ直撃 混乱広がる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591346?source=rss",
-        "publishedAt": "2026-08-11T09:50:47.000Z"
-      },
-      {
         "time": "06:48",
         "title": "元・経団連会長 奥田碩さん死去",
         "source": "Yahoo!ニュース",
@@ -140,6 +133,13 @@
         "publishedAt": "2026-08-11T03:27:37.000Z"
       },
       {
+        "time": "08:17",
+        "title": "「四国新幹線」実現なるか 現状は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591392?source=rss",
+        "publishedAt": "2026-08-11T23:17:08.000Z"
+      },
+      {
         "time": "22:50",
         "title": "猛暑でお盆変化 オンライン参拝も",
         "source": "Yahoo!ニュース",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "16:45",
-        "title": "息子が戦死 5年葬式しなかった母",
+        "time": "07:51",
+        "title": "日航機墜落事故41年 犠牲者を悼む",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591329?source=rss",
-        "publishedAt": "2026-08-11T07:45:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591387?source=rss",
+        "publishedAt": "2026-08-11T22:51:30.000Z"
       },
       {
         "time": "07:39",

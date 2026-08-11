@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T22:48:03.413Z",
+  "updatedAt": "2026-08-11T23:18:36.726Z",
   "items": [
     {
       "time": "06:07",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン 爆発事故で遺族に補償方針"
     },
     {
+      "time": "08:03",
+      "title": "50年以上進展なし 四国新幹線の今",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591388?source=rss",
+      "publishedAt": "2026-08-11T23:03:40.000Z",
+      "xQuery": "50年以上進展なし 四国新幹線の今"
+    },
+    {
       "time": "07:30",
       "title": "美容医療の低年齢化 親の意向も",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591382?source=rss",
       "publishedAt": "2026-08-11T22:30:27.000Z",
       "xQuery": "美容医療の低年齢化 親の意向も"
-    },
-    {
-      "time": "20:59",
-      "title": "YouTube 収益化ハードル引き上げ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591352?source=rss",
-      "publishedAt": "2026-08-11T11:59:38.000Z",
-      "xQuery": "YouTube 収益化ハードル引き上げ"
     }
   ]
 };
