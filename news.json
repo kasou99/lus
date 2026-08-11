@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-11T23:18:36.094Z",
+  "updatedAt": "2026-08-11T23:47:56.369Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:07",
+        "title": "今日のスケジュール－米7月消費者物価指数や7月工作機械受注など(トレーダーズ・ウェブ)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGxnUDR5TWZfbGc5ZjVNU0ZUQVZSWjZ0a2puY2JObExqWGxzMXhFam5fNDIzODJ3Ql9zRUpRRVNBS2NUeXdlNE1KNUVJX3BGZWY2TUFKV09tYjBmel93bWFsRHNLa0p0SjZLVUFSWU8tOTUwdXlGODN2TG9hVkNwTVNUSVQ4RUk?oc=5",
+        "publishedAt": "2026-08-11T22:07:51.000Z"
+      },
       {
         "time": "06:30",
         "title": "今日の注目スケジュール：工作機械受注、米消費者物価コア指数、米財政収支など 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iemJrNlRyWHJmQ05jR3ZHc2t2SkZ2ZFNUbVhjUzhRMTdKUldfR1UwMGktdjJscFhQMHJYX01SQkYyVkVhSFVxOFctTXNyVUJDcl9JT1R6UWQ?oc=5",
         "publishedAt": "2026-08-11T13:30:45.000Z"
-      },
-      {
-        "time": "09:44",
-        "title": "世界微細気泡発生装置市場調査2026：2032年144百万米ドル規模を展望",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04cUgwMjdXUlNUWDVGWEJvai03TVI1eEtvM3V2c0NYZFZXYmd2ckZFSDc1bE54S0hPYVRrMGJYcHN4Z0dscjVzUVpybU9IVDg?oc=5",
-        "publishedAt": "2026-08-11T00:44:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591378?source=rss",
         "publishedAt": "2026-08-11T21:40:40.000Z"
+      },
+      {
+        "time": "08:22",
+        "title": "コロンビア地震 行方不明3000人超",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591391?source=rss",
+        "publishedAt": "2026-08-11T23:22:20.000Z"
       },
       {
         "time": "19:53",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591357?source=rss",
         "publishedAt": "2026-08-11T12:42:26.000Z"
-      },
-      {
-        "time": "23:16",
-        "title": "コロンビアで地震 220人超死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591372?source=rss",
-        "publishedAt": "2026-08-11T14:16:56.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-08-11T22:39:41.000Z"
       },
       {
+        "time": "08:19",
+        "title": "オフロード走行中か 車滑落し死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591390?source=rss",
+        "publishedAt": "2026-08-11T23:19:27.000Z"
+      },
+      {
         "time": "21:22",
         "title": "子供2人死亡 海の流れに識者驚き",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591366?source=rss",
         "publishedAt": "2026-08-11T13:34:28.000Z"
-      },
-      {
-        "time": "17:49",
-        "title": "家族と体験ダイビング中溺れ 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591340?source=rss",
-        "publishedAt": "2026-08-11T08:49:18.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T23:18:36.726Z",
+  "updatedAt": "2026-08-11T23:47:56.984Z",
   "items": [
     {
-      "time": "06:07",
-      "title": "台風15号は近畿地方から西へ 警戒",
+      "time": "08:18",
+      "title": "台風は山陰沖へ 本州は大雨警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591375?source=rss",
-      "publishedAt": "2026-08-11T21:07:09.000Z",
-      "xQuery": "台風15号は近畿地方から西へ 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6591389?source=rss",
+      "publishedAt": "2026-08-11T23:18:51.000Z",
+      "xQuery": "台風は山陰沖へ 本州は大雨警戒"
     },
     {
-      "time": "06:48",
-      "title": "元・経団連会長 奥田碩さん死去",
+      "time": "07:51",
+      "title": "日航機墜落事故41年 犠牲者を悼む",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591379?source=rss",
-      "publishedAt": "2026-08-11T21:48:14.000Z",
-      "xQuery": "元・経団連会長 奥田碩さん死去"
+      "url": "https://news.yahoo.co.jp/pickup/6591387?source=rss",
+      "publishedAt": "2026-08-11T22:51:30.000Z",
+      "xQuery": "日航機墜落事故41年 犠牲者を悼む"
     },
     {
-      "time": "22:38",
-      "title": "イオン 爆発事故で遺族に補償方針",
+      "time": "08:19",
+      "title": "オフロード走行中か 車滑落し死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591365?source=rss",
-      "publishedAt": "2026-08-11T13:38:51.000Z",
-      "xQuery": "イオン 爆発事故で遺族に補償方針"
+      "url": "https://news.yahoo.co.jp/pickup/6591390?source=rss",
+      "publishedAt": "2026-08-11T23:19:27.000Z",
+      "xQuery": "オフロード走行中か 車滑落し死亡"
     },
     {
-      "time": "08:03",
-      "title": "50年以上進展なし 四国新幹線の今",
+      "time": "08:17",
+      "title": "「四国新幹線」実現なるか 現状は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591388?source=rss",
-      "publishedAt": "2026-08-11T23:03:40.000Z",
-      "xQuery": "50年以上進展なし 四国新幹線の今"
+      "url": "https://news.yahoo.co.jp/pickup/6591392?source=rss",
+      "publishedAt": "2026-08-11T23:17:08.000Z",
+      "xQuery": "「四国新幹線」実現なるか 現状は"
     },
     {
       "time": "07:30",
