@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T07:31:07.736Z",
+  "updatedAt": "2026-08-11T08:26:06.058Z",
   "items": [
     {
-      "time": "14:10",
-      "title": "台風は夜に関東上陸へ 異例コース",
+      "time": "17:18",
+      "title": "台風が関東上陸へ 大雨に厳重警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591316?source=rss",
-      "publishedAt": "2026-08-11T05:10:03.000Z",
-      "xQuery": "台風は夜に関東上陸へ 異例コース"
+      "url": "https://news.yahoo.co.jp/pickup/6591338?source=rss",
+      "publishedAt": "2026-08-11T08:18:31.000Z",
+      "xQuery": "台風が関東上陸へ 大雨に厳重警戒"
     },
     {
-      "time": "14:56",
-      "title": "首相の人事 麻生氏の意向反映焦点",
+      "time": "16:45",
+      "title": "息子が戦死 5年葬式しなかった母",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591319?source=rss",
-      "publishedAt": "2026-08-11T05:56:21.000Z",
-      "xQuery": "首相の人事 麻生氏の意向反映焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6591329?source=rss",
+      "publishedAt": "2026-08-11T07:45:24.000Z",
+      "xQuery": "息子が戦死 5年葬式しなかった母"
     },
     {
-      "time": "15:42",
-      "title": "米大統領専用機おとりに使用 報道",
+      "time": "16:06",
+      "title": "イオン 再入館した人数確認できず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591323?source=rss",
-      "publishedAt": "2026-08-11T06:42:59.000Z",
-      "xQuery": "米大統領専用機おとりに使用 報道"
+      "url": "https://news.yahoo.co.jp/pickup/6591324?source=rss",
+      "publishedAt": "2026-08-11T07:06:25.000Z",
+      "xQuery": "イオン 再入館した人数確認できず"
     },
     {
       "time": "16:10",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・多摩川で男性が溺れる 死亡"
     },
     {
-      "time": "13:42",
-      "title": "「2度遭難」続発 野口健さん憤り",
+      "time": "16:34",
+      "title": "半蔵門線の運転再開は「本日中」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591311?source=rss",
-      "publishedAt": "2026-08-11T04:42:37.000Z",
-      "xQuery": "「2度遭難」続発 野口健さん憤り"
+      "url": "https://news.yahoo.co.jp/pickup/6591330?source=rss",
+      "publishedAt": "2026-08-11T07:34:08.000Z",
+      "xQuery": "半蔵門線の運転再開は「本日中」"
     }
   ]
 };

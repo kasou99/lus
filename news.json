@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-11T07:31:06.670Z",
+  "updatedAt": "2026-08-11T08:26:05.008Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "05:03",
-        "title": "オリオン機械、DX推進 “人が歩かない工場”コンセプト",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91SDM5dVdFNFRLeW1FUUZQODJPSks1UDlMRi1lNWNqaWxaMWtiNkI5MFJOQmJFeVdNWENTZ1V4VDZpR0JlSWFlRS1uekNlaDFvbkhMdlVRRjdxYVE?oc=5",
-        "publishedAt": "2026-08-10T20:03:07.000Z"
-      },
       {
         "time": "09:44",
         "title": "世界微細気泡発生装置市場調査2026：2032年144百万米ドル規模を展望",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04cUgwMjdXUlNUWDVGWEJvai03TVI1eEtvM3V2c0NYZFZXYmd2ckZFSDc1bE54S0hPYVRrMGJYcHN4Z0dscjVzUVpybU9IVDg?oc=5",
         "publishedAt": "2026-08-11T00:44:00.000Z"
+      },
+      {
+        "time": "06:16",
+        "title": "AI代理購入を安全に 大日印、権限管理基盤を提供",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16U0VJeWpnZm5xOWRxbWhaeGFGTDZTVzdwcmxINUFnMWpGYm9IdjYtZHJoaHlzVlFvYXJPRWc2Y21yM1BoRkJlQ1N2c3ZLM2tpeXgwTTcxREdiYk0?oc=5",
+        "publishedAt": "2026-08-10T21:16:25.000Z"
       },
       {
         "time": "23:00",
@@ -133,34 +133,34 @@
         "publishedAt": "2026-08-11T03:27:37.000Z"
       },
       {
+        "time": "16:34",
+        "title": "半蔵門線の運転再開は「本日中」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591330?source=rss",
+        "publishedAt": "2026-08-11T07:34:08.000Z"
+      },
+      {
         "time": "08:46",
         "title": "ケーキや菓子店などの倒産 急増",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591282?source=rss",
         "publishedAt": "2026-08-10T23:46:53.000Z"
-      },
-      {
-        "time": "07:44",
-        "title": "シャインマスカット 盗難相次ぐ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591273?source=rss",
-        "publishedAt": "2026-08-10T22:44:06.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "14:14",
-        "title": "被災しても避難所に行けない なぜ",
+        "time": "16:45",
+        "title": "息子が戦死 5年葬式しなかった母",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591315?source=rss",
-        "publishedAt": "2026-08-11T05:14:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591329?source=rss",
+        "publishedAt": "2026-08-11T07:45:24.000Z"
       },
       {
-        "time": "12:09",
-        "title": "愛するから撃つ 27歳ハンター葛藤",
+        "time": "17:03",
+        "title": "疲労はピーク 被災の高齢者施設",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591304?source=rss",
-        "publishedAt": "2026-08-11T03:09:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591336?source=rss",
+        "publishedAt": "2026-08-11T08:03:05.000Z"
       },
       {
         "time": "08:26",
