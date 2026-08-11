@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T20:18:04.380Z",
+  "updatedAt": "2026-08-11T20:48:28.456Z",
   "items": [
     {
       "time": "22:12",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風上陸 12日も各地で大雨予想"
     },
     {
-      "time": "22:22",
-      "title": "東北道下りで全車線塞ぐ倒木 栃木",
+      "time": "08:46",
+      "title": "ケーキや菓子店などの倒産 急増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591362?source=rss",
-      "publishedAt": "2026-08-11T13:22:53.000Z",
-      "xQuery": "東北道下りで全車線塞ぐ倒木 栃木"
+      "url": "https://news.yahoo.co.jp/pickup/6591282?source=rss",
+      "publishedAt": "2026-08-10T23:46:53.000Z",
+      "xQuery": "ケーキや菓子店などの倒産 急増"
     },
     {
       "time": "22:38",
