@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T14:29:42.093Z",
+  "updatedAt": "2026-08-11T14:55:52.824Z",
   "items": [
     {
       "time": "22:12",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン 爆発事故で遺族に補償方針"
     },
     {
-      "time": "21:42",
-      "title": "コンゴ エボラ死者が2000人超える",
+      "time": "23:43",
+      "title": "砂浜に遺体 近くで22歳男性が不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591357?source=rss",
-      "publishedAt": "2026-08-11T12:42:26.000Z",
-      "xQuery": "コンゴ エボラ死者が2000人超える"
+      "url": "https://news.yahoo.co.jp/pickup/6591374?source=rss",
+      "publishedAt": "2026-08-11T14:43:55.000Z",
+      "xQuery": "砂浜に遺体 近くで22歳男性が不明"
     },
     {
       "time": "21:22",
