@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-11T06:25:32.999Z",
+  "updatedAt": "2026-08-11T06:51:04.398Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "05:03",
-        "title": "オリオン機械、DX推進 “人が歩かない工場”コンセプト",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91SDM5dVdFNFRLeW1FUUZQODJPSks1UDlMRi1lNWNqaWxaMWtiNkI5MFJOQmJFeVdNWENTZ1V4VDZpR0JlSWFlRS1uekNlaDFvbkhMdlVRRjdxYVE?oc=5",
-        "publishedAt": "2026-08-10T20:03:07.000Z"
-      },
       {
         "time": "09:44",
         "title": "世界微細気泡発生装置市場調査2026：2032年144百万米ドル規模を展望",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04cUgwMjdXUlNUWDVGWEJvai03TVI1eEtvM3V2c0NYZFZXYmd2ckZFSDc1bE54S0hPYVRrMGJYcHN4Z0dscjVzUVpybU9IVDg?oc=5",
         "publishedAt": "2026-08-11T00:44:00.000Z"
+      },
+      {
+        "time": "06:16",
+        "title": "AI代理購入を安全に 大日印、権限管理基盤を提供",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16U0VJeWpnZm5xOWRxbWhaeGFGTDZTVzdwcmxINUFnMWpGYm9IdjYtZHJoaHlzVlFvYXJPRWc2Y21yM1BoRkJlQ1N2c3ZLM2tpeXgwTTcxREdiYk0?oc=5",
+        "publishedAt": "2026-08-10T21:16:25.000Z"
       },
       {
         "time": "23:00",
@@ -33,21 +33,21 @@
       {
         "time": "10:15",
         "title": "半導体+87%と化学▲9% みずほが描く真っ二つの日本 Robert Redford (o7tpdLAfoN)",
-        "source": "Mshale",
+        "source": "mshale.com",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aeTZjaHVwUmNJZVh4XzFoaEFmMGFqZGhqSFdaQkdnRXJ5X2JIRm9RVFZXOVpWZTdwVzNiMG1nRXFSR25Fd2ZkLXZvNHJMaWNEMmdQWHczWFF5Vlk?oc=5",
         "publishedAt": "2026-08-11T01:15:47.000Z"
       },
       {
         "time": "20:55",
         "title": "【遮断器・警報灯設置進む】安城市県道76号バイパス工事レポート 2026年6月末 Silvia Bonolis (xz0cai1WRY)",
-        "source": "Mshale",
+        "source": "mshale.com",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uejZQX1JZaWtQTkNsbm5FZERUcEd3WmxJUlQwUzYwQ29CZzlxY0gxNFNWaV9NMTJvODJjcGZnNHg4eVhabExRaVA4dktfNmsyQkpidXZVVmNSUXc?oc=5",
         "publishedAt": "2026-08-10T11:55:39.000Z"
       },
       {
         "time": "07:56",
         "title": "ベリリウム銅 加工事例 Pachuca - Toluca (l2fR56g10c)",
-        "source": "Mshale",
+        "source": "mshale.com",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RVW40dE45RFBkUFZhTzE4X3oxLVcxdVBRbnBOTDV5eDN1MGhjX0ltNUZSOTVtRS1JUjNuSzBCQ2RwczZzeTU3c2xPU1J5b1ZXZUpGdHJvUVlySmc?oc=5",
         "publishedAt": "2026-08-10T22:56:22.000Z"
       },
@@ -68,6 +68,13 @@
         "publishedAt": "2026-08-11T00:06:04.000Z"
       },
       {
+        "time": "15:42",
+        "title": "米大統領専用機おとりに使用 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591323?source=rss",
+        "publishedAt": "2026-08-11T06:42:59.000Z"
+      },
+      {
         "time": "08:05",
         "title": "中国で複数邦人の拘束が判明",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591133?source=rss",
         "publishedAt": "2026-08-09T13:35:29.000Z"
-      },
-      {
-        "time": "21:42",
-        "title": "イラン最高指導者 大統領と面会",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591127?source=rss",
-        "publishedAt": "2026-08-09T12:42:37.000Z"
       },
       {
         "time": "10:13",

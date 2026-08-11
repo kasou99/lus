@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T06:25:33.735Z",
+  "updatedAt": "2026-08-11T06:51:05.476Z",
   "items": [
     {
       "time": "14:10",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "被災しても避難所に行けない なぜ"
     },
     {
+      "time": "14:56",
+      "title": "首相の人事 麻生氏の意向反映焦点",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591319?source=rss",
+      "publishedAt": "2026-08-11T05:56:21.000Z",
+      "xQuery": "首相の人事 麻生氏の意向反映焦点"
+    },
+    {
       "time": "12:27",
       "title": "イオン 避難後の一時入館認めた",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591305?source=rss",
       "publishedAt": "2026-08-11T03:27:37.000Z",
       "xQuery": "イオン 避難後の一時入館認めた"
-    },
-    {
-      "time": "10:13",
-      "title": "露最高裁 反戦政党の選挙排除決定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591294?source=rss",
-      "publishedAt": "2026-08-11T01:13:53.000Z",
-      "xQuery": "露最高裁 反戦政党の選挙排除決定"
     },
     {
       "time": "13:39",
