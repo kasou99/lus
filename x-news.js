@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T09:24:47.166Z",
+  "updatedAt": "2026-08-11T09:50:45.841Z",
   "items": [
     {
       "time": "17:18",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "息子が戦死 5年葬式しなかった母"
     },
     {
-      "time": "17:28",
-      "title": "理想のママと比較 自ら追い詰めた",
+      "time": "18:29",
+      "title": "理想のママ像 追い詰められた女性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591339?source=rss",
-      "publishedAt": "2026-08-11T08:28:06.000Z",
-      "xQuery": "理想のママと比較 自ら追い詰めた"
-    },
-    {
-      "time": "16:34",
-      "title": "半蔵門線の運転再開は「本日中」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591330?source=rss",
-      "publishedAt": "2026-08-11T07:34:08.000Z",
-      "xQuery": "半蔵門線の運転再開は「本日中」"
+      "url": "https://news.yahoo.co.jp/pickup/6591344?source=rss",
+      "publishedAt": "2026-08-11T09:29:35.000Z",
+      "xQuery": "理想のママ像 追い詰められた女性"
     },
     {
       "time": "17:49",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591340?source=rss",
       "publishedAt": "2026-08-11T08:49:18.000Z",
       "xQuery": "家族と体験ダイビング中溺れ 死亡"
+    },
+    {
+      "time": "16:34",
+      "title": "半蔵門線の運転再開は「本日中」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591330?source=rss",
+      "publishedAt": "2026-08-11T07:34:08.000Z",
+      "xQuery": "半蔵門線の運転再開は「本日中」"
     }
   ]
 };
