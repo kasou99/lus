@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T01:35:57.963Z",
+  "updatedAt": "2026-08-11T02:47:27.234Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,25 @@
         "publishedAt": "2026-08-10T20:03:07.000Z"
       },
       {
+        "time": "09:44",
+        "title": "世界微細気泡発生装置市場調査2026：2032年144百万米ドル規模を展望",
+        "source": "atpress.ne.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04cUgwMjdXUlNUWDVGWEJvai03TVI1eEtvM3V2c0NYZFZXYmd2ckZFSDc1bE54S0hPYVRrMGJYcHN4Z0dscjVzUVpybU9IVDg?oc=5",
+        "publishedAt": "2026-08-11T00:44:00.000Z"
+      },
+      {
         "time": "23:00",
         "title": "フレキシブルビームカップリング市場規模分析レポート：2026年は1572百万米ドルに到達予測｜QYResearch",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wSmN1MmZEVWJPZWxOcTY5ekZJLVo2STBsSmZRMzBCbUxIeXBOR1lZNzE3eGprM3NsandrOXhVaEwxM3VveXc4UmFQMTNKV0hPS1JXSHBVNA?oc=5",
         "publishedAt": "2026-08-10T14:00:00.000Z"
+      },
+      {
+        "time": "07:56",
+        "title": "ベリリウム銅 加工事例 Pachuca - Toluca (l2fR56g10c)",
+        "source": "Mshale",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RVW40dE45RFBkUFZhTzE4X3oxLVcxdVBRbnBOTDV5eDN1MGhjX0ltNUZSOTVtRS1JUjNuSzBCQ2RwczZzeTU3c2xPU1J5b1ZXZUpGdHJvUVlySmc?oc=5",
+        "publishedAt": "2026-08-10T22:56:22.000Z"
       },
       {
         "time": "20:55",
@@ -43,20 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591283?source=rss",
         "publishedAt": "2026-08-10T23:56:40.000Z"
-      },
-      {
-        "time": "11:38",
-        "title": "世帯年収1000万円 理想とは遠い家",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591171?source=rss",
-        "publishedAt": "2026-08-10T02:38:20.000Z"
-      },
-      {
-        "time": "08:46",
-        "title": "ケーキや菓子店などの倒産 急増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591282?source=rss",
-        "publishedAt": "2026-08-10T23:46:53.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "10:50",
+        "title": "お腹の中で被爆 周囲の心ない言葉",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591297?source=rss",
+        "publishedAt": "2026-08-11T01:50:28.000Z"
+      },
+      {
         "time": "23:47",
         "title": "避難所に幼なじみ 70年ぶりの再会",
         "source": "Yahoo!ニュース",
@@ -156,11 +163,11 @@
         "publishedAt": "2026-08-10T14:47:09.000Z"
       },
       {
-        "time": "22:58",
-        "title": "八代地域 大潮での浸水や冠水注意",
+        "time": "11:35",
+        "title": "愛するから撃つ ヒグマ追う27歳",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591261?source=rss",
-        "publishedAt": "2026-08-10T13:58:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591299?source=rss",
+        "publishedAt": "2026-08-11T02:35:48.000Z"
       },
       {
         "time": "08:26",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-08-10T23:26:37.000Z"
       },
       {
+        "time": "11:28",
+        "title": "サーファーの聖地で18歳不明 高知",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591300?source=rss",
+        "publishedAt": "2026-08-11T02:28:48.000Z"
+      },
+      {
         "time": "20:44",
         "title": "中1と小3死亡 遊具があおられ落水",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591245?source=rss",
         "publishedAt": "2026-08-10T11:44:56.000Z"
-      },
-      {
-        "time": "19:08",
-        "title": "男児転び一時意識不明 1年非公表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591233?source=rss",
-        "publishedAt": "2026-08-10T10:08:02.000Z"
-      },
-      {
-        "time": "08:09",
-        "title": "右折車と衝突 バイクの22歳が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591278?source=rss",
-        "publishedAt": "2026-08-10T23:09:22.000Z"
       }
     ],
     "subsidyHeadlines": [

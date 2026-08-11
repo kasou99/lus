@@ -1,29 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T01:35:59.082Z",
+  "updatedAt": "2026-08-11T02:47:28.329Z",
   "items": [
     {
-      "time": "10:10",
-      "title": "減税に伴う地方減収 国穴埋め検討",
+      "time": "10:55",
+      "title": "台風上陸へ 午後から雨風強まるか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591288?source=rss",
-      "publishedAt": "2026-08-11T01:10:23.000Z",
-      "xQuery": "減税に伴う地方減収 国穴埋め検討"
-    },
-    {
-      "time": "09:43",
-      "title": "横浜市長パワハラ説明へ 注目点は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591287?source=rss",
-      "publishedAt": "2026-08-11T00:43:39.000Z",
-      "xQuery": "横浜市長パワハラ説明へ 注目点は"
-    },
-    {
-      "time": "09:06",
-      "title": "米大統領 イランの賠償要求に対抗",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591284?source=rss",
-      "publishedAt": "2026-08-11T00:06:04.000Z",
-      "xQuery": "米大統領 イランの賠償要求に対抗"
+      "url": "https://news.yahoo.co.jp/pickup/6591296?source=rss",
+      "publishedAt": "2026-08-11T01:55:39.000Z",
+      "xQuery": "台風上陸へ 午後から雨風強まるか"
     },
     {
       "time": "10:06",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ANAが計58便欠航 台風がお盆直撃"
     },
     {
-      "time": "08:05",
-      "title": "中国で複数邦人の拘束が判明",
+      "time": "10:50",
+      "title": "お腹の中で被爆 周囲の心ない言葉",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591277?source=rss",
-      "publishedAt": "2026-08-10T23:05:46.000Z",
-      "xQuery": "中国で複数邦人の拘束が判明"
+      "url": "https://news.yahoo.co.jp/pickup/6591297?source=rss",
+      "publishedAt": "2026-08-11T01:50:28.000Z",
+      "xQuery": "お腹の中で被爆 周囲の心ない言葉"
+    },
+    {
+      "time": "11:28",
+      "title": "サーファーの聖地で18歳不明 高知",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591300?source=rss",
+      "publishedAt": "2026-08-11T02:28:48.000Z",
+      "xQuery": "サーファーの聖地で18歳不明 高知"
+    },
+    {
+      "time": "08:26",
+      "title": "母殺害疑い娘が投げ銭1千万円以上",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591280?source=rss",
+      "publishedAt": "2026-08-10T23:26:37.000Z",
+      "xQuery": "母殺害疑い娘が投げ銭1千万円以上"
     }
   ]
 };
