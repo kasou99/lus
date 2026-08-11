@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T10:48:55.851Z",
+  "updatedAt": "2026-08-11T11:19:38.138Z",
   "items": [
     {
       "time": "17:18",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風が関東上陸へ 大雨に厳重警戒"
     },
     {
+      "time": "19:53",
+      "title": "シリア裁判所 前大統領に死刑判決",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591351?source=rss",
+      "publishedAt": "2026-08-11T10:53:09.000Z",
+      "xQuery": "シリア裁判所 前大統領に死刑判決"
+    },
+    {
       "time": "18:29",
       "title": "理想のママ像 追い詰められた女性",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591344?source=rss",
       "publishedAt": "2026-08-11T09:29:35.000Z",
       "xQuery": "理想のママ像 追い詰められた女性"
-    },
-    {
-      "time": "17:49",
-      "title": "家族と体験ダイビング中溺れ 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591340?source=rss",
-      "publishedAt": "2026-08-11T08:49:18.000Z",
-      "xQuery": "家族と体験ダイビング中溺れ 死亡"
     },
     {
       "time": "19:39",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "アスベスト影響 半蔵門線運転再開"
     },
     {
-      "time": "18:41",
-      "title": "小1で難病診断され 向き合う16歳",
+      "time": "17:49",
+      "title": "家族と体験ダイビング中溺れ 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591345?source=rss",
-      "publishedAt": "2026-08-11T09:41:25.000Z",
-      "xQuery": "小1で難病診断され 向き合う16歳"
+      "url": "https://news.yahoo.co.jp/pickup/6591340?source=rss",
+      "publishedAt": "2026-08-11T08:49:18.000Z",
+      "xQuery": "家族と体験ダイビング中溺れ 死亡"
     }
   ]
 };

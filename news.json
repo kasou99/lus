@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-11T10:48:54.953Z",
+  "updatedAt": "2026-08-11T11:19:36.687Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "18:39",
         "title": "磁気式角度エンコーダICの最新調査2026-2032：市場規模276百万米ドル、今後動向を予測",
-        "source": "アットプレス",
+        "source": "atpress.ne.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lU0Q2QW45RDVMb0x4MElxb2ttd2xNRFFUZ1d5WjVMS0NsOVhvd3AwTmNlbXFGSFUyUkFBZXFhdmU0dmVGWnlqc1Ftc2N3eVk?oc=5",
         "publishedAt": "2026-08-11T09:39:00.000Z"
       },
@@ -24,6 +24,13 @@
         "publishedAt": "2026-08-11T09:00:00.000Z"
       },
       {
+        "time": "10:28",
+        "title": "製紙工場の煙道・煙突点検に360°カメラ搭載マイクロドローンを活用、リックスとアイ・ロボティクス 企業リリース",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZbDg0Nk12Q3BJbkpyWHllbGZQTUNHMXFOTnpxRVNZemd5U0xLQ0ZSTHZOX0FFSUlWaHJmWExhdDVWQjBNM255QWNJYnRjR2JHTGFOT3IxN3I?oc=5",
+        "publishedAt": "2026-08-11T01:28:19.000Z"
+      },
+      {
         "time": "07:56",
         "title": "ベリリウム銅 加工事例 Pachuca - Toluca (l2fR56g10c)",
         "source": "Mshale",
@@ -33,7 +40,7 @@
       {
         "time": "09:44",
         "title": "世界微細気泡発生装置市場調査2026：2032年144百万米ドル規模を展望",
-        "source": "アットプレス",
+        "source": "atpress.ne.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04cUgwMjdXUlNUWDVGWEJvai03TVI1eEtvM3V2c0NYZFZXYmd2ckZFSDc1bE54S0hPYVRrMGJYcHN4Z0dscjVzUVpybU9IVDg?oc=5",
         "publishedAt": "2026-08-11T00:44:00.000Z"
       },
@@ -50,16 +57,16 @@
         "source": "Mshale",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uejZQX1JZaWtQTkNsbm5FZERUcEd3WmxJUlQwUzYwQ29CZzlxY0gxNFNWaV9NMTJvODJjcGZnNHg4eVhabExRaVA4dktfNmsyQkpidXZVVmNSUXc?oc=5",
         "publishedAt": "2026-08-10T11:55:39.000Z"
-      },
-      {
-        "time": "17:53",
-        "title": "全国の鉄道・フライト 最新情報",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6585817?source=rss",
-        "publishedAt": "2026-08-11T08:53:08.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "19:53",
+        "title": "シリア裁判所 前大統領に死刑判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591351?source=rss",
+        "publishedAt": "2026-08-11T10:53:09.000Z"
+      },
       {
         "time": "09:06",
         "title": "米大統領 イランの賠償要求に対抗",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591294?source=rss",
         "publishedAt": "2026-08-11T01:13:53.000Z"
-      },
-      {
-        "time": "18:14",
-        "title": "コロンビアで地震 130人超死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591343?source=rss",
-        "publishedAt": "2026-08-11T09:14:25.000Z"
       }
     ],
     "economyHeadlines": [
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }
