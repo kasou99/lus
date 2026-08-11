@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T22:18:32.068Z",
+  "updatedAt": "2026-08-11T22:48:03.413Z",
   "items": [
     {
       "time": "06:07",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591375?source=rss",
       "publishedAt": "2026-08-11T21:07:09.000Z",
       "xQuery": "台風15号は近畿地方から西へ 警戒"
-    },
-    {
-      "time": "06:40",
-      "title": "北発射のミサイル EEZ外に落下か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591378?source=rss",
-      "publishedAt": "2026-08-11T21:40:40.000Z",
-      "xQuery": "北発射のミサイル EEZ外に落下か"
     },
     {
       "time": "06:48",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591365?source=rss",
       "publishedAt": "2026-08-11T13:38:51.000Z",
       "xQuery": "イオン 爆発事故で遺族に補償方針"
+    },
+    {
+      "time": "07:30",
+      "title": "美容医療の低年齢化 親の意向も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591382?source=rss",
+      "publishedAt": "2026-08-11T22:30:27.000Z",
+      "xQuery": "美容医療の低年齢化 親の意向も"
     },
     {
       "time": "20:59",

@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-08-11T22:18:31.401Z",
+  "updatedAt": "2026-08-11T22:48:02.567Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "06:33",
-        "title": "今日の注目スケジュール：工作機械受注、米消費者物価コア指数、米財政収支など(フィスコ)",
+        "time": "07:07",
+        "title": "今日のスケジュール－米7月消費者物価指数や7月工作機械受注など(トレーダーズ・ウェブ)",
         "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0h2cTd0bUs5SkFKeUFQRnVrNlpHN29XT2VLb0o3VEdNLUVoN1hvdFJSQ09GdVBWcWdoTG5FWk1DSm0yUUFEajJDelRLd1NUSVN4R3BLRHczX3RicV92Q0NFOWxHY3ZUbDdZbjF4aUIzbGhQWFNjY3oyQ0lXdEtmdXZZTndVSUE?oc=5",
-        "publishedAt": "2026-08-11T21:33:39.000Z"
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGxnUDR5TWZfbGc5ZjVNU0ZUQVZSWjZ0a2puY2JObExqWGxzMXhFam5fNDIzODJ3Ql9zRUpRRVNBS2NUeXdlNE1KNUVJX3BGZWY2TUFKV09tYjBmel93bWFsRHNLa0p0SjZLVUFSWU8tOTUwdXlGODN2TG9hVkNwTVNUSVQ4RUk?oc=5",
+        "publishedAt": "2026-08-11T22:07:51.000Z"
+      },
+      {
+        "time": "06:30",
+        "title": "今日の注目スケジュール：工作機械受注、米消費者物価コア指数、米財政収支など 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+        "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01akdSQk10UnVYTzc3N0VEREVXRkExX2RxUm9EeE1DZTQzRkF1U1RGRkV4VTVQSmNCNVFSWEc0T3BuUEhxZ19WWDBVYTdjWDJnWW8zNVpQdXNDUHRGOV9KVVdUNkQyRWs?oc=5",
+        "publishedAt": "2026-08-11T21:30:00.000Z"
+      },
+      {
+        "time": "07:17",
+        "title": "今日の注目スケジュール：工作機械受注、米消費者物価コア指数、米財政収支など",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcnZSdEZralVpanhRUmEtTTVRU29vVk9XLWh3ZVdLZGs2bmNnck5XdTRYbVNWNXY1XzZZU3JPeG9qdS1XQkpYZkdheVdlVUpPZXo5TTRrSjE3QzNWMG9LSmxZdkNlOWZzcTQ4RElEVW1LOW1PM2pMal9sbkVXUHN6TTlyUFhEX2vSAYwBQVVfeXFMT3V1dTlpXzFkZmJzNTBteEdjUVlES1hQRTB3QktuZWRPekxOWVR3TWhwQ196VFp4VDhFYUQ4eGpHQTF6Zjl2Nlk4VXUzalpqOElGVGZKeXVhUDg0Q1VVWXpFN0VrS29fYjVtZExodEJ6WGdQWDV6cFVRN09QMi1tbkJRMjJKcllkNWlGb0w?oc=5",
+        "publishedAt": "2026-08-11T22:17:17.000Z"
       },
       {
         "time": "23:22",
@@ -15,13 +29,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxSGx4YUc5TGp0dXlfWXI4VDVoQTVNeDI1MndlQmQ3WnpmMHQ5S2ZiNzVTekxETVBKdnc5QzBXX3RKNFVKcllyY0VpXzdsWkJCNXRITzNDdENvM0VpRzdRbE9lMWRreVdzZEFFTVgzMEtuWi1t?oc=5",
         "publishedAt": "2026-08-11T14:22:44.000Z"
-      },
-      {
-        "time": "07:07",
-        "title": "今日のスケジュール－米7月消費者物価指数や7月工作機械受注など(トレーダーズ・ウェブ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGxnUDR5TWZfbGc5ZjVNU0ZUQVZSWjZ0a2puY2JObExqWGxzMXhFam5fNDIzODJ3Ql9zRUpRRVNBS2NUeXdlNE1KNUVJX3BGZWY2TUFKV09tYjBmel93bWFsRHNLa0p0SjZLVUFSWU8tOTUwdXlGODN2TG9hVkNwTVNUSVQ4RUk?oc=5",
-        "publishedAt": "2026-08-11T22:07:51.000Z"
       },
       {
         "time": "06:40",
@@ -33,9 +40,16 @@
       {
         "time": "18:39",
         "title": "磁気式角度エンコーダICの最新調査2026-2032：市場規模276百万米ドル、今後動向を予測",
-        "source": "atpress.ne.jp",
+        "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnY2tsRDJsejNMQ09xNHlucXRZdE16SEtudkVjZjBfVlZoZTJTOU5XUVFOd2swdEZONDZTUDZRV0JuQ0lLbjZTMVBPRzgtUQ?oc=5",
         "publishedAt": "2026-08-11T09:39:00.000Z"
+      },
+      {
+        "time": "06:15",
+        "title": "ベリリウム銅 加工事例 Pachuca - Toluca (hl2fR56g10)",
+        "source": "Mshale",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RVW40dE45RFBkUFZhTzE4X3oxLVcxdVBRbnBOTDV5eDN1MGhjX0ltNUZSOTVtRS1JUjNuSzBCQ2RwczZzeTU3c2xPU1J5b1ZXZUpGdHJvUVlySmc?oc=5",
+        "publishedAt": "2026-08-11T21:15:59.000Z"
       },
       {
         "time": "18:00",
@@ -43,20 +57,6 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42ZjRTTGQ5MS1GU3Yza1N2VWk2TTB3YUNqaFJETUstSEZXNVhtazQydUh3T1c4S2hIVnJHd2FCSDZNRUFTX3YyNGV2THBRMUFKa3NrVVRFMA?oc=5",
         "publishedAt": "2026-08-11T09:00:00.000Z"
-      },
-      {
-        "time": "22:30",
-        "title": "小型低背スイッチング電源にUSB PD対応モデル新ラインアップを追加 企業リリース",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iemJrNlRyWHJmQ05jR3ZHc2t2SkZ2ZFNUbVhjUzhRMTdKUldfR1UwMGktdjJscFhQMHJYX01SQkYyVkVhSFVxOFctTXNyVUJDcl9JT1R6UWQ?oc=5",
-        "publishedAt": "2026-08-11T13:30:45.000Z"
-      },
-      {
-        "time": "07:56",
-        "title": "ベリリウム銅 加工事例 Pachuca - Toluca (l2fR56g10c)",
-        "source": "Mshale",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RVW40dE45RFBkUFZhTzE4X3oxLVcxdVBRbnBOTDV5eDN1MGhjX0ltNUZSOTVtRS1JUjNuSzBCQ2RwczZzeTU3c2xPU1J5b1ZXZUpGdHJvUVlySmc?oc=5",
-        "publishedAt": "2026-08-10T22:56:22.000Z"
       }
     ],
     "worldHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-08-11T03:27:37.000Z"
       },
       {
-        "time": "19:39",
-        "title": "アスベスト影響 半蔵門線運転再開",
+        "time": "22:50",
+        "title": "猛暑でお盆変化 オンライン参拝も",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591350?source=rss",
-        "publishedAt": "2026-08-11T10:39:32.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591368?source=rss",
+        "publishedAt": "2026-08-11T13:50:53.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-08-11T07:45:24.000Z"
       },
       {
-        "time": "17:03",
-        "title": "疲労はピーク 被災の高齢者施設",
+        "time": "07:39",
+        "title": "熊本地震2週間 仮設住宅整備進む",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591336?source=rss",
-        "publishedAt": "2026-08-11T08:03:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591383?source=rss",
+        "publishedAt": "2026-08-11T22:39:41.000Z"
       },
       {
         "time": "21:22",
