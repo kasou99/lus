@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-11T14:55:52.060Z",
+  "updatedAt": "2026-08-11T15:24:50.249Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "18:39",
-        "title": "磁気式角度エンコーダICの最新調査2026-2032：市場規模276百万米ドル、今後動向を予測",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lU0Q2QW45RDVMb0x4MElxb2ttd2xNRFFUZ1d5WjVMS0NsOVhvd3AwTmNlbXFGSFUyUkFBZXFhdmU0dmVGWnlqc1Ftc2N3eVk?oc=5",
-        "publishedAt": "2026-08-11T09:39:00.000Z"
+        "time": "22:30",
+        "title": "小型低背スイッチング電源にUSB PD対応モデル新ラインアップを追加 企業リリース",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iemJrNlRyWHJmQ05jR3ZHc2t2SkZ2ZFNUbVhjUzhRMTdKUldfR1UwMGktdjJscFhQMHJYX01SQkYyVkVhSFVxOFctTXNyVUJDcl9JT1R6UWQ?oc=5",
+        "publishedAt": "2026-08-11T13:30:45.000Z"
       },
       {
-        "time": "06:16",
-        "title": "AI代理購入を安全に 大日印、権限管理基盤を提供",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16U0VJeWpnZm5xOWRxbWhaeGFGTDZTVzdwcmxINUFnMWpGYm9IdjYtZHJoaHlzVlFvYXJPRWc2Y21yM1BoRkJlQ1N2c3ZLM2tpeXgwTTcxREdiYk0?oc=5",
-        "publishedAt": "2026-08-10T21:16:25.000Z"
+        "time": "18:39",
+        "title": "磁気式角度エンコーダICの最新調査2026-2032：市場規模276百万米ドル、今後動向を予測",
+        "source": "atpress.ne.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lU0Q2QW45RDVMb0x4MElxb2ttd2xNRFFUZ1d5WjVMS0NsOVhvd3AwTmNlbXFGSFUyUkFBZXFhdmU0dmVGWnlqc1Ftc2N3eVk?oc=5",
+        "publishedAt": "2026-08-11T09:39:00.000Z"
       },
       {
         "time": "18:00",
@@ -22,6 +22,13 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42ZjRTTGQ5MS1GU3Yza1N2VWk2TTB3YUNqaFJETUstSEZXNVhtazQydUh3T1c4S2hIVnJHd2FCSDZNRUFTX3YyNGV2THBRMUFKa3NrVVRFMA?oc=5",
         "publishedAt": "2026-08-11T09:00:00.000Z"
+      },
+      {
+        "time": "05:01",
+        "title": "オリオン機械、DX推進 “人が歩かない工場”コンセプト",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91SDM5dVdFNFRLeW1FUUZQODJPSks1UDlMRi1lNWNqaWxaMWtiNkI5MFJOQmJFeVdNWENTZ1V4VDZpR0JlSWFlRS1uekNlaDFvbkhMdlVRRjdxYVE?oc=5",
+        "publishedAt": "2026-08-10T20:01:49.000Z"
       },
       {
         "time": "07:56",
@@ -33,7 +40,7 @@
       {
         "time": "09:44",
         "title": "世界微細気泡発生装置市場調査2026：2032年144百万米ドル規模を展望",
-        "source": "アットプレス",
+        "source": "atpress.ne.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04cUgwMjdXUlNUWDVGWEJvai03TVI1eEtvM3V2c0NYZFZXYmd2ckZFSDc1bE54S0hPYVRrMGJYcHN4Z0dscjVzUVpybU9IVDg?oc=5",
         "publishedAt": "2026-08-11T00:44:00.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591346?source=rss",
         "publishedAt": "2026-08-11T09:50:47.000Z"
-      },
-      {
-        "time": "22:22",
-        "title": "東北道下りで全車線塞ぐ倒木 栃木",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591362?source=rss",
-        "publishedAt": "2026-08-11T13:22:53.000Z"
       }
     ],
     "worldHeadlines": [
