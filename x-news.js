@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T08:50:40.106Z",
+  "updatedAt": "2026-08-11T09:24:47.166Z",
   "items": [
     {
       "time": "17:18",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "息子が戦死 5年葬式しなかった母"
     },
     {
-      "time": "16:10",
-      "title": "東京・多摩川で男性が溺れる 死亡",
+      "time": "17:28",
+      "title": "理想のママと比較 自ら追い詰めた",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591326?source=rss",
-      "publishedAt": "2026-08-11T07:10:01.000Z",
-      "xQuery": "東京・多摩川で男性が溺れる 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6591339?source=rss",
+      "publishedAt": "2026-08-11T08:28:06.000Z",
+      "xQuery": "理想のママと比較 自ら追い詰めた"
     },
     {
       "time": "16:34",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "半蔵門線の運転再開は「本日中」"
     },
     {
-      "time": "16:55",
-      "title": "H3ロケット成功 種子島で拍手",
+      "time": "17:49",
+      "title": "家族と体験ダイビング中溺れ 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591333?source=rss",
-      "publishedAt": "2026-08-11T07:55:19.000Z",
-      "xQuery": "H3ロケット成功 種子島で拍手"
+      "url": "https://news.yahoo.co.jp/pickup/6591340?source=rss",
+      "publishedAt": "2026-08-11T08:49:18.000Z",
+      "xQuery": "家族と体験ダイビング中溺れ 死亡"
     }
   ]
 };
