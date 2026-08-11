@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T12:22:40.272Z",
+  "updatedAt": "2026-08-11T12:50:19.257Z",
   "items": [
     {
       "time": "20:24",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "台風15号が茨城に上陸 災害に警戒"
     },
     {
-      "time": "19:53",
-      "title": "シリア裁判所 前大統領に死刑判決",
+      "time": "15:51",
+      "title": "仏全土の7割近くで水の使用制限",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591351?source=rss",
-      "publishedAt": "2026-08-11T10:53:09.000Z",
-      "xQuery": "シリア裁判所 前大統領に死刑判決"
+      "url": "https://news.yahoo.co.jp/pickup/6591325?source=rss",
+      "publishedAt": "2026-08-11T06:51:32.000Z",
+      "xQuery": "仏全土の7割近くで水の使用制限"
     },
     {
-      "time": "18:29",
-      "title": "理想のママ像 追い詰められた女性",
+      "time": "21:15",
+      "title": "茨城県に台風上陸 現地のSNS投稿",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591344?source=rss",
-      "publishedAt": "2026-08-11T09:29:35.000Z",
-      "xQuery": "理想のママ像 追い詰められた女性"
+      "url": "https://news.yahoo.co.jp/pickup/6591349?source=rss",
+      "publishedAt": "2026-08-11T12:15:18.000Z",
+      "xQuery": "茨城県に台風上陸 現地のSNS投稿"
     },
     {
-      "time": "17:49",
-      "title": "家族と体験ダイビング中溺れ 死亡",
+      "time": "21:22",
+      "title": "子供2人死亡 海の流れに識者驚き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591340?source=rss",
-      "publishedAt": "2026-08-11T08:49:18.000Z",
-      "xQuery": "家族と体験ダイビング中溺れ 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6591355?source=rss",
+      "publishedAt": "2026-08-11T12:22:54.000Z",
+      "xQuery": "子供2人死亡 海の流れに識者驚き"
     },
     {
-      "time": "19:39",
-      "title": "アスベスト影響 半蔵門線運転再開",
+      "time": "20:59",
+      "title": "YouTube 収益化ハードル引き上げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591350?source=rss",
-      "publishedAt": "2026-08-11T10:39:32.000Z",
-      "xQuery": "アスベスト影響 半蔵門線運転再開"
+      "url": "https://news.yahoo.co.jp/pickup/6591352?source=rss",
+      "publishedAt": "2026-08-11T11:59:38.000Z",
+      "xQuery": "YouTube 収益化ハードル引き上げ"
     }
   ]
 };
