@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T02:47:28.329Z",
+  "updatedAt": "2026-08-11T03:36:34.788Z",
   "items": [
     {
       "time": "10:55",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "台風上陸へ 午後から雨風強まるか"
     },
     {
-      "time": "10:06",
-      "title": "ANAが計58便欠航 台風がお盆直撃",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591289?source=rss",
-      "publishedAt": "2026-08-11T01:06:28.000Z",
-      "xQuery": "ANAが計58便欠航 台風がお盆直撃"
-    },
-    {
       "time": "10:50",
       "title": "お腹の中で被爆 周囲の心ない言葉",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "お腹の中で被爆 周囲の心ない言葉"
     },
     {
+      "time": "12:09",
+      "title": "愛するから撃つ 27歳ハンター葛藤",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591304?source=rss",
+      "publishedAt": "2026-08-11T03:09:14.000Z",
+      "xQuery": "愛するから撃つ 27歳ハンター葛藤"
+    },
+    {
+      "time": "12:27",
+      "title": "イオン 避難後の一時入館認めた",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591305?source=rss",
+      "publishedAt": "2026-08-11T03:27:37.000Z",
+      "xQuery": "イオン 避難後の一時入館認めた"
+    },
+    {
       "time": "11:28",
       "title": "サーファーの聖地で18歳不明 高知",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591300?source=rss",
       "publishedAt": "2026-08-11T02:28:48.000Z",
       "xQuery": "サーファーの聖地で18歳不明 高知"
-    },
-    {
-      "time": "08:26",
-      "title": "母殺害疑い娘が投げ銭1千万円以上",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591280?source=rss",
-      "publishedAt": "2026-08-10T23:26:37.000Z",
-      "xQuery": "母殺害疑い娘が投げ銭1千万円以上"
     }
   ]
 };
