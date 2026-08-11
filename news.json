@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T21:48:57.748Z",
+  "updatedAt": "2026-08-11T22:18:31.401Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-08-11T14:22:44.000Z"
       },
       {
+        "time": "07:07",
+        "title": "今日のスケジュール－米7月消費者物価指数や7月工作機械受注など(トレーダーズ・ウェブ)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGxnUDR5TWZfbGc5ZjVNU0ZUQVZSWjZ0a2puY2JObExqWGxzMXhFam5fNDIzODJ3Ql9zRUpRRVNBS2NUeXdlNE1KNUVJX3BGZWY2TUFKV09tYjBmel93bWFsRHNLa0p0SjZLVUFSWU8tOTUwdXlGODN2TG9hVkNwTVNUSVQ4RUk?oc=5",
+        "publishedAt": "2026-08-11T22:07:51.000Z"
+      },
+      {
         "time": "06:40",
         "title": "本日のスケジュール｜FX・為替ニュース",
         "source": "ザイFX！",
@@ -26,7 +33,7 @@
       {
         "time": "18:39",
         "title": "磁気式角度エンコーダICの最新調査2026-2032：市場規模276百万米ドル、今後動向を予測",
-        "source": "アットプレス",
+        "source": "atpress.ne.jp",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnY2tsRDJsejNMQ09xNHlucXRZdE16SEtudkVjZjBfVlZoZTJTOU5XUVFOd2swdEZONDZTUDZRV0JuQ0lLbjZTMVBPRzgtUQ?oc=5",
         "publishedAt": "2026-08-11T09:39:00.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "Mshale",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RVW40dE45RFBkUFZhTzE4X3oxLVcxdVBRbnBOTDV5eDN1MGhjX0ltNUZSOTVtRS1JUjNuSzBCQ2RwczZzeTU3c2xPU1J5b1ZXZUpGdHJvUVlySmc?oc=5",
         "publishedAt": "2026-08-10T22:56:22.000Z"
-      },
-      {
-        "time": "09:44",
-        "title": "世界微細気泡発生装置市場調査2026：2032年144百万米ドル規模を展望",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04cUgwMjdXUlNUWDVGWEJvai03TVI1eEtvM3V2c0NYZFZXYmd2ckZFSDc1bE54S0hPYVRrMGJYcHN4Z0dscjVzUVpybU9IVDg?oc=5",
-        "publishedAt": "2026-08-11T00:44:00.000Z"
       }
     ],
     "worldHeadlines": [

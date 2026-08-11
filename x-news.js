@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T21:48:58.354Z",
+  "updatedAt": "2026-08-11T22:18:32.068Z",
   "items": [
+    {
+      "time": "06:07",
+      "title": "台風15号は近畿地方から西へ 警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591375?source=rss",
+      "publishedAt": "2026-08-11T21:07:09.000Z",
+      "xQuery": "台風15号は近畿地方から西へ 警戒"
+    },
     {
       "time": "06:40",
       "title": "北発射のミサイル EEZ外に落下か",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "北発射のミサイル EEZ外に落下か"
     },
     {
-      "time": "06:07",
-      "title": "台風15号は近畿地方から西へ 警戒",
+      "time": "06:48",
+      "title": "元・経団連会長 奥田碩さん死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591375?source=rss",
-      "publishedAt": "2026-08-11T21:07:09.000Z",
-      "xQuery": "台風15号は近畿地方から西へ 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6591379?source=rss",
+      "publishedAt": "2026-08-11T21:48:14.000Z",
+      "xQuery": "元・経団連会長 奥田碩さん死去"
     },
     {
       "time": "22:38",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン 爆発事故で遺族に補償方針"
     },
     {
-      "time": "23:43",
-      "title": "砂浜に遺体 近くで22歳男性が不明",
+      "time": "20:59",
+      "title": "YouTube 収益化ハードル引き上げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591374?source=rss",
-      "publishedAt": "2026-08-11T14:43:55.000Z",
-      "xQuery": "砂浜に遺体 近くで22歳男性が不明"
-    },
-    {
-      "time": "22:34",
-      "title": "観覧エリアに花火落下 3人やけど",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591366?source=rss",
-      "publishedAt": "2026-08-11T13:34:28.000Z",
-      "xQuery": "観覧エリアに花火落下 3人やけど"
+      "url": "https://news.yahoo.co.jp/pickup/6591352?source=rss",
+      "publishedAt": "2026-08-11T11:59:38.000Z",
+      "xQuery": "YouTube 収益化ハードル引き上げ"
     }
   ]
 };
