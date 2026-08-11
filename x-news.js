@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T12:50:19.257Z",
+  "updatedAt": "2026-08-11T13:32:52.316Z",
   "items": [
     {
-      "time": "20:24",
-      "title": "台風15号が茨城に上陸 災害に警戒",
+      "time": "22:12",
+      "title": "台風上陸 12日も各地で大雨予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591354?source=rss",
-      "publishedAt": "2026-08-11T11:24:07.000Z",
-      "xQuery": "台風15号が茨城に上陸 災害に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6591361?source=rss",
+      "publishedAt": "2026-08-11T13:12:11.000Z",
+      "xQuery": "台風上陸 12日も各地で大雨予想"
     },
     {
       "time": "15:51",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "仏全土の7割近くで水の使用制限"
     },
     {
-      "time": "21:15",
-      "title": "茨城県に台風上陸 現地のSNS投稿",
+      "time": "22:22",
+      "title": "東北道下りで全車線塞ぐ倒木 栃木",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591349?source=rss",
-      "publishedAt": "2026-08-11T12:15:18.000Z",
-      "xQuery": "茨城県に台風上陸 現地のSNS投稿"
+      "url": "https://news.yahoo.co.jp/pickup/6591362?source=rss",
+      "publishedAt": "2026-08-11T13:22:53.000Z",
+      "xQuery": "東北道下りで全車線塞ぐ倒木 栃木"
     },
     {
       "time": "21:22",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "子供2人死亡 海の流れに識者驚き"
     },
     {
-      "time": "20:59",
-      "title": "YouTube 収益化ハードル引き上げ",
+      "time": "21:45",
+      "title": "ソニーとTSMC 合弁会社を設立へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591352?source=rss",
-      "publishedAt": "2026-08-11T11:59:38.000Z",
-      "xQuery": "YouTube 収益化ハードル引き上げ"
+      "url": "https://news.yahoo.co.jp/pickup/6591358?source=rss",
+      "publishedAt": "2026-08-11T12:45:46.000Z",
+      "xQuery": "ソニーとTSMC 合弁会社を設立へ"
     }
   ]
 };

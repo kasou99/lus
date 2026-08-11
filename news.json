@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T12:50:18.555Z",
+  "updatedAt": "2026-08-11T13:32:51.494Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-10T14:00:00.000Z"
       },
       {
+        "time": "11:50",
+        "title": "【BeastofReincarnation】施設モジュールの入手場所と使い道【ビーカネ】",
+        "source": "神ゲー攻略",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15VlMzdVpJdDlMcjRiYjd0LUFNT2l3OG8yVjJyZFUtQlRtelpMOFZmRXFSRVNDTGpLNTl1RVpmMUdWaXZ3cEc3cHl6bFE4ZFo3WDJyRFBwZ3J6bF93NnpTNkwwUjE2cl93bEczV1paeWF2Rk9YUzNhaEZfVQ?oc=5",
+        "publishedAt": "2026-08-11T02:50:10.000Z"
+      },
+      {
         "time": "17:53",
         "title": "全国の鉄道・フライト 最新情報",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6585817?source=rss",
         "publishedAt": "2026-08-11T08:53:08.000Z"
-      },
-      {
-        "time": "18:50",
-        "title": "台風帰省ラッシュ直撃 混乱広がる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591346?source=rss",
-        "publishedAt": "2026-08-11T09:50:47.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-08-11T09:50:47.000Z"
       },
       {
+        "time": "22:22",
+        "title": "東北道下りで全車線塞ぐ倒木 栃木",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591362?source=rss",
+        "publishedAt": "2026-08-11T13:22:53.000Z"
+      },
+      {
         "time": "19:39",
         "title": "アスベスト影響 半蔵門線運転再開",
         "source": "Yahoo!ニュース",
@@ -126,11 +133,11 @@
         "publishedAt": "2026-08-11T10:39:32.000Z"
       },
       {
-        "time": "16:06",
-        "title": "イオン 再入館した人数確認できず",
+        "time": "22:14",
+        "title": "イオン再入館 証言から浮かぶ混乱",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591324?source=rss",
-        "publishedAt": "2026-08-11T07:06:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591360?source=rss",
+        "publishedAt": "2026-08-11T13:14:06.000Z"
       },
       {
         "time": "12:27",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591305?source=rss",
         "publishedAt": "2026-08-11T03:27:37.000Z"
-      },
-      {
-        "time": "08:46",
-        "title": "ケーキや菓子店などの倒産 急増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591282?source=rss",
-        "publishedAt": "2026-08-10T23:46:53.000Z"
       }
     ],
     "localHeadlines": [
