@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T04:33:31.703Z",
+  "updatedAt": "2026-08-11T05:28:10.153Z",
   "items": [
     {
-      "time": "10:55",
-      "title": "台風上陸へ 午後から雨風強まるか",
+      "time": "14:10",
+      "title": "台風は夜に関東上陸へ 異例コース",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591296?source=rss",
-      "publishedAt": "2026-08-11T01:55:39.000Z",
-      "xQuery": "台風上陸へ 午後から雨風強まるか"
+      "url": "https://news.yahoo.co.jp/pickup/6591316?source=rss",
+      "publishedAt": "2026-08-11T05:10:03.000Z",
+      "xQuery": "台風は夜に関東上陸へ 異例コース"
     },
     {
-      "time": "12:09",
-      "title": "愛するから撃つ 27歳ハンター葛藤",
+      "time": "10:13",
+      "title": "露最高裁 反戦政党の選挙排除決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591304?source=rss",
-      "publishedAt": "2026-08-11T03:09:14.000Z",
-      "xQuery": "愛するから撃つ 27歳ハンター葛藤"
+      "url": "https://news.yahoo.co.jp/pickup/6591294?source=rss",
+      "publishedAt": "2026-08-11T01:13:53.000Z",
+      "xQuery": "露最高裁 反戦政党の選挙排除決定"
     },
     {
       "time": "12:27",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン 避難後の一時入館認めた"
     },
     {
-      "time": "09:37",
-      "title": "被災男性のAI加工画像が拡散 憤り",
+      "time": "13:39",
+      "title": "家族らと遊泳中溺れ 35歳女性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591286?source=rss",
-      "publishedAt": "2026-08-11T00:37:19.000Z",
-      "xQuery": "被災男性のAI加工画像が拡散 憤り"
+      "url": "https://news.yahoo.co.jp/pickup/6591309?source=rss",
+      "publishedAt": "2026-08-11T04:39:11.000Z",
+      "xQuery": "家族らと遊泳中溺れ 35歳女性死亡"
     },
     {
-      "time": "12:26",
-      "title": "豪首相が番組で性的発言か 批判",
+      "time": "13:42",
+      "title": "「2度遭難」続発 野口健さん憤り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591302?source=rss",
-      "publishedAt": "2026-08-11T03:26:49.000Z",
-      "xQuery": "豪首相が番組で性的発言か 批判"
+      "url": "https://news.yahoo.co.jp/pickup/6591311?source=rss",
+      "publishedAt": "2026-08-11T04:42:37.000Z",
+      "xQuery": "「2度遭難」続発 野口健さん憤り"
     }
   ]
 };

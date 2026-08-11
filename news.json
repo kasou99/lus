@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-11T04:33:30.946Z",
+  "updatedAt": "2026-08-11T05:28:08.440Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:03",
+        "title": "オリオン機械、DX推進 “人が歩かない工場”コンセプト",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91SDM5dVdFNFRLeW1FUUZQODJPSks1UDlMRi1lNWNqaWxaMWtiNkI5MFJOQmJFeVdNWENTZ1V4VDZpR0JlSWFlRS1uekNlaDFvbkhMdlVRRjdxYVE?oc=5",
+        "publishedAt": "2026-08-10T20:03:07.000Z"
+      },
       {
         "time": "09:44",
         "title": "世界微細気泡発生装置市場調査2026：2032年144百万米ドル規模を展望",
@@ -10,25 +17,11 @@
         "publishedAt": "2026-08-11T00:44:00.000Z"
       },
       {
-        "time": "06:16",
-        "title": "AI代理購入を安全に 大日印、権限管理基盤を提供",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16U0VJeWpnZm5xOWRxbWhaeGFGTDZTVzdwcmxINUFnMWpGYm9IdjYtZHJoaHlzVlFvYXJPRWc2Y21yM1BoRkJlQ1N2c3ZLM2tpeXgwTTcxREdiYk0?oc=5",
-        "publishedAt": "2026-08-10T21:16:25.000Z"
-      },
-      {
         "time": "23:00",
         "title": "フレキシブルビームカップリング市場規模分析レポート：2026年は1572百万米ドルに到達予測｜QYResearch",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wSmN1MmZEVWJPZWxOcTY5ekZJLVo2STBsSmZRMzBCbUxIeXBOR1lZNzE3eGprM3NsandrOXhVaEwxM3VveXc4UmFQMTNKV0hPS1JXSHBVNA?oc=5",
         "publishedAt": "2026-08-10T14:00:00.000Z"
-      },
-      {
-        "time": "10:28",
-        "title": "製紙工場の煙道・煙突点検に360°カメラ搭載マイクロドローンを活用、リックスとアイ・ロボティクス 企業リリース",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZbDg0Nk12Q3BJbkpyWHllbGZQTUNHMXFOTnpxRVNZemd5U0xLQ0ZSTHZOX0FFSUlWaHJmWExhdDVWQjBNM255QWNJYnRjR2JHTGFOT3IxN3I?oc=5",
-        "publishedAt": "2026-08-11T01:28:19.000Z"
       },
       {
         "time": "10:15",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591289?source=rss",
         "publishedAt": "2026-08-11T01:06:28.000Z"
+      },
+      {
+        "time": "22:13",
+        "title": "協調介入 日銀利上げ示唆が決め手",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591255?source=rss",
+        "publishedAt": "2026-08-10T13:13:43.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:14",
+        "title": "被災しても避難所に行けない なぜ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591315?source=rss",
+        "publishedAt": "2026-08-11T05:14:19.000Z"
+      },
+      {
         "time": "10:50",
         "title": "お腹の中で被爆 周囲の心ない言葉",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591297?source=rss",
         "publishedAt": "2026-08-11T01:50:28.000Z"
-      },
-      {
-        "time": "23:47",
-        "title": "避難所に幼なじみ 70年ぶりの再会",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591263?source=rss",
-        "publishedAt": "2026-08-10T14:47:09.000Z"
       },
       {
         "time": "12:09",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-08-10T23:26:37.000Z"
       },
       {
-        "time": "11:28",
-        "title": "サーファーの聖地で18歳不明 高知",
+        "time": "13:39",
+        "title": "家族らと遊泳中溺れ 35歳女性死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591300?source=rss",
-        "publishedAt": "2026-08-11T02:28:48.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591309?source=rss",
+        "publishedAt": "2026-08-11T04:39:11.000Z"
       },
       {
-        "time": "20:44",
-        "title": "中1と小3死亡 遊具があおられ落水",
+        "time": "13:49",
+        "title": "母の救助中に流され 18歳行方不明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591245?source=rss",
-        "publishedAt": "2026-08-10T11:44:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591313?source=rss",
+        "publishedAt": "2026-08-11T04:49:33.000Z"
       }
     ],
     "subsidyHeadlines": [
