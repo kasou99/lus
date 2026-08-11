@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T09:50:45.841Z",
+  "updatedAt": "2026-08-11T10:22:04.038Z",
   "items": [
     {
       "time": "17:18",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風が関東上陸へ 大雨に厳重警戒"
     },
     {
-      "time": "16:45",
-      "title": "息子が戦死 5年葬式しなかった母",
+      "time": "18:50",
+      "title": "台風帰省ラッシュ直撃 混乱広がる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591329?source=rss",
-      "publishedAt": "2026-08-11T07:45:24.000Z",
-      "xQuery": "息子が戦死 5年葬式しなかった母"
+      "url": "https://news.yahoo.co.jp/pickup/6591346?source=rss",
+      "publishedAt": "2026-08-11T09:50:47.000Z",
+      "xQuery": "台風帰省ラッシュ直撃 混乱広がる"
     },
     {
       "time": "18:29",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "家族と体験ダイビング中溺れ 死亡"
     },
     {
-      "time": "16:34",
-      "title": "半蔵門線の運転再開は「本日中」",
+      "time": "18:41",
+      "title": "小1で難病診断され 向き合う16歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591330?source=rss",
-      "publishedAt": "2026-08-11T07:34:08.000Z",
-      "xQuery": "半蔵門線の運転再開は「本日中」"
+      "url": "https://news.yahoo.co.jp/pickup/6591345?source=rss",
+      "publishedAt": "2026-08-11T09:41:25.000Z",
+      "xQuery": "小1で難病診断され 向き合う16歳"
     }
   ]
 };
