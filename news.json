@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-08-11T21:20:03.401Z",
+  "updatedAt": "2026-08-11T21:48:57.748Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:33",
+        "title": "今日の注目スケジュール：工作機械受注、米消費者物価コア指数、米財政収支など(フィスコ)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0h2cTd0bUs5SkFKeUFQRnVrNlpHN29XT2VLb0o3VEdNLUVoN1hvdFJSQ09GdVBWcWdoTG5FWk1DSm0yUUFEajJDelRLd1NUSVN4R3BLRHczX3RicV92Q0NFOWxHY3ZUbDdZbjF4aUIzbGhQWFNjY3oyQ0lXdEtmdXZZTndVSUE?oc=5",
+        "publishedAt": "2026-08-11T21:33:39.000Z"
+      },
       {
         "time": "23:22",
         "title": "都内中小、GXで貢献 グローバルサウス脱炭素化促進",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxSGx4YUc5TGp0dXlfWXI4VDVoQTVNeDI1MndlQmQ3WnpmMHQ5S2ZiNzVTekxETVBKdnc5QzBXX3RKNFVKcllyY0VpXzdsWkJCNXRITzNDdENvM0VpRzdRbE9lMWRreVdzZEFFTVgzMEtuWi1t?oc=5",
         "publishedAt": "2026-08-11T14:22:44.000Z"
+      },
+      {
+        "time": "06:40",
+        "title": "本日のスケジュール｜FX・為替ニュース",
+        "source": "ザイFX！",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kVHdsdWJYaUF6RjFVdUU2dGZieGl1WkFGU0VPUXNFUzc5bE0wRGE1M241clZLaXhwX1ZIUUxxdmZ2TzJOVzQ0eDJiRWVyYzBaZlE?oc=5",
+        "publishedAt": "2026-08-11T21:40:00.000Z"
       },
       {
         "time": "18:39",
@@ -43,23 +57,16 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04cUgwMjdXUlNUWDVGWEJvai03TVI1eEtvM3V2c0NYZFZXYmd2ckZFSDc1bE54S0hPYVRrMGJYcHN4Z0dscjVzUVpybU9IVDg?oc=5",
         "publishedAt": "2026-08-11T00:44:00.000Z"
-      },
-      {
-        "time": "11:50",
-        "title": "【BeastofReincarnation】施設モジュールの入手場所と使い道【ビーカネ】",
-        "source": "神ゲー攻略",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15VlMzdVpJdDlMcjRiYjd0LUFNT2l3OG8yVjJyZFUtQlRtelpMOFZmRXFSRVNDTGpLNTl1RVpmMUdWaXZ3cEc3cHl6bFE4ZFo3WDJyRFBwZ3J6bF93NnpTNkwwUjE2cl93bEczV1paeWF2Rk9YUzNhaEZfVQ?oc=5",
-        "publishedAt": "2026-08-11T02:50:10.000Z"
-      },
-      {
-        "time": "18:50",
-        "title": "台風帰省ラッシュ直撃 混乱広がる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591346?source=rss",
-        "publishedAt": "2026-08-11T09:50:47.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "06:40",
+        "title": "北発射のミサイル EEZ外に落下か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591378?source=rss",
+        "publishedAt": "2026-08-11T21:40:40.000Z"
+      },
       {
         "time": "19:53",
         "title": "シリア裁判所 前大統領に死刑判決",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591372?source=rss",
         "publishedAt": "2026-08-11T14:16:56.000Z"
-      },
-      {
-        "time": "15:51",
-        "title": "仏全土の7割近くで水の使用制限",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591325?source=rss",
-        "publishedAt": "2026-08-11T06:51:32.000Z"
       }
     ],
     "economyHeadlines": [
@@ -112,11 +112,11 @@
         "publishedAt": "2026-08-11T09:50:47.000Z"
       },
       {
-        "time": "08:46",
-        "title": "ケーキや菓子店などの倒産 急増",
+        "time": "06:48",
+        "title": "元・経団連会長 奥田碩さん死去",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591282?source=rss",
-        "publishedAt": "2026-08-10T23:46:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591379?source=rss",
+        "publishedAt": "2026-08-11T21:48:14.000Z"
       },
       {
         "time": "22:38",

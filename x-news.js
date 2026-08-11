@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T21:20:04.168Z",
+  "updatedAt": "2026-08-11T21:48:58.354Z",
   "items": [
+    {
+      "time": "06:40",
+      "title": "北発射のミサイル EEZ外に落下か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591378?source=rss",
+      "publishedAt": "2026-08-11T21:40:40.000Z",
+      "xQuery": "北発射のミサイル EEZ外に落下か"
+    },
     {
       "time": "06:07",
       "title": "台風15号は近畿地方から西へ 警戒",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591374?source=rss",
       "publishedAt": "2026-08-11T14:43:55.000Z",
       "xQuery": "砂浜に遺体 近くで22歳男性が不明"
-    },
-    {
-      "time": "21:22",
-      "title": "子供2人死亡 海の流れに識者驚き",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591355?source=rss",
-      "publishedAt": "2026-08-11T12:22:54.000Z",
-      "xQuery": "子供2人死亡 海の流れに識者驚き"
     },
     {
       "time": "22:34",
