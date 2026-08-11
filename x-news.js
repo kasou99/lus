@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T20:48:28.456Z",
+  "updatedAt": "2026-08-11T21:20:04.168Z",
   "items": [
     {
-      "time": "22:12",
-      "title": "台風上陸 12日も各地で大雨予想",
+      "time": "06:07",
+      "title": "台風15号は近畿地方から西へ 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591361?source=rss",
-      "publishedAt": "2026-08-11T13:12:11.000Z",
-      "xQuery": "台風上陸 12日も各地で大雨予想"
-    },
-    {
-      "time": "08:46",
-      "title": "ケーキや菓子店などの倒産 急増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591282?source=rss",
-      "publishedAt": "2026-08-10T23:46:53.000Z",
-      "xQuery": "ケーキや菓子店などの倒産 急増"
+      "url": "https://news.yahoo.co.jp/pickup/6591375?source=rss",
+      "publishedAt": "2026-08-11T21:07:09.000Z",
+      "xQuery": "台風15号は近畿地方から西へ 警戒"
     },
     {
       "time": "22:38",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591355?source=rss",
       "publishedAt": "2026-08-11T12:22:54.000Z",
       "xQuery": "子供2人死亡 海の流れに識者驚き"
+    },
+    {
+      "time": "22:34",
+      "title": "観覧エリアに花火落下 3人やけど",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591366?source=rss",
+      "publishedAt": "2026-08-11T13:34:28.000Z",
+      "xQuery": "観覧エリアに花火落下 3人やけど"
     }
   ]
 };
