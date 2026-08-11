@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T05:53:06.726Z",
+  "updatedAt": "2026-08-11T06:25:33.735Z",
   "items": [
     {
       "time": "14:10",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風は夜に関東上陸へ 異例コース"
     },
     {
-      "time": "10:13",
-      "title": "露最高裁 反戦政党の選挙排除決定",
+      "time": "14:14",
+      "title": "被災しても避難所に行けない なぜ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591294?source=rss",
-      "publishedAt": "2026-08-11T01:13:53.000Z",
-      "xQuery": "露最高裁 反戦政党の選挙排除決定"
+      "url": "https://news.yahoo.co.jp/pickup/6591315?source=rss",
+      "publishedAt": "2026-08-11T05:14:19.000Z",
+      "xQuery": "被災しても避難所に行けない なぜ"
     },
     {
       "time": "12:27",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン 避難後の一時入館認めた"
     },
     {
+      "time": "10:13",
+      "title": "露最高裁 反戦政党の選挙排除決定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591294?source=rss",
+      "publishedAt": "2026-08-11T01:13:53.000Z",
+      "xQuery": "露最高裁 反戦政党の選挙排除決定"
+    },
+    {
       "time": "13:39",
       "title": "家族らと遊泳中溺れ 35歳女性死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591309?source=rss",
       "publishedAt": "2026-08-11T04:39:11.000Z",
       "xQuery": "家族らと遊泳中溺れ 35歳女性死亡"
-    },
-    {
-      "time": "13:42",
-      "title": "「2度遭難」続発 野口健さん憤り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591311?source=rss",
-      "publishedAt": "2026-08-11T04:42:37.000Z",
-      "xQuery": "「2度遭難」続発 野口健さん憤り"
     }
   ]
 };
