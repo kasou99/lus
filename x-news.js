@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T06:51:05.476Z",
+  "updatedAt": "2026-08-11T07:31:07.736Z",
   "items": [
     {
       "time": "14:10",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "台風は夜に関東上陸へ 異例コース"
     },
     {
-      "time": "14:14",
-      "title": "被災しても避難所に行けない なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591315?source=rss",
-      "publishedAt": "2026-08-11T05:14:19.000Z",
-      "xQuery": "被災しても避難所に行けない なぜ"
-    },
-    {
       "time": "14:56",
       "title": "首相の人事 麻生氏の意向反映焦点",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "首相の人事 麻生氏の意向反映焦点"
     },
     {
-      "time": "12:27",
-      "title": "イオン 避難後の一時入館認めた",
+      "time": "15:42",
+      "title": "米大統領専用機おとりに使用 報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591305?source=rss",
-      "publishedAt": "2026-08-11T03:27:37.000Z",
-      "xQuery": "イオン 避難後の一時入館認めた"
+      "url": "https://news.yahoo.co.jp/pickup/6591323?source=rss",
+      "publishedAt": "2026-08-11T06:42:59.000Z",
+      "xQuery": "米大統領専用機おとりに使用 報道"
     },
     {
-      "time": "13:39",
-      "title": "家族らと遊泳中溺れ 35歳女性死亡",
+      "time": "16:10",
+      "title": "東京・多摩川で男性が溺れる 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591309?source=rss",
-      "publishedAt": "2026-08-11T04:39:11.000Z",
-      "xQuery": "家族らと遊泳中溺れ 35歳女性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6591326?source=rss",
+      "publishedAt": "2026-08-11T07:10:01.000Z",
+      "xQuery": "東京・多摩川で男性が溺れる 死亡"
+    },
+    {
+      "time": "13:42",
+      "title": "「2度遭難」続発 野口健さん憤り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591311?source=rss",
+      "publishedAt": "2026-08-11T04:42:37.000Z",
+      "xQuery": "「2度遭難」続発 野口健さん憤り"
     }
   ]
 };
