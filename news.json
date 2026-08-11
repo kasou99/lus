@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T00:55:05.458Z",
+  "updatedAt": "2026-08-11T01:35:57.963Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-08-10T11:55:39.000Z"
       },
       {
+        "time": "10:06",
+        "title": "ANAが計58便欠航 台風がお盆直撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591289?source=rss",
+        "publishedAt": "2026-08-11T01:06:28.000Z"
+      },
+      {
         "time": "22:13",
         "title": "協調介入 日銀利上げ示唆が決め手",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591255?source=rss",
         "publishedAt": "2026-08-10T13:13:43.000Z"
-      },
-      {
-        "time": "19:48",
-        "title": "台風 東北新幹線で遅れや運休恐れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591237?source=rss",
-        "publishedAt": "2026-08-10T10:48:30.000Z"
       },
       {
         "time": "08:56",
@@ -68,11 +68,11 @@
         "publishedAt": "2026-08-11T00:06:04.000Z"
       },
       {
-        "time": "21:42",
-        "title": "イラン最高指導者 大統領と面会",
+        "time": "08:05",
+        "title": "中国で複数邦人の拘束が判明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591127?source=rss",
-        "publishedAt": "2026-08-09T12:42:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591277?source=rss",
+        "publishedAt": "2026-08-10T23:05:46.000Z"
       },
       {
         "time": "22:35",
@@ -82,11 +82,18 @@
         "publishedAt": "2026-08-09T13:35:29.000Z"
       },
       {
-        "time": "08:05",
-        "title": "中国で複数邦人の拘束が判明",
+        "time": "21:42",
+        "title": "イラン最高指導者 大統領と面会",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591277?source=rss",
-        "publishedAt": "2026-08-10T23:05:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591127?source=rss",
+        "publishedAt": "2026-08-09T12:42:37.000Z"
+      },
+      {
+        "time": "10:13",
+        "title": "露最高裁 反戦政党の選挙排除決定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591294?source=rss",
+        "publishedAt": "2026-08-11T01:13:53.000Z"
       },
       {
         "time": "07:19",
@@ -94,29 +101,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591270?source=rss",
         "publishedAt": "2026-08-10T22:19:52.000Z"
-      },
-      {
-        "time": "09:58",
-        "title": "NY自由の女神観光で転覆 2人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591161?source=rss",
-        "publishedAt": "2026-08-10T00:58:06.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "10:06",
+        "title": "ANAが計58便欠航 台風がお盆直撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591289?source=rss",
+        "publishedAt": "2026-08-11T01:06:28.000Z"
+      },
       {
         "time": "22:13",
         "title": "協調介入 日銀利上げ示唆が決め手",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591255?source=rss",
         "publishedAt": "2026-08-10T13:13:43.000Z"
-      },
-      {
-        "time": "19:48",
-        "title": "台風 東北新幹線で遅れや運休恐れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591237?source=rss",
-        "publishedAt": "2026-08-10T10:48:30.000Z"
       },
       {
         "time": "08:56",

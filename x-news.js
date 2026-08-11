@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T00:55:06.261Z",
+  "updatedAt": "2026-08-11T01:35:59.082Z",
   "items": [
     {
-      "time": "07:26",
-      "title": "台風が関東上陸へ 交通乱れに注意",
+      "time": "10:10",
+      "title": "減税に伴う地方減収 国穴埋め検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591272?source=rss",
-      "publishedAt": "2026-08-10T22:26:28.000Z",
-      "xQuery": "台風が関東上陸へ 交通乱れに注意"
+      "url": "https://news.yahoo.co.jp/pickup/6591288?source=rss",
+      "publishedAt": "2026-08-11T01:10:23.000Z",
+      "xQuery": "減税に伴う地方減収 国穴埋め検討"
+    },
+    {
+      "time": "09:43",
+      "title": "横浜市長パワハラ説明へ 注目点は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591287?source=rss",
+      "publishedAt": "2026-08-11T00:43:39.000Z",
+      "xQuery": "横浜市長パワハラ説明へ 注目点は"
     },
     {
       "time": "09:06",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 イランの賠償要求に対抗"
     },
     {
+      "time": "10:06",
+      "title": "ANAが計58便欠航 台風がお盆直撃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591289?source=rss",
+      "publishedAt": "2026-08-11T01:06:28.000Z",
+      "xQuery": "ANAが計58便欠航 台風がお盆直撃"
+    },
+    {
       "time": "08:05",
       "title": "中国で複数邦人の拘束が判明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591277?source=rss",
       "publishedAt": "2026-08-10T23:05:46.000Z",
       "xQuery": "中国で複数邦人の拘束が判明"
-    },
-    {
-      "time": "08:26",
-      "title": "母殺害疑い娘が投げ銭1千万円以上",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591280?source=rss",
-      "publishedAt": "2026-08-10T23:26:37.000Z",
-      "xQuery": "母殺害疑い娘が投げ銭1千万円以上"
-    },
-    {
-      "time": "08:56",
-      "title": "半蔵門線の一部 午後再開を目指す",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591283?source=rss",
-      "publishedAt": "2026-08-10T23:56:40.000Z",
-      "xQuery": "半蔵門線の一部 午後再開を目指す"
     }
   ]
 };
