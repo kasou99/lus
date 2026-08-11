@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T11:19:38.138Z",
+  "updatedAt": "2026-08-11T11:48:06.719Z",
   "items": [
     {
-      "time": "17:18",
-      "title": "台風が関東上陸へ 大雨に厳重警戒",
+      "time": "20:24",
+      "title": "台風15号が茨城に上陸 災害に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591338?source=rss",
-      "publishedAt": "2026-08-11T08:18:31.000Z",
-      "xQuery": "台風が関東上陸へ 大雨に厳重警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6591354?source=rss",
+      "publishedAt": "2026-08-11T11:24:07.000Z",
+      "xQuery": "台風15号が茨城に上陸 災害に警戒"
     },
     {
       "time": "19:53",
