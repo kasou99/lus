@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T03:36:34.788Z",
+  "updatedAt": "2026-08-11T04:33:31.703Z",
   "items": [
     {
       "time": "10:55",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591296?source=rss",
       "publishedAt": "2026-08-11T01:55:39.000Z",
       "xQuery": "台風上陸へ 午後から雨風強まるか"
-    },
-    {
-      "time": "10:50",
-      "title": "お腹の中で被爆 周囲の心ない言葉",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591297?source=rss",
-      "publishedAt": "2026-08-11T01:50:28.000Z",
-      "xQuery": "お腹の中で被爆 周囲の心ない言葉"
     },
     {
       "time": "12:09",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン 避難後の一時入館認めた"
     },
     {
-      "time": "11:28",
-      "title": "サーファーの聖地で18歳不明 高知",
+      "time": "09:37",
+      "title": "被災男性のAI加工画像が拡散 憤り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591300?source=rss",
-      "publishedAt": "2026-08-11T02:28:48.000Z",
-      "xQuery": "サーファーの聖地で18歳不明 高知"
+      "url": "https://news.yahoo.co.jp/pickup/6591286?source=rss",
+      "publishedAt": "2026-08-11T00:37:19.000Z",
+      "xQuery": "被災男性のAI加工画像が拡散 憤り"
+    },
+    {
+      "time": "12:26",
+      "title": "豪首相が番組で性的発言か 批判",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591302?source=rss",
+      "publishedAt": "2026-08-11T03:26:49.000Z",
+      "xQuery": "豪首相が番組で性的発言か 批判"
     }
   ]
 };
