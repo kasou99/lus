@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T11:48:06.719Z",
+  "updatedAt": "2026-08-11T12:22:40.272Z",
   "items": [
     {
       "time": "20:24",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "理想のママ像 追い詰められた女性"
     },
     {
-      "time": "19:39",
-      "title": "アスベスト影響 半蔵門線運転再開",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591350?source=rss",
-      "publishedAt": "2026-08-11T10:39:32.000Z",
-      "xQuery": "アスベスト影響 半蔵門線運転再開"
-    },
-    {
       "time": "17:49",
       "title": "家族と体験ダイビング中溺れ 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591340?source=rss",
       "publishedAt": "2026-08-11T08:49:18.000Z",
       "xQuery": "家族と体験ダイビング中溺れ 死亡"
+    },
+    {
+      "time": "19:39",
+      "title": "アスベスト影響 半蔵門線運転再開",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591350?source=rss",
+      "publishedAt": "2026-08-11T10:39:32.000Z",
+      "xQuery": "アスベスト影響 半蔵門線運転再開"
     }
   ]
 };
