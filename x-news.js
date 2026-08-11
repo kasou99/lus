@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T13:32:52.316Z",
+  "updatedAt": "2026-08-11T14:29:42.093Z",
   "items": [
     {
       "time": "22:12",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "台風上陸 12日も各地で大雨予想"
     },
     {
-      "time": "15:51",
-      "title": "仏全土の7割近くで水の使用制限",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591325?source=rss",
-      "publishedAt": "2026-08-11T06:51:32.000Z",
-      "xQuery": "仏全土の7割近くで水の使用制限"
-    },
-    {
       "time": "22:22",
       "title": "東北道下りで全車線塞ぐ倒木 栃木",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "東北道下りで全車線塞ぐ倒木 栃木"
     },
     {
+      "time": "22:38",
+      "title": "イオン 爆発事故で遺族に補償方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591365?source=rss",
+      "publishedAt": "2026-08-11T13:38:51.000Z",
+      "xQuery": "イオン 爆発事故で遺族に補償方針"
+    },
+    {
+      "time": "21:42",
+      "title": "コンゴ エボラ死者が2000人超える",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591357?source=rss",
+      "publishedAt": "2026-08-11T12:42:26.000Z",
+      "xQuery": "コンゴ エボラ死者が2000人超える"
+    },
+    {
       "time": "21:22",
       "title": "子供2人死亡 海の流れに識者驚き",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591355?source=rss",
       "publishedAt": "2026-08-11T12:22:54.000Z",
       "xQuery": "子供2人死亡 海の流れに識者驚き"
-    },
-    {
-      "time": "21:45",
-      "title": "ソニーとTSMC 合弁会社を設立へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591358?source=rss",
-      "publishedAt": "2026-08-11T12:45:46.000Z",
-      "xQuery": "ソニーとTSMC 合弁会社を設立へ"
     }
   ]
 };
