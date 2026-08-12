@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T00:33:43.148Z",
+  "updatedAt": "2026-08-12T01:36:41.087Z",
   "items": [
     {
-      "time": "08:18",
-      "title": "台風は山陰沖へ 本州は大雨警戒",
+      "time": "10:03",
+      "title": "台風15号は熱帯低気圧に 大雨注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591389?source=rss",
-      "publishedAt": "2026-08-11T23:18:51.000Z",
-      "xQuery": "台風は山陰沖へ 本州は大雨警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6591404?source=rss",
+      "publishedAt": "2026-08-12T01:03:07.000Z",
+      "xQuery": "台風15号は熱帯低気圧に 大雨注意"
     },
     {
       "time": "08:45",
