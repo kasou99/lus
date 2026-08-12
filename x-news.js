@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T13:34:12.310Z",
+  "updatedAt": "2026-08-12T14:30:00.229Z",
   "items": [
+    {
+      "time": "22:04",
+      "title": "日航機墜落 遺体安置された体育館",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591497?source=rss",
+      "publishedAt": "2026-08-12T13:04:23.000Z",
+      "xQuery": "日航機墜落 遺体安置された体育館"
+    },
     {
       "time": "21:19",
       "title": "地震で観光業約60億円被害 熊本県",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "地震で観光業約60億円被害 熊本県"
     },
     {
-      "time": "21:11",
-      "title": "首相 15日の靖国参拝を見送る方向",
+      "time": "22:23",
+      "title": "空襲で姉犠牲 地元高1がアニメに",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591492?source=rss",
-      "publishedAt": "2026-08-12T12:11:42.000Z",
-      "xQuery": "首相 15日の靖国参拝を見送る方向"
+      "url": "https://news.yahoo.co.jp/pickup/6591500?source=rss",
+      "publishedAt": "2026-08-12T13:23:33.000Z",
+      "xQuery": "空襲で姉犠牲 地元高1がアニメに"
     },
     {
       "time": "22:18",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露大統領 北方領土は「ロシア領」"
     },
     {
-      "time": "22:04",
-      "title": "日航機墜落 遺体安置された体育館",
+      "time": "22:53",
+      "title": "奇跡に近い 900m流された親子救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591497?source=rss",
-      "publishedAt": "2026-08-12T13:04:23.000Z",
-      "xQuery": "日航機墜落 遺体安置された体育館"
-    },
-    {
-      "time": "20:37",
-      "title": "イオン爆発 ハビタが「補償模索」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591485?source=rss",
-      "publishedAt": "2026-08-12T11:37:21.000Z",
-      "xQuery": "イオン爆発 ハビタが「補償模索」"
+      "url": "https://news.yahoo.co.jp/pickup/6591504?source=rss",
+      "publishedAt": "2026-08-12T13:53:15.000Z",
+      "xQuery": "奇跡に近い 900m流された親子救助"
     }
   ]
 };
