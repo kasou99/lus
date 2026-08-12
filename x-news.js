@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T01:36:41.087Z",
+  "updatedAt": "2026-08-12T02:58:19.587Z",
   "items": [
     {
-      "time": "10:03",
-      "title": "台風15号は熱帯低気圧に 大雨注意",
+      "time": "07:39",
+      "title": "熊本地震2週間 仮設住宅整備進む",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591404?source=rss",
-      "publishedAt": "2026-08-12T01:03:07.000Z",
-      "xQuery": "台風15号は熱帯低気圧に 大雨注意"
+      "url": "https://news.yahoo.co.jp/pickup/6591383?source=rss",
+      "publishedAt": "2026-08-11T22:39:41.000Z",
+      "xQuery": "熊本地震2週間 仮設住宅整備進む"
     },
     {
-      "time": "08:45",
-      "title": "ミサイル発射 北朝鮮に小泉氏抗議",
+      "time": "09:53",
+      "title": "終戦3日前の満州 集団自決の証言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591395?source=rss",
-      "publishedAt": "2026-08-11T23:45:00.000Z",
-      "xQuery": "ミサイル発射 北朝鮮に小泉氏抗議"
+      "url": "https://news.yahoo.co.jp/pickup/6591402?source=rss",
+      "publishedAt": "2026-08-12T00:53:07.000Z",
+      "xQuery": "終戦3日前の満州 集団自決の証言"
     },
     {
-      "time": "07:51",
-      "title": "日航機墜落事故41年 犠牲者を悼む",
+      "time": "08:22",
+      "title": "コロンビア地震 行方不明3000人超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591387?source=rss",
-      "publishedAt": "2026-08-11T22:51:30.000Z",
-      "xQuery": "日航機墜落事故41年 犠牲者を悼む"
+      "url": "https://news.yahoo.co.jp/pickup/6591391?source=rss",
+      "publishedAt": "2026-08-11T23:22:20.000Z",
+      "xQuery": "コロンビア地震 行方不明3000人超"
     },
     {
-      "time": "08:19",
-      "title": "オフロード走行中か 車滑落し死亡",
+      "time": "11:15",
+      "title": "台風17号発生 来週以降に影響恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591390?source=rss",
-      "publishedAt": "2026-08-11T23:19:27.000Z",
-      "xQuery": "オフロード走行中か 車滑落し死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6591411?source=rss",
+      "publishedAt": "2026-08-12T02:15:53.000Z",
+      "xQuery": "台風17号発生 来週以降に影響恐れ"
     },
     {
-      "time": "08:17",
-      "title": "「四国新幹線」実現なるか 現状は",
+      "time": "11:33",
+      "title": "スポーツ用品大手オン 株価急落",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591392?source=rss",
-      "publishedAt": "2026-08-11T23:17:08.000Z",
-      "xQuery": "「四国新幹線」実現なるか 現状は"
+      "url": "https://news.yahoo.co.jp/pickup/6591414?source=rss",
+      "publishedAt": "2026-08-12T02:33:53.000Z",
+      "xQuery": "スポーツ用品大手オン 株価急落"
     }
   ]
 };
