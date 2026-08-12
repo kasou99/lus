@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-12T04:38:53.987Z",
+  "updatedAt": "2026-08-12T05:35:02.484Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:00",
+        "title": "厚さ計測と多目的用途に新たな工作機械用プローブ、JIMTOF2026で初公開へ",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jYnZvWEk0bkcxLUF6Sk5nSW1wdFRNZFJJNXhNVW9FeDFzUkpfb25jMjM0d0x4N3ZtellTU2NNU2hPZVVtNGdJQUJlWnp1MUo2YjJiendDbGxWZ3ZWeXlFVWxyZHlEYndaWnVpMnJCcw?oc=5",
+        "publishedAt": "2026-08-12T04:00:00.000Z"
+      },
       {
         "time": "12:00",
         "title": "CNC工作機械用旋削工具ホルダーの世界市場（2026年～2032年）、市場規模（内部旋削工具ホルダー、外部旋削工具ホルダー）・分析レポートを発表",
@@ -26,7 +33,7 @@
       {
         "time": "06:30",
         "title": "今日の注目スケジュール：工作機械受注、米消費者物価コア指数、米財政収支など",
-        "source": "ｄメニューニュース",
+        "source": "topics.smt.docomo.ne.jp",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXV1OWlfMWRmYnM1MG14R2NRWURLWFBFMHdCS25lZE96TE5ZVHdNaHBDX3pUWnhUOEVhRDh4akdBMXpmOXY2WThVdTNqWmo4SUZUZkp5dWFQODRDVVVZekU3RWtLb19iNW1kTGh0QnpYZ1BYNXpwVVE3T1AyLW1uQlEyMkpyWWQ1aUZvTNIBjAFBVV95cUxPdXV1OWlfMWRmYnM1MG14R2NRWURLWFBFMHdCS25lZE96TE5ZVHdNaHBDX3pUWnhUOEVhRDh4akdBMXpmOXY2WThVdTNqWmo4SUZUZkp5dWFQODRDVVVZekU3RWtLb19iNW1kTGh0QnpYZ1BYNXpwVVE3T1AyLW1uQlEyMkpyWWQ1aUZvTA?oc=5",
         "publishedAt": "2026-08-11T21:30:00.000Z"
       },
@@ -43,13 +50,6 @@
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGxnUDR5TWZfbGc5ZjVNU0ZUQVZSWjZ0a2puY2JObExqWGxzMXhFam5fNDIzODJ3Ql9zRUpRRVNBS2NUeXdlNE1KNUVJX3BGZWY2TUFKV09tYjBmel93bWFsRHNLa0p0SjZLVUFSWU8tOTUwdXlGODN2TG9hVkNwTVNUSVQ4RUk?oc=5",
         "publishedAt": "2026-08-11T22:06:00.000Z"
-      },
-      {
-        "time": "23:22",
-        "title": "都内中小、GXで貢献 グローバルサウス脱炭素化促進",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxSGx4YUc5TGp0dXlfWXI4VDVoQTVNeDI1MndlQmQ3WnpmMHQ5S2ZiNzVTekxETVBKdnc5QzBXX3RKNFVKcllyY0VpXzdsWkJCNXRITzNDdENvM0VpRzdRbE9lMWRreVdzZEFFTVgzMEtuWi1t?oc=5",
-        "publishedAt": "2026-08-11T14:22:44.000Z"
       },
       {
         "time": "06:15",
@@ -75,11 +75,18 @@
         "publishedAt": "2026-08-12T04:33:55.000Z"
       },
       {
-        "time": "15:42",
-        "title": "米大統領専用機おとりに使用 報道",
+        "time": "13:46",
+        "title": "ウ 米側に対露戦争終結の計画案",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591323?source=rss",
-        "publishedAt": "2026-08-11T06:42:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591430?source=rss",
+        "publishedAt": "2026-08-12T04:46:54.000Z"
+      },
+      {
+        "time": "13:46",
+        "title": "日本の重慶総領事「代行」で就任",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591436?source=rss",
+        "publishedAt": "2026-08-12T04:46:08.000Z"
       },
       {
         "time": "08:22",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591406?source=rss",
         "publishedAt": "2026-08-12T01:41:28.000Z"
-      },
-      {
-        "time": "19:53",
-        "title": "シリア裁判所 前大統領に死刑判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591351?source=rss",
-        "publishedAt": "2026-08-11T10:53:09.000Z"
       }
     ],
     "economyHeadlines": [

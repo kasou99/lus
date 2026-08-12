@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T04:38:54.459Z",
+  "updatedAt": "2026-08-12T05:35:03.164Z",
   "items": [
     {
-      "time": "13:13",
-      "title": "熊本・長崎で震度4 津波心配なし",
+      "time": "13:28",
+      "title": "九州や四国中心に厳しい暑さ 注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591432?source=rss",
-      "publishedAt": "2026-08-12T04:13:25.000Z",
-      "xQuery": "熊本・長崎で震度4 津波心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6591427?source=rss",
+      "publishedAt": "2026-08-12T04:28:32.000Z",
+      "xQuery": "九州や四国中心に厳しい暑さ 注意"
     },
     {
-      "time": "12:14",
-      "title": "熱帯低気圧 広い範囲で大雨に注意",
+      "time": "13:46",
+      "title": "ウ 米側に対露戦争終結の計画案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591417?source=rss",
-      "publishedAt": "2026-08-12T03:14:49.000Z",
-      "xQuery": "熱帯低気圧 広い範囲で大雨に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6591430?source=rss",
+      "publishedAt": "2026-08-12T04:46:54.000Z",
+      "xQuery": "ウ 米側に対露戦争終結の計画案"
     },
     {
-      "time": "12:47",
-      "title": "日本兵と戦わされた 英植民地男性",
+      "time": "13:57",
+      "title": "元厚労相・坂口力氏が死去 92歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591422?source=rss",
-      "publishedAt": "2026-08-12T03:47:00.000Z",
-      "xQuery": "日本兵と戦わされた 英植民地男性"
+      "url": "https://news.yahoo.co.jp/pickup/6591437?source=rss",
+      "publishedAt": "2026-08-12T04:57:56.000Z",
+      "xQuery": "元厚労相・坂口力氏が死去 92歳"
     },
     {
-      "time": "12:25",
-      "title": "奥田碩さん死去 プリウスに尽力",
+      "time": "13:46",
+      "title": "日本の重慶総領事「代行」で就任",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591420?source=rss",
-      "publishedAt": "2026-08-12T03:25:35.000Z",
-      "xQuery": "奥田碩さん死去 プリウスに尽力"
+      "url": "https://news.yahoo.co.jp/pickup/6591436?source=rss",
+      "publishedAt": "2026-08-12T04:46:08.000Z",
+      "xQuery": "日本の重慶総領事「代行」で就任"
     },
     {
       "time": "12:51",
