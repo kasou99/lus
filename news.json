@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T05:35:02.484Z",
+  "updatedAt": "2026-08-12T06:36:12.986Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XMk93WVJTa3V2X1hGNXp5N3JOY3RDeUJVVzlvWmRNRzBsU1BXcFZWN2VWNmtjeHVXQ1RIbkkxQVhpZ0FFVi0wb0hUYk1ObDg?oc=5",
         "publishedAt": "2026-08-12T03:00:00.000Z"
+      },
+      {
+        "time": "15:13",
+        "title": "日本工作機械工業会、7月の工作機械受注額（速報）を発表",
+        "source": "nikkei.com",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWmpVT0lNTFoyYkxKTU8tNzVaRWxERk9WRTJTTkc0UmZqNmhnNkg5bmdvWkVwUVRyOWVSQUM5SVZCd1NtN0c1TDFzMWh5U3hvV1JGakR2dzRQbEM0SkRZV3g5bXY5NFQxLUt6cg?oc=5",
+        "publishedAt": "2026-08-12T06:13:30.000Z"
       },
       {
         "time": "10:48",
@@ -33,7 +40,7 @@
       {
         "time": "06:30",
         "title": "今日の注目スケジュール：工作機械受注、米消費者物価コア指数、米財政収支など",
-        "source": "topics.smt.docomo.ne.jp",
+        "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXV1OWlfMWRmYnM1MG14R2NRWURLWFBFMHdCS25lZE96TE5ZVHdNaHBDX3pUWnhUOEVhRDh4akdBMXpmOXY2WThVdTNqWmo4SUZUZkp5dWFQODRDVVVZekU3RWtLb19iNW1kTGh0QnpYZ1BYNXpwVVE3T1AyLW1uQlEyMkpyWWQ1aUZvTNIBjAFBVV95cUxPdXV1OWlfMWRmYnM1MG14R2NRWURLWFBFMHdCS25lZE96TE5ZVHdNaHBDX3pUWnhUOEVhRDh4akdBMXpmOXY2WThVdTNqWmo4SUZUZkp5dWFQODRDVVVZekU3RWtLb19iNW1kTGh0QnpYZ1BYNXpwVVE3T1AyLW1uQlEyMkpyWWQ1aUZvTA?oc=5",
         "publishedAt": "2026-08-11T21:30:00.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGxnUDR5TWZfbGc5ZjVNU0ZUQVZSWjZ0a2puY2JObExqWGxzMXhFam5fNDIzODJ3Ql9zRUpRRVNBS2NUeXdlNE1KNUVJX3BGZWY2TUFKV09tYjBmel93bWFsRHNLa0p0SjZLVUFSWU8tOTUwdXlGODN2TG9hVkNwTVNUSVQ4RUk?oc=5",
         "publishedAt": "2026-08-11T22:06:00.000Z"
-      },
-      {
-        "time": "06:15",
-        "title": "ベリリウム銅 加工事例 Pachuca - Toluca (hl2fR56g10)",
-        "source": "Mshale",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RVW40dE45RFBkUFZhTzE4X3oxLVcxdVBRbnBOTDV5eDN1MGhjX0ltNUZSOTVtRS1JUjNuSzBCQ2RwczZzeTU3c2xPU1J5b1ZXZUpGdHJvUVlySmc?oc=5",
-        "publishedAt": "2026-08-11T21:15:59.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-08-11T22:39:41.000Z"
       },
       {
+        "time": "15:16",
+        "title": "江別暴行死 当時18歳の被告が控訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591443?source=rss",
+        "publishedAt": "2026-08-12T06:16:41.000Z"
+      },
+      {
         "time": "08:19",
         "title": "オフロード走行中か 車滑落し死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591374?source=rss",
         "publishedAt": "2026-08-11T14:43:55.000Z"
-      },
-      {
-        "time": "22:34",
-        "title": "観覧エリアに花火落下 3人やけど",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591366?source=rss",
-        "publishedAt": "2026-08-11T13:34:28.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }

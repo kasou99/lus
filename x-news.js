@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T05:35:03.164Z",
+  "updatedAt": "2026-08-12T06:36:13.771Z",
   "items": [
     {
       "time": "13:28",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "九州や四国中心に厳しい暑さ 注意"
     },
     {
-      "time": "13:46",
-      "title": "ウ 米側に対露戦争終結の計画案",
+      "time": "13:33",
+      "title": "米 イラン選択肢は経済破綻か攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591430?source=rss",
-      "publishedAt": "2026-08-12T04:46:54.000Z",
-      "xQuery": "ウ 米側に対露戦争終結の計画案"
+      "url": "https://news.yahoo.co.jp/pickup/6591435?source=rss",
+      "publishedAt": "2026-08-12T04:33:55.000Z",
+      "xQuery": "米 イラン選択肢は経済破綻か攻撃"
     },
     {
-      "time": "13:57",
-      "title": "元厚労相・坂口力氏が死去 92歳",
+      "time": "15:16",
+      "title": "江別暴行死 当時18歳の被告が控訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591437?source=rss",
-      "publishedAt": "2026-08-12T04:57:56.000Z",
-      "xQuery": "元厚労相・坂口力氏が死去 92歳"
-    },
-    {
-      "time": "13:46",
-      "title": "日本の重慶総領事「代行」で就任",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591436?source=rss",
-      "publishedAt": "2026-08-12T04:46:08.000Z",
-      "xQuery": "日本の重慶総領事「代行」で就任"
+      "url": "https://news.yahoo.co.jp/pickup/6591443?source=rss",
+      "publishedAt": "2026-08-12T06:16:41.000Z",
+      "xQuery": "江別暴行死 当時18歳の被告が控訴"
     },
     {
       "time": "12:51",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591425?source=rss",
       "publishedAt": "2026-08-12T03:51:26.000Z",
       "xQuery": "新幹線「独りぼっち席」が話題"
+    },
+    {
+      "time": "13:24",
+      "title": "速報甲子園 仙台育英vs.花咲徳栄",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591433?source=rss",
+      "publishedAt": "2026-08-12T04:24:42.000Z",
+      "xQuery": "速報甲子園 仙台育英vs.花咲徳栄"
     }
   ]
 };
