@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-11T23:47:56.984Z",
+  "updatedAt": "2026-08-12T00:33:43.148Z",
   "items": [
     {
       "time": "08:18",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591389?source=rss",
       "publishedAt": "2026-08-11T23:18:51.000Z",
       "xQuery": "台風は山陰沖へ 本州は大雨警戒"
+    },
+    {
+      "time": "08:45",
+      "title": "ミサイル発射 北朝鮮に小泉氏抗議",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591395?source=rss",
+      "publishedAt": "2026-08-11T23:45:00.000Z",
+      "xQuery": "ミサイル発射 北朝鮮に小泉氏抗議"
     },
     {
       "time": "07:51",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591392?source=rss",
       "publishedAt": "2026-08-11T23:17:08.000Z",
       "xQuery": "「四国新幹線」実現なるか 現状は"
-    },
-    {
-      "time": "07:30",
-      "title": "美容医療の低年齢化 親の意向も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591382?source=rss",
-      "publishedAt": "2026-08-11T22:30:27.000Z",
-      "xQuery": "美容医療の低年齢化 親の意向も"
     }
   ]
 };
