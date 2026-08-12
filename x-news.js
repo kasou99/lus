@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T14:30:00.229Z",
+  "updatedAt": "2026-08-12T14:56:12.085Z",
   "items": [
     {
       "time": "22:04",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日航機墜落 遺体安置された体育館"
     },
     {
-      "time": "21:19",
-      "title": "地震で観光業約60億円被害 熊本県",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591493?source=rss",
-      "publishedAt": "2026-08-12T12:19:30.000Z",
-      "xQuery": "地震で観光業約60億円被害 熊本県"
-    },
-    {
       "time": "22:23",
       "title": "空襲で姉犠牲 地元高1がアニメに",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591500?source=rss",
       "publishedAt": "2026-08-12T13:23:33.000Z",
       "xQuery": "空襲で姉犠牲 地元高1がアニメに"
+    },
+    {
+      "time": "23:24",
+      "title": "首相 イラン大統領と電話会談",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591505?source=rss",
+      "publishedAt": "2026-08-12T14:24:05.000Z",
+      "xQuery": "首相 イラン大統領と電話会談"
     },
     {
       "time": "22:18",
