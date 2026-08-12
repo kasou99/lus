@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T23:17:51.479Z",
+  "updatedAt": "2026-08-12T23:47:48.907Z",
   "items": [
     {
-      "time": "06:34",
-      "title": "東北から近畿 急な雨や落雷に注意",
+      "time": "08:27",
+      "title": "国旗損壊 捜査幹部から懸念の声も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591511?source=rss",
-      "publishedAt": "2026-08-12T21:34:15.000Z",
-      "xQuery": "東北から近畿 急な雨や落雷に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6591524?source=rss",
+      "publishedAt": "2026-08-12T23:27:06.000Z",
+      "xQuery": "国旗損壊 捜査幹部から懸念の声も"
     },
     {
       "time": "07:26",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "特急列車 車との衝突気付かず走行"
     },
     {
-      "time": "06:54",
-      "title": "阿波おどり「性的」動画 不安の声",
+      "time": "08:15",
+      "title": "高密度の金含む鉱石 相次ぎ発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591513?source=rss",
-      "publishedAt": "2026-08-12T21:54:02.000Z",
-      "xQuery": "阿波おどり「性的」動画 不安の声"
+      "url": "https://news.yahoo.co.jp/pickup/6591523?source=rss",
+      "publishedAt": "2026-08-12T23:15:03.000Z",
+      "xQuery": "高密度の金含む鉱石 相次ぎ発見"
     }
   ]
 };

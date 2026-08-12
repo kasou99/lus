@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-12T23:17:50.719Z",
+  "updatedAt": "2026-08-12T23:47:48.066Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:04",
         "title": "7月の工作機械受注、50%増 中国・北米好調続く",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YRm5RVkREc2E2dXZ2azhYTzkxLUxoRWhKWXJhaUtxekQ4bHpaNllBZ016Qlo1SFFWYXdSeXh6OVlSeTducHJ2V0h3WmVGTzJSWHhQYWZWcF9WV2M?oc=5",
         "publishedAt": "2026-08-12T20:04:32.000Z"
       },
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-12T03:00:00.000Z"
       },
       {
-        "time": "09:03",
-        "title": "オーネックス－買い気配 前期営業損益を上方修正 産業工作機械関連が好調",
-        "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10dXNqdDZHbzdzeFdxS3pGa2hOR2xzamRFQkhxUF9pQnE5SXJqRXZBNUlsMVlBb1UyS2huZ3A2bGthMF9adU5LZHBWenplamVrS0dveEdzMVNSMDM1aUxBaUZWMGRScDUxRkpuZ2lhVQ?oc=5",
-        "publishedAt": "2026-08-12T00:03:14.000Z"
-      },
-      {
         "time": "10:48",
         "title": "オーネックスがＳ高カイ気配、産業工作機械関連好調で２６年６月期業績は計画上振れ",
         "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91NTlGV0ZLNWM2ZE5DMTJjVWQxQVJ4MHlfUVF1a1B6WnBUNHEzcmdBanBkREpzY0VNUnB2VFRVTGRSUFZLaGFiaFYtb1VpTnBXWWliOE5EN3lGLXlpTkdlZw?oc=5",
         "publishedAt": "2026-08-12T01:48:00.000Z"
+      },
+      {
+        "time": "09:03",
+        "title": "オーネックス－買い気配 前期営業損益を上方修正 産業工作機械関連が好調",
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10dXNqdDZHbzdzeFdxS3pGa2hOR2xzamRFQkhxUF9pQnE5SXJqRXZBNUlsMVlBb1UyS2huZ3A2bGthMF9adU5LZHBWenplamVrS0dveEdzMVNSMDM1aUxBaUZWMGRScDUxRkpuZ2lhVQ?oc=5",
+        "publishedAt": "2026-08-12T00:03:14.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,13 +75,6 @@
         "publishedAt": "2026-08-12T04:33:55.000Z"
       },
       {
-        "time": "13:46",
-        "title": "ウ 米側に対露戦争終結の計画案",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591430?source=rss",
-        "publishedAt": "2026-08-12T04:46:54.000Z"
-      },
-      {
         "time": "22:20",
         "title": "中国の朱鎔基元首相が死去 97歳",
         "source": "Yahoo!ニュース",
@@ -94,6 +87,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591459?source=rss",
         "publishedAt": "2026-08-12T08:26:15.000Z"
+      },
+      {
+        "time": "08:45",
+        "title": "米大統領SNS巡り メディアが提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591529?source=rss",
+        "publishedAt": "2026-08-12T23:45:02.000Z"
       },
       {
         "time": "07:50",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-08-12T23:15:03.000Z"
       },
       {
-        "time": "11:33",
-        "title": "スポーツ用品大手オン 株価急落",
+        "time": "19:53",
+        "title": "新幹線乗り遅れ緊急停止 動画拡散",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591414?source=rss",
-        "publishedAt": "2026-08-12T02:33:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591482?source=rss",
+        "publishedAt": "2026-08-12T10:53:11.000Z"
       }
     ],
     "localHeadlines": [
