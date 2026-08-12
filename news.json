@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T14:56:10.980Z",
+  "updatedAt": "2026-08-12T15:24:07.969Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-08-12T04:00:00.000Z"
       },
       {
-        "time": "15:51",
-        "title": "7月の工作機械受注5割増 半導体やデータセンター向け好調",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VGRSTE5Ja2JWaVJEd2p3RGZnSTF5eVJoaURXTHRoQS1mV3JNOUlwc1lOTlh0cE5TWE14WW9lblhfVVRzZUwzVmRkblM5eEtnMDFxbk1fQmpYRjN5TXM2eWN6cHFLVkpxTVloWg?oc=5",
-        "publishedAt": "2026-08-12T06:51:18.000Z"
-      },
-      {
         "time": "12:00",
         "title": "CNC工作機械用旋削工具ホルダーの世界市場（2026年～2032年）、市場規模（内部旋削工具ホルダー、外部旋削工具ホルダー）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XMk93WVJTa3V2X1hGNXp5N3JOY3RDeUJVVzlvWmRNRzBsU1BXcFZWN2VWNmtjeHVXQ1RIbkkxQVhpZ0FFVi0wb0hUYk1ObDg?oc=5",
         "publishedAt": "2026-08-12T03:00:00.000Z"
+      },
+      {
+        "time": "15:51",
+        "title": "7月の工作機械受注5割増 半導体やデータセンター向け好調",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VGRSTE5Ja2JWaVJEd2p3RGZnSTF5eVJoaURXTHRoQS1mV3JNOUlwc1lOTlh0cE5TWE14WW9lblhfVVRzZUwzVmRkblM5eEtnMDFxbk1fQmpYRjN5TXM2eWN6cHFLVkpxTVloWg?oc=5",
+        "publishedAt": "2026-08-12T06:51:18.000Z"
       },
       {
         "time": "10:48",
