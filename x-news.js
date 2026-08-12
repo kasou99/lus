@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T10:52:53.738Z",
+  "updatedAt": "2026-08-12T11:20:39.815Z",
   "items": [
     {
       "time": "18:35",
@@ -8,22 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591473?source=rss",
       "publishedAt": "2026-08-12T09:35:17.000Z",
       "xQuery": "墜落 520人の墓標に花生けた遺族"
-    },
-    {
-      "time": "17:26",
-      "title": "米大統領 3期目出馬に否定的見解",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591459?source=rss",
-      "publishedAt": "2026-08-12T08:26:15.000Z",
-      "xQuery": "米大統領 3期目出馬に否定的見解"
-    },
-    {
-      "time": "18:41",
-      "title": "露大統領 13年ぶりにサハリン入り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591476?source=rss",
-      "publishedAt": "2026-08-12T09:41:49.000Z",
-      "xQuery": "露大統領 13年ぶりにサハリン入り"
     },
     {
       "time": "19:42",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591464?source=rss",
       "publishedAt": "2026-08-12T08:18:42.000Z",
       "xQuery": "移住先で夫不貞 離婚し生き方模索"
+    },
+    {
+      "time": "17:27",
+      "title": "砂浜に遺体 不明の22歳男性と判明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591465?source=rss",
+      "publishedAt": "2026-08-12T08:27:36.000Z",
+      "xQuery": "砂浜に遺体 不明の22歳男性と判明"
+    },
+    {
+      "time": "19:53",
+      "title": "新幹線乗り遅れ緊急停止 動画拡散",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591482?source=rss",
+      "publishedAt": "2026-08-12T10:53:11.000Z",
+      "xQuery": "新幹線乗り遅れ緊急停止 動画拡散"
     }
   ]
 };
