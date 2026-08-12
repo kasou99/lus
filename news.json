@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T03:49:31.359Z",
+  "updatedAt": "2026-08-12T04:38:53.987Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-08-11T21:30:00.000Z"
       },
       {
-        "time": "07:07",
+        "time": "07:06",
         "title": "今日のスケジュール－米7月消費者物価指数や7月工作機械受注など(トレーダーズ・ウェブ)",
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGxnUDR5TWZfbGc5ZjVNU0ZUQVZSWjZ0a2puY2JObExqWGxzMXhFam5fNDIzODJ3Ql9zRUpRRVNBS2NUeXdlNE1KNUVJX3BGZWY2TUFKV09tYjBmel93bWFsRHNLa0p0SjZLVUFSWU8tOTUwdXlGODN2TG9hVkNwTVNUSVQ4RUk?oc=5",
-        "publishedAt": "2026-08-11T22:07:51.000Z"
+        "publishedAt": "2026-08-11T22:06:00.000Z"
       },
       {
         "time": "23:22",
@@ -68,6 +68,20 @@
         "publishedAt": "2026-08-12T03:47:00.000Z"
       },
       {
+        "time": "13:33",
+        "title": "米 イラン選択肢は経済破綻か攻撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591435?source=rss",
+        "publishedAt": "2026-08-12T04:33:55.000Z"
+      },
+      {
+        "time": "15:42",
+        "title": "米大統領専用機おとりに使用 報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591323?source=rss",
+        "publishedAt": "2026-08-11T06:42:59.000Z"
+      },
+      {
         "time": "08:22",
         "title": "コロンビア地震 行方不明3000人超",
         "source": "Yahoo!ニュース",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591351?source=rss",
         "publishedAt": "2026-08-11T10:53:09.000Z"
-      },
-      {
-        "time": "15:42",
-        "title": "米大統領専用機おとりに使用 報道",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591323?source=rss",
-        "publishedAt": "2026-08-11T06:42:59.000Z"
-      },
-      {
-        "time": "11:10",
-        "title": "クラゲ大量発生で原発停止 仏北部",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591409?source=rss",
-        "publishedAt": "2026-08-12T02:10:20.000Z"
       }
     ],
     "economyHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-08-11T23:17:08.000Z"
       },
       {
-        "time": "22:50",
-        "title": "猛暑でお盆変化 オンライン参拝も",
+        "time": "12:51",
+        "title": "新幹線「独りぼっち席」が話題",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591368?source=rss",
-        "publishedAt": "2026-08-11T13:50:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591425?source=rss",
+        "publishedAt": "2026-08-12T03:51:26.000Z"
       }
     ],
     "localHeadlines": [
@@ -225,8 +225,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }

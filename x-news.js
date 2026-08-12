@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T03:49:31.989Z",
+  "updatedAt": "2026-08-12T04:38:54.459Z",
   "items": [
+    {
+      "time": "13:13",
+      "title": "熊本・長崎で震度4 津波心配なし",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591432?source=rss",
+      "publishedAt": "2026-08-12T04:13:25.000Z",
+      "xQuery": "熊本・長崎で震度4 津波心配なし"
+    },
     {
       "time": "12:14",
       "title": "熱帯低気圧 広い範囲で大雨に注意",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熱帯低気圧 広い範囲で大雨に注意"
     },
     {
-      "time": "10:07",
-      "title": "地震で煙突倒壊 国交省が調査開始",
+      "time": "12:47",
+      "title": "日本兵と戦わされた 英植民地男性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591403?source=rss",
-      "publishedAt": "2026-08-12T01:07:20.000Z",
-      "xQuery": "地震で煙突倒壊 国交省が調査開始"
-    },
-    {
-      "time": "11:35",
-      "title": "子がラジオ体操知らない 親は驚き",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591412?source=rss",
-      "publishedAt": "2026-08-12T02:35:18.000Z",
-      "xQuery": "子がラジオ体操知らない 親は驚き"
+      "url": "https://news.yahoo.co.jp/pickup/6591422?source=rss",
+      "publishedAt": "2026-08-12T03:47:00.000Z",
+      "xQuery": "日本兵と戦わされた 英植民地男性"
     },
     {
       "time": "12:25",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "奥田碩さん死去 プリウスに尽力"
     },
     {
-      "time": "11:33",
-      "title": "スポーツ用品大手オン 株価急落",
+      "time": "12:51",
+      "title": "新幹線「独りぼっち席」が話題",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591414?source=rss",
-      "publishedAt": "2026-08-12T02:33:53.000Z",
-      "xQuery": "スポーツ用品大手オン 株価急落"
+      "url": "https://news.yahoo.co.jp/pickup/6591425?source=rss",
+      "publishedAt": "2026-08-12T03:51:26.000Z",
+      "xQuery": "新幹線「独りぼっち席」が話題"
     }
   ]
 };
