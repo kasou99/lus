@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T12:23:12.267Z",
+  "updatedAt": "2026-08-12T12:50:31.826Z",
   "items": [
+    {
+      "time": "21:11",
+      "title": "首相 15日の靖国参拝を見送る方向",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591492?source=rss",
+      "publishedAt": "2026-08-12T12:11:42.000Z",
+      "xQuery": "首相 15日の靖国参拝を見送る方向"
+    },
     {
       "time": "17:43",
       "title": "中道の総支部解散が相次ぐ 30超",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591468?source=rss",
       "publishedAt": "2026-08-12T08:43:36.000Z",
       "xQuery": "中道の総支部解散が相次ぐ 30超"
-    },
-    {
-      "time": "19:42",
-      "title": "朱鎔基・元中国首相が死去 97歳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591481?source=rss",
-      "publishedAt": "2026-08-12T10:42:36.000Z",
-      "xQuery": "朱鎔基・元中国首相が死去 97歳"
     },
     {
       "time": "20:37",

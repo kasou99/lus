@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T12:23:11.459Z",
+  "updatedAt": "2026-08-12T12:50:31.032Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-08-12T06:34:46.000Z"
       },
       {
+        "time": "19:55",
+        "title": "年次ユーザーイベント「EPLAN NETWORK JAPAN 2026」開催 制御盤づくりにおけるデータ連携・活用の重要性を再認識",
+        "source": "オートメーション新聞WEB",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52elYwdGg0LWM0U19KTFdYakNPTnBRTmdfNzBmMUZaRVVGQmR5UV80aXNqcjczTW45ZU0wdk8zMDl5UTRGeVR4ekhBY3A3UW44ZTdON1N5dWFwdw?oc=5",
+        "publishedAt": "2026-08-12T10:55:00.000Z"
+      },
+      {
         "time": "13:00",
         "title": "厚さ計測と多目的用途に新たな工作機械用プローブ、JIMTOF2026で初公開へ",
         "source": "MONOist",
@@ -26,7 +33,7 @@
       {
         "time": "15:51",
         "title": "7月の工作機械受注5割増 半導体やデータセンター向け好調",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VGRSTE5Ja2JWaVJEd2p3RGZnSTF5eVJoaURXTHRoQS1mV3JNOUlwc1lOTlh0cE5TWE14WW9lblhfVVRzZUwzVmRkblM5eEtnMDFxbk1fQmpYRjN5TXM2eWN6cHFLVkpxTVloWg?oc=5",
         "publishedAt": "2026-08-12T06:51:18.000Z"
       },
@@ -36,13 +43,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XMk93WVJTa3V2X1hGNXp5N3JOY3RDeUJVVzlvWmRNRzBsU1BXcFZWN2VWNmtjeHVXQ1RIbkkxQVhpZ0FFVi0wb0hUYk1ObDg?oc=5",
         "publishedAt": "2026-08-12T03:00:00.000Z"
-      },
-      {
-        "time": "19:55",
-        "title": "EPLAN、年次ユーザーイベント「EPLAN NETWORK JAPAN 2026」開催 制御盤づくりにおけるデータ連携・活用の重要性を再認識 – オートメーション新聞WEB／AutomationNews",
-        "source": "オートメーション新聞WEB",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52elYwdGg0LWM0U19KTFdYakNPTnBRTmdfNzBmMUZaRVVGQmR5UV80aXNqcjczTW45ZU0wdk8zMDl5UTRGeVR4ekhBY3A3UW44ZTdON1N5dWFwdw?oc=5",
-        "publishedAt": "2026-08-12T10:55:00.000Z"
       },
       {
         "time": "10:48",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-08-12T11:35:17.000Z"
       },
       {
+        "time": "21:22",
+        "title": "夜間の墓参りも 変化する供養の形",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591491?source=rss",
+        "publishedAt": "2026-08-12T12:22:38.000Z"
+      },
+      {
         "time": "11:33",
         "title": "スポーツ用品大手オン 株価急落",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591414?source=rss",
         "publishedAt": "2026-08-12T02:33:53.000Z"
-      },
-      {
-        "time": "19:53",
-        "title": "新幹線乗り遅れ緊急停止 動画拡散",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591482?source=rss",
-        "publishedAt": "2026-08-12T10:53:11.000Z"
       }
     ],
     "localHeadlines": [
