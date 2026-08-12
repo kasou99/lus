@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T02:58:19.587Z",
+  "updatedAt": "2026-08-12T03:49:31.989Z",
   "items": [
     {
-      "time": "07:39",
-      "title": "熊本地震2週間 仮設住宅整備進む",
+      "time": "12:14",
+      "title": "熱帯低気圧 広い範囲で大雨に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591383?source=rss",
-      "publishedAt": "2026-08-11T22:39:41.000Z",
-      "xQuery": "熊本地震2週間 仮設住宅整備進む"
+      "url": "https://news.yahoo.co.jp/pickup/6591417?source=rss",
+      "publishedAt": "2026-08-12T03:14:49.000Z",
+      "xQuery": "熱帯低気圧 広い範囲で大雨に注意"
     },
     {
-      "time": "09:53",
-      "title": "終戦3日前の満州 集団自決の証言",
+      "time": "10:07",
+      "title": "地震で煙突倒壊 国交省が調査開始",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591402?source=rss",
-      "publishedAt": "2026-08-12T00:53:07.000Z",
-      "xQuery": "終戦3日前の満州 集団自決の証言"
+      "url": "https://news.yahoo.co.jp/pickup/6591403?source=rss",
+      "publishedAt": "2026-08-12T01:07:20.000Z",
+      "xQuery": "地震で煙突倒壊 国交省が調査開始"
     },
     {
-      "time": "08:22",
-      "title": "コロンビア地震 行方不明3000人超",
+      "time": "11:35",
+      "title": "子がラジオ体操知らない 親は驚き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591391?source=rss",
-      "publishedAt": "2026-08-11T23:22:20.000Z",
-      "xQuery": "コロンビア地震 行方不明3000人超"
+      "url": "https://news.yahoo.co.jp/pickup/6591412?source=rss",
+      "publishedAt": "2026-08-12T02:35:18.000Z",
+      "xQuery": "子がラジオ体操知らない 親は驚き"
     },
     {
-      "time": "11:15",
-      "title": "台風17号発生 来週以降に影響恐れ",
+      "time": "12:25",
+      "title": "奥田碩さん死去 プリウスに尽力",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591411?source=rss",
-      "publishedAt": "2026-08-12T02:15:53.000Z",
-      "xQuery": "台風17号発生 来週以降に影響恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6591420?source=rss",
+      "publishedAt": "2026-08-12T03:25:35.000Z",
+      "xQuery": "奥田碩さん死去 プリウスに尽力"
     },
     {
       "time": "11:33",
