@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T06:36:13.771Z",
+  "updatedAt": "2026-08-12T07:35:28.670Z",
   "items": [
     {
-      "time": "13:28",
-      "title": "九州や四国中心に厳しい暑さ 注意",
+      "time": "16:16",
+      "title": "台風17号 来週関東など近づく恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591427?source=rss",
-      "publishedAt": "2026-08-12T04:28:32.000Z",
-      "xQuery": "九州や四国中心に厳しい暑さ 注意"
+      "url": "https://news.yahoo.co.jp/pickup/6591452?source=rss",
+      "publishedAt": "2026-08-12T07:16:29.000Z",
+      "xQuery": "台風17号 来週関東など近づく恐れ"
     },
     {
       "time": "13:33",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "江別暴行死 当時18歳の被告が控訴"
     },
     {
-      "time": "12:51",
-      "title": "新幹線「独りぼっち席」が話題",
+      "time": "16:02",
+      "title": "検事総長が退任 不祥事続発を陳謝",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591425?source=rss",
-      "publishedAt": "2026-08-12T03:51:26.000Z",
-      "xQuery": "新幹線「独りぼっち席」が話題"
+      "url": "https://news.yahoo.co.jp/pickup/6591449?source=rss",
+      "publishedAt": "2026-08-12T07:02:50.000Z",
+      "xQuery": "検事総長が退任 不祥事続発を陳謝"
     },
     {
-      "time": "13:24",
-      "title": "速報甲子園 仙台育英vs.花咲徳栄",
+      "time": "16:30",
+      "title": "人が入る箱型冷房 建設業など注目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591433?source=rss",
-      "publishedAt": "2026-08-12T04:24:42.000Z",
-      "xQuery": "速報甲子園 仙台育英vs.花咲徳栄"
+      "url": "https://news.yahoo.co.jp/pickup/6591455?source=rss",
+      "publishedAt": "2026-08-12T07:30:39.000Z",
+      "xQuery": "人が入る箱型冷房 建設業など注目"
     }
   ]
 };

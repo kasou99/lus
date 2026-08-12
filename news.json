@@ -1,27 +1,34 @@
 {
-  "updatedAt": "2026-08-12T06:36:12.986Z",
+  "updatedAt": "2026-08-12T07:35:27.874Z",
   "groups": {
     "machineHeadlines": [
       {
+        "time": "15:34",
+        "title": "7月工作機械受注は前年比50.4％増、13カ月連続プラス＝工作機械工業会（ロイター）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04STlWRm9WX1lBNEVTRm8zRVIzZ0lZTlNVZTZtaVBDeVhoSFAzLTgtQTJhTGF6MGlxc0QyYS1pcm1GWjBhNm1yOVFvTlJBSTJrbTZoMmx6bGpLX1JuTUNVZFA3eTBPa1VYcWpGWW4zMzhIYklDSmhhOVlwWFRtS00?oc=5",
+        "publishedAt": "2026-08-12T06:34:46.000Z"
+      },
+      {
+        "time": "15:51",
+        "title": "7月の工作機械受注5割増 半導体やデータセンター向け好調",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VGRSTE5Ja2JWaVJEd2p3RGZnSTF5eVJoaURXTHRoQS1mV3JNOUlwc1lOTlh0cE5TWE14WW9lblhfVVRzZUwzVmRkblM5eEtnMDFxbk1fQmpYRjN5TXM2eWN6cHFLVkpxTVloWg?oc=5",
+        "publishedAt": "2026-08-12T06:51:18.000Z"
+      },
+      {
         "time": "13:00",
         "title": "厚さ計測と多目的用途に新たな工作機械用プローブ、JIMTOF2026で初公開へ",
-        "source": "MONOist",
+        "source": "monoist.itmedia.co.jp",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jYnZvWEk0bkcxLUF6Sk5nSW1wdFRNZFJJNXhNVW9FeDFzUkpfb25jMjM0d0x4N3ZtellTU2NNU2hPZVVtNGdJQUJlWnp1MUo2YjJiendDbGxWZ3ZWeXlFVWxyZHlEYndaWnVpMnJCcw?oc=5",
         "publishedAt": "2026-08-12T04:00:00.000Z"
       },
       {
         "time": "12:00",
         "title": "CNC工作機械用旋削工具ホルダーの世界市場（2026年～2032年）、市場規模（内部旋削工具ホルダー、外部旋削工具ホルダー）・分析レポートを発表",
-        "source": "アットプレス",
+        "source": "atpress.ne.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XMk93WVJTa3V2X1hGNXp5N3JOY3RDeUJVVzlvWmRNRzBsU1BXcFZWN2VWNmtjeHVXQ1RIbkkxQVhpZ0FFVi0wb0hUYk1ObDg?oc=5",
         "publishedAt": "2026-08-12T03:00:00.000Z"
-      },
-      {
-        "time": "15:13",
-        "title": "日本工作機械工業会、7月の工作機械受注額（速報）を発表",
-        "source": "nikkei.com",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWmpVT0lNTFoyYkxKTU8tNzVaRWxERk9WRTJTTkc0UmZqNmhnNkg5bmdvWkVwUVRyOWVSQUM5SVZCd1NtN0c1TDFzMWh5U3hvV1JGakR2dzRQbEM0SkRZV3g5bXY5NFQxLUt6cg?oc=5",
-        "publishedAt": "2026-08-12T06:13:30.000Z"
       },
       {
         "time": "10:48",
@@ -31,11 +38,11 @@
         "publishedAt": "2026-08-12T01:48:00.000Z"
       },
       {
-        "time": "09:24",
-        "title": "オーネックス－買い気配 前期営業損益を上方修正 産業工作機械関連が好調〔DZH 個別株情報〕(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSEpWaWNtNWphSzFXa3J0QkV1cGI1NXJEOHg1N25HLU1uT2o3YTdBT3hMTDA0ZDIzWnM4NkVlUnpCRjNObGZYQXRhVmRuWW5sVmhfczVYWmtHYnhLZlNNUXQ0SUdkN3BxbkY2Q3lnUDk5WFdNYVBLaHZPdmw2Rk5jX2RTLWk5eUk?oc=5",
-        "publishedAt": "2026-08-12T00:24:00.000Z"
+        "time": "15:13",
+        "title": "日本工作機械工業会、7月の工作機械受注額（速報）を発表",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWmpVT0lNTFoyYkxKTU8tNzVaRWxERk9WRTJTTkc0UmZqNmhnNkg5bmdvWkVwUVRyOWVSQUM5SVZCd1NtN0c1TDFzMWh5U3hvV1JGakR2dzRQbEM0SkRZV3g5bXY5NFQxLUt6cg?oc=5",
+        "publishedAt": "2026-08-12T06:13:30.000Z"
       },
       {
         "time": "06:30",
@@ -50,13 +57,6 @@
         "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14cndzNDRDYXhNYTE5T09nelhUT05hcGJVc3ZkWjdoRGcxaTk1Umw5LTVoTmoyZWRxZWhKbWtiOFVDaVdFNHFxZVJNQUxUN1AxRHhGZnZtU0hJTnZxTkR0aTNzZWh4VHFpLXdrUjRMZ3hDOW5xUXdZ?oc=5",
         "publishedAt": "2026-08-11T21:30:00.000Z"
-      },
-      {
-        "time": "07:06",
-        "title": "今日のスケジュール－米7月消費者物価指数や7月工作機械受注など(トレーダーズ・ウェブ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGxnUDR5TWZfbGc5ZjVNU0ZUQVZSWjZ0a2puY2JObExqWGxzMXhFam5fNDIzODJ3Ql9zRUpRRVNBS2NUeXdlNE1KNUVJX3BGZWY2TUFKV09tYjBmel93bWFsRHNLa0p0SjZLVUFSWU8tOTUwdXlGODN2TG9hVkNwTVNUSVQ4RUk?oc=5",
-        "publishedAt": "2026-08-11T22:06:00.000Z"
       }
     ],
     "worldHeadlines": [
