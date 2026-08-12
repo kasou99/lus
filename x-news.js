@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T21:48:50.814Z",
+  "updatedAt": "2026-08-12T22:18:11.397Z",
   "items": [
     {
       "time": "06:34",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "日本国旗損壊罪法 きょう施行"
     },
     {
-      "time": "22:43",
-      "title": "「性的侮辱」問題 豪が日本に釈明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591502?source=rss",
-      "publishedAt": "2026-08-12T13:43:57.000Z",
-      "xQuery": "「性的侮辱」問題 豪が日本に釈明"
-    },
-    {
       "time": "06:21",
       "title": "公園に身元不明の遺体 名古屋市",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591508?source=rss",
       "publishedAt": "2026-08-12T21:12:01.000Z",
       "xQuery": "特急列車 車との衝突気付かず走行"
+    },
+    {
+      "time": "06:54",
+      "title": "阿波おどり「性的」動画 不安の声",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591513?source=rss",
+      "publishedAt": "2026-08-12T21:54:02.000Z",
+      "xQuery": "阿波おどり「性的」動画 不安の声"
     }
   ]
 };
