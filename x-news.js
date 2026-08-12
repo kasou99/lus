@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T21:19:10.337Z",
+  "updatedAt": "2026-08-12T21:48:50.814Z",
   "items": [
     {
-      "time": "22:04",
-      "title": "日航機墜落 遺体安置された体育館",
+      "time": "06:34",
+      "title": "東北から近畿 急な雨や落雷に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591497?source=rss",
-      "publishedAt": "2026-08-12T13:04:23.000Z",
-      "xQuery": "日航機墜落 遺体安置された体育館"
+      "url": "https://news.yahoo.co.jp/pickup/6591511?source=rss",
+      "publishedAt": "2026-08-12T21:34:15.000Z",
+      "xQuery": "東北から近畿 急な雨や落雷に注意"
     },
     {
-      "time": "22:23",
-      "title": "空襲で姉犠牲 地元高1がアニメに",
+      "time": "06:43",
+      "title": "日本国旗損壊罪法 きょう施行",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591500?source=rss",
-      "publishedAt": "2026-08-12T13:23:33.000Z",
-      "xQuery": "空襲で姉犠牲 地元高1がアニメに"
+      "url": "https://news.yahoo.co.jp/pickup/6591512?source=rss",
+      "publishedAt": "2026-08-12T21:43:29.000Z",
+      "xQuery": "日本国旗損壊罪法 きょう施行"
     },
     {
       "time": "22:43",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「性的侮辱」問題 豪が日本に釈明"
     },
     {
+      "time": "06:21",
+      "title": "公園に身元不明の遺体 名古屋市",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591509?source=rss",
+      "publishedAt": "2026-08-12T21:21:54.000Z",
+      "xQuery": "公園に身元不明の遺体 名古屋市"
+    },
+    {
       "time": "06:12",
       "title": "特急列車 車との衝突気付かず走行",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591508?source=rss",
       "publishedAt": "2026-08-12T21:12:01.000Z",
       "xQuery": "特急列車 車との衝突気付かず走行"
-    },
-    {
-      "time": "22:53",
-      "title": "奇跡に近い 900m流された親子救助",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591504?source=rss",
-      "publishedAt": "2026-08-12T13:53:15.000Z",
-      "xQuery": "奇跡に近い 900m流された親子救助"
     }
   ]
 };
