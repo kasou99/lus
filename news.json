@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-08-12T11:48:12.208Z",
+  "updatedAt": "2026-08-12T12:23:11.459Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "15:34",
         "title": "7月工作機械受注は前年比50.4％増、13カ月連続プラス＝工作機械工業会",
-        "source": "jp.reuters.com",
+        "source": "ロイター",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY0hPSE53ZVVaWlFIVWtJS18yam5CcE1hd3N6Y1ZZaGlkQjNQNWJLbFlNNmNaM1hWZW16UkR0eXdfVGl5NFpZMDBtMUlLM1VhRE1vRHVqRm8tQ25OTXNqZ0pRMmEzSzdVaTRqSjRYWExtWmtSS2liRzl6NVl3QmJ5Yw?oc=5",
         "publishedAt": "2026-08-12T06:34:00.000Z"
       },
       {
         "time": "15:34",
         "title": "7月工作機械受注は前年比50.4％増、13カ月連続プラス＝工作機械工業会（ロイター）",
-        "source": "news.yahoo.co.jp",
+        "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04STlWRm9WX1lBNEVTRm8zRVIzZ0lZTlNVZTZtaVBDeVhoSFAzLTgtQTJhTGF6MGlxc0QyYS1pcm1GWjBhNm1yOVFvTlJBSTJrbTZoMmx6bGpLX1JuTUNVZFA3eTBPa1VYcWpGWW4zMzhIYklDSmhhOVlwWFRtS00?oc=5",
         "publishedAt": "2026-08-12T06:34:46.000Z"
       },
@@ -105,18 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "12:25",
-        "title": "奥田碩さん死去 プリウスに尽力",
+        "time": "21:19",
+        "title": "地震で観光業約60億円被害 熊本県",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591420?source=rss",
-        "publishedAt": "2026-08-12T03:25:35.000Z"
-      },
-      {
-        "time": "16:54",
-        "title": "ボーイングHP記述巡り日航に謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591457?source=rss",
-        "publishedAt": "2026-08-12T07:54:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591493?source=rss",
+        "publishedAt": "2026-08-12T12:19:30.000Z"
       },
       {
         "time": "20:37",
@@ -124,6 +117,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591485?source=rss",
         "publishedAt": "2026-08-12T11:37:21.000Z"
+      },
+      {
+        "time": "16:54",
+        "title": "ボーイングHP記述巡り日航に謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591457?source=rss",
+        "publishedAt": "2026-08-12T07:54:38.000Z"
       },
       {
         "time": "20:35",
