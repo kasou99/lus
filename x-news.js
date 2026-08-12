@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T09:56:18.377Z",
+  "updatedAt": "2026-08-12T10:26:55.583Z",
   "items": [
     {
       "time": "18:35",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "墜落 520人の墓標に花生けた遺族"
     },
     {
-      "time": "17:12",
-      "title": "辺野古 運航団体関係先を家宅捜索",
+      "time": "17:26",
+      "title": "米大統領 3期目出馬に否定的見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591461?source=rss",
-      "publishedAt": "2026-08-12T08:12:53.000Z",
-      "xQuery": "辺野古 運航団体関係先を家宅捜索"
+      "url": "https://news.yahoo.co.jp/pickup/6591459?source=rss",
+      "publishedAt": "2026-08-12T08:26:15.000Z",
+      "xQuery": "米大統領 3期目出馬に否定的見解"
     },
     {
       "time": "17:18",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "移住先で夫不貞 離婚し生き方模索"
     },
     {
-      "time": "17:18",
-      "title": "印の旅客機急降下 機長は大麻陽性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591463?source=rss",
-      "publishedAt": "2026-08-12T08:18:02.000Z",
-      "xQuery": "印の旅客機急降下 機長は大麻陽性"
-    },
-    {
       "time": "16:37",
       "title": "ペルセウス座流星群 今夜から見頃",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591458?source=rss",
       "publishedAt": "2026-08-12T07:37:06.000Z",
       "xQuery": "ペルセウス座流星群 今夜から見頃"
+    },
+    {
+      "time": "19:03",
+      "title": "カモシカが住宅街を疾走 住民驚き",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591478?source=rss",
+      "publishedAt": "2026-08-12T10:03:45.000Z",
+      "xQuery": "カモシカが住宅街を疾走 住民驚き"
     }
   ]
 };
