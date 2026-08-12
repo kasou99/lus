@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T12:50:31.032Z",
+  "updatedAt": "2026-08-12T13:34:11.399Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -33,7 +33,7 @@
       {
         "time": "15:51",
         "title": "7月の工作機械受注5割増 半導体やデータセンター向け好調",
-        "source": "nikkei.com",
+        "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VGRSTE5Ja2JWaVJEd2p3RGZnSTF5eVJoaURXTHRoQS1mV3JNOUlwc1lOTlh0cE5TWE14WW9lblhfVVRzZUwzVmRkblM5eEtnMDFxbk1fQmpYRjN5TXM2eWN6cHFLVkpxTVloWg?oc=5",
         "publishedAt": "2026-08-12T06:51:18.000Z"
       },
@@ -52,14 +52,28 @@
         "publishedAt": "2026-08-12T01:48:00.000Z"
       },
       {
-        "time": "17:01",
-        "title": "7月の工作機械受注速報、前年同月比50．4％増の1931億0200万円(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFFNZUxLREJEd3pzS3BoZHIwS0Vic0t0SmdpWVZVTjBCaHN2bGZ4V3Y0amxjem5HY1BYMFU1ai1ienoxblRBSHphbDdzMnlxRDJQX2pnMVhTN2Q5c3JrUlM2TDV4SFY4T21kUXNjbWg1LTl4T0JtTHN1UzcwZ1hfRUJ3aUdwX0k?oc=5",
-        "publishedAt": "2026-08-12T08:01:00.000Z"
+        "time": "06:30",
+        "title": "今日の注目スケジュール：工作機械受注、米消費者物価コア指数、米財政収支など",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXV1OWlfMWRmYnM1MG14R2NRWURLWFBFMHdCS25lZE96TE5ZVHdNaHBDX3pUWnhUOEVhRDh4akdBMXpmOXY2WThVdTNqWmo4SUZUZkp5dWFQODRDVVVZekU3RWtLb19iNW1kTGh0QnpYZ1BYNXpwVVE3T1AyLW1uQlEyMkpyWWQ1aUZvTNIBjAFBVV95cUxPdXV1OWlfMWRmYnM1MG14R2NRWURLWFBFMHdCS25lZE96TE5ZVHdNaHBDX3pUWnhUOEVhRDh4akdBMXpmOXY2WThVdTNqWmo4SUZUZkp5dWFQODRDVVVZekU3RWtLb19iNW1kTGh0QnpYZ1BYNXpwVVE3T1AyLW1uQlEyMkpyWWQ1aUZvTA?oc=5",
+        "publishedAt": "2026-08-11T21:30:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "22:18",
+        "title": "露大統領 北方領土は「ロシア領」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591499?source=rss",
+        "publishedAt": "2026-08-12T13:18:33.000Z"
+      },
+      {
+        "time": "18:41",
+        "title": "露大統領 13年ぶりにサハリン入り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591476?source=rss",
+        "publishedAt": "2026-08-12T09:41:49.000Z"
+      },
       {
         "time": "12:47",
         "title": "日本兵と戦わされた 英植民地男性",
@@ -82,25 +96,11 @@
         "publishedAt": "2026-08-12T04:46:54.000Z"
       },
       {
-        "time": "18:41",
-        "title": "露大統領 13年ぶりにサハリン入り",
+        "time": "22:20",
+        "title": "中国の朱鎔基元首相が死去 97歳",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591476?source=rss",
-        "publishedAt": "2026-08-12T09:41:49.000Z"
-      },
-      {
-        "time": "19:42",
-        "title": "朱鎔基・元中国首相が死去 97歳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591481?source=rss",
-        "publishedAt": "2026-08-12T10:42:36.000Z"
-      },
-      {
-        "time": "17:26",
-        "title": "米大統領 3期目出馬に否定的見解",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591459?source=rss",
-        "publishedAt": "2026-08-12T08:26:15.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591501?source=rss",
+        "publishedAt": "2026-08-12T13:20:42.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,11 +149,25 @@
     ],
     "localHeadlines": [
       {
+        "time": "22:04",
+        "title": "日航機墜落 遺体安置された体育館",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591497?source=rss",
+        "publishedAt": "2026-08-12T13:04:23.000Z"
+      },
+      {
         "time": "18:35",
         "title": "墜落 520人の墓標に花生けた遺族",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591473?source=rss",
         "publishedAt": "2026-08-12T09:35:17.000Z"
+      },
+      {
+        "time": "22:23",
+        "title": "空襲で姉犠牲 地元高1がアニメに",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591500?source=rss",
+        "publishedAt": "2026-08-12T13:23:33.000Z"
       },
       {
         "time": "07:39",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-08-12T06:16:41.000Z"
       },
       {
-        "time": "17:12",
-        "title": "辺野古 運航団体関係先を家宅捜索",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591461?source=rss",
-        "publishedAt": "2026-08-12T08:12:53.000Z"
-      },
-      {
         "time": "17:27",
         "title": "砂浜に遺体 不明の22歳男性と判明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591465?source=rss",
         "publishedAt": "2026-08-12T08:27:36.000Z"
-      },
-      {
-        "time": "08:19",
-        "title": "オフロード走行中か 車滑落し死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591390?source=rss",
-        "publishedAt": "2026-08-11T23:19:27.000Z"
       }
     ],
     "subsidyHeadlines": [

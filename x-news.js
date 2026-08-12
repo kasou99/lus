@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T12:50:31.826Z",
+  "updatedAt": "2026-08-12T13:34:12.310Z",
   "items": [
+    {
+      "time": "21:19",
+      "title": "地震で観光業約60億円被害 熊本県",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591493?source=rss",
+      "publishedAt": "2026-08-12T12:19:30.000Z",
+      "xQuery": "地震で観光業約60億円被害 熊本県"
+    },
     {
       "time": "21:11",
       "title": "首相 15日の靖国参拝を見送る方向",
@@ -10,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 15日の靖国参拝を見送る方向"
     },
     {
-      "time": "17:43",
-      "title": "中道の総支部解散が相次ぐ 30超",
+      "time": "22:18",
+      "title": "露大統領 北方領土は「ロシア領」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591468?source=rss",
-      "publishedAt": "2026-08-12T08:43:36.000Z",
-      "xQuery": "中道の総支部解散が相次ぐ 30超"
+      "url": "https://news.yahoo.co.jp/pickup/6591499?source=rss",
+      "publishedAt": "2026-08-12T13:18:33.000Z",
+      "xQuery": "露大統領 北方領土は「ロシア領」"
+    },
+    {
+      "time": "22:04",
+      "title": "日航機墜落 遺体安置された体育館",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591497?source=rss",
+      "publishedAt": "2026-08-12T13:04:23.000Z",
+      "xQuery": "日航機墜落 遺体安置された体育館"
     },
     {
       "time": "20:37",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591485?source=rss",
       "publishedAt": "2026-08-12T11:37:21.000Z",
       "xQuery": "イオン爆発 ハビタが「補償模索」"
-    },
-    {
-      "time": "17:27",
-      "title": "砂浜に遺体 不明の22歳男性と判明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591465?source=rss",
-      "publishedAt": "2026-08-12T08:27:36.000Z",
-      "xQuery": "砂浜に遺体 不明の22歳男性と判明"
-    },
-    {
-      "time": "19:53",
-      "title": "新幹線乗り遅れ緊急停止 動画拡散",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591482?source=rss",
-      "publishedAt": "2026-08-12T10:53:11.000Z",
-      "xQuery": "新幹線乗り遅れ緊急停止 動画拡散"
     }
   ]
 };
