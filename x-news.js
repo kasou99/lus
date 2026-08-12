@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T10:26:55.583Z",
+  "updatedAt": "2026-08-12T10:52:53.738Z",
   "items": [
     {
       "time": "18:35",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 3期目出馬に否定的見解"
     },
     {
+      "time": "18:41",
+      "title": "露大統領 13年ぶりにサハリン入り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591476?source=rss",
+      "publishedAt": "2026-08-12T09:41:49.000Z",
+      "xQuery": "露大統領 13年ぶりにサハリン入り"
+    },
+    {
+      "time": "19:42",
+      "title": "朱鎔基・元中国首相が死去 97歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591481?source=rss",
+      "publishedAt": "2026-08-12T10:42:36.000Z",
+      "xQuery": "朱鎔基・元中国首相が死去 97歳"
+    },
+    {
       "time": "17:18",
       "title": "移住先で夫不貞 離婚し生き方模索",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591464?source=rss",
       "publishedAt": "2026-08-12T08:18:42.000Z",
       "xQuery": "移住先で夫不貞 離婚し生き方模索"
-    },
-    {
-      "time": "16:37",
-      "title": "ペルセウス座流星群 今夜から見頃",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591458?source=rss",
-      "publishedAt": "2026-08-12T07:37:06.000Z",
-      "xQuery": "ペルセウス座流星群 今夜から見頃"
-    },
-    {
-      "time": "19:03",
-      "title": "カモシカが住宅街を疾走 住民驚き",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591478?source=rss",
-      "publishedAt": "2026-08-12T10:03:45.000Z",
-      "xQuery": "カモシカが住宅街を疾走 住民驚き"
     }
   ]
 };
