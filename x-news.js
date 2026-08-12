@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T08:35:06.608Z",
+  "updatedAt": "2026-08-12T09:29:32.633Z",
   "items": [
     {
       "time": "16:54",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ボーイングHP記述巡り日航に謝罪"
     },
     {
-      "time": "16:16",
-      "title": "台風17号 来週関東など近づく恐れ",
+      "time": "17:12",
+      "title": "辺野古 運航団体関係先を家宅捜索",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591452?source=rss",
-      "publishedAt": "2026-08-12T07:16:29.000Z",
-      "xQuery": "台風17号 来週関東など近づく恐れ"
-    },
-    {
-      "time": "16:02",
-      "title": "検事総長が退任 不祥事続発を陳謝",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591449?source=rss",
-      "publishedAt": "2026-08-12T07:02:50.000Z",
-      "xQuery": "検事総長が退任 不祥事続発を陳謝"
+      "url": "https://news.yahoo.co.jp/pickup/6591461?source=rss",
+      "publishedAt": "2026-08-12T08:12:53.000Z",
+      "xQuery": "辺野古 運航団体関係先を家宅捜索"
     },
     {
       "time": "17:18",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591463?source=rss",
       "publishedAt": "2026-08-12T08:18:02.000Z",
       "xQuery": "印の旅客機急降下 機長は大麻陽性"
+    },
+    {
+      "time": "16:37",
+      "title": "ペルセウス座流星群 今夜から見頃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591458?source=rss",
+      "publishedAt": "2026-08-12T07:37:06.000Z",
+      "xQuery": "ペルセウス座流星群 今夜から見頃"
     }
   ]
 };

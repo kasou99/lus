@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-12T08:35:05.968Z",
+  "updatedAt": "2026-08-12T09:29:31.752Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:34",
+        "title": "7月工作機械受注は前年比50.4％増、13カ月連続プラス＝工作機械工業会",
+        "source": "ロイター",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY0hPSE53ZVVaWlFIVWtJS18yam5CcE1hd3N6Y1ZZaGlkQjNQNWJLbFlNNmNaM1hWZW16UkR0eXdfVGl5NFpZMDBtMUlLM1VhRE1vRHVqRm8tQ25OTXNqZ0pRMmEzSzdVaTRqSjRYWExtWmtSS2liRzl6NVl3QmJ5Yw?oc=5",
+        "publishedAt": "2026-08-12T06:34:00.000Z"
+      },
       {
         "time": "15:51",
         "title": "7月の工作機械受注5割増 半導体やデータセンター向け好調",
@@ -50,13 +57,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWmpVT0lNTFoyYkxKTU8tNzVaRWxERk9WRTJTTkc0UmZqNmhnNkg5bmdvWkVwUVRyOWVSQUM5SVZCd1NtN0c1TDFzMWh5U3hvV1JGakR2dzRQbEM0SkRZV3g5bXY5NFQxLUt6cg?oc=5",
         "publishedAt": "2026-08-12T06:13:30.000Z"
-      },
-      {
-        "time": "06:30",
-        "title": "今日の注目スケジュール：工作機械受注、米消費者物価コア指数、米財政収支など",
-        "source": "topics.smt.docomo.ne.jp",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXV1OWlfMWRmYnM1MG14R2NRWURLWFBFMHdCS25lZE96TE5ZVHdNaHBDX3pUWnhUOEVhRDh4akdBMXpmOXY2WThVdTNqWmo4SUZUZkp5dWFQODRDVVVZekU3RWtLb19iNW1kTGh0QnpYZ1BYNXpwVVE3T1AyLW1uQlEyMkpyWWQ1aUZvTNIBjAFBVV95cUxPdXV1OWlfMWRmYnM1MG14R2NRWURLWFBFMHdCS25lZE96TE5ZVHdNaHBDX3pUWnhUOEVhRDh4akdBMXpmOXY2WThVdTNqWmo4SUZUZkp5dWFQODRDVVVZekU3RWtLb19iNW1kTGh0QnpYZ1BYNXpwVVE3T1AyLW1uQlEyMkpyWWQ1aUZvTA?oc=5",
-        "publishedAt": "2026-08-11T21:30:00.000Z"
       }
     ],
     "worldHeadlines": [
