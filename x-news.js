@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T09:29:32.633Z",
+  "updatedAt": "2026-08-12T09:56:18.377Z",
   "items": [
     {
-      "time": "16:54",
-      "title": "ボーイングHP記述巡り日航に謝罪",
+      "time": "18:35",
+      "title": "墜落 520人の墓標に花生けた遺族",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591457?source=rss",
-      "publishedAt": "2026-08-12T07:54:38.000Z",
-      "xQuery": "ボーイングHP記述巡り日航に謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6591473?source=rss",
+      "publishedAt": "2026-08-12T09:35:17.000Z",
+      "xQuery": "墜落 520人の墓標に花生けた遺族"
     },
     {
       "time": "17:12",

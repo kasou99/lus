@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T09:29:31.752Z",
+  "updatedAt": "2026-08-12T09:56:17.768Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,6 +75,20 @@
         "publishedAt": "2026-08-12T04:33:55.000Z"
       },
       {
+        "time": "13:46",
+        "title": "ウ 米側に対露戦争終結の計画案",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591430?source=rss",
+        "publishedAt": "2026-08-12T04:46:54.000Z"
+      },
+      {
+        "time": "18:41",
+        "title": "露大統領 13年ぶりにサハリン入り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591476?source=rss",
+        "publishedAt": "2026-08-12T09:41:49.000Z"
+      },
+      {
         "time": "17:26",
         "title": "米大統領 3期目出馬に否定的見解",
         "source": "Yahoo!ニュース",
@@ -83,24 +97,10 @@
       },
       {
         "time": "13:46",
-        "title": "ウ 米側に対露戦争終結の計画案",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591430?source=rss",
-        "publishedAt": "2026-08-12T04:46:54.000Z"
-      },
-      {
-        "time": "13:46",
         "title": "日本の重慶総領事「代行」で就任",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591436?source=rss",
         "publishedAt": "2026-08-12T04:46:08.000Z"
-      },
-      {
-        "time": "08:22",
-        "title": "コロンビア地震 行方不明3000人超",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591391?source=rss",
-        "publishedAt": "2026-08-11T23:22:20.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "11:10",
-        "title": "墜落41年 悪天候のなか慰霊登山",
+        "time": "18:35",
+        "title": "墜落 520人の墓標に花生けた遺族",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591408?source=rss",
-        "publishedAt": "2026-08-12T02:10:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591473?source=rss",
+        "publishedAt": "2026-08-12T09:35:17.000Z"
       },
       {
         "time": "07:39",
