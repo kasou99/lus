@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T20:48:42.897Z",
+  "updatedAt": "2026-08-12T21:19:10.337Z",
   "items": [
     {
       "time": "22:04",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "空襲で姉犠牲 地元高1がアニメに"
     },
     {
-      "time": "22:18",
-      "title": "露大統領 北方領土は「ロシア領」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591499?source=rss",
-      "publishedAt": "2026-08-12T13:18:33.000Z",
-      "xQuery": "露大統領 北方領土は「ロシア領」"
-    },
-    {
       "time": "22:43",
       "title": "「性的侮辱」問題 豪が日本に釈明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591502?source=rss",
       "publishedAt": "2026-08-12T13:43:57.000Z",
       "xQuery": "「性的侮辱」問題 豪が日本に釈明"
+    },
+    {
+      "time": "06:12",
+      "title": "特急列車 車との衝突気付かず走行",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591508?source=rss",
+      "publishedAt": "2026-08-12T21:12:01.000Z",
+      "xQuery": "特急列車 車との衝突気付かず走行"
     },
     {
       "time": "22:53",

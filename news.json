@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T20:48:41.842Z",
+  "updatedAt": "2026-08-12T21:19:09.374Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "17:01",
         "title": "7月の工作機械受注速報、前年同月比50．4％増の1931億0200万円(時事通信)",
-        "source": "Yahoo!ファイナンス",
+        "source": "finance.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFFNZUxLREJEd3pzS3BoZHIwS0Vic0t0SmdpWVZVTjBCaHN2bGZ4V3Y0amxjem5HY1BYMFU1ai1ienoxblRBSHphbDdzMnlxRDJQX2pnMVhTN2Q5c3JrUlM2TDV4SFY4T21kUXNjbWg1LTl4T0JtTHN1UzcwZ1hfRUJ3aUdwX0k?oc=5",
         "publishedAt": "2026-08-12T08:01:00.000Z"
       },
@@ -31,18 +31,18 @@
         "publishedAt": "2026-08-12T10:55:00.000Z"
       },
       {
-        "time": "12:00",
-        "title": "CNC工作機械用旋削工具ホルダーの世界市場（2026年～2032年）、市場規模（内部旋削工具ホルダー、外部旋削工具ホルダー）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XMk93WVJTa3V2X1hGNXp5N3JOY3RDeUJVVzlvWmRNRzBsU1BXcFZWN2VWNmtjeHVXQ1RIbkkxQVhpZ0FFVi0wb0hUYk1ObDg?oc=5",
-        "publishedAt": "2026-08-12T03:00:00.000Z"
-      },
-      {
         "time": "15:51",
         "title": "7月の工作機械受注5割増 半導体やデータセンター向け好調",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VGRSTE5Ja2JWaVJEd2p3RGZnSTF5eVJoaURXTHRoQS1mV3JNOUlwc1lOTlh0cE5TWE14WW9lblhfVVRzZUwzVmRkblM5eEtnMDFxbk1fQmpYRjN5TXM2eWN6cHFLVkpxTVloWg?oc=5",
         "publishedAt": "2026-08-12T06:51:18.000Z"
+      },
+      {
+        "time": "12:00",
+        "title": "CNC工作機械用旋削工具ホルダーの世界市場（2026年～2032年）、市場規模（内部旋削工具ホルダー、外部旋削工具ホルダー）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XMk93WVJTa3V2X1hGNXp5N3JOY3RDeUJVVzlvWmRNRzBsU1BXcFZWN2VWNmtjeHVXQ1RIbkkxQVhpZ0FFVi0wb0hUYk1ObDg?oc=5",
+        "publishedAt": "2026-08-12T03:00:00.000Z"
       },
       {
         "time": "09:03",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-08-12T06:16:41.000Z"
       },
       {
+        "time": "06:12",
+        "title": "特急列車 車との衝突気付かず走行",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591508?source=rss",
+        "publishedAt": "2026-08-12T21:12:01.000Z"
+      },
+      {
         "time": "22:53",
         "title": "奇跡に近い 900m流された親子救助",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591504?source=rss",
         "publishedAt": "2026-08-12T13:53:15.000Z"
-      },
-      {
-        "time": "17:27",
-        "title": "砂浜に遺体 不明の22歳男性と判明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591465?source=rss",
-        "publishedAt": "2026-08-12T08:27:36.000Z"
       }
     ],
     "subsidyHeadlines": [
