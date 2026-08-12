@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T11:20:39.815Z",
+  "updatedAt": "2026-08-12T11:48:12.966Z",
   "items": [
     {
-      "time": "18:35",
-      "title": "墜落 520人の墓標に花生けた遺族",
+      "time": "17:43",
+      "title": "中道の総支部解散が相次ぐ 30超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591473?source=rss",
-      "publishedAt": "2026-08-12T09:35:17.000Z",
-      "xQuery": "墜落 520人の墓標に花生けた遺族"
+      "url": "https://news.yahoo.co.jp/pickup/6591468?source=rss",
+      "publishedAt": "2026-08-12T08:43:36.000Z",
+      "xQuery": "中道の総支部解散が相次ぐ 30超"
     },
     {
       "time": "19:42",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "朱鎔基・元中国首相が死去 97歳"
     },
     {
-      "time": "17:18",
-      "title": "移住先で夫不貞 離婚し生き方模索",
+      "time": "20:37",
+      "title": "イオン爆発 ハビタが「補償模索」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591464?source=rss",
-      "publishedAt": "2026-08-12T08:18:42.000Z",
-      "xQuery": "移住先で夫不貞 離婚し生き方模索"
+      "url": "https://news.yahoo.co.jp/pickup/6591485?source=rss",
+      "publishedAt": "2026-08-12T11:37:21.000Z",
+      "xQuery": "イオン爆発 ハビタが「補償模索」"
     },
     {
       "time": "17:27",

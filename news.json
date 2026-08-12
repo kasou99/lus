@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-08-12T11:20:39.082Z",
+  "updatedAt": "2026-08-12T11:48:12.208Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "15:34",
         "title": "7月工作機械受注は前年比50.4％増、13カ月連続プラス＝工作機械工業会",
-        "source": "ロイター",
+        "source": "jp.reuters.com",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY0hPSE53ZVVaWlFIVWtJS18yam5CcE1hd3N6Y1ZZaGlkQjNQNWJLbFlNNmNaM1hWZW16UkR0eXdfVGl5NFpZMDBtMUlLM1VhRE1vRHVqRm8tQ25OTXNqZ0pRMmEzSzdVaTRqSjRYWExtWmtSS2liRzl6NVl3QmJ5Yw?oc=5",
         "publishedAt": "2026-08-12T06:34:00.000Z"
-      },
-      {
-        "time": "15:51",
-        "title": "7月の工作機械受注5割増 半導体やデータセンター向け好調",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VGRSTE5Ja2JWaVJEd2p3RGZnSTF5eVJoaURXTHRoQS1mV3JNOUlwc1lOTlh0cE5TWE14WW9lblhfVVRzZUwzVmRkblM5eEtnMDFxbk1fQmpYRjN5TXM2eWN6cHFLVkpxTVloWg?oc=5",
-        "publishedAt": "2026-08-12T06:51:18.000Z"
       },
       {
         "time": "15:34",
@@ -29,6 +22,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jYnZvWEk0bkcxLUF6Sk5nSW1wdFRNZFJJNXhNVW9FeDFzUkpfb25jMjM0d0x4N3ZtellTU2NNU2hPZVVtNGdJQUJlWnp1MUo2YjJiendDbGxWZ3ZWeXlFVWxyZHlEYndaWnVpMnJCcw?oc=5",
         "publishedAt": "2026-08-12T04:00:00.000Z"
+      },
+      {
+        "time": "15:51",
+        "title": "7月の工作機械受注5割増 半導体やデータセンター向け好調",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VGRSTE5Ja2JWaVJEd2p3RGZnSTF5eVJoaURXTHRoQS1mV3JNOUlwc1lOTlh0cE5TWE14WW9lblhfVVRzZUwzVmRkblM5eEtnMDFxbk1fQmpYRjN5TXM2eWN6cHFLVkpxTVloWg?oc=5",
+        "publishedAt": "2026-08-12T06:51:18.000Z"
       },
       {
         "time": "12:00",
@@ -119,11 +119,18 @@
         "publishedAt": "2026-08-12T07:54:38.000Z"
       },
       {
-        "time": "22:38",
-        "title": "イオン 爆発事故で遺族に補償方針",
+        "time": "20:37",
+        "title": "イオン爆発 ハビタが「補償模索」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591365?source=rss",
-        "publishedAt": "2026-08-11T13:38:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591485?source=rss",
+        "publishedAt": "2026-08-12T11:37:21.000Z"
+      },
+      {
+        "time": "20:35",
+        "title": "コメ収穫始まる 倉庫は古米山積み",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591486?source=rss",
+        "publishedAt": "2026-08-12T11:35:17.000Z"
       },
       {
         "time": "11:33",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591414?source=rss",
         "publishedAt": "2026-08-12T02:33:53.000Z"
-      },
-      {
-        "time": "08:17",
-        "title": "「四国新幹線」実現なるか 現状は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591392?source=rss",
-        "publishedAt": "2026-08-11T23:17:08.000Z"
       },
       {
         "time": "19:53",
