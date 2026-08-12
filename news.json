@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T18:23:24.152Z",
+  "updatedAt": "2026-08-12T18:50:31.166Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,16 +19,9 @@
       {
         "time": "13:00",
         "title": "厚さ計測と多目的用途に新たな工作機械用プローブ、JIMTOF2026で初公開へ",
-        "source": "monoist.itmedia.co.jp",
+        "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jYnZvWEk0bkcxLUF6Sk5nSW1wdFRNZFJJNXhNVW9FeDFzUkpfb25jMjM0d0x4N3ZtellTU2NNU2hPZVVtNGdJQUJlWnp1MUo2YjJiendDbGxWZ3ZWeXlFVWxyZHlEYndaWnVpMnJCcw?oc=5",
         "publishedAt": "2026-08-12T04:00:00.000Z"
-      },
-      {
-        "time": "19:55",
-        "title": "年次ユーザーイベント「EPLAN NETWORK JAPAN 2026」開催 制御盤づくりにおけるデータ連携・活用の重要性を再認識",
-        "source": "オートメーション新聞WEB",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52elYwdGg0LWM0U19KTFdYakNPTnBRTmdfNzBmMUZaRVVGQmR5UV80aXNqcjczTW45ZU0wdk8zMDl5UTRGeVR4ekhBY3A3UW44ZTdON1N5dWFwdw?oc=5",
-        "publishedAt": "2026-08-12T10:55:00.000Z"
       },
       {
         "time": "12:00",
@@ -38,6 +31,13 @@
         "publishedAt": "2026-08-12T03:00:00.000Z"
       },
       {
+        "time": "19:55",
+        "title": "年次ユーザーイベント「EPLAN NETWORK JAPAN 2026」開催 制御盤づくりにおけるデータ連携・活用の重要性を再認識 - automation-news.jp",
+        "source": "automation-news.jp",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52elYwdGg0LWM0U19KTFdYakNPTnBRTmdfNzBmMUZaRVVGQmR5UV80aXNqcjczTW45ZU0wdk8zMDl5UTRGeVR4ekhBY3A3UW44ZTdON1N5dWFwdw?oc=5",
+        "publishedAt": "2026-08-12T10:55:00.000Z"
+      },
+      {
         "time": "15:51",
         "title": "7月の工作機械受注5割増 半導体やデータセンター向け好調",
         "source": "日本経済新聞",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-12T06:51:18.000Z"
       },
       {
+        "time": "09:03",
+        "title": "オーネックス－買い気配 前期営業損益を上方修正 産業工作機械関連が好調",
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10dXNqdDZHbzdzeFdxS3pGa2hOR2xzamRFQkhxUF9pQnE5SXJqRXZBNUlsMVlBb1UyS2huZ3A2bGthMF9adU5LZHBWenplamVrS0dveEdzMVNSMDM1aUxBaUZWMGRScDUxRkpuZ2lhVQ?oc=5",
+        "publishedAt": "2026-08-12T00:03:14.000Z"
+      },
+      {
         "time": "10:48",
         "title": "オーネックスがＳ高カイ気配、産業工作機械関連好調で２６年６月期業績は計画上振れ",
         "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91NTlGV0ZLNWM2ZE5DMTJjVWQxQVJ4MHlfUVF1a1B6WnBUNHEzcmdBanBkREpzY0VNUnB2VFRVTGRSUFZLaGFiaFYtb1VpTnBXWWliOE5EN3lGLXlpTkdlZw?oc=5",
         "publishedAt": "2026-08-12T01:48:00.000Z"
-      },
-      {
-        "time": "17:01",
-        "title": "7月の工作機械受注速報、前年同月比50．4％増の1931億0200万円(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFFNZUxLREJEd3pzS3BoZHIwS0Vic0t0SmdpWVZVTjBCaHN2bGZ4V3Y0amxjem5HY1BYMFU1ai1ienoxblRBSHphbDdzMnlxRDJQX2pnMVhTN2Q5c3JrUlM2TDV4SFY4T21kUXNjbWg1LTl4T0JtTHN1UzcwZ1hfRUJ3aUdwX0k?oc=5",
-        "publishedAt": "2026-08-12T08:01:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
