@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T07:35:28.670Z",
+  "updatedAt": "2026-08-12T08:35:06.608Z",
   "items": [
+    {
+      "time": "16:54",
+      "title": "ボーイングHP記述巡り日航に謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591457?source=rss",
+      "publishedAt": "2026-08-12T07:54:38.000Z",
+      "xQuery": "ボーイングHP記述巡り日航に謝罪"
+    },
     {
       "time": "16:16",
       "title": "台風17号 来週関東など近づく恐れ",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591452?source=rss",
       "publishedAt": "2026-08-12T07:16:29.000Z",
       "xQuery": "台風17号 来週関東など近づく恐れ"
-    },
-    {
-      "time": "13:33",
-      "title": "米 イラン選択肢は経済破綻か攻撃",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591435?source=rss",
-      "publishedAt": "2026-08-12T04:33:55.000Z",
-      "xQuery": "米 イラン選択肢は経済破綻か攻撃"
-    },
-    {
-      "time": "15:16",
-      "title": "江別暴行死 当時18歳の被告が控訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591443?source=rss",
-      "publishedAt": "2026-08-12T06:16:41.000Z",
-      "xQuery": "江別暴行死 当時18歳の被告が控訴"
     },
     {
       "time": "16:02",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "検事総長が退任 不祥事続発を陳謝"
     },
     {
-      "time": "16:30",
-      "title": "人が入る箱型冷房 建設業など注目",
+      "time": "17:18",
+      "title": "移住先で夫不貞 離婚し生き方模索",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591455?source=rss",
-      "publishedAt": "2026-08-12T07:30:39.000Z",
-      "xQuery": "人が入る箱型冷房 建設業など注目"
+      "url": "https://news.yahoo.co.jp/pickup/6591464?source=rss",
+      "publishedAt": "2026-08-12T08:18:42.000Z",
+      "xQuery": "移住先で夫不貞 離婚し生き方模索"
+    },
+    {
+      "time": "17:18",
+      "title": "印の旅客機急降下 機長は大麻陽性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591463?source=rss",
+      "publishedAt": "2026-08-12T08:18:02.000Z",
+      "xQuery": "印の旅客機急降下 機長は大麻陽性"
     }
   ]
 };

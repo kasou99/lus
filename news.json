@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-12T07:35:27.874Z",
+  "updatedAt": "2026-08-12T08:35:05.968Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "15:34",
-        "title": "7月工作機械受注は前年比50.4％増、13カ月連続プラス＝工作機械工業会（ロイター）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04STlWRm9WX1lBNEVTRm8zRVIzZ0lZTlNVZTZtaVBDeVhoSFAzLTgtQTJhTGF6MGlxc0QyYS1pcm1GWjBhNm1yOVFvTlJBSTJrbTZoMmx6bGpLX1JuTUNVZFA3eTBPa1VYcWpGWW4zMzhIYklDSmhhOVlwWFRtS00?oc=5",
-        "publishedAt": "2026-08-12T06:34:46.000Z"
-      },
       {
         "time": "15:51",
         "title": "7月の工作機械受注5割増 半導体やデータセンター向け好調",
@@ -17,16 +10,23 @@
         "publishedAt": "2026-08-12T06:51:18.000Z"
       },
       {
+        "time": "15:34",
+        "title": "7月工作機械受注は前年比50.4％増、13カ月連続プラス＝工作機械工業会（ロイター）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04STlWRm9WX1lBNEVTRm8zRVIzZ0lZTlNVZTZtaVBDeVhoSFAzLTgtQTJhTGF6MGlxc0QyYS1pcm1GWjBhNm1yOVFvTlJBSTJrbTZoMmx6bGpLX1JuTUNVZFA3eTBPa1VYcWpGWW4zMzhIYklDSmhhOVlwWFRtS00?oc=5",
+        "publishedAt": "2026-08-12T06:34:46.000Z"
+      },
+      {
         "time": "13:00",
         "title": "厚さ計測と多目的用途に新たな工作機械用プローブ、JIMTOF2026で初公開へ",
-        "source": "monoist.itmedia.co.jp",
+        "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jYnZvWEk0bkcxLUF6Sk5nSW1wdFRNZFJJNXhNVW9FeDFzUkpfb25jMjM0d0x4N3ZtellTU2NNU2hPZVVtNGdJQUJlWnp1MUo2YjJiendDbGxWZ3ZWeXlFVWxyZHlEYndaWnVpMnJCcw?oc=5",
         "publishedAt": "2026-08-12T04:00:00.000Z"
       },
       {
         "time": "12:00",
         "title": "CNC工作機械用旋削工具ホルダーの世界市場（2026年～2032年）、市場規模（内部旋削工具ホルダー、外部旋削工具ホルダー）・分析レポートを発表",
-        "source": "atpress.ne.jp",
+        "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XMk93WVJTa3V2X1hGNXp5N3JOY3RDeUJVVzlvWmRNRzBsU1BXcFZWN2VWNmtjeHVXQ1RIbkkxQVhpZ0FFVi0wb0hUYk1ObDg?oc=5",
         "publishedAt": "2026-08-12T03:00:00.000Z"
       },
@@ -38,6 +38,13 @@
         "publishedAt": "2026-08-12T01:48:00.000Z"
       },
       {
+        "time": "17:01",
+        "title": "7月の工作機械受注速報、前年同月比50．4％増の1931億0200万円(時事通信)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFFNZUxLREJEd3pzS3BoZHIwS0Vic0t0SmdpWVZVTjBCaHN2bGZ4V3Y0amxjem5HY1BYMFU1ai1ienoxblRBSHphbDdzMnlxRDJQX2pnMVhTN2Q5c3JrUlM2TDV4SFY4T21kUXNjbWg1LTl4T0JtTHN1UzcwZ1hfRUJ3aUdwX0k?oc=5",
+        "publishedAt": "2026-08-12T08:01:00.000Z"
+      },
+      {
         "time": "15:13",
         "title": "日本工作機械工業会、7月の工作機械受注額（速報）を発表",
         "source": "日本経済新聞",
@@ -47,15 +54,8 @@
       {
         "time": "06:30",
         "title": "今日の注目スケジュール：工作機械受注、米消費者物価コア指数、米財政収支など",
-        "source": "ｄメニューニュース",
+        "source": "topics.smt.docomo.ne.jp",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXV1OWlfMWRmYnM1MG14R2NRWURLWFBFMHdCS25lZE96TE5ZVHdNaHBDX3pUWnhUOEVhRDh4akdBMXpmOXY2WThVdTNqWmo4SUZUZkp5dWFQODRDVVVZekU3RWtLb19iNW1kTGh0QnpYZ1BYNXpwVVE3T1AyLW1uQlEyMkpyWWQ1aUZvTNIBjAFBVV95cUxPdXV1OWlfMWRmYnM1MG14R2NRWURLWFBFMHdCS25lZE96TE5ZVHdNaHBDX3pUWnhUOEVhRDh4akdBMXpmOXY2WThVdTNqWmo4SUZUZkp5dWFQODRDVVVZekU3RWtLb19iNW1kTGh0QnpYZ1BYNXpwVVE3T1AyLW1uQlEyMkpyWWQ1aUZvTA?oc=5",
-        "publishedAt": "2026-08-11T21:30:00.000Z"
-      },
-      {
-        "time": "06:30",
-        "title": "今日の注目スケジュール：工作機械受注、米消費者物価コア指数、米財政収支など 提供 Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-        "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14cndzNDRDYXhNYTE5T09nelhUT05hcGJVc3ZkWjdoRGcxaTk1Umw5LTVoTmoyZWRxZWhKbWtiOFVDaVdFNHFxZVJNQUxUN1AxRHhGZnZtU0hJTnZxTkR0aTNzZWh4VHFpLXdrUjRMZ3hDOW5xUXdZ?oc=5",
         "publishedAt": "2026-08-11T21:30:00.000Z"
       }
     ],
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591435?source=rss",
         "publishedAt": "2026-08-12T04:33:55.000Z"
+      },
+      {
+        "time": "17:26",
+        "title": "米大統領 3期目出馬に否定的見解",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591459?source=rss",
+        "publishedAt": "2026-08-12T08:26:15.000Z"
       },
       {
         "time": "13:46",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591391?source=rss",
         "publishedAt": "2026-08-11T23:22:20.000Z"
-      },
-      {
-        "time": "10:41",
-        "title": "レバノンが死刑廃止 中東で初",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591406?source=rss",
-        "publishedAt": "2026-08-12T01:41:28.000Z"
       }
     ],
     "economyHeadlines": [
@@ -112,18 +112,18 @@
         "publishedAt": "2026-08-12T03:25:35.000Z"
       },
       {
+        "time": "16:54",
+        "title": "ボーイングHP記述巡り日航に謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591457?source=rss",
+        "publishedAt": "2026-08-12T07:54:38.000Z"
+      },
+      {
         "time": "22:38",
         "title": "イオン 爆発事故で遺族に補償方針",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591365?source=rss",
         "publishedAt": "2026-08-11T13:38:51.000Z"
-      },
-      {
-        "time": "22:14",
-        "title": "イオン再入館 証言から浮かぶ混乱",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591360?source=rss",
-        "publishedAt": "2026-08-11T13:14:06.000Z"
       },
       {
         "time": "11:33",
@@ -170,25 +170,25 @@
         "publishedAt": "2026-08-12T06:16:41.000Z"
       },
       {
+        "time": "17:12",
+        "title": "辺野古 運航団体関係先を家宅捜索",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591461?source=rss",
+        "publishedAt": "2026-08-12T08:12:53.000Z"
+      },
+      {
+        "time": "17:27",
+        "title": "砂浜に遺体 不明の22歳男性と判明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591465?source=rss",
+        "publishedAt": "2026-08-12T08:27:36.000Z"
+      },
+      {
         "time": "08:19",
         "title": "オフロード走行中か 車滑落し死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591390?source=rss",
         "publishedAt": "2026-08-11T23:19:27.000Z"
-      },
-      {
-        "time": "21:22",
-        "title": "子供2人死亡 海の流れに識者驚き",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591355?source=rss",
-        "publishedAt": "2026-08-11T12:22:54.000Z"
-      },
-      {
-        "time": "23:43",
-        "title": "砂浜に遺体 近くで22歳男性が不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591374?source=rss",
-        "publishedAt": "2026-08-11T14:43:55.000Z"
       }
     ],
     "subsidyHeadlines": [
