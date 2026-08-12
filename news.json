@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-08-12T22:47:58.199Z",
+  "updatedAt": "2026-08-12T23:17:50.719Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:04",
         "title": "7月の工作機械受注、50%増 中国・北米好調続く",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YRm5RVkREc2E2dXZ2azhYTzkxLUxoRWhKWXJhaUtxekQ4bHpaNllBZ016Qlo1SFFWYXdSeXh6OVlSeTducHJ2V0h3WmVGTzJSWHhQYWZWcF9WV2M?oc=5",
         "publishedAt": "2026-08-12T20:04:32.000Z"
-      },
-      {
-        "time": "15:34",
-        "title": "7月工作機械受注は前年比50.4％増、13カ月連続プラス＝工作機械工業会",
-        "source": "ロイター",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY0hPSE53ZVVaWlFIVWtJS18yam5CcE1hd3N6Y1ZZaGlkQjNQNWJLbFlNNmNaM1hWZW16UkR0eXdfVGl5NFpZMDBtMUlLM1VhRE1vRHVqRm8tQ25OTXNqZ0pRMmEzSzdVaTRqSjRYWExtWmtSS2liRzl6NVl3QmJ5Yw?oc=5",
-        "publishedAt": "2026-08-12T06:34:00.000Z"
       },
       {
         "time": "06:30",
@@ -40,7 +33,7 @@
       {
         "time": "15:51",
         "title": "7月の工作機械受注5割増 半導体やデータセンター向け好調",
-        "source": "nikkei.com",
+        "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VGRSTE5Ja2JWaVJEd2p3RGZnSTF5eVJoaURXTHRoQS1mV3JNOUlwc1lOTlh0cE5TWE14WW9lblhfVVRzZUwzVmRkblM5eEtnMDFxbk1fQmpYRjN5TXM2eWN6cHFLVkpxTVloWg?oc=5",
         "publishedAt": "2026-08-12T06:51:18.000Z"
       },
@@ -50,6 +43,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XMk93WVJTa3V2X1hGNXp5N3JOY3RDeUJVVzlvWmRNRzBsU1BXcFZWN2VWNmtjeHVXQ1RIbkkxQVhpZ0FFVi0wb0hUYk1ObDg?oc=5",
         "publishedAt": "2026-08-12T03:00:00.000Z"
+      },
+      {
+        "time": "09:03",
+        "title": "オーネックス－買い気配 前期営業損益を上方修正 産業工作機械関連が好調",
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10dXNqdDZHbzdzeFdxS3pGa2hOR2xzamRFQkhxUF9pQnE5SXJqRXZBNUlsMVlBb1UyS2huZ3A2bGthMF9adU5LZHBWenplamVrS0dveEdzMVNSMDM1aUxBaUZWMGRScDUxRkpuZ2lhVQ?oc=5",
+        "publishedAt": "2026-08-12T00:03:14.000Z"
       },
       {
         "time": "10:48",
@@ -66,13 +66,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591499?source=rss",
         "publishedAt": "2026-08-12T13:18:33.000Z"
-      },
-      {
-        "time": "12:47",
-        "title": "日本兵と戦わされた 英植民地男性",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591422?source=rss",
-        "publishedAt": "2026-08-12T03:47:00.000Z"
       },
       {
         "time": "13:33",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591459?source=rss",
         "publishedAt": "2026-08-12T08:26:15.000Z"
+      },
+      {
+        "time": "07:50",
+        "title": "米大統領報道官が今月で辞任 発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591519?source=rss",
+        "publishedAt": "2026-08-12T22:50:02.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,11 +133,11 @@
         "publishedAt": "2026-08-12T22:26:46.000Z"
       },
       {
-        "time": "20:35",
-        "title": "コメ収穫始まる 倉庫は古米山積み",
+        "time": "08:15",
+        "title": "高密度の金含む鉱石 相次ぎ発見",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591486?source=rss",
-        "publishedAt": "2026-08-12T11:35:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591523?source=rss",
+        "publishedAt": "2026-08-12T23:15:03.000Z"
       },
       {
         "time": "11:33",

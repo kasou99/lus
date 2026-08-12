@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T22:47:58.741Z",
+  "updatedAt": "2026-08-12T23:17:51.479Z",
   "items": [
     {
       "time": "06:34",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "東北から近畿 急な雨や落雷に注意"
     },
     {
-      "time": "06:43",
-      "title": "日本国旗損壊罪法 きょう施行",
+      "time": "07:26",
+      "title": "猛暑常態化 工事の「夏季休工」増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591512?source=rss",
-      "publishedAt": "2026-08-12T21:43:29.000Z",
-      "xQuery": "日本国旗損壊罪法 きょう施行"
+      "url": "https://news.yahoo.co.jp/pickup/6591517?source=rss",
+      "publishedAt": "2026-08-12T22:26:46.000Z",
+      "xQuery": "猛暑常態化 工事の「夏季休工」増"
     },
     {
-      "time": "06:21",
-      "title": "公園に身元不明の遺体 名古屋市",
+      "time": "07:50",
+      "title": "米大統領報道官が今月で辞任 発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591509?source=rss",
-      "publishedAt": "2026-08-12T21:21:54.000Z",
-      "xQuery": "公園に身元不明の遺体 名古屋市"
+      "url": "https://news.yahoo.co.jp/pickup/6591519?source=rss",
+      "publishedAt": "2026-08-12T22:50:02.000Z",
+      "xQuery": "米大統領報道官が今月で辞任 発表"
     },
     {
       "time": "06:12",
