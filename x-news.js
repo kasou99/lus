@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T12:23:40.289Z",
+  "updatedAt": "2026-08-13T12:50:18.636Z",
   "items": [
     {
       "time": "20:23",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉県に大雨特別警報 最新情報"
     },
     {
-      "time": "20:30",
-      "title": "大雨で車内閉じ込め 女性心肺停止",
+      "time": "21:30",
+      "title": "船橋市 広範囲の道路で冠水相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591621?source=rss",
-      "publishedAt": "2026-08-13T11:30:39.000Z",
-      "xQuery": "大雨で車内閉じ込め 女性心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6591628?source=rss",
+      "publishedAt": "2026-08-13T12:30:06.000Z",
+      "xQuery": "船橋市 広範囲の道路で冠水相次ぐ"
     }
   ]
 };
