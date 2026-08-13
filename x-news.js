@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T01:36:56.370Z",
+  "updatedAt": "2026-08-13T02:59:47.352Z",
   "items": [
     {
-      "time": "09:25",
-      "title": "日本海側は猛暑 関東など雷雨注意",
+      "time": "11:43",
+      "title": "被爆した父 体内のガラス時々出た",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591533?source=rss",
-      "publishedAt": "2026-08-13T00:25:16.000Z",
-      "xQuery": "日本海側は猛暑 関東など雷雨注意"
+      "url": "https://news.yahoo.co.jp/pickup/6591548?source=rss",
+      "publishedAt": "2026-08-13T02:43:28.000Z",
+      "xQuery": "被爆した父 体内のガラス時々出た"
     },
     {
-      "time": "09:58",
-      "title": "日経平均 一時6万8000円台回復",
+      "time": "11:36",
+      "title": "相互関税還付 米で日本企業を提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591539?source=rss",
-      "publishedAt": "2026-08-13T00:58:30.000Z",
-      "xQuery": "日経平均 一時6万8000円台回復"
+      "url": "https://news.yahoo.co.jp/pickup/6591541?source=rss",
+      "publishedAt": "2026-08-13T02:36:32.000Z",
+      "xQuery": "相互関税還付 米で日本企業を提訴"
     },
     {
-      "time": "09:50",
-      "title": "外国人政策の厳格化加速 懸念の声",
+      "time": "11:36",
+      "title": "バブル・氷河期・Z 各世代の働く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591536?source=rss",
-      "publishedAt": "2026-08-13T00:50:15.000Z",
-      "xQuery": "外国人政策の厳格化加速 懸念の声"
+      "url": "https://news.yahoo.co.jp/pickup/6591554?source=rss",
+      "publishedAt": "2026-08-13T02:36:06.000Z",
+      "xQuery": "バブル・氷河期・Z 各世代の働く"
     },
     {
-      "time": "10:04",
-      "title": "偽装結婚疑い1千件 米で11人逮捕",
+      "time": "11:18",
+      "title": "9億円相当の覚醒剤密輸疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591540?source=rss",
-      "publishedAt": "2026-08-13T01:04:58.000Z",
-      "xQuery": "偽装結婚疑い1千件 米で11人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6591543?source=rss",
+      "publishedAt": "2026-08-13T02:18:48.000Z",
+      "xQuery": "9億円相当の覚醒剤密輸疑い 逮捕"
     },
     {
-      "time": "09:04",
-      "title": "川崎市でニシキヘビ2匹が脱走",
+      "time": "11:41",
+      "title": "流星群の観測ツアー参加者 滑落か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591532?source=rss",
-      "publishedAt": "2026-08-13T00:04:28.000Z",
-      "xQuery": "川崎市でニシキヘビ2匹が脱走"
+      "url": "https://news.yahoo.co.jp/pickup/6591550?source=rss",
+      "publishedAt": "2026-08-13T02:41:29.000Z",
+      "xQuery": "流星群の観測ツアー参加者 滑落か"
     }
   ]
 };
