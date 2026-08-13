@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T04:40:43.438Z",
+  "updatedAt": "2026-08-13T05:35:45.419Z",
   "items": [
     {
       "time": "13:29",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "露大統領の択捉島訪問 茂木氏抗議"
     },
     {
-      "time": "12:39",
-      "title": "大気が不安定 局地的な大雨に警戒",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591559?source=rss",
-      "publishedAt": "2026-08-13T03:39:11.000Z",
-      "xQuery": "大気が不安定 局地的な大雨に警戒"
-    },
-    {
       "time": "12:55",
       "title": "秋篠宮さま 皇室典範巡りコメント",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591564?source=rss",
       "publishedAt": "2026-08-13T03:55:31.000Z",
       "xQuery": "秋篠宮さま 皇室典範巡りコメント"
+    },
+    {
+      "time": "13:58",
+      "title": "闇バイト応募で渡米 邦人男性保護",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591577?source=rss",
+      "publishedAt": "2026-08-13T04:58:58.000Z",
+      "xQuery": "闇バイト応募で渡米 邦人男性保護"
     },
     {
       "time": "13:32",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "泳いで母助けに 18歳遺体で発見"
     },
     {
-      "time": "13:11",
-      "title": "新スペース・マウンテン 名称決定",
+      "time": "13:40",
+      "title": "芸能プロの佐藤企画 破産開始決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591568?source=rss",
-      "publishedAt": "2026-08-13T04:11:12.000Z",
-      "xQuery": "新スペース・マウンテン 名称決定"
+      "url": "https://news.yahoo.co.jp/pickup/6591573?source=rss",
+      "publishedAt": "2026-08-13T04:40:47.000Z",
+      "xQuery": "芸能プロの佐藤企画 破産開始決定"
     }
   ]
 };

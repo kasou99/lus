@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T04:40:42.417Z",
+  "updatedAt": "2026-08-13T05:35:44.547Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-08-12T06:34:00.000Z"
       },
       {
+        "time": "14:06",
+        "title": "DMG森精機、477億円調達し国内外拠点を増強",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sV2NQV3A0Q1hOUllseHNUeHNyM01fQzg2a2FPaEdobXJDZUNpaC1GYk44UjBrLVFyV3RMMnEydk1falBZdEFXNg?oc=5",
+        "publishedAt": "2026-08-13T05:06:01.000Z"
+      },
+      {
         "time": "19:55",
         "title": "年次ユーザーイベント「EPLAN NETWORK JAPAN 2026」開催 制御盤づくりにおけるデータ連携・活用の重要性を再認識",
         "source": "オートメーション新聞WEB",
@@ -50,13 +57,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VGRSTE5Ja2JWaVJEd2p3RGZnSTF5eVJoaURXTHRoQS1mV3JNOUlwc1lOTlh0cE5TWE14WW9lblhfVVRzZUwzVmRkblM5eEtnMDFxbk1fQmpYRjN5TXM2eWN6cHFLVkpxTVloWg?oc=5",
         "publishedAt": "2026-08-12T06:51:18.000Z"
-      },
-      {
-        "time": "15:34",
-        "title": "7月工作機械受注は前年比50.4％増、13カ月連続プラス＝工作機械工業会｜Infoseekニュース",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmUDlLV0ptMjdYZU9ISV9JeHlWcWNuM0lEbTM2S2dNbEYxTmhfdjA5dUFmcEx5b1dfb3BUanlEQzlnVlhkZ01LUllXbEZfOVN5WjJXbk9ST3BxdExTSEVTek1DQWg5OHMyaTlTWE93?oc=5",
-        "publishedAt": "2026-08-12T06:34:46.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-08-13T02:51:05.000Z"
       },
       {
+        "time": "13:58",
+        "title": "闇バイト応募で渡米 邦人男性保護",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591577?source=rss",
+        "publishedAt": "2026-08-13T04:58:58.000Z"
+      },
+      {
         "time": "09:31",
         "title": "米軍ヘリ墜落で2人死亡 テキサス",
         "source": "Yahoo!ニュース",
@@ -94,23 +101,9 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591529?source=rss",
         "publishedAt": "2026-08-12T23:45:02.000Z"
-      },
-      {
-        "time": "07:50",
-        "title": "米大統領報道官が今月で辞任 発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591519?source=rss",
-        "publishedAt": "2026-08-12T22:50:02.000Z"
       }
     ],
     "economyHeadlines": [
-      {
-        "time": "09:58",
-        "title": "日経平均 一時6万8000円台回復",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591539?source=rss",
-        "publishedAt": "2026-08-13T00:58:30.000Z"
-      },
       {
         "time": "20:37",
         "title": "イオン爆発 ハビタが「補償模索」",
@@ -131,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591523?source=rss",
         "publishedAt": "2026-08-12T23:15:03.000Z"
+      },
+      {
+        "time": "13:40",
+        "title": "芸能プロの佐藤企画 破産開始決定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591573?source=rss",
+        "publishedAt": "2026-08-13T04:40:47.000Z"
       },
       {
         "time": "13:08",
@@ -163,18 +163,18 @@
         "publishedAt": "2026-08-13T04:32:33.000Z"
       },
       {
+        "time": "13:46",
+        "title": "韓国岳の火口で男性発見 心肺停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591574?source=rss",
+        "publishedAt": "2026-08-13T04:46:52.000Z"
+      },
+      {
         "time": "12:34",
         "title": "横浜市長 議会でパワハラを謝罪",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591563?source=rss",
         "publishedAt": "2026-08-13T03:34:56.000Z"
-      },
-      {
-        "time": "11:41",
-        "title": "流星群の観測ツアー参加者 滑落か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591550?source=rss",
-        "publishedAt": "2026-08-13T02:41:29.000Z"
       },
       {
         "time": "11:18",
