@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T20:15:35.665Z",
+  "updatedAt": "2026-08-13T20:48:05.325Z",
   "items": [
     {
-      "time": "00:00",
-      "title": "千葉県の大雨特別警報 エリア拡大",
+      "time": "05:42",
+      "title": "千葉県の特別警報 危険警報に切替",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591641?source=rss",
-      "publishedAt": "2026-08-13T15:00:11.000Z",
-      "xQuery": "千葉県の大雨特別警報 エリア拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6591650?source=rss",
+      "publishedAt": "2026-08-13T20:42:44.000Z",
+      "xQuery": "千葉県の特別警報 危険警報に切替"
     },
     {
-      "time": "00:07",
-      "title": "千葉県に土砂災害特別警報",
+      "time": "05:29",
+      "title": "危険な雨 土砂災害など終日警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591642?source=rss",
-      "publishedAt": "2026-08-13T15:07:54.000Z",
-      "xQuery": "千葉県に土砂災害特別警報"
+      "url": "https://news.yahoo.co.jp/pickup/6591649?source=rss",
+      "publishedAt": "2026-08-13T20:29:37.000Z",
+      "xQuery": "危険な雨 土砂災害など終日警戒"
     },
     {
       "time": "19:41",
