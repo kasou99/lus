@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T03:52:52.035Z",
+  "updatedAt": "2026-08-13T04:40:42.417Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -126,18 +126,18 @@
         "publishedAt": "2026-08-13T02:36:06.000Z"
       },
       {
-        "time": "07:26",
-        "title": "猛暑常態化 工事の「夏季休工」増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591517?source=rss",
-        "publishedAt": "2026-08-12T22:26:46.000Z"
-      },
-      {
         "time": "08:15",
         "title": "高密度の金含む鉱石 相次ぎ発見",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591523?source=rss",
         "publishedAt": "2026-08-12T23:15:03.000Z"
+      },
+      {
+        "time": "13:08",
+        "title": "米国外初 表参道にグーグル直営店",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591566?source=rss",
+        "publishedAt": "2026-08-13T04:08:05.000Z"
       },
       {
         "time": "19:53",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "10:59",
-        "title": "16歳で激戦地へ 命救った現地住民",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591542?source=rss",
-        "publishedAt": "2026-08-13T01:59:46.000Z"
-      },
-      {
         "time": "11:43",
         "title": "被爆した父 体内のガラス時々出た",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591548?source=rss",
         "publishedAt": "2026-08-13T02:43:28.000Z"
+      },
+      {
+        "time": "13:32",
+        "title": "泳いで母助けに 18歳遺体で発見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591571?source=rss",
+        "publishedAt": "2026-08-13T04:32:33.000Z"
       },
       {
         "time": "12:34",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },

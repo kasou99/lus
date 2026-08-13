@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T03:52:52.648Z",
+  "updatedAt": "2026-08-13T04:40:43.438Z",
   "items": [
     {
-      "time": "12:13",
-      "title": "プーチン大統領 北方領土を初訪問",
+      "time": "13:29",
+      "title": "露大統領の択捉島訪問 茂木氏抗議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591560?source=rss",
-      "publishedAt": "2026-08-13T03:13:10.000Z",
-      "xQuery": "プーチン大統領 北方領土を初訪問"
+      "url": "https://news.yahoo.co.jp/pickup/6591572?source=rss",
+      "publishedAt": "2026-08-13T04:29:51.000Z",
+      "xQuery": "露大統領の択捉島訪問 茂木氏抗議"
     },
     {
-      "time": "11:36",
-      "title": "バブル・氷河期・Z 各世代の働く",
+      "time": "12:39",
+      "title": "大気が不安定 局地的な大雨に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591554?source=rss",
-      "publishedAt": "2026-08-13T02:36:06.000Z",
-      "xQuery": "バブル・氷河期・Z 各世代の働く"
+      "url": "https://news.yahoo.co.jp/pickup/6591559?source=rss",
+      "publishedAt": "2026-08-13T03:39:11.000Z",
+      "xQuery": "大気が不安定 局地的な大雨に警戒"
     },
     {
-      "time": "12:34",
-      "title": "横浜市長 議会でパワハラを謝罪",
+      "time": "12:55",
+      "title": "秋篠宮さま 皇室典範巡りコメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591563?source=rss",
-      "publishedAt": "2026-08-13T03:34:56.000Z",
-      "xQuery": "横浜市長 議会でパワハラを謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6591564?source=rss",
+      "publishedAt": "2026-08-13T03:55:31.000Z",
+      "xQuery": "秋篠宮さま 皇室典範巡りコメント"
     },
     {
-      "time": "11:41",
-      "title": "流星群の観測ツアー参加者 滑落か",
+      "time": "13:32",
+      "title": "泳いで母助けに 18歳遺体で発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591550?source=rss",
-      "publishedAt": "2026-08-13T02:41:29.000Z",
-      "xQuery": "流星群の観測ツアー参加者 滑落か"
+      "url": "https://news.yahoo.co.jp/pickup/6591571?source=rss",
+      "publishedAt": "2026-08-13T04:32:33.000Z",
+      "xQuery": "泳いで母助けに 18歳遺体で発見"
     },
     {
-      "time": "08:29",
-      "title": "スシロー&くら寿司 次の成長戦略",
+      "time": "13:11",
+      "title": "新スペース・マウンテン 名称決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591525?source=rss",
-      "publishedAt": "2026-08-12T23:29:24.000Z",
-      "xQuery": "スシロー&くら寿司 次の成長戦略"
+      "url": "https://news.yahoo.co.jp/pickup/6591568?source=rss",
+      "publishedAt": "2026-08-13T04:11:12.000Z",
+      "xQuery": "新スペース・マウンテン 名称決定"
     }
   ]
 };
