@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T16:22:03.789Z",
+  "updatedAt": "2026-08-13T16:49:56.419Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "kabushiki.jp",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5GSVkzLTFRc2tpMnJBV2tjcnBXcnRTRXoza1FlU1JTeXNXN2NoZjFTek5LNXg5VU5SZjZHQ2gzRUlmenlydlJJ?oc=5",
         "publishedAt": "2026-08-13T00:23:00.000Z"
-      },
-      {
-        "time": "17:52",
-        "title": "江口電機が新工場建設に着手 好調続く制御盤の生産能力倍増へ",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EczRvZnpKNVV0cTJ6UnZ0R25DN0E4SVd0aEJ5WkkyQnRFdk0zb3dCaTV5cFpPYzNGNkZzeTdwOXJmZmEzTVZtSGo3WUxTOHFiRXc?oc=5",
-        "publishedAt": "2026-08-13T08:52:04.000Z"
       },
       {
         "time": "05:02",
@@ -57,6 +50,13 @@
         "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yNmdBT2lLOWdFRTJncV8xemlUNWpudEV3Z3JTTEtfYlRVdG1YWV85TnVfSU9Eb0dJcklfUFU1ejFJc3phQjFtYTVhYkxUQzRBb2ZmeXBxdDdWZw?oc=5",
         "publishedAt": "2026-08-13T10:55:00.000Z"
+      },
+      {
+        "time": "10:11",
+        "title": "DMG森精機が大幅安､海外での新株発行で482億円調達",
+        "source": "四季報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oWVBGYVg1WllNVko1b3hJUWpFcHFYcVdJd2M1RDZlcE1PczFvQmo2NlBTbUJ6aDFMMTJLZUJuc1NiWS1oSGdyNDBJS0k1NmJuQjlhX29qOA?oc=5",
+        "publishedAt": "2026-08-13T01:11:00.000Z"
       }
     ],
     "worldHeadlines": [
