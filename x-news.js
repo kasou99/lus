@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T18:50:28.468Z",
+  "updatedAt": "2026-08-13T19:26:33.124Z",
   "items": [
     {
       "time": "00:00",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉県に土砂災害特別警報"
     },
     {
+      "time": "19:41",
+      "title": "安全確保を 大雨のときのNG行動",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6589507?source=rss",
+      "publishedAt": "2026-08-13T10:41:24.000Z",
+      "xQuery": "安全確保を 大雨のときのNG行動"
+    },
+    {
       "time": "21:12",
       "title": "千葉県に大雨特別警報 最新情報",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591623?source=rss",
       "publishedAt": "2026-08-13T12:12:09.000Z",
       "xQuery": "千葉県に大雨特別警報 最新情報"
-    },
-    {
-      "time": "02:17",
-      "title": "千葉県北西部などに線状降水帯",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591644?source=rss",
-      "publishedAt": "2026-08-13T17:17:49.000Z",
-      "xQuery": "千葉県北西部などに線状降水帯"
     },
     {
       "time": "22:46",

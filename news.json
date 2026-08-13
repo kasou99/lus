@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-13T18:50:27.777Z",
+  "updatedAt": "2026-08-13T19:26:32.093Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "04:18",
+        "title": "DMG森精機、477億円調達し国内外拠点を増強",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sV2NQV3A0Q1hOUllseHNUeHNyM01fQzg2a2FPaEdobXJDZUNpaC1GYk44UjBrLVFyV3RMMnEydk1falBZdEFXNg?oc=5",
+        "publishedAt": "2026-08-13T19:18:45.000Z"
+      },
       {
         "time": "16:12",
         "title": "芝浦機械、７月工作機械受注は前年比３倍に、エネルギーやＡＩ向け好調(ウエルスアドバイザー)",
@@ -17,11 +24,11 @@
         "publishedAt": "2026-08-13T00:23:00.000Z"
       },
       {
-        "time": "16:03",
-        "title": "米中半導体競争が生む中国特需 ヴェリタスEYE（8月13日）",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mbFRoYXgyLVdVRDFtUjczeXVVQ1hCM0NpcGhja1pUVXpJTHQzNHAxckloR2dPT3FGVlFidEFLR2ZKN1V5RnNET0dmNVZSNFdqYXZhaFZEOUNfRlJmY3lZNm10dVVEWlRmeTduOWxLWXZWVFRqZGZzLXo0UWdOdw?oc=5",
-        "publishedAt": "2026-08-13T07:03:43.000Z"
+        "time": "17:52",
+        "title": "江口電機が新工場建設に着手 好調続く制御盤の生産能力倍増へ",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EczRvZnpKNVV0cTJ6UnZ0R25DN0E4SVd0aEJ5WkkyQnRFdk0zb3dCaTV5cFpPYzNGNkZzeTdwOXJmZmEzTVZtSGo3WUxTOHFiRXc?oc=5",
+        "publishedAt": "2026-08-13T08:52:04.000Z"
       },
       {
         "time": "05:02",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-08-12T20:02:21.000Z"
       },
       {
-        "time": "14:06",
-        "title": "DMG森精機、477億円調達し国内外拠点を増強 - logi-today.com",
-        "source": "logi-today.com",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sV2NQV3A0Q1hOUllseHNUeHNyM01fQzg2a2FPaEdobXJDZUNpaC1GYk44UjBrLVFyV3RMMnEydk1falBZdEFXNg?oc=5",
-        "publishedAt": "2026-08-13T05:06:01.000Z"
-      },
-      {
         "time": "06:30",
         "title": "設備の“カルテ”で保全効率化、AIが分析レポート作成や音声入力を支援：FAニュース",
         "source": "MONOist",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-12T21:30:00.000Z"
       },
       {
-        "time": "19:55",
-        "title": "NSK、27年3月期1Q決算、売上高30.6%増の2556億円 半導体装置需要回復で通期上方修正 - automation-news.jp",
-        "source": "automation-news.jp",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yNmdBT2lLOWdFRTJncV8xemlUNWpudEV3Z3JTTEtfYlRVdG1YWV85TnVfSU9Eb0dJcklfUFU1ejFJc3phQjFtYTVhYkxUQzRBb2ZmeXBxdDdWZw?oc=5",
-        "publishedAt": "2026-08-13T10:55:00.000Z"
+        "time": "16:03",
+        "title": "米中半導体競争が生む中国特需 ヴェリタスEYE（8月13日）",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mbFRoYXgyLVdVRDFtUjczeXVVQ1hCM0NpcGhja1pUVXpJTHQzNHAxckloR2dPT3FGVlFidEFLR2ZKN1V5RnNET0dmNVZSNFdqYXZhaFZEOUNfRlJmY3lZNm10dVVEWlRmeTduOWxLWXZWVFRqZGZzLXo0UWdOdw?oc=5",
+        "publishedAt": "2026-08-13T07:03:43.000Z"
       },
       {
-        "time": "10:11",
-        "title": "DMG森精機が大幅安､海外での新株発行で482億円調達",
-        "source": "shikiho.toyokeizai.net",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oWVBGYVg1WllNVko1b3hJUWpFcHFYcVdJd2M1RDZlcE1PczFvQmo2NlBTbUJ6aDFMMTJLZUJuc1NiWS1oSGdyNDBJS0k1NmJuQjlhX29qOA?oc=5",
-        "publishedAt": "2026-08-13T01:11:00.000Z"
+        "time": "19:55",
+        "title": "NSK、27年3月期1Q決算、売上高30.6%増の2556億円 半導体装置需要回復で通期上方修正",
+        "source": "オートメーション新聞WEB",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yNmdBT2lLOWdFRTJncV8xemlUNWpudEV3Z3JTTEtfYlRVdG1YWV85TnVfSU9Eb0dJcklfUFU1ejFJc3phQjFtYTVhYkxUQzRBb2ZmeXBxdDdWZw?oc=5",
+        "publishedAt": "2026-08-13T10:55:00.000Z"
       }
     ],
     "worldHeadlines": [
