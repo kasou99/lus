@@ -1,20 +1,20 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T14:31:19.324Z",
+  "updatedAt": "2026-08-13T15:24:48.151Z",
   "items": [
     {
-      "time": "22:04",
-      "title": "千葉市と市原市 土砂災害特別警報",
+      "time": "00:07",
+      "title": "千葉県に土砂災害特別警報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591632?source=rss",
-      "publishedAt": "2026-08-13T13:04:44.000Z",
-      "xQuery": "千葉市と市原市 土砂災害特別警報"
+      "url": "https://news.yahoo.co.jp/pickup/6591642?source=rss",
+      "publishedAt": "2026-08-13T15:07:54.000Z",
+      "xQuery": "千葉県に土砂災害特別警報"
     },
     {
-      "time": "22:29",
+      "time": "00:00",
       "title": "千葉県の大雨特別警報 エリア拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591634?source=rss",
-      "publishedAt": "2026-08-13T13:29:55.000Z",
+      "url": "https://news.yahoo.co.jp/pickup/6591641?source=rss",
+      "publishedAt": "2026-08-13T15:00:11.000Z",
       "xQuery": "千葉県の大雨特別警報 エリア拡大"
     },
     {
