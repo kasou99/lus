@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T10:28:29.351Z",
+  "updatedAt": "2026-08-13T10:55:05.555Z",
   "items": [
     {
-      "time": "17:28",
-      "title": "露大統領の択捉島訪問 高市氏抗議",
+      "time": "19:40",
+      "title": "千葉県北西部に大雨特別警報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591598?source=rss",
-      "publishedAt": "2026-08-13T08:28:30.000Z",
-      "xQuery": "露大統領の択捉島訪問 高市氏抗議"
+      "url": "https://news.yahoo.co.jp/pickup/6591616?source=rss",
+      "publishedAt": "2026-08-13T10:40:38.000Z",
+      "xQuery": "千葉県北西部に大雨特別警報"
     },
     {
-      "time": "18:20",
-      "title": "千葉県北西部・南部に線状降水帯",
+      "time": "19:41",
+      "title": "安全確保を 大雨のときのNG行動",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591607?source=rss",
-      "publishedAt": "2026-08-13T09:20:14.000Z",
-      "xQuery": "千葉県北西部・南部に線状降水帯"
+      "url": "https://news.yahoo.co.jp/pickup/6589507?source=rss",
+      "publishedAt": "2026-08-13T10:41:24.000Z",
+      "xQuery": "安全確保を 大雨のときのNG行動"
+    },
+    {
+      "time": "17:08",
+      "title": "関東で激しい雨 現地のSNS投稿",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591594?source=rss",
+      "publishedAt": "2026-08-13T08:08:37.000Z",
+      "xQuery": "関東で激しい雨 現地のSNS投稿"
     },
     {
       "time": "19:11",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591612?source=rss",
       "publishedAt": "2026-08-13T10:11:21.000Z",
       "xQuery": "大雨 関東の鉄道の運行情報"
-    },
-    {
-      "time": "17:50",
-      "title": "経営・管理の在留資格 厳格化の訳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591595?source=rss",
-      "publishedAt": "2026-08-13T08:50:53.000Z",
-      "xQuery": "経営・管理の在留資格 厳格化の訳"
     },
     {
       "time": "18:35",
