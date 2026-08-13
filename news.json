@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-13T09:57:03.535Z",
+  "updatedAt": "2026-08-13T10:28:28.668Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "16:12",
         "title": "芝浦機械、７月工作機械受注は前年比３倍に、エネルギーやＡＩ向け好調(ウエルスアドバイザー)",
-        "source": "finance.yahoo.co.jp",
+        "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUtmMTBKbmxsSVZUTXExLUlCOVZzNFprYy10VnJqeXZaYkNYOTd2M3J2c1JpRlZlYy14amNVN0MzNk05WjUzMHdYeENGRTBad0h2M0x0TF9fdXZkSHFZNGFQejlvYndiMkRXZHVlWExsR0hqSTJQajlKUGlaMlNfTEdEQkl3bjQ?oc=5",
         "publishedAt": "2026-08-13T07:12:00.000Z"
       },
@@ -19,7 +19,7 @@
       {
         "time": "05:02",
         "title": "工作機械4社、7月受注78％増 輸出好調、国内も伸長 本社調べ",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tZHVTRzcteXpRdFpQeTh0dDlmNjBPdzBHaFJxd29uVzVTRm8wNm5UaHBUQ1dSUHBOTkZ3VE91aW9YNmpONHQ3TC0xYTdpVmVZbG5iTU5nNFYtWnc?oc=5",
         "publishedAt": "2026-08-12T20:02:21.000Z"
       },
@@ -52,11 +52,11 @@
         "publishedAt": "2026-08-13T01:11:00.000Z"
       },
       {
-        "time": "17:03",
-        "title": "Industrial Enclosure Market (産業用エンクロージャー市場)調査レポート",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00VzdDZFk2UDhrc1hBMnRtTHBOYnRSVE9wd3Vxenk1V2FUNk1BMzZ2Z0tneml1WW90TFNOOWpRamNyb0RHYlZCRXIwRTVvVS1FcEZSN1NXMHVPNUVGYzB6cXFxSnNJNHlhY2t4RkNTbVREbFNBeXlFcnUzUQ?oc=5",
-        "publishedAt": "2026-08-13T08:03:26.000Z"
+        "time": "03:58",
+        "title": "DMG森精機、海外での新株発行で482億円調達へ——生産拡大とM&A資金に充当",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wMEN5YS11Yl9ILXlSRjFuTHVaczBUbnhCRFZNZHlUM1dFQzUwWGZCSHRRNUNGOWI5Z1dhTC14WVVVYXpSX2JaMnVfcGY2dWRZcTVKN2VfOGNtX0d3U3loQ1lnZG9EWEVtcUdsU2VpVkpjWWF0?oc=5",
+        "publishedAt": "2026-08-12T18:58:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "19:11",
+        "title": "大雨 関東の鉄道の運行情報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591612?source=rss",
+        "publishedAt": "2026-08-13T10:11:21.000Z"
+      },
+      {
         "time": "16:33",
         "title": "九州自動車道 14日朝に全線復旧",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591593?source=rss",
         "publishedAt": "2026-08-13T07:51:19.000Z"
-      },
-      {
-        "time": "13:40",
-        "title": "芸能プロの佐藤企画 破産開始決定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591573?source=rss",
-        "publishedAt": "2026-08-13T04:40:47.000Z"
       }
     ],
     "localHeadlines": [

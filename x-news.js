@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T09:57:04.559Z",
+  "updatedAt": "2026-08-13T10:28:29.351Z",
   "items": [
     {
       "time": "17:28",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉県北西部・南部に線状降水帯"
     },
     {
+      "time": "19:11",
+      "title": "大雨 関東の鉄道の運行情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591612?source=rss",
+      "publishedAt": "2026-08-13T10:11:21.000Z",
+      "xQuery": "大雨 関東の鉄道の運行情報"
+    },
+    {
       "time": "17:50",
       "title": "経営・管理の在留資格 厳格化の訳",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591608?source=rss",
       "publishedAt": "2026-08-13T09:35:00.000Z",
       "xQuery": "遊泳禁止中に流されたか 男性死亡"
-    },
-    {
-      "time": "16:31",
-      "title": "一太郎転落 振り返る当時の担当者",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591588?source=rss",
-      "publishedAt": "2026-08-13T07:31:25.000Z",
-      "xQuery": "一太郎転落 振り返る当時の担当者"
     }
   ]
 };
