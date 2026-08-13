@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T11:20:07.117Z",
+  "updatedAt": "2026-08-13T11:48:32.633Z",
   "items": [
     {
-      "time": "19:40",
-      "title": "千葉県北西部に大雨特別警報",
+      "time": "20:23",
+      "title": "命守る行動を 千葉に大雨特別警報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591616?source=rss",
-      "publishedAt": "2026-08-13T10:40:38.000Z",
-      "xQuery": "千葉県北西部に大雨特別警報"
+      "url": "https://news.yahoo.co.jp/pickup/6591619?source=rss",
+      "publishedAt": "2026-08-13T11:23:49.000Z",
+      "xQuery": "命守る行動を 千葉に大雨特別警報"
     },
     {
-      "time": "19:41",
-      "title": "安全確保を 大雨のときのNG行動",
+      "time": "20:26",
+      "title": "中継・気象庁会見 千葉に特別警報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589507?source=rss",
-      "publishedAt": "2026-08-13T10:41:24.000Z",
-      "xQuery": "安全確保を 大雨のときのNG行動"
+      "url": "https://news.yahoo.co.jp/pickup/6591620?source=rss",
+      "publishedAt": "2026-08-13T11:26:56.000Z",
+      "xQuery": "中継・気象庁会見 千葉に特別警報"
     },
     {
-      "time": "19:59",
-      "title": "千葉県に大雨特別警報 最新情報",
+      "time": "20:30",
+      "title": "大雨で車内閉じ込め 女性心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591617?source=rss",
-      "publishedAt": "2026-08-13T10:59:48.000Z",
-      "xQuery": "千葉県に大雨特別警報 最新情報"
+      "url": "https://news.yahoo.co.jp/pickup/6591621?source=rss",
+      "publishedAt": "2026-08-13T11:30:39.000Z",
+      "xQuery": "大雨で車内閉じ込め 女性心肺停止"
     },
     {
       "time": "17:08",
