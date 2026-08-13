@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-13T09:29:48.986Z",
+  "updatedAt": "2026-08-13T09:57:03.535Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "16:12",
         "title": "芝浦機械、７月工作機械受注は前年比３倍に、エネルギーやＡＩ向け好調(ウエルスアドバイザー)",
-        "source": "Yahoo!ファイナンス",
+        "source": "finance.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUtmMTBKbmxsSVZUTXExLUlCOVZzNFprYy10VnJqeXZaYkNYOTd2M3J2c1JpRlZlYy14amNVN0MzNk05WjUzMHdYeENGRTBad0h2M0x0TF9fdXZkSHFZNGFQejlvYndiMkRXZHVlWExsR0hqSTJQajlKUGlaMlNfTEdEQkl3bjQ?oc=5",
         "publishedAt": "2026-08-13T07:12:00.000Z"
       },
@@ -19,7 +19,7 @@
       {
         "time": "05:02",
         "title": "工作機械4社、7月受注78％増 輸出好調、国内も伸長 本社調べ",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tZHVTRzcteXpRdFpQeTh0dDlmNjBPdzBHaFJxd29uVzVTRm8wNm5UaHBUQ1dSUHBOTkZ3VE91aW9YNmpONHQ3TC0xYTdpVmVZbG5iTU5nNFYtWnc?oc=5",
         "publishedAt": "2026-08-12T20:02:21.000Z"
       },
@@ -38,11 +38,11 @@
         "publishedAt": "2026-08-12T21:30:00.000Z"
       },
       {
-        "time": "19:55",
-        "title": "年次ユーザーイベント「EPLAN NETWORK JAPAN 2026」開催 制御盤づくりにおけるデータ連携・活用の重要性を再認識",
+        "time": "16:30",
+        "title": "イートン・エレクトリック・ジャパン、コーセーエンジニアリングと業務提携 低圧配電盤「xEnergy」の国内製造体制を拡充",
         "source": "オートメーション新聞WEB",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52elYwdGg0LWM0U19KTFdYakNPTnBRTmdfNzBmMUZaRVVGQmR5UV80aXNqcjczTW45ZU0wdk8zMDl5UTRGeVR4ekhBY3A3UW44ZTdON1N5dWFwdw?oc=5",
-        "publishedAt": "2026-08-12T10:55:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QcllTbFYtUjhmbkEzbUZDLTIyMTdiRUp5XzZueXFUNWJyY01HeE5KdlZfU1VfRFdMWXJpemFRekFnbjVmV2JQX0tnaE1VYzIwMWlVNXAxRkhUUQ?oc=5",
+        "publishedAt": "2026-08-13T07:30:00.000Z"
       },
       {
         "time": "10:11",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-08-13T01:11:00.000Z"
       },
       {
-        "time": "03:58",
-        "title": "DMG森精機、海外での新株発行で482億円調達へ——生産拡大とM&A資金に充当",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wMEN5YS11Yl9ILXlSRjFuTHVaczBUbnhCRFZNZHlUM1dFQzUwWGZCSHRRNUNGOWI5Z1dhTC14WVVVYXpSX2JaMnVfcGY2dWRZcTVKN2VfOGNtX0d3U3loQ1lnZG9EWEVtcUdsU2VpVkpjWWF0?oc=5",
-        "publishedAt": "2026-08-12T18:58:00.000Z"
+        "time": "17:03",
+        "title": "Industrial Enclosure Market (産業用エンクロージャー市場)調査レポート",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00VzdDZFk2UDhrc1hBMnRtTHBOYnRSVE9wd3Vxenk1V2FUNk1BMzZ2Z0tneml1WW90TFNOOWpRamNyb0RHYlZCRXIwRTVvVS1FcEZSN1NXMHVPNUVGYzB6cXFxSnNJNHlhY2t4RkNTbVREbFNBeXlFcnUzUQ?oc=5",
+        "publishedAt": "2026-08-13T08:03:26.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,11 +119,11 @@
         "publishedAt": "2026-08-12T23:15:03.000Z"
       },
       {
-        "time": "13:40",
-        "title": "芸能プロの佐藤企画 破産開始決定",
+        "time": "18:42",
+        "title": "「プチプチ」なぜ原油危機に強い",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591573?source=rss",
-        "publishedAt": "2026-08-13T04:40:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591610?source=rss",
+        "publishedAt": "2026-08-13T09:42:42.000Z"
       },
       {
         "time": "17:47",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-08-13T07:51:19.000Z"
       },
       {
-        "time": "16:38",
-        "title": "そごう 19年ぶり「本店」名称復活",
+        "time": "13:40",
+        "title": "芸能プロの佐藤企画 破産開始決定",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591590?source=rss",
-        "publishedAt": "2026-08-13T07:38:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591573?source=rss",
+        "publishedAt": "2026-08-13T04:40:47.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-08-13T07:13:00.000Z"
       },
       {
+        "time": "18:35",
+        "title": "遊泳禁止中に流されたか 男性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591608?source=rss",
+        "publishedAt": "2026-08-13T09:35:00.000Z"
+      },
+      {
         "time": "16:40",
         "title": "無人の農業運搬車にひかれ 死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591581?source=rss",
         "publishedAt": "2026-08-13T05:57:21.000Z"
-      },
-      {
-        "time": "17:41",
-        "title": "髭濃いと言われ メイク続ける19歳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591601?source=rss",
-        "publishedAt": "2026-08-13T08:41:00.000Z"
       }
     ],
     "subsidyHeadlines": [

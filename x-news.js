@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T09:29:49.537Z",
+  "updatedAt": "2026-08-13T09:57:04.559Z",
   "items": [
     {
       "time": "17:28",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "経営・管理の在留資格 厳格化の訳"
     },
     {
-      "time": "17:08",
-      "title": "関東で激しい雨 現地のSNS投稿",
+      "time": "18:35",
+      "title": "遊泳禁止中に流されたか 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591594?source=rss",
-      "publishedAt": "2026-08-13T08:08:37.000Z",
-      "xQuery": "関東で激しい雨 現地のSNS投稿"
+      "url": "https://news.yahoo.co.jp/pickup/6591608?source=rss",
+      "publishedAt": "2026-08-13T09:35:00.000Z",
+      "xQuery": "遊泳禁止中に流されたか 男性死亡"
     },
     {
       "time": "16:31",
