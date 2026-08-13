@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T02:59:47.352Z",
+  "updatedAt": "2026-08-13T03:52:52.648Z",
   "items": [
     {
-      "time": "11:43",
-      "title": "被爆した父 体内のガラス時々出た",
+      "time": "12:13",
+      "title": "プーチン大統領 北方領土を初訪問",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591548?source=rss",
-      "publishedAt": "2026-08-13T02:43:28.000Z",
-      "xQuery": "被爆した父 体内のガラス時々出た"
-    },
-    {
-      "time": "11:36",
-      "title": "相互関税還付 米で日本企業を提訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591541?source=rss",
-      "publishedAt": "2026-08-13T02:36:32.000Z",
-      "xQuery": "相互関税還付 米で日本企業を提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6591560?source=rss",
+      "publishedAt": "2026-08-13T03:13:10.000Z",
+      "xQuery": "プーチン大統領 北方領土を初訪問"
     },
     {
       "time": "11:36",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "バブル・氷河期・Z 各世代の働く"
     },
     {
-      "time": "11:18",
-      "title": "9億円相当の覚醒剤密輸疑い 逮捕",
+      "time": "12:34",
+      "title": "横浜市長 議会でパワハラを謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591543?source=rss",
-      "publishedAt": "2026-08-13T02:18:48.000Z",
-      "xQuery": "9億円相当の覚醒剤密輸疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6591563?source=rss",
+      "publishedAt": "2026-08-13T03:34:56.000Z",
+      "xQuery": "横浜市長 議会でパワハラを謝罪"
     },
     {
       "time": "11:41",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591550?source=rss",
       "publishedAt": "2026-08-13T02:41:29.000Z",
       "xQuery": "流星群の観測ツアー参加者 滑落か"
+    },
+    {
+      "time": "08:29",
+      "title": "スシロー&くら寿司 次の成長戦略",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591525?source=rss",
+      "publishedAt": "2026-08-12T23:29:24.000Z",
+      "xQuery": "スシロー&くら寿司 次の成長戦略"
     }
   ]
 };
