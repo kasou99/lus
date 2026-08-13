@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T00:34:54.314Z",
+  "updatedAt": "2026-08-13T01:36:56.370Z",
   "items": [
     {
-      "time": "08:27",
-      "title": "国旗損壊 捜査幹部から懸念の声も",
+      "time": "09:25",
+      "title": "日本海側は猛暑 関東など雷雨注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591524?source=rss",
-      "publishedAt": "2026-08-12T23:27:06.000Z",
-      "xQuery": "国旗損壊 捜査幹部から懸念の声も"
+      "url": "https://news.yahoo.co.jp/pickup/6591533?source=rss",
+      "publishedAt": "2026-08-13T00:25:16.000Z",
+      "xQuery": "日本海側は猛暑 関東など雷雨注意"
     },
     {
-      "time": "07:26",
-      "title": "猛暑常態化 工事の「夏季休工」増",
+      "time": "09:58",
+      "title": "日経平均 一時6万8000円台回復",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591517?source=rss",
-      "publishedAt": "2026-08-12T22:26:46.000Z",
-      "xQuery": "猛暑常態化 工事の「夏季休工」増"
+      "url": "https://news.yahoo.co.jp/pickup/6591539?source=rss",
+      "publishedAt": "2026-08-13T00:58:30.000Z",
+      "xQuery": "日経平均 一時6万8000円台回復"
     },
     {
-      "time": "07:50",
-      "title": "米大統領報道官が今月で辞任 発表",
+      "time": "09:50",
+      "title": "外国人政策の厳格化加速 懸念の声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591519?source=rss",
-      "publishedAt": "2026-08-12T22:50:02.000Z",
-      "xQuery": "米大統領報道官が今月で辞任 発表"
+      "url": "https://news.yahoo.co.jp/pickup/6591536?source=rss",
+      "publishedAt": "2026-08-13T00:50:15.000Z",
+      "xQuery": "外国人政策の厳格化加速 懸念の声"
+    },
+    {
+      "time": "10:04",
+      "title": "偽装結婚疑い1千件 米で11人逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591540?source=rss",
+      "publishedAt": "2026-08-13T01:04:58.000Z",
+      "xQuery": "偽装結婚疑い1千件 米で11人逮捕"
     },
     {
       "time": "09:04",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591532?source=rss",
       "publishedAt": "2026-08-13T00:04:28.000Z",
       "xQuery": "川崎市でニシキヘビ2匹が脱走"
-    },
-    {
-      "time": "08:15",
-      "title": "高密度の金含む鉱石 相次ぎ発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591523?source=rss",
-      "publishedAt": "2026-08-12T23:15:03.000Z",
-      "xQuery": "高密度の金含む鉱石 相次ぎ発見"
     }
   ]
 };
