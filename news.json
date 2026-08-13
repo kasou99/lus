@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T13:33:21.546Z",
+  "updatedAt": "2026-08-13T14:31:18.542Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-08-13T00:23:00.000Z"
       },
       {
-        "time": "05:00",
+        "time": "05:02",
         "title": "工作機械4社、7月受注78％増 輸出好調、国内も伸長 本社調べ",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tZHVTRzcteXpRdFpQeTh0dDlmNjBPdzBHaFJxd29uVzVTRm8wNm5UaHBUQ1dSUHBOTkZ3VE91aW9YNmpONHQ3TC0xYTdpVmVZbG5iTU5nNFYtWnc?oc=5",
-        "publishedAt": "2026-08-12T20:00:00.000Z"
+        "publishedAt": "2026-08-12T20:02:21.000Z"
       },
       {
         "time": "16:03",
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "22:59",
+        "title": "冠水道路に浮いた男性 死亡を確認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591638?source=rss",
+        "publishedAt": "2026-08-13T13:59:28.000Z"
+      },
+      {
+        "time": "22:46",
+        "title": "車内閉じ込めなど多数の通報 千葉",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591636?source=rss",
+        "publishedAt": "2026-08-13T13:46:07.000Z"
+      },
+      {
         "time": "22:14",
         "title": "千葉県で大雨 マップで災害情報",
         "source": "Yahoo!ニュース",
@@ -168,20 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591627?source=rss",
         "publishedAt": "2026-08-13T12:12:27.000Z"
-      },
-      {
-        "time": "21:30",
-        "title": "船橋市 広範囲の道路で冠水相次ぐ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591628?source=rss",
-        "publishedAt": "2026-08-13T12:30:06.000Z"
-      },
-      {
-        "time": "22:13",
-        "title": "冠水道路で男性が意識不明 搬送",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591629?source=rss",
-        "publishedAt": "2026-08-13T13:13:59.000Z"
       },
       {
         "time": "18:35",
