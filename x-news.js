@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T20:48:05.325Z",
+  "updatedAt": "2026-08-13T21:19:33.708Z",
   "items": [
     {
       "time": "05:42",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "安全確保を 大雨のときのNG行動"
     },
     {
-      "time": "21:12",
-      "title": "千葉県に大雨特別警報 最新情報",
+      "time": "05:51",
+      "title": "千葉県に大雨 最新情報まとめ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591623?source=rss",
-      "publishedAt": "2026-08-13T12:12:09.000Z",
-      "xQuery": "千葉県に大雨特別警報 最新情報"
+      "url": "https://news.yahoo.co.jp/pickup/6591651?source=rss",
+      "publishedAt": "2026-08-13T20:51:47.000Z",
+      "xQuery": "千葉県に大雨 最新情報まとめ"
     },
     {
       "time": "04:46",
