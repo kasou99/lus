@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T10:55:05.555Z",
+  "updatedAt": "2026-08-13T11:20:07.117Z",
   "items": [
     {
       "time": "19:40",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "安全確保を 大雨のときのNG行動"
     },
     {
+      "time": "19:59",
+      "title": "千葉県に大雨特別警報 最新情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591617?source=rss",
+      "publishedAt": "2026-08-13T10:59:48.000Z",
+      "xQuery": "千葉県に大雨特別警報 最新情報"
+    },
+    {
       "time": "17:08",
       "title": "関東で激しい雨 現地のSNS投稿",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591612?source=rss",
       "publishedAt": "2026-08-13T10:11:21.000Z",
       "xQuery": "大雨 関東の鉄道の運行情報"
-    },
-    {
-      "time": "18:35",
-      "title": "遊泳禁止中に流されたか 男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591608?source=rss",
-      "publishedAt": "2026-08-13T09:35:00.000Z",
-      "xQuery": "遊泳禁止中に流されたか 男性死亡"
     }
   ]
 };
