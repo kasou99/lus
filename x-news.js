@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T08:36:03.158Z",
+  "updatedAt": "2026-08-13T09:29:49.537Z",
   "items": [
-    {
-      "time": "16:33",
-      "title": "九州自動車道 14日朝に全線復旧",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591591?source=rss",
-      "publishedAt": "2026-08-13T07:33:24.000Z",
-      "xQuery": "九州自動車道 14日朝に全線復旧"
-    },
     {
       "time": "17:28",
       "title": "露大統領の択捉島訪問 高市氏抗議",
@@ -16,6 +8,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591598?source=rss",
       "publishedAt": "2026-08-13T08:28:30.000Z",
       "xQuery": "露大統領の択捉島訪問 高市氏抗議"
+    },
+    {
+      "time": "18:20",
+      "title": "千葉県北西部・南部に線状降水帯",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591607?source=rss",
+      "publishedAt": "2026-08-13T09:20:14.000Z",
+      "xQuery": "千葉県北西部・南部に線状降水帯"
+    },
+    {
+      "time": "17:50",
+      "title": "経営・管理の在留資格 厳格化の訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591595?source=rss",
+      "publishedAt": "2026-08-13T08:50:53.000Z",
+      "xQuery": "経営・管理の在留資格 厳格化の訳"
     },
     {
       "time": "17:08",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東で激しい雨 現地のSNS投稿"
     },
     {
-      "time": "16:40",
-      "title": "無人の農業運搬車にひかれ 死亡",
+      "time": "16:31",
+      "title": "一太郎転落 振り返る当時の担当者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591587?source=rss",
-      "publishedAt": "2026-08-13T07:40:21.000Z",
-      "xQuery": "無人の農業運搬車にひかれ 死亡"
-    },
-    {
-      "time": "16:38",
-      "title": "そごう 19年ぶり「本店」名称復活",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591590?source=rss",
-      "publishedAt": "2026-08-13T07:38:03.000Z",
-      "xQuery": "そごう 19年ぶり「本店」名称復活"
+      "url": "https://news.yahoo.co.jp/pickup/6591588?source=rss",
+      "publishedAt": "2026-08-13T07:31:25.000Z",
+      "xQuery": "一太郎転落 振り返る当時の担当者"
     }
   ]
 };
