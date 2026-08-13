@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T06:37:58.788Z",
+  "updatedAt": "2026-08-13T07:35:27.468Z",
   "items": [
     {
-      "time": "13:29",
-      "title": "露大統領の択捉島訪問 茂木氏抗議",
+      "time": "16:13",
+      "title": "露大統領の択捉島訪問 元島民動揺",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591572?source=rss",
-      "publishedAt": "2026-08-13T04:29:51.000Z",
-      "xQuery": "露大統領の択捉島訪問 茂木氏抗議"
+      "url": "https://news.yahoo.co.jp/pickup/6591585?source=rss",
+      "publishedAt": "2026-08-13T07:13:00.000Z",
+      "xQuery": "露大統領の択捉島訪問 元島民動揺"
     },
     {
-      "time": "12:55",
-      "title": "秋篠宮さま 皇室典範巡りコメント",
+      "time": "15:49",
+      "title": "高市内閣の支持率は横ばい 時事",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591564?source=rss",
-      "publishedAt": "2026-08-13T03:55:31.000Z",
-      "xQuery": "秋篠宮さま 皇室典範巡りコメント"
+      "url": "https://news.yahoo.co.jp/pickup/6591584?source=rss",
+      "publishedAt": "2026-08-13T06:49:57.000Z",
+      "xQuery": "高市内閣の支持率は横ばい 時事"
     },
     {
       "time": "13:58",

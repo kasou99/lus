@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-13T06:37:58.090Z",
+  "updatedAt": "2026-08-13T07:35:26.773Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:12",
+        "title": "芝浦機械、７月工作機械受注は前年比３倍に、エネルギーやＡＩ向け好調(ウエルスアドバイザー)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUtmMTBKbmxsSVZUTXExLUlCOVZzNFprYy10VnJqeXZaYkNYOTd2M3J2c1JpRlZlYy14amNVN0MzNk05WjUzMHdYeENGRTBad0h2M0x0TF9fdXZkSHFZNGFQejlvYndiMkRXZHVlWExsR0hqSTJQajlKUGlaMlNfTEdEQkl3bjQ?oc=5",
+        "publishedAt": "2026-08-13T07:12:00.000Z"
+      },
       {
         "time": "09:23",
         "title": "芝浦機械、７月工作機械受注は前年比３倍に、エネルギーやＡＩ向け好調 速報",
@@ -15,13 +22,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YRm5RVkREc2E2dXZ2azhYTzkxLUxoRWhKWXJhaUtxekQ4bHpaNllBZ016Qlo1SFFWYXdSeXh6OVlSeTducHJ2V0h3WmVGTzJSWHhQYWZWcF9WV2M?oc=5",
         "publishedAt": "2026-08-12T20:04:32.000Z"
-      },
-      {
-        "time": "09:23",
-        "title": "芝浦機械、７月工作機械受注は前年比３倍に、エネルギーやＡＩ向け好調(ウエルスアドバイザー)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSkI0Zmx0RDUwakpVMW1SQjlEY09LMWVNUE9LOGptVzM0bTdta0lLR0RnTW9CdzE1SkZuUjdHcVJlODZNeXFyeV9XeFE0OUFKblFnS2dKRmRjcEF1N2JKaFpSSWlIM0wxSlR0SnBaTkE2M1ZVcWNYZWVzX2ZyZEwxYzJXUHlWaEE?oc=5",
-        "publishedAt": "2026-08-13T00:23:00.000Z"
       },
       {
         "time": "06:30",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-12T10:55:00.000Z"
       },
       {
-        "time": "15:51",
-        "title": "7月の工作機械受注5割増 半導体やデータセンター向け好調",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03VGRSTE5Ja2JWaVJEd2p3RGZnSTF5eVJoaURXTHRoQS1mV3JNOUlwc1lOTlh0cE5TWE14WW9lblhfVVRzZUwzVmRkblM5eEtnMDFxbk1fQmpYRjN5TXM2eWN6cHFLVkpxTVloWg?oc=5",
-        "publishedAt": "2026-08-12T06:51:18.000Z"
-      },
-      {
         "time": "10:11",
         "title": "DMG森精機が大幅安､海外での新株発行で482億円調達",
         "source": "四季報オンライン",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oWVBGYVg1WllNVko1b3hJUWpFcHFYcVdJd2M1RDZlcE1PczFvQmo2NlBTbUJ6aDFMMTJLZUJuc1NiWS1oSGdyNDBJS0k1NmJuQjlhX29qOA?oc=5",
         "publishedAt": "2026-08-13T01:11:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "3分でわかる機械業界 「フィジカルAI」ロボット拡大、航空向けも",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBENmR3RGNSYWpkRXZjYXFWMXB6b0ptLTVRV1hncl9ia2ltQklNTWM2WVhEdDBhNl9oSDFWb25TQTY1R0lmMTdkaFhOYmc3SmhHeW1xS0ZVVl9vNmJPOWdUX0hQQTY2dnF3VmRiRw?oc=5",
+        "publishedAt": "2026-08-12T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "16:33",
+        "title": "九州自動車道 14日朝に全線復旧",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591591?source=rss",
+        "publishedAt": "2026-08-13T07:33:24.000Z"
+      },
+      {
         "time": "20:37",
         "title": "イオン爆発 ハビタが「補償模索」",
         "source": "Yahoo!ニュース",
@@ -133,13 +140,6 @@
         "publishedAt": "2026-08-13T04:40:47.000Z"
       },
       {
-        "time": "13:08",
-        "title": "米国外初 表参道にグーグル直営店",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591566?source=rss",
-        "publishedAt": "2026-08-13T04:08:05.000Z"
-      },
-      {
         "time": "19:53",
         "title": "新幹線乗り遅れ緊急停止 動画拡散",
         "source": "Yahoo!ニュース",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "16:13",
+        "title": "露大統領の択捉島訪問 元島民動揺",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591585?source=rss",
+        "publishedAt": "2026-08-13T07:13:00.000Z"
+      },
       {
         "time": "11:43",
         "title": "被爆した父 体内のガラス時々出た",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591543?source=rss",
         "publishedAt": "2026-08-13T02:18:48.000Z"
-      },
-      {
-        "time": "06:54",
-        "title": "阿波おどり「性的」動画 不安の声",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591513?source=rss",
-        "publishedAt": "2026-08-12T21:54:02.000Z"
       }
     ],
     "subsidyHeadlines": [
