@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T11:48:32.633Z",
+  "updatedAt": "2026-08-13T12:23:40.289Z",
   "items": [
     {
       "time": "20:23",
@@ -10,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "命守る行動を 千葉に大雨特別警報"
     },
     {
-      "time": "20:26",
-      "title": "中継・気象庁会見 千葉に特別警報",
+      "time": "20:36",
+      "title": "埼玉・茨城で線状降水帯発生恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591620?source=rss",
-      "publishedAt": "2026-08-13T11:26:56.000Z",
-      "xQuery": "中継・気象庁会見 千葉に特別警報"
+      "url": "https://news.yahoo.co.jp/pickup/6591622?source=rss",
+      "publishedAt": "2026-08-13T11:36:32.000Z",
+      "xQuery": "埼玉・茨城で線状降水帯発生恐れ"
+    },
+    {
+      "time": "21:05",
+      "title": "気象庁「経験のないような大雨」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591626?source=rss",
+      "publishedAt": "2026-08-13T12:05:45.000Z",
+      "xQuery": "気象庁「経験のないような大雨」"
+    },
+    {
+      "time": "21:12",
+      "title": "千葉県に大雨特別警報 最新情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591623?source=rss",
+      "publishedAt": "2026-08-13T12:12:09.000Z",
+      "xQuery": "千葉県に大雨特別警報 最新情報"
     },
     {
       "time": "20:30",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591621?source=rss",
       "publishedAt": "2026-08-13T11:30:39.000Z",
       "xQuery": "大雨で車内閉じ込め 女性心肺停止"
-    },
-    {
-      "time": "17:08",
-      "title": "関東で激しい雨 現地のSNS投稿",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591594?source=rss",
-      "publishedAt": "2026-08-13T08:08:37.000Z",
-      "xQuery": "関東で激しい雨 現地のSNS投稿"
-    },
-    {
-      "time": "19:11",
-      "title": "大雨 関東の鉄道の運行情報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591612?source=rss",
-      "publishedAt": "2026-08-13T10:11:21.000Z",
-      "xQuery": "大雨 関東の鉄道の運行情報"
     }
   ]
 };

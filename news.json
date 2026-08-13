@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T11:48:31.748Z",
+  "updatedAt": "2026-08-13T12:23:39.621Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "05:00",
         "title": "工作機械4社、7月受注78％増 輸出好調、国内も伸長 本社調べ",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tZHVTRzcteXpRdFpQeTh0dDlmNjBPdzBHaFJxd29uVzVTRm8wNm5UaHBUQ1dSUHBOTkZ3VE91aW9YNmpONHQ3TC0xYTdpVmVZbG5iTU5nNFYtWnc?oc=5",
         "publishedAt": "2026-08-12T20:00:00.000Z"
       },
@@ -46,8 +46,8 @@
       },
       {
         "time": "19:55",
-        "title": "NSK、27年3月期1Q決算、売上高30.6%増の2556億円 半導体装置需要回復で通期上方修正",
-        "source": "オートメーション新聞WEB",
+        "title": "NSK、27年3月期1Q決算、売上高30.6%増の2556億円 半導体装置需要回復で通期上方修正 - automation-news.jp",
+        "source": "automation-news.jp",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yNmdBT2lLOWdFRTJncV8xemlUNWpudEV3Z3JTTEtfYlRVdG1YWV85TnVfSU9Eb0dJcklfUFU1ejFJc3phQjFtYTVhYkxUQzRBb2ZmeXBxdDdWZw?oc=5",
         "publishedAt": "2026-08-13T10:55:00.000Z"
       },
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "20:50",
+        "title": "露大統領が択捉島を電撃訪問 波紋",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591614?source=rss",
+        "publishedAt": "2026-08-13T11:50:30.000Z"
+      },
       {
         "time": "12:13",
         "title": "プーチン大統領 北方領土を初訪問",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591535?source=rss",
         "publishedAt": "2026-08-13T00:31:03.000Z"
-      },
-      {
-        "time": "08:45",
-        "title": "米大統領SNS巡り メディアが提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591529?source=rss",
-        "publishedAt": "2026-08-12T23:45:02.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "17:08",
-        "title": "関東で激しい雨 現地のSNS投稿",
+        "time": "21:03",
+        "title": "千葉県で大雨 現地のSNS投稿",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591594?source=rss",
-        "publishedAt": "2026-08-13T08:08:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591625?source=rss",
+        "publishedAt": "2026-08-13T12:03:07.000Z"
       },
       {
-        "time": "18:20",
-        "title": "千葉県北西部・南部に線状降水帯",
+        "time": "21:12",
+        "title": "大雨特別警報 各地の河川水位情報",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591607?source=rss",
-        "publishedAt": "2026-08-13T09:20:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591627?source=rss",
+        "publishedAt": "2026-08-13T12:12:27.000Z"
       },
       {
         "time": "20:30",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
