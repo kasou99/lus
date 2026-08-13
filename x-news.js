@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-12T23:47:48.907Z",
+  "updatedAt": "2026-08-13T00:34:54.314Z",
   "items": [
     {
       "time": "08:27",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領報道官が今月で辞任 発表"
     },
     {
-      "time": "06:12",
-      "title": "特急列車 車との衝突気付かず走行",
+      "time": "09:04",
+      "title": "川崎市でニシキヘビ2匹が脱走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591508?source=rss",
-      "publishedAt": "2026-08-12T21:12:01.000Z",
-      "xQuery": "特急列車 車との衝突気付かず走行"
+      "url": "https://news.yahoo.co.jp/pickup/6591532?source=rss",
+      "publishedAt": "2026-08-13T00:04:28.000Z",
+      "xQuery": "川崎市でニシキヘビ2匹が脱走"
     },
     {
       "time": "08:15",

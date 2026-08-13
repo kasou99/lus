@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-12T23:47:48.066Z",
+  "updatedAt": "2026-08-13T00:34:53.543Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:23",
+        "title": "芝浦機械、７月工作機械受注は前年比３倍に、エネルギーやＡＩ向け好調 速報",
+        "source": "kabushiki.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5GSVkzLTFRc2tpMnJBV2tjcnBXcnRTRXoza1FlU1JTeXNXN2NoZjFTek5LNXg5VU5SZjZHQ2gzRUlmenlydlJJ?oc=5",
+        "publishedAt": "2026-08-13T00:23:00.000Z"
+      },
+      {
+        "time": "09:23",
+        "title": "芝浦機械、７月工作機械受注は前年比３倍に、エネルギーやＡＩ向け好調(ウエルスアドバイザー)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSkI0Zmx0RDUwakpVMW1SQjlEY09LMWVNUE9LOGptVzM0bTdta0lLR0RnTW9CdzE1SkZuUjdHcVJlODZNeXFyeV9XeFE0OUFKblFnS2dKRmRjcEF1N2JKaFpSSWlIM0wxSlR0SnBaTkE2M1ZVcWNYZWVzX2ZyZEwxYzJXUHlWaEE?oc=5",
+        "publishedAt": "2026-08-13T00:23:00.000Z"
+      },
       {
         "time": "05:04",
         "title": "7月の工作機械受注、50%増 中国・北米好調続く",
@@ -15,13 +29,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDd05oTnhwOTlzWkxFTC1XYndSTHBMYkVlR1NlQzJjeGszR0ZuWnFoRm5yYXQwNlBlX2dTMEhqTEV5TVJFQzNaMkh1RVd4UjF3YWg4SEJoS280akNKWmFKUjhUQVBSTk9KS0pJckFxTQ?oc=5",
         "publishedAt": "2026-08-12T21:30:00.000Z"
-      },
-      {
-        "time": "17:01",
-        "title": "7月の工作機械受注速報、前年同月比50．4％増の1931億0200万円(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFFNZUxLREJEd3pzS3BoZHIwS0Vic0t0SmdpWVZVTjBCaHN2bGZ4V3Y0amxjem5HY1BYMFU1ai1ienoxblRBSHphbDdzMnlxRDJQX2pnMVhTN2Q5c3JrUlM2TDV4SFY4T21kUXNjbWg1LTl4T0JtTHN1UzcwZ1hfRUJ3aUdwX0k?oc=5",
-        "publishedAt": "2026-08-12T08:01:00.000Z"
       },
       {
         "time": "19:55",
@@ -50,13 +57,6 @@
         "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91NTlGV0ZLNWM2ZE5DMTJjVWQxQVJ4MHlfUVF1a1B6WnBUNHEzcmdBanBkREpzY0VNUnB2VFRVTGRSUFZLaGFiaFYtb1VpTnBXWWliOE5EN3lGLXlpTkdlZw?oc=5",
         "publishedAt": "2026-08-12T01:48:00.000Z"
-      },
-      {
-        "time": "09:03",
-        "title": "オーネックス－買い気配 前期営業損益を上方修正 産業工作機械関連が好調",
-        "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10dXNqdDZHbzdzeFdxS3pGa2hOR2xzamRFQkhxUF9pQnE5SXJqRXZBNUlsMVlBb1UyS2huZ3A2bGthMF9adU5LZHBWenplamVrS0dveEdzMVNSMDM1aUxBaUZWMGRScDUxRkpuZ2lhVQ?oc=5",
-        "publishedAt": "2026-08-12T00:03:14.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,18 +75,18 @@
         "publishedAt": "2026-08-12T04:33:55.000Z"
       },
       {
-        "time": "22:20",
-        "title": "中国の朱鎔基元首相が死去 97歳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591501?source=rss",
-        "publishedAt": "2026-08-12T13:20:42.000Z"
-      },
-      {
         "time": "17:26",
         "title": "米大統領 3期目出馬に否定的見解",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591459?source=rss",
         "publishedAt": "2026-08-12T08:26:15.000Z"
+      },
+      {
+        "time": "09:31",
+        "title": "米軍ヘリ墜落で2人死亡 テキサス",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591535?source=rss",
+        "publishedAt": "2026-08-13T00:31:03.000Z"
       },
       {
         "time": "08:45",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-12T21:12:01.000Z"
       },
       {
-        "time": "22:53",
-        "title": "奇跡に近い 900m流された親子救助",
+        "time": "17:18",
+        "title": "移住先で夫不貞 離婚し生き方模索",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591504?source=rss",
-        "publishedAt": "2026-08-12T13:53:15.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591464?source=rss",
+        "publishedAt": "2026-08-12T08:18:42.000Z"
       }
     ],
     "subsidyHeadlines": [
