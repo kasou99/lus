@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T19:26:33.124Z",
+  "updatedAt": "2026-08-13T19:52:09.997Z",
   "items": [
     {
       "time": "00:00",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉県に大雨特別警報 最新情報"
     },
     {
-      "time": "22:46",
-      "title": "車内閉じ込めなど多数の通報 千葉",
+      "time": "04:46",
+      "title": "千葉県内のJR各線 始発から運休",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591636?source=rss",
-      "publishedAt": "2026-08-13T13:46:07.000Z",
-      "xQuery": "車内閉じ込めなど多数の通報 千葉"
+      "url": "https://news.yahoo.co.jp/pickup/6591646?source=rss",
+      "publishedAt": "2026-08-13T19:46:02.000Z",
+      "xQuery": "千葉県内のJR各線 始発から運休"
     }
   ]
 };

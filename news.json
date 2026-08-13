@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-13T19:26:32.093Z",
+  "updatedAt": "2026-08-13T19:52:09.269Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "04:18",
-        "title": "DMG森精機、477億円調達し国内外拠点を増強",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sV2NQV3A0Q1hOUllseHNUeHNyM01fQzg2a2FPaEdobXJDZUNpaC1GYk44UjBrLVFyV3RMMnEydk1falBZdEFXNg?oc=5",
-        "publishedAt": "2026-08-13T19:18:45.000Z"
-      },
       {
         "time": "16:12",
         "title": "芝浦機械、７月工作機械受注は前年比３倍に、エネルギーやＡＩ向け好調(ウエルスアドバイザー)",
@@ -36,6 +29,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tZHVTRzcteXpRdFpQeTh0dDlmNjBPdzBHaFJxd29uVzVTRm8wNm5UaHBUQ1dSUHBOTkZ3VE91aW9YNmpONHQ3TC0xYTdpVmVZbG5iTU5nNFYtWnc?oc=5",
         "publishedAt": "2026-08-12T20:02:21.000Z"
+      },
+      {
+        "time": "14:06",
+        "title": "DMG森精機、477億円調達し国内外拠点を増強",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sV2NQV3A0Q1hOUllseHNUeHNyM01fQzg2a2FPaEdobXJDZUNpaC1GYk44UjBrLVFyV3RMMnEydk1falBZdEFXNg?oc=5",
+        "publishedAt": "2026-08-13T05:06:01.000Z"
       },
       {
         "time": "06:30",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "19:11",
-        "title": "大雨 関東の鉄道の運行情報",
+        "time": "04:46",
+        "title": "千葉県内のJR各線 始発から運休",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591612?source=rss",
-        "publishedAt": "2026-08-13T10:11:21.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591646?source=rss",
+        "publishedAt": "2026-08-13T19:46:02.000Z"
       },
       {
         "time": "16:33",
