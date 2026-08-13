@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T05:35:45.419Z",
+  "updatedAt": "2026-08-13T06:37:58.788Z",
   "items": [
     {
       "time": "13:29",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "闇バイト応募で渡米 邦人男性保護"
     },
     {
-      "time": "13:32",
-      "title": "泳いで母助けに 18歳遺体で発見",
+      "time": "14:57",
+      "title": "泳いで母を助けに 18歳遺体で発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591571?source=rss",
-      "publishedAt": "2026-08-13T04:32:33.000Z",
-      "xQuery": "泳いで母助けに 18歳遺体で発見"
+      "url": "https://news.yahoo.co.jp/pickup/6591581?source=rss",
+      "publishedAt": "2026-08-13T05:57:21.000Z",
+      "xQuery": "泳いで母を助けに 18歳遺体で発見"
     },
     {
       "time": "13:40",
