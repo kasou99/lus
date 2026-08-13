@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T12:50:17.978Z",
+  "updatedAt": "2026-08-13T13:33:21.546Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "22:14",
+        "title": "千葉県で大雨 マップで災害情報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591630?source=rss",
+        "publishedAt": "2026-08-13T13:14:43.000Z"
+      },
+      {
         "time": "21:03",
         "title": "千葉県で大雨 現地のSNS投稿",
         "source": "Yahoo!ニュース",
@@ -170,11 +177,11 @@
         "publishedAt": "2026-08-13T12:30:06.000Z"
       },
       {
-        "time": "20:30",
-        "title": "大雨で車内閉じ込め 女性心肺停止",
+        "time": "22:13",
+        "title": "冠水道路で男性が意識不明 搬送",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591621?source=rss",
-        "publishedAt": "2026-08-13T11:30:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591629?source=rss",
+        "publishedAt": "2026-08-13T13:13:59.000Z"
       },
       {
         "time": "18:35",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591608?source=rss",
         "publishedAt": "2026-08-13T09:35:00.000Z"
-      },
-      {
-        "time": "16:40",
-        "title": "無人の農業運搬車にひかれ 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591587?source=rss",
-        "publishedAt": "2026-08-13T07:40:21.000Z"
       }
     ],
     "subsidyHeadlines": [

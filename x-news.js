@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T12:50:18.636Z",
+  "updatedAt": "2026-08-13T13:33:24.150Z",
   "items": [
     {
-      "time": "20:23",
-      "title": "命守る行動を 千葉に大雨特別警報",
+      "time": "22:04",
+      "title": "千葉市と市原市 土砂災害特別警報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591619?source=rss",
-      "publishedAt": "2026-08-13T11:23:49.000Z",
-      "xQuery": "命守る行動を 千葉に大雨特別警報"
+      "url": "https://news.yahoo.co.jp/pickup/6591632?source=rss",
+      "publishedAt": "2026-08-13T13:04:44.000Z",
+      "xQuery": "千葉市と市原市 土砂災害特別警報"
     },
     {
-      "time": "20:36",
-      "title": "埼玉・茨城で線状降水帯発生恐れ",
+      "time": "22:29",
+      "title": "千葉県の大雨特別警報 エリア拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591622?source=rss",
-      "publishedAt": "2026-08-13T11:36:32.000Z",
-      "xQuery": "埼玉・茨城で線状降水帯発生恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6591634?source=rss",
+      "publishedAt": "2026-08-13T13:29:55.000Z",
+      "xQuery": "千葉県の大雨特別警報 エリア拡大"
     },
     {
       "time": "21:05",
