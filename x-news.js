@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T21:19:33.708Z",
+  "updatedAt": "2026-08-13T21:48:12.495Z",
   "items": [
     {
       "time": "05:42",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "安全確保を 大雨のときのNG行動"
     },
     {
-      "time": "05:51",
-      "title": "千葉県に大雨 最新情報まとめ",
+      "time": "06:40",
+      "title": "千葉県内 約1万人の帰宅困難者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591651?source=rss",
-      "publishedAt": "2026-08-13T20:51:47.000Z",
-      "xQuery": "千葉県に大雨 最新情報まとめ"
+      "url": "https://news.yahoo.co.jp/pickup/6591653?source=rss",
+      "publishedAt": "2026-08-13T21:40:22.000Z",
+      "xQuery": "千葉県内 約1万人の帰宅困難者"
     },
     {
       "time": "04:46",
