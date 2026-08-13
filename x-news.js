@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T21:48:12.495Z",
+  "updatedAt": "2026-08-13T22:18:46.210Z",
   "items": [
     {
       "time": "05:42",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "危険な雨 土砂災害など終日警戒"
     },
     {
-      "time": "19:41",
-      "title": "安全確保を 大雨のときのNG行動",
+      "time": "06:27",
+      "title": "千葉県で大雨 3人死亡1人心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6589507?source=rss",
-      "publishedAt": "2026-08-13T10:41:24.000Z",
-      "xQuery": "安全確保を 大雨のときのNG行動"
+      "url": "https://news.yahoo.co.jp/pickup/6591652?source=rss",
+      "publishedAt": "2026-08-13T21:27:59.000Z",
+      "xQuery": "千葉県で大雨 3人死亡1人心肺停止"
     },
     {
       "time": "06:40",
