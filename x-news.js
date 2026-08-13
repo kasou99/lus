@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T23:18:38.560Z",
+  "updatedAt": "2026-08-13T23:47:59.537Z",
   "items": [
     {
       "time": "05:42",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "危険な雨 土砂災害など終日警戒"
     },
     {
-      "time": "04:46",
-      "title": "千葉県内のJR各線 始発から運休",
+      "time": "08:45",
+      "title": "千葉大雨の死者4人に 行方不明1人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591646?source=rss",
-      "publishedAt": "2026-08-13T19:46:02.000Z",
-      "xQuery": "千葉県内のJR各線 始発から運休"
-    },
-    {
-      "time": "06:27",
-      "title": "千葉県で大雨 3人死亡1人心肺停止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591652?source=rss",
-      "publishedAt": "2026-08-13T21:27:59.000Z",
-      "xQuery": "千葉県で大雨 3人死亡1人心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6591663?source=rss",
+      "publishedAt": "2026-08-13T23:45:37.000Z",
+      "xQuery": "千葉大雨の死者4人に 行方不明1人"
     },
     {
       "time": "06:40",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591653?source=rss",
       "publishedAt": "2026-08-13T21:40:22.000Z",
       "xQuery": "千葉県内 約1万人の帰宅困難者"
+    },
+    {
+      "time": "08:28",
+      "title": "一夜明けた千葉 上空からの映像",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591661?source=rss",
+      "publishedAt": "2026-08-13T23:28:49.000Z",
+      "xQuery": "一夜明けた千葉 上空からの映像"
     }
   ]
 };

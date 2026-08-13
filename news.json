@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T23:18:37.791Z",
+  "updatedAt": "2026-08-13T23:47:58.856Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -54,7 +54,7 @@
       {
         "time": "10:11",
         "title": "DMG森精機が大幅安､海外での新株発行で482億円調達",
-        "source": "shikiho.toyokeizai.net",
+        "source": "四季報オンライン",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oWVBGYVg1WllNVko1b3hJUWpFcHFYcVdJd2M1RDZlcE1PczFvQmo2NlBTbUJ6aDFMMTJLZUJuc1NiWS1oSGdyNDBJS0k1NmJuQjlhX29qOA?oc=5",
         "publishedAt": "2026-08-13T01:11:00.000Z"
       }
@@ -149,25 +149,25 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:45",
+        "title": "千葉大雨の死者4人に 行方不明1人",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591663?source=rss",
+        "publishedAt": "2026-08-13T23:45:37.000Z"
+      },
+      {
+        "time": "08:28",
+        "title": "一夜明けた千葉 上空からの映像",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591661?source=rss",
+        "publishedAt": "2026-08-13T23:28:49.000Z"
+      },
+      {
         "time": "06:40",
         "title": "千葉県内 約1万人の帰宅困難者",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591653?source=rss",
         "publishedAt": "2026-08-13T21:40:22.000Z"
-      },
-      {
-        "time": "06:27",
-        "title": "千葉県で大雨 3人死亡1人心肺停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591652?source=rss",
-        "publishedAt": "2026-08-13T21:27:59.000Z"
-      },
-      {
-        "time": "22:46",
-        "title": "車内閉じ込めなど多数の通報 千葉",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591636?source=rss",
-        "publishedAt": "2026-08-13T13:46:07.000Z"
       },
       {
         "time": "22:14",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
