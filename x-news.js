@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T07:35:27.468Z",
+  "updatedAt": "2026-08-13T08:36:03.158Z",
   "items": [
     {
-      "time": "16:13",
-      "title": "露大統領の択捉島訪問 元島民動揺",
+      "time": "16:33",
+      "title": "九州自動車道 14日朝に全線復旧",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591585?source=rss",
-      "publishedAt": "2026-08-13T07:13:00.000Z",
-      "xQuery": "露大統領の択捉島訪問 元島民動揺"
+      "url": "https://news.yahoo.co.jp/pickup/6591591?source=rss",
+      "publishedAt": "2026-08-13T07:33:24.000Z",
+      "xQuery": "九州自動車道 14日朝に全線復旧"
     },
     {
-      "time": "15:49",
-      "title": "高市内閣の支持率は横ばい 時事",
+      "time": "17:28",
+      "title": "露大統領の択捉島訪問 高市氏抗議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591584?source=rss",
-      "publishedAt": "2026-08-13T06:49:57.000Z",
-      "xQuery": "高市内閣の支持率は横ばい 時事"
+      "url": "https://news.yahoo.co.jp/pickup/6591598?source=rss",
+      "publishedAt": "2026-08-13T08:28:30.000Z",
+      "xQuery": "露大統領の択捉島訪問 高市氏抗議"
     },
     {
-      "time": "13:58",
-      "title": "闇バイト応募で渡米 邦人男性保護",
+      "time": "17:08",
+      "title": "関東で激しい雨 現地のSNS投稿",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591577?source=rss",
-      "publishedAt": "2026-08-13T04:58:58.000Z",
-      "xQuery": "闇バイト応募で渡米 邦人男性保護"
+      "url": "https://news.yahoo.co.jp/pickup/6591594?source=rss",
+      "publishedAt": "2026-08-13T08:08:37.000Z",
+      "xQuery": "関東で激しい雨 現地のSNS投稿"
     },
     {
-      "time": "14:57",
-      "title": "泳いで母を助けに 18歳遺体で発見",
+      "time": "16:40",
+      "title": "無人の農業運搬車にひかれ 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591581?source=rss",
-      "publishedAt": "2026-08-13T05:57:21.000Z",
-      "xQuery": "泳いで母を助けに 18歳遺体で発見"
+      "url": "https://news.yahoo.co.jp/pickup/6591587?source=rss",
+      "publishedAt": "2026-08-13T07:40:21.000Z",
+      "xQuery": "無人の農業運搬車にひかれ 死亡"
     },
     {
-      "time": "13:40",
-      "title": "芸能プロの佐藤企画 破産開始決定",
+      "time": "16:38",
+      "title": "そごう 19年ぶり「本店」名称復活",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591573?source=rss",
-      "publishedAt": "2026-08-13T04:40:47.000Z",
-      "xQuery": "芸能プロの佐藤企画 破産開始決定"
+      "url": "https://news.yahoo.co.jp/pickup/6591590?source=rss",
+      "publishedAt": "2026-08-13T07:38:03.000Z",
+      "xQuery": "そごう 19年ぶり「本店」名称復活"
     }
   ]
 };
