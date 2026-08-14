@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T23:07:33.895Z",
+  "updatedAt": "2026-08-14T23:40:38.976Z",
   "items": [
+    {
+      "time": "08:31",
+      "title": "駅長かなわず戦死 父の無念思う娘",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591771?source=rss",
+      "publishedAt": "2026-08-14T23:31:53.000Z",
+      "xQuery": "駅長かなわず戦死 父の無念思う娘"
+    },
     {
       "time": "07:34",
       "title": "15日 九州-東北で急な雷雨の恐れ",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "15日 九州-東北で急な雷雨の恐れ"
     },
     {
+      "time": "07:57",
+      "title": "米大統領 海峡巡り強硬姿勢強める",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591767?source=rss",
+      "publishedAt": "2026-08-14T22:57:19.000Z",
+      "xQuery": "米大統領 海峡巡り強硬姿勢強める"
+    },
+    {
+      "time": "08:16",
+      "title": "車の中に人が 豪雨で一変した街",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591770?source=rss",
+      "publishedAt": "2026-08-14T23:16:33.000Z",
+      "xQuery": "車の中に人が 豪雨で一変した街"
+    },
+    {
       "time": "07:40",
       "title": "7道府県が副首都申請を検討 共同",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591762?source=rss",
       "publishedAt": "2026-08-14T22:40:04.000Z",
       "xQuery": "7道府県が副首都申請を検討 共同"
-    },
-    {
-      "time": "07:50",
-      "title": "自民幹部 靖国に集団参拝で調整",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591765?source=rss",
-      "publishedAt": "2026-08-14T22:50:47.000Z",
-      "xQuery": "自民幹部 靖国に集団参拝で調整"
-    },
-    {
-      "time": "00:00",
-      "title": "千葉豪雨 住民も加わり懸命な救助",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591756?source=rss",
-      "publishedAt": "2026-08-14T15:00:20.000Z",
-      "xQuery": "千葉豪雨 住民も加わり懸命な救助"
-    },
-    {
-      "time": "07:43",
-      "title": "映像 防犯カメラに断層出現の瞬間",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591766?source=rss",
-      "publishedAt": "2026-08-14T22:43:42.000Z",
-      "xQuery": "映像 防犯カメラに断層出現の瞬間"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T23:07:32.861Z",
+  "updatedAt": "2026-08-14T23:40:35.588Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "16:26",
         "title": "シチズン時計、通期予想を上方修正 時計・工作機械が計画超え（ロイター）",
-        "source": "news.yahoo.co.jp",
+        "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WdDktNnA5c25oWFc2eHZSdEtyX290NU91OVVRSVRyV2wyaXV6NXJrcjVWek51YVgySlhiMzJteXBySjIwNVd0MlRoUlJLdmxjQlZISVBTa2FCdkhWTkpRNzFHV2laRlJNYjl4OERfbllYRWY2ZXBtUl8xWnlKSWs?oc=5",
         "publishedAt": "2026-08-14T07:26:01.000Z"
       },
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "15:46",
-        "title": "千葉豪雨で8人死亡 約7400人避難",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591698?source=rss",
-        "publishedAt": "2026-08-14T06:46:45.000Z"
-      },
-      {
         "time": "19:53",
         "title": "千葉豪雨 放置車両1200台超見通し",
         "source": "Yahoo!ニュース",
@@ -177,18 +170,25 @@
         "publishedAt": "2026-08-14T11:38:24.000Z"
       },
       {
+        "time": "08:16",
+        "title": "車の中に人が 豪雨で一変した街",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591770?source=rss",
+        "publishedAt": "2026-08-14T23:16:33.000Z"
+      },
+      {
+        "time": "08:31",
+        "title": "駅長かなわず戦死 父の無念思う娘",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591771?source=rss",
+        "publishedAt": "2026-08-14T23:31:53.000Z"
+      },
+      {
         "time": "18:53",
         "title": "戦犯として裁かれた父 罪感じる娘",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591726?source=rss",
         "publishedAt": "2026-08-14T09:53:33.000Z"
-      },
-      {
-        "time": "23:26",
-        "title": "横浜市長に辞職要求 市議会3会派",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591753?source=rss",
-        "publishedAt": "2026-08-14T14:26:55.000Z"
       }
     ],
     "subsidyHeadlines": [
