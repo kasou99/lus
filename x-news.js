@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T12:22:42.920Z",
+  "updatedAt": "2026-08-14T12:50:03.714Z",
   "items": [
     {
       "time": "19:41",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉豪雨 放置車両1200台超見通し"
     },
     {
-      "time": "20:38",
-      "title": "アンダーパス 停電で排水できず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591743?source=rss",
-      "publishedAt": "2026-08-14T11:38:24.000Z",
-      "xQuery": "アンダーパス 停電で排水できず"
-    },
-    {
       "time": "18:45",
       "title": "福岡県議長の辞職勧告決議案 提出",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591746?source=rss",
       "publishedAt": "2026-08-14T12:14:15.000Z",
       "xQuery": "バスローブで報道対応 県職員処分"
+    },
+    {
+      "time": "19:37",
+      "title": "高さ日本一 観覧車8カ月以上停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591731?source=rss",
+      "publishedAt": "2026-08-14T10:37:47.000Z",
+      "xQuery": "高さ日本一 観覧車8カ月以上停止"
     }
   ]
 };
