@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T18:22:15.631Z",
+  "updatedAt": "2026-08-14T18:49:27.192Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-08-14T07:26:01.000Z"
       },
       {
-        "time": "05:00",
-        "title": "深層断面／中小、設備保全DX加速 遠隔監視・故障予防など強化",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xT05VRmJVS1ZWQVNYUnJYTTE0SWRlbGFvRUZkbm9HYmotN1gwaHhwTVZaZHl0b1ZibzdSM0tTUDVuYWwydnB1aVdxUDJ5a3pVZjhnMFZ2SVZDejg?oc=5",
-        "publishedAt": "2026-08-13T20:00:00.000Z"
-      },
-      {
         "time": "15:33",
         "title": "バーローダーの最新調査2026-2032：市場規模765百万米ドル、今後動向を予測",
         "source": "アットプレス",
@@ -36,6 +29,13 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFTVZCLXQ1Z19HN0xRa2R4dDRtdURQcmU5OXAxRVJGQWg3cF85NTZCeTk2bFRMTjVZXzRtMjBPUFdTMUJvZGtGd195bUlnVFRyV0RQXzBqQko2RlNPQkpyTFFUUGs2MDRWSkdkRkt3?oc=5",
         "publishedAt": "2026-08-14T07:26:01.000Z"
+      },
+      {
+        "time": "09:04",
+        "title": "深層断面／中小、設備保全DX加速 遠隔監視・故障予防など強化",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tTXV5blNlZURhNkJadVdLdmNsMVluYkZIemRteUM1YmpNeGNKOHdnQ1N2Wkx1SGdGTFdXeDh3SVpsT1VKY00yT0tzQkE4cFNKQnRjU1JvRQ?oc=5",
+        "publishedAt": "2026-08-14T00:04:10.000Z"
       },
       {
         "time": "17:05",
