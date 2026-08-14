@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-13T23:47:59.537Z",
+  "updatedAt": "2026-08-14T00:34:32.145Z",
   "items": [
     {
-      "time": "05:42",
-      "title": "千葉県の特別警報 危険警報に切替",
+      "time": "09:25",
+      "title": "関東・東北 夕方から雨強まる予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591650?source=rss",
-      "publishedAt": "2026-08-13T20:42:44.000Z",
-      "xQuery": "千葉県の特別警報 危険警報に切替"
-    },
-    {
-      "time": "05:29",
-      "title": "危険な雨 土砂災害など終日警戒",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591649?source=rss",
-      "publishedAt": "2026-08-13T20:29:37.000Z",
-      "xQuery": "危険な雨 土砂災害など終日警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6591665?source=rss",
+      "publishedAt": "2026-08-14T00:25:28.000Z",
+      "xQuery": "関東・東北 夕方から雨強まる予想"
     },
     {
       "time": "08:45",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉大雨の死者4人に 行方不明1人"
     },
     {
-      "time": "06:40",
-      "title": "千葉県内 約1万人の帰宅困難者",
+      "time": "09:18",
+      "title": "帰宅困難の約4千人 自衛隊が輸送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591653?source=rss",
-      "publishedAt": "2026-08-13T21:40:22.000Z",
-      "xQuery": "千葉県内 約1万人の帰宅困難者"
+      "url": "https://news.yahoo.co.jp/pickup/6591664?source=rss",
+      "publishedAt": "2026-08-14T00:18:28.000Z",
+      "xQuery": "帰宅困難の約4千人 自衛隊が輸送"
+    },
+    {
+      "time": "08:01",
+      "title": "成田空港に7000人が滞留 大雨影響",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591657?source=rss",
+      "publishedAt": "2026-08-13T23:01:52.000Z",
+      "xQuery": "成田空港に7000人が滞留 大雨影響"
     },
     {
       "time": "08:28",

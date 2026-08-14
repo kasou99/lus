@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T23:47:58.856Z",
+  "updatedAt": "2026-08-14T00:34:31.009Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-08-13T07:12:00.000Z"
       },
       {
-        "time": "09:23",
-        "title": "芝浦機械、７月工作機械受注は前年比３倍に、エネルギーやＡＩ向け好調 速報",
-        "source": "kabushiki.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5GSVkzLTFRc2tpMnJBV2tjcnBXcnRTRXoza1FlU1JTeXNXN2NoZjFTek5LNXg5VU5SZjZHQ2gzRUlmenlydlJJ?oc=5",
-        "publishedAt": "2026-08-13T00:23:00.000Z"
-      },
-      {
         "time": "16:03",
         "title": "米中半導体競争が生む中国特需 ヴェリタスEYE（8月13日）",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mbFRoYXgyLVdVRDFtUjczeXVVQ1hCM0NpcGhja1pUVXpJTHQzNHAxckloR2dPT3FGVlFidEFLR2ZKN1V5RnNET0dmNVZSNFdqYXZhaFZEOUNfRlJmY3lZNm10dVVEWlRmeTduOWxLWXZWVFRqZGZzLXo0UWdOdw?oc=5",
         "publishedAt": "2026-08-13T07:03:43.000Z"
+      },
+      {
+        "time": "16:13",
+        "title": "トレックスＳが３日続伸、２７年３月期の利益予想を上方修正 速報",
+        "source": "kabushiki.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pbTFwZjNKVXJCVzh5U1VKNGIzb0h0TVQ4dXFEMGsydURGQ25hVzBCbmxlOGlPZGJtYmx5X1ZoVUVmdHBJeHZn?oc=5",
+        "publishedAt": "2026-08-13T07:13:00.000Z"
       },
       {
         "time": "18:34",
@@ -61,18 +61,18 @@
     ],
     "worldHeadlines": [
       {
+        "time": "09:00",
+        "title": "米当局 北方領土は「日本に主権」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591659?source=rss",
+        "publishedAt": "2026-08-14T00:00:04.000Z"
+      },
+      {
         "time": "20:50",
         "title": "露大統領が択捉島を電撃訪問 波紋",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591614?source=rss",
         "publishedAt": "2026-08-13T11:50:30.000Z"
-      },
-      {
-        "time": "12:13",
-        "title": "プーチン大統領 北方領土を初訪問",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591560?source=rss",
-        "publishedAt": "2026-08-13T03:13:10.000Z"
       },
       {
         "time": "11:36",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-08-13T23:28:49.000Z"
       },
       {
+        "time": "09:18",
+        "title": "帰宅困難の約4千人 自衛隊が輸送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591664?source=rss",
+        "publishedAt": "2026-08-14T00:18:28.000Z"
+      },
+      {
         "time": "06:40",
         "title": "千葉県内 約1万人の帰宅困難者",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591630?source=rss",
         "publishedAt": "2026-08-13T13:14:43.000Z"
-      },
-      {
-        "time": "21:03",
-        "title": "千葉県で大雨 現地のSNS投稿",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591625?source=rss",
-        "publishedAt": "2026-08-13T12:03:07.000Z"
       },
       {
         "time": "08:13",
