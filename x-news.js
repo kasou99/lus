@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T06:36:58.356Z",
+  "updatedAt": "2026-08-14T07:35:07.358Z",
   "items": [
-    {
-      "time": "14:56",
-      "title": "千葉豪雨7人死亡 1人が行方不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591693?source=rss",
-      "publishedAt": "2026-08-14T05:56:46.000Z",
-      "xQuery": "千葉豪雨7人死亡 1人が行方不明"
-    },
     {
       "time": "13:40",
       "title": "午後も関東は大雨恐れ 厳重警戒を",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591687?source=rss",
       "publishedAt": "2026-08-14T04:40:46.000Z",
       "xQuery": "午後も関東は大雨恐れ 厳重警戒を"
+    },
+    {
+      "time": "15:46",
+      "title": "千葉豪雨で8人死亡 約7400人避難",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591698?source=rss",
+      "publishedAt": "2026-08-14T06:46:45.000Z",
+      "xQuery": "千葉豪雨で8人死亡 約7400人避難"
     },
     {
       "time": "14:44",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉県 記録的な豪雨となった理由"
     },
     {
-      "time": "14:10",
-      "title": "帰りたい 豪雨で帰宅困難者が続出",
+      "time": "16:10",
+      "title": "阿蘇中岳 噴火警戒レベル3に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591689?source=rss",
-      "publishedAt": "2026-08-14T05:10:23.000Z",
-      "xQuery": "帰りたい 豪雨で帰宅困難者が続出"
+      "url": "https://news.yahoo.co.jp/pickup/6591699?source=rss",
+      "publishedAt": "2026-08-14T07:10:00.000Z",
+      "xQuery": "阿蘇中岳 噴火警戒レベル3に"
     },
     {
-      "time": "13:53",
-      "title": "虫歯20本 デンタルネグレクト実態",
+      "time": "15:46",
+      "title": "アシックス商事 解散・清算の方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591688?source=rss",
-      "publishedAt": "2026-08-14T04:53:15.000Z",
-      "xQuery": "虫歯20本 デンタルネグレクト実態"
+      "url": "https://news.yahoo.co.jp/pickup/6591697?source=rss",
+      "publishedAt": "2026-08-14T06:46:03.000Z",
+      "xQuery": "アシックス商事 解散・清算の方針"
     }
   ]
 };
