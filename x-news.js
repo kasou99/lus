@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T04:38:53.657Z",
+  "updatedAt": "2026-08-14T05:34:59.631Z",
   "items": [
+    {
+      "time": "13:40",
+      "title": "午後も関東は大雨恐れ 厳重警戒を",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591687?source=rss",
+      "publishedAt": "2026-08-14T04:40:46.000Z",
+      "xQuery": "午後も関東は大雨恐れ 厳重警戒を"
+    },
     {
       "time": "13:02",
       "title": "千葉大雨6人死亡 1人が心肺停止",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉大雨6人死亡 1人が心肺停止"
     },
     {
-      "time": "12:38",
-      "title": "大雨から一夜 関東の鉄道運行情報",
+      "time": "14:10",
+      "title": "帰りたい 豪雨で帰宅困難者が続出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591678?source=rss",
-      "publishedAt": "2026-08-14T03:38:09.000Z",
-      "xQuery": "大雨から一夜 関東の鉄道運行情報"
+      "url": "https://news.yahoo.co.jp/pickup/6591689?source=rss",
+      "publishedAt": "2026-08-14T05:10:23.000Z",
+      "xQuery": "帰りたい 豪雨で帰宅困難者が続出"
     },
     {
       "time": "12:57",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉大雨でガス異常 1万戸超停止"
     },
     {
-      "time": "10:53",
-      "title": "千葉駅 一夜明かした家族連れも",
+      "time": "13:00",
+      "title": "室外機浸水したら まずは使用中止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591672?source=rss",
-      "publishedAt": "2026-08-14T01:53:50.000Z",
-      "xQuery": "千葉駅 一夜明かした家族連れも"
-    },
-    {
-      "time": "10:21",
-      "title": "パワハラの横浜市長 市議追及に涙",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591670?source=rss",
-      "publishedAt": "2026-08-14T01:21:02.000Z",
-      "xQuery": "パワハラの横浜市長 市議追及に涙"
+      "url": "https://news.yahoo.co.jp/pickup/6591683?source=rss",
+      "publishedAt": "2026-08-14T04:00:35.000Z",
+      "xQuery": "室外機浸水したら まずは使用中止"
     }
   ]
 };
