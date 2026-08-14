@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T13:31:46.246Z",
+  "updatedAt": "2026-08-14T14:26:03.097Z",
   "items": [
     {
-      "time": "19:41",
-      "title": "関東など 15日にかけ激しい雨注意",
+      "time": "23:16",
+      "title": "千葉県 明け方まで激しい雷雨恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591730?source=rss",
-      "publishedAt": "2026-08-14T10:41:09.000Z",
-      "xQuery": "関東など 15日にかけ激しい雨注意"
+      "url": "https://news.yahoo.co.jp/pickup/6591752?source=rss",
+      "publishedAt": "2026-08-14T14:16:26.000Z",
+      "xQuery": "千葉県 明け方まで激しい雷雨恐れ"
     },
     {
       "time": "19:53",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉豪雨 放置車両1200台超見通し"
     },
     {
-      "time": "18:45",
-      "title": "福岡県議長の辞職勧告決議案 提出",
+      "time": "23:05",
+      "title": "エルニーニョ 非常に強くなる恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591725?source=rss",
-      "publishedAt": "2026-08-14T09:45:23.000Z",
-      "xQuery": "福岡県議長の辞職勧告決議案 提出"
+      "url": "https://news.yahoo.co.jp/pickup/6591750?source=rss",
+      "publishedAt": "2026-08-14T14:05:10.000Z",
+      "xQuery": "エルニーニョ 非常に強くなる恐れ"
     },
     {
       "time": "21:14",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "バスローブで報道対応 県職員処分"
     },
     {
-      "time": "19:37",
-      "title": "高さ日本一 観覧車8カ月以上停止",
+      "time": "15:46",
+      "title": "アシックス商事 解散・清算の方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591731?source=rss",
-      "publishedAt": "2026-08-14T10:37:47.000Z",
-      "xQuery": "高さ日本一 観覧車8カ月以上停止"
+      "url": "https://news.yahoo.co.jp/pickup/6591697?source=rss",
+      "publishedAt": "2026-08-14T06:46:03.000Z",
+      "xQuery": "アシックス商事 解散・清算の方針"
     }
   ]
 };
