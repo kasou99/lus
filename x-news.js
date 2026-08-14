@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T08:33:26.209Z",
+  "updatedAt": "2026-08-14T09:27:46.464Z",
   "items": [
     {
       "time": "16:35",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "関東 局地的に非常に激しい雨恐れ"
     },
     {
-      "time": "15:46",
-      "title": "千葉豪雨で8人死亡 約7400人避難",
+      "time": "18:14",
+      "title": "千葉豪雨少なくとも放置車両200台",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591698?source=rss",
-      "publishedAt": "2026-08-14T06:46:45.000Z",
-      "xQuery": "千葉豪雨で8人死亡 約7400人避難"
+      "url": "https://news.yahoo.co.jp/pickup/6591720?source=rss",
+      "publishedAt": "2026-08-14T09:14:14.000Z",
+      "xQuery": "千葉豪雨少なくとも放置車両200台"
     },
     {
-      "time": "17:13",
-      "title": "水没した車 住民が泳ぎ窓割り救助",
+      "time": "17:34",
+      "title": "声届かず沈む車 住民が窓割り救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591710?source=rss",
-      "publishedAt": "2026-08-14T08:13:22.000Z",
-      "xQuery": "水没した車 住民が泳ぎ窓割り救助"
+      "url": "https://news.yahoo.co.jp/pickup/6591716?source=rss",
+      "publishedAt": "2026-08-14T08:34:08.000Z",
+      "xQuery": "声届かず沈む車 住民が窓割り救助"
     },
     {
-      "time": "16:10",
-      "title": "阿蘇中岳 噴火警戒レベル3に",
+      "time": "17:27",
+      "title": "英国籍の中学生 日本旅行中に不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591699?source=rss",
-      "publishedAt": "2026-08-14T07:10:00.000Z",
-      "xQuery": "阿蘇中岳 噴火警戒レベル3に"
+      "url": "https://news.yahoo.co.jp/pickup/6591713?source=rss",
+      "publishedAt": "2026-08-14T08:27:30.000Z",
+      "xQuery": "英国籍の中学生 日本旅行中に不明"
     },
     {
-      "time": "11:55",
-      "title": "北方領土巡る日本の抗議 露が反発",
+      "time": "17:07",
+      "title": "海で流された子助けに 父心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591673?source=rss",
-      "publishedAt": "2026-08-14T02:55:49.000Z",
-      "xQuery": "北方領土巡る日本の抗議 露が反発"
+      "url": "https://news.yahoo.co.jp/pickup/6591712?source=rss",
+      "publishedAt": "2026-08-14T08:07:12.000Z",
+      "xQuery": "海で流された子助けに 父心肺停止"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T08:33:25.162Z",
+  "updatedAt": "2026-08-14T09:27:45.396Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WdDktNnA5c25oWFc2eHZSdEtyX290NU91OVVRSVRyV2wyaXV6NXJrcjVWek51YVgySlhiMzJteXBySjIwNVd0MlRoUlJLdmxjQlZISVBTa2FCdkhWTkpRNzFHV2laRlJNYjl4OERfbllYRWY2ZXBtUl8xWnlKSWs?oc=5",
         "publishedAt": "2026-08-14T07:26:01.000Z"
+      },
+      {
+        "time": "16:26",
+        "title": "シチズン時計、通期予想を上方修正 時計・工作機械が計画超え",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWllnVGZUUHRzYmtvNU1YQlJGaTNQUXFtVmFYYnZJMlRPWEd2YjR0SE5uT1h4eUVkd09WWFNuZkF0Ql94X2dhSDZGSGQzQkh2a05ubk1GZ1FGV2pfMXZTcEVOS3QxZUtMNlpXc18tcXRuQ25oZlp1RnlBNkNUOGdkOHN2amE2VERaNlNGckFIMV9JQTlp0gGHAUFVX3lxTFBnajYzZWh3Y0FNbW0tRFgyZms1cDlNZEJDMkxwdTNyVncxOURvajRBUExxN1k4VDR2dEp0YklseUoxQ3BlcEdIVVV2TWR6WV81VnFaLWlnbUh4UWZXc0ZKOUJtOUtSNmhsWjh6TnNMNjRFZ0dWemFuSWl1WV9xRm9Ka1pMdzhPYw?oc=5",
+        "publishedAt": "2026-08-14T07:26:00.000Z"
       },
       {
         "time": "15:33",
@@ -50,13 +57,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XMkFOWk1NQ2hDS1BxdUFCQjVVRTZIbDFHWmlhWUVlbUpXcE9iSjBtVTFSczFkNF9IUW9OaWRqbEFFLXNnUFRTQkdIcV9nSDg?oc=5",
         "publishedAt": "2026-08-14T06:14:00.000Z"
-      },
-      {
-        "time": "07:15",
-        "title": "セイコー プレザージュから国産初の腕時計 ローレルに着想を得た琺瑯／漆ダイヤルの新作が登場",
-        "source": "hypebeast.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamdONVBnSEVYd2VZanpmWE1INnBvbm5Bem50Z0h4VVNzWjVrV1BVRE9wRlllek12dWFjdHkzTTd5Wm16cVh5NGF4YjNFRVdjSEhZUXVocHdieWQ0R2tTSkRhTGgzRWZCb0RmREY5bktWQzBxeWFGeTh5ak90ay1rcmRHQ3Nsb0l5NHRXTWsxUHBTQmJYVU1kR0c4RGZLVE9VSHpvMGdOaGNHc3pDRFhhR2twNkNLX29iR19XeHlDMFJTa0E2c19j?oc=5",
-        "publishedAt": "2026-08-13T22:15:36.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-08-14T06:46:45.000Z"
       },
       {
-        "time": "10:35",
-        "title": "広い範囲で浸水 上空からの映像",
+        "time": "18:14",
+        "title": "千葉豪雨少なくとも放置車両200台",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591668?source=rss",
-        "publishedAt": "2026-08-14T01:35:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591720?source=rss",
+        "publishedAt": "2026-08-14T09:14:14.000Z"
       },
       {
         "time": "14:10",
@@ -170,11 +170,11 @@
         "publishedAt": "2026-08-14T05:10:23.000Z"
       },
       {
-        "time": "17:13",
-        "title": "水没した車 住民が泳ぎ窓割り救助",
+        "time": "17:34",
+        "title": "声届かず沈む車 住民が窓割り救助",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591710?source=rss",
-        "publishedAt": "2026-08-14T08:13:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591716?source=rss",
+        "publishedAt": "2026-08-14T08:34:08.000Z"
       },
       {
         "time": "17:29",
