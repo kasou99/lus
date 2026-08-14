@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T05:34:59.631Z",
+  "updatedAt": "2026-08-14T06:36:58.356Z",
   "items": [
+    {
+      "time": "14:56",
+      "title": "千葉豪雨7人死亡 1人が行方不明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591693?source=rss",
+      "publishedAt": "2026-08-14T05:56:46.000Z",
+      "xQuery": "千葉豪雨7人死亡 1人が行方不明"
+    },
     {
       "time": "13:40",
       "title": "午後も関東は大雨恐れ 厳重警戒を",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "午後も関東は大雨恐れ 厳重警戒を"
     },
     {
-      "time": "13:02",
-      "title": "千葉大雨6人死亡 1人が心肺停止",
+      "time": "14:44",
+      "title": "千葉県 記録的な豪雨となった理由",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591684?source=rss",
-      "publishedAt": "2026-08-14T04:02:21.000Z",
-      "xQuery": "千葉大雨6人死亡 1人が心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6591692?source=rss",
+      "publishedAt": "2026-08-14T05:44:26.000Z",
+      "xQuery": "千葉県 記録的な豪雨となった理由"
     },
     {
       "time": "14:10",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "帰りたい 豪雨で帰宅困難者が続出"
     },
     {
-      "time": "12:57",
-      "title": "千葉大雨でガス異常 1万戸超停止",
+      "time": "13:53",
+      "title": "虫歯20本 デンタルネグレクト実態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591682?source=rss",
-      "publishedAt": "2026-08-14T03:57:52.000Z",
-      "xQuery": "千葉大雨でガス異常 1万戸超停止"
-    },
-    {
-      "time": "13:00",
-      "title": "室外機浸水したら まずは使用中止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591683?source=rss",
-      "publishedAt": "2026-08-14T04:00:35.000Z",
-      "xQuery": "室外機浸水したら まずは使用中止"
+      "url": "https://news.yahoo.co.jp/pickup/6591688?source=rss",
+      "publishedAt": "2026-08-14T04:53:15.000Z",
+      "xQuery": "虫歯20本 デンタルネグレクト実態"
     }
   ]
 };
