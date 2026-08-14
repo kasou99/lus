@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T03:50:07.866Z",
+  "updatedAt": "2026-08-14T04:38:53.657Z",
   "items": [
     {
-      "time": "12:04",
-      "title": "千葉市で1人死亡 大雨の死者5人に",
+      "time": "13:02",
+      "title": "千葉大雨6人死亡 1人が心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591676?source=rss",
-      "publishedAt": "2026-08-14T03:04:48.000Z",
-      "xQuery": "千葉市で1人死亡 大雨の死者5人に"
+      "url": "https://news.yahoo.co.jp/pickup/6591684?source=rss",
+      "publishedAt": "2026-08-14T04:02:21.000Z",
+      "xQuery": "千葉大雨6人死亡 1人が心肺停止"
     },
     {
       "time": "12:38",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "大雨から一夜 関東の鉄道運行情報"
     },
     {
+      "time": "12:57",
+      "title": "千葉大雨でガス異常 1万戸超停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591682?source=rss",
+      "publishedAt": "2026-08-14T03:57:52.000Z",
+      "xQuery": "千葉大雨でガス異常 1万戸超停止"
+    },
+    {
       "time": "10:53",
       "title": "千葉駅 一夜明かした家族連れも",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591672?source=rss",
       "publishedAt": "2026-08-14T01:53:50.000Z",
       "xQuery": "千葉駅 一夜明かした家族連れも"
-    },
-    {
-      "time": "09:18",
-      "title": "帰宅困難の約4千人 自衛隊が輸送",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591664?source=rss",
-      "publishedAt": "2026-08-14T00:18:28.000Z",
-      "xQuery": "帰宅困難の約4千人 自衛隊が輸送"
     },
     {
       "time": "10:21",

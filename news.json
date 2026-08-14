@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T03:50:07.098Z",
+  "updatedAt": "2026-08-14T04:38:52.655Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-08-13T07:12:00.000Z"
       },
       {
+        "time": "17:52",
+        "title": "江口電機が新工場建設に着手 好調続く制御盤の生産能力倍増へ",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EczRvZnpKNVV0cTJ6UnZ0R25DN0E4SVd0aEJ5WkkyQnRFdk0zb3dCaTV5cFpPYzNGNkZzeTdwOXJmZmEzTVZtSGo3WUxTOHFiRXc?oc=5",
+        "publishedAt": "2026-08-13T08:52:04.000Z"
+      },
+      {
         "time": "16:03",
         "title": "米中半導体競争が生む中国特需 ヴェリタスEYE（8月13日）",
         "source": "日本経済新聞",
@@ -43,13 +50,6 @@
         "source": "Hypebeast",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamdONVBnSEVYd2VZanpmWE1INnBvbm5Bem50Z0h4VVNzWjVrV1BVRE9wRlllek12dWFjdHkzTTd5Wm16cVh5NGF4YjNFRVdjSEhZUXVocHdieWQ0R2tTSkRhTGgzRWZCb0RmREY5bktWQzBxeWFGeTh5ak90ay1rcmRHQ3Nsb0l5NHRXTWsxUHBTQmJYVU1kR0c4RGZLVE9VSHpvMGdOaGNHc3pDRFhhR2twNkNLX29iR19XeHlDMFJTa0E2c19j?oc=5",
         "publishedAt": "2026-08-13T22:15:36.000Z"
-      },
-      {
-        "time": "09:00",
-        "title": "富士フイルム、半導体材料開発でデジタルツイン活用加速",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTNDltYmFfUG0wLWhXQk9JdnV1SXpTZEQ2MDcxLVA4NE5ta2J6eGxjMmZUcGJIZDR1ODVDTTFxdFNldE5QS0R1RlY3OXN1YnBoeDJ1d3lkRnFhZzA?oc=5",
-        "publishedAt": "2026-08-14T00:00:00.000Z"
       },
       {
         "time": "16:13",
@@ -112,18 +112,18 @@
         "publishedAt": "2026-08-14T01:26:45.000Z"
       },
       {
-        "time": "04:46",
-        "title": "千葉県内のJR各線 始発から運休",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591646?source=rss",
-        "publishedAt": "2026-08-13T19:46:02.000Z"
-      },
-      {
         "time": "08:01",
         "title": "成田空港に7000人が滞留 大雨影響",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591657?source=rss",
         "publishedAt": "2026-08-13T23:01:52.000Z"
+      },
+      {
+        "time": "12:57",
+        "title": "千葉大雨でガス異常 1万戸超停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591682?source=rss",
+        "publishedAt": "2026-08-14T03:57:52.000Z"
       },
       {
         "time": "12:38",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "12:04",
-        "title": "千葉市で1人死亡 大雨の死者5人に",
+        "time": "13:02",
+        "title": "千葉大雨6人死亡 1人が心肺停止",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591676?source=rss",
-        "publishedAt": "2026-08-14T03:04:48.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591684?source=rss",
+        "publishedAt": "2026-08-14T04:02:21.000Z"
       },
       {
         "time": "10:35",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
