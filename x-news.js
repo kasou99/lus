@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T10:25:23.185Z",
+  "updatedAt": "2026-08-14T10:50:34.795Z",
   "items": [
     {
-      "time": "16:35",
-      "title": "関東 局地的に非常に激しい雨恐れ",
+      "time": "19:41",
+      "title": "関東など 15日にかけ激しい雨注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591705?source=rss",
-      "publishedAt": "2026-08-14T07:35:06.000Z",
-      "xQuery": "関東 局地的に非常に激しい雨恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6591730?source=rss",
+      "publishedAt": "2026-08-14T10:41:09.000Z",
+      "xQuery": "関東など 15日にかけ激しい雨注意"
     },
     {
       "time": "18:14",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "戦犯として裁かれた父 罪感じる娘"
     },
     {
-      "time": "17:27",
-      "title": "英国籍の中学生 日本旅行中に不明",
+      "time": "17:44",
+      "title": "初任給100万円の会社 応募1300人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591713?source=rss",
-      "publishedAt": "2026-08-14T08:27:30.000Z",
-      "xQuery": "英国籍の中学生 日本旅行中に不明"
+      "url": "https://news.yahoo.co.jp/pickup/6591715?source=rss",
+      "publishedAt": "2026-08-14T08:44:04.000Z",
+      "xQuery": "初任給100万円の会社 応募1300人"
     }
   ]
 };
