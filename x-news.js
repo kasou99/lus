@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T22:07:37.429Z",
+  "updatedAt": "2026-08-14T22:40:52.111Z",
   "items": [
     {
-      "time": "23:16",
-      "title": "千葉県 明け方まで激しい雷雨恐れ",
+      "time": "07:34",
+      "title": "15日 九州-東北で急な雷雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591752?source=rss",
-      "publishedAt": "2026-08-14T14:16:26.000Z",
-      "xQuery": "千葉県 明け方まで激しい雷雨恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6591764?source=rss",
+      "publishedAt": "2026-08-14T22:34:43.000Z",
+      "xQuery": "15日 九州-東北で急な雷雨の恐れ"
+    },
+    {
+      "time": "07:33",
+      "title": "衆院区割り改定 12道府県が対象か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591763?source=rss",
+      "publishedAt": "2026-08-14T22:33:31.000Z",
+      "xQuery": "衆院区割り改定 12道府県が対象か"
     },
     {
       "time": "00:00",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591756?source=rss",
       "publishedAt": "2026-08-14T15:00:20.000Z",
       "xQuery": "千葉豪雨 住民も加わり懸命な救助"
-    },
-    {
-      "time": "23:42",
-      "title": "スマホ水没・水ぬれ時 NGな行為",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591755?source=rss",
-      "publishedAt": "2026-08-14T14:42:27.000Z",
-      "xQuery": "スマホ水没・水ぬれ時 NGな行為"
     },
     {
       "time": "23:05",
