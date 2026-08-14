@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T01:36:37.883Z",
+  "updatedAt": "2026-08-14T02:59:32.694Z",
   "items": [
     {
       "time": "09:25",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東・東北 夕方から雨強まる予想"
     },
     {
-      "time": "08:45",
-      "title": "千葉大雨の死者4人に 行方不明1人",
+      "time": "10:53",
+      "title": "千葉駅 一夜明かした家族連れも",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591663?source=rss",
-      "publishedAt": "2026-08-13T23:45:37.000Z",
-      "xQuery": "千葉大雨の死者4人に 行方不明1人"
+      "url": "https://news.yahoo.co.jp/pickup/6591672?source=rss",
+      "publishedAt": "2026-08-14T01:53:50.000Z",
+      "xQuery": "千葉駅 一夜明かした家族連れも"
     },
     {
       "time": "09:18",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "帰宅困難の約4千人 自衛隊が輸送"
     },
     {
-      "time": "08:28",
-      "title": "一夜明けた千葉 上空からの映像",
+      "time": "10:35",
+      "title": "広い範囲で浸水 上空からの映像",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591661?source=rss",
-      "publishedAt": "2026-08-13T23:28:49.000Z",
-      "xQuery": "一夜明けた千葉 上空からの映像"
+      "url": "https://news.yahoo.co.jp/pickup/6591668?source=rss",
+      "publishedAt": "2026-08-14T01:35:24.000Z",
+      "xQuery": "広い範囲で浸水 上空からの映像"
     },
     {
-      "time": "09:00",
-      "title": "米当局 北方領土は「日本に主権」",
+      "time": "10:21",
+      "title": "パワハラの横浜市長 市議追及に涙",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591659?source=rss",
-      "publishedAt": "2026-08-14T00:00:04.000Z",
-      "xQuery": "米当局 北方領土は「日本に主権」"
+      "url": "https://news.yahoo.co.jp/pickup/6591670?source=rss",
+      "publishedAt": "2026-08-14T01:21:02.000Z",
+      "xQuery": "パワハラの横浜市長 市議追及に涙"
     }
   ]
 };
