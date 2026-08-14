@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T14:50:10.397Z",
+  "updatedAt": "2026-08-14T15:20:24.017Z",
   "items": [
     {
       "time": "23:16",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉県 明け方まで激しい雷雨恐れ"
     },
     {
-      "time": "19:53",
-      "title": "千葉豪雨 放置車両1200台超見通し",
+      "time": "00:00",
+      "title": "千葉豪雨 住民も加わり懸命な救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591735?source=rss",
-      "publishedAt": "2026-08-14T10:53:47.000Z",
-      "xQuery": "千葉豪雨 放置車両1200台超見通し"
+      "url": "https://news.yahoo.co.jp/pickup/6591756?source=rss",
+      "publishedAt": "2026-08-14T15:00:20.000Z",
+      "xQuery": "千葉豪雨 住民も加わり懸命な救助"
     },
     {
       "time": "23:42",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スマホ水没・水ぬれ時 NGな行為"
     },
     {
-      "time": "23:26",
-      "title": "横浜市長に辞職要求 市議会3会派",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591753?source=rss",
-      "publishedAt": "2026-08-14T14:26:55.000Z",
-      "xQuery": "横浜市長に辞職要求 市議会3会派"
-    },
-    {
       "time": "23:05",
       "title": "エルニーニョ 非常に強くなる恐れ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591750?source=rss",
       "publishedAt": "2026-08-14T14:05:10.000Z",
       "xQuery": "エルニーニョ 非常に強くなる恐れ"
+    },
+    {
+      "time": "21:14",
+      "title": "バスローブで報道対応 県職員処分",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591746?source=rss",
+      "publishedAt": "2026-08-14T12:14:15.000Z",
+      "xQuery": "バスローブで報道対応 県職員処分"
     }
   ]
 };

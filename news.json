@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T14:50:09.644Z",
+  "updatedAt": "2026-08-14T15:20:23.487Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-08-14T07:26:01.000Z"
       },
       {
-        "time": "17:05",
-        "title": "シチズン時計、一転最終増益へ 純利益320億円に上方修正、増配も",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GRnlDcjhqbnROVUhWcjRHaDJBLThJYk5aMWR1ZHdjMjRmdkktMXRnb2FYMk9uOHJ1X1ZYRWpBM2duWXlCVERxNlJUeEZkTjdFRmxjR3d5eXcyZGlHVHZtWHhzRzFHWk4wd05OQWhnWU0zSkl3?oc=5",
-        "publishedAt": "2026-08-14T08:05:00.000Z"
-      },
-      {
         "time": "12:00",
         "title": "ファンレスDINレールコンピュータの世界市場（2026年～2032年）、市場規模（Intel、NVIDIA、AMD）・分析レポートを発表",
         "source": "Newscast.jp",
@@ -57,9 +50,23 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sV2NQV3A0Q1hOUllseHNUeHNyM01fQzg2a2FPaEdobXJDZUNpaC1GYk44UjBrLVFyV3RMMnEydk1falBZdEFXNg?oc=5",
         "publishedAt": "2026-08-13T19:22:10.000Z"
+      },
+      {
+        "time": "15:14",
+        "title": "コンピュータ数値制御（CNC）市場：機械タイプ、コンポーネント、軸数、制御タイプ、エンドユーザー別―2026年～2032年の世界市場予測",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XMkFOWk1NQ2hDS1BxdUFCQjVVRTZIbDFHWmlhWUVlbUpXcE9iSjBtVTFSczFkNF9IUW9OaWRqbEFFLXNnUFRTQkdIcV9nSDg?oc=5",
+        "publishedAt": "2026-08-14T06:14:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "00:02",
+        "title": "択捉島 露大統領は人気回復狙いか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591757?source=rss",
+        "publishedAt": "2026-08-14T15:02:39.000Z"
+      },
       {
         "time": "09:00",
         "title": "米当局 北方領土は「日本に主権」",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591577?source=rss",
         "publishedAt": "2026-08-13T04:58:58.000Z"
-      },
-      {
-        "time": "09:31",
-        "title": "米軍ヘリ墜落で2人死亡 テキサス",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591535?source=rss",
-        "publishedAt": "2026-08-13T00:31:03.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-08-14T10:53:47.000Z"
       },
       {
+        "time": "00:00",
+        "title": "千葉豪雨 住民も加わり懸命な救助",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591756?source=rss",
+        "publishedAt": "2026-08-14T15:00:20.000Z"
+      },
+      {
         "time": "20:38",
         "title": "アンダーパス 停電で排水できず",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591743?source=rss",
         "publishedAt": "2026-08-14T11:38:24.000Z"
-      },
-      {
-        "time": "17:34",
-        "title": "声届かず沈む車 住民が窓割り救助",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591716?source=rss",
-        "publishedAt": "2026-08-14T08:34:08.000Z"
       },
       {
         "time": "18:53",
