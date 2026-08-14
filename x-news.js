@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T02:59:32.694Z",
+  "updatedAt": "2026-08-14T03:50:07.866Z",
   "items": [
     {
-      "time": "09:25",
-      "title": "関東・東北 夕方から雨強まる予想",
+      "time": "12:04",
+      "title": "千葉市で1人死亡 大雨の死者5人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591665?source=rss",
-      "publishedAt": "2026-08-14T00:25:28.000Z",
-      "xQuery": "関東・東北 夕方から雨強まる予想"
+      "url": "https://news.yahoo.co.jp/pickup/6591676?source=rss",
+      "publishedAt": "2026-08-14T03:04:48.000Z",
+      "xQuery": "千葉市で1人死亡 大雨の死者5人に"
+    },
+    {
+      "time": "12:38",
+      "title": "大雨から一夜 関東の鉄道運行情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591678?source=rss",
+      "publishedAt": "2026-08-14T03:38:09.000Z",
+      "xQuery": "大雨から一夜 関東の鉄道運行情報"
     },
     {
       "time": "10:53",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591664?source=rss",
       "publishedAt": "2026-08-14T00:18:28.000Z",
       "xQuery": "帰宅困難の約4千人 自衛隊が輸送"
-    },
-    {
-      "time": "10:35",
-      "title": "広い範囲で浸水 上空からの映像",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591668?source=rss",
-      "publishedAt": "2026-08-14T01:35:24.000Z",
-      "xQuery": "広い範囲で浸水 上空からの映像"
     },
     {
       "time": "10:21",
