@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T11:18:42.532Z",
+  "updatedAt": "2026-08-14T11:47:56.753Z",
   "items": [
     {
       "time": "19:41",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉豪雨 放置車両1200台超見通し"
     },
     {
-      "time": "17:34",
-      "title": "声届かず沈む車 住民が窓割り救助",
+      "time": "20:38",
+      "title": "アンダーパス 停電で排水できず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591716?source=rss",
-      "publishedAt": "2026-08-14T08:34:08.000Z",
-      "xQuery": "声届かず沈む車 住民が窓割り救助"
+      "url": "https://news.yahoo.co.jp/pickup/6591743?source=rss",
+      "publishedAt": "2026-08-14T11:38:24.000Z",
+      "xQuery": "アンダーパス 停電で排水できず"
     },
     {
-      "time": "20:15",
-      "title": "深夜の爆音「走り屋」の言い分",
+      "time": "18:45",
+      "title": "福岡県議長の辞職勧告決議案 提出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591741?source=rss",
-      "publishedAt": "2026-08-14T11:15:33.000Z",
-      "xQuery": "深夜の爆音「走り屋」の言い分"
+      "url": "https://news.yahoo.co.jp/pickup/6591725?source=rss",
+      "publishedAt": "2026-08-14T09:45:23.000Z",
+      "xQuery": "福岡県議長の辞職勧告決議案 提出"
     },
     {
       "time": "17:44",
