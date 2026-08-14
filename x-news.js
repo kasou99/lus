@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T22:40:52.111Z",
+  "updatedAt": "2026-08-14T23:07:33.895Z",
   "items": [
     {
       "time": "07:34",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "15日 九州-東北で急な雷雨の恐れ"
     },
     {
-      "time": "07:33",
-      "title": "衆院区割り改定 12道府県が対象か",
+      "time": "07:40",
+      "title": "7道府県が副首都申請を検討 共同",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591763?source=rss",
-      "publishedAt": "2026-08-14T22:33:31.000Z",
-      "xQuery": "衆院区割り改定 12道府県が対象か"
+      "url": "https://news.yahoo.co.jp/pickup/6591762?source=rss",
+      "publishedAt": "2026-08-14T22:40:04.000Z",
+      "xQuery": "7道府県が副首都申請を検討 共同"
+    },
+    {
+      "time": "07:50",
+      "title": "自民幹部 靖国に集団参拝で調整",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591765?source=rss",
+      "publishedAt": "2026-08-14T22:50:47.000Z",
+      "xQuery": "自民幹部 靖国に集団参拝で調整"
     },
     {
       "time": "00:00",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉豪雨 住民も加わり懸命な救助"
     },
     {
-      "time": "23:05",
-      "title": "エルニーニョ 非常に強くなる恐れ",
+      "time": "07:43",
+      "title": "映像 防犯カメラに断層出現の瞬間",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591750?source=rss",
-      "publishedAt": "2026-08-14T14:05:10.000Z",
-      "xQuery": "エルニーニョ 非常に強くなる恐れ"
-    },
-    {
-      "time": "21:14",
-      "title": "バスローブで報道対応 県職員処分",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591746?source=rss",
-      "publishedAt": "2026-08-14T12:14:15.000Z",
-      "xQuery": "バスローブで報道対応 県職員処分"
+      "url": "https://news.yahoo.co.jp/pickup/6591766?source=rss",
+      "publishedAt": "2026-08-14T22:43:42.000Z",
+      "xQuery": "映像 防犯カメラに断層出現の瞬間"
     }
   ]
 };

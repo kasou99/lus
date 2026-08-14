@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T22:40:51.355Z",
+  "updatedAt": "2026-08-14T23:07:32.861Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "16:26",
         "title": "シチズン時計、通期予想を上方修正 時計・工作機械が計画超え（ロイター）",
-        "source": "Yahoo!ニュース",
+        "source": "news.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WdDktNnA5c25oWFc2eHZSdEtyX290NU91OVVRSVRyV2wyaXV6NXJrcjVWek51YVgySlhiMzJteXBySjIwNVd0MlRoUlJLdmxjQlZISVBTa2FCdkhWTkpRNzFHV2laRlJNYjl4OERfbllYRWY2ZXBtUl8xWnlKSWs?oc=5",
         "publishedAt": "2026-08-14T07:26:01.000Z"
       },
@@ -33,21 +33,21 @@
       {
         "time": "16:26",
         "title": "シチズン時計、通期予想を上方修正 時計・工作機械が計画超え｜Infoseekニュース",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFTVZCLXQ1Z19HN0xRa2R4dDRtdURQcmU5OXAxRVJGQWg3cF85NTZCeTk2bFRMTjVZXzRtMjBPUFdTMUJvZGtGd195bUlnVFRyV0RQXzBqQko2RlNPQkpyTFFUUGs2MDRWSkdkRkt3?oc=5",
         "publishedAt": "2026-08-14T07:26:01.000Z"
       },
       {
         "time": "17:05",
         "title": "シチズン時計、一転最終増益へ 純利益320億円に上方修正、増配も",
-        "source": "BigGo ファイナンス",
+        "source": "finance.biggo.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GRnlDcjhqbnROVUhWcjRHaDJBLThJYk5aMWR1ZHdjMjRmdkktMXRnb2FYMk9uOHJ1X1ZYRWpBM2duWXlCVERxNlJUeEZkTjdFRmxjR3d5eXcyZGlHVHZtWHhzRzFHWk4wd05OQWhnWU0zSkl3?oc=5",
         "publishedAt": "2026-08-14T08:05:00.000Z"
       },
       {
         "time": "09:04",
         "title": "深層断面／中小、設備保全DX加速 遠隔監視・故障予防など強化",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tTXV5blNlZURhNkJadVdLdmNsMVluYkZIemRteUM1YmpNeGNKOHdnQ1N2Wkx1SGdGTFdXeDh3SVpsT1VKY00yT0tzQkE4cFNKQnRjU1JvRQ?oc=5",
         "publishedAt": "2026-08-14T00:04:10.000Z"
       },
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:57",
+        "title": "米大統領 海峡巡り強硬姿勢強める",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591767?source=rss",
+        "publishedAt": "2026-08-14T22:57:19.000Z"
+      },
       {
         "time": "00:02",
         "title": "択捉島 露大統領は人気回復狙いか",
@@ -82,25 +89,18 @@
         "publishedAt": "2026-08-14T02:55:49.000Z"
       },
       {
+        "time": "07:59",
+        "title": "インドネシア付近でM7.7の地震",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591768?source=rss",
+        "publishedAt": "2026-08-14T22:59:18.000Z"
+      },
+      {
         "time": "11:36",
         "title": "相互関税還付 米で日本企業を提訴",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591541?source=rss",
         "publishedAt": "2026-08-13T02:36:32.000Z"
-      },
-      {
-        "time": "11:51",
-        "title": "ウクライナ 南東部で一部領土奪還",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591553?source=rss",
-        "publishedAt": "2026-08-13T02:51:05.000Z"
-      },
-      {
-        "time": "13:58",
-        "title": "闇バイト応募で渡米 邦人男性保護",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591577?source=rss",
-        "publishedAt": "2026-08-13T04:58:58.000Z"
       }
     ],
     "economyHeadlines": [
