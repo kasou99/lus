@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T00:34:31.009Z",
+  "updatedAt": "2026-08-14T01:36:37.217Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-08-13T20:01:51.000Z"
       },
       {
-        "time": "04:18",
+        "time": "04:22",
         "title": "DMG森精機、477億円調達し国内外拠点を増強",
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sV2NQV3A0Q1hOUllseHNUeHNyM01fQzg2a2FPaEdobXJDZUNpaC1GYk44UjBrLVFyV3RMMnEydk1falBZdEFXNg?oc=5",
-        "publishedAt": "2026-08-13T19:18:45.000Z"
+        "publishedAt": "2026-08-13T19:22:10.000Z"
       },
       {
         "time": "16:12",
@@ -29,6 +29,13 @@
         "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mbFRoYXgyLVdVRDFtUjczeXVVQ1hCM0NpcGhja1pUVXpJTHQzNHAxckloR2dPT3FGVlFidEFLR2ZKN1V5RnNET0dmNVZSNFdqYXZhaFZEOUNfRlJmY3lZNm10dVVEWlRmeTduOWxLWXZWVFRqZGZzLXo0UWdOdw?oc=5",
         "publishedAt": "2026-08-13T07:03:43.000Z"
+      },
+      {
+        "time": "07:15",
+        "title": "セイコー プレザージュから国産初の腕時計 ローレルに着想を得た琺瑯／漆ダイヤルの新作が登場",
+        "source": "Hypebeast",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamdONVBnSEVYd2VZanpmWE1INnBvbm5Bem50Z0h4VVNzWjVrV1BVRE9wRlllek12dWFjdHkzTTd5Wm16cVh5NGF4YjNFRVdjSEhZUXVocHdieWQ0R2tTSkRhTGgzRWZCb0RmREY5bktWQzBxeWFGeTh5ak90ay1rcmRHQ3Nsb0l5NHRXTWsxUHBTQmJYVU1kR0c4RGZLVE9VSHpvMGdOaGNHc3pDRFhhR2twNkNLX29iR19XeHlDMFJTa0E2c19j?oc=5",
+        "publishedAt": "2026-08-13T22:15:36.000Z"
       },
       {
         "time": "16:13",
@@ -50,13 +57,6 @@
         "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QcllTbFYtUjhmbkEzbUZDLTIyMTdiRUp5XzZueXFUNWJyY01HeE5KdlZfU1VfRFdMWXJpemFRekFnbjVmV2JQX0tnaE1VYzIwMWlVNXAxRkhUUQ?oc=5",
         "publishedAt": "2026-08-13T07:30:00.000Z"
-      },
-      {
-        "time": "10:11",
-        "title": "DMG森精機が大幅安､海外での新株発行で482億円調達",
-        "source": "四季報オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oWVBGYVg1WllNVko1b3hJUWpFcHFYcVdJd2M1RDZlcE1PczFvQmo2NlBTbUJ6aDFMMTJLZUJuc1NiWS1oSGdyNDBJS0k1NmJuQjlhX29qOA?oc=5",
-        "publishedAt": "2026-08-13T01:11:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "10:26",
+        "title": "単独では限界 日米協調介入の内幕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591671?source=rss",
+        "publishedAt": "2026-08-14T01:26:45.000Z"
+      },
+      {
         "time": "04:46",
         "title": "千葉県内のJR各線 始発から運休",
         "source": "Yahoo!ニュース",
@@ -126,41 +133,34 @@
         "publishedAt": "2026-08-13T22:41:49.000Z"
       },
       {
+        "time": "09:52",
+        "title": "マスク氏 スペースX株48.4%保有",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591667?source=rss",
+        "publishedAt": "2026-08-14T00:52:15.000Z"
+      },
+      {
         "time": "18:42",
         "title": "「プチプチ」なぜ原油危機に強い",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591610?source=rss",
         "publishedAt": "2026-08-13T09:42:42.000Z"
-      },
-      {
-        "time": "16:33",
-        "title": "九州自動車道 14日朝に全線復旧",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591591?source=rss",
-        "publishedAt": "2026-08-13T07:33:24.000Z"
-      },
-      {
-        "time": "17:47",
-        "title": "秋葉原駅に熊本産の牛乳 売上急増",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591602?source=rss",
-        "publishedAt": "2026-08-13T08:47:53.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "10:35",
+        "title": "広い範囲で浸水 上空からの映像",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591668?source=rss",
+        "publishedAt": "2026-08-14T01:35:24.000Z"
+      },
       {
         "time": "08:45",
         "title": "千葉大雨の死者4人に 行方不明1人",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591663?source=rss",
         "publishedAt": "2026-08-13T23:45:37.000Z"
-      },
-      {
-        "time": "08:28",
-        "title": "一夜明けた千葉 上空からの映像",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591661?source=rss",
-        "publishedAt": "2026-08-13T23:28:49.000Z"
       },
       {
         "time": "09:18",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-13T13:14:43.000Z"
       },
       {
-        "time": "08:13",
-        "title": "患者のX線画像 9病院で流出疑い",
+        "time": "10:21",
+        "title": "パワハラの横浜市長 市議追及に涙",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591658?source=rss",
-        "publishedAt": "2026-08-13T23:13:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591670?source=rss",
+        "publishedAt": "2026-08-14T01:21:02.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T00:34:32.145Z",
+  "updatedAt": "2026-08-14T01:36:37.883Z",
   "items": [
     {
       "time": "09:25",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "帰宅困難の約4千人 自衛隊が輸送"
     },
     {
-      "time": "08:01",
-      "title": "成田空港に7000人が滞留 大雨影響",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591657?source=rss",
-      "publishedAt": "2026-08-13T23:01:52.000Z",
-      "xQuery": "成田空港に7000人が滞留 大雨影響"
-    },
-    {
       "time": "08:28",
       "title": "一夜明けた千葉 上空からの映像",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591661?source=rss",
       "publishedAt": "2026-08-13T23:28:49.000Z",
       "xQuery": "一夜明けた千葉 上空からの映像"
+    },
+    {
+      "time": "09:00",
+      "title": "米当局 北方領土は「日本に主権」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591659?source=rss",
+      "publishedAt": "2026-08-14T00:00:04.000Z",
+      "xQuery": "米当局 北方領土は「日本に主権」"
     }
   ]
 };
