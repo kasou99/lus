@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T09:53:54.707Z",
+  "updatedAt": "2026-08-14T10:25:23.185Z",
   "items": [
     {
       "time": "16:35",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "声届かず沈む車 住民が窓割り救助"
     },
     {
-      "time": "17:29",
-      "title": "戦後50年に再会「BC級戦犯」の父",
+      "time": "18:53",
+      "title": "戦犯として裁かれた父 罪感じる娘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591714?source=rss",
-      "publishedAt": "2026-08-14T08:29:23.000Z",
-      "xQuery": "戦後50年に再会「BC級戦犯」の父"
+      "url": "https://news.yahoo.co.jp/pickup/6591726?source=rss",
+      "publishedAt": "2026-08-14T09:53:33.000Z",
+      "xQuery": "戦犯として裁かれた父 罪感じる娘"
     },
     {
       "time": "17:27",
