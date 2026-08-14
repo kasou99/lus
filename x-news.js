@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T09:27:46.464Z",
+  "updatedAt": "2026-08-14T09:53:54.707Z",
   "items": [
     {
       "time": "16:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "声届かず沈む車 住民が窓割り救助"
     },
     {
+      "time": "17:29",
+      "title": "戦後50年に再会「BC級戦犯」の父",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591714?source=rss",
+      "publishedAt": "2026-08-14T08:29:23.000Z",
+      "xQuery": "戦後50年に再会「BC級戦犯」の父"
+    },
+    {
       "time": "17:27",
       "title": "英国籍の中学生 日本旅行中に不明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591713?source=rss",
       "publishedAt": "2026-08-14T08:27:30.000Z",
       "xQuery": "英国籍の中学生 日本旅行中に不明"
-    },
-    {
-      "time": "17:07",
-      "title": "海で流された子助けに 父心肺停止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591712?source=rss",
-      "publishedAt": "2026-08-14T08:07:12.000Z",
-      "xQuery": "海で流された子助けに 父心肺停止"
     }
   ]
 };

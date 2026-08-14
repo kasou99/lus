@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T09:27:45.396Z",
+  "updatedAt": "2026-08-14T09:53:53.968Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-08-14T07:26:00.000Z"
       },
       {
-        "time": "15:33",
-        "title": "バーローダーの最新調査2026-2032：市場規模765百万米ドル、今後動向を予測",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwWE1wNDZFc2l2Z3prNjBnb09WZDUtdGpYUXgyTVJ1REpianlqRWtFTWVnckYyVkZpLVhTM1FIX1NlMjI3VDV3RGQ2VzRhdw?oc=5",
-        "publishedAt": "2026-08-14T06:33:00.000Z"
-      },
-      {
         "time": "16:26",
         "title": "シチズン時計、通期予想を上方修正 時計・工作機械が計画超え｜Infoseekニュース",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFTVZCLXQ1Z19HN0xRa2R4dDRtdURQcmU5OXAxRVJGQWg3cF85NTZCeTk2bFRMTjVZXzRtMjBPUFdTMUJvZGtGd195bUlnVFRyV0RQXzBqQko2RlNPQkpyTFFUUGs2MDRWSkdkRkt3?oc=5",
         "publishedAt": "2026-08-14T07:26:01.000Z"
+      },
+      {
+        "time": "15:33",
+        "title": "バーローダーの最新調査2026-2032：市場規模765百万米ドル、今後動向を予測",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwWE1wNDZFc2l2Z3prNjBnb09WZDUtdGpYUXgyTVJ1REpianlqRWtFTWVnckYyVkZpLVhTM1FIX1NlMjI3VDV3RGQ2VzRhdw?oc=5",
+        "publishedAt": "2026-08-14T06:33:00.000Z"
       },
       {
         "time": "09:04",
@@ -126,13 +126,6 @@
         "publishedAt": "2026-08-14T03:57:52.000Z"
       },
       {
-        "time": "12:38",
-        "title": "大雨から一夜 関東の鉄道運行情報",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591678?source=rss",
-        "publishedAt": "2026-08-14T03:38:09.000Z"
-      },
-      {
         "time": "09:52",
         "title": "マスク氏 スペースX株48.4%保有",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591697?source=rss",
         "publishedAt": "2026-08-14T06:46:03.000Z"
+      },
+      {
+        "time": "17:44",
+        "title": "初任給100万円の会社 応募1300人",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591715?source=rss",
+        "publishedAt": "2026-08-14T08:44:04.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-08-14T09:14:14.000Z"
       },
       {
-        "time": "14:10",
-        "title": "帰りたい 豪雨で帰宅困難者が続出",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591689?source=rss",
-        "publishedAt": "2026-08-14T05:10:23.000Z"
-      },
-      {
         "time": "17:34",
         "title": "声届かず沈む車 住民が窓割り救助",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591714?source=rss",
         "publishedAt": "2026-08-14T08:29:23.000Z"
+      },
+      {
+        "time": "18:45",
+        "title": "福岡県議長の辞職勧告決議案 提出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591725?source=rss",
+        "publishedAt": "2026-08-14T09:45:23.000Z"
       },
       {
         "time": "17:07",
