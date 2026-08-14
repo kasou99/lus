@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T10:50:33.990Z",
+  "updatedAt": "2026-08-14T11:18:41.694Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-08-14T07:26:01.000Z"
       },
       {
+        "time": "18:05",
+        "title": "◎〔決算〕シチズン時計、通期業績予想を上方修正",
+        "source": "時事通信ニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fV3NxT3o5c29VNTh6eWJFSEhMNTlkd1V1bUwzZnpvQzA2MzJkWHk4bUJ2VUxkcFUxbTkwT1VkVXpMdzVBR3JoSTdIOHFnUFlMQnJGeg?oc=5",
+        "publishedAt": "2026-08-14T09:05:00.000Z"
+      },
+      {
         "time": "12:00",
         "title": "ファンレスDINレールコンピュータの世界市場（2026年～2032年）、市場規模（Intel、NVIDIA、AMD）・分析レポートを発表",
         "source": "Newscast.jp",
@@ -50,13 +57,6 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sV2NQV3A0Q1hOUllseHNUeHNyM01fQzg2a2FPaEdobXJDZUNpaC1GYk44UjBrLVFyV3RMMnEydk1falBZdEFXNg?oc=5",
         "publishedAt": "2026-08-13T19:22:10.000Z"
-      },
-      {
-        "time": "15:14",
-        "title": "コンピュータ数値制御（CNC）市場：機械タイプ、コンポーネント、軸数、制御タイプ、エンドユーザー別―2026年～2032年の世界市場予測",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55SGR1QTA5ZDlnZElaTllEbzZ4TVJqTjMzUk5aenhtQzBwWDNacEk3UV9ESGtSd2J6V2FlRy1wVWVSUlVtZHZuUFRBZ1diZw?oc=5",
-        "publishedAt": "2026-08-14T06:14:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,11 +156,18 @@
         "publishedAt": "2026-08-14T06:46:45.000Z"
       },
       {
-        "time": "18:14",
-        "title": "千葉豪雨少なくとも放置車両200台",
+        "time": "19:53",
+        "title": "千葉豪雨 放置車両1200台超見通し",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591720?source=rss",
-        "publishedAt": "2026-08-14T09:14:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591735?source=rss",
+        "publishedAt": "2026-08-14T10:53:47.000Z"
+      },
+      {
+        "time": "20:14",
+        "title": "冠水した国道 停電で排水できず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591732?source=rss",
+        "publishedAt": "2026-08-14T11:14:16.000Z"
       },
       {
         "time": "17:34",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591725?source=rss",
         "publishedAt": "2026-08-14T09:45:23.000Z"
-      },
-      {
-        "time": "17:07",
-        "title": "海で流された子助けに 父心肺停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591712?source=rss",
-        "publishedAt": "2026-08-14T08:07:12.000Z"
       }
     ],
     "subsidyHeadlines": [

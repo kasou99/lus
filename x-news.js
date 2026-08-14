@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T10:50:34.795Z",
+  "updatedAt": "2026-08-14T11:18:42.532Z",
   "items": [
     {
       "time": "19:41",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東など 15日にかけ激しい雨注意"
     },
     {
-      "time": "18:14",
-      "title": "千葉豪雨少なくとも放置車両200台",
+      "time": "19:53",
+      "title": "千葉豪雨 放置車両1200台超見通し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591720?source=rss",
-      "publishedAt": "2026-08-14T09:14:14.000Z",
-      "xQuery": "千葉豪雨少なくとも放置車両200台"
+      "url": "https://news.yahoo.co.jp/pickup/6591735?source=rss",
+      "publishedAt": "2026-08-14T10:53:47.000Z",
+      "xQuery": "千葉豪雨 放置車両1200台超見通し"
     },
     {
       "time": "17:34",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "声届かず沈む車 住民が窓割り救助"
     },
     {
-      "time": "18:53",
-      "title": "戦犯として裁かれた父 罪感じる娘",
+      "time": "20:15",
+      "title": "深夜の爆音「走り屋」の言い分",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591726?source=rss",
-      "publishedAt": "2026-08-14T09:53:33.000Z",
-      "xQuery": "戦犯として裁かれた父 罪感じる娘"
+      "url": "https://news.yahoo.co.jp/pickup/6591741?source=rss",
+      "publishedAt": "2026-08-14T11:15:33.000Z",
+      "xQuery": "深夜の爆音「走り屋」の言い分"
     },
     {
       "time": "17:44",
