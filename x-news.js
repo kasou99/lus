@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T11:47:56.753Z",
+  "updatedAt": "2026-08-14T12:22:42.920Z",
   "items": [
     {
       "time": "19:41",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡県議長の辞職勧告決議案 提出"
     },
     {
-      "time": "17:44",
-      "title": "初任給100万円の会社 応募1300人",
+      "time": "21:14",
+      "title": "バスローブで報道対応 県職員処分",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591715?source=rss",
-      "publishedAt": "2026-08-14T08:44:04.000Z",
-      "xQuery": "初任給100万円の会社 応募1300人"
+      "url": "https://news.yahoo.co.jp/pickup/6591746?source=rss",
+      "publishedAt": "2026-08-14T12:14:15.000Z",
+      "xQuery": "バスローブで報道対応 県職員処分"
     }
   ]
 };
