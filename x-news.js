@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T15:06:41.248Z",
+  "updatedAt": "2026-08-15T15:38:39.983Z",
   "items": [
     {
       "time": "21:53",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "子と川遊びしようと 男性溺れ死亡"
     },
     {
-      "time": "23:52",
-      "title": "花火が地上付近で爆発 3人軽傷か",
+      "time": "00:08",
+      "title": "花火が地上付近で爆発 3人けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591886?source=rss",
-      "publishedAt": "2026-08-15T14:52:21.000Z",
-      "xQuery": "花火が地上付近で爆発 3人軽傷か"
+      "url": "https://news.yahoo.co.jp/pickup/6591887?source=rss",
+      "publishedAt": "2026-08-15T15:08:56.000Z",
+      "xQuery": "花火が地上付近で爆発 3人けが"
     },
     {
       "time": "22:06",
