@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-15T10:40:39.960Z",
+  "updatedAt": "2026-08-15T11:06:59.915Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "20:00",
-        "title": "〔決算〕シチズン時計、通期業績予想を上方修正（時事通信）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOdlplR2J4aVkzRkc2LW11NVh0NFE4Sk9zbXJrQmVFaHgyandUa2h3bGZUNzEwWFlFeDFSU2l0UHdrSXNVaVhQT05vbExaSzVXb00xOFFGMHhBWGNDVHpINWd6MnBYZ3JwWlJhVHVWblE4dDI3Mk9UQURnY093MGM?oc=5",
-        "publishedAt": "2026-08-14T11:00:39.000Z"
-      },
       {
         "time": "20:30",
         "title": "DINレール電源業界分析レポート2026：成長分野、技術革新、競争環境の最新動向｜QYResearch",
@@ -57,22 +50,29 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591836?source=rss",
         "publishedAt": "2026-08-15T07:34:55.000Z"
+      },
+      {
+        "time": "11:20",
+        "title": "ファミ通 紙媒体にこだわる理由",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591794?source=rss",
+        "publishedAt": "2026-08-15T02:20:53.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "19:46",
+        "title": "米大統領 ガソリン高「謝らない」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591860?source=rss",
+        "publishedAt": "2026-08-15T10:46:58.000Z"
+      },
       {
         "time": "14:35",
         "title": "ウ和平仲介 米大統領は二転三転",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591816?source=rss",
         "publishedAt": "2026-08-15T05:35:31.000Z"
-      },
-      {
-        "time": "07:57",
-        "title": "米大統領 海峡巡り強硬姿勢強める",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591767?source=rss",
-        "publishedAt": "2026-08-14T22:57:19.000Z"
       },
       {
         "time": "14:19",
@@ -82,18 +82,18 @@
         "publishedAt": "2026-08-15T05:19:59.000Z"
       },
       {
+        "time": "07:57",
+        "title": "米大統領 海峡巡り強硬姿勢強める",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591767?source=rss",
+        "publishedAt": "2026-08-14T22:57:19.000Z"
+      },
+      {
         "time": "12:38",
         "title": "李大統領 日韓協力の拡大を表明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591800?source=rss",
         "publishedAt": "2026-08-15T03:38:07.000Z"
-      },
-      {
-        "time": "00:02",
-        "title": "択捉島 露大統領は人気回復狙いか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591757?source=rss",
-        "publishedAt": "2026-08-14T15:02:39.000Z"
       },
       {
         "time": "17:17",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
