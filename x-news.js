@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T12:47:42.737Z",
+  "updatedAt": "2026-08-15T13:14:28.064Z",
   "items": [
     {
-      "time": "19:05",
-      "title": "被爆で顔に傷 思春期耐えられず",
+      "time": "21:53",
+      "title": "戦地へ向かった父 1度の抱っこ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591857?source=rss",
-      "publishedAt": "2026-08-15T10:05:15.000Z",
-      "xQuery": "被爆で顔に傷 思春期耐えられず"
+      "url": "https://news.yahoo.co.jp/pickup/6591872?source=rss",
+      "publishedAt": "2026-08-15T12:53:53.000Z",
+      "xQuery": "戦地へ向かった父 1度の抱っこ"
     },
     {
       "time": "20:42",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591863?source=rss",
       "publishedAt": "2026-08-15T11:42:04.000Z",
       "xQuery": "千葉豪雨の死者は9人に 県が発表"
+    },
+    {
+      "time": "21:27",
+      "title": "択捉島 ロシア大統領は軍艦で訪問",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591871?source=rss",
+      "publishedAt": "2026-08-15T12:27:22.000Z",
+      "xQuery": "択捉島 ロシア大統領は軍艦で訪問"
     },
     {
       "time": "21:36",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591852?source=rss",
       "publishedAt": "2026-08-15T09:38:18.000Z",
       "xQuery": "車で撮り鉄殺そうとした疑い 逮捕"
-    },
-    {
-      "time": "17:39",
-      "title": "学歴からかう動画 批判した教授",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591847?source=rss",
-      "publishedAt": "2026-08-15T08:39:36.000Z",
-      "xQuery": "学歴からかう動画 批判した教授"
     }
   ]
 };
