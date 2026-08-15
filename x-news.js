@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T03:47:06.052Z",
+  "updatedAt": "2026-08-15T04:12:53.712Z",
   "items": [
     {
-      "time": "11:40",
-      "title": "中継 終戦81年の全国戦没者追悼式",
+      "time": "12:48",
+      "title": "首相「反省」触れず 戦没者追悼式",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591791?source=rss",
-      "publishedAt": "2026-08-15T02:40:21.000Z",
-      "xQuery": "中継 終戦81年の全国戦没者追悼式"
+      "url": "https://news.yahoo.co.jp/pickup/6591801?source=rss",
+      "publishedAt": "2026-08-15T03:48:38.000Z",
+      "xQuery": "首相「反省」触れず 戦没者追悼式"
     },
     {
       "time": "11:35",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "「死にに帰った」同級生 空襲犠牲"
     },
     {
+      "time": "12:38",
+      "title": "李大統領 日韓協力の拡大を表明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591800?source=rss",
+      "publishedAt": "2026-08-15T03:38:07.000Z",
+      "xQuery": "李大統領 日韓協力の拡大を表明"
+    },
+    {
       "time": "11:52",
       "title": "インドネシアM7.7倒壊で2人死亡",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "インドネシアM7.7倒壊で2人死亡"
     },
     {
-      "time": "09:44",
-      "title": "米治安当局が訓練にAI 実戦を再現",
+      "time": "12:50",
+      "title": "壁から大量の金貨や金塊 ベルギー",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591781?source=rss",
-      "publishedAt": "2026-08-15T00:44:13.000Z",
-      "xQuery": "米治安当局が訓練にAI 実戦を再現"
-    },
-    {
-      "time": "09:58",
-      "title": "一緒にいたくて 冷凍庫に子を遺棄",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591788?source=rss",
-      "publishedAt": "2026-08-15T00:58:11.000Z",
-      "xQuery": "一緒にいたくて 冷凍庫に子を遺棄"
+      "url": "https://news.yahoo.co.jp/pickup/6591802?source=rss",
+      "publishedAt": "2026-08-15T03:50:55.000Z",
+      "xQuery": "壁から大量の金貨や金塊 ベルギー"
     }
   ]
 };
