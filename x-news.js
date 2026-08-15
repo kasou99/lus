@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T12:08:52.425Z",
+  "updatedAt": "2026-08-15T12:47:42.737Z",
   "items": [
     {
       "time": "19:05",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉豪雨の死者は9人に 県が発表"
     },
     {
-      "time": "19:46",
-      "title": "米大統領 ガソリン高「謝らない」",
+      "time": "21:36",
+      "title": "子と川遊びしようと 男性溺れ死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591860?source=rss",
-      "publishedAt": "2026-08-15T10:46:58.000Z",
-      "xQuery": "米大統領 ガソリン高「謝らない」"
+      "url": "https://news.yahoo.co.jp/pickup/6591869?source=rss",
+      "publishedAt": "2026-08-15T12:36:01.000Z",
+      "xQuery": "子と川遊びしようと 男性溺れ死亡"
     },
     {
       "time": "18:38",

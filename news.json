@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T12:08:51.458Z",
+  "updatedAt": "2026-08-15T12:47:41.713Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "21:27",
+        "title": "択捉島 ロシア大統領は軍艦で訪問",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591871?source=rss",
+        "publishedAt": "2026-08-15T12:27:22.000Z"
+      },
+      {
         "time": "19:46",
         "title": "米大統領 ガソリン高「謝らない」",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591814?source=rss",
         "publishedAt": "2026-08-15T05:19:59.000Z"
-      },
-      {
-        "time": "07:57",
-        "title": "米大統領 海峡巡り強硬姿勢強める",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591767?source=rss",
-        "publishedAt": "2026-08-14T22:57:19.000Z"
       },
       {
         "time": "12:38",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-15T07:25:57.000Z"
       },
       {
-        "time": "15:42",
-        "title": "海に流された子2人助けに 父死亡",
+        "time": "21:36",
+        "title": "子と川遊びしようと 男性溺れ死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591826?source=rss",
-        "publishedAt": "2026-08-15T06:42:48.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591869?source=rss",
+        "publishedAt": "2026-08-15T12:36:01.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
