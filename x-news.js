@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T04:43:37.763Z",
+  "updatedAt": "2026-08-15T05:09:31.883Z",
   "items": [
     {
       "time": "12:48",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591801?source=rss",
       "publishedAt": "2026-08-15T03:48:38.000Z",
       "xQuery": "首相「反省」触れず 戦没者追悼式"
-    },
-    {
-      "time": "11:35",
-      "title": "「死にに帰った」同級生 空襲犠牲",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591797?source=rss",
-      "publishedAt": "2026-08-15T02:35:23.000Z",
-      "xQuery": "「死にに帰った」同級生 空襲犠牲"
     },
     {
       "time": "13:27",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591800?source=rss",
       "publishedAt": "2026-08-15T03:38:07.000Z",
       "xQuery": "李大統領 日韓協力の拡大を表明"
+    },
+    {
+      "time": "13:45",
+      "title": "外国人の重大事故が増加傾向 背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591807?source=rss",
+      "publishedAt": "2026-08-15T04:45:25.000Z",
+      "xQuery": "外国人の重大事故が増加傾向 背景"
     },
     {
       "time": "12:50",
