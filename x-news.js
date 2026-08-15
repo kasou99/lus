@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T04:12:53.712Z",
+  "updatedAt": "2026-08-15T04:43:37.763Z",
   "items": [
     {
       "time": "12:48",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「死にに帰った」同級生 空襲犠牲"
     },
     {
+      "time": "13:27",
+      "title": "千葉豪雨 路上放置の車撤去続く",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591808?source=rss",
+      "publishedAt": "2026-08-15T04:27:43.000Z",
+      "xQuery": "千葉豪雨 路上放置の車撤去続く"
+    },
+    {
       "time": "12:38",
       "title": "李大統領 日韓協力の拡大を表明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591800?source=rss",
       "publishedAt": "2026-08-15T03:38:07.000Z",
       "xQuery": "李大統領 日韓協力の拡大を表明"
-    },
-    {
-      "time": "11:52",
-      "title": "インドネシアM7.7倒壊で2人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591798?source=rss",
-      "publishedAt": "2026-08-15T02:52:44.000Z",
-      "xQuery": "インドネシアM7.7倒壊で2人死亡"
     },
     {
       "time": "12:50",

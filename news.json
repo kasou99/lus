@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T04:12:52.689Z",
+  "updatedAt": "2026-08-15T04:43:37.204Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -55,7 +55,7 @@
         "time": "19:30",
         "title": "KJ TECH japanから日本専用顔認証機器販売開始",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4bU91WmdHd215TmFTY3dPWVJHNTVHaFhxZlZVdWNSdGFCWGRJS25xdS1zX1c2ajdWQUc1OFdIbENUOXZVS0pBZkVoOXhUMGJkNURoSk15NjVmeFlPNEQweEpzckNGNmhSUFcxTlU2cVItckpWSFZIUmllOA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZTEYtY0pZUFF4QzE4cFhlb2ZKWkZtS2lBenI5eGFxV2pGVWwyWG1tNktWc1ctOUJNelZ2eGlub1ItUEtuRldTRFJpWGFfU2U1QXVraQ?oc=5",
         "publishedAt": "2026-08-14T10:30:23.000Z"
       }
     ],
@@ -119,13 +119,6 @@
         "publishedAt": "2026-08-14T03:57:52.000Z"
       },
       {
-        "time": "09:52",
-        "title": "マスク氏 スペースX株48.4%保有",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591667?source=rss",
-        "publishedAt": "2026-08-14T00:52:15.000Z"
-      },
-      {
         "time": "15:46",
         "title": "アシックス商事 解散・清算の方針",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591731?source=rss",
         "publishedAt": "2026-08-14T10:37:47.000Z"
+      },
+      {
+        "time": "11:20",
+        "title": "ファミ通 紙媒体にこだわる理由",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591794?source=rss",
+        "publishedAt": "2026-08-15T02:20:53.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-08-14T23:31:53.000Z"
       },
       {
+        "time": "13:27",
+        "title": "千葉豪雨 路上放置の車撤去続く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591808?source=rss",
+        "publishedAt": "2026-08-15T04:27:43.000Z"
+      },
+      {
         "time": "00:00",
         "title": "千葉豪雨 住民も加わり懸命な救助",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591756?source=rss",
         "publishedAt": "2026-08-14T15:00:20.000Z"
-      },
-      {
-        "time": "20:38",
-        "title": "アンダーパス 停電で排水できず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591743?source=rss",
-        "publishedAt": "2026-08-14T11:38:24.000Z"
       },
       {
         "time": "08:16",
