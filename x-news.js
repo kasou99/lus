@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T22:39:55.180Z",
+  "updatedAt": "2026-08-15T23:06:52.570Z",
   "items": [
     {
       "time": "21:53",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "戦地へ向かった父 1度の抱っこ"
     },
     {
-      "time": "23:41",
-      "title": "インドネシアの地震 40人超が死亡",
+      "time": "07:42",
+      "title": "熊本地震 なお3205人が避難所に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591885?source=rss",
-      "publishedAt": "2026-08-15T14:41:32.000Z",
-      "xQuery": "インドネシアの地震 40人超が死亡"
-    },
-    {
-      "time": "21:36",
-      "title": "子と川遊びしようと 男性溺れ死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591869?source=rss",
-      "publishedAt": "2026-08-15T12:36:01.000Z",
-      "xQuery": "子と川遊びしようと 男性溺れ死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6591894?source=rss",
+      "publishedAt": "2026-08-15T22:42:46.000Z",
+      "xQuery": "熊本地震 なお3205人が避難所に"
     },
     {
       "time": "00:08",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591888?source=rss",
       "publishedAt": "2026-08-15T22:14:20.000Z",
       "xQuery": "行方不明の英国籍12歳少女 保護"
+    },
+    {
+      "time": "07:52",
+      "title": "SAトイレに急病人 対応に反響",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591896?source=rss",
+      "publishedAt": "2026-08-15T22:52:38.000Z",
+      "xQuery": "SAトイレに急病人 対応に反響"
     }
   ]
 };

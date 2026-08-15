@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T22:39:54.549Z",
+  "updatedAt": "2026-08-15T23:06:51.428Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -68,6 +68,13 @@
         "publishedAt": "2026-08-15T12:27:22.000Z"
       },
       {
+        "time": "07:54",
+        "title": "中国船 尖閣周辺EEZで海洋調査か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591895?source=rss",
+        "publishedAt": "2026-08-15T22:54:50.000Z"
+      },
+      {
         "time": "19:46",
         "title": "米大統領 ガソリン高「謝らない」",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591814?source=rss",
         "publishedAt": "2026-08-15T05:19:59.000Z"
-      },
-      {
-        "time": "12:38",
-        "title": "李大統領 日韓協力の拡大を表明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591800?source=rss",
-        "publishedAt": "2026-08-15T03:38:07.000Z"
       },
       {
         "time": "23:41",
@@ -156,13 +156,6 @@
         "publishedAt": "2026-08-15T12:53:53.000Z"
       },
       {
-        "time": "19:05",
-        "title": "被爆で顔に傷 思春期耐えられず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591857?source=rss",
-        "publishedAt": "2026-08-15T10:05:15.000Z"
-      },
-      {
         "time": "20:42",
         "title": "千葉豪雨の死者は9人に 県が発表",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591869?source=rss",
         "publishedAt": "2026-08-15T12:36:01.000Z"
+      },
+      {
+        "time": "18:38",
+        "title": "車で撮り鉄殺そうとした疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591852?source=rss",
+        "publishedAt": "2026-08-15T09:38:18.000Z"
       }
     ],
     "subsidyHeadlines": [
