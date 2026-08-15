@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T05:09:31.883Z",
+  "updatedAt": "2026-08-15T05:41:21.346Z",
   "items": [
     {
       "time": "12:48",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "首相「反省」触れず 戦没者追悼式"
     },
     {
-      "time": "13:27",
-      "title": "千葉豪雨 路上放置の車撤去続く",
+      "time": "14:19",
+      "title": "閣僚の靖国参拝 中国が強烈な抗議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591808?source=rss",
-      "publishedAt": "2026-08-15T04:27:43.000Z",
-      "xQuery": "千葉豪雨 路上放置の車撤去続く"
+      "url": "https://news.yahoo.co.jp/pickup/6591814?source=rss",
+      "publishedAt": "2026-08-15T05:19:59.000Z",
+      "xQuery": "閣僚の靖国参拝 中国が強烈な抗議"
     },
     {
-      "time": "12:38",
-      "title": "李大統領 日韓協力の拡大を表明",
+      "time": "14:15",
+      "title": "インドネシア地震 5人死亡と発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591800?source=rss",
-      "publishedAt": "2026-08-15T03:38:07.000Z",
-      "xQuery": "李大統領 日韓協力の拡大を表明"
+      "url": "https://news.yahoo.co.jp/pickup/6591813?source=rss",
+      "publishedAt": "2026-08-15T05:15:33.000Z",
+      "xQuery": "インドネシア地震 5人死亡と発表"
     },
     {
-      "time": "13:45",
-      "title": "外国人の重大事故が増加傾向 背景",
+      "time": "14:06",
+      "title": "車水没 保険適用のためすべきこと",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591807?source=rss",
-      "publishedAt": "2026-08-15T04:45:25.000Z",
-      "xQuery": "外国人の重大事故が増加傾向 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6591810?source=rss",
+      "publishedAt": "2026-08-15T05:06:44.000Z",
+      "xQuery": "車水没 保険適用のためすべきこと"
     },
     {
       "time": "12:50",

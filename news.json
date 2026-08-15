@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T05:09:31.024Z",
+  "updatedAt": "2026-08-15T05:41:20.374Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,11 +61,25 @@
     ],
     "worldHeadlines": [
       {
+        "time": "14:35",
+        "title": "ウ和平仲介 米大統領は二転三転",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591816?source=rss",
+        "publishedAt": "2026-08-15T05:35:31.000Z"
+      },
+      {
         "time": "07:57",
         "title": "米大統領 海峡巡り強硬姿勢強める",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591767?source=rss",
         "publishedAt": "2026-08-14T22:57:19.000Z"
+      },
+      {
+        "time": "14:19",
+        "title": "閣僚の靖国参拝 中国が強烈な抗議",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591814?source=rss",
+        "publishedAt": "2026-08-15T05:19:59.000Z"
       },
       {
         "time": "12:38",
@@ -75,32 +89,18 @@
         "publishedAt": "2026-08-15T03:38:07.000Z"
       },
       {
+        "time": "14:15",
+        "title": "インドネシア地震 5人死亡と発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591813?source=rss",
+        "publishedAt": "2026-08-15T05:15:33.000Z"
+      },
+      {
         "time": "00:02",
         "title": "択捉島 露大統領は人気回復狙いか",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591757?source=rss",
         "publishedAt": "2026-08-14T15:02:39.000Z"
-      },
-      {
-        "time": "09:00",
-        "title": "米当局 北方領土は「日本に主権」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591659?source=rss",
-        "publishedAt": "2026-08-14T00:00:04.000Z"
-      },
-      {
-        "time": "11:55",
-        "title": "北方領土巡る日本の抗議 露が反発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591673?source=rss",
-        "publishedAt": "2026-08-14T02:55:49.000Z"
-      },
-      {
-        "time": "11:52",
-        "title": "インドネシアM7.7倒壊で2人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591798?source=rss",
-        "publishedAt": "2026-08-15T02:52:44.000Z"
       }
     ],
     "economyHeadlines": [
