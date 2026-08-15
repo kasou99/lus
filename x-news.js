@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T01:33:05.920Z",
+  "updatedAt": "2026-08-15T02:26:19.864Z",
   "items": [
-    {
-      "time": "08:43",
-      "title": "日本軍の秘密作戦 石油部隊とは",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591772?source=rss",
-      "publishedAt": "2026-08-14T23:43:49.000Z",
-      "xQuery": "日本軍の秘密作戦 石油部隊とは"
-    },
     {
       "time": "08:31",
       "title": "駅長かなわず戦死 父の無念思う娘",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "自民幹部ら相次ぎ靖国神社を参拝"
     },
     {
-      "time": "08:16",
-      "title": "車の中に人が 豪雨で一変した街",
+      "time": "11:11",
+      "title": "インドネシアM7.7現地で津波観測",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591770?source=rss",
-      "publishedAt": "2026-08-14T23:16:33.000Z",
-      "xQuery": "車の中に人が 豪雨で一変した街"
+      "url": "https://news.yahoo.co.jp/pickup/6591795?source=rss",
+      "publishedAt": "2026-08-15T02:11:39.000Z",
+      "xQuery": "インドネシアM7.7現地で津波観測"
     },
     {
-      "time": "09:53",
-      "title": "インドネシアM7.7現地は津波警戒",
+      "time": "09:06",
+      "title": "病院敷地に遺体遺棄疑い 3人逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591784?source=rss",
-      "publishedAt": "2026-08-15T00:53:59.000Z",
-      "xQuery": "インドネシアM7.7現地は津波警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6591777?source=rss",
+      "publishedAt": "2026-08-15T00:06:44.000Z",
+      "xQuery": "病院敷地に遺体遺棄疑い 3人逮捕"
+    },
+    {
+      "time": "09:58",
+      "title": "一緒にいたくて 冷凍庫に子を遺棄",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591788?source=rss",
+      "publishedAt": "2026-08-15T00:58:11.000Z",
+      "xQuery": "一緒にいたくて 冷凍庫に子を遺棄"
     }
   ]
 };
