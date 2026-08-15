@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T03:18:07.876Z",
+  "updatedAt": "2026-08-15T03:47:05.396Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,11 +45,11 @@
         "publishedAt": "2026-08-14T06:14:00.000Z"
       },
       {
-        "time": "16:49",
+        "time": "16:04",
         "title": "DINレール電源の世界市場調査レポート：規模、シェア、成長率（2026-2032年）",
         "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxNndPNWVKSklxcWZISmpkYUJkU194dmRIZ1lHT25NdmQxQm42bXZQVWNETnUxQVZvelBkeHdqWFZhQ1V6eU5KdWFVZ2dtZw?oc=5",
-        "publishedAt": "2026-08-14T07:49:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjM2h6VUFNTHc4TnBxeWtwakVQZFJFTVpoeFd2ODVzcU1HNGpFR2V6Tm5qa1kteWk2MnZ2bHNNQ1F3bDY0bXlrU2ExNVFPdw?oc=5",
+        "publishedAt": "2026-08-14T07:04:00.000Z"
       },
       {
         "time": "19:30",
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591767?source=rss",
         "publishedAt": "2026-08-14T22:57:19.000Z"
+      },
+      {
+        "time": "12:38",
+        "title": "李大統領 日韓協力の拡大を表明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591800?source=rss",
+        "publishedAt": "2026-08-15T03:38:07.000Z"
       },
       {
         "time": "00:02",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591798?source=rss",
         "publishedAt": "2026-08-15T02:52:44.000Z"
-      },
-      {
-        "time": "09:44",
-        "title": "米治安当局が訓練にAI 実戦を再現",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591781?source=rss",
-        "publishedAt": "2026-08-15T00:44:13.000Z"
       }
     ],
     "economyHeadlines": [

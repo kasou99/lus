@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T03:18:08.655Z",
+  "updatedAt": "2026-08-15T03:47:06.052Z",
   "items": [
     {
       "time": "11:40",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "インドネシアM7.7倒壊で2人死亡"
     },
     {
-      "time": "09:06",
-      "title": "病院敷地に遺体遺棄疑い 3人逮捕",
+      "time": "09:44",
+      "title": "米治安当局が訓練にAI 実戦を再現",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591777?source=rss",
-      "publishedAt": "2026-08-15T00:06:44.000Z",
-      "xQuery": "病院敷地に遺体遺棄疑い 3人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6591781?source=rss",
+      "publishedAt": "2026-08-15T00:44:13.000Z",
+      "xQuery": "米治安当局が訓練にAI 実戦を再現"
     },
     {
       "time": "09:58",
