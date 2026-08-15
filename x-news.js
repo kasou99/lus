@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T06:48:01.537Z",
+  "updatedAt": "2026-08-15T07:14:07.505Z",
   "items": [
     {
-      "time": "14:49",
-      "title": "関東-近畿で局地的に雨雲 警戒を",
+      "time": "15:26",
+      "title": "戦死の兄のため 追悼式参列の98歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591818?source=rss",
-      "publishedAt": "2026-08-15T05:49:56.000Z",
-      "xQuery": "関東-近畿で局地的に雨雲 警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6591823?source=rss",
+      "publishedAt": "2026-08-15T06:26:01.000Z",
+      "xQuery": "戦死の兄のため 追悼式参列の98歳"
     },
     {
-      "time": "14:56",
-      "title": "減税と給付 法案一本化へ政府調整",
+      "time": "15:50",
+      "title": "インドネシア東部で地震 20人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591819?source=rss",
-      "publishedAt": "2026-08-15T05:56:19.000Z",
-      "xQuery": "減税と給付 法案一本化へ政府調整"
+      "url": "https://news.yahoo.co.jp/pickup/6591827?source=rss",
+      "publishedAt": "2026-08-15T06:50:16.000Z",
+      "xQuery": "インドネシア東部で地震 20人死亡"
     },
     {
       "time": "14:06",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "海に流された子2人助けに 父死亡"
     },
     {
-      "time": "15:12",
-      "title": "自分やゆする元東大生 人生の誤算",
+      "time": "15:59",
+      "title": "人生に挫折した元東大生たち 実態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591822?source=rss",
-      "publishedAt": "2026-08-15T06:12:45.000Z",
-      "xQuery": "自分やゆする元東大生 人生の誤算"
+      "url": "https://news.yahoo.co.jp/pickup/6591829?source=rss",
+      "publishedAt": "2026-08-15T06:59:11.000Z",
+      "xQuery": "人生に挫折した元東大生たち 実態"
     }
   ]
 };
