@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T13:14:28.064Z",
+  "updatedAt": "2026-08-15T13:42:23.878Z",
   "items": [
     {
       "time": "21:53",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "戦地へ向かった父 1度の抱っこ"
     },
     {
-      "time": "20:42",
-      "title": "千葉豪雨の死者は9人に 県が発表",
+      "time": "22:28",
+      "title": "熊本地震の住家被害 3万棟超え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591863?source=rss",
-      "publishedAt": "2026-08-15T11:42:04.000Z",
-      "xQuery": "千葉豪雨の死者は9人に 県が発表"
+      "url": "https://news.yahoo.co.jp/pickup/6591876?source=rss",
+      "publishedAt": "2026-08-15T13:28:45.000Z",
+      "xQuery": "熊本地震の住家被害 3万棟超え"
     },
     {
       "time": "21:27",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "子と川遊びしようと 男性溺れ死亡"
     },
     {
-      "time": "18:38",
-      "title": "車で撮り鉄殺そうとした疑い 逮捕",
+      "time": "22:26",
+      "title": "豪で521kgの金塊鋳造 ギネス認定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591852?source=rss",
-      "publishedAt": "2026-08-15T09:38:18.000Z",
-      "xQuery": "車で撮り鉄殺そうとした疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6591875?source=rss",
+      "publishedAt": "2026-08-15T13:26:43.000Z",
+      "xQuery": "豪で521kgの金塊鋳造 ギネス認定"
     }
   ]
 };
