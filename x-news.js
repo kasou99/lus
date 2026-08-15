@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T09:40:58.273Z",
+  "updatedAt": "2026-08-15T10:07:35.918Z",
   "items": [
+    {
+      "time": "19:05",
+      "title": "被爆で顔に傷 思春期耐えられず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591857?source=rss",
+      "publishedAt": "2026-08-15T10:05:15.000Z",
+      "xQuery": "被爆で顔に傷 思春期耐えられず"
+    },
     {
       "time": "18:00",
       "title": "首相 離れた場所から靖国「遥拝」",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591846?source=rss",
       "publishedAt": "2026-08-15T09:00:17.000Z",
       "xQuery": "首相 離れた場所から靖国「遥拝」"
-    },
-    {
-      "time": "17:03",
-      "title": "この学校に爆弾落ちた 17歳の葛藤",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591840?source=rss",
-      "publishedAt": "2026-08-15T08:03:16.000Z",
-      "xQuery": "この学校に爆弾落ちた 17歳の葛藤"
     },
     {
       "time": "15:42",

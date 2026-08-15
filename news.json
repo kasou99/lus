@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-15T09:40:57.553Z",
+  "updatedAt": "2026-08-15T10:07:35.154Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "19:00",
-        "title": "世界バーローダー市場の主要企業調査：売上、メーカーランキング、シェア分析2026-2032｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NZ0Zab0RoZ3JUMGM5VmtwUWtmTUZpWDhlLXdPdTVlWURRS19LNE05a1ZxQmU3Q25mWGFPT2VTR3c5b3V6bXhkUEFKNDVwQVJOcWNVRmpSRQ?oc=5",
-        "publishedAt": "2026-08-14T10:00:00.000Z"
-      },
       {
         "time": "20:00",
         "title": "〔決算〕シチズン時計、通期業績予想を上方修正（時事通信）",
@@ -17,18 +10,18 @@
         "publishedAt": "2026-08-14T11:00:39.000Z"
       },
       {
-        "time": "19:30",
-        "title": "KJ TECH japanから日本専用顔認証機器販売開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZTEYtY0pZUFF4QzE4cFhlb2ZKWkZtS2lBenI5eGFxV2pGVWwyWG1tNktWc1ctOUJNelZ2eGlub1ItUEtuRldTRFJpWGFfU2U1QXVraQ?oc=5",
-        "publishedAt": "2026-08-14T10:30:23.000Z"
-      },
-      {
         "time": "20:30",
         "title": "DINレール電源業界分析レポート2026：成長分野、技術革新、競争環境の最新動向｜QYResearch",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTU2JONUF5aF9OX3FUX1NOdUs5OThGQS1VS2VDQlVNbnREN2kxUDhuV1gtX19wU25KR2FvNmxGSGxwUDVPNThpNV9iS213TVRUbGxKemJzMA?oc=5",
         "publishedAt": "2026-08-14T11:30:00.000Z"
+      },
+      {
+        "time": "19:30",
+        "title": "KJ TECH japanから日本専用顔認証機器販売開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZTEYtY0pZUFF4QzE4cFhlb2ZKWkZtS2lBenI5eGFxV2pGVWwyWG1tNktWc1ctOUJNelZ2eGlub1ItUEtuRldTRFJpWGFfU2U1QXVraQ?oc=5",
+        "publishedAt": "2026-08-14T10:30:23.000Z"
       },
       {
         "time": "14:06",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591829?source=rss",
         "publishedAt": "2026-08-15T06:59:11.000Z"
+      },
+      {
+        "time": "16:34",
+        "title": "コミケ近くのベローチェ 高速提供",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591836?source=rss",
+        "publishedAt": "2026-08-15T07:34:55.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-08-15T03:38:07.000Z"
       },
       {
-        "time": "15:50",
-        "title": "インドネシア東部で地震 20人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591827?source=rss",
-        "publishedAt": "2026-08-15T06:50:16.000Z"
-      },
-      {
         "time": "00:02",
         "title": "択捉島 露大統領は人気回復狙いか",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591757?source=rss",
         "publishedAt": "2026-08-14T15:02:39.000Z"
+      },
+      {
+        "time": "17:17",
+        "title": "英2階建てバス 暑すぎ運転手スト",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591839?source=rss",
+        "publishedAt": "2026-08-15T08:17:38.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "19:05",
+        "title": "被爆で顔に傷 思春期耐えられず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591857?source=rss",
+        "publishedAt": "2026-08-15T10:05:15.000Z"
+      },
+      {
         "time": "17:03",
         "title": "この学校に爆弾落ちた 17歳の葛藤",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591840?source=rss",
         "publishedAt": "2026-08-15T08:03:16.000Z"
-      },
-      {
-        "time": "17:52",
-        "title": "友の犠牲で助かった 81年思い続け",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591842?source=rss",
-        "publishedAt": "2026-08-15T08:52:06.000Z"
       },
       {
         "time": "15:26",
