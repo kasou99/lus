@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T06:11:34.172Z",
+  "updatedAt": "2026-08-15T06:48:01.537Z",
   "items": [
     {
       "time": "14:49",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東-近畿で局地的に雨雲 警戒を"
     },
     {
-      "time": "14:35",
-      "title": "ウ和平仲介 米大統領は二転三転",
+      "time": "14:56",
+      "title": "減税と給付 法案一本化へ政府調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591816?source=rss",
-      "publishedAt": "2026-08-15T05:35:31.000Z",
-      "xQuery": "ウ和平仲介 米大統領は二転三転"
-    },
-    {
-      "time": "14:19",
-      "title": "閣僚の靖国参拝 中国が強烈な抗議",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591814?source=rss",
-      "publishedAt": "2026-08-15T05:19:59.000Z",
-      "xQuery": "閣僚の靖国参拝 中国が強烈な抗議"
+      "url": "https://news.yahoo.co.jp/pickup/6591819?source=rss",
+      "publishedAt": "2026-08-15T05:56:19.000Z",
+      "xQuery": "減税と給付 法案一本化へ政府調整"
     },
     {
       "time": "14:06",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "車水没 保険適用のためすべきこと"
     },
     {
-      "time": "12:50",
-      "title": "壁から大量の金貨や金塊 ベルギー",
+      "time": "15:42",
+      "title": "海に流された子2人助けに 父死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591802?source=rss",
-      "publishedAt": "2026-08-15T03:50:55.000Z",
-      "xQuery": "壁から大量の金貨や金塊 ベルギー"
+      "url": "https://news.yahoo.co.jp/pickup/6591826?source=rss",
+      "publishedAt": "2026-08-15T06:42:48.000Z",
+      "xQuery": "海に流された子2人助けに 父死亡"
+    },
+    {
+      "time": "15:12",
+      "title": "自分やゆする元東大生 人生の誤算",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591822?source=rss",
+      "publishedAt": "2026-08-15T06:12:45.000Z",
+      "xQuery": "自分やゆする元東大生 人生の誤算"
     }
   ]
 };
