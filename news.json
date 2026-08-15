@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-15T11:06:59.915Z",
+  "updatedAt": "2026-08-15T11:38:13.224Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "20:30",
-        "title": "DINレール電源業界分析レポート2026：成長分野、技術革新、競争環境の最新動向｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTU2JONUF5aF9OX3FUX1NOdUs5OThGQS1VS2VDQlVNbnREN2kxUDhuV1gtX19wU25KR2FvNmxGSGxwUDVPNThpNV9iS213TVRUbGxKemJzMA?oc=5",
-        "publishedAt": "2026-08-14T11:30:00.000Z"
-      },
       {
         "time": "14:06",
         "title": "車水没 保険適用のためすべきこと",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591794?source=rss",
         "publishedAt": "2026-08-15T02:20:53.000Z"
+      },
+      {
+        "time": "17:54",
+        "title": "大人がおもちゃに夢中 市場急拡大",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591849?source=rss",
+        "publishedAt": "2026-08-15T08:54:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
