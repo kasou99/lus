@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T14:40:20.295Z",
+  "updatedAt": "2026-08-15T15:06:41.248Z",
   "items": [
     {
       "time": "21:53",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "戦地へ向かった父 1度の抱っこ"
     },
     {
-      "time": "22:28",
-      "title": "熊本地震の住家被害 3万棟超え",
+      "time": "23:41",
+      "title": "インドネシアの地震 40人超が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591876?source=rss",
-      "publishedAt": "2026-08-15T13:28:45.000Z",
-      "xQuery": "熊本地震の住家被害 3万棟超え"
-    },
-    {
-      "time": "23:04",
-      "title": "放置車両レッカー追いつかず 千葉",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591879?source=rss",
-      "publishedAt": "2026-08-15T14:04:28.000Z",
-      "xQuery": "放置車両レッカー追いつかず 千葉"
+      "url": "https://news.yahoo.co.jp/pickup/6591885?source=rss",
+      "publishedAt": "2026-08-15T14:41:32.000Z",
+      "xQuery": "インドネシアの地震 40人超が死亡"
     },
     {
       "time": "21:36",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "子と川遊びしようと 男性溺れ死亡"
     },
     {
-      "time": "23:04",
-      "title": "溺れ心肺停止 心肺蘇生で呼吸戻る",
+      "time": "23:52",
+      "title": "花火が地上付近で爆発 3人軽傷か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591880?source=rss",
-      "publishedAt": "2026-08-15T14:04:28.000Z",
-      "xQuery": "溺れ心肺停止 心肺蘇生で呼吸戻る"
+      "url": "https://news.yahoo.co.jp/pickup/6591886?source=rss",
+      "publishedAt": "2026-08-15T14:52:21.000Z",
+      "xQuery": "花火が地上付近で爆発 3人軽傷か"
+    },
+    {
+      "time": "22:06",
+      "title": "物価高 具材ない麺商品の投入加速",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591874?source=rss",
+      "publishedAt": "2026-08-15T13:06:06.000Z",
+      "xQuery": "物価高 具材ない麺商品の投入加速"
     }
   ]
 };
