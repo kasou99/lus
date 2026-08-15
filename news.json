@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T10:07:35.154Z",
+  "updatedAt": "2026-08-15T10:40:39.960Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-08-14T11:30:00.000Z"
       },
       {
-        "time": "19:30",
-        "title": "KJ TECH japanから日本専用顔認証機器販売開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZTEYtY0pZUFF4QzE4cFhlb2ZKWkZtS2lBenI5eGFxV2pGVWwyWG1tNktWc1ctOUJNelZ2eGlub1ItUEtuRldTRFJpWGFfU2U1QXVraQ?oc=5",
-        "publishedAt": "2026-08-14T10:30:23.000Z"
-      },
-      {
         "time": "14:06",
         "title": "車水没 保険適用のためすべきこと",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591810?source=rss",
         "publishedAt": "2026-08-15T05:06:44.000Z"
+      },
+      {
+        "time": "19:18",
+        "title": "SUVの国内販売競争 激しさ増す",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591858?source=rss",
+        "publishedAt": "2026-08-15T10:18:07.000Z"
       },
       {
         "time": "17:44",
@@ -112,6 +112,13 @@
         "publishedAt": "2026-08-15T05:06:44.000Z"
       },
       {
+        "time": "19:18",
+        "title": "SUVの国内販売競争 激しさ増す",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591858?source=rss",
+        "publishedAt": "2026-08-15T10:18:07.000Z"
+      },
+      {
         "time": "17:44",
         "title": "初任給100万円の会社 応募1300人",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591836?source=rss",
         "publishedAt": "2026-08-15T07:34:55.000Z"
-      },
-      {
-        "time": "11:20",
-        "title": "ファミ通 紙媒体にこだわる理由",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591794?source=rss",
-        "publishedAt": "2026-08-15T02:20:53.000Z"
       }
     ],
     "localHeadlines": [

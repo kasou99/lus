@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T10:07:35.918Z",
+  "updatedAt": "2026-08-15T10:40:40.515Z",
   "items": [
     {
       "time": "19:05",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "被爆で顔に傷 思春期耐えられず"
     },
     {
-      "time": "18:00",
-      "title": "首相 離れた場所から靖国「遥拝」",
+      "time": "18:08",
+      "title": "立憲が財政難 頭痛める党執行部",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591846?source=rss",
-      "publishedAt": "2026-08-15T09:00:17.000Z",
-      "xQuery": "首相 離れた場所から靖国「遥拝」"
-    },
-    {
-      "time": "15:42",
-      "title": "海に流された子2人助けに 父死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591826?source=rss",
-      "publishedAt": "2026-08-15T06:42:48.000Z",
-      "xQuery": "海に流された子2人助けに 父死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6591850?source=rss",
+      "publishedAt": "2026-08-15T09:08:40.000Z",
+      "xQuery": "立憲が財政難 頭痛める党執行部"
     },
     {
       "time": "16:25",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591852?source=rss",
       "publishedAt": "2026-08-15T09:38:18.000Z",
       "xQuery": "車で撮り鉄殺そうとした疑い 逮捕"
+    },
+    {
+      "time": "19:18",
+      "title": "SUVの国内販売競争 激しさ増す",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591858?source=rss",
+      "publishedAt": "2026-08-15T10:18:07.000Z",
+      "xQuery": "SUVの国内販売競争 激しさ増す"
     }
   ]
 };
