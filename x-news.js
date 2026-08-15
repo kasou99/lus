@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T00:49:58.482Z",
+  "updatedAt": "2026-08-15T01:33:05.920Z",
   "items": [
     {
       "time": "08:43",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車の中に人が 豪雨で一変した街"
     },
     {
-      "time": "07:40",
-      "title": "7道府県が副首都申請を検討 共同",
+      "time": "09:53",
+      "title": "インドネシアM7.7現地は津波警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591762?source=rss",
-      "publishedAt": "2026-08-14T22:40:04.000Z",
-      "xQuery": "7道府県が副首都申請を検討 共同"
+      "url": "https://news.yahoo.co.jp/pickup/6591784?source=rss",
+      "publishedAt": "2026-08-15T00:53:59.000Z",
+      "xQuery": "インドネシアM7.7現地は津波警戒"
     }
   ]
 };
