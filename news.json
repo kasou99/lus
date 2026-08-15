@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T23:40:35.588Z",
+  "updatedAt": "2026-08-15T00:21:07.803Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -40,16 +40,9 @@
       {
         "time": "17:05",
         "title": "シチズン時計、一転最終増益へ 純利益320億円に上方修正、増配も",
-        "source": "finance.biggo.jp",
+        "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GRnlDcjhqbnROVUhWcjRHaDJBLThJYk5aMWR1ZHdjMjRmdkktMXRnb2FYMk9uOHJ1X1ZYRWpBM2duWXlCVERxNlJUeEZkTjdFRmxjR3d5eXcyZGlHVHZtWHhzRzFHWk4wd05OQWhnWU0zSkl3?oc=5",
         "publishedAt": "2026-08-14T08:05:00.000Z"
-      },
-      {
-        "time": "09:04",
-        "title": "深層断面／中小、設備保全DX加速 遠隔監視・故障予防など強化",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tTXV5blNlZURhNkJadVdLdmNsMVluYkZIemRteUM1YmpNeGNKOHdnQ1N2Wkx1SGdGTFdXeDh3SVpsT1VKY00yT0tzQkE4cFNKQnRjU1JvRQ?oc=5",
-        "publishedAt": "2026-08-14T00:04:10.000Z"
       },
       {
         "time": "12:00",
@@ -57,6 +50,13 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBTYmMwRUp3amtGVm9pYW5wX21jaGFTd3F6c3JwRTBWUTdZTzFOSWM4NnA2LXdyeUNYNVVoRlVDX1MxOWN5ekYw?oc=5",
         "publishedAt": "2026-08-14T03:00:00.000Z"
+      },
+      {
+        "time": "15:14",
+        "title": "コンピュータ数値制御（CNC）市場：機械タイプ、コンポーネント、軸数、制御タイプ、エンドユーザー別―2026年～2032年の世界市場予測",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55SGR1QTA5ZDlnZElaTllEbzZ4TVJqTjMzUk5aenhtQzBwWDNacEk3UV9ESGtSd2J6V2FlRy1wVWVSUlVtZHZuUFRBZ1diZw?oc=5",
+        "publishedAt": "2026-08-14T06:14:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-14T23:31:53.000Z"
       },
       {
-        "time": "18:53",
-        "title": "戦犯として裁かれた父 罪感じる娘",
+        "time": "09:06",
+        "title": "病院敷地に遺体遺棄疑い 3人逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591726?source=rss",
-        "publishedAt": "2026-08-14T09:53:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591777?source=rss",
+        "publishedAt": "2026-08-15T00:06:44.000Z"
       }
     ],
     "subsidyHeadlines": [

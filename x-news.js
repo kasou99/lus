@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-14T23:40:38.976Z",
+  "updatedAt": "2026-08-15T00:21:08.563Z",
   "items": [
+    {
+      "time": "08:43",
+      "title": "日本軍の秘密作戦 石油部隊とは",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591772?source=rss",
+      "publishedAt": "2026-08-14T23:43:49.000Z",
+      "xQuery": "日本軍の秘密作戦 石油部隊とは"
+    },
     {
       "time": "08:31",
       "title": "駅長かなわず戦死 父の無念思う娘",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "駅長かなわず戦死 父の無念思う娘"
     },
     {
-      "time": "07:34",
-      "title": "15日 九州-東北で急な雷雨の恐れ",
+      "time": "09:08",
+      "title": "自民幹部ら相次ぎ靖国神社を参拝",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591764?source=rss",
-      "publishedAt": "2026-08-14T22:34:43.000Z",
-      "xQuery": "15日 九州-東北で急な雷雨の恐れ"
-    },
-    {
-      "time": "07:57",
-      "title": "米大統領 海峡巡り強硬姿勢強める",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591767?source=rss",
-      "publishedAt": "2026-08-14T22:57:19.000Z",
-      "xQuery": "米大統領 海峡巡り強硬姿勢強める"
+      "url": "https://news.yahoo.co.jp/pickup/6591779?source=rss",
+      "publishedAt": "2026-08-15T00:08:58.000Z",
+      "xQuery": "自民幹部ら相次ぎ靖国神社を参拝"
     },
     {
       "time": "08:16",
