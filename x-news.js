@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T11:38:14.224Z",
+  "updatedAt": "2026-08-15T12:08:52.425Z",
   "items": [
     {
       "time": "19:05",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "被爆で顔に傷 思春期耐えられず"
     },
     {
-      "time": "18:08",
-      "title": "立憲が財政難 頭痛める党執行部",
+      "time": "20:42",
+      "title": "千葉豪雨の死者は9人に 県が発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591850?source=rss",
-      "publishedAt": "2026-08-15T09:08:40.000Z",
-      "xQuery": "立憲が財政難 頭痛める党執行部"
+      "url": "https://news.yahoo.co.jp/pickup/6591863?source=rss",
+      "publishedAt": "2026-08-15T11:42:04.000Z",
+      "xQuery": "千葉豪雨の死者は9人に 県が発表"
     },
     {
       "time": "19:46",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 ガソリン高「謝らない」"
     },
     {
-      "time": "16:25",
-      "title": "マンション爆発事故 住人が死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591834?source=rss",
-      "publishedAt": "2026-08-15T07:25:57.000Z",
-      "xQuery": "マンション爆発事故 住人が死亡"
-    },
-    {
       "time": "18:38",
       "title": "車で撮り鉄殺そうとした疑い 逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591852?source=rss",
       "publishedAt": "2026-08-15T09:38:18.000Z",
       "xQuery": "車で撮り鉄殺そうとした疑い 逮捕"
+    },
+    {
+      "time": "17:39",
+      "title": "学歴からかう動画 批判した教授",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591847?source=rss",
+      "publishedAt": "2026-08-15T08:39:36.000Z",
+      "xQuery": "学歴からかう動画 批判した教授"
     }
   ]
 };
