@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T07:14:07.505Z",
+  "updatedAt": "2026-08-15T07:42:28.124Z",
   "items": [
     {
       "time": "15:26",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "戦死の兄のため 追悼式参列の98歳"
     },
     {
+      "time": "16:07",
+      "title": "戦没者追悼式 式辞に高市カラー",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591828?source=rss",
+      "publishedAt": "2026-08-15T07:07:20.000Z",
+      "xQuery": "戦没者追悼式 式辞に高市カラー"
+    },
+    {
       "time": "15:50",
       "title": "インドネシア東部で地震 20人死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591827?source=rss",
       "publishedAt": "2026-08-15T06:50:16.000Z",
       "xQuery": "インドネシア東部で地震 20人死亡"
-    },
-    {
-      "time": "14:06",
-      "title": "車水没 保険適用のためすべきこと",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591810?source=rss",
-      "publishedAt": "2026-08-15T05:06:44.000Z",
-      "xQuery": "車水没 保険適用のためすべきこと"
     },
     {
       "time": "15:42",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "海に流された子2人助けに 父死亡"
     },
     {
-      "time": "15:59",
-      "title": "人生に挫折した元東大生たち 実態",
+      "time": "16:25",
+      "title": "マンション爆発事故 住人が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591829?source=rss",
-      "publishedAt": "2026-08-15T06:59:11.000Z",
-      "xQuery": "人生に挫折した元東大生たち 実態"
+      "url": "https://news.yahoo.co.jp/pickup/6591834?source=rss",
+      "publishedAt": "2026-08-15T07:25:57.000Z",
+      "xQuery": "マンション爆発事故 住人が死亡"
     }
   ]
 };
