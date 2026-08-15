@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T07:42:28.124Z",
+  "updatedAt": "2026-08-15T08:09:08.697Z",
   "items": [
     {
-      "time": "15:26",
-      "title": "戦死の兄のため 追悼式参列の98歳",
+      "time": "17:03",
+      "title": "この学校に爆弾落ちた 17歳の葛藤",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591823?source=rss",
-      "publishedAt": "2026-08-15T06:26:01.000Z",
-      "xQuery": "戦死の兄のため 追悼式参列の98歳"
+      "url": "https://news.yahoo.co.jp/pickup/6591840?source=rss",
+      "publishedAt": "2026-08-15T08:03:16.000Z",
+      "xQuery": "この学校に爆弾落ちた 17歳の葛藤"
     },
     {
       "time": "16:07",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591828?source=rss",
       "publishedAt": "2026-08-15T07:07:20.000Z",
       "xQuery": "戦没者追悼式 式辞に高市カラー"
-    },
-    {
-      "time": "15:50",
-      "title": "インドネシア東部で地震 20人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591827?source=rss",
-      "publishedAt": "2026-08-15T06:50:16.000Z",
-      "xQuery": "インドネシア東部で地震 20人死亡"
     },
     {
       "time": "15:42",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591834?source=rss",
       "publishedAt": "2026-08-15T07:25:57.000Z",
       "xQuery": "マンション爆発事故 住人が死亡"
+    },
+    {
+      "time": "16:34",
+      "title": "コミケ近くのベローチェ 高速提供",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591836?source=rss",
+      "publishedAt": "2026-08-15T07:34:55.000Z",
+      "xQuery": "コミケ近くのベローチェ 高速提供"
     }
   ]
 };
