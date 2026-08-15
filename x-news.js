@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T23:06:52.570Z",
+  "updatedAt": "2026-08-15T23:38:19.812Z",
   "items": [
     {
-      "time": "21:53",
-      "title": "戦地へ向かった父 1度の抱っこ",
+      "time": "08:06",
+      "title": "首相の靖国参拝見送り 外交考慮か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591872?source=rss",
-      "publishedAt": "2026-08-15T12:53:53.000Z",
-      "xQuery": "戦地へ向かった父 1度の抱っこ"
+      "url": "https://news.yahoo.co.jp/pickup/6591897?source=rss",
+      "publishedAt": "2026-08-15T23:06:57.000Z",
+      "xQuery": "首相の靖国参拝見送り 外交考慮か"
     },
     {
       "time": "07:42",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震 なお3205人が避難所に"
     },
     {
-      "time": "00:08",
-      "title": "花火が地上付近で爆発 3人けが",
+      "time": "07:54",
+      "title": "中国船 尖閣周辺EEZで海洋調査か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591887?source=rss",
-      "publishedAt": "2026-08-15T15:08:56.000Z",
-      "xQuery": "花火が地上付近で爆発 3人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6591895?source=rss",
+      "publishedAt": "2026-08-15T22:54:50.000Z",
+      "xQuery": "中国船 尖閣周辺EEZで海洋調査か"
     },
     {
       "time": "07:14",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T23:06:51.428Z",
+  "updatedAt": "2026-08-15T23:38:19.066Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -68,6 +68,13 @@
         "publishedAt": "2026-08-15T12:27:22.000Z"
       },
       {
+        "time": "08:31",
+        "title": "プーチン氏の北方領土初訪問 狙い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591899?source=rss",
+        "publishedAt": "2026-08-15T23:31:09.000Z"
+      },
+      {
         "time": "07:54",
         "title": "中国船 尖閣周辺EEZで海洋調査か",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591814?source=rss",
         "publishedAt": "2026-08-15T05:19:59.000Z"
-      },
-      {
-        "time": "23:41",
-        "title": "インドネシアの地震 40人超が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591885?source=rss",
-        "publishedAt": "2026-08-15T14:41:32.000Z"
       }
     ],
     "economyHeadlines": [
