@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T09:09:51.046Z",
+  "updatedAt": "2026-08-15T09:40:58.273Z",
   "items": [
+    {
+      "time": "18:00",
+      "title": "首相 離れた場所から靖国「遥拝」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591846?source=rss",
+      "publishedAt": "2026-08-15T09:00:17.000Z",
+      "xQuery": "首相 離れた場所から靖国「遥拝」"
+    },
     {
       "time": "17:03",
       "title": "この学校に爆弾落ちた 17歳の葛藤",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591840?source=rss",
       "publishedAt": "2026-08-15T08:03:16.000Z",
       "xQuery": "この学校に爆弾落ちた 17歳の葛藤"
-    },
-    {
-      "time": "17:30",
-      "title": "豪雨で放置車両 追突事故も発生",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591845?source=rss",
-      "publishedAt": "2026-08-15T08:30:36.000Z",
-      "xQuery": "豪雨で放置車両 追突事故も発生"
     },
     {
       "time": "15:42",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マンション爆発事故 住人が死亡"
     },
     {
-      "time": "17:17",
-      "title": "英2階建てバス 暑すぎ運転手スト",
+      "time": "18:38",
+      "title": "車で撮り鉄殺そうとした疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591839?source=rss",
-      "publishedAt": "2026-08-15T08:17:38.000Z",
-      "xQuery": "英2階建てバス 暑すぎ運転手スト"
+      "url": "https://news.yahoo.co.jp/pickup/6591852?source=rss",
+      "publishedAt": "2026-08-15T09:38:18.000Z",
+      "xQuery": "車で撮り鉄殺そうとした疑い 逮捕"
     }
   ]
 };
