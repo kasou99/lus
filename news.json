@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T02:26:18.995Z",
+  "updatedAt": "2026-08-15T02:50:41.760Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,11 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "19:53",
-        "title": "千葉豪雨 放置車両1200台超見通し",
+        "time": "11:35",
+        "title": "「死にに帰った」同級生 空襲犠牲",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591735?source=rss",
-        "publishedAt": "2026-08-14T10:53:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591797?source=rss",
+        "publishedAt": "2026-08-15T02:35:23.000Z"
+      },
+      {
+        "time": "08:31",
+        "title": "駅長かなわず戦死 父の無念思う娘",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591771?source=rss",
+        "publishedAt": "2026-08-14T23:31:53.000Z"
       },
       {
         "time": "00:00",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591770?source=rss",
         "publishedAt": "2026-08-14T23:16:33.000Z"
-      },
-      {
-        "time": "08:31",
-        "title": "駅長かなわず戦死 父の無念思う娘",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591771?source=rss",
-        "publishedAt": "2026-08-14T23:31:53.000Z"
       },
       {
         "time": "09:06",

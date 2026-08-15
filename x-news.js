@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T02:26:19.864Z",
+  "updatedAt": "2026-08-15T02:50:42.401Z",
   "items": [
     {
-      "time": "08:31",
-      "title": "駅長かなわず戦死 父の無念思う娘",
+      "time": "11:40",
+      "title": "中継 終戦81年の全国戦没者追悼式",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591771?source=rss",
-      "publishedAt": "2026-08-14T23:31:53.000Z",
-      "xQuery": "駅長かなわず戦死 父の無念思う娘"
+      "url": "https://news.yahoo.co.jp/pickup/6591791?source=rss",
+      "publishedAt": "2026-08-15T02:40:21.000Z",
+      "xQuery": "中継 終戦81年の全国戦没者追悼式"
     },
     {
-      "time": "09:08",
-      "title": "自民幹部ら相次ぎ靖国神社を参拝",
+      "time": "11:35",
+      "title": "「死にに帰った」同級生 空襲犠牲",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591779?source=rss",
-      "publishedAt": "2026-08-15T00:08:58.000Z",
-      "xQuery": "自民幹部ら相次ぎ靖国神社を参拝"
+      "url": "https://news.yahoo.co.jp/pickup/6591797?source=rss",
+      "publishedAt": "2026-08-15T02:35:23.000Z",
+      "xQuery": "「死にに帰った」同級生 空襲犠牲"
     },
     {
       "time": "11:11",
