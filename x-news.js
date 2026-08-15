@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T02:50:42.401Z",
+  "updatedAt": "2026-08-15T03:18:08.655Z",
   "items": [
     {
       "time": "11:40",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「死にに帰った」同級生 空襲犠牲"
     },
     {
-      "time": "11:11",
-      "title": "インドネシアM7.7現地で津波観測",
+      "time": "11:52",
+      "title": "インドネシアM7.7倒壊で2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591795?source=rss",
-      "publishedAt": "2026-08-15T02:11:39.000Z",
-      "xQuery": "インドネシアM7.7現地で津波観測"
+      "url": "https://news.yahoo.co.jp/pickup/6591798?source=rss",
+      "publishedAt": "2026-08-15T02:52:44.000Z",
+      "xQuery": "インドネシアM7.7倒壊で2人死亡"
     },
     {
       "time": "09:06",
