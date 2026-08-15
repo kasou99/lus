@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T22:06:25.350Z",
+  "updatedAt": "2026-08-15T22:39:54.549Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -177,18 +177,18 @@
         "publishedAt": "2026-08-15T14:04:28.000Z"
       },
       {
-        "time": "16:25",
-        "title": "マンション爆発事故 住人が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591834?source=rss",
-        "publishedAt": "2026-08-15T07:25:57.000Z"
-      },
-      {
         "time": "00:08",
         "title": "花火が地上付近で爆発 3人けが",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591887?source=rss",
         "publishedAt": "2026-08-15T15:08:56.000Z"
+      },
+      {
+        "time": "21:36",
+        "title": "子と川遊びしようと 男性溺れ死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591869?source=rss",
+        "publishedAt": "2026-08-15T12:36:01.000Z"
       }
     ],
     "subsidyHeadlines": [

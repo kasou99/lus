@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T22:06:25.928Z",
+  "updatedAt": "2026-08-15T22:39:55.180Z",
   "items": [
     {
       "time": "21:53",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "花火が地上付近で爆発 3人けが"
     },
     {
-      "time": "22:06",
-      "title": "物価高 具材ない麺商品の投入加速",
+      "time": "07:14",
+      "title": "行方不明の英国籍12歳少女 保護",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591874?source=rss",
-      "publishedAt": "2026-08-15T13:06:06.000Z",
-      "xQuery": "物価高 具材ない麺商品の投入加速"
+      "url": "https://news.yahoo.co.jp/pickup/6591888?source=rss",
+      "publishedAt": "2026-08-15T22:14:20.000Z",
+      "xQuery": "行方不明の英国籍12歳少女 保護"
     }
   ]
 };
