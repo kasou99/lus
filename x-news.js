@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T14:07:36.234Z",
+  "updatedAt": "2026-08-15T14:40:20.295Z",
   "items": [
     {
       "time": "21:53",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震の住家被害 3万棟超え"
     },
     {
-      "time": "21:27",
-      "title": "択捉島 ロシア大統領は軍艦で訪問",
+      "time": "23:04",
+      "title": "放置車両レッカー追いつかず 千葉",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591871?source=rss",
-      "publishedAt": "2026-08-15T12:27:22.000Z",
-      "xQuery": "択捉島 ロシア大統領は軍艦で訪問"
+      "url": "https://news.yahoo.co.jp/pickup/6591879?source=rss",
+      "publishedAt": "2026-08-15T14:04:28.000Z",
+      "xQuery": "放置車両レッカー追いつかず 千葉"
     },
     {
       "time": "21:36",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "子と川遊びしようと 男性溺れ死亡"
     },
     {
-      "time": "22:26",
-      "title": "豪で521kgの金塊鋳造 ギネス認定",
+      "time": "23:04",
+      "title": "溺れ心肺停止 心肺蘇生で呼吸戻る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591875?source=rss",
-      "publishedAt": "2026-08-15T13:26:43.000Z",
-      "xQuery": "豪で521kgの金塊鋳造 ギネス認定"
+      "url": "https://news.yahoo.co.jp/pickup/6591880?source=rss",
+      "publishedAt": "2026-08-15T14:04:28.000Z",
+      "xQuery": "溺れ心肺停止 心肺蘇生で呼吸戻る"
     }
   ]
 };
