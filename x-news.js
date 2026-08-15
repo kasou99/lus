@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T08:09:08.697Z",
+  "updatedAt": "2026-08-15T08:43:16.736Z",
   "items": [
     {
       "time": "17:03",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "この学校に爆弾落ちた 17歳の葛藤"
     },
     {
-      "time": "16:07",
-      "title": "戦没者追悼式 式辞に高市カラー",
+      "time": "17:30",
+      "title": "豪雨で放置車両 追突事故も発生",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591828?source=rss",
-      "publishedAt": "2026-08-15T07:07:20.000Z",
-      "xQuery": "戦没者追悼式 式辞に高市カラー"
+      "url": "https://news.yahoo.co.jp/pickup/6591845?source=rss",
+      "publishedAt": "2026-08-15T08:30:36.000Z",
+      "xQuery": "豪雨で放置車両 追突事故も発生"
     },
     {
       "time": "15:42",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マンション爆発事故 住人が死亡"
     },
     {
-      "time": "16:34",
-      "title": "コミケ近くのベローチェ 高速提供",
+      "time": "17:17",
+      "title": "英2階建てバス 暑すぎ運転手スト",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591836?source=rss",
-      "publishedAt": "2026-08-15T07:34:55.000Z",
-      "xQuery": "コミケ近くのベローチェ 高速提供"
+      "url": "https://news.yahoo.co.jp/pickup/6591839?source=rss",
+      "publishedAt": "2026-08-15T08:17:38.000Z",
+      "xQuery": "英2階建てバス 暑すぎ運転手スト"
     }
   ]
 };
