@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T05:11:05.279Z",
+  "updatedAt": "2026-08-16T05:41:46.726Z",
   "items": [
-    {
-      "time": "12:22",
-      "title": "お盆休み最終日 交通混雑がピーク",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591931?source=rss",
-      "publishedAt": "2026-08-16T03:22:01.000Z",
-      "xQuery": "お盆休み最終日 交通混雑がピーク"
-    },
     {
       "time": "12:06",
       "title": "軍人に殴られた痛み 少年の記憶",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591928?source=rss",
       "publishedAt": "2026-08-16T03:06:07.000Z",
       "xQuery": "軍人に殴られた痛み 少年の記憶"
+    },
+    {
+      "time": "10:13",
+      "title": "露がウクライナの子連れ去り 実態",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591913?source=rss",
+      "publishedAt": "2026-08-16T01:13:15.000Z",
+      "xQuery": "露がウクライナの子連れ去り 実態"
     },
     {
       "time": "13:14",

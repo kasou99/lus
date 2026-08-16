@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T05:11:04.215Z",
+  "updatedAt": "2026-08-16T05:41:45.778Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,18 +89,18 @@
         "publishedAt": "2026-08-15T10:46:58.000Z"
       },
       {
-        "time": "14:19",
-        "title": "閣僚の靖国参拝 中国が強烈な抗議",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591814?source=rss",
-        "publishedAt": "2026-08-15T05:19:59.000Z"
-      },
-      {
         "time": "10:40",
         "title": "韓国「親日派財産」没収 本格化へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591916?source=rss",
         "publishedAt": "2026-08-16T01:40:05.000Z"
+      },
+      {
+        "time": "23:41",
+        "title": "インドネシアの地震 40人超が死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591885?source=rss",
+        "publishedAt": "2026-08-15T14:41:32.000Z"
       }
     ],
     "economyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
