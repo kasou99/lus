@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T03:22:52.420Z",
+  "updatedAt": "2026-08-16T03:48:31.466Z",
   "items": [
     {
-      "time": "10:17",
-      "title": "千葉豪雨で露呈 都市型水害の課題",
+      "time": "12:22",
+      "title": "お盆休み最終日 交通混雑がピーク",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591914?source=rss",
-      "publishedAt": "2026-08-16T01:17:17.000Z",
-      "xQuery": "千葉豪雨で露呈 都市型水害の課題"
+      "url": "https://news.yahoo.co.jp/pickup/6591931?source=rss",
+      "publishedAt": "2026-08-16T03:22:01.000Z",
+      "xQuery": "お盆休み最終日 交通混雑がピーク"
+    },
+    {
+      "time": "11:14",
+      "title": "米金融 新顔「ヨール街」に存在感",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591924?source=rss",
+      "publishedAt": "2026-08-16T02:14:02.000Z",
+      "xQuery": "米金融 新顔「ヨール街」に存在感"
     },
     {
       "time": "11:39",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591923?source=rss",
       "publishedAt": "2026-08-16T02:08:43.000Z",
       "xQuery": "飼い犬殺害 裁判官が証言に苦言"
-    },
-    {
-      "time": "11:55",
-      "title": "プロテイン 価格の高騰止まらず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591929?source=rss",
-      "publishedAt": "2026-08-16T02:55:48.000Z",
-      "xQuery": "プロテイン 価格の高騰止まらず"
     }
   ]
 };
