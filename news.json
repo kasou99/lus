@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T10:07:37.513Z",
+  "updatedAt": "2026-08-16T10:41:30.426Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-16T01:38:35.000Z"
       },
       {
-        "time": "09:02",
-        "title": "粗悪なモバイル電池 会社の闇追跡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591902?source=rss",
-        "publishedAt": "2026-08-16T00:02:54.000Z"
-      },
-      {
         "time": "15:46",
         "title": "高専「ネーミングライツ」広がる",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591951?source=rss",
         "publishedAt": "2026-08-16T06:46:17.000Z"
+      },
+      {
+        "time": "19:26",
+        "title": "早期退職 第二の人生は甘くない?",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591977?source=rss",
+        "publishedAt": "2026-08-16T10:26:05.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-08-16T01:38:35.000Z"
       },
       {
-        "time": "09:02",
-        "title": "粗悪なモバイル電池 会社の闇追跡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591902?source=rss",
-        "publishedAt": "2026-08-16T00:02:54.000Z"
-      },
-      {
         "time": "15:46",
         "title": "高専「ネーミングライツ」広がる",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591951?source=rss",
         "publishedAt": "2026-08-16T06:46:17.000Z"
+      },
+      {
+        "time": "19:26",
+        "title": "早期退職 第二の人生は甘くない?",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591977?source=rss",
+        "publishedAt": "2026-08-16T10:26:05.000Z"
       }
     ],
     "localHeadlines": [

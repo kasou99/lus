@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T10:07:38.448Z",
+  "updatedAt": "2026-08-16T10:41:31.035Z",
   "items": [
     {
       "time": "18:41",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉など17日から厳しい暑さ 注意"
     },
     {
-      "time": "17:55",
-      "title": "衆議院本館の女性トイレ 増設へ",
+      "time": "18:48",
+      "title": "インドネシアの地震 死者50人超に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591967?source=rss",
-      "publishedAt": "2026-08-16T08:55:30.000Z",
-      "xQuery": "衆議院本館の女性トイレ 増設へ"
+      "url": "https://news.yahoo.co.jp/pickup/6591974?source=rss",
+      "publishedAt": "2026-08-16T09:48:27.000Z",
+      "xQuery": "インドネシアの地震 死者50人超に"
     },
     {
       "time": "18:50",
