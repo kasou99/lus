@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T14:07:49.542Z",
+  "updatedAt": "2026-08-16T14:40:14.483Z",
   "items": [
     {
-      "time": "22:44",
-      "title": "米イラン覚書期限 海峡開放見えず",
+      "time": "22:00",
+      "title": "逆走台風と千葉豪雨 なぜ起きた",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592001?source=rss",
-      "publishedAt": "2026-08-16T13:44:26.000Z",
-      "xQuery": "米イラン覚書期限 海峡開放見えず"
+      "url": "https://news.yahoo.co.jp/pickup/6591993?source=rss",
+      "publishedAt": "2026-08-16T13:00:16.000Z",
+      "xQuery": "逆走台風と千葉豪雨 なぜ起きた"
     },
     {
       "time": "22:00",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉市の川沿いに遺体 豪雨関連か"
     },
     {
+      "time": "22:44",
+      "title": "米イラン覚書期限 海峡開放見えず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592001?source=rss",
+      "publishedAt": "2026-08-16T13:44:26.000Z",
+      "xQuery": "米イラン覚書期限 海峡開放見えず"
+    },
+    {
+      "time": "23:01",
+      "title": "ドローン600機 露首都に向け飛行",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592002?source=rss",
+      "publishedAt": "2026-08-16T14:01:34.000Z",
+      "xQuery": "ドローン600機 露首都に向け飛行"
+    },
+    {
       "time": "22:37",
       "title": "BBQ中に川に流され 20代女性重体",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592000?source=rss",
       "publishedAt": "2026-08-16T13:37:35.000Z",
       "xQuery": "BBQ中に川に流され 20代女性重体"
-    },
-    {
-      "time": "19:26",
-      "title": "早期退職 第二の人生は甘くない?",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591977?source=rss",
-      "publishedAt": "2026-08-16T10:26:05.000Z",
-      "xQuery": "早期退職 第二の人生は甘くない?"
-    },
-    {
-      "time": "15:28",
-      "title": "世界でブームのスクイーズ 事故も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591949?source=rss",
-      "publishedAt": "2026-08-16T06:28:10.000Z",
-      "xQuery": "世界でブームのスクイーズ 事故も"
     }
   ]
 };
