@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T14:40:14.483Z",
+  "updatedAt": "2026-08-16T15:07:31.201Z",
   "items": [
     {
       "time": "22:00",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591993?source=rss",
       "publishedAt": "2026-08-16T13:00:16.000Z",
       "xQuery": "逆走台風と千葉豪雨 なぜ起きた"
-    },
-    {
-      "time": "22:00",
-      "title": "千葉市の川沿いに遺体 豪雨関連か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591994?source=rss",
-      "publishedAt": "2026-08-16T13:00:18.000Z",
-      "xQuery": "千葉市の川沿いに遺体 豪雨関連か"
     },
     {
       "time": "22:44",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592000?source=rss",
       "publishedAt": "2026-08-16T13:37:35.000Z",
       "xQuery": "BBQ中に川に流され 20代女性重体"
+    },
+    {
+      "time": "23:47",
+      "title": "マンホールの蓋飛ぶ 虫駆除原因か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592005?source=rss",
+      "publishedAt": "2026-08-16T14:47:20.000Z",
+      "xQuery": "マンホールの蓋飛ぶ 虫駆除原因か"
     }
   ]
 };
