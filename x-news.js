@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T21:06:35.029Z",
+  "updatedAt": "2026-08-16T21:38:21.641Z",
   "items": [
     {
       "time": "22:00",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "BBQ中に川に流され 20代女性重体"
     },
     {
-      "time": "23:47",
-      "title": "マンホールの蓋飛ぶ 虫駆除原因か",
+      "time": "00:00",
+      "title": "オープンAI 経営幹部が相次ぎ退社",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592005?source=rss",
-      "publishedAt": "2026-08-16T14:47:20.000Z",
-      "xQuery": "マンホールの蓋飛ぶ 虫駆除原因か"
+      "url": "https://news.yahoo.co.jp/pickup/6592006?source=rss",
+      "publishedAt": "2026-08-16T15:00:50.000Z",
+      "xQuery": "オープンAI 経営幹部が相次ぎ退社"
     }
   ]
 };
