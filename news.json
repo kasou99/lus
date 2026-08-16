@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T23:38:19.066Z",
+  "updatedAt": "2026-08-16T00:21:37.314Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,6 +10,13 @@
         "publishedAt": "2026-08-15T05:06:44.000Z"
       },
       {
+        "time": "09:16",
+        "title": "お盆休み最終日 Uターン混雑予想",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591906?source=rss",
+        "publishedAt": "2026-08-16T00:16:05.000Z"
+      },
+      {
         "time": "19:18",
         "title": "SUVの国内販売競争 激しさ増す",
         "source": "Yahoo!ニュース",
@@ -17,18 +24,11 @@
         "publishedAt": "2026-08-15T10:18:07.000Z"
       },
       {
-        "time": "17:44",
-        "title": "初任給100万円の会社 応募1300人",
+        "time": "09:02",
+        "title": "粗悪なモバイル電池 会社の闇追跡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591715?source=rss",
-        "publishedAt": "2026-08-14T08:44:04.000Z"
-      },
-      {
-        "time": "19:37",
-        "title": "高さ日本一 観覧車8カ月以上停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591731?source=rss",
-        "publishedAt": "2026-08-14T10:37:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591902?source=rss",
+        "publishedAt": "2026-08-16T00:02:54.000Z"
       },
       {
         "time": "22:06",
@@ -112,6 +112,13 @@
         "publishedAt": "2026-08-15T05:06:44.000Z"
       },
       {
+        "time": "09:16",
+        "title": "お盆休み最終日 Uターン混雑予想",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591906?source=rss",
+        "publishedAt": "2026-08-16T00:16:05.000Z"
+      },
+      {
         "time": "19:18",
         "title": "SUVの国内販売競争 激しさ増す",
         "source": "Yahoo!ニュース",
@@ -119,18 +126,11 @@
         "publishedAt": "2026-08-15T10:18:07.000Z"
       },
       {
-        "time": "17:44",
-        "title": "初任給100万円の会社 応募1300人",
+        "time": "09:02",
+        "title": "粗悪なモバイル電池 会社の闇追跡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591715?source=rss",
-        "publishedAt": "2026-08-14T08:44:04.000Z"
-      },
-      {
-        "time": "19:37",
-        "title": "高さ日本一 観覧車8カ月以上停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591731?source=rss",
-        "publishedAt": "2026-08-14T10:37:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591902?source=rss",
+        "publishedAt": "2026-08-16T00:02:54.000Z"
       },
       {
         "time": "22:06",

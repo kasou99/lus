@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-15T23:38:19.812Z",
+  "updatedAt": "2026-08-16T00:21:38.160Z",
   "items": [
     {
-      "time": "08:06",
-      "title": "首相の靖国参拝見送り 外交考慮か",
+      "time": "08:10",
+      "title": "お盆休み後は熱中症リスク高 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591897?source=rss",
-      "publishedAt": "2026-08-15T23:06:57.000Z",
-      "xQuery": "首相の靖国参拝見送り 外交考慮か"
-    },
-    {
-      "time": "07:42",
-      "title": "熊本地震 なお3205人が避難所に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591894?source=rss",
-      "publishedAt": "2026-08-15T22:42:46.000Z",
-      "xQuery": "熊本地震 なお3205人が避難所に"
+      "url": "https://news.yahoo.co.jp/pickup/6591898?source=rss",
+      "publishedAt": "2026-08-15T23:10:16.000Z",
+      "xQuery": "お盆休み後は熱中症リスク高 警戒"
     },
     {
       "time": "07:54",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591895?source=rss",
       "publishedAt": "2026-08-15T22:54:50.000Z",
       "xQuery": "中国船 尖閣周辺EEZで海洋調査か"
+    },
+    {
+      "time": "09:02",
+      "title": "粗悪なモバイル電池 会社の闇追跡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591902?source=rss",
+      "publishedAt": "2026-08-16T00:02:54.000Z",
+      "xQuery": "粗悪なモバイル電池 会社の闇追跡"
     },
     {
       "time": "07:14",
