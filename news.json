@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-16T23:06:21.882Z",
+  "updatedAt": "2026-08-16T23:38:31.505Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "06:09",
-        "title": "6月工作機械、52％大幅増 外需は過去最高",
-        "source": "金属産業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80VlFLV0ZpQjN0Ykhlai1vWFhsUEZVWkJYenlwbkhFUUc1R18xMnF2S21vbDJIVzFUT0JOcWxQV2VaZmxJM1dGZUhCcVJZLXpORXhzUVRtMWc?oc=5",
-        "publishedAt": "2026-08-16T21:09:47.000Z"
-      },
       {
         "time": "05:02",
         "title": "機械大手の自動・省人化 内製ロボが独自の発展",
@@ -19,7 +12,7 @@
       {
         "time": "02:00",
         "title": "DMG森精機、統合10年で半導体を顧客に 鬼門の海外M&Aで世界2位",
-        "source": "nikkei.com",
+        "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qR2hjZ081V19NYnZDdmZqOHU1blBSTUZUbE8tWWtoWWtidU5UVFJiSDVWNVlENjBGT0F2WjkyaV9vVnN1d2hJRHlHbmpnNkFPbE5pNE12dHNTVkdMQ3Z0WlFrQ3hBN0lQQTRWXw?oc=5",
         "publishedAt": "2026-08-16T17:00:00.000Z"
       },
@@ -38,13 +31,6 @@
         "publishedAt": "2026-08-16T01:28:24.000Z"
       },
       {
-        "time": "12:22",
-        "title": "お盆休み最終日 交通混雑がピーク",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591931?source=rss",
-        "publishedAt": "2026-08-16T03:22:01.000Z"
-      },
-      {
         "time": "18:37",
         "title": "千葉の車両撤去 JAFに要請が殺到",
         "source": "Yahoo!ニュース",
@@ -57,6 +43,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591970?source=rss",
         "publishedAt": "2026-08-16T09:11:21.000Z"
+      },
+      {
+        "time": "08:14",
+        "title": "大戸屋HD社長 海外出店を加速",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592019?source=rss",
+        "publishedAt": "2026-08-16T23:14:16.000Z"
+      },
+      {
+        "time": "10:38",
+        "title": "命の危険に直面 炎天下で働く人々",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591917?source=rss",
+        "publishedAt": "2026-08-16T01:38:35.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "12:22",
-        "title": "お盆休み最終日 交通混雑がピーク",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591931?source=rss",
-        "publishedAt": "2026-08-16T03:22:01.000Z"
-      },
-      {
         "time": "18:37",
         "title": "千葉の車両撤去 JAFに要請が殺到",
         "source": "Yahoo!ニュース",
@@ -124,6 +117,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591970?source=rss",
         "publishedAt": "2026-08-16T09:11:21.000Z"
+      },
+      {
+        "time": "08:14",
+        "title": "大戸屋HD社長 海外出店を加速",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592019?source=rss",
+        "publishedAt": "2026-08-16T23:14:16.000Z"
       },
       {
         "time": "10:38",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:29",
+        "title": "豪雨で放置車両 撤去見通し立たず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592023?source=rss",
+        "publishedAt": "2026-08-16T23:29:07.000Z"
+      },
+      {
         "time": "22:00",
         "title": "千葉市の川沿いに遺体 豪雨関連か",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591985?source=rss",
         "publishedAt": "2026-08-16T11:16:55.000Z"
-      },
-      {
-        "time": "21:36",
-        "title": "千葉豪雨 放置車両2700台を確認",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591991?source=rss",
-        "publishedAt": "2026-08-16T12:36:37.000Z"
       },
       {
         "time": "07:26",

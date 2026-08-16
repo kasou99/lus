@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T23:06:22.694Z",
+  "updatedAt": "2026-08-16T23:38:32.451Z",
   "items": [
+    {
+      "time": "08:29",
+      "title": "豪雨で放置車両 撤去見通し立たず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592023?source=rss",
+      "publishedAt": "2026-08-16T23:29:07.000Z",
+      "xQuery": "豪雨で放置車両 撤去見通し立たず"
+    },
     {
       "time": "07:39",
       "title": "介護保険証とマイナ 一体化を促進",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592015?source=rss",
       "publishedAt": "2026-08-16T22:39:10.000Z",
       "xQuery": "介護保険証とマイナ 一体化を促進"
-    },
-    {
-      "time": "07:20",
-      "title": "トランプ氏 米韓軍事演習縮小指示",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592012?source=rss",
-      "publishedAt": "2026-08-16T22:20:29.000Z",
-      "xQuery": "トランプ氏 米韓軍事演習縮小指示"
     },
     {
       "time": "07:59",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "遊泳区域外で泳ぎ練習中 溺れ死亡"
     },
     {
-      "time": "22:37",
-      "title": "BBQ中に川に流され 20代女性重体",
+      "time": "08:14",
+      "title": "大戸屋HD社長 海外出店を加速",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592000?source=rss",
-      "publishedAt": "2026-08-16T13:37:35.000Z",
-      "xQuery": "BBQ中に川に流され 20代女性重体"
+      "url": "https://news.yahoo.co.jp/pickup/6592019?source=rss",
+      "publishedAt": "2026-08-16T23:14:16.000Z",
+      "xQuery": "大戸屋HD社長 海外出店を加速"
     },
     {
       "time": "00:00",
