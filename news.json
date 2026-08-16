@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-16T01:33:24.939Z",
+  "updatedAt": "2026-08-16T02:32:00.276Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "10:29",
         "title": "建築会社がつくる“牽引するお店”誕生! 駐めた瞬間、そこが店舗になるトレーラー型ポップアップショップ",
-        "source": "crea.bunshun.jp",
+        "source": "クレアウェブ",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWbkRzNGpWdG56X3c1bXRSWDBPbjYzdlNsQkxoeUlUVTJpaE50cnVVbnVzR1pVZWdwbW1rOUVsOWxqNk9vdlBtRm9aamM4YjAtUm9oaVFQN0xISDVZaTJiNTZyQ0paUW84UzA5Z05hTnNLUQ?oc=5",
         "publishedAt": "2026-08-16T01:29:33.000Z"
       },
@@ -24,11 +24,25 @@
         "publishedAt": "2026-08-16T00:16:05.000Z"
       },
       {
+        "time": "11:14",
+        "title": "米金融 新顔「ヨール街」に存在感",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591924?source=rss",
+        "publishedAt": "2026-08-16T02:14:02.000Z"
+      },
+      {
         "time": "19:18",
         "title": "SUVの国内販売競争 激しさ増す",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591858?source=rss",
         "publishedAt": "2026-08-15T10:18:07.000Z"
+      },
+      {
+        "time": "10:38",
+        "title": "命の危険に直面 炎天下で働く人々",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591917?source=rss",
+        "publishedAt": "2026-08-16T01:38:35.000Z"
       },
       {
         "time": "09:02",
@@ -43,20 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591874?source=rss",
         "publishedAt": "2026-08-15T13:06:06.000Z"
-      },
-      {
-        "time": "15:59",
-        "title": "人生に挫折した元東大生たち 実態",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591829?source=rss",
-        "publishedAt": "2026-08-15T06:59:11.000Z"
-      },
-      {
-        "time": "16:34",
-        "title": "コミケ近くのベローチェ 高速提供",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591836?source=rss",
-        "publishedAt": "2026-08-15T07:34:55.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,13 +66,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591913?source=rss",
         "publishedAt": "2026-08-16T01:13:15.000Z"
-      },
-      {
-        "time": "21:27",
-        "title": "択捉島 ロシア大統領は軍艦で訪問",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591871?source=rss",
-        "publishedAt": "2026-08-15T12:27:22.000Z"
       },
       {
         "time": "08:31",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591814?source=rss",
         "publishedAt": "2026-08-15T05:19:59.000Z"
+      },
+      {
+        "time": "10:40",
+        "title": "韓国「親日派財産」没収 本格化へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591916?source=rss",
+        "publishedAt": "2026-08-16T01:40:05.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-08-16T00:16:05.000Z"
       },
       {
+        "time": "11:14",
+        "title": "米金融 新顔「ヨール街」に存在感",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591924?source=rss",
+        "publishedAt": "2026-08-16T02:14:02.000Z"
+      },
+      {
         "time": "19:18",
         "title": "SUVの国内販売競争 激しさ増す",
         "source": "Yahoo!ニュース",
@@ -126,25 +133,18 @@
         "publishedAt": "2026-08-15T10:18:07.000Z"
       },
       {
+        "time": "10:38",
+        "title": "命の危険に直面 炎天下で働く人々",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591917?source=rss",
+        "publishedAt": "2026-08-16T01:38:35.000Z"
+      },
+      {
         "time": "09:02",
         "title": "粗悪なモバイル電池 会社の闇追跡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591902?source=rss",
         "publishedAt": "2026-08-16T00:02:54.000Z"
-      },
-      {
-        "time": "22:06",
-        "title": "物価高 具材ない麺商品の投入加速",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591874?source=rss",
-        "publishedAt": "2026-08-15T13:06:06.000Z"
-      },
-      {
-        "time": "15:59",
-        "title": "人生に挫折した元東大生たち 実態",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591829?source=rss",
-        "publishedAt": "2026-08-15T06:59:11.000Z"
       }
     ],
     "localHeadlines": [

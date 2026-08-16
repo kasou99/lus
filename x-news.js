@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T01:33:25.584Z",
+  "updatedAt": "2026-08-16T02:32:01.045Z",
   "items": [
+    {
+      "time": "10:17",
+      "title": "千葉豪雨で露呈 都市型水害の課題",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591914?source=rss",
+      "publishedAt": "2026-08-16T01:17:17.000Z",
+      "xQuery": "千葉豪雨で露呈 都市型水害の課題"
+    },
     {
       "time": "09:16",
       "title": "お盆休み最終日 Uターン混雑予想",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "お盆休み最終日 Uターン混雑予想"
     },
     {
-      "time": "08:31",
-      "title": "プーチン氏の北方領土初訪問 狙い",
+      "time": "10:40",
+      "title": "韓国「親日派財産」没収 本格化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591899?source=rss",
-      "publishedAt": "2026-08-15T23:31:09.000Z",
-      "xQuery": "プーチン氏の北方領土初訪問 狙い"
+      "url": "https://news.yahoo.co.jp/pickup/6591916?source=rss",
+      "publishedAt": "2026-08-16T01:40:05.000Z",
+      "xQuery": "韓国「親日派財産」没収 本格化へ"
     },
     {
-      "time": "08:10",
-      "title": "お盆休み後は熱中症リスク高 警戒",
+      "time": "11:08",
+      "title": "飼い犬殺害 裁判官が証言に苦言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591898?source=rss",
-      "publishedAt": "2026-08-15T23:10:16.000Z",
-      "xQuery": "お盆休み後は熱中症リスク高 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6591923?source=rss",
+      "publishedAt": "2026-08-16T02:08:43.000Z",
+      "xQuery": "飼い犬殺害 裁判官が証言に苦言"
     },
     {
-      "time": "09:38",
-      "title": "子の水難 助けに飛び込むのはNG",
+      "time": "10:19",
+      "title": "日本初確認の虫 SNS動画きっかけ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591904?source=rss",
-      "publishedAt": "2026-08-16T00:38:12.000Z",
-      "xQuery": "子の水難 助けに飛び込むのはNG"
-    },
-    {
-      "time": "07:14",
-      "title": "行方不明の英国籍12歳少女 保護",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591888?source=rss",
-      "publishedAt": "2026-08-15T22:14:20.000Z",
-      "xQuery": "行方不明の英国籍12歳少女 保護"
+      "url": "https://news.yahoo.co.jp/pickup/6591912?source=rss",
+      "publishedAt": "2026-08-16T01:19:12.000Z",
+      "xQuery": "日本初確認の虫 SNS動画きっかけ"
     }
   ]
 };
