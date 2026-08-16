@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T06:12:31.687Z",
+  "updatedAt": "2026-08-16T06:48:05.555Z",
   "items": [
     {
       "time": "12:06",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "釣り竿取りに池泳ぎ溺れたか 死亡"
     },
     {
+      "time": "10:38",
+      "title": "命の危険に直面 炎天下で働く人々",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591917?source=rss",
+      "publishedAt": "2026-08-16T01:38:35.000Z",
+      "xQuery": "命の危険に直面 炎天下で働く人々"
+    },
+    {
       "time": "12:44",
       "title": "生後4カ月でがん 眼球摘出を決断",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591932?source=rss",
       "publishedAt": "2026-08-16T03:44:24.000Z",
       "xQuery": "生後4カ月でがん 眼球摘出を決断"
-    },
-    {
-      "time": "11:55",
-      "title": "プロテイン 価格の高騰止まらず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591929?source=rss",
-      "publishedAt": "2026-08-16T02:55:48.000Z",
-      "xQuery": "プロテイン 価格の高騰止まらず"
     }
   ]
 };

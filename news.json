@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T06:12:30.315Z",
+  "updatedAt": "2026-08-16T06:48:04.789Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "クレアウェブ",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWbkRzNGpWdG56X3c1bXRSWDBPbjYzdlNsQkxoeUlUVTJpaE50cnVVbnVzR1pVZWdwbW1rOUVsOWxqNk9vdlBtRm9aamM4YjAtUm9oaVFQN0xISDVZaTJiNTZyQ0paUW84UzA5Z05hTnNLUQ?oc=5",
         "publishedAt": "2026-08-16T01:29:33.000Z"
-      },
-      {
-        "time": "14:06",
-        "title": "車水没 保険適用のためすべきこと",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591810?source=rss",
-        "publishedAt": "2026-08-15T05:06:44.000Z"
       },
       {
         "time": "12:22",
@@ -50,6 +43,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591902?source=rss",
         "publishedAt": "2026-08-16T00:02:54.000Z"
+      },
+      {
+        "time": "15:46",
+        "title": "高専「ネーミングライツ」広がる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591951?source=rss",
+        "publishedAt": "2026-08-16T06:46:17.000Z"
       },
       {
         "time": "11:55",
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "14:06",
-        "title": "車水没 保険適用のためすべきこと",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591810?source=rss",
-        "publishedAt": "2026-08-15T05:06:44.000Z"
-      },
-      {
         "time": "12:22",
         "title": "お盆休み最終日 交通混雑がピーク",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591902?source=rss",
         "publishedAt": "2026-08-16T00:02:54.000Z"
+      },
+      {
+        "time": "15:46",
+        "title": "高専「ネーミングライツ」広がる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591951?source=rss",
+        "publishedAt": "2026-08-16T06:46:17.000Z"
       }
     ],
     "localHeadlines": [
