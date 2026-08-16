@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T03:48:31.466Z",
+  "updatedAt": "2026-08-16T04:16:33.380Z",
   "items": [
     {
       "time": "12:22",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相異例の遥拝 保守層離反を警戒"
     },
     {
-      "time": "10:40",
-      "title": "韓国「親日派財産」没収 本格化へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591916?source=rss",
-      "publishedAt": "2026-08-16T01:40:05.000Z",
-      "xQuery": "韓国「親日派財産」没収 本格化へ"
-    },
-    {
       "time": "11:08",
       "title": "飼い犬殺害 裁判官が証言に苦言",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591923?source=rss",
       "publishedAt": "2026-08-16T02:08:43.000Z",
       "xQuery": "飼い犬殺害 裁判官が証言に苦言"
+    },
+    {
+      "time": "11:55",
+      "title": "プロテイン 価格の高騰止まらず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591929?source=rss",
+      "publishedAt": "2026-08-16T02:55:48.000Z",
+      "xQuery": "プロテイン 価格の高騰止まらず"
     }
   ]
 };
