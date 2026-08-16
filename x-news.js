@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T05:41:46.726Z",
+  "updatedAt": "2026-08-16T06:12:31.687Z",
   "items": [
     {
       "time": "12:06",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露がウクライナの子連れ去り 実態"
     },
     {
-      "time": "13:14",
-      "title": "多摩川で中学生が溺れる 意識不明",
+      "time": "14:41",
+      "title": "釣り竿取りに池泳ぎ溺れたか 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591935?source=rss",
-      "publishedAt": "2026-08-16T04:14:43.000Z",
-      "xQuery": "多摩川で中学生が溺れる 意識不明"
+      "url": "https://news.yahoo.co.jp/pickup/6591945?source=rss",
+      "publishedAt": "2026-08-16T05:41:56.000Z",
+      "xQuery": "釣り竿取りに池泳ぎ溺れたか 死亡"
     },
     {
       "time": "12:44",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T05:41:45.778Z",
+  "updatedAt": "2026-08-16T06:12:30.315Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -177,18 +177,18 @@
         "publishedAt": "2026-08-15T12:36:01.000Z"
       },
       {
+        "time": "14:41",
+        "title": "釣り竿取りに池泳ぎ溺れたか 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591945?source=rss",
+        "publishedAt": "2026-08-16T05:41:56.000Z"
+      },
+      {
         "time": "13:14",
         "title": "多摩川で中学生が溺れる 意識不明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591935?source=rss",
         "publishedAt": "2026-08-16T04:14:43.000Z"
-      },
-      {
-        "time": "00:08",
-        "title": "花火が地上付近で爆発 3人けが",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591887?source=rss",
-        "publishedAt": "2026-08-15T15:08:56.000Z"
       }
     ],
     "subsidyHeadlines": [
