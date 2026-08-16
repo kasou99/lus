@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T11:07:13.428Z",
+  "updatedAt": "2026-08-16T11:38:33.709Z",
   "items": [
+    {
+      "time": "20:11",
+      "title": "内閣改造と自民役員人事 注目点は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591986?source=rss",
+      "publishedAt": "2026-08-16T11:11:22.000Z",
+      "xQuery": "内閣改造と自民役員人事 注目点は"
+    },
     {
       "time": "18:41",
       "title": "千葉など17日から厳しい暑さ 注意",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉など17日から厳しい暑さ 注意"
     },
     {
-      "time": "18:48",
-      "title": "インドネシアの地震 死者50人超に",
+      "time": "18:37",
+      "title": "千葉の車両撤去 JAFに要請が殺到",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591974?source=rss",
-      "publishedAt": "2026-08-16T09:48:27.000Z",
-      "xQuery": "インドネシアの地震 死者50人超に"
+      "url": "https://news.yahoo.co.jp/pickup/6591972?source=rss",
+      "publishedAt": "2026-08-16T09:37:55.000Z",
+      "xQuery": "千葉の車両撤去 JAFに要請が殺到"
     },
     {
-      "time": "18:50",
-      "title": "ゆりかご初日に預けられ 今は22歳",
+      "time": "20:16",
+      "title": "知人助けようとして行方不明 千葉",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591975?source=rss",
-      "publishedAt": "2026-08-16T09:50:11.000Z",
-      "xQuery": "ゆりかご初日に預けられ 今は22歳"
+      "url": "https://news.yahoo.co.jp/pickup/6591985?source=rss",
+      "publishedAt": "2026-08-16T11:16:55.000Z",
+      "xQuery": "知人助けようとして行方不明 千葉"
     },
     {
-      "time": "17:57",
-      "title": "豪で「ワーホリ」受け入れ抑制へ",
+      "time": "19:26",
+      "title": "早期退職 第二の人生は甘くない?",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591966?source=rss",
-      "publishedAt": "2026-08-16T08:57:21.000Z",
-      "xQuery": "豪で「ワーホリ」受け入れ抑制へ"
-    },
-    {
-      "time": "18:11",
-      "title": "地震で停電 教室育ちサーモン全滅",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591970?source=rss",
-      "publishedAt": "2026-08-16T09:11:21.000Z",
-      "xQuery": "地震で停電 教室育ちサーモン全滅"
+      "url": "https://news.yahoo.co.jp/pickup/6591977?source=rss",
+      "publishedAt": "2026-08-16T10:26:05.000Z",
+      "xQuery": "早期退職 第二の人生は甘くない?"
     }
   ]
 };
