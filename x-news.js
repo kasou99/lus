@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T09:41:32.759Z",
+  "updatedAt": "2026-08-16T10:07:38.448Z",
   "items": [
     {
-      "time": "16:24",
-      "title": "防空壕で生まれた自民森山氏 思い",
+      "time": "18:41",
+      "title": "千葉など17日から厳しい暑さ 注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591954?source=rss",
-      "publishedAt": "2026-08-16T07:24:48.000Z",
-      "xQuery": "防空壕で生まれた自民森山氏 思い"
+      "url": "https://news.yahoo.co.jp/pickup/6591973?source=rss",
+      "publishedAt": "2026-08-16T09:41:22.000Z",
+      "xQuery": "千葉など17日から厳しい暑さ 注意"
     },
     {
-      "time": "18:04",
-      "title": "溺れ死んじゃう 浸水の車内で恐怖",
+      "time": "17:55",
+      "title": "衆議院本館の女性トイレ 増設へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591969?source=rss",
-      "publishedAt": "2026-08-16T09:04:35.000Z",
-      "xQuery": "溺れ死んじゃう 浸水の車内で恐怖"
+      "url": "https://news.yahoo.co.jp/pickup/6591967?source=rss",
+      "publishedAt": "2026-08-16T08:55:30.000Z",
+      "xQuery": "衆議院本館の女性トイレ 増設へ"
+    },
+    {
+      "time": "18:50",
+      "title": "ゆりかご初日に預けられ 今は22歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591975?source=rss",
+      "publishedAt": "2026-08-16T09:50:11.000Z",
+      "xQuery": "ゆりかご初日に預けられ 今は22歳"
     },
     {
       "time": "17:57",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591970?source=rss",
       "publishedAt": "2026-08-16T09:11:21.000Z",
       "xQuery": "地震で停電 教室育ちサーモン全滅"
-    },
-    {
-      "time": "15:28",
-      "title": "世界でブームのスクイーズ 事故も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591949?source=rss",
-      "publishedAt": "2026-08-16T06:28:10.000Z",
-      "xQuery": "世界でブームのスクイーズ 事故も"
     }
   ]
 };

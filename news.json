@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T09:41:31.988Z",
+  "updatedAt": "2026-08-16T10:07:37.513Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,18 +89,18 @@
         "publishedAt": "2026-08-16T01:40:05.000Z"
       },
       {
-        "time": "23:41",
-        "title": "インドネシアの地震 40人超が死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591885?source=rss",
-        "publishedAt": "2026-08-15T14:41:32.000Z"
-      },
-      {
         "time": "14:38",
         "title": "ベルギーで過去最大規模の山火事",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591943?source=rss",
         "publishedAt": "2026-08-16T05:38:01.000Z"
+      },
+      {
+        "time": "18:48",
+        "title": "インドネシアの地震 死者50人超に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591974?source=rss",
+        "publishedAt": "2026-08-16T09:48:27.000Z"
       }
     ],
     "economyHeadlines": [
