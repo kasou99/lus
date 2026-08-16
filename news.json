@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T06:48:04.789Z",
+  "updatedAt": "2026-08-16T07:15:38.343Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-08-16T02:14:02.000Z"
       },
       {
-        "time": "19:18",
-        "title": "SUVの国内販売競争 激しさ増す",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591858?source=rss",
-        "publishedAt": "2026-08-15T10:18:07.000Z"
-      },
-      {
         "time": "10:38",
         "title": "命の危険に直面 炎天下で働く人々",
         "source": "Yahoo!ニュース",
@@ -50,6 +43,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591951?source=rss",
         "publishedAt": "2026-08-16T06:46:17.000Z"
+      },
+      {
+        "time": "16:03",
+        "title": "脱「絶叫遊園地」富士急G転換点",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591952?source=rss",
+        "publishedAt": "2026-08-16T07:03:59.000Z"
       },
       {
         "time": "11:55",
@@ -119,13 +119,6 @@
         "publishedAt": "2026-08-16T02:14:02.000Z"
       },
       {
-        "time": "19:18",
-        "title": "SUVの国内販売競争 激しさ増す",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591858?source=rss",
-        "publishedAt": "2026-08-15T10:18:07.000Z"
-      },
-      {
         "time": "10:38",
         "title": "命の危険に直面 炎天下で働く人々",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591951?source=rss",
         "publishedAt": "2026-08-16T06:46:17.000Z"
+      },
+      {
+        "time": "16:03",
+        "title": "脱「絶叫遊園地」富士急G転換点",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591952?source=rss",
+        "publishedAt": "2026-08-16T07:03:59.000Z"
       }
     ],
     "localHeadlines": [
