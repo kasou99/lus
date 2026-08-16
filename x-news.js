@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T02:32:01.045Z",
+  "updatedAt": "2026-08-16T03:22:52.420Z",
   "items": [
     {
       "time": "10:17",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉豪雨で露呈 都市型水害の課題"
     },
     {
-      "time": "09:16",
-      "title": "お盆休み最終日 Uターン混雑予想",
+      "time": "11:39",
+      "title": "首相異例の遥拝 保守層離反を警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591906?source=rss",
-      "publishedAt": "2026-08-16T00:16:05.000Z",
-      "xQuery": "お盆休み最終日 Uターン混雑予想"
+      "url": "https://news.yahoo.co.jp/pickup/6591925?source=rss",
+      "publishedAt": "2026-08-16T02:39:24.000Z",
+      "xQuery": "首相異例の遥拝 保守層離反を警戒"
     },
     {
       "time": "10:40",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "飼い犬殺害 裁判官が証言に苦言"
     },
     {
-      "time": "10:19",
-      "title": "日本初確認の虫 SNS動画きっかけ",
+      "time": "11:55",
+      "title": "プロテイン 価格の高騰止まらず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591912?source=rss",
-      "publishedAt": "2026-08-16T01:19:12.000Z",
-      "xQuery": "日本初確認の虫 SNS動画きっかけ"
+      "url": "https://news.yahoo.co.jp/pickup/6591929?source=rss",
+      "publishedAt": "2026-08-16T02:55:48.000Z",
+      "xQuery": "プロテイン 価格の高騰止まらず"
     }
   ]
 };
