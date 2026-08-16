@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T04:45:15.311Z",
+  "updatedAt": "2026-08-16T05:11:05.279Z",
   "items": [
     {
       "time": "12:22",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "お盆休み最終日 交通混雑がピーク"
     },
     {
-      "time": "11:14",
-      "title": "米金融 新顔「ヨール街」に存在感",
+      "time": "12:06",
+      "title": "軍人に殴られた痛み 少年の記憶",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591924?source=rss",
-      "publishedAt": "2026-08-16T02:14:02.000Z",
-      "xQuery": "米金融 新顔「ヨール街」に存在感"
+      "url": "https://news.yahoo.co.jp/pickup/6591928?source=rss",
+      "publishedAt": "2026-08-16T03:06:07.000Z",
+      "xQuery": "軍人に殴られた痛み 少年の記憶"
     },
     {
       "time": "13:14",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "多摩川で中学生が溺れる 意識不明"
     },
     {
-      "time": "11:08",
-      "title": "飼い犬殺害 裁判官が証言に苦言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591923?source=rss",
-      "publishedAt": "2026-08-16T02:08:43.000Z",
-      "xQuery": "飼い犬殺害 裁判官が証言に苦言"
-    },
-    {
       "time": "12:44",
       "title": "生後4カ月でがん 眼球摘出を決断",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591932?source=rss",
       "publishedAt": "2026-08-16T03:44:24.000Z",
       "xQuery": "生後4カ月でがん 眼球摘出を決断"
+    },
+    {
+      "time": "11:55",
+      "title": "プロテイン 価格の高騰止まらず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591929?source=rss",
+      "publishedAt": "2026-08-16T02:55:48.000Z",
+      "xQuery": "プロテイン 価格の高騰止まらず"
     }
   ]
 };
