@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-16T21:38:20.980Z",
+  "updatedAt": "2026-08-16T22:06:43.409Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:09",
+        "title": "6月工作機械、52％大幅増 外需は過去最高",
+        "source": "金属産業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80VlFLV0ZpQjN0Ykhlai1vWFhsUEZVWkJYenlwbkhFUUc1R18xMnF2S21vbDJIVzFUT0JOcWxQV2VaZmxJM1dGZUhCcVJZLXpORXhzUVRtMWc?oc=5",
+        "publishedAt": "2026-08-16T21:09:47.000Z"
+      },
       {
         "time": "05:02",
         "title": "機械大手の自動・省人化 内製ロボが独自の発展",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591970?source=rss",
         "publishedAt": "2026-08-16T09:11:21.000Z"
-      },
-      {
-        "time": "10:38",
-        "title": "命の危険に直面 炎天下で働く人々",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591917?source=rss",
-        "publishedAt": "2026-08-16T01:38:35.000Z"
       }
     ],
     "worldHeadlines": [

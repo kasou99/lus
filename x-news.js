@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T21:38:21.641Z",
+  "updatedAt": "2026-08-16T22:06:44.093Z",
   "items": [
+    {
+      "time": "06:43",
+      "title": "福岡県で震度4 津波の心配なし",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592009?source=rss",
+      "publishedAt": "2026-08-16T21:43:37.000Z",
+      "xQuery": "福岡県で震度4 津波の心配なし"
+    },
     {
       "time": "22:00",
       "title": "逆走台風と千葉豪雨 なぜ起きた",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592001?source=rss",
       "publishedAt": "2026-08-16T13:44:26.000Z",
       "xQuery": "米イラン覚書期限 海峡開放見えず"
-    },
-    {
-      "time": "23:01",
-      "title": "ドローン600機 露首都に向け飛行",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592002?source=rss",
-      "publishedAt": "2026-08-16T14:01:34.000Z",
-      "xQuery": "ドローン600機 露首都に向け飛行"
     },
     {
       "time": "22:37",
