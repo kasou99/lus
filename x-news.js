@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T08:44:12.412Z",
+  "updatedAt": "2026-08-16T09:10:11.401Z",
   "items": [
     {
       "time": "16:24",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "地震で実家崩れ「助けて」父の声"
     },
     {
-      "time": "17:27",
-      "title": "千葉豪雨の死者10人 1人行方不明",
+      "time": "18:04",
+      "title": "溺れ死んじゃう 浸水の車内で恐怖",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591964?source=rss",
-      "publishedAt": "2026-08-16T08:27:04.000Z",
-      "xQuery": "千葉豪雨の死者10人 1人行方不明"
+      "url": "https://news.yahoo.co.jp/pickup/6591969?source=rss",
+      "publishedAt": "2026-08-16T09:04:35.000Z",
+      "xQuery": "溺れ死んじゃう 浸水の車内で恐怖"
+    },
+    {
+      "time": "17:57",
+      "title": "豪で「ワーホリ」受け入れ抑制へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591966?source=rss",
+      "publishedAt": "2026-08-16T08:57:21.000Z",
+      "xQuery": "豪で「ワーホリ」受け入れ抑制へ"
     },
     {
       "time": "15:28",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591949?source=rss",
       "publishedAt": "2026-08-16T06:28:10.000Z",
       "xQuery": "世界でブームのスクイーズ 事故も"
-    },
-    {
-      "time": "17:30",
-      "title": "生まれた子に重い障害 8年間自責",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591962?source=rss",
-      "publishedAt": "2026-08-16T08:30:48.000Z",
-      "xQuery": "生まれた子に重い障害 8年間自責"
     }
   ]
 };
