@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-16T19:38:15.318Z",
+  "updatedAt": "2026-08-16T20:06:53.482Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:02",
+        "title": "機械大手の自動・省人化 内製ロボが独自の発展",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdTFhOWFWam1ob2NnMVdCbGllY01XN0REUHA3RmxPN2pYalFqNWtDZUtPeFlJY0l6SE40anZJWkd6UVlaWldiSEhnXzBxS1NJTkc0dHlxb1JPazQ?oc=5",
+        "publishedAt": "2026-08-16T20:02:21.000Z"
+      },
       {
         "time": "10:28",
         "title": "建築会社がつくる“牽引するお店”誕生!駐めた瞬間、そこが店舗になるトレーラー型ポップアップショップ",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591929?source=rss",
         "publishedAt": "2026-08-16T02:55:48.000Z"
-      },
-      {
-        "time": "15:28",
-        "title": "世界でブームのスクイーズ 事故も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591949?source=rss",
-        "publishedAt": "2026-08-16T06:28:10.000Z"
       }
     ],
     "worldHeadlines": [
