@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T22:39:26.610Z",
+  "updatedAt": "2026-08-16T23:06:22.694Z",
   "items": [
     {
-      "time": "06:43",
-      "title": "福岡県で震度4 津波の心配なし",
+      "time": "07:39",
+      "title": "介護保険証とマイナ 一体化を促進",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592009?source=rss",
-      "publishedAt": "2026-08-16T21:43:37.000Z",
-      "xQuery": "福岡県で震度4 津波の心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6592015?source=rss",
+      "publishedAt": "2026-08-16T22:39:10.000Z",
+      "xQuery": "介護保険証とマイナ 一体化を促進"
     },
     {
       "time": "07:20",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 米韓軍事演習縮小指示"
     },
     {
+      "time": "07:59",
+      "title": "遊泳区域外で泳ぎ練習中 溺れ死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592020?source=rss",
+      "publishedAt": "2026-08-16T22:59:17.000Z",
+      "xQuery": "遊泳区域外で泳ぎ練習中 溺れ死亡"
+    },
+    {
       "time": "22:37",
       "title": "BBQ中に川に流され 20代女性重体",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592000?source=rss",
       "publishedAt": "2026-08-16T13:37:35.000Z",
       "xQuery": "BBQ中に川に流され 20代女性重体"
-    },
-    {
-      "time": "07:26",
-      "title": "福岡県議長 自民会派相談役外れる",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592014?source=rss",
-      "publishedAt": "2026-08-16T22:26:59.000Z",
-      "xQuery": "福岡県議長 自民会派相談役外れる"
     },
     {
       "time": "00:00",

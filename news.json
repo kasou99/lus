@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-08-16T22:39:25.515Z",
+  "updatedAt": "2026-08-16T23:06:21.882Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:09",
+        "title": "6月工作機械、52％大幅増 外需は過去最高",
+        "source": "金属産業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80VlFLV0ZpQjN0Ykhlai1vWFhsUEZVWkJYenlwbkhFUUc1R18xMnF2S21vbDJIVzFUT0JOcWxQV2VaZmxJM1dGZUhCcVJZLXpORXhzUVRtMWc?oc=5",
+        "publishedAt": "2026-08-16T21:09:47.000Z"
+      },
       {
         "time": "05:02",
         "title": "機械大手の自動・省人化 内製ロボが独自の発展",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdTFhOWFWam1ob2NnMVdCbGllY01XN0REUHA3RmxPN2pYalFqNWtDZUtPeFlJY0l6SE40anZJWkd6UVlaWldiSEhnXzBxS1NJTkc0dHlxb1JPazQ?oc=5",
         "publishedAt": "2026-08-16T20:02:21.000Z"
+      },
+      {
+        "time": "02:00",
+        "title": "DMG森精機、統合10年で半導体を顧客に 鬼門の海外M&Aで世界2位",
+        "source": "nikkei.com",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qR2hjZ081V19NYnZDdmZqOHU1blBSTUZUbE8tWWtoWWtidU5UVFJiSDVWNVlENjBGT0F2WjkyaV9vVnN1d2hJRHlHbmpnNkFPbE5pNE12dHNTVkdMQ3Z0WlFrQ3hBN0lQQTRWXw?oc=5",
+        "publishedAt": "2026-08-16T17:00:00.000Z"
       },
       {
         "time": "05:04",
@@ -43,20 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591970?source=rss",
         "publishedAt": "2026-08-16T09:11:21.000Z"
-      },
-      {
-        "time": "10:38",
-        "title": "命の危険に直面 炎天下で働く人々",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591917?source=rss",
-        "publishedAt": "2026-08-16T01:38:35.000Z"
-      },
-      {
-        "time": "19:26",
-        "title": "早期退職 第二の人生は甘くない?",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591977?source=rss",
-        "publishedAt": "2026-08-16T10:26:05.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,18 +170,18 @@
         "publishedAt": "2026-08-16T12:36:37.000Z"
       },
       {
-        "time": "16:59",
-        "title": "地震で実家崩れ「助けて」父の声",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591961?source=rss",
-        "publishedAt": "2026-08-16T07:59:28.000Z"
-      },
-      {
         "time": "07:26",
         "title": "福岡県議長 自民会派相談役外れる",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592014?source=rss",
         "publishedAt": "2026-08-16T22:26:59.000Z"
+      },
+      {
+        "time": "07:59",
+        "title": "遊泳区域外で泳ぎ練習中 溺れ死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592020?source=rss",
+        "publishedAt": "2026-08-16T22:59:17.000Z"
       },
       {
         "time": "22:37",
