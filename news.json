@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T20:39:48.069Z",
+  "updatedAt": "2026-08-16T21:06:34.258Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdTFhOWFWam1ob2NnMVdCbGllY01XN0REUHA3RmxPN2pYalFqNWtDZUtPeFlJY0l6SE40anZJWkd6UVlaWldiSEhnXzBxS1NJTkc0dHlxb1JPazQ?oc=5",
         "publishedAt": "2026-08-16T20:02:21.000Z"
+      },
+      {
+        "time": "02:00",
+        "title": "DMG森精機、統合10年で半導体を顧客に 鬼門の海外M&Aで世界2位",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qR2hjZ081V19NYnZDdmZqOHU1blBSTUZUbE8tWWtoWWtidU5UVFJiSDVWNVlENjBGT0F2WjkyaV9vVnN1d2hJRHlHbmpnNkFPbE5pNE12dHNTVkdMQ3Z0WlFrQ3hBN0lQQTRWXw?oc=5",
+        "publishedAt": "2026-08-16T17:00:00.000Z"
       },
       {
         "time": "05:04",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591917?source=rss",
         "publishedAt": "2026-08-16T01:38:35.000Z"
-      },
-      {
-        "time": "19:26",
-        "title": "早期退職 第二の人生は甘くない?",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591977?source=rss",
-        "publishedAt": "2026-08-16T10:26:05.000Z"
       }
     ],
     "worldHeadlines": [
