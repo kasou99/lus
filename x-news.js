@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T07:15:39.198Z",
+  "updatedAt": "2026-08-16T07:43:11.189Z",
   "items": [
     {
-      "time": "12:06",
-      "title": "軍人に殴られた痛み 少年の記憶",
+      "time": "16:24",
+      "title": "防空壕で生まれた自民森山氏 思い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591928?source=rss",
-      "publishedAt": "2026-08-16T03:06:07.000Z",
-      "xQuery": "軍人に殴られた痛み 少年の記憶"
+      "url": "https://news.yahoo.co.jp/pickup/6591954?source=rss",
+      "publishedAt": "2026-08-16T07:24:48.000Z",
+      "xQuery": "防空壕で生まれた自民森山氏 思い"
     },
     {
       "time": "10:13",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "釣り竿取りに池泳ぎ溺れたか 死亡"
     },
     {
-      "time": "16:03",
-      "title": "脱「絶叫遊園地」富士急G転換点",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591952?source=rss",
-      "publishedAt": "2026-08-16T07:03:59.000Z",
-      "xQuery": "脱「絶叫遊園地」富士急G転換点"
-    },
-    {
       "time": "15:46",
       "title": "高専「ネーミングライツ」広がる",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591951?source=rss",
       "publishedAt": "2026-08-16T06:46:17.000Z",
       "xQuery": "高専「ネーミングライツ」広がる"
+    },
+    {
+      "time": "15:28",
+      "title": "世界でブームのスクイーズ 事故も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591949?source=rss",
+      "publishedAt": "2026-08-16T06:28:10.000Z",
+      "xQuery": "世界でブームのスクイーズ 事故も"
     }
   ]
 };
