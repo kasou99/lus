@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T00:50:30.722Z",
+  "updatedAt": "2026-08-16T01:33:25.584Z",
   "items": [
+    {
+      "time": "09:16",
+      "title": "お盆休み最終日 Uターン混雑予想",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591906?source=rss",
+      "publishedAt": "2026-08-16T00:16:05.000Z",
+      "xQuery": "お盆休み最終日 Uターン混雑予想"
+    },
+    {
+      "time": "08:31",
+      "title": "プーチン氏の北方領土初訪問 狙い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591899?source=rss",
+      "publishedAt": "2026-08-15T23:31:09.000Z",
+      "xQuery": "プーチン氏の北方領土初訪問 狙い"
+    },
     {
       "time": "08:10",
       "title": "お盆休み後は熱中症リスク高 警戒",
@@ -10,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "お盆休み後は熱中症リスク高 警戒"
     },
     {
-      "time": "07:54",
-      "title": "中国船 尖閣周辺EEZで海洋調査か",
+      "time": "09:38",
+      "title": "子の水難 助けに飛び込むのはNG",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591895?source=rss",
-      "publishedAt": "2026-08-15T22:54:50.000Z",
-      "xQuery": "中国船 尖閣周辺EEZで海洋調査か"
-    },
-    {
-      "time": "09:02",
-      "title": "粗悪なモバイル電池 会社の闇追跡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591902?source=rss",
-      "publishedAt": "2026-08-16T00:02:54.000Z",
-      "xQuery": "粗悪なモバイル電池 会社の闇追跡"
+      "url": "https://news.yahoo.co.jp/pickup/6591904?source=rss",
+      "publishedAt": "2026-08-16T00:38:12.000Z",
+      "xQuery": "子の水難 助けに飛び込むのはNG"
     },
     {
       "time": "07:14",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591888?source=rss",
       "publishedAt": "2026-08-15T22:14:20.000Z",
       "xQuery": "行方不明の英国籍12歳少女 保護"
-    },
-    {
-      "time": "07:52",
-      "title": "SAトイレに急病人 対応に反響",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591896?source=rss",
-      "publishedAt": "2026-08-15T22:52:38.000Z",
-      "xQuery": "SAトイレに急病人 対応に反響"
     }
   ]
 };

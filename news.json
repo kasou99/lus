@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-16T00:50:29.864Z",
+  "updatedAt": "2026-08-16T01:33:24.939Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "09:45",
+        "time": "10:29",
         "title": "建築会社がつくる“牽引するお店”誕生! 駐めた瞬間、そこが店舗になるトレーラー型ポップアップショップ",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWWDBXTTU1VmgydzlzS3V3N0tWc3kwbXZaMmlYRkZEVjI3Vm85VXUtUzN4ME9qalVBNGhKU0ZLS2ItcE12dkdlb3dvaHRKbjJnRGVOQ1AxS3p2S21URkEzWFdyem00MmRvbHpMQ3dhT1ZCSDZKZHRIUkRrRQ?oc=5",
-        "publishedAt": "2026-08-16T00:45:25.000Z"
+        "source": "crea.bunshun.jp",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWbkRzNGpWdG56X3c1bXRSWDBPbjYzdlNsQkxoeUlUVTJpaE50cnVVbnVzR1pVZWdwbW1rOUVsOWxqNk9vdlBtRm9aamM4YjAtUm9oaVFQN0xISDVZaTJiNTZyQ0paUW84UzA5Z05hTnNLUQ?oc=5",
+        "publishedAt": "2026-08-16T01:29:33.000Z"
       },
       {
         "time": "14:06",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "10:13",
+        "title": "露がウクライナの子連れ去り 実態",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591913?source=rss",
+        "publishedAt": "2026-08-16T01:13:15.000Z"
+      },
+      {
         "time": "21:27",
         "title": "択捉島 ロシア大統領は軍艦で訪問",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591860?source=rss",
         "publishedAt": "2026-08-15T10:46:58.000Z"
-      },
-      {
-        "time": "14:35",
-        "title": "ウ和平仲介 米大統領は二転三転",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591816?source=rss",
-        "publishedAt": "2026-08-15T05:35:31.000Z"
       },
       {
         "time": "14:19",
@@ -156,11 +156,11 @@
         "publishedAt": "2026-08-15T12:53:53.000Z"
       },
       {
-        "time": "20:42",
-        "title": "千葉豪雨の死者は9人に 県が発表",
+        "time": "10:17",
+        "title": "千葉豪雨で露呈 都市型水害の課題",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591863?source=rss",
-        "publishedAt": "2026-08-15T11:42:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591914?source=rss",
+        "publishedAt": "2026-08-16T01:17:17.000Z"
       },
       {
         "time": "23:04",
