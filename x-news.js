@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T07:43:11.189Z",
+  "updatedAt": "2026-08-16T08:09:48.955Z",
   "items": [
     {
       "time": "16:24",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "防空壕で生まれた自民森山氏 思い"
     },
     {
-      "time": "10:13",
-      "title": "露がウクライナの子連れ去り 実態",
+      "time": "16:59",
+      "title": "地震で実家崩れ「助けて」父の声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591913?source=rss",
-      "publishedAt": "2026-08-16T01:13:15.000Z",
-      "xQuery": "露がウクライナの子連れ去り 実態"
+      "url": "https://news.yahoo.co.jp/pickup/6591961?source=rss",
+      "publishedAt": "2026-08-16T07:59:28.000Z",
+      "xQuery": "地震で実家崩れ「助けて」父の声"
+    },
+    {
+      "time": "14:38",
+      "title": "ベルギーで過去最大規模の山火事",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591943?source=rss",
+      "publishedAt": "2026-08-16T05:38:01.000Z",
+      "xQuery": "ベルギーで過去最大規模の山火事"
     },
     {
       "time": "14:41",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591951?source=rss",
       "publishedAt": "2026-08-16T06:46:17.000Z",
       "xQuery": "高専「ネーミングライツ」広がる"
-    },
-    {
-      "time": "15:28",
-      "title": "世界でブームのスクイーズ 事故も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591949?source=rss",
-      "publishedAt": "2026-08-16T06:28:10.000Z",
-      "xQuery": "世界でブームのスクイーズ 事故も"
     }
   ]
 };
