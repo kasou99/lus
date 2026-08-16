@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T11:38:33.709Z",
+  "updatedAt": "2026-08-16T12:09:23.308Z",
   "items": [
     {
       "time": "20:11",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591986?source=rss",
       "publishedAt": "2026-08-16T11:11:22.000Z",
       "xQuery": "内閣改造と自民役員人事 注目点は"
-    },
-    {
-      "time": "18:41",
-      "title": "千葉など17日から厳しい暑さ 注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591973?source=rss",
-      "publishedAt": "2026-08-16T09:41:22.000Z",
-      "xQuery": "千葉など17日から厳しい暑さ 注意"
     },
     {
       "time": "18:37",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591985?source=rss",
       "publishedAt": "2026-08-16T11:16:55.000Z",
       "xQuery": "知人助けようとして行方不明 千葉"
+    },
+    {
+      "time": "20:16",
+      "title": "「迷子です」と女児 高校生ら保護",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591984?source=rss",
+      "publishedAt": "2026-08-16T11:16:03.000Z",
+      "xQuery": "「迷子です」と女児 高校生ら保護"
     },
     {
       "time": "19:26",
