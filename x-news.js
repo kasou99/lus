@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T04:16:33.380Z",
+  "updatedAt": "2026-08-16T04:45:15.311Z",
   "items": [
     {
       "time": "12:22",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米金融 新顔「ヨール街」に存在感"
     },
     {
-      "time": "11:39",
-      "title": "首相異例の遥拝 保守層離反を警戒",
+      "time": "13:14",
+      "title": "多摩川で中学生が溺れる 意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591925?source=rss",
-      "publishedAt": "2026-08-16T02:39:24.000Z",
-      "xQuery": "首相異例の遥拝 保守層離反を警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6591935?source=rss",
+      "publishedAt": "2026-08-16T04:14:43.000Z",
+      "xQuery": "多摩川で中学生が溺れる 意識不明"
     },
     {
       "time": "11:08",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "飼い犬殺害 裁判官が証言に苦言"
     },
     {
-      "time": "11:55",
-      "title": "プロテイン 価格の高騰止まらず",
+      "time": "12:44",
+      "title": "生後4カ月でがん 眼球摘出を決断",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591929?source=rss",
-      "publishedAt": "2026-08-16T02:55:48.000Z",
-      "xQuery": "プロテイン 価格の高騰止まらず"
+      "url": "https://news.yahoo.co.jp/pickup/6591932?source=rss",
+      "publishedAt": "2026-08-16T03:44:24.000Z",
+      "xQuery": "生後4カ月でがん 眼球摘出を決断"
     }
   ]
 };
