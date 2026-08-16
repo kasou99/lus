@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T08:09:48.132Z",
+  "updatedAt": "2026-08-16T08:44:11.712Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-08-16T03:06:07.000Z"
       },
       {
+        "time": "17:27",
+        "title": "千葉豪雨の死者10人 1人行方不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591964?source=rss",
+        "publishedAt": "2026-08-16T08:27:04.000Z"
+      },
+      {
         "time": "10:17",
         "title": "千葉豪雨で露呈 都市型水害の課題",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591945?source=rss",
         "publishedAt": "2026-08-16T05:41:56.000Z"
-      },
-      {
-        "time": "13:14",
-        "title": "多摩川で中学生が溺れる 意識不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591935?source=rss",
-        "publishedAt": "2026-08-16T04:14:43.000Z"
       }
     ],
     "subsidyHeadlines": [

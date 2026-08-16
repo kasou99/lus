@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T08:09:48.955Z",
+  "updatedAt": "2026-08-16T08:44:12.412Z",
   "items": [
     {
       "time": "16:24",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "地震で実家崩れ「助けて」父の声"
     },
     {
-      "time": "14:38",
-      "title": "ベルギーで過去最大規模の山火事",
+      "time": "17:27",
+      "title": "千葉豪雨の死者10人 1人行方不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591943?source=rss",
-      "publishedAt": "2026-08-16T05:38:01.000Z",
-      "xQuery": "ベルギーで過去最大規模の山火事"
+      "url": "https://news.yahoo.co.jp/pickup/6591964?source=rss",
+      "publishedAt": "2026-08-16T08:27:04.000Z",
+      "xQuery": "千葉豪雨の死者10人 1人行方不明"
     },
     {
-      "time": "14:41",
-      "title": "釣り竿取りに池泳ぎ溺れたか 死亡",
+      "time": "15:28",
+      "title": "世界でブームのスクイーズ 事故も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591945?source=rss",
-      "publishedAt": "2026-08-16T05:41:56.000Z",
-      "xQuery": "釣り竿取りに池泳ぎ溺れたか 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6591949?source=rss",
+      "publishedAt": "2026-08-16T06:28:10.000Z",
+      "xQuery": "世界でブームのスクイーズ 事故も"
     },
     {
-      "time": "15:46",
-      "title": "高専「ネーミングライツ」広がる",
+      "time": "17:30",
+      "title": "生まれた子に重い障害 8年間自責",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591951?source=rss",
-      "publishedAt": "2026-08-16T06:46:17.000Z",
-      "xQuery": "高専「ネーミングライツ」広がる"
+      "url": "https://news.yahoo.co.jp/pickup/6591962?source=rss",
+      "publishedAt": "2026-08-16T08:30:48.000Z",
+      "xQuery": "生まれた子に重い障害 8年間自責"
     }
   ]
 };
