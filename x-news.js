@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T22:06:44.093Z",
+  "updatedAt": "2026-08-16T22:39:26.610Z",
   "items": [
     {
       "time": "06:43",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡県で震度4 津波の心配なし"
     },
     {
-      "time": "22:00",
-      "title": "逆走台風と千葉豪雨 なぜ起きた",
+      "time": "07:20",
+      "title": "トランプ氏 米韓軍事演習縮小指示",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591993?source=rss",
-      "publishedAt": "2026-08-16T13:00:16.000Z",
-      "xQuery": "逆走台風と千葉豪雨 なぜ起きた"
-    },
-    {
-      "time": "22:44",
-      "title": "米イラン覚書期限 海峡開放見えず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592001?source=rss",
-      "publishedAt": "2026-08-16T13:44:26.000Z",
-      "xQuery": "米イラン覚書期限 海峡開放見えず"
+      "url": "https://news.yahoo.co.jp/pickup/6592012?source=rss",
+      "publishedAt": "2026-08-16T22:20:29.000Z",
+      "xQuery": "トランプ氏 米韓軍事演習縮小指示"
     },
     {
       "time": "22:37",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592000?source=rss",
       "publishedAt": "2026-08-16T13:37:35.000Z",
       "xQuery": "BBQ中に川に流され 20代女性重体"
+    },
+    {
+      "time": "07:26",
+      "title": "福岡県議長 自民会派相談役外れる",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592014?source=rss",
+      "publishedAt": "2026-08-16T22:26:59.000Z",
+      "xQuery": "福岡県議長 自民会派相談役外れる"
     },
     {
       "time": "00:00",
