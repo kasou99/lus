@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-16T00:21:37.314Z",
+  "updatedAt": "2026-08-16T00:50:29.864Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:45",
+        "title": "建築会社がつくる“牽引するお店”誕生! 駐めた瞬間、そこが店舗になるトレーラー型ポップアップショップ",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWWDBXTTU1VmgydzlzS3V3N0tWc3kwbXZaMmlYRkZEVjI3Vm85VXUtUzN4ME9qalVBNGhKU0ZLS2ItcE12dkdlb3dvaHRKbjJnRGVOQ1AxS3p2S21URkEzWFdyem00MmRvbHpMQ3dhT1ZCSDZKZHRIUkRrRQ?oc=5",
+        "publishedAt": "2026-08-16T00:45:25.000Z"
+      },
       {
         "time": "14:06",
         "title": "車水没 保険適用のためすべきこと",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591836?source=rss",
         "publishedAt": "2026-08-15T07:34:55.000Z"
-      },
-      {
-        "time": "17:54",
-        "title": "大人がおもちゃに夢中 市場急拡大",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591849?source=rss",
-        "publishedAt": "2026-08-15T08:54:16.000Z"
       }
     ],
     "worldHeadlines": [
