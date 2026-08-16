@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T12:48:08.609Z",
+  "updatedAt": "2026-08-16T13:15:23.801Z",
   "items": [
     {
       "time": "20:11",
@@ -10,6 +10,22 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣改造と自民役員人事 注目点は"
     },
     {
+      "time": "21:36",
+      "title": "千葉豪雨 放置車両2700台を確認",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591991?source=rss",
+      "publishedAt": "2026-08-16T12:36:37.000Z",
+      "xQuery": "千葉豪雨 放置車両2700台を確認"
+    },
+    {
+      "time": "22:00",
+      "title": "千葉市の川沿いに遺体 豪雨関連か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591994?source=rss",
+      "publishedAt": "2026-08-16T13:00:18.000Z",
+      "xQuery": "千葉市の川沿いに遺体 豪雨関連か"
+    },
+    {
       "time": "21:07",
       "title": "辞職勧告受け 福岡県議長続投考え",
       "source": "Yahoo!ニュース",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "辞職勧告受け 福岡県議長続投考え"
     },
     {
-      "time": "20:16",
-      "title": "知人助けようとして行方不明 千葉",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591985?source=rss",
-      "publishedAt": "2026-08-16T11:16:55.000Z",
-      "xQuery": "知人助けようとして行方不明 千葉"
-    },
-    {
       "time": "19:26",
       "title": "早期退職 第二の人生は甘くない?",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6591977?source=rss",
       "publishedAt": "2026-08-16T10:26:05.000Z",
       "xQuery": "早期退職 第二の人生は甘くない?"
-    },
-    {
-      "time": "21:38",
-      "title": "京急上大岡駅 液晶の「パタパタ」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591992?source=rss",
-      "publishedAt": "2026-08-16T12:38:32.000Z",
-      "xQuery": "京急上大岡駅 液晶の「パタパタ」"
     }
   ]
 };

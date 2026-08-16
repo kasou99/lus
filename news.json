@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-16T12:47:58.591Z",
+  "updatedAt": "2026-08-16T13:15:23.336Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "10:28",
+        "title": "建築会社がつくる“牽引するお店”誕生!駐めた瞬間、そこが店舗になるトレーラー型ポップアップショップ",
+        "source": "クレアウェブ",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWbkRzNGpWdG56X3c1bXRSWDBPbjYzdlNsQkxoeUlUVTJpaE50cnVVbnVzR1pVZWdwbW1rOUVsOWxqNk9vdlBtRm9aamM4YjAtUm9oaVFQN0xISDVZaTJiNTZyQ0paUW84UzA5Z05hTnNLUQ?oc=5",
+        "publishedAt": "2026-08-16T01:28:24.000Z"
+      },
+      {
+        "time": "01:20",
+        "title": "「お父さん、蛇口をひねっても水が出ないの」真夏に80戸が3日間断水、45歳会社員が直面した“想定外の事態”",
+        "source": "TRILL",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwdzY2ajJJc3JOaklzZmNyZHR6WHhfZGc4dlBBQjladDlwNFpxSGwzNW9UdjgyX0JWcWJkTWdKaGo1QkV6dTR3Q3hhRjJTQ2M?oc=5",
+        "publishedAt": "2026-08-15T16:20:00.000Z"
+      },
       {
         "time": "12:22",
         "title": "お盆休み最終日 交通混雑がピーク",
@@ -43,20 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591929?source=rss",
         "publishedAt": "2026-08-16T02:55:48.000Z"
-      },
-      {
-        "time": "15:28",
-        "title": "世界でブームのスクイーズ 事故も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591949?source=rss",
-        "publishedAt": "2026-08-16T06:28:10.000Z"
-      },
-      {
-        "time": "21:38",
-        "title": "京急上大岡駅 液晶の「パタパタ」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591992?source=rss",
-        "publishedAt": "2026-08-16T12:38:32.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "21:36",
-        "title": "千葉豪雨 放置車両2700台を確認",
+        "time": "22:00",
+        "title": "千葉市の川沿いに遺体 豪雨関連か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591991?source=rss",
-        "publishedAt": "2026-08-16T12:36:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591994?source=rss",
+        "publishedAt": "2026-08-16T13:00:18.000Z"
       },
       {
         "time": "20:16",
@@ -161,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591985?source=rss",
         "publishedAt": "2026-08-16T11:16:55.000Z"
+      },
+      {
+        "time": "21:36",
+        "title": "千葉豪雨 放置車両2700台を確認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591991?source=rss",
+        "publishedAt": "2026-08-16T12:36:37.000Z"
       },
       {
         "time": "18:04",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591987?source=rss",
         "publishedAt": "2026-08-16T12:07:39.000Z"
-      },
-      {
-        "time": "07:14",
-        "title": "行方不明の英国籍12歳少女 保護",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591888?source=rss",
-        "publishedAt": "2026-08-15T22:14:20.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -215,6 +215,20 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "time": "16:00",
+        "title": "物価高騰や米国関税措置・中東情勢の変化等により影響を受ける県内事業者の皆様への主な支援策",
+        "source": "pref.hiroshima.lg.jp",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ed24zSjhRX0NxVnYxeFMxallrVW5sQXh5SV8yY1VUXzI0ajIwQVpVb2hTalZlU3AybmJrSVZ3U2F2MWU3bkVzb2RvNTlyaEZOQ2tDN1dUQjJKR1NVQ2tHYU1rSjhKZWoybllUVnpn?oc=5",
+        "publishedAt": "2026-07-31T07:00:00.000Z"
       }
     ]
   }
