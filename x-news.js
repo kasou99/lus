@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T09:10:11.401Z",
+  "updatedAt": "2026-08-16T09:41:32.759Z",
   "items": [
     {
       "time": "16:24",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591954?source=rss",
       "publishedAt": "2026-08-16T07:24:48.000Z",
       "xQuery": "防空壕で生まれた自民森山氏 思い"
-    },
-    {
-      "time": "16:59",
-      "title": "地震で実家崩れ「助けて」父の声",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591961?source=rss",
-      "publishedAt": "2026-08-16T07:59:28.000Z",
-      "xQuery": "地震で実家崩れ「助けて」父の声"
     },
     {
       "time": "18:04",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6591966?source=rss",
       "publishedAt": "2026-08-16T08:57:21.000Z",
       "xQuery": "豪で「ワーホリ」受け入れ抑制へ"
+    },
+    {
+      "time": "18:11",
+      "title": "地震で停電 教室育ちサーモン全滅",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6591970?source=rss",
+      "publishedAt": "2026-08-16T09:11:21.000Z",
+      "xQuery": "地震で停電 教室育ちサーモン全滅"
     },
     {
       "time": "15:28",
