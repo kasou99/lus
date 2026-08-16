@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T13:42:46.245Z",
+  "updatedAt": "2026-08-16T14:07:49.542Z",
   "items": [
     {
-      "time": "20:11",
-      "title": "内閣改造と自民役員人事 注目点は",
+      "time": "22:44",
+      "title": "米イラン覚書期限 海峡開放見えず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591986?source=rss",
-      "publishedAt": "2026-08-16T11:11:22.000Z",
-      "xQuery": "内閣改造と自民役員人事 注目点は"
+      "url": "https://news.yahoo.co.jp/pickup/6592001?source=rss",
+      "publishedAt": "2026-08-16T13:44:26.000Z",
+      "xQuery": "米イラン覚書期限 海峡開放見えず"
     },
     {
       "time": "22:00",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "早期退職 第二の人生は甘くない?"
     },
     {
-      "time": "21:38",
-      "title": "京急上大岡駅 液晶の「パタパタ」",
+      "time": "15:28",
+      "title": "世界でブームのスクイーズ 事故も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591992?source=rss",
-      "publishedAt": "2026-08-16T12:38:32.000Z",
-      "xQuery": "京急上大岡駅 液晶の「パタパタ」"
+      "url": "https://news.yahoo.co.jp/pickup/6591949?source=rss",
+      "publishedAt": "2026-08-16T06:28:10.000Z",
+      "xQuery": "世界でブームのスクイーズ 事故も"
     }
   ]
 };
