@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T13:15:23.336Z",
+  "updatedAt": "2026-08-16T13:42:45.378Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -170,13 +170,6 @@
         "publishedAt": "2026-08-16T12:36:37.000Z"
       },
       {
-        "time": "18:04",
-        "title": "溺れ死んじゃう 浸水の車内で恐怖",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591969?source=rss",
-        "publishedAt": "2026-08-16T09:04:35.000Z"
-      },
-      {
         "time": "16:59",
         "title": "地震で実家崩れ「助けて」父の声",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591987?source=rss",
         "publishedAt": "2026-08-16T12:07:39.000Z"
+      },
+      {
+        "time": "22:37",
+        "title": "BBQ中に川に流され 20代女性重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592000?source=rss",
+        "publishedAt": "2026-08-16T13:37:35.000Z"
       }
     ],
     "subsidyHeadlines": [
