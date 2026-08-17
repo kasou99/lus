@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T07:25:27.951Z",
+  "updatedAt": "2026-08-17T07:50:12.294Z",
   "items": [
     {
       "time": "13:31",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "73歳運転 店に車突っ込み2人けが"
     },
     {
-      "time": "14:55",
-      "title": "キョン 千葉県から分布拡大の恐れ",
+      "time": "13:52",
+      "title": "公園の名称 異例の決選投票で決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592066?source=rss",
-      "publishedAt": "2026-08-17T05:55:35.000Z",
-      "xQuery": "キョン 千葉県から分布拡大の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6592058?source=rss",
+      "publishedAt": "2026-08-17T04:52:52.000Z",
+      "xQuery": "公園の名称 異例の決選投票で決定"
     }
   ]
 };
