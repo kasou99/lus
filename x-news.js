@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T04:47:56.545Z",
+  "updatedAt": "2026-08-17T05:16:49.286Z",
   "items": [
     {
-      "time": "12:59",
-      "title": "千葉豪雨 冠水で高齢者施設が孤立",
+      "time": "13:45",
+      "title": "旅館などへの2次避難進まず 熊本",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592053?source=rss",
-      "publishedAt": "2026-08-17T03:59:28.000Z",
-      "xQuery": "千葉豪雨 冠水で高齢者施設が孤立"
+      "url": "https://news.yahoo.co.jp/pickup/6592057?source=rss",
+      "publishedAt": "2026-08-17T04:45:01.000Z",
+      "xQuery": "旅館などへの2次避難進まず 熊本"
     },
     {
       "time": "11:52",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "定着するか 稼げるブルーカラー"
     },
     {
+      "time": "13:51",
+      "title": "コンゴ エボラ感染者の約半数死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592059?source=rss",
+      "publishedAt": "2026-08-17T04:51:35.000Z",
+      "xQuery": "コンゴ エボラ感染者の約半数死亡"
+    },
+    {
       "time": "13:28",
       "title": "千葉で遺体 豪雨で不明の男性か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592056?source=rss",
       "publishedAt": "2026-08-17T04:28:03.000Z",
       "xQuery": "千葉で遺体 豪雨で不明の男性か"
-    },
-    {
-      "time": "11:43",
-      "title": "運転手引きずり降ろし車奪う 逃走",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592047?source=rss",
-      "publishedAt": "2026-08-17T02:43:32.000Z",
-      "xQuery": "運転手引きずり降ろし車奪う 逃走"
     }
   ]
 };
