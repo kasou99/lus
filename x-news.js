@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T11:09:18.369Z",
+  "updatedAt": "2026-08-17T11:41:05.158Z",
   "items": [
     {
       "time": "19:36",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "クマ3頭飛び出し 走行中の車衝突"
     },
     {
-      "time": "17:41",
-      "title": "「いけず石」物議 大阪市タジタジ",
+      "time": "20:12",
+      "title": "ANAとJAL 互いにダイヤを調整へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592082?source=rss",
-      "publishedAt": "2026-08-17T08:41:04.000Z",
-      "xQuery": "「いけず石」物議 大阪市タジタジ"
+      "url": "https://news.yahoo.co.jp/pickup/6592102?source=rss",
+      "publishedAt": "2026-08-17T11:12:38.000Z",
+      "xQuery": "ANAとJAL 互いにダイヤを調整へ"
     }
   ]
 };

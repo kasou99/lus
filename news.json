@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T11:09:17.568Z",
+  "updatedAt": "2026-08-17T11:41:04.064Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,18 +112,18 @@
         "publishedAt": "2026-08-17T02:16:48.000Z"
       },
       {
+        "time": "20:12",
+        "title": "ANAとJAL 互いにダイヤを調整へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592102?source=rss",
+        "publishedAt": "2026-08-17T11:12:38.000Z"
+      },
+      {
         "time": "16:33",
         "title": "楽天 迎撃ドローンで独企業と提携",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592073?source=rss",
         "publishedAt": "2026-08-17T07:33:19.000Z"
-      },
-      {
-        "time": "18:11",
-        "title": "地震で停電 教室育ちサーモン全滅",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591970?source=rss",
-        "publishedAt": "2026-08-16T09:11:21.000Z"
       },
       {
         "time": "18:12",
