@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T21:40:56.461Z",
+  "updatedAt": "2026-08-17T22:08:00.402Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-08-17T17:00:00.000Z"
       },
       {
-        "time": "05:06",
-        "title": "カマメシ、管理基盤で設備保全 予備部品在庫調査",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zMGlBMjYwWTJCT0ZYQWo4SUVMbFFMT1BLXzVEaHZhQnpDdXlqaDJhM2RVVEhsSUVwRWpIQmFYRFJXZDdrejI3WXRzNkpYYVlhMWo5MVRPMC15RE0?oc=5",
-        "publishedAt": "2026-08-17T20:06:19.000Z"
-      },
-      {
         "time": "06:00",
         "title": "顧客の工程集約や自動化推進､株価の割安感漂う工作機械株",
         "source": "四季報オンライン",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JSUtxMHlJUTBBYVBicmpYbTRvUEZBUHBqUk5KQkJsQW9HRW0yc0RtWlU4SXhPekcxWHBkalN3XzZmbmRPaW1mcE9ncEZLY2VTeTAxS2xmOA?oc=5",
         "publishedAt": "2026-08-17T21:00:00.000Z"
+      },
+      {
+        "time": "05:06",
+        "title": "カマメシ、管理基盤で設備保全 予備部品在庫調査",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zMGlBMjYwWTJCT0ZYQWo4SUVMbFFMT1BLXzVEaHZhQnpDdXlqaDJhM2RVVEhsSUVwRWpIQmFYRFJXZDdrejI3WXRzNkpYYVlhMWo5MVRPMC15RE0?oc=5",
+        "publishedAt": "2026-08-17T20:06:19.000Z"
       },
       {
         "time": "17:00",
@@ -33,7 +33,7 @@
       {
         "time": "19:09",
         "title": "【2027年3月期 第1四半期】リックス（7525）「過去最高益更新！半導体・工作機械の活況を捉える高配当・優待バリュー株」",
-        "source": "note",
+        "source": "note.com",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CWGlIMndseDVEQTBTc25XYzBDWTQ0N0RrR2xPQ2RQMGM2NWN5cGlxUlh6M3B6Mk9FdzhTTEVGR3V5TDVzSldkeWlUM1VtOFN3T0lucU9tdnNPaEtZ?oc=5",
         "publishedAt": "2026-08-17T10:09:49.000Z"
       },
@@ -45,21 +45,28 @@
         "publishedAt": "2026-08-17T01:51:31.000Z"
       },
       {
-        "time": "05:07",
-        "title": "工場2.0 価値を生み出す現場への進化論（6）人とAIが共に成長する事業所へ",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JdEFDUnZJVGxWanp0ZGlIcDFwOHVLbDB3ODdEc0YtMnNKVndDcUtzVkpvNEFSSU9rNE5nNXhfNG1qUURJaWpGa1dYRTNVenkzNWg2ZmpkakdDa0U?oc=5",
-        "publishedAt": "2026-08-17T20:07:10.000Z"
-      },
-      {
         "time": "10:32",
         "title": "シチズン時計---買い先行も上げ幅縮小、27年3月期業績と配当予想を上方修正",
         "source": "tradingview.com",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrMEhIYmlLdXV0Tll4RXlCWWV3R0VPSzQ1WVZscExhMTI1QTdlbDliZklTMmFqaF9MY3VBSFFrM2tnZEtVTE1BVjk0WlBGUUtaeEVidzd2YmpCa0hROWw1TUZJbUVTQQ?oc=5",
         "publishedAt": "2026-08-17T01:32:00.000Z"
+      },
+      {
+        "time": "17:19",
+        "title": "サーボ電磁ブレーキ―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032｜QYResearch",
+        "source": "note.com",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NVnJFWVBKTTBBOFpiT0tUcjltZXlZbXdMWWVqSUMwY2ZoaHRhX0daNS1RRWpOZHVNSlVXc3JCVnU3Wi1RRWZNeUozS1U5ZE1fWjZEbmEtcw?oc=5",
+        "publishedAt": "2026-08-17T08:19:42.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:05",
+        "title": "露が日本大使に出頭要請 抗議受け",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592124?source=rss",
+        "publishedAt": "2026-08-17T22:05:13.000Z"
+      },
       {
         "time": "16:52",
         "title": "イラン 米軍へ再攻撃辞さない方針",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592012?source=rss",
         "publishedAt": "2026-08-16T22:20:29.000Z"
-      },
-      {
-        "time": "09:36",
-        "title": "イラン 米兵の殺害・拘束に報奨金",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592028?source=rss",
-        "publishedAt": "2026-08-17T00:36:43.000Z"
       }
     ],
     "economyHeadlines": [
