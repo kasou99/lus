@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T05:45:02.366Z",
+  "updatedAt": "2026-08-17T06:17:53.438Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -177,18 +177,18 @@
         "publishedAt": "2026-08-17T02:43:32.000Z"
       },
       {
+        "time": "14:45",
+        "title": "73歳運転 店に車突っ込み2人けが",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592065?source=rss",
+        "publishedAt": "2026-08-17T05:45:11.000Z"
+      },
+      {
         "time": "22:37",
         "title": "BBQ中に川に流され 20代女性重体",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592000?source=rss",
         "publishedAt": "2026-08-16T13:37:35.000Z"
-      },
-      {
-        "time": "08:59",
-        "title": "マンホールの蓋複数飛ぶ 民家破損",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592025?source=rss",
-        "publishedAt": "2026-08-16T23:59:39.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T05:45:02.972Z",
+  "updatedAt": "2026-08-17T06:17:54.115Z",
   "items": [
     {
       "time": "13:45",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "旅館などへの2次避難進まず 熊本"
     },
     {
-      "time": "11:52",
-      "title": "精神疾患の日本兵に感染人体実験",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592042?source=rss",
-      "publishedAt": "2026-08-17T02:52:38.000Z",
-      "xQuery": "精神疾患の日本兵に感染人体実験"
-    },
-    {
       "time": "13:51",
       "title": "コンゴ エボラ感染者の約半数死亡",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "コンゴ エボラ感染者の約半数死亡"
     },
     {
-      "time": "13:28",
-      "title": "千葉で遺体 豪雨で不明の男性か",
+      "time": "14:45",
+      "title": "73歳運転 店に車突っ込み2人けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592056?source=rss",
-      "publishedAt": "2026-08-17T04:28:03.000Z",
-      "xQuery": "千葉で遺体 豪雨で不明の男性か"
+      "url": "https://news.yahoo.co.jp/pickup/6592065?source=rss",
+      "publishedAt": "2026-08-17T05:45:11.000Z",
+      "xQuery": "73歳運転 店に車突っ込み2人けが"
     },
     {
-      "time": "11:43",
-      "title": "運転手引きずり降ろし車奪う 逃走",
+      "time": "09:54",
+      "title": "キャッシュレス決済 浸透に地域差",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592047?source=rss",
-      "publishedAt": "2026-08-17T02:43:32.000Z",
-      "xQuery": "運転手引きずり降ろし車奪う 逃走"
+      "url": "https://news.yahoo.co.jp/pickup/6592030?source=rss",
+      "publishedAt": "2026-08-17T00:54:18.000Z",
+      "xQuery": "キャッシュレス決済 浸透に地域差"
+    },
+    {
+      "time": "14:55",
+      "title": "キョン 千葉県から分布拡大の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592066?source=rss",
+      "publishedAt": "2026-08-17T05:55:35.000Z",
+      "xQuery": "キョン 千葉県から分布拡大の恐れ"
     }
   ]
 };
