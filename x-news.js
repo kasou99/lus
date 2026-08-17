@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T12:11:49.044Z",
+  "updatedAt": "2026-08-17T12:48:16.829Z",
   "items": [
     {
       "time": "20:41",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震の断層破壊は約38km 調査"
     },
     {
-      "time": "19:27",
-      "title": "福岡県議会 蔵内氏が議長辞任意向",
+      "time": "21:29",
+      "title": "発電機で一酸化炭素中毒 注意点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592099?source=rss",
-      "publishedAt": "2026-08-17T10:27:44.000Z",
-      "xQuery": "福岡県議会 蔵内氏が議長辞任意向"
+      "url": "https://news.yahoo.co.jp/pickup/6592109?source=rss",
+      "publishedAt": "2026-08-17T12:29:10.000Z",
+      "xQuery": "発電機で一酸化炭素中毒 注意点"
     },
     {
       "time": "19:50",
