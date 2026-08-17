@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T21:09:47.103Z",
+  "updatedAt": "2026-08-17T21:40:56.461Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-08-17T20:06:19.000Z"
       },
       {
+        "time": "06:00",
+        "title": "顧客の工程集約や自動化推進､株価の割安感漂う工作機械株",
+        "source": "四季報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JSUtxMHlJUTBBYVBicmpYbTRvUEZBUHBqUk5KQkJsQW9HRW0yc0RtWlU4SXhPekcxWHBkalN3XzZmbmRPaW1mcE9ncEZLY2VTeTAxS2xmOA?oc=5",
+        "publishedAt": "2026-08-17T21:00:00.000Z"
+      },
+      {
         "time": "17:00",
         "title": "フレーム付きサーボモーターの世界市場（2026年～2032年）、市場規模（DC、AC）・分析レポートを発表",
         "source": "アットプレス",
@@ -29,13 +36,6 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CWGlIMndseDVEQTBTc25XYzBDWTQ0N0RrR2xPQ2RQMGM2NWN5cGlxUlh6M3B6Mk9FdzhTTEVGR3V5TDVzSldkeWlUM1VtOFN3T0lucU9tdnNPaEtZ?oc=5",
         "publishedAt": "2026-08-17T10:09:49.000Z"
-      },
-      {
-        "time": "06:09",
-        "title": "6月工作機械、52％大幅増 外需は過去最高",
-        "source": "金属産業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80VlFLV0ZpQjN0Ykhlai1vWFhsUEZVWkJYenlwbkhFUUc1R18xMnF2S21vbDJIVzFUT0JOcWxQV2VaZmxJM1dGZUhCcVJZLXpORXhzUVRtMWc?oc=5",
-        "publishedAt": "2026-08-16T21:09:48.000Z"
       },
       {
         "time": "10:51",
@@ -149,25 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "06:36",
+        "title": "ゴルフ場で働く19歳自殺 労災認定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592122?source=rss",
+        "publishedAt": "2026-08-17T21:36:04.000Z"
+      },
+      {
         "time": "06:08",
         "title": "殺人未遂罪の被告が行方不明 函館",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592120?source=rss",
         "publishedAt": "2026-08-17T21:08:10.000Z"
-      },
-      {
-        "time": "19:27",
-        "title": "福岡県議会 蔵内氏が議長辞任意向",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592099?source=rss",
-        "publishedAt": "2026-08-17T10:27:44.000Z"
-      },
-      {
-        "time": "17:32",
-        "title": "福岡県会議長の辞職勧告 採決中止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592084?source=rss",
-        "publishedAt": "2026-08-17T08:32:44.000Z"
       },
       {
         "time": "18:14",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592108?source=rss",
         "publishedAt": "2026-08-17T11:48:39.000Z"
+      },
+      {
+        "time": "19:50",
+        "title": "クマ3頭飛び出し 走行中の車衝突",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592101?source=rss",
+        "publishedAt": "2026-08-17T10:50:54.000Z"
       }
     ],
     "subsidyHeadlines": [

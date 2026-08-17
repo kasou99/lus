@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T21:09:47.997Z",
+  "updatedAt": "2026-08-17T21:40:57.217Z",
   "items": [
     {
       "time": "23:19",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "豪雨で車が浸水 金銭負担が心配"
     },
     {
+      "time": "06:36",
+      "title": "ゴルフ場で働く19歳自殺 労災認定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592122?source=rss",
+      "publishedAt": "2026-08-17T21:36:04.000Z",
+      "xQuery": "ゴルフ場で働く19歳自殺 労災認定"
+    },
+    {
       "time": "20:48",
       "title": "9日に流され行方不明の女性 救助",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "9日に流され行方不明の女性 救助"
     },
     {
-      "time": "23:03",
-      "title": "踏切開いたまま電車通過 東急電鉄",
+      "time": "06:08",
+      "title": "殺人未遂罪の被告が行方不明 函館",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592116?source=rss",
-      "publishedAt": "2026-08-17T14:03:44.000Z",
-      "xQuery": "踏切開いたまま電車通過 東急電鉄"
-    },
-    {
-      "time": "20:17",
-      "title": "ロケットナウ つまみ食い動画拡散",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592103?source=rss",
-      "publishedAt": "2026-08-17T11:17:11.000Z",
-      "xQuery": "ロケットナウ つまみ食い動画拡散"
+      "url": "https://news.yahoo.co.jp/pickup/6592120?source=rss",
+      "publishedAt": "2026-08-17T21:08:10.000Z",
+      "xQuery": "殺人未遂罪の被告が行方不明 函館"
     }
   ]
 };
