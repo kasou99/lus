@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T09:19:44.321Z",
+  "updatedAt": "2026-08-17T09:47:46.729Z",
   "items": [
     {
       "time": "16:26",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡県会議長の辞職勧告 採決中止"
     },
     {
-      "time": "15:55",
-      "title": "浸水で放射性廃液が漏えい 千葉市",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592072?source=rss",
-      "publishedAt": "2026-08-17T06:55:01.000Z",
-      "xQuery": "浸水で放射性廃液が漏えい 千葉市"
-    },
-    {
       "time": "18:11",
       "title": "11歳男児が海岸で溺れ死亡 新潟",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592090?source=rss",
       "publishedAt": "2026-08-17T09:11:48.000Z",
       "xQuery": "11歳男児が海岸で溺れ死亡 新潟"
+    },
+    {
+      "time": "18:14",
+      "title": "指名手配中の男 建物侵入疑い逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592089?source=rss",
+      "publishedAt": "2026-08-17T09:14:20.000Z",
+      "xQuery": "指名手配中の男 建物侵入疑い逮捕"
     }
   ]
 };
