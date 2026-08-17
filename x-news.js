@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T11:41:05.158Z",
+  "updatedAt": "2026-08-17T12:11:49.044Z",
   "items": [
     {
-      "time": "19:36",
-      "title": "熊本地震 月内にも支援パッケージ",
+      "time": "20:41",
+      "title": "熊本地震の断層破壊は約38km 調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592098?source=rss",
-      "publishedAt": "2026-08-17T10:36:44.000Z",
-      "xQuery": "熊本地震 月内にも支援パッケージ"
+      "url": "https://news.yahoo.co.jp/pickup/6592104?source=rss",
+      "publishedAt": "2026-08-17T11:41:20.000Z",
+      "xQuery": "熊本地震の断層破壊は約38km 調査"
     },
     {
       "time": "19:27",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592099?source=rss",
       "publishedAt": "2026-08-17T10:27:44.000Z",
       "xQuery": "福岡県議会 蔵内氏が議長辞任意向"
-    },
-    {
-      "time": "18:14",
-      "title": "指名手配中の男 建物侵入疑い逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592089?source=rss",
-      "publishedAt": "2026-08-17T09:14:20.000Z",
-      "xQuery": "指名手配中の男 建物侵入疑い逮捕"
     },
     {
       "time": "19:50",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592102?source=rss",
       "publishedAt": "2026-08-17T11:12:38.000Z",
       "xQuery": "ANAとJAL 互いにダイヤを調整へ"
+    },
+    {
+      "time": "20:48",
+      "title": "9日に流され行方不明の女性 救助",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592108?source=rss",
+      "publishedAt": "2026-08-17T11:48:39.000Z",
+      "xQuery": "9日に流され行方不明の女性 救助"
     }
   ]
 };
