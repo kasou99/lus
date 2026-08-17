@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-16T23:38:32.451Z",
+  "updatedAt": "2026-08-17T00:21:03.470Z",
   "items": [
+    {
+      "time": "09:15",
+      "title": "4-6月期の実質GDP 3期連続プラス",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592026?source=rss",
+      "publishedAt": "2026-08-17T00:15:29.000Z",
+      "xQuery": "4-6月期の実質GDP 3期連続プラス"
+    },
     {
       "time": "08:29",
       "title": "豪雨で放置車両 撤去見通し立たず",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592023?source=rss",
       "publishedAt": "2026-08-16T23:29:07.000Z",
       "xQuery": "豪雨で放置車両 撤去見通し立たず"
-    },
-    {
-      "time": "07:39",
-      "title": "介護保険証とマイナ 一体化を促進",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592015?source=rss",
-      "publishedAt": "2026-08-16T22:39:10.000Z",
-      "xQuery": "介護保険証とマイナ 一体化を促進"
     },
     {
       "time": "07:59",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大戸屋HD社長 海外出店を加速"
     },
     {
-      "time": "00:00",
-      "title": "オープンAI 経営幹部が相次ぎ退社",
+      "time": "08:59",
+      "title": "マンホールの蓋複数飛ぶ 民家破損",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592006?source=rss",
-      "publishedAt": "2026-08-16T15:00:50.000Z",
-      "xQuery": "オープンAI 経営幹部が相次ぎ退社"
+      "url": "https://news.yahoo.co.jp/pickup/6592025?source=rss",
+      "publishedAt": "2026-08-16T23:59:39.000Z",
+      "xQuery": "マンホールの蓋複数飛ぶ 民家破損"
     }
   ]
 };

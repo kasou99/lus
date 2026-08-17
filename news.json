@@ -1,13 +1,34 @@
 {
-  "updatedAt": "2026-08-16T23:38:31.505Z",
+  "updatedAt": "2026-08-17T00:21:02.905Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:00",
+        "title": "株式会社フジシールウエストが設備保全クラウド「M2X」を導入",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsUXdoMWhsXzNiZnB2RG45WTkwSjlRQ1pqVFZxTWJKLXRSU0JMaEprdG5DOU9uY1ZfbTRZSEpNQnBhcFM0MS1OZVlDRXFVUmZGSW80Zms0SEdaTkJ0Rm9LNXU4clR2Nk9BVUE?oc=5",
+        "publishedAt": "2026-08-17T00:00:02.000Z"
+      },
+      {
+        "time": "06:09",
+        "title": "6月工作機械、52％大幅増 外需は過去最高",
+        "source": "金属産業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80VlFLV0ZpQjN0Ykhlai1vWFhsUEZVWkJYenlwbkhFUUc1R18xMnF2S21vbDJIVzFUT0JOcWxQV2VaZmxJM1dGZUhCcVJZLXpORXhzUVRtMWc?oc=5",
+        "publishedAt": "2026-08-16T21:09:47.000Z"
+      },
       {
         "time": "05:02",
         "title": "機械大手の自動・省人化 内製ロボが独自の発展",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdTFhOWFWam1ob2NnMVdCbGllY01XN0REUHA3RmxPN2pYalFqNWtDZUtPeFlJY0l6SE40anZJWkd6UVlaWldiSEhnXzBxS1NJTkc0dHlxb1JPazQ?oc=5",
         "publishedAt": "2026-08-16T20:02:21.000Z"
+      },
+      {
+        "time": "08:52",
+        "title": "【注目決算７社】シチズン、テラプローブ、フェローテックなど、最高益・上方修正・ＡＩに注目 - kabu-ir.com",
+        "source": "kabu-ir.com",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zRzN5c25Vd2REQk9pR2RjdFVIWTFKcW00UzdYaEktSy03UHRYcFE4bTY0WFBpMkk2aVpod3Fnc2Zja0Y1azlZeHVqS1NNRk01bFo0Wg?oc=5",
+        "publishedAt": "2026-08-16T23:52:21.000Z"
       },
       {
         "time": "02:00",
@@ -31,32 +52,11 @@
         "publishedAt": "2026-08-16T01:28:24.000Z"
       },
       {
-        "time": "18:37",
-        "title": "千葉の車両撤去 JAFに要請が殺到",
+        "time": "09:15",
+        "title": "4-6月期の実質GDP 3期連続プラス",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591972?source=rss",
-        "publishedAt": "2026-08-16T09:37:55.000Z"
-      },
-      {
-        "time": "18:11",
-        "title": "地震で停電 教室育ちサーモン全滅",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591970?source=rss",
-        "publishedAt": "2026-08-16T09:11:21.000Z"
-      },
-      {
-        "time": "08:14",
-        "title": "大戸屋HD社長 海外出店を加速",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592019?source=rss",
-        "publishedAt": "2026-08-16T23:14:16.000Z"
-      },
-      {
-        "time": "10:38",
-        "title": "命の危険に直面 炎天下で働く人々",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591917?source=rss",
-        "publishedAt": "2026-08-16T01:38:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592026?source=rss",
+        "publishedAt": "2026-08-17T00:15:29.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:15",
+        "title": "4-6月期の実質GDP 3期連続プラス",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592026?source=rss",
+        "publishedAt": "2026-08-17T00:15:29.000Z"
+      },
+      {
         "time": "18:37",
         "title": "千葉の車両撤去 JAFに要請が殺到",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592019?source=rss",
         "publishedAt": "2026-08-16T23:14:16.000Z"
-      },
-      {
-        "time": "10:38",
-        "title": "命の危険に直面 炎天下で働く人々",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591917?source=rss",
-        "publishedAt": "2026-08-16T01:38:35.000Z"
       },
       {
         "time": "19:26",
