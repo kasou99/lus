@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T12:48:16.829Z",
+  "updatedAt": "2026-08-17T13:20:07.256Z",
   "items": [
     {
       "time": "20:41",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "発電機で一酸化炭素中毒 注意点"
     },
     {
+      "time": "18:14",
+      "title": "指名手配中の男 建物侵入疑い逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592089?source=rss",
+      "publishedAt": "2026-08-17T09:14:20.000Z",
+      "xQuery": "指名手配中の男 建物侵入疑い逮捕"
+    },
+    {
       "time": "19:50",
       "title": "クマ3頭飛び出し 走行中の車衝突",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592101?source=rss",
       "publishedAt": "2026-08-17T10:50:54.000Z",
       "xQuery": "クマ3頭飛び出し 走行中の車衝突"
-    },
-    {
-      "time": "20:12",
-      "title": "ANAとJAL 互いにダイヤを調整へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592102?source=rss",
-      "publishedAt": "2026-08-17T11:12:38.000Z",
-      "xQuery": "ANAとJAL 互いにダイヤを調整へ"
     },
     {
       "time": "20:48",
