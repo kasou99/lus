@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T00:50:03.915Z",
+  "updatedAt": "2026-08-17T01:34:05.534Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "05:02",
         "title": "機械大手の自動・省人化 内製ロボが独自の発展",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdTFhOWFWam1ob2NnMVdCbGllY01XN0REUHA3RmxPN2pYalFqNWtDZUtPeFlJY0l6SE40anZJWkd6UVlaWldiSEhnXzBxS1NJTkc0dHlxb1JPazQ?oc=5",
         "publishedAt": "2026-08-16T20:02:21.000Z"
       },
@@ -40,16 +40,9 @@
       {
         "time": "05:04",
         "title": "北九州市大、街のにぎわいをAIで創出 旦過市場に新キャンパス、28年3月完成",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MMUxJYk1GRnJvMWpFcWNPMzE3Q0xpS0R0NG9oSzJJN0RrNjI0NVp0LV85a0tFMXlzejJQdG9FdkpwbHc1dkpyV1g0MEE4X0NGdWFJT0p4Q2wtajRxVXNZVE9oeGNub29rOTBpbXRfN2cwRkg1?oc=5",
         "publishedAt": "2026-08-16T20:04:15.000Z"
-      },
-      {
-        "time": "10:28",
-        "title": "建築会社がつくる“牽引するお店”誕生!駐めた瞬間、そこが店舗になるトレーラー型ポップアップショップ",
-        "source": "クレアウェブ",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWbkRzNGpWdG56X3c1bXRSWDBPbjYzdlNsQkxoeUlUVTJpaE50cnVVbnVzR1pVZWdwbW1rOUVsOWxqNk9vdlBtRm9aamM4YjAtUm9oaVFQN0xISDVZaTJiNTZyQ0paUW84UzA5Z05hTnNLUQ?oc=5",
-        "publishedAt": "2026-08-16T01:28:24.000Z"
       },
       {
         "time": "09:15",
@@ -57,9 +50,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592026?source=rss",
         "publishedAt": "2026-08-17T00:15:29.000Z"
+      },
+      {
+        "time": "18:37",
+        "title": "千葉の車両撤去 JAFに要請が殺到",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6591972?source=rss",
+        "publishedAt": "2026-08-16T09:37:55.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "10:00",
+        "title": "米韓が軍事演習開始 北朝鮮は反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592032?source=rss",
+        "publishedAt": "2026-08-17T01:00:36.000Z"
+      },
       {
         "time": "07:20",
         "title": "トランプ氏 米韓軍事演習縮小指示",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591916?source=rss",
         "publishedAt": "2026-08-16T01:40:05.000Z"
-      },
-      {
-        "time": "14:38",
-        "title": "ベルギーで過去最大規模の山火事",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591943?source=rss",
-        "publishedAt": "2026-08-16T05:38:01.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-08-16T09:11:21.000Z"
       },
       {
+        "time": "09:54",
+        "title": "キャッシュレス決済 浸透に地域差",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592030?source=rss",
+        "publishedAt": "2026-08-17T00:54:18.000Z"
+      },
+      {
         "time": "08:14",
         "title": "大戸屋HD社長 海外出店を加速",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591977?source=rss",
         "publishedAt": "2026-08-16T10:26:05.000Z"
-      },
-      {
-        "time": "11:55",
-        "title": "プロテイン 価格の高騰止まらず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591929?source=rss",
-        "publishedAt": "2026-08-16T02:55:48.000Z"
       }
     ],
     "localHeadlines": [

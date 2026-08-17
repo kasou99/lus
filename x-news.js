@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T00:50:05.152Z",
+  "updatedAt": "2026-08-17T01:34:06.172Z",
   "items": [
     {
       "time": "09:15",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "4-6月期の実質GDP 3期連続プラス"
     },
     {
+      "time": "10:00",
+      "title": "米韓が軍事演習開始 北朝鮮は反発",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592032?source=rss",
+      "publishedAt": "2026-08-17T01:00:36.000Z",
+      "xQuery": "米韓が軍事演習開始 北朝鮮は反発"
+    },
+    {
       "time": "08:29",
       "title": "豪雨で放置車両 撤去見通し立たず",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592023?source=rss",
       "publishedAt": "2026-08-16T23:29:07.000Z",
       "xQuery": "豪雨で放置車両 撤去見通し立たず"
-    },
-    {
-      "time": "07:29",
-      "title": "石綿除去に免許制 日本は未導入",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592013?source=rss",
-      "publishedAt": "2026-08-16T22:29:17.000Z",
-      "xQuery": "石綿除去に免許制 日本は未導入"
     },
     {
       "time": "07:59",
