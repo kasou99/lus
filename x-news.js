@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T14:10:52.759Z",
+  "updatedAt": "2026-08-17T14:42:23.679Z",
   "items": [
     {
-      "time": "20:41",
-      "title": "熊本地震の断層破壊は約38km 調査",
+      "time": "23:19",
+      "title": "熊本地震3週間「関連死」防ぐには",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592104?source=rss",
-      "publishedAt": "2026-08-17T11:41:20.000Z",
-      "xQuery": "熊本地震の断層破壊は約38km 調査"
-    },
-    {
-      "time": "21:29",
-      "title": "発電機で一酸化炭素中毒 注意点",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592109?source=rss",
-      "publishedAt": "2026-08-17T12:29:10.000Z",
-      "xQuery": "発電機で一酸化炭素中毒 注意点"
+      "url": "https://news.yahoo.co.jp/pickup/6592118?source=rss",
+      "publishedAt": "2026-08-17T14:19:11.000Z",
+      "xQuery": "熊本地震3週間「関連死」防ぐには"
     },
     {
       "time": "22:36",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592116?source=rss",
       "publishedAt": "2026-08-17T14:03:44.000Z",
       "xQuery": "踏切開いたまま電車通過 東急電鉄"
+    },
+    {
+      "time": "20:17",
+      "title": "ロケットナウ つまみ食い動画拡散",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592103?source=rss",
+      "publishedAt": "2026-08-17T11:17:11.000Z",
+      "xQuery": "ロケットナウ つまみ食い動画拡散"
     }
   ]
 };
