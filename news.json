@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T16:08:26.594Z",
+  "updatedAt": "2026-08-17T16:43:17.742Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-08-16T21:09:48.000Z"
       },
       {
-        "time": "10:51",
-        "title": "株式会社フジシールウエストが設備保全クラウド「M2X」を導入",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TZERId1B1QlBWTVRNSzFfb2loUDE2NWk5V1k4RWtKbFFpcWRWNG9jZkpUbl9SektrQWxSd0FwWEJ0RzNPUlZsZnJRNGRpTndPNEE0S0gzbVJoUXQ3ZXdycmVSVjlrQjAwZ2lyVGRBTQ?oc=5",
-        "publishedAt": "2026-08-17T01:51:31.000Z"
-      },
-      {
         "time": "11:51",
         "title": "安川電機、セル統合制御 生産性2倍",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsTHNQaDloSU0yM2RXMVJTa3FFSkg2bmxmd3dma24zRTdaYktnRWJMeWEyRVVIVmxqbmoyTHVuekk4ZzhBbER4dkdiVzZTZktLWlR2dVc5djZLS0E?oc=5",
         "publishedAt": "2026-08-17T02:51:26.000Z"
+      },
+      {
+        "time": "10:51",
+        "title": "株式会社フジシールウエストが設備保全クラウド「M2X」を導入",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TZERId1B1QlBWTVRNSzFfb2loUDE2NWk5V1k4RWtKbFFpcWRWNG9jZkpUbl9SektrQWxSd0FwWEJ0RzNPUlZsZnJRNGRpTndPNEE0S0gzbVJoUXQ3ZXdycmVSVjlrQjAwZ2lyVGRBTQ?oc=5",
+        "publishedAt": "2026-08-17T01:51:31.000Z"
       },
       {
         "time": "10:32",
