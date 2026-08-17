@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T13:46:27.771Z",
+  "updatedAt": "2026-08-17T14:10:52.759Z",
   "items": [
     {
       "time": "20:41",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "発電機で一酸化炭素中毒 注意点"
     },
     {
-      "time": "18:14",
-      "title": "指名手配中の男 建物侵入疑い逮捕",
+      "time": "22:36",
+      "title": "豪雨で車が浸水 金銭負担が心配",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592089?source=rss",
-      "publishedAt": "2026-08-17T09:14:20.000Z",
-      "xQuery": "指名手配中の男 建物侵入疑い逮捕"
-    },
-    {
-      "time": "19:50",
-      "title": "クマ3頭飛び出し 走行中の車衝突",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592101?source=rss",
-      "publishedAt": "2026-08-17T10:50:54.000Z",
-      "xQuery": "クマ3頭飛び出し 走行中の車衝突"
+      "url": "https://news.yahoo.co.jp/pickup/6592117?source=rss",
+      "publishedAt": "2026-08-17T13:36:51.000Z",
+      "xQuery": "豪雨で車が浸水 金銭負担が心配"
     },
     {
       "time": "20:48",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592108?source=rss",
       "publishedAt": "2026-08-17T11:48:39.000Z",
       "xQuery": "9日に流され行方不明の女性 救助"
+    },
+    {
+      "time": "23:03",
+      "title": "踏切開いたまま電車通過 東急電鉄",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592116?source=rss",
+      "publishedAt": "2026-08-17T14:03:44.000Z",
+      "xQuery": "踏切開いたまま電車通過 東急電鉄"
     }
   ]
 };
