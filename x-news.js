@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T00:21:03.470Z",
+  "updatedAt": "2026-08-17T00:50:05.152Z",
   "items": [
     {
       "time": "09:15",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "豪雨で放置車両 撤去見通し立たず"
     },
     {
+      "time": "07:29",
+      "title": "石綿除去に免許制 日本は未導入",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592013?source=rss",
+      "publishedAt": "2026-08-16T22:29:17.000Z",
+      "xQuery": "石綿除去に免許制 日本は未導入"
+    },
+    {
       "time": "07:59",
       "title": "遊泳区域外で泳ぎ練習中 溺れ死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592020?source=rss",
       "publishedAt": "2026-08-16T22:59:17.000Z",
       "xQuery": "遊泳区域外で泳ぎ練習中 溺れ死亡"
-    },
-    {
-      "time": "08:14",
-      "title": "大戸屋HD社長 海外出店を加速",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592019?source=rss",
-      "publishedAt": "2026-08-16T23:14:16.000Z",
-      "xQuery": "大戸屋HD社長 海外出店を加速"
     },
     {
       "time": "08:59",
