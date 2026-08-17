@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T20:42:01.362Z",
+  "updatedAt": "2026-08-17T21:09:47.103Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -54,7 +54,7 @@
       {
         "time": "10:32",
         "title": "シチズン時計---買い先行も上げ幅縮小、27年3月期業績と配当予想を上方修正",
-        "source": "TradingView",
+        "source": "tradingview.com",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrMEhIYmlLdXV0Tll4RXlCWWV3R0VPSzQ1WVZscExhMTI1QTdlbDliZklTMmFqaF9MY3VBSFFrM2tnZEtVTE1BVjk0WlBGUUtaeEVidzd2YmpCa0hROWw1TUZJbUVTQQ?oc=5",
         "publishedAt": "2026-08-17T01:32:00.000Z"
       }
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "06:08",
+        "title": "殺人未遂罪の被告が行方不明 函館",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592120?source=rss",
+        "publishedAt": "2026-08-17T21:08:10.000Z"
+      },
+      {
         "time": "19:27",
         "title": "福岡県議会 蔵内氏が議長辞任意向",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592084?source=rss",
         "publishedAt": "2026-08-17T08:32:44.000Z"
-      },
-      {
-        "time": "15:55",
-        "title": "浸水で放射性廃液が漏えい 千葉市",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592072?source=rss",
-        "publishedAt": "2026-08-17T06:55:01.000Z"
       },
       {
         "time": "18:14",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
