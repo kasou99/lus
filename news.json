@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T07:50:02.500Z",
+  "updatedAt": "2026-08-17T08:18:58.680Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "16:52",
+        "title": "イラン 米軍へ再攻撃辞さない方針",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592076?source=rss",
+        "publishedAt": "2026-08-17T07:52:48.000Z"
+      },
+      {
         "time": "12:13",
         "title": "露とウ 民間施設への空爆相次ぐ",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592012?source=rss",
         "publishedAt": "2026-08-16T22:20:29.000Z"
-      },
-      {
-        "time": "22:44",
-        "title": "米イラン覚書期限 海峡開放見えず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592001?source=rss",
-        "publishedAt": "2026-08-16T13:44:26.000Z"
       },
       {
         "time": "09:36",

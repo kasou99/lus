@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T07:50:12.294Z",
+  "updatedAt": "2026-08-17T08:19:08.776Z",
   "items": [
     {
       "time": "13:31",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "露とウ 民間施設への空爆相次ぐ"
     },
     {
+      "time": "16:52",
+      "title": "イラン 米軍へ再攻撃辞さない方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592076?source=rss",
+      "publishedAt": "2026-08-17T07:52:48.000Z",
+      "xQuery": "イラン 米軍へ再攻撃辞さない方針"
+    },
+    {
       "time": "15:55",
       "title": "浸水で放射性廃液が漏えい 千葉市",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "浸水で放射性廃液が漏えい 千葉市"
     },
     {
-      "time": "14:45",
-      "title": "73歳運転 店に車突っ込み2人けが",
+      "time": "14:55",
+      "title": "キョン 千葉県から分布拡大の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592065?source=rss",
-      "publishedAt": "2026-08-17T05:45:11.000Z",
-      "xQuery": "73歳運転 店に車突っ込み2人けが"
-    },
-    {
-      "time": "13:52",
-      "title": "公園の名称 異例の決選投票で決定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592058?source=rss",
-      "publishedAt": "2026-08-17T04:52:52.000Z",
-      "xQuery": "公園の名称 異例の決選投票で決定"
+      "url": "https://news.yahoo.co.jp/pickup/6592066?source=rss",
+      "publishedAt": "2026-08-17T05:55:35.000Z",
+      "xQuery": "キョン 千葉県から分布拡大の恐れ"
     }
   ]
 };
