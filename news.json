@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T14:42:19.504Z",
+  "updatedAt": "2026-08-17T15:09:38.067Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-08-16T21:09:48.000Z"
       },
       {
-        "time": "10:51",
-        "title": "株式会社フジシールウエストが設備保全クラウド「M2X」を導入",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TZERId1B1QlBWTVRNSzFfb2loUDE2NWk5V1k4RWtKbFFpcWRWNG9jZkpUbl9SektrQWxSd0FwWEJ0RzNPUlZsZnJRNGRpTndPNEE0S0gzbVJoUXQ3ZXdycmVSVjlrQjAwZ2lyVGRBTQ?oc=5",
-        "publishedAt": "2026-08-17T01:51:31.000Z"
-      },
-      {
         "time": "11:51",
         "title": "安川電機、セル統合制御 生産性2倍",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsTHNQaDloSU0yM2RXMVJTa3FFSkg2bmxmd3dma24zRTdaYktnRWJMeWEyRVVIVmxqbmoyTHVuekk4ZzhBbER4dkdiVzZTZktLWlR2dVc5djZLS0E?oc=5",
         "publishedAt": "2026-08-17T02:51:26.000Z"
+      },
+      {
+        "time": "10:51",
+        "title": "株式会社フジシールウエストが設備保全クラウド「M2X」を導入",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TZERId1B1QlBWTVRNSzFfb2loUDE2NWk5V1k4RWtKbFFpcWRWNG9jZkpUbl9SektrQWxSd0FwWEJ0RzNPUlZsZnJRNGRpTndPNEE0S0gzbVJoUXQ3ZXdycmVSVjlrQjAwZ2lyVGRBTQ?oc=5",
+        "publishedAt": "2026-08-17T01:51:31.000Z"
       },
       {
         "time": "17:19",
@@ -46,9 +46,9 @@
       },
       {
         "time": "05:00",
-        "title": "北九州市大、街のにぎわいをAIで創出 旦過市場に新キャンパス、28年3月完成",
+        "title": "機械大手の自動・省人化 内製ロボが独自の発展",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82WlZaNHhmRWhEdHBlTXJWdWoxQUtUU0cycFFRVzFwb0RIRUpUQjVGQnp6Z0tXQzBmVlVURVlDNmFPdkZtNnI2NTdqbUx4VzVDcDhNMjZVVGg3RzA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdTFhOWFWam1ob2NnMVdCbGllY01XN0REUHA3RmxPN2pYalFqNWtDZUtPeFlJY0l6SE40anZJWkd6UVlaWldiSEhnXzBxS1NJTkc0dHlxb1JPazQ?oc=5",
         "publishedAt": "2026-08-16T20:00:00.000Z"
       },
       {
