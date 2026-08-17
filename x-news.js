@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T22:40:58.366Z",
+  "updatedAt": "2026-08-17T23:07:48.578Z",
   "items": [
     {
       "time": "07:18",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592125?source=rss",
       "publishedAt": "2026-08-17T22:18:17.000Z",
       "xQuery": "18日九州や山陰など35℃超 対策を"
-    },
-    {
-      "time": "22:36",
-      "title": "豪雨で車が浸水 金銭負担が心配",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592117?source=rss",
-      "publishedAt": "2026-08-17T13:36:51.000Z",
-      "xQuery": "豪雨で車が浸水 金銭負担が心配"
     },
     {
       "time": "07:05",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ゴルフ場で働く19歳自殺 労災認定"
     },
     {
-      "time": "06:08",
-      "title": "殺人未遂罪の被告が行方不明 函館",
+      "time": "07:53",
+      "title": "流され8日ぶり救助 食料でしのぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592120?source=rss",
-      "publishedAt": "2026-08-17T21:08:10.000Z",
-      "xQuery": "殺人未遂罪の被告が行方不明 函館"
+      "url": "https://news.yahoo.co.jp/pickup/6592129?source=rss",
+      "publishedAt": "2026-08-17T22:53:14.000Z",
+      "xQuery": "流され8日ぶり救助 食料でしのぐ"
+    },
+    {
+      "time": "06:24",
+      "title": "「モネの池」一変 抹茶みたいに",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592121?source=rss",
+      "publishedAt": "2026-08-17T21:24:09.000Z",
+      "xQuery": "「モネの池」一変 抹茶みたいに"
     }
   ]
 };
