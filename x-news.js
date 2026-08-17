@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T02:31:48.839Z",
+  "updatedAt": "2026-08-17T03:23:21.471Z",
   "items": [
     {
       "time": "11:16",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "長期金利が上昇 約30年ぶり高水準"
     },
     {
-      "time": "09:15",
-      "title": "各地で厳しい残暑 熱中症に注意",
+      "time": "11:52",
+      "title": "精神疾患の日本兵に感染人体実験",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592027?source=rss",
-      "publishedAt": "2026-08-17T00:15:02.000Z",
-      "xQuery": "各地で厳しい残暑 熱中症に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6592042?source=rss",
+      "publishedAt": "2026-08-17T02:52:38.000Z",
+      "xQuery": "精神疾患の日本兵に感染人体実験"
     },
     {
-      "time": "08:29",
-      "title": "豪雨で放置車両 撤去見通し立たず",
+      "time": "11:21",
+      "title": "定着するか 稼げるブルーカラー",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592023?source=rss",
-      "publishedAt": "2026-08-16T23:29:07.000Z",
-      "xQuery": "豪雨で放置車両 撤去見通し立たず"
+      "url": "https://news.yahoo.co.jp/pickup/6592038?source=rss",
+      "publishedAt": "2026-08-17T02:21:28.000Z",
+      "xQuery": "定着するか 稼げるブルーカラー"
     },
     {
-      "time": "08:59",
-      "title": "マンホールの蓋複数飛ぶ 民家破損",
+      "time": "11:43",
+      "title": "運転手引きずり降ろし車奪う 逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592025?source=rss",
-      "publishedAt": "2026-08-16T23:59:39.000Z",
-      "xQuery": "マンホールの蓋複数飛ぶ 民家破損"
+      "url": "https://news.yahoo.co.jp/pickup/6592047?source=rss",
+      "publishedAt": "2026-08-17T02:43:32.000Z",
+      "xQuery": "運転手引きずり降ろし車奪う 逃走"
     },
     {
       "time": "10:13",
