@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-08-17T01:34:05.534Z",
+  "updatedAt": "2026-08-17T02:31:47.914Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "09:00",
+        "time": "09:45",
+        "title": "機械大手の自動・省人化 内製ロボが独自の発展",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdTFhOWFWam1ob2NnMVdCbGllY01XN0REUHA3RmxPN2pYalFqNWtDZUtPeFlJY0l6SE40anZJWkd6UVlaWldiSEhnXzBxS1NJTkc0dHlxb1JPazQ?oc=5",
+        "publishedAt": "2026-08-17T00:45:37.000Z"
+      },
+      {
+        "time": "10:51",
         "title": "株式会社フジシールウエストが設備保全クラウド「M2X」を導入",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsUXdoMWhsXzNiZnB2RG45WTkwSjlRQ1pqVFZxTWJKLXRSU0JMaEprdG5DOU9uY1ZfbTRZSEpNQnBhcFM0MS1OZVlDRXFVUmZGSW80Zms0SEdaTkJ0Rm9LNXU4clR2Nk9BVUE?oc=5",
-        "publishedAt": "2026-08-17T00:00:02.000Z"
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GUzJoVzFvSmNMY1luN0RyTWt1RlJfR2ZDS1M2VjhGa05adVhQSno0XzJoNWlHc2R3TzEtLWRPck1FenFCMFU2T2FJcm1oZkVMLWI0UnNyWDVfcVA2VUp0amt1Q05VT3Fha2ljdDJVMlZ3Ri1mU3VQSXNnbw?oc=5",
+        "publishedAt": "2026-08-17T01:51:31.000Z"
       },
       {
         "time": "06:09",
-        "title": "6月工作機械、52％大幅増 外需は過去最高 - neji-bane.jp",
-        "source": "neji-bane.jp",
+        "title": "6月工作機械、52％大幅増 外需は過去最高",
+        "source": "金属産業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80VlFLV0ZpQjN0Ykhlai1vWFhsUEZVWkJYenlwbkhFUUc1R18xMnF2S21vbDJIVzFUT0JOcWxQV2VaZmxJM1dGZUhCcVJZLXpORXhzUVRtMWc?oc=5",
         "publishedAt": "2026-08-16T21:09:47.000Z"
-      },
-      {
-        "time": "05:02",
-        "title": "機械大手の自動・省人化 内製ロボが独自の発展",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdTFhOWFWam1ob2NnMVdCbGllY01XN0REUHA3RmxPN2pYalFqNWtDZUtPeFlJY0l6SE40anZJWkd6UVlaWldiSEhnXzBxS1NJTkc0dHlxb1JPazQ?oc=5",
-        "publishedAt": "2026-08-16T20:02:21.000Z"
       },
       {
         "time": "08:52",
@@ -31,32 +31,32 @@
         "publishedAt": "2026-08-16T23:52:21.000Z"
       },
       {
-        "time": "02:00",
-        "title": "DMG森精機、統合10年で半導体を顧客に 鬼門の海外M&Aで世界2位",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qR2hjZ081V19NYnZDdmZqOHU1blBSTUZUbE8tWWtoWWtidU5UVFJiSDVWNVlENjBGT0F2WjkyaV9vVnN1d2hJRHlHbmpnNkFPbE5pNE12dHNTVkdMQ3Z0WlFrQ3hBN0lQQTRWXw?oc=5",
-        "publishedAt": "2026-08-16T17:00:00.000Z"
-      },
-      {
         "time": "05:04",
         "title": "北九州市大、街のにぎわいをAIで創出 旦過市場に新キャンパス、28年3月完成",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MMUxJYk1GRnJvMWpFcWNPMzE3Q0xpS0R0NG9oSzJJN0RrNjI0NVp0LV85a0tFMXlzejJQdG9FdkpwbHc1dkpyV1g0MEE4X0NGdWFJT0p4Q2wtajRxVXNZVE9oeGNub29rOTBpbXRfN2cwRkg1?oc=5",
         "publishedAt": "2026-08-16T20:04:15.000Z"
       },
       {
-        "time": "09:15",
-        "title": "4-6月期の実質GDP 3期連続プラス",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592026?source=rss",
-        "publishedAt": "2026-08-17T00:15:29.000Z"
+        "time": "10:15",
+        "title": "第一実業、日本の定置型蓄電池メーカーのHOBE",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfS3hodzhjUzhoNk5OM2NpcVdNTG5zR1EzdXk3OHd3ZkYwMWMyNGFWNThFNXlXUDF4eEZEZGtRYlVFV1JzNUZTa2dSbTNaY2Q0amk2bjlENXhrMEpBcGZodmNjT2ZtcVRu?oc=5",
+        "publishedAt": "2026-08-17T01:15:15.000Z"
       },
       {
-        "time": "18:37",
-        "title": "千葉の車両撤去 JAFに要請が殺到",
+        "time": "05:01",
+        "title": "著者登場／久野康成氏『税理士3.0 経営参謀型税理士の使い方』",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmaXl6X1hFWWMtQmxLdkZoUjJzTldBSkhDVjlkSlhnYkI3N1d6ekViQl8wWFh6R1I2Q21YY2gzV3FTRm5SeEZYRXRONjRhWEpyRDFBUFZYRGgxeGs?oc=5",
+        "publishedAt": "2026-08-16T20:01:28.000Z"
+      },
+      {
+        "time": "11:16",
+        "title": "長期金利が上昇 約30年ぶり高水準",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591972?source=rss",
-        "publishedAt": "2026-08-16T09:37:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592041?source=rss",
+        "publishedAt": "2026-08-17T02:16:48.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "11:16",
+        "title": "長期金利が上昇 約30年ぶり高水準",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592041?source=rss",
+        "publishedAt": "2026-08-17T02:16:48.000Z"
+      },
+      {
         "time": "09:15",
         "title": "4-6月期の実質GDP 3期連続プラス",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592026?source=rss",
         "publishedAt": "2026-08-17T00:15:29.000Z"
-      },
-      {
-        "time": "18:37",
-        "title": "千葉の車両撤去 JAFに要請が殺到",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591972?source=rss",
-        "publishedAt": "2026-08-16T09:37:55.000Z"
       },
       {
         "time": "18:11",
@@ -133,11 +133,11 @@
         "publishedAt": "2026-08-17T00:54:18.000Z"
       },
       {
-        "time": "08:14",
-        "title": "大戸屋HD社長 海外出店を加速",
+        "time": "11:21",
+        "title": "定着するか 稼げるブルーカラー",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592019?source=rss",
-        "publishedAt": "2026-08-16T23:14:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592038?source=rss",
+        "publishedAt": "2026-08-17T02:21:28.000Z"
       },
       {
         "time": "19:26",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },

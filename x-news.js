@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T01:34:06.172Z",
+  "updatedAt": "2026-08-17T02:31:48.839Z",
   "items": [
     {
-      "time": "09:15",
-      "title": "4-6月期の実質GDP 3期連続プラス",
+      "time": "11:16",
+      "title": "長期金利が上昇 約30年ぶり高水準",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592026?source=rss",
-      "publishedAt": "2026-08-17T00:15:29.000Z",
-      "xQuery": "4-6月期の実質GDP 3期連続プラス"
+      "url": "https://news.yahoo.co.jp/pickup/6592041?source=rss",
+      "publishedAt": "2026-08-17T02:16:48.000Z",
+      "xQuery": "長期金利が上昇 約30年ぶり高水準"
     },
     {
-      "time": "10:00",
-      "title": "米韓が軍事演習開始 北朝鮮は反発",
+      "time": "09:15",
+      "title": "各地で厳しい残暑 熱中症に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592032?source=rss",
-      "publishedAt": "2026-08-17T01:00:36.000Z",
-      "xQuery": "米韓が軍事演習開始 北朝鮮は反発"
+      "url": "https://news.yahoo.co.jp/pickup/6592027?source=rss",
+      "publishedAt": "2026-08-17T00:15:02.000Z",
+      "xQuery": "各地で厳しい残暑 熱中症に注意"
     },
     {
       "time": "08:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "豪雨で放置車両 撤去見通し立たず"
     },
     {
-      "time": "07:59",
-      "title": "遊泳区域外で泳ぎ練習中 溺れ死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592020?source=rss",
-      "publishedAt": "2026-08-16T22:59:17.000Z",
-      "xQuery": "遊泳区域外で泳ぎ練習中 溺れ死亡"
-    },
-    {
       "time": "08:59",
       "title": "マンホールの蓋複数飛ぶ 民家破損",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592025?source=rss",
       "publishedAt": "2026-08-16T23:59:39.000Z",
       "xQuery": "マンホールの蓋複数飛ぶ 民家破損"
+    },
+    {
+      "time": "10:13",
+      "title": "岩国のシロヘビ 1年間で281匹死ぬ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592033?source=rss",
+      "publishedAt": "2026-08-17T01:13:38.000Z",
+      "xQuery": "岩国のシロヘビ 1年間で281匹死ぬ"
     }
   ]
 };
