@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T08:47:56.926Z",
+  "updatedAt": "2026-08-17T09:19:43.550Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,25 @@
         "publishedAt": "2026-08-16T21:09:47.000Z"
       },
       {
-        "time": "10:51",
-        "title": "株式会社フジシールウエストが設備保全クラウド「M2X」を導入",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GUzJoVzFvSmNMY1luN0RyTWt1RlJfR2ZDS1M2VjhGa05adVhQSno0XzJoNWlHc2R3TzEtLWRPck1FenFCMFU2T2FJcm1oZkVMLWI0UnNyWDVfcVA2VUp0amt1Q05VT3Fha2ljdDJVMlZ3Ri1mU3VQSXNnbw?oc=5",
-        "publishedAt": "2026-08-17T01:51:31.000Z"
-      },
-      {
         "time": "11:51",
         "title": "安川電機、セル統合制御 生産性2倍",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsTHNQaDloSU0yM2RXMVJTa3FFSkg2bmxmd3dma24zRTdaYktnRWJMeWEyRVVIVmxqbmoyTHVuekk4ZzhBbER4dkdiVzZTZktLWlR2dVc5djZLS0E?oc=5",
         "publishedAt": "2026-08-17T02:51:26.000Z"
+      },
+      {
+        "time": "10:51",
+        "title": "株式会社フジシールウエストが設備保全クラウド「M2X」を導入",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4VEtsVXRwWnZzY2pWcHluMXFzYUZpb0dlT1dDQUJsTTZuYkZYMHZhQTBUR25FWGtjdjE4eDJaMXVPUVhsUTFNRnQxemI5aE5Qc3BVYWRucE1EUzVzVHFySmloVHZtZHp4R09sd1A4NEtJY2RYR0E?oc=5",
+        "publishedAt": "2026-08-17T01:51:31.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "機械大手の自動・省人化 内製ロボが独自の発展",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdTFhOWFWam1ob2NnMVdCbGllY01XN0REUHA3RmxPN2pYalFqNWtDZUtPeFlJY0l6SE40anZJWkd6UVlaWldiSEhnXzBxS1NJTkc0dHlxb1JPazQ?oc=5",
+        "publishedAt": "2026-08-16T20:00:00.000Z"
       },
       {
         "time": "16:51",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-08-16T20:04:15.000Z"
       },
       {
-        "time": "10:32",
-        "title": "シチズン時計---買い先行も上げ幅縮小、27年3月期業績と配当予想を上方修正",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeldzUHdLbHFrRUgtak5CVGtTVkFtaWNXZVZVRkJPSE1hRWJpdTJtQTQ4dmZXMmtTNTFCampVWHZwa3VWM2ZoUk1QdVNmdHpNSVczWDdXMUFKbUJuQmtJZ1FQQXZmRWpqZVQtM3ZGUzREb25uem05OWxoWElBTy0xVG8zbTlRMjhSWGQ5a9IBjAFBVV95cUxPeldzUHdLbHFrRUgtak5CVGtTVkFtaWNXZVZVRkJPSE1hRWJpdTJtQTQ4dmZXMmtTNTFCampVWHZwa3VWM2ZoUk1QdVNmdHpNSVczWDdXMUFKbUJuQmtJZ1FQQXZmRWpqZVQtM3ZGUzREb25uem05OWxoWElBTy0xVG8zbTlRMjhSWGQ5aw?oc=5",
-        "publishedAt": "2026-08-17T01:32:00.000Z"
-      },
-      {
-        "time": "08:52",
-        "title": "【注目決算７社】シチズン、テラプローブ、フェローテックなど、最高益・上方修正・ＡＩに注目 - kabu-ir.com",
-        "source": "kabu-ir.com",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zRzN5c25Vd2REQk9pR2RjdFVIWTFKcW00UzdYaEktSy03UHRYcFE4bTY0WFBpMkk2aVpod3Fnc2Zja0Y1azlZeHVqS1NNRk01bFo0Wg?oc=5",
-        "publishedAt": "2026-08-16T23:52:21.000Z"
+        "time": "14:00",
+        "title": "ジェイテクト、グループ会社 ジェイテクトサーモシステム「SEMICON Taiwan 2026」出展",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JMnEwM3Ewam53QTZYeVh2VVFGX3BrSUk1dDg3RThSRkszM2UydV9yblRFc3pOT0FxZERlTG9Dc0ZFQUJ4UWdZbVpJT1AxbVRyZ3ZtcnBGTmlRSm9vODRsNUdVWXJfak5URUVFOXB4a3pSdzR0Ym9fRU00WQ?oc=5",
+        "publishedAt": "2026-08-17T05:00:24.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-08-17T02:16:48.000Z"
       },
       {
-        "time": "09:15",
-        "title": "4-6月期の実質GDP 3期連続プラス",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592026?source=rss",
-        "publishedAt": "2026-08-17T00:15:29.000Z"
-      },
-      {
         "time": "16:33",
         "title": "楽天 迎撃ドローンで独企業と提携",
         "source": "Yahoo!ニュース",
@@ -131,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591970?source=rss",
         "publishedAt": "2026-08-16T09:11:21.000Z"
+      },
+      {
+        "time": "18:12",
+        "title": "葬儀の料金複雑化 トラブル絶えず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592088?source=rss",
+        "publishedAt": "2026-08-17T09:12:15.000Z"
       },
       {
         "time": "09:54",
@@ -148,13 +148,6 @@
       }
     ],
     "localHeadlines": [
-      {
-        "time": "13:45",
-        "title": "旅館などへの2次避難進まず 熊本",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592057?source=rss",
-        "publishedAt": "2026-08-17T04:45:01.000Z"
-      },
       {
         "time": "13:28",
         "title": "千葉で遺体 豪雨で不明の男性か",
@@ -177,11 +170,18 @@
         "publishedAt": "2026-08-17T08:32:44.000Z"
       },
       {
-        "time": "17:26",
-        "title": "11歳が海岸で溺れ心肺停止 新潟",
+        "time": "18:11",
+        "title": "11歳男児が海岸で溺れ死亡 新潟",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592085?source=rss",
-        "publishedAt": "2026-08-17T08:26:21.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592090?source=rss",
+        "publishedAt": "2026-08-17T09:11:48.000Z"
+      },
+      {
+        "time": "18:14",
+        "title": "指名手配中の男 建物侵入疑い逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592089?source=rss",
+        "publishedAt": "2026-08-17T09:14:20.000Z"
       },
       {
         "time": "11:43",

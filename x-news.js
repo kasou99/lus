@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T08:47:57.704Z",
+  "updatedAt": "2026-08-17T09:19:44.321Z",
   "items": [
-    {
-      "time": "16:52",
-      "title": "イラン 米軍へ再攻撃辞さない方針",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592076?source=rss",
-      "publishedAt": "2026-08-17T07:52:48.000Z",
-      "xQuery": "イラン 米軍へ再攻撃辞さない方針"
-    },
     {
       "time": "16:26",
       "title": "コロンビア地震 日本が物資供与へ",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592074?source=rss",
       "publishedAt": "2026-08-17T07:26:32.000Z",
       "xQuery": "コロンビア地震 日本が物資供与へ"
+    },
+    {
+      "time": "15:46",
+      "title": "EU 対露制裁を大幅拡大の方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592071?source=rss",
+      "publishedAt": "2026-08-17T06:46:28.000Z",
+      "xQuery": "EU 対露制裁を大幅拡大の方針"
     },
     {
       "time": "17:32",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "浸水で放射性廃液が漏えい 千葉市"
     },
     {
-      "time": "17:26",
-      "title": "11歳が海岸で溺れ心肺停止 新潟",
+      "time": "18:11",
+      "title": "11歳男児が海岸で溺れ死亡 新潟",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592085?source=rss",
-      "publishedAt": "2026-08-17T08:26:21.000Z",
-      "xQuery": "11歳が海岸で溺れ心肺停止 新潟"
+      "url": "https://news.yahoo.co.jp/pickup/6592090?source=rss",
+      "publishedAt": "2026-08-17T09:11:48.000Z",
+      "xQuery": "11歳男児が海岸で溺れ死亡 新潟"
     }
   ]
 };
