@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T05:16:49.286Z",
+  "updatedAt": "2026-08-17T05:45:02.972Z",
   "items": [
     {
       "time": "13:45",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "精神疾患の日本兵に感染人体実験"
     },
     {
-      "time": "11:21",
-      "title": "定着するか 稼げるブルーカラー",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592038?source=rss",
-      "publishedAt": "2026-08-17T02:21:28.000Z",
-      "xQuery": "定着するか 稼げるブルーカラー"
-    },
-    {
       "time": "13:51",
       "title": "コンゴ エボラ感染者の約半数死亡",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592056?source=rss",
       "publishedAt": "2026-08-17T04:28:03.000Z",
       "xQuery": "千葉で遺体 豪雨で不明の男性か"
+    },
+    {
+      "time": "11:43",
+      "title": "運転手引きずり降ろし車奪う 逃走",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592047?source=rss",
+      "publishedAt": "2026-08-17T02:43:32.000Z",
+      "xQuery": "運転手引きずり降ろし車奪う 逃走"
     }
   ]
 };
