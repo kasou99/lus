@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T08:19:08.776Z",
+  "updatedAt": "2026-08-17T08:47:57.704Z",
   "items": [
-    {
-      "time": "13:31",
-      "title": "「都構想」と「副首都」巡る課題",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592046?source=rss",
-      "publishedAt": "2026-08-17T04:31:22.000Z",
-      "xQuery": "「都構想」と「副首都」巡る課題"
-    },
-    {
-      "time": "12:13",
-      "title": "露とウ 民間施設への空爆相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592052?source=rss",
-      "publishedAt": "2026-08-17T03:13:53.000Z",
-      "xQuery": "露とウ 民間施設への空爆相次ぐ"
-    },
     {
       "time": "16:52",
       "title": "イラン 米軍へ再攻撃辞さない方針",
@@ -24,6 +8,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592076?source=rss",
       "publishedAt": "2026-08-17T07:52:48.000Z",
       "xQuery": "イラン 米軍へ再攻撃辞さない方針"
+    },
+    {
+      "time": "16:26",
+      "title": "コロンビア地震 日本が物資供与へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592074?source=rss",
+      "publishedAt": "2026-08-17T07:26:32.000Z",
+      "xQuery": "コロンビア地震 日本が物資供与へ"
+    },
+    {
+      "time": "17:32",
+      "title": "福岡県会議長の辞職勧告 採決中止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592084?source=rss",
+      "publishedAt": "2026-08-17T08:32:44.000Z",
+      "xQuery": "福岡県会議長の辞職勧告 採決中止"
     },
     {
       "time": "15:55",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "浸水で放射性廃液が漏えい 千葉市"
     },
     {
-      "time": "14:55",
-      "title": "キョン 千葉県から分布拡大の恐れ",
+      "time": "17:26",
+      "title": "11歳が海岸で溺れ心肺停止 新潟",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592066?source=rss",
-      "publishedAt": "2026-08-17T05:55:35.000Z",
-      "xQuery": "キョン 千葉県から分布拡大の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6592085?source=rss",
+      "publishedAt": "2026-08-17T08:26:21.000Z",
+      "xQuery": "11歳が海岸で溺れ心肺停止 新潟"
     }
   ]
 };
