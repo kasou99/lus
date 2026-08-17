@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T09:47:45.982Z",
+  "updatedAt": "2026-08-17T10:13:46.840Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,25 @@
         "publishedAt": "2026-08-17T08:19:42.000Z"
       },
       {
-        "time": "10:51",
-        "title": "株式会社フジシールウエストが設備保全クラウド「M2X」を導入",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GUzJoVzFvSmNMY1luN0RyTWt1RlJfR2ZDS1M2VjhGa05adVhQSno0XzJoNWlHc2R3TzEtLWRPck1FenFCMFU2T2FJcm1oZkVMLWI0UnNyWDVfcVA2VUp0amt1Q05VT3Fha2ljdDJVMlZ3Ri1mU3VQSXNnbw?oc=5",
-        "publishedAt": "2026-08-17T01:51:31.000Z"
-      },
-      {
         "time": "11:51",
         "title": "安川電機、セル統合制御 生産性2倍",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsTHNQaDloSU0yM2RXMVJTa3FFSkg2bmxmd3dma24zRTdaYktnRWJMeWEyRVVIVmxqbmoyTHVuekk4ZzhBbER4dkdiVzZTZktLWlR2dVc5djZLS0E?oc=5",
         "publishedAt": "2026-08-17T02:51:26.000Z"
+      },
+      {
+        "time": "10:51",
+        "title": "株式会社フジシールウエストが設備保全クラウド「M2X」を導入",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4VEtsVXRwWnZzY2pWcHluMXFzYUZpb0dlT1dDQUJsTTZuYkZYMHZhQTBUR25FWGtjdjE4eDJaMXVPUVhsUTFNRnQxemI5aE5Qc3BVYWRucE1EUzVzVHFySmloVHZtZHp4R09sd1A4NEtJY2RYR0E?oc=5",
+        "publishedAt": "2026-08-17T01:51:31.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "機械大手の自動・省人化 内製ロボが独自の発展",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdTFhOWFWam1ob2NnMVdCbGllY01XN0REUHA3RmxPN2pYalFqNWtDZUtPeFlJY0l6SE40anZJWkd6UVlaWldiSEhnXzBxS1NJTkc0dHlxb1JPazQ?oc=5",
+        "publishedAt": "2026-08-16T20:00:00.000Z"
       },
       {
         "time": "17:14",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhZ3RsaFR3SnpLaWc0WG4xTTJHYThRU0pyYnRNcFIyNkRIV2dGS1dnQ0kzRGo5THItVWxuem5Mb2NINEYyZXlxZktYX3NfeVh4X3ZtWXJjdzJQMndXTmdhbFRtVWZuR1g2UHFPRkpKTXlPVVZLVHdIbktUVQ?oc=5",
         "publishedAt": "2026-08-17T07:51:17.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "北九州市大、街のにぎわいをAIで創出 旦過市場に新キャンパス、28年3月完成",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82WlZaNHhmRWhEdHBlTXJWdWoxQUtUU0cycFFRVzFwb0RIRUpUQjVGQnp6Z0tXQzBmVlVURVlDNmFPdkZtNnI2NTdqbUx4VzVDcDhNMjZVVGg3RzA?oc=5",
-        "publishedAt": "2026-08-16T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
