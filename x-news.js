@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T03:23:21.471Z",
+  "updatedAt": "2026-08-17T03:48:56.736Z",
   "items": [
     {
       "time": "11:16",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "運転手引きずり降ろし車奪う 逃走"
     },
     {
-      "time": "10:13",
-      "title": "岩国のシロヘビ 1年間で281匹死ぬ",
+      "time": "11:03",
+      "title": "篠山輝信さん 事務所との裁判語る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592033?source=rss",
-      "publishedAt": "2026-08-17T01:13:38.000Z",
-      "xQuery": "岩国のシロヘビ 1年間で281匹死ぬ"
+      "url": "https://news.yahoo.co.jp/pickup/6592036?source=rss",
+      "publishedAt": "2026-08-17T02:03:17.000Z",
+      "xQuery": "篠山輝信さん 事務所との裁判語る"
     }
   ]
 };
