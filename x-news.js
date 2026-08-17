@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T06:49:31.548Z",
+  "updatedAt": "2026-08-17T07:25:27.951Z",
   "items": [
     {
-      "time": "13:45",
-      "title": "旅館などへの2次避難進まず 熊本",
+      "time": "13:31",
+      "title": "「都構想」と「副首都」巡る課題",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592057?source=rss",
-      "publishedAt": "2026-08-17T04:45:01.000Z",
-      "xQuery": "旅館などへの2次避難進まず 熊本"
+      "url": "https://news.yahoo.co.jp/pickup/6592046?source=rss",
+      "publishedAt": "2026-08-17T04:31:22.000Z",
+      "xQuery": "「都構想」と「副首都」巡る課題"
     },
     {
-      "time": "13:51",
-      "title": "コンゴ エボラ感染者の約半数死亡",
+      "time": "12:13",
+      "title": "露とウ 民間施設への空爆相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592059?source=rss",
-      "publishedAt": "2026-08-17T04:51:35.000Z",
-      "xQuery": "コンゴ エボラ感染者の約半数死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6592052?source=rss",
+      "publishedAt": "2026-08-17T03:13:53.000Z",
+      "xQuery": "露とウ 民間施設への空爆相次ぐ"
+    },
+    {
+      "time": "15:55",
+      "title": "浸水で放射性廃液が漏えい 千葉市",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592072?source=rss",
+      "publishedAt": "2026-08-17T06:55:01.000Z",
+      "xQuery": "浸水で放射性廃液が漏えい 千葉市"
     },
     {
       "time": "14:45",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592065?source=rss",
       "publishedAt": "2026-08-17T05:45:11.000Z",
       "xQuery": "73歳運転 店に車突っ込み2人けが"
-    },
-    {
-      "time": "09:54",
-      "title": "キャッシュレス決済 浸透に地域差",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592030?source=rss",
-      "publishedAt": "2026-08-17T00:54:18.000Z",
-      "xQuery": "キャッシュレス決済 浸透に地域差"
     },
     {
       "time": "14:55",

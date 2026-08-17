@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-17T06:49:30.131Z",
+  "updatedAt": "2026-08-17T07:25:27.106Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "10:45",
-        "title": "株式会社フジシールウエストが設備保全クラウド「M2X」を導入｜Infoseekニュース",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54S2RHdDdEc2JUZjZXb3dZWTVvdmNLaGRwa21ueThfQ1ZlQnZ0WE12YmVEa3hmR2pqS3d2a0VMcXU3TFljZkstRm9YN3pFQ1ZQZWdEdzhNcTEzUlQzTVZVNXFNM1JJdS02b1EtVmtIajcxUQ?oc=5",
-        "publishedAt": "2026-08-17T01:45:32.000Z"
-      },
       {
         "time": "09:45",
         "title": "機械大手の自動・省人化 内製ロボが独自の発展",
@@ -18,10 +11,17 @@
       },
       {
         "time": "06:09",
-        "title": "6月工作機械、52％大幅増 外需は過去最高 - neji-bane.jp",
-        "source": "neji-bane.jp",
+        "title": "6月工作機械、52％大幅増 外需は過去最高",
+        "source": "金属産業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80VlFLV0ZpQjN0Ykhlai1vWFhsUEZVWkJYenlwbkhFUUc1R18xMnF2S21vbDJIVzFUT0JOcWxQV2VaZmxJM1dGZUhCcVJZLXpORXhzUVRtMWc?oc=5",
         "publishedAt": "2026-08-16T21:09:47.000Z"
+      },
+      {
+        "time": "10:51",
+        "title": "株式会社フジシールウエストが設備保全クラウド「M2X」を導入",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4VEtsVXRwWnZzY2pWcHluMXFzYUZpb0dlT1dDQUJsTTZuYkZYMHZhQTBUR25FWGtjdjE4eDJaMXVPUVhsUTFNRnQxemI5aE5Qc3BVYWRucE1EUzVzVHFySmloVHZtZHp4R09sd1A4NEtJY2RYR0E?oc=5",
+        "publishedAt": "2026-08-17T01:51:31.000Z"
       },
       {
         "time": "10:32",
@@ -31,18 +31,18 @@
         "publishedAt": "2026-08-17T01:32:00.000Z"
       },
       {
-        "time": "14:00",
-        "title": "ジェイテクト、グループ会社 ジェイテクトサーモシステム「SEMICON Taiwan 2026」出展",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JMnEwM3Ewam53QTZYeVh2VVFGX3BrSUk1dDg3RThSRkszM2UydV9yblRFc3pOT0FxZERlTG9Dc0ZFQUJ4UWdZbVpJT1AxbVRyZ3ZtcnBGTmlRSm9vODRsNUdVWXJfak5URUVFOXB4a3pSdzR0Ym9fRU00WQ?oc=5",
-        "publishedAt": "2026-08-17T05:00:24.000Z"
-      },
-      {
         "time": "11:51",
         "title": "安川電機、セル統合制御 生産性2倍",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsTHNQaDloSU0yM2RXMVJTa3FFSkg2bmxmd3dma24zRTdaYktnRWJMeWEyRVVIVmxqbmoyTHVuekk4ZzhBbER4dkdiVzZTZktLWlR2dVc5djZLS0E?oc=5",
         "publishedAt": "2026-08-17T02:51:26.000Z"
+      },
+      {
+        "time": "14:00",
+        "title": "ジェイテクト、グループ会社 ジェイテクトサーモシステム「SEMICON Taiwan 2026」出展",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JMnEwM3Ewam53QTZYeVh2VVFGX3BrSUk1dDg3RThSRkszM2UydV9yblRFc3pOT0FxZERlTG9Dc0ZFQUJ4UWdZbVpJT1AxbVRyZ3ZtcnBGTmlRSm9vODRsNUdVWXJfak5URUVFOXB4a3pSdzR0Ym9fRU00WQ?oc=5",
+        "publishedAt": "2026-08-17T05:00:24.000Z"
       },
       {
         "time": "05:04",
@@ -156,18 +156,18 @@
         "publishedAt": "2026-08-17T04:45:01.000Z"
       },
       {
+        "time": "15:55",
+        "title": "浸水で放射性廃液が漏えい 千葉市",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592072?source=rss",
+        "publishedAt": "2026-08-17T06:55:01.000Z"
+      },
+      {
         "time": "13:28",
         "title": "千葉で遺体 豪雨で不明の男性か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592056?source=rss",
         "publishedAt": "2026-08-17T04:28:03.000Z"
-      },
-      {
-        "time": "12:59",
-        "title": "千葉豪雨 冠水で高齢者施設が孤立",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592053?source=rss",
-        "publishedAt": "2026-08-17T03:59:28.000Z"
       },
       {
         "time": "11:43",
