@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T03:48:56.736Z",
+  "updatedAt": "2026-08-17T04:19:06.179Z",
   "items": [
     {
-      "time": "11:16",
-      "title": "長期金利が上昇 約30年ぶり高水準",
+      "time": "12:59",
+      "title": "千葉豪雨 冠水で高齢者施設が孤立",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592041?source=rss",
-      "publishedAt": "2026-08-17T02:16:48.000Z",
-      "xQuery": "長期金利が上昇 約30年ぶり高水準"
+      "url": "https://news.yahoo.co.jp/pickup/6592053?source=rss",
+      "publishedAt": "2026-08-17T03:59:28.000Z",
+      "xQuery": "千葉豪雨 冠水で高齢者施設が孤立"
     },
     {
       "time": "11:52",

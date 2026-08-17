@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T03:48:55.667Z",
+  "updatedAt": "2026-08-17T04:19:05.223Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-08-16T21:09:47.000Z"
       },
       {
+        "time": "10:32",
+        "title": "シチズン時計---買い先行も上げ幅縮小、27年3月期業績と配当予想を上方修正",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeldzUHdLbHFrRUgtak5CVGtTVkFtaWNXZVZVRkJPSE1hRWJpdTJtQTQ4dmZXMmtTNTFCampVWHZwa3VWM2ZoUk1QdVNmdHpNSVczWDdXMUFKbUJuQmtJZ1FQQXZmRWpqZVQtM3ZGUzREb25uem05OWxoWElBTy0xVG8zbTlRMjhSWGQ5a9IBjAFBVV95cUxPeldzUHdLbHFrRUgtak5CVGtTVkFtaWNXZVZVRkJPSE1hRWJpdTJtQTQ4dmZXMmtTNTFCampVWHZwa3VWM2ZoUk1QdVNmdHpNSVczWDdXMUFKbUJuQmtJZ1FQQXZmRWpqZVQtM3ZGUzREb25uem05OWxoWElBTy0xVG8zbTlRMjhSWGQ5aw?oc=5",
+        "publishedAt": "2026-08-17T01:32:00.000Z"
+      },
+      {
         "time": "11:51",
         "title": "安川電機、セル統合制御 生産性2倍",
         "source": "日刊工業新聞",
@@ -43,13 +50,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmaXl6X1hFWWMtQmxLdkZoUjJzTldBSkhDVjlkSlhnYkI3N1d6ekViQl8wWFh6R1I2Q21YY2gzV3FTRm5SeEZYRXRONjRhWEpyRDFBUFZYRGgxeGs?oc=5",
         "publishedAt": "2026-08-16T20:01:28.000Z"
-      },
-      {
-        "time": "10:32",
-        "title": "シチズン時計---買い先行も上げ幅縮小、27年3月期業績と配当予想を上方修正",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeldzUHdLbHFrRUgtak5CVGtTVkFtaWNXZVZVRkJPSE1hRWJpdTJtQTQ4dmZXMmtTNTFCampVWHZwa3VWM2ZoUk1QdVNmdHpNSVczWDdXMUFKbUJuQmtJZ1FQQXZmRWpqZVQtM3ZGUzREb25uem05OWxoWElBTy0xVG8zbTlRMjhSWGQ5a9IBjAFBVV95cUxPeldzUHdLbHFrRUgtak5CVGtTVkFtaWNXZVZVRkJPSE1hRWJpdTJtQTQ4dmZXMmtTNTFCampVWHZwa3VWM2ZoUk1QdVNmdHpNSVczWDdXMUFKbUJuQmtJZ1FQQXZmRWpqZVQtM3ZGUzREb25uem05OWxoWElBTy0xVG8zbTlRMjhSWGQ5aw?oc=5",
-        "publishedAt": "2026-08-17T01:32:00.000Z"
       },
       {
         "time": "08:52",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "12:59",
+        "title": "千葉豪雨 冠水で高齢者施設が孤立",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592053?source=rss",
+        "publishedAt": "2026-08-17T03:59:28.000Z"
+      },
+      {
         "time": "08:29",
         "title": "豪雨で放置車両 撤去見通し立たず",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592023?source=rss",
         "publishedAt": "2026-08-16T23:29:07.000Z"
-      },
-      {
-        "time": "22:00",
-        "title": "千葉市の川沿いに遺体 豪雨関連か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591994?source=rss",
-        "publishedAt": "2026-08-16T13:00:18.000Z"
       },
       {
         "time": "07:26",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
