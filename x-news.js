@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T22:08:01.170Z",
+  "updatedAt": "2026-08-17T22:40:58.366Z",
   "items": [
     {
-      "time": "23:19",
-      "title": "熊本地震3週間「関連死」防ぐには",
+      "time": "07:18",
+      "title": "18日九州や山陰など35℃超 対策を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592118?source=rss",
-      "publishedAt": "2026-08-17T14:19:11.000Z",
-      "xQuery": "熊本地震3週間「関連死」防ぐには"
+      "url": "https://news.yahoo.co.jp/pickup/6592125?source=rss",
+      "publishedAt": "2026-08-17T22:18:17.000Z",
+      "xQuery": "18日九州や山陰など35℃超 対策を"
     },
     {
       "time": "22:36",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "豪雨で車が浸水 金銭負担が心配"
     },
     {
+      "time": "07:05",
+      "title": "露が日本大使に出頭要請 抗議受け",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592124?source=rss",
+      "publishedAt": "2026-08-17T22:05:13.000Z",
+      "xQuery": "露が日本大使に出頭要請 抗議受け"
+    },
+    {
       "time": "06:36",
       "title": "ゴルフ場で働く19歳自殺 労災認定",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592122?source=rss",
       "publishedAt": "2026-08-17T21:36:04.000Z",
       "xQuery": "ゴルフ場で働く19歳自殺 労災認定"
-    },
-    {
-      "time": "20:48",
-      "title": "9日に流され行方不明の女性 救助",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592108?source=rss",
-      "publishedAt": "2026-08-17T11:48:39.000Z",
-      "xQuery": "9日に流され行方不明の女性 救助"
     },
     {
       "time": "06:08",
