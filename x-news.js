@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T10:13:47.299Z",
+  "updatedAt": "2026-08-17T10:44:52.749Z",
   "items": [
+    {
+      "time": "19:27",
+      "title": "福岡県議会 蔵内氏が議長辞任意向",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592099?source=rss",
+      "publishedAt": "2026-08-17T10:27:44.000Z",
+      "xQuery": "福岡県議会 蔵内氏が議長辞任意向"
+    },
     {
       "time": "16:26",
       "title": "コロンビア地震 日本が物資供与へ",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592071?source=rss",
       "publishedAt": "2026-08-17T06:46:28.000Z",
       "xQuery": "EU 対露制裁を大幅拡大の方針"
-    },
-    {
-      "time": "17:32",
-      "title": "福岡県会議長の辞職勧告 採決中止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592084?source=rss",
-      "publishedAt": "2026-08-17T08:32:44.000Z",
-      "xQuery": "福岡県会議長の辞職勧告 採決中止"
     },
     {
       "time": "18:11",
