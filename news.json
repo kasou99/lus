@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T15:09:38.067Z",
+  "updatedAt": "2026-08-17T15:41:00.448Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-08-16T21:09:48.000Z"
       },
       {
+        "time": "10:51",
+        "title": "株式会社フジシールウエストが設備保全クラウド「M2X」を導入",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TZERId1B1QlBWTVRNSzFfb2loUDE2NWk5V1k4RWtKbFFpcWRWNG9jZkpUbl9SektrQWxSd0FwWEJ0RzNPUlZsZnJRNGRpTndPNEE0S0gzbVJoUXQ3ZXdycmVSVjlrQjAwZ2lyVGRBTQ?oc=5",
+        "publishedAt": "2026-08-17T01:51:31.000Z"
+      },
+      {
         "time": "11:51",
         "title": "安川電機、セル統合制御 生産性2倍",
         "source": "日刊工業新聞",
@@ -31,11 +38,11 @@
         "publishedAt": "2026-08-17T02:51:26.000Z"
       },
       {
-        "time": "10:51",
-        "title": "株式会社フジシールウエストが設備保全クラウド「M2X」を導入",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TZERId1B1QlBWTVRNSzFfb2loUDE2NWk5V1k4RWtKbFFpcWRWNG9jZkpUbl9SektrQWxSd0FwWEJ0RzNPUlZsZnJRNGRpTndPNEE0S0gzbVJoUXQ3ZXdycmVSVjlrQjAwZ2lyVGRBTQ?oc=5",
-        "publishedAt": "2026-08-17T01:51:31.000Z"
+        "time": "10:32",
+        "title": "シチズン時計---買い先行も上げ幅縮小、27年3月期業績と配当予想を上方修正",
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrMEhIYmlLdXV0Tll4RXlCWWV3R0VPSzQ1WVZscExhMTI1QTdlbDliZklTMmFqaF9MY3VBSFFrM2tnZEtVTE1BVjk0WlBGUUtaeEVidzd2YmpCa0hROWw1TUZJbUVTQQ?oc=5",
+        "publishedAt": "2026-08-17T01:32:00.000Z"
       },
       {
         "time": "17:19",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdTFhOWFWam1ob2NnMVdCbGllY01XN0REUHA3RmxPN2pYalFqNWtDZUtPeFlJY0l6SE40anZJWkd6UVlaWldiSEhnXzBxS1NJTkc0dHlxb1JPazQ?oc=5",
         "publishedAt": "2026-08-16T20:00:00.000Z"
-      },
-      {
-        "time": "16:51",
-        "title": "PiLinkとProxima Technology、産業用Raspberry Pi向けスーパーキャパシタ内蔵UPSを共同開発",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhZ3RsaFR3SnpLaWc0WG4xTTJHYThRU0pyYnRNcFIyNkRIV2dGS1dnQ0kzRGo5THItVWxuem5Mb2NINEYyZXlxZktYX3NfeVh4X3ZtWXJjdzJQMndXTmdhbFRtVWZuR1g2UHFPRkpKTXlPVVZLVHdIbktUVQ?oc=5",
-        "publishedAt": "2026-08-17T07:51:17.000Z"
       }
     ],
     "worldHeadlines": [
