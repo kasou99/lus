@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T10:44:52.749Z",
+  "updatedAt": "2026-08-17T11:09:18.369Z",
   "items": [
+    {
+      "time": "19:36",
+      "title": "熊本地震 月内にも支援パッケージ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592098?source=rss",
+      "publishedAt": "2026-08-17T10:36:44.000Z",
+      "xQuery": "熊本地震 月内にも支援パッケージ"
+    },
     {
       "time": "19:27",
       "title": "福岡県議会 蔵内氏が議長辞任意向",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡県議会 蔵内氏が議長辞任意向"
     },
     {
-      "time": "16:26",
-      "title": "コロンビア地震 日本が物資供与へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592074?source=rss",
-      "publishedAt": "2026-08-17T07:26:32.000Z",
-      "xQuery": "コロンビア地震 日本が物資供与へ"
-    },
-    {
-      "time": "15:46",
-      "title": "EU 対露制裁を大幅拡大の方針",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592071?source=rss",
-      "publishedAt": "2026-08-17T06:46:28.000Z",
-      "xQuery": "EU 対露制裁を大幅拡大の方針"
-    },
-    {
-      "time": "18:11",
-      "title": "11歳男児が海岸で溺れ死亡 新潟",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592090?source=rss",
-      "publishedAt": "2026-08-17T09:11:48.000Z",
-      "xQuery": "11歳男児が海岸で溺れ死亡 新潟"
-    },
-    {
       "time": "18:14",
       "title": "指名手配中の男 建物侵入疑い逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592089?source=rss",
       "publishedAt": "2026-08-17T09:14:20.000Z",
       "xQuery": "指名手配中の男 建物侵入疑い逮捕"
+    },
+    {
+      "time": "19:50",
+      "title": "クマ3頭飛び出し 走行中の車衝突",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592101?source=rss",
+      "publishedAt": "2026-08-17T10:50:54.000Z",
+      "xQuery": "クマ3頭飛び出し 走行中の車衝突"
+    },
+    {
+      "time": "17:41",
+      "title": "「いけず石」物議 大阪市タジタジ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592082?source=rss",
+      "publishedAt": "2026-08-17T08:41:04.000Z",
+      "xQuery": "「いけず石」物議 大阪市タジタジ"
     }
   ]
 };
