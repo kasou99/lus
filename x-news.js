@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T04:19:06.179Z",
+  "updatedAt": "2026-08-17T04:47:56.545Z",
   "items": [
     {
       "time": "12:59",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "定着するか 稼げるブルーカラー"
     },
     {
+      "time": "13:28",
+      "title": "千葉で遺体 豪雨で不明の男性か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592056?source=rss",
+      "publishedAt": "2026-08-17T04:28:03.000Z",
+      "xQuery": "千葉で遺体 豪雨で不明の男性か"
+    },
+    {
       "time": "11:43",
       "title": "運転手引きずり降ろし車奪う 逃走",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592047?source=rss",
       "publishedAt": "2026-08-17T02:43:32.000Z",
       "xQuery": "運転手引きずり降ろし車奪う 逃走"
-    },
-    {
-      "time": "11:03",
-      "title": "篠山輝信さん 事務所との裁判語る",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592036?source=rss",
-      "publishedAt": "2026-08-17T02:03:17.000Z",
-      "xQuery": "篠山輝信さん 事務所との裁判語る"
     }
   ]
 };
