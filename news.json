@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T06:17:53.438Z",
+  "updatedAt": "2026-08-17T06:49:30.131Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -18,10 +18,17 @@
       },
       {
         "time": "06:09",
-        "title": "6月工作機械、52％大幅増 外需は過去最高",
-        "source": "金属産業新聞",
+        "title": "6月工作機械、52％大幅増 外需は過去最高 - neji-bane.jp",
+        "source": "neji-bane.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80VlFLV0ZpQjN0Ykhlai1vWFhsUEZVWkJYenlwbkhFUUc1R18xMnF2S21vbDJIVzFUT0JOcWxQV2VaZmxJM1dGZUhCcVJZLXpORXhzUVRtMWc?oc=5",
         "publishedAt": "2026-08-16T21:09:47.000Z"
+      },
+      {
+        "time": "10:32",
+        "title": "シチズン時計---買い先行も上げ幅縮小、27年3月期業績と配当予想を上方修正",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeldzUHdLbHFrRUgtak5CVGtTVkFtaWNXZVZVRkJPSE1hRWJpdTJtQTQ4dmZXMmtTNTFCampVWHZwa3VWM2ZoUk1QdVNmdHpNSVczWDdXMUFKbUJuQmtJZ1FQQXZmRWpqZVQtM3ZGUzREb25uem05OWxoWElBTy0xVG8zbTlRMjhSWGQ5a9IBjAFBVV95cUxPeldzUHdLbHFrRUgtak5CVGtTVkFtaWNXZVZVRkJPSE1hRWJpdTJtQTQ4dmZXMmtTNTFCampVWHZwa3VWM2ZoUk1QdVNmdHpNSVczWDdXMUFKbUJuQmtJZ1FQQXZmRWpqZVQtM3ZGUzREb25uem05OWxoWElBTy0xVG8zbTlRMjhSWGQ5aw?oc=5",
+        "publishedAt": "2026-08-17T01:32:00.000Z"
       },
       {
         "time": "14:00",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmaXl6X1hFWWMtQmxLdkZoUjJzTldBSkhDVjlkSlhnYkI3N1d6ekViQl8wWFh6R1I2Q21YY2gzV3FTRm5SeEZYRXRONjRhWEpyRDFBUFZYRGgxeGs?oc=5",
         "publishedAt": "2026-08-16T20:01:28.000Z"
-      },
-      {
-        "time": "10:32",
-        "title": "シチズン時計---買い先行も上げ幅縮小、27年3月期業績と配当予想を上方修正",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeldzUHdLbHFrRUgtak5CVGtTVkFtaWNXZVZVRkJPSE1hRWJpdTJtQTQ4dmZXMmtTNTFCampVWHZwa3VWM2ZoUk1QdVNmdHpNSVczWDdXMUFKbUJuQmtJZ1FQQXZmRWpqZVQtM3ZGUzREb25uem05OWxoWElBTy0xVG8zbTlRMjhSWGQ5a9IBjAFBVV95cUxPeldzUHdLbHFrRUgtak5CVGtTVkFtaWNXZVZVRkJPSE1hRWJpdTJtQTQ4dmZXMmtTNTFCampVWHZwa3VWM2ZoUk1QdVNmdHpNSVczWDdXMUFKbUJuQmtJZ1FQQXZmRWpqZVQtM3ZGUzREb25uem05OWxoWElBTy0xVG8zbTlRMjhSWGQ5aw?oc=5",
-        "publishedAt": "2026-08-17T01:32:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592052?source=rss",
         "publishedAt": "2026-08-17T03:13:53.000Z"
+      },
+      {
+        "time": "15:46",
+        "title": "EU 対露制裁を大幅拡大の方針",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592071?source=rss",
+        "publishedAt": "2026-08-17T06:46:28.000Z"
       },
       {
         "time": "10:00",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592028?source=rss",
         "publishedAt": "2026-08-17T00:36:43.000Z"
-      },
-      {
-        "time": "14:38",
-        "title": "ベルギーで過去最大規模の山火事",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6591943?source=rss",
-        "publishedAt": "2026-08-16T05:38:01.000Z"
       }
     ],
     "economyHeadlines": [
