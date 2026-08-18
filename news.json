@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-08-18T16:44:33.703Z",
+  "updatedAt": "2026-08-18T17:10:17.596Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "06:00",
         "title": "顧客の工程集約や自動化推進､株価の割安感漂う工作機械株",
-        "source": "四季報オンライン",
+        "source": "shikiho.toyokeizai.net",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JSUtxMHlJUTBBYVBicmpYbTRvUEZBUHBqUk5KQkJsQW9HRW0yc0RtWlU4SXhPekcxWHBkalN3XzZmbmRPaW1mcE9ncEZLY2VTeTAxS2xmOA?oc=5",
         "publishedAt": "2026-08-17T21:00:00.000Z"
+      },
+      {
+        "time": "18:18",
+        "title": "江口電機が新工場建設に着手 好調続く制御盤の生産能力倍増へ",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EczRvZnpKNVV0cTJ6UnZ0R25DN0E4SVd0aEJ5WkkyQnRFdk0zb3dCaTV5cFpPYzNGNkZzeTdwOXJmZmEzTVZtSGo3WUxTOHFiRXc?oc=5",
+        "publishedAt": "2026-08-18T09:18:56.000Z"
       },
       {
         "time": "11:14",
@@ -17,13 +24,6 @@
         "publishedAt": "2026-08-18T02:14:00.000Z"
       },
       {
-        "time": "02:00",
-        "title": "DMG森精機、デジタルで工作機械変える 継続課金モデルへ転換急ぐ",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ESnlFem8ybUI2eGFFWjhwMEVIbmY5SXdzcE44UmJEbW1lT19WZ1N5MERPcWlzT2lYdk9acHpsRDNLcVVCdFpZWnZ2QXZFcTJLbXpjVUV3Z1o2N2JTanlnM2NkeUV2TmVWczJKQg?oc=5",
-        "publishedAt": "2026-08-17T17:00:00.000Z"
-      },
-      {
         "time": "23:56",
         "title": "アストリス・アドバイザリー・ジャパン株式会社が株式会社 ソディック（証券コード:6143）に関する2026年12月期2Q決算アップデートレポートを発行 | アストリス・アドバイザリー・ジャパン株式会社のプレスリリース",
         "source": "prtimes.jp",
@@ -31,16 +31,9 @@
         "publishedAt": "2026-08-18T14:56:24.000Z"
       },
       {
-        "time": "16:22",
-        "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZS09VYmFjczN6cVlMZEY3RUUtel8xOFBxU2o4dzRmV3p2aEdzSTZDZnVoMVVBMG50a2Y3emozenluY3NSZmxESXdRdURoYk9SYVNtTVVIaUk?oc=5",
-        "publishedAt": "2026-08-18T07:22:15.000Z"
-      },
-      {
         "time": "12:41",
         "title": "東日製作所、デジタルトルクドライバー3種発売",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wdjhkcEFNaVhXRVBEZzc3RlRBQnBhVUNlMWRsQVlrQm1jUFVpQWpsVGZBaVpRcHlEb3NEQ0RDS0dhS0dLcG95alFFV3k4Sml6VG4yeWk4SHNhQ01NMGNDTEVDY0dRdzk3QWFuU1ZPcm9idFdpNEpibl9ZQQ?oc=5",
         "publishedAt": "2026-08-18T03:41:37.000Z"
       },
@@ -57,6 +50,13 @@
         "source": "現代ビジネス",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwdnU3WDlmNGFRdWhIeGJHSk9pMFV0VmxwU01xUHYxaktINFRrYWtQVDgyNDUzSVZOc3dDV3R0VzlPY3UyczYzcURpZHUxTC1Bb2hPVzEzY1o?oc=5",
         "publishedAt": "2026-08-18T01:53:20.000Z"
+      },
+      {
+        "time": "16:22",
+        "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZS09VYmFjczN6cVlMZEY3RUUtel8xOFBxU2o4dzRmV3p2aEdzSTZDZnVoMVVBMG50a2Y3emozenluY3NSZmxESXdRdURoYk9SYVNtTVVIaUk?oc=5",
+        "publishedAt": "2026-08-18T07:22:15.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
