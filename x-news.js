@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T01:33:12.427Z",
+  "updatedAt": "2026-08-18T02:28:32.173Z",
   "items": [
     {
       "time": "09:36",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "出産の子を殺人未遂疑い 16歳逮捕"
     },
     {
+      "time": "10:50",
+      "title": "四千頭身・都築メンバー 書類送検",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592144?source=rss",
+      "publishedAt": "2026-08-18T01:50:31.000Z",
+      "xQuery": "四千頭身・都築メンバー 書類送検"
+    },
+    {
       "time": "10:10",
       "title": "「NISA貧乏」なぜ生まれる",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592140?source=rss",
       "publishedAt": "2026-08-18T01:10:19.000Z",
       "xQuery": "「NISA貧乏」なぜ生まれる"
-    },
-    {
-      "time": "10:09",
-      "title": "AIで時短も脳はヘトヘト なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592139?source=rss",
-      "publishedAt": "2026-08-18T01:09:08.000Z",
-      "xQuery": "AIで時短も脳はヘトヘト なぜ"
     }
   ]
 };
