@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T03:48:08.527Z",
+  "updatedAt": "2026-08-18T04:16:42.667Z",
   "items": [
     {
-      "time": "11:38",
-      "title": "AI事業者向け政府知財保護案 判明",
+      "time": "12:54",
+      "title": "千葉豪雨の死者 調査中含め11人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592154?source=rss",
-      "publishedAt": "2026-08-18T02:38:17.000Z",
-      "xQuery": "AI事業者向け政府知財保護案 判明"
+      "url": "https://news.yahoo.co.jp/pickup/6592161?source=rss",
+      "publishedAt": "2026-08-18T03:54:42.000Z",
+      "xQuery": "千葉豪雨の死者 調査中含め11人に"
     },
     {
-      "time": "11:25",
-      "title": "高市首相お盆休み返上? Xで連投",
+      "time": "11:59",
+      "title": "米 不法移民退去で人手不足の懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592149?source=rss",
-      "publishedAt": "2026-08-18T02:25:31.000Z",
-      "xQuery": "高市首相お盆休み返上? Xで連投"
+      "url": "https://news.yahoo.co.jp/pickup/6592153?source=rss",
+      "publishedAt": "2026-08-18T02:59:24.000Z",
+      "xQuery": "米 不法移民退去で人手不足の懸念"
     },
     {
-      "time": "11:41",
-      "title": "兵庫県が財政悪化 起債許可団体に",
+      "time": "12:47",
+      "title": "2歳男児殴った疑い逮捕 男児死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592155?source=rss",
-      "publishedAt": "2026-08-18T02:41:31.000Z",
-      "xQuery": "兵庫県が財政悪化 起債許可団体に"
+      "url": "https://news.yahoo.co.jp/pickup/6592162?source=rss",
+      "publishedAt": "2026-08-18T03:47:40.000Z",
+      "xQuery": "2歳男児殴った疑い逮捕 男児死亡"
     },
     {
-      "time": "10:50",
-      "title": "四千頭身・都築メンバー 書類送検",
+      "time": "12:42",
+      "title": "返礼品の牛肉産地偽装疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592144?source=rss",
-      "publishedAt": "2026-08-18T01:50:31.000Z",
-      "xQuery": "四千頭身・都築メンバー 書類送検"
+      "url": "https://news.yahoo.co.jp/pickup/6592159?source=rss",
+      "publishedAt": "2026-08-18T03:42:42.000Z",
+      "xQuery": "返礼品の牛肉産地偽装疑い 逮捕"
     },
     {
-      "time": "10:10",
-      "title": "「NISA貧乏」なぜ生まれる",
+      "time": "12:48",
+      "title": "14歳男子中学生 車にはねられ重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592140?source=rss",
-      "publishedAt": "2026-08-18T01:10:19.000Z",
-      "xQuery": "「NISA貧乏」なぜ生まれる"
+      "url": "https://news.yahoo.co.jp/pickup/6592163?source=rss",
+      "publishedAt": "2026-08-18T03:48:26.000Z",
+      "xQuery": "14歳男子中学生 車にはねられ重体"
     }
   ]
 };

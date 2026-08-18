@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T03:48:07.938Z",
+  "updatedAt": "2026-08-18T04:16:41.923Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,11 +149,25 @@
     ],
     "localHeadlines": [
       {
+        "time": "12:54",
+        "title": "千葉豪雨の死者 調査中含め11人に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592161?source=rss",
+        "publishedAt": "2026-08-18T03:54:42.000Z"
+      },
+      {
         "time": "12:47",
         "title": "2歳男児殴った疑い逮捕 男児死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592162?source=rss",
         "publishedAt": "2026-08-18T03:47:40.000Z"
+      },
+      {
+        "time": "12:48",
+        "title": "14歳男子中学生 車にはねられ重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592163?source=rss",
+        "publishedAt": "2026-08-18T03:48:26.000Z"
       },
       {
         "time": "11:41",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592132?source=rss",
         "publishedAt": "2026-08-17T23:39:25.000Z"
-      },
-      {
-        "time": "12:42",
-        "title": "返礼品の牛肉産地偽装疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592159?source=rss",
-        "publishedAt": "2026-08-18T03:42:42.000Z"
-      },
-      {
-        "time": "10:50",
-        "title": "四千頭身・都築メンバー 書類送検",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592144?source=rss",
-        "publishedAt": "2026-08-18T01:50:31.000Z"
       }
     ],
     "subsidyHeadlines": [
