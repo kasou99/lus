@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T04:16:42.667Z",
+  "updatedAt": "2026-08-18T04:45:33.043Z",
   "items": [
     {
       "time": "12:54",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "2歳男児殴った疑い逮捕 男児死亡"
     },
     {
-      "time": "12:42",
-      "title": "返礼品の牛肉産地偽装疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592159?source=rss",
-      "publishedAt": "2026-08-18T03:42:42.000Z",
-      "xQuery": "返礼品の牛肉産地偽装疑い 逮捕"
-    },
-    {
       "time": "12:48",
       "title": "14歳男子中学生 車にはねられ重体",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592163?source=rss",
       "publishedAt": "2026-08-18T03:48:26.000Z",
       "xQuery": "14歳男子中学生 車にはねられ重体"
+    },
+    {
+      "time": "13:16",
+      "title": "都築メンバー書類送検 とても反省",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592165?source=rss",
+      "publishedAt": "2026-08-18T04:16:48.000Z",
+      "xQuery": "都築メンバー書類送検 とても反省"
     }
   ]
 };

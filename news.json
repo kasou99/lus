@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T04:16:41.923Z",
+  "updatedAt": "2026-08-18T04:45:32.305Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "02:00",
         "title": "DMG森精機、デジタルで工作機械変える 継続課金モデルへ転換急ぐ",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ESnlFem8ybUI2eGFFWjhwMEVIbmY5SXdzcE44UmJEbW1lT19WZ1N5MERPcWlzT2lYdk9acHpsRDNLcVVCdFpZWnZ2QXZFcTJLbXpjVUV3Z1o2N2JTanlnM2NkeUV2TmVWczJKQg?oc=5",
         "publishedAt": "2026-08-17T17:00:00.000Z"
       },
@@ -31,18 +31,25 @@
         "publishedAt": "2026-08-18T01:19:01.000Z"
       },
       {
+        "time": "12:41",
+        "title": "東日製作所、デジタルトルクドライバー3種発売",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wdjhkcEFNaVhXRVBEZzc3RlRBQnBhVUNlMWRsQVlrQm1jUFVpQWpsVGZBaVpRcHlEb3NEQ0RDS0dhS0dLcG95alFFV3k4Sml6VG4yeWk4SHNhQ01NMGNDTEVDY0dRdzk3QWFuU1ZPcm9idFdpNEpibl9ZQQ?oc=5",
+        "publishedAt": "2026-08-18T03:41:37.000Z"
+      },
+      {
         "time": "17:00",
         "title": "フレーム付きサーボモーターの世界市場（2026年～2032年）、市場規模（DC、AC）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Oblp4b3c5WDVlOTBuYmg2OWVNM0ppRHJjS2ZJMk1laVVVTnZHclg0WTZCRWxLYlh0RENUNW5OTTI0RzZkOE5XcGZpZ0FZclk?oc=5",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE93ZEM3QXNmZ0RJWGkwcVdMTmtsSTJVSWhRQ1BVay11WmViVk5LQllLVWhPUk5veW5ldlBuS3ZLcVhzaUM1WFVj?oc=5",
         "publishedAt": "2026-08-17T08:00:00.000Z"
       },
       {
-        "time": "09:49",
-        "title": "東北工大、デジタル人材育成実践講座",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94NXpUYzFNRDFSZG42Mld6dC1hQ1cwNDFhR1N0ajc1bjB1dlpZaVRmY2FDSHBBbkxZZ1Q4WDNWSTlGRTFwWC0wYnFjdzVJYlJ6SURuTkFudno1RFZRaFhBaEE0a1B3MVVFUG1wQXp6ZjBUNXg3TzJwQlRfQQ?oc=5",
-        "publishedAt": "2026-08-18T00:49:05.000Z"
+        "time": "10:53",
+        "title": "27年度第1四半期で「スタートダッシュ」に成功した企業が急増中！なかでも好調な銘柄5選を紹介",
+        "source": "現代ビジネス",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwdnU3WDlmNGFRdWhIeGJHSk9pMFV0VmxwU01xUHYxaktINFRrYWtQVDgyNDUzSVZOc3dDV3R0VzlPY3UyczYzcURpZHUxTC1Bb2hPVzEzY1o?oc=5",
+        "publishedAt": "2026-08-18T01:53:20.000Z"
       },
       {
         "time": "10:00",
@@ -50,13 +57,6 @@
         "source": "zakⅡ",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaRzZHUWNvczZmdDFGeHVPX1RRU1dtdm9RRG1HZ1FPUGNRYXd3Y3lHV0ZxSGNzTC01X1BPX3pJam1OVll6YVlNYVREcWpaWlJCUXpIWmEyUzBiVzZvS3AyaHJFTGI1cjhoQ1dpODBNRi1McG5ZcXlKeThYb3pFQQ?oc=5",
         "publishedAt": "2026-08-18T01:00:00.000Z"
-      },
-      {
-        "time": "19:09",
-        "title": "【2027年3月期 第1四半期】リックス（7525）「過去最高益更新！半導体・工作機械の活況を捉える高配当・優待バリュー株」",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CWGlIMndseDVEQTBTc25XYzBDWTQ0N0RrR2xPQ2RQMGM2NWN5cGlxUlh6M3B6Mk9FdzhTTEVGR3V5TDVzSldkeWlUM1VtOFN3T0lucU9tdnNPaEtZ?oc=5",
-        "publishedAt": "2026-08-17T10:09:49.000Z"
       }
     ],
     "worldHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-17T21:36:04.000Z"
       },
       {
-        "time": "08:39",
-        "title": "出産の子を殺人未遂疑い 16歳逮捕",
+        "time": "12:42",
+        "title": "返礼品の牛肉産地偽装疑い 逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592132?source=rss",
-        "publishedAt": "2026-08-17T23:39:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592159?source=rss",
+        "publishedAt": "2026-08-18T03:42:42.000Z"
       }
     ],
     "subsidyHeadlines": [
