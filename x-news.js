@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T07:46:33.941Z",
+  "updatedAt": "2026-08-18T08:14:15.811Z",
   "items": [
     {
       "time": "15:52",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "玉木氏 北方領土巡る政府対応批判"
     },
     {
-      "time": "13:46",
-      "title": "地検 被告行方不明を即時公表せず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592167?source=rss",
-      "publishedAt": "2026-08-18T04:46:15.000Z",
-      "xQuery": "地検 被告行方不明を即時公表せず"
-    },
-    {
       "time": "16:39",
       "title": "クレーン車に自転車ひかれ 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592183?source=rss",
       "publishedAt": "2026-08-18T07:39:18.000Z",
       "xQuery": "クレーン車に自転車ひかれ 死亡"
+    },
+    {
+      "time": "16:40",
+      "title": "開店祝いに著名人名無断使用 謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592184?source=rss",
+      "publishedAt": "2026-08-18T07:40:06.000Z",
+      "xQuery": "開店祝いに著名人名無断使用 謝罪"
     }
   ]
 };

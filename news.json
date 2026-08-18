@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T07:46:33.044Z",
+  "updatedAt": "2026-08-18T08:14:15.094Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-08-18T02:14:00.000Z"
       },
       {
+        "time": "16:22",
+        "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45dXQxdUVNTk1nNFhCZXFRN3dVSzJvdWozaExlOU9BLWtvSjJ4MkpmWFZTSlBsRG12WmF2X2JJZU51OFVXVzhuMHg5U3RmYzRQaXc?oc=5",
+        "publishedAt": "2026-08-18T07:22:15.000Z"
+      },
+      {
         "time": "10:19",
         "title": "ugo点検AIロボットソリューションご紹介ウェビナー",
         "source": "ugo.plus",
@@ -38,13 +45,6 @@
         "publishedAt": "2026-08-18T03:41:37.000Z"
       },
       {
-        "time": "17:00",
-        "title": "フレーム付きサーボモーターの世界市場（2026年～2032年）、市場規模（DC、AC）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE93ZEM3QXNmZ0RJWGkwcVdMTmtsSTJVSWhRQ1BVay11WmViVk5LQllLVWhPUk5veW5ldlBuS3ZLcVhzaUM1WFVj?oc=5",
-        "publishedAt": "2026-08-17T08:00:00.000Z"
-      },
-      {
         "time": "10:53",
         "title": "27年度第1四半期で「スタートダッシュ」に成功した企業が急増中！なかでも好調な銘柄5選を紹介",
         "source": "現代ビジネス",
@@ -54,7 +54,7 @@
       {
         "time": "10:00",
         "title": "TONE×池田金属工業 設計者と現場をつなぐ！工具とねじの1日研修ツアーを9/11開催",
-        "source": "zakzak.co.jp",
+        "source": "zakⅡ",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaRzZHUWNvczZmdDFGeHVPX1RRU1dtdm9RRG1HZ1FPUGNRYXd3Y3lHV0ZxSGNzTC01X1BPX3pJam1OVll6YVlNYVREcWpaWlJCUXpIWmEyUzBiVzZvS3AyaHJFTGI1cjhoQ1dpODBNRi1McG5ZcXlKeThYb3pFQQ?oc=5",
         "publishedAt": "2026-08-18T01:00:00.000Z"
       }
@@ -149,32 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "16:55",
+        "title": "千葉豪雨で13人死亡 1人行方不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592186?source=rss",
+        "publishedAt": "2026-08-18T07:55:01.000Z"
+      },
+      {
         "time": "14:12",
         "title": "福岡県議会の採決見送り憤りの声",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592169?source=rss",
         "publishedAt": "2026-08-18T05:12:04.000Z"
-      },
-      {
-        "time": "12:47",
-        "title": "2歳男児殴った疑い逮捕 男児死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592162?source=rss",
-        "publishedAt": "2026-08-18T03:47:40.000Z"
-      },
-      {
-        "time": "16:39",
-        "title": "クレーン車に自転車ひかれ 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592183?source=rss",
-        "publishedAt": "2026-08-18T07:39:18.000Z"
-      },
-      {
-        "time": "12:48",
-        "title": "14歳男子中学生 車にはねられ重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592163?source=rss",
-        "publishedAt": "2026-08-18T03:48:26.000Z"
       },
       {
         "time": "14:36",
@@ -189,6 +175,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592167?source=rss",
         "publishedAt": "2026-08-18T04:46:15.000Z"
+      },
+      {
+        "time": "12:47",
+        "title": "2歳男児殴った疑い逮捕 男児死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592162?source=rss",
+        "publishedAt": "2026-08-18T03:47:40.000Z"
+      },
+      {
+        "time": "16:39",
+        "title": "クレーン車に自転車ひかれ 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592183?source=rss",
+        "publishedAt": "2026-08-18T07:39:18.000Z"
       }
     ],
     "subsidyHeadlines": [
