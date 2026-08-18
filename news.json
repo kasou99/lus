@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-17T23:39:58.187Z",
+  "updatedAt": "2026-08-18T00:20:16.773Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "02:00",
-        "title": "DMG森精機、デジタルで工作機械変える 継続課金モデルへ転換急ぐ",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ESnlFem8ybUI2eGFFWjhwMEVIbmY5SXdzcE44UmJEbW1lT19WZ1N5MERPcWlzT2lYdk9acHpsRDNLcVVCdFpZWnZ2QXZFcTJLbXpjVUV3Z1o2N2JTanlnM2NkeUV2TmVWczJKQg?oc=5",
-        "publishedAt": "2026-08-17T17:00:00.000Z"
-      },
       {
         "time": "06:00",
         "title": "顧客の工程集約や自動化推進､株価の割安感漂う工作機械株",
@@ -24,6 +17,13 @@
         "publishedAt": "2026-08-17T20:06:19.000Z"
       },
       {
+        "time": "02:00",
+        "title": "DMG森精機、デジタルで工作機械変える 継続課金モデルへ転換急ぐ",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ESnlFem8ybUI2eGFFWjhwMEVIbmY5SXdzcE44UmJEbW1lT19WZ1N5MERPcWlzT2lYdk9acHpsRDNLcVVCdFpZWnZ2QXZFcTJLbXpjVUV3Z1o2N2JTanlnM2NkeUV2TmVWczJKQg?oc=5",
+        "publishedAt": "2026-08-17T17:00:00.000Z"
+      },
+      {
         "time": "17:00",
         "title": "フレーム付きサーボモーターの世界市場（2026年～2032年）、市場規模（DC、AC）・分析レポートを発表",
         "source": "アットプレス",
@@ -33,9 +33,16 @@
       {
         "time": "19:09",
         "title": "【2027年3月期 第1四半期】リックス（7525）「過去最高益更新！半導体・工作機械の活況を捉える高配当・優待バリュー株」",
-        "source": "note",
+        "source": "note.com",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CWGlIMndseDVEQTBTc25XYzBDWTQ0N0RrR2xPQ2RQMGM2NWN5cGlxUlh6M3B6Mk9FdzhTTEVGR3V5TDVzSldkeWlUM1VtOFN3T0lucU9tdnNPaEtZ?oc=5",
         "publishedAt": "2026-08-17T10:09:49.000Z"
+      },
+      {
+        "time": "05:07",
+        "title": "工場2.0 価値を生み出す現場への進化論（6）人とAIが共に成長する事業所へ",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JdEFDUnZJVGxWanp0ZGlIcDFwOHVLbDB3ODdEc0YtMnNKVndDcUtzVkpvNEFSSU9rNE5nNXhfNG1qUURJaWpGa1dYRTNVenkzNWg2ZmpkakdDa0U?oc=5",
+        "publishedAt": "2026-08-17T20:07:10.000Z"
       },
       {
         "time": "10:51",
@@ -50,16 +57,16 @@
         "source": "TradingView",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrMEhIYmlLdXV0Tll4RXlCWWV3R0VPSzQ1WVZscExhMTI1QTdlbDliZklTMmFqaF9MY3VBSFFrM2tnZEtVTE1BVjk0WlBGUUtaeEVidzd2YmpCa0hROWw1TUZJbUVTQQ?oc=5",
         "publishedAt": "2026-08-17T01:32:00.000Z"
-      },
-      {
-        "time": "17:19",
-        "title": "サーボ電磁ブレーキ―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NVnJFWVBKTTBBOFpiT0tUcjltZXlZbXdMWWVqSUMwY2ZoaHRhX0daNS1RRWpOZHVNSlVXc3JCVnU3Wi1RRWZNeUozS1U5ZE1fWjZEbmEtcw?oc=5",
-        "publishedAt": "2026-08-17T08:19:42.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "08:55",
+        "title": "米大統領 正恩氏巡り「彼を理解」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592133?source=rss",
+        "publishedAt": "2026-08-17T23:55:26.000Z"
+      },
       {
         "time": "07:05",
         "title": "露が日本大使に出頭要請 抗議受け",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592032?source=rss",
         "publishedAt": "2026-08-17T01:00:36.000Z"
-      },
-      {
-        "time": "07:20",
-        "title": "トランプ氏 米韓軍事演習縮小指示",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592012?source=rss",
-        "publishedAt": "2026-08-16T22:20:29.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-08-17T21:08:10.000Z"
       },
       {
+        "time": "08:39",
+        "title": "出産の子を殺人未遂疑い 16歳逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592132?source=rss",
+        "publishedAt": "2026-08-17T23:39:25.000Z"
+      },
+      {
         "time": "18:14",
         "title": "指名手配中の男 建物侵入疑い逮捕",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592129?source=rss",
         "publishedAt": "2026-08-17T22:53:14.000Z"
-      },
-      {
-        "time": "19:50",
-        "title": "クマ3頭飛び出し 走行中の車衝突",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592101?source=rss",
-        "publishedAt": "2026-08-17T10:50:54.000Z"
       }
     ],
     "subsidyHeadlines": [

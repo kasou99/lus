@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-17T23:39:59.216Z",
+  "updatedAt": "2026-08-18T00:20:17.710Z",
   "items": [
     {
       "time": "07:18",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ゴルフ場で働く19歳自殺 労災認定"
     },
     {
-      "time": "07:53",
-      "title": "流され8日ぶり救助 食料でしのぐ",
+      "time": "08:39",
+      "title": "出産の子を殺人未遂疑い 16歳逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592129?source=rss",
-      "publishedAt": "2026-08-17T22:53:14.000Z",
-      "xQuery": "流され8日ぶり救助 食料でしのぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6592132?source=rss",
+      "publishedAt": "2026-08-17T23:39:25.000Z",
+      "xQuery": "出産の子を殺人未遂疑い 16歳逮捕"
     },
     {
       "time": "06:24",
