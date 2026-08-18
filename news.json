@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T03:21:06.094Z",
+  "updatedAt": "2026-08-18T03:48:07.938Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-08-17T08:00:00.000Z"
       },
       {
-        "time": "05:07",
-        "title": "工場2.0 価値を生み出す現場への進化論（6）人とAIが共に成長する事業所へ",
+        "time": "09:49",
+        "title": "東北工大、デジタル人材育成実践講座",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JdEFDUnZJVGxWanp0ZGlIcDFwOHVLbDB3ODdEc0YtMnNKVndDcUtzVkpvNEFSSU9rNE5nNXhfNG1qUURJaWpGa1dYRTNVenkzNWg2ZmpkakdDa0U?oc=5",
-        "publishedAt": "2026-08-17T20:07:10.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94NXpUYzFNRDFSZG42Mld6dC1hQ1cwNDFhR1N0ajc1bjB1dlpZaVRmY2FDSHBBbkxZZ1Q4WDNWSTlGRTFwWC0wYnFjdzVJYlJ6SURuTkFudno1RFZRaFhBaEE0a1B3MVVFUG1wQXp6ZjBUNXg3TzJwQlRfQQ?oc=5",
+        "publishedAt": "2026-08-18T00:49:05.000Z"
       },
       {
         "time": "10:00",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "12:47",
+        "title": "2歳男児殴った疑い逮捕 男児死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592162?source=rss",
+        "publishedAt": "2026-08-18T03:47:40.000Z"
+      },
+      {
         "time": "11:41",
         "title": "兵庫県が財政悪化 起債許可団体に",
         "source": "Yahoo!ニュース",
@@ -163,13 +170,6 @@
         "publishedAt": "2026-08-17T21:36:04.000Z"
       },
       {
-        "time": "06:08",
-        "title": "殺人未遂罪の被告が行方不明 函館",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592120?source=rss",
-        "publishedAt": "2026-08-17T21:08:10.000Z"
-      },
-      {
         "time": "08:39",
         "title": "出産の子を殺人未遂疑い 16歳逮捕",
         "source": "Yahoo!ニュース",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-08-17T23:39:25.000Z"
       },
       {
-        "time": "23:03",
-        "title": "踏切開いたまま電車通過 東急電鉄",
+        "time": "12:42",
+        "title": "返礼品の牛肉産地偽装疑い 逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592116?source=rss",
-        "publishedAt": "2026-08-17T14:03:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592159?source=rss",
+        "publishedAt": "2026-08-18T03:42:42.000Z"
       },
       {
         "time": "10:50",
