@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T15:11:32.544Z",
+  "updatedAt": "2026-08-18T15:43:41.764Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-08-17T21:00:00.000Z"
       },
       {
-        "time": "02:00",
-        "title": "DMG森精機、デジタルで工作機械変える 継続課金モデルへ転換急ぐ",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ESnlFem8ybUI2eGFFWjhwMEVIbmY5SXdzcE44UmJEbW1lT19WZ1N5MERPcWlzT2lYdk9acHpsRDNLcVVCdFpZWnZ2QXZFcTJLbXpjVUV3Z1o2N2JTanlnM2NkeUV2TmVWczJKQg?oc=5",
-        "publishedAt": "2026-08-17T17:00:00.000Z"
-      },
-      {
         "time": "11:14",
         "title": "【7762.T FY2026 Q1 決算説明会】シチズン時計、4-6月期は営業利益110.9%増の99億円 通期予想を大幅上方修正",
         "source": "BigGo ファイナンス",
@@ -24,18 +17,18 @@
         "publishedAt": "2026-08-18T02:14:00.000Z"
       },
       {
-        "time": "16:22",
-        "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZS09VYmFjczN6cVlMZEY3RUUtel8xOFBxU2o4dzRmV3p2aEdzSTZDZnVoMVVBMG50a2Y3emozenluY3NSZmxESXdRdURoYk9SYVNtTVVIaUk?oc=5",
-        "publishedAt": "2026-08-18T07:22:15.000Z"
+        "time": "02:00",
+        "title": "DMG森精機、デジタルで工作機械変える 継続課金モデルへ転換急ぐ",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ESnlFem8ybUI2eGFFWjhwMEVIbmY5SXdzcE44UmJEbW1lT19WZ1N5MERPcWlzT2lYdk9acHpsRDNLcVVCdFpZWnZ2QXZFcTJLbXpjVUV3Z1o2N2JTanlnM2NkeUV2TmVWczJKQg?oc=5",
+        "publishedAt": "2026-08-17T17:00:00.000Z"
       },
       {
-        "time": "23:56",
-        "title": "アストリス・アドバイザリー・ジャパン株式会社が株式会社 ソディック（証券コード:6143）に関する2026年12月期2Q決算アップデートレポートを発行 | アストリス・アドバイザリー・ジャパン株式会社のプレスリリース",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6V2w5SVN1SVcxMjhyWVUxS0hWYTlNQy1fRUMtWTNGWnZISjhjTlhkNEliRFpia1RhNHVEa3I3R1ZlRE1IS05ETXZGdFlFQmVqVjZmcWRXVzZmTGRMS3F5b0FyVTNDWTZlSWc?oc=5",
-        "publishedAt": "2026-08-18T14:56:24.000Z"
+        "time": "16:22",
+        "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
+        "source": "sanyonews.jp",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZS09VYmFjczN6cVlMZEY3RUUtel8xOFBxU2o4dzRmV3p2aEdzSTZDZnVoMVVBMG50a2Y3emozenluY3NSZmxESXdRdURoYk9SYVNtTVVIaUk?oc=5",
+        "publishedAt": "2026-08-18T07:22:15.000Z"
       },
       {
         "time": "12:41",
@@ -57,6 +50,13 @@
         "source": "現代ビジネス",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwdnU3WDlmNGFRdWhIeGJHSk9pMFV0VmxwU01xUHYxaktINFRrYWtQVDgyNDUzSVZOc3dDV3R0VzlPY3UyczYzcURpZHUxTC1Bb2hPVzEzY1o?oc=5",
         "publishedAt": "2026-08-18T01:53:20.000Z"
+      },
+      {
+        "time": "09:49",
+        "title": "東北工大、デジタル人材育成実践講座",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94NXpUYzFNRDFSZG42Mld6dC1hQ1cwNDFhR1N0ajc1bjB1dlpZaVRmY2FDSHBBbkxZZ1Q4WDNWSTlGRTFwWC0wYnFjdzVJYlJ6SURuTkFudno1RFZRaFhBaEE0a1B3MVVFUG1wQXp6ZjBUNXg3TzJwQlRfQQ?oc=5",
+        "publishedAt": "2026-08-18T00:49:05.000Z"
       }
     ],
     "worldHeadlines": [
