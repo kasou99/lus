@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T21:08:44.982Z",
+  "updatedAt": "2026-08-18T21:40:03.482Z",
   "items": [
     {
       "time": "22:41",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "地震倒壊 工場煙突を国が全国調査"
     },
     {
+      "time": "06:25",
+      "title": "ICC赤根所長らを制裁対象に 米国",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592231?source=rss",
+      "publishedAt": "2026-08-18T21:25:46.000Z",
+      "xQuery": "ICC赤根所長らを制裁対象に 米国"
+    },
+    {
       "time": "21:42",
       "title": "ロシアが日本大使呼び出し抗議",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ロシアが日本大使呼び出し抗議"
     },
     {
-      "time": "21:33",
-      "title": "放火し両親殺害未遂疑い 15歳逮捕",
+      "time": "06:17",
+      "title": "草刈りの男性死亡 搬送時体温40℃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592211?source=rss",
-      "publishedAt": "2026-08-18T12:33:09.000Z",
-      "xQuery": "放火し両親殺害未遂疑い 15歳逮捕"
-    },
-    {
-      "time": "23:16",
-      "title": "遭難女性8日ぶり救助 夫「感謝」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592227?source=rss",
-      "publishedAt": "2026-08-18T14:16:42.000Z",
-      "xQuery": "遭難女性8日ぶり救助 夫「感謝」"
+      "url": "https://news.yahoo.co.jp/pickup/6592230?source=rss",
+      "publishedAt": "2026-08-18T21:17:12.000Z",
+      "xQuery": "草刈りの男性死亡 搬送時体温40℃"
     }
   ]
 };

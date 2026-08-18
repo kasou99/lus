@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-08-18T21:08:44.329Z",
+  "updatedAt": "2026-08-18T21:40:02.586Z",
   "groups": {
     "machineHeadlines": [
       {
+        "time": "18:18",
+        "title": "江口電機が新工場建設に着手 好調続く制御盤の生産能力倍増へ",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EczRvZnpKNVV0cTJ6UnZ0R25DN0E4SVd0aEJ5WkkyQnRFdk0zb3dCaTV5cFpPYzNGNkZzeTdwOXJmZmEzTVZtSGo3WUxTOHFiRXc?oc=5",
+        "publishedAt": "2026-08-18T09:18:56.000Z"
+      },
+      {
         "time": "11:14",
         "title": "【7762.T FY2026 Q1 決算説明会】シチズン時計、4-6月期は営業利益110.9%増の99億円 通期予想を大幅上方修正",
-        "source": "BigGo ファイナンス",
+        "source": "finance.biggo.jp",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEcUsyTnczZFBMUGhoSmJiLU5KVUJPbUFIZHNoNUxHekVQMmNZNEtLRDJ5M243dld3U0h4VE1QcXJFWTBnY0p3SmR0WF9mTHdIN2duQ3doRE5HaVo5SVpz?oc=5",
         "publishedAt": "2026-08-18T02:14:00.000Z"
       },
       {
-        "time": "16:22",
-        "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZS09VYmFjczN6cVlMZEY3RUUtel8xOFBxU2o4dzRmV3p2aEdzSTZDZnVoMVVBMG50a2Y3emozenluY3NSZmxESXdRdURoYk9SYVNtTVVIaUk?oc=5",
-        "publishedAt": "2026-08-18T07:22:15.000Z"
-      },
-      {
         "time": "23:56",
         "title": "アストリス・アドバイザリー・ジャパン株式会社が株式会社 ソディック（証券コード:6143）に関する2026年12月期2Q決算アップデートレポートを発行 | アストリス・アドバイザリー・ジャパン株式会社のプレスリリース",
-        "source": "prtimes.jp",
+        "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6V2w5SVN1SVcxMjhyWVUxS0hWYTlNQy1fRUMtWTNGWnZISjhjTlhkNEliRFpia1RhNHVEa3I3R1ZlRE1IS05ETXZGdFlFQmVqVjZmcWRXVzZmTGRMS3F5b0FyVTNDWTZlSWc?oc=5",
         "publishedAt": "2026-08-18T14:56:24.000Z"
       },
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "06:25",
+        "title": "ICC赤根所長らを制裁対象に 米国",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592231?source=rss",
+        "publishedAt": "2026-08-18T21:25:46.000Z"
+      },
+      {
         "time": "21:42",
         "title": "ロシアが日本大使呼び出し抗議",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592076?source=rss",
         "publishedAt": "2026-08-17T07:52:48.000Z"
-      },
-      {
-        "time": "15:46",
-        "title": "EU 対露制裁を大幅拡大の方針",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592071?source=rss",
-        "publishedAt": "2026-08-17T06:46:28.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-08-18T07:55:01.000Z"
       },
       {
-        "time": "18:20",
-        "title": "空自機着陸 那覇空港滑走路が再開",
+        "time": "06:17",
+        "title": "草刈りの男性死亡 搬送時体温40℃",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592196?source=rss",
-        "publishedAt": "2026-08-18T09:20:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592230?source=rss",
+        "publishedAt": "2026-08-18T21:17:12.000Z"
       },
       {
         "time": "23:16",
