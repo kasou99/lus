@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T10:43:26.021Z",
+  "updatedAt": "2026-08-18T11:09:17.998Z",
   "items": [
     {
       "time": "18:20",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日本で走る ベトナム人運転手の今"
     },
     {
+      "time": "19:46",
+      "title": "ANAとJAL 互いのダイヤ調整発表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592208?source=rss",
+      "publishedAt": "2026-08-18T10:46:38.000Z",
+      "xQuery": "ANAとJAL 互いのダイヤ調整発表"
+    },
+    {
       "time": "18:42",
       "title": "三木谷氏 消費減税に否定的な見解",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592199?source=rss",
       "publishedAt": "2026-08-18T09:42:54.000Z",
       "xQuery": "三木谷氏 消費減税に否定的な見解"
-    },
-    {
-      "time": "16:39",
-      "title": "クレーン車に自転車ひかれ 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592183?source=rss",
-      "publishedAt": "2026-08-18T07:39:18.000Z",
-      "xQuery": "クレーン車に自転車ひかれ 死亡"
     },
     {
       "time": "16:40",

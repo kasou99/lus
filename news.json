@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T10:43:25.378Z",
+  "updatedAt": "2026-08-18T11:09:15.339Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,6 +112,13 @@
         "publishedAt": "2026-08-18T09:00:55.000Z"
       },
       {
+        "time": "19:46",
+        "title": "ANAとJAL 互いのダイヤ調整発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592208?source=rss",
+        "publishedAt": "2026-08-18T10:46:38.000Z"
+      },
+      {
         "time": "18:42",
         "title": "三木谷氏 消費減税に否定的な見解",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592201?source=rss",
         "publishedAt": "2026-08-18T09:51:21.000Z"
-      },
-      {
-        "time": "22:36",
-        "title": "豪雨で車が浸水 金銭負担が心配",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592117?source=rss",
-        "publishedAt": "2026-08-17T13:36:51.000Z"
       },
       {
         "time": "10:10",
