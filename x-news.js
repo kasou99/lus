@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T23:08:24.116Z",
+  "updatedAt": "2026-08-18T23:39:48.007Z",
   "items": [
     {
       "time": "06:42",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "豪雨の路上車両600台 撤去へ連携"
     },
     {
+      "time": "08:03",
+      "title": "イランが弾道ミサイル UAE発表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592237?source=rss",
+      "publishedAt": "2026-08-18T23:03:46.000Z",
+      "xQuery": "イランが弾道ミサイル UAE発表"
+    },
+    {
       "time": "06:25",
       "title": "ICC赤根所長らを制裁対象に 米国",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ICC赤根所長らを制裁対象に 米国"
     },
     {
-      "time": "07:29",
-      "title": "ディズニーとABC 米当局を提訴",
+      "time": "08:13",
+      "title": "琵琶湖で魚とりの男性死亡 溺死か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592234?source=rss",
-      "publishedAt": "2026-08-18T22:29:25.000Z",
-      "xQuery": "ディズニーとABC 米当局を提訴"
-    },
-    {
-      "time": "06:17",
-      "title": "草刈りの男性死亡 搬送時体温40℃",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592230?source=rss",
-      "publishedAt": "2026-08-18T21:17:12.000Z",
-      "xQuery": "草刈りの男性死亡 搬送時体温40℃"
+      "url": "https://news.yahoo.co.jp/pickup/6592239?source=rss",
+      "publishedAt": "2026-08-18T23:13:35.000Z",
+      "xQuery": "琵琶湖で魚とりの男性死亡 溺死か"
     }
   ]
 };

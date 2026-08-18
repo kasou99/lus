@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-18T23:08:22.948Z",
+  "updatedAt": "2026-08-18T23:39:46.292Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "18:18",
+        "title": "江口電機が新工場建設に着手 好調続く制御盤の生産能力倍増へ",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EczRvZnpKNVV0cTJ6UnZ0R25DN0E4SVd0aEJ5WkkyQnRFdk0zb3dCaTV5cFpPYzNGNkZzeTdwOXJmZmEzTVZtSGo3WUxTOHFiRXc?oc=5",
+        "publishedAt": "2026-08-18T09:18:56.000Z"
+      },
       {
         "time": "01:01",
         "title": "横顔／中部経済産業局長に就任した三浦聡氏",
@@ -15,13 +22,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEcUsyTnczZFBMUGhoSmJiLU5KVUJPbUFIZHNoNUxHekVQMmNZNEtLRDJ5M243dld3U0h4VE1QcXJFWTBnY0p3SmR0WF9mTHdIN2duQ3doRE5HaVo5SVpz?oc=5",
         "publishedAt": "2026-08-18T02:14:00.000Z"
-      },
-      {
-        "time": "16:22",
-        "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZS09VYmFjczN6cVlMZEY3RUUtel8xOFBxU2o4dzRmV3p2aEdzSTZDZnVoMVVBMG50a2Y3emozenluY3NSZmxESXdRdURoYk9SYVNtTVVIaUk?oc=5",
-        "publishedAt": "2026-08-18T07:22:15.000Z"
       },
       {
         "time": "23:56",
@@ -170,11 +170,18 @@
         "publishedAt": "2026-08-18T21:17:12.000Z"
       },
       {
-        "time": "23:16",
-        "title": "遭難女性8日ぶり救助 夫「感謝」",
+        "time": "08:13",
+        "title": "琵琶湖で魚とりの男性死亡 溺死か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592227?source=rss",
-        "publishedAt": "2026-08-18T14:16:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592239?source=rss",
+        "publishedAt": "2026-08-18T23:13:35.000Z"
+      },
+      {
+        "time": "08:15",
+        "title": "高校生3人連携 池で溺れる3人救助",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592241?source=rss",
+        "publishedAt": "2026-08-18T23:15:38.000Z"
       },
       {
         "time": "21:33",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592211?source=rss",
         "publishedAt": "2026-08-18T12:33:09.000Z"
-      },
-      {
-        "time": "13:16",
-        "title": "都築メンバー書類送検 とても反省",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592165?source=rss",
-        "publishedAt": "2026-08-18T04:16:48.000Z"
       }
     ],
     "subsidyHeadlines": [
