@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T08:47:02.072Z",
+  "updatedAt": "2026-08-18T09:13:23.432Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -40,9 +40,16 @@
       {
         "time": "12:41",
         "title": "東日製作所、デジタルトルクドライバー3種発売",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wdjhkcEFNaVhXRVBEZzc3RlRBQnBhVUNlMWRsQVlrQm1jUFVpQWpsVGZBaVpRcHlEb3NEQ0RDS0dhS0dLcG95alFFV3k4Sml6VG4yeWk4SHNhQ01NMGNDTEVDY0dRdzk3QWFuU1ZPcm9idFdpNEpibl9ZQQ?oc=5",
         "publishedAt": "2026-08-18T03:41:37.000Z"
+      },
+      {
+        "time": "17:48",
+        "title": "東朋テクノロジー 丸型端子向け新型端子台を開発：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NbEgwTFVoNkRLNUlMZ2R1WlZoZU1waHV2YnhRdzJqX055alRnQ2RPOHdMYk1lUEtscUJnbkF5cEtNQi1VZENrRWFfSVpGLTFiUXFld09HV1FyY29LZmJF?oc=5",
+        "publishedAt": "2026-08-18T08:48:00.000Z"
       },
       {
         "time": "10:53",
@@ -50,13 +57,6 @@
         "source": "現代ビジネス",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwdnU3WDlmNGFRdWhIeGJHSk9pMFV0VmxwU01xUHYxaktINFRrYWtQVDgyNDUzSVZOc3dDV3R0VzlPY3UyczYzcURpZHUxTC1Bb2hPVzEzY1o?oc=5",
         "publishedAt": "2026-08-18T01:53:20.000Z"
-      },
-      {
-        "time": "17:01",
-        "title": "セイコー プレザージュが「国産初の腕時計」を現代に再現。ホーローと漆ダイヤルの2モデル",
-        "source": "article.auone.jp",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MU1I0Y2JzSnhaNmtkWHJKcEhHZENhT2RpQVRqVFhrZGI4UW1IZklYanpTRjM2cmp1aVZnaHdXLUVENmF4ck5WRmJXWFhmQmhEM1IzYmpYSHRITlZBdmtQVnlpRldPNGlGZ25ja2p3?oc=5",
-        "publishedAt": "2026-08-18T08:01:54.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "15:52",
-        "title": "大型クロマグロ 漁獲枠拡大で合意",
+        "time": "18:00",
+        "title": "大型クロマグロ 漁獲枠25%拡大",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592177?source=rss",
-        "publishedAt": "2026-08-18T06:52:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592194?source=rss",
+        "publishedAt": "2026-08-18T09:00:55.000Z"
       },
       {
         "time": "17:39",

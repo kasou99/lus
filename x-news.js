@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T08:47:03.056Z",
+  "updatedAt": "2026-08-18T09:13:23.949Z",
   "items": [
     {
       "time": "16:55",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "19日危険な暑さ 九州北部38℃予想"
     },
     {
-      "time": "16:19",
-      "title": "玉木氏 北方領土巡る政府対応批判",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592180?source=rss",
-      "publishedAt": "2026-08-18T07:19:33.000Z",
-      "xQuery": "玉木氏 北方領土巡る政府対応批判"
-    },
-    {
       "time": "16:39",
       "title": "クレーン車に自転車ひかれ 死亡",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592184?source=rss",
       "publishedAt": "2026-08-18T07:40:06.000Z",
       "xQuery": "開店祝いに著名人名無断使用 謝罪"
+    },
+    {
+      "time": "17:28",
+      "title": "四千頭身・都築のブランド休止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592191?source=rss",
+      "publishedAt": "2026-08-18T08:28:08.000Z",
+      "xQuery": "四千頭身・都築のブランド休止"
     }
   ]
 };
