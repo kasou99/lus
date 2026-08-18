@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T12:12:19.993Z",
+  "updatedAt": "2026-08-18T12:48:25.765Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "11:14",
         "title": "【7762.T FY2026 Q1 決算説明会】シチズン時計、4-6月期は営業利益110.9%増の99億円 通期予想を大幅上方修正",
-        "source": "finance.biggo.jp",
+        "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEcUsyTnczZFBMUGhoSmJiLU5KVUJPbUFIZHNoNUxHekVQMmNZNEtLRDJ5M243dld3U0h4VE1QcXJFWTBnY0p3SmR0WF9mTHdIN2duQ3doRE5HaVo5SVpz?oc=5",
         "publishedAt": "2026-08-18T02:14:00.000Z"
       },
@@ -45,21 +45,28 @@
         "publishedAt": "2026-08-18T03:41:37.000Z"
       },
       {
+        "time": "21:30",
+        "title": "高所の雨漏り補修・防錆・漏洩検査を産業用ドローンで実演。SABOT-3 BLOCK2無料体験会を9月11日（金）横浜・鶴見で開催",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfd0ZrYWpXRnlxMVpYYmc5SWxVbUZMY1dlcDdYSDhYbnFsbkIxcDh2SFE4MGYxM2VIWm5FMnpPQ0dhY0ZUMnpuTGNFeUM0RTJ6eGJyTG5iWUNqcF9ZZUVzNjZOVlItM3o3aG12c0RNd3NHZVl2dnc?oc=5",
+        "publishedAt": "2026-08-18T12:30:19.000Z"
+      },
+      {
         "time": "10:53",
         "title": "27年度第1四半期で「スタートダッシュ」に成功した企業が急増中！なかでも好調な銘柄5選を紹介",
         "source": "現代ビジネス",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwdnU3WDlmNGFRdWhIeGJHSk9pMFV0VmxwU01xUHYxaktINFRrYWtQVDgyNDUzSVZOc3dDV3R0VzlPY3UyczYzcURpZHUxTC1Bb2hPVzEzY1o?oc=5",
         "publishedAt": "2026-08-18T01:53:20.000Z"
-      },
-      {
-        "time": "18:56",
-        "title": "セイコー プレザージュが「国産初の腕時計」を現代に再現。ホーローと漆ダイヤルの2モデル",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MU1I0Y2JzSnhaNmtkWHJKcEhHZENhT2RpQVRqVFhrZGI4UW1IZklYanpTRjM2cmp1aVZnaHdXLUVENmF4ck5WRmJXWFhmQmhEM1IzYmpYSHRITlZBdmtQVnlpRldPNGlGZ25ja2p3?oc=5",
-        "publishedAt": "2026-08-18T09:56:42.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "21:42",
+        "title": "ロシアが日本大使呼び出し抗議",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592218?source=rss",
+        "publishedAt": "2026-08-18T12:42:17.000Z"
+      },
       {
         "time": "09:36",
         "title": "ト‌ランプ氏支持率33% ロイター",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592133?source=rss",
         "publishedAt": "2026-08-17T23:55:26.000Z"
-      },
-      {
-        "time": "07:05",
-        "title": "露が日本大使に出頭要請 抗議受け",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592124?source=rss",
-        "publishedAt": "2026-08-17T22:05:13.000Z"
       },
       {
         "time": "16:52",
@@ -126,18 +126,18 @@
         "publishedAt": "2026-08-18T10:46:38.000Z"
       },
       {
-        "time": "18:42",
-        "title": "三木谷氏 消費減税に否定的な見解",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592199?source=rss",
-        "publishedAt": "2026-08-18T09:42:54.000Z"
-      },
-      {
         "time": "18:51",
         "title": "日本で走る ベトナム人運転手の今",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592201?source=rss",
         "publishedAt": "2026-08-18T09:51:21.000Z"
+      },
+      {
+        "time": "21:20",
+        "title": "通販生活が楽天市場から撤退",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592215?source=rss",
+        "publishedAt": "2026-08-18T12:20:22.000Z"
       },
       {
         "time": "10:10",
@@ -163,11 +163,11 @@
         "publishedAt": "2026-08-18T09:20:13.000Z"
       },
       {
-        "time": "14:12",
-        "title": "福岡県議会の採決見送り憤りの声",
+        "time": "21:33",
+        "title": "放火し両親殺害未遂疑い 15歳逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592169?source=rss",
-        "publishedAt": "2026-08-18T05:12:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592211?source=rss",
+        "publishedAt": "2026-08-18T12:33:09.000Z"
       },
       {
         "time": "12:47",

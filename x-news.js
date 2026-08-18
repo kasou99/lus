@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T12:12:21.074Z",
+  "updatedAt": "2026-08-18T12:48:26.533Z",
   "items": [
     {
       "time": "18:00",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "陸自の個人情報収集 昨年公益通報"
     },
     {
-      "time": "19:46",
-      "title": "ANAとJAL 互いのダイヤ調整発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592208?source=rss",
-      "publishedAt": "2026-08-18T10:46:38.000Z",
-      "xQuery": "ANAとJAL 互いのダイヤ調整発表"
-    },
-    {
       "time": "20:38",
       "title": "LINEクレジット 都が業務改善命令",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "LINEクレジット 都が業務改善命令"
     },
     {
-      "time": "20:10",
-      "title": "ポケGOイベと入試重複 宿泊困難",
+      "time": "21:33",
+      "title": "放火し両親殺害未遂疑い 15歳逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592209?source=rss",
-      "publishedAt": "2026-08-18T11:10:03.000Z",
-      "xQuery": "ポケGOイベと入試重複 宿泊困難"
+      "url": "https://news.yahoo.co.jp/pickup/6592211?source=rss",
+      "publishedAt": "2026-08-18T12:33:09.000Z",
+      "xQuery": "放火し両親殺害未遂疑い 15歳逮捕"
+    },
+    {
+      "time": "21:20",
+      "title": "通販生活が楽天市場から撤退",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592215?source=rss",
+      "publishedAt": "2026-08-18T12:20:22.000Z",
+      "xQuery": "通販生活が楽天市場から撤退"
     }
   ]
 };
