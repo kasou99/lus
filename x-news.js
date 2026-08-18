@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T00:49:55.572Z",
+  "updatedAt": "2026-08-18T01:33:12.427Z",
   "items": [
     {
-      "time": "07:18",
-      "title": "18日九州や山陰など35℃超 対策を",
+      "time": "09:36",
+      "title": "ト‌ランプ氏支持率33% ロイター",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592125?source=rss",
-      "publishedAt": "2026-08-17T22:18:17.000Z",
-      "xQuery": "18日九州や山陰など35℃超 対策を"
+      "url": "https://news.yahoo.co.jp/pickup/6592137?source=rss",
+      "publishedAt": "2026-08-18T00:36:24.000Z",
+      "xQuery": "ト‌ランプ氏支持率33% ロイター"
     },
     {
-      "time": "08:55",
-      "title": "米大統領 正恩氏巡り「彼を理解」",
+      "time": "09:22",
+      "title": "子が「自殺」検索で通知 インスタ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592133?source=rss",
-      "publishedAt": "2026-08-17T23:55:26.000Z",
-      "xQuery": "米大統領 正恩氏巡り「彼を理解」"
-    },
-    {
-      "time": "07:05",
-      "title": "露が日本大使に出頭要請 抗議受け",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592124?source=rss",
-      "publishedAt": "2026-08-17T22:05:13.000Z",
-      "xQuery": "露が日本大使に出頭要請 抗議受け"
+      "url": "https://news.yahoo.co.jp/pickup/6592135?source=rss",
+      "publishedAt": "2026-08-18T00:22:51.000Z",
+      "xQuery": "子が「自殺」検索で通知 インスタ"
     },
     {
       "time": "08:39",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "出産の子を殺人未遂疑い 16歳逮捕"
     },
     {
-      "time": "09:22",
-      "title": "子が「自殺」検索で通知 インスタ",
+      "time": "10:10",
+      "title": "「NISA貧乏」なぜ生まれる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592135?source=rss",
-      "publishedAt": "2026-08-18T00:22:51.000Z",
-      "xQuery": "子が「自殺」検索で通知 インスタ"
+      "url": "https://news.yahoo.co.jp/pickup/6592140?source=rss",
+      "publishedAt": "2026-08-18T01:10:19.000Z",
+      "xQuery": "「NISA貧乏」なぜ生まれる"
+    },
+    {
+      "time": "10:09",
+      "title": "AIで時短も脳はヘトヘト なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592139?source=rss",
+      "publishedAt": "2026-08-18T01:09:08.000Z",
+      "xQuery": "AIで時短も脳はヘトヘト なぜ"
     }
   ]
 };
