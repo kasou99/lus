@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T13:47:40.562Z",
+  "updatedAt": "2026-08-18T14:15:04.000Z",
   "items": [
     {
       "time": "22:19",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ロシアが日本大使呼び出し抗議"
     },
     {
-      "time": "21:11",
-      "title": "豪雨で水没「車両保険」の重要性",
+      "time": "22:49",
+      "title": "米産ジャガイモ輸入巡り 農家懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592214?source=rss",
-      "publishedAt": "2026-08-18T12:11:32.000Z",
-      "xQuery": "豪雨で水没「車両保険」の重要性"
+      "url": "https://news.yahoo.co.jp/pickup/6592224?source=rss",
+      "publishedAt": "2026-08-18T13:49:52.000Z",
+      "xQuery": "米産ジャガイモ輸入巡り 農家懸念"
     },
     {
       "time": "21:33",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "放火し両親殺害未遂疑い 15歳逮捕"
     },
     {
-      "time": "21:20",
-      "title": "通販生活が楽天市場から撤退",
+      "time": "20:10",
+      "title": "ポケGOイベと入試重複 宿泊困難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592215?source=rss",
-      "publishedAt": "2026-08-18T12:20:22.000Z",
-      "xQuery": "通販生活が楽天市場から撤退"
+      "url": "https://news.yahoo.co.jp/pickup/6592209?source=rss",
+      "publishedAt": "2026-08-18T11:10:03.000Z",
+      "xQuery": "ポケGOイベと入試重複 宿泊困難"
     }
   ]
 };
