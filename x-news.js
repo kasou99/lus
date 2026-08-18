@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T00:20:17.710Z",
+  "updatedAt": "2026-08-18T00:49:55.572Z",
   "items": [
     {
       "time": "07:18",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "18日九州や山陰など35℃超 対策を"
     },
     {
+      "time": "08:55",
+      "title": "米大統領 正恩氏巡り「彼を理解」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592133?source=rss",
+      "publishedAt": "2026-08-17T23:55:26.000Z",
+      "xQuery": "米大統領 正恩氏巡り「彼を理解」"
+    },
+    {
       "time": "07:05",
       "title": "露が日本大使に出頭要請 抗議受け",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592124?source=rss",
       "publishedAt": "2026-08-17T22:05:13.000Z",
       "xQuery": "露が日本大使に出頭要請 抗議受け"
-    },
-    {
-      "time": "06:36",
-      "title": "ゴルフ場で働く19歳自殺 労災認定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592122?source=rss",
-      "publishedAt": "2026-08-17T21:36:04.000Z",
-      "xQuery": "ゴルフ場で働く19歳自殺 労災認定"
     },
     {
       "time": "08:39",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "出産の子を殺人未遂疑い 16歳逮捕"
     },
     {
-      "time": "06:24",
-      "title": "「モネの池」一変 抹茶みたいに",
+      "time": "09:22",
+      "title": "子が「自殺」検索で通知 インスタ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592121?source=rss",
-      "publishedAt": "2026-08-17T21:24:09.000Z",
-      "xQuery": "「モネの池」一変 抹茶みたいに"
+      "url": "https://news.yahoo.co.jp/pickup/6592135?source=rss",
+      "publishedAt": "2026-08-18T00:22:51.000Z",
+      "xQuery": "子が「自殺」検索で通知 インスタ"
     }
   ]
 };
