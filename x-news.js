@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T21:40:03.482Z",
+  "updatedAt": "2026-08-18T22:07:11.763Z",
   "items": [
     {
-      "time": "22:41",
-      "title": "米朝首脳会談に含み 米大統領狙い",
+      "time": "06:42",
+      "title": "九州～東海で猛暑日続出か 警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592223?source=rss",
-      "publishedAt": "2026-08-18T13:41:34.000Z",
-      "xQuery": "米朝首脳会談に含み 米大統領狙い"
+      "url": "https://news.yahoo.co.jp/pickup/6592232?source=rss",
+      "publishedAt": "2026-08-18T21:42:17.000Z",
+      "xQuery": "九州～東海で猛暑日続出か 警戒を"
     },
     {
-      "time": "22:19",
-      "title": "地震倒壊 工場煙突を国が全国調査",
+      "time": "06:58",
+      "title": "豪雨の路上車両600台 撤去へ連携",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592221?source=rss",
-      "publishedAt": "2026-08-18T13:19:14.000Z",
-      "xQuery": "地震倒壊 工場煙突を国が全国調査"
+      "url": "https://news.yahoo.co.jp/pickup/6592233?source=rss",
+      "publishedAt": "2026-08-18T21:58:37.000Z",
+      "xQuery": "豪雨の路上車両600台 撤去へ連携"
     },
     {
       "time": "06:25",
