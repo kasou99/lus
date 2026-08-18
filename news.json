@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-18T12:48:25.765Z",
+  "updatedAt": "2026-08-18T13:21:25.839Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "06:00",
         "title": "顧客の工程集約や自動化推進､株価の割安感漂う工作機械株",
-        "source": "四季報オンライン",
+        "source": "shikiho.toyokeizai.net",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JSUtxMHlJUTBBYVBicmpYbTRvUEZBUHBqUk5KQkJsQW9HRW0yc0RtWlU4SXhPekcxWHBkalN3XzZmbmRPaW1mcE9ncEZLY2VTeTAxS2xmOA?oc=5",
         "publishedAt": "2026-08-17T21:00:00.000Z"
       },
@@ -24,18 +24,18 @@
         "publishedAt": "2026-08-18T02:14:00.000Z"
       },
       {
-        "time": "16:22",
-        "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZS09VYmFjczN6cVlMZEY3RUUtel8xOFBxU2o4dzRmV3p2aEdzSTZDZnVoMVVBMG50a2Y3emozenluY3NSZmxESXdRdURoYk9SYVNtTVVIaUk?oc=5",
-        "publishedAt": "2026-08-18T07:22:15.000Z"
-      },
-      {
         "time": "10:19",
         "title": "ugo点検AIロボットソリューションご紹介ウェビナー",
         "source": "ugo.plus",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrU1M0TGU0VUVsNUl3cmxVbnZEekZqMkxJdHNoR2U2TGlYbWZFcDVKbE55c2lacmpocEVnSXZuc3lQTndZVko4a2ZEOFc4cnNpMHFKWlFoeU5GTDJKdHQ0MHhCZGI?oc=5",
         "publishedAt": "2026-08-18T01:19:01.000Z"
+      },
+      {
+        "time": "16:22",
+        "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZS09VYmFjczN6cVlMZEY3RUUtel8xOFBxU2o4dzRmV3p2aEdzSTZDZnVoMVVBMG50a2Y3emozenluY3NSZmxESXdRdURoYk9SYVNtTVVIaUk?oc=5",
+        "publishedAt": "2026-08-18T07:22:15.000Z"
       },
       {
         "time": "12:41",
@@ -48,13 +48,13 @@
         "time": "21:30",
         "title": "高所の雨漏り補修・防錆・漏洩検査を産業用ドローンで実演。SABOT-3 BLOCK2無料体験会を9月11日（金）横浜・鶴見で開催",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfd0ZrYWpXRnlxMVpYYmc5SWxVbUZMY1dlcDdYSDhYbnFsbkIxcDh2SFE4MGYxM2VIWm5FMnpPQ0dhY0ZUMnpuTGNFeUM0RTJ6eGJyTG5iWUNqcF9ZZUVzNjZOVlItM3o3aG12c0RNd3NHZVl2dnc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YeUYxRkhQbXgyQkNPWjZpVzBuY3JMcjBicEoxTnYzakpwNFhydXg3djc4c3FRQl9mUG4tRlRKc29kVVdFSGxIMDNWRnFHTXdoNUNjZDU0YzBOTDRYMTZ0WHZITnBidGhw?oc=5",
         "publishedAt": "2026-08-18T12:30:19.000Z"
       },
       {
         "time": "10:53",
         "title": "27年度第1四半期で「スタートダッシュ」に成功した企業が急増中！なかでも好調な銘柄5選を紹介",
-        "source": "現代ビジネス",
+        "source": "gendai.media",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwdnU3WDlmNGFRdWhIeGJHSk9pMFV0VmxwU01xUHYxaktINFRrYWtQVDgyNDUzSVZOc3dDV3R0VzlPY3UyczYzcURpZHUxTC1Bb2hPVzEzY1o?oc=5",
         "publishedAt": "2026-08-18T01:53:20.000Z"
       }

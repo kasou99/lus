@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T12:48:26.533Z",
+  "updatedAt": "2026-08-18T13:21:26.681Z",
   "items": [
     {
-      "time": "18:00",
-      "title": "大型クロマグロ 漁獲枠25%拡大",
+      "time": "21:42",
+      "title": "ロシアが日本大使呼び出し抗議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592194?source=rss",
-      "publishedAt": "2026-08-18T09:00:55.000Z",
-      "xQuery": "大型クロマグロ 漁獲枠25%拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6592218?source=rss",
+      "publishedAt": "2026-08-18T12:42:17.000Z",
+      "xQuery": "ロシアが日本大使呼び出し抗議"
     },
     {
       "time": "20:22",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "陸自の個人情報収集 昨年公益通報"
     },
     {
-      "time": "20:38",
-      "title": "LINEクレジット 都が業務改善命令",
+      "time": "21:11",
+      "title": "豪雨で水没「車両保険」の重要性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592197?source=rss",
-      "publishedAt": "2026-08-18T11:38:58.000Z",
-      "xQuery": "LINEクレジット 都が業務改善命令"
+      "url": "https://news.yahoo.co.jp/pickup/6592214?source=rss",
+      "publishedAt": "2026-08-18T12:11:32.000Z",
+      "xQuery": "豪雨で水没「車両保険」の重要性"
     },
     {
       "time": "21:33",
