@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T11:41:02.205Z",
+  "updatedAt": "2026-08-18T12:12:21.074Z",
   "items": [
     {
-      "time": "19:46",
-      "title": "ANAとJAL 互いのダイヤ調整発表",
+      "time": "18:00",
+      "title": "大型クロマグロ 漁獲枠25%拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592208?source=rss",
-      "publishedAt": "2026-08-18T10:46:38.000Z",
-      "xQuery": "ANAとJAL 互いのダイヤ調整発表"
+      "url": "https://news.yahoo.co.jp/pickup/6592194?source=rss",
+      "publishedAt": "2026-08-18T09:00:55.000Z",
+      "xQuery": "大型クロマグロ 漁獲枠25%拡大"
     },
     {
       "time": "20:22",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "陸自の個人情報収集 昨年公益通報"
     },
     {
-      "time": "18:51",
-      "title": "日本で走る ベトナム人運転手の今",
+      "time": "19:46",
+      "title": "ANAとJAL 互いのダイヤ調整発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592201?source=rss",
-      "publishedAt": "2026-08-18T09:51:21.000Z",
-      "xQuery": "日本で走る ベトナム人運転手の今"
+      "url": "https://news.yahoo.co.jp/pickup/6592208?source=rss",
+      "publishedAt": "2026-08-18T10:46:38.000Z",
+      "xQuery": "ANAとJAL 互いのダイヤ調整発表"
+    },
+    {
+      "time": "20:38",
+      "title": "LINEクレジット 都が業務改善命令",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592197?source=rss",
+      "publishedAt": "2026-08-18T11:38:58.000Z",
+      "xQuery": "LINEクレジット 都が業務改善命令"
     },
     {
       "time": "20:10",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592209?source=rss",
       "publishedAt": "2026-08-18T11:10:03.000Z",
       "xQuery": "ポケGOイベと入試重複 宿泊困難"
-    },
-    {
-      "time": "16:40",
-      "title": "開店祝いに著名人名無断使用 謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592184?source=rss",
-      "publishedAt": "2026-08-18T07:40:06.000Z",
-      "xQuery": "開店祝いに著名人名無断使用 謝罪"
     }
   ]
 };
