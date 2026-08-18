@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T05:12:06.501Z",
+  "updatedAt": "2026-08-18T05:42:53.761Z",
   "items": [
     {
       "time": "12:54",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉豪雨の死者 調査中含め11人に"
     },
     {
-      "time": "11:59",
-      "title": "米 不法移民退去で人手不足の懸念",
+      "time": "14:12",
+      "title": "福岡県議会の採決見送り憤りの声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592153?source=rss",
-      "publishedAt": "2026-08-18T02:59:24.000Z",
-      "xQuery": "米 不法移民退去で人手不足の懸念"
+      "url": "https://news.yahoo.co.jp/pickup/6592169?source=rss",
+      "publishedAt": "2026-08-18T05:12:04.000Z",
+      "xQuery": "福岡県議会の採決見送り憤りの声"
+    },
+    {
+      "time": "14:36",
+      "title": "自衛隊の戦闘機 那覇空港で停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592172?source=rss",
+      "publishedAt": "2026-08-18T05:36:21.000Z",
+      "xQuery": "自衛隊の戦闘機 那覇空港で停止"
     },
     {
       "time": "12:47",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592163?source=rss",
       "publishedAt": "2026-08-18T03:48:26.000Z",
       "xQuery": "14歳男子中学生 車にはねられ重体"
-    },
-    {
-      "time": "13:16",
-      "title": "都築メンバー書類送検 とても反省",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592165?source=rss",
-      "publishedAt": "2026-08-18T04:16:48.000Z",
-      "xQuery": "都築メンバー書類送検 とても反省"
     }
   ]
 };
