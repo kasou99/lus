@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T08:14:15.811Z",
+  "updatedAt": "2026-08-18T08:47:03.056Z",
   "items": [
     {
-      "time": "15:52",
-      "title": "大型クロマグロ 漁獲枠拡大で合意",
+      "time": "16:55",
+      "title": "千葉豪雨で13人死亡 1人行方不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592177?source=rss",
-      "publishedAt": "2026-08-18T06:52:55.000Z",
-      "xQuery": "大型クロマグロ 漁獲枠拡大で合意"
+      "url": "https://news.yahoo.co.jp/pickup/6592186?source=rss",
+      "publishedAt": "2026-08-18T07:55:01.000Z",
+      "xQuery": "千葉豪雨で13人死亡 1人行方不明"
     },
     {
-      "time": "14:36",
-      "title": "自衛隊の戦闘機 那覇空港で停止",
+      "time": "17:42",
+      "title": "19日危険な暑さ 九州北部38℃予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592172?source=rss",
-      "publishedAt": "2026-08-18T05:36:21.000Z",
-      "xQuery": "自衛隊の戦闘機 那覇空港で停止"
+      "url": "https://news.yahoo.co.jp/pickup/6592193?source=rss",
+      "publishedAt": "2026-08-18T08:42:29.000Z",
+      "xQuery": "19日危険な暑さ 九州北部38℃予想"
     },
     {
       "time": "16:19",
