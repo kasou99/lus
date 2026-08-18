@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T02:28:32.173Z",
+  "updatedAt": "2026-08-18T02:54:03.750Z",
   "items": [
     {
       "time": "09:36",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ト‌ランプ氏支持率33% ロイター"
     },
     {
-      "time": "09:22",
-      "title": "子が「自殺」検索で通知 インスタ",
+      "time": "11:25",
+      "title": "高市首相お盆休み返上? Xで連投",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592135?source=rss",
-      "publishedAt": "2026-08-18T00:22:51.000Z",
-      "xQuery": "子が「自殺」検索で通知 インスタ"
+      "url": "https://news.yahoo.co.jp/pickup/6592149?source=rss",
+      "publishedAt": "2026-08-18T02:25:31.000Z",
+      "xQuery": "高市首相お盆休み返上? Xで連投"
     },
     {
-      "time": "08:39",
-      "title": "出産の子を殺人未遂疑い 16歳逮捕",
+      "time": "11:41",
+      "title": "兵庫県が財政悪化 起債許可団体に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592132?source=rss",
-      "publishedAt": "2026-08-17T23:39:25.000Z",
-      "xQuery": "出産の子を殺人未遂疑い 16歳逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6592155?source=rss",
+      "publishedAt": "2026-08-18T02:41:31.000Z",
+      "xQuery": "兵庫県が財政悪化 起債許可団体に"
     },
     {
       "time": "10:50",
