@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T22:07:11.763Z",
+  "updatedAt": "2026-08-18T22:41:09.164Z",
   "items": [
     {
       "time": "06:42",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ロシアが日本大使呼び出し抗議"
     },
     {
-      "time": "06:17",
-      "title": "草刈りの男性死亡 搬送時体温40℃",
+      "time": "07:29",
+      "title": "ディズニーとABC 米当局を提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592230?source=rss",
-      "publishedAt": "2026-08-18T21:17:12.000Z",
-      "xQuery": "草刈りの男性死亡 搬送時体温40℃"
+      "url": "https://news.yahoo.co.jp/pickup/6592234?source=rss",
+      "publishedAt": "2026-08-18T22:29:25.000Z",
+      "xQuery": "ディズニーとABC 米当局を提訴"
     }
   ]
 };
