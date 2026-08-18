@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T07:19:13.983Z",
+  "updatedAt": "2026-08-18T07:46:33.941Z",
   "items": [
     {
       "time": "15:52",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "自衛隊の戦闘機 那覇空港で停止"
     },
     {
+      "time": "16:19",
+      "title": "玉木氏 北方領土巡る政府対応批判",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592180?source=rss",
+      "publishedAt": "2026-08-18T07:19:33.000Z",
+      "xQuery": "玉木氏 北方領土巡る政府対応批判"
+    },
+    {
       "time": "13:46",
       "title": "地検 被告行方不明を即時公表せず",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "地検 被告行方不明を即時公表せず"
     },
     {
-      "time": "12:47",
-      "title": "2歳男児殴った疑い逮捕 男児死亡",
+      "time": "16:39",
+      "title": "クレーン車に自転車ひかれ 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592162?source=rss",
-      "publishedAt": "2026-08-18T03:47:40.000Z",
-      "xQuery": "2歳男児殴った疑い逮捕 男児死亡"
-    },
-    {
-      "time": "14:31",
-      "title": "フィットネス倒産 会員のリスクは",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592173?source=rss",
-      "publishedAt": "2026-08-18T05:31:57.000Z",
-      "xQuery": "フィットネス倒産 会員のリスクは"
+      "url": "https://news.yahoo.co.jp/pickup/6592183?source=rss",
+      "publishedAt": "2026-08-18T07:39:18.000Z",
+      "xQuery": "クレーン車に自転車ひかれ 死亡"
     }
   ]
 };
