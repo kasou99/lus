@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T09:13:23.432Z",
+  "updatedAt": "2026-08-18T09:44:27.897Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-18T03:41:37.000Z"
       },
       {
-        "time": "17:48",
-        "title": "東朋テクノロジー 丸型端子向け新型端子台を開発：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NbEgwTFVoNkRLNUlMZ2R1WlZoZU1waHV2YnhRdzJqX055alRnQ2RPOHdMYk1lUEtscUJnbkF5cEtNQi1VZENrRWFfSVpGLTFiUXFld09HV1FyY29LZmJF?oc=5",
-        "publishedAt": "2026-08-18T08:48:00.000Z"
-      },
-      {
         "time": "10:53",
         "title": "27年度第1四半期で「スタートダッシュ」に成功した企業が急増中！なかでも好調な銘柄5選を紹介",
         "source": "現代ビジネス",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwdnU3WDlmNGFRdWhIeGJHSk9pMFV0VmxwU01xUHYxaktINFRrYWtQVDgyNDUzSVZOc3dDV3R0VzlPY3UyczYzcURpZHUxTC1Bb2hPVzEzY1o?oc=5",
         "publishedAt": "2026-08-18T01:53:20.000Z"
+      },
+      {
+        "time": "17:01",
+        "title": "セイコー プレザージュが「国産初の腕時計」を現代に再現。ホーローと漆ダイヤルの2モデル",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MU1I0Y2JzSnhaNmtkWHJKcEhHZENhT2RpQVRqVFhrZGI4UW1IZklYanpTRjM2cmp1aVZnaHdXLUVENmF4ck5WRmJXWFhmQmhEM1IzYmpYSHRITlZBdmtQVnlpRldPNGlGZ25ja2p3?oc=5",
+        "publishedAt": "2026-08-18T08:01:54.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,6 +112,13 @@
         "publishedAt": "2026-08-18T09:00:55.000Z"
       },
       {
+        "time": "18:42",
+        "title": "三木谷氏 消費減税に否定的な見解",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592199?source=rss",
+        "publishedAt": "2026-08-18T09:42:54.000Z"
+      },
+      {
         "time": "17:39",
         "title": "外国人運転手 安全第一をどう学ぶ",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592173?source=rss",
         "publishedAt": "2026-08-18T05:31:57.000Z"
-      },
-      {
-        "time": "22:27",
-        "title": "「夜に経済活動」夏暑すぎて注目",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592113?source=rss",
-        "publishedAt": "2026-08-17T13:27:21.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-08-18T07:55:01.000Z"
       },
       {
+        "time": "18:20",
+        "title": "空自機着陸 那覇空港滑走路が再開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592196?source=rss",
+        "publishedAt": "2026-08-18T09:20:13.000Z"
+      },
+      {
         "time": "14:12",
         "title": "福岡県議会の採決見送り憤りの声",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592169?source=rss",
         "publishedAt": "2026-08-18T05:12:04.000Z"
-      },
-      {
-        "time": "14:36",
-        "title": "自衛隊の戦闘機 那覇空港で停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592172?source=rss",
-        "publishedAt": "2026-08-18T05:36:21.000Z"
       },
       {
         "time": "13:46",

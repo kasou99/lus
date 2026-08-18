@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T09:13:23.949Z",
+  "updatedAt": "2026-08-18T09:44:28.466Z",
   "items": [
     {
-      "time": "16:55",
-      "title": "千葉豪雨で13人死亡 1人行方不明",
+      "time": "18:20",
+      "title": "空自機着陸 那覇空港滑走路が再開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592186?source=rss",
-      "publishedAt": "2026-08-18T07:55:01.000Z",
-      "xQuery": "千葉豪雨で13人死亡 1人行方不明"
+      "url": "https://news.yahoo.co.jp/pickup/6592196?source=rss",
+      "publishedAt": "2026-08-18T09:20:13.000Z",
+      "xQuery": "空自機着陸 那覇空港滑走路が再開"
     },
     {
       "time": "17:42",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "19日危険な暑さ 九州北部38℃予想"
     },
     {
+      "time": "17:39",
+      "title": "外国人運転手 安全第一をどう学ぶ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592178?source=rss",
+      "publishedAt": "2026-08-18T08:39:16.000Z",
+      "xQuery": "外国人運転手 安全第一をどう学ぶ"
+    },
+    {
       "time": "16:39",
       "title": "クレーン車に自転車ひかれ 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592183?source=rss",
       "publishedAt": "2026-08-18T07:39:18.000Z",
       "xQuery": "クレーン車に自転車ひかれ 死亡"
-    },
-    {
-      "time": "16:40",
-      "title": "開店祝いに著名人名無断使用 謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592184?source=rss",
-      "publishedAt": "2026-08-18T07:40:06.000Z",
-      "xQuery": "開店祝いに著名人名無断使用 謝罪"
     },
     {
       "time": "17:28",
