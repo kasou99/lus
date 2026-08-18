@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T06:14:07.085Z",
+  "updatedAt": "2026-08-18T06:48:11.490Z",
   "items": [
     {
       "time": "14:12",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡県議会の採決見送り憤りの声"
     },
     {
-      "time": "13:46",
-      "title": "地検 被告行方不明を即時公表せず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592167?source=rss",
-      "publishedAt": "2026-08-18T04:46:15.000Z",
-      "xQuery": "地検 被告行方不明を即時公表せず"
-    },
-    {
       "time": "14:36",
       "title": "自衛隊の戦闘機 那覇空港で停止",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592172?source=rss",
       "publishedAt": "2026-08-18T05:36:21.000Z",
       "xQuery": "自衛隊の戦闘機 那覇空港で停止"
+    },
+    {
+      "time": "13:46",
+      "title": "地検 被告行方不明を即時公表せず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592167?source=rss",
+      "publishedAt": "2026-08-18T04:46:15.000Z",
+      "xQuery": "地検 被告行方不明を即時公表せず"
     },
     {
       "time": "12:47",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "2歳男児殴った疑い逮捕 男児死亡"
     },
     {
-      "time": "12:48",
-      "title": "14歳男子中学生 車にはねられ重体",
+      "time": "14:31",
+      "title": "フィットネス倒産 会員のリスクは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592163?source=rss",
-      "publishedAt": "2026-08-18T03:48:26.000Z",
-      "xQuery": "14歳男子中学生 車にはねられ重体"
+      "url": "https://news.yahoo.co.jp/pickup/6592173?source=rss",
+      "publishedAt": "2026-08-18T05:31:57.000Z",
+      "xQuery": "フィットネス倒産 会員のリスクは"
     }
   ]
 };
