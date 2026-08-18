@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T02:54:03.750Z",
+  "updatedAt": "2026-08-18T03:21:06.773Z",
   "items": [
     {
-      "time": "09:36",
-      "title": "ト‌ランプ氏支持率33% ロイター",
+      "time": "11:38",
+      "title": "AI事業者向け政府知財保護案 判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592137?source=rss",
-      "publishedAt": "2026-08-18T00:36:24.000Z",
-      "xQuery": "ト‌ランプ氏支持率33% ロイター"
+      "url": "https://news.yahoo.co.jp/pickup/6592154?source=rss",
+      "publishedAt": "2026-08-18T02:38:17.000Z",
+      "xQuery": "AI事業者向け政府知財保護案 判明"
     },
     {
       "time": "11:25",
