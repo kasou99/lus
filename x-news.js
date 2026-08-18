@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T09:44:28.466Z",
+  "updatedAt": "2026-08-18T10:10:21.068Z",
   "items": [
     {
       "time": "18:20",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "19日危険な暑さ 九州北部38℃予想"
     },
     {
-      "time": "17:39",
-      "title": "外国人運転手 安全第一をどう学ぶ",
+      "time": "18:42",
+      "title": "三木谷氏 消費減税に否定的な見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592178?source=rss",
-      "publishedAt": "2026-08-18T08:39:16.000Z",
-      "xQuery": "外国人運転手 安全第一をどう学ぶ"
+      "url": "https://news.yahoo.co.jp/pickup/6592199?source=rss",
+      "publishedAt": "2026-08-18T09:42:54.000Z",
+      "xQuery": "三木谷氏 消費減税に否定的な見解"
+    },
+    {
+      "time": "18:51",
+      "title": "日本で走る ベトナム人運転手の今",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592201?source=rss",
+      "publishedAt": "2026-08-18T09:51:21.000Z",
+      "xQuery": "日本で走る ベトナム人運転手の今"
     },
     {
       "time": "16:39",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592183?source=rss",
       "publishedAt": "2026-08-18T07:39:18.000Z",
       "xQuery": "クレーン車に自転車ひかれ 死亡"
-    },
-    {
-      "time": "17:28",
-      "title": "四千頭身・都築のブランド休止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592191?source=rss",
-      "publishedAt": "2026-08-18T08:28:08.000Z",
-      "xQuery": "四千頭身・都築のブランド休止"
     }
   ]
 };
