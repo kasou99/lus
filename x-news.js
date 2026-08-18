@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T10:10:21.068Z",
+  "updatedAt": "2026-08-18T10:43:26.021Z",
   "items": [
     {
       "time": "18:20",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "空自機着陸 那覇空港滑走路が再開"
     },
     {
-      "time": "17:42",
-      "title": "19日危険な暑さ 九州北部38℃予想",
+      "time": "18:51",
+      "title": "日本で走る ベトナム人運転手の今",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592193?source=rss",
-      "publishedAt": "2026-08-18T08:42:29.000Z",
-      "xQuery": "19日危険な暑さ 九州北部38℃予想"
+      "url": "https://news.yahoo.co.jp/pickup/6592201?source=rss",
+      "publishedAt": "2026-08-18T09:51:21.000Z",
+      "xQuery": "日本で走る ベトナム人運転手の今"
     },
     {
       "time": "18:42",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "三木谷氏 消費減税に否定的な見解"
     },
     {
-      "time": "18:51",
-      "title": "日本で走る ベトナム人運転手の今",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592201?source=rss",
-      "publishedAt": "2026-08-18T09:51:21.000Z",
-      "xQuery": "日本で走る ベトナム人運転手の今"
-    },
-    {
       "time": "16:39",
       "title": "クレーン車に自転車ひかれ 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592183?source=rss",
       "publishedAt": "2026-08-18T07:39:18.000Z",
       "xQuery": "クレーン車に自転車ひかれ 死亡"
+    },
+    {
+      "time": "16:40",
+      "title": "開店祝いに著名人名無断使用 謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592184?source=rss",
+      "publishedAt": "2026-08-18T07:40:06.000Z",
+      "xQuery": "開店祝いに著名人名無断使用 謝罪"
     }
   ]
 };
