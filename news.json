@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-18T11:09:15.339Z",
+  "updatedAt": "2026-08-18T11:41:01.484Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "06:00",
         "title": "顧客の工程集約や自動化推進､株価の割安感漂う工作機械株",
-        "source": "四季報オンライン",
+        "source": "shikiho.toyokeizai.net",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JSUtxMHlJUTBBYVBicmpYbTRvUEZBUHBqUk5KQkJsQW9HRW0yc0RtWlU4SXhPekcxWHBkalN3XzZmbmRPaW1mcE9ncEZLY2VTeTAxS2xmOA?oc=5",
         "publishedAt": "2026-08-17T21:00:00.000Z"
       },
@@ -19,7 +19,7 @@
       {
         "time": "11:14",
         "title": "【7762.T FY2026 Q1 決算説明会】シチズン時計、4-6月期は営業利益110.9%増の99億円 通期予想を大幅上方修正",
-        "source": "BigGo ファイナンス",
+        "source": "finance.biggo.jp",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEcUsyTnczZFBMUGhoSmJiLU5KVUJPbUFIZHNoNUxHekVQMmNZNEtLRDJ5M243dld3U0h4VE1QcXJFWTBnY0p3SmR0WF9mTHdIN2duQ3doRE5HaVo5SVpz?oc=5",
         "publishedAt": "2026-08-18T02:14:00.000Z"
       },
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-18T03:41:37.000Z"
       },
       {
+        "time": "17:48",
+        "title": "東朋テクノロジー 丸型端子向け新型端子台を開発：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NbEgwTFVoNkRLNUlMZ2R1WlZoZU1waHV2YnhRdzJqX055alRnQ2RPOHdMYk1lUEtscUJnbkF5cEtNQi1VZENrRWFfSVpGLTFiUXFld09HV1FyY29LZmJF?oc=5",
+        "publishedAt": "2026-08-18T08:48:00.000Z"
+      },
+      {
         "time": "10:53",
         "title": "27年度第1四半期で「スタートダッシュ」に成功した企業が急増中！なかでも好調な銘柄5選を紹介",
         "source": "現代ビジネス",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwdnU3WDlmNGFRdWhIeGJHSk9pMFV0VmxwU01xUHYxaktINFRrYWtQVDgyNDUzSVZOc3dDV3R0VzlPY3UyczYzcURpZHUxTC1Bb2hPVzEzY1o?oc=5",
         "publishedAt": "2026-08-18T01:53:20.000Z"
-      },
-      {
-        "time": "17:01",
-        "title": "セイコー プレザージュが「国産初の腕時計」を現代に再現。ホーローと漆ダイヤルの2モデル",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MU1I0Y2JzSnhaNmtkWHJKcEhHZENhT2RpQVRqVFhrZGI4UW1IZklYanpTRjM2cmp1aVZnaHdXLUVENmF4ck5WRmJXWFhmQmhEM1IzYmpYSHRITlZBdmtQVnlpRldPNGlGZ25ja2p3?oc=5",
-        "publishedAt": "2026-08-18T08:01:54.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,6 +112,13 @@
         "publishedAt": "2026-08-18T09:00:55.000Z"
       },
       {
+        "time": "20:38",
+        "title": "LINEクレジット 都が業務改善命令",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592197?source=rss",
+        "publishedAt": "2026-08-18T11:38:58.000Z"
+      },
+      {
         "time": "19:46",
         "title": "ANAとJAL 互いのダイヤ調整発表",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592140?source=rss",
         "publishedAt": "2026-08-18T01:10:19.000Z"
-      },
-      {
-        "time": "14:31",
-        "title": "フィットネス倒産 会員のリスクは",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592173?source=rss",
-        "publishedAt": "2026-08-18T05:31:57.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,13 +170,6 @@
         "publishedAt": "2026-08-18T05:12:04.000Z"
       },
       {
-        "time": "13:46",
-        "title": "地検 被告行方不明を即時公表せず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592167?source=rss",
-        "publishedAt": "2026-08-18T04:46:15.000Z"
-      },
-      {
         "time": "12:47",
         "title": "2歳男児殴った疑い逮捕 男児死亡",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592183?source=rss",
         "publishedAt": "2026-08-18T07:39:18.000Z"
+      },
+      {
+        "time": "13:16",
+        "title": "都築メンバー書類送検 とても反省",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592165?source=rss",
+        "publishedAt": "2026-08-18T04:16:48.000Z"
       }
     ],
     "subsidyHeadlines": [
