@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T14:15:04.000Z",
+  "updatedAt": "2026-08-18T14:45:48.274Z",
   "items": [
+    {
+      "time": "22:41",
+      "title": "米朝首脳会談に含み 米大統領狙い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592223?source=rss",
+      "publishedAt": "2026-08-18T13:41:34.000Z",
+      "xQuery": "米朝首脳会談に含み 米大統領狙い"
+    },
     {
       "time": "22:19",
       "title": "地震倒壊 工場煙突を国が全国調査",
@@ -18,14 +26,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ロシアが日本大使呼び出し抗議"
     },
     {
-      "time": "22:49",
-      "title": "米産ジャガイモ輸入巡り 農家懸念",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592224?source=rss",
-      "publishedAt": "2026-08-18T13:49:52.000Z",
-      "xQuery": "米産ジャガイモ輸入巡り 農家懸念"
-    },
-    {
       "time": "21:33",
       "title": "放火し両親殺害未遂疑い 15歳逮捕",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "放火し両親殺害未遂疑い 15歳逮捕"
     },
     {
-      "time": "20:10",
-      "title": "ポケGOイベと入試重複 宿泊困難",
+      "time": "23:16",
+      "title": "遭難女性8日ぶり救助 夫「感謝」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592209?source=rss",
-      "publishedAt": "2026-08-18T11:10:03.000Z",
-      "xQuery": "ポケGOイベと入試重複 宿泊困難"
+      "url": "https://news.yahoo.co.jp/pickup/6592227?source=rss",
+      "publishedAt": "2026-08-18T14:16:42.000Z",
+      "xQuery": "遭難女性8日ぶり救助 夫「感謝」"
     }
   ]
 };
