@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-18T22:41:08.390Z",
+  "updatedAt": "2026-08-18T23:08:22.948Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "01:01",
         "title": "横顔／中部経済産業局長に就任した三浦聡氏",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKRTN2MkMxN1lHR3NQMkpPUWhuUWFSRTFvaWlYX3JDS0lVZzZ0ZHR4cEhBSk5oOWZlYjdJU1FyZ2ZYNHEzMF9qN0l4OXcxN0U4RDgxSVQxS0JycEU?oc=5",
         "publishedAt": "2026-08-18T16:01:36.000Z"
       },
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "08:03",
+        "title": "イランが弾道ミサイル UAE発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592237?source=rss",
+        "publishedAt": "2026-08-18T23:03:46.000Z"
+      },
+      {
         "time": "06:25",
         "title": "ICC赤根所長らを制裁対象に 米国",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592137?source=rss",
         "publishedAt": "2026-08-18T00:36:24.000Z"
-      },
-      {
-        "time": "07:29",
-        "title": "ディズニーとABC 米当局を提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592234?source=rss",
-        "publishedAt": "2026-08-18T22:29:25.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,13 +126,6 @@
         "publishedAt": "2026-08-18T11:38:58.000Z"
       },
       {
-        "time": "19:46",
-        "title": "ANAとJAL 互いのダイヤ調整発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592208?source=rss",
-        "publishedAt": "2026-08-18T10:46:38.000Z"
-      },
-      {
         "time": "21:20",
         "title": "通販生活が楽天市場から撤退",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592140?source=rss",
         "publishedAt": "2026-08-18T01:10:19.000Z"
+      },
+      {
+        "time": "07:41",
+        "title": "ジムニーノマド 担当語るデザイン",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592235?source=rss",
+        "publishedAt": "2026-08-18T22:41:58.000Z"
       }
     ],
     "localHeadlines": [

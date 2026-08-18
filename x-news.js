@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T22:41:09.164Z",
+  "updatedAt": "2026-08-18T23:08:24.116Z",
   "items": [
     {
       "time": "06:42",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ICC赤根所長らを制裁対象に 米国"
     },
     {
-      "time": "21:42",
-      "title": "ロシアが日本大使呼び出し抗議",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592218?source=rss",
-      "publishedAt": "2026-08-18T12:42:17.000Z",
-      "xQuery": "ロシアが日本大使呼び出し抗議"
-    },
-    {
       "time": "07:29",
       "title": "ディズニーとABC 米当局を提訴",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592234?source=rss",
       "publishedAt": "2026-08-18T22:29:25.000Z",
       "xQuery": "ディズニーとABC 米当局を提訴"
+    },
+    {
+      "time": "06:17",
+      "title": "草刈りの男性死亡 搬送時体温40℃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592230?source=rss",
+      "publishedAt": "2026-08-18T21:17:12.000Z",
+      "xQuery": "草刈りの男性死亡 搬送時体温40℃"
     }
   ]
 };
