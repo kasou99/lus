@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T13:21:26.681Z",
+  "updatedAt": "2026-08-18T13:47:40.562Z",
   "items": [
+    {
+      "time": "22:19",
+      "title": "地震倒壊 工場煙突を国が全国調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592221?source=rss",
+      "publishedAt": "2026-08-18T13:19:14.000Z",
+      "xQuery": "地震倒壊 工場煙突を国が全国調査"
+    },
     {
       "time": "21:42",
       "title": "ロシアが日本大使呼び出し抗議",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592218?source=rss",
       "publishedAt": "2026-08-18T12:42:17.000Z",
       "xQuery": "ロシアが日本大使呼び出し抗議"
-    },
-    {
-      "time": "20:22",
-      "title": "陸自の個人情報収集 昨年公益通報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592210?source=rss",
-      "publishedAt": "2026-08-18T11:22:46.000Z",
-      "xQuery": "陸自の個人情報収集 昨年公益通報"
     },
     {
       "time": "21:11",
