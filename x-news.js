@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T06:48:11.490Z",
+  "updatedAt": "2026-08-18T07:19:13.983Z",
   "items": [
     {
-      "time": "14:12",
-      "title": "福岡県議会の採決見送り憤りの声",
+      "time": "15:52",
+      "title": "大型クロマグロ 漁獲枠拡大で合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592169?source=rss",
-      "publishedAt": "2026-08-18T05:12:04.000Z",
-      "xQuery": "福岡県議会の採決見送り憤りの声"
+      "url": "https://news.yahoo.co.jp/pickup/6592177?source=rss",
+      "publishedAt": "2026-08-18T06:52:55.000Z",
+      "xQuery": "大型クロマグロ 漁獲枠拡大で合意"
     },
     {
       "time": "14:36",
