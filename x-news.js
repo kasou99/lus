@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T05:42:53.761Z",
+  "updatedAt": "2026-08-18T06:14:07.085Z",
   "items": [
-    {
-      "time": "12:54",
-      "title": "千葉豪雨の死者 調査中含め11人に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592161?source=rss",
-      "publishedAt": "2026-08-18T03:54:42.000Z",
-      "xQuery": "千葉豪雨の死者 調査中含め11人に"
-    },
     {
       "time": "14:12",
       "title": "福岡県議会の採決見送り憤りの声",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592169?source=rss",
       "publishedAt": "2026-08-18T05:12:04.000Z",
       "xQuery": "福岡県議会の採決見送り憤りの声"
+    },
+    {
+      "time": "13:46",
+      "title": "地検 被告行方不明を即時公表せず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592167?source=rss",
+      "publishedAt": "2026-08-18T04:46:15.000Z",
+      "xQuery": "地検 被告行方不明を即時公表せず"
     },
     {
       "time": "14:36",
