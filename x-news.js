@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T10:10:19.415Z",
+  "updatedAt": "2026-08-19T10:43:15.211Z",
   "items": [
     {
-      "time": "18:41",
-      "title": "ICC赤根所長に制裁 首相「残念」",
+      "time": "19:25",
+      "title": "20日 日本海側で激しい雨に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592318?source=rss",
-      "publishedAt": "2026-08-19T09:41:30.000Z",
-      "xQuery": "ICC赤根所長に制裁 首相「残念」"
+      "url": "https://news.yahoo.co.jp/pickup/6592323?source=rss",
+      "publishedAt": "2026-08-19T10:25:25.000Z",
+      "xQuery": "20日 日本海側で激しい雨に注意"
     },
     {
       "time": "15:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米警察 少女行方不明で霊能者頼る"
     },
     {
-      "time": "16:19",
-      "title": "女児34人にわいせつ 元教諭に実刑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592294?source=rss",
-      "publishedAt": "2026-08-19T07:19:14.000Z",
-      "xQuery": "女児34人にわいせつ 元教諭に実刑"
-    },
-    {
       "time": "17:20",
       "title": "ロケット残骸衝突 月にクレーター",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592303?source=rss",
       "publishedAt": "2026-08-19T08:20:31.000Z",
       "xQuery": "ロケット残骸衝突 月にクレーター"
+    },
+    {
+      "time": "18:07",
+      "title": "競って電車遅延させた疑い7人立件",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592312?source=rss",
+      "publishedAt": "2026-08-19T09:07:58.000Z",
+      "xQuery": "競って電車遅延させた疑い7人立件"
     }
   ]
 };

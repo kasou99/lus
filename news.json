@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T10:10:18.762Z",
+  "updatedAt": "2026-08-19T10:43:13.934Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -177,18 +177,18 @@
         "publishedAt": "2026-08-19T07:19:14.000Z"
       },
       {
-        "time": "11:49",
-        "title": "ヘルパーがパチンコ 障害者を放置",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592267?source=rss",
-        "publishedAt": "2026-08-19T02:49:46.000Z"
-      },
-      {
         "time": "18:07",
         "title": "競って電車遅延させた疑い7人立件",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592312?source=rss",
         "publishedAt": "2026-08-19T09:07:58.000Z"
+      },
+      {
+        "time": "18:26",
+        "title": "警察が盗難車を追跡 運転手は15歳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592316?source=rss",
+        "publishedAt": "2026-08-19T09:26:32.000Z"
       }
     ],
     "subsidyHeadlines": [
