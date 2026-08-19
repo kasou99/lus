@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T00:50:10.581Z",
+  "updatedAt": "2026-08-19T01:33:30.917Z",
   "items": [
     {
       "time": "09:31",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "OpenAIの2人語る 注目の職種FDE"
     },
     {
-      "time": "08:03",
-      "title": "イランが弾道ミサイル UAE発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592237?source=rss",
-      "publishedAt": "2026-08-18T23:03:46.000Z",
-      "xQuery": "イランが弾道ミサイル UAE発表"
-    },
-    {
       "time": "08:45",
       "title": "竹中工務店の万博現場責任者 逮捕",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592247?source=rss",
       "publishedAt": "2026-08-19T00:14:41.000Z",
       "xQuery": "泊原発構内で作業員死亡 約9m転落"
+    },
+    {
+      "time": "09:43",
+      "title": "四千頭身・都築さん 捜査の焦点は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592249?source=rss",
+      "publishedAt": "2026-08-19T00:43:11.000Z",
+      "xQuery": "四千頭身・都築さん 捜査の焦点は"
     }
   ]
 };

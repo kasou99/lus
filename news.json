@@ -1,20 +1,34 @@
 {
-  "updatedAt": "2026-08-19T00:50:09.796Z",
+  "updatedAt": "2026-08-19T01:33:30.233Z",
   "groups": {
     "machineHeadlines": [
       {
+        "time": "09:30",
+        "title": "次世代設備保全クラウドの株式会社M2X、株式会社ファインの導入事例を公開",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4taU95dWZleExYU1MzWlJXcVdmWFZObFY1WmQ0WEtRX2ttSTZnaFBDak10UzBQY0hFZmNIbkRCMXZaRFV5eEdvS2YyejFyVlJLTVRySTlIbldWeWhYdE9GSXd3M3VKaWtnekE?oc=5",
+        "publishedAt": "2026-08-19T00:30:01.000Z"
+      },
+      {
         "time": "01:01",
         "title": "横顔／中部経済産業局長に就任した三浦聡氏",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKRTN2MkMxN1lHR3NQMkpPUWhuUWFSRTFvaWlYX3JDS0lVZzZ0ZHR4cEhBSk5oOWZlYjdJU1FyZ2ZYNHEzMF9qN0l4OXcxN0U4RDgxSVQxS0JycEU?oc=5",
         "publishedAt": "2026-08-18T16:01:36.000Z"
       },
       {
-        "time": "08:24",
-        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xQV9VdWhRVTZXY3RNTGFZdnc2UmJjSXhldzVuWWV1NTFoeG5TQ3d2ZXE2TDg4OUh5dXpfT1lHUWxERHRndzJwZ3hkVi1zRU1HZnc?oc=5",
-        "publishedAt": "2026-08-18T23:24:00.000Z"
+        "time": "10:00",
+        "title": "ブラザー、主軸30番の複合加工機で初となる64本の工具を搭載可能なモデルを開発",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tNDVxYXQyaTFPZWRSaXhtUmJzQlQ1c3pjSk5HOGdGeXczREY1R3loQm5mbDVGa19nVXJiSkNOSnVQUG5WMVcxTDFnNE5pTHRNQmFmNWEybzRvQm94UmpDUUcwYUp3Q2FvdGc?oc=5",
+        "publishedAt": "2026-08-19T01:00:02.000Z"
+      },
+      {
+        "time": "08:58",
+        "title": "6月機械受注9.7％増",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5dmQ4bGEwZmc0NHNhVUR5X0ZidlJtSE13bk9zTmw1NUFCSDJ2Z1JacWpEWFFzQUNWUUFsbVoybGZEcEZ3Vk5vMmJHZkFjWV9HTlZqU3N1Q0J4dW4zLVNrRFVCRjQ2ZnZsYWRhdjQ1c9IBdEFVX3lxTE51enJCV1BubzlDdFgyODRLS3lTQlRSUVpSUDIzVjlfbU81ZHVaS3NlRXBNUjJqRi11V3duZi0wT0JsYzVucjViLWJRWjlOcVdVd0M5OWlQdDM4TFRpZ2FtUGo4U2I5NlpPT1RITzhSRUhfREVw?oc=5",
+        "publishedAt": "2026-08-18T23:58:59.000Z"
       },
       {
         "time": "11:14",
@@ -24,16 +38,16 @@
         "publishedAt": "2026-08-18T02:14:00.000Z"
       },
       {
-        "time": "23:56",
-        "title": "アストリス・アドバイザリー・ジャパン株式会社が株式会社 ソディック（証券コード:6143）に関する2026年12月期2Q決算アップデートレポートを発行 | アストリス・アドバイザリー・ジャパン株式会社のプレスリリース",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6V2w5SVN1SVcxMjhyWVUxS0hWYTlNQy1fRUMtWTNGWnZISjhjTlhkNEliRFpia1RhNHVEa3I3R1ZlRE1IS05ETXZGdFlFQmVqVjZmcWRXVzZmTGRMS3F5b0FyVTNDWTZlSWc?oc=5",
-        "publishedAt": "2026-08-18T14:56:24.000Z"
+        "time": "16:22",
+        "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZS09VYmFjczN6cVlMZEY3RUUtel8xOFBxU2o4dzRmV3p2aEdzSTZDZnVoMVVBMG50a2Y3emozenluY3NSZmxESXdRdURoYk9SYVNtTVVIaUk?oc=5",
+        "publishedAt": "2026-08-18T07:22:15.000Z"
       },
       {
         "time": "21:30",
         "title": "高所の雨漏り補修・防錆・漏洩検査を産業用ドローンで実演。SABOT-3 BLOCK2無料体験会を9月11日（金）横浜・鶴見で開催",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YeUYxRkhQbXgyQkNPWjZpVzBuY3JMcjBicEoxTnYzakpwNFhydXg3djc4c3FRQl9mUG4tRlRKc29kVVdFSGxIMDNWRnFHTXdoNUNjZDU0YzBOTDRYMTZ0WHZITnBidGhw?oc=5",
         "publishedAt": "2026-08-18T12:30:19.000Z"
       },
@@ -43,20 +57,6 @@
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NbEgwTFVoNkRLNUlMZ2R1WlZoZU1waHV2YnhRdzJqX055alRnQ2RPOHdMYk1lUEtscUJnbkF5cEtNQi1VZENrRWFfSVpGLTFiUXFld09HV1FyY29LZmJF?oc=5",
         "publishedAt": "2026-08-18T08:48:00.000Z"
-      },
-      {
-        "time": "10:53",
-        "title": "27年度第1四半期で「スタートダッシュ」に成功した企業が急増中！なかでも好調な銘柄5選を紹介",
-        "source": "現代ビジネス",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwdnU3WDlmNGFRdWhIeGJHSk9pMFV0VmxwU01xUHYxaktINFRrYWtQVDgyNDUzSVZOc3dDV3R0VzlPY3UyczYzcURpZHUxTC1Bb2hPVzEzY1o?oc=5",
-        "publishedAt": "2026-08-18T01:53:20.000Z"
-      },
-      {
-        "time": "17:32",
-        "title": "セイコー プレザージュが「国産初の腕時計」を現代に再現。ホーローと漆ダイヤルの2モデル",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MU1I0Y2JzSnhaNmtkWHJKcEhHZENhT2RpQVRqVFhrZGI4UW1IZklYanpTRjM2cmp1aVZnaHdXLUVENmF4ck5WRmJXWFhmQmhEM1IzYmpYSHRITlZBdmtQVnlpRldPNGlGZ25ja2p3?oc=5",
-        "publishedAt": "2026-08-18T08:32:54.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,18 +126,18 @@
         "publishedAt": "2026-08-18T11:38:58.000Z"
       },
       {
+        "time": "10:07",
+        "title": "東海汽船 新年会で飲酒後に勤務か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592253?source=rss",
+        "publishedAt": "2026-08-19T01:07:38.000Z"
+      },
+      {
         "time": "21:20",
         "title": "通販生活が楽天市場から撤退",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592215?source=rss",
         "publishedAt": "2026-08-18T12:20:22.000Z"
-      },
-      {
-        "time": "10:10",
-        "title": "「NISA貧乏」なぜ生まれる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592140?source=rss",
-        "publishedAt": "2026-08-18T01:10:19.000Z"
       },
       {
         "time": "07:41",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
