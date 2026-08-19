@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T21:41:01.113Z",
+  "updatedAt": "2026-08-19T22:08:31.643Z",
   "items": [
     {
       "time": "06:38",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "豪雨 千葉市幹線道路の車撤去完了"
     },
     {
+      "time": "06:55",
+      "title": "米大統領 正恩氏と会談の意向表明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592351?source=rss",
+      "publishedAt": "2026-08-19T21:55:05.000Z",
+      "xQuery": "米大統領 正恩氏と会談の意向表明"
+    },
+    {
       "time": "20:59",
       "title": "中道落選者ら 政治団体ゴリラ設立",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592349?source=rss",
       "publishedAt": "2026-08-19T21:28:55.000Z",
       "xQuery": "ICC所長らへの米制裁 相次ぐ非難"
-    },
-    {
-      "time": "20:21",
-      "title": "診察待つ列に車突っ込む 女性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592327?source=rss",
-      "publishedAt": "2026-08-19T11:21:31.000Z",
-      "xQuery": "診察待つ列に車突っ込む 女性死亡"
     }
   ]
 };
