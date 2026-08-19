@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T12:48:33.199Z",
+  "updatedAt": "2026-08-19T13:21:22.421Z",
   "items": [
     {
-      "time": "19:25",
-      "title": "20日 日本海側で激しい雨に注意",
+      "time": "21:48",
+      "title": "千葉豪雨で冠水 内水氾濫が原因か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592323?source=rss",
-      "publishedAt": "2026-08-19T10:25:25.000Z",
-      "xQuery": "20日 日本海側で激しい雨に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6592334?source=rss",
+      "publishedAt": "2026-08-19T12:48:48.000Z",
+      "xQuery": "千葉豪雨で冠水 内水氾濫が原因か"
     },
     {
       "time": "18:25",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "訪日客 7月として過去最多344万人"
     },
     {
+      "time": "20:59",
+      "title": "中道落選者ら 政治団体ゴリラ設立",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592328?source=rss",
+      "publishedAt": "2026-08-19T11:59:44.000Z",
+      "xQuery": "中道落選者ら 政治団体ゴリラ設立"
+    },
+    {
       "time": "20:21",
       "title": "診察待つ列に車突っ込む 女性死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592327?source=rss",
       "publishedAt": "2026-08-19T11:21:31.000Z",
       "xQuery": "診察待つ列に車突っ込む 女性死亡"
-    },
-    {
-      "time": "18:07",
-      "title": "競って電車遅延させた疑い7人立件",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592312?source=rss",
-      "publishedAt": "2026-08-19T09:07:58.000Z",
-      "xQuery": "競って電車遅延させた疑い7人立件"
     },
     {
       "time": "19:30",
