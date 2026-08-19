@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T23:08:49.240Z",
+  "updatedAt": "2026-08-19T23:39:48.541Z",
   "items": [
     {
-      "time": "06:38",
-      "title": "九州-東海で猛暑日の予想 警戒を",
+      "time": "08:25",
+      "title": "ウ軍無人機攻撃 露機を研究・改良",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592350?source=rss",
-      "publishedAt": "2026-08-19T21:38:50.000Z",
-      "xQuery": "九州-東海で猛暑日の予想 警戒を"
-    },
-    {
-      "time": "06:55",
-      "title": "米大統領 正恩氏と会談の意向表明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592351?source=rss",
-      "publishedAt": "2026-08-19T21:55:05.000Z",
-      "xQuery": "米大統領 正恩氏と会談の意向表明"
+      "url": "https://news.yahoo.co.jp/pickup/6592358?source=rss",
+      "publishedAt": "2026-08-19T23:25:32.000Z",
+      "xQuery": "ウ軍無人機攻撃 露機を研究・改良"
     },
     {
       "time": "07:40",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風18号 来週日本列島に影響恐れ"
     },
     {
-      "time": "20:59",
-      "title": "中道落選者ら 政治団体ゴリラ設立",
+      "time": "06:55",
+      "title": "米大統領 正恩氏と会談の意向表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592328?source=rss",
-      "publishedAt": "2026-08-19T11:59:44.000Z",
-      "xQuery": "中道落選者ら 政治団体ゴリラ設立"
+      "url": "https://news.yahoo.co.jp/pickup/6592351?source=rss",
+      "publishedAt": "2026-08-19T21:55:05.000Z",
+      "xQuery": "米大統領 正恩氏と会談の意向表明"
     },
     {
       "time": "07:53",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592356?source=rss",
       "publishedAt": "2026-08-19T22:53:30.000Z",
       "xQuery": "万博工事背任疑い 関係者に衝撃"
+    },
+    {
+      "time": "08:23",
+      "title": "赤穂市 非正規130人雇い止めへ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592359?source=rss",
+      "publishedAt": "2026-08-19T23:23:55.000Z",
+      "xQuery": "赤穂市 非正規130人雇い止めへ"
     }
   ]
 };

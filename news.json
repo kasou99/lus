@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-19T23:08:44.096Z",
+  "updatedAt": "2026-08-19T23:39:48.044Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "07:15",
         "title": "主軸30番の複合加工機で工具64本搭載可能なモデル、ブラザー工業が開発：工作機械",
-        "source": "MONOist",
+        "source": "monoist.itmedia.co.jp",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QcWcxWDhYdW11eXlIVDcxZ0dLLUxsZUhpZFhwRDUwcFZEYV9tUXdrUy1RZWVHc3NPYnM0N1A2WkdpdmFqTE56VzVQRVZSRzRxdHpiMnVxai1aUEh2SUU5Uk1YT3BtWXBfTkhRQnB2TQ?oc=5",
         "publishedAt": "2026-08-19T22:15:00.000Z"
       },
@@ -17,6 +17,13 @@
         "publishedAt": "2026-08-19T21:10:54.000Z"
       },
       {
+        "time": "07:00",
+        "title": "ナフサ高騰でも力強い､\"億り人\"DAIBOUCHOU氏注目7銘柄",
+        "source": "四季報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94QnB6QmhNNzljWEloMUtvZUs3cU1hTDRLTkxFcTJsdkZxVmJqUVF6R3dlUGludDQ1NzdlXzlSLVVfYWpkRHZ6M2ticmRqT1dzVElCOE5YOA?oc=5",
+        "publishedAt": "2026-08-19T22:00:00.000Z"
+      },
+      {
         "time": "10:07",
         "title": "グローバル製造業の高度化を支える日本の精密・高度技術を米国でアピール ―ジェトロが世界4大工作機械展示会の一つである「IMTS 2026」（シカゴ）にジャパン・パビリオンを8年ぶり設置、日本から中堅・中小企業10社が出品― | 2026年 - 記者発表 - お知らせ・記者発表",
         "source": "jetro.go.jp",
@@ -26,7 +33,7 @@
       {
         "time": "13:33",
         "title": "ソディック、IMTS2026 出展のお知らせ",
-        "source": "PR TIMES",
+        "source": "prtimes.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hak1NcXVHMW1hMWRwNExyRmNOUzVCcldYeFZpT3ZGbWVQSXlHaVRqTlN2Y2dLa0phdDNYRUZOLU1Sell4N1pld2lMZDVqZGplYXBFd21CQVkzN01GcTQwVWZNdjRZTjh2RVE?oc=5",
         "publishedAt": "2026-08-19T04:33:29.000Z"
       },
@@ -38,13 +45,6 @@
         "publishedAt": "2026-08-19T01:46:00.000Z"
       },
       {
-        "time": "11:45",
-        "title": "ブラザー、主軸30番の複合加工機で初となる64本の工具を搭載可能なモデルを開発｜Infoseekニュース",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JSlhWOFg3NGZmQ0l3alJUNkE4QkFzRk5NZWdxY2daYkREeEhrVWRqZ1FtMGNyd21COFJnVElaNVU1aTMzem9lZWlVeGxBS215aEN6bzU3Yld0aEgxZV9kMFZWWjFRYlExa3hpc18zdGFVUQ?oc=5",
-        "publishedAt": "2026-08-19T02:45:25.000Z"
-      },
-      {
         "time": "09:52",
         "title": "光学式エンコーダチップ：精密モーション制御を支える技術進化と世界市場機会｜QYResearch",
         "source": "note",
@@ -52,14 +52,21 @@
         "publishedAt": "2026-08-19T00:52:31.000Z"
       },
       {
-        "time": "16:00",
-        "title": "株式会社神戸製鋼所との資本業務提携契約の締結について- 製造現場でのDX活用による少人化・高度化を推進",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QbTNJZEF1UGdYUlJkX043WkxaX05MQ1Qyb1VPTFVvRGxQYldBeXJQcGowS19yR0V6OGFESG1BUHQ1bXh0UFpObzQydDlHNlVCazRXQXktQjFKeVM2N0xrdDZrTUNUUzNBVEJnWlZnSUdnOTB4SHc?oc=5",
-        "publishedAt": "2026-08-19T07:00:19.000Z"
+        "time": "11:45",
+        "title": "ブラザー、主軸30番の複合加工機で初となる64本の工具を搭載可能なモデルを開発｜Infoseekニュース",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JSlhWOFg3NGZmQ0l3alJUNkE4QkFzRk5NZWdxY2daYkREeEhrVWRqZ1FtMGNyd21COFJnVElaNVU1aTMzem9lZWlVeGxBS215aEN6bzU3Yld0aEgxZV9kMFZWWjFRYlExa3hpc18zdGFVUQ?oc=5",
+        "publishedAt": "2026-08-19T02:45:25.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "08:25",
+        "title": "ウ軍無人機攻撃 露機を研究・改良",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592358?source=rss",
+        "publishedAt": "2026-08-19T23:25:32.000Z"
+      },
       {
         "time": "08:03",
         "title": "イランが弾道ミサイル UAE発表",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592261?source=rss",
         "publishedAt": "2026-08-19T02:30:54.000Z"
-      },
-      {
-        "time": "06:28",
-        "title": "ICC所長らへの米制裁 相次ぐ非難",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592349?source=rss",
-        "publishedAt": "2026-08-19T21:28:55.000Z"
       }
     ],
     "economyHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-08-19T07:19:14.000Z"
       },
       {
-        "time": "23:41",
-        "title": "川遊びで流された男子高校生 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592345?source=rss",
-        "publishedAt": "2026-08-19T14:41:04.000Z"
-      },
-      {
         "time": "18:07",
         "title": "競って電車遅延させた疑い7人立件",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592312?source=rss",
         "publishedAt": "2026-08-19T09:07:58.000Z"
+      },
+      {
+        "time": "08:23",
+        "title": "赤穂市 非正規130人雇い止めへ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592359?source=rss",
+        "publishedAt": "2026-08-19T23:23:55.000Z"
       }
     ],
     "subsidyHeadlines": [
