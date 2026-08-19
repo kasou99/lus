@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T08:47:27.244Z",
+  "updatedAt": "2026-08-19T09:14:23.289Z",
   "items": [
     {
       "time": "16:28",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592296?source=rss",
       "publishedAt": "2026-08-19T07:28:58.000Z",
       "xQuery": "ICC所長へ米制裁 外務省「残念」"
-    },
-    {
-      "time": "16:19",
-      "title": "東証続落 中東混乱の景気減速懸念",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592295?source=rss",
-      "publishedAt": "2026-08-19T07:19:02.000Z",
-      "xQuery": "東証続落 中東混乱の景気減速懸念"
     },
     {
       "time": "15:35",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592301?source=rss",
       "publishedAt": "2026-08-19T07:59:05.000Z",
       "xQuery": "踏切で道ふさぎ殺人未遂疑い 逮捕"
+    },
+    {
+      "time": "16:19",
+      "title": "女児34人にわいせつ 元教諭に実刑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592294?source=rss",
+      "publishedAt": "2026-08-19T07:19:14.000Z",
+      "xQuery": "女児34人にわいせつ 元教諭に実刑"
     }
   ]
 };
