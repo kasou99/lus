@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T11:40:59.885Z",
+  "updatedAt": "2026-08-19T12:12:13.839Z",
   "items": [
     {
       "time": "19:25",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米警察 少女行方不明で霊能者頼る"
     },
     {
-      "time": "17:20",
-      "title": "ロケット残骸衝突 月にクレーター",
+      "time": "20:21",
+      "title": "診察待つ列に車突っ込む 女性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592303?source=rss",
-      "publishedAt": "2026-08-19T08:20:31.000Z",
-      "xQuery": "ロケット残骸衝突 月にクレーター"
+      "url": "https://news.yahoo.co.jp/pickup/6592327?source=rss",
+      "publishedAt": "2026-08-19T11:21:31.000Z",
+      "xQuery": "診察待つ列に車突っ込む 女性死亡"
     },
     {
       "time": "18:07",
