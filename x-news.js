@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T00:20:14.546Z",
+  "updatedAt": "2026-08-19T00:50:10.581Z",
   "items": [
     {
-      "time": "09:12",
-      "title": "日豪 長射程ミサイル試験で協力",
+      "time": "09:31",
+      "title": "日経平均 一時2000円超の値下がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592246?source=rss",
-      "publishedAt": "2026-08-19T00:12:44.000Z",
-      "xQuery": "日豪 長射程ミサイル試験で協力"
+      "url": "https://news.yahoo.co.jp/pickup/6592250?source=rss",
+      "publishedAt": "2026-08-19T00:31:52.000Z",
+      "xQuery": "日経平均 一時2000円超の値下がり"
     },
     {
       "time": "09:04",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "竹中工務店の万博現場責任者 逮捕"
     },
     {
-      "time": "08:15",
-      "title": "高校生3人連携 池で溺れる3人救助",
+      "time": "09:14",
+      "title": "泊原発構内で作業員死亡 約9m転落",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592241?source=rss",
-      "publishedAt": "2026-08-18T23:15:38.000Z",
-      "xQuery": "高校生3人連携 池で溺れる3人救助"
+      "url": "https://news.yahoo.co.jp/pickup/6592247?source=rss",
+      "publishedAt": "2026-08-19T00:14:41.000Z",
+      "xQuery": "泊原発構内で作業員死亡 約9m転落"
     }
   ]
 };

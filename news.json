@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T00:20:11.450Z",
+  "updatedAt": "2026-08-19T00:50:09.796Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-08-18T16:01:36.000Z"
       },
       {
+        "time": "08:24",
+        "title": "精密スプリング製作所がＥＶ部品製造参入へ 自社技術応用、安価な複合材研究",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xQV9VdWhRVTZXY3RNTGFZdnc2UmJjSXhldzVuWWV1NTFoeG5TQ3d2ZXE2TDg4OUh5dXpfT1lHUWxERHRndzJwZ3hkVi1zRU1HZnc?oc=5",
+        "publishedAt": "2026-08-18T23:24:00.000Z"
+      },
+      {
         "time": "11:14",
         "title": "【7762.T FY2026 Q1 決算説明会】シチズン時計、4-6月期は営業利益110.9%増の99億円 通期予想を大幅上方修正",
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEcUsyTnczZFBMUGhoSmJiLU5KVUJPbUFIZHNoNUxHekVQMmNZNEtLRDJ5M243dld3U0h4VE1QcXJFWTBnY0p3SmR0WF9mTHdIN2duQ3doRE5HaVo5SVpz?oc=5",
         "publishedAt": "2026-08-18T02:14:00.000Z"
-      },
-      {
-        "time": "16:22",
-        "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZS09VYmFjczN6cVlMZEY3RUUtel8xOFBxU2o4dzRmV3p2aEdzSTZDZnVoMVVBMG50a2Y3emozenluY3NSZmxESXdRdURoYk9SYVNtTVVIaUk?oc=5",
-        "publishedAt": "2026-08-18T07:22:15.000Z"
       },
       {
         "time": "23:56",
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:31",
+        "title": "日経平均 一時2000円超の値下がり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592250?source=rss",
+        "publishedAt": "2026-08-19T00:31:52.000Z"
+      },
+      {
         "time": "08:45",
         "title": "竹中工務店の万博現場責任者 逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592243?source=rss",
         "publishedAt": "2026-08-18T23:45:27.000Z"
-      },
-      {
-        "time": "18:00",
-        "title": "大型クロマグロ 漁獲枠25%拡大",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592194?source=rss",
-        "publishedAt": "2026-08-18T09:00:55.000Z"
       },
       {
         "time": "20:38",
@@ -148,13 +148,6 @@
       }
     ],
     "localHeadlines": [
-      {
-        "time": "16:55",
-        "title": "千葉豪雨で13人死亡 1人行方不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592186?source=rss",
-        "publishedAt": "2026-08-18T07:55:01.000Z"
-      },
       {
         "time": "06:58",
         "title": "豪雨の路上車両600台 撤去へ連携",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592241?source=rss",
         "publishedAt": "2026-08-18T23:15:38.000Z"
+      },
+      {
+        "time": "21:33",
+        "title": "放火し両親殺害未遂疑い 15歳逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592211?source=rss",
+        "publishedAt": "2026-08-18T12:33:09.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
