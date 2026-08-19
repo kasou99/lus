@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T13:48:13.174Z",
+  "updatedAt": "2026-08-19T14:15:11.601Z",
   "items": [
     {
-      "time": "21:48",
-      "title": "千葉豪雨で冠水 内水氾濫が原因か",
+      "time": "22:50",
+      "title": "豪雨 千葉市幹線道路の車撤去完了",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592334?source=rss",
-      "publishedAt": "2026-08-19T12:48:48.000Z",
-      "xQuery": "千葉豪雨で冠水 内水氾濫が原因か"
+      "url": "https://news.yahoo.co.jp/pickup/6592341?source=rss",
+      "publishedAt": "2026-08-19T13:50:40.000Z",
+      "xQuery": "豪雨 千葉市幹線道路の車撤去完了"
+    },
+    {
+      "time": "21:49",
+      "title": "JR九州被害額16年地震上回る恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592335?source=rss",
+      "publishedAt": "2026-08-19T12:49:21.000Z",
+      "xQuery": "JR九州被害額16年地震上回る恐れ"
     },
     {
       "time": "20:59",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "診察待つ列に車突っ込む 女性死亡"
     },
     {
-      "time": "19:30",
-      "title": "道沿いに食パン大量投棄 3日連続",
+      "time": "22:07",
+      "title": "シロイルカも鏡の自分を認識 研究",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592320?source=rss",
-      "publishedAt": "2026-08-19T10:30:12.000Z",
-      "xQuery": "道沿いに食パン大量投棄 3日連続"
-    },
-    {
-      "time": "22:13",
-      "title": "ガチ中華競争激化 レーン回る店も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592339?source=rss",
-      "publishedAt": "2026-08-19T13:13:05.000Z",
-      "xQuery": "ガチ中華競争激化 レーン回る店も"
+      "url": "https://news.yahoo.co.jp/pickup/6592336?source=rss",
+      "publishedAt": "2026-08-19T13:07:38.000Z",
+      "xQuery": "シロイルカも鏡の自分を認識 研究"
     }
   ]
 };

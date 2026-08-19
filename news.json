@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T13:48:12.086Z",
+  "updatedAt": "2026-08-19T14:15:10.994Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-08-19T12:48:48.000Z"
       },
       {
+        "time": "22:50",
+        "title": "豪雨 千葉市幹線道路の車撤去完了",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592341?source=rss",
+        "publishedAt": "2026-08-19T13:50:40.000Z"
+      },
+      {
         "time": "17:30",
         "title": "2歳死亡 近隣で以前から子の悲鳴",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592327?source=rss",
         "publishedAt": "2026-08-19T11:21:31.000Z"
-      },
-      {
-        "time": "16:59",
-        "title": "踏切で道ふさぎ殺人未遂疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592301?source=rss",
-        "publishedAt": "2026-08-19T07:59:05.000Z"
       },
       {
         "time": "16:19",
