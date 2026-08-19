@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T07:19:25.967Z",
+  "updatedAt": "2026-08-19T07:47:04.824Z",
   "items": [
     {
-      "time": "14:14",
-      "title": "豪雨 放置車の所有者現れるか懸念",
+      "time": "16:28",
+      "title": "ICC所長へ米制裁 外務省「残念」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592280?source=rss",
-      "publishedAt": "2026-08-19T05:14:55.000Z",
-      "xQuery": "豪雨 放置車の所有者現れるか懸念"
+      "url": "https://news.yahoo.co.jp/pickup/6592296?source=rss",
+      "publishedAt": "2026-08-19T07:28:58.000Z",
+      "xQuery": "ICC所長へ米制裁 外務省「残念」"
     },
     {
-      "time": "12:58",
-      "title": "米大統領娘婿がハマスと協議 背景",
+      "time": "16:06",
+      "title": "陸自個人情報収集「任務の範囲」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592273?source=rss",
-      "publishedAt": "2026-08-19T03:58:11.000Z",
-      "xQuery": "米大統領娘婿がハマスと協議 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6592291?source=rss",
+      "publishedAt": "2026-08-19T07:06:24.000Z",
+      "xQuery": "陸自個人情報収集「任務の範囲」"
     },
     {
-      "time": "16:00",
-      "title": "万博 盛況の影で工事の不祥事続々",
+      "time": "16:19",
+      "title": "東証続落 中東混乱の景気減速懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592290?source=rss",
-      "publishedAt": "2026-08-19T07:00:32.000Z",
-      "xQuery": "万博 盛況の影で工事の不祥事続々"
+      "url": "https://news.yahoo.co.jp/pickup/6592295?source=rss",
+      "publishedAt": "2026-08-19T07:19:02.000Z",
+      "xQuery": "東証続落 中東混乱の景気減速懸念"
+    },
+    {
+      "time": "16:19",
+      "title": "女児34人にわいせつ 元教諭に実刑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592294?source=rss",
+      "publishedAt": "2026-08-19T07:19:14.000Z",
+      "xQuery": "女児34人にわいせつ 元教諭に実刑"
     },
     {
       "time": "14:42",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592284?source=rss",
       "publishedAt": "2026-08-19T05:42:13.000Z",
       "xQuery": "フードデリバリー「menu」終了へ"
-    },
-    {
-      "time": "14:57",
-      "title": "転売目的で大量購入 悪性bot実態",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592285?source=rss",
-      "publishedAt": "2026-08-19T05:57:14.000Z",
-      "xQuery": "転売目的で大量購入 悪性bot実態"
     }
   ]
 };
