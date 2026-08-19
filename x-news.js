@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T10:43:15.211Z",
+  "updatedAt": "2026-08-19T11:08:59.465Z",
   "items": [
     {
       "time": "19:25",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "20日 日本海側で激しい雨に注意"
     },
     {
-      "time": "15:35",
-      "title": "トロ安くなる? マグロ漁獲枠拡大",
+      "time": "18:25",
+      "title": "訪日客 7月として過去最多344万人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592288?source=rss",
-      "publishedAt": "2026-08-19T06:35:20.000Z",
-      "xQuery": "トロ安くなる? マグロ漁獲枠拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6592317?source=rss",
+      "publishedAt": "2026-08-19T09:25:40.000Z",
+      "xQuery": "訪日客 7月として過去最多344万人"
     },
     {
       "time": "18:01",
