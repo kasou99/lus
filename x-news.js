@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T04:46:10.143Z",
+  "updatedAt": "2026-08-19T05:12:25.312Z",
   "items": [
-    {
-      "time": "11:52",
-      "title": "熊本など38℃前後予想 熱中症注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592266?source=rss",
-      "publishedAt": "2026-08-19T02:52:38.000Z",
-      "xQuery": "熊本など38℃前後予想 熱中症注意"
-    },
     {
       "time": "12:34",
       "title": "超党派議員団が訪中へ 中国側招待",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592270?source=rss",
       "publishedAt": "2026-08-19T03:34:00.000Z",
       "xQuery": "超党派議員団が訪中へ 中国側招待"
+    },
+    {
+      "time": "12:58",
+      "title": "米大統領娘婿がハマスと協議 背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592273?source=rss",
+      "publishedAt": "2026-08-19T03:58:11.000Z",
+      "xQuery": "米大統領娘婿がハマスと協議 背景"
     },
     {
       "time": "11:41",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ヘルパーがパチンコ 障害者を放置"
     },
     {
-      "time": "13:17",
-      "title": "洋麺屋五右衛門 出店ラッシュの訳",
+      "time": "11:37",
+      "title": "カリブ海 海藻で各地のビーチ茶色",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592278?source=rss",
-      "publishedAt": "2026-08-19T04:17:40.000Z",
-      "xQuery": "洋麺屋五右衛門 出店ラッシュの訳"
+      "url": "https://news.yahoo.co.jp/pickup/6592263?source=rss",
+      "publishedAt": "2026-08-19T02:37:49.000Z",
+      "xQuery": "カリブ海 海藻で各地のビーチ茶色"
     }
   ]
 };

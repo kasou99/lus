@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T04:46:09.376Z",
+  "updatedAt": "2026-08-19T05:12:24.541Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DbktLZHZZMXJONTNxamlpWUlzdTEybXBzTlVFZURkcXBIenBxRVJJRWszRFJWb0VJQmVqUnRLcFZvdjY2SzBNcWl1LUdZOWk4NmNmOU9TNA?oc=5",
         "publishedAt": "2026-08-19T00:52:31.000Z"
+      },
+      {
+        "time": "06:51",
+        "title": "横顔／中部経済産業局長に就任した三浦聡氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40bVFvTEdaY19NYlRfYm9KeXV2bzBnSmp5QzlCWnpjb1g0T2FCQnY2OWY3cG1vOWRnQnk5bVRvaGtidmF2Tkt3YnBISTk2eGIxUGVJZFE0Y2lhUXB0LWZkTHo0QVl1a0dicWd6eGp5dklzQ0VT?oc=5",
+        "publishedAt": "2026-08-18T21:51:37.000Z"
       },
       {
         "time": "05:03",
@@ -50,13 +57,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WQ3pwcGstMUdaQmlBRUNCQVpfLVN2UGgyV2kzMmFQbS1MZDFDbHhHOGJsbEdHWkVUUTJGMXpmLTNfS2haQ0VPQ2tLMHhBcVU?oc=5",
         "publishedAt": "2026-08-19T03:00:00.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "ソディック、2Q売上高は四半期ベースで過去最高 上期営業利益は前年同期比2倍超、通期業績予想を上方修正",
-        "source": "みんかぶ",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaTGdzeTMtR2E1LVdkOVhOQXhieGZLVF90dllJQXVxcl96Q2RFU21rVXViZTRKeW5LSW43TmFmT3VFamFjZVBpSg?oc=5",
-        "publishedAt": "2026-08-19T04:00:02.000Z"
       }
     ],
     "worldHeadlines": [
