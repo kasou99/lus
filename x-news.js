@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T07:47:04.824Z",
+  "updatedAt": "2026-08-19T08:14:11.996Z",
   "items": [
     {
       "time": "16:28",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ICC所長へ米制裁 外務省「残念」"
     },
     {
-      "time": "16:06",
-      "title": "陸自個人情報収集「任務の範囲」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592291?source=rss",
-      "publishedAt": "2026-08-19T07:06:24.000Z",
-      "xQuery": "陸自個人情報収集「任務の範囲」"
-    },
-    {
       "time": "16:19",
       "title": "東証続落 中東混乱の景気減速懸念",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "東証続落 中東混乱の景気減速懸念"
     },
     {
+      "time": "15:35",
+      "title": "トロ安くなる? マグロ漁獲枠拡大",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592288?source=rss",
+      "publishedAt": "2026-08-19T06:35:20.000Z",
+      "xQuery": "トロ安くなる? マグロ漁獲枠拡大"
+    },
+    {
+      "time": "16:59",
+      "title": "踏切で道ふさぎ殺人未遂疑い 逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592301?source=rss",
+      "publishedAt": "2026-08-19T07:59:05.000Z",
+      "xQuery": "踏切で道ふさぎ殺人未遂疑い 逮捕"
+    },
+    {
       "time": "16:19",
       "title": "女児34人にわいせつ 元教諭に実刑",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592294?source=rss",
       "publishedAt": "2026-08-19T07:19:14.000Z",
       "xQuery": "女児34人にわいせつ 元教諭に実刑"
-    },
-    {
-      "time": "14:42",
-      "title": "フードデリバリー「menu」終了へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592284?source=rss",
-      "publishedAt": "2026-08-19T05:42:13.000Z",
-      "xQuery": "フードデリバリー「menu」終了へ"
     }
   ]
 };
