@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T09:44:49.905Z",
+  "updatedAt": "2026-08-19T10:10:18.762Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-08-19T00:30:01.000Z"
       },
       {
-        "time": "17:16",
-        "title": "ソディック、IMTS2026 出展のお知らせ：時事ドットコム",
-        "source": "jiji.com",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MQ2NBQk5Pa1Q3MXNCTVMtNy1yclRJQkRFdXl5SXRhbDdoQm1lckFOVWlpNVdzeXFWRUQwVkFQaGg4Y0UxZmxDb2xJaTZZYUROLUEybkctNGdUMlRjYmZBVnFqYlNSVExrMGVB?oc=5",
-        "publishedAt": "2026-08-19T08:16:00.000Z"
-      },
-      {
         "time": "16:00",
         "title": "株式会社神戸製鋼所との資本業務提携契約の締結について- 製造現場でのDX活用による少人化・高度化を推進",
         "source": "ニコニコニュース",
@@ -40,9 +33,16 @@
       {
         "time": "09:52",
         "title": "光学式エンコーダチップ：精密モーション制御を支える技術進化と世界市場機会｜QYResearch",
-        "source": "note.com",
+        "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DbktLZHZZMXJONTNxamlpWUlzdTEybXBzTlVFZURkcXBIenBxRVJJRWszRFJWb0VJQmVqUnRLcFZvdjY2SzBNcWl1LUdZOWk4NmNmOU9TNA?oc=5",
         "publishedAt": "2026-08-19T00:52:31.000Z"
+      },
+      {
+        "time": "13:33",
+        "title": "ソディック、IMTS2026 出展のお知らせ",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hak1NcXVHMW1hMWRwNExyRmNOUzVCcldYeFZpT3ZGbWVQSXlHaVRqTlN2Y2dLa0phdDNYRUZOLU1Sell4N1pld2lMZDVqZGplYXBFd21CQVkzN01GcTQwVWZNdjRZTjh2RVE?oc=5",
+        "publishedAt": "2026-08-19T04:33:29.000Z"
       },
       {
         "time": "21:30",

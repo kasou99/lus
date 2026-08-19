@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T09:44:50.757Z",
+  "updatedAt": "2026-08-19T10:10:19.415Z",
   "items": [
     {
       "time": "18:41",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トロ安くなる? マグロ漁獲枠拡大"
     },
     {
-      "time": "18:26",
-      "title": "警察が盗難車を追跡 運転手は15歳",
+      "time": "18:01",
+      "title": "米警察 少女行方不明で霊能者頼る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592316?source=rss",
-      "publishedAt": "2026-08-19T09:26:32.000Z",
-      "xQuery": "警察が盗難車を追跡 運転手は15歳"
+      "url": "https://news.yahoo.co.jp/pickup/6592308?source=rss",
+      "publishedAt": "2026-08-19T09:01:52.000Z",
+      "xQuery": "米警察 少女行方不明で霊能者頼る"
     },
     {
       "time": "16:19",
