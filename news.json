@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-19T22:08:31.007Z",
+  "updatedAt": "2026-08-19T22:41:17.641Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:15",
+        "title": "主軸30番の複合加工機で工具64本搭載可能なモデル、ブラザー工業が開発：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QcWcxWDhYdW11eXlIVDcxZ0dLLUxsZUhpZFhwRDUwcFZEYV9tUXdrUy1RZWVHc3NPYnM0N1A2WkdpdmFqTE56VzVQRVZSRzRxdHpiMnVxai1aUEh2SUU5Uk1YT3BtWXBfTkhRQnB2TQ?oc=5",
+        "publishedAt": "2026-08-19T22:15:00.000Z"
+      },
       {
         "time": "06:10",
         "title": "神戸製鋼がITスタートアップに出資、「センシンロボティクス」と資本業務提携。設備保全など製造現場のDX活用拡大（鉄鋼新聞）",
@@ -19,7 +26,7 @@
       {
         "time": "13:33",
         "title": "ソディック、IMTS2026 出展のお知らせ",
-        "source": "PR TIMES",
+        "source": "prtimes.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hak1NcXVHMW1hMWRwNExyRmNOUzVCcldYeFZpT3ZGbWVQSXlHaVRqTlN2Y2dLa0phdDNYRUZOLU1Sell4N1pld2lMZDVqZGplYXBFd21CQVkzN01GcTQwVWZNdjRZTjh2RVE?oc=5",
         "publishedAt": "2026-08-19T04:33:29.000Z"
       },
@@ -29,6 +36,13 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lUDZFYzJxclV2MlBRV1Q5T3dOdS1hRk11cWo2aHJJNEVaUmZ6RXMyN05GR2R6M3VCMlZsNS1ROGRBM0RhUmFHV3luZkFaQUVQb0pkWWFuWlRJdC1iTW1yVzRTbUFpbEpsRktF?oc=5",
         "publishedAt": "2026-08-19T01:46:00.000Z"
+      },
+      {
+        "time": "11:45",
+        "title": "ブラザー、主軸30番の複合加工機で初となる64本の工具を搭載可能なモデルを開発｜Infoseekニュース",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JSlhWOFg3NGZmQ0l3alJUNkE4QkFzRk5NZWdxY2daYkREeEhrVWRqZ1FtMGNyd21COFJnVElaNVU1aTMzem9lZWlVeGxBS215aEN6bzU3Yld0aEgxZV9kMFZWWjFRYlExa3hpc18zdGFVUQ?oc=5",
+        "publishedAt": "2026-08-19T02:45:25.000Z"
       },
       {
         "time": "09:52",
@@ -43,20 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QbTNJZEF1UGdYUlJkX043WkxaX05MQ1Qyb1VPTFVvRGxQYldBeXJQcGowS19yR0V6OGFESG1BUHQ1bXh0UFpObzQydDlHNlVCazRXQXktQjFKeVM2N0xrdDZrTUNUUzNBVEJnWlZnSUdnOTB4SHc?oc=5",
         "publishedAt": "2026-08-19T07:00:19.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "アストリス・アドバイザリー・ジャパン株式会社が株式会社",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZZFpWXzQ2QzJiVVp2U1NENF9wRkNkMGtpOWZhOGdRZGlsMFBxWldrbXc3YWdoZkZhWk5jMjd4NFZHZjFKMW5QeDZyanVYTkFkN0xHdg?oc=5",
-        "publishedAt": "2026-08-19T01:00:25.000Z"
-      },
-      {
-        "time": "05:16",
-        "title": "フォーカス 城山産業社長 竹中幸三（たけなか・こうぞう）氏 コア増産のニーズに対応 創業80周年、黒子役として技術磨く",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CM18wTmtaYloxRlV1cGhYZ0gyWFJ6VE4xUWduQ1l0c2RBVjl1T200WUJXQnJqOGtyMTUwUEZydktxRlZDSGFKRWsydzBhNnRWRncyUGV3T2kzYmx6Ql9RSTFFYnhDZHdCMldaS1VEU3pWdGM?oc=5",
-        "publishedAt": "2026-08-19T20:16:55.000Z"
       }
     ],
     "worldHeadlines": [
