@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T08:14:11.996Z",
+  "updatedAt": "2026-08-19T08:47:27.244Z",
   "items": [
     {
       "time": "16:28",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トロ安くなる? マグロ漁獲枠拡大"
     },
     {
+      "time": "17:30",
+      "title": "2歳死亡 近隣で以前から子の悲鳴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592304?source=rss",
+      "publishedAt": "2026-08-19T08:30:45.000Z",
+      "xQuery": "2歳死亡 近隣で以前から子の悲鳴"
+    },
+    {
       "time": "16:59",
       "title": "踏切で道ふさぎ殺人未遂疑い 逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592301?source=rss",
       "publishedAt": "2026-08-19T07:59:05.000Z",
       "xQuery": "踏切で道ふさぎ殺人未遂疑い 逮捕"
-    },
-    {
-      "time": "16:19",
-      "title": "女児34人にわいせつ 元教諭に実刑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592294?source=rss",
-      "publishedAt": "2026-08-19T07:19:14.000Z",
-      "xQuery": "女児34人にわいせつ 元教諭に実刑"
     }
   ]
 };
