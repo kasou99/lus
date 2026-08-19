@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T13:21:22.421Z",
+  "updatedAt": "2026-08-19T13:48:13.174Z",
   "items": [
     {
       "time": "21:48",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592334?source=rss",
       "publishedAt": "2026-08-19T12:48:48.000Z",
       "xQuery": "千葉豪雨で冠水 内水氾濫が原因か"
-    },
-    {
-      "time": "18:25",
-      "title": "訪日客 7月として過去最多344万人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592317?source=rss",
-      "publishedAt": "2026-08-19T09:25:40.000Z",
-      "xQuery": "訪日客 7月として過去最多344万人"
     },
     {
       "time": "20:59",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592320?source=rss",
       "publishedAt": "2026-08-19T10:30:12.000Z",
       "xQuery": "道沿いに食パン大量投棄 3日連続"
+    },
+    {
+      "time": "22:13",
+      "title": "ガチ中華競争激化 レーン回る店も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592339?source=rss",
+      "publishedAt": "2026-08-19T13:13:05.000Z",
+      "xQuery": "ガチ中華競争激化 レーン回る店も"
     }
   ]
 };
