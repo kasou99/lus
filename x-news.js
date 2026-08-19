@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T03:22:00.128Z",
+  "updatedAt": "2026-08-19T03:48:15.397Z",
   "items": [
     {
       "time": "11:52",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本など38℃前後予想 熱中症注意"
     },
     {
-      "time": "11:30",
-      "title": "米国が赤根所長らに制裁 ICC非難",
+      "time": "12:36",
+      "title": "対カナダ50%関税発動を3日延期 米",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592261?source=rss",
-      "publishedAt": "2026-08-19T02:30:54.000Z",
-      "xQuery": "米国が赤根所長らに制裁 ICC非難"
+      "url": "https://news.yahoo.co.jp/pickup/6592276?source=rss",
+      "publishedAt": "2026-08-19T03:36:23.000Z",
+      "xQuery": "対カナダ50%関税発動を3日延期 米"
     },
     {
       "time": "11:49",

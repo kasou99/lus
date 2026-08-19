@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T03:21:59.354Z",
+  "updatedAt": "2026-08-19T03:48:14.478Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "08:03",
+        "title": "イランが弾道ミサイル UAE発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592237?source=rss",
+        "publishedAt": "2026-08-18T23:03:46.000Z"
+      },
+      {
         "time": "11:25",
         "title": "米韓軍事演習を短縮 米国側要請で",
         "source": "Yahoo!ニュース",
@@ -68,11 +75,18 @@
         "publishedAt": "2026-08-19T02:25:22.000Z"
       },
       {
-        "time": "08:03",
-        "title": "イランが弾道ミサイル UAE発表",
+        "time": "22:41",
+        "title": "米朝首脳会談に含み 米大統領狙い",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592237?source=rss",
-        "publishedAt": "2026-08-18T23:03:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592223?source=rss",
+        "publishedAt": "2026-08-18T13:41:34.000Z"
+      },
+      {
+        "time": "12:36",
+        "title": "対カナダ50%関税発動を3日延期 米",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592276?source=rss",
+        "publishedAt": "2026-08-19T03:36:23.000Z"
       },
       {
         "time": "11:30",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592231?source=rss",
         "publishedAt": "2026-08-18T21:25:46.000Z"
-      },
-      {
-        "time": "21:42",
-        "title": "ロシアが日本大使呼び出し抗議",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592218?source=rss",
-        "publishedAt": "2026-08-18T12:42:17.000Z"
-      },
-      {
-        "time": "22:41",
-        "title": "米朝首脳会談に含み 米大統領狙い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592223?source=rss",
-        "publishedAt": "2026-08-18T13:41:34.000Z"
       }
     ],
     "economyHeadlines": [
