@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T06:48:08.815Z",
+  "updatedAt": "2026-08-19T07:19:25.967Z",
   "items": [
     {
       "time": "14:14",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領娘婿がハマスと協議 背景"
     },
     {
-      "time": "14:39",
-      "title": "川で遊泳中の17歳流される 重体か",
+      "time": "16:00",
+      "title": "万博 盛況の影で工事の不祥事続々",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592283?source=rss",
-      "publishedAt": "2026-08-19T05:39:34.000Z",
-      "xQuery": "川で遊泳中の17歳流される 重体か"
+      "url": "https://news.yahoo.co.jp/pickup/6592290?source=rss",
+      "publishedAt": "2026-08-19T07:00:32.000Z",
+      "xQuery": "万博 盛況の影で工事の不祥事続々"
     },
     {
       "time": "14:42",
