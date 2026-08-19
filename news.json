@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T09:14:22.186Z",
+  "updatedAt": "2026-08-19T09:44:49.905Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "17:16",
         "title": "ソディック、IMTS2026 出展のお知らせ：時事ドットコム",
-        "source": "時事ドットコム",
+        "source": "jiji.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MQ2NBQk5Pa1Q3MXNCTVMtNy1yclRJQkRFdXl5SXRhbDdoQm1lckFOVWlpNVdzeXFWRUQwVkFQaGg4Y0UxZmxDb2xJaTZZYUROLUEybkctNGdUMlRjYmZBVnFqYlNSVExrMGVB?oc=5",
         "publishedAt": "2026-08-19T08:16:00.000Z"
       },
@@ -40,7 +40,7 @@
       {
         "time": "09:52",
         "title": "光学式エンコーダチップ：精密モーション制御を支える技術進化と世界市場機会｜QYResearch",
-        "source": "note",
+        "source": "note.com",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DbktLZHZZMXJONTNxamlpWUlzdTEybXBzTlVFZURkcXBIenBxRVJJRWszRFJWb0VJQmVqUnRLcFZvdjY2SzBNcWl1LUdZOWk4NmNmOU9TNA?oc=5",
         "publishedAt": "2026-08-19T00:52:31.000Z"
       },
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "18:25",
+        "title": "訪日客 7月として過去最多344万人",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592317?source=rss",
+        "publishedAt": "2026-08-19T09:25:40.000Z"
+      },
+      {
         "time": "16:19",
         "title": "東証続落 中東混乱の景気減速懸念",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592264?source=rss",
         "publishedAt": "2026-08-19T02:42:50.000Z"
-      },
-      {
-        "time": "14:42",
-        "title": "フードデリバリー「menu」終了へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592284?source=rss",
-        "publishedAt": "2026-08-19T05:42:13.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-19T02:49:46.000Z"
       },
       {
-        "time": "14:39",
-        "title": "川で遊泳中の17歳流される 重体か",
+        "time": "18:07",
+        "title": "競って電車遅延させた疑い7人立件",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592283?source=rss",
-        "publishedAt": "2026-08-19T05:39:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592312?source=rss",
+        "publishedAt": "2026-08-19T09:07:58.000Z"
       }
     ],
     "subsidyHeadlines": [

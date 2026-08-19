@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T09:14:23.289Z",
+  "updatedAt": "2026-08-19T09:44:50.757Z",
   "items": [
     {
-      "time": "16:28",
-      "title": "ICC所長へ米制裁 外務省「残念」",
+      "time": "18:41",
+      "title": "ICC赤根所長に制裁 首相「残念」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592296?source=rss",
-      "publishedAt": "2026-08-19T07:28:58.000Z",
-      "xQuery": "ICC所長へ米制裁 外務省「残念」"
+      "url": "https://news.yahoo.co.jp/pickup/6592318?source=rss",
+      "publishedAt": "2026-08-19T09:41:30.000Z",
+      "xQuery": "ICC赤根所長に制裁 首相「残念」"
     },
     {
       "time": "15:35",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トロ安くなる? マグロ漁獲枠拡大"
     },
     {
-      "time": "17:30",
-      "title": "2歳死亡 近隣で以前から子の悲鳴",
+      "time": "18:26",
+      "title": "警察が盗難車を追跡 運転手は15歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592304?source=rss",
-      "publishedAt": "2026-08-19T08:30:45.000Z",
-      "xQuery": "2歳死亡 近隣で以前から子の悲鳴"
-    },
-    {
-      "time": "16:59",
-      "title": "踏切で道ふさぎ殺人未遂疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592301?source=rss",
-      "publishedAt": "2026-08-19T07:59:05.000Z",
-      "xQuery": "踏切で道ふさぎ殺人未遂疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6592316?source=rss",
+      "publishedAt": "2026-08-19T09:26:32.000Z",
+      "xQuery": "警察が盗難車を追跡 運転手は15歳"
     },
     {
       "time": "16:19",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592294?source=rss",
       "publishedAt": "2026-08-19T07:19:14.000Z",
       "xQuery": "女児34人にわいせつ 元教諭に実刑"
+    },
+    {
+      "time": "17:20",
+      "title": "ロケット残骸衝突 月にクレーター",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592303?source=rss",
+      "publishedAt": "2026-08-19T08:20:31.000Z",
+      "xQuery": "ロケット残骸衝突 月にクレーター"
     }
   ]
 };
