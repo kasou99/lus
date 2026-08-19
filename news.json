@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T12:12:13.244Z",
+  "updatedAt": "2026-08-19T12:48:32.403Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,32 @@
         "publishedAt": "2026-08-19T01:07:11.000Z"
       },
       {
-        "time": "09:30",
+        "time": "13:33",
+        "title": "ソディック、IMTS2026 出展のお知らせ",
+        "source": "prtimes.jp",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hak1NcXVHMW1hMWRwNExyRmNOUzVCcldYeFZpT3ZGbWVQSXlHaVRqTlN2Y2dLa0phdDNYRUZOLU1Sell4N1pld2lMZDVqZGplYXBFd21CQVkzN01GcTQwVWZNdjRZTjh2RVE?oc=5",
+        "publishedAt": "2026-08-19T04:33:29.000Z"
+      },
+      {
+        "time": "10:46",
         "title": "次世代設備保全クラウドの株式会社M2X、株式会社ファインの導入事例を公開",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4taU95dWZleExYU1MzWlJXcVdmWFZObFY1WmQ0WEtRX2ttSTZnaFBDak10UzBQY0hFZmNIbkRCMXZaRFV5eEdvS2YyejFyVlJLTVRySTlIbldWeWhYdE9GSXd3M3VKaWtnekE?oc=5",
-        "publishedAt": "2026-08-19T00:30:01.000Z"
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lUDZFYzJxclV2MlBRV1Q5T3dOdS1hRk11cWo2aHJJNEVaUmZ6RXMyN05GR2R6M3VCMlZsNS1ROGRBM0RhUmFHV3luZkFaQUVQb0pkWWFuWlRJdC1iTW1yVzRTbUFpbEpsRktF?oc=5",
+        "publishedAt": "2026-08-19T01:46:00.000Z"
+      },
+      {
+        "time": "09:52",
+        "title": "光学式エンコーダチップ：精密モーション制御を支える技術進化と世界市場機会｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DbktLZHZZMXJONTNxamlpWUlzdTEybXBzTlVFZURkcXBIenBxRVJJRWszRFJWb0VJQmVqUnRLcFZvdjY2SzBNcWl1LUdZOWk4NmNmOU9TNA?oc=5",
+        "publishedAt": "2026-08-19T00:52:31.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "ブラザー、主軸30番の複合加工機で初となる64本の工具を搭載可能なモデルを開発",
+        "source": "prtimes.jp",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tNDVxYXQyaTFPZWRSaXhtUmJzQlQ1c3pjSk5HOGdGeXczREY1R3loQm5mbDVGa19nVXJiSkNOSnVQUG5WMVcxTDFnNE5pTHRNQmFmNWEybzRvQm94UmpDUUcwYUp3Q2FvdGc?oc=5",
+        "publishedAt": "2026-08-19T01:00:02.000Z"
       },
       {
         "time": "16:00",
@@ -29,27 +50,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QbTNJZEF1UGdYUlJkX043WkxaX05MQ1Qyb1VPTFVvRGxQYldBeXJQcGowS19yR0V6OGFESG1BUHQ1bXh0UFpObzQydDlHNlVCazRXQXktQjFKeVM2N0xrdDZrTUNUUzNBVEJnWlZnSUdnOTB4SHc?oc=5",
         "publishedAt": "2026-08-19T07:00:19.000Z"
-      },
-      {
-        "time": "09:52",
-        "title": "光学式エンコーダチップ：精密モーション制御を支える技術進化と世界市場機会｜QYResearch",
-        "source": "note.com",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DbktLZHZZMXJONTNxamlpWUlzdTEybXBzTlVFZURkcXBIenBxRVJJRWszRFJWb0VJQmVqUnRLcFZvdjY2SzBNcWl1LUdZOWk4NmNmOU9TNA?oc=5",
-        "publishedAt": "2026-08-19T00:52:31.000Z"
-      },
-      {
-        "time": "13:33",
-        "title": "ソディック、IMTS2026 出展のお知らせ",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hak1NcXVHMW1hMWRwNExyRmNOUzVCcldYeFZpT3ZGbWVQSXlHaVRqTlN2Y2dLa0phdDNYRUZOLU1Sell4N1pld2lMZDVqZGplYXBFd21CQVkzN01GcTQwVWZNdjRZTjh2RVE?oc=5",
-        "publishedAt": "2026-08-19T04:33:29.000Z"
-      },
-      {
-        "time": "21:30",
-        "title": "高所の雨漏り補修・防錆・漏洩検査を産業用ドローンで実演。SABOT-3 BLOCK2無料体験会を9月11日（金）横浜・鶴見で開催",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YeUYxRkhQbXgyQkNPWjZpVzBuY3JMcjBicEoxTnYzakpwNFhydXg3djc4c3FRQl9mUG4tRlRKc29kVVdFSGxIMDNWRnFHTXdoNUNjZDU0YzBOTDRYMTZ0WHZITnBidGhw?oc=5",
-        "publishedAt": "2026-08-18T12:30:19.000Z"
       },
       {
         "time": "18:00",

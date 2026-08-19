@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T12:12:13.839Z",
+  "updatedAt": "2026-08-19T12:48:33.199Z",
   "items": [
     {
       "time": "19:25",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "訪日客 7月として過去最多344万人"
     },
     {
-      "time": "18:01",
-      "title": "米警察 少女行方不明で霊能者頼る",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592308?source=rss",
-      "publishedAt": "2026-08-19T09:01:52.000Z",
-      "xQuery": "米警察 少女行方不明で霊能者頼る"
-    },
-    {
       "time": "20:21",
       "title": "診察待つ列に車突っ込む 女性死亡",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592312?source=rss",
       "publishedAt": "2026-08-19T09:07:58.000Z",
       "xQuery": "競って電車遅延させた疑い7人立件"
+    },
+    {
+      "time": "19:30",
+      "title": "道沿いに食パン大量投棄 3日連続",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592320?source=rss",
+      "publishedAt": "2026-08-19T10:30:12.000Z",
+      "xQuery": "道沿いに食パン大量投棄 3日連続"
     }
   ]
 };
