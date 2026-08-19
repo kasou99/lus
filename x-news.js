@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T03:48:15.397Z",
+  "updatedAt": "2026-08-19T04:16:49.507Z",
   "items": [
     {
       "time": "11:52",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本など38℃前後予想 熱中症注意"
     },
     {
-      "time": "12:36",
-      "title": "対カナダ50%関税発動を3日延期 米",
+      "time": "12:34",
+      "title": "超党派議員団が訪中へ 中国側招待",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592276?source=rss",
-      "publishedAt": "2026-08-19T03:36:23.000Z",
-      "xQuery": "対カナダ50%関税発動を3日延期 米"
-    },
-    {
-      "time": "11:49",
-      "title": "ヘルパーがパチンコ 障害者を放置",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592267?source=rss",
-      "publishedAt": "2026-08-19T02:49:46.000Z",
-      "xQuery": "ヘルパーがパチンコ 障害者を放置"
+      "url": "https://news.yahoo.co.jp/pickup/6592270?source=rss",
+      "publishedAt": "2026-08-19T03:34:00.000Z",
+      "xQuery": "超党派議員団が訪中へ 中国側招待"
     },
     {
       "time": "11:41",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "従業員逮捕 竹中工務店がコメント"
     },
     {
-      "time": "11:42",
-      "title": "日立 日立建機の全株式売却へ",
+      "time": "11:49",
+      "title": "ヘルパーがパチンコ 障害者を放置",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592264?source=rss",
-      "publishedAt": "2026-08-19T02:42:50.000Z",
-      "xQuery": "日立 日立建機の全株式売却へ"
+      "url": "https://news.yahoo.co.jp/pickup/6592267?source=rss",
+      "publishedAt": "2026-08-19T02:49:46.000Z",
+      "xQuery": "ヘルパーがパチンコ 障害者を放置"
+    },
+    {
+      "time": "12:44",
+      "title": "洋麺屋五右衛門の出店加速 なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592274?source=rss",
+      "publishedAt": "2026-08-19T03:44:58.000Z",
+      "xQuery": "洋麺屋五右衛門の出店加速 なぜ"
     }
   ]
 };
