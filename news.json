@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T11:08:58.710Z",
+  "updatedAt": "2026-08-19T11:40:58.930Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -33,7 +33,7 @@
       {
         "time": "09:52",
         "title": "光学式エンコーダチップ：精密モーション制御を支える技術進化と世界市場機会｜QYResearch",
-        "source": "note",
+        "source": "note.com",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DbktLZHZZMXJONTNxamlpWUlzdTEybXBzTlVFZURkcXBIenBxRVJJRWszRFJWb0VJQmVqUnRLcFZvdjY2SzBNcWl1LUdZOWk4NmNmOU9TNA?oc=5",
         "publishedAt": "2026-08-19T00:52:31.000Z"
       },
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "14:14",
-        "title": "豪雨 放置車の所有者現れるか懸念",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592280?source=rss",
-        "publishedAt": "2026-08-19T05:14:55.000Z"
-      },
-      {
         "time": "17:30",
         "title": "2歳死亡 近隣で以前から子の悲鳴",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592304?source=rss",
         "publishedAt": "2026-08-19T08:30:45.000Z"
+      },
+      {
+        "time": "20:21",
+        "title": "診察待つ列に車突っ込む 女性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592327?source=rss",
+        "publishedAt": "2026-08-19T11:21:31.000Z"
       },
       {
         "time": "16:59",
