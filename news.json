@@ -1,27 +1,41 @@
 {
-  "updatedAt": "2026-08-19T01:33:30.233Z",
+  "updatedAt": "2026-08-19T02:30:00.529Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "09:30",
-        "title": "次世代設備保全クラウドの株式会社M2X、株式会社ファインの導入事例を公開",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4taU95dWZleExYU1MzWlJXcVdmWFZObFY1WmQ0WEtRX2ttSTZnaFBDak10UzBQY0hFZmNIbkRCMXZaRFV5eEdvS2YyejFyVlJLTVRySTlIbldWeWhYdE9GSXd3M3VKaWtnekE?oc=5",
-        "publishedAt": "2026-08-19T00:30:01.000Z"
-      },
-      {
-        "time": "01:01",
-        "title": "横顔／中部経済産業局長に就任した三浦聡氏",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKRTN2MkMxN1lHR3NQMkpPUWhuUWFSRTFvaWlYX3JDS0lVZzZ0ZHR4cEhBSk5oOWZlYjdJU1FyZ2ZYNHEzMF9qN0l4OXcxN0U4RDgxSVQxS0JycEU?oc=5",
-        "publishedAt": "2026-08-18T16:01:36.000Z"
-      },
       {
         "time": "10:00",
         "title": "ブラザー、主軸30番の複合加工機で初となる64本の工具を搭載可能なモデルを開発",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tNDVxYXQyaTFPZWRSaXhtUmJzQlQ1c3pjSk5HOGdGeXczREY1R3loQm5mbDVGa19nVXJiSkNOSnVQUG5WMVcxTDFnNE5pTHRNQmFmNWEybzRvQm94UmpDUUcwYUp3Q2FvdGc?oc=5",
         "publishedAt": "2026-08-19T01:00:02.000Z"
+      },
+      {
+        "time": "11:15",
+        "title": "次世代設備保全クラウドの株式会社M2X、株式会社ファインの導入事例を公開",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KQmlQUjgzeUUwN1N4LWZGeVFBVUpBSzZUNEkzbTFFZ3ZvUXBxWFpCNDA2YnZ5SmEyazRIYjlISkZWYTRwblFNUklvN2xRX3ZmZzZzSXh5UFpEcTh0TVIyNGpuanVHcTJCakNBY2Nha1lkMXJQaTFJV3ZPUQ?oc=5",
+        "publishedAt": "2026-08-19T02:15:26.000Z"
+      },
+      {
+        "time": "09:31",
+        "title": "極める／三菱UFJFGデジタルソリューション部部長・岩田廉平氏 従業員とAI 親和促す",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfN214WHVHRXg5Szg2dmJiYkNZOWZvdXZVOC13X2VJR2trWkc5cm51dWp0d09HTFF6Yk5McWxPOUlnR0pHVEtDenRqUElEcVBXN0hQMVZzUEhsMU0?oc=5",
+        "publishedAt": "2026-08-19T00:31:04.000Z"
+      },
+      {
+        "time": "09:52",
+        "title": "光学式エンコーダチップ：精密モーション制御を支える技術進化と世界市場機会｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DbktLZHZZMXJONTNxamlpWUlzdTEybXBzTlVFZURkcXBIenBxRVJJRWszRFJWb0VJQmVqUnRLcFZvdjY2SzBNcWl1LUdZOWk4NmNmOU9TNA?oc=5",
+        "publishedAt": "2026-08-19T00:52:31.000Z"
+      },
+      {
+        "time": "18:18",
+        "title": "江口電機が新工場建設に着手 好調続く制御盤の生産能力倍増へ",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EczRvZnpKNVV0cTJ6UnZ0R25DN0E4SVd0aEJ5WkkyQnRFdk0zb3dCaTV5cFpPYzNGNkZzeTdwOXJmZmEzTVZtSGo3WUxTOHFiRXc?oc=5",
+        "publishedAt": "2026-08-18T09:18:56.000Z"
       },
       {
         "time": "08:58",
@@ -31,35 +45,28 @@
         "publishedAt": "2026-08-18T23:58:59.000Z"
       },
       {
-        "time": "11:14",
-        "title": "【7762.T FY2026 Q1 決算説明会】シチズン時計、4-6月期は営業利益110.9%増の99億円 通期予想を大幅上方修正",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEcUsyTnczZFBMUGhoSmJiLU5KVUJPbUFIZHNoNUxHekVQMmNZNEtLRDJ5M243dld3U0h4VE1QcXJFWTBnY0p3SmR0WF9mTHdIN2duQ3doRE5HaVo5SVpz?oc=5",
-        "publishedAt": "2026-08-18T02:14:00.000Z"
+        "time": "05:03",
+        "title": "中村留精密、体験型展示室を開設 本社工場に",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sVnNDMlM2WnFmd25lZmxwS2dDTlNkQ3EwandJUnZLa3p4V3p0VF9QdDRJTDdSY3ZMQ1EwdGRwd0hfNFQwWXlPb3dQb2EyTl9JS0wtUUZPTjNFMlk?oc=5",
+        "publishedAt": "2026-08-18T20:03:38.000Z"
       },
       {
-        "time": "16:22",
+        "time": "16:18",
         "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZS09VYmFjczN6cVlMZEY3RUUtel8xOFBxU2o4dzRmV3p2aEdzSTZDZnVoMVVBMG50a2Y3emozenluY3NSZmxESXdRdURoYk9SYVNtTVVIaUk?oc=5",
-        "publishedAt": "2026-08-18T07:22:15.000Z"
-      },
-      {
-        "time": "21:30",
-        "title": "高所の雨漏り補修・防錆・漏洩検査を産業用ドローンで実演。SABOT-3 BLOCK2無料体験会を9月11日（金）横浜・鶴見で開催",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YeUYxRkhQbXgyQkNPWjZpVzBuY3JMcjBicEoxTnYzakpwNFhydXg3djc4c3FRQl9mUG4tRlRKc29kVVdFSGxIMDNWRnFHTXdoNUNjZDU0YzBOTDRYMTZ0WHZITnBidGhw?oc=5",
-        "publishedAt": "2026-08-18T12:30:19.000Z"
-      },
-      {
-        "time": "17:48",
-        "title": "東朋テクノロジー 丸型端子向け新型端子台を開発：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NbEgwTFVoNkRLNUlMZ2R1WlZoZU1waHV2YnhRdzJqX055alRnQ2RPOHdMYk1lUEtscUJnbkF5cEtNQi1VZENrRWFfSVpGLTFiUXFld09HV1FyY29LZmJF?oc=5",
-        "publishedAt": "2026-08-18T08:48:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BcDJMZW1WOEpWeGhpaFBub3J3bkpWc2VyUlprNmNSbXo2NVF1dDRIWFpRdW1oZDdPczhnX1IzVGROUzRoX2I1a0F2UlR2Q2lqMW96d0J5eW1nVEJQR2RIOTA0LXpYRDNCREU3N3RpWQ?oc=5",
+        "publishedAt": "2026-08-18T07:18:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "11:25",
+        "title": "米韓軍事演習を短縮 米国側要請で",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592262?source=rss",
+        "publishedAt": "2026-08-19T02:25:22.000Z"
+      },
       {
         "time": "08:03",
         "title": "イランが弾道ミサイル UAE発表",
@@ -89,13 +96,6 @@
         "publishedAt": "2026-08-18T13:41:34.000Z"
       },
       {
-        "time": "08:55",
-        "title": "米大統領 正恩氏巡り「彼を理解」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592133?source=rss",
-        "publishedAt": "2026-08-17T23:55:26.000Z"
-      },
-      {
         "time": "09:36",
         "title": "ト‌ランプ氏支持率33% ロイター",
         "source": "Yahoo!ニュース",
@@ -119,13 +119,6 @@
         "publishedAt": "2026-08-18T23:45:27.000Z"
       },
       {
-        "time": "20:38",
-        "title": "LINEクレジット 都が業務改善命令",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592197?source=rss",
-        "publishedAt": "2026-08-18T11:38:58.000Z"
-      },
-      {
         "time": "10:07",
         "title": "東海汽船 新年会で飲酒後に勤務か",
         "source": "Yahoo!ニュース",
@@ -133,11 +126,11 @@
         "publishedAt": "2026-08-19T01:07:38.000Z"
       },
       {
-        "time": "21:20",
-        "title": "通販生活が楽天市場から撤退",
+        "time": "10:45",
+        "title": "すしやコナン 空港の愛称の効果は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592215?source=rss",
-        "publishedAt": "2026-08-18T12:20:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592256?source=rss",
+        "publishedAt": "2026-08-19T01:45:03.000Z"
       },
       {
         "time": "07:41",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592235?source=rss",
         "publishedAt": "2026-08-18T22:41:58.000Z"
+      },
+      {
+        "time": "11:02",
+        "title": "アニメ制作市場 ピークアウトか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592258?source=rss",
+        "publishedAt": "2026-08-19T02:02:18.000Z"
       }
     ],
     "localHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },

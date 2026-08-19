@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T01:33:30.917Z",
+  "updatedAt": "2026-08-19T02:30:01.540Z",
   "items": [
+    {
+      "time": "11:25",
+      "title": "米韓軍事演習を短縮 米国側要請で",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592262?source=rss",
+      "publishedAt": "2026-08-19T02:25:22.000Z",
+      "xQuery": "米韓軍事演習を短縮 米国側要請で"
+    },
     {
       "time": "09:31",
       "title": "日経平均 一時2000円超の値下がり",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592250?source=rss",
       "publishedAt": "2026-08-19T00:31:52.000Z",
       "xQuery": "日経平均 一時2000円超の値下がり"
-    },
-    {
-      "time": "09:04",
-      "title": "OpenAIの2人語る 注目の職種FDE",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592242?source=rss",
-      "publishedAt": "2026-08-19T00:04:04.000Z",
-      "xQuery": "OpenAIの2人語る 注目の職種FDE"
     },
     {
       "time": "08:45",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "竹中工務店の万博現場責任者 逮捕"
     },
     {
-      "time": "09:14",
-      "title": "泊原発構内で作業員死亡 約9m転落",
+      "time": "11:02",
+      "title": "アニメ制作市場 ピークアウトか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592247?source=rss",
-      "publishedAt": "2026-08-19T00:14:41.000Z",
-      "xQuery": "泊原発構内で作業員死亡 約9m転落"
+      "url": "https://news.yahoo.co.jp/pickup/6592258?source=rss",
+      "publishedAt": "2026-08-19T02:02:18.000Z",
+      "xQuery": "アニメ制作市場 ピークアウトか"
     },
     {
-      "time": "09:43",
-      "title": "四千頭身・都築さん 捜査の焦点は",
+      "time": "10:45",
+      "title": "すしやコナン 空港の愛称の効果は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592249?source=rss",
-      "publishedAt": "2026-08-19T00:43:11.000Z",
-      "xQuery": "四千頭身・都築さん 捜査の焦点は"
+      "url": "https://news.yahoo.co.jp/pickup/6592256?source=rss",
+      "publishedAt": "2026-08-19T01:45:03.000Z",
+      "xQuery": "すしやコナン 空港の愛称の効果は"
     }
   ]
 };
