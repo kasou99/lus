@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T04:16:49.507Z",
+  "updatedAt": "2026-08-19T04:46:10.143Z",
   "items": [
     {
       "time": "11:52",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ヘルパーがパチンコ 障害者を放置"
     },
     {
-      "time": "12:44",
-      "title": "洋麺屋五右衛門の出店加速 なぜ",
+      "time": "13:17",
+      "title": "洋麺屋五右衛門 出店ラッシュの訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592274?source=rss",
-      "publishedAt": "2026-08-19T03:44:58.000Z",
-      "xQuery": "洋麺屋五右衛門の出店加速 なぜ"
+      "url": "https://news.yahoo.co.jp/pickup/6592278?source=rss",
+      "publishedAt": "2026-08-19T04:17:40.000Z",
+      "xQuery": "洋麺屋五右衛門 出店ラッシュの訳"
     }
   ]
 };
