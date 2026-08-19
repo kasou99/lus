@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T05:43:24.901Z",
+  "updatedAt": "2026-08-19T06:14:45.327Z",
   "items": [
     {
       "time": "14:14",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領娘婿がハマスと協議 背景"
     },
     {
-      "time": "11:41",
-      "title": "従業員逮捕 竹中工務店がコメント",
+      "time": "14:39",
+      "title": "川で遊泳中の17歳流される 重体か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592265?source=rss",
-      "publishedAt": "2026-08-19T02:41:31.000Z",
-      "xQuery": "従業員逮捕 竹中工務店がコメント"
+      "url": "https://news.yahoo.co.jp/pickup/6592283?source=rss",
+      "publishedAt": "2026-08-19T05:39:34.000Z",
+      "xQuery": "川で遊泳中の17歳流される 重体か"
     },
     {
-      "time": "11:37",
-      "title": "カリブ海 海藻で各地のビーチ茶色",
+      "time": "14:42",
+      "title": "フードデリバリー「menu」終了へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592263?source=rss",
-      "publishedAt": "2026-08-19T02:37:49.000Z",
-      "xQuery": "カリブ海 海藻で各地のビーチ茶色"
+      "url": "https://news.yahoo.co.jp/pickup/6592284?source=rss",
+      "publishedAt": "2026-08-19T05:42:13.000Z",
+      "xQuery": "フードデリバリー「menu」終了へ"
     },
     {
-      "time": "13:03",
-      "title": "必要な便器数の算出基準 見直しへ",
+      "time": "14:57",
+      "title": "転売目的で大量購入 悪性bot実態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592277?source=rss",
-      "publishedAt": "2026-08-19T04:03:03.000Z",
-      "xQuery": "必要な便器数の算出基準 見直しへ"
+      "url": "https://news.yahoo.co.jp/pickup/6592285?source=rss",
+      "publishedAt": "2026-08-19T05:57:14.000Z",
+      "xQuery": "転売目的で大量購入 悪性bot実態"
     }
   ]
 };

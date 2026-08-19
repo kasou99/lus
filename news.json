@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T05:43:24.010Z",
+  "updatedAt": "2026-08-19T06:14:44.474Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-08-18T20:03:38.000Z"
       },
       {
+        "time": "18:18",
+        "title": "江口電機が新工場建設に着手 好調続く制御盤の生産能力倍増へ",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EczRvZnpKNVV0cTJ6UnZ0R25DN0E4SVd0aEJ5WkkyQnRFdk0zb3dCaTV5cFpPYzNGNkZzeTdwOXJmZmEzTVZtSGo3WUxTOHFiRXc?oc=5",
+        "publishedAt": "2026-08-18T09:18:56.000Z"
+      },
+      {
         "time": "05:03",
         "title": "NEC、軍民両用の水中音響基盤構築 装備庁と来年度めど",
         "source": "日刊工業新聞",
@@ -40,23 +47,16 @@
       {
         "time": "21:30",
         "title": "高所の雨漏り補修・防錆・漏洩検査を産業用ドローンで実演。SABOT-3 BLOCK2無料体験会を9月11日（金）横浜・鶴見で開催",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YeUYxRkhQbXgyQkNPWjZpVzBuY3JMcjBicEoxTnYzakpwNFhydXg3djc4c3FRQl9mUG4tRlRKc29kVVdFSGxIMDNWRnFHTXdoNUNjZDU0YzBOTDRYMTZ0WHZITnBidGhw?oc=5",
         "publishedAt": "2026-08-18T12:30:19.000Z"
       },
       {
         "time": "12:00",
         "title": "日本殺生物剤市場は2035年に6億4,210万米ドル規模へ、CAGR 4.79％を背景に感染症対策・農業・産業用途で需要拡大",
-        "source": "newscast.jp",
+        "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WQ3pwcGstMUdaQmlBRUNCQVpfLVN2UGgyV2kzMmFQbS1MZDFDbHhHOGJsbEdHWkVUUTJGMXpmLTNfS2haQ0VPQ2tLMHhBcVU?oc=5",
         "publishedAt": "2026-08-19T03:00:00.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "ソディック、2Q売上高は四半期ベースで過去最高 上期営業利益は前年同期比2倍超、通期業績予想を上方修正",
-        "source": "みんかぶ",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaTGdzeTMtR2E1LVdkOVhOQXhieGZLVF90dllJQXVxcl96Q2RFU21rVXViZTRKeW5LSW43TmFmT3VFamFjZVBpSg?oc=5",
-        "publishedAt": "2026-08-19T04:00:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,11 +133,11 @@
         "publishedAt": "2026-08-19T02:42:50.000Z"
       },
       {
-        "time": "10:07",
-        "title": "東海汽船 新年会で飲酒後に勤務か",
+        "time": "14:42",
+        "title": "フードデリバリー「menu」終了へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592253?source=rss",
-        "publishedAt": "2026-08-19T01:07:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592284?source=rss",
+        "publishedAt": "2026-08-19T05:42:13.000Z"
       },
       {
         "time": "11:02",
