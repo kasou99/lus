@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T22:41:18.280Z",
+  "updatedAt": "2026-08-19T23:08:49.240Z",
   "items": [
     {
       "time": "06:38",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "九州-東海で猛暑日の予想 警戒を"
     },
     {
-      "time": "22:50",
-      "title": "豪雨 千葉市幹線道路の車撤去完了",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592341?source=rss",
-      "publishedAt": "2026-08-19T13:50:40.000Z",
-      "xQuery": "豪雨 千葉市幹線道路の車撤去完了"
-    },
-    {
       "time": "06:55",
       "title": "米大統領 正恩氏と会談の意向表明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592351?source=rss",
       "publishedAt": "2026-08-19T21:55:05.000Z",
       "xQuery": "米大統領 正恩氏と会談の意向表明"
+    },
+    {
+      "time": "07:40",
+      "title": "台風18号 来週日本列島に影響恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592355?source=rss",
+      "publishedAt": "2026-08-19T22:40:14.000Z",
+      "xQuery": "台風18号 来週日本列島に影響恐れ"
     },
     {
       "time": "20:59",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中道落選者ら 政治団体ゴリラ設立"
     },
     {
-      "time": "06:28",
-      "title": "ICC所長らへの米制裁 相次ぐ非難",
+      "time": "07:53",
+      "title": "万博工事背任疑い 関係者に衝撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592349?source=rss",
-      "publishedAt": "2026-08-19T21:28:55.000Z",
-      "xQuery": "ICC所長らへの米制裁 相次ぐ非難"
+      "url": "https://news.yahoo.co.jp/pickup/6592356?source=rss",
+      "publishedAt": "2026-08-19T22:53:30.000Z",
+      "xQuery": "万博工事背任疑い 関係者に衝撃"
     }
   ]
 };
