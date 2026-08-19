@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T05:12:24.541Z",
+  "updatedAt": "2026-08-19T05:43:24.010Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-08-19T00:52:31.000Z"
       },
       {
-        "time": "06:51",
-        "title": "横顔／中部経済産業局長に就任した三浦聡氏",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40bVFvTEdaY19NYlRfYm9KeXV2bzBnSmp5QzlCWnpjb1g0T2FCQnY2OWY3cG1vOWRnQnk5bVRvaGtidmF2Tkt3YnBISTk2eGIxUGVJZFE0Y2lhUXB0LWZkTHo0QVl1a0dicWd6eGp5dklzQ0VT?oc=5",
-        "publishedAt": "2026-08-18T21:51:37.000Z"
-      },
-      {
         "time": "05:03",
         "title": "中村留精密、体験型展示室を開設 本社工場に",
         "source": "日刊工業新聞",
@@ -47,16 +40,23 @@
       {
         "time": "21:30",
         "title": "高所の雨漏り補修・防錆・漏洩検査を産業用ドローンで実演。SABOT-3 BLOCK2無料体験会を9月11日（金）横浜・鶴見で開催",
-        "source": "ニコニコニュース",
+        "source": "news.nicovideo.jp",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YeUYxRkhQbXgyQkNPWjZpVzBuY3JMcjBicEoxTnYzakpwNFhydXg3djc4c3FRQl9mUG4tRlRKc29kVVdFSGxIMDNWRnFHTXdoNUNjZDU0YzBOTDRYMTZ0WHZITnBidGhw?oc=5",
         "publishedAt": "2026-08-18T12:30:19.000Z"
       },
       {
         "time": "12:00",
         "title": "日本殺生物剤市場は2035年に6億4,210万米ドル規模へ、CAGR 4.79％を背景に感染症対策・農業・産業用途で需要拡大",
-        "source": "Newscast.jp",
+        "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WQ3pwcGstMUdaQmlBRUNCQVpfLVN2UGgyV2kzMmFQbS1MZDFDbHhHOGJsbEdHWkVUUTJGMXpmLTNfS2haQ0VPQ2tLMHhBcVU?oc=5",
         "publishedAt": "2026-08-19T03:00:00.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "ソディック、2Q売上高は四半期ベースで過去最高 上期営業利益は前年同期比2倍超、通期業績予想を上方修正",
+        "source": "みんかぶ",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaTGdzeTMtR2E1LVdkOVhOQXhieGZLVF90dllJQXVxcl96Q2RFU21rVXViZTRKeW5LSW43TmFmT3VFamFjZVBpSg?oc=5",
+        "publishedAt": "2026-08-19T04:00:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "06:58",
-        "title": "豪雨の路上車両600台 撤去へ連携",
+        "time": "14:14",
+        "title": "豪雨 放置車の所有者現れるか懸念",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592233?source=rss",
-        "publishedAt": "2026-08-18T21:58:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592280?source=rss",
+        "publishedAt": "2026-08-19T05:14:55.000Z"
       },
       {
         "time": "09:14",
@@ -170,18 +170,18 @@
         "publishedAt": "2026-08-18T21:17:12.000Z"
       },
       {
-        "time": "08:13",
-        "title": "琵琶湖で魚とりの男性死亡 溺死か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592239?source=rss",
-        "publishedAt": "2026-08-18T23:13:35.000Z"
-      },
-      {
         "time": "11:49",
         "title": "ヘルパーがパチンコ 障害者を放置",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592267?source=rss",
         "publishedAt": "2026-08-19T02:49:46.000Z"
+      },
+      {
+        "time": "14:39",
+        "title": "川で遊泳中の17歳流される 重体か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592283?source=rss",
+        "publishedAt": "2026-08-19T05:39:34.000Z"
       },
       {
         "time": "08:15",
