@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T15:11:36.068Z",
+  "updatedAt": "2026-08-19T15:43:33.814Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "jetro.go.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YR3pBOUE1SUZORUFkQ0g3bDVsYlNfdHgzVFpTRXlFU0lHUWdWMk9ybnBPd3d6TnZVVEIxMWhrdndUT3JmMEZRMUx1TXUza1phXy0wN0thd3pjREV5VUdoLVBGYmVKcllETkJfS0d0YzFaUQ?oc=5",
         "publishedAt": "2026-08-19T01:07:11.000Z"
-      },
-      {
-        "time": "15:30",
-        "title": "シチズン時計、1Qは前年比増収増益を達成 時計・工作機械の好調を受け上期・通期業績予想を上方修正、年間配当も増配",
-        "source": "みんかぶ",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBGa2YwcTljYWhVdEo4ai0zMTN5ekxDRlFTclo2STFKN3VYeEFfWlp1ZUl3NVdpOW9iekJubURtLUdHTV9XNUE?oc=5",
-        "publishedAt": "2026-08-19T06:30:01.000Z"
       },
       {
         "time": "13:33",
@@ -31,6 +24,13 @@
         "publishedAt": "2026-08-19T01:46:00.000Z"
       },
       {
+        "time": "13:33",
+        "title": "ソディック、IMTS2026 出展のお知らせ｜Infoseekニュース",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82SWFEbks2VVVEOC1ubEU4WlY3YVRFVFhMQkEtMnM0RS1nZnE4UlJDa01qZ0hNWEFTaGRwYTdDajZQWmFHUkF4RlhqRGdzcUUxY2hOVVhmZE1YY21fTXFrZGQ1VkxObHA1MUdTRzNsRWk5UQ?oc=5",
+        "publishedAt": "2026-08-19T04:33:29.000Z"
+      },
+      {
         "time": "09:52",
         "title": "光学式エンコーダチップ：精密モーション制御を支える技術進化と世界市場機会｜QYResearch",
         "source": "note",
@@ -38,11 +38,11 @@
         "publishedAt": "2026-08-19T00:52:31.000Z"
       },
       {
-        "time": "10:00",
-        "title": "ブラザー、主軸30番の複合加工機で初となる64本の工具を搭載可能なモデルを開発",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tNDVxYXQyaTFPZWRSaXhtUmJzQlQ1c3pjSk5HOGdGeXczREY1R3loQm5mbDVGa19nVXJiSkNOSnVQUG5WMVcxTDFnNE5pTHRNQmFmNWEybzRvQm94UmpDUUcwYUp3Q2FvdGc?oc=5",
-        "publishedAt": "2026-08-19T01:00:02.000Z"
+        "time": "11:45",
+        "title": "ブラザー、主軸30番の複合加工機で初となる64本の工具を搭載可能なモデルを開発｜Infoseekニュース",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JSlhWOFg3NGZmQ0l3alJUNkE4QkFzRk5NZWdxY2daYkREeEhrVWRqZ1FtMGNyd21COFJnVElaNVU1aTMzem9lZWlVeGxBS215aEN6bzU3Yld0aEgxZV9kMFZWWjFRYlExa3hpc18zdGFVUQ?oc=5",
+        "publishedAt": "2026-08-19T02:45:25.000Z"
       },
       {
         "time": "16:00",
@@ -55,7 +55,7 @@
         "time": "10:00",
         "title": "アストリス・アドバイザリー・ジャパン株式会社が株式会社",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZZFpWXzQ2QzJiVVp2U1NENF9wRkNkMGtpOWZhOGdRZGlsMFBxWldrbXc3YWdoZkZhWk5jMjd4NFZHZjFKMW5QeDZyanVYTkFkN0xHdg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XeUY3OGYxR0c0TXBqRFBXaTdOeVQzR2JIZTRrdjYzTXQ3eEtBMW03em1tNzdPUERCMDB3eXMwWm9PSXJtbGRXNC1BazhjMVpUc3JaRXdYX2FBdXczS1lQaFllVUwxLUhFQm1NVTFSVUFNRl9QTV9VYVVUSQ?oc=5",
         "publishedAt": "2026-08-19T01:00:25.000Z"
       }
     ],
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },

@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T15:11:36.826Z",
+  "updatedAt": "2026-08-19T15:43:34.445Z",
   "items": [
-    {
-      "time": "21:49",
-      "title": "JR九州被害額16年地震上回る恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592335?source=rss",
-      "publishedAt": "2026-08-19T12:49:21.000Z",
-      "xQuery": "JR九州被害額16年地震上回る恐れ"
-    },
     {
       "time": "22:50",
       "title": "豪雨 千葉市幹線道路の車撤去完了",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592341?source=rss",
       "publishedAt": "2026-08-19T13:50:40.000Z",
       "xQuery": "豪雨 千葉市幹線道路の車撤去完了"
+    },
+    {
+      "time": "21:49",
+      "title": "JR九州被害額16年地震上回る恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592335?source=rss",
+      "publishedAt": "2026-08-19T12:49:21.000Z",
+      "xQuery": "JR九州被害額16年地震上回る恐れ"
     },
     {
       "time": "20:59",
