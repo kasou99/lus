@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T14:45:34.774Z",
+  "updatedAt": "2026-08-19T15:11:36.826Z",
   "items": [
-    {
-      "time": "22:50",
-      "title": "豪雨 千葉市幹線道路の車撤去完了",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592341?source=rss",
-      "publishedAt": "2026-08-19T13:50:40.000Z",
-      "xQuery": "豪雨 千葉市幹線道路の車撤去完了"
-    },
     {
       "time": "21:49",
       "title": "JR九州被害額16年地震上回る恐れ",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592335?source=rss",
       "publishedAt": "2026-08-19T12:49:21.000Z",
       "xQuery": "JR九州被害額16年地震上回る恐れ"
+    },
+    {
+      "time": "22:50",
+      "title": "豪雨 千葉市幹線道路の車撤去完了",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592341?source=rss",
+      "publishedAt": "2026-08-19T13:50:40.000Z",
+      "xQuery": "豪雨 千葉市幹線道路の車撤去完了"
     },
     {
       "time": "20:59",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "診察待つ列に車突っ込む 女性死亡"
     },
     {
-      "time": "23:41",
-      "title": "川遊びで流された男子高校生 死亡",
+      "time": "19:30",
+      "title": "道沿いに食パン大量投棄 3日連続",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592345?source=rss",
-      "publishedAt": "2026-08-19T14:41:04.000Z",
-      "xQuery": "川遊びで流された男子高校生 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6592320?source=rss",
+      "publishedAt": "2026-08-19T10:30:12.000Z",
+      "xQuery": "道沿いに食パン大量投棄 3日連続"
     }
   ]
 };
