@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T02:56:06.878Z",
+  "updatedAt": "2026-08-19T03:21:59.354Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lUDZFYzJxclV2MlBRV1Q5T3dOdS1hRk11cWo2aHJJNEVaUmZ6RXMyN05GR2R6M3VCMlZsNS1ROGRBM0RhUmFHV3luZkFaQUVQb0pkWWFuWlRJdC1iTW1yVzRTbUFpbEpsRktF?oc=5",
         "publishedAt": "2026-08-19T01:46:00.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "ブラザー、主軸30番の複合加工機で初となる64本の工具を搭載可能なモデルを開発",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tNDVxYXQyaTFPZWRSaXhtUmJzQlQ1c3pjSk5HOGdGeXczREY1R3loQm5mbDVGa19nVXJiSkNOSnVQUG5WMVcxTDFnNE5pTHRNQmFmNWEybzRvQm94UmpDUUcwYUp3Q2FvdGc?oc=5",
-        "publishedAt": "2026-08-19T01:00:02.000Z"
       },
       {
         "time": "09:52",
@@ -31,11 +24,18 @@
         "publishedAt": "2026-08-18T20:03:38.000Z"
       },
       {
-        "time": "16:22",
+        "time": "11:46",
+        "title": "ブラザー、主軸30番の複合加工機で初となる64本の工具を搭載可能なモデルを開発",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xRzVDZ3gzN2tpclJaaUtFTmV5VEprMTBLSHp3a0hBbVdsNzBfOVJuWWVHUkNvTnV0Q1JnWFFtTFBqdFhueGJtek9xdDFJRmN0MjBBZVNQX3oxMEJOQjdHb3NDSVdTRmMzcFRB?oc=5",
+        "publishedAt": "2026-08-19T02:46:00.000Z"
+      },
+      {
+        "time": "16:18",
         "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZS09VYmFjczN6cVlMZEY3RUUtel8xOFBxU2o4dzRmV3p2aEdzSTZDZnVoMVVBMG50a2Y3emozenluY3NSZmxESXdRdURoYk9SYVNtTVVIaUk?oc=5",
-        "publishedAt": "2026-08-18T07:22:15.000Z"
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BcDJMZW1WOEpWeGhpaFBub3J3bkpWc2VyUlprNmNSbXo2NVF1dDRIWFpRdW1oZDdPczhnX1IzVGROUzRoX2I1a0F2UlR2Q2lqMW96d0J5eW1nVEJQR2RIOTA0LXpYRDNCREU3N3RpWQ?oc=5",
+        "publishedAt": "2026-08-18T07:18:00.000Z"
       },
       {
         "time": "21:30",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-18T12:30:19.000Z"
       },
       {
-        "time": "08:58",
-        "title": "6月機械受注9.7％増",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5dmQ4bGEwZmc0NHNhVUR5X0ZidlJtSE13bk9zTmw1NUFCSDJ2Z1JacWpEWFFzQUNWUUFsbVoybGZEcEZ3Vk5vMmJHZkFjWV9HTlZqU3N1Q0J4dW4zLVNrRFVCRjQ2ZnZsYWRhdjQ1c9IBdEFVX3lxTE51enJCV1BubzlDdFgyODRLS3lTQlRSUVpSUDIzVjlfbU81ZHVaS3NlRXBNUjJqRi11V3duZi0wT0JsYzVucjViLWJRWjlOcVdVd0M5OWlQdDM4TFRpZ2FtUGo4U2I5NlpPT1RITzhSRUhfREVw?oc=5",
-        "publishedAt": "2026-08-18T23:58:59.000Z"
+        "time": "12:00",
+        "title": "日本殺生物剤市場は2035年に6億4,210万米ドル規模へ、CAGR 4.79％を背景に感染症対策・農業・産業用途で需要拡大",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WQ3pwcGstMUdaQmlBRUNCQVpfLVN2UGgyV2kzMmFQbS1MZDFDbHhHOGJsbEdHWkVUUTJGMXpmLTNfS2haQ0VPQ2tLMHhBcVU?oc=5",
+        "publishedAt": "2026-08-19T03:00:00.000Z"
       },
       {
-        "time": "17:48",
-        "title": "東朋テクノロジー 丸型端子向け新型端子台を開発：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NbEgwTFVoNkRLNUlMZ2R1WlZoZU1waHV2YnhRdzJqX055alRnQ2RPOHdMYk1lUEtscUJnbkF5cEtNQi1VZENrRWFfSVpGLTFiUXFld09HV1FyY29LZmJF?oc=5",
-        "publishedAt": "2026-08-18T08:48:00.000Z"
+        "time": "11:00",
+        "title": "株式会社神戸製鋼所との資本業務提携契約の締結について- 製造現場でのDX活用による少人化・高度化を推進 -",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rLUFFdjktWkpxTzAwaXFnRm9Pb1dJaHBzTElzdGNYY3ZVZkc2VlpqODJpVWFXeVhMVVdnZW5EaFZreThpUC1KZzlpTmd3U0pjUzhDbmpGSUF2a1N6czd5Mm9HVHU3ZDlMOVE?oc=5",
+        "publishedAt": "2026-08-19T02:00:02.000Z"
       }
     ],
     "worldHeadlines": [

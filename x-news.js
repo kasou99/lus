@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T02:56:07.466Z",
+  "updatedAt": "2026-08-19T03:22:00.128Z",
   "items": [
     {
-      "time": "11:25",
-      "title": "米韓軍事演習を短縮 米国側要請で",
+      "time": "11:52",
+      "title": "熊本など38℃前後予想 熱中症注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592262?source=rss",
-      "publishedAt": "2026-08-19T02:25:22.000Z",
-      "xQuery": "米韓軍事演習を短縮 米国側要請で"
+      "url": "https://news.yahoo.co.jp/pickup/6592266?source=rss",
+      "publishedAt": "2026-08-19T02:52:38.000Z",
+      "xQuery": "熊本など38℃前後予想 熱中症注意"
     },
     {
       "time": "11:30",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592261?source=rss",
       "publishedAt": "2026-08-19T02:30:54.000Z",
       "xQuery": "米国が赤根所長らに制裁 ICC非難"
+    },
+    {
+      "time": "11:49",
+      "title": "ヘルパーがパチンコ 障害者を放置",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592267?source=rss",
+      "publishedAt": "2026-08-19T02:49:46.000Z",
+      "xQuery": "ヘルパーがパチンコ 障害者を放置"
     },
     {
       "time": "11:41",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592264?source=rss",
       "publishedAt": "2026-08-19T02:42:50.000Z",
       "xQuery": "日立 日立建機の全株式売却へ"
-    },
-    {
-      "time": "11:02",
-      "title": "アニメ制作市場 ピークアウトか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592258?source=rss",
-      "publishedAt": "2026-08-19T02:02:18.000Z",
-      "xQuery": "アニメ制作市場 ピークアウトか"
     }
   ]
 };
