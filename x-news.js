@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T21:09:50.608Z",
+  "updatedAt": "2026-08-19T21:41:01.113Z",
   "items": [
+    {
+      "time": "06:38",
+      "title": "九州-東海で猛暑日の予想 警戒を",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592350?source=rss",
+      "publishedAt": "2026-08-19T21:38:50.000Z",
+      "xQuery": "九州-東海で猛暑日の予想 警戒を"
+    },
     {
       "time": "22:50",
       "title": "豪雨 千葉市幹線道路の車撤去完了",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592341?source=rss",
       "publishedAt": "2026-08-19T13:50:40.000Z",
       "xQuery": "豪雨 千葉市幹線道路の車撤去完了"
-    },
-    {
-      "time": "21:49",
-      "title": "JR九州被害額16年地震上回る恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592335?source=rss",
-      "publishedAt": "2026-08-19T12:49:21.000Z",
-      "xQuery": "JR九州被害額16年地震上回る恐れ"
     },
     {
       "time": "20:59",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中道落選者ら 政治団体ゴリラ設立"
     },
     {
+      "time": "06:28",
+      "title": "ICC所長らへの米制裁 相次ぐ非難",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592349?source=rss",
+      "publishedAt": "2026-08-19T21:28:55.000Z",
+      "xQuery": "ICC所長らへの米制裁 相次ぐ非難"
+    },
+    {
       "time": "20:21",
       "title": "診察待つ列に車突っ込む 女性死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592327?source=rss",
       "publishedAt": "2026-08-19T11:21:31.000Z",
       "xQuery": "診察待つ列に車突っ込む 女性死亡"
-    },
-    {
-      "time": "19:30",
-      "title": "道沿いに食パン大量投棄 3日連続",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592320?source=rss",
-      "publishedAt": "2026-08-19T10:30:12.000Z",
-      "xQuery": "道沿いに食パン大量投棄 3日連続"
     }
   ]
 };

@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-19T21:09:49.550Z",
+  "updatedAt": "2026-08-19T21:41:00.371Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:10",
+        "title": "神戸製鋼がITスタートアップに出資、「センシンロボティクス」と資本業務提携。設備保全など製造現場のDX活用拡大（鉄鋼新聞）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YVDFKRnFGTFNkelB2WTBSMnZYQXFYcmFiYzBFYVNVQlR0S2cwU3l0MG12VWtlblNhcnFEdGdPYnZJSkVpTC1NcVYxOGI1OWE4Y1FCalpwUmxVLU85QlJHSzBRelc4SFRKcXprQUFqRzZ6WVVvTFJSbWszRGRkcTA?oc=5",
+        "publishedAt": "2026-08-19T21:10:54.000Z"
+      },
       {
         "time": "10:07",
         "title": "グローバル製造業の高度化を支える日本の精密・高度技術を米国でアピール ―ジェトロが世界4大工作機械展示会の一つである「IMTS 2026」（シカゴ）にジャパン・パビリオンを8年ぶり設置、日本から中堅・中小企業10社が出品― | 2026年 - 記者発表 - お知らせ・記者発表",
@@ -24,25 +31,11 @@
         "publishedAt": "2026-08-19T01:46:00.000Z"
       },
       {
-        "time": "13:33",
-        "title": "ソディック、IMTS2026 出展のお知らせ｜Infoseekニュース",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82SWFEbks2VVVEOC1ubEU4WlY3YVRFVFhMQkEtMnM0RS1nZnE4UlJDa01qZ0hNWEFTaGRwYTdDajZQWmFHUkF4RlhqRGdzcUUxY2hOVVhmZE1YY21fTXFrZGQ1VkxObHA1MUdTRzNsRWk5UQ?oc=5",
-        "publishedAt": "2026-08-19T04:33:29.000Z"
-      },
-      {
         "time": "09:52",
         "title": "光学式エンコーダチップ：精密モーション制御を支える技術進化と世界市場機会｜QYResearch",
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DbktLZHZZMXJONTNxamlpWUlzdTEybXBzTlVFZURkcXBIenBxRVJJRWszRFJWb0VJQmVqUnRLcFZvdjY2SzBNcWl1LUdZOWk4NmNmOU9TNA?oc=5",
         "publishedAt": "2026-08-19T00:52:31.000Z"
-      },
-      {
-        "time": "11:45",
-        "title": "ブラザー、主軸30番の複合加工機で初となる64本の工具を搭載可能なモデルを開発｜Infoseekニュース",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JSlhWOFg3NGZmQ0l3alJUNkE4QkFzRk5NZWdxY2daYkREeEhrVWRqZ1FtMGNyd21COFJnVElaNVU1aTMzem9lZWlVeGxBS215aEN6bzU3Yld0aEgxZV9kMFZWWjFRYlExa3hpc18zdGFVUQ?oc=5",
-        "publishedAt": "2026-08-19T02:45:25.000Z"
       },
       {
         "time": "16:00",
@@ -55,8 +48,15 @@
         "time": "10:00",
         "title": "アストリス・アドバイザリー・ジャパン株式会社が株式会社",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XeUY3OGYxR0c0TXBqRFBXaTdOeVQzR2JIZTRrdjYzTXQ3eEtBMW03em1tNzdPUERCMDB3eXMwWm9PSXJtbGRXNC1BazhjMVpUc3JaRXdYX2FBdXczS1lQaFllVUwxLUhFQm1NVTFSVUFNRl9QTV9VYVVUSQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZZFpWXzQ2QzJiVVp2U1NENF9wRkNkMGtpOWZhOGdRZGlsMFBxWldrbXc3YWdoZkZhWk5jMjd4NFZHZjFKMW5QeDZyanVYTkFkN0xHdg?oc=5",
         "publishedAt": "2026-08-19T01:00:25.000Z"
+      },
+      {
+        "time": "05:16",
+        "title": "フォーカス 城山産業社長 竹中幸三（たけなか・こうぞう）氏 コア増産のニーズに対応 創業80周年、黒子役として技術磨く",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CM18wTmtaYloxRlV1cGhYZ0gyWFJ6VE4xUWduQ1l0c2RBVjl1T200WUJXQnJqOGtyMTUwUEZydktxRlZDSGFKRWsydzBhNnRWRncyUGV3T2kzYmx6Ql9RSTFFYnhDZHdCMldaS1VEU3pWdGM?oc=5",
+        "publishedAt": "2026-08-19T20:16:55.000Z"
       }
     ],
     "worldHeadlines": [
@@ -96,11 +96,11 @@
         "publishedAt": "2026-08-19T02:30:54.000Z"
       },
       {
-        "time": "06:25",
-        "title": "ICC赤根所長らを制裁対象に 米国",
+        "time": "06:28",
+        "title": "ICC所長らへの米制裁 相次ぐ非難",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592231?source=rss",
-        "publishedAt": "2026-08-18T21:25:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592349?source=rss",
+        "publishedAt": "2026-08-19T21:28:55.000Z"
       }
     ],
     "economyHeadlines": [
