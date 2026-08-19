@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-18T23:39:48.007Z",
+  "updatedAt": "2026-08-19T00:20:14.546Z",
   "items": [
     {
-      "time": "06:42",
-      "title": "九州～東海で猛暑日続出か 警戒を",
+      "time": "09:12",
+      "title": "日豪 長射程ミサイル試験で協力",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592232?source=rss",
-      "publishedAt": "2026-08-18T21:42:17.000Z",
-      "xQuery": "九州～東海で猛暑日続出か 警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6592246?source=rss",
+      "publishedAt": "2026-08-19T00:12:44.000Z",
+      "xQuery": "日豪 長射程ミサイル試験で協力"
     },
     {
-      "time": "06:58",
-      "title": "豪雨の路上車両600台 撤去へ連携",
+      "time": "09:04",
+      "title": "OpenAIの2人語る 注目の職種FDE",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592233?source=rss",
-      "publishedAt": "2026-08-18T21:58:37.000Z",
-      "xQuery": "豪雨の路上車両600台 撤去へ連携"
+      "url": "https://news.yahoo.co.jp/pickup/6592242?source=rss",
+      "publishedAt": "2026-08-19T00:04:04.000Z",
+      "xQuery": "OpenAIの2人語る 注目の職種FDE"
     },
     {
       "time": "08:03",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イランが弾道ミサイル UAE発表"
     },
     {
-      "time": "06:25",
-      "title": "ICC赤根所長らを制裁対象に 米国",
+      "time": "08:45",
+      "title": "竹中工務店の万博現場責任者 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592231?source=rss",
-      "publishedAt": "2026-08-18T21:25:46.000Z",
-      "xQuery": "ICC赤根所長らを制裁対象に 米国"
+      "url": "https://news.yahoo.co.jp/pickup/6592243?source=rss",
+      "publishedAt": "2026-08-18T23:45:27.000Z",
+      "xQuery": "竹中工務店の万博現場責任者 逮捕"
     },
     {
-      "time": "08:13",
-      "title": "琵琶湖で魚とりの男性死亡 溺死か",
+      "time": "08:15",
+      "title": "高校生3人連携 池で溺れる3人救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592239?source=rss",
-      "publishedAt": "2026-08-18T23:13:35.000Z",
-      "xQuery": "琵琶湖で魚とりの男性死亡 溺死か"
+      "url": "https://news.yahoo.co.jp/pickup/6592241?source=rss",
+      "publishedAt": "2026-08-18T23:15:38.000Z",
+      "xQuery": "高校生3人連携 池で溺れる3人救助"
     }
   ]
 };
