@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T14:15:11.601Z",
+  "updatedAt": "2026-08-19T14:45:34.774Z",
   "items": [
     {
       "time": "22:50",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "診察待つ列に車突っ込む 女性死亡"
     },
     {
-      "time": "22:07",
-      "title": "シロイルカも鏡の自分を認識 研究",
+      "time": "23:41",
+      "title": "川遊びで流された男子高校生 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592336?source=rss",
-      "publishedAt": "2026-08-19T13:07:38.000Z",
-      "xQuery": "シロイルカも鏡の自分を認識 研究"
+      "url": "https://news.yahoo.co.jp/pickup/6592345?source=rss",
+      "publishedAt": "2026-08-19T14:41:04.000Z",
+      "xQuery": "川遊びで流された男子高校生 死亡"
     }
   ]
 };

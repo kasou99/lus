@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T14:15:10.994Z",
+  "updatedAt": "2026-08-19T14:45:34.074Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,13 +163,6 @@
         "publishedAt": "2026-08-19T13:50:40.000Z"
       },
       {
-        "time": "17:30",
-        "title": "2歳死亡 近隣で以前から子の悲鳴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592304?source=rss",
-        "publishedAt": "2026-08-19T08:30:45.000Z"
-      },
-      {
         "time": "20:21",
         "title": "診察待つ列に車突っ込む 女性死亡",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592294?source=rss",
         "publishedAt": "2026-08-19T07:19:14.000Z"
+      },
+      {
+        "time": "23:41",
+        "title": "川遊びで流された男子高校生 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592345?source=rss",
+        "publishedAt": "2026-08-19T14:41:04.000Z"
       },
       {
         "time": "18:07",
