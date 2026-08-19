@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T02:30:01.540Z",
+  "updatedAt": "2026-08-19T02:56:07.466Z",
   "items": [
     {
       "time": "11:25",
@@ -10,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米韓軍事演習を短縮 米国側要請で"
     },
     {
-      "time": "09:31",
-      "title": "日経平均 一時2000円超の値下がり",
+      "time": "11:30",
+      "title": "米国が赤根所長らに制裁 ICC非難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592250?source=rss",
-      "publishedAt": "2026-08-19T00:31:52.000Z",
-      "xQuery": "日経平均 一時2000円超の値下がり"
+      "url": "https://news.yahoo.co.jp/pickup/6592261?source=rss",
+      "publishedAt": "2026-08-19T02:30:54.000Z",
+      "xQuery": "米国が赤根所長らに制裁 ICC非難"
     },
     {
-      "time": "08:45",
-      "title": "竹中工務店の万博現場責任者 逮捕",
+      "time": "11:41",
+      "title": "従業員逮捕 竹中工務店がコメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592243?source=rss",
-      "publishedAt": "2026-08-18T23:45:27.000Z",
-      "xQuery": "竹中工務店の万博現場責任者 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6592265?source=rss",
+      "publishedAt": "2026-08-19T02:41:31.000Z",
+      "xQuery": "従業員逮捕 竹中工務店がコメント"
+    },
+    {
+      "time": "11:42",
+      "title": "日立 日立建機の全株式売却へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592264?source=rss",
+      "publishedAt": "2026-08-19T02:42:50.000Z",
+      "xQuery": "日立 日立建機の全株式売却へ"
     },
     {
       "time": "11:02",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592258?source=rss",
       "publishedAt": "2026-08-19T02:02:18.000Z",
       "xQuery": "アニメ制作市場 ピークアウトか"
-    },
-    {
-      "time": "10:45",
-      "title": "すしやコナン 空港の愛称の効果は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592256?source=rss",
-      "publishedAt": "2026-08-19T01:45:03.000Z",
-      "xQuery": "すしやコナン 空港の愛称の効果は"
     }
   ]
 };
