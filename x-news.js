@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T07:47:31.643Z",
+  "updatedAt": "2026-08-20T08:16:13.271Z",
   "items": [
     {
-      "time": "14:53",
-      "title": "赤根所長へ米制裁 ICC組織の実像",
+      "time": "16:53",
+      "title": "77人犠牲 広島土砂災害から12年",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592406?source=rss",
-      "publishedAt": "2026-08-20T05:53:09.000Z",
-      "xQuery": "赤根所長へ米制裁 ICC組織の実像"
+      "url": "https://news.yahoo.co.jp/pickup/6592420?source=rss",
+      "publishedAt": "2026-08-20T07:53:35.000Z",
+      "xQuery": "77人犠牲 広島土砂災害から12年"
     },
     {
-      "time": "15:05",
-      "title": "西日本中心に猛烈な暑さ 対策を",
+      "time": "16:49",
+      "title": "イオン 爆発巡り事故調査委を発足",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592407?source=rss",
-      "publishedAt": "2026-08-20T06:05:55.000Z",
-      "xQuery": "西日本中心に猛烈な暑さ 対策を"
+      "url": "https://news.yahoo.co.jp/pickup/6592419?source=rss",
+      "publishedAt": "2026-08-20T07:49:23.000Z",
+      "xQuery": "イオン 爆発巡り事故調査委を発足"
     },
     {
       "time": "16:40",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡 見張り役が列車に合図"
     },
     {
-      "time": "14:41",
-      "title": "公園のトイレで男性死亡 熱中症か",
+      "time": "16:20",
+      "title": "北の核弾頭は80-120発 韓国国防相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592405?source=rss",
-      "publishedAt": "2026-08-20T05:41:32.000Z",
-      "xQuery": "公園のトイレで男性死亡 熱中症か"
+      "url": "https://news.yahoo.co.jp/pickup/6592412?source=rss",
+      "publishedAt": "2026-08-20T07:20:31.000Z",
+      "xQuery": "北の核弾頭は80-120発 韓国国防相"
     },
     {
-      "time": "16:20",
-      "title": "23区新築マンション平均2.6億円超",
+      "time": "16:39",
+      "title": "山口組と池田組の特定抗争解除へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592414?source=rss",
-      "publishedAt": "2026-08-20T07:20:03.000Z",
-      "xQuery": "23区新築マンション平均2.6億円超"
+      "url": "https://news.yahoo.co.jp/pickup/6592416?source=rss",
+      "publishedAt": "2026-08-20T07:39:58.000Z",
+      "xQuery": "山口組と池田組の特定抗争解除へ"
     }
   ]
 };
