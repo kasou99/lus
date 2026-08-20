@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-19T23:39:48.541Z",
+  "updatedAt": "2026-08-20T00:20:40.243Z",
   "items": [
     {
       "time": "08:25",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風18号 来週日本列島に影響恐れ"
     },
     {
-      "time": "06:55",
-      "title": "米大統領 正恩氏と会談の意向表明",
+      "time": "08:50",
+      "title": "イオン 避難後「客も戻れた」証言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592351?source=rss",
-      "publishedAt": "2026-08-19T21:55:05.000Z",
-      "xQuery": "米大統領 正恩氏と会談の意向表明"
+      "url": "https://news.yahoo.co.jp/pickup/6592361?source=rss",
+      "publishedAt": "2026-08-19T23:50:23.000Z",
+      "xQuery": "イオン 避難後「客も戻れた」証言"
+    },
+    {
+      "time": "08:57",
+      "title": "英ヘンリー王子夫妻 帰国を計画",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592362?source=rss",
+      "publishedAt": "2026-08-19T23:57:26.000Z",
+      "xQuery": "英ヘンリー王子夫妻 帰国を計画"
     },
     {
       "time": "07:53",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592356?source=rss",
       "publishedAt": "2026-08-19T22:53:30.000Z",
       "xQuery": "万博工事背任疑い 関係者に衝撃"
-    },
-    {
-      "time": "08:23",
-      "title": "赤穂市 非正規130人雇い止めへ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592359?source=rss",
-      "publishedAt": "2026-08-19T23:23:55.000Z",
-      "xQuery": "赤穂市 非正規130人雇い止めへ"
     }
   ]
 };
