@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T14:46:22.297Z",
+  "updatedAt": "2026-08-20T15:14:02.806Z",
   "items": [
     {
-      "time": "21:35",
-      "title": "中道との連携 連合地方組織で異論",
+      "time": "22:06",
+      "title": "千葉豪雨 農業被害など約19億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592456?source=rss",
-      "publishedAt": "2026-08-20T12:35:30.000Z",
-      "xQuery": "中道との連携 連合地方組織で異論"
+      "url": "https://news.yahoo.co.jp/pickup/6592460?source=rss",
+      "publishedAt": "2026-08-20T13:06:16.000Z",
+      "xQuery": "千葉豪雨 農業被害など約19億円"
     },
     {
-      "time": "21:02",
-      "title": "日印 海洋安全保障で協力強化へ",
+      "time": "23:47",
+      "title": "26年産新米 大幅値下がりの見通し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592454?source=rss",
-      "publishedAt": "2026-08-20T12:02:14.000Z",
-      "xQuery": "日印 海洋安全保障で協力強化へ"
-    },
-    {
-      "time": "23:05",
-      "title": "郵便事業 縮小も視野に検討開始",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592469?source=rss",
-      "publishedAt": "2026-08-20T14:05:35.000Z",
-      "xQuery": "郵便事業 縮小も視野に検討開始"
+      "url": "https://news.yahoo.co.jp/pickup/6592471?source=rss",
+      "publishedAt": "2026-08-20T14:47:54.000Z",
+      "xQuery": "26年産新米 大幅値下がりの見通し"
     },
     {
       "time": "22:32",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592459?source=rss",
       "publishedAt": "2026-08-20T12:44:54.000Z",
       "xQuery": "道沿いに連日のパン投棄 39㎏確認"
+    },
+    {
+      "time": "23:31",
+      "title": "中国 沖縄の帰属を巡り「疑義」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592470?source=rss",
+      "publishedAt": "2026-08-20T14:31:38.000Z",
+      "xQuery": "中国 沖縄の帰属を巡り「疑義」"
     }
   ]
 };

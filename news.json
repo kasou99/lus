@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T14:46:21.230Z",
+  "updatedAt": "2026-08-20T15:14:02.144Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "23:47",
+        "title": "26年産新米 大幅値下がりの見通し",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592471?source=rss",
+        "publishedAt": "2026-08-20T14:47:54.000Z"
+      },
+      {
         "time": "23:05",
         "title": "郵便事業 縮小も視野に検討開始",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592444?source=rss",
         "publishedAt": "2026-08-20T10:24:44.000Z"
-      },
-      {
-        "time": "16:21",
-        "title": "布施博が代表の芸能プロ 破産",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592413?source=rss",
-        "publishedAt": "2026-08-20T07:21:40.000Z"
       }
     ],
     "localHeadlines": [
