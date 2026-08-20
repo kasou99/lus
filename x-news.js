@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T02:55:21.197Z",
+  "updatedAt": "2026-08-20T03:21:38.755Z",
   "items": [
+    {
+      "time": "12:03",
+      "title": "千葉豪雨1週間 元の生活に戻れず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592385?source=rss",
+      "publishedAt": "2026-08-20T03:03:36.000Z",
+      "xQuery": "千葉豪雨1週間 元の生活に戻れず"
+    },
     {
       "time": "10:55",
       "title": "米大統領 対イラン制裁発動を表明",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 対イラン制裁発動を表明"
     },
     {
-      "time": "09:16",
-      "title": "広島土砂災害 最愛の妻を失い後悔",
+      "time": "11:40",
+      "title": "エンジン不具合で航空機停止 成田",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592365?source=rss",
-      "publishedAt": "2026-08-20T00:16:55.000Z",
-      "xQuery": "広島土砂災害 最愛の妻を失い後悔"
+      "url": "https://news.yahoo.co.jp/pickup/6592380?source=rss",
+      "publishedAt": "2026-08-20T02:40:16.000Z",
+      "xQuery": "エンジン不具合で航空機停止 成田"
     },
     {
       "time": "11:33",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592366?source=rss",
       "publishedAt": "2026-08-20T00:16:56.000Z",
       "xQuery": "残業月45h以内の一律指導見直しへ"
-    },
-    {
-      "time": "11:40",
-      "title": "エンジン不具合で航空機停止 成田",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592380?source=rss",
-      "publishedAt": "2026-08-20T02:40:16.000Z",
-      "xQuery": "エンジン不具合で航空機停止 成田"
     }
   ]
 };
