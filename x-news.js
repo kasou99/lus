@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T21:10:29.409Z",
+  "updatedAt": "2026-08-20T21:42:05.726Z",
   "items": [
     {
-      "time": "22:06",
-      "title": "千葉豪雨 農業被害など約19億円",
+      "time": "06:34",
+      "title": "内閣改造 来月中下旬で首相調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592460?source=rss",
-      "publishedAt": "2026-08-20T13:06:16.000Z",
-      "xQuery": "千葉豪雨 農業被害など約19億円"
+      "url": "https://news.yahoo.co.jp/pickup/6592475?source=rss",
+      "publishedAt": "2026-08-20T21:34:50.000Z",
+      "xQuery": "内閣改造 来月中下旬で首相調整"
     },
     {
       "time": "23:47",
