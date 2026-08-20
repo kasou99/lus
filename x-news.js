@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T12:49:00.459Z",
+  "updatedAt": "2026-08-20T13:22:21.060Z",
   "items": [
     {
-      "time": "19:53",
-      "title": "北朝鮮の対日批判 激化の背景分析",
+      "time": "22:03",
+      "title": "首相 7月就任の英首相と電話会談",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592447?source=rss",
-      "publishedAt": "2026-08-20T10:53:17.000Z",
-      "xQuery": "北朝鮮の対日批判 激化の背景分析"
+      "url": "https://news.yahoo.co.jp/pickup/6592461?source=rss",
+      "publishedAt": "2026-08-20T13:03:03.000Z",
+      "xQuery": "首相 7月就任の英首相と電話会談"
     },
     {
-      "time": "19:22",
-      "title": "子2人の姿が土砂に消え 母の思い",
+      "time": "21:41",
+      "title": "21日 関東など急な雨や雷雨に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592443?source=rss",
-      "publishedAt": "2026-08-20T10:22:08.000Z",
-      "xQuery": "子2人の姿が土砂に消え 母の思い"
+      "url": "https://news.yahoo.co.jp/pickup/6592458?source=rss",
+      "publishedAt": "2026-08-20T12:41:53.000Z",
+      "xQuery": "21日 関東など急な雨や雷雨に注意"
     },
     {
       "time": "20:24",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "列車に接触し4人死亡 身元判明"
     },
     {
-      "time": "18:42",
-      "title": "富士山6合目 1人でいた7歳を救助",
+      "time": "20:57",
+      "title": "時間外労働 一律抑制見直しに反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592439?source=rss",
-      "publishedAt": "2026-08-20T09:42:07.000Z",
-      "xQuery": "富士山6合目 1人でいた7歳を救助"
+      "url": "https://news.yahoo.co.jp/pickup/6592452?source=rss",
+      "publishedAt": "2026-08-20T11:57:01.000Z",
+      "xQuery": "時間外労働 一律抑制見直しに反発"
     },
     {
       "time": "19:51",
