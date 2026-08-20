@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T10:44:01.289Z",
+  "updatedAt": "2026-08-20T11:10:01.504Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-08-20T06:40:00.000Z"
       },
       {
-        "time": "06:10",
+        "time": "06:02",
         "title": "神戸製鋼がITスタートアップに出資、「センシンロボティクス」と資本業務提携。設備保全など製造現場のDX活用拡大（鉄鋼新聞）",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YVDFKRnFGTFNkelB2WTBSMnZYQXFYcmFiYzBFYVNVQlR0S2cwU3l0MG12VWtlblNhcnFEdGdPYnZJSkVpTC1NcVYxOGI1OWE4Y1FCalpwUmxVLU85QlJHSzBRelc4SFRKcXprQUFqRzZ6WVVvTFJSbWszRGRkcTA?oc=5",
-        "publishedAt": "2026-08-19T21:10:54.000Z"
+        "publishedAt": "2026-08-19T21:02:13.000Z"
       },
       {
         "time": "07:00",
@@ -38,13 +38,6 @@
         "publishedAt": "2026-08-20T01:51:14.000Z"
       },
       {
-        "time": "13:59",
-        "title": "神戸製鋼とセンシンロボ、製造現場DXで資本提携",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93ZVY5M29MNkpJdWthOVZ4RDRXNllGSGcxR1pWZGw4NzYzckpnOUw5MlBhWEpUZFh3Yl9jVTFxNFdjSGRnNGtKZA?oc=5",
-        "publishedAt": "2026-08-20T04:59:32.000Z"
-      },
-      {
         "time": "09:27",
         "title": "ブラザー工業、2倍以上の工具搭載 30番複合加工機",
         "source": "日刊工業新聞",
@@ -57,6 +50,13 @@
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CM18wTmtaYloxRlV1cGhYZ0gyWFJ6VE4xUWduQ1l0c2RBVjl1T200WUJXQnJqOGtyMTUwUEZydktxRlZDSGFKRWsydzBhNnRWRncyUGV3T2kzYmx6Ql9RSTFFYnhDZHdCMldaS1VEU3pWdGM?oc=5",
         "publishedAt": "2026-08-19T20:16:55.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "英子会社を移転拡充 スター精密",
+        "source": "静岡新聞DIGITAL",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0UDZaVHpJdkVlcGJmOUpSX0RnWFNNTURTTU54eWtmcHlXUVMzRWRuc1c2ME8wVlBaNTRKSlBZQmZLZXJaczJIeG9FVnFZQQ?oc=5",
+        "publishedAt": "2026-08-19T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592412?source=rss",
         "publishedAt": "2026-08-20T07:20:31.000Z"
+      },
+      {
+        "time": "19:53",
+        "title": "北朝鮮の対日批判 激化の背景分析",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592447?source=rss",
+        "publishedAt": "2026-08-20T10:53:17.000Z"
       },
       {
         "time": "10:55",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592382?source=rss",
         "publishedAt": "2026-08-20T02:48:06.000Z"
-      },
-      {
-        "time": "14:40",
-        "title": "中国恒大創業者に無期懲役判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592404?source=rss",
-        "publishedAt": "2026-08-20T05:40:42.000Z"
       }
     ],
     "economyHeadlines": [

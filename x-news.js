@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T10:44:01.966Z",
+  "updatedAt": "2026-08-20T11:10:02.036Z",
   "items": [
     {
       "time": "18:32",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "クールジャパン機構廃止へ 経産省"
     },
     {
-      "time": "18:55",
-      "title": "作業員4人死亡 東武鉄道が謝罪",
+      "time": "18:20",
+      "title": "夏にインフル 首都圏で増加傾向",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592440?source=rss",
-      "publishedAt": "2026-08-20T09:55:44.000Z",
-      "xQuery": "作業員4人死亡 東武鉄道が謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6592437?source=rss",
+      "publishedAt": "2026-08-20T09:20:27.000Z",
+      "xQuery": "夏にインフル 首都圏で増加傾向"
     },
     {
       "time": "16:40",
