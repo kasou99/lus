@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-20T19:43:09.726Z",
+  "updatedAt": "2026-08-20T20:09:49.221Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "西部電機、欧州拠点27年4月開設 中国依存低減しつつ工作機械拡販",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTFlxOTlUNUNPQVBOYzRaaWVFREI5LTRUZ0xMd0pMX1dFSkpsenBvNXpCM09odHZGR1N3aGtydlh6Q0ZmcE5aMVMxME0yTUlCUHFudEdFMEdhR0FPZGpqRE5mbGtzbEJVZEowcA?oc=5",
+        "publishedAt": "2026-08-20T20:00:00.000Z"
+      },
+      {
+        "time": "05:06",
+        "title": "第56回機械工業デザイン賞IDEA（14）審査委員会特別賞 ツガミ",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81N2lmY0JzV2k1MkxjeG5zeHk3a2NGcW1faGVfS0d2UkFDSEt0QXlHeVBEOENtYm44czM3U0I1WjB0OGxHSFhxamI1LWhVbUFCMldSMnphbjhXOVE?oc=5",
+        "publishedAt": "2026-08-20T20:06:58.000Z"
+      },
       {
         "time": "07:15",
         "title": "主軸30番の複合加工機で工具64本搭載可能なモデル、ブラザー工業が開発：工作機械",
@@ -43,20 +57,6 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93ZVY5M29MNkpJdWthOVZ4RDRXNllGSGcxR1pWZGw4NzYzckpnOUw5MlBhWEpUZFh3Yl9jVTFxNFdjSGRnNGtKZA?oc=5",
         "publishedAt": "2026-08-20T04:59:32.000Z"
-      },
-      {
-        "time": "09:27",
-        "title": "ブラザー工業、2倍以上の工具搭載 30番複合加工機",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42MEFGUWdRZmdhLW1mWjc5SkdMR2NWdlM3a21COUxvVmNXbmxsTHpScWtnaUREaEltRnU2a0o3U2toV3o1TUdLNjNjVHMzdnpoUjdMTEs1NUV3cVU?oc=5",
-        "publishedAt": "2026-08-20T00:27:45.000Z"
-      },
-      {
-        "time": "05:16",
-        "title": "フォーカス 城山産業社長 竹中幸三（たけなか・こうぞう）氏 コア増産のニーズに対応 創業80周年、黒子役として技術磨く",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CM18wTmtaYloxRlV1cGhYZ0gyWFJ6VE4xUWduQ1l0c2RBVjl1T200WUJXQnJqOGtyMTUwUEZydktxRlZDSGFKRWsydzBhNnRWRncyUGV3T2kzYmx6Ql9RSTFFYnhDZHdCMldaS1VEU3pWdGM?oc=5",
-        "publishedAt": "2026-08-19T20:16:55.000Z"
       }
     ],
     "worldHeadlines": [
