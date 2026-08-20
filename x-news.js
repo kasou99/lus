@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T13:22:21.060Z",
+  "updatedAt": "2026-08-20T13:48:29.878Z",
   "items": [
     {
       "time": "22:03",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "21日 関東など急な雨や雷雨に注意"
     },
     {
-      "time": "20:24",
-      "title": "列車に接触し4人死亡 身元判明",
+      "time": "22:32",
+      "title": "4人死亡 退避完了と見張りが合図",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592450?source=rss",
-      "publishedAt": "2026-08-20T11:24:44.000Z",
-      "xQuery": "列車に接触し4人死亡 身元判明"
+      "url": "https://news.yahoo.co.jp/pickup/6592465?source=rss",
+      "publishedAt": "2026-08-20T13:32:34.000Z",
+      "xQuery": "4人死亡 退避完了と見張りが合図"
     },
     {
       "time": "20:57",
