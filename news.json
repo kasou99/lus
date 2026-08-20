@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T02:29:20.391Z",
+  "updatedAt": "2026-08-20T02:55:20.048Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "06:10",
         "title": "神戸製鋼がITスタートアップに出資、「センシンロボティクス」と資本業務提携。設備保全など製造現場のDX活用拡大（鉄鋼新聞）",
-        "source": "news.yahoo.co.jp",
+        "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YVDFKRnFGTFNkelB2WTBSMnZYQXFYcmFiYzBFYVNVQlR0S2cwU3l0MG12VWtlblNhcnFEdGdPYnZJSkVpTC1NcVYxOGI1OWE4Y1FCalpwUmxVLU85QlJHSzBRelc4SFRKcXprQUFqRzZ6WVVvTFJSbWszRGRkcTA?oc=5",
         "publishedAt": "2026-08-19T21:10:54.000Z"
       },
@@ -52,11 +52,11 @@
         "publishedAt": "2026-08-19T04:33:29.000Z"
       },
       {
-        "time": "16:00",
-        "title": "株式会社神戸製鋼所との資本業務提携契約の締結について- 製造現場でのDX活用による少人化・高度化を推進",
+        "time": "00:18",
+        "title": "DEHA SOLUTIONS、製造業向けIFSエンジニアリング・マイグレーション支援サービスを展開",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QbTNJZEF1UGdYUlJkX043WkxaX05MQ1Qyb1VPTFVvRGxQYldBeXJQcGowS19yR0V6OGFESG1BUHQ1bXh0UFpObzQydDlHNlVCazRXQXktQjFKeVM2N0xrdDZrTUNUUzNBVEJnWlZnSUdnOTB4SHc?oc=5",
-        "publishedAt": "2026-08-19T07:00:19.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xRl84aTJDN1dzV09DUEFPcF9SV296VUhsakNJZTdnVHNLX2IyV0hjby1xTGxNYURpOGNlS3VnSk40VHlJZUk5aEl4TGlNU0NQRVhUM0Q3VkpDN1lVMGlUb29DeEY2Y0dpUkN3elJUX2w2MGQ0czF0Q2h6RQ?oc=5",
+        "publishedAt": "2026-08-19T15:18:20.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,11 +75,11 @@
         "publishedAt": "2026-08-19T23:25:32.000Z"
       },
       {
-        "time": "12:58",
-        "title": "米大統領娘婿がハマスと協議 背景",
+        "time": "11:48",
+        "title": "ロシアでガソリン不足「第2波」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592273?source=rss",
-        "publishedAt": "2026-08-19T03:58:11.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592382?source=rss",
+        "publishedAt": "2026-08-20T02:48:06.000Z"
       },
       {
         "time": "06:55",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-08-19T21:55:05.000Z"
       },
       {
-        "time": "11:30",
-        "title": "米国が赤根所長らに制裁 ICC非難",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592261?source=rss",
-        "publishedAt": "2026-08-19T02:30:54.000Z"
-      },
-      {
         "time": "06:28",
         "title": "ICC所長らへの米制裁 相次ぐ非難",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592349?source=rss",
         "publishedAt": "2026-08-19T21:28:55.000Z"
+      },
+      {
+        "time": "18:01",
+        "title": "米警察 少女行方不明で霊能者頼る",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592308?source=rss",
+        "publishedAt": "2026-08-19T09:01:52.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,11 +133,11 @@
         "publishedAt": "2026-08-19T09:25:40.000Z"
       },
       {
-        "time": "16:19",
-        "title": "東証続落 中東混乱の景気減速懸念",
+        "time": "11:40",
+        "title": "エンジン不具合で航空機停止 成田",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592295?source=rss",
-        "publishedAt": "2026-08-19T07:19:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592380?source=rss",
+        "publishedAt": "2026-08-20T02:40:16.000Z"
       },
       {
         "time": "10:07",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "11:33",
+        "title": "福岡市の川に女性遺体 殺人と断定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592379?source=rss",
+        "publishedAt": "2026-08-20T02:33:14.000Z"
+      },
       {
         "time": "21:48",
         "title": "千葉豪雨で冠水 内水氾濫が原因か",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592312?source=rss",
         "publishedAt": "2026-08-19T09:07:58.000Z"
-      },
-      {
-        "time": "08:23",
-        "title": "赤穂市 非正規130人雇い止めへ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592359?source=rss",
-        "publishedAt": "2026-08-19T23:23:55.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,17 +218,17 @@
       },
       {
         "time": "16:00",
-        "title": "物価高騰や米国関税措置・中東情勢の変化等により影響を受ける県内事業者の皆様への主な支援策",
-        "source": "pref.hiroshima.lg.jp",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ed24zSjhRX0NxVnYxeFMxallrVW5sQXh5SV8yY1VUXzI0ajIwQVpVb2hTalZlU3AybmJrSVZ3U2F2MWU3bkVzb2RvNTlyaEZOQ2tDN1dUQjJKR1NVQ2tHYU1rSjhKZWoybllUVnpn?oc=5",
-        "publishedAt": "2026-07-31T07:00:00.000Z"
-      },
-      {
-        "time": "16:00",
         "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
         "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "time": "16:00",
+        "title": "物価高騰や米国関税措置・中東情勢の変化等により影響を受ける県内事業者の皆様への主な支援策",
+        "source": "pref.hiroshima.lg.jp",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ed24zSjhRX0NxVnYxeFMxallrVW5sQXh5SV8yY1VUXzI0ajIwQVpVb2hTalZlU3AybmJrSVZ3U2F2MWU3bkVzb2RvNTlyaEZOQ2tDN1dUQjJKR1NVQ2tHYU1rSjhKZWoybllUVnpn?oc=5",
+        "publishedAt": "2026-07-31T07:00:00.000Z"
       }
     ]
   }

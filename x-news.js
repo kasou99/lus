@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T02:29:21.086Z",
+  "updatedAt": "2026-08-20T02:55:21.197Z",
   "items": [
     {
       "time": "10:55",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "広島土砂災害 最愛の妻を失い後悔"
     },
     {
-      "time": "08:50",
-      "title": "イオン 避難後「客も戻れた」証言",
+      "time": "11:33",
+      "title": "福岡市の川に女性遺体 殺人と断定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592361?source=rss",
-      "publishedAt": "2026-08-19T23:50:23.000Z",
-      "xQuery": "イオン 避難後「客も戻れた」証言"
+      "url": "https://news.yahoo.co.jp/pickup/6592379?source=rss",
+      "publishedAt": "2026-08-20T02:33:14.000Z",
+      "xQuery": "福岡市の川に女性遺体 殺人と断定"
     },
     {
       "time": "09:16",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "残業月45h以内の一律指導見直しへ"
     },
     {
-      "time": "08:57",
-      "title": "英ヘンリー王子夫妻 帰国を計画",
+      "time": "11:40",
+      "title": "エンジン不具合で航空機停止 成田",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592362?source=rss",
-      "publishedAt": "2026-08-19T23:57:26.000Z",
-      "xQuery": "英ヘンリー王子夫妻 帰国を計画"
+      "url": "https://news.yahoo.co.jp/pickup/6592380?source=rss",
+      "publishedAt": "2026-08-20T02:40:16.000Z",
+      "xQuery": "エンジン不具合で航空機停止 成田"
     }
   ]
 };
