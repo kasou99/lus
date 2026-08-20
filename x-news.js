@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T08:16:13.271Z",
+  "updatedAt": "2026-08-20T08:47:46.074Z",
   "items": [
+    {
+      "time": "17:33",
+      "title": "北発射 ミサイルはEEZ外に落下か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592426?source=rss",
+      "publishedAt": "2026-08-20T08:33:04.000Z",
+      "xQuery": "北発射 ミサイルはEEZ外に落下か"
+    },
     {
       "time": "16:53",
       "title": "77人犠牲 広島土砂災害から12年",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡 見張り役が列車に合図"
     },
     {
-      "time": "16:20",
-      "title": "北の核弾頭は80-120発 韓国国防相",
+      "time": "17:29",
+      "title": "旭川17歳殺害 遺族がコメント発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592412?source=rss",
-      "publishedAt": "2026-08-20T07:20:31.000Z",
-      "xQuery": "北の核弾頭は80-120発 韓国国防相"
-    },
-    {
-      "time": "16:39",
-      "title": "山口組と池田組の特定抗争解除へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592416?source=rss",
-      "publishedAt": "2026-08-20T07:39:58.000Z",
-      "xQuery": "山口組と池田組の特定抗争解除へ"
+      "url": "https://news.yahoo.co.jp/pickup/6592422?source=rss",
+      "publishedAt": "2026-08-20T08:29:40.000Z",
+      "xQuery": "旭川17歳殺害 遺族がコメント発表"
     }
   ]
 };
