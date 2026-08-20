@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T04:17:33.246Z",
+  "updatedAt": "2026-08-20T04:46:26.303Z",
   "items": [
+    {
+      "time": "13:40",
+      "title": "特急電車に接触 作業員4人が死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592397?source=rss",
+      "publishedAt": "2026-08-20T04:40:56.000Z",
+      "xQuery": "特急電車に接触 作業員4人が死亡"
+    },
     {
       "time": "12:03",
       "title": "千葉豪雨1週間 元の生活に戻れず",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "国産AIシステムの実証始動 政府"
     },
     {
-      "time": "13:02",
-      "title": "特急に作業員4人はねられ心肺停止",
+      "time": "12:41",
+      "title": "県職員処分で私的情報公開 必要か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592395?source=rss",
-      "publishedAt": "2026-08-20T04:02:29.000Z",
-      "xQuery": "特急に作業員4人はねられ心肺停止"
-    },
-    {
-      "time": "11:33",
-      "title": "福岡市の川に女性遺体 殺人と断定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592379?source=rss",
-      "publishedAt": "2026-08-20T02:33:14.000Z",
-      "xQuery": "福岡市の川に女性遺体 殺人と断定"
+      "url": "https://news.yahoo.co.jp/pickup/6592392?source=rss",
+      "publishedAt": "2026-08-20T03:41:29.000Z",
+      "xQuery": "県職員処分で私的情報公開 必要か"
     },
     {
       "time": "12:05",
