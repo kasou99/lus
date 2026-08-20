@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T22:09:04.157Z",
+  "updatedAt": "2026-08-20T22:42:23.357Z",
   "items": [
     {
       "time": "06:34",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "飛び込みスポット 20歳が意識不明"
     },
     {
-      "time": "23:31",
-      "title": "中国 沖縄の帰属を巡り「疑義」",
+      "time": "07:28",
+      "title": "小2が味に違和感 配布の水にネジ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592470?source=rss",
-      "publishedAt": "2026-08-20T14:31:38.000Z",
-      "xQuery": "中国 沖縄の帰属を巡り「疑義」"
+      "url": "https://news.yahoo.co.jp/pickup/6592481?source=rss",
+      "publishedAt": "2026-08-20T22:28:25.000Z",
+      "xQuery": "小2が味に違和感 配布の水にネジ"
     }
   ]
 };
