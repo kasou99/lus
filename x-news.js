@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T03:21:38.755Z",
+  "updatedAt": "2026-08-20T03:48:15.507Z",
   "items": [
+    {
+      "time": "12:33",
+      "title": "線路で特急と接触 作業員4人重体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592393?source=rss",
+      "publishedAt": "2026-08-20T03:33:28.000Z",
+      "xQuery": "線路で特急と接触 作業員4人重体"
+    },
     {
       "time": "12:03",
       "title": "千葉豪雨1週間 元の生活に戻れず",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592385?source=rss",
       "publishedAt": "2026-08-20T03:03:36.000Z",
       "xQuery": "千葉豪雨1週間 元の生活に戻れず"
-    },
-    {
-      "time": "10:55",
-      "title": "米大統領 対イラン制裁発動を表明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592374?source=rss",
-      "publishedAt": "2026-08-20T01:55:25.000Z",
-      "xQuery": "米大統領 対イラン制裁発動を表明"
     },
     {
       "time": "11:40",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡市の川に女性遺体 殺人と断定"
     },
     {
-      "time": "09:16",
-      "title": "残業月45h以内の一律指導見直しへ",
+      "time": "12:05",
+      "title": "くら寿司 最低価格の値下げ発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592366?source=rss",
-      "publishedAt": "2026-08-20T00:16:56.000Z",
-      "xQuery": "残業月45h以内の一律指導見直しへ"
+      "url": "https://news.yahoo.co.jp/pickup/6592386?source=rss",
+      "publishedAt": "2026-08-20T03:05:30.000Z",
+      "xQuery": "くら寿司 最低価格の値下げ発表"
     }
   ]
 };
