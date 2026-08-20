@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T08:47:45.315Z",
+  "updatedAt": "2026-08-20T09:14:37.513Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "18:01",
+        "title": "中継 4人死亡受け東武鉄道が会見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592428?source=rss",
+        "publishedAt": "2026-08-20T09:01:14.000Z"
+      },
+      {
         "time": "16:49",
         "title": "イオン 爆発巡り事故調査委を発足",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592424?source=rss",
         "publishedAt": "2026-08-20T08:40:34.000Z"
-      },
-      {
-        "time": "15:43",
-        "title": "京王ライナー 10月から立席導入へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592409?source=rss",
-        "publishedAt": "2026-08-20T06:43:05.000Z"
       },
       {
         "time": "16:21",

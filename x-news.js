@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T08:47:46.074Z",
+  "updatedAt": "2026-08-20T09:14:38.191Z",
   "items": [
     {
-      "time": "17:33",
-      "title": "北発射 ミサイルはEEZ外に落下か",
+      "time": "18:01",
+      "title": "中継 4人死亡受け東武鉄道が会見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592426?source=rss",
-      "publishedAt": "2026-08-20T08:33:04.000Z",
-      "xQuery": "北発射 ミサイルはEEZ外に落下か"
+      "url": "https://news.yahoo.co.jp/pickup/6592428?source=rss",
+      "publishedAt": "2026-08-20T09:01:14.000Z",
+      "xQuery": "中継 4人死亡受け東武鉄道が会見"
     },
     {
       "time": "16:53",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン 爆発巡り事故調査委を発足"
     },
     {
-      "time": "16:40",
-      "title": "4人死亡 見張り役が列車に合図",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592417?source=rss",
-      "publishedAt": "2026-08-20T07:40:58.000Z",
-      "xQuery": "4人死亡 見張り役が列車に合図"
-    },
-    {
       "time": "17:29",
       "title": "旭川17歳殺害 遺族がコメント発表",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592422?source=rss",
       "publishedAt": "2026-08-20T08:29:40.000Z",
       "xQuery": "旭川17歳殺害 遺族がコメント発表"
+    },
+    {
+      "time": "17:52",
+      "title": "ネコの尿「においの名刺」の働き",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592427?source=rss",
+      "publishedAt": "2026-08-20T08:52:50.000Z",
+      "xQuery": "ネコの尿「においの名刺」の働き"
     }
   ]
 };
