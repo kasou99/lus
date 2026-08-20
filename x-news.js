@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T11:41:37.222Z",
+  "updatedAt": "2026-08-20T12:13:11.890Z",
   "items": [
     {
-      "time": "18:32",
-      "title": "北発射のミサイルは約10発 韓国軍",
+      "time": "19:53",
+      "title": "北朝鮮の対日批判 激化の背景分析",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592438?source=rss",
-      "publishedAt": "2026-08-20T09:32:05.000Z",
-      "xQuery": "北発射のミサイルは約10発 韓国軍"
+      "url": "https://news.yahoo.co.jp/pickup/6592447?source=rss",
+      "publishedAt": "2026-08-20T10:53:17.000Z",
+      "xQuery": "北朝鮮の対日批判 激化の背景分析"
     },
     {
-      "time": "17:40",
-      "title": "クールジャパン機構廃止へ 経産省",
+      "time": "19:22",
+      "title": "子2人の姿が土砂に消え 母の思い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592424?source=rss",
-      "publishedAt": "2026-08-20T08:40:34.000Z",
-      "xQuery": "クールジャパン機構廃止へ 経産省"
-    },
-    {
-      "time": "18:20",
-      "title": "夏にインフル 首都圏で増加傾向",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592437?source=rss",
-      "publishedAt": "2026-08-20T09:20:27.000Z",
-      "xQuery": "夏にインフル 首都圏で増加傾向"
+      "url": "https://news.yahoo.co.jp/pickup/6592443?source=rss",
+      "publishedAt": "2026-08-20T10:22:08.000Z",
+      "xQuery": "子2人の姿が土砂に消え 母の思い"
     },
     {
       "time": "20:24",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "列車に接触し4人死亡 身元判明"
     },
     {
-      "time": "19:22",
-      "title": "子2人の姿が土砂に消え 母の思い",
+      "time": "19:24",
+      "title": "マンション「共連れ」進む対策",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592443?source=rss",
-      "publishedAt": "2026-08-20T10:22:08.000Z",
-      "xQuery": "子2人の姿が土砂に消え 母の思い"
+      "url": "https://news.yahoo.co.jp/pickup/6592444?source=rss",
+      "publishedAt": "2026-08-20T10:24:44.000Z",
+      "xQuery": "マンション「共連れ」進む対策"
+    },
+    {
+      "time": "18:42",
+      "title": "富士山6合目 1人でいた7歳を救助",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592439?source=rss",
+      "publishedAt": "2026-08-20T09:42:07.000Z",
+      "xQuery": "富士山6合目 1人でいた7歳を救助"
     }
   ]
 };
