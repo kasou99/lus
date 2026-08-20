@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T20:43:12.987Z",
+  "updatedAt": "2026-08-20T21:10:29.409Z",
   "items": [
     {
       "time": "22:06",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡 退避完了と見張りが合図"
     },
     {
-      "time": "00:17",
-      "title": "道沿いに連日のパン投棄 39kg確認",
+      "time": "06:05",
+      "title": "飛び込みスポット 20歳が意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592472?source=rss",
-      "publishedAt": "2026-08-20T15:17:12.000Z",
-      "xQuery": "道沿いに連日のパン投棄 39kg確認"
+      "url": "https://news.yahoo.co.jp/pickup/6592473?source=rss",
+      "publishedAt": "2026-08-20T21:05:27.000Z",
+      "xQuery": "飛び込みスポット 20歳が意識不明"
     },
     {
       "time": "23:31",
