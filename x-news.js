@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T04:46:26.303Z",
+  "updatedAt": "2026-08-20T05:13:10.367Z",
   "items": [
-    {
-      "time": "13:40",
-      "title": "特急電車に接触 作業員4人が死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592397?source=rss",
-      "publishedAt": "2026-08-20T04:40:56.000Z",
-      "xQuery": "特急電車に接触 作業員4人が死亡"
-    },
     {
       "time": "12:03",
       "title": "千葉豪雨1週間 元の生活に戻れず",
@@ -18,28 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉豪雨1週間 元の生活に戻れず"
     },
     {
-      "time": "11:31",
-      "title": "国産AIシステムの実証始動 政府",
+      "time": "11:48",
+      "title": "ロシアでガソリン不足「第2波」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592378?source=rss",
-      "publishedAt": "2026-08-20T02:31:02.000Z",
-      "xQuery": "国産AIシステムの実証始動 政府"
+      "url": "https://news.yahoo.co.jp/pickup/6592382?source=rss",
+      "publishedAt": "2026-08-20T02:48:06.000Z",
+      "xQuery": "ロシアでガソリン不足「第2波」"
     },
     {
-      "time": "12:41",
-      "title": "県職員処分で私的情報公開 必要か",
+      "time": "13:40",
+      "title": "特急電車に接触 作業員4人が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592392?source=rss",
-      "publishedAt": "2026-08-20T03:41:29.000Z",
-      "xQuery": "県職員処分で私的情報公開 必要か"
+      "url": "https://news.yahoo.co.jp/pickup/6592397?source=rss",
+      "publishedAt": "2026-08-20T04:40:56.000Z",
+      "xQuery": "特急電車に接触 作業員4人が死亡"
     },
     {
-      "time": "12:05",
-      "title": "くら寿司 最低価格の値下げ発表",
+      "time": "13:32",
+      "title": "外食で「ダブル看板」広がる 戦略",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592386?source=rss",
-      "publishedAt": "2026-08-20T03:05:30.000Z",
-      "xQuery": "くら寿司 最低価格の値下げ発表"
+      "url": "https://news.yahoo.co.jp/pickup/6592387?source=rss",
+      "publishedAt": "2026-08-20T04:32:07.000Z",
+      "xQuery": "外食で「ダブル看板」広がる 戦略"
+    },
+    {
+      "time": "11:36",
+      "title": "うどん業界競争 丸亀に急ブレーキ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592377?source=rss",
+      "publishedAt": "2026-08-20T02:36:44.000Z",
+      "xQuery": "うどん業界競争 丸亀に急ブレーキ"
     }
   ]
 };
