@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T05:13:10.367Z",
+  "updatedAt": "2026-08-20T05:43:13.251Z",
   "items": [
     {
-      "time": "12:03",
-      "title": "千葉豪雨1週間 元の生活に戻れず",
+      "time": "14:03",
+      "title": "ICC所長へ米制裁 組織の「弱点」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592385?source=rss",
-      "publishedAt": "2026-08-20T03:03:36.000Z",
-      "xQuery": "千葉豪雨1週間 元の生活に戻れず"
+      "url": "https://news.yahoo.co.jp/pickup/6592389?source=rss",
+      "publishedAt": "2026-08-20T05:03:21.000Z",
+      "xQuery": "ICC所長へ米制裁 組織の「弱点」"
     },
     {
       "time": "11:48",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "特急電車に接触 作業員4人が死亡"
     },
     {
+      "time": "13:59",
+      "title": "女児34人にわいせつ 判決の背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592400?source=rss",
+      "publishedAt": "2026-08-20T04:59:06.000Z",
+      "xQuery": "女児34人にわいせつ 判決の背景"
+    },
+    {
       "time": "13:32",
       "title": "外食で「ダブル看板」広がる 戦略",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592387?source=rss",
       "publishedAt": "2026-08-20T04:32:07.000Z",
       "xQuery": "外食で「ダブル看板」広がる 戦略"
-    },
-    {
-      "time": "11:36",
-      "title": "うどん業界競争 丸亀に急ブレーキ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592377?source=rss",
-      "publishedAt": "2026-08-20T02:36:44.000Z",
-      "xQuery": "うどん業界競争 丸亀に急ブレーキ"
     }
   ]
 };

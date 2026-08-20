@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T05:13:09.404Z",
+  "updatedAt": "2026-08-20T05:43:12.099Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -27,8 +27,22 @@
         "time": "10:51",
         "title": "【設備保全DX】第5回 スマート工場 EXPO [秋] に次世代設備保全クラウド「M2X」ブースを出展",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UT204dnVZc2JTNXpndzM3OFUyMnpYU2lCUVAxNVNBM2FyeGlkM3VjR2FuWVRUa3haaTFNNnFmaWgtU3J5Q092aGp1cUdHOHVJMlNoMjd6NFRYaVZ4eGV5RFZVWHgtajJ1LUZpMXVyUzJfdzZhbzhQWktWRQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WdGFSN2ZDVGRKaUpiMFFnMllHY1FkTlJuMVFRN1BDclpaNXB2UGxoamk4Y3R4bkl1MGhPS2tWZ2Zfdy05dTRnZjJyWjBiZ0pIbld1QmxRMkEyQmxSNFlaeHVMZFZMa0FxOWdZa3VnYjNheDJHM3ZGUEZqTQ?oc=5",
         "publishedAt": "2026-08-20T01:51:14.000Z"
+      },
+      {
+        "time": "09:27",
+        "title": "ブラザー工業、2倍以上の工具搭載 30番複合加工機",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42MEFGUWdRZmdhLW1mWjc5SkdMR2NWdlM3a21COUxvVmNXbmxsTHpScWtnaUREaEltRnU2a0o3U2toV3o1TUdLNjNjVHMzdnpoUjdMTEs1NUV3cVU?oc=5",
+        "publishedAt": "2026-08-20T00:27:45.000Z"
+      },
+      {
+        "time": "05:16",
+        "title": "フォーカス 城山産業社長 竹中幸三（たけなか・こうぞう）氏 コア増産のニーズに対応 創業80周年、黒子役として技術磨く - chukei-news.co.jp",
+        "source": "chukei-news.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CM18wTmtaYloxRlV1cGhYZ0gyWFJ6VE4xUWduQ1l0c2RBVjl1T200WUJXQnJqOGtyMTUwUEZydktxRlZDSGFKRWsydzBhNnRWRncyUGV3T2kzYmx6Ql9RSTFFYnhDZHdCMldaS1VEU3pWdGM?oc=5",
+        "publishedAt": "2026-08-19T20:16:55.000Z"
       },
       {
         "time": "05:00",
@@ -43,20 +57,6 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xRzVDZ3gzN2tpclJaaUtFTmV5VEprMTBLSHp3a0hBbVdsNzBfOVJuWWVHUkNvTnV0Q1JnWFFtTFBqdFhueGJtek9xdDFJRmN0MjBBZVNQX3oxMEJOQjdHb3NDSVdTRmMzcFRB?oc=5",
         "publishedAt": "2026-08-19T13:10:00.000Z"
-      },
-      {
-        "time": "22:21",
-        "title": "ソディック、IMTS2026 出展のお知らせ",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ndFlOTHFfNjFqa1NUSV8wZ0xEUkZpWk5GcDlXd05UYmlqdzF1R0pYS2k4UXJJaWZzTngyTHE5c0VCNnQ5NWota0xWSk9qNi1LUzgwUkh4V2dINjRqZ3NQRkFIYmFSbl9Hb0VuVGpUMDF4bFBMU2l3U2pmVQ?oc=5",
-        "publishedAt": "2026-08-19T13:21:20.000Z"
-      },
-      {
-        "time": "00:18",
-        "title": "DEHA SOLUTIONS、製造業向けIFSエンジニアリング・マイグレーション支援サービスを展開",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xRl84aTJDN1dzV09DUEFPcF9SV296VUhsakNJZTdnVHNLX2IyV0hjby1xTGxNYURpOGNlS3VnSk40VHlJZUk5aEl4TGlNU0NQRVhUM0Q3VkpDN1lVMGlUb29DeEY2Y0dpUkN3elJUX2w2MGQ0czF0Q2h6RQ?oc=5",
-        "publishedAt": "2026-08-19T15:18:20.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,13 +82,6 @@
         "publishedAt": "2026-08-20T02:48:06.000Z"
       },
       {
-        "time": "06:55",
-        "title": "米大統領 正恩氏と会談の意向表明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592351?source=rss",
-        "publishedAt": "2026-08-19T21:55:05.000Z"
-      },
-      {
         "time": "14:03",
         "title": "ICC所長へ米制裁 組織の「弱点」",
         "source": "Yahoo!ニュース",
@@ -96,11 +89,18 @@
         "publishedAt": "2026-08-20T05:03:21.000Z"
       },
       {
-        "time": "06:28",
-        "title": "ICC所長らへの米制裁 相次ぐ非難",
+        "time": "14:40",
+        "title": "中国恒大創業者に無期懲役判決",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592349?source=rss",
-        "publishedAt": "2026-08-19T21:28:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592404?source=rss",
+        "publishedAt": "2026-08-20T05:40:42.000Z"
+      },
+      {
+        "time": "14:28",
+        "title": "「対日感情」に変化 韓国若者の今",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592401?source=rss",
+        "publishedAt": "2026-08-20T05:28:29.000Z"
       }
     ],
     "economyHeadlines": [
