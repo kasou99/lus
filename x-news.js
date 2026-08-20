@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T00:20:40.243Z",
+  "updatedAt": "2026-08-20T00:49:56.554Z",
   "items": [
     {
       "time": "08:25",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ウ軍無人機攻撃 露機を研究・改良"
     },
     {
-      "time": "07:40",
-      "title": "台風18号 来週日本列島に影響恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592355?source=rss",
-      "publishedAt": "2026-08-19T22:40:14.000Z",
-      "xQuery": "台風18号 来週日本列島に影響恐れ"
-    },
-    {
       "time": "08:50",
       "title": "イオン 避難後「客も戻れた」証言",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592361?source=rss",
       "publishedAt": "2026-08-19T23:50:23.000Z",
       "xQuery": "イオン 避難後「客も戻れた」証言"
+    },
+    {
+      "time": "09:16",
+      "title": "残業月45h以内の一律指導見直しへ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592366?source=rss",
+      "publishedAt": "2026-08-20T00:16:56.000Z",
+      "xQuery": "残業月45h以内の一律指導見直しへ"
     },
     {
       "time": "08:57",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "英ヘンリー王子夫妻 帰国を計画"
     },
     {
-      "time": "07:53",
-      "title": "万博工事背任疑い 関係者に衝撃",
+      "time": "08:23",
+      "title": "赤穂市 非正規130人雇い止めへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592356?source=rss",
-      "publishedAt": "2026-08-19T22:53:30.000Z",
-      "xQuery": "万博工事背任疑い 関係者に衝撃"
+      "url": "https://news.yahoo.co.jp/pickup/6592359?source=rss",
+      "publishedAt": "2026-08-19T23:23:55.000Z",
+      "xQuery": "赤穂市 非正規130人雇い止めへ"
     }
   ]
 };
