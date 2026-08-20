@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T07:20:47.407Z",
+  "updatedAt": "2026-08-20T07:47:31.643Z",
   "items": [
     {
       "time": "14:53",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "西日本中心に猛烈な暑さ 対策を"
     },
     {
-      "time": "13:40",
-      "title": "特急電車に接触 作業員4人が死亡",
+      "time": "16:40",
+      "title": "4人死亡 見張り役が列車に合図",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592397?source=rss",
-      "publishedAt": "2026-08-20T04:40:56.000Z",
-      "xQuery": "特急電車に接触 作業員4人が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6592417?source=rss",
+      "publishedAt": "2026-08-20T07:40:58.000Z",
+      "xQuery": "4人死亡 見張り役が列車に合図"
     },
     {
       "time": "14:41",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "公園のトイレで男性死亡 熱中症か"
     },
     {
-      "time": "15:43",
-      "title": "京王ライナー 10月から立席導入へ",
+      "time": "16:20",
+      "title": "23区新築マンション平均2.6億円超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592409?source=rss",
-      "publishedAt": "2026-08-20T06:43:05.000Z",
-      "xQuery": "京王ライナー 10月から立席導入へ"
+      "url": "https://news.yahoo.co.jp/pickup/6592414?source=rss",
+      "publishedAt": "2026-08-20T07:20:03.000Z",
+      "xQuery": "23区新築マンション平均2.6億円超"
     }
   ]
 };
