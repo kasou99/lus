@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T13:48:29.878Z",
+  "updatedAt": "2026-08-20T14:16:35.123Z",
   "items": [
     {
-      "time": "22:03",
-      "title": "首相 7月就任の英首相と電話会談",
+      "time": "21:35",
+      "title": "中道との連携 連合地方組織で異論",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592461?source=rss",
-      "publishedAt": "2026-08-20T13:03:03.000Z",
-      "xQuery": "首相 7月就任の英首相と電話会談"
+      "url": "https://news.yahoo.co.jp/pickup/6592456?source=rss",
+      "publishedAt": "2026-08-20T12:35:30.000Z",
+      "xQuery": "中道との連携 連合地方組織で異論"
     },
     {
-      "time": "21:41",
-      "title": "21日 関東など急な雨や雷雨に注意",
+      "time": "21:02",
+      "title": "日印 海洋安全保障で協力強化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592458?source=rss",
-      "publishedAt": "2026-08-20T12:41:53.000Z",
-      "xQuery": "21日 関東など急な雨や雷雨に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6592454?source=rss",
+      "publishedAt": "2026-08-20T12:02:14.000Z",
+      "xQuery": "日印 海洋安全保障で協力強化へ"
+    },
+    {
+      "time": "23:05",
+      "title": "郵便事業 縮小も視野に検討開始",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592469?source=rss",
+      "publishedAt": "2026-08-20T14:05:35.000Z",
+      "xQuery": "郵便事業 縮小も視野に検討開始"
     },
     {
       "time": "22:32",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡 退避完了と見張りが合図"
     },
     {
-      "time": "20:57",
-      "title": "時間外労働 一律抑制見直しに反発",
+      "time": "18:42",
+      "title": "富士山6合目 1人でいた7歳を救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592452?source=rss",
-      "publishedAt": "2026-08-20T11:57:01.000Z",
-      "xQuery": "時間外労働 一律抑制見直しに反発"
-    },
-    {
-      "time": "19:51",
-      "title": "メガネにコスメ的な機能 各社注力",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592448?source=rss",
-      "publishedAt": "2026-08-20T10:51:26.000Z",
-      "xQuery": "メガネにコスメ的な機能 各社注力"
+      "url": "https://news.yahoo.co.jp/pickup/6592439?source=rss",
+      "publishedAt": "2026-08-20T09:42:07.000Z",
+      "xQuery": "富士山6合目 1人でいた7歳を救助"
     }
   ]
 };
