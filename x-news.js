@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T01:33:04.352Z",
+  "updatedAt": "2026-08-20T02:29:21.086Z",
   "items": [
     {
-      "time": "08:25",
-      "title": "ウ軍無人機攻撃 露機を研究・改良",
+      "time": "10:55",
+      "title": "米大統領 対イラン制裁発動を表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592358?source=rss",
-      "publishedAt": "2026-08-19T23:25:32.000Z",
-      "xQuery": "ウ軍無人機攻撃 露機を研究・改良"
+      "url": "https://news.yahoo.co.jp/pickup/6592374?source=rss",
+      "publishedAt": "2026-08-20T01:55:25.000Z",
+      "xQuery": "米大統領 対イラン制裁発動を表明"
+    },
+    {
+      "time": "09:16",
+      "title": "広島土砂災害 最愛の妻を失い後悔",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592365?source=rss",
+      "publishedAt": "2026-08-20T00:16:55.000Z",
+      "xQuery": "広島土砂災害 最愛の妻を失い後悔"
     },
     {
       "time": "08:50",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592362?source=rss",
       "publishedAt": "2026-08-19T23:57:26.000Z",
       "xQuery": "英ヘンリー王子夫妻 帰国を計画"
-    },
-    {
-      "time": "08:23",
-      "title": "赤穂市 非正規130人雇い止めへ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592359?source=rss",
-      "publishedAt": "2026-08-19T23:23:55.000Z",
-      "xQuery": "赤穂市 非正規130人雇い止めへ"
     }
   ]
 };
