@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T09:45:43.962Z",
+  "updatedAt": "2026-08-20T10:11:08.940Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "18:55",
+        "title": "作業員4人死亡 東武鉄道が謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592440?source=rss",
+        "publishedAt": "2026-08-20T09:55:44.000Z"
+      },
+      {
         "time": "16:49",
         "title": "イオン 爆発巡り事故調査委を発足",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592419?source=rss",
         "publishedAt": "2026-08-20T07:49:23.000Z"
-      },
-      {
-        "time": "16:20",
-        "title": "23区新築マンション平均2.6億円超",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592414?source=rss",
-        "publishedAt": "2026-08-20T07:20:03.000Z"
       },
       {
         "time": "09:16",

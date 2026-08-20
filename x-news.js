@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T09:45:44.779Z",
+  "updatedAt": "2026-08-20T10:11:09.727Z",
   "items": [
     {
-      "time": "16:53",
-      "title": "77人犠牲 広島土砂災害から12年",
+      "time": "18:32",
+      "title": "北発射のミサイルは約10発 韓国軍",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592420?source=rss",
-      "publishedAt": "2026-08-20T07:53:35.000Z",
-      "xQuery": "77人犠牲 広島土砂災害から12年"
+      "url": "https://news.yahoo.co.jp/pickup/6592438?source=rss",
+      "publishedAt": "2026-08-20T09:32:05.000Z",
+      "xQuery": "北発射のミサイルは約10発 韓国軍"
     },
     {
-      "time": "16:49",
-      "title": "イオン 爆発巡り事故調査委を発足",
+      "time": "17:40",
+      "title": "クールジャパン機構廃止へ 経産省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592419?source=rss",
-      "publishedAt": "2026-08-20T07:49:23.000Z",
-      "xQuery": "イオン 爆発巡り事故調査委を発足"
+      "url": "https://news.yahoo.co.jp/pickup/6592424?source=rss",
+      "publishedAt": "2026-08-20T08:40:34.000Z",
+      "xQuery": "クールジャパン機構廃止へ 経産省"
+    },
+    {
+      "time": "18:55",
+      "title": "作業員4人死亡 東武鉄道が謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592440?source=rss",
+      "publishedAt": "2026-08-20T09:55:44.000Z",
+      "xQuery": "作業員4人死亡 東武鉄道が謝罪"
     },
     {
       "time": "16:40",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592422?source=rss",
       "publishedAt": "2026-08-20T08:29:40.000Z",
       "xQuery": "旭川17歳殺害 遺族がコメント発表"
-    },
-    {
-      "time": "16:21",
-      "title": "布施博が代表の芸能プロ 破産",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592413?source=rss",
-      "publishedAt": "2026-08-20T07:21:40.000Z",
-      "xQuery": "布施博が代表の芸能プロ 破産"
     }
   ]
 };
