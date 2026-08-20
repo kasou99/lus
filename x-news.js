@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T10:11:09.727Z",
+  "updatedAt": "2026-08-20T10:44:01.966Z",
   "items": [
     {
       "time": "18:32",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡 見張り役が列車に合図"
     },
     {
-      "time": "17:29",
-      "title": "旭川17歳殺害 遺族がコメント発表",
+      "time": "19:22",
+      "title": "子2人の姿が土砂に消え 母の思い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592422?source=rss",
-      "publishedAt": "2026-08-20T08:29:40.000Z",
-      "xQuery": "旭川17歳殺害 遺族がコメント発表"
+      "url": "https://news.yahoo.co.jp/pickup/6592443?source=rss",
+      "publishedAt": "2026-08-20T10:22:08.000Z",
+      "xQuery": "子2人の姿が土砂に消え 母の思い"
     }
   ]
 };
