@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T11:10:02.036Z",
+  "updatedAt": "2026-08-20T11:41:37.222Z",
   "items": [
     {
       "time": "18:32",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "夏にインフル 首都圏で増加傾向"
     },
     {
-      "time": "16:40",
-      "title": "4人死亡 見張り役が列車に合図",
+      "time": "20:24",
+      "title": "列車に接触し4人死亡 身元判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592417?source=rss",
-      "publishedAt": "2026-08-20T07:40:58.000Z",
-      "xQuery": "4人死亡 見張り役が列車に合図"
+      "url": "https://news.yahoo.co.jp/pickup/6592450?source=rss",
+      "publishedAt": "2026-08-20T11:24:44.000Z",
+      "xQuery": "列車に接触し4人死亡 身元判明"
     },
     {
       "time": "19:22",
