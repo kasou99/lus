@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T15:14:02.806Z",
+  "updatedAt": "2026-08-20T15:44:50.332Z",
   "items": [
     {
       "time": "22:06",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡 退避完了と見張りが合図"
     },
     {
-      "time": "21:44",
-      "title": "道沿いに連日のパン投棄 39㎏確認",
+      "time": "00:17",
+      "title": "道沿いに連日のパン投棄 39kg確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592459?source=rss",
-      "publishedAt": "2026-08-20T12:44:54.000Z",
-      "xQuery": "道沿いに連日のパン投棄 39㎏確認"
+      "url": "https://news.yahoo.co.jp/pickup/6592472?source=rss",
+      "publishedAt": "2026-08-20T15:17:12.000Z",
+      "xQuery": "道沿いに連日のパン投棄 39kg確認"
     },
     {
       "time": "23:31",
