@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T22:42:23.357Z",
+  "updatedAt": "2026-08-20T23:09:15.431Z",
   "items": [
     {
       "time": "06:34",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣改造 来月中下旬で首相調整"
     },
     {
-      "time": "23:47",
-      "title": "26年産新米 大幅値下がりの見通し",
+      "time": "08:02",
+      "title": "北方領土周辺で演習 露が映像公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592471?source=rss",
-      "publishedAt": "2026-08-20T14:47:54.000Z",
-      "xQuery": "26年産新米 大幅値下がりの見通し"
+      "url": "https://news.yahoo.co.jp/pickup/6592485?source=rss",
+      "publishedAt": "2026-08-20T23:02:39.000Z",
+      "xQuery": "北方領土周辺で演習 露が映像公開"
     },
     {
       "time": "22:32",
