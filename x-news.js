@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T05:43:13.251Z",
+  "updatedAt": "2026-08-20T06:14:39.469Z",
   "items": [
     {
-      "time": "14:03",
-      "title": "ICC所長へ米制裁 組織の「弱点」",
+      "time": "14:53",
+      "title": "赤根所長へ米制裁 ICC組織の実像",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592389?source=rss",
-      "publishedAt": "2026-08-20T05:03:21.000Z",
-      "xQuery": "ICC所長へ米制裁 組織の「弱点」"
+      "url": "https://news.yahoo.co.jp/pickup/6592406?source=rss",
+      "publishedAt": "2026-08-20T05:53:09.000Z",
+      "xQuery": "赤根所長へ米制裁 ICC組織の実像"
     },
     {
       "time": "11:48",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "特急電車に接触 作業員4人が死亡"
     },
     {
-      "time": "13:59",
-      "title": "女児34人にわいせつ 判決の背景",
+      "time": "14:40",
+      "title": "中国恒大創業者に無期懲役判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592400?source=rss",
-      "publishedAt": "2026-08-20T04:59:06.000Z",
-      "xQuery": "女児34人にわいせつ 判決の背景"
+      "url": "https://news.yahoo.co.jp/pickup/6592404?source=rss",
+      "publishedAt": "2026-08-20T05:40:42.000Z",
+      "xQuery": "中国恒大創業者に無期懲役判決"
     },
     {
-      "time": "13:32",
-      "title": "外食で「ダブル看板」広がる 戦略",
+      "time": "14:41",
+      "title": "公園のトイレで男性死亡 熱中症か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592387?source=rss",
-      "publishedAt": "2026-08-20T04:32:07.000Z",
-      "xQuery": "外食で「ダブル看板」広がる 戦略"
+      "url": "https://news.yahoo.co.jp/pickup/6592405?source=rss",
+      "publishedAt": "2026-08-20T05:41:32.000Z",
+      "xQuery": "公園のトイレで男性死亡 熱中症か"
     }
   ]
 };

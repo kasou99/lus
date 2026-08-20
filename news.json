@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T05:43:12.099Z",
+  "updatedAt": "2026-08-20T06:14:38.785Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-08-20T01:51:14.000Z"
       },
       {
-        "time": "09:27",
-        "title": "ブラザー工業、2倍以上の工具搭載 30番複合加工機",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42MEFGUWdRZmdhLW1mWjc5SkdMR2NWdlM3a21COUxvVmNXbmxsTHpScWtnaUREaEltRnU2a0o3U2toV3o1TUdLNjNjVHMzdnpoUjdMTEs1NUV3cVU?oc=5",
-        "publishedAt": "2026-08-20T00:27:45.000Z"
-      },
-      {
         "time": "05:16",
         "title": "フォーカス 城山産業社長 竹中幸三（たけなか・こうぞう）氏 コア増産のニーズに対応 創業80周年、黒子役として技術磨く - chukei-news.co.jp",
         "source": "chukei-news.co.jp",
@@ -57,6 +50,13 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xRzVDZ3gzN2tpclJaaUtFTmV5VEprMTBLSHp3a0hBbVdsNzBfOVJuWWVHUkNvTnV0Q1JnWFFtTFBqdFhueGJtek9xdDFJRmN0MjBBZVNQX3oxMEJOQjdHb3NDSVdTRmMzcFRB?oc=5",
         "publishedAt": "2026-08-19T13:10:00.000Z"
+      },
+      {
+        "time": "22:21",
+        "title": "ソディック、IMTS2026 出展のお知らせ",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ndFlOTHFfNjFqa1NUSV8wZ0xEUkZpWk5GcDlXd05UYmlqdzF1R0pYS2k4UXJJaWZzTngyTHE5c0VCNnQ5NWota0xWSk9qNi1LUzgwUkh4V2dINjRqZ3NQRkFIYmFSbl9Hb0VuVGpUMDF4bFBMU2l3U2pmVQ?oc=5",
+        "publishedAt": "2026-08-19T13:21:20.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592374?source=rss",
         "publishedAt": "2026-08-20T01:55:25.000Z"
+      },
+      {
+        "time": "14:53",
+        "title": "赤根所長へ米制裁 ICC組織の実像",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592406?source=rss",
+        "publishedAt": "2026-08-20T05:53:09.000Z"
       },
       {
         "time": "08:25",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592382?source=rss",
         "publishedAt": "2026-08-20T02:48:06.000Z"
-      },
-      {
-        "time": "14:03",
-        "title": "ICC所長へ米制裁 組織の「弱点」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592389?source=rss",
-        "publishedAt": "2026-08-20T05:03:21.000Z"
       },
       {
         "time": "14:40",
@@ -163,18 +163,18 @@
         "publishedAt": "2026-08-20T04:40:56.000Z"
       },
       {
-        "time": "11:33",
-        "title": "福岡市の川に女性遺体 殺人と断定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592379?source=rss",
-        "publishedAt": "2026-08-20T02:33:14.000Z"
-      },
-      {
         "time": "13:59",
         "title": "女児34人にわいせつ 判決の背景",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592400?source=rss",
         "publishedAt": "2026-08-20T04:59:06.000Z"
+      },
+      {
+        "time": "14:41",
+        "title": "公園のトイレで男性死亡 熱中症か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592405?source=rss",
+        "publishedAt": "2026-08-20T05:41:32.000Z"
       },
       {
         "time": "20:21",
