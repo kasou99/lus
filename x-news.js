@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T14:16:35.123Z",
+  "updatedAt": "2026-08-20T14:46:22.297Z",
   "items": [
     {
       "time": "21:35",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡 退避完了と見張りが合図"
     },
     {
-      "time": "18:42",
-      "title": "富士山6合目 1人でいた7歳を救助",
+      "time": "21:44",
+      "title": "道沿いに連日のパン投棄 39㎏確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592439?source=rss",
-      "publishedAt": "2026-08-20T09:42:07.000Z",
-      "xQuery": "富士山6合目 1人でいた7歳を救助"
+      "url": "https://news.yahoo.co.jp/pickup/6592459?source=rss",
+      "publishedAt": "2026-08-20T12:44:54.000Z",
+      "xQuery": "道沿いに連日のパン投棄 39㎏確認"
     }
   ]
 };

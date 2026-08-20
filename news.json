@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T14:16:34.347Z",
+  "updatedAt": "2026-08-20T14:46:21.230Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,18 +61,18 @@
     ],
     "worldHeadlines": [
       {
+        "time": "23:31",
+        "title": "中国 沖縄の帰属を巡り「疑義」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592470?source=rss",
+        "publishedAt": "2026-08-20T14:31:38.000Z"
+      },
+      {
         "time": "18:32",
         "title": "北発射のミサイルは約10発 韓国軍",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592438?source=rss",
         "publishedAt": "2026-08-20T09:32:05.000Z"
-      },
-      {
-        "time": "16:20",
-        "title": "北の核弾頭は80-120発 韓国国防相",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592412?source=rss",
-        "publishedAt": "2026-08-20T07:20:31.000Z"
       },
       {
         "time": "19:53",
