@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T12:13:11.890Z",
+  "updatedAt": "2026-08-20T12:49:00.459Z",
   "items": [
     {
       "time": "19:53",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "列車に接触し4人死亡 身元判明"
     },
     {
-      "time": "19:24",
-      "title": "マンション「共連れ」進む対策",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592444?source=rss",
-      "publishedAt": "2026-08-20T10:24:44.000Z",
-      "xQuery": "マンション「共連れ」進む対策"
-    },
-    {
       "time": "18:42",
       "title": "富士山6合目 1人でいた7歳を救助",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592439?source=rss",
       "publishedAt": "2026-08-20T09:42:07.000Z",
       "xQuery": "富士山6合目 1人でいた7歳を救助"
+    },
+    {
+      "time": "19:51",
+      "title": "メガネにコスメ的な機能 各社注力",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592448?source=rss",
+      "publishedAt": "2026-08-20T10:51:26.000Z",
+      "xQuery": "メガネにコスメ的な機能 各社注力"
     }
   ]
 };
