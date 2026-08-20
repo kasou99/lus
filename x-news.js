@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T09:14:38.191Z",
+  "updatedAt": "2026-08-20T09:45:44.779Z",
   "items": [
-    {
-      "time": "18:01",
-      "title": "中継 4人死亡受け東武鉄道が会見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592428?source=rss",
-      "publishedAt": "2026-08-20T09:01:14.000Z",
-      "xQuery": "中継 4人死亡受け東武鉄道が会見"
-    },
     {
       "time": "16:53",
       "title": "77人犠牲 広島土砂災害から12年",
@@ -26,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン 爆発巡り事故調査委を発足"
     },
     {
+      "time": "16:40",
+      "title": "4人死亡 見張り役が列車に合図",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592417?source=rss",
+      "publishedAt": "2026-08-20T07:40:58.000Z",
+      "xQuery": "4人死亡 見張り役が列車に合図"
+    },
+    {
       "time": "17:29",
       "title": "旭川17歳殺害 遺族がコメント発表",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "旭川17歳殺害 遺族がコメント発表"
     },
     {
-      "time": "17:52",
-      "title": "ネコの尿「においの名刺」の働き",
+      "time": "16:21",
+      "title": "布施博が代表の芸能プロ 破産",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592427?source=rss",
-      "publishedAt": "2026-08-20T08:52:50.000Z",
-      "xQuery": "ネコの尿「においの名刺」の働き"
+      "url": "https://news.yahoo.co.jp/pickup/6592413?source=rss",
+      "publishedAt": "2026-08-20T07:21:40.000Z",
+      "xQuery": "布施博が代表の芸能プロ 破産"
     }
   ]
 };

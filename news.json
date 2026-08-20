@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T09:14:37.513Z",
+  "updatedAt": "2026-08-20T09:45:43.962Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "17:33",
-        "title": "北発射 ミサイルはEEZ外に落下か",
+        "time": "18:32",
+        "title": "北発射のミサイルは約10発 韓国軍",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592426?source=rss",
-        "publishedAt": "2026-08-20T08:33:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592438?source=rss",
+        "publishedAt": "2026-08-20T09:32:05.000Z"
       },
       {
         "time": "16:20",
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "18:01",
-        "title": "中継 4人死亡受け東武鉄道が会見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592428?source=rss",
-        "publishedAt": "2026-08-20T09:01:14.000Z"
-      },
-      {
         "time": "16:49",
         "title": "イオン 爆発巡り事故調査委を発足",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592413?source=rss",
         "publishedAt": "2026-08-20T07:21:40.000Z"
+      },
+      {
+        "time": "18:38",
+        "title": "豚や鶏も肉価格高騰 食卓の今後は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592436?source=rss",
+        "publishedAt": "2026-08-20T09:38:27.000Z"
       }
     ],
     "localHeadlines": [
