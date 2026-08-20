@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T06:14:39.469Z",
+  "updatedAt": "2026-08-20T06:48:23.580Z",
   "items": [
     {
       "time": "14:53",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "赤根所長へ米制裁 ICC組織の実像"
     },
     {
-      "time": "11:48",
-      "title": "ロシアでガソリン不足「第2波」",
+      "time": "15:05",
+      "title": "西日本中心に猛烈な暑さ 対策を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592382?source=rss",
-      "publishedAt": "2026-08-20T02:48:06.000Z",
-      "xQuery": "ロシアでガソリン不足「第2波」"
+      "url": "https://news.yahoo.co.jp/pickup/6592407?source=rss",
+      "publishedAt": "2026-08-20T06:05:55.000Z",
+      "xQuery": "西日本中心に猛烈な暑さ 対策を"
     },
     {
       "time": "13:40",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "特急電車に接触 作業員4人が死亡"
     },
     {
-      "time": "14:40",
-      "title": "中国恒大創業者に無期懲役判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592404?source=rss",
-      "publishedAt": "2026-08-20T05:40:42.000Z",
-      "xQuery": "中国恒大創業者に無期懲役判決"
-    },
-    {
       "time": "14:41",
       "title": "公園のトイレで男性死亡 熱中症か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592405?source=rss",
       "publishedAt": "2026-08-20T05:41:32.000Z",
       "xQuery": "公園のトイレで男性死亡 熱中症か"
+    },
+    {
+      "time": "13:59",
+      "title": "女児34人にわいせつ 判決の背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592400?source=rss",
+      "publishedAt": "2026-08-20T04:59:06.000Z",
+      "xQuery": "女児34人にわいせつ 判決の背景"
     }
   ]
 };

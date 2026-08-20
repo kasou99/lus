@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T06:14:38.785Z",
+  "updatedAt": "2026-08-20T06:48:22.652Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-08-20T01:51:14.000Z"
       },
       {
+        "time": "09:27",
+        "title": "ブラザー工業、2倍以上の工具搭載 30番複合加工機",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42MEFGUWdRZmdhLW1mWjc5SkdMR2NWdlM3a21COUxvVmNXbmxsTHpScWtnaUREaEltRnU2a0o3U2toV3o1TUdLNjNjVHMzdnpoUjdMTEs1NUV3cVU?oc=5",
+        "publishedAt": "2026-08-20T00:27:45.000Z"
+      },
+      {
         "time": "05:16",
         "title": "フォーカス 城山産業社長 竹中幸三（たけなか・こうぞう）氏 コア増産のニーズに対応 創業80周年、黒子役として技術磨く - chukei-news.co.jp",
         "source": "chukei-news.co.jp",
@@ -50,13 +57,6 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xRzVDZ3gzN2tpclJaaUtFTmV5VEprMTBLSHp3a0hBbVdsNzBfOVJuWWVHUkNvTnV0Q1JnWFFtTFBqdFhueGJtek9xdDFJRmN0MjBBZVNQX3oxMEJOQjdHb3NDSVdTRmMzcFRB?oc=5",
         "publishedAt": "2026-08-19T13:10:00.000Z"
-      },
-      {
-        "time": "22:21",
-        "title": "ソディック、IMTS2026 出展のお知らせ",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ndFlOTHFfNjFqa1NUSV8wZ0xEUkZpWk5GcDlXd05UYmlqdzF1R0pYS2k4UXJJaWZzTngyTHE5c0VCNnQ5NWota0xWSk9qNi1LUzgwUkh4V2dINjRqZ3NQRkFIYmFSbl9Hb0VuVGpUMDF4bFBMU2l3U2pmVQ?oc=5",
-        "publishedAt": "2026-08-19T13:21:20.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,18 +119,18 @@
         "publishedAt": "2026-08-20T00:16:56.000Z"
       },
       {
-        "time": "11:40",
-        "title": "エンジン不具合で航空機停止 成田",
+        "time": "15:26",
+        "title": "伊丹21時過ぎる離着陸制限 厳格化",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592380?source=rss",
-        "publishedAt": "2026-08-20T02:40:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592408?source=rss",
+        "publishedAt": "2026-08-20T06:26:29.000Z"
       },
       {
-        "time": "10:07",
-        "title": "万博工事背任疑い 関係者に動揺",
+        "time": "15:43",
+        "title": "京王ライナー 10月から立席導入へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592370?source=rss",
-        "publishedAt": "2026-08-20T01:07:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592409?source=rss",
+        "publishedAt": "2026-08-20T06:43:05.000Z"
       },
       {
         "time": "13:32",
