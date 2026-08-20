@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T06:48:23.580Z",
+  "updatedAt": "2026-08-20T07:20:47.407Z",
   "items": [
     {
       "time": "14:53",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "公園のトイレで男性死亡 熱中症か"
     },
     {
-      "time": "13:59",
-      "title": "女児34人にわいせつ 判決の背景",
+      "time": "15:43",
+      "title": "京王ライナー 10月から立席導入へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592400?source=rss",
-      "publishedAt": "2026-08-20T04:59:06.000Z",
-      "xQuery": "女児34人にわいせつ 判決の背景"
+      "url": "https://news.yahoo.co.jp/pickup/6592409?source=rss",
+      "publishedAt": "2026-08-20T06:43:05.000Z",
+      "xQuery": "京王ライナー 10月から立席導入へ"
     }
   ]
 };
