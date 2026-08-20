@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T03:48:15.507Z",
+  "updatedAt": "2026-08-20T04:17:33.246Z",
   "items": [
-    {
-      "time": "12:33",
-      "title": "線路で特急と接触 作業員4人重体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592393?source=rss",
-      "publishedAt": "2026-08-20T03:33:28.000Z",
-      "xQuery": "線路で特急と接触 作業員4人重体"
-    },
     {
       "time": "12:03",
       "title": "千葉豪雨1週間 元の生活に戻れず",
@@ -18,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉豪雨1週間 元の生活に戻れず"
     },
     {
-      "time": "11:40",
-      "title": "エンジン不具合で航空機停止 成田",
+      "time": "11:31",
+      "title": "国産AIシステムの実証始動 政府",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592380?source=rss",
-      "publishedAt": "2026-08-20T02:40:16.000Z",
-      "xQuery": "エンジン不具合で航空機停止 成田"
+      "url": "https://news.yahoo.co.jp/pickup/6592378?source=rss",
+      "publishedAt": "2026-08-20T02:31:02.000Z",
+      "xQuery": "国産AIシステムの実証始動 政府"
+    },
+    {
+      "time": "13:02",
+      "title": "特急に作業員4人はねられ心肺停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592395?source=rss",
+      "publishedAt": "2026-08-20T04:02:29.000Z",
+      "xQuery": "特急に作業員4人はねられ心肺停止"
     },
     {
       "time": "11:33",
