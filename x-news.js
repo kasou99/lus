@@ -1,6 +1,30 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T12:48:48.081Z",
+  "updatedAt": "2026-08-21T13:22:02.178Z",
   "items": [
+    {
+      "time": "21:48",
+      "title": "概算要求総額 130兆円超の見通し",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592588?source=rss",
+      "publishedAt": "2026-08-21T12:48:52.000Z",
+      "xQuery": "概算要求総額 130兆円超の見通し"
+    },
+    {
+      "time": "18:48",
+      "title": "千葉豪雨「助けて」緊迫の119番",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592571?source=rss",
+      "publishedAt": "2026-08-21T09:48:01.000Z",
+      "xQuery": "千葉豪雨「助けて」緊迫の119番"
+    },
+    {
+      "time": "21:54",
+      "title": "埼玉で猛烈な雨 車水没訴える通報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592589?source=rss",
+      "publishedAt": "2026-08-21T12:54:28.000Z",
+      "xQuery": "埼玉で猛烈な雨 車水没訴える通報"
+    },
     {
       "time": "21:33",
       "title": "赤根所長へ連帯表明の国が相次ぐ",
@@ -8,30 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592587?source=rss",
       "publishedAt": "2026-08-21T12:33:12.000Z",
       "xQuery": "赤根所長へ連帯表明の国が相次ぐ"
-    },
-    {
-      "time": "17:28",
-      "title": "育児サービス利用など税優遇 方針",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592556?source=rss",
-      "publishedAt": "2026-08-21T08:28:09.000Z",
-      "xQuery": "育児サービス利用など税優遇 方針"
-    },
-    {
-      "time": "19:50",
-      "title": "高校のバスなど6台事故 生徒搬送",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592579?source=rss",
-      "publishedAt": "2026-08-21T10:50:18.000Z",
-      "xQuery": "高校のバスなど6台事故 生徒搬送"
-    },
-    {
-      "time": "20:27",
-      "title": "10年超放置の遊覧船 撤去に7億円",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592581?source=rss",
-      "publishedAt": "2026-08-21T11:27:26.000Z",
-      "xQuery": "10年超放置の遊覧船 撤去に7億円"
     },
     {
       "time": "19:12",

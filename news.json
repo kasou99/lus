@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-21T12:48:47.425Z",
+  "updatedAt": "2026-08-21T13:22:01.415Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "18:16",
-        "title": "工作機械受注、5月37％増 中国・アジア好調けん引",
+        "time": "18:09",
+        "title": "工作機械受注、6月52％増 アジア・北米伸長 単月初の2000億円超",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxbDBCM1VvR0U3cG5iTzNpaTk3OC1vcU9GN0gtRzhSNE1mMUo5M3gzSWVpSTgxTVVHMWZlc3g2SXE1aEFfYkpFVTJXanlUNHpVME80VFpsVFM?oc=5",
-        "publishedAt": "2026-08-21T09:16:57.000Z"
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SNWRvb0s5MVhvZE5ySUpJajZ3RE13VVIzTTdablBUNGdmd3MtbWNMVG4zM1JWZ2NYa2RyTmQwQkQ3X2diVTFkR3IyZ3dPT2xCdXF2TWVTOTMzNFRQUldiRVRVdU96U0tPOUdWTW5oUQ?oc=5",
+        "publishedAt": "2026-08-21T09:09:10.000Z"
       },
       {
         "time": "13:45",
@@ -22,6 +22,20 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ITU1qVTEydENZYmhrck1hWUxGSEdjSDNtUjJRRk5kTl94NzhjcjVEYTlNTjdXaS1RVC1oNUFsUjRveGlZWEVqcmhGMGo1Q2c?oc=5",
         "publishedAt": "2026-08-21T05:00:00.000Z"
+      },
+      {
+        "time": "16:59",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-08-21T07:59:20.000Z"
+      },
+      {
+        "time": "18:16",
+        "title": "工作機械受注、5月37％増 中国・アジア好調けん引",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxbDBCM1VvR0U3cG5iTzNpaTk3OC1vcU9GN0gtRzhSNE1mMUo5M3gzSWVpSTgxTVVHMWZlc3g2SXE1aEFfYkpFVTJXanlUNHpVME80VFpsVFM?oc=5",
+        "publishedAt": "2026-08-21T09:16:57.000Z"
       },
       {
         "time": "05:00",
@@ -43,20 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9obVBGOVlKRE9qUkJqN0ktMzg4WXo5blh6LTd1TW53b3VPVmt2NmRLbXBVNXMwVGdHTFFGbmMya2xTOWRaSEtfTEE3cnlZaVRrYzQzbA?oc=5",
         "publishedAt": "2026-08-21T10:25:20.000Z"
-      },
-      {
-        "time": "14:07",
-        "title": "社説／フィジカルAIに優先支援 強さの先にある「進化」に期待",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiWXFuY0JELWxIb1pkZVNZcGw0RHkzT1BwbjI4M05DZlpSNFd3aWtYVmlaeWtFN3U3cjkwanc4MUVJTHE4UVZldW1kZlFKNUY5UDlNY2NDZjE?oc=5",
-        "publishedAt": "2026-08-21T05:07:21.000Z"
-      },
-      {
-        "time": "10:55",
-        "title": "製造業DXを加速する！シリーズ第4弾 意思決定改革篇 品質改善と安定操業を実現するデータ活用事例特集 - trans-cosmos.co.jp",
-        "source": "trans-cosmos.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UMWR6TDlNN1NxZXY0S2NQQzZSTi1vSTBTNF9PSjNocE1feXBHLVZIQjl1M2lwczZYc1RmMEFaUWVzWno1RnI5Z0VncFdIVDFJVkVLUjBmbEhHQTFkck9v?oc=5",
-        "publishedAt": "2026-08-21T01:55:26.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "21:54",
+        "title": "埼玉で猛烈な雨 車水没訴える通報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592589?source=rss",
+        "publishedAt": "2026-08-21T12:54:28.000Z"
+      },
+      {
         "time": "18:48",
         "title": "千葉豪雨「助けて」緊迫の119番",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592581?source=rss",
         "publishedAt": "2026-08-21T11:27:26.000Z"
-      },
-      {
-        "time": "17:26",
-        "title": "ゴルフ研修生19歳自殺 両親が提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592557?source=rss",
-        "publishedAt": "2026-08-21T08:26:23.000Z"
       }
     ],
     "subsidyHeadlines": [
