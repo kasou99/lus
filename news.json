@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T04:17:43.656Z",
+  "updatedAt": "2026-08-21T04:47:18.647Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,13 +163,6 @@
         "publishedAt": "2026-08-21T03:26:18.000Z"
       },
       {
-        "time": "11:23",
-        "title": "千葉豪雨 浸水想定域で9人犠牲か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592505?source=rss",
-        "publishedAt": "2026-08-21T02:23:15.000Z"
-      },
-      {
         "time": "10:34",
         "title": "4人死亡 時速50kmで駅構内進入か",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592465?source=rss",
         "publishedAt": "2026-08-20T13:32:34.000Z"
+      },
+      {
+        "time": "11:29",
+        "title": "港で大型船が火災 作業員1人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592506?source=rss",
+        "publishedAt": "2026-08-21T02:29:54.000Z"
       }
     ],
     "subsidyHeadlines": [

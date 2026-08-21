@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T04:17:44.653Z",
+  "updatedAt": "2026-08-21T04:47:19.182Z",
   "items": [
     {
       "time": "12:13",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592513?source=rss",
       "publishedAt": "2026-08-21T03:13:41.000Z",
       "xQuery": "中立公「月内の3党合流」に暗雲"
+    },
+    {
+      "time": "13:02",
+      "title": "議長巡る福岡県会の採決中止 苦情",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592524?source=rss",
+      "publishedAt": "2026-08-21T04:02:29.000Z",
+      "xQuery": "議長巡る福岡県会の採決中止 苦情"
     },
     {
       "time": "12:06",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "農場で外国籍従業員に暴力か 調査"
     },
     {
-      "time": "10:34",
-      "title": "4人死亡 時速50kmで駅構内進入か",
+      "time": "13:20",
+      "title": "登校中児童11人 ハチに刺され搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592502?source=rss",
-      "publishedAt": "2026-08-21T01:34:27.000Z",
-      "xQuery": "4人死亡 時速50kmで駅構内進入か"
-    },
-    {
-      "time": "12:00",
-      "title": "botで大量クリック 広告費を詐取",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592510?source=rss",
-      "publishedAt": "2026-08-21T03:00:00.000Z",
-      "xQuery": "botで大量クリック 広告費を詐取"
+      "url": "https://news.yahoo.co.jp/pickup/6592526?source=rss",
+      "publishedAt": "2026-08-21T04:20:51.000Z",
+      "xQuery": "登校中児童11人 ハチに刺され搬送"
     }
   ]
 };
