@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T15:12:46.426Z",
+  "updatedAt": "2026-08-21T15:44:35.645Z",
   "items": [
     {
       "time": "23:41",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "22日 西・東日本は急な雷雨に注意"
     },
     {
-      "time": "22:26",
-      "title": "5人殺害事件遺族 死刑執行に心境",
+      "time": "21:54",
+      "title": "埼玉で猛烈な雨 車水没訴える通報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592590?source=rss",
-      "publishedAt": "2026-08-21T13:26:54.000Z",
-      "xQuery": "5人殺害事件遺族 死刑執行に心境"
+      "url": "https://news.yahoo.co.jp/pickup/6592589?source=rss",
+      "publishedAt": "2026-08-21T12:54:28.000Z",
+      "xQuery": "埼玉で猛烈な雨 車水没訴える通報"
     },
     {
       "time": "21:33",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "赤根所長へ連帯表明の国が相次ぐ"
     },
     {
-      "time": "21:54",
-      "title": "埼玉で猛烈な雨 車水没訴える通報",
+      "time": "22:26",
+      "title": "5人殺害事件遺族 死刑執行に心境",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592589?source=rss",
-      "publishedAt": "2026-08-21T12:54:28.000Z",
-      "xQuery": "埼玉で猛烈な雨 車水没訴える通報"
+      "url": "https://news.yahoo.co.jp/pickup/6592590?source=rss",
+      "publishedAt": "2026-08-21T13:26:54.000Z",
+      "xQuery": "5人殺害事件遺族 死刑執行に心境"
     },
     {
       "time": "23:24",
