@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T05:13:52.611Z",
+  "updatedAt": "2026-08-21T05:44:21.318Z",
   "items": [
     {
       "time": "13:29",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣改造 総裁選争った4人処遇は"
     },
     {
-      "time": "13:02",
-      "title": "議長巡る福岡県会の採決中止 苦情",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592524?source=rss",
-      "publishedAt": "2026-08-21T04:02:29.000Z",
-      "xQuery": "議長巡る福岡県会の採決中止 苦情"
-    },
-    {
       "time": "13:20",
       "title": "登校中児童11人 ハチに刺され搬送",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592526?source=rss",
       "publishedAt": "2026-08-21T04:20:51.000Z",
       "xQuery": "登校中児童11人 ハチに刺され搬送"
+    },
+    {
+      "time": "14:19",
+      "title": "川に「モバ充」161個 警察が回収",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592533?source=rss",
+      "publishedAt": "2026-08-21T05:19:33.000Z",
+      "xQuery": "川に「モバ充」161個 警察が回収"
     },
     {
       "time": "12:12",

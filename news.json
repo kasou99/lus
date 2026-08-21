@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T05:13:52.104Z",
+  "updatedAt": "2026-08-21T05:44:20.390Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,6 +10,13 @@
         "publishedAt": "2026-08-21T04:45:03.000Z"
       },
       {
+        "time": "14:00",
+        "title": "ツールタレットの世界市場（2026年～2032年）、市場規模（VDIターレット、BMTターレット）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VT2xDWkpESXBtMTh4Mk1oclZsRXRTMU1xLUtjR2F0RnVSVXlWV2Rwc1RqdldhTVR6NENXbWxyQVlVWHc5M0phVDYzbWMyczA?oc=5",
+        "publishedAt": "2026-08-21T05:00:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "西部電機、欧州拠点27年4月開設 中国依存低減しつつ工作機械拡販",
         "source": "日本経済新聞",
@@ -17,11 +24,11 @@
         "publishedAt": "2026-08-20T20:00:00.000Z"
       },
       {
-        "time": "12:44",
-        "title": "ブラザー、欧で加工機拡大 独営業拠点を移転・拡張",
+        "time": "05:00",
+        "title": "第56回機械工業デザイン賞IDEA（14）審査委員会特別賞 ツガミ",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lMEdzV1puTkpmZS1OY0NXSjVoSjFSRUx1aWlQV2JRRkM0Zm1UNEhrbzRwY2swODQ1YXk4bzJVS3JlTkp2QWpLR25UME41WkhBakp3RXJiN1A?oc=5",
-        "publishedAt": "2026-08-21T03:44:41.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSZUVjRUNVWTNEanRKTlZNRmhabll4YkdtMkhWQnVjVTJNNHk3eFlGWmxKN3NDVXB4M0QtZUhXUWxCYlU3NWNXd0VnOVdXcVhTN3EzLUEtMjE?oc=5",
+        "publishedAt": "2026-08-20T20:00:00.000Z"
       },
       {
         "time": "00:40",
@@ -36,13 +43,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5RMlNLeGdoZVp6bHZibkx6SE9za094RGN6elEtMnltMnVMY25uS0lGV2U4cHYwcHREZGlHbzNlV0VvNWtBZVdF?oc=5",
         "publishedAt": "2026-08-20T06:40:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "第56回機械工業デザイン賞IDEA（14）審査委員会特別賞 ツガミ",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSZUVjRUNVWTNEanRKTlZNRmhabll4YkdtMkhWQnVjVTJNNHk3eFlGWmxKN3NDVXB4M0QtZUhXUWxCYlU3NWNXd0VnOVdXcVhTN3EzLUEtMjE?oc=5",
-        "publishedAt": "2026-08-20T20:00:00.000Z"
       },
       {
         "time": "05:53",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-08-21T01:34:27.000Z"
       },
       {
-        "time": "09:05",
-        "title": "4人死亡 業務上過失致死疑い視野",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592491?source=rss",
-        "publishedAt": "2026-08-21T00:05:07.000Z"
-      },
-      {
         "time": "22:32",
         "title": "4人死亡 退避完了と見張りが合図",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592465?source=rss",
         "publishedAt": "2026-08-20T13:32:34.000Z"
+      },
+      {
+        "time": "14:19",
+        "title": "川に「モバ充」161個 警察が回収",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592533?source=rss",
+        "publishedAt": "2026-08-21T05:19:33.000Z"
       }
     ],
     "subsidyHeadlines": [
