@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T02:33:23.599Z",
+  "updatedAt": "2026-08-21T03:24:35.697Z",
   "items": [
     {
       "time": "10:44",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉豪雨 浸水想定域で9人犠牲か"
     },
     {
+      "time": "12:06",
+      "title": "秋サケ激減の異常事態 転換した漁",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592517?source=rss",
+      "publishedAt": "2026-08-21T03:06:54.000Z",
+      "xQuery": "秋サケ激減の異常事態 転換した漁"
+    },
+    {
       "time": "10:04",
       "title": "09年の15人死傷放火殺人 死刑執行",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "09年の15人死傷放火殺人 死刑執行"
     },
     {
-      "time": "10:14",
-      "title": "金与正氏 米韓同盟は「主従関係」",
+      "time": "10:34",
+      "title": "4人死亡 時速50kmで駅構内進入か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592500?source=rss",
-      "publishedAt": "2026-08-21T01:14:07.000Z",
-      "xQuery": "金与正氏 米韓同盟は「主従関係」"
-    },
-    {
-      "time": "11:29",
-      "title": "港で大型船が火災 作業員1人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592506?source=rss",
-      "publishedAt": "2026-08-21T02:29:54.000Z",
-      "xQuery": "港で大型船が火災 作業員1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6592502?source=rss",
+      "publishedAt": "2026-08-21T01:34:27.000Z",
+      "xQuery": "4人死亡 時速50kmで駅構内進入か"
     }
   ]
 };
