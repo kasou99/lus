@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T05:44:21.318Z",
+  "updatedAt": "2026-08-21T06:15:45.509Z",
   "items": [
     {
       "time": "13:29",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣改造 総裁選争った4人処遇は"
     },
     {
+      "time": "13:49",
+      "title": "千葉豪雨 片付け中の感染症に注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592529?source=rss",
+      "publishedAt": "2026-08-21T04:49:47.000Z",
+      "xQuery": "千葉豪雨 片付け中の感染症に注意"
+    },
+    {
       "time": "13:20",
       "title": "登校中児童11人 ハチに刺され搬送",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592533?source=rss",
       "publishedAt": "2026-08-21T05:19:33.000Z",
       "xQuery": "川に「モバ充」161個 警察が回収"
-    },
-    {
-      "time": "12:12",
-      "title": "水原受刑者事件 記者の尽きぬ疑問",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592512?source=rss",
-      "publishedAt": "2026-08-21T03:12:00.000Z",
-      "xQuery": "水原受刑者事件 記者の尽きぬ疑問"
     }
   ]
 };
