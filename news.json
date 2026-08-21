@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T23:40:57.950Z",
+  "updatedAt": "2026-08-21T00:22:00.613Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-08-20T20:06:58.000Z"
       },
       {
-        "time": "00:41",
-        "title": "承認手続きなく退職金3000万円を自身の口座に振り込みか 田原市役所職員逮捕（中京テレビＮＥＷＳ）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NcW5nbktuZUU1SmxJWDBiQUVVbFhaZVRKV2toWVNWU0hCM2trQWZGNjh3eWVYMUt0dWVXNFhZTFRFRXBONGNjX0p1OVNQYkgzc1dZVkJuVVk4eENwZ2FqUzNnVGxjRUhVR0tkQlNwQWNMMDBnSXZJS2FMNEtMNm8?oc=5",
-        "publishedAt": "2026-08-20T15:41:45.000Z"
+        "time": "00:40",
+        "title": "承認手続きなく退職金3000万円を自身の口座に振り込みか 田原市役所職員逮捕",
+        "source": "日テレNEWS NNN",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYVJuNmUwUWdQNktMVjg1RVJDaUlta3pPS2JNd2xCNVdnUmQ4MTJCdFpmWUVoUFF4NTByTHY2N1RKOGR0OUJKZ0VQSlRFLTZRZ0FoSEdwcUs5YWQxaUpoUEVfOTdxbGlZRF9nVHBrVl9mcXdDLWlJVnFWREhIQ2NmSkI4VUNZYTQ?oc=5",
+        "publishedAt": "2026-08-20T15:40:00.000Z"
       },
       {
         "time": "15:40",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:07",
+        "title": "SKハイニックス 宮城に工場案",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592493?source=rss",
+        "publishedAt": "2026-08-21T00:07:12.000Z"
+      },
+      {
         "time": "23:47",
         "title": "26年産新米 大幅値下がりの見通し",
         "source": "Yahoo!ニュース",
@@ -138,16 +145,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592487?source=rss",
         "publishedAt": "2026-08-20T23:23:41.000Z"
-      },
-      {
-        "time": "07:56",
-        "title": "くら寿司最低価格下げる なぜ逆行",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592483?source=rss",
-        "publishedAt": "2026-08-20T22:56:47.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "09:05",
+        "title": "4人死亡 業務上過失致死疑い視野",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592491?source=rss",
+        "publishedAt": "2026-08-21T00:05:07.000Z"
+      },
       {
         "time": "22:32",
         "title": "4人死亡 退避完了と見張りが合図",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592481?source=rss",
         "publishedAt": "2026-08-20T22:28:25.000Z"
-      },
-      {
-        "time": "00:17",
-        "title": "道沿いに連日のパン投棄 39kg確認",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592472?source=rss",
-        "publishedAt": "2026-08-20T15:17:12.000Z"
       }
     ],
     "subsidyHeadlines": [

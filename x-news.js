@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-20T23:40:58.498Z",
+  "updatedAt": "2026-08-21T00:22:01.095Z",
   "items": [
     {
-      "time": "06:34",
-      "title": "内閣改造 来月中下旬で首相調整",
+      "time": "08:16",
+      "title": "暑さ続く 北陸・東北は大雨恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592475?source=rss",
-      "publishedAt": "2026-08-20T21:34:50.000Z",
-      "xQuery": "内閣改造 来月中下旬で首相調整"
+      "url": "https://news.yahoo.co.jp/pickup/6592488?source=rss",
+      "publishedAt": "2026-08-20T23:16:42.000Z",
+      "xQuery": "暑さ続く 北陸・東北は大雨恐れ"
+    },
+    {
+      "time": "09:03",
+      "title": "大規模11私大 理系学生増など検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592492?source=rss",
+      "publishedAt": "2026-08-21T00:03:47.000Z",
+      "xQuery": "大規模11私大 理系学生増など検討"
     },
     {
       "time": "08:35",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "防衛事業 再編の企業に国出資方針"
     },
     {
-      "time": "08:02",
-      "title": "北方領土周辺で演習 露が映像公開",
+      "time": "09:05",
+      "title": "4人死亡 業務上過失致死疑い視野",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592485?source=rss",
-      "publishedAt": "2026-08-20T23:02:39.000Z",
-      "xQuery": "北方領土周辺で演習 露が映像公開"
-    },
-    {
-      "time": "06:05",
-      "title": "飛び込みスポット 20歳が意識不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592473?source=rss",
-      "publishedAt": "2026-08-20T21:05:27.000Z",
-      "xQuery": "飛び込みスポット 20歳が意識不明"
+      "url": "https://news.yahoo.co.jp/pickup/6592491?source=rss",
+      "publishedAt": "2026-08-21T00:05:07.000Z",
+      "xQuery": "4人死亡 業務上過失致死疑い視野"
     },
     {
       "time": "07:28",
