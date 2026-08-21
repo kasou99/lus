@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T18:47:22.985Z",
+  "updatedAt": "2026-08-21T19:13:03.757Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-08-21T05:00:00.000Z"
       },
       {
+        "time": "16:59",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-08-21T07:59:20.000Z"
+      },
+      {
         "time": "05:00",
         "title": "西部電機、欧州拠点27年4月開設 中国依存低減しつつ工作機械拡販",
         "source": "日本経済新聞",
@@ -31,11 +38,11 @@
         "publishedAt": "2026-08-20T20:00:00.000Z"
       },
       {
-        "time": "12:52",
-        "title": "深層断面／中小、設備保全DX加速 遠隔監視・故障予防など強化",
+        "time": "13:46",
+        "title": "第56回機械工業デザイン賞IDEA（7）日本工作機械工業会賞 ブラザー工業",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16blg1T3pxNFRCamIxcHNQa25tNlk2WE9pMld4UnprYUFJYVdEWnJOYkJpbXZYamFSUEV2N2xYc1NoUlQwTHF3RVNRSWFPQ0Y4RFQycVFoSkE?oc=5",
-        "publishedAt": "2026-08-21T03:52:50.000Z"
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QMmMxUG13UGVlVTlmLUxmRnFYOW9vdTNENFlPSWJlV3lmTG5pTzBEQ3BSMUw2alFlYThSQkMxbXRJMGxjNXFaV1ZFRGcwQzZwVzUzZmtjVDE3WXU4RVQ2ZnRQMzF3WjY1eDJSSVl1NA?oc=5",
+        "publishedAt": "2026-08-21T04:46:21.000Z"
       },
       {
         "time": "16:28",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-08-21T07:28:15.000Z"
       },
       {
-        "time": "17:03",
-        "title": "リアルタイムモーションコントローラ市場の未来を読む：2026年以降の業界変化とビジネスチャンス",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSZUJWTDd6b29ldERJclY4YXBUV0NxQTFLaU9NbkZCNkV1Q3FKcEg5T0toT1FTM1BsRXhybGJ3R1pDeWM2ODRFRGxBVEI4STB3UmlXMUVPb0FkVV8zQXFHMTNDZFJwNDlNaXl3cGhXNEFmd3ljMUdkSFgxaw?oc=5",
-        "publishedAt": "2026-08-21T08:03:22.000Z"
-      },
-      {
-        "time": "19:25",
-        "title": "トップニュース",
+        "time": "12:52",
+        "title": "深層断面／中小、設備保全DX加速 遠隔監視・故障予防など強化",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9obVBGOVlKRE9qUkJqN0ktMzg4WXo5blh6LTd1TW53b3VPVmt2NmRLbXBVNXMwVGdHTFFGbmMya2xTOWRaSEtfTEE3cnlZaVRrYzQzbA?oc=5",
-        "publishedAt": "2026-08-21T10:25:20.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16blg1T3pxNFRCamIxcHNQa25tNlk2WE9pMld4UnprYUFJYVdEWnJOYkJpbXZYamFSUEV2N2xYc1NoUlQwTHF3RVNRSWFPQ0Y4RFQycVFoSkE?oc=5",
+        "publishedAt": "2026-08-21T03:52:50.000Z"
       }
     ],
     "worldHeadlines": [
