@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T06:48:25.514Z",
+  "updatedAt": "2026-08-21T07:21:02.372Z",
   "items": [
     {
-      "time": "13:29",
-      "title": "台風18号 26日ごろ沖縄接近の恐れ",
+      "time": "13:49",
+      "title": "千葉豪雨 片付け中の感染症に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592527?source=rss",
-      "publishedAt": "2026-08-21T04:29:44.000Z",
-      "xQuery": "台風18号 26日ごろ沖縄接近の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6592529?source=rss",
+      "publishedAt": "2026-08-21T04:49:47.000Z",
+      "xQuery": "千葉豪雨 片付け中の感染症に注意"
+    },
+    {
+      "time": "12:56",
+      "title": "露戦略会議に変化「戦後」意識?",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592522?source=rss",
+      "publishedAt": "2026-08-21T03:56:24.000Z",
+      "xQuery": "露戦略会議に変化「戦後」意識?"
     },
     {
       "time": "13:42",
@@ -18,14 +26,6 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣改造 総裁選争った4人処遇は"
     },
     {
-      "time": "13:49",
-      "title": "千葉豪雨 片付け中の感染症に注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592529?source=rss",
-      "publishedAt": "2026-08-21T04:49:47.000Z",
-      "xQuery": "千葉豪雨 片付け中の感染症に注意"
-    },
-    {
       "time": "14:19",
       "title": "川に「モバ充」161個 警察が回収",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "川に「モバ充」161個 警察が回収"
     },
     {
-      "time": "14:46",
-      "title": "道路脇にパン大量投棄 法的問題は",
+      "time": "15:46",
+      "title": "突如中止の花火大会 返金姿勢示す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592536?source=rss",
-      "publishedAt": "2026-08-21T05:46:48.000Z",
-      "xQuery": "道路脇にパン大量投棄 法的問題は"
+      "url": "https://news.yahoo.co.jp/pickup/6592540?source=rss",
+      "publishedAt": "2026-08-21T06:46:19.000Z",
+      "xQuery": "突如中止の花火大会 返金姿勢示す"
     }
   ]
 };
