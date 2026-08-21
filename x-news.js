@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T12:12:56.063Z",
+  "updatedAt": "2026-08-21T12:48:48.081Z",
   "items": [
     {
-      "time": "18:58",
-      "title": "4人死亡 列車見張り員ら任意聴取",
+      "time": "21:33",
+      "title": "赤根所長へ連帯表明の国が相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592573?source=rss",
-      "publishedAt": "2026-08-21T09:58:13.000Z",
-      "xQuery": "4人死亡 列車見張り員ら任意聴取"
+      "url": "https://news.yahoo.co.jp/pickup/6592587?source=rss",
+      "publishedAt": "2026-08-21T12:33:12.000Z",
+      "xQuery": "赤根所長へ連帯表明の国が相次ぐ"
     },
     {
       "time": "17:28",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高校のバスなど6台事故 生徒搬送"
     },
     {
-      "time": "20:20",
-      "title": "クーラーBOXで5日漂流 メキシコ",
+      "time": "20:27",
+      "title": "10年超放置の遊覧船 撤去に7億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592580?source=rss",
-      "publishedAt": "2026-08-21T11:20:49.000Z",
-      "xQuery": "クーラーBOXで5日漂流 メキシコ"
+      "url": "https://news.yahoo.co.jp/pickup/6592581?source=rss",
+      "publishedAt": "2026-08-21T11:27:26.000Z",
+      "xQuery": "10年超放置の遊覧船 撤去に7億円"
     },
     {
       "time": "19:12",
