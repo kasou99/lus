@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T03:24:35.697Z",
+  "updatedAt": "2026-08-21T03:49:02.898Z",
   "items": [
     {
       "time": "10:44",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592503?source=rss",
       "publishedAt": "2026-08-21T01:44:33.000Z",
       "xQuery": "金融庁が企画室新設へ 検査司令塔"
-    },
-    {
-      "time": "11:23",
-      "title": "千葉豪雨 浸水想定域で9人犠牲か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592505?source=rss",
-      "publishedAt": "2026-08-21T02:23:15.000Z",
-      "xQuery": "千葉豪雨 浸水想定域で9人犠牲か"
     },
     {
       "time": "12:06",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592499?source=rss",
       "publishedAt": "2026-08-21T01:04:25.000Z",
       "xQuery": "09年の15人死傷放火殺人 死刑執行"
+    },
+    {
+      "time": "12:26",
+      "title": "農場で外国籍従業員に暴力か 調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592519?source=rss",
+      "publishedAt": "2026-08-21T03:26:18.000Z",
+      "xQuery": "農場で外国籍従業員に暴力か 調査"
     },
     {
       "time": "10:34",
