@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T00:50:15.500Z",
+  "updatedAt": "2026-08-21T01:33:52.857Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -46,20 +46,34 @@
       },
       {
         "time": "05:53",
-        "title": "製造DX協会、「日本式は人中心」 促進策議論、政府に提言",
+        "title": "商船三井、神戸国際コンテナターミナルを4バース体制に 阪神国際港湾と賃貸借契約",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwOTBRWm9QOUlaNWVxektGcGRDSVpaenVocF95a3VJUE14MXdBSkEtNWsxSHVTN1pnaktTQ1VTbXNRSUFqal9TRnZIYVNER0txVTJReWxvdV96R3c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PaFpJbi11cXhXTFpvOWVaWUpkMXpCQVAxSExLczFaLVlQeXNIZFhCSm9iRUZSbElXVUprNzJNYUx1UXBUMF9CNWpYTFBlRzUwX0dHZDdDTUl4Qmp5U3czTFZfODF3cEFjcl9IY24xNDAwUENPTm9EQV9XVQ?oc=5",
         "publishedAt": "2026-08-20T20:53:29.000Z"
       },
       {
-        "time": "23:00",
+        "time": "15:45",
         "title": "工場管理にすぐ使えるExcelテンプレート約50本を無料公開、新サービス「MENTENAストア」を8月20日より提供開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oV25LRklGQThnclllSzRRQ0pxdnpvSFNMYWNuVzVDZ0FFbU1SblZFazdiaEdVakdDV2E1b0JXdU1ic0NyZ3dteGJ2VEVTajc2TVpBSU9leUZ6eWk1LXRYSHRJOHlidTNod1ZhTnFMU3p2b2RXZi00enpsVQ?oc=5",
-        "publishedAt": "2026-08-20T14:00:31.000Z"
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zRUpyREIwSVpqTUNIS29QTGpUWV9rVzJRYkpaUWdRWXhNZ2U3M0NfaWs1TTBnN2VTQkZwY093cUI1T0xuUmViMkdXMG9IOWhRaGFnTkdyeVFYaDloaW5Wa2lzU2xvTS1KRmUyTU5ZaEtmdw?oc=5",
+        "publishedAt": "2026-08-20T06:45:25.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "10:14",
+        "title": "金与正氏 米韓同盟は「主従関係」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592500?source=rss",
+        "publishedAt": "2026-08-21T01:14:07.000Z"
+      },
+      {
+        "time": "19:53",
+        "title": "北朝鮮の対日批判 激化の背景分析",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592447?source=rss",
+        "publishedAt": "2026-08-20T10:53:17.000Z"
+      },
       {
         "time": "23:31",
         "title": "中国 沖縄の帰属を巡り「疑義」",
@@ -82,25 +96,11 @@
         "publishedAt": "2026-08-21T00:22:05.000Z"
       },
       {
-        "time": "19:53",
-        "title": "北朝鮮の対日批判 激化の背景分析",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592447?source=rss",
-        "publishedAt": "2026-08-20T10:53:17.000Z"
-      },
-      {
         "time": "14:53",
         "title": "赤根所長へ米制裁 ICC組織の実像",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592406?source=rss",
         "publishedAt": "2026-08-20T05:53:09.000Z"
-      },
-      {
-        "time": "11:48",
-        "title": "ロシアでガソリン不足「第2波」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592382?source=rss",
-        "publishedAt": "2026-08-20T02:48:06.000Z"
       }
     ],
     "economyHeadlines": [

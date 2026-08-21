@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T00:50:16.456Z",
+  "updatedAt": "2026-08-21T01:33:53.298Z",
   "items": [
     {
-      "time": "08:16",
-      "title": "暑さ続く 北陸・東北は大雨恐れ",
+      "time": "10:04",
+      "title": "09年の15人死傷放火殺人 死刑執行",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592488?source=rss",
-      "publishedAt": "2026-08-20T23:16:42.000Z",
-      "xQuery": "暑さ続く 北陸・東北は大雨恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6592499?source=rss",
+      "publishedAt": "2026-08-21T01:04:25.000Z",
+      "xQuery": "09年の15人死傷放火殺人 死刑執行"
     },
     {
-      "time": "09:03",
-      "title": "大規模11私大 理系学生増など検討",
+      "time": "09:22",
+      "title": "北 ミサイル発射3回連続報道せず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592492?source=rss",
-      "publishedAt": "2026-08-21T00:03:47.000Z",
-      "xQuery": "大規模11私大 理系学生増など検討"
+      "url": "https://news.yahoo.co.jp/pickup/6592495?source=rss",
+      "publishedAt": "2026-08-21T00:22:05.000Z",
+      "xQuery": "北 ミサイル発射3回連続報道せず"
+    },
+    {
+      "time": "10:14",
+      "title": "金与正氏 米韓同盟は「主従関係」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592500?source=rss",
+      "publishedAt": "2026-08-21T01:14:07.000Z",
+      "xQuery": "金与正氏 米韓同盟は「主従関係」"
     },
     {
       "time": "09:07",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592491?source=rss",
       "publishedAt": "2026-08-21T00:05:07.000Z",
       "xQuery": "4人死亡 業務上過失致死疑い視野"
-    },
-    {
-      "time": "07:28",
-      "title": "小2が味に違和感 配布の水にネジ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592481?source=rss",
-      "publishedAt": "2026-08-20T22:28:25.000Z",
-      "xQuery": "小2が味に違和感 配布の水にネジ"
     }
   ]
 };
