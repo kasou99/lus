@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T08:17:11.100Z",
+  "updatedAt": "2026-08-21T08:48:03.703Z",
   "items": [
-    {
-      "time": "16:14",
-      "title": "あす九州で39℃予想も 熱中症警戒",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592543?source=rss",
-      "publishedAt": "2026-08-21T07:14:53.000Z",
-      "xQuery": "あす九州で39℃予想も 熱中症警戒"
-    },
     {
       "time": "16:23",
       "title": "不祥事相次ぐ検察 閉ざされた会見",
@@ -18,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "不祥事相次ぐ検察 閉ざされた会見"
     },
     {
-      "time": "13:49",
-      "title": "千葉豪雨 片付け中の感染症に注意",
+      "time": "17:14",
+      "title": "横浜市主催の会議 市長参加見送り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592529?source=rss",
-      "publishedAt": "2026-08-21T04:49:47.000Z",
-      "xQuery": "千葉豪雨 片付け中の感染症に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6592554?source=rss",
+      "publishedAt": "2026-08-21T08:14:07.000Z",
+      "xQuery": "横浜市主催の会議 市長参加見送り"
     },
     {
       "time": "12:56",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592555?source=rss",
       "publishedAt": "2026-08-21T08:08:16.000Z",
       "xQuery": "病院から姿消した被告 遺体で発見"
+    },
+    {
+      "time": "17:26",
+      "title": "ゴルフ研修生19歳自殺 両親が提訴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592557?source=rss",
+      "publishedAt": "2026-08-21T08:26:23.000Z",
+      "xQuery": "ゴルフ研修生19歳自殺 両親が提訴"
     }
   ]
 };
