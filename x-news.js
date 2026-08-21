@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T04:47:19.182Z",
+  "updatedAt": "2026-08-21T05:13:52.611Z",
   "items": [
     {
-      "time": "12:13",
-      "title": "中立公「月内の3党合流」に暗雲",
+      "time": "13:29",
+      "title": "台風18号 26日ごろ沖縄接近の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592513?source=rss",
-      "publishedAt": "2026-08-21T03:13:41.000Z",
-      "xQuery": "中立公「月内の3党合流」に暗雲"
+      "url": "https://news.yahoo.co.jp/pickup/6592527?source=rss",
+      "publishedAt": "2026-08-21T04:29:44.000Z",
+      "xQuery": "台風18号 26日ごろ沖縄接近の恐れ"
+    },
+    {
+      "time": "13:42",
+      "title": "内閣改造 総裁選争った4人処遇は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592528?source=rss",
+      "publishedAt": "2026-08-21T04:42:29.000Z",
+      "xQuery": "内閣改造 総裁選争った4人処遇は"
     },
     {
       "time": "13:02",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "議長巡る福岡県会の採決中止 苦情"
     },
     {
-      "time": "12:06",
-      "title": "秋サケ激減の異常事態 転換した漁",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592517?source=rss",
-      "publishedAt": "2026-08-21T03:06:54.000Z",
-      "xQuery": "秋サケ激減の異常事態 転換した漁"
-    },
-    {
-      "time": "12:26",
-      "title": "農場で外国籍従業員に暴力か 調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592519?source=rss",
-      "publishedAt": "2026-08-21T03:26:18.000Z",
-      "xQuery": "農場で外国籍従業員に暴力か 調査"
-    },
-    {
       "time": "13:20",
       "title": "登校中児童11人 ハチに刺され搬送",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592526?source=rss",
       "publishedAt": "2026-08-21T04:20:51.000Z",
       "xQuery": "登校中児童11人 ハチに刺され搬送"
+    },
+    {
+      "time": "12:12",
+      "title": "水原受刑者事件 記者の尽きぬ疑問",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592512?source=rss",
+      "publishedAt": "2026-08-21T03:12:00.000Z",
+      "xQuery": "水原受刑者事件 記者の尽きぬ疑問"
     }
   ]
 };

@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-21T04:47:18.647Z",
+  "updatedAt": "2026-08-21T05:13:52.104Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:45",
+        "title": "ブラザー工業、64本工具搭載の工作機械を開発…変種変量生産や多品種小ロット生産に対応",
+        "source": "レスポンス（Response.jp）",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02Y1VSVlNzeTJyNllLcmFRbmN0UkFTZG1abWpSbmRzQ2J6OWg3VWFFNGNubzdDOVhxdExKUk12TzJRalRsSHlsVHRvTmJnTkFNYWpmMklYUzhyN1pxdktB?oc=5",
+        "publishedAt": "2026-08-21T04:45:03.000Z"
+      },
       {
         "time": "05:00",
         "title": "西部電機、欧州拠点27年4月開設 中国依存低減しつつ工作機械拡販",
@@ -10,11 +17,11 @@
         "publishedAt": "2026-08-20T20:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "第56回機械工業デザイン賞IDEA（14）審査委員会特別賞 ツガミ",
+        "time": "12:44",
+        "title": "ブラザー、欧で加工機拡大 独営業拠点を移転・拡張",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSZUVjRUNVWTNEanRKTlZNRmhabll4YkdtMkhWQnVjVTJNNHk3eFlGWmxKN3NDVXB4M0QtZUhXUWxCYlU3NWNXd0VnOVdXcVhTN3EzLUEtMjE?oc=5",
-        "publishedAt": "2026-08-20T20:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lMEdzV1puTkpmZS1OY0NXSjVoSjFSRUx1aWlQV2JRRkM0Zm1UNEhrbzRwY2swODQ1YXk4bzJVS3JlTkp2QWpLR25UME41WkhBakp3RXJiN1A?oc=5",
+        "publishedAt": "2026-08-21T03:44:41.000Z"
       },
       {
         "time": "00:40",
@@ -31,11 +38,11 @@
         "publishedAt": "2026-08-20T06:40:00.000Z"
       },
       {
-        "time": "13:59",
-        "title": "神戸製鋼とセンシンロボ、製造現場DXで資本提携",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93ZVY5M29MNkpJdWthOVZ4RDRXNllGSGcxR1pWZGw4NzYzckpnOUw5MlBhWEpUZFh3Yl9jVTFxNFdjSGRnNGtKZA?oc=5",
-        "publishedAt": "2026-08-20T04:59:32.000Z"
+        "time": "05:00",
+        "title": "第56回機械工業デザイン賞IDEA（14）審査委員会特別賞 ツガミ",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSZUVjRUNVWTNEanRKTlZNRmhabll4YkdtMkhWQnVjVTJNNHk3eFlGWmxKN3NDVXB4M0QtZUhXUWxCYlU3NWNXd0VnOVdXcVhTN3EzLUEtMjE?oc=5",
+        "publishedAt": "2026-08-20T20:00:00.000Z"
       },
       {
         "time": "05:53",
@@ -50,13 +57,6 @@
         "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkTXNNQWxRT0VmcmxvdDdsclBZZGFkaGtjUXlKT1JPVDJxOExpWVhZSEJkRkNjM0d2M3g3dWtCVEc2TEIxdkNCZE1JTkRmVW90Q1FSdS14WkZGZw?oc=5",
         "publishedAt": "2026-08-20T09:00:00.000Z"
-      },
-      {
-        "time": "18:52",
-        "title": "千葉の豪雨・冠水災害うけ 沖縄総合事務局がうみそらトンネル排水設備の点検実施",
-        "source": "TBS NEWS DIG",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZM0NRVERNYkV5dy1yMzhENzNtYlVDRDJvSUJHOU9fYlJJZjZKaXRUWGQ2dnhKSC1USXVocndxdXN6aEtXNC1hdnIzOGlWeE1ONFJzSE5GWFFKSlhHSmdmTkNQYw?oc=5",
-        "publishedAt": "2026-08-20T09:52:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "13:49",
+        "title": "千葉豪雨 片付け中の感染症に注意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592529?source=rss",
+        "publishedAt": "2026-08-21T04:49:47.000Z"
+      },
+      {
         "time": "13:02",
         "title": "議長巡る福岡県会の採決中止 苦情",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592465?source=rss",
         "publishedAt": "2026-08-20T13:32:34.000Z"
-      },
-      {
-        "time": "11:29",
-        "title": "港で大型船が火災 作業員1人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592506?source=rss",
-        "publishedAt": "2026-08-21T02:29:54.000Z"
       }
     ],
     "subsidyHeadlines": [
