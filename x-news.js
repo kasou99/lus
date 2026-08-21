@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T22:07:39.581Z",
+  "updatedAt": "2026-08-21T22:41:23.777Z",
   "items": [
     {
       "time": "23:41",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "22日 西・東日本は急な雷雨に注意"
     },
     {
-      "time": "21:54",
-      "title": "埼玉で猛烈な雨 車水没訴える通報",
+      "time": "07:24",
+      "title": "千葉豪雨 車両約2500台の撤去完了",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592589?source=rss",
-      "publishedAt": "2026-08-21T12:54:28.000Z",
-      "xQuery": "埼玉で猛烈な雨 車水没訴える通報"
+      "url": "https://news.yahoo.co.jp/pickup/6592599?source=rss",
+      "publishedAt": "2026-08-21T22:24:01.000Z",
+      "xQuery": "千葉豪雨 車両約2500台の撤去完了"
     },
     {
       "time": "21:33",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T22:07:38.471Z",
+  "updatedAt": "2026-08-21T22:41:23.116Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-08-21T05:00:00.000Z"
       },
       {
-        "time": "13:46",
-        "title": "第56回機械工業デザイン賞IDEA（7）日本工作機械工業会賞 ブラザー工業",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QMmMxUG13UGVlVTlmLUxmRnFYOW9vdTNENFlPSWJlV3lmTG5pTzBEQ3BSMUw2alFlYThSQkMxbXRJMGxjNXFaV1ZFRGcwQzZwVzUzZmtjVDE3WXU4RVQ2ZnRQMzF3WjY1eDJSSVl1NA?oc=5",
-        "publishedAt": "2026-08-21T04:46:21.000Z"
-      },
-      {
         "time": "16:59",
         "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
         "source": "山陽新聞",
@@ -43,6 +36,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pMlBFbXlhNnRFWWcxWk5EakNjNEVEVW51T1RUUl9kbGlUV0htZWg1YmlVbkNybk1oRzRkbTdHVzZMQmdhbEo4X2pMdVpEbGplNkVSdlRFSWw?oc=5",
         "publishedAt": "2026-08-21T09:55:11.000Z"
+      },
+      {
+        "time": "13:46",
+        "title": "第56回機械工業デザイン賞IDEA（7）日本工作機械工業会賞 ブラザー工業",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QMmMxUG13UGVlVTlmLUxmRnFYOW9vdTNENFlPSWJlV3lmTG5pTzBEQ3BSMUw2alFlYThSQkMxbXRJMGxjNXFaV1ZFRGcwQzZwVzUzZmtjVDE3WXU4RVQ2ZnRQMzF3WjY1eDJSSVl1NA?oc=5",
+        "publishedAt": "2026-08-21T04:46:21.000Z"
       },
       {
         "time": "19:25",
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592587?source=rss",
         "publishedAt": "2026-08-21T12:33:12.000Z"
+      },
+      {
+        "time": "07:23",
+        "title": "赤根所長 ICC加盟国に支援求める",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592600?source=rss",
+        "publishedAt": "2026-08-21T22:23:53.000Z"
       },
       {
         "time": "12:56",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592580?source=rss",
         "publishedAt": "2026-08-21T11:20:49.000Z"
-      },
-      {
-        "time": "23:20",
-        "title": "露の人気アニメ ウでの配信を禁止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592593?source=rss",
-        "publishedAt": "2026-08-21T14:20:59.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-08-21T12:54:28.000Z"
       },
       {
+        "time": "07:24",
+        "title": "千葉豪雨 車両約2500台の撤去完了",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592599?source=rss",
+        "publishedAt": "2026-08-21T22:24:01.000Z"
+      },
+      {
         "time": "18:48",
         "title": "千葉豪雨「助けて」緊迫の119番",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592579?source=rss",
         "publishedAt": "2026-08-21T10:50:18.000Z"
-      },
-      {
-        "time": "17:08",
-        "title": "病院から姿消した被告 遺体で発見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592555?source=rss",
-        "publishedAt": "2026-08-21T08:08:16.000Z"
       }
     ],
     "subsidyHeadlines": [
