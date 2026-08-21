@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T13:48:22.730Z",
+  "updatedAt": "2026-08-21T14:15:53.063Z",
   "items": [
     {
       "time": "21:48",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉豪雨「助けて」緊迫の119番"
     },
     {
+      "time": "22:26",
+      "title": "5人殺害事件遺族 死刑執行に心境",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592590?source=rss",
+      "publishedAt": "2026-08-21T13:26:54.000Z",
+      "xQuery": "5人殺害事件遺族 死刑執行に心境"
+    },
+    {
       "time": "21:54",
       "title": "埼玉で猛烈な雨 車水没訴える通報",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592587?source=rss",
       "publishedAt": "2026-08-21T12:33:12.000Z",
       "xQuery": "赤根所長へ連帯表明の国が相次ぐ"
-    },
-    {
-      "time": "19:12",
-      "title": "韓国で「親日派スキャナー」拡大",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592574?source=rss",
-      "publishedAt": "2026-08-21T10:12:19.000Z",
-      "xQuery": "韓国で「親日派スキャナー」拡大"
     }
   ]
 };
