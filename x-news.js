@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T01:33:53.298Z",
+  "updatedAt": "2026-08-21T02:33:23.599Z",
   "items": [
+    {
+      "time": "10:44",
+      "title": "金融庁が企画室新設へ 検査司令塔",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592503?source=rss",
+      "publishedAt": "2026-08-21T01:44:33.000Z",
+      "xQuery": "金融庁が企画室新設へ 検査司令塔"
+    },
+    {
+      "time": "11:23",
+      "title": "千葉豪雨 浸水想定域で9人犠牲か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592505?source=rss",
+      "publishedAt": "2026-08-21T02:23:15.000Z",
+      "xQuery": "千葉豪雨 浸水想定域で9人犠牲か"
+    },
     {
       "time": "10:04",
       "title": "09年の15人死傷放火殺人 死刑執行",
@@ -8,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592499?source=rss",
       "publishedAt": "2026-08-21T01:04:25.000Z",
       "xQuery": "09年の15人死傷放火殺人 死刑執行"
-    },
-    {
-      "time": "09:22",
-      "title": "北 ミサイル発射3回連続報道せず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592495?source=rss",
-      "publishedAt": "2026-08-21T00:22:05.000Z",
-      "xQuery": "北 ミサイル発射3回連続報道せず"
     },
     {
       "time": "10:14",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "金与正氏 米韓同盟は「主従関係」"
     },
     {
-      "time": "09:07",
-      "title": "SKハイニックス 宮城に工場案",
+      "time": "11:29",
+      "title": "港で大型船が火災 作業員1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592493?source=rss",
-      "publishedAt": "2026-08-21T00:07:12.000Z",
-      "xQuery": "SKハイニックス 宮城に工場案"
-    },
-    {
-      "time": "09:05",
-      "title": "4人死亡 業務上過失致死疑い視野",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592491?source=rss",
-      "publishedAt": "2026-08-21T00:05:07.000Z",
-      "xQuery": "4人死亡 業務上過失致死疑い視野"
+      "url": "https://news.yahoo.co.jp/pickup/6592506?source=rss",
+      "publishedAt": "2026-08-21T02:29:54.000Z",
+      "xQuery": "港で大型船が火災 作業員1人死亡"
     }
   ]
 };

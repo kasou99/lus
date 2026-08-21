@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T01:33:52.857Z",
+  "updatedAt": "2026-08-21T02:33:22.783Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-08-20T06:40:00.000Z"
       },
       {
-        "time": "10:45",
-        "title": "【設備保全DX】第5回 スマート工場 EXPO [秋] に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVSWNYZUFLWEQwdmtNcHQyMHlYWW5GOVJ4bFdtZVJSR3hIVXh0ZXpuUU1kaHpaN01ldGxwLVVDc1YtUnFrWGkyNmhUT01LSGZ5UGVSa3BlMEtBZTFEdE9hMGh2U1NhalNkazBMUUFramZIUQ?oc=5",
-        "publishedAt": "2026-08-20T01:45:24.000Z"
-      },
-      {
         "time": "13:59",
         "title": "神戸製鋼とセンシンロボ、製造現場DXで資本提携",
         "source": "LOGISTICS TODAY",
@@ -45,11 +38,11 @@
         "publishedAt": "2026-08-20T04:59:32.000Z"
       },
       {
-        "time": "05:53",
-        "title": "商船三井、神戸国際コンテナターミナルを4バース体制に 阪神国際港湾と賃貸借契約",
+        "time": "05:51",
+        "title": "製造DX協会、「日本式は人中心」 促進策議論、政府に提言",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PaFpJbi11cXhXTFpvOWVaWUpkMXpCQVAxSExLczFaLVlQeXNIZFhCSm9iRUZSbElXVUprNzJNYUx1UXBUMF9CNWpYTFBlRzUwX0dHZDdDTUl4Qmp5U3czTFZfODF3cEFjcl9IY24xNDAwUENPTm9EQV9XVQ?oc=5",
-        "publishedAt": "2026-08-20T20:53:29.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwOTBRWm9QOUlaNWVxektGcGRDSVpaenVocF95a3VJUE14MXdBSkEtNWsxSHVTN1pnaktTQ1VTbXNRSUFqal9TRnZIYVNER0txVTJReWxvdV96R3c?oc=5",
+        "publishedAt": "2026-08-20T20:51:45.000Z"
       },
       {
         "time": "15:45",
@@ -57,6 +50,13 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zRUpyREIwSVpqTUNIS29QTGpUWV9rVzJRYkpaUWdRWXhNZ2U3M0NfaWs1TTBnN2VTQkZwY093cUI1T0xuUmViMkdXMG9IOWhRaGFnTkdyeVFYaDloaW5Wa2lzU2xvTS1KRmUyTU5ZaEtmdw?oc=5",
         "publishedAt": "2026-08-20T06:45:25.000Z"
+      },
+      {
+        "time": "19:00",
+        "title": "ポケット赤外線カメラの世界市場規模：最新トレンド、成長要因、今後動向2026-2032｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sckRiWW82eGxsUXNUbTBXNW5pU0cyQlBKMmJEc0JfTUFPQkF6VkRJaFpvaGJQdzBxZVZjdFQ4Y3FNaHdOUlJjdlpBa0E5eUoyeVBxSXp4VQ?oc=5",
+        "publishedAt": "2026-08-20T10:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,20 @@
     ],
     "economyHeadlines": [
       {
+        "time": "10:44",
+        "title": "金融庁が企画室新設へ 検査司令塔",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592503?source=rss",
+        "publishedAt": "2026-08-21T01:44:33.000Z"
+      },
+      {
+        "time": "11:30",
+        "title": "秋サケ激減 獲る漁業からの大転換",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592504?source=rss",
+        "publishedAt": "2026-08-21T02:30:30.000Z"
+      },
+      {
         "time": "09:07",
         "title": "SKハイニックス 宮城に工場案",
         "source": "Yahoo!ニュース",
@@ -119,13 +133,6 @@
         "publishedAt": "2026-08-20T14:47:54.000Z"
       },
       {
-        "time": "23:05",
-        "title": "郵便事業 縮小も視野に検討開始",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592469?source=rss",
-        "publishedAt": "2026-08-20T14:05:35.000Z"
-      },
-      {
         "time": "20:57",
         "title": "時間外労働 一律抑制見直しに反発",
         "source": "Yahoo!ニュース",
@@ -138,16 +145,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592424?source=rss",
         "publishedAt": "2026-08-20T08:40:34.000Z"
-      },
-      {
-        "time": "08:23",
-        "title": "「冷しカプヌ」1週間で供給分完売",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592487?source=rss",
-        "publishedAt": "2026-08-20T23:23:41.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "11:23",
+        "title": "千葉豪雨 浸水想定域で9人犠牲か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592505?source=rss",
+        "publishedAt": "2026-08-21T02:23:15.000Z"
+      },
+      {
+        "time": "10:34",
+        "title": "4人死亡 時速50kmで駅構内進入か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592502?source=rss",
+        "publishedAt": "2026-08-21T01:34:27.000Z"
+      },
       {
         "time": "09:05",
         "title": "4人死亡 業務上過失致死疑い視野",
@@ -163,11 +177,11 @@
         "publishedAt": "2026-08-20T13:32:34.000Z"
       },
       {
-        "time": "20:24",
-        "title": "列車に接触し4人死亡 身元判明",
+        "time": "11:29",
+        "title": "港で大型船が火災 作業員1人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592450?source=rss",
-        "publishedAt": "2026-08-20T11:24:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592506?source=rss",
+        "publishedAt": "2026-08-21T02:29:54.000Z"
       },
       {
         "time": "17:29",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592422?source=rss",
         "publishedAt": "2026-08-20T08:29:40.000Z"
-      },
-      {
-        "time": "06:05",
-        "title": "飛び込みスポット 20歳が意識不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592473?source=rss",
-        "publishedAt": "2026-08-20T21:05:27.000Z"
-      },
-      {
-        "time": "07:28",
-        "title": "小2が味に違和感 配布の水にネジ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592481?source=rss",
-        "publishedAt": "2026-08-20T22:28:25.000Z"
       }
     ],
     "subsidyHeadlines": [
