@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T10:11:19.994Z",
+  "updatedAt": "2026-08-21T10:43:33.067Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -34,7 +34,7 @@
         "time": "17:03",
         "title": "リアルタイムモーションコントローラ市場の未来を読む：2026年以降の業界変化とビジネスチャンス",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSZUJWTDd6b29ldERJclY4YXBUV0NxQTFLaU9NbkZCNkV1Q3FKcEg5T0toT1FTM1BsRXhybGJ3R1pDeWM2ODRFRGxBVEI4STB3UmlXMUVPb0FkVV8zQXFHMTNDZFJwNDlNaXl3cGhXNEFmd3ljMUdkSFgxaw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vZUFsZkpqQV9Bd2t2eEZqRFloYngzWlEwYThoTUFJbFF5ZUlXRDRXN2Q2QXAzSDhaMi1DV2liQmdLcVRoSjNQbjFfR29Kd3pXWGo4LTFKa05wbGxDTzFwaUpTSDhUQVYtUzRMWjNtMjRhWkl4SlgzTnFB?oc=5",
         "publishedAt": "2026-08-21T08:03:22.000Z"
       },
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-21T05:07:21.000Z"
       },
       {
-        "time": "05:00",
-        "title": "第56回機械工業デザイン賞IDEA（14）審査委員会特別賞 ツガミ",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSZUVjRUNVWTNEanRKTlZNRmhabll4YkdtMkhWQnVjVTJNNHk3eFlGWmxKN3NDVXB4M0QtZUhXUWxCYlU3NWNXd0VnOVdXcVhTN3EzLUEtMjE?oc=5",
-        "publishedAt": "2026-08-20T20:00:00.000Z"
-      },
-      {
         "time": "10:55",
         "title": "製造業DXを加速する！シリーズ第4弾 意思決定改革篇 品質改善と安定操業を実現するデータ活用事例特集 - trans-cosmos.co.jp",
         "source": "trans-cosmos.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UMWR6TDlNN1NxZXY0S2NQQzZSTi1vSTBTNF9PSjNocE1feXBHLVZIQjl1M2lwczZYc1RmMEFaUWVzWno1RnI5Z0VncFdIVDFJVkVLUjBmbEhHQTFkck9v?oc=5",
         "publishedAt": "2026-08-21T01:55:26.000Z"
+      },
+      {
+        "time": "15:29",
+        "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45dXQxdUVNTk1nNFhCZXFRN3dVSzJvdWozaExlOU9BLWtvSjJ4MkpmWFZTSlBsRG12WmF2X2JJZU51OFVXVzhuMHg5U3RmYzRQaXc?oc=5",
+        "publishedAt": "2026-08-21T06:29:43.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-08-20T14:31:38.000Z"
       },
       {
-        "time": "08:02",
-        "title": "北方領土周辺で演習 露が映像公開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592485?source=rss",
-        "publishedAt": "2026-08-20T23:02:39.000Z"
-      },
-      {
         "time": "09:22",
         "title": "北 ミサイル発射3回連続報道せず",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592495?source=rss",
         "publishedAt": "2026-08-21T00:22:05.000Z"
+      },
+      {
+        "time": "14:34",
+        "title": "ヘンリー王子帰国報道 5つの疑問",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592534?source=rss",
+        "publishedAt": "2026-08-21T05:34:46.000Z"
       }
     ],
     "economyHeadlines": [

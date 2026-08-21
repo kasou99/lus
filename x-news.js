@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T10:11:20.787Z",
+  "updatedAt": "2026-08-21T10:43:33.692Z",
   "items": [
     {
       "time": "18:58",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡 列車見張り員ら任意聴取"
     },
     {
-      "time": "16:56",
-      "title": "天気予報2週先まで発信へ 気象庁",
+      "time": "17:28",
+      "title": "育児サービス利用など税優遇 方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592546?source=rss",
-      "publishedAt": "2026-08-21T07:56:12.000Z",
-      "xQuery": "天気予報2週先まで発信へ 気象庁"
+      "url": "https://news.yahoo.co.jp/pickup/6592556?source=rss",
+      "publishedAt": "2026-08-21T08:28:09.000Z",
+      "xQuery": "育児サービス利用など税優遇 方針"
     },
     {
       "time": "17:59",
