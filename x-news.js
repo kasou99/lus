@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T03:49:02.898Z",
+  "updatedAt": "2026-08-21T04:17:44.653Z",
   "items": [
     {
-      "time": "10:44",
-      "title": "金融庁が企画室新設へ 検査司令塔",
+      "time": "12:13",
+      "title": "中立公「月内の3党合流」に暗雲",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592503?source=rss",
-      "publishedAt": "2026-08-21T01:44:33.000Z",
-      "xQuery": "金融庁が企画室新設へ 検査司令塔"
+      "url": "https://news.yahoo.co.jp/pickup/6592513?source=rss",
+      "publishedAt": "2026-08-21T03:13:41.000Z",
+      "xQuery": "中立公「月内の3党合流」に暗雲"
     },
     {
       "time": "12:06",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592517?source=rss",
       "publishedAt": "2026-08-21T03:06:54.000Z",
       "xQuery": "秋サケ激減の異常事態 転換した漁"
-    },
-    {
-      "time": "10:04",
-      "title": "09年の15人死傷放火殺人 死刑執行",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592499?source=rss",
-      "publishedAt": "2026-08-21T01:04:25.000Z",
-      "xQuery": "09年の15人死傷放火殺人 死刑執行"
     },
     {
       "time": "12:26",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592502?source=rss",
       "publishedAt": "2026-08-21T01:34:27.000Z",
       "xQuery": "4人死亡 時速50kmで駅構内進入か"
+    },
+    {
+      "time": "12:00",
+      "title": "botで大量クリック 広告費を詐取",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592510?source=rss",
+      "publishedAt": "2026-08-21T03:00:00.000Z",
+      "xQuery": "botで大量クリック 広告費を詐取"
     }
   ]
 };

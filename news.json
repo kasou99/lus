@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T03:49:01.797Z",
+  "updatedAt": "2026-08-21T04:17:43.656Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,14 +52,21 @@
         "publishedAt": "2026-08-20T09:00:00.000Z"
       },
       {
-        "time": "20:15",
-        "title": "承認手続き経ずに退職金を自身の口座に振り込んだ疑い 田原市職員を逮捕、民間会社退職時に",
-        "source": "中日新聞Web",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kcjRSdFdrY0tuMUpnYUFJeVFPZjZTSFRjSkVIanF5VHREeW1MVTZTcVd1S3pPZXFXcTVyak9WaXVtSHNWUEM2bVBidENEd1lXRDJyUA?oc=5",
-        "publishedAt": "2026-08-20T11:15:38.000Z"
+        "time": "18:52",
+        "title": "千葉の豪雨・冠水災害うけ 沖縄総合事務局がうみそらトンネル排水設備の点検実施",
+        "source": "TBS NEWS DIG",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZM0NRVERNYkV5dy1yMzhENzNtYlVDRDJvSUJHOU9fYlJJZjZKaXRUWGQ2dnhKSC1USXVocndxdXN6aEtXNC1hdnIzOGlWeE1ONFJzSE5GWFFKSlhHSmdmTkNQYw?oc=5",
+        "publishedAt": "2026-08-20T09:52:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "12:56",
+        "title": "露戦略会議に変化「戦後」意識?",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592522?source=rss",
+        "publishedAt": "2026-08-21T03:56:24.000Z"
+      },
       {
         "time": "10:14",
         "title": "金与正氏 米韓同盟は「主従関係」",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592495?source=rss",
         "publishedAt": "2026-08-21T00:22:05.000Z"
-      },
-      {
-        "time": "14:53",
-        "title": "赤根所長へ米制裁 ICC組織の実像",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592406?source=rss",
-        "publishedAt": "2026-08-20T05:53:09.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "13:02",
+        "title": "議長巡る福岡県会の採決中止 苦情",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592524?source=rss",
+        "publishedAt": "2026-08-21T04:02:29.000Z"
+      },
+      {
         "time": "12:26",
         "title": "農場で外国籍従業員に暴力か 調査",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592465?source=rss",
         "publishedAt": "2026-08-20T13:32:34.000Z"
-      },
-      {
-        "time": "11:29",
-        "title": "港で大型船が火災 作業員1人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592506?source=rss",
-        "publishedAt": "2026-08-21T02:29:54.000Z"
       }
     ],
     "subsidyHeadlines": [
