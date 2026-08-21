@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T14:46:05.386Z",
+  "updatedAt": "2026-08-21T15:12:46.426Z",
   "items": [
     {
       "time": "23:41",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "5人殺害事件遺族 死刑執行に心境"
     },
     {
+      "time": "21:33",
+      "title": "赤根所長へ連帯表明の国が相次ぐ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592587?source=rss",
+      "publishedAt": "2026-08-21T12:33:12.000Z",
+      "xQuery": "赤根所長へ連帯表明の国が相次ぐ"
+    },
+    {
       "time": "21:54",
       "title": "埼玉で猛烈な雨 車水没訴える通報",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592595?source=rss",
       "publishedAt": "2026-08-21T14:24:47.000Z",
       "xQuery": "劇物を摂取させ殺人未遂疑い 逮捕"
-    },
-    {
-      "time": "21:33",
-      "title": "赤根所長へ連帯表明の国が相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592587?source=rss",
-      "publishedAt": "2026-08-21T12:33:12.000Z",
-      "xQuery": "赤根所長へ連帯表明の国が相次ぐ"
     }
   ]
 };
