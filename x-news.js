@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T14:15:53.063Z",
+  "updatedAt": "2026-08-21T14:46:05.386Z",
   "items": [
     {
-      "time": "21:48",
-      "title": "概算要求総額 130兆円超の見通し",
+      "time": "23:41",
+      "title": "22日 西・東日本は急な雷雨に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592588?source=rss",
-      "publishedAt": "2026-08-21T12:48:52.000Z",
-      "xQuery": "概算要求総額 130兆円超の見通し"
-    },
-    {
-      "time": "18:48",
-      "title": "千葉豪雨「助けて」緊迫の119番",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592571?source=rss",
-      "publishedAt": "2026-08-21T09:48:01.000Z",
-      "xQuery": "千葉豪雨「助けて」緊迫の119番"
+      "url": "https://news.yahoo.co.jp/pickup/6592596?source=rss",
+      "publishedAt": "2026-08-21T14:41:55.000Z",
+      "xQuery": "22日 西・東日本は急な雷雨に注意"
     },
     {
       "time": "22:26",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592589?source=rss",
       "publishedAt": "2026-08-21T12:54:28.000Z",
       "xQuery": "埼玉で猛烈な雨 車水没訴える通報"
+    },
+    {
+      "time": "23:24",
+      "title": "劇物を摂取させ殺人未遂疑い 逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592595?source=rss",
+      "publishedAt": "2026-08-21T14:24:47.000Z",
+      "xQuery": "劇物を摂取させ殺人未遂疑い 逮捕"
     },
     {
       "time": "21:33",
