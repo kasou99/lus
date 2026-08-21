@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T22:41:23.777Z",
+  "updatedAt": "2026-08-21T23:08:36.792Z",
   "items": [
     {
       "time": "23:41",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉豪雨 車両約2500台の撤去完了"
     },
     {
-      "time": "21:33",
-      "title": "赤根所長へ連帯表明の国が相次ぐ",
+      "time": "07:23",
+      "title": "赤根所長 ICC加盟国に支援求める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592587?source=rss",
-      "publishedAt": "2026-08-21T12:33:12.000Z",
-      "xQuery": "赤根所長へ連帯表明の国が相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6592600?source=rss",
+      "publishedAt": "2026-08-21T22:23:53.000Z",
+      "xQuery": "赤根所長 ICC加盟国に支援求める"
+    },
+    {
+      "time": "07:46",
+      "title": "4人死亡「見張員はベテラン」証言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592602?source=rss",
+      "publishedAt": "2026-08-21T22:46:36.000Z",
+      "xQuery": "4人死亡「見張員はベテラン」証言"
     },
     {
       "time": "22:26",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592590?source=rss",
       "publishedAt": "2026-08-21T13:26:54.000Z",
       "xQuery": "5人殺害事件遺族 死刑執行に心境"
-    },
-    {
-      "time": "23:24",
-      "title": "劇物を摂取させ殺人未遂疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592595?source=rss",
-      "publishedAt": "2026-08-21T14:24:47.000Z",
-      "xQuery": "劇物を摂取させ殺人未遂疑い 逮捕"
     }
   ]
 };
