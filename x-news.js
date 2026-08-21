@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T07:21:02.372Z",
+  "updatedAt": "2026-08-21T07:47:53.632Z",
   "items": [
+    {
+      "time": "16:14",
+      "title": "あす九州で39℃予想も 熱中症警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592543?source=rss",
+      "publishedAt": "2026-08-21T07:14:53.000Z",
+      "xQuery": "あす九州で39℃予想も 熱中症警戒"
+    },
     {
       "time": "13:49",
       "title": "千葉豪雨 片付け中の感染症に注意",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592522?source=rss",
       "publishedAt": "2026-08-21T03:56:24.000Z",
       "xQuery": "露戦略会議に変化「戦後」意識?"
-    },
-    {
-      "time": "13:42",
-      "title": "内閣改造 総裁選争った4人処遇は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592528?source=rss",
-      "publishedAt": "2026-08-21T04:42:29.000Z",
-      "xQuery": "内閣改造 総裁選争った4人処遇は"
     },
     {
       "time": "14:19",
