@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T10:43:33.692Z",
+  "updatedAt": "2026-08-21T11:09:43.600Z",
   "items": [
     {
       "time": "18:58",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "馬渕隆一さん死去 マブチモーター"
     },
     {
-      "time": "17:08",
-      "title": "病院から姿消した被告 遺体で発見",
+      "time": "19:50",
+      "title": "高校のバスなど6台事故 生徒搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592555?source=rss",
-      "publishedAt": "2026-08-21T08:08:16.000Z",
-      "xQuery": "病院から姿消した被告 遺体で発見"
+      "url": "https://news.yahoo.co.jp/pickup/6592579?source=rss",
+      "publishedAt": "2026-08-21T10:50:18.000Z",
+      "xQuery": "高校のバスなど6台事故 生徒搬送"
     }
   ]
 };

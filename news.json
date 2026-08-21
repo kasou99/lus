@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T10:43:33.067Z",
+  "updatedAt": "2026-08-21T11:09:42.685Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-08-21T03:52:50.000Z"
       },
       {
-        "time": "14:00",
-        "title": "ツールタレットの世界市場（2026年～2032年）、市場規模（VDIターレット、BMTターレット）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ITU1qVTEydENZYmhrck1hWUxGSEdjSDNtUjJRRk5kTl94NzhjcjVEYTlNTjdXaS1RVC1oNUFsUjRveGlZWEVqcmhGMGo1Q2c?oc=5",
-        "publishedAt": "2026-08-21T05:00:00.000Z"
-      },
-      {
         "time": "05:00",
         "title": "西部電機、欧州拠点27年4月開設 中国依存低減しつつ工作機械拡販",
         "source": "日本経済新聞",
@@ -31,10 +24,24 @@
         "publishedAt": "2026-08-20T20:00:00.000Z"
       },
       {
+        "time": "14:00",
+        "title": "ツールタレットの世界市場（2026年～2032年）、市場規模（VDIターレット、BMTターレット）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ITU1qVTEydENZYmhrck1hWUxGSEdjSDNtUjJRRk5kTl94NzhjcjVEYTlNTjdXaS1RVC1oNUFsUjRveGlZWEVqcmhGMGo1Q2c?oc=5",
+        "publishedAt": "2026-08-21T05:00:00.000Z"
+      },
+      {
+        "time": "19:25",
+        "title": "トップニュース",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9obVBGOVlKRE9qUkJqN0ktMzg4WXo5blh6LTd1TW53b3VPVmt2NmRLbXBVNXMwVGdHTFFGbmMya2xTOWRaSEtfTEE3cnlZaVRrYzQzbA?oc=5",
+        "publishedAt": "2026-08-21T10:25:20.000Z"
+      },
+      {
         "time": "17:03",
         "title": "リアルタイムモーションコントローラ市場の未来を読む：2026年以降の業界変化とビジネスチャンス",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vZUFsZkpqQV9Bd2t2eEZqRFloYngzWlEwYThoTUFJbFF5ZUlXRDRXN2Q2QXAzSDhaMi1DV2liQmdLcVRoSjNQbjFfR29Kd3pXWGo4LTFKa05wbGxDTzFwaUpTSDhUQVYtUzRMWjNtMjRhWkl4SlgzTnFB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSZUJWTDd6b29ldERJclY4YXBUV0NxQTFLaU9NbkZCNkV1Q3FKcEg5T0toT1FTM1BsRXhybGJ3R1pDeWM2ODRFRGxBVEI4STB3UmlXMUVPb0FkVV8zQXFHMTNDZFJwNDlNaXl3cGhXNEFmd3ljMUdkSFgxaw?oc=5",
         "publishedAt": "2026-08-21T08:03:22.000Z"
       },
       {
@@ -45,18 +52,11 @@
         "publishedAt": "2026-08-21T05:07:21.000Z"
       },
       {
-        "time": "10:55",
-        "title": "製造業DXを加速する！シリーズ第4弾 意思決定改革篇 品質改善と安定操業を実現するデータ活用事例特集 - trans-cosmos.co.jp",
-        "source": "trans-cosmos.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UMWR6TDlNN1NxZXY0S2NQQzZSTi1vSTBTNF9PSjNocE1feXBHLVZIQjl1M2lwczZYc1RmMEFaUWVzWno1RnI5Z0VncFdIVDFJVkVLUjBmbEhHQTFkck9v?oc=5",
-        "publishedAt": "2026-08-21T01:55:26.000Z"
-      },
-      {
-        "time": "15:29",
-        "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45dXQxdUVNTk1nNFhCZXFRN3dVSzJvdWozaExlOU9BLWtvSjJ4MkpmWFZTSlBsRG12WmF2X2JJZU51OFVXVzhuMHg5U3RmYzRQaXc?oc=5",
-        "publishedAt": "2026-08-21T06:29:43.000Z"
+        "time": "05:00",
+        "title": "第56回機械工業デザイン賞IDEA（14）審査委員会特別賞 ツガミ",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSZUVjRUNVWTNEanRKTlZNRmhabll4YkdtMkhWQnVjVTJNNHk3eFlGWmxKN3NDVXB4M0QtZUhXUWxCYlU3NWNXd0VnOVdXcVhTN3EzLUEtMjE?oc=5",
+        "publishedAt": "2026-08-20T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-08-21T09:58:13.000Z"
       },
       {
-        "time": "10:34",
-        "title": "4人死亡 時速50kmで駅構内進入か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592502?source=rss",
-        "publishedAt": "2026-08-21T01:34:27.000Z"
-      },
-      {
         "time": "17:08",
         "title": "病院から姿消した被告 遺体で発見",
         "source": "Yahoo!ニュース",
@@ -177,18 +170,25 @@
         "publishedAt": "2026-08-21T08:08:16.000Z"
       },
       {
-        "time": "17:14",
-        "title": "横浜市主催の会議 市長参加見送り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592554?source=rss",
-        "publishedAt": "2026-08-21T08:14:07.000Z"
-      },
-      {
         "time": "17:26",
         "title": "ゴルフ研修生19歳自殺 両親が提訴",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592557?source=rss",
         "publishedAt": "2026-08-21T08:26:23.000Z"
+      },
+      {
+        "time": "19:50",
+        "title": "高校のバスなど6台事故 生徒搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592579?source=rss",
+        "publishedAt": "2026-08-21T10:50:18.000Z"
+      },
+      {
+        "time": "17:14",
+        "title": "横浜市主催の会議 市長参加見送り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592554?source=rss",
+        "publishedAt": "2026-08-21T08:14:07.000Z"
       }
     ],
     "subsidyHeadlines": [
