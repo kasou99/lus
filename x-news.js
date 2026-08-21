@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T00:22:01.095Z",
+  "updatedAt": "2026-08-21T00:50:16.456Z",
   "items": [
     {
       "time": "08:16",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大規模11私大 理系学生増など検討"
     },
     {
-      "time": "08:35",
-      "title": "防衛事業 再編の企業に国出資方針",
+      "time": "09:07",
+      "title": "SKハイニックス 宮城に工場案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592489?source=rss",
-      "publishedAt": "2026-08-20T23:35:07.000Z",
-      "xQuery": "防衛事業 再編の企業に国出資方針"
+      "url": "https://news.yahoo.co.jp/pickup/6592493?source=rss",
+      "publishedAt": "2026-08-21T00:07:12.000Z",
+      "xQuery": "SKハイニックス 宮城に工場案"
     },
     {
       "time": "09:05",
