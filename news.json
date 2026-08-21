@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T07:47:52.356Z",
+  "updatedAt": "2026-08-21T08:17:10.670Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-08-20T20:00:00.000Z"
       },
       {
+        "time": "17:00",
+        "title": "リアルタイムモーションコントローラ市場の未来を読む：2026年以降の業界変化とビジネスチャンス",
+        "source": "ドリームニュース",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZYy1FZk1sc0Jpclk4Y0JERUxnV1RnSE1ZeHBCTVlJZHpNTzR0a1VfWERaQ1U3SHFLLUJOYUVieW0wejM5RXVaNlFqU1VNa0VFcERr?oc=5",
+        "publishedAt": "2026-08-21T08:00:00.000Z"
+      },
+      {
         "time": "12:52",
         "title": "深層断面／中小、設備保全DX加速 遠隔監視・故障予防など強化",
         "source": "日刊工業新聞",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiWXFuY0JELWxIb1pkZVNZcGw0RHkzT1BwbjI4M05DZlpSNFd3aWtYVmlaeWtFN3U3cjkwanc4MUVJTHE4UVZldW1kZlFKNUY5UDlNY2NDZjE?oc=5",
         "publishedAt": "2026-08-21T05:07:21.000Z"
-      },
-      {
-        "time": "05:06",
-        "title": "第56回機械工業デザイン賞IDEA（14）審査委員会特別賞 ツガミ",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81N2lmY0JzV2k1MkxjeG5zeHk3a2NGcW1faGVfS0d2UkFDSEt0QXlHeVBEOENtYm44czM3U0I1WjB0OGxHSFhxamI1LWhVbUFCMldSMnphbjhXOVE?oc=5",
-        "publishedAt": "2026-08-20T20:06:58.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-08-21T04:49:47.000Z"
       },
       {
-        "time": "13:02",
-        "title": "議長巡る福岡県会の採決中止 苦情",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592524?source=rss",
-        "publishedAt": "2026-08-21T04:02:29.000Z"
-      },
-      {
         "time": "10:34",
         "title": "4人死亡 時速50kmで駅構内進入か",
         "source": "Yahoo!ニュース",
@@ -177,18 +170,25 @@
         "publishedAt": "2026-08-20T13:32:34.000Z"
       },
       {
+        "time": "17:08",
+        "title": "病院から姿消した被告 遺体で発見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592555?source=rss",
+        "publishedAt": "2026-08-21T08:08:16.000Z"
+      },
+      {
+        "time": "17:14",
+        "title": "横浜市主催の会議 市長参加見送り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592554?source=rss",
+        "publishedAt": "2026-08-21T08:14:07.000Z"
+      },
+      {
         "time": "14:19",
         "title": "川に「モバ充」161個 警察が回収",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592533?source=rss",
         "publishedAt": "2026-08-21T05:19:33.000Z"
-      },
-      {
-        "time": "15:46",
-        "title": "突如中止の花火大会 返金姿勢示す",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592540?source=rss",
-        "publishedAt": "2026-08-21T06:46:19.000Z"
       }
     ],
     "subsidyHeadlines": [

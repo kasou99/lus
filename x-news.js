@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T07:47:53.632Z",
+  "updatedAt": "2026-08-21T08:17:11.100Z",
   "items": [
     {
       "time": "16:14",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592543?source=rss",
       "publishedAt": "2026-08-21T07:14:53.000Z",
       "xQuery": "あす九州で39℃予想も 熱中症警戒"
+    },
+    {
+      "time": "16:23",
+      "title": "不祥事相次ぐ検察 閉ざされた会見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592544?source=rss",
+      "publishedAt": "2026-08-21T07:23:02.000Z",
+      "xQuery": "不祥事相次ぐ検察 閉ざされた会見"
     },
     {
       "time": "13:49",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露戦略会議に変化「戦後」意識?"
     },
     {
-      "time": "14:19",
-      "title": "川に「モバ充」161個 警察が回収",
+      "time": "17:08",
+      "title": "病院から姿消した被告 遺体で発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592533?source=rss",
-      "publishedAt": "2026-08-21T05:19:33.000Z",
-      "xQuery": "川に「モバ充」161個 警察が回収"
-    },
-    {
-      "time": "15:46",
-      "title": "突如中止の花火大会 返金姿勢示す",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592540?source=rss",
-      "publishedAt": "2026-08-21T06:46:19.000Z",
-      "xQuery": "突如中止の花火大会 返金姿勢示す"
+      "url": "https://news.yahoo.co.jp/pickup/6592555?source=rss",
+      "publishedAt": "2026-08-21T08:08:16.000Z",
+      "xQuery": "病院から姿消した被告 遺体で発見"
     }
   ]
 };
