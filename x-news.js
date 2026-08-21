@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T06:15:45.509Z",
+  "updatedAt": "2026-08-21T06:48:25.514Z",
   "items": [
     {
       "time": "13:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉豪雨 片付け中の感染症に注意"
     },
     {
-      "time": "13:20",
-      "title": "登校中児童11人 ハチに刺され搬送",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592526?source=rss",
-      "publishedAt": "2026-08-21T04:20:51.000Z",
-      "xQuery": "登校中児童11人 ハチに刺され搬送"
-    },
-    {
       "time": "14:19",
       "title": "川に「モバ充」161個 警察が回収",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592533?source=rss",
       "publishedAt": "2026-08-21T05:19:33.000Z",
       "xQuery": "川に「モバ充」161個 警察が回収"
+    },
+    {
+      "time": "14:46",
+      "title": "道路脇にパン大量投棄 法的問題は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592536?source=rss",
+      "publishedAt": "2026-08-21T05:46:48.000Z",
+      "xQuery": "道路脇にパン大量投棄 法的問題は"
     }
   ]
 };
