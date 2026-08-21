@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T09:46:28.828Z",
+  "updatedAt": "2026-08-21T10:11:19.994Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-08-21T05:00:00.000Z"
       },
       {
-        "time": "17:00",
-        "title": "リアルタイムモーションコントローラ市場の未来を読む：2026年以降の業界変化とビジネスチャンス",
-        "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZYy1FZk1sc0Jpclk4Y0JERUxnV1RnSE1ZeHBCTVlJZHpNTzR0a1VfWERaQ1U3SHFLLUJOYUVieW0wejM5RXVaNlFqU1VNa0VFcERr?oc=5",
-        "publishedAt": "2026-08-21T08:00:00.000Z"
-      },
-      {
         "time": "05:00",
         "title": "西部電機、欧州拠点27年4月開設 中国依存低減しつつ工作機械拡販",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTFlxOTlUNUNPQVBOYzRaaWVFREI5LTRUZ0xMd0pMX1dFSkpsenBvNXpCM09odHZGR1N3aGtydlh6Q0ZmcE5aMVMxME0yTUlCUHFudEdFMEdhR0FPZGpqRE5mbGtzbEJVZEowcA?oc=5",
         "publishedAt": "2026-08-20T20:00:00.000Z"
+      },
+      {
+        "time": "17:03",
+        "title": "リアルタイムモーションコントローラ市場の未来を読む：2026年以降の業界変化とビジネスチャンス",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSZUJWTDd6b29ldERJclY4YXBUV0NxQTFLaU9NbkZCNkV1Q3FKcEg5T0toT1FTM1BsRXhybGJ3R1pDeWM2ODRFRGxBVEI4STB3UmlXMUVPb0FkVV8zQXFHMTNDZFJwNDlNaXl3cGhXNEFmd3ljMUdkSFgxaw?oc=5",
+        "publishedAt": "2026-08-21T08:03:22.000Z"
       },
       {
         "time": "14:07",
@@ -149,11 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "13:49",
-        "title": "千葉豪雨 片付け中の感染症に注意",
+        "time": "18:48",
+        "title": "千葉豪雨「助けて」緊迫の119番",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592529?source=rss",
-        "publishedAt": "2026-08-21T04:49:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592571?source=rss",
+        "publishedAt": "2026-08-21T09:48:01.000Z"
+      },
+      {
+        "time": "18:58",
+        "title": "4人死亡 列車見張り員ら任意聴取",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592573?source=rss",
+        "publishedAt": "2026-08-21T09:58:13.000Z"
       },
       {
         "time": "10:34",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592502?source=rss",
         "publishedAt": "2026-08-21T01:34:27.000Z"
-      },
-      {
-        "time": "22:32",
-        "title": "4人死亡 退避完了と見張りが合図",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592465?source=rss",
-        "publishedAt": "2026-08-20T13:32:34.000Z"
       },
       {
         "time": "17:08",

@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T09:46:30.210Z",
+  "updatedAt": "2026-08-21T10:11:20.787Z",
   "items": [
+    {
+      "time": "18:58",
+      "title": "4人死亡 列車見張り員ら任意聴取",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592573?source=rss",
+      "publishedAt": "2026-08-21T09:58:13.000Z",
+      "xQuery": "4人死亡 列車見張り員ら任意聴取"
+    },
     {
       "time": "16:56",
       "title": "天気予報2週先まで発信へ 気象庁",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "天気予報2週先まで発信へ 気象庁"
     },
     {
-      "time": "17:36",
-      "title": "20代NISA買い付け額17倍 2014年比",
+      "time": "17:59",
+      "title": "鈴木宗男氏 駐露大使の対応を批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592560?source=rss",
-      "publishedAt": "2026-08-21T08:36:18.000Z",
-      "xQuery": "20代NISA買い付け額17倍 2014年比"
+      "url": "https://news.yahoo.co.jp/pickup/6592561?source=rss",
+      "publishedAt": "2026-08-21T08:59:43.000Z",
+      "xQuery": "鈴木宗男氏 駐露大使の対応を批判"
     },
     {
       "time": "18:26",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592569?source=rss",
       "publishedAt": "2026-08-21T09:26:39.000Z",
       "xQuery": "馬渕隆一さん死去 マブチモーター"
-    },
-    {
-      "time": "17:14",
-      "title": "横浜市主催の会議 市長参加見送り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592554?source=rss",
-      "publishedAt": "2026-08-21T08:14:07.000Z",
-      "xQuery": "横浜市主催の会議 市長参加見送り"
     },
     {
       "time": "17:08",
