@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T23:08:36.792Z",
+  "updatedAt": "2026-08-21T23:40:24.184Z",
   "items": [
-    {
-      "time": "23:41",
-      "title": "22日 西・東日本は急な雷雨に注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592596?source=rss",
-      "publishedAt": "2026-08-21T14:41:55.000Z",
-      "xQuery": "22日 西・東日本は急な雷雨に注意"
-    },
     {
       "time": "07:24",
       "title": "千葉豪雨 車両約2500台の撤去完了",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592599?source=rss",
       "publishedAt": "2026-08-21T22:24:01.000Z",
       "xQuery": "千葉豪雨 車両約2500台の撤去完了"
+    },
+    {
+      "time": "08:23",
+      "title": "九州中心に危険な暑さ 熱中症注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592608?source=rss",
+      "publishedAt": "2026-08-21T23:23:00.000Z",
+      "xQuery": "九州中心に危険な暑さ 熱中症注意"
     },
     {
       "time": "07:23",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡「見張員はベテラン」証言"
     },
     {
-      "time": "22:26",
-      "title": "5人殺害事件遺族 死刑執行に心境",
+      "time": "07:54",
+      "title": "若年層で「うつ病」影響が顕在化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592590?source=rss",
-      "publishedAt": "2026-08-21T13:26:54.000Z",
-      "xQuery": "5人殺害事件遺族 死刑執行に心境"
+      "url": "https://news.yahoo.co.jp/pickup/6592603?source=rss",
+      "publishedAt": "2026-08-21T22:54:42.000Z",
+      "xQuery": "若年層で「うつ病」影響が顕在化"
     }
   ]
 };
