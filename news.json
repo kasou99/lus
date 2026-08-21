@@ -1,27 +1,20 @@
 {
-  "updatedAt": "2026-08-21T11:09:42.685Z",
+  "updatedAt": "2026-08-21T11:41:37.235Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "18:16",
+        "title": "工作機械受注、5月37％増 中国・アジア好調けん引",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxbDBCM1VvR0U3cG5iTzNpaTk3OC1vcU9GN0gtRzhSNE1mMUo5M3gzSWVpSTgxTVVHMWZlc3g2SXE1aEFfYkpFVTJXanlUNHpVME80VFpsVFM?oc=5",
+        "publishedAt": "2026-08-21T09:16:57.000Z"
+      },
       {
         "time": "13:45",
         "title": "ブラザー工業、64本工具搭載の工作機械を開発…変種変量生産や多品種小ロット生産に対応",
         "source": "レスポンス（Response.jp）",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02Y1VSVlNzeTJyNllLcmFRbmN0UkFTZG1abWpSbmRzQ2J6OWg3VWFFNGNubzdDOVhxdExKUk12TzJRalRsSHlsVHRvTmJnTkFNYWpmMklYUzhyN1pxdktB?oc=5",
         "publishedAt": "2026-08-21T04:45:03.000Z"
-      },
-      {
-        "time": "12:52",
-        "title": "深層断面／中小、設備保全DX加速 遠隔監視・故障予防など強化",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16blg1T3pxNFRCamIxcHNQa25tNlk2WE9pMld4UnprYUFJYVdEWnJOYkJpbXZYamFSUEV2N2xYc1NoUlQwTHF3RVNRSWFPQ0Y4RFQycVFoSkE?oc=5",
-        "publishedAt": "2026-08-21T03:52:50.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "西部電機、欧州拠点27年4月開設 中国依存低減しつつ工作機械拡販",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTFlxOTlUNUNPQVBOYzRaaWVFREI5LTRUZ0xMd0pMX1dFSkpsenBvNXpCM09odHZGR1N3aGtydlh6Q0ZmcE5aMVMxME0yTUlCUHFudEdFMEdhR0FPZGpqRE5mbGtzbEJVZEowcA?oc=5",
-        "publishedAt": "2026-08-20T20:00:00.000Z"
       },
       {
         "time": "14:00",
@@ -31,18 +24,25 @@
         "publishedAt": "2026-08-21T05:00:00.000Z"
       },
       {
+        "time": "05:00",
+        "title": "西部電機、欧州拠点27年4月開設 中国依存低減しつつ工作機械拡販",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vTFlxOTlUNUNPQVBOYzRaaWVFREI5LTRUZ0xMd0pMX1dFSkpsenBvNXpCM09odHZGR1N3aGtydlh6Q0ZmcE5aMVMxME0yTUlCUHFudEdFMEdhR0FPZGpqRE5mbGtzbEJVZEowcA?oc=5",
+        "publishedAt": "2026-08-20T20:00:00.000Z"
+      },
+      {
+        "time": "12:52",
+        "title": "深層断面／中小、設備保全DX加速 遠隔監視・故障予防など強化",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16blg1T3pxNFRCamIxcHNQa25tNlk2WE9pMld4UnprYUFJYVdEWnJOYkJpbXZYamFSUEV2N2xYc1NoUlQwTHF3RVNRSWFPQ0Y4RFQycVFoSkE?oc=5",
+        "publishedAt": "2026-08-21T03:52:50.000Z"
+      },
+      {
         "time": "19:25",
         "title": "トップニュース",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9obVBGOVlKRE9qUkJqN0ktMzg4WXo5blh6LTd1TW53b3VPVmt2NmRLbXBVNXMwVGdHTFFGbmMya2xTOWRaSEtfTEE3cnlZaVRrYzQzbA?oc=5",
         "publishedAt": "2026-08-21T10:25:20.000Z"
-      },
-      {
-        "time": "17:03",
-        "title": "リアルタイムモーションコントローラ市場の未来を読む：2026年以降の業界変化とビジネスチャンス",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSZUJWTDd6b29ldERJclY4YXBUV0NxQTFLaU9NbkZCNkV1Q3FKcEg5T0toT1FTM1BsRXhybGJ3R1pDeWM2ODRFRGxBVEI4STB3UmlXMUVPb0FkVV8zQXFHMTNDZFJwNDlNaXl3cGhXNEFmd3ljMUdkSFgxaw?oc=5",
-        "publishedAt": "2026-08-21T08:03:22.000Z"
       },
       {
         "time": "14:07",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-08-21T05:07:21.000Z"
       },
       {
-        "time": "05:00",
-        "title": "第56回機械工業デザイン賞IDEA（14）審査委員会特別賞 ツガミ",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSZUVjRUNVWTNEanRKTlZNRmhabll4YkdtMkhWQnVjVTJNNHk3eFlGWmxKN3NDVXB4M0QtZUhXUWxCYlU3NWNXd0VnOVdXcVhTN3EzLUEtMjE?oc=5",
-        "publishedAt": "2026-08-20T20:00:00.000Z"
+        "time": "10:55",
+        "title": "製造業DXを加速する！シリーズ第4弾 意思決定改革篇 品質改善と安定操業を実現するデータ活用事例特集 - trans-cosmos.co.jp",
+        "source": "trans-cosmos.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UMWR6TDlNN1NxZXY0S2NQQzZSTi1vSTBTNF9PSjNocE1feXBHLVZIQjl1M2lwczZYc1RmMEFaUWVzWno1RnI5Z0VncFdIVDFJVkVLUjBmbEhHQTFkck9v?oc=5",
+        "publishedAt": "2026-08-21T01:55:26.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,13 +82,6 @@
         "publishedAt": "2026-08-21T07:19:47.000Z"
       },
       {
-        "time": "23:31",
-        "title": "中国 沖縄の帰属を巡り「疑義」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592470?source=rss",
-        "publishedAt": "2026-08-20T14:31:38.000Z"
-      },
-      {
         "time": "09:22",
         "title": "北 ミサイル発射3回連続報道せず",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592534?source=rss",
         "publishedAt": "2026-08-21T05:34:46.000Z"
+      },
+      {
+        "time": "20:20",
+        "title": "クーラーBOXで5日漂流 メキシコ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592580?source=rss",
+        "publishedAt": "2026-08-21T11:20:49.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,20 +163,6 @@
         "publishedAt": "2026-08-21T09:58:13.000Z"
       },
       {
-        "time": "17:08",
-        "title": "病院から姿消した被告 遺体で発見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592555?source=rss",
-        "publishedAt": "2026-08-21T08:08:16.000Z"
-      },
-      {
-        "time": "17:26",
-        "title": "ゴルフ研修生19歳自殺 両親が提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592557?source=rss",
-        "publishedAt": "2026-08-21T08:26:23.000Z"
-      },
-      {
         "time": "19:50",
         "title": "高校のバスなど6台事故 生徒搬送",
         "source": "Yahoo!ニュース",
@@ -184,11 +170,25 @@
         "publishedAt": "2026-08-21T10:50:18.000Z"
       },
       {
-        "time": "17:14",
-        "title": "横浜市主催の会議 市長参加見送り",
+        "time": "17:08",
+        "title": "病院から姿消した被告 遺体で発見",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592554?source=rss",
-        "publishedAt": "2026-08-21T08:14:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592555?source=rss",
+        "publishedAt": "2026-08-21T08:08:16.000Z"
+      },
+      {
+        "time": "20:27",
+        "title": "10年超放置の遊覧船 撤去に7億円",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592581?source=rss",
+        "publishedAt": "2026-08-21T11:27:26.000Z"
+      },
+      {
+        "time": "17:26",
+        "title": "ゴルフ研修生19歳自殺 両親が提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592557?source=rss",
+        "publishedAt": "2026-08-21T08:26:23.000Z"
       }
     ],
     "subsidyHeadlines": [

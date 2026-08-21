@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T11:09:43.600Z",
+  "updatedAt": "2026-08-21T11:41:38.174Z",
   "items": [
     {
       "time": "18:58",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "育児サービス利用など税優遇 方針"
     },
     {
-      "time": "17:59",
-      "title": "鈴木宗男氏 駐露大使の対応を批判",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592561?source=rss",
-      "publishedAt": "2026-08-21T08:59:43.000Z",
-      "xQuery": "鈴木宗男氏 駐露大使の対応を批判"
-    },
-    {
-      "time": "18:26",
-      "title": "馬渕隆一さん死去 マブチモーター",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592569?source=rss",
-      "publishedAt": "2026-08-21T09:26:39.000Z",
-      "xQuery": "馬渕隆一さん死去 マブチモーター"
-    },
-    {
       "time": "19:50",
       "title": "高校のバスなど6台事故 生徒搬送",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592579?source=rss",
       "publishedAt": "2026-08-21T10:50:18.000Z",
       "xQuery": "高校のバスなど6台事故 生徒搬送"
+    },
+    {
+      "time": "20:20",
+      "title": "クーラーBOXで5日漂流 メキシコ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592580?source=rss",
+      "publishedAt": "2026-08-21T11:20:49.000Z",
+      "xQuery": "クーラーBOXで5日漂流 メキシコ"
+    },
+    {
+      "time": "19:12",
+      "title": "韓国で「親日派スキャナー」拡大",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592574?source=rss",
+      "publishedAt": "2026-08-21T10:12:19.000Z",
+      "xQuery": "韓国で「親日派スキャナー」拡大"
     }
   ]
 };
