@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T09:16:30.090Z",
+  "updatedAt": "2026-08-21T09:46:28.828Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-08-21T04:45:03.000Z"
       },
       {
-        "time": "14:37",
-        "title": "深層断面／工作機械、回復傾向続く 今年見通し6.0％増1兆7000億円",
+        "time": "12:52",
+        "title": "深層断面／中小、設備保全DX加速 遠隔監視・故障予防など強化",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iQVBtMUtlbjBzTFJkMW5kVUxsQ3ZqUVhuYzQ4dl9xUWRSU0ZtdGZQMVM3a0ZTV2c5WDRwWjUyWUhUXy15TGcxeWdNd2xHVjBrT3J3RlFjWS0?oc=5",
-        "publishedAt": "2026-08-21T05:37:44.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16blg1T3pxNFRCamIxcHNQa25tNlk2WE9pMld4UnprYUFJYVdEWnJOYkJpbXZYamFSUEV2N2xYc1NoUlQwTHF3RVNRSWFPQ0Y4RFQycVFoSkE?oc=5",
+        "publishedAt": "2026-08-21T03:52:50.000Z"
       },
       {
         "time": "14:00",
@@ -22,13 +22,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ITU1qVTEydENZYmhrck1hWUxGSEdjSDNtUjJRRk5kTl94NzhjcjVEYTlNTjdXaS1RVC1oNUFsUjRveGlZWEVqcmhGMGo1Q2c?oc=5",
         "publishedAt": "2026-08-21T05:00:00.000Z"
-      },
-      {
-        "time": "10:55",
-        "title": "製造業DXを加速する！シリーズ第4弾 意思決定改革篇 品質改善と安定操業を実現するデータ活用事例特集 - trans-cosmos.co.jp",
-        "source": "trans-cosmos.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UMWR6TDlNN1NxZXY0S2NQQzZSTi1vSTBTNF9PSjNocE1feXBHLVZIQjl1M2lwczZYc1RmMEFaUWVzWno1RnI5Z0VncFdIVDFJVkVLUjBmbEhHQTFkck9v?oc=5",
-        "publishedAt": "2026-08-21T01:55:26.000Z"
       },
       {
         "time": "17:00",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-08-20T20:00:00.000Z"
       },
       {
-        "time": "12:52",
-        "title": "深層断面／中小、設備保全DX加速 遠隔監視・故障予防など強化",
+        "time": "14:07",
+        "title": "社説／フィジカルAIに優先支援 強さの先にある「進化」に期待",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16blg1T3pxNFRCamIxcHNQa25tNlk2WE9pMld4UnprYUFJYVdEWnJOYkJpbXZYamFSUEV2N2xYc1NoUlQwTHF3RVNRSWFPQ0Y4RFQycVFoSkE?oc=5",
-        "publishedAt": "2026-08-21T03:52:50.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiWXFuY0JELWxIb1pkZVNZcGw0RHkzT1BwbjI4M05DZlpSNFd3aWtYVmlaeWtFN3U3cjkwanc4MUVJTHE4UVZldW1kZlFKNUY5UDlNY2NDZjE?oc=5",
+        "publishedAt": "2026-08-21T05:07:21.000Z"
       },
       {
-        "time": "00:40",
-        "title": "承認手続きなく退職金3000万円を自身の口座に振り込みか 田原市役所職員逮捕",
-        "source": "日テレNEWS NNN",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYVJuNmUwUWdQNktMVjg1RVJDaUlta3pPS2JNd2xCNVdnUmQ4MTJCdFpmWUVoUFF4NTByTHY2N1RKOGR0OUJKZ0VQSlRFLTZRZ0FoSEdwcUs5YWQxaUpoUEVfOTdxbGlZRF9nVHBrVl9mcXdDLWlJVnFWREhIQ2NmSkI4VUNZYTQ?oc=5",
-        "publishedAt": "2026-08-20T15:40:00.000Z"
+        "time": "05:00",
+        "title": "第56回機械工業デザイン賞IDEA（14）審査委員会特別賞 ツガミ",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSZUVjRUNVWTNEanRKTlZNRmhabll4YkdtMkhWQnVjVTJNNHk3eFlGWmxKN3NDVXB4M0QtZUhXUWxCYlU3NWNXd0VnOVdXcVhTN3EzLUEtMjE?oc=5",
+        "publishedAt": "2026-08-20T20:00:00.000Z"
+      },
+      {
+        "time": "10:55",
+        "title": "製造業DXを加速する！シリーズ第4弾 意思決定改革篇 品質改善と安定操業を実現するデータ活用事例特集 - trans-cosmos.co.jp",
+        "source": "trans-cosmos.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UMWR6TDlNN1NxZXY0S2NQQzZSTi1vSTBTNF9PSjNocE1feXBHLVZIQjl1M2lwczZYc1RmMEFaUWVzWno1RnI5Z0VncFdIVDFJVkVLUjBmbEhHQTFkck9v?oc=5",
+        "publishedAt": "2026-08-21T01:55:26.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:44",
-        "title": "金融庁が企画室新設へ 検査司令塔",
+        "time": "18:26",
+        "title": "馬渕隆一さん死去 マブチモーター",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592503?source=rss",
-        "publishedAt": "2026-08-21T01:44:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592569?source=rss",
+        "publishedAt": "2026-08-21T09:26:39.000Z"
       },
       {
         "time": "17:28",

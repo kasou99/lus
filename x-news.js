@@ -1,13 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-21T09:16:30.695Z",
+  "updatedAt": "2026-08-21T09:46:30.210Z",
   "items": [
     {
-      "time": "16:23",
-      "title": "不祥事相次ぐ検察 閉ざされた会見",
+      "time": "16:56",
+      "title": "天気予報2週先まで発信へ 気象庁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592544?source=rss",
-      "publishedAt": "2026-08-21T07:23:02.000Z",
-      "xQuery": "不祥事相次ぐ検察 閉ざされた会見"
+      "url": "https://news.yahoo.co.jp/pickup/6592546?source=rss",
+      "publishedAt": "2026-08-21T07:56:12.000Z",
+      "xQuery": "天気予報2週先まで発信へ 気象庁"
+    },
+    {
+      "time": "17:36",
+      "title": "20代NISA買い付け額17倍 2014年比",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592560?source=rss",
+      "publishedAt": "2026-08-21T08:36:18.000Z",
+      "xQuery": "20代NISA買い付け額17倍 2014年比"
+    },
+    {
+      "time": "18:26",
+      "title": "馬渕隆一さん死去 マブチモーター",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592569?source=rss",
+      "publishedAt": "2026-08-21T09:26:39.000Z",
+      "xQuery": "馬渕隆一さん死去 マブチモーター"
     },
     {
       "time": "17:14",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "横浜市主催の会議 市長参加見送り"
     },
     {
-      "time": "12:56",
-      "title": "露戦略会議に変化「戦後」意識?",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592522?source=rss",
-      "publishedAt": "2026-08-21T03:56:24.000Z",
-      "xQuery": "露戦略会議に変化「戦後」意識?"
-    },
-    {
       "time": "17:08",
       "title": "病院から姿消した被告 遺体で発見",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592555?source=rss",
       "publishedAt": "2026-08-21T08:08:16.000Z",
       "xQuery": "病院から姿消した被告 遺体で発見"
-    },
-    {
-      "time": "17:26",
-      "title": "ゴルフ研修生19歳自殺 両親が提訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592557?source=rss",
-      "publishedAt": "2026-08-21T08:26:23.000Z",
-      "xQuery": "ゴルフ研修生19歳自殺 両親が提訴"
     }
   ]
 };
