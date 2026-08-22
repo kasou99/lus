@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T09:10:10.320Z",
+  "updatedAt": "2026-08-22T09:41:55.638Z",
   "items": [
     {
       "time": "17:08",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "国連委員 皇室典範などを批判"
     },
     {
-      "time": "17:26",
-      "title": "東京・北区などで猛烈な雨 警戒",
+      "time": "17:07",
+      "title": "「超・老老介護」神経すり減る夫",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592677?source=rss",
-      "publishedAt": "2026-08-22T08:26:34.000Z",
-      "xQuery": "東京・北区などで猛烈な雨 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6592673?source=rss",
+      "publishedAt": "2026-08-22T08:07:26.000Z",
+      "xQuery": "「超・老老介護」神経すり減る夫"
+    },
+    {
+      "time": "18:20",
+      "title": "東京・埼玉で猛烈な雨 災害に注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592682?source=rss",
+      "publishedAt": "2026-08-22T09:20:42.000Z",
+      "xQuery": "東京・埼玉で猛烈な雨 災害に注意"
     },
     {
       "time": "18:00",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東京都の大雨 現地からのSNS投稿"
     },
     {
-      "time": "16:56",
-      "title": "ウエストナイル熱 欧州で市中感染",
+      "time": "18:17",
+      "title": "ミカン畑で火事 全身やけどで死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592672?source=rss",
-      "publishedAt": "2026-08-22T07:56:17.000Z",
-      "xQuery": "ウエストナイル熱 欧州で市中感染"
-    },
-    {
-      "time": "16:04",
-      "title": "公邸で過ごす意義 首相がXで強調",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592662?source=rss",
-      "publishedAt": "2026-08-22T07:04:40.000Z",
-      "xQuery": "公邸で過ごす意義 首相がXで強調"
+      "url": "https://news.yahoo.co.jp/pickup/6592683?source=rss",
+      "publishedAt": "2026-08-22T09:17:09.000Z",
+      "xQuery": "ミカン畑で火事 全身やけどで死亡"
     }
   ]
 };
