@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T17:07:45.017Z",
+  "updatedAt": "2026-08-22T17:39:21.791Z",
   "items": [
     {
-      "time": "02:04",
-      "title": "地震情報",
+      "time": "02:09",
+      "title": "茨城などで最大震度5弱 津波なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592010?source=rss",
-      "publishedAt": "2026-08-22T17:04:42.000Z",
-      "xQuery": "地震情報"
+      "url": "https://news.yahoo.co.jp/pickup/6592717?source=rss",
+      "publishedAt": "2026-08-22T17:09:58.000Z",
+      "xQuery": "茨城などで最大震度5弱 津波なし"
     },
     {
       "time": "22:14",
