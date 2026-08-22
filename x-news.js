@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T07:15:55.374Z",
+  "updatedAt": "2026-08-22T07:43:06.241Z",
   "items": [
     {
       "time": "14:51",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "原爆「包帯の少女」の証言公開へ"
     },
     {
-      "time": "13:13",
-      "title": "千葉豪雨 被災車両巡りトラブル",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592642?source=rss",
-      "publishedAt": "2026-08-22T04:13:51.000Z",
-      "xQuery": "千葉豪雨 被災車両巡りトラブル"
-    },
-    {
       "time": "14:39",
       "title": "USJでコースター停止 けが人なし",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592658?source=rss",
       "publishedAt": "2026-08-22T06:28:00.000Z",
       "xQuery": "55億円で買った山 県なぜ27年放置"
+    },
+    {
+      "time": "16:27",
+      "title": "「自販機」に逆風 飲料各社が工夫",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592665?source=rss",
+      "publishedAt": "2026-08-22T07:27:25.000Z",
+      "xQuery": "「自販機」に逆風 飲料各社が工夫"
     }
   ]
 };
