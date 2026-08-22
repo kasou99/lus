@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T08:44:06.739Z",
+  "updatedAt": "2026-08-22T09:10:10.320Z",
   "items": [
+    {
+      "time": "17:08",
+      "title": "国連委員 皇室典範などを批判",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592674?source=rss",
+      "publishedAt": "2026-08-22T08:08:04.000Z",
+      "xQuery": "国連委員 皇室典範などを批判"
+    },
     {
       "time": "17:26",
       "title": "東京・北区などで猛烈な雨 警戒",
@@ -8,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592677?source=rss",
       "publishedAt": "2026-08-22T08:26:34.000Z",
       "xQuery": "東京・北区などで猛烈な雨 警戒"
+    },
+    {
+      "time": "18:00",
+      "title": "東京都の大雨 現地からのSNS投稿",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592680?source=rss",
+      "publishedAt": "2026-08-22T09:00:36.000Z",
+      "xQuery": "東京都の大雨 現地からのSNS投稿"
     },
     {
       "time": "16:56",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ウエストナイル熱 欧州で市中感染"
     },
     {
-      "time": "16:27",
-      "title": "踊り子の体一部狙い撮影 法的には",
+      "time": "16:04",
+      "title": "公邸で過ごす意義 首相がXで強調",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592666?source=rss",
-      "publishedAt": "2026-08-22T07:27:11.000Z",
-      "xQuery": "踊り子の体一部狙い撮影 法的には"
-    },
-    {
-      "time": "15:28",
-      "title": "55億円で買った山 県なぜ27年放置",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592658?source=rss",
-      "publishedAt": "2026-08-22T06:28:00.000Z",
-      "xQuery": "55億円で買った山 県なぜ27年放置"
-    },
-    {
-      "time": "16:42",
-      "title": "原因は謎 運動公園のインコ大量死",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592670?source=rss",
-      "publishedAt": "2026-08-22T07:42:12.000Z",
-      "xQuery": "原因は謎 運動公園のインコ大量死"
+      "url": "https://news.yahoo.co.jp/pickup/6592662?source=rss",
+      "publishedAt": "2026-08-22T07:04:40.000Z",
+      "xQuery": "公邸で過ごす意義 首相がXで強調"
     }
   ]
 };
