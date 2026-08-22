@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T06:11:50.669Z",
+  "updatedAt": "2026-08-22T06:47:45.931Z",
   "items": [
     {
-      "time": "13:13",
-      "title": "千葉豪雨 被災車両巡りトラブル",
+      "time": "14:51",
+      "title": "ICCなど巡る高市外交「弱腰」批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592642?source=rss",
-      "publishedAt": "2026-08-22T04:13:51.000Z",
-      "xQuery": "千葉豪雨 被災車両巡りトラブル"
+      "url": "https://news.yahoo.co.jp/pickup/6592655?source=rss",
+      "publishedAt": "2026-08-22T05:51:29.000Z",
+      "xQuery": "ICCなど巡る高市外交「弱腰」批判"
     },
     {
       "time": "14:29",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "原爆「包帯の少女」の証言公開へ"
     },
     {
+      "time": "13:13",
+      "title": "千葉豪雨 被災車両巡りトラブル",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592642?source=rss",
+      "publishedAt": "2026-08-22T04:13:51.000Z",
+      "xQuery": "千葉豪雨 被災車両巡りトラブル"
+    },
+    {
       "time": "14:39",
       "title": "USJでコースター停止 けが人なし",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "USJでコースター停止 けが人なし"
     },
     {
-      "time": "13:35",
-      "title": "果物大量盗難は組織的犯行か 識者",
+      "time": "15:28",
+      "title": "55億円で買った山 県なぜ27年放置",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592645?source=rss",
-      "publishedAt": "2026-08-22T04:35:43.000Z",
-      "xQuery": "果物大量盗難は組織的犯行か 識者"
-    },
-    {
-      "time": "14:37",
-      "title": "食パン投棄 鳥取市の海岸でも?",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592652?source=rss",
-      "publishedAt": "2026-08-22T05:37:11.000Z",
-      "xQuery": "食パン投棄 鳥取市の海岸でも?"
+      "url": "https://news.yahoo.co.jp/pickup/6592658?source=rss",
+      "publishedAt": "2026-08-22T06:28:00.000Z",
+      "xQuery": "55億円で買った山 県なぜ27年放置"
     }
   ]
 };
