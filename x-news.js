@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T03:19:58.268Z",
+  "updatedAt": "2026-08-22T03:47:36.712Z",
   "items": [
     {
       "time": "12:13",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "智弁和歌山 5年ぶり4度目の優勝"
     },
     {
-      "time": "10:06",
-      "title": "地震で突然失業 肩落とす被災者",
+      "time": "12:33",
+      "title": "秋田県職員の懲戒処分 妥当性検証",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592621?source=rss",
-      "publishedAt": "2026-08-22T01:06:27.000Z",
-      "xQuery": "地震で突然失業 肩落とす被災者"
+      "url": "https://news.yahoo.co.jp/pickup/6592637?source=rss",
+      "publishedAt": "2026-08-22T03:33:36.000Z",
+      "xQuery": "秋田県職員の懲戒処分 妥当性検証"
     },
     {
       "time": "10:14",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "TikTokが636億円支払いで和解 米"
     },
     {
-      "time": "10:56",
-      "title": "日本語学校で無資格者が授業 愛知",
+      "time": "11:29",
+      "title": "長期休み「子どもと出勤」広がる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592629?source=rss",
-      "publishedAt": "2026-08-22T01:56:30.000Z",
-      "xQuery": "日本語学校で無資格者が授業 愛知"
+      "url": "https://news.yahoo.co.jp/pickup/6592633?source=rss",
+      "publishedAt": "2026-08-22T02:29:49.000Z",
+      "xQuery": "長期休み「子どもと出勤」広がる"
     },
     {
       "time": "10:54",
