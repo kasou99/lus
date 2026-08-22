@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-22T06:47:45.143Z",
+  "updatedAt": "2026-08-22T07:15:54.587Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "18:16",
-        "title": "工作機械受注、5月37％増 中国・アジア好調けん引",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxbDBCM1VvR0U3cG5iTzNpaTk3OC1vcU9GN0gtRzhSNE1mMUo5M3gzSWVpSTgxTVVHMWZlc3g2SXE1aEFfYkpFVTJXanlUNHpVME80VFpsVFM?oc=5",
-        "publishedAt": "2026-08-21T09:16:57.000Z"
+        "time": "16:12",
+        "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45dXQxdUVNTk1nNFhCZXFRN3dVSzJvdWozaExlOU9BLWtvSjJ4MkpmWFZTSlBsRG12WmF2X2JJZU51OFVXVzhuMHg5U3RmYzRQaXc?oc=5",
+        "publishedAt": "2026-08-22T07:12:20.000Z"
       },
       {
-        "time": "17:45",
-        "title": "WSTS、2026年上半期の世界半導体市場は前年同期比102%増の7020億ドルに拡大",
-        "source": "オートメーション新聞WEB",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yTk1kUl9yc3pXRF9xcmhHcmV3cl9uWExhX0dWbnE0QWhvTGx5LVJ6REpiem8wckNrZGxNR2ZaMjNQWHdqd05rdnk0YzBoay0xdzdRLU80OWlHdw?oc=5",
-        "publishedAt": "2026-08-21T08:45:00.000Z"
+        "time": "18:09",
+        "title": "工作機械受注、6月52％増 アジア・北米伸長 単月初の2000億円超",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SNWRvb0s5MVhvZE5ySUpJajZ3RE13VVIzTTdablBUNGdmd3MtbWNMVG4zM1JWZ2NYa2RyTmQwQkQ3X2diVTFkR3IyZ3dPT2xCdXF2TWVTOTMzNFRQUldiRVRVdU96U0tPOUdWTW5oUQ?oc=5",
+        "publishedAt": "2026-08-21T09:09:10.000Z"
       },
       {
         "time": "07:38",
@@ -24,11 +24,25 @@
         "publishedAt": "2026-08-21T22:38:00.000Z"
       },
       {
+        "time": "18:16",
+        "title": "工作機械受注、5月37％増 中国・アジア好調けん引",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxbDBCM1VvR0U3cG5iTzNpaTk3OC1vcU9GN0gtRzhSNE1mMUo5M3gzSWVpSTgxTVVHMWZlc3g2SXE1aEFfYkpFVTJXanlUNHpVME80VFpsVFM?oc=5",
+        "publishedAt": "2026-08-21T09:16:57.000Z"
+      },
+      {
         "time": "17:00",
         "title": "リアルタイムモーションコントローラ市場の未来を読む：2026年以降の業界変化とビジネスチャンス",
         "source": "ドリームニュース",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZYy1FZk1sc0Jpclk4Y0JERUxnV1RnSE1ZeHBCTVlJZHpNTzR0a1VfWERaQ1U3SHFLLUJOYUVieW0wejM5RXVaNlFqU1VNa0VFcERr?oc=5",
         "publishedAt": "2026-08-21T08:00:00.000Z"
+      },
+      {
+        "time": "16:59",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-08-21T07:59:20.000Z"
       },
       {
         "time": "18:55",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-08-21T09:55:11.000Z"
       },
       {
-        "time": "22:00",
-        "title": "産業用プラグおよびソケット調査サンプル公開：市場規模・業界動向・主要企業シェアを掲載｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SUHp0OWRKZzFlUkhCM2EtdDlxT3RrbG4xVzVRbExTcmN0VHE0QTBJQ29YWXpsVTgtaUJBVERrRjhNa2doV0dyT21SdFgxT2dXYlNWOUNkTQ?oc=5",
-        "publishedAt": "2026-08-21T13:00:00.000Z"
-      },
-      {
         "time": "19:25",
         "title": "トップニュース",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9obVBGOVlKRE9qUkJqN0ktMzg4WXo5blh6LTd1TW53b3VPVmt2NmRLbXBVNXMwVGdHTFFGbmMya2xTOWRaSEtfTEE3cnlZaVRrYzQzbA?oc=5",
         "publishedAt": "2026-08-21T10:25:20.000Z"
-      },
-      {
-        "time": "19:31",
-        "title": "第51回発明大賞 受賞製品・技術のポイント 考案功労賞",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JUE9VWDdZdXdCaDEzWV9lSDl4cnZCTnQzWElZRmFSS0l6bjF0aEhOdHRWMHR6Y1NHekUyVVpXTklqMkZHcXFRVUQ0cHNFcV9KeFVTVkhqTFk?oc=5",
-        "publishedAt": "2026-08-21T10:31:16.000Z"
       }
     ],
     "worldHeadlines": [
