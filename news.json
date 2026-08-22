@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-22T22:06:45.655Z",
+  "updatedAt": "2026-08-22T22:40:04.854Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "19:09",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-08-22T10:09:27.000Z"
-      },
       {
         "time": "23:35",
         "title": "MotoGPエンジン再現、エンジニア流の模型作り…“本職”があわてた",
@@ -22,6 +15,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RekNta1BjSXZkRXZJQV9YUjhab0pnSkE5aGVsXzY0M0g2RzhKMV9XVURBcWM0cXdXQlVmbTd2SE9lYVAtaDFiVGhlYXkwSU0?oc=5",
         "publishedAt": "2026-08-22T04:00:00.000Z"
+      },
+      {
+        "time": "07:23",
+        "title": "震度5弱 関東の鉄道運行情報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592722?source=rss",
+        "publishedAt": "2026-08-22T22:23:25.000Z"
       },
       {
         "time": "10:06",
@@ -38,13 +38,6 @@
         "publishedAt": "2026-08-22T11:24:59.000Z"
       },
       {
-        "time": "08:04",
-        "title": "100均業界2トップ 快進撃の理由",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592604?source=rss",
-        "publishedAt": "2026-08-21T23:04:17.000Z"
-      },
-      {
         "time": "10:09",
         "title": "新幹線の通路に椅子 JR東の見解",
         "source": "Yahoo!ニュース",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592665?source=rss",
         "publishedAt": "2026-08-22T07:27:25.000Z"
+      },
+      {
+        "time": "20:09",
+        "title": "行列回避の「次世代トイレ」続々",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592696?source=rss",
+        "publishedAt": "2026-08-22T11:09:01.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "07:23",
+        "title": "震度5弱 関東の鉄道運行情報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592722?source=rss",
+        "publishedAt": "2026-08-22T22:23:25.000Z"
+      },
+      {
         "time": "10:06",
         "title": "地震で突然失業 肩落とす被災者",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592697?source=rss",
         "publishedAt": "2026-08-22T11:24:59.000Z"
-      },
-      {
-        "time": "08:04",
-        "title": "100均業界2トップ 快進撃の理由",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592604?source=rss",
-        "publishedAt": "2026-08-21T23:04:17.000Z"
       },
       {
         "time": "10:09",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-22T10:53:38.000Z"
       },
       {
-        "time": "18:17",
-        "title": "ミカン畑で火事 全身やけどで死亡",
+        "time": "15:28",
+        "title": "55億円で買った山 県なぜ27年放置",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592683?source=rss",
-        "publishedAt": "2026-08-22T09:17:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592658?source=rss",
+        "publishedAt": "2026-08-22T06:28:00.000Z"
       }
     ],
     "subsidyHeadlines": [

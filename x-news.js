@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T22:06:46.405Z",
+  "updatedAt": "2026-08-22T22:40:05.725Z",
   "items": [
     {
       "time": "02:09",
@@ -10,28 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "茨城などで最大震度5弱 津波なし"
     },
     {
-      "time": "22:14",
-      "title": "東武事故 200m手前で警笛の記録",
+      "time": "07:23",
+      "title": "震度5弱 関東の鉄道運行情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592709?source=rss",
-      "publishedAt": "2026-08-22T13:14:31.000Z",
-      "xQuery": "東武事故 200m手前で警笛の記録"
-    },
-    {
-      "time": "21:52",
-      "title": "衆院比例に「サンラグ式」案浮上",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592706?source=rss",
-      "publishedAt": "2026-08-22T12:52:44.000Z",
-      "xQuery": "衆院比例に「サンラグ式」案浮上"
-    },
-    {
-      "time": "22:54",
-      "title": "関東南部で雨 東京駅近くで道に穴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592714?source=rss",
-      "publishedAt": "2026-08-22T13:54:11.000Z",
-      "xQuery": "関東南部で雨 東京駅近くで道に穴"
+      "url": "https://news.yahoo.co.jp/pickup/6592722?source=rss",
+      "publishedAt": "2026-08-22T22:23:25.000Z",
+      "xQuery": "震度5弱 関東の鉄道運行情報"
     },
     {
       "time": "02:50",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592718?source=rss",
       "publishedAt": "2026-08-22T17:50:21.000Z",
       "xQuery": "化学メーカー工場 作業員2人死亡"
+    },
+    {
+      "time": "22:32",
+      "title": "父の性的虐待で妊娠 今も母知らず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592710?source=rss",
+      "publishedAt": "2026-08-22T13:32:17.000Z",
+      "xQuery": "父の性的虐待で妊娠 今も母知らず"
+    },
+    {
+      "time": "22:32",
+      "title": "「狼少年」80歳で死去 スペイン",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592712?source=rss",
+      "publishedAt": "2026-08-22T13:32:02.000Z",
+      "xQuery": "「狼少年」80歳で死去 スペイン"
     }
   ]
 };
