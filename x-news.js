@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T08:09:48.390Z",
+  "updatedAt": "2026-08-22T08:44:06.739Z",
   "items": [
     {
-      "time": "14:51",
-      "title": "ICCなど巡る高市外交「弱腰」批判",
+      "time": "17:26",
+      "title": "東京・北区などで猛烈な雨 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592655?source=rss",
-      "publishedAt": "2026-08-22T05:51:29.000Z",
-      "xQuery": "ICCなど巡る高市外交「弱腰」批判"
-    },
-    {
-      "time": "14:29",
-      "title": "原爆「包帯の少女」の証言公開へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592651?source=rss",
-      "publishedAt": "2026-08-22T05:29:47.000Z",
-      "xQuery": "原爆「包帯の少女」の証言公開へ"
+      "url": "https://news.yahoo.co.jp/pickup/6592677?source=rss",
+      "publishedAt": "2026-08-22T08:26:34.000Z",
+      "xQuery": "東京・北区などで猛烈な雨 警戒"
     },
     {
       "time": "16:56",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592672?source=rss",
       "publishedAt": "2026-08-22T07:56:17.000Z",
       "xQuery": "ウエストナイル熱 欧州で市中感染"
+    },
+    {
+      "time": "16:27",
+      "title": "踊り子の体一部狙い撮影 法的には",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592666?source=rss",
+      "publishedAt": "2026-08-22T07:27:11.000Z",
+      "xQuery": "踊り子の体一部狙い撮影 法的には"
     },
     {
       "time": "15:28",
