@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T00:50:21.476Z",
+  "updatedAt": "2026-08-22T01:32:50.289Z",
   "items": [
+    {
+      "time": "09:51",
+      "title": "速報決勝 智弁和歌山vs.健大高崎",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592616?source=rss",
+      "publishedAt": "2026-08-22T00:51:25.000Z",
+      "xQuery": "速報決勝 智弁和歌山vs.健大高崎"
+    },
     {
       "time": "08:24",
       "title": "ウ商業施設に無人機攻撃 15人死亡",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ウ商業施設に無人機攻撃 15人死亡"
     },
     {
-      "time": "08:23",
-      "title": "九州中心に危険な暑さ 熱中症注意",
+      "time": "10:06",
+      "title": "地震で突然失業 肩落とす被災者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592608?source=rss",
-      "publishedAt": "2026-08-21T23:23:00.000Z",
-      "xQuery": "九州中心に危険な暑さ 熱中症注意"
-    },
-    {
-      "time": "07:46",
-      "title": "4人死亡「見張員はベテラン」証言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592602?source=rss",
-      "publishedAt": "2026-08-21T22:46:36.000Z",
-      "xQuery": "4人死亡「見張員はベテラン」証言"
+      "url": "https://news.yahoo.co.jp/pickup/6592621?source=rss",
+      "publishedAt": "2026-08-22T01:06:27.000Z",
+      "xQuery": "地震で突然失業 肩落とす被災者"
     },
     {
       "time": "09:18",

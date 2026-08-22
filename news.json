@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T00:50:20.869Z",
+  "updatedAt": "2026-08-22T01:32:49.632Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "10:06",
+        "title": "地震で突然失業 肩落とす被災者",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592621?source=rss",
+        "publishedAt": "2026-08-22T01:06:27.000Z"
+      },
+      {
         "time": "18:26",
         "title": "馬渕隆一さん死去 マブチモーター",
         "source": "Yahoo!ニュース",
@@ -133,18 +140,11 @@
         "publishedAt": "2026-08-21T23:04:17.000Z"
       },
       {
-        "time": "12:06",
-        "title": "秋サケ激減の異常事態 転換した漁",
+        "time": "09:36",
+        "title": "駅前に残る「廃墟モール」の盛衰",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592517?source=rss",
-        "publishedAt": "2026-08-21T03:06:54.000Z"
-      },
-      {
-        "time": "12:14",
-        "title": "芸能事務所に異変 倒産が相次ぐ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592514?source=rss",
-        "publishedAt": "2026-08-21T03:14:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592618?source=rss",
+        "publishedAt": "2026-08-22T00:36:25.000Z"
       }
     ],
     "localHeadlines": [
