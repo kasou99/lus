@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-22T09:41:48.005Z",
+  "updatedAt": "2026-08-22T10:07:55.684Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:12",
+        "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45dXQxdUVNTk1nNFhCZXFRN3dVSzJvdWozaExlOU9BLWtvSjJ4MkpmWFZTSlBsRG12WmF2X2JJZU51OFVXVzhuMHg5U3RmYzRQaXc?oc=5",
+        "publishedAt": "2026-08-22T07:12:20.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "アルミニウムシャフトの世界市場（2026年～2032年）、市場規模（ギア、プロペラ、ドライブシャフト、その他）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RekNta1BjSXZkRXZJQV9YUjhab0pnSkE5aGVsXzY0M0g2RzhKMV9XVURBcWM0cXdXQlVmbTd2SE9lYVAtaDFiVGhlYXkwSU0?oc=5",
+        "publishedAt": "2026-08-22T04:00:00.000Z"
+      },
+      {
+        "time": "19:25",
+        "title": "トップニュース",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9obVBGOVlKRE9qUkJqN0ktMzg4WXo5blh6LTd1TW53b3VPVmt2NmRLbXBVNXMwVGdHTFFGbmMya2xTOWRaSEtfTEE3cnlZaVRrYzQzbA?oc=5",
+        "publishedAt": "2026-08-21T10:25:20.000Z"
+      },
+      {
+        "time": "07:38",
+        "title": "MotoGPエンジン再現、エンジニア流の模型作り…“本職”があわてた",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94clVnamVadTZLam5WNDdoaTNQdTNQRHBRZUhPdHRsTWV6RkVHWlpnUFRrSXo2QzBEQkp0RlVOc2l1VnJLNEszSnhPakdhVE0tZWxhcVR3R1ZrOGMydlJvN3JxYUkxcGs3aS1kTGVvbF9TdkRrM1llNw?oc=5",
+        "publishedAt": "2026-08-21T22:38:00.000Z"
+      },
+      {
+        "time": "19:31",
+        "title": "第51回発明大賞 受賞製品・技術のポイント 考案功労賞",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JUE9VWDdZdXdCaDEzWV9lSDl4cnZCTnQzWElZRmFSS0l6bjF0aEhOdHRWMHR6Y1NHekUyVVpXTklqMkZHcXFRVUQ0cHNFcV9KeFVTVkhqTFk?oc=5",
+        "publishedAt": "2026-08-21T10:31:16.000Z"
+      },
+      {
+        "time": "22:00",
+        "title": "産業用プラグおよびソケット調査サンプル公開：市場規模・業界動向・主要企業シェアを掲載｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SUHp0OWRKZzFlUkhCM2EtdDlxT3RrbG4xVzVRbExTcmN0VHE0QTBJQ29YWXpsVTgtaUJBVERrRjhNa2doV0dyT21SdFgxT2dXYlNWOUNkTQ?oc=5",
+        "publishedAt": "2026-08-21T13:00:00.000Z"
+      },
       {
         "time": "10:06",
         "title": "地震で突然失業 肩落とす被災者",
@@ -15,48 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592569?source=rss",
         "publishedAt": "2026-08-21T09:26:39.000Z"
-      },
-      {
-        "time": "08:04",
-        "title": "100均業界2トップ 快進撃の理由",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592604?source=rss",
-        "publishedAt": "2026-08-21T23:04:17.000Z"
-      },
-      {
-        "time": "09:36",
-        "title": "駅前に残る「廃墟モール」の盛衰",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592618?source=rss",
-        "publishedAt": "2026-08-22T00:36:25.000Z"
-      },
-      {
-        "time": "10:09",
-        "title": "新幹線の通路に椅子 JR東の見解",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592622?source=rss",
-        "publishedAt": "2026-08-22T01:09:41.000Z"
-      },
-      {
-        "time": "16:27",
-        "title": "「自販機」に逆風 飲料各社が工夫",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592665?source=rss",
-        "publishedAt": "2026-08-22T07:27:25.000Z"
-      },
-      {
-        "time": "18:07",
-        "title": "処方箋不要 訪日客に眼鏡が人気",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592679?source=rss",
-        "publishedAt": "2026-08-22T09:07:34.000Z"
-      },
-      {
-        "time": "11:29",
-        "title": "長期休み「子どもと出勤」広がる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592633?source=rss",
-        "publishedAt": "2026-08-22T02:29:49.000Z"
       }
     ],
     "worldHeadlines": [
@@ -215,6 +215,20 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "time": "16:44",
+        "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
+        "publishedAt": "2026-08-21T07:44:56.000Z"
       }
     ]
   }
