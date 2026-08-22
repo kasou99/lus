@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T04:15:15.004Z",
+  "updatedAt": "2026-08-22T04:44:25.186Z",
   "items": [
     {
       "time": "12:56",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "TikTokが636億円支払いで和解 米"
     },
     {
+      "time": "13:13",
+      "title": "千葉豪雨 被災車両巡りトラブル",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592642?source=rss",
+      "publishedAt": "2026-08-22T04:13:51.000Z",
+      "xQuery": "千葉豪雨 被災車両巡りトラブル"
+    },
+    {
       "time": "11:48",
       "title": "特急事故 複数社から集まり作業",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592635?source=rss",
       "publishedAt": "2026-08-22T02:48:03.000Z",
       "xQuery": "特急事故 複数社から集まり作業"
-    },
-    {
-      "time": "12:33",
-      "title": "秋田県職員の懲戒処分 妥当性検証",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592637?source=rss",
-      "publishedAt": "2026-08-22T03:33:36.000Z",
-      "xQuery": "秋田県職員の懲戒処分 妥当性検証"
     },
     {
       "time": "11:29",

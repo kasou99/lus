@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T04:15:14.233Z",
+  "updatedAt": "2026-08-22T04:44:24.317Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,18 +89,18 @@
         "publishedAt": "2026-08-21T07:19:47.000Z"
       },
       {
-        "time": "14:34",
-        "title": "ヘンリー王子帰国報道 5つの疑問",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592534?source=rss",
-        "publishedAt": "2026-08-21T05:34:46.000Z"
-      },
-      {
         "time": "20:20",
         "title": "クーラーBOXで5日漂流 メキシコ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592580?source=rss",
         "publishedAt": "2026-08-21T11:20:49.000Z"
+      },
+      {
+        "time": "23:20",
+        "title": "露の人気アニメ ウでの配信を禁止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592593?source=rss",
+        "publishedAt": "2026-08-21T14:20:59.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "07:24",
-        "title": "千葉豪雨 車両約2500台の撤去完了",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592599?source=rss",
-        "publishedAt": "2026-08-21T22:24:01.000Z"
-      },
-      {
         "time": "13:13",
         "title": "千葉豪雨 被災車両巡りトラブル",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592613?source=rss",
         "publishedAt": "2026-08-22T00:18:02.000Z"
+      },
+      {
+        "time": "12:33",
+        "title": "秋田県職員の懲戒処分 妥当性検証",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592637?source=rss",
+        "publishedAt": "2026-08-22T03:33:36.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -224,11 +224,11 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "time": "16:00",
-        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90V3dlOVVrSGp0bjNKUVFUck1BaHE1aE1wMkRCYUFWMG14b0htdHlOVWZQWnYtTE95RE5vcDhwT0ctell1aWxwNXRlNmVPYkNFNHpQaTA3YklPWTRlNFdudGR6N2lKdw?oc=5",
-        "publishedAt": "2026-08-07T07:00:00.000Z"
+        "time": "16:44",
+        "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
+        "publishedAt": "2026-08-21T07:44:56.000Z"
       }
     ]
   }
