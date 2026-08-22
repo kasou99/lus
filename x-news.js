@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T12:47:53.062Z",
+  "updatedAt": "2026-08-22T13:15:17.322Z",
   "items": [
     {
       "time": "21:28",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "爆発で休業のイオン 従業員は不安"
     },
     {
+      "time": "21:52",
+      "title": "衆院比例に「サンラグ式」案浮上",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592706?source=rss",
+      "publishedAt": "2026-08-22T12:52:44.000Z",
+      "xQuery": "衆院比例に「サンラグ式」案浮上"
+    },
+    {
       "time": "21:03",
       "title": "化学メーカー工場で2人心肺停止",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592692?source=rss",
       "publishedAt": "2026-08-22T10:54:26.000Z",
       "xQuery": "東京大雨 水吹き上がるマンホール"
-    },
-    {
-      "time": "20:52",
-      "title": "架空の党員をAIで作成 立憲苦言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592700?source=rss",
-      "publishedAt": "2026-08-22T11:52:56.000Z",
-      "xQuery": "架空の党員をAIで作成 立憲苦言"
     }
   ]
 };
