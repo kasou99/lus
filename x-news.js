@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T12:09:16.209Z",
+  "updatedAt": "2026-08-22T12:47:53.062Z",
   "items": [
     {
-      "time": "18:34",
-      "title": "米 対カナダ50%追加関税を発動",
+      "time": "21:28",
+      "title": "事件で浮き彫りに 介護のカスハラ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592685?source=rss",
-      "publishedAt": "2026-08-22T09:34:24.000Z",
-      "xQuery": "米 対カナダ50%追加関税を発動"
+      "url": "https://news.yahoo.co.jp/pickup/6592704?source=rss",
+      "publishedAt": "2026-08-22T12:28:18.000Z",
+      "xQuery": "事件で浮き彫りに 介護のカスハラ"
     },
     {
-      "time": "18:20",
-      "title": "東京・埼玉で猛烈な雨 災害に注意",
+      "time": "20:24",
+      "title": "爆発で休業のイオン 従業員は不安",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592682?source=rss",
-      "publishedAt": "2026-08-22T09:20:42.000Z",
-      "xQuery": "東京・埼玉で猛烈な雨 災害に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6592697?source=rss",
+      "publishedAt": "2026-08-22T11:24:59.000Z",
+      "xQuery": "爆発で休業のイオン 従業員は不安"
     },
     {
       "time": "21:03",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東京大雨 水吹き上がるマンホール"
     },
     {
-      "time": "19:53",
-      "title": "「盗撮は麻薬」摘発された元教師",
+      "time": "20:52",
+      "title": "架空の党員をAIで作成 立憲苦言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592691?source=rss",
-      "publishedAt": "2026-08-22T10:53:38.000Z",
-      "xQuery": "「盗撮は麻薬」摘発された元教師"
+      "url": "https://news.yahoo.co.jp/pickup/6592700?source=rss",
+      "publishedAt": "2026-08-22T11:52:56.000Z",
+      "xQuery": "架空の党員をAIで作成 立憲苦言"
     }
   ]
 };
