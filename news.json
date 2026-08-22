@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-22T10:07:55.684Z",
+  "updatedAt": "2026-08-22T10:40:50.656Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "16:12",
+        "time": "19:19",
         "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45dXQxdUVNTk1nNFhCZXFRN3dVSzJvdWozaExlOU9BLWtvSjJ4MkpmWFZTSlBsRG12WmF2X2JJZU51OFVXVzhuMHg5U3RmYzRQaXc?oc=5",
-        "publishedAt": "2026-08-22T07:12:20.000Z"
+        "publishedAt": "2026-08-22T10:19:14.000Z"
       },
       {
         "time": "13:00",
@@ -17,25 +17,11 @@
         "publishedAt": "2026-08-22T04:00:00.000Z"
       },
       {
-        "time": "19:25",
-        "title": "トップニュース",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9obVBGOVlKRE9qUkJqN0ktMzg4WXo5blh6LTd1TW53b3VPVmt2NmRLbXBVNXMwVGdHTFFGbmMya2xTOWRaSEtfTEE3cnlZaVRrYzQzbA?oc=5",
-        "publishedAt": "2026-08-21T10:25:20.000Z"
-      },
-      {
         "time": "07:38",
         "title": "MotoGPエンジン再現、エンジニア流の模型作り…“本職”があわてた",
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94clVnamVadTZLam5WNDdoaTNQdTNQRHBRZUhPdHRsTWV6RkVHWlpnUFRrSXo2QzBEQkp0RlVOc2l1VnJLNEszSnhPakdhVE0tZWxhcVR3R1ZrOGMydlJvN3JxYUkxcGs3aS1kTGVvbF9TdkRrM1llNw?oc=5",
         "publishedAt": "2026-08-21T22:38:00.000Z"
-      },
-      {
-        "time": "19:31",
-        "title": "第51回発明大賞 受賞製品・技術のポイント 考案功労賞",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JUE9VWDdZdXdCaDEzWV9lSDl4cnZCTnQzWElZRmFSS0l6bjF0aEhOdHRWMHR6Y1NHekUyVVpXTklqMkZHcXFRVUQ0cHNFcV9KeFVTVkhqTFk?oc=5",
-        "publishedAt": "2026-08-21T10:31:16.000Z"
       },
       {
         "time": "22:00",
@@ -57,6 +43,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592569?source=rss",
         "publishedAt": "2026-08-21T09:26:39.000Z"
+      },
+      {
+        "time": "08:04",
+        "title": "100均業界2トップ 快進撃の理由",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592604?source=rss",
+        "publishedAt": "2026-08-21T23:04:17.000Z"
+      },
+      {
+        "time": "09:36",
+        "title": "駅前に残る「廃墟モール」の盛衰",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592618?source=rss",
+        "publishedAt": "2026-08-22T00:36:25.000Z"
       }
     ],
     "worldHeadlines": [

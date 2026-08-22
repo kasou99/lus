@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T10:07:56.469Z",
+  "updatedAt": "2026-08-22T10:40:51.373Z",
   "items": [
     {
       "time": "18:34",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "国連委員 皇室典範などを批判"
     },
     {
-      "time": "17:07",
-      "title": "「超・老老介護」神経すり減る夫",
+      "time": "18:17",
+      "title": "ミカン畑で火事 全身やけどで死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592673?source=rss",
-      "publishedAt": "2026-08-22T08:07:26.000Z",
-      "xQuery": "「超・老老介護」神経すり減る夫"
+      "url": "https://news.yahoo.co.jp/pickup/6592683?source=rss",
+      "publishedAt": "2026-08-22T09:17:09.000Z",
+      "xQuery": "ミカン畑で火事 全身やけどで死亡"
     }
   ]
 };
