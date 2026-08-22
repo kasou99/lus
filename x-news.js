@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T02:52:30.678Z",
+  "updatedAt": "2026-08-22T03:19:58.268Z",
   "items": [
     {
-      "time": "11:39",
-      "title": "速報 健大高崎が智弁和歌山を逆転",
+      "time": "12:13",
+      "title": "智弁和歌山 5年ぶり4度目の優勝",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592636?source=rss",
-      "publishedAt": "2026-08-22T02:39:40.000Z",
-      "xQuery": "速報 健大高崎が智弁和歌山を逆転"
+      "url": "https://news.yahoo.co.jp/pickup/6592639?source=rss",
+      "publishedAt": "2026-08-22T03:13:20.000Z",
+      "xQuery": "智弁和歌山 5年ぶり4度目の優勝"
     },
     {
       "time": "10:06",
