@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-22T23:07:16.405Z",
+  "updatedAt": "2026-08-22T23:38:52.165Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "19:09",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-08-22T10:09:27.000Z"
-      },
       {
         "time": "23:35",
         "title": "MotoGPエンジン再現、エンジニア流の模型作り…“本職”があわてた",
@@ -45,6 +38,13 @@
         "publishedAt": "2026-08-22T11:24:59.000Z"
       },
       {
+        "time": "08:32",
+        "title": "発火相次ぐ「モバ充」規制強化へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592731?source=rss",
+        "publishedAt": "2026-08-22T23:32:37.000Z"
+      },
+      {
         "time": "10:09",
         "title": "新幹線の通路に椅子 JR東の見解",
         "source": "Yahoo!ニュース",
@@ -75,18 +75,18 @@
         "publishedAt": "2026-08-22T09:34:24.000Z"
       },
       {
+        "time": "08:14",
+        "title": "ウ側に協力 特殊作戦担うロシア人",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592729?source=rss",
+        "publishedAt": "2026-08-22T23:14:12.000Z"
+      },
+      {
         "time": "07:44",
         "title": "タイ南部3県 爆発や放火相次ぐ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592726?source=rss",
         "publishedAt": "2026-08-22T22:44:56.000Z"
-      },
-      {
-        "time": "07:23",
-        "title": "赤根所長 ICC加盟国に支援求める",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592600?source=rss",
-        "publishedAt": "2026-08-21T22:23:53.000Z"
       },
       {
         "time": "17:08",
@@ -126,6 +126,13 @@
         "publishedAt": "2026-08-22T11:24:59.000Z"
       },
       {
+        "time": "08:32",
+        "title": "発火相次ぐ「モバ充」規制強化へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592731?source=rss",
+        "publishedAt": "2026-08-22T23:32:37.000Z"
+      },
+      {
         "time": "10:09",
         "title": "新幹線の通路に椅子 JR東の見解",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592665?source=rss",
         "publishedAt": "2026-08-22T07:27:25.000Z"
-      },
-      {
-        "time": "20:09",
-        "title": "行列回避の「次世代トイレ」続々",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592696?source=rss",
-        "publishedAt": "2026-08-22T11:09:01.000Z"
       }
     ],
     "localHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T23:07:17.167Z",
+  "updatedAt": "2026-08-22T23:38:55.527Z",
   "items": [
     {
       "time": "07:45",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "タイ南部3県 爆発や放火相次ぐ"
     },
     {
-      "time": "02:50",
-      "title": "化学メーカー工場 作業員2人死亡",
+      "time": "07:26",
+      "title": "薬師寺国宝に液体かけた疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592718?source=rss",
-      "publishedAt": "2026-08-22T17:50:21.000Z",
-      "xQuery": "化学メーカー工場 作業員2人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6592721?source=rss",
+      "publishedAt": "2026-08-22T22:26:20.000Z",
+      "xQuery": "薬師寺国宝に液体かけた疑い 逮捕"
     }
   ]
 };
