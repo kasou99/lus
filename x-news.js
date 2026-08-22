@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T05:10:19.760Z",
+  "updatedAt": "2026-08-22T05:41:52.227Z",
   "items": [
     {
-      "time": "12:56",
-      "title": "沖縄 相次ぐ台風による荒天警戒を",
+      "time": "14:10",
+      "title": "国民代表選告示 政権との距離争点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592640?source=rss",
-      "publishedAt": "2026-08-22T03:56:43.000Z",
-      "xQuery": "沖縄 相次ぐ台風による荒天警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6592650?source=rss",
+      "publishedAt": "2026-08-22T05:10:08.000Z",
+      "xQuery": "国民代表選告示 政権との距離争点"
     },
     {
-      "time": "10:14",
-      "title": "TikTokが636億円支払いで和解 米",
+      "time": "14:29",
+      "title": "原爆「包帯の少女」の証言公開へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592620?source=rss",
-      "publishedAt": "2026-08-22T01:14:18.000Z",
-      "xQuery": "TikTokが636億円支払いで和解 米"
+      "url": "https://news.yahoo.co.jp/pickup/6592651?source=rss",
+      "publishedAt": "2026-08-22T05:29:47.000Z",
+      "xQuery": "原爆「包帯の少女」の証言公開へ"
     },
     {
       "time": "13:13",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "特急事故 複数社から集まり作業"
     },
     {
-      "time": "11:29",
-      "title": "長期休み「子どもと出勤」広がる",
+      "time": "13:41",
+      "title": "欧米でもキラキラネーム 日本風も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592633?source=rss",
-      "publishedAt": "2026-08-22T02:29:49.000Z",
-      "xQuery": "長期休み「子どもと出勤」広がる"
+      "url": "https://news.yahoo.co.jp/pickup/6592646?source=rss",
+      "publishedAt": "2026-08-22T04:41:38.000Z",
+      "xQuery": "欧米でもキラキラネーム 日本風も"
     }
   ]
 };
