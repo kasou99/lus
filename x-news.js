@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T16:41:02.109Z",
+  "updatedAt": "2026-08-22T17:07:45.017Z",
   "items": [
+    {
+      "time": "02:04",
+      "title": "地震情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592010?source=rss",
+      "publishedAt": "2026-08-22T17:04:42.000Z",
+      "xQuery": "地震情報"
+    },
     {
       "time": "22:14",
       "title": "東武事故 200m手前で警笛の記録",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592704?source=rss",
       "publishedAt": "2026-08-22T12:28:18.000Z",
       "xQuery": "事件で浮き彫りに 介護のカスハラ"
-    },
-    {
-      "time": "22:32",
-      "title": "父の性的虐待で妊娠 今も母知らず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592710?source=rss",
-      "publishedAt": "2026-08-22T13:32:17.000Z",
-      "xQuery": "父の性的虐待で妊娠 今も母知らず"
     }
   ]
 };
