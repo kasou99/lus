@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T11:07:12.216Z",
+  "updatedAt": "2026-08-22T11:39:02.808Z",
   "items": [
     {
       "time": "18:34",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・埼玉で猛烈な雨 災害に注意"
     },
     {
-      "time": "17:08",
-      "title": "国連委員 皇室典範などを批判",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592674?source=rss",
-      "publishedAt": "2026-08-22T08:08:04.000Z",
-      "xQuery": "国連委員 皇室典範などを批判"
-    },
-    {
-      "time": "18:17",
-      "title": "ミカン畑で火事 全身やけどで死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592683?source=rss",
-      "publishedAt": "2026-08-22T09:17:09.000Z",
-      "xQuery": "ミカン畑で火事 全身やけどで死亡"
-    },
-    {
       "time": "19:54",
       "title": "東京大雨 水吹き上がるマンホール",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592692?source=rss",
       "publishedAt": "2026-08-22T10:54:26.000Z",
       "xQuery": "東京大雨 水吹き上がるマンホール"
+    },
+    {
+      "time": "19:53",
+      "title": "「盗撮は麻薬」摘発された元教師",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592691?source=rss",
+      "publishedAt": "2026-08-22T10:53:38.000Z",
+      "xQuery": "「盗撮は麻薬」摘発された元教師"
+    },
+    {
+      "time": "20:09",
+      "title": "行列回避の「次世代トイレ」続々",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592696?source=rss",
+      "publishedAt": "2026-08-22T11:09:01.000Z",
+      "xQuery": "行列回避の「次世代トイレ」続々"
     }
   ]
 };
