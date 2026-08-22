@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T07:43:06.241Z",
+  "updatedAt": "2026-08-22T08:09:48.390Z",
   "items": [
     {
       "time": "14:51",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "原爆「包帯の少女」の証言公開へ"
     },
     {
-      "time": "14:39",
-      "title": "USJでコースター停止 けが人なし",
+      "time": "16:56",
+      "title": "ウエストナイル熱 欧州で市中感染",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592653?source=rss",
-      "publishedAt": "2026-08-22T05:39:25.000Z",
-      "xQuery": "USJでコースター停止 けが人なし"
+      "url": "https://news.yahoo.co.jp/pickup/6592672?source=rss",
+      "publishedAt": "2026-08-22T07:56:17.000Z",
+      "xQuery": "ウエストナイル熱 欧州で市中感染"
     },
     {
       "time": "15:28",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "55億円で買った山 県なぜ27年放置"
     },
     {
-      "time": "16:27",
-      "title": "「自販機」に逆風 飲料各社が工夫",
+      "time": "16:42",
+      "title": "原因は謎 運動公園のインコ大量死",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592665?source=rss",
-      "publishedAt": "2026-08-22T07:27:25.000Z",
-      "xQuery": "「自販機」に逆風 飲料各社が工夫"
+      "url": "https://news.yahoo.co.jp/pickup/6592670?source=rss",
+      "publishedAt": "2026-08-22T07:42:12.000Z",
+      "xQuery": "原因は謎 運動公園のインコ大量死"
     }
   ]
 };

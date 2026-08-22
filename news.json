@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T07:43:05.411Z",
+  "updatedAt": "2026-08-22T08:09:47.472Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-08-21T08:45:00.000Z"
       },
       {
-        "time": "17:00",
-        "title": "リアルタイムモーションコントローラ市場の未来を読む：2026年以降の業界変化とビジネスチャンス",
-        "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZYy1FZk1sc0Jpclk4Y0JERUxnV1RnSE1ZeHBCTVlJZHpNTzR0a1VfWERaQ1U3SHFLLUJOYUVieW0wejM5RXVaNlFqU1VNa0VFcERr?oc=5",
-        "publishedAt": "2026-08-21T08:00:00.000Z"
-      },
-      {
         "time": "18:55",
         "title": "企業価値 新時代（4）エレファントジャパン 設備メンテナンス・清掃",
         "source": "日刊工業新聞",
@@ -57,6 +50,13 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SUHp0OWRKZzFlUkhCM2EtdDlxT3RrbG4xVzVRbExTcmN0VHE0QTBJQ29YWXpsVTgtaUJBVERrRjhNa2doV0dyT21SdFgxT2dXYlNWOUNkTQ?oc=5",
         "publishedAt": "2026-08-21T13:00:00.000Z"
+      },
+      {
+        "time": "19:25",
+        "title": "トップニュース",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9obVBGOVlKRE9qUkJqN0ktMzg4WXo5blh6LTd1TW53b3VPVmt2NmRLbXBVNXMwVGdHTFFGbmMya2xTOWRaSEtfTEE3cnlZaVRrYzQzbA?oc=5",
+        "publishedAt": "2026-08-21T10:25:20.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,18 +75,18 @@
         "publishedAt": "2026-08-21T22:23:53.000Z"
       },
       {
+        "time": "17:08",
+        "title": "国連委員 皇室典範などを批判",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592674?source=rss",
+        "publishedAt": "2026-08-22T08:08:04.000Z"
+      },
+      {
         "time": "08:24",
         "title": "ウ商業施設に無人機攻撃 15人死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592607?source=rss",
         "publishedAt": "2026-08-21T23:24:28.000Z"
-      },
-      {
-        "time": "16:19",
-        "title": "台湾に進学の日本人増 誘致手厚く",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592542?source=rss",
-        "publishedAt": "2026-08-21T07:19:47.000Z"
       },
       {
         "time": "20:20",
