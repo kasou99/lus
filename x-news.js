@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T10:40:51.373Z",
+  "updatedAt": "2026-08-22T11:07:12.216Z",
   "items": [
     {
       "time": "18:34",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・埼玉で猛烈な雨 災害に注意"
     },
     {
-      "time": "18:00",
-      "title": "東京都の大雨 現地からのSNS投稿",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592680?source=rss",
-      "publishedAt": "2026-08-22T09:00:36.000Z",
-      "xQuery": "東京都の大雨 現地からのSNS投稿"
-    },
-    {
       "time": "17:08",
       "title": "国連委員 皇室典範などを批判",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592683?source=rss",
       "publishedAt": "2026-08-22T09:17:09.000Z",
       "xQuery": "ミカン畑で火事 全身やけどで死亡"
+    },
+    {
+      "time": "19:54",
+      "title": "東京大雨 水吹き上がるマンホール",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592692?source=rss",
+      "publishedAt": "2026-08-22T10:54:26.000Z",
+      "xQuery": "東京大雨 水吹き上がるマンホール"
     }
   ]
 };
