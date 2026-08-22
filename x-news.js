@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T01:32:50.289Z",
+  "updatedAt": "2026-08-22T02:27:39.626Z",
   "items": [
     {
-      "time": "09:51",
-      "title": "速報決勝 智弁和歌山vs.健大高崎",
+      "time": "11:02",
+      "title": "速報 智弁和歌山と健大高崎が接戦",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592616?source=rss",
-      "publishedAt": "2026-08-22T00:51:25.000Z",
-      "xQuery": "速報決勝 智弁和歌山vs.健大高崎"
-    },
-    {
-      "time": "08:24",
-      "title": "ウ商業施設に無人機攻撃 15人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592607?source=rss",
-      "publishedAt": "2026-08-21T23:24:28.000Z",
-      "xQuery": "ウ商業施設に無人機攻撃 15人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6592630?source=rss",
+      "publishedAt": "2026-08-22T02:02:13.000Z",
+      "xQuery": "速報 智弁和歌山と健大高崎が接戦"
     },
     {
       "time": "10:06",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "殺された15歳の愛娘 父が語る記憶"
     },
     {
-      "time": "09:31",
-      "title": "凍結受精卵の「その後」母の決断",
+      "time": "10:54",
+      "title": "「味の素」広報にAI 炎上の本質",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592619?source=rss",
-      "publishedAt": "2026-08-22T00:31:33.000Z",
-      "xQuery": "凍結受精卵の「その後」母の決断"
+      "url": "https://news.yahoo.co.jp/pickup/6592628?source=rss",
+      "publishedAt": "2026-08-22T01:54:18.000Z",
+      "xQuery": "「味の素」広報にAI 炎上の本質"
+    },
+    {
+      "time": "10:09",
+      "title": "新幹線の通路に椅子 JR東の見解",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592622?source=rss",
+      "publishedAt": "2026-08-22T01:09:41.000Z",
+      "xQuery": "新幹線の通路に椅子 JR東の見解"
     }
   ]
 };
