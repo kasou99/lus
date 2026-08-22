@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T02:27:39.626Z",
+  "updatedAt": "2026-08-22T02:52:30.678Z",
   "items": [
     {
-      "time": "11:02",
-      "title": "速報 智弁和歌山と健大高崎が接戦",
+      "time": "11:39",
+      "title": "速報 健大高崎が智弁和歌山を逆転",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592630?source=rss",
-      "publishedAt": "2026-08-22T02:02:13.000Z",
-      "xQuery": "速報 智弁和歌山と健大高崎が接戦"
+      "url": "https://news.yahoo.co.jp/pickup/6592636?source=rss",
+      "publishedAt": "2026-08-22T02:39:40.000Z",
+      "xQuery": "速報 健大高崎が智弁和歌山を逆転"
     },
     {
       "time": "10:06",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "地震で突然失業 肩落とす被災者"
     },
     {
-      "time": "09:18",
-      "title": "殺された15歳の愛娘 父が語る記憶",
+      "time": "10:14",
+      "title": "TikTokが636億円支払いで和解 米",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592613?source=rss",
-      "publishedAt": "2026-08-22T00:18:02.000Z",
-      "xQuery": "殺された15歳の愛娘 父が語る記憶"
+      "url": "https://news.yahoo.co.jp/pickup/6592620?source=rss",
+      "publishedAt": "2026-08-22T01:14:18.000Z",
+      "xQuery": "TikTokが636億円支払いで和解 米"
+    },
+    {
+      "time": "10:56",
+      "title": "日本語学校で無資格者が授業 愛知",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592629?source=rss",
+      "publishedAt": "2026-08-22T01:56:30.000Z",
+      "xQuery": "日本語学校で無資格者が授業 愛知"
     },
     {
       "time": "10:54",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592628?source=rss",
       "publishedAt": "2026-08-22T01:54:18.000Z",
       "xQuery": "「味の素」広報にAI 炎上の本質"
-    },
-    {
-      "time": "10:09",
-      "title": "新幹線の通路に椅子 JR東の見解",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592622?source=rss",
-      "publishedAt": "2026-08-22T01:09:41.000Z",
-      "xQuery": "新幹線の通路に椅子 JR東の見解"
     }
   ]
 };
