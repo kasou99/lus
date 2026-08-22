@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T11:39:02.808Z",
+  "updatedAt": "2026-08-22T12:09:16.209Z",
   "items": [
     {
       "time": "18:34",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・埼玉で猛烈な雨 災害に注意"
     },
     {
+      "time": "21:03",
+      "title": "化学メーカー工場で2人心肺停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592702?source=rss",
+      "publishedAt": "2026-08-22T12:03:35.000Z",
+      "xQuery": "化学メーカー工場で2人心肺停止"
+    },
+    {
       "time": "19:54",
       "title": "東京大雨 水吹き上がるマンホール",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592691?source=rss",
       "publishedAt": "2026-08-22T10:53:38.000Z",
       "xQuery": "「盗撮は麻薬」摘発された元教師"
-    },
-    {
-      "time": "20:09",
-      "title": "行列回避の「次世代トイレ」続々",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592696?source=rss",
-      "publishedAt": "2026-08-22T11:09:01.000Z",
-      "xQuery": "行列回避の「次世代トイレ」続々"
     }
   ]
 };
