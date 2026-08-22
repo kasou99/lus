@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T14:40:05.077Z",
+  "updatedAt": "2026-08-22T15:06:58.642Z",
   "items": [
     {
       "time": "22:14",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "衆院比例に「サンラグ式」案浮上"
     },
     {
-      "time": "22:54",
-      "title": "関東南部で雨 東京駅近くで道に穴",
+      "time": "21:28",
+      "title": "事件で浮き彫りに 介護のカスハラ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592714?source=rss",
-      "publishedAt": "2026-08-22T13:54:11.000Z",
-      "xQuery": "関東南部で雨 東京駅近くで道に穴"
+      "url": "https://news.yahoo.co.jp/pickup/6592704?source=rss",
+      "publishedAt": "2026-08-22T12:28:18.000Z",
+      "xQuery": "事件で浮き彫りに 介護のカスハラ"
+    },
+    {
+      "time": "19:54",
+      "title": "東京大雨 水吹き上がるマンホール",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592692?source=rss",
+      "publishedAt": "2026-08-22T10:54:26.000Z",
+      "xQuery": "東京大雨 水吹き上がるマンホール"
     },
     {
       "time": "22:32",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592710?source=rss",
       "publishedAt": "2026-08-22T13:32:17.000Z",
       "xQuery": "父の性的虐待で妊娠 今も母知らず"
-    },
-    {
-      "time": "20:20",
-      "title": "パワハラNG 警察学校の教官苦悩",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592694?source=rss",
-      "publishedAt": "2026-08-22T11:20:08.000Z",
-      "xQuery": "パワハラNG 警察学校の教官苦悩"
     }
   ]
 };
