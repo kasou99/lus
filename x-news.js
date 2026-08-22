@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T17:39:21.791Z",
+  "updatedAt": "2026-08-22T18:07:51.604Z",
   "items": [
     {
       "time": "02:09",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東南部で雨 東京駅近くで道に穴"
     },
     {
-      "time": "21:28",
-      "title": "事件で浮き彫りに 介護のカスハラ",
+      "time": "02:50",
+      "title": "化学メーカー工場 作業員2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592704?source=rss",
-      "publishedAt": "2026-08-22T12:28:18.000Z",
-      "xQuery": "事件で浮き彫りに 介護のカスハラ"
+      "url": "https://news.yahoo.co.jp/pickup/6592718?source=rss",
+      "publishedAt": "2026-08-22T17:50:21.000Z",
+      "xQuery": "化学メーカー工場 作業員2人死亡"
     }
   ]
 };
