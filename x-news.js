@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T00:20:33.945Z",
+  "updatedAt": "2026-08-22T00:50:21.476Z",
   "items": [
     {
-      "time": "07:24",
-      "title": "千葉豪雨 車両約2500台の撤去完了",
+      "time": "08:24",
+      "title": "ウ商業施設に無人機攻撃 15人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592599?source=rss",
-      "publishedAt": "2026-08-21T22:24:01.000Z",
-      "xQuery": "千葉豪雨 車両約2500台の撤去完了"
+      "url": "https://news.yahoo.co.jp/pickup/6592607?source=rss",
+      "publishedAt": "2026-08-21T23:24:28.000Z",
+      "xQuery": "ウ商業施設に無人機攻撃 15人死亡"
     },
     {
       "time": "08:23",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "九州中心に危険な暑さ 熱中症注意"
     },
     {
-      "time": "07:23",
-      "title": "赤根所長 ICC加盟国に支援求める",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592600?source=rss",
-      "publishedAt": "2026-08-21T22:23:53.000Z",
-      "xQuery": "赤根所長 ICC加盟国に支援求める"
-    },
-    {
       "time": "07:46",
       "title": "4人死亡「見張員はベテラン」証言",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡「見張員はベテラン」証言"
     },
     {
-      "time": "07:54",
-      "title": "若年層で「うつ病」影響が顕在化",
+      "time": "09:18",
+      "title": "殺された15歳の愛娘 父が語る記憶",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592603?source=rss",
-      "publishedAt": "2026-08-21T22:54:42.000Z",
-      "xQuery": "若年層で「うつ病」影響が顕在化"
+      "url": "https://news.yahoo.co.jp/pickup/6592613?source=rss",
+      "publishedAt": "2026-08-22T00:18:02.000Z",
+      "xQuery": "殺された15歳の愛娘 父が語る記憶"
+    },
+    {
+      "time": "09:31",
+      "title": "凍結受精卵の「その後」母の決断",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592619?source=rss",
+      "publishedAt": "2026-08-22T00:31:33.000Z",
+      "xQuery": "凍結受精卵の「その後」母の決断"
     }
   ]
 };
