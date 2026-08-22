@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-22T15:39:13.787Z",
+  "updatedAt": "2026-08-22T16:06:49.338Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "01:04",
-        "title": "工作機械4社、7月受注78％増 輸出好調、国内も伸長 本社調べ",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zRzNyZFBiN3NaQWpYbm9SMDI5d2RmR1RISW4zaWhaQzBmYjc0RzNBeTh0OEhYeDlwc1djZ3E3VGlLMktHaEhOZzFreW5BQlE0eVpWXzRnLTU?oc=5",
-        "publishedAt": "2026-08-21T16:04:07.000Z"
-      },
       {
         "time": "13:00",
         "title": "アルミニウムシャフトの世界市場（2026年～2032年）、市場規模（ギア、プロペラ、ドライブシャフト、その他）・分析レポートを発表",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592665?source=rss",
         "publishedAt": "2026-08-22T07:27:25.000Z"
+      },
+      {
+        "time": "20:09",
+        "title": "行列回避の「次世代トイレ」続々",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592696?source=rss",
+        "publishedAt": "2026-08-22T11:09:01.000Z"
       }
     ],
     "worldHeadlines": [
