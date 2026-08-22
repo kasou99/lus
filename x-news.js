@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T13:42:49.943Z",
+  "updatedAt": "2026-08-22T14:07:03.230Z",
   "items": [
     {
       "time": "22:14",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "衆院比例に「サンラグ式」案浮上"
     },
     {
-      "time": "21:03",
-      "title": "化学メーカー工場で2人心肺停止",
+      "time": "22:54",
+      "title": "関東南部で雨 東京駅近くで道に穴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592702?source=rss",
-      "publishedAt": "2026-08-22T12:03:35.000Z",
-      "xQuery": "化学メーカー工場で2人心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6592714?source=rss",
+      "publishedAt": "2026-08-22T13:54:11.000Z",
+      "xQuery": "関東南部で雨 東京駅近くで道に穴"
     },
     {
       "time": "22:32",
