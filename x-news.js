@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T14:07:03.230Z",
+  "updatedAt": "2026-08-22T14:40:05.077Z",
   "items": [
     {
       "time": "22:14",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592709?source=rss",
       "publishedAt": "2026-08-22T13:14:31.000Z",
       "xQuery": "東武事故 200m手前で警笛の記録"
-    },
-    {
-      "time": "20:24",
-      "title": "爆発で休業のイオン 従業員は不安",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592697?source=rss",
-      "publishedAt": "2026-08-22T11:24:59.000Z",
-      "xQuery": "爆発で休業のイオン 従業員は不安"
     },
     {
       "time": "21:52",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592710?source=rss",
       "publishedAt": "2026-08-22T13:32:17.000Z",
       "xQuery": "父の性的虐待で妊娠 今も母知らず"
+    },
+    {
+      "time": "20:20",
+      "title": "パワハラNG 警察学校の教官苦悩",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592694?source=rss",
+      "publishedAt": "2026-08-22T11:20:08.000Z",
+      "xQuery": "パワハラNG 警察学校の教官苦悩"
     }
   ]
 };
