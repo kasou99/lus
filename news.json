@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-22T22:40:04.854Z",
+  "updatedAt": "2026-08-22T23:07:16.405Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "19:09",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-08-22T10:09:27.000Z"
+      },
       {
         "time": "23:35",
         "title": "MotoGPエンジン再現、エンジニア流の模型作り…“本職”があわてた",
@@ -50,16 +57,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592665?source=rss",
         "publishedAt": "2026-08-22T07:27:25.000Z"
-      },
-      {
-        "time": "20:09",
-        "title": "行列回避の「次世代トイレ」続々",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592696?source=rss",
-        "publishedAt": "2026-08-22T11:09:01.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:45",
+        "title": "カナダ首相 対米報復関税を発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592725?source=rss",
+        "publishedAt": "2026-08-22T22:45:26.000Z"
+      },
       {
         "time": "18:34",
         "title": "米 対カナダ50%追加関税を発動",
@@ -68,11 +75,11 @@
         "publishedAt": "2026-08-22T09:34:24.000Z"
       },
       {
-        "time": "21:33",
-        "title": "赤根所長へ連帯表明の国が相次ぐ",
+        "time": "07:44",
+        "title": "タイ南部3県 爆発や放火相次ぐ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592587?source=rss",
-        "publishedAt": "2026-08-21T12:33:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592726?source=rss",
+        "publishedAt": "2026-08-22T22:44:56.000Z"
       },
       {
         "time": "07:23",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592607?source=rss",
         "publishedAt": "2026-08-21T23:24:28.000Z"
-      },
-      {
-        "time": "19:12",
-        "title": "韓国で「親日派スキャナー」拡大",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592574?source=rss",
-        "publishedAt": "2026-08-21T10:12:19.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:45",
+        "title": "震度5弱 江東区では道路に水流出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592723?source=rss",
+        "publishedAt": "2026-08-22T22:45:17.000Z"
+      },
+      {
         "time": "22:14",
         "title": "東武事故 200m手前で警笛の記録",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592691?source=rss",
         "publishedAt": "2026-08-22T10:53:38.000Z"
-      },
-      {
-        "time": "15:28",
-        "title": "55億円で買った山 県なぜ27年放置",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592658?source=rss",
-        "publishedAt": "2026-08-22T06:28:00.000Z"
       }
     ],
     "subsidyHeadlines": [

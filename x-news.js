@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T22:40:05.725Z",
+  "updatedAt": "2026-08-22T23:07:17.167Z",
   "items": [
     {
-      "time": "02:09",
-      "title": "茨城などで最大震度5弱 津波なし",
+      "time": "07:45",
+      "title": "カナダ首相 対米報復関税を発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592717?source=rss",
-      "publishedAt": "2026-08-22T17:09:58.000Z",
-      "xQuery": "茨城などで最大震度5弱 津波なし"
+      "url": "https://news.yahoo.co.jp/pickup/6592725?source=rss",
+      "publishedAt": "2026-08-22T22:45:26.000Z",
+      "xQuery": "カナダ首相 対米報復関税を発表"
     },
     {
       "time": "07:23",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "震度5弱 関東の鉄道運行情報"
     },
     {
+      "time": "07:45",
+      "title": "震度5弱 江東区では道路に水流出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592723?source=rss",
+      "publishedAt": "2026-08-22T22:45:17.000Z",
+      "xQuery": "震度5弱 江東区では道路に水流出"
+    },
+    {
+      "time": "07:44",
+      "title": "タイ南部3県 爆発や放火相次ぐ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592726?source=rss",
+      "publishedAt": "2026-08-22T22:44:56.000Z",
+      "xQuery": "タイ南部3県 爆発や放火相次ぐ"
+    },
+    {
       "time": "02:50",
       "title": "化学メーカー工場 作業員2人死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592718?source=rss",
       "publishedAt": "2026-08-22T17:50:21.000Z",
       "xQuery": "化学メーカー工場 作業員2人死亡"
-    },
-    {
-      "time": "22:32",
-      "title": "父の性的虐待で妊娠 今も母知らず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592710?source=rss",
-      "publishedAt": "2026-08-22T13:32:17.000Z",
-      "xQuery": "父の性的虐待で妊娠 今も母知らず"
-    },
-    {
-      "time": "22:32",
-      "title": "「狼少年」80歳で死去 スペイン",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592712?source=rss",
-      "publishedAt": "2026-08-22T13:32:02.000Z",
-      "xQuery": "「狼少年」80歳で死去 スペイン"
     }
   ]
 };
