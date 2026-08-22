@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T13:15:17.322Z",
+  "updatedAt": "2026-08-22T13:42:49.943Z",
   "items": [
     {
-      "time": "21:28",
-      "title": "事件で浮き彫りに 介護のカスハラ",
+      "time": "22:14",
+      "title": "東武事故 200m手前で警笛の記録",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592704?source=rss",
-      "publishedAt": "2026-08-22T12:28:18.000Z",
-      "xQuery": "事件で浮き彫りに 介護のカスハラ"
+      "url": "https://news.yahoo.co.jp/pickup/6592709?source=rss",
+      "publishedAt": "2026-08-22T13:14:31.000Z",
+      "xQuery": "東武事故 200m手前で警笛の記録"
     },
     {
       "time": "20:24",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "化学メーカー工場で2人心肺停止"
     },
     {
-      "time": "19:54",
-      "title": "東京大雨 水吹き上がるマンホール",
+      "time": "22:32",
+      "title": "父の性的虐待で妊娠 今も母知らず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592692?source=rss",
-      "publishedAt": "2026-08-22T10:54:26.000Z",
-      "xQuery": "東京大雨 水吹き上がるマンホール"
+      "url": "https://news.yahoo.co.jp/pickup/6592710?source=rss",
+      "publishedAt": "2026-08-22T13:32:17.000Z",
+      "xQuery": "父の性的虐待で妊娠 今も母知らず"
     }
   ]
 };
