@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T05:41:52.227Z",
+  "updatedAt": "2026-08-22T06:11:50.669Z",
   "items": [
     {
-      "time": "14:10",
-      "title": "国民代表選告示 政権との距離争点",
+      "time": "13:13",
+      "title": "千葉豪雨 被災車両巡りトラブル",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592650?source=rss",
-      "publishedAt": "2026-08-22T05:10:08.000Z",
-      "xQuery": "国民代表選告示 政権との距離争点"
+      "url": "https://news.yahoo.co.jp/pickup/6592642?source=rss",
+      "publishedAt": "2026-08-22T04:13:51.000Z",
+      "xQuery": "千葉豪雨 被災車両巡りトラブル"
     },
     {
       "time": "14:29",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "原爆「包帯の少女」の証言公開へ"
     },
     {
-      "time": "13:13",
-      "title": "千葉豪雨 被災車両巡りトラブル",
+      "time": "14:39",
+      "title": "USJでコースター停止 けが人なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592642?source=rss",
-      "publishedAt": "2026-08-22T04:13:51.000Z",
-      "xQuery": "千葉豪雨 被災車両巡りトラブル"
+      "url": "https://news.yahoo.co.jp/pickup/6592653?source=rss",
+      "publishedAt": "2026-08-22T05:39:25.000Z",
+      "xQuery": "USJでコースター停止 けが人なし"
     },
     {
-      "time": "11:48",
-      "title": "特急事故 複数社から集まり作業",
+      "time": "13:35",
+      "title": "果物大量盗難は組織的犯行か 識者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592635?source=rss",
-      "publishedAt": "2026-08-22T02:48:03.000Z",
-      "xQuery": "特急事故 複数社から集まり作業"
+      "url": "https://news.yahoo.co.jp/pickup/6592645?source=rss",
+      "publishedAt": "2026-08-22T04:35:43.000Z",
+      "xQuery": "果物大量盗難は組織的犯行か 識者"
     },
     {
-      "time": "13:41",
-      "title": "欧米でもキラキラネーム 日本風も",
+      "time": "14:37",
+      "title": "食パン投棄 鳥取市の海岸でも?",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592646?source=rss",
-      "publishedAt": "2026-08-22T04:41:38.000Z",
-      "xQuery": "欧米でもキラキラネーム 日本風も"
+      "url": "https://news.yahoo.co.jp/pickup/6592652?source=rss",
+      "publishedAt": "2026-08-22T05:37:11.000Z",
+      "xQuery": "食パン投棄 鳥取市の海岸でも?"
     }
   ]
 };
