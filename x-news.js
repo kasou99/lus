@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T22:40:32.791Z",
+  "updatedAt": "2026-08-23T23:07:14.887Z",
   "items": [
     {
       "time": "07:31",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "全国で厳しい暑さ 天気急変も注意"
     },
     {
-      "time": "06:29",
-      "title": "消費減税巡り財政に不安71% 共同",
+      "time": "07:41",
+      "title": "処理水放出3年 タンク貯蔵量7%減",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592823?source=rss",
-      "publishedAt": "2026-08-23T21:29:41.000Z",
-      "xQuery": "消費減税巡り財政に不安71% 共同"
-    },
-    {
-      "time": "21:24",
-      "title": "豪雨で愛車失った人たち 悲痛な声",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592807?source=rss",
-      "publishedAt": "2026-08-23T12:24:38.000Z",
-      "xQuery": "豪雨で愛車失った人たち 悲痛な声"
+      "url": "https://news.yahoo.co.jp/pickup/6592831?source=rss",
+      "publishedAt": "2026-08-23T22:41:33.000Z",
+      "xQuery": "処理水放出3年 タンク貯蔵量7%減"
     },
     {
       "time": "06:45",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592825?source=rss",
       "publishedAt": "2026-08-23T22:07:43.000Z",
       "xQuery": "水上バイクによる事故 後を絶たず"
+    },
+    {
+      "time": "07:34",
+      "title": "協議離婚サポート 家事ADRに注目",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592830?source=rss",
+      "publishedAt": "2026-08-23T22:34:49.000Z",
+      "xQuery": "協議離婚サポート 家事ADRに注目"
     }
   ]
 };
