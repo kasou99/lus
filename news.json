@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T10:40:54.887Z",
+  "updatedAt": "2026-08-23T11:07:28.659Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "20:02",
+        "title": "関東で震度5弱 未明の揺れに驚き",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592801?source=rss",
+        "publishedAt": "2026-08-23T11:02:25.000Z"
+      },
+      {
         "time": "17:34",
         "title": "地震ボラの暑さ対策を支援 広がる",
         "source": "Yahoo!ニュース",
@@ -156,18 +163,11 @@
         "publishedAt": "2026-08-23T08:34:39.000Z"
       },
       {
-        "time": "07:45",
-        "title": "震度5弱 江東区では道路に水流出",
+        "time": "19:58",
+        "title": "4人死亡 事故までに列車3本が通過",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592723?source=rss",
-        "publishedAt": "2026-08-22T22:45:17.000Z"
-      },
-      {
-        "time": "16:53",
-        "title": "特急事故 安全管理の書類など押収",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592782?source=rss",
-        "publishedAt": "2026-08-23T07:53:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592798?source=rss",
+        "publishedAt": "2026-08-23T10:58:33.000Z"
       },
       {
         "time": "18:34",
