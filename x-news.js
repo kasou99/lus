@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T08:10:21.068Z",
+  "updatedAt": "2026-08-23T08:44:26.609Z",
   "items": [
     {
       "time": "16:53",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "関東で震度5弱 けが人40人超に"
     },
     {
-      "time": "14:13",
-      "title": "女性死亡 ひき逃げ疑い22歳男逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592768?source=rss",
-      "publishedAt": "2026-08-23T05:13:49.000Z",
-      "xQuery": "女性死亡 ひき逃げ疑い22歳男逮捕"
-    },
-    {
       "time": "14:25",
       "title": "スマホ乗っ取られ詐欺SMSのbot化",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592770?source=rss",
       "publishedAt": "2026-08-23T05:25:51.000Z",
       "xQuery": "スマホ乗っ取られ詐欺SMSのbot化"
+    },
+    {
+      "time": "15:05",
+      "title": "年金だけ苦しい 炎天下働くシニア",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592772?source=rss",
+      "publishedAt": "2026-08-23T06:05:12.000Z",
+      "xQuery": "年金だけ苦しい 炎天下働くシニア"
     }
   ]
 };

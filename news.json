@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-23T08:10:20.640Z",
+  "updatedAt": "2026-08-23T08:44:25.807Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "14:21",
+        "time": "17:21",
         "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45dXQxdUVNTk1nNFhCZXFRN3dVSzJvdWozaExlOU9BLWtvSjJ4MkpmWFZTSlBsRG12WmF2X2JJZU51OFVXVzhuMHg5U3RmYzRQaXc?oc=5",
-        "publishedAt": "2026-08-23T05:21:03.000Z"
+        "publishedAt": "2026-08-23T08:21:50.000Z"
       },
       {
         "time": "07:44",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "17:34",
+        "title": "地震ボラの暑さ対策を支援 広がる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592789?source=rss",
+        "publishedAt": "2026-08-23T08:34:39.000Z"
+      },
+      {
         "time": "07:45",
         "title": "震度5弱 江東区では道路に水流出",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592764?source=rss",
         "publishedAt": "2026-08-23T04:51:01.000Z"
-      },
-      {
-        "time": "09:46",
-        "title": "市の食料配布に4万人 動く自治体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592739?source=rss",
-        "publishedAt": "2026-08-23T00:46:45.000Z"
       },
       {
         "time": "13:08",
