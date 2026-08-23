@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T13:16:08.178Z",
+  "updatedAt": "2026-08-23T13:43:14.950Z",
   "items": [
     {
       "time": "20:02",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡 事故までに列車3本が通過"
     },
     {
-      "time": "20:09",
-      "title": "独身と嘘つかれ妊娠 娘のため提訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592803?source=rss",
-      "publishedAt": "2026-08-23T11:09:29.000Z",
-      "xQuery": "独身と嘘つかれ妊娠 娘のため提訴"
-    },
-    {
       "time": "21:24",
       "title": "豪雨で愛車失った人たち 悲痛な声",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592807?source=rss",
       "publishedAt": "2026-08-23T12:24:38.000Z",
       "xQuery": "豪雨で愛車失った人たち 悲痛な声"
+    },
+    {
+      "time": "20:31",
+      "title": "報道写真家の石川文洋さん死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592804?source=rss",
+      "publishedAt": "2026-08-23T11:31:26.000Z",
+      "xQuery": "報道写真家の石川文洋さん死去"
     },
     {
       "time": "20:38",
