@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T13:43:14.950Z",
+  "updatedAt": "2026-08-23T14:08:34.441Z",
   "items": [
     {
-      "time": "20:02",
-      "title": "関東で震度5弱 未明の揺れに驚き",
+      "time": "22:54",
+      "title": "北海道で震度4 津波の心配なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592801?source=rss",
-      "publishedAt": "2026-08-23T11:02:25.000Z",
-      "xQuery": "関東で震度5弱 未明の揺れに驚き"
+      "url": "https://news.yahoo.co.jp/pickup/6592814?source=rss",
+      "publishedAt": "2026-08-23T13:54:06.000Z",
+      "xQuery": "北海道で震度4 津波の心配なし"
     },
     {
       "time": "19:58",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "豪雨で愛車失った人たち 悲痛な声"
     },
     {
-      "time": "20:31",
-      "title": "報道写真家の石川文洋さん死去",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592804?source=rss",
-      "publishedAt": "2026-08-23T11:31:26.000Z",
-      "xQuery": "報道写真家の石川文洋さん死去"
-    },
-    {
       "time": "20:38",
       "title": "戸建て売り入居する人も 団地人気",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592805?source=rss",
       "publishedAt": "2026-08-23T11:38:30.000Z",
       "xQuery": "戸建て売り入居する人も 団地人気"
+    },
+    {
+      "time": "19:34",
+      "title": "夏多い「外耳炎」仕組みと対策は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592796?source=rss",
+      "publishedAt": "2026-08-23T10:34:37.000Z",
+      "xQuery": "夏多い「外耳炎」仕組みと対策は"
     }
   ]
 };

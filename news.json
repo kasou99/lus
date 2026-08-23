@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-23T13:43:13.950Z",
+  "updatedAt": "2026-08-23T14:08:33.820Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "17:21",
-        "title": "金属切削したジョッキや杯、岡鉄工所 技術力アピール、取引先開拓も",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45dXQxdUVNTk1nNFhCZXFRN3dVSzJvdWozaExlOU9BLWtvSjJ4MkpmWFZTSlBsRG12WmF2X2JJZU51OFVXVzhuMHg5U3RmYzRQaXc?oc=5",
-        "publishedAt": "2026-08-23T08:21:50.000Z"
-      },
       {
         "time": "07:44",
         "title": "MotoGPエンジン再現、エンジニア流の模型作り…“本職”があわてた",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592805?source=rss",
         "publishedAt": "2026-08-23T11:38:30.000Z"
+      },
+      {
+        "time": "15:40",
+        "title": "VIVANTロケ地の県 観光振興活発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592774?source=rss",
+        "publishedAt": "2026-08-23T06:40:23.000Z"
       }
     ],
     "worldHeadlines": [
