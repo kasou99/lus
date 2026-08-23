@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T07:16:43.776Z",
+  "updatedAt": "2026-08-23T07:43:42.471Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-22T11:24:59.000Z"
       },
       {
+        "time": "16:32",
+        "title": "就活で障害伝えず76% 不利益懸念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592777?source=rss",
+        "publishedAt": "2026-08-23T07:32:51.000Z"
+      },
+      {
         "time": "15:05",
         "title": "年金だけ苦しい 炎天下働くシニア",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592772?source=rss",
         "publishedAt": "2026-08-23T06:05:12.000Z"
-      },
-      {
-        "time": "16:27",
-        "title": "「自販機」に逆風 飲料各社が工夫",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592665?source=rss",
-        "publishedAt": "2026-08-22T07:27:25.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,18 +82,18 @@
         "publishedAt": "2026-08-22T23:14:12.000Z"
       },
       {
+        "time": "16:38",
+        "title": "米地裁 移民ビザ発給停止を無効化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592780?source=rss",
+        "publishedAt": "2026-08-23T07:38:17.000Z"
+      },
+      {
         "time": "11:40",
         "title": "16歳で意に沿わぬ結婚 残留2世",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592752?source=rss",
         "publishedAt": "2026-08-23T02:40:28.000Z"
-      },
-      {
-        "time": "07:44",
-        "title": "タイ南部3県 爆発や放火相次ぐ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592726?source=rss",
-        "publishedAt": "2026-08-22T22:44:56.000Z"
       },
       {
         "time": "10:12",
@@ -126,6 +126,13 @@
         "publishedAt": "2026-08-22T11:24:59.000Z"
       },
       {
+        "time": "16:32",
+        "title": "就活で障害伝えず76% 不利益懸念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592777?source=rss",
+        "publishedAt": "2026-08-23T07:32:51.000Z"
+      },
+      {
         "time": "15:05",
         "title": "年金だけ苦しい 炎天下働くシニア",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592665?source=rss",
         "publishedAt": "2026-08-22T07:27:25.000Z"
-      },
-      {
-        "time": "20:09",
-        "title": "行列回避の「次世代トイレ」続々",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592696?source=rss",
-        "publishedAt": "2026-08-22T11:09:01.000Z"
       }
     ],
     "localHeadlines": [
