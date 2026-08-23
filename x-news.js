@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T04:17:07.831Z",
+  "updatedAt": "2026-08-23T04:46:29.747Z",
   "items": [
     {
       "time": "09:26",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592736?source=rss",
       "publishedAt": "2026-08-23T00:26:14.000Z",
       "xQuery": "沖縄知事選 県政奪還へ自民総力戦"
-    },
-    {
-      "time": "10:39",
-      "title": "文科省 来年度科研費を倍増要求へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592747?source=rss",
-      "publishedAt": "2026-08-23T01:39:32.000Z",
-      "xQuery": "文科省 来年度科研費を倍増要求へ"
     },
     {
       "time": "10:12",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592755?source=rss",
       "publishedAt": "2026-08-23T03:16:13.000Z",
       "xQuery": "月10万円→30万円 都内老人ホーム"
+    },
+    {
+      "time": "13:18",
+      "title": "中国でロボ運動会 続々と人類超え",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592760?source=rss",
+      "publishedAt": "2026-08-23T04:18:26.000Z",
+      "xQuery": "中国でロボ運動会 続々と人類超え"
     }
   ]
 };
