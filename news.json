@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-23T16:42:03.113Z",
+  "updatedAt": "2026-08-23T17:08:09.124Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "00:23",
+        "title": "工作機械受注、6月52％増 アジア・北米伸長 単月初の2000億円超",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SNWRvb0s5MVhvZE5ySUpJajZ3RE13VVIzTTdablBUNGdmd3MtbWNMVG4zM1JWZ2NYa2RyTmQwQkQ3X2diVTFkR3IyZ3dPT2xCdXF2TWVTOTMzNFRQUldiRVRVdU96U0tPOUdWTW5oUQ?oc=5",
+        "publishedAt": "2026-08-23T15:23:09.000Z"
+      },
+      {
+        "time": "00:36",
+        "title": "フエスト、衛生環境向け駆動システム 高精度制御と両立",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rc3c4N3pHVzdEYUhBU3dTeXBFWDZ4Q250QXFoWWdmLUlaRGRlMU9oU0hIbk9WdmNYWDVNd2c1RnhHZ3o0cF9rQU9qQlFpSHVCWFhac2JyUGEyYzF5RDNHeGVKQ1BkY2RuSkVicGtOZw?oc=5",
+        "publishedAt": "2026-08-23T15:36:55.000Z"
+      },
       {
         "time": "07:44",
         "title": "MotoGPエンジン再現、エンジニア流の模型作り…“本職”があわてた",
@@ -43,20 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592772?source=rss",
         "publishedAt": "2026-08-23T06:05:12.000Z"
-      },
-      {
-        "time": "20:38",
-        "title": "戸建て売り入居する人も 団地人気",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592805?source=rss",
-        "publishedAt": "2026-08-23T11:38:30.000Z"
-      },
-      {
-        "time": "15:40",
-        "title": "VIVANTロケ地の県 観光振興活発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592774?source=rss",
-        "publishedAt": "2026-08-23T06:40:23.000Z"
       }
     ],
     "worldHeadlines": [
