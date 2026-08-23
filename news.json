@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T20:06:39.451Z",
+  "updatedAt": "2026-08-23T20:40:45.376Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SNWRvb0s5MVhvZE5ySUpJajZ3RE13VVIzTTdablBUNGdmd3MtbWNMVG4zM1JWZ2NYa2RyTmQwQkQ3X2diVTFkR3IyZ3dPT2xCdXF2TWVTOTMzNFRQUldiRVRVdU96U0tPOUdWTW5oUQ?oc=5",
         "publishedAt": "2026-08-23T15:23:09.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "勤務間インターバル、社員を守る ８年前に「１２時間」導入、ＤＭＧ森精機・森雅彦社長",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16MGcwc0lsYy16MFJzSklzNjMxYXBpemZWdnlGSGRCTkJtWWJ4Um03VEVjUHZnUm9MMUl0THd4YzZNSFBvZG9YZGxWaHFpbUJCS0tGeVY3Nk5VcWNT?oc=5",
+        "publishedAt": "2026-08-23T20:00:00.000Z"
       },
       {
         "time": "00:36",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592793?source=rss",
         "publishedAt": "2026-08-23T09:28:39.000Z"
-      },
-      {
-        "time": "15:05",
-        "title": "年金だけ苦しい 炎天下働くシニア",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592772?source=rss",
-        "publishedAt": "2026-08-23T06:05:12.000Z"
       }
     ],
     "worldHeadlines": [
