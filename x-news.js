@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T23:07:14.887Z",
+  "updatedAt": "2026-08-23T23:38:43.119Z",
   "items": [
     {
-      "time": "07:31",
-      "title": "全国で厳しい暑さ 天気急変も注意",
+      "time": "08:05",
+      "title": "台風18号が南西諸島に接近へ 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592828?source=rss",
-      "publishedAt": "2026-08-23T22:31:23.000Z",
-      "xQuery": "全国で厳しい暑さ 天気急変も注意"
+      "url": "https://news.yahoo.co.jp/pickup/6592837?source=rss",
+      "publishedAt": "2026-08-23T23:05:50.000Z",
+      "xQuery": "台風18号が南西諸島に接近へ 警戒"
     },
     {
       "time": "07:41",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "処理水放出3年 タンク貯蔵量7%減"
     },
     {
+      "time": "08:27",
+      "title": "外国人のレンタカー事故多発 実態",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592839?source=rss",
+      "publishedAt": "2026-08-23T23:27:30.000Z",
+      "xQuery": "外国人のレンタカー事故多発 実態"
+    },
+    {
       "time": "06:45",
       "title": "車と衝突 バイクの18歳高校生死亡",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車と衝突 バイクの18歳高校生死亡"
     },
     {
-      "time": "07:07",
-      "title": "水上バイクによる事故 後を絶たず",
+      "time": "07:59",
+      "title": "「うるう時間」27年5月導入へ議論",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592825?source=rss",
-      "publishedAt": "2026-08-23T22:07:43.000Z",
-      "xQuery": "水上バイクによる事故 後を絶たず"
-    },
-    {
-      "time": "07:34",
-      "title": "協議離婚サポート 家事ADRに注目",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592830?source=rss",
-      "publishedAt": "2026-08-23T22:34:49.000Z",
-      "xQuery": "協議離婚サポート 家事ADRに注目"
+      "url": "https://news.yahoo.co.jp/pickup/6592835?source=rss",
+      "publishedAt": "2026-08-23T22:59:27.000Z",
+      "xQuery": "「うるう時間」27年5月導入へ議論"
     }
   ]
 };
