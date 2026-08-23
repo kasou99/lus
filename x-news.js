@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T21:07:09.102Z",
+  "updatedAt": "2026-08-23T21:39:23.732Z",
   "items": [
     {
       "time": "23:50",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡 事故までに列車3本が通過"
     },
     {
+      "time": "06:29",
+      "title": "消費減税巡り財政に不安71% 共同",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592823?source=rss",
+      "publishedAt": "2026-08-23T21:29:41.000Z",
+      "xQuery": "消費減税巡り財政に不安71% 共同"
+    },
+    {
       "time": "21:24",
       "title": "豪雨で愛車失った人たち 悲痛な声",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592807?source=rss",
       "publishedAt": "2026-08-23T12:24:38.000Z",
       "xQuery": "豪雨で愛車失った人たち 悲痛な声"
-    },
-    {
-      "time": "23:39",
-      "title": "熊本地震 窯元が葛藤の中で再出発",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592819?source=rss",
-      "publishedAt": "2026-08-23T14:39:04.000Z",
-      "xQuery": "熊本地震 窯元が葛藤の中で再出発"
     },
     {
       "time": "20:38",
