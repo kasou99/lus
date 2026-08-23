@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T09:41:49.308Z",
+  "updatedAt": "2026-08-23T10:08:03.749Z",
   "items": [
     {
       "time": "17:34",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592789?source=rss",
       "publishedAt": "2026-08-23T08:34:39.000Z",
       "xQuery": "地震ボラの暑さ対策を支援 広がる"
+    },
+    {
+      "time": "18:17",
+      "title": "「怠けと違う」文字書けない悩み",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592778?source=rss",
+      "publishedAt": "2026-08-23T09:17:25.000Z",
+      "xQuery": "「怠けと違う」文字書けない悩み"
     },
     {
       "time": "16:36",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "横浜市長巡り市議 発達障害と投稿"
     },
     {
-      "time": "15:55",
-      "title": "「自分は臭い」思い込み 心理解説",
+      "time": "18:28",
+      "title": "ソニー 中国「TCL」と手を組む訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592775?source=rss",
-      "publishedAt": "2026-08-23T06:55:56.000Z",
-      "xQuery": "「自分は臭い」思い込み 心理解説"
-    },
-    {
-      "time": "15:40",
-      "title": "VIVANTロケ地の県 観光振興活発",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592774?source=rss",
-      "publishedAt": "2026-08-23T06:40:23.000Z",
-      "xQuery": "VIVANTロケ地の県 観光振興活発"
+      "url": "https://news.yahoo.co.jp/pickup/6592793?source=rss",
+      "publishedAt": "2026-08-23T09:28:39.000Z",
+      "xQuery": "ソニー 中国「TCL」と手を組む訳"
     }
   ]
 };
