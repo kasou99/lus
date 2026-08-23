@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T05:42:38.937Z",
+  "updatedAt": "2026-08-23T06:13:23.927Z",
   "items": [
     {
-      "time": "09:26",
-      "title": "沖縄知事選 県政奪還へ自民総力戦",
+      "time": "11:40",
+      "title": "16歳で意に沿わぬ結婚 残留2世",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592736?source=rss",
-      "publishedAt": "2026-08-23T00:26:14.000Z",
-      "xQuery": "沖縄知事選 県政奪還へ自民総力戦"
+      "url": "https://news.yahoo.co.jp/pickup/6592752?source=rss",
+      "publishedAt": "2026-08-23T02:40:28.000Z",
+      "xQuery": "16歳で意に沿わぬ結婚 残留2世"
     },
     {
       "time": "13:38",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東-九州 あす以降も厳しい暑さ"
     },
     {
-      "time": "12:02",
-      "title": "関東で震度5弱 けが人30人超",
+      "time": "14:25",
+      "title": "スマホ乗っ取られ詐欺SMSのbot化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592754?source=rss",
-      "publishedAt": "2026-08-23T03:02:19.000Z",
-      "xQuery": "関東で震度5弱 けが人30人超"
+      "url": "https://news.yahoo.co.jp/pickup/6592770?source=rss",
+      "publishedAt": "2026-08-23T05:25:51.000Z",
+      "xQuery": "スマホ乗っ取られ詐欺SMSのbot化"
     },
     {
       "time": "13:51",

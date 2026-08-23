@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T05:42:38.438Z",
+  "updatedAt": "2026-08-23T06:13:23.168Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-08-22T22:44:10.000Z"
       },
       {
-        "time": "07:23",
-        "title": "震度5弱 関東の鉄道運行情報",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592722?source=rss",
-        "publishedAt": "2026-08-22T22:23:25.000Z"
+        "time": "19:09",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-08-22T10:09:27.000Z"
       },
       {
         "time": "08:54",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-22T11:24:59.000Z"
       },
       {
+        "time": "15:05",
+        "title": "年金だけ苦しい 炎天下働くシニア",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592772?source=rss",
+        "publishedAt": "2026-08-23T06:05:12.000Z"
+      },
+      {
         "time": "10:09",
         "title": "新幹線の通路に椅子 JR東の見解",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592622?source=rss",
         "publishedAt": "2026-08-22T01:09:41.000Z"
-      },
-      {
-        "time": "16:27",
-        "title": "「自販機」に逆風 飲料各社が工夫",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592665?source=rss",
-        "publishedAt": "2026-08-22T07:27:25.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "07:23",
-        "title": "震度5弱 関東の鉄道運行情報",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592722?source=rss",
-        "publishedAt": "2026-08-22T22:23:25.000Z"
-      },
-      {
         "time": "08:54",
         "title": "2000円台の新米 昨年産と価格逆転",
         "source": "Yahoo!ニュース",
@@ -131,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592697?source=rss",
         "publishedAt": "2026-08-22T11:24:59.000Z"
+      },
+      {
+        "time": "15:05",
+        "title": "年金だけ苦しい 炎天下働くシニア",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592772?source=rss",
+        "publishedAt": "2026-08-23T06:05:12.000Z"
       },
       {
         "time": "10:09",
