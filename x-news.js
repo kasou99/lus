@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T22:06:33.324Z",
+  "updatedAt": "2026-08-23T22:40:32.791Z",
   "items": [
     {
-      "time": "23:50",
-      "title": "原油輸送確保 首脳外交求める声も",
+      "time": "07:31",
+      "title": "全国で厳しい暑さ 天気急変も注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592818?source=rss",
-      "publishedAt": "2026-08-23T14:50:43.000Z",
-      "xQuery": "原油輸送確保 首脳外交求める声も"
+      "url": "https://news.yahoo.co.jp/pickup/6592828?source=rss",
+      "publishedAt": "2026-08-23T22:31:23.000Z",
+      "xQuery": "全国で厳しい暑さ 天気急変も注意"
     },
     {
       "time": "06:29",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車と衝突 バイクの18歳高校生死亡"
     },
     {
-      "time": "20:38",
-      "title": "戸建て売り入居する人も 団地人気",
+      "time": "07:07",
+      "title": "水上バイクによる事故 後を絶たず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592805?source=rss",
-      "publishedAt": "2026-08-23T11:38:30.000Z",
-      "xQuery": "戸建て売り入居する人も 団地人気"
+      "url": "https://news.yahoo.co.jp/pickup/6592825?source=rss",
+      "publishedAt": "2026-08-23T22:07:43.000Z",
+      "xQuery": "水上バイクによる事故 後を絶たず"
     }
   ]
 };
