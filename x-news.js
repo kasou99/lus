@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T03:49:04.549Z",
+  "updatedAt": "2026-08-23T04:17:07.831Z",
   "items": [
+    {
+      "time": "09:26",
+      "title": "沖縄知事選 県政奪還へ自民総力戦",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592736?source=rss",
+      "publishedAt": "2026-08-23T00:26:14.000Z",
+      "xQuery": "沖縄知事選 県政奪還へ自民総力戦"
+    },
     {
       "time": "10:39",
       "title": "文科省 来年度科研費を倍増要求へ",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592747?source=rss",
       "publishedAt": "2026-08-23T01:39:32.000Z",
       "xQuery": "文科省 来年度科研費を倍増要求へ"
-    },
-    {
-      "time": "09:46",
-      "title": "市の食料配布に4万人 動く自治体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592739?source=rss",
-      "publishedAt": "2026-08-23T00:46:45.000Z",
-      "xQuery": "市の食料配布に4万人 動く自治体"
     },
     {
       "time": "10:12",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "伊首相 トランプ氏との確執吐露"
     },
     {
-      "time": "12:16",
-      "title": "月10万円→30万円 都内老人ホーム",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592755?source=rss",
-      "publishedAt": "2026-08-23T03:16:13.000Z",
-      "xQuery": "月10万円→30万円 都内老人ホーム"
-    },
-    {
       "time": "12:02",
       "title": "関東で震度5弱 けが人30人超",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592754?source=rss",
       "publishedAt": "2026-08-23T03:02:19.000Z",
       "xQuery": "関東で震度5弱 けが人30人超"
+    },
+    {
+      "time": "12:16",
+      "title": "月10万円→30万円 都内老人ホーム",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592755?source=rss",
+      "publishedAt": "2026-08-23T03:16:13.000Z",
+      "xQuery": "月10万円→30万円 都内老人ホーム"
     }
   ]
 };
