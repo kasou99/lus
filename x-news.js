@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T01:33:26.938Z",
+  "updatedAt": "2026-08-23T02:33:37.326Z",
   "items": [
     {
       "time": "08:14",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡事故 東武建設を家宅捜索"
     },
     {
-      "time": "08:32",
-      "title": "発火相次ぐ「モバ充」規制強化へ",
+      "time": "09:46",
+      "title": "市の食料配布に4万人 動く自治体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592731?source=rss",
-      "publishedAt": "2026-08-22T23:32:37.000Z",
-      "xQuery": "発火相次ぐ「モバ充」規制強化へ"
+      "url": "https://news.yahoo.co.jp/pickup/6592739?source=rss",
+      "publishedAt": "2026-08-23T00:46:45.000Z",
+      "xQuery": "市の食料配布に4万人 動く自治体"
     },
     {
       "time": "09:54",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東で震度5弱 けが人相次ぐ"
     },
     {
-      "time": "07:23",
-      "title": "震度5弱 関東の鉄道運行情報",
+      "time": "08:54",
+      "title": "2000円台の新米 昨年産と価格逆転",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592722?source=rss",
-      "publishedAt": "2026-08-22T22:23:25.000Z",
-      "xQuery": "震度5弱 関東の鉄道運行情報"
+      "url": "https://news.yahoo.co.jp/pickup/6592734?source=rss",
+      "publishedAt": "2026-08-22T23:54:01.000Z",
+      "xQuery": "2000円台の新米 昨年産と価格逆転"
     }
   ]
 };
