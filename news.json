@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T06:13:23.168Z",
+  "updatedAt": "2026-08-23T06:47:50.142Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-08-23T06:05:12.000Z"
       },
       {
-        "time": "10:09",
-        "title": "新幹線の通路に椅子 JR東の見解",
+        "time": "16:27",
+        "title": "「自販機」に逆風 飲料各社が工夫",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592622?source=rss",
-        "publishedAt": "2026-08-22T01:09:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592665?source=rss",
+        "publishedAt": "2026-08-22T07:27:25.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-08-23T06:05:12.000Z"
       },
       {
-        "time": "10:09",
-        "title": "新幹線の通路に椅子 JR東の見解",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592622?source=rss",
-        "publishedAt": "2026-08-22T01:09:41.000Z"
-      },
-      {
         "time": "16:27",
         "title": "「自販機」に逆風 飲料各社が工夫",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592665?source=rss",
         "publishedAt": "2026-08-22T07:27:25.000Z"
+      },
+      {
+        "time": "20:09",
+        "title": "行列回避の「次世代トイレ」続々",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592696?source=rss",
+        "publishedAt": "2026-08-22T11:09:01.000Z"
       }
     ],
     "localHeadlines": [
