@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T11:38:59.350Z",
+  "updatedAt": "2026-08-23T12:10:21.906Z",
   "items": [
     {
       "time": "20:05",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "関東で震度5弱 未明の揺れに驚き"
     },
     {
+      "time": "19:58",
+      "title": "4人死亡 事故までに列車3本が通過",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592798?source=rss",
+      "publishedAt": "2026-08-23T10:58:33.000Z",
+      "xQuery": "4人死亡 事故までに列車3本が通過"
+    },
+    {
       "time": "20:09",
       "title": "独身と嘘つかれ妊娠 娘のため提訴",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "独身と嘘つかれ妊娠 娘のため提訴"
     },
     {
-      "time": "18:28",
-      "title": "ソニー 中国「TCL」と手を組む訳",
+      "time": "16:32",
+      "title": "就活で障害伝えず76% 不利益懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592793?source=rss",
-      "publishedAt": "2026-08-23T09:28:39.000Z",
-      "xQuery": "ソニー 中国「TCL」と手を組む訳"
-    },
-    {
-      "time": "18:34",
-      "title": "横浜市長巡り市議 発達障害と投稿",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592792?source=rss",
-      "publishedAt": "2026-08-23T09:34:54.000Z",
-      "xQuery": "横浜市長巡り市議 発達障害と投稿"
+      "url": "https://news.yahoo.co.jp/pickup/6592777?source=rss",
+      "publishedAt": "2026-08-23T07:32:51.000Z",
+      "xQuery": "就活で障害伝えず76% 不利益懸念"
     }
   ]
 };
