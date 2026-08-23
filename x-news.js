@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T03:24:42.051Z",
+  "updatedAt": "2026-08-23T03:49:04.549Z",
   "items": [
     {
       "time": "10:39",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "文科省 来年度科研費を倍増要求へ"
     },
     {
-      "time": "08:14",
-      "title": "ウ側に協力 特殊作戦担うロシア人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592729?source=rss",
-      "publishedAt": "2026-08-22T23:14:12.000Z",
-      "xQuery": "ウ側に協力 特殊作戦担うロシア人"
-    },
-    {
       "time": "09:46",
       "title": "市の食料配布に4万人 動く自治体",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592739?source=rss",
       "publishedAt": "2026-08-23T00:46:45.000Z",
       "xQuery": "市の食料配布に4万人 動く自治体"
+    },
+    {
+      "time": "10:12",
+      "title": "伊首相 トランプ氏との確執吐露",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592742?source=rss",
+      "publishedAt": "2026-08-23T01:12:26.000Z",
+      "xQuery": "伊首相 トランプ氏との確執吐露"
     },
     {
       "time": "12:16",
