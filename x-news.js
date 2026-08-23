@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T14:08:34.441Z",
+  "updatedAt": "2026-08-23T14:40:41.159Z",
   "items": [
     {
       "time": "22:54",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "戸建て売り入居する人も 団地人気"
     },
     {
-      "time": "19:34",
-      "title": "夏多い「外耳炎」仕組みと対策は",
+      "time": "22:20",
+      "title": "死んだペットを弔う方法 法的見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592796?source=rss",
-      "publishedAt": "2026-08-23T10:34:37.000Z",
-      "xQuery": "夏多い「外耳炎」仕組みと対策は"
+      "url": "https://news.yahoo.co.jp/pickup/6592811?source=rss",
+      "publishedAt": "2026-08-23T13:20:05.000Z",
+      "xQuery": "死んだペットを弔う方法 法的見解"
     }
   ]
 };
