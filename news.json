@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-23T16:07:38.951Z",
+  "updatedAt": "2026-08-23T16:42:03.113Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "00:23",
-        "title": "工作機械受注、6月52％増 アジア・北米伸長 単月初の2000億円超",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SNWRvb0s5MVhvZE5ySUpJajZ3RE13VVIzTTdablBUNGdmd3MtbWNMVG4zM1JWZ2NYa2RyTmQwQkQ3X2diVTFkR3IyZ3dPT2xCdXF2TWVTOTMzNFRQUldiRVRVdU96U0tPOUdWTW5oUQ?oc=5",
-        "publishedAt": "2026-08-23T15:23:09.000Z"
-      },
       {
         "time": "07:44",
         "title": "MotoGPエンジン再現、エンジニア流の模型作り…“本職”があわてた",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592805?source=rss",
         "publishedAt": "2026-08-23T11:38:30.000Z"
+      },
+      {
+        "time": "15:40",
+        "title": "VIVANTロケ地の県 観光振興活発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592774?source=rss",
+        "publishedAt": "2026-08-23T06:40:23.000Z"
       }
     ],
     "worldHeadlines": [
