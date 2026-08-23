@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T04:46:29.747Z",
+  "updatedAt": "2026-08-23T05:12:06.911Z",
   "items": [
     {
       "time": "09:26",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "沖縄知事選 県政奪還へ自民総力戦"
     },
     {
-      "time": "10:12",
-      "title": "伊首相 トランプ氏との確執吐露",
+      "time": "13:38",
+      "title": "関東-九州 あす以降も厳しい暑さ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592742?source=rss",
-      "publishedAt": "2026-08-23T01:12:26.000Z",
-      "xQuery": "伊首相 トランプ氏との確執吐露"
+      "url": "https://news.yahoo.co.jp/pickup/6592763?source=rss",
+      "publishedAt": "2026-08-23T04:38:46.000Z",
+      "xQuery": "関東-九州 あす以降も厳しい暑さ"
     },
     {
       "time": "12:02",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "関東で震度5弱 けが人30人超"
     },
     {
+      "time": "13:51",
+      "title": "小5息子殺され加害者と向き合う父",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592764?source=rss",
+      "publishedAt": "2026-08-23T04:51:01.000Z",
+      "xQuery": "小5息子殺され加害者と向き合う父"
+    },
+    {
       "time": "12:16",
       "title": "月10万円→30万円 都内老人ホーム",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592755?source=rss",
       "publishedAt": "2026-08-23T03:16:13.000Z",
       "xQuery": "月10万円→30万円 都内老人ホーム"
-    },
-    {
-      "time": "13:18",
-      "title": "中国でロボ運動会 続々と人類超え",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592760?source=rss",
-      "publishedAt": "2026-08-23T04:18:26.000Z",
-      "xQuery": "中国でロボ運動会 続々と人類超え"
     }
   ]
 };
