@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-22T23:38:55.527Z",
+  "updatedAt": "2026-08-23T00:22:38.576Z",
   "items": [
+    {
+      "time": "08:32",
+      "title": "発火相次ぐ「モバ充」規制強化へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592731?source=rss",
+      "publishedAt": "2026-08-22T23:32:37.000Z",
+      "xQuery": "発火相次ぐ「モバ充」規制強化へ"
+    },
     {
       "time": "07:45",
       "title": "カナダ首相 対米報復関税を発表",
@@ -8,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592725?source=rss",
       "publishedAt": "2026-08-22T22:45:26.000Z",
       "xQuery": "カナダ首相 対米報復関税を発表"
+    },
+    {
+      "time": "08:19",
+      "title": "台風20号 八重山地方で大雨の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592730?source=rss",
+      "publishedAt": "2026-08-22T23:19:34.000Z",
+      "xQuery": "台風20号 八重山地方で大雨の恐れ"
     },
     {
       "time": "07:23",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592723?source=rss",
       "publishedAt": "2026-08-22T22:45:17.000Z",
       "xQuery": "震度5弱 江東区では道路に水流出"
-    },
-    {
-      "time": "07:44",
-      "title": "タイ南部3県 爆発や放火相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592726?source=rss",
-      "publishedAt": "2026-08-22T22:44:56.000Z",
-      "xQuery": "タイ南部3県 爆発や放火相次ぐ"
-    },
-    {
-      "time": "07:26",
-      "title": "薬師寺国宝に液体かけた疑い 逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592721?source=rss",
-      "publishedAt": "2026-08-22T22:26:20.000Z",
-      "xQuery": "薬師寺国宝に液体かけた疑い 逮捕"
     }
   ]
 };
