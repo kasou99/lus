@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T00:50:12.561Z",
+  "updatedAt": "2026-08-23T01:33:26.938Z",
   "items": [
     {
-      "time": "08:32",
-      "title": "発火相次ぐ「モバ充」規制強化へ",
+      "time": "08:14",
+      "title": "ウ側に協力 特殊作戦担うロシア人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592731?source=rss",
-      "publishedAt": "2026-08-22T23:32:37.000Z",
-      "xQuery": "発火相次ぐ「モバ充」規制強化へ"
+      "url": "https://news.yahoo.co.jp/pickup/6592729?source=rss",
+      "publishedAt": "2026-08-22T23:14:12.000Z",
+      "xQuery": "ウ側に協力 特殊作戦担うロシア人"
     },
     {
       "time": "09:41",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡事故 東武建設を家宅捜索"
     },
     {
-      "time": "08:19",
-      "title": "台風20号 八重山地方で大雨の恐れ",
+      "time": "08:32",
+      "title": "発火相次ぐ「モバ充」規制強化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592730?source=rss",
-      "publishedAt": "2026-08-22T23:19:34.000Z",
-      "xQuery": "台風20号 八重山地方で大雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6592731?source=rss",
+      "publishedAt": "2026-08-22T23:32:37.000Z",
+      "xQuery": "発火相次ぐ「モバ充」規制強化へ"
     },
     {
-      "time": "08:54",
-      "title": "2000円台の新米 昨年産と価格逆転",
+      "time": "09:54",
+      "title": "関東で震度5弱 けが人相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592734?source=rss",
-      "publishedAt": "2026-08-22T23:54:01.000Z",
-      "xQuery": "2000円台の新米 昨年産と価格逆転"
+      "url": "https://news.yahoo.co.jp/pickup/6592740?source=rss",
+      "publishedAt": "2026-08-23T00:54:18.000Z",
+      "xQuery": "関東で震度5弱 けが人相次ぐ"
     },
     {
       "time": "07:23",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T00:50:11.604Z",
+  "updatedAt": "2026-08-23T01:33:26.067Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,18 +89,18 @@
         "publishedAt": "2026-08-22T22:44:56.000Z"
       },
       {
+        "time": "10:12",
+        "title": "伊首相 トランプ氏との確執吐露",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592742?source=rss",
+        "publishedAt": "2026-08-23T01:12:26.000Z"
+      },
+      {
         "time": "17:08",
         "title": "国連委員 皇室典範などを批判",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592674?source=rss",
         "publishedAt": "2026-08-22T08:08:04.000Z"
-      },
-      {
-        "time": "08:24",
-        "title": "ウ商業施設に無人機攻撃 15人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592607?source=rss",
-        "publishedAt": "2026-08-21T23:24:28.000Z"
       }
     ],
     "economyHeadlines": [
