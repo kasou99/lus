@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T02:33:37.326Z",
+  "updatedAt": "2026-08-23T03:24:42.051Z",
   "items": [
+    {
+      "time": "10:39",
+      "title": "文科省 来年度科研費を倍増要求へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592747?source=rss",
+      "publishedAt": "2026-08-23T01:39:32.000Z",
+      "xQuery": "文科省 来年度科研費を倍増要求へ"
+    },
     {
       "time": "08:14",
       "title": "ウ側に協力 特殊作戦担うロシア人",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592729?source=rss",
       "publishedAt": "2026-08-22T23:14:12.000Z",
       "xQuery": "ウ側に協力 特殊作戦担うロシア人"
-    },
-    {
-      "time": "09:41",
-      "title": "4人死亡事故 東武建設を家宅捜索",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592737?source=rss",
-      "publishedAt": "2026-08-23T00:41:50.000Z",
-      "xQuery": "4人死亡事故 東武建設を家宅捜索"
     },
     {
       "time": "09:46",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "市の食料配布に4万人 動く自治体"
     },
     {
-      "time": "09:54",
-      "title": "関東で震度5弱 けが人相次ぐ",
+      "time": "12:16",
+      "title": "月10万円→30万円 都内老人ホーム",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592740?source=rss",
-      "publishedAt": "2026-08-23T00:54:18.000Z",
-      "xQuery": "関東で震度5弱 けが人相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6592755?source=rss",
+      "publishedAt": "2026-08-23T03:16:13.000Z",
+      "xQuery": "月10万円→30万円 都内老人ホーム"
     },
     {
-      "time": "08:54",
-      "title": "2000円台の新米 昨年産と価格逆転",
+      "time": "12:02",
+      "title": "関東で震度5弱 けが人30人超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592734?source=rss",
-      "publishedAt": "2026-08-22T23:54:01.000Z",
-      "xQuery": "2000円台の新米 昨年産と価格逆転"
+      "url": "https://news.yahoo.co.jp/pickup/6592754?source=rss",
+      "publishedAt": "2026-08-23T03:02:19.000Z",
+      "xQuery": "関東で震度5弱 けが人30人超"
     }
   ]
 };
