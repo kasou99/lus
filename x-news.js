@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T05:12:06.911Z",
+  "updatedAt": "2026-08-23T05:42:38.937Z",
   "items": [
     {
       "time": "09:26",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "小5息子殺され加害者と向き合う父"
     },
     {
-      "time": "12:16",
-      "title": "月10万円→30万円 都内老人ホーム",
+      "time": "14:13",
+      "title": "女性死亡 ひき逃げ疑い22歳男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592755?source=rss",
-      "publishedAt": "2026-08-23T03:16:13.000Z",
-      "xQuery": "月10万円→30万円 都内老人ホーム"
+      "url": "https://news.yahoo.co.jp/pickup/6592768?source=rss",
+      "publishedAt": "2026-08-23T05:13:49.000Z",
+      "xQuery": "女性死亡 ひき逃げ疑い22歳男逮捕"
     }
   ]
 };
