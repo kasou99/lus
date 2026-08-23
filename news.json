@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T09:10:12.155Z",
+  "updatedAt": "2026-08-23T09:41:48.876Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-23T07:32:51.000Z"
       },
       {
+        "time": "18:28",
+        "title": "ソニー 中国「TCL」と手を組む訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592793?source=rss",
+        "publishedAt": "2026-08-23T09:28:39.000Z"
+      },
+      {
         "time": "15:05",
         "title": "年金だけ苦しい 炎天下働くシニア",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592772?source=rss",
         "publishedAt": "2026-08-23T06:05:12.000Z"
-      },
-      {
-        "time": "16:27",
-        "title": "「自販機」に逆風 飲料各社が工夫",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592665?source=rss",
-        "publishedAt": "2026-08-22T07:27:25.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-08-23T07:32:51.000Z"
       },
       {
+        "time": "18:28",
+        "title": "ソニー 中国「TCL」と手を組む訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592793?source=rss",
+        "publishedAt": "2026-08-23T09:28:39.000Z"
+      },
+      {
         "time": "15:05",
         "title": "年金だけ苦しい 炎天下働くシニア",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592772?source=rss",
         "publishedAt": "2026-08-23T06:05:12.000Z"
-      },
-      {
-        "time": "16:27",
-        "title": "「自販機」に逆風 飲料各社が工夫",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592665?source=rss",
-        "publishedAt": "2026-08-22T07:27:25.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-08-23T07:53:05.000Z"
       },
       {
+        "time": "18:34",
+        "title": "横浜市長巡り市議 発達障害と投稿",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592792?source=rss",
+        "publishedAt": "2026-08-23T09:34:54.000Z"
+      },
+      {
         "time": "14:13",
         "title": "女性死亡 ひき逃げ疑い22歳男逮捕",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592764?source=rss",
         "publishedAt": "2026-08-23T04:51:01.000Z"
-      },
-      {
-        "time": "13:08",
-        "title": "草刈り機メンテ中下敷き 89歳死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592758?source=rss",
-        "publishedAt": "2026-08-23T04:08:00.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T09:10:12.849Z",
+  "updatedAt": "2026-08-23T09:41:49.308Z",
   "items": [
     {
-      "time": "16:53",
-      "title": "特急事故 安全管理の書類など押収",
+      "time": "17:34",
+      "title": "地震ボラの暑さ対策を支援 広がる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592782?source=rss",
-      "publishedAt": "2026-08-23T07:53:05.000Z",
-      "xQuery": "特急事故 安全管理の書類など押収"
+      "url": "https://news.yahoo.co.jp/pickup/6592789?source=rss",
+      "publishedAt": "2026-08-23T08:34:39.000Z",
+      "xQuery": "地震ボラの暑さ対策を支援 広がる"
     },
     {
-      "time": "16:38",
-      "title": "米地裁 移民ビザ発給停止を無効化",
+      "time": "16:36",
+      "title": "関東で震度5弱「地震の巣で」識者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592780?source=rss",
-      "publishedAt": "2026-08-23T07:38:17.000Z",
-      "xQuery": "米地裁 移民ビザ発給停止を無効化"
+      "url": "https://news.yahoo.co.jp/pickup/6592781?source=rss",
+      "publishedAt": "2026-08-23T07:36:14.000Z",
+      "xQuery": "関東で震度5弱「地震の巣で」識者"
     },
     {
-      "time": "15:11",
-      "title": "関東で震度5弱 けが人40人超に",
+      "time": "18:34",
+      "title": "横浜市長巡り市議 発達障害と投稿",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592773?source=rss",
-      "publishedAt": "2026-08-23T06:11:51.000Z",
-      "xQuery": "関東で震度5弱 けが人40人超に"
+      "url": "https://news.yahoo.co.jp/pickup/6592792?source=rss",
+      "publishedAt": "2026-08-23T09:34:54.000Z",
+      "xQuery": "横浜市長巡り市議 発達障害と投稿"
     },
     {
-      "time": "14:25",
-      "title": "スマホ乗っ取られ詐欺SMSのbot化",
+      "time": "15:55",
+      "title": "「自分は臭い」思い込み 心理解説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592770?source=rss",
-      "publishedAt": "2026-08-23T05:25:51.000Z",
-      "xQuery": "スマホ乗っ取られ詐欺SMSのbot化"
+      "url": "https://news.yahoo.co.jp/pickup/6592775?source=rss",
+      "publishedAt": "2026-08-23T06:55:56.000Z",
+      "xQuery": "「自分は臭い」思い込み 心理解説"
     },
     {
-      "time": "15:05",
-      "title": "年金だけ苦しい 炎天下働くシニア",
+      "time": "15:40",
+      "title": "VIVANTロケ地の県 観光振興活発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592772?source=rss",
-      "publishedAt": "2026-08-23T06:05:12.000Z",
-      "xQuery": "年金だけ苦しい 炎天下働くシニア"
+      "url": "https://news.yahoo.co.jp/pickup/6592774?source=rss",
+      "publishedAt": "2026-08-23T06:40:23.000Z",
+      "xQuery": "VIVANTロケ地の県 観光振興活発"
     }
   ]
 };
