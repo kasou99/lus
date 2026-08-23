@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T07:43:43.144Z",
+  "updatedAt": "2026-08-23T08:10:21.068Z",
   "items": [
     {
-      "time": "11:40",
-      "title": "16歳で意に沿わぬ結婚 残留2世",
+      "time": "16:53",
+      "title": "特急事故 安全管理の書類など押収",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592752?source=rss",
-      "publishedAt": "2026-08-23T02:40:28.000Z",
-      "xQuery": "16歳で意に沿わぬ結婚 残留2世"
+      "url": "https://news.yahoo.co.jp/pickup/6592782?source=rss",
+      "publishedAt": "2026-08-23T07:53:05.000Z",
+      "xQuery": "特急事故 安全管理の書類など押収"
     },
     {
-      "time": "13:38",
-      "title": "関東-九州 あす以降も厳しい暑さ",
+      "time": "16:38",
+      "title": "米地裁 移民ビザ発給停止を無効化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592763?source=rss",
-      "publishedAt": "2026-08-23T04:38:46.000Z",
-      "xQuery": "関東-九州 あす以降も厳しい暑さ"
+      "url": "https://news.yahoo.co.jp/pickup/6592780?source=rss",
+      "publishedAt": "2026-08-23T07:38:17.000Z",
+      "xQuery": "米地裁 移民ビザ発給停止を無効化"
     },
     {
       "time": "15:11",
