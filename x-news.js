@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T00:22:38.576Z",
+  "updatedAt": "2026-08-23T00:50:12.561Z",
   "items": [
     {
       "time": "08:32",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "発火相次ぐ「モバ充」規制強化へ"
     },
     {
-      "time": "07:45",
-      "title": "カナダ首相 対米報復関税を発表",
+      "time": "09:41",
+      "title": "4人死亡事故 東武建設を家宅捜索",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592725?source=rss",
-      "publishedAt": "2026-08-22T22:45:26.000Z",
-      "xQuery": "カナダ首相 対米報復関税を発表"
+      "url": "https://news.yahoo.co.jp/pickup/6592737?source=rss",
+      "publishedAt": "2026-08-23T00:41:50.000Z",
+      "xQuery": "4人死亡事故 東武建設を家宅捜索"
     },
     {
       "time": "08:19",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風20号 八重山地方で大雨の恐れ"
     },
     {
+      "time": "08:54",
+      "title": "2000円台の新米 昨年産と価格逆転",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592734?source=rss",
+      "publishedAt": "2026-08-22T23:54:01.000Z",
+      "xQuery": "2000円台の新米 昨年産と価格逆転"
+    },
+    {
       "time": "07:23",
       "title": "震度5弱 関東の鉄道運行情報",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592722?source=rss",
       "publishedAt": "2026-08-22T22:23:25.000Z",
       "xQuery": "震度5弱 関東の鉄道運行情報"
-    },
-    {
-      "time": "07:45",
-      "title": "震度5弱 江東区では道路に水流出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592723?source=rss",
-      "publishedAt": "2026-08-22T22:45:17.000Z",
-      "xQuery": "震度5弱 江東区では道路に水流出"
     }
   ]
 };
