@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T11:07:29.238Z",
+  "updatedAt": "2026-08-23T11:38:59.350Z",
   "items": [
     {
-      "time": "17:34",
-      "title": "地震ボラの暑さ対策を支援 広がる",
+      "time": "20:05",
+      "title": "高市内閣の支持率横ばい41% 毎日",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592789?source=rss",
-      "publishedAt": "2026-08-23T08:34:39.000Z",
-      "xQuery": "地震ボラの暑さ対策を支援 広がる"
+      "url": "https://news.yahoo.co.jp/pickup/6592802?source=rss",
+      "publishedAt": "2026-08-23T11:05:18.000Z",
+      "xQuery": "高市内閣の支持率横ばい41% 毎日"
     },
     {
-      "time": "18:17",
-      "title": "「怠けと違う」文字書けない悩み",
+      "time": "20:02",
+      "title": "関東で震度5弱 未明の揺れに驚き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592778?source=rss",
-      "publishedAt": "2026-08-23T09:17:25.000Z",
-      "xQuery": "「怠けと違う」文字書けない悩み"
+      "url": "https://news.yahoo.co.jp/pickup/6592801?source=rss",
+      "publishedAt": "2026-08-23T11:02:25.000Z",
+      "xQuery": "関東で震度5弱 未明の揺れに驚き"
     },
     {
-      "time": "16:36",
-      "title": "関東で震度5弱「地震の巣で」識者",
+      "time": "20:09",
+      "title": "独身と嘘つかれ妊娠 娘のため提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592781?source=rss",
-      "publishedAt": "2026-08-23T07:36:14.000Z",
-      "xQuery": "関東で震度5弱「地震の巣で」識者"
-    },
-    {
-      "time": "18:34",
-      "title": "横浜市長巡り市議 発達障害と投稿",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592792?source=rss",
-      "publishedAt": "2026-08-23T09:34:54.000Z",
-      "xQuery": "横浜市長巡り市議 発達障害と投稿"
+      "url": "https://news.yahoo.co.jp/pickup/6592803?source=rss",
+      "publishedAt": "2026-08-23T11:09:29.000Z",
+      "xQuery": "独身と嘘つかれ妊娠 娘のため提訴"
     },
     {
       "time": "18:28",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592793?source=rss",
       "publishedAt": "2026-08-23T09:28:39.000Z",
       "xQuery": "ソニー 中国「TCL」と手を組む訳"
+    },
+    {
+      "time": "18:34",
+      "title": "横浜市長巡り市議 発達障害と投稿",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592792?source=rss",
+      "publishedAt": "2026-08-23T09:34:54.000Z",
+      "xQuery": "横浜市長巡り市議 発達障害と投稿"
     }
   ]
 };
