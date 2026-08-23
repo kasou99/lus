@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T14:40:41.159Z",
+  "updatedAt": "2026-08-23T15:07:41.958Z",
   "items": [
     {
-      "time": "22:54",
-      "title": "北海道で震度4 津波の心配なし",
+      "time": "23:50",
+      "title": "原油輸送確保 首脳外交求める声も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592814?source=rss",
-      "publishedAt": "2026-08-23T13:54:06.000Z",
-      "xQuery": "北海道で震度4 津波の心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6592818?source=rss",
+      "publishedAt": "2026-08-23T14:50:43.000Z",
+      "xQuery": "原油輸送確保 首脳外交求める声も"
     },
     {
       "time": "19:58",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "豪雨で愛車失った人たち 悲痛な声"
     },
     {
+      "time": "23:39",
+      "title": "熊本地震 窯元が葛藤の中で再出発",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592819?source=rss",
+      "publishedAt": "2026-08-23T14:39:04.000Z",
+      "xQuery": "熊本地震 窯元が葛藤の中で再出発"
+    },
+    {
       "time": "20:38",
       "title": "戸建て売り入居する人も 団地人気",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592805?source=rss",
       "publishedAt": "2026-08-23T11:38:30.000Z",
       "xQuery": "戸建て売り入居する人も 団地人気"
-    },
-    {
-      "time": "22:20",
-      "title": "死んだペットを弔う方法 法的見解",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592811?source=rss",
-      "publishedAt": "2026-08-23T13:20:05.000Z",
-      "xQuery": "死んだペットを弔う方法 法的見解"
     }
   ]
 };
