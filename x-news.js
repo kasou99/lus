@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T12:10:21.906Z",
+  "updatedAt": "2026-08-23T12:47:53.075Z",
   "items": [
-    {
-      "time": "20:05",
-      "title": "高市内閣の支持率横ばい41% 毎日",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592802?source=rss",
-      "publishedAt": "2026-08-23T11:05:18.000Z",
-      "xQuery": "高市内閣の支持率横ばい41% 毎日"
-    },
     {
       "time": "20:02",
       "title": "関東で震度5弱 未明の揺れに驚き",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "独身と嘘つかれ妊娠 娘のため提訴"
     },
     {
-      "time": "16:32",
-      "title": "就活で障害伝えず76% 不利益懸念",
+      "time": "21:24",
+      "title": "豪雨で愛車失った人たち 悲痛な声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592777?source=rss",
-      "publishedAt": "2026-08-23T07:32:51.000Z",
-      "xQuery": "就活で障害伝えず76% 不利益懸念"
+      "url": "https://news.yahoo.co.jp/pickup/6592807?source=rss",
+      "publishedAt": "2026-08-23T12:24:38.000Z",
+      "xQuery": "豪雨で愛車失った人たち 悲痛な声"
+    },
+    {
+      "time": "20:38",
+      "title": "戸建て売り入居する人も 団地人気",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592805?source=rss",
+      "publishedAt": "2026-08-23T11:38:30.000Z",
+      "xQuery": "戸建て売り入居する人も 団地人気"
     }
   ]
 };

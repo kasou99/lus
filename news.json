@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T12:10:21.051Z",
+  "updatedAt": "2026-08-23T12:47:52.543Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,6 +163,13 @@
         "publishedAt": "2026-08-23T08:34:39.000Z"
       },
       {
+        "time": "21:24",
+        "title": "豪雨で愛車失った人たち 悲痛な声",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592807?source=rss",
+        "publishedAt": "2026-08-23T12:24:38.000Z"
+      },
+      {
         "time": "19:58",
         "title": "4人死亡 事故までに列車3本が通過",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592768?source=rss",
         "publishedAt": "2026-08-23T05:13:49.000Z"
-      },
-      {
-        "time": "13:51",
-        "title": "小5息子殺され加害者と向き合う父",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592764?source=rss",
-        "publishedAt": "2026-08-23T04:51:01.000Z"
       }
     ],
     "subsidyHeadlines": [
