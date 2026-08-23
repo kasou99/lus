@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T21:39:23.732Z",
+  "updatedAt": "2026-08-23T22:06:33.324Z",
   "items": [
     {
       "time": "23:50",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592818?source=rss",
       "publishedAt": "2026-08-23T14:50:43.000Z",
       "xQuery": "原油輸送確保 首脳外交求める声も"
-    },
-    {
-      "time": "19:58",
-      "title": "4人死亡 事故までに列車3本が通過",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592798?source=rss",
-      "publishedAt": "2026-08-23T10:58:33.000Z",
-      "xQuery": "4人死亡 事故までに列車3本が通過"
     },
     {
       "time": "06:29",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592807?source=rss",
       "publishedAt": "2026-08-23T12:24:38.000Z",
       "xQuery": "豪雨で愛車失った人たち 悲痛な声"
+    },
+    {
+      "time": "06:45",
+      "title": "車と衝突 バイクの18歳高校生死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592824?source=rss",
+      "publishedAt": "2026-08-23T21:45:25.000Z",
+      "xQuery": "車と衝突 バイクの18歳高校生死亡"
     },
     {
       "time": "20:38",
