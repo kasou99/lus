@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T23:08:42.567Z",
+  "updatedAt": "2026-08-24T23:39:38.273Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -133,18 +133,18 @@
         "publishedAt": "2026-08-24T09:05:00.000Z"
       },
       {
-        "time": "12:33",
-        "title": "スズキ初の軽乗用EV eスカイ公開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592868?source=rss",
-        "publishedAt": "2026-08-24T03:33:37.000Z"
-      },
-      {
         "time": "17:10",
         "title": "ドローン報道 BERGが楽天店撤退",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592893?source=rss",
         "publishedAt": "2026-08-24T08:10:46.000Z"
+      },
+      {
+        "time": "08:06",
+        "title": "コンビニ各社おにぎり値下げ なぜ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592961?source=rss",
+        "publishedAt": "2026-08-24T23:06:36.000Z"
       }
     ],
     "localHeadlines": [

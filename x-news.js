@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T23:08:43.521Z",
+  "updatedAt": "2026-08-24T23:39:39.586Z",
   "items": [
     {
-      "time": "06:41",
-      "title": "台風18号 26日にかけ沖縄など接近",
+      "time": "07:48",
+      "title": "ウ侵略4年半 欧州の結束アピール",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592951?source=rss",
-      "publishedAt": "2026-08-24T21:41:27.000Z",
-      "xQuery": "台風18号 26日にかけ沖縄など接近"
+      "url": "https://news.yahoo.co.jp/pickup/6592958?source=rss",
+      "publishedAt": "2026-08-24T22:48:06.000Z",
+      "xQuery": "ウ侵略4年半 欧州の結束アピール"
     },
     {
       "time": "07:33",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "相模原17歳死亡 ぼう然とする友人"
     },
     {
-      "time": "23:51",
-      "title": "18歳死亡 灯籠と柱に挟まれる",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592947?source=rss",
-      "publishedAt": "2026-08-24T14:51:24.000Z",
-      "xQuery": "18歳死亡 灯籠と柱に挟まれる"
-    },
-    {
       "time": "07:22",
       "title": "住宅に身元不明の3人の遺体 岐阜",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592954?source=rss",
       "publishedAt": "2026-08-24T22:22:33.000Z",
       "xQuery": "住宅に身元不明の3人の遺体 岐阜"
+    },
+    {
+      "time": "07:51",
+      "title": "警視庁警官3060人欠員 採用不調か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592957?source=rss",
+      "publishedAt": "2026-08-24T22:51:13.000Z",
+      "xQuery": "警視庁警官3060人欠員 採用不調か"
     }
   ]
 };
