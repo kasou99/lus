@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T09:48:34.610Z",
+  "updatedAt": "2026-08-24T10:17:49.055Z",
   "items": [
     {
       "time": "17:42",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風18号が沖縄へ 影響長引く恐れ"
     },
     {
-      "time": "16:04",
-      "title": "居眠り運転など検知 搭載義務化へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592884?source=rss",
-      "publishedAt": "2026-08-24T07:04:25.000Z",
-      "xQuery": "居眠り運転など検知 搭載義務化へ"
-    },
-    {
       "time": "15:21",
       "title": "木原氏 ICC所長と緊密に意思疎通",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592880?source=rss",
       "publishedAt": "2026-08-24T06:21:28.000Z",
       "xQuery": "木原氏 ICC所長と緊密に意思疎通"
+    },
+    {
+      "time": "17:45",
+      "title": "4人死亡 2012年にも作業員と接触",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592898?source=rss",
+      "publishedAt": "2026-08-24T08:45:12.000Z",
+      "xQuery": "4人死亡 2012年にも作業員と接触"
     },
     {
       "time": "18:20",
