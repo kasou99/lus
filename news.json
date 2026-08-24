@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T00:21:50.353Z",
+  "updatedAt": "2026-08-24T00:50:07.884Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SNWRvb0s5MVhvZE5ySUpJajZ3RE13VVIzTTdablBUNGdmd3MtbWNMVG4zM1JWZ2NYa2RyTmQwQkQ3X2diVTFkR3IyZ3dPT2xCdXF2TWVTOTMzNFRQUldiRVRVdU96U0tPOUdWTW5oUQ?oc=5",
         "publishedAt": "2026-08-23T15:23:09.000Z"
+      },
+      {
+        "time": "09:42",
+        "title": "高松機械工業：NEUTRAL継続【今村証券アナリストレポート】",
+        "source": "株探",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZaFQ3bnVaNFhyVWxEVENmdWp1Qi1LZnFSYzN0VGtPaHdWTUozX08yZDdIczBjOUt2NXhyNVA3T09GaC1ZeF9WTXU0Z18xMC1rWWc?oc=5",
+        "publishedAt": "2026-08-24T00:42:00.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592793?source=rss",
         "publishedAt": "2026-08-23T09:28:39.000Z"
-      },
-      {
-        "time": "15:05",
-        "title": "年金だけ苦しい 炎天下働くシニア",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592772?source=rss",
-        "publishedAt": "2026-08-23T06:05:12.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "09:29",
+        "title": "福岡県議会の蔵内氏 議員辞職へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592845?source=rss",
+        "publishedAt": "2026-08-24T00:29:15.000Z"
+      },
+      {
         "time": "08:57",
         "title": "福岡市長 11月の選挙不出馬を表明",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592839?source=rss",
         "publishedAt": "2026-08-23T23:27:30.000Z"
-      },
-      {
-        "time": "23:35",
-        "title": "熊本地震 外国人へ発信3市町のみ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592820?source=rss",
-        "publishedAt": "2026-08-23T14:35:34.000Z"
       },
       {
         "time": "21:24",

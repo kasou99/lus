@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T00:21:51.088Z",
+  "updatedAt": "2026-08-24T00:50:08.695Z",
   "items": [
+    {
+      "time": "09:29",
+      "title": "福岡県議会の蔵内氏 議員辞職へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592845?source=rss",
+      "publishedAt": "2026-08-24T00:29:15.000Z",
+      "xQuery": "福岡県議会の蔵内氏 議員辞職へ"
+    },
     {
       "time": "08:02",
       "title": "露のウ侵攻から4年半 広がる戦禍",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592839?source=rss",
       "publishedAt": "2026-08-23T23:27:30.000Z",
       "xQuery": "外国人のレンタカー事故多発 実態"
-    },
-    {
-      "time": "08:57",
-      "title": "福岡市長 11月の選挙不出馬を表明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592843?source=rss",
-      "publishedAt": "2026-08-23T23:57:29.000Z",
-      "xQuery": "福岡市長 11月の選挙不出馬を表明"
     },
     {
       "time": "08:56",
