@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T13:49:08.952Z",
+  "updatedAt": "2026-08-24T14:19:01.464Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-24T04:55:28.000Z"
       },
       {
-        "time": "06:19",
-        "title": "新社長登場／日本酸素HD・渡辺忠治社長CEO エレに続く成長事業育成",
+        "time": "05:40",
+        "title": "メイカーズ、直径4㎜・カメラ搭載 狭所検査装置",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2T2l0WGY1c0tyMm5xbTNlMy0wVy1BYmZyVkhHM0ZmZmFMa2dPcURNanFZMjZncE42ZEVWekotYUh2RnIyeVJ3ZFBfckJMandlYmF5YXBIaldvNHZkeVc4d0VYdFlLY3ZkZm1idTJoOA?oc=5",
-        "publishedAt": "2026-08-23T21:19:12.000Z"
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50RDZMTlJPaXFHLVVsckF4c1lKQTk4UkJaU2NEWE12SXY1YUFKeFk4czJRQ2tWSTJNOUN5bDdNRlRoME9ZOGRqQWR5bHNFU0FoMVZxME45VFdhazVZR1dpdUg4YnBxNmxhU0c1SXVaRQ?oc=5",
+        "publishedAt": "2026-08-23T20:40:49.000Z"
       },
       {
-        "time": "05:00",
-        "title": "卓見異見／宇宙サーキュラー、日本の強みに 早稲田大学理工学術院教授 野中朋美",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IYWFfZzB2dFJJb0xPLS01eUkxTU9kTk9pN001QWY2dmtRTlVRb09CMmtiajN1SWhsVDZncVRNNWRlbFRDRzhEa1lvV0N6WlpkdkNDZlE5azJDU2NzZy1BMl9hODAtR3RfS3ZGR24wMA?oc=5",
-        "publishedAt": "2026-08-23T20:00:00.000Z"
+        "time": "17:30",
+        "title": "ガントリーボーリング・フライス加工マシニングセンターの世界市場（2026年～2032年）、市場規模（固定ビーム型、可動ビーム型）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xTlkzYWJ6eTVYdWsyNmdjczhadjhmSUYtTUE1RDBWSzRIaTNwMzdPd1ZrV05ZSVFPdEs5YVlORXc1V1JPRmEtNzc4NC1iU3c?oc=5",
+        "publishedAt": "2026-08-24T08:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-08-24T13:29:05.000Z"
       },
       {
-        "time": "17:45",
-        "title": "4人死亡 2012年にも作業員と接触",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592898?source=rss",
-        "publishedAt": "2026-08-24T08:45:12.000Z"
-      },
-      {
         "time": "20:17",
         "title": "高2死亡 車に追われるバイク映る",
         "source": "Yahoo!ニュース",
@@ -177,6 +170,13 @@
         "publishedAt": "2026-08-24T13:37:47.000Z"
       },
       {
+        "time": "18:20",
+        "title": "クマと車衝突か 運転手の男性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592902?source=rss",
+        "publishedAt": "2026-08-24T09:20:01.000Z"
+      },
+      {
         "time": "21:02",
         "title": "誤って裁判官1人で審理 本来は3人",
         "source": "Yahoo!ニュース",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-24T12:02:30.000Z"
       },
       {
-        "time": "18:20",
-        "title": "クマと車衝突か 運転手の男性死亡",
+        "time": "22:58",
+        "title": "店の駐車場で売上200万円奪われる",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592902?source=rss",
-        "publishedAt": "2026-08-24T09:20:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592938?source=rss",
+        "publishedAt": "2026-08-24T13:58:48.000Z"
       }
     ],
     "subsidyHeadlines": [
