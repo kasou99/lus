@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T22:42:06.022Z",
+  "updatedAt": "2026-08-24T23:08:42.567Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-08-24T21:50:00.000Z"
       },
       {
-        "time": "19:27",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-08-24T10:27:08.000Z"
-      },
-      {
         "time": "17:30",
         "title": "ガントリーボーリング・フライス加工マシニングセンターの世界市場（2026年～2032年）、市場規模（固定ビーム型、可動ビーム型）・分析レポートを発表",
         "source": "アットプレス",
@@ -38,11 +31,11 @@
         "publishedAt": "2026-08-24T08:30:00.000Z"
       },
       {
-        "time": "09:42",
-        "title": "高松機械工業：NEUTRAL継続【今村証券アナリストレポート】",
-        "source": "株探",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10N3dad000QmFhdGM1NDF5eGdXMWQwUVRIN3g4bi1kTEtDT19FZ0ZiN3dLN1RBeEd2dF83clBEOEx2cEd4S1I5ck82bWZzRE9naHNlTjRUYlBSM3o1dTQ0Zw?oc=5",
-        "publishedAt": "2026-08-24T00:42:00.000Z"
+        "time": "19:26",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-08-24T10:26:02.000Z"
       },
       {
         "time": "16:00",
@@ -50,6 +43,13 @@
         "source": "ドリームニュース",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQYm11dDlMejFRZXplMVotcDJXTVRzb3piaDJyS1JFUGJYMGlOdWhxTWhLbUtNQmdRRWwxSW5ad2Vib3BvSXJKcS1seW1uek9HSUN3?oc=5",
         "publishedAt": "2026-08-24T07:00:00.000Z"
+      },
+      {
+        "time": "09:42",
+        "title": "高松機械工業：NEUTRAL継続【今村証券アナリストレポート】",
+        "source": "株探",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10N3dad000QmFhdGM1NDF5eGdXMWQwUVRIN3g4bi1kTEtDT19FZ0ZiN3dLN1RBeEd2dF83clBEOEx2cEd4S1I5ck82bWZzRE9naHNlTjRUYlBSM3o1dTQ0Zw?oc=5",
+        "publishedAt": "2026-08-24T00:42:00.000Z"
       },
       {
         "time": "17:48",
@@ -68,11 +68,18 @@
         "publishedAt": "2026-08-24T15:13:29.000Z"
       },
       {
-        "time": "20:31",
-        "title": "中国外相の韓国訪問 背景に危機感",
+        "time": "13:52",
+        "title": "イラン 攻撃重視の方針が鮮明に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592905?source=rss",
-        "publishedAt": "2026-08-24T11:31:11.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592875?source=rss",
+        "publishedAt": "2026-08-24T04:52:41.000Z"
+      },
+      {
+        "time": "07:48",
+        "title": "ウ侵略4年半 欧州の結束アピール",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592958?source=rss",
+        "publishedAt": "2026-08-24T22:48:06.000Z"
       },
       {
         "time": "12:56",
@@ -82,11 +89,11 @@
         "publishedAt": "2026-08-24T03:56:04.000Z"
       },
       {
-        "time": "13:52",
-        "title": "イラン 攻撃重視の方針が鮮明に",
+        "time": "20:31",
+        "title": "中国外相の韓国訪問 背景に危機感",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592875?source=rss",
-        "publishedAt": "2026-08-24T04:52:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592905?source=rss",
+        "publishedAt": "2026-08-24T11:31:11.000Z"
       },
       {
         "time": "22:39",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592940?source=rss",
         "publishedAt": "2026-08-24T13:39:56.000Z"
-      },
-      {
-        "time": "08:56",
-        "title": "猛暑の仏 溺死者が300人超える",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592842?source=rss",
-        "publishedAt": "2026-08-23T23:56:52.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "22:29",
-        "title": "蔵内氏が議員辞職へ 説明求める声",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592936?source=rss",
-        "publishedAt": "2026-08-24T13:29:05.000Z"
-      },
-      {
         "time": "07:00",
         "title": "相模原17歳死亡 ぼう然とする友人",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592954?source=rss",
         "publishedAt": "2026-08-24T22:22:33.000Z"
+      },
+      {
+        "time": "23:51",
+        "title": "18歳死亡 灯籠と柱に挟まれる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592947?source=rss",
+        "publishedAt": "2026-08-24T14:51:24.000Z"
       }
     ],
     "subsidyHeadlines": [

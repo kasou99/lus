@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T22:42:06.897Z",
+  "updatedAt": "2026-08-24T23:08:43.521Z",
   "items": [
     {
       "time": "06:41",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風18号 26日にかけ沖縄など接近"
     },
     {
-      "time": "22:33",
-      "title": "損保ジャパン 車保険料5%値上げへ",
+      "time": "07:33",
+      "title": "同志社理事長辞任へ 辺野古事故で",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592942?source=rss",
-      "publishedAt": "2026-08-24T13:33:23.000Z",
-      "xQuery": "損保ジャパン 車保険料5%値上げへ"
+      "url": "https://news.yahoo.co.jp/pickup/6592956?source=rss",
+      "publishedAt": "2026-08-24T22:33:49.000Z",
+      "xQuery": "同志社理事長辞任へ 辺野古事故で"
     },
     {
       "time": "07:00",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "相模原17歳死亡 ぼう然とする友人"
     },
     {
-      "time": "07:33",
-      "title": "同志社理事長辞任へ 辺野古事故で",
+      "time": "23:51",
+      "title": "18歳死亡 灯籠と柱に挟まれる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592956?source=rss",
-      "publishedAt": "2026-08-24T22:33:49.000Z",
-      "xQuery": "同志社理事長辞任へ 辺野古事故で"
+      "url": "https://news.yahoo.co.jp/pickup/6592947?source=rss",
+      "publishedAt": "2026-08-24T14:51:24.000Z",
+      "xQuery": "18歳死亡 灯籠と柱に挟まれる"
     },
     {
       "time": "07:22",
