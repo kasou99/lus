@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T14:19:03.013Z",
+  "updatedAt": "2026-08-24T14:47:49.724Z",
   "items": [
     {
       "time": "21:32",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "損保ジャパン 車保険料5%値上げへ"
     },
     {
-      "time": "20:17",
-      "title": "高2死亡 車に追われるバイク映る",
+      "time": "22:29",
+      "title": "蔵内氏が議員辞職へ 説明求める声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592919?source=rss",
-      "publishedAt": "2026-08-24T11:17:29.000Z",
-      "xQuery": "高2死亡 車に追われるバイク映る"
+      "url": "https://news.yahoo.co.jp/pickup/6592936?source=rss",
+      "publishedAt": "2026-08-24T13:29:05.000Z",
+      "xQuery": "蔵内氏が議員辞職へ 説明求める声"
     },
     {
-      "time": "22:37",
-      "title": "10人乗るクルーザー座礁 2人重傷",
+      "time": "23:33",
+      "title": "10代男性重体 灯籠と柱に挟まれる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592941?source=rss",
-      "publishedAt": "2026-08-24T13:37:47.000Z",
-      "xQuery": "10人乗るクルーザー座礁 2人重傷"
+      "url": "https://news.yahoo.co.jp/pickup/6592945?source=rss",
+      "publishedAt": "2026-08-24T14:33:09.000Z",
+      "xQuery": "10代男性重体 灯籠と柱に挟まれる"
     },
     {
-      "time": "22:39",
-      "title": "中国で白菜に発がん性物質か 調査",
+      "time": "22:58",
+      "title": "店の駐車場で売上200万円奪われる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592940?source=rss",
-      "publishedAt": "2026-08-24T13:39:56.000Z",
-      "xQuery": "中国で白菜に発がん性物質か 調査"
+      "url": "https://news.yahoo.co.jp/pickup/6592938?source=rss",
+      "publishedAt": "2026-08-24T13:58:48.000Z",
+      "xQuery": "店の駐車場で売上200万円奪われる"
     }
   ]
 };
