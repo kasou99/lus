@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T14:47:49.724Z",
+  "updatedAt": "2026-08-24T15:17:54.041Z",
   "items": [
+    {
+      "time": "00:13",
+      "title": "カナダ車関税2倍へ 米大統領表明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592948?source=rss",
+      "publishedAt": "2026-08-24T15:13:29.000Z",
+      "xQuery": "カナダ車関税2倍へ 米大統領表明"
+    },
     {
       "time": "21:32",
       "title": "ICC制裁巡り超党派議連が非難声明",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "損保ジャパン 車保険料5%値上げへ"
     },
     {
-      "time": "22:29",
-      "title": "蔵内氏が議員辞職へ 説明求める声",
+      "time": "23:51",
+      "title": "18歳死亡 灯籠と柱に挟まれる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592936?source=rss",
-      "publishedAt": "2026-08-24T13:29:05.000Z",
-      "xQuery": "蔵内氏が議員辞職へ 説明求める声"
+      "url": "https://news.yahoo.co.jp/pickup/6592947?source=rss",
+      "publishedAt": "2026-08-24T14:51:24.000Z",
+      "xQuery": "18歳死亡 灯籠と柱に挟まれる"
     },
     {
-      "time": "23:33",
-      "title": "10代男性重体 灯籠と柱に挟まれる",
+      "time": "22:39",
+      "title": "中国で白菜に発がん性物質か 調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592945?source=rss",
-      "publishedAt": "2026-08-24T14:33:09.000Z",
-      "xQuery": "10代男性重体 灯籠と柱に挟まれる"
-    },
-    {
-      "time": "22:58",
-      "title": "店の駐車場で売上200万円奪われる",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592938?source=rss",
-      "publishedAt": "2026-08-24T13:58:48.000Z",
-      "xQuery": "店の駐車場で売上200万円奪われる"
+      "url": "https://news.yahoo.co.jp/pickup/6592940?source=rss",
+      "publishedAt": "2026-08-24T13:39:56.000Z",
+      "xQuery": "中国で白菜に発がん性物質か 調査"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T14:47:49.072Z",
+  "updatedAt": "2026-08-24T15:17:52.493Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SNWRvb0s5MVhvZE5ySUpJajZ3RE13VVIzTTdablBUNGdmd3MtbWNMVG4zM1JWZ2NYa2RyTmQwQkQ3X2diVTFkR3IyZ3dPT2xCdXF2TWVTOTMzNFRQUldiRVRVdU96U0tPOUdWTW5oUQ?oc=5",
         "publishedAt": "2026-08-23T15:23:09.000Z"
-      },
-      {
-        "time": "09:42",
-        "title": "高松機械工業：NEUTRAL継続【今村証券アナリストレポート】",
-        "source": "株探",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10N3dad000QmFhdGM1NDF5eGdXMWQwUVRIN3g4bi1kTEtDT19FZ0ZiN3dLN1RBeEd2dF83clBEOEx2cEd4S1I5ck82bWZzRE9naHNlTjRUYlBSM3o1dTQ0Zw?oc=5",
-        "publishedAt": "2026-08-24T00:42:00.000Z"
       },
       {
         "time": "19:26",
@@ -52,27 +45,34 @@
         "publishedAt": "2026-08-23T20:40:49.000Z"
       },
       {
-        "time": "17:30",
-        "title": "ガントリーボーリング・フライス加工マシニングセンターの世界市場（2026年～2032年）、市場規模（固定ビーム型、可動ビーム型）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xTlkzYWJ6eTVYdWsyNmdjczhadjhmSUYtTUE1RDBWSzRIaTNwMzdPd1ZrV05ZSVFPdEs5YVlORXc1V1JPRmEtNzc4NC1iU3c?oc=5",
-        "publishedAt": "2026-08-24T08:30:00.000Z"
+        "time": "05:00",
+        "title": "卓見異見／宇宙サーキュラー、日本の強みに 早稲田大学理工学術院教授 野中朋美",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IYWFfZzB2dFJJb0xPLS01eUkxTU9kTk9pN001QWY2dmtRTlVRb09CMmtiajN1SWhsVDZncVRNNWRlbFRDRzhEa1lvV0N6WlpkdkNDZlE5azJDU2NzZy1BMl9hODAtR3RfS3ZGR24wMA?oc=5",
+        "publishedAt": "2026-08-23T20:00:00.000Z"
+      },
+      {
+        "time": "09:42",
+        "title": "高松機械工業：NEUTRAL継続【今村証券アナリストレポート】",
+        "source": "株探",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10N3dad000QmFhdGM1NDF5eGdXMWQwUVRIN3g4bi1kTEtDT19FZ0ZiN3dLN1RBeEd2dF83clBEOEx2cEd4S1I5ck82bWZzRE9naHNlTjRUYlBSM3o1dTQ0Zw?oc=5",
+        "publishedAt": "2026-08-24T00:42:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "00:13",
+        "title": "カナダ車関税2倍へ 米大統領表明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592948?source=rss",
+        "publishedAt": "2026-08-24T15:13:29.000Z"
+      },
       {
         "time": "20:31",
         "title": "中国外相の韓国訪問 背景に危機感",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592905?source=rss",
         "publishedAt": "2026-08-24T11:31:11.000Z"
-      },
-      {
-        "time": "08:02",
-        "title": "露のウ侵攻から4年半 広がる戦禍",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592836?source=rss",
-        "publishedAt": "2026-08-23T23:02:34.000Z"
       },
       {
         "time": "12:56",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-08-24T09:20:01.000Z"
       },
       {
-        "time": "23:33",
-        "title": "10代男性重体 灯籠と柱に挟まれる",
+        "time": "23:51",
+        "title": "18歳死亡 灯籠と柱に挟まれる",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592945?source=rss",
-        "publishedAt": "2026-08-24T14:33:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592947?source=rss",
+        "publishedAt": "2026-08-24T14:51:24.000Z"
       },
       {
         "time": "22:58",
