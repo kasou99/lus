@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T10:17:49.055Z",
+  "updatedAt": "2026-08-24T10:46:35.770Z",
   "items": [
     {
       "time": "17:42",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風18号が沖縄へ 影響長引く恐れ"
     },
     {
-      "time": "15:21",
-      "title": "木原氏 ICC所長と緊密に意思疎通",
+      "time": "16:37",
+      "title": "大雨でごみ山崩落30人死亡 ギニア",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592880?source=rss",
-      "publishedAt": "2026-08-24T06:21:28.000Z",
-      "xQuery": "木原氏 ICC所長と緊密に意思疎通"
+      "url": "https://news.yahoo.co.jp/pickup/6592886?source=rss",
+      "publishedAt": "2026-08-24T07:37:29.000Z",
+      "xQuery": "大雨でごみ山崩落30人死亡 ギニア"
     },
     {
-      "time": "17:45",
-      "title": "4人死亡 2012年にも作業員と接触",
+      "time": "19:18",
+      "title": "プルデンシャル 自粛中に不祥事か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592898?source=rss",
-      "publishedAt": "2026-08-24T08:45:12.000Z",
-      "xQuery": "4人死亡 2012年にも作業員と接触"
+      "url": "https://news.yahoo.co.jp/pickup/6592910?source=rss",
+      "publishedAt": "2026-08-24T10:18:05.000Z",
+      "xQuery": "プルデンシャル 自粛中に不祥事か"
     },
     {
       "time": "18:20",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "クマと車衝突か 運転手の男性死亡"
     },
     {
-      "time": "18:26",
-      "title": "ママせかタイアップ中止 厚労省",
+      "time": "19:23",
+      "title": "車横転で子ども含む6人けが 東京",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592907?source=rss",
-      "publishedAt": "2026-08-24T09:26:04.000Z",
-      "xQuery": "ママせかタイアップ中止 厚労省"
+      "url": "https://news.yahoo.co.jp/pickup/6592911?source=rss",
+      "publishedAt": "2026-08-24T10:23:19.000Z",
+      "xQuery": "車横転で子ども含む6人けが 東京"
     }
   ]
 };
