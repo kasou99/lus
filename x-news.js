@@ -1,12 +1,12 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T00:50:08.695Z",
+  "updatedAt": "2026-08-24T01:34:02.831Z",
   "items": [
     {
-      "time": "09:29",
+      "time": "09:57",
       "title": "福岡県議会の蔵内氏 議員辞職へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592845?source=rss",
-      "publishedAt": "2026-08-24T00:29:15.000Z",
+      "url": "https://news.yahoo.co.jp/pickup/6592847?source=rss",
+      "publishedAt": "2026-08-24T00:57:10.000Z",
       "xQuery": "福岡県議会の蔵内氏 議員辞職へ"
     },
     {
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露のウ侵攻から4年半 広がる戦禍"
     },
     {
-      "time": "08:05",
-      "title": "台風18号が南西諸島に接近へ 警戒",
+      "time": "10:30",
+      "title": "江別暴行 当時17歳の懲役30年確定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592837?source=rss",
-      "publishedAt": "2026-08-23T23:05:50.000Z",
-      "xQuery": "台風18号が南西諸島に接近へ 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6592849?source=rss",
+      "publishedAt": "2026-08-24T01:30:03.000Z",
+      "xQuery": "江別暴行 当時17歳の懲役30年確定"
     },
     {
       "time": "08:27",
