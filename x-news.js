@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T06:20:47.902Z",
+  "updatedAt": "2026-08-24T06:49:21.838Z",
   "items": [
     {
       "time": "13:52",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳落とし骨折させた疑い 母逮捕"
     },
     {
-      "time": "14:42",
-      "title": "厚労省 映画とタイアップ巡り謝罪",
+      "time": "15:37",
+      "title": "車横転し男性死亡 車体に動物の毛",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592879?source=rss",
-      "publishedAt": "2026-08-24T05:42:19.000Z",
-      "xQuery": "厚労省 映画とタイアップ巡り謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6592881?source=rss",
+      "publishedAt": "2026-08-24T06:37:24.000Z",
+      "xQuery": "車横転し男性死亡 車体に動物の毛"
     }
   ]
 };

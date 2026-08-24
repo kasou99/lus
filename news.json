@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T06:20:46.842Z",
+  "updatedAt": "2026-08-24T06:49:21.090Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-08-23T20:04:35.000Z"
       },
       {
-        "time": "05:00",
-        "title": "ファナック、今年度の設備投資3割増 壬生でFA機器増産",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uYmJ3SGhlS2QyMUh5R0U1UHRKNnpiakp4dVpXREotVWtCRHNuV3dMNlJ2M2ZsaDZGeHA2Y0w1cl9heHUxTHdNSGY5SUYtUTVUclRiQmxjQ1JlanF0RkJiN2gyRDR5bHB0UlV6ck9kSQ?oc=5",
-        "publishedAt": "2026-08-23T20:00:00.000Z"
-      },
-      {
         "time": "16:32",
         "title": "就活で障害伝えず76% 不利益懸念",
         "source": "Yahoo!ニュース",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592793?source=rss",
         "publishedAt": "2026-08-23T09:28:39.000Z"
+      },
+      {
+        "time": "12:33",
+        "title": "スズキ初の軽乗用EV eスカイ公開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592868?source=rss",
+        "publishedAt": "2026-08-24T03:33:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-24T04:27:08.000Z"
       },
       {
-        "time": "14:04",
-        "title": "3歳落とし骨折させた疑い 母逮捕",
+        "time": "15:37",
+        "title": "車横転し男性死亡 車体に動物の毛",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592877?source=rss",
-        "publishedAt": "2026-08-24T05:04:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592881?source=rss",
+        "publishedAt": "2026-08-24T06:37:24.000Z"
       }
     ],
     "subsidyHeadlines": [
