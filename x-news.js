@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T08:48:33.201Z",
+  "updatedAt": "2026-08-24T09:21:51.078Z",
   "items": [
+    {
+      "time": "17:42",
+      "title": "台風18号が沖縄へ 影響長引く恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592895?source=rss",
+      "publishedAt": "2026-08-24T08:42:48.000Z",
+      "xQuery": "台風18号が沖縄へ 影響長引く恐れ"
+    },
     {
       "time": "16:04",
       "title": "居眠り運転など検知 搭載義務化へ",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592884?source=rss",
       "publishedAt": "2026-08-24T07:04:25.000Z",
       "xQuery": "居眠り運転など検知 搭載義務化へ"
-    },
-    {
-      "time": "13:52",
-      "title": "イラン 攻撃重視の方針が鮮明に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592875?source=rss",
-      "publishedAt": "2026-08-24T04:52:41.000Z",
-      "xQuery": "イラン 攻撃重視の方針が鮮明に"
     },
     {
       "time": "15:21",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "木原氏 ICC所長と緊密に意思疎通"
     },
     {
-      "time": "15:37",
-      "title": "車横転し男性死亡 車体に動物の毛",
+      "time": "18:20",
+      "title": "クマと車衝突か 運転手の男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592881?source=rss",
-      "publishedAt": "2026-08-24T06:37:24.000Z",
-      "xQuery": "車横転し男性死亡 車体に動物の毛"
+      "url": "https://news.yahoo.co.jp/pickup/6592902?source=rss",
+      "publishedAt": "2026-08-24T09:20:01.000Z",
+      "xQuery": "クマと車衝突か 運転手の男性死亡"
     },
     {
       "time": "17:05",
