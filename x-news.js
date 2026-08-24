@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T04:19:46.682Z",
+  "updatedAt": "2026-08-24T04:48:11.024Z",
   "items": [
+    {
+      "time": "12:56",
+      "title": "ウ首相 日本に迎撃弾の供与を期待",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592870?source=rss",
+      "publishedAt": "2026-08-24T03:56:04.000Z",
+      "xQuery": "ウ首相 日本に迎撃弾の供与を期待"
+    },
     {
       "time": "11:58",
       "title": "猛暑日が続出 西日本で危険な暑さ",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "猛暑日が続出 西日本で危険な暑さ"
     },
     {
-      "time": "11:35",
-      "title": "出国税でクマ対策など 訪日客負担",
+      "time": "13:22",
+      "title": "売春防止法 買う側の勧誘も処罰案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592848?source=rss",
-      "publishedAt": "2026-08-24T02:35:22.000Z",
-      "xQuery": "出国税でクマ対策など 訪日客負担"
+      "url": "https://news.yahoo.co.jp/pickup/6592873?source=rss",
+      "publishedAt": "2026-08-24T04:22:46.000Z",
+      "xQuery": "売春防止法 買う側の勧誘も処罰案"
     },
     {
       "time": "12:38",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東武4人死亡 兄「納得できない」"
     },
     {
-      "time": "11:32",
-      "title": "路上で倒れていた高2死亡 事件か",
+      "time": "13:27",
+      "title": "高2が死亡 殴られたようなあと",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592857?source=rss",
-      "publishedAt": "2026-08-24T02:32:41.000Z",
-      "xQuery": "路上で倒れていた高2死亡 事件か"
-    },
-    {
-      "time": "12:09",
-      "title": "病院から逃走の被告 死因は内因死",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592861?source=rss",
-      "publishedAt": "2026-08-24T03:09:54.000Z",
-      "xQuery": "病院から逃走の被告 死因は内因死"
+      "url": "https://news.yahoo.co.jp/pickup/6592874?source=rss",
+      "publishedAt": "2026-08-24T04:27:08.000Z",
+      "xQuery": "高2が死亡 殴られたようなあと"
     }
   ]
 };
