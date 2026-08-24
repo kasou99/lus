@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T19:15:06.273Z",
+  "updatedAt": "2026-08-24T19:42:25.711Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,20 +8,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fTkhDMHJDZUdFVVN1VWNadzRDc3NwRWJGcXB5Y2pjSkVFeE94UFRIeThDYVp1aTRkTGZwZ2Znei1jNzhPWFZtV1lCX1Bha01FY2VBY2w2MzU2dUh4d3liU0F2clF3OUN2Z2ZKRw?oc=5",
         "publishedAt": "2026-08-24T05:30:00.000Z"
-      },
-      {
-        "time": "17:30",
-        "title": "ガントリーボーリング・フライス加工マシニングセンターの世界市場（2026年～2032年）、市場規模（固定ビーム型、可動ビーム型）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaSEd1bk9QTV9VQ0UtdVBhZXFvS3Q5SEFmcW80ZnJxY1NsOTRIa2FLZUkzaDE1QXZ2VGNCTDJzZFFGRTF2dVBCNkJrNGkydU0?oc=5",
-        "publishedAt": "2026-08-24T08:30:00.000Z"
-      },
-      {
-        "time": "09:42",
-        "title": "高松機械工業：NEUTRAL継続【今村証券アナリストレポート】",
-        "source": "株探",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10N3dad000QmFhdGM1NDF5eGdXMWQwUVRIN3g4bi1kTEtDT19FZ0ZiN3dLN1RBeEd2dF83clBEOEx2cEd4S1I5ck82bWZzRE9naHNlTjRUYlBSM3o1dTQ0Zw?oc=5",
-        "publishedAt": "2026-08-24T00:42:00.000Z"
       },
       {
         "time": "13:55",
@@ -45,18 +31,32 @@
         "publishedAt": "2026-08-24T10:26:02.000Z"
       },
       {
+        "time": "06:18",
+        "title": "九大、自動建機をスケッチで指示 システム開発、AIが行動ツリー作成",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yM1Aya2JzM195dFpWd1hHMHJCZU9XQk01SnZHVU1DbC1Hekt6U19xLWZmWFNZdFRLT1NIMDlVbGdsLVZjemVibmdDYkxyS2daUkk2M3RRVTRjQmctbnk1UlZsM2k5NVNQV1ZTN0lwTQ?oc=5",
+        "publishedAt": "2026-08-23T21:18:29.000Z"
+      },
+      {
+        "time": "09:42",
+        "title": "高松機械工業：NEUTRAL継続【今村証券アナリストレポート】",
+        "source": "株探",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10N3dad000QmFhdGM1NDF5eGdXMWQwUVRIN3g4bi1kTEtDT19FZ0ZiN3dLN1RBeEd2dF83clBEOEx2cEd4S1I5ck82bWZzRE9naHNlTjRUYlBSM3o1dTQ0Zw?oc=5",
+        "publishedAt": "2026-08-24T00:42:00.000Z"
+      },
+      {
+        "time": "17:30",
+        "title": "ガントリーボーリング・フライス加工マシニングセンターの世界市場（2026年～2032年）、市場規模（固定ビーム型、可動ビーム型）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaSEd1bk9QTV9VQ0UtdVBhZXFvS3Q5SEFmcW80ZnJxY1NsOTRIa2FLZUkzaDE1QXZ2VGNCTDJzZFFGRTF2dVBCNkJrNGkydU0?oc=5",
+        "publishedAt": "2026-08-24T08:30:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "勤務間インターバル、社員を守る ８年前に「１２時間」導入、ＤＭＧ森精機・森雅彦社長",
         "source": "朝日新聞",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16MGcwc0lsYy16MFJzSklzNjMxYXBpemZWdnlGSGRCTkJtWWJ4Um03VEVjUHZnUm9MMUl0THd4YzZNSFBvZG9YZGxWaHFpbUJCS0tGeVY3Nk5VcWNT?oc=5",
         "publishedAt": "2026-08-23T20:00:00.000Z"
-      },
-      {
-        "time": "17:48",
-        "title": "産業用製品比較販売サービス「メトリー」、佐々木希さんを起用した新広告を、小田急線全線にて掲出開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xNE9zV1hWYm5RS3g1SExYbzNMd0xxQkZjV2U5MWdKcDlUQTdSdGdlU0U5N3ZLb29YNjM0dmZXaGJHMGxGaWtGTUxDUThMdW1jbWM0M2dsdlozbzNJdS1zSlJ3YV9vdmpPYmloS0xuRjNfaFowMjlOeWZKOA?oc=5",
-        "publishedAt": "2026-08-24T08:48:34.000Z"
       }
     ],
     "worldHeadlines": [
