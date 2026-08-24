@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T07:53:23.178Z",
+  "updatedAt": "2026-08-24T08:20:40.623Z",
   "items": [
     {
       "time": "13:52",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車横転し男性死亡 車体に動物の毛"
     },
     {
-      "time": "14:42",
-      "title": "厚労省 映画とタイアップ巡り謝罪",
+      "time": "17:05",
+      "title": "モコモコ 永谷園が一時休売を発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592879?source=rss",
-      "publishedAt": "2026-08-24T05:42:19.000Z",
-      "xQuery": "厚労省 映画とタイアップ巡り謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6592889?source=rss",
+      "publishedAt": "2026-08-24T08:05:43.000Z",
+      "xQuery": "モコモコ 永谷園が一時休売を発表"
     }
   ]
 };
