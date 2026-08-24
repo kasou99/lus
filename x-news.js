@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T04:48:11.024Z",
+  "updatedAt": "2026-08-24T05:18:20.583Z",
   "items": [
-    {
-      "time": "12:56",
-      "title": "ウ首相 日本に迎撃弾の供与を期待",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592870?source=rss",
-      "publishedAt": "2026-08-24T03:56:04.000Z",
-      "xQuery": "ウ首相 日本に迎撃弾の供与を期待"
-    },
     {
       "time": "11:58",
       "title": "猛暑日が続出 西日本で危険な暑さ",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592874?source=rss",
       "publishedAt": "2026-08-24T04:27:08.000Z",
       "xQuery": "高2が死亡 殴られたようなあと"
+    },
+    {
+      "time": "14:04",
+      "title": "3歳落とし骨折させた疑い 母逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592877?source=rss",
+      "publishedAt": "2026-08-24T05:04:42.000Z",
+      "xQuery": "3歳落とし骨折させた疑い 母逮捕"
     }
   ]
 };

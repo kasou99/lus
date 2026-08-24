@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T04:48:10.205Z",
+  "updatedAt": "2026-08-24T05:18:19.582Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,6 +75,13 @@
         "publishedAt": "2026-08-24T03:56:04.000Z"
       },
       {
+        "time": "13:52",
+        "title": "イラン 攻撃重視の方針が鮮明に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592875?source=rss",
+        "publishedAt": "2026-08-24T04:52:41.000Z"
+      },
+      {
         "time": "16:38",
         "title": "米地裁 移民ビザ発給停止を無効化",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592752?source=rss",
         "publishedAt": "2026-08-23T02:40:28.000Z"
-      },
-      {
-        "time": "10:12",
-        "title": "伊首相 トランプ氏との確執吐露",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592742?source=rss",
-        "publishedAt": "2026-08-23T01:12:26.000Z"
       },
       {
         "time": "08:56",
@@ -163,13 +163,6 @@
         "publishedAt": "2026-08-24T03:38:21.000Z"
       },
       {
-        "time": "10:30",
-        "title": "江別暴行 当時17歳の懲役30年確定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592849?source=rss",
-        "publishedAt": "2026-08-24T01:30:03.000Z"
-      },
-      {
         "time": "11:32",
         "title": "路上で倒れていた高2死亡 事件か",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592861?source=rss",
         "publishedAt": "2026-08-24T03:09:54.000Z"
+      },
+      {
+        "time": "14:04",
+        "title": "3歳落とし骨折させた疑い 母逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592877?source=rss",
+        "publishedAt": "2026-08-24T05:04:42.000Z"
       }
     ],
     "subsidyHeadlines": [
