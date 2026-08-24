@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T21:11:20.907Z",
+  "updatedAt": "2026-08-24T21:42:16.394Z",
   "items": [
     {
       "time": "00:13",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "損保ジャパン 車保険料5%値上げへ"
     },
     {
+      "time": "06:09",
+      "title": "車正面衝突し2人死亡 幼児重傷か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592949?source=rss",
+      "publishedAt": "2026-08-24T21:09:49.000Z",
+      "xQuery": "車正面衝突し2人死亡 幼児重傷か"
+    },
+    {
       "time": "23:51",
       "title": "18歳死亡 灯籠と柱に挟まれる",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592940?source=rss",
       "publishedAt": "2026-08-24T13:39:56.000Z",
       "xQuery": "中国で白菜に発がん性物質か 調査"
-    },
-    {
-      "time": "18:03",
-      "title": "4億円寄付 ミャクミャク像造って",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592897?source=rss",
-      "publishedAt": "2026-08-24T09:03:13.000Z",
-      "xQuery": "4億円寄付 ミャクミャク像造って"
     }
   ]
 };
