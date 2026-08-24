@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T02:34:02.198Z",
+  "updatedAt": "2026-08-24T03:25:50.656Z",
   "items": [
     {
-      "time": "11:08",
-      "title": "綿貫民輔さんが死去 元衆院議長",
+      "time": "11:58",
+      "title": "猛暑日が続出 西日本で危険な暑さ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592852?source=rss",
-      "publishedAt": "2026-08-24T02:08:57.000Z",
-      "xQuery": "綿貫民輔さんが死去 元衆院議長"
+      "url": "https://news.yahoo.co.jp/pickup/6592859?source=rss",
+      "publishedAt": "2026-08-24T02:58:02.000Z",
+      "xQuery": "猛暑日が続出 西日本で危険な暑さ"
     },
     {
-      "time": "08:02",
-      "title": "露のウ侵攻から4年半 広がる戦禍",
+      "time": "11:35",
+      "title": "出国税でクマ対策など 訪日客負担",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592836?source=rss",
-      "publishedAt": "2026-08-23T23:02:34.000Z",
-      "xQuery": "露のウ侵攻から4年半 広がる戦禍"
-    },
-    {
-      "time": "08:56",
-      "title": "猛暑の仏 溺死者が300人超える",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592842?source=rss",
-      "publishedAt": "2026-08-23T23:56:52.000Z",
-      "xQuery": "猛暑の仏 溺死者が300人超える"
+      "url": "https://news.yahoo.co.jp/pickup/6592848?source=rss",
+      "publishedAt": "2026-08-24T02:35:22.000Z",
+      "xQuery": "出国税でクマ対策など 訪日客負担"
     },
     {
       "time": "09:57",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡県議会の蔵内氏 議員辞職へ"
     },
     {
-      "time": "10:55",
-      "title": "蔵内氏辞職表明 福岡知事コメント",
+      "time": "11:32",
+      "title": "路上で倒れていた高2死亡 事件か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592851?source=rss",
-      "publishedAt": "2026-08-24T01:55:54.000Z",
-      "xQuery": "蔵内氏辞職表明 福岡知事コメント"
+      "url": "https://news.yahoo.co.jp/pickup/6592857?source=rss",
+      "publishedAt": "2026-08-24T02:32:41.000Z",
+      "xQuery": "路上で倒れていた高2死亡 事件か"
+    },
+    {
+      "time": "12:09",
+      "title": "病院から逃走の被告 死因は内因死",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592861?source=rss",
+      "publishedAt": "2026-08-24T03:09:54.000Z",
+      "xQuery": "病院から逃走の被告 死因は内因死"
     }
   ]
 };

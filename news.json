@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T02:34:01.481Z",
+  "updatedAt": "2026-08-24T03:25:49.890Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-08-23T20:04:35.000Z"
       },
       {
+        "time": "05:00",
+        "title": "ファナック、今年度の設備投資3割増 壬生でFA機器増産",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uYmJ3SGhlS2QyMUh5R0U1UHRKNnpiakp4dVpXREotVWtCRHNuV3dMNlJ2M2ZsaDZGeHA2Y0w1cl9heHUxTHdNSGY5SUYtUTVUclRiQmxjQ1JlanF0RkJiN2gyRDR5bHB0UlV6ck9kSQ?oc=5",
+        "publishedAt": "2026-08-23T20:00:00.000Z"
+      },
+      {
         "time": "00:36",
         "title": "フエスト、衛生環境向け駆動システム 高精度制御と両立",
         "source": "日刊工業新聞",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592734?source=rss",
         "publishedAt": "2026-08-22T23:54:01.000Z"
-      },
-      {
-        "time": "08:32",
-        "title": "発火相次ぐ「モバ充」規制強化へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592731?source=rss",
-        "publishedAt": "2026-08-22T23:32:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-08-24T01:55:54.000Z"
       },
       {
-        "time": "08:57",
-        "title": "福岡市長 11月の選挙不出馬を表明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592843?source=rss",
-        "publishedAt": "2026-08-23T23:57:29.000Z"
-      },
-      {
         "time": "10:30",
         "title": "江別暴行 当時17歳の懲役30年確定",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592849?source=rss",
         "publishedAt": "2026-08-24T01:30:03.000Z"
+      },
+      {
+        "time": "11:32",
+        "title": "路上で倒れていた高2死亡 事件か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592857?source=rss",
+        "publishedAt": "2026-08-24T02:32:41.000Z"
       },
       {
         "time": "21:24",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-23T12:24:38.000Z"
       },
       {
-        "time": "06:45",
-        "title": "車と衝突 バイクの18歳高校生死亡",
+        "time": "12:09",
+        "title": "病院から逃走の被告 死因は内因死",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592824?source=rss",
-        "publishedAt": "2026-08-23T21:45:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592861?source=rss",
+        "publishedAt": "2026-08-24T03:09:54.000Z"
       }
     ],
     "subsidyHeadlines": [
