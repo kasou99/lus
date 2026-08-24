@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T11:11:41.777Z",
+  "updatedAt": "2026-08-24T11:42:15.899Z",
   "items": [
     {
-      "time": "17:42",
-      "title": "台風18号が沖縄へ 影響長引く恐れ",
+      "time": "20:39",
+      "title": "25日 熊本など40℃酷暑日予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592895?source=rss",
-      "publishedAt": "2026-08-24T08:42:48.000Z",
-      "xQuery": "台風18号が沖縄へ 影響長引く恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6592922?source=rss",
+      "publishedAt": "2026-08-24T11:39:57.000Z",
+      "xQuery": "25日 熊本など40℃酷暑日予想"
     },
     {
-      "time": "16:37",
-      "title": "大雨でごみ山崩落30人死亡 ギニア",
+      "time": "19:59",
+      "title": "ダークパターン 規制強化の方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592886?source=rss",
-      "publishedAt": "2026-08-24T07:37:29.000Z",
-      "xQuery": "大雨でごみ山崩落30人死亡 ギニア"
+      "url": "https://news.yahoo.co.jp/pickup/6592916?source=rss",
+      "publishedAt": "2026-08-24T10:59:18.000Z",
+      "xQuery": "ダークパターン 規制強化の方針"
     },
     {
       "time": "19:18",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "プルデンシャル 自粛中に不祥事か"
     },
     {
-      "time": "18:20",
-      "title": "クマと車衝突か 運転手の男性死亡",
+      "time": "20:17",
+      "title": "高2死亡 車に追われるバイク映る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592902?source=rss",
-      "publishedAt": "2026-08-24T09:20:01.000Z",
-      "xQuery": "クマと車衝突か 運転手の男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6592919?source=rss",
+      "publishedAt": "2026-08-24T11:17:29.000Z",
+      "xQuery": "高2死亡 車に追われるバイク映る"
     },
     {
       "time": "19:23",
