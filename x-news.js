@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-23T23:38:43.119Z",
+  "updatedAt": "2026-08-24T00:21:51.088Z",
   "items": [
+    {
+      "time": "08:02",
+      "title": "露のウ侵攻から4年半 広がる戦禍",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592836?source=rss",
+      "publishedAt": "2026-08-23T23:02:34.000Z",
+      "xQuery": "露のウ侵攻から4年半 広がる戦禍"
+    },
     {
       "time": "08:05",
       "title": "台風18号が南西諸島に接近へ 警戒",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592837?source=rss",
       "publishedAt": "2026-08-23T23:05:50.000Z",
       "xQuery": "台風18号が南西諸島に接近へ 警戒"
-    },
-    {
-      "time": "07:41",
-      "title": "処理水放出3年 タンク貯蔵量7%減",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592831?source=rss",
-      "publishedAt": "2026-08-23T22:41:33.000Z",
-      "xQuery": "処理水放出3年 タンク貯蔵量7%減"
     },
     {
       "time": "08:27",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "外国人のレンタカー事故多発 実態"
     },
     {
-      "time": "06:45",
-      "title": "車と衝突 バイクの18歳高校生死亡",
+      "time": "08:57",
+      "title": "福岡市長 11月の選挙不出馬を表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592824?source=rss",
-      "publishedAt": "2026-08-23T21:45:25.000Z",
-      "xQuery": "車と衝突 バイクの18歳高校生死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6592843?source=rss",
+      "publishedAt": "2026-08-23T23:57:29.000Z",
+      "xQuery": "福岡市長 11月の選挙不出馬を表明"
     },
     {
-      "time": "07:59",
-      "title": "「うるう時間」27年5月導入へ議論",
+      "time": "08:56",
+      "title": "猛暑の仏 溺死者が300人超える",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592835?source=rss",
-      "publishedAt": "2026-08-23T22:59:27.000Z",
-      "xQuery": "「うるう時間」27年5月導入へ議論"
+      "url": "https://news.yahoo.co.jp/pickup/6592842?source=rss",
+      "publishedAt": "2026-08-23T23:56:52.000Z",
+      "xQuery": "猛暑の仏 溺死者が300人超える"
     }
   ]
 };

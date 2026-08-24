@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T23:38:42.384Z",
+  "updatedAt": "2026-08-24T00:21:50.353Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,13 +75,6 @@
         "publishedAt": "2026-08-22T23:14:12.000Z"
       },
       {
-        "time": "07:45",
-        "title": "カナダ首相 対米報復関税を発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592725?source=rss",
-        "publishedAt": "2026-08-22T22:45:26.000Z"
-      },
-      {
         "time": "16:38",
         "title": "米地裁 移民ビザ発給停止を無効化",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592742?source=rss",
         "publishedAt": "2026-08-23T01:12:26.000Z"
+      },
+      {
+        "time": "08:56",
+        "title": "猛暑の仏 溺死者が300人超える",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592842?source=rss",
+        "publishedAt": "2026-08-23T23:56:52.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:57",
+        "title": "福岡市長 11月の選挙不出馬を表明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592843?source=rss",
+        "publishedAt": "2026-08-23T23:57:29.000Z"
+      },
+      {
         "time": "08:27",
         "title": "外国人のレンタカー事故多発 実態",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592825?source=rss",
         "publishedAt": "2026-08-23T22:07:43.000Z"
-      },
-      {
-        "time": "06:45",
-        "title": "車と衝突 バイクの18歳高校生死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592824?source=rss",
-        "publishedAt": "2026-08-23T21:45:25.000Z"
       }
     ],
     "subsidyHeadlines": [
