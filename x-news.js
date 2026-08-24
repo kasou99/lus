@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T13:23:51.995Z",
+  "updatedAt": "2026-08-24T13:49:09.677Z",
   "items": [
     {
-      "time": "20:39",
-      "title": "25日 熊本など40℃酷暑日予想",
+      "time": "21:32",
+      "title": "ICC制裁巡り超党派議連が非難声明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592922?source=rss",
-      "publishedAt": "2026-08-24T11:39:57.000Z",
-      "xQuery": "25日 熊本など40℃酷暑日予想"
+      "url": "https://news.yahoo.co.jp/pickup/6592929?source=rss",
+      "publishedAt": "2026-08-24T12:32:19.000Z",
+      "xQuery": "ICC制裁巡り超党派議連が非難声明"
     },
     {
-      "time": "19:59",
-      "title": "ダークパターン 規制強化の方針",
+      "time": "22:33",
+      "title": "損保ジャパン 車保険料5%値上げへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592916?source=rss",
-      "publishedAt": "2026-08-24T10:59:18.000Z",
-      "xQuery": "ダークパターン 規制強化の方針"
+      "url": "https://news.yahoo.co.jp/pickup/6592942?source=rss",
+      "publishedAt": "2026-08-24T13:33:23.000Z",
+      "xQuery": "損保ジャパン 車保険料5%値上げへ"
     },
     {
       "time": "20:17",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "高2死亡 車に追われるバイク映る"
     },
     {
-      "time": "22:05",
-      "title": "中国 白菜類に発がん性物質使用か",
+      "time": "22:37",
+      "title": "10人乗るクルーザー座礁 2人重傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592933?source=rss",
-      "publishedAt": "2026-08-24T13:05:13.000Z",
-      "xQuery": "中国 白菜類に発がん性物質使用か"
+      "url": "https://news.yahoo.co.jp/pickup/6592941?source=rss",
+      "publishedAt": "2026-08-24T13:37:47.000Z",
+      "xQuery": "10人乗るクルーザー座礁 2人重傷"
     },
     {
-      "time": "17:10",
-      "title": "ドローン報道 BERGが楽天店撤退",
+      "time": "22:39",
+      "title": "中国で白菜に発がん性物質か 調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592893?source=rss",
-      "publishedAt": "2026-08-24T08:10:46.000Z",
-      "xQuery": "ドローン報道 BERGが楽天店撤退"
+      "url": "https://news.yahoo.co.jp/pickup/6592940?source=rss",
+      "publishedAt": "2026-08-24T13:39:56.000Z",
+      "xQuery": "中国で白菜に発がん性物質か 調査"
     }
   ]
 };
