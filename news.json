@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T20:44:16.646Z",
+  "updatedAt": "2026-08-24T21:11:19.841Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -170,6 +170,13 @@
         "publishedAt": "2026-08-24T13:37:47.000Z"
       },
       {
+        "time": "06:09",
+        "title": "車正面衝突し2人死亡 幼児重傷か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592949?source=rss",
+        "publishedAt": "2026-08-24T21:09:49.000Z"
+      },
+      {
         "time": "18:20",
         "title": "クマと車衝突か 運転手の男性死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592947?source=rss",
         "publishedAt": "2026-08-24T14:51:24.000Z"
-      },
-      {
-        "time": "22:58",
-        "title": "店の駐車場で売上200万円奪われる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592938?source=rss",
-        "publishedAt": "2026-08-24T13:58:48.000Z"
       }
     ],
     "subsidyHeadlines": [
