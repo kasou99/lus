@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T07:27:44.752Z",
+  "updatedAt": "2026-08-24T07:53:23.178Z",
   "items": [
     {
       "time": "13:52",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "居眠り運転など検知 搭載義務化へ"
     },
     {
-      "time": "14:04",
-      "title": "3歳落とし骨折させた疑い 母逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592877?source=rss",
-      "publishedAt": "2026-08-24T05:04:42.000Z",
-      "xQuery": "3歳落とし骨折させた疑い 母逮捕"
-    },
-    {
       "time": "15:37",
       "title": "車横転し男性死亡 車体に動物の毛",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592881?source=rss",
       "publishedAt": "2026-08-24T06:37:24.000Z",
       "xQuery": "車横転し男性死亡 車体に動物の毛"
+    },
+    {
+      "time": "14:42",
+      "title": "厚労省 映画とタイアップ巡り謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592879?source=rss",
+      "publishedAt": "2026-08-24T05:42:19.000Z",
+      "xQuery": "厚労省 映画とタイアップ巡り謝罪"
     }
   ]
 };
