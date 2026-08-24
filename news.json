@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T03:50:21.798Z",
+  "updatedAt": "2026-08-24T04:19:45.934Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-08-23T20:04:35.000Z"
       },
       {
-        "time": "05:00",
-        "title": "ファナック、今年度の設備投資3割増 壬生でFA機器増産",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uYmJ3SGhlS2QyMUh5R0U1UHRKNnpiakp4dVpXREotVWtCRHNuV3dMNlJ2M2ZsaDZGeHA2Y0w1cl9heHUxTHdNSGY5SUYtUTVUclRiQmxjQ1JlanF0RkJiN2gyRDR5bHB0UlV6ck9kSQ?oc=5",
-        "publishedAt": "2026-08-23T20:00:00.000Z"
-      },
-      {
         "time": "00:36",
         "title": "フエスト、衛生環境向け駆動システム 高精度制御と両立",
         "source": "日刊工業新聞",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592777?source=rss",
         "publishedAt": "2026-08-23T07:32:51.000Z"
+      },
+      {
+        "time": "18:28",
+        "title": "ソニー 中国「TCL」と手を組む訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592793?source=rss",
+        "publishedAt": "2026-08-23T09:28:39.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,11 @@
         "publishedAt": "2026-08-23T23:02:34.000Z"
       },
       {
-        "time": "08:14",
-        "title": "ウ側に協力 特殊作戦担うロシア人",
+        "time": "12:56",
+        "title": "ウ首相 日本に迎撃弾の供与を期待",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592729?source=rss",
-        "publishedAt": "2026-08-22T23:14:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592870?source=rss",
+        "publishedAt": "2026-08-24T03:56:04.000Z"
       },
       {
         "time": "16:38",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-08-23T06:05:12.000Z"
       },
       {
-        "time": "12:42",
-        "title": "サンマ高騰の背景 今後のポイント",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592866?source=rss",
-        "publishedAt": "2026-08-24T03:42:14.000Z"
-      },
-      {
         "time": "20:38",
         "title": "戸建て売り入居する人も 団地人気",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592805?source=rss",
         "publishedAt": "2026-08-23T11:38:30.000Z"
+      },
+      {
+        "time": "13:02",
+        "title": "総合居酒屋苦戦 老舗チェーンの今",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592871?source=rss",
+        "publishedAt": "2026-08-24T04:02:56.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,13 +154,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592847?source=rss",
         "publishedAt": "2026-08-24T00:57:10.000Z"
-      },
-      {
-        "time": "10:55",
-        "title": "蔵内氏辞職表明 福岡知事コメント",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592851?source=rss",
-        "publishedAt": "2026-08-24T01:55:54.000Z"
       },
       {
         "time": "12:38",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592861?source=rss",
         "publishedAt": "2026-08-24T03:09:54.000Z"
+      },
+      {
+        "time": "08:27",
+        "title": "外国人のレンタカー事故多発 実態",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592839?source=rss",
+        "publishedAt": "2026-08-23T23:27:30.000Z"
       }
     ],
     "subsidyHeadlines": [
