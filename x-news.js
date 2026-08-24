@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T12:48:55.526Z",
+  "updatedAt": "2026-08-24T13:23:51.995Z",
   "items": [
     {
       "time": "20:39",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高2死亡 車に追われるバイク映る"
     },
     {
-      "time": "21:02",
-      "title": "誤って裁判官1人で審理 本来は3人",
+      "time": "22:05",
+      "title": "中国 白菜類に発がん性物質使用か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592923?source=rss",
-      "publishedAt": "2026-08-24T12:02:30.000Z",
-      "xQuery": "誤って裁判官1人で審理 本来は3人"
+      "url": "https://news.yahoo.co.jp/pickup/6592933?source=rss",
+      "publishedAt": "2026-08-24T13:05:13.000Z",
+      "xQuery": "中国 白菜類に発がん性物質使用か"
     },
     {
       "time": "17:10",
