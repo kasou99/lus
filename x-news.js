@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T05:46:34.171Z",
+  "updatedAt": "2026-08-24T06:20:47.902Z",
   "items": [
     {
-      "time": "11:58",
-      "title": "猛暑日が続出 西日本で危険な暑さ",
+      "time": "13:52",
+      "title": "イラン 攻撃重視の方針が鮮明に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592859?source=rss",
-      "publishedAt": "2026-08-24T02:58:02.000Z",
-      "xQuery": "猛暑日が続出 西日本で危険な暑さ"
+      "url": "https://news.yahoo.co.jp/pickup/6592875?source=rss",
+      "publishedAt": "2026-08-24T04:52:41.000Z",
+      "xQuery": "イラン 攻撃重視の方針が鮮明に"
     },
     {
       "time": "14:32",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳落とし骨折させた疑い 母逮捕"
     },
     {
-      "time": "12:42",
-      "title": "サンマ高騰の背景 今後のポイント",
+      "time": "14:42",
+      "title": "厚労省 映画とタイアップ巡り謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592866?source=rss",
-      "publishedAt": "2026-08-24T03:42:14.000Z",
-      "xQuery": "サンマ高騰の背景 今後のポイント"
+      "url": "https://news.yahoo.co.jp/pickup/6592879?source=rss",
+      "publishedAt": "2026-08-24T05:42:19.000Z",
+      "xQuery": "厚労省 映画とタイアップ巡り謝罪"
     }
   ]
 };
