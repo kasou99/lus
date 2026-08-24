@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T11:42:15.899Z",
+  "updatedAt": "2026-08-24T12:13:35.513Z",
   "items": [
     {
       "time": "20:39",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高2死亡 車に追われるバイク映る"
     },
     {
-      "time": "19:23",
-      "title": "車横転で子ども含む6人けが 東京",
+      "time": "18:05",
+      "title": "ファミマがレジ端末の刷新検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592911?source=rss",
-      "publishedAt": "2026-08-24T10:23:19.000Z",
-      "xQuery": "車横転で子ども含む6人けが 東京"
+      "url": "https://news.yahoo.co.jp/pickup/6592899?source=rss",
+      "publishedAt": "2026-08-24T09:05:00.000Z",
+      "xQuery": "ファミマがレジ端末の刷新検討"
     }
   ]
 };
