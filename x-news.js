@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T08:20:40.623Z",
+  "updatedAt": "2026-08-24T08:48:33.201Z",
   "items": [
+    {
+      "time": "16:04",
+      "title": "居眠り運転など検知 搭載義務化へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592884?source=rss",
+      "publishedAt": "2026-08-24T07:04:25.000Z",
+      "xQuery": "居眠り運転など検知 搭載義務化へ"
+    },
     {
       "time": "13:52",
       "title": "イラン 攻撃重視の方針が鮮明に",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン 攻撃重視の方針が鮮明に"
     },
     {
-      "time": "14:32",
-      "title": "豪雨 千葉市が避難レベル誤り配信",
+      "time": "15:21",
+      "title": "木原氏 ICC所長と緊密に意思疎通",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592878?source=rss",
-      "publishedAt": "2026-08-24T05:32:24.000Z",
-      "xQuery": "豪雨 千葉市が避難レベル誤り配信"
-    },
-    {
-      "time": "16:04",
-      "title": "居眠り運転など検知 搭載義務化へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592884?source=rss",
-      "publishedAt": "2026-08-24T07:04:25.000Z",
-      "xQuery": "居眠り運転など検知 搭載義務化へ"
+      "url": "https://news.yahoo.co.jp/pickup/6592880?source=rss",
+      "publishedAt": "2026-08-24T06:21:28.000Z",
+      "xQuery": "木原氏 ICC所長と緊密に意思疎通"
     },
     {
       "time": "15:37",
