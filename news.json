@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T18:12:32.848Z",
+  "updatedAt": "2026-08-24T18:47:43.496Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-08-24T04:55:28.000Z"
       },
       {
-        "time": "19:26",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-08-24T10:26:02.000Z"
-      },
-      {
         "time": "16:00",
         "title": "グローバル電池グレード再生リン酸鉄リチウムのトップ会社の市場シェアおよびランキング 2026",
         "source": "ドリームニュース",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-08-24T07:00:00.000Z"
       },
       {
+        "time": "19:26",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-08-24T10:26:02.000Z"
+      },
+      {
+        "time": "06:19",
+        "title": "新社長登場／日本酸素HD・渡辺忠治社長CEO エレに続く成長事業育成",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2T2l0WGY1c0tyMm5xbTNlMy0wVy1BYmZyVkhHM0ZmZmFMa2dPcURNanFZMjZncE42ZEVWekotYUh2RnIyeVJ3ZFBfckJMandlYmF5YXBIaldvNHZkeVc4d0VYdFlLY3ZkZm1idTJoOA?oc=5",
+        "publishedAt": "2026-08-23T21:19:12.000Z"
+      },
+      {
         "time": "05:00",
         "title": "勤務間インターバル、社員を守る ８年前に「１２時間」導入、ＤＭＧ森精機・森雅彦社長",
         "source": "朝日新聞",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16MGcwc0lsYy16MFJzSklzNjMxYXBpemZWdnlGSGRCTkJtWWJ4Um03VEVjUHZnUm9MMUl0THd4YzZNSFBvZG9YZGxWaHFpbUJCS0tGeVY3Nk5VcWNT?oc=5",
         "publishedAt": "2026-08-23T20:00:00.000Z"
-      },
-      {
-        "time": "17:48",
-        "title": "産業用製品比較販売サービス「メトリー」、佐々木希さんを起用した新広告を、小田急線全線にて掲出開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xNE9zV1hWYm5RS3g1SExYbzNMd0xxQkZjV2U5MWdKcDlUQTdSdGdlU0U5N3ZLb29YNjM0dmZXaGJHMGxGaWtGTUxDUThMdW1jbWM0M2dsdlozbzNJdS1zSlJ3YV9vdmpPYmloS0xuRjNfaFowMjlOeWZKOA?oc=5",
-        "publishedAt": "2026-08-24T08:48:34.000Z"
       }
     ],
     "worldHeadlines": [
