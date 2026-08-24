@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T01:34:02.086Z",
+  "updatedAt": "2026-08-24T02:34:01.481Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-08-24T01:03:21.000Z"
       },
       {
-        "time": "05:00",
-        "title": "ファナック、今年度の設備投資3割増 壬生でFA機器増産",
+        "time": "05:04",
+        "title": "卓見異見／宇宙サーキュラー、日本の強みに 早稲田大学理工学術院教授 野中朋美",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5bTk2UTNNckxnbVFfME84TVRGNFNLdjlEZ0Y5X3gxcVRKN2pKNXNmOUIwemdleWZuTy1vYUY5NzdsbkhrQzczZmR6N1RraWVmaDlpaGIzQVU?oc=5",
-        "publishedAt": "2026-08-23T20:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wOXZoV0RsRlJ5aThCVU9qTDNqTlplZHBQLXZCNzFtcEhyRDgtVHRLc0QtVTEtNWJnaVRURnNacklhQ09VRkFpUnRKU2RaRm1WamNVVHpveGI?oc=5",
+        "publishedAt": "2026-08-23T20:04:35.000Z"
       },
       {
         "time": "00:36",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "10:30",
-        "title": "江別暴行 当時17歳の懲役30年確定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592849?source=rss",
-        "publishedAt": "2026-08-24T01:30:03.000Z"
-      },
-      {
         "time": "09:57",
         "title": "福岡県議会の蔵内氏 議員辞職へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592847?source=rss",
         "publishedAt": "2026-08-24T00:57:10.000Z"
+      },
+      {
+        "time": "10:55",
+        "title": "蔵内氏辞職表明 福岡知事コメント",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592851?source=rss",
+        "publishedAt": "2026-08-24T01:55:54.000Z"
       },
       {
         "time": "08:57",
@@ -170,11 +170,11 @@
         "publishedAt": "2026-08-23T23:57:29.000Z"
       },
       {
-        "time": "08:27",
-        "title": "外国人のレンタカー事故多発 実態",
+        "time": "10:30",
+        "title": "江別暴行 当時17歳の懲役30年確定",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592839?source=rss",
-        "publishedAt": "2026-08-23T23:27:30.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592849?source=rss",
+        "publishedAt": "2026-08-24T01:30:03.000Z"
       },
       {
         "time": "21:24",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-23T12:24:38.000Z"
       },
       {
-        "time": "19:58",
-        "title": "4人死亡 事故までに列車3本が通過",
+        "time": "06:45",
+        "title": "車と衝突 バイクの18歳高校生死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592798?source=rss",
-        "publishedAt": "2026-08-23T10:58:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592824?source=rss",
+        "publishedAt": "2026-08-23T21:45:25.000Z"
       }
     ],
     "subsidyHeadlines": [

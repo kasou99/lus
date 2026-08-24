@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T01:34:02.831Z",
+  "updatedAt": "2026-08-24T02:34:02.198Z",
   "items": [
     {
-      "time": "09:57",
-      "title": "福岡県議会の蔵内氏 議員辞職へ",
+      "time": "11:08",
+      "title": "綿貫民輔さんが死去 元衆院議長",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592847?source=rss",
-      "publishedAt": "2026-08-24T00:57:10.000Z",
-      "xQuery": "福岡県議会の蔵内氏 議員辞職へ"
+      "url": "https://news.yahoo.co.jp/pickup/6592852?source=rss",
+      "publishedAt": "2026-08-24T02:08:57.000Z",
+      "xQuery": "綿貫民輔さんが死去 元衆院議長"
     },
     {
       "time": "08:02",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "露のウ侵攻から4年半 広がる戦禍"
     },
     {
-      "time": "10:30",
-      "title": "江別暴行 当時17歳の懲役30年確定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592849?source=rss",
-      "publishedAt": "2026-08-24T01:30:03.000Z",
-      "xQuery": "江別暴行 当時17歳の懲役30年確定"
-    },
-    {
-      "time": "08:27",
-      "title": "外国人のレンタカー事故多発 実態",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592839?source=rss",
-      "publishedAt": "2026-08-23T23:27:30.000Z",
-      "xQuery": "外国人のレンタカー事故多発 実態"
-    },
-    {
       "time": "08:56",
       "title": "猛暑の仏 溺死者が300人超える",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592842?source=rss",
       "publishedAt": "2026-08-23T23:56:52.000Z",
       "xQuery": "猛暑の仏 溺死者が300人超える"
+    },
+    {
+      "time": "09:57",
+      "title": "福岡県議会の蔵内氏 議員辞職へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592847?source=rss",
+      "publishedAt": "2026-08-24T00:57:10.000Z",
+      "xQuery": "福岡県議会の蔵内氏 議員辞職へ"
+    },
+    {
+      "time": "10:55",
+      "title": "蔵内氏辞職表明 福岡知事コメント",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592851?source=rss",
+      "publishedAt": "2026-08-24T01:55:54.000Z",
+      "xQuery": "蔵内氏辞職表明 福岡知事コメント"
     }
   ]
 };
