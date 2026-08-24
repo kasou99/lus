@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T15:47:22.474Z",
+  "updatedAt": "2026-08-24T16:14:17.274Z",
   "items": [
     {
       "time": "00:13",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592948?source=rss",
       "publishedAt": "2026-08-24T15:13:29.000Z",
       "xQuery": "カナダ車関税2倍へ 米大統領表明"
-    },
-    {
-      "time": "21:32",
-      "title": "ICC制裁巡り超党派議連が非難声明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592929?source=rss",
-      "publishedAt": "2026-08-24T12:32:19.000Z",
-      "xQuery": "ICC制裁巡り超党派議連が非難声明"
     },
     {
       "time": "22:33",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592940?source=rss",
       "publishedAt": "2026-08-24T13:39:56.000Z",
       "xQuery": "中国で白菜に発がん性物質か 調査"
+    },
+    {
+      "time": "18:03",
+      "title": "4億円寄付 ミャクミャク像造って",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592897?source=rss",
+      "publishedAt": "2026-08-24T09:03:13.000Z",
+      "xQuery": "4億円寄付 ミャクミャク像造って"
     }
   ]
 };

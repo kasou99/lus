@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T15:47:21.312Z",
+  "updatedAt": "2026-08-24T16:14:16.532Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fTkhDMHJDZUdFVVN1VWNadzRDc3NwRWJGcXB5Y2pjSkVFeE94UFRIeThDYVp1aTRkTGZwZ2Znei1jNzhPWFZtV1lCX1Bha01FY2VBY2w2MzU2dUh4d3liU0F2clF3OUN2Z2ZKRw?oc=5",
         "publishedAt": "2026-08-24T05:30:00.000Z"
+      },
+      {
+        "time": "09:42",
+        "title": "高松機械工業：NEUTRAL継続【今村証券アナリストレポート】",
+        "source": "株探",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10N3dad000QmFhdGM1NDF5eGdXMWQwUVRIN3g4bi1kTEtDT19FZ0ZiN3dLN1RBeEd2dF83clBEOEx2cEd4S1I5ck82bWZzRE9naHNlTjRUYlBSM3o1dTQ0Zw?oc=5",
+        "publishedAt": "2026-08-24T00:42:00.000Z"
       },
       {
         "time": "13:55",
@@ -43,13 +50,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2T2l0WGY1c0tyMm5xbTNlMy0wVy1BYmZyVkhHM0ZmZmFMa2dPcURNanFZMjZncE42ZEVWekotYUh2RnIyeVJ3ZFBfckJMandlYmF5YXBIaldvNHZkeVc4d0VYdFlLY3ZkZm1idTJoOA?oc=5",
         "publishedAt": "2026-08-23T21:19:12.000Z"
-      },
-      {
-        "time": "09:42",
-        "title": "高松機械工業：NEUTRAL継続【今村証券アナリストレポート】",
-        "source": "株探",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10N3dad000QmFhdGM1NDF5eGdXMWQwUVRIN3g4bi1kTEtDT19FZ0ZiN3dLN1RBeEd2dF83clBEOEx2cEd4S1I5ck82bWZzRE9naHNlTjRUYlBSM3o1dTQ0Zw?oc=5",
-        "publishedAt": "2026-08-24T00:42:00.000Z"
       },
       {
         "time": "17:30",
