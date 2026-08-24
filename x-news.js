@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T09:21:51.078Z",
+  "updatedAt": "2026-08-24T09:48:34.610Z",
   "items": [
     {
       "time": "17:42",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "クマと車衝突か 運転手の男性死亡"
     },
     {
-      "time": "17:05",
-      "title": "モコモコ 永谷園が一時休売を発表",
+      "time": "18:26",
+      "title": "ママせかタイアップ中止 厚労省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592889?source=rss",
-      "publishedAt": "2026-08-24T08:05:43.000Z",
-      "xQuery": "モコモコ 永谷園が一時休売を発表"
+      "url": "https://news.yahoo.co.jp/pickup/6592907?source=rss",
+      "publishedAt": "2026-08-24T09:26:04.000Z",
+      "xQuery": "ママせかタイアップ中止 厚労省"
     }
   ]
 };

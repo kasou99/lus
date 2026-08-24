@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T09:21:49.378Z",
+  "updatedAt": "2026-08-24T09:48:33.876Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-08-23T20:00:00.000Z"
       },
       {
+        "time": "05:40",
+        "title": "メイカーズ、直径4㎜・カメラ搭載 狭所検査装置",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50RDZMTlJPaXFHLVVsckF4c1lKQTk4UkJaU2NEWE12SXY1YUFKeFk4czJRQ2tWSTJNOUN5bDdNRlRoME9ZOGRqQWR5bHNFU0FoMVZxME45VFdhazVZR1dpdUg4YnBxNmxhU0c1SXVaRQ?oc=5",
+        "publishedAt": "2026-08-23T20:40:49.000Z"
+      },
+      {
         "time": "05:03",
         "title": "兵庫工業会、中小寄り添いDX支援ゼミ 1年間かけ実践活用",
         "source": "日刊工業新聞",
@@ -50,13 +57,6 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xTlkzYWJ6eTVYdWsyNmdjczhadjhmSUYtTUE1RDBWSzRIaTNwMzdPd1ZrV05ZSVFPdEs5YVlORXc1V1JPRmEtNzc4NC1iU3c?oc=5",
         "publishedAt": "2026-08-24T08:30:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "勤務間インターバル、社員を守る ８年前に「１２時間」導入、ＤＭＧ森精機・森雅彦社長",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16MGcwc0lsYy16MFJzSklzNjMxYXBpemZWdnlGSGRCTkJtWWJ4Um03VEVjUHZnUm9MMUl0THd4YzZNSFBvZG9YZGxWaHFpbUJCS0tGeVY3Nk5VcWNT?oc=5",
-        "publishedAt": "2026-08-23T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
