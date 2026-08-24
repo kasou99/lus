@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T12:13:35.513Z",
+  "updatedAt": "2026-08-24T12:48:55.526Z",
   "items": [
     {
       "time": "20:39",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ダークパターン 規制強化の方針"
     },
     {
-      "time": "19:18",
-      "title": "プルデンシャル 自粛中に不祥事か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592910?source=rss",
-      "publishedAt": "2026-08-24T10:18:05.000Z",
-      "xQuery": "プルデンシャル 自粛中に不祥事か"
-    },
-    {
       "time": "20:17",
       "title": "高2死亡 車に追われるバイク映る",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "高2死亡 車に追われるバイク映る"
     },
     {
-      "time": "18:05",
-      "title": "ファミマがレジ端末の刷新検討",
+      "time": "21:02",
+      "title": "誤って裁判官1人で審理 本来は3人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592899?source=rss",
-      "publishedAt": "2026-08-24T09:05:00.000Z",
-      "xQuery": "ファミマがレジ端末の刷新検討"
+      "url": "https://news.yahoo.co.jp/pickup/6592923?source=rss",
+      "publishedAt": "2026-08-24T12:02:30.000Z",
+      "xQuery": "誤って裁判官1人で審理 本来は3人"
+    },
+    {
+      "time": "17:10",
+      "title": "ドローン報道 BERGが楽天店撤退",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592893?source=rss",
+      "publishedAt": "2026-08-24T08:10:46.000Z",
+      "xQuery": "ドローン報道 BERGが楽天店撤退"
     }
   ]
 };
