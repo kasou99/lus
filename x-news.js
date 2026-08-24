@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T05:18:20.583Z",
+  "updatedAt": "2026-08-24T05:46:34.171Z",
   "items": [
     {
       "time": "11:58",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "猛暑日が続出 西日本で危険な暑さ"
     },
     {
-      "time": "13:22",
-      "title": "売春防止法 買う側の勧誘も処罰案",
+      "time": "14:32",
+      "title": "豪雨 千葉市が避難レベル誤り配信",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592873?source=rss",
-      "publishedAt": "2026-08-24T04:22:46.000Z",
-      "xQuery": "売春防止法 買う側の勧誘も処罰案"
-    },
-    {
-      "time": "12:38",
-      "title": "東武4人死亡 兄「納得できない」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592869?source=rss",
-      "publishedAt": "2026-08-24T03:38:21.000Z",
-      "xQuery": "東武4人死亡 兄「納得できない」"
+      "url": "https://news.yahoo.co.jp/pickup/6592878?source=rss",
+      "publishedAt": "2026-08-24T05:32:24.000Z",
+      "xQuery": "豪雨 千葉市が避難レベル誤り配信"
     },
     {
       "time": "13:27",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592877?source=rss",
       "publishedAt": "2026-08-24T05:04:42.000Z",
       "xQuery": "3歳落とし骨折させた疑い 母逮捕"
+    },
+    {
+      "time": "12:42",
+      "title": "サンマ高騰の背景 今後のポイント",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592866?source=rss",
+      "publishedAt": "2026-08-24T03:42:14.000Z",
+      "xQuery": "サンマ高騰の背景 今後のポイント"
     }
   ]
 };

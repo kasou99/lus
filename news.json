@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T05:18:19.582Z",
+  "updatedAt": "2026-08-24T05:46:33.258Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-08-23T20:04:35.000Z"
       },
       {
+        "time": "05:00",
+        "title": "ファナック、今年度の設備投資3割増 壬生でFA機器増産",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uYmJ3SGhlS2QyMUh5R0U1UHRKNnpiakp4dVpXREotVWtCRHNuV3dMNlJ2M2ZsaDZGeHA2Y0w1cl9heHUxTHdNSGY5SUYtUTVUclRiQmxjQ1JlanF0RkJiN2gyRDR5bHB0UlV6ck9kSQ?oc=5",
+        "publishedAt": "2026-08-23T20:00:00.000Z"
+      },
+      {
         "time": "16:32",
         "title": "就活で障害伝えず76% 不利益懸念",
         "source": "Yahoo!ニュース",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592793?source=rss",
         "publishedAt": "2026-08-23T09:28:39.000Z"
-      },
-      {
-        "time": "12:33",
-        "title": "スズキ初の軽乗用EV eスカイ公開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592868?source=rss",
-        "publishedAt": "2026-08-24T03:33:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:32",
+        "title": "豪雨 千葉市が避難レベル誤り配信",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592878?source=rss",
+        "publishedAt": "2026-08-24T05:32:24.000Z"
+      },
+      {
         "time": "09:57",
         "title": "福岡県議会の蔵内氏 議員辞職へ",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592874?source=rss",
         "publishedAt": "2026-08-24T04:27:08.000Z"
-      },
-      {
-        "time": "12:09",
-        "title": "病院から逃走の被告 死因は内因死",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592861?source=rss",
-        "publishedAt": "2026-08-24T03:09:54.000Z"
       },
       {
         "time": "14:04",
