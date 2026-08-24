@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T22:09:06.329Z",
+  "updatedAt": "2026-08-24T22:42:06.897Z",
   "items": [
     {
       "time": "06:41",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "相模原17歳死亡 ぼう然とする友人"
     },
     {
-      "time": "06:09",
-      "title": "車正面衝突し2人死亡 幼児重傷か",
+      "time": "07:33",
+      "title": "同志社理事長辞任へ 辺野古事故で",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592949?source=rss",
-      "publishedAt": "2026-08-24T21:09:49.000Z",
-      "xQuery": "車正面衝突し2人死亡 幼児重傷か"
+      "url": "https://news.yahoo.co.jp/pickup/6592956?source=rss",
+      "publishedAt": "2026-08-24T22:33:49.000Z",
+      "xQuery": "同志社理事長辞任へ 辺野古事故で"
     },
     {
-      "time": "23:51",
-      "title": "18歳死亡 灯籠と柱に挟まれる",
+      "time": "07:22",
+      "title": "住宅に身元不明の3人の遺体 岐阜",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592947?source=rss",
-      "publishedAt": "2026-08-24T14:51:24.000Z",
-      "xQuery": "18歳死亡 灯籠と柱に挟まれる"
+      "url": "https://news.yahoo.co.jp/pickup/6592954?source=rss",
+      "publishedAt": "2026-08-24T22:22:33.000Z",
+      "xQuery": "住宅に身元不明の3人の遺体 岐阜"
     }
   ]
 };
