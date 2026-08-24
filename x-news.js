@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T06:49:21.838Z",
+  "updatedAt": "2026-08-24T07:27:44.752Z",
   "items": [
     {
       "time": "13:52",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "豪雨 千葉市が避難レベル誤り配信"
     },
     {
-      "time": "13:27",
-      "title": "高2が死亡 殴られたようなあと",
+      "time": "16:04",
+      "title": "居眠り運転など検知 搭載義務化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592874?source=rss",
-      "publishedAt": "2026-08-24T04:27:08.000Z",
-      "xQuery": "高2が死亡 殴られたようなあと"
+      "url": "https://news.yahoo.co.jp/pickup/6592884?source=rss",
+      "publishedAt": "2026-08-24T07:04:25.000Z",
+      "xQuery": "居眠り運転など検知 搭載義務化へ"
     },
     {
       "time": "14:04",
