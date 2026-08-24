@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T17:13:23.399Z",
+  "updatedAt": "2026-08-24T17:43:23.321Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-08-24T05:30:00.000Z"
       },
       {
-        "time": "19:26",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "time": "19:27",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-08-24T10:26:02.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-08-24T10:27:08.000Z"
       },
       {
         "time": "09:42",
@@ -22,13 +22,6 @@
         "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10N3dad000QmFhdGM1NDF5eGdXMWQwUVRIN3g4bi1kTEtDT19FZ0ZiN3dLN1RBeEd2dF83clBEOEx2cEd4S1I5ck82bWZzRE9naHNlTjRUYlBSM3o1dTQ0Zw?oc=5",
         "publishedAt": "2026-08-24T00:42:00.000Z"
-      },
-      {
-        "time": "17:30",
-        "title": "ガントリーボーリング・フライス加工マシニングセンターの世界市場（2026年～2032年）、市場規模（固定ビーム型、可動ビーム型）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaSEd1bk9QTV9VQ0UtdVBhZXFvS3Q5SEFmcW80ZnJxY1NsOTRIa2FLZUkzaDE1QXZ2VGNCTDJzZFFGRTF2dVBCNkJrNGkydU0?oc=5",
-        "publishedAt": "2026-08-24T08:30:00.000Z"
       },
       {
         "time": "13:55",
@@ -45,6 +38,13 @@
         "publishedAt": "2026-08-24T07:00:00.000Z"
       },
       {
+        "time": "19:26",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-08-24T10:26:02.000Z"
+      },
+      {
         "time": "06:19",
         "title": "新社長登場／日本酸素HD・渡辺忠治社長CEO エレに続く成長事業育成",
         "source": "日刊工業新聞",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-08-23T21:19:12.000Z"
       },
       {
-        "time": "22:33",
-        "title": "損保ジャパン 車保険料5%値上げへ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592942?source=rss",
-        "publishedAt": "2026-08-24T13:33:23.000Z"
+        "time": "17:30",
+        "title": "ガントリーボーリング・フライス加工マシニングセンターの世界市場（2026年～2032年）、市場規模（固定ビーム型、可動ビーム型）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaSEd1bk9QTV9VQ0UtdVBhZXFvS3Q5SEFmcW80ZnJxY1NsOTRIa2FLZUkzaDE1QXZ2VGNCTDJzZFFGRTF2dVBCNkJrNGkydU0?oc=5",
+        "publishedAt": "2026-08-24T08:30:00.000Z"
       }
     ],
     "worldHeadlines": [
