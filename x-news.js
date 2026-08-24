@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T03:25:50.656Z",
+  "updatedAt": "2026-08-24T03:50:22.613Z",
   "items": [
     {
       "time": "11:58",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "出国税でクマ対策など 訪日客負担"
     },
     {
-      "time": "09:57",
-      "title": "福岡県議会の蔵内氏 議員辞職へ",
+      "time": "12:38",
+      "title": "東武4人死亡 兄「納得できない」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592847?source=rss",
-      "publishedAt": "2026-08-24T00:57:10.000Z",
-      "xQuery": "福岡県議会の蔵内氏 議員辞職へ"
+      "url": "https://news.yahoo.co.jp/pickup/6592869?source=rss",
+      "publishedAt": "2026-08-24T03:38:21.000Z",
+      "xQuery": "東武4人死亡 兄「納得できない」"
     },
     {
       "time": "11:32",
