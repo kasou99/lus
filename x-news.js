@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T21:42:16.394Z",
+  "updatedAt": "2026-08-24T22:09:06.329Z",
   "items": [
     {
-      "time": "00:13",
-      "title": "カナダ車関税2倍へ 米大統領表明",
+      "time": "06:41",
+      "title": "台風18号 26日にかけ沖縄など接近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592948?source=rss",
-      "publishedAt": "2026-08-24T15:13:29.000Z",
-      "xQuery": "カナダ車関税2倍へ 米大統領表明"
+      "url": "https://news.yahoo.co.jp/pickup/6592951?source=rss",
+      "publishedAt": "2026-08-24T21:41:27.000Z",
+      "xQuery": "台風18号 26日にかけ沖縄など接近"
     },
     {
       "time": "22:33",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592942?source=rss",
       "publishedAt": "2026-08-24T13:33:23.000Z",
       "xQuery": "損保ジャパン 車保険料5%値上げへ"
+    },
+    {
+      "time": "07:00",
+      "title": "相模原17歳死亡 ぼう然とする友人",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592952?source=rss",
+      "publishedAt": "2026-08-24T22:00:57.000Z",
+      "xQuery": "相模原17歳死亡 ぼう然とする友人"
     },
     {
       "time": "06:09",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592947?source=rss",
       "publishedAt": "2026-08-24T14:51:24.000Z",
       "xQuery": "18歳死亡 灯籠と柱に挟まれる"
-    },
-    {
-      "time": "22:39",
-      "title": "中国で白菜に発がん性物質か 調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592940?source=rss",
-      "publishedAt": "2026-08-24T13:39:56.000Z",
-      "xQuery": "中国で白菜に発がん性物質か 調査"
     }
   ]
 };
