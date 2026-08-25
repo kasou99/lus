@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T13:49:08.778Z",
+  "updatedAt": "2026-08-25T14:19:32.340Z",
   "items": [
+    {
+      "time": "22:35",
+      "title": "新学期前 子どものSOSサイン注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593070?source=rss",
+      "publishedAt": "2026-08-25T13:35:45.000Z",
+      "xQuery": "新学期前 子どものSOSサイン注意"
+    },
     {
       "time": "22:09",
       "title": "バヌアツで噴火 気象庁が津波調査",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "バヌアツで噴火 気象庁が津波調査"
     },
     {
-      "time": "20:13",
-      "title": "AI事業者へ知財保護指針 政府決定",
+      "time": "22:23",
+      "title": "記録的通貨安 物価高苦しむイラン",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593055?source=rss",
-      "publishedAt": "2026-08-25T11:13:01.000Z",
-      "xQuery": "AI事業者へ知財保護指針 政府決定"
-    },
-    {
-      "time": "22:35",
-      "title": "新学期前 子どものSOSサイン注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593070?source=rss",
-      "publishedAt": "2026-08-25T13:35:45.000Z",
-      "xQuery": "新学期前 子どものSOSサイン注意"
+      "url": "https://news.yahoo.co.jp/pickup/6593067?source=rss",
+      "publishedAt": "2026-08-25T13:23:44.000Z",
+      "xQuery": "記録的通貨安 物価高苦しむイラン"
     },
     {
       "time": "22:26",
