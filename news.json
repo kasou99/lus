@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T12:48:34.623Z",
+  "updatedAt": "2026-08-25T13:22:46.775Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -41,14 +41,14 @@
         "time": "15:53",
         "title": "M2Xと商工中金が手を組み、中小企業の設備保全DXを加速するビジネスマッチング契約締結",
         "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VV1ZEQVQ4eldEVVdEcm1xcVVkUkUtOE1MVGl4MEIwdUR1Y2plRENDSlg0QUtyNlUyLWRHYVdqb2hJOFJBQmZNanlsUEx2T3daN2R1QW5qVkdrRmhUVGdDZDBoTXoycjJMdjRn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YN0pDWkFKM1h6RGpJTlhTejh1TFZpdmZPY2xUVlMwT05Fd2ZzLWJKYlk3dlFsNEZtWkx3UnljUzhsUVNIVjBFRHFZQnJYYzhCMno3aDBlWDdzZFUzUmNTaV9QTzZQM3Zr?oc=5",
         "publishedAt": "2026-08-25T06:53:38.000Z"
       },
       {
         "time": "05:00",
-        "title": "伊地智写真型製作所、デジタル「京友禅」共創 伝統文様を内外に提案",
+        "title": "ケーススタディー オープンイノベーション（69）坂ノ途中",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82WUNjNnVZUHRmcktYYlRUMzhYTG1LNWFRQ1paTXZyRDc0UUdkRmlXeGJZSXJoODNsVHNzdTBsNUUwRzJsN0ZRam03WWpxY0lQY3R6a1dsUHllSC02UnhKOUx3Y2hOVHppMkNCaHp1aw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tYmZ0R0h4M3FRWS1vRFp3YkNpcURvMVE5OEJIRGJDNVRMeDFzb2UyRjRIT1F0NmplSTJyMVowV2p6VWk5TzJPZE1MendLU3Z2YlpkR0pMT0k?oc=5",
         "publishedAt": "2026-08-24T20:00:00.000Z"
       },
       {
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "22:09",
+        "title": "バヌアツで噴火 気象庁が津波調査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593068?source=rss",
+        "publishedAt": "2026-08-25T13:09:30.000Z"
+      },
       {
         "time": "09:08",
         "title": "米 イランに「経済的総攻撃」発表",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593012?source=rss",
         "publishedAt": "2026-08-25T06:03:18.000Z"
-      },
-      {
-        "time": "21:03",
-        "title": "南太平洋で地震 日本への津波調査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593062?source=rss",
-        "publishedAt": "2026-08-25T12:03:00.000Z"
       },
       {
         "time": "11:46",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-08-25T09:46:56.000Z"
       },
       {
+        "time": "22:16",
+        "title": "飲酒事故で3児失う 20年苦しむ母",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593066?source=rss",
+        "publishedAt": "2026-08-25T13:16:17.000Z"
+      },
+      {
         "time": "13:59",
         "title": "高2死亡 車に追われ暴行されたか",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593049?source=rss",
         "publishedAt": "2026-08-25T09:48:27.000Z"
-      },
-      {
-        "time": "17:30",
-        "title": "医療事故 母子感染防げずがん発症",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593032?source=rss",
-        "publishedAt": "2026-08-25T08:30:57.000Z"
       },
       {
         "time": "11:32",

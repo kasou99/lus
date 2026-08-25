@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T12:48:35.380Z",
+  "updatedAt": "2026-08-25T13:22:47.728Z",
   "items": [
     {
-      "time": "21:03",
-      "title": "南太平洋で地震 日本への津波調査",
+      "time": "22:09",
+      "title": "バヌアツで噴火 気象庁が津波調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593062?source=rss",
-      "publishedAt": "2026-08-25T12:03:00.000Z",
-      "xQuery": "南太平洋で地震 日本への津波調査"
+      "url": "https://news.yahoo.co.jp/pickup/6593068?source=rss",
+      "publishedAt": "2026-08-25T13:09:30.000Z",
+      "xQuery": "バヌアツで噴火 気象庁が津波調査"
     },
     {
-      "time": "18:46",
-      "title": "蔵内氏 金銭授受疑惑は重ねて否定",
+      "time": "20:13",
+      "title": "AI事業者へ知財保護指針 政府決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593048?source=rss",
-      "publishedAt": "2026-08-25T09:46:56.000Z",
-      "xQuery": "蔵内氏 金銭授受疑惑は重ねて否定"
+      "url": "https://news.yahoo.co.jp/pickup/6593055?source=rss",
+      "publishedAt": "2026-08-25T11:13:01.000Z",
+      "xQuery": "AI事業者へ知財保護指針 政府決定"
+    },
+    {
+      "time": "22:16",
+      "title": "飲酒事故で3児失う 20年苦しむ母",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593066?source=rss",
+      "publishedAt": "2026-08-25T13:16:17.000Z",
+      "xQuery": "飲酒事故で3児失う 20年苦しむ母"
     },
     {
       "time": "20:19",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593056?source=rss",
       "publishedAt": "2026-08-25T11:19:09.000Z",
       "xQuery": "中国産白菜巡り波紋 韓国に飛び火"
-    },
-    {
-      "time": "20:30",
-      "title": "「がんこ」創業 小嶋淳司さん死去",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593057?source=rss",
-      "publishedAt": "2026-08-25T11:30:25.000Z",
-      "xQuery": "「がんこ」創業 小嶋淳司さん死去"
     },
     {
       "time": "20:04",
