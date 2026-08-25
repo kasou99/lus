@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T21:10:02.403Z",
+  "updatedAt": "2026-08-25T21:42:20.525Z",
   "items": [
+    {
+      "time": "06:28",
+      "title": "財務省概算要求 国債費が過去最高",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593082?source=rss",
+      "publishedAt": "2026-08-25T21:28:20.000Z",
+      "xQuery": "財務省概算要求 国債費が過去最高"
+    },
     {
       "time": "05:50",
       "title": "バヌアツ噴火 日本へ津波影響なし",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593071?source=rss",
       "publishedAt": "2026-08-25T13:26:09.000Z",
       "xQuery": "3児失う事故から20年 4児と歩む母"
-    },
-    {
-      "time": "00:16",
-      "title": "崖下200メートルに車転落か 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593079?source=rss",
-      "publishedAt": "2026-08-25T15:16:01.000Z",
-      "xQuery": "崖下200メートルに車転落か 死亡"
     }
   ]
 };
