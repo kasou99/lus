@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T13:22:46.775Z",
+  "updatedAt": "2026-08-25T13:49:07.909Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -46,9 +46,9 @@
       },
       {
         "time": "05:00",
-        "title": "ケーススタディー オープンイノベーション（69）坂ノ途中",
+        "title": "伊地智写真型製作所、デジタル「京友禅」共創 伝統文様を内外に提案",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tYmZ0R0h4M3FRWS1vRFp3YkNpcURvMVE5OEJIRGJDNVRMeDFzb2UyRjRIT1F0NmplSTJyMVowV2p6VWk5TzJPZE1MendLU3Z2YlpkR0pMT0k?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82WUNjNnVZUHRmcktYYlRUMzhYTG1LNWFRQ1paTXZyRDc0UUdkRmlXeGJZSXJoODNsVHNzdTBsNUUwRzJsN0ZRam03WWpxY0lQY3R6a1dsUHllSC02UnhKOUx3Y2hOVHppMkNCaHp1aw?oc=5",
         "publishedAt": "2026-08-24T20:00:00.000Z"
       },
       {
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593068?source=rss",
         "publishedAt": "2026-08-25T13:09:30.000Z"
+      },
+      {
+        "time": "22:23",
+        "title": "記録的通貨安 物価高苦しむイラン",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593067?source=rss",
+        "publishedAt": "2026-08-25T13:23:44.000Z"
       },
       {
         "time": "09:08",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593039?source=rss",
         "publishedAt": "2026-08-25T08:53:13.000Z"
-      },
-      {
-        "time": "20:19",
-        "title": "中国産白菜巡り波紋 韓国に飛び火",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593056?source=rss",
-        "publishedAt": "2026-08-25T11:19:09.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,18 +156,18 @@
         "publishedAt": "2026-08-25T09:46:56.000Z"
       },
       {
-        "time": "22:16",
-        "title": "飲酒事故で3児失う 20年苦しむ母",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593066?source=rss",
-        "publishedAt": "2026-08-25T13:16:17.000Z"
-      },
-      {
         "time": "13:59",
         "title": "高2死亡 車に追われ暴行されたか",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593007?source=rss",
         "publishedAt": "2026-08-25T04:59:23.000Z"
+      },
+      {
+        "time": "22:26",
+        "title": "3児失う事故から20年 4児と歩む母",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593071?source=rss",
+        "publishedAt": "2026-08-25T13:26:09.000Z"
       },
       {
         "time": "19:02",

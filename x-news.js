@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T13:22:47.728Z",
+  "updatedAt": "2026-08-25T13:49:08.778Z",
   "items": [
     {
       "time": "22:09",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "AI事業者へ知財保護指針 政府決定"
     },
     {
-      "time": "22:16",
-      "title": "飲酒事故で3児失う 20年苦しむ母",
+      "time": "22:35",
+      "title": "新学期前 子どものSOSサイン注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593066?source=rss",
-      "publishedAt": "2026-08-25T13:16:17.000Z",
-      "xQuery": "飲酒事故で3児失う 20年苦しむ母"
+      "url": "https://news.yahoo.co.jp/pickup/6593070?source=rss",
+      "publishedAt": "2026-08-25T13:35:45.000Z",
+      "xQuery": "新学期前 子どものSOSサイン注意"
+    },
+    {
+      "time": "22:26",
+      "title": "3児失う事故から20年 4児と歩む母",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593071?source=rss",
+      "publishedAt": "2026-08-25T13:26:09.000Z",
+      "xQuery": "3児失う事故から20年 4児と歩む母"
     },
     {
       "time": "20:19",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593056?source=rss",
       "publishedAt": "2026-08-25T11:19:09.000Z",
       "xQuery": "中国産白菜巡り波紋 韓国に飛び火"
-    },
-    {
-      "time": "20:04",
-      "title": "川底に沈む男児発見 中学生ら救助",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593054?source=rss",
-      "publishedAt": "2026-08-25T11:04:18.000Z",
-      "xQuery": "川底に沈む男児発見 中学生ら救助"
     }
   ]
 };
