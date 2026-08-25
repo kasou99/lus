@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T09:45:51.592Z",
+  "updatedAt": "2026-08-25T10:11:33.584Z",
   "items": [
     {
       "time": "18:07",
@@ -10,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ガソリン補助金継続へ 高市氏表明"
     },
     {
-      "time": "18:26",
-      "title": "コメ価格暴落 備蓄米放出が要因か",
+      "time": "18:41",
+      "title": "小泉防衛相 保守層の評価なぜ反転",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593046?source=rss",
-      "publishedAt": "2026-08-25T09:26:49.000Z",
-      "xQuery": "コメ価格暴落 備蓄米放出が要因か"
+      "url": "https://news.yahoo.co.jp/pickup/6593044?source=rss",
+      "publishedAt": "2026-08-25T09:41:02.000Z",
+      "xQuery": "小泉防衛相 保守層の評価なぜ反転"
+    },
+    {
+      "time": "19:02",
+      "title": "犯行10秒 2億円相当の腕時計窃盗",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593050?source=rss",
+      "publishedAt": "2026-08-25T10:02:49.000Z",
+      "xQuery": "犯行10秒 2億円相当の腕時計窃盗"
+    },
+    {
+      "time": "18:48",
+      "title": "高校生死亡した祭り 2年前も事故",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593049?source=rss",
+      "publishedAt": "2026-08-25T09:48:27.000Z",
+      "xQuery": "高校生死亡した祭り 2年前も事故"
     },
     {
       "time": "17:53",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593039?source=rss",
       "publishedAt": "2026-08-25T08:53:13.000Z",
       "xQuery": "米デスバレー立ち往生 観光客死亡"
-    },
-    {
-      "time": "16:31",
-      "title": "競泳・本多灯被告に拘禁刑1年求刑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593020?source=rss",
-      "publishedAt": "2026-08-25T07:31:06.000Z",
-      "xQuery": "競泳・本多灯被告に拘禁刑1年求刑"
-    },
-    {
-      "time": "18:30",
-      "title": "「要介護でも飲みに」を支える店",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593022?source=rss",
-      "publishedAt": "2026-08-25T09:30:22.000Z",
-      "xQuery": "「要介護でも飲みに」を支える店"
     }
   ]
 };
