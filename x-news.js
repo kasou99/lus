@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T21:42:20.525Z",
+  "updatedAt": "2026-08-25T22:08:22.437Z",
   "items": [
+    {
+      "time": "06:41",
+      "title": "台風 沖縄・奄美は昼前にかけ暴風",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593083?source=rss",
+      "publishedAt": "2026-08-25T21:41:16.000Z",
+      "xQuery": "台風 沖縄・奄美は昼前にかけ暴風"
+    },
     {
       "time": "06:28",
       "title": "財務省概算要求 国債費が過去最高",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593080?source=rss",
       "publishedAt": "2026-08-25T20:50:19.000Z",
       "xQuery": "バヌアツ噴火 日本へ津波影響なし"
-    },
-    {
-      "time": "23:20",
-      "title": "消費減税で減収農家に給付金 方針",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593076?source=rss",
-      "publishedAt": "2026-08-25T14:20:57.000Z",
-      "xQuery": "消費減税で減収農家に給付金 方針"
     },
     {
       "time": "23:29",
