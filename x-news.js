@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T03:22:37.590Z",
+  "updatedAt": "2026-08-25T03:48:40.447Z",
   "items": [
     {
       "time": "12:12",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "相次ぐ熱中症患者 救急医療ひっ迫"
     },
     {
+      "time": "11:46",
+      "title": "米軍攻撃ヘリ高頻度で墜落 CNN",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592990?source=rss",
+      "publishedAt": "2026-08-25T02:46:42.000Z",
+      "xQuery": "米軍攻撃ヘリ高頻度で墜落 CNN"
+    },
+    {
       "time": "11:41",
       "title": "蔵内氏「限界だろう」辞職表明前",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592992?source=rss",
       "publishedAt": "2026-08-25T03:09:53.000Z",
       "xQuery": "高2死亡 トラブル巻き込まれたか"
-    },
-    {
-      "time": "11:29",
-      "title": "買春目的の訪日客増 対応求める声",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592984?source=rss",
-      "publishedAt": "2026-08-25T02:29:49.000Z",
-      "xQuery": "買春目的の訪日客増 対応求める声"
     }
   ]
 };
