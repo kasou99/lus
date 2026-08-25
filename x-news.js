@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T14:48:19.144Z",
+  "updatedAt": "2026-08-25T15:19:54.010Z",
   "items": [
     {
       "time": "23:20",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "消費減税で減収農家に給付金 方針"
     },
     {
-      "time": "22:35",
-      "title": "新学期前 子どものSOSサイン注意",
+      "time": "23:29",
+      "title": "米大統領 オンタリオ湖の改称検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593070?source=rss",
-      "publishedAt": "2026-08-25T13:35:45.000Z",
-      "xQuery": "新学期前 子どものSOSサイン注意"
+      "url": "https://news.yahoo.co.jp/pickup/6593077?source=rss",
+      "publishedAt": "2026-08-25T14:29:13.000Z",
+      "xQuery": "米大統領 オンタリオ湖の改称検討"
+    },
+    {
+      "time": "00:16",
+      "title": "崖下200メートルに車転落か 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593079?source=rss",
+      "publishedAt": "2026-08-25T15:16:01.000Z",
+      "xQuery": "崖下200メートルに車転落か 死亡"
     },
     {
       "time": "22:26",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3児失う事故から20年 4児と歩む母"
     },
     {
-      "time": "23:29",
-      "title": "米大統領 オンタリオ湖の改称検討",
+      "time": "21:45",
+      "title": "パン39kg点々と投棄 環境相が非難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593077?source=rss",
-      "publishedAt": "2026-08-25T14:29:13.000Z",
-      "xQuery": "米大統領 オンタリオ湖の改称検討"
-    },
-    {
-      "time": "17:53",
-      "title": "米デスバレー立ち往生 観光客死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593039?source=rss",
-      "publishedAt": "2026-08-25T08:53:13.000Z",
-      "xQuery": "米デスバレー立ち往生 観光客死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6593064?source=rss",
+      "publishedAt": "2026-08-25T12:45:36.000Z",
+      "xQuery": "パン39kg点々と投棄 環境相が非難"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T14:48:18.431Z",
+  "updatedAt": "2026-08-25T15:19:53.122Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-08-25T07:35:08.000Z"
       },
       {
-        "time": "13:00",
-        "title": "発電機制御盤の世界市場（2026年～2032年）、市場規模（手動制御盤、自動制御盤）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zbkJsUzZFazdwRXk1NGlUSGdOczBKT2ZsV2hOTnotZXRJSGJBWHQxcGhXU2UzREp2TWc2ekhfMHZxQzZfOFNkM091R3JIUjA?oc=5",
-        "publishedAt": "2026-08-25T04:00:00.000Z"
-      },
-      {
         "time": "23:10",
         "title": "JIMTOF2026 (第33回日本国際工作機械見本市) 9月1日（火）より事前来場登録開始",
         "source": "RBB TODAY",
@@ -24,11 +17,11 @@
         "publishedAt": "2026-08-25T14:10:02.000Z"
       },
       {
-        "time": "16:05",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-08-25T07:05:03.000Z"
+        "time": "13:00",
+        "title": "発電機制御盤の世界市場（2026年～2032年）、市場規模（手動制御盤、自動制御盤）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zbkJsUzZFazdwRXk1NGlUSGdOczBKT2ZsV2hOTnotZXRJSGJBWHQxcGhXU2UzREp2TWc2ekhfMHZxQzZfOFNkM091R3JIUjA?oc=5",
+        "publishedAt": "2026-08-25T04:00:00.000Z"
       },
       {
         "time": "12:15",
@@ -53,10 +46,17 @@
       },
       {
         "time": "05:00",
-        "title": "伊地智写真型製作所、デジタル「京友禅」共創 伝統文様を内外に提案",
+        "title": "ケーススタディー オープンイノベーション（69）坂ノ途中",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82WUNjNnVZUHRmcktYYlRUMzhYTG1LNWFRQ1paTXZyRDc0UUdkRmlXeGJZSXJoODNsVHNzdTBsNUUwRzJsN0ZRam03WWpxY0lQY3R6a1dsUHllSC02UnhKOUx3Y2hOVHppMkNCaHp1aw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tYmZ0R0h4M3FRWS1vRFp3YkNpcURvMVE5OEJIRGJDNVRMeDFzb2UyRjRIT1F0NmplSTJyMVowV2p6VWk5TzJPZE1MendLU3Z2YlpkR0pMT0k?oc=5",
         "publishedAt": "2026-08-24T20:00:00.000Z"
+      },
+      {
+        "time": "22:30",
+        "title": "【トランスコスモスオンラインセミナー】製造業DXを加速する！シリーズ第4弾を9月17日（木）に開催",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDQUtnR2toZTVuWHNHSzQxVF9VU1ZXQWVRUXF4aTVTNXYwQ0lsVTl0Z2VpVjhOMmZXMUhIV3Y5NXFzdHBaSk03U05DVy1zM05OQ1ZheVFuS0tsNG42U3ZMS2dOZ1hJejIt?oc=5",
+        "publishedAt": "2026-08-25T13:30:30.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,11 +170,11 @@
         "publishedAt": "2026-08-25T13:26:09.000Z"
       },
       {
-        "time": "19:02",
-        "title": "犯行10秒 2億円相当の腕時計窃盗",
+        "time": "00:16",
+        "title": "崖下200メートルに車転落か 死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593050?source=rss",
-        "publishedAt": "2026-08-25T10:02:49.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593079?source=rss",
+        "publishedAt": "2026-08-25T15:16:01.000Z"
       },
       {
         "time": "18:48",
