@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T07:21:50.156Z",
+  "updatedAt": "2026-08-25T07:48:04.666Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zbkJsUzZFazdwRXk1NGlUSGdOczBKT2ZsV2hOTnotZXRJSGJBWHQxcGhXU2UzREp2TWc2ekhfMHZxQzZfOFNkM091R3JIUjA?oc=5",
         "publishedAt": "2026-08-25T04:00:00.000Z"
+      },
+      {
+        "time": "16:35",
+        "title": "ジェイテクト、新型工作機械2種を発売 表面処理や大型部品に対応",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IYzNFMlo2R0RtdW5jLUJFeWI2SWo1Zks5Z0RGekxHYzFURGlVTmhmMk1vNUZRdExFYVh4TUxhMmtKeDRKaWh0WVhYNTZlbk9Qb0l6SERvZ180U2RaZ1JVVURybmd0ZXBRa3p1dA?oc=5",
+        "publishedAt": "2026-08-25T07:35:08.000Z"
       },
       {
         "time": "15:15",
@@ -50,13 +57,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
         "publishedAt": "2026-08-24T10:26:02.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "IDEC、安全と生産性を両立するセーフティコントローラーを国内発売：FAニュース",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ybmJLWjZMWGJSRTRiTVhMQVN1cklVVWlscW9sUnUwNFhEOXNkdFdvenRjbE9la3B6U2J6TEp6bG1DQ3ZURnp6b3psWFpOdHJEWDg0MWJIbFl3RHVyY0tRbFJwUDVVNDNNSUQwVkxOOA?oc=5",
-        "publishedAt": "2026-08-25T04:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-08-25T04:04:01.000Z"
       },
       {
-        "time": "09:01",
-        "title": "経産省 事業再編促す税優遇要望へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592967?source=rss",
-        "publishedAt": "2026-08-25T00:01:49.000Z"
-      },
-      {
         "time": "22:33",
         "title": "損保ジャパン 車保険料5%値上げへ",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592961?source=rss",
         "publishedAt": "2026-08-24T23:06:36.000Z"
+      },
+      {
+        "time": "10:17",
+        "title": "窓口営業は午前のみ 京都信用金庫",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592978?source=rss",
+        "publishedAt": "2026-08-25T01:17:36.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,13 +170,6 @@
         "publishedAt": "2026-08-25T04:59:23.000Z"
       },
       {
-        "time": "07:00",
-        "title": "相模原17歳死亡 ぼう然とする友人",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592952?source=rss",
-        "publishedAt": "2026-08-24T22:00:57.000Z"
-      },
-      {
         "time": "16:10",
         "title": "中野の時計店で窃盗 2億円相当",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592982?source=rss",
         "publishedAt": "2026-08-25T02:32:49.000Z"
+      },
+      {
+        "time": "16:31",
+        "title": "競泳・本多灯被告に拘禁刑1年求刑",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593020?source=rss",
+        "publishedAt": "2026-08-25T07:31:06.000Z"
       }
     ],
     "subsidyHeadlines": [

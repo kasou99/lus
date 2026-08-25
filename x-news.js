@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T07:21:50.932Z",
+  "updatedAt": "2026-08-25T07:48:05.459Z",
   "items": [
     {
-      "time": "13:19",
-      "title": "福岡県議長 辞職の理由説明せず",
+      "time": "16:32",
+      "title": "出国税の使い道 見直しを検討へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593001?source=rss",
-      "publishedAt": "2026-08-25T04:19:30.000Z",
-      "xQuery": "福岡県議長 辞職の理由説明せず"
+      "url": "https://news.yahoo.co.jp/pickup/6593021?source=rss",
+      "publishedAt": "2026-08-25T07:32:06.000Z",
+      "xQuery": "出国税の使い道 見直しを検討へ"
     },
     {
       "time": "15:03",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高2死亡 車に追われ暴行されたか"
     },
     {
-      "time": "13:44",
-      "title": "違法駐車でバス23分足止め 責任は",
+      "time": "16:31",
+      "title": "競泳・本多灯被告に拘禁刑1年求刑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593003?source=rss",
-      "publishedAt": "2026-08-25T04:44:13.000Z",
-      "xQuery": "違法駐車でバス23分足止め 責任は"
+      "url": "https://news.yahoo.co.jp/pickup/6593020?source=rss",
+      "publishedAt": "2026-08-25T07:31:06.000Z",
+      "xQuery": "競泳・本多灯被告に拘禁刑1年求刑"
     }
   ]
 };
