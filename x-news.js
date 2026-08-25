@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T04:47:09.772Z",
+  "updatedAt": "2026-08-25T05:14:44.779Z",
   "items": [
-    {
-      "time": "12:12",
-      "title": "台風18号が沖縄接近 高波など警戒",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592995?source=rss",
-      "publishedAt": "2026-08-25T03:12:28.000Z",
-      "xQuery": "台風18号が沖縄接近 高波など警戒"
-    },
     {
       "time": "13:19",
       "title": "福岡県議長 辞職の理由説明せず",
@@ -18,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡県議長 辞職の理由説明せず"
     },
     {
-      "time": "13:34",
-      "title": "中野ブロードウェイで強盗事件",
+      "time": "12:06",
+      "title": "在留手数料 大幅値上げは10月から",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593002?source=rss",
-      "publishedAt": "2026-08-25T04:34:52.000Z",
-      "xQuery": "中野ブロードウェイで強盗事件"
+      "url": "https://news.yahoo.co.jp/pickup/6592993?source=rss",
+      "publishedAt": "2026-08-25T03:06:35.000Z",
+      "xQuery": "在留手数料 大幅値上げは10月から"
+    },
+    {
+      "time": "13:48",
+      "title": "中野ブロードウェイで窃盗事件",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593006?source=rss",
+      "publishedAt": "2026-08-25T04:48:33.000Z",
+      "xQuery": "中野ブロードウェイで窃盗事件"
     },
     {
       "time": "13:04",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ハビタ 当初の報告巡り遺族に謝罪"
     },
     {
-      "time": "12:09",
-      "title": "高2死亡 トラブル巻き込まれたか",
+      "time": "13:59",
+      "title": "高2死亡 車に追われ暴行されたか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592992?source=rss",
-      "publishedAt": "2026-08-25T03:09:53.000Z",
-      "xQuery": "高2死亡 トラブル巻き込まれたか"
+      "url": "https://news.yahoo.co.jp/pickup/6593007?source=rss",
+      "publishedAt": "2026-08-25T04:59:23.000Z",
+      "xQuery": "高2死亡 車に追われ暴行されたか"
     }
   ]
 };
