@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T08:47:58.736Z",
+  "updatedAt": "2026-08-25T09:16:19.336Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -46,17 +46,17 @@
       },
       {
         "time": "05:00",
-        "title": "ケーススタディー オープンイノベーション（69）坂ノ途中",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tYmZ0R0h4M3FRWS1vRFp3YkNpcURvMVE5OEJIRGJDNVRMeDFzb2UyRjRIT1F0NmplSTJyMVowV2p6VWk5TzJPZE1MendLU3Z2YlpkR0pMT0k?oc=5",
-        "publishedAt": "2026-08-24T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
         "title": "伊地智写真型製作所、デジタル「京友禅」共創 伝統文様を内外に提案",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82WUNjNnVZUHRmcktYYlRUMzhYTG1LNWFRQ1paTXZyRDc0UUdkRmlXeGJZSXJoODNsVHNzdTBsNUUwRzJsN0ZRam03WWpxY0lQY3R6a1dsUHllSC02UnhKOUx3Y2hOVHppMkNCaHp1aw?oc=5",
         "publishedAt": "2026-08-24T20:00:00.000Z"
+      },
+      {
+        "time": "19:27",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-08-24T10:27:08.000Z"
       }
     ],
     "worldHeadlines": [
@@ -96,11 +96,11 @@
         "publishedAt": "2026-08-25T02:46:42.000Z"
       },
       {
-        "time": "20:31",
-        "title": "中国外相の韓国訪問 背景に危機感",
+        "time": "17:53",
+        "title": "米デスバレー立ち往生 観光客死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592905?source=rss",
-        "publishedAt": "2026-08-24T11:31:11.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593039?source=rss",
+        "publishedAt": "2026-08-25T08:53:13.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-08-25T05:36:08.000Z"
       },
       {
+        "time": "18:12",
+        "title": "備蓄米放出が裏目? 米価暴落の訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593038?source=rss",
+        "publishedAt": "2026-08-25T09:12:11.000Z"
+      },
+      {
         "time": "14:31",
         "title": "高級化or大衆化 外食市場巡る動き",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593030?source=rss",
         "publishedAt": "2026-08-25T08:33:42.000Z"
-      },
-      {
-        "time": "10:17",
-        "title": "窓口営業は午前のみ 京都信用金庫",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592978?source=rss",
-        "publishedAt": "2026-08-25T01:17:36.000Z"
       }
     ],
     "localHeadlines": [

@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T08:47:59.521Z",
+  "updatedAt": "2026-08-25T09:16:20.161Z",
   "items": [
     {
-      "time": "16:32",
-      "title": "出国税の使い道 見直しを検討へ",
+      "time": "18:07",
+      "title": "ガソリン補助金継続へ 高市氏表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593021?source=rss",
-      "publishedAt": "2026-08-25T07:32:06.000Z",
-      "xQuery": "出国税の使い道 見直しを検討へ"
+      "url": "https://news.yahoo.co.jp/pickup/6593042?source=rss",
+      "publishedAt": "2026-08-25T09:07:36.000Z",
+      "xQuery": "ガソリン補助金継続へ 高市氏表明"
     },
     {
-      "time": "16:52",
-      "title": "26年版警察白書 大川原冤罪に言及",
+      "time": "14:21",
+      "title": "政府のアニメ支援 現場に届かぬ訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593023?source=rss",
-      "publishedAt": "2026-08-25T07:52:52.000Z",
-      "xQuery": "26年版警察白書 大川原冤罪に言及"
+      "url": "https://news.yahoo.co.jp/pickup/6592997?source=rss",
+      "publishedAt": "2026-08-25T05:21:29.000Z",
+      "xQuery": "政府のアニメ支援 現場に届かぬ訳"
     },
     {
-      "time": "16:57",
-      "title": "26日関東で局地的な雷雨恐れ 警戒",
+      "time": "17:53",
+      "title": "米デスバレー立ち往生 観光客死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593026?source=rss",
-      "publishedAt": "2026-08-25T07:57:37.000Z",
-      "xQuery": "26日関東で局地的な雷雨恐れ 警戒"
-    },
-    {
-      "time": "17:30",
-      "title": "医療事故 母子感染防げずがん発症",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593032?source=rss",
-      "publishedAt": "2026-08-25T08:30:57.000Z",
-      "xQuery": "医療事故 母子感染防げずがん発症"
+      "url": "https://news.yahoo.co.jp/pickup/6593039?source=rss",
+      "publishedAt": "2026-08-25T08:53:13.000Z",
+      "xQuery": "米デスバレー立ち往生 観光客死亡"
     },
     {
       "time": "16:31",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593020?source=rss",
       "publishedAt": "2026-08-25T07:31:06.000Z",
       "xQuery": "競泳・本多灯被告に拘禁刑1年求刑"
+    },
+    {
+      "time": "17:33",
+      "title": "モス スーパーなどで冷食販売へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593030?source=rss",
+      "publishedAt": "2026-08-25T08:33:42.000Z",
+      "xQuery": "モス スーパーなどで冷食販売へ"
     }
   ]
 };
