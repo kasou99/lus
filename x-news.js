@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T01:33:14.533Z",
+  "updatedAt": "2026-08-25T02:29:51.874Z",
   "items": [
     {
-      "time": "09:08",
-      "title": "米 イランに「経済的総攻撃」発表",
+      "time": "10:49",
+      "title": "福岡県議会の自民会派 1人が離脱",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592970?source=rss",
-      "publishedAt": "2026-08-25T00:08:24.000Z",
-      "xQuery": "米 イランに「経済的総攻撃」発表"
+      "url": "https://news.yahoo.co.jp/pickup/6592980?source=rss",
+      "publishedAt": "2026-08-25T01:49:26.000Z",
+      "xQuery": "福岡県議会の自民会派 1人が離脱"
     },
     {
       "time": "10:07",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン爆発前に「ガス臭」証言"
     },
     {
+      "time": "09:47",
+      "title": "8/22の世界海面水温 観測史上最高",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592975?source=rss",
+      "publishedAt": "2026-08-25T00:47:08.000Z",
+      "xQuery": "8/22の世界海面水温 観測史上最高"
+    },
+    {
       "time": "09:21",
       "title": "路上売春 買う側処罰案に賛否の訳",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "路上売春 買う側処罰案に賛否の訳"
     },
     {
-      "time": "09:25",
-      "title": "「将門塚」で迷惑配信 刑事責任は",
+      "time": "11:23",
+      "title": "夫不倫で離婚 切り出された家売却",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592972?source=rss",
-      "publishedAt": "2026-08-25T00:25:48.000Z",
-      "xQuery": "「将門塚」で迷惑配信 刑事責任は"
-    },
-    {
-      "time": "10:17",
-      "title": "窓口営業は午前のみ 京都信用金庫",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592978?source=rss",
-      "publishedAt": "2026-08-25T01:17:36.000Z",
-      "xQuery": "窓口営業は午前のみ 京都信用金庫"
+      "url": "https://news.yahoo.co.jp/pickup/6592981?source=rss",
+      "publishedAt": "2026-08-25T02:23:11.000Z",
+      "xQuery": "夫不倫で離婚 切り出された家売却"
     }
   ]
 };
