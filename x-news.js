@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T05:14:44.779Z",
+  "updatedAt": "2026-08-25T05:43:52.194Z",
   "items": [
     {
       "time": "13:19",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中野ブロードウェイで窃盗事件"
     },
     {
-      "time": "13:04",
-      "title": "ハビタ 当初の報告巡り遺族に謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593000?source=rss",
-      "publishedAt": "2026-08-25T04:04:01.000Z",
-      "xQuery": "ハビタ 当初の報告巡り遺族に謝罪"
-    },
-    {
       "time": "13:59",
       "title": "高2死亡 車に追われ暴行されたか",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593007?source=rss",
       "publishedAt": "2026-08-25T04:59:23.000Z",
       "xQuery": "高2死亡 車に追われ暴行されたか"
+    },
+    {
+      "time": "14:36",
+      "title": "東武事故受け AC広告に差し替え",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593008?source=rss",
+      "publishedAt": "2026-08-25T05:36:08.000Z",
+      "xQuery": "東武事故受け AC広告に差し替え"
     }
   ]
 };
