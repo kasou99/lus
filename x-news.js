@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T22:42:35.295Z",
+  "updatedAt": "2026-08-25T23:09:44.703Z",
   "items": [
     {
       "time": "06:41",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "財務省概算要求 国債費が過去最高"
     },
     {
-      "time": "05:50",
-      "title": "バヌアツ噴火 日本へ津波影響なし",
+      "time": "07:44",
+      "title": "コンテンツ支援の司令塔 新設検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593080?source=rss",
-      "publishedAt": "2026-08-25T20:50:19.000Z",
-      "xQuery": "バヌアツ噴火 日本へ津波影響なし"
+      "url": "https://news.yahoo.co.jp/pickup/6593089?source=rss",
+      "publishedAt": "2026-08-25T22:44:19.000Z",
+      "xQuery": "コンテンツ支援の司令塔 新設検討"
     },
     {
-      "time": "22:26",
-      "title": "3児失う事故から20年 4児と歩む母",
+      "time": "07:43",
+      "title": "4人死亡 見張り員所定位置おらず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593071?source=rss",
-      "publishedAt": "2026-08-25T13:26:09.000Z",
-      "xQuery": "3児失う事故から20年 4児と歩む母"
+      "url": "https://news.yahoo.co.jp/pickup/6593087?source=rss",
+      "publishedAt": "2026-08-25T22:43:18.000Z",
+      "xQuery": "4人死亡 見張り員所定位置おらず"
     },
     {
       "time": "00:16",
