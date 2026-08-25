@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-25T03:48:39.728Z",
+  "updatedAt": "2026-08-25T04:17:38.252Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:00",
+        "title": "発電機制御盤の世界市場（2026年～2032年）、市場規模（手動制御盤、自動制御盤）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zbkJsUzZFazdwRXk1NGlUSGdOczBKT2ZsV2hOTnotZXRJSGJBWHQxcGhXU2UzREp2TWc2ekhfMHZxQzZfOFNkM091R3JIUjA?oc=5",
+        "publishedAt": "2026-08-25T04:00:00.000Z"
+      },
       {
         "time": "11:00",
         "title": "JIMTOF2026 (第33回日本国際工作機械見本市) 9月1日（火）より事前来場登録開始",
@@ -50,13 +57,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
         "publishedAt": "2026-08-24T10:27:08.000Z"
-      },
-      {
-        "time": "17:30",
-        "title": "ガントリーボーリング・フライス加工マシニングセンターの世界市場（2026年～2032年）、市場規模（固定ビーム型、可動ビーム型）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vS1FTdjFMZ24yRVNVOWp0SnRaT1dFQlV2RjEyNE1zYWVtczlrOXFIN05pUllzeGgySy1XNjJJUW5CLU5DOGJzcmgtUEh4QQ?oc=5",
-        "publishedAt": "2026-08-24T08:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "13:04",
+        "title": "ハビタ 当初の報告巡り遺族に謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593000?source=rss",
+        "publishedAt": "2026-08-25T04:04:01.000Z"
+      },
+      {
         "time": "09:01",
         "title": "経産省 事業再編促す税優遇要望へ",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592988?source=rss",
         "publishedAt": "2026-08-25T02:53:24.000Z"
-      },
-      {
-        "time": "18:05",
-        "title": "ファミマがレジ端末の刷新検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592899?source=rss",
-        "publishedAt": "2026-08-24T09:05:00.000Z"
       },
       {
         "time": "08:06",
