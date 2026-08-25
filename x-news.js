@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T02:29:51.874Z",
+  "updatedAt": "2026-08-25T02:56:01.762Z",
   "items": [
     {
-      "time": "10:49",
-      "title": "福岡県議会の自民会派 1人が離脱",
+      "time": "09:39",
+      "title": "相次ぐ熱中症患者 救急医療ひっ迫",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592980?source=rss",
-      "publishedAt": "2026-08-25T01:49:26.000Z",
-      "xQuery": "福岡県議会の自民会派 1人が離脱"
-    },
-    {
-      "time": "10:07",
-      "title": "イオン爆発前に「ガス臭」証言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592976?source=rss",
-      "publishedAt": "2026-08-25T01:07:16.000Z",
-      "xQuery": "イオン爆発前に「ガス臭」証言"
+      "url": "https://news.yahoo.co.jp/pickup/6592974?source=rss",
+      "publishedAt": "2026-08-25T00:39:57.000Z",
+      "xQuery": "相次ぐ熱中症患者 救急医療ひっ迫"
     },
     {
       "time": "09:47",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "8/22の世界海面水温 観測史上最高"
     },
     {
-      "time": "09:21",
-      "title": "路上売春 買う側処罰案に賛否の訳",
+      "time": "11:41",
+      "title": "蔵内氏「限界だろう」辞職表明前",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592971?source=rss",
-      "publishedAt": "2026-08-25T00:21:33.000Z",
-      "xQuery": "路上売春 買う側処罰案に賛否の訳"
+      "url": "https://news.yahoo.co.jp/pickup/6592989?source=rss",
+      "publishedAt": "2026-08-25T02:41:49.000Z",
+      "xQuery": "蔵内氏「限界だろう」辞職表明前"
     },
     {
-      "time": "11:23",
-      "title": "夫不倫で離婚 切り出された家売却",
+      "time": "11:29",
+      "title": "買春目的の訪日客増 対応求める声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592981?source=rss",
-      "publishedAt": "2026-08-25T02:23:11.000Z",
-      "xQuery": "夫不倫で離婚 切り出された家売却"
+      "url": "https://news.yahoo.co.jp/pickup/6592984?source=rss",
+      "publishedAt": "2026-08-25T02:29:49.000Z",
+      "xQuery": "買春目的の訪日客増 対応求める声"
+    },
+    {
+      "time": "11:32",
+      "title": "田久保氏PCに偽造卒業証書データ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592982?source=rss",
+      "publishedAt": "2026-08-25T02:32:49.000Z",
+      "xQuery": "田久保氏PCに偽造卒業証書データ"
     }
   ]
 };

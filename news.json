@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T02:29:51.290Z",
+  "updatedAt": "2026-08-25T02:56:00.859Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-08-24T22:00:06.000Z"
       },
       {
-        "time": "14:30",
-        "title": "工作機械、AI銘柄に 関連需要で受注増、株価は軟調",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fTkhDMHJDZUdFVVN1VWNadzRDc3NwRWJGcXB5Y2pjSkVFeE94UFRIeThDYVp1aTRkTGZwZ2Znei1jNzhPWFZtV1lCX1Bha01FY2VBY2w2MzU2dUh4d3liU0F2clF3OUN2Z2ZKRw?oc=5",
-        "publishedAt": "2026-08-24T05:30:00.000Z"
-      },
-      {
         "time": "05:00",
         "title": "ケーススタディー オープンイノベーション（69）坂ノ途中",
         "source": "日刊工業新聞",
@@ -38,18 +31,25 @@
         "publishedAt": "2026-08-24T20:00:00.000Z"
       },
       {
+        "time": "14:30",
+        "title": "工作機械、AI銘柄に 関連需要で受注増、株価は軟調",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fTkhDMHJDZUdFVVN1VWNadzRDc3NwRWJGcXB5Y2pjSkVFeE94UFRIeThDYVp1aTRkTGZwZ2Znei1jNzhPWFZtV1lCX1Bha01FY2VBY2w2MzU2dUh4d3liU0F2clF3OUN2Z2ZKRw?oc=5",
+        "publishedAt": "2026-08-24T05:30:00.000Z"
+      },
+      {
+        "time": "19:27",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-08-24T10:27:08.000Z"
+      },
+      {
         "time": "17:30",
         "title": "ガントリーボーリング・フライス加工マシニングセンターの世界市場（2026年～2032年）、市場規模（固定ビーム型、可動ビーム型）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaSEd1bk9QTV9VQ0UtdVBhZXFvS3Q5SEFmcW80ZnJxY1NsOTRIa2FLZUkzaDE1QXZ2VGNCTDJzZFFGRTF2dVBCNkJrNGkydU0?oc=5",
         "publishedAt": "2026-08-24T08:30:00.000Z"
-      },
-      {
-        "time": "19:26",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-08-24T10:26:02.000Z"
       },
       {
         "time": "16:00",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-08-24T22:48:06.000Z"
       },
       {
+        "time": "11:46",
+        "title": "米軍攻撃ヘリ高頻度で墜落 CNN",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592990?source=rss",
+        "publishedAt": "2026-08-25T02:46:42.000Z"
+      },
+      {
         "time": "20:31",
         "title": "中国外相の韓国訪問 背景に危機感",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592905?source=rss",
         "publishedAt": "2026-08-24T11:31:11.000Z"
-      },
-      {
-        "time": "22:39",
-        "title": "中国で白菜に発がん性物質か 調査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592940?source=rss",
-        "publishedAt": "2026-08-24T13:39:56.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,18 +126,18 @@
         "publishedAt": "2026-08-24T10:18:05.000Z"
       },
       {
+        "time": "11:53",
+        "title": "東武死亡事故受け 自社CMを自粛",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592988?source=rss",
+        "publishedAt": "2026-08-25T02:53:24.000Z"
+      },
+      {
         "time": "18:05",
         "title": "ファミマがレジ端末の刷新検討",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592899?source=rss",
         "publishedAt": "2026-08-24T09:05:00.000Z"
-      },
-      {
-        "time": "17:10",
-        "title": "ドローン報道 BERGが楽天店撤退",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592893?source=rss",
-        "publishedAt": "2026-08-24T08:10:46.000Z"
       },
       {
         "time": "08:06",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "11:41",
+        "title": "蔵内氏「限界だろう」辞職表明前",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592989?source=rss",
+        "publishedAt": "2026-08-25T02:41:49.000Z"
+      },
       {
         "time": "10:49",
         "title": "福岡県議会の自民会派 1人が離脱",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-08-24T22:33:49.000Z"
       },
       {
-        "time": "20:17",
-        "title": "高2死亡 車に追われるバイク映る",
+        "time": "11:32",
+        "title": "田久保氏PCに偽造卒業証書データ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592919?source=rss",
-        "publishedAt": "2026-08-24T11:17:29.000Z"
-      },
-      {
-        "time": "23:51",
-        "title": "18歳死亡 灯籠と柱に挟まれる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592947?source=rss",
-        "publishedAt": "2026-08-24T14:51:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6592982?source=rss",
+        "publishedAt": "2026-08-25T02:32:49.000Z"
       }
     ],
     "subsidyHeadlines": [
