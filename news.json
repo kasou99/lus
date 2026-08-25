@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-24T23:39:38.273Z",
+  "updatedAt": "2026-08-25T00:20:59.667Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "08:59",
+        "title": "【入札結果】8壱上水第115号 壱岐市水道施設滅菌設備保守点検業務",
+        "source": "city.iki.nagasaki.jp",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93bVItd3hzX21mX2NjX1JzU2hCQXFEbUhzNHdQbk9NclFYc1VRY20wMG5sNmRRQmI3dzQwX1hLLUtNOExIamFVSmhrTXQwa0E4NE5Dd3FjZlhMaGJ3blFRa2dWSmM5VHlBUTdYRWlSUDRJV21MRkJKdE44ZEwzdw?oc=5",
+        "publishedAt": "2026-08-24T23:59:26.000Z"
+      },
       {
         "time": "14:30",
         "title": "工作機械、AI銘柄に 関連需要で受注増、株価は軟調",
@@ -50,16 +57,16 @@
         "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10N3dad000QmFhdGM1NDF5eGdXMWQwUVRIN3g4bi1kTEtDT19FZ0ZiN3dLN1RBeEd2dF83clBEOEx2cEd4S1I5ck82bWZzRE9naHNlTjRUYlBSM3o1dTQ0Zw?oc=5",
         "publishedAt": "2026-08-24T00:42:00.000Z"
-      },
-      {
-        "time": "17:48",
-        "title": "産業用製品比較販売サービス「メトリー」、佐々木希さんを起用した新広告を、小田急線全線にて掲出開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xNE9zV1hWYm5RS3g1SExYbzNMd0xxQkZjV2U5MWdKcDlUQTdSdGdlU0U5N3ZLb29YNjM0dmZXaGJHMGxGaWtGTUxDUThMdW1jbWM0M2dsdlozbzNJdS1zSlJ3YV9vdmpPYmloS0xuRjNfaFowMjlOeWZKOA?oc=5",
-        "publishedAt": "2026-08-24T08:48:34.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "09:08",
+        "title": "米 イランに「経済的総攻撃」発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592970?source=rss",
+        "publishedAt": "2026-08-25T00:08:24.000Z"
+      },
       {
         "time": "00:13",
         "title": "カナダ車関税2倍へ 米大統領表明",
@@ -82,13 +89,6 @@
         "publishedAt": "2026-08-24T22:48:06.000Z"
       },
       {
-        "time": "12:56",
-        "title": "ウ首相 日本に迎撃弾の供与を期待",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592870?source=rss",
-        "publishedAt": "2026-08-24T03:56:04.000Z"
-      },
-      {
         "time": "20:31",
         "title": "中国外相の韓国訪問 背景に危機感",
         "source": "Yahoo!ニュース",
@@ -104,6 +104,13 @@
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "09:01",
+        "title": "経産省 事業再編促す税優遇要望へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592967?source=rss",
+        "publishedAt": "2026-08-25T00:01:49.000Z"
+      },
       {
         "time": "22:33",
         "title": "損保ジャパン 車保険料5%値上げへ",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592893?source=rss",
         "publishedAt": "2026-08-24T08:10:46.000Z"
-      },
-      {
-        "time": "08:06",
-        "title": "コンビニ各社おにぎり値下げ なぜ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592961?source=rss",
-        "publishedAt": "2026-08-24T23:06:36.000Z"
       }
     ],
     "localHeadlines": [

@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-24T23:39:39.586Z",
+  "updatedAt": "2026-08-25T00:21:00.404Z",
   "items": [
+    {
+      "time": "09:01",
+      "title": "経産省 事業再編促す税優遇要望へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592967?source=rss",
+      "publishedAt": "2026-08-25T00:01:49.000Z",
+      "xQuery": "経産省 事業再編促す税優遇要望へ"
+    },
     {
       "time": "07:48",
       "title": "ウ侵略4年半 欧州の結束アピール",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592958?source=rss",
       "publishedAt": "2026-08-24T22:48:06.000Z",
       "xQuery": "ウ侵略4年半 欧州の結束アピール"
-    },
-    {
-      "time": "07:33",
-      "title": "同志社理事長辞任へ 辺野古事故で",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592956?source=rss",
-      "publishedAt": "2026-08-24T22:33:49.000Z",
-      "xQuery": "同志社理事長辞任へ 辺野古事故で"
     },
     {
       "time": "07:00",
