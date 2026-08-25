@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T10:44:55.348Z",
+  "updatedAt": "2026-08-25T11:10:13.584Z",
   "items": [
     {
       "time": "18:07",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593042?source=rss",
       "publishedAt": "2026-08-25T09:07:36.000Z",
       "xQuery": "ガソリン補助金継続へ 高市氏表明"
-    },
-    {
-      "time": "18:41",
-      "title": "小泉防衛相 保守層の評価なぜ反転",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593044?source=rss",
-      "publishedAt": "2026-08-25T09:41:02.000Z",
-      "xQuery": "小泉防衛相 保守層の評価なぜ反転"
     },
     {
       "time": "19:02",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593039?source=rss",
       "publishedAt": "2026-08-25T08:53:13.000Z",
       "xQuery": "米デスバレー立ち往生 観光客死亡"
+    },
+    {
+      "time": "17:18",
+      "title": "宅配業者に暴言 カスハラ被害深刻",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593033?source=rss",
+      "publishedAt": "2026-08-25T08:18:12.000Z",
+      "xQuery": "宅配業者に暴言 カスハラ被害深刻"
     }
   ]
 };
