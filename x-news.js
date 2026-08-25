@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T07:48:05.459Z",
+  "updatedAt": "2026-08-25T08:19:19.113Z",
   "items": [
     {
       "time": "16:32",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "出国税の使い道 見直しを検討へ"
     },
     {
-      "time": "15:03",
-      "title": "ウで徴兵をめぐる暴力が増 背景は",
+      "time": "16:52",
+      "title": "26年版警察白書 大川原冤罪に言及",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593012?source=rss",
-      "publishedAt": "2026-08-25T06:03:18.000Z",
-      "xQuery": "ウで徴兵をめぐる暴力が増 背景は"
+      "url": "https://news.yahoo.co.jp/pickup/6593023?source=rss",
+      "publishedAt": "2026-08-25T07:52:52.000Z",
+      "xQuery": "26年版警察白書 大川原冤罪に言及"
     },
     {
       "time": "15:28",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日航機墜落 修理ミス巡り国公表へ"
     },
     {
-      "time": "13:59",
-      "title": "高2死亡 車に追われ暴行されたか",
+      "time": "16:57",
+      "title": "26日関東で局地的な雷雨恐れ 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593007?source=rss",
-      "publishedAt": "2026-08-25T04:59:23.000Z",
-      "xQuery": "高2死亡 車に追われ暴行されたか"
+      "url": "https://news.yahoo.co.jp/pickup/6593026?source=rss",
+      "publishedAt": "2026-08-25T07:57:37.000Z",
+      "xQuery": "26日関東で局地的な雷雨恐れ 警戒"
     },
     {
       "time": "16:31",
