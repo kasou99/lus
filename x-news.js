@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T06:15:09.679Z",
+  "updatedAt": "2026-08-25T06:48:45.039Z",
   "items": [
     {
       "time": "13:19",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ウで徴兵をめぐる暴力が増 背景は"
     },
     {
-      "time": "13:48",
-      "title": "中野ブロードウェイで窃盗事件",
+      "time": "15:28",
+      "title": "日航機墜落 修理ミス巡り国公表へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593006?source=rss",
-      "publishedAt": "2026-08-25T04:48:33.000Z",
-      "xQuery": "中野ブロードウェイで窃盗事件"
+      "url": "https://news.yahoo.co.jp/pickup/6593013?source=rss",
+      "publishedAt": "2026-08-25T06:28:31.000Z",
+      "xQuery": "日航機墜落 修理ミス巡り国公表へ"
     },
     {
       "time": "13:59",
