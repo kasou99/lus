@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T00:50:11.291Z",
+  "updatedAt": "2026-08-25T01:33:14.533Z",
   "items": [
-    {
-      "time": "09:01",
-      "title": "経産省 事業再編促す税優遇要望へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592967?source=rss",
-      "publishedAt": "2026-08-25T00:01:49.000Z",
-      "xQuery": "経産省 事業再編促す税優遇要望へ"
-    },
     {
       "time": "09:08",
       "title": "米 イランに「経済的総攻撃」発表",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592970?source=rss",
       "publishedAt": "2026-08-25T00:08:24.000Z",
       "xQuery": "米 イランに「経済的総攻撃」発表"
+    },
+    {
+      "time": "10:07",
+      "title": "イオン爆発前に「ガス臭」証言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592976?source=rss",
+      "publishedAt": "2026-08-25T01:07:16.000Z",
+      "xQuery": "イオン爆発前に「ガス臭」証言"
     },
     {
       "time": "09:21",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "路上売春 買う側処罰案に賛否の訳"
     },
     {
-      "time": "07:00",
-      "title": "相模原17歳死亡 ぼう然とする友人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592952?source=rss",
-      "publishedAt": "2026-08-24T22:00:57.000Z",
-      "xQuery": "相模原17歳死亡 ぼう然とする友人"
-    },
-    {
       "time": "09:25",
       "title": "「将門塚」で迷惑配信 刑事責任は",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592972?source=rss",
       "publishedAt": "2026-08-25T00:25:48.000Z",
       "xQuery": "「将門塚」で迷惑配信 刑事責任は"
+    },
+    {
+      "time": "10:17",
+      "title": "窓口営業は午前のみ 京都信用金庫",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592978?source=rss",
+      "publishedAt": "2026-08-25T01:17:36.000Z",
+      "xQuery": "窓口営業は午前のみ 京都信用金庫"
     }
   ]
 };

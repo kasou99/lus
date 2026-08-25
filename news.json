@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-25T00:50:10.547Z",
+  "updatedAt": "2026-08-25T01:33:13.773Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:00",
+        "title": "次世代設備保全クラウドM2X、株式会社商工組合中央金庫とビジネスマッチング契約を締結",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZWWcxR09qeDFQMGM0cS1hc0lDN0tBSWpPV2ZqcURiRTlHQVl4VzVNNTMtOTQ0YlZ4dG9XdXRiSk52c2hfZDBFVUdXaGlZdzR5cGRpamtPTjBqa1V6WnM4cDU2clBrcDJFaHc?oc=5",
+        "publishedAt": "2026-08-25T00:00:02.000Z"
+      },
       {
         "time": "08:59",
         "title": "【入札結果】8壱上水第115号 壱岐市水道施設滅菌設備保守点検業務",
@@ -10,18 +17,11 @@
         "publishedAt": "2026-08-24T23:59:26.000Z"
       },
       {
-        "time": "14:30",
-        "title": "工作機械、AI銘柄に 関連需要で受注増、株価は軟調",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fTkhDMHJDZUdFVVN1VWNadzRDc3NwRWJGcXB5Y2pjSkVFeE94UFRIeThDYVp1aTRkTGZwZ2Znei1jNzhPWFZtV1lCX1Bha01FY2VBY2w2MzU2dUh4d3liU0F2clF3OUN2Z2ZKRw?oc=5",
-        "publishedAt": "2026-08-24T05:30:00.000Z"
-      },
-      {
-        "time": "06:50",
-        "title": "従業員38人で売上73億円の衝撃…世界初「製造AI」で常識を覆す「金沢の町工場」の正体",
-        "source": "ビジネス+IT",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jN2hwTU5fazAwRXo0RGhxZ3cyUExGZkNKS25jeTYwYWxfQUVZR1BoUndxeEdmTlM1X1lTYzE5NjZEc01fcGJrUTJncngwam8?oc=5",
-        "publishedAt": "2026-08-24T21:50:00.000Z"
+        "time": "07:00",
+        "title": "従業員38人で売上73億円の衝撃…世界初「製造AI」で常識を覆す「金沢の町工場」の正体（ビジネス＋IT）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2FZWng3M0NfZXVLeTR6TGlBUUxSTS1TU0tpZnp2Y1lUNklzR1dLTy05VGlSTU1nLWdaRXZEY0M4Rl9QejNMaFFwaVNjWGIybWFHQVdBRk5wOFMzVll6c3FsLUVwZVdOaGFVMEJQaFpxNWwweWo1Ym1YRU9aeGJCZkFHbmdBeHVm?oc=5",
+        "publishedAt": "2026-08-24T22:00:06.000Z"
       },
       {
         "time": "05:00",
@@ -29,6 +29,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tYmZ0R0h4M3FRWS1vRFp3YkNpcURvMVE5OEJIRGJDNVRMeDFzb2UyRjRIT1F0NmplSTJyMVowV2p6VWk5TzJPZE1MendLU3Z2YlpkR0pMT0k?oc=5",
         "publishedAt": "2026-08-24T20:00:00.000Z"
+      },
+      {
+        "time": "14:30",
+        "title": "工作機械、AI銘柄に 関連需要で受注増、株価は軟調",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fTkhDMHJDZUdFVVN1VWNadzRDc3NwRWJGcXB5Y2pjSkVFeE94UFRIeThDYVp1aTRkTGZwZ2Znei1jNzhPWFZtV1lCX1Bha01FY2VBY2w2MzU2dUh4d3liU0F2clF3OUN2Z2ZKRw?oc=5",
+        "publishedAt": "2026-08-24T05:30:00.000Z"
       },
       {
         "time": "19:27",
@@ -50,13 +57,6 @@
         "source": "ドリームニュース",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQYm11dDlMejFRZXplMVotcDJXTVRzb3piaDJyS1JFUGJYMGlOdWhxTWhLbUtNQmdRRWwxSW5ad2Vib3BvSXJKcS1seW1uek9HSUN3?oc=5",
         "publishedAt": "2026-08-24T07:00:00.000Z"
-      },
-      {
-        "time": "17:48",
-        "title": "産業用製品比較販売サービス「メトリー」、佐々木希さんを起用した新広告を、小田急線全線にて掲出開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xNE9zV1hWYm5RS3g1SExYbzNMd0xxQkZjV2U5MWdKcDlUQTdSdGdlU0U5N3ZLb29YNjM0dmZXaGJHMGxGaWtGTUxDUThMdW1jbWM0M2dsdlozbzNJdS1zSlJ3YV9vdmpPYmloS0xuRjNfaFowMjlOeWZKOA?oc=5",
-        "publishedAt": "2026-08-24T08:48:34.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "10:07",
+        "title": "イオン爆発前に「ガス臭」証言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592976?source=rss",
+        "publishedAt": "2026-08-25T01:07:16.000Z"
+      },
+      {
         "time": "07:00",
         "title": "相模原17歳死亡 ぼう然とする友人",
         "source": "Yahoo!ニュース",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-08-24T11:17:29.000Z"
       },
       {
-        "time": "06:09",
-        "title": "車正面衝突し2人死亡 幼児重傷か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592949?source=rss",
-        "publishedAt": "2026-08-24T21:09:49.000Z"
-      },
-      {
-        "time": "07:22",
-        "title": "住宅に身元不明の3人の遺体 岐阜",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592954?source=rss",
-        "publishedAt": "2026-08-24T22:22:33.000Z"
-      },
-      {
         "time": "23:51",
         "title": "18歳死亡 灯籠と柱に挟まれる",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6592947?source=rss",
         "publishedAt": "2026-08-24T14:51:24.000Z"
+      },
+      {
+        "time": "07:51",
+        "title": "警視庁警官3060人欠員 採用不調か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6592957?source=rss",
+        "publishedAt": "2026-08-24T22:51:13.000Z"
       }
     ],
     "subsidyHeadlines": [
