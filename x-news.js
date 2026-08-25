@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T14:19:32.340Z",
+  "updatedAt": "2026-08-25T14:48:19.144Z",
   "items": [
+    {
+      "time": "23:20",
+      "title": "消費減税で減収農家に給付金 方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593076?source=rss",
+      "publishedAt": "2026-08-25T14:20:57.000Z",
+      "xQuery": "消費減税で減収農家に給付金 方針"
+    },
     {
       "time": "22:35",
       "title": "新学期前 子どものSOSサイン注意",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593070?source=rss",
       "publishedAt": "2026-08-25T13:35:45.000Z",
       "xQuery": "新学期前 子どものSOSサイン注意"
-    },
-    {
-      "time": "22:09",
-      "title": "バヌアツで噴火 気象庁が津波調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593068?source=rss",
-      "publishedAt": "2026-08-25T13:09:30.000Z",
-      "xQuery": "バヌアツで噴火 気象庁が津波調査"
-    },
-    {
-      "time": "22:23",
-      "title": "記録的通貨安 物価高苦しむイラン",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593067?source=rss",
-      "publishedAt": "2026-08-25T13:23:44.000Z",
-      "xQuery": "記録的通貨安 物価高苦しむイラン"
     },
     {
       "time": "22:26",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "3児失う事故から20年 4児と歩む母"
     },
     {
-      "time": "20:19",
-      "title": "中国産白菜巡り波紋 韓国に飛び火",
+      "time": "23:29",
+      "title": "米大統領 オンタリオ湖の改称検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593056?source=rss",
-      "publishedAt": "2026-08-25T11:19:09.000Z",
-      "xQuery": "中国産白菜巡り波紋 韓国に飛び火"
+      "url": "https://news.yahoo.co.jp/pickup/6593077?source=rss",
+      "publishedAt": "2026-08-25T14:29:13.000Z",
+      "xQuery": "米大統領 オンタリオ湖の改称検討"
+    },
+    {
+      "time": "17:53",
+      "title": "米デスバレー立ち往生 観光客死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593039?source=rss",
+      "publishedAt": "2026-08-25T08:53:13.000Z",
+      "xQuery": "米デスバレー立ち往生 観光客死亡"
     }
   ]
 };
