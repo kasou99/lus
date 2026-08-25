@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T22:08:22.437Z",
+  "updatedAt": "2026-08-25T22:42:35.295Z",
   "items": [
     {
       "time": "06:41",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "バヌアツ噴火 日本へ津波影響なし"
     },
     {
-      "time": "23:29",
-      "title": "米大統領 オンタリオ湖の改称検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593077?source=rss",
-      "publishedAt": "2026-08-25T14:29:13.000Z",
-      "xQuery": "米大統領 オンタリオ湖の改称検討"
-    },
-    {
       "time": "22:26",
       "title": "3児失う事故から20年 4児と歩む母",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593071?source=rss",
       "publishedAt": "2026-08-25T13:26:09.000Z",
       "xQuery": "3児失う事故から20年 4児と歩む母"
+    },
+    {
+      "time": "00:16",
+      "title": "崖下200メートルに車転落か 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593079?source=rss",
+      "publishedAt": "2026-08-25T15:16:01.000Z",
+      "xQuery": "崖下200メートルに車転落か 死亡"
     }
   ]
 };
