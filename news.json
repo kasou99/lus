@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T08:19:18.351Z",
+  "updatedAt": "2026-08-25T08:47:58.736Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-08-24T20:00:00.000Z"
       },
       {
-        "time": "19:27",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-08-24T10:27:08.000Z"
+        "time": "05:00",
+        "title": "伊地智写真型製作所、デジタル「京友禅」共創 伝統文様を内外に提案",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82WUNjNnVZUHRmcktYYlRUMzhYTG1LNWFRQ1paTXZyRDc0UUdkRmlXeGJZSXJoODNsVHNzdTBsNUUwRzJsN0ZRam03WWpxY0lQY3R6a1dsUHllSC02UnhKOUx3Y2hOVHppMkNCaHp1aw?oc=5",
+        "publishedAt": "2026-08-24T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,11 +133,11 @@
         "publishedAt": "2026-08-25T05:31:34.000Z"
       },
       {
-        "time": "08:06",
-        "title": "コンビニ各社おにぎり値下げ なぜ",
+        "time": "17:33",
+        "title": "モス スーパーなどで冷食販売へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592961?source=rss",
-        "publishedAt": "2026-08-24T23:06:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593030?source=rss",
+        "publishedAt": "2026-08-25T08:33:42.000Z"
       },
       {
         "time": "10:17",
@@ -156,13 +156,6 @@
         "publishedAt": "2026-08-25T04:19:30.000Z"
       },
       {
-        "time": "11:41",
-        "title": "蔵内氏「限界だろう」辞職表明前",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592989?source=rss",
-        "publishedAt": "2026-08-25T02:41:49.000Z"
-      },
-      {
         "time": "13:59",
         "title": "高2死亡 車に追われ暴行されたか",
         "source": "Yahoo!ニュース",
@@ -175,6 +168,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593018?source=rss",
         "publishedAt": "2026-08-25T07:10:50.000Z"
+      },
+      {
+        "time": "17:30",
+        "title": "医療事故 母子感染防げずがん発症",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593032?source=rss",
+        "publishedAt": "2026-08-25T08:30:57.000Z"
       },
       {
         "time": "11:32",

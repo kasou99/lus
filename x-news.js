@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T08:19:19.113Z",
+  "updatedAt": "2026-08-25T08:47:59.521Z",
   "items": [
     {
       "time": "16:32",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "26年版警察白書 大川原冤罪に言及"
     },
     {
-      "time": "15:28",
-      "title": "日航機墜落 修理ミス巡り国公表へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593013?source=rss",
-      "publishedAt": "2026-08-25T06:28:31.000Z",
-      "xQuery": "日航機墜落 修理ミス巡り国公表へ"
-    },
-    {
       "time": "16:57",
       "title": "26日関東で局地的な雷雨恐れ 警戒",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593026?source=rss",
       "publishedAt": "2026-08-25T07:57:37.000Z",
       "xQuery": "26日関東で局地的な雷雨恐れ 警戒"
+    },
+    {
+      "time": "17:30",
+      "title": "医療事故 母子感染防げずがん発症",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593032?source=rss",
+      "publishedAt": "2026-08-25T08:30:57.000Z",
+      "xQuery": "医療事故 母子感染防げずがん発症"
     },
     {
       "time": "16:31",
