@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T09:16:20.161Z",
+  "updatedAt": "2026-08-25T09:45:51.592Z",
   "items": [
     {
       "time": "18:07",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ガソリン補助金継続へ 高市氏表明"
     },
     {
-      "time": "14:21",
-      "title": "政府のアニメ支援 現場に届かぬ訳",
+      "time": "18:26",
+      "title": "コメ価格暴落 備蓄米放出が要因か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592997?source=rss",
-      "publishedAt": "2026-08-25T05:21:29.000Z",
-      "xQuery": "政府のアニメ支援 現場に届かぬ訳"
+      "url": "https://news.yahoo.co.jp/pickup/6593046?source=rss",
+      "publishedAt": "2026-08-25T09:26:49.000Z",
+      "xQuery": "コメ価格暴落 備蓄米放出が要因か"
     },
     {
       "time": "17:53",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "競泳・本多灯被告に拘禁刑1年求刑"
     },
     {
-      "time": "17:33",
-      "title": "モス スーパーなどで冷食販売へ",
+      "time": "18:30",
+      "title": "「要介護でも飲みに」を支える店",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593030?source=rss",
-      "publishedAt": "2026-08-25T08:33:42.000Z",
-      "xQuery": "モス スーパーなどで冷食販売へ"
+      "url": "https://news.yahoo.co.jp/pickup/6593022?source=rss",
+      "publishedAt": "2026-08-25T09:30:22.000Z",
+      "xQuery": "「要介護でも飲みに」を支える店"
     }
   ]
 };
