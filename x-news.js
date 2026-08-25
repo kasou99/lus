@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T04:17:39.477Z",
+  "updatedAt": "2026-08-25T04:47:09.772Z",
   "items": [
     {
       "time": "12:12",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "台風18号が沖縄接近 高波など警戒"
     },
     {
-      "time": "09:39",
-      "title": "相次ぐ熱中症患者 救急医療ひっ迫",
+      "time": "13:19",
+      "title": "福岡県議長 辞職の理由説明せず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592974?source=rss",
-      "publishedAt": "2026-08-25T00:39:57.000Z",
-      "xQuery": "相次ぐ熱中症患者 救急医療ひっ迫"
+      "url": "https://news.yahoo.co.jp/pickup/6593001?source=rss",
+      "publishedAt": "2026-08-25T04:19:30.000Z",
+      "xQuery": "福岡県議長 辞職の理由説明せず"
     },
     {
-      "time": "11:46",
-      "title": "米軍攻撃ヘリ高頻度で墜落 CNN",
+      "time": "13:34",
+      "title": "中野ブロードウェイで強盗事件",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592990?source=rss",
-      "publishedAt": "2026-08-25T02:46:42.000Z",
-      "xQuery": "米軍攻撃ヘリ高頻度で墜落 CNN"
+      "url": "https://news.yahoo.co.jp/pickup/6593002?source=rss",
+      "publishedAt": "2026-08-25T04:34:52.000Z",
+      "xQuery": "中野ブロードウェイで強盗事件"
     },
     {
-      "time": "11:41",
-      "title": "蔵内氏「限界だろう」辞職表明前",
+      "time": "13:04",
+      "title": "ハビタ 当初の報告巡り遺族に謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592989?source=rss",
-      "publishedAt": "2026-08-25T02:41:49.000Z",
-      "xQuery": "蔵内氏「限界だろう」辞職表明前"
+      "url": "https://news.yahoo.co.jp/pickup/6593000?source=rss",
+      "publishedAt": "2026-08-25T04:04:01.000Z",
+      "xQuery": "ハビタ 当初の報告巡り遺族に謝罪"
     },
     {
       "time": "12:09",
