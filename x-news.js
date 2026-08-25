@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T05:43:52.194Z",
+  "updatedAt": "2026-08-25T06:15:09.679Z",
   "items": [
     {
       "time": "13:19",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡県議長 辞職の理由説明せず"
     },
     {
-      "time": "12:06",
-      "title": "在留手数料 大幅値上げは10月から",
+      "time": "15:03",
+      "title": "ウで徴兵をめぐる暴力が増 背景は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592993?source=rss",
-      "publishedAt": "2026-08-25T03:06:35.000Z",
-      "xQuery": "在留手数料 大幅値上げは10月から"
+      "url": "https://news.yahoo.co.jp/pickup/6593012?source=rss",
+      "publishedAt": "2026-08-25T06:03:18.000Z",
+      "xQuery": "ウで徴兵をめぐる暴力が増 背景は"
     },
     {
       "time": "13:48",
