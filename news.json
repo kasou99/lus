@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T06:48:44.187Z",
+  "updatedAt": "2026-08-25T07:21:50.156Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-08-25T06:15:00.000Z"
       },
       {
-        "time": "07:00",
-        "title": "従業員38人で売上73億円の衝撃…世界初「製造AI」で常識を覆す「金沢の町工場」の正体（ビジネス＋IT）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2FZWng3M0NfZXVLeTR6TGlBUUxSTS1TU0tpZnp2Y1lUNklzR1dLTy05VGlSTU1nLWdaRXZEY0M4Rl9QejNMaFFwaVNjWGIybWFHQVdBRk5wOFMzVll6c3FsLUVwZVdOaGFVMEJQaFpxNWwweWo1Ym1YRU9aeGJCZkFHbmdBeHVm?oc=5",
-        "publishedAt": "2026-08-24T22:00:06.000Z"
-      },
-      {
         "time": "12:15",
         "title": "次世代設備保全クラウドM2X、株式会社商工組合中央金庫とビジネスマッチング契約を締結",
         "source": "ニコニコニュース",
@@ -31,11 +24,18 @@
         "publishedAt": "2026-08-25T03:15:40.000Z"
       },
       {
-        "time": "05:00",
-        "title": "ケーススタディー オープンイノベーション（69）坂ノ途中",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tYmZ0R0h4M3FRWS1vRFp3YkNpcURvMVE5OEJIRGJDNVRMeDFzb2UyRjRIT1F0NmplSTJyMVowV2p6VWk5TzJPZE1MendLU3Z2YlpkR0pMT0k?oc=5",
-        "publishedAt": "2026-08-24T20:00:00.000Z"
+        "time": "07:00",
+        "title": "従業員38人で売上73億円の衝撃…世界初「製造AI」で常識を覆す「金沢の町工場」の正体（ビジネス＋IT）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2FZWng3M0NfZXVLeTR6TGlBUUxSTS1TU0tpZnp2Y1lUNklzR1dLTy05VGlSTU1nLWdaRXZEY0M4Rl9QejNMaFFwaVNjWGIybWFHQVdBRk5wOFMzVll6c3FsLUVwZVdOaGFVMEJQaFpxNWwweWo1Ym1YRU9aeGJCZkFHbmdBeHVm?oc=5",
+        "publishedAt": "2026-08-24T22:00:06.000Z"
+      },
+      {
+        "time": "15:53",
+        "title": "M2Xと商工中金が手を組み、中小企業の設備保全DXを加速するビジネスマッチング契約締結",
+        "source": "ニュースメディアVOIX",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VV1ZEQVQ4eldEVVdEcm1xcVVkUkUtOE1MVGl4MEIwdUR1Y2plRENDSlg0QUtyNlUyLWRHYVdqb2hJOFJBQmZNanlsUEx2T3daN2R1QW5qVkdrRmhUVGdDZDBoTXoycjJMdjRn?oc=5",
+        "publishedAt": "2026-08-25T06:53:38.000Z"
       },
       {
         "time": "19:27",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-08-24T22:00:57.000Z"
       },
       {
-        "time": "13:48",
-        "title": "中野ブロードウェイで窃盗事件",
+        "time": "16:10",
+        "title": "中野の時計店で窃盗 2億円相当",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593006?source=rss",
-        "publishedAt": "2026-08-25T04:48:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593018?source=rss",
+        "publishedAt": "2026-08-25T07:10:50.000Z"
       },
       {
         "time": "11:32",

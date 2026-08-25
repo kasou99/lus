@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T06:48:45.039Z",
+  "updatedAt": "2026-08-25T07:21:50.932Z",
   "items": [
     {
       "time": "13:19",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高2死亡 車に追われ暴行されたか"
     },
     {
-      "time": "14:36",
-      "title": "東武事故受け AC広告に差し替え",
+      "time": "13:44",
+      "title": "違法駐車でバス23分足止め 責任は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593008?source=rss",
-      "publishedAt": "2026-08-25T05:36:08.000Z",
-      "xQuery": "東武事故受け AC広告に差し替え"
+      "url": "https://news.yahoo.co.jp/pickup/6593003?source=rss",
+      "publishedAt": "2026-08-25T04:44:13.000Z",
+      "xQuery": "違法駐車でバス23分足止め 責任は"
     }
   ]
 };
