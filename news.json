@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T11:42:03.278Z",
+  "updatedAt": "2026-08-25T12:13:39.482Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-08-25T04:00:00.000Z"
       },
       {
+        "time": "15:20",
+        "title": "東大など、切削中の金属を透過撮影 工作機械開発に応用",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JVFVFaHRFV2Q4SFhveHRDdDNrU0pBM0hFNTJ0WkJ0ek1wbEdXQzgxZjR5cExvSlVMMTJIZHptbklGOVlmSUxZZHU5OG41djRMWW1TWFVRMmc?oc=5",
+        "publishedAt": "2026-08-25T06:20:13.000Z"
+      },
+      {
         "time": "20:21",
         "title": "JIMTOF2026 (第33回日本国際工作機械見本市) 9月1日（火）より事前来場登録開始",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LQmx4Q01pdGZialFhWlJ1RTcyb21PUUFPWmZFVGpwbDdNQkh0SWZjODdnR09aQnVSM0gxMUN4YmtEQmExX0xxTU1vcXloQ25JUFJyVjRKRTZHWUVBTHJobDZCYl8yWmNYRGRJNXhLbk5aczRRZF9lLVl4MA?oc=5",
         "publishedAt": "2026-08-25T11:21:35.000Z"
-      },
-      {
-        "time": "16:05",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-08-25T07:05:03.000Z"
       },
       {
         "time": "14:00",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-08-25T06:53:38.000Z"
       },
       {
-        "time": "05:00",
-        "title": "伊地智写真型製作所、デジタル「京友禅」共創 伝統文様を内外に提案",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82WUNjNnVZUHRmcktYYlRUMzhYTG1LNWFRQ1paTXZyRDc0UUdkRmlXeGJZSXJoODNsVHNzdTBsNUUwRzJsN0ZRam03WWpxY0lQY3R6a1dsUHllSC02UnhKOUx3Y2hOVHppMkNCaHp1aw?oc=5",
-        "publishedAt": "2026-08-24T20:00:00.000Z"
+        "time": "12:15",
+        "title": "次世代設備保全クラウドM2X、株式会社商工組合中央金庫とビジネスマッチング契約を締結",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PcVhBSnZLcmlzMFV2c1lFTkI5QTdKdlhVYVJtNzZDaVlRWUE1SC1EN0JadDRUR19veVJhSlZBN1FjUkNlWjh6aG5zZHRhYll6TnZyOENwMWJEc21Sa2w4bnA5bWx5RkhycGs4aDhNZUtBQUNDVFl0LU16OA?oc=5",
+        "publishedAt": "2026-08-25T03:15:40.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,18 +68,18 @@
         "publishedAt": "2026-08-25T00:08:24.000Z"
       },
       {
-        "time": "07:48",
-        "title": "ウ侵略4年半 欧州の結束アピール",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592958?source=rss",
-        "publishedAt": "2026-08-24T22:48:06.000Z"
-      },
-      {
         "time": "15:03",
         "title": "ウで徴兵をめぐる暴力が増 背景は",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593012?source=rss",
         "publishedAt": "2026-08-25T06:03:18.000Z"
+      },
+      {
+        "time": "21:03",
+        "title": "南太平洋で地震 日本への津波調査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593062?source=rss",
+        "publishedAt": "2026-08-25T12:03:00.000Z"
       },
       {
         "time": "11:46",

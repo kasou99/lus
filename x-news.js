@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T11:42:03.830Z",
+  "updatedAt": "2026-08-25T12:13:40.589Z",
   "items": [
+    {
+      "time": "21:03",
+      "title": "南太平洋で地震 日本への津波調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593062?source=rss",
+      "publishedAt": "2026-08-25T12:03:00.000Z",
+      "xQuery": "南太平洋で地震 日本への津波調査"
+    },
     {
       "time": "18:46",
       "title": "蔵内氏 金銭授受疑惑は重ねて否定",
@@ -10,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "蔵内氏 金銭授受疑惑は重ねて否定"
     },
     {
-      "time": "19:02",
-      "title": "犯行10秒 2億円相当の腕時計窃盗",
+      "time": "17:18",
+      "title": "宅配業者に暴言 カスハラ被害深刻",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593050?source=rss",
-      "publishedAt": "2026-08-25T10:02:49.000Z",
-      "xQuery": "犯行10秒 2億円相当の腕時計窃盗"
+      "url": "https://news.yahoo.co.jp/pickup/6593033?source=rss",
+      "publishedAt": "2026-08-25T08:18:12.000Z",
+      "xQuery": "宅配業者に暴言 カスハラ被害深刻"
     },
     {
-      "time": "17:53",
-      "title": "米デスバレー立ち往生 観光客死亡",
+      "time": "20:19",
+      "title": "中国産白菜巡り波紋 韓国に飛び火",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593039?source=rss",
-      "publishedAt": "2026-08-25T08:53:13.000Z",
-      "xQuery": "米デスバレー立ち往生 観光客死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6593056?source=rss",
+      "publishedAt": "2026-08-25T11:19:09.000Z",
+      "xQuery": "中国産白菜巡り波紋 韓国に飛び火"
     },
     {
       "time": "20:30",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593057?source=rss",
       "publishedAt": "2026-08-25T11:30:25.000Z",
       "xQuery": "「がんこ」創業 小嶋淳司さん死去"
-    },
-    {
-      "time": "17:18",
-      "title": "宅配業者に暴言 カスハラ被害深刻",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593033?source=rss",
-      "publishedAt": "2026-08-25T08:18:12.000Z",
-      "xQuery": "宅配業者に暴言 カスハラ被害深刻"
     }
   ]
 };
