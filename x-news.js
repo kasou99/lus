@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T20:43:09.804Z",
+  "updatedAt": "2026-08-25T21:10:02.403Z",
   "items": [
+    {
+      "time": "05:50",
+      "title": "バヌアツ噴火 日本へ津波影響なし",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593080?source=rss",
+      "publishedAt": "2026-08-25T20:50:19.000Z",
+      "xQuery": "バヌアツ噴火 日本へ津波影響なし"
+    },
     {
       "time": "23:20",
       "title": "消費減税で減収農家に給付金 方針",
@@ -18,14 +26,6 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 オンタリオ湖の改称検討"
     },
     {
-      "time": "00:16",
-      "title": "崖下200メートルに車転落か 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593079?source=rss",
-      "publishedAt": "2026-08-25T15:16:01.000Z",
-      "xQuery": "崖下200メートルに車転落か 死亡"
-    },
-    {
       "time": "22:26",
       "title": "3児失う事故から20年 4児と歩む母",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3児失う事故から20年 4児と歩む母"
     },
     {
-      "time": "21:45",
-      "title": "パン39kg点々と投棄 環境相が非難",
+      "time": "00:16",
+      "title": "崖下200メートルに車転落か 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593064?source=rss",
-      "publishedAt": "2026-08-25T12:45:36.000Z",
-      "xQuery": "パン39kg点々と投棄 環境相が非難"
+      "url": "https://news.yahoo.co.jp/pickup/6593079?source=rss",
+      "publishedAt": "2026-08-25T15:16:01.000Z",
+      "xQuery": "崖下200メートルに車転落か 死亡"
     }
   ]
 };
