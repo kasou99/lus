@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T00:21:00.404Z",
+  "updatedAt": "2026-08-25T00:50:11.291Z",
   "items": [
     {
       "time": "09:01",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "経産省 事業再編促す税優遇要望へ"
     },
     {
-      "time": "07:48",
-      "title": "ウ侵略4年半 欧州の結束アピール",
+      "time": "09:08",
+      "title": "米 イランに「経済的総攻撃」発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592958?source=rss",
-      "publishedAt": "2026-08-24T22:48:06.000Z",
-      "xQuery": "ウ侵略4年半 欧州の結束アピール"
+      "url": "https://news.yahoo.co.jp/pickup/6592970?source=rss",
+      "publishedAt": "2026-08-25T00:08:24.000Z",
+      "xQuery": "米 イランに「経済的総攻撃」発表"
+    },
+    {
+      "time": "09:21",
+      "title": "路上売春 買う側処罰案に賛否の訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592971?source=rss",
+      "publishedAt": "2026-08-25T00:21:33.000Z",
+      "xQuery": "路上売春 買う側処罰案に賛否の訳"
     },
     {
       "time": "07:00",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "相模原17歳死亡 ぼう然とする友人"
     },
     {
-      "time": "07:22",
-      "title": "住宅に身元不明の3人の遺体 岐阜",
+      "time": "09:25",
+      "title": "「将門塚」で迷惑配信 刑事責任は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592954?source=rss",
-      "publishedAt": "2026-08-24T22:22:33.000Z",
-      "xQuery": "住宅に身元不明の3人の遺体 岐阜"
-    },
-    {
-      "time": "07:51",
-      "title": "警視庁警官3060人欠員 採用不調か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592957?source=rss",
-      "publishedAt": "2026-08-24T22:51:13.000Z",
-      "xQuery": "警視庁警官3060人欠員 採用不調か"
+      "url": "https://news.yahoo.co.jp/pickup/6592972?source=rss",
+      "publishedAt": "2026-08-25T00:25:48.000Z",
+      "xQuery": "「将門塚」で迷惑配信 刑事責任は"
     }
   ]
 };
