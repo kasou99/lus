@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T23:09:44.703Z",
+  "updatedAt": "2026-08-25T23:40:16.471Z",
   "items": [
     {
       "time": "06:41",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡 見張り員所定位置おらず"
     },
     {
-      "time": "00:16",
-      "title": "崖下200メートルに車転落か 死亡",
+      "time": "08:13",
+      "title": "免職と誤報 北陸放送に賠償命じる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593079?source=rss",
-      "publishedAt": "2026-08-25T15:16:01.000Z",
-      "xQuery": "崖下200メートルに車転落か 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6593090?source=rss",
+      "publishedAt": "2026-08-25T23:13:51.000Z",
+      "xQuery": "免職と誤報 北陸放送に賠償命じる"
     }
   ]
 };
