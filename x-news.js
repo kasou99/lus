@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T02:56:01.762Z",
+  "updatedAt": "2026-08-25T03:22:37.590Z",
   "items": [
+    {
+      "time": "12:12",
+      "title": "台風18号が沖縄接近 高波など警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592995?source=rss",
+      "publishedAt": "2026-08-25T03:12:28.000Z",
+      "xQuery": "台風18号が沖縄接近 高波など警戒"
+    },
     {
       "time": "09:39",
       "title": "相次ぐ熱中症患者 救急医療ひっ迫",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6592974?source=rss",
       "publishedAt": "2026-08-25T00:39:57.000Z",
       "xQuery": "相次ぐ熱中症患者 救急医療ひっ迫"
-    },
-    {
-      "time": "09:47",
-      "title": "8/22の世界海面水温 観測史上最高",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592975?source=rss",
-      "publishedAt": "2026-08-25T00:47:08.000Z",
-      "xQuery": "8/22の世界海面水温 観測史上最高"
     },
     {
       "time": "11:41",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "蔵内氏「限界だろう」辞職表明前"
     },
     {
+      "time": "12:09",
+      "title": "高2死亡 トラブル巻き込まれたか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6592992?source=rss",
+      "publishedAt": "2026-08-25T03:09:53.000Z",
+      "xQuery": "高2死亡 トラブル巻き込まれたか"
+    },
+    {
       "time": "11:29",
       "title": "買春目的の訪日客増 対応求める声",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6592984?source=rss",
       "publishedAt": "2026-08-25T02:29:49.000Z",
       "xQuery": "買春目的の訪日客増 対応求める声"
-    },
-    {
-      "time": "11:32",
-      "title": "田久保氏PCに偽造卒業証書データ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592982?source=rss",
-      "publishedAt": "2026-08-25T02:32:49.000Z",
-      "xQuery": "田久保氏PCに偽造卒業証書データ"
     }
   ]
 };
