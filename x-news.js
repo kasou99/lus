@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T11:10:13.584Z",
+  "updatedAt": "2026-08-25T11:42:03.830Z",
   "items": [
     {
-      "time": "18:07",
-      "title": "ガソリン補助金継続へ 高市氏表明",
+      "time": "18:46",
+      "title": "蔵内氏 金銭授受疑惑は重ねて否定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593042?source=rss",
-      "publishedAt": "2026-08-25T09:07:36.000Z",
-      "xQuery": "ガソリン補助金継続へ 高市氏表明"
+      "url": "https://news.yahoo.co.jp/pickup/6593048?source=rss",
+      "publishedAt": "2026-08-25T09:46:56.000Z",
+      "xQuery": "蔵内氏 金銭授受疑惑は重ねて否定"
     },
     {
       "time": "19:02",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "犯行10秒 2億円相当の腕時計窃盗"
     },
     {
-      "time": "18:48",
-      "title": "高校生死亡した祭り 2年前も事故",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593049?source=rss",
-      "publishedAt": "2026-08-25T09:48:27.000Z",
-      "xQuery": "高校生死亡した祭り 2年前も事故"
-    },
-    {
       "time": "17:53",
       "title": "米デスバレー立ち往生 観光客死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593039?source=rss",
       "publishedAt": "2026-08-25T08:53:13.000Z",
       "xQuery": "米デスバレー立ち往生 観光客死亡"
+    },
+    {
+      "time": "20:30",
+      "title": "「がんこ」創業 小嶋淳司さん死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593057?source=rss",
+      "publishedAt": "2026-08-25T11:30:25.000Z",
+      "xQuery": "「がんこ」創業 小嶋淳司さん死去"
     },
     {
       "time": "17:18",
