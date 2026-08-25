@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T12:13:40.589Z",
+  "updatedAt": "2026-08-25T12:48:35.380Z",
   "items": [
     {
       "time": "21:03",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "蔵内氏 金銭授受疑惑は重ねて否定"
     },
     {
-      "time": "17:18",
-      "title": "宅配業者に暴言 カスハラ被害深刻",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593033?source=rss",
-      "publishedAt": "2026-08-25T08:18:12.000Z",
-      "xQuery": "宅配業者に暴言 カスハラ被害深刻"
-    },
-    {
       "time": "20:19",
       "title": "中国産白菜巡り波紋 韓国に飛び火",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593057?source=rss",
       "publishedAt": "2026-08-25T11:30:25.000Z",
       "xQuery": "「がんこ」創業 小嶋淳司さん死去"
+    },
+    {
+      "time": "20:04",
+      "title": "川底に沈む男児発見 中学生ら救助",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593054?source=rss",
+      "publishedAt": "2026-08-25T11:04:18.000Z",
+      "xQuery": "川底に沈む男児発見 中学生ら救助"
     }
   ]
 };
