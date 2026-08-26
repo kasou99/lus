@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T08:19:16.877Z",
+  "updatedAt": "2026-08-26T08:48:16.826Z",
   "items": [
     {
       "time": "17:02",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "猛暑一転 天気の主役は秋雨前線に"
     },
     {
-      "time": "15:42",
-      "title": "石川に修学旅行 前年度から5割増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593140?source=rss",
-      "publishedAt": "2026-08-26T06:42:12.000Z",
-      "xQuery": "石川に修学旅行 前年度から5割増"
-    },
-    {
       "time": "16:37",
       "title": "ChatGPTで不正利用 親露世論操作",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ChatGPTで不正利用 親露世論操作"
     },
     {
-      "time": "12:16",
-      "title": "不妊治療10年 難しい「やめどき」",
+      "time": "17:35",
+      "title": "26年間不法在留疑い 70代の男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593123?source=rss",
-      "publishedAt": "2026-08-26T03:16:05.000Z",
-      "xQuery": "不妊治療10年 難しい「やめどき」"
+      "url": "https://news.yahoo.co.jp/pickup/6593159?source=rss",
+      "publishedAt": "2026-08-26T08:35:37.000Z",
+      "xQuery": "26年間不法在留疑い 70代の男逮捕"
+    },
+    {
+      "time": "17:22",
+      "title": "ばい菌扱いで不登校 東京の公立小",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593155?source=rss",
+      "publishedAt": "2026-08-26T08:22:06.000Z",
+      "xQuery": "ばい菌扱いで不登校 東京の公立小"
     }
   ]
 };
