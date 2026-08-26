@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T05:14:13.507Z",
+  "updatedAt": "2026-08-26T05:45:08.302Z",
   "items": [
     {
-      "time": "12:35",
-      "title": "沖縄・奄美 台風の影響長引く",
+      "time": "14:14",
+      "title": "博多区で40.4℃ 福岡市初の酷暑日",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593125?source=rss",
-      "publishedAt": "2026-08-26T03:35:45.000Z",
-      "xQuery": "沖縄・奄美 台風の影響長引く"
+      "url": "https://news.yahoo.co.jp/pickup/6593134?source=rss",
+      "publishedAt": "2026-08-26T05:14:42.000Z",
+      "xQuery": "博多区で40.4℃ 福岡市初の酷暑日"
     },
     {
       "time": "10:02",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "同志社理事長ら辞任 遺族コメント"
     },
     {
-      "time": "11:56",
-      "title": "子助けようとしたか 父流され死亡",
+      "time": "14:10",
+      "title": "自転車の中学生 はねられ意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593114?source=rss",
-      "publishedAt": "2026-08-26T02:56:44.000Z",
-      "xQuery": "子助けようとしたか 父流され死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6593133?source=rss",
+      "publishedAt": "2026-08-26T05:10:47.000Z",
+      "xQuery": "自転車の中学生 はねられ意識不明"
     },
     {
       "time": "13:45",
