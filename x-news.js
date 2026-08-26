@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T11:42:29.693Z",
+  "updatedAt": "2026-08-26T12:14:15.245Z",
   "items": [
     {
       "time": "19:46",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "備蓄米買い戻しへ 農水省最終調整"
     },
     {
-      "time": "17:49",
-      "title": "トランプ氏の息子殺害示唆 イラン",
+      "time": "18:04",
+      "title": "韓国 対北を巡り「蚊帳の外」懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593160?source=rss",
-      "publishedAt": "2026-08-26T08:49:46.000Z",
-      "xQuery": "トランプ氏の息子殺害示唆 イラン"
+      "url": "https://news.yahoo.co.jp/pickup/6593157?source=rss",
+      "publishedAt": "2026-08-26T09:04:14.000Z",
+      "xQuery": "韓国 対北を巡り「蚊帳の外」懸念"
     },
     {
-      "time": "19:17",
-      "title": "同乗2人死傷 運転男性に無罪判決",
+      "time": "20:35",
+      "title": "ネパール洪水 観光客380人超不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593174?source=rss",
-      "publishedAt": "2026-08-26T10:17:34.000Z",
-      "xQuery": "同乗2人死傷 運転男性に無罪判決"
+      "url": "https://news.yahoo.co.jp/pickup/6593180?source=rss",
+      "publishedAt": "2026-08-26T11:35:36.000Z",
+      "xQuery": "ネパール洪水 観光客380人超不明"
     },
     {
-      "time": "20:17",
-      "title": "サザエ採り中事故か 78歳女性死亡",
+      "time": "20:37",
+      "title": "火災で新生児14人死亡 パキスタン",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593177?source=rss",
-      "publishedAt": "2026-08-26T11:17:27.000Z",
-      "xQuery": "サザエ採り中事故か 78歳女性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6593181?source=rss",
+      "publishedAt": "2026-08-26T11:37:02.000Z",
+      "xQuery": "火災で新生児14人死亡 パキスタン"
     },
     {
       "time": "18:02",
