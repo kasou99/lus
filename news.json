@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T13:25:10.388Z",
+  "updatedAt": "2026-08-26T13:49:52.049Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "人民網日本語版",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IdkFWeTV2REhlS2gxV3ZRaGZiX1ljUE5sNEhnaUlPN0F4TUltamN3cUgzSVdraHNseUdSOVBaaFhKb19teFhHUGpReEFRaDhWZ05BN0dsVFg5VmRlVXVBNnZ2Qlhzd0lH?oc=5",
         "publishedAt": "2026-08-26T01:52:00.000Z"
+      },
+      {
+        "time": "16:36",
+        "title": "是常精工、工作機械設置型切粉圧縮機を発売",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sMTFhbTB0cVhtM25qZjBkVFpWdkppUVdVUF9HQWloTzBRQnVnVFNaVG9kbG54UnNHaDZKNXdXNDloMnlrczRZRmtITE5ZalhMMnJ1bEd0Nm5fM3E2SXN4ZGtaTTJ3NDE2Y3pERWFB?oc=5",
+        "publishedAt": "2026-08-26T07:36:17.000Z"
       },
       {
         "time": "07:15",
@@ -50,13 +57,6 @@
         "source": "47NEWS",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16UHhQTW1kUlFROEdicjZiU3BRNm90aV90cjJkUFlNUE1YYzRMWXVMRjlqMXZvdkVLU1dSdWtVU2dmOUhNS1dyYzZsQQ?oc=5",
         "publishedAt": "2026-08-25T20:00:00.000Z"
-      },
-      {
-        "time": "16:45",
-        "title": "JIMTOF2026 （第33回日本国際工作機械見本市） 「Formnext」とのコラボレーションについて",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSQ0lqaG1oaWFaa0doeTFBanBQMDFDWm5kTmFoWHAxREd5a29iT09YSmNpNlNuaWUwWlJiNVpBSDZpbjhRTkQ2UFNUa3JKMWRSR2pjblJjdzZoVjJiRW90b212MGdJM0VJMmZ0bVhmTVZrMUk?oc=5",
-        "publishedAt": "2026-08-26T07:45:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,18 +82,18 @@
         "publishedAt": "2026-08-26T08:49:46.000Z"
       },
       {
-        "time": "11:33",
-        "title": "米CIA長官が訪露 ウ情勢を協議か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593115?source=rss",
-        "publishedAt": "2026-08-26T02:33:43.000Z"
-      },
-      {
         "time": "20:35",
         "title": "ネパール洪水 観光客380人超不明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593180?source=rss",
         "publishedAt": "2026-08-26T11:35:36.000Z"
+      },
+      {
+        "time": "22:42",
+        "title": "ヘンリー王子一家が帰国 英報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593191?source=rss",
+        "publishedAt": "2026-08-26T13:42:37.000Z"
       },
       {
         "time": "20:37",

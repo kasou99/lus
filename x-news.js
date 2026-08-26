@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T13:25:10.931Z",
+  "updatedAt": "2026-08-26T13:49:52.831Z",
   "items": [
     {
       "time": "21:25",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ICC制裁 日本を巡り前所長が指摘"
     },
     {
-      "time": "20:35",
-      "title": "ネパール洪水 観光客380人超不明",
+      "time": "22:23",
+      "title": "生活道路の法定速度 9/1から30km",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593180?source=rss",
-      "publishedAt": "2026-08-26T11:35:36.000Z",
-      "xQuery": "ネパール洪水 観光客380人超不明"
+      "url": "https://news.yahoo.co.jp/pickup/6593189?source=rss",
+      "publishedAt": "2026-08-26T13:23:03.000Z",
+      "xQuery": "生活道路の法定速度 9/1から30km"
     },
     {
       "time": "20:35",
