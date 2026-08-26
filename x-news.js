@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T04:47:38.943Z",
+  "updatedAt": "2026-08-26T05:14:13.507Z",
   "items": [
     {
       "time": "12:35",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "田久保氏巡る刑事裁判 焦点を解説"
     },
     {
-      "time": "12:00",
-      "title": "4人死亡 事故直前まで線路上に7人",
+      "time": "13:36",
+      "title": "同志社理事長ら辞任 遺族コメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593119?source=rss",
-      "publishedAt": "2026-08-26T03:00:19.000Z",
-      "xQuery": "4人死亡 事故直前まで線路上に7人"
+      "url": "https://news.yahoo.co.jp/pickup/6593129?source=rss",
+      "publishedAt": "2026-08-26T04:36:55.000Z",
+      "xQuery": "同志社理事長ら辞任 遺族コメント"
     },
     {
       "time": "11:56",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "子助けようとしたか 父流され死亡"
     },
     {
-      "time": "13:29",
-      "title": "路上に「手りゅう弾」玩具と判明",
+      "time": "13:45",
+      "title": "世界12都市エアコン使用 東京最長",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593128?source=rss",
-      "publishedAt": "2026-08-26T04:29:40.000Z",
-      "xQuery": "路上に「手りゅう弾」玩具と判明"
+      "url": "https://news.yahoo.co.jp/pickup/6593131?source=rss",
+      "publishedAt": "2026-08-26T04:45:08.000Z",
+      "xQuery": "世界12都市エアコン使用 東京最長"
     }
   ]
 };
