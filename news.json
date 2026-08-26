@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T05:45:07.564Z",
+  "updatedAt": "2026-08-26T06:16:14.091Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "人民網日本語版",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IdkFWeTV2REhlS2gxV3ZRaGZiX1ljUE5sNEhnaUlPN0F4TUltamN3cUgzSVdraHNseUdSOVBaaFhKb19teFhHUGpReEFRaDhWZ05BN0dsVFg5VmRlVXVBNnZ2Qlhzd0lH?oc=5",
         "publishedAt": "2026-08-26T01:52:00.000Z"
-      },
-      {
-        "time": "09:00",
-        "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBva0lXdzZkSV9oQ0dfYW43bEVwVXB5QVJrSllwaG5BUGdlbDNMUkNtREl4T1RGWGY5QURfb3poRUhMWVNBZ3VtT0lQWFRYVWlZNGZoQzltY3Frb3ZnaV9RX1RCRm1XVE94UEE?oc=5",
-        "publishedAt": "2026-08-26T00:00:02.000Z"
       },
       {
         "time": "07:15",
@@ -38,6 +31,13 @@
         "publishedAt": "2026-08-25T20:00:00.000Z"
       },
       {
+        "time": "11:15",
+        "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMS0dZQXh0TGVGQmVlU3hTWVU0dmlZeC10MXprRGNqQUR1WEhpTU5LYl9MaEVXODA4aWNYUmxnTjg5M0JXQkJSYXd5MjcwTHR4Wm1kWUdVVFZDRDBYbGV3OWdMZXhjVldfUGdNcm5QYXhUakk?oc=5",
+        "publishedAt": "2026-08-26T02:15:26.000Z"
+      },
+      {
         "time": "16:35",
         "title": "ジェイテクト、新型工作機械2種を発売 表面処理や大型部品に対応",
         "source": "日本経済新聞",
@@ -45,11 +45,11 @@
         "publishedAt": "2026-08-25T07:35:08.000Z"
       },
       {
-        "time": "20:21",
-        "title": "JIMTOF2026 (第33回日本国際工作機械見本市) 9月1日（火）より事前来場登録開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jbUpDc1ROMlNkVW5PcFFVVUZ5ZWNHQXNXdGdqNXczeVFaQTNKTEE5OE5aWWNoVEl4OTNrN19FeDk4S045bHV2Rm9QSndkeWV6a01GMjZsSnJqZUsxY0lLSHBCQWFlUHNISkpiVUdoNFRhSzF3c0ptZ1FB?oc=5",
-        "publishedAt": "2026-08-25T11:21:35.000Z"
+        "time": "15:20",
+        "title": "東大など、切削中の金属を透過撮影 工作機械開発に応用",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JVFVFaHRFV2Q4SFhveHRDdDNrU0pBM0hFNTJ0WkJ0ek1wbEdXQzgxZjR5cExvSlVMMTJIZHptbklGOVlmSUxZZHU5OG41djRMWW1TWFVRMmc?oc=5",
+        "publishedAt": "2026-08-25T06:20:13.000Z"
       },
       {
         "time": "16:05",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T05:45:08.302Z",
+  "updatedAt": "2026-08-26T06:16:14.698Z",
   "items": [
     {
       "time": "14:14",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593134?source=rss",
       "publishedAt": "2026-08-26T05:14:42.000Z",
       "xQuery": "博多区で40.4℃ 福岡市初の酷暑日"
-    },
-    {
-      "time": "10:02",
-      "title": "田久保氏巡る刑事裁判 焦点を解説",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593100?source=rss",
-      "publishedAt": "2026-08-26T01:02:03.000Z",
-      "xQuery": "田久保氏巡る刑事裁判 焦点を解説"
     },
     {
       "time": "13:36",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593133?source=rss",
       "publishedAt": "2026-08-26T05:10:47.000Z",
       "xQuery": "自転車の中学生 はねられ意識不明"
+    },
+    {
+      "time": "14:54",
+      "title": "富士山で遭難激増 シャリバテとは",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593135?source=rss",
+      "publishedAt": "2026-08-26T05:54:10.000Z",
+      "xQuery": "富士山で遭難激増 シャリバテとは"
     },
     {
       "time": "13:45",
