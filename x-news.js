@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T13:49:52.831Z",
+  "updatedAt": "2026-08-26T14:18:52.783Z",
   "items": [
     {
       "time": "21:25",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ICC制裁 日本を巡り前所長が指摘"
     },
     {
+      "time": "21:12",
+      "title": "イラン戦争 米軍基地に重い課題",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593165?source=rss",
+      "publishedAt": "2026-08-26T12:12:50.000Z",
+      "xQuery": "イラン戦争 米軍基地に重い課題"
+    },
+    {
       "time": "22:23",
       "title": "生活道路の法定速度 9/1から30km",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593189?source=rss",
       "publishedAt": "2026-08-26T13:23:03.000Z",
       "xQuery": "生活道路の法定速度 9/1から30km"
-    },
-    {
-      "time": "20:35",
-      "title": "高知・物部川 アユの大量死相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593178?source=rss",
-      "publishedAt": "2026-08-26T11:35:30.000Z",
-      "xQuery": "高知・物部川 アユの大量死相次ぐ"
     },
     {
       "time": "15:15",

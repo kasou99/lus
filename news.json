@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T13:49:52.049Z",
+  "updatedAt": "2026-08-26T14:18:51.978Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-08-26T01:52:00.000Z"
       },
       {
-        "time": "16:36",
-        "title": "是常精工、工作機械設置型切粉圧縮機を発売",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sMTFhbTB0cVhtM25qZjBkVFpWdkppUVdVUF9HQWloTzBRQnVnVFNaVG9kbG54UnNHaDZKNXdXNDloMnlrczRZRmtITE5ZalhMMnJ1bEd0Nm5fM3E2SXN4ZGtaTTJ3NDE2Y3pERWFB?oc=5",
-        "publishedAt": "2026-08-26T07:36:17.000Z"
-      },
-      {
         "time": "07:15",
         "title": "ファナックが新たな取り組み、複雑形状部品の5軸加工の生産性向上支援：工作機械",
         "source": "MONOist",
@@ -50,6 +43,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNVFwRFV4aXdfTjA2RmRBamI1NW5QNmNIVHNPdzZqM0VKUlktckM3cjl4T21rc3I2YWNQVTdHZWdOTjJhX0FRUllrM3pKTjliLTF1NXFsb3MxY2tSMDR4UTFEY1YwMUlaci1udFAzTzVKZThLVk5WNG5UTGx1LWR5cFdEMVdweFQxdTlqY3JR?oc=5",
         "publishedAt": "2026-08-25T20:15:25.000Z"
+      },
+      {
+        "time": "14:00",
+        "title": "JIMTOF2026 （第33回日本国際工作機械見本市） 「Formnext」とのコラボレーションについて",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55dk9lU0R4anhXQlVmZm9HVU0tOFB1b0lxaERyYkIzZXRsQlo0cXBkSnVyZGhSVFVZUEZPUW1US3RveTRuSmZKbnJIN0hlYlFoNXQ2TkprN01GRldPT1Fqcy1GRU9OajFaWV9janRwVGJYdw?oc=5",
+        "publishedAt": "2026-08-26T05:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-08-26T08:49:38.000Z"
       },
       {
+        "time": "22:49",
+        "title": "親子3人死傷事件 父親を鑑定留置",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593192?source=rss",
+        "publishedAt": "2026-08-26T13:49:32.000Z"
+      },
+      {
         "time": "20:17",
         "title": "サザエ採り中事故か 78歳女性死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593177?source=rss",
         "publishedAt": "2026-08-26T11:17:27.000Z"
-      },
-      {
-        "time": "18:02",
-        "title": "左右の足間違え手術 患者側と和解",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593163?source=rss",
-        "publishedAt": "2026-08-26T09:02:47.000Z"
       }
     ],
     "subsidyHeadlines": [
