@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T03:50:34.616Z",
+  "updatedAt": "2026-08-26T04:17:57.474Z",
   "items": [
     {
       "time": "12:35",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593125?source=rss",
       "publishedAt": "2026-08-26T03:35:45.000Z",
       "xQuery": "沖縄・奄美 台風の影響長引く"
+    },
+    {
+      "time": "10:02",
+      "title": "田久保氏巡る刑事裁判 焦点を解説",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593100?source=rss",
+      "publishedAt": "2026-08-26T01:02:03.000Z",
+      "xQuery": "田久保氏巡る刑事裁判 焦点を解説"
     },
     {
       "time": "12:00",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593114?source=rss",
       "publishedAt": "2026-08-26T02:56:44.000Z",
       "xQuery": "子助けようとしたか 父流され死亡"
-    },
-    {
-      "time": "11:28",
-      "title": "川に流された小2 救った高3の直感",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593112?source=rss",
-      "publishedAt": "2026-08-26T02:28:42.000Z",
-      "xQuery": "川に流された小2 救った高3の直感"
     },
     {
       "time": "11:44",
