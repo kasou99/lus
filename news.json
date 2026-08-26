@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T00:50:22.667Z",
+  "updatedAt": "2026-08-26T01:33:48.041Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-08-25T22:15:00.000Z"
       },
       {
-        "time": "05:13",
-        "title": "ジェイテクト 工作機械２機種開発 ４年ぶり新製品 10月展示会出品 - chukei-news.co.jp",
-        "source": "chukei-news.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLSFg0VDAtd2RPdkVaSy1waHVmU0JFcVFLNEZsVFRNNFNtUGMzNTg3T3VlaTRsUXRKd0xuYXNJY1dGYmt1UEJjY2tZMm9xR1czRlliM2hTd1UyQkt2SXRpOEZaZ3dQemttQmdnbURkWlRVOVE?oc=5",
-        "publishedAt": "2026-08-25T20:13:49.000Z"
-      },
-      {
         "time": "09:00",
         "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBva0lXdzZkSV9oQ0dfYW43bEVwVXB5QVJrSllwaG5BUGdlbDNMUkNtREl4T1RGWGY5QURfb3poRUhMWVNBZ3VtT0lQWFRYVWlZNGZoQzltY3Frb3ZnaV9RX1RCRm1XVE94UEE?oc=5",
         "publishedAt": "2026-08-26T00:00:02.000Z"
+      },
+      {
+        "time": "05:13",
+        "title": "ジェイテクト 工作機械２機種開発 ４年ぶり新製品 10月展示会出品 - chukei-news.co.jp",
+        "source": "chukei-news.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLSFg0VDAtd2RPdkVaSy1waHVmU0JFcVFLNEZsVFRNNFNtUGMzNTg3T3VlaTRsUXRKd0xuYXNJY1dGYmt1UEJjY2tZMm9xR1czRlliM2hTd1UyQkt2SXRpOEZaZ3dQemttQmdnbURkWlRVOVE?oc=5",
+        "publishedAt": "2026-08-25T20:13:49.000Z"
       },
       {
         "time": "05:00",
@@ -112,13 +112,6 @@
         "publishedAt": "2026-08-25T14:20:57.000Z"
       },
       {
-        "time": "13:04",
-        "title": "ハビタ 当初の報告巡り遺族に謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593000?source=rss",
-        "publishedAt": "2026-08-25T04:04:01.000Z"
-      },
-      {
         "time": "17:18",
         "title": "宅配業者に暴言 カスハラ被害深刻",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593096?source=rss",
         "publishedAt": "2026-08-26T00:05:42.000Z"
+      },
+      {
+        "time": "10:26",
+        "title": "「ゴーストレストラン」増加の訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593104?source=rss",
+        "publishedAt": "2026-08-26T01:26:13.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,18 +170,18 @@
         "publishedAt": "2026-08-25T13:26:09.000Z"
       },
       {
+        "time": "10:02",
+        "title": "田久保氏巡る刑事裁判 焦点を解説",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593100?source=rss",
+        "publishedAt": "2026-08-26T01:02:03.000Z"
+      },
+      {
         "time": "00:16",
         "title": "崖下200メートルに車転落か 死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593079?source=rss",
         "publishedAt": "2026-08-25T15:16:01.000Z"
-      },
-      {
-        "time": "11:32",
-        "title": "田久保氏PCに偽造卒業証書データ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592982?source=rss",
-        "publishedAt": "2026-08-25T02:32:49.000Z"
       },
       {
         "time": "08:13",

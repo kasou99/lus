@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T00:50:23.575Z",
+  "updatedAt": "2026-08-26T01:33:48.695Z",
   "items": [
     {
       "time": "09:37",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡 見張り員所定位置おらず"
     },
     {
-      "time": "08:13",
-      "title": "免職と誤報 北陸放送に賠償命じる",
+      "time": "10:21",
+      "title": "「強盗」はウソ 窃盗疑いで女逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593090?source=rss",
-      "publishedAt": "2026-08-25T23:13:51.000Z",
-      "xQuery": "免職と誤報 北陸放送に賠償命じる"
+      "url": "https://news.yahoo.co.jp/pickup/6593103?source=rss",
+      "publishedAt": "2026-08-26T01:21:13.000Z",
+      "xQuery": "「強盗」はウソ 窃盗疑いで女逮捕"
     },
     {
       "time": "09:05",
