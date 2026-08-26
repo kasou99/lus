@@ -1,71 +1,78 @@
 {
-  "updatedAt": "2026-08-26T08:48:15.829Z",
+  "updatedAt": "2026-08-26T09:19:20.302Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "11:18",
-        "title": "株式会社サン機工 様 立形マシニングセンタ VM53RⅡ | 工作機械 | ニデック株式会社",
-        "source": "NIDEC CORPORATION",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPXzlNcXlfYW04VnZoRHNTOEZJZGdzMXRRNnpjQjgtU1hFX25Rb01qNzctTERTWVk3RG1MendkVk9DUFQtNXpDMlNmdGcxaXpfVmpfRWwtLXp2SnFMNDUtemcyMHRfZkZrQ1JkcHUtQ25tTG9DNjd3cXZuU1N3VXBrZlZRRFVhSExGRy1VRTJBbjkyY05BVlE?oc=5",
-        "publishedAt": "2026-08-26T02:18:58.000Z"
+        "time": "12:16",
+        "title": "ホンダ 米国で新工場建設を検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593124?source=rss",
+        "publishedAt": "2026-08-26T03:16:45.000Z"
       },
       {
-        "time": "10:52",
-        "title": "日本は「工作機械カード」で中国を抑え込めるのか？",
-        "source": "人民網日本語版",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IdkFWeTV2REhlS2gxV3ZRaGZiX1ljUE5sNEhnaUlPN0F4TUltamN3cUgzSVdraHNseUdSOVBaaFhKb19teFhHUGpReEFRaDhWZ05BN0dsVFg5VmRlVXVBNnZ2Qlhzd0lH?oc=5",
-        "publishedAt": "2026-08-26T01:52:00.000Z"
+        "time": "17:18",
+        "title": "宅配業者に暴言 カスハラ被害深刻",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593033?source=rss",
+        "publishedAt": "2026-08-25T08:18:12.000Z"
       },
       {
-        "time": "05:13",
-        "title": "ジェイテクト 工作機械２機種開発 ４年ぶり新製品 10月展示会出品 - chukei-news.co.jp",
-        "source": "chukei-news.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLSFg0VDAtd2RPdkVaSy1waHVmU0JFcVFLNEZsVFRNNFNtUGMzNTg3T3VlaTRsUXRKd0xuYXNJY1dGYmt1UEJjY2tZMm9xR1czRlliM2hTd1UyQkt2SXRpOEZaZ3dQemttQmdnbURkWlRVOVE?oc=5",
-        "publishedAt": "2026-08-25T20:13:49.000Z"
+        "time": "20:30",
+        "title": "「がんこ」創業 小嶋淳司さん死去",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593057?source=rss",
+        "publishedAt": "2026-08-25T11:30:25.000Z"
       },
       {
-        "time": "07:15",
-        "title": "ファナックが新たな取り組み、複雑形状部品の5軸加工の生産性向上支援：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGdE0tSm5jbEdfMjNGNTdTLVVTNHFHdXpfbWhKMndhWXoyVGJtXzBPcU10THpFRUJtUGFHLVg2eVdITWNTUV9vOTBIT29NeHk2NjQwUzEwWXU0RW9XNmh1aTItTUZqamttQWhQMW85OA?oc=5",
-        "publishedAt": "2026-08-25T22:15:00.000Z"
+        "time": "13:29",
+        "title": "セブンとヤマト セルフ発送機発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593127?source=rss",
+        "publishedAt": "2026-08-26T04:29:37.000Z"
       },
       {
-        "time": "16:45",
-        "title": "JIMTOF2026 （第33回日本国際工作機械見本市） 「Formnext」とのコラボレーションについて",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSQ0lqaG1oaWFaa0doeTFBanBQMDFDWm5kTmFoWHAxREd5a29iT09YSmNpNlNuaWUwWlJiNVpBSDZpbjhRTkQ2UFNUa3JKMWRSR2pjblJjdzZoVjJiRW90b212MGdJM0VJMmZ0bVhmTVZrMUk?oc=5",
-        "publishedAt": "2026-08-26T07:45:00.000Z"
+        "time": "15:15",
+        "title": "ファミマ 服装や髪色に新ルール",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593139?source=rss",
+        "publishedAt": "2026-08-26T06:15:39.000Z"
       },
       {
-        "time": "10:45",
-        "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RX3RPeVJxeUdwMWd4TEJfSmsxOHNFeGFFMnExTmdNNlZjREpqYlRrMzBHeU92MmVMMVpUQ1YyQmpQZTI2RFlPWGdiWUNZamdwRDhjdVgxVFBhXzB0Z0ZLRW80ekM4ZGZlVnE3LVJpemsyZw?oc=5",
-        "publishedAt": "2026-08-26T01:45:51.000Z"
+        "time": "09:05",
+        "title": "ジムニー対抗車 他社が作らない訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593096?source=rss",
+        "publishedAt": "2026-08-26T00:05:42.000Z"
       },
       {
-        "time": "05:00",
-        "title": "ジェイテクト 工作機械２機種開発 ４年ぶり新製品 10月展示会出品",
-        "source": "47NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16UHhQTW1kUlFROEdicjZiU3BRNm90aV90cjJkUFlNUE1YYzRMWXVMRjlqMXZvdkVLU1dSdWtVU2dmOUhNS1dyYzZsQQ?oc=5",
-        "publishedAt": "2026-08-25T20:00:00.000Z"
+        "time": "13:05",
+        "title": "低価格から変化 ベローチェの戦略",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593126?source=rss",
+        "publishedAt": "2026-08-26T04:05:59.000Z"
       },
       {
-        "time": "05:10",
-        "title": "JIMTOF2026 (第33回日本国際工作機械見本市) 9月1日（火）より事前来場登録開始",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uT0ZsUENoMkRLam5ISlhkRHpsakZmbEI0UGgtYlA4SGIwU2cyWWJjeW9tUm9qUi1fVUc1dzd0a0R3WGt6WUJHMjNjbVNJaHp6Z2lFTFNHdF80bmFnZ19keVRkbk10LUFMbm0xVFRZWWVydw?oc=5",
-        "publishedAt": "2026-08-25T20:10:00.000Z"
+        "time": "10:26",
+        "title": "「ゴーストレストラン」増加の訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593104?source=rss",
+        "publishedAt": "2026-08-26T01:26:13.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "17:02",
-        "title": "中継 ICC赤根所長が制裁巡り会見",
+        "time": "18:08",
+        "title": "米制裁「ICCは負けない」と所長",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593152?source=rss",
-        "publishedAt": "2026-08-26T08:02:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593164?source=rss",
+        "publishedAt": "2026-08-26T09:08:24.000Z"
+      },
+      {
+        "time": "17:49",
+        "title": "トランプ氏の息子殺害示唆 イラン",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593160?source=rss",
+        "publishedAt": "2026-08-26T08:49:46.000Z"
       },
       {
         "time": "11:33",
@@ -75,6 +82,13 @@
         "publishedAt": "2026-08-26T02:33:43.000Z"
       },
       {
+        "time": "18:04",
+        "title": "韓国 対北を巡り「蚊帳の外」懸念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593157?source=rss",
+        "publishedAt": "2026-08-26T09:04:14.000Z"
+      },
+      {
         "time": "05:50",
         "title": "バヌアツ噴火 日本へ津波影響なし",
         "source": "Yahoo!ニュース",
@@ -82,25 +96,11 @@
         "publishedAt": "2026-08-25T20:50:19.000Z"
       },
       {
-        "time": "22:23",
-        "title": "記録的通貨安 物価高苦しむイラン",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593067?source=rss",
-        "publishedAt": "2026-08-25T13:23:44.000Z"
-      },
-      {
         "time": "23:29",
         "title": "米大統領 オンタリオ湖の改称検討",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593077?source=rss",
         "publishedAt": "2026-08-25T14:29:13.000Z"
-      },
-      {
-        "time": "17:53",
-        "title": "米デスバレー立ち往生 観光客死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593039?source=rss",
-        "publishedAt": "2026-08-25T08:53:13.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-08-26T03:35:45.000Z"
       },
       {
+        "time": "17:49",
+        "title": "高2死亡事件 死因は「脳挫傷」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593161?source=rss",
+        "publishedAt": "2026-08-26T08:49:38.000Z"
+      },
+      {
         "time": "17:35",
         "title": "26年間不法在留疑い 70代の男逮捕",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-08-26T04:36:55.000Z"
       },
       {
-        "time": "17:22",
-        "title": "ばい菌扱いで不登校 東京の公立小",
+        "time": "18:02",
+        "title": "左右の足間違え手術 患者側と和解",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593155?source=rss",
-        "publishedAt": "2026-08-26T08:22:06.000Z"
-      },
-      {
-        "time": "11:56",
-        "title": "子助けようとしたか 父流され死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593114?source=rss",
-        "publishedAt": "2026-08-26T02:56:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593163?source=rss",
+        "publishedAt": "2026-08-26T09:02:47.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -215,20 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
-        "time": "16:44",
-        "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
-        "publishedAt": "2026-08-21T07:44:56.000Z"
       }
     ]
   }

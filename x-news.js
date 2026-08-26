@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T08:48:16.826Z",
+  "updatedAt": "2026-08-26T09:19:30.149Z",
   "items": [
     {
-      "time": "17:02",
-      "title": "中継 ICC赤根所長が制裁巡り会見",
+      "time": "18:08",
+      "title": "米制裁「ICCは負けない」と所長",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593152?source=rss",
-      "publishedAt": "2026-08-26T08:02:33.000Z",
-      "xQuery": "中継 ICC赤根所長が制裁巡り会見"
+      "url": "https://news.yahoo.co.jp/pickup/6593164?source=rss",
+      "publishedAt": "2026-08-26T09:08:24.000Z",
+      "xQuery": "米制裁「ICCは負けない」と所長"
     },
     {
       "time": "16:44",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "猛暑一転 天気の主役は秋雨前線に"
     },
     {
-      "time": "16:37",
-      "title": "ChatGPTで不正利用 親露世論操作",
+      "time": "17:49",
+      "title": "トランプ氏の息子殺害示唆 イラン",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593149?source=rss",
-      "publishedAt": "2026-08-26T07:37:51.000Z",
-      "xQuery": "ChatGPTで不正利用 親露世論操作"
+      "url": "https://news.yahoo.co.jp/pickup/6593160?source=rss",
+      "publishedAt": "2026-08-26T08:49:46.000Z",
+      "xQuery": "トランプ氏の息子殺害示唆 イラン"
     },
     {
-      "time": "17:35",
-      "title": "26年間不法在留疑い 70代の男逮捕",
+      "time": "17:49",
+      "title": "高2死亡事件 死因は「脳挫傷」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593159?source=rss",
-      "publishedAt": "2026-08-26T08:35:37.000Z",
-      "xQuery": "26年間不法在留疑い 70代の男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6593161?source=rss",
+      "publishedAt": "2026-08-26T08:49:38.000Z",
+      "xQuery": "高2死亡事件 死因は「脳挫傷」"
     },
     {
-      "time": "17:22",
-      "title": "ばい菌扱いで不登校 東京の公立小",
+      "time": "18:02",
+      "title": "左右の足間違え手術 患者側と和解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593155?source=rss",
-      "publishedAt": "2026-08-26T08:22:06.000Z",
-      "xQuery": "ばい菌扱いで不登校 東京の公立小"
+      "url": "https://news.yahoo.co.jp/pickup/6593163?source=rss",
+      "publishedAt": "2026-08-26T09:02:47.000Z",
+      "xQuery": "左右の足間違え手術 患者側と和解"
     }
   ]
 };
