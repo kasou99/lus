@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T11:11:41.213Z",
+  "updatedAt": "2026-08-26T11:42:29.693Z",
   "items": [
     {
       "time": "19:46",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "備蓄米買い戻しへ 農水省最終調整"
     },
     {
-      "time": "17:42",
-      "title": "ひかりんちょ 夏休み明けに不登校",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593162?source=rss",
-      "publishedAt": "2026-08-26T08:42:57.000Z",
-      "xQuery": "ひかりんちょ 夏休み明けに不登校"
-    },
-    {
       "time": "17:49",
       "title": "トランプ氏の息子殺害示唆 イラン",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏の息子殺害示唆 イラン"
     },
     {
-      "time": "19:48",
-      "title": "時計窃盗 電動ボード直前借りたか",
+      "time": "19:17",
+      "title": "同乗2人死傷 運転男性に無罪判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593176?source=rss",
-      "publishedAt": "2026-08-26T10:48:19.000Z",
-      "xQuery": "時計窃盗 電動ボード直前借りたか"
+      "url": "https://news.yahoo.co.jp/pickup/6593174?source=rss",
+      "publishedAt": "2026-08-26T10:17:34.000Z",
+      "xQuery": "同乗2人死傷 運転男性に無罪判決"
+    },
+    {
+      "time": "20:17",
+      "title": "サザエ採り中事故か 78歳女性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593177?source=rss",
+      "publishedAt": "2026-08-26T11:17:27.000Z",
+      "xQuery": "サザエ採り中事故か 78歳女性死亡"
     },
     {
       "time": "18:02",
