@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T12:14:15.245Z",
+  "updatedAt": "2026-08-26T12:49:08.301Z",
   "items": [
+    {
+      "time": "21:25",
+      "title": "浜岡原発巡り不適切手続きか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593184?source=rss",
+      "publishedAt": "2026-08-26T12:25:05.000Z",
+      "xQuery": "浜岡原発巡り不適切手続きか"
+    },
+    {
+      "time": "21:00",
+      "title": "ICC制裁 日本を巡り前所長が指摘",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593182?source=rss",
+      "publishedAt": "2026-08-26T12:00:22.000Z",
+      "xQuery": "ICC制裁 日本を巡り前所長が指摘"
+    },
     {
       "time": "19:46",
       "title": "備蓄米買い戻しへ 農水省最終調整",
@@ -8,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593175?source=rss",
       "publishedAt": "2026-08-26T10:46:43.000Z",
       "xQuery": "備蓄米買い戻しへ 農水省最終調整"
-    },
-    {
-      "time": "18:04",
-      "title": "韓国 対北を巡り「蚊帳の外」懸念",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593157?source=rss",
-      "publishedAt": "2026-08-26T09:04:14.000Z",
-      "xQuery": "韓国 対北を巡り「蚊帳の外」懸念"
     },
     {
       "time": "20:35",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール洪水 観光客380人超不明"
     },
     {
-      "time": "20:37",
-      "title": "火災で新生児14人死亡 パキスタン",
+      "time": "20:35",
+      "title": "高知・物部川 アユの大量死相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593181?source=rss",
-      "publishedAt": "2026-08-26T11:37:02.000Z",
-      "xQuery": "火災で新生児14人死亡 パキスタン"
-    },
-    {
-      "time": "18:02",
-      "title": "左右の足間違え手術 患者側と和解",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593163?source=rss",
-      "publishedAt": "2026-08-26T09:02:47.000Z",
-      "xQuery": "左右の足間違え手術 患者側と和解"
+      "url": "https://news.yahoo.co.jp/pickup/6593178?source=rss",
+      "publishedAt": "2026-08-26T11:35:30.000Z",
+      "xQuery": "高知・物部川 アユの大量死相次ぐ"
     }
   ]
 };
