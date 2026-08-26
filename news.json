@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T06:48:41.997Z",
+  "updatedAt": "2026-08-26T07:21:38.124Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "人民網日本語版",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IdkFWeTV2REhlS2gxV3ZRaGZiX1ljUE5sNEhnaUlPN0F4TUltamN3cUgzSVdraHNseUdSOVBaaFhKb19teFhHUGpReEFRaDhWZ05BN0dsVFg5VmRlVXVBNnZ2Qlhzd0lH?oc=5",
         "publishedAt": "2026-08-26T01:52:00.000Z"
+      },
+      {
+        "time": "14:00",
+        "title": "JIMTOF2026 （第33回日本国際工作機械見本市） 「Formnext」とのコラボレーションについて",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56UExJLWRybWUzVzJqRGk0MUhuM0ZaQkRZeURKbWhSTmxIRkotd290WWtza1pMa1VNd1FiSVZlcGtNeFlJclpIQ1NpXzA4UGtMV0NDNkNXY25VOE85R3lWZzRCcjNSNF90RGc?oc=5",
+        "publishedAt": "2026-08-26T05:00:01.000Z"
       },
       {
         "time": "07:15",
@@ -50,13 +57,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IYzNFMlo2R0RtdW5jLUJFeWI2SWo1Zks5Z0RGekxHYzFURGlVTmhmMk1vNUZRdExFYVh4TUxhMmtKeDRKaWh0WVhYNTZlbk9Qb0l6SERvZ180U2RaZ1JVVURybmd0ZXBRa3p1dA?oc=5",
         "publishedAt": "2026-08-25T07:35:08.000Z"
-      },
-      {
-        "time": "16:05",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-08-25T07:05:03.000Z"
       }
     ],
     "worldHeadlines": [

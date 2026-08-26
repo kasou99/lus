@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T06:48:42.768Z",
+  "updatedAt": "2026-08-26T07:21:38.895Z",
   "items": [
     {
       "time": "14:14",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "博多区で40.4℃ 福岡市初の酷暑日"
     },
     {
-      "time": "13:36",
-      "title": "同志社理事長ら辞任 遺族コメント",
+      "time": "15:42",
+      "title": "石川に修学旅行 前年度から5割増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593129?source=rss",
-      "publishedAt": "2026-08-26T04:36:55.000Z",
-      "xQuery": "同志社理事長ら辞任 遺族コメント"
-    },
-    {
-      "time": "14:10",
-      "title": "自転車の中学生 はねられ意識不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593133?source=rss",
-      "publishedAt": "2026-08-26T05:10:47.000Z",
-      "xQuery": "自転車の中学生 はねられ意識不明"
+      "url": "https://news.yahoo.co.jp/pickup/6593140?source=rss",
+      "publishedAt": "2026-08-26T06:42:12.000Z",
+      "xQuery": "石川に修学旅行 前年度から5割増"
     },
     {
       "time": "14:54",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "富士山で遭難激増 シャリバテとは"
     },
     {
-      "time": "13:45",
-      "title": "世界12都市エアコン使用 東京最長",
+      "time": "15:01",
+      "title": "女子ばかり行列 学校トイレ巡る声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593131?source=rss",
-      "publishedAt": "2026-08-26T04:45:08.000Z",
-      "xQuery": "世界12都市エアコン使用 東京最長"
+      "url": "https://news.yahoo.co.jp/pickup/6593138?source=rss",
+      "publishedAt": "2026-08-26T06:01:51.000Z",
+      "xQuery": "女子ばかり行列 学校トイレ巡る声"
+    },
+    {
+      "time": "13:05",
+      "title": "低価格から変化 ベローチェの戦略",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593126?source=rss",
+      "publishedAt": "2026-08-26T04:05:59.000Z",
+      "xQuery": "低価格から変化 ベローチェの戦略"
     }
   ]
 };
