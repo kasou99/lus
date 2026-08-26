@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T20:54:53.006Z",
+  "updatedAt": "2026-08-26T22:03:19.220Z",
   "items": [
     {
-      "time": "21:00",
-      "title": "ICC制裁 日本を巡り前所長が指摘",
+      "time": "06:39",
+      "title": "石川県・富山県に大雨特別警報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593182?source=rss",
-      "publishedAt": "2026-08-26T12:00:22.000Z",
-      "xQuery": "ICC制裁 日本を巡り前所長が指摘"
+      "url": "https://news.yahoo.co.jp/pickup/6593202?source=rss",
+      "publishedAt": "2026-08-26T21:39:31.000Z",
+      "xQuery": "石川県・富山県に大雨特別警報"
     },
     {
-      "time": "23:49",
-      "title": "ネパール洪水 観光客約380人不明",
+      "time": "06:42",
+      "title": "安全確保を 大雨のときのNG行動",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593197?source=rss",
-      "publishedAt": "2026-08-26T14:49:45.000Z",
-      "xQuery": "ネパール洪水 観光客約380人不明"
+      "url": "https://news.yahoo.co.jp/pickup/6591618?source=rss",
+      "publishedAt": "2026-08-26T21:42:17.000Z",
+      "xQuery": "安全確保を 大雨のときのNG行動"
     },
     {
-      "time": "23:36",
-      "title": "学校版カスハラ指針 国が策定へ",
+      "time": "06:12",
+      "title": "ネパール洪水日本人5人連絡取れず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593196?source=rss",
-      "publishedAt": "2026-08-26T14:36:02.000Z",
-      "xQuery": "学校版カスハラ指針 国が策定へ"
+      "url": "https://news.yahoo.co.jp/pickup/6593198?source=rss",
+      "publishedAt": "2026-08-26T21:12:53.000Z",
+      "xQuery": "ネパール洪水日本人5人連絡取れず"
     },
     {
       "time": "22:42",
