@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T07:21:38.895Z",
+  "updatedAt": "2026-08-26T07:48:18.454Z",
   "items": [
     {
       "time": "14:14",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "石川に修学旅行 前年度から5割増"
     },
     {
+      "time": "16:37",
+      "title": "ChatGPTで不正利用 親露世論操作",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593149?source=rss",
+      "publishedAt": "2026-08-26T07:37:51.000Z",
+      "xQuery": "ChatGPTで不正利用 親露世論操作"
+    },
+    {
       "time": "14:54",
       "title": "富士山で遭難激増 シャリバテとは",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "富士山で遭難激増 シャリバテとは"
     },
     {
-      "time": "15:01",
-      "title": "女子ばかり行列 学校トイレ巡る声",
+      "time": "15:15",
+      "title": "ファミマ 服装や髪色に新ルール",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593138?source=rss",
-      "publishedAt": "2026-08-26T06:01:51.000Z",
-      "xQuery": "女子ばかり行列 学校トイレ巡る声"
-    },
-    {
-      "time": "13:05",
-      "title": "低価格から変化 ベローチェの戦略",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593126?source=rss",
-      "publishedAt": "2026-08-26T04:05:59.000Z",
-      "xQuery": "低価格から変化 ベローチェの戦略"
+      "url": "https://news.yahoo.co.jp/pickup/6593139?source=rss",
+      "publishedAt": "2026-08-26T06:15:39.000Z",
+      "xQuery": "ファミマ 服装や髪色に新ルール"
     }
   ]
 };
