@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T12:49:08.301Z",
+  "updatedAt": "2026-08-26T13:25:10.931Z",
   "items": [
     {
       "time": "21:25",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ICC制裁 日本を巡り前所長が指摘"
     },
     {
-      "time": "19:46",
-      "title": "備蓄米買い戻しへ 農水省最終調整",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593175?source=rss",
-      "publishedAt": "2026-08-26T10:46:43.000Z",
-      "xQuery": "備蓄米買い戻しへ 農水省最終調整"
-    },
-    {
       "time": "20:35",
       "title": "ネパール洪水 観光客380人超不明",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593178?source=rss",
       "publishedAt": "2026-08-26T11:35:30.000Z",
       "xQuery": "高知・物部川 アユの大量死相次ぐ"
+    },
+    {
+      "time": "15:15",
+      "title": "ファミマ 服装や髪色に新ルール",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593139?source=rss",
+      "publishedAt": "2026-08-26T06:15:39.000Z",
+      "xQuery": "ファミマ 服装や髪色に新ルール"
     }
   ]
 };
