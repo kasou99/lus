@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T10:45:57.689Z",
+  "updatedAt": "2026-08-26T11:11:41.213Z",
   "items": [
     {
-      "time": "18:26",
-      "title": "ICC赤根所長 制裁受ける理由ない",
+      "time": "19:46",
+      "title": "備蓄米買い戻しへ 農水省最終調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593168?source=rss",
-      "publishedAt": "2026-08-26T09:26:10.000Z",
-      "xQuery": "ICC赤根所長 制裁受ける理由ない"
+      "url": "https://news.yahoo.co.jp/pickup/6593175?source=rss",
+      "publishedAt": "2026-08-26T10:46:43.000Z",
+      "xQuery": "備蓄米買い戻しへ 農水省最終調整"
     },
     {
       "time": "17:42",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏の息子殺害示唆 イラン"
     },
     {
+      "time": "19:48",
+      "title": "時計窃盗 電動ボード直前借りたか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593176?source=rss",
+      "publishedAt": "2026-08-26T10:48:19.000Z",
+      "xQuery": "時計窃盗 電動ボード直前借りたか"
+    },
+    {
       "time": "18:02",
       "title": "左右の足間違え手術 患者側と和解",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593163?source=rss",
       "publishedAt": "2026-08-26T09:02:47.000Z",
       "xQuery": "左右の足間違え手術 患者側と和解"
-    },
-    {
-      "time": "16:54",
-      "title": "食パン不法投棄 偽画像拡散相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593151?source=rss",
-      "publishedAt": "2026-08-26T07:54:05.000Z",
-      "xQuery": "食パン不法投棄 偽画像拡散相次ぐ"
     }
   ]
 };
