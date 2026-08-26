@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T09:47:55.235Z",
+  "updatedAt": "2026-08-26T10:15:17.810Z",
   "items": [
     {
       "time": "18:26",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏の息子殺害示唆 イラン"
     },
     {
-      "time": "18:32",
-      "title": "テレワーク導入企業の助成 終了へ",
+      "time": "10:18",
+      "title": "TikTokに罰金47億円 ブラジル",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593166?source=rss",
-      "publishedAt": "2026-08-26T09:32:38.000Z",
-      "xQuery": "テレワーク導入企業の助成 終了へ"
+      "url": "https://news.yahoo.co.jp/pickup/6593102?source=rss",
+      "publishedAt": "2026-08-26T01:18:05.000Z",
+      "xQuery": "TikTokに罰金47億円 ブラジル"
     },
     {
-      "time": "17:49",
-      "title": "高2死亡事件 死因は「脳挫傷」",
+      "time": "18:02",
+      "title": "左右の足間違え手術 患者側と和解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593161?source=rss",
-      "publishedAt": "2026-08-26T08:49:38.000Z",
-      "xQuery": "高2死亡事件 死因は「脳挫傷」"
+      "url": "https://news.yahoo.co.jp/pickup/6593163?source=rss",
+      "publishedAt": "2026-08-26T09:02:47.000Z",
+      "xQuery": "左右の足間違え手術 患者側と和解"
     }
   ]
 };
