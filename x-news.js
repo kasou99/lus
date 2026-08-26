@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T04:17:57.474Z",
+  "updatedAt": "2026-08-26T04:47:38.943Z",
   "items": [
     {
       "time": "12:35",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "子助けようとしたか 父流され死亡"
     },
     {
-      "time": "11:44",
-      "title": "自分の体に精巣 性分化疾患の女性",
+      "time": "13:29",
+      "title": "路上に「手りゅう弾」玩具と判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593118?source=rss",
-      "publishedAt": "2026-08-26T02:44:03.000Z",
-      "xQuery": "自分の体に精巣 性分化疾患の女性"
+      "url": "https://news.yahoo.co.jp/pickup/6593128?source=rss",
+      "publishedAt": "2026-08-26T04:29:40.000Z",
+      "xQuery": "路上に「手りゅう弾」玩具と判明"
     }
   ]
 };

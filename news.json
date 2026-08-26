@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-26T04:17:56.178Z",
+  "updatedAt": "2026-08-26T04:47:38.180Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "10:52",
         "title": "日本は「工作機械カード」で中国を抑え込めるのか？",
         "source": "人民網日本語版",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EcDk4bXdMcUc5YjMweGZRVFJTYzlkc2N2aXppNmkzZDR3UG51UW52b2JQZzEtR3g1TU4zckZBcW0xY2xyQTU5UXFRVVRpcjdLWjBUVkpiSkxfcnBZZmwyaGFBTjV2NXc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IdkFWeTV2REhlS2gxV3ZRaGZiX1ljUE5sNEhnaUlPN0F4TUltamN3cUgzSVdraHNseUdSOVBaaFhKb19teFhHUGpReEFRaDhWZ05BN0dsVFg5VmRlVXVBNnZ2Qlhzd0lH?oc=5",
         "publishedAt": "2026-08-26T01:52:00.000Z"
       },
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-08-25T20:13:49.000Z"
       },
       {
-        "time": "05:00",
-        "title": "ジェイテクト 工作機械２機種開発 ４年ぶり新製品 10月展示会出品",
-        "source": "47NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16UHhQTW1kUlFROEdicjZiU3BRNm90aV90cjJkUFlNUE1YYzRMWXVMRjlqMXZvdkVLU1dSdWtVU2dmOUhNS1dyYzZsQQ?oc=5",
-        "publishedAt": "2026-08-25T20:00:00.000Z"
-      },
-      {
         "time": "11:15",
         "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMS0dZQXh0TGVGQmVlU3hTWVU0dmlZeC10MXprRGNqQUR1WEhpTU5LYl9MaEVXODA4aWNYUmxnTjg5M0JXQkJSYXd5MjcwTHR4Wm1kWUdVVFZDRDBYbGV3OWdMZXhjVldfUGdNcm5QYXhUakk?oc=5",
         "publishedAt": "2026-08-26T02:15:26.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "ジェイテクト 工作機械２機種開発 ４年ぶり新製品 10月展示会出品",
+        "source": "47NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16UHhQTW1kUlFROEdicjZiU3BRNm90aV90cjJkUFlNUE1YYzRMWXVMRjlqMXZvdkVLU1dSdWtVU2dmOUhNS1dyYzZsQQ?oc=5",
+        "publishedAt": "2026-08-25T20:00:00.000Z"
       },
       {
         "time": "16:35",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-08-25T09:26:49.000Z"
       },
       {
+        "time": "13:29",
+        "title": "セブンとヤマト セルフ発送機発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593127?source=rss",
+        "publishedAt": "2026-08-26T04:29:37.000Z"
+      },
+      {
         "time": "09:05",
         "title": "ジムニー対抗車 他社が作らない訳",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593096?source=rss",
         "publishedAt": "2026-08-26T00:05:42.000Z"
-      },
-      {
-        "time": "13:05",
-        "title": "低価格から変化 ベローチェの戦略",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593126?source=rss",
-        "publishedAt": "2026-08-26T04:05:59.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-08-25T22:43:18.000Z"
       },
       {
+        "time": "13:36",
+        "title": "同志社理事長ら辞任 遺族コメント",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593129?source=rss",
+        "publishedAt": "2026-08-26T04:36:55.000Z"
+      },
+      {
         "time": "11:56",
         "title": "子助けようとしたか 父流され死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593100?source=rss",
         "publishedAt": "2026-08-26T01:02:03.000Z"
-      },
-      {
-        "time": "11:34",
-        "title": "路上に手りゅう弾か 近くに小学校",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593113?source=rss",
-        "publishedAt": "2026-08-26T02:34:08.000Z"
       }
     ],
     "subsidyHeadlines": [
