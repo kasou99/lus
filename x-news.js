@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T10:15:17.810Z",
+  "updatedAt": "2026-08-26T10:45:57.689Z",
   "items": [
     {
       "time": "18:26",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏の息子殺害示唆 イラン"
     },
     {
-      "time": "10:18",
-      "title": "TikTokに罰金47億円 ブラジル",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593102?source=rss",
-      "publishedAt": "2026-08-26T01:18:05.000Z",
-      "xQuery": "TikTokに罰金47億円 ブラジル"
-    },
-    {
       "time": "18:02",
       "title": "左右の足間違え手術 患者側と和解",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593163?source=rss",
       "publishedAt": "2026-08-26T09:02:47.000Z",
       "xQuery": "左右の足間違え手術 患者側と和解"
+    },
+    {
+      "time": "16:54",
+      "title": "食パン不法投棄 偽画像拡散相次ぐ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593151?source=rss",
+      "publishedAt": "2026-08-26T07:54:05.000Z",
+      "xQuery": "食パン不法投棄 偽画像拡散相次ぐ"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T10:15:16.936Z",
+  "updatedAt": "2026-08-26T10:45:56.618Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-08-26T03:35:45.000Z"
       },
       {
+        "time": "19:17",
+        "title": "同乗2人死傷 運転男性に無罪判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593174?source=rss",
+        "publishedAt": "2026-08-26T10:17:34.000Z"
+      },
+      {
         "time": "17:49",
         "title": "高2死亡事件 死因は「脳挫傷」",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593129?source=rss",
         "publishedAt": "2026-08-26T04:36:55.000Z"
-      },
-      {
-        "time": "18:02",
-        "title": "左右の足間違え手術 患者側と和解",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593163?source=rss",
-        "publishedAt": "2026-08-26T09:02:47.000Z"
       }
     ],
     "subsidyHeadlines": [
