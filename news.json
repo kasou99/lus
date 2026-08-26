@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-26T07:48:17.771Z",
+  "updatedAt": "2026-08-26T08:19:16.045Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "11:18",
-        "title": "株式会社サン機工 様 立形マシニングセンタ VM53RⅡ",
-        "source": "nidec.com",
+        "title": "株式会社サン機工 様 立形マシニングセンタ VM53RⅡ | 工作機械 | ニデック株式会社",
+        "source": "NIDEC CORPORATION",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPXzlNcXlfYW04VnZoRHNTOEZJZGdzMXRRNnpjQjgtU1hFX25Rb01qNzctTERTWVk3RG1MendkVk9DUFQtNXpDMlNmdGcxaXpfVmpfRWwtLXp2SnFMNDUtemcyMHRfZkZrQ1JkcHUtQ25tTG9DNjd3cXZuU1N3VXBrZlZRRFVhSExGRy1VRTJBbjkyY05BVlE?oc=5",
         "publishedAt": "2026-08-26T02:18:58.000Z"
       },
@@ -15,13 +15,6 @@
         "source": "人民網日本語版",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IdkFWeTV2REhlS2gxV3ZRaGZiX1ljUE5sNEhnaUlPN0F4TUltamN3cUgzSVdraHNseUdSOVBaaFhKb19teFhHUGpReEFRaDhWZ05BN0dsVFg5VmRlVXVBNnZ2Qlhzd0lH?oc=5",
         "publishedAt": "2026-08-26T01:52:00.000Z"
-      },
-      {
-        "time": "14:00",
-        "title": "JIMTOF2026 （第33回日本国際工作機械見本市） 「Formnext」とのコラボレーションについて",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56UExJLWRybWUzVzJqRGk0MUhuM0ZaQkRZeURKbWhSTmxIRkotd290WWtza1pMa1VNd1FiSVZlcGtNeFlJclpIQ1NpXzA4UGtMV0NDNkNXY25VOE85R3lWZzRCcjNSNF90RGc?oc=5",
-        "publishedAt": "2026-08-26T05:00:01.000Z"
       },
       {
         "time": "05:13",
@@ -36,6 +29,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGdE0tSm5jbEdfMjNGNTdTLVVTNHFHdXpfbWhKMndhWXoyVGJtXzBPcU10THpFRUJtUGFHLVg2eVdITWNTUV9vOTBIT29NeHk2NjQwUzEwWXU0RW9XNmh1aTItTUZqamttQWhQMW85OA?oc=5",
         "publishedAt": "2026-08-25T22:15:00.000Z"
+      },
+      {
+        "time": "16:45",
+        "title": "JIMTOF2026 （第33回日本国際工作機械見本市） 「Formnext」とのコラボレーションについて",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSQ0lqaG1oaWFaa0doeTFBanBQMDFDWm5kTmFoWHAxREd5a29iT09YSmNpNlNuaWUwWlJiNVpBSDZpbjhRTkQ2UFNUa3JKMWRSR2pjblJjdzZoVjJiRW90b212MGdJM0VJMmZ0bVhmTVZrMUk?oc=5",
+        "publishedAt": "2026-08-26T07:45:00.000Z"
       },
       {
         "time": "10:45",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "17:02",
+        "title": "中継 ICC赤根所長が制裁巡り会見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593152?source=rss",
+        "publishedAt": "2026-08-26T08:02:33.000Z"
+      },
+      {
         "time": "11:33",
         "title": "米CIA長官が訪露 ウ情勢を協議か",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593067?source=rss",
         "publishedAt": "2026-08-25T13:23:44.000Z"
-      },
-      {
-        "time": "09:08",
-        "title": "米 イランに「経済的総攻撃」発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6592970?source=rss",
-        "publishedAt": "2026-08-25T00:08:24.000Z"
       },
       {
         "time": "23:29",

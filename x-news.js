@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T07:48:18.454Z",
+  "updatedAt": "2026-08-26T08:19:16.877Z",
   "items": [
     {
-      "time": "14:14",
-      "title": "博多区で40.4℃ 福岡市初の酷暑日",
+      "time": "17:02",
+      "title": "中継 ICC赤根所長が制裁巡り会見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593134?source=rss",
-      "publishedAt": "2026-08-26T05:14:42.000Z",
-      "xQuery": "博多区で40.4℃ 福岡市初の酷暑日"
+      "url": "https://news.yahoo.co.jp/pickup/6593152?source=rss",
+      "publishedAt": "2026-08-26T08:02:33.000Z",
+      "xQuery": "中継 ICC赤根所長が制裁巡り会見"
+    },
+    {
+      "time": "16:44",
+      "title": "猛暑一転 天気の主役は秋雨前線に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593150?source=rss",
+      "publishedAt": "2026-08-26T07:44:20.000Z",
+      "xQuery": "猛暑一転 天気の主役は秋雨前線に"
     },
     {
       "time": "15:42",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ChatGPTで不正利用 親露世論操作"
     },
     {
-      "time": "14:54",
-      "title": "富士山で遭難激増 シャリバテとは",
+      "time": "12:16",
+      "title": "不妊治療10年 難しい「やめどき」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593135?source=rss",
-      "publishedAt": "2026-08-26T05:54:10.000Z",
-      "xQuery": "富士山で遭難激増 シャリバテとは"
-    },
-    {
-      "time": "15:15",
-      "title": "ファミマ 服装や髪色に新ルール",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593139?source=rss",
-      "publishedAt": "2026-08-26T06:15:39.000Z",
-      "xQuery": "ファミマ 服装や髪色に新ルール"
+      "url": "https://news.yahoo.co.jp/pickup/6593123?source=rss",
+      "publishedAt": "2026-08-26T03:16:05.000Z",
+      "xQuery": "不妊治療10年 難しい「やめどき」"
     }
   ]
 };
