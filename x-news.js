@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-25T23:40:16.471Z",
+  "updatedAt": "2026-08-26T00:21:53.432Z",
   "items": [
     {
       "time": "06:41",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 沖縄・奄美は昼前にかけ暴風"
     },
     {
-      "time": "06:28",
-      "title": "財務省概算要求 国債費が過去最高",
+      "time": "07:18",
+      "title": "米CIA長官が訪露 和平協議目的か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593082?source=rss",
-      "publishedAt": "2026-08-25T21:28:20.000Z",
-      "xQuery": "財務省概算要求 国債費が過去最高"
-    },
-    {
-      "time": "07:44",
-      "title": "コンテンツ支援の司令塔 新設検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593089?source=rss",
-      "publishedAt": "2026-08-25T22:44:19.000Z",
-      "xQuery": "コンテンツ支援の司令塔 新設検討"
+      "url": "https://news.yahoo.co.jp/pickup/6593085?source=rss",
+      "publishedAt": "2026-08-25T22:18:11.000Z",
+      "xQuery": "米CIA長官が訪露 和平協議目的か"
     },
     {
       "time": "07:43",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593090?source=rss",
       "publishedAt": "2026-08-25T23:13:51.000Z",
       "xQuery": "免職と誤報 北陸放送に賠償命じる"
+    },
+    {
+      "time": "09:05",
+      "title": "ジムニー対抗車 他社が作らない訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593096?source=rss",
+      "publishedAt": "2026-08-26T00:05:42.000Z",
+      "xQuery": "ジムニー対抗車 他社が作らない訳"
     }
   ]
 };
