@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T02:34:50.671Z",
+  "updatedAt": "2026-08-26T03:26:00.494Z",
   "items": [
     {
-      "time": "09:37",
-      "title": "ICC制裁巡り自民議員「米が怖い」",
+      "time": "11:33",
+      "title": "米CIA長官が訪露 ウ情勢を協議か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593098?source=rss",
-      "publishedAt": "2026-08-26T00:37:00.000Z",
-      "xQuery": "ICC制裁巡り自民議員「米が怖い」"
+      "url": "https://news.yahoo.co.jp/pickup/6593115?source=rss",
+      "publishedAt": "2026-08-26T02:33:43.000Z",
+      "xQuery": "米CIA長官が訪露 ウ情勢を協議か"
     },
     {
-      "time": "11:00",
-      "title": "可搬式浄水装置の購入補助 拡大へ",
+      "time": "12:00",
+      "title": "4人死亡 事故直前まで線路上に7人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593107?source=rss",
-      "publishedAt": "2026-08-26T02:00:09.000Z",
-      "xQuery": "可搬式浄水装置の購入補助 拡大へ"
+      "url": "https://news.yahoo.co.jp/pickup/6593119?source=rss",
+      "publishedAt": "2026-08-26T03:00:19.000Z",
+      "xQuery": "4人死亡 事故直前まで線路上に7人"
     },
     {
-      "time": "11:20",
-      "title": "ふるさと納税「赤字」19都府県",
+      "time": "11:56",
+      "title": "子助けようとしたか 父流され死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593111?source=rss",
-      "publishedAt": "2026-08-26T02:20:41.000Z",
-      "xQuery": "ふるさと納税「赤字」19都府県"
+      "url": "https://news.yahoo.co.jp/pickup/6593114?source=rss",
+      "publishedAt": "2026-08-26T02:56:44.000Z",
+      "xQuery": "子助けようとしたか 父流され死亡"
     },
     {
-      "time": "10:21",
-      "title": "「強盗」はウソ 窃盗疑いで女逮捕",
+      "time": "11:34",
+      "title": "路上に手りゅう弾か 近くに小学校",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593103?source=rss",
-      "publishedAt": "2026-08-26T01:21:13.000Z",
-      "xQuery": "「強盗」はウソ 窃盗疑いで女逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6593113?source=rss",
+      "publishedAt": "2026-08-26T02:34:08.000Z",
+      "xQuery": "路上に手りゅう弾か 近くに小学校"
     },
     {
       "time": "10:26",
