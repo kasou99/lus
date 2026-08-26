@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-26T03:25:59.747Z",
+  "updatedAt": "2026-08-26T03:50:33.840Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "10:52",
         "title": "日本は「工作機械カード」で中国を抑え込めるのか？",
         "source": "人民網日本語版",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EcDk4bXdMcUc5YjMweGZRVFJTYzlkc2N2aXppNmkzZDR3UG51UW52b2JQZzEtR3g1TU4zckZBcW0xY2xyQTU5UXFRVVRpcjdLWjBUVkpiSkxfcnBZZmwyaGFBTjV2NXc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IdkFWeTV2REhlS2gxV3ZRaGZiX1ljUE5sNEhnaUlPN0F4TUltamN3cUgzSVdraHNseUdSOVBaaFhKb19teFhHUGpReEFRaDhWZ05BN0dsVFg5VmRlVXVBNnZ2Qlhzd0lH?oc=5",
         "publishedAt": "2026-08-26T01:52:00.000Z"
       },
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "12:35",
+        "title": "沖縄・奄美 台風の影響長引く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593125?source=rss",
+        "publishedAt": "2026-08-26T03:35:45.000Z"
+      },
+      {
         "time": "12:00",
         "title": "4人死亡 事故直前まで線路上に7人",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593113?source=rss",
         "publishedAt": "2026-08-26T02:34:08.000Z"
-      },
-      {
-        "time": "08:13",
-        "title": "免職と誤報 北陸放送に賠償命じる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593090?source=rss",
-        "publishedAt": "2026-08-25T23:13:51.000Z"
       }
     ],
     "subsidyHeadlines": [

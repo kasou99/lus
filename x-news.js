@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T03:26:00.494Z",
+  "updatedAt": "2026-08-26T03:50:34.616Z",
   "items": [
     {
-      "time": "11:33",
-      "title": "米CIA長官が訪露 ウ情勢を協議か",
+      "time": "12:35",
+      "title": "沖縄・奄美 台風の影響長引く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593115?source=rss",
-      "publishedAt": "2026-08-26T02:33:43.000Z",
-      "xQuery": "米CIA長官が訪露 ウ情勢を協議か"
+      "url": "https://news.yahoo.co.jp/pickup/6593125?source=rss",
+      "publishedAt": "2026-08-26T03:35:45.000Z",
+      "xQuery": "沖縄・奄美 台風の影響長引く"
     },
     {
       "time": "12:00",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "子助けようとしたか 父流され死亡"
     },
     {
-      "time": "11:34",
-      "title": "路上に手りゅう弾か 近くに小学校",
+      "time": "11:28",
+      "title": "川に流された小2 救った高3の直感",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593113?source=rss",
-      "publishedAt": "2026-08-26T02:34:08.000Z",
-      "xQuery": "路上に手りゅう弾か 近くに小学校"
+      "url": "https://news.yahoo.co.jp/pickup/6593112?source=rss",
+      "publishedAt": "2026-08-26T02:28:42.000Z",
+      "xQuery": "川に流された小2 救った高3の直感"
     },
     {
-      "time": "10:26",
-      "title": "「ゴーストレストラン」増加の訳",
+      "time": "11:44",
+      "title": "自分の体に精巣 性分化疾患の女性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593104?source=rss",
-      "publishedAt": "2026-08-26T01:26:13.000Z",
-      "xQuery": "「ゴーストレストラン」増加の訳"
+      "url": "https://news.yahoo.co.jp/pickup/6593118?source=rss",
+      "publishedAt": "2026-08-26T02:44:03.000Z",
+      "xQuery": "自分の体に精巣 性分化疾患の女性"
     }
   ]
 };
