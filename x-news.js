@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T00:21:53.432Z",
+  "updatedAt": "2026-08-26T00:50:23.575Z",
   "items": [
     {
-      "time": "06:41",
-      "title": "台風 沖縄・奄美は昼前にかけ暴風",
+      "time": "09:37",
+      "title": "ICC制裁巡り自民議員「米が怖い」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593083?source=rss",
-      "publishedAt": "2026-08-25T21:41:16.000Z",
-      "xQuery": "台風 沖縄・奄美は昼前にかけ暴風"
+      "url": "https://news.yahoo.co.jp/pickup/6593098?source=rss",
+      "publishedAt": "2026-08-26T00:37:00.000Z",
+      "xQuery": "ICC制裁巡り自民議員「米が怖い」"
     },
     {
       "time": "07:18",
