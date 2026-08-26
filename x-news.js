@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T09:19:30.149Z",
+  "updatedAt": "2026-08-26T09:47:55.235Z",
   "items": [
     {
-      "time": "18:08",
-      "title": "米制裁「ICCは負けない」と所長",
+      "time": "18:26",
+      "title": "ICC赤根所長 制裁受ける理由ない",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593164?source=rss",
-      "publishedAt": "2026-08-26T09:08:24.000Z",
-      "xQuery": "米制裁「ICCは負けない」と所長"
+      "url": "https://news.yahoo.co.jp/pickup/6593168?source=rss",
+      "publishedAt": "2026-08-26T09:26:10.000Z",
+      "xQuery": "ICC赤根所長 制裁受ける理由ない"
     },
     {
-      "time": "16:44",
-      "title": "猛暑一転 天気の主役は秋雨前線に",
+      "time": "17:42",
+      "title": "ひかりんちょ 夏休み明けに不登校",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593150?source=rss",
-      "publishedAt": "2026-08-26T07:44:20.000Z",
-      "xQuery": "猛暑一転 天気の主役は秋雨前線に"
+      "url": "https://news.yahoo.co.jp/pickup/6593162?source=rss",
+      "publishedAt": "2026-08-26T08:42:57.000Z",
+      "xQuery": "ひかりんちょ 夏休み明けに不登校"
     },
     {
       "time": "17:49",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏の息子殺害示唆 イラン"
     },
     {
+      "time": "18:32",
+      "title": "テレワーク導入企業の助成 終了へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593166?source=rss",
+      "publishedAt": "2026-08-26T09:32:38.000Z",
+      "xQuery": "テレワーク導入企業の助成 終了へ"
+    },
+    {
       "time": "17:49",
       "title": "高2死亡事件 死因は「脳挫傷」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593161?source=rss",
       "publishedAt": "2026-08-26T08:49:38.000Z",
       "xQuery": "高2死亡事件 死因は「脳挫傷」"
-    },
-    {
-      "time": "18:02",
-      "title": "左右の足間違え手術 患者側と和解",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593163?source=rss",
-      "publishedAt": "2026-08-26T09:02:47.000Z",
-      "xQuery": "左右の足間違え手術 患者側と和解"
     }
   ]
 };
