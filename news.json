@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T14:18:51.978Z",
+  "updatedAt": "2026-08-26T14:48:20.361Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-25T20:15:25.000Z"
       },
       {
-        "time": "14:00",
-        "title": "JIMTOF2026 （第33回日本国際工作機械見本市） 「Formnext」とのコラボレーションについて",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55dk9lU0R4anhXQlVmZm9HVU0tOFB1b0lxaERyYkIzZXRsQlo0cXBkSnVyZGhSVFVZUEZPUW1US3RveTRuSmZKbnJIN0hlYlFoNXQ2TkprN01GRldPT1Fqcy1GRU9OajFaWV9janRwVGJYdw?oc=5",
-        "publishedAt": "2026-08-26T05:00:00.000Z"
-      },
-      {
         "time": "05:00",
         "title": "ジェイテクト 工作機械２機種開発 ４年ぶり新製品 10月展示会出品",
         "source": "47NEWS",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16UHhQTW1kUlFROEdicjZiU3BRNm90aV90cjJkUFlNUE1YYzRMWXVMRjlqMXZvdkVLU1dSdWtVU2dmOUhNS1dyYzZsQQ?oc=5",
         "publishedAt": "2026-08-25T20:00:00.000Z"
+      },
+      {
+        "time": "10:45",
+        "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RX3RPeVJxeUdwMWd4TEJfSmsxOHNFeGFFMnExTmdNNlZjREpqYlRrMzBHeU92MmVMMVpUQ1YyQmpQZTI2RFlPWGdiWUNZamdwRDhjdVgxVFBhXzB0Z0ZLRW80ekM4ZGZlVnE3LVJpemsyZw?oc=5",
+        "publishedAt": "2026-08-26T01:45:51.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,11 +133,11 @@
         "publishedAt": "2026-08-26T04:29:37.000Z"
       },
       {
-        "time": "15:15",
-        "title": "ファミマ 服装や髪色に新ルール",
+        "time": "23:21",
+        "title": "ファミマの制服 業界初Tシャツに",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593139?source=rss",
-        "publishedAt": "2026-08-26T06:15:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593195?source=rss",
+        "publishedAt": "2026-08-26T14:21:16.000Z"
       },
       {
         "time": "09:05",

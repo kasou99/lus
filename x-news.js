@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T14:18:52.783Z",
+  "updatedAt": "2026-08-26T14:48:21.293Z",
   "items": [
     {
-      "time": "21:25",
-      "title": "浜岡原発巡り不適切手続きか",
+      "time": "22:36",
+      "title": "今年は台風多発 9-10月も注意必要",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593184?source=rss",
-      "publishedAt": "2026-08-26T12:25:05.000Z",
-      "xQuery": "浜岡原発巡り不適切手続きか"
+      "url": "https://news.yahoo.co.jp/pickup/6593190?source=rss",
+      "publishedAt": "2026-08-26T13:36:33.000Z",
+      "xQuery": "今年は台風多発 9-10月も注意必要"
     },
     {
       "time": "21:00",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ICC制裁 日本を巡り前所長が指摘"
     },
     {
-      "time": "21:12",
-      "title": "イラン戦争 米軍基地に重い課題",
+      "time": "23:36",
+      "title": "学校版カスハラ指針 国が策定へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593165?source=rss",
-      "publishedAt": "2026-08-26T12:12:50.000Z",
-      "xQuery": "イラン戦争 米軍基地に重い課題"
+      "url": "https://news.yahoo.co.jp/pickup/6593196?source=rss",
+      "publishedAt": "2026-08-26T14:36:02.000Z",
+      "xQuery": "学校版カスハラ指針 国が策定へ"
+    },
+    {
+      "time": "22:42",
+      "title": "ヘンリー王子一家が帰国 英報道",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593191?source=rss",
+      "publishedAt": "2026-08-26T13:42:37.000Z",
+      "xQuery": "ヘンリー王子一家が帰国 英報道"
     },
     {
       "time": "22:23",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593189?source=rss",
       "publishedAt": "2026-08-26T13:23:03.000Z",
       "xQuery": "生活道路の法定速度 9/1から30km"
-    },
-    {
-      "time": "15:15",
-      "title": "ファミマ 服装や髪色に新ルール",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593139?source=rss",
-      "publishedAt": "2026-08-26T06:15:39.000Z",
-      "xQuery": "ファミマ 服装や髪色に新ルール"
     }
   ]
 };
