@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T22:03:19.220Z",
+  "updatedAt": "2026-08-26T23:39:29.070Z",
   "items": [
     {
       "time": "06:39",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "石川県・富山県に大雨特別警報"
     },
     {
-      "time": "06:42",
-      "title": "安全確保を 大雨のときのNG行動",
+      "time": "08:00",
+      "title": "石川富山に大雨特別警報 最新情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591618?source=rss",
-      "publishedAt": "2026-08-26T21:42:17.000Z",
-      "xQuery": "安全確保を 大雨のときのNG行動"
+      "url": "https://news.yahoo.co.jp/pickup/6593207?source=rss",
+      "publishedAt": "2026-08-26T23:00:55.000Z",
+      "xQuery": "石川富山に大雨特別警報 最新情報"
     },
     {
-      "time": "06:12",
-      "title": "ネパール洪水日本人5人連絡取れず",
+      "time": "08:15",
+      "title": "車での移動に注意 大雨で水没恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593198?source=rss",
-      "publishedAt": "2026-08-26T21:12:53.000Z",
-      "xQuery": "ネパール洪水日本人5人連絡取れず"
+      "url": "https://news.yahoo.co.jp/pickup/6593212?source=rss",
+      "publishedAt": "2026-08-26T23:15:01.000Z",
+      "xQuery": "車での移動に注意 大雨で水没恐れ"
     },
     {
-      "time": "22:42",
-      "title": "ヘンリー王子一家が帰国 英報道",
+      "time": "07:02",
+      "title": "石川・富山で大雨 現地のSNS投稿",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593191?source=rss",
-      "publishedAt": "2026-08-26T13:42:37.000Z",
-      "xQuery": "ヘンリー王子一家が帰国 英報道"
+      "url": "https://news.yahoo.co.jp/pickup/6593204?source=rss",
+      "publishedAt": "2026-08-26T22:02:33.000Z",
+      "xQuery": "石川・富山で大雨 現地のSNS投稿"
     },
     {
-      "time": "22:23",
-      "title": "生活道路の法定速度 9/1から30km",
+      "time": "08:10",
+      "title": "立憲 中道・公明と早期合流断念へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593189?source=rss",
-      "publishedAt": "2026-08-26T13:23:03.000Z",
-      "xQuery": "生活道路の法定速度 9/1から30km"
+      "url": "https://news.yahoo.co.jp/pickup/6593210?source=rss",
+      "publishedAt": "2026-08-26T23:10:37.000Z",
+      "xQuery": "立憲 中道・公明と早期合流断念へ"
     }
   ]
 };
