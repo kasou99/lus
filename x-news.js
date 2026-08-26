@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T01:33:48.695Z",
+  "updatedAt": "2026-08-26T02:34:50.671Z",
   "items": [
     {
       "time": "09:37",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ICC制裁巡り自民議員「米が怖い」"
     },
     {
-      "time": "07:18",
-      "title": "米CIA長官が訪露 和平協議目的か",
+      "time": "11:00",
+      "title": "可搬式浄水装置の購入補助 拡大へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593085?source=rss",
-      "publishedAt": "2026-08-25T22:18:11.000Z",
-      "xQuery": "米CIA長官が訪露 和平協議目的か"
+      "url": "https://news.yahoo.co.jp/pickup/6593107?source=rss",
+      "publishedAt": "2026-08-26T02:00:09.000Z",
+      "xQuery": "可搬式浄水装置の購入補助 拡大へ"
     },
     {
-      "time": "07:43",
-      "title": "4人死亡 見張り員所定位置おらず",
+      "time": "11:20",
+      "title": "ふるさと納税「赤字」19都府県",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593087?source=rss",
-      "publishedAt": "2026-08-25T22:43:18.000Z",
-      "xQuery": "4人死亡 見張り員所定位置おらず"
+      "url": "https://news.yahoo.co.jp/pickup/6593111?source=rss",
+      "publishedAt": "2026-08-26T02:20:41.000Z",
+      "xQuery": "ふるさと納税「赤字」19都府県"
     },
     {
       "time": "10:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「強盗」はウソ 窃盗疑いで女逮捕"
     },
     {
-      "time": "09:05",
-      "title": "ジムニー対抗車 他社が作らない訳",
+      "time": "10:26",
+      "title": "「ゴーストレストラン」増加の訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593096?source=rss",
-      "publishedAt": "2026-08-26T00:05:42.000Z",
-      "xQuery": "ジムニー対抗車 他社が作らない訳"
+      "url": "https://news.yahoo.co.jp/pickup/6593104?source=rss",
+      "publishedAt": "2026-08-26T01:26:13.000Z",
+      "xQuery": "「ゴーストレストラン」増加の訳"
     }
   ]
 };
