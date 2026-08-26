@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T14:48:20.361Z",
+  "updatedAt": "2026-08-26T15:49:59.204Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,20 @@
         "publishedAt": "2026-08-26T01:52:00.000Z"
       },
       {
+        "time": "16:36",
+        "title": "是常精工、工作機械設置型切粉圧縮機を発売",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sMTFhbTB0cVhtM25qZjBkVFpWdkppUVdVUF9HQWloTzBRQnVnVFNaVG9kbG54UnNHaDZKNXdXNDloMnlrczRZRmtITE5ZalhMMnJ1bEd0Nm5fM3E2SXN4ZGtaTTJ3NDE2Y3pERWFB?oc=5",
+        "publishedAt": "2026-08-26T07:36:17.000Z"
+      },
+      {
+        "time": "00:00",
+        "title": "JIMTOF2026 （第33回日本国際工作機械見本市） 「Formnext」とのコラボレーションについて",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWU0txMXR5cWxGUWNPaG1lSVozQmJtUGxRMVhUSDlESG1nM0gxYnpCdnBUWEo1Q09Vc21BWHdrM0VHbjBTeTQ3QVU0eV95LW5uYUNpNThSOVdjUHdITGU5Y3VySGRCb2FMNGltelltT29pWHhvclZndVV4aw?oc=5",
+        "publishedAt": "2026-08-26T15:00:24.000Z"
+      },
+      {
         "time": "07:15",
         "title": "ファナックが新たな取り組み、複雑形状部品の5軸加工の生産性向上支援：工作機械",
         "source": "MONOist",
@@ -43,23 +57,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNVFwRFV4aXdfTjA2RmRBamI1NW5QNmNIVHNPdzZqM0VKUlktckM3cjl4T21rc3I2YWNQVTdHZWdOTjJhX0FRUllrM3pKTjliLTF1NXFsb3MxY2tSMDR4UTFEY1YwMUlaci1udFAzTzVKZThLVk5WNG5UTGx1LWR5cFdEMVdweFQxdTlqY3JR?oc=5",
         "publishedAt": "2026-08-25T20:15:25.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ジェイテクト 工作機械２機種開発 ４年ぶり新製品 10月展示会出品",
-        "source": "47NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16UHhQTW1kUlFROEdicjZiU3BRNm90aV90cjJkUFlNUE1YYzRMWXVMRjlqMXZvdkVLU1dSdWtVU2dmOUhNS1dyYzZsQQ?oc=5",
-        "publishedAt": "2026-08-25T20:00:00.000Z"
-      },
-      {
-        "time": "10:45",
-        "title": "【9/16（水）11:00‐】次世代設備保全クラウド「M2X」で何ができる？無料オンラインデモセミナー開催",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RX3RPeVJxeUdwMWd4TEJfSmsxOHNFeGFFMnExTmdNNlZjREpqYlRrMzBHeU92MmVMMVpUQ1YyQmpQZTI2RFlPWGdiWUNZamdwRDhjdVgxVFBhXzB0Z0ZLRW80ekM4ZGZlVnE3LVJpemsyZw?oc=5",
-        "publishedAt": "2026-08-26T01:45:51.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "23:49",
+        "title": "ネパール洪水 観光客約380人不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593197?source=rss",
+        "publishedAt": "2026-08-26T14:49:45.000Z"
+      },
       {
         "time": "20:13",
         "title": "ICC赤根所長 できる限り抵抗する",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593160?source=rss",
         "publishedAt": "2026-08-26T08:49:46.000Z"
-      },
-      {
-        "time": "20:35",
-        "title": "ネパール洪水 観光客380人超不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593180?source=rss",
-        "publishedAt": "2026-08-26T11:35:36.000Z"
       },
       {
         "time": "22:42",

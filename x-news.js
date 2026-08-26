@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T14:48:21.293Z",
+  "updatedAt": "2026-08-26T15:50:00.035Z",
   "items": [
-    {
-      "time": "22:36",
-      "title": "今年は台風多発 9-10月も注意必要",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593190?source=rss",
-      "publishedAt": "2026-08-26T13:36:33.000Z",
-      "xQuery": "今年は台風多発 9-10月も注意必要"
-    },
     {
       "time": "21:00",
       "title": "ICC制裁 日本を巡り前所長が指摘",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593182?source=rss",
       "publishedAt": "2026-08-26T12:00:22.000Z",
       "xQuery": "ICC制裁 日本を巡り前所長が指摘"
+    },
+    {
+      "time": "23:49",
+      "title": "ネパール洪水 観光客約380人不明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593197?source=rss",
+      "publishedAt": "2026-08-26T14:49:45.000Z",
+      "xQuery": "ネパール洪水 観光客約380人不明"
     },
     {
       "time": "23:36",
