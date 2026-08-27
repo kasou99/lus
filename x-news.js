@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-27T06:13:58.125Z",
+  "updatedAt": "2026-08-27T09:42:21.433Z",
   "items": [
     {
-      "time": "13:24",
-      "title": "河川氾濫と集落孤立が相次ぐ 石川",
+      "time": "18:01",
+      "title": "秋田で線状降水帯発生の恐れ 注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593262?source=rss",
-      "publishedAt": "2026-08-27T04:24:19.000Z",
-      "xQuery": "河川氾濫と集落孤立が相次ぐ 石川"
+      "url": "https://news.yahoo.co.jp/pickup/6593304?source=rss",
+      "publishedAt": "2026-08-27T09:01:01.000Z",
+      "xQuery": "秋田で線状降水帯発生の恐れ 注意"
     },
     {
-      "time": "14:52",
-      "title": "北陸の大雨 28日にかけ厳重警戒",
+      "time": "16:36",
+      "title": "政府が九州応援割実施へ 熊本地震",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593276?source=rss",
-      "publishedAt": "2026-08-27T05:52:14.000Z",
-      "xQuery": "北陸の大雨 28日にかけ厳重警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6593288?source=rss",
+      "publishedAt": "2026-08-27T07:36:03.000Z",
+      "xQuery": "政府が九州応援割実施へ 熊本地震"
     },
     {
-      "time": "12:34",
-      "title": "怖い 石川・富山の住民に募る不安",
+      "time": "18:01",
+      "title": "草間さん死去 海外で大々的に報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593254?source=rss",
-      "publishedAt": "2026-08-27T03:34:51.000Z",
-      "xQuery": "怖い 石川・富山の住民に募る不安"
+      "url": "https://news.yahoo.co.jp/pickup/6593305?source=rss",
+      "publishedAt": "2026-08-27T09:01:24.000Z",
+      "xQuery": "草間さん死去 海外で大々的に報道"
     },
     {
-      "time": "14:46",
-      "title": "浜岡原発 廃炉費の不適切請求14件",
+      "time": "17:22",
+      "title": "転落に巻き込まれ女性死亡 男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593275?source=rss",
-      "publishedAt": "2026-08-27T05:46:10.000Z",
-      "xQuery": "浜岡原発 廃炉費の不適切請求14件"
+      "url": "https://news.yahoo.co.jp/pickup/6593297?source=rss",
+      "publishedAt": "2026-08-27T08:22:53.000Z",
+      "xQuery": "転落に巻き込まれ女性死亡 男逮捕"
     },
     {
-      "time": "13:48",
-      "title": "ゲイツ氏異例 AI時代に警鐘",
+      "time": "17:01",
+      "title": "北大 実験中に薬品浴びて学生死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593269?source=rss",
-      "publishedAt": "2026-08-27T04:48:17.000Z",
-      "xQuery": "ゲイツ氏異例 AI時代に警鐘"
+      "url": "https://news.yahoo.co.jp/pickup/6593292?source=rss",
+      "publishedAt": "2026-08-27T08:01:32.000Z",
+      "xQuery": "北大 実験中に薬品浴びて学生死亡"
     }
   ]
 };
