@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-27T03:54:45.931Z",
+  "updatedAt": "2026-08-27T06:13:58.125Z",
   "items": [
     {
-      "time": "10:28",
-      "title": "石川・富山 18万人に緊急安全確保",
+      "time": "13:24",
+      "title": "河川氾濫と集落孤立が相次ぐ 石川",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593236?source=rss",
-      "publishedAt": "2026-08-27T01:28:30.000Z",
-      "xQuery": "石川・富山 18万人に緊急安全確保"
+      "url": "https://news.yahoo.co.jp/pickup/6593262?source=rss",
+      "publishedAt": "2026-08-27T04:24:19.000Z",
+      "xQuery": "河川氾濫と集落孤立が相次ぐ 石川"
     },
     {
-      "time": "12:01",
-      "title": "北陸 28日朝にかけ再び大雨の恐れ",
+      "time": "14:52",
+      "title": "北陸の大雨 28日にかけ厳重警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593248?source=rss",
-      "publishedAt": "2026-08-27T03:01:52.000Z",
-      "xQuery": "北陸 28日朝にかけ再び大雨の恐れ"
-    },
-    {
-      "time": "11:21",
-      "title": "川あふれ道路冠水 住民ら早朝避難",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593241?source=rss",
-      "publishedAt": "2026-08-27T02:21:36.000Z",
-      "xQuery": "川あふれ道路冠水 住民ら早朝避難"
+      "url": "https://news.yahoo.co.jp/pickup/6593276?source=rss",
+      "publishedAt": "2026-08-27T05:52:14.000Z",
+      "xQuery": "北陸の大雨 28日にかけ厳重警戒"
     },
     {
       "time": "12:34",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "怖い 石川・富山の住民に募る不安"
     },
     {
-      "time": "11:56",
-      "title": "草間氏死去 直前まで絵筆手放さず",
+      "time": "14:46",
+      "title": "浜岡原発 廃炉費の不適切請求14件",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593249?source=rss",
-      "publishedAt": "2026-08-27T02:56:17.000Z",
-      "xQuery": "草間氏死去 直前まで絵筆手放さず"
+      "url": "https://news.yahoo.co.jp/pickup/6593275?source=rss",
+      "publishedAt": "2026-08-27T05:46:10.000Z",
+      "xQuery": "浜岡原発 廃炉費の不適切請求14件"
+    },
+    {
+      "time": "13:48",
+      "title": "ゲイツ氏異例 AI時代に警鐘",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593269?source=rss",
+      "publishedAt": "2026-08-27T04:48:17.000Z",
+      "xQuery": "ゲイツ氏異例 AI時代に警鐘"
     }
   ]
 };

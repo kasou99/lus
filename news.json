@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-27T03:54:45.170Z",
+  "updatedAt": "2026-08-27T06:13:57.505Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:00",
+        "title": "サーボモーターにサイドコネクタータイプ追加、レイアウト設計の自由度向上：FAニュース",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qbWFNTXU3dy1MaDczRW5kNHBDVHYzMUR5SGZmVElkVnYzUDVfS2hnUUJ1bVBwUzh5ZW5YNEpjckNaN1Y3a2pEYTEyUXFvY25nZTZlQWNZak9HbzBhdzZzSnBRTWt2YlVlYzFCcE5Kcw?oc=5",
+        "publishedAt": "2026-08-27T04:00:00.000Z"
+      },
       {
         "time": "11:15",
         "title": "企業価値 新時代（4）エレファントジャパン 設備メンテナンス・清掃",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1cUV1QzJXQXVtZjdVTUxLbHZxaURXdUdRd1FoaEZNUDhseGN0c054X0ZIVF9yMVczbzh0MnVrN0hwVHNBZmZhUjRVNGhoaHg3eXlYNEhaS1JCQWhBc2tUUUpFM1E5MnZqWTVQdEF4dw?oc=5",
         "publishedAt": "2026-08-27T02:15:00.000Z"
-      },
-      {
-        "time": "07:30",
-        "title": "精密形彫り放電加工機2機種を投入へ、加工性能や自動化対応を向上 ソディック：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QLUc3T3V3eU9KY29GcUZaazI5enJ6TUZWYm13QkdILUpXMEhCT1BxaTZVejh0SDlXZ1Q5RGtkRlFCaVk5T3ZDdERYd2ZkeWJRVjRHUUdxY29GNWRBbGRtTVptd0tmSlBwVVpWYUt4TQ?oc=5",
-        "publishedAt": "2026-08-26T22:30:00.000Z"
       },
       {
         "time": "06:30",
@@ -34,8 +34,15 @@
         "time": "00:00",
         "title": "JIMTOF2026 （第33回日本国際工作機械見本市） 「Formnext」とのコラボレーションについて",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HR3M4Nnkzamw3YVJkck1EU1ZGdUUtZWRVNS1wcmpUc0NTck92SmN4NVY5VGZLc3dOUXl3ZlFyQ0gzMDNmX0JtcUpxQWthX29sWWk5NXdwaTFabnIyRG96RzVJNHNLeWNibnJMcUdPTm54cndJU1dHYjYwNA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWU0txMXR5cWxGUWNPaG1lSVozQmJtUGxRMVhUSDlESG1nM0gxYnpCdnBUWEo1Q09Vc21BWHdrM0VHbjBTeTQ3QVU0eV95LW5uYUNpNThSOVdjUHdITGU5Y3VySGRCb2FMNGltelltT29pWHhvclZndVV4aw?oc=5",
         "publishedAt": "2026-08-26T15:00:24.000Z"
+      },
+      {
+        "time": "07:30",
+        "title": "精密形彫り放電加工機2機種を投入へ、加工性能や自動化対応を向上 ソディック：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QLUc3T3V3eU9KY29GcUZaazI5enJ6TUZWYm13QkdILUpXMEhCT1BxaTZVejh0SDlXZ1Q5RGtkRlFCaVk5T3ZDdERYd2ZkeWJRVjRHUUdxY29GNWRBbGRtTVptd0tmSlBwVVpWYUt4TQ?oc=5",
+        "publishedAt": "2026-08-26T22:30:00.000Z"
       },
       {
         "time": "23:33",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JVFVFaHRFV2Q4SFhveHRDdDNrU0pBM0hFNTJ0WkJ0ek1wbEdXQzgxZjR5cExvSlVMMTJIZHptbklGOVlmSUxZZHU5OG41djRMWW1TWFVRMmc?oc=5",
         "publishedAt": "2026-08-26T12:53:01.000Z"
-      },
-      {
-        "time": "04:00",
-        "title": "AIで自動切削 実用化 アルム 未経験者 対話で誘導",
-        "source": "沖縄タイムス社",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MaUZBVjVFOU5ta05qWGg0bEZHVy1oR0ZGOF8wZDFNQk9HaGVIZ05aaEJReHBWSkVmNTA1eVdGSWFRWkFNYzNSanY4VDRscXVXSjhWMXd0Vk5XM19uUlE?oc=5",
-        "publishedAt": "2026-08-26T19:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,25 +105,25 @@
     ],
     "economyHeadlines": [
       {
-        "time": "21:25",
-        "title": "浜岡原発巡り不適切手続きか",
+        "time": "14:21",
+        "title": "九州新幹線 熊本-新水俣9/18再開",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593184?source=rss",
-        "publishedAt": "2026-08-26T12:25:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593273?source=rss",
+        "publishedAt": "2026-08-27T05:21:05.000Z"
       },
       {
-        "time": "19:46",
-        "title": "備蓄米買い戻しへ 農水省最終調整",
+        "time": "14:46",
+        "title": "浜岡原発 廃炉費の不適切請求14件",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593175?source=rss",
-        "publishedAt": "2026-08-26T10:46:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593275?source=rss",
+        "publishedAt": "2026-08-27T05:46:10.000Z"
       },
       {
-        "time": "18:32",
-        "title": "テレワーク導入企業の助成 終了へ",
+        "time": "14:56",
+        "title": "食料品の消費減税 外食産業転機か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593166?source=rss",
-        "publishedAt": "2026-08-26T09:32:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593278?source=rss",
+        "publishedAt": "2026-08-27T05:56:16.000Z"
       },
       {
         "time": "09:04",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "13:24",
+        "title": "河川氾濫と集落孤立が相次ぐ 石川",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593262?source=rss",
+        "publishedAt": "2026-08-27T04:24:19.000Z"
+      },
       {
         "time": "10:28",
         "title": "石川・富山 18万人に緊急安全確保",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593227?source=rss",
         "publishedAt": "2026-08-27T00:33:46.000Z"
-      },
-      {
-        "time": "07:02",
-        "title": "石川・富山で大雨 現地のSNS投稿",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593204?source=rss",
-        "publishedAt": "2026-08-26T22:02:33.000Z"
       },
       {
         "time": "10:23",
