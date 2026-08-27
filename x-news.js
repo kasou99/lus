@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-26T23:39:29.070Z",
+  "updatedAt": "2026-08-27T01:52:35.607Z",
   "items": [
     {
-      "time": "06:39",
-      "title": "石川県・富山県に大雨特別警報",
+      "time": "10:28",
+      "title": "石川・富山 18万人に緊急安全確保",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593202?source=rss",
-      "publishedAt": "2026-08-26T21:39:31.000Z",
-      "xQuery": "石川県・富山県に大雨特別警報"
+      "url": "https://news.yahoo.co.jp/pickup/6593236?source=rss",
+      "publishedAt": "2026-08-27T01:28:30.000Z",
+      "xQuery": "石川・富山 18万人に緊急安全確保"
     },
     {
-      "time": "08:00",
-      "title": "石川富山に大雨特別警報 最新情報",
+      "time": "09:33",
+      "title": "北陸の大雨 マップでみる災害情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593207?source=rss",
-      "publishedAt": "2026-08-26T23:00:55.000Z",
-      "xQuery": "石川富山に大雨特別警報 最新情報"
+      "url": "https://news.yahoo.co.jp/pickup/6593227?source=rss",
+      "publishedAt": "2026-08-27T00:33:46.000Z",
+      "xQuery": "北陸の大雨 マップでみる災害情報"
     },
     {
-      "time": "08:15",
-      "title": "車での移動に注意 大雨で水没恐れ",
+      "time": "10:23",
+      "title": "氷見市 12h降水量が観測史上最大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593212?source=rss",
-      "publishedAt": "2026-08-26T23:15:01.000Z",
-      "xQuery": "車での移動に注意 大雨で水没恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6593234?source=rss",
+      "publishedAt": "2026-08-27T01:23:47.000Z",
+      "xQuery": "氷見市 12h降水量が観測史上最大"
     },
     {
-      "time": "07:02",
-      "title": "石川・富山で大雨 現地のSNS投稿",
+      "time": "09:56",
+      "title": "羽咋市など 建物や車の浸水相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593204?source=rss",
-      "publishedAt": "2026-08-26T22:02:33.000Z",
-      "xQuery": "石川・富山で大雨 現地のSNS投稿"
+      "url": "https://news.yahoo.co.jp/pickup/6593231?source=rss",
+      "publishedAt": "2026-08-27T00:56:20.000Z",
+      "xQuery": "羽咋市など 建物や車の浸水相次ぐ"
     },
     {
-      "time": "08:10",
-      "title": "立憲 中道・公明と早期合流断念へ",
+      "time": "09:24",
+      "title": "フグが交雑 毒の部位判然とせず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593210?source=rss",
-      "publishedAt": "2026-08-26T23:10:37.000Z",
-      "xQuery": "立憲 中道・公明と早期合流断念へ"
+      "url": "https://news.yahoo.co.jp/pickup/6593223?source=rss",
+      "publishedAt": "2026-08-27T00:24:31.000Z",
+      "xQuery": "フグが交雑 毒の部位判然とせず"
     }
   ]
 };
