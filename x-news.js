@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-27T17:49:13.312Z",
+  "updatedAt": "2026-08-27T21:17:20.208Z",
   "items": [
     {
       "time": "23:58",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "車水没 ドア蹴り脱出「死ぬかと」"
     },
     {
+      "time": "22:36",
+      "title": "ネパール洪水 氷河崩落が原因か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593337?source=rss",
+      "publishedAt": "2026-08-27T13:36:19.000Z",
+      "xQuery": "ネパール洪水 氷河崩落が原因か"
+    },
+    {
+      "time": "06:07",
+      "title": "パワハラ認定の横浜市長 辞職へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593344?source=rss",
+      "publishedAt": "2026-08-27T21:07:13.000Z",
+      "xQuery": "パワハラ認定の横浜市長 辞職へ"
+    },
+    {
       "time": "23:19",
       "title": "高級腕時計 窃盗容疑で男2人逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593341?source=rss",
       "publishedAt": "2026-08-27T14:19:29.000Z",
       "xQuery": "高級腕時計 窃盗容疑で男2人逮捕"
-    },
-    {
-      "time": "21:09",
-      "title": "猛毒浴び院生死亡 北大がコメント",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593330?source=rss",
-      "publishedAt": "2026-08-27T12:09:25.000Z",
-      "xQuery": "猛毒浴び院生死亡 北大がコメント"
-    },
-    {
-      "time": "22:27",
-      "title": "転落に巻き込まれ娘死亡 父悲痛",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593335?source=rss",
-      "publishedAt": "2026-08-27T13:27:53.000Z",
-      "xQuery": "転落に巻き込まれ娘死亡 父悲痛"
     }
   ]
 };
