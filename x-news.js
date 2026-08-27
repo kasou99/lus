@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-27T13:34:59.591Z",
+  "updatedAt": "2026-08-27T17:49:13.312Z",
   "items": [
     {
-      "time": "20:30",
-      "title": "28日は広い範囲で大雨予想 警戒を",
+      "time": "23:58",
+      "title": "熊本地震1カ月 日増しに傾く自宅",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593325?source=rss",
-      "publishedAt": "2026-08-27T11:30:51.000Z",
-      "xQuery": "28日は広い範囲で大雨予想 警戒を"
-    },
-    {
-      "time": "19:36",
-      "title": "続く豪雨 温暖化影響と専門家指摘",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593321?source=rss",
-      "publishedAt": "2026-08-27T10:36:15.000Z",
-      "xQuery": "続く豪雨 温暖化影響と専門家指摘"
+      "url": "https://news.yahoo.co.jp/pickup/6593343?source=rss",
+      "publishedAt": "2026-08-27T14:58:24.000Z",
+      "xQuery": "熊本地震1カ月 日増しに傾く自宅"
     },
     {
       "time": "21:40",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "車水没 ドア蹴り脱出「死ぬかと」"
     },
     {
-      "time": "20:14",
-      "title": "ネパールの土石流 不明1000人以上",
+      "time": "23:19",
+      "title": "高級腕時計 窃盗容疑で男2人逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593324?source=rss",
-      "publishedAt": "2026-08-27T11:14:45.000Z",
-      "xQuery": "ネパールの土石流 不明1000人以上"
+      "url": "https://news.yahoo.co.jp/pickup/6593341?source=rss",
+      "publishedAt": "2026-08-27T14:19:29.000Z",
+      "xQuery": "高級腕時計 窃盗容疑で男2人逮捕"
     },
     {
-      "time": "20:42",
-      "title": "横浜市長 28日に進退表明へ",
+      "time": "21:09",
+      "title": "猛毒浴び院生死亡 北大がコメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593328?source=rss",
-      "publishedAt": "2026-08-27T11:42:29.000Z",
-      "xQuery": "横浜市長 28日に進退表明へ"
+      "url": "https://news.yahoo.co.jp/pickup/6593330?source=rss",
+      "publishedAt": "2026-08-27T12:09:25.000Z",
+      "xQuery": "猛毒浴び院生死亡 北大がコメント"
+    },
+    {
+      "time": "22:27",
+      "title": "転落に巻き込まれ娘死亡 父悲痛",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593335?source=rss",
+      "publishedAt": "2026-08-27T13:27:53.000Z",
+      "xQuery": "転落に巻き込まれ娘死亡 父悲痛"
     }
   ]
 };

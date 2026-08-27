@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T13:34:58.727Z",
+  "updatedAt": "2026-08-27T17:49:10.955Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-08-26T21:30:00.000Z"
       },
       {
+        "time": "15:05",
+        "title": "DN Solutions、インド・ベンガルールに初の製造工場を竣工…グローバル輸出拠点に育成",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCSUNtVTE2ZUEwU2dqamtWWTFqakJXVVBtbjVZVlc4cU00bDlURFJfalpOSVA3b3lqWlpmOE53NkdXQVE4TnEwOWdTNHYteVpXeU0tLVhhbWZ5R2U5WklTWHBCRkVpeVhqWmphMTc4c2ZjUWpK?oc=5",
+        "publishedAt": "2026-08-27T06:05:00.000Z"
+      },
+      {
         "time": "11:15",
         "title": "企業価値 新時代（4）エレファントジャパン 設備メンテナンス・清掃",
         "source": "日刊工業新聞",
@@ -50,13 +57,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QLUc3T3V3eU9KY29GcUZaazI5enJ6TUZWYm13QkdILUpXMEhCT1BxaTZVejh0SDlXZ1Q5RGtkRlFCaVk5T3ZDdERYd2ZkeWJRVjRHUUdxY29GNWRBbGRtTVptd0tmSlBwVVpWYUt4TQ?oc=5",
         "publishedAt": "2026-08-26T22:30:00.000Z"
-      },
-      {
-        "time": "00:00",
-        "title": "JIMTOF2026 （第33回日本国際工作機械見本市） 「Formnext」とのコラボレーションについて",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWU0txMXR5cWxGUWNPaG1lSVozQmJtUGxRMVhUSDlESG1nM0gxYnpCdnBUWEo1Q09Vc21BWHdrM0VHbjBTeTQ3QVU0eV95LW5uYUNpNThSOVdjUHdITGU5Y3VySGRCb2FMNGltelltT29pWHhvclZndVV4aw?oc=5",
-        "publishedAt": "2026-08-26T15:00:24.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593305?source=rss",
         "publishedAt": "2026-08-27T09:01:24.000Z"
+      },
+      {
+        "time": "22:36",
+        "title": "ネパール洪水 氷河崩落が原因か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593337?source=rss",
+        "publishedAt": "2026-08-27T13:36:19.000Z"
       },
       {
         "time": "20:14",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593336?source=rss",
         "publishedAt": "2026-08-27T13:29:34.000Z"
-      },
-      {
-        "time": "12:35",
-        "title": "米同時テロ主犯格 28年に公判開始",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593253?source=rss",
-        "publishedAt": "2026-08-27T03:35:23.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "23:58",
+        "title": "熊本地震1カ月 日増しに傾く自宅",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593343?source=rss",
+        "publishedAt": "2026-08-27T14:58:24.000Z"
+      },
+      {
         "time": "21:40",
         "title": "車水没 ドア蹴り脱出「死ぬかと」",
         "source": "Yahoo!ニュース",
@@ -156,11 +163,11 @@
         "publishedAt": "2026-08-27T12:40:24.000Z"
       },
       {
-        "time": "15:37",
-        "title": "まるで海のよう 氷見の景色一変",
+        "time": "23:19",
+        "title": "高級腕時計 窃盗容疑で男2人逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593280?source=rss",
-        "publishedAt": "2026-08-27T06:37:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593341?source=rss",
+        "publishedAt": "2026-08-27T14:19:29.000Z"
       },
       {
         "time": "20:42",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593328?source=rss",
         "publishedAt": "2026-08-27T11:42:29.000Z"
-      },
-      {
-        "time": "20:01",
-        "title": "滋賀県警 証拠品など計623点放置",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593322?source=rss",
-        "publishedAt": "2026-08-27T11:01:53.000Z"
       },
       {
         "time": "17:01",
