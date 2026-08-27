@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-27T09:42:21.433Z",
+  "updatedAt": "2026-08-27T13:34:59.591Z",
   "items": [
     {
-      "time": "18:01",
-      "title": "秋田で線状降水帯発生の恐れ 注意",
+      "time": "20:30",
+      "title": "28日は広い範囲で大雨予想 警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593304?source=rss",
-      "publishedAt": "2026-08-27T09:01:01.000Z",
-      "xQuery": "秋田で線状降水帯発生の恐れ 注意"
+      "url": "https://news.yahoo.co.jp/pickup/6593325?source=rss",
+      "publishedAt": "2026-08-27T11:30:51.000Z",
+      "xQuery": "28日は広い範囲で大雨予想 警戒を"
     },
     {
-      "time": "16:36",
-      "title": "政府が九州応援割実施へ 熊本地震",
+      "time": "19:36",
+      "title": "続く豪雨 温暖化影響と専門家指摘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593288?source=rss",
-      "publishedAt": "2026-08-27T07:36:03.000Z",
-      "xQuery": "政府が九州応援割実施へ 熊本地震"
+      "url": "https://news.yahoo.co.jp/pickup/6593321?source=rss",
+      "publishedAt": "2026-08-27T10:36:15.000Z",
+      "xQuery": "続く豪雨 温暖化影響と専門家指摘"
     },
     {
-      "time": "18:01",
-      "title": "草間さん死去 海外で大々的に報道",
+      "time": "21:40",
+      "title": "車水没 ドア蹴り脱出「死ぬかと」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593305?source=rss",
-      "publishedAt": "2026-08-27T09:01:24.000Z",
-      "xQuery": "草間さん死去 海外で大々的に報道"
+      "url": "https://news.yahoo.co.jp/pickup/6593333?source=rss",
+      "publishedAt": "2026-08-27T12:40:24.000Z",
+      "xQuery": "車水没 ドア蹴り脱出「死ぬかと」"
     },
     {
-      "time": "17:22",
-      "title": "転落に巻き込まれ女性死亡 男逮捕",
+      "time": "20:14",
+      "title": "ネパールの土石流 不明1000人以上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593297?source=rss",
-      "publishedAt": "2026-08-27T08:22:53.000Z",
-      "xQuery": "転落に巻き込まれ女性死亡 男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6593324?source=rss",
+      "publishedAt": "2026-08-27T11:14:45.000Z",
+      "xQuery": "ネパールの土石流 不明1000人以上"
     },
     {
-      "time": "17:01",
-      "title": "北大 実験中に薬品浴びて学生死亡",
+      "time": "20:42",
+      "title": "横浜市長 28日に進退表明へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593292?source=rss",
-      "publishedAt": "2026-08-27T08:01:32.000Z",
-      "xQuery": "北大 実験中に薬品浴びて学生死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6593328?source=rss",
+      "publishedAt": "2026-08-27T11:42:29.000Z",
+      "xQuery": "横浜市長 28日に進退表明へ"
     }
   ]
 };
