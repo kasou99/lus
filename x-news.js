@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-27T01:52:35.607Z",
+  "updatedAt": "2026-08-27T03:54:45.931Z",
   "items": [
     {
       "time": "10:28",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "石川・富山 18万人に緊急安全確保"
     },
     {
-      "time": "09:33",
-      "title": "北陸の大雨 マップでみる災害情報",
+      "time": "12:01",
+      "title": "北陸 28日朝にかけ再び大雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593227?source=rss",
-      "publishedAt": "2026-08-27T00:33:46.000Z",
-      "xQuery": "北陸の大雨 マップでみる災害情報"
+      "url": "https://news.yahoo.co.jp/pickup/6593248?source=rss",
+      "publishedAt": "2026-08-27T03:01:52.000Z",
+      "xQuery": "北陸 28日朝にかけ再び大雨の恐れ"
     },
     {
-      "time": "10:23",
-      "title": "氷見市 12h降水量が観測史上最大",
+      "time": "11:21",
+      "title": "川あふれ道路冠水 住民ら早朝避難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593234?source=rss",
-      "publishedAt": "2026-08-27T01:23:47.000Z",
-      "xQuery": "氷見市 12h降水量が観測史上最大"
+      "url": "https://news.yahoo.co.jp/pickup/6593241?source=rss",
+      "publishedAt": "2026-08-27T02:21:36.000Z",
+      "xQuery": "川あふれ道路冠水 住民ら早朝避難"
     },
     {
-      "time": "09:56",
-      "title": "羽咋市など 建物や車の浸水相次ぐ",
+      "time": "12:34",
+      "title": "怖い 石川・富山の住民に募る不安",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593231?source=rss",
-      "publishedAt": "2026-08-27T00:56:20.000Z",
-      "xQuery": "羽咋市など 建物や車の浸水相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6593254?source=rss",
+      "publishedAt": "2026-08-27T03:34:51.000Z",
+      "xQuery": "怖い 石川・富山の住民に募る不安"
     },
     {
-      "time": "09:24",
-      "title": "フグが交雑 毒の部位判然とせず",
+      "time": "11:56",
+      "title": "草間氏死去 直前まで絵筆手放さず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593223?source=rss",
-      "publishedAt": "2026-08-27T00:24:31.000Z",
-      "xQuery": "フグが交雑 毒の部位判然とせず"
+      "url": "https://news.yahoo.co.jp/pickup/6593249?source=rss",
+      "publishedAt": "2026-08-27T02:56:17.000Z",
+      "xQuery": "草間氏死去 直前まで絵筆手放さず"
     }
   ]
 };

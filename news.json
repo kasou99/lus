@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-27T01:52:34.670Z",
+  "updatedAt": "2026-08-27T03:54:45.170Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "11:15",
+        "title": "企業価値 新時代（4）エレファントジャパン 設備メンテナンス・清掃",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1cUV1QzJXQXVtZjdVTUxLbHZxaURXdUdRd1FoaEZNUDhseGN0c054X0ZIVF9yMVczbzh0MnVrN0hwVHNBZmZhUjRVNGhoaHg3eXlYNEhaS1JCQWhBc2tUUUpFM1E5MnZqWTVQdEF4dw?oc=5",
+        "publishedAt": "2026-08-27T02:15:00.000Z"
+      },
       {
         "time": "07:30",
         "title": "精密形彫り放電加工機2機種を投入へ、加工性能や自動化対応を向上 ソディック：工作機械",
@@ -17,25 +24,11 @@
         "publishedAt": "2026-08-26T21:30:00.000Z"
       },
       {
-        "time": "23:33",
-        "title": "6月の工作機械受注、52％増 アジア・北米伸長",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ldWVJRldxWlYzaDRFZWZYT2FWUFVpYzhIMmlrRUFVT3J5Tmo1YV9ITFlTbldVU1h4RHNDV3NfcktFWDRmYWJQSGFYbHFLX1BNQmJrRlRhQ2lWTUVFQlowUTFqZnRWZllScXF4U09rMA?oc=5",
-        "publishedAt": "2026-08-26T14:33:48.000Z"
-      },
-      {
         "time": "17:30",
         "title": "高性能低電圧サーボモーターの世界市場（2026年～2032年）、市場規模（500W以下、500～1500W、1500W以上）・分析レポートを発表",
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kU3hwaVd6UjVaNzdrV0dLMHl1T3o2M256dWRHaU1MVVEzR1ZYaVRvdTV3VERnRlZpVHdxWWtWZjhxNWQtWkVGbUptanFVeUU?oc=5",
         "publishedAt": "2026-08-26T08:30:00.000Z"
-      },
-      {
-        "time": "11:18",
-        "title": "株式会社サン機工 様 立形マシニングセンタ VM53RⅡ | 工作機械 | ニデック株式会社",
-        "source": "NIDEC CORPORATION",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPXzlNcXlfYW04VnZoRHNTOEZJZGdzMXRRNnpjQjgtU1hFX25Rb01qNzctTERTWVk3RG1MendkVk9DUFQtNXpDMlNmdGcxaXpfVmpfRWwtLXp2SnFMNDUtemcyMHRfZkZrQ1JkcHUtQ25tTG9DNjd3cXZuU1N3VXBrZlZRRFVhSExGRy1VRTJBbjkyY05BVlE?oc=5",
-        "publishedAt": "2026-08-26T02:18:58.000Z"
       },
       {
         "time": "00:00",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-08-26T15:00:24.000Z"
       },
       {
-        "time": "23:03",
-        "title": "森精機、ＣＮＣ旋盤４種投入−熱変位量が３分の１以下",
+        "time": "23:33",
+        "title": "6月の工作機械受注、52％増 アジア・北米伸長",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yMVQ5aDluR1FGVkdYNUpuaEQyMzFKNlhRbk16aGQ4cGtJSmtCUGxwekZfQTFYcmg2MTRkS2NjS3lMT1NnQXREZU8xX2otVjlFTlBMRWdJczBldnZYNlNyc2huWHg4d2c1c19fNDhHcw?oc=5",
-        "publishedAt": "2026-08-26T14:03:14.000Z"
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ldWVJRldxWlYzaDRFZWZYT2FWUFVpYzhIMmlrRUFVT3J5Tmo1YV9ITFlTbldVU1h4RHNDV3NfcktFWDRmYWJQSGFYbHFLX1BNQmJrRlRhQ2lWTUVFQlowUTFqZnRWZllScXF4U09rMA?oc=5",
+        "publishedAt": "2026-08-26T14:33:48.000Z"
       },
       {
-        "time": "06:53",
-        "title": "経営ひと言／三宝精機工業・金子一彦社長「廃番機械支える」",
+        "time": "21:53",
+        "title": "東大など、切削中の金属を透過撮影 工作機械開発に応用",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oNnVvdHRvdjhUM1VKdXoyYjVCZGpQb2J4cG5JWmFseHBTM0dSc3pDWGdjU1VsR1Vzck94b3F2eTVmbHhnRG9IM1dGTENxZXl5dUYtS09VdEc?oc=5",
-        "publishedAt": "2026-08-26T21:53:05.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JVFVFaHRFV2Q4SFhveHRDdDNrU0pBM0hFNTJ0WkJ0ek1wbEdXQzgxZjR5cExvSlVMMTJIZHptbklGOVlmSUxZZHU5OG41djRMWW1TWFVRMmc?oc=5",
+        "publishedAt": "2026-08-26T12:53:01.000Z"
+      },
+      {
+        "time": "04:00",
+        "title": "AIで自動切削 実用化 アルム 未経験者 対話で誘導",
+        "source": "沖縄タイムス社",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MaUZBVjVFOU5ta05qWGg0bEZHVy1oR0ZGOF8wZDFNQk9HaGVIZ05aaEJReHBWSkVmNTA1eVdGSWFRWkFNYzNSanY4VDRscXVXSjhWMXd0Vk5XM19uUlE?oc=5",
+        "publishedAt": "2026-08-26T19:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-08-26T08:49:46.000Z"
       },
       {
-        "time": "22:42",
-        "title": "ヘンリー王子一家が帰国 英報道",
+        "time": "12:35",
+        "title": "米同時テロ主犯格 28年に公判開始",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593191?source=rss",
-        "publishedAt": "2026-08-26T13:42:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593253?source=rss",
+        "publishedAt": "2026-08-27T03:35:23.000Z"
       },
       {
-        "time": "20:37",
-        "title": "火災で新生児14人死亡 パキスタン",
+        "time": "21:12",
+        "title": "イラン戦争 米軍基地に重い課題",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593181?source=rss",
-        "publishedAt": "2026-08-26T11:37:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593165?source=rss",
+        "publishedAt": "2026-08-26T12:12:50.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,11 +133,11 @@
         "publishedAt": "2026-08-27T00:04:36.000Z"
       },
       {
-        "time": "13:29",
-        "title": "セブンとヤマト セルフ発送機発表",
+        "time": "12:05",
+        "title": "揺らぐ花火大会 どう存続させる?",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593127?source=rss",
-        "publishedAt": "2026-08-26T04:29:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593252?source=rss",
+        "publishedAt": "2026-08-27T03:05:09.000Z"
       },
       {
         "time": "09:51",
@@ -154,6 +154,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593236?source=rss",
         "publishedAt": "2026-08-27T01:28:30.000Z"
+      },
+      {
+        "time": "11:21",
+        "title": "川あふれ道路冠水 住民ら早朝避難",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593241?source=rss",
+        "publishedAt": "2026-08-27T02:21:36.000Z"
+      },
+      {
+        "time": "12:34",
+        "title": "怖い 石川・富山の住民に募る不安",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593254?source=rss",
+        "publishedAt": "2026-08-27T03:34:51.000Z"
       },
       {
         "time": "09:33",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593234?source=rss",
         "publishedAt": "2026-08-27T01:23:47.000Z"
-      },
-      {
-        "time": "09:56",
-        "title": "羽咋市など 建物や車の浸水相次ぐ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593231?source=rss",
-        "publishedAt": "2026-08-27T00:56:20.000Z"
-      },
-      {
-        "time": "09:37",
-        "title": "沖縄知事選が告示 6人が立候補",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593225?source=rss",
-        "publishedAt": "2026-08-27T00:37:08.000Z"
       }
     ],
     "subsidyHeadlines": [
