@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T10:38:25.483Z",
+  "updatedAt": "2026-08-28T15:04:43.769Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sc3hiT01tUmVIVWN1SmFmZ2hFRTQxWlhfX0VZRzNZRnpQWUs2SUYwdkZZcXZPeVBYWGRJYlUwbEJrTVpDcnJvU1dUTVRIQV9oT2pxM0tkeDR4M28?oc=5",
         "publishedAt": "2026-08-27T22:43:36.000Z"
+      },
+      {
+        "time": "13:50",
+        "title": "〔Market Flash〕7月工作機械受注は欧州で意外な増加～野村",
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mYURWNHl1bTJXNWJraFJmM1otMHZ1NUhNOGprQjhsTDVrS29MWTBuUkNLejhaRUdTVHJ3SFZrRmdFWE81TGw4czRkb01zUjJWdzhoZ2lSNEhfelRtaFRUcUNhM0paTnlkV3lTS0VuNms?oc=5",
+        "publishedAt": "2026-08-28T04:50:00.000Z"
       },
       {
         "time": "13:00",
@@ -24,18 +31,18 @@
         "publishedAt": "2026-08-27T20:00:00.000Z"
       },
       {
-        "time": "13:50",
-        "title": "〔Market Flash〕7月工作機械受注は欧州で意外な増加～野村 | 個別記事 | ニュース",
-        "source": "トレーダーズ・ウェブ",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1obFF5T0hBVm1CbFpuRG96NWJ3NFBsMnd2cHZnUURJY0l6V0sxOW9lV0xKQ1VIMThqZFNHTWYwOHJTQ28xTlg1V2dMU0ZmaU5hZjdzWVd0c2NtZHds?oc=5",
-        "publishedAt": "2026-08-28T04:50:00.000Z"
-      },
-      {
         "time": "05:10",
         "title": "７月工作機械受注50％増 日工会、13ヵ月連続プラス",
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fMWNpUDJ5ODVMbDFMN0lnQ05ha2wxNjd1eUNUQWtsbEExdnVaZzUyV0c2dXQ3bHpId3pRV1B0X2ZqRzZBMUpYWmJpbVhZSl96M29vRDFkZ1JadWxNMWg5YUxiU1B3dnEwSk9QOXljZW13aUE?oc=5",
         "publishedAt": "2026-08-27T20:10:39.000Z"
+      },
+      {
+        "time": "13:50",
+        "title": "〔Market Flash〕7月工作機械受注は欧州で意外な増加～野村 | 個別記事 | ニュース",
+        "source": "トレーダーズ・ウェブ",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1obFF5T0hBVm1CbFpuRG96NWJ3NFBsMnd2cHZnUURJY0l6V0sxOW9lV0xKQ1VIMThqZFNHTWYwOHJTQ28xTlg1V2dMU0ZmaU5hZjdzWVd0c2NtZHds?oc=5",
+        "publishedAt": "2026-08-28T04:50:00.000Z"
       },
       {
         "time": "02:47",
@@ -50,22 +57,29 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xc0RmY3ZDd0RJcHZGbjRmdEFpdmRWSDZQOTBMOUZTdm9KY0dicjdDbWRoTFhuOTRQalB6YzRFaW9HLU1veWlPaGlxVnFfSEhjTVRZVnpBY2hqbk0?oc=5",
         "publishedAt": "2026-08-27T20:00:00.000Z"
-      },
-      {
-        "time": "19:51",
-        "title": "最大可搬質量43kgを実現した 電極・ワーク交換装置「SZ50」販売開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZNUFnRjFlOHlYQ2xqa05nYXZBcVY2eW1tNXM2T3JoZC1VcUJXdzA5eWl5YUNQcjFfSmxOUEZoMmxIWVpmajBxOHVxeWxPNGNmbVRFZ1Nra3BqLTRiYmREVjNiNk5ZTElaUVFta0M4NHRaNmlkRzIwZVNJTQ?oc=5",
-        "publishedAt": "2026-08-27T10:51:30.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "22:27",
+        "title": "姿見せないモジタバ師 深まる疑念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593454?source=rss",
+        "publishedAt": "2026-08-28T13:27:15.000Z"
+      },
       {
         "time": "07:54",
         "title": "イラン攻撃半年 収束の道筋見えず",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593354?source=rss",
         "publishedAt": "2026-08-27T22:54:33.000Z"
+      },
+      {
+        "time": "22:59",
+        "title": "ネパールで不明の邦人 小学生も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593457?source=rss",
+        "publishedAt": "2026-08-28T13:59:17.000Z"
       },
       {
         "time": "12:19",
@@ -87,23 +101,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593381?source=rss",
         "publishedAt": "2026-08-28T03:00:16.000Z"
-      },
-      {
-        "time": "16:24",
-        "title": "ノルウェー国王 ハラルド5世死去",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593405?source=rss",
-        "publishedAt": "2026-08-28T07:24:30.000Z"
-      },
-      {
-        "time": "14:06",
-        "title": "米大統領 太平洋の名称変更を示唆",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593396?source=rss",
-        "publishedAt": "2026-08-28T05:06:45.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "20:42",
+        "title": "1カ月の為替介入15兆円超 財務省",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593438?source=rss",
+        "publishedAt": "2026-08-28T11:42:15.000Z"
+      },
       {
         "time": "19:35",
         "title": "9月の電気ガス 全地域で値上がり",
@@ -119,6 +126,13 @@
         "publishedAt": "2026-08-28T09:09:16.000Z"
       },
       {
+        "time": "22:50",
+        "title": "ガンホーとSME 資本業務提携",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593456?source=rss",
+        "publishedAt": "2026-08-28T13:50:40.000Z"
+      },
+      {
         "time": "18:59",
         "title": "大阪知事 USJ拡張意向聞いていた",
         "source": "Yahoo!ニュース",
@@ -131,29 +145,15 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593393?source=rss",
         "publishedAt": "2026-08-28T04:30:36.000Z"
-      },
-      {
-        "time": "15:54",
-        "title": "壱番屋 7%の深夜料金9月から導入",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593401?source=rss",
-        "publishedAt": "2026-08-28T06:54:43.000Z"
-      },
-      {
-        "time": "16:22",
-        "title": "「NISA貧乏」極限の投資生活 実態",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593404?source=rss",
-        "publishedAt": "2026-08-28T07:22:55.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "16:32",
-        "title": "核燃料貯蔵施設 福井県知事が了解",
+        "time": "22:14",
+        "title": "熊本県 地震による水道の断水解消",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593406?source=rss",
-        "publishedAt": "2026-08-28T07:32:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593449?source=rss",
+        "publishedAt": "2026-08-28T13:14:42.000Z"
       },
       {
         "time": "18:25",
@@ -163,13 +163,6 @@
         "publishedAt": "2026-08-28T09:25:13.000Z"
       },
       {
-        "time": "16:57",
-        "title": "横浜市長が辞職表明 市政混乱陳謝",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593410?source=rss",
-        "publishedAt": "2026-08-28T07:57:46.000Z"
-      },
-      {
         "time": "16:44",
         "title": "67台絡んだ事故 26人を書類送検",
         "source": "Yahoo!ニュース",
@@ -177,18 +170,25 @@
         "publishedAt": "2026-08-28T07:44:13.000Z"
       },
       {
+        "time": "19:43",
+        "title": "社員死亡 数年前から給与未払いか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593434?source=rss",
+        "publishedAt": "2026-08-28T10:43:27.000Z"
+      },
+      {
+        "time": "22:17",
+        "title": "飲酒事故で2児失う 耳残る泣き声",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593450?source=rss",
+        "publishedAt": "2026-08-28T13:17:37.000Z"
+      },
+      {
         "time": "18:18",
         "title": "小学校でひき逃げか 児童の父憤り",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593426?source=rss",
         "publishedAt": "2026-08-28T09:18:04.000Z"
-      },
-      {
-        "time": "14:34",
-        "title": "モームリ前社長と妻に有罪判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593398?source=rss",
-        "publishedAt": "2026-08-28T05:34:39.000Z"
       }
     ],
     "subsidyHeadlines": [

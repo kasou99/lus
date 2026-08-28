@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-28T10:38:26.277Z",
+  "updatedAt": "2026-08-28T15:04:45.042Z",
   "items": [
     {
-      "time": "18:17",
-      "title": "北陸や東北で警報級大雨恐れ 警戒",
+      "time": "22:14",
+      "title": "熊本県 地震による水道の断水解消",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593425?source=rss",
-      "publishedAt": "2026-08-28T09:17:42.000Z",
-      "xQuery": "北陸や東北で警報級大雨恐れ 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6593449?source=rss",
+      "publishedAt": "2026-08-28T13:14:42.000Z",
+      "xQuery": "熊本県 地震による水道の断水解消"
     },
     {
-      "time": "17:27",
-      "title": "市岡元気 家庭苦しくても夢諦めず",
+      "time": "13:43",
+      "title": "ゲイツ氏のAI巡る提言 実効性は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593416?source=rss",
-      "publishedAt": "2026-08-28T08:27:26.000Z",
-      "xQuery": "市岡元気 家庭苦しくても夢諦めず"
+      "url": "https://news.yahoo.co.jp/pickup/6593385?source=rss",
+      "publishedAt": "2026-08-28T04:43:32.000Z",
+      "xQuery": "ゲイツ氏のAI巡る提言 実効性は"
     },
     {
-      "time": "18:25",
-      "title": "中高生流され3人行方不明 鹿児島",
+      "time": "22:27",
+      "title": "姿見せないモジタバ師 深まる疑念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593429?source=rss",
-      "publishedAt": "2026-08-28T09:25:13.000Z",
-      "xQuery": "中高生流され3人行方不明 鹿児島"
+      "url": "https://news.yahoo.co.jp/pickup/6593454?source=rss",
+      "publishedAt": "2026-08-28T13:27:15.000Z",
+      "xQuery": "姿見せないモジタバ師 深まる疑念"
     },
     {
-      "time": "18:18",
-      "title": "小学校でひき逃げか 児童の父憤り",
+      "time": "22:59",
+      "title": "ネパールで不明の邦人 小学生も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593426?source=rss",
-      "publishedAt": "2026-08-28T09:18:04.000Z",
-      "xQuery": "小学校でひき逃げか 児童の父憤り"
+      "url": "https://news.yahoo.co.jp/pickup/6593457?source=rss",
+      "publishedAt": "2026-08-28T13:59:17.000Z",
+      "xQuery": "ネパールで不明の邦人 小学生も"
     },
     {
-      "time": "18:59",
-      "title": "大阪知事 USJ拡張意向聞いていた",
+      "time": "22:50",
+      "title": "ガンホーとSME 資本業務提携",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593431?source=rss",
-      "publishedAt": "2026-08-28T09:59:00.000Z",
-      "xQuery": "大阪知事 USJ拡張意向聞いていた"
+      "url": "https://news.yahoo.co.jp/pickup/6593456?source=rss",
+      "publishedAt": "2026-08-28T13:50:40.000Z",
+      "xQuery": "ガンホーとSME 資本業務提携"
     }
   ]
 };
