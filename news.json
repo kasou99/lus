@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T06:41:35.897Z",
+  "updatedAt": "2026-08-28T10:38:25.483Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-08-27T20:00:00.000Z"
       },
       {
-        "time": "05:10",
-        "title": "７月工作機械受注50％増 日工会、13ヵ月連続プラス",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fMWNpUDJ5ODVMbDFMN0lnQ05ha2wxNjd1eUNUQWtsbEExdnVaZzUyV0c2dXQ3bHpId3pRV1B0X2ZqRzZBMUpYWmJpbVhZSl96M29vRDFkZ1JadWxNMWg5YUxiU1B3dnEwSk9QOXljZW13aUE?oc=5",
-        "publishedAt": "2026-08-27T20:10:39.000Z"
-      },
-      {
         "time": "13:50",
         "title": "〔Market Flash〕7月工作機械受注は欧州で意外な増加～野村 | 個別記事 | ニュース",
         "source": "トレーダーズ・ウェブ",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1obFF5T0hBVm1CbFpuRG96NWJ3NFBsMnd2cHZnUURJY0l6V0sxOW9lV0xKQ1VIMThqZFNHTWYwOHJTQ28xTlg1V2dMU0ZmaU5hZjdzWVd0c2NtZHds?oc=5",
         "publishedAt": "2026-08-28T04:50:00.000Z"
+      },
+      {
+        "time": "05:10",
+        "title": "７月工作機械受注50％増 日工会、13ヵ月連続プラス",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fMWNpUDJ5ODVMbDFMN0lnQ05ha2wxNjd1eUNUQWtsbEExdnVaZzUyV0c2dXQ3bHpId3pRV1B0X2ZqRzZBMUpYWmJpbVhZSl96M29vRDFkZ1JadWxNMWg5YUxiU1B3dnEwSk9QOXljZW13aUE?oc=5",
+        "publishedAt": "2026-08-27T20:10:39.000Z"
       },
       {
         "time": "02:47",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-27T17:47:01.000Z"
       },
       {
-        "time": "15:59",
-        "title": "7月の工作機械受注5割増、半導体とデータセンター向け好調続く",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZnFCbnF3OFh4eUpYYy01ZndjNjNzVXFGUWo2RHRROHUyX1pnalpKQnZ5VDZoRUlFRlNCc0JoVzNhTFRjMTNpTEZBN21zVnA2SjVmX29PUWwwdEd0dVY5cTAxVzdfang4TURHUw?oc=5",
-        "publishedAt": "2026-08-27T06:59:41.000Z"
+        "time": "05:00",
+        "title": "キタムラフォーセット、大型対応CNC旋盤導入 水栓以外を開拓",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xc0RmY3ZDd0RJcHZGbjRmdEFpdmRWSDZQOTBMOUZTdm9KY0dicjdDbWRoTFhuOTRQalB6YzRFaW9HLU1veWlPaGlxVnFfSEhjTVRZVnpBY2hqbk0?oc=5",
+        "publishedAt": "2026-08-27T20:00:00.000Z"
       },
       {
-        "time": "01:15",
-        "title": "普段は房総を走る「B.B.BASE」が群馬へ！クラフトビールと地酒を楽しむ特別列車ツアーを発売",
+        "time": "19:51",
+        "title": "最大可搬質量43kgを実現した 電極・ワーク交換装置「SZ50」販売開始",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1INmpCZ0ZXQ1lRcDRHeWFqdElaSXlBdXM1QURNcUZTMG9sZDhtaTFkc3JUYVdDQWRoSjlMTzhPanRJNGpHUXBUSGN6TkJuWi1BNDlFUw?oc=5",
-        "publishedAt": "2026-08-27T16:15:28.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZNUFnRjFlOHlYQ2xqa05nYXZBcVY2eW1tNXM2T3JoZC1VcUJXdzA5eWl5YUNQcjFfSmxOUEZoMmxIWVpmajBxOHVxeWxPNGNmbVRFZ1Nra3BqLTRiYmREVjNiNk5ZTElaUVFta0M4NHRaNmlkRzIwZVNJTQ?oc=5",
+        "publishedAt": "2026-08-27T10:51:30.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,18 +68,18 @@
         "publishedAt": "2026-08-27T22:54:33.000Z"
       },
       {
-        "time": "22:36",
-        "title": "ネパール洪水 氷河崩落が原因か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593337?source=rss",
-        "publishedAt": "2026-08-27T13:36:19.000Z"
-      },
-      {
         "time": "12:19",
         "title": "ネパールで不明日本人ら 名簿公表",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593387?source=rss",
         "publishedAt": "2026-08-28T03:19:05.000Z"
+      },
+      {
+        "time": "15:41",
+        "title": "ネパール洪水 国境検問施設が消失",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593400?source=rss",
+        "publishedAt": "2026-08-28T06:41:28.000Z"
       },
       {
         "time": "12:00",
@@ -89,34 +89,41 @@
         "publishedAt": "2026-08-28T03:00:16.000Z"
       },
       {
+        "time": "16:24",
+        "title": "ノルウェー国王 ハラルド5世死去",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593405?source=rss",
+        "publishedAt": "2026-08-28T07:24:30.000Z"
+      },
+      {
         "time": "14:06",
         "title": "米大統領 太平洋の名称変更を示唆",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593396?source=rss",
         "publishedAt": "2026-08-28T05:06:45.000Z"
-      },
-      {
-        "time": "18:01",
-        "title": "草間さん死去 海外で大々的に報道",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593305?source=rss",
-        "publishedAt": "2026-08-27T09:01:24.000Z"
       }
     ],
     "economyHeadlines": [
       {
-        "time": "19:09",
-        "title": "コメ価格左右「概算金」なぜ必要",
+        "time": "19:35",
+        "title": "9月の電気ガス 全地域で値上がり",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593317?source=rss",
-        "publishedAt": "2026-08-27T10:09:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593433?source=rss",
+        "publishedAt": "2026-08-28T10:35:55.000Z"
       },
       {
-        "time": "16:36",
-        "title": "政府が九州応援割実施へ 熊本地震",
+        "time": "18:09",
+        "title": "社員逮捕 竹中工務店の副社長謝罪",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593288?source=rss",
-        "publishedAt": "2026-08-27T07:36:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593423?source=rss",
+        "publishedAt": "2026-08-28T09:09:16.000Z"
+      },
+      {
+        "time": "18:59",
+        "title": "大阪知事 USJ拡張意向聞いていた",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593431?source=rss",
+        "publishedAt": "2026-08-28T09:59:00.000Z"
       },
       {
         "time": "13:30",
@@ -126,48 +133,55 @@
         "publishedAt": "2026-08-28T04:30:36.000Z"
       },
       {
-        "time": "19:27",
-        "title": "イオン145品目値下げへ 期間限定",
+        "time": "15:54",
+        "title": "壱番屋 7%の深夜料金9月から導入",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593319?source=rss",
-        "publishedAt": "2026-08-27T10:27:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593401?source=rss",
+        "publishedAt": "2026-08-28T06:54:43.000Z"
       },
       {
-        "time": "08:37",
-        "title": "なぜ「定年廃止」 変わる人事制度",
+        "time": "16:22",
+        "title": "「NISA貧乏」極限の投資生活 実態",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593356?source=rss",
-        "publishedAt": "2026-08-27T23:37:19.000Z"
-      },
-      {
-        "time": "17:55",
-        "title": "バレるの怖い 発達障害伏せて就労",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593303?source=rss",
-        "publishedAt": "2026-08-27T08:55:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593404?source=rss",
+        "publishedAt": "2026-08-28T07:22:55.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "07:35",
-        "title": "熊本地震1カ月 今も約2500人避難",
+        "time": "16:32",
+        "title": "核燃料貯蔵施設 福井県知事が了解",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593351?source=rss",
-        "publishedAt": "2026-08-27T22:35:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593406?source=rss",
+        "publishedAt": "2026-08-28T07:32:24.000Z"
       },
       {
-        "time": "14:06",
-        "title": "イオン爆発の遺族 寂しさや悔しさ",
+        "time": "18:25",
+        "title": "中高生流され3人行方不明 鹿児島",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593397?source=rss",
-        "publishedAt": "2026-08-28T05:06:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593429?source=rss",
+        "publishedAt": "2026-08-28T09:25:13.000Z"
       },
       {
-        "time": "13:03",
-        "title": "横浜市長 辞職の意向を表明",
+        "time": "16:57",
+        "title": "横浜市長が辞職表明 市政混乱陳謝",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593391?source=rss",
-        "publishedAt": "2026-08-28T04:03:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593410?source=rss",
+        "publishedAt": "2026-08-28T07:57:46.000Z"
+      },
+      {
+        "time": "16:44",
+        "title": "67台絡んだ事故 26人を書類送検",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593408?source=rss",
+        "publishedAt": "2026-08-28T07:44:13.000Z"
+      },
+      {
+        "time": "18:18",
+        "title": "小学校でひき逃げか 児童の父憤り",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593426?source=rss",
+        "publishedAt": "2026-08-28T09:18:04.000Z"
       },
       {
         "time": "14:34",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593398?source=rss",
         "publishedAt": "2026-08-28T05:34:39.000Z"
-      },
-      {
-        "time": "11:42",
-        "title": "うつ病で2年半こもる 回復後の道",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593380?source=rss",
-        "publishedAt": "2026-08-28T02:42:04.000Z"
-      },
-      {
-        "time": "06:16",
-        "title": "部下に暴行し死なせた疑い 男逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593345?source=rss",
-        "publishedAt": "2026-08-27T21:16:15.000Z"
       }
     ],
     "subsidyHeadlines": [

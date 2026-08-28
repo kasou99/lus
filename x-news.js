@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-28T06:41:36.492Z",
+  "updatedAt": "2026-08-28T10:38:26.277Z",
   "items": [
     {
-      "time": "12:00",
-      "title": "ネパール せき止め湖が決壊の危険",
+      "time": "18:17",
+      "title": "北陸や東北で警報級大雨恐れ 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593381?source=rss",
-      "publishedAt": "2026-08-28T03:00:16.000Z",
-      "xQuery": "ネパール せき止め湖が決壊の危険"
+      "url": "https://news.yahoo.co.jp/pickup/6593425?source=rss",
+      "publishedAt": "2026-08-28T09:17:42.000Z",
+      "xQuery": "北陸や東北で警報級大雨恐れ 警戒"
     },
     {
-      "time": "14:06",
-      "title": "イオン爆発の遺族 寂しさや悔しさ",
+      "time": "17:27",
+      "title": "市岡元気 家庭苦しくても夢諦めず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593397?source=rss",
-      "publishedAt": "2026-08-28T05:06:42.000Z",
-      "xQuery": "イオン爆発の遺族 寂しさや悔しさ"
+      "url": "https://news.yahoo.co.jp/pickup/6593416?source=rss",
+      "publishedAt": "2026-08-28T08:27:26.000Z",
+      "xQuery": "市岡元気 家庭苦しくても夢諦めず"
     },
     {
-      "time": "14:27",
-      "title": "インフルが全国で流行入り 厚労省",
+      "time": "18:25",
+      "title": "中高生流され3人行方不明 鹿児島",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593399?source=rss",
-      "publishedAt": "2026-08-28T05:27:46.000Z",
-      "xQuery": "インフルが全国で流行入り 厚労省"
+      "url": "https://news.yahoo.co.jp/pickup/6593429?source=rss",
+      "publishedAt": "2026-08-28T09:25:13.000Z",
+      "xQuery": "中高生流され3人行方不明 鹿児島"
     },
     {
-      "time": "14:06",
-      "title": "米大統領 太平洋の名称変更を示唆",
+      "time": "18:18",
+      "title": "小学校でひき逃げか 児童の父憤り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593396?source=rss",
-      "publishedAt": "2026-08-28T05:06:45.000Z",
-      "xQuery": "米大統領 太平洋の名称変更を示唆"
+      "url": "https://news.yahoo.co.jp/pickup/6593426?source=rss",
+      "publishedAt": "2026-08-28T09:18:04.000Z",
+      "xQuery": "小学校でひき逃げか 児童の父憤り"
     },
     {
-      "time": "14:34",
-      "title": "モームリ前社長と妻に有罪判決",
+      "time": "18:59",
+      "title": "大阪知事 USJ拡張意向聞いていた",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593398?source=rss",
-      "publishedAt": "2026-08-28T05:34:39.000Z",
-      "xQuery": "モームリ前社長と妻に有罪判決"
+      "url": "https://news.yahoo.co.jp/pickup/6593431?source=rss",
+      "publishedAt": "2026-08-28T09:59:00.000Z",
+      "xQuery": "大阪知事 USJ拡張意向聞いていた"
     }
   ]
 };
