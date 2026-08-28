@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-28T15:04:45.042Z",
+  "updatedAt": "2026-08-28T19:32:45.280Z",
   "items": [
+    {
+      "time": "00:05",
+      "title": "FRBによる9月利​上げ観測高まる",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593460?source=rss",
+      "publishedAt": "2026-08-28T15:05:19.000Z",
+      "xQuery": "FRBによる9月利​上げ観測高まる"
+    },
     {
       "time": "22:14",
       "title": "熊本県 地震による水道の断水解消",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593449?source=rss",
       "publishedAt": "2026-08-28T13:14:42.000Z",
       "xQuery": "熊本県 地震による水道の断水解消"
-    },
-    {
-      "time": "13:43",
-      "title": "ゲイツ氏のAI巡る提言 実効性は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593385?source=rss",
-      "publishedAt": "2026-08-28T04:43:32.000Z",
-      "xQuery": "ゲイツ氏のAI巡る提言 実効性は"
     },
     {
       "time": "22:27",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパールで不明の邦人 小学生も"
     },
     {
-      "time": "22:50",
-      "title": "ガンホーとSME 資本業務提携",
+      "time": "22:17",
+      "title": "飲酒事故で2児失う 耳残る泣き声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593456?source=rss",
-      "publishedAt": "2026-08-28T13:50:40.000Z",
-      "xQuery": "ガンホーとSME 資本業務提携"
+      "url": "https://news.yahoo.co.jp/pickup/6593450?source=rss",
+      "publishedAt": "2026-08-28T13:17:37.000Z",
+      "xQuery": "飲酒事故で2児失う 耳残る泣き声"
     }
   ]
 };

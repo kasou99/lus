@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-28T15:04:43.769Z",
+  "updatedAt": "2026-08-28T19:32:42.419Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "07:43",
-        "title": "工作機械受注、7月50％増 北米・アジア好調けん引",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sc3hiT01tUmVIVWN1SmFmZ2hFRTQxWlhfX0VZRzNZRnpQWUs2SUYwdkZZcXZPeVBYWGRJYlUwbEJrTVpDcnJvU1dUTVRIQV9oT2pxM0tkeDR4M28?oc=5",
-        "publishedAt": "2026-08-27T22:43:36.000Z"
+        "time": "13:00",
+        "title": "小型低背スイッチング電源に最大65WのUSB PD対応モデル フエニックスコンタクト：FAニュース",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GUGdsVGI0TTRKRnptTHdOLWNCMzJZS2dVaVlGU21FN0VzT1FhWXNGTUNybThHTXJjSEdqbnduOTFkamFUT1ZjV0FMMExMRUNoRWRnRkhnTVYyOWtya2NEbGpOQlpfSG5LRHE3UXFGRQ?oc=5",
+        "publishedAt": "2026-08-28T04:00:00.000Z"
       },
       {
         "time": "13:50",
@@ -17,11 +17,11 @@
         "publishedAt": "2026-08-28T04:50:00.000Z"
       },
       {
-        "time": "13:00",
-        "title": "小型低背スイッチング電源に最大65WのUSB PD対応モデル フエニックスコンタクト：FAニュース",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GUGdsVGI0TTRKRnptTHdOLWNCMzJZS2dVaVlGU21FN0VzT1FhWXNGTUNybThHTXJjSEdqbnduOTFkamFUT1ZjV0FMMExMRUNoRWRnRkhnTVYyOWtya2NEbGpOQlpfSG5LRHE3UXFGRQ?oc=5",
-        "publishedAt": "2026-08-28T04:00:00.000Z"
+        "time": "07:43",
+        "title": "工作機械受注、7月50％増 北米・アジア好調けん引",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sc3hiT01tUmVIVWN1SmFmZ2hFRTQxWlhfX0VZRzNZRnpQWUs2SUYwdkZZcXZPeVBYWGRJYlUwbEJrTVpDcnJvU1dUTVRIQV9oT2pxM0tkeDR4M28?oc=5",
+        "publishedAt": "2026-08-27T22:43:36.000Z"
       },
       {
         "time": "05:00",
@@ -29,6 +29,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZdG1RdVpJRnFzQ1NoZWFBVUNPLXRVVnZfVU9PRTJQa2c2SHR5c1Q4M1JJNUJFdExNSUxHY3pMMExtRVhXSVBDbkp5NmFKb3p1dEVCY0E5QzFBbWFDSUx5YVNfc19lTlFxYUJ2TEFXVG1XTFQyZWdZM1RYZTJ6dnc?oc=5",
         "publishedAt": "2026-08-27T20:00:00.000Z"
+      },
+      {
+        "time": "13:50",
+        "title": "〔Market Flash〕7月工作機械受注は欧州で意外な増加～野村 | 個別記事 | ニュース",
+        "source": "トレーダーズ・ウェブ",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1obFF5T0hBVm1CbFpuRG96NWJ3NFBsMnd2cHZnUURJY0l6V0sxOW9lV0xKQ1VIMThqZFNHTWYwOHJTQ28xTlg1V2dMU0ZmaU5hZjdzWVd0c2NtZHds?oc=5",
+        "publishedAt": "2026-08-28T04:50:00.000Z"
       },
       {
         "time": "05:10",
@@ -39,24 +46,17 @@
       },
       {
         "time": "13:50",
-        "title": "〔Market Flash〕7月工作機械受注は欧州で意外な増加～野村 | 個別記事 | ニュース",
-        "source": "トレーダーズ・ウェブ",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1obFF5T0hBVm1CbFpuRG96NWJ3NFBsMnd2cHZnUURJY0l6V0sxOW9lV0xKQ1VIMThqZFNHTWYwOHJTQ28xTlg1V2dMU0ZmaU5hZjdzWVd0c2NtZHds?oc=5",
-        "publishedAt": "2026-08-28T04:50:00.000Z"
+        "title": "鹿児島精機が霧島に新工場、半導体・宇宙向け増産",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EaUNpRS1yV2VYSmhGa3NfQ2xfUkxqaXY0TEVZZlMyckRXLWlLMUltRjZ6ejNkaDllTjNWcWFKWF9OS2t0UW1HSw?oc=5",
+        "publishedAt": "2026-08-28T04:50:39.000Z"
       },
       {
-        "time": "02:47",
-        "title": "工作機械の新型2種発表 ジェイテクト、約4年ぶり：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tR2JwcUpEYzIzakVidU9vaUtXTkVnZXF2RlZNTDV5dGROZTJ2a3Fsd2o4S0VhWmI2YlR1OGZaSHQ0a0Z2ZWE0WTZmOG1TXzJaNjFMaTc0bVhHa1pTNzFZ?oc=5",
-        "publishedAt": "2026-08-27T17:47:01.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "キタムラフォーセット、大型対応CNC旋盤導入 水栓以外を開拓",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xc0RmY3ZDd0RJcHZGbjRmdEFpdmRWSDZQOTBMOUZTdm9KY0dicjdDbWRoTFhuOTRQalB6YzRFaW9HLU1veWlPaGlxVnFfSEhjTVRZVnpBY2hqbk0?oc=5",
-        "publishedAt": "2026-08-27T20:00:00.000Z"
+        "time": "17:03",
+        "title": "◎エンシュウ、９月３０日にタイ子会社の生産停止",
+        "source": "時事通信ニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xNlNFVjQxVklsSVBDVEdFOE82S0NYU0Q3ZS1iRlZzX0JlTXNMT3lBMVFFM25wWmZmc0dVeF9Ma0FlSU5pc29DaFVaQzhSSmN0VXhmQg?oc=5",
+        "publishedAt": "2026-08-28T08:03:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "00:05",
+        "title": "FRBによる9月利​上げ観測高まる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593460?source=rss",
+        "publishedAt": "2026-08-28T15:05:19.000Z"
+      },
+      {
         "time": "20:42",
         "title": "1カ月の為替介入15兆円超 財務省",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593431?source=rss",
         "publishedAt": "2026-08-28T09:59:00.000Z"
-      },
-      {
-        "time": "13:30",
-        "title": "USJ 大規模に拡張する方向で調整",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593393?source=rss",
-        "publishedAt": "2026-08-28T04:30:36.000Z"
       }
     ],
     "localHeadlines": [
