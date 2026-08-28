@@ -1,30 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-28T03:49:43.044Z",
+  "updatedAt": "2026-08-28T06:41:36.492Z",
   "items": [
-    {
-      "time": "09:42",
-      "title": "首相 成長と財政規律の両立目指す",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593365?source=rss",
-      "publishedAt": "2026-08-28T00:42:34.000Z",
-      "xQuery": "首相 成長と財政規律の両立目指す"
-    },
-    {
-      "time": "11:46",
-      "title": "全国の待機児童2435人 9年ぶり増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593379?source=rss",
-      "publishedAt": "2026-08-28T02:46:38.000Z",
-      "xQuery": "全国の待機児童2435人 9年ぶり増"
-    },
-    {
-      "time": "12:19",
-      "title": "ネパールで不明日本人ら 名簿公表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593387?source=rss",
-      "publishedAt": "2026-08-28T03:19:05.000Z",
-      "xQuery": "ネパールで不明日本人ら 名簿公表"
-    },
     {
       "time": "12:00",
       "title": "ネパール せき止め湖が決壊の危険",
@@ -34,12 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール せき止め湖が決壊の危険"
     },
     {
-      "time": "12:14",
-      "title": "「東北の麻薬王」に拘禁刑7年6月",
+      "time": "14:06",
+      "title": "イオン爆発の遺族 寂しさや悔しさ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593386?source=rss",
-      "publishedAt": "2026-08-28T03:14:45.000Z",
-      "xQuery": "「東北の麻薬王」に拘禁刑7年6月"
+      "url": "https://news.yahoo.co.jp/pickup/6593397?source=rss",
+      "publishedAt": "2026-08-28T05:06:42.000Z",
+      "xQuery": "イオン爆発の遺族 寂しさや悔しさ"
+    },
+    {
+      "time": "14:27",
+      "title": "インフルが全国で流行入り 厚労省",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593399?source=rss",
+      "publishedAt": "2026-08-28T05:27:46.000Z",
+      "xQuery": "インフルが全国で流行入り 厚労省"
+    },
+    {
+      "time": "14:06",
+      "title": "米大統領 太平洋の名称変更を示唆",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593396?source=rss",
+      "publishedAt": "2026-08-28T05:06:45.000Z",
+      "xQuery": "米大統領 太平洋の名称変更を示唆"
+    },
+    {
+      "time": "14:34",
+      "title": "モームリ前社長と妻に有罪判決",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593398?source=rss",
+      "publishedAt": "2026-08-28T05:34:39.000Z",
+      "xQuery": "モームリ前社長と妻に有罪判決"
     }
   ]
 };
