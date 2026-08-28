@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-28T21:59:08.646Z",
+  "updatedAt": "2026-08-28T22:23:10.604Z",
   "items": [
+    {
+      "time": "07:16",
+      "title": "一時1ドル160円台 介入以降で初",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593461?source=rss",
+      "publishedAt": "2026-08-28T22:16:55.000Z",
+      "xQuery": "一時1ドル160円台 介入以降で初"
+    },
     {
       "time": "00:05",
       "title": "FRBによる9月利​上げ観測高まる",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593449?source=rss",
       "publishedAt": "2026-08-28T13:14:42.000Z",
       "xQuery": "熊本県 地震による水道の断水解消"
-    },
-    {
-      "time": "22:27",
-      "title": "姿見せないモジタバ師 深まる疑念",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593454?source=rss",
-      "publishedAt": "2026-08-28T13:27:15.000Z",
-      "xQuery": "姿見せないモジタバ師 深まる疑念"
     },
     {
       "time": "22:59",
