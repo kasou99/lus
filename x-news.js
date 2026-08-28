@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-28T22:23:10.604Z",
+  "updatedAt": "2026-08-28T22:36:33.637Z",
   "items": [
     {
       "time": "07:16",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパールで不明の邦人 小学生も"
     },
     {
-      "time": "22:17",
-      "title": "飲酒事故で2児失う 耳残る泣き声",
+      "time": "07:25",
+      "title": "赤ちゃんの遺体を遺棄疑い 女逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593450?source=rss",
-      "publishedAt": "2026-08-28T13:17:37.000Z",
-      "xQuery": "飲酒事故で2児失う 耳残る泣き声"
+      "url": "https://news.yahoo.co.jp/pickup/6593464?source=rss",
+      "publishedAt": "2026-08-28T22:25:01.000Z",
+      "xQuery": "赤ちゃんの遺体を遺棄疑い 女逮捕"
     }
   ]
 };
