@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-28T22:36:33.637Z",
+  "updatedAt": "2026-08-28T23:13:21.463Z",
   "items": [
     {
-      "time": "07:16",
-      "title": "一時1ドル160円台 介入以降で初",
+      "time": "08:07",
+      "title": "石川・富山で大雨長引く恐れ 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593461?source=rss",
-      "publishedAt": "2026-08-28T22:16:55.000Z",
-      "xQuery": "一時1ドル160円台 介入以降で初"
+      "url": "https://news.yahoo.co.jp/pickup/6593469?source=rss",
+      "publishedAt": "2026-08-28T23:07:52.000Z",
+      "xQuery": "石川・富山で大雨長引く恐れ 警戒"
     },
     {
-      "time": "00:05",
-      "title": "FRBによる9月利​上げ観測高まる",
+      "time": "07:54",
+      "title": "ネパール土石流 行方不明2500人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593460?source=rss",
-      "publishedAt": "2026-08-28T15:05:19.000Z",
-      "xQuery": "FRBによる9月利​上げ観測高まる"
+      "url": "https://news.yahoo.co.jp/pickup/6593467?source=rss",
+      "publishedAt": "2026-08-28T22:54:56.000Z",
+      "xQuery": "ネパール土石流 行方不明2500人"
     },
     {
-      "time": "22:14",
-      "title": "熊本県 地震による水道の断水解消",
+      "time": "07:43",
+      "title": "近畿で30年以内にM6.8超 50～60%",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593449?source=rss",
-      "publishedAt": "2026-08-28T13:14:42.000Z",
-      "xQuery": "熊本県 地震による水道の断水解消"
+      "url": "https://news.yahoo.co.jp/pickup/6593466?source=rss",
+      "publishedAt": "2026-08-28T22:43:03.000Z",
+      "xQuery": "近畿で30年以内にM6.8超 50～60%"
     },
     {
-      "time": "22:59",
-      "title": "ネパールで不明の邦人 小学生も",
+      "time": "07:40",
+      "title": "中高生3人流され不明 捜索続く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593457?source=rss",
-      "publishedAt": "2026-08-28T13:59:17.000Z",
-      "xQuery": "ネパールで不明の邦人 小学生も"
+      "url": "https://news.yahoo.co.jp/pickup/6593468?source=rss",
+      "publishedAt": "2026-08-28T22:40:08.000Z",
+      "xQuery": "中高生3人流され不明 捜索続く"
     },
     {
       "time": "07:25",
