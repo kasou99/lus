@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-28T00:32:26.088Z",
+  "updatedAt": "2026-08-28T03:49:43.044Z",
   "items": [
     {
-      "time": "07:35",
-      "title": "熊本地震1カ月 今も約2500人避難",
+      "time": "09:42",
+      "title": "首相 成長と財政規律の両立目指す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593351?source=rss",
-      "publishedAt": "2026-08-27T22:35:58.000Z",
-      "xQuery": "熊本地震1カ月 今も約2500人避難"
+      "url": "https://news.yahoo.co.jp/pickup/6593365?source=rss",
+      "publishedAt": "2026-08-28T00:42:34.000Z",
+      "xQuery": "首相 成長と財政規律の両立目指す"
     },
     {
-      "time": "07:54",
-      "title": "イラン攻撃半年 収束の道筋見えず",
+      "time": "11:46",
+      "title": "全国の待機児童2435人 9年ぶり増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593354?source=rss",
-      "publishedAt": "2026-08-27T22:54:33.000Z",
-      "xQuery": "イラン攻撃半年 収束の道筋見えず"
+      "url": "https://news.yahoo.co.jp/pickup/6593379?source=rss",
+      "publishedAt": "2026-08-28T02:46:38.000Z",
+      "xQuery": "全国の待機児童2435人 9年ぶり増"
     },
     {
-      "time": "07:48",
-      "title": "きょう北海道～東海で大雨警戒",
+      "time": "12:19",
+      "title": "ネパールで不明日本人ら 名簿公表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593353?source=rss",
-      "publishedAt": "2026-08-27T22:48:04.000Z",
-      "xQuery": "きょう北海道～東海で大雨警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6593387?source=rss",
+      "publishedAt": "2026-08-28T03:19:05.000Z",
+      "xQuery": "ネパールで不明日本人ら 名簿公表"
     },
     {
-      "time": "08:00",
-      "title": "公明も中道への合流見送り視野に",
+      "time": "12:00",
+      "title": "ネパール せき止め湖が決壊の危険",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593355?source=rss",
-      "publishedAt": "2026-08-27T23:00:49.000Z",
-      "xQuery": "公明も中道への合流見送り視野に"
+      "url": "https://news.yahoo.co.jp/pickup/6593381?source=rss",
+      "publishedAt": "2026-08-28T03:00:16.000Z",
+      "xQuery": "ネパール せき止め湖が決壊の危険"
     },
     {
-      "time": "09:05",
-      "title": "ムラジッチ受刑者が死亡 集団殺害",
+      "time": "12:14",
+      "title": "「東北の麻薬王」に拘禁刑7年6月",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593358?source=rss",
-      "publishedAt": "2026-08-28T00:05:24.000Z",
-      "xQuery": "ムラジッチ受刑者が死亡 集団殺害"
+      "url": "https://news.yahoo.co.jp/pickup/6593386?source=rss",
+      "publishedAt": "2026-08-28T03:14:45.000Z",
+      "xQuery": "「東北の麻薬王」に拘禁刑7年6月"
     }
   ]
 };

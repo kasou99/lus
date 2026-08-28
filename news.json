@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-28T00:32:25.073Z",
+  "updatedAt": "2026-08-28T03:49:42.104Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:43",
+        "title": "工作機械受注、7月50％増 北米・アジア好調けん引",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sc3hiT01tUmVIVWN1SmFmZ2hFRTQxWlhfX0VZRzNZRnpQWUs2SUYwdkZZcXZPeVBYWGRJYlUwbEJrTVpDcnJvU1dUTVRIQV9oT2pxM0tkeDR4M28?oc=5",
+        "publishedAt": "2026-08-27T22:43:36.000Z"
+      },
       {
         "time": "05:00",
         "title": "車向け工作機械受注、7月は15%増 更新需要取り込み",
@@ -32,9 +39,9 @@
       },
       {
         "time": "05:00",
-        "title": "産業TREND／羅針盤 野村総合研究所（199）【中小企業のデジタル化】",
+        "title": "キタムラフォーセット、大型対応CNC旋盤導入 水栓以外を開拓",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15Y00wejVlSGJ1ZkUybDdOdkxFcWNSMUEtOGZpNUIybHhmclFXOHl1UGdLQlE4dXk5T3lVY1hlNEY1dnlIYjU2UjZrV0FfbDZwR3VPSlZ4TFpDS2c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xc0RmY3ZDd0RJcHZGbjRmdEFpdmRWSDZQOTBMOUZTdm9KY0dicjdDbWRoTFhuOTRQalB6YzRFaW9HLU1veWlPaGlxVnFfSEhjTVRZVnpBY2hqbk0?oc=5",
         "publishedAt": "2026-08-27T20:00:00.000Z"
       },
       {
@@ -50,13 +57,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCSUNtVTE2ZUEwU2dqamtWWTFqakJXVVBtbjVZVlc4cU00bDlURFJfalpOSVA3b3lqWlpmOE53NkdXQVE4TnEwOWdTNHYteVpXeU0tLVhhbWZ5R2U5WklTWHBCRkVpeVhqWmphMTc4c2ZjUWpK?oc=5",
         "publishedAt": "2026-08-27T06:05:00.000Z"
-      },
-      {
-        "time": "18:22",
-        "title": "(株)ツガミ【6101】：株価・株式情報（夜間PTS含む）",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qT2NrZ21VTVpvcVdDaUF6RVVYZkFRWlUybklfRkRLS0I3WkFROW5VbG0zNXlHbTBERTVQU05FYWJ1S0p6Y0MzbXFMQUszUHpBb3c?oc=5",
-        "publishedAt": "2026-08-27T09:22:12.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,25 +75,18 @@
         "publishedAt": "2026-08-27T13:36:19.000Z"
       },
       {
-        "time": "20:14",
-        "title": "ネパールの土石流 不明1000人以上",
+        "time": "12:19",
+        "title": "ネパールで不明日本人ら 名簿公表",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593324?source=rss",
-        "publishedAt": "2026-08-27T11:14:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593387?source=rss",
+        "publishedAt": "2026-08-28T03:19:05.000Z"
       },
       {
-        "time": "19:59",
-        "title": "ネパール 不明の邦人は5人家族か",
+        "time": "12:00",
+        "title": "ネパール せき止め湖が決壊の危険",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593323?source=rss",
-        "publishedAt": "2026-08-27T10:59:20.000Z"
-      },
-      {
-        "time": "09:05",
-        "title": "ムラジッチ受刑者が死亡 集団殺害",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593358?source=rss",
-        "publishedAt": "2026-08-28T00:05:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593381?source=rss",
+        "publishedAt": "2026-08-28T03:00:16.000Z"
       },
       {
         "time": "18:01",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593305?source=rss",
         "publishedAt": "2026-08-27T09:01:24.000Z"
+      },
+      {
+        "time": "11:24",
+        "title": "ムラジッチ受刑者が死亡 国連発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593374?source=rss",
+        "publishedAt": "2026-08-28T02:24:01.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,32 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "06:27",
-        "title": "北海道釧路地方で線状降水帯発生",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593346?source=rss",
-        "publishedAt": "2026-08-27T21:27:58.000Z"
-      },
-      {
         "time": "07:35",
         "title": "熊本地震1カ月 今も約2500人避難",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593351?source=rss",
         "publishedAt": "2026-08-27T22:35:58.000Z"
-      },
-      {
-        "time": "23:58",
-        "title": "熊本地震1カ月 日増しに傾く自宅",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593343?source=rss",
-        "publishedAt": "2026-08-27T14:58:24.000Z"
-      },
-      {
-        "time": "21:40",
-        "title": "車水没 ドア蹴り脱出「死ぬかと」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593333?source=rss",
-        "publishedAt": "2026-08-27T12:40:24.000Z"
       },
       {
         "time": "06:07",
@@ -184,11 +163,32 @@
         "publishedAt": "2026-08-27T21:07:13.000Z"
       },
       {
-        "time": "23:19",
-        "title": "高級腕時計 窃盗容疑で男2人逮捕",
+        "time": "11:42",
+        "title": "うつ病で2年半こもる 回復後の道",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593341?source=rss",
-        "publishedAt": "2026-08-27T14:19:29.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593380?source=rss",
+        "publishedAt": "2026-08-28T02:42:04.000Z"
+      },
+      {
+        "time": "12:14",
+        "title": "「東北の麻薬王」に拘禁刑7年6月",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593386?source=rss",
+        "publishedAt": "2026-08-28T03:14:45.000Z"
+      },
+      {
+        "time": "06:16",
+        "title": "部下に暴行し死なせた疑い 男逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593345?source=rss",
+        "publishedAt": "2026-08-27T21:16:15.000Z"
+      },
+      {
+        "time": "11:42",
+        "title": "小学校敷地内でひき逃げ疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593377?source=rss",
+        "publishedAt": "2026-08-28T02:42:49.000Z"
       }
     ],
     "subsidyHeadlines": [
