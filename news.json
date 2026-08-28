@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T21:17:19.463Z",
+  "updatedAt": "2026-08-28T00:32:25.073Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-08-27T20:00:00.000Z"
       },
       {
-        "time": "02:47",
-        "title": "工作機械の新型2種発表 ジェイテクト、約4年ぶり：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tR2JwcUpEYzIzakVidU9vaUtXTkVnZXF2RlZNTDV5dGROZTJ2a3Fsd2o4S0VhWmI2YlR1OGZaSHQ0a0Z2ZWE0WTZmOG1TXzJaNjFMaTc0bVhHa1pTNzFZ?oc=5",
-        "publishedAt": "2026-08-27T17:47:01.000Z"
-      },
-      {
         "time": "05:10",
         "title": "７月工作機械受注50％増 日工会、13ヵ月連続プラス",
         "source": "中部経済新聞",
@@ -24,11 +17,11 @@
         "publishedAt": "2026-08-27T20:10:39.000Z"
       },
       {
-        "time": "05:00",
-        "title": "キタムラフォーセット、大型対応CNC旋盤導入 水栓以外を開拓",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wbWxWaHRKNEtoUTdpQ0ZmWHZFSEtLQ3NHaTd3Y2x0c2kzLVQteURabVI3d0V3Umh5cjJnTWN1MW1jZE9BbXRvODZJQzFIT0V1SHo5ZzJXVHM?oc=5",
-        "publishedAt": "2026-08-27T20:00:00.000Z"
+        "time": "02:47",
+        "title": "工作機械の新型2種発表 ジェイテクト、約4年ぶり：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tR2JwcUpEYzIzakVidU9vaUtXTkVnZXF2RlZNTDV5dGROZTJ2a3Fsd2o4S0VhWmI2YlR1OGZaSHQ0a0Z2ZWE0WTZmOG1TXzJaNjFMaTc0bVhHa1pTNzFZ?oc=5",
+        "publishedAt": "2026-08-27T17:47:01.000Z"
       },
       {
         "time": "13:00",
@@ -38,6 +31,13 @@
         "publishedAt": "2026-08-27T04:00:00.000Z"
       },
       {
+        "time": "05:00",
+        "title": "産業TREND／羅針盤 野村総合研究所（199）【中小企業のデジタル化】",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15Y00wejVlSGJ1ZkUybDdOdkxFcWNSMUEtOGZpNUIybHhmclFXOHl1UGdLQlE4dXk5T3lVY1hlNEY1dnlIYjU2UjZrV0FfbDZwR3VPSlZ4TFpDS2c?oc=5",
+        "publishedAt": "2026-08-27T20:00:00.000Z"
+      },
+      {
         "time": "15:59",
         "title": "7月の工作機械受注5割増、半導体とデータセンター向け好調続く",
         "source": "日本経済新聞",
@@ -45,27 +45,27 @@
         "publishedAt": "2026-08-27T06:59:41.000Z"
       },
       {
-        "time": "06:30",
-        "title": "今日の注目スケジュール：工作機械受注、中工業企業利益、欧ユーロ圏マネーサプライなど",
-        "source": "みんかぶ",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04ZEptc0tZcGk2Z2RvemFNZW9SVUxtdmR3X1oyNEF5NkNNY1lRaTUtOEJlZUNTVGlwNTd0MDhfZ1MyZ2hPc3M4NA?oc=5",
-        "publishedAt": "2026-08-26T21:30:00.000Z"
-      },
-      {
         "time": "15:05",
         "title": "DN Solutions、インド・ベンガルールに初の製造工場を竣工…グローバル輸出拠点に育成",
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCSUNtVTE2ZUEwU2dqamtWWTFqakJXVVBtbjVZVlc4cU00bDlURFJfalpOSVA3b3lqWlpmOE53NkdXQVE4TnEwOWdTNHYteVpXeU0tLVhhbWZ5R2U5WklTWHBCRkVpeVhqWmphMTc4c2ZjUWpK?oc=5",
         "publishedAt": "2026-08-27T06:05:00.000Z"
+      },
+      {
+        "time": "18:22",
+        "title": "(株)ツガミ【6101】：株価・株式情報（夜間PTS含む）",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qT2NrZ21VTVpvcVdDaUF6RVVYZkFRWlUybklfRkRLS0I3WkFROW5VbG0zNXlHbTBERTVQU05FYWJ1S0p6Y0MzbXFMQUszUHpBb3c?oc=5",
+        "publishedAt": "2026-08-27T09:22:12.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "18:01",
-        "title": "草間さん死去 海外で大々的に報道",
+        "time": "07:54",
+        "title": "イラン攻撃半年 収束の道筋見えず",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593305?source=rss",
-        "publishedAt": "2026-08-27T09:01:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593354?source=rss",
+        "publishedAt": "2026-08-27T22:54:33.000Z"
       },
       {
         "time": "22:36",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-08-27T10:59:20.000Z"
       },
       {
-        "time": "06:12",
-        "title": "ネパール洪水日本人5人連絡取れず",
+        "time": "09:05",
+        "title": "ムラジッチ受刑者が死亡 集団殺害",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593198?source=rss",
-        "publishedAt": "2026-08-26T21:12:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593358?source=rss",
+        "publishedAt": "2026-08-28T00:05:24.000Z"
       },
       {
-        "time": "22:29",
-        "title": "日本発の航空機に遺体 マレーシア",
+        "time": "18:01",
+        "title": "草間さん死去 海外で大々的に報道",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593336?source=rss",
-        "publishedAt": "2026-08-27T13:29:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593305?source=rss",
+        "publishedAt": "2026-08-27T09:01:24.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,21 +133,35 @@
         "publishedAt": "2026-08-27T10:27:45.000Z"
       },
       {
+        "time": "08:37",
+        "title": "なぜ「定年廃止」 変わる人事制度",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593356?source=rss",
+        "publishedAt": "2026-08-27T23:37:19.000Z"
+      },
+      {
         "time": "17:55",
         "title": "バレるの怖い 発達障害伏せて就労",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593303?source=rss",
         "publishedAt": "2026-08-27T08:55:07.000Z"
-      },
-      {
-        "time": "20:24",
-        "title": "宮崎空港 搭乗口付近で煙が充満",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593326?source=rss",
-        "publishedAt": "2026-08-27T11:24:07.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "06:27",
+        "title": "北海道釧路地方で線状降水帯発生",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593346?source=rss",
+        "publishedAt": "2026-08-27T21:27:58.000Z"
+      },
+      {
+        "time": "07:35",
+        "title": "熊本地震1カ月 今も約2500人避難",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593351?source=rss",
+        "publishedAt": "2026-08-27T22:35:58.000Z"
+      },
       {
         "time": "23:58",
         "title": "熊本地震1カ月 日増しに傾く自宅",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593341?source=rss",
         "publishedAt": "2026-08-27T14:19:29.000Z"
-      },
-      {
-        "time": "17:01",
-        "title": "北大 実験中に薬品浴びて学生死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593292?source=rss",
-        "publishedAt": "2026-08-27T08:01:32.000Z"
-      },
-      {
-        "time": "21:09",
-        "title": "猛毒浴び院生死亡 北大がコメント",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593330?source=rss",
-        "publishedAt": "2026-08-27T12:09:25.000Z"
       }
     ],
     "subsidyHeadlines": [

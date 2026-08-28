@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-27T21:17:20.208Z",
+  "updatedAt": "2026-08-28T00:32:26.088Z",
   "items": [
     {
-      "time": "23:58",
-      "title": "熊本地震1カ月 日増しに傾く自宅",
+      "time": "07:35",
+      "title": "熊本地震1カ月 今も約2500人避難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593343?source=rss",
-      "publishedAt": "2026-08-27T14:58:24.000Z",
-      "xQuery": "熊本地震1カ月 日増しに傾く自宅"
+      "url": "https://news.yahoo.co.jp/pickup/6593351?source=rss",
+      "publishedAt": "2026-08-27T22:35:58.000Z",
+      "xQuery": "熊本地震1カ月 今も約2500人避難"
     },
     {
-      "time": "21:40",
-      "title": "車水没 ドア蹴り脱出「死ぬかと」",
+      "time": "07:54",
+      "title": "イラン攻撃半年 収束の道筋見えず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593333?source=rss",
-      "publishedAt": "2026-08-27T12:40:24.000Z",
-      "xQuery": "車水没 ドア蹴り脱出「死ぬかと」"
+      "url": "https://news.yahoo.co.jp/pickup/6593354?source=rss",
+      "publishedAt": "2026-08-27T22:54:33.000Z",
+      "xQuery": "イラン攻撃半年 収束の道筋見えず"
     },
     {
-      "time": "22:36",
-      "title": "ネパール洪水 氷河崩落が原因か",
+      "time": "07:48",
+      "title": "きょう北海道～東海で大雨警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593337?source=rss",
-      "publishedAt": "2026-08-27T13:36:19.000Z",
-      "xQuery": "ネパール洪水 氷河崩落が原因か"
+      "url": "https://news.yahoo.co.jp/pickup/6593353?source=rss",
+      "publishedAt": "2026-08-27T22:48:04.000Z",
+      "xQuery": "きょう北海道～東海で大雨警戒"
     },
     {
-      "time": "06:07",
-      "title": "パワハラ認定の横浜市長 辞職へ",
+      "time": "08:00",
+      "title": "公明も中道への合流見送り視野に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593344?source=rss",
-      "publishedAt": "2026-08-27T21:07:13.000Z",
-      "xQuery": "パワハラ認定の横浜市長 辞職へ"
+      "url": "https://news.yahoo.co.jp/pickup/6593355?source=rss",
+      "publishedAt": "2026-08-27T23:00:49.000Z",
+      "xQuery": "公明も中道への合流見送り視野に"
     },
     {
-      "time": "23:19",
-      "title": "高級腕時計 窃盗容疑で男2人逮捕",
+      "time": "09:05",
+      "title": "ムラジッチ受刑者が死亡 集団殺害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593341?source=rss",
-      "publishedAt": "2026-08-27T14:19:29.000Z",
-      "xQuery": "高級腕時計 窃盗容疑で男2人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6593358?source=rss",
+      "publishedAt": "2026-08-28T00:05:24.000Z",
+      "xQuery": "ムラジッチ受刑者が死亡 集団殺害"
     }
   ]
 };
