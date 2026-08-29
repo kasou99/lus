@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T11:37:13.027Z",
+  "updatedAt": "2026-08-29T12:22:52.532Z",
   "items": [
     {
       "time": "19:25",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "津波想定34m 変化する町民の行動"
     },
     {
-      "time": "18:34",
-      "title": "海で流され不明の中高生3人 死亡",
+      "time": "21:11",
+      "title": "海で3人死亡 14歳は救助図ったか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593541?source=rss",
-      "publishedAt": "2026-08-29T09:34:51.000Z",
-      "xQuery": "海で流され不明の中高生3人 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6593554?source=rss",
+      "publishedAt": "2026-08-29T12:11:53.000Z",
+      "xQuery": "海で3人死亡 14歳は救助図ったか"
+    },
+    {
+      "time": "21:09",
+      "title": "ウ 露に1日1000機の無人機投入へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593553?source=rss",
+      "publishedAt": "2026-08-29T12:09:58.000Z",
+      "xQuery": "ウ 露に1日1000機の無人機投入へ"
     },
     {
       "time": "20:30",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593549?source=rss",
       "publishedAt": "2026-08-29T11:30:32.000Z",
       "xQuery": "なぜ娘殺された わからぬまま20年"
-    },
-    {
-      "time": "18:56",
-      "title": "観光客らバイク通行 吊り橋が危機",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593543?source=rss",
-      "publishedAt": "2026-08-29T09:56:23.000Z",
-      "xQuery": "観光客らバイク通行 吊り橋が危機"
     }
   ]
 };
