@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-29T18:38:04.526Z",
+  "updatedAt": "2026-08-29T19:12:09.297Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "02:02",
+        "time": "02:11",
         "title": "画像 | 〈工作機械受注〉7月は前年比150.4％で歴代3位の1930億円､夏場にも関わらず続く高水準――設備需要の拡大鮮明に",
         "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1laHdlM19JRVFxcFZDTkhfbzBIX215dmRqRHBLWUs5ak5aYjdENjRIRkVqZVp1cHZVM1dnclEyQXRvbVB0N1otaUpPR3RPM0hFSlV1ZTFlOFJkdkJnRnc?oc=5",
-        "publishedAt": "2026-08-29T17:02:10.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yMXpGMW9ySHJjNS04NjZyZW9CNzNwOExUSC0wcnNhWkl3LTE5WXZvdHlxN2VvWFNzQVNnUEk3MmxmWUJZOGdsLWpHcFBlT2tZU2VhMHZCWQ?oc=5",
+        "publishedAt": "2026-08-29T17:11:13.000Z"
       },
       {
         "time": "21:13",
@@ -15,6 +15,13 @@
         "source": "西日本新聞me",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oLTM0a3JyNmd3ZDdhWmJob3dLWE4wNXRoWFd1SjRfMHRqUzdHYkc2RUlBeHJBMlFQci1oS1Y4QWVfQ3lCdDNMWkRoRHRCbjBubXducFlKUQ?oc=5",
         "publishedAt": "2026-08-29T12:13:23.000Z"
+      },
+      {
+        "time": "22:53",
+        "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社",
+        "source": "北海道新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV19LQzRJQWpiOURLNl9MMWZkckIzamxlT1ZGbmxydXpQTG5yQ29FRVEzeFVGNUE4a2Y4MEI3WGFUTEtEVmoxNlp6RHJnRk1hbk5oN3d4WGZJbTNZM0J2YTB2SVR0TnlVYVY5U1lXbERkSFVpeFpRX0VRTmxvallsRDdtR2NsVFZG?oc=5",
+        "publishedAt": "2026-08-29T13:53:13.000Z"
       },
       {
         "time": "21:00",
@@ -31,32 +38,25 @@
         "publishedAt": "2026-08-28T20:21:37.000Z"
       },
       {
+        "time": "18:31",
+        "title": "工作機械より強ぇ!!これが日本の最強産業装置だ!!～【SMT・半導体後工程】 Vatican Sspx (hvjAW5iCAd)",
+        "source": "Mshale",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56OVZWX1hoUkd1WjFKRjNKQlV0eUIxNW9UTjdJUlZldDRic0VBV2lyTUZKaFNmYmJ5Nm1YTTduWTRVbzlwNzBDMHV0Q0pYRmxvUlFRSkNyLW1ueVk?oc=5",
+        "publishedAt": "2026-08-29T09:31:53.000Z"
+      },
+      {
+        "time": "16:48",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-08-29T07:48:16.000Z"
+      },
+      {
         "time": "05:50",
         "title": "〈工作機械受注〉7月は前年比150.4％で歴代3位の1930億円､夏場にも関わらず続く高水準――設備需要の拡大鮮明に",
         "source": "東洋経済オンライン",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kNkZ0UUt2VTZPZ1ByLUZnRmoxVVNyX19OeGx6a0o3T0FQMjBYNUt5N25WMklOS1VuaHVyWFpfMzhDVkRXalV6QUpSbTJtM1ZSU29ESVZuVUxoeUE?oc=5",
         "publishedAt": "2026-08-28T20:50:00.000Z"
-      },
-      {
-        "time": "22:30",
-        "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社 (共同通信)",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaWZBcWlFMXFBMzdwOGdSNWhIaXFaNHRkdXA1VUVwc0ZNZzZsblNlU3o2SEdVNlBiS0U1UUU3bmNwTHdrSUhaTGxJcWRqZkdMWVgzSWJLQng3WmE2UnNBRUdQVVNRdmVzNEE4RnFINGFJTFI2X3JhaGF0d2xZYWx2OER3OGFzSzVmNjNJMHln?oc=5",
-        "publishedAt": "2026-08-29T13:30:28.000Z"
-      },
-      {
-        "time": "21:05",
-        "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社",
-        "source": "47NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aWVVsLVp6NzNyZE9nc0ptZl9JS1B2a0o4eWU3SE5ncVVXLW9EOGpSZGp0QXp4QjFBN0ltN2RXdV9LdVIwdk52ckFnVQ?oc=5",
-        "publishedAt": "2026-08-29T12:05:00.000Z"
-      },
-      {
-        "time": "23:09",
-        "title": "京セラや神戸製鋼など20社、国産フィジカルAIで工作ロボ共同開発へ",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qd29ubmp0ME5OcHFGUE1lVl92OF9weTFMSXEzZm9UaFlrMHkzMlZnSkZ1emdXenpENTg5NGY2RjVEN21hU25YZGxKeHQ2ME1nRW5BUG5qczVpNG9YMzV5LW9acWNHcG5rc3VoWFJiVmNlWmJ1?oc=5",
-        "publishedAt": "2026-08-29T14:09:25.000Z"
       }
     ],
     "worldHeadlines": [
