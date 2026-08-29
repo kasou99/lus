@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T02:38:18.413Z",
+  "updatedAt": "2026-08-29T03:19:00.043Z",
   "items": [
     {
-      "time": "09:57",
-      "title": "米 エジプト大手銀UAE支店に制裁",
+      "time": "12:11",
+      "title": "北陸など警報級大雨恐れ 災害警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593480?source=rss",
-      "publishedAt": "2026-08-29T00:57:38.000Z",
-      "xQuery": "米 エジプト大手銀UAE支店に制裁"
+      "url": "https://news.yahoo.co.jp/pickup/6593495?source=rss",
+      "publishedAt": "2026-08-29T03:11:05.000Z",
+      "xQuery": "北陸など警報級大雨恐れ 災害警戒"
     },
     {
-      "time": "10:25",
-      "title": "イオン爆発 立件には高いハードル",
+      "time": "11:35",
+      "title": "邦人大学生の露派遣を再開 外務省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593481?source=rss",
-      "publishedAt": "2026-08-29T01:25:59.000Z",
-      "xQuery": "イオン爆発 立件には高いハードル"
+      "url": "https://news.yahoo.co.jp/pickup/6593488?source=rss",
+      "publishedAt": "2026-08-29T02:35:43.000Z",
+      "xQuery": "邦人大学生の露派遣を再開 外務省"
     },
     {
       "time": "10:27",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール土石流 山に走った生存者"
     },
     {
-      "time": "09:30",
-      "title": "福岡県議に公認出せない 首相意向",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593477?source=rss",
-      "publishedAt": "2026-08-29T00:30:46.000Z",
-      "xQuery": "福岡県議に公認出せない 首相意向"
-    },
-    {
       "time": "09:11",
       "title": "従業員死亡 容疑者は支配的立場か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593476?source=rss",
       "publishedAt": "2026-08-29T00:11:27.000Z",
       "xQuery": "従業員死亡 容疑者は支配的立場か"
+    },
+    {
+      "time": "12:05",
+      "title": "長女が重体 傷害の疑いで両親逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593493?source=rss",
+      "publishedAt": "2026-08-29T03:05:41.000Z",
+      "xQuery": "長女が重体 傷害の疑いで両親逮捕"
     }
   ]
 };

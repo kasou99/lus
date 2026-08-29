@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T02:38:17.254Z",
+  "updatedAt": "2026-08-29T03:18:59.197Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "東洋経済オンライン",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kNkZ0UUt2VTZPZ1ByLUZnRmoxVVNyX19OeGx6a0o3T0FQMjBYNUt5N25WMklOS1VuaHVyWFpfMzhDVkRXalV6QUpSbTJtM1ZSU29ESVZuVUxoeUE?oc=5",
         "publishedAt": "2026-08-28T20:50:00.000Z"
+      },
+      {
+        "time": "05:21",
+        "title": "グローバル横型マシニングセンタ市場トップ20企業",
+        "source": "Spherical Insights",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNEdBeVl2WmxfVmVGRjFiTms0MkhqNEE5NkhTSjlRV0xSRkw3S0x3aWlURTdDSFlwa3BmR01zWTNuSzJ3dEsza3R0eklVeEZKZ2ltbzMzOFZpaGlvZWhSZE52ZnlKODJWYWp1VTh1aTVkcmQ2bGpicjdIRzM0SmswWDJJc1lKdVRwOGRxQkc1V2l6OUtLNGZSbXRKUlhRbXpkSVl2amIwT3pHajRYVTYxakttZENXUFBOYTZ5dk1GWlVxYTZSVFA5aEJJcWZ3NGJCMXR4Q0kyUUNLVHRzd0gyaWxR?oc=5",
+        "publishedAt": "2026-08-28T20:21:37.000Z"
       },
       {
         "time": "13:50",
@@ -29,13 +36,6 @@
         "source": "トレーダーズ・ウェブ",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1obFF5T0hBVm1CbFpuRG96NWJ3NFBsMnd2cHZnUURJY0l6V0sxOW9lV0xKQ1VIMThqZFNHTWYwOHJTQ28xTlg1V2dMU0ZmaU5hZjdzWVd0c2NtZHds?oc=5",
         "publishedAt": "2026-08-28T04:50:00.000Z"
-      },
-      {
-        "time": "00:11",
-        "title": "経営ひと言／産機テクノス・大泉東専務「独自製品を普及」",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vbzdDUGlJOWR3dFRwVlRBSHJFOVVILW1KNndPSjdSQnFnaGJXWFZtWWdLYVhhaVgwVDctVHhmV1I0Rlk3d2xXRllyRXlZajdQVXlKWUo4OUw1cC1kOXFlOTFUZzlzYUE5cUdhalFYVQ?oc=5",
-        "publishedAt": "2026-08-28T15:11:40.000Z"
       },
       {
         "time": "01:15",
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "07:16",
-        "title": "一時1ドル160円台 介入以降で初",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593461?source=rss",
-        "publishedAt": "2026-08-28T22:16:55.000Z"
-      },
-      {
         "time": "00:05",
         "title": "FRBによる9月利​上げ観測高まる",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593431?source=rss",
         "publishedAt": "2026-08-28T09:59:00.000Z"
+      },
+      {
+        "time": "12:01",
+        "title": "プロテインの値上げ続く 需要拡大",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593489?source=rss",
+        "publishedAt": "2026-08-29T03:01:25.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,13 +170,6 @@
         "publishedAt": "2026-08-29T00:30:46.000Z"
       },
       {
-        "time": "07:40",
-        "title": "中高生3人流され不明 捜索続く",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593468?source=rss",
-        "publishedAt": "2026-08-28T22:40:08.000Z"
-      },
-      {
         "time": "09:11",
         "title": "従業員死亡 容疑者は支配的立場か",
         "source": "Yahoo!ニュース",
@@ -184,11 +177,18 @@
         "publishedAt": "2026-08-29T00:11:27.000Z"
       },
       {
-        "time": "11:32",
-        "title": "日野市立病院 半ば自転車操業続く",
+        "time": "12:05",
+        "title": "長女が重体 傷害の疑いで両親逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593490?source=rss",
-        "publishedAt": "2026-08-29T02:32:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593493?source=rss",
+        "publishedAt": "2026-08-29T03:05:41.000Z"
+      },
+      {
+        "time": "07:25",
+        "title": "赤ちゃんの遺体を遺棄疑い 女逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593464?source=rss",
+        "publishedAt": "2026-08-28T22:25:01.000Z"
       }
     ],
     "subsidyHeadlines": [
