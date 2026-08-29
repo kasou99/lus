@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T03:18:59.197Z",
+  "updatedAt": "2026-08-29T03:38:22.296Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -170,6 +170,13 @@
         "publishedAt": "2026-08-29T00:30:46.000Z"
       },
       {
+        "time": "12:31",
+        "title": "海で不明の中高生か 2人心肺停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593499?source=rss",
+        "publishedAt": "2026-08-29T03:31:36.000Z"
+      },
+      {
         "time": "09:11",
         "title": "従業員死亡 容疑者は支配的立場か",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593493?source=rss",
         "publishedAt": "2026-08-29T03:05:41.000Z"
-      },
-      {
-        "time": "07:25",
-        "title": "赤ちゃんの遺体を遺棄疑い 女逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593464?source=rss",
-        "publishedAt": "2026-08-28T22:25:01.000Z"
       }
     ],
     "subsidyHeadlines": [

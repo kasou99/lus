@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T03:19:00.043Z",
+  "updatedAt": "2026-08-29T03:38:23.156Z",
   "items": [
     {
       "time": "12:11",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール土石流 山に走った生存者"
     },
     {
-      "time": "09:11",
-      "title": "従業員死亡 容疑者は支配的立場か",
+      "time": "12:31",
+      "title": "海で不明の中高生か 2人心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593476?source=rss",
-      "publishedAt": "2026-08-29T00:11:27.000Z",
-      "xQuery": "従業員死亡 容疑者は支配的立場か"
+      "url": "https://news.yahoo.co.jp/pickup/6593499?source=rss",
+      "publishedAt": "2026-08-29T03:31:36.000Z",
+      "xQuery": "海で不明の中高生か 2人心肺停止"
     },
     {
       "time": "12:05",
