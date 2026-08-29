@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T06:26:26.997Z",
+  "updatedAt": "2026-08-29T06:44:38.707Z",
   "items": [
     {
-      "time": "12:11",
-      "title": "北陸など警報級大雨恐れ 災害警戒",
+      "time": "15:34",
+      "title": "北陸29-31日も大雨恐れ 厳重警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593495?source=rss",
-      "publishedAt": "2026-08-29T03:11:05.000Z",
-      "xQuery": "北陸など警報級大雨恐れ 災害警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6593516?source=rss",
+      "publishedAt": "2026-08-29T06:34:12.000Z",
+      "xQuery": "北陸29-31日も大雨恐れ 厳重警戒"
     },
     {
       "time": "11:54",
