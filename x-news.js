@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T10:36:33.984Z",
+  "updatedAt": "2026-08-29T11:13:06.856Z",
   "items": [
     {
       "time": "19:25",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "海で流され不明の中高生3人 死亡"
     },
     {
-      "time": "19:16",
-      "title": "時計窃盗 被害品とは別の2本発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593544?source=rss",
-      "publishedAt": "2026-08-29T10:16:31.000Z",
-      "xQuery": "時計窃盗 被害品とは別の2本発見"
-    },
-    {
       "time": "18:56",
       "title": "観光客らバイク通行 吊り橋が危機",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593543?source=rss",
       "publishedAt": "2026-08-29T09:56:23.000Z",
       "xQuery": "観光客らバイク通行 吊り橋が危機"
+    },
+    {
+      "time": "19:03",
+      "title": "徳川慶喜家5代目 目指す家じまい",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593539?source=rss",
+      "publishedAt": "2026-08-29T10:03:44.000Z",
+      "xQuery": "徳川慶喜家5代目 目指す家じまい"
     }
   ]
 };
