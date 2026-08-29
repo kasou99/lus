@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T22:14:25.238Z",
+  "updatedAt": "2026-08-29T22:37:02.402Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-08-29T13:53:13.000Z"
       },
       {
+        "time": "05:02",
+        "title": "【独自】フィジカルＡＩ実用化へ企業連合 製造ロボ制御、京セラなど２０社 | 全国のニュース",
+        "source": "福井新聞社",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nSm5qZkdWdFFOcUxpUDVsb0xnR0d2ZjZoRGw4aWtLVmxGZFN5T1AyYW5EYWZHLUxsMldpelRwSDFSYkNvRlJRWFZWMXgwSXd3U2NtSVRnZTQ2MDV2WWs0bXplNkJydlkxLWRhRg?oc=5",
+        "publishedAt": "2026-08-29T20:02:23.000Z"
+      },
+      {
         "time": "22:30",
         "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社 (共同通信)",
         "source": "Yahoo!ニュース",
@@ -50,13 +57,6 @@
         "source": "佐賀新聞",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rMkdIdlhWblRHSV9Cbm5TaEFDRnNpelVOVnlNMGROTUdmY3JhTlV3dG9NdEFseTRqUE1qNUF5N3kyNUx2dmVGU2JUUExZMGJobnNWZVIwU05QenhJLVY4UlZSWDE?oc=5",
         "publishedAt": "2026-08-29T18:26:26.000Z"
-      },
-      {
-        "time": "21:00",
-        "title": "【独自】フィジカルＡＩ実用化へ企業連合 製造ロボ制御、京セラなど２０社｜全国のニュース｜Web東奥",
-        "source": "東奥日報社",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwdW93eXFXZzBSMEFiU2Q5ZEFSSHpVTk00TDhxNTFWWXBXeEZNM1JxcXY3VWZmdVRXUE9VT3VRQl9abEt5R29WdnNLYXNNU2pKN29VQVlNYi0?oc=5",
-        "publishedAt": "2026-08-29T12:00:01.000Z"
       }
     ],
     "worldHeadlines": [
