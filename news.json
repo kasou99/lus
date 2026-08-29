@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T08:39:00.282Z",
+  "updatedAt": "2026-08-29T09:15:51.919Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,11 +45,11 @@
         "publishedAt": "2026-08-28T13:34:54.000Z"
       },
       {
-        "time": "23:15",
-        "title": "関西とく論（下）神戸製鋼所会長・佐藤廣士氏「安心・安全、地域と共生」",
+        "time": "21:02",
+        "title": "【電子版】研削盤で世界首位のスイスＵＧＧ、レーザーなど新技術にも注力",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zWDMtWTZ1UFk2Vl9mVmdoMUVEY3p2WjNNN3hVUG55ZHMyYmtPZHNRX25sVkRnQzdRQjg0UzVNWDlDbWtsUUJlMVc5N3RadzBBOEpWYjd2MmJjVmJQeDF2SjRDZHplOU51N3BiVlFHdw?oc=5",
-        "publishedAt": "2026-08-28T14:15:20.000Z"
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpbDNuX3liWk5RSGtMQWljRkN1QWd1RjRvQkhUbmlpLWkyU05vSFpyTlJvbXBoVzZXbXhNNWVzTG94NklvVmdkOFladjhfMXlhLWNKSk5aVGhmWnBENlBOR1BLWElVYU1qMUotTXh3?oc=5",
+        "publishedAt": "2026-08-28T12:02:46.000Z"
       },
       {
         "time": "04:18",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-08-29T08:37:05.000Z"
       },
       {
+        "time": "17:58",
+        "title": "揺れたら逃げる 津波想定34mの町",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593524?source=rss",
+        "publishedAt": "2026-08-29T08:58:37.000Z"
+      },
+      {
         "time": "09:30",
         "title": "福岡県議に公認出せない 首相意向",
         "source": "Yahoo!ニュース",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-08-29T00:30:46.000Z"
       },
       {
+        "time": "18:02",
+        "title": "東武事故 中継見張り員は移動中か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593533?source=rss",
+        "publishedAt": "2026-08-29T09:02:44.000Z"
+      },
+      {
         "time": "16:53",
         "title": "母弟介護で片道8h 77歳「きつい」",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593525?source=rss",
         "publishedAt": "2026-08-29T07:53:18.000Z"
-      },
-      {
-        "time": "15:34",
-        "title": "妹を遺棄疑い 死亡関与ほのめかす",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593517?source=rss",
-        "publishedAt": "2026-08-29T06:34:24.000Z"
-      },
-      {
-        "time": "12:05",
-        "title": "長女が重体 傷害の疑いで両親逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593493?source=rss",
-        "publishedAt": "2026-08-29T03:05:41.000Z"
       }
     ],
     "subsidyHeadlines": [

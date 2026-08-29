@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T08:39:01.378Z",
+  "updatedAt": "2026-08-29T09:15:52.799Z",
   "items": [
     {
       "time": "15:15",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "避難3日目迎え疲労の色 石川富山"
     },
     {
-      "time": "15:34",
-      "title": "北陸29-31日も大雨恐れ 厳重警戒",
+      "time": "17:58",
+      "title": "揺れたら逃げる 津波想定34mの町",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593516?source=rss",
-      "publishedAt": "2026-08-29T06:34:12.000Z",
-      "xQuery": "北陸29-31日も大雨恐れ 厳重警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6593524?source=rss",
+      "publishedAt": "2026-08-29T08:58:37.000Z",
+      "xQuery": "揺れたら逃げる 津波想定34mの町"
     },
     {
-      "time": "17:20",
-      "title": "大規模土石流の映像 中国で流れず",
+      "time": "17:37",
+      "title": "鹿児島の海岸 新たに1人死亡確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593529?source=rss",
-      "publishedAt": "2026-08-29T08:20:37.000Z",
-      "xQuery": "大規模土石流の映像 中国で流れず"
+      "url": "https://news.yahoo.co.jp/pickup/6593530?source=rss",
+      "publishedAt": "2026-08-29T08:37:05.000Z",
+      "xQuery": "鹿児島の海岸 新たに1人死亡確認"
     },
     {
       "time": "16:53",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "母弟介護で片道8h 77歳「きつい」"
     },
     {
-      "time": "16:22",
-      "title": "睡眠導入剤を乱用 青い舌の少女",
+      "time": "16:16",
+      "title": "南極海でアザラシ大量死の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593522?source=rss",
-      "publishedAt": "2026-08-29T07:22:19.000Z",
-      "xQuery": "睡眠導入剤を乱用 青い舌の少女"
+      "url": "https://news.yahoo.co.jp/pickup/6593520?source=rss",
+      "publishedAt": "2026-08-29T07:16:45.000Z",
+      "xQuery": "南極海でアザラシ大量死の恐れ"
     }
   ]
 };
