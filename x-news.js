@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T04:38:05.464Z",
+  "updatedAt": "2026-08-29T05:15:07.906Z",
   "items": [
     {
       "time": "12:11",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "円が下落 介入効果4週間で陰り"
     },
     {
-      "time": "12:31",
-      "title": "海で不明の中高生か 2人心肺停止",
+      "time": "13:58",
+      "title": "海で不明の中高生か 2人死亡確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593499?source=rss",
-      "publishedAt": "2026-08-29T03:31:36.000Z",
-      "xQuery": "海で不明の中高生か 2人心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6593507?source=rss",
+      "publishedAt": "2026-08-29T04:58:22.000Z",
+      "xQuery": "海で不明の中高生か 2人死亡確認"
     },
     {
       "time": "12:05",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "長女が重体 傷害の疑いで両親逮捕"
     },
     {
-      "time": "10:47",
-      "title": "17年で社長が7人 百貨店消滅の街",
+      "time": "12:01",
+      "title": "プロテインの値上げ続く 需要拡大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593483?source=rss",
-      "publishedAt": "2026-08-29T01:47:37.000Z",
-      "xQuery": "17年で社長が7人 百貨店消滅の街"
+      "url": "https://news.yahoo.co.jp/pickup/6593489?source=rss",
+      "publishedAt": "2026-08-29T03:01:25.000Z",
+      "xQuery": "プロテインの値上げ続く 需要拡大"
     }
   ]
 };

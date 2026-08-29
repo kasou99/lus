@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T04:38:04.562Z",
+  "updatedAt": "2026-08-29T05:15:07.146Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,11 @@
         "publishedAt": "2026-08-28T20:50:00.000Z"
       },
       {
-        "time": "13:50",
-        "title": "〔Market Flash〕7月工作機械受注は欧州で意外な増加～野村",
-        "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mYURWNHl1bTJXNWJraFJmM1otMHZ1NUhNOGprQjhsTDVrS29MWTBuUkNLejhaRUdTVHJ3SFZrRmdFWE81TGw4czRkb01zUjJWdzhoZ2lSNEhfelRtaFRUcUNhM0paTnlkV3lTS0VuNms?oc=5",
-        "publishedAt": "2026-08-28T04:50:00.000Z"
-      },
-      {
-        "time": "13:50",
-        "title": "〔Market Flash〕7月工作機械受注は欧州で意外な増加～野村 | 個別記事 | ニュース",
-        "source": "トレーダーズ・ウェブ",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1obFF5T0hBVm1CbFpuRG96NWJ3NFBsMnd2cHZnUURJY0l6V0sxOW9lV0xKQ1VIMThqZFNHTWYwOHJTQ28xTlg1V2dMU0ZmaU5hZjdzWVd0c2NtZHds?oc=5",
-        "publishedAt": "2026-08-28T04:50:00.000Z"
+        "time": "05:21",
+        "title": "グローバル横型マシニングセンタ市場トップ20企業",
+        "source": "Spherical Insights",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNEdBeVl2WmxfVmVGRjFiTms0MkhqNEE5NkhTSjlRV0xSRkw3S0x3aWlURTdDSFlwa3BmR01zWTNuSzJ3dEsza3R0eklVeEZKZ2ltbzMzOFZpaGlvZWhSZE52ZnlKODJWYWp1VTh1aTVkcmQ2bGpicjdIRzM0SmswWDJJc1lKdVRwOGRxQkc1V2l6OUtLNGZSbXRKUlhRbXpkSVl2amIwT3pHajRYVTYxakttZENXUFBOYTZ5dk1GWlVxYTZSVFA5aEJJcWZ3NGJCMXR4Q0kyUUNLVHRzd0gyaWxR?oc=5",
+        "publishedAt": "2026-08-28T20:21:37.000Z"
       },
       {
         "time": "01:15",
@@ -31,11 +24,11 @@
         "publishedAt": "2026-08-28T16:15:15.000Z"
       },
       {
-        "time": "17:03",
-        "title": "◎エンシュウ、９月３０日にタイ子会社の生産停止",
-        "source": "時事通信ニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xNlNFVjQxVklsSVBDVEdFOE82S0NYU0Q3ZS1iRlZzX0JlTXNMT3lBMVFFM25wWmZmc0dVeF9Ma0FlSU5pc29DaFVaQzhSSmN0VXhmQg?oc=5",
-        "publishedAt": "2026-08-28T08:03:00.000Z"
+        "time": "22:34",
+        "title": "サンワテクノス Research Memo（6）：AI関連の設備投資拡大を追い風に中期目標に対して上振れる可能性も（2）",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2pTUXpja0F1RDdKcjJrY1RsUGN3WlRNcG1KN0V0TGhjdjFwTFB4a3BVdEl3ZXAwVlhnS3B0eVVicm1HMmo5Zm1DVncxakQxaFdPTDZsbTdrc1hlMmhZV0NoQjBNcmNpQlNpeWN4bExCa0Zxc1Vjc2VwQVRsdEh0MEs0cWRWaW8zc2lxQ1JaYzLSAYwBQVVfeXFMUG1XQlB2THozSHA1eVA0bEtpRm11VjdmYkp3ODQyTXB5WFZZYVNvaHRvZkRjQVJIWUh3c2p3cXdTTVowZlJVREplc3JZZFlQbEQ5aGN5U0NBbXFyaER0WGlKQnBuRnhSdWFJbXBndHpBTWdIdHhPMFU5SlhjUnFBSWdvWmtQZEpRRTZjeEc?oc=5",
+        "publishedAt": "2026-08-28T13:34:54.000Z"
       },
       {
         "time": "21:02",
@@ -45,6 +38,13 @@
         "publishedAt": "2026-08-28T12:02:46.000Z"
       },
       {
+        "time": "17:03",
+        "title": "◎エンシュウ、９月３０日にタイ子会社の生産停止",
+        "source": "時事通信ニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xNlNFVjQxVklsSVBDVEdFOE82S0NYU0Q3ZS1iRlZzX0JlTXNMT3lBMVFFM25wWmZmc0dVeF9Ma0FlSU5pc29DaFVaQzhSSmN0VXhmQg?oc=5",
+        "publishedAt": "2026-08-28T08:03:00.000Z"
+      },
+      {
         "time": "16:10",
         "title": "金属塑性加工展示会「MF INDIA 2026」がチェンナイで初開催（インド）",
         "source": "Infoseek",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-08-28T07:10:00.000Z"
       },
       {
-        "time": "13:50",
-        "title": "鹿児島精機が霧島に新工場、半導体・宇宙向け増産",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EaUNpRS1yV2VYSmhGa3NfQ2xfUkxqaXY0TEVZZlMyckRXLWlLMUltRjZ6ejNkaDllTjNWcWFKWF9OS2t0UW1HSw?oc=5",
-        "publishedAt": "2026-08-28T04:50:39.000Z"
+        "time": "17:17",
+        "title": "エンシュウ、９月３０日にタイ子会社の生産停止",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTllRV19XanZ0SlN4UGlJZkdhX0F2Q0stckd0RHE3YlY4MlJNalBIbFNwNG5sODNsaURGOHpBMndxUUJPSC1sM2lDRzhkdkplb3h4QjRhNnlUZmNXZjFHcXRqalczZEhvQm4waU5XZGQ1bVMtd0s4eXg5cmxnZlU1YkVWWE1LRDVZREdzak9LOU1HYThqYlNkU2RJMTMzb1JFZWYzSm1KVE5mNkJIXzVoOWNwOWNxMmxNZ2VUN2xMSzBaUWdIOFNSdHJfejRyaE41U0HSAYABQVVfeXFMTngyNmNyWUtYa0FuM3pFcnlsRVlscHpGbGZhWXJJOWtwNHJuaHR3cEVmN000S2l4R2NGVHVzRUh6cDM3RzZEejk0cUhkRGd6RjB6b1Vzb2pGNk9JYW9TYV9MeWhxZHh3MzJpdm1fOVRvZnh4T29tdWFtT2NWYUFZV1k?oc=5",
+        "publishedAt": "2026-08-28T08:17:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-08-29T01:25:59.000Z"
       },
       {
+        "time": "13:58",
+        "title": "海で不明の中高生か 2人死亡確認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593507?source=rss",
+        "publishedAt": "2026-08-29T04:58:22.000Z"
+      },
+      {
         "time": "09:30",
         "title": "福岡県議に公認出せない 首相意向",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593477?source=rss",
         "publishedAt": "2026-08-29T00:30:46.000Z"
-      },
-      {
-        "time": "12:31",
-        "title": "海で不明の中高生か 2人心肺停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593499?source=rss",
-        "publishedAt": "2026-08-29T03:31:36.000Z"
       },
       {
         "time": "09:11",
