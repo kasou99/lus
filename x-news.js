@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T07:16:34.754Z",
+  "updatedAt": "2026-08-29T07:36:09.455Z",
   "items": [
+    {
+      "time": "15:15",
+      "title": "避難3日目迎え疲労の色 石川富山",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593510?source=rss",
+      "publishedAt": "2026-08-29T06:15:38.000Z",
+      "xQuery": "避難3日目迎え疲労の色 石川富山"
+    },
     {
       "time": "15:34",
       "title": "北陸29-31日も大雨恐れ 厳重警戒",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593516?source=rss",
       "publishedAt": "2026-08-29T06:34:12.000Z",
       "xQuery": "北陸29-31日も大雨恐れ 厳重警戒"
-    },
-    {
-      "time": "11:54",
-      "title": "中道改革連合 分裂の公算大きく",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593492?source=rss",
-      "publishedAt": "2026-08-29T02:54:19.000Z",
-      "xQuery": "中道改革連合 分裂の公算大きく"
     },
     {
       "time": "14:53",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "妹を遺棄疑い 死亡関与ほのめかす"
     },
     {
-      "time": "12:37",
-      "title": "「皇居ラン」に苦情 区の担当者は",
+      "time": "16:22",
+      "title": "睡眠導入剤を乱用 青い舌の少女",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593494?source=rss",
-      "publishedAt": "2026-08-29T03:37:36.000Z",
-      "xQuery": "「皇居ラン」に苦情 区の担当者は"
+      "url": "https://news.yahoo.co.jp/pickup/6593522?source=rss",
+      "publishedAt": "2026-08-29T07:22:19.000Z",
+      "xQuery": "睡眠導入剤を乱用 青い舌の少女"
     }
   ]
 };
