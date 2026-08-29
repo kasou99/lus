@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T20:37:01.755Z",
+  "updatedAt": "2026-08-29T21:13:48.428Z",
   "items": [
     {
       "time": "04:58",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中継・気象庁会見 福井に特別警報"
     },
     {
+      "time": "06:10",
+      "title": "福井県で大雨 現地のSNS投稿",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593583?source=rss",
+      "publishedAt": "2026-08-29T21:10:07.000Z",
+      "xQuery": "福井県で大雨 現地のSNS投稿"
+    },
+    {
       "time": "23:14",
       "title": "娘が不登校になった精神科医 訴え",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593568?source=rss",
       "publishedAt": "2026-08-29T14:14:16.000Z",
       "xQuery": "娘が不登校になった精神科医 訴え"
-    },
-    {
-      "time": "21:11",
-      "title": "海で3人死亡 14歳は救助図ったか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593554?source=rss",
-      "publishedAt": "2026-08-29T12:11:53.000Z",
-      "xQuery": "海で3人死亡 14歳は救助図ったか"
     }
   ]
 };
