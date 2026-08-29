@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T12:40:41.053Z",
+  "updatedAt": "2026-08-29T13:13:24.288Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-28T16:15:15.000Z"
       },
       {
-        "time": "23:45",
-        "title": "ファイルいい話／関東精機 熱変位抑制装置×企業理念",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3ZmZrLTg4aU5WcjhkYS1tX1FMWVJOLUt2UFhraVVFZTI4c3VmT3dpQzZrdE5xQ1RLbW9RbFJ5RjNtd2pnSk5LaHZlaC1GWDZYT3BLWFRTdDE4Q0R5cnI4Y1pYaHVFNENKWDcxUWktcw?oc=5",
-        "publishedAt": "2026-08-28T14:45:46.000Z"
-      },
-      {
         "time": "22:34",
         "title": "サンワテクノス Research Memo（6）：AI関連の設備投資拡大を追い風に中期目標に対して上振れる可能性も（2）",
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2pTUXpja0F1RDdKcjJrY1RsUGN3WlRNcG1KN0V0TGhjdjFwTFB4a3BVdEl3ZXAwVlhnS3B0eVVicm1HMmo5Zm1DVncxakQxaFdPTDZsbTdrc1hlMmhZV0NoQjBNcmNpQlNpeWN4bExCa0Zxc1Vjc2VwQVRsdEh0MEs0cWRWaW8zc2lxQ1JaYzLSAYwBQVVfeXFMUG1XQlB2THozSHA1eVA0bEtpRm11VjdmYkp3ODQyTXB5WFZZYVNvaHRvZkRjQVJIWUh3c2p3cXdTTVowZlJVREplc3JZZFlQbEQ5aGN5U0NBbXFyaER0WGlKQnBuRnhSdWFJbXBndHpBTWdIdHhPMFU5SlhjUnFBSWdvWmtQZEpRRTZjeEc?oc=5",
         "publishedAt": "2026-08-28T13:34:54.000Z"
+      },
+      {
+        "time": "21:00",
+        "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社（共同通信）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94eFdTYXI0OUdFZ045Q3NEMFQtWXBCMEJEMnR3WkRVSnBJSWtRazJNZkc2cURyTDBGcDVPNGdIa0xvd3FpbTE1aDZMNUpBcWFQSWpwTW51V1ZPTTJBZnBrdC1LTXZwSkZqQmRmMm9aOFcwN2RFb1p0TXpwamQwUUk?oc=5",
+        "publishedAt": "2026-08-29T12:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,13 +66,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593467?source=rss",
         "publishedAt": "2026-08-28T22:54:56.000Z"
-      },
-      {
-        "time": "22:59",
-        "title": "ネパールで不明の邦人 小学生も",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593457?source=rss",
-        "publishedAt": "2026-08-28T13:59:17.000Z"
       },
       {
         "time": "13:31",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593553?source=rss",
         "publishedAt": "2026-08-29T12:09:58.000Z"
+      },
+      {
+        "time": "21:41",
+        "title": "独右派AfD ナチス想起させる公約",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593557?source=rss",
+        "publishedAt": "2026-08-29T12:41:52.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "21:44",
+        "title": "熊本地震 被災者それぞれの1カ月",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593558?source=rss",
+        "publishedAt": "2026-08-29T12:44:42.000Z"
+      },
+      {
         "time": "18:34",
         "title": "海で流され不明の中高生3人 死亡",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593554?source=rss",
         "publishedAt": "2026-08-29T12:11:53.000Z"
-      },
-      {
-        "time": "18:49",
-        "title": "津波想定34m 変化する町民の行動",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593542?source=rss",
-        "publishedAt": "2026-08-29T09:49:20.000Z"
       },
       {
         "time": "20:30",

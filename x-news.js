@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T12:40:41.645Z",
+  "updatedAt": "2026-08-29T13:13:25.402Z",
   "items": [
+    {
+      "time": "21:44",
+      "title": "熊本地震 被災者それぞれの1カ月",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593558?source=rss",
+      "publishedAt": "2026-08-29T12:44:42.000Z",
+      "xQuery": "熊本地震 被災者それぞれの1カ月"
+    },
     {
       "time": "19:25",
       "title": "千葉豪雨 半壊判定が大幅増見通し",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593545?source=rss",
       "publishedAt": "2026-08-29T10:25:07.000Z",
       "xQuery": "千葉豪雨 半壊判定が大幅増見通し"
-    },
-    {
-      "time": "18:49",
-      "title": "津波想定34m 変化する町民の行動",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593542?source=rss",
-      "publishedAt": "2026-08-29T09:49:20.000Z",
-      "xQuery": "津波想定34m 変化する町民の行動"
     },
     {
       "time": "21:11",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "海で3人死亡 14歳は救助図ったか"
     },
     {
-      "time": "21:09",
-      "title": "ウ 露に1日1000機の無人機投入へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593553?source=rss",
-      "publishedAt": "2026-08-29T12:09:58.000Z",
-      "xQuery": "ウ 露に1日1000機の無人機投入へ"
-    },
-    {
       "time": "20:30",
       "title": "なぜ娘殺された わからぬまま20年",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593549?source=rss",
       "publishedAt": "2026-08-29T11:30:32.000Z",
       "xQuery": "なぜ娘殺された わからぬまま20年"
+    },
+    {
+      "time": "21:19",
+      "title": "牛が線路に迷い込む 列車80分停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593556?source=rss",
+      "publishedAt": "2026-08-29T12:19:55.000Z",
+      "xQuery": "牛が線路に迷い込む 列車80分停止"
     }
   ]
 };
