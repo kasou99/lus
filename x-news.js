@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T10:14:34.067Z",
+  "updatedAt": "2026-08-29T10:36:33.984Z",
   "items": [
     {
-      "time": "15:15",
-      "title": "避難3日目迎え疲労の色 石川富山",
+      "time": "19:25",
+      "title": "千葉豪雨 半壊判定が大幅増見通し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593510?source=rss",
-      "publishedAt": "2026-08-29T06:15:38.000Z",
-      "xQuery": "避難3日目迎え疲労の色 石川富山"
+      "url": "https://news.yahoo.co.jp/pickup/6593545?source=rss",
+      "publishedAt": "2026-08-29T10:25:07.000Z",
+      "xQuery": "千葉豪雨 半壊判定が大幅増見通し"
     },
     {
       "time": "18:49",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "海で流され不明の中高生3人 死亡"
     },
     {
+      "time": "19:16",
+      "title": "時計窃盗 被害品とは別の2本発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593544?source=rss",
+      "publishedAt": "2026-08-29T10:16:31.000Z",
+      "xQuery": "時計窃盗 被害品とは別の2本発見"
+    },
+    {
       "time": "18:56",
       "title": "観光客らバイク通行 吊り橋が危機",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593543?source=rss",
       "publishedAt": "2026-08-29T09:56:23.000Z",
       "xQuery": "観光客らバイク通行 吊り橋が危機"
-    },
-    {
-      "time": "12:37",
-      "title": "「皇居ラン」に苦情 区の担当者は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593494?source=rss",
-      "publishedAt": "2026-08-29T03:37:36.000Z",
-      "xQuery": "「皇居ラン」に苦情 区の担当者は"
     }
   ]
 };
