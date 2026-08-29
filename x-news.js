@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T08:20:17.429Z",
+  "updatedAt": "2026-08-29T08:39:01.378Z",
   "items": [
     {
       "time": "15:15",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "避難3日目迎え疲労の色 石川富山"
     },
     {
-      "time": "14:53",
-      "title": "海で流された中高生 2人が死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593511?source=rss",
-      "publishedAt": "2026-08-29T05:53:50.000Z",
-      "xQuery": "海で流された中高生 2人が死亡"
-    },
-    {
       "time": "15:34",
       "title": "北陸29-31日も大雨恐れ 厳重警戒",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "北陸29-31日も大雨恐れ 厳重警戒"
     },
     {
-      "time": "15:34",
-      "title": "妹を遺棄疑い 死亡関与ほのめかす",
+      "time": "17:20",
+      "title": "大規模土石流の映像 中国で流れず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593517?source=rss",
-      "publishedAt": "2026-08-29T06:34:24.000Z",
-      "xQuery": "妹を遺棄疑い 死亡関与ほのめかす"
+      "url": "https://news.yahoo.co.jp/pickup/6593529?source=rss",
+      "publishedAt": "2026-08-29T08:20:37.000Z",
+      "xQuery": "大規模土石流の映像 中国で流れず"
     },
     {
       "time": "16:53",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593525?source=rss",
       "publishedAt": "2026-08-29T07:53:18.000Z",
       "xQuery": "母弟介護で片道8h 77歳「きつい」"
+    },
+    {
+      "time": "16:22",
+      "title": "睡眠導入剤を乱用 青い舌の少女",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593522?source=rss",
+      "publishedAt": "2026-08-29T07:22:19.000Z",
+      "xQuery": "睡眠導入剤を乱用 青い舌の少女"
     }
   ]
 };
