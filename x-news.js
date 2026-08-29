@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T21:37:06.476Z",
+  "updatedAt": "2026-08-29T22:14:26.469Z",
   "items": [
     {
-      "time": "04:58",
-      "title": "命守って 福井県に大雨特別警報",
+      "time": "07:08",
+      "title": "福井県に大雨特別警報 最大級警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593577?source=rss",
-      "publishedAt": "2026-08-29T19:58:11.000Z",
-      "xQuery": "命守って 福井県に大雨特別警報"
+      "url": "https://news.yahoo.co.jp/pickup/6593588?source=rss",
+      "publishedAt": "2026-08-29T22:08:02.000Z",
+      "xQuery": "福井県に大雨特別警報 最大級警戒"
     },
     {
       "time": "06:14",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福井県に大雨特別警報 最新情報"
     },
     {
+      "time": "06:47",
+      "title": "福井・龍ヶ鼻ダム 緊急放流の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593585?source=rss",
+      "publishedAt": "2026-08-29T21:47:22.000Z",
+      "xQuery": "福井・龍ヶ鼻ダム 緊急放流の恐れ"
+    },
+    {
       "time": "04:59",
       "title": "安全確保を 大雨のときのNG行動",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593206?source=rss",
       "publishedAt": "2026-08-29T19:59:00.000Z",
       "xQuery": "安全確保を 大雨のときのNG行動"
-    },
-    {
-      "time": "06:10",
-      "title": "福井県で大雨 現地のSNS投稿",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593583?source=rss",
-      "publishedAt": "2026-08-29T21:10:07.000Z",
-      "xQuery": "福井県で大雨 現地のSNS投稿"
     }
   ]
 };
