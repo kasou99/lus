@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T15:14:12.827Z",
+  "updatedAt": "2026-08-29T15:36:54.253Z",
   "items": [
+    {
+      "time": "00:23",
+      "title": "茨城県で最大震度4 津波心配なし",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593574?source=rss",
+      "publishedAt": "2026-08-29T15:23:44.000Z",
+      "xQuery": "茨城県で最大震度4 津波心配なし"
+    },
     {
       "time": "21:44",
       "title": "熊本地震 被災者それぞれの1カ月",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593568?source=rss",
       "publishedAt": "2026-08-29T14:14:16.000Z",
       "xQuery": "娘が不登校になった精神科医 訴え"
-    },
-    {
-      "time": "21:41",
-      "title": "独右派AfD ナチス想起させる公約",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593557?source=rss",
-      "publishedAt": "2026-08-29T12:41:52.000Z",
-      "xQuery": "独右派AfD ナチス想起させる公約"
     },
     {
       "time": "21:11",

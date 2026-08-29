@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T15:14:11.699Z",
+  "updatedAt": "2026-08-29T15:36:53.508Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "47NEWS",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aWVVsLVp6NzNyZE9nc0ptZl9JS1B2a0o4eWU3SE5ncVVXLW9EOGpSZGp0QXp4QjFBN0ltN2RXdV9LdVIwdk52ckFnVQ?oc=5",
         "publishedAt": "2026-08-29T12:05:00.000Z"
-      },
-      {
-        "time": "21:00",
-        "title": "【独自】フィジカルＡＩ実用化へ企業連合／製造ロボ制御、京セラなど２０社",
-        "source": "四国新聞",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3dzOHVQUkFjS3lwY0pRd2pJZTU1UEMzMFpqaDNJR0REMjhKcFFPWU9QeFdlQWU4bUhxUVRkOEJWcFRjWTA0N2dzNWpYeU1fcjBLeGNlN3RkRlV4S2ljTkVDd0tQS2NjN29kZnRNeTBJdWZiNmpxQmp0MVEzTWF1OVZSSEg?oc=5",
-        "publishedAt": "2026-08-29T12:00:00.000Z"
       },
       {
         "time": "23:10",
@@ -57,6 +50,13 @@
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTUVFcXRqRGlBV1RJVGRKVVVQSEk4MjFJTk1kVHF5cEplT29sRUJ5S0JTSnhMWHkwbkpoZzNFQVRJWFJ0SzZiM2xjb0g1cUpCUVNzU0E4N0RmVUF5b0xSYlZpbEt6QVhMRFBNZ0t2QWlkZ01ldXhhNVhaVDQzSHV6UEZWNUd6NFVfTVNVYlVucG1LanY0MmJhczFQblJiUmdtdzlaaUFERFZNcjU5bWRVOUw4bjhLVE15?oc=5",
         "publishedAt": "2026-08-28T16:15:15.000Z"
+      },
+      {
+        "time": "21:00",
+        "title": "製造ロボＡＩ実用化へ企業連合",
+        "source": "nnn.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LVXhMdWVwRFctSDVQSHpuSmMtQjQ4TF9EZEt2cDVBMmdzaUJrdEtsUnNDSVZSekJqN0JIUkZJbk9IOFhqSVlRZnVVaG5KMVFf?oc=5",
+        "publishedAt": "2026-08-29T12:00:02.000Z"
       }
     ],
     "worldHeadlines": [
