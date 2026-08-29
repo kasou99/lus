@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T05:15:07.906Z",
+  "updatedAt": "2026-08-29T05:36:48.908Z",
   "items": [
     {
       "time": "12:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "長女が重体 傷害の疑いで両親逮捕"
     },
     {
-      "time": "12:01",
-      "title": "プロテインの値上げ続く 需要拡大",
+      "time": "12:37",
+      "title": "「皇居ラン」に苦情 区の担当者は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593489?source=rss",
-      "publishedAt": "2026-08-29T03:01:25.000Z",
-      "xQuery": "プロテインの値上げ続く 需要拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6593494?source=rss",
+      "publishedAt": "2026-08-29T03:37:36.000Z",
+      "xQuery": "「皇居ラン」に苦情 区の担当者は"
     }
   ]
 };
