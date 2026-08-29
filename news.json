@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-08-29T01:17:06.488Z",
+  "updatedAt": "2026-08-29T01:42:00.005Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:50",
         "title": "〈工作機械受注〉7月は前年比150.4％で歴代3位の1930億円､夏場にも関わらず続く高水準――設備需要の拡大鮮明に",
         "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MTXY3U2dDdjZFRjFHQkVOUnNnYjY3SVUtYTBIREotN2ZYRVhBYlN4bkV5QW1uRTFCR1UxY1FYdTVHM044elM0dmsyNVhNWjNrMndvM0FOZG0teFJOWVlz?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kNkZ0UUt2VTZPZ1ByLUZnRmoxVVNyX19OeGx6a0o3T0FQMjBYNUt5N25WMklOS1VuaHVyWFpfMzhDVkRXalV6QUpSbTJtM1ZSU29ESVZuVUxoeUE?oc=5",
         "publishedAt": "2026-08-28T20:50:00.000Z"
-      },
-      {
-        "time": "05:21",
-        "title": "グローバル横型マシニングセンタ市場トップ20企業",
-        "source": "Spherical Insights",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNEdBeVl2WmxfVmVGRjFiTms0MkhqNEE5NkhTSjlRV0xSRkw3S0x3aWlURTdDSFlwa3BmR01zWTNuSzJ3dEsza3R0eklVeEZKZ2ltbzMzOFZpaGlvZWhSZE52ZnlKODJWYWp1VTh1aTVkcmQ2bGpicjdIRzM0SmswWDJJc1lKdVRwOGRxQkc1V2l6OUtLNGZSbXRKUlhRbXpkSVl2amIwT3pHajRYVTYxakttZENXUFBOYTZ5dk1GWlVxYTZSVFA5aEJJcWZ3NGJCMXR4Q0kyUUNLVHRzd0gyaWxR?oc=5",
-        "publishedAt": "2026-08-28T20:21:37.000Z"
       },
       {
         "time": "13:50",
@@ -57,6 +50,13 @@
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2pTUXpja0F1RDdKcjJrY1RsUGN3WlRNcG1KN0V0TGhjdjFwTFB4a3BVdEl3ZXAwVlhnS3B0eVVicm1HMmo5Zm1DVncxakQxaFdPTDZsbTdrc1hlMmhZV0NoQjBNcmNpQlNpeWN4bExCa0Zxc1Vjc2VwQVRsdEh0MEs0cWRWaW8zc2lxQ1JaYzLSAYwBQVVfeXFMUG1XQlB2THozSHA1eVA0bEtpRm11VjdmYkp3ODQyTXB5WFZZYVNvaHRvZkRjQVJIWUh3c2p3cXdTTVowZlJVREplc3JZZFlQbEQ5aGN5U0NBbXFyaER0WGlKQnBuRnhSdWFJbXBndHpBTWdIdHhPMFU5SlhjUnFBSWdvWmtQZEpRRTZjeEc?oc=5",
         "publishedAt": "2026-08-28T13:34:54.000Z"
+      },
+      {
+        "time": "16:10",
+        "title": "金属塑性加工展示会「MF INDIA 2026」がチェンナイで初開催（インド）",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uMmczaGROVnBKOHBiVW9PT3JFWVpieVhtbUx2S3ZDNHpFZ1dKbEJsSXFScGRnLVN4T3NMREZ2VTFXemRjcUZVN0FWcDIwd2g3NHhta1FZMm1RRy1uMG12WEY3NXN4ejVxcF9r?oc=5",
+        "publishedAt": "2026-08-28T07:10:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,11 +75,11 @@
         "publishedAt": "2026-08-28T13:59:17.000Z"
       },
       {
-        "time": "09:48",
-        "title": "ネパール土石流 生死を分けた15秒",
+        "time": "10:27",
+        "title": "ネパール土石流 山に走った生存者",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593479?source=rss",
-        "publishedAt": "2026-08-29T00:48:30.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593485?source=rss",
+        "publishedAt": "2026-08-29T01:27:41.000Z"
       },
       {
         "time": "15:41",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-08-28T23:39:58.000Z"
       },
       {
+        "time": "10:25",
+        "title": "イオン爆発 立件には高いハードル",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593481?source=rss",
+        "publishedAt": "2026-08-29T01:25:59.000Z"
+      },
+      {
         "time": "09:30",
         "title": "福岡県議に公認出せない 首相意向",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593478?source=rss",
         "publishedAt": "2026-08-29T00:48:30.000Z"
-      },
-      {
-        "time": "18:18",
-        "title": "小学校でひき逃げか 児童の父憤り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593426?source=rss",
-        "publishedAt": "2026-08-28T09:18:04.000Z"
       }
     ],
     "subsidyHeadlines": [

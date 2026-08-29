@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T01:17:07.215Z",
+  "updatedAt": "2026-08-29T01:42:01.351Z",
   "items": [
-    {
-      "time": "08:39",
-      "title": "避難所行かない被災者 各々の事情",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593473?source=rss",
-      "publishedAt": "2026-08-28T23:39:58.000Z",
-      "xQuery": "避難所行かない被災者 各々の事情"
-    },
     {
       "time": "08:07",
       "title": "石川・富山で大雨長引く恐れ 警戒",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "近畿で30年以内にM6.8超 50～60%"
     },
     {
+      "time": "10:25",
+      "title": "イオン爆発 立件には高いハードル",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593481?source=rss",
+      "publishedAt": "2026-08-29T01:25:59.000Z",
+      "xQuery": "イオン爆発 立件には高いハードル"
+    },
+    {
+      "time": "10:27",
+      "title": "ネパール土石流 山に走った生存者",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593485?source=rss",
+      "publishedAt": "2026-08-29T01:27:41.000Z",
+      "xQuery": "ネパール土石流 山に走った生存者"
+    },
+    {
       "time": "09:30",
       "title": "福岡県議に公認出せない 首相意向",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593477?source=rss",
       "publishedAt": "2026-08-29T00:30:46.000Z",
       "xQuery": "福岡県議に公認出せない 首相意向"
-    },
-    {
-      "time": "09:11",
-      "title": "従業員死亡 容疑者は支配的立場か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593476?source=rss",
-      "publishedAt": "2026-08-29T00:11:27.000Z",
-      "xQuery": "従業員死亡 容疑者は支配的立場か"
     }
   ]
 };
