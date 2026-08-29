@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T03:38:23.156Z",
+  "updatedAt": "2026-08-29T04:18:27.125Z",
   "items": [
     {
       "time": "12:11",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "北陸など警報級大雨恐れ 災害警戒"
     },
     {
-      "time": "11:35",
-      "title": "邦人大学生の露派遣を再開 外務省",
+      "time": "12:59",
+      "title": "円が下落 介入効果4週間で陰り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593488?source=rss",
-      "publishedAt": "2026-08-29T02:35:43.000Z",
-      "xQuery": "邦人大学生の露派遣を再開 外務省"
-    },
-    {
-      "time": "10:27",
-      "title": "ネパール土石流 山に走った生存者",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593485?source=rss",
-      "publishedAt": "2026-08-29T01:27:41.000Z",
-      "xQuery": "ネパール土石流 山に走った生存者"
+      "url": "https://news.yahoo.co.jp/pickup/6593500?source=rss",
+      "publishedAt": "2026-08-29T03:59:26.000Z",
+      "xQuery": "円が下落 介入効果4週間で陰り"
     },
     {
       "time": "12:31",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593493?source=rss",
       "publishedAt": "2026-08-29T03:05:41.000Z",
       "xQuery": "長女が重体 傷害の疑いで両親逮捕"
+    },
+    {
+      "time": "10:47",
+      "title": "17年で社長が7人 百貨店消滅の街",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593483?source=rss",
+      "publishedAt": "2026-08-29T01:47:37.000Z",
+      "xQuery": "17年で社長が7人 百貨店消滅の街"
     }
   ]
 };
