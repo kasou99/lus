@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-28T23:36:48.021Z",
+  "updatedAt": "2026-08-29T00:43:40.151Z",
   "items": [
+    {
+      "time": "08:39",
+      "title": "避難所行かない被災者 各々の事情",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593473?source=rss",
+      "publishedAt": "2026-08-28T23:39:58.000Z",
+      "xQuery": "避難所行かない被災者 各々の事情"
+    },
     {
       "time": "08:07",
       "title": "石川・富山で大雨長引く恐れ 警戒",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593469?source=rss",
       "publishedAt": "2026-08-28T23:07:52.000Z",
       "xQuery": "石川・富山で大雨長引く恐れ 警戒"
-    },
-    {
-      "time": "07:54",
-      "title": "ネパール土石流 行方不明2500人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593467?source=rss",
-      "publishedAt": "2026-08-28T22:54:56.000Z",
-      "xQuery": "ネパール土石流 行方不明2500人"
     },
     {
       "time": "07:43",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "近畿で30年以内にM6.8超 50～60%"
     },
     {
-      "time": "07:40",
-      "title": "中高生3人流され不明 捜索続く",
+      "time": "09:30",
+      "title": "福岡県議に公認出せない 首相意向",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593468?source=rss",
-      "publishedAt": "2026-08-28T22:40:08.000Z",
-      "xQuery": "中高生3人流され不明 捜索続く"
+      "url": "https://news.yahoo.co.jp/pickup/6593477?source=rss",
+      "publishedAt": "2026-08-29T00:30:46.000Z",
+      "xQuery": "福岡県議に公認出せない 首相意向"
     },
     {
-      "time": "07:25",
-      "title": "赤ちゃんの遺体を遺棄疑い 女逮捕",
+      "time": "09:11",
+      "title": "従業員死亡 容疑者は支配的立場か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593464?source=rss",
-      "publishedAt": "2026-08-28T22:25:01.000Z",
-      "xQuery": "赤ちゃんの遺体を遺棄疑い 女逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6593476?source=rss",
+      "publishedAt": "2026-08-29T00:11:27.000Z",
+      "xQuery": "従業員死亡 容疑者は支配的立場か"
     }
   ]
 };

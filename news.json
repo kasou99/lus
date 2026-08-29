@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T23:36:47.208Z",
+  "updatedAt": "2026-08-29T00:43:39.396Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,6 +10,13 @@
         "publishedAt": "2026-08-28T20:50:00.000Z"
       },
       {
+        "time": "13:50",
+        "title": "〔Market Flash〕7月工作機械受注は欧州で意外な増加～野村",
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mYURWNHl1bTJXNWJraFJmM1otMHZ1NUhNOGprQjhsTDVrS29MWTBuUkNLejhaRUdTVHJ3SFZrRmdFWE81TGw4czRkb01zUjJWdzhoZ2lSNEhfelRtaFRUcUNhM0paTnlkV3lTS0VuNms?oc=5",
+        "publishedAt": "2026-08-28T04:50:00.000Z"
+      },
+      {
         "time": "13:00",
         "title": "小型低背スイッチング電源に最大65WのUSB PD対応モデル フエニックスコンタクト：FAニュース",
         "source": "MONOist",
@@ -18,17 +25,17 @@
       },
       {
         "time": "13:50",
-        "title": "〔Market Flash〕7月工作機械受注は欧州で意外な増加～野村",
-        "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mYURWNHl1bTJXNWJraFJmM1otMHZ1NUhNOGprQjhsTDVrS29MWTBuUkNLejhaRUdTVHJ3SFZrRmdFWE81TGw4czRkb01zUjJWdzhoZ2lSNEhfelRtaFRUcUNhM0paTnlkV3lTS0VuNms?oc=5",
-        "publishedAt": "2026-08-28T04:50:00.000Z"
-      },
-      {
-        "time": "13:50",
         "title": "〔Market Flash〕7月工作機械受注は欧州で意外な増加～野村 | 個別記事 | ニュース",
         "source": "トレーダーズ・ウェブ",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1obFF5T0hBVm1CbFpuRG96NWJ3NFBsMnd2cHZnUURJY0l6V0sxOW9lV0xKQ1VIMThqZFNHTWYwOHJTQ28xTlg1V2dMU0ZmaU5hZjdzWVd0c2NtZHds?oc=5",
         "publishedAt": "2026-08-28T04:50:00.000Z"
+      },
+      {
+        "time": "00:11",
+        "title": "経営ひと言／産機テクノス・大泉東専務「独自製品を普及」",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vbzdDUGlJOWR3dFRwVlRBSHJFOVVILW1KNndPSjdSQnFnaGJXWFZtWWdLYVhhaVgwVDctVHhmV1I0Rlk3d2xXRllyRXlZajdQVXlKWUo4OUw1cC1kOXFlOTFUZzlzYUE5cUdhalFYVQ?oc=5",
+        "publishedAt": "2026-08-28T15:11:40.000Z"
       },
       {
         "time": "01:15",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-08-28T08:03:00.000Z"
       },
       {
-        "time": "22:34",
-        "title": "サンワテクノス Research Memo（6）：AI関連の設備投資拡大を追い風に中期目標に対して上振れる可能性も（2）",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2pTUXpja0F1RDdKcjJrY1RsUGN3WlRNcG1KN0V0TGhjdjFwTFB4a3BVdEl3ZXAwVlhnS3B0eVVicm1HMmo5Zm1DVncxakQxaFdPTDZsbTdrc1hlMmhZV0NoQjBNcmNpQlNpeWN4bExCa0Zxc1Vjc2VwQVRsdEh0MEs0cWRWaW8zc2lxQ1JaYzLSAYwBQVVfeXFMUG1XQlB2THozSHA1eVA0bEtpRm11VjdmYkp3ODQyTXB5WFZZYVNvaHRvZkRjQVJIWUh3c2p3cXdTTVowZlJVREplc3JZZFlQbEQ5aGN5U0NBbXFyaER0WGlKQnBuRnhSdWFJbXBndHpBTWdIdHhPMFU5SlhjUnFBSWdvWmtQZEpRRTZjeEc?oc=5",
-        "publishedAt": "2026-08-28T13:34:54.000Z"
-      },
-      {
-        "time": "13:50",
-        "title": "鹿児島精機が霧島に新工場、半導体・宇宙向け増産",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EaUNpRS1yV2VYSmhGa3NfQ2xfUkxqaXY0TEVZZlMyckRXLWlLMUltRjZ6ejNkaDllTjNWcWFKWF9OS2t0UW1HSw?oc=5",
-        "publishedAt": "2026-08-28T04:50:39.000Z"
+        "time": "06:00",
+        "title": "勤務間インターバル、義務化すべきか？ 社員が自死した社長の思い",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wY09OSk9fNEdmYzU2U1hFVDl0QXk1djJOeXhuZ01QcnJIbDJJNjBvb3J6Sm9kcTFmdHNDTWhoWmV5Tzc5bGp0QXlHM2VfcUVHMWlaQW1NSmppejFVVVVxQzU1YUVua2M?oc=5",
+        "publishedAt": "2026-08-28T21:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,25 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:39",
+        "title": "避難所行かない被災者 各々の事情",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593473?source=rss",
+        "publishedAt": "2026-08-28T23:39:58.000Z"
+      },
+      {
         "time": "22:14",
         "title": "熊本県 地震による水道の断水解消",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593449?source=rss",
         "publishedAt": "2026-08-28T13:14:42.000Z"
+      },
+      {
+        "time": "09:30",
+        "title": "福岡県議に公認出せない 首相意向",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593477?source=rss",
+        "publishedAt": "2026-08-29T00:30:46.000Z"
       },
       {
         "time": "07:40",
@@ -163,18 +177,11 @@
         "publishedAt": "2026-08-28T22:40:08.000Z"
       },
       {
-        "time": "19:43",
-        "title": "社員死亡 数年前から給与未払いか",
+        "time": "09:11",
+        "title": "従業員死亡 容疑者は支配的立場か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593434?source=rss",
-        "publishedAt": "2026-08-28T10:43:27.000Z"
-      },
-      {
-        "time": "22:17",
-        "title": "飲酒事故で2児失う 耳残る泣き声",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593450?source=rss",
-        "publishedAt": "2026-08-28T13:17:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593476?source=rss",
+        "publishedAt": "2026-08-29T00:11:27.000Z"
       },
       {
         "time": "18:18",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593426?source=rss",
         "publishedAt": "2026-08-28T09:18:04.000Z"
-      },
-      {
-        "time": "07:25",
-        "title": "赤ちゃんの遺体を遺棄疑い 女逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593464?source=rss",
-        "publishedAt": "2026-08-28T22:25:01.000Z"
       }
     ],
     "subsidyHeadlines": [
