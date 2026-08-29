@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T09:36:53.457Z",
+  "updatedAt": "2026-08-29T10:14:32.690Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "Spherical Insights",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNEdBeVl2WmxfVmVGRjFiTms0MkhqNEE5NkhTSjlRV0xSRkw3S0x3aWlURTdDSFlwa3BmR01zWTNuSzJ3dEsza3R0eklVeEZKZ2ltbzMzOFZpaGlvZWhSZE52ZnlKODJWYWp1VTh1aTVkcmQ2bGpicjdIRzM0SmswWDJJc1lKdVRwOGRxQkc1V2l6OUtLNGZSbXRKUlhRbXpkSVl2amIwT3pHajRYVTYxakttZENXUFBOYTZ5dk1GWlVxYTZSVFA5aEJJcWZ3NGJCMXR4Q0kyUUNLVHRzd0gyaWxR?oc=5",
         "publishedAt": "2026-08-28T20:21:37.000Z"
+      },
+      {
+        "time": "17:10",
+        "title": "DXの正解、備後でビンゴ！株式会社FRICS Fabが「びんごデジタルラボEXPO」に出展(9/30)",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14RjhGa0RHRkZxemJPb1YwM0Jqc1NkNThyLXd3QnZQZnU5aHMzVERSblg1b2RzZkw1cFdMZlBUMWh0NFVrQ3kzUHdteC1odlM0ZFBUWmFZOGNkSHVmLWlzTTZZNko5UDVaSnJCZlByZWtodw?oc=5",
+        "publishedAt": "2026-08-29T08:10:00.000Z"
       },
       {
         "time": "06:00",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zWDMtWTZ1UFk2Vl9mVmdoMUVEY3p2WjNNN3hVUG55ZHMyYmtPZHNRX25sVkRnQzdRQjg0UzVNWDlDbWtsUUJlMVc5N3RadzBBOEpWYjd2MmJjVmJQeDF2SjRDZHplOU51N3BiVlFHdw?oc=5",
         "publishedAt": "2026-08-28T14:15:20.000Z"
-      },
-      {
-        "time": "04:18",
-        "title": "バクニン省の農家は、インダストリー4.0技術のおかげで、養殖方法を変え、労働力を削減している。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmQxb250bDZ3UDBuRXREQ3Yzbm5lVF9wUjY0eTJKYWpzS3RPNzU3VDgtdTQ2d0pVRl9BdEhCc2dFSTd0VnBOUFJrM3BDaFBkS1BXWkJLdTJ1UDcwVWdTdUxkNUdQRjN5OF96SklGYjNwamhnY0dSWEtkMDFBVFh5MF9mLWxWZ1haeGVoUEZ4d2dqdUFPdExr?oc=5",
-        "publishedAt": "2026-08-28T19:18:07.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,18 +163,11 @@
         "publishedAt": "2026-08-29T09:34:51.000Z"
       },
       {
-        "time": "17:58",
-        "title": "揺れたら逃げる 津波想定34mの町",
+        "time": "18:49",
+        "title": "津波想定34m 変化する町民の行動",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593524?source=rss",
-        "publishedAt": "2026-08-29T08:58:37.000Z"
-      },
-      {
-        "time": "09:30",
-        "title": "福岡県議に公認出せない 首相意向",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593477?source=rss",
-        "publishedAt": "2026-08-29T00:30:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593542?source=rss",
+        "publishedAt": "2026-08-29T09:49:20.000Z"
       },
       {
         "time": "18:02",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593525?source=rss",
         "publishedAt": "2026-08-29T07:53:18.000Z"
+      },
+      {
+        "time": "14:10",
+        "title": "大河ドラマ巡り2市がNHKに文書",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593506?source=rss",
+        "publishedAt": "2026-08-29T05:10:27.000Z"
       }
     ],
     "subsidyHeadlines": [

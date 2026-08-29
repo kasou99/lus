@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T09:36:54.339Z",
+  "updatedAt": "2026-08-29T10:14:34.067Z",
   "items": [
     {
       "time": "15:15",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "避難3日目迎え疲労の色 石川富山"
     },
     {
-      "time": "17:58",
-      "title": "揺れたら逃げる 津波想定34mの町",
+      "time": "18:49",
+      "title": "津波想定34m 変化する町民の行動",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593524?source=rss",
-      "publishedAt": "2026-08-29T08:58:37.000Z",
-      "xQuery": "揺れたら逃げる 津波想定34mの町"
+      "url": "https://news.yahoo.co.jp/pickup/6593542?source=rss",
+      "publishedAt": "2026-08-29T09:49:20.000Z",
+      "xQuery": "津波想定34m 変化する町民の行動"
     },
     {
       "time": "18:34",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "海で流され不明の中高生3人 死亡"
     },
     {
-      "time": "18:02",
-      "title": "東武事故 中継見張り員は移動中か",
+      "time": "18:56",
+      "title": "観光客らバイク通行 吊り橋が危機",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593533?source=rss",
-      "publishedAt": "2026-08-29T09:02:44.000Z",
-      "xQuery": "東武事故 中継見張り員は移動中か"
+      "url": "https://news.yahoo.co.jp/pickup/6593543?source=rss",
+      "publishedAt": "2026-08-29T09:56:23.000Z",
+      "xQuery": "観光客らバイク通行 吊り橋が危機"
     },
     {
-      "time": "16:16",
-      "title": "南極海でアザラシ大量死の恐れ",
+      "time": "12:37",
+      "title": "「皇居ラン」に苦情 区の担当者は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593520?source=rss",
-      "publishedAt": "2026-08-29T07:16:45.000Z",
-      "xQuery": "南極海でアザラシ大量死の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6593494?source=rss",
+      "publishedAt": "2026-08-29T03:37:36.000Z",
+      "xQuery": "「皇居ラン」に苦情 区の担当者は"
     }
   ]
 };
