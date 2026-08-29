@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-29T18:19:03.209Z",
+  "updatedAt": "2026-08-29T18:38:04.526Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "20:42",
+        "time": "02:02",
         "title": "画像 | 〈工作機械受注〉7月は前年比150.4％で歴代3位の1930億円､夏場にも関わらず続く高水準――設備需要の拡大鮮明に",
         "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5cV9HZWxmZlVwdC1wUlM4d0lfZXAzcE1OVlVXMTZsY0pYY0haMTB6VlE4SXFCcWgzY2lSb2tKVjlnSjhKZF9mY0gxSVh6YUZSNjFrVTZ0SG0wUXRaT3c?oc=5",
-        "publishedAt": "2026-08-29T11:42:33.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1laHdlM19JRVFxcFZDTkhfbzBIX215dmRqRHBLWUs5ak5aYjdENjRIRkVqZVp1cHZVM1dnclEyQXRvbVB0N1otaUpPR3RPM0hFSlV1ZTFlOFJkdkJnRnc?oc=5",
+        "publishedAt": "2026-08-29T17:02:10.000Z"
       },
       {
         "time": "21:13",
@@ -22,13 +22,6 @@
         "source": "埼玉新聞",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oMmdUOHdvZ0pVb2p6R0hBNUhhZjhVOE9HQnFpVVlFWW9seW9QdW9KZkRnSkJnNkNzUC1TaUpORjRmTkVGOVpoOGJEeThTWC1MUDhxQkk0RQ?oc=5",
         "publishedAt": "2026-08-29T12:00:00.000Z"
-      },
-      {
-        "time": "21:43",
-        "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XWFJpcE1yZEl4MVJibXE0WWFpNnZQN1BWNDVoRXp3Z0lxM2YxOUQycTloZDhmUGFIdW5memNCeUh0empGc1YtQWZKaWpjWlgwa0VDak5DVlYzVnQzQmtJb0p5N3MxaVJPLS0wZmRfRGZYd2c1cm45Xw?oc=5",
-        "publishedAt": "2026-08-29T12:43:55.000Z"
       },
       {
         "time": "05:21",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-08-29T13:30:28.000Z"
       },
       {
-        "time": "23:05",
+        "time": "21:05",
+        "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社",
+        "source": "47NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aWVVsLVp6NzNyZE9nc0ptZl9JS1B2a0o4eWU3SE5ncVVXLW9EOGpSZGp0QXp4QjFBN0ltN2RXdV9LdVIwdk52ckFnVQ?oc=5",
+        "publishedAt": "2026-08-29T12:05:00.000Z"
+      },
+      {
+        "time": "23:09",
         "title": "京セラや神戸製鋼など20社、国産フィジカルAIで工作ロボ共同開発へ",
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qd29ubmp0ME5OcHFGUE1lVl92OF9weTFMSXEzZm9UaFlrMHkzMlZnSkZ1emdXenpENTg5NGY2RjVEN21hU25YZGxKeHQ2ME1nRW5BUG5qczVpNG9YMzV5LW9acWNHcG5rc3VoWFJiVmNlWmJ1?oc=5",
-        "publishedAt": "2026-08-29T14:05:00.000Z"
+        "publishedAt": "2026-08-29T14:09:25.000Z"
       }
     ],
     "worldHeadlines": [
