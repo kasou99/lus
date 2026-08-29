@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T05:36:48.298Z",
+  "updatedAt": "2026-08-29T06:26:26.404Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-08-28T13:34:54.000Z"
       },
       {
-        "time": "21:02",
-        "title": "【電子版】研削盤で世界首位のスイスＵＧＧ、レーザーなど新技術にも注力",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpbDNuX3liWk5RSGtMQWljRkN1QWd1RjRvQkhUbmlpLWkyU05vSFpyTlJvbXBoVzZXbXhNNWVzTG94NklvVmdkOFladjhfMXlhLWNKSk5aVGhmWnBENlBOR1BLWElVYU1qMUotTXh3?oc=5",
-        "publishedAt": "2026-08-28T12:02:46.000Z"
-      },
-      {
         "time": "17:03",
         "title": "◎エンシュウ、９月３０日にタイ子会社の生産停止",
         "source": "時事通信ニュース",
@@ -57,6 +50,13 @@
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTllRV19XanZ0SlN4UGlJZkdhX0F2Q0stckd0RHE3YlY4MlJNalBIbFNwNG5sODNsaURGOHpBMndxUUJPSC1sM2lDRzhkdkplb3h4QjRhNnlUZmNXZjFHcXRqalczZEhvQm4waU5XZGQ1bVMtd0s4eXg5cmxnZlU1YkVWWE1LRDVZREdzak9LOU1HYThqYlNkU2RJMTMzb1JFZWYzSm1KVE5mNkJIXzVoOWNwOWNxMmxNZ2VUN2xMSzBaUWdIOFNSdHJfejRyaE41U0HSAYABQVVfeXFMTngyNmNyWUtYa0FuM3pFcnlsRVlscHpGbGZhWXJJOWtwNHJuaHR3cEVmN000S2l4R2NGVHVzRUh6cDM3RzZEejk0cUhkRGd6RjB6b1Vzb2pGNk9JYW9TYV9MeWhxZHh3MzJpdm1fOVRvZnh4T29tdWFtT2NWYUFZV1k?oc=5",
         "publishedAt": "2026-08-28T08:17:00.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "勤務間インターバル、義務化すべきか？ 社員が自死した社長の思い",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wY09OSk9fNEdmYzU2U1hFVDl0QXk1djJOeXhuZ01QcnJIbDJJNjBvb3J6Sm9kcTFmdHNDTWhoWmV5Tzc5bGp0QXlHM2VfcUVHMWlaQW1NSmppejFVVVVxQzU1YUVua2M?oc=5",
+        "publishedAt": "2026-08-28T21:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "08:39",
-        "title": "避難所行かない被災者 各々の事情",
+        "time": "15:15",
+        "title": "避難3日目迎え疲労の色 石川富山",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593473?source=rss",
-        "publishedAt": "2026-08-28T23:39:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593510?source=rss",
+        "publishedAt": "2026-08-29T06:15:38.000Z"
       },
       {
         "time": "10:25",
@@ -163,11 +163,11 @@
         "publishedAt": "2026-08-29T01:25:59.000Z"
       },
       {
-        "time": "13:58",
-        "title": "海で不明の中高生か 2人死亡確認",
+        "time": "14:53",
+        "title": "海で流された中高生 2人が死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593507?source=rss",
-        "publishedAt": "2026-08-29T04:58:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593511?source=rss",
+        "publishedAt": "2026-08-29T05:53:50.000Z"
       },
       {
         "time": "09:30",

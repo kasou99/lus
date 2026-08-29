@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T05:36:48.908Z",
+  "updatedAt": "2026-08-29T06:26:26.997Z",
   "items": [
     {
       "time": "12:11",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "北陸など警報級大雨恐れ 災害警戒"
     },
     {
-      "time": "12:59",
-      "title": "円が下落 介入効果4週間で陰り",
+      "time": "11:54",
+      "title": "中道改革連合 分裂の公算大きく",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593500?source=rss",
-      "publishedAt": "2026-08-29T03:59:26.000Z",
-      "xQuery": "円が下落 介入効果4週間で陰り"
+      "url": "https://news.yahoo.co.jp/pickup/6593492?source=rss",
+      "publishedAt": "2026-08-29T02:54:19.000Z",
+      "xQuery": "中道改革連合 分裂の公算大きく"
     },
     {
-      "time": "13:58",
-      "title": "海で不明の中高生か 2人死亡確認",
+      "time": "14:53",
+      "title": "海で流された中高生 2人が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593507?source=rss",
-      "publishedAt": "2026-08-29T04:58:22.000Z",
-      "xQuery": "海で不明の中高生か 2人死亡確認"
+      "url": "https://news.yahoo.co.jp/pickup/6593511?source=rss",
+      "publishedAt": "2026-08-29T05:53:50.000Z",
+      "xQuery": "海で流された中高生 2人が死亡"
     },
     {
-      "time": "12:05",
-      "title": "長女が重体 傷害の疑いで両親逮捕",
+      "time": "13:31",
+      "title": "ネパール土石流 婚約者が不明で涙",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593493?source=rss",
-      "publishedAt": "2026-08-29T03:05:41.000Z",
-      "xQuery": "長女が重体 傷害の疑いで両親逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6593504?source=rss",
+      "publishedAt": "2026-08-29T04:31:14.000Z",
+      "xQuery": "ネパール土石流 婚約者が不明で涙"
     },
     {
       "time": "12:37",
