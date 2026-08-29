@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T02:21:56.516Z",
+  "updatedAt": "2026-08-29T02:38:18.413Z",
   "items": [
     {
-      "time": "08:07",
-      "title": "石川・富山で大雨長引く恐れ 警戒",
+      "time": "09:57",
+      "title": "米 エジプト大手銀UAE支店に制裁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593469?source=rss",
-      "publishedAt": "2026-08-28T23:07:52.000Z",
-      "xQuery": "石川・富山で大雨長引く恐れ 警戒"
-    },
-    {
-      "time": "07:43",
-      "title": "近畿で30年以内にM6.8超 50～60%",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593466?source=rss",
-      "publishedAt": "2026-08-28T22:43:03.000Z",
-      "xQuery": "近畿で30年以内にM6.8超 50～60%"
+      "url": "https://news.yahoo.co.jp/pickup/6593480?source=rss",
+      "publishedAt": "2026-08-29T00:57:38.000Z",
+      "xQuery": "米 エジプト大手銀UAE支店に制裁"
     },
     {
       "time": "10:25",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593477?source=rss",
       "publishedAt": "2026-08-29T00:30:46.000Z",
       "xQuery": "福岡県議に公認出せない 首相意向"
+    },
+    {
+      "time": "09:11",
+      "title": "従業員死亡 容疑者は支配的立場か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593476?source=rss",
+      "publishedAt": "2026-08-29T00:11:27.000Z",
+      "xQuery": "従業員死亡 容疑者は支配的立場か"
     }
   ]
 };
