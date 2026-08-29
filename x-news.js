@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T06:44:38.707Z",
+  "updatedAt": "2026-08-29T07:16:34.754Z",
   "items": [
     {
       "time": "15:34",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "海で流された中高生 2人が死亡"
     },
     {
-      "time": "13:31",
-      "title": "ネパール土石流 婚約者が不明で涙",
+      "time": "15:34",
+      "title": "妹を遺棄疑い 死亡関与ほのめかす",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593504?source=rss",
-      "publishedAt": "2026-08-29T04:31:14.000Z",
-      "xQuery": "ネパール土石流 婚約者が不明で涙"
+      "url": "https://news.yahoo.co.jp/pickup/6593517?source=rss",
+      "publishedAt": "2026-08-29T06:34:24.000Z",
+      "xQuery": "妹を遺棄疑い 死亡関与ほのめかす"
     },
     {
       "time": "12:37",

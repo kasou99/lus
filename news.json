@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T06:44:37.982Z",
+  "updatedAt": "2026-08-29T07:16:33.651Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,25 @@
         "publishedAt": "2026-08-28T20:21:37.000Z"
       },
       {
+        "time": "06:00",
+        "title": "勤務間インターバル、義務化すべきか？ 社員が自死した社長の思い",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wY09OSk9fNEdmYzU2U1hFVDl0QXk1djJOeXhuZ01QcnJIbDJJNjBvb3J6Sm9kcTFmdHNDTWhoWmV5Tzc5bGp0QXlHM2VfcUVHMWlaQW1NSmppejFVVVVxQzU1YUVua2M?oc=5",
+        "publishedAt": "2026-08-28T21:00:00.000Z"
+      },
+      {
         "time": "01:15",
         "title": "Taikan社はバクニン省に製造工場を開設し、ベトナムにおけるCNC工作機械の供給能力を強化した。",
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTUVFcXRqRGlBV1RJVGRKVVVQSEk4MjFJTk1kVHF5cEplT29sRUJ5S0JTSnhMWHkwbkpoZzNFQVRJWFJ0SzZiM2xjb0g1cUpCUVNzU0E4N0RmVUF5b0xSYlZpbEt6QVhMRFBNZ0t2QWlkZ01ldXhhNVhaVDQzSHV6UEZWNUd6NFVfTVNVYlVucG1LanY0MmJhczFQblJiUmdtdzlaaUFERFZNcjU5bWRVOUw4bjhLVE15?oc=5",
         "publishedAt": "2026-08-28T16:15:15.000Z"
+      },
+      {
+        "time": "23:45",
+        "title": "ファイルいい話／関東精機 熱変位抑制装置×企業理念",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3ZmZrLTg4aU5WcjhkYS1tX1FMWVJOLUt2UFhraVVFZTI4c3VmT3dpQzZrdE5xQ1RLbW9RbFJ5RjNtd2pnSk5LaHZlaC1GWDZYT3BLWFRTdDE4Q0R5cnI4Y1pYaHVFNENKWDcxUWktcw?oc=5",
+        "publishedAt": "2026-08-28T14:45:46.000Z"
       },
       {
         "time": "22:34",
@@ -38,25 +52,11 @@
         "publishedAt": "2026-08-28T08:03:00.000Z"
       },
       {
-        "time": "16:10",
-        "title": "金属塑性加工展示会「MF INDIA 2026」がチェンナイで初開催（インド）",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uMmczaGROVnBKOHBiVW9PT3JFWVpieVhtbUx2S3ZDNHpFZ1dKbEJsSXFScGRnLVN4T3NMREZ2VTFXemRjcUZVN0FWcDIwd2g3NHhta1FZMm1RRy1uMG12WEY3NXN4ejVxcF9r?oc=5",
-        "publishedAt": "2026-08-28T07:10:00.000Z"
-      },
-      {
-        "time": "17:17",
-        "title": "エンシュウ、９月３０日にタイ子会社の生産停止",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTllRV19XanZ0SlN4UGlJZkdhX0F2Q0stckd0RHE3YlY4MlJNalBIbFNwNG5sODNsaURGOHpBMndxUUJPSC1sM2lDRzhkdkplb3h4QjRhNnlUZmNXZjFHcXRqalczZEhvQm4waU5XZGQ1bVMtd0s4eXg5cmxnZlU1YkVWWE1LRDVZREdzak9LOU1HYThqYlNkU2RJMTMzb1JFZWYzSm1KVE5mNkJIXzVoOWNwOWNxMmxNZ2VUN2xMSzBaUWdIOFNSdHJfejRyaE41U0HSAYABQVVfeXFMTngyNmNyWUtYa0FuM3pFcnlsRVlscHpGbGZhWXJJOWtwNHJuaHR3cEVmN000S2l4R2NGVHVzRUh6cDM3RzZEejk0cUhkRGd6RjB6b1Vzb2pGNk9JYW9TYV9MeWhxZHh3MzJpdm1fOVRvZnh4T29tdWFtT2NWYUFZV1k?oc=5",
-        "publishedAt": "2026-08-28T08:17:00.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "勤務間インターバル、義務化すべきか？ 社員が自死した社長の思い",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wY09OSk9fNEdmYzU2U1hFVDl0QXk1djJOeXhuZ01QcnJIbDJJNjBvb3J6Sm9kcTFmdHNDTWhoWmV5Tzc5bGp0QXlHM2VfcUVHMWlaQW1NSmppejFVVVVxQzU1YUVua2M?oc=5",
-        "publishedAt": "2026-08-28T21:00:00.000Z"
+        "time": "04:18",
+        "title": "バクニン省の農家は、インダストリー4.0技術のおかげで、養殖方法を変え、労働力を削減している。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmQxb250bDZ3UDBuRXREQ3Yzbm5lVF9wUjY0eTJKYWpzS3RPNzU3VDgtdTQ2d0pVRl9BdEhCc2dFSTd0VnBOUFJrM3BDaFBkS1BXWkJLdTJ1UDcwVWdTdUxkNUdQRjN5OF96SklGYjNwamhnY0dSWEtkMDFBVFh5MF9mLWxWZ1haeGVoUEZ4d2dqdUFPdExr?oc=5",
+        "publishedAt": "2026-08-28T19:18:07.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,10 +218,10 @@
       },
       {
         "time": "16:00",
-        "title": "2026年 補助金まとめ！中小企業向け主要補助金6制度のポイントを解説",
+        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説",
         "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90V3dlOVVrSGp0bjNKUVFUck1BaHE1aE1wMkRCYUFWMG14b0htdHlOVWZQWnYtTE95RE5vcDhwT0ctell1aWxwNXRlNmVPYkNFNHpQaTA3YklPWTRlNFdudGR6N2lKdw?oc=5",
+        "publishedAt": "2026-08-07T07:00:00.000Z"
       },
       {
         "time": "16:44",
