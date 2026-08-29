@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-29T21:13:47.431Z",
+  "updatedAt": "2026-08-29T21:37:05.713Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "05:00",
-        "title": "金沢発フィジカルＡＩで２０社連合 京セラ、神戸製鋼所など アルムの工作機械にデータ｜経済｜全国のニュース",
-        "source": "北國新聞",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45WUJEd01PYVlGcGVyS053MmQ4MmJ0WXNsc2lZU2dwZ2ZlWUxFYVU4bU5Sal8ycWtyakRLQWRpVVZ4bjd3YnZROU4wSl9xcTM2VDVFdUFYNA?oc=5",
-        "publishedAt": "2026-08-29T20:00:00.000Z"
-      },
       {
         "time": "21:13",
         "title": "稼働するアルムの自動工作機械「TTMC」＝7月、金沢市 - 【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社 - 写真・画像(1/2)",
         "source": "西日本新聞me",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oLTM0a3JyNmd3ZDdhWmJob3dLWE4wNXRoWFd1SjRfMHRqUzdHYkc2RUlBeHJBMlFQci1oS1Y4QWVfQ3lCdDNMWkRoRHRCbjBubXducFlKUQ?oc=5",
         "publishedAt": "2026-08-29T12:13:23.000Z"
+      },
+      {
+        "time": "22:53",
+        "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社",
+        "source": "北海道新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV19LQzRJQWpiOURLNl9MMWZkckIzamxlT1ZGbmxydXpQTG5yQ29FRVEzeFVGNUE4a2Y4MEI3WGFUTEtEVmoxNlp6RHJnRk1hbk5oN3d4WGZJbTNZM0J2YTB2SVR0TnlVYVY5U1lXbERkSFVpeFpRX0VRTmxvallsRDdtR2NsVFZG?oc=5",
+        "publishedAt": "2026-08-29T13:53:13.000Z"
       },
       {
         "time": "21:00",
@@ -24,11 +24,25 @@
         "publishedAt": "2026-08-29T12:00:00.000Z"
       },
       {
-        "time": "21:43",
-        "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XWFJpcE1yZEl4MVJibXE0WWFpNnZQN1BWNDVoRXp3Z0lxM2YxOUQycTloZDhmUGFIdW5memNCeUh0empGc1YtQWZKaWpjWlgwa0VDak5DVlYzVnQzQmtJb0p5N3MxaVJPLS0wZmRfRGZYd2c1cm45Xw?oc=5",
-        "publishedAt": "2026-08-29T12:43:55.000Z"
+        "time": "18:31",
+        "title": "工作機械より強ぇ!!これが日本の最強産業装置だ!!～【SMT・半導体後工程】 Vatican Sspx (hvjAW5iCAd)",
+        "source": "Mshale",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56OVZWX1hoUkd1WjFKRjNKQlV0eUIxNW9UTjdJUlZldDRic0VBV2lyTUZKaFNmYmJ5Nm1YTTduWTRVbzlwNzBDMHV0Q0pYRmxvUlFRSkNyLW1ueVk?oc=5",
+        "publishedAt": "2026-08-29T09:31:53.000Z"
+      },
+      {
+        "time": "16:48",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-08-29T07:48:16.000Z"
+      },
+      {
+        "time": "05:02",
+        "title": "【独自】フィジカルＡＩ実用化へ企業連合 製造ロボ制御、京セラなど２０社 | 全国のニュース",
+        "source": "福井新聞社",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nSm5qZkdWdFFOcUxpUDVsb0xnR0d2ZjZoRGw4aWtLVmxGZFN5T1AyYW5EYWZHLUxsMldpelRwSDFSYkNvRlJRWFZWMXgwSXd3U2NtSVRnZTQ2MDV2WWs0bXplNkJydlkxLWRhRg?oc=5",
+        "publishedAt": "2026-08-29T20:02:23.000Z"
       },
       {
         "time": "22:30",
@@ -43,20 +57,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qd29ubmp0ME5OcHFGUE1lVl92OF9weTFMSXEzZm9UaFlrMHkzMlZnSkZ1emdXenpENTg5NGY2RjVEN21hU25YZGxKeHQ2ME1nRW5BUG5qczVpNG9YMzV5LW9acWNHcG5rc3VoWFJiVmNlWmJ1?oc=5",
         "publishedAt": "2026-08-29T14:05:00.000Z"
-      },
-      {
-        "time": "03:26",
-        "title": "【写真・画像】【独自】フィジカルＡＩ実用化へ企業連合 製造ロボ制御、京セラなど２０社 | | 全国のニュース",
-        "source": "佐賀新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rMkdIdlhWblRHSV9Cbm5TaEFDRnNpelVOVnlNMGROTUdmY3JhTlV3dG9NdEFseTRqUE1qNUF5N3kyNUx2dmVGU2JUUExZMGJobnNWZVIwU05QenhJLVY4UlZSWDE?oc=5",
-        "publishedAt": "2026-08-29T18:26:26.000Z"
-      },
-      {
-        "time": "21:00",
-        "title": "製造ロボＡＩ実用化へ企業連合",
-        "source": "nnn.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LVXhMdWVwRFctSDVQSHpuSmMtQjQ4TF9EZEt2cDVBMmdzaUJrdEtsUnNDSVZSekJqN0JIUkZJbk9IOFhqSVlRZnVVaG5KMVFf?oc=5",
-        "publishedAt": "2026-08-29T12:00:02.000Z"
       }
     ],
     "worldHeadlines": [

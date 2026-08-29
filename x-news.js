@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T21:13:48.428Z",
+  "updatedAt": "2026-08-29T21:37:06.476Z",
   "items": [
     {
       "time": "04:58",
@@ -10,6 +10,22 @@ window.LUS_X_NEWS = {
       "xQuery": "命守って 福井県に大雨特別警報"
     },
     {
+      "time": "06:14",
+      "title": "大雨で浸水リスク 車移動は危険",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593582?source=rss",
+      "publishedAt": "2026-08-29T21:14:58.000Z",
+      "xQuery": "大雨で浸水リスク 車移動は危険"
+    },
+    {
+      "time": "06:23",
+      "title": "福井県に大雨特別警報 最新情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593581?source=rss",
+      "publishedAt": "2026-08-29T21:23:53.000Z",
+      "xQuery": "福井県に大雨特別警報 最新情報"
+    },
+    {
       "time": "04:59",
       "title": "安全確保を 大雨のときのNG行動",
       "source": "Yahoo!ニュース",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "安全確保を 大雨のときのNG行動"
     },
     {
-      "time": "05:34",
-      "title": "中継・気象庁会見 福井に特別警報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593579?source=rss",
-      "publishedAt": "2026-08-29T20:34:35.000Z",
-      "xQuery": "中継・気象庁会見 福井に特別警報"
-    },
-    {
       "time": "06:10",
       "title": "福井県で大雨 現地のSNS投稿",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593583?source=rss",
       "publishedAt": "2026-08-29T21:10:07.000Z",
       "xQuery": "福井県で大雨 現地のSNS投稿"
-    },
-    {
-      "time": "23:14",
-      "title": "娘が不登校になった精神科医 訴え",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593568?source=rss",
-      "publishedAt": "2026-08-29T14:14:16.000Z",
-      "xQuery": "娘が不登校になった精神科医 訴え"
     }
   ]
 };
