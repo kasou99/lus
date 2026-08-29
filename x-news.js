@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T19:36:59.434Z",
+  "updatedAt": "2026-08-29T20:15:42.708Z",
   "items": [
     {
-      "time": "00:23",
-      "title": "茨城県で最大震度4 津波心配なし",
+      "time": "04:58",
+      "title": "命守って 福井県に大雨特別警報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593574?source=rss",
-      "publishedAt": "2026-08-29T15:23:44.000Z",
-      "xQuery": "茨城県で最大震度4 津波心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6593577?source=rss",
+      "publishedAt": "2026-08-29T19:58:11.000Z",
+      "xQuery": "命守って 福井県に大雨特別警報"
     },
     {
-      "time": "21:44",
-      "title": "熊本地震 被災者それぞれの1カ月",
+      "time": "04:59",
+      "title": "安全確保を 大雨のときのNG行動",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593558?source=rss",
-      "publishedAt": "2026-08-29T12:44:42.000Z",
-      "xQuery": "熊本地震 被災者それぞれの1カ月"
+      "url": "https://news.yahoo.co.jp/pickup/6593206?source=rss",
+      "publishedAt": "2026-08-29T19:59:00.000Z",
+      "xQuery": "安全確保を 大雨のときのNG行動"
     },
     {
       "time": "23:14",
