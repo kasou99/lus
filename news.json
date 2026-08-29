@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T22:37:02.402Z",
+  "updatedAt": "2026-08-29T23:13:28.749Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,11 +163,18 @@
         "publishedAt": "2026-08-29T21:10:07.000Z"
       },
       {
-        "time": "18:34",
-        "title": "海で流され不明の中高生3人 死亡",
+        "time": "07:53",
+        "title": "福岡県 県議の任意団体に補助金",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593541?source=rss",
-        "publishedAt": "2026-08-29T09:34:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593592?source=rss",
+        "publishedAt": "2026-08-29T22:53:51.000Z"
+      },
+      {
+        "time": "07:35",
+        "title": "海で中高生3人死亡 家族ら悲痛",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593590?source=rss",
+        "publishedAt": "2026-08-29T22:35:06.000Z"
       },
       {
         "time": "21:11",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593549?source=rss",
         "publishedAt": "2026-08-29T11:30:32.000Z"
-      },
-      {
-        "time": "14:10",
-        "title": "大河ドラマ巡り2市がNHKに文書",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593506?source=rss",
-        "publishedAt": "2026-08-29T05:10:27.000Z"
       }
     ],
     "subsidyHeadlines": [

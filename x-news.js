@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T22:37:03.598Z",
+  "updatedAt": "2026-08-29T23:13:29.370Z",
   "items": [
     {
       "time": "07:08",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福井・龍ヶ鼻ダム 緊急放流の恐れ"
     },
     {
-      "time": "04:59",
-      "title": "安全確保を 大雨のときのNG行動",
+      "time": "06:10",
+      "title": "福井県で大雨 現地のSNS投稿",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593206?source=rss",
-      "publishedAt": "2026-08-29T19:59:00.000Z",
-      "xQuery": "安全確保を 大雨のときのNG行動"
+      "url": "https://news.yahoo.co.jp/pickup/6593583?source=rss",
+      "publishedAt": "2026-08-29T21:10:07.000Z",
+      "xQuery": "福井県で大雨 現地のSNS投稿"
     }
   ]
 };
