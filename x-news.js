@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T09:15:52.799Z",
+  "updatedAt": "2026-08-29T09:36:54.339Z",
   "items": [
     {
       "time": "15:15",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "揺れたら逃げる 津波想定34mの町"
     },
     {
-      "time": "17:37",
-      "title": "鹿児島の海岸 新たに1人死亡確認",
+      "time": "18:34",
+      "title": "海で流され不明の中高生3人 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593530?source=rss",
-      "publishedAt": "2026-08-29T08:37:05.000Z",
-      "xQuery": "鹿児島の海岸 新たに1人死亡確認"
+      "url": "https://news.yahoo.co.jp/pickup/6593541?source=rss",
+      "publishedAt": "2026-08-29T09:34:51.000Z",
+      "xQuery": "海で流され不明の中高生3人 死亡"
     },
     {
-      "time": "16:53",
-      "title": "母弟介護で片道8h 77歳「きつい」",
+      "time": "18:02",
+      "title": "東武事故 中継見張り員は移動中か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593525?source=rss",
-      "publishedAt": "2026-08-29T07:53:18.000Z",
-      "xQuery": "母弟介護で片道8h 77歳「きつい」"
+      "url": "https://news.yahoo.co.jp/pickup/6593533?source=rss",
+      "publishedAt": "2026-08-29T09:02:44.000Z",
+      "xQuery": "東武事故 中継見張り員は移動中か"
     },
     {
       "time": "16:16",
