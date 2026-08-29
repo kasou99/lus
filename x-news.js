@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T14:14:38.578Z",
+  "updatedAt": "2026-08-29T14:37:01.458Z",
   "items": [
     {
       "time": "21:44",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震 被災者それぞれの1カ月"
     },
     {
-      "time": "22:59",
-      "title": "娘が不登校に 仕事と両立は可能か",
+      "time": "23:14",
+      "title": "娘が不登校になった精神科医 訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593565?source=rss",
-      "publishedAt": "2026-08-29T13:59:01.000Z",
-      "xQuery": "娘が不登校に 仕事と両立は可能か"
+      "url": "https://news.yahoo.co.jp/pickup/6593568?source=rss",
+      "publishedAt": "2026-08-29T14:14:16.000Z",
+      "xQuery": "娘が不登校になった精神科医 訴え"
     },
     {
       "time": "21:41",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T14:14:37.565Z",
+  "updatedAt": "2026-08-29T14:37:00.431Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -18,6 +18,20 @@
       },
       {
         "time": "21:00",
+        "title": "【独自】フィジカルＡＩ実用化へ企業連合／製造ロボ制御、京セラなど２０社",
+        "source": "四国新聞",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3dzOHVQUkFjS3lwY0pRd2pJZTU1UEMzMFpqaDNJR0REMjhKcFFPWU9QeFdlQWU4bUhxUVRkOEJWcFRjWTA0N2dzNWpYeU1fcjBLeGNlN3RkRlV4S2ljTkVDd0tQS2NjN29kZnRNeTBJdWZiNmpxQmp0MVEzTWF1OVZSSEg?oc=5",
+        "publishedAt": "2026-08-29T12:00:00.000Z"
+      },
+      {
+        "time": "23:10",
+        "title": "DXの正解、備後でビンゴ！株式会社FRICS Fabが「びんごデジタルラボEXPO」に出展(9/30)",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14RjhGa0RHRkZxemJPb1YwM0Jqc1NkNThyLXd3QnZQZnU5aHMzVERSblg1b2RzZkw1cFdMZlBUMWh0NFVrQ3kzUHdteC1odlM0ZFBUWmFZOGNkSHVmLWlzTTZZNko5UDVaSnJCZlByZWtodw?oc=5",
+        "publishedAt": "2026-08-29T14:10:00.000Z"
+      },
+      {
+        "time": "21:00",
         "title": "製造ロボＡＩ実用化へ企業連合",
         "source": "nnn.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LVXhMdWVwRFctSDVQSHpuSmMtQjQ4TF9EZEt2cDVBMmdzaUJrdEtsUnNDSVZSekJqN0JIUkZJbk9IOFhqSVlRZnVVaG5KMVFf?oc=5",
@@ -31,13 +45,6 @@
         "publishedAt": "2026-08-28T20:21:37.000Z"
       },
       {
-        "time": "21:00",
-        "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iLWxwMy0zaThJTW81NHhzM3pWeFNlMFVYRjhVeUdURWxuV25PVWlIZ1AzVlFJWk1ISTdRZkxuVjBkM1R4bGEzcXd4akZMR0RON1ljdl9XcDRrUTV1TktwUUpsRFhmak43dW84MGdUWi1zTGpT0gF0QVVfeXFMT2ItbHAzLTNpOElNbzU0eHMzelZ4U2UwVVhGOFV5R1RFbG5Xbk9VaUhnUDNWUUlaTUhJN1FmTG5WMGQzVHhsYTNxd3hqRkxHRE43WWN2X1dwNGtRNXVOS3BRSmxEWGZqTjd1bzgwZ1RaLXNMalM?oc=5",
-        "publishedAt": "2026-08-29T12:00:00.000Z"
-      },
-      {
         "time": "05:50",
         "title": "〈工作機械受注〉7月は前年比150.4％で歴代3位の1930億円､夏場にも関わらず続く高水準――設備需要の拡大鮮明に",
         "source": "東洋経済オンライン",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-08-28T20:50:00.000Z"
       },
       {
-        "time": "17:10",
-        "title": "DXの正解、備後でビンゴ！株式会社FRICS Fabが「びんごデジタルラボEXPO」に出展(9/30)",
+        "time": "21:00",
+        "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社",
         "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14RjhGa0RHRkZxemJPb1YwM0Jqc1NkNThyLXd3QnZQZnU5aHMzVERSblg1b2RzZkw1cFdMZlBUMWh0NFVrQ3kzUHdteC1odlM0ZFBUWmFZOGNkSHVmLWlzTTZZNko5UDVaSnJCZlByZWtodw?oc=5",
-        "publishedAt": "2026-08-29T08:10:00.000Z"
-      },
-      {
-        "time": "01:15",
-        "title": "Taikan社はバクニン省に製造工場を開設し、ベトナムにおけるCNC工作機械の供給能力を強化した。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTUVFcXRqRGlBV1RJVGRKVVVQSEk4MjFJTk1kVHF5cEplT29sRUJ5S0JTSnhMWHkwbkpoZzNFQVRJWFJ0SzZiM2xjb0g1cUpCUVNzU0E4N0RmVUF5b0xSYlZpbEt6QVhMRFBNZ0t2QWlkZ01ldXhhNVhaVDQzSHV6UEZWNUd6NFVfTVNVYlVucG1LanY0MmJhczFQblJiUmdtdzlaaUFERFZNcjU5bWRVOUw4bjhLVE15?oc=5",
-        "publishedAt": "2026-08-28T16:15:15.000Z"
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iLWxwMy0zaThJTW81NHhzM3pWeFNlMFVYRjhVeUdURWxuV25PVWlIZ1AzVlFJWk1ISTdRZkxuVjBkM1R4bGEzcXd4akZMR0RON1ljdl9XcDRrUTV1TktwUUpsRFhmak43dW84MGdUWi1zTGpT0gF0QVVfeXFMT2ItbHAzLTNpOElNbzU0eHMzelZ4U2UwVVhGOFV5R1RFbG5Xbk9VaUhnUDNWUUlaTUhJN1FmTG5WMGQzVHhsYTNxd3hqRkxHRE43WWN2X1dwNGtRNXVOS3BRSmxEWGZqTjd1bzgwZ1RaLXNMalM?oc=5",
+        "publishedAt": "2026-08-29T12:00:00.000Z"
       }
     ],
     "worldHeadlines": [
