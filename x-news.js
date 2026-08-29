@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T13:37:06.041Z",
+  "updatedAt": "2026-08-29T14:14:38.578Z",
   "items": [
     {
       "time": "21:44",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震 被災者それぞれの1カ月"
     },
     {
-      "time": "19:25",
-      "title": "千葉豪雨 半壊判定が大幅増見通し",
+      "time": "22:59",
+      "title": "娘が不登校に 仕事と両立は可能か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593545?source=rss",
-      "publishedAt": "2026-08-29T10:25:07.000Z",
-      "xQuery": "千葉豪雨 半壊判定が大幅増見通し"
+      "url": "https://news.yahoo.co.jp/pickup/6593565?source=rss",
+      "publishedAt": "2026-08-29T13:59:01.000Z",
+      "xQuery": "娘が不登校に 仕事と両立は可能か"
+    },
+    {
+      "time": "21:41",
+      "title": "独右派AfD ナチス想起させる公約",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593557?source=rss",
+      "publishedAt": "2026-08-29T12:41:52.000Z",
+      "xQuery": "独右派AfD ナチス想起させる公約"
     },
     {
       "time": "21:11",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593554?source=rss",
       "publishedAt": "2026-08-29T12:11:53.000Z",
       "xQuery": "海で3人死亡 14歳は救助図ったか"
-    },
-    {
-      "time": "20:30",
-      "title": "なぜ娘殺された わからぬまま20年",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593549?source=rss",
-      "publishedAt": "2026-08-29T11:30:32.000Z",
-      "xQuery": "なぜ娘殺された わからぬまま20年"
     },
     {
       "time": "21:19",

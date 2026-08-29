@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-29T13:37:05.462Z",
+  "updatedAt": "2026-08-29T14:14:37.565Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "20:42",
+        "title": "画像 | 〈工作機械受注〉7月は前年比150.4％で歴代3位の1930億円､夏場にも関わらず続く高水準――設備需要の拡大鮮明に",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5cV9HZWxmZlVwdC1wUlM4d0lfZXAzcE1OVlVXMTZsY0pYY0haMTB6VlE4SXFCcWgzY2lSb2tKVjlnSjhKZF9mY0gxSVh6YUZSNjFrVTZ0SG0wUXRaT3c?oc=5",
+        "publishedAt": "2026-08-29T11:42:33.000Z"
+      },
       {
         "time": "21:13",
         "title": "稼働するアルムの自動工作機械「TTMC」＝7月、金沢市 - 【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社 - 写真・画像(1/2)",
@@ -10,18 +17,32 @@
         "publishedAt": "2026-08-29T12:13:23.000Z"
       },
       {
-        "time": "05:50",
-        "title": "〈工作機械受注〉7月は前年比150.4％で歴代3位の1930億円､夏場にも関わらず続く高水準――設備需要の拡大鮮明に",
-        "source": "東洋経済オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kNkZ0UUt2VTZPZ1ByLUZnRmoxVVNyX19OeGx6a0o3T0FQMjBYNUt5N25WMklOS1VuaHVyWFpfMzhDVkRXalV6QUpSbTJtM1ZSU29ESVZuVUxoeUE?oc=5",
-        "publishedAt": "2026-08-28T20:50:00.000Z"
-      },
-      {
         "time": "21:00",
         "title": "製造ロボＡＩ実用化へ企業連合",
         "source": "nnn.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LVXhMdWVwRFctSDVQSHpuSmMtQjQ4TF9EZEt2cDVBMmdzaUJrdEtsUnNDSVZSekJqN0JIUkZJbk9IOFhqSVlRZnVVaG5KMVFf?oc=5",
         "publishedAt": "2026-08-29T12:00:02.000Z"
+      },
+      {
+        "time": "05:21",
+        "title": "グローバル横型マシニングセンタ市場トップ20企業",
+        "source": "Spherical Insights",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNEdBeVl2WmxfVmVGRjFiTms0MkhqNEE5NkhTSjlRV0xSRkw3S0x3aWlURTdDSFlwa3BmR01zWTNuSzJ3dEsza3R0eklVeEZKZ2ltbzMzOFZpaGlvZWhSZE52ZnlKODJWYWp1VTh1aTVkcmQ2bGpicjdIRzM0SmswWDJJc1lKdVRwOGRxQkc1V2l6OUtLNGZSbXRKUlhRbXpkSVl2amIwT3pHajRYVTYxakttZENXUFBOYTZ5dk1GWlVxYTZSVFA5aEJJcWZ3NGJCMXR4Q0kyUUNLVHRzd0gyaWxR?oc=5",
+        "publishedAt": "2026-08-28T20:21:37.000Z"
+      },
+      {
+        "time": "21:00",
+        "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iLWxwMy0zaThJTW81NHhzM3pWeFNlMFVYRjhVeUdURWxuV25PVWlIZ1AzVlFJWk1ISTdRZkxuVjBkM1R4bGEzcXd4akZMR0RON1ljdl9XcDRrUTV1TktwUUpsRFhmak43dW84MGdUWi1zTGpT0gF0QVVfeXFMT2ItbHAzLTNpOElNbzU0eHMzelZ4U2UwVVhGOFV5R1RFbG5Xbk9VaUhnUDNWUUlaTUhJN1FmTG5WMGQzVHhsYTNxd3hqRkxHRE43WWN2X1dwNGtRNXVOS3BRSmxEWGZqTjd1bzgwZ1RaLXNMalM?oc=5",
+        "publishedAt": "2026-08-29T12:00:00.000Z"
+      },
+      {
+        "time": "05:50",
+        "title": "〈工作機械受注〉7月は前年比150.4％で歴代3位の1930億円､夏場にも関わらず続く高水準――設備需要の拡大鮮明に",
+        "source": "東洋経済オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kNkZ0UUt2VTZPZ1ByLUZnRmoxVVNyX19OeGx6a0o3T0FQMjBYNUt5N25WMklOS1VuaHVyWFpfMzhDVkRXalV6QUpSbTJtM1ZSU29ESVZuVUxoeUE?oc=5",
+        "publishedAt": "2026-08-28T20:50:00.000Z"
       },
       {
         "time": "17:10",
@@ -36,27 +57,6 @@
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTUVFcXRqRGlBV1RJVGRKVVVQSEk4MjFJTk1kVHF5cEplT29sRUJ5S0JTSnhMWHkwbkpoZzNFQVRJWFJ0SzZiM2xjb0g1cUpCUVNzU0E4N0RmVUF5b0xSYlZpbEt6QVhMRFBNZ0t2QWlkZ01ldXhhNVhaVDQzSHV6UEZWNUd6NFVfTVNVYlVucG1LanY0MmJhczFQblJiUmdtdzlaaUFERFZNcjU5bWRVOUw4bjhLVE15?oc=5",
         "publishedAt": "2026-08-28T16:15:15.000Z"
-      },
-      {
-        "time": "21:00",
-        "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社（共同通信）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94eFdTYXI0OUdFZ045Q3NEMFQtWXBCMEJEMnR3WkRVSnBJSWtRazJNZkc2cURyTDBGcDVPNGdIa0xvd3FpbTE1aDZMNUpBcWFQSWpwTW51V1ZPTTJBZnBrdC1LTXZwSkZqQmRmMm9aOFcwN2RFb1p0TXpwamQwUUk?oc=5",
-        "publishedAt": "2026-08-29T12:00:00.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "勤務間インターバル、義務化すべきか？ 社員が自死した社長の思い",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wY09OSk9fNEdmYzU2U1hFVDl0QXk1djJOeXhuZ01QcnJIbDJJNjBvb3J6Sm9kcTFmdHNDTWhoWmV5Tzc5bGp0QXlHM2VfcUVHMWlaQW1NSmppejFVVVVxQzU1YUVua2M?oc=5",
-        "publishedAt": "2026-08-28T21:00:00.000Z"
-      },
-      {
-        "time": "23:45",
-        "title": "ファイルいい話／関東精機 熱変位抑制装置×企業理念",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3ZmZrLTg4aU5WcjhkYS1tX1FMWVJOLUt2UFhraVVFZTI4c3VmT3dpQzZrdE5xQ1RLbW9RbFJ5RjNtd2pnSk5LaHZlaC1GWDZYT3BLWFRTdDE4Q0R5cnI4Y1pYaHVFNENKWDcxUWktcw?oc=5",
-        "publishedAt": "2026-08-28T14:45:46.000Z"
       }
     ],
     "worldHeadlines": [
