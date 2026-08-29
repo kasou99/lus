@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T15:36:53.508Z",
+  "updatedAt": "2026-08-29T16:16:28.358Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-28T20:50:00.000Z"
       },
       {
-        "time": "01:15",
-        "title": "Taikan社はバクニン省に製造工場を開設し、ベトナムにおけるCNC工作機械の供給能力を強化した。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTUVFcXRqRGlBV1RJVGRKVVVQSEk4MjFJTk1kVHF5cEplT29sRUJ5S0JTSnhMWHkwbkpoZzNFQVRJWFJ0SzZiM2xjb0g1cUpCUVNzU0E4N0RmVUF5b0xSYlZpbEt6QVhMRFBNZ0t2QWlkZ01ldXhhNVhaVDQzSHV6UEZWNUd6NFVfTVNVYlVucG1LanY0MmJhczFQblJiUmdtdzlaaUFERFZNcjU5bWRVOUw4bjhLVE15?oc=5",
-        "publishedAt": "2026-08-28T16:15:15.000Z"
-      },
-      {
         "time": "21:00",
         "title": "製造ロボＡＩ実用化へ企業連合",
         "source": "nnn.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LVXhMdWVwRFctSDVQSHpuSmMtQjQ4TF9EZEt2cDVBMmdzaUJrdEtsUnNDSVZSekJqN0JIUkZJbk9IOFhqSVlRZnVVaG5KMVFf?oc=5",
         "publishedAt": "2026-08-29T12:00:02.000Z"
+      },
+      {
+        "time": "21:00",
+        "title": "【独自】フィジカルＡＩ実用化へ企業連合 製造ロボ制御、京セラなど２０社",
+        "source": "新潟日報",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOWjM2Z2x4Y0NYdHJNVHFMZm1OVWRFYVNmUGtYZ1BkR0dkbjVROTFNeFdRNVhRaWRVNzNNbGZwOTdPMlY0UTVFSTdWU2p0NDN1Z3h4dGhaLUZDZjJiSWc?oc=5",
+        "publishedAt": "2026-08-29T12:00:01.000Z"
       }
     ],
     "worldHeadlines": [
