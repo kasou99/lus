@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T07:17:24.469Z",
+  "updatedAt": "2026-08-30T07:36:26.006Z",
   "items": [
     {
       "time": "14:52",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福井県 住宅浸水など被害相次ぐ"
     },
     {
-      "time": "14:06",
-      "title": "福井県 土砂災害などに厳重警戒",
+      "time": "16:23",
+      "title": "小売り事業の税優遇要望へ 経産省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593619?source=rss",
-      "publishedAt": "2026-08-30T05:06:38.000Z",
-      "xQuery": "福井県 土砂災害などに厳重警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6593631?source=rss",
+      "publishedAt": "2026-08-30T07:23:16.000Z",
+      "xQuery": "小売り事業の税優遇要望へ 経産省"
     },
     {
       "time": "16:05",

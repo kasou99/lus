@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T07:17:23.499Z",
+  "updatedAt": "2026-08-30T07:36:25.426Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-08-29T12:13:23.000Z"
       },
       {
+        "time": "22:53",
+        "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社",
+        "source": "北海道新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV19LQzRJQWpiOURLNl9MMWZkckIzamxlT1ZGbmxydXpQTG5yQ29FRVEzeFVGNUE4a2Y4MEI3WGFUTEtEVmoxNlp6RHJnRk1hbk5oN3d4WGZJbTNZM0J2YTB2SVR0TnlVYVY5U1lXbERkSFVpeFpRX0VRTmxvallsRDdtR2NsVFZG?oc=5",
+        "publishedAt": "2026-08-29T13:53:13.000Z"
+      },
+      {
         "time": "21:00",
         "title": "【独自】フィジカルＡＩ実用化へ企業連合",
         "source": "埼玉新聞",
@@ -31,11 +38,11 @@
         "publishedAt": "2026-08-29T12:00:00.000Z"
       },
       {
-        "time": "22:53",
-        "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社",
-        "source": "北海道新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV19LQzRJQWpiOURLNl9MMWZkckIzamxlT1ZGbmxydXpQTG5yQ29FRVEzeFVGNUE4a2Y4MEI3WGFUTEtEVmoxNlp6RHJnRk1hbk5oN3d4WGZJbTNZM0J2YTB2SVR0TnlVYVY5U1lXbERkSFVpeFpRX0VRTmxvallsRDdtR2NsVFZG?oc=5",
-        "publishedAt": "2026-08-29T13:53:13.000Z"
+        "time": "18:31",
+        "title": "工作機械より強ぇ!!これが日本の最強産業装置だ!!～【SMT・半導体後工程】 Vatican Sspx (hvjAW5iCAd)",
+        "source": "Mshale",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56OVZWX1hoUkd1WjFKRjNKQlV0eUIxNW9UTjdJUlZldDRic0VBV2lyTUZKaFNmYmJ5Nm1YTTduWTRVbzlwNzBDMHV0Q0pYRmxvUlFRSkNyLW1ueVk?oc=5",
+        "publishedAt": "2026-08-29T09:31:53.000Z"
       },
       {
         "time": "05:02",
@@ -50,13 +57,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qd29ubmp0ME5OcHFGUE1lVl92OF9weTFMSXEzZm9UaFlrMHkzMlZnSkZ1emdXenpENTg5NGY2RjVEN21hU25YZGxKeHQ2ME1nRW5BUG5qczVpNG9YMzV5LW9acWNHcG5rc3VoWFJiVmNlWmJ1?oc=5",
         "publishedAt": "2026-08-29T14:05:00.000Z"
-      },
-      {
-        "time": "21:00",
-        "title": "【独自】フィジカルＡＩ実用化へ企業連合／製造ロボ制御、京セラなど２０社",
-        "source": "四国新聞",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS2tCa0ZfWnBXRVFzR0FqX2Jfc2V6SFUtTndpbkxNOHBiTDNyNUNCd25rUF9jTDd4em1RdkVtYTFOSVIzZWIycGhYRWxQZ293WldzODh4SVZuYlZFLXpEWWpCRFlaN0N1Zk8yeWpsZURfUmhTV0pvTTFneVFicEhSNndhSQ?oc=5",
-        "publishedAt": "2026-08-29T12:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "16:23",
+        "title": "小売り事業の税優遇要望へ 経産省",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593631?source=rss",
+        "publishedAt": "2026-08-30T07:23:16.000Z"
+      },
+      {
         "time": "12:59",
         "title": "円が下落 介入効果4週間で陰り",
         "source": "Yahoo!ニュース",
@@ -119,13 +126,6 @@
         "publishedAt": "2026-08-28T15:05:19.000Z"
       },
       {
-        "time": "19:35",
-        "title": "9月の電気ガス 全地域で値上がり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593433?source=rss",
-        "publishedAt": "2026-08-28T10:35:55.000Z"
-      },
-      {
         "time": "10:47",
         "title": "17年で社長が7人 百貨店消滅の街",
         "source": "Yahoo!ニュース",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-08-29T01:47:37.000Z"
       },
       {
-        "time": "16:05",
-        "title": "外国人が駆け込むクリニック 密着",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593628?source=rss",
-        "publishedAt": "2026-08-30T07:05:44.000Z"
-      },
-      {
         "time": "18:59",
         "title": "大阪知事 USJ拡張意向聞いていた",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593431?source=rss",
         "publishedAt": "2026-08-28T09:59:00.000Z"
+      },
+      {
+        "time": "16:05",
+        "title": "外国人が駆け込むクリニック 密着",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593628?source=rss",
+        "publishedAt": "2026-08-30T07:05:44.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,13 +170,6 @@
         "publishedAt": "2026-08-30T01:41:32.000Z"
       },
       {
-        "time": "07:53",
-        "title": "福岡県 県議の任意団体に補助金",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593592?source=rss",
-        "publishedAt": "2026-08-29T22:53:51.000Z"
-      },
-      {
         "time": "07:35",
         "title": "海で中高生3人死亡 家族ら悲痛",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593617?source=rss",
         "publishedAt": "2026-08-30T04:44:50.000Z"
+      },
+      {
+        "time": "16:30",
+        "title": "「議連補助金」予算化 福岡県だけ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593633?source=rss",
+        "publishedAt": "2026-08-30T07:30:20.000Z"
       }
     ],
     "subsidyHeadlines": [
