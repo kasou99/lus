@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T02:42:11.315Z",
+  "updatedAt": "2026-08-30T03:21:03.561Z",
   "items": [
     {
-      "time": "11:28",
-      "title": "福井大雨 3市全域に緊急安全確保",
+      "time": "11:54",
+      "title": "福井3市 大雨危険警報に引き下げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593607?source=rss",
-      "publishedAt": "2026-08-30T02:28:19.000Z",
-      "xQuery": "福井大雨 3市全域に緊急安全確保"
+      "url": "https://news.yahoo.co.jp/pickup/6593611?source=rss",
+      "publishedAt": "2026-08-30T02:54:33.000Z",
+      "xQuery": "福井3市 大雨危険警報に引き下げ"
     },
     {
       "time": "10:41",
