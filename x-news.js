@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T04:19:43.083Z",
+  "updatedAt": "2026-08-30T04:39:49.367Z",
   "items": [
     {
-      "time": "11:54",
-      "title": "福井3市 大雨危険警報に引き下げ",
+      "time": "13:20",
+      "title": "福井4市 観測史上最多の降水量",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593611?source=rss",
-      "publishedAt": "2026-08-30T02:54:33.000Z",
-      "xQuery": "福井3市 大雨危険警報に引き下げ"
+      "url": "https://news.yahoo.co.jp/pickup/6593615?source=rss",
+      "publishedAt": "2026-08-30T04:20:28.000Z",
+      "xQuery": "福井4市 観測史上最多の降水量"
     },
     {
       "time": "10:41",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593604?source=rss",
       "publishedAt": "2026-08-30T01:41:32.000Z",
       "xQuery": "福井県大雨 車立ち往生と複数通報"
-    },
-    {
-      "time": "10:08",
-      "title": "福井県で大雨 冠水など各地被害",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593602?source=rss",
-      "publishedAt": "2026-08-30T01:08:43.000Z",
-      "xQuery": "福井県で大雨 冠水など各地被害"
     },
     {
       "time": "09:56",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593605?source=rss",
       "publishedAt": "2026-08-30T01:42:21.000Z",
       "xQuery": "ネパール 衛星が捉えたせき止め湖"
+    },
+    {
+      "time": "13:01",
+      "title": "不登校に悩み ハッとした子の言葉",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593613?source=rss",
+      "publishedAt": "2026-08-30T04:01:04.000Z",
+      "xQuery": "不登校に悩み ハッとした子の言葉"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T04:19:42.045Z",
+  "updatedAt": "2026-08-30T04:39:48.513Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "13:38",
+        "title": "ネパール土石流 氷河崩落が原因",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593616?source=rss",
+        "publishedAt": "2026-08-30T04:38:12.000Z"
+      },
+      {
         "time": "09:25",
         "title": "ネパール土石流 行方不明3000人超",
         "source": "Yahoo!ニュース",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593605?source=rss",
         "publishedAt": "2026-08-30T01:42:21.000Z"
-      },
-      {
-        "time": "13:31",
-        "title": "ネパール土石流 婚約者が不明で涙",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593504?source=rss",
-        "publishedAt": "2026-08-29T04:31:14.000Z"
       },
       {
         "time": "17:20",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "11:28",
-        "title": "福井大雨 3市全域に緊急安全確保",
+        "time": "13:20",
+        "title": "福井4市 観測史上最多の降水量",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593607?source=rss",
-        "publishedAt": "2026-08-30T02:28:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593615?source=rss",
+        "publishedAt": "2026-08-30T04:20:28.000Z"
       },
       {
         "time": "10:41",
