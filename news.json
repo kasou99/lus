@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-30T19:12:24.466Z",
+  "updatedAt": "2026-08-30T19:36:58.424Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:55",
+        "title": "ＤＭＧ森精機と日本マイクロソフト、ＩｏＴ活用で技術協力",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TVjIxVjZTZWY4Rk5fZmNkaFpiSjV1ZzhLcTF5ODhNMHNGMzJYa195dXhvdjZ6WXBhUHJPQ25lN2dXdlpCNmlqMmE2Y2FlMGpwU1RmdGF5TUFkYjdWeEFzUl9NQXNjNG9Cc3FJRFR3?oc=5",
+        "publishedAt": "2026-08-30T07:55:56.000Z"
+      },
       {
         "time": "00:00",
         "title": "ＤＮソリューションズ、インド初工場が完成",
@@ -43,13 +50,6 @@
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XWFJpcE1yZEl4MVJibXE0WWFpNnZQN1BWNDVoRXp3Z0lxM2YxOUQycTloZDhmUGFIdW5memNCeUh0empGc1YtQWZKaWpjWlgwa0VDak5DVlYzVnQzQmtJb0p5N3MxaVJPLS0wZmRfRGZYd2c1cm45Xw?oc=5",
         "publishedAt": "2026-08-30T01:34:53.000Z"
-      },
-      {
-        "time": "05:20",
-        "title": "フィジカルAI 国産実用化へ企業連合 京セラや神戸製鋼所など20社、工作ロボを共同開発",
-        "source": "沖縄タイムス社",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KSDA4NFNiRVpkeU1pOUZ4RU1MVTJwSkxmZkY5NkdYdjg5VUNrbzRVZUdEemJGUWRySGZHU1ktdzllOTNDRFhiNjNyOHV4VzB6anBVS3hjTUo1QXp1TEE?oc=5",
-        "publishedAt": "2026-08-29T20:20:00.000Z"
       },
       {
         "time": "13:26",
