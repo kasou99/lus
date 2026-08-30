@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T05:37:01.854Z",
+  "updatedAt": "2026-08-30T06:27:54.552Z",
   "items": [
+    {
+      "time": "14:52",
+      "title": "福井県 住宅浸水など被害相次ぐ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593623?source=rss",
+      "publishedAt": "2026-08-30T05:52:46.000Z",
+      "xQuery": "福井県 住宅浸水など被害相次ぐ"
+    },
     {
       "time": "14:06",
       "title": "福井県 土砂災害などに厳重警戒",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593615?source=rss",
       "publishedAt": "2026-08-30T04:20:28.000Z",
       "xQuery": "福井4市 観測史上最多の降水量"
-    },
-    {
-      "time": "09:56",
-      "title": "中道 結党7カ月で瓦解の危機",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593599?source=rss",
-      "publishedAt": "2026-08-30T00:56:02.000Z",
-      "xQuery": "中道 結党7カ月で瓦解の危機"
     },
     {
       "time": "13:38",

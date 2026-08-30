@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T05:37:00.828Z",
+  "updatedAt": "2026-08-30T06:27:53.557Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:52",
+        "title": "福井県 住宅浸水など被害相次ぐ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593623?source=rss",
+        "publishedAt": "2026-08-30T05:52:46.000Z"
+      },
+      {
         "time": "13:20",
         "title": "福井4市 観測史上最多の降水量",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593604?source=rss",
         "publishedAt": "2026-08-30T01:41:32.000Z"
-      },
-      {
-        "time": "10:08",
-        "title": "福井県で大雨 冠水など各地被害",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593602?source=rss",
-        "publishedAt": "2026-08-30T01:08:43.000Z"
       },
       {
         "time": "07:53",
