@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T08:39:19.065Z",
+  "updatedAt": "2026-08-30T09:16:21.940Z",
   "items": [
     {
       "time": "17:13",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "福井大雨「目覚めると周囲が水」"
     },
     {
-      "time": "16:23",
-      "title": "小売り事業の税優遇要望へ 経産省",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593631?source=rss",
-      "publishedAt": "2026-08-30T07:23:16.000Z",
-      "xQuery": "小売り事業の税優遇要望へ 経産省"
-    },
-    {
       "time": "16:30",
       "title": "「議連補助金」予算化 福岡県だけ",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「議連補助金」予算化 福岡県だけ"
     },
     {
-      "time": "17:09",
-      "title": "「ヤミ民泊一掃」Airbnbの勝算",
+      "time": "17:03",
+      "title": "「アメリカ湖」に改称 反対が続出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593637?source=rss",
-      "publishedAt": "2026-08-30T08:09:11.000Z",
-      "xQuery": "「ヤミ民泊一掃」Airbnbの勝算"
+      "url": "https://news.yahoo.co.jp/pickup/6593638?source=rss",
+      "publishedAt": "2026-08-30T08:03:24.000Z",
+      "xQuery": "「アメリカ湖」に改称 反対が続出"
     },
     {
       "time": "17:06",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593640?source=rss",
       "publishedAt": "2026-08-30T08:06:36.000Z",
       "xQuery": "レゴランド 客の11人一時閉じ込め"
+    },
+    {
+      "time": "17:49",
+      "title": "仕事向けのハーフパンツ 各社が力",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593645?source=rss",
+      "publishedAt": "2026-08-30T08:49:55.000Z",
+      "xQuery": "仕事向けのハーフパンツ 各社が力"
     }
   ]
 };
