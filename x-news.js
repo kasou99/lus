@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T07:36:26.006Z",
+  "updatedAt": "2026-08-30T08:21:07.721Z",
   "items": [
     {
       "time": "14:52",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "小売り事業の税優遇要望へ 経産省"
     },
     {
-      "time": "16:05",
-      "title": "外国人が駆け込むクリニック 密着",
+      "time": "16:30",
+      "title": "「議連補助金」予算化 福岡県だけ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593628?source=rss",
-      "publishedAt": "2026-08-30T07:05:44.000Z",
-      "xQuery": "外国人が駆け込むクリニック 密着"
+      "url": "https://news.yahoo.co.jp/pickup/6593633?source=rss",
+      "publishedAt": "2026-08-30T07:30:20.000Z",
+      "xQuery": "「議連補助金」予算化 福岡県だけ"
     },
     {
-      "time": "14:32",
-      "title": "山肌埋め尽くすシカ 南アルプス",
+      "time": "17:09",
+      "title": "「ヤミ民泊一掃」Airbnbの勝算",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593620?source=rss",
-      "publishedAt": "2026-08-30T05:32:35.000Z",
-      "xQuery": "山肌埋め尽くすシカ 南アルプス"
+      "url": "https://news.yahoo.co.jp/pickup/6593637?source=rss",
+      "publishedAt": "2026-08-30T08:09:11.000Z",
+      "xQuery": "「ヤミ民泊一掃」Airbnbの勝算"
     },
     {
-      "time": "15:29",
-      "title": "皇居ランに賛否 SNSで議論が拡大",
+      "time": "17:06",
+      "title": "レゴランド 客の11人一時閉じ込め",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593624?source=rss",
-      "publishedAt": "2026-08-30T06:29:16.000Z",
-      "xQuery": "皇居ランに賛否 SNSで議論が拡大"
+      "url": "https://news.yahoo.co.jp/pickup/6593640?source=rss",
+      "publishedAt": "2026-08-30T08:06:36.000Z",
+      "xQuery": "レゴランド 客の11人一時閉じ込め"
     }
   ]
 };
