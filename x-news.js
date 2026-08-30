@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T14:14:51.107Z",
+  "updatedAt": "2026-08-30T14:36:58.186Z",
   "items": [
     {
       "time": "22:22",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福井の大雨 秋雨前線が原因で発生"
     },
     {
-      "time": "21:29",
-      "title": "Jアラートで偽警報可能 識者指摘",
+      "time": "22:53",
+      "title": "福岡県 議員連盟への補助金廃止へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593674?source=rss",
-      "publishedAt": "2026-08-30T12:29:04.000Z",
-      "xQuery": "Jアラートで偽警報可能 識者指摘"
+      "url": "https://news.yahoo.co.jp/pickup/6593686?source=rss",
+      "publishedAt": "2026-08-30T13:53:25.000Z",
+      "xQuery": "福岡県 議員連盟への補助金廃止へ"
     },
     {
       "time": "21:59",
