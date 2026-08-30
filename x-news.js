@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T06:27:54.552Z",
+  "updatedAt": "2026-08-30T06:46:12.159Z",
   "items": [
     {
       "time": "14:52",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "福井県 土砂災害などに厳重警戒"
     },
     {
-      "time": "13:20",
-      "title": "福井4市 観測史上最多の降水量",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593615?source=rss",
-      "publishedAt": "2026-08-30T04:20:28.000Z",
-      "xQuery": "福井4市 観測史上最多の降水量"
-    },
-    {
       "time": "13:38",
       "title": "ネパール土石流 氷河崩落が原因",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール土石流 氷河崩落が原因"
     },
     {
-      "time": "13:01",
-      "title": "不登校に悩み ハッとした子の言葉",
+      "time": "13:44",
+      "title": "海で死亡の中高生3人 死因は水死",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593613?source=rss",
-      "publishedAt": "2026-08-30T04:01:04.000Z",
-      "xQuery": "不登校に悩み ハッとした子の言葉"
+      "url": "https://news.yahoo.co.jp/pickup/6593617?source=rss",
+      "publishedAt": "2026-08-30T04:44:50.000Z",
+      "xQuery": "海で死亡の中高生3人 死因は水死"
+    },
+    {
+      "time": "14:32",
+      "title": "山肌埋め尽くすシカ 南アルプス",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593620?source=rss",
+      "publishedAt": "2026-08-30T05:32:35.000Z",
+      "xQuery": "山肌埋め尽くすシカ 南アルプス"
     }
   ]
 };
