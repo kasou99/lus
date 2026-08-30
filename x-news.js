@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T12:41:20.267Z",
+  "updatedAt": "2026-08-30T13:14:11.366Z",
   "items": [
     {
       "time": "19:18",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "がれき下から声 ネパール少女救出"
     },
     {
+      "time": "18:59",
+      "title": "月の時間決める動き 地球から独立",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593656?source=rss",
+      "publishedAt": "2026-08-30T09:59:46.000Z",
+      "xQuery": "月の時間決める動き 地球から独立"
+    },
+    {
+      "time": "21:59",
+      "title": "80歳の和菓子店主死亡 殺人と断定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593678?source=rss",
+      "publishedAt": "2026-08-30T12:59:38.000Z",
+      "xQuery": "80歳の和菓子店主死亡 殺人と断定"
+    },
+    {
       "time": "21:00",
       "title": "高校無償化で私立人気 公立は苦境",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593670?source=rss",
       "publishedAt": "2026-08-30T12:00:05.000Z",
       "xQuery": "高校無償化で私立人気 公立は苦境"
-    },
-    {
-      "time": "17:49",
-      "title": "各地に存在「廃墟モール」の盛衰",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593646?source=rss",
-      "publishedAt": "2026-08-30T08:49:55.000Z",
-      "xQuery": "各地に存在「廃墟モール」の盛衰"
-    },
-    {
-      "time": "19:39",
-      "title": "レゴランド閉じ込め 扉破壊し救助",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593662?source=rss",
-      "publishedAt": "2026-08-30T10:39:14.000Z",
-      "xQuery": "レゴランド閉じ込め 扉破壊し救助"
     }
   ]
 };
