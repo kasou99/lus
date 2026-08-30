@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T10:14:36.284Z",
+  "updatedAt": "2026-08-30T10:36:37.396Z",
   "items": [
     {
       "time": "17:13",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ダムで水難 子どもと男性意識不明"
     },
     {
-      "time": "18:49",
-      "title": "TDL飲食店で客の荷物から煙 避難",
+      "time": "18:35",
+      "title": "こたけ正義感 冤罪をネタにした訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593655?source=rss",
-      "publishedAt": "2026-08-30T09:49:59.000Z",
-      "xQuery": "TDL飲食店で客の荷物から煙 避難"
+      "url": "https://news.yahoo.co.jp/pickup/6593654?source=rss",
+      "publishedAt": "2026-08-30T09:35:05.000Z",
+      "xQuery": "こたけ正義感 冤罪をネタにした訳"
     }
   ]
 };
