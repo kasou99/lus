@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T06:46:12.159Z",
+  "updatedAt": "2026-08-30T07:17:24.469Z",
   "items": [
     {
       "time": "14:52",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福井県 土砂災害などに厳重警戒"
     },
     {
-      "time": "13:38",
-      "title": "ネパール土石流 氷河崩落が原因",
+      "time": "16:05",
+      "title": "外国人が駆け込むクリニック 密着",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593616?source=rss",
-      "publishedAt": "2026-08-30T04:38:12.000Z",
-      "xQuery": "ネパール土石流 氷河崩落が原因"
-    },
-    {
-      "time": "13:44",
-      "title": "海で死亡の中高生3人 死因は水死",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593617?source=rss",
-      "publishedAt": "2026-08-30T04:44:50.000Z",
-      "xQuery": "海で死亡の中高生3人 死因は水死"
+      "url": "https://news.yahoo.co.jp/pickup/6593628?source=rss",
+      "publishedAt": "2026-08-30T07:05:44.000Z",
+      "xQuery": "外国人が駆け込むクリニック 密着"
     },
     {
       "time": "14:32",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593620?source=rss",
       "publishedAt": "2026-08-30T05:32:35.000Z",
       "xQuery": "山肌埋め尽くすシカ 南アルプス"
+    },
+    {
+      "time": "15:29",
+      "title": "皇居ランに賛否 SNSで議論が拡大",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593624?source=rss",
+      "publishedAt": "2026-08-30T06:29:16.000Z",
+      "xQuery": "皇居ランに賛否 SNSで議論が拡大"
     }
   ]
 };
