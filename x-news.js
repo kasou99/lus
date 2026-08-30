@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T02:25:30.839Z",
+  "updatedAt": "2026-08-30T02:42:11.315Z",
   "items": [
     {
-      "time": "08:37",
-      "title": "福井県 24万人に緊急安全確保",
+      "time": "11:28",
+      "title": "福井大雨 3市全域に緊急安全確保",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593595?source=rss",
-      "publishedAt": "2026-08-29T23:37:28.000Z",
-      "xQuery": "福井県 24万人に緊急安全確保"
+      "url": "https://news.yahoo.co.jp/pickup/6593607?source=rss",
+      "publishedAt": "2026-08-30T02:28:19.000Z",
+      "xQuery": "福井大雨 3市全域に緊急安全確保"
     },
     {
       "time": "10:41",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福井県で大雨 冠水など各地被害"
     },
     {
-      "time": "09:25",
-      "title": "ネパール土石流 行方不明3000人超",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593597?source=rss",
-      "publishedAt": "2026-08-30T00:25:20.000Z",
-      "xQuery": "ネパール土石流 行方不明3000人超"
-    },
-    {
       "time": "07:35",
       "title": "海で中高生3人死亡 家族ら悲痛",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593590?source=rss",
       "publishedAt": "2026-08-29T22:35:06.000Z",
       "xQuery": "海で中高生3人死亡 家族ら悲痛"
+    },
+    {
+      "time": "10:42",
+      "title": "ネパール 衛星が捉えたせき止め湖",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593605?source=rss",
+      "publishedAt": "2026-08-30T01:42:21.000Z",
+      "xQuery": "ネパール 衛星が捉えたせき止め湖"
     }
   ]
 };
