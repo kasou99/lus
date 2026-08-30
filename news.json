@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-08-30T18:37:55.002Z",
+  "updatedAt": "2026-08-30T19:12:24.466Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "16:55",
-        "title": "ＤＭＧ森精機と日本マイクロソフト、ＩｏＴ活用で技術協力",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TVjIxVjZTZWY4Rk5fZmNkaFpiSjV1ZzhLcTF5ODhNMHNGMzJYa195dXhvdjZ6WXBhUHJPQ25lN2dXdlpCNmlqMmE2Y2FlMGpwU1RmdGF5TUFkYjdWeEFzUl9NQXNjNG9Cc3FJRFR3?oc=5",
-        "publishedAt": "2026-08-30T07:55:56.000Z"
-      },
       {
         "time": "00:00",
         "title": "ＤＮソリューションズ、インド初工場が完成",
@@ -57,6 +50,13 @@
         "source": "沖縄タイムス社",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KSDA4NFNiRVpkeU1pOUZ4RU1MVTJwSkxmZkY5NkdYdjg5VUNrbzRVZUdEemJGUWRySGZHU1ktdzllOTNDRFhiNjNyOHV4VzB6anBVS3hjTUo1QXp1TEE?oc=5",
         "publishedAt": "2026-08-29T20:20:00.000Z"
+      },
+      {
+        "time": "13:26",
+        "title": "神戸製鋼所、マイクロソフトと提携するアルム。製造AI（フィジカルAI）が多品種小ロット生産の経済性を劇的に改善",
+        "source": "さっつーのAIエージェント",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IYkh2LU9fb2VfaERzekFDd2xRSDZXWjEzNHY2NG9zb2Z1bzF3SUZ3SDRhcXE4bGtram5PSmhpOG5sQXdaeW9oMEJxcXVsTlNjMlRWaWZNRkF6QzhvOGRMUjBzWUNUcjZYZDdNNE9B?oc=5",
+        "publishedAt": "2026-08-30T04:26:54.000Z"
       }
     ],
     "worldHeadlines": [
