@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T11:37:33.759Z",
+  "updatedAt": "2026-08-30T12:23:43.336Z",
   "items": [
     {
       "time": "19:18",
@@ -10,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "福井大雨 土砂災害に厳重警戒を"
     },
     {
-      "time": "20:33",
-      "title": "香川県知事選 池田氏の再選が確実",
+      "time": "20:27",
+      "title": "がれき下から声 ネパール少女救出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593668?source=rss",
-      "publishedAt": "2026-08-30T11:33:29.000Z",
-      "xQuery": "香川県知事選 池田氏の再選が確実"
+      "url": "https://news.yahoo.co.jp/pickup/6593667?source=rss",
+      "publishedAt": "2026-08-30T11:27:06.000Z",
+      "xQuery": "がれき下から声 ネパール少女救出"
     },
     {
-      "time": "17:40",
-      "title": "カイロス3号機失敗 静電気要因か",
+      "time": "21:00",
+      "title": "高校無償化で私立人気 公立は苦境",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593644?source=rss",
-      "publishedAt": "2026-08-30T08:40:47.000Z",
-      "xQuery": "カイロス3号機失敗 静電気要因か"
+      "url": "https://news.yahoo.co.jp/pickup/6593670?source=rss",
+      "publishedAt": "2026-08-30T12:00:05.000Z",
+      "xQuery": "高校無償化で私立人気 公立は苦境"
+    },
+    {
+      "time": "17:49",
+      "title": "各地に存在「廃墟モール」の盛衰",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593646?source=rss",
+      "publishedAt": "2026-08-30T08:49:55.000Z",
+      "xQuery": "各地に存在「廃墟モール」の盛衰"
     },
     {
       "time": "19:39",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593662?source=rss",
       "publishedAt": "2026-08-30T10:39:14.000Z",
       "xQuery": "レゴランド閉じ込め 扉破壊し救助"
-    },
-    {
-      "time": "18:35",
-      "title": "こたけ正義感 冤罪をネタにした訳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593654?source=rss",
-      "publishedAt": "2026-08-30T09:35:05.000Z",
-      "xQuery": "こたけ正義感 冤罪をネタにした訳"
     }
   ]
 };
