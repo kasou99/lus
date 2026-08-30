@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-30T14:36:57.270Z",
+  "updatedAt": "2026-08-30T15:14:36.446Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "16:55",
+        "title": "ＤＭＧ森精機と日本マイクロソフト、ＩｏＴ活用で技術協力",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TVjIxVjZTZWY4Rk5fZmNkaFpiSjV1ZzhLcTF5ODhNMHNGMzJYa195dXhvdjZ6WXBhUHJPQ25lN2dXdlpCNmlqMmE2Y2FlMGpwU1RmdGF5TUFkYjdWeEFzUl9NQXNjNG9Cc3FJRFR3?oc=5",
+        "publishedAt": "2026-08-30T07:55:56.000Z"
+      },
+      {
+        "time": "00:00",
+        "title": "ＤＮソリューションズ、インド初工場が完成",
+        "source": "nna.jp",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RY21TUVZzMmMzOEt1TkJ0RDgxaWdYWEs0LWdtdHdIeXVXcldHODJWMzc3TkFyUnY4Z3VBMXdSNUtEbVJyR2c?oc=5",
+        "publishedAt": "2026-08-30T15:00:00.000Z"
+      },
       {
         "time": "09:30",
         "title": "【探訪・ザ・カンパニー】江口電機（倉敷市）生産ラインの効率化を後押し",
@@ -43,20 +57,6 @@
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XWFJpcE1yZEl4MVJibXE0WWFpNnZQN1BWNDVoRXp3Z0lxM2YxOUQycTloZDhmUGFIdW5memNCeUh0empGc1YtQWZKaWpjWlgwa0VDak5DVlYzVnQzQmtJb0p5N3MxaVJPLS0wZmRfRGZYd2c1cm45Xw?oc=5",
         "publishedAt": "2026-08-29T17:03:46.000Z"
-      },
-      {
-        "time": "20:47",
-        "title": "ファイローン湖の噴水設置工事は80％完了しました。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVldNUDJ3TkJPMmJGUjMwVTAxcU1IRm0wTjAwNnRXck80cVdkNXpfNy1XTHRoX1JzQmx3UDRkVmF6ZlFBWFR3M1JwQjE1V0M0WGtXcWhYSnRVMmkxY0JpSEJ4Q1BfSFNFM2xCXzJHa040QzJTOFRTYWVvZUVhdlRxd3R5UVUxT2FuVVRNczE2VThvYVE?oc=5",
-        "publishedAt": "2026-08-30T11:47:58.000Z"
-      },
-      {
-        "time": "08:39",
-        "title": "デジタル変革は、ドンナイ省の発展を加速させるのに役立つだろう。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95d1l5TmVQWGgycUJKbTAxekJ4VThneHhVWXZ2RHJITFRkWWhNZUJZaVlCdHJ6ZWhFYmxTMko1aHZOSUxWNHJxTWRUdVE4MEtfMl9yYmN4dmtiVVUza2oyVGNLM2g5dV9ZZlRCa2NBckhRdw?oc=5",
-        "publishedAt": "2026-08-29T23:39:20.000Z"
       }
     ],
     "worldHeadlines": [

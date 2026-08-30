@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T14:36:58.186Z",
+  "updatedAt": "2026-08-30T15:14:37.504Z",
   "items": [
     {
       "time": "22:22",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "80歳の和菓子店主死亡 殺人と断定"
     },
     {
-      "time": "22:35",
-      "title": "武蔵野市で路上強盗 男性が逃走",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593682?source=rss",
-      "publishedAt": "2026-08-30T13:35:53.000Z",
-      "xQuery": "武蔵野市で路上強盗 男性が逃走"
-    },
-    {
       "time": "22:36",
       "title": "ダム水難 助けようとした男性死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593683?source=rss",
       "publishedAt": "2026-08-30T13:36:33.000Z",
       "xQuery": "ダム水難 助けようとした男性死亡"
+    },
+    {
+      "time": "23:28",
+      "title": "法で子のSNS年齢制限「必要」64%",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593690?source=rss",
+      "publishedAt": "2026-08-30T14:28:53.000Z",
+      "xQuery": "法で子のSNS年齢制限「必要」64%"
     }
   ]
 };
