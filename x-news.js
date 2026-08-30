@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T00:53:16.800Z",
+  "updatedAt": "2026-08-30T01:28:05.933Z",
   "items": [
     {
       "time": "07:08",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福井県 24万人に緊急安全確保"
     },
     {
-      "time": "06:47",
-      "title": "福井・龍ヶ鼻ダム 緊急放流の恐れ",
+      "time": "10:08",
+      "title": "福井県で大雨 冠水など各地被害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593585?source=rss",
-      "publishedAt": "2026-08-29T21:47:22.000Z",
-      "xQuery": "福井・龍ヶ鼻ダム 緊急放流の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6593602?source=rss",
+      "publishedAt": "2026-08-30T01:08:43.000Z",
+      "xQuery": "福井県で大雨 冠水など各地被害"
     },
     {
       "time": "09:25",

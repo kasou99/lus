@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T00:53:16.264Z",
+  "updatedAt": "2026-08-30T01:28:05.259Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-08-29T20:02:23.000Z"
       },
       {
-        "time": "23:05",
-        "title": "京セラや神戸製鋼など20社、国産フィジカルAIで工作ロボ共同開発へ",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qd29ubmp0ME5OcHFGUE1lVl92OF9weTFMSXEzZm9UaFlrMHkzMlZnSkZ1emdXenpENTg5NGY2RjVEN21hU25YZGxKeHQ2ME1nRW5BUG5qczVpNG9YMzV5LW9acWNHcG5rc3VoWFJiVmNlWmJ1?oc=5",
-        "publishedAt": "2026-08-29T14:05:00.000Z"
+        "time": "22:30",
+        "title": "【独自】フィジカルAI実用化へ企業連合 製造ロボ制御、京セラなど20社 (共同通信)",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaWZBcWlFMXFBMzdwOGdSNWhIaXFaNHRkdXA1VUVwc0ZNZzZsblNlU3o2SEdVNlBiS0U1UUU3bmNwTHdrSUhaTGxJcWRqZkdMWVgzSWJLQng3WmE2UnNBRUdQVVNRdmVzNEE4RnFINGFJTFI2X3JhaGF0d2xZYWx2OER3OGFzSzVmNjNJMHln?oc=5",
+        "publishedAt": "2026-08-29T13:30:28.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-08-29T21:47:22.000Z"
       },
       {
+        "time": "10:08",
+        "title": "福井県で大雨 冠水など各地被害",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593602?source=rss",
+        "publishedAt": "2026-08-30T01:08:43.000Z"
+      },
+      {
         "time": "06:10",
         "title": "福井県で大雨 現地のSNS投稿",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593590?source=rss",
         "publishedAt": "2026-08-29T22:35:06.000Z"
-      },
-      {
-        "time": "21:11",
-        "title": "海で3人死亡 14歳は救助図ったか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593554?source=rss",
-        "publishedAt": "2026-08-29T12:11:53.000Z"
       }
     ],
     "subsidyHeadlines": [
