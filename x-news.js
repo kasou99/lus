@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T09:16:21.940Z",
+  "updatedAt": "2026-08-30T09:36:19.209Z",
   "items": [
     {
       "time": "17:13",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「議連補助金」予算化 福岡県だけ"
     },
     {
-      "time": "17:03",
-      "title": "「アメリカ湖」に改称 反対が続出",
+      "time": "18:28",
+      "title": "ソニー生命に立ち入り検査へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593638?source=rss",
-      "publishedAt": "2026-08-30T08:03:24.000Z",
-      "xQuery": "「アメリカ湖」に改称 反対が続出"
+      "url": "https://news.yahoo.co.jp/pickup/6593651?source=rss",
+      "publishedAt": "2026-08-30T09:28:00.000Z",
+      "xQuery": "ソニー生命に立ち入り検査へ"
     },
     {
       "time": "17:06",
