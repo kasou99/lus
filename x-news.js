@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T01:48:19.882Z",
+  "updatedAt": "2026-08-30T02:25:30.839Z",
   "items": [
-    {
-      "time": "07:08",
-      "title": "福井県に大雨特別警報 最大級警戒",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593588?source=rss",
-      "publishedAt": "2026-08-29T22:08:02.000Z",
-      "xQuery": "福井県に大雨特別警報 最大級警戒"
-    },
     {
       "time": "08:37",
       "title": "福井県 24万人に緊急安全確保",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593595?source=rss",
       "publishedAt": "2026-08-29T23:37:28.000Z",
       "xQuery": "福井県 24万人に緊急安全確保"
+    },
+    {
+      "time": "10:41",
+      "title": "福井県大雨 車立ち往生と複数通報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593604?source=rss",
+      "publishedAt": "2026-08-30T01:41:32.000Z",
+      "xQuery": "福井県大雨 車立ち往生と複数通報"
     },
     {
       "time": "10:08",
