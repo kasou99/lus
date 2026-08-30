@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T20:36:22.533Z",
+  "updatedAt": "2026-08-30T21:14:12.349Z",
   "items": [
     {
-      "time": "22:22",
-      "title": "福井の大雨 秋雨前線が原因で発生",
+      "time": "06:06",
+      "title": "米軍 イラン南部の発射施設攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593680?source=rss",
-      "publishedAt": "2026-08-30T13:22:31.000Z",
-      "xQuery": "福井の大雨 秋雨前線が原因で発生"
+      "url": "https://news.yahoo.co.jp/pickup/6593692?source=rss",
+      "publishedAt": "2026-08-30T21:06:15.000Z",
+      "xQuery": "米軍 イラン南部の発射施設攻撃"
     },
     {
       "time": "22:53",

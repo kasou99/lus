@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-30T20:36:21.540Z",
+  "updatedAt": "2026-08-30T21:14:11.593Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "16:55",
-        "title": "ＤＭＧ森精機と日本マイクロソフト、ＩｏＴ活用で技術協力",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TVjIxVjZTZWY4Rk5fZmNkaFpiSjV1ZzhLcTF5ODhNMHNGMzJYa195dXhvdjZ6WXBhUHJPQ25lN2dXdlpCNmlqMmE2Y2FlMGpwU1RmdGF5TUFkYjdWeEFzUl9NQXNjNG9Cc3FJRFR3?oc=5",
-        "publishedAt": "2026-08-30T07:55:56.000Z"
+        "time": "06:00",
+        "title": "東ガス、インフラ新興に出資／ＡＩで設備保全高度化 –",
+        "source": "電気新聞ウェブサイト",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZcF91OW1rblhNWXhydWNRTDFVWXhZWF9wTjM1UElBQVQ0UnRaMWJOMElZMnlQQ0R3RGV6eTBsVHpydWFoM0VObTBVX2dieWpSUVZZVTBUWQ?oc=5",
+        "publishedAt": "2026-08-30T21:00:30.000Z"
       },
       {
         "time": "00:00",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "06:06",
+        "title": "米軍 イラン南部の発射施設攻撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593692?source=rss",
+        "publishedAt": "2026-08-30T21:06:15.000Z"
+      },
+      {
         "time": "20:27",
         "title": "がれき下から声 ネパール少女救出",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593605?source=rss",
         "publishedAt": "2026-08-30T01:42:21.000Z"
-      },
-      {
-        "time": "21:09",
-        "title": "ウ 露に1日1000機の無人機投入へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593553?source=rss",
-        "publishedAt": "2026-08-29T12:09:58.000Z"
       },
       {
         "time": "08:57",
