@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T08:21:07.721Z",
+  "updatedAt": "2026-08-30T08:39:19.065Z",
   "items": [
     {
-      "time": "14:52",
-      "title": "福井県 住宅浸水など被害相次ぐ",
+      "time": "17:13",
+      "title": "福井大雨「目覚めると周囲が水」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593623?source=rss",
-      "publishedAt": "2026-08-30T05:52:46.000Z",
-      "xQuery": "福井県 住宅浸水など被害相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6593642?source=rss",
+      "publishedAt": "2026-08-30T08:13:28.000Z",
+      "xQuery": "福井大雨「目覚めると周囲が水」"
     },
     {
       "time": "16:23",
