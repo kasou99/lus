@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T11:13:38.204Z",
+  "updatedAt": "2026-08-30T11:37:33.759Z",
   "items": [
     {
-      "time": "17:13",
-      "title": "福井大雨「目覚めると周囲が水」",
+      "time": "19:18",
+      "title": "福井大雨 土砂災害に厳重警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593642?source=rss",
-      "publishedAt": "2026-08-30T08:13:28.000Z",
-      "xQuery": "福井大雨「目覚めると周囲が水」"
+      "url": "https://news.yahoo.co.jp/pickup/6593658?source=rss",
+      "publishedAt": "2026-08-30T10:18:16.000Z",
+      "xQuery": "福井大雨 土砂災害に厳重警戒を"
+    },
+    {
+      "time": "20:33",
+      "title": "香川県知事選 池田氏の再選が確実",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593668?source=rss",
+      "publishedAt": "2026-08-30T11:33:29.000Z",
+      "xQuery": "香川県知事選 池田氏の再選が確実"
     },
     {
       "time": "17:40",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593644?source=rss",
       "publishedAt": "2026-08-30T08:40:47.000Z",
       "xQuery": "カイロス3号機失敗 静電気要因か"
-    },
-    {
-      "time": "18:28",
-      "title": "ソニー生命に立ち入り検査へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593651?source=rss",
-      "publishedAt": "2026-08-30T09:28:00.000Z",
-      "xQuery": "ソニー生命に立ち入り検査へ"
     },
     {
       "time": "19:39",
