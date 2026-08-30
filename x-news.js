@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T23:14:12.912Z",
+  "updatedAt": "2026-08-30T23:37:01.933Z",
   "items": [
     {
-      "time": "06:06",
-      "title": "米軍 イラン南部の発射施設攻撃",
+      "time": "08:26",
+      "title": "核ごみ調査 常陸大宮市申し入れへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593692?source=rss",
-      "publishedAt": "2026-08-30T21:06:15.000Z",
-      "xQuery": "米軍 イラン南部の発射施設攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6593705?source=rss",
+      "publishedAt": "2026-08-30T23:26:10.000Z",
+      "xQuery": "核ごみ調査 常陸大宮市申し入れへ"
     },
     {
       "time": "07:49",
