@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T21:14:12.349Z",
+  "updatedAt": "2026-08-30T21:37:38.044Z",
   "items": [
     {
       "time": "06:06",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ダム水難 助けようとした男性死亡"
     },
     {
-      "time": "23:28",
-      "title": "法で子のSNS年齢制限「必要」64%",
+      "time": "23:18",
+      "title": "顔の腫瘍で驚かれる三男 父の願い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593690?source=rss",
-      "publishedAt": "2026-08-30T14:28:53.000Z",
-      "xQuery": "法で子のSNS年齢制限「必要」64%"
+      "url": "https://news.yahoo.co.jp/pickup/6593685?source=rss",
+      "publishedAt": "2026-08-30T14:18:21.000Z",
+      "xQuery": "顔の腫瘍で驚かれる三男 父の願い"
     }
   ]
 };
