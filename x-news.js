@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T03:41:00.767Z",
+  "updatedAt": "2026-08-30T04:19:43.083Z",
   "items": [
     {
       "time": "11:54",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福井県で大雨 冠水など各地被害"
     },
     {
+      "time": "09:56",
+      "title": "中道 結党7カ月で瓦解の危機",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593599?source=rss",
+      "publishedAt": "2026-08-30T00:56:02.000Z",
+      "xQuery": "中道 結党7カ月で瓦解の危機"
+    },
+    {
       "time": "10:42",
       "title": "ネパール 衛星が捉えたせき止め湖",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593605?source=rss",
       "publishedAt": "2026-08-30T01:42:21.000Z",
       "xQuery": "ネパール 衛星が捉えたせき止め湖"
-    },
-    {
-      "time": "07:53",
-      "title": "福岡県 県議の任意団体に補助金",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593592?source=rss",
-      "publishedAt": "2026-08-29T22:53:51.000Z",
-      "xQuery": "福岡県 県議の任意団体に補助金"
     }
   ]
 };

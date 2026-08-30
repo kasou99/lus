@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T03:40:59.824Z",
+  "updatedAt": "2026-08-30T04:19:42.045Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-08-29T13:53:13.000Z"
       },
       {
+        "time": "18:31",
+        "title": "工作機械より強ぇ!!これが日本の最強産業装置だ!!～【SMT・半導体後工程】 Vatican Sspx (hvjAW5iCAd)",
+        "source": "Mshale",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56OVZWX1hoUkd1WjFKRjNKQlV0eUIxNW9UTjdJUlZldDRic0VBV2lyTUZKaFNmYmJ5Nm1YTTduWTRVbzlwNzBDMHV0Q0pYRmxvUlFRSkNyLW1ueVk?oc=5",
+        "publishedAt": "2026-08-29T09:31:53.000Z"
+      },
+      {
         "time": "05:02",
         "title": "【独自】フィジカルＡＩ実用化へ企業連合 製造ロボ制御、京セラなど２０社 | 全国のニュース",
         "source": "福井新聞社",
@@ -46,17 +53,10 @@
       },
       {
         "time": "21:00",
-        "title": "【独自】フィジカルＡＩ実用化へ企業連合／製造ロボ制御、京セラなど２０社",
-        "source": "四国新聞",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS2tCa0ZfWnBXRVFzR0FqX2Jfc2V6SFUtTndpbkxNOHBiTDNyNUNCd25rUF9jTDd4em1RdkVtYTFOSVIzZWIycGhYRWxQZ293WldzODh4SVZuYlZFLXpEWWpCRFlaN0N1Zk8yeWpsZURfUmhTV0pvTTFneVFicEhSNndhSQ?oc=5",
-        "publishedAt": "2026-08-29T12:00:00.000Z"
-      },
-      {
-        "time": "23:10",
-        "title": "DXの正解、備後でビンゴ！株式会社FRICS Fabが「びんごデジタルラボEXPO」に出展(9/30)",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14RjhGa0RHRkZxemJPb1YwM0Jqc1NkNThyLXd3QnZQZnU5aHMzVERSblg1b2RzZkw1cFdMZlBUMWh0NFVrQ3kzUHdteC1odlM0ZFBUWmFZOGNkSHVmLWlzTTZZNko5UDVaSnJCZlByZWtodw?oc=5",
-        "publishedAt": "2026-08-29T14:10:00.000Z"
+        "title": "【独自】フィジカルＡＩ実用化へ企業連合 製造ロボ制御、京セラなど２０社｜全国のニュース｜Web東奥",
+        "source": "東奥日報社",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwdW93eXFXZzBSMEFiU2Q5ZEFSSHpVTk00TDhxNTFWWXBXeEZNM1JxcXY3VWZmdVRXUE9VT3VRQl9abEt5R29WdnNLYXNNU2pKN29VQVlNYi0?oc=5",
+        "publishedAt": "2026-08-29T12:00:01.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-08-30T02:28:19.000Z"
       },
       {
-        "time": "06:47",
-        "title": "福井・龍ヶ鼻ダム 緊急放流の恐れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593585?source=rss",
-        "publishedAt": "2026-08-29T21:47:22.000Z"
-      },
-      {
         "time": "10:41",
         "title": "福井県大雨 車立ち往生と複数通報",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593590?source=rss",
         "publishedAt": "2026-08-29T22:35:06.000Z"
+      },
+      {
+        "time": "21:11",
+        "title": "海で3人死亡 14歳は救助図ったか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593554?source=rss",
+        "publishedAt": "2026-08-29T12:11:53.000Z"
       }
     ],
     "subsidyHeadlines": [
