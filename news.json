@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T01:28:05.259Z",
+  "updatedAt": "2026-08-30T01:48:19.074Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -68,6 +68,13 @@
         "publishedAt": "2026-08-30T00:25:20.000Z"
       },
       {
+        "time": "10:42",
+        "title": "ネパール 衛星が捉えたせき止め湖",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593605?source=rss",
+        "publishedAt": "2026-08-30T01:42:21.000Z"
+      },
+      {
         "time": "13:31",
         "title": "ネパール土石流 婚約者が不明で涙",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593596?source=rss",
         "publishedAt": "2026-08-29T23:57:17.000Z"
-      },
-      {
-        "time": "21:41",
-        "title": "独右派AfD ナチス想起させる公約",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593557?source=rss",
-        "publishedAt": "2026-08-29T12:41:52.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-08-29T21:47:22.000Z"
       },
       {
+        "time": "10:41",
+        "title": "福井県大雨 車立ち往生と複数通報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593604?source=rss",
+        "publishedAt": "2026-08-30T01:41:32.000Z"
+      },
+      {
         "time": "10:08",
         "title": "福井県で大雨 冠水など各地被害",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593602?source=rss",
         "publishedAt": "2026-08-30T01:08:43.000Z"
-      },
-      {
-        "time": "06:10",
-        "title": "福井県で大雨 現地のSNS投稿",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593583?source=rss",
-        "publishedAt": "2026-08-29T21:10:07.000Z"
       },
       {
         "time": "07:53",
