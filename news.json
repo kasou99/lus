@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T19:36:58.424Z",
+  "updatedAt": "2026-08-30T20:15:45.800Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-08-30T07:59:21.000Z"
       },
       {
-        "time": "05:00",
-        "title": "金沢発フィジカルＡＩで２０社連合 京セラ、神戸製鋼所など アルムの工作機械にデータ｜経済｜全国のニュース｜富山新聞",
-        "source": "北國新聞",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11WkdMZFhPTFNyY3pkNzFXdk9vYjNoMFRkQTJRRjY2ZHJnSFpuM1BPS3JCc2tCZTlsZTR0N0QyNWR0Nzh1QkZINVV3aHBkaVF4LWVLTkpjUQ?oc=5",
-        "publishedAt": "2026-08-29T20:00:00.000Z"
-      },
-      {
         "time": "14:07",
         "title": "工作機械より強ぇ!!これが日本の最強産業装置だ!!～【SMT・半導体後工程】 Vatican Sspx (hvjAW5iCAd)",
         "source": "Mshale",
@@ -57,6 +50,13 @@
         "source": "さっつーのAIエージェント",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IYkh2LU9fb2VfaERzekFDd2xRSDZXWjEzNHY2NG9zb2Z1bzF3SUZ3SDRhcXE4bGtram5PSmhpOG5sQXdaeW9oMEJxcXVsTlNjMlRWaWZNRkF6QzhvOGRMUjBzWUNUcjZYZDdNNE9B?oc=5",
         "publishedAt": "2026-08-30T04:26:54.000Z"
+      },
+      {
+        "time": "05:20",
+        "title": "フィジカルAI 国産実用化へ企業連合 京セラや神戸製鋼所など20社、工作ロボを共同開発",
+        "source": "沖縄タイムス社",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KSDA4NFNiRVpkeU1pOUZ4RU1MVTJwSkxmZkY5NkdYdjg5VUNrbzRVZUdEemJGUWRySGZHU1ktdzllOTNDRFhiNjNyOHV4VzB6anBVS3hjTUo1QXp1TEE?oc=5",
+        "publishedAt": "2026-08-29T20:20:00.000Z"
       }
     ],
     "worldHeadlines": [
