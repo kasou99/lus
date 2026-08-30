@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T13:37:07.978Z",
+  "updatedAt": "2026-08-30T14:14:51.107Z",
   "items": [
     {
-      "time": "19:18",
-      "title": "福井大雨 土砂災害に厳重警戒を",
+      "time": "22:22",
+      "title": "福井の大雨 秋雨前線が原因で発生",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593658?source=rss",
-      "publishedAt": "2026-08-30T10:18:16.000Z",
-      "xQuery": "福井大雨 土砂災害に厳重警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6593680?source=rss",
+      "publishedAt": "2026-08-30T13:22:31.000Z",
+      "xQuery": "福井の大雨 秋雨前線が原因で発生"
     },
     {
       "time": "21:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "80歳の和菓子店主死亡 殺人と断定"
     },
     {
-      "time": "21:00",
-      "title": "高校無償化で私立人気 公立は苦境",
+      "time": "22:35",
+      "title": "武蔵野市で路上強盗 男性が逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593670?source=rss",
-      "publishedAt": "2026-08-30T12:00:05.000Z",
-      "xQuery": "高校無償化で私立人気 公立は苦境"
+      "url": "https://news.yahoo.co.jp/pickup/6593682?source=rss",
+      "publishedAt": "2026-08-30T13:35:53.000Z",
+      "xQuery": "武蔵野市で路上強盗 男性が逃走"
     },
     {
-      "time": "22:07",
-      "title": "作家・岸田奈美氏 第1子を妊娠",
+      "time": "22:36",
+      "title": "ダム水難 助けようとした男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593679?source=rss",
-      "publishedAt": "2026-08-30T13:07:34.000Z",
-      "xQuery": "作家・岸田奈美氏 第1子を妊娠"
+      "url": "https://news.yahoo.co.jp/pickup/6593683?source=rss",
+      "publishedAt": "2026-08-30T13:36:33.000Z",
+      "xQuery": "ダム水難 助けようとした男性死亡"
     }
   ]
 };

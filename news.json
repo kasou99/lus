@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-30T13:37:07.301Z",
+  "updatedAt": "2026-08-30T14:14:50.375Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "16:55",
-        "title": "ＤＭＧ森精機と日本マイクロソフト、ＩｏＴ活用で技術協力",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TVjIxVjZTZWY4Rk5fZmNkaFpiSjV1ZzhLcTF5ODhNMHNGMzJYa195dXhvdjZ6WXBhUHJPQ25lN2dXdlpCNmlqMmE2Y2FlMGpwU1RmdGF5TUFkYjdWeEFzUl9NQXNjNG9Cc3FJRFR3?oc=5",
-        "publishedAt": "2026-08-30T07:55:56.000Z"
-      },
       {
         "time": "09:30",
         "title": "【探訪・ザ・カンパニー】江口電機（倉敷市）生産ラインの効率化を後押し",
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UNERRR1hVUk02RDdrMkJxcUtNS2IwaFdpVklBRTFzSmIzQmZHQTRXZjc1emI1eGxtRkJVZ05GT0pvcTNydmgxNlptUkxyTmxKbnJ2NFNNbzJ3aFNVWGpRcmMybkZzcFVDZEtPSHduN19WcHM?oc=5",
         "publishedAt": "2026-08-30T00:30:24.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "金沢発フィジカルＡＩで２０社連合 京セラ、神戸製鋼所など アルムの工作機械にデータ｜経済｜全国のニュース｜富山新聞",
+        "source": "北國新聞",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11WkdMZFhPTFNyY3pkNzFXdk9vYjNoMFRkQTJRRjY2ZHJnSFpuM1BPS3JCc2tCZTlsZTR0N0QyNWR0Nzh1QkZINVV3aHBkaVF4LWVLTkpjUQ?oc=5",
+        "publishedAt": "2026-08-29T20:00:00.000Z"
       },
       {
         "time": "16:59",
@@ -24,25 +24,18 @@
         "publishedAt": "2026-08-30T07:59:21.000Z"
       },
       {
-        "time": "05:00",
-        "title": "金沢発フィジカルＡＩで２０社連合 京セラ、神戸製鋼所など アルムの工作機械にデータ｜経済｜全国のニュース｜富山新聞",
-        "source": "北國新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96MkVaTFE5aUlPYmMySk94NXVzcjFTcUplZWIySW9qcEpMUDV0S29PcWhCenhXMUdjdUdoeEMxUjNJZkVtejNFMXhEd2pMSXVBcDMtcF91dllEUQ?oc=5",
-        "publishedAt": "2026-08-29T20:00:00.000Z"
+        "time": "05:20",
+        "title": "フィジカルAI 国産実用化へ企業連合 京セラや神戸製鋼所など20社、工作ロボを共同開発",
+        "source": "沖縄タイムス社",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KSDA4NFNiRVpkeU1pOUZ4RU1MVTJwSkxmZkY5NkdYdjg5VUNrbzRVZUdEemJGUWRySGZHU1ktdzllOTNDRFhiNjNyOHV4VzB6anBVS3hjTUo1QXp1TEE?oc=5",
+        "publishedAt": "2026-08-29T20:20:00.000Z"
       },
       {
-        "time": "14:07",
-        "title": "工作機械より強ぇ!!これが日本の最強産業装置だ!!～【SMT・半導体後工程】 Vatican Sspx (hvjAW5iCAd)",
-        "source": "Mshale",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56OVZWX1hoUkd1WjFKRjNKQlV0eUIxNW9UTjdJUlZldDRic0VBV2lyTUZKaFNmYmJ5Nm1YTTduWTRVbzlwNzBDMHV0Q0pYRmxvUlFRSkNyLW1ueVk?oc=5",
-        "publishedAt": "2026-08-30T05:07:10.000Z"
-      },
-      {
-        "time": "23:05",
-        "title": "京セラや神戸製鋼など20社、国産フィジカルAIで工作ロボ共同開発へ",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qd29ubmp0ME5OcHFGUE1lVl92OF9weTFMSXEzZm9UaFlrMHkzMlZnSkZ1emdXenpENTg5NGY2RjVEN21hU25YZGxKeHQ2ME1nRW5BUG5qczVpNG9YMzV5LW9acWNHcG5rc3VoWFJiVmNlWmJ1?oc=5",
-        "publishedAt": "2026-08-29T14:05:00.000Z"
+        "time": "13:26",
+        "title": "神戸製鋼所、マイクロソフトと提携するアルム。製造AI（フィジカルAI）が多品種小ロット生産の経済性を劇的に改善",
+        "source": "さっつーのAIエージェント",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IYkh2LU9fb2VfaERzekFDd2xRSDZXWjEzNHY2NG9zb2Z1bzF3SUZ3SDRhcXE4bGtram5PSmhpOG5sQXdaeW9oMEJxcXVsTlNjMlRWaWZNRkF6QzhvOGRMUjBzWUNUcjZYZDdNNE9B?oc=5",
+        "publishedAt": "2026-08-30T04:26:54.000Z"
       },
       {
         "time": "02:03",
@@ -57,6 +50,13 @@
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVldNUDJ3TkJPMmJGUjMwVTAxcU1IRm0wTjAwNnRXck80cVdkNXpfNy1XTHRoX1JzQmx3UDRkVmF6ZlFBWFR3M1JwQjE1V0M0WGtXcWhYSnRVMmkxY0JpSEJ4Q1BfSFNFM2xCXzJHa040QzJTOFRTYWVvZUVhdlRxd3R5UVUxT2FuVVRNczE2VThvYVE?oc=5",
         "publishedAt": "2026-08-30T11:47:58.000Z"
+      },
+      {
+        "time": "08:39",
+        "title": "デジタル変革は、ドンナイ省の発展を加速させるのに役立つだろう。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95d1l5TmVQWGgycUJKbTAxekJ4VThneHhVWXZ2RHJITFRkWWhNZUJZaVlCdHJ6ZWhFYmxTMko1aHZOSUxWNHJxTWRUdVE4MEtfMl9yYmN4dmtiVVUza2oyVGNLM2g5dV9ZZlRCa2NBckhRdw?oc=5",
+        "publishedAt": "2026-08-29T23:39:20.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-08-30T08:13:28.000Z"
       },
       {
-        "time": "20:33",
-        "title": "香川県知事選 池田氏の再選が確実",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593668?source=rss",
-        "publishedAt": "2026-08-30T11:33:29.000Z"
-      },
-      {
         "time": "21:59",
         "title": "80歳の和菓子店主死亡 殺人と断定",
         "source": "Yahoo!ニュース",
@@ -170,11 +163,25 @@
         "publishedAt": "2026-08-30T12:59:38.000Z"
       },
       {
-        "time": "18:43",
-        "title": "ダムで水難 子どもと男性意識不明",
+        "time": "22:35",
+        "title": "武蔵野市で路上強盗 男性が逃走",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593652?source=rss",
-        "publishedAt": "2026-08-30T09:43:21.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593682?source=rss",
+        "publishedAt": "2026-08-30T13:35:53.000Z"
+      },
+      {
+        "time": "22:36",
+        "title": "ダム水難 助けようとした男性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593683?source=rss",
+        "publishedAt": "2026-08-30T13:36:33.000Z"
+      },
+      {
+        "time": "22:53",
+        "title": "福岡県 議員連盟への補助金廃止へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593686?source=rss",
+        "publishedAt": "2026-08-30T13:53:25.000Z"
       },
       {
         "time": "18:49",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593655?source=rss",
         "publishedAt": "2026-08-30T09:49:59.000Z"
-      },
-      {
-        "time": "19:39",
-        "title": "レゴランド閉じ込め 扉破壊し救助",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593662?source=rss",
-        "publishedAt": "2026-08-30T10:39:14.000Z"
       }
     ],
     "subsidyHeadlines": [
