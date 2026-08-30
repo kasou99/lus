@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T04:39:49.367Z",
+  "updatedAt": "2026-08-30T05:16:04.735Z",
   "items": [
+    {
+      "time": "14:06",
+      "title": "福井県 土砂災害などに厳重警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593619?source=rss",
+      "publishedAt": "2026-08-30T05:06:38.000Z",
+      "xQuery": "福井県 土砂災害などに厳重警戒"
+    },
     {
       "time": "13:20",
       "title": "福井4市 観測史上最多の降水量",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593615?source=rss",
       "publishedAt": "2026-08-30T04:20:28.000Z",
       "xQuery": "福井4市 観測史上最多の降水量"
-    },
-    {
-      "time": "10:41",
-      "title": "福井県大雨 車立ち往生と複数通報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593604?source=rss",
-      "publishedAt": "2026-08-30T01:41:32.000Z",
-      "xQuery": "福井県大雨 車立ち往生と複数通報"
     },
     {
       "time": "09:56",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中道 結党7カ月で瓦解の危機"
     },
     {
-      "time": "10:42",
-      "title": "ネパール 衛星が捉えたせき止め湖",
+      "time": "13:38",
+      "title": "ネパール土石流 氷河崩落が原因",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593605?source=rss",
-      "publishedAt": "2026-08-30T01:42:21.000Z",
-      "xQuery": "ネパール 衛星が捉えたせき止め湖"
+      "url": "https://news.yahoo.co.jp/pickup/6593616?source=rss",
+      "publishedAt": "2026-08-30T04:38:12.000Z",
+      "xQuery": "ネパール土石流 氷河崩落が原因"
     },
     {
       "time": "13:01",
