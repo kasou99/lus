@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T09:36:19.209Z",
+  "updatedAt": "2026-08-30T10:14:36.284Z",
   "items": [
     {
       "time": "17:13",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福井大雨「目覚めると周囲が水」"
     },
     {
-      "time": "16:30",
-      "title": "「議連補助金」予算化 福岡県だけ",
+      "time": "17:40",
+      "title": "カイロス3号機失敗 静電気要因か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593633?source=rss",
-      "publishedAt": "2026-08-30T07:30:20.000Z",
-      "xQuery": "「議連補助金」予算化 福岡県だけ"
+      "url": "https://news.yahoo.co.jp/pickup/6593644?source=rss",
+      "publishedAt": "2026-08-30T08:40:47.000Z",
+      "xQuery": "カイロス3号機失敗 静電気要因か"
     },
     {
       "time": "18:28",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ソニー生命に立ち入り検査へ"
     },
     {
-      "time": "17:06",
-      "title": "レゴランド 客の11人一時閉じ込め",
+      "time": "18:43",
+      "title": "ダムで水難 子どもと男性意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593640?source=rss",
-      "publishedAt": "2026-08-30T08:06:36.000Z",
-      "xQuery": "レゴランド 客の11人一時閉じ込め"
+      "url": "https://news.yahoo.co.jp/pickup/6593652?source=rss",
+      "publishedAt": "2026-08-30T09:43:21.000Z",
+      "xQuery": "ダムで水難 子どもと男性意識不明"
     },
     {
-      "time": "17:49",
-      "title": "仕事向けのハーフパンツ 各社が力",
+      "time": "18:49",
+      "title": "TDL飲食店で客の荷物から煙 避難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593645?source=rss",
-      "publishedAt": "2026-08-30T08:49:55.000Z",
-      "xQuery": "仕事向けのハーフパンツ 各社が力"
+      "url": "https://news.yahoo.co.jp/pickup/6593655?source=rss",
+      "publishedAt": "2026-08-30T09:49:59.000Z",
+      "xQuery": "TDL飲食店で客の荷物から煙 避難"
     }
   ]
 };
