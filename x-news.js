@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T21:37:38.044Z",
+  "updatedAt": "2026-08-30T22:14:54.853Z",
   "items": [
     {
       "time": "06:06",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "80歳の和菓子店主死亡 殺人と断定"
     },
     {
-      "time": "22:36",
-      "title": "ダム水難 助けようとした男性死亡",
+      "time": "06:30",
+      "title": "トラックと車が正面衝突 3人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593683?source=rss",
-      "publishedAt": "2026-08-30T13:36:33.000Z",
-      "xQuery": "ダム水難 助けようとした男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6593694?source=rss",
+      "publishedAt": "2026-08-30T21:30:07.000Z",
+      "xQuery": "トラックと車が正面衝突 3人死亡"
     },
     {
       "time": "23:18",
