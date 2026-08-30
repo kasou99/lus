@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T10:36:37.396Z",
+  "updatedAt": "2026-08-30T11:13:38.204Z",
   "items": [
     {
       "time": "17:13",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ソニー生命に立ち入り検査へ"
     },
     {
-      "time": "18:43",
-      "title": "ダムで水難 子どもと男性意識不明",
+      "time": "19:39",
+      "title": "レゴランド閉じ込め 扉破壊し救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593652?source=rss",
-      "publishedAt": "2026-08-30T09:43:21.000Z",
-      "xQuery": "ダムで水難 子どもと男性意識不明"
+      "url": "https://news.yahoo.co.jp/pickup/6593662?source=rss",
+      "publishedAt": "2026-08-30T10:39:14.000Z",
+      "xQuery": "レゴランド閉じ込め 扉破壊し救助"
     },
     {
       "time": "18:35",

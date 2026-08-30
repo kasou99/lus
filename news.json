@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T10:36:36.510Z",
+  "updatedAt": "2026-08-30T11:13:37.341Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "北國新聞",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96MkVaTFE5aUlPYmMySk94NXVzcjFTcUplZWIySW9qcEpMUDV0S29PcWhCenhXMUdjdUdoeEMxUjNJZkVtejNFMXhEd2pMSXVBcDMtcF91dllEUQ?oc=5",
         "publishedAt": "2026-08-29T20:00:00.000Z"
+      },
+      {
+        "time": "14:07",
+        "title": "工作機械より強ぇ!!これが日本の最強産業装置だ!!～【SMT・半導体後工程】 Vatican Sspx (hvjAW5iCAd)",
+        "source": "Mshale",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56OVZWX1hoUkd1WjFKRjNKQlV0eUIxNW9UTjdJUlZldDRic0VBV2lyTUZKaFNmYmJ5Nm1YTTduWTRVbzlwNzBDMHV0Q0pYRmxvUlFRSkNyLW1ueVk?oc=5",
+        "publishedAt": "2026-08-30T05:07:10.000Z"
       },
       {
         "time": "21:13",
@@ -50,13 +57,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qd29ubmp0ME5OcHFGUE1lVl92OF9weTFMSXEzZm9UaFlrMHkzMlZnSkZ1emdXenpENTg5NGY2RjVEN21hU25YZGxKeHQ2ME1nRW5BUG5qczVpNG9YMzV5LW9acWNHcG5rc3VoWFJiVmNlWmJ1?oc=5",
         "publishedAt": "2026-08-29T14:05:00.000Z"
-      },
-      {
-        "time": "21:00",
-        "title": "【独自】フィジカルＡＩ実用化へ企業連合 製造ロボ制御、京セラなど２０社｜全国のニュース｜Web東奥",
-        "source": "東奥日報社",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwdW93eXFXZzBSMEFiU2Q5ZEFSSHpVTk00TDhxNTFWWXBXeEZNM1JxcXY3VWZmdVRXUE9VT3VRQl9abEt5R29WdnNLYXNNU2pKN29VQVlNYi0?oc=5",
-        "publishedAt": "2026-08-29T12:00:01.000Z"
       }
     ],
     "worldHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-08-30T09:49:59.000Z"
       },
       {
-        "time": "17:06",
-        "title": "レゴランド 客の11人一時閉じ込め",
+        "time": "19:39",
+        "title": "レゴランド閉じ込め 扉破壊し救助",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593640?source=rss",
-        "publishedAt": "2026-08-30T08:06:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593662?source=rss",
+        "publishedAt": "2026-08-30T10:39:14.000Z"
       }
     ],
     "subsidyHeadlines": [
