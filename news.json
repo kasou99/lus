@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T13:14:10.534Z",
+  "updatedAt": "2026-08-30T13:37:07.301Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-08-30T05:07:10.000Z"
       },
       {
-        "time": "05:20",
-        "title": "フィジカルAI 国産実用化へ企業連合 京セラや神戸製鋼所など20社、工作ロボを共同開発",
-        "source": "沖縄タイムス社",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KSDA4NFNiRVpkeU1pOUZ4RU1MVTJwSkxmZkY5NkdYdjg5VUNrbzRVZUdEemJGUWRySGZHU1ktdzllOTNDRFhiNjNyOHV4VzB6anBVS3hjTUo1QXp1TEE?oc=5",
-        "publishedAt": "2026-08-29T20:20:00.000Z"
-      },
-      {
         "time": "23:05",
         "title": "京セラや神戸製鋼など20社、国産フィジカルAIで工作ロボ共同開発へ",
         "source": "BigGo ファイナンス",
@@ -57,6 +50,13 @@
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XWFJpcE1yZEl4MVJibXE0WWFpNnZQN1BWNDVoRXp3Z0lxM2YxOUQycTloZDhmUGFIdW5memNCeUh0empGc1YtQWZKaWpjWlgwa0VDak5DVlYzVnQzQmtJb0p5N3MxaVJPLS0wZmRfRGZYd2c1cm45Xw?oc=5",
         "publishedAt": "2026-08-29T17:03:46.000Z"
+      },
+      {
+        "time": "20:47",
+        "title": "ファイローン湖の噴水設置工事は80％完了しました。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVldNUDJ3TkJPMmJGUjMwVTAxcU1IRm0wTjAwNnRXck80cVdkNXpfNy1XTHRoX1JzQmx3UDRkVmF6ZlFBWFR3M1JwQjE1V0M0WGtXcWhYSnRVMmkxY0JpSEJ4Q1BfSFNFM2xCXzJHa040QzJTOFRTYWVvZUVhdlRxd3R5UVUxT2FuVVRNczE2VThvYVE?oc=5",
+        "publishedAt": "2026-08-30T11:47:58.000Z"
       }
     ],
     "worldHeadlines": [
