@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T22:36:55.670Z",
+  "updatedAt": "2026-08-30T23:14:12.912Z",
   "items": [
     {
       "time": "06:06",
@@ -10,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米軍 イラン南部の発射施設攻撃"
     },
     {
-      "time": "22:53",
-      "title": "福岡県 議員連盟への補助金廃止へ",
+      "time": "07:49",
+      "title": "31日 東海や九州で猛暑日の予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593686?source=rss",
-      "publishedAt": "2026-08-30T13:53:25.000Z",
-      "xQuery": "福岡県 議員連盟への補助金廃止へ"
+      "url": "https://news.yahoo.co.jp/pickup/6593700?source=rss",
+      "publishedAt": "2026-08-30T22:49:46.000Z",
+      "xQuery": "31日 東海や九州で猛暑日の予想"
     },
     {
-      "time": "21:59",
-      "title": "80歳の和菓子店主死亡 殺人と断定",
+      "time": "07:38",
+      "title": "消費減税に「賛成」55% 朝日",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593678?source=rss",
-      "publishedAt": "2026-08-30T12:59:38.000Z",
-      "xQuery": "80歳の和菓子店主死亡 殺人と断定"
+      "url": "https://news.yahoo.co.jp/pickup/6593698?source=rss",
+      "publishedAt": "2026-08-30T22:38:55.000Z",
+      "xQuery": "消費減税に「賛成」55% 朝日"
+    },
+    {
+      "time": "08:01",
+      "title": "ソニーG35社がAnthropic提訴 米",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593701?source=rss",
+      "publishedAt": "2026-08-30T23:01:09.000Z",
+      "xQuery": "ソニーG35社がAnthropic提訴 米"
     },
     {
       "time": "06:30",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593694?source=rss",
       "publishedAt": "2026-08-30T21:30:07.000Z",
       "xQuery": "トラックと車が正面衝突 3人死亡"
-    },
-    {
-      "time": "23:18",
-      "title": "顔の腫瘍で驚かれる三男 父の願い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593685?source=rss",
-      "publishedAt": "2026-08-30T14:18:21.000Z",
-      "xQuery": "顔の腫瘍で驚かれる三男 父の願い"
     }
   ]
 };
