@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-29T23:37:24.057Z",
+  "updatedAt": "2026-08-30T00:53:16.800Z",
   "items": [
     {
       "time": "07:08",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福井県に大雨特別警報 最大級警戒"
     },
     {
-      "time": "06:14",
-      "title": "大雨で浸水リスク 車移動は危険",
+      "time": "08:37",
+      "title": "福井県 24万人に緊急安全確保",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593582?source=rss",
-      "publishedAt": "2026-08-29T21:14:58.000Z",
-      "xQuery": "大雨で浸水リスク 車移動は危険"
-    },
-    {
-      "time": "06:23",
-      "title": "福井県に大雨特別警報 最新情報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593581?source=rss",
-      "publishedAt": "2026-08-29T21:23:53.000Z",
-      "xQuery": "福井県に大雨特別警報 最新情報"
+      "url": "https://news.yahoo.co.jp/pickup/6593595?source=rss",
+      "publishedAt": "2026-08-29T23:37:28.000Z",
+      "xQuery": "福井県 24万人に緊急安全確保"
     },
     {
       "time": "06:47",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福井・龍ヶ鼻ダム 緊急放流の恐れ"
     },
     {
-      "time": "06:10",
-      "title": "福井県で大雨 現地のSNS投稿",
+      "time": "09:25",
+      "title": "ネパール土石流 行方不明3000人超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593583?source=rss",
-      "publishedAt": "2026-08-29T21:10:07.000Z",
-      "xQuery": "福井県で大雨 現地のSNS投稿"
+      "url": "https://news.yahoo.co.jp/pickup/6593597?source=rss",
+      "publishedAt": "2026-08-30T00:25:20.000Z",
+      "xQuery": "ネパール土石流 行方不明3000人超"
+    },
+    {
+      "time": "07:35",
+      "title": "海で中高生3人死亡 家族ら悲痛",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593590?source=rss",
+      "publishedAt": "2026-08-29T22:35:06.000Z",
+      "xQuery": "海で中高生3人死亡 家族ら悲痛"
     }
   ]
 };
