@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T00:54:03.367Z",
+  "updatedAt": "2026-08-31T01:32:24.301Z",
   "items": [
+    {
+      "time": "09:57",
+      "title": "日経平均 一時1500円超値下がり",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593712?source=rss",
+      "publishedAt": "2026-08-31T00:57:02.000Z",
+      "xQuery": "日経平均 一時1500円超値下がり"
+    },
+    {
+      "time": "10:02",
+      "title": "障害者雇用ビジネス 規制を検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593711?source=rss",
+      "publishedAt": "2026-08-31T01:02:52.000Z",
+      "xQuery": "障害者雇用ビジネス 規制を検討"
+    },
     {
       "time": "06:48",
       "title": "ネパール土石流 死者800人超える",
@@ -10,28 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール土石流 死者800人超える"
     },
     {
-      "time": "08:26",
-      "title": "核ごみ調査 常陸大宮市申し入れへ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593705?source=rss",
-      "publishedAt": "2026-08-30T23:26:10.000Z",
-      "xQuery": "核ごみ調査 常陸大宮市申し入れへ"
-    },
-    {
       "time": "09:03",
       "title": "日銀‌総裁の判断期待 米財務長官",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593708?source=rss",
       "publishedAt": "2026-08-31T00:03:38.000Z",
       "xQuery": "日銀‌総裁の判断期待 米財務長官"
-    },
-    {
-      "time": "08:39",
-      "title": "米軍が攻撃 原油先物が2%超上昇",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593704?source=rss",
-      "publishedAt": "2026-08-30T23:39:00.000Z",
-      "xQuery": "米軍が攻撃 原油先物が2%超上昇"
     },
     {
       "time": "08:01",
