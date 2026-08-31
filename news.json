@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T07:25:24.957Z",
+  "updatedAt": "2026-08-31T07:43:13.093Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,17 +24,10 @@
         "publishedAt": "2026-08-31T00:30:01.000Z"
       },
       {
-        "time": "13:00",
-        "title": "スター精密が吸収合併実施へ、ソルスティシアと同一化して事業を継続：製造マネジメントニュース",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfNzQycGdkZklmUXZsVzlBRURwN3ExRWt3QjR5U2tVUkZpZ2tDajIyWXdwUXFreU16VHRURFRrQXFCMkp0UUxxZW5FbUxEOE80TklDNUZLclN1RWpJYzIwQ3FTaG5rY1JTdEdZOU82MA?oc=5",
-        "publishedAt": "2026-08-31T04:00:00.000Z"
-      },
-      {
         "time": "05:00",
-        "title": "DMG森精機、新艇初レース 大西洋横断 あす出航",
+        "title": "ソータス、タイ市場に参入 化学原料調達DXを海外展開",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5NWFkU2NPOC0teWZfeENfbU1BYkJqRkdtQTdRUW9MQ2kwaU5QNE5oRVFPaG1mQkc4T21DMVRkdGYyZ0ZDRUFoalVRWlF6V3V2Uk1CdkFnaTk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3RDF2S1VyQkFEZmV3bUNHSUlfVWRVeDZTWHFNb09lNWVicDhENVp6eUpyWnM0QzY1RlVESGpBU1VfTHBNZEN2VXduTndHRkJHblFXS2prV1Y?oc=5",
         "publishedAt": "2026-08-30T20:00:00.000Z"
       },
       {
@@ -57,6 +50,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Idlh4ak5zXzhPU2VES2FIalJhVzN0alJYZE1qallDM1VVczJNSVZiZlVWN2JXWnkwdlhkSWJpbE96Q3I5cFd3ZzR4T3JYQQ?oc=5",
         "publishedAt": "2026-08-31T05:53:00.000Z"
+      },
+      {
+        "time": "15:46",
+        "title": "ジェイテクト、アメリカ現地法人「IMTS2026」に出展：時事ドットコム",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VS1MwdGJaeTRvRk1ad2RTeU9DdjJrMFF3dnhfcENReC0xYnN3WmVIWGxsRE1VRzRiWmNuQ0JXbXgwa2dNWk04Z2hVaWJSN0ozbHdvanZKM2tyMGpWc3E4UUp4VEoycGJhMXBz?oc=5",
+        "publishedAt": "2026-08-31T06:46:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "09:57",
-        "title": "日経平均 一時1500円超値下がり",
+        "time": "16:37",
+        "title": "東証は小反落 米利上げ観測が重荷",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593712?source=rss",
-        "publishedAt": "2026-08-31T00:57:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593756?source=rss",
+        "publishedAt": "2026-08-31T07:37:25.000Z"
       },
       {
         "time": "12:21",
