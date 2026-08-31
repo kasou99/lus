@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T22:16:13.153Z",
+  "updatedAt": "2026-08-31T22:36:48.127Z",
   "items": [
     {
       "time": "06:52",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "信組不祥事 金融庁が検査拡充へ"
     },
     {
-      "time": "06:39",
-      "title": "三重の商店街火災 ほぼ全焼か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593797?source=rss",
-      "publishedAt": "2026-08-31T21:39:28.000Z",
-      "xQuery": "三重の商店街火災 ほぼ全焼か"
-    },
-    {
-      "time": "21:54",
-      "title": "住宅ローン変動金利 2行引き上げ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593780?source=rss",
-      "publishedAt": "2026-08-31T12:54:07.000Z",
-      "xQuery": "住宅ローン変動金利 2行引き上げ"
-    },
-    {
       "time": "23:46",
       "title": "和菓子店の店主死亡 トクリュウか",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593793?source=rss",
       "publishedAt": "2026-08-31T14:46:29.000Z",
       "xQuery": "和菓子店の店主死亡 トクリュウか"
+    },
+    {
+      "time": "07:31",
+      "title": "車2台が正面衝突し1人死亡 男逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593801?source=rss",
+      "publishedAt": "2026-08-31T22:31:09.000Z",
+      "xQuery": "車2台が正面衝突し1人死亡 男逮捕"
+    },
+    {
+      "time": "06:39",
+      "title": "三重の商店街火災 ほぼ全焼か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593797?source=rss",
+      "publishedAt": "2026-08-31T21:39:28.000Z",
+      "xQuery": "三重の商店街火災 ほぼ全焼か"
     }
   ]
 };
