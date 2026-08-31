@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T02:26:47.615Z",
+  "updatedAt": "2026-08-31T02:45:14.923Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -18,9 +18,9 @@
       },
       {
         "time": "05:00",
-        "title": "インターネット・アカデミー、企業内AI包括支援 4段階で研修",
+        "title": "DMG森精機、新艇初レース 大西洋横断 あす出航",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kcTVKS0s2eUdWNzJKSkUyTWM3N2pwOFlkMnRoYzhELVVOenFKbkQwWE45MWctZm1VaFdEYVRqQ3RaZGQ4NmxHb0xzZjZIaFhUaG5HMExtakc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5NWFkU2NPOC0teWZfeENfbU1BYkJqRkdtQTdRUW9MQ2kwaU5QNE5oRVFPaG1mQkc4T21DMVRkdGYyZ0ZDRUFoalVRWlF6V3V2Uk1CdkFnaTk?oc=5",
         "publishedAt": "2026-08-30T20:00:00.000Z"
       },
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "11:27",
+        "title": "イラン 米空軍基地に報復攻撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593722?source=rss",
+        "publishedAt": "2026-08-31T02:27:46.000Z"
+      },
+      {
         "time": "06:06",
         "title": "米軍 イラン南部の発射施設攻撃",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593605?source=rss",
         "publishedAt": "2026-08-30T01:42:21.000Z"
-      },
-      {
-        "time": "10:44",
-        "title": "グランドキャニオンで大規模洪水",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593718?source=rss",
-        "publishedAt": "2026-08-31T01:44:53.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-08-30T09:28:00.000Z"
       },
       {
+        "time": "11:35",
+        "title": "飲食料品の値上げ 9月は4923品目",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593723?source=rss",
+        "publishedAt": "2026-08-31T02:35:07.000Z"
+      },
+      {
         "time": "17:09",
         "title": "「ヤミ民泊一掃」Airbnbの勝算",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593637?source=rss",
         "publishedAt": "2026-08-30T08:09:11.000Z"
-      },
-      {
-        "time": "16:05",
-        "title": "外国人が駆け込むクリニック 密着",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593628?source=rss",
-        "publishedAt": "2026-08-30T07:05:44.000Z"
       }
     ],
     "localHeadlines": [
