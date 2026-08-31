@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T03:43:48.683Z",
+  "updatedAt": "2026-08-31T04:22:51.124Z",
   "items": [
     {
-      "time": "11:27",
-      "title": "イラン 米空軍基地に報復攻撃",
+      "time": "12:36",
+      "title": "中立公の3党 合流断念を確認へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593722?source=rss",
-      "publishedAt": "2026-08-31T02:27:46.000Z",
-      "xQuery": "イラン 米空軍基地に報復攻撃"
-    },
-    {
-      "time": "11:35",
-      "title": "飲食料品の値上げ 9月は4923品目",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593723?source=rss",
-      "publishedAt": "2026-08-31T02:35:07.000Z",
-      "xQuery": "飲食料品の値上げ 9月は4923品目"
+      "url": "https://news.yahoo.co.jp/pickup/6593733?source=rss",
+      "publishedAt": "2026-08-31T03:36:40.000Z",
+      "xQuery": "中立公の3党 合流断念を確認へ"
     },
     {
       "time": "10:08",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ハウス食品G 壱番屋の売却検討"
     },
     {
-      "time": "10:44",
-      "title": "グランドキャニオンで大規模洪水",
+      "time": "11:35",
+      "title": "飲食料品の値上げ 9月は4923品目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593718?source=rss",
-      "publishedAt": "2026-08-31T01:44:53.000Z",
-      "xQuery": "グランドキャニオンで大規模洪水"
+      "url": "https://news.yahoo.co.jp/pickup/6593723?source=rss",
+      "publishedAt": "2026-08-31T02:35:07.000Z",
+      "xQuery": "飲食料品の値上げ 9月は4923品目"
+    },
+    {
+      "time": "10:52",
+      "title": "家族旅行一転 5人死亡の遺族後悔",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593719?source=rss",
+      "publishedAt": "2026-08-31T01:52:44.000Z",
+      "xQuery": "家族旅行一転 5人死亡の遺族後悔"
     }
   ]
 };

@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-31T03:43:47.842Z",
+  "updatedAt": "2026-08-31T04:22:50.344Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "12:30",
+        "title": "AI×DXで効率化する設備保全まとめ：電子ブックレット（FA）",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsTmNsd2pUZWlkNDhjc2FWRW10R2pfQXpaMEtod29lR1lFQ3ZIZHpwLW0taE5ncmt6cDZ2ZTFfTVpIZlJzY1NoOXVrcVEzSWhsNUZaXzIzZEdMTXpUZUlXcFpFWV9hR2tqbEk5a2p0Zw?oc=5",
+        "publishedAt": "2026-08-31T03:30:00.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "ジェイテクト、アメリカ現地法人「IMTS2026」に出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ETUJDRnNMMVFITF83M1ZkWWlpYm83cjBvMWxkandTeS1MTlF1Z0pjVFpTTHdkR29acXZzeXlxSWJYOGpfVXVtSENJM0ROdUdPTU1RYXpUeUVaZWVWX01QellvYTFHYThvTVE?oc=5",
+        "publishedAt": "2026-08-31T04:00:01.000Z"
+      },
       {
         "time": "06:00",
         "title": "東ガス、インフラ新興に出資／ＡＩで設備保全高度化 –",
@@ -10,18 +24,18 @@
         "publishedAt": "2026-08-30T21:00:30.000Z"
       },
       {
-        "time": "09:30",
-        "title": "【新製品発売】株式会社アコン、DINレール用AC/DCスイッチング電源の新製品を発売。30W～480Wの幅広いラインナップを展開",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jLUd6cDFsQkpOREdPRnFpU3ZGcTdQQU53Z2xGRlFBUG55UE1GMUR4SVI0QnRmbEt4NW56LWRvMzM3Tm9Vb19mblNMYmdSa0xSU045UlJfQmdKeTZka0JYNU1pVGp1NnVNb3c?oc=5",
-        "publishedAt": "2026-08-31T00:30:01.000Z"
-      },
-      {
         "time": "05:00",
         "title": "DMG森精機、新艇初レース 大西洋横断 あす出航",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5NWFkU2NPOC0teWZfeENfbU1BYkJqRkdtQTdRUW9MQ2kwaU5QNE5oRVFPaG1mQkc4T21DMVRkdGYyZ0ZDRUFoalVRWlF6V3V2Uk1CdkFnaTk?oc=5",
         "publishedAt": "2026-08-30T20:00:00.000Z"
+      },
+      {
+        "time": "11:15",
+        "title": "【新製品発売】株式会社アコン、DINレール用AC/DCスイッチング電源の新製品を発売。30W～480Wの幅広いラインナップを展開",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8td0R1b1g0WDhYTTRRU0J5VEQ3SlQtelhNTjF1ZHhhcWVpY1VzejNxd3VPMXVNSkVvOWp3ZHF0UERWd2wzMUJHc25paEF6WHU4YXhqM2YzSmotYUpDbFhFdjJKWUhZNVlhRUVkM1RwNTBGV1pjUHR6VU53Yw?oc=5",
+        "publishedAt": "2026-08-31T02:15:39.000Z"
       },
       {
         "time": "14:07",
@@ -43,20 +57,6 @@
         "source": "新潟アルビレックスBB",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vdUktSDlvTU1Ya19xdkZmRnN2TTZWdXN0ZHJxZ2JsN3ZpbFdnY1dqN1U3SlM2TkZjRC1iNU1KNl82MTdueGNWcFF2TUVqT3NTdno0al9LZw?oc=5",
         "publishedAt": "2026-08-31T03:00:36.000Z"
-      },
-      {
-        "time": "00:00",
-        "title": "ＤＮソリューションズ、インド初工場が完成",
-        "source": "nna.jp",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RY21TUVZzMmMzOEt1TkJ0RDgxaWdYWEs0LWdtdHdIeXVXcldHODJWMzc3TkFyUnY4Z3VBMXdSNUtEbVJyR2c?oc=5",
-        "publishedAt": "2026-08-30T15:00:00.000Z"
-      },
-      {
-        "time": "11:46",
-        "title": "【注目】神戸製鋼所など20社 職人技をAIロボに継承へ【神戸市北区】兵庫県議会議員 大塚公彦",
-        "source": "選挙ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JMDFjbDdZemFWTjFWTWZCUDZnN05sdnJXN0I0dzE0UjlzYXBQSjlrY0NweUdYaUpzanBFemw2ckZETGFSZUtrVmtYaFIxSWFBVEdZa3BRSG1hZ1huSDBj?oc=5",
-        "publishedAt": "2026-08-31T02:46:54.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,6 +75,13 @@
         "publishedAt": "2026-08-30T21:06:15.000Z"
       },
       {
+        "time": "12:49",
+        "title": "ネパール 離ればなれの母子が再会",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593734?source=rss",
+        "publishedAt": "2026-08-31T03:49:26.000Z"
+      },
+      {
         "time": "06:48",
         "title": "ネパール土石流 死者800人超える",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593667?source=rss",
         "publishedAt": "2026-08-30T11:27:06.000Z"
-      },
-      {
-        "time": "13:38",
-        "title": "ネパール土石流 氷河崩落が原因",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593616?source=rss",
-        "publishedAt": "2026-08-30T04:38:12.000Z"
       },
       {
         "time": "10:44",
