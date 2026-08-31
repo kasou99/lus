@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T05:38:52.089Z",
+  "updatedAt": "2026-08-31T06:39:11.751Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -25,9 +25,9 @@
       },
       {
         "time": "05:00",
-        "title": "DMG森精機、新艇初レース 大西洋横断 あす出航",
+        "title": "ソータス、タイ市場に参入 化学原料調達DXを海外展開",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5NWFkU2NPOC0teWZfeENfbU1BYkJqRkdtQTdRUW9MQ2kwaU5QNE5oRVFPaG1mQkc4T21DMVRkdGYyZ0ZDRUFoalVRWlF6V3V2Uk1CdkFnaTk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3RDF2S1VyQkFEZmV3bUNHSUlfVWRVeDZTWHFNb09lNWVicDhENVp6eUpyWnM0QzY1RlVESGpBU1VfTHBNZEN2VXduTndHRkJHblFXS2prV1Y?oc=5",
         "publishedAt": "2026-08-30T20:00:00.000Z"
       },
       {
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "14:50",
+        "title": "旧統一トップに懲役2年判決 韓国",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593744?source=rss",
+        "publishedAt": "2026-08-31T05:50:14.000Z"
+      },
       {
         "time": "11:27",
         "title": "イラン 米空軍基地に報復攻撃",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593695?source=rss",
         "publishedAt": "2026-08-30T21:48:25.000Z"
-      },
-      {
-        "time": "20:27",
-        "title": "がれき下から声 ネパール少女救出",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593667?source=rss",
-        "publishedAt": "2026-08-30T11:27:06.000Z"
       }
     ],
     "economyHeadlines": [

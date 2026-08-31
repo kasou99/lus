@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T05:38:52.980Z",
+  "updatedAt": "2026-08-31T06:39:12.672Z",
   "items": [
+    {
+      "time": "14:50",
+      "title": "旧統一トップに懲役2年判決 韓国",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593744?source=rss",
+      "publishedAt": "2026-08-31T05:50:14.000Z",
+      "xQuery": "旧統一トップに懲役2年判決 韓国"
+    },
     {
       "time": "12:36",
       "title": "中立公の3党 合流断念を確認へ",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593733?source=rss",
       "publishedAt": "2026-08-31T03:36:40.000Z",
       "xQuery": "中立公の3党 合流断念を確認へ"
-    },
-    {
-      "time": "13:36",
-      "title": "北海道・大阪府 副首都で協定締結",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593737?source=rss",
-      "publishedAt": "2026-08-31T04:36:41.000Z",
-      "xQuery": "北海道・大阪府 副首都で協定締結"
-    },
-    {
-      "time": "14:01",
-      "title": "イラン 米軍基地への発射映像公開",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593738?source=rss",
-      "publishedAt": "2026-08-31T05:01:36.000Z",
-      "xQuery": "イラン 米軍基地への発射映像公開"
     },
     {
       "time": "14:00",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593735?source=rss",
       "publishedAt": "2026-08-31T04:25:17.000Z",
       "xQuery": "若者の35%「結婚するつもりない」"
+    },
+    {
+      "time": "14:41",
+      "title": "海に転落した柴犬 26時間後に発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593742?source=rss",
+      "publishedAt": "2026-08-31T05:41:27.000Z",
+      "xQuery": "海に転落した柴犬 26時間後に発見"
     }
   ]
 };
