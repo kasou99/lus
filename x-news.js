@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T02:45:15.770Z",
+  "updatedAt": "2026-08-31T03:23:13.477Z",
   "items": [
     {
       "time": "10:08",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "総務省 情報開示遅らせる旨投稿"
     },
     {
-      "time": "10:02",
-      "title": "障害者雇用ビジネス 規制を検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593711?source=rss",
-      "publishedAt": "2026-08-31T01:02:52.000Z",
-      "xQuery": "障害者雇用ビジネス 規制を検討"
-    },
-    {
       "time": "11:27",
       "title": "イラン 米空軍基地に報復攻撃",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593722?source=rss",
       "publishedAt": "2026-08-31T02:27:46.000Z",
       "xQuery": "イラン 米空軍基地に報復攻撃"
+    },
+    {
+      "time": "11:50",
+      "title": "ハウス食品G 壱番屋の売却検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593727?source=rss",
+      "publishedAt": "2026-08-31T02:50:30.000Z",
+      "xQuery": "ハウス食品G 壱番屋の売却検討"
     },
     {
       "time": "10:44",
