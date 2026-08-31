@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T23:15:01.288Z",
+  "updatedAt": "2026-08-31T23:37:10.778Z",
   "items": [
     {
       "time": "07:30",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593799?source=rss",
       "publishedAt": "2026-08-31T22:30:01.000Z",
       "xQuery": "中道分裂へ 急ごしらえで限界露呈"
-    },
-    {
-      "time": "06:52",
-      "title": "米露財務相が会談 ウ和平案協議か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593798?source=rss",
-      "publishedAt": "2026-08-31T21:52:17.000Z",
-      "xQuery": "米露財務相が会談 ウ和平案協議か"
     },
     {
       "time": "08:00",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593801?source=rss",
       "publishedAt": "2026-08-31T22:31:09.000Z",
       "xQuery": "車2台が正面衝突し1人死亡 男逮捕"
+    },
+    {
+      "time": "06:39",
+      "title": "三重の商店街火災 ほぼ全焼か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593797?source=rss",
+      "publishedAt": "2026-08-31T21:39:28.000Z",
+      "xQuery": "三重の商店街火災 ほぼ全焼か"
     }
   ]
 };
