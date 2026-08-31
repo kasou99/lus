@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T12:47:50.910Z",
+  "updatedAt": "2026-08-31T13:19:39.783Z",
   "items": [
     {
       "time": "20:42",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中道 結党から7カ月で分裂へ"
     },
     {
-      "time": "12:49",
-      "title": "ネパール 離ればなれの母子が再会",
+      "time": "16:20",
+      "title": "全教科にAIの記述 指導要領の素案",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593734?source=rss",
-      "publishedAt": "2026-08-31T03:49:26.000Z",
-      "xQuery": "ネパール 離ればなれの母子が再会"
-    },
-    {
-      "time": "18:52",
-      "title": "6人死亡事故 被告「気が緩んだ」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593769?source=rss",
-      "publishedAt": "2026-08-31T09:52:10.000Z",
-      "xQuery": "6人死亡事故 被告「気が緩んだ」"
+      "url": "https://news.yahoo.co.jp/pickup/6593754?source=rss",
+      "publishedAt": "2026-08-31T07:20:31.000Z",
+      "xQuery": "全教科にAIの記述 指導要領の素案"
     },
     {
       "time": "21:12",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "三重で商店街火災 漂う焦げ臭さ"
     },
     {
-      "time": "19:03",
-      "title": "スタバだらけの街 なぜ増え続ける",
+      "time": "21:54",
+      "title": "住宅ローン変動金利 2行引き上げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593763?source=rss",
-      "publishedAt": "2026-08-31T10:03:19.000Z",
-      "xQuery": "スタバだらけの街 なぜ増え続ける"
+      "url": "https://news.yahoo.co.jp/pickup/6593780?source=rss",
+      "publishedAt": "2026-08-31T12:54:07.000Z",
+      "xQuery": "住宅ローン変動金利 2行引き上げ"
+    },
+    {
+      "time": "19:22",
+      "title": "AIに機能追加で情報流出 注意点",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593762?source=rss",
+      "publishedAt": "2026-08-31T10:22:13.000Z",
+      "xQuery": "AIに機能追加で情報流出 注意点"
     }
   ]
 };

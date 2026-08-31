@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T12:47:49.563Z",
+  "updatedAt": "2026-08-31T13:19:38.770Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,18 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "16:37",
-        "title": "東証は小反落 米利上げ観測が重荷",
+        "time": "21:54",
+        "title": "住宅ローン変動金利 2行引き上げ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593756?source=rss",
-        "publishedAt": "2026-08-31T07:37:25.000Z"
-      },
-      {
-        "time": "09:03",
-        "title": "日銀‌総裁の判断期待 米財務長官",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593708?source=rss",
-        "publishedAt": "2026-08-31T00:03:38.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593780?source=rss",
+        "publishedAt": "2026-08-31T12:54:07.000Z"
       },
       {
         "time": "11:50",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593759?source=rss",
         "publishedAt": "2026-08-31T08:21:01.000Z"
+      },
+      {
+        "time": "19:03",
+        "title": "スタバだらけの街 なぜ増え続ける",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593763?source=rss",
+        "publishedAt": "2026-08-31T10:03:19.000Z"
       }
     ],
     "localHeadlines": [
