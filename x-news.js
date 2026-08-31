@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T22:36:48.127Z",
+  "updatedAt": "2026-08-31T23:15:01.288Z",
   "items": [
+    {
+      "time": "07:30",
+      "title": "中道分裂へ 急ごしらえで限界露呈",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593799?source=rss",
+      "publishedAt": "2026-08-31T22:30:01.000Z",
+      "xQuery": "中道分裂へ 急ごしらえで限界露呈"
+    },
     {
       "time": "06:52",
       "title": "米露財務相が会談 ウ和平案協議か",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米露財務相が会談 ウ和平案協議か"
     },
     {
-      "time": "23:05",
-      "title": "信組不祥事 金融庁が検査拡充へ",
+      "time": "08:00",
+      "title": "米財務長官 日銀の利上げを示唆か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593788?source=rss",
-      "publishedAt": "2026-08-31T14:05:06.000Z",
-      "xQuery": "信組不祥事 金融庁が検査拡充へ"
+      "url": "https://news.yahoo.co.jp/pickup/6593803?source=rss",
+      "publishedAt": "2026-08-31T23:00:59.000Z",
+      "xQuery": "米財務長官 日銀の利上げを示唆か"
     },
     {
       "time": "23:46",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593801?source=rss",
       "publishedAt": "2026-08-31T22:31:09.000Z",
       "xQuery": "車2台が正面衝突し1人死亡 男逮捕"
-    },
-    {
-      "time": "06:39",
-      "title": "三重の商店街火災 ほぼ全焼か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593797?source=rss",
-      "publishedAt": "2026-08-31T21:39:28.000Z",
-      "xQuery": "三重の商店街火災 ほぼ全焼か"
     }
   ]
 };
