@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T11:36:38.021Z",
+  "updatedAt": "2026-08-31T12:28:19.838Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,13 +156,6 @@
         "publishedAt": "2026-08-31T09:12:00.000Z"
       },
       {
-        "time": "22:53",
-        "title": "福岡県 議員連盟への補助金廃止へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593686?source=rss",
-        "publishedAt": "2026-08-30T13:53:25.000Z"
-      },
-      {
         "time": "18:52",
         "title": "6人死亡事故 被告「気が緩んだ」",
         "source": "Yahoo!ニュース",
@@ -175,6 +168,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593750?source=rss",
         "publishedAt": "2026-08-31T07:00:52.000Z"
+      },
+      {
+        "time": "21:12",
+        "title": "三重で商店街火災 漂う焦げ臭さ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593778?source=rss",
+        "publishedAt": "2026-08-31T12:12:51.000Z"
       },
       {
         "time": "22:36",

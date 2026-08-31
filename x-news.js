@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T11:36:38.783Z",
+  "updatedAt": "2026-08-31T12:28:20.669Z",
   "items": [
     {
-      "time": "18:48",
-      "title": "概算要求 143兆円前後の見通し",
+      "time": "20:42",
+      "title": "中道 結党から7カ月で分裂へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593768?source=rss",
-      "publishedAt": "2026-08-31T09:48:09.000Z",
-      "xQuery": "概算要求 143兆円前後の見通し"
+      "url": "https://news.yahoo.co.jp/pickup/6593775?source=rss",
+      "publishedAt": "2026-08-31T11:42:19.000Z",
+      "xQuery": "中道 結党から7カ月で分裂へ"
     },
     {
       "time": "12:49",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "6人死亡事故 被告「気が緩んだ」"
     },
     {
-      "time": "19:13",
-      "title": "法定速度30kmへ「生活道路」とは",
+      "time": "21:12",
+      "title": "三重で商店街火災 漂う焦げ臭さ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593770?source=rss",
-      "publishedAt": "2026-08-31T10:13:57.000Z",
-      "xQuery": "法定速度30kmへ「生活道路」とは"
+      "url": "https://news.yahoo.co.jp/pickup/6593778?source=rss",
+      "publishedAt": "2026-08-31T12:12:51.000Z",
+      "xQuery": "三重で商店街火災 漂う焦げ臭さ"
     },
     {
       "time": "19:03",
