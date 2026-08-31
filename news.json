@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T09:42:31.858Z",
+  "updatedAt": "2026-08-31T10:19:34.040Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,20 @@
         "publishedAt": "2026-08-30T20:00:00.000Z"
       },
       {
+        "time": "13:00",
+        "title": "スター精密が吸収合併実施へ、ソルスティシアと同一化して事業を継続：製造マネジメントニュース",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfNzQycGdkZklmUXZsVzlBRURwN3ExRWt3QjR5U2tVUkZpZ2tDajIyWXdwUXFreU16VHRURFRrQXFCMkp0UUxxZW5FbUxEOE80TklDNUZLclN1RWpJYzIwQ3FTaG5rY1JTdEdZOU82MA?oc=5",
+        "publishedAt": "2026-08-31T04:00:00.000Z"
+      },
+      {
+        "time": "16:52",
+        "title": "来秋満了「北陸新幹線」が試金石に…整備新幹線、貸付料の議論本格化",
+        "source": "ニュースイッチ by 日刊工業新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE56MXJUT0xVR2pXMlJsbU91NjlBVHBjZUFkaTYtcVoyUjZJYjFnVnpzV2F2cjdyOUNxOEhFcjJzZG42MUNoUXZZ?oc=5",
+        "publishedAt": "2026-08-31T07:52:30.000Z"
+      },
+      {
         "time": "12:00",
         "title": "2026-27シーズン ユニフォームパートナー契約継続のお知らせ/エヌ・エス・エス株式会社",
         "source": "新潟アルビレックスBB",
@@ -43,20 +57,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Idlh4ak5zXzhPU2VES2FIalJhVzN0alJYZE1qallDM1VVczJNSVZiZlVWN2JXWnkwdlhkSWJpbE96Q3I5cFd3ZzR4T3JYQQ?oc=5",
         "publishedAt": "2026-08-31T05:53:00.000Z"
-      },
-      {
-        "time": "17:02",
-        "title": "世界のスマート産業用ロボットメーカー動向：売上、販売量、価格推移分析2026-2032",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vYVVZcnRNczhseG1nbHJidWl4S2x2NjAwaFo4TVE1eU1Mb05mU1paNUlNY0l2QlVDQnJrb3VXSmU3OWRhek9BdFpXYjIxM3M?oc=5",
-        "publishedAt": "2026-08-31T08:02:00.000Z"
-      },
-      {
-        "time": "15:46",
-        "title": "ジェイテクト、アメリカ現地法人「IMTS2026」に出展：時事ドットコム",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VS1MwdGJaeTRvRk1ad2RTeU9DdjJrMFF3dnhfcENReC0xYnN3WmVIWGxsRE1VRzRiWmNuQ0JXbXgwa2dNWk04Z2hVaWJSN0ozbHdvanZKM2tyMGpWc3E4UUp4VEoycGJhMXBz?oc=5",
-        "publishedAt": "2026-08-31T06:46:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-08-31T07:37:25.000Z"
       },
       {
-        "time": "12:21",
-        "title": "米軍が攻撃 原油先物が2%超上昇",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593732?source=rss",
-        "publishedAt": "2026-08-31T03:21:14.000Z"
-      },
-      {
         "time": "09:03",
         "title": "日銀‌総裁の判断期待 米財務長官",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593765?source=rss",
         "publishedAt": "2026-08-31T09:20:26.000Z"
+      },
+      {
+        "time": "17:21",
+        "title": "成城石井パイ アレルギー表記欠落",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593759?source=rss",
+        "publishedAt": "2026-08-31T08:21:01.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-08-30T13:53:25.000Z"
       },
       {
+        "time": "18:52",
+        "title": "6人死亡事故 被告「気が緩んだ」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593769?source=rss",
+        "publishedAt": "2026-08-31T09:52:10.000Z"
+      },
+      {
         "time": "16:00",
         "title": "世田谷女性殺害 拘禁刑20年を求刑",
         "source": "Yahoo!ニュース",
@@ -170,25 +177,18 @@
         "publishedAt": "2026-08-31T07:00:52.000Z"
       },
       {
-        "time": "21:59",
-        "title": "80歳の和菓子店主死亡 殺人と断定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593678?source=rss",
-        "publishedAt": "2026-08-30T12:59:38.000Z"
-      },
-      {
-        "time": "06:30",
-        "title": "トラックと車が正面衝突 3人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593694?source=rss",
-        "publishedAt": "2026-08-30T21:30:07.000Z"
-      },
-      {
         "time": "22:36",
         "title": "ダム水難 助けようとした男性死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593683?source=rss",
         "publishedAt": "2026-08-30T13:36:33.000Z"
+      },
+      {
+        "time": "21:59",
+        "title": "80歳の和菓子店主死亡 殺人と断定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593678?source=rss",
+        "publishedAt": "2026-08-30T12:59:38.000Z"
       }
     ],
     "subsidyHeadlines": [

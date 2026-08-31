@@ -1,29 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T09:42:33.167Z",
+  "updatedAt": "2026-08-31T10:19:34.618Z",
   "items": [
     {
-      "time": "17:53",
-      "title": "中道・立憲・公明 正式に合流断念",
+      "time": "18:48",
+      "title": "概算要求 143兆円前後の見通し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593764?source=rss",
-      "publishedAt": "2026-08-31T08:53:21.000Z",
-      "xQuery": "中道・立憲・公明 正式に合流断念"
-    },
-    {
-      "time": "16:45",
-      "title": "ネパール 900人発電所閉じ込めか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593755?source=rss",
-      "publishedAt": "2026-08-31T07:45:14.000Z",
-      "xQuery": "ネパール 900人発電所閉じ込めか"
-    },
-    {
-      "time": "16:58",
-      "title": "火葬大国・日本 土葬希望する思い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593751?source=rss",
-      "publishedAt": "2026-08-31T07:58:35.000Z",
-      "xQuery": "火葬大国・日本 土葬希望する思い"
+      "url": "https://news.yahoo.co.jp/pickup/6593768?source=rss",
+      "publishedAt": "2026-08-31T09:48:09.000Z",
+      "xQuery": "概算要求 143兆円前後の見通し"
     },
     {
       "time": "18:20",
@@ -32,6 +16,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593765?source=rss",
       "publishedAt": "2026-08-31T09:20:26.000Z",
       "xQuery": "ホンダ&日産 次世代車OS共同開発"
+    },
+    {
+      "time": "18:52",
+      "title": "6人死亡事故 被告「気が緩んだ」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593769?source=rss",
+      "publishedAt": "2026-08-31T09:52:10.000Z",
+      "xQuery": "6人死亡事故 被告「気が緩んだ」"
+    },
+    {
+      "time": "16:58",
+      "title": "火葬大国・日本 土葬希望する思い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593751?source=rss",
+      "publishedAt": "2026-08-31T07:58:35.000Z",
+      "xQuery": "火葬大国・日本 土葬希望する思い"
     },
     {
       "time": "18:12",
