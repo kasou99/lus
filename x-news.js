@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T04:22:51.124Z",
+  "updatedAt": "2026-08-31T04:43:33.780Z",
   "items": [
     {
       "time": "12:36",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593733?source=rss",
       "publishedAt": "2026-08-31T03:36:40.000Z",
       "xQuery": "中立公の3党 合流断念を確認へ"
-    },
-    {
-      "time": "10:08",
-      "title": "総務省 情報開示遅らせる旨投稿",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593714?source=rss",
-      "publishedAt": "2026-08-31T01:08:48.000Z",
-      "xQuery": "総務省 情報開示遅らせる旨投稿"
     },
     {
       "time": "11:50",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593719?source=rss",
       "publishedAt": "2026-08-31T01:52:44.000Z",
       "xQuery": "家族旅行一転 5人死亡の遺族後悔"
+    },
+    {
+      "time": "10:44",
+      "title": "グランドキャニオンで大規模洪水",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593718?source=rss",
+      "publishedAt": "2026-08-31T01:44:53.000Z",
+      "xQuery": "グランドキャニオンで大規模洪水"
     }
   ]
 };
