@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T05:18:43.604Z",
+  "updatedAt": "2026-08-31T05:38:52.980Z",
   "items": [
     {
       "time": "12:36",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン 米軍基地への発射映像公開"
     },
     {
-      "time": "11:50",
-      "title": "ハウス食品G 壱番屋の売却検討",
+      "time": "14:00",
+      "title": "ハウス食品 ココイチ売却検討背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593727?source=rss",
-      "publishedAt": "2026-08-31T02:50:30.000Z",
-      "xQuery": "ハウス食品G 壱番屋の売却検討"
+      "url": "https://news.yahoo.co.jp/pickup/6593724?source=rss",
+      "publishedAt": "2026-08-31T05:00:45.000Z",
+      "xQuery": "ハウス食品 ココイチ売却検討背景"
     },
     {
       "time": "13:25",
