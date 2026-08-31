@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T07:43:13.749Z",
+  "updatedAt": "2026-08-31T08:27:41.889Z",
   "items": [
-    {
-      "time": "14:50",
-      "title": "旧統一トップに懲役2年判決 韓国",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593744?source=rss",
-      "publishedAt": "2026-08-31T05:50:14.000Z",
-      "xQuery": "旧統一トップに懲役2年判決 韓国"
-    },
     {
       "time": "15:48",
       "title": "核ごみ文献調査 常陸大宮市に打診",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "世田谷女性殺害 拘禁刑20年を求刑"
     },
     {
-      "time": "14:00",
-      "title": "ハウス食品 ココイチ売却検討背景",
+      "time": "16:58",
+      "title": "火葬大国・日本 土葬希望する思い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593724?source=rss",
-      "publishedAt": "2026-08-31T05:00:45.000Z",
-      "xQuery": "ハウス食品 ココイチ売却検討背景"
+      "url": "https://news.yahoo.co.jp/pickup/6593751?source=rss",
+      "publishedAt": "2026-08-31T07:58:35.000Z",
+      "xQuery": "火葬大国・日本 土葬希望する思い"
     },
     {
-      "time": "14:41",
-      "title": "海に転落した柴犬 26時間後に発見",
+      "time": "16:45",
+      "title": "ネパール 900人発電所閉じ込めか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593742?source=rss",
-      "publishedAt": "2026-08-31T05:41:27.000Z",
-      "xQuery": "海に転落した柴犬 26時間後に発見"
+      "url": "https://news.yahoo.co.jp/pickup/6593755?source=rss",
+      "publishedAt": "2026-08-31T07:45:14.000Z",
+      "xQuery": "ネパール 900人発電所閉じ込めか"
+    },
+    {
+      "time": "16:37",
+      "title": "東証は小反落 米利上げ観測が重荷",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593756?source=rss",
+      "publishedAt": "2026-08-31T07:37:25.000Z",
+      "xQuery": "東証は小反落 米利上げ観測が重荷"
     }
   ]
 };
