@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T06:39:12.672Z",
+  "updatedAt": "2026-08-31T07:25:25.551Z",
   "items": [
     {
       "time": "14:50",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "旧統一トップに懲役2年判決 韓国"
     },
     {
-      "time": "12:36",
-      "title": "中立公の3党 合流断念を確認へ",
+      "time": "15:48",
+      "title": "核ごみ文献調査 常陸大宮市に打診",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593733?source=rss",
-      "publishedAt": "2026-08-31T03:36:40.000Z",
-      "xQuery": "中立公の3党 合流断念を確認へ"
+      "url": "https://news.yahoo.co.jp/pickup/6593749?source=rss",
+      "publishedAt": "2026-08-31T06:48:38.000Z",
+      "xQuery": "核ごみ文献調査 常陸大宮市に打診"
+    },
+    {
+      "time": "16:00",
+      "title": "世田谷女性殺害 拘禁刑20年を求刑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593750?source=rss",
+      "publishedAt": "2026-08-31T07:00:52.000Z",
+      "xQuery": "世田谷女性殺害 拘禁刑20年を求刑"
     },
     {
       "time": "14:00",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593724?source=rss",
       "publishedAt": "2026-08-31T05:00:45.000Z",
       "xQuery": "ハウス食品 ココイチ売却検討背景"
-    },
-    {
-      "time": "13:25",
-      "title": "若者の35%「結婚するつもりない」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593735?source=rss",
-      "publishedAt": "2026-08-31T04:25:17.000Z",
-      "xQuery": "若者の35%「結婚するつもりない」"
     },
     {
       "time": "14:41",
