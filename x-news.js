@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T01:32:24.301Z",
+  "updatedAt": "2026-08-31T02:26:48.468Z",
   "items": [
     {
-      "time": "09:57",
-      "title": "日経平均 一時1500円超値下がり",
+      "time": "10:08",
+      "title": "総務省 情報開示遅らせる旨投稿",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593712?source=rss",
-      "publishedAt": "2026-08-31T00:57:02.000Z",
-      "xQuery": "日経平均 一時1500円超値下がり"
+      "url": "https://news.yahoo.co.jp/pickup/6593714?source=rss",
+      "publishedAt": "2026-08-31T01:08:48.000Z",
+      "xQuery": "総務省 情報開示遅らせる旨投稿"
     },
     {
       "time": "10:02",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "障害者雇用ビジネス 規制を検討"
     },
     {
-      "time": "06:48",
-      "title": "ネパール土石流 死者800人超える",
+      "time": "10:44",
+      "title": "グランドキャニオンで大規模洪水",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593695?source=rss",
-      "publishedAt": "2026-08-30T21:48:25.000Z",
-      "xQuery": "ネパール土石流 死者800人超える"
+      "url": "https://news.yahoo.co.jp/pickup/6593718?source=rss",
+      "publishedAt": "2026-08-31T01:44:53.000Z",
+      "xQuery": "グランドキャニオンで大規模洪水"
     },
     {
-      "time": "09:03",
-      "title": "日銀‌総裁の判断期待 米財務長官",
+      "time": "10:52",
+      "title": "家族旅行一転 5人死亡の遺族後悔",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593708?source=rss",
-      "publishedAt": "2026-08-31T00:03:38.000Z",
-      "xQuery": "日銀‌総裁の判断期待 米財務長官"
+      "url": "https://news.yahoo.co.jp/pickup/6593719?source=rss",
+      "publishedAt": "2026-08-31T01:52:44.000Z",
+      "xQuery": "家族旅行一転 5人死亡の遺族後悔"
     },
     {
-      "time": "08:01",
-      "title": "ソニーG35社がAnthropic提訴 米",
+      "time": "10:09",
+      "title": "スクールドッグ 教育現場で広がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593701?source=rss",
-      "publishedAt": "2026-08-30T23:01:09.000Z",
-      "xQuery": "ソニーG35社がAnthropic提訴 米"
+      "url": "https://news.yahoo.co.jp/pickup/6593713?source=rss",
+      "publishedAt": "2026-08-31T01:09:22.000Z",
+      "xQuery": "スクールドッグ 教育現場で広がり"
     }
   ]
 };
