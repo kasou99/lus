@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T13:19:39.783Z",
+  "updatedAt": "2026-08-31T13:39:04.938Z",
   "items": [
     {
       "time": "20:42",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "全教科にAIの記述 指導要領の素案"
     },
     {
-      "time": "21:12",
-      "title": "三重で商店街火災 漂う焦げ臭さ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593778?source=rss",
-      "publishedAt": "2026-08-31T12:12:51.000Z",
-      "xQuery": "三重で商店街火災 漂う焦げ臭さ"
-    },
-    {
       "time": "21:54",
       "title": "住宅ローン変動金利 2行引き上げ",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593762?source=rss",
       "publishedAt": "2026-08-31T10:22:13.000Z",
       "xQuery": "AIに機能追加で情報流出 注意点"
+    },
+    {
+      "time": "20:40",
+      "title": "包丁キャンセル 共働き時代の料理",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593776?source=rss",
+      "publishedAt": "2026-08-31T11:40:13.000Z",
+      "xQuery": "包丁キャンセル 共働き時代の料理"
     }
   ]
 };
