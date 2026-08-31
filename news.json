@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T20:37:09.898Z",
+  "updatedAt": "2026-08-31T21:15:26.004Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,11 @@
         "publishedAt": "2026-08-31T04:00:01.000Z"
       },
       {
-        "time": "06:00",
-        "title": "東ガス、インフラ新興に出資／ＡＩで設備保全高度化 –",
-        "source": "電気新聞ウェブサイト",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZcF91OW1rblhNWXhydWNRTDFVWXhZWF9wTjM1UElBQVQ0UnRaMWJOMElZMnlQQ0R3RGV6eTBsVHpydWFoM0VObTBVX2dieWpSUVZZVTBUWQ?oc=5",
-        "publishedAt": "2026-08-30T21:00:30.000Z"
-      },
-      {
-        "time": "16:15",
-        "title": "【制御盤、まだ手配線ですか!?】製造業の人手不足を救う「配線の基板化」で配線工数を最大90％削減",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZUExBUTQzdDczbTMtZHM0QWcxbEZ1UDlNeGxjZHZvbkJqeFRRbHkyOUQ1dlRBOHdCUlRjcVZNaHBXZ04wUWJTbkRNWmFNaWRPN25QS2JkRHNJNU1JTzA5R0dUWnFLeWNDX0hfQmJGZFl3MTR5QXYyMllPSE1GQQ?oc=5",
-        "publishedAt": "2026-08-31T07:15:00.000Z"
+        "time": "05:00",
+        "title": "経営ひと言／産機テクノス・大泉東専務「BCPにも貢献」",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NTVFJVFI0MF9ra0JiczZPY3JpSURaRVRZTnMxZTg5VVB1RUpVYVotMGgxeXNrZVpiZEdoN3F6M0JXOEZ0WFVEZWFOcE1DbVp0SkktYU51Q0E?oc=5",
+        "publishedAt": "2026-08-31T20:00:00.000Z"
       },
       {
         "time": "10:45",
@@ -57,6 +50,13 @@
         "source": "日経クロステック",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vaTNOTUF2U2Q2RkJjaGFJVkhJOGk4aERaUE4weDFFeXFBbzJKdzd3b01SNklzZ3JFQVBCMEk2cVRRMnI3c0lTWHJWYkUzUVlMclB6Zkcxc3NjMFBzVW9TWDY0ckE4RXdlSm1ENg?oc=5",
         "publishedAt": "2026-08-31T20:00:00.000Z"
+      },
+      {
+        "time": "20:02",
+        "title": "ソディック 工作・産業・食品機械のグローバル企業へ進化を遂げる 国境を越える理念体系を策定",
+        "source": "projectdesign.jp",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BUkJxa0VvbmdIWXF6QUhGaWdRc0QzZTBCYk1ianItZDF2YjZmMkFyNUxTN1pFR0hnUmFfMnptV0toQlJhU0plaGdZaTJUclloMllYcE1Rclljc01fem1abUlsUlF3VmUtZnlwS2c0bTdCaEdsVk1qQVJQd0l2c28?oc=5",
+        "publishedAt": "2026-08-31T11:02:38.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90V3dlOVVrSGp0bjNKUVFUck1BaHE1aE1wMkRCYUFWMG14b0htdHlOVWZQWnYtTE95RE5vcDhwT0ctell1aWxwNXRlNmVPYkNFNHpQaTA3YklPWTRlNFdudGR6N2lKdw?oc=5",
         "publishedAt": "2026-08-07T07:00:00.000Z"
       },
