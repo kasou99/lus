@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T16:19:21.091Z",
+  "updatedAt": "2026-08-31T16:37:43.480Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,11 @@
         "publishedAt": "2026-08-31T15:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "ソータス、タイ市場に参入 化学原料調達DXを海外展開",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3RDF2S1VyQkFEZmV3bUNHSUlfVWRVeDZTWHFNb09lNWVicDhENVp6eUpyWnM0QzY1RlVESGpBU1VfTHBNZEN2VXduTndHRkJHblFXS2prV1Y?oc=5",
-        "publishedAt": "2026-08-30T20:00:00.000Z"
-      },
-      {
-        "time": "11:15",
+        "time": "12:40",
         "title": "【新製品発売】株式会社アコン、DINレール用AC/DCスイッチング電源の新製品を発売。30W～480Wの幅広いラインナップを展開",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8td0R1b1g0WDhYTTRRU0J5VEQ3SlQtelhNTjF1ZHhhcWVpY1VzejNxd3VPMXVNSkVvOWp3ZHF0UERWd2wzMUJHc25paEF6WHU4YXhqM2YzSmotYUpDbFhFdjJKWUhZNVlhRUVkM1RwNTBGV1pjUHR6VU53Yw?oc=5",
-        "publishedAt": "2026-08-31T02:15:39.000Z"
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kcEktTkx5bzh4elJmWm5vQm9FVXc5WDhydGozUFBmV0E1eFhxQXg4VF8wTy1oa0ZOUXhOeFdtSWZCclJ1TjUzQ0ptcmtHeVE5UDV0RWlDY08?oc=5",
+        "publishedAt": "2026-08-31T03:40:58.000Z"
       },
       {
         "time": "20:02",
@@ -57,6 +50,13 @@
         "source": "ニュースイッチ by 日刊工業新聞社",
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE56MXJUT0xVR2pXMlJsbU91NjlBVHBjZUFkaTYtcVoyUjZJYjFnVnpzV2F2cjdyOUNxOEhFcjJzZG42MUNoUXZZ?oc=5",
         "publishedAt": "2026-08-31T07:52:30.000Z"
+      },
+      {
+        "time": "12:00",
+        "title": "2026-27シーズン ユニフォームパートナー契約継続のお知らせ/エヌ・エス・エス株式会社",
+        "source": "新潟アルビレックスBB",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vdUktSDlvTU1Ya19xdkZmRnN2TTZWdXN0ZHJxZ2JsN3ZpbFdnY1dqN1U3SlM2TkZjRC1iNU1KNl82MTdueGNWcFF2TUVqT3NTdno0al9LZw?oc=5",
+        "publishedAt": "2026-08-31T03:00:36.000Z"
       }
     ],
     "worldHeadlines": [
