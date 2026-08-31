@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-30T23:37:01.933Z",
+  "updatedAt": "2026-08-31T00:54:03.367Z",
   "items": [
+    {
+      "time": "06:48",
+      "title": "ネパール土石流 死者800人超える",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593695?source=rss",
+      "publishedAt": "2026-08-30T21:48:25.000Z",
+      "xQuery": "ネパール土石流 死者800人超える"
+    },
     {
       "time": "08:26",
       "title": "核ごみ調査 常陸大宮市申し入れへ",
@@ -10,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "核ごみ調査 常陸大宮市申し入れへ"
     },
     {
-      "time": "07:49",
-      "title": "31日 東海や九州で猛暑日の予想",
+      "time": "09:03",
+      "title": "日銀‌総裁の判断期待 米財務長官",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593700?source=rss",
-      "publishedAt": "2026-08-30T22:49:46.000Z",
-      "xQuery": "31日 東海や九州で猛暑日の予想"
+      "url": "https://news.yahoo.co.jp/pickup/6593708?source=rss",
+      "publishedAt": "2026-08-31T00:03:38.000Z",
+      "xQuery": "日銀‌総裁の判断期待 米財務長官"
     },
     {
-      "time": "07:38",
-      "title": "消費減税に「賛成」55% 朝日",
+      "time": "08:39",
+      "title": "米軍が攻撃 原油先物が2%超上昇",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593698?source=rss",
-      "publishedAt": "2026-08-30T22:38:55.000Z",
-      "xQuery": "消費減税に「賛成」55% 朝日"
+      "url": "https://news.yahoo.co.jp/pickup/6593704?source=rss",
+      "publishedAt": "2026-08-30T23:39:00.000Z",
+      "xQuery": "米軍が攻撃 原油先物が2%超上昇"
     },
     {
       "time": "08:01",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593701?source=rss",
       "publishedAt": "2026-08-30T23:01:09.000Z",
       "xQuery": "ソニーG35社がAnthropic提訴 米"
-    },
-    {
-      "time": "06:30",
-      "title": "トラックと車が正面衝突 3人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593694?source=rss",
-      "publishedAt": "2026-08-30T21:30:07.000Z",
-      "xQuery": "トラックと車が正面衝突 3人死亡"
     }
   ]
 };
