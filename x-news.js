@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T10:19:34.618Z",
+  "updatedAt": "2026-08-31T10:38:20.073Z",
   "items": [
     {
       "time": "18:48",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "6人死亡事故 被告「気が緩んだ」"
     },
     {
-      "time": "16:58",
-      "title": "火葬大国・日本 土葬希望する思い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593751?source=rss",
-      "publishedAt": "2026-08-31T07:58:35.000Z",
-      "xQuery": "火葬大国・日本 土葬希望する思い"
-    },
-    {
       "time": "18:12",
       "title": "会派拘束反した県議処分 自民福岡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593760?source=rss",
       "publishedAt": "2026-08-31T09:12:00.000Z",
       "xQuery": "会派拘束反した県議処分 自民福岡"
+    },
+    {
+      "time": "19:13",
+      "title": "法定速度30kmへ「生活道路」とは",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593770?source=rss",
+      "publishedAt": "2026-08-31T10:13:57.000Z",
+      "xQuery": "法定速度30kmへ「生活道路」とは"
     }
   ]
 };
