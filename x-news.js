@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T14:20:00.960Z",
+  "updatedAt": "2026-08-31T14:39:48.557Z",
   "items": [
     {
-      "time": "20:42",
-      "title": "中道 結党から7カ月で分裂へ",
+      "time": "23:05",
+      "title": "信組不祥事 金融庁が検査拡充へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593775?source=rss",
-      "publishedAt": "2026-08-31T11:42:19.000Z",
-      "xQuery": "中道 結党から7カ月で分裂へ"
+      "url": "https://news.yahoo.co.jp/pickup/6593788?source=rss",
+      "publishedAt": "2026-08-31T14:05:06.000Z",
+      "xQuery": "信組不祥事 金融庁が検査拡充へ"
     },
     {
       "time": "22:30",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "Googleマップ アメリカ湖に変更"
     },
     {
-      "time": "22:54",
-      "title": "ITパスポート試験 シラバス案公開",
+      "time": "22:10",
+      "title": "広告で60年前の自社製品探す 発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593786?source=rss",
-      "publishedAt": "2026-08-31T13:54:44.000Z",
-      "xQuery": "ITパスポート試験 シラバス案公開"
+      "url": "https://news.yahoo.co.jp/pickup/6593782?source=rss",
+      "publishedAt": "2026-08-31T13:10:23.000Z",
+      "xQuery": "広告で60年前の自社製品探す 発見"
     }
   ]
 };
