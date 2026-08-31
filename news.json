@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T14:39:47.636Z",
+  "updatedAt": "2026-08-31T15:18:00.564Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,11 @@
         "publishedAt": "2026-08-31T04:00:01.000Z"
       },
       {
-        "time": "11:15",
-        "title": "【新製品発売】株式会社アコン、DINレール用AC/DCスイッチング電源の新製品を発売。30W～480Wの幅広いラインナップを展開",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8td0R1b1g0WDhYTTRRU0J5VEQ3SlQtelhNTjF1ZHhhcWVpY1VzejNxd3VPMXVNSkVvOWp3ZHF0UERWd2wzMUJHc25paEF6WHU4YXhqM2YzSmotYUpDbFhFdjJKWUhZNVlhRUVkM1RwNTBGV1pjUHR6VU53Yw?oc=5",
-        "publishedAt": "2026-08-31T02:15:39.000Z"
-      },
-      {
-        "time": "16:52",
-        "title": "来秋満了「北陸新幹線」が試金石に…整備新幹線、貸付料の議論本格化",
-        "source": "ニュースイッチ by 日刊工業新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE56MXJUT0xVR2pXMlJsbU91NjlBVHBjZUFkaTYtcVoyUjZJYjFnVnpzV2F2cjdyOUNxOEhFcjJzZG42MUNoUXZZ?oc=5",
-        "publishedAt": "2026-08-31T07:52:30.000Z"
+        "time": "00:00",
+        "title": "エンシュウ、タイでの生産事業を月内で停止",
+        "source": "nna.jp",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RMnNmd1ZSSVdkSnYyNzBzSXFsRWJuWGl0bHRQSHBvczc4aDR1a0JDSTNQMGxEYS1sVzNta2pWbVp4WkphbEE?oc=5",
+        "publishedAt": "2026-08-31T15:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-08-30T20:00:00.000Z"
       },
       {
-        "time": "13:00",
-        "title": "スター精密が吸収合併実施へ、ソルスティシアと同一化して事業を継続：製造マネジメントニュース",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfNzQycGdkZklmUXZsVzlBRURwN3ExRWt3QjR5U2tVUkZpZ2tDajIyWXdwUXFreU16VHRURFRrQXFCMkp0UUxxZW5FbUxEOE80TklDNUZLclN1RWpJYzIwQ3FTaG5rY1JTdEdZOU82MA?oc=5",
-        "publishedAt": "2026-08-31T04:00:00.000Z"
+        "time": "11:15",
+        "title": "【新製品発売】株式会社アコン、DINレール用AC/DCスイッチング電源の新製品を発売。30W～480Wの幅広いラインナップを展開",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8td0R1b1g0WDhYTTRRU0J5VEQ3SlQtelhNTjF1ZHhhcWVpY1VzejNxd3VPMXVNSkVvOWp3ZHF0UERWd2wzMUJHc25paEF6WHU4YXhqM2YzSmotYUpDbFhFdjJKWUhZNVlhRUVkM1RwNTBGV1pjUHR6VU53Yw?oc=5",
+        "publishedAt": "2026-08-31T02:15:39.000Z"
       },
       {
-        "time": "23:05",
-        "title": "信組不祥事 金融庁が検査拡充へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593788?source=rss",
-        "publishedAt": "2026-08-31T14:05:06.000Z"
+        "time": "20:02",
+        "title": "ソディック 工作・産業・食品機械のグローバル企業へ進化を遂げる 国境を越える理念体系を策定",
+        "source": "projectdesign.jp",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BUkJxa0VvbmdIWXF6QUhGaWdRc0QzZTBCYk1ianItZDF2YjZmMkFyNUxTN1pFR0hnUmFfMnptV0toQlJhU0plaGdZaTJUclloMllYcE1Rclljc01fem1abUlsUlF3VmUtZnlwS2c0bTdCaEdsVk1qQVJQd0l2c28?oc=5",
+        "publishedAt": "2026-08-31T11:02:38.000Z"
+      },
+      {
+        "time": "16:52",
+        "title": "来秋満了「北陸新幹線」が試金石に…整備新幹線、貸付料の議論本格化",
+        "source": "ニュースイッチ by 日刊工業新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE56MXJUT0xVR2pXMlJsbU91NjlBVHBjZUFkaTYtcVoyUjZJYjFnVnpzV2F2cjdyOUNxOEhFcjJzZG42MUNoUXZZ?oc=5",
+        "publishedAt": "2026-08-31T07:52:30.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "23:46",
+        "title": "和菓子店の店主死亡 トクリュウか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593793?source=rss",
+        "publishedAt": "2026-08-31T14:46:29.000Z"
+      },
+      {
         "time": "18:12",
         "title": "会派拘束反した県議処分 自民福岡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593683?source=rss",
         "publishedAt": "2026-08-30T13:36:33.000Z"
-      },
-      {
-        "time": "21:59",
-        "title": "80歳の和菓子店主死亡 殺人と断定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593678?source=rss",
-        "publishedAt": "2026-08-30T12:59:38.000Z"
       }
     ],
     "subsidyHeadlines": [

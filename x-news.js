@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T14:39:48.557Z",
+  "updatedAt": "2026-08-31T15:18:01.453Z",
   "items": [
-    {
-      "time": "23:05",
-      "title": "信組不祥事 金融庁が検査拡充へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593788?source=rss",
-      "publishedAt": "2026-08-31T14:05:06.000Z",
-      "xQuery": "信組不祥事 金融庁が検査拡充へ"
-    },
     {
       "time": "22:30",
       "title": "障害者雇用で広がる「代行」実態",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593784?source=rss",
       "publishedAt": "2026-08-31T13:30:03.000Z",
       "xQuery": "障害者雇用で広がる「代行」実態"
+    },
+    {
+      "time": "23:05",
+      "title": "信組不祥事 金融庁が検査拡充へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593788?source=rss",
+      "publishedAt": "2026-08-31T14:05:06.000Z",
+      "xQuery": "信組不祥事 金融庁が検査拡充へ"
     },
     {
       "time": "21:54",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "住宅ローン変動金利 2行引き上げ"
     },
     {
-      "time": "09:07",
-      "title": "Googleマップ アメリカ湖に変更",
+      "time": "23:46",
+      "title": "和菓子店の店主死亡 トクリュウか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593707?source=rss",
-      "publishedAt": "2026-08-31T00:07:15.000Z",
-      "xQuery": "Googleマップ アメリカ湖に変更"
+      "url": "https://news.yahoo.co.jp/pickup/6593793?source=rss",
+      "publishedAt": "2026-08-31T14:46:29.000Z",
+      "xQuery": "和菓子店の店主死亡 トクリュウか"
     },
     {
       "time": "22:10",
