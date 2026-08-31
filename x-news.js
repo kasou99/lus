@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T09:25:20.451Z",
+  "updatedAt": "2026-08-31T09:42:33.167Z",
   "items": [
     {
       "time": "17:53",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "火葬大国・日本 土葬希望する思い"
     },
     {
+      "time": "18:20",
+      "title": "ホンダ&日産 次世代車OS共同開発",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593765?source=rss",
+      "publishedAt": "2026-08-31T09:20:26.000Z",
+      "xQuery": "ホンダ&日産 次世代車OS共同開発"
+    },
+    {
       "time": "18:12",
       "title": "会派拘束反した県議処分 自民福岡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593760?source=rss",
       "publishedAt": "2026-08-31T09:12:00.000Z",
       "xQuery": "会派拘束反した県議処分 自民福岡"
-    },
-    {
-      "time": "17:21",
-      "title": "成城石井パイ アレルギー表記欠落",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593759?source=rss",
-      "publishedAt": "2026-08-31T08:21:01.000Z",
-      "xQuery": "成城石井パイ アレルギー表記欠落"
     }
   ]
 };
