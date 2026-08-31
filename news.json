@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T21:36:48.437Z",
+  "updatedAt": "2026-08-31T22:16:12.343Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "05:00",
         "title": "地方創生と製造業―光と影―（2）国内回帰の商機をつかめ",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CdzU2cFo5N3dTYU5BMXlVcXBxR0ZWYjBCRHV3YkFRM3FSMzEyM2w0RXdPR1NyeHpiXzg4dmluWlFUdUZNYWpjR3FtaFdIN3ktWlRtQnNjRGk?oc=5",
         "publishedAt": "2026-08-31T20:00:00.000Z"
       },
@@ -33,7 +33,7 @@
       {
         "time": "05:00",
         "title": "経営ひと言／産機テクノス・大泉東専務「BCPにも貢献」",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NTVFJVFI0MF9ra0JiczZPY3JpSURaRVRZTnMxZTg5VVB1RUpVYVotMGgxeXNrZVpiZEdoN3F6M0JXOEZ0WFVEZWFOcE1DbVp0SkktYU51Q0E?oc=5",
         "publishedAt": "2026-08-31T20:00:00.000Z"
       },
@@ -47,7 +47,7 @@
       {
         "time": "05:00",
         "title": "中村留精密工業が新事業部を立ち上げ、SiCウエハー加工需要を取り込む",
-        "source": "xtech.nikkei.com",
+        "source": "日経クロステック",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vaTNOTUF2U2Q2RkJjaGFJVkhJOGk4aERaUE4weDFFeXFBbzJKdzd3b01SNklzZ3JFQVBCMEk2cVRRMnI3c0lTWHJWYkUzUVlMclB6Zkcxc3NjMFBzVW9TWDY0ckE4RXdlSm1ENg?oc=5",
         "publishedAt": "2026-08-31T20:00:00.000Z"
       },
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "06:52",
+        "title": "米露財務相が会談 ウ和平案協議か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593798?source=rss",
+        "publishedAt": "2026-08-31T21:52:17.000Z"
+      },
       {
         "time": "14:50",
         "title": "旧統一トップに懲役2年判決 韓国",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593738?source=rss",
         "publishedAt": "2026-08-31T05:01:36.000Z"
-      },
-      {
-        "time": "06:06",
-        "title": "米軍 イラン南部の発射施設攻撃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593692?source=rss",
-        "publishedAt": "2026-08-30T21:06:15.000Z"
       },
       {
         "time": "20:03",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-08-31T09:12:00.000Z"
       },
       {
+        "time": "06:39",
+        "title": "三重の商店街火災 ほぼ全焼か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593797?source=rss",
+        "publishedAt": "2026-08-31T21:39:28.000Z"
+      },
+      {
         "time": "18:52",
         "title": "6人死亡事故 被告「気が緩んだ」",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593750?source=rss",
         "publishedAt": "2026-08-31T07:00:52.000Z"
-      },
-      {
-        "time": "21:12",
-        "title": "三重で商店街火災 漂う焦げ臭さ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593778?source=rss",
-        "publishedAt": "2026-08-31T12:12:51.000Z"
       },
       {
         "time": "22:36",

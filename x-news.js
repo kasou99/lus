@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T21:36:49.512Z",
+  "updatedAt": "2026-08-31T22:16:13.153Z",
   "items": [
     {
-      "time": "22:30",
-      "title": "障害者雇用で広がる「代行」実態",
+      "time": "06:52",
+      "title": "米露財務相が会談 ウ和平案協議か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593784?source=rss",
-      "publishedAt": "2026-08-31T13:30:03.000Z",
-      "xQuery": "障害者雇用で広がる「代行」実態"
+      "url": "https://news.yahoo.co.jp/pickup/6593798?source=rss",
+      "publishedAt": "2026-08-31T21:52:17.000Z",
+      "xQuery": "米露財務相が会談 ウ和平案協議か"
     },
     {
       "time": "23:05",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593788?source=rss",
       "publishedAt": "2026-08-31T14:05:06.000Z",
       "xQuery": "信組不祥事 金融庁が検査拡充へ"
+    },
+    {
+      "time": "06:39",
+      "title": "三重の商店街火災 ほぼ全焼か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593797?source=rss",
+      "publishedAt": "2026-08-31T21:39:28.000Z",
+      "xQuery": "三重の商店街火災 ほぼ全焼か"
     },
     {
       "time": "21:54",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593793?source=rss",
       "publishedAt": "2026-08-31T14:46:29.000Z",
       "xQuery": "和菓子店の店主死亡 トクリュウか"
-    },
-    {
-      "time": "22:10",
-      "title": "広告で60年前の自社製品探す 発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593782?source=rss",
-      "publishedAt": "2026-08-31T13:10:23.000Z",
-      "xQuery": "広告で60年前の自社製品探す 発見"
     }
   ]
 };
