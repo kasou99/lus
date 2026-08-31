@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T04:43:33.046Z",
+  "updatedAt": "2026-08-31T05:18:42.871Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -68,6 +68,13 @@
         "publishedAt": "2026-08-31T02:27:46.000Z"
       },
       {
+        "time": "14:01",
+        "title": "イラン 米軍基地への発射映像公開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593738?source=rss",
+        "publishedAt": "2026-08-31T05:01:36.000Z"
+      },
+      {
         "time": "06:06",
         "title": "米軍 イラン南部の発射施設攻撃",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593667?source=rss",
         "publishedAt": "2026-08-30T11:27:06.000Z"
-      },
-      {
-        "time": "10:44",
-        "title": "グランドキャニオンで大規模洪水",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593718?source=rss",
-        "publishedAt": "2026-08-31T01:44:53.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,11 +133,11 @@
         "publishedAt": "2026-08-31T02:50:30.000Z"
       },
       {
-        "time": "18:28",
-        "title": "ソニー生命に立ち入り検査へ",
+        "time": "14:00",
+        "title": "ハウス食品 ココイチ売却検討背景",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593651?source=rss",
-        "publishedAt": "2026-08-30T09:28:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593724?source=rss",
+        "publishedAt": "2026-08-31T05:00:45.000Z"
       },
       {
         "time": "11:35",

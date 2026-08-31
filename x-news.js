@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T04:43:33.780Z",
+  "updatedAt": "2026-08-31T05:18:43.604Z",
   "items": [
     {
       "time": "12:36",
@@ -10,6 +10,22 @@ window.LUS_X_NEWS = {
       "xQuery": "中立公の3党 合流断念を確認へ"
     },
     {
+      "time": "13:36",
+      "title": "北海道・大阪府 副首都で協定締結",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593737?source=rss",
+      "publishedAt": "2026-08-31T04:36:41.000Z",
+      "xQuery": "北海道・大阪府 副首都で協定締結"
+    },
+    {
+      "time": "14:01",
+      "title": "イラン 米軍基地への発射映像公開",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593738?source=rss",
+      "publishedAt": "2026-08-31T05:01:36.000Z",
+      "xQuery": "イラン 米軍基地への発射映像公開"
+    },
+    {
       "time": "11:50",
       "title": "ハウス食品G 壱番屋の売却検討",
       "source": "Yahoo!ニュース",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ハウス食品G 壱番屋の売却検討"
     },
     {
-      "time": "11:35",
-      "title": "飲食料品の値上げ 9月は4923品目",
+      "time": "13:25",
+      "title": "若者の35%「結婚するつもりない」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593723?source=rss",
-      "publishedAt": "2026-08-31T02:35:07.000Z",
-      "xQuery": "飲食料品の値上げ 9月は4923品目"
-    },
-    {
-      "time": "10:52",
-      "title": "家族旅行一転 5人死亡の遺族後悔",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593719?source=rss",
-      "publishedAt": "2026-08-31T01:52:44.000Z",
-      "xQuery": "家族旅行一転 5人死亡の遺族後悔"
-    },
-    {
-      "time": "10:44",
-      "title": "グランドキャニオンで大規模洪水",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593718?source=rss",
-      "publishedAt": "2026-08-31T01:44:53.000Z",
-      "xQuery": "グランドキャニオンで大規模洪水"
+      "url": "https://news.yahoo.co.jp/pickup/6593735?source=rss",
+      "publishedAt": "2026-08-31T04:25:17.000Z",
+      "xQuery": "若者の35%「結婚するつもりない」"
     }
   ]
 };
