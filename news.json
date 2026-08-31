@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T11:15:57.774Z",
+  "updatedAt": "2026-08-31T11:36:38.021Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-08-31T03:30:00.000Z"
       },
       {
-        "time": "13:00",
-        "title": "ジェイテクト、アメリカ現地法人「IMTS2026」に出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ETUJDRnNMMVFITF83M1ZkWWlpYm83cjBvMWxkandTeS1MTlF1Z0pjVFpTTHdkR29acXZzeXlxSWJYOGpfVXVtSENJM0ROdUdPTU1RYXpUeUVaZWVWX01QellvYTFHYThvTVE?oc=5",
-        "publishedAt": "2026-08-31T04:00:01.000Z"
-      },
-      {
         "time": "06:00",
         "title": "東ガス、インフラ新興に出資／ＡＩで設備保全高度化 –",
         "source": "電気新聞ウェブサイト",
@@ -24,11 +17,11 @@
         "publishedAt": "2026-08-30T21:00:30.000Z"
       },
       {
-        "time": "13:11",
-        "title": "来秋満了「北陸新幹線」が試金石に…整備新幹線、貸付料の議論本格化",
-        "source": "ニュースイッチ by 日刊工業新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13MkxWU0J1LXlNRXJ1MG0ySlE0cEpLM2NkZGhHRWh3cklzUno2UlJZWHRmUmt3TGlvT25ucDNDWWlYVUd6TExoNzIxR2l1OWdKRGd4Zw?oc=5",
-        "publishedAt": "2026-08-31T04:11:52.000Z"
+        "time": "13:00",
+        "title": "ジェイテクト、アメリカ現地法人「IMTS2026」に出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ETUJDRnNMMVFITF83M1ZkWWlpYm83cjBvMWxkandTeS1MTlF1Z0pjVFpTTHdkR29acXZzeXlxSWJYOGpfVXVtSENJM0ROdUdPTU1RYXpUeUVaZWVWX01QellvYTFHYThvTVE?oc=5",
+        "publishedAt": "2026-08-31T04:00:01.000Z"
       },
       {
         "time": "05:00",
@@ -50,6 +43,13 @@
         "source": "projectdesign.jp",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BUkJxa0VvbmdIWXF6QUhGaWdRc0QzZTBCYk1ianItZDF2YjZmMkFyNUxTN1pFR0hnUmFfMnptV0toQlJhU0plaGdZaTJUclloMllYcE1Rclljc01fem1abUlsUlF3VmUtZnlwS2c0bTdCaEdsVk1qQVJQd0l2c28?oc=5",
         "publishedAt": "2026-08-31T11:02:38.000Z"
+      },
+      {
+        "time": "16:52",
+        "title": "来秋満了「北陸新幹線」が試金石に…整備新幹線、貸付料の議論本格化",
+        "source": "ニュースイッチ by 日刊工業新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE56MXJUT0xVR2pXMlJsbU91NjlBVHBjZUFkaTYtcVoyUjZJYjFnVnpzV2F2cjdyOUNxOEhFcjJzZG42MUNoUXZZ?oc=5",
+        "publishedAt": "2026-08-31T07:52:30.000Z"
       },
       {
         "time": "12:00",

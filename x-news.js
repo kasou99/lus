@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T11:15:58.458Z",
+  "updatedAt": "2026-08-31T11:36:38.783Z",
   "items": [
     {
       "time": "18:48",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "概算要求 143兆円前後の見通し"
     },
     {
-      "time": "18:20",
-      "title": "ホンダ&日産 次世代車OS共同開発",
+      "time": "12:49",
+      "title": "ネパール 離ればなれの母子が再会",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593765?source=rss",
-      "publishedAt": "2026-08-31T09:20:26.000Z",
-      "xQuery": "ホンダ&日産 次世代車OS共同開発"
+      "url": "https://news.yahoo.co.jp/pickup/6593734?source=rss",
+      "publishedAt": "2026-08-31T03:49:26.000Z",
+      "xQuery": "ネパール 離ればなれの母子が再会"
     },
     {
       "time": "18:52",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "6人死亡事故 被告「気が緩んだ」"
     },
     {
-      "time": "18:12",
-      "title": "会派拘束反した県議処分 自民福岡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593760?source=rss",
-      "publishedAt": "2026-08-31T09:12:00.000Z",
-      "xQuery": "会派拘束反した県議処分 自民福岡"
-    },
-    {
       "time": "19:13",
       "title": "法定速度30kmへ「生活道路」とは",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593770?source=rss",
       "publishedAt": "2026-08-31T10:13:57.000Z",
       "xQuery": "法定速度30kmへ「生活道路」とは"
+    },
+    {
+      "time": "19:03",
+      "title": "スタバだらけの街 なぜ増え続ける",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593763?source=rss",
+      "publishedAt": "2026-08-31T10:03:19.000Z",
+      "xQuery": "スタバだらけの街 なぜ増え続ける"
     }
   ]
 };
