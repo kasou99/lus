@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-08-31T20:17:31.920Z",
+  "updatedAt": "2026-08-31T20:37:09.898Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:14",
+        "title": "上場企業分析 今期売上高２６００億円狙う オークマ 工作機械受注を拡大へ ＡＩ、半導体関連がけん引 収益力向上には課題も",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82a0ZUUDBZeGktTFNEQ2VqZGFGVzMxazRJd2FoYXo0Y01TampGYjdXbDRPamtFblA0MDZ0N2hRYmdCRzd1ZXctMFFDNG9Xb1RTU2FnNkxKdU9teV9yTXBzVlNhcGVqNEVLY3N5eThaVEtLOHM?oc=5",
+        "publishedAt": "2026-08-31T20:14:04.000Z"
+      },
       {
         "time": "12:30",
         "title": "AI×DXで効率化する設備保全まとめ：電子ブックレット（FA）",
@@ -19,7 +26,7 @@
       {
         "time": "13:00",
         "title": "ジェイテクト、アメリカ現地法人「IMTS2026」に出展",
-        "source": "prtimes.jp",
+        "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ETUJDRnNMMVFITF83M1ZkWWlpYm83cjBvMWxkandTeS1MTlF1Z0pjVFpTTHdkR29acXZzeXlxSWJYOGpfVXVtSENJM0ROdUdPTU1RYXpUeUVaZWVWX01QellvYTFHYThvTVE?oc=5",
         "publishedAt": "2026-08-31T04:00:01.000Z"
       },
@@ -31,25 +38,18 @@
         "publishedAt": "2026-08-30T21:00:30.000Z"
       },
       {
-        "time": "05:00",
-        "title": "未来を変える／元環境事務次官（公益財団法人三千年の未来会議代表理事、日本経済大学特命教授）・中井徳太郎",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtRzhDM3hleDBVaWRCQVplYWFINVBIeEZCcW5HVWJ3S3NGXy1GQURoS19hN2liNW5YenJJMFFNWkhkNWY0VUl6dzJKZVY2eG14V1JhYk1OTTA?oc=5",
-        "publishedAt": "2026-08-31T20:00:00.000Z"
+        "time": "16:15",
+        "title": "【制御盤、まだ手配線ですか!?】製造業の人手不足を救う「配線の基板化」で配線工数を最大90％削減",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZUExBUTQzdDczbTMtZHM0QWcxbEZ1UDlNeGxjZHZvbkJqeFRRbHkyOUQ1dlRBOHdCUlRjcVZNaHBXZ04wUWJTbkRNWmFNaWRPN25QS2JkRHNJNU1JTzA5R0dUWnFLeWNDX0hfQmJGZFl3MTR5QXYyMllPSE1GQQ?oc=5",
+        "publishedAt": "2026-08-31T07:15:00.000Z"
       },
       {
-        "time": "11:15",
+        "time": "10:45",
         "title": "【新製品発売】株式会社アコン、DINレール用AC/DCスイッチング電源の新製品を発売。30W～480Wの幅広いラインナップを展開",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8td0R1b1g0WDhYTTRRU0J5VEQ3SlQtelhNTjF1ZHhhcWVpY1VzejNxd3VPMXVNSkVvOWp3ZHF0UERWd2wzMUJHc25paEF6WHU4YXhqM2YzSmotYUpDbFhFdjJKWUhZNVlhRUVkM1RwNTBGV1pjUHR6VU53Yw?oc=5",
-        "publishedAt": "2026-08-31T02:15:39.000Z"
-      },
-      {
-        "time": "01:01",
-        "title": "さあ出番／インターコム社長に就任した高橋亮氏 クラウドでDX支援",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wMlhMQ3pjSDR3WkcwRzc5dEYwYVJzaWNUbFdpUkt0VTlfYy1jV05ackVwZlI5OWxVaVE5MGxwUFZvMVNqekNfa2RJOWRBUkpsWWJsUFZBQkQ?oc=5",
-        "publishedAt": "2026-08-31T16:01:03.000Z"
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WclFNdERIM0ROcWxUS2R5U01TeDhZNHA0aXJST2ZnLThPZndCYThkMjMxazF1OVlLdVZDR3BpTGdva3pleFRqd2xqWTBPbmxLYXpOOHoxYjlkemhTd2Y5bER0aVozWWlyd09XQzhLVk1FZw?oc=5",
+        "publishedAt": "2026-08-31T01:45:26.000Z"
       },
       {
         "time": "05:00",
