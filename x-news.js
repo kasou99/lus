@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T03:23:13.477Z",
+  "updatedAt": "2026-08-31T03:43:48.683Z",
   "items": [
-    {
-      "time": "10:08",
-      "title": "総務省 情報開示遅らせる旨投稿",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593714?source=rss",
-      "publishedAt": "2026-08-31T01:08:48.000Z",
-      "xQuery": "総務省 情報開示遅らせる旨投稿"
-    },
     {
       "time": "11:27",
       "title": "イラン 米空軍基地に報復攻撃",
@@ -16,6 +8,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593722?source=rss",
       "publishedAt": "2026-08-31T02:27:46.000Z",
       "xQuery": "イラン 米空軍基地に報復攻撃"
+    },
+    {
+      "time": "11:35",
+      "title": "飲食料品の値上げ 9月は4923品目",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593723?source=rss",
+      "publishedAt": "2026-08-31T02:35:07.000Z",
+      "xQuery": "飲食料品の値上げ 9月は4923品目"
+    },
+    {
+      "time": "10:08",
+      "title": "総務省 情報開示遅らせる旨投稿",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593714?source=rss",
+      "publishedAt": "2026-08-31T01:08:48.000Z",
+      "xQuery": "総務省 情報開示遅らせる旨投稿"
     },
     {
       "time": "11:50",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593718?source=rss",
       "publishedAt": "2026-08-31T01:44:53.000Z",
       "xQuery": "グランドキャニオンで大規模洪水"
-    },
-    {
-      "time": "10:52",
-      "title": "家族旅行一転 5人死亡の遺族後悔",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593719?source=rss",
-      "publishedAt": "2026-08-31T01:52:44.000Z",
-      "xQuery": "家族旅行一転 5人死亡の遺族後悔"
     }
   ]
 };
