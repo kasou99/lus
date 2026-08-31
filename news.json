@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T17:37:12.113Z",
+  "updatedAt": "2026-08-31T18:22:06.226Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-08-31T04:00:01.000Z"
       },
       {
-        "time": "06:00",
-        "title": "東ガス、インフラ新興に出資／ＡＩで設備保全高度化 –",
-        "source": "電気新聞ウェブサイト",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZcF91OW1rblhNWXhydWNRTDFVWXhZWF9wTjM1UElBQVQ0UnRaMWJOMElZMnlQQ0R3RGV6eTBsVHpydWFoM0VObTBVX2dieWpSUVZZVTBUWQ?oc=5",
-        "publishedAt": "2026-08-30T21:00:30.000Z"
-      },
-      {
         "time": "00:00",
         "title": "エンシュウ、タイでの生産事業を月内で停止",
         "source": "nna.jp",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RMnNmd1ZSSVdkSnYyNzBzSXFsRWJuWGl0bHRQSHBvczc4aDR1a0JDSTNQMGxEYS1sVzNta2pWbVp4WkphbEE?oc=5",
         "publishedAt": "2026-08-31T15:00:00.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "東ガス、インフラ新興に出資／ＡＩで設備保全高度化 –",
+        "source": "電気新聞ウェブサイト",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZcF91OW1rblhNWXhydWNRTDFVWXhZWF9wTjM1UElBQVQ0UnRaMWJOMElZMnlQQ0R3RGV6eTBsVHpydWFoM0VObTBVX2dieWpSUVZZVTBUWQ?oc=5",
+        "publishedAt": "2026-08-30T21:00:30.000Z"
       },
       {
         "time": "05:00",
