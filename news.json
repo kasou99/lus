@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T13:39:03.914Z",
+  "updatedAt": "2026-08-31T14:19:58.724Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "23:05",
+        "title": "信組不祥事 金融庁が検査拡充へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593788?source=rss",
+        "publishedAt": "2026-08-31T14:05:06.000Z"
+      },
+      {
         "time": "21:54",
         "title": "住宅ローン変動金利 2行引き上げ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593780?source=rss",
         "publishedAt": "2026-08-31T12:54:07.000Z"
-      },
-      {
-        "time": "11:50",
-        "title": "ハウス食品G 壱番屋の売却検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593727?source=rss",
-        "publishedAt": "2026-08-31T02:50:30.000Z"
       },
       {
         "time": "14:00",

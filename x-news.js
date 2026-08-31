@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T13:39:04.938Z",
+  "updatedAt": "2026-08-31T14:20:00.960Z",
   "items": [
     {
       "time": "20:42",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中道 結党から7カ月で分裂へ"
     },
     {
-      "time": "16:20",
-      "title": "全教科にAIの記述 指導要領の素案",
+      "time": "22:30",
+      "title": "障害者雇用で広がる「代行」実態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593754?source=rss",
-      "publishedAt": "2026-08-31T07:20:31.000Z",
-      "xQuery": "全教科にAIの記述 指導要領の素案"
+      "url": "https://news.yahoo.co.jp/pickup/6593784?source=rss",
+      "publishedAt": "2026-08-31T13:30:03.000Z",
+      "xQuery": "障害者雇用で広がる「代行」実態"
     },
     {
       "time": "21:54",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "住宅ローン変動金利 2行引き上げ"
     },
     {
-      "time": "19:22",
-      "title": "AIに機能追加で情報流出 注意点",
+      "time": "09:07",
+      "title": "Googleマップ アメリカ湖に変更",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593762?source=rss",
-      "publishedAt": "2026-08-31T10:22:13.000Z",
-      "xQuery": "AIに機能追加で情報流出 注意点"
+      "url": "https://news.yahoo.co.jp/pickup/6593707?source=rss",
+      "publishedAt": "2026-08-31T00:07:15.000Z",
+      "xQuery": "Googleマップ アメリカ湖に変更"
     },
     {
-      "time": "20:40",
-      "title": "包丁キャンセル 共働き時代の料理",
+      "time": "22:54",
+      "title": "ITパスポート試験 シラバス案公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593776?source=rss",
-      "publishedAt": "2026-08-31T11:40:13.000Z",
-      "xQuery": "包丁キャンセル 共働き時代の料理"
+      "url": "https://news.yahoo.co.jp/pickup/6593786?source=rss",
+      "publishedAt": "2026-08-31T13:54:44.000Z",
+      "xQuery": "ITパスポート試験 シラバス案公開"
     }
   ]
 };
