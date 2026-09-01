@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T01:37:12.061Z",
+  "updatedAt": "2026-09-01T02:26:43.995Z",
   "items": [
     {
-      "time": "10:23",
-      "title": "長期金利 一時2.970%の高い水準",
+      "time": "11:11",
+      "title": "長期金利 一時2.990%の高い水準",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593825?source=rss",
-      "publishedAt": "2026-09-01T01:23:10.000Z",
-      "xQuery": "長期金利 一時2.970%の高い水準"
+      "url": "https://news.yahoo.co.jp/pickup/6593830?source=rss",
+      "publishedAt": "2026-09-01T02:11:07.000Z",
+      "xQuery": "長期金利 一時2.990%の高い水準"
     },
     {
       "time": "07:56",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "歌舞伎町ビル火災25年 遺族が慰霊"
     },
     {
+      "time": "11:12",
+      "title": "備蓄米21万t 今月買い戻し実施へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593829?source=rss",
+      "publishedAt": "2026-09-01T02:12:38.000Z",
+      "xQuery": "備蓄米21万t 今月買い戻し実施へ"
+    },
+    {
       "time": "09:39",
       "title": "旧統一教会解散 韓国でも現実味",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593816?source=rss",
       "publishedAt": "2026-09-01T00:39:52.000Z",
       "xQuery": "旧統一教会解散 韓国でも現実味"
-    },
-    {
-      "time": "07:31",
-      "title": "車2台が正面衝突し1人死亡 男逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593801?source=rss",
-      "publishedAt": "2026-08-31T22:31:09.000Z",
-      "xQuery": "車2台が正面衝突し1人死亡 男逮捕"
     },
     {
       "time": "09:54",
