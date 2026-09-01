@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T23:14:04.965Z",
+  "updatedAt": "2026-09-01T23:36:52.904Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "13:35",
         "title": "冨士ダイス",
-        "source": "nikkei.com",
+        "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVVpHT3cwc04zSVA4d3RGTzFhQzB4cEtyeDVjdGNwbzVBdml3WU9YM0oxT21aRHN1M2VfMVdVVDJBQWYwSWN0azhxQ2NWemJnSExKZFB3M2NoZFpQSFhHZkNMX0hOWFh0QXNhaV9QbEQ5WnRINmVLTkFwcXVWenpVU1BBdEx1OXNJZG85N0VmRWRrNTd2dUh5UXg0c3ZCWmEyMmQ1NnJRMGpEcmlMa3NqX0UxLVJtTENRSjJBOGRmR19CUHQwbjBpTk5hX3A?oc=5",
         "publishedAt": "2026-09-01T04:35:24.000Z"
       },
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-01T00:15:00.000Z"
       },
       {
-        "time": "16:00",
-        "title": "工作機械用部品の丸祐、福島のメーカー買収 生産地の多国化進める",
-        "source": "nikkei.com",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yWnlrendCLXdHZURBQ3ZOOXFOUGU0QXJVOHh3RFhhOEgzaUdUSXllYWxlZkZCMzVRejhjVnpNUWtRTE45aWNPYmd2T2JZWXc3eEN1SzRDdy1KT293QTZacWRZU3lSUUpiM3daag?oc=5",
-        "publishedAt": "2026-09-01T07:00:00.000Z"
+        "time": "13:22",
+        "title": "「社員年収700万円」を目標にDX、社内の定型業務の約9割を自動化。愛知の制御盤メーカーが気づいた「効率化だけでは変わらない」理由",
+        "source": "DXマガジン",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tdU9SZjFUTVZBaUFGdTY0VDBKZUxPTTJrVDlhS0tjQnotNVZFSktzd284X29hM2FLRFFLN0R3eTAxcFloS2ZuSzdDMlA?oc=5",
+        "publishedAt": "2026-09-01T04:22:15.000Z"
       },
       {
-        "time": "10:33",
-        "title": "リニアモータ駆動 ナノマシニングセンタ「AZ275nS」を開発",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YU2NGZU9mMVNPT0EzVzM1ZE5yc2x6eFFmR1BySkFKdl9fSExKdlBKZXFHRXRyRXFuX3dZRWVUTFFRZVkzeURBVnBTNmxlVXlkcTlCT1padk9JZ2J0NjJMclV5QzhVdG9kY2c?oc=5",
-        "publishedAt": "2026-09-01T01:33:45.000Z"
+        "time": "16:00",
+        "title": "工作機械用部品の丸祐、福島のメーカー買収 生産地の多国化進める",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yWnlrendCLXdHZURBQ3ZOOXFOUGU0QXJVOHh3RFhhOEgzaUdUSXllYWxlZkZCMzVRejhjVnpNUWtRTE45aWNPYmd2T2JZWXc3eEN1SzRDdy1KT293QTZacWRZU3lSUUpiM3daag?oc=5",
+        "publishedAt": "2026-09-01T07:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-09-01T08:25:20.000Z"
       },
       {
+        "time": "08:23",
+        "title": "ツムラが「養命酒製造」買収完了",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593936?source=rss",
+        "publishedAt": "2026-09-01T23:23:34.000Z"
+      },
+      {
         "time": "22:58",
         "title": "レクサス 新型「NX」世界初公開",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593911?source=rss",
         "publishedAt": "2026-09-01T13:58:54.000Z"
-      },
-      {
-        "time": "20:30",
-        "title": "キユーピー マヨネーズなど値上げ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593895?source=rss",
-        "publishedAt": "2026-09-01T11:30:10.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-01T12:50:10.000Z"
       },
       {
-        "time": "21:03",
-        "title": "車にはねられ女性死亡 75歳逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593900?source=rss",
-        "publishedAt": "2026-09-01T12:03:08.000Z"
-      },
-      {
         "time": "19:02",
         "title": "上高地のバス大混雑 需要が過多",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593888?source=rss",
         "publishedAt": "2026-09-01T10:02:29.000Z"
+      },
+      {
+        "time": "08:17",
+        "title": "鳥取県職員が阿部寛まねPR 反響",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593934?source=rss",
+        "publishedAt": "2026-09-01T23:17:52.000Z"
       }
     ],
     "subsidyHeadlines": [

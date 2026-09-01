@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T23:14:05.688Z",
+  "updatedAt": "2026-09-01T23:36:53.990Z",
   "items": [
     {
-      "time": "06:41",
-      "title": "米軍がイラン攻撃 革命防衛隊標的",
+      "time": "07:44",
+      "title": "ウ大統領 ロシア領空は事実上閉鎖",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593922?source=rss",
-      "publishedAt": "2026-09-01T21:41:18.000Z",
-      "xQuery": "米軍がイラン攻撃 革命防衛隊標的"
+      "url": "https://news.yahoo.co.jp/pickup/6593929?source=rss",
+      "publishedAt": "2026-09-01T22:44:23.000Z",
+      "xQuery": "ウ大統領 ロシア領空は事実上閉鎖"
+    },
+    {
+      "time": "07:46",
+      "title": "SBエナジー 米国でIPOを申請",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593931?source=rss",
+      "publishedAt": "2026-09-01T22:46:56.000Z",
+      "xQuery": "SBエナジー 米国でIPOを申請"
     },
     {
       "time": "08:05",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "厳しい残暑 熊本など猛暑日の予想"
     },
     {
-      "time": "06:24",
-      "title": "青森県弘前市など大雨 1時間90mm",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593920?source=rss",
-      "publishedAt": "2026-09-01T21:24:49.000Z",
-      "xQuery": "青森県弘前市など大雨 1時間90mm"
-    },
-    {
-      "time": "07:44",
-      "title": "ウ大統領 ロシア領空は事実上閉鎖",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593929?source=rss",
-      "publishedAt": "2026-09-01T22:44:23.000Z",
-      "xQuery": "ウ大統領 ロシア領空は事実上閉鎖"
-    },
-    {
       "time": "07:26",
       "title": "ホテルに放火疑い 米旅行者を逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593927?source=rss",
       "publishedAt": "2026-09-01T22:26:35.000Z",
       "xQuery": "ホテルに放火疑い 米旅行者を逮捕"
+    },
+    {
+      "time": "08:17",
+      "title": "鳥取県職員が阿部寛まねPR 反響",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593934?source=rss",
+      "publishedAt": "2026-09-01T23:17:52.000Z",
+      "xQuery": "鳥取県職員が阿部寛まねPR 反響"
     }
   ]
 };
