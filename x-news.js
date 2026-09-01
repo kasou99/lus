@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T02:45:37.140Z",
+  "updatedAt": "2026-09-01T03:23:49.374Z",
   "items": [
     {
       "time": "11:34",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "台風24号発生 週後半は大雨の恐れ"
     },
     {
-      "time": "07:47",
-      "title": "やさしい日本語 熊本地震でも活用",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593802?source=rss",
-      "publishedAt": "2026-08-31T22:47:26.000Z",
-      "xQuery": "やさしい日本語 熊本地震でも活用"
-    },
-    {
       "time": "11:12",
       "title": "備蓄米21万t 今月買い戻し実施へ",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "備蓄米21万t 今月買い戻し実施へ"
     },
     {
-      "time": "09:39",
-      "title": "旧統一教会解散 韓国でも現実味",
+      "time": "07:47",
+      "title": "やさしい日本語 熊本地震でも活用",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593816?source=rss",
-      "publishedAt": "2026-09-01T00:39:52.000Z",
-      "xQuery": "旧統一教会解散 韓国でも現実味"
+      "url": "https://news.yahoo.co.jp/pickup/6593802?source=rss",
+      "publishedAt": "2026-08-31T22:47:26.000Z",
+      "xQuery": "やさしい日本語 熊本地震でも活用"
+    },
+    {
+      "time": "12:11",
+      "title": "秋山豊寛さん死去 90年に宇宙飛行",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593838?source=rss",
+      "publishedAt": "2026-09-01T03:11:41.000Z",
+      "xQuery": "秋山豊寛さん死去 90年に宇宙飛行"
     },
     {
       "time": "09:54",
