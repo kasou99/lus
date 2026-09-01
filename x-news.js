@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T22:15:09.343Z",
+  "updatedAt": "2026-09-01T22:37:09.949Z",
   "items": [
     {
       "time": "06:41",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "フラット35 9月の適用金利3.46%"
     },
     {
-      "time": "07:13",
-      "title": "ホテル火災 放火疑い米旅行者逮捕",
+      "time": "07:26",
+      "title": "ホテルに放火疑い 米旅行者を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593924?source=rss",
-      "publishedAt": "2026-09-01T22:13:10.000Z",
-      "xQuery": "ホテル火災 放火疑い米旅行者逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6593927?source=rss",
+      "publishedAt": "2026-09-01T22:26:35.000Z",
+      "xQuery": "ホテルに放火疑い 米旅行者を逮捕"
     },
     {
-      "time": "21:50",
-      "title": "「エクモ」で接続ミス 患者が重体",
+      "time": "22:58",
+      "title": "レクサス 新型「NX」世界初公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593905?source=rss",
-      "publishedAt": "2026-09-01T12:50:10.000Z",
-      "xQuery": "「エクモ」で接続ミス 患者が重体"
+      "url": "https://news.yahoo.co.jp/pickup/6593911?source=rss",
+      "publishedAt": "2026-09-01T13:58:54.000Z",
+      "xQuery": "レクサス 新型「NX」世界初公開"
     }
   ]
 };
