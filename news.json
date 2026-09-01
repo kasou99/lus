@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-01T05:18:46.209Z",
+  "updatedAt": "2026-09-01T05:39:14.209Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "14:35",
+        "title": "JIMTOF2026（第33回日本国際工作機械見本市）に出展、初公開となる新材種を含む当社製品を展示",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IRE5NR1c5anlvM1djWHYyVDVFYTV2dmZUYXNXaElYUl93TzZHMVJuRHpjWkVSZE10dE1ONXdqbnJQOWZ6T21GRVpuOG1IaEJTLUd1YkdqSEhXdjFVZTZySldpYWQ1bFZBUkE?oc=5",
+        "publishedAt": "2026-09-01T05:35:52.000Z"
+      },
       {
         "time": "13:30",
         "title": "冨士ダイス[6167]：JIMTOF2026（第33回日本国際工作機械見本市）に出展、初公開となる新材種を含む当社製品を展示 2026年9月1日(適時開示) ：日経会社情報DIGITAL",
@@ -33,7 +40,7 @@
       {
         "time": "13:46",
         "title": "リニアモータ駆動 ナノマシニングセンタ「AZ275nS」を開発：時事ドットコム",
-        "source": "時事ドットコム",
+        "source": "jiji.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IVHd0ZGk0OFFzaE9jVGhXLTF3VHJ3TEp5SjRZc2JwZmlzeGVDMWx4WG5VcS1XNTRZZ2t3ME83Y01kOGVUVGo4WVFtTTZUYldSTjJXVDdqYlZZSWJITzF2dk1FMXlFVG10TE80?oc=5",
         "publishedAt": "2026-09-01T04:46:00.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NTVFJVFI0MF9ra0JiczZPY3JpSURaRVRZTnMxZTg5VVB1RUpVYVotMGgxeXNrZVpiZEdoN3F6M0JXOEZ0WFVEZWFOcE1DbVp0SkktYU51Q0E?oc=5",
         "publishedAt": "2026-08-31T20:00:00.000Z"
-      },
-      {
-        "time": "02:04",
-        "title": "【新製品発売】株式会社アコン、DINレール用AC/DCスイッチング電源の新製品を発売。30W～480Wの幅広いラインナップを展開",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92US1ua0FZZ2M0UlFhelZnQ0ZadXJWXzdDUk1jRXZXem11N0pINXNyYW5FSTdqd1ZrejlLd0VKUlpMQkp5SnAwWXhhRzhfeFpKalRTeg?oc=5",
-        "publishedAt": "2026-08-31T17:04:49.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,18 +68,18 @@
         "publishedAt": "2026-08-31T21:52:17.000Z"
       },
       {
+        "time": "14:18",
+        "title": "ドリスコル米陸軍長官 辞表を提出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593848?source=rss",
+        "publishedAt": "2026-09-01T05:18:04.000Z"
+      },
+      {
         "time": "09:39",
         "title": "旧統一教会解散 韓国でも現実味",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593816?source=rss",
         "publishedAt": "2026-09-01T00:39:52.000Z"
-      },
-      {
-        "time": "14:50",
-        "title": "旧統一トップに懲役2年判決 韓国",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593744?source=rss",
-        "publishedAt": "2026-08-31T05:50:14.000Z"
       },
       {
         "time": "12:47",

@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T05:18:47.070Z",
+  "updatedAt": "2026-09-01T05:39:15.099Z",
   "items": [
-    {
-      "time": "12:42",
-      "title": "長期金利一時3% 30年ぶり高水準",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593841?source=rss",
-      "publishedAt": "2026-09-01T03:42:42.000Z",
-      "xQuery": "長期金利一時3% 30年ぶり高水準"
-    },
     {
       "time": "12:33",
       "title": "防災の日 政府が震度7想定し訓練",
@@ -18,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "防災の日 政府が震度7想定し訓練"
     },
     {
-      "time": "11:34",
-      "title": "台風24号発生 週後半は大雨の恐れ",
+      "time": "10:19",
+      "title": "米FTCと22州 アマゾンを提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593833?source=rss",
-      "publishedAt": "2026-09-01T02:34:13.000Z",
-      "xQuery": "台風24号発生 週後半は大雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6593822?source=rss",
+      "publishedAt": "2026-09-01T01:19:46.000Z",
+      "xQuery": "米FTCと22州 アマゾンを提訴"
     },
     {
       "time": "12:47",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593840?source=rss",
       "publishedAt": "2026-09-01T03:47:59.000Z",
       "xQuery": "ネパール 遺体の身元特定が難航"
+    },
+    {
+      "time": "14:18",
+      "title": "ドリスコル米陸軍長官 辞表を提出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593848?source=rss",
+      "publishedAt": "2026-09-01T05:18:04.000Z",
+      "xQuery": "ドリスコル米陸軍長官 辞表を提出"
     },
     {
       "time": "13:01",
