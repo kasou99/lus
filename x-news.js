@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T22:37:09.949Z",
+  "updatedAt": "2026-09-01T23:14:05.688Z",
   "items": [
     {
       "time": "06:41",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "米軍がイラン攻撃 革命防衛隊標的"
     },
     {
+      "time": "08:05",
+      "title": "厳しい残暑 熊本など猛暑日の予想",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593932?source=rss",
+      "publishedAt": "2026-09-01T23:05:16.000Z",
+      "xQuery": "厳しい残暑 熊本など猛暑日の予想"
+    },
+    {
       "time": "06:24",
       "title": "青森県弘前市など大雨 1時間90mm",
       "source": "Yahoo!ニュース",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "青森県弘前市など大雨 1時間90mm"
     },
     {
-      "time": "23:33",
-      "title": "フラット35 9月の適用金利3.46%",
+      "time": "07:44",
+      "title": "ウ大統領 ロシア領空は事実上閉鎖",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593916?source=rss",
-      "publishedAt": "2026-09-01T14:33:57.000Z",
-      "xQuery": "フラット35 9月の適用金利3.46%"
+      "url": "https://news.yahoo.co.jp/pickup/6593929?source=rss",
+      "publishedAt": "2026-09-01T22:44:23.000Z",
+      "xQuery": "ウ大統領 ロシア領空は事実上閉鎖"
     },
     {
       "time": "07:26",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593927?source=rss",
       "publishedAt": "2026-09-01T22:26:35.000Z",
       "xQuery": "ホテルに放火疑い 米旅行者を逮捕"
-    },
-    {
-      "time": "22:58",
-      "title": "レクサス 新型「NX」世界初公開",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593911?source=rss",
-      "publishedAt": "2026-09-01T13:58:54.000Z",
-      "xQuery": "レクサス 新型「NX」世界初公開"
     }
   ]
 };
