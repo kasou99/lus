@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T04:41:21.591Z",
+  "updatedAt": "2026-09-01T05:18:47.070Z",
   "items": [
     {
       "time": "12:42",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "長期金利一時3% 30年ぶり高水準"
     },
     {
-      "time": "11:12",
-      "title": "備蓄米21万t 今月買い戻し実施へ",
+      "time": "12:33",
+      "title": "防災の日 政府が震度7想定し訓練",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593829?source=rss",
-      "publishedAt": "2026-09-01T02:12:38.000Z",
-      "xQuery": "備蓄米21万t 今月買い戻し実施へ"
+      "url": "https://news.yahoo.co.jp/pickup/6593839?source=rss",
+      "publishedAt": "2026-09-01T03:33:52.000Z",
+      "xQuery": "防災の日 政府が震度7想定し訓練"
     },
     {
       "time": "11:34",
