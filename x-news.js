@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T07:40:38.499Z",
+  "updatedAt": "2026-09-01T08:26:28.383Z",
   "items": [
+    {
+      "time": "16:38",
+      "title": "9月も台風シーズン 日頃の備えを",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593864?source=rss",
+      "publishedAt": "2026-09-01T07:38:31.000Z",
+      "xQuery": "9月も台風シーズン 日頃の備えを"
+    },
     {
       "time": "15:04",
       "title": "ネパール・中国土石流 死者千人超",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール・中国土石流 死者千人超"
     },
     {
-      "time": "12:33",
-      "title": "防災の日 政府が震度7想定し訓練",
+      "time": "17:01",
+      "title": "小野田氏側は否定 公選法違反疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593839?source=rss",
-      "publishedAt": "2026-09-01T03:33:52.000Z",
-      "xQuery": "防災の日 政府が震度7想定し訓練"
+      "url": "https://news.yahoo.co.jp/pickup/6593869?source=rss",
+      "publishedAt": "2026-09-01T08:01:58.000Z",
+      "xQuery": "小野田氏側は否定 公選法違反疑い"
     },
     {
       "time": "15:07",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593863?source=rss",
       "publishedAt": "2026-09-01T07:24:51.000Z",
       "xQuery": "人口約300人の島 村長選に変化"
-    },
-    {
-      "time": "15:52",
-      "title": "スシローNY店開業へ 1皿800円〜",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593860?source=rss",
-      "publishedAt": "2026-09-01T06:52:16.000Z",
-      "xQuery": "スシローNY店開業へ 1皿800円〜"
     }
   ]
 };
