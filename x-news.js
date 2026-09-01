@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T03:43:27.720Z",
+  "updatedAt": "2026-09-01T04:21:13.739Z",
   "items": [
     {
-      "time": "11:34",
-      "title": "台風24号発生 週後半は大雨の恐れ",
+      "time": "12:42",
+      "title": "長期金利一時3% 30年ぶり高水準",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593833?source=rss",
-      "publishedAt": "2026-09-01T02:34:13.000Z",
-      "xQuery": "台風24号発生 週後半は大雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6593841?source=rss",
+      "publishedAt": "2026-09-01T03:42:42.000Z",
+      "xQuery": "長期金利一時3% 30年ぶり高水準"
     },
     {
       "time": "11:12",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "備蓄米21万t 今月買い戻し実施へ"
     },
     {
-      "time": "07:47",
-      "title": "やさしい日本語 熊本地震でも活用",
+      "time": "11:34",
+      "title": "台風24号発生 週後半は大雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593802?source=rss",
-      "publishedAt": "2026-08-31T22:47:26.000Z",
-      "xQuery": "やさしい日本語 熊本地震でも活用"
+      "url": "https://news.yahoo.co.jp/pickup/6593833?source=rss",
+      "publishedAt": "2026-09-01T02:34:13.000Z",
+      "xQuery": "台風24号発生 週後半は大雨の恐れ"
+    },
+    {
+      "time": "12:47",
+      "title": "ネパール 遺体の身元特定が難航",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593840?source=rss",
+      "publishedAt": "2026-09-01T03:47:59.000Z",
+      "xQuery": "ネパール 遺体の身元特定が難航"
     },
     {
       "time": "12:11",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593838?source=rss",
       "publishedAt": "2026-09-01T03:11:41.000Z",
       "xQuery": "秋山豊寛さん死去 90年に宇宙飛行"
-    },
-    {
-      "time": "09:54",
-      "title": "高校で車横転 生徒の遺族が提訴へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593821?source=rss",
-      "publishedAt": "2026-09-01T00:54:26.000Z",
-      "xQuery": "高校で車横転 生徒の遺族が提訴へ"
     }
   ]
 };

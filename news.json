@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T03:43:26.856Z",
+  "updatedAt": "2026-09-01T04:21:13.093Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-09-01T00:15:00.000Z"
       },
       {
-        "time": "05:14",
-        "title": "上場企業分析 今期売上高２６００億円狙う オークマ 工作機械受注を拡大へ ＡＩ、半導体関連がけん引 収益力向上には課題も",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82a0ZUUDBZeGktTFNEQ2VqZGFGVzMxazRJd2FoYXo0Y01TampGYjdXbDRPamtFblA0MDZ0N2hRYmdCRzd1ZXctMFFDNG9Xb1RTU2FnNkxKdU9teV9yTXBzVlNhcGVqNEVLY3N5eThaVEtLOHM?oc=5",
-        "publishedAt": "2026-08-31T20:14:04.000Z"
-      },
-      {
         "time": "10:33",
         "title": "リニアモータ駆動 ナノマシニングセンタ「AZ275nS」を開発",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YU2NGZU9mMVNPT0EzVzM1ZE5yc2x6eFFmR1BySkFKdl9fSExKdlBKZXFHRXRyRXFuX3dZRWVUTFFRZVkzeURBVnBTNmxlVXlkcTlCT1padk9JZ2J0NjJMclV5QzhVdG9kY2c?oc=5",
         "publishedAt": "2026-09-01T01:33:45.000Z"
+      },
+      {
+        "time": "05:14",
+        "title": "上場企業分析 今期売上高２６００億円狙う オークマ 工作機械受注を拡大へ ＡＩ、半導体関連がけん引 収益力向上には課題も",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82a0ZUUDBZeGktTFNEQ2VqZGFGVzMxazRJd2FoYXo0Y01TampGYjdXbDRPamtFblA0MDZ0N2hRYmdCRzd1ZXctMFFDNG9Xb1RTU2FnNkxKdU9teV9yTXBzVlNhcGVqNEVLY3N5eThaVEtLOHM?oc=5",
+        "publishedAt": "2026-08-31T20:14:04.000Z"
       },
       {
         "time": "07:30",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-08-31T20:00:00.000Z"
       },
       {
+        "time": "09:33",
+        "title": "DINレール直付けRJ45カップラ「Smart Meter Coupler」新発売",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NUHN5NjU0cDEtb0FGcFlsbnp4MWlVUVc4TW1kZzY5MW1lSmNqNmR3aDhUR1hQbG5SQXhXaU1XbmUzcEZld3gwUjU4ZkRmQS1mZk1kS3ByQVJES21ZQjdTa2VFUzlTQUVSbXFzQmRsa00zVDJna1FDVkI2cw?oc=5",
+        "publishedAt": "2026-09-01T00:33:21.000Z"
+      },
+      {
         "time": "02:04",
         "title": "【新製品発売】株式会社アコン、DINレール用AC/DCスイッチング電源の新製品を発売。30W～480Wの幅広いラインナップを展開",
         "source": "ASCII.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92US1ua0FZZ2M0UlFhelZnQ0ZadXJWXzdDUk1jRXZXem11N0pINXNyYW5FSTdqd1ZrejlLd0VKUlpMQkp5SnAwWXhhRzhfeFpKalRTeg?oc=5",
         "publishedAt": "2026-08-31T17:04:49.000Z"
-      },
-      {
-        "time": "09:33",
-        "title": "DINレール直付けRJ45カップラ「Smart Meter Coupler」新発売",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NUHN5NjU0cDEtb0FGcFlsbnp4MWlVUVc4TW1kZzY5MW1lSmNqNmR3aDhUR1hQbG5SQXhXaU1XbmUzcEZld3gwUjU4ZkRmQS1mZk1kS3ByQVJES21ZQjdTa2VFUzlTQUVSbXFzQmRsa00zVDJna1FDVkI2cw?oc=5",
-        "publishedAt": "2026-09-01T00:33:21.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,34 +89,34 @@
         "publishedAt": "2026-08-31T05:01:36.000Z"
       },
       {
+        "time": "12:47",
+        "title": "ネパール 遺体の身元特定が難航",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593840?source=rss",
+        "publishedAt": "2026-09-01T03:47:59.000Z"
+      },
+      {
         "time": "20:03",
         "title": "ネパール 900人トンネル閉じ込め",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593771?source=rss",
         "publishedAt": "2026-08-31T11:03:47.000Z"
-      },
-      {
-        "time": "12:49",
-        "title": "ネパール 離ればなれの母子が再会",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593734?source=rss",
-        "publishedAt": "2026-08-31T03:49:26.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "12:42",
+        "title": "長期金利一時3% 30年ぶり高水準",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593841?source=rss",
+        "publishedAt": "2026-09-01T03:42:42.000Z"
+      },
       {
         "time": "08:00",
         "title": "米財務長官 日銀の利上げを示唆か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593803?source=rss",
         "publishedAt": "2026-08-31T23:00:59.000Z"
-      },
-      {
-        "time": "11:11",
-        "title": "長期金利 一時2.990%の高い水準",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593830?source=rss",
-        "publishedAt": "2026-09-01T02:11:07.000Z"
       },
       {
         "time": "11:12",
@@ -126,18 +126,18 @@
         "publishedAt": "2026-09-01T02:12:38.000Z"
       },
       {
-        "time": "23:05",
-        "title": "信組不祥事 金融庁が検査拡充へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593788?source=rss",
-        "publishedAt": "2026-08-31T14:05:06.000Z"
-      },
-      {
         "time": "21:54",
         "title": "住宅ローン変動金利 2行引き上げ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593780?source=rss",
         "publishedAt": "2026-08-31T12:54:07.000Z"
+      },
+      {
+        "time": "13:01",
+        "title": "USJ拡張 市有地3ha賃貸で協議へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593842?source=rss",
+        "publishedAt": "2026-09-01T04:01:38.000Z"
       },
       {
         "time": "22:30",
@@ -226,7 +226,7 @@
       {
         "time": "16:44",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:44:56.000Z"
       }
