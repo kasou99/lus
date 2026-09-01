@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T21:15:28.345Z",
+  "updatedAt": "2026-09-01T21:37:01.136Z",
   "items": [
+    {
+      "time": "06:24",
+      "title": "青森県弘前市など大雨 1時間90mm",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593920?source=rss",
+      "publishedAt": "2026-09-01T21:24:49.000Z",
+      "xQuery": "青森県弘前市など大雨 1時間90mm"
+    },
     {
       "time": "23:18",
       "title": "防災庁を11月創設へ 課題は山積",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593915?source=rss",
       "publishedAt": "2026-09-01T14:18:59.000Z",
       "xQuery": "防災庁を11月創設へ 課題は山積"
-    },
-    {
-      "time": "20:51",
-      "title": "ラーメンの缶詰も 防災グッズ進化",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593898?source=rss",
-      "publishedAt": "2026-09-01T11:51:31.000Z",
-      "xQuery": "ラーメンの缶詰も 防災グッズ進化"
     },
     {
       "time": "23:33",
