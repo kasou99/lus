@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T11:36:50.047Z",
+  "updatedAt": "2026-09-01T12:27:06.529Z",
   "items": [
+    {
+      "time": "18:58",
+      "title": "生活道路の30km/h制限 周知に課題",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593887?source=rss",
+      "publishedAt": "2026-09-01T09:58:06.000Z",
+      "xQuery": "生活道路の30km/h制限 周知に課題"
+    },
     {
       "time": "16:43",
       "title": "ガソリン補助に6136億円 閣議決定",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ガソリン補助に6136億円 閣議決定"
     },
     {
-      "time": "18:10",
-      "title": "ネパール土石流 観光への影響懸念",
+      "time": "17:45",
+      "title": "秋山さん死去 宇宙から第一声話題",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593880?source=rss",
-      "publishedAt": "2026-09-01T09:10:16.000Z",
-      "xQuery": "ネパール土石流 観光への影響懸念"
+      "url": "https://news.yahoo.co.jp/pickup/6593877?source=rss",
+      "publishedAt": "2026-09-01T08:45:48.000Z",
+      "xQuery": "秋山さん死去 宇宙から第一声話題"
     },
     {
-      "time": "19:32",
-      "title": "悔しい 性被害訴える女性検事退職",
+      "time": "21:03",
+      "title": "車にはねられ女性死亡 75歳逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593891?source=rss",
-      "publishedAt": "2026-09-01T10:32:47.000Z",
-      "xQuery": "悔しい 性被害訴える女性検事退職"
+      "url": "https://news.yahoo.co.jp/pickup/6593900?source=rss",
+      "publishedAt": "2026-09-01T12:03:08.000Z",
+      "xQuery": "車にはねられ女性死亡 75歳逮捕"
     },
     {
-      "time": "17:25",
-      "title": "みんなで大家さん 事実上の終了へ",
+      "time": "20:30",
+      "title": "キユーピー マヨネーズなど値上げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593873?source=rss",
-      "publishedAt": "2026-09-01T08:25:20.000Z",
-      "xQuery": "みんなで大家さん 事実上の終了へ"
-    },
-    {
-      "time": "19:02",
-      "title": "上高地のバス大混雑 需要が過多",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593888?source=rss",
-      "publishedAt": "2026-09-01T10:02:29.000Z",
-      "xQuery": "上高地のバス大混雑 需要が過多"
+      "url": "https://news.yahoo.co.jp/pickup/6593895?source=rss",
+      "publishedAt": "2026-09-01T11:30:10.000Z",
+      "xQuery": "キユーピー マヨネーズなど値上げ"
     }
   ]
 };
