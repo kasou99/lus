@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T12:27:06.529Z",
+  "updatedAt": "2026-09-01T12:46:47.532Z",
   "items": [
     {
       "time": "18:58",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ガソリン補助に6136億円 閣議決定"
     },
     {
-      "time": "17:45",
-      "title": "秋山さん死去 宇宙から第一声話題",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593877?source=rss",
-      "publishedAt": "2026-09-01T08:45:48.000Z",
-      "xQuery": "秋山さん死去 宇宙から第一声話題"
-    },
-    {
       "time": "21:03",
       "title": "車にはねられ女性死亡 75歳逮捕",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593895?source=rss",
       "publishedAt": "2026-09-01T11:30:10.000Z",
       "xQuery": "キユーピー マヨネーズなど値上げ"
+    },
+    {
+      "time": "20:15",
+      "title": "図書館で大量の本が所在不明 宮城",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593894?source=rss",
+      "publishedAt": "2026-09-01T11:15:44.000Z",
+      "xQuery": "図書館で大量の本が所在不明 宮城"
     }
   ]
 };
