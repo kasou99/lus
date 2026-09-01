@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T10:40:04.481Z",
+  "updatedAt": "2026-09-01T11:16:28.186Z",
   "items": [
     {
       "time": "16:43",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール土石流 観光への影響懸念"
     },
     {
-      "time": "17:01",
-      "title": "小野田氏側は否定 公選法違反疑い",
+      "time": "19:32",
+      "title": "悔しい 性被害訴える女性検事退職",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593869?source=rss",
-      "publishedAt": "2026-09-01T08:01:58.000Z",
-      "xQuery": "小野田氏側は否定 公選法違反疑い"
-    },
-    {
-      "time": "17:58",
-      "title": "高校で車が横転 生徒の遺族が提訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593879?source=rss",
-      "publishedAt": "2026-09-01T08:58:04.000Z",
-      "xQuery": "高校で車が横転 生徒の遺族が提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6593891?source=rss",
+      "publishedAt": "2026-09-01T10:32:47.000Z",
+      "xQuery": "悔しい 性被害訴える女性検事退職"
     },
     {
       "time": "17:25",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593873?source=rss",
       "publishedAt": "2026-09-01T08:25:20.000Z",
       "xQuery": "みんなで大家さん 事実上の終了へ"
+    },
+    {
+      "time": "19:02",
+      "title": "上高地のバス大混雑 需要が過多",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593888?source=rss",
+      "publishedAt": "2026-09-01T10:02:29.000Z",
+      "xQuery": "上高地のバス大混雑 需要が過多"
     }
   ]
 };
