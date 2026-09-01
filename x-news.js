@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T21:37:01.136Z",
+  "updatedAt": "2026-09-01T22:15:09.343Z",
   "items": [
+    {
+      "time": "06:41",
+      "title": "米軍がイラン攻撃 革命防衛隊標的",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593922?source=rss",
+      "publishedAt": "2026-09-01T21:41:18.000Z",
+      "xQuery": "米軍がイラン攻撃 革命防衛隊標的"
+    },
     {
       "time": "06:24",
       "title": "青森県弘前市など大雨 1時間90mm",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593920?source=rss",
       "publishedAt": "2026-09-01T21:24:49.000Z",
       "xQuery": "青森県弘前市など大雨 1時間90mm"
-    },
-    {
-      "time": "23:18",
-      "title": "防災庁を11月創設へ 課題は山積",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593915?source=rss",
-      "publishedAt": "2026-09-01T14:18:59.000Z",
-      "xQuery": "防災庁を11月創設へ 課題は山積"
     },
     {
       "time": "23:33",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "フラット35 9月の適用金利3.46%"
     },
     {
+      "time": "07:13",
+      "title": "ホテル火災 放火疑い米旅行者逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593924?source=rss",
+      "publishedAt": "2026-09-01T22:13:10.000Z",
+      "xQuery": "ホテル火災 放火疑い米旅行者逮捕"
+    },
+    {
       "time": "21:50",
       "title": "「エクモ」で接続ミス 患者が重体",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593905?source=rss",
       "publishedAt": "2026-09-01T12:50:10.000Z",
       "xQuery": "「エクモ」で接続ミス 患者が重体"
-    },
-    {
-      "time": "21:34",
-      "title": "学歴ネタ動画 福島大の学長が反発",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593903?source=rss",
-      "publishedAt": "2026-09-01T12:34:11.000Z",
-      "xQuery": "学歴ネタ動画 福島大の学長が反発"
     }
   ]
 };
