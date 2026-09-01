@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T10:19:04.956Z",
+  "updatedAt": "2026-09-01T10:40:04.481Z",
   "items": [
     {
-      "time": "16:38",
-      "title": "9月も台風シーズン 日頃の備えを",
+      "time": "16:43",
+      "title": "ガソリン補助に6136億円 閣議決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593864?source=rss",
-      "publishedAt": "2026-09-01T07:38:31.000Z",
-      "xQuery": "9月も台風シーズン 日頃の備えを"
+      "url": "https://news.yahoo.co.jp/pickup/6593867?source=rss",
+      "publishedAt": "2026-09-01T07:43:51.000Z",
+      "xQuery": "ガソリン補助に6136億円 閣議決定"
     },
     {
       "time": "18:10",
