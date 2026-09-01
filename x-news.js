@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T04:21:13.739Z",
+  "updatedAt": "2026-09-01T04:41:21.591Z",
   "items": [
     {
       "time": "12:42",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール 遺体の身元特定が難航"
     },
     {
-      "time": "12:11",
-      "title": "秋山豊寛さん死去 90年に宇宙飛行",
+      "time": "13:01",
+      "title": "USJ拡張 市有地3ha賃貸で協議へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593838?source=rss",
-      "publishedAt": "2026-09-01T03:11:41.000Z",
-      "xQuery": "秋山豊寛さん死去 90年に宇宙飛行"
+      "url": "https://news.yahoo.co.jp/pickup/6593842?source=rss",
+      "publishedAt": "2026-09-01T04:01:38.000Z",
+      "xQuery": "USJ拡張 市有地3ha賃貸で協議へ"
     }
   ]
 };
