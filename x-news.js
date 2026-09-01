@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T05:39:15.099Z",
+  "updatedAt": "2026-09-01T06:32:24.572Z",
   "items": [
+    {
+      "time": "15:04",
+      "title": "ネパール・中国土石流 死者千人超",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593852?source=rss",
+      "publishedAt": "2026-09-01T06:04:57.000Z",
+      "xQuery": "ネパール・中国土石流 死者千人超"
+    },
     {
       "time": "12:33",
       "title": "防災の日 政府が震度7想定し訓練",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "防災の日 政府が震度7想定し訓練"
     },
     {
-      "time": "10:19",
-      "title": "米FTCと22州 アマゾンを提訴",
+      "time": "15:07",
+      "title": "残業一律抑制 9/1から取りやめ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593822?source=rss",
-      "publishedAt": "2026-09-01T01:19:46.000Z",
-      "xQuery": "米FTCと22州 アマゾンを提訴"
-    },
-    {
-      "time": "12:47",
-      "title": "ネパール 遺体の身元特定が難航",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593840?source=rss",
-      "publishedAt": "2026-09-01T03:47:59.000Z",
-      "xQuery": "ネパール 遺体の身元特定が難航"
+      "url": "https://news.yahoo.co.jp/pickup/6593850?source=rss",
+      "publishedAt": "2026-09-01T06:07:42.000Z",
+      "xQuery": "残業一律抑制 9/1から取りやめ"
     },
     {
       "time": "14:18",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ドリスコル米陸軍長官 辞表を提出"
     },
     {
-      "time": "13:01",
-      "title": "USJ拡張 市有地3ha賃貸で協議へ",
+      "time": "10:19",
+      "title": "米FTCと22州 アマゾンを提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593842?source=rss",
-      "publishedAt": "2026-09-01T04:01:38.000Z",
-      "xQuery": "USJ拡張 市有地3ha賃貸で協議へ"
+      "url": "https://news.yahoo.co.jp/pickup/6593822?source=rss",
+      "publishedAt": "2026-09-01T01:19:46.000Z",
+      "xQuery": "米FTCと22州 アマゾンを提訴"
     }
   ]
 };
