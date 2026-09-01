@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T08:26:28.383Z",
+  "updatedAt": "2026-09-01T08:45:02.615Z",
   "items": [
     {
       "time": "16:38",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "残業一律抑制 9/1から取りやめ"
     },
     {
-      "time": "16:24",
-      "title": "人口約300人の島 村長選に変化",
+      "time": "17:25",
+      "title": "みんなで大家さん 事実上の終了へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593863?source=rss",
-      "publishedAt": "2026-09-01T07:24:51.000Z",
-      "xQuery": "人口約300人の島 村長選に変化"
+      "url": "https://news.yahoo.co.jp/pickup/6593873?source=rss",
+      "publishedAt": "2026-09-01T08:25:20.000Z",
+      "xQuery": "みんなで大家さん 事実上の終了へ"
     }
   ]
 };
