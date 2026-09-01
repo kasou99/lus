@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T08:45:01.970Z",
+  "updatedAt": "2026-09-01T09:21:16.991Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -20,7 +20,7 @@
         "time": "15:30",
         "title": "オーネックス、産業工作機械関連が好調に推移し売上増 コスト削減や生産効率化に取り組み収益体質の強化を図る",
         "source": "みんかぶ",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBVOWU2Y01ZUkduRXZmQWFWT0o0QXl5bXNxNlJUQ1ozRHpDUVd6N3IxbENSUzFheWg0ZUpkZ2Z3aWZmWWszNGc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jZUFkMzFobFVsNXpWSUpuRjltdUhXeVVUWVhIVjVxRTRvZ084d2tQTm9Wc0o2MWFyWHZUcnZwanVXaXNFSURVRA?oc=5",
         "publishedAt": "2026-09-01T06:30:01.000Z"
       },
       {
@@ -75,6 +75,13 @@
         "publishedAt": "2026-09-01T06:04:57.000Z"
       },
       {
+        "time": "18:10",
+        "title": "ネパール土石流 観光への影響懸念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593880?source=rss",
+        "publishedAt": "2026-09-01T09:10:16.000Z"
+      },
+      {
         "time": "12:47",
         "title": "ネパール 遺体の身元特定が難航",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593816?source=rss",
         "publishedAt": "2026-09-01T00:39:52.000Z"
-      },
-      {
-        "time": "10:31",
-        "title": "グランドキャニオン土石流2人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593823?source=rss",
-        "publishedAt": "2026-09-01T01:31:02.000Z"
       }
     ],
     "economyHeadlines": [
@@ -177,11 +177,11 @@
         "publishedAt": "2026-08-31T09:52:10.000Z"
       },
       {
-        "time": "09:54",
-        "title": "高校で車横転 生徒の遺族が提訴へ",
+        "time": "17:58",
+        "title": "高校で車が横転 生徒の遺族が提訴",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593821?source=rss",
-        "publishedAt": "2026-09-01T00:54:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593879?source=rss",
+        "publishedAt": "2026-09-01T08:58:04.000Z"
       },
       {
         "time": "07:31",
@@ -226,7 +226,7 @@
       {
         "time": "16:44",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:44:56.000Z"
       }

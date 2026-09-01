@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T08:45:02.615Z",
+  "updatedAt": "2026-09-01T09:21:17.655Z",
   "items": [
     {
       "time": "16:38",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "9月も台風シーズン 日頃の備えを"
     },
     {
-      "time": "15:04",
-      "title": "ネパール・中国土石流 死者千人超",
+      "time": "18:10",
+      "title": "ネパール土石流 観光への影響懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593852?source=rss",
-      "publishedAt": "2026-09-01T06:04:57.000Z",
-      "xQuery": "ネパール・中国土石流 死者千人超"
+      "url": "https://news.yahoo.co.jp/pickup/6593880?source=rss",
+      "publishedAt": "2026-09-01T09:10:16.000Z",
+      "xQuery": "ネパール土石流 観光への影響懸念"
     },
     {
       "time": "17:01",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "小野田氏側は否定 公選法違反疑い"
     },
     {
-      "time": "15:07",
-      "title": "残業一律抑制 9/1から取りやめ",
+      "time": "17:58",
+      "title": "高校で車が横転 生徒の遺族が提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593850?source=rss",
-      "publishedAt": "2026-09-01T06:07:42.000Z",
-      "xQuery": "残業一律抑制 9/1から取りやめ"
+      "url": "https://news.yahoo.co.jp/pickup/6593879?source=rss",
+      "publishedAt": "2026-09-01T08:58:04.000Z",
+      "xQuery": "高校で車が横転 生徒の遺族が提訴"
     },
     {
       "time": "17:25",
