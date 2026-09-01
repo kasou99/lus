@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T13:18:21.875Z",
+  "updatedAt": "2026-09-01T13:38:26.010Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,13 +156,6 @@
         "publishedAt": "2026-08-31T14:46:29.000Z"
       },
       {
-        "time": "17:58",
-        "title": "高校で車が横転 生徒の遺族が提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593879?source=rss",
-        "publishedAt": "2026-09-01T08:58:04.000Z"
-      },
-      {
         "time": "19:32",
         "title": "悔しい 性被害訴える女性検事退職",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593888?source=rss",
         "publishedAt": "2026-09-01T10:02:29.000Z"
+      },
+      {
+        "time": "21:34",
+        "title": "学歴ネタ動画 福島大の学長が反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593903?source=rss",
+        "publishedAt": "2026-09-01T12:34:11.000Z"
       }
     ],
     "subsidyHeadlines": [
