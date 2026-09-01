@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T00:59:11.003Z",
+  "updatedAt": "2026-09-01T01:37:12.061Z",
   "items": [
     {
-      "time": "08:33",
-      "title": "9月も厳しい残暑 熱中症に警戒",
+      "time": "10:23",
+      "title": "長期金利 一時2.970%の高い水準",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593807?source=rss",
-      "publishedAt": "2026-08-31T23:33:00.000Z",
-      "xQuery": "9月も厳しい残暑 熱中症に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6593825?source=rss",
+      "publishedAt": "2026-09-01T01:23:10.000Z",
+      "xQuery": "長期金利 一時2.970%の高い水準"
     },
     {
-      "time": "09:39",
-      "title": "長期金利一時2.955% 30年ぶり水準",
+      "time": "07:56",
+      "title": "歌舞伎町ビル火災25年 遺族が慰霊",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593818?source=rss",
-      "publishedAt": "2026-09-01T00:39:37.000Z",
-      "xQuery": "長期金利一時2.955% 30年ぶり水準"
+      "url": "https://news.yahoo.co.jp/pickup/6593804?source=rss",
+      "publishedAt": "2026-08-31T22:56:35.000Z",
+      "xQuery": "歌舞伎町ビル火災25年 遺族が慰霊"
     },
     {
       "time": "09:39",

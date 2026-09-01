@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-01T00:59:10.304Z",
+  "updatedAt": "2026-09-01T01:37:11.245Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "09:15",
-        "title": "工作機械メーカーの堅調な業績に期待 人手不足を受けて工場自動化への投資拡大 - online.nikkei-cnbc.co.jp",
-        "source": "online.nikkei-cnbc.co.jp",
+        "title": "工作機械メーカーの堅調な業績に期待 人手不足を受けて工場自動化への投資拡大",
+        "source": "日経CNBC online",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LZU9JREdoUkYzcVo3TDRiMENkU2ZjU1lhVk5OS3VxOUNnY0k5X2pYUE1jelhNd3BESmg2V1I0bnI1anJ4ZE9ZY3A0TEFTVER1ZmE0OA?oc=5",
         "publishedAt": "2026-09-01T00:15:00.000Z"
       },
@@ -26,7 +26,7 @@
       {
         "time": "07:26",
         "title": "「社員年収700万円」を目標にDX、社内の定型業務の約9割を自動化。愛知の制御盤メーカーが気づいた「効率化だけでは変わらない」理由",
-        "source": "DXマガジン",
+        "source": "dxmagazine.jp",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tdU9SZjFUTVZBaUFGdTY0VDBKZUxPTTJrVDlhS0tjQnotNVZFSktzd284X29hM2FLRFFLN0R3eTAxcFloS2ZuSzdDMlA?oc=5",
         "publishedAt": "2026-08-31T22:26:19.000Z"
       },
@@ -40,7 +40,7 @@
       {
         "time": "09:33",
         "title": "DINレール直付けRJ45カップラ「Smart Meter Coupler」新発売",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NUHN5NjU0cDEtb0FGcFlsbnp4MWlVUVc4TW1kZzY5MW1lSmNqNmR3aDhUR1hQbG5SQXhXaU1XbmUzcEZld3gwUjU4ZkRmQS1mZk1kS3ByQVJES21ZQjdTa2VFUzlTQUVSbXFzQmRsa00zVDJna1FDVkI2cw?oc=5",
         "publishedAt": "2026-09-01T00:33:21.000Z"
       },
@@ -54,7 +54,7 @@
       {
         "time": "16:15",
         "title": "【制御盤、まだ手配線ですか!?】製造業の人手不足を救う「配線の基板化」で配線工数を最大90％削減",
-        "source": "Excite エキサイト",
+        "source": "excite.co.jp",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oYlBTM1ZVVXRYNERjYUlrMTZXMjdDMmdZenFtUlY3SUo0OFo5UnhyaEd1bGx2dEN1VDZfejhNZ2VYVlZLU2tKM0M2eW52bkFKTnpXeXVnTGFsenpVdXotdWZOOHQzc1dtZnRBTExtOGxJZ24tN0VLdzNpZUtZSHc?oc=5",
         "publishedAt": "2026-08-31T07:15:00.000Z"
       }
@@ -112,11 +112,11 @@
         "publishedAt": "2026-08-31T23:00:59.000Z"
       },
       {
-        "time": "09:39",
-        "title": "長期金利一時2.955% 30年ぶり水準",
+        "time": "10:23",
+        "title": "長期金利 一時2.970%の高い水準",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593818?source=rss",
-        "publishedAt": "2026-09-01T00:39:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593825?source=rss",
+        "publishedAt": "2026-09-01T01:23:10.000Z"
       },
       {
         "time": "23:05",
