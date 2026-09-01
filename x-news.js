@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T09:21:17.655Z",
+  "updatedAt": "2026-09-01T09:40:46.316Z",
   "items": [
     {
       "time": "16:38",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "小野田氏側は否定 公選法違反疑い"
     },
     {
+      "time": "17:45",
+      "title": "秋山さん死去 宇宙から第一声話題",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593877?source=rss",
+      "publishedAt": "2026-09-01T08:45:48.000Z",
+      "xQuery": "秋山さん死去 宇宙から第一声話題"
+    },
+    {
       "time": "17:58",
       "title": "高校で車が横転 生徒の遺族が提訴",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593879?source=rss",
       "publishedAt": "2026-09-01T08:58:04.000Z",
       "xQuery": "高校で車が横転 生徒の遺族が提訴"
-    },
-    {
-      "time": "17:25",
-      "title": "みんなで大家さん 事実上の終了へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593873?source=rss",
-      "publishedAt": "2026-09-01T08:25:20.000Z",
-      "xQuery": "みんなで大家さん 事実上の終了へ"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T09:21:16.991Z",
+  "updatedAt": "2026-09-01T09:40:45.583Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -133,18 +133,18 @@
         "publishedAt": "2026-09-01T02:12:38.000Z"
       },
       {
+        "time": "18:20",
+        "title": "大阪メトロ路線バスEV化見直しへ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593883?source=rss",
+        "publishedAt": "2026-09-01T09:20:10.000Z"
+      },
+      {
         "time": "17:25",
         "title": "みんなで大家さん 事実上の終了へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593873?source=rss",
         "publishedAt": "2026-09-01T08:25:20.000Z"
-      },
-      {
-        "time": "12:21",
-        "title": "「働きたい年齢」平均62歳に 調査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593834?source=rss",
-        "publishedAt": "2026-09-01T03:21:31.000Z"
       }
     ],
     "localHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:44",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:44:56.000Z"
       }
