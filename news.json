@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-01T14:39:50.214Z",
+  "updatedAt": "2026-09-01T15:24:12.974Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "13:35",
         "title": "冨士ダイス",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVVpHT3cwc04zSVA4d3RGTzFhQzB4cEtyeDVjdGNwbzVBdml3WU9YM0oxT21aRHN1M2VfMVdVVDJBQWYwSWN0azhxQ2NWemJnSExKZFB3M2NoZFpQSFhHZkNMX0hOWFh0QXNhaV9QbEQ5WnRINmVLTkFwcXVWenpVU1BBdEx1OXNJZG85N0VmRWRrNTd2dUh5UXg0c3ZCWmEyMmQ1NnJRMGpEcmlMa3NqX0UxLVJtTENRSjJBOGRmR19CUHQwbjBpTk5hX3A?oc=5",
         "publishedAt": "2026-09-01T04:35:24.000Z"
       },
@@ -17,6 +17,13 @@
         "publishedAt": "2026-09-01T05:35:52.000Z"
       },
       {
+        "time": "16:40",
+        "title": "日立製作所が設備保全向けフィジカルAIを開発、音や振動を自然言語で解析し異常診断を効率化 1枚目の写真・画像",
+        "source": "ロボスタ",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yUnI4U0NCWjllaFhSUE5QTURyZGdTUFZIU2p6SmFPOW1wS0Exd2MySlhoZTFKMTdWOEhTRTRLSGJTcDBTT0VYc1BicWxUWFN1OGZnTkNraW9zZ0tCbGh6OW8zU2ZYT0NoWXJlTl9fQjVNY2s?oc=5",
+        "publishedAt": "2026-09-01T07:40:03.000Z"
+      },
+      {
         "time": "15:30",
         "title": "オーネックス、産業工作機械関連が好調に推移し売上増 コスト削減や生産効率化に取り組み収益体質の強化を図る",
         "source": "みんかぶ",
@@ -26,16 +33,9 @@
       {
         "time": "18:15",
         "title": "診断業務を効率化する設備保全向けフィジカルAI技術を開発",
-        "source": "jiji.com",
+        "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yODhBRjRaOGdLTVJ2a09oYzJKN3JuaHMySmQ1WHdCcnY0RmdORlNNZnRvOEFUa2wxYTdYc0owUUZHc0tKRWtkbVpNZ0RjNWlvRUdPdGFIQXE1Q3NwZ2N2TXBKa1ZFemUxNlhN?oc=5",
         "publishedAt": "2026-09-01T09:15:00.000Z"
-      },
-      {
-        "time": "16:54",
-        "title": "日立製作所が設備保全向けフィジカルAIを開発、音や振動を自然言語で解析し異常診断を効率化",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96Nm1pNXJoaENUaVZKMkxuXzg2UjRzZUw2Zmp1Tzk4VTBhcHhaRV9vNTRTaDd4T2Q2eTZDdnp4WldxVWNWUXpmTThJeHBCcnRqbWdFLWdzcEM1OVBDZGNDOExseU8wWkxDTmk5RkpR?oc=5",
-        "publishedAt": "2026-09-01T07:54:52.000Z"
       },
       {
         "time": "09:15",
@@ -46,8 +46,8 @@
       },
       {
         "time": "05:14",
-        "title": "上場企業分析 今期売上高２６００億円狙う オークマ 工作機械受注を拡大へ ＡＩ、半導体関連がけん引 収益力向上には課題も",
-        "source": "中部経済新聞",
+        "title": "上場企業分析 今期売上高２６００億円狙う オークマ 工作機械受注を拡大へ ＡＩ、半導体関連がけん引 収益力向上には課題も - chukei-news.co.jp",
+        "source": "chukei-news.co.jp",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82a0ZUUDBZeGktTFNEQ2VqZGFGVzMxazRJd2FoYXo0Y01TampGYjdXbDRPamtFblA0MDZ0N2hRYmdCRzd1ZXctMFFDNG9Xb1RTU2FnNkxKdU9teV9yTXBzVlNhcGVqNEVLY3N5eThaVEtLOHM?oc=5",
         "publishedAt": "2026-08-31T20:14:04.000Z"
       },

@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T14:39:51.070Z",
+  "updatedAt": "2026-09-01T15:24:13.880Z",
   "items": [
     {
-      "time": "18:58",
-      "title": "生活道路の30km/h制限 周知に課題",
+      "time": "23:18",
+      "title": "防災庁を11月創設へ 課題は山積",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593887?source=rss",
-      "publishedAt": "2026-09-01T09:58:06.000Z",
-      "xQuery": "生活道路の30km/h制限 周知に課題"
+      "url": "https://news.yahoo.co.jp/pickup/6593915?source=rss",
+      "publishedAt": "2026-09-01T14:18:59.000Z",
+      "xQuery": "防災庁を11月創設へ 課題は山積"
     },
     {
       "time": "20:51",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ラーメンの缶詰も 防災グッズ進化"
     },
     {
-      "time": "23:10",
-      "title": "スターマー英前首相 議員辞職へ",
+      "time": "23:33",
+      "title": "フラット35 9月の適用金利3.46%",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593914?source=rss",
-      "publishedAt": "2026-09-01T14:10:58.000Z",
-      "xQuery": "スターマー英前首相 議員辞職へ"
+      "url": "https://news.yahoo.co.jp/pickup/6593916?source=rss",
+      "publishedAt": "2026-09-01T14:33:57.000Z",
+      "xQuery": "フラット35 9月の適用金利3.46%"
     },
     {
       "time": "21:50",
