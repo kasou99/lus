@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-08-31T23:37:10.778Z",
+  "updatedAt": "2026-09-01T00:59:11.003Z",
   "items": [
     {
-      "time": "07:30",
-      "title": "中道分裂へ 急ごしらえで限界露呈",
+      "time": "08:33",
+      "title": "9月も厳しい残暑 熱中症に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593799?source=rss",
-      "publishedAt": "2026-08-31T22:30:01.000Z",
-      "xQuery": "中道分裂へ 急ごしらえで限界露呈"
+      "url": "https://news.yahoo.co.jp/pickup/6593807?source=rss",
+      "publishedAt": "2026-08-31T23:33:00.000Z",
+      "xQuery": "9月も厳しい残暑 熱中症に警戒"
     },
     {
-      "time": "08:00",
-      "title": "米財務長官 日銀の利上げを示唆か",
+      "time": "09:39",
+      "title": "長期金利一時2.955% 30年ぶり水準",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593803?source=rss",
-      "publishedAt": "2026-08-31T23:00:59.000Z",
-      "xQuery": "米財務長官 日銀の利上げを示唆か"
+      "url": "https://news.yahoo.co.jp/pickup/6593818?source=rss",
+      "publishedAt": "2026-09-01T00:39:37.000Z",
+      "xQuery": "長期金利一時2.955% 30年ぶり水準"
     },
     {
-      "time": "23:46",
-      "title": "和菓子店の店主死亡 トクリュウか",
+      "time": "09:39",
+      "title": "旧統一教会解散 韓国でも現実味",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593793?source=rss",
-      "publishedAt": "2026-08-31T14:46:29.000Z",
-      "xQuery": "和菓子店の店主死亡 トクリュウか"
+      "url": "https://news.yahoo.co.jp/pickup/6593816?source=rss",
+      "publishedAt": "2026-09-01T00:39:52.000Z",
+      "xQuery": "旧統一教会解散 韓国でも現実味"
     },
     {
       "time": "07:31",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車2台が正面衝突し1人死亡 男逮捕"
     },
     {
-      "time": "06:39",
-      "title": "三重の商店街火災 ほぼ全焼か",
+      "time": "09:54",
+      "title": "高校で車横転 生徒の遺族が提訴へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593797?source=rss",
-      "publishedAt": "2026-08-31T21:39:28.000Z",
-      "xQuery": "三重の商店街火災 ほぼ全焼か"
+      "url": "https://news.yahoo.co.jp/pickup/6593821?source=rss",
+      "publishedAt": "2026-09-01T00:54:26.000Z",
+      "xQuery": "高校で車横転 生徒の遺族が提訴へ"
     }
   ]
 };
