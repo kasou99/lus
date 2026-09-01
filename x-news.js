@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T06:32:24.572Z",
+  "updatedAt": "2026-09-01T07:20:21.990Z",
   "items": [
     {
       "time": "15:04",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "残業一律抑制 9/1から取りやめ"
     },
     {
-      "time": "14:18",
-      "title": "ドリスコル米陸軍長官 辞表を提出",
+      "time": "13:31",
+      "title": "中国 南米の生活に根を張る理由は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593848?source=rss",
-      "publishedAt": "2026-09-01T05:18:04.000Z",
-      "xQuery": "ドリスコル米陸軍長官 辞表を提出"
+      "url": "https://news.yahoo.co.jp/pickup/6593837?source=rss",
+      "publishedAt": "2026-09-01T04:31:19.000Z",
+      "xQuery": "中国 南米の生活に根を張る理由は"
     },
     {
-      "time": "10:19",
-      "title": "米FTCと22州 アマゾンを提訴",
+      "time": "15:38",
+      "title": "米でもクマの出没が急増 餌不足",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593822?source=rss",
-      "publishedAt": "2026-09-01T01:19:46.000Z",
-      "xQuery": "米FTCと22州 アマゾンを提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6593854?source=rss",
+      "publishedAt": "2026-09-01T06:38:11.000Z",
+      "xQuery": "米でもクマの出没が急増 餌不足"
     }
   ]
 };
