@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T12:46:47.532Z",
+  "updatedAt": "2026-09-01T13:18:22.609Z",
   "items": [
     {
       "time": "18:58",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "生活道路の30km/h制限 周知に課題"
     },
     {
-      "time": "16:43",
-      "title": "ガソリン補助に6136億円 閣議決定",
+      "time": "20:51",
+      "title": "ラーメンの缶詰も 防災グッズ進化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593867?source=rss",
-      "publishedAt": "2026-09-01T07:43:51.000Z",
-      "xQuery": "ガソリン補助に6136億円 閣議決定"
+      "url": "https://news.yahoo.co.jp/pickup/6593898?source=rss",
+      "publishedAt": "2026-09-01T11:51:31.000Z",
+      "xQuery": "ラーメンの缶詰も 防災グッズ進化"
+    },
+    {
+      "time": "21:50",
+      "title": "「エクモ」で接続ミス 患者が重体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593905?source=rss",
+      "publishedAt": "2026-09-01T12:50:10.000Z",
+      "xQuery": "「エクモ」で接続ミス 患者が重体"
     },
     {
       "time": "21:03",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車にはねられ女性死亡 75歳逮捕"
     },
     {
-      "time": "20:30",
-      "title": "キユーピー マヨネーズなど値上げ",
+      "time": "21:34",
+      "title": "学歴ネタ動画 福島大の学長が反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593895?source=rss",
-      "publishedAt": "2026-09-01T11:30:10.000Z",
-      "xQuery": "キユーピー マヨネーズなど値上げ"
-    },
-    {
-      "time": "20:15",
-      "title": "図書館で大量の本が所在不明 宮城",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593894?source=rss",
-      "publishedAt": "2026-09-01T11:15:44.000Z",
-      "xQuery": "図書館で大量の本が所在不明 宮城"
+      "url": "https://news.yahoo.co.jp/pickup/6593903?source=rss",
+      "publishedAt": "2026-09-01T12:34:11.000Z",
+      "xQuery": "学歴ネタ動画 福島大の学長が反発"
     }
   ]
 };
