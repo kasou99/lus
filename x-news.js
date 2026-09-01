@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T14:18:42.251Z",
+  "updatedAt": "2026-09-01T14:39:51.070Z",
   "items": [
     {
       "time": "18:58",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ラーメンの缶詰も 防災グッズ進化"
     },
     {
+      "time": "23:10",
+      "title": "スターマー英前首相 議員辞職へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593914?source=rss",
+      "publishedAt": "2026-09-01T14:10:58.000Z",
+      "xQuery": "スターマー英前首相 議員辞職へ"
+    },
+    {
       "time": "21:50",
       "title": "「エクモ」で接続ミス 患者が重体",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593905?source=rss",
       "publishedAt": "2026-09-01T12:50:10.000Z",
       "xQuery": "「エクモ」で接続ミス 患者が重体"
-    },
-    {
-      "time": "21:03",
-      "title": "車にはねられ女性死亡 75歳逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593900?source=rss",
-      "publishedAt": "2026-09-01T12:03:08.000Z",
-      "xQuery": "車にはねられ女性死亡 75歳逮捕"
     },
     {
       "time": "21:34",
