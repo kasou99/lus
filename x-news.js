@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T02:26:43.995Z",
+  "updatedAt": "2026-09-01T02:45:37.140Z",
   "items": [
     {
-      "time": "11:11",
-      "title": "長期金利 一時2.990%の高い水準",
+      "time": "11:34",
+      "title": "台風24号発生 週後半は大雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593830?source=rss",
-      "publishedAt": "2026-09-01T02:11:07.000Z",
-      "xQuery": "長期金利 一時2.990%の高い水準"
+      "url": "https://news.yahoo.co.jp/pickup/6593833?source=rss",
+      "publishedAt": "2026-09-01T02:34:13.000Z",
+      "xQuery": "台風24号発生 週後半は大雨の恐れ"
     },
     {
-      "time": "07:56",
-      "title": "歌舞伎町ビル火災25年 遺族が慰霊",
+      "time": "07:47",
+      "title": "やさしい日本語 熊本地震でも活用",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593804?source=rss",
-      "publishedAt": "2026-08-31T22:56:35.000Z",
-      "xQuery": "歌舞伎町ビル火災25年 遺族が慰霊"
+      "url": "https://news.yahoo.co.jp/pickup/6593802?source=rss",
+      "publishedAt": "2026-08-31T22:47:26.000Z",
+      "xQuery": "やさしい日本語 熊本地震でも活用"
     },
     {
       "time": "11:12",
