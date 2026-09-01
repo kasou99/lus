@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T07:20:21.990Z",
+  "updatedAt": "2026-09-01T07:40:38.499Z",
   "items": [
     {
       "time": "15:04",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "残業一律抑制 9/1から取りやめ"
     },
     {
-      "time": "13:31",
-      "title": "中国 南米の生活に根を張る理由は",
+      "time": "16:24",
+      "title": "人口約300人の島 村長選に変化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593837?source=rss",
-      "publishedAt": "2026-09-01T04:31:19.000Z",
-      "xQuery": "中国 南米の生活に根を張る理由は"
+      "url": "https://news.yahoo.co.jp/pickup/6593863?source=rss",
+      "publishedAt": "2026-09-01T07:24:51.000Z",
+      "xQuery": "人口約300人の島 村長選に変化"
     },
     {
-      "time": "15:38",
-      "title": "米でもクマの出没が急増 餌不足",
+      "time": "15:52",
+      "title": "スシローNY店開業へ 1皿800円〜",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593854?source=rss",
-      "publishedAt": "2026-09-01T06:38:11.000Z",
-      "xQuery": "米でもクマの出没が急増 餌不足"
+      "url": "https://news.yahoo.co.jp/pickup/6593860?source=rss",
+      "publishedAt": "2026-09-01T06:52:16.000Z",
+      "xQuery": "スシローNY店開業へ 1皿800円〜"
     }
   ]
 };
