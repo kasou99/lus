@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T04:22:55.850Z",
+  "updatedAt": "2026-09-02T04:42:27.905Z",
   "items": [
     {
       "time": "12:10",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "合流頓挫の中道 立憲系の動向焦点"
     },
     {
-      "time": "09:18",
-      "title": "マスク氏がEUを批判 G20関連会合",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593941?source=rss",
-      "publishedAt": "2026-09-02T00:18:22.000Z",
-      "xQuery": "マスク氏がEUを批判 G20関連会合"
-    },
-    {
       "time": "11:36",
       "title": "露大統領 関係悪化は日本に全責任",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "露大統領 関係悪化は日本に全責任"
     },
     {
-      "time": "12:03",
-      "title": "車田正美さん 28億円賠償求め提訴",
+      "time": "09:18",
+      "title": "マスク氏がEUを批判 G20関連会合",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593960?source=rss",
-      "publishedAt": "2026-09-02T03:03:01.000Z",
-      "xQuery": "車田正美さん 28億円賠償求め提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6593941?source=rss",
+      "publishedAt": "2026-09-02T00:18:22.000Z",
+      "xQuery": "マスク氏がEUを批判 G20関連会合"
     },
     {
-      "time": "12:47",
-      "title": "「街の顔」百貨店の閉店加速 背景",
+      "time": "13:07",
+      "title": "GoPro 米企業に株式90%売却へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593962?source=rss",
-      "publishedAt": "2026-09-02T03:47:55.000Z",
-      "xQuery": "「街の顔」百貨店の閉店加速 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6593966?source=rss",
+      "publishedAt": "2026-09-02T04:07:02.000Z",
+      "xQuery": "GoPro 米企業に株式90%売却へ"
+    },
+    {
+      "time": "13:37",
+      "title": "犬のヤギ襲撃 宮古島市で今年突出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593968?source=rss",
+      "publishedAt": "2026-09-02T04:37:53.000Z",
+      "xQuery": "犬のヤギ襲撃 宮古島市で今年突出"
     }
   ]
 };

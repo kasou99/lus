@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T04:22:54.903Z",
+  "updatedAt": "2026-09-02T04:42:27.089Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-09-01T06:30:01.000Z"
       },
       {
-        "time": "13:30",
-        "title": "冨士ダイス[6167]：JIMTOF2026（第33回日本国際工作機械見本市）に出展、初公開となる新材種を含む当社製品を展示 2026年9月1日(適時開示) ：日経会社情報DIGITAL",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ybzFkVXNnNk1yaXhKVmcyWTJrQ0ZyYlFHZzExQ2pNZGtTV2J4UDdDdlQzZDZ6UVlHdXhIWlZYNV9WQUw2bGJUUUhNUEFtaE8zX1ZBOUx3UDF1a0dGOEpHU1FHdlRNTU8xZnc?oc=5",
-        "publishedAt": "2026-09-01T04:30:00.000Z"
-      },
-      {
         "time": "18:15",
         "title": "JIMTOF2026（第33回日本国際工作機械見本市）に出展、初公開となる新材種を含む当社製品を展示",
         "source": "Infoseek",
@@ -57,6 +50,13 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNZ0pHdGw2NUFjZ0pvRXFsVTY0SHlxVkVvQnRfRWozY1FUckFRejE0cDM0Mm1TTUNVcmFPSzljOENrUzNuZlM2dXlFanItYWRFV0lYNkpudFR3Xzd0LWxrbW55eHEyenNCSHc?oc=5",
         "publishedAt": "2026-09-01T06:00:02.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "ヤマト、小型家電回収を実証 徳島で宅配網活用",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54MUZhaGluN0NNdDExMmlYbnpFcVZwMFJxT1k3YTBiWkdibFJmX2dxWDBqZ3B4bGRZTV9xdGFTcENmU2N4bFdhTDFkcmI0ZU5qUkJYX25Dak4?oc=5",
+        "publishedAt": "2026-09-01T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-09-01T10:32:47.000Z"
       },
       {
+        "time": "13:37",
+        "title": "犬のヤギ襲撃 宮古島市で今年突出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593968?source=rss",
+        "publishedAt": "2026-09-02T04:37:53.000Z"
+      },
+      {
         "time": "21:50",
         "title": "「エクモ」で接続ミス 患者が重体",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593934?source=rss",
         "publishedAt": "2026-09-01T23:17:52.000Z"
-      },
-      {
-        "time": "21:34",
-        "title": "学歴ネタ動画 福島大の学長が反発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593903?source=rss",
-        "publishedAt": "2026-09-01T12:34:11.000Z"
       }
     ],
     "subsidyHeadlines": [
