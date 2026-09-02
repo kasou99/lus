@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-01T23:36:53.990Z",
+  "updatedAt": "2026-09-02T00:49:52.115Z",
   "items": [
     {
-      "time": "07:44",
-      "title": "ウ大統領 ロシア領空は事実上閉鎖",
+      "time": "08:54",
+      "title": "ネパール土石流 時速167kmか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593929?source=rss",
-      "publishedAt": "2026-09-01T22:44:23.000Z",
-      "xQuery": "ウ大統領 ロシア領空は事実上閉鎖"
+      "url": "https://news.yahoo.co.jp/pickup/6593938?source=rss",
+      "publishedAt": "2026-09-01T23:54:26.000Z",
+      "xQuery": "ネパール土石流 時速167kmか"
+    },
+    {
+      "time": "08:46",
+      "title": "日本郵便の取材回答 総務省介入か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593937?source=rss",
+      "publishedAt": "2026-09-01T23:46:49.000Z",
+      "xQuery": "日本郵便の取材回答 総務省介入か"
     },
     {
       "time": "07:46",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "SBエナジー 米国でIPOを申請"
     },
     {
-      "time": "08:05",
-      "title": "厳しい残暑 熊本など猛暑日の予想",
+      "time": "08:23",
+      "title": "ツムラが「養命酒製造」買収完了",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593932?source=rss",
-      "publishedAt": "2026-09-01T23:05:16.000Z",
-      "xQuery": "厳しい残暑 熊本など猛暑日の予想"
+      "url": "https://news.yahoo.co.jp/pickup/6593936?source=rss",
+      "publishedAt": "2026-09-01T23:23:34.000Z",
+      "xQuery": "ツムラが「養命酒製造」買収完了"
     },
     {
       "time": "07:26",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593927?source=rss",
       "publishedAt": "2026-09-01T22:26:35.000Z",
       "xQuery": "ホテルに放火疑い 米旅行者を逮捕"
-    },
-    {
-      "time": "08:17",
-      "title": "鳥取県職員が阿部寛まねPR 反響",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593934?source=rss",
-      "publishedAt": "2026-09-01T23:17:52.000Z",
-      "xQuery": "鳥取県職員が阿部寛まねPR 反響"
     }
   ]
 };
