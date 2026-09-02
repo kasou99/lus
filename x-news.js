@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T22:37:34.078Z",
+  "updatedAt": "2026-09-02T23:14:42.649Z",
   "items": [
     {
       "time": "06:29",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "自民の鈴木幹事長続投へ 首相意向"
     },
     {
-      "time": "21:43",
-      "title": "上皇さまの葬儀規模 大幅縮小検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594027?source=rss",
-      "publishedAt": "2026-09-02T12:43:30.000Z",
-      "xQuery": "上皇さまの葬儀規模 大幅縮小検討"
-    },
-    {
       "time": "06:14",
       "title": "「匿流」スマホ遠隔解析へ 提言",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594038?source=rss",
       "publishedAt": "2026-09-02T21:14:43.000Z",
       "xQuery": "「匿流」スマホ遠隔解析へ 提言"
+    },
+    {
+      "time": "07:57",
+      "title": "ウーバー 世界従業員の1割削減へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594050?source=rss",
+      "publishedAt": "2026-09-02T22:57:20.000Z",
+      "xQuery": "ウーバー 世界従業員の1割削減へ"
     },
     {
       "time": "07:20",
