@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T21:37:37.355Z",
+  "updatedAt": "2026-09-02T22:16:27.469Z",
   "items": [
     {
       "time": "06:29",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風と秋雨前線 大雨長期化の恐れ"
     },
     {
-      "time": "06:14",
-      "title": "「匿流」スマホ遠隔解析へ 提言",
+      "time": "06:58",
+      "title": "自民の鈴木幹事長続投へ 首相意向",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594038?source=rss",
-      "publishedAt": "2026-09-02T21:14:43.000Z",
-      "xQuery": "「匿流」スマホ遠隔解析へ 提言"
-    },
-    {
-      "time": "21:38",
-      "title": "学校以外の居場所 様々な選択肢",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594000?source=rss",
-      "publishedAt": "2026-09-02T12:38:10.000Z",
-      "xQuery": "学校以外の居場所 様々な選択肢"
+      "url": "https://news.yahoo.co.jp/pickup/6594042?source=rss",
+      "publishedAt": "2026-09-02T21:58:07.000Z",
+      "xQuery": "自民の鈴木幹事長続投へ 首相意向"
     },
     {
       "time": "21:43",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "上皇さまの葬儀規模 大幅縮小検討"
     },
     {
-      "time": "22:36",
-      "title": "パワハラ報道巡り 東京MKが会見",
+      "time": "06:14",
+      "title": "「匿流」スマホ遠隔解析へ 提言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594031?source=rss",
-      "publishedAt": "2026-09-02T13:36:56.000Z",
-      "xQuery": "パワハラ報道巡り 東京MKが会見"
+      "url": "https://news.yahoo.co.jp/pickup/6594038?source=rss",
+      "publishedAt": "2026-09-02T21:14:43.000Z",
+      "xQuery": "「匿流」スマホ遠隔解析へ 提言"
+    },
+    {
+      "time": "06:45",
+      "title": "コンゴ エボラ死者が3000人超に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594041?source=rss",
+      "publishedAt": "2026-09-02T21:45:04.000Z",
+      "xQuery": "コンゴ エボラ死者が3000人超に"
     }
   ]
 };
