@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T07:40:52.934Z",
+  "updatedAt": "2026-09-02T08:25:29.208Z",
   "items": [
     {
       "time": "15:52",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "週後半 太平洋側で長期間大雨恐れ"
     },
     {
-      "time": "13:55",
-      "title": "論文査読にAI活用 誤情報リスクも",
+      "time": "15:49",
+      "title": "伊勢の商店街火災 44時間後に鎮火",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593969?source=rss",
-      "publishedAt": "2026-09-02T04:55:56.000Z",
-      "xQuery": "論文査読にAI活用 誤情報リスクも"
+      "url": "https://news.yahoo.co.jp/pickup/6593980?source=rss",
+      "publishedAt": "2026-09-02T06:49:07.000Z",
+      "xQuery": "伊勢の商店街火災 44時間後に鎮火"
     },
     {
       "time": "16:32",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "あべちか強殺未遂事件 男公開手配"
     },
     {
-      "time": "15:12",
-      "title": "殺人未遂疑いで17歳逮捕 父親死亡",
+      "time": "16:47",
+      "title": "「美人局」疑い 高校生ら5人逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593976?source=rss",
-      "publishedAt": "2026-09-02T06:12:46.000Z",
-      "xQuery": "殺人未遂疑いで17歳逮捕 父親死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6593988?source=rss",
+      "publishedAt": "2026-09-02T07:47:03.000Z",
+      "xQuery": "「美人局」疑い 高校生ら5人逮捕"
     },
     {
-      "time": "15:49",
-      "title": "伊勢の商店街火災 44時間後に鎮火",
+      "time": "15:45",
+      "title": "長期金利3% 住宅ローンの相談殺到",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593980?source=rss",
-      "publishedAt": "2026-09-02T06:49:07.000Z",
-      "xQuery": "伊勢の商店街火災 44時間後に鎮火"
+      "url": "https://news.yahoo.co.jp/pickup/6593983?source=rss",
+      "publishedAt": "2026-09-02T06:45:54.000Z",
+      "xQuery": "長期金利3% 住宅ローンの相談殺到"
     }
   ]
 };
