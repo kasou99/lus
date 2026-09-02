@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-02T14:39:40.574Z",
+  "updatedAt": "2026-09-02T15:20:29.111Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "12:15",
         "title": "「工具・工作機械・ロボット特集」PR企業募集のお知らせ「エミダスマガジンWEB」で製造業の最先端技術・製品を発信",
-        "source": "時事ドットコム",
+        "source": "jiji.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tX0o1X3pMWlJ6MGUzQzEtNFZTcVZhem1kb1lIZzdBOFpkNkNsZUxBa1RhcTJfWXJuZ3BQNGwzNHdTTHY1TWc4bkJ4QjFZYU9nSkFPSkVhbjhwQWdtZ3pfbUt2MFhLVkZaX1lj?oc=5",
         "publishedAt": "2026-09-02T03:15:00.000Z"
       },
@@ -19,9 +19,16 @@
       {
         "time": "10:30",
         "title": "丸文、9月16日から開催の「JIMA2026 第13回総合検査機器展」に出展",
-        "source": "PR TIMES",
+        "source": "prtimes.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fUzVLRWF5R1dXWVZaTEMtMUptNHRGSnBIeDhITjVpYU5qRjBLXzM2WnoyUFJHc3RfNlFkUjhrcVRaLWVVNXVyTVZDSVgwLXJVRFg3eW9Oa3RhQ29BZmJ0VENPRVR2UkFDZFE?oc=5",
         "publishedAt": "2026-09-02T01:30:02.000Z"
+      },
+      {
+        "time": "09:30",
+        "title": "JIMTOF2026（第33回日本国際工作機械見本市）に出展、初公開となる新材種を含む当社製品を展示",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aVFVxb1RKcUFpM2lFckFVN3NsLVB2WWxsUDNTTUFEc3VRQnhjd2VjVE5qTkplMm5BZF9kdjBCc3VyX2NsSjJkdHlRUkZYWHpBajdMdGJ3VUNBXzkwNWdaZE1ISTBiNENfTDNROEREWVpzSThUWVE5bHU5MA?oc=5",
+        "publishedAt": "2026-09-02T00:30:30.000Z"
       },
       {
         "time": "05:00",
@@ -40,16 +47,9 @@
       {
         "time": "12:00",
         "title": "ローラースクリューの世界市場規模、2026年174百万米ドルへ拡大",
-        "source": "ドリームニュース",
+        "source": "dreamnews.jp",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13Z29fU0ZfLVoyWDZveUNvSGg5dWxCaWpNWTJmYTJSbUNSd1JuTVRLdkdCQW5XOUNDWDl0dXh0LVpEdDN0a0VIYU51QU1wMEM1dFJR?oc=5",
         "publishedAt": "2026-09-02T03:00:00.000Z"
-      },
-      {
-        "time": "14:03",
-        "title": "三相DINレール電源の世界市場規模：年平均成長率3.8%予測、最新トレンドと需要変化2026-2032",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81Q3hWSzFBRW5LRWtwZVcxV2dhenVHbEQ5YXAwNnU5QnRnNmtoYjQ2d284N3dUeDl0WWxUV21pVlFLLTA4MFdWYzc4dUxNaVVKMEtaa1VpVVoyNThOMEk0Z1lUZThYR2h1ekJ1UkUzU3RuQVdCOGNXRzdHOA?oc=5",
-        "publishedAt": "2026-09-02T05:03:14.000Z"
       },
       {
         "time": "09:47",
@@ -226,7 +226,7 @@
       {
         "time": "16:44",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:44:56.000Z"
       }

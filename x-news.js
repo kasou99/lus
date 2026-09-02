@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T14:39:43.454Z",
+  "updatedAt": "2026-09-02T15:20:29.969Z",
   "items": [
     {
       "time": "23:30",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "青森で猛烈な雨 災害発生の恐れ"
     },
     {
-      "time": "23:11",
-      "title": "台湾・高雄市 熊本に1億5千万円",
+      "time": "21:38",
+      "title": "学校以外の居場所 様々な選択肢",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594033?source=rss",
-      "publishedAt": "2026-09-02T14:11:13.000Z",
-      "xQuery": "台湾・高雄市 熊本に1億5千万円"
+      "url": "https://news.yahoo.co.jp/pickup/6594000?source=rss",
+      "publishedAt": "2026-09-02T12:38:10.000Z",
+      "xQuery": "学校以外の居場所 様々な選択肢"
     },
     {
       "time": "21:43",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "上皇さまの葬儀規模 大幅縮小検討"
     },
     {
-      "time": "21:42",
-      "title": "長期金利「3%突破」は異常か",
+      "time": "22:36",
+      "title": "パワハラ報道巡り 東京MKが会見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594029?source=rss",
-      "publishedAt": "2026-09-02T12:42:49.000Z",
-      "xQuery": "長期金利「3%突破」は異常か"
+      "url": "https://news.yahoo.co.jp/pickup/6594031?source=rss",
+      "publishedAt": "2026-09-02T13:36:56.000Z",
+      "xQuery": "パワハラ報道巡り 東京MKが会見"
     },
     {
       "time": "20:24",
