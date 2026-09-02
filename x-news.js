@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T04:42:27.905Z",
+  "updatedAt": "2026-09-02T05:19:31.135Z",
   "items": [
     {
       "time": "12:10",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593956?source=rss",
       "publishedAt": "2026-09-02T03:10:17.000Z",
       "xQuery": "合流頓挫の中道 立憲系の動向焦点"
-    },
-    {
-      "time": "11:36",
-      "title": "露大統領 関係悪化は日本に全責任",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593953?source=rss",
-      "publishedAt": "2026-09-02T02:36:54.000Z",
-      "xQuery": "露大統領 関係悪化は日本に全責任"
     },
     {
       "time": "09:18",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593968?source=rss",
       "publishedAt": "2026-09-02T04:37:53.000Z",
       "xQuery": "犬のヤギ襲撃 宮古島市で今年突出"
+    },
+    {
+      "time": "12:03",
+      "title": "車田正美さん 28億円賠償求め提訴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593960?source=rss",
+      "publishedAt": "2026-09-02T03:03:01.000Z",
+      "xQuery": "車田正美さん 28億円賠償求め提訴"
     }
   ]
 };

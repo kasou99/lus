@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-09-02T04:42:27.089Z",
+  "updatedAt": "2026-09-02T05:19:30.536Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "11:00",
         "title": "「工具・工作機械・ロボット特集」PR企業募集のお知らせ「エミダスマガジンWEB」で製造業の最先端技術・製品を発信",
-        "source": "PR TIMES",
+        "source": "prtimes.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mTGtRYVdEWUxCd24xTEdHR0VRUHBZOGpPR3BfVVFlaUdKYlhvSFdsN2JBYy15eDFXRzNiRUdsMDlBRjFDWDVfQlFpdXplMTdESmxJYkJ2S1l0eUVLX0JOdi1kS193V01qSHc?oc=5",
         "publishedAt": "2026-09-02T02:00:02.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ロシアはなぜ日本の技術を狙うのか？アエロフロート東京支店長への“疑惑”で見えるもの…制裁下のロシア経済の実像",
-        "source": "Wedge ONLINE(ウェッジ・オンライン)",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RajBCR1I2R1dWamk5VlBYVWMwcE9OVmszR2cwV0R3RDVXRGZqaDIwVERwbXJIWmFHS2RVUjA5SzVpUkdQNXF2YXRidVVhWHAtR1ZWNVNVVFhfRGVx?oc=5",
-        "publishedAt": "2026-09-01T20:00:00.000Z"
       },
       {
         "time": "16:40",
@@ -31,11 +24,25 @@
         "publishedAt": "2026-09-01T06:30:01.000Z"
       },
       {
+        "time": "16:00",
+        "title": "工作機械用部品の丸祐、福島のメーカー買収 生産地の多国化進める",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yWnlrendCLXdHZURBQ3ZOOXFOUGU0QXJVOHh3RFhhOEgzaUdUSXllYWxlZkZCMzVRejhjVnpNUWtRTE45aWNPYmd2T2JZWXc3eEN1SzRDdy1KT293QTZacWRZU3lSUUpiM3daag?oc=5",
+        "publishedAt": "2026-09-01T07:00:00.000Z"
+      },
+      {
         "time": "18:15",
         "title": "JIMTOF2026（第33回日本国際工作機械見本市）に出展、初公開となる新材種を含む当社製品を展示",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1idm5Ba1lxR1BSX2tXWjJ3WjlXb0RmU1VCekNCa1RVeVcwbEpkMGYxbnpmak5NUGtZQUtXdG4tazAzQ2pIcGxBWFdER3FHX25GTmxXaHE1OXZwNENscDgyQ21uUjBwMTc1X3FmVHVJdXFaZw?oc=5",
         "publishedAt": "2026-09-01T09:15:23.000Z"
+      },
+      {
+        "time": "15:13",
+        "title": "リニアモータ駆動 ナノマシニングセンタ「AZ275nS」を開発 企業リリース",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12Vk9GTUxrZXpMR3B2WU9ETy1UNHhDdndNM1dXVU5ScmRnVkFPeXNxbjY4THFXWWhNMVFvNXlDNV90S3Y3Q21ZXzV4MXNKbnRzWWx4WF9GX3k?oc=5",
+        "publishedAt": "2026-09-01T06:13:35.000Z"
       },
       {
         "time": "21:00",
@@ -47,16 +54,9 @@
       {
         "time": "15:00",
         "title": "診断業務を効率化する設備保全向けフィジカルAI技術を開発",
-        "source": "PR TIMES",
+        "source": "prtimes.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNZ0pHdGw2NUFjZ0pvRXFsVTY0SHlxVkVvQnRfRWozY1FUckFRejE0cDM0Mm1TTUNVcmFPSzljOENrUzNuZlM2dXlFanItYWRFV0lYNkpudFR3Xzd0LWxrbW55eHEyenNCSHc?oc=5",
         "publishedAt": "2026-09-01T06:00:02.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ヤマト、小型家電回収を実証 徳島で宅配網活用",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54MUZhaGluN0NNdDExMmlYbnpFcVZwMFJxT1k3YTBiWkdibFJmX2dxWDBqZ3B4bGRZTV9xdGFTcENmU2N4bFdhTDFkcmI0ZU5qUkJYX25Dak4?oc=5",
-        "publishedAt": "2026-09-01T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
