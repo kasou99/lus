@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T08:25:29.208Z",
+  "updatedAt": "2026-09-02T08:43:56.901Z",
   "items": [
     {
       "time": "15:52",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "週後半 太平洋側で長期間大雨恐れ"
     },
     {
-      "time": "15:49",
-      "title": "伊勢の商店街火災 44時間後に鎮火",
+      "time": "16:55",
+      "title": "日本郵便に勧告 フリーランス巡り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593980?source=rss",
-      "publishedAt": "2026-09-02T06:49:07.000Z",
-      "xQuery": "伊勢の商店街火災 44時間後に鎮火"
+      "url": "https://news.yahoo.co.jp/pickup/6593989?source=rss",
+      "publishedAt": "2026-09-02T07:55:06.000Z",
+      "xQuery": "日本郵便に勧告 フリーランス巡り"
     },
     {
       "time": "16:32",
