@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T11:16:23.563Z",
+  "updatedAt": "2026-09-02T11:37:27.870Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,10 +17,24 @@
         "publishedAt": "2026-09-01T20:00:00.000Z"
       },
       {
+        "time": "10:30",
+        "title": "丸文、9月16日から開催の「JIMA2026 第13回総合検査機器展」に出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fUzVLRWF5R1dXWVZaTEMtMUptNHRGSnBIeDhITjVpYU5qRjBLXzM2WnoyUFJHc3RfNlFkUjhrcVRaLWVVNXVyTVZDSVgwLXJVRFg3eW9Oa3RhQ29BZmJ0VENPRVR2UkFDZFE?oc=5",
+        "publishedAt": "2026-09-02T01:30:02.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "ヤマト、小型家電回収を実証 徳島で宅配網活用",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54MUZhaGluN0NNdDExMmlYbnpFcVZwMFJxT1k3YTBiWkdibFJmX2dxWDBqZ3B4bGRZTV9xdGFTcENmU2N4bFdhTDFkcmI0ZU5qUkJYX25Dak4?oc=5",
+        "publishedAt": "2026-09-01T20:00:00.000Z"
+      },
+      {
         "time": "21:00",
         "title": "リニアモータ駆動 ナノマシニングセンタ「AZ275nS」を開発",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vWU9SUmsxQUZDN1ROZm94X2FZTE5DUXRENUxFVnNxZE54d1lMejg0OHYzc2ZjcjdjczAtNUZGOTJKTktGTXJNSU8xVFhkMFFXb29qbENObDB2R0ROaHlJa2w0VlhkUUttUGdTeFROcw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nNVdNTzhtVjZZVnNScWJHUU9SLVV4Tm1uR1hOUTFvNHNybmpkOFVLU3JhMmpyZXY4OFdJR0hTWWVhY0VWZEJoNWpkODN0SDBFM0U4U0VXc0VOWkF5UzNOLXhRb0RqVnBRMEgzTFhvZEd4bGhmMUhWeFJ5dw?oc=5",
         "publishedAt": "2026-09-01T12:00:16.000Z"
       },
       {
@@ -31,32 +45,18 @@
         "publishedAt": "2026-09-01T15:34:00.000Z"
       },
       {
-        "time": "20:33",
-        "title": "【独自】フィジカルＡＩ実用化へ企業連合",
-        "source": "福井新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XZ1FTOHpfWlhsQTRlWXBwZkkyemxkeTdQV3hKV0V0emMxTnFaYk1oeW1pSGNTR2F0MkRhSmk4MG96dG5wQnRSZ0JEQVJwRGxRbXp2dU9oT3dCeU5Bd2ZBZnpETUo5UQ?oc=5",
-        "publishedAt": "2026-09-01T11:33:30.000Z"
-      },
-      {
-        "time": "10:30",
-        "title": "丸文、9月16日から開催の「JIMA2026 第13回総合検査機器展」に出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fUzVLRWF5R1dXWVZaTEMtMUptNHRGSnBIeDhITjVpYU5qRjBLXzM2WnoyUFJHc3RfNlFkUjhrcVRaLWVVNXVyTVZDSVgwLXJVRFg3eW9Oa3RhQ29BZmJ0VENPRVR2UkFDZFE?oc=5",
-        "publishedAt": "2026-09-02T01:30:02.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ヤマト、小型家電回収を実証 徳島で宅配網活用",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54MUZhaGluN0NNdDExMmlYbnpFcVZwMFJxT1k3YTBiWkdibFJmX2dxWDBqZ3B4bGRZTV9xdGFTcENmU2N4bFdhTDFkcmI0ZU5qUkJYX25Dak4?oc=5",
-        "publishedAt": "2026-09-01T20:00:00.000Z"
-      },
-      {
         "time": "12:00",
         "title": "ローラースクリューの世界市場規模、2026年174百万米ドルへ拡大",
         "source": "dreamnews.jp",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13Z29fU0ZfLVoyWDZveUNvSGg5dWxCaWpNWTJmYTJSbUNSd1JuTVRLdkdCQW5XOUNDWDl0dXh0LVpEdDN0a0VIYU51QU1wMEM1dFJR?oc=5",
         "publishedAt": "2026-09-02T03:00:00.000Z"
+      },
+      {
+        "time": "09:47",
+        "title": "千葉豪雨でアンダーパス２週間通行止め 再発防止で鎌ケ谷市長「対策検討する」",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUnNQZHNVeEhBT2R4R1dhUVJnNUN0amJ6WU43Z21wVUdZWV9IR1c0ZGFGc1lYTFRHRGR6WWpqTnNrYjkyazVZbTY1Zk5oYlVBY3pfYjJnbl9oVmVtS3JGakZUTF81dm9FOTBqblhFaHY4UXBDT0xfNmZ0clpDMXhpeDlOVnBCZzDSAYcBQVVfeXFMUFJzUGRzVXhIQU9keEdXYVFSZzVDdGpiellON2dtcFVHWVlfSEdXNGRhRnNZWExUR0Rkellqak5za2I5Mms1WW02NWZOaGJVQWN6X2IyZ25faFZlbUtyRmpGVExfNXZvRTkwam5YRWh2OFFwQ09MXzZmdHJaQzF4aXg5TlZwQmcw?oc=5",
+        "publishedAt": "2026-09-02T00:47:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-09-02T07:32:39.000Z"
       },
       {
-        "time": "17:48",
-        "title": "放火被害か ホテル責任者「怖い」",
+        "time": "20:24",
+        "title": "和菓子店の店主死亡 長男コメント",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593998?source=rss",
-        "publishedAt": "2026-09-02T08:48:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594016?source=rss",
+        "publishedAt": "2026-09-02T11:24:39.000Z"
       },
       {
         "time": "07:26",
@@ -226,7 +226,7 @@
       {
         "time": "16:44",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:44:56.000Z"
       }

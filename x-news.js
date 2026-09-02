@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T11:16:24.359Z",
+  "updatedAt": "2026-09-02T11:37:28.877Z",
   "items": [
     {
       "time": "19:30",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "LINEとPayPay 今夏の連携を延期"
     },
     {
-      "time": "18:10",
-      "title": "子の余命 他人から告げられ苦痛も",
+      "time": "20:24",
+      "title": "和菓子店の店主死亡 長男コメント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594001?source=rss",
-      "publishedAt": "2026-09-02T09:10:57.000Z",
-      "xQuery": "子の余命 他人から告げられ苦痛も"
+      "url": "https://news.yahoo.co.jp/pickup/6594016?source=rss",
+      "publishedAt": "2026-09-02T11:24:39.000Z",
+      "xQuery": "和菓子店の店主死亡 長男コメント"
     },
     {
       "time": "19:33",
