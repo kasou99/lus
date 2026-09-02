@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T08:43:56.901Z",
+  "updatedAt": "2026-09-02T09:20:47.803Z",
   "items": [
-    {
-      "time": "15:52",
-      "title": "週後半 太平洋側で長期間大雨恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593981?source=rss",
-      "publishedAt": "2026-09-02T06:52:56.000Z",
-      "xQuery": "週後半 太平洋側で長期間大雨恐れ"
-    },
     {
       "time": "16:55",
       "title": "日本郵便に勧告 フリーランス巡り",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593989?source=rss",
       "publishedAt": "2026-09-02T07:55:06.000Z",
       "xQuery": "日本郵便に勧告 フリーランス巡り"
+    },
+    {
+      "time": "17:54",
+      "title": "きえないで 新学期に水族館が投稿",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593999?source=rss",
+      "publishedAt": "2026-09-02T08:54:40.000Z",
+      "xQuery": "きえないで 新学期に水族館が投稿"
     },
     {
       "time": "16:32",
