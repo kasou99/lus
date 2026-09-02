@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T05:19:31.135Z",
+  "updatedAt": "2026-09-02T05:40:47.932Z",
   "items": [
     {
-      "time": "12:10",
-      "title": "合流頓挫の中道 立憲系の動向焦点",
+      "time": "14:17",
+      "title": "北日本で大雨 広範囲で雷雨に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593956?source=rss",
-      "publishedAt": "2026-09-02T03:10:17.000Z",
-      "xQuery": "合流頓挫の中道 立憲系の動向焦点"
-    },
-    {
-      "time": "09:18",
-      "title": "マスク氏がEUを批判 G20関連会合",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593941?source=rss",
-      "publishedAt": "2026-09-02T00:18:22.000Z",
-      "xQuery": "マスク氏がEUを批判 G20関連会合"
+      "url": "https://news.yahoo.co.jp/pickup/6593973?source=rss",
+      "publishedAt": "2026-09-02T05:17:04.000Z",
+      "xQuery": "北日本で大雨 広範囲で雷雨に注意"
     },
     {
       "time": "13:07",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593966?source=rss",
       "publishedAt": "2026-09-02T04:07:02.000Z",
       "xQuery": "GoPro 米企業に株式90%売却へ"
+    },
+    {
+      "time": "14:22",
+      "title": "三菱自 新型パジェロを世界初公開",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593972?source=rss",
+      "publishedAt": "2026-09-02T05:22:28.000Z",
+      "xQuery": "三菱自 新型パジェロを世界初公開"
     },
     {
       "time": "13:37",
