@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T00:49:52.115Z",
+  "updatedAt": "2026-09-02T01:27:39.309Z",
   "items": [
     {
       "time": "08:54",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日本郵便の取材回答 総務省介入か"
     },
     {
-      "time": "07:46",
-      "title": "SBエナジー 米国でIPOを申請",
+      "time": "09:31",
+      "title": "米攻撃 イラン結婚式4人死亡報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593931?source=rss",
-      "publishedAt": "2026-09-01T22:46:56.000Z",
-      "xQuery": "SBエナジー 米国でIPOを申請"
+      "url": "https://news.yahoo.co.jp/pickup/6593942?source=rss",
+      "publishedAt": "2026-09-02T00:31:40.000Z",
+      "xQuery": "米攻撃 イラン結婚式4人死亡報道"
     },
     {
       "time": "08:23",
