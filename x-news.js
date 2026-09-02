@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T12:48:28.693Z",
+  "updatedAt": "2026-09-02T13:18:36.152Z",
   "items": [
     {
       "time": "19:30",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "土石流1週間 不明者の捜索は難航"
     },
     {
+      "time": "21:43",
+      "title": "上皇さまの葬儀規模 大幅縮小検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594027?source=rss",
+      "publishedAt": "2026-09-02T12:43:30.000Z",
+      "xQuery": "上皇さまの葬儀規模 大幅縮小検討"
+    },
+    {
       "time": "21:42",
       "title": "長期金利「3%突破」は異常か",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594016?source=rss",
       "publishedAt": "2026-09-02T11:24:39.000Z",
       "xQuery": "和菓子店の店主死亡 長男コメント"
-    },
-    {
-      "time": "19:33",
-      "title": "25年前に勤務先生徒と性行為 処分",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594012?source=rss",
-      "publishedAt": "2026-09-02T10:33:11.000Z",
-      "xQuery": "25年前に勤務先生徒と性行為 処分"
     }
   ]
 };
