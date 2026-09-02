@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T11:37:28.877Z",
+  "updatedAt": "2026-09-02T12:28:17.145Z",
   "items": [
     {
       "time": "19:30",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風24号動き遅く 大雨長引く恐れ"
     },
     {
-      "time": "19:40",
-      "title": "LINEとPayPay 今夏の連携を延期",
+      "time": "16:18",
+      "title": "土石流1週間 不明者の捜索は難航",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593978?source=rss",
-      "publishedAt": "2026-09-02T10:40:43.000Z",
-      "xQuery": "LINEとPayPay 今夏の連携を延期"
+      "url": "https://news.yahoo.co.jp/pickup/6593984?source=rss",
+      "publishedAt": "2026-09-02T07:18:31.000Z",
+      "xQuery": "土石流1週間 不明者の捜索は難航"
     },
     {
       "time": "20:24",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "25年前に勤務先生徒と性行為 処分"
     },
     {
-      "time": "17:16",
-      "title": "湖上から「浮島」が消失 カナダ",
+      "time": "20:39",
+      "title": "ファミマ おにぎり4品値下げ発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593993?source=rss",
-      "publishedAt": "2026-09-02T08:16:50.000Z",
-      "xQuery": "湖上から「浮島」が消失 カナダ"
+      "url": "https://news.yahoo.co.jp/pickup/6594014?source=rss",
+      "publishedAt": "2026-09-02T11:39:43.000Z",
+      "xQuery": "ファミマ おにぎり4品値下げ発表"
     }
   ]
 };

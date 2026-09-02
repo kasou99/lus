@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T11:37:27.870Z",
+  "updatedAt": "2026-09-02T12:28:15.939Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-09-01T20:00:00.000Z"
       },
       {
-        "time": "10:30",
-        "title": "丸文、9月16日から開催の「JIMA2026 第13回総合検査機器展」に出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fUzVLRWF5R1dXWVZaTEMtMUptNHRGSnBIeDhITjVpYU5qRjBLXzM2WnoyUFJHc3RfNlFkUjhrcVRaLWVVNXVyTVZDSVgwLXJVRFg3eW9Oa3RhQ29BZmJ0VENPRVR2UkFDZFE?oc=5",
-        "publishedAt": "2026-09-02T01:30:02.000Z"
-      },
-      {
         "time": "05:00",
         "title": "ヤマト、小型家電回収を実証 徳島で宅配網活用",
         "source": "日刊工業新聞",
@@ -31,25 +24,32 @@
         "publishedAt": "2026-09-01T20:00:00.000Z"
       },
       {
-        "time": "21:00",
-        "title": "リニアモータ駆動 ナノマシニングセンタ「AZ275nS」を開発",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nNVdNTzhtVjZZVnNScWJHUU9SLVV4Tm1uR1hOUTFvNHNybmpkOFVLU3JhMmpyZXY4OFdJR0hTWWVhY0VWZEJoNWpkODN0SDBFM0U4U0VXc0VOWkF5UzNOLXhRb0RqVnBRMEgzTFhvZEd4bGhmMUhWeFJ5dw?oc=5",
-        "publishedAt": "2026-09-01T12:00:16.000Z"
-      },
-      {
-        "time": "00:34",
-        "title": "DINレール直付けRJ45カップラ「Smart Meter Coupler」新発売",
-        "source": "CNET Japan",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DWXFQNkNDbHY0TkNlTl9Rd1R3WXBzeGNCOEhmN0RjZW9wQjNlSW10cjF1MEFScGROZk1Ibl8wSjJYNUZfS2t4M1RIZk1pMGFRWkE?oc=5",
-        "publishedAt": "2026-09-01T15:34:00.000Z"
+        "time": "15:00",
+        "title": "油圧ツールホルダー―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iLXZ0UG9GdlVxSlpoVTBYZ09NUFAzZ29NOXBzTkp6LXdKUmxnMWg0cVlWRkZnM2Y5WkZTMmdSUUluTFR1MVpNNHVIb0huRGFrWmZSNkxZbw?oc=5",
+        "publishedAt": "2026-09-02T06:00:00.000Z"
       },
       {
         "time": "12:00",
         "title": "ローラースクリューの世界市場規模、2026年174百万米ドルへ拡大",
-        "source": "dreamnews.jp",
+        "source": "ドリームニュース",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13Z29fU0ZfLVoyWDZveUNvSGg5dWxCaWpNWTJmYTJSbUNSd1JuTVRLdkdCQW5XOUNDWDl0dXh0LVpEdDN0a0VIYU51QU1wMEM1dFJR?oc=5",
         "publishedAt": "2026-09-02T03:00:00.000Z"
+      },
+      {
+        "time": "14:03",
+        "title": "三相DINレール電源の世界市場規模：年平均成長率3.8%予測、最新トレンドと需要変化2026-2032",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81Q3hWSzFBRW5LRWtwZVcxV2dhenVHbEQ5YXAwNnU5QnRnNmtoYjQ2d284N3dUeDl0WWxUV21pVlFLLTA4MFdWYzc4dUxNaVVKMEtaa1VpVVoyNThOMEk0Z1lUZThYR2h1ekJ1UkUzU3RuQVdCOGNXRzdHOA?oc=5",
+        "publishedAt": "2026-09-02T05:03:14.000Z"
+      },
+      {
+        "time": "23:10",
+        "title": "リニアモータ駆動 ナノマシニングセンタ「AZ275nS」を開発",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96aHE5Nks2S1dFQlg3bTZWSDEwaTVuN2FQcHdFMnVMeWZscmRaOVBfNVFJS3NraEdpV1dqTGFsRzV1UWFaMnZEZHlidWhlc0lNekV0ZHdQWmNLcGc5UXI4ZkdpNEpOS0NKaERpYXJlUlRiZ3ZE?oc=5",
+        "publishedAt": "2026-09-01T14:10:00.000Z"
       },
       {
         "time": "09:47",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "20:53",
+        "title": "長期金利3%は異常か 3つの背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594003?source=rss",
+        "publishedAt": "2026-09-02T11:53:09.000Z"
+      },
+      {
         "time": "15:45",
         "title": "長期金利3% 住宅ローンの相談殺到",
         "source": "Yahoo!ニュース",
@@ -119,18 +126,11 @@
         "publishedAt": "2026-09-02T07:55:06.000Z"
       },
       {
-        "time": "14:22",
-        "title": "三菱自 新型パジェロを世界初公開",
+        "time": "20:39",
+        "title": "ファミマ おにぎり4品値下げ発表",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593972?source=rss",
-        "publishedAt": "2026-09-02T05:22:28.000Z"
-      },
-      {
-        "time": "16:49",
-        "title": "パジェロ復活 なぜ今本格クロカン",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593987?source=rss",
-        "publishedAt": "2026-09-02T07:49:21.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594014?source=rss",
+        "publishedAt": "2026-09-02T11:39:43.000Z"
       },
       {
         "time": "14:50",
