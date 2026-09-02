@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T10:39:22.480Z",
+  "updatedAt": "2026-09-02T11:16:24.359Z",
   "items": [
     {
-      "time": "16:55",
-      "title": "日本郵便に勧告 フリーランス巡り",
+      "time": "19:30",
+      "title": "台風24号動き遅く 大雨長引く恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593989?source=rss",
-      "publishedAt": "2026-09-02T07:55:06.000Z",
-      "xQuery": "日本郵便に勧告 フリーランス巡り"
+      "url": "https://news.yahoo.co.jp/pickup/6594007?source=rss",
+      "publishedAt": "2026-09-02T10:30:25.000Z",
+      "xQuery": "台風24号動き遅く 大雨長引く恐れ"
     },
     {
-      "time": "17:54",
-      "title": "きえないで 新学期に水族館が投稿",
+      "time": "19:40",
+      "title": "LINEとPayPay 今夏の連携を延期",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593999?source=rss",
-      "publishedAt": "2026-09-02T08:54:40.000Z",
-      "xQuery": "きえないで 新学期に水族館が投稿"
-    },
-    {
-      "time": "16:32",
-      "title": "あべちか強殺未遂事件 男公開手配",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593986?source=rss",
-      "publishedAt": "2026-09-02T07:32:39.000Z",
-      "xQuery": "あべちか強殺未遂事件 男公開手配"
+      "url": "https://news.yahoo.co.jp/pickup/6593978?source=rss",
+      "publishedAt": "2026-09-02T10:40:43.000Z",
+      "xQuery": "LINEとPayPay 今夏の連携を延期"
     },
     {
       "time": "18:10",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "子の余命 他人から告げられ苦痛も"
     },
     {
-      "time": "16:47",
-      "title": "「美人局」疑い 高校生ら5人逮捕",
+      "time": "19:33",
+      "title": "25年前に勤務先生徒と性行為 処分",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593988?source=rss",
-      "publishedAt": "2026-09-02T07:47:03.000Z",
-      "xQuery": "「美人局」疑い 高校生ら5人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6594012?source=rss",
+      "publishedAt": "2026-09-02T10:33:11.000Z",
+      "xQuery": "25年前に勤務先生徒と性行為 処分"
+    },
+    {
+      "time": "17:16",
+      "title": "湖上から「浮島」が消失 カナダ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593993?source=rss",
+      "publishedAt": "2026-09-02T08:16:50.000Z",
+      "xQuery": "湖上から「浮島」が消失 カナダ"
     }
   ]
 };
