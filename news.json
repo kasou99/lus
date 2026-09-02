@@ -1,20 +1,27 @@
 {
-  "updatedAt": "2026-09-02T03:21:20.879Z",
+  "updatedAt": "2026-09-02T03:41:44.695Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "11:00",
+        "title": "「工具・工作機械・ロボット特集」PR企業募集のお知らせ「エミダスマガジンWEB」で製造業の最先端技術・製品を発信",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mTGtRYVdEWUxCd24xTEdHR0VRUHBZOGpPR3BfVVFlaUdKYlhvSFdsN2JBYy15eDFXRzNiRUdsMDlBRjFDWDVfQlFpdXplMTdESmxJYkJ2S1l0eUVLX0JOdi1kS193V01qSHc?oc=5",
+        "publishedAt": "2026-09-02T02:00:02.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "ロシアはなぜ日本の技術を狙うのか？アエロフロート東京支店長への“疑惑”で見えるもの…制裁下のロシア経済の実像",
+        "source": "Wedge ONLINE(ウェッジ・オンライン)",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RajBCR1I2R1dWamk5VlBYVWMwcE9OVmszR2cwV0R3RDVXRGZqaDIwVERwbXJIWmFHS2RVUjA5SzVpUkdQNXF2YXRidVVhWHAtR1ZWNVNVVFhfRGVx?oc=5",
+        "publishedAt": "2026-09-01T20:00:00.000Z"
+      },
       {
         "time": "16:40",
         "title": "日立製作所が設備保全向けフィジカルAIを開発、音や振動を自然言語で解析し異常診断を効率化",
         "source": "ロボスタ",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xc2RYQzJrMFZTd0sxb2wwVjFfeWdWVU9GbHZYcjM4UFNPMVF5amhWcUFSVGx0dXZ1TWdvVUY5SHo3N1NjRzVTTEhhb2RkUEtMaksxdDZEaGM2WDRPTnJmMzIwa2w?oc=5",
         "publishedAt": "2026-09-01T07:40:03.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "診断業務を効率化する設備保全向けフィジカルAI技術を開発",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNZ0pHdGw2NUFjZ0pvRXFsVTY0SHlxVkVvQnRfRWozY1FUckFRejE0cDM0Mm1TTUNVcmFPSzljOENrUzNuZlM2dXlFanItYWRFV0lYNkpudFR3Xzd0LWxrbW55eHEyenNCSHc?oc=5",
-        "publishedAt": "2026-09-01T06:00:02.000Z"
       },
       {
         "time": "13:35",
@@ -26,16 +33,9 @@
       {
         "time": "15:30",
         "title": "オーネックス、産業工作機械関連が好調に推移し売上増 コスト削減や生産効率化に取り組み収益体質の強化を図る",
-        "source": "みんかぶ",
+        "source": "minkabu.jp",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBVOWU2Y01ZUkduRXZmQWFWT0o0QXl5bXNxNlJUQ1ozRHpDUVd6N3IxbENSUzFheWg0ZUpkZ2Z3aWZmWWszNGc?oc=5",
         "publishedAt": "2026-09-01T06:30:01.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ヤマト、小型家電回収を実証 徳島で宅配網活用",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54MUZhaGluN0NNdDExMmlYbnpFcVZwMFJxT1k3YTBiWkdibFJmX2dxWDBqZ3B4bGRZTV9xdGFTcENmU2N4bFdhTDFkcmI0ZU5qUkJYX25Dak4?oc=5",
-        "publishedAt": "2026-09-01T20:00:00.000Z"
       },
       {
         "time": "18:15",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-09-01T12:00:16.000Z"
       },
       {
-        "time": "20:33",
-        "title": "【独自】フィジカルＡＩ実用化へ企業連合",
-        "source": "福井新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XZ1FTOHpfWlhsQTRlWXBwZkkyemxkeTdQV3hKV0V0emMxTnFaYk1oeW1pSGNTR2F0MkRhSmk4MG96dG5wQnRSZ0JEQVJwRGxRbXp2dU9oT3dCeU5Bd2ZBZnpETUo5UQ?oc=5",
-        "publishedAt": "2026-09-01T11:33:30.000Z"
+        "time": "15:00",
+        "title": "診断業務を効率化する設備保全向けフィジカルAI技術を開発",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNZ0pHdGw2NUFjZ0pvRXFsVTY0SHlxVkVvQnRfRWozY1FUckFRejE0cDM0Mm1TTUNVcmFPSzljOENrUzNuZlM2dXlFanItYWRFV0lYNkpudFR3Xzd0LWxrbW55eHEyenNCSHc?oc=5",
+        "publishedAt": "2026-09-01T06:00:02.000Z"
       }
     ],
     "worldHeadlines": [

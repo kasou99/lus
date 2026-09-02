@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T03:21:21.778Z",
+  "updatedAt": "2026-09-02T03:41:45.317Z",
   "items": [
     {
       "time": "12:10",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "合流頓挫の中道 立憲系の動向焦点"
     },
     {
-      "time": "10:02",
-      "title": "米財務長官 日本の円安是正を支持",
+      "time": "09:18",
+      "title": "マスク氏がEUを批判 G20関連会合",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593944?source=rss",
-      "publishedAt": "2026-09-02T01:02:05.000Z",
-      "xQuery": "米財務長官 日本の円安是正を支持"
+      "url": "https://news.yahoo.co.jp/pickup/6593941?source=rss",
+      "publishedAt": "2026-09-02T00:18:22.000Z",
+      "xQuery": "マスク氏がEUを批判 G20関連会合"
     },
     {
       "time": "10:41",
