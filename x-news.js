@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T21:15:08.218Z",
+  "updatedAt": "2026-09-02T21:37:37.355Z",
   "items": [
     {
-      "time": "23:30",
-      "title": "青森で猛烈な雨 災害発生の恐れ",
+      "time": "06:29",
+      "title": "台風と秋雨前線 大雨長期化の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594034?source=rss",
-      "publishedAt": "2026-09-02T14:30:49.000Z",
-      "xQuery": "青森で猛烈な雨 災害発生の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594040?source=rss",
+      "publishedAt": "2026-09-02T21:29:11.000Z",
+      "xQuery": "台風と秋雨前線 大雨長期化の恐れ"
+    },
+    {
+      "time": "06:14",
+      "title": "「匿流」スマホ遠隔解析へ 提言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594038?source=rss",
+      "publishedAt": "2026-09-02T21:14:43.000Z",
+      "xQuery": "「匿流」スマホ遠隔解析へ 提言"
     },
     {
       "time": "21:38",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594031?source=rss",
       "publishedAt": "2026-09-02T13:36:56.000Z",
       "xQuery": "パワハラ報道巡り 東京MKが会見"
-    },
-    {
-      "time": "20:24",
-      "title": "和菓子店の店主死亡 長男コメント",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594016?source=rss",
-      "publishedAt": "2026-09-02T11:24:39.000Z",
-      "xQuery": "和菓子店の店主死亡 長男コメント"
     }
   ]
 };
