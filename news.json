@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T12:28:15.939Z",
+  "updatedAt": "2026-09-02T12:48:27.194Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54MUZhaGluN0NNdDExMmlYbnpFcVZwMFJxT1k3YTBiWkdibFJmX2dxWDBqZ3B4bGRZTV9xdGFTcENmU2N4bFdhTDFkcmI0ZU5qUkJYX25Dak4?oc=5",
         "publishedAt": "2026-09-01T20:00:00.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "油圧ツールホルダー―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iLXZ0UG9GdlVxSlpoVTBYZ09NUFAzZ29NOXBzTkp6LXdKUmxnMWg0cVlWRkZnM2Y5WkZTMmdSUUluTFR1MVpNNHVIb0huRGFrWmZSNkxZbw?oc=5",
-        "publishedAt": "2026-09-02T06:00:00.000Z"
       },
       {
         "time": "12:00",
@@ -57,6 +50,13 @@
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUnNQZHNVeEhBT2R4R1dhUVJnNUN0amJ6WU43Z21wVUdZWV9IR1c0ZGFGc1lYTFRHRGR6WWpqTnNrYjkyazVZbTY1Zk5oYlVBY3pfYjJnbl9oVmVtS3JGakZUTF81dm9FOTBqblhFaHY4UXBDT0xfNmZ0clpDMXhpeDlOVnBCZzDSAYcBQVVfeXFMUFJzUGRzVXhIQU9keEdXYVFSZzVDdGpiellON2dtcFVHWVlfSEdXNGRhRnNZWExUR0Rkellqak5za2I5Mms1WW02NWZOaGJVQWN6X2IyZ25faFZlbUtyRmpGVExfNXZvRTkwam5YRWh2OFFwQ09MXzZmdHJaQzF4aXg5TlZwQmcw?oc=5",
         "publishedAt": "2026-09-02T00:47:00.000Z"
+      },
+      {
+        "time": "00:34",
+        "title": "DINレール直付けRJ45カップラ「Smart Meter Coupler」新発売",
+        "source": "CNET Japan",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DWXFQNkNDbHY0TkNlTl9Rd1R3WXBzeGNCOEhmN0RjZW9wQjNlSW10cjF1MEFScGROZk1Ibl8wSjJYNUZfS2t4M1RIZk1pMGFRWkE?oc=5",
+        "publishedAt": "2026-09-01T15:34:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "20:53",
-        "title": "長期金利3%は異常か 3つの背景",
+        "time": "21:42",
+        "title": "長期金利「3%突破」は異常か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594003?source=rss",
-        "publishedAt": "2026-09-02T11:53:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594029?source=rss",
+        "publishedAt": "2026-09-02T12:42:49.000Z"
       },
       {
         "time": "15:45",

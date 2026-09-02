@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T12:28:17.145Z",
+  "updatedAt": "2026-09-02T12:48:28.693Z",
   "items": [
     {
       "time": "19:30",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "土石流1週間 不明者の捜索は難航"
     },
     {
+      "time": "21:42",
+      "title": "長期金利「3%突破」は異常か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594029?source=rss",
+      "publishedAt": "2026-09-02T12:42:49.000Z",
+      "xQuery": "長期金利「3%突破」は異常か"
+    },
+    {
       "time": "20:24",
       "title": "和菓子店の店主死亡 長男コメント",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594012?source=rss",
       "publishedAt": "2026-09-02T10:33:11.000Z",
       "xQuery": "25年前に勤務先生徒と性行為 処分"
-    },
-    {
-      "time": "20:39",
-      "title": "ファミマ おにぎり4品値下げ発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594014?source=rss",
-      "publishedAt": "2026-09-02T11:39:43.000Z",
-      "xQuery": "ファミマ おにぎり4品値下げ発表"
     }
   ]
 };
