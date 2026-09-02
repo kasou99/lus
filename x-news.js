@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T13:18:36.152Z",
+  "updatedAt": "2026-09-02T13:39:24.532Z",
   "items": [
     {
       "time": "19:30",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594007?source=rss",
       "publishedAt": "2026-09-02T10:30:25.000Z",
       "xQuery": "台風24号動き遅く 大雨長引く恐れ"
-    },
-    {
-      "time": "16:18",
-      "title": "土石流1週間 不明者の捜索は難航",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593984?source=rss",
-      "publishedAt": "2026-09-02T07:18:31.000Z",
-      "xQuery": "土石流1週間 不明者の捜索は難航"
     },
     {
       "time": "21:43",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594016?source=rss",
       "publishedAt": "2026-09-02T11:24:39.000Z",
       "xQuery": "和菓子店の店主死亡 長男コメント"
+    },
+    {
+      "time": "22:36",
+      "title": "パワハラ報道巡り 東京MKが会見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594031?source=rss",
+      "publishedAt": "2026-09-02T13:36:56.000Z",
+      "xQuery": "パワハラ報道巡り 東京MKが会見"
     }
   ]
 };
