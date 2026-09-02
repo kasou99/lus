@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T22:16:27.469Z",
+  "updatedAt": "2026-09-02T22:37:34.078Z",
   "items": [
     {
       "time": "06:29",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「匿流」スマホ遠隔解析へ 提言"
     },
     {
-      "time": "06:45",
-      "title": "コンゴ エボラ死者が3000人超に",
+      "time": "07:20",
+      "title": "大阪市「民泊」開業の規制強化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594041?source=rss",
-      "publishedAt": "2026-09-02T21:45:04.000Z",
-      "xQuery": "コンゴ エボラ死者が3000人超に"
+      "url": "https://news.yahoo.co.jp/pickup/6594043?source=rss",
+      "publishedAt": "2026-09-02T22:20:19.000Z",
+      "xQuery": "大阪市「民泊」開業の規制強化へ"
     }
   ]
 };

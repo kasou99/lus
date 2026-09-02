@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T22:16:26.692Z",
+  "updatedAt": "2026-09-02T22:37:33.246Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-09-02T20:00:00.000Z"
       },
       {
+        "time": "16:01",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-09-02T07:01:18.000Z"
+      },
+      {
         "time": "09:30",
         "title": "JIMTOF2026（第33回日本国際工作機械見本市）に出展、初公開となる新材種を含む当社製品を展示",
         "source": "ニコニコニュース",
@@ -29,13 +36,6 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zVXlKcnFVVXJXSHNTR2stRHowaFpaVlBrNk1yLVVSaTBLZzRzclJ3TWdGWFE0eVcxWkhZbVEzb2pjcFdzSVczYU9qQWRxZnlJVVdUa25BUjZTMHZraUVCUG1xM2NzMjM1RnI4?oc=5",
         "publishedAt": "2026-09-02T02:46:00.000Z"
-      },
-      {
-        "time": "09:47",
-        "title": "千葉豪雨でアンダーパス２週間通行止め 再発防止で鎌ケ谷市長「対策検討する」",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUnNQZHNVeEhBT2R4R1dhUVJnNUN0amJ6WU43Z21wVUdZWV9IR1c0ZGFGc1lYTFRHRGR6WWpqTnNrYjkyazVZbTY1Zk5oYlVBY3pfYjJnbl9oVmVtS3JGakZUTF81dm9FOTBqblhFaHY4UXBDT0xfNmZ0clpDMXhpeDlOVnBCZzDSAYcBQVVfeXFMUFJzUGRzVXhIQU9keEdXYVFSZzVDdGpiellON2dtcFVHWVlfSEdXNGRhRnNZWExUR0Rkellqak5za2I5Mms1WW02NWZOaGJVQWN6X2IyZ25faFZlbUtyRmpGVExfNXZvRTkwam5YRWh2OFFwQ09MXzZmdHJaQzF4aXg5TlZwQmcw?oc=5",
-        "publishedAt": "2026-09-02T00:47:00.000Z"
       },
       {
         "time": "08:18",
@@ -119,11 +119,11 @@
         "publishedAt": "2026-09-02T06:45:54.000Z"
       },
       {
-        "time": "16:55",
-        "title": "日本郵便に勧告 フリーランス巡り",
+        "time": "07:20",
+        "title": "大阪市「民泊」開業の規制強化へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593989?source=rss",
-        "publishedAt": "2026-09-02T07:55:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594043?source=rss",
+        "publishedAt": "2026-09-02T22:20:19.000Z"
       },
       {
         "time": "22:36",
@@ -226,7 +226,7 @@
       {
         "time": "16:44",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:44:56.000Z"
       }
