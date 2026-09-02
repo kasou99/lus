@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T06:35:37.477Z",
+  "updatedAt": "2026-09-02T07:20:46.395Z",
   "items": [
     {
-      "time": "14:17",
-      "title": "北日本で大雨 広範囲で雷雨に注意",
+      "time": "15:52",
+      "title": "週後半 太平洋側で長期間大雨恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593973?source=rss",
-      "publishedAt": "2026-09-02T05:17:04.000Z",
-      "xQuery": "北日本で大雨 広範囲で雷雨に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6593981?source=rss",
+      "publishedAt": "2026-09-02T06:52:56.000Z",
+      "xQuery": "週後半 太平洋側で長期間大雨恐れ"
     },
     {
       "time": "13:55",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "殺人未遂疑いで17歳逮捕 父親死亡"
     },
     {
-      "time": "14:22",
-      "title": "三菱自 新型パジェロを世界初公開",
+      "time": "15:45",
+      "title": "長期金利3% 住宅ローンの相談殺到",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593972?source=rss",
-      "publishedAt": "2026-09-02T05:22:28.000Z",
-      "xQuery": "三菱自 新型パジェロを世界初公開"
+      "url": "https://news.yahoo.co.jp/pickup/6593983?source=rss",
+      "publishedAt": "2026-09-02T06:45:54.000Z",
+      "xQuery": "長期金利3% 住宅ローンの相談殺到"
     },
     {
       "time": "14:50",
