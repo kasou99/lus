@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T09:40:42.122Z",
+  "updatedAt": "2026-09-02T10:19:36.419Z",
   "items": [
     {
       "time": "16:55",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "あべちか強殺未遂事件 男公開手配"
     },
     {
-      "time": "17:48",
-      "title": "放火被害か ホテル責任者「怖い」",
+      "time": "18:10",
+      "title": "子の余命 他人から告げられ苦痛も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593998?source=rss",
-      "publishedAt": "2026-09-02T08:48:55.000Z",
-      "xQuery": "放火被害か ホテル責任者「怖い」"
+      "url": "https://news.yahoo.co.jp/pickup/6594001?source=rss",
+      "publishedAt": "2026-09-02T09:10:57.000Z",
+      "xQuery": "子の余命 他人から告げられ苦痛も"
     },
     {
       "time": "16:47",
