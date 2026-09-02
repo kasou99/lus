@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T09:20:47.803Z",
+  "updatedAt": "2026-09-02T09:40:42.122Z",
   "items": [
     {
       "time": "16:55",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "あべちか強殺未遂事件 男公開手配"
     },
     {
+      "time": "17:48",
+      "title": "放火被害か ホテル責任者「怖い」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593998?source=rss",
+      "publishedAt": "2026-09-02T08:48:55.000Z",
+      "xQuery": "放火被害か ホテル責任者「怖い」"
+    },
+    {
       "time": "16:47",
       "title": "「美人局」疑い 高校生ら5人逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593988?source=rss",
       "publishedAt": "2026-09-02T07:47:03.000Z",
       "xQuery": "「美人局」疑い 高校生ら5人逮捕"
-    },
-    {
-      "time": "15:45",
-      "title": "長期金利3% 住宅ローンの相談殺到",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593983?source=rss",
-      "publishedAt": "2026-09-02T06:45:54.000Z",
-      "xQuery": "長期金利3% 住宅ローンの相談殺到"
     }
   ]
 };

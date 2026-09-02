@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T09:20:46.433Z",
+  "updatedAt": "2026-09-02T09:40:41.170Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,25 @@
         "publishedAt": "2026-09-02T03:59:11.000Z"
       },
       {
-        "time": "09:30",
-        "title": "JIMTOF2026（第33回日本国際工作機械見本市）に出展、初公開となる新材種を含む当社製品を展示",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jR1QyWlJGdE5waTA5djZSdC1DNmhCaHNBY3pQYnI1ODAzQzZmWHJ6Y1Y2c2sycS1yQXBrc0VLU1ptLXFNTE5vTjg1cDBXQjVMWUlMblhBc2NWVTlOSXVVdVc4LTdTd29kbFpjbW51ekxZVFk2OHc?oc=5",
-        "publishedAt": "2026-09-02T00:30:30.000Z"
-      },
-      {
         "time": "05:00",
         "title": "コベルコE&M、設備施工・管理を効率化 基幹システム刷新",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ENzlSTllEeFk0aktPRWlwMHdxOThNalExUk50aS1EV2xaRXdZc2xrdnAyNGlhZk90V0hhdXhXbnZDY0pBYXctQTlaY3g4ZGZxaTFtV0tZbVU?oc=5",
         "publishedAt": "2026-09-01T20:00:00.000Z"
+      },
+      {
+        "time": "14:03",
+        "title": "三相DINレール電源の世界市場規模：年平均成長率3.8%予測、最新トレンドと需要変化2026-2032",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81Q3hWSzFBRW5LRWtwZVcxV2dhenVHbEQ5YXAwNnU5QnRnNmtoYjQ2d284N3dUeDl0WWxUV21pVlFLLTA4MFdWYzc4dUxNaVVKMEtaa1VpVVoyNThOMEk0Z1lUZThYR2h1ekJ1UkUzU3RuQVdCOGNXRzdHOA?oc=5",
+        "publishedAt": "2026-09-02T05:03:14.000Z"
+      },
+      {
+        "time": "10:30",
+        "title": "丸文、9月16日から開催の「JIMA2026 第13回総合検査機器展」に出展",
+        "source": "prtimes.jp",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fUzVLRWF5R1dXWVZaTEMtMUptNHRGSnBIeDhITjVpYU5qRjBLXzM2WnoyUFJHc3RfNlFkUjhrcVRaLWVVNXVyTVZDSVgwLXJVRFg3eW9Oa3RhQ29BZmJ0VENPRVR2UkFDZFE?oc=5",
+        "publishedAt": "2026-09-02T01:30:02.000Z"
       },
       {
         "time": "20:33",
@@ -50,13 +57,6 @@
         "source": "CNET Japan",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DWXFQNkNDbHY0TkNlTl9Rd1R3WXBzeGNCOEhmN0RjZW9wQjNlSW10cjF1MEFScGROZk1Ibl8wSjJYNUZfS2t4M1RIZk1pMGFRWkE?oc=5",
         "publishedAt": "2026-09-01T15:34:00.000Z"
-      },
-      {
-        "time": "14:03",
-        "title": "三相DINレール電源の世界市場規模：年平均成長率3.8%予測、最新トレンドと需要変化2026-2032",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81Q3hWSzFBRW5LRWtwZVcxV2dhenVHbEQ5YXAwNnU5QnRnNmtoYjQ2d284N3dUeDl0WWxUV21pVlFLLTA4MFdWYzc4dUxNaVVKMEtaa1VpVVoyNThOMEk0Z1lUZThYR2h1ekJ1UkUzU3RuQVdCOGNXRzdHOA?oc=5",
-        "publishedAt": "2026-09-02T05:03:14.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-09-02T07:49:21.000Z"
       },
       {
-        "time": "08:23",
-        "title": "ツムラが「養命酒製造」買収完了",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593936?source=rss",
-        "publishedAt": "2026-09-01T23:23:34.000Z"
-      },
-      {
         "time": "14:50",
         "title": "車田正美氏 46億円の横領被害訴え",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593974?source=rss",
         "publishedAt": "2026-09-02T05:50:32.000Z"
+      },
+      {
+        "time": "12:03",
+        "title": "車田正美さん 28億円賠償求め提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593960?source=rss",
+        "publishedAt": "2026-09-02T03:03:01.000Z"
       }
     ],
     "localHeadlines": [
