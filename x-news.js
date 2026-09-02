@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T14:18:21.673Z",
+  "updatedAt": "2026-09-02T14:39:43.454Z",
   "items": [
     {
-      "time": "19:30",
-      "title": "台風24号動き遅く 大雨長引く恐れ",
+      "time": "23:30",
+      "title": "青森で猛烈な雨 災害発生の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594007?source=rss",
-      "publishedAt": "2026-09-02T10:30:25.000Z",
-      "xQuery": "台風24号動き遅く 大雨長引く恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594034?source=rss",
+      "publishedAt": "2026-09-02T14:30:49.000Z",
+      "xQuery": "青森で猛烈な雨 災害発生の恐れ"
+    },
+    {
+      "time": "23:11",
+      "title": "台湾・高雄市 熊本に1億5千万円",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594033?source=rss",
+      "publishedAt": "2026-09-02T14:11:13.000Z",
+      "xQuery": "台湾・高雄市 熊本に1億5千万円"
     },
     {
       "time": "21:43",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594016?source=rss",
       "publishedAt": "2026-09-02T11:24:39.000Z",
       "xQuery": "和菓子店の店主死亡 長男コメント"
-    },
-    {
-      "time": "22:36",
-      "title": "パワハラ報道巡り 東京MKが会見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594031?source=rss",
-      "publishedAt": "2026-09-02T13:36:56.000Z",
-      "xQuery": "パワハラ報道巡り 東京MKが会見"
     }
   ]
 };
