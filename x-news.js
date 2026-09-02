@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T05:40:47.932Z",
+  "updatedAt": "2026-09-02T06:35:37.477Z",
   "items": [
     {
       "time": "14:17",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "北日本で大雨 広範囲で雷雨に注意"
     },
     {
-      "time": "13:07",
-      "title": "GoPro 米企業に株式90%売却へ",
+      "time": "13:55",
+      "title": "論文査読にAI活用 誤情報リスクも",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593966?source=rss",
-      "publishedAt": "2026-09-02T04:07:02.000Z",
-      "xQuery": "GoPro 米企業に株式90%売却へ"
+      "url": "https://news.yahoo.co.jp/pickup/6593969?source=rss",
+      "publishedAt": "2026-09-02T04:55:56.000Z",
+      "xQuery": "論文査読にAI活用 誤情報リスクも"
+    },
+    {
+      "time": "15:12",
+      "title": "殺人未遂疑いで17歳逮捕 父親死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593976?source=rss",
+      "publishedAt": "2026-09-02T06:12:46.000Z",
+      "xQuery": "殺人未遂疑いで17歳逮捕 父親死亡"
     },
     {
       "time": "14:22",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "三菱自 新型パジェロを世界初公開"
     },
     {
-      "time": "13:37",
-      "title": "犬のヤギ襲撃 宮古島市で今年突出",
+      "time": "14:50",
+      "title": "車田正美氏 46億円の横領被害訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593968?source=rss",
-      "publishedAt": "2026-09-02T04:37:53.000Z",
-      "xQuery": "犬のヤギ襲撃 宮古島市で今年突出"
-    },
-    {
-      "time": "12:03",
-      "title": "車田正美さん 28億円賠償求め提訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593960?source=rss",
-      "publishedAt": "2026-09-02T03:03:01.000Z",
-      "xQuery": "車田正美さん 28億円賠償求め提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6593974?source=rss",
+      "publishedAt": "2026-09-02T05:50:32.000Z",
+      "xQuery": "車田正美氏 46億円の横領被害訴え"
     }
   ]
 };
