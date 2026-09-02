@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T03:41:44.695Z",
+  "updatedAt": "2026-09-02T04:22:54.903Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-09-01T07:40:03.000Z"
       },
       {
-        "time": "13:35",
-        "title": "冨士ダイス",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVVpHT3cwc04zSVA4d3RGTzFhQzB4cEtyeDVjdGNwbzVBdml3WU9YM0oxT21aRHN1M2VfMVdVVDJBQWYwSWN0azhxQ2NWemJnSExKZFB3M2NoZFpQSFhHZkNMX0hOWFh0QXNhaV9QbEQ5WnRINmVLTkFwcXVWenpVU1BBdEx1OXNJZG85N0VmRWRrNTd2dUh5UXg0c3ZCWmEyMmQ1NnJRMGpEcmlMa3NqX0UxLVJtTENRSjJBOGRmR19CUHQwbjBpTk5hX3A?oc=5",
-        "publishedAt": "2026-09-01T04:35:24.000Z"
-      },
-      {
         "time": "15:30",
         "title": "オーネックス、産業工作機械関連が好調に推移し売上増 コスト削減や生産効率化に取り組み収益体質の強化を図る",
-        "source": "minkabu.jp",
+        "source": "みんかぶ",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBVOWU2Y01ZUkduRXZmQWFWT0o0QXl5bXNxNlJUQ1ozRHpDUVd6N3IxbENSUzFheWg0ZUpkZ2Z3aWZmWWszNGc?oc=5",
         "publishedAt": "2026-09-01T06:30:01.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "冨士ダイス[6167]：JIMTOF2026（第33回日本国際工作機械見本市）に出展、初公開となる新材種を含む当社製品を展示 2026年9月1日(適時開示) ：日経会社情報DIGITAL",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ybzFkVXNnNk1yaXhKVmcyWTJrQ0ZyYlFHZzExQ2pNZGtTV2J4UDdDdlQzZDZ6UVlHdXhIWlZYNV9WQUw2bGJUUUhNUEFtaE8zX1ZBOUx3UDF1a0dGOEpHU1FHdlRNTU8xZnc?oc=5",
+        "publishedAt": "2026-09-01T04:30:00.000Z"
       },
       {
         "time": "18:15",
@@ -112,18 +112,18 @@
         "publishedAt": "2026-09-02T01:02:05.000Z"
       },
       {
-        "time": "23:33",
-        "title": "フラット35 9月の適用金利3.46%",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593916?source=rss",
-        "publishedAt": "2026-09-01T14:33:57.000Z"
-      },
-      {
         "time": "15:07",
         "title": "残業一律抑制 9/1から取りやめ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593850?source=rss",
         "publishedAt": "2026-09-01T06:07:42.000Z"
+      },
+      {
+        "time": "13:07",
+        "title": "GoPro 米企業に株式90%売却へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593966?source=rss",
+        "publishedAt": "2026-09-02T04:07:02.000Z"
       },
       {
         "time": "07:46",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-09-01T22:46:56.000Z"
       },
       {
-        "time": "17:25",
-        "title": "みんなで大家さん 事実上の終了へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593873?source=rss",
-        "publishedAt": "2026-09-01T08:25:20.000Z"
-      },
-      {
         "time": "08:23",
         "title": "ツムラが「養命酒製造」買収完了",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593936?source=rss",
         "publishedAt": "2026-09-01T23:23:34.000Z"
+      },
+      {
+        "time": "22:58",
+        "title": "レクサス 新型「NX」世界初公開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593911?source=rss",
+        "publishedAt": "2026-09-01T13:58:54.000Z"
       }
     ],
     "localHeadlines": [

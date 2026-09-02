@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T03:41:45.317Z",
+  "updatedAt": "2026-09-02T04:22:55.850Z",
   "items": [
     {
       "time": "12:10",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "マスク氏がEUを批判 G20関連会合"
     },
     {
-      "time": "10:41",
-      "title": "ネパール土石流 間一髪だった邦人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593948?source=rss",
-      "publishedAt": "2026-09-02T01:41:02.000Z",
-      "xQuery": "ネパール土石流 間一髪だった邦人"
-    },
-    {
       "time": "11:36",
       "title": "露大統領 関係悪化は日本に全責任",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6593960?source=rss",
       "publishedAt": "2026-09-02T03:03:01.000Z",
       "xQuery": "車田正美さん 28億円賠償求め提訴"
+    },
+    {
+      "time": "12:47",
+      "title": "「街の顔」百貨店の閉店加速 背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593962?source=rss",
+      "publishedAt": "2026-09-02T03:47:55.000Z",
+      "xQuery": "「街の顔」百貨店の閉店加速 背景"
     }
   ]
 };
