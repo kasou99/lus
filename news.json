@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T07:20:45.495Z",
+  "updatedAt": "2026-09-02T07:40:52.198Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-09-01T20:00:00.000Z"
       },
       {
-        "time": "16:40",
-        "title": "日立製作所が設備保全向けフィジカルAIを開発、音や振動を自然言語で解析し異常診断を効率化 1枚目の写真・画像",
-        "source": "ロボスタ",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yUnI4U0NCWjllaFhSUE5QTURyZGdTUFZIU2p6SmFPOW1wS0Exd2MySlhoZTFKMTdWOEhTRTRLSGJTcDBTT0VYc1BicWxUWFN1OGZnTkNraW9zZ0tCbGh6OW8zU2ZYT0NoWXJlTl9fQjVNY2s?oc=5",
-        "publishedAt": "2026-09-01T07:40:03.000Z"
-      },
-      {
         "time": "18:15",
         "title": "JIMTOF2026（第33回日本国際工作機械見本市）に出展、初公開となる新材種を含む当社製品を展示",
         "source": "news.infoseek.co.jp",
@@ -31,18 +24,18 @@
         "publishedAt": "2026-09-01T09:15:23.000Z"
       },
       {
-        "time": "21:00",
-        "title": "リニアモータ駆動 ナノマシニングセンタ「AZ275nS」を開発",
-        "source": "news.nicovideo.jp",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vWU9SUmsxQUZDN1ROZm94X2FZTE5DUXRENUxFVnNxZE54d1lMejg0OHYzc2ZjcjdjczAtNUZGOTJKTktGTXJNSU8xVFhkMFFXb29qbENObDB2R0ROaHlJa2w0VlhkUUttUGdTeFROcw?oc=5",
-        "publishedAt": "2026-09-01T12:00:16.000Z"
+        "time": "14:03",
+        "title": "三相DINレール電源の世界市場規模：年平均成長率3.8%予測、最新トレンドと需要変化2026-2032",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81Q3hWSzFBRW5LRWtwZVcxV2dhenVHbEQ5YXAwNnU5QnRnNmtoYjQ2d284N3dUeDl0WWxUV21pVlFLLTA4MFdWYzc4dUxNaVVKMEtaa1VpVVoyNThOMEk0Z1lUZThYR2h1ekJ1UkUzU3RuQVdCOGNXRzdHOA?oc=5",
+        "publishedAt": "2026-09-02T05:03:14.000Z"
       },
       {
-        "time": "05:00",
-        "title": "ヤマト、小型家電回収を実証 徳島で宅配網活用",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54MUZhaGluN0NNdDExMmlYbnpFcVZwMFJxT1k3YTBiWkdibFJmX2dxWDBqZ3B4bGRZTV9xdGFTcENmU2N4bFdhTDFkcmI0ZU5qUkJYX25Dak4?oc=5",
-        "publishedAt": "2026-09-01T20:00:00.000Z"
+        "time": "16:54",
+        "title": "日立製作所が設備保全向けフィジカルAIを開発、音や振動を自然言語で解析し異常診断を効率化",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96Nm1pNXJoaENUaVZKMkxuXzg2UjRzZUw2Zmp1Tzk4VTBhcHhaRV9vNTRTaDd4T2Q2eTZDdnp4WldxVWNWUXpmTThJeHBCcnRqbWdFLWdzcEM1OVBDZGNDOExseU8wWkxDTmk5RkpR?oc=5",
+        "publishedAt": "2026-09-01T07:54:52.000Z"
       },
       {
         "time": "20:33",
@@ -57,6 +50,13 @@
         "source": "CNET Japan",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DWXFQNkNDbHY0TkNlTl9Rd1R3WXBzeGNCOEhmN0RjZW9wQjNlSW10cjF1MEFScGROZk1Ibl8wSjJYNUZfS2t4M1RIZk1pMGFRWkE?oc=5",
         "publishedAt": "2026-09-01T15:34:00.000Z"
+      },
+      {
+        "time": "21:00",
+        "title": "リニアモータ駆動 ナノマシニングセンタ「AZ275nS」を開発",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vWU9SUmsxQUZDN1ROZm94X2FZTE5DUXRENUxFVnNxZE54d1lMejg0OHYzc2ZjcjdjczAtNUZGOTJKTktGTXJNSU8xVFhkMFFXb29qbENObDB2R0ROaHlJa2w0VlhkUUttUGdTeFROcw?oc=5",
+        "publishedAt": "2026-09-01T12:00:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "16:32",
+        "title": "あべちか強殺未遂事件 男公開手配",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593986?source=rss",
+        "publishedAt": "2026-09-02T07:32:39.000Z"
+      },
+      {
         "time": "15:49",
         "title": "伊勢の商店街火災 44時間後に鎮火",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593905?source=rss",
         "publishedAt": "2026-09-01T12:50:10.000Z"
-      },
-      {
-        "time": "10:52",
-        "title": "アクアラインで衝突事故 1人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593949?source=rss",
-        "publishedAt": "2026-09-02T01:52:01.000Z"
       }
     ],
     "subsidyHeadlines": [

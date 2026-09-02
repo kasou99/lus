@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T07:20:46.395Z",
+  "updatedAt": "2026-09-02T07:40:52.934Z",
   "items": [
     {
       "time": "15:52",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "論文査読にAI活用 誤情報リスクも"
     },
     {
+      "time": "16:32",
+      "title": "あべちか強殺未遂事件 男公開手配",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593986?source=rss",
+      "publishedAt": "2026-09-02T07:32:39.000Z",
+      "xQuery": "あべちか強殺未遂事件 男公開手配"
+    },
+    {
       "time": "15:12",
       "title": "殺人未遂疑いで17歳逮捕 父親死亡",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "殺人未遂疑いで17歳逮捕 父親死亡"
     },
     {
-      "time": "15:45",
-      "title": "長期金利3% 住宅ローンの相談殺到",
+      "time": "15:49",
+      "title": "伊勢の商店街火災 44時間後に鎮火",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593983?source=rss",
-      "publishedAt": "2026-09-02T06:45:54.000Z",
-      "xQuery": "長期金利3% 住宅ローンの相談殺到"
-    },
-    {
-      "time": "14:50",
-      "title": "車田正美氏 46億円の横領被害訴え",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593974?source=rss",
-      "publishedAt": "2026-09-02T05:50:32.000Z",
-      "xQuery": "車田正美氏 46億円の横領被害訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6593980?source=rss",
+      "publishedAt": "2026-09-02T06:49:07.000Z",
+      "xQuery": "伊勢の商店街火災 44時間後に鎮火"
     }
   ]
 };
