@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T23:14:41.948Z",
+  "updatedAt": "2026-09-02T23:37:15.887Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "05:00",
         "title": "インタビュー／兼松社長・宮部佳也氏 グループ一体経営推進",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSbENYbG1kbFJCVmRJaExocV8xWUEwSzk0YVQ5dmFUOFRSNEh2YnRlbXFyeE4zRkZRU2p4SXhMcnc0akpKLUlTS0tWT0VHSnQ2cEJod3JaRWs?oc=5",
         "publishedAt": "2026-09-02T20:00:00.000Z"
       },
@@ -20,7 +20,7 @@
         "time": "09:30",
         "title": "JIMTOF2026（第33回日本国際工作機械見本市）に出展、初公開となる新材種を含む当社製品を展示",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41bFZKLVJ1ZDc5LTdXS1YxRVF2TmlaSENMSjRpOUZUR2tSUV9NUjFxQjFvckxIY2QzR281MTk3OEJWSUhRN20xam1SdTY5QjlUb3N4VQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aVFVxb1RKcUFpM2lFckFVN3NsLVB2WWxsUDNTTUFEc3VRQnhjd2VjVE5qTkplMm5BZF9kdjBCc3VyX2NsSjJkdHlRUkZYWHpBajdMdGJ3VUNBXzkwNWdaZE1ISTBiNENfTDNROEREWVpzSThUWVE5bHU5MA?oc=5",
         "publishedAt": "2026-09-02T00:30:30.000Z"
       },
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-09-02T00:47:00.000Z"
       },
       {
-        "time": "08:18",
-        "title": "Liberawareが千葉県のオープンイノベーションプログラム「CHIBA OPEN INNOVATION",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sREk1TWJuRzZDQmlJSkc2Z0R3QTdudVhYVGM0MlpRelBHN3E2cXNQWTNPSUFIdjBwQ3ZsUTZJVXFmQ19JcXZjZVdTVmItTmxaR3pjUWV4U1hmcm1pdnpOeEo5Wkg4MTVvd19Ga2xxRXRJSlBoQXc?oc=5",
-        "publishedAt": "2026-09-01T23:18:22.000Z"
+        "time": "01:55",
+        "title": "日本の時計ビッグ3の株価が急騰…セイコーは36年ぶり最高値",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54ZkNNV1JFdEZHSUhVcVhad21uZ2I0UW16emFjNmt0cmlGUU01eFJRenBXbURlZllNOVE1SUFwQk4tSEY3dXlEbjMwNUhJZGthQnE5Mm1ZczBxel9DQllKT0N2NFA1aHF1ZkRPQ3h3RjIyQWt6?oc=5",
+        "publishedAt": "2026-09-02T16:55:00.000Z"
       },
       {
         "time": "13:30",
@@ -61,18 +61,18 @@
     ],
     "worldHeadlines": [
       {
+        "time": "08:32",
+        "title": "米 イラン攻撃再開「長く続かず」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594051?source=rss",
+        "publishedAt": "2026-09-02T23:32:45.000Z"
+      },
+      {
         "time": "11:36",
         "title": "露大統領 関係悪化は日本に全責任",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593953?source=rss",
         "publishedAt": "2026-09-02T02:36:54.000Z"
-      },
-      {
-        "time": "07:44",
-        "title": "ウ大統領 ロシア領空は事実上閉鎖",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593929?source=rss",
-        "publishedAt": "2026-09-01T22:44:23.000Z"
       },
       {
         "time": "16:18",
@@ -82,11 +82,11 @@
         "publishedAt": "2026-09-02T07:18:31.000Z"
       },
       {
-        "time": "10:41",
-        "title": "ネパール土石流 間一髪だった邦人",
+        "time": "08:18",
+        "title": "G20財務相会議 日本に厳しい視線",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593948?source=rss",
-        "publishedAt": "2026-09-02T01:41:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594052?source=rss",
+        "publishedAt": "2026-09-02T23:18:05.000Z"
       },
       {
         "time": "06:45",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説",
-        "source": "補助金ポータル",
+        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90V3dlOVVrSGp0bjNKUVFUck1BaHE1aE1wMkRCYUFWMG14b0htdHlOVWZQWnYtTE95RE5vcDhwT0ctell1aWxwNXRlNmVPYkNFNHpQaTA3YklPWTRlNFdudGR6N2lKdw?oc=5",
         "publishedAt": "2026-08-07T07:00:00.000Z"
       },

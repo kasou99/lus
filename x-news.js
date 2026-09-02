@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T23:14:42.649Z",
+  "updatedAt": "2026-09-02T23:37:18.992Z",
   "items": [
+    {
+      "time": "08:18",
+      "title": "G20財務相会議 日本に厳しい視線",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594052?source=rss",
+      "publishedAt": "2026-09-02T23:18:05.000Z",
+      "xQuery": "G20財務相会議 日本に厳しい視線"
+    },
+    {
+      "time": "07:34",
+      "title": "木原稔官房長官を留任で調整 首相",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594045?source=rss",
+      "publishedAt": "2026-09-02T22:34:46.000Z",
+      "xQuery": "木原稔官房長官を留任で調整 首相"
+    },
     {
       "time": "06:29",
       "title": "台風と秋雨前線 大雨長期化の恐れ",
@@ -8,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594040?source=rss",
       "publishedAt": "2026-09-02T21:29:11.000Z",
       "xQuery": "台風と秋雨前線 大雨長期化の恐れ"
-    },
-    {
-      "time": "06:58",
-      "title": "自民の鈴木幹事長続投へ 首相意向",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594042?source=rss",
-      "publishedAt": "2026-09-02T21:58:07.000Z",
-      "xQuery": "自民の鈴木幹事長続投へ 首相意向"
     },
     {
       "time": "06:14",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594050?source=rss",
       "publishedAt": "2026-09-02T22:57:20.000Z",
       "xQuery": "ウーバー 世界従業員の1割削減へ"
-    },
-    {
-      "time": "07:20",
-      "title": "大阪市「民泊」開業の規制強化へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594043?source=rss",
-      "publishedAt": "2026-09-02T22:20:19.000Z",
-      "xQuery": "大阪市「民泊」開業の規制強化へ"
     }
   ]
 };
