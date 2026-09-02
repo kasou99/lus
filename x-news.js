@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T02:00:05.076Z",
+  "updatedAt": "2026-09-02T02:43:42.970Z",
   "items": [
     {
       "time": "10:02",
@@ -10,22 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "米財務長官 日本の円安是正を支持"
     },
     {
-      "time": "08:46",
-      "title": "日本郵便の取材回答 総務省介入か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593937?source=rss",
-      "publishedAt": "2026-09-01T23:46:49.000Z",
-      "xQuery": "日本郵便の取材回答 総務省介入か"
-    },
-    {
-      "time": "09:31",
-      "title": "米攻撃 イラン結婚式4人死亡報道",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593942?source=rss",
-      "publishedAt": "2026-09-02T00:31:40.000Z",
-      "xQuery": "米攻撃 イラン結婚式4人死亡報道"
-    },
-    {
       "time": "10:41",
       "title": "ネパール土石流 間一髪だった邦人",
       "source": "Yahoo!ニュース",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール土石流 間一髪だった邦人"
     },
     {
+      "time": "11:36",
+      "title": "露大統領 関係悪化は日本に全責任",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593953?source=rss",
+      "publishedAt": "2026-09-02T02:36:54.000Z",
+      "xQuery": "露大統領 関係悪化は日本に全責任"
+    },
+    {
       "time": "10:52",
       "title": "アクアラインで衝突事故 1人死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6593949?source=rss",
       "publishedAt": "2026-09-02T01:52:01.000Z",
       "xQuery": "アクアラインで衝突事故 1人死亡"
+    },
+    {
+      "time": "11:18",
+      "title": "同姓が条件 婚活パーティーの狙い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593950?source=rss",
+      "publishedAt": "2026-09-02T02:18:54.000Z",
+      "xQuery": "同姓が条件 婚活パーティーの狙い"
     }
   ]
 };
