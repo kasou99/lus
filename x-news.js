@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T02:43:42.970Z",
+  "updatedAt": "2026-09-02T03:21:21.778Z",
   "items": [
+    {
+      "time": "12:10",
+      "title": "合流頓挫の中道 立憲系の動向焦点",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593956?source=rss",
+      "publishedAt": "2026-09-02T03:10:17.000Z",
+      "xQuery": "合流頓挫の中道 立憲系の動向焦点"
+    },
     {
       "time": "10:02",
       "title": "米財務長官 日本の円安是正を支持",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露大統領 関係悪化は日本に全責任"
     },
     {
-      "time": "10:52",
-      "title": "アクアラインで衝突事故 1人死亡",
+      "time": "12:03",
+      "title": "車田正美さん 28億円賠償求め提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593949?source=rss",
-      "publishedAt": "2026-09-02T01:52:01.000Z",
-      "xQuery": "アクアラインで衝突事故 1人死亡"
-    },
-    {
-      "time": "11:18",
-      "title": "同姓が条件 婚活パーティーの狙い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593950?source=rss",
-      "publishedAt": "2026-09-02T02:18:54.000Z",
-      "xQuery": "同姓が条件 婚活パーティーの狙い"
+      "url": "https://news.yahoo.co.jp/pickup/6593960?source=rss",
+      "publishedAt": "2026-09-02T03:03:01.000Z",
+      "xQuery": "車田正美さん 28億円賠償求め提訴"
     }
   ]
 };

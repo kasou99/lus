@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-02T02:43:41.388Z",
+  "updatedAt": "2026-09-02T03:21:20.879Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "16:40",
         "title": "日立製作所が設備保全向けフィジカルAIを開発、音や振動を自然言語で解析し異常診断を効率化",
-        "source": "robotstart.info",
+        "source": "ロボスタ",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xc2RYQzJrMFZTd0sxb2wwVjFfeWdWVU9GbHZYcjM4UFNPMVF5amhWcUFSVGx0dXZ1TWdvVUY5SHo3N1NjRzVTTEhhb2RkUEtMaksxdDZEaGM2WDRPTnJmMzIwa2w?oc=5",
         "publishedAt": "2026-09-01T07:40:03.000Z"
       },
@@ -17,6 +17,13 @@
         "publishedAt": "2026-09-01T06:00:02.000Z"
       },
       {
+        "time": "13:35",
+        "title": "冨士ダイス",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVVpHT3cwc04zSVA4d3RGTzFhQzB4cEtyeDVjdGNwbzVBdml3WU9YM0oxT21aRHN1M2VfMVdVVDJBQWYwSWN0azhxQ2NWemJnSExKZFB3M2NoZFpQSFhHZkNMX0hOWFh0QXNhaV9QbEQ5WnRINmVLTkFwcXVWenpVU1BBdEx1OXNJZG85N0VmRWRrNTd2dUh5UXg0c3ZCWmEyMmQ1NnJRMGpEcmlMa3NqX0UxLVJtTENRSjJBOGRmR19CUHQwbjBpTk5hX3A?oc=5",
+        "publishedAt": "2026-09-01T04:35:24.000Z"
+      },
+      {
         "time": "15:30",
         "title": "オーネックス、産業工作機械関連が好調に推移し売上増 コスト削減や生産効率化に取り組み収益体質の強化を図る",
         "source": "みんかぶ",
@@ -24,18 +31,11 @@
         "publishedAt": "2026-09-01T06:30:01.000Z"
       },
       {
-        "time": "13:30",
-        "title": "冨士ダイス[6167]：JIMTOF2026（第33回日本国際工作機械見本市）に出展、初公開となる新材種を含む当社製品を展示 2026年9月1日(適時開示) ：日経会社情報DIGITAL",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ybzFkVXNnNk1yaXhKVmcyWTJrQ0ZyYlFHZzExQ2pNZGtTV2J4UDdDdlQzZDZ6UVlHdXhIWlZYNV9WQUw2bGJUUUhNUEFtaE8zX1ZBOUx3UDF1a0dGOEpHU1FHdlRNTU8xZnc?oc=5",
-        "publishedAt": "2026-09-01T04:30:00.000Z"
-      },
-      {
-        "time": "15:13",
-        "title": "リニアモータ駆動 ナノマシニングセンタ「AZ275nS」を開発 企業リリース",
+        "time": "05:00",
+        "title": "ヤマト、小型家電回収を実証 徳島で宅配網活用",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12Vk9GTUxrZXpMR3B2WU9ETy1UNHhDdndNM1dXVU5ScmRnVkFPeXNxbjY4THFXWWhNMVFvNXlDNV90S3Y3Q21ZXzV4MXNKbnRzWWx4WF9GX3k?oc=5",
-        "publishedAt": "2026-09-01T06:13:35.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54MUZhaGluN0NNdDExMmlYbnpFcVZwMFJxT1k3YTBiWkdibFJmX2dxWDBqZ3B4bGRZTV9xdGFTcENmU2N4bFdhTDFkcmI0ZU5qUkJYX25Dak4?oc=5",
+        "publishedAt": "2026-09-01T20:00:00.000Z"
       },
       {
         "time": "18:15",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-02T01:52:01.000Z"
       },
       {
-        "time": "19:02",
-        "title": "上高地のバス大混雑 需要が過多",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593888?source=rss",
-        "publishedAt": "2026-09-01T10:02:29.000Z"
-      },
-      {
         "time": "08:17",
         "title": "鳥取県職員が阿部寛まねPR 反響",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593934?source=rss",
         "publishedAt": "2026-09-01T23:17:52.000Z"
+      },
+      {
+        "time": "21:34",
+        "title": "学歴ネタ動画 福島大の学長が反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593903?source=rss",
+        "publishedAt": "2026-09-01T12:34:11.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90V3dlOVVrSGp0bjNKUVFUck1BaHE1aE1wMkRCYUFWMG14b0htdHlOVWZQWnYtTE95RE5vcDhwT0ctell1aWxwNXRlNmVPYkNFNHpQaTA3YklPWTRlNFdudGR6N2lKdw?oc=5",
         "publishedAt": "2026-08-07T07:00:00.000Z"
       },
