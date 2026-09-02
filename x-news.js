@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T01:27:39.309Z",
+  "updatedAt": "2026-09-02T02:00:05.076Z",
   "items": [
     {
-      "time": "08:54",
-      "title": "ネパール土石流 時速167kmか",
+      "time": "10:02",
+      "title": "米財務長官 日本の円安是正を支持",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593938?source=rss",
-      "publishedAt": "2026-09-01T23:54:26.000Z",
-      "xQuery": "ネパール土石流 時速167kmか"
+      "url": "https://news.yahoo.co.jp/pickup/6593944?source=rss",
+      "publishedAt": "2026-09-02T01:02:05.000Z",
+      "xQuery": "米財務長官 日本の円安是正を支持"
     },
     {
       "time": "08:46",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米攻撃 イラン結婚式4人死亡報道"
     },
     {
-      "time": "08:23",
-      "title": "ツムラが「養命酒製造」買収完了",
+      "time": "10:41",
+      "title": "ネパール土石流 間一髪だった邦人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593936?source=rss",
-      "publishedAt": "2026-09-01T23:23:34.000Z",
-      "xQuery": "ツムラが「養命酒製造」買収完了"
+      "url": "https://news.yahoo.co.jp/pickup/6593948?source=rss",
+      "publishedAt": "2026-09-02T01:41:02.000Z",
+      "xQuery": "ネパール土石流 間一髪だった邦人"
     },
     {
-      "time": "07:26",
-      "title": "ホテルに放火疑い 米旅行者を逮捕",
+      "time": "10:52",
+      "title": "アクアラインで衝突事故 1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593927?source=rss",
-      "publishedAt": "2026-09-01T22:26:35.000Z",
-      "xQuery": "ホテルに放火疑い 米旅行者を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6593949?source=rss",
+      "publishedAt": "2026-09-02T01:52:01.000Z",
+      "xQuery": "アクアラインで衝突事故 1人死亡"
     }
   ]
 };

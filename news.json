@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-02T01:27:38.648Z",
+  "updatedAt": "2026-09-02T02:00:03.461Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "16:40",
         "title": "日立製作所が設備保全向けフィジカルAIを開発、音や振動を自然言語で解析し異常診断を効率化",
-        "source": "robotstart.info",
+        "source": "ロボスタ",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xc2RYQzJrMFZTd0sxb2wwVjFfeWdWVU9GbHZYcjM4UFNPMVF5amhWcUFSVGx0dXZ1TWdvVUY5SHo3N1NjRzVTTEhhb2RkUEtMaksxdDZEaGM2WDRPTnJmMzIwa2w?oc=5",
         "publishedAt": "2026-09-01T07:40:03.000Z"
       },
@@ -24,6 +24,13 @@
         "publishedAt": "2026-09-01T04:35:24.000Z"
       },
       {
+        "time": "09:30",
+        "title": "JIMTOF2026（第33回日本国際工作機械見本市）に出展、初公開となる新材種を含む当社製品を展示",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aVFVxb1RKcUFpM2lFckFVN3NsLVB2WWxsUDNTTUFEc3VRQnhjd2VjVE5qTkplMm5BZF9kdjBCc3VyX2NsSjJkdHlRUkZYWHpBajdMdGJ3VUNBXzkwNWdaZE1ISTBiNENfTDNROEREWVpzSThUWVE5bHU5MA?oc=5",
+        "publishedAt": "2026-09-02T00:30:30.000Z"
+      },
+      {
         "time": "15:30",
         "title": "オーネックス、産業工作機械関連が好調に推移し売上増 コスト削減や生産効率化に取り組み収益体質の強化を図る",
         "source": "みんかぶ",
@@ -31,18 +38,11 @@
         "publishedAt": "2026-09-01T06:30:01.000Z"
       },
       {
-        "time": "15:13",
-        "title": "リニアモータ駆動 ナノマシニングセンタ「AZ275nS」を開発 企業リリース",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12Vk9GTUxrZXpMR3B2WU9ETy1UNHhDdndNM1dXVU5ScmRnVkFPeXNxbjY4THFXWWhNMVFvNXlDNV90S3Y3Q21ZXzV4MXNKbnRzWWx4WF9GX3k?oc=5",
-        "publishedAt": "2026-09-01T06:13:35.000Z"
-      },
-      {
-        "time": "18:15",
-        "title": "JIMTOF2026（第33回日本国際工作機械見本市）に出展、初公開となる新材種を含む当社製品を展示",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1idm5Ba1lxR1BSX2tXWjJ3WjlXb0RmU1VCekNCa1RVeVcwbEpkMGYxbnpmak5NUGtZQUtXdG4tazAzQ2pIcGxBWFdER3FHX25GTmxXaHE1OXZwNENscDgyQ21uUjBwMTc1X3FmVHVJdXFaZw?oc=5",
-        "publishedAt": "2026-09-01T09:15:23.000Z"
+        "time": "07:08",
+        "title": "【THK】直線運動の絶対王者の正体〜AI・先端半導体の超微細化と高タクト化を支える「LMガイドの要塞」を牛耳る、メカニカル・コアの真実〜｜Semiconductor Geek",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hb2p5U05HQlFOUjVnSEJjdWhzWS1HZEd0LTNhcnNOMllReVp4MnFCQnhKcExQcVNkYVhNZkVEVnpXQ1Q2SjFyQ3VyNVhLdE9XWHBXT3JvM1FiZnNuR2c?oc=5",
+        "publishedAt": "2026-09-01T22:08:27.000Z"
       },
       {
         "time": "00:34",
@@ -54,7 +54,7 @@
       {
         "time": "13:22",
         "title": "「社員年収700万円」を目標にDX、社内の定型業務の約9割を自動化。愛知の制御盤メーカーが気づいた「効率化だけでは変わらない」理由",
-        "source": "DXマガジン",
+        "source": "dxmagazine.jp",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tdU9SZjFUTVZBaUFGdTY0VDBKZUxPTTJrVDlhS0tjQnotNVZFSktzd284X29hM2FLRFFLN0R3eTAxcFloS2ZuSzdDMlA?oc=5",
         "publishedAt": "2026-09-01T04:22:15.000Z"
       }
@@ -82,18 +82,11 @@
         "publishedAt": "2026-09-01T22:44:23.000Z"
       },
       {
-        "time": "09:18",
-        "title": "マスク氏がEUを批判 G20関連会合",
+        "time": "10:41",
+        "title": "ネパール土石流 間一髪だった邦人",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593941?source=rss",
-        "publishedAt": "2026-09-02T00:18:22.000Z"
-      },
-      {
-        "time": "15:04",
-        "title": "ネパール・中国土石流 死者千人超",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593852?source=rss",
-        "publishedAt": "2026-09-01T06:04:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6593948?source=rss",
+        "publishedAt": "2026-09-02T01:41:02.000Z"
       },
       {
         "time": "18:10",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593880?source=rss",
         "publishedAt": "2026-09-01T09:10:16.000Z"
+      },
+      {
+        "time": "09:18",
+        "title": "マスク氏がEUを批判 G20関連会合",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593941?source=rss",
+        "publishedAt": "2026-09-02T00:18:22.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "06:24",
-        "title": "青森県弘前市など大雨 1時間90mm",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593920?source=rss",
-        "publishedAt": "2026-09-01T21:24:49.000Z"
-      },
-      {
         "time": "07:26",
         "title": "ホテルに放火疑い 米旅行者を逮捕",
         "source": "Yahoo!ニュース",
@@ -175,6 +168,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6593905?source=rss",
         "publishedAt": "2026-09-01T12:50:10.000Z"
+      },
+      {
+        "time": "10:52",
+        "title": "アクアラインで衝突事故 1人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593949?source=rss",
+        "publishedAt": "2026-09-02T01:52:01.000Z"
       },
       {
         "time": "19:02",
