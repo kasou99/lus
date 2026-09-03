@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-02T23:37:18.992Z",
+  "updatedAt": "2026-09-03T00:50:18.390Z",
   "items": [
+    {
+      "time": "08:41",
+      "title": "青森県内で雨強まる 土砂災害警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594055?source=rss",
+      "publishedAt": "2026-09-02T23:41:07.000Z",
+      "xQuery": "青森県内で雨強まる 土砂災害警戒"
+    },
+    {
+      "time": "08:32",
+      "title": "米 イラン攻撃再開「長く続かず」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594051?source=rss",
+      "publishedAt": "2026-09-02T23:32:45.000Z",
+      "xQuery": "米 イラン攻撃再開「長く続かず」"
+    },
     {
       "time": "08:18",
       "title": "G20財務相会議 日本に厳しい視線",
@@ -10,36 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "G20財務相会議 日本に厳しい視線"
     },
     {
-      "time": "07:34",
-      "title": "木原稔官房長官を留任で調整 首相",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594045?source=rss",
-      "publishedAt": "2026-09-02T22:34:46.000Z",
-      "xQuery": "木原稔官房長官を留任で調整 首相"
-    },
-    {
-      "time": "06:29",
-      "title": "台風と秋雨前線 大雨長期化の恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594040?source=rss",
-      "publishedAt": "2026-09-02T21:29:11.000Z",
-      "xQuery": "台風と秋雨前線 大雨長期化の恐れ"
-    },
-    {
-      "time": "06:14",
-      "title": "「匿流」スマホ遠隔解析へ 提言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594038?source=rss",
-      "publishedAt": "2026-09-02T21:14:43.000Z",
-      "xQuery": "「匿流」スマホ遠隔解析へ 提言"
-    },
-    {
       "time": "07:57",
       "title": "ウーバー 世界従業員の1割削減へ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594050?source=rss",
       "publishedAt": "2026-09-02T22:57:20.000Z",
       "xQuery": "ウーバー 世界従業員の1割削減へ"
+    },
+    {
+      "time": "09:01",
+      "title": "北海道のゴキブリ増 住環境向上で",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594056?source=rss",
+      "publishedAt": "2026-09-03T00:01:03.000Z",
+      "xQuery": "北海道のゴキブリ増 住環境向上で"
     }
   ]
 };

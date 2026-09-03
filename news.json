@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-02T23:37:15.887Z",
+  "updatedAt": "2026-09-03T00:50:17.657Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "インタビュー／兼松社長・宮部佳也氏 グループ一体経営推進",
+        "source": "nikkan.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSbENYbG1kbFJCVmRJaExocV8xWUEwSzk0YVQ5dmFUOFRSNEh2YnRlbXFyeE4zRkZRU2p4SXhMcnc0akpKLUlTS0tWT0VHSnQ2cEJod3JaRWs?oc=5",
+        "publishedAt": "2026-09-02T20:00:00.000Z"
+      },
       {
         "time": "11:00",
         "title": "「工具・工作機械・ロボット特集」PR企業募集のお知らせ「エミダスマガジンWEB」で製造業の最先端技術・製品を発信",
@@ -10,39 +17,18 @@
         "publishedAt": "2026-09-02T02:00:02.000Z"
       },
       {
-        "time": "05:00",
-        "title": "インタビュー／兼松社長・宮部佳也氏 グループ一体経営推進",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSbENYbG1kbFJCVmRJaExocV8xWUEwSzk0YVQ5dmFUOFRSNEh2YnRlbXFyeE4zRkZRU2p4SXhMcnc0akpKLUlTS0tWT0VHSnQ2cEJod3JaRWs?oc=5",
-        "publishedAt": "2026-09-02T20:00:00.000Z"
+        "time": "16:01",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "sanyonews.jp",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-09-02T07:01:18.000Z"
       },
       {
-        "time": "09:30",
-        "title": "JIMTOF2026（第33回日本国際工作機械見本市）に出展、初公開となる新材種を含む当社製品を展示",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aVFVxb1RKcUFpM2lFckFVN3NsLVB2WWxsUDNTTUFEc3VRQnhjd2VjVE5qTkplMm5BZF9kdjBCc3VyX2NsSjJkdHlRUkZYWHpBajdMdGJ3VUNBXzkwNWdaZE1ISTBiNENfTDNROEREWVpzSThUWVE5bHU5MA?oc=5",
-        "publishedAt": "2026-09-02T00:30:30.000Z"
-      },
-      {
-        "time": "11:46",
+        "time": "21:21",
         "title": "丸文、9月16日から開催の「JIMA2026 第13回総合検査機器展」に出展",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zVXlKcnFVVXJXSHNTR2stRHowaFpaVlBrNk1yLVVSaTBLZzRzclJ3TWdGWFE0eVcxWkhZbVEzb2pjcFdzSVczYU9qQWRxZnlJVVdUa25BUjZTMHZraUVCUG1xM2NzMjM1RnI4?oc=5",
-        "publishedAt": "2026-09-02T02:46:00.000Z"
-      },
-      {
-        "time": "09:47",
-        "title": "千葉豪雨でアンダーパス２週間通行止め 再発防止で鎌ケ谷市長「対策検討する」",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUnNQZHNVeEhBT2R4R1dhUVJnNUN0amJ6WU43Z21wVUdZWV9IR1c0ZGFGc1lYTFRHRGR6WWpqTnNrYjkyazVZbTY1Zk5oYlVBY3pfYjJnbl9oVmVtS3JGakZUTF81dm9FOTBqblhFaHY4UXBDT0xfNmZ0clpDMXhpeDlOVnBCZzDSAYcBQVVfeXFMUFJzUGRzVXhIQU9keEdXYVFSZzVDdGpiellON2dtcFVHWVlfSEdXNGRhRnNZWExUR0Rkellqak5za2I5Mms1WW02NWZOaGJVQWN6X2IyZ25faFZlbUtyRmpGVExfNXZvRTkwam5YRWh2OFFwQ09MXzZmdHJaQzF4aXg5TlZwQmcw?oc=5",
-        "publishedAt": "2026-09-02T00:47:00.000Z"
-      },
-      {
-        "time": "01:55",
-        "title": "日本の時計ビッグ3の株価が急騰…セイコーは36年ぶり最高値",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54ZkNNV1JFdEZHSUhVcVhad21uZ2I0UW16emFjNmt0cmlGUU01eFJRenBXbURlZllNOVE1SUFwQk4tSEY3dXlEbjMwNUhJZGthQnE5Mm1ZczBxel9DQllKT0N2NFA1aHF1ZkRPQ3h3RjIyQWt6?oc=5",
-        "publishedAt": "2026-09-02T16:55:00.000Z"
+        "source": "news.nicovideo.jp",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KUTJscXVuVWdvV25WNHpNV3J2VnhrTG14Si1aR0hvZWNSZ3B5VkZKYVdiMEJnTVlnMU9ZajRxN2J1aWNCVVZNR0dUV3dRbjhKSkE4MVdzQmlYaVVBMGJnR014V2FhLUMy?oc=5",
+        "publishedAt": "2026-09-02T12:21:31.000Z"
       },
       {
         "time": "13:30",
@@ -57,6 +43,20 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEeUlzQnZzakJBTG5TZjFiaXczNjdPM3EzWUw5OS16dlN2S3A4YTRtQkpfWUtaa3pET0t3aEJDWVB6b2VUM2wySlNCUzhRX1ZLZERVZGZTQQ?oc=5",
         "publishedAt": "2026-09-02T11:30:00.000Z"
+      },
+      {
+        "time": "21:42",
+        "title": "長期金利「3%突破」は異常か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594029?source=rss",
+        "publishedAt": "2026-09-02T12:42:49.000Z"
+      },
+      {
+        "time": "15:45",
+        "title": "長期金利3% 住宅ローンの相談殺到",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6593983?source=rss",
+        "publishedAt": "2026-09-02T06:45:54.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "23:30",
-        "title": "青森で猛烈な雨 災害発生の恐れ",
+        "time": "08:41",
+        "title": "青森県内で雨強まる 土砂災害警戒",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594034?source=rss",
-        "publishedAt": "2026-09-02T14:30:49.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594055?source=rss",
+        "publishedAt": "2026-09-02T23:41:07.000Z"
       },
       {
         "time": "16:32",
@@ -218,17 +218,17 @@
       },
       {
         "time": "16:00",
-        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90V3dlOVVrSGp0bjNKUVFUck1BaHE1aE1wMkRCYUFWMG14b0htdHlOVWZQWnYtTE95RE5vcDhwT0ctell1aWxwNXRlNmVPYkNFNHpQaTA3YklPWTRlNFdudGR6N2lKdw?oc=5",
         "publishedAt": "2026-08-07T07:00:00.000Z"
       },
       {
-        "time": "16:44",
-        "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
-        "publishedAt": "2026-08-21T07:44:56.000Z"
+        "time": "16:00",
+        "title": "介護の給料は2026年いくら上がった？月1.9万円の時期・パートの扱い・処遇改善手当との違いを解説",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uSkZFanFrVDNKZ1doN3ZwdXR3ZGZzcENNcTdhRTJNM19OUTI4TGQyekdTSkV4azc0X3ZWaFVQTjJjMHN5TTF0MkdiYkh6UGlJel92M3Z0el96UHdXTlJteEJuWDRIUQ?oc=5",
+        "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ]
   }
