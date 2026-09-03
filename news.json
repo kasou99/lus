@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T12:28:16.602Z",
+  "updatedAt": "2026-09-03T12:48:32.816Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -177,11 +177,11 @@
         "publishedAt": "2026-09-03T01:43:56.000Z"
       },
       {
-        "time": "17:07",
-        "title": "メタノールで夫に障害 妻無罪判決",
+        "time": "21:40",
+        "title": "船の体育館解体 異例の「待った」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594107?source=rss",
-        "publishedAt": "2026-09-03T08:07:23.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594135?source=rss",
+        "publishedAt": "2026-09-03T12:40:39.000Z"
       },
       {
         "time": "21:22",
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90V3dlOVVrSGp0bjNKUVFUck1BaHE1aE1wMkRCYUFWMG14b0htdHlOVWZQWnYtTE95RE5vcDhwT0ctell1aWxwNXRlNmVPYkNFNHpQaTA3YklPWTRlNFdudGR6N2lKdw?oc=5",
+        "publishedAt": "2026-08-07T07:00:00.000Z"
       }
     ]
   }
