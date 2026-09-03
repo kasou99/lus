@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T13:18:30.177Z",
+  "updatedAt": "2026-09-03T13:38:50.012Z",
   "items": [
     {
       "time": "19:59",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "あべちか強殺未遂事件 容疑者逮捕"
     },
     {
-      "time": "19:29",
-      "title": "麻布十番まつりで食中毒 店主謝罪",
+      "time": "20:57",
+      "title": "祭りで食中毒 サルモネラ菌検出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594127?source=rss",
-      "publishedAt": "2026-09-03T10:29:09.000Z",
-      "xQuery": "麻布十番まつりで食中毒 店主謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6594133?source=rss",
+      "publishedAt": "2026-09-03T11:57:51.000Z",
+      "xQuery": "祭りで食中毒 サルモネラ菌検出"
     },
     {
-      "time": "21:40",
-      "title": "船の体育館解体 異例の「待った」",
+      "time": "22:14",
+      "title": "最高齢理容師の箱石さん死去109歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594135?source=rss",
-      "publishedAt": "2026-09-03T12:40:39.000Z",
-      "xQuery": "船の体育館解体 異例の「待った」"
+      "url": "https://news.yahoo.co.jp/pickup/6594137?source=rss",
+      "publishedAt": "2026-09-03T13:14:09.000Z",
+      "xQuery": "最高齢理容師の箱石さん死去109歳"
     }
   ]
 };
