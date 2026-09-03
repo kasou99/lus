@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T20:37:36.282Z",
+  "updatedAt": "2026-09-03T21:15:41.671Z",
   "items": [
     {
       "time": "22:56",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "あべちか強殺未遂事件 容疑者逮捕"
     },
     {
-      "time": "23:13",
-      "title": "八代工場の火災鎮圧 日本製紙謝罪",
+      "time": "06:06",
+      "title": "日本製紙八代工場の火災鎮火",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594145?source=rss",
-      "publishedAt": "2026-09-03T14:13:58.000Z",
-      "xQuery": "八代工場の火災鎮圧 日本製紙謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6594148?source=rss",
+      "publishedAt": "2026-09-03T21:06:25.000Z",
+      "xQuery": "日本製紙八代工場の火災鎮火"
     },
     {
       "time": "19:29",

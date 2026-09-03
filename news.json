@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-03T20:37:35.281Z",
+  "updatedAt": "2026-09-03T21:15:40.585Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:21",
+        "title": "工作機械のヤマザキマザック 本社近くに研究開発拠点 来夏開設、１６０億円投資（中部経済新聞）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fZm5oa3o5OG5zNml6Y0NETi1YaktEU2ltWllqZ1NraUZCQnFmQjBkRDlxOHJybmJQalZ5WDkxVnBQaV8wYVp3NWJTVEFnbEg5bGdkaGszMEFEb1YxLVZaTjJUVU40MGw4VGZ4eFpKcGFnT1Q4ZzJFTXZ5TEExd3M?oc=5",
+        "publishedAt": "2026-09-03T20:21:11.000Z"
+      },
       {
         "time": "02:00",
         "title": "ヤマザキマザック、160億円投じて工作機械の研究開発施設 愛知に",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JdE9xZUZvSU54cEg0Y0wtUXVCazhaX1M0enc1ZjZHQWFRVXItSURoQ0l6SmJaLVF0NmZDLXd3b3JCSEFsMTVjNlA0U2tuc3lmYTlxZGlqNWZnd0plVGVNenV1V0hJUEdkYkZTQQ?oc=5",
         "publishedAt": "2026-09-03T17:00:00.000Z"
-      },
-      {
-        "time": "05:27",
-        "title": "工作機械のヤマザキマザック 本社近くに研究開発拠点 来夏開設、１６０億円投資",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVGtmM2hIc0lRVFRBWnQ4WlpnLW0yU1BIYkRNZnNJbHNDYTBwWUpMTE8xd2xhMzJoaDE3RzM4bURZbnA1ZzNIV0tzOG5Wdmp5UC1YX0IwN2hoTUV4djlxbWpOY2VPN2gtMUpyZDc3dEZxODZKYmI5MnZZbTI5cnZrRHVrNjU3bkptRlpLVmRNNk11dDBiVThzQTBRODk4bzRLTDdMWm10Q19qMUhRWmlHNDlYUHRzS2hKQmtQTVJwRlVSN0hZbG5HQS1PTUl3ZF9JdXd6UTN5VUU2S0FncTRLUkZkRdIBkwFBVV95cUxNZS1PM0ljX1J6b1BHaEY5bnBici0xU09pNDcyUWNOajhrTDVTWl93MDRIMzJpMlRSbFJPZkFwNUZoMDFPcDJ5UVpjRFJzVnNUMnRqSF82elJhcS0zc0d1Q1NRY2t1V0pWR2FzbnQtU1MtZktJZEMwc2J2OEc3NEc3RUIzN3k2SVl2TWdUeDBLOXRnMGc?oc=5",
-        "publishedAt": "2026-09-03T20:27:17.000Z"
       },
       {
         "time": "18:52",
@@ -24,18 +24,18 @@
         "publishedAt": "2026-09-03T09:52:20.000Z"
       },
       {
-        "time": "22:10",
-        "title": "【双葉電子工業】産業用サーボモーター 「モノタロウ」への掲載を開始",
-        "source": "jiji.com",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CX3BZSXlxQlFHdlRhM2ZaTGI3b1Y2ekJadXp4eFI2WktQX3V6ZElUbmdCVDE0eld3ODVpeE1BRWZEdlNBeG05eXZsVVJXNWFzWE81UHhoV09lQ2VRX1o0d1VWNlJ2SGltYjFn?oc=5",
-        "publishedAt": "2026-09-03T13:10:00.000Z"
-      },
-      {
         "time": "15:37",
         "title": "日立製作所、設備保全の診断業務を効率化するフィジカルAI技術を開発",
         "source": "iotnews.jp",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yR1hHMWJBY015ZTZCa0hsTzNhbDZGOHdpZkx0ellSMFY2RGs1VU9qcnFtN1BnSm5CNUpSYi1jSFhVbFdGc1JWYjdGSVEwTDQ0bEHSAVdBVV95cUxQV2VwS1pmalRLbWhVS29jRGlmSUdHVTJTbXRRbTE0dXg2NGNNVmw1VnFnZEY3M01TTTZsZVZiN2JSNk81RFZqM0pKZHIzMm50eW5COEItNlk?oc=5",
         "publishedAt": "2026-09-03T06:37:50.000Z"
+      },
+      {
+        "time": "10:10",
+        "title": "【双葉電子工業】産業用サーボモーター 「モノタロウ」への掲載を開始",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SS0haVzBUTHVZV2NpVkZzREdvX1hxT1hBTUlldVBaM1lmbnAyYnRfMm9raDdTRERnME1ZTzVyTzNnM185UWUwQVJMQkV2TVlIZERzZkdEakJVQk8xREsyRVpnaWhUbU40VUE?oc=5",
+        "publishedAt": "2026-09-03T01:10:01.000Z"
       },
       {
         "time": "17:38",
@@ -47,7 +47,7 @@
       {
         "time": "10:21",
         "title": "パナソニック株式会社が設備保全クラウド「M2X」を導入",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rbGFKN1VYNXJrN0JvQjNFcDNuSzllRVZPOGNDSUppbklQN0NDZ0t5aXVBbURhQjB1OWtraE02SmJKUnA3YWl3Q0hPN2gycFB3LTZoUFpmY1F2b3dkYzdDemlrZDNmeVNSNlhBUmZhUWNtcVdXVnktQU52TQ?oc=5",
         "publishedAt": "2026-09-03T01:21:23.000Z"
       },
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "23:13",
-        "title": "八代工場の火災鎮圧 日本製紙謝罪",
+        "time": "06:06",
+        "title": "日本製紙八代工場の火災鎮火",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594145?source=rss",
-        "publishedAt": "2026-09-03T14:13:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594148?source=rss",
+        "publishedAt": "2026-09-03T21:06:25.000Z"
       },
       {
         "time": "21:10",
