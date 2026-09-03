@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T13:38:50.012Z",
+  "updatedAt": "2026-09-03T14:19:44.111Z",
   "items": [
     {
       "time": "19:59",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "維新が閣内協力へ 馬場氏推す方針"
     },
     {
-      "time": "19:28",
-      "title": "週明けにかけ大雨続く恐れ 警戒を",
+      "time": "22:56",
+      "title": "九州で記録的大雨の恐れ 厳重警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594126?source=rss",
-      "publishedAt": "2026-09-03T10:28:38.000Z",
-      "xQuery": "週明けにかけ大雨続く恐れ 警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6594140?source=rss",
+      "publishedAt": "2026-09-03T13:56:35.000Z",
+      "xQuery": "九州で記録的大雨の恐れ 厳重警戒"
     },
     {
       "time": "21:10",

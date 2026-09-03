@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T13:38:48.354Z",
+  "updatedAt": "2026-09-03T14:19:43.386Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594116?source=rss",
         "publishedAt": "2026-09-03T09:27:27.000Z"
+      },
+      {
+        "time": "23:16",
+        "title": "大和ハウス 一戸建ての部門再編へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594146?source=rss",
+        "publishedAt": "2026-09-03T14:16:21.000Z"
       },
       {
         "time": "18:18",
@@ -22,13 +29,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594100?source=rss",
         "publishedAt": "2026-09-03T06:23:51.000Z"
-      },
-      {
-        "time": "22:36",
-        "title": "パワハラ報道巡り 東京MKが会見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594031?source=rss",
-        "publishedAt": "2026-09-02T13:36:56.000Z"
       },
       {
         "time": "20:10",
@@ -112,6 +112,13 @@
         "publishedAt": "2026-09-03T09:27:27.000Z"
       },
       {
+        "time": "23:16",
+        "title": "大和ハウス 一戸建ての部門再編へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594146?source=rss",
+        "publishedAt": "2026-09-03T14:16:21.000Z"
+      },
+      {
         "time": "18:18",
         "title": "ヤマトとJAL 国内線貨物機終了へ",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594100?source=rss",
         "publishedAt": "2026-09-03T06:23:51.000Z"
-      },
-      {
-        "time": "22:36",
-        "title": "パワハラ報道巡り 東京MKが会見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594031?source=rss",
-        "publishedAt": "2026-09-02T13:36:56.000Z"
       },
       {
         "time": "20:10",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "18:33",
-        "title": "日本製紙八代 解体中に出火と通報",
+        "time": "23:13",
+        "title": "八代工場の火災鎮圧 日本製紙謝罪",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594122?source=rss",
-        "publishedAt": "2026-09-03T09:33:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594145?source=rss",
+        "publishedAt": "2026-09-03T14:13:58.000Z"
       },
       {
         "time": "21:10",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90V3dlOVVrSGp0bjNKUVFUck1BaHE1aE1wMkRCYUFWMG14b0htdHlOVWZQWnYtTE95RE5vcDhwT0ctell1aWxwNXRlNmVPYkNFNHpQaTA3YklPWTRlNFdudGR6N2lKdw?oc=5",
         "publishedAt": "2026-08-07T07:00:00.000Z"
       }
