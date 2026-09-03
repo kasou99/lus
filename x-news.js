@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T07:40:45.231Z",
+  "updatedAt": "2026-09-03T08:25:26.800Z",
   "items": [
     {
       "time": "16:16",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "白川英樹さん死去 ノーベル化学賞"
     },
     {
-      "time": "13:00",
-      "title": "NY市 小中学校でAIを原則禁止へ",
+      "time": "16:53",
+      "title": "世界遺産登録へ 彦根城の推薦決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594089?source=rss",
-      "publishedAt": "2026-09-03T04:00:18.000Z",
-      "xQuery": "NY市 小中学校でAIを原則禁止へ"
+      "url": "https://news.yahoo.co.jp/pickup/6594108?source=rss",
+      "publishedAt": "2026-09-03T07:53:32.000Z",
+      "xQuery": "世界遺産登録へ 彦根城の推薦決定"
     },
     {
-      "time": "13:48",
-      "title": "船橋で火災 焼け跡から2人の遺体",
+      "time": "17:10",
+      "title": "19歳次女を刺殺疑い 70歳の父逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594094?source=rss",
-      "publishedAt": "2026-09-03T04:48:53.000Z",
-      "xQuery": "船橋で火災 焼け跡から2人の遺体"
+      "url": "https://news.yahoo.co.jp/pickup/6594111?source=rss",
+      "publishedAt": "2026-09-03T08:10:03.000Z",
+      "xQuery": "19歳次女を刺殺疑い 70歳の父逮捕"
     },
     {
-      "time": "13:46",
-      "title": "麻布十番まつり 116人食中毒訴え",
+      "time": "16:34",
+      "title": "東映アニメ 仏DBパーク巡り声明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594092?source=rss",
-      "publishedAt": "2026-09-03T04:46:13.000Z",
-      "xQuery": "麻布十番まつり 116人食中毒訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6594104?source=rss",
+      "publishedAt": "2026-09-03T07:34:01.000Z",
+      "xQuery": "東映アニメ 仏DBパーク巡り声明"
     },
     {
-      "time": "15:16",
-      "title": "企業の制服 デザイン性向上の背景",
+      "time": "16:39",
+      "title": "30代でFIRE生活も 高まる投資熱",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594078?source=rss",
-      "publishedAt": "2026-09-03T06:16:45.000Z",
-      "xQuery": "企業の制服 デザイン性向上の背景"
+      "url": "https://news.yahoo.co.jp/pickup/6594106?source=rss",
+      "publishedAt": "2026-09-03T07:39:11.000Z",
+      "xQuery": "30代でFIRE生活も 高まる投資熱"
     }
   ]
 };
