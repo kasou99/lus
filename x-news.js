@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T11:37:21.955Z",
+  "updatedAt": "2026-09-03T12:28:17.226Z",
   "items": [
     {
       "time": "19:59",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "週明けにかけ大雨続く恐れ 警戒を"
     },
     {
+      "time": "21:10",
+      "title": "あべちか強殺未遂事件 容疑者逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594134?source=rss",
+      "publishedAt": "2026-09-03T12:10:39.000Z",
+      "xQuery": "あべちか強殺未遂事件 容疑者逮捕"
+    },
+    {
       "time": "19:29",
       "title": "麻布十番まつりで食中毒 店主謝罪",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594127?source=rss",
       "publishedAt": "2026-09-03T10:29:09.000Z",
       "xQuery": "麻布十番まつりで食中毒 店主謝罪"
-    },
-    {
-      "time": "18:18",
-      "title": "ヤマトとJAL 国内線貨物機終了へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594120?source=rss",
-      "publishedAt": "2026-09-03T09:18:02.000Z",
-      "xQuery": "ヤマトとJAL 国内線貨物機終了へ"
     },
     {
       "time": "20:10",
