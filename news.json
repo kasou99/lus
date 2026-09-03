@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T09:20:54.409Z",
+  "updatedAt": "2026-09-03T09:40:35.965Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "13:15",
         "title": "【双葉電子工業】産業用サーボモーター 「モノタロウ」への掲載を開始",
-        "source": "Excite エキサイト",
+        "source": "excite.co.jp",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OTmZ2OXFpQm5xWGJqYXBRV2VIamcwdUNVclpOZ1NQNGlOWG53c2NBZVNFS0xCTGlLZjJvd2l4bko4S0kxR2V5Z3dSZGcyVWN4UGxsU2VsU1hRVFA4a0g4YW5qNzZNcm5oQmdpOWlkYkh3MDg?oc=5",
         "publishedAt": "2026-09-03T04:15:00.000Z"
       },
@@ -26,15 +26,15 @@
       {
         "time": "23:10",
         "title": "「工具・工作機械・ロボット特集」PR企業募集のお知らせ「エミダスマガジンWEB」で製造業の最先端技術・製品を発信",
-        "source": "RBB TODAY",
+        "source": "rbbtoday.com",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lWFNheWpLTDZ1aDJpT1VmTmZIemk0OGN6Z1Q1TFlWVTRNb1dPWTFyMGg3WlFEbWdlc0xVcEQ0NDFKdVh5ZGs1SkVqU0I1YkpIYWY0dlE5TjJSZzVsMkVlN2UwOG0xMVlIcURfeXdkTkRkTzZrXzg3Tg?oc=5",
         "publishedAt": "2026-09-02T14:10:02.000Z"
       },
       {
         "time": "05:00",
-        "title": "インタビュー／兼松社長・宮部佳也氏 グループ一体経営推進",
+        "title": "6月の全国鉱工業生産",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSbENYbG1kbFJCVmRJaExocV8xWUEwSzk0YVQ5dmFUOFRSNEh2YnRlbXFyeE4zRkZRU2p4SXhMcnc0akpKLUlTS0tWT0VHSnQ2cEJod3JaRWs?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KWHYydjJpcjFzMFRGdTZLSVNnNk9ZSU9wc3RMSEFUbFM2RzBsZTNXbDN2dXJTdDdxd1hPVm5pTG5oQWU0cXJVSjN2aTVoUENTdWMzeXliWDI?oc=5",
         "publishedAt": "2026-09-02T20:00:00.000Z"
       },
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-03T07:51:26.000Z"
       },
       {
+        "time": "18:27",
+        "title": "最低賃金改定額 33府県で目安超え",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594116?source=rss",
+        "publishedAt": "2026-09-03T09:27:27.000Z"
+      },
+      {
         "time": "21:42",
         "title": "長期金利「3%突破」は異常か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594029?source=rss",
         "publishedAt": "2026-09-02T12:42:49.000Z"
-      },
-      {
-        "time": "18:18",
-        "title": "ヤマトとJAL 国内線貨物機終了へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594120?source=rss",
-        "publishedAt": "2026-09-03T09:18:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,11 @@
         "publishedAt": "2026-09-02T23:32:45.000Z"
       },
       {
-        "time": "11:36",
-        "title": "露大統領 関係悪化は日本に全責任",
+        "time": "18:20",
+        "title": "北方領土税制優遇は成功 露大統領",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6593953?source=rss",
-        "publishedAt": "2026-09-02T02:36:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594121?source=rss",
+        "publishedAt": "2026-09-03T09:20:43.000Z"
       },
       {
         "time": "08:18",
@@ -104,6 +104,13 @@
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "18:27",
+        "title": "最低賃金改定額 33府県で目安超え",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594116?source=rss",
+        "publishedAt": "2026-09-03T09:27:27.000Z"
+      },
       {
         "time": "21:42",
         "title": "長期金利「3%突破」は異常か",
@@ -138,16 +145,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594106?source=rss",
         "publishedAt": "2026-09-03T07:39:11.000Z"
-      },
-      {
-        "time": "13:06",
-        "title": "大戸屋などが好調 なぜ定食店人気",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594090?source=rss",
-        "publishedAt": "2026-09-03T04:06:03.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "18:33",
+        "title": "日本製紙八代 解体中に出火と通報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594122?source=rss",
+        "publishedAt": "2026-09-03T09:33:12.000Z"
+      },
       {
         "time": "16:53",
         "title": "世界遺産登録へ 彦根城の推薦決定",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594016?source=rss",
         "publishedAt": "2026-09-02T11:24:39.000Z"
-      },
-      {
-        "time": "13:48",
-        "title": "船橋で火災 焼け跡から2人の遺体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594094?source=rss",
-        "publishedAt": "2026-09-03T04:48:53.000Z"
       }
     ],
     "subsidyHeadlines": [
