@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T22:35:57.416Z",
+  "updatedAt": "2026-09-03T23:14:33.161Z",
   "items": [
     {
       "time": "07:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日本製紙八代工場の火災鎮火"
     },
     {
-      "time": "17:03",
-      "title": "混雑状況を床投影 東京メトロ実証",
+      "time": "21:10",
+      "title": "あべちか強殺未遂事件 容疑者逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594110?source=rss",
-      "publishedAt": "2026-09-03T08:03:44.000Z",
-      "xQuery": "混雑状況を床投影 東京メトロ実証"
+      "url": "https://news.yahoo.co.jp/pickup/6594134?source=rss",
+      "publishedAt": "2026-09-03T12:10:39.000Z",
+      "xQuery": "あべちか強殺未遂事件 容疑者逮捕"
     }
   ]
 };
