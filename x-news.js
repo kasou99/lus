@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T11:15:05.453Z",
+  "updatedAt": "2026-09-03T11:37:21.955Z",
   "items": [
+    {
+      "time": "19:59",
+      "title": "維新が閣内協力へ 馬場氏推す方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594129?source=rss",
+      "publishedAt": "2026-09-03T10:59:33.000Z",
+      "xQuery": "維新が閣内協力へ 馬場氏推す方針"
+    },
     {
       "time": "19:28",
       "title": "週明けにかけ大雨続く恐れ 警戒を",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594126?source=rss",
       "publishedAt": "2026-09-03T10:28:38.000Z",
       "xQuery": "週明けにかけ大雨続く恐れ 警戒を"
-    },
-    {
-      "time": "18:20",
-      "title": "北方領土税制優遇は成功 露大統領",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594121?source=rss",
-      "publishedAt": "2026-09-03T09:20:43.000Z",
-      "xQuery": "北方領土税制優遇は成功 露大統領"
-    },
-    {
-      "time": "18:33",
-      "title": "日本製紙八代 解体中に出火と通報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594122?source=rss",
-      "publishedAt": "2026-09-03T09:33:12.000Z",
-      "xQuery": "日本製紙八代 解体中に出火と通報"
     },
     {
       "time": "19:29",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594120?source=rss",
       "publishedAt": "2026-09-03T09:18:02.000Z",
       "xQuery": "ヤマトとJAL 国内線貨物機終了へ"
+    },
+    {
+      "time": "20:10",
+      "title": "「純金」実は銅と鉄 偽サイト被害",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594130?source=rss",
+      "publishedAt": "2026-09-03T11:10:45.000Z",
+      "xQuery": "「純金」実は銅と鉄 偽サイト被害"
     }
   ]
 };
