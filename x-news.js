@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T01:32:58.778Z",
+  "updatedAt": "2026-09-03T03:04:04.084Z",
   "items": [
     {
-      "time": "08:28",
-      "title": "中道分裂へ 野党勢力の流動化必至",
+      "time": "09:50",
+      "title": "立憲と溝 公明は生き残りへ焦り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594053?source=rss",
-      "publishedAt": "2026-09-02T23:28:10.000Z",
-      "xQuery": "中道分裂へ 野党勢力の流動化必至"
+      "url": "https://news.yahoo.co.jp/pickup/6594064?source=rss",
+      "publishedAt": "2026-09-03T00:50:13.000Z",
+      "xQuery": "立憲と溝 公明は生き残りへ焦り"
     },
     {
-      "time": "08:41",
-      "title": "青森県内で雨強まる 土砂災害警戒",
+      "time": "10:35",
+      "title": "高齢者の「運転技能検査」強化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594055?source=rss",
-      "publishedAt": "2026-09-02T23:41:07.000Z",
-      "xQuery": "青森県内で雨強まる 土砂災害警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6594066?source=rss",
+      "publishedAt": "2026-09-03T01:35:09.000Z",
+      "xQuery": "高齢者の「運転技能検査」強化へ"
     },
     {
-      "time": "08:32",
-      "title": "米 イラン攻撃再開「長く続かず」",
+      "time": "10:42",
+      "title": "茨城・神栖市長 高裁も当選認めず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594051?source=rss",
-      "publishedAt": "2026-09-02T23:32:45.000Z",
-      "xQuery": "米 イラン攻撃再開「長く続かず」"
+      "url": "https://news.yahoo.co.jp/pickup/6594067?source=rss",
+      "publishedAt": "2026-09-03T01:42:41.000Z",
+      "xQuery": "茨城・神栖市長 高裁も当選認めず"
     },
     {
-      "time": "09:53",
-      "title": "ミキサーに挟まれたか 男性死亡",
+      "time": "11:08",
+      "title": "漁船戻らず 発見の乗員3人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594065?source=rss",
-      "publishedAt": "2026-09-03T00:53:41.000Z",
-      "xQuery": "ミキサーに挟まれたか 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6594070?source=rss",
+      "publishedAt": "2026-09-03T02:08:13.000Z",
+      "xQuery": "漁船戻らず 発見の乗員3人死亡"
     },
     {
-      "time": "09:01",
-      "title": "北海道のゴキブリ増 住環境向上で",
+      "time": "11:52",
+      "title": "高圧ガス容器15本流失 千葉豪雨で",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594056?source=rss",
-      "publishedAt": "2026-09-03T00:01:03.000Z",
-      "xQuery": "北海道のゴキブリ増 住環境向上で"
+      "url": "https://news.yahoo.co.jp/pickup/6594074?source=rss",
+      "publishedAt": "2026-09-03T02:52:13.000Z",
+      "xQuery": "高圧ガス容器15本流失 千葉豪雨で"
     }
   ]
 };
