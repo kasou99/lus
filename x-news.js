@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T06:30:14.665Z",
+  "updatedAt": "2026-09-03T07:20:14.746Z",
   "items": [
     {
-      "time": "13:24",
-      "title": "東海 7日にかけ警報級大雨の恐れ",
+      "time": "16:16",
+      "title": "白川英樹さん死去 ノーベル化学賞",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594091?source=rss",
-      "publishedAt": "2026-09-03T04:24:33.000Z",
-      "xQuery": "東海 7日にかけ警報級大雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594103?source=rss",
+      "publishedAt": "2026-09-03T07:16:49.000Z",
+      "xQuery": "白川英樹さん死去 ノーベル化学賞"
     },
     {
       "time": "13:00",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "麻布十番まつり 116人食中毒訴え"
     },
     {
-      "time": "14:10",
-      "title": "皿に吸い殻で店主激怒 客の責任は",
+      "time": "15:16",
+      "title": "企業の制服 デザイン性向上の背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594097?source=rss",
-      "publishedAt": "2026-09-03T05:10:10.000Z",
-      "xQuery": "皿に吸い殻で店主激怒 客の責任は"
+      "url": "https://news.yahoo.co.jp/pickup/6594078?source=rss",
+      "publishedAt": "2026-09-03T06:16:45.000Z",
+      "xQuery": "企業の制服 デザイン性向上の背景"
     }
   ]
 };
