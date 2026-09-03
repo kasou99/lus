@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T14:19:44.111Z",
+  "updatedAt": "2026-09-03T14:39:03.246Z",
   "items": [
     {
       "time": "19:59",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "祭りで食中毒 サルモネラ菌検出"
     },
     {
-      "time": "22:14",
-      "title": "最高齢理容師の箱石さん死去109歳",
+      "time": "23:13",
+      "title": "八代工場の火災鎮圧 日本製紙謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594137?source=rss",
-      "publishedAt": "2026-09-03T13:14:09.000Z",
-      "xQuery": "最高齢理容師の箱石さん死去109歳"
+      "url": "https://news.yahoo.co.jp/pickup/6594145?source=rss",
+      "publishedAt": "2026-09-03T14:13:58.000Z",
+      "xQuery": "八代工場の火災鎮圧 日本製紙謝罪"
     }
   ]
 };
