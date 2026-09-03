@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T21:15:41.671Z",
+  "updatedAt": "2026-09-03T21:37:06.788Z",
   "items": [
     {
       "time": "22:56",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594140?source=rss",
       "publishedAt": "2026-09-03T13:56:35.000Z",
       "xQuery": "九州で記録的大雨の恐れ 厳重警戒"
+    },
+    {
+      "time": "06:27",
+      "title": "内閣改造 片山さつき財務相留任へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594150?source=rss",
+      "publishedAt": "2026-09-03T21:27:22.000Z",
+      "xQuery": "内閣改造 片山さつき財務相留任へ"
     },
     {
       "time": "17:03",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594148?source=rss",
       "publishedAt": "2026-09-03T21:06:25.000Z",
       "xQuery": "日本製紙八代工場の火災鎮火"
-    },
-    {
-      "time": "19:29",
-      "title": "麻布十番まつりで食中毒 店主謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594127?source=rss",
-      "publishedAt": "2026-09-03T10:29:09.000Z",
-      "xQuery": "麻布十番まつりで食中毒 店主謝罪"
     }
   ]
 };
