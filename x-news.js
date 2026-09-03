@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T03:04:04.084Z",
+  "updatedAt": "2026-09-03T04:59:23.388Z",
   "items": [
     {
-      "time": "09:50",
-      "title": "立憲と溝 公明は生き残りへ焦り",
+      "time": "13:24",
+      "title": "東海 7日にかけ警報級大雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594064?source=rss",
-      "publishedAt": "2026-09-03T00:50:13.000Z",
-      "xQuery": "立憲と溝 公明は生き残りへ焦り"
+      "url": "https://news.yahoo.co.jp/pickup/6594091?source=rss",
+      "publishedAt": "2026-09-03T04:24:33.000Z",
+      "xQuery": "東海 7日にかけ警報級大雨の恐れ"
     },
     {
-      "time": "10:35",
-      "title": "高齢者の「運転技能検査」強化へ",
+      "time": "13:00",
+      "title": "麻生副総裁続投へ 役員人事の狙い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594066?source=rss",
-      "publishedAt": "2026-09-03T01:35:09.000Z",
-      "xQuery": "高齢者の「運転技能検査」強化へ"
+      "url": "https://news.yahoo.co.jp/pickup/6594088?source=rss",
+      "publishedAt": "2026-09-03T04:00:44.000Z",
+      "xQuery": "麻生副総裁続投へ 役員人事の狙い"
     },
     {
-      "time": "10:42",
-      "title": "茨城・神栖市長 高裁も当選認めず",
+      "time": "13:46",
+      "title": "麻布十番まつり 116人食中毒訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594067?source=rss",
-      "publishedAt": "2026-09-03T01:42:41.000Z",
-      "xQuery": "茨城・神栖市長 高裁も当選認めず"
+      "url": "https://news.yahoo.co.jp/pickup/6594092?source=rss",
+      "publishedAt": "2026-09-03T04:46:13.000Z",
+      "xQuery": "麻布十番まつり 116人食中毒訴え"
     },
     {
-      "time": "11:08",
-      "title": "漁船戻らず 発見の乗員3人死亡",
+      "time": "13:06",
+      "title": "大戸屋などが好調 なぜ定食店人気",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594070?source=rss",
-      "publishedAt": "2026-09-03T02:08:13.000Z",
-      "xQuery": "漁船戻らず 発見の乗員3人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6594090?source=rss",
+      "publishedAt": "2026-09-03T04:06:03.000Z",
+      "xQuery": "大戸屋などが好調 なぜ定食店人気"
     },
     {
-      "time": "11:52",
-      "title": "高圧ガス容器15本流失 千葉豪雨で",
+      "time": "12:47",
+      "title": "なぜ「女性が年上」の結婚が増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594074?source=rss",
-      "publishedAt": "2026-09-03T02:52:13.000Z",
-      "xQuery": "高圧ガス容器15本流失 千葉豪雨で"
+      "url": "https://news.yahoo.co.jp/pickup/6594085?source=rss",
+      "publishedAt": "2026-09-03T03:47:39.000Z",
+      "xQuery": "なぜ「女性が年上」の結婚が増"
     }
   ]
 };

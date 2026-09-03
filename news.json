@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T03:04:03.412Z",
+  "updatedAt": "2026-09-03T04:59:22.503Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,9 +26,9 @@
       {
         "time": "23:10",
         "title": "「工具・工作機械・ロボット特集」PR企業募集のお知らせ「エミダスマガジンWEB」で製造業の最先端技術・製品を発信",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tX0o1X3pMWlJ6MGUzQzEtNFZTcVZhem1kb1lIZzdBOFpkNkNsZUxBa1RhcTJfWXJuZ3BQNGwzNHdTTHY1TWc4bkJ4QjFZYU9nSkFPSkVhbjhwQWdtZ3pfbUt2MFhLVkZaX1lj?oc=5",
-        "publishedAt": "2026-09-02T14:10:00.000Z"
+        "source": "rbbtoday.com",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lWFNheWpLTDZ1aDJpT1VmTmZIemk0OGN6Z1Q1TFlWVTRNb1dPWTFyMGg3WlFEbWdlc0xVcEQ0NDFKdVh5ZGs1SkVqU0I1YkpIYWY0dlE5TjJSZzVsMkVlN2UwOG0xMVlIcURfeXdkTkRkTzZrXzg3Tg?oc=5",
+        "publishedAt": "2026-09-02T14:10:02.000Z"
       },
       {
         "time": "05:00",
@@ -38,18 +38,18 @@
         "publishedAt": "2026-09-02T20:00:00.000Z"
       },
       {
-        "time": "11:00",
-        "title": "AIエージェントを安全に業務へ適用するための「AI品質維持サイクル」技術を開発",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EYjlMWVpNQmluMTlwV01YR3hCUncyTDNyaDh3VWRGalN1Ul9RZ25heEpGeEZRblV1YnBCbEhkVFJ3MUtZcU1CRkFpVjZQWEl6cTNrQkt4TXN1NXcxS2ZKWlZKXzVYX1RqbWc?oc=5",
-        "publishedAt": "2026-09-03T02:00:02.000Z"
+        "time": "01:55",
+        "title": "日本の時計ビッグ3の株価が急騰…セイコーは36年ぶり最高値",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54ZkNNV1JFdEZHSUhVcVhad21uZ2I0UW16emFjNmt0cmlGUU01eFJRenBXbURlZllNOVE1SUFwQk4tSEY3dXlEbjMwNUhJZGthQnE5Mm1ZczBxel9DQllKT0N2NFA1aHF1ZkRPQ3h3RjIyQWt6?oc=5",
+        "publishedAt": "2026-09-02T16:55:00.000Z"
       },
       {
-        "time": "13:30",
-        "title": "三相DINレール電源の世界市場規模：年平均成長率3.8%予測、最新トレンドと需要変化2026-2032",
-        "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ua2VYVm42a0ZLUWFTXzFKN0dMSDNLbHlFcFRNQlVuTGQ0eDVoS0lORTRfSXoyamF6VlZabWNsY2VzU1pZU1kwN1JaZVlWd3BWVlRz?oc=5",
-        "publishedAt": "2026-09-02T04:30:00.000Z"
+        "time": "20:30",
+        "title": "ホリゾンタル・バランサーの業界分析レポート：企業ランキング、価格動向、成長率2026｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEeUlzQnZzakJBTG5TZjFiaXczNjdPM3EzWUw5OS16dlN2S3A4YTRtQkpfWUtaa3pET0t3aEJDWVB6b2VUM2wySlNCUzhRX1ZLZERVZGZTQQ?oc=5",
+        "publishedAt": "2026-09-02T11:30:00.000Z"
       },
       {
         "time": "21:21",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-09-02T22:20:19.000Z"
       },
       {
+        "time": "13:06",
+        "title": "大戸屋などが好調 なぜ定食店人気",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594090?source=rss",
+        "publishedAt": "2026-09-03T04:06:03.000Z"
+      },
+      {
         "time": "22:36",
         "title": "パワハラ報道巡り 東京MKが会見",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594031?source=rss",
         "publishedAt": "2026-09-02T13:36:56.000Z"
-      },
-      {
-        "time": "20:39",
-        "title": "ファミマ おにぎり4品値下げ発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594014?source=rss",
-        "publishedAt": "2026-09-02T11:39:43.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-09-02T23:41:07.000Z"
       },
       {
-        "time": "11:52",
-        "title": "高圧ガス容器15本流失 千葉豪雨で",
+        "time": "10:42",
+        "title": "茨城・神栖市長 高裁も当選認めず",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594074?source=rss",
-        "publishedAt": "2026-09-03T02:52:13.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594067?source=rss",
+        "publishedAt": "2026-09-03T01:42:41.000Z"
       },
       {
         "time": "11:08",
@@ -170,11 +170,11 @@
         "publishedAt": "2026-09-03T02:08:13.000Z"
       },
       {
-        "time": "10:42",
-        "title": "茨城・神栖市長 高裁も当選認めず",
+        "time": "10:43",
+        "title": "ミキサーに挟まれたか 実習生死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594067?source=rss",
-        "publishedAt": "2026-09-03T01:42:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594069?source=rss",
+        "publishedAt": "2026-09-03T01:43:56.000Z"
       },
       {
         "time": "20:24",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-09-02T11:24:39.000Z"
       },
       {
-        "time": "10:43",
-        "title": "ミキサーに挟まれたか 実習生死亡",
+        "time": "13:48",
+        "title": "船橋で火災 焼け跡から2人の遺体",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594069?source=rss",
-        "publishedAt": "2026-09-03T01:43:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594094?source=rss",
+        "publishedAt": "2026-09-03T04:48:53.000Z"
       }
     ],
     "subsidyHeadlines": [
