@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T23:14:33.161Z",
+  "updatedAt": "2026-09-03T23:38:07.031Z",
   "items": [
     {
       "time": "07:21",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣改造 片山さつき財務相留任へ"
     },
     {
-      "time": "06:06",
-      "title": "日本製紙八代工場の火災鎮火",
+      "time": "08:22",
+      "title": "OpenAI「GPT-6 Astra」発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594148?source=rss",
-      "publishedAt": "2026-09-03T21:06:25.000Z",
-      "xQuery": "日本製紙八代工場の火災鎮火"
+      "url": "https://news.yahoo.co.jp/pickup/6594158?source=rss",
+      "publishedAt": "2026-09-03T23:22:36.000Z",
+      "xQuery": "OpenAI「GPT-6 Astra」発表"
     },
     {
-      "time": "21:10",
-      "title": "あべちか強殺未遂事件 容疑者逮捕",
+      "time": "08:19",
+      "title": "NVIDIA 米AI新興企業を買収へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594134?source=rss",
-      "publishedAt": "2026-09-03T12:10:39.000Z",
-      "xQuery": "あべちか強殺未遂事件 容疑者逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6594159?source=rss",
+      "publishedAt": "2026-09-03T23:19:30.000Z",
+      "xQuery": "NVIDIA 米AI新興企業を買収へ"
     }
   ]
 };

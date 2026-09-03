@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T23:14:32.303Z",
+  "updatedAt": "2026-09-03T23:38:06.258Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,9 +10,16 @@
         "publishedAt": "2026-09-03T20:21:11.000Z"
       },
       {
+        "time": "07:30",
+        "title": "半導体製造装置の生産リードタイム短縮へ、ソディックが高速ナノマシニングセンタ：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mMHA3MjhMVTFVSUt1NzBPUk5CbERBeUNkT0pYZmhLRGp0OXFjdmt1VlJuX0RyU09JTkZVQXY2ZHUzNHcxNEl6d2xuXzVManJjQUVYemhENi1DRXJ6V0x2N2lvMm9tZUItcFJJT1Z5QQ?oc=5",
+        "publishedAt": "2026-09-03T22:30:00.000Z"
+      },
+      {
         "time": "02:00",
         "title": "ヤマザキマザック、160億円投じて工作機械の研究開発施設 愛知に",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JdE9xZUZvSU54cEg0Y0wtUXVCazhaX1M0enc1ZjZHQWFRVXItSURoQ0l6SmJaLVF0NmZDLXd3b3JCSEFsMTVjNlA0U2tuc3lmYTlxZGlqNWZnd0plVGVNenV1V0hJUEdkYkZTQQ?oc=5",
         "publishedAt": "2026-09-03T17:00:00.000Z"
       },
@@ -50,16 +57,16 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pOTV1NFdJa3VDTFNIUzl6eW5xM1JCWnRJVzV6UXdvNlFLb1FaM3BrZXh0REsybWx0X2lXQzNKMERnTUFjQkhnU2hDdWNKSmo2SS1LUjY1NA?oc=5",
         "publishedAt": "2026-09-03T08:38:47.000Z"
-      },
-      {
-        "time": "12:03",
-        "title": "工作機械のインテリジェント化に向け10年先を見据えるDMG森精機がIoTでMSと協業（画像）（3/13枚目）",
-        "source": "ITmedia",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMmg5V2p4ZjBzX2F6a0JuU0JwZURlRjN4eXhCaGcwYmZ5SlEzRnpBU2lKRTk4c3NYdmZySGgyajlfR1NvdlJrWEFGanpsaTlhRG8zQ3U3TER4dkJxYWhHUXU3aUFhTmJEeDFla3dNVzF3UkhxVG9obnBUWEZPZGpLR2RwRQ?oc=5",
-        "publishedAt": "2026-09-03T03:03:27.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "08:16",
+        "title": "近づく米中間選挙 共和牙城で接戦",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594157?source=rss",
+        "publishedAt": "2026-09-03T23:16:04.000Z"
+      },
       {
         "time": "08:32",
         "title": "米 イラン攻撃再開「長く続かず」",
@@ -94,16 +101,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594075?source=rss",
         "publishedAt": "2026-09-03T02:58:16.000Z"
-      },
-      {
-        "time": "23:11",
-        "title": "台湾・高雄市 熊本に1億5千万円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594033?source=rss",
-        "publishedAt": "2026-09-02T14:11:13.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "08:19",
+        "title": "NVIDIA 米AI新興企業を買収へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594159?source=rss",
+        "publishedAt": "2026-09-03T23:19:30.000Z"
+      },
       {
         "time": "18:27",
         "title": "最低賃金改定額 33府県で目安超え",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594120?source=rss",
         "publishedAt": "2026-09-03T09:18:02.000Z"
-      },
-      {
-        "time": "15:23",
-        "title": "中国などナマコ需要増 乱獲深刻化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594100?source=rss",
-        "publishedAt": "2026-09-03T06:23:51.000Z"
       },
       {
         "time": "20:10",
@@ -170,6 +170,13 @@
         "publishedAt": "2026-09-03T14:19:33.000Z"
       },
       {
+        "time": "08:36",
+        "title": "大型トラックが車に追突 2人死傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594161?source=rss",
+        "publishedAt": "2026-09-03T23:36:17.000Z"
+      },
+      {
         "time": "21:40",
         "title": "船の体育館解体 異例の「待った」",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594137?source=rss",
         "publishedAt": "2026-09-03T13:14:09.000Z"
-      },
-      {
-        "time": "21:22",
-        "title": "秋サケ初競り 店頭で1匹88万円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594131?source=rss",
-        "publishedAt": "2026-09-03T12:22:29.000Z"
       }
     ],
     "subsidyHeadlines": [
