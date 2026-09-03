@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-03T08:25:25.926Z",
+  "updatedAt": "2026-09-03T08:44:42.807Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "13:15",
         "title": "【双葉電子工業】産業用サーボモーター 「モノタロウ」への掲載を開始",
-        "source": "Excite エキサイト",
+        "source": "excite.co.jp",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OTmZ2OXFpQm5xWGJqYXBRV2VIamcwdUNVclpOZ1NQNGlOWG53c2NBZVNFS0xCTGlLZjJvd2l4bko4S0kxR2V5Z3dSZGcyVWN4UGxsU2VsU1hRVFA4a0g4YW5qNzZNcm5oQmdpOWlkYkh3MDg?oc=5",
         "publishedAt": "2026-09-03T04:15:00.000Z"
       },
@@ -19,16 +19,9 @@
       {
         "time": "23:10",
         "title": "「工具・工作機械・ロボット特集」PR企業募集のお知らせ「エミダスマガジンWEB」で製造業の最先端技術・製品を発信",
-        "source": "RBB TODAY",
+        "source": "rbbtoday.com",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lWFNheWpLTDZ1aDJpT1VmTmZIemk0OGN6Z1Q1TFlWVTRNb1dPWTFyMGg3WlFEbWdlc0xVcEQ0NDFKdVh5ZGs1SkVqU0I1YkpIYWY0dlE5TjJSZzVsMkVlN2UwOG0xMVlIcURfeXdkTkRkTzZrXzg3Tg?oc=5",
         "publishedAt": "2026-09-02T14:10:02.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ソディック、AI関連で新たな成長軸 低PBRに見直し余地",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vNUUwU2ZnR1c1YmZncldKQWlwS2hzVVhIa0JCc0VsUEFGaXRIQnlBR290aUdheVRHM0NxX1lHZjJ0Q1VsVE15Y1d0djF3VDlLMklMV0FGcFdQNWV4UVFkVFNsQS0tamR4TTdXcXlUZUliSEF4M2x5cHRYQkowZw?oc=5",
-        "publishedAt": "2026-09-02T20:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594090?source=rss",
         "publishedAt": "2026-09-03T04:06:03.000Z"
+      },
+      {
+        "time": "22:36",
+        "title": "パワハラ報道巡り 東京MKが会見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594031?source=rss",
+        "publishedAt": "2026-09-02T13:36:56.000Z"
       }
     ],
     "worldHeadlines": [

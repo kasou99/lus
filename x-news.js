@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T08:25:26.800Z",
+  "updatedAt": "2026-09-03T08:44:43.550Z",
   "items": [
     {
       "time": "16:16",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "19歳次女を刺殺疑い 70歳の父逮捕"
     },
     {
-      "time": "16:34",
-      "title": "東映アニメ 仏DBパーク巡り声明",
+      "time": "17:07",
+      "title": "メタノールで夫に障害 妻無罪判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594104?source=rss",
-      "publishedAt": "2026-09-03T07:34:01.000Z",
-      "xQuery": "東映アニメ 仏DBパーク巡り声明"
+      "url": "https://news.yahoo.co.jp/pickup/6594107?source=rss",
+      "publishedAt": "2026-09-03T08:07:23.000Z",
+      "xQuery": "メタノールで夫に障害 妻無罪判決"
     },
     {
       "time": "16:39",
