@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T00:50:18.390Z",
+  "updatedAt": "2026-09-03T01:32:58.778Z",
   "items": [
+    {
+      "time": "08:28",
+      "title": "中道分裂へ 野党勢力の流動化必至",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594053?source=rss",
+      "publishedAt": "2026-09-02T23:28:10.000Z",
+      "xQuery": "中道分裂へ 野党勢力の流動化必至"
+    },
     {
       "time": "08:41",
       "title": "青森県内で雨強まる 土砂災害警戒",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米 イラン攻撃再開「長く続かず」"
     },
     {
-      "time": "08:18",
-      "title": "G20財務相会議 日本に厳しい視線",
+      "time": "09:53",
+      "title": "ミキサーに挟まれたか 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594052?source=rss",
-      "publishedAt": "2026-09-02T23:18:05.000Z",
-      "xQuery": "G20財務相会議 日本に厳しい視線"
-    },
-    {
-      "time": "07:57",
-      "title": "ウーバー 世界従業員の1割削減へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594050?source=rss",
-      "publishedAt": "2026-09-02T22:57:20.000Z",
-      "xQuery": "ウーバー 世界従業員の1割削減へ"
+      "url": "https://news.yahoo.co.jp/pickup/6594065?source=rss",
+      "publishedAt": "2026-09-03T00:53:41.000Z",
+      "xQuery": "ミキサーに挟まれたか 男性死亡"
     },
     {
       "time": "09:01",
