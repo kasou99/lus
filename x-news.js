@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T14:39:03.246Z",
+  "updatedAt": "2026-09-03T15:20:30.311Z",
   "items": [
-    {
-      "time": "19:59",
-      "title": "維新が閣内協力へ 馬場氏推す方針",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594129?source=rss",
-      "publishedAt": "2026-09-03T10:59:33.000Z",
-      "xQuery": "維新が閣内協力へ 馬場氏推す方針"
-    },
     {
       "time": "22:56",
       "title": "九州で記録的大雨の恐れ 厳重警戒",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594140?source=rss",
       "publishedAt": "2026-09-03T13:56:35.000Z",
       "xQuery": "九州で記録的大雨の恐れ 厳重警戒"
+    },
+    {
+      "time": "17:03",
+      "title": "混雑状況を床投影 東京メトロ実証",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594110?source=rss",
+      "publishedAt": "2026-09-03T08:03:44.000Z",
+      "xQuery": "混雑状況を床投影 東京メトロ実証"
     },
     {
       "time": "21:10",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "あべちか強殺未遂事件 容疑者逮捕"
     },
     {
-      "time": "20:57",
-      "title": "祭りで食中毒 サルモネラ菌検出",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594133?source=rss",
-      "publishedAt": "2026-09-03T11:57:51.000Z",
-      "xQuery": "祭りで食中毒 サルモネラ菌検出"
-    },
-    {
       "time": "23:13",
       "title": "八代工場の火災鎮圧 日本製紙謝罪",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594145?source=rss",
       "publishedAt": "2026-09-03T14:13:58.000Z",
       "xQuery": "八代工場の火災鎮圧 日本製紙謝罪"
+    },
+    {
+      "time": "19:29",
+      "title": "麻布十番まつりで食中毒 店主謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594127?source=rss",
+      "publishedAt": "2026-09-03T10:29:09.000Z",
+      "xQuery": "麻布十番まつりで食中毒 店主謝罪"
     }
   ]
 };
