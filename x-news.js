@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T10:18:52.049Z",
+  "updatedAt": "2026-09-03T10:38:15.955Z",
   "items": [
     {
       "time": "18:15",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "最低賃金改定額 33府県で目安超え"
     },
     {
-      "time": "17:10",
-      "title": "19歳次女を刺殺疑い 70歳の父逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594111?source=rss",
-      "publishedAt": "2026-09-03T08:10:03.000Z",
-      "xQuery": "19歳次女を刺殺疑い 70歳の父逮捕"
-    },
-    {
       "time": "17:07",
       "title": "メタノールで夫に障害 妻無罪判決",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594122?source=rss",
       "publishedAt": "2026-09-03T09:33:12.000Z",
       "xQuery": "日本製紙八代 解体中に出火と通報"
+    },
+    {
+      "time": "19:29",
+      "title": "麻布十番まつりで食中毒 店主謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594127?source=rss",
+      "publishedAt": "2026-09-03T10:29:09.000Z",
+      "xQuery": "麻布十番まつりで食中毒 店主謝罪"
     }
   ]
 };
