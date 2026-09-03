@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T10:38:15.955Z",
+  "updatedAt": "2026-09-03T11:15:05.453Z",
   "items": [
     {
-      "time": "18:15",
-      "title": "2次補正案 今秋見送りで政府調整",
+      "time": "19:28",
+      "title": "週明けにかけ大雨続く恐れ 警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594119?source=rss",
-      "publishedAt": "2026-09-03T09:15:28.000Z",
-      "xQuery": "2次補正案 今秋見送りで政府調整"
+      "url": "https://news.yahoo.co.jp/pickup/6594126?source=rss",
+      "publishedAt": "2026-09-03T10:28:38.000Z",
+      "xQuery": "週明けにかけ大雨続く恐れ 警戒を"
     },
     {
-      "time": "18:27",
-      "title": "最低賃金改定額 33府県で目安超え",
+      "time": "18:20",
+      "title": "北方領土税制優遇は成功 露大統領",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594116?source=rss",
-      "publishedAt": "2026-09-03T09:27:27.000Z",
-      "xQuery": "最低賃金改定額 33府県で目安超え"
-    },
-    {
-      "time": "17:07",
-      "title": "メタノールで夫に障害 妻無罪判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594107?source=rss",
-      "publishedAt": "2026-09-03T08:07:23.000Z",
-      "xQuery": "メタノールで夫に障害 妻無罪判決"
+      "url": "https://news.yahoo.co.jp/pickup/6594121?source=rss",
+      "publishedAt": "2026-09-03T09:20:43.000Z",
+      "xQuery": "北方領土税制優遇は成功 露大統領"
     },
     {
       "time": "18:33",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594127?source=rss",
       "publishedAt": "2026-09-03T10:29:09.000Z",
       "xQuery": "麻布十番まつりで食中毒 店主謝罪"
+    },
+    {
+      "time": "18:18",
+      "title": "ヤマトとJAL 国内線貨物機終了へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594120?source=rss",
+      "publishedAt": "2026-09-03T09:18:02.000Z",
+      "xQuery": "ヤマトとJAL 国内線貨物機終了へ"
     }
   ]
 };
