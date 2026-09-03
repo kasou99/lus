@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T05:46:17.459Z",
+  "updatedAt": "2026-09-03T06:30:14.665Z",
   "items": [
     {
       "time": "13:24",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594091?source=rss",
       "publishedAt": "2026-09-03T04:24:33.000Z",
       "xQuery": "東海 7日にかけ警報級大雨の恐れ"
+    },
+    {
+      "time": "13:00",
+      "title": "NY市 小中学校でAIを原則禁止へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594089?source=rss",
+      "publishedAt": "2026-09-03T04:00:18.000Z",
+      "xQuery": "NY市 小中学校でAIを原則禁止へ"
     },
     {
       "time": "13:48",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594092?source=rss",
       "publishedAt": "2026-09-03T04:46:13.000Z",
       "xQuery": "麻布十番まつり 116人食中毒訴え"
-    },
-    {
-      "time": "13:06",
-      "title": "大戸屋などが好調 なぜ定食店人気",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594090?source=rss",
-      "publishedAt": "2026-09-03T04:06:03.000Z",
-      "xQuery": "大戸屋などが好調 なぜ定食店人気"
     },
     {
       "time": "14:10",
