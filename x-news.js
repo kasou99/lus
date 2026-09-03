@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T04:59:23.388Z",
+  "updatedAt": "2026-09-03T05:46:17.459Z",
   "items": [
     {
       "time": "13:24",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東海 7日にかけ警報級大雨の恐れ"
     },
     {
-      "time": "13:00",
-      "title": "麻生副総裁続投へ 役員人事の狙い",
+      "time": "13:48",
+      "title": "船橋で火災 焼け跡から2人の遺体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594088?source=rss",
-      "publishedAt": "2026-09-03T04:00:44.000Z",
-      "xQuery": "麻生副総裁続投へ 役員人事の狙い"
+      "url": "https://news.yahoo.co.jp/pickup/6594094?source=rss",
+      "publishedAt": "2026-09-03T04:48:53.000Z",
+      "xQuery": "船橋で火災 焼け跡から2人の遺体"
     },
     {
       "time": "13:46",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大戸屋などが好調 なぜ定食店人気"
     },
     {
-      "time": "12:47",
-      "title": "なぜ「女性が年上」の結婚が増",
+      "time": "14:10",
+      "title": "皿に吸い殻で店主激怒 客の責任は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594085?source=rss",
-      "publishedAt": "2026-09-03T03:47:39.000Z",
-      "xQuery": "なぜ「女性が年上」の結婚が増"
+      "url": "https://news.yahoo.co.jp/pickup/6594097?source=rss",
+      "publishedAt": "2026-09-03T05:10:10.000Z",
+      "xQuery": "皿に吸い殻で店主激怒 客の責任は"
     }
   ]
 };
