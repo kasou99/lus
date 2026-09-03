@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T18:22:11.939Z",
+  "updatedAt": "2026-09-03T18:42:29.630Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,9 +12,16 @@
       {
         "time": "22:10",
         "title": "【双葉電子工業】産業用サーボモーター 「モノタロウ」への掲載を開始",
-        "source": "時事ドットコム",
+        "source": "jiji.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CX3BZSXlxQlFHdlRhM2ZaTGI3b1Y2ekJadXp4eFI2WktQX3V6ZElUbmdCVDE0eld3ODVpeE1BRWZEdlNBeG05eXZsVVJXNWFzWE81UHhoV09lQ2VRX1o0d1VWNlJ2SGltYjFn?oc=5",
         "publishedAt": "2026-09-03T13:10:00.000Z"
+      },
+      {
+        "time": "18:49",
+        "title": "【探訪・ザ・カンパニー】江口電機（倉敷市）生産ラインの効率化を後押し",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q2Q0M0ZCeGgtMkdTajBHMDVWZVBIaWFzbTRCZm1MaGxzT0tXMTJxTng1QXh1YWFRR29nZ3RTNWhSYjdSdTdtSkplVkVEOVB1dkE?oc=5",
+        "publishedAt": "2026-09-03T09:49:12.000Z"
       },
       {
         "time": "17:38",
@@ -24,11 +31,11 @@
         "publishedAt": "2026-09-03T08:38:47.000Z"
       },
       {
-        "time": "23:30",
-        "title": "大阪市×インド・ベンガルール商工会議所で製造業を中心としたビジネスツアーを開催",
-        "source": "news.nicovideo.jp",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1naHcxVmJEcjQ5TWpmenM2dXBJT09OY3MxSHFHNVdDQ3JPSGZlbkJkai1UMzhHYmREUEloTmIydkt1bVllemU1cXEwald5c3NFeWgyTFB6d2VYMG1YLWRSVUVCUW1acHBTOURPdjlsYmEtVno1NmZWU0duQQ?oc=5",
-        "publishedAt": "2026-09-03T14:30:50.000Z"
+        "time": "10:21",
+        "title": "パナソニック株式会社が設備保全クラウド「M2X」を導入",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rbGFKN1VYNXJrN0JvQjNFcDNuSzllRVZPOGNDSUppbklQN0NDZ0t5aXVBbURhQjB1OWtraE02SmJKUnA3YWl3Q0hPN2gycFB3LTZoUFpmY1F2b3dkYzdDemlrZDNmeVNSNlhBUmZhUWNtcVdXVnktQU52TQ?oc=5",
+        "publishedAt": "2026-09-03T01:21:23.000Z"
       },
       {
         "time": "18:34",
@@ -36,13 +43,6 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MalAtNmc1dDdVZ281ZEMxckd3NkFoNG40OE9pd2ZzU2dOWXhoaWpOMG81X0NMRllGVk5yZWNsYkdhRktlMkhTUnZvc3RGaHdOdS12OEF3NA?oc=5",
         "publishedAt": "2026-09-03T09:34:20.000Z"
-      },
-      {
-        "time": "10:21",
-        "title": "パナソニック株式会社が設備保全クラウド「M2X」を導入",
-        "source": "news.nicovideo.jp",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rbGFKN1VYNXJrN0JvQjNFcDNuSzllRVZPOGNDSUppbklQN0NDZ0t5aXVBbURhQjB1OWtraE02SmJKUnA3YWl3Q0hPN2gycFB3LTZoUFpmY1F2b3dkYzdDemlrZDNmeVNSNlhBUmZhUWNtcVdXVnktQU52TQ?oc=5",
-        "publishedAt": "2026-09-03T01:21:23.000Z"
       },
       {
         "time": "22:35",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90V3dlOVVrSGp0bjNKUVFUck1BaHE1aE1wMkRCYUFWMG14b0htdHlOVWZQWnYtTE95RE5vcDhwT0ctell1aWxwNXRlNmVPYkNFNHpQaTA3YklPWTRlNFdudGR6N2lKdw?oc=5",
         "publishedAt": "2026-08-07T07:00:00.000Z"
       }
