@@ -1,62 +1,62 @@
 {
-  "updatedAt": "2026-09-03T12:48:32.816Z",
+  "updatedAt": "2026-09-03T13:18:29.345Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "17:38",
+        "title": "工業用一体型サーボモーターの世界産業レポート2026：市場シェア、競争状況、成長率6.59%分析｜QYResearch",
+        "source": "note.com",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pOTV1NFdJa3VDTFNIUzl6eW5xM1JCWnRJVzV6UXdvNlFLb1FaM3BrZXh0REsybWx0X2lXQzNKMERnTUFjQkhnU2hDdWNKSmo2SS1LUjY1NA?oc=5",
+        "publishedAt": "2026-09-03T08:38:47.000Z"
+      },
+      {
+        "time": "13:15",
+        "title": "【双葉電子工業】産業用サーボモーター 「モノタロウ」への掲載を開始",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OTmZ2OXFpQm5xWGJqYXBRV2VIamcwdUNVclpOZ1NQNGlOWG53c2NBZVNFS0xCTGlLZjJvd2l4bko4S0kxR2V5Z3dSZGcyVWN4UGxsU2VsU1hRVFA4a0g4YW5qNzZNcm5oQmdpOWlkYkh3MDg?oc=5",
+        "publishedAt": "2026-09-03T04:15:00.000Z"
+      },
+      {
+        "time": "10:21",
+        "title": "パナソニック株式会社が設備保全クラウド「M2X」を導入",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rbGFKN1VYNXJrN0JvQjNFcDNuSzllRVZPOGNDSUppbklQN0NDZ0t5aXVBbURhQjB1OWtraE02SmJKUnA3YWl3Q0hPN2gycFB3LTZoUFpmY1F2b3dkYzdDemlrZDNmeVNSNlhBUmZhUWNtcVdXVnktQU52TQ?oc=5",
+        "publishedAt": "2026-09-03T01:21:23.000Z"
+      },
+      {
+        "time": "23:10",
+        "title": "「工具・工作機械・ロボット特集」PR企業募集のお知らせ「エミダスマガジンWEB」で製造業の最先端技術・製品を発信",
+        "source": "rbbtoday.com",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lWFNheWpLTDZ1aDJpT1VmTmZIemk0OGN6Z1Q1TFlWVTRNb1dPWTFyMGg3WlFEbWdlc0xVcEQ0NDFKdVh5ZGs1SkVqU0I1YkpIYWY0dlE5TjJSZzVsMkVlN2UwOG0xMVlIcURfeXdkTkRkTzZrXzg3Tg?oc=5",
+        "publishedAt": "2026-09-02T14:10:02.000Z"
+      },
+      {
+        "time": "14:57",
+        "title": "【東陽テクニカ】音響型AI予知保全システム「Windrover」でブレードの異常を早期検知",
+        "source": "ウインドジャーナル",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5OUzhzckpQUkNaajJSRjNNeU1ldm9jOXRuekVtUFU0T0wzRWw1T0pyV1l3bVExelFwdUFvRS10WnE0SmlE?oc=5",
+        "publishedAt": "2026-09-03T05:57:35.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "インタビュー／兼松社長・宮部佳也氏 グループ一体経営推進",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSbENYbG1kbFJCVmRJaExocV8xWUEwSzk0YVQ5dmFUOFRSNEh2YnRlbXFyeE4zRkZRU2p4SXhMcnc0akpKLUlTS0tWT0VHSnQ2cEJod3JaRWs?oc=5",
+        "publishedAt": "2026-09-02T20:00:00.000Z"
+      },
+      {
+        "time": "16:51",
+        "title": "AIエージェントを安全に業務へ適用するための「AI品質維持サイクル」技術を開発",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmY2ZVS1hENUI5TS1sTVNxelNTZlRwTV9wNmJiN3VvMDVrVkx3T01nZ3U3SURVMzRPU2pzWUt5Z0lMeUl5NWxmeGFTeVUyUG8zdXpWQ1M0NG9OZVdjU3Bpam5QRGpLR2NmdHJrc1BjenF0aFltd2pVaEhfVQ?oc=5",
+        "publishedAt": "2026-09-03T07:51:26.000Z"
+      },
       {
         "time": "18:27",
         "title": "最低賃金改定額 33府県で目安超え",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594116?source=rss",
         "publishedAt": "2026-09-03T09:27:27.000Z"
-      },
-      {
-        "time": "18:18",
-        "title": "ヤマトとJAL 国内線貨物機終了へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594120?source=rss",
-        "publishedAt": "2026-09-03T09:18:02.000Z"
-      },
-      {
-        "time": "15:23",
-        "title": "中国などナマコ需要増 乱獲深刻化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594100?source=rss",
-        "publishedAt": "2026-09-03T06:23:51.000Z"
-      },
-      {
-        "time": "22:36",
-        "title": "パワハラ報道巡り 東京MKが会見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594031?source=rss",
-        "publishedAt": "2026-09-02T13:36:56.000Z"
-      },
-      {
-        "time": "20:10",
-        "title": "「純金」実は銅と鉄 偽サイト被害",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594130?source=rss",
-        "publishedAt": "2026-09-03T11:10:45.000Z"
-      },
-      {
-        "time": "16:39",
-        "title": "30代でFIRE生活も 高まる投資熱",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594106?source=rss",
-        "publishedAt": "2026-09-03T07:39:11.000Z"
-      },
-      {
-        "time": "13:06",
-        "title": "大戸屋などが好調 なぜ定食店人気",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594090?source=rss",
-        "publishedAt": "2026-09-03T04:06:03.000Z"
-      },
-      {
-        "time": "14:10",
-        "title": "皿に吸い殻で店主激怒 客の責任は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594097?source=rss",
-        "publishedAt": "2026-09-03T05:10:10.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,18 +170,18 @@
         "publishedAt": "2026-09-03T08:10:03.000Z"
       },
       {
-        "time": "10:43",
-        "title": "ミキサーに挟まれたか 実習生死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594069?source=rss",
-        "publishedAt": "2026-09-03T01:43:56.000Z"
-      },
-      {
         "time": "21:40",
         "title": "船の体育館解体 異例の「待った」",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594135?source=rss",
         "publishedAt": "2026-09-03T12:40:39.000Z"
+      },
+      {
+        "time": "22:14",
+        "title": "最高齢理容師の箱石さん死去109歳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594137?source=rss",
+        "publishedAt": "2026-09-03T13:14:09.000Z"
       },
       {
         "time": "21:22",

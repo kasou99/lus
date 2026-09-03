@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T12:48:33.957Z",
+  "updatedAt": "2026-09-03T13:18:30.177Z",
   "items": [
     {
       "time": "19:59",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "麻布十番まつりで食中毒 店主謝罪"
     },
     {
-      "time": "20:10",
-      "title": "「純金」実は銅と鉄 偽サイト被害",
+      "time": "21:40",
+      "title": "船の体育館解体 異例の「待った」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594130?source=rss",
-      "publishedAt": "2026-09-03T11:10:45.000Z",
-      "xQuery": "「純金」実は銅と鉄 偽サイト被害"
+      "url": "https://news.yahoo.co.jp/pickup/6594135?source=rss",
+      "publishedAt": "2026-09-03T12:40:39.000Z",
+      "xQuery": "船の体育館解体 異例の「待った」"
     }
   ]
 };
