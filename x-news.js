@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T22:16:16.827Z",
+  "updatedAt": "2026-09-03T22:35:57.416Z",
   "items": [
     {
-      "time": "22:56",
-      "title": "九州で記録的大雨の恐れ 厳重警戒",
+      "time": "07:21",
+      "title": "四国や九州 災害危険度高まる恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594140?source=rss",
-      "publishedAt": "2026-09-03T13:56:35.000Z",
-      "xQuery": "九州で記録的大雨の恐れ 厳重警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6594154?source=rss",
+      "publishedAt": "2026-09-03T22:21:47.000Z",
+      "xQuery": "四国や九州 災害危険度高まる恐れ"
     },
     {
-      "time": "06:06",
-      "title": "日本製紙八代工場の火災鎮火",
+      "time": "07:16",
+      "title": "臨時国会 10月上旬に召集で調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594148?source=rss",
-      "publishedAt": "2026-09-03T21:06:25.000Z",
-      "xQuery": "日本製紙八代工場の火災鎮火"
+      "url": "https://news.yahoo.co.jp/pickup/6594153?source=rss",
+      "publishedAt": "2026-09-03T22:16:03.000Z",
+      "xQuery": "臨時国会 10月上旬に召集で調整"
     },
     {
       "time": "06:27",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣改造 片山さつき財務相留任へ"
     },
     {
+      "time": "06:06",
+      "title": "日本製紙八代工場の火災鎮火",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594148?source=rss",
+      "publishedAt": "2026-09-03T21:06:25.000Z",
+      "xQuery": "日本製紙八代工場の火災鎮火"
+    },
+    {
       "time": "17:03",
       "title": "混雑状況を床投影 東京メトロ実証",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594110?source=rss",
       "publishedAt": "2026-09-03T08:03:44.000Z",
       "xQuery": "混雑状況を床投影 東京メトロ実証"
-    },
-    {
-      "time": "21:10",
-      "title": "あべちか強殺未遂事件 容疑者逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594134?source=rss",
-      "publishedAt": "2026-09-03T12:10:39.000Z",
-      "xQuery": "あべちか強殺未遂事件 容疑者逮捕"
     }
   ]
 };
