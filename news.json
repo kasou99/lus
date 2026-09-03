@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T21:37:06.228Z",
+  "updatedAt": "2026-09-03T22:16:16.062Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JdE9xZUZvSU54cEg0Y0wtUXVCazhaX1M0enc1ZjZHQWFRVXItSURoQ0l6SmJaLVF0NmZDLXd3b3JCSEFsMTVjNlA0U2tuc3lmYTlxZGlqNWZnd0plVGVNenV1V0hJUEdkYkZTQQ?oc=5",
         "publishedAt": "2026-09-03T17:00:00.000Z"
+      },
+      {
+        "time": "05:20",
+        "title": "工作機械のヤマザキマザック 本社近くに研究開発拠点 来夏開設、１６０億円投資",
+        "source": "47NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NWE5nN3o0SWhueTlwazRYMmJ2WDFvUEJFS1pmb29pdWxRZ1NqcFpEZkpXNmlHY0tKVi1hU2J3d3dhZ3gtbEp0aHF4NA?oc=5",
+        "publishedAt": "2026-09-03T20:20:06.000Z"
       },
       {
         "time": "18:52",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-09-03T08:38:47.000Z"
       },
       {
-        "time": "10:21",
-        "title": "パナソニック株式会社が設備保全クラウド「M2X」を導入",
-        "source": "news.nicovideo.jp",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rbGFKN1VYNXJrN0JvQjNFcDNuSzllRVZPOGNDSUppbklQN0NDZ0t5aXVBbURhQjB1OWtraE02SmJKUnA3YWl3Q0hPN2gycFB3LTZoUFpmY1F2b3dkYzdDemlrZDNmeVNSNlhBUmZhUWNtcVdXVnktQU52TQ?oc=5",
-        "publishedAt": "2026-09-03T01:21:23.000Z"
-      },
-      {
-        "time": "18:34",
-        "title": "低電圧DCサーボモーター市場規模分析レポート：2026年は329百万米ドルに到達予測｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MalAtNmc1dDdVZ281ZEMxckd3NkFoNG40OE9pd2ZzU2dOWXhoaWpOMG81X0NMRllGVk5yZWNsYkdhRktlMkhTUnZvc3RGaHdOdS12OEF3NA?oc=5",
-        "publishedAt": "2026-09-03T09:34:20.000Z"
+        "time": "12:03",
+        "title": "工作機械のインテリジェント化に向け10年先を見据えるDMG森精機がIoTでMSと協業（画像）（3/13枚目）",
+        "source": "ITmedia",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMmg5V2p4ZjBzX2F6a0JuU0JwZURlRjN4eXhCaGcwYmZ5SlEzRnpBU2lKRTk4c3NYdmZySGgyajlfR1NvdlJrWEFGanpsaTlhRG8zQ3U3TER4dkJxYWhHUXU3aUFhTmJEeDFla3dNVzF3UkhxVG9obnBUWEZPZGpLR2RwRQ?oc=5",
+        "publishedAt": "2026-09-03T03:03:27.000Z"
       }
     ],
     "worldHeadlines": [
