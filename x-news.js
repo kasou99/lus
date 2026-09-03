@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T09:40:36.607Z",
+  "updatedAt": "2026-09-03T10:18:52.049Z",
   "items": [
     {
-      "time": "16:16",
-      "title": "白川英樹さん死去 ノーベル化学賞",
+      "time": "18:15",
+      "title": "2次補正案 今秋見送りで政府調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594103?source=rss",
-      "publishedAt": "2026-09-03T07:16:49.000Z",
-      "xQuery": "白川英樹さん死去 ノーベル化学賞"
+      "url": "https://news.yahoo.co.jp/pickup/6594119?source=rss",
+      "publishedAt": "2026-09-03T09:15:28.000Z",
+      "xQuery": "2次補正案 今秋見送りで政府調整"
     },
     {
-      "time": "16:53",
-      "title": "世界遺産登録へ 彦根城の推薦決定",
+      "time": "18:27",
+      "title": "最低賃金改定額 33府県で目安超え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594108?source=rss",
-      "publishedAt": "2026-09-03T07:53:32.000Z",
-      "xQuery": "世界遺産登録へ 彦根城の推薦決定"
+      "url": "https://news.yahoo.co.jp/pickup/6594116?source=rss",
+      "publishedAt": "2026-09-03T09:27:27.000Z",
+      "xQuery": "最低賃金改定額 33府県で目安超え"
     },
     {
       "time": "17:10",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "メタノールで夫に障害 妻無罪判決"
     },
     {
-      "time": "16:39",
-      "title": "30代でFIRE生活も 高まる投資熱",
+      "time": "18:33",
+      "title": "日本製紙八代 解体中に出火と通報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594106?source=rss",
-      "publishedAt": "2026-09-03T07:39:11.000Z",
-      "xQuery": "30代でFIRE生活も 高まる投資熱"
+      "url": "https://news.yahoo.co.jp/pickup/6594122?source=rss",
+      "publishedAt": "2026-09-03T09:33:12.000Z",
+      "xQuery": "日本製紙八代 解体中に出火と通報"
     }
   ]
 };
