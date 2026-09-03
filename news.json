@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-09-03T08:44:42.807Z",
+  "updatedAt": "2026-09-03T09:20:54.409Z",
   "groups": {
     "machineHeadlines": [
       {
+        "time": "17:38",
+        "title": "工業用一体型サーボモーターの世界産業レポート2026：市場シェア、競争状況、成長率6.59%分析｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pOTV1NFdJa3VDTFNIUzl6eW5xM1JCWnRJVzV6UXdvNlFLb1FaM3BrZXh0REsybWx0X2lXQzNKMERnTUFjQkhnU2hDdWNKSmo2SS1LUjY1NA?oc=5",
+        "publishedAt": "2026-09-03T08:38:47.000Z"
+      },
+      {
         "time": "13:15",
         "title": "【双葉電子工業】産業用サーボモーター 「モノタロウ」への掲載を開始",
-        "source": "excite.co.jp",
+        "source": "Excite エキサイト",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OTmZ2OXFpQm5xWGJqYXBRV2VIamcwdUNVclpOZ1NQNGlOWG53c2NBZVNFS0xCTGlLZjJvd2l4bko4S0kxR2V5Z3dSZGcyVWN4UGxsU2VsU1hRVFA4a0g4YW5qNzZNcm5oQmdpOWlkYkh3MDg?oc=5",
         "publishedAt": "2026-09-03T04:15:00.000Z"
       },
@@ -19,7 +26,7 @@
       {
         "time": "23:10",
         "title": "「工具・工作機械・ロボット特集」PR企業募集のお知らせ「エミダスマガジンWEB」で製造業の最先端技術・製品を発信",
-        "source": "rbbtoday.com",
+        "source": "RBB TODAY",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lWFNheWpLTDZ1aDJpT1VmTmZIemk0OGN6Z1Q1TFlWVTRNb1dPWTFyMGg3WlFEbWdlc0xVcEQ0NDFKdVh5ZGs1SkVqU0I1YkpIYWY0dlE5TjJSZzVsMkVlN2UwOG0xMVlIcURfeXdkTkRkTzZrXzg3Tg?oc=5",
         "publishedAt": "2026-09-02T14:10:02.000Z"
       },
@@ -45,18 +52,11 @@
         "publishedAt": "2026-09-02T12:42:49.000Z"
       },
       {
-        "time": "13:06",
-        "title": "大戸屋などが好調 なぜ定食店人気",
+        "time": "18:18",
+        "title": "ヤマトとJAL 国内線貨物機終了へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594090?source=rss",
-        "publishedAt": "2026-09-03T04:06:03.000Z"
-      },
-      {
-        "time": "22:36",
-        "title": "パワハラ報道巡り 東京MKが会見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594031?source=rss",
-        "publishedAt": "2026-09-02T13:36:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594120?source=rss",
+        "publishedAt": "2026-09-03T09:18:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,11 +112,18 @@
         "publishedAt": "2026-09-02T12:42:49.000Z"
       },
       {
-        "time": "13:06",
-        "title": "大戸屋などが好調 なぜ定食店人気",
+        "time": "18:18",
+        "title": "ヤマトとJAL 国内線貨物機終了へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594090?source=rss",
-        "publishedAt": "2026-09-03T04:06:03.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594120?source=rss",
+        "publishedAt": "2026-09-03T09:18:02.000Z"
+      },
+      {
+        "time": "15:23",
+        "title": "中国などナマコ需要増 乱獲深刻化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594100?source=rss",
+        "publishedAt": "2026-09-03T06:23:51.000Z"
       },
       {
         "time": "22:36",
@@ -126,13 +133,6 @@
         "publishedAt": "2026-09-02T13:36:56.000Z"
       },
       {
-        "time": "20:39",
-        "title": "ファミマ おにぎり4品値下げ発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594014?source=rss",
-        "publishedAt": "2026-09-02T11:39:43.000Z"
-      },
-      {
         "time": "16:39",
         "title": "30代でFIRE生活も 高まる投資熱",
         "source": "Yahoo!ニュース",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-09-03T07:39:11.000Z"
       },
       {
-        "time": "15:23",
-        "title": "中国などナマコ需要増 乱獲深刻化",
+        "time": "13:06",
+        "title": "大戸屋などが好調 なぜ定食店人気",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594100?source=rss",
-        "publishedAt": "2026-09-03T06:23:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594090?source=rss",
+        "publishedAt": "2026-09-03T04:06:03.000Z"
       }
     ],
     "localHeadlines": [
