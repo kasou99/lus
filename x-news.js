@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T21:14:40.262Z",
+  "updatedAt": "2026-09-04T21:37:36.082Z",
   "items": [
     {
       "time": "05:26",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "関東～九州 大雨の終わり見えず"
     },
     {
+      "time": "06:14",
+      "title": "インドネシアの火山で大規模噴火",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594248?source=rss",
+      "publishedAt": "2026-09-04T21:14:20.000Z",
+      "xQuery": "インドネシアの火山で大規模噴火"
+    },
+    {
       "time": "22:21",
       "title": "米8月雇用16.2万人増 予想上回る",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594237?source=rss",
       "publishedAt": "2026-09-04T13:21:22.000Z",
       "xQuery": "米8月雇用16.2万人増 予想上回る"
-    },
-    {
-      "time": "22:59",
-      "title": "濁流で両親死亡 遺品は朱印帳だけ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594241?source=rss",
-      "publishedAt": "2026-09-04T13:59:27.000Z",
-      "xQuery": "濁流で両親死亡 遺品は朱印帳だけ"
     }
   ]
 };
