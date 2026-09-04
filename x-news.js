@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T14:37:54.427Z",
+  "updatedAt": "2026-09-04T15:17:16.378Z",
   "items": [
     {
       "time": "22:55",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米8月雇用16.2万人増 予想上回る"
     },
     {
+      "time": "17:14",
+      "title": "24年の体外受精児8万6473人 最多",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594216?source=rss",
+      "publishedAt": "2026-09-04T08:14:52.000Z",
+      "xQuery": "24年の体外受精児8万6473人 最多"
+    },
+    {
       "time": "21:32",
       "title": "家事支援の国家資格化 懸念の声も",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594232?source=rss",
       "publishedAt": "2026-09-04T12:32:11.000Z",
       "xQuery": "家事支援の国家資格化 懸念の声も"
-    },
-    {
-      "time": "20:45",
-      "title": "相模原の高3殺害事件 19歳を起訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594233?source=rss",
-      "publishedAt": "2026-09-04T11:45:26.000Z",
-      "xQuery": "相模原の高3殺害事件 19歳を起訴"
     },
     {
       "time": "22:59",
