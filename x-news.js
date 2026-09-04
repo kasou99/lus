@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T20:37:07.014Z",
+  "updatedAt": "2026-09-04T21:14:40.262Z",
   "items": [
     {
       "time": "05:26",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594245?source=rss",
       "publishedAt": "2026-09-04T20:26:34.000Z",
       "xQuery": "屋久島町に土砂災害特別警報"
+    },
+    {
+      "time": "06:08",
+      "title": "中継 特別警報受け気象庁が会見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594247?source=rss",
+      "publishedAt": "2026-09-04T21:08:26.000Z",
+      "xQuery": "中継 特別警報受け気象庁が会見"
     },
     {
       "time": "22:55",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594237?source=rss",
       "publishedAt": "2026-09-04T13:21:22.000Z",
       "xQuery": "米8月雇用16.2万人増 予想上回る"
-    },
-    {
-      "time": "17:14",
-      "title": "24年の体外受精児8万6473人 最多",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594216?source=rss",
-      "publishedAt": "2026-09-04T08:14:52.000Z",
-      "xQuery": "24年の体外受精児8万6473人 最多"
     },
     {
       "time": "22:59",
