@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T13:38:06.826Z",
+  "updatedAt": "2026-09-04T14:17:12.061Z",
   "items": [
     {
-      "time": "19:15",
-      "title": "大雨 週明けにかけ関東など拡大か",
+      "time": "22:55",
+      "title": "関東～九州 大雨の終わり見えず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594228?source=rss",
-      "publishedAt": "2026-09-04T10:15:06.000Z",
-      "xQuery": "大雨 週明けにかけ関東など拡大か"
+      "url": "https://news.yahoo.co.jp/pickup/6594240?source=rss",
+      "publishedAt": "2026-09-04T13:55:37.000Z",
+      "xQuery": "関東～九州 大雨の終わり見えず"
     },
     {
       "time": "22:21",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "相模原の高3殺害事件 19歳を起訴"
     },
     {
-      "time": "19:47",
-      "title": "川にコンクリ製の工作物 無断設置",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594229?source=rss",
-      "publishedAt": "2026-09-04T10:47:26.000Z",
-      "xQuery": "川にコンクリ製の工作物 無断設置"
-    },
-    {
       "time": "20:02",
       "title": "大阪高裁 Teamsに約6000人誤登録",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594230?source=rss",
       "publishedAt": "2026-09-04T11:02:17.000Z",
       "xQuery": "大阪高裁 Teamsに約6000人誤登録"
+    },
+    {
+      "time": "18:15",
+      "title": "大手居酒屋も100円台の酒 狙いは",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594220?source=rss",
+      "publishedAt": "2026-09-04T09:15:12.000Z",
+      "xQuery": "大手居酒屋も100円台の酒 狙いは"
     }
   ]
 };
