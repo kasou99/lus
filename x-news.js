@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T04:41:39.602Z",
+  "updatedAt": "2026-09-04T05:17:47.273Z",
   "items": [
     {
       "time": "11:58",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イオンタウンでガス漏れ 客ら避難"
     },
     {
-      "time": "10:42",
-      "title": "「まんじゅうや」票無効 市民の声",
+      "time": "13:42",
+      "title": "ネパール 生存者2人救出と報道",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594177?source=rss",
-      "publishedAt": "2026-09-04T01:42:24.000Z",
-      "xQuery": "「まんじゅうや」票無効 市民の声"
+      "url": "https://news.yahoo.co.jp/pickup/6594198?source=rss",
+      "publishedAt": "2026-09-04T04:42:04.000Z",
+      "xQuery": "ネパール 生存者2人救出と報道"
     },
     {
       "time": "13:25",
