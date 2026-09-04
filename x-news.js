@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-03T23:38:07.031Z",
+  "updatedAt": "2026-09-04T00:47:17.648Z",
   "items": [
     {
       "time": "07:21",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "四国や九州 災害危険度高まる恐れ"
     },
     {
-      "time": "07:16",
-      "title": "臨時国会 10月上旬に召集で調整",
+      "time": "09:14",
+      "title": "米中間選挙 共和牙城で異例の接戦",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594153?source=rss",
-      "publishedAt": "2026-09-03T22:16:03.000Z",
-      "xQuery": "臨時国会 10月上旬に召集で調整"
+      "url": "https://news.yahoo.co.jp/pickup/6594166?source=rss",
+      "publishedAt": "2026-09-04T00:14:21.000Z",
+      "xQuery": "米中間選挙 共和牙城で異例の接戦"
     },
     {
-      "time": "06:27",
-      "title": "内閣改造 片山さつき財務相留任へ",
+      "time": "09:24",
+      "title": "闇サイト殺人 娘が伝えたウソ番号",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594150?source=rss",
-      "publishedAt": "2026-09-03T21:27:22.000Z",
-      "xQuery": "内閣改造 片山さつき財務相留任へ"
+      "url": "https://news.yahoo.co.jp/pickup/6594164?source=rss",
+      "publishedAt": "2026-09-04T00:24:59.000Z",
+      "xQuery": "闇サイト殺人 娘が伝えたウソ番号"
     },
     {
-      "time": "08:22",
-      "title": "OpenAI「GPT-6 Astra」発表",
+      "time": "08:40",
+      "title": "GPT-6発表 人間の監‌視を回避も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594158?source=rss",
-      "publishedAt": "2026-09-03T23:22:36.000Z",
-      "xQuery": "OpenAI「GPT-6 Astra」発表"
+      "url": "https://news.yahoo.co.jp/pickup/6594163?source=rss",
+      "publishedAt": "2026-09-03T23:40:44.000Z",
+      "xQuery": "GPT-6発表 人間の監‌視を回避も"
     },
     {
       "time": "08:19",
