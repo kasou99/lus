@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-04T10:18:01.657Z",
+  "updatedAt": "2026-09-04T10:38:20.266Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "11:43",
         "title": "パナソニック、設備保全クラウド「M2X」を導入--工場DXと保全業務の効率化を推進",
-        "source": "ZDNET Japan",
+        "source": "japan.zdnet.com",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kdXVxU1JHeV90N2p1SkozRTlVR0NoWWpDSEFPcVdLRGZuR3NnakRCMFBlR2Y1X3BvUnVhWVA3eUhCTmx1NHEzeWk0b2x5NzlzSldN?oc=5",
         "publishedAt": "2026-09-04T02:43:00.000Z"
       },
@@ -26,7 +26,7 @@
       {
         "time": "07:30",
         "title": "半導体製造装置の生産リードタイム短縮へ、ソディックが高速ナノマシニングセンタ：工作機械",
-        "source": "monoist.itmedia.co.jp",
+        "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mMHA3MjhMVTFVSUt1NzBPUk5CbERBeUNkT0pYZmhLRGp0OXFjdmt1VlJuX0RyU09JTkZVQXY2ZHUzNHcxNEl6d2xuXzVManJjQUVYemhENi1DRXJ6V0x2N2lvMm9tZUItcFJJT1Z5QQ?oc=5",
         "publishedAt": "2026-09-03T22:30:00.000Z"
       },
@@ -40,7 +40,7 @@
       {
         "time": "02:00",
         "title": "ヤマザキマザック、160億円投じて工作機械の研究開発施設 愛知に",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JdE9xZUZvSU54cEg0Y0wtUXVCazhaX1M0enc1ZjZHQWFRVXItSURoQ0l6SmJaLVF0NmZDLXd3b3JCSEFsMTVjNlA0U2tuc3lmYTlxZGlqNWZnd0plVGVNenV1V0hJUEdkYkZTQQ?oc=5",
         "publishedAt": "2026-09-03T17:00:00.000Z"
       },
@@ -225,10 +225,10 @@
       },
       {
         "time": "16:00",
-        "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
-        "publishedAt": "2026-08-21T07:00:00.000Z"
+        "title": "食洗機の補助金2026｜みらいエコ住宅で3万円・買い替えOK・自治体制度も解説",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wb3R6alFKeVRpMkVWVGpiMjRhdGVkZFhZZXRBTl8yeU5xTDlwMDQwelhkQ3hFSnNaMEszMjRYMl9VYjAxUi1xVzRzSEkwTWkxLXZhbndUWkpGUUg4aXY4V0VPSDQ?oc=5",
+        "publishedAt": "2026-09-01T07:00:00.000Z"
       }
     ]
   }

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T10:18:02.127Z",
+  "updatedAt": "2026-09-04T10:38:21.175Z",
   "items": [
     {
       "time": "19:15",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大雨 週明けにかけ関東など拡大か"
     },
     {
-      "time": "16:05",
-      "title": "自衛隊に外国人登用せず 防衛相",
+      "time": "18:58",
+      "title": "宮崎で大雨 倒木や冠水など影響",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594210?source=rss",
-      "publishedAt": "2026-09-04T07:05:21.000Z",
-      "xQuery": "自衛隊に外国人登用せず 防衛相"
+      "url": "https://news.yahoo.co.jp/pickup/6594227?source=rss",
+      "publishedAt": "2026-09-04T09:58:15.000Z",
+      "xQuery": "宮崎で大雨 倒木や冠水など影響"
     },
     {
       "time": "17:27",
