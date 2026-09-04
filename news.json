@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T22:15:30.373Z",
+  "updatedAt": "2026-09-04T22:36:45.251Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wUFQ2Tmp5cWJpWldaUWh2cnlyNGVBejdoTERIQ0FzdnNMVk9zTkdKMjRDdnc2MjhtOG91NXlrZ0poZHhXbS1wU25RQlFqTk94M2daLXhKTHBPUWN0UkNncnZLdVJiUlBNZ1NTY181VGFzUQ?oc=5",
         "publishedAt": "2026-09-04T11:40:00.000Z"
-      },
-      {
-        "time": "07:30",
-        "title": "半導体製造装置の生産リードタイム短縮へ、ソディックが高速ナノマシニングセンタ：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mMHA3MjhMVTFVSUt1NzBPUk5CbERBeUNkT0pYZmhLRGp0OXFjdmt1VlJuX0RyU09JTkZVQXY2ZHUzNHcxNEl6d2xuXzVManJjQUVYemhENi1DRXJ6V0x2N2lvMm9tZUItcFJJT1Z5QQ?oc=5",
-        "publishedAt": "2026-09-03T22:30:00.000Z"
       },
       {
         "time": "10:00",
@@ -57,6 +50,13 @@
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50VkZKZUh2MDdqU3dnRjQwMnZZbU8wVnRPQVFxcjBFTUlKNDBHM0hKeXFKR3VsZG9Od3dFYnJQNVFyN3E0al9kWEpQNm1jb2J4emhIbTZlbWRHLXJFNERN?oc=5",
         "publishedAt": "2026-09-03T22:42:10.000Z"
+      },
+      {
+        "time": "08:53",
+        "title": "SHINHWA PRITECHがCB200億ウォン調達 事業再編を加速 - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVXM1cTVsdGEydWxTc1QycDlSMktWZzhfQUxhU0ZiZ1Rzdk1NVnFPVVIzdHlGTkg2T3VadnMyclpFNlNCVUozSE1tZHVMNTZiY2ZJODVDN0NBMXd1c0JKNUVZamx4R0Y4bTFiVmtwMGl1RjVtcnVmc29YMGlfZlpOVXp0dG1fdTROWXpCRlhqYm1UbUl00gGUAUFVX3lxTE5VczVxNWx0YTJ1bFNzVDJwOVIyS1ZnOF9BTGFTRmJnVHN2TU1WcU9VUjN0eUZOSDZPdVp2czJyWkU2U0JVSjNITW1kdUw1NmJjZkk4NUM3Q0Exd3VzQko1RVlqbHhHRjhtMWJWa3AwaXVGNW1ydWZzb1gwaV9mWk5VenR0bV91NE5ZekJGWGpibVRtSXQ?oc=5",
+        "publishedAt": "2026-09-03T23:53:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:16",
+        "title": "生後2カ月を殺害疑い 18歳男逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594251?source=rss",
+        "publishedAt": "2026-09-04T22:16:29.000Z"
+      },
+      {
         "time": "18:58",
         "title": "宮崎で大雨 倒木や冠水など影響",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594241?source=rss",
         "publishedAt": "2026-09-04T13:59:27.000Z"
-      },
-      {
-        "time": "10:42",
-        "title": "「まんじゅうや」票無効 市民の声",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594177?source=rss",
-        "publishedAt": "2026-09-04T01:42:24.000Z"
       },
       {
         "time": "11:37",

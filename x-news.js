@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T22:15:31.402Z",
+  "updatedAt": "2026-09-04T22:36:46.151Z",
   "items": [
-    {
-      "time": "05:26",
-      "title": "屋久島町に土砂災害特別警報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594245?source=rss",
-      "publishedAt": "2026-09-04T20:26:34.000Z",
-      "xQuery": "屋久島町に土砂災害特別警報"
-    },
     {
       "time": "06:38",
       "title": "屋久島町に特別警報 最新情報",
@@ -18,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "屋久島町に特別警報 最新情報"
     },
     {
-      "time": "22:55",
-      "title": "関東～九州 大雨の終わり見えず",
+      "time": "07:26",
+      "title": "茂木外相留任へ 外交の継続性重視",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594240?source=rss",
-      "publishedAt": "2026-09-04T13:55:37.000Z",
-      "xQuery": "関東～九州 大雨の終わり見えず"
+      "url": "https://news.yahoo.co.jp/pickup/6594255?source=rss",
+      "publishedAt": "2026-09-04T22:26:29.000Z",
+      "xQuery": "茂木外相留任へ 外交の継続性重視"
     },
     {
       "time": "06:14",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "インドネシアの火山で大規模噴火"
     },
     {
-      "time": "22:21",
-      "title": "米8月雇用16.2万人増 予想上回る",
+      "time": "07:16",
+      "title": "生後2カ月を殺害疑い 18歳男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594237?source=rss",
-      "publishedAt": "2026-09-04T13:21:22.000Z",
-      "xQuery": "米8月雇用16.2万人増 予想上回る"
+      "url": "https://news.yahoo.co.jp/pickup/6594251?source=rss",
+      "publishedAt": "2026-09-04T22:16:29.000Z",
+      "xQuery": "生後2カ月を殺害疑い 18歳男逮捕"
+    },
+    {
+      "time": "22:59",
+      "title": "濁流で両親死亡 遺品は朱印帳だけ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594241?source=rss",
+      "publishedAt": "2026-09-04T13:59:27.000Z",
+      "xQuery": "濁流で両親死亡 遺品は朱印帳だけ"
     }
   ]
 };
