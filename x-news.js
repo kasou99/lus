@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T09:40:02.693Z",
+  "updatedAt": "2026-09-04T10:18:02.127Z",
   "items": [
     {
-      "time": "16:24",
-      "title": "九州-四国 今夜に線状降水帯恐れ",
+      "time": "19:15",
+      "title": "大雨 週明けにかけ関東など拡大か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594213?source=rss",
-      "publishedAt": "2026-09-04T07:24:33.000Z",
-      "xQuery": "九州-四国 今夜に線状降水帯恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594228?source=rss",
+      "publishedAt": "2026-09-04T10:15:06.000Z",
+      "xQuery": "大雨 週明けにかけ関東など拡大か"
     },
     {
       "time": "16:05",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "自衛隊に外国人登用せず 防衛相"
     },
     {
+      "time": "17:27",
+      "title": "伊メローニ首相 異例の安定政権",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594219?source=rss",
+      "publishedAt": "2026-09-04T08:27:57.000Z",
+      "xQuery": "伊メローニ首相 異例の安定政権"
+    },
+    {
       "time": "18:01",
       "title": "園バス3歳死 父「やっぱり憎い」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594223?source=rss",
       "publishedAt": "2026-09-04T09:01:35.000Z",
       "xQuery": "園バス3歳死 父「やっぱり憎い」"
-    },
-    {
-      "time": "17:07",
-      "title": "福島大をやゆ 動画に文科相が苦言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594218?source=rss",
-      "publishedAt": "2026-09-04T08:07:17.000Z",
-      "xQuery": "福島大をやゆ 動画に文科相が苦言"
     },
     {
       "time": "18:15",

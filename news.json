@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-04T09:40:01.967Z",
+  "updatedAt": "2026-09-04T10:18:01.657Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "11:43",
         "title": "パナソニック、設備保全クラウド「M2X」を導入--工場DXと保全業務の効率化を推進",
-        "source": "japan.zdnet.com",
+        "source": "ZDNET Japan",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kdXVxU1JHeV90N2p1SkozRTlVR0NoWWpDSEFPcVdLRGZuR3NnakRCMFBlR2Y1X3BvUnVhWVA3eUhCTmx1NHEzeWk0b2x5NzlzSldN?oc=5",
         "publishedAt": "2026-09-04T02:43:00.000Z"
       },
@@ -26,7 +26,7 @@
       {
         "time": "07:30",
         "title": "半導体製造装置の生産リードタイム短縮へ、ソディックが高速ナノマシニングセンタ：工作機械",
-        "source": "MONOist",
+        "source": "monoist.itmedia.co.jp",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mMHA3MjhMVTFVSUt1NzBPUk5CbERBeUNkT0pYZmhLRGp0OXFjdmt1VlJuX0RyU09JTkZVQXY2ZHUzNHcxNEl6d2xuXzVManJjQUVYemhENi1DRXJ6V0x2N2lvMm9tZUItcFJJT1Z5QQ?oc=5",
         "publishedAt": "2026-09-03T22:30:00.000Z"
       },
@@ -40,7 +40,7 @@
       {
         "time": "02:00",
         "title": "ヤマザキマザック、160億円投じて工作機械の研究開発施設 愛知に",
-        "source": "nikkei.com",
+        "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JdE9xZUZvSU54cEg0Y0wtUXVCazhaX1M0enc1ZjZHQWFRVXItSURoQ0l6SmJaLVF0NmZDLXd3b3JCSEFsMTVjNlA0U2tuc3lmYTlxZGlqNWZnd0plVGVNenV1V0hJUEdkYkZTQQ?oc=5",
         "publishedAt": "2026-09-03T17:00:00.000Z"
       },
@@ -52,11 +52,11 @@
         "publishedAt": "2026-09-03T13:10:00.000Z"
       },
       {
-        "time": "18:52",
-        "title": "東ガス、インフラ新興に出資／ＡＩで設備保全高度化 –",
-        "source": "電気新聞ウェブサイト",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZcF91OW1rblhNWXhydWNRTDFVWXhZWF9wTjM1UElBQVQ0UnRaMWJOMElZMnlQQ0R3RGV6eTBsVHpydWFoM0VObTBVX2dieWpSUVZZVTBUWQ?oc=5",
-        "publishedAt": "2026-09-03T09:52:20.000Z"
+        "time": "07:00",
+        "title": "京セラや神戸製鋼など約20社、国産フィジカルAIの共同開発に向け企業連合を発足",
+        "source": "ビジネス+IT",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aa2FhTHdTd1NOclBVSS15cmt4RE9FTTJ0Z09iaTY3SDNGeldYM2Zkd2gxY29TX3RrTVpUc3VQblhGaWE1dUx3NndWTkluQkk?oc=5",
+        "publishedAt": "2026-09-03T22:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "18:58",
+        "title": "宮崎で大雨 倒木や冠水など影響",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594227?source=rss",
+        "publishedAt": "2026-09-04T09:58:15.000Z"
+      },
+      {
         "time": "16:11",
         "title": "世田谷女性殺害 拘禁刑20年の判決",
         "source": "Yahoo!ニュース",
@@ -163,13 +170,6 @@
         "publishedAt": "2026-09-04T09:01:35.000Z"
       },
       {
-        "time": "13:10",
-        "title": "母の遺体放置した女性 困窮の背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594196?source=rss",
-        "publishedAt": "2026-09-04T04:10:14.000Z"
-      },
-      {
         "time": "16:31",
         "title": "千葉のイオンでガス漏れ 老朽化か",
         "source": "Yahoo!ニュース",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-04T07:31:45.000Z"
       },
       {
-        "time": "15:34",
-        "title": "臓器移植あっせん巡り3人書類送検",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594208?source=rss",
-        "publishedAt": "2026-09-04T06:34:37.000Z"
-      },
-      {
         "time": "09:24",
         "title": "闇サイト殺人 娘が伝えたウソ番号",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594164?source=rss",
         "publishedAt": "2026-09-04T00:24:59.000Z"
+      },
+      {
+        "time": "10:42",
+        "title": "「まんじゅうや」票無効 市民の声",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594177?source=rss",
+        "publishedAt": "2026-09-04T01:42:24.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -225,10 +225,10 @@
       },
       {
         "time": "16:00",
-        "title": "食洗機の補助金2026｜みらいエコ住宅で3万円・買い替えOK・自治体制度も解説",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wb3R6alFKeVRpMkVWVGpiMjRhdGVkZFhZZXRBTl8yeU5xTDlwMDQwelhkQ3hFSnNaMEszMjRYMl9VYjAxUi1xVzRzSEkwTWkxLXZhbndUWkpGUUg4aXY4V0VPSDQ?oc=5",
-        "publishedAt": "2026-09-01T07:00:00.000Z"
+        "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
+        "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ]
   }
