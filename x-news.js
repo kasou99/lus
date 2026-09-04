@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T22:36:46.151Z",
+  "updatedAt": "2026-09-04T23:14:37.962Z",
   "items": [
     {
       "time": "06:38",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "屋久島町に特別警報 最新情報"
     },
     {
+      "time": "07:43",
+      "title": "太平洋側は大雨が長引く 備えを",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594256?source=rss",
+      "publishedAt": "2026-09-04T22:43:05.000Z",
+      "xQuery": "太平洋側は大雨が長引く 備えを"
+    },
+    {
       "time": "07:26",
       "title": "茂木外相留任へ 外交の継続性重視",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594255?source=rss",
       "publishedAt": "2026-09-04T22:26:29.000Z",
       "xQuery": "茂木外相留任へ 外交の継続性重視"
-    },
-    {
-      "time": "06:14",
-      "title": "インドネシアの火山で大規模噴火",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594248?source=rss",
-      "publishedAt": "2026-09-04T21:14:20.000Z",
-      "xQuery": "インドネシアの火山で大規模噴火"
     },
     {
       "time": "07:16",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "生後2カ月を殺害疑い 18歳男逮捕"
     },
     {
-      "time": "22:59",
-      "title": "濁流で両親死亡 遺品は朱印帳だけ",
+      "time": "08:03",
+      "title": "メルカトル図法やめて 国連採択",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594241?source=rss",
-      "publishedAt": "2026-09-04T13:59:27.000Z",
-      "xQuery": "濁流で両親死亡 遺品は朱印帳だけ"
+      "url": "https://news.yahoo.co.jp/pickup/6594260?source=rss",
+      "publishedAt": "2026-09-04T23:03:19.000Z",
+      "xQuery": "メルカトル図法やめて 国連採択"
     }
   ]
 };

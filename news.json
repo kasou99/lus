@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T22:36:45.251Z",
+  "updatedAt": "2026-09-04T23:14:37.021Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -40,23 +40,23 @@
       {
         "time": "21:48",
         "title": "「スマート工場EXPO」に出展、スマートファクトリー実現を支援する先端ソリューションを展示",
-        "source": "news.nicovideo.jp",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrLXpWRnBXbjFncTAxd0tWZmtzbGVWVHpvUHhLZHU0OEhsQ3hKVW9ubnEyV0JmUHoyMXdZTTk1QjgyVllGV1VKajIxenRZdl9QZmF2eFBxOXRjX0d5amNTTWJXb2xHRGE2LTZoVXg4d2hHY2lfTzhIY256Zw?oc=5",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GdmVPNjMwOXN3cTB0dWk0SDJpQU92YmlqclFPWkQydk83cTdxMDRFc1RHQkFrRFA0N0p5TzBsQUhjd21iQWd1UnBCcjNkWmFBZ1JhTDBjM0h4bGpkZmpzNWlsYTZYTXBObGdRazhuZnVxUFl1QUhNc3BR?oc=5",
         "publishedAt": "2026-09-04T12:48:27.000Z"
-      },
-      {
-        "time": "07:42",
-        "title": "愛知県大口町に研究開発拠点「イノベーションハブ」開設 ヤマザキマザック、来年8月：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50VkZKZUh2MDdqU3dnRjQwMnZZbU8wVnRPQVFxcjBFTUlKNDBHM0hKeXFKR3VsZG9Od3dFYnJQNVFyN3E0al9kWEpQNm1jb2J4emhIbTZlbWRHLXJFNERN?oc=5",
-        "publishedAt": "2026-09-03T22:42:10.000Z"
       },
       {
         "time": "08:53",
         "title": "SHINHWA PRITECHがCB200億ウォン調達 事業再編を加速 - CHOSUNBIZ",
-        "source": "Chosunbiz",
+        "source": "biz.chosun.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVXM1cTVsdGEydWxTc1QycDlSMktWZzhfQUxhU0ZiZ1Rzdk1NVnFPVVIzdHlGTkg2T3VadnMyclpFNlNCVUozSE1tZHVMNTZiY2ZJODVDN0NBMXd1c0JKNUVZamx4R0Y4bTFiVmtwMGl1RjVtcnVmc29YMGlfZlpOVXp0dG1fdTROWXpCRlhqYm1UbUl00gGUAUFVX3lxTE5VczVxNWx0YTJ1bFNzVDJwOVIyS1ZnOF9BTGFTRmJnVHN2TU1WcU9VUjN0eUZOSDZPdVp2czJyWkU2U0JVSjNITW1kdUw1NmJjZkk4NUM3Q0Exd3VzQko1RVlqbHhHRjhtMWJWa3AwaXVGNW1ydWZzb1gwaV9mWk5VenR0bV91NE5ZekJGWGpibVRtSXQ?oc=5",
         "publishedAt": "2026-09-03T23:53:00.000Z"
+      },
+      {
+        "time": "10:52",
+        "title": "人・技術をつなぎ、イノベーションを創出する研究開発拠点「Mazak Innovation Hub」を2027年に開設",
+        "source": "prtimes.jp",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KTGhKY0JkNDM3dTdIMWRsZFV4QjJtM1JjVHFuUVM3QW1PVWYtTWQwUmp6S1ZidF9FYjcwc2ppcHNjVTdTN3M3c0VhS3lpSXV4OThNdmo5Wkk0QkpXV2ZGSjVnVks3YVJDZkE?oc=5",
+        "publishedAt": "2026-09-04T01:52:33.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,13 +73,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594166?source=rss",
         "publishedAt": "2026-09-04T00:14:21.000Z"
-      },
-      {
-        "time": "08:32",
-        "title": "米 イラン攻撃再開「長く続かず」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594051?source=rss",
-        "publishedAt": "2026-09-02T23:32:45.000Z"
       },
       {
         "time": "13:42",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594121?source=rss",
         "publishedAt": "2026-09-03T09:20:43.000Z"
+      },
+      {
+        "time": "17:27",
+        "title": "伊メローニ首相 異例の安定政権",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594219?source=rss",
+        "publishedAt": "2026-09-04T08:27:57.000Z"
       }
     ],
     "economyHeadlines": [
