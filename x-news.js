@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T09:19:59.109Z",
+  "updatedAt": "2026-09-04T09:40:02.693Z",
   "items": [
     {
       "time": "16:24",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "自衛隊に外国人登用せず 防衛相"
     },
     {
-      "time": "16:11",
-      "title": "世田谷女性殺害 拘禁刑20年の判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594211?source=rss",
-      "publishedAt": "2026-09-04T07:11:22.000Z",
-      "xQuery": "世田谷女性殺害 拘禁刑20年の判決"
-    },
-    {
       "time": "18:01",
       "title": "園バス3歳死 父「やっぱり憎い」",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594218?source=rss",
       "publishedAt": "2026-09-04T08:07:17.000Z",
       "xQuery": "福島大をやゆ 動画に文科相が苦言"
+    },
+    {
+      "time": "18:15",
+      "title": "アルファード中古価格が下落 なぜ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594222?source=rss",
+      "publishedAt": "2026-09-04T09:15:12.000Z",
+      "xQuery": "アルファード中古価格が下落 なぜ"
     }
   ]
 };
