@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-04T02:43:12.675Z",
+  "updatedAt": "2026-09-04T03:21:31.631Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "11:43",
+        "title": "パナソニック、設備保全クラウド「M2X」を導入--工場DXと保全業務の効率化を推進",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCcFBCdFowal9MRGpqMVBXNk9WRENLWi1UNlFWNTFIQzlzS25UeTBrS0p0bVRSb0stVmFqUzY2VjRsMUpxNGdDODBlQV92YlFXR3d4X25hOFVWSy1fdmUwM29faWpBaGpEN1JIWjdaeS1SSmtaMXo1Ml81XzgzZTQ?oc=5",
+        "publishedAt": "2026-09-04T02:43:00.000Z"
+      },
       {
         "time": "05:15",
         "title": "工作機械のヤマザキマザック 本社近くに研究開発拠点 来夏開設、１６０億円投資",
@@ -33,7 +40,7 @@
       {
         "time": "18:52",
         "title": "東ガス、インフラ新興に出資／ＡＩで設備保全高度化 –",
-        "source": "denkishimbun.com",
+        "source": "電気新聞ウェブサイト",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZcF91OW1rblhNWXhydWNRTDFVWXhZWF9wTjM1UElBQVQ0UnRaMWJOMElZMnlQQ0R3RGV6eTBsVHpydWFoM0VObTBVX2dieWpSUVZZVTBUWQ?oc=5",
         "publishedAt": "2026-09-03T09:52:20.000Z"
       },
@@ -45,18 +52,11 @@
         "publishedAt": "2026-09-03T13:10:00.000Z"
       },
       {
-        "time": "15:37",
-        "title": "日立製作所、設備保全の診断業務を効率化するフィジカルAI技術を開発",
-        "source": "iotnews.jp",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yR1hHMWJBY015ZTZCa0hsTzNhbDZGOHdpZkx0ellSMFY2RGs1VU9qcnFtN1BnSm5CNUpSYi1jSFhVbFdGc1JWYjdGSVEwTDQ0bEHSAVdBVV95cUxQV2VwS1pmalRLbWhVS29jRGlmSUdHVTJTbXRRbTE0dXg2NGNNVmw1VnFnZEY3M01TTTZsZVZiN2JSNk81RFZqM0pKZHIzMm50eW5COEItNlk?oc=5",
-        "publishedAt": "2026-09-03T06:37:50.000Z"
-      },
-      {
-        "time": "17:38",
-        "title": "工業用一体型サーボモーターの世界産業レポート2026：市場シェア、競争状況、成長率6.59%分析｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pOTV1NFdJa3VDTFNIUzl6eW5xM1JCWnRJVzV6UXdvNlFLb1FaM3BrZXh0REsybWx0X2lXQzNKMERnTUFjQkhnU2hDdWNKSmo2SS1LUjY1NA?oc=5",
-        "publishedAt": "2026-09-03T08:38:47.000Z"
+        "time": "06:27",
+        "title": "工作機械のヤマザキマザック 本社近くに研究開発拠点 来夏開設、１６０億円投資 (中部経済新聞)",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNF9fb3gteXhyc2xJdnNnN2xkVUdZNXRJNV9UUk9DUmZaNllaUGc0TkFRaXJpMVM1V1NPWHJoQ05DZ1N1dHE4UEEwMFkyWVJPbmJZd3RZLXNYMGU4SjFieXZvRC1jV3UyN3RpQTZmeXhjbXoySTBhdzRjd1YyelR5cnRVMzY5OHhTYm5NVmRB?oc=5",
+        "publishedAt": "2026-09-03T21:27:09.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-09-04T02:20:44.000Z"
       },
       {
+        "time": "11:57",
+        "title": "独VW 5万人追加削減の計画承認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594187?source=rss",
+        "publishedAt": "2026-09-04T02:57:41.000Z"
+      },
+      {
         "time": "08:19",
         "title": "NVIDIA 米AI新興企業を買収へ",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594146?source=rss",
         "publishedAt": "2026-09-03T14:16:21.000Z"
-      },
-      {
-        "time": "10:12",
-        "title": "退職代行 弁護士参入で存在感薄れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594173?source=rss",
-        "publishedAt": "2026-09-04T01:12:25.000Z"
       }
     ],
     "localHeadlines": [
@@ -225,10 +225,10 @@
       },
       {
         "time": "16:00",
-        "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
-        "publishedAt": "2026-08-21T07:00:00.000Z"
+        "title": "食洗機の補助金2026｜みらいエコ住宅で3万円・買い替えOK・自治体制度も解説",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wb3R6alFKeVRpMkVWVGpiMjRhdGVkZFhZZXRBTl8yeU5xTDlwMDQwelhkQ3hFSnNaMEszMjRYMl9VYjAxUi1xVzRzSEkwTWkxLXZhbndUWkpGUUg4aXY4V0VPSDQ?oc=5",
+        "publishedAt": "2026-09-01T07:00:00.000Z"
       }
     ]
   }

@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T02:43:13.276Z",
+  "updatedAt": "2026-09-04T03:21:32.624Z",
   "items": [
     {
-      "time": "09:55",
-      "title": "最低賃金 政治圧力緩み競争が一服",
+      "time": "11:58",
+      "title": "九州・四国 大規模な大雨災害恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594171?source=rss",
-      "publishedAt": "2026-09-04T00:55:23.000Z",
-      "xQuery": "最低賃金 政治圧力緩み競争が一服"
+      "url": "https://news.yahoo.co.jp/pickup/6594189?source=rss",
+      "publishedAt": "2026-09-04T02:58:20.000Z",
+      "xQuery": "九州・四国 大規模な大雨災害恐れ"
     },
     {
-      "time": "09:14",
-      "title": "米中間選挙 共和牙城で異例の接戦",
+      "time": "11:57",
+      "title": "27年度予算要求 過去最大143兆円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594166?source=rss",
-      "publishedAt": "2026-09-04T00:14:21.000Z",
-      "xQuery": "米中間選挙 共和牙城で異例の接戦"
+      "url": "https://news.yahoo.co.jp/pickup/6594188?source=rss",
+      "publishedAt": "2026-09-04T02:57:11.000Z",
+      "xQuery": "27年度予算要求 過去最大143兆円"
     },
     {
       "time": "11:03",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン爆発 避難後に客も再入館"
     },
     {
-      "time": "11:30",
-      "title": "県議会の金銭授受疑惑6人目新証言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594182?source=rss",
-      "publishedAt": "2026-09-04T02:30:57.000Z",
-      "xQuery": "県議会の金銭授受疑惑6人目新証言"
-    },
-    {
       "time": "10:42",
       "title": "「まんじゅうや」票無効 市民の声",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594177?source=rss",
       "publishedAt": "2026-09-04T01:42:24.000Z",
       "xQuery": "「まんじゅうや」票無効 市民の声"
+    },
+    {
+      "time": "11:37",
+      "title": "相手の草刈り機の刃があたる 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594186?source=rss",
+      "publishedAt": "2026-09-04T02:37:08.000Z",
+      "xQuery": "相手の草刈り機の刃があたる 死亡"
     }
   ]
 };
