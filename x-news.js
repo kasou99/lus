@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T13:17:21.611Z",
+  "updatedAt": "2026-09-04T13:38:06.826Z",
   "items": [
-    {
-      "time": "21:47",
-      "title": "種子島・屋久島 線状降水帯が発生",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594236?source=rss",
-      "publishedAt": "2026-09-04T12:47:20.000Z",
-      "xQuery": "種子島・屋久島 線状降水帯が発生"
-    },
     {
       "time": "19:15",
       "title": "大雨 週明けにかけ関東など拡大か",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594228?source=rss",
       "publishedAt": "2026-09-04T10:15:06.000Z",
       "xQuery": "大雨 週明けにかけ関東など拡大か"
+    },
+    {
+      "time": "22:21",
+      "title": "米8月雇用16.2万人増 予想上回る",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594237?source=rss",
+      "publishedAt": "2026-09-04T13:21:22.000Z",
+      "xQuery": "米8月雇用16.2万人増 予想上回る"
     },
     {
       "time": "20:45",

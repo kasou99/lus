@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T13:17:20.580Z",
+  "updatedAt": "2026-09-04T13:38:05.538Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-03T17:00:00.000Z"
       },
       {
-        "time": "23:30",
-        "title": "大阪市×インド・ベンガルール商工会議所で製造業を中心としたビジネスツアーを開催",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zMjNiMW5sMExuWHQ3ckJySnhzNnB5WTIzNXNzS19rSXFKcTdJWGhneUJZbVRvaWhTcGFsVVRFMGQ4VkZwdjJHMFc4V3ByTHRTS19zdkllMUl1aEgxMTk0bEhqd21VMEt3S2JWX0M1MHNQM1hmdkdPZWpTNA?oc=5",
-        "publishedAt": "2026-09-03T14:30:50.000Z"
-      },
-      {
         "time": "07:00",
         "title": "京セラや神戸製鋼など約20社、国産フィジカルAIの共同開発に向け企業連合を発足",
         "source": "ビジネス+IT",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aa2FhTHdTd1NOclBVSS15cmt4RE9FTTJ0Z09iaTY3SDNGeldYM2Zkd2gxY29TX3RrTVpUc3VQblhGaWE1dUx3NndWTkluQkk?oc=5",
         "publishedAt": "2026-09-03T22:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "日本を変える17Goals（320）産機テクノス",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MalgwYjJGbEh1Z2QtV1ItZ0pRZmtyal80VmFVWUg1aGxYbWVhSi1WVFpWcjZpcHdQdGdEZl9SM0FWSnJtTXZyZWxUejN3QzE3LWVpdVQwZ2Q?oc=5",
+        "publishedAt": "2026-09-03T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "22:21",
+        "title": "米8月雇用16.2万人増 予想上回る",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594237?source=rss",
+        "publishedAt": "2026-09-04T13:21:22.000Z"
+      },
+      {
         "time": "13:25",
         "title": "ニデックの品質不正844件認定",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594179?source=rss",
         "publishedAt": "2026-09-04T02:20:44.000Z"
-      },
-      {
-        "time": "23:16",
-        "title": "大和ハウス 一戸建ての部門再編へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594146?source=rss",
-        "publishedAt": "2026-09-03T14:16:21.000Z"
       },
       {
         "time": "18:15",
@@ -225,10 +225,10 @@
       },
       {
         "time": "16:00",
-        "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
-        "publishedAt": "2026-08-21T07:00:00.000Z"
+        "title": "食洗機の補助金2026｜みらいエコ住宅で3万円・買い替えOK・自治体制度も解説",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wb3R6alFKeVRpMkVWVGpiMjRhdGVkZFhZZXRBTl8yeU5xTDlwMDQwelhkQ3hFSnNaMEszMjRYMl9VYjAxUi1xVzRzSEkwTWkxLXZhbndUWkpGUUg4aXY4V0VPSDQ?oc=5",
+        "publishedAt": "2026-09-01T07:00:00.000Z"
       }
     ]
   }
