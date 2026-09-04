@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T08:43:56.740Z",
+  "updatedAt": "2026-09-04T09:19:59.109Z",
   "items": [
     {
       "time": "16:24",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594213?source=rss",
       "publishedAt": "2026-09-04T07:24:33.000Z",
       "xQuery": "九州-四国 今夜に線状降水帯恐れ"
-    },
-    {
-      "time": "15:13",
-      "title": "インフル感染者数 前週の約1.6倍",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594206?source=rss",
-      "publishedAt": "2026-09-04T06:13:48.000Z",
-      "xQuery": "インフル感染者数 前週の約1.6倍"
     },
     {
       "time": "16:05",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594211?source=rss",
       "publishedAt": "2026-09-04T07:11:22.000Z",
       "xQuery": "世田谷女性殺害 拘禁刑20年の判決"
+    },
+    {
+      "time": "18:01",
+      "title": "園バス3歳死 父「やっぱり憎い」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594223?source=rss",
+      "publishedAt": "2026-09-04T09:01:35.000Z",
+      "xQuery": "園バス3歳死 父「やっぱり憎い」"
     },
     {
       "time": "17:07",
