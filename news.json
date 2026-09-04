@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T01:23:47.866Z",
+  "updatedAt": "2026-09-04T01:46:26.627Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vNU1tSWpPUzliTlVGN1JlZFpvaVc3MUluOGlxZzlCdFBrdVRuRWFLSjloRG9lQUtzVXljci1aS2dkTEtrZjREZHNSZmE4TGVzYTRpWmt4SUhYa0E3dmZCanFDS1Q2MmNtMWc?oc=5",
         "publishedAt": "2026-09-03T23:40:01.000Z"
-      },
-      {
-        "time": "06:27",
-        "title": "工作機械のヤマザキマザック 本社近くに研究開発拠点 来夏開設、１６０億円投資 (中部経済新聞)",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNF9fb3gteXhyc2xJdnNnN2xkVUdZNXRJNV9UUk9DUmZaNllaUGc0TkFRaXJpMVM1V1NPWHJoQ05DZ1N1dHE4UEEwMFkyWVJPbmJZd3RZLXNYMGU4SjFieXZvRC1jV3UyN3RpQTZmeXhjbXoySTBhdzRjd1YyelR5cnRVMzY5OHhTYm5NVmRB?oc=5",
-        "publishedAt": "2026-09-03T21:27:09.000Z"
       },
       {
         "time": "02:00",
@@ -57,6 +50,13 @@
         "source": "iotnews.jp",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yR1hHMWJBY015ZTZCa0hsTzNhbDZGOHdpZkx0ellSMFY2RGs1VU9qcnFtN1BnSm5CNUpSYi1jSFhVbFdGc1JWYjdGSVEwTDQ0bEHSAVdBVV95cUxQV2VwS1pmalRLbWhVS29jRGlmSUdHVTJTbXRRbTE0dXg2NGNNVmw1VnFnZEY3M01TTTZsZVZiN2JSNk81RFZqM0pKZHIzMm50eW5COEItNlk?oc=5",
         "publishedAt": "2026-09-03T06:37:50.000Z"
+      },
+      {
+        "time": "17:38",
+        "title": "工業用一体型サーボモーターの世界産業レポート2026：市場シェア、競争状況、成長率6.59%分析｜QYResearch",
+        "source": "note.com",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pOTV1NFdJa3VDTFNIUzl6eW5xM1JCWnRJVzV6UXdvNlFLb1FaM3BrZXh0REsybWx0X2lXQzNKMERnTUFjQkhnU2hDdWNKSmo2SS1LUjY1NA?oc=5",
+        "publishedAt": "2026-09-03T08:38:47.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-09-03T12:10:39.000Z"
       },
       {
+        "time": "10:42",
+        "title": "「まんじゅうや」票無効 市民の声",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594177?source=rss",
+        "publishedAt": "2026-09-04T01:42:24.000Z"
+      },
+      {
         "time": "23:19",
         "title": "9年前に強盗した 自ら警察に電話",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594161?source=rss",
         "publishedAt": "2026-09-03T23:36:17.000Z"
-      },
-      {
-        "time": "21:40",
-        "title": "船の体育館解体 異例の「待った」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594135?source=rss",
-        "publishedAt": "2026-09-03T12:40:39.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T01:23:48.618Z",
+  "updatedAt": "2026-09-04T01:46:27.489Z",
   "items": [
     {
       "time": "09:55",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "闇サイト殺人 娘が伝えたウソ番号"
     },
     {
-      "time": "08:40",
-      "title": "GPT-6発表 人間の監‌視を回避も",
+      "time": "08:36",
+      "title": "大型トラックが車に追突 2人死傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594163?source=rss",
-      "publishedAt": "2026-09-03T23:40:44.000Z",
-      "xQuery": "GPT-6発表 人間の監‌視を回避も"
+      "url": "https://news.yahoo.co.jp/pickup/6594161?source=rss",
+      "publishedAt": "2026-09-03T23:36:17.000Z",
+      "xQuery": "大型トラックが車に追突 2人死傷"
     },
     {
-      "time": "10:13",
-      "title": "イグ・ノーベル賞 日本人20年連続",
+      "time": "10:12",
+      "title": "退職代行 弁護士参入で存在感薄れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594174?source=rss",
-      "publishedAt": "2026-09-04T01:13:52.000Z",
-      "xQuery": "イグ・ノーベル賞 日本人20年連続"
+      "url": "https://news.yahoo.co.jp/pickup/6594173?source=rss",
+      "publishedAt": "2026-09-04T01:12:25.000Z",
+      "xQuery": "退職代行 弁護士参入で存在感薄れ"
     }
   ]
 };
