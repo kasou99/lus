@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T11:37:03.925Z",
+  "updatedAt": "2026-09-04T12:26:58.282Z",
   "items": [
     {
       "time": "19:15",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "宮崎で大雨 倒木や冠水など影響"
     },
     {
-      "time": "17:27",
-      "title": "伊メローニ首相 異例の安定政権",
+      "time": "20:45",
+      "title": "相模原の高3殺害事件 19歳を起訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594219?source=rss",
-      "publishedAt": "2026-09-04T08:27:57.000Z",
-      "xQuery": "伊メローニ首相 異例の安定政権"
-    },
-    {
-      "time": "18:15",
-      "title": "アルファード中古価格が下落 なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594222?source=rss",
-      "publishedAt": "2026-09-04T09:15:12.000Z",
-      "xQuery": "アルファード中古価格が下落 なぜ"
+      "url": "https://news.yahoo.co.jp/pickup/6594233?source=rss",
+      "publishedAt": "2026-09-04T11:45:26.000Z",
+      "xQuery": "相模原の高3殺害事件 19歳を起訴"
     },
     {
       "time": "19:47",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594229?source=rss",
       "publishedAt": "2026-09-04T10:47:26.000Z",
       "xQuery": "川にコンクリ製の工作物 無断設置"
+    },
+    {
+      "time": "20:02",
+      "title": "大阪高裁 Teamsに約6000人誤登録",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594230?source=rss",
+      "publishedAt": "2026-09-04T11:02:17.000Z",
+      "xQuery": "大阪高裁 Teamsに約6000人誤登録"
     }
   ]
 };
