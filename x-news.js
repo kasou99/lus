@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T20:16:53.806Z",
+  "updatedAt": "2026-09-04T20:37:07.014Z",
   "items": [
+    {
+      "time": "05:26",
+      "title": "屋久島町に土砂災害特別警報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594245?source=rss",
+      "publishedAt": "2026-09-04T20:26:34.000Z",
+      "xQuery": "屋久島町に土砂災害特別警報"
+    },
     {
       "time": "22:55",
       "title": "関東～九州 大雨の終わり見えず",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594216?source=rss",
       "publishedAt": "2026-09-04T08:14:52.000Z",
       "xQuery": "24年の体外受精児8万6473人 最多"
-    },
-    {
-      "time": "21:32",
-      "title": "家事支援の国家資格化 懸念の声も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594232?source=rss",
-      "publishedAt": "2026-09-04T12:32:11.000Z",
-      "xQuery": "家事支援の国家資格化 懸念の声も"
     },
     {
       "time": "22:59",

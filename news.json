@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T20:16:52.968Z",
+  "updatedAt": "2026-09-04T20:37:04.685Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,17 +38,10 @@
         "publishedAt": "2026-09-04T06:11:29.000Z"
       },
       {
-        "time": "05:27",
-        "title": "工作機械のヤマザキマザック 本社近くに研究開発拠点 来夏開設、１６０億円投資",
-        "source": "topics.smt.docomo.ne.jp",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVGtmM2hIc0lRVFRBWnQ4WlpnLW0yU1BIYkRNZnNJbHNDYTBwWUpMTE8xd2xhMzJoaDE3RzM4bURZbnA1ZzNIV0tzOG5Wdmp5UC1YX0IwN2hoTUV4djlxbWpOY2VPN2gtMUpyZDc3dEZxODZKYmI5MnZZbTI5cnZrRHVrNjU3bkptRlpLVmRNNk11dDBiVThzQTBRODk4bzRLTDdMWm10Q19qMUhRWmlHNDlYUHRzS2hKQmtQTVJwRlVSN0hZbG5HQS1PTUl3ZF9JdXd6UTN5VUU2S0FncTRLUkZkRdIBkwFBVV95cUxNZS1PM0ljX1J6b1BHaEY5bnBici0xU09pNDcyUWNOajhrTDVTWl93MDRIMzJpMlRSbFJPZkFwNUZoMDFPcDJ5UVpjRFJzVnNUMnRqSF82elJhcS0zc0d1Q1NRY2t1V0pWR2FzbnQtU1MtZktJZEMwc2J2OEc3NEc3RUIzN3k2SVl2TWdUeDBLOXRnMGc?oc=5",
-        "publishedAt": "2026-09-03T20:27:17.000Z"
-      },
-      {
         "time": "21:48",
         "title": "「スマート工場EXPO」に出展、スマートファクトリー実現を支援する先端ソリューションを展示",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrLXpWRnBXbjFncTAxd0tWZmtzbGVWVHpvUHhLZHU0OEhsQ3hKVW9ubnEyV0JmUHoyMXdZTTk1QjgyVllGV1VKajIxenRZdl9QZmF2eFBxOXRjX0d5amNTTWJXb2xHRGE2LTZoVXg4d2hHY2lfTzhIY256Zw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DanVkdThaejNMbW16eHZZenpFMzlFd0UxUV8tdkZwRml5OEstdGNYaUJMYWQ3ME1mVXVaUnJFYWxMYmIwYVVKM1Y2b3Y4VDBTWnRBN1NXX25hN2xKenMxTS1qVk5VNTRlc2k3aUZmR3JsaF9HT1E?oc=5",
         "publishedAt": "2026-09-04T12:48:27.000Z"
       },
       {
@@ -57,6 +50,13 @@
         "source": "Chosunbiz",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVXM1cTVsdGEydWxTc1QycDlSMktWZzhfQUxhU0ZiZ1Rzdk1NVnFPVVIzdHlGTkg2T3VadnMyclpFNlNCVUozSE1tZHVMNTZiY2ZJODVDN0NBMXd1c0JKNUVZamx4R0Y4bTFiVmtwMGl1RjVtcnVmc29YMGlfZlpOVXp0dG1fdTROWXpCRlhqYm1UbUl00gGUAUFVX3lxTE5VczVxNWx0YTJ1bFNzVDJwOVIyS1ZnOF9BTGFTRmJnVHN2TU1WcU9VUjN0eUZOSDZPdVp2czJyWkU2U0JVSjNITW1kdUw1NmJjZkk4NUM3Q0Exd3VzQko1RVlqbHhHRjhtMWJWa3AwaXVGNW1ydWZzb1gwaV9mWk5VenR0bV91NE5ZekJGWGpibVRtSXQ?oc=5",
         "publishedAt": "2026-09-03T23:53:00.000Z"
+      },
+      {
+        "time": "10:52",
+        "title": "人・技術をつなぎ、イノベーションを創出する研究開発拠点「Mazak Innovation Hub」を2027年に開設",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KTGhKY0JkNDM3dTdIMWRsZFV4QjJtM1JjVHFuUVM3QW1PVWYtTWQwUmp6S1ZidF9FYjcwc2ppcHNjVTdTN3M3c0VhS3lpSXV4OThNdmo5Wkk0QkpXV2ZGSjVnVks3YVJDZkE?oc=5",
+        "publishedAt": "2026-09-04T01:52:33.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,17 +218,17 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
       {
         "time": "16:00",
-        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90V3dlOVVrSGp0bjNKUVFUck1BaHE1aE1wMkRCYUFWMG14b0htdHlOVWZQWnYtTE95RE5vcDhwT0ctell1aWxwNXRlNmVPYkNFNHpQaTA3YklPWTRlNFdudGR6N2lKdw?oc=5",
-        "publishedAt": "2026-08-07T07:00:00.000Z"
+        "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
+        "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ]
   }
