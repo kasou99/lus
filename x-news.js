@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T00:47:17.648Z",
+  "updatedAt": "2026-09-04T01:23:48.618Z",
   "items": [
     {
-      "time": "07:21",
-      "title": "四国や九州 災害危険度高まる恐れ",
+      "time": "09:55",
+      "title": "最低賃金 政治圧力緩み競争が一服",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594154?source=rss",
-      "publishedAt": "2026-09-03T22:21:47.000Z",
-      "xQuery": "四国や九州 災害危険度高まる恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594171?source=rss",
+      "publishedAt": "2026-09-04T00:55:23.000Z",
+      "xQuery": "最低賃金 政治圧力緩み競争が一服"
     },
     {
       "time": "09:14",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "GPT-6発表 人間の監‌視を回避も"
     },
     {
-      "time": "08:19",
-      "title": "NVIDIA 米AI新興企業を買収へ",
+      "time": "10:13",
+      "title": "イグ・ノーベル賞 日本人20年連続",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594159?source=rss",
-      "publishedAt": "2026-09-03T23:19:30.000Z",
-      "xQuery": "NVIDIA 米AI新興企業を買収へ"
+      "url": "https://news.yahoo.co.jp/pickup/6594174?source=rss",
+      "publishedAt": "2026-09-04T01:13:52.000Z",
+      "xQuery": "イグ・ノーベル賞 日本人20年連続"
     }
   ]
 };

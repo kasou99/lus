@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T00:47:16.564Z",
+  "updatedAt": "2026-09-04T01:23:47.866Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-09-03T23:40:01.000Z"
       },
       {
+        "time": "06:27",
+        "title": "工作機械のヤマザキマザック 本社近くに研究開発拠点 来夏開設、１６０億円投資 (中部経済新聞)",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNF9fb3gteXhyc2xJdnNnN2xkVUdZNXRJNV9UUk9DUmZaNllaUGc0TkFRaXJpMVM1V1NPWHJoQ05DZ1N1dHE4UEEwMFkyWVJPbmJZd3RZLXNYMGU4SjFieXZvRC1jV3UyN3RpQTZmeXhjbXoySTBhdzRjd1YyelR5cnRVMzY5OHhTYm5NVmRB?oc=5",
+        "publishedAt": "2026-09-03T21:27:09.000Z"
+      },
+      {
         "time": "02:00",
         "title": "ヤマザキマザック、160億円投じて工作機械の研究開発施設 愛知に",
         "source": "日本経済新聞",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-09-03T09:52:20.000Z"
       },
       {
+        "time": "22:10",
+        "title": "【双葉電子工業】産業用サーボモーター 「モノタロウ」への掲載を開始",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CX3BZSXlxQlFHdlRhM2ZaTGI3b1Y2ekJadXp4eFI2WktQX3V6ZElUbmdCVDE0eld3ODVpeE1BRWZEdlNBeG05eXZsVVJXNWFzWE81UHhoV09lQ2VRX1o0d1VWNlJ2SGltYjFn?oc=5",
+        "publishedAt": "2026-09-03T13:10:00.000Z"
+      },
+      {
         "time": "15:37",
         "title": "日立製作所、設備保全の診断業務を効率化するフィジカルAI技術を開発",
         "source": "iotnews.jp",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yR1hHMWJBY015ZTZCa0hsTzNhbDZGOHdpZkx0ellSMFY2RGs1VU9qcnFtN1BnSm5CNUpSYi1jSFhVbFdGc1JWYjdGSVEwTDQ0bEHSAVdBVV95cUxQV2VwS1pmalRLbWhVS29jRGlmSUdHVTJTbXRRbTE0dXg2NGNNVmw1VnFnZEY3M01TTTZsZVZiN2JSNk81RFZqM0pKZHIzMm50eW5COEItNlk?oc=5",
         "publishedAt": "2026-09-03T06:37:50.000Z"
-      },
-      {
-        "time": "17:38",
-        "title": "工業用一体型サーボモーターの世界産業レポート2026：市場シェア、競争状況、成長率6.59%分析｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pOTV1NFdJa3VDTFNIUzl6eW5xM1JCWnRJVzV6UXdvNlFLb1FaM3BrZXh0REsybWx0X2lXQzNKMERnTUFjQkhnU2hDdWNKSmo2SS1LUjY1NA?oc=5",
-        "publishedAt": "2026-09-03T08:38:47.000Z"
-      },
-      {
-        "time": "13:15",
-        "title": "【双葉電子工業】産業用サーボモーター 「モノタロウ」への掲載を開始",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OTmZ2OXFpQm5xWGJqYXBRV2VIamcwdUNVclpOZ1NQNGlOWG53c2NBZVNFS0xCTGlLZjJvd2l4bko4S0kxR2V5Z3dSZGcyVWN4UGxsU2VsU1hRVFA4a0g4YW5qNzZNcm5oQmdpOWlkYkh3MDg?oc=5",
-        "publishedAt": "2026-09-03T04:15:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "09:55",
+        "title": "最低賃金 政治圧力緩み競争が一服",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594171?source=rss",
+        "publishedAt": "2026-09-04T00:55:23.000Z"
+      },
+      {
         "time": "08:19",
         "title": "NVIDIA 米AI新興企業を買収へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594159?source=rss",
         "publishedAt": "2026-09-03T23:19:30.000Z"
-      },
-      {
-        "time": "18:27",
-        "title": "最低賃金改定額 33府県で目安超え",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594116?source=rss",
-        "publishedAt": "2026-09-03T09:27:27.000Z"
       },
       {
         "time": "23:16",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-09-03T09:18:02.000Z"
       },
       {
+        "time": "10:12",
+        "title": "退職代行 弁護士参入で存在感薄れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594173?source=rss",
+        "publishedAt": "2026-09-04T01:12:25.000Z"
+      },
+      {
         "time": "20:10",
         "title": "「純金」実は銅と鉄 偽サイト被害",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594130?source=rss",
         "publishedAt": "2026-09-03T11:10:45.000Z"
-      },
-      {
-        "time": "16:39",
-        "title": "30代でFIRE生活も 高まる投資熱",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594106?source=rss",
-        "publishedAt": "2026-09-03T07:39:11.000Z"
       }
     ],
     "localHeadlines": [
