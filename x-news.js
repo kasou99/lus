@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T07:19:20.128Z",
+  "updatedAt": "2026-09-04T07:40:06.943Z",
   "items": [
     {
-      "time": "14:21",
-      "title": "北陸大雨を激甚災害指定へ",
+      "time": "16:24",
+      "title": "九州-四国 今夜に線状降水帯恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594203?source=rss",
-      "publishedAt": "2026-09-04T05:21:46.000Z",
-      "xQuery": "北陸大雨を激甚災害指定へ"
+      "url": "https://news.yahoo.co.jp/pickup/6594213?source=rss",
+      "publishedAt": "2026-09-04T07:24:33.000Z",
+      "xQuery": "九州-四国 今夜に線状降水帯恐れ"
     },
     {
-      "time": "14:07",
-      "title": "米議員が国防長官解任を要求 背景",
+      "time": "15:13",
+      "title": "インフル感染者数 前週の約1.6倍",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594184?source=rss",
-      "publishedAt": "2026-09-04T05:07:54.000Z",
-      "xQuery": "米議員が国防長官解任を要求 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6594206?source=rss",
+      "publishedAt": "2026-09-04T06:13:48.000Z",
+      "xQuery": "インフル感染者数 前週の約1.6倍"
     },
     {
-      "time": "13:42",
-      "title": "ネパール 生存者2人救出と報道",
+      "time": "16:05",
+      "title": "自衛隊に外国人登用せず 防衛相",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594198?source=rss",
-      "publishedAt": "2026-09-04T04:42:04.000Z",
-      "xQuery": "ネパール 生存者2人救出と報道"
+      "url": "https://news.yahoo.co.jp/pickup/6594210?source=rss",
+      "publishedAt": "2026-09-04T07:05:21.000Z",
+      "xQuery": "自衛隊に外国人登用せず 防衛相"
     },
     {
       "time": "16:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "世田谷女性殺害 拘禁刑20年の判決"
     },
     {
-      "time": "15:13",
-      "title": "インフル感染者数 前週の約1.6倍",
+      "time": "16:31",
+      "title": "千葉のイオンでガス漏れ 老朽化か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594206?source=rss",
-      "publishedAt": "2026-09-04T06:13:48.000Z",
-      "xQuery": "インフル感染者数 前週の約1.6倍"
+      "url": "https://news.yahoo.co.jp/pickup/6594214?source=rss",
+      "publishedAt": "2026-09-04T07:31:45.000Z",
+      "xQuery": "千葉のイオンでガス漏れ 老朽化か"
     }
   ]
 };
