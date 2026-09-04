@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T04:21:05.703Z",
+  "updatedAt": "2026-09-04T04:41:39.602Z",
   "items": [
     {
       "time": "11:58",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "九州・四国 大規模な大雨災害恐れ"
     },
     {
-      "time": "11:57",
-      "title": "27年度予算要求 過去最大143兆円",
+      "time": "11:20",
+      "title": "保育園の倒産・廃業 1-8月で最多",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594188?source=rss",
-      "publishedAt": "2026-09-04T02:57:11.000Z",
-      "xQuery": "27年度予算要求 過去最大143兆円"
+      "url": "https://news.yahoo.co.jp/pickup/6594179?source=rss",
+      "publishedAt": "2026-09-04T02:20:44.000Z",
+      "xQuery": "保育園の倒産・廃業 1-8月で最多"
     },
     {
       "time": "12:26",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「まんじゅうや」票無効 市民の声"
     },
     {
-      "time": "11:37",
-      "title": "相手の草刈り機の刃があたる 死亡",
+      "time": "13:25",
+      "title": "ニデックの品質不正844件認定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594186?source=rss",
-      "publishedAt": "2026-09-04T02:37:08.000Z",
-      "xQuery": "相手の草刈り機の刃があたる 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6594197?source=rss",
+      "publishedAt": "2026-09-04T04:25:40.000Z",
+      "xQuery": "ニデックの品質不正844件認定"
     }
   ]
 };
