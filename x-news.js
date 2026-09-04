@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T03:21:32.624Z",
+  "updatedAt": "2026-09-04T03:42:06.776Z",
   "items": [
     {
       "time": "11:58",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "27年度予算要求 過去最大143兆円"
     },
     {
-      "time": "11:03",
-      "title": "イオン爆発 避難後に客も再入館",
+      "time": "12:26",
+      "title": "イオンタウンでガス漏れ 客ら避難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594178?source=rss",
-      "publishedAt": "2026-09-04T02:03:36.000Z",
-      "xQuery": "イオン爆発 避難後に客も再入館"
+      "url": "https://news.yahoo.co.jp/pickup/6594193?source=rss",
+      "publishedAt": "2026-09-04T03:26:34.000Z",
+      "xQuery": "イオンタウンでガス漏れ 客ら避難"
     },
     {
       "time": "10:42",

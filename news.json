@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-04T03:21:31.631Z",
+  "updatedAt": "2026-09-04T03:42:00.831Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "11:43",
         "title": "パナソニック、設備保全クラウド「M2X」を導入--工場DXと保全業務の効率化を推進",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCcFBCdFowal9MRGpqMVBXNk9WRENLWi1UNlFWNTFIQzlzS25UeTBrS0p0bVRSb0stVmFqUzY2VjRsMUpxNGdDODBlQV92YlFXR3d4X25hOFVWSy1fdmUwM29faWpBaGpEN1JIWjdaeS1SSmtaMXo1Ml81XzgzZTQ?oc=5",
+        "source": "ZDNET Japan",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kdXVxU1JHeV90N2p1SkozRTlVR0NoWWpDSEFPcVdLRGZuR3NnakRCMFBlR2Y1X3BvUnVhWVA3eUhCTmx1NHEzeWk0b2x5NzlzSldN?oc=5",
         "publishedAt": "2026-09-04T02:43:00.000Z"
       },
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-09-03T23:40:01.000Z"
       },
       {
+        "time": "06:27",
+        "title": "工作機械のヤマザキマザック 本社近くに研究開発拠点 来夏開設、１６０億円投資 (中部経済新聞)",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNF9fb3gteXhyc2xJdnNnN2xkVUdZNXRJNV9UUk9DUmZaNllaUGc0TkFRaXJpMVM1V1NPWHJoQ05DZ1N1dHE4UEEwMFkyWVJPbmJZd3RZLXNYMGU4SjFieXZvRC1jV3UyN3RpQTZmeXhjbXoySTBhdzRjd1YyelR5cnRVMzY5OHhTYm5NVmRB?oc=5",
+        "publishedAt": "2026-09-03T21:27:09.000Z"
+      },
+      {
         "time": "02:00",
         "title": "ヤマザキマザック、160億円投じて工作機械の研究開発施設 愛知に",
         "source": "日本経済新聞",
@@ -40,7 +47,7 @@
       {
         "time": "18:52",
         "title": "東ガス、インフラ新興に出資／ＡＩで設備保全高度化 –",
-        "source": "電気新聞ウェブサイト",
+        "source": "denkishimbun.com",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZcF91OW1rblhNWXhydWNRTDFVWXhZWF9wTjM1UElBQVQ0UnRaMWJOMElZMnlQQ0R3RGV6eTBsVHpydWFoM0VObTBVX2dieWpSUVZZVTBUWQ?oc=5",
         "publishedAt": "2026-09-03T09:52:20.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CX3BZSXlxQlFHdlRhM2ZaTGI3b1Y2ekJadXp4eFI2WktQX3V6ZElUbmdCVDE0eld3ODVpeE1BRWZEdlNBeG05eXZsVVJXNWFzWE81UHhoV09lQ2VRX1o0d1VWNlJ2SGltYjFn?oc=5",
         "publishedAt": "2026-09-03T13:10:00.000Z"
-      },
-      {
-        "time": "06:27",
-        "title": "工作機械のヤマザキマザック 本社近くに研究開発拠点 来夏開設、１６０億円投資 (中部経済新聞)",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNF9fb3gteXhyc2xJdnNnN2xkVUdZNXRJNV9UUk9DUmZaNllaUGc0TkFRaXJpMVM1V1NPWHJoQ05DZ1N1dHE4UEEwMFkyWVJPbmJZd3RZLXNYMGU4SjFieXZvRC1jV3UyN3RpQTZmeXhjbXoySTBhdzRjd1YyelR5cnRVMzY5OHhTYm5NVmRB?oc=5",
-        "publishedAt": "2026-09-03T21:27:09.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,27 +133,27 @@
         "publishedAt": "2026-09-04T02:57:41.000Z"
       },
       {
-        "time": "08:19",
-        "title": "NVIDIA 米AI新興企業を買収へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594159?source=rss",
-        "publishedAt": "2026-09-03T23:19:30.000Z"
-      },
-      {
         "time": "23:16",
         "title": "大和ハウス 一戸建ての部門再編へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594146?source=rss",
         "publishedAt": "2026-09-03T14:16:21.000Z"
+      },
+      {
+        "time": "12:27",
+        "title": "子が過去最少も 子供服なぜ売れる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594194?source=rss",
+        "publishedAt": "2026-09-04T03:27:24.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "11:30",
-        "title": "県議会の金銭授受疑惑6人目新証言",
+        "time": "12:26",
+        "title": "イオンタウンでガス漏れ 客ら避難",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594182?source=rss",
-        "publishedAt": "2026-09-04T02:30:57.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594193?source=rss",
+        "publishedAt": "2026-09-04T03:26:34.000Z"
       },
       {
         "time": "09:24",
@@ -161,13 +161,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594164?source=rss",
         "publishedAt": "2026-09-04T00:24:59.000Z"
-      },
-      {
-        "time": "06:06",
-        "title": "日本製紙八代工場の火災鎮火",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594148?source=rss",
-        "publishedAt": "2026-09-03T21:06:25.000Z"
       },
       {
         "time": "21:10",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594186?source=rss",
         "publishedAt": "2026-09-04T02:37:08.000Z"
+      },
+      {
+        "time": "12:37",
+        "title": "廃虚巡り新聞記者ら書類送検",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594195?source=rss",
+        "publishedAt": "2026-09-04T03:37:15.000Z"
       }
     ],
     "subsidyHeadlines": [
