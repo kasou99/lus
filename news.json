@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-04T06:30:22.177Z",
+  "updatedAt": "2026-09-04T07:19:19.451Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "11:43",
         "title": "パナソニック、設備保全クラウド「M2X」を導入--工場DXと保全業務の効率化を推進",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCcFBCdFowal9MRGpqMVBXNk9WRENLWi1UNlFWNTFIQzlzS25UeTBrS0p0bVRSb0stVmFqUzY2VjRsMUpxNGdDODBlQV92YlFXR3d4X25hOFVWSy1fdmUwM29faWpBaGpEN1JIWjdaeS1SSmtaMXo1Ml81XzgzZTQ?oc=5",
+        "source": "ZDNET Japan",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kdXVxU1JHeV90N2p1SkozRTlVR0NoWWpDSEFPcVdLRGZuR3NnakRCMFBlR2Y1X3BvUnVhWVA3eUhCTmx1NHEzeWk0b2x5NzlzSldN?oc=5",
         "publishedAt": "2026-09-04T02:43:00.000Z"
       },
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-09-03T22:30:00.000Z"
       },
       {
+        "time": "06:27",
+        "title": "工作機械のヤマザキマザック 本社近くに研究開発拠点 来夏開設、１６０億円投資 (中部経済新聞)",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNF9fb3gteXhyc2xJdnNnN2xkVUdZNXRJNV9UUk9DUmZaNllaUGc0TkFRaXJpMVM1V1NPWHJoQ05DZ1N1dHE4UEEwMFkyWVJPbmJZd3RZLXNYMGU4SjFieXZvRC1jV3UyN3RpQTZmeXhjbXoySTBhdzRjd1YyelR5cnRVMzY5OHhTYm5NVmRB?oc=5",
+        "publishedAt": "2026-09-03T21:27:09.000Z"
+      },
+      {
         "time": "02:00",
         "title": "ヤマザキマザック、160億円投じて工作機械の研究開発施設 愛知に",
         "source": "日本経済新聞",
@@ -50,13 +57,6 @@
         "source": "電気新聞ウェブサイト",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZcF91OW1rblhNWXhydWNRTDFVWXhZWF9wTjM1UElBQVQ0UnRaMWJOMElZMnlQQ0R3RGV6eTBsVHpydWFoM0VObTBVX2dieWpSUVZZVTBUWQ?oc=5",
         "publishedAt": "2026-09-03T09:52:20.000Z"
-      },
-      {
-        "time": "06:27",
-        "title": "工作機械のヤマザキマザック 本社近くに研究開発拠点 来夏開設、１６０億円投資 (中部経済新聞)",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNF9fb3gteXhyc2xJdnNnN2xkVUdZNXRJNV9UUk9DUmZaNllaUGc0TkFRaXJpMVM1V1NPWHJoQ05DZ1N1dHE4UEEwMFkyWVJPbmJZd3RZLXNYMGU4SjFieXZvRC1jV3UyN3RpQTZmeXhjbXoySTBhdzRjd1YyelR5cnRVMzY5OHhTYm5NVmRB?oc=5",
-        "publishedAt": "2026-09-03T21:27:09.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "16:11",
+        "title": "世田谷女性殺害 拘禁刑20年の判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594211?source=rss",
+        "publishedAt": "2026-09-04T07:11:22.000Z"
+      },
+      {
         "time": "13:10",
         "title": "母の遺体放置した女性 困窮の背景",
         "source": "Yahoo!ニュース",
@@ -163,6 +170,13 @@
         "publishedAt": "2026-09-04T03:26:34.000Z"
       },
       {
+        "time": "15:34",
+        "title": "臓器移植あっせん巡り3人書類送検",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594208?source=rss",
+        "publishedAt": "2026-09-04T06:34:37.000Z"
+      },
+      {
         "time": "09:24",
         "title": "闇サイト殺人 娘が伝えたウソ番号",
         "source": "Yahoo!ニュース",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-09-04T00:24:59.000Z"
       },
       {
-        "time": "21:10",
-        "title": "あべちか強殺未遂事件 容疑者逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594134?source=rss",
-        "publishedAt": "2026-09-03T12:10:39.000Z"
-      },
-      {
         "time": "10:42",
         "title": "「まんじゅうや」票無効 市民の声",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594177?source=rss",
         "publishedAt": "2026-09-04T01:42:24.000Z"
-      },
-      {
-        "time": "11:37",
-        "title": "相手の草刈り機の刃があたる 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594186?source=rss",
-        "publishedAt": "2026-09-04T02:37:08.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -225,10 +225,10 @@
       },
       {
         "time": "16:00",
-        "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
-        "publishedAt": "2026-08-21T07:00:00.000Z"
+        "title": "食洗機の補助金2026｜みらいエコ住宅で3万円・買い替えOK・自治体制度も解説",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wb3R6alFKeVRpMkVWVGpiMjRhdGVkZFhZZXRBTl8yeU5xTDlwMDQwelhkQ3hFSnNaMEszMjRYMl9VYjAxUi1xVzRzSEkwTWkxLXZhbndUWkpGUUg4aXY4V0VPSDQ?oc=5",
+        "publishedAt": "2026-09-01T07:00:00.000Z"
       }
     ]
   }

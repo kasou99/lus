@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T06:30:22.716Z",
+  "updatedAt": "2026-09-04T07:19:20.128Z",
   "items": [
     {
       "time": "14:21",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "米議員が国防長官解任を要求 背景"
     },
     {
-      "time": "12:26",
-      "title": "イオンタウンでガス漏れ 客ら避難",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594193?source=rss",
-      "publishedAt": "2026-09-04T03:26:34.000Z",
-      "xQuery": "イオンタウンでガス漏れ 客ら避難"
-    },
-    {
       "time": "13:42",
       "title": "ネパール 生存者2人救出と報道",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール 生存者2人救出と報道"
     },
     {
-      "time": "12:27",
-      "title": "子が過去最少も 子供服なぜ売れる",
+      "time": "16:11",
+      "title": "世田谷女性殺害 拘禁刑20年の判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594194?source=rss",
-      "publishedAt": "2026-09-04T03:27:24.000Z",
-      "xQuery": "子が過去最少も 子供服なぜ売れる"
+      "url": "https://news.yahoo.co.jp/pickup/6594211?source=rss",
+      "publishedAt": "2026-09-04T07:11:22.000Z",
+      "xQuery": "世田谷女性殺害 拘禁刑20年の判決"
+    },
+    {
+      "time": "15:13",
+      "title": "インフル感染者数 前週の約1.6倍",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594206?source=rss",
+      "publishedAt": "2026-09-04T06:13:48.000Z",
+      "xQuery": "インフル感染者数 前週の約1.6倍"
     }
   ]
 };
