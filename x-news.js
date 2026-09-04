@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T08:24:35.805Z",
+  "updatedAt": "2026-09-04T08:43:56.740Z",
   "items": [
     {
       "time": "16:24",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "世田谷女性殺害 拘禁刑20年の判決"
     },
     {
-      "time": "16:31",
-      "title": "千葉のイオンでガス漏れ 老朽化か",
+      "time": "17:07",
+      "title": "福島大をやゆ 動画に文科相が苦言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594214?source=rss",
-      "publishedAt": "2026-09-04T07:31:45.000Z",
-      "xQuery": "千葉のイオンでガス漏れ 老朽化か"
+      "url": "https://news.yahoo.co.jp/pickup/6594218?source=rss",
+      "publishedAt": "2026-09-04T08:07:17.000Z",
+      "xQuery": "福島大をやゆ 動画に文科相が苦言"
     }
   ]
 };
