@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T12:47:26.167Z",
+  "updatedAt": "2026-09-04T13:17:21.611Z",
   "items": [
+    {
+      "time": "21:47",
+      "title": "種子島・屋久島 線状降水帯が発生",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594236?source=rss",
+      "publishedAt": "2026-09-04T12:47:20.000Z",
+      "xQuery": "種子島・屋久島 線状降水帯が発生"
+    },
     {
       "time": "19:15",
       "title": "大雨 週明けにかけ関東など拡大か",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594228?source=rss",
       "publishedAt": "2026-09-04T10:15:06.000Z",
       "xQuery": "大雨 週明けにかけ関東など拡大か"
-    },
-    {
-      "time": "18:58",
-      "title": "宮崎で大雨 倒木や冠水など影響",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594227?source=rss",
-      "publishedAt": "2026-09-04T09:58:15.000Z",
-      "xQuery": "宮崎で大雨 倒木や冠水など影響"
     },
     {
       "time": "20:45",
