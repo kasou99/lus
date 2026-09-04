@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T01:46:27.489Z",
+  "updatedAt": "2026-09-04T02:25:25.529Z",
   "items": [
     {
       "time": "09:55",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "米中間選挙 共和牙城で異例の接戦"
     },
     {
+      "time": "11:03",
+      "title": "イオン爆発 避難後に客も再入館",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594178?source=rss",
+      "publishedAt": "2026-09-04T02:03:36.000Z",
+      "xQuery": "イオン爆発 避難後に客も再入館"
+    },
+    {
       "time": "09:24",
       "title": "闇サイト殺人 娘が伝えたウソ番号",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "闇サイト殺人 娘が伝えたウソ番号"
     },
     {
-      "time": "08:36",
-      "title": "大型トラックが車に追突 2人死傷",
+      "time": "10:42",
+      "title": "「まんじゅうや」票無効 市民の声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594161?source=rss",
-      "publishedAt": "2026-09-03T23:36:17.000Z",
-      "xQuery": "大型トラックが車に追突 2人死傷"
-    },
-    {
-      "time": "10:12",
-      "title": "退職代行 弁護士参入で存在感薄れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594173?source=rss",
-      "publishedAt": "2026-09-04T01:12:25.000Z",
-      "xQuery": "退職代行 弁護士参入で存在感薄れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594177?source=rss",
+      "publishedAt": "2026-09-04T01:42:24.000Z",
+      "xQuery": "「まんじゅうや」票無効 市民の声"
     }
   ]
 };
