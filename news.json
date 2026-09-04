@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T05:38:35.787Z",
+  "updatedAt": "2026-09-04T06:30:22.177Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCcFBCdFowal9MRGpqMVBXNk9WRENLWi1UNlFWNTFIQzlzS25UeTBrS0p0bVRSb0stVmFqUzY2VjRsMUpxNGdDODBlQV92YlFXR3d4X25hOFVWSy1fdmUwM29faWpBaGpEN1JIWjdaeS1SSmtaMXo1Ml81XzgzZTQ?oc=5",
         "publishedAt": "2026-09-04T02:43:00.000Z"
+      },
+      {
+        "time": "08:40",
+        "title": "【台湾情報】TSMCサプライチェーンを支える設備関連企業／台湾工作機械は新南向市場で復調への最新動向",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vNU1tSWpPUzliTlVGN1JlZFpvaVc3MUluOGlxZzlCdFBrdVRuRWFLSjloRG9lQUtzVXljci1aS2dkTEtrZjREZHNSZmE4TGVzYTRpWmt4SUhYa0E3dmZCanFDS1Q2MmNtMWc?oc=5",
+        "publishedAt": "2026-09-03T23:40:01.000Z"
       },
       {
         "time": "05:15",
@@ -24,18 +31,18 @@
         "publishedAt": "2026-09-03T22:30:00.000Z"
       },
       {
-        "time": "12:15",
-        "title": "【台湾情報】TSMCサプライチェーンを支える設備関連企業／台湾工作機械は新南向市場で復調への最新動向",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaTG9STG5lN1V2ZGlfU0R2RFQ4dk1sU0JZVXpna0JxdHRxc01DSnpwbjlDMU16cDNzZ21NRTZFV1VQc0M5VWV2NF9rUkYwQ3R5TndLVE1jc3ZTeTZtVU02N2ZJel90bUw4c01n?oc=5",
-        "publishedAt": "2026-09-04T03:15:00.000Z"
-      },
-      {
         "time": "02:00",
         "title": "ヤマザキマザック、160億円投じて工作機械の研究開発施設 愛知に",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JdE9xZUZvSU54cEg0Y0wtUXVCazhaX1M0enc1ZjZHQWFRVXItSURoQ0l6SmJaLVF0NmZDLXd3b3JCSEFsMTVjNlA0U2tuc3lmYTlxZGlqNWZnd0plVGVNenV1V0hJUEdkYkZTQQ?oc=5",
         "publishedAt": "2026-09-03T17:00:00.000Z"
+      },
+      {
+        "time": "22:10",
+        "title": "【双葉電子工業】産業用サーボモーター 「モノタロウ」への掲載を開始",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CX3BZSXlxQlFHdlRhM2ZaTGI3b1Y2ekJadXp4eFI2WktQX3V6ZElUbmdCVDE0eld3ODVpeE1BRWZEdlNBeG05eXZsVVJXNWFzWE81UHhoV09lQ2VRX1o0d1VWNlJ2SGltYjFn?oc=5",
+        "publishedAt": "2026-09-03T13:10:00.000Z"
       },
       {
         "time": "18:52",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNF9fb3gteXhyc2xJdnNnN2xkVUdZNXRJNV9UUk9DUmZaNllaUGc0TkFRaXJpMVM1V1NPWHJoQ05DZ1N1dHE4UEEwMFkyWVJPbmJZd3RZLXNYMGU4SjFieXZvRC1jV3UyN3RpQTZmeXhjbXoySTBhdzRjd1YyelR5cnRVMzY5OHhTYm5NVmRB?oc=5",
         "publishedAt": "2026-09-03T21:27:09.000Z"
-      },
-      {
-        "time": "15:37",
-        "title": "日立製作所、設備保全の診断業務を効率化するフィジカルAI技術を開発",
-        "source": "iotnews.jp",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yR1hHMWJBY015ZTZCa0hsTzNhbDZGOHdpZkx0ellSMFY2RGs1VU9qcnFtN1BnSm5CNUpSYi1jSFhVbFdGc1JWYjdGSVEwTDQ0bEHSAVdBVV95cUxQV2VwS1pmalRLbWhVS29jRGlmSUdHVTJTbXRRbTE0dXg2NGNNVmw1VnFnZEY3M01TTTZsZVZiN2JSNk81RFZqM0pKZHIzMm50eW5COEItNlk?oc=5",
-        "publishedAt": "2026-09-03T06:37:50.000Z"
       }
     ],
     "worldHeadlines": [
@@ -225,10 +225,10 @@
       },
       {
         "time": "16:00",
-        "title": "食洗機の補助金2026｜みらいエコ住宅で3万円・買い替えOK・自治体制度も解説",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wb3R6alFKeVRpMkVWVGpiMjRhdGVkZFhZZXRBTl8yeU5xTDlwMDQwelhkQ3hFSnNaMEszMjRYMl9VYjAxUi1xVzRzSEkwTWkxLXZhbndUWkpGUUg4aXY4V0VPSDQ?oc=5",
-        "publishedAt": "2026-09-01T07:00:00.000Z"
+        "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
+        "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ]
   }

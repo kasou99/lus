@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T05:38:36.547Z",
+  "updatedAt": "2026-09-04T06:30:22.716Z",
   "items": [
     {
       "time": "14:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール 生存者2人救出と報道"
     },
     {
-      "time": "13:25",
-      "title": "ニデックの品質不正844件認定",
+      "time": "12:27",
+      "title": "子が過去最少も 子供服なぜ売れる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594197?source=rss",
-      "publishedAt": "2026-09-04T04:25:40.000Z",
-      "xQuery": "ニデックの品質不正844件認定"
+      "url": "https://news.yahoo.co.jp/pickup/6594194?source=rss",
+      "publishedAt": "2026-09-04T03:27:24.000Z",
+      "xQuery": "子が過去最少も 子供服なぜ売れる"
     }
   ]
 };
