@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T07:40:06.393Z",
+  "updatedAt": "2026-09-04T08:24:34.844Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-09-03T23:40:01.000Z"
       },
       {
-        "time": "07:30",
-        "title": "半導体製造装置の生産リードタイム短縮へ、ソディックが高速ナノマシニングセンタ：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mMHA3MjhMVTFVSUt1NzBPUk5CbERBeUNkT0pYZmhLRGp0OXFjdmt1VlJuX0RyU09JTkZVQXY2ZHUzNHcxNEl6d2xuXzVManJjQUVYemhENi1DRXJ6V0x2N2lvMm9tZUItcFJJT1Z5QQ?oc=5",
-        "publishedAt": "2026-09-03T22:30:00.000Z"
-      },
-      {
         "time": "05:15",
         "title": "工作機械のヤマザキマザック 本社近くに研究開発拠点 来夏開設、１６０億円投資",
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PMWJUTmV2RE1OV095UVVxb0hxREpOOURNMFEta1VFRGhoUmlRWVYxZy1ZWlRUeDYzaXVaT1BCdFNTbWpNanU4NHhEV0FhMXZkYTdTaTFYN3RzYUR0OTRZTE9WanhXUlNaM2xhUjdGRGxwUW8?oc=5",
         "publishedAt": "2026-09-03T20:15:52.000Z"
+      },
+      {
+        "time": "07:30",
+        "title": "半導体製造装置の生産リードタイム短縮へ、ソディックが高速ナノマシニングセンタ：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mMHA3MjhMVTFVSUt1NzBPUk5CbERBeUNkT0pYZmhLRGp0OXFjdmt1VlJuX0RyU09JTkZVQXY2ZHUzNHcxNEl6d2xuXzVManJjQUVYemhENi1DRXJ6V0x2N2lvMm9tZUItcFJJT1Z5QQ?oc=5",
+        "publishedAt": "2026-09-03T22:30:00.000Z"
       },
       {
         "time": "06:27",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-03T17:00:00.000Z"
       },
       {
-        "time": "18:52",
-        "title": "東ガス、インフラ新興に出資／ＡＩで設備保全高度化 –",
-        "source": "電気新聞ウェブサイト",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZcF91OW1rblhNWXhydWNRTDFVWXhZWF9wTjM1UElBQVQ0UnRaMWJOMElZMnlQQ0R3RGV6eTBsVHpydWFoM0VObTBVX2dieWpSUVZZVTBUWQ?oc=5",
-        "publishedAt": "2026-09-03T09:52:20.000Z"
-      },
-      {
         "time": "22:10",
         "title": "【双葉電子工業】産業用サーボモーター 「モノタロウ」への掲載を開始",
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CX3BZSXlxQlFHdlRhM2ZaTGI3b1Y2ekJadXp4eFI2WktQX3V6ZElUbmdCVDE0eld3ODVpeE1BRWZEdlNBeG05eXZsVVJXNWFzWE81UHhoV09lQ2VRX1o0d1VWNlJ2SGltYjFn?oc=5",
         "publishedAt": "2026-09-03T13:10:00.000Z"
+      },
+      {
+        "time": "18:52",
+        "title": "東ガス、インフラ新興に出資／ＡＩで設備保全高度化 –",
+        "source": "電気新聞ウェブサイト",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZcF91OW1rblhNWXhydWNRTDFVWXhZWF9wTjM1UElBQVQ0UnRaMWJOMElZMnlQQ0R3RGV6eTBsVHpydWFoM0VObTBVX2dieWpSUVZZVTBUWQ?oc=5",
+        "publishedAt": "2026-09-03T09:52:20.000Z"
       }
     ],
     "worldHeadlines": [
