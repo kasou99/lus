@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T23:14:37.021Z",
+  "updatedAt": "2026-09-04T23:36:28.238Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -33,14 +33,14 @@
       {
         "time": "16:21",
         "title": "KDDIテクノロジー「スマート工場EXPO」に出展 フィジカルAIコントローラーなど製造業DX・自動化の5ソリューションを披露予定",
-        "source": "au Webポータル",
+        "source": "article.auone.jp",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1taXJES0kyR3dJa1dvZzdBZTBmN1A3VzJqUFdoN3pfa05Ib0hNTWQ4YzZOZ0IwX2w3WVE4UkxqRVVmSU1XY2dsWEhxZ3A3SkJMbWlXX1d0NUE3OTA4Q1E2ZnB4S25zYUJrdmhPMDd3?oc=5",
         "publishedAt": "2026-09-04T07:21:25.000Z"
       },
       {
         "time": "21:48",
         "title": "「スマート工場EXPO」に出展、スマートファクトリー実現を支援する先端ソリューションを展示",
-        "source": "ニコニコニュース",
+        "source": "news.nicovideo.jp",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GdmVPNjMwOXN3cTB0dWk0SDJpQU92YmlqclFPWkQydk83cTdxMDRFc1RHQkFrRFA0N0p5TzBsQUhjd21iQWd1UnBCcjNkWmFBZ1JhTDBjM0h4bGpkZmpzNWlsYTZYTXBObGdRazhuZnVxUFl1QUhNc3BR?oc=5",
         "publishedAt": "2026-09-04T12:48:27.000Z"
       },
@@ -126,13 +126,6 @@
         "publishedAt": "2026-09-04T02:03:36.000Z"
       },
       {
-        "time": "11:20",
-        "title": "保育園の倒産・廃業 1-8月で最多",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594179?source=rss",
-        "publishedAt": "2026-09-04T02:20:44.000Z"
-      },
-      {
         "time": "07:02",
         "title": "セブンがアパレルに本格参入 なぜ",
         "source": "Yahoo!ニュース",
@@ -144,6 +137,13 @@
         "title": "アルファード中古価格が下落 なぜ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594222?source=rss",
+        "publishedAt": "2026-09-04T09:15:12.000Z"
+      },
+      {
+        "time": "18:15",
+        "title": "大手居酒屋も100円台の酒 狙いは",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594220?source=rss",
         "publishedAt": "2026-09-04T09:15:12.000Z"
       }
     ],
