@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T02:25:25.529Z",
+  "updatedAt": "2026-09-04T02:43:13.276Z",
   "items": [
     {
       "time": "09:55",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン爆発 避難後に客も再入館"
     },
     {
-      "time": "09:24",
-      "title": "闇サイト殺人 娘が伝えたウソ番号",
+      "time": "11:30",
+      "title": "県議会の金銭授受疑惑6人目新証言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594164?source=rss",
-      "publishedAt": "2026-09-04T00:24:59.000Z",
-      "xQuery": "闇サイト殺人 娘が伝えたウソ番号"
+      "url": "https://news.yahoo.co.jp/pickup/6594182?source=rss",
+      "publishedAt": "2026-09-04T02:30:57.000Z",
+      "xQuery": "県議会の金銭授受疑惑6人目新証言"
     },
     {
       "time": "10:42",
