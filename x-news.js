@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T14:17:12.061Z",
+  "updatedAt": "2026-09-04T14:37:54.427Z",
   "items": [
     {
       "time": "22:55",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "米8月雇用16.2万人増 予想上回る"
     },
     {
+      "time": "21:32",
+      "title": "家事支援の国家資格化 懸念の声も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594232?source=rss",
+      "publishedAt": "2026-09-04T12:32:11.000Z",
+      "xQuery": "家事支援の国家資格化 懸念の声も"
+    },
+    {
       "time": "20:45",
       "title": "相模原の高3殺害事件 19歳を起訴",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "相模原の高3殺害事件 19歳を起訴"
     },
     {
-      "time": "20:02",
-      "title": "大阪高裁 Teamsに約6000人誤登録",
+      "time": "22:59",
+      "title": "濁流で両親死亡 遺品は朱印帳だけ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594230?source=rss",
-      "publishedAt": "2026-09-04T11:02:17.000Z",
-      "xQuery": "大阪高裁 Teamsに約6000人誤登録"
-    },
-    {
-      "time": "18:15",
-      "title": "大手居酒屋も100円台の酒 狙いは",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594220?source=rss",
-      "publishedAt": "2026-09-04T09:15:12.000Z",
-      "xQuery": "大手居酒屋も100円台の酒 狙いは"
+      "url": "https://news.yahoo.co.jp/pickup/6594241?source=rss",
+      "publishedAt": "2026-09-04T13:59:27.000Z",
+      "xQuery": "濁流で両親死亡 遺品は朱印帳だけ"
     }
   ]
 };
