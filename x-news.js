@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T10:38:21.175Z",
+  "updatedAt": "2026-09-04T11:15:40.906Z",
   "items": [
     {
       "time": "19:15",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "伊メローニ首相 異例の安定政権"
     },
     {
-      "time": "18:01",
-      "title": "園バス3歳死 父「やっぱり憎い」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594223?source=rss",
-      "publishedAt": "2026-09-04T09:01:35.000Z",
-      "xQuery": "園バス3歳死 父「やっぱり憎い」"
-    },
-    {
       "time": "18:15",
       "title": "アルファード中古価格が下落 なぜ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594222?source=rss",
       "publishedAt": "2026-09-04T09:15:12.000Z",
       "xQuery": "アルファード中古価格が下落 なぜ"
+    },
+    {
+      "time": "19:47",
+      "title": "川にコンクリ製の工作物 無断設置",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594229?source=rss",
+      "publishedAt": "2026-09-04T10:47:26.000Z",
+      "xQuery": "川にコンクリ製の工作物 無断設置"
     }
   ]
 };
