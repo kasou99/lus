@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T21:37:36.082Z",
+  "updatedAt": "2026-09-04T22:15:31.402Z",
   "items": [
     {
       "time": "05:26",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "屋久島町に土砂災害特別警報"
     },
     {
-      "time": "06:08",
-      "title": "中継 特別警報受け気象庁が会見",
+      "time": "06:38",
+      "title": "屋久島町に特別警報 最新情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594247?source=rss",
-      "publishedAt": "2026-09-04T21:08:26.000Z",
-      "xQuery": "中継 特別警報受け気象庁が会見"
+      "url": "https://news.yahoo.co.jp/pickup/6594249?source=rss",
+      "publishedAt": "2026-09-04T21:38:10.000Z",
+      "xQuery": "屋久島町に特別警報 最新情報"
     },
     {
       "time": "22:55",
