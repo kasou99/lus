@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T01:45:15.993Z",
+  "updatedAt": "2026-09-05T02:23:54.167Z",
   "items": [
     {
       "time": "06:38",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "屋久島町で観測史上最大の雨 警戒"
     },
     {
-      "time": "09:04",
-      "title": "内閣改造・党人事 首相の狙いは",
+      "time": "11:00",
+      "title": "中道「分裂」同フロアで会合別々",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594270?source=rss",
-      "publishedAt": "2026-09-05T00:04:34.000Z",
-      "xQuery": "内閣改造・党人事 首相の狙いは"
+      "url": "https://news.yahoo.co.jp/pickup/6594280?source=rss",
+      "publishedAt": "2026-09-05T02:00:44.000Z",
+      "xQuery": "中道「分裂」同フロアで会合別々"
     },
     {
       "time": "10:22",
