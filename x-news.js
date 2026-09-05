@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T23:13:28.276Z",
+  "updatedAt": "2026-09-05T23:37:08.401Z",
   "items": [
     {
       "time": "07:39",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "露大統領 和平担当の米特使と会談"
     },
     {
-      "time": "00:30",
-      "title": "悠仁さま20歳 成年皇族の歩み進め",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594366?source=rss",
-      "publishedAt": "2026-09-05T15:30:05.000Z",
-      "xQuery": "悠仁さま20歳 成年皇族の歩み進め"
-    },
-    {
       "time": "06:08",
       "title": "ケーキ店で放火か 2人死亡3人搬送",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594377?source=rss",
       "publishedAt": "2026-09-05T23:09:24.000Z",
       "xQuery": "乗っていた車の下敷きか 男性死亡"
+    },
+    {
+      "time": "08:07",
+      "title": "出版業の倒産急増 利益が悪化傾向",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594376?source=rss",
+      "publishedAt": "2026-09-05T23:07:27.000Z",
+      "xQuery": "出版業の倒産急増 利益が悪化傾向"
     }
   ]
 };
