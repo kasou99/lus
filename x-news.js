@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T08:40:11.405Z",
+  "updatedAt": "2026-09-05T09:16:27.678Z",
   "items": [
     {
-      "time": "14:52",
-      "title": "7日にかけ関東・東海も大雨おそれ",
+      "time": "17:57",
+      "title": "米政権に痛手 軽油価格が過去最高",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594303?source=rss",
-      "publishedAt": "2026-09-05T05:52:50.000Z",
-      "xQuery": "7日にかけ関東・東海も大雨おそれ"
+      "url": "https://news.yahoo.co.jp/pickup/6594328?source=rss",
+      "publishedAt": "2026-09-05T08:57:46.000Z",
+      "xQuery": "米政権に痛手 軽油価格が過去最高"
     },
     {
-      "time": "16:24",
-      "title": "水道代の値上げ相次ぐ 家計を圧迫",
+      "time": "17:41",
+      "title": "高校生3人が沖に流される 1人不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594315?source=rss",
-      "publishedAt": "2026-09-05T07:24:06.000Z",
-      "xQuery": "水道代の値上げ相次ぐ 家計を圧迫"
+      "url": "https://news.yahoo.co.jp/pickup/6594327?source=rss",
+      "publishedAt": "2026-09-05T08:41:14.000Z",
+      "xQuery": "高校生3人が沖に流される 1人不明"
     },
     {
       "time": "17:32",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "母が水中に沈む7歳発見 意識不明"
     },
     {
-      "time": "15:10",
-      "title": "死亡の高2 車に1km以上追跡される",
+      "time": "14:55",
+      "title": "妊娠中の自殺は4年間で61人 調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594308?source=rss",
-      "publishedAt": "2026-09-05T06:10:52.000Z",
-      "xQuery": "死亡の高2 車に1km以上追跡される"
+      "url": "https://news.yahoo.co.jp/pickup/6594306?source=rss",
+      "publishedAt": "2026-09-05T05:55:35.000Z",
+      "xQuery": "妊娠中の自殺は4年間で61人 調査"
     },
     {
-      "time": "16:20",
-      "title": "家買う若者と3畳住む若者 共通点",
+      "time": "16:24",
+      "title": "水道代の値上げ相次ぐ 家計を圧迫",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594316?source=rss",
-      "publishedAt": "2026-09-05T07:20:27.000Z",
-      "xQuery": "家買う若者と3畳住む若者 共通点"
+      "url": "https://news.yahoo.co.jp/pickup/6594315?source=rss",
+      "publishedAt": "2026-09-05T07:24:06.000Z",
+      "xQuery": "水道代の値上げ相次ぐ 家計を圧迫"
     }
   ]
 };
