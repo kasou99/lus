@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T14:14:25.541Z",
+  "updatedAt": "2026-09-05T14:36:55.736Z",
   "items": [
     {
       "time": "20:15",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "西-東日本 警報級大雨が続く恐れ"
     },
     {
-      "time": "22:23",
-      "title": "米特使らモスクワ着 和平案提示か",
+      "time": "22:58",
+      "title": "露に対日戦勝碑 首相が撤去を要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594353?source=rss",
-      "publishedAt": "2026-09-05T13:23:05.000Z",
-      "xQuery": "米特使らモスクワ着 和平案提示か"
+      "url": "https://news.yahoo.co.jp/pickup/6594361?source=rss",
+      "publishedAt": "2026-09-05T13:58:20.000Z",
+      "xQuery": "露に対日戦勝碑 首相が撤去を要請"
     },
     {
       "time": "19:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "29年に中低所得者へ現金給付検討"
     },
     {
+      "time": "22:36",
+      "title": "核ごみ処分候補地に浮上 市民衝撃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594360?source=rss",
+      "publishedAt": "2026-09-05T13:36:03.000Z",
+      "xQuery": "核ごみ処分候補地に浮上 市民衝撃"
+    },
+    {
       "time": "22:23",
       "title": "ベルトコンベアに巻き込まれ 重体",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594356?source=rss",
       "publishedAt": "2026-09-05T13:23:49.000Z",
       "xQuery": "ベルトコンベアに巻き込まれ 重体"
-    },
-    {
-      "time": "22:39",
-      "title": "くら寿司コラボ中止 従業員が不正",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594359?source=rss",
-      "publishedAt": "2026-09-05T13:39:27.000Z",
-      "xQuery": "くら寿司コラボ中止 従業員が不正"
     }
   ]
 };
