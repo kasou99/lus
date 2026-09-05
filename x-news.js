@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T09:36:36.078Z",
+  "updatedAt": "2026-09-05T10:14:56.224Z",
   "items": [
+    {
+      "time": "18:42",
+      "title": "ネパール土石流から10日 1人救助",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594332?source=rss",
+      "publishedAt": "2026-09-05T09:42:36.000Z",
+      "xQuery": "ネパール土石流から10日 1人救助"
+    },
     {
       "time": "17:57",
       "title": "米政権に痛手 軽油価格が過去最高",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "母が水中に沈む7歳発見 意識不明"
     },
     {
-      "time": "14:55",
-      "title": "妊娠中の自殺は4年間で61人 調査",
+      "time": "17:32",
+      "title": "暴れる客縛り緊急着陸 米の旅客機",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594306?source=rss",
-      "publishedAt": "2026-09-05T05:55:35.000Z",
-      "xQuery": "妊娠中の自殺は4年間で61人 調査"
-    },
-    {
-      "time": "16:24",
-      "title": "水道代の値上げ相次ぐ 家計を圧迫",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594315?source=rss",
-      "publishedAt": "2026-09-05T07:24:06.000Z",
-      "xQuery": "水道代の値上げ相次ぐ 家計を圧迫"
+      "url": "https://news.yahoo.co.jp/pickup/6594325?source=rss",
+      "publishedAt": "2026-09-05T08:32:00.000Z",
+      "xQuery": "暴れる客縛り緊急着陸 米の旅客機"
     }
   ]
 };

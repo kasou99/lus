@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T09:36:35.260Z",
+  "updatedAt": "2026-09-05T10:14:55.241Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "16:44",
         "title": "愛知県大口町に研究開発拠点「イノベーションハブ」開設 ヤマザキマザック、来年8月：ニュース",
-        "source": "中日BIZナビ",
+        "source": "biz.chunichi.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50VkZKZUh2MDdqU3dnRjQwMnZZbU8wVnRPQVFxcjBFTUlKNDBHM0hKeXFKR3VsZG9Od3dFYnJQNVFyN3E0al9kWEpQNm1jb2J4emhIbTZlbWRHLXJFNERN?oc=5",
         "publishedAt": "2026-09-05T07:44:54.000Z"
       },
@@ -33,7 +33,7 @@
       {
         "time": "23:10",
         "title": "人・技術をつなぎ、イノベーションを創出する研究開発拠点「Mazak Innovation Hub」を2027年に開設",
-        "source": "時事ドットコム",
+        "source": "jiji.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jOElQRzljMUlnYThEZUppLUc3Z0dMUEo2alJtcC1kSkcxUnVWREFwcTlnbVk4VlFDX2hpaHlsYUdYLUN0RjVZZzh1UkZvbUp0aUl4cXREU2laRjZfVTJBS1F2YllRVGJERDg0?oc=5",
         "publishedAt": "2026-09-04T14:10:00.000Z"
       },
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "18:42",
+        "title": "ネパール土石流から10日 1人救助",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594332?source=rss",
+        "publishedAt": "2026-09-05T09:42:36.000Z"
+      },
+      {
         "time": "06:14",
         "title": "インドネシアの火山で大規模噴火",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594311?source=rss",
         "publishedAt": "2026-09-05T06:45:27.000Z"
-      },
-      {
-        "time": "17:27",
-        "title": "伊メローニ首相 異例の安定政権",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594219?source=rss",
-        "publishedAt": "2026-09-04T08:27:57.000Z"
       },
       {
         "time": "17:32",
@@ -126,11 +126,11 @@
         "publishedAt": "2026-09-05T07:24:06.000Z"
       },
       {
-        "time": "18:23",
-        "title": "「旅館業」で民泊申請 抜け道に",
+        "time": "18:54",
+        "title": "マンション一室で旅館業 民泊問題",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594331?source=rss",
-        "publishedAt": "2026-09-05T09:23:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594334?source=rss",
+        "publishedAt": "2026-09-05T09:54:20.000Z"
       },
       {
         "time": "16:20",
