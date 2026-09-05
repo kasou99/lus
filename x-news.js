@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T07:36:26.656Z",
+  "updatedAt": "2026-09-05T08:20:47.636Z",
   "items": [
     {
       "time": "14:52",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "7日にかけ関東・東海も大雨おそれ"
     },
     {
-      "time": "15:26",
-      "title": "自民福岡県連 松本氏が会長職辞意",
+      "time": "16:24",
+      "title": "水道代の値上げ相次ぐ 家計を圧迫",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594310?source=rss",
-      "publishedAt": "2026-09-05T06:26:56.000Z",
-      "xQuery": "自民福岡県連 松本氏が会長職辞意"
+      "url": "https://news.yahoo.co.jp/pickup/6594315?source=rss",
+      "publishedAt": "2026-09-05T07:24:06.000Z",
+      "xQuery": "水道代の値上げ相次ぐ 家計を圧迫"
     },
     {
-      "time": "14:32",
-      "title": "中道・小川氏 亀裂拡大防止に苦慮",
+      "time": "16:03",
+      "title": "クライミング中に滑落の男性 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594301?source=rss",
-      "publishedAt": "2026-09-05T05:32:47.000Z",
-      "xQuery": "中道・小川氏 亀裂拡大防止に苦慮"
+      "url": "https://news.yahoo.co.jp/pickup/6594314?source=rss",
+      "publishedAt": "2026-09-05T07:03:10.000Z",
+      "xQuery": "クライミング中に滑落の男性 死亡"
     },
     {
       "time": "15:10",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "死亡の高2 車に1km以上追跡される"
     },
     {
-      "time": "15:47",
-      "title": "クマと5分ほど格闘か 男性けが",
+      "time": "13:49",
+      "title": "まんじゅうをネット転売 通常便で",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594313?source=rss",
-      "publishedAt": "2026-09-05T06:47:06.000Z",
-      "xQuery": "クマと5分ほど格闘か 男性けが"
+      "url": "https://news.yahoo.co.jp/pickup/6594297?source=rss",
+      "publishedAt": "2026-09-05T04:49:26.000Z",
+      "xQuery": "まんじゅうをネット転売 通常便で"
     }
   ]
 };
