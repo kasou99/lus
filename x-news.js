@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T02:23:54.167Z",
+  "updatedAt": "2026-09-05T02:41:48.159Z",
   "items": [
     {
       "time": "06:38",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "園バス置き去り死 父の怒りと後悔"
     },
     {
-      "time": "09:37",
-      "title": "住宅購入急ぐ若年層 リスクに警鐘",
+      "time": "08:03",
+      "title": "メルカトル図法やめて 国連採択",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594274?source=rss",
-      "publishedAt": "2026-09-05T00:37:14.000Z",
-      "xQuery": "住宅購入急ぐ若年層 リスクに警鐘"
+      "url": "https://news.yahoo.co.jp/pickup/6594260?source=rss",
+      "publishedAt": "2026-09-04T23:03:19.000Z",
+      "xQuery": "メルカトル図法やめて 国連採択"
     }
   ]
 };

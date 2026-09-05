@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-05T02:23:53.270Z",
+  "updatedAt": "2026-09-05T02:41:47.401Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:30",
+        "title": "半導体製造装置の生産リードタイム短縮へ、ソディックが高速ナノマシニングセンタ（MONOist）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pMGF2MlpjRzVVam5IZ2lLNnBSUDJVb1lRRHZ3V2lWS3gwLWUyLS1YVFF2cE5id19yTjlSbWZiU0tTU0NDRTd6aGh3V1Y3aldhSVNiQndxVGlnSk9FMnotRzlnWFAwR3gyQUg4R2M0cHAyOFc0Z2txM25qQTZyejA?oc=5",
+        "publishedAt": "2026-09-04T22:30:11.000Z"
+      },
       {
         "time": "11:43",
         "title": "パナソニック、設備保全クラウド「M2X」を導入--工場DXと保全業務の効率化を推進",
@@ -26,7 +33,7 @@
       {
         "time": "16:21",
         "title": "KDDIテクノロジー「スマート工場EXPO」に出展 フィジカルAIコントローラーなど製造業DX・自動化の5ソリューションを披露予定",
-        "source": "au Webポータル",
+        "source": "article.auone.jp",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1taXJES0kyR3dJa1dvZzdBZTBmN1A3VzJqUFdoN3pfa05Ib0hNTWQ4YzZOZ0IwX2w3WVE4UkxqRVVmSU1XY2dsWEhxZ3A3SkJMbWlXX1d0NUE3OTA4Q1E2ZnB4S25zYUJrdmhPMDd3?oc=5",
         "publishedAt": "2026-09-04T07:21:25.000Z"
       },
@@ -41,7 +48,7 @@
         "time": "21:48",
         "title": "「スマート工場EXPO」に出展、スマートファクトリー実現を支援する先端ソリューションを展示",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GdmVPNjMwOXN3cTB0dWk0SDJpQU92YmlqclFPWkQydk83cTdxMDRFc1RHQkFrRFA0N0p5TzBsQUhjd21iQWd1UnBCcjNkWmFBZ1JhTDBjM0h4bGpkZmpzNWlsYTZYTXBObGdRazhuZnVxUFl1QUhNc3BR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DanVkdThaejNMbW16eHZZenpFMzlFd0UxUV8tdkZwRml5OEstdGNYaUJMYWQ3ME1mVXVaUnJFYWxMYmIwYVVKM1Y2b3Y4VDBTWnRBN1NXX25hN2xKenMxTS1qVk5VNTRlc2k3aUZmR3JsaF9HT1E?oc=5",
         "publishedAt": "2026-09-04T12:48:27.000Z"
       },
       {
@@ -50,13 +57,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlM1JsQWVLYUEtNEdOYzJQZlgwdl9qSTZuUnMxUktHcDFkQlZtRDBpXzlXWkJXdmJ2VDZTTy05RFdjV0hndnhFcG5VbTNjcjdYOWxBZVZmeEZwOHExSnU2QXZFd3g5em5ZTENOanNUZw?oc=5",
         "publishedAt": "2026-09-04T04:00:00.000Z"
-      },
-      {
-        "time": "13:03",
-        "title": "平面ブローチ盤の世界市場2026年、グローバル市場規模（横型、縦型）・分析レポートを発表",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81Y0lCaWFmbkJQaGhHTHNKczF1eFR4eGlvTDlEWms5S005emdST3k5ekVMWkFVYXhEVFNabVByaENtZkpHMVNwbXNzVzNVR1NPVmtjX1FDVHY0V3B2dW5mWmVaaVFlRE1nNmU4emZKdXR1bGZDM2Rfbk5Rdw?oc=5",
-        "publishedAt": "2026-09-04T04:03:19.000Z"
       }
     ],
     "worldHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-09-04T13:59:27.000Z"
       },
       {
-        "time": "11:37",
-        "title": "相手の草刈り機の刃があたる 死亡",
+        "time": "18:51",
+        "title": "側溝の中で声 落ちた男児を救助",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594186?source=rss",
-        "publishedAt": "2026-09-04T02:37:08.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594226?source=rss",
+        "publishedAt": "2026-09-04T09:51:02.000Z"
       }
     ],
     "subsidyHeadlines": [
