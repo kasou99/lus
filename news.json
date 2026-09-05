@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T04:19:17.333Z",
+  "updatedAt": "2026-09-05T04:39:08.434Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wUFQ2Tmp5cWJpWldaUWh2cnlyNGVBejdoTERIQ0FzdnNMVk9zTkdKMjRDdnc2MjhtOG91NXlrZ0poZHhXbS1wU25RQlFqTk94M2daLXhKTHBPUWN0UkNncnZLdVJiUlBNZ1NTY181VGFzUQ?oc=5",
         "publishedAt": "2026-09-04T11:40:00.000Z"
+      },
+      {
+        "time": "09:23",
+        "title": "半導体製造装置の生産リードタイム短縮へ、ソディックが高速ナノマシニングセンタ (MONOist)",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVFPTm1pQkVtZmdEYTdoekptTVNJajhLWHlUNjBoWjUyRkcyUjE0SWhoaFhSY25HVjM1SWFBb3cyUzRFcWFiNkwyMkpwaUJ1RjdBbU5vcEVwT0tweWU0WERrOGtoOU42aGlvdnNtVEFTU2JwX3RsenFLdFhCUzByeVJOMW02bGQ4anRyQkhn?oc=5",
+        "publishedAt": "2026-09-05T00:23:06.000Z"
       },
       {
         "time": "15:11",
@@ -36,13 +43,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tWUZ5aHlNLUJHRzFUMG5GbnloRWl6SVM4VFh1SlBwTGp5Vjg2dmo1MGpObDBaUlNQQWtyMmliTk9mc0ZuaW9xa0FWSEFXNjNWZGlGaThFSW90T05DMmNsZlpYTWxhVUdq?oc=5",
         "publishedAt": "2026-09-04T06:21:21.000Z"
-      },
-      {
-        "time": "15:05",
-        "title": "KDDIテクノロジー、スマート工場EXPOで未来の製造現場を支える先端技術を展示",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95Q1RtcGZrYWtoa2F0M3ZGNXFnX2FXV3k2TE43cWRrR0FaaXRpejU4R0xJdVh5bURYME5hSWpUalpBUWN4ZWY2MGdXdkN5Ym9iYUxMUkZVQV8wUHh5akNXbVJ0dmZ2TmUxbTBJVGplcWlWRkNu?oc=5",
-        "publishedAt": "2026-09-04T06:05:55.000Z"
       },
       {
         "time": "13:45",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-09-04T11:45:26.000Z"
       },
       {
-        "time": "22:59",
-        "title": "濁流で両親死亡 遺品は朱印帳だけ",
+        "time": "13:28",
+        "title": "高校文化祭で催涙スプレー2人けが",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594241?source=rss",
-        "publishedAt": "2026-09-04T13:59:27.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594295?source=rss",
+        "publishedAt": "2026-09-05T04:28:02.000Z"
       }
     ],
     "subsidyHeadlines": [

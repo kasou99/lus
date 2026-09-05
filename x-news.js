@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T04:19:18.159Z",
+  "updatedAt": "2026-09-05T04:39:09.046Z",
   "items": [
     {
       "time": "11:41",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "予算膨張 首相は懸念払拭に懸命"
     },
     {
-      "time": "12:12",
-      "title": "性被害訴える検事 なぜ無念の退職",
+      "time": "13:28",
+      "title": "高校文化祭で催涙スプレー2人けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594287?source=rss",
-      "publishedAt": "2026-09-05T03:12:23.000Z",
-      "xQuery": "性被害訴える検事 なぜ無念の退職"
+      "url": "https://news.yahoo.co.jp/pickup/6594295?source=rss",
+      "publishedAt": "2026-09-05T04:28:02.000Z",
+      "xQuery": "高校文化祭で催涙スプレー2人けが"
     },
     {
       "time": "09:03",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ニデック不正 利益至上主義が浸透"
     },
     {
-      "time": "11:03",
-      "title": "ソフトクリーム? 新種の化石発見",
+      "time": "13:08",
+      "title": "佐藤同士で結婚→離婚 戸籍の動き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594281?source=rss",
-      "publishedAt": "2026-09-05T02:03:51.000Z",
-      "xQuery": "ソフトクリーム? 新種の化石発見"
+      "url": "https://news.yahoo.co.jp/pickup/6594294?source=rss",
+      "publishedAt": "2026-09-05T04:08:42.000Z",
+      "xQuery": "佐藤同士で結婚→離婚 戸籍の動き"
     }
   ]
 };
