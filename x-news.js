@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T03:20:16.464Z",
+  "updatedAt": "2026-09-05T03:40:19.406Z",
   "items": [
     {
       "time": "11:41",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン戦争 米政権から矮小化発言"
     },
     {
-      "time": "11:00",
-      "title": "中道「分裂」同フロアで会合別々",
+      "time": "12:12",
+      "title": "性被害訴える検事 なぜ無念の退職",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594280?source=rss",
-      "publishedAt": "2026-09-05T02:00:44.000Z",
-      "xQuery": "中道「分裂」同フロアで会合別々"
+      "url": "https://news.yahoo.co.jp/pickup/6594287?source=rss",
+      "publishedAt": "2026-09-05T03:12:23.000Z",
+      "xQuery": "性被害訴える検事 なぜ無念の退職"
     },
     {
-      "time": "10:22",
-      "title": "園バス置き去り死 父の怒りと後悔",
+      "time": "09:03",
+      "title": "ニデック不正 利益至上主義が浸透",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594276?source=rss",
-      "publishedAt": "2026-09-05T01:22:21.000Z",
-      "xQuery": "園バス置き去り死 父の怒りと後悔"
+      "url": "https://news.yahoo.co.jp/pickup/6594268?source=rss",
+      "publishedAt": "2026-09-05T00:03:04.000Z",
+      "xQuery": "ニデック不正 利益至上主義が浸透"
     },
     {
       "time": "11:03",
