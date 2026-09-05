@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T13:14:14.967Z",
+  "updatedAt": "2026-09-05T13:36:51.853Z",
   "items": [
     {
       "time": "20:15",
@@ -10,22 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "西-東日本 警報級大雨が続く恐れ"
     },
     {
-      "time": "17:26",
-      "title": "運転技能検査 厳格化でどう変化?",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594321?source=rss",
-      "publishedAt": "2026-09-05T08:26:44.000Z",
-      "xQuery": "運転技能検査 厳格化でどう変化?"
-    },
-    {
-      "time": "20:35",
-      "title": "内閣改造 小泉防衛相の留任で調整",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594345?source=rss",
-      "publishedAt": "2026-09-05T11:35:46.000Z",
-      "xQuery": "内閣改造 小泉防衛相の留任で調整"
-    },
-    {
       "time": "19:29",
       "title": "29年に中低所得者へ現金給付検討",
       "source": "Yahoo!ニュース",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "29年に中低所得者へ現金給付検討"
     },
     {
+      "time": "22:23",
+      "title": "ベルトコンベアに巻き込まれ 重体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594356?source=rss",
+      "publishedAt": "2026-09-05T13:23:49.000Z",
+      "xQuery": "ベルトコンベアに巻き込まれ 重体"
+    },
+    {
       "time": "19:42",
       "title": "くら寿司「ちいかわ」コラボ中止",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594339?source=rss",
       "publishedAt": "2026-09-05T10:42:23.000Z",
       "xQuery": "くら寿司「ちいかわ」コラボ中止"
+    },
+    {
+      "time": "21:40",
+      "title": "姓も名も同じ夫婦 日常トラブルは",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594349?source=rss",
+      "publishedAt": "2026-09-05T12:40:22.000Z",
+      "xQuery": "姓も名も同じ夫婦 日常トラブルは"
     }
   ]
 };

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-05T13:14:14.346Z",
+  "updatedAt": "2026-09-05T13:36:50.938Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "07:30",
         "title": "半導体製造装置の生産リードタイム短縮へ、ソディックが高速ナノマシニングセンタ（MONOist）",
-        "source": "Yahoo!ニュース",
+        "source": "news.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pMGF2MlpjRzVVam5IZ2lLNnBSUDJVb1lRRHZ3V2lWS3gwLWUyLS1YVFF2cE5id19yTjlSbWZiU0tTU0NDRTd6aGh3V1Y3aldhSVNiQndxVGlnSk9FMnotRzlnWFAwR3gyQUg4R2M0cHAyOFc0Z2txM25qQTZyejA?oc=5",
         "publishedAt": "2026-09-04T22:30:11.000Z"
       },
@@ -19,9 +19,16 @@
       {
         "time": "09:23",
         "title": "半導体製造装置の生産リードタイム短縮へ、ソディックが高速ナノマシニングセンタ (MONOist)",
-        "source": "Yahoo!ニュース",
+        "source": "news.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVFPTm1pQkVtZmdEYTdoekptTVNJajhLWHlUNjBoWjUyRkcyUjE0SWhoaFhSY25HVjM1SWFBb3cyUzRFcWFiNkwyMkpwaUJ1RjdBbU5vcEVwT0tweWU0WERrOGtoOU42aGlvdnNtVEFTU2JwX3RsenFLdFhCUzByeVJOMW02bGQ4anRyQkhn?oc=5",
         "publishedAt": "2026-09-05T00:23:06.000Z"
+      },
+      {
+        "time": "07:55",
+        "title": "遊びを入口に、地域企業と子どもたちをつなぐ。asobiimが『ダイキ精工オープンファクトリー2026』を開催",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YQ3R0Tks2ZDZ0YVZscHNsTVJqYTY3bEJ6Znc4NVdXTkpGUndXV3RjOTNXa2Y2RGZDWHJkcnk5RFMxbXJmQjJHWVVjMHpvV2pyQzF4WVZxZlFTUzA?oc=5",
+        "publishedAt": "2026-09-04T22:55:19.000Z"
       },
       {
         "time": "02:26",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594343?source=rss",
         "publishedAt": "2026-09-05T11:19:33.000Z"
-      },
-      {
-        "time": "18:54",
-        "title": "マンション一室で旅館業 民泊問題",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594334?source=rss",
-        "publishedAt": "2026-09-05T09:54:20.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,11 @@
         "publishedAt": "2026-09-05T09:42:36.000Z"
       },
       {
-        "time": "06:14",
-        "title": "インドネシアの火山で大規模噴火",
+        "time": "22:23",
+        "title": "米特使らモスクワ着 和平案提示か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594248?source=rss",
-        "publishedAt": "2026-09-04T21:14:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594353?source=rss",
+        "publishedAt": "2026-09-05T13:23:05.000Z"
       },
       {
         "time": "09:19",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-05T06:10:52.000Z"
       },
       {
+        "time": "22:23",
+        "title": "ベルトコンベアに巻き込まれ 重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594356?source=rss",
+        "publishedAt": "2026-09-05T13:23:49.000Z"
+      },
+      {
         "time": "16:03",
         "title": "クライミング中に滑落の男性 死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594314?source=rss",
         "publishedAt": "2026-09-05T07:03:10.000Z"
-      },
-      {
-        "time": "17:41",
-        "title": "高校生3人が沖に流される 1人不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594327?source=rss",
-        "publishedAt": "2026-09-05T08:41:14.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
