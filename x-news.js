@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T02:41:48.159Z",
+  "updatedAt": "2026-09-05T03:20:16.464Z",
   "items": [
     {
-      "time": "06:38",
-      "title": "屋久島町に特別警報 最新情報",
+      "time": "11:41",
+      "title": "屋久島町 土砂災害危険警報に切替",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594249?source=rss",
-      "publishedAt": "2026-09-04T21:38:10.000Z",
-      "xQuery": "屋久島町に特別警報 最新情報"
+      "url": "https://news.yahoo.co.jp/pickup/6594286?source=rss",
+      "publishedAt": "2026-09-05T02:41:18.000Z",
+      "xQuery": "屋久島町 土砂災害危険警報に切替"
     },
     {
-      "time": "10:02",
-      "title": "屋久島町で観測史上最大の雨 警戒",
+      "time": "09:19",
+      "title": "イラン戦争 米政権から矮小化発言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594275?source=rss",
-      "publishedAt": "2026-09-05T01:02:31.000Z",
-      "xQuery": "屋久島町で観測史上最大の雨 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6594272?source=rss",
+      "publishedAt": "2026-09-05T00:19:45.000Z",
+      "xQuery": "イラン戦争 米政権から矮小化発言"
     },
     {
       "time": "11:00",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "園バス置き去り死 父の怒りと後悔"
     },
     {
-      "time": "08:03",
-      "title": "メルカトル図法やめて 国連採択",
+      "time": "11:03",
+      "title": "ソフトクリーム? 新種の化石発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594260?source=rss",
-      "publishedAt": "2026-09-04T23:03:19.000Z",
-      "xQuery": "メルカトル図法やめて 国連採択"
+      "url": "https://news.yahoo.co.jp/pickup/6594281?source=rss",
+      "publishedAt": "2026-09-05T02:03:51.000Z",
+      "xQuery": "ソフトクリーム? 新種の化石発見"
     }
   ]
 };
