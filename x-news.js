@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T13:36:51.853Z",
+  "updatedAt": "2026-09-05T14:14:25.541Z",
   "items": [
     {
       "time": "20:15",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594342?source=rss",
       "publishedAt": "2026-09-05T11:15:09.000Z",
       "xQuery": "西-東日本 警報級大雨が続く恐れ"
+    },
+    {
+      "time": "22:23",
+      "title": "米特使らモスクワ着 和平案提示か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594353?source=rss",
+      "publishedAt": "2026-09-05T13:23:05.000Z",
+      "xQuery": "米特使らモスクワ着 和平案提示か"
     },
     {
       "time": "19:29",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ベルトコンベアに巻き込まれ 重体"
     },
     {
-      "time": "19:42",
-      "title": "くら寿司「ちいかわ」コラボ中止",
+      "time": "22:39",
+      "title": "くら寿司コラボ中止 従業員が不正",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594339?source=rss",
-      "publishedAt": "2026-09-05T10:42:23.000Z",
-      "xQuery": "くら寿司「ちいかわ」コラボ中止"
-    },
-    {
-      "time": "21:40",
-      "title": "姓も名も同じ夫婦 日常トラブルは",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594349?source=rss",
-      "publishedAt": "2026-09-05T12:40:22.000Z",
-      "xQuery": "姓も名も同じ夫婦 日常トラブルは"
+      "url": "https://news.yahoo.co.jp/pickup/6594359?source=rss",
+      "publishedAt": "2026-09-05T13:39:27.000Z",
+      "xQuery": "くら寿司コラボ中止 従業員が不正"
     }
   ]
 };
