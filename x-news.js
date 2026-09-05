@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T01:23:20.521Z",
+  "updatedAt": "2026-09-05T01:45:15.993Z",
   "items": [
     {
       "time": "06:38",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣改造・党人事 首相の狙いは"
     },
     {
-      "time": "08:35",
-      "title": "追突後40m後退 男性はねられ死亡",
+      "time": "10:22",
+      "title": "園バス置き去り死 父の怒りと後悔",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594264?source=rss",
-      "publishedAt": "2026-09-04T23:35:35.000Z",
-      "xQuery": "追突後40m後退 男性はねられ死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6594276?source=rss",
+      "publishedAt": "2026-09-05T01:22:21.000Z",
+      "xQuery": "園バス置き去り死 父の怒りと後悔"
     },
     {
       "time": "09:37",
