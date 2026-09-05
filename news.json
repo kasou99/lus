@@ -1,27 +1,13 @@
 {
-  "updatedAt": "2026-09-05T22:14:17.456Z",
+  "updatedAt": "2026-09-05T22:36:58.444Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "07:30",
-        "title": "半導体製造装置の生産リードタイム短縮へ、ソディックが高速ナノマシニングセンタ（MONOist）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pMGF2MlpjRzVVam5IZ2lLNnBSUDJVb1lRRHZ3V2lWS3gwLWUyLS1YVFF2cE5id19yTjlSbWZiU0tTU0NDRTd6aGh3V1Y3aldhSVNiQndxVGlnSk9FMnotRzlnWFAwR3gyQUg4R2M0cHAyOFc0Z2txM25qQTZyejA?oc=5",
-        "publishedAt": "2026-09-04T22:30:11.000Z"
-      },
       {
         "time": "22:51",
         "title": "愛知県大口町に研究開発拠点「イノベーションハブ」開設 ヤマザキマザック、来年8月：ニュース",
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50VkZKZUh2MDdqU3dnRjQwMnZZbU8wVnRPQVFxcjBFTUlKNDBHM0hKeXFKR3VsZG9Od3dFYnJQNVFyN3E0al9kWEpQNm1jb2J4emhIbTZlbWRHLXJFNERN?oc=5",
         "publishedAt": "2026-09-05T13:51:08.000Z"
-      },
-      {
-        "time": "09:23",
-        "title": "半導体製造装置の生産リードタイム短縮へ、ソディックが高速ナノマシニングセンタ (MONOist)",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVFPTm1pQkVtZmdEYTdoekptTVNJajhLWHlUNjBoWjUyRkcyUjE0SWhoaFhSY25HVjM1SWFBb3cyUzRFcWFiNkwyMkpwaUJ1RjdBbU5vcEVwT0tweWU0WERrOGtoOU42aGlvdnNtVEFTU2JwX3RsenFLdFhCUzByeVJOMW02bGQ4anRyQkhn?oc=5",
-        "publishedAt": "2026-09-05T00:23:06.000Z"
       },
       {
         "time": "07:55",
@@ -57,6 +43,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594316?source=rss",
         "publishedAt": "2026-09-05T07:20:27.000Z"
+      },
+      {
+        "time": "09:37",
+        "title": "住宅購入急ぐ若年層 リスクに警鐘",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594274?source=rss",
+        "publishedAt": "2026-09-05T00:37:14.000Z"
+      },
+      {
+        "time": "22:07",
+        "title": "盛んな国も 実在する「時間銀行」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594354?source=rss",
+        "publishedAt": "2026-09-05T13:07:36.000Z"
       }
     ],
     "worldHeadlines": [

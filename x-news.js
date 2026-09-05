@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T22:14:18.224Z",
+  "updatedAt": "2026-09-05T22:37:00.319Z",
   "items": [
     {
       "time": "20:15",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594342?source=rss",
       "publishedAt": "2026-09-05T11:15:09.000Z",
       "xQuery": "西-東日本 警報級大雨が続く恐れ"
-    },
-    {
-      "time": "23:41",
-      "title": "ネパール土石流から10日 2人救助",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594363?source=rss",
-      "publishedAt": "2026-09-05T14:41:12.000Z",
-      "xQuery": "ネパール土石流から10日 2人救助"
     },
     {
       "time": "19:29",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594366?source=rss",
       "publishedAt": "2026-09-05T15:30:05.000Z",
       "xQuery": "悠仁さま20歳 成年皇族の歩み進め"
+    },
+    {
+      "time": "22:23",
+      "title": "ベルトコンベアに巻き込まれ 重体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594356?source=rss",
+      "publishedAt": "2026-09-05T13:23:49.000Z",
+      "xQuery": "ベルトコンベアに巻き込まれ 重体"
     }
   ]
 };
