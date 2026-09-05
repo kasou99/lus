@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-04T23:36:28.765Z",
+  "updatedAt": "2026-09-05T00:47:12.672Z",
   "items": [
     {
       "time": "06:38",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "屋久島町に特別警報 最新情報"
     },
     {
-      "time": "07:43",
-      "title": "太平洋側は大雨が長引く 備えを",
+      "time": "09:04",
+      "title": "内閣改造・党人事 首相の狙いは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594256?source=rss",
-      "publishedAt": "2026-09-04T22:43:05.000Z",
-      "xQuery": "太平洋側は大雨が長引く 備えを"
+      "url": "https://news.yahoo.co.jp/pickup/6594270?source=rss",
+      "publishedAt": "2026-09-05T00:04:34.000Z",
+      "xQuery": "内閣改造・党人事 首相の狙いは"
     },
     {
-      "time": "07:26",
-      "title": "茂木外相留任へ 外交の継続性重視",
+      "time": "08:38",
+      "title": "障害者雇用巡り那覇の業者を調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594255?source=rss",
-      "publishedAt": "2026-09-04T22:26:29.000Z",
-      "xQuery": "茂木外相留任へ 外交の継続性重視"
+      "url": "https://news.yahoo.co.jp/pickup/6594267?source=rss",
+      "publishedAt": "2026-09-04T23:38:06.000Z",
+      "xQuery": "障害者雇用巡り那覇の業者を調査"
     },
     {
-      "time": "07:16",
-      "title": "生後2カ月を殺害疑い 18歳男逮捕",
+      "time": "08:35",
+      "title": "追突後40m後退 男性はねられ死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594251?source=rss",
-      "publishedAt": "2026-09-04T22:16:29.000Z",
-      "xQuery": "生後2カ月を殺害疑い 18歳男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6594264?source=rss",
+      "publishedAt": "2026-09-04T23:35:35.000Z",
+      "xQuery": "追突後40m後退 男性はねられ死亡"
     },
     {
-      "time": "08:03",
-      "title": "メルカトル図法やめて 国連採択",
+      "time": "09:37",
+      "title": "住宅購入急ぐ若年層 リスクに警鐘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594260?source=rss",
-      "publishedAt": "2026-09-04T23:03:19.000Z",
-      "xQuery": "メルカトル図法やめて 国連採択"
+      "url": "https://news.yahoo.co.jp/pickup/6594274?source=rss",
+      "publishedAt": "2026-09-05T00:37:14.000Z",
+      "xQuery": "住宅購入急ぐ若年層 リスクに警鐘"
     }
   ]
 };
