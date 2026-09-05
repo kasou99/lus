@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T12:42:12.147Z",
+  "updatedAt": "2026-09-05T13:14:14.967Z",
   "items": [
     {
-      "time": "20:09",
-      "title": "大雨 屋久島町で土砂崩れや断水",
+      "time": "20:15",
+      "title": "西-東日本 警報級大雨が続く恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594341?source=rss",
-      "publishedAt": "2026-09-05T11:09:52.000Z",
-      "xQuery": "大雨 屋久島町で土砂崩れや断水"
+      "url": "https://news.yahoo.co.jp/pickup/6594342?source=rss",
+      "publishedAt": "2026-09-05T11:15:09.000Z",
+      "xQuery": "西-東日本 警報級大雨が続く恐れ"
+    },
+    {
+      "time": "17:26",
+      "title": "運転技能検査 厳格化でどう変化?",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594321?source=rss",
+      "publishedAt": "2026-09-05T08:26:44.000Z",
+      "xQuery": "運転技能検査 厳格化でどう変化?"
     },
     {
       "time": "20:35",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594335?source=rss",
       "publishedAt": "2026-09-05T10:29:58.000Z",
       "xQuery": "29年に中低所得者へ現金給付検討"
-    },
-    {
-      "time": "19:23",
-      "title": "殺虫剤誤飲の死亡事故 市周知せず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594333?source=rss",
-      "publishedAt": "2026-09-05T10:23:22.000Z",
-      "xQuery": "殺虫剤誤飲の死亡事故 市周知せず"
     },
     {
       "time": "19:42",
