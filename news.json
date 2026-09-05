@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T00:47:11.604Z",
+  "updatedAt": "2026-09-05T01:23:19.318Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wUFQ2Tmp5cWJpWldaUWh2cnlyNGVBejdoTERIQ0FzdnNMVk9zTkdKMjRDdnc2MjhtOG91NXlrZ0poZHhXbS1wU25RQlFqTk94M2daLXhKTHBPUWN0UkNncnZLdVJiUlBNZ1NTY181VGFzUQ?oc=5",
         "publishedAt": "2026-09-04T11:40:00.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "京セラや神戸製鋼など約20社、国産フィジカルAIの共同開発に向け企業連合を発足（ビジネス＋IT）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iMU50WmNDckRGbTI0WEp1YUREUHZqMVJIYVpxdWlmV3liTnFKLXhOVzlYOUVMQWs1QU9WTWRJdldCazJlaEJ2QjJOVWs0Y2hzMWh3SnFZbnYzYzAwRko0SE5ta0hCUTVOcmFvWVM4ai1uTU9wUEpDLTJrRUFRUFk?oc=5",
-        "publishedAt": "2026-09-04T01:00:07.000Z"
       },
       {
         "time": "15:11",
@@ -57,6 +50,13 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zTmhiZ2xpdnJGa1BwSUFSY0RCd3dfS2ZqeWlwZTBhN1BZTzVDbEJQYjJjX0p4RzBWZnJ0VFR4bjhkSmFRa2ppckl1U2VhVVZWMVNjNnhVUjFKQXpjWnlQdXZwcGYxclp1dUlpajNqLVlpU2JCUkN3UzJCdw?oc=5",
         "publishedAt": "2026-09-04T04:03:19.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "プラント向け監視制御システム、データベースは最大4つまで分割：FAニュース",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlM1JsQWVLYUEtNEdOYzJQZlgwdl9qSTZuUnMxUktHcDFkQlZtRDBpXzlXWkJXdmJ2VDZTTy05RFdjV0hndnhFcG5VbTNjcjdYOWxBZVZmeEZwOHExSnU2QXZFd3g5em5ZTENOanNUZw?oc=5",
+        "publishedAt": "2026-09-04T04:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "10:22",
+        "title": "園バス置き去り死 父の怒りと後悔",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594276?source=rss",
+        "publishedAt": "2026-09-05T01:22:21.000Z"
+      },
+      {
         "time": "08:35",
         "title": "追突後40m後退 男性はねられ死亡",
         "source": "Yahoo!ニュース",
@@ -168,13 +175,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594233?source=rss",
         "publishedAt": "2026-09-04T11:45:26.000Z"
-      },
-      {
-        "time": "18:01",
-        "title": "園バス3歳死 父「やっぱり憎い」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594223?source=rss",
-        "publishedAt": "2026-09-04T09:01:35.000Z"
       },
       {
         "time": "22:59",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T00:47:12.672Z",
+  "updatedAt": "2026-09-05T01:23:20.521Z",
   "items": [
     {
       "time": "06:38",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "屋久島町に特別警報 最新情報"
     },
     {
+      "time": "10:02",
+      "title": "屋久島町で観測史上最大の雨 警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594275?source=rss",
+      "publishedAt": "2026-09-05T01:02:31.000Z",
+      "xQuery": "屋久島町で観測史上最大の雨 警戒"
+    },
+    {
       "time": "09:04",
       "title": "内閣改造・党人事 首相の狙いは",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594270?source=rss",
       "publishedAt": "2026-09-05T00:04:34.000Z",
       "xQuery": "内閣改造・党人事 首相の狙いは"
-    },
-    {
-      "time": "08:38",
-      "title": "障害者雇用巡り那覇の業者を調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594267?source=rss",
-      "publishedAt": "2026-09-04T23:38:06.000Z",
-      "xQuery": "障害者雇用巡り那覇の業者を調査"
     },
     {
       "time": "08:35",
