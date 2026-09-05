@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T05:16:05.654Z",
+  "updatedAt": "2026-09-05T05:36:40.916Z",
   "items": [
     {
-      "time": "11:41",
-      "title": "屋久島町 土砂災害危険警報に切替",
+      "time": "14:15",
+      "title": "屋久島町の大雨 災害救助法を適用",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594286?source=rss",
-      "publishedAt": "2026-09-05T02:41:18.000Z",
-      "xQuery": "屋久島町 土砂災害危険警報に切替"
+      "url": "https://news.yahoo.co.jp/pickup/6594299?source=rss",
+      "publishedAt": "2026-09-05T05:15:17.000Z",
+      "xQuery": "屋久島町の大雨 災害救助法を適用"
+    },
+    {
+      "time": "11:16",
+      "title": "予算膨張 首相は懸念払拭に懸命",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594282?source=rss",
+      "publishedAt": "2026-09-05T02:16:14.000Z",
+      "xQuery": "予算膨張 首相は懸念払拭に懸命"
     },
     {
       "time": "14:00",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594297?source=rss",
       "publishedAt": "2026-09-05T04:49:26.000Z",
       "xQuery": "まんじゅうをネット転売 通常便で"
-    },
-    {
-      "time": "13:08",
-      "title": "佐藤同士で結婚→離婚 戸籍の動き",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594294?source=rss",
-      "publishedAt": "2026-09-05T04:08:42.000Z",
-      "xQuery": "佐藤同士で結婚→離婚 戸籍の動き"
     }
   ]
 };
