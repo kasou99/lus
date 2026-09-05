@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T06:45:48.375Z",
+  "updatedAt": "2026-09-05T07:16:45.776Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -40,7 +40,7 @@
       {
         "time": "16:21",
         "title": "KDDIテクノロジー「スマート工場EXPO」に出展 フィジカルAIコントローラーなど製造業DX・自動化の5ソリューションを披露予定",
-        "source": "article.auone.jp",
+        "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1taXJES0kyR3dJa1dvZzdBZTBmN1A3VzJqUFdoN3pfa05Ib0hNTWQ4YzZOZ0IwX2w3WVE4UkxqRVVmSU1XY2dsWEhxZ3A3SkJMbWlXX1d0NUE3OTA4Q1E2ZnB4S25zYUJrdmhPMDd3?oc=5",
         "publishedAt": "2026-09-04T07:21:25.000Z"
       },
@@ -48,7 +48,7 @@
         "time": "21:48",
         "title": "「スマート工場EXPO」に出展、スマートファクトリー実現を支援する先端ソリューションを展示",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GdmVPNjMwOXN3cTB0dWk0SDJpQU92YmlqclFPWkQydk83cTdxMDRFc1RHQkFrRFA0N0p5TzBsQUhjd21iQWd1UnBCcjNkWmFBZ1JhTDBjM0h4bGpkZmpzNWlsYTZYTXBObGdRazhuZnVxUFl1QUhNc3BR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DanVkdThaejNMbW16eHZZenpFMzlFd0UxUV8tdkZwRml5OEstdGNYaUJMYWQ3ME1mVXVaUnJFYWxMYmIwYVVKM1Y2b3Y4VDBTWnRBN1NXX25hN2xKenMxTS1qVk5VNTRlc2k3aUZmR3JsaF9HT1E?oc=5",
         "publishedAt": "2026-09-04T12:48:27.000Z"
       },
       {
@@ -82,6 +82,13 @@
         "publishedAt": "2026-09-05T00:19:45.000Z"
       },
       {
+        "time": "15:45",
+        "title": "全米注目の3児殺害裁判 審理無効",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594311?source=rss",
+        "publishedAt": "2026-09-05T06:45:27.000Z"
+      },
+      {
         "time": "14:07",
         "title": "米議員が国防長官解任を要求 背景",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594219?source=rss",
         "publishedAt": "2026-09-04T08:27:57.000Z"
-      },
-      {
-        "time": "15:11",
-        "title": "有償ごみ回収機が物議 エジプト",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594305?source=rss",
-        "publishedAt": "2026-09-05T06:11:27.000Z"
       }
     ],
     "economyHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-05T06:10:52.000Z"
       },
       {
+        "time": "16:03",
+        "title": "クライミング中に滑落の男性 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594314?source=rss",
+        "publishedAt": "2026-09-05T07:03:10.000Z"
+      },
+      {
         "time": "07:16",
         "title": "生後2カ月を殺害疑い 18歳男逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594251?source=rss",
         "publishedAt": "2026-09-04T22:16:29.000Z"
-      },
-      {
-        "time": "13:28",
-        "title": "高校文化祭で催涙スプレー2人けが",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594295?source=rss",
-        "publishedAt": "2026-09-05T04:28:02.000Z"
       }
     ],
     "subsidyHeadlines": [

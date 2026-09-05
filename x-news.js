@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T06:45:49.114Z",
+  "updatedAt": "2026-09-05T07:16:46.535Z",
   "items": [
     {
-      "time": "14:15",
-      "title": "屋久島町の大雨 災害救助法を適用",
+      "time": "14:52",
+      "title": "7日にかけ関東・東海も大雨おそれ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594299?source=rss",
-      "publishedAt": "2026-09-05T05:15:17.000Z",
-      "xQuery": "屋久島町の大雨 災害救助法を適用"
+      "url": "https://news.yahoo.co.jp/pickup/6594303?source=rss",
+      "publishedAt": "2026-09-05T05:52:50.000Z",
+      "xQuery": "7日にかけ関東・東海も大雨おそれ"
+    },
+    {
+      "time": "15:26",
+      "title": "自民福岡県連 松本氏が会長職辞意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594310?source=rss",
+      "publishedAt": "2026-09-05T06:26:56.000Z",
+      "xQuery": "自民福岡県連 松本氏が会長職辞意"
     },
     {
       "time": "14:32",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "死亡の高2 車に1km以上追跡される"
     },
     {
-      "time": "13:49",
-      "title": "まんじゅうをネット転売 通常便で",
+      "time": "15:47",
+      "title": "クマと5分ほど格闘か 男性けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594297?source=rss",
-      "publishedAt": "2026-09-05T04:49:26.000Z",
-      "xQuery": "まんじゅうをネット転売 通常便で"
-    },
-    {
-      "time": "13:08",
-      "title": "佐藤同士で結婚→離婚 戸籍の動き",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594294?source=rss",
-      "publishedAt": "2026-09-05T04:08:42.000Z",
-      "xQuery": "佐藤同士で結婚→離婚 戸籍の動き"
+      "url": "https://news.yahoo.co.jp/pickup/6594313?source=rss",
+      "publishedAt": "2026-09-05T06:47:06.000Z",
+      "xQuery": "クマと5分ほど格闘か 男性けが"
     }
   ]
 };
