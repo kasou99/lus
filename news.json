@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T11:37:12.739Z",
+  "updatedAt": "2026-09-05T12:22:57.824Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-09-05T10:42:34.000Z"
       },
       {
-        "time": "20:40",
-        "title": "【台湾情報】TSMCサプライチェーンを支える設備関連企業／台湾工作機械は新南向市場で復調への最新動向",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wUFQ2Tmp5cWJpWldaUWh2cnlyNGVBejdoTERIQ0FzdnNMVk9zTkdKMjRDdnc2MjhtOG91NXlrZ0poZHhXbS1wU25RQlFqTk94M2daLXhKTHBPUWN0UkNncnZLdVJiUlBNZ1NTY181VGFzUQ?oc=5",
-        "publishedAt": "2026-09-04T11:40:00.000Z"
-      },
-      {
         "time": "09:23",
         "title": "半導体製造装置の生産リードタイム短縮へ、ソディックが高速ナノマシニングセンタ (MONOist)",
         "source": "Yahoo!ニュース",
@@ -31,11 +24,11 @@
         "publishedAt": "2026-09-05T00:23:06.000Z"
       },
       {
-        "time": "01:31",
+        "time": "02:26",
         "title": "KDDIテクノロジー「スマート工場EXPO」に出展 フィジカルAIコントローラーなど製造業DX・自動化の5ソリューションを披露予定",
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1taXJES0kyR3dJa1dvZzdBZTBmN1A3VzJqUFdoN3pfa05Ib0hNTWQ4YzZOZ0IwX2w3WVE4UkxqRVVmSU1XY2dsWEhxZ3A3SkJMbWlXX1d0NUE3OTA4Q1E2ZnB4S25zYUJrdmhPMDd3?oc=5",
-        "publishedAt": "2026-09-04T16:31:52.000Z"
+        "publishedAt": "2026-09-04T17:26:12.000Z"
       },
       {
         "time": "23:10",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594268?source=rss",
         "publishedAt": "2026-09-05T00:03:04.000Z"
+      },
+      {
+        "time": "16:24",
+        "title": "水道代の値上げ相次ぐ 家計を圧迫",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594315?source=rss",
+        "publishedAt": "2026-09-05T07:24:06.000Z"
       }
     ],
     "worldHeadlines": [

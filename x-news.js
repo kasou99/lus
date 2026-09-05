@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T11:37:13.731Z",
+  "updatedAt": "2026-09-05T12:22:58.722Z",
   "items": [
     {
       "time": "20:09",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大雨 屋久島町で土砂崩れや断水"
     },
     {
-      "time": "18:42",
-      "title": "ネパール土石流から10日 1人救助",
+      "time": "20:35",
+      "title": "内閣改造 小泉防衛相の留任で調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594332?source=rss",
-      "publishedAt": "2026-09-05T09:42:36.000Z",
-      "xQuery": "ネパール土石流から10日 1人救助"
+      "url": "https://news.yahoo.co.jp/pickup/6594345?source=rss",
+      "publishedAt": "2026-09-05T11:35:46.000Z",
+      "xQuery": "内閣改造 小泉防衛相の留任で調整"
     },
     {
       "time": "19:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "29年に中低所得者へ現金給付検討"
     },
     {
-      "time": "17:32",
-      "title": "母が水中に沈む7歳発見 意識不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594326?source=rss",
-      "publishedAt": "2026-09-05T08:32:24.000Z",
-      "xQuery": "母が水中に沈む7歳発見 意識不明"
-    },
-    {
       "time": "19:23",
       "title": "殺虫剤誤飲の死亡事故 市周知せず",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594333?source=rss",
       "publishedAt": "2026-09-05T10:23:22.000Z",
       "xQuery": "殺虫剤誤飲の死亡事故 市周知せず"
+    },
+    {
+      "time": "19:42",
+      "title": "くら寿司「ちいかわ」コラボ中止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594339?source=rss",
+      "publishedAt": "2026-09-05T10:42:23.000Z",
+      "xQuery": "くら寿司「ちいかわ」コラボ中止"
     }
   ]
 };
