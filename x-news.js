@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T22:37:00.319Z",
+  "updatedAt": "2026-09-05T23:13:28.276Z",
   "items": [
     {
-      "time": "20:15",
-      "title": "西-東日本 警報級大雨が続く恐れ",
+      "time": "07:39",
+      "title": "東京・八丈町で大雨 1時間110ミリ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594342?source=rss",
-      "publishedAt": "2026-09-05T11:15:09.000Z",
-      "xQuery": "西-東日本 警報級大雨が続く恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594374?source=rss",
+      "publishedAt": "2026-09-05T22:39:12.000Z",
+      "xQuery": "東京・八丈町で大雨 1時間110ミリ"
     },
     {
-      "time": "19:29",
-      "title": "29年に中低所得者へ現金給付検討",
+      "time": "07:42",
+      "title": "露大統領 和平担当の米特使と会談",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594335?source=rss",
-      "publishedAt": "2026-09-05T10:29:58.000Z",
-      "xQuery": "29年に中低所得者へ現金給付検討"
-    },
-    {
-      "time": "06:08",
-      "title": "ケーキ店で放火か 2人死亡3人搬送",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594367?source=rss",
-      "publishedAt": "2026-09-05T21:08:16.000Z",
-      "xQuery": "ケーキ店で放火か 2人死亡3人搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6594371?source=rss",
+      "publishedAt": "2026-09-05T22:42:09.000Z",
+      "xQuery": "露大統領 和平担当の米特使と会談"
     },
     {
       "time": "00:30",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "悠仁さま20歳 成年皇族の歩み進め"
     },
     {
-      "time": "22:23",
-      "title": "ベルトコンベアに巻き込まれ 重体",
+      "time": "06:08",
+      "title": "ケーキ店で放火か 2人死亡3人搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594356?source=rss",
-      "publishedAt": "2026-09-05T13:23:49.000Z",
-      "xQuery": "ベルトコンベアに巻き込まれ 重体"
+      "url": "https://news.yahoo.co.jp/pickup/6594367?source=rss",
+      "publishedAt": "2026-09-05T21:08:16.000Z",
+      "xQuery": "ケーキ店で放火か 2人死亡3人搬送"
+    },
+    {
+      "time": "08:09",
+      "title": "乗っていた車の下敷きか 男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594377?source=rss",
+      "publishedAt": "2026-09-05T23:09:24.000Z",
+      "xQuery": "乗っていた車の下敷きか 男性死亡"
     }
   ]
 };
