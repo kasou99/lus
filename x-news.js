@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T10:36:39.733Z",
+  "updatedAt": "2026-09-05T11:13:24.507Z",
   "items": [
+    {
+      "time": "20:09",
+      "title": "大雨 屋久島町で土砂崩れや断水",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594341?source=rss",
+      "publishedAt": "2026-09-05T11:09:52.000Z",
+      "xQuery": "大雨 屋久島町で土砂崩れや断水"
+    },
     {
       "time": "18:42",
       "title": "ネパール土石流から10日 1人救助",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール土石流から10日 1人救助"
     },
     {
-      "time": "17:57",
-      "title": "米政権に痛手 軽油価格が過去最高",
+      "time": "19:29",
+      "title": "29年に中低所得者へ現金給付検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594328?source=rss",
-      "publishedAt": "2026-09-05T08:57:46.000Z",
-      "xQuery": "米政権に痛手 軽油価格が過去最高"
-    },
-    {
-      "time": "17:41",
-      "title": "高校生3人が沖に流される 1人不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594327?source=rss",
-      "publishedAt": "2026-09-05T08:41:14.000Z",
-      "xQuery": "高校生3人が沖に流される 1人不明"
+      "url": "https://news.yahoo.co.jp/pickup/6594335?source=rss",
+      "publishedAt": "2026-09-05T10:29:58.000Z",
+      "xQuery": "29年に中低所得者へ現金給付検討"
     },
     {
       "time": "17:32",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "母が水中に沈む7歳発見 意識不明"
     },
     {
-      "time": "17:32",
-      "title": "暴れる客縛り緊急着陸 米の旅客機",
+      "time": "19:23",
+      "title": "殺虫剤誤飲の死亡事故 市周知せず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594325?source=rss",
-      "publishedAt": "2026-09-05T08:32:00.000Z",
-      "xQuery": "暴れる客縛り緊急着陸 米の旅客機"
+      "url": "https://news.yahoo.co.jp/pickup/6594333?source=rss",
+      "publishedAt": "2026-09-05T10:23:22.000Z",
+      "xQuery": "殺虫剤誤飲の死亡事故 市周知せず"
     }
   ]
 };
