@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T03:40:19.406Z",
+  "updatedAt": "2026-09-05T04:19:18.159Z",
   "items": [
     {
       "time": "11:41",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "屋久島町 土砂災害危険警報に切替"
     },
     {
-      "time": "09:19",
-      "title": "イラン戦争 米政権から矮小化発言",
+      "time": "11:16",
+      "title": "予算膨張 首相は懸念払拭に懸命",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594272?source=rss",
-      "publishedAt": "2026-09-05T00:19:45.000Z",
-      "xQuery": "イラン戦争 米政権から矮小化発言"
+      "url": "https://news.yahoo.co.jp/pickup/6594282?source=rss",
+      "publishedAt": "2026-09-05T02:16:14.000Z",
+      "xQuery": "予算膨張 首相は懸念払拭に懸命"
     },
     {
       "time": "12:12",
