@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T20:36:27.919Z",
+  "updatedAt": "2026-09-05T21:12:54.803Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-09-05T11:09:52.000Z"
       },
       {
+        "time": "06:08",
+        "title": "ケーキ店で放火か 2人死亡3人搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594367?source=rss",
+        "publishedAt": "2026-09-05T21:08:16.000Z"
+      },
+      {
         "time": "22:36",
         "title": "核ごみ処分候補地に浮上 市民衝撃",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594308?source=rss",
         "publishedAt": "2026-09-05T06:10:52.000Z"
-      },
-      {
-        "time": "23:48",
-        "title": "ケーキ店火災で3人搬送 岐阜",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594364?source=rss",
-        "publishedAt": "2026-09-05T14:48:00.000Z"
       },
       {
         "time": "22:23",

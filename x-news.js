@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T20:36:28.653Z",
+  "updatedAt": "2026-09-05T21:12:55.923Z",
   "items": [
     {
       "time": "20:15",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "29年に中低所得者へ現金給付検討"
     },
     {
+      "time": "06:08",
+      "title": "ケーキ店で放火か 2人死亡3人搬送",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594367?source=rss",
+      "publishedAt": "2026-09-05T21:08:16.000Z",
+      "xQuery": "ケーキ店で放火か 2人死亡3人搬送"
+    },
+    {
       "time": "00:30",
       "title": "悠仁さま20歳 成年皇族の歩み進め",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594366?source=rss",
       "publishedAt": "2026-09-05T15:30:05.000Z",
       "xQuery": "悠仁さま20歳 成年皇族の歩み進め"
-    },
-    {
-      "time": "23:48",
-      "title": "ケーキ店火災で3人搬送 岐阜",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594364?source=rss",
-      "publishedAt": "2026-09-05T14:48:00.000Z",
-      "xQuery": "ケーキ店火災で3人搬送 岐阜"
     }
   ]
 };
