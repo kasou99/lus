@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T04:39:09.046Z",
+  "updatedAt": "2026-09-05T05:16:05.654Z",
   "items": [
     {
       "time": "11:41",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "屋久島町 土砂災害危険警報に切替"
     },
     {
-      "time": "11:16",
-      "title": "予算膨張 首相は懸念払拭に懸命",
+      "time": "14:00",
+      "title": "クライミング中に滑落 心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594282?source=rss",
-      "publishedAt": "2026-09-05T02:16:14.000Z",
-      "xQuery": "予算膨張 首相は懸念払拭に懸命"
+      "url": "https://news.yahoo.co.jp/pickup/6594298?source=rss",
+      "publishedAt": "2026-09-05T05:00:56.000Z",
+      "xQuery": "クライミング中に滑落 心肺停止"
     },
     {
       "time": "13:28",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高校文化祭で催涙スプレー2人けが"
     },
     {
-      "time": "09:03",
-      "title": "ニデック不正 利益至上主義が浸透",
+      "time": "13:49",
+      "title": "まんじゅうをネット転売 通常便で",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594268?source=rss",
-      "publishedAt": "2026-09-05T00:03:04.000Z",
-      "xQuery": "ニデック不正 利益至上主義が浸透"
+      "url": "https://news.yahoo.co.jp/pickup/6594297?source=rss",
+      "publishedAt": "2026-09-05T04:49:26.000Z",
+      "xQuery": "まんじゅうをネット転売 通常便で"
     },
     {
       "time": "13:08",

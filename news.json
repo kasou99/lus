@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T04:39:08.434Z",
+  "updatedAt": "2026-09-05T05:16:04.813Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-09-04T07:21:25.000Z"
       },
       {
+        "time": "21:48",
+        "title": "「スマート工場EXPO」に出展、スマートファクトリー実現を支援する先端ソリューションを展示",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DanVkdThaejNMbW16eHZZenpFMzlFd0UxUV8tdkZwRml5OEstdGNYaUJMYWQ3ME1mVXVaUnJFYWxMYmIwYVVKM1Y2b3Y4VDBTWnRBN1NXX25hN2xKenMxTS1qVk5VNTRlc2k3aUZmR3JsaF9HT1E?oc=5",
+        "publishedAt": "2026-09-04T12:48:27.000Z"
+      },
+      {
         "time": "15:21",
         "title": "人・技術をつなぎ、イノベーションを創出する研究開発拠点「Mazak Innovation Hub」を2027年に開設",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tWUZ5aHlNLUJHRzFUMG5GbnloRWl6SVM4VFh1SlBwTGp5Vjg2dmo1MGpObDBaUlNQQWtyMmliTk9mc0ZuaW9xa0FWSEFXNjNWZGlGaThFSW90T05DMmNsZlpYTWxhVUdq?oc=5",
         "publishedAt": "2026-09-04T06:21:21.000Z"
-      },
-      {
-        "time": "13:45",
-        "title": "「スマート工場EXPO」に出展、スマートファクトリー実現を支援する先端ソリューションを展示",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SRjZzZmVSQ1IxejM4eXk3R3dzbnRXMVpwSEZyaDJ2eG4weWo5RjZFTUhFUmtYSnVaaXdTQjNRd2VOcXI0UVd3RjlWbi1lM2t5VFpnN0FEN3NzeFZDMndGZmoxZDZDZzdKYldLUEFaWUhqZw?oc=5",
-        "publishedAt": "2026-09-04T04:45:22.000Z"
       },
       {
         "time": "16:22",
@@ -126,13 +126,6 @@
         "publishedAt": "2026-09-05T00:03:04.000Z"
       },
       {
-        "time": "13:25",
-        "title": "ニデックの品質不正844件認定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594197?source=rss",
-        "publishedAt": "2026-09-04T04:25:40.000Z"
-      },
-      {
         "time": "07:02",
         "title": "セブンがアパレルに本格参入 なぜ",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594222?source=rss",
         "publishedAt": "2026-09-04T09:15:12.000Z"
+      },
+      {
+        "time": "14:29",
+        "title": "三省堂書店池袋本店 12/31閉店へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594204?source=rss",
+        "publishedAt": "2026-09-04T05:29:54.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-04T22:16:29.000Z"
       },
       {
-        "time": "20:45",
-        "title": "相模原の高3殺害事件 19歳を起訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594233?source=rss",
-        "publishedAt": "2026-09-04T11:45:26.000Z"
-      },
-      {
         "time": "13:28",
         "title": "高校文化祭で催涙スプレー2人けが",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594295?source=rss",
         "publishedAt": "2026-09-05T04:28:02.000Z"
+      },
+      {
+        "time": "14:00",
+        "title": "クライミング中に滑落 心肺停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594298?source=rss",
+        "publishedAt": "2026-09-05T05:00:56.000Z"
       }
     ],
     "subsidyHeadlines": [
