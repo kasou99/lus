@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T14:36:55.736Z",
+  "updatedAt": "2026-09-05T15:14:17.591Z",
   "items": [
     {
       "time": "20:15",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "西-東日本 警報級大雨が続く恐れ"
     },
     {
-      "time": "22:58",
-      "title": "露に対日戦勝碑 首相が撤去を要請",
+      "time": "23:41",
+      "title": "ネパール土石流から10日 2人救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594361?source=rss",
-      "publishedAt": "2026-09-05T13:58:20.000Z",
-      "xQuery": "露に対日戦勝碑 首相が撤去を要請"
+      "url": "https://news.yahoo.co.jp/pickup/6594363?source=rss",
+      "publishedAt": "2026-09-05T14:41:12.000Z",
+      "xQuery": "ネパール土石流から10日 2人救助"
     },
     {
       "time": "19:29",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "29年に中低所得者へ現金給付検討"
     },
     {
-      "time": "22:36",
-      "title": "核ごみ処分候補地に浮上 市民衝撃",
+      "time": "23:48",
+      "title": "ケーキ店火災で3人搬送 岐阜",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594360?source=rss",
-      "publishedAt": "2026-09-05T13:36:03.000Z",
-      "xQuery": "核ごみ処分候補地に浮上 市民衝撃"
+      "url": "https://news.yahoo.co.jp/pickup/6594364?source=rss",
+      "publishedAt": "2026-09-05T14:48:00.000Z",
+      "xQuery": "ケーキ店火災で3人搬送 岐阜"
     },
     {
       "time": "22:23",
