@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T05:36:40.916Z",
+  "updatedAt": "2026-09-05T06:26:52.413Z",
   "items": [
     {
       "time": "14:15",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "屋久島町の大雨 災害救助法を適用"
     },
     {
-      "time": "11:16",
-      "title": "予算膨張 首相は懸念払拭に懸命",
+      "time": "14:32",
+      "title": "中道・小川氏 亀裂拡大防止に苦慮",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594282?source=rss",
-      "publishedAt": "2026-09-05T02:16:14.000Z",
-      "xQuery": "予算膨張 首相は懸念払拭に懸命"
+      "url": "https://news.yahoo.co.jp/pickup/6594301?source=rss",
+      "publishedAt": "2026-09-05T05:32:47.000Z",
+      "xQuery": "中道・小川氏 亀裂拡大防止に苦慮"
+    },
+    {
+      "time": "15:10",
+      "title": "死亡の高2 車に1km以上追跡される",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594308?source=rss",
+      "publishedAt": "2026-09-05T06:10:52.000Z",
+      "xQuery": "死亡の高2 車に1km以上追跡される"
     },
     {
       "time": "14:00",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594298?source=rss",
       "publishedAt": "2026-09-05T05:00:56.000Z",
       "xQuery": "クライミング中に滑落 心肺停止"
-    },
-    {
-      "time": "13:28",
-      "title": "高校文化祭で催涙スプレー2人けが",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594295?source=rss",
-      "publishedAt": "2026-09-05T04:28:02.000Z",
-      "xQuery": "高校文化祭で催涙スプレー2人けが"
     },
     {
       "time": "13:49",
