@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T06:26:52.413Z",
+  "updatedAt": "2026-09-05T06:45:49.114Z",
   "items": [
     {
       "time": "14:15",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "死亡の高2 車に1km以上追跡される"
     },
     {
-      "time": "14:00",
-      "title": "クライミング中に滑落 心肺停止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594298?source=rss",
-      "publishedAt": "2026-09-05T05:00:56.000Z",
-      "xQuery": "クライミング中に滑落 心肺停止"
-    },
-    {
       "time": "13:49",
       "title": "まんじゅうをネット転売 通常便で",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594297?source=rss",
       "publishedAt": "2026-09-05T04:49:26.000Z",
       "xQuery": "まんじゅうをネット転売 通常便で"
+    },
+    {
+      "time": "13:08",
+      "title": "佐藤同士で結婚→離婚 戸籍の動き",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594294?source=rss",
+      "publishedAt": "2026-09-05T04:08:42.000Z",
+      "xQuery": "佐藤同士で結婚→離婚 戸籍の動き"
     }
   ]
 };

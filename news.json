@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T06:26:51.312Z",
+  "updatedAt": "2026-09-05T06:45:48.375Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -47,7 +47,7 @@
       {
         "time": "21:48",
         "title": "「スマート工場EXPO」に出展、スマートファクトリー実現を支援する先端ソリューションを展示",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GdmVPNjMwOXN3cTB0dWk0SDJpQU92YmlqclFPWkQydk83cTdxMDRFc1RHQkFrRFA0N0p5TzBsQUhjd21iQWd1UnBCcjNkWmFBZ1JhTDBjM0h4bGpkZmpzNWlsYTZYTXBObGdRazhuZnVxUFl1QUhNc3BR?oc=5",
         "publishedAt": "2026-09-04T12:48:27.000Z"
       },
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "15:26",
+        "title": "自民福岡県連 松本氏が会長職辞意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594310?source=rss",
+        "publishedAt": "2026-09-05T06:26:56.000Z"
+      },
+      {
         "time": "12:12",
         "title": "性被害訴える検事 なぜ無念の退職",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594295?source=rss",
         "publishedAt": "2026-09-05T04:28:02.000Z"
-      },
-      {
-        "time": "14:00",
-        "title": "クライミング中に滑落 心肺停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594298?source=rss",
-        "publishedAt": "2026-09-05T05:00:56.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -225,10 +225,10 @@
       },
       {
         "time": "16:00",
-        "title": "農業補助金一覧【2026年・令和8年度】トラクター・倉庫・ハウス・ドローンに使える制度をまとめて解説",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90V3dlOVVrSGp0bjNKUVFUck1BaHE1aE1wMkRCYUFWMG14b0htdHlOVWZQWnYtTE95RE5vcDhwT0ctell1aWxwNXRlNmVPYkNFNHpQaTA3YklPWTRlNFdudGR6N2lKdw?oc=5",
-        "publishedAt": "2026-08-07T07:00:00.000Z"
+        "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
+        "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ]
   }
