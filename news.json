@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T08:20:46.647Z",
+  "updatedAt": "2026-09-05T08:40:10.637Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "16:44",
         "title": "愛知県大口町に研究開発拠点「イノベーションハブ」開設 ヤマザキマザック、来年8月：ニュース",
-        "source": "biz.chunichi.co.jp",
+        "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50VkZKZUh2MDdqU3dnRjQwMnZZbU8wVnRPQVFxcjBFTUlKNDBHM0hKeXFKR3VsZG9Od3dFYnJQNVFyN3E0al9kWEpQNm1jb2J4emhIbTZlbWRHLXJFNERN?oc=5",
         "publishedAt": "2026-09-05T07:44:54.000Z"
       },
@@ -41,7 +41,7 @@
         "time": "21:48",
         "title": "「スマート工場EXPO」に出展、スマートファクトリー実現を支援する先端ソリューションを展示",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9GdmVPNjMwOXN3cTB0dWk0SDJpQU92YmlqclFPWkQydk83cTdxMDRFc1RHQkFrRFA0N0p5TzBsQUhjd21iQWd1UnBCcjNkWmFBZ1JhTDBjM0h4bGpkZmpzNWlsYTZYTXBObGdRazhuZnVxUFl1QUhNc3BR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DanVkdThaejNMbW16eHZZenpFMzlFd0UxUV8tdkZwRml5OEstdGNYaUJMYWQ3ME1mVXVaUnJFYWxMYmIwYVVKM1Y2b3Y4VDBTWnRBN1NXX25hN2xKenMxTS1qVk5VNTRlc2k3aUZmR3JsaF9HT1E?oc=5",
         "publishedAt": "2026-09-04T12:48:27.000Z"
       },
       {
@@ -66,13 +66,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594248?source=rss",
         "publishedAt": "2026-09-04T21:14:20.000Z"
-      },
-      {
-        "time": "13:42",
-        "title": "ネパール 生存者2人救出と報道",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594198?source=rss",
-        "publishedAt": "2026-09-04T04:42:04.000Z"
       },
       {
         "time": "09:19",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594219?source=rss",
         "publishedAt": "2026-09-04T08:27:57.000Z"
+      },
+      {
+        "time": "17:32",
+        "title": "暴れる客縛り緊急着陸 米の旅客機",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594325?source=rss",
+        "publishedAt": "2026-09-05T08:32:00.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-09-05T03:12:23.000Z"
       },
       {
-        "time": "10:22",
-        "title": "園バス置き去り死 父の怒りと後悔",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594276?source=rss",
-        "publishedAt": "2026-09-05T01:22:21.000Z"
-      },
-      {
         "time": "15:10",
         "title": "死亡の高2 車に1km以上追跡される",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594314?source=rss",
         "publishedAt": "2026-09-05T07:03:10.000Z"
+      },
+      {
+        "time": "17:32",
+        "title": "母が水中に沈む7歳発見 意識不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594326?source=rss",
+        "publishedAt": "2026-09-05T08:32:24.000Z"
       },
       {
         "time": "07:16",

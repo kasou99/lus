@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T08:20:47.636Z",
+  "updatedAt": "2026-09-05T08:40:11.405Z",
   "items": [
     {
       "time": "14:52",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "水道代の値上げ相次ぐ 家計を圧迫"
     },
     {
-      "time": "16:03",
-      "title": "クライミング中に滑落の男性 死亡",
+      "time": "17:32",
+      "title": "母が水中に沈む7歳発見 意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594314?source=rss",
-      "publishedAt": "2026-09-05T07:03:10.000Z",
-      "xQuery": "クライミング中に滑落の男性 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6594326?source=rss",
+      "publishedAt": "2026-09-05T08:32:24.000Z",
+      "xQuery": "母が水中に沈む7歳発見 意識不明"
     },
     {
       "time": "15:10",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "死亡の高2 車に1km以上追跡される"
     },
     {
-      "time": "13:49",
-      "title": "まんじゅうをネット転売 通常便で",
+      "time": "16:20",
+      "title": "家買う若者と3畳住む若者 共通点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594297?source=rss",
-      "publishedAt": "2026-09-05T04:49:26.000Z",
-      "xQuery": "まんじゅうをネット転売 通常便で"
+      "url": "https://news.yahoo.co.jp/pickup/6594316?source=rss",
+      "publishedAt": "2026-09-05T07:20:27.000Z",
+      "xQuery": "家買う若者と3畳住む若者 共通点"
     }
   ]
 };
