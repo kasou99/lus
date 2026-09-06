@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T12:23:15.911Z",
+  "updatedAt": "2026-09-06T12:41:37.325Z",
   "items": [
     {
       "time": "18:36",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "酒酔い運転疑いの男容態急変 死亡"
     },
     {
-      "time": "11:51",
-      "title": "「ドパガキ」な娘2人 父語る実態",
+      "time": "20:13",
+      "title": "福岡の海岸で10代溺れ 行方不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594402?source=rss",
-      "publishedAt": "2026-09-06T02:51:47.000Z",
-      "xQuery": "「ドパガキ」な娘2人 父語る実態"
+      "url": "https://news.yahoo.co.jp/pickup/6594459?source=rss",
+      "publishedAt": "2026-09-06T11:13:16.000Z",
+      "xQuery": "福岡の海岸で10代溺れ 行方不明"
     }
   ]
 };
