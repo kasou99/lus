@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T04:39:44.053Z",
+  "updatedAt": "2026-09-06T05:16:17.692Z",
   "items": [
     {
       "time": "13:34",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594412?source=rss",
       "publishedAt": "2026-09-06T04:34:55.000Z",
       "xQuery": "東海・関東 災害級大雨の恐れ"
-    },
-    {
-      "time": "10:12",
-      "title": "衛星監視網100基超に増強 国検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594393?source=rss",
-      "publishedAt": "2026-09-06T01:12:38.000Z",
-      "xQuery": "衛星監視網100基超に増強 国検討"
     },
     {
       "time": "10:28",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594409?source=rss",
       "publishedAt": "2026-09-06T03:53:04.000Z",
       "xQuery": "海水浴場で不明の男性 遺体で発見"
+    },
+    {
+      "time": "13:51",
+      "title": "くら寿司コラボ中止 客は落胆の声",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594416?source=rss",
+      "publishedAt": "2026-09-06T04:51:05.000Z",
+      "xQuery": "くら寿司コラボ中止 客は落胆の声"
     }
   ]
 };
