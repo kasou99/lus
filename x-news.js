@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T00:54:55.332Z",
+  "updatedAt": "2026-09-06T01:29:27.228Z",
   "items": [
     {
       "time": "08:39",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米軍 イランのタンカー3隻攻撃"
     },
     {
-      "time": "07:42",
-      "title": "露大統領 和平担当の米特使と会談",
+      "time": "09:31",
+      "title": "電子図書館 全国自治体3割超導入",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594371?source=rss",
-      "publishedAt": "2026-09-05T22:42:09.000Z",
-      "xQuery": "露大統領 和平担当の米特使と会談"
+      "url": "https://news.yahoo.co.jp/pickup/6594388?source=rss",
+      "publishedAt": "2026-09-06T00:31:03.000Z",
+      "xQuery": "電子図書館 全国自治体3割超導入"
     },
     {
       "time": "08:31",
