@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T22:36:50.154Z",
+  "updatedAt": "2026-09-06T23:14:02.909Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,9 +19,16 @@
       {
         "time": "05:00",
         "title": "プレス技術10月号／DXで生き残る！人手不足時代の経営戦略",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54bmNZckdBVWU2NUV3RzJ1N3M5QVkycmtlMkZGRzdsUFhTSjZyaW9sdlB2NnlvbmpucEJPVmZGbEh0M0RtTElrTEdCVTh1WXRxektLR0ZhZkw?oc=5",
         "publishedAt": "2026-09-06T20:00:00.000Z"
+      },
+      {
+        "time": "05:10",
+        "title": "人・技術をつなぎ、イノベーションを創出する研究開発拠点「Mazak Innovation Hub」を2027年に開設",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jOElQRzljMUlnYThEZUppLUc3Z0dMUEo2alJtcC1kSkcxUnVWREFwcTlnbVk4VlFDX2hpaHlsYUdYLUN0RjVZZzh1UkZvbUp0aUl4cXREU2laRjZfVTJBS1F2YllRVGJERDg0?oc=5",
+        "publishedAt": "2026-09-06T20:10:00.000Z"
       },
       {
         "time": "18:06",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-09-06T09:06:17.000Z"
       },
       {
-        "time": "17:10",
-        "title": "人・技術をつなぎ、イノベーションを創出する研究開発拠点「Mazak Innovation Hub」を2027年に開設",
-        "source": "jiji.com",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jOElQRzljMUlnYThEZUppLUc3Z0dMUEo2alJtcC1kSkcxUnVWREFwcTlnbVk4VlFDX2hpaHlsYUdYLUN0RjVZZzh1UkZvbUp0aUl4cXREU2laRjZfVTJBS1F2YllRVGJERDg0?oc=5",
-        "publishedAt": "2026-09-06T08:10:00.000Z"
-      },
-      {
         "time": "23:22",
         "title": "全国の鉄道・フライト 最新情報",
         "source": "Yahoo!ニュース",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-06T14:22:46.000Z"
       },
       {
+        "time": "07:46",
+        "title": "東北新幹線一部見合わせ 人身事故",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594492?source=rss",
+        "publishedAt": "2026-09-06T22:46:15.000Z"
+      },
+      {
         "time": "17:36",
         "title": "長期金利上昇 市場が積極財政警戒",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594441?source=rss",
         "publishedAt": "2026-09-06T08:36:22.000Z"
-      },
-      {
-        "time": "16:18",
-        "title": "複数作業員に列車接近 JR西で3月",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594428?source=rss",
-        "publishedAt": "2026-09-06T07:18:38.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,18 +112,18 @@
         "publishedAt": "2026-09-06T14:22:46.000Z"
       },
       {
+        "time": "07:46",
+        "title": "東北新幹線一部見合わせ 人身事故",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594492?source=rss",
+        "publishedAt": "2026-09-06T22:46:15.000Z"
+      },
+      {
         "time": "17:36",
         "title": "長期金利上昇 市場が積極財政警戒",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594441?source=rss",
         "publishedAt": "2026-09-06T08:36:22.000Z"
-      },
-      {
-        "time": "16:18",
-        "title": "複数作業員に列車接近 JR西で3月",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594428?source=rss",
-        "publishedAt": "2026-09-06T07:18:38.000Z"
       },
       {
         "time": "15:34",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T22:36:50.868Z",
+  "updatedAt": "2026-09-06T23:14:03.639Z",
   "items": [
     {
       "time": "05:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "関東 朝の通勤・通学を大雨直撃か"
     },
     {
-      "time": "05:48",
-      "title": "アンダーパスで予防的規制 全国初",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594484?source=rss",
-      "publishedAt": "2026-09-06T20:48:44.000Z",
-      "xQuery": "アンダーパスで予防的規制 全国初"
-    },
-    {
       "time": "07:26",
       "title": "大雨の関東 小中学校で休校相次ぐ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594487?source=rss",
       "publishedAt": "2026-09-06T22:26:59.000Z",
       "xQuery": "大雨の関東 小中学校で休校相次ぐ"
+    },
+    {
+      "time": "07:46",
+      "title": "東北新幹線一部見合わせ 人身事故",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594492?source=rss",
+      "publishedAt": "2026-09-06T22:46:15.000Z",
+      "xQuery": "東北新幹線一部見合わせ 人身事故"
     }
   ]
 };
