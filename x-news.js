@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T20:36:37.058Z",
+  "updatedAt": "2026-09-06T21:13:51.174Z",
   "items": [
     {
       "time": "04:36",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・新島村に土砂災害特別警報"
     },
     {
-      "time": "05:15",
-      "title": "中継 特別警報受け気象庁が会見",
+      "time": "05:35",
+      "title": "東京・新島村に特別警報 最新情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594481?source=rss",
-      "publishedAt": "2026-09-06T20:15:36.000Z",
-      "xQuery": "中継 特別警報受け気象庁が会見"
+      "url": "https://news.yahoo.co.jp/pickup/6594482?source=rss",
+      "publishedAt": "2026-09-06T20:35:37.000Z",
+      "xQuery": "東京・新島村に特別警報 最新情報"
     },
     {
-      "time": "22:34",
-      "title": "東海-東北の太平洋側で大雨 警戒",
+      "time": "05:44",
+      "title": "関東 朝の通勤・通学を大雨直撃か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594468?source=rss",
-      "publishedAt": "2026-09-06T13:34:42.000Z",
-      "xQuery": "東海-東北の太平洋側で大雨 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6594483?source=rss",
+      "publishedAt": "2026-09-06T20:44:24.000Z",
+      "xQuery": "関東 朝の通勤・通学を大雨直撃か"
     },
     {
       "time": "23:22",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "全国の鉄道・フライト 最新情報"
     },
     {
-      "time": "22:57",
-      "title": "内閣支持率が62.5%に上昇 JNN",
+      "time": "05:48",
+      "title": "アンダーパスで予防的規制 全国初",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594473?source=rss",
-      "publishedAt": "2026-09-06T13:57:26.000Z",
-      "xQuery": "内閣支持率が62.5%に上昇 JNN"
+      "url": "https://news.yahoo.co.jp/pickup/6594484?source=rss",
+      "publishedAt": "2026-09-06T20:48:44.000Z",
+      "xQuery": "アンダーパスで予防的規制 全国初"
     }
   ]
 };

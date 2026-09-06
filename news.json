@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:36:36.169Z",
+  "updatedAt": "2026-09-06T21:13:50.396Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-09-06T15:00:00.000Z"
       },
       {
-        "time": "18:06",
-        "title": "（日）",
-        "source": "sannichi.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nVnlsU0ItMmZBQzN0c3Y1RnQtYTloR2VwSnlobkYySnhjbjFWSWNRRVo5QnJwcVo0TklTcGpvUDBYSVpFem05LTRTN1ZYM1EySUtqUkd4SS1fTWNCNGpJcXQwSQ?oc=5",
-        "publishedAt": "2026-09-06T09:06:17.000Z"
+        "time": "05:00",
+        "title": "プレス技術10月号／DXで生き残る！人手不足時代の経営戦略",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54bmNZckdBVWU2NUV3RzJ1N3M5QVkycmtlMkZGRzdsUFhTSjZyaW9sdlB2NnlvbmpucEJPVmZGbEh0M0RtTElrTEdCVTh1WXRxektLR0ZhZkw?oc=5",
+        "publishedAt": "2026-09-06T20:00:00.000Z"
       },
       {
         "time": "17:10",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "05:48",
+        "title": "アンダーパスで予防的規制 全国初",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594484?source=rss",
+        "publishedAt": "2026-09-06T20:48:44.000Z"
+      },
+      {
         "time": "22:39",
         "title": "ケーキ店火災 男性の遺体に刺し傷",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594442?source=rss",
         "publishedAt": "2026-09-06T08:48:34.000Z"
-      },
-      {
-        "time": "20:13",
-        "title": "福岡の海岸で10代溺れ 行方不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594459?source=rss",
-        "publishedAt": "2026-09-06T11:13:16.000Z"
       }
     ],
     "subsidyHeadlines": [
