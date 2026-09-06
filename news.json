@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T18:37:22.461Z",
+  "updatedAt": "2026-09-06T19:11:55.933Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,9 +10,16 @@
         "publishedAt": "2026-09-06T15:00:00.000Z"
       },
       {
+        "time": "18:06",
+        "title": "（日）",
+        "source": "sannichi.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nVnlsU0ItMmZBQzN0c3Y1RnQtYTloR2VwSnlobkYySnhjbjFWSWNRRVo5QnJwcVo0TklTcGpvUDBYSVpFem05LTRTN1ZYM1EySUtqUkd4SS1fTWNCNGpJcXQwSQ?oc=5",
+        "publishedAt": "2026-09-06T09:06:17.000Z"
+      },
+      {
         "time": "17:10",
         "title": "人・技術をつなぎ、イノベーションを創出する研究開発拠点「Mazak Innovation Hub」を2027年に開設",
-        "source": "時事ドットコム",
+        "source": "jiji.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jOElQRzljMUlnYThEZUppLUc3Z0dMUEo2alJtcC1kSkcxUnVWREFwcTlnbVk4VlFDX2hpaHlsYUdYLUN0RjVZZzh1UkZvbUp0aUl4cXREU2laRjZfVTJBS1F2YllRVGJERDg0?oc=5",
         "publishedAt": "2026-09-06T08:10:00.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594416?source=rss",
         "publishedAt": "2026-09-06T04:51:05.000Z"
-      },
-      {
-        "time": "11:01",
-        "title": "コラボ中止のくら寿司 割引を発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594399?source=rss",
-        "publishedAt": "2026-09-06T02:01:48.000Z"
       }
     ],
     "worldHeadlines": [
