@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T13:14:22.616Z",
+  "updatedAt": "2026-09-06T13:37:15.664Z",
   "items": [
     {
-      "time": "18:36",
-      "title": "東北・関東・東海 線状降水帯恐れ",
+      "time": "22:34",
+      "title": "東海-東北の太平洋側で大雨 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594448?source=rss",
-      "publishedAt": "2026-09-06T09:36:31.000Z",
-      "xQuery": "東北・関東・東海 線状降水帯恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594468?source=rss",
+      "publishedAt": "2026-09-06T13:34:42.000Z",
+      "xQuery": "東海-東北の太平洋側で大雨 警戒"
     },
     {
       "time": "20:49",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店火事 死亡の男性が関与か"
     },
     {
-      "time": "18:15",
-      "title": "酒酔い運転疑いの男容態急変 死亡",
+      "time": "20:06",
+      "title": "IT各社 サイバー防御支援に商機",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594444?source=rss",
-      "publishedAt": "2026-09-06T09:15:18.000Z",
-      "xQuery": "酒酔い運転疑いの男容態急変 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6594458?source=rss",
+      "publishedAt": "2026-09-06T11:06:59.000Z",
+      "xQuery": "IT各社 サイバー防御支援に商機"
     },
     {
-      "time": "20:13",
-      "title": "福岡の海岸で10代溺れ 行方不明",
+      "time": "22:13",
+      "title": "息子を亡くし 病気の子支える女性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594459?source=rss",
-      "publishedAt": "2026-09-06T11:13:16.000Z",
-      "xQuery": "福岡の海岸で10代溺れ 行方不明"
+      "url": "https://news.yahoo.co.jp/pickup/6594467?source=rss",
+      "publishedAt": "2026-09-06T13:13:14.000Z",
+      "xQuery": "息子を亡くし 病気の子支える女性"
     }
   ]
 };
