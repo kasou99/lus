@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T01:51:28.158Z",
+  "updatedAt": "2026-09-06T02:25:02.170Z",
   "items": [
+    {
+      "time": "11:10",
+      "title": "1都3県 あすにかけ線状降水帯恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594400?source=rss",
+      "publishedAt": "2026-09-06T02:10:33.000Z",
+      "xQuery": "1都3県 あすにかけ線状降水帯恐れ"
+    },
     {
       "time": "07:56",
       "title": "内閣改造 林芳正氏の去就焦点",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594375?source=rss",
       "publishedAt": "2026-09-05T22:56:47.000Z",
       "xQuery": "内閣改造 林芳正氏の去就焦点"
-    },
-    {
-      "time": "08:39",
-      "title": "東海や関東 滝のような雨の恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594381?source=rss",
-      "publishedAt": "2026-09-05T23:39:32.000Z",
-      "xQuery": "東海や関東 滝のような雨の恐れ"
     },
     {
       "time": "09:31",
