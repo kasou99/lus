@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T13:37:15.664Z",
+  "updatedAt": "2026-09-06T14:14:26.180Z",
   "items": [
     {
       "time": "22:34",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "大雨予想で一部運休を発表 JR東"
     },
     {
-      "time": "18:55",
-      "title": "ケーキ店火事 死亡の男性が関与か",
+      "time": "20:57",
+      "title": "中道分裂 問われる野党の存在意義",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594451?source=rss",
-      "publishedAt": "2026-09-06T09:55:47.000Z",
-      "xQuery": "ケーキ店火事 死亡の男性が関与か"
+      "url": "https://news.yahoo.co.jp/pickup/6594461?source=rss",
+      "publishedAt": "2026-09-06T11:57:07.000Z",
+      "xQuery": "中道分裂 問われる野党の存在意義"
     },
     {
-      "time": "20:06",
-      "title": "IT各社 サイバー防御支援に商機",
+      "time": "22:57",
+      "title": "内閣支持率が62.5%に上昇 JNN",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594458?source=rss",
-      "publishedAt": "2026-09-06T11:06:59.000Z",
-      "xQuery": "IT各社 サイバー防御支援に商機"
+      "url": "https://news.yahoo.co.jp/pickup/6594473?source=rss",
+      "publishedAt": "2026-09-06T13:57:26.000Z",
+      "xQuery": "内閣支持率が62.5%に上昇 JNN"
     },
     {
-      "time": "22:13",
-      "title": "息子を亡くし 病気の子支える女性",
+      "time": "22:39",
+      "title": "ケーキ店火災 男性の遺体に刺し傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594467?source=rss",
-      "publishedAt": "2026-09-06T13:13:14.000Z",
-      "xQuery": "息子を亡くし 病気の子支える女性"
+      "url": "https://news.yahoo.co.jp/pickup/6594471?source=rss",
+      "publishedAt": "2026-09-06T13:39:08.000Z",
+      "xQuery": "ケーキ店火災 男性の遺体に刺し傷"
     }
   ]
 };
