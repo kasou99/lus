@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T08:40:01.820Z",
+  "updatedAt": "2026-09-06T09:16:50.431Z",
   "items": [
     {
       "time": "16:37",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東海や関東 土砂災害など厳重警戒"
     },
     {
-      "time": "14:07",
-      "title": "国と沖縄の距離感 知事選の争点に",
+      "time": "17:48",
+      "title": "金採掘か環境か 過疎の町の決断",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594417?source=rss",
-      "publishedAt": "2026-09-06T05:07:13.000Z",
-      "xQuery": "国と沖縄の距離感 知事選の争点に"
-    },
-    {
-      "time": "17:22",
-      "title": "5人死傷のケーキ店 地域で人気",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594438?source=rss",
-      "publishedAt": "2026-09-06T08:22:42.000Z",
-      "xQuery": "5人死傷のケーキ店 地域で人気"
+      "url": "https://news.yahoo.co.jp/pickup/6594442?source=rss",
+      "publishedAt": "2026-09-06T08:48:34.000Z",
+      "xQuery": "金採掘か環境か 過疎の町の決断"
     },
     {
       "time": "16:48",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594436?source=rss",
       "publishedAt": "2026-09-06T07:48:38.000Z",
       "xQuery": "「殺人ロボ」巡り文書合意 国連"
+    },
+    {
+      "time": "17:22",
+      "title": "5人死傷のケーキ店 地域で人気",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594438?source=rss",
+      "publishedAt": "2026-09-06T08:22:42.000Z",
+      "xQuery": "5人死傷のケーキ店 地域で人気"
     },
     {
       "time": "16:25",
