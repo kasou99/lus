@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T06:27:19.015Z",
+  "updatedAt": "2026-09-06T06:46:56.629Z",
   "items": [
     {
       "time": "13:34",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店火災 同級生ら会合中か"
     },
     {
-      "time": "13:51",
-      "title": "くら寿司コラボ中止 客は落胆の声",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594416?source=rss",
-      "publishedAt": "2026-09-06T04:51:05.000Z",
-      "xQuery": "くら寿司コラボ中止 客は落胆の声"
-    },
-    {
       "time": "11:56",
       "title": "「直パケレシピ」企業が次々公開",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594403?source=rss",
       "publishedAt": "2026-09-06T02:56:28.000Z",
       "xQuery": "「直パケレシピ」企業が次々公開"
+    },
+    {
+      "time": "15:34",
+      "title": "くら寿司巡る騒動 割引で収まる?",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594424?source=rss",
+      "publishedAt": "2026-09-06T06:34:22.000Z",
+      "xQuery": "くら寿司巡る騒動 割引で収まる?"
     }
   ]
 };
