@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T09:36:23.676Z",
+  "updatedAt": "2026-09-06T10:15:13.555Z",
   "items": [
     {
-      "time": "16:37",
-      "title": "東海や関東 土砂災害など厳重警戒",
+      "time": "18:36",
+      "title": "東北・関東・東海 線状降水帯恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594433?source=rss",
-      "publishedAt": "2026-09-06T07:37:45.000Z",
-      "xQuery": "東海や関東 土砂災害など厳重警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6594448?source=rss",
+      "publishedAt": "2026-09-06T09:36:31.000Z",
+      "xQuery": "東北・関東・東海 線状降水帯恐れ"
+    },
+    {
+      "time": "17:36",
+      "title": "長期金利上昇 市場が積極財政警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594441?source=rss",
+      "publishedAt": "2026-09-06T08:36:22.000Z",
+      "xQuery": "長期金利上昇 市場が積極財政警戒"
     },
     {
       "time": "17:48",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "金採掘か環境か 過疎の町の決断"
     },
     {
-      "time": "17:22",
-      "title": "5人死傷のケーキ店 地域で人気",
+      "time": "18:55",
+      "title": "ケーキ店火事 死亡の男性が関与か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594438?source=rss",
-      "publishedAt": "2026-09-06T08:22:42.000Z",
-      "xQuery": "5人死傷のケーキ店 地域で人気"
+      "url": "https://news.yahoo.co.jp/pickup/6594451?source=rss",
+      "publishedAt": "2026-09-06T09:55:47.000Z",
+      "xQuery": "ケーキ店火事 死亡の男性が関与か"
     },
     {
       "time": "18:15",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594444?source=rss",
       "publishedAt": "2026-09-06T09:15:18.000Z",
       "xQuery": "酒酔い運転疑いの男容態急変 死亡"
-    },
-    {
-      "time": "16:25",
-      "title": "包丁の保有率 20代女性で9割切る",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594432?source=rss",
-      "publishedAt": "2026-09-06T07:25:31.000Z",
-      "xQuery": "包丁の保有率 20代女性で9割切る"
     }
   ]
 };
