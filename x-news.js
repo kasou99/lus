@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T04:19:52.457Z",
+  "updatedAt": "2026-09-06T04:39:44.053Z",
   "items": [
     {
-      "time": "12:08",
-      "title": "関東・東海1都6県 線状降水帯恐れ",
+      "time": "13:34",
+      "title": "東海・関東 災害級大雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594405?source=rss",
-      "publishedAt": "2026-09-06T03:08:35.000Z",
-      "xQuery": "関東・東海1都6県 線状降水帯恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594412?source=rss",
+      "publishedAt": "2026-09-06T04:34:55.000Z",
+      "xQuery": "東海・関東 災害級大雨の恐れ"
     },
     {
       "time": "10:12",
