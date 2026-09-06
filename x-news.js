@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T09:16:50.431Z",
+  "updatedAt": "2026-09-06T09:36:23.676Z",
   "items": [
     {
       "time": "16:37",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "金採掘か環境か 過疎の町の決断"
     },
     {
-      "time": "16:48",
-      "title": "「殺人ロボ」巡り文書合意 国連",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594436?source=rss",
-      "publishedAt": "2026-09-06T07:48:38.000Z",
-      "xQuery": "「殺人ロボ」巡り文書合意 国連"
-    },
-    {
       "time": "17:22",
       "title": "5人死傷のケーキ店 地域で人気",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594438?source=rss",
       "publishedAt": "2026-09-06T08:22:42.000Z",
       "xQuery": "5人死傷のケーキ店 地域で人気"
+    },
+    {
+      "time": "18:15",
+      "title": "酒酔い運転疑いの男容態急変 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594444?source=rss",
+      "publishedAt": "2026-09-06T09:15:18.000Z",
+      "xQuery": "酒酔い運転疑いの男容態急変 死亡"
     },
     {
       "time": "16:25",
