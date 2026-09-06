@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T18:20:30.996Z",
+  "updatedAt": "2026-09-06T18:37:22.461Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "nna.jp",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtbFlxSW1COVo4QWdXb1hmeEJiZTA3cFU5a2hKeGlHUlZCcDlOSEJyZzhmeGx0Nk9tZzN0b3NvV0sxMHlXbHc?oc=5",
         "publishedAt": "2026-09-06T15:00:00.000Z"
-      },
-      {
-        "time": "18:06",
-        "title": "（日）",
-        "source": "sannichi.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nVnlsU0ItMmZBQzN0c3Y1RnQtYTloR2VwSnlobkYySnhjbjFWSWNRRVo5QnJwcVo0TklTcGpvUDBYSVpFem05LTRTN1ZYM1EySUtqUkd4SS1fTWNCNGpJcXQwSQ?oc=5",
-        "publishedAt": "2026-09-06T09:06:17.000Z"
       },
       {
         "time": "17:10",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594416?source=rss",
         "publishedAt": "2026-09-06T04:51:05.000Z"
+      },
+      {
+        "time": "11:01",
+        "title": "コラボ中止のくら寿司 割引を発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594399?source=rss",
+        "publishedAt": "2026-09-06T02:01:48.000Z"
       }
     ],
     "worldHeadlines": [
