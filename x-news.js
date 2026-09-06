@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T03:21:39.053Z",
+  "updatedAt": "2026-09-06T03:41:30.287Z",
   "items": [
     {
       "time": "12:08",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣改造 林芳正氏の去就焦点"
     },
     {
-      "time": "10:44",
-      "title": "ケーキ店2人死亡火災 知人関与か",
+      "time": "12:35",
+      "title": "ケーキ店火災で3人死亡 放火か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594397?source=rss",
-      "publishedAt": "2026-09-06T01:44:24.000Z",
-      "xQuery": "ケーキ店2人死亡火災 知人関与か"
+      "url": "https://news.yahoo.co.jp/pickup/6594408?source=rss",
+      "publishedAt": "2026-09-06T03:35:22.000Z",
+      "xQuery": "ケーキ店火災で3人死亡 放火か"
     },
     {
       "time": "10:28",
