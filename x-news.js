@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T19:37:01.172Z",
+  "updatedAt": "2026-09-06T20:15:59.016Z",
   "items": [
+    {
+      "time": "04:36",
+      "title": "東京・新島村に土砂災害特別警報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594479?source=rss",
+      "publishedAt": "2026-09-06T19:36:17.000Z",
+      "xQuery": "東京・新島村に土砂災害特別警報"
+    },
+    {
+      "time": "04:59",
+      "title": "東京・新島村に特別警報 最新情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594480?source=rss",
+      "publishedAt": "2026-09-06T19:59:25.000Z",
+      "xQuery": "東京・新島村に特別警報 最新情報"
+    },
     {
       "time": "22:34",
       "title": "東海-東北の太平洋側で大雨 警戒",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594473?source=rss",
       "publishedAt": "2026-09-06T13:57:26.000Z",
       "xQuery": "内閣支持率が62.5%に上昇 JNN"
-    },
-    {
-      "time": "22:39",
-      "title": "ケーキ店火災 男性の遺体に刺し傷",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594471?source=rss",
-      "publishedAt": "2026-09-06T13:39:08.000Z",
-      "xQuery": "ケーキ店火災 男性の遺体に刺し傷"
-    },
-    {
-      "time": "16:18",
-      "title": "複数作業員に列車接近 JR西で3月",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594428?source=rss",
-      "publishedAt": "2026-09-06T07:18:38.000Z",
-      "xQuery": "複数作業員に列車接近 JR西で3月"
     }
   ]
 };

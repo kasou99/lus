@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-06T19:37:00.412Z",
+  "updatedAt": "2026-09-06T20:15:58.453Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "金沢の町工場が狙う「工作機械のClaude」 加工コード生成 京セラなどと提携",
+        "source": "日経ビジネス電子版",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EOTBFRThpYXVNdFkzNGJTdHNvMDdkMHhqZnZ5WDU1MDFIc1NTVUcwRFpOenFjTGQweHZsckdNVlkxdDd0UGdUNjlrSVBFWUF5RkxoTnQ5NmUtRnBQeWR2aFZiZzA3XzA?oc=5",
+        "publishedAt": "2026-09-06T20:00:00.000Z"
+      },
       {
         "time": "00:00",
         "title": "工作機械ソディック、ＨＣＭ市に新拠点",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594416?source=rss",
         "publishedAt": "2026-09-06T04:51:05.000Z"
-      },
-      {
-        "time": "11:01",
-        "title": "コラボ中止のくら寿司 割引を発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594399?source=rss",
-        "publishedAt": "2026-09-06T02:01:48.000Z"
       }
     ],
     "worldHeadlines": [
