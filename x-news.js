@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T05:16:17.692Z",
+  "updatedAt": "2026-09-06T05:36:57.178Z",
   "items": [
     {
       "time": "13:34",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東海・関東 災害級大雨の恐れ"
     },
     {
-      "time": "10:28",
-      "title": "子どもの肥満 貧困と深い関係",
+      "time": "14:24",
+      "title": "国民民主党の代表選 玉木氏が3選",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594394?source=rss",
-      "publishedAt": "2026-09-06T01:28:10.000Z",
-      "xQuery": "子どもの肥満 貧困と深い関係"
+      "url": "https://news.yahoo.co.jp/pickup/6594419?source=rss",
+      "publishedAt": "2026-09-06T05:24:51.000Z",
+      "xQuery": "国民民主党の代表選 玉木氏が3選"
     },
     {
       "time": "12:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店火災で3人死亡 放火か"
     },
     {
-      "time": "12:53",
-      "title": "海水浴場で不明の男性 遺体で発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594409?source=rss",
-      "publishedAt": "2026-09-06T03:53:04.000Z",
-      "xQuery": "海水浴場で不明の男性 遺体で発見"
-    },
-    {
       "time": "13:51",
       "title": "くら寿司コラボ中止 客は落胆の声",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594416?source=rss",
       "publishedAt": "2026-09-06T04:51:05.000Z",
       "xQuery": "くら寿司コラボ中止 客は落胆の声"
+    },
+    {
+      "time": "11:51",
+      "title": "「ドパガキ」な娘2人 父語る実態",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594402?source=rss",
+      "publishedAt": "2026-09-06T02:51:47.000Z",
+      "xQuery": "「ドパガキ」な娘2人 父語る実態"
     }
   ]
 };
