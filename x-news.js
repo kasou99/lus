@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T22:14:52.341Z",
+  "updatedAt": "2026-09-06T22:36:50.868Z",
   "items": [
     {
       "time": "05:35",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "アンダーパスで予防的規制 全国初"
     },
     {
-      "time": "22:57",
-      "title": "内閣支持率が62.5%に上昇 JNN",
+      "time": "07:26",
+      "title": "大雨の関東 小中学校で休校相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594473?source=rss",
-      "publishedAt": "2026-09-06T13:57:26.000Z",
-      "xQuery": "内閣支持率が62.5%に上昇 JNN"
+      "url": "https://news.yahoo.co.jp/pickup/6594487?source=rss",
+      "publishedAt": "2026-09-06T22:26:59.000Z",
+      "xQuery": "大雨の関東 小中学校で休校相次ぐ"
     }
   ]
 };
