@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T07:36:54.301Z",
+  "updatedAt": "2026-09-06T08:21:19.204Z",
   "items": [
     {
-      "time": "13:34",
-      "title": "東海・関東 災害級大雨の恐れ",
+      "time": "16:37",
+      "title": "東海や関東 土砂災害など厳重警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594412?source=rss",
-      "publishedAt": "2026-09-06T04:34:55.000Z",
-      "xQuery": "東海・関東 災害級大雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594433?source=rss",
+      "publishedAt": "2026-09-06T07:37:45.000Z",
+      "xQuery": "東海や関東 土砂災害など厳重警戒"
     },
     {
-      "time": "14:24",
-      "title": "国民民主党の代表選 玉木氏が3選",
+      "time": "14:07",
+      "title": "国と沖縄の距離感 知事選の争点に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594419?source=rss",
-      "publishedAt": "2026-09-06T05:24:51.000Z",
-      "xQuery": "国民民主党の代表選 玉木氏が3選"
+      "url": "https://news.yahoo.co.jp/pickup/6594417?source=rss",
+      "publishedAt": "2026-09-06T05:07:13.000Z",
+      "xQuery": "国と沖縄の距離感 知事選の争点に"
     },
     {
       "time": "14:38",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店火災 同級生ら会合中か"
     },
     {
+      "time": "16:48",
+      "title": "「殺人ロボ」巡り文書合意 国連",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594436?source=rss",
+      "publishedAt": "2026-09-06T07:48:38.000Z",
+      "xQuery": "「殺人ロボ」巡り文書合意 国連"
+    },
+    {
       "time": "16:25",
       "title": "包丁の保有率 20代女性で9割切る",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594432?source=rss",
       "publishedAt": "2026-09-06T07:25:31.000Z",
       "xQuery": "包丁の保有率 20代女性で9割切る"
-    },
-    {
-      "time": "15:34",
-      "title": "くら寿司巡る騒動 割引で収まる?",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594424?source=rss",
-      "publishedAt": "2026-09-06T06:34:22.000Z",
-      "xQuery": "くら寿司巡る騒動 割引で収まる?"
     }
   ]
 };
