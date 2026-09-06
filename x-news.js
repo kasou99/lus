@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T10:36:56.218Z",
+  "updatedAt": "2026-09-06T11:13:24.665Z",
   "items": [
     {
       "time": "18:36",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "長期金利上昇 市場が積極財政警戒"
     },
     {
-      "time": "17:48",
-      "title": "金採掘か環境か 過疎の町の決断",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594442?source=rss",
-      "publishedAt": "2026-09-06T08:48:34.000Z",
-      "xQuery": "金採掘か環境か 過疎の町の決断"
-    },
-    {
       "time": "18:55",
       "title": "ケーキ店火事 死亡の男性が関与か",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店火事 死亡の男性が関与か"
     },
     {
-      "time": "19:12",
-      "title": "ナイジェリア 拉致の被害が急増",
+      "time": "19:43",
+      "title": "ヘンリー王子警護 公費負担に議論",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594452?source=rss",
-      "publishedAt": "2026-09-06T10:12:18.000Z",
-      "xQuery": "ナイジェリア 拉致の被害が急増"
+      "url": "https://news.yahoo.co.jp/pickup/6594456?source=rss",
+      "publishedAt": "2026-09-06T10:43:49.000Z",
+      "xQuery": "ヘンリー王子警護 公費負担に議論"
+    },
+    {
+      "time": "18:15",
+      "title": "酒酔い運転疑いの男容態急変 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594444?source=rss",
+      "publishedAt": "2026-09-06T09:15:18.000Z",
+      "xQuery": "酒酔い運転疑いの男容態急変 死亡"
     }
   ]
 };
