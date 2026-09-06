@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T07:17:26.630Z",
+  "updatedAt": "2026-09-06T07:36:48.591Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,11 @@
         "publishedAt": "2026-09-05T13:51:08.000Z"
       },
       {
-        "time": "08:07",
-        "title": "出版業の倒産急増 利益が悪化傾向",
+        "time": "16:18",
+        "title": "複数作業員に列車接近 JR西で3月",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594376?source=rss",
-        "publishedAt": "2026-09-05T23:07:27.000Z"
-      },
-      {
-        "time": "22:07",
-        "title": "盛んな国も 実在する「時間銀行」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594354?source=rss",
-        "publishedAt": "2026-09-05T13:07:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594428?source=rss",
+        "publishedAt": "2026-09-06T07:18:38.000Z"
       },
       {
         "time": "15:34",
@@ -50,6 +43,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594392?source=rss",
         "publishedAt": "2026-09-06T01:22:37.000Z"
+      },
+      {
+        "time": "16:25",
+        "title": "包丁の保有率 20代女性で9割切る",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594432?source=rss",
+        "publishedAt": "2026-09-06T07:25:31.000Z"
       },
       {
         "time": "11:56",
@@ -105,18 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "08:07",
-        "title": "出版業の倒産急増 利益が悪化傾向",
+        "time": "16:18",
+        "title": "複数作業員に列車接近 JR西で3月",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594376?source=rss",
-        "publishedAt": "2026-09-05T23:07:27.000Z"
-      },
-      {
-        "time": "22:07",
-        "title": "盛んな国も 実在する「時間銀行」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594354?source=rss",
-        "publishedAt": "2026-09-05T13:07:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594428?source=rss",
+        "publishedAt": "2026-09-06T07:18:38.000Z"
       },
       {
         "time": "15:34",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594392?source=rss",
         "publishedAt": "2026-09-06T01:22:37.000Z"
+      },
+      {
+        "time": "16:25",
+        "title": "包丁の保有率 20代女性で9割切る",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594432?source=rss",
+        "publishedAt": "2026-09-06T07:25:31.000Z"
       }
     ],
     "localHeadlines": [

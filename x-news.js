@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T07:17:27.408Z",
+  "updatedAt": "2026-09-06T07:36:54.301Z",
   "items": [
     {
       "time": "13:34",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店火災 同級生ら会合中か"
     },
     {
-      "time": "11:56",
-      "title": "「直パケレシピ」企業が次々公開",
+      "time": "16:25",
+      "title": "包丁の保有率 20代女性で9割切る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594403?source=rss",
-      "publishedAt": "2026-09-06T02:56:28.000Z",
-      "xQuery": "「直パケレシピ」企業が次々公開"
+      "url": "https://news.yahoo.co.jp/pickup/6594432?source=rss",
+      "publishedAt": "2026-09-06T07:25:31.000Z",
+      "xQuery": "包丁の保有率 20代女性で9割切る"
     },
     {
       "time": "15:34",
