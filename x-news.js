@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T03:41:30.287Z",
+  "updatedAt": "2026-09-06T04:19:52.457Z",
   "items": [
     {
       "time": "12:08",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "衛星監視網100基超に増強 国検討"
     },
     {
-      "time": "07:56",
-      "title": "内閣改造 林芳正氏の去就焦点",
+      "time": "10:28",
+      "title": "子どもの肥満 貧困と深い関係",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594375?source=rss",
-      "publishedAt": "2026-09-05T22:56:47.000Z",
-      "xQuery": "内閣改造 林芳正氏の去就焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6594394?source=rss",
+      "publishedAt": "2026-09-06T01:28:10.000Z",
+      "xQuery": "子どもの肥満 貧困と深い関係"
     },
     {
       "time": "12:35",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店火災で3人死亡 放火か"
     },
     {
-      "time": "10:28",
-      "title": "子どもの肥満 貧困と深い関係",
+      "time": "12:53",
+      "title": "海水浴場で不明の男性 遺体で発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594394?source=rss",
-      "publishedAt": "2026-09-06T01:28:10.000Z",
-      "xQuery": "子どもの肥満 貧困と深い関係"
+      "url": "https://news.yahoo.co.jp/pickup/6594409?source=rss",
+      "publishedAt": "2026-09-06T03:53:04.000Z",
+      "xQuery": "海水浴場で不明の男性 遺体で発見"
     }
   ]
 };
