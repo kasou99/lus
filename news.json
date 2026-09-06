@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T23:37:06.984Z",
+  "updatedAt": "2026-09-06T00:54:54.436Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-09-05T07:20:27.000Z"
       },
       {
-        "time": "09:37",
-        "title": "住宅購入急ぐ若年層 リスクに警鐘",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594274?source=rss",
-        "publishedAt": "2026-09-05T00:37:14.000Z"
-      },
-      {
         "time": "22:07",
         "title": "盛んな国も 実在する「時間銀行」",
         "source": "Yahoo!ニュース",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594359?source=rss",
         "publishedAt": "2026-09-05T13:39:27.000Z"
+      },
+      {
+        "time": "13:49",
+        "title": "まんじゅうをネット転売 通常便で",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594297?source=rss",
+        "publishedAt": "2026-09-05T04:49:26.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-09-05T07:20:27.000Z"
       },
       {
-        "time": "09:37",
-        "title": "住宅購入急ぐ若年層 リスクに警鐘",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594274?source=rss",
-        "publishedAt": "2026-09-05T00:37:14.000Z"
-      },
-      {
         "time": "22:07",
         "title": "盛んな国も 実在する「時間銀行」",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594354?source=rss",
         "publishedAt": "2026-09-05T13:07:36.000Z"
+      },
+      {
+        "time": "22:39",
+        "title": "くら寿司コラボ中止 従業員が不正",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594359?source=rss",
+        "publishedAt": "2026-09-05T13:39:27.000Z"
       }
     ],
     "localHeadlines": [

@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-05T23:37:08.401Z",
+  "updatedAt": "2026-09-06T00:54:55.332Z",
   "items": [
     {
-      "time": "07:39",
-      "title": "東京・八丈町で大雨 1時間110ミリ",
+      "time": "08:39",
+      "title": "東海や関東 滝のような雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594374?source=rss",
-      "publishedAt": "2026-09-05T22:39:12.000Z",
-      "xQuery": "東京・八丈町で大雨 1時間110ミリ"
+      "url": "https://news.yahoo.co.jp/pickup/6594381?source=rss",
+      "publishedAt": "2026-09-05T23:39:32.000Z",
+      "xQuery": "東海や関東 滝のような雨の恐れ"
+    },
+    {
+      "time": "08:17",
+      "title": "米軍 イランのタンカー3隻攻撃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594378?source=rss",
+      "publishedAt": "2026-09-05T23:17:27.000Z",
+      "xQuery": "米軍 イランのタンカー3隻攻撃"
     },
     {
       "time": "07:42",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露大統領 和平担当の米特使と会談"
     },
     {
-      "time": "06:08",
-      "title": "ケーキ店で放火か 2人死亡3人搬送",
+      "time": "08:31",
+      "title": "ケーキ店火災 人が刺されたと通報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594367?source=rss",
-      "publishedAt": "2026-09-05T21:08:16.000Z",
-      "xQuery": "ケーキ店で放火か 2人死亡3人搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6594380?source=rss",
+      "publishedAt": "2026-09-05T23:31:35.000Z",
+      "xQuery": "ケーキ店火災 人が刺されたと通報"
     },
     {
       "time": "08:09",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594377?source=rss",
       "publishedAt": "2026-09-05T23:09:24.000Z",
       "xQuery": "乗っていた車の下敷きか 男性死亡"
-    },
-    {
-      "time": "08:07",
-      "title": "出版業の倒産急増 利益が悪化傾向",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594376?source=rss",
-      "publishedAt": "2026-09-05T23:07:27.000Z",
-      "xQuery": "出版業の倒産急増 利益が悪化傾向"
     }
   ]
 };
