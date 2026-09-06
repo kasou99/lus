@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T05:36:57.178Z",
+  "updatedAt": "2026-09-06T06:27:19.015Z",
   "items": [
     {
       "time": "13:34",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "国民民主党の代表選 玉木氏が3選"
     },
     {
-      "time": "12:35",
-      "title": "ケーキ店火災で3人死亡 放火か",
+      "time": "14:38",
+      "title": "ケーキ店火災 同級生ら会合中か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594408?source=rss",
-      "publishedAt": "2026-09-06T03:35:22.000Z",
-      "xQuery": "ケーキ店火災で3人死亡 放火か"
+      "url": "https://news.yahoo.co.jp/pickup/6594420?source=rss",
+      "publishedAt": "2026-09-06T05:38:50.000Z",
+      "xQuery": "ケーキ店火災 同級生ら会合中か"
     },
     {
       "time": "13:51",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "くら寿司コラボ中止 客は落胆の声"
     },
     {
-      "time": "11:51",
-      "title": "「ドパガキ」な娘2人 父語る実態",
+      "time": "11:56",
+      "title": "「直パケレシピ」企業が次々公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594402?source=rss",
-      "publishedAt": "2026-09-06T02:51:47.000Z",
-      "xQuery": "「ドパガキ」な娘2人 父語る実態"
+      "url": "https://news.yahoo.co.jp/pickup/6594403?source=rss",
+      "publishedAt": "2026-09-06T02:56:28.000Z",
+      "xQuery": "「直パケレシピ」企業が次々公開"
     }
   ]
 };
