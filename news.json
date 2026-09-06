@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:14:02.909Z",
+  "updatedAt": "2026-09-06T23:37:25.347Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日経ビジネス電子版",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EOTBFRThpYXVNdFkzNGJTdHNvMDdkMHhqZnZ5WDU1MDFIc1NTVUcwRFpOenFjTGQweHZsckdNVlkxdDd0UGdUNjlrSVBFWUF5RkxoTnQ5NmUtRnBQeWR2aFZiZzA3XzA?oc=5",
         "publishedAt": "2026-09-06T20:00:00.000Z"
+      },
+      {
+        "time": "07:30",
+        "title": "ワーク容量約3.3倍に拡大、松浦機械が大型部品向け5軸複合マシニングセンタ：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRM1ljc1NVY3puX2hhbGVScllVNWtzeVVMWXZ6eTFwMk4yeWpFTWlZUTFTV3A3TzZiMllhZ3pkM2hYUVlRLWZFSHdEdDJkMWJjejB3ZFNTcjlSUloxVEhwX3lvVUo4aUhqYWozbHJGcw?oc=5",
+        "publishedAt": "2026-09-06T22:30:00.000Z"
       },
       {
         "time": "00:00",
@@ -19,9 +26,16 @@
       {
         "time": "05:00",
         "title": "プレス技術10月号／DXで生き残る！人手不足時代の経営戦略",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54bmNZckdBVWU2NUV3RzJ1N3M5QVkycmtlMkZGRzdsUFhTSjZyaW9sdlB2NnlvbmpucEJPVmZGbEh0M0RtTElrTEdCVTh1WXRxektLR0ZhZkw?oc=5",
         "publishedAt": "2026-09-06T20:00:00.000Z"
+      },
+      {
+        "time": "08:21",
+        "title": "ナトコ、通期経常利益を４３．９％上方修正、３Ｑは８２．９％増益、塗料受注増と再生品需要が追い風 - kabu-ir.com",
+        "source": "kabu-ir.com",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyUnZ4azRpbVZUOGE2X09SRHBwR2ZIS3VSV1g4M3ZKdDJpcG0xR1ZtSXhCZVJLMXFtSGh1TXk5S2hVMUpSRXBteXZ3U2R6cDdNU3FiYQ?oc=5",
+        "publishedAt": "2026-09-06T23:21:37.000Z"
       },
       {
         "time": "05:10",
@@ -43,20 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6591369?source=rss",
         "publishedAt": "2026-09-06T14:22:46.000Z"
-      },
-      {
-        "time": "07:46",
-        "title": "東北新幹線一部見合わせ 人身事故",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594492?source=rss",
-        "publishedAt": "2026-09-06T22:46:15.000Z"
-      },
-      {
-        "time": "17:36",
-        "title": "長期金利上昇 市場が積極財政警戒",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594441?source=rss",
-        "publishedAt": "2026-09-06T08:36:22.000Z"
       }
     ],
     "worldHeadlines": [
