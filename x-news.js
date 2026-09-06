@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T14:14:26.180Z",
+  "updatedAt": "2026-09-06T14:37:05.276Z",
   "items": [
     {
       "time": "22:34",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東海-東北の太平洋側で大雨 警戒"
     },
     {
-      "time": "20:49",
-      "title": "大雨予想で一部運休を発表 JR東",
+      "time": "23:22",
+      "title": "全国の鉄道・フライト 最新情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594460?source=rss",
-      "publishedAt": "2026-09-06T11:49:55.000Z",
-      "xQuery": "大雨予想で一部運休を発表 JR東"
-    },
-    {
-      "time": "20:57",
-      "title": "中道分裂 問われる野党の存在意義",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594461?source=rss",
-      "publishedAt": "2026-09-06T11:57:07.000Z",
-      "xQuery": "中道分裂 問われる野党の存在意義"
+      "url": "https://news.yahoo.co.jp/pickup/6591369?source=rss",
+      "publishedAt": "2026-09-06T14:22:46.000Z",
+      "xQuery": "全国の鉄道・フライト 最新情報"
     },
     {
       "time": "22:57",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594471?source=rss",
       "publishedAt": "2026-09-06T13:39:08.000Z",
       "xQuery": "ケーキ店火災 男性の遺体に刺し傷"
+    },
+    {
+      "time": "16:18",
+      "title": "複数作業員に列車接近 JR西で3月",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594428?source=rss",
+      "publishedAt": "2026-09-06T07:18:38.000Z",
+      "xQuery": "複数作業員に列車接近 JR西で3月"
     }
   ]
 };

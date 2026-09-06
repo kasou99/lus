@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T14:14:24.707Z",
+  "updatedAt": "2026-09-06T14:37:04.428Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-09-06T11:40:00.000Z"
       },
       {
-        "time": "20:49",
-        "title": "大雨予想で一部運休を発表 JR東",
+        "time": "23:22",
+        "title": "全国の鉄道・フライト 最新情報",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594460?source=rss",
-        "publishedAt": "2026-09-06T11:49:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591369?source=rss",
+        "publishedAt": "2026-09-06T14:22:46.000Z"
       },
       {
         "time": "17:36",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "20:49",
-        "title": "大雨予想で一部運休を発表 JR東",
+        "time": "23:22",
+        "title": "全国の鉄道・フライト 最新情報",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594460?source=rss",
-        "publishedAt": "2026-09-06T11:49:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6591369?source=rss",
+        "publishedAt": "2026-09-06T14:22:46.000Z"
       },
       {
         "time": "17:36",
