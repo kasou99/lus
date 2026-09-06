@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T08:21:19.204Z",
+  "updatedAt": "2026-09-06T08:40:01.820Z",
   "items": [
     {
       "time": "16:37",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "国と沖縄の距離感 知事選の争点に"
     },
     {
-      "time": "14:38",
-      "title": "ケーキ店火災 同級生ら会合中か",
+      "time": "17:22",
+      "title": "5人死傷のケーキ店 地域で人気",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594420?source=rss",
-      "publishedAt": "2026-09-06T05:38:50.000Z",
-      "xQuery": "ケーキ店火災 同級生ら会合中か"
+      "url": "https://news.yahoo.co.jp/pickup/6594438?source=rss",
+      "publishedAt": "2026-09-06T08:22:42.000Z",
+      "xQuery": "5人死傷のケーキ店 地域で人気"
     },
     {
       "time": "16:48",

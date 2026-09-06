@@ -1,13 +1,27 @@
 {
-  "updatedAt": "2026-09-06T08:21:18.412Z",
+  "updatedAt": "2026-09-06T08:40:00.863Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "17:10",
+        "title": "人・技術をつなぎ、イノベーションを創出する研究開発拠点「Mazak Innovation Hub」を2027年に開設",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jOElQRzljMUlnYThEZUppLUc3Z0dMUEo2alJtcC1kSkcxUnVWREFwcTlnbVk4VlFDX2hpaHlsYUdYLUN0RjVZZzh1UkZvbUp0aUl4cXREU2laRjZfVTJBS1F2YllRVGJERDg0?oc=5",
+        "publishedAt": "2026-09-06T08:10:00.000Z"
+      },
       {
         "time": "22:51",
         "title": "愛知県大口町に研究開発拠点「イノベーションハブ」開設 ヤマザキマザック、来年8月：ニュース",
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50VkZKZUh2MDdqU3dnRjQwMnZZbU8wVnRPQVFxcjBFTUlKNDBHM0hKeXFKR3VsZG9Od3dFYnJQNVFyN3E0al9kWEpQNm1jb2J4emhIbTZlbWRHLXJFNERN?oc=5",
         "publishedAt": "2026-09-05T13:51:08.000Z"
+      },
+      {
+        "time": "17:36",
+        "title": "長期金利上昇 市場が積極財政警戒",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594441?source=rss",
+        "publishedAt": "2026-09-06T08:36:22.000Z"
       },
       {
         "time": "16:18",
@@ -43,20 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594392?source=rss",
         "publishedAt": "2026-09-06T01:22:37.000Z"
-      },
-      {
-        "time": "16:25",
-        "title": "包丁の保有率 20代女性で9割切る",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594432?source=rss",
-        "publishedAt": "2026-09-06T07:25:31.000Z"
-      },
-      {
-        "time": "11:56",
-        "title": "「直パケレシピ」企業が次々公開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594403?source=rss",
-        "publishedAt": "2026-09-06T02:56:28.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "17:36",
+        "title": "長期金利上昇 市場が積極財政警戒",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594441?source=rss",
+        "publishedAt": "2026-09-06T08:36:22.000Z"
+      },
+      {
         "time": "16:18",
         "title": "複数作業員に列車接近 JR西で3月",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594392?source=rss",
         "publishedAt": "2026-09-06T01:22:37.000Z"
-      },
-      {
-        "time": "16:25",
-        "title": "包丁の保有率 20代女性で9割切る",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594432?source=rss",
-        "publishedAt": "2026-09-06T07:25:31.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-09-06T03:35:22.000Z"
       },
       {
-        "time": "08:31",
-        "title": "ケーキ店火災 人が刺されたと通報",
+        "time": "17:22",
+        "title": "5人死傷のケーキ店 地域で人気",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594380?source=rss",
-        "publishedAt": "2026-09-05T23:31:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594438?source=rss",
+        "publishedAt": "2026-09-06T08:22:42.000Z"
       },
       {
         "time": "14:38",
