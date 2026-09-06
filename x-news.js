@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T11:37:12.509Z",
+  "updatedAt": "2026-09-06T12:23:15.911Z",
   "items": [
     {
       "time": "18:36",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東北・関東・東海 線状降水帯恐れ"
     },
     {
-      "time": "18:34",
-      "title": "ウ和平巡り米露会談 進展見られず",
+      "time": "20:49",
+      "title": "大雨予想で一部運休を発表 JR東",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594445?source=rss",
-      "publishedAt": "2026-09-06T09:34:46.000Z",
-      "xQuery": "ウ和平巡り米露会談 進展見られず"
+      "url": "https://news.yahoo.co.jp/pickup/6594460?source=rss",
+      "publishedAt": "2026-09-06T11:49:55.000Z",
+      "xQuery": "大雨予想で一部運休を発表 JR東"
     },
     {
       "time": "18:55",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "酒酔い運転疑いの男容態急変 死亡"
     },
     {
-      "time": "18:34",
-      "title": "90歳の車が川に転落 同乗の妻死亡",
+      "time": "11:51",
+      "title": "「ドパガキ」な娘2人 父語る実態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594447?source=rss",
-      "publishedAt": "2026-09-06T09:34:17.000Z",
-      "xQuery": "90歳の車が川に転落 同乗の妻死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6594402?source=rss",
+      "publishedAt": "2026-09-06T02:51:47.000Z",
+      "xQuery": "「ドパガキ」な娘2人 父語る実態"
     }
   ]
 };

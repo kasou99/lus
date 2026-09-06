@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T11:37:11.499Z",
+  "updatedAt": "2026-09-06T12:23:15.009Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50VkZKZUh2MDdqU3dnRjQwMnZZbU8wVnRPQVFxcjBFTUlKNDBHM0hKeXFKR3VsZG9Od3dFYnJQNVFyN3E0al9kWEpQNm1jb2J4emhIbTZlbWRHLXJFNERN?oc=5",
         "publishedAt": "2026-09-05T13:51:08.000Z"
+      },
+      {
+        "time": "20:49",
+        "title": "大雨予想で一部運休を発表 JR東",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594460?source=rss",
+        "publishedAt": "2026-09-06T11:49:55.000Z"
       },
       {
         "time": "17:36",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594399?source=rss",
         "publishedAt": "2026-09-06T02:01:48.000Z"
-      },
-      {
-        "time": "10:22",
-        "title": "ピュアラルグミの販売終了を発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594392?source=rss",
-        "publishedAt": "2026-09-06T01:22:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "20:49",
+        "title": "大雨予想で一部運休を発表 JR東",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594460?source=rss",
+        "publishedAt": "2026-09-06T11:49:55.000Z"
+      },
+      {
         "time": "17:36",
         "title": "長期金利上昇 市場が積極財政警戒",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594399?source=rss",
         "publishedAt": "2026-09-06T02:01:48.000Z"
-      },
-      {
-        "time": "10:22",
-        "title": "ピュアラルグミの販売終了を発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594392?source=rss",
-        "publishedAt": "2026-09-06T01:22:37.000Z"
       }
     ],
     "localHeadlines": [
