@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T10:15:13.555Z",
+  "updatedAt": "2026-09-06T10:36:56.218Z",
   "items": [
     {
       "time": "18:36",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店火事 死亡の男性が関与か"
     },
     {
-      "time": "18:15",
-      "title": "酒酔い運転疑いの男容態急変 死亡",
+      "time": "19:12",
+      "title": "ナイジェリア 拉致の被害が急増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594444?source=rss",
-      "publishedAt": "2026-09-06T09:15:18.000Z",
-      "xQuery": "酒酔い運転疑いの男容態急変 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6594452?source=rss",
+      "publishedAt": "2026-09-06T10:12:18.000Z",
+      "xQuery": "ナイジェリア 拉致の被害が急増"
     }
   ]
 };
