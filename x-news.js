@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T11:13:24.665Z",
+  "updatedAt": "2026-09-06T11:37:12.509Z",
   "items": [
     {
       "time": "18:36",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東北・関東・東海 線状降水帯恐れ"
     },
     {
-      "time": "17:36",
-      "title": "長期金利上昇 市場が積極財政警戒",
+      "time": "18:34",
+      "title": "ウ和平巡り米露会談 進展見られず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594441?source=rss",
-      "publishedAt": "2026-09-06T08:36:22.000Z",
-      "xQuery": "長期金利上昇 市場が積極財政警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6594445?source=rss",
+      "publishedAt": "2026-09-06T09:34:46.000Z",
+      "xQuery": "ウ和平巡り米露会談 進展見られず"
     },
     {
       "time": "18:55",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店火事 死亡の男性が関与か"
     },
     {
-      "time": "19:43",
-      "title": "ヘンリー王子警護 公費負担に議論",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594456?source=rss",
-      "publishedAt": "2026-09-06T10:43:49.000Z",
-      "xQuery": "ヘンリー王子警護 公費負担に議論"
-    },
-    {
       "time": "18:15",
       "title": "酒酔い運転疑いの男容態急変 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594444?source=rss",
       "publishedAt": "2026-09-06T09:15:18.000Z",
       "xQuery": "酒酔い運転疑いの男容態急変 死亡"
+    },
+    {
+      "time": "18:34",
+      "title": "90歳の車が川に転落 同乗の妻死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594447?source=rss",
+      "publishedAt": "2026-09-06T09:34:17.000Z",
+      "xQuery": "90歳の車が川に転落 同乗の妻死亡"
     }
   ]
 };
