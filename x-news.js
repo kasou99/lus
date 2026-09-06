@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T02:42:25.644Z",
+  "updatedAt": "2026-09-06T03:21:39.053Z",
   "items": [
     {
-      "time": "11:10",
-      "title": "1都3県 あすにかけ線状降水帯恐れ",
+      "time": "12:08",
+      "title": "関東・東海1都6県 線状降水帯恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594400?source=rss",
-      "publishedAt": "2026-09-06T02:10:33.000Z",
-      "xQuery": "1都3県 あすにかけ線状降水帯恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594405?source=rss",
+      "publishedAt": "2026-09-06T03:08:35.000Z",
+      "xQuery": "関東・東海1都6県 線状降水帯恐れ"
+    },
+    {
+      "time": "10:12",
+      "title": "衛星監視網100基超に増強 国検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594393?source=rss",
+      "publishedAt": "2026-09-06T01:12:38.000Z",
+      "xQuery": "衛星監視網100基超に増強 国検討"
     },
     {
       "time": "07:56",
@@ -18,14 +26,6 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣改造 林芳正氏の去就焦点"
     },
     {
-      "time": "09:31",
-      "title": "電子図書館 全国自治体3割超導入",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594388?source=rss",
-      "publishedAt": "2026-09-06T00:31:03.000Z",
-      "xQuery": "電子図書館 全国自治体3割超導入"
-    },
-    {
       "time": "10:44",
       "title": "ケーキ店2人死亡火災 知人関与か",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店2人死亡火災 知人関与か"
     },
     {
-      "time": "10:35",
-      "title": "「自分は臭い」と思い込み 対処法",
+      "time": "10:28",
+      "title": "子どもの肥満 貧困と深い関係",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594398?source=rss",
-      "publishedAt": "2026-09-06T01:35:51.000Z",
-      "xQuery": "「自分は臭い」と思い込み 対処法"
+      "url": "https://news.yahoo.co.jp/pickup/6594394?source=rss",
+      "publishedAt": "2026-09-06T01:28:10.000Z",
+      "xQuery": "子どもの肥満 貧困と深い関係"
     }
   ]
 };
