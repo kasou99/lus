@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T01:29:27.228Z",
+  "updatedAt": "2026-09-06T01:51:28.158Z",
   "items": [
+    {
+      "time": "07:56",
+      "title": "内閣改造 林芳正氏の去就焦点",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594375?source=rss",
+      "publishedAt": "2026-09-05T22:56:47.000Z",
+      "xQuery": "内閣改造 林芳正氏の去就焦点"
+    },
     {
       "time": "08:39",
       "title": "東海や関東 滝のような雨の恐れ",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594381?source=rss",
       "publishedAt": "2026-09-05T23:39:32.000Z",
       "xQuery": "東海や関東 滝のような雨の恐れ"
-    },
-    {
-      "time": "08:17",
-      "title": "米軍 イランのタンカー3隻攻撃",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594378?source=rss",
-      "publishedAt": "2026-09-05T23:17:27.000Z",
-      "xQuery": "米軍 イランのタンカー3隻攻撃"
     },
     {
       "time": "09:31",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "電子図書館 全国自治体3割超導入"
     },
     {
-      "time": "08:31",
-      "title": "ケーキ店火災 人が刺されたと通報",
+      "time": "10:44",
+      "title": "ケーキ店2人死亡火災 知人関与か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594380?source=rss",
-      "publishedAt": "2026-09-05T23:31:35.000Z",
-      "xQuery": "ケーキ店火災 人が刺されたと通報"
+      "url": "https://news.yahoo.co.jp/pickup/6594397?source=rss",
+      "publishedAt": "2026-09-06T01:44:24.000Z",
+      "xQuery": "ケーキ店2人死亡火災 知人関与か"
     },
     {
-      "time": "08:09",
-      "title": "乗っていた車の下敷きか 男性死亡",
+      "time": "10:35",
+      "title": "「自分は臭い」と思い込み 対処法",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594377?source=rss",
-      "publishedAt": "2026-09-05T23:09:24.000Z",
-      "xQuery": "乗っていた車の下敷きか 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6594398?source=rss",
+      "publishedAt": "2026-09-06T01:35:51.000Z",
+      "xQuery": "「自分は臭い」と思い込み 対処法"
     }
   ]
 };
