@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T20:15:59.016Z",
+  "updatedAt": "2026-09-06T20:36:37.058Z",
   "items": [
     {
       "time": "04:36",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・新島村に土砂災害特別警報"
     },
     {
-      "time": "04:59",
-      "title": "東京・新島村に特別警報 最新情報",
+      "time": "05:15",
+      "title": "中継 特別警報受け気象庁が会見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594480?source=rss",
-      "publishedAt": "2026-09-06T19:59:25.000Z",
-      "xQuery": "東京・新島村に特別警報 最新情報"
+      "url": "https://news.yahoo.co.jp/pickup/6594481?source=rss",
+      "publishedAt": "2026-09-06T20:15:36.000Z",
+      "xQuery": "中継 特別警報受け気象庁が会見"
     },
     {
       "time": "22:34",

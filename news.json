@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:15:58.453Z",
+  "updatedAt": "2026-09-06T20:36:36.169Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "nna.jp",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtbFlxSW1COVo4QWdXb1hmeEJiZTA3cFU5a2hKeGlHUlZCcDlOSEJyZzhmeGx0Nk9tZzN0b3NvV0sxMHlXbHc?oc=5",
         "publishedAt": "2026-09-06T15:00:00.000Z"
+      },
+      {
+        "time": "18:06",
+        "title": "（日）",
+        "source": "sannichi.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nVnlsU0ItMmZBQzN0c3Y1RnQtYTloR2VwSnlobkYySnhjbjFWSWNRRVo5QnJwcVo0TklTcGpvUDBYSVpFem05LTRTN1ZYM1EySUtqUkd4SS1fTWNCNGpJcXQwSQ?oc=5",
+        "publishedAt": "2026-09-06T09:06:17.000Z"
       },
       {
         "time": "17:10",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594424?source=rss",
         "publishedAt": "2026-09-06T06:34:22.000Z"
-      },
-      {
-        "time": "13:51",
-        "title": "くら寿司コラボ中止 客は落胆の声",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594416?source=rss",
-        "publishedAt": "2026-09-06T04:51:05.000Z"
       }
     ],
     "worldHeadlines": [
