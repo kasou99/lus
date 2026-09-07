@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T09:44:09.560Z",
+  "updatedAt": "2026-09-07T10:18:53.148Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,16 +19,9 @@
       {
         "time": "14:17",
         "title": "【FISCO銘柄コメント】ＹＫＴ---電子部品実装機や工作機械、光電子装置を扱う機械専門商社(フィスコ)",
-        "source": "finance.yahoo.co.jp",
+        "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW1hdVVJbTNwZHJnNERWWXdjRW1CQWlES2VLTzJxTm0wQy1WbFh5UVdTN2tjWVpuaHNaUmw4d1ItcUd6bFVjREk5Wm94OFhGNDdjS0pwaG5WVHQxTlcwcW1iMDdQUjQ3dVZ2M1RkMWRmcFNYbm1BclpCdlJEbVZWN2pxMWFPSk0?oc=5",
         "publishedAt": "2026-09-07T05:17:00.000Z"
-      },
-      {
-        "time": "09:53",
-        "title": "2026年７月分工作機械受注総額は1930.9億円 - | 製造現場ドットコム",
-        "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qSEpaVGdCZDd0Q3lheEZjYWN2aHFIbFU2S2RWamNPV1I1X0tQQTAtUUxUUUJEbU1JeTA4dWh2UWhId1NzYkFPcVJ3?oc=5",
-        "publishedAt": "2026-09-07T00:53:19.000Z"
       },
       {
         "time": "07:30",
@@ -36,6 +29,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRM1ljc1NVY3puX2hhbGVScllVNWtzeVVMWXZ6eTFwMk4yeWpFTWlZUTFTV3A3TzZiMllhZ3pkM2hYUVlRLWZFSHdEdDJkMWJjejB3ZFNTcjlSUloxVEhwX3lvVUo4aUhqYWozbHJGcw?oc=5",
         "publishedAt": "2026-09-06T22:30:00.000Z"
+      },
+      {
+        "time": "09:53",
+        "title": "2026年７月分工作機械受注総額は1930.9億円 - | 製造現場ドットコム",
+        "source": "| 製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qSEpaVGdCZDd0Q3lheEZjYWN2aHFIbFU2S2RWamNPV1I1X0tQQTAtUUxUUUJEbU1JeTA4dWh2UWhId1NzYkFPcVJ3?oc=5",
+        "publishedAt": "2026-09-07T00:53:19.000Z"
       },
       {
         "time": "17:00",
@@ -119,6 +119,13 @@
         "publishedAt": "2026-09-07T03:51:31.000Z"
       },
       {
+        "time": "18:45",
+        "title": "「1000円」ジーンズ イオンが販売",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594563?source=rss",
+        "publishedAt": "2026-09-07T09:45:26.000Z"
+      },
+      {
         "time": "16:46",
         "title": "与良正男さん死去 元毎日新聞",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594538?source=rss",
         "publishedAt": "2026-09-07T05:41:58.000Z"
-      },
-      {
-        "time": "10:06",
-        "title": "高知でガソリン看板価格調整 証言",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594501?source=rss",
-        "publishedAt": "2026-09-07T01:06:23.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-09-07T03:44:20.000Z"
       },
       {
-        "time": "17:44",
-        "title": "横浜市長が辞職 市議会が同意",
+        "time": "18:48",
+        "title": "パワハラ認定の横浜市長が辞職",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594558?source=rss",
-        "publishedAt": "2026-09-07T08:44:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594566?source=rss",
+        "publishedAt": "2026-09-07T09:48:04.000Z"
       },
       {
         "time": "18:31",
@@ -168,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594554?source=rss",
         "publishedAt": "2026-09-07T09:31:00.000Z"
-      },
-      {
-        "time": "07:12",
-        "title": "沖縄知事選は古謝氏が先行 読売",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594486?source=rss",
-        "publishedAt": "2026-09-06T22:12:43.000Z"
       },
       {
         "time": "17:48",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594515?source=rss",
         "publishedAt": "2026-09-07T03:15:14.000Z"
+      },
+      {
+        "time": "19:18",
+        "title": "6歳男児が行方不明 山形・酒田市",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594568?source=rss",
+        "publishedAt": "2026-09-07T10:18:03.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
