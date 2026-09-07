@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T01:31:52.649Z",
+  "updatedAt": "2026-09-07T02:26:48.563Z",
   "items": [
     {
-      "time": "08:44",
-      "title": "活発な雨雲 関東や東北で大雨警戒",
+      "time": "11:05",
+      "title": "関東南部・東北など 土砂災害警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594495?source=rss",
-      "publishedAt": "2026-09-06T23:44:01.000Z",
-      "xQuery": "活発な雨雲 関東や東北で大雨警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6594509?source=rss",
+      "publishedAt": "2026-09-07T02:05:02.000Z",
+      "xQuery": "関東南部・東北など 土砂災害警戒"
     },
     {
       "time": "05:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "車2台水没し1人意識不明 いわき市"
     },
     {
+      "time": "10:50",
+      "title": "大雨で道路影響 無理な移動避けて",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594508?source=rss",
+      "publishedAt": "2026-09-07T01:50:36.000Z",
+      "xQuery": "大雨で道路影響 無理な移動避けて"
+    },
+    {
       "time": "10:13",
       "title": "貨物機オーバーランし5人死亡 米",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594502?source=rss",
       "publishedAt": "2026-09-07T01:13:25.000Z",
       "xQuery": "貨物機オーバーランし5人死亡 米"
-    },
-    {
-      "time": "09:13",
-      "title": "新宿区の民泊 住宅地の営業禁止へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594497?source=rss",
-      "publishedAt": "2026-09-07T00:13:21.000Z",
-      "xQuery": "新宿区の民泊 住宅地の営業禁止へ"
     }
   ]
 };

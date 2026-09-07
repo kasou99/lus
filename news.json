@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T01:31:51.104Z",
+  "updatedAt": "2026-09-07T02:26:47.774Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-09-06T15:00:00.000Z"
       },
       {
+        "time": "10:22",
+        "title": "泉州電業---業績予想および期末配当予想の修正",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONkpPQ2tUSWJjVFpqOW0tTGtXWFhBcjNTTVBhNHlzUWlVemJkRlJ1MTRVcGlreTFfWm00NWk3dGVIelNlaTF6OVdkWnpqTE1rU050UURXWlJ6SFd3bUthdmJEQS0xTC1SMUJrQU1jQWxLaURQYUlXbzVqVnFYdXFBNzV6Yy1IbE5kWjhCTk01RFRYakdPNnQ0QU16emFJZUx2b2lyYWdpM3Q3d0NtYXQ5M2YxM0ttWldoQ3otYWNYNG5DQnAtYmFaTFltWC1FZXJRS1RDelJXTXo3Wndn0gGMAUFVX3lxTE5XMTZYaE5OaVY4YWxpQmpVdnFoMVRzSDN1clo3OFhNWndjdk9vSHZUaGUwYXJOckJFaWJqaWlGNzNoWU1ZeXU5R2RxTExRS2k1NjEzZWZraGF1blF0ZkZoMDIwS0w5VlZBU0J1NzVLSWxnX2hWSFlDYXU2SFFMb24zQkZrd1FPWDgyMTV0?oc=5",
+        "publishedAt": "2026-09-07T01:22:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "プレス技術10月号／DXで生き残る！人手不足時代の経営戦略",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54bmNZckdBVWU2NUV3RzJ1N3M5QVkycmtlMkZGRzdsUFhTSjZyaW9sdlB2NnlvbmpucEJPVmZGbEh0M0RtTElrTEdCVTh1WXRxektLR0ZhZkw?oc=5",
         "publishedAt": "2026-09-06T20:00:00.000Z"
-      },
-      {
-        "time": "09:53",
-        "title": "「JIMTOF2026」人口3万1000人弱の小千谷から7社が出展！ 技術と名産を巡る「おぢやスタンプラリー」 ～人口3万1000人弱のまちから7社のメーカーがJIMTOFへ - | 製造現場ドットコム",
-        "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE53ZG1PSl80c0ZmaDlnQl9YQXd1S1VISnp4bE9kSDh6TUVoSG1LaGROT2pSR0w3TjlhTGZiMzh2dHlEdklkV0ZNdVFR?oc=5",
-        "publishedAt": "2026-09-07T00:53:19.000Z"
       },
       {
         "time": "08:21",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "10:50",
+        "title": "大雨で道路影響 無理な移動避けて",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594508?source=rss",
+        "publishedAt": "2026-09-07T01:50:36.000Z"
+      },
+      {
         "time": "23:22",
         "title": "全国の鉄道・フライト 最新情報",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594424?source=rss",
         "publishedAt": "2026-09-06T06:34:22.000Z"
-      },
-      {
-        "time": "13:51",
-        "title": "くら寿司コラボ中止 客は落胆の声",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594416?source=rss",
-        "publishedAt": "2026-09-06T04:51:05.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-09-06T13:39:08.000Z"
       },
       {
-        "time": "18:55",
-        "title": "ケーキ店火事 死亡の男性が関与か",
+        "time": "11:18",
+        "title": "首撃たれ障害残る夫 時効に妻訴え",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594451?source=rss",
-        "publishedAt": "2026-09-06T09:55:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594510?source=rss",
+        "publishedAt": "2026-09-07T02:18:47.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
