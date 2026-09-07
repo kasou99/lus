@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T23:15:24.671Z",
+  "updatedAt": "2026-09-07T23:36:59.733Z",
   "items": [
     {
       "time": "07:18",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "小林鷹之政調会長留任へ 首相意向"
     },
     {
+      "time": "08:24",
+      "title": "維新 閣僚ポスト「1枠」を要求",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594604?source=rss",
+      "publishedAt": "2026-09-07T23:24:23.000Z",
+      "xQuery": "維新 閣僚ポスト「1枠」を要求"
+    },
+    {
       "time": "06:48",
       "title": "金利上昇 住宅ローン返済者ら悩み",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594601?source=rss",
       "publishedAt": "2026-09-07T22:52:47.000Z",
       "xQuery": "親睦行事の駅伝で夫熱中症死 提訴"
-    },
-    {
-      "time": "22:19",
-      "title": "メルカリ くら寿司の騒動巡り言及",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594581?source=rss",
-      "publishedAt": "2026-09-07T13:19:21.000Z",
-      "xQuery": "メルカリ くら寿司の騒動巡り言及"
     }
   ]
 };
