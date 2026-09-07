@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T04:22:22.452Z",
+  "updatedAt": "2026-09-07T04:43:41.864Z",
   "items": [
     {
       "time": "13:00",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "大島町と新島村 特別警報最新情報"
     },
     {
-      "time": "11:05",
-      "title": "関東南部・東北など 土砂災害警戒",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594509?source=rss",
-      "publishedAt": "2026-09-07T02:05:02.000Z",
-      "xQuery": "関東南部・東北など 土砂災害警戒"
-    },
-    {
       "time": "12:44",
       "title": "アンダーパスで車水没 1人死亡",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594515?source=rss",
       "publishedAt": "2026-09-07T03:15:14.000Z",
       "xQuery": "ケーキ店火災 死亡男性招かれずか"
+    },
+    {
+      "time": "11:18",
+      "title": "首撃たれ障害残る夫 時効に妻訴え",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594510?source=rss",
+      "publishedAt": "2026-09-07T02:18:47.000Z",
+      "xQuery": "首撃たれ障害残る夫 時効に妻訴え"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T04:22:21.763Z",
+  "updatedAt": "2026-09-07T04:43:41.102Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "10:01",
         "title": "日立、設備保全向けフィジカルAI技術を開発、自然言語で異常音を説明・検索可能に",
-        "source": "IT Leaders",
+        "source": "it.impress.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KWDg5VW1fWG5HcW5XXzRNOE9waFlMTFJ5eEFsWWdXQk9TaWNEb2dac0tleXJpYW9pLURnRVFZdkRjazl5VWY0R28wX2NFeDU2RWJZ?oc=5",
         "publishedAt": "2026-09-07T01:01:58.000Z"
       },
@@ -38,18 +38,18 @@
         "publishedAt": "2026-09-06T15:00:00.000Z"
       },
       {
+        "time": "10:22",
+        "title": "泉州電業---業績予想および期末配当予想の修正",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVzE2WGhOTmlWOGFsaUJqVXZxaDFUc0gzdXJaNzhYTVp3Y3ZPb0h2VGhlMGFyTnJCRWliamlpRjczaFlNWXl1OUdkcUxMUUtpNTYxM2Vma2hhdW5RdGZGaDAyMEtMOVZWQVNCdTc1S0lsZ19oVkhZQ2F1NkhRTG9uM0JGa3dRT1g4MjE1dNIBjAFBVV95cUxOVzE2WGhOTmlWOGFsaUJqVXZxaDFUc0gzdXJaNzhYTVp3Y3ZPb0h2VGhlMGFyTnJCRWliamlpRjczaFlNWXl1OUdkcUxMUUtpNTYxM2Vma2hhdW5RdGZGaDAyMEtMOVZWQVNCdTc1S0lsZ19oVkhZQ2F1NkhRTG9uM0JGa3dRT1g4MjE1dA?oc=5",
+        "publishedAt": "2026-09-07T01:22:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "プレス技術10月号／DXで生き残る！人手不足時代の経営戦略",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54bmNZckdBVWU2NUV3RzJ1N3M5QVkycmtlMkZGRzdsUFhTSjZyaW9sdlB2NnlvbmpucEJPVmZGbEh0M0RtTElrTEdCVTh1WXRxektLR0ZhZkw?oc=5",
         "publishedAt": "2026-09-06T20:00:00.000Z"
-      },
-      {
-        "time": "10:22",
-        "title": "泉州電業---業績予想および期末配当予想の修正",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONkpPQ2tUSWJjVFpqOW0tTGtXWFhBcjNTTVBhNHlzUWlVemJkRlJ1MTRVcGlreTFfWm00NWk3dGVIelNlaTF6OVdkWnpqTE1rU050UURXWlJ6SFd3bUthdmJEQS0xTC1SMUJrQU1jQWxLaURQYUlXbzVqVnFYdXFBNzV6Yy1IbE5kWjhCTk01RFRYakdPNnQ0QU16emFJZUx2b2lyYWdpM3Q3d0NtYXQ5M2YxM0ttWldoQ3otYWNYNG5DQnAtYmFaTFltWC1FZXJRS1RDelJXTXo3Wndn0gGMAUFVX3lxTE5XMTZYaE5OaVY4YWxpQmpVdnFoMVRzSDN1clo3OFhNWndjdk9vSHZUaGUwYXJOckJFaWJqaWlGNzNoWU1ZeXU5R2RxTExRS2k1NjEzZWZraGF1blF0ZkZoMDIwS0w5VlZBU0J1NzVLSWxnX2hWSFlDYXU2SFFMb24zQkZrd1FPWDgyMTV0?oc=5",
-        "publishedAt": "2026-09-07T01:22:00.000Z"
       },
       {
         "time": "08:21",
@@ -126,6 +126,13 @@
         "publishedAt": "2026-09-07T00:13:21.000Z"
       },
       {
+        "time": "13:25",
+        "title": "みずほ楽天カード P還元率2%に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594530?source=rss",
+        "publishedAt": "2026-09-07T04:25:32.000Z"
+      },
+      {
         "time": "10:06",
         "title": "高知でガソリン看板価格調整 証言",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594441?source=rss",
         "publishedAt": "2026-09-06T08:36:22.000Z"
-      },
-      {
-        "time": "11:56",
-        "title": "サミット衣料品21店 しまむら取得",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594513?source=rss",
-        "publishedAt": "2026-09-07T02:56:41.000Z"
       }
     ],
     "localHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
