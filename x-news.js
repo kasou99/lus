@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T10:18:54.175Z",
+  "updatedAt": "2026-09-07T10:39:00.334Z",
   "items": [
     {
-      "time": "16:51",
-      "title": "東北 夕方〜今夜に線状降水帯恐れ",
+      "time": "19:27",
+      "title": "伊豆諸島に特別警報 最新情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594549?source=rss",
-      "publishedAt": "2026-09-07T07:51:17.000Z",
-      "xQuery": "東北 夕方〜今夜に線状降水帯恐れ"
-    },
-    {
-      "time": "15:29",
-      "title": "利島村などに特別警報 最新情報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594541?source=rss",
-      "publishedAt": "2026-09-07T06:29:42.000Z",
-      "xQuery": "利島村などに特別警報 最新情報"
+      "url": "https://news.yahoo.co.jp/pickup/6594570?source=rss",
+      "publishedAt": "2026-09-07T10:27:41.000Z",
+      "xQuery": "伊豆諸島に特別警報 最新情報"
     },
     {
       "time": "12:51",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "全国の鉄道・フライト 大雨影響"
     },
     {
-      "time": "18:17",
-      "title": "円高進行 一時1ドル154円台前半",
+      "time": "19:29",
+      "title": "一律休園の対応一転 千葉市で混乱",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594561?source=rss",
-      "publishedAt": "2026-09-07T09:17:24.000Z",
-      "xQuery": "円高進行 一時1ドル154円台前半"
+      "url": "https://news.yahoo.co.jp/pickup/6594569?source=rss",
+      "publishedAt": "2026-09-07T10:29:54.000Z",
+      "xQuery": "一律休園の対応一転 千葉市で混乱"
     },
     {
-      "time": "18:52",
-      "title": "山形で6歳が行方不明 情報求める",
+      "time": "18:10",
+      "title": "110番通報対応のAI開発へ 警察庁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594565?source=rss",
-      "publishedAt": "2026-09-07T09:52:11.000Z",
-      "xQuery": "山形で6歳が行方不明 情報求める"
+      "url": "https://news.yahoo.co.jp/pickup/6594560?source=rss",
+      "publishedAt": "2026-09-07T09:10:47.000Z",
+      "xQuery": "110番通報対応のAI開発へ 警察庁"
+    },
+    {
+      "time": "19:18",
+      "title": "6歳男児が行方不明 山形・酒田市",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594568?source=rss",
+      "publishedAt": "2026-09-07T10:18:03.000Z",
+      "xQuery": "6歳男児が行方不明 山形・酒田市"
     }
   ]
 };

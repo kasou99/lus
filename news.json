@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T10:18:53.148Z",
+  "updatedAt": "2026-09-07T10:38:59.513Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-09-07T03:44:20.000Z"
       },
       {
+        "time": "19:29",
+        "title": "一律休園の対応一転 千葉市で混乱",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594569?source=rss",
+        "publishedAt": "2026-09-07T10:29:54.000Z"
+      },
+      {
         "time": "18:48",
         "title": "パワハラ認定の横浜市長が辞職",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594515?source=rss",
         "publishedAt": "2026-09-07T03:15:14.000Z"
-      },
-      {
-        "time": "19:18",
-        "title": "6歳男児が行方不明 山形・酒田市",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594568?source=rss",
-        "publishedAt": "2026-09-07T10:18:03.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
