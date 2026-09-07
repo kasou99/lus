@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T07:45:02.401Z",
+  "updatedAt": "2026-09-07T08:28:13.091Z",
   "items": [
     {
-      "time": "15:25",
-      "title": "命守る行動を 利島村に特別警報",
+      "time": "16:51",
+      "title": "東北 夕方〜今夜に線状降水帯恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594542?source=rss",
-      "publishedAt": "2026-09-07T06:25:37.000Z",
-      "xQuery": "命守る行動を 利島村に特別警報"
+      "url": "https://news.yahoo.co.jp/pickup/6594549?source=rss",
+      "publishedAt": "2026-09-07T07:51:17.000Z",
+      "xQuery": "東北 夕方〜今夜に線状降水帯恐れ"
     },
     {
       "time": "15:29",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "相手が独身偽装 悲しみ上回る衝撃"
     },
     {
-      "time": "16:23",
-      "title": "高知の川でアユ大量死 7万匹か",
+      "time": "16:46",
+      "title": "与良正男さん死去 元毎日新聞",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594547?source=rss",
-      "publishedAt": "2026-09-07T07:23:50.000Z",
-      "xQuery": "高知の川でアユ大量死 7万匹か"
+      "url": "https://news.yahoo.co.jp/pickup/6594548?source=rss",
+      "publishedAt": "2026-09-07T07:46:07.000Z",
+      "xQuery": "与良正男さん死去 元毎日新聞"
     }
   ]
 };
