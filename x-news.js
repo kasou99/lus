@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T10:39:00.334Z",
+  "updatedAt": "2026-09-07T11:16:36.960Z",
   "items": [
     {
       "time": "19:27",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "伊豆諸島に特別警報 最新情報"
     },
     {
-      "time": "12:51",
-      "title": "全国の鉄道・フライト 大雨影響",
+      "time": "19:49",
+      "title": "続く苦難 また浸水のラーメン店",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594503?source=rss",
-      "publishedAt": "2026-09-07T03:51:31.000Z",
-      "xQuery": "全国の鉄道・フライト 大雨影響"
+      "url": "https://news.yahoo.co.jp/pickup/6594571?source=rss",
+      "publishedAt": "2026-09-07T10:49:43.000Z",
+      "xQuery": "続く苦難 また浸水のラーメン店"
     },
     {
       "time": "19:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "一律休園の対応一転 千葉市で混乱"
     },
     {
-      "time": "18:10",
-      "title": "110番通報対応のAI開発へ 警察庁",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594560?source=rss",
-      "publishedAt": "2026-09-07T09:10:47.000Z",
-      "xQuery": "110番通報対応のAI開発へ 警察庁"
-    },
-    {
       "time": "19:18",
       "title": "6歳男児が行方不明 山形・酒田市",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594568?source=rss",
       "publishedAt": "2026-09-07T10:18:03.000Z",
       "xQuery": "6歳男児が行方不明 山形・酒田市"
+    },
+    {
+      "time": "18:45",
+      "title": "「1000円」ジーンズ イオンが販売",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594563?source=rss",
+      "publishedAt": "2026-09-07T09:45:26.000Z",
+      "xQuery": "「1000円」ジーンズ イオンが販売"
     }
   ]
 };
