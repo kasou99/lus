@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T04:43:41.864Z",
+  "updatedAt": "2026-09-07T05:18:54.419Z",
   "items": [
     {
       "time": "13:00",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店火災 死亡男性招かれずか"
     },
     {
-      "time": "11:18",
-      "title": "首撃たれ障害残る夫 時効に妻訴え",
+      "time": "13:01",
+      "title": "3党合流見送り 中道・野田氏謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594510?source=rss",
-      "publishedAt": "2026-09-07T02:18:47.000Z",
-      "xQuery": "首撃たれ障害残る夫 時効に妻訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6594528?source=rss",
+      "publishedAt": "2026-09-07T04:01:54.000Z",
+      "xQuery": "3党合流見送り 中道・野田氏謝罪"
     }
   ]
 };
