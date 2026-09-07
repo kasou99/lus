@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-07T22:37:00.336Z",
+  "updatedAt": "2026-09-07T23:15:24.072Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:13",
+        "title": "ファナックでも安川電機でもない 「フィジカルAI」注目4銘柄の実名",
+        "source": "現代ビジネス",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PemhqZG9IeEFoMXVKZjB6Q1haSEVXQ29lcFUwYThha0pNRzR0dXZiem5JZ0FybEZYa2Z5S2x6R2d2UUlXWVJIV2M0UTQ5SzdGbExubkhucjg?oc=5",
+        "publishedAt": "2026-09-07T21:13:09.000Z"
+      },
       {
         "time": "10:01",
         "title": "日立、設備保全向けフィジカルAI技術を開発、自然言語で異常音を説明・検索可能に",
@@ -12,7 +19,7 @@
       {
         "time": "05:00",
         "title": "ロボットと働く／岩田製作所 自社で導入・活用 SIerも開始",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QdmluQm4zWE1VMnpkaDN0VUJBX2pjU0VURkx0ajNhWjlqaE9kSnJ4Sm1aQzVtRUxSVnZkSWE5OTBqdElxbVIzQ3lkVEMyQVdRMWdWaGtRYi0?oc=5",
         "publishedAt": "2026-09-07T20:00:00.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "TradingView",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQMEc3SjZGejZSS0hPb0lrLWtTdHFqZldwYkh2cEhINGkzZmhmeHQ0UEU5dTkxelBuOEs0dnczMzFXdkp5djJNVllOYUlldWNxcm8wYnlnanoyRmsybjNFdmdqcDNrUQ?oc=5",
         "publishedAt": "2026-09-07T01:22:00.000Z"
-      },
-      {
-        "time": "17:00",
-        "title": "スター精密、小径部品加工に対応した スイス型自動旋盤を来春投入",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JNlBPOHFZQVFSUVR4eUx0aEVpRFJDdEswQ2RkaUZNTGplN0xKMGkwb05pM3F4bmdLUWdCSm5aSUdiYUNRVDMwbzdxWTZ4aHg0UzFQdGRVenY?oc=5",
-        "publishedAt": "2026-09-07T08:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,25 +170,25 @@
         "publishedAt": "2026-09-07T10:29:54.000Z"
       },
       {
-        "time": "22:40",
-        "title": "6歳男児が行方不明 足どりは",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594588?source=rss",
-        "publishedAt": "2026-09-07T13:40:56.000Z"
-      },
-      {
-        "time": "20:09",
-        "title": "ケーキ店火災 現場で携行缶発見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594573?source=rss",
-        "publishedAt": "2026-09-07T11:09:02.000Z"
-      },
-      {
         "time": "12:15",
         "title": "ケーキ店火災 死亡男性招かれずか",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594515?source=rss",
         "publishedAt": "2026-09-07T03:15:14.000Z"
+      },
+      {
+        "time": "07:52",
+        "title": "親睦行事の駅伝で夫熱中症死 提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594601?source=rss",
+        "publishedAt": "2026-09-07T22:52:47.000Z"
+      },
+      {
+        "time": "22:40",
+        "title": "6歳男児が行方不明 足どりは",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594588?source=rss",
+        "publishedAt": "2026-09-07T13:40:56.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
