@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T09:26:02.864Z",
+  "updatedAt": "2026-09-07T09:44:10.397Z",
   "items": [
     {
       "time": "16:51",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "円高進行 一時1ドル154円台前半"
     },
     {
-      "time": "16:46",
-      "title": "与良正男さん死去 元毎日新聞",
+      "time": "17:44",
+      "title": "横浜市長が辞職 市議会が同意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594548?source=rss",
-      "publishedAt": "2026-09-07T07:46:07.000Z",
-      "xQuery": "与良正男さん死去 元毎日新聞"
+      "url": "https://news.yahoo.co.jp/pickup/6594558?source=rss",
+      "publishedAt": "2026-09-07T08:44:04.000Z",
+      "xQuery": "横浜市長が辞職 市議会が同意"
     }
   ]
 };
