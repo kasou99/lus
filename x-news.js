@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T08:47:30.051Z",
+  "updatedAt": "2026-09-07T09:26:02.864Z",
   "items": [
     {
       "time": "16:51",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "全国の鉄道・フライト 大雨影響"
     },
     {
-      "time": "16:59",
-      "title": "都の出生数増 婚活支援など奏功?",
+      "time": "18:17",
+      "title": "円高進行 一時1ドル154円台前半",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594551?source=rss",
-      "publishedAt": "2026-09-07T07:59:32.000Z",
-      "xQuery": "都の出生数増 婚活支援など奏功?"
+      "url": "https://news.yahoo.co.jp/pickup/6594561?source=rss",
+      "publishedAt": "2026-09-07T09:17:24.000Z",
+      "xQuery": "円高進行 一時1ドル154円台前半"
     },
     {
       "time": "16:46",

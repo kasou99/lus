@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T08:47:29.064Z",
+  "updatedAt": "2026-09-07T09:26:02.054Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:50",
-        "title": "大雨で道路影響 無理な移動避けて",
+        "time": "18:17",
+        "title": "円高進行 一時1ドル154円台前半",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594508?source=rss",
-        "publishedAt": "2026-09-07T01:50:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594561?source=rss",
+        "publishedAt": "2026-09-07T09:17:24.000Z"
       },
       {
         "time": "12:51",
@@ -163,13 +163,6 @@
         "publishedAt": "2026-09-06T20:48:44.000Z"
       },
       {
-        "time": "07:26",
-        "title": "大雨の関東 小中学校で休校相次ぐ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594487?source=rss",
-        "publishedAt": "2026-09-06T22:26:59.000Z"
-      },
-      {
         "time": "17:44",
         "title": "横浜市長が辞職 市議会が同意",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594486?source=rss",
         "publishedAt": "2026-09-06T22:12:43.000Z"
+      },
+      {
+        "time": "17:48",
+        "title": "ケーキ店火災 現場から刃物を押収",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594559?source=rss",
+        "publishedAt": "2026-09-07T08:48:03.000Z"
       },
       {
         "time": "12:15",
