@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T21:36:50.560Z",
+  "updatedAt": "2026-09-07T22:15:50.950Z",
   "items": [
     {
       "time": "04:31",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "6歳男児が行方不明 足どりは"
     },
     {
-      "time": "22:25",
-      "title": "不採用者を匿流に紹介疑い 再逮捕",
+      "time": "14:41",
+      "title": "新米出回り コメさらに値下がりか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594585?source=rss",
-      "publishedAt": "2026-09-07T13:25:19.000Z",
-      "xQuery": "不採用者を匿流に紹介疑い 再逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6594538?source=rss",
+      "publishedAt": "2026-09-07T05:41:58.000Z",
+      "xQuery": "新米出回り コメさらに値下がりか"
     }
   ]
 };
