@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T07:27:03.326Z",
+  "updatedAt": "2026-09-07T07:45:01.650Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-09-06T22:30:00.000Z"
       },
       {
-        "time": "10:22",
-        "title": "泉州電業---業績予想および期末配当予想の修正",
-        "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQMEc3SjZGejZSS0hPb0lrLWtTdHFqZldwYkh2cEhINGkzZmhmeHQ0UEU5dTkxelBuOEs0dnczMzFXdkp5djJNVllOYUlldWNxcm8wYnlnanoyRmsybjNFdmdqcDNrUQ?oc=5",
-        "publishedAt": "2026-09-07T01:22:00.000Z"
-      },
-      {
         "time": "00:00",
         "title": "工作機械ソディック、ＨＣＭ市に新拠点",
         "source": "nna.jp",
         "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtbFlxSW1COVo4QWdXb1hmeEJiZTA3cFU5a2hKeGlHUlZCcDlOSEJyZzhmeGx0Nk9tZzN0b3NvV0sxMHlXbHc?oc=5",
         "publishedAt": "2026-09-06T15:00:00.000Z"
+      },
+      {
+        "time": "10:22",
+        "title": "泉州電業---業績予想および期末配当予想の修正",
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQMEc3SjZGejZSS0hPb0lrLWtTdHFqZldwYkh2cEhINGkzZmhmeHQ0UEU5dTkxelBuOEs0dnczMzFXdkp5djJNVllOYUlldWNxcm8wYnlnanoyRmsybjNFdmdqcDNrUQ?oc=5",
+        "publishedAt": "2026-09-07T01:22:00.000Z"
       },
       {
         "time": "05:00",

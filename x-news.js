@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T07:27:03.917Z",
+  "updatedAt": "2026-09-07T07:45:02.401Z",
   "items": [
     {
       "time": "15:25",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "全国の鉄道・フライト 大雨影響"
     },
     {
-      "time": "14:48",
-      "title": "米海軍フリゲート候補 韓国優位か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594518?source=rss",
-      "publishedAt": "2026-09-07T05:48:17.000Z",
-      "xQuery": "米海軍フリゲート候補 韓国優位か"
-    },
-    {
       "time": "12:49",
       "title": "相手が独身偽装 悲しみ上回る衝撃",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594523?source=rss",
       "publishedAt": "2026-09-07T03:49:00.000Z",
       "xQuery": "相手が独身偽装 悲しみ上回る衝撃"
+    },
+    {
+      "time": "16:23",
+      "title": "高知の川でアユ大量死 7万匹か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594547?source=rss",
+      "publishedAt": "2026-09-07T07:23:50.000Z",
+      "xQuery": "高知の川でアユ大量死 7万匹か"
     }
   ]
 };
