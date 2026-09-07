@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T03:44:08.923Z",
+  "updatedAt": "2026-09-07T04:22:22.452Z",
   "items": [
     {
-      "time": "12:35",
-      "title": "東京・大島町に土砂災害特別警報",
+      "time": "13:00",
+      "title": "命守る行動を 大島町に特別警報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594524?source=rss",
-      "publishedAt": "2026-09-07T03:35:35.000Z",
-      "xQuery": "東京・大島町に土砂災害特別警報"
+      "url": "https://news.yahoo.co.jp/pickup/6594529?source=rss",
+      "publishedAt": "2026-09-07T04:00:37.000Z",
+      "xQuery": "命守る行動を 大島町に特別警報"
+    },
+    {
+      "time": "12:44",
+      "title": "大島町と新島村 特別警報最新情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594526?source=rss",
+      "publishedAt": "2026-09-07T03:44:50.000Z",
+      "xQuery": "大島町と新島村 特別警報最新情報"
     },
     {
       "time": "11:05",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東南部・東北など 土砂災害警戒"
     },
     {
-      "time": "10:23",
-      "title": "車2台水没し1人意識不明 いわき市",
+      "time": "12:44",
+      "title": "アンダーパスで車水没 1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594505?source=rss",
-      "publishedAt": "2026-09-07T01:23:03.000Z",
-      "xQuery": "車2台水没し1人意識不明 いわき市"
-    },
-    {
-      "time": "10:50",
-      "title": "大雨で道路影響 無理な移動避けて",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594508?source=rss",
-      "publishedAt": "2026-09-07T01:50:36.000Z",
-      "xQuery": "大雨で道路影響 無理な移動避けて"
+      "url": "https://news.yahoo.co.jp/pickup/6594525?source=rss",
+      "publishedAt": "2026-09-07T03:44:20.000Z",
+      "xQuery": "アンダーパスで車水没 1人死亡"
     },
     {
       "time": "12:15",
