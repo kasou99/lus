@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T22:15:50.950Z",
+  "updatedAt": "2026-09-07T22:37:00.981Z",
   "items": [
     {
-      "time": "04:31",
-      "title": "伊豆諸島 土砂災害危険警報に切替",
+      "time": "07:18",
+      "title": "四国-東北南部で大雨恐れ 警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594594?source=rss",
-      "publishedAt": "2026-09-07T19:31:31.000Z",
-      "xQuery": "伊豆諸島 土砂災害危険警報に切替"
+      "url": "https://news.yahoo.co.jp/pickup/6594599?source=rss",
+      "publishedAt": "2026-09-07T22:18:18.000Z",
+      "xQuery": "四国-東北南部で大雨恐れ 警戒を"
     },
     {
       "time": "06:10",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "6歳男児が行方不明 足どりは"
     },
     {
-      "time": "14:41",
-      "title": "新米出回り コメさらに値下がりか",
+      "time": "06:48",
+      "title": "金利上昇 住宅ローン返済者ら悩み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594538?source=rss",
-      "publishedAt": "2026-09-07T05:41:58.000Z",
-      "xQuery": "新米出回り コメさらに値下がりか"
+      "url": "https://news.yahoo.co.jp/pickup/6594597?source=rss",
+      "publishedAt": "2026-09-07T21:48:02.000Z",
+      "xQuery": "金利上昇 住宅ローン返済者ら悩み"
     }
   ]
 };
