@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T05:39:46.873Z",
+  "updatedAt": "2026-09-07T06:39:53.614Z",
   "items": [
     {
-      "time": "13:00",
-      "title": "命守る行動を 大島町に特別警報",
+      "time": "15:25",
+      "title": "命守る行動を 利島村に特別警報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594529?source=rss",
-      "publishedAt": "2026-09-07T04:00:37.000Z",
-      "xQuery": "命守る行動を 大島町に特別警報"
+      "url": "https://news.yahoo.co.jp/pickup/6594542?source=rss",
+      "publishedAt": "2026-09-07T06:25:37.000Z",
+      "xQuery": "命守る行動を 利島村に特別警報"
     },
     {
-      "time": "12:44",
-      "title": "大島町と新島村 特別警報最新情報",
+      "time": "15:29",
+      "title": "利島村などに特別警報 最新情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594526?source=rss",
-      "publishedAt": "2026-09-07T03:44:50.000Z",
-      "xQuery": "大島町と新島村 特別警報最新情報"
+      "url": "https://news.yahoo.co.jp/pickup/6594541?source=rss",
+      "publishedAt": "2026-09-07T06:29:42.000Z",
+      "xQuery": "利島村などに特別警報 最新情報"
     },
     {
-      "time": "12:44",
-      "title": "アンダーパスで車水没 1人死亡",
+      "time": "14:42",
+      "title": "ロシア軍機 北方領土を領空侵犯",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594525?source=rss",
-      "publishedAt": "2026-09-07T03:44:20.000Z",
-      "xQuery": "アンダーパスで車水没 1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6594539?source=rss",
+      "publishedAt": "2026-09-07T05:42:12.000Z",
+      "xQuery": "ロシア軍機 北方領土を領空侵犯"
     },
     {
-      "time": "12:15",
-      "title": "ケーキ店火災 死亡男性招かれずか",
+      "time": "14:48",
+      "title": "米海軍フリゲート候補 韓国優位か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594515?source=rss",
-      "publishedAt": "2026-09-07T03:15:14.000Z",
-      "xQuery": "ケーキ店火災 死亡男性招かれずか"
+      "url": "https://news.yahoo.co.jp/pickup/6594518?source=rss",
+      "publishedAt": "2026-09-07T05:48:17.000Z",
+      "xQuery": "米海軍フリゲート候補 韓国優位か"
     },
     {
-      "time": "13:01",
-      "title": "3党合流見送り 中道・野田氏謝罪",
+      "time": "12:49",
+      "title": "相手が独身偽装 悲しみ上回る衝撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594528?source=rss",
-      "publishedAt": "2026-09-07T04:01:54.000Z",
-      "xQuery": "3党合流見送り 中道・野田氏謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6594523?source=rss",
+      "publishedAt": "2026-09-07T03:49:00.000Z",
+      "xQuery": "相手が独身偽装 悲しみ上回る衝撃"
     }
   ]
 };
