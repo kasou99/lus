@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T14:39:19.269Z",
+  "updatedAt": "2026-09-07T15:17:10.106Z",
   "items": [
     {
       "time": "23:15",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "伊豆諸島に特別警報 最新情報"
     },
     {
-      "time": "23:18",
-      "title": "内閣改造と党人事 16日にも着手",
+      "time": "23:53",
+      "title": "景気拡大期 戦後最長超えの公算大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594590?source=rss",
-      "publishedAt": "2026-09-07T14:18:23.000Z",
-      "xQuery": "内閣改造と党人事 16日にも着手"
+      "url": "https://news.yahoo.co.jp/pickup/6594592?source=rss",
+      "publishedAt": "2026-09-07T14:53:25.000Z",
+      "xQuery": "景気拡大期 戦後最長超えの公算大"
     },
     {
       "time": "22:40",
