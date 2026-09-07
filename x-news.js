@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T08:28:13.091Z",
+  "updatedAt": "2026-09-07T08:47:30.051Z",
   "items": [
     {
       "time": "16:51",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "全国の鉄道・フライト 大雨影響"
     },
     {
-      "time": "12:49",
-      "title": "相手が独身偽装 悲しみ上回る衝撃",
+      "time": "16:59",
+      "title": "都の出生数増 婚活支援など奏功?",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594523?source=rss",
-      "publishedAt": "2026-09-07T03:49:00.000Z",
-      "xQuery": "相手が独身偽装 悲しみ上回る衝撃"
+      "url": "https://news.yahoo.co.jp/pickup/6594551?source=rss",
+      "publishedAt": "2026-09-07T07:59:32.000Z",
+      "xQuery": "都の出生数増 婚活支援など奏功?"
     },
     {
       "time": "16:46",
