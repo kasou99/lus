@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T14:18:56.510Z",
+  "updatedAt": "2026-09-07T14:39:18.505Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-09-07T00:53:19.000Z"
       },
       {
-        "time": "18:34",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-09-07T09:34:34.000Z"
-      },
-      {
         "time": "17:00",
         "title": "スター精密、小径部品加工に対応した スイス型自動旋盤を来春投入",
         "source": "日刊工業新聞",
@@ -57,6 +50,13 @@
         "source": "TradingView",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQMEc3SjZGejZSS0hPb0lrLWtTdHFqZldwYkh2cEhINGkzZmhmeHQ0UEU5dTkxelBuOEs0dnczMzFXdkp5djJNVllOYUlldWNxcm8wYnlnanoyRmsybjNFdmdqcDNrUQ?oc=5",
         "publishedAt": "2026-09-07T01:22:00.000Z"
+      },
+      {
+        "time": "00:00",
+        "title": "工作機械ソディック、ＨＣＭ市に新拠点",
+        "source": "nna.jp",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtbFlxSW1COVo4QWdXb1hmeEJiZTA3cFU5a2hKeGlHUlZCcDlOSEJyZzhmeGx0Nk9tZzN0b3NvV0sxMHlXbHc?oc=5",
+        "publishedAt": "2026-09-06T15:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
