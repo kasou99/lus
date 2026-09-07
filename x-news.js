@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T20:36:54.139Z",
+  "updatedAt": "2026-09-07T21:14:58.162Z",
   "items": [
     {
       "time": "04:31",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "伊豆諸島 土砂災害危険警報に切替"
     },
     {
-      "time": "23:15",
-      "title": "秋雨前線停滞 油断できぬ状況続く",
+      "time": "06:10",
+      "title": "小林鷹之政調会長留任へ 首相意向",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594589?source=rss",
-      "publishedAt": "2026-09-07T14:15:10.000Z",
-      "xQuery": "秋雨前線停滞 油断できぬ状況続く"
+      "url": "https://news.yahoo.co.jp/pickup/6594595?source=rss",
+      "publishedAt": "2026-09-07T21:10:07.000Z",
+      "xQuery": "小林鷹之政調会長留任へ 首相意向"
     },
     {
       "time": "23:53",
