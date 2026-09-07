@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T12:27:38.657Z",
+  "updatedAt": "2026-09-07T12:47:41.375Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-09-06T20:00:00.000Z"
       },
       {
-        "time": "10:01",
-        "title": "日立、設備保全向けフィジカルAI技術を開発、自然言語で異常音を説明・検索可能に",
-        "source": "IT Leaders",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KWDg5VW1fWG5HcW5XXzRNOE9waFlMTFJ5eEFsWWdXQk9TaWNEb2dac0tleXJpYW9pLURnRVFZdkRjazl5VWY0R28wX2NFeDU2RWJZ?oc=5",
-        "publishedAt": "2026-09-07T01:01:58.000Z"
-      },
-      {
         "time": "14:17",
         "title": "【FISCO銘柄コメント】ＹＫＴ---電子部品実装機や工作機械、光電子装置を扱う機械専門商社(フィスコ)",
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW1hdVVJbTNwZHJnNERWWXdjRW1CQWlES2VLTzJxTm0wQy1WbFh5UVdTN2tjWVpuaHNaUmw4d1ItcUd6bFVjREk5Wm94OFhGNDdjS0pwaG5WVHQxTlcwcW1iMDdQUjQ3dVZ2M1RkMWRmcFNYbm1BclpCdlJEbVZWN2pxMWFPSk0?oc=5",
         "publishedAt": "2026-09-07T05:17:00.000Z"
+      },
+      {
+        "time": "10:01",
+        "title": "日立、設備保全向けフィジカルAI技術を開発、自然言語で異常音を説明・検索可能に",
+        "source": "IT Leaders",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KWDg5VW1fWG5HcW5XXzRNOE9waFlMTFJ5eEFsWWdXQk9TaWNEb2dac0tleXJpYW9pLURnRVFZdkRjazl5VWY0R28wX2NFeDU2RWJZ?oc=5",
+        "publishedAt": "2026-09-07T01:01:58.000Z"
       },
       {
         "time": "07:30",
@@ -40,15 +40,15 @@
       {
         "time": "17:00",
         "title": "スター精密、小径部品加工に対応した スイス型自動旋盤を来春投入",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JNlBPOHFZQVFSUVR4eUx0aEVpRFJDdEswQ2RkaUZNTGplN0xKMGkwb05pM3F4bmdLUWdCSm5aSUdiYUNRVDMwbzdxWTZ4aHg0UzFQdGRVenY?oc=5",
         "publishedAt": "2026-09-07T08:00:00.000Z"
       },
       {
         "time": "10:22",
         "title": "泉州電業---業績予想および期末配当予想の修正",
-        "source": "es.tradingview.com",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4azIyanVPVUtyRXdXS25RcTRUOVdBcUFVX1RoMUhIZmNkUmF1c0xJSngwSnFtVVR0U29wMGxZLUVyQWx3T19tQ0RIUnBhTGduYkowdFpKb1BsU24wbUtFRHhCY3A?oc=5",
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQMEc3SjZGejZSS0hPb0lrLWtTdHFqZldwYkh2cEhINGkzZmhmeHQ0UEU5dTkxelBuOEs0dnczMzFXdkp5djJNVllOYUlldWNxcm8wYnlnanoyRmsybjNFdmdqcDNrUQ?oc=5",
         "publishedAt": "2026-09-07T01:22:00.000Z"
       },
       {
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
