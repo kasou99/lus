@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-07T13:39:15.112Z",
+  "updatedAt": "2026-09-07T14:18:56.510Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:00",
         "title": "金沢の町工場が狙う「工作機械のClaude」 加工コード生成 京セラなどと提携",
-        "source": "business.nikkei.com",
+        "source": "日経ビジネス電子版",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EOTBFRThpYXVNdFkzNGJTdHNvMDdkMHhqZnZ5WDU1MDFIc1NTVUcwRFpOenFjTGQweHZsckdNVlkxdDd0UGdUNjlrSVBFWUF5RkxoTnQ5NmUtRnBQeWR2aFZiZzA3XzA?oc=5",
         "publishedAt": "2026-09-06T20:00:00.000Z"
       },
@@ -47,16 +47,16 @@
       {
         "time": "17:00",
         "title": "スター精密、小径部品加工に対応した スイス型自動旋盤を来春投入",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JNlBPOHFZQVFSUVR4eUx0aEVpRFJDdEswQ2RkaUZNTGplN0xKMGkwb05pM3F4bmdLUWdCSm5aSUdiYUNRVDMwbzdxWTZ4aHg0UzFQdGRVenY?oc=5",
         "publishedAt": "2026-09-07T08:00:00.000Z"
       },
       {
-        "time": "00:00",
-        "title": "工作機械ソディック、ＨＣＭ市に新拠点",
-        "source": "nna.jp",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtbFlxSW1COVo4QWdXb1hmeEJiZTA3cFU5a2hKeGlHUlZCcDlOSEJyZzhmeGx0Nk9tZzN0b3NvV0sxMHlXbHc?oc=5",
-        "publishedAt": "2026-09-06T15:00:00.000Z"
+        "time": "10:22",
+        "title": "泉州電業---業績予想および期末配当予想の修正",
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQMEc3SjZGejZSS0hPb0lrLWtTdHFqZldwYkh2cEhINGkzZmhmeHQ0UEU5dTkxelBuOEs0dnczMzFXdkp5djJNVllOYUlldWNxcm8wYnlnanoyRmsybjNFdmdqcDNrUQ?oc=5",
+        "publishedAt": "2026-09-07T01:22:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-09-07T10:29:54.000Z"
       },
       {
+        "time": "22:40",
+        "title": "6歳男児が行方不明 足どりは",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594588?source=rss",
+        "publishedAt": "2026-09-07T13:40:56.000Z"
+      },
+      {
         "time": "20:09",
         "title": "ケーキ店火災 現場で携行缶発見",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594515?source=rss",
         "publishedAt": "2026-09-07T03:15:14.000Z"
-      },
-      {
-        "time": "19:18",
-        "title": "6歳男児が行方不明 山形・酒田市",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594568?source=rss",
-        "publishedAt": "2026-09-07T10:18:03.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },

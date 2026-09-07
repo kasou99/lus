@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T13:39:16.027Z",
+  "updatedAt": "2026-09-07T14:18:57.265Z",
   "items": [
     {
-      "time": "20:35",
-      "title": "10日頃まで前線停滞か 厳重警戒",
+      "time": "23:15",
+      "title": "秋雨前線停滞 油断できぬ状況続く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594575?source=rss",
-      "publishedAt": "2026-09-07T11:35:49.000Z",
-      "xQuery": "10日頃まで前線停滞か 厳重警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6594589?source=rss",
+      "publishedAt": "2026-09-07T14:15:10.000Z",
+      "xQuery": "秋雨前線停滞 油断できぬ状況続く"
     },
     {
       "time": "19:27",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "続く苦難 また浸水のラーメン店"
     },
     {
+      "time": "22:40",
+      "title": "6歳男児が行方不明 足どりは",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594588?source=rss",
+      "publishedAt": "2026-09-07T13:40:56.000Z",
+      "xQuery": "6歳男児が行方不明 足どりは"
+    },
+    {
       "time": "22:25",
       "title": "不採用者を匿流に紹介疑い 再逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594585?source=rss",
       "publishedAt": "2026-09-07T13:25:19.000Z",
       "xQuery": "不採用者を匿流に紹介疑い 再逮捕"
-    },
-    {
-      "time": "20:41",
-      "title": "北朝鮮 なぜ日本海側に新型駆逐艦",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594555?source=rss",
-      "publishedAt": "2026-09-07T11:41:12.000Z",
-      "xQuery": "北朝鮮 なぜ日本海側に新型駆逐艦"
     }
   ]
 };
