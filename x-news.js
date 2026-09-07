@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T00:53:53.021Z",
+  "updatedAt": "2026-09-07T01:31:52.649Z",
   "items": [
     {
       "time": "08:44",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・新島村に特別警報 最新情報"
     },
     {
-      "time": "08:39",
-      "title": "米特使 ウ訪問し新和平案を提示",
+      "time": "10:23",
+      "title": "車2台水没し1人意識不明 いわき市",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594493?source=rss",
-      "publishedAt": "2026-09-06T23:39:01.000Z",
-      "xQuery": "米特使 ウ訪問し新和平案を提示"
+      "url": "https://news.yahoo.co.jp/pickup/6594505?source=rss",
+      "publishedAt": "2026-09-07T01:23:03.000Z",
+      "xQuery": "車2台水没し1人意識不明 いわき市"
     },
     {
-      "time": "07:12",
-      "title": "沖縄知事選は古謝氏が先行 読売",
+      "time": "10:13",
+      "title": "貨物機オーバーランし5人死亡 米",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594486?source=rss",
-      "publishedAt": "2026-09-06T22:12:43.000Z",
-      "xQuery": "沖縄知事選は古謝氏が先行 読売"
+      "url": "https://news.yahoo.co.jp/pickup/6594502?source=rss",
+      "publishedAt": "2026-09-07T01:13:25.000Z",
+      "xQuery": "貨物機オーバーランし5人死亡 米"
     },
     {
       "time": "09:13",
