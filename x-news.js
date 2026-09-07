@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T19:13:36.762Z",
+  "updatedAt": "2026-09-07T19:37:34.895Z",
   "items": [
+    {
+      "time": "04:31",
+      "title": "伊豆諸島 土砂災害危険警報に切替",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594594?source=rss",
+      "publishedAt": "2026-09-07T19:31:31.000Z",
+      "xQuery": "伊豆諸島 土砂災害危険警報に切替"
+    },
     {
       "time": "23:15",
       "title": "秋雨前線停滞 油断できぬ状況続く",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594589?source=rss",
       "publishedAt": "2026-09-07T14:15:10.000Z",
       "xQuery": "秋雨前線停滞 油断できぬ状況続く"
-    },
-    {
-      "time": "19:27",
-      "title": "伊豆諸島に特別警報 最新情報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594570?source=rss",
-      "publishedAt": "2026-09-07T10:27:41.000Z",
-      "xQuery": "伊豆諸島に特別警報 最新情報"
     },
     {
       "time": "23:53",
