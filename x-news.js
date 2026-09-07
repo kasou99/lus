@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T13:19:20.540Z",
+  "updatedAt": "2026-09-07T13:39:16.027Z",
   "items": [
     {
       "time": "20:35",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "続く苦難 また浸水のラーメン店"
     },
     {
-      "time": "19:29",
-      "title": "一律休園の対応一転 千葉市で混乱",
+      "time": "22:25",
+      "title": "不採用者を匿流に紹介疑い 再逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594569?source=rss",
-      "publishedAt": "2026-09-07T10:29:54.000Z",
-      "xQuery": "一律休園の対応一転 千葉市で混乱"
+      "url": "https://news.yahoo.co.jp/pickup/6594585?source=rss",
+      "publishedAt": "2026-09-07T13:25:19.000Z",
+      "xQuery": "不採用者を匿流に紹介疑い 再逮捕"
     },
     {
-      "time": "19:18",
-      "title": "6歳男児が行方不明 山形・酒田市",
+      "time": "20:41",
+      "title": "北朝鮮 なぜ日本海側に新型駆逐艦",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594568?source=rss",
-      "publishedAt": "2026-09-07T10:18:03.000Z",
-      "xQuery": "6歳男児が行方不明 山形・酒田市"
+      "url": "https://news.yahoo.co.jp/pickup/6594555?source=rss",
+      "publishedAt": "2026-09-07T11:41:12.000Z",
+      "xQuery": "北朝鮮 なぜ日本海側に新型駆逐艦"
     }
   ]
 };
