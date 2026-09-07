@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T11:16:36.960Z",
+  "updatedAt": "2026-09-07T11:37:36.297Z",
   "items": [
     {
       "time": "19:27",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "6歳男児が行方不明 山形・酒田市"
     },
     {
-      "time": "18:45",
-      "title": "「1000円」ジーンズ イオンが販売",
+      "time": "20:09",
+      "title": "ケーキ店火災 現場で携行缶発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594563?source=rss",
-      "publishedAt": "2026-09-07T09:45:26.000Z",
-      "xQuery": "「1000円」ジーンズ イオンが販売"
+      "url": "https://news.yahoo.co.jp/pickup/6594573?source=rss",
+      "publishedAt": "2026-09-07T11:09:02.000Z",
+      "xQuery": "ケーキ店火災 現場で携行缶発見"
     }
   ]
 };
