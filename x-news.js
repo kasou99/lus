@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-06T23:37:26.304Z",
+  "updatedAt": "2026-09-07T00:53:53.021Z",
   "items": [
+    {
+      "time": "08:44",
+      "title": "活発な雨雲 関東や東北で大雨警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594495?source=rss",
+      "publishedAt": "2026-09-06T23:44:01.000Z",
+      "xQuery": "活発な雨雲 関東や東北で大雨警戒"
+    },
     {
       "time": "05:35",
       "title": "東京・新島村に特別警報 最新情報",
@@ -10,36 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・新島村に特別警報 最新情報"
     },
     {
-      "time": "23:22",
-      "title": "全国の鉄道・フライト 最新情報",
+      "time": "08:39",
+      "title": "米特使 ウ訪問し新和平案を提示",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6591369?source=rss",
-      "publishedAt": "2026-09-06T14:22:46.000Z",
-      "xQuery": "全国の鉄道・フライト 最新情報"
+      "url": "https://news.yahoo.co.jp/pickup/6594493?source=rss",
+      "publishedAt": "2026-09-06T23:39:01.000Z",
+      "xQuery": "米特使 ウ訪問し新和平案を提示"
     },
     {
-      "time": "05:44",
-      "title": "関東 朝の通勤・通学を大雨直撃か",
+      "time": "07:12",
+      "title": "沖縄知事選は古謝氏が先行 読売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594483?source=rss",
-      "publishedAt": "2026-09-06T20:44:24.000Z",
-      "xQuery": "関東 朝の通勤・通学を大雨直撃か"
+      "url": "https://news.yahoo.co.jp/pickup/6594486?source=rss",
+      "publishedAt": "2026-09-06T22:12:43.000Z",
+      "xQuery": "沖縄知事選は古謝氏が先行 読売"
     },
     {
-      "time": "07:26",
-      "title": "大雨の関東 小中学校で休校相次ぐ",
+      "time": "09:13",
+      "title": "新宿区の民泊 住宅地の営業禁止へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594487?source=rss",
-      "publishedAt": "2026-09-06T22:26:59.000Z",
-      "xQuery": "大雨の関東 小中学校で休校相次ぐ"
-    },
-    {
-      "time": "07:46",
-      "title": "東北新幹線一部見合わせ 人身事故",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594492?source=rss",
-      "publishedAt": "2026-09-06T22:46:15.000Z",
-      "xQuery": "東北新幹線一部見合わせ 人身事故"
+      "url": "https://news.yahoo.co.jp/pickup/6594497?source=rss",
+      "publishedAt": "2026-09-07T00:13:21.000Z",
+      "xQuery": "新宿区の民泊 住宅地の営業禁止へ"
     }
   ]
 };
