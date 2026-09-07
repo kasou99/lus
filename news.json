@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T03:23:01.940Z",
+  "updatedAt": "2026-09-07T03:44:07.928Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "07:30",
         "title": "ワーク容量約3.3倍に拡大、松浦機械が大型部品向け5軸複合マシニングセンタ：工作機械",
-        "source": "MONOist",
+        "source": "monoist.itmedia.co.jp",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRM1ljc1NVY3puX2hhbGVScllVNWtzeVVMWXZ6eTFwMk4yeWpFTWlZUTFTV3A3TzZiMllhZ3pkM2hYUVlRLWZFSHdEdDJkMWJjejB3ZFNTcjlSUloxVEhwX3lvVUo4aUhqYWozbHJGcw?oc=5",
         "publishedAt": "2026-09-06T22:30:00.000Z"
       },
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-07T03:03:17.000Z"
       },
       {
+        "time": "10:22",
+        "title": "泉州電業---業績予想および期末配当予想の修正",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVzE2WGhOTmlWOGFsaUJqVXZxaDFUc0gzdXJaNzhYTVp3Y3ZPb0h2VGhlMGFyTnJCRWliamlpRjczaFlNWXl1OUdkcUxMUUtpNTYxM2Vma2hhdW5RdGZGaDAyMEtMOVZWQVNCdTc1S0lsZ19oVkhZQ2F1NkhRTG9uM0JGa3dRT1g4MjE1dNIBjAFBVV95cUxOVzE2WGhOTmlWOGFsaUJqVXZxaDFUc0gzdXJaNzhYTVp3Y3ZPb0h2VGhlMGFyTnJCRWliamlpRjczaFlNWXl1OUdkcUxMUUtpNTYxM2Vma2hhdW5RdGZGaDAyMEtMOVZWQVNCdTc1S0lsZ19oVkhZQ2F1NkhRTG9uM0JGa3dRT1g4MjE1dA?oc=5",
+        "publishedAt": "2026-09-07T01:22:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "プレス技術10月号／DXで生き残る！人手不足時代の経営戦略",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54bmNZckdBVWU2NUV3RzJ1N3M5QVkycmtlMkZGRzdsUFhTSjZyaW9sdlB2NnlvbmpucEJPVmZGbEh0M0RtTElrTEdCVTh1WXRxektLR0ZhZkw?oc=5",
         "publishedAt": "2026-09-06T20:00:00.000Z"
-      },
-      {
-        "time": "10:22",
-        "title": "泉州電業---業績予想および期末配当予想の修正",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONkpPQ2tUSWJjVFpqOW0tTGtXWFhBcjNTTVBhNHlzUWlVemJkRlJ1MTRVcGlreTFfWm00NWk3dGVIelNlaTF6OVdkWnpqTE1rU050UURXWlJ6SFd3bUthdmJEQS0xTC1SMUJrQU1jQWxLaURQYUlXbzVqVnFYdXFBNzV6Yy1IbE5kWjhCTk01RFRYakdPNnQ0QU16emFJZUx2b2lyYWdpM3Q3d0NtYXQ5M2YxM0ttWldoQ3otYWNYNG5DQnAtYmFaTFltWC1FZXJRS1RDelJXTXo3Wndn0gGMAUFVX3lxTE5XMTZYaE5OaVY4YWxpQmpVdnFoMVRzSDN1clo3OFhNWndjdk9vSHZUaGUwYXJOckJFaWJqaWlGNzNoWU1ZeXU5R2RxTExRS2k1NjEzZWZraGF1blF0ZkZoMDIwS0w5VlZBU0J1NzVLSWxnX2hWSFlDYXU2SFFMb24zQkZrd1FPWDgyMTV0?oc=5",
-        "publishedAt": "2026-09-07T01:22:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,13 +82,6 @@
         "publishedAt": "2026-09-05T23:17:27.000Z"
       },
       {
-        "time": "23:41",
-        "title": "ネパール土石流から10日 2人救助",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594363?source=rss",
-        "publishedAt": "2026-09-05T14:41:12.000Z"
-      },
-      {
         "time": "10:13",
         "title": "貨物機オーバーランし5人死亡 米",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594436?source=rss",
         "publishedAt": "2026-09-06T07:48:38.000Z"
+      },
+      {
+        "time": "12:29",
+        "title": "ドイツの極右政党 州議会選で圧勝",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594522?source=rss",
+        "publishedAt": "2026-09-07T03:29:14.000Z"
       }
     ],
     "economyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },

@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T03:23:02.731Z",
+  "updatedAt": "2026-09-07T03:44:08.923Z",
   "items": [
+    {
+      "time": "12:35",
+      "title": "東京・大島町に土砂災害特別警報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594524?source=rss",
+      "publishedAt": "2026-09-07T03:35:35.000Z",
+      "xQuery": "東京・大島町に土砂災害特別警報"
+    },
     {
       "time": "11:05",
       "title": "関東南部・東北など 土砂災害警戒",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594509?source=rss",
       "publishedAt": "2026-09-07T02:05:02.000Z",
       "xQuery": "関東南部・東北など 土砂災害警戒"
-    },
-    {
-      "time": "05:35",
-      "title": "東京・新島村に特別警報 最新情報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594482?source=rss",
-      "publishedAt": "2026-09-06T20:35:37.000Z",
-      "xQuery": "東京・新島村に特別警報 最新情報"
     },
     {
       "time": "10:23",
