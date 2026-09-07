@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T06:39:53.614Z",
+  "updatedAt": "2026-09-07T07:27:03.917Z",
   "items": [
     {
       "time": "15:25",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "利島村などに特別警報 最新情報"
     },
     {
-      "time": "14:42",
-      "title": "ロシア軍機 北方領土を領空侵犯",
+      "time": "12:51",
+      "title": "全国の鉄道・フライト 大雨影響",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594539?source=rss",
-      "publishedAt": "2026-09-07T05:42:12.000Z",
-      "xQuery": "ロシア軍機 北方領土を領空侵犯"
+      "url": "https://news.yahoo.co.jp/pickup/6594503?source=rss",
+      "publishedAt": "2026-09-07T03:51:31.000Z",
+      "xQuery": "全国の鉄道・フライト 大雨影響"
     },
     {
       "time": "14:48",
