@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T11:37:36.297Z",
+  "updatedAt": "2026-09-07T12:27:39.397Z",
   "items": [
+    {
+      "time": "20:35",
+      "title": "10日頃まで前線停滞か 厳重警戒",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594575?source=rss",
+      "publishedAt": "2026-09-07T11:35:49.000Z",
+      "xQuery": "10日頃まで前線停滞か 厳重警戒"
+    },
     {
       "time": "19:27",
       "title": "伊豆諸島に特別警報 最新情報",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594568?source=rss",
       "publishedAt": "2026-09-07T10:18:03.000Z",
       "xQuery": "6歳男児が行方不明 山形・酒田市"
-    },
-    {
-      "time": "20:09",
-      "title": "ケーキ店火災 現場で携行缶発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594573?source=rss",
-      "publishedAt": "2026-09-07T11:09:02.000Z",
-      "xQuery": "ケーキ店火災 現場で携行缶発見"
     }
   ]
 };
