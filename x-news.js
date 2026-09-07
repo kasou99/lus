@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T02:45:29.137Z",
+  "updatedAt": "2026-09-07T03:23:02.731Z",
   "items": [
     {
       "time": "11:05",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大雨で道路影響 無理な移動避けて"
     },
     {
-      "time": "10:13",
-      "title": "貨物機オーバーランし5人死亡 米",
+      "time": "12:15",
+      "title": "ケーキ店火災 死亡男性招かれずか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594502?source=rss",
-      "publishedAt": "2026-09-07T01:13:25.000Z",
-      "xQuery": "貨物機オーバーランし5人死亡 米"
+      "url": "https://news.yahoo.co.jp/pickup/6594515?source=rss",
+      "publishedAt": "2026-09-07T03:15:14.000Z",
+      "xQuery": "ケーキ店火災 死亡男性招かれずか"
     }
   ]
 };
