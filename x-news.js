@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T15:39:52.330Z",
+  "updatedAt": "2026-09-08T16:20:25.224Z",
   "items": [
     {
-      "time": "20:25",
-      "title": "愛知岐阜で氾濫特別警報 最新情報",
+      "time": "00:52",
+      "title": "愛知・岐阜の庄内川 氾濫注意報に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594681?source=rss",
-      "publishedAt": "2026-09-08T11:25:18.000Z",
-      "xQuery": "愛知岐阜で氾濫特別警報 最新情報"
-    },
-    {
-      "time": "21:24",
-      "title": "気象庁「直ちに身の安全確保を」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594683?source=rss",
-      "publishedAt": "2026-09-08T12:24:38.000Z",
-      "xQuery": "気象庁「直ちに身の安全確保を」"
+      "url": "https://news.yahoo.co.jp/pickup/6594689?source=rss",
+      "publishedAt": "2026-09-08T15:52:50.000Z",
+      "xQuery": "愛知・岐阜の庄内川 氾濫注意報に"
     },
     {
       "time": "20:13",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594687?source=rss",
       "publishedAt": "2026-09-08T13:31:44.000Z",
       "xQuery": "アジア大会の複数施設も大雨被害"
+    },
+    {
+      "time": "19:53",
+      "title": "なぜ突然の円高に 背景と見通し",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594665?source=rss",
+      "publishedAt": "2026-09-08T10:53:51.000Z",
+      "xQuery": "なぜ突然の円高に 背景と見通し"
     }
   ]
 };
