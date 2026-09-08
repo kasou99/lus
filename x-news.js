@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T11:37:02.190Z",
+  "updatedAt": "2026-09-08T12:27:15.815Z",
   "items": [
     {
       "time": "20:25",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東海地方で大雨 現地のSNS投稿"
     },
     {
-      "time": "18:32",
-      "title": "安全確保を 大雨のときのNG行動",
+      "time": "20:34",
+      "title": "関東甲信・東海・四国 大雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6593591?source=rss",
-      "publishedAt": "2026-09-08T09:32:24.000Z",
-      "xQuery": "安全確保を 大雨のときのNG行動"
+      "url": "https://news.yahoo.co.jp/pickup/6594682?source=rss",
+      "publishedAt": "2026-09-08T11:34:19.000Z",
+      "xQuery": "関東甲信・東海・四国 大雨の恐れ"
     }
   ]
 };

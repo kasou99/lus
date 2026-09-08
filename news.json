@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-09-08T11:37:01.672Z",
+  "updatedAt": "2026-09-08T12:27:15.053Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "15:10",
         "title": "「世界一奪還を目標に」技能五輪国際大会のCNC旋盤に出場 片野諒人さん壮行会 山口（ｔｙｓテレビ山口）",
-        "source": "Yahoo!ニュース",
+        "source": "news.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhS1lNR1BFUkJpSHZvajFZbXhpUkhEY3lacUtCbVdSb0pEV1lldkdVLWZiaFFGejUySUloN1Bqc3JFYm9SOHVwaUtwNFhVTHRuT1BOeG5LUW9hc2tlcWF5bzZuUjhqa3Zqak9faE4tM1IyM1YzWGxPWG5rdktRNXc?oc=5",
         "publishedAt": "2026-09-08T06:10:25.000Z"
-      },
-      {
-        "time": "15:05",
-        "title": "「世界一奪還を目標に」技能五輪国際大会のCNC旋盤に出場 片野諒人さん壮行会 山口",
-        "source": "TBS NEWS DIG",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WM2NLemNyVFF2ZkR0TUdfTHRfbGZRVFJ4d2FiLVNGMXNXLTYwXzk1UWI5VE1VSGhYRHNDdzBNSUxzSE9IdmpueWhNQmlIN3hQeFJZWG5IVQ?oc=5",
-        "publishedAt": "2026-09-08T06:05:00.000Z"
       },
       {
         "time": "07:30",
@@ -31,18 +24,25 @@
         "publishedAt": "2026-09-08T03:15:00.000Z"
       },
       {
-        "time": "06:13",
-        "title": "ファナックでも安川電機でもない 「フィジカルAI」注目4銘柄の実名",
-        "source": "現代ビジネス",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PemhqZG9IeEFoMXVKZjB6Q1haSEVXQ29lcFUwYThha0pNRzR0dXZiem5JZ0FybEZYa2Z5S2x6R2d2UUlXWVJIV2M0UTQ5SzdGbExubkhucjg?oc=5",
-        "publishedAt": "2026-09-07T21:13:09.000Z"
+        "time": "15:05",
+        "title": "「世界一奪還を目標に」技能五輪国際大会のCNC旋盤に出場 片野諒人さん壮行会 山口",
+        "source": "topics.smt.docomo.ne.jp",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTZHBYT294eTJ4T3NZQlpYcE1oV1QxejJvaXY2X0pKVGJpc2RnUm1vRW5WS0xSNl9NNnREb1lwU3FhZW9uRk1UR3g4eUw0X09jOERvYmFXcHRsbzJ5Mk5wS2EzN0otSV9vMEROR1c5VGZsZmUx0gF0QVVfeXFMUFNkcFhPb3h5MnhPc1lCWlhwTWhXVDF6Mm9pdjZfSkpUYmlzZGdSbW9FblZLTFI2X002dERvWXBTcWFlb25GTVRHeDh5TDRfT2M4RG9iYVdwdGxvMnkyTnBLYTM3Si1JX28wRE5HVzlUZmxmZTE?oc=5",
+        "publishedAt": "2026-09-08T06:05:00.000Z"
       },
       {
-        "time": "09:08",
+        "time": "12:54",
         "title": "【探訪・ザ・カンパニー】江口電機（倉敷市）生産ラインの効率化を後押し",
         "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WTTBhOVNDaFI4LU5YRE84S2lLRUROV0pxUkV2aXJ5TnhabGg2Zk9rVVJFQklLeGpZU1U2Q0s4RTFTTVFCSTdSbEFLUjhYTUpWNTJIeGJHWDZzNzUxZGE1ZEJzQnU4RU0?oc=5",
-        "publishedAt": "2026-09-08T00:08:10.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q2Q0M0ZCeGgtMkdTajBHMDVWZVBIaWFzbTRCZm1MaGxzT0tXMTJxTng1QXh1YWFRR29nZ3RTNWhSYjdSdTdtSkplVkVEOVB1dkE?oc=5",
+        "publishedAt": "2026-09-08T03:54:50.000Z"
+      },
+      {
+        "time": "06:13",
+        "title": "ファナックでも安川電機でもない 「フィジカルAI」注目4銘柄の実名",
+        "source": "gendai.media",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PemhqZG9IeEFoMXVKZjB6Q1haSEVXQ29lcFUwYThha0pNRzR0dXZiem5JZ0FybEZYa2Z5S2x6R2d2UUlXWVJIV2M0UTQ5SzdGbExubkhucjg?oc=5",
+        "publishedAt": "2026-09-07T21:13:09.000Z"
       },
       {
         "time": "16:22",
