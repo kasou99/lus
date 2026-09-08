@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T11:15:49.112Z",
+  "updatedAt": "2026-09-08T11:37:01.672Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -25,8 +25,8 @@
       },
       {
         "time": "12:15",
-        "title": "平田機工、熊本県菊池市に制御盤などを生産する七城第二工場を稼働 - automation-news.jp",
-        "source": "automation-news.jp",
+        "title": "平田機工、熊本県菊池市に制御盤などを生産する七城第二工場を稼働",
+        "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DenJlVFJ5dE9tUi1VaTgtTnJnR0ZpVGN3N2I2RHdOQnl6QVRtSERHUk50amJHVkI1OUY4YUp5TGcyYnU1UWxaV2xvWExBeThIXzk4MVBveHpWZw?oc=5",
         "publishedAt": "2026-09-08T03:15:00.000Z"
       },
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-08T00:08:10.000Z"
       },
       {
+        "time": "16:22",
+        "title": "7軸ヒューマノイドアーム「HY 7」「Echo 5」などを米シカゴ「IMTS 2026」で展示予定 中国Huayan Robotics",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UeEdGaDZLSUZxNHlDMVNtckhoV1M2YnoyVVRVbjZLc0RjcFRSTDh1eEp6eTU3S2hGOW8xQVVWemhvQkZ5a0w2aFROcHNRRkdtQ1M0MWdSMTBBaUxram5sUGR1NlE5WVZUdk12RGJB?oc=5",
+        "publishedAt": "2026-09-08T07:22:13.000Z"
+      },
+      {
         "time": "05:00",
         "title": "ロボットと働く／岩田製作所 自社で導入・活用 SIerも開始",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QdmluQm4zWE1VMnpkaDN0VUJBX2pjU0VURkx0ajNhWjlqaE9kSnJ4Sm1aQzVtRUxSVnZkSWE5OTBqdElxbVIzQ3lkVEMyQVdRMWdWaGtRYi0?oc=5",
         "publishedAt": "2026-09-07T20:00:00.000Z"
-      },
-      {
-        "time": "16:00",
-        "title": "7軸ヒューマノイドアーム「HY 7」「Echo 5」などを米シカゴ「IMTS 2026」で展示予定 中国Huayan Robotics",
-        "source": "ロボスタ",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kcmU3RGt3cVExZ1NqR1Y3R1dMaHhTOV91cEEwVzNmSGVMT2VUU0lnOU90WnIxX3RwVm5SRkdvdUEtdkE1Q19FalNOXzRyT29PdHRWMjZOM3ZBWDd5ZllUV3lMaTk?oc=5",
-        "publishedAt": "2026-09-08T07:00:03.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,27 @@
     ],
     "economyHeadlines": [
       {
+        "time": "20:16",
+        "title": "日銀 今月の会合で利上げへ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594679?source=rss",
+        "publishedAt": "2026-09-08T11:16:05.000Z"
+      },
+      {
+        "time": "06:48",
+        "title": "金利上昇 住宅ローン返済者ら悩み",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594597?source=rss",
+        "publishedAt": "2026-09-07T21:48:02.000Z"
+      },
+      {
+        "time": "11:34",
+        "title": "景気拡大 円安と物価高で実感薄く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594628?source=rss",
+        "publishedAt": "2026-09-08T02:34:49.000Z"
+      },
+      {
         "time": "17:39",
         "title": "東海道・山陽新幹線 運転を再開",
         "source": "Yahoo!ニュース",
@@ -124,27 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594665?source=rss",
         "publishedAt": "2026-09-08T10:53:51.000Z"
-      },
-      {
-        "time": "11:34",
-        "title": "景気拡大 円安と物価高で実感薄く",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594628?source=rss",
-        "publishedAt": "2026-09-08T02:34:49.000Z"
-      },
-      {
-        "time": "06:48",
-        "title": "金利上昇 住宅ローン返済者ら悩み",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594597?source=rss",
-        "publishedAt": "2026-09-07T21:48:02.000Z"
-      },
-      {
-        "time": "09:38",
-        "title": "銀行の「個人マネー争奪戦」激化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594614?source=rss",
-        "publishedAt": "2026-09-08T00:38:27.000Z"
       }
     ],
     "localHeadlines": [

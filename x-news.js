@@ -1,29 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T11:15:50.024Z",
+  "updatedAt": "2026-09-08T11:37:02.190Z",
   "items": [
     {
-      "time": "18:30",
-      "title": "愛知・岐阜の庄内川 氾濫特別警報",
+      "time": "20:25",
+      "title": "愛知岐阜で氾濫特別警報 最新情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594671?source=rss",
-      "publishedAt": "2026-09-08T09:30:49.000Z",
-      "xQuery": "愛知・岐阜の庄内川 氾濫特別警報"
-    },
-    {
-      "time": "20:01",
-      "title": "愛知・岐阜で特別警報 最新情報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594676?source=rss",
-      "publishedAt": "2026-09-08T11:01:01.000Z",
-      "xQuery": "愛知・岐阜で特別警報 最新情報"
-    },
-    {
-      "time": "20:13",
-      "title": "大雨で大きく波打つ川 名古屋市",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594678?source=rss",
-      "publishedAt": "2026-09-08T11:13:21.000Z",
-      "xQuery": "大雨で大きく波打つ川 名古屋市"
+      "url": "https://news.yahoo.co.jp/pickup/6594681?source=rss",
+      "publishedAt": "2026-09-08T11:25:18.000Z",
+      "xQuery": "愛知岐阜で氾濫特別警報 最新情報"
     },
     {
       "time": "19:52",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "名古屋の1時間雨量 観測史上最大"
     },
     {
+      "time": "20:13",
+      "title": "大雨で大きく波打つ川 名古屋市",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594678?source=rss",
+      "publishedAt": "2026-09-08T11:13:21.000Z",
+      "xQuery": "大雨で大きく波打つ川 名古屋市"
+    },
+    {
       "time": "18:17",
       "title": "東海地方で大雨 現地のSNS投稿",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594666?source=rss",
       "publishedAt": "2026-09-08T09:17:34.000Z",
       "xQuery": "東海地方で大雨 現地のSNS投稿"
+    },
+    {
+      "time": "18:32",
+      "title": "安全確保を 大雨のときのNG行動",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593591?source=rss",
+      "publishedAt": "2026-09-08T09:32:24.000Z",
+      "xQuery": "安全確保を 大雨のときのNG行動"
     }
   ]
 };
