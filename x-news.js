@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T08:43:42.164Z",
+  "updatedAt": "2026-09-08T09:20:32.033Z",
   "items": [
     {
       "time": "16:56",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "愛知・岐阜に「線状降水帯」発生"
     },
     {
-      "time": "16:34",
-      "title": "仮釈放中の性犯罪者にGPS 実験へ",
+      "time": "17:39",
+      "title": "東海道・山陽新幹線 運転を再開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594655?source=rss",
-      "publishedAt": "2026-09-08T07:34:28.000Z",
-      "xQuery": "仮釈放中の性犯罪者にGPS 実験へ"
+      "url": "https://news.yahoo.co.jp/pickup/6594663?source=rss",
+      "publishedAt": "2026-09-08T08:39:56.000Z",
+      "xQuery": "東海道・山陽新幹線 運転を再開"
     },
     {
       "time": "17:20",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中道 立憲系と公明系議員が離党へ"
     },
     {
-      "time": "15:41",
-      "title": "福岡女性遺体 殺人容疑で3人逮捕",
+      "time": "15:32",
+      "title": "露最後の独総領事館が閉鎖へ 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594653?source=rss",
-      "publishedAt": "2026-09-08T06:41:15.000Z",
-      "xQuery": "福岡女性遺体 殺人容疑で3人逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6594647?source=rss",
+      "publishedAt": "2026-09-08T06:32:39.000Z",
+      "xQuery": "露最後の独総領事館が閉鎖へ 背景"
     },
     {
       "time": "16:55",
