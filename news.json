@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T13:39:08.681Z",
+  "updatedAt": "2026-09-08T14:19:39.712Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-09-07T22:30:00.000Z"
       },
       {
-        "time": "12:15",
-        "title": "平田機工、熊本県菊池市に制御盤などを生産する七城第二工場を稼働",
-        "source": "オートメーション新聞WEB",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DenJlVFJ5dE9tUi1VaTgtTnJnR0ZpVGN3N2I2RHdOQnl6QVRtSERHUk50amJHVkI1OUY4YUp5TGcyYnU1UWxaV2xvWExBeThIXzk4MVBveHpWZw?oc=5",
-        "publishedAt": "2026-09-08T03:15:00.000Z"
-      },
-      {
         "time": "15:05",
         "title": "「世界一奪還を目標に」技能五輪国際大会のCNC旋盤に出場 片野諒人さん壮行会 山口",
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTZHBYT294eTJ4T3NZQlpYcE1oV1QxejJvaXY2X0pKVGJpc2RnUm1vRW5WS0xSNl9NNnREb1lwU3FhZW9uRk1UR3g4eUw0X09jOERvYmFXcHRsbzJ5Mk5wS2EzN0otSV9vMEROR1c5VGZsZmUx0gF0QVVfeXFMUFNkcFhPb3h5MnhPc1lCWlhwTWhXVDF6Mm9pdjZfSkpUYmlzZGdSbW9FblZLTFI2X002dERvWXBTcWFlb25GTVRHeDh5TDRfT2M4RG9iYVdwdGxvMnkyTnBLYTM3Si1JX28wRE5HVzlUZmxmZTE?oc=5",
         "publishedAt": "2026-09-08T06:05:00.000Z"
+      },
+      {
+        "time": "12:15",
+        "title": "平田機工、熊本県菊池市に制御盤などを生産する七城第二工場を稼働 - automation-news.jp",
+        "source": "automation-news.jp",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DenJlVFJ5dE9tUi1VaTgtTnJnR0ZpVGN3N2I2RHdOQnl6QVRtSERHUk50amJHVkI1OUY4YUp5TGcyYnU1UWxaV2xvWExBeThIXzk4MVBveHpWZw?oc=5",
+        "publishedAt": "2026-09-08T03:15:00.000Z"
       },
       {
         "time": "12:54",
@@ -40,7 +40,7 @@
       {
         "time": "06:13",
         "title": "ファナックでも安川電機でもない 「フィジカルAI」注目4銘柄の実名",
-        "source": "現代ビジネス",
+        "source": "gendai.media",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PemhqZG9IeEFoMXVKZjB6Q1haSEVXQ29lcFUwYThha0pNRzR0dXZiem5JZ0FybEZYa2Z5S2x6R2d2UUlXWVJIV2M0UTQ5SzdGbExubkhucjg?oc=5",
         "publishedAt": "2026-09-07T21:13:09.000Z"
       },

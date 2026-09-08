@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T13:39:09.444Z",
+  "updatedAt": "2026-09-08T14:19:40.969Z",
   "items": [
     {
       "time": "20:25",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "気象庁「直ちに身の安全確保を」"
     },
     {
-      "time": "19:52",
-      "title": "名古屋の1時間雨量 観測史上最大",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594677?source=rss",
-      "publishedAt": "2026-09-08T10:52:48.000Z",
-      "xQuery": "名古屋の1時間雨量 観測史上最大"
-    },
-    {
       "time": "20:13",
       "title": "大雨で大きく波打つ川 名古屋市",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "大雨で大きく波打つ川 名古屋市"
     },
     {
-      "time": "20:34",
-      "title": "関東甲信・東海・四国 大雨の恐れ",
+      "time": "21:19",
+      "title": "近畿9日昼前にかけ線状降水帯恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594682?source=rss",
-      "publishedAt": "2026-09-08T11:34:19.000Z",
-      "xQuery": "関東甲信・東海・四国 大雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594684?source=rss",
+      "publishedAt": "2026-09-08T12:19:31.000Z",
+      "xQuery": "近畿9日昼前にかけ線状降水帯恐れ"
+    },
+    {
+      "time": "19:53",
+      "title": "なぜ突然の円高に 背景と見通し",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594665?source=rss",
+      "publishedAt": "2026-09-08T10:53:51.000Z",
+      "xQuery": "なぜ突然の円高に 背景と見通し"
     }
   ]
 };
