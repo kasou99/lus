@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T20:37:56.133Z",
+  "updatedAt": "2026-09-08T21:13:49.071Z",
   "items": [
+    {
+      "time": "06:06",
+      "title": "関東～四国で線状降水帯の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594693?source=rss",
+      "publishedAt": "2026-09-08T21:06:02.000Z",
+      "xQuery": "関東～四国で線状降水帯の恐れ"
+    },
     {
       "time": "00:52",
       "title": "愛知・岐阜の庄内川 氾濫注意報に",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594678?source=rss",
       "publishedAt": "2026-09-08T11:13:21.000Z",
       "xQuery": "大雨で大きく波打つ川 名古屋市"
-    },
-    {
-      "time": "21:19",
-      "title": "近畿9日昼前にかけ線状降水帯恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594684?source=rss",
-      "publishedAt": "2026-09-08T12:19:31.000Z",
-      "xQuery": "近畿9日昼前にかけ線状降水帯恐れ"
     },
     {
       "time": "01:08",
