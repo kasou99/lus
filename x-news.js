@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T14:40:20.245Z",
+  "updatedAt": "2026-09-08T15:18:35.377Z",
   "items": [
     {
       "time": "20:25",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "近畿9日昼前にかけ線状降水帯恐れ"
     },
     {
-      "time": "19:53",
-      "title": "なぜ突然の円高に 背景と見通し",
+      "time": "22:31",
+      "title": "アジア大会の複数施設も大雨被害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594665?source=rss",
-      "publishedAt": "2026-09-08T10:53:51.000Z",
-      "xQuery": "なぜ突然の円高に 背景と見通し"
+      "url": "https://news.yahoo.co.jp/pickup/6594687?source=rss",
+      "publishedAt": "2026-09-08T13:31:44.000Z",
+      "xQuery": "アジア大会の複数施設も大雨被害"
     }
   ]
 };
