@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T04:20:49.618Z",
+  "updatedAt": "2026-09-08T04:41:12.863Z",
   "items": [
     {
-      "time": "10:36",
-      "title": "10日まで大雨恐れ 道路への影響大",
+      "time": "13:37",
+      "title": "東海 9日朝にかけ線状降水帯恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594620?source=rss",
-      "publishedAt": "2026-09-08T01:36:39.000Z",
-      "xQuery": "10日まで大雨恐れ 道路への影響大"
+      "url": "https://news.yahoo.co.jp/pickup/6594642?source=rss",
+      "publishedAt": "2026-09-08T04:37:55.000Z",
+      "xQuery": "東海 9日朝にかけ線状降水帯恐れ"
     },
     {
       "time": "12:30",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "一時1ドル152円台 約半年ぶり水準"
     },
     {
-      "time": "11:26",
-      "title": "福岡の海岸に遺体 不明19歳と確認",
+      "time": "09:41",
+      "title": "英国王 ヘンリー王子らは「私人」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594627?source=rss",
-      "publishedAt": "2026-09-08T02:26:22.000Z",
-      "xQuery": "福岡の海岸に遺体 不明19歳と確認"
+      "url": "https://news.yahoo.co.jp/pickup/6594615?source=rss",
+      "publishedAt": "2026-09-08T00:41:31.000Z",
+      "xQuery": "英国王 ヘンリー王子らは「私人」"
     },
     {
-      "time": "11:24",
-      "title": "リユース市場拡大 悪質業者に注意",
+      "time": "11:08",
+      "title": "小田急駅員の胸元にカメラ 効果は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594626?source=rss",
-      "publishedAt": "2026-09-08T02:24:19.000Z",
-      "xQuery": "リユース市場拡大 悪質業者に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6594623?source=rss",
+      "publishedAt": "2026-09-08T02:08:29.000Z",
+      "xQuery": "小田急駅員の胸元にカメラ 効果は"
     }
   ]
 };
