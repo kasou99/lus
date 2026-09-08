@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-08T20:16:46.171Z",
+  "updatedAt": "2026-09-08T20:37:55.362Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:00",
         "title": "工作機械もサイバー防御 DMG森は全製品を遠隔更新、欧州規制に対応",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjemRLVUR6Mm85bzJJWFNOVjlNRGc0RzRqNU9pTWl1R1RKWl96RWF0ZVhIdXVkT3JkNlc2a3VGWUVLdTZpWnZMdjkya1VmdGpuTUhvaHlfQkg5cXdiZU52Qm5JZ3YwWnFENlZqeg?oc=5",
         "publishedAt": "2026-09-08T20:00:00.000Z"
       },
@@ -26,9 +26,16 @@
       {
         "time": "15:10",
         "title": "「世界一奪還を目標に」技能五輪国際大会のCNC旋盤に出場 片野諒人さん壮行会 山口（ｔｙｓテレビ山口）",
-        "source": "news.yahoo.co.jp",
+        "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhS1lNR1BFUkJpSHZvajFZbXhpUkhEY3lacUtCbVdSb0pEV1lldkdVLWZiaFFGejUySUloN1Bqc3JFYm9SOHVwaUtwNFhVTHRuT1BOeG5LUW9hc2tlcWF5bzZuUjhqa3Zqak9faE4tM1IyM1YzWGxPWG5rdktRNXc?oc=5",
         "publishedAt": "2026-09-08T06:10:25.000Z"
+      },
+      {
+        "time": "12:15",
+        "title": "平田機工、熊本県菊池市に制御盤などを生産する七城第二工場を稼働",
+        "source": "オートメーション新聞WEB",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DenJlVFJ5dE9tUi1VaTgtTnJnR0ZpVGN3N2I2RHdOQnl6QVRtSERHUk50amJHVkI1OUY4YUp5TGcyYnU1UWxaV2xvWExBeThIXzk4MVBveHpWZw?oc=5",
+        "publishedAt": "2026-09-08T03:15:00.000Z"
       },
       {
         "time": "15:05",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-09-07T22:30:00.000Z"
       },
       {
-        "time": "12:15",
-        "title": "平田機工、熊本県菊池市に制御盤などを生産する七城第二工場を稼働",
-        "source": "オートメーション新聞WEB",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DenJlVFJ5dE9tUi1VaTgtTnJnR0ZpVGN3N2I2RHdOQnl6QVRtSERHUk50amJHVkI1OUY4YUp5TGcyYnU1UWxaV2xvWExBeThIXzk4MVBveHpWZw?oc=5",
-        "publishedAt": "2026-09-08T03:15:00.000Z"
-      },
-      {
-        "time": "12:54",
-        "title": "【探訪・ザ・カンパニー】江口電機（倉敷市）生産ラインの効率化を後押し",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q2Q0M0ZCeGgtMkdTajBHMDVWZVBIaWFzbTRCZm1MaGxzT0tXMTJxTng1QXh1YWFRR29nZ3RTNWhSYjdSdTdtSkplVkVEOVB1dkE?oc=5",
-        "publishedAt": "2026-09-08T03:54:50.000Z"
+        "time": "02:23",
+        "title": "ブラザー工業小池前会長 「課長級の人材育成に協力」：ニュース",
+        "source": "biz.chunichi.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9taWxfM3Qyemswa0l2UVQ5ODdpZDRKRVp1czRMRFBIRWgzYlVIbDlXbDlabE9vbmxpRlYyLVlpTWZXQzNkYktia1NWeVJlQWZ3ZGRTSFdoTFlSUWEwd0tF?oc=5",
+        "publishedAt": "2026-09-08T17:23:46.000Z"
       }
     ],
     "worldHeadlines": [
