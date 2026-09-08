@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T12:27:15.815Z",
+  "updatedAt": "2026-09-08T12:47:54.478Z",
   "items": [
     {
       "time": "20:25",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594681?source=rss",
       "publishedAt": "2026-09-08T11:25:18.000Z",
       "xQuery": "愛知岐阜で氾濫特別警報 最新情報"
+    },
+    {
+      "time": "21:24",
+      "title": "気象庁「直ちに身の安全確保を」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594683?source=rss",
+      "publishedAt": "2026-09-08T12:24:38.000Z",
+      "xQuery": "気象庁「直ちに身の安全確保を」"
     },
     {
       "time": "19:52",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594678?source=rss",
       "publishedAt": "2026-09-08T11:13:21.000Z",
       "xQuery": "大雨で大きく波打つ川 名古屋市"
-    },
-    {
-      "time": "18:17",
-      "title": "東海地方で大雨 現地のSNS投稿",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594666?source=rss",
-      "publishedAt": "2026-09-08T09:17:34.000Z",
-      "xQuery": "東海地方で大雨 現地のSNS投稿"
     },
     {
       "time": "20:34",
