@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T00:49:32.535Z",
+  "updatedAt": "2026-09-08T01:28:04.518Z",
   "items": [
     {
-      "time": "07:18",
-      "title": "四国-東北南部で大雨恐れ 警戒を",
+      "time": "10:08",
+      "title": "世界分断した9.11 今も米社会に影",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594599?source=rss",
-      "publishedAt": "2026-09-07T22:18:18.000Z",
-      "xQuery": "四国-東北南部で大雨恐れ 警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6594618?source=rss",
+      "publishedAt": "2026-09-08T01:08:33.000Z",
+      "xQuery": "世界分断した9.11 今も米社会に影"
     },
     {
-      "time": "08:24",
-      "title": "維新 閣僚ポスト「1枠」を要求",
+      "time": "08:17",
+      "title": "豪雨で車被災 負担重なり生活圧迫",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594604?source=rss",
-      "publishedAt": "2026-09-07T23:24:23.000Z",
-      "xQuery": "維新 閣僚ポスト「1枠」を要求"
-    },
-    {
-      "time": "09:18",
-      "title": "羽田発着の小型機に新規則 国交省",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594608?source=rss",
-      "publishedAt": "2026-09-08T00:18:15.000Z",
-      "xQuery": "羽田発着の小型機に新規則 国交省"
+      "url": "https://news.yahoo.co.jp/pickup/6594605?source=rss",
+      "publishedAt": "2026-09-07T23:17:14.000Z",
+      "xQuery": "豪雨で車被災 負担重なり生活圧迫"
     },
     {
       "time": "09:01",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594611?source=rss",
       "publishedAt": "2026-09-08T00:23:22.000Z",
       "xQuery": "福岡の海岸に遺体 不明の大学生か"
+    },
+    {
+      "time": "09:15",
+      "title": "英JLR 従業員4000人を削減へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594613?source=rss",
+      "publishedAt": "2026-09-08T00:15:14.000Z",
+      "xQuery": "英JLR 従業員4000人を削減へ"
     }
   ]
 };
