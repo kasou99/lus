@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T03:42:06.173Z",
+  "updatedAt": "2026-09-08T04:20:49.618Z",
   "items": [
     {
       "time": "10:36",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "10日まで大雨恐れ 道路への影響大"
     },
     {
-      "time": "08:27",
-      "title": "カンボジア側詐欺拠点 タイ軍公開",
+      "time": "12:30",
+      "title": "車水没 市は通報3分前に水位把握",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594606?source=rss",
-      "publishedAt": "2026-09-07T23:27:35.000Z",
-      "xQuery": "カンボジア側詐欺拠点 タイ軍公開"
+      "url": "https://news.yahoo.co.jp/pickup/6594631?source=rss",
+      "publishedAt": "2026-09-08T03:30:44.000Z",
+      "xQuery": "車水没 市は通報3分前に水位把握"
     },
     {
       "time": "12:08",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "一時1ドル152円台 約半年ぶり水準"
     },
     {
-      "time": "12:30",
-      "title": "車水没 市は通報3分前に水位把握",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594631?source=rss",
-      "publishedAt": "2026-09-08T03:30:44.000Z",
-      "xQuery": "車水没 市は通報3分前に水位把握"
-    },
-    {
       "time": "11:26",
       "title": "福岡の海岸に遺体 不明19歳と確認",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594627?source=rss",
       "publishedAt": "2026-09-08T02:26:22.000Z",
       "xQuery": "福岡の海岸に遺体 不明19歳と確認"
+    },
+    {
+      "time": "11:24",
+      "title": "リユース市場拡大 悪質業者に注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594626?source=rss",
+      "publishedAt": "2026-09-08T02:24:19.000Z",
+      "xQuery": "リユース市場拡大 悪質業者に注意"
     }
   ]
 };
