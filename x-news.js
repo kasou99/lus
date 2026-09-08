@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T09:20:32.033Z",
+  "updatedAt": "2026-09-08T09:40:28.600Z",
   "items": [
+    {
+      "time": "18:30",
+      "title": "愛知・岐阜の庄内川 氾濫特別警報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594671?source=rss",
+      "publishedAt": "2026-09-08T09:30:49.000Z",
+      "xQuery": "愛知・岐阜の庄内川 氾濫特別警報"
+    },
     {
       "time": "16:56",
       "title": "愛知・岐阜に「線状降水帯」発生",
@@ -10,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "愛知・岐阜に「線状降水帯」発生"
     },
     {
-      "time": "17:39",
-      "title": "東海道・山陽新幹線 運転を再開",
+      "time": "18:17",
+      "title": "東海地方で大雨 現地のSNS投稿",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594663?source=rss",
-      "publishedAt": "2026-09-08T08:39:56.000Z",
-      "xQuery": "東海道・山陽新幹線 運転を再開"
+      "url": "https://news.yahoo.co.jp/pickup/6594666?source=rss",
+      "publishedAt": "2026-09-08T09:17:34.000Z",
+      "xQuery": "東海地方で大雨 現地のSNS投稿"
+    },
+    {
+      "time": "18:32",
+      "title": "安全確保を 大雨のときのNG行動",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6593591?source=rss",
+      "publishedAt": "2026-09-08T09:32:24.000Z",
+      "xQuery": "安全確保を 大雨のときのNG行動"
     },
     {
       "time": "17:20",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594661?source=rss",
       "publishedAt": "2026-09-08T08:20:18.000Z",
       "xQuery": "中道 立憲系と公明系議員が離党へ"
-    },
-    {
-      "time": "15:32",
-      "title": "露最後の独総領事館が閉鎖へ 背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594647?source=rss",
-      "publishedAt": "2026-09-08T06:32:39.000Z",
-      "xQuery": "露最後の独総領事館が閉鎖へ 背景"
-    },
-    {
-      "time": "16:55",
-      "title": "園児から「しね」手紙 いじめ相当",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594659?source=rss",
-      "publishedAt": "2026-09-08T07:55:40.000Z",
-      "xQuery": "園児から「しね」手紙 いじめ相当"
     }
   ]
 };
