@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T01:28:03.635Z",
+  "updatedAt": "2026-09-08T01:50:34.599Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-09-07T05:17:00.000Z"
       },
       {
+        "time": "18:34",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-09-07T09:34:34.000Z"
+      },
+      {
         "time": "22:30",
         "title": "愛知県大口町に研究開発拠点「イノベーションハブ」開設 ヤマザキマザック、来年8月：ニュース",
         "source": "中日BIZナビ",
@@ -34,8 +41,8 @@
         "time": "13:56",
         "title": "泉州電業---大幅続伸、業績・配当予想を上方修正",
         "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XQWh1NXI5MnVudnVWYzVIWmFrNFIwb0FjVVNFRUhhY0ZFNnVlUURxTWJTQ01FcDNXM09vSnkycm4zQzZqQTZwemwtaldmdV9Nd3NSQmZYZWVGZXZSR0ZkZlktS3pWQQ?oc=5",
-        "publishedAt": "2026-09-07T04:56:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FZEw4dnA3TExHMk1vYjh0YXJIejZGUGJYbjlsUzJ4ZkpjbVo2YTRkTEsxUmlEQ1lRNjliTERJYU0yM1VQOGctZlYtZENZZ014eUZYYldieWY3cGMxXzFDR2N3YXE?oc=5",
+        "publishedAt": "2026-09-07T04:56:57.000Z"
       },
       {
         "time": "17:00",
@@ -50,13 +57,6 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QSjM1T21CZXVHenRPY2dBRlNmQlE0YndtbVp1cmpaNHAwb254aUNTdHNkaE1nMGR6Zm56SlB1bUFFem1qS0IyRUg0YjdZWS1CTnNxYTlNcw?oc=5",
         "publishedAt": "2026-09-07T05:25:35.000Z"
-      },
-      {
-        "time": "17:45",
-        "title": "サトーの「ASETRA」、サントリープロダクツに導入 天然水北アルプス信濃の森工場では約24,000点の設備予備品をR",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oS1lyTWo1TV83aThKaHUtd3FCeEpKcXVEazVIUW1YRVlxdmtzM2Q4LWExTE1rVHV0SFowcE5Dc1lEcXBlYlBzSVp5ZDdJVEpxYXNWRw?oc=5",
-        "publishedAt": "2026-09-07T08:45:31.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,11 +75,11 @@
         "publishedAt": "2026-09-07T11:41:12.000Z"
       },
       {
-        "time": "08:39",
-        "title": "米特使 ウ訪問し新和平案を提示",
+        "time": "10:45",
+        "title": "EU グリーンランドに360億円投資",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594493?source=rss",
-        "publishedAt": "2026-09-06T23:39:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594621?source=rss",
+        "publishedAt": "2026-09-08T01:45:49.000Z"
       },
       {
         "time": "10:13",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },

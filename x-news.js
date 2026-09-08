@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T01:28:04.518Z",
+  "updatedAt": "2026-09-08T01:50:35.113Z",
   "items": [
     {
       "time": "10:08",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594618?source=rss",
       "publishedAt": "2026-09-08T01:08:33.000Z",
       "xQuery": "世界分断した9.11 今も米社会に影"
-    },
-    {
-      "time": "08:17",
-      "title": "豪雨で車被災 負担重なり生活圧迫",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594605?source=rss",
-      "publishedAt": "2026-09-07T23:17:14.000Z",
-      "xQuery": "豪雨で車被災 負担重なり生活圧迫"
     },
     {
       "time": "09:01",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594611?source=rss",
       "publishedAt": "2026-09-08T00:23:22.000Z",
       "xQuery": "福岡の海岸に遺体 不明の大学生か"
+    },
+    {
+      "time": "10:14",
+      "title": "アデランス子会社 ステマを謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594619?source=rss",
+      "publishedAt": "2026-09-08T01:14:55.000Z",
+      "xQuery": "アデランス子会社 ステマを謝罪"
     },
     {
       "time": "09:15",
