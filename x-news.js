@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-07T23:36:59.733Z",
+  "updatedAt": "2026-09-08T00:49:32.535Z",
   "items": [
     {
       "time": "07:18",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "四国-東北南部で大雨恐れ 警戒を"
     },
     {
-      "time": "06:10",
-      "title": "小林鷹之政調会長留任へ 首相意向",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594595?source=rss",
-      "publishedAt": "2026-09-07T21:10:07.000Z",
-      "xQuery": "小林鷹之政調会長留任へ 首相意向"
-    },
-    {
       "time": "08:24",
       "title": "維新 閣僚ポスト「1枠」を要求",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "維新 閣僚ポスト「1枠」を要求"
     },
     {
-      "time": "06:48",
-      "title": "金利上昇 住宅ローン返済者ら悩み",
+      "time": "09:18",
+      "title": "羽田発着の小型機に新規則 国交省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594597?source=rss",
-      "publishedAt": "2026-09-07T21:48:02.000Z",
-      "xQuery": "金利上昇 住宅ローン返済者ら悩み"
+      "url": "https://news.yahoo.co.jp/pickup/6594608?source=rss",
+      "publishedAt": "2026-09-08T00:18:15.000Z",
+      "xQuery": "羽田発着の小型機に新規則 国交省"
     },
     {
-      "time": "07:52",
-      "title": "親睦行事の駅伝で夫熱中症死 提訴",
+      "time": "09:01",
+      "title": "一時1ドル153円台 約半年ぶり水準",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594601?source=rss",
-      "publishedAt": "2026-09-07T22:52:47.000Z",
-      "xQuery": "親睦行事の駅伝で夫熱中症死 提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6594610?source=rss",
+      "publishedAt": "2026-09-08T00:01:36.000Z",
+      "xQuery": "一時1ドル153円台 約半年ぶり水準"
+    },
+    {
+      "time": "09:23",
+      "title": "福岡の海岸に遺体 不明の大学生か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594611?source=rss",
+      "publishedAt": "2026-09-08T00:23:22.000Z",
+      "xQuery": "福岡の海岸に遺体 不明の大学生か"
     }
   ]
 };

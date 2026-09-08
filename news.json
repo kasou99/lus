@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T23:36:58.767Z",
+  "updatedAt": "2026-09-08T00:49:31.420Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,14 +12,14 @@
       {
         "time": "10:01",
         "title": "日立、設備保全向けフィジカルAI技術を開発、自然言語で異常音を説明・検索可能に",
-        "source": "IT Leaders",
+        "source": "it.impress.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KWDg5VW1fWG5HcW5XXzRNOE9waFlMTFJ5eEFsWWdXQk9TaWNEb2dac0tleXJpYW9pLURnRVFZdkRjazl5VWY0R28wX2NFeDU2RWJZ?oc=5",
         "publishedAt": "2026-09-07T01:01:58.000Z"
       },
       {
         "time": "05:00",
         "title": "ロボットと働く／岩田製作所 自社で導入・活用 SIerも開始",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QdmluQm4zWE1VMnpkaDN0VUJBX2pjU0VURkx0ajNhWjlqaE9kSnJ4Sm1aQzVtRUxSVnZkSWE5OTBqdElxbVIzQ3lkVEMyQVdRMWdWaGtRYi0?oc=5",
         "publishedAt": "2026-09-07T20:00:00.000Z"
       },
@@ -38,13 +38,6 @@
         "publishedAt": "2026-09-07T00:53:19.000Z"
       },
       {
-        "time": "18:34",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-09-07T09:34:34.000Z"
-      },
-      {
         "time": "10:22",
         "title": "泉州電業---業績予想および期末配当予想の修正",
         "source": "TradingView",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-09-07T01:22:00.000Z"
       },
       {
-        "time": "22:30",
-        "title": "愛知県大口町に研究開発拠点「イノベーションハブ」開設 ヤマザキマザック、来年8月：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50VkZKZUh2MDdqU3dnRjQwMnZZbU8wVnRPQVFxcjBFTUlKNDBHM0hKeXFKR3VsZG9Od3dFYnJQNVFyN3E0al9kWEpQNm1jb2J4emhIbTZlbWRHLXJFNERN?oc=5",
-        "publishedAt": "2026-09-07T13:30:49.000Z"
+        "time": "17:00",
+        "title": "スター精密、小径部品加工に対応した スイス型自動旋盤を来春投入",
+        "source": "nikkan.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JNlBPOHFZQVFSUVR4eUx0aEVpRFJDdEswQ2RkaUZNTGplN0xKMGkwb05pM3F4bmdLUWdCSm5aSUdiYUNRVDMwbzdxWTZ4aHg0UzFQdGRVenY?oc=5",
+        "publishedAt": "2026-09-07T08:00:00.000Z"
+      },
+      {
+        "time": "14:25",
+        "title": "電気盤熱監視センサー市場規模は2026年506.6百万米ドル、成長率8.3%で拡大予測｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QSjM1T21CZXVHenRPY2dBRlNmQlE0YndtbVp1cmpaNHAwb254aUNTdHNkaE1nMGR6Zm56SlB1bUFFem1qS0IyRUg0YjdZWS1CTnNxYTlNcw?oc=5",
+        "publishedAt": "2026-09-07T05:25:35.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-09-07T01:13:25.000Z"
       },
       {
+        "time": "09:41",
+        "title": "英国王 ヘンリー王子らは「私人」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594615?source=rss",
+        "publishedAt": "2026-09-08T00:41:31.000Z"
+      },
+      {
         "time": "14:48",
         "title": "米海軍フリゲート候補 韓国優位か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594518?source=rss",
         "publishedAt": "2026-09-07T05:48:17.000Z"
-      },
-      {
-        "time": "16:48",
-        "title": "「殺人ロボ」巡り文書合意 国連",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594436?source=rss",
-        "publishedAt": "2026-09-06T07:48:38.000Z"
       }
     ],
     "economyHeadlines": [
@@ -112,11 +112,18 @@
         "publishedAt": "2026-09-07T14:53:25.000Z"
       },
       {
-        "time": "18:17",
-        "title": "円高進行 一時1ドル154円台前半",
+        "time": "09:01",
+        "title": "一時1ドル153円台 約半年ぶり水準",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594561?source=rss",
-        "publishedAt": "2026-09-07T09:17:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594610?source=rss",
+        "publishedAt": "2026-09-08T00:01:36.000Z"
+      },
+      {
+        "time": "09:18",
+        "title": "羽田発着の小型機に新規則 国交省",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594608?source=rss",
+        "publishedAt": "2026-09-08T00:18:15.000Z"
       },
       {
         "time": "06:48",
@@ -126,25 +133,18 @@
         "publishedAt": "2026-09-07T21:48:02.000Z"
       },
       {
+        "time": "09:38",
+        "title": "銀行の「個人マネー争奪戦」激化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594614?source=rss",
+        "publishedAt": "2026-09-08T00:38:27.000Z"
+      },
+      {
         "time": "18:45",
         "title": "「1000円」ジーンズ イオンが販売",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594563?source=rss",
         "publishedAt": "2026-09-07T09:45:26.000Z"
-      },
-      {
-        "time": "16:46",
-        "title": "与良正男さん死去 元毎日新聞",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594548?source=rss",
-        "publishedAt": "2026-09-07T07:46:07.000Z"
-      },
-      {
-        "time": "13:25",
-        "title": "みずほ楽天カード P還元率2%に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594530?source=rss",
-        "publishedAt": "2026-09-07T04:25:32.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-09-07T23:17:14.000Z"
       },
       {
-        "time": "19:49",
-        "title": "続く苦難 また浸水のラーメン店",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594571?source=rss",
-        "publishedAt": "2026-09-07T10:49:43.000Z"
-      },
-      {
         "time": "12:15",
         "title": "ケーキ店火災 死亡男性招かれずか",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594515?source=rss",
         "publishedAt": "2026-09-07T03:15:14.000Z"
+      },
+      {
+        "time": "09:23",
+        "title": "福岡の海岸に遺体 不明の大学生か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594611?source=rss",
+        "publishedAt": "2026-09-08T00:23:22.000Z"
       },
       {
         "time": "07:52",
