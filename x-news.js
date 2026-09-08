@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T07:40:29.443Z",
+  "updatedAt": "2026-09-08T08:24:54.796Z",
   "items": [
     {
-      "time": "15:18",
-      "title": "関東甲信9日にかけ線状降水帯恐れ",
+      "time": "16:56",
+      "title": "愛知・岐阜に「線状降水帯」発生",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594651?source=rss",
-      "publishedAt": "2026-09-08T06:18:39.000Z",
-      "xQuery": "関東甲信9日にかけ線状降水帯恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594660?source=rss",
+      "publishedAt": "2026-09-08T07:56:07.000Z",
+      "xQuery": "愛知・岐阜に「線状降水帯」発生"
     },
     {
-      "time": "09:38",
-      "title": "銀行の「個人マネー争奪戦」激化",
+      "time": "16:52",
+      "title": "東海道・山陽新幹線 一部見合わせ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594614?source=rss",
-      "publishedAt": "2026-09-08T00:38:27.000Z",
-      "xQuery": "銀行の「個人マネー争奪戦」激化"
+      "url": "https://news.yahoo.co.jp/pickup/6594658?source=rss",
+      "publishedAt": "2026-09-08T07:52:02.000Z",
+      "xQuery": "東海道・山陽新幹線 一部見合わせ"
     },
     {
       "time": "15:41",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡女性遺体 殺人容疑で3人逮捕"
     },
     {
-      "time": "14:31",
-      "title": "本人が望まぬ心肺蘇生の運用 調査",
+      "time": "16:55",
+      "title": "園児から「しね」手紙 いじめ相当",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594645?source=rss",
-      "publishedAt": "2026-09-08T05:31:37.000Z",
-      "xQuery": "本人が望まぬ心肺蘇生の運用 調査"
+      "url": "https://news.yahoo.co.jp/pickup/6594659?source=rss",
+      "publishedAt": "2026-09-08T07:55:40.000Z",
+      "xQuery": "園児から「しね」手紙 いじめ相当"
     },
     {
       "time": "15:00",
