@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-08T22:36:40.835Z",
+  "updatedAt": "2026-09-08T23:15:14.041Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "05:00",
-        "title": "北川鉄工、協働ロボ台車発売 複数工作機械で併用",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05YnlvalJheTVEZHBsY1NVbXJsSUtpbjYyN3lpLXhSZFJTLThLbnhQQ2ZOaS14eDMxX1d1dDdaanRudEtsRkxNek1XTU4xbUpCTG5VR082QmY?oc=5",
-        "publishedAt": "2026-09-08T20:00:00.000Z"
-      },
       {
         "time": "05:00",
         "title": "工作機械もサイバー防御 DMG森は全製品を遠隔更新、欧州規制に対応",
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjemRLVUR6Mm85bzJJWFNOVjlNRGc0RzRqNU9pTWl1R1RKWl96RWF0ZVhIdXVkT3JkNlc2a3VGWUVLdTZpWnZMdjkya1VmdGpuTUhvaHlfQkg5cXdiZU52Qm5JZ3YwWnFENlZqeg?oc=5",
+        "publishedAt": "2026-09-08T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "北川鉄工、協働ロボ台車発売 複数工作機械で併用",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05YnlvalJheTVEZHBsY1NVbXJsSUtpbjYyN3lpLXhSZFJTLThLbnhQQ2ZOaS14eDMxX1d1dDdaanRudEtsRkxNek1XTU4xbUpCTG5VR082QmY?oc=5",
         "publishedAt": "2026-09-08T20:00:00.000Z"
       },
       {
@@ -55,24 +55,24 @@
         "time": "01:45",
         "title": "Green AI、「360度カメラ×AI」で工場の省エネ施策を自動抽出する新サービス「360度AI現場診断」を提供開始（特許出願中）",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ec2Fjd242czlwWUYtbWdXRHNOMW1VT3Joc3FyRnYtV2VockFYRko2bTdqRjRNSEhVajI4Z3hUY2VkZ3J0MVFTN2VtSnlFSHk1XzkwMDhKLWwzU1lKRzB0LThzWjhuYU1wV19zZDh5Wkc5cTEyVWFiRUhfZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IM285RlVRM0hreTZ1d3lkTzllVXVZTW9zdEFzUzhJNlp2UlF5SW5JeURwZXVtQ3hlNjBHSGhJc2Njejd0bldDTDM2SjZ2Wmd4X1J0OG14V1ZTRVFFNDNlNjFPNmtxOUNUMGJMcUo3cVRadXd0aXBTMlRB?oc=5",
         "publishedAt": "2026-09-08T16:45:34.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:41",
+        "title": "米軍 イラン関連タンカーを攻撃",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594700?source=rss",
+        "publishedAt": "2026-09-08T22:41:26.000Z"
+      },
       {
         "time": "08:27",
         "title": "カンボジア側詐欺拠点 タイ軍公開",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594606?source=rss",
         "publishedAt": "2026-09-07T23:27:35.000Z"
-      },
-      {
-        "time": "20:41",
-        "title": "北朝鮮 なぜ日本海側に新型駆逐艦",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594555?source=rss",
-        "publishedAt": "2026-09-07T11:41:12.000Z"
       },
       {
         "time": "15:32",
@@ -96,11 +96,11 @@
         "publishedAt": "2026-09-08T02:45:12.000Z"
       },
       {
-        "time": "09:41",
-        "title": "英国王 ヘンリー王子らは「私人」",
+        "time": "08:05",
+        "title": "ルノワール作も 欧州で盗難相次ぐ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594615?source=rss",
-        "publishedAt": "2026-09-08T00:41:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594704?source=rss",
+        "publishedAt": "2026-09-08T23:05:15.000Z"
       }
     ],
     "economyHeadlines": [
@@ -170,11 +170,11 @@
         "publishedAt": "2026-09-08T10:52:48.000Z"
       },
       {
-        "time": "18:17",
-        "title": "東海地方で大雨 現地のSNS投稿",
+        "time": "07:39",
+        "title": "血を流した男性死亡 ひき逃げか",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594666?source=rss",
-        "publishedAt": "2026-09-08T09:17:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594701?source=rss",
+        "publishedAt": "2026-09-08T22:39:52.000Z"
       },
       {
         "time": "15:41",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T22:36:41.384Z",
+  "updatedAt": "2026-09-08T23:15:14.513Z",
   "items": [
     {
       "time": "06:06",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東～四国で線状降水帯の恐れ"
     },
     {
-      "time": "00:52",
-      "title": "愛知・岐阜の庄内川 氾濫注意報に",
+      "time": "07:41",
+      "title": "米軍 イラン関連タンカーを攻撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594689?source=rss",
-      "publishedAt": "2026-09-08T15:52:50.000Z",
-      "xQuery": "愛知・岐阜の庄内川 氾濫注意報に"
+      "url": "https://news.yahoo.co.jp/pickup/6594700?source=rss",
+      "publishedAt": "2026-09-08T22:41:26.000Z",
+      "xQuery": "米軍 イラン関連タンカーを攻撃"
     },
     {
       "time": "06:14",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "元法相の陣内孝雄さん死去"
     },
     {
-      "time": "16:55",
-      "title": "園児から「しね」手紙 いじめ相当",
+      "time": "07:39",
+      "title": "血を流した男性死亡 ひき逃げか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594659?source=rss",
-      "publishedAt": "2026-09-08T07:55:40.000Z",
-      "xQuery": "園児から「しね」手紙 いじめ相当"
+      "url": "https://news.yahoo.co.jp/pickup/6594701?source=rss",
+      "publishedAt": "2026-09-08T22:39:52.000Z",
+      "xQuery": "血を流した男性死亡 ひき逃げか"
     }
   ]
 };
