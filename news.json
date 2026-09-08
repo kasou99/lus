@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T04:41:12.141Z",
+  "updatedAt": "2026-09-08T05:18:04.398Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-09-07T20:00:00.000Z"
       },
       {
-        "time": "14:17",
-        "title": "【FISCO銘柄コメント】ＹＫＴ---電子部品実装機や工作機械、光電子装置を扱う機械専門商社(フィスコ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW1hdVVJbTNwZHJnNERWWXdjRW1CQWlES2VLTzJxTm0wQy1WbFh5UVdTN2tjWVpuaHNaUmw4d1ItcUd6bFVjREk5Wm94OFhGNDdjS0pwaG5WVHQxTlcwcW1iMDdQUjQ3dVZ2M1RkMWRmcFNYbm1BclpCdlJEbVZWN2pxMWFPSk0?oc=5",
-        "publishedAt": "2026-09-07T05:17:00.000Z"
-      },
-      {
         "time": "18:34",
         "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
         "source": "山陽新聞",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-09-07T09:34:34.000Z"
       },
       {
-        "time": "13:56",
-        "title": "泉州電業---大幅続伸、業績・配当予想を上方修正",
-        "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FZEw4dnA3TExHMk1vYjh0YXJIejZGUGJYbjlsUzJ4ZkpjbVo2YTRkTEsxUmlEQ1lRNjliTERJYU0yM1VQOGctZlYtZENZZ014eUZYYldieWY3cGMxXzFDR2N3YXE?oc=5",
-        "publishedAt": "2026-09-07T04:56:57.000Z"
-      },
-      {
         "time": "17:00",
         "title": "スター精密、小径部品加工に対応した スイス型自動旋盤を来春投入",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JNlBPOHFZQVFSUVR4eUx0aEVpRFJDdEswQ2RkaUZNTGplN0xKMGkwb05pM3F4bmdLUWdCSm5aSUdiYUNRVDMwbzdxWTZ4aHg0UzFQdGRVenY?oc=5",
         "publishedAt": "2026-09-07T08:00:00.000Z"
+      },
+      {
+        "time": "14:25",
+        "title": "電気盤熱監視センサー市場規模は2026年506.6百万米ドル、成長率8.3%で拡大予測｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QSjM1T21CZXVHenRPY2dBRlNmQlE0YndtbVp1cmpaNHAwb254aUNTdHNkaE1nMGR6Zm56SlB1bUFFem1qS0IyRUg0YjdZWS1CTnNxYTlNcw?oc=5",
+        "publishedAt": "2026-09-07T05:25:35.000Z"
+      },
+      {
+        "time": "14:55",
+        "title": "豊和工、ドローン開発・製造で国内新興企業と連携強化",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNmZMNjI0QTlpdXBEV0VPNExnS2o0eW9Za1lIT0ZiY1BkZEh4alNUVVpvTlNDSUYwNjdBVHdzdzgweFdjajE5X0pobi1sSGZJQTIwUEYwQ3RZMm80YXBkZEhYNC1WT0w1VDRIX0RrdllickdjdWMwTnc1eHpLM1F3bQ?oc=5",
+        "publishedAt": "2026-09-07T05:55:00.000Z"
       }
     ],
     "worldHeadlines": [

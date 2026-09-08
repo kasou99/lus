@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T04:41:12.863Z",
+  "updatedAt": "2026-09-08T05:18:05.156Z",
   "items": [
     {
       "time": "13:37",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "一時1ドル152円台 約半年ぶり水準"
     },
     {
+      "time": "09:38",
+      "title": "銀行の「個人マネー争奪戦」激化",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594614?source=rss",
+      "publishedAt": "2026-09-08T00:38:27.000Z",
+      "xQuery": "銀行の「個人マネー争奪戦」激化"
+    },
+    {
       "time": "09:41",
       "title": "英国王 ヘンリー王子らは「私人」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594615?source=rss",
       "publishedAt": "2026-09-08T00:41:31.000Z",
       "xQuery": "英国王 ヘンリー王子らは「私人」"
-    },
-    {
-      "time": "11:08",
-      "title": "小田急駅員の胸元にカメラ 効果は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594623?source=rss",
-      "publishedAt": "2026-09-08T02:08:29.000Z",
-      "xQuery": "小田急駅員の胸元にカメラ 効果は"
     }
   ]
 };
