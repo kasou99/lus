@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T09:40:28.600Z",
+  "updatedAt": "2026-09-08T10:18:43.193Z",
   "items": [
     {
       "time": "18:30",
@@ -10,22 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "愛知・岐阜の庄内川 氾濫特別警報"
     },
     {
-      "time": "16:56",
-      "title": "愛知・岐阜に「線状降水帯」発生",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594660?source=rss",
-      "publishedAt": "2026-09-08T07:56:07.000Z",
-      "xQuery": "愛知・岐阜に「線状降水帯」発生"
-    },
-    {
-      "time": "18:17",
-      "title": "東海地方で大雨 現地のSNS投稿",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594666?source=rss",
-      "publishedAt": "2026-09-08T09:17:34.000Z",
-      "xQuery": "東海地方で大雨 現地のSNS投稿"
-    },
-    {
       "time": "18:32",
       "title": "安全確保を 大雨のときのNG行動",
       "source": "Yahoo!ニュース",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "安全確保を 大雨のときのNG行動"
     },
     {
-      "time": "17:20",
-      "title": "中道 立憲系と公明系議員が離党へ",
+      "time": "18:56",
+      "title": "名古屋市 60万世帯に緊急安全確保",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594661?source=rss",
-      "publishedAt": "2026-09-08T08:20:18.000Z",
-      "xQuery": "中道 立憲系と公明系議員が離党へ"
+      "url": "https://news.yahoo.co.jp/pickup/6594674?source=rss",
+      "publishedAt": "2026-09-08T09:56:19.000Z",
+      "xQuery": "名古屋市 60万世帯に緊急安全確保"
+    },
+    {
+      "time": "18:55",
+      "title": "愛知・岐阜で特別警報 最新情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594673?source=rss",
+      "publishedAt": "2026-09-08T09:55:16.000Z",
+      "xQuery": "愛知・岐阜で特別警報 最新情報"
+    },
+    {
+      "time": "18:17",
+      "title": "東海地方で大雨 現地のSNS投稿",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594666?source=rss",
+      "publishedAt": "2026-09-08T09:17:34.000Z",
+      "xQuery": "東海地方で大雨 現地のSNS投稿"
     }
   ]
 };
