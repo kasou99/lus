@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T08:24:54.796Z",
+  "updatedAt": "2026-09-08T08:43:42.164Z",
   "items": [
     {
       "time": "16:56",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "愛知・岐阜に「線状降水帯」発生"
     },
     {
-      "time": "16:52",
-      "title": "東海道・山陽新幹線 一部見合わせ",
+      "time": "16:34",
+      "title": "仮釈放中の性犯罪者にGPS 実験へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594658?source=rss",
-      "publishedAt": "2026-09-08T07:52:02.000Z",
-      "xQuery": "東海道・山陽新幹線 一部見合わせ"
+      "url": "https://news.yahoo.co.jp/pickup/6594655?source=rss",
+      "publishedAt": "2026-09-08T07:34:28.000Z",
+      "xQuery": "仮釈放中の性犯罪者にGPS 実験へ"
+    },
+    {
+      "time": "17:20",
+      "title": "中道 立憲系と公明系議員が離党へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594661?source=rss",
+      "publishedAt": "2026-09-08T08:20:18.000Z",
+      "xQuery": "中道 立憲系と公明系議員が離党へ"
     },
     {
       "time": "15:41",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594659?source=rss",
       "publishedAt": "2026-09-08T07:55:40.000Z",
       "xQuery": "園児から「しね」手紙 いじめ相当"
-    },
-    {
-      "time": "15:00",
-      "title": "デヴィ夫人に罰金20万円を求刑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594649?source=rss",
-      "publishedAt": "2026-09-08T06:00:40.000Z",
-      "xQuery": "デヴィ夫人に罰金20万円を求刑"
     }
   ]
 };
