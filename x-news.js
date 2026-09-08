@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T02:24:47.509Z",
+  "updatedAt": "2026-09-08T02:43:01.212Z",
   "items": [
     {
       "time": "10:36",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "一時1ドル153円台 約半年ぶり水準"
     },
     {
-      "time": "09:23",
-      "title": "福岡の海岸に遺体 不明の大学生か",
+      "time": "10:45",
+      "title": "EU グリーンランドに360億円投資",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594611?source=rss",
-      "publishedAt": "2026-09-08T00:23:22.000Z",
-      "xQuery": "福岡の海岸に遺体 不明の大学生か"
+      "url": "https://news.yahoo.co.jp/pickup/6594621?source=rss",
+      "publishedAt": "2026-09-08T01:45:49.000Z",
+      "xQuery": "EU グリーンランドに360億円投資"
     },
     {
-      "time": "09:15",
-      "title": "英JLR 従業員4000人を削減へ",
+      "time": "11:26",
+      "title": "福岡の海岸に遺体 不明19歳と確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594613?source=rss",
-      "publishedAt": "2026-09-08T00:15:14.000Z",
-      "xQuery": "英JLR 従業員4000人を削減へ"
+      "url": "https://news.yahoo.co.jp/pickup/6594627?source=rss",
+      "publishedAt": "2026-09-08T02:26:22.000Z",
+      "xQuery": "福岡の海岸に遺体 不明19歳と確認"
     }
   ]
 };
