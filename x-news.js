@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T06:30:47.324Z",
+  "updatedAt": "2026-09-08T07:19:30.883Z",
   "items": [
     {
       "time": "15:18",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "関東甲信9日にかけ線状降水帯恐れ"
     },
     {
-      "time": "12:30",
-      "title": "車水没 市は通報3分前に水位把握",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594631?source=rss",
-      "publishedAt": "2026-09-08T03:30:44.000Z",
-      "xQuery": "車水没 市は通報3分前に水位把握"
-    },
-    {
       "time": "09:38",
       "title": "銀行の「個人マネー争奪戦」激化",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "銀行の「個人マネー争奪戦」激化"
     },
     {
-      "time": "09:41",
-      "title": "英国王 ヘンリー王子らは「私人」",
+      "time": "15:41",
+      "title": "福岡女性遺体 殺人容疑で3人逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594615?source=rss",
-      "publishedAt": "2026-09-08T00:41:31.000Z",
-      "xQuery": "英国王 ヘンリー王子らは「私人」"
+      "url": "https://news.yahoo.co.jp/pickup/6594653?source=rss",
+      "publishedAt": "2026-09-08T06:41:15.000Z",
+      "xQuery": "福岡女性遺体 殺人容疑で3人逮捕"
     },
     {
       "time": "14:31",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594645?source=rss",
       "publishedAt": "2026-09-08T05:31:37.000Z",
       "xQuery": "本人が望まぬ心肺蘇生の運用 調査"
+    },
+    {
+      "time": "15:00",
+      "title": "デヴィ夫人に罰金20万円を求刑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594649?source=rss",
+      "publishedAt": "2026-09-08T06:00:40.000Z",
+      "xQuery": "デヴィ夫人に罰金20万円を求刑"
     }
   ]
 };
