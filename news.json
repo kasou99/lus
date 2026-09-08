@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-08T01:50:34.599Z",
+  "updatedAt": "2026-09-08T02:24:46.593Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "07:30",
+        "title": "タンガロイとNTKカッティングツールが合併へ、両ブランドは継続して提供：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tT3h0em5ISzVHVTRDdkZvb0ZBZ1FkQ0FCRjF3ejV3a3JwMW41UU5PWkswQUNwSnJpXzdubUl6WF8xNVljUEVRdDFLVlhKUEdYRm45SVNGOTd0dEVCNmw2Q1R6V1hSZHNjWHRwVmlWcw?oc=5",
+        "publishedAt": "2026-09-07T22:30:00.000Z"
+      },
       {
         "time": "06:13",
         "title": "ファナックでも安川電機でもない 「フィジカルAI」注目4銘柄の実名",
@@ -12,14 +19,14 @@
       {
         "time": "05:00",
         "title": "ロボットと働く／岩田製作所 自社で導入・活用 SIerも開始",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QdmluQm4zWE1VMnpkaDN0VUJBX2pjU0VURkx0ajNhWjlqaE9kSnJ4Sm1aQzVtRUxSVnZkSWE5OTBqdElxbVIzQ3lkVEMyQVdRMWdWaGtRYi0?oc=5",
         "publishedAt": "2026-09-07T20:00:00.000Z"
       },
       {
         "time": "14:17",
         "title": "【FISCO銘柄コメント】ＹＫＴ---電子部品実装機や工作機械、光電子装置を扱う機械専門商社(フィスコ)",
-        "source": "Yahoo!ファイナンス",
+        "source": "finance.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW1hdVVJbTNwZHJnNERWWXdjRW1CQWlES2VLTzJxTm0wQy1WbFh5UVdTN2tjWVpuaHNaUmw4d1ItcUd6bFVjREk5Wm94OFhGNDdjS0pwaG5WVHQxTlcwcW1iMDdQUjQ3dVZ2M1RkMWRmcFNYbm1BclpCdlJEbVZWN2pxMWFPSk0?oc=5",
         "publishedAt": "2026-09-07T05:17:00.000Z"
       },
@@ -40,23 +47,16 @@
       {
         "time": "13:56",
         "title": "泉州電業---大幅続伸、業績・配当予想を上方修正",
-        "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FZEw4dnA3TExHMk1vYjh0YXJIejZGUGJYbjlsUzJ4ZkpjbVo2YTRkTEsxUmlEQ1lRNjliTERJYU0yM1VQOGctZlYtZENZZ014eUZYYldieWY3cGMxXzFDR2N3YXE?oc=5",
-        "publishedAt": "2026-09-07T04:56:57.000Z"
+        "source": "tradingview.com",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XQWh1NXI5MnVudnVWYzVIWmFrNFIwb0FjVVNFRUhhY0ZFNnVlUURxTWJTQ01FcDNXM09vSnkycm4zQzZqQTZwemwtaldmdV9Nd3NSQmZYZWVGZXZSR0ZkZlktS3pWQQ?oc=5",
+        "publishedAt": "2026-09-07T04:56:00.000Z"
       },
       {
         "time": "17:00",
         "title": "スター精密、小径部品加工に対応した スイス型自動旋盤を来春投入",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JNlBPOHFZQVFSUVR4eUx0aEVpRFJDdEswQ2RkaUZNTGplN0xKMGkwb05pM3F4bmdLUWdCSm5aSUdiYUNRVDMwbzdxWTZ4aHg0UzFQdGRVenY?oc=5",
         "publishedAt": "2026-09-07T08:00:00.000Z"
-      },
-      {
-        "time": "14:25",
-        "title": "電気盤熱監視センサー市場規模は2026年506.6百万米ドル、成長率8.3%で拡大予測｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QSjM1T21CZXVHenRPY2dBRlNmQlE0YndtbVp1cmpaNHAwb254aUNTdHNkaE1nMGR6Zm56SlB1bUFFem1qS0IyRUg0YjdZWS1CTnNxYTlNcw?oc=5",
-        "publishedAt": "2026-09-07T05:25:35.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "12:44",
-        "title": "アンダーパスで車水没 1人死亡",
+        "time": "10:59",
+        "title": "土砂崩れ作業員1人生き埋め 静岡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594525?source=rss",
-        "publishedAt": "2026-09-07T03:44:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594622?source=rss",
+        "publishedAt": "2026-09-08T01:59:01.000Z"
       },
       {
         "time": "08:17",
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
