@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T05:39:25.638Z",
+  "updatedAt": "2026-09-08T06:30:47.324Z",
   "items": [
     {
-      "time": "13:37",
-      "title": "東海 9日朝にかけ線状降水帯恐れ",
+      "time": "15:18",
+      "title": "関東甲信9日にかけ線状降水帯恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594642?source=rss",
-      "publishedAt": "2026-09-08T04:37:55.000Z",
-      "xQuery": "東海 9日朝にかけ線状降水帯恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594651?source=rss",
+      "publishedAt": "2026-09-08T06:18:39.000Z",
+      "xQuery": "関東甲信9日にかけ線状降水帯恐れ"
     },
     {
       "time": "12:30",
