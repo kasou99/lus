@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T03:21:12.641Z",
+  "updatedAt": "2026-09-08T03:42:06.173Z",
   "items": [
     {
       "time": "10:36",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "10日まで大雨恐れ 道路への影響大"
     },
     {
-      "time": "11:34",
-      "title": "景気拡大 円安と物価高で実感薄く",
+      "time": "08:27",
+      "title": "カンボジア側詐欺拠点 タイ軍公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594628?source=rss",
-      "publishedAt": "2026-09-08T02:34:49.000Z",
-      "xQuery": "景気拡大 円安と物価高で実感薄く"
+      "url": "https://news.yahoo.co.jp/pickup/6594606?source=rss",
+      "publishedAt": "2026-09-07T23:27:35.000Z",
+      "xQuery": "カンボジア側詐欺拠点 タイ軍公開"
     },
     {
-      "time": "06:48",
-      "title": "金利上昇 住宅ローン返済者ら悩み",
+      "time": "12:08",
+      "title": "一時1ドル152円台 約半年ぶり水準",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594597?source=rss",
-      "publishedAt": "2026-09-07T21:48:02.000Z",
-      "xQuery": "金利上昇 住宅ローン返済者ら悩み"
+      "url": "https://news.yahoo.co.jp/pickup/6594633?source=rss",
+      "publishedAt": "2026-09-08T03:08:53.000Z",
+      "xQuery": "一時1ドル152円台 約半年ぶり水準"
     },
     {
-      "time": "11:45",
-      "title": "エッフェル塔 ストライキで閉鎖",
+      "time": "12:30",
+      "title": "車水没 市は通報3分前に水位把握",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594629?source=rss",
-      "publishedAt": "2026-09-08T02:45:12.000Z",
-      "xQuery": "エッフェル塔 ストライキで閉鎖"
+      "url": "https://news.yahoo.co.jp/pickup/6594631?source=rss",
+      "publishedAt": "2026-09-08T03:30:44.000Z",
+      "xQuery": "車水没 市は通報3分前に水位把握"
     },
     {
       "time": "11:26",
