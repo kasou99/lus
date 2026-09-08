@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T23:15:14.513Z",
+  "updatedAt": "2026-09-08T23:37:34.886Z",
   "items": [
     {
       "time": "06:06",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "大雨 名古屋では多くの帰宅困難者"
     },
     {
-      "time": "06:20",
-      "title": "元法相の陣内孝雄さん死去",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594695?source=rss",
-      "publishedAt": "2026-09-08T21:20:50.000Z",
-      "xQuery": "元法相の陣内孝雄さん死去"
-    },
-    {
       "time": "07:39",
       "title": "血を流した男性死亡 ひき逃げか",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594701?source=rss",
       "publishedAt": "2026-09-08T22:39:52.000Z",
       "xQuery": "血を流した男性死亡 ひき逃げか"
+    },
+    {
+      "time": "08:34",
+      "title": "折り畳み式iPhone 開発に約10年",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594706?source=rss",
+      "publishedAt": "2026-09-08T23:34:50.000Z",
+      "xQuery": "折り畳み式iPhone 開発に約10年"
     }
   ]
 };
