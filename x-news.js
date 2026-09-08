@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T16:20:25.224Z",
+  "updatedAt": "2026-09-08T16:40:07.545Z",
   "items": [
     {
       "time": "00:52",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "近畿9日昼前にかけ線状降水帯恐れ"
     },
     {
-      "time": "22:31",
-      "title": "アジア大会の複数施設も大雨被害",
+      "time": "01:08",
+      "title": "アンダーパス規制 対象拡大を検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594687?source=rss",
-      "publishedAt": "2026-09-08T13:31:44.000Z",
-      "xQuery": "アジア大会の複数施設も大雨被害"
+      "url": "https://news.yahoo.co.jp/pickup/6594691?source=rss",
+      "publishedAt": "2026-09-08T16:08:30.000Z",
+      "xQuery": "アンダーパス規制 対象拡大を検討"
     },
     {
-      "time": "19:53",
-      "title": "なぜ突然の円高に 背景と見通し",
+      "time": "16:55",
+      "title": "園児から「しね」手紙 いじめ相当",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594665?source=rss",
-      "publishedAt": "2026-09-08T10:53:51.000Z",
-      "xQuery": "なぜ突然の円高に 背景と見通し"
+      "url": "https://news.yahoo.co.jp/pickup/6594659?source=rss",
+      "publishedAt": "2026-09-08T07:55:40.000Z",
+      "xQuery": "園児から「しね」手紙 いじめ相当"
     }
   ]
 };
