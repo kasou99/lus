@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T10:18:43.193Z",
+  "updatedAt": "2026-09-08T10:38:43.693Z",
   "items": [
     {
       "time": "18:30",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594671?source=rss",
       "publishedAt": "2026-09-08T09:30:49.000Z",
       "xQuery": "愛知・岐阜の庄内川 氾濫特別警報"
+    },
+    {
+      "time": "19:20",
+      "title": "中継 特別警報受け気象庁など会見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594675?source=rss",
+      "publishedAt": "2026-09-08T10:20:24.000Z",
+      "xQuery": "中継 特別警報受け気象庁など会見"
     },
     {
       "time": "18:32",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594674?source=rss",
       "publishedAt": "2026-09-08T09:56:19.000Z",
       "xQuery": "名古屋市 60万世帯に緊急安全確保"
-    },
-    {
-      "time": "18:55",
-      "title": "愛知・岐阜で特別警報 最新情報",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594673?source=rss",
-      "publishedAt": "2026-09-08T09:55:16.000Z",
-      "xQuery": "愛知・岐阜で特別警報 最新情報"
     },
     {
       "time": "18:17",
