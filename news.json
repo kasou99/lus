@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-08T19:14:12.060Z",
+  "updatedAt": "2026-09-08T19:37:13.979Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "15:10",
         "title": "「世界一奪還を目標に」技能五輪国際大会のCNC旋盤に出場 片野諒人さん壮行会 山口（ｔｙｓテレビ山口）",
-        "source": "news.yahoo.co.jp",
+        "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhS1lNR1BFUkJpSHZvajFZbXhpUkhEY3lacUtCbVdSb0pEV1lldkdVLWZiaFFGejUySUloN1Bqc3JFYm9SOHVwaUtwNFhVTHRuT1BOeG5LUW9hc2tlcWF5bzZuUjhqa3Zqak9faE4tM1IyM1YzWGxPWG5rdktRNXc?oc=5",
         "publishedAt": "2026-09-08T06:10:25.000Z"
       },
@@ -19,9 +19,16 @@
       {
         "time": "15:05",
         "title": "「世界一奪還を目標に」技能五輪国際大会のCNC旋盤に出場 片野諒人さん壮行会 山口",
-        "source": "topics.smt.docomo.ne.jp",
+        "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTZHBYT294eTJ4T3NZQlpYcE1oV1QxejJvaXY2X0pKVGJpc2RnUm1vRW5WS0xSNl9NNnREb1lwU3FhZW9uRk1UR3g4eUw0X09jOERvYmFXcHRsbzJ5Mk5wS2EzN0otSV9vMEROR1c5VGZsZmUx0gF0QVVfeXFMUFNkcFhPb3h5MnhPc1lCWlhwTWhXVDF6Mm9pdjZfSkpUYmlzZGdSbW9FblZLTFI2X002dERvWXBTcWFlb25GTVRHeDh5TDRfT2M4RG9iYVdwdGxvMnkyTnBLYTM3Si1JX28wRE5HVzlUZmxmZTE?oc=5",
         "publishedAt": "2026-09-08T06:05:00.000Z"
+      },
+      {
+        "time": "07:00",
+        "title": "個人投資家STF氏の投資手法、低位株や工作機械株など注目銘柄を明かす",
+        "source": "ログミーFinance",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XaTgyc09MNmRPYUhiYXFqdGtwZU5sVFozaFdUaExBN2E3NFI3U1BUYTh2M0pBN2hWb1pLdDhxQlZkaDJiQ1dXRlpweUVfTXVRX3c?oc=5",
+        "publishedAt": "2026-09-07T22:00:01.000Z"
       },
       {
         "time": "12:15",
@@ -29,6 +36,13 @@
         "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DenJlVFJ5dE9tUi1VaTgtTnJnR0ZpVGN3N2I2RHdOQnl6QVRtSERHUk50amJHVkI1OUY4YUp5TGcyYnU1UWxaV2xvWExBeThIXzk4MVBveHpWZw?oc=5",
         "publishedAt": "2026-09-08T03:15:00.000Z"
+      },
+      {
+        "time": "12:54",
+        "title": "【探訪・ザ・カンパニー】江口電機（倉敷市）生産ラインの効率化を後押し",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q2Q0M0ZCeGgtMkdTajBHMDVWZVBIaWFzbTRCZm1MaGxzT0tXMTJxTng1QXh1YWFRR29nZ3RTNWhSYjdSdTdtSkplVkVEOVB1dkE?oc=5",
+        "publishedAt": "2026-09-08T03:54:50.000Z"
       },
       {
         "time": "06:13",
@@ -40,23 +54,9 @@
       {
         "time": "01:45",
         "title": "Green AI、「360度カメラ×AI」で工場の省エネ施策を自動抽出する新サービス「360度AI現場診断」を提供開始（特許出願中）",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ec2Fjd242czlwWUYtbWdXRHNOMW1VT3Joc3FyRnYtV2VockFYRko2bTdqRjRNSEhVajI4Z3hUY2VkZ3J0MVFTN2VtSnlFSHk1XzkwMDhKLWwzU1lKRzB0LThzWjhuYU1wV19zZDh5Wkc5cTEyVWFiRUhfZw?oc=5",
         "publishedAt": "2026-09-08T16:45:34.000Z"
-      },
-      {
-        "time": "17:22",
-        "title": "7軸ヒューマノイドアーム「HY 7」「Echo 5」などを米シカゴ「IMTS 2026」で展示予定 中国Huayan Robotics",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UeEdGaDZLSUZxNHlDMVNtckhoV1M2YnoyVVRVbjZLc0RjcFRSTDh1eEp6eTU3S2hGOW8xQVVWemhvQkZ5a0w2aFROcHNRRkdtQ1M0MWdSMTBBaUxram5sUGR1NlE5WVZUdk12RGJB?oc=5",
-        "publishedAt": "2026-09-08T08:22:13.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ロボットと働く／岩田製作所 自社で導入・活用 SIerも開始",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QdmluQm4zWE1VMnpkaDN0VUJBX2pjU0VURkx0ajNhWjlqaE9kSnJ4Sm1aQzVtRUxSVnZkSWE5OTBqdElxbVIzQ3lkVEMyQVdRMWdWaGtRYi0?oc=5",
-        "publishedAt": "2026-09-07T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
