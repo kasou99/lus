@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T05:18:05.156Z",
+  "updatedAt": "2026-09-08T05:39:25.638Z",
   "items": [
     {
       "time": "13:37",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "車水没 市は通報3分前に水位把握"
     },
     {
-      "time": "12:08",
-      "title": "一時1ドル152円台 約半年ぶり水準",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594633?source=rss",
-      "publishedAt": "2026-09-08T03:08:53.000Z",
-      "xQuery": "一時1ドル152円台 約半年ぶり水準"
-    },
-    {
       "time": "09:38",
       "title": "銀行の「個人マネー争奪戦」激化",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594615?source=rss",
       "publishedAt": "2026-09-08T00:41:31.000Z",
       "xQuery": "英国王 ヘンリー王子らは「私人」"
+    },
+    {
+      "time": "14:31",
+      "title": "本人が望まぬ心肺蘇生の運用 調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594645?source=rss",
+      "publishedAt": "2026-09-08T05:31:37.000Z",
+      "xQuery": "本人が望まぬ心肺蘇生の運用 調査"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T05:18:04.398Z",
+  "updatedAt": "2026-09-08T05:39:24.586Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tT3h0em5ISzVHVTRDdkZvb0ZBZ1FkQ0FCRjF3ejV3a3JwMW41UU5PWkswQUNwSnJpXzdubUl6WF8xNVljUEVRdDFLVlhKUEdYRm45SVNGOTd0dEVCNmw2Q1R6V1hSZHNjWHRwVmlWcw?oc=5",
         "publishedAt": "2026-09-07T22:30:00.000Z"
+      },
+      {
+        "time": "12:54",
+        "title": "【探訪・ザ・カンパニー】江口電機（倉敷市）生産ラインの効率化を後押し",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q2Q0M0ZCeGgtMkdTajBHMDVWZVBIaWFzbTRCZm1MaGxzT0tXMTJxTng1QXh1YWFRR29nZ3RTNWhSYjdSdTdtSkplVkVEOVB1dkE?oc=5",
+        "publishedAt": "2026-09-08T03:54:50.000Z"
       },
       {
         "time": "12:15",
@@ -31,6 +38,13 @@
         "publishedAt": "2026-09-07T20:00:00.000Z"
       },
       {
+        "time": "22:30",
+        "title": "愛知県大口町に研究開発拠点「イノベーションハブ」開設 ヤマザキマザック、来年8月：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50VkZKZUh2MDdqU3dnRjQwMnZZbU8wVnRPQVFxcjBFTUlKNDBHM0hKeXFKR3VsZG9Od3dFYnJQNVFyN3E0al9kWEpQNm1jb2J4emhIbTZlbWRHLXJFNERN?oc=5",
+        "publishedAt": "2026-09-07T13:30:49.000Z"
+      },
+      {
         "time": "18:34",
         "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
         "source": "山陽新聞",
@@ -43,20 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JNlBPOHFZQVFSUVR4eUx0aEVpRFJDdEswQ2RkaUZNTGplN0xKMGkwb05pM3F4bmdLUWdCSm5aSUdiYUNRVDMwbzdxWTZ4aHg0UzFQdGRVenY?oc=5",
         "publishedAt": "2026-09-07T08:00:00.000Z"
-      },
-      {
-        "time": "14:25",
-        "title": "電気盤熱監視センサー市場規模は2026年506.6百万米ドル、成長率8.3%で拡大予測｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QSjM1T21CZXVHenRPY2dBRlNmQlE0YndtbVp1cmpaNHAwb254aUNTdHNkaE1nMGR6Zm56SlB1bUFFem1qS0IyRUg0YjdZWS1CTnNxYTlNcw?oc=5",
-        "publishedAt": "2026-09-07T05:25:35.000Z"
-      },
-      {
-        "time": "14:55",
-        "title": "豊和工、ドローン開発・製造で国内新興企業と連携強化",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNmZMNjI0QTlpdXBEV0VPNExnS2o0eW9Za1lIT0ZiY1BkZEh4alNUVVpvTlNDSUYwNjdBVHdzdzgweFdjajE5X0pobi1sSGZJQTIwUEYwQ3RZMm80YXBkZEhYNC1WT0w1VDRIX0RrdllickdjdWMwTnc1eHpLM1F3bQ?oc=5",
-        "publishedAt": "2026-09-07T05:55:00.000Z"
       }
     ],
     "worldHeadlines": [
