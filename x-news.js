@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T21:13:49.071Z",
+  "updatedAt": "2026-09-08T21:37:59.654Z",
   "items": [
     {
       "time": "06:06",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "愛知・岐阜の庄内川 氾濫注意報に"
     },
     {
-      "time": "20:13",
-      "title": "大雨で大きく波打つ川 名古屋市",
+      "time": "06:14",
+      "title": "大雨 名古屋では多くの帰宅困難者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594678?source=rss",
-      "publishedAt": "2026-09-08T11:13:21.000Z",
-      "xQuery": "大雨で大きく波打つ川 名古屋市"
+      "url": "https://news.yahoo.co.jp/pickup/6594694?source=rss",
+      "publishedAt": "2026-09-08T21:14:03.000Z",
+      "xQuery": "大雨 名古屋では多くの帰宅困難者"
     },
     {
-      "time": "01:08",
-      "title": "アンダーパス規制 対象拡大を検討",
+      "time": "06:20",
+      "title": "元法相の陣内孝雄さん死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594691?source=rss",
-      "publishedAt": "2026-09-08T16:08:30.000Z",
-      "xQuery": "アンダーパス規制 対象拡大を検討"
+      "url": "https://news.yahoo.co.jp/pickup/6594695?source=rss",
+      "publishedAt": "2026-09-08T21:20:50.000Z",
+      "xQuery": "元法相の陣内孝雄さん死去"
     },
     {
       "time": "16:55",
