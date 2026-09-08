@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T02:43:01.212Z",
+  "updatedAt": "2026-09-08T03:21:12.641Z",
   "items": [
     {
       "time": "10:36",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "10日まで大雨恐れ 道路への影響大"
     },
     {
-      "time": "10:59",
-      "title": "土砂崩れ作業員1人生き埋め 静岡",
+      "time": "11:34",
+      "title": "景気拡大 円安と物価高で実感薄く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594622?source=rss",
-      "publishedAt": "2026-09-08T01:59:01.000Z",
-      "xQuery": "土砂崩れ作業員1人生き埋め 静岡"
+      "url": "https://news.yahoo.co.jp/pickup/6594628?source=rss",
+      "publishedAt": "2026-09-08T02:34:49.000Z",
+      "xQuery": "景気拡大 円安と物価高で実感薄く"
     },
     {
-      "time": "09:01",
-      "title": "一時1ドル153円台 約半年ぶり水準",
+      "time": "06:48",
+      "title": "金利上昇 住宅ローン返済者ら悩み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594610?source=rss",
-      "publishedAt": "2026-09-08T00:01:36.000Z",
-      "xQuery": "一時1ドル153円台 約半年ぶり水準"
+      "url": "https://news.yahoo.co.jp/pickup/6594597?source=rss",
+      "publishedAt": "2026-09-07T21:48:02.000Z",
+      "xQuery": "金利上昇 住宅ローン返済者ら悩み"
     },
     {
-      "time": "10:45",
-      "title": "EU グリーンランドに360億円投資",
+      "time": "11:45",
+      "title": "エッフェル塔 ストライキで閉鎖",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594621?source=rss",
-      "publishedAt": "2026-09-08T01:45:49.000Z",
-      "xQuery": "EU グリーンランドに360億円投資"
+      "url": "https://news.yahoo.co.jp/pickup/6594629?source=rss",
+      "publishedAt": "2026-09-08T02:45:12.000Z",
+      "xQuery": "エッフェル塔 ストライキで閉鎖"
     },
     {
       "time": "11:26",

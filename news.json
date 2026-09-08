@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-08T02:43:00.127Z",
+  "updatedAt": "2026-09-08T03:21:11.886Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "12:15",
+        "title": "平田機工、熊本県菊池市に制御盤などを生産する七城第二工場を稼働",
+        "source": "オートメーション新聞WEB",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DenJlVFJ5dE9tUi1VaTgtTnJnR0ZpVGN3N2I2RHdOQnl6QVRtSERHUk50amJHVkI1OUY4YUp5TGcyYnU1UWxaV2xvWExBeThIXzk4MVBveHpWZw?oc=5",
+        "publishedAt": "2026-09-08T03:15:00.000Z"
+      },
       {
         "time": "07:30",
         "title": "タンガロイとNTKカッティングツールが合併へ、両ブランドは継続して提供：工作機械",
@@ -26,23 +33,23 @@
       {
         "time": "14:17",
         "title": "【FISCO銘柄コメント】ＹＫＴ---電子部品実装機や工作機械、光電子装置を扱う機械専門商社(フィスコ)",
-        "source": "finance.yahoo.co.jp",
+        "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW1hdVVJbTNwZHJnNERWWXdjRW1CQWlES2VLTzJxTm0wQy1WbFh5UVdTN2tjWVpuaHNaUmw4d1ItcUd6bFVjREk5Wm94OFhGNDdjS0pwaG5WVHQxTlcwcW1iMDdQUjQ3dVZ2M1RkMWRmcFNYbm1BclpCdlJEbVZWN2pxMWFPSk0?oc=5",
         "publishedAt": "2026-09-07T05:17:00.000Z"
       },
       {
-        "time": "18:34",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-09-07T09:34:34.000Z"
+        "time": "22:30",
+        "title": "愛知県大口町に研究開発拠点「イノベーションハブ」開設 ヤマザキマザック、来年8月：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50VkZKZUh2MDdqU3dnRjQwMnZZbU8wVnRPQVFxcjBFTUlKNDBHM0hKeXFKR3VsZG9Od3dFYnJQNVFyN3E0al9kWEpQNm1jb2J4emhIbTZlbWRHLXJFNERN?oc=5",
+        "publishedAt": "2026-09-07T13:30:49.000Z"
       },
       {
         "time": "13:56",
         "title": "泉州電業---大幅続伸、業績・配当予想を上方修正",
         "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FZEw4dnA3TExHMk1vYjh0YXJIejZGUGJYbjlsUzJ4ZkpjbVo2YTRkTEsxUmlEQ1lRNjliTERJYU0yM1VQOGctZlYtZENZZ014eUZYYldieWY3cGMxXzFDR2N3YXE?oc=5",
-        "publishedAt": "2026-09-07T04:56:57.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XQWh1NXI5MnVudnVWYzVIWmFrNFIwb0FjVVNFRUhhY0ZFNnVlUURxTWJTQ01FcDNXM09vSnkycm4zQzZqQTZwemwtaldmdV9Nd3NSQmZYZWVGZXZSR0ZkZlktS3pWQQ?oc=5",
+        "publishedAt": "2026-09-07T04:56:00.000Z"
       },
       {
         "time": "17:00",
@@ -50,13 +57,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JNlBPOHFZQVFSUVR4eUx0aEVpRFJDdEswQ2RkaUZNTGplN0xKMGkwb05pM3F4bmdLUWdCSm5aSUdiYUNRVDMwbzdxWTZ4aHg0UzFQdGRVenY?oc=5",
         "publishedAt": "2026-09-07T08:00:00.000Z"
-      },
-      {
-        "time": "14:25",
-        "title": "電気盤熱監視センサー市場規模は2026年506.6百万米ドル、成長率8.3%で拡大予測｜QYResearch",
-        "source": "note.com",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QSjM1T21CZXVHenRPY2dBRlNmQlE0YndtbVp1cmpaNHAwb254aUNTdHNkaE1nMGR6Zm56SlB1bUFFem1qS0IyRUg0YjdZWS1CTnNxYTlNcw?oc=5",
-        "publishedAt": "2026-09-07T05:25:35.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,11 +82,11 @@
         "publishedAt": "2026-09-08T01:45:49.000Z"
       },
       {
-        "time": "10:13",
-        "title": "貨物機オーバーランし5人死亡 米",
+        "time": "11:45",
+        "title": "エッフェル塔 ストライキで閉鎖",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594502?source=rss",
-        "publishedAt": "2026-09-07T01:13:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594629?source=rss",
+        "publishedAt": "2026-09-08T02:45:12.000Z"
       },
       {
         "time": "09:41",
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "12:08",
+        "title": "一時1ドル152円台 約半年ぶり水準",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594633?source=rss",
+        "publishedAt": "2026-09-08T03:08:53.000Z"
+      },
+      {
         "time": "11:34",
         "title": "景気拡大 円安と物価高で実感薄く",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594628?source=rss",
         "publishedAt": "2026-09-08T02:34:49.000Z"
-      },
-      {
-        "time": "09:01",
-        "title": "一時1ドル153円台 約半年ぶり水準",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594610?source=rss",
-        "publishedAt": "2026-09-08T00:01:36.000Z"
       },
       {
         "time": "06:48",
