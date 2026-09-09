@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T23:15:10.256Z",
+  "updatedAt": "2026-09-09T23:37:32.381Z",
   "items": [
     {
       "time": "06:46",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東京都心は22℃予想 10月中旬並み"
     },
     {
-      "time": "06:22",
-      "title": "高野山の宿坊 集団申告漏れ指摘",
+      "time": "08:08",
+      "title": "沖縄知事選デマ拡散 対応追われる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594798?source=rss",
-      "publishedAt": "2026-09-09T21:22:26.000Z",
-      "xQuery": "高野山の宿坊 集団申告漏れ指摘"
+      "url": "https://news.yahoo.co.jp/pickup/6594808?source=rss",
+      "publishedAt": "2026-09-09T23:08:19.000Z",
+      "xQuery": "沖縄知事選デマ拡散 対応追われる"
     },
     {
       "time": "08:00",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "有村治子氏を要職起用へ 手腕評価"
     },
     {
-      "time": "06:56",
-      "title": "閉山日前日の富士山 登山客混乱",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594801?source=rss",
-      "publishedAt": "2026-09-09T21:56:40.000Z",
-      "xQuery": "閉山日前日の富士山 登山客混乱"
-    },
-    {
       "time": "07:49",
       "title": "トラクター横転 運転の100歳死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594806?source=rss",
       "publishedAt": "2026-09-09T22:49:11.000Z",
       "xQuery": "トラクター横転 運転の100歳死亡"
+    },
+    {
+      "time": "07:23",
+      "title": "米アップル新製品発表会 Xの反応",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594804?source=rss",
+      "publishedAt": "2026-09-09T22:23:00.000Z",
+      "xQuery": "米アップル新製品発表会 Xの反応"
     }
   ]
 };
