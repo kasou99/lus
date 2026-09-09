@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-09T01:28:43.533Z",
+  "updatedAt": "2026-09-09T01:50:52.507Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "09:00",
         "title": "【設備保全DX】第2回 ファーマDX EXPO 大阪に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "prtimes.jp",
+        "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yVEhkdTM2dS1KakNRM2FicHpjNlVvN09yNWhqOG9oSThpUlgyeDJVYVlTNG9ZQ2kzUVFmRWhnWXVJcXdMcHFJMHVlMU9pSlM5dTBGSUxyZmNNODBpRXlYcFdIMDl4Y1BUTkE?oc=5",
         "publishedAt": "2026-09-09T00:00:01.000Z"
       },
@@ -24,18 +24,18 @@
         "publishedAt": "2026-09-08T20:00:00.000Z"
       },
       {
-        "time": "07:30",
-        "title": "小径精密加工の旋盤新モデル スター精密がヒューマノイド部品など向け：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aZ2xrOE8xYnZZdzdVdUp5cnp3VkQ1U1NtdXktdmJQSnY4MjFrd3YtMGxGaGhJc1NTdVI5LTVKeldxU0lqekFpWlhjWDg4TE1CbTVUbXRqZ0wtTFFpSWxqdi1WQXZad0hQeVZmZ0xJUQ?oc=5",
-        "publishedAt": "2026-09-08T22:30:00.000Z"
-      },
-      {
         "time": "07:25",
         "title": "9日の注目指標、工作機械受注と中国物価統計に市場の関心",
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56R2tpWHF3R0NZRXk0QWNKRjZ5Zmx5OXR0OVhhbkNSTkdUdV9aRzJMZE9rRnNDSTJkNUQwVWJsYWxMM0p2X3VUM2NhYmozQmtsT0lWWVlvTU13eGdGeTdzSks0QWlVTnhHUEozcnZTeFVvYWJO?oc=5",
         "publishedAt": "2026-09-08T22:25:00.000Z"
+      },
+      {
+        "time": "07:30",
+        "title": "小径精密加工の旋盤新モデル スター精密がヒューマノイド部品など向け：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aZ2xrOE8xYnZZdzdVdUp5cnp3VkQ1U1NtdXktdmJQSnY4MjFrd3YtMGxGaGhJc1NTdVI5LTVKeldxU0lqekFpWlhjWDg4TE1CbTVUbXRqZ0wtTFFpSWxqdi1WQXZad0hQeVZmZ0xJUQ?oc=5",
+        "publishedAt": "2026-09-08T22:30:00.000Z"
       },
       {
         "time": "07:08",
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "10:35",
+        "title": "NY原油3カ月ぶり高値 6日続伸",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594720?source=rss",
+        "publishedAt": "2026-09-09T01:35:30.000Z"
+      },
+      {
         "time": "20:16",
         "title": "日銀 今月の会合で利上げへ",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594712?source=rss",
         "publishedAt": "2026-09-09T00:24:35.000Z"
-      },
-      {
-        "time": "17:39",
-        "title": "東海道・山陽新幹線 運転を再開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594663?source=rss",
-        "publishedAt": "2026-09-08T08:39:56.000Z"
       },
       {
         "time": "19:53",
