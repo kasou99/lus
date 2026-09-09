@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-09-09T04:21:04.926Z",
+  "updatedAt": "2026-09-09T04:41:34.199Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "09:00",
         "title": "【設備保全DX】第2回 ファーマDX EXPO 大阪に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "prtimes.jp",
+        "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yVEhkdTM2dS1KakNRM2FicHpjNlVvN09yNWhqOG9oSThpUlgyeDJVYVlTNG9ZQ2kzUVFmRWhnWXVJcXdMcHFJMHVlMU9pSlM5dTBGSUxyZmNNODBpRXlYcFdIMDl4Y1BUTkE?oc=5",
         "publishedAt": "2026-09-09T00:00:01.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "工作機械もサイバー防御 DMG森は全製品を遠隔更新、欧州規制に対応",
-        "source": "nikkei.com",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjemRLVUR6Mm85bzJJWFNOVjlNRGc0RzRqNU9pTWl1R1RKWl96RWF0ZVhIdXVkT3JkNlc2a3VGWUVLdTZpWnZMdjkya1VmdGpuTUhvaHlfQkg5cXdiZU52Qm5JZ3YwWnFENlZqeg?oc=5",
-        "publishedAt": "2026-09-08T20:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -24,9 +17,16 @@
         "publishedAt": "2026-09-08T20:00:00.000Z"
       },
       {
+        "time": "05:00",
+        "title": "工作機械もサイバー防御 DMG森は全製品を遠隔更新、欧州規制に対応",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjemRLVUR6Mm85bzJJWFNOVjlNRGc0RzRqNU9pTWl1R1RKWl96RWF0ZVhIdXVkT3JkNlc2a3VGWUVLdTZpWnZMdjkya1VmdGpuTUhvaHlfQkg5cXdiZU52Qm5JZ3YwWnFENlZqeg?oc=5",
+        "publishedAt": "2026-09-08T20:00:00.000Z"
+      },
+      {
         "time": "07:30",
         "title": "小径精密加工の旋盤新モデル スター精密がヒューマノイド部品など向け：工作機械",
-        "source": "monoist.itmedia.co.jp",
+        "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aZ2xrOE8xYnZZdzdVdUp5cnp3VkQ1U1NtdXktdmJQSnY4MjFrd3YtMGxGaGhJc1NTdVI5LTVKeldxU0lqekFpWlhjWDg4TE1CbTVUbXRqZ0wtTFFpSWxqdi1WQXZad0hQeVZmZ0xJUQ?oc=5",
         "publishedAt": "2026-09-08T22:30:00.000Z"
       },
@@ -96,11 +96,11 @@
         "publishedAt": "2026-09-09T03:18:51.000Z"
       },
       {
-        "time": "15:32",
-        "title": "露最後の独総領事館が閉鎖へ 背景",
+        "time": "13:29",
+        "title": "国連推奨地図 北方領土が露領の色",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594647?source=rss",
-        "publishedAt": "2026-09-08T06:32:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594743?source=rss",
+        "publishedAt": "2026-09-09T04:29:57.000Z"
       }
     ],
     "economyHeadlines": [

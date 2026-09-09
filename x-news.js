@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T04:21:05.489Z",
+  "updatedAt": "2026-09-09T04:41:34.901Z",
   "items": [
     {
       "time": "12:06",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中露首脳が祝電 北朝鮮建国78周年"
     },
     {
-      "time": "12:18",
-      "title": "NY市長 異例の労働者組織化支援",
+      "time": "13:16",
+      "title": "車200台が浸水し立ち往生 名古屋",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594736?source=rss",
-      "publishedAt": "2026-09-09T03:18:51.000Z",
-      "xQuery": "NY市長 異例の労働者組織化支援"
+      "url": "https://news.yahoo.co.jp/pickup/6594742?source=rss",
+      "publishedAt": "2026-09-09T04:16:32.000Z",
+      "xQuery": "車200台が浸水し立ち往生 名古屋"
     },
     {
       "time": "11:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "富士山 意識不明の登山者2人発見"
     },
     {
-      "time": "13:06",
-      "title": "元SB選手 宮地克彦容疑者を逮捕",
+      "time": "13:29",
+      "title": "国連推奨地図 北方領土が露領の色",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594741?source=rss",
-      "publishedAt": "2026-09-09T04:06:10.000Z",
-      "xQuery": "元SB選手 宮地克彦容疑者を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6594743?source=rss",
+      "publishedAt": "2026-09-09T04:29:57.000Z",
+      "xQuery": "国連推奨地図 北方領土が露領の色"
     }
   ]
 };
