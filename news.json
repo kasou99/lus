@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T03:21:43.979Z",
+  "updatedAt": "2026-09-09T03:42:21.508Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-09-08T20:00:00.000Z"
       },
       {
-        "time": "07:25",
-        "title": "9日の注目指標、工作機械受注と中国物価統計に市場の関心",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56R2tpWHF3R0NZRXk0QWNKRjZ5Zmx5OXR0OVhhbkNSTkdUdV9aRzJMZE9rRnNDSTJkNUQwVWJsYWxMM0p2X3VUM2NhYmozQmtsT0lWWVlvTU13eGdGeTdzSks0QWlVTnhHUEozcnZTeFVvYWJO?oc=5",
-        "publishedAt": "2026-09-08T22:25:00.000Z"
-      },
-      {
         "time": "07:30",
         "title": "小径精密加工の旋盤新モデル スター精密がヒューマノイド部品など向け：工作機械",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aZ2xrOE8xYnZZdzdVdUp5cnp3VkQ1U1NtdXktdmJQSnY4MjFrd3YtMGxGaGhJc1NTdVI5LTVKeldxU0lqekFpWlhjWDg4TE1CbTVUbXRqZ0wtTFFpSWxqdi1WQXZad0hQeVZmZ0xJUQ?oc=5",
         "publishedAt": "2026-09-08T22:30:00.000Z"
+      },
+      {
+        "time": "07:25",
+        "title": "9日の注目指標、工作機械受注と中国物価統計に市場の関心",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56R2tpWHF3R0NZRXk0QWNKRjZ5Zmx5OXR0OVhhbkNSTkdUdV9aRzJMZE9rRnNDSTJkNUQwVWJsYWxMM0p2X3VUM2NhYmozQmtsT0lWWVlvTU13eGdGeTdzSks0QWlVTnhHUEozcnZTeFVvYWJO?oc=5",
+        "publishedAt": "2026-09-08T22:25:00.000Z"
       },
       {
         "time": "07:08",
@@ -126,13 +126,6 @@
         "publishedAt": "2026-09-07T21:48:02.000Z"
       },
       {
-        "time": "11:34",
-        "title": "景気拡大 円安と物価高で実感薄く",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594628?source=rss",
-        "publishedAt": "2026-09-08T02:34:49.000Z"
-      },
-      {
         "time": "09:24",
         "title": "大阪メトロ 磁気切符を廃止へ",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594665?source=rss",
         "publishedAt": "2026-09-08T10:53:51.000Z"
+      },
+      {
+        "time": "09:38",
+        "title": "銀行の「個人マネー争奪戦」激化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594614?source=rss",
+        "publishedAt": "2026-09-08T00:38:27.000Z"
       }
     ],
     "localHeadlines": [

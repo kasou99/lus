@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T03:21:44.845Z",
+  "updatedAt": "2026-09-09T03:42:22.215Z",
   "items": [
     {
       "time": "12:06",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "西日本～東北で大雨続く 厳重警戒"
     },
     {
-      "time": "10:35",
-      "title": "NY原油3カ月ぶり高値 6日続伸",
+      "time": "11:36",
+      "title": "中露首脳が祝電 北朝鮮建国78周年",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594720?source=rss",
-      "publishedAt": "2026-09-09T01:35:30.000Z",
-      "xQuery": "NY原油3カ月ぶり高値 6日続伸"
+      "url": "https://news.yahoo.co.jp/pickup/6594723?source=rss",
+      "publishedAt": "2026-09-09T02:36:20.000Z",
+      "xQuery": "中露首脳が祝電 北朝鮮建国78周年"
     },
     {
       "time": "11:50",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "富士山 意識不明の登山者2人発見"
     },
     {
-      "time": "11:05",
-      "title": "数学懸賞問題を解決 OpenAI発表",
+      "time": "08:34",
+      "title": "折り畳み式iPhone 開発に約10年",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594721?source=rss",
-      "publishedAt": "2026-09-09T02:05:36.000Z",
-      "xQuery": "数学懸賞問題を解決 OpenAI発表"
+      "url": "https://news.yahoo.co.jp/pickup/6594706?source=rss",
+      "publishedAt": "2026-09-08T23:34:50.000Z",
+      "xQuery": "折り畳み式iPhone 開発に約10年"
     }
   ]
 };
