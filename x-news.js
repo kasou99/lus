@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T01:50:54.120Z",
+  "updatedAt": "2026-09-09T02:24:42.022Z",
   "items": [
     {
       "time": "09:02",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594710?source=rss",
       "publishedAt": "2026-09-09T00:02:12.000Z",
       "xQuery": "広範囲で大雨 線状降水帯に警戒"
-    },
-    {
-      "time": "08:48",
-      "title": "上智大生殺害30年 父親に焦燥感",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594708?source=rss",
-      "publishedAt": "2026-09-08T23:48:56.000Z",
-      "xQuery": "上智大生殺害30年 父親に焦燥感"
     },
     {
       "time": "10:03",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594709?source=rss",
       "publishedAt": "2026-09-09T00:00:36.000Z",
       "xQuery": "ケーキ店火災 男性再来店後に出火"
+    },
+    {
+      "time": "11:11",
+      "title": "富士山 意識不明の登山者2人発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594722?source=rss",
+      "publishedAt": "2026-09-09T02:11:44.000Z",
+      "xQuery": "富士山 意識不明の登山者2人発見"
     },
     {
       "time": "09:24",
