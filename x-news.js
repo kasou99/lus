@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T08:24:29.467Z",
+  "updatedAt": "2026-09-09T08:42:35.903Z",
   "items": [
     {
       "time": "16:31",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "東北〜近畿で大雨 災害に厳重警戒"
     },
     {
+      "time": "17:19",
+      "title": "男児が海に流され行方不明 神奈川",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594763?source=rss",
+      "publishedAt": "2026-09-09T08:19:02.000Z",
+      "xQuery": "男児が海に流され行方不明 神奈川"
+    },
+    {
       "time": "16:41",
       "title": "日本国旗を押し売りか 全国各地で",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594753?source=rss",
       "publishedAt": "2026-09-09T07:02:53.000Z",
       "xQuery": "コメ農家の廃業 過去最多ペース"
-    },
-    {
-      "time": "16:35",
-      "title": "丸亀製麺の運営会社に勧告 公取委",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594758?source=rss",
-      "publishedAt": "2026-09-09T07:35:17.000Z",
-      "xQuery": "丸亀製麺の運営会社に勧告 公取委"
     }
   ]
 };
