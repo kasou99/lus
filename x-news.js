@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T08:42:35.903Z",
+  "updatedAt": "2026-09-09T09:20:22.897Z",
   "items": [
     {
-      "time": "16:31",
-      "title": "中道改革連合「分裂」正式に決定",
+      "time": "18:12",
+      "title": "東海や関東 9日夜にかけ大雨恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594759?source=rss",
-      "publishedAt": "2026-09-09T07:31:40.000Z",
-      "xQuery": "中道改革連合「分裂」正式に決定"
+      "url": "https://news.yahoo.co.jp/pickup/6594772?source=rss",
+      "publishedAt": "2026-09-09T09:12:05.000Z",
+      "xQuery": "東海や関東 9日夜にかけ大雨恐れ"
     },
     {
-      "time": "15:18",
-      "title": "東北〜近畿で大雨 災害に厳重警戒",
+      "time": "12:48",
+      "title": "米大統領 独極右AfDの勝利を絶賛",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594749?source=rss",
-      "publishedAt": "2026-09-09T06:18:51.000Z",
-      "xQuery": "東北〜近畿で大雨 災害に厳重警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6594739?source=rss",
+      "publishedAt": "2026-09-09T03:48:21.000Z",
+      "xQuery": "米大統領 独極右AfDの勝利を絶賛"
     },
     {
       "time": "17:19",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日本国旗を押し売りか 全国各地で"
     },
     {
-      "time": "16:02",
-      "title": "コメ農家の廃業 過去最多ペース",
+      "time": "16:35",
+      "title": "丸亀製麺の運営会社に勧告 公取委",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594753?source=rss",
-      "publishedAt": "2026-09-09T07:02:53.000Z",
-      "xQuery": "コメ農家の廃業 過去最多ペース"
+      "url": "https://news.yahoo.co.jp/pickup/6594758?source=rss",
+      "publishedAt": "2026-09-09T07:35:17.000Z",
+      "xQuery": "丸亀製麺の運営会社に勧告 公取委"
     }
   ]
 };
