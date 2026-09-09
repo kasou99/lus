@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T00:49:13.599Z",
+  "updatedAt": "2026-09-09T01:28:44.247Z",
   "items": [
     {
       "time": "09:02",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "広範囲で大雨 線状降水帯に警戒"
     },
     {
-      "time": "09:25",
-      "title": "沖縄のPFAS 基地由来と推測と米",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594711?source=rss",
-      "publishedAt": "2026-09-09T00:25:15.000Z",
-      "xQuery": "沖縄のPFAS 基地由来と推測と米"
-    },
-    {
       "time": "08:48",
       "title": "上智大生殺害30年 父親に焦燥感",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594708?source=rss",
       "publishedAt": "2026-09-08T23:48:56.000Z",
       "xQuery": "上智大生殺害30年 父親に焦燥感"
+    },
+    {
+      "time": "10:03",
+      "title": "蔵内勇夫氏 県議辞職した理由語る",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594715?source=rss",
+      "publishedAt": "2026-09-09T01:03:33.000Z",
+      "xQuery": "蔵内勇夫氏 県議辞職した理由語る"
     },
     {
       "time": "09:00",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店火災 男性再来店後に出火"
     },
     {
-      "time": "07:39",
-      "title": "血を流した男性死亡 ひき逃げか",
+      "time": "09:24",
+      "title": "大阪メトロ 磁気切符を廃止へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594701?source=rss",
-      "publishedAt": "2026-09-08T22:39:52.000Z",
-      "xQuery": "血を流した男性死亡 ひき逃げか"
+      "url": "https://news.yahoo.co.jp/pickup/6594712?source=rss",
+      "publishedAt": "2026-09-09T00:24:35.000Z",
+      "xQuery": "大阪メトロ 磁気切符を廃止へ"
     }
   ]
 };

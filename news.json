@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T00:49:12.683Z",
+  "updatedAt": "2026-09-09T01:28:43.533Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -40,7 +40,7 @@
       {
         "time": "07:08",
         "title": "今日のスケジュール－米10年国債入札や8月工作機械受注など(トレーダーズ・ウェブ)",
-        "source": "finance.yahoo.co.jp",
+        "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUJVUmFfYWIzbE1Vdm10SEtMWFdNNWFnUjNfZmFsZmx2R3FjWWNqTXR6X21FSzhvM3FIYTN1a3FjTm1nTWlyUkU4YTlUZ3NpVHBoYWp3MWdZMUg1RWtOY1pCc0poZzM0Z0ZNLVpFdzZiVEVqcWppWkQ0cUNQU181WTlvLVRhZWc?oc=5",
         "publishedAt": "2026-09-08T22:08:01.000Z"
       },
@@ -52,11 +52,11 @@
         "publishedAt": "2026-09-08T22:18:45.000Z"
       },
       {
-        "time": "17:20",
-        "title": "工作機械受注額や中国CPIに注目(スケジュールチェック)",
-        "source": "QUICK Money World",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42VEJ2cF93MkQwRUxfNUtFQnZlS3hrTk5qM2l1WUFlOVJPaVBmZWQzVFV3ZTlJb0tNY2dabS1vSVFlN0ltR1ZuQ3Q5ZnprbzFKMGFHTDN3?oc=5",
-        "publishedAt": "2026-09-08T08:20:00.000Z"
+        "time": "10:03",
+        "title": "多軸自動工作機械の世界市場2026年、グローバル市場規模（多軸自動旋盤、多軸穴あけ機、多軸ねじ加工機）・分析レポートを",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QWkFYVmdkLUgtRWtnVDZySklVeE9aZHV4M0FMZjlEWHh5LVY2UkdzcFBHWl9aTjhXVklMN1VmeWFlQy16YlVHbUpuUFhjZUp0WmV1S0tORFhldkhQMG04aFlQeS1Ncndv?oc=5",
+        "publishedAt": "2026-09-09T01:03:17.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-09-08T21:14:03.000Z"
       },
       {
-        "time": "20:13",
-        "title": "大雨で大きく波打つ川 名古屋市",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594678?source=rss",
-        "publishedAt": "2026-09-08T11:13:21.000Z"
-      },
-      {
         "time": "19:52",
         "title": "名古屋の1時間雨量 観測史上最大",
         "source": "Yahoo!ニュース",
@@ -175,6 +168,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594708?source=rss",
         "publishedAt": "2026-09-08T23:48:56.000Z"
+      },
+      {
+        "time": "10:03",
+        "title": "蔵内勇夫氏 県議辞職した理由語る",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594715?source=rss",
+        "publishedAt": "2026-09-09T01:03:33.000Z"
       },
       {
         "time": "09:00",
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
