@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T02:43:15.598Z",
+  "updatedAt": "2026-09-09T03:21:44.845Z",
   "items": [
     {
-      "time": "09:02",
-      "title": "広範囲で大雨 線状降水帯に警戒",
+      "time": "12:06",
+      "title": "西日本～東北で大雨続く 厳重警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594710?source=rss",
-      "publishedAt": "2026-09-09T00:02:12.000Z",
-      "xQuery": "広範囲で大雨 線状降水帯に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6594731?source=rss",
+      "publishedAt": "2026-09-09T03:06:29.000Z",
+      "xQuery": "西日本～東北で大雨続く 厳重警戒"
     },
     {
-      "time": "10:03",
-      "title": "蔵内勇夫氏 県議辞職した理由語る",
+      "time": "10:35",
+      "title": "NY原油3カ月ぶり高値 6日続伸",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594715?source=rss",
-      "publishedAt": "2026-09-09T01:03:33.000Z",
-      "xQuery": "蔵内勇夫氏 県議辞職した理由語る"
+      "url": "https://news.yahoo.co.jp/pickup/6594720?source=rss",
+      "publishedAt": "2026-09-09T01:35:30.000Z",
+      "xQuery": "NY原油3カ月ぶり高値 6日続伸"
     },
     {
-      "time": "09:00",
-      "title": "ケーキ店火災 男性再来店後に出火",
+      "time": "11:50",
+      "title": "2歳男児死亡 暴行疑いで母も逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594709?source=rss",
-      "publishedAt": "2026-09-09T00:00:36.000Z",
-      "xQuery": "ケーキ店火災 男性再来店後に出火"
+      "url": "https://news.yahoo.co.jp/pickup/6594728?source=rss",
+      "publishedAt": "2026-09-09T02:50:56.000Z",
+      "xQuery": "2歳男児死亡 暴行疑いで母も逮捕"
     },
     {
       "time": "11:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "富士山 意識不明の登山者2人発見"
     },
     {
-      "time": "09:24",
-      "title": "大阪メトロ 磁気切符を廃止へ",
+      "time": "11:05",
+      "title": "数学懸賞問題を解決 OpenAI発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594712?source=rss",
-      "publishedAt": "2026-09-09T00:24:35.000Z",
-      "xQuery": "大阪メトロ 磁気切符を廃止へ"
+      "url": "https://news.yahoo.co.jp/pickup/6594721?source=rss",
+      "publishedAt": "2026-09-09T02:05:36.000Z",
+      "xQuery": "数学懸賞問題を解決 OpenAI発表"
     }
   ]
 };
