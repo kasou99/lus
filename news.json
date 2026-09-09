@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T21:37:18.194Z",
+  "updatedAt": "2026-09-09T22:14:42.345Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,20 +10,6 @@
         "publishedAt": "2026-09-09T17:00:00.000Z"
       },
       {
-        "time": "15:28",
-        "title": "8月工作機械受注は前年比64.7％増、14カ月連続プラス＝工作機械工業会",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeERtNFBvLVI3Z0t3aUVhdVk1alpISTlKLXN6WXU0SlQwbEpMN3hBc3p1amRHZVYwMVAwVzB3ZTBJVGtSZU9KeE1FS0pNdEw5MzQzN21tc3lEMTBMOTlwMjZSOHQtNHROUTIxdnpwSEd2TjFHN004WTJEMW9ITHhmdg?oc=5",
-        "publishedAt": "2026-09-09T06:28:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "8月の工作機械受注、64％増の1978億8000万円 中国・北米で好調継続",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzaWVoa05ncUZxazdjUlROY24wTUlIRW1lejY4NUE5Mzh4YWh1WUZtN2tBUG5aZGE5WVVIUTNEcTlZWC1QUHRDcmFENGhLcFFBaVJQX0g3cVc?oc=5",
-        "publishedAt": "2026-09-09T20:00:00.000Z"
-      },
-      {
         "time": "05:14",
         "title": "８月工作機械受注 46％増 オークマ、高水準維持",
         "source": "中部経済新聞",
@@ -32,8 +18,15 @@
       },
       {
         "time": "15:28",
+        "title": "8月工作機械受注は前年比64.7％増、14カ月連続プラス＝工作機械工業会",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeERtNFBvLVI3Z0t3aUVhdVk1alpISTlKLXN6WXU0SlQwbEpMN3hBc3p1amRHZVYwMVAwVzB3ZTBJVGtSZU9KeE1FS0pNdEw5MzQzN21tc3lEMTBMOTlwMjZSOHQtNHROUTIxdnpwSEd2TjFHN004WTJEMW9ITHhmdg?oc=5",
+        "publishedAt": "2026-09-09T06:28:00.000Z"
+      },
+      {
+        "time": "15:28",
         "title": "8月工作機械受注は前年比64.7％増、14カ月連続プラス＝工作機械工業会（ロイター）",
-        "source": "news.yahoo.co.jp",
+        "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UN1BoLTJGeWdvNmlJc3NMME5Iei1HdWJ2MGdEMDJDRzVieFVBdW8yQzF0RUdpN3kyQzRsOXhKR3NJek9sc0s0WVVOa1ZrODM4UVVtWHVLTmVraUNhaldYTjV5WUVBeFZKNnNCMVJaRnI2MzJpSlkyRkRUdXlrQzg?oc=5",
         "publishedAt": "2026-09-09T06:28:38.000Z"
       },
@@ -57,6 +50,13 @@
         "source": "ドリームニュース",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBOHYyS3h3dW5jblNMMjRSNlN3WlFMakx4VTBVNndMUEVtZ2RMWmo0LUVPYUVCbUV1UlZNcV9sc3JKMlJjeDlVeXB6TnNJaXRYQmhR?oc=5",
         "publishedAt": "2026-09-09T01:00:00.000Z"
+      },
+      {
+        "time": "17:25",
+        "title": "8月の工作機械65%増 夏枯れも打ち消すAI需要、高い依存度に懸念も",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tVDd2MnBkY281Z1VWUzZ1OGFiUVlReU8xSGVseThuWlU4T3VucmVkSGpJNnNsUDR3dkVFVVRPWlByT2JrbzBLMko4bFdpdDdMUTBodFpaQUk3bGdyajRMSXBpWFVaWHl1WDRNNw?oc=5",
+        "publishedAt": "2026-09-09T08:25:35.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-09-09T08:19:02.000Z"
       },
       {
-        "time": "20:36",
-        "title": "狛江強盗 実行役の無期懲役確定へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594773?source=rss",
-        "publishedAt": "2026-09-09T11:36:28.000Z"
-      },
-      {
         "time": "19:29",
         "title": "6歳不明 防カメに似た服装の児童",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594767?source=rss",
         "publishedAt": "2026-09-09T08:42:53.000Z"
+      },
+      {
+        "time": "06:56",
+        "title": "閉山日前日の富士山 登山客混乱",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594801?source=rss",
+        "publishedAt": "2026-09-09T21:56:40.000Z"
       }
     ],
     "subsidyHeadlines": [

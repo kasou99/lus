@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T21:37:19.084Z",
+  "updatedAt": "2026-09-09T22:14:43.245Z",
   "items": [
     {
-      "time": "20:06",
-      "title": "ネパール土石流がれき220万t 試算",
+      "time": "06:46",
+      "title": "東京都心は22℃予想 10月中旬並み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594779?source=rss",
-      "publishedAt": "2026-09-09T11:06:38.000Z",
-      "xQuery": "ネパール土石流がれき220万t 試算"
+      "url": "https://news.yahoo.co.jp/pickup/6594800?source=rss",
+      "publishedAt": "2026-09-09T21:46:15.000Z",
+      "xQuery": "東京都心は22℃予想 10月中旬並み"
     },
     {
       "time": "23:36",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "睡眠研究の柳沢氏らにラスカー賞"
     },
     {
-      "time": "16:35",
-      "title": "丸亀製麺の運営会社に勧告 公取委",
+      "time": "17:42",
+      "title": "毒物浴び院生死亡 北大に市が指導",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594758?source=rss",
-      "publishedAt": "2026-09-09T07:35:17.000Z",
-      "xQuery": "丸亀製麺の運営会社に勧告 公取委"
+      "url": "https://news.yahoo.co.jp/pickup/6594767?source=rss",
+      "publishedAt": "2026-09-09T08:42:53.000Z",
+      "xQuery": "毒物浴び院生死亡 北大に市が指導"
     },
     {
       "time": "06:22",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高野山の宿坊 集団申告漏れ指摘"
     },
     {
-      "time": "17:42",
-      "title": "毒物浴び院生死亡 北大に市が指導",
+      "time": "06:56",
+      "title": "閉山日前日の富士山 登山客混乱",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594767?source=rss",
-      "publishedAt": "2026-09-09T08:42:53.000Z",
-      "xQuery": "毒物浴び院生死亡 北大に市が指導"
+      "url": "https://news.yahoo.co.jp/pickup/6594801?source=rss",
+      "publishedAt": "2026-09-09T21:56:40.000Z",
+      "xQuery": "閉山日前日の富士山 登山客混乱"
     }
   ]
 };
