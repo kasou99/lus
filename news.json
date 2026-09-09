@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T15:40:10.909Z",
+  "updatedAt": "2026-09-09T16:19:36.554Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-09T01:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "北川鉄工、協働ロボ台車発売 複数工作機械で併用",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05YnlvalJheTVEZHBsY1NVbXJsSUtpbjYyN3lpLXhSZFJTLThLbnhQQ2ZOaS14eDMxX1d1dDdaanRudEtsRkxNek1XTU4xbUpCTG5VR082QmY?oc=5",
-        "publishedAt": "2026-09-08T20:00:00.000Z"
-      },
-      {
         "time": "07:30",
         "title": "小径精密加工の旋盤新モデル スター精密がヒューマノイド部品など向け：工作機械",
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aZ2xrOE8xYnZZdzdVdUp5cnp3VkQ1U1NtdXktdmJQSnY4MjFrd3YtMGxGaGhJc1NTdVI5LTVKeldxU0lqekFpWlhjWDg4TE1CbTVUbXRqZ0wtTFFpSWxqdi1WQXZad0hQeVZmZ0xJUQ?oc=5",
         "publishedAt": "2026-09-08T22:30:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "北川鉄工、協働ロボ台車発売 複数工作機械で併用",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05YnlvalJheTVEZHBsY1NVbXJsSUtpbjYyN3lpLXhSZFJTLThLbnhQQ2ZOaS14eDMxX1d1dDdaanRudEtsRkxNek1XTU4xbUpCTG5VR082QmY?oc=5",
+        "publishedAt": "2026-09-08T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
