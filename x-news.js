@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T13:16:59.501Z",
+  "updatedAt": "2026-09-09T13:39:14.931Z",
   "items": [
     {
       "time": "21:34",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "関東で局地的大雨 八王子で冠水も"
     },
     {
-      "time": "20:36",
-      "title": "狛江強盗 実行役の無期懲役確定へ",
+      "time": "16:23",
+      "title": "応用進む医療AI 学習偏るとリスク",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594773?source=rss",
-      "publishedAt": "2026-09-09T11:36:28.000Z",
-      "xQuery": "狛江強盗 実行役の無期懲役確定へ"
+      "url": "https://news.yahoo.co.jp/pickup/6594755?source=rss",
+      "publishedAt": "2026-09-09T07:23:30.000Z",
+      "xQuery": "応用進む医療AI 学習偏るとリスク"
     },
     {
-      "time": "20:00",
-      "title": "中道 未交付の11億円で債務返済へ",
+      "time": "22:24",
+      "title": "人工内耳つけた子 育児奔走した母",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594778?source=rss",
-      "publishedAt": "2026-09-09T11:00:40.000Z",
-      "xQuery": "中道 未交付の11億円で債務返済へ"
-    },
-    {
-      "time": "20:21",
-      "title": "藤井聡太王位が7連覇 激闘を制す",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594781?source=rss",
-      "publishedAt": "2026-09-09T11:21:10.000Z",
-      "xQuery": "藤井聡太王位が7連覇 激闘を制す"
+      "url": "https://news.yahoo.co.jp/pickup/6594793?source=rss",
+      "publishedAt": "2026-09-09T13:24:57.000Z",
+      "xQuery": "人工内耳つけた子 育児奔走した母"
     },
     {
       "time": "20:49",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594782?source=rss",
       "publishedAt": "2026-09-09T11:49:42.000Z",
       "xQuery": "鉄塔から転落 点検の従業員が死亡"
+    },
+    {
+      "time": "17:42",
+      "title": "毒物浴び院生死亡 北大に市が指導",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594767?source=rss",
+      "publishedAt": "2026-09-09T08:42:53.000Z",
+      "xQuery": "毒物浴び院生死亡 北大に市が指導"
     }
   ]
 };
