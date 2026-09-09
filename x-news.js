@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T05:38:53.475Z",
+  "updatedAt": "2026-09-09T06:31:17.998Z",
   "items": [
     {
-      "time": "12:06",
-      "title": "西日本～東北で大雨続く 厳重警戒",
+      "time": "15:18",
+      "title": "東北〜近畿で大雨 災害に厳重警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594731?source=rss",
-      "publishedAt": "2026-09-09T03:06:29.000Z",
-      "xQuery": "西日本～東北で大雨続く 厳重警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6594749?source=rss",
+      "publishedAt": "2026-09-09T06:18:51.000Z",
+      "xQuery": "東北〜近畿で大雨 災害に厳重警戒"
     },
     {
-      "time": "11:53",
-      "title": "米政権 カナダ産の酒類など禁輸へ",
+      "time": "14:44",
+      "title": "福岡県議会 新議長に自民・大島氏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594729?source=rss",
-      "publishedAt": "2026-09-09T02:53:18.000Z",
-      "xQuery": "米政権 カナダ産の酒類など禁輸へ"
+      "url": "https://news.yahoo.co.jp/pickup/6594748?source=rss",
+      "publishedAt": "2026-09-09T05:44:31.000Z",
+      "xQuery": "福岡県議会 新議長に自民・大島氏"
     },
     {
       "time": "13:16",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車200台が浸水し立ち往生 名古屋"
     },
     {
-      "time": "13:29",
-      "title": "国連推奨地図 北方領土が露領の色",
+      "time": "14:49",
+      "title": "子宮全摘でぼうこう裂け 壮絶闘病",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594743?source=rss",
-      "publishedAt": "2026-09-09T04:29:57.000Z",
-      "xQuery": "国連推奨地図 北方領土が露領の色"
+      "url": "https://news.yahoo.co.jp/pickup/6594746?source=rss",
+      "publishedAt": "2026-09-09T05:49:43.000Z",
+      "xQuery": "子宮全摘でぼうこう裂け 壮絶闘病"
     },
     {
       "time": "14:31",

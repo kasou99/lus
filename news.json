@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T05:38:52.531Z",
+  "updatedAt": "2026-09-09T06:31:17.042Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -47,7 +47,7 @@
       {
         "time": "10:03",
         "title": "多軸自動工作機械の世界市場2026年、グローバル市場規模（多軸自動旋盤、多軸穴あけ機、多軸ねじ加工機）・分析レポートを",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QWkFYVmdkLUgtRWtnVDZySklVeE9aZHV4M0FMZjlEWHh5LVY2UkdzcFBHWl9aTjhXVklMN1VmeWFlQy16YlVHbUpuUFhjZUp0WmV1S0tORFhldkhQMG04aFlQeS1Ncndv?oc=5",
         "publishedAt": "2026-09-09T01:03:17.000Z"
       },
@@ -119,13 +119,6 @@
         "publishedAt": "2026-09-08T11:16:05.000Z"
       },
       {
-        "time": "06:48",
-        "title": "金利上昇 住宅ローン返済者ら悩み",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594597?source=rss",
-        "publishedAt": "2026-09-07T21:48:02.000Z"
-      },
-      {
         "time": "09:24",
         "title": "大阪メトロ 磁気切符を廃止へ",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594614?source=rss",
         "publishedAt": "2026-09-08T00:38:27.000Z"
+      },
+      {
+        "time": "14:56",
+        "title": "浸水の車 点検前エンジン始動NG",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594747?source=rss",
+        "publishedAt": "2026-09-09T05:56:42.000Z"
       }
     ],
     "localHeadlines": [
@@ -161,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594742?source=rss",
         "publishedAt": "2026-09-09T04:16:32.000Z"
+      },
+      {
+        "time": "14:44",
+        "title": "福岡県議会 新議長に自民・大島氏",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594748?source=rss",
+        "publishedAt": "2026-09-09T05:44:31.000Z"
       },
       {
         "time": "08:48",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594722?source=rss",
         "publishedAt": "2026-09-09T02:11:44.000Z"
-      },
-      {
-        "time": "14:31",
-        "title": "東京五輪銀の本多灯被告 有罪判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594745?source=rss",
-        "publishedAt": "2026-09-09T05:31:40.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
