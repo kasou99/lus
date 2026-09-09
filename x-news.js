@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T11:37:03.903Z",
+  "updatedAt": "2026-09-09T12:26:42.996Z",
   "items": [
     {
       "time": "18:12",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東海や関東 9日夜にかけ大雨恐れ"
     },
     {
-      "time": "15:31",
-      "title": "能登地震関連死 新たに3人認定へ",
+      "time": "20:36",
+      "title": "狛江強盗 実行役の無期懲役確定へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594750?source=rss",
-      "publishedAt": "2026-09-09T06:31:11.000Z",
-      "xQuery": "能登地震関連死 新たに3人認定へ"
+      "url": "https://news.yahoo.co.jp/pickup/6594773?source=rss",
+      "publishedAt": "2026-09-09T11:36:28.000Z",
+      "xQuery": "狛江強盗 実行役の無期懲役確定へ"
     },
     {
       "time": "20:00",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中道 未交付の11億円で債務返済へ"
     },
     {
-      "time": "17:55",
-      "title": "母死亡 熱湯かけた疑いで息子逮捕",
+      "time": "20:21",
+      "title": "藤井聡太王位が7連覇 激闘を制す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594770?source=rss",
-      "publishedAt": "2026-09-09T08:55:26.000Z",
-      "xQuery": "母死亡 熱湯かけた疑いで息子逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6594781?source=rss",
+      "publishedAt": "2026-09-09T11:21:10.000Z",
+      "xQuery": "藤井聡太王位が7連覇 激闘を制す"
     },
     {
-      "time": "19:29",
-      "title": "6歳不明 防カメに似た服装の児童",
+      "time": "20:49",
+      "title": "鉄塔から転落 点検の従業員が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594776?source=rss",
-      "publishedAt": "2026-09-09T10:29:29.000Z",
-      "xQuery": "6歳不明 防カメに似た服装の児童"
+      "url": "https://news.yahoo.co.jp/pickup/6594782?source=rss",
+      "publishedAt": "2026-09-09T11:49:42.000Z",
+      "xQuery": "鉄塔から転落 点検の従業員が死亡"
     }
   ]
 };
