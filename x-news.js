@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T03:42:22.215Z",
+  "updatedAt": "2026-09-09T04:21:05.489Z",
   "items": [
     {
       "time": "12:06",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中露首脳が祝電 北朝鮮建国78周年"
     },
     {
-      "time": "11:50",
-      "title": "2歳男児死亡 暴行疑いで母も逮捕",
+      "time": "12:18",
+      "title": "NY市長 異例の労働者組織化支援",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594728?source=rss",
-      "publishedAt": "2026-09-09T02:50:56.000Z",
-      "xQuery": "2歳男児死亡 暴行疑いで母も逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6594736?source=rss",
+      "publishedAt": "2026-09-09T03:18:51.000Z",
+      "xQuery": "NY市長 異例の労働者組織化支援"
     },
     {
       "time": "11:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "富士山 意識不明の登山者2人発見"
     },
     {
-      "time": "08:34",
-      "title": "折り畳み式iPhone 開発に約10年",
+      "time": "13:06",
+      "title": "元SB選手 宮地克彦容疑者を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594706?source=rss",
-      "publishedAt": "2026-09-08T23:34:50.000Z",
-      "xQuery": "折り畳み式iPhone 開発に約10年"
+      "url": "https://news.yahoo.co.jp/pickup/6594741?source=rss",
+      "publishedAt": "2026-09-09T04:06:10.000Z",
+      "xQuery": "元SB選手 宮地克彦容疑者を逮捕"
     }
   ]
 };
