@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T21:13:56.311Z",
+  "updatedAt": "2026-09-09T21:37:18.194Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -33,7 +33,7 @@
       {
         "time": "15:28",
         "title": "8月工作機械受注は前年比64.7％増、14カ月連続プラス＝工作機械工業会（ロイター）",
-        "source": "Yahoo!ニュース",
+        "source": "news.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UN1BoLTJGeWdvNmlJc3NMME5Iei1HdWJ2MGdEMDJDRzVieFVBdW8yQzF0RUdpN3kyQzRsOXhKR3NJek9sc0s0WVVOa1ZrODM4UVVtWHVLTmVraUNhaldYTjV5WUVBeFZKNnNCMVJaRnI2MzJpSlkyRkRUdXlrQzg?oc=5",
         "publishedAt": "2026-09-09T06:28:38.000Z"
       },
@@ -54,7 +54,7 @@
       {
         "time": "10:00",
         "title": "多軸自動工作機械の世界市場2026年、グローバル市場規模（多軸自動旋盤、多軸穴あけ機、多軸ねじ加工機）・分析レポートを発表",
-        "source": "dreamnews.jp",
+        "source": "ドリームニュース",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBOHYyS3h3dW5jblNMMjRSNlN3WlFMakx4VTBVNndMUEVtZ2RMWmo0LUVPYUVCbUV1UlZNcV9sc3JKMlJjeDlVeXB6TnNJaXRYQmhR?oc=5",
         "publishedAt": "2026-09-09T01:00:00.000Z"
       }
@@ -112,25 +112,11 @@
         "publishedAt": "2026-09-08T11:16:05.000Z"
       },
       {
-        "time": "09:24",
-        "title": "大阪メトロ 磁気切符を廃止へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594712?source=rss",
-        "publishedAt": "2026-09-09T00:24:35.000Z"
-      },
-      {
         "time": "16:35",
         "title": "丸亀製麺の運営会社に勧告 公取委",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594758?source=rss",
         "publishedAt": "2026-09-09T07:35:17.000Z"
-      },
-      {
-        "time": "16:02",
-        "title": "コメ農家の廃業 過去最多ペース",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594753?source=rss",
-        "publishedAt": "2026-09-09T07:02:53.000Z"
       },
       {
         "time": "21:14",
@@ -145,6 +131,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594761?source=rss",
         "publishedAt": "2026-09-09T08:12:34.000Z"
+      },
+      {
+        "time": "06:22",
+        "title": "高野山の宿坊 集団申告漏れ指摘",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594798?source=rss",
+        "publishedAt": "2026-09-09T21:22:26.000Z"
+      },
+      {
+        "time": "16:02",
+        "title": "コメ農家の廃業 過去最多ペース",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594753?source=rss",
+        "publishedAt": "2026-09-09T07:02:53.000Z"
       }
     ],
     "localHeadlines": [

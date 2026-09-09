@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T21:13:56.959Z",
+  "updatedAt": "2026-09-09T21:37:19.084Z",
   "items": [
     {
       "time": "20:06",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "丸亀製麺の運営会社に勧告 公取委"
     },
     {
+      "time": "06:22",
+      "title": "高野山の宿坊 集団申告漏れ指摘",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594798?source=rss",
+      "publishedAt": "2026-09-09T21:22:26.000Z",
+      "xQuery": "高野山の宿坊 集団申告漏れ指摘"
+    },
+    {
       "time": "17:42",
       "title": "毒物浴び院生死亡 北大に市が指導",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594767?source=rss",
       "publishedAt": "2026-09-09T08:42:53.000Z",
       "xQuery": "毒物浴び院生死亡 北大に市が指導"
-    },
-    {
-      "time": "22:24",
-      "title": "人工内耳つけた子 育児奔走した母",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594793?source=rss",
-      "publishedAt": "2026-09-09T13:24:57.000Z",
-      "xQuery": "人工内耳つけた子 育児奔走した母"
     }
   ]
 };
