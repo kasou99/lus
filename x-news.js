@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T07:40:57.369Z",
+  "updatedAt": "2026-09-09T08:24:29.467Z",
   "items": [
     {
       "time": "16:31",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "東北〜近畿で大雨 災害に厳重警戒"
     },
     {
+      "time": "16:41",
+      "title": "日本国旗を押し売りか 全国各地で",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594752?source=rss",
+      "publishedAt": "2026-09-09T07:41:27.000Z",
+      "xQuery": "日本国旗を押し売りか 全国各地で"
+    },
+    {
       "time": "16:02",
       "title": "コメ農家の廃業 過去最多ペース",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "コメ農家の廃業 過去最多ペース"
     },
     {
-      "time": "14:56",
-      "title": "浸水の車 点検前エンジン始動NG",
+      "time": "16:35",
+      "title": "丸亀製麺の運営会社に勧告 公取委",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594747?source=rss",
-      "publishedAt": "2026-09-09T05:56:42.000Z",
-      "xQuery": "浸水の車 点検前エンジン始動NG"
-    },
-    {
-      "time": "14:49",
-      "title": "子宮全摘でぼうこう裂け 壮絶闘病",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594746?source=rss",
-      "publishedAt": "2026-09-09T05:49:43.000Z",
-      "xQuery": "子宮全摘でぼうこう裂け 壮絶闘病"
+      "url": "https://news.yahoo.co.jp/pickup/6594758?source=rss",
+      "publishedAt": "2026-09-09T07:35:17.000Z",
+      "xQuery": "丸亀製麺の運営会社に勧告 公取委"
     }
   ]
 };
