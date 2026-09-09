@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T22:14:43.245Z",
+  "updatedAt": "2026-09-09T22:36:57.423Z",
   "items": [
     {
       "time": "06:46",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594800?source=rss",
       "publishedAt": "2026-09-09T21:46:15.000Z",
       "xQuery": "東京都心は22℃予想 10月中旬並み"
-    },
-    {
-      "time": "23:36",
-      "title": "睡眠研究の柳沢氏らにラスカー賞",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594795?source=rss",
-      "publishedAt": "2026-09-09T14:36:01.000Z",
-      "xQuery": "睡眠研究の柳沢氏らにラスカー賞"
     },
     {
       "time": "17:42",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594801?source=rss",
       "publishedAt": "2026-09-09T21:56:40.000Z",
       "xQuery": "閉山日前日の富士山 登山客混乱"
+    },
+    {
+      "time": "07:23",
+      "title": "米アップル新製品発表会 Xの反応",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594804?source=rss",
+      "publishedAt": "2026-09-09T22:23:00.000Z",
+      "xQuery": "米アップル新製品発表会 Xの反応"
     }
   ]
 };
