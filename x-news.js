@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T13:39:14.931Z",
+  "updatedAt": "2026-09-09T14:17:31.746Z",
   "items": [
     {
-      "time": "21:34",
-      "title": "関東で局地的大雨 八王子で冠水も",
+      "time": "20:06",
+      "title": "ネパール土石流がれき220万t 試算",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594788?source=rss",
-      "publishedAt": "2026-09-09T12:34:35.000Z",
-      "xQuery": "関東で局地的大雨 八王子で冠水も"
+      "url": "https://news.yahoo.co.jp/pickup/6594779?source=rss",
+      "publishedAt": "2026-09-09T11:06:38.000Z",
+      "xQuery": "ネパール土石流がれき220万t 試算"
     },
     {
       "time": "16:23",
