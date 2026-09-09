@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-08T23:37:34.886Z",
+  "updatedAt": "2026-09-09T00:49:13.599Z",
   "items": [
     {
-      "time": "06:06",
-      "title": "関東～四国で線状降水帯の恐れ",
+      "time": "09:02",
+      "title": "広範囲で大雨 線状降水帯に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594693?source=rss",
-      "publishedAt": "2026-09-08T21:06:02.000Z",
-      "xQuery": "関東～四国で線状降水帯の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594710?source=rss",
+      "publishedAt": "2026-09-09T00:02:12.000Z",
+      "xQuery": "広範囲で大雨 線状降水帯に警戒"
     },
     {
-      "time": "07:41",
-      "title": "米軍 イラン関連タンカーを攻撃",
+      "time": "09:25",
+      "title": "沖縄のPFAS 基地由来と推測と米",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594700?source=rss",
-      "publishedAt": "2026-09-08T22:41:26.000Z",
-      "xQuery": "米軍 イラン関連タンカーを攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6594711?source=rss",
+      "publishedAt": "2026-09-09T00:25:15.000Z",
+      "xQuery": "沖縄のPFAS 基地由来と推測と米"
     },
     {
-      "time": "06:14",
-      "title": "大雨 名古屋では多くの帰宅困難者",
+      "time": "08:48",
+      "title": "上智大生殺害30年 父親に焦燥感",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594694?source=rss",
-      "publishedAt": "2026-09-08T21:14:03.000Z",
-      "xQuery": "大雨 名古屋では多くの帰宅困難者"
+      "url": "https://news.yahoo.co.jp/pickup/6594708?source=rss",
+      "publishedAt": "2026-09-08T23:48:56.000Z",
+      "xQuery": "上智大生殺害30年 父親に焦燥感"
+    },
+    {
+      "time": "09:00",
+      "title": "ケーキ店火災 男性再来店後に出火",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594709?source=rss",
+      "publishedAt": "2026-09-09T00:00:36.000Z",
+      "xQuery": "ケーキ店火災 男性再来店後に出火"
     },
     {
       "time": "07:39",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594701?source=rss",
       "publishedAt": "2026-09-08T22:39:52.000Z",
       "xQuery": "血を流した男性死亡 ひき逃げか"
-    },
-    {
-      "time": "08:34",
-      "title": "折り畳み式iPhone 開発に約10年",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594706?source=rss",
-      "publishedAt": "2026-09-08T23:34:50.000Z",
-      "xQuery": "折り畳み式iPhone 開発に約10年"
     }
   ]
 };
