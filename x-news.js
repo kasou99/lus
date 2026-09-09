@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T12:26:42.996Z",
+  "updatedAt": "2026-09-09T12:47:01.474Z",
   "items": [
     {
-      "time": "18:12",
-      "title": "東海や関東 9日夜にかけ大雨恐れ",
+      "time": "21:34",
+      "title": "関東で局地的大雨 八王子で冠水も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594772?source=rss",
-      "publishedAt": "2026-09-09T09:12:05.000Z",
-      "xQuery": "東海や関東 9日夜にかけ大雨恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594788?source=rss",
+      "publishedAt": "2026-09-09T12:34:35.000Z",
+      "xQuery": "関東で局地的大雨 八王子で冠水も"
     },
     {
       "time": "20:36",
