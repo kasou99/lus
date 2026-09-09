@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T09:40:42.000Z",
+  "updatedAt": "2026-09-09T10:18:11.644Z",
   "items": [
     {
       "time": "18:12",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東海や関東 9日夜にかけ大雨恐れ"
     },
     {
-      "time": "12:48",
-      "title": "米大統領 独極右AfDの勝利を絶賛",
+      "time": "15:31",
+      "title": "能登地震関連死 新たに3人認定へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594739?source=rss",
-      "publishedAt": "2026-09-09T03:48:21.000Z",
-      "xQuery": "米大統領 独極右AfDの勝利を絶賛"
+      "url": "https://news.yahoo.co.jp/pickup/6594750?source=rss",
+      "publishedAt": "2026-09-09T06:31:11.000Z",
+      "xQuery": "能登地震関連死 新たに3人認定へ"
     },
     {
       "time": "17:19",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "丸亀製麺の運営会社に勧告 公取委"
     },
     {
-      "time": "17:38",
-      "title": "6歳不明 約10台のドラレコを解析",
+      "time": "17:55",
+      "title": "母死亡 熱湯かけた疑いで息子逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594766?source=rss",
-      "publishedAt": "2026-09-09T08:38:12.000Z",
-      "xQuery": "6歳不明 約10台のドラレコを解析"
+      "url": "https://news.yahoo.co.jp/pickup/6594770?source=rss",
+      "publishedAt": "2026-09-09T08:55:26.000Z",
+      "xQuery": "母死亡 熱湯かけた疑いで息子逮捕"
     }
   ]
 };
