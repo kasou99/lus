@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T11:15:57.815Z",
+  "updatedAt": "2026-09-09T11:37:03.903Z",
   "items": [
     {
       "time": "18:12",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "能登地震関連死 新たに3人認定へ"
     },
     {
-      "time": "17:19",
-      "title": "男児が海に流され行方不明 神奈川",
+      "time": "20:00",
+      "title": "中道 未交付の11億円で債務返済へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594763?source=rss",
-      "publishedAt": "2026-09-09T08:19:02.000Z",
-      "xQuery": "男児が海に流され行方不明 神奈川"
+      "url": "https://news.yahoo.co.jp/pickup/6594778?source=rss",
+      "publishedAt": "2026-09-09T11:00:40.000Z",
+      "xQuery": "中道 未交付の11億円で債務返済へ"
     },
     {
       "time": "17:55",
