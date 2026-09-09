@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T05:17:36.490Z",
+  "updatedAt": "2026-09-09T05:38:53.475Z",
   "items": [
     {
       "time": "12:06",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "西日本～東北で大雨続く 厳重警戒"
     },
     {
-      "time": "11:36",
-      "title": "中露首脳が祝電 北朝鮮建国78周年",
+      "time": "11:53",
+      "title": "米政権 カナダ産の酒類など禁輸へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594723?source=rss",
-      "publishedAt": "2026-09-09T02:36:20.000Z",
-      "xQuery": "中露首脳が祝電 北朝鮮建国78周年"
+      "url": "https://news.yahoo.co.jp/pickup/6594729?source=rss",
+      "publishedAt": "2026-09-09T02:53:18.000Z",
+      "xQuery": "米政権 カナダ産の酒類など禁輸へ"
     },
     {
       "time": "13:16",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "車200台が浸水し立ち往生 名古屋"
     },
     {
-      "time": "11:11",
-      "title": "富士山 意識不明の登山者2人発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594722?source=rss",
-      "publishedAt": "2026-09-09T02:11:44.000Z",
-      "xQuery": "富士山 意識不明の登山者2人発見"
-    },
-    {
       "time": "13:29",
       "title": "国連推奨地図 北方領土が露領の色",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594743?source=rss",
       "publishedAt": "2026-09-09T04:29:57.000Z",
       "xQuery": "国連推奨地図 北方領土が露領の色"
+    },
+    {
+      "time": "14:31",
+      "title": "東京五輪銀の本多灯被告 有罪判決",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594745?source=rss",
+      "publishedAt": "2026-09-09T05:31:40.000Z",
+      "xQuery": "東京五輪銀の本多灯被告 有罪判決"
     }
   ]
 };

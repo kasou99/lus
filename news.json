@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T05:17:35.429Z",
+  "updatedAt": "2026-09-09T05:38:52.531Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-08T22:08:01.000Z"
       },
       {
-        "time": "07:18",
-        "title": "今日の注目スケジュール：工作機械受注、中生産者物価指数、中消費者物価指数など",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdnhpYzhaRnVQdkd6ZDBRUWcxOUE0SUdDemNST3FvelB2NDVZS080WHd5V1ZDTzhNZXhTRmxvb1NhLTNoLUVRZFlaOHN3d1drMEsxVmFHLWFyTExGQ0xkTlpNU2QtdVhMX3JPR0E0aVhJOTBSNlNVb0haSkxtdVhSX09YZ0hhMWVLOFJiZ3hBRlhaWXZyZ3pianVkeERmSWxQYmhRTWhWcHp5X2FMYlRBNlFEOUUxWVVvSWVGLWRxa2VxWW5JRXlRQi1iTG1yYTZIOWQtV2ViUWdWVllL0gGMAUFVX3lxTE4yenloVEdNZHBzdkVxeU1fZHdhMTU5bXhfeU1hU21aNzRoTXM2dFNQYThEd205TXdDVWJXQ3lzV25MZlBLVHZLS1ZXcGhGQ3dRcG1laFhDSFZCSjFzS3BEOGJ2SVdMMmNWUHBQNktPaTRNVElFVk5jQTFYbFgwbGZOQ25Jc1M0aDNaREtu?oc=5",
-        "publishedAt": "2026-09-08T22:18:45.000Z"
-      },
-      {
         "time": "10:03",
         "title": "多軸自動工作機械の世界市場2026年、グローバル市場規模（多軸自動旋盤、多軸穴あけ機、多軸ねじ加工機）・分析レポートを",
-        "source": "ニコニコニュース",
+        "source": "news.nicovideo.jp",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QWkFYVmdkLUgtRWtnVDZySklVeE9aZHV4M0FMZjlEWHh5LVY2UkdzcFBHWl9aTjhXVklMN1VmeWFlQy16YlVHbUpuUFhjZUp0WmV1S0tORFhldkhQMG04aFlQeS1Ncndv?oc=5",
         "publishedAt": "2026-09-09T01:03:17.000Z"
+      },
+      {
+        "time": "06:30",
+        "title": "今日の注目スケジュール：工作機械受注、中生産者物価指数、中消費者物価指数など",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMnp5aFRHTWRwc3ZFcXlNX2R3YTE1OW14X3lNYVNtWjc0aE1zNnRTUGE4RHdtOU13Q1ViV0N5c1duTGZQS1R2S0tWV3BoRkN3UXBtZWhYQ0hWQkoxc0twRDhidklXTDJjVlBwUDZLT2k0TVRJRVZOY0ExWGxYMGxmTkNuSXNTNGgzWkRLbtIBjAFBVV95cUxOMnp5aFRHTWRwc3ZFcXlNX2R3YTE1OW14X3lNYVNtWjc0aE1zNnRTUGE4RHdtOU13Q1ViV0N5c1duTGZQS1R2S0tWV3BoRkN3UXBtZWhYQ0hWQkoxc0twRDhidklXTDJjVlBwUDZLT2k0TVRJRVZOY0ExWGxYMGxmTkNuSXNTNGgzWkRLbg?oc=5",
+        "publishedAt": "2026-09-08T21:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-09-09T02:11:44.000Z"
       },
       {
-        "time": "13:06",
-        "title": "元SB選手 宮地克彦容疑者を逮捕",
+        "time": "14:31",
+        "title": "東京五輪銀の本多灯被告 有罪判決",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594741?source=rss",
-        "publishedAt": "2026-09-09T04:06:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594745?source=rss",
+        "publishedAt": "2026-09-09T05:31:40.000Z"
       }
     ],
     "subsidyHeadlines": [
