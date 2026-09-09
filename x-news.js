@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T14:39:54.609Z",
+  "updatedAt": "2026-09-09T15:16:54.049Z",
   "items": [
     {
       "time": "20:06",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール土石流がれき220万t 試算"
     },
     {
-      "time": "16:23",
-      "title": "応用進む医療AI 学習偏るとリスク",
+      "time": "23:36",
+      "title": "睡眠研究の柳沢氏らにラスカー賞",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594755?source=rss",
-      "publishedAt": "2026-09-09T07:23:30.000Z",
-      "xQuery": "応用進む医療AI 学習偏るとリスク"
+      "url": "https://news.yahoo.co.jp/pickup/6594795?source=rss",
+      "publishedAt": "2026-09-09T14:36:01.000Z",
+      "xQuery": "睡眠研究の柳沢氏らにラスカー賞"
     },
     {
-      "time": "22:24",
-      "title": "人工内耳つけた子 育児奔走した母",
+      "time": "16:35",
+      "title": "丸亀製麺の運営会社に勧告 公取委",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594793?source=rss",
-      "publishedAt": "2026-09-09T13:24:57.000Z",
-      "xQuery": "人工内耳つけた子 育児奔走した母"
-    },
-    {
-      "time": "20:49",
-      "title": "鉄塔から転落 点検の従業員が死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594782?source=rss",
-      "publishedAt": "2026-09-09T11:49:42.000Z",
-      "xQuery": "鉄塔から転落 点検の従業員が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6594758?source=rss",
+      "publishedAt": "2026-09-09T07:35:17.000Z",
+      "xQuery": "丸亀製麺の運営会社に勧告 公取委"
     },
     {
       "time": "17:42",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594767?source=rss",
       "publishedAt": "2026-09-09T08:42:53.000Z",
       "xQuery": "毒物浴び院生死亡 北大に市が指導"
+    },
+    {
+      "time": "22:24",
+      "title": "人工内耳つけた子 育児奔走した母",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594793?source=rss",
+      "publishedAt": "2026-09-09T13:24:57.000Z",
+      "xQuery": "人工内耳つけた子 育児奔走した母"
     }
   ]
 };
