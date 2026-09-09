@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T10:38:54.443Z",
+  "updatedAt": "2026-09-09T11:15:57.815Z",
   "items": [
     {
       "time": "18:12",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "男児が海に流され行方不明 神奈川"
     },
     {
-      "time": "16:35",
-      "title": "丸亀製麺の運営会社に勧告 公取委",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594758?source=rss",
-      "publishedAt": "2026-09-09T07:35:17.000Z",
-      "xQuery": "丸亀製麺の運営会社に勧告 公取委"
-    },
-    {
       "time": "17:55",
       "title": "母死亡 熱湯かけた疑いで息子逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594770?source=rss",
       "publishedAt": "2026-09-09T08:55:26.000Z",
       "xQuery": "母死亡 熱湯かけた疑いで息子逮捕"
+    },
+    {
+      "time": "19:29",
+      "title": "6歳不明 防カメに似た服装の児童",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594776?source=rss",
+      "publishedAt": "2026-09-09T10:29:29.000Z",
+      "xQuery": "6歳不明 防カメに似た服装の児童"
     }
   ]
 };
