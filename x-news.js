@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T09:20:22.897Z",
+  "updatedAt": "2026-09-09T09:40:42.000Z",
   "items": [
     {
       "time": "18:12",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "男児が海に流され行方不明 神奈川"
     },
     {
-      "time": "16:41",
-      "title": "日本国旗を押し売りか 全国各地で",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594752?source=rss",
-      "publishedAt": "2026-09-09T07:41:27.000Z",
-      "xQuery": "日本国旗を押し売りか 全国各地で"
-    },
-    {
       "time": "16:35",
       "title": "丸亀製麺の運営会社に勧告 公取委",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594758?source=rss",
       "publishedAt": "2026-09-09T07:35:17.000Z",
       "xQuery": "丸亀製麺の運営会社に勧告 公取委"
+    },
+    {
+      "time": "17:38",
+      "title": "6歳不明 約10台のドラレコを解析",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594766?source=rss",
+      "publishedAt": "2026-09-09T08:38:12.000Z",
+      "xQuery": "6歳不明 約10台のドラレコを解析"
     }
   ]
 };
