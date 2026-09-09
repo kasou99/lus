@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T07:20:10.412Z",
+  "updatedAt": "2026-09-09T07:40:57.369Z",
   "items": [
+    {
+      "time": "16:31",
+      "title": "中道改革連合「分裂」正式に決定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594759?source=rss",
+      "publishedAt": "2026-09-09T07:31:40.000Z",
+      "xQuery": "中道改革連合「分裂」正式に決定"
+    },
     {
       "time": "15:18",
       "title": "東北〜近畿で大雨 災害に厳重警戒",
@@ -10,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "東北〜近畿で大雨 災害に厳重警戒"
     },
     {
-      "time": "14:44",
-      "title": "福岡県議会 新議長に自民・大島氏",
+      "time": "16:02",
+      "title": "コメ農家の廃業 過去最多ペース",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594748?source=rss",
-      "publishedAt": "2026-09-09T05:44:31.000Z",
-      "xQuery": "福岡県議会 新議長に自民・大島氏"
+      "url": "https://news.yahoo.co.jp/pickup/6594753?source=rss",
+      "publishedAt": "2026-09-09T07:02:53.000Z",
+      "xQuery": "コメ農家の廃業 過去最多ペース"
     },
     {
-      "time": "13:16",
-      "title": "車200台が浸水し立ち往生 名古屋",
+      "time": "14:56",
+      "title": "浸水の車 点検前エンジン始動NG",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594742?source=rss",
-      "publishedAt": "2026-09-09T04:16:32.000Z",
-      "xQuery": "車200台が浸水し立ち往生 名古屋"
+      "url": "https://news.yahoo.co.jp/pickup/6594747?source=rss",
+      "publishedAt": "2026-09-09T05:56:42.000Z",
+      "xQuery": "浸水の車 点検前エンジン始動NG"
     },
     {
       "time": "14:49",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594746?source=rss",
       "publishedAt": "2026-09-09T05:49:43.000Z",
       "xQuery": "子宮全摘でぼうこう裂け 壮絶闘病"
-    },
-    {
-      "time": "14:31",
-      "title": "東京五輪銀の本多灯被告 有罪判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594745?source=rss",
-      "publishedAt": "2026-09-09T05:31:40.000Z",
-      "xQuery": "東京五輪銀の本多灯被告 有罪判決"
     }
   ]
 };

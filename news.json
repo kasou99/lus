@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T07:20:09.593Z",
+  "updatedAt": "2026-09-09T07:40:56.625Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:35",
-        "title": "NY原油3カ月ぶり高値 6日続伸",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594720?source=rss",
-        "publishedAt": "2026-09-09T01:35:30.000Z"
-      },
-      {
         "time": "20:16",
         "title": "日銀 今月の会合で利上げへ",
         "source": "Yahoo!ニュース",
@@ -131,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594665?source=rss",
         "publishedAt": "2026-09-08T10:53:51.000Z"
+      },
+      {
+        "time": "16:35",
+        "title": "丸亀製麺の運営会社に勧告 公取委",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594758?source=rss",
+        "publishedAt": "2026-09-09T07:35:17.000Z"
       },
       {
         "time": "16:02",
