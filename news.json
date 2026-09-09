@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T19:13:49.106Z",
+  "updatedAt": "2026-09-09T19:36:48.639Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-09-08T22:30:00.000Z"
       },
       {
-        "time": "06:30",
-        "title": "今日の注目スケジュール：工作機械受注、中生産者物価指数、中消費者物価指数など",
-        "source": "TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxandZSVd2SUg4TGlUNlZSVDZhaVRON05aM2VzbGN2THFfaUhxd0xFbnZIYXVIUzhkbDN2ZDk3aGxpMUVFNHhxWnJubDkxelVjOERvZ2ZWWVhRVjVGNWRFeUk2cm4?oc=5",
-        "publishedAt": "2026-09-08T21:30:00.000Z"
+        "time": "05:00",
+        "title": "北川鉄工、協働ロボ台車発売 複数工作機械で併用",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05YnlvalJheTVEZHBsY1NVbXJsSUtpbjYyN3lpLXhSZFJTLThLbnhQQ2ZOaS14eDMxX1d1dDdaanRudEtsRkxNek1XTU4xbUpCTG5VR082QmY?oc=5",
+        "publishedAt": "2026-09-08T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
