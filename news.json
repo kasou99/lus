@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T08:43:29.767Z",
+  "updatedAt": "2026-09-10T09:19:57.371Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "02:00",
         "title": "工作機械をサイバー防御 DMG森、即日で遠隔更新 フィジカルAI対応視野",
-        "source": "nikkei.com",
+        "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kMmEyRDFOZERiSlVtNjVfdkJ0WFFKaWRabE55MEl0OE42aFFUR180RGN2N2NWR3R2Ui1jZTE3MWtQOEs3QTNuOXVkZmU4cHBWZkNHUXlaYVY1RUVlU0FuQkU5VUJPcjNEU0pvbw?oc=5",
         "publishedAt": "2026-09-09T17:00:00.000Z"
       },
@@ -32,8 +32,8 @@
       },
       {
         "time": "05:14",
-        "title": "８月工作機械受注 46％増 オークマ、高水準維持",
-        "source": "中部経済新聞",
+        "title": "８月工作機械受注 46％増 オークマ、高水準維持 - chukei-news.co.jp",
+        "source": "chukei-news.co.jp",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YQUFESlplYm5xMy1RYm53MEhSek5TMWo2aHhjRWJvM2I4S1h3TVFvdFpUNjgzdnZVSjBMcVcxMG1BZ1Z3TVBBY0VEblhoYkp6ekRRdkJaVjJ0Tk5PZ05MUFJWQmFYa1JJT09GWVBkU2I0TVU?oc=5",
         "publishedAt": "2026-09-09T20:14:48.000Z"
       },
@@ -47,7 +47,7 @@
       {
         "time": "02:00",
         "title": "工作機械受注額65%増 8月、AI投資追い風持続",
-        "source": "nikkei.com",
+        "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fU1ljbmxJbXk2d0VoY3BvUEE5NGR3TFdVN2dCWERzSW9vSzVhVzI0ZHZpMXRtRE50ZlJMS00wQl9YcDhhdC15c1c1WVhHYWZST04tcTdoYU1jRVkyVExlOXYtQXVlQ2RXZ0gwTg?oc=5",
         "publishedAt": "2026-09-09T17:00:00.000Z"
       },
@@ -126,18 +126,18 @@
         "publishedAt": "2026-09-09T12:14:29.000Z"
       },
       {
-        "time": "17:12",
-        "title": "同意なく性的接触 NHK記者を免職",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594761?source=rss",
-        "publishedAt": "2026-09-09T08:12:34.000Z"
-      },
-      {
         "time": "06:22",
         "title": "高野山の宿坊 集団申告漏れ指摘",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594798?source=rss",
         "publishedAt": "2026-09-09T21:22:26.000Z"
+      },
+      {
+        "time": "17:43",
+        "title": "鳥貴族 均一価格410円に値上げへ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594875?source=rss",
+        "publishedAt": "2026-09-10T08:43:17.000Z"
       },
       {
         "time": "17:02",
@@ -170,18 +170,18 @@
         "publishedAt": "2026-09-10T05:08:04.000Z"
       },
       {
-        "time": "11:29",
-        "title": "吉野川水系の取水制限 1日で再開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594831?source=rss",
-        "publishedAt": "2026-09-10T02:29:28.000Z"
-      },
-      {
         "time": "07:49",
         "title": "トラクター横転 運転の100歳死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594806?source=rss",
         "publishedAt": "2026-09-09T22:49:11.000Z"
+      },
+      {
+        "time": "18:17",
+        "title": "野生ラッコ巡り町議が違反 辞職へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594885?source=rss",
+        "publishedAt": "2026-09-10T09:17:44.000Z"
       },
       {
         "time": "13:48",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },

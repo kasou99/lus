@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T08:43:30.638Z",
+  "updatedAt": "2026-09-10T09:19:58.182Z",
   "items": [
     {
       "time": "14:59",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡の大学病院分院 閉院続く事情"
     },
     {
-      "time": "14:13",
-      "title": "8月の世界平均気温 観測史上最高",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594854?source=rss",
-      "publishedAt": "2026-09-10T05:13:14.000Z",
-      "xQuery": "8月の世界平均気温 観測史上最高"
-    },
-    {
       "time": "15:59",
       "title": "PORTER商標権侵害疑い 書類送検",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594864?source=rss",
       "publishedAt": "2026-09-10T07:34:11.000Z",
       "xQuery": "迷惑行為横行で中学生出禁 店の今"
+    },
+    {
+      "time": "17:43",
+      "title": "鳥貴族 均一価格410円に値上げへ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594875?source=rss",
+      "publishedAt": "2026-09-10T08:43:17.000Z",
+      "xQuery": "鳥貴族 均一価格410円に値上げへ"
     }
   ]
 };
