@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T01:25:38.594Z",
+  "updatedAt": "2026-09-10T01:47:56.887Z",
   "items": [
     {
-      "time": "09:56",
-      "title": "張本勲さん死去 プロ野球3000安打",
+      "time": "08:43",
+      "title": "内閣の外交面に高い評価 読売調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594820?source=rss",
-      "publishedAt": "2026-09-10T00:56:00.000Z",
-      "xQuery": "張本勲さん死去 プロ野球3000安打"
-    },
-    {
-      "time": "09:08",
-      "title": "イラン終結は選挙後 米大統領主張",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594816?source=rss",
-      "publishedAt": "2026-09-10T00:08:31.000Z",
-      "xQuery": "イラン終結は選挙後 米大統領主張"
+      "url": "https://news.yahoo.co.jp/pickup/6594814?source=rss",
+      "publishedAt": "2026-09-09T23:43:55.000Z",
+      "xQuery": "内閣の外交面に高い評価 読売調査"
     },
     {
       "time": "10:02",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594817?source=rss",
       "publishedAt": "2026-09-10T00:27:31.000Z",
       "xQuery": "民家で1億円超空き巣被害 匿流か"
+    },
+    {
+      "time": "10:24",
+      "title": "事故で右脚失った看護師 現場復帰",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594822?source=rss",
+      "publishedAt": "2026-09-10T01:24:57.000Z",
+      "xQuery": "事故で右脚失った看護師 現場復帰"
     }
   ]
 };
