@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-10T04:21:02.098Z",
+  "updatedAt": "2026-09-10T04:41:40.221Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:30",
+        "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026（レスポンス）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iRnpCcUxoQ0xXLVVHZ0xiTDZsZW1hdGpqMmN4c0RBekcybXNYOHdsbjc5dHJwY0U1QV80YzlCRFFoMkp1ZXFyTURQendBZWFkTV9TWXc5OXA1LVhuSXNKUkNqaFBsMmNQQ2VrUThjS0VsWThoQlpzNDRFTG1tY0E?oc=5",
+        "publishedAt": "2026-09-10T04:30:03.000Z"
+      },
       {
         "time": "02:00",
         "title": "工作機械をサイバー防御 DMG森、即日で遠隔更新 フィジカルAI対応視野",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-09-09T06:28:00.000Z"
       },
       {
-        "time": "15:28",
-        "title": "8月工作機械受注は前年比64.7％増、14カ月連続プラス＝工作機械工業会（ロイター）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UN1BoLTJGeWdvNmlJc3NMME5Iei1HdWJ2MGdEMDJDRzVieFVBdW8yQzF0RUdpN3kyQzRsOXhKR3NJek9sc0s0WVVOa1ZrODM4UVVtWHVLTmVraUNhaldYTjV5WUVBeFZKNnNCMVJaRnI2MzJpSlkyRkRUdXlrQzg?oc=5",
-        "publishedAt": "2026-09-09T06:28:38.000Z"
-      },
-      {
         "time": "22:10",
         "title": "【設備保全DX】第2回 ファーマDX EXPO 大阪に次世代設備保全クラウド「M2X」ブースを出展｜Infoseekニュース",
         "source": "Infoseek",
@@ -53,9 +53,9 @@
       },
       {
         "time": "15:28",
-        "title": "8月工作機械受注は前年比64.7％増、14カ月連続プラス＝工作機械工業会 (ロイター)",
+        "title": "8月工作機械受注は前年比64.7％増、14カ月連続プラス＝工作機械工業会（ロイター）",
         "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeS05cmgwUVE2VEJTUWRMcVVwclh1dFlTS3R5dUZFRkVLQ1JDcnJrRy11YjBDOEpZQWw0MlZnQkh5emdpcWFpZWljV2pDU05Nb3FveDc0cll6NlY4eHdzVVVtd3hhQlExNHFTTHlZWlhvSW5SRDRNbW9hWGtQY0FjNml6OFFySkx5WHRYUEx3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UN1BoLTJGeWdvNmlJc3NMME5Iei1HdWJ2MGdEMDJDRzVieFVBdW8yQzF0RUdpN3kyQzRsOXhKR3NJek9sc0s0WVVOa1ZrODM4UVVtWHVLTmVraUNhaldYTjV5WUVBeFZKNnNCMVJaRnI2MzJpSlkyRkRUdXlrQzg?oc=5",
         "publishedAt": "2026-09-09T06:28:38.000Z"
       }
     ],

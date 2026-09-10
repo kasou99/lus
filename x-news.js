@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T04:21:02.841Z",
+  "updatedAt": "2026-09-10T04:41:41.190Z",
   "items": [
     {
       "time": "12:10",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "海で発見の男児死亡 不明の小5か"
     },
     {
-      "time": "12:26",
-      "title": "「心中」用語を変更 国の専門委",
+      "time": "11:53",
+      "title": "東京駅直結 51階建て施設オープン",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594840?source=rss",
-      "publishedAt": "2026-09-10T03:26:17.000Z",
-      "xQuery": "「心中」用語を変更 国の専門委"
+      "url": "https://news.yahoo.co.jp/pickup/6594836?source=rss",
+      "publishedAt": "2026-09-10T02:53:06.000Z",
+      "xQuery": "東京駅直結 51階建て施設オープン"
     }
   ]
 };
