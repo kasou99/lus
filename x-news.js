@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T11:37:24.567Z",
+  "updatedAt": "2026-09-10T12:26:44.609Z",
   "items": [
     {
       "time": "19:22",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "11日 関東甲信など警報級大雨恐れ"
     },
     {
-      "time": "17:32",
-      "title": "あいち・三十三FG 統合合意解消",
+      "time": "18:54",
+      "title": "ニデック創業者らに株主代表訴訟",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594874?source=rss",
-      "publishedAt": "2026-09-10T08:32:58.000Z",
-      "xQuery": "あいち・三十三FG 統合合意解消"
+      "url": "https://news.yahoo.co.jp/pickup/6594887?source=rss",
+      "publishedAt": "2026-09-10T09:54:25.000Z",
+      "xQuery": "ニデック創業者らに株主代表訴訟"
     },
     {
       "time": "18:18",
