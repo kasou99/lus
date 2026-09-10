@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T09:19:58.182Z",
+  "updatedAt": "2026-09-10T09:40:29.756Z",
   "items": [
     {
-      "time": "14:59",
-      "title": "北方領土の地図表記 修正申し入れ",
+      "time": "17:32",
+      "title": "あいち・三十三FG 統合合意解消",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594858?source=rss",
-      "publishedAt": "2026-09-10T05:59:28.000Z",
-      "xQuery": "北方領土の地図表記 修正申し入れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594874?source=rss",
+      "publishedAt": "2026-09-10T08:32:58.000Z",
+      "xQuery": "あいち・三十三FG 統合合意解消"
     },
     {
       "time": "17:06",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594869?source=rss",
       "publishedAt": "2026-09-10T08:06:38.000Z",
       "xQuery": "福岡の大学病院分院 閉院続く事情"
-    },
-    {
-      "time": "15:59",
-      "title": "PORTER商標権侵害疑い 書類送検",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594861?source=rss",
-      "publishedAt": "2026-09-10T06:59:33.000Z",
-      "xQuery": "PORTER商標権侵害疑い 書類送検"
     },
     {
       "time": "16:34",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594875?source=rss",
       "publishedAt": "2026-09-10T08:43:17.000Z",
       "xQuery": "鳥貴族 均一価格410円に値上げへ"
+    },
+    {
+      "time": "18:17",
+      "title": "野生ラッコ巡り町議が違反 辞職へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594885?source=rss",
+      "publishedAt": "2026-09-10T09:17:44.000Z",
+      "xQuery": "野生ラッコ巡り町議が違反 辞職へ"
     }
   ]
 };
