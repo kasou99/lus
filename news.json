@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T12:26:43.849Z",
+  "updatedAt": "2026-09-10T12:47:32.913Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-09-09T17:00:00.000Z"
       },
       {
+        "time": "05:00",
+        "title": "工作機械4社、8月受注61％増 米中輸出好調続く、国内は半導体関連良好",
+        "source": "nikkan.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OWVdDc1FJMUw1aExfbDZyVm5na3E2UHBnYVdWR1VZdmY5OTBqb3F6d1VtS0RDWVJzalo1VlV2MzVUQ1BlbVVZZU5NWHBLU0oyU0dlX2N6RGM?oc=5",
+        "publishedAt": "2026-09-09T20:00:00.000Z"
+      },
+      {
         "time": "05:14",
         "title": "８月工作機械受注 46％増 オークマ、高水準維持 - chukei-news.co.jp",
         "source": "chukei-news.co.jp",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YQUFESlplYm5xMy1RYm53MEhSek5TMWo2aHhjRWJvM2I4S1h3TVFvdFpUNjgzdnZVSjBMcVcxMG1BZ1Z3TVBBY0VEblhoYkp6ekRRdkJaVjJ0Tk5PZ05MUFJWQmFYa1JJT09GWVBkU2I0TVU?oc=5",
         "publishedAt": "2026-09-09T20:14:48.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "深層断面／フィジカルAIで日本に強み 高品質データ収集開始",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oZFNOeTl3VDNZYktjd3I4Y2Y4WldJMzdLYmFqWmlNYjM3TzVseE96UmJTdW4za3ZiMFF6NGtNMlhMTk1MZ2lNdHdiMkwwb1Nib3hjRWF3dDQ?oc=5",
-        "publishedAt": "2026-09-09T20:00:00.000Z"
       },
       {
         "time": "22:10",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-09T13:10:00.000Z"
       },
       {
+        "time": "02:00",
+        "title": "工作機械受注額65%増 8月、AI投資追い風持続",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fU1ljbmxJbXk2d0VoY3BvUEE5NGR3TFdVN2dCWERzSW9vSzVhVzI0ZHZpMXRtRE50ZlJMS00wQl9YcDhhdC15c1c1WVhHYWZST04tcTdoYU1jRVkyVExlOXYtQXVlQ2RXZ0gwTg?oc=5",
+        "publishedAt": "2026-09-09T17:00:00.000Z"
+      },
+      {
         "time": "01:18",
         "title": "通信・監視機能を強化したサイリスタ式電力調整器「CALPOTE UG3シリーズ」を開発",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaUm9OUjBnNVVBQ0pHZFBWYTVqVFJESFlvcjItREhxNjFGaTcyZEs3U2YtS3FYQjI4MVo0ek1GUHlQcC1ucm5yZG5lRTRoOVFtOGJSVg?oc=5",
         "publishedAt": "2026-09-09T16:18:36.000Z"
-      },
-      {
-        "time": "07:04",
-        "title": "三社電機製作所、通信・監視機能を強化した「ＣＡＬＰＯＴＥ ＵＧ３シリーズ」、９月受注開始 - kabu-ir.com",
-        "source": "kabu-ir.com",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5heG5QbGh6U0xueXVpN0ZuYTRwUjZaazdFWkU4THpPanlJVUhoem9HUWNIRm5BcHFQTFIwMDJlSGlNRHpYcmRLSWZJVktaa1NqbVk3Vg?oc=5",
-        "publishedAt": "2026-09-09T22:04:13.000Z"
       }
     ],
     "worldHeadlines": [

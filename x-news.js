@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T12:26:44.609Z",
+  "updatedAt": "2026-09-10T12:47:33.765Z",
   "items": [
     {
       "time": "19:22",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ニデック創業者らに株主代表訴訟"
     },
     {
+      "time": "21:04",
+      "title": "3台絡む事故で3人死傷 逆走と通報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594899?source=rss",
+      "publishedAt": "2026-09-10T12:04:21.000Z",
+      "xQuery": "3台絡む事故で3人死傷 逆走と通報"
+    },
+    {
+      "time": "19:19",
+      "title": "千葉豪雨解析 気象庁の担当も驚き",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594890?source=rss",
+      "publishedAt": "2026-09-10T10:19:13.000Z",
+      "xQuery": "千葉豪雨解析 気象庁の担当も驚き"
+    },
+    {
       "time": "18:18",
       "title": "国家公務員宿舎をリノベ 初公開",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594877?source=rss",
       "publishedAt": "2026-09-10T09:18:58.000Z",
       "xQuery": "国家公務員宿舎をリノベ 初公開"
-    },
-    {
-      "time": "17:43",
-      "title": "鳥貴族 均一価格410円に値上げへ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594875?source=rss",
-      "publishedAt": "2026-09-10T08:43:17.000Z",
-      "xQuery": "鳥貴族 均一価格410円に値上げへ"
-    },
-    {
-      "time": "18:17",
-      "title": "野生ラッコ巡り町議が違反 辞職へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594885?source=rss",
-      "publishedAt": "2026-09-10T09:17:44.000Z",
-      "xQuery": "野生ラッコ巡り町議が違反 辞職へ"
     }
   ]
 };
