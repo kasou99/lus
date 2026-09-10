@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T21:13:45.448Z",
+  "updatedAt": "2026-09-10T21:37:54.597Z",
   "items": [
     {
       "time": "23:28",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "欧州中銀 0.25%の利上げ決定"
     },
     {
-      "time": "22:14",
-      "title": "半導体巡る日中摩擦 企業に影響は",
+      "time": "06:23",
+      "title": "紀子さま還暦60歳に 文章で感想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594883?source=rss",
-      "publishedAt": "2026-09-10T13:14:56.000Z",
-      "xQuery": "半導体巡る日中摩擦 企業に影響は"
+      "url": "https://news.yahoo.co.jp/pickup/6594909?source=rss",
+      "publishedAt": "2026-09-10T21:23:26.000Z",
+      "xQuery": "紀子さま還暦60歳に 文章で感想"
     },
     {
       "time": "21:04",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3台絡む事故で3人死傷 逆走と通報"
     },
     {
-      "time": "23:47",
-      "title": "富士山閉山期 登山届の義務化検討",
+      "time": "17:43",
+      "title": "鳥貴族 均一価格410円に値上げへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594907?source=rss",
-      "publishedAt": "2026-09-10T14:47:18.000Z",
-      "xQuery": "富士山閉山期 登山届の義務化検討"
+      "url": "https://news.yahoo.co.jp/pickup/6594875?source=rss",
+      "publishedAt": "2026-09-10T08:43:17.000Z",
+      "xQuery": "鳥貴族 均一価格410円に値上げへ"
     }
   ]
 };
