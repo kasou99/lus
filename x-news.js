@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T02:25:16.465Z",
+  "updatedAt": "2026-09-10T02:43:41.792Z",
   "items": [
     {
       "time": "08:43",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "海で発見の男児死亡 不明の小5か"
     },
     {
-      "time": "09:27",
-      "title": "民家で1億円超空き巣被害 匿流か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594817?source=rss",
-      "publishedAt": "2026-09-10T00:27:31.000Z",
-      "xQuery": "民家で1億円超空き巣被害 匿流か"
-    },
-    {
       "time": "11:00",
       "title": "最高レベルの鮮やか「白色」開発",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594827?source=rss",
       "publishedAt": "2026-09-10T02:00:28.000Z",
       "xQuery": "最高レベルの鮮やか「白色」開発"
+    },
+    {
+      "time": "10:24",
+      "title": "事故で右脚失った看護師 現場復帰",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594822?source=rss",
+      "publishedAt": "2026-09-10T01:24:57.000Z",
+      "xQuery": "事故で右脚失った看護師 現場復帰"
     }
   ]
 };
