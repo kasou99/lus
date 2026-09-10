@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T19:12:47.720Z",
+  "updatedAt": "2026-09-10T19:37:27.380Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,23 +19,16 @@
       {
         "time": "05:00",
         "title": "工作機械4社、8月受注61％増 米中輸出好調続く、国内は半導体関連良好",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OWVdDc1FJMUw1aExfbDZyVm5na3E2UHBnYVdWR1VZdmY5OTBqb3F6d1VtS0RDWVJzalo1VlV2MzVUQ1BlbVVZZU5NWHBLU0oyU0dlX2N6RGM?oc=5",
         "publishedAt": "2026-09-09T20:00:00.000Z"
       },
       {
         "time": "05:14",
-        "title": "８月工作機械受注 46％増 オークマ、高水準維持 - chukei-news.co.jp",
-        "source": "chukei-news.co.jp",
+        "title": "８月工作機械受注 46％増 オークマ、高水準維持",
+        "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YQUFESlplYm5xMy1RYm53MEhSek5TMWo2aHhjRWJvM2I4S1h3TVFvdFpUNjgzdnZVSjBMcVcxMG1BZ1Z3TVBBY0VEblhoYkp6ekRRdkJaVjJ0Tk5PZ05MUFJWQmFYa1JJT09GWVBkU2I0TVU?oc=5",
         "publishedAt": "2026-09-09T20:14:48.000Z"
-      },
-      {
-        "time": "17:00",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-09-10T08:00:15.000Z"
       },
       {
         "time": "07:04",
@@ -43,6 +36,13 @@
         "source": "kabu-ir.com",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5heG5QbGh6U0xueXVpN0ZuYTRwUjZaazdFWkU4THpPanlJVUhoem9HUWNIRm5BcHFQTFIwMDJlSGlNRHpYcmRLSWZJVktaa1NqbVk3Vg?oc=5",
         "publishedAt": "2026-09-09T22:04:13.000Z"
+      },
+      {
+        "time": "05:37",
+        "title": "愛知県大口町に研究開発拠点「イノベーションハブ」開設 ヤマザキマザック、来年8月：ニュース",
+        "source": "biz.chunichi.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54dEV4WXlRMmEwS0E5RDBHLVBSSWp1Z3lZZ3hFSzJlQXZpblFxZmg2anR5R1ZMd0hhVWFUU3pTbm1ERS1kRk1nT3BZNEJzLTMzMjZNRzlIQUZ4UEFfZ2paOHIycnA?oc=5",
+        "publishedAt": "2026-09-09T20:37:15.000Z"
       },
       {
         "time": "09:21",
