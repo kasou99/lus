@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T01:47:56.887Z",
+  "updatedAt": "2026-09-10T02:25:16.465Z",
   "items": [
     {
       "time": "08:43",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "稲田氏 消費減税議論で反対した訳"
     },
     {
-      "time": "08:08",
-      "title": "沖縄知事選デマ拡散 対応追われる",
+      "time": "11:06",
+      "title": "海で発見の男児死亡 不明の小5か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594808?source=rss",
-      "publishedAt": "2026-09-09T23:08:19.000Z",
-      "xQuery": "沖縄知事選デマ拡散 対応追われる"
+      "url": "https://news.yahoo.co.jp/pickup/6594830?source=rss",
+      "publishedAt": "2026-09-10T02:06:46.000Z",
+      "xQuery": "海で発見の男児死亡 不明の小5か"
     },
     {
       "time": "09:27",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "民家で1億円超空き巣被害 匿流か"
     },
     {
-      "time": "10:24",
-      "title": "事故で右脚失った看護師 現場復帰",
+      "time": "11:00",
+      "title": "最高レベルの鮮やか「白色」開発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594822?source=rss",
-      "publishedAt": "2026-09-10T01:24:57.000Z",
-      "xQuery": "事故で右脚失った看護師 現場復帰"
+      "url": "https://news.yahoo.co.jp/pickup/6594827?source=rss",
+      "publishedAt": "2026-09-10T02:00:28.000Z",
+      "xQuery": "最高レベルの鮮やか「白色」開発"
     }
   ]
 };
