@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T21:37:54.597Z",
+  "updatedAt": "2026-09-10T22:14:25.994Z",
   "items": [
     {
-      "time": "23:28",
-      "title": "関東など 通勤時間帯に雷雨の恐れ",
+      "time": "06:58",
+      "title": "秋雨前線 近畿-関東で激しい雨も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594906?source=rss",
-      "publishedAt": "2026-09-10T14:28:13.000Z",
-      "xQuery": "関東など 通勤時間帯に雷雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6594912?source=rss",
+      "publishedAt": "2026-09-10T21:58:43.000Z",
+      "xQuery": "秋雨前線 近畿-関東で激しい雨も"
     },
     {
       "time": "22:47",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "紀子さま還暦60歳に 文章で感想"
     },
     {
+      "time": "06:47",
+      "title": "自転車の8歳 はねられ意識不明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594911?source=rss",
+      "publishedAt": "2026-09-10T21:47:50.000Z",
+      "xQuery": "自転車の8歳 はねられ意識不明"
+    },
+    {
       "time": "21:04",
       "title": "3台絡む事故で3人死傷 逆走と通報",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594899?source=rss",
       "publishedAt": "2026-09-10T12:04:21.000Z",
       "xQuery": "3台絡む事故で3人死傷 逆走と通報"
-    },
-    {
-      "time": "17:43",
-      "title": "鳥貴族 均一価格410円に値上げへ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594875?source=rss",
-      "publishedAt": "2026-09-10T08:43:17.000Z",
-      "xQuery": "鳥貴族 均一価格410円に値上げへ"
     }
   ]
 };
