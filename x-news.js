@@ -1,13 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T14:16:44.806Z",
+  "updatedAt": "2026-09-10T14:39:16.480Z",
   "items": [
     {
-      "time": "18:54",
-      "title": "ニデック創業者らに株主代表訴訟",
+      "time": "23:28",
+      "title": "関東など 通勤時間帯に雷雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594887?source=rss",
-      "publishedAt": "2026-09-10T09:54:25.000Z",
-      "xQuery": "ニデック創業者らに株主代表訴訟"
+      "url": "https://news.yahoo.co.jp/pickup/6594906?source=rss",
+      "publishedAt": "2026-09-10T14:28:13.000Z",
+      "xQuery": "関東など 通勤時間帯に雷雨の恐れ"
+    },
+    {
+      "time": "22:47",
+      "title": "欧州中銀 0.25%の利上げ決定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594903?source=rss",
+      "publishedAt": "2026-09-10T13:47:04.000Z",
+      "xQuery": "欧州中銀 0.25%の利上げ決定"
+    },
+    {
+      "time": "22:14",
+      "title": "半導体巡る日中摩擦 企業に影響は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594883?source=rss",
+      "publishedAt": "2026-09-10T13:14:56.000Z",
+      "xQuery": "半導体巡る日中摩擦 企業に影響は"
     },
     {
       "time": "21:04",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594879?source=rss",
       "publishedAt": "2026-09-10T09:13:10.000Z",
       "xQuery": "感染性ある口蹄疫 空港検疫で確認"
-    },
-    {
-      "time": "19:19",
-      "title": "千葉豪雨解析 気象庁の担当も驚き",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594890?source=rss",
-      "publishedAt": "2026-09-10T10:19:13.000Z",
-      "xQuery": "千葉豪雨解析 気象庁の担当も驚き"
-    },
-    {
-      "time": "17:02",
-      "title": "減少止まらぬ銭湯 活路にサウナ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594870?source=rss",
-      "publishedAt": "2026-09-10T08:02:47.000Z",
-      "xQuery": "減少止まらぬ銭湯 活路にサウナ"
     }
   ]
 };
