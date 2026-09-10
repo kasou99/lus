@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T02:43:40.941Z",
+  "updatedAt": "2026-09-10T03:21:35.346Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "15:28",
         "title": "8月工作機械受注は前年比64.7％増、14カ月連続プラス＝工作機械工業会",
-        "source": "Reuters",
+        "source": "jp.reuters.com",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeERtNFBvLVI3Z0t3aUVhdVk1alpISTlKLXN6WXU0SlQwbEpMN3hBc3p1amRHZVYwMVAwVzB3ZTBJVGtSZU9KeE1FS0pNdEw5MzQzN21tc3lEMTBMOTlwMjZSOHQtNHROUTIxdnpwSEd2TjFHN004WTJEMW9ITHhmdg?oc=5",
         "publishedAt": "2026-09-09T06:28:00.000Z"
       },
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "20:16",
-        "title": "日銀 今月の会合で利上げへ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594679?source=rss",
-        "publishedAt": "2026-09-08T11:16:05.000Z"
-      },
-      {
         "time": "16:35",
         "title": "丸亀製麺の運営会社に勧告 公取委",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594753?source=rss",
         "publishedAt": "2026-09-09T07:02:53.000Z"
+      },
+      {
+        "time": "12:36",
+        "title": "「清和源氏発祥」神社 民事再生へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594738?source=rss",
+        "publishedAt": "2026-09-09T03:36:28.000Z"
       }
     ],
     "localHeadlines": [

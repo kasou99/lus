@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T02:43:41.792Z",
+  "updatedAt": "2026-09-10T03:21:36.427Z",
   "items": [
     {
-      "time": "08:43",
-      "title": "内閣の外交面に高い評価 読売調査",
+      "time": "12:10",
+      "title": "太平洋側 午後に雨の範囲広がる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594814?source=rss",
-      "publishedAt": "2026-09-09T23:43:55.000Z",
-      "xQuery": "内閣の外交面に高い評価 読売調査"
+      "url": "https://news.yahoo.co.jp/pickup/6594838?source=rss",
+      "publishedAt": "2026-09-10T03:10:08.000Z",
+      "xQuery": "太平洋側 午後に雨の範囲広がる"
     },
     {
-      "time": "10:02",
-      "title": "稲田氏 消費減税議論で反対した訳",
+      "time": "11:29",
+      "title": "吉野川水系の取水制限 1日で再開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594821?source=rss",
-      "publishedAt": "2026-09-10T01:02:37.000Z",
-      "xQuery": "稲田氏 消費減税議論で反対した訳"
+      "url": "https://news.yahoo.co.jp/pickup/6594831?source=rss",
+      "publishedAt": "2026-09-10T02:29:28.000Z",
+      "xQuery": "吉野川水系の取水制限 1日で再開"
     },
     {
       "time": "11:06",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "海で発見の男児死亡 不明の小5か"
     },
     {
-      "time": "11:00",
-      "title": "最高レベルの鮮やか「白色」開発",
+      "time": "11:53",
+      "title": "東京駅直結 51階建て施設オープン",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594827?source=rss",
-      "publishedAt": "2026-09-10T02:00:28.000Z",
-      "xQuery": "最高レベルの鮮やか「白色」開発"
+      "url": "https://news.yahoo.co.jp/pickup/6594836?source=rss",
+      "publishedAt": "2026-09-10T02:53:06.000Z",
+      "xQuery": "東京駅直結 51階建て施設オープン"
     },
     {
-      "time": "10:24",
-      "title": "事故で右脚失った看護師 現場復帰",
+      "time": "11:48",
+      "title": "鮮やか「白色」印刷技術開発 京大",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594822?source=rss",
-      "publishedAt": "2026-09-10T01:24:57.000Z",
-      "xQuery": "事故で右脚失った看護師 現場復帰"
+      "url": "https://news.yahoo.co.jp/pickup/6594837?source=rss",
+      "publishedAt": "2026-09-10T02:48:43.000Z",
+      "xQuery": "鮮やか「白色」印刷技術開発 京大"
     }
   ]
 };
