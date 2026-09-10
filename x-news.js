@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T13:16:28.258Z",
+  "updatedAt": "2026-09-10T13:37:26.935Z",
   "items": [
-    {
-      "time": "19:22",
-      "title": "11日 関東甲信など警報級大雨恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594891?source=rss",
-      "publishedAt": "2026-09-10T10:22:32.000Z",
-      "xQuery": "11日 関東甲信など警報級大雨恐れ"
-    },
     {
       "time": "18:54",
       "title": "ニデック創業者らに株主代表訴訟",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594887?source=rss",
       "publishedAt": "2026-09-10T09:54:25.000Z",
       "xQuery": "ニデック創業者らに株主代表訴訟"
+    },
+    {
+      "time": "18:13",
+      "title": "感染性ある口蹄疫 空港検疫で確認",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594879?source=rss",
+      "publishedAt": "2026-09-10T09:13:10.000Z",
+      "xQuery": "感染性ある口蹄疫 空港検疫で確認"
     },
     {
       "time": "21:04",
