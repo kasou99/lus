@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T05:38:19.193Z",
+  "updatedAt": "2026-09-10T06:30:45.857Z",
   "items": [
     {
       "time": "13:44",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "党勝利なら77万円支給 トランプ氏"
     },
     {
+      "time": "14:35",
+      "title": "ケーキ店火災 複数回ガソリン購入",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594856?source=rss",
+      "publishedAt": "2026-09-10T05:35:16.000Z",
+      "xQuery": "ケーキ店火災 複数回ガソリン購入"
+    },
+    {
       "time": "14:08",
       "title": "行方不明の男児を海で発見 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594853?source=rss",
       "publishedAt": "2026-09-10T05:08:04.000Z",
       "xQuery": "行方不明の男児を海で発見 死亡"
-    },
-    {
-      "time": "11:59",
-      "title": "全員AIの「無人部署」 NECの狙い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594835?source=rss",
-      "publishedAt": "2026-09-10T02:59:38.000Z",
-      "xQuery": "全員AIの「無人部署」 NECの狙い"
     }
   ]
 };

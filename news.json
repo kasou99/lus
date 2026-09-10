@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T05:38:18.575Z",
+  "updatedAt": "2026-09-10T06:30:44.474Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,25 +17,11 @@
         "publishedAt": "2026-09-09T17:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "工作機械4社、8月受注61％増 米中輸出好調続く、国内は半導体関連良好",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OWVdDc1FJMUw1aExfbDZyVm5na3E2UHBnYVdWR1VZdmY5OTBqb3F6d1VtS0RDWVJzalo1VlV2MzVUQ1BlbVVZZU5NWHBLU0oyU0dlX2N6RGM?oc=5",
-        "publishedAt": "2026-09-09T20:00:00.000Z"
-      },
-      {
         "time": "05:14",
-        "title": "８月工作機械受注 46％増 オークマ、高水準維持",
-        "source": "中部経済新聞",
+        "title": "８月工作機械受注 46％増 オークマ、高水準維持 - chukei-news.co.jp",
+        "source": "chukei-news.co.jp",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YQUFESlplYm5xMy1RYm53MEhSek5TMWo2aHhjRWJvM2I4S1h3TVFvdFpUNjgzdnZVSjBMcVcxMG1BZ1Z3TVBBY0VEblhoYkp6ekRRdkJaVjJ0Tk5PZ05MUFJWQmFYa1JJT09GWVBkU2I0TVU?oc=5",
         "publishedAt": "2026-09-09T20:14:48.000Z"
-      },
-      {
-        "time": "15:28",
-        "title": "8月工作機械受注は前年比64.7％増、14カ月連続プラス＝工作機械工業会",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeERtNFBvLVI3Z0t3aUVhdVk1alpISTlKLXN6WXU0SlQwbEpMN3hBc3p1amRHZVYwMVAwVzB3ZTBJVGtSZU9KeE1FS0pNdEw5MzQzN21tc3lEMTBMOTlwMjZSOHQtNHROUTIxdnpwSEd2TjFHN004WTJEMW9ITHhmdg?oc=5",
-        "publishedAt": "2026-09-09T06:28:00.000Z"
       },
       {
         "time": "22:10",
@@ -52,11 +38,25 @@
         "publishedAt": "2026-09-09T17:00:00.000Z"
       },
       {
-        "time": "15:28",
-        "title": "8月工作機械受注は前年比64.7％増、14カ月連続プラス＝工作機械工業会（ロイター）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UN1BoLTJGeWdvNmlJc3NMME5Iei1HdWJ2MGdEMDJDRzVieFVBdW8yQzF0RUdpN3kyQzRsOXhKR3NJek9sc0s0WVVOa1ZrODM4UVVtWHVLTmVraUNhaldYTjV5WUVBeFZKNnNCMVJaRnI2MzJpSlkyRkRUdXlrQzg?oc=5",
-        "publishedAt": "2026-09-09T06:28:38.000Z"
+        "time": "15:33",
+        "title": "【探訪・ザ・カンパニー】江口電機（倉敷市）生産ラインの効率化を後押し",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q2Q0M0ZCeGgtMkdTajBHMDVWZVBIaWFzbTRCZm1MaGxzT0tXMTJxTng1QXh1YWFRR29nZ3RTNWhSYjdSdTdtSkplVkVEOVB1dkE?oc=5",
+        "publishedAt": "2026-09-09T06:33:43.000Z"
+      },
+      {
+        "time": "17:01",
+        "title": "8月の工作機械受注速報、前年同月比64．7％増の1978億8000万円(時事通信)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHU2TU1IOWx6aTVtRTVyd29FQUwwNnJFa2cyWnROMEVZUDQwQXM3QW43OFJzajZxWXNTMjczMjNPTmR6LU5EZk9CQm5MMmJFemVOam5GMDhqX3dGQjdOcTk1S3pvZU1YT3FOZ3hRVkZidkd5ZFlHQjh3T25QUGJTaDVaUzBkQ2s?oc=5",
+        "publishedAt": "2026-09-09T08:01:20.000Z"
+      },
+      {
+        "time": "17:15",
+        "title": "通信・監視機能を強化したサイリスタ式電力調整器「CALPOTE UG3シリーズ」を開発",
+        "source": "excite.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MSVBYbG0xNERmTkxYSDVfQ0hwTUItQXJic2RRbmV2T0RkRURJVGJsX3VEX3kyUlhhWjI3RGowbnBjUzBlMUlHNmlMM0g2Y21BeDFKNy14ODJVNjRFWnlZc2xkc0JjaUhwNUlWVTBaQUpNWVk?oc=5",
+        "publishedAt": "2026-09-09T08:15:00.000Z"
       }
     ],
     "worldHeadlines": [
