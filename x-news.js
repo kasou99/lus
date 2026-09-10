@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T03:21:36.427Z",
+  "updatedAt": "2026-09-10T03:42:23.996Z",
   "items": [
     {
       "time": "12:10",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "海で発見の男児死亡 不明の小5か"
     },
     {
+      "time": "10:54",
+      "title": "闇バイト募集投稿 半年で1万2千件",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594825?source=rss",
+      "publishedAt": "2026-09-10T01:54:24.000Z",
+      "xQuery": "闇バイト募集投稿 半年で1万2千件"
+    },
+    {
       "time": "11:53",
       "title": "東京駅直結 51階建て施設オープン",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594836?source=rss",
       "publishedAt": "2026-09-10T02:53:06.000Z",
       "xQuery": "東京駅直結 51階建て施設オープン"
-    },
-    {
-      "time": "11:48",
-      "title": "鮮やか「白色」印刷技術開発 京大",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594837?source=rss",
-      "publishedAt": "2026-09-10T02:48:43.000Z",
-      "xQuery": "鮮やか「白色」印刷技術開発 京大"
     }
   ]
 };
