@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T09:40:29.756Z",
+  "updatedAt": "2026-09-10T10:17:58.906Z",
   "items": [
     {
       "time": "17:32",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡の大学病院分院 閉院続く事情"
     },
     {
+      "time": "18:18",
+      "title": "国家公務員宿舎をリノベ 初公開",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594877?source=rss",
+      "publishedAt": "2026-09-10T09:18:58.000Z",
+      "xQuery": "国家公務員宿舎をリノベ 初公開"
+    },
+    {
       "time": "16:34",
       "title": "迷惑行為横行で中学生出禁 店の今",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594875?source=rss",
       "publishedAt": "2026-09-10T08:43:17.000Z",
       "xQuery": "鳥貴族 均一価格410円に値上げへ"
-    },
-    {
-      "time": "18:17",
-      "title": "野生ラッコ巡り町議が違反 辞職へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594885?source=rss",
-      "publishedAt": "2026-09-10T09:17:44.000Z",
-      "xQuery": "野生ラッコ巡り町議が違反 辞職へ"
     }
   ]
 };
