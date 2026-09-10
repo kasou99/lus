@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T11:15:43.973Z",
+  "updatedAt": "2026-09-10T11:37:23.752Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-09-09T20:14:48.000Z"
       },
       {
+        "time": "17:00",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-09-10T08:00:15.000Z"
+      },
+      {
         "time": "22:10",
         "title": "【設備保全DX】第2回 ファーマDX EXPO 大阪に次世代設備保全クラウド「M2X」ブースを出展｜Infoseekニュース",
         "source": "Infoseek",
@@ -50,13 +57,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fU1ljbmxJbXk2d0VoY3BvUEE5NGR3TFdVN2dCWERzSW9vSzVhVzI0ZHZpMXRtRE50ZlJMS00wQl9YcDhhdC15c1c1WVhHYWZST04tcTdoYU1jRVkyVExlOXYtQXVlQ2RXZ0gwTg?oc=5",
         "publishedAt": "2026-09-09T17:00:00.000Z"
-      },
-      {
-        "time": "01:18",
-        "title": "通信・監視機能を強化したサイリスタ式電力調整器「CALPOTE UG3シリーズ」を開発",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaUm9OUjBnNVVBQ0pHZFBWYTVqVFJESFlvcjItREhxNjFGaTcyZEs3U2YtS3FYQjI4MVo0ek1GUHlQcC1ucm5yZG5lRTRoOVFtOGJSVg?oc=5",
-        "publishedAt": "2026-09-09T16:18:36.000Z"
       }
     ],
     "worldHeadlines": [
