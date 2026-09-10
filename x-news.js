@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T07:40:17.161Z",
+  "updatedAt": "2026-09-10T08:24:49.002Z",
   "items": [
     {
       "time": "13:44",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中道 未交付の政党交付金の行方は"
     },
     {
-      "time": "14:26",
-      "title": "フェリー火災5人死亡87人不明 比",
+      "time": "14:13",
+      "title": "8月の世界平均気温 観測史上最高",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594855?source=rss",
-      "publishedAt": "2026-09-10T05:26:08.000Z",
-      "xQuery": "フェリー火災5人死亡87人不明 比"
+      "url": "https://news.yahoo.co.jp/pickup/6594854?source=rss",
+      "publishedAt": "2026-09-10T05:13:14.000Z",
+      "xQuery": "8月の世界平均気温 観測史上最高"
     },
     {
       "time": "14:59",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "北方領土の地図表記 修正申し入れ"
     },
     {
-      "time": "14:35",
-      "title": "ケーキ店火災 複数回ガソリン購入",
+      "time": "15:59",
+      "title": "PORTER商標権侵害疑い 書類送検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594856?source=rss",
-      "publishedAt": "2026-09-10T05:35:16.000Z",
-      "xQuery": "ケーキ店火災 複数回ガソリン購入"
+      "url": "https://news.yahoo.co.jp/pickup/6594861?source=rss",
+      "publishedAt": "2026-09-10T06:59:33.000Z",
+      "xQuery": "PORTER商標権侵害疑い 書類送検"
     },
     {
-      "time": "14:08",
-      "title": "行方不明の男児を海で発見 死亡",
+      "time": "16:34",
+      "title": "迷惑行為横行で中学生出禁 店の今",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594853?source=rss",
-      "publishedAt": "2026-09-10T05:08:04.000Z",
-      "xQuery": "行方不明の男児を海で発見 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6594864?source=rss",
+      "publishedAt": "2026-09-10T07:34:11.000Z",
+      "xQuery": "迷惑行為横行で中学生出禁 店の今"
     }
   ]
 };

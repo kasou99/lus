@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T07:40:16.113Z",
+  "updatedAt": "2026-09-10T08:24:48.032Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kMmEyRDFOZERiSlVtNjVfdkJ0WFFKaWRabE55MEl0OE42aFFUR180RGN2N2NWR3R2Ui1jZTE3MWtQOEs3QTNuOXVkZmU4cHBWZkNHUXlaYVY1RUVlU0FuQkU5VUJPcjNEU0pvbw?oc=5",
         "publishedAt": "2026-09-09T17:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "工作機械4社、8月受注61％増 米中輸出好調続く、国内は半導体関連良好",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OWVdDc1FJMUw1aExfbDZyVm5na3E2UHBnYVdWR1VZdmY5OTBqb3F6d1VtS0RDWVJzalo1VlV2MzVUQ1BlbVVZZU5NWHBLU0oyU0dlX2N6RGM?oc=5",
+        "publishedAt": "2026-09-09T20:00:00.000Z"
       },
       {
         "time": "05:14",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaUm9OUjBnNVVBQ0pHZFBWYTVqVFJESFlvcjItREhxNjFGaTcyZEs3U2YtS3FYQjI4MVo0ek1GUHlQcC1ucm5yZG5lRTRoOVFtOGJSVg?oc=5",
         "publishedAt": "2026-09-09T16:18:36.000Z"
-      },
-      {
-        "time": "17:25",
-        "title": "8月の工作機械65%増 夏枯れも打ち消すAI需要、高い依存度に懸念も",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tVDd2MnBkY281Z1VWUzZ1OGFiUVlReU8xSGVseThuWlU4T3VucmVkSGpJNnNsUDR3dkVFVVRPWlByT2JrbzBLMko4bFdpdDdMUTBodFpaQUk3bGdyajRMSXBpWFVaWHl1WDRNNw?oc=5",
-        "publishedAt": "2026-09-09T08:25:35.000Z"
       }
     ],
     "worldHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-09-09T21:22:26.000Z"
       },
       {
-        "time": "16:02",
-        "title": "コメ農家の廃業 過去最多ペース",
+        "time": "17:02",
+        "title": "減少止まらぬ銭湯 活路にサウナ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594753?source=rss",
-        "publishedAt": "2026-09-09T07:02:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594870?source=rss",
+        "publishedAt": "2026-09-10T08:02:47.000Z"
       }
     ],
     "localHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
