@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T13:37:26.935Z",
+  "updatedAt": "2026-09-10T14:16:44.806Z",
   "items": [
     {
       "time": "18:54",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ニデック創業者らに株主代表訴訟"
     },
     {
-      "time": "18:13",
-      "title": "感染性ある口蹄疫 空港検疫で確認",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594879?source=rss",
-      "publishedAt": "2026-09-10T09:13:10.000Z",
-      "xQuery": "感染性ある口蹄疫 空港検疫で確認"
-    },
-    {
       "time": "21:04",
       "title": "3台絡む事故で3人死傷 逆走と通報",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594899?source=rss",
       "publishedAt": "2026-09-10T12:04:21.000Z",
       "xQuery": "3台絡む事故で3人死傷 逆走と通報"
+    },
+    {
+      "time": "18:13",
+      "title": "感染性ある口蹄疫 空港検疫で確認",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594879?source=rss",
+      "publishedAt": "2026-09-10T09:13:10.000Z",
+      "xQuery": "感染性ある口蹄疫 空港検疫で確認"
     },
     {
       "time": "19:19",
