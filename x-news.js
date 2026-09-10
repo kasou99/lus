@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T14:39:16.480Z",
+  "updatedAt": "2026-09-10T15:17:40.503Z",
   "items": [
     {
       "time": "23:28",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "3台絡む事故で3人死傷 逆走と通報"
     },
     {
-      "time": "18:13",
-      "title": "感染性ある口蹄疫 空港検疫で確認",
+      "time": "23:47",
+      "title": "富士山閉山期 登山届の義務化検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594879?source=rss",
-      "publishedAt": "2026-09-10T09:13:10.000Z",
-      "xQuery": "感染性ある口蹄疫 空港検疫で確認"
+      "url": "https://news.yahoo.co.jp/pickup/6594907?source=rss",
+      "publishedAt": "2026-09-10T14:47:18.000Z",
+      "xQuery": "富士山閉山期 登山届の義務化検討"
     }
   ]
 };
