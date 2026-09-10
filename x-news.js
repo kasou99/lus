@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T06:30:45.857Z",
+  "updatedAt": "2026-09-10T07:19:45.549Z",
   "items": [
     {
       "time": "13:44",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "フェリー火災5人死亡87人不明 比"
     },
     {
-      "time": "13:46",
-      "title": "党勝利なら77万円支給 トランプ氏",
+      "time": "14:59",
+      "title": "北方領土の地図表記 修正申し入れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594850?source=rss",
-      "publishedAt": "2026-09-10T04:46:04.000Z",
-      "xQuery": "党勝利なら77万円支給 トランプ氏"
+      "url": "https://news.yahoo.co.jp/pickup/6594858?source=rss",
+      "publishedAt": "2026-09-10T05:59:28.000Z",
+      "xQuery": "北方領土の地図表記 修正申し入れ"
     },
     {
       "time": "14:35",

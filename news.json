@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-10T06:30:44.474Z",
+  "updatedAt": "2026-09-10T07:19:44.707Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:51",
+        "title": "工作機械受注が教えてくれる日本株・世界経済（26 年８月） | 藤代 宏一 | 第一ライフ資産運用経済研究所",
+        "source": "第一ライフ資産運用経済研究所",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zc0lhX3Bqbk1yLWtDcGg2SkRlUEh6aEs4SHNYcDFOQzVXMW5JOEN3UlB2dE9QejA1emtURmIzbW5va3hYbGxiWndWTlozSHk4N1ZoOWotMG0yX00?oc=5",
+        "publishedAt": "2026-09-10T00:51:25.000Z"
+      },
       {
         "time": "13:30",
         "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026（レスポンス）",
@@ -24,6 +31,13 @@
         "publishedAt": "2026-09-09T20:14:48.000Z"
       },
       {
+        "time": "05:00",
+        "title": "TOPPAN、衣類用RFIDタグ開発 欧向け製品管理に提案",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4bXpWaU1tZ29CM1pZY0FJZS1vZ3dWbWR4Qm9JT0tWTi1KYnZWMEl5bDlSZnM2VkRtaDZySWVhNGlVMzB4c0VYM0JlbXd5WjJGc0dhWTBLemk?oc=5",
+        "publishedAt": "2026-09-09T20:00:00.000Z"
+      },
+      {
         "time": "22:10",
         "title": "【設備保全DX】第2回 ファーマDX EXPO 大阪に次世代設備保全クラウド「M2X」ブースを出展｜Infoseekニュース",
         "source": "Infoseek",
@@ -31,32 +45,18 @@
         "publishedAt": "2026-09-09T13:10:00.000Z"
       },
       {
-        "time": "02:00",
-        "title": "工作機械受注額65%増 8月、AI投資追い風持続",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fU1ljbmxJbXk2d0VoY3BvUEE5NGR3TFdVN2dCWERzSW9vSzVhVzI0ZHZpMXRtRE50ZlJMS00wQl9YcDhhdC15c1c1WVhHYWZST04tcTdoYU1jRVkyVExlOXYtQXVlQ2RXZ0gwTg?oc=5",
-        "publishedAt": "2026-09-09T17:00:00.000Z"
-      },
-      {
-        "time": "15:33",
-        "title": "【探訪・ザ・カンパニー】江口電機（倉敷市）生産ラインの効率化を後押し",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Q2Q0M0ZCeGgtMkdTajBHMDVWZVBIaWFzbTRCZm1MaGxzT0tXMTJxTng1QXh1YWFRR29nZ3RTNWhSYjdSdTdtSkplVkVEOVB1dkE?oc=5",
-        "publishedAt": "2026-09-09T06:33:43.000Z"
-      },
-      {
-        "time": "17:01",
-        "title": "8月の工作機械受注速報、前年同月比64．7％増の1978億8000万円(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHU2TU1IOWx6aTVtRTVyd29FQUwwNnJFa2cyWnROMEVZUDQwQXM3QW43OFJzajZxWXNTMjczMjNPTmR6LU5EZk9CQm5MMmJFemVOam5GMDhqX3dGQjdOcTk1S3pvZU1YT3FOZ3hRVkZidkd5ZFlHQjh3T25QUGJTaDVaUzBkQ2s?oc=5",
-        "publishedAt": "2026-09-09T08:01:20.000Z"
-      },
-      {
-        "time": "17:15",
+        "time": "01:18",
         "title": "通信・監視機能を強化したサイリスタ式電力調整器「CALPOTE UG3シリーズ」を開発",
-        "source": "excite.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MSVBYbG0xNERmTkxYSDVfQ0hwTUItQXJic2RRbmV2T0RkRURJVGJsX3VEX3kyUlhhWjI3RGowbnBjUzBlMUlHNmlMM0g2Y21BeDFKNy14ODJVNjRFWnlZc2xkc0JjaUhwNUlWVTBaQUpNWVk?oc=5",
-        "publishedAt": "2026-09-09T08:15:00.000Z"
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaUm9OUjBnNVVBQ0pHZFBWYTVqVFJESFlvcjItREhxNjFGaTcyZEs3U2YtS3FYQjI4MVo0ek1GUHlQcC1ucm5yZG5lRTRoOVFtOGJSVg?oc=5",
+        "publishedAt": "2026-09-09T16:18:36.000Z"
+      },
+      {
+        "time": "17:25",
+        "title": "8月の工作機械65%増 夏枯れも打ち消すAI需要、高い依存度に懸念も",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tVDd2MnBkY281Z1VWUzZ1OGFiUVlReU8xSGVseThuWlU4T3VucmVkSGpJNnNsUDR3dkVFVVRPWlByT2JrbzBLMko4bFdpdDdMUTBodFpaQUk3bGdyajRMSXBpWFVaWHl1WDRNNw?oc=5",
+        "publishedAt": "2026-09-09T08:25:35.000Z"
       }
     ],
     "worldHeadlines": [
