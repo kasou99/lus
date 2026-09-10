@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T05:17:42.833Z",
+  "updatedAt": "2026-09-10T05:38:19.193Z",
   "items": [
     {
-      "time": "12:10",
-      "title": "太平洋側 午後に雨の範囲広がる",
+      "time": "13:44",
+      "title": "中道 未交付の政党交付金の行方は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594838?source=rss",
-      "publishedAt": "2026-09-10T03:10:08.000Z",
-      "xQuery": "太平洋側 午後に雨の範囲広がる"
+      "url": "https://news.yahoo.co.jp/pickup/6594843?source=rss",
+      "publishedAt": "2026-09-10T04:44:12.000Z",
+      "xQuery": "中道 未交付の政党交付金の行方は"
     },
     {
-      "time": "12:56",
-      "title": "新名神6人死亡 被告に拘禁7年求刑",
+      "time": "14:26",
+      "title": "フェリー火災5人死亡87人不明 比",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594845?source=rss",
-      "publishedAt": "2026-09-10T03:56:05.000Z",
-      "xQuery": "新名神6人死亡 被告に拘禁7年求刑"
+      "url": "https://news.yahoo.co.jp/pickup/6594855?source=rss",
+      "publishedAt": "2026-09-10T05:26:08.000Z",
+      "xQuery": "フェリー火災5人死亡87人不明 比"
     },
     {
       "time": "13:46",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "行方不明の男児を海で発見 死亡"
     },
     {
-      "time": "13:48",
-      "title": "国道陥没 車がはまり運転男性けが",
+      "time": "11:59",
+      "title": "全員AIの「無人部署」 NECの狙い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594849?source=rss",
-      "publishedAt": "2026-09-10T04:48:22.000Z",
-      "xQuery": "国道陥没 車がはまり運転男性けが"
+      "url": "https://news.yahoo.co.jp/pickup/6594835?source=rss",
+      "publishedAt": "2026-09-10T02:59:38.000Z",
+      "xQuery": "全員AIの「無人部署」 NECの狙い"
     }
   ]
 };
