@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T22:37:11.125Z",
+  "updatedAt": "2026-09-10T23:13:30.282Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -18,9 +18,9 @@
       },
       {
         "time": "05:00",
-        "title": "経済広報センター「企業広報賞」大賞に日立",
+        "title": "スター精密、新工場 スイス型自動旋盤上級機",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1meTdYc1BpUDVGTHBwMlZCNXRFbVdlQTQzN2lpUzVlUzhPOXJjMXZJalM0YW1sN0tKMHJzck1IalFwUmhYWldDRzJnQWNGaDJvNlY2UGR3Nl8?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PVjdFNmJmSUMxcXZ0RGwzMF9aNjJqZGNvWXc0TElZYzN4VkRVZUEtTE93emtzOVdiYlNBdVFUdDZmX0xHMVNtWkRCdGxOYVBFYkhyOWlyV3k?oc=5",
         "publishedAt": "2026-09-10T20:00:00.000Z"
       },
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-09-10T20:00:00.000Z"
       },
       {
-        "time": "10:46",
-        "title": "【台湾情報】台湾機械伝動設備、AI・ロボット需要で生産額2桁増／台湾ファシリティエンジニアリングが好調維持の最新動向",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRQkFUTTNYRURTRkVyVEs2YTFfX1dRQzRHWmljV3dzZ2ZnT1JKMjZCNnAtcVBYSzMtNjFNUXdoR1R3Z3lRN3FfRmZvWVBKdGJtZk11bl8xUTduZk4yRzVIeWVqbFJvQVB0dmhB?oc=5",
-        "publishedAt": "2026-09-10T01:46:00.000Z"
-      },
-      {
         "time": "09:21",
         "title": "科学、技術、イノベーション、そしてデジタル変革：ドンナイ省の新たな成長の原動力を解き放つ「鍵」（最終記事）",
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT3U0d2d3OVdPQzBWWlZvYWY0S0FFTHhUaHhFdmdzXzZfS1VLOXpHZDNtVmxEMXFBdjg0ekxwUWVmSGp6Z3NqblZtRi1YdnJsLUVJTUc4d0ZPUE5obHIwNTZSbXE1YWhKbk1nSWJ1ZllSeUNLTjl2WUN5c2YzemJqMHdWX1ItT19fMm0yeFEwMW85WU1TaEJlaXNIcjFCbEpWbnV6U3hwMzdtbHp5N3liUWR3azRhWDRjdXk5eW5zQjBJSFlkMlg4OUVhdmZQNEN3V3pXSGVWUmE?oc=5",
         "publishedAt": "2026-09-10T00:21:24.000Z"
+      },
+      {
+        "time": "10:46",
+        "title": "【台湾情報】台湾機械伝動設備、AI・ロボット需要で生産額2桁増／台湾ファシリティエンジニアリングが好調維持の最新動向",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRQkFUTTNYRURTRkVyVEs2YTFfX1dRQzRHWmljV3dzZ2ZnT1JKMjZCNnAtcVBYSzMtNjFNUXdoR1R3Z3lRN3FfRmZvWVBKdGJtZk11bl8xUTduZk4yRzVIeWVqbFJvQVB0dmhB?oc=5",
+        "publishedAt": "2026-09-10T01:46:00.000Z"
       },
       {
         "time": "18:54",
@@ -126,13 +126,6 @@
         "publishedAt": "2026-09-10T03:35:56.000Z"
       },
       {
-        "time": "06:22",
-        "title": "高野山の宿坊 集団申告漏れ指摘",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594798?source=rss",
-        "publishedAt": "2026-09-09T21:22:26.000Z"
-      },
-      {
         "time": "22:14",
         "title": "半導体巡る日中摩擦 企業に影響は",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594875?source=rss",
         "publishedAt": "2026-09-10T08:43:17.000Z"
+      },
+      {
+        "time": "07:39",
+        "title": "3月導入のEVバス 早くも運行停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594915?source=rss",
+        "publishedAt": "2026-09-10T22:39:41.000Z"
       }
     ],
     "localHeadlines": [
@@ -161,13 +161,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594911?source=rss",
         "publishedAt": "2026-09-10T21:47:50.000Z"
-      },
-      {
-        "time": "14:35",
-        "title": "ケーキ店火災 複数回ガソリン購入",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594856?source=rss",
-        "publishedAt": "2026-09-10T05:35:16.000Z"
       },
       {
         "time": "14:08",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594885?source=rss",
         "publishedAt": "2026-09-10T09:17:44.000Z"
+      },
+      {
+        "time": "15:59",
+        "title": "PORTER商標権侵害疑い 書類送検",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594861?source=rss",
+        "publishedAt": "2026-09-10T06:59:33.000Z"
       }
     ],
     "subsidyHeadlines": [

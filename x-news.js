@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T22:37:11.938Z",
+  "updatedAt": "2026-09-10T23:13:31.367Z",
   "items": [
     {
       "time": "06:58",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "自転車の8歳 はねられ意識不明"
     },
     {
-      "time": "21:04",
-      "title": "3台絡む事故で3人死傷 逆走と通報",
+      "time": "07:39",
+      "title": "3月導入のEVバス 早くも運行停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594899?source=rss",
-      "publishedAt": "2026-09-10T12:04:21.000Z",
-      "xQuery": "3台絡む事故で3人死傷 逆走と通報"
+      "url": "https://news.yahoo.co.jp/pickup/6594915?source=rss",
+      "publishedAt": "2026-09-10T22:39:41.000Z",
+      "xQuery": "3月導入のEVバス 早くも運行停止"
     }
   ]
 };
