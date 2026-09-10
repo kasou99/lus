@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-09T23:37:32.381Z",
+  "updatedAt": "2026-09-10T00:47:31.277Z",
   "items": [
     {
-      "time": "06:46",
-      "title": "東京都心は22℃予想 10月中旬並み",
+      "time": "09:08",
+      "title": "イラン終結は選挙後 米大統領主張",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594800?source=rss",
-      "publishedAt": "2026-09-09T21:46:15.000Z",
-      "xQuery": "東京都心は22℃予想 10月中旬並み"
+      "url": "https://news.yahoo.co.jp/pickup/6594816?source=rss",
+      "publishedAt": "2026-09-10T00:08:31.000Z",
+      "xQuery": "イラン終結は選挙後 米大統領主張"
     },
     {
       "time": "08:08",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "有村治子氏を要職起用へ 手腕評価"
     },
     {
+      "time": "09:27",
+      "title": "民家で1億円超空き巣被害 匿流か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594817?source=rss",
+      "publishedAt": "2026-09-10T00:27:31.000Z",
+      "xQuery": "民家で1億円超空き巣被害 匿流か"
+    },
+    {
       "time": "07:49",
       "title": "トラクター横転 運転の100歳死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594806?source=rss",
       "publishedAt": "2026-09-09T22:49:11.000Z",
       "xQuery": "トラクター横転 運転の100歳死亡"
-    },
-    {
-      "time": "07:23",
-      "title": "米アップル新製品発表会 Xの反応",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594804?source=rss",
-      "publishedAt": "2026-09-09T22:23:00.000Z",
-      "xQuery": "米アップル新製品発表会 Xの反応"
     }
   ]
 };
