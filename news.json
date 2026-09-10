@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T22:14:25.271Z",
+  "updatedAt": "2026-09-10T22:37:11.125Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-09-10T00:51:25.000Z"
       },
       {
+        "time": "05:00",
+        "title": "経済広報センター「企業広報賞」大賞に日立",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1meTdYc1BpUDVGTHBwMlZCNXRFbVdlQTQzN2lpUzVlUzhPOXJjMXZJalM0YW1sN0tKMHJzck1IalFwUmhYWldDRzJnQWNGaDJvNlY2UGR3Nl8?oc=5",
+        "publishedAt": "2026-09-10T20:00:00.000Z"
+      },
+      {
         "time": "13:30",
         "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026",
         "source": "レスポンス（Response.jp）",
@@ -28,13 +35,6 @@
         "title": "スター精密牧之原工場が完成 世界的な需要拡大に対応",
         "source": "静岡新聞DIGITAL",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VSG8wOWU1cGl5Qk5QYlBVU215cHl0QURDU2lQRlI0eXdySkYyREJwTjM0TXdhLWdoMk1LZnNRTmc5Y1MwYzV4bVE3UUJWQQ?oc=5",
-        "publishedAt": "2026-09-10T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "トコシエ、米に本社 AI活用3D設計ソフトを拡販",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKRHpsazBFcmw0Z21IS21SZEtNZUs5b1BKd1JLTEYxVXMzT1FnekFBMTRaLUMzNlVjdTc1SHVGeE14bUxxQ3ZzVWVkOXUyQlhueGY0RWdYMUg?oc=5",
         "publishedAt": "2026-09-10T20:00:00.000Z"
       },
       {

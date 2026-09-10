@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T22:14:25.994Z",
+  "updatedAt": "2026-09-10T22:37:11.938Z",
   "items": [
     {
       "time": "06:58",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "秋雨前線 近畿-関東で激しい雨も"
     },
     {
-      "time": "22:47",
-      "title": "欧州中銀 0.25%の利上げ決定",
+      "time": "07:23",
+      "title": "給付制度の担当相 創設を検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594903?source=rss",
-      "publishedAt": "2026-09-10T13:47:04.000Z",
-      "xQuery": "欧州中銀 0.25%の利上げ決定"
+      "url": "https://news.yahoo.co.jp/pickup/6594913?source=rss",
+      "publishedAt": "2026-09-10T22:23:43.000Z",
+      "xQuery": "給付制度の担当相 創設を検討"
     },
     {
       "time": "06:23",
