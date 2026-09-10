@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T23:13:31.367Z",
+  "updatedAt": "2026-09-10T23:37:40.755Z",
   "items": [
     {
-      "time": "06:58",
-      "title": "秋雨前線 近畿-関東で激しい雨も",
+      "time": "08:08",
+      "title": "維新入閣 馬場氏か藤田氏で調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594912?source=rss",
-      "publishedAt": "2026-09-10T21:58:43.000Z",
-      "xQuery": "秋雨前線 近畿-関東で激しい雨も"
+      "url": "https://news.yahoo.co.jp/pickup/6594918?source=rss",
+      "publishedAt": "2026-09-10T23:08:12.000Z",
+      "xQuery": "維新入閣 馬場氏か藤田氏で調整"
     },
     {
       "time": "07:23",
