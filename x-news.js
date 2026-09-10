@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T10:17:58.906Z",
+  "updatedAt": "2026-09-10T10:38:46.640Z",
   "items": [
     {
       "time": "17:32",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594874?source=rss",
       "publishedAt": "2026-09-10T08:32:58.000Z",
       "xQuery": "あいち・三十三FG 統合合意解消"
-    },
-    {
-      "time": "17:06",
-      "title": "福岡の大学病院分院 閉院続く事情",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594869?source=rss",
-      "publishedAt": "2026-09-10T08:06:38.000Z",
-      "xQuery": "福岡の大学病院分院 閉院続く事情"
     },
     {
       "time": "18:18",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594875?source=rss",
       "publishedAt": "2026-09-10T08:43:17.000Z",
       "xQuery": "鳥貴族 均一価格410円に値上げへ"
+    },
+    {
+      "time": "18:17",
+      "title": "野生ラッコ巡り町議が違反 辞職へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594885?source=rss",
+      "publishedAt": "2026-09-10T09:17:44.000Z",
+      "xQuery": "野生ラッコ巡り町議が違反 辞職へ"
     }
   ]
 };
