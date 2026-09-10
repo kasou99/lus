@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T00:47:31.277Z",
+  "updatedAt": "2026-09-10T01:25:38.594Z",
   "items": [
+    {
+      "time": "09:56",
+      "title": "張本勲さん死去 プロ野球3000安打",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594820?source=rss",
+      "publishedAt": "2026-09-10T00:56:00.000Z",
+      "xQuery": "張本勲さん死去 プロ野球3000安打"
+    },
     {
       "time": "09:08",
       "title": "イラン終結は選挙後 米大統領主張",
@@ -8,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594816?source=rss",
       "publishedAt": "2026-09-10T00:08:31.000Z",
       "xQuery": "イラン終結は選挙後 米大統領主張"
+    },
+    {
+      "time": "10:02",
+      "title": "稲田氏 消費減税議論で反対した訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594821?source=rss",
+      "publishedAt": "2026-09-10T01:02:37.000Z",
+      "xQuery": "稲田氏 消費減税議論で反対した訳"
     },
     {
       "time": "08:08",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "沖縄知事選デマ拡散 対応追われる"
     },
     {
-      "time": "08:00",
-      "title": "有村治子氏を要職起用へ 手腕評価",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594807?source=rss",
-      "publishedAt": "2026-09-09T23:00:13.000Z",
-      "xQuery": "有村治子氏を要職起用へ 手腕評価"
-    },
-    {
       "time": "09:27",
       "title": "民家で1億円超空き巣被害 匿流か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594817?source=rss",
       "publishedAt": "2026-09-10T00:27:31.000Z",
       "xQuery": "民家で1億円超空き巣被害 匿流か"
-    },
-    {
-      "time": "07:49",
-      "title": "トラクター横転 運転の100歳死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594806?source=rss",
-      "publishedAt": "2026-09-09T22:49:11.000Z",
-      "xQuery": "トラクター横転 運転の100歳死亡"
     }
   ]
 };
