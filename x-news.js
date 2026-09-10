@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T08:24:49.002Z",
+  "updatedAt": "2026-09-10T08:43:30.638Z",
   "items": [
     {
-      "time": "13:44",
-      "title": "中道 未交付の政党交付金の行方は",
+      "time": "14:59",
+      "title": "北方領土の地図表記 修正申し入れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594843?source=rss",
-      "publishedAt": "2026-09-10T04:44:12.000Z",
-      "xQuery": "中道 未交付の政党交付金の行方は"
+      "url": "https://news.yahoo.co.jp/pickup/6594858?source=rss",
+      "publishedAt": "2026-09-10T05:59:28.000Z",
+      "xQuery": "北方領土の地図表記 修正申し入れ"
+    },
+    {
+      "time": "17:06",
+      "title": "福岡の大学病院分院 閉院続く事情",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594869?source=rss",
+      "publishedAt": "2026-09-10T08:06:38.000Z",
+      "xQuery": "福岡の大学病院分院 閉院続く事情"
     },
     {
       "time": "14:13",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594854?source=rss",
       "publishedAt": "2026-09-10T05:13:14.000Z",
       "xQuery": "8月の世界平均気温 観測史上最高"
-    },
-    {
-      "time": "14:59",
-      "title": "北方領土の地図表記 修正申し入れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594858?source=rss",
-      "publishedAt": "2026-09-10T05:59:28.000Z",
-      "xQuery": "北方領土の地図表記 修正申し入れ"
     },
     {
       "time": "15:59",
