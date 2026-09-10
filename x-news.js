@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T12:47:33.765Z",
+  "updatedAt": "2026-09-10T13:16:28.258Z",
   "items": [
     {
       "time": "19:22",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉豪雨解析 気象庁の担当も驚き"
     },
     {
-      "time": "18:18",
-      "title": "国家公務員宿舎をリノベ 初公開",
+      "time": "17:02",
+      "title": "減少止まらぬ銭湯 活路にサウナ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594877?source=rss",
-      "publishedAt": "2026-09-10T09:18:58.000Z",
-      "xQuery": "国家公務員宿舎をリノベ 初公開"
+      "url": "https://news.yahoo.co.jp/pickup/6594870?source=rss",
+      "publishedAt": "2026-09-10T08:02:47.000Z",
+      "xQuery": "減少止まらぬ銭湯 活路にサウナ"
     }
   ]
 };
