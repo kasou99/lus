@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T07:19:44.707Z",
+  "updatedAt": "2026-09-10T07:40:16.113Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-09-09T20:14:48.000Z"
       },
       {
-        "time": "05:00",
-        "title": "TOPPAN、衣類用RFIDタグ開発 欧向け製品管理に提案",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4bXpWaU1tZ29CM1pZY0FJZS1vZ3dWbWR4Qm9JT0tWTi1KYnZWMEl5bDlSZnM2VkRtaDZySWVhNGlVMzB4c0VYM0JlbXd5WjJGc0dhWTBLemk?oc=5",
-        "publishedAt": "2026-09-09T20:00:00.000Z"
-      },
-      {
         "time": "22:10",
         "title": "【設備保全DX】第2回 ファーマDX EXPO 大阪に次世代設備保全クラウド「M2X」ブースを出展｜Infoseekニュース",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QMnpGaXpEYjk5amlFYzNJYnBlWUFUVnRyMW4yTjVFVmZtNWNrby15OWNXRi0yMFhBbzNlUFpMc08wM0hkUkxodUVQcFJqbTlpNk5XaVI3Y3poczdqVjY1QTgwMzBucHVrdkhxTFNCWmFuZw?oc=5",
         "publishedAt": "2026-09-09T13:10:00.000Z"
+      },
+      {
+        "time": "02:00",
+        "title": "工作機械受注額65%増 8月、AI投資追い風持続",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fU1ljbmxJbXk2d0VoY3BvUEE5NGR3TFdVN2dCWERzSW9vSzVhVzI0ZHZpMXRtRE50ZlJMS00wQl9YcDhhdC15c1c1WVhHYWZST04tcTdoYU1jRVkyVExlOXYtQXVlQ2RXZ0gwTg?oc=5",
+        "publishedAt": "2026-09-09T17:00:00.000Z"
       },
       {
         "time": "01:18",
