@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T10:38:46.640Z",
+  "updatedAt": "2026-09-10T11:15:44.921Z",
   "items": [
+    {
+      "time": "19:22",
+      "title": "11日 関東甲信など警報級大雨恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594891?source=rss",
+      "publishedAt": "2026-09-10T10:22:32.000Z",
+      "xQuery": "11日 関東甲信など警報級大雨恐れ"
+    },
     {
       "time": "17:32",
       "title": "あいち・三十三FG 統合合意解消",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594877?source=rss",
       "publishedAt": "2026-09-10T09:18:58.000Z",
       "xQuery": "国家公務員宿舎をリノベ 初公開"
-    },
-    {
-      "time": "16:34",
-      "title": "迷惑行為横行で中学生出禁 店の今",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594864?source=rss",
-      "publishedAt": "2026-09-10T07:34:11.000Z",
-      "xQuery": "迷惑行為横行で中学生出禁 店の今"
     },
     {
       "time": "17:43",
