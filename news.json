@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T23:14:33.121Z",
+  "updatedAt": "2026-09-11T23:37:22.111Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-09-11T04:00:00.000Z"
       },
       {
-        "time": "19:56",
-        "title": "内海造船、造船能力増強に111億円投資",
+        "time": "15:46",
+        "title": "スター精密、牧之原新工場で分散工程を集約",
         "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUVVFWlVaWktOX1ZXdTZOb2FXSnpXbEdwZDdtbGM0SDRLT2txQnVQeV9JOWRldU9LTGRJS2N5eU1UYk1sQ1k0TQ?oc=5",
-        "publishedAt": "2026-09-11T10:56:17.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3dnZmZHlDRmZEOFIwZ2o3ZDlJcVY4MXF3M3BKam9UMHJGd2xWRmRHUklxZ2dqLXhCTXprN25TQ3VBUF9iMmpnMw?oc=5",
+        "publishedAt": "2026-09-11T06:46:20.000Z"
       },
       {
         "time": "17:29",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-09-11T20:00:00.000Z"
       },
       {
-        "time": "15:21",
-        "title": "製造業の63%が「スキルギャップ」を変革の最大の壁と認識 - ヘイズ調査",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10MGszQnNkRTNQc1BYMjR1aXhaU080akRJMEVkMVp1MDRzb3o2SlJpdTNWNnNmeUxrbkVDUllxd1VKcGVXUHZ1SFBlLVNuVHNDMmxHUExFWXgydzkxTFpjYThjMWZSRmo3WlNJQkczTHU0c2x0cjBDLU9POA?oc=5",
-        "publishedAt": "2026-09-11T06:21:11.000Z"
+        "time": "19:56",
+        "title": "内海造船、造船能力増強に111億円投資",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUVVFWlVaWktOX1ZXdTZOb2FXSnpXbEdwZDdtbGM0SDRLT2txQnVQeV9JOWRldU9LTGRJS2N5eU1UYk1sQ1k0TQ?oc=5",
+        "publishedAt": "2026-09-11T10:56:17.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-09-11T07:58:56.000Z"
       },
       {
-        "time": "12:35",
-        "title": "傷害事件で逮捕 高2死亡に関与か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594945?source=rss",
-        "publishedAt": "2026-09-11T03:35:16.000Z"
-      },
-      {
         "time": "23:16",
         "title": "海岸に遺体 不明生徒との関連捜査",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594933?source=rss",
         "publishedAt": "2026-09-11T02:22:33.000Z"
+      },
+      {
+        "time": "20:31",
+        "title": "特定技能の給与天引き 支払い命令",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594982?source=rss",
+        "publishedAt": "2026-09-11T11:31:52.000Z"
       }
     ],
     "subsidyHeadlines": [

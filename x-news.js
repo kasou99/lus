@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T23:14:33.957Z",
+  "updatedAt": "2026-09-11T23:37:22.874Z",
   "items": [
     {
-      "time": "07:19",
-      "title": "北朝鮮 日本海に向け飛翔体発射",
+      "time": "08:10",
+      "title": "首相 裏金事件関与議員の入閣検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595000?source=rss",
-      "publishedAt": "2026-09-11T22:19:46.000Z",
-      "xQuery": "北朝鮮 日本海に向け飛翔体発射"
+      "url": "https://news.yahoo.co.jp/pickup/6595007?source=rss",
+      "publishedAt": "2026-09-11T23:10:28.000Z",
+      "xQuery": "首相 裏金事件関与議員の入閣検討"
     },
     {
       "time": "07:46",
