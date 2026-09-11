@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T19:37:40.945Z",
+  "updatedAt": "2026-09-11T20:17:03.045Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JZHhpU2IxS3FHWmJBRlZiQXRzbnNMVjJqMWxFendDZ2lGUkF3YmRxNEg1eEJWZWtVTGtQRjJGYjBRQVp3ZWgtTXFCZ3dBcThwd0J4Y3lLbw?oc=5",
         "publishedAt": "2026-09-11T09:37:01.000Z"
+      },
+      {
+        "time": "04:40",
+        "title": "【機械業界の5年後大予測】ファナック、ダイフク、川崎重工、THK…設備投資拡大の追い風だけでない強さの秘訣と本命企業をトップアナリストが解説《再配信》",
+        "source": "ダイヤモンド・オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zdkJtcUZFQzdZZTR2RngtQjh2Mks0YTNjTDBfbVpNTm5pWkNLNEd6bWkwZUM1dUhGWEhiZ2pGdUk3QWdsdUJZcmJEYWLSAU9BVV95cUxQcGx0dnFjWW0xXzFXUlhPc1Y5cnRXbWx3ZUJfMzZRaXhKZk16N1BMSmdsSExCTnl2QUswOEpQQk5TRTJRaGJNa0ZIejlfZEY0?oc=5",
+        "publishedAt": "2026-09-11T19:40:00.000Z"
       },
       {
         "time": "13:00",
@@ -31,6 +38,13 @@
         "publishedAt": "2026-09-11T08:29:29.000Z"
       },
       {
+        "time": "05:00",
+        "title": "京都市伏見区のクリーンセンター火災、復旧費が建設費の4倍超に 自然災害による「追い打ち」も",
+        "source": "京都新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43SWZQNWl4YWhraVRrZlJCWlB1c2RTWGZqdUtxMnVSWUlfZzY5bHJMdkt1YThkU1ZlZHB0b1lPSlVOM3k5VzRtM2JBckFRVzhUQ09FakdPMHI?oc=5",
+        "publishedAt": "2026-09-11T20:00:00.000Z"
+      },
+      {
         "time": "05:39",
         "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026",
         "source": "au Webポータル",
@@ -40,23 +54,9 @@
       {
         "time": "08:06",
         "title": "AI受注が追い風 台湾機械輸出19カ月連続プラス 通年の輸出額・生産額がそろって過去最高更新へ",
-        "source": "finance.biggo.jp",
+        "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzbUlNX0d6XzVUT21ld21JeFZlaW5xNjl3emw0YzFtRmJCRVJGQ2hHQlctTUo3VThCN3k2WnRSREZnVUl6QnNscVV3LTZaQjE1a05lWHdsaUo5ajlLSkVZTWppLVROTlAwdDRvaWxXTGRoWTZI?oc=5",
         "publishedAt": "2026-09-10T23:06:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "スター精密、新工場 スイス型自動旋盤上級機",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PVjdFNmJmSUMxcXZ0RGwzMF9aNjJqZGNvWXc0TElZYzN4VkRVZUEtTE93emtzOVdiYlNBdVFUdDZmX0xHMVNtWkRCdGxOYVBFYkhyOWlyV3k?oc=5",
-        "publishedAt": "2026-09-10T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "スター精密牧之原工場が完成 総事業費約４０億円 世界的な需要拡大に対応",
-        "source": "静岡新聞DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VSG8wOWU1cGl5Qk5QYlBVU215cHl0QURDU2lQRlI0eXdySkYyREJwTjM0TXdhLWdoMk1LZnNRTmc5Y1MwYzV4bVE3UUJWQQ?oc=5",
-        "publishedAt": "2026-09-10T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
