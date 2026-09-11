@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T13:17:10.583Z",
+  "updatedAt": "2026-09-11T13:38:18.732Z",
   "items": [
     {
       "time": "21:37",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594986?source=rss",
       "publishedAt": "2026-09-11T12:37:51.000Z",
       "xQuery": "同時テロ25年 ドローンでビル再現"
+    },
+    {
+      "time": "22:28",
+      "title": "木原氏 岸田氏アンケ巡る発言謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594991?source=rss",
+      "publishedAt": "2026-09-11T13:28:24.000Z",
+      "xQuery": "木原氏 岸田氏アンケ巡る発言謝罪"
     },
     {
       "time": "20:57",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594979?source=rss",
       "publishedAt": "2026-09-11T10:26:48.000Z",
       "xQuery": "くら寿司苦戦 大手3社で業績に差"
-    },
-    {
-      "time": "21:43",
-      "title": "割烹こめを代表 衛生実態巡り説明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594987?source=rss",
-      "publishedAt": "2026-09-11T12:43:45.000Z",
-      "xQuery": "割烹こめを代表 衛生実態巡り説明"
     }
   ]
 };
