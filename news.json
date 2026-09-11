@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-09-11T01:48:13.994Z",
+  "updatedAt": "2026-09-11T02:25:40.113Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "05:14",
-        "title": "中村製作所 非工作機械分野を開拓 半導体や航空宇宙、インフラなど 加工技術をアピール",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xLUJCbU16bHFNQ2doQ3RlSkxIWDFFd2dfWW1XN3FTSVo3Tk50SDFMcy0zaldJVXJZeVAzUjRybHVibUUyMGFyQjNwdXR1Umg2dUoyREJ0ei10azJZbUtBMGtKSmlOc050cTdSMGhDLUVDN2s?oc=5",
-        "publishedAt": "2026-09-10T20:14:12.000Z"
-      },
       {
         "time": "08:06",
         "title": "AI受注が追い風 台湾機械輸出19カ月連続プラス 通年の輸出額・生産額がそろって過去最高更新へ",
@@ -38,6 +31,13 @@
         "publishedAt": "2026-09-10T04:30:03.000Z"
       },
       {
+        "time": "11:00",
+        "title": "スター精密が牧之原に新工場 スイス型CNC自動旋盤を生産：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tUEc3cl9RM2hVMTRCSFc1NjZuOWRZRl82ejRPLWFfR2pNZVFaZkN4MFZhQ01rUThJVHRicGljMWcwTUV1X0dmeTJ6cmhfRVJPNEkwSUZXMF93cGE0aGRZ?oc=5",
+        "publishedAt": "2026-09-11T02:00:00.000Z"
+      },
+      {
         "time": "04:46",
         "title": "ウクライナ軍情報局が公表したロシア軍需で使用される60超の外国製工作機械",
         "source": "Межа. Новини України.",
@@ -54,7 +54,7 @@
       {
         "time": "20:51",
         "title": "水道関係🚰の方とお話しして、大阪市水道130年の歩みと、これから💧について考えてみました。",
-        "source": "go2senkyo.com",
+        "source": "選挙ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwdktEcUxmNmpCUU9POWpCWXpMSnhJS1gwbFdISUxDX3pnbHc2REtKWFJaVDdiQlR1LXVuS0pOM01mM3cyOXQ4X1cyN09rdFBNT1JOSjNqU2xyRmctSFhR?oc=5",
         "publishedAt": "2026-09-10T11:51:37.000Z"
       }
@@ -119,18 +119,18 @@
         "publishedAt": "2026-09-10T09:54:25.000Z"
       },
       {
-        "time": "12:35",
-        "title": "中部電力が過大徴収 12億円返還へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594841?source=rss",
-        "publishedAt": "2026-09-10T03:35:56.000Z"
-      },
-      {
         "time": "22:14",
         "title": "半導体巡る日中摩擦 企業に影響は",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594883?source=rss",
         "publishedAt": "2026-09-10T13:14:56.000Z"
+      },
+      {
+        "time": "11:10",
+        "title": "武田薬品元社長 長谷川閑史氏死去",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594930?source=rss",
+        "publishedAt": "2026-09-11T02:10:31.000Z"
       },
       {
         "time": "09:13",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-09-10T21:47:50.000Z"
       },
       {
+        "time": "11:18",
+        "title": "社長殺害 被告に拘禁刑25年を求刑",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594931?source=rss",
+        "publishedAt": "2026-09-11T02:18:15.000Z"
+      },
+      {
         "time": "14:08",
         "title": "行方不明の男児を海で発見 死亡",
         "source": "Yahoo!ニュース",
@@ -170,11 +177,11 @@
         "publishedAt": "2026-09-10T05:08:04.000Z"
       },
       {
-        "time": "21:04",
-        "title": "3台絡む事故で3人死傷 逆走と通報",
+        "time": "11:22",
+        "title": "都バスであおり運転疑い 書類送検",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594899?source=rss",
-        "publishedAt": "2026-09-10T12:04:21.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594933?source=rss",
+        "publishedAt": "2026-09-11T02:22:33.000Z"
       },
       {
         "time": "18:17",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594885?source=rss",
         "publishedAt": "2026-09-10T09:17:44.000Z"
-      },
-      {
-        "time": "15:59",
-        "title": "PORTER商標権侵害疑い 書類送検",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594861?source=rss",
-        "publishedAt": "2026-09-10T06:59:33.000Z"
       }
     ],
     "subsidyHeadlines": [

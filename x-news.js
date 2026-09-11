@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T01:48:14.621Z",
+  "updatedAt": "2026-09-11T02:25:41.146Z",
   "items": [
     {
       "time": "09:43",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米同時テロの遺族 悲しみ死ぬまで"
     },
     {
-      "time": "09:32",
-      "title": "日経平均 一時2000円以上値下がり",
+      "time": "11:10",
+      "title": "武田薬品元社長 長谷川閑史氏死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594924?source=rss",
-      "publishedAt": "2026-09-11T00:32:12.000Z",
-      "xQuery": "日経平均 一時2000円以上値下がり"
+      "url": "https://news.yahoo.co.jp/pickup/6594930?source=rss",
+      "publishedAt": "2026-09-11T02:10:31.000Z",
+      "xQuery": "武田薬品元社長 長谷川閑史氏死去"
     },
     {
       "time": "10:20",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ChatGPT 一部プラン新規受付停止"
     },
     {
-      "time": "09:13",
-      "title": "1泊20万円の高野山宿坊も 嘆く声",
+      "time": "11:18",
+      "title": "社長殺害 被告に拘禁刑25年を求刑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594923?source=rss",
-      "publishedAt": "2026-09-11T00:13:48.000Z",
-      "xQuery": "1泊20万円の高野山宿坊も 嘆く声"
+      "url": "https://news.yahoo.co.jp/pickup/6594931?source=rss",
+      "publishedAt": "2026-09-11T02:18:15.000Z",
+      "xQuery": "社長殺害 被告に拘禁刑25年を求刑"
     },
     {
-      "time": "08:59",
-      "title": "水星 誕生以降半径10キロ以上縮む",
+      "time": "11:22",
+      "title": "都バスであおり運転疑い 書類送検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594922?source=rss",
-      "publishedAt": "2026-09-10T23:59:56.000Z",
-      "xQuery": "水星 誕生以降半径10キロ以上縮む"
+      "url": "https://news.yahoo.co.jp/pickup/6594933?source=rss",
+      "publishedAt": "2026-09-11T02:22:33.000Z",
+      "xQuery": "都バスであおり運転疑い 書類送検"
     }
   ]
 };
