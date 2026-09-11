@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T02:25:40.113Z",
+  "updatedAt": "2026-09-11T02:44:13.504Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-09-10T20:00:00.000Z"
       },
       {
+        "time": "03:38",
+        "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026 1枚目の写真・画像",
+        "source": "レスポンス（Response.jp）",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUbzNLNGZrbXllY2ptT1AyNVZyZHZFMVMzRWdmUGtMSWN1ZUtIenJzWWZ3cHRJWm9keEE3a0V5UFptTTJYM29lTXVLcGduTTB1enUwM0dSZ05laEQwcU92YkpQYlFnbU96ckgyYw?oc=5",
+        "publishedAt": "2026-09-10T18:38:22.000Z"
+      },
+      {
         "time": "05:00",
         "title": "スター精密牧之原工場が完成 世界的な需要拡大に対応",
         "source": "静岡新聞DIGITAL",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VSG8wOWU1cGl5Qk5QYlBVU215cHl0QURDU2lQRlI0eXdySkYyREJwTjM0TXdhLWdoMk1LZnNRTmc5Y1MwYzV4bVE3UUJWQQ?oc=5",
         "publishedAt": "2026-09-10T20:00:00.000Z"
-      },
-      {
-        "time": "13:30",
-        "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026",
-        "source": "レスポンス（Response.jp）",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91V1dFaUJJaW5hVFVkSUpLWmZjaWU4LVlQQUhMdWVwcl91ZENFVnVaSzBSSVBtRGdlMEVUWkZ3WDNXNXlkR0I1R0pHcDVrVVc3djFlMS1YZVpFbTFfbmhj?oc=5",
-        "publishedAt": "2026-09-10T04:30:03.000Z"
       },
       {
         "time": "11:00",
@@ -40,7 +40,7 @@
       {
         "time": "04:46",
         "title": "ウクライナ軍情報局が公表したロシア軍需で使用される60超の外国製工作機械",
-        "source": "Межа. Новини України.",
+        "source": "mezha.net",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NUHFXQ0E3QThUUUYzMWNEYWFVcnB4RlhMR1dSdEdsREVCRG4tbnhPVEdlQlBCZmZHNFhUZmh6cXhsS2FISnBmSzJmakZYWHV0cnJjTXFHekVFZHdtdnYtaEtEajNIZWsyU192VHpoVGNnLUU4MnBV?oc=5",
         "publishedAt": "2026-09-10T19:46:06.000Z"
       },
@@ -112,18 +112,18 @@
         "publishedAt": "2026-09-11T00:32:12.000Z"
       },
       {
+        "time": "11:43",
+        "title": "浜岡原発の審査 申請取り下げ検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594937?source=rss",
+        "publishedAt": "2026-09-11T02:43:07.000Z"
+      },
+      {
         "time": "18:54",
         "title": "ニデック創業者らに株主代表訴訟",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594887?source=rss",
         "publishedAt": "2026-09-10T09:54:25.000Z"
-      },
-      {
-        "time": "22:14",
-        "title": "半導体巡る日中摩擦 企業に影響は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594883?source=rss",
-        "publishedAt": "2026-09-10T13:14:56.000Z"
       },
       {
         "time": "11:10",
@@ -148,13 +148,6 @@
       }
     ],
     "localHeadlines": [
-      {
-        "time": "23:47",
-        "title": "富士山閉山期 登山届の義務化検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594907?source=rss",
-        "publishedAt": "2026-09-10T14:47:18.000Z"
-      },
       {
         "time": "06:47",
         "title": "自転車の8歳 はねられ意識不明",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594885?source=rss",
         "publishedAt": "2026-09-10T09:17:44.000Z"
+      },
+      {
+        "time": "07:48",
+        "title": "給食チキンナゲットでアレルギー",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594917?source=rss",
+        "publishedAt": "2026-09-10T22:48:14.000Z"
       }
     ],
     "subsidyHeadlines": [

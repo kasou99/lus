@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T02:25:41.146Z",
+  "updatedAt": "2026-09-11T02:44:14.248Z",
   "items": [
     {
-      "time": "09:43",
-      "title": "米同時テロの遺族 悲しみ死ぬまで",
+      "time": "11:22",
+      "title": "入閣枠狭き門 焦る安倍チルドレン",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594925?source=rss",
-      "publishedAt": "2026-09-11T00:43:31.000Z",
-      "xQuery": "米同時テロの遺族 悲しみ死ぬまで"
+      "url": "https://news.yahoo.co.jp/pickup/6594932?source=rss",
+      "publishedAt": "2026-09-11T02:22:10.000Z",
+      "xQuery": "入閣枠狭き門 焦る安倍チルドレン"
     },
     {
       "time": "11:10",
