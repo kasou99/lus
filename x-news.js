@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T02:44:14.248Z",
+  "updatedAt": "2026-09-11T03:21:08.466Z",
   "items": [
+    {
+      "time": "11:43",
+      "title": "浜岡原発の審査 申請取り下げ検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594937?source=rss",
+      "publishedAt": "2026-09-11T02:43:07.000Z",
+      "xQuery": "浜岡原発の審査 申請取り下げ検討"
+    },
     {
       "time": "11:22",
       "title": "入閣枠狭き門 焦る安倍チルドレン",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594931?source=rss",
       "publishedAt": "2026-09-11T02:18:15.000Z",
       "xQuery": "社長殺害 被告に拘禁刑25年を求刑"
-    },
-    {
-      "time": "11:22",
-      "title": "都バスであおり運転疑い 書類送検",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594933?source=rss",
-      "publishedAt": "2026-09-11T02:22:33.000Z",
-      "xQuery": "都バスであおり運転疑い 書類送検"
     }
   ]
 };

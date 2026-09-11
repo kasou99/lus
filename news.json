@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T02:44:13.504Z",
+  "updatedAt": "2026-09-11T03:21:04.098Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -40,7 +40,7 @@
       {
         "time": "04:46",
         "title": "ウクライナ軍情報局が公表したロシア軍需で使用される60超の外国製工作機械",
-        "source": "mezha.net",
+        "source": "Межа. Новини України.",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NUHFXQ0E3QThUUUYzMWNEYWFVcnB4RlhMR1dSdEdsREVCRG4tbnhPVEdlQlBCZmZHNFhUZmh6cXhsS2FISnBmSzJmakZYWHV0cnJjTXFHekVFZHdtdnYtaEtEajNIZWsyU192VHpoVGNnLUU4MnBV?oc=5",
         "publishedAt": "2026-09-10T19:46:06.000Z"
       },
@@ -119,18 +119,18 @@
         "publishedAt": "2026-09-11T02:43:07.000Z"
       },
       {
-        "time": "18:54",
-        "title": "ニデック創業者らに株主代表訴訟",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594887?source=rss",
-        "publishedAt": "2026-09-10T09:54:25.000Z"
-      },
-      {
         "time": "11:10",
         "title": "武田薬品元社長 長谷川閑史氏死去",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594930?source=rss",
         "publishedAt": "2026-09-11T02:10:31.000Z"
+      },
+      {
+        "time": "12:01",
+        "title": "テスラ 無人タクシーを日本初公開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594940?source=rss",
+        "publishedAt": "2026-09-11T03:01:22.000Z"
       },
       {
         "time": "09:13",
@@ -163,13 +163,6 @@
         "publishedAt": "2026-09-11T02:18:15.000Z"
       },
       {
-        "time": "14:08",
-        "title": "行方不明の男児を海で発見 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594853?source=rss",
-        "publishedAt": "2026-09-10T05:08:04.000Z"
-      },
-      {
         "time": "11:22",
         "title": "都バスであおり運転疑い 書類送検",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594917?source=rss",
         "publishedAt": "2026-09-10T22:48:14.000Z"
+      },
+      {
+        "time": "11:38",
+        "title": "進む働き方改革 教師が感じた変化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594934?source=rss",
+        "publishedAt": "2026-09-11T02:38:14.000Z"
       }
     ],
     "subsidyHeadlines": [
