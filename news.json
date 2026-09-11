@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-11T04:42:18.702Z",
+  "updatedAt": "2026-09-11T05:17:39.693Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:00",
+        "title": "ソディックの自動搬送装置が可搬質量43kgに、中型ワークの搬送に対応：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ta0hDajZKc2J6Z1RtVDFVczlEQkFxZmpnRFhIWEhISks2aUxxZ29MR29KX2xKcW0wUzN0TjdSdWdGUHZpUU56YzBLU1cxOGw5SEp2dGh6OHRnR2NyS29FNlpxZ0pUaDVPWk4wZVFaOA?oc=5",
+        "publishedAt": "2026-09-11T04:00:00.000Z"
+      },
       {
         "time": "08:06",
         "title": "AI受注が追い風 台湾機械輸出19カ月連続プラス 通年の輸出額・生産額がそろって過去最高更新へ",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594924?source=rss",
         "publishedAt": "2026-09-11T00:32:12.000Z"
-      },
-      {
-        "time": "11:43",
-        "title": "浜岡原発の審査 申請取り下げ検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594937?source=rss",
-        "publishedAt": "2026-09-11T02:43:07.000Z"
       }
     ],
     "worldHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
