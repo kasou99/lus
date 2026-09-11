@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T03:42:26.893Z",
+  "updatedAt": "2026-09-11T04:21:46.844Z",
   "items": [
     {
       "time": "11:43",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594937?source=rss",
       "publishedAt": "2026-09-11T02:43:07.000Z",
       "xQuery": "浜岡原発の審査 申請取り下げ検討"
-    },
-    {
-      "time": "11:22",
-      "title": "入閣枠狭き門 焦る安倍チルドレン",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594932?source=rss",
-      "publishedAt": "2026-09-11T02:22:10.000Z",
-      "xQuery": "入閣枠狭き門 焦る安倍チルドレン"
     },
     {
       "time": "12:02",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594933?source=rss",
       "publishedAt": "2026-09-11T02:22:33.000Z",
       "xQuery": "都バスであおり運転疑い 書類送検"
+    },
+    {
+      "time": "12:01",
+      "title": "テスラ 無人タクシーを日本初公開",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594940?source=rss",
+      "publishedAt": "2026-09-11T03:01:22.000Z",
+      "xQuery": "テスラ 無人タクシーを日本初公開"
     }
   ]
 };
