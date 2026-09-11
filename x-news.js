@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-10T23:37:40.755Z",
+  "updatedAt": "2026-09-11T00:47:12.057Z",
   "items": [
     {
       "time": "08:08",
@@ -10,28 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "維新入閣 馬場氏か藤田氏で調整"
     },
     {
-      "time": "07:23",
-      "title": "給付制度の担当相 創設を検討",
+      "time": "09:32",
+      "title": "日経平均 一時2000円以上値下がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594913?source=rss",
-      "publishedAt": "2026-09-10T22:23:43.000Z",
-      "xQuery": "給付制度の担当相 創設を検討"
+      "url": "https://news.yahoo.co.jp/pickup/6594924?source=rss",
+      "publishedAt": "2026-09-11T00:32:12.000Z",
+      "xQuery": "日経平均 一時2000円以上値下がり"
     },
     {
-      "time": "06:23",
-      "title": "紀子さま還暦60歳に 文章で感想",
+      "time": "09:13",
+      "title": "1泊20万円の高野山宿坊も 嘆く声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594909?source=rss",
-      "publishedAt": "2026-09-10T21:23:26.000Z",
-      "xQuery": "紀子さま還暦60歳に 文章で感想"
-    },
-    {
-      "time": "06:47",
-      "title": "自転車の8歳 はねられ意識不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594911?source=rss",
-      "publishedAt": "2026-09-10T21:47:50.000Z",
-      "xQuery": "自転車の8歳 はねられ意識不明"
+      "url": "https://news.yahoo.co.jp/pickup/6594923?source=rss",
+      "publishedAt": "2026-09-11T00:13:48.000Z",
+      "xQuery": "1泊20万円の高野山宿坊も 嘆く声"
     },
     {
       "time": "07:39",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594915?source=rss",
       "publishedAt": "2026-09-10T22:39:41.000Z",
       "xQuery": "3月導入のEVバス 早くも運行停止"
+    },
+    {
+      "time": "07:48",
+      "title": "給食チキンナゲットでアレルギー",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594917?source=rss",
+      "publishedAt": "2026-09-10T22:48:14.000Z",
+      "xQuery": "給食チキンナゲットでアレルギー"
     }
   ]
 };
