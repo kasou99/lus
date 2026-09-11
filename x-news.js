@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T22:16:21.512Z",
+  "updatedAt": "2026-09-11T22:36:40.730Z",
   "items": [
+    {
+      "time": "07:19",
+      "title": "北朝鮮 日本海に向け飛翔体発射",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595000?source=rss",
+      "publishedAt": "2026-09-11T22:19:46.000Z",
+      "xQuery": "北朝鮮 日本海に向け飛翔体発射"
+    },
     {
       "time": "22:46",
       "title": "フーシ派が海峡周辺掌握 原油急騰",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "木原氏 岸田氏アンケ巡る発言謝罪"
     },
     {
+      "time": "07:20",
+      "title": "亀蔵さん死亡火災 知人を書類送検",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594999?source=rss",
+      "publishedAt": "2026-09-11T22:20:09.000Z",
+      "xQuery": "亀蔵さん死亡火災 知人を書類送検"
+    },
+    {
       "time": "23:27",
       "title": "ケーキ店火災 女性オーナーが死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594997?source=rss",
       "publishedAt": "2026-09-11T14:27:47.000Z",
       "xQuery": "ケーキ店火災 女性オーナーが死亡"
-    },
-    {
-      "time": "23:16",
-      "title": "海岸に遺体 不明生徒との関連捜査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594996?source=rss",
-      "publishedAt": "2026-09-11T14:16:40.000Z",
-      "xQuery": "海岸に遺体 不明生徒との関連捜査"
-    },
-    {
-      "time": "20:57",
-      "title": "中国 日本人ビザ約7.5倍に値上げ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594984?source=rss",
-      "publishedAt": "2026-09-11T11:57:42.000Z",
-      "xQuery": "中国 日本人ビザ約7.5倍に値上げ"
     }
   ]
 };
