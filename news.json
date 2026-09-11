@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-11T20:37:50.561Z",
+  "updatedAt": "2026-09-11T21:14:30.757Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:00",
+        "title": "技能五輪国際大会「全力を」/日立製作所の片野選手「ＣＮＣ旋盤」 - yama.minato-yamaguchi.co.jp",
+        "source": "yama.minato-yamaguchi.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41ekJEX0syTTZKMDE2bjJ2TGJRNk9UZWtMZzEyUHRrd2t4Rm8zbkhia3hDdWtiMEJGakFrWW9yNHNVRUhQclhBU2VvN2FBUUNiekhZYXMtTTBhWlk1anhiUHZCMko5WW1neXc?oc=5",
+        "publishedAt": "2026-09-11T21:00:00.000Z"
+      },
       {
         "time": "18:37",
         "title": "工作機械の最新調査2026-2032：市場規模58250百万米ドル、今後動向を予測｜QYResearch",
@@ -45,16 +52,9 @@
         "publishedAt": "2026-09-11T20:00:00.000Z"
       },
       {
-        "time": "05:39",
-        "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTDFhLW5mbDBhdUFuNFdHNnlVeVdZX3JuaV9jSjhzc2F5aDRYXzZ3Tmg4al9feWNHU0E0dWdqbUVlRUt6bUlJNGp0XzM2ODB3ajhHM0VyYnJubV9jaENRNU5ZLW95blFaQjI3VEh3?oc=5",
-        "publishedAt": "2026-09-10T20:39:32.000Z"
-      },
-      {
         "time": "08:06",
         "title": "AI受注が追い風 台湾機械輸出19カ月連続プラス 通年の輸出額・生産額がそろって過去最高更新へ",
-        "source": "BigGo ファイナンス",
+        "source": "finance.biggo.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzbUlNX0d6XzVUT21ld21JeFZlaW5xNjl3emw0YzFtRmJCRVJGQ2hHQlctTUo3VThCN3k2WnRSREZnVUl6QnNscVV3LTZaQjE1a05lWHdsaUo5ajlLSkVZTWppLVROTlAwdDRvaWxXTGRoWTZI?oc=5",
         "publishedAt": "2026-09-10T23:06:00.000Z"
       }
