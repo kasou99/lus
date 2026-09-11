@@ -1,29 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T12:46:40.596Z",
+  "updatedAt": "2026-09-11T13:17:10.583Z",
   "items": [
     {
-      "time": "21:19",
-      "title": "俳優の森本レオさんが死去",
+      "time": "21:37",
+      "title": "同時テロ25年 ドローンでビル再現",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594989?source=rss",
-      "publishedAt": "2026-09-11T12:19:16.000Z",
-      "xQuery": "俳優の森本レオさんが死去"
-    },
-    {
-      "time": "17:34",
-      "title": "「トランプ配当金」共和党内賛否",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594966?source=rss",
-      "publishedAt": "2026-09-11T08:34:54.000Z",
-      "xQuery": "「トランプ配当金」共和党内賛否"
-    },
-    {
-      "time": "19:00",
-      "title": "ソニー生命新たに5千万円詐取判明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594977?source=rss",
-      "publishedAt": "2026-09-11T10:00:50.000Z",
-      "xQuery": "ソニー生命新たに5千万円詐取判明"
+      "url": "https://news.yahoo.co.jp/pickup/6594986?source=rss",
+      "publishedAt": "2026-09-11T12:37:51.000Z",
+      "xQuery": "同時テロ25年 ドローンでビル再現"
     },
     {
       "time": "20:57",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "中国 日本人ビザ約7.5倍に値上げ"
     },
     {
+      "time": "19:00",
+      "title": "ソニー生命新たに5千万円詐取判明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594977?source=rss",
+      "publishedAt": "2026-09-11T10:00:50.000Z",
+      "xQuery": "ソニー生命新たに5千万円詐取判明"
+    },
+    {
       "time": "19:26",
       "title": "くら寿司苦戦 大手3社で業績に差",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594979?source=rss",
       "publishedAt": "2026-09-11T10:26:48.000Z",
       "xQuery": "くら寿司苦戦 大手3社で業績に差"
+    },
+    {
+      "time": "21:43",
+      "title": "割烹こめを代表 衛生実態巡り説明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594987?source=rss",
+      "publishedAt": "2026-09-11T12:43:45.000Z",
+      "xQuery": "割烹こめを代表 衛生実態巡り説明"
     }
   ]
 };
