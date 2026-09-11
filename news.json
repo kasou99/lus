@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T12:26:47.581Z",
+  "updatedAt": "2026-09-11T12:46:39.697Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "21:37",
+        "title": "同時テロ25年 ドローンでビル再現",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594986?source=rss",
+        "publishedAt": "2026-09-11T12:37:51.000Z"
+      },
+      {
         "time": "14:56",
         "title": "米同時テロ 24年間「封印」の映像",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594955?source=rss",
         "publishedAt": "2026-09-11T06:25:36.000Z"
-      },
-      {
-        "time": "14:26",
-        "title": "フェリー火災5人死亡87人不明 比",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594855?source=rss",
-        "publishedAt": "2026-09-10T05:26:08.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-09-11T03:35:16.000Z"
       },
       {
-        "time": "13:07",
-        "title": "富士山遭難救助 なぜ有料化難しい",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594936?source=rss",
-        "publishedAt": "2026-09-11T04:07:55.000Z"
-      },
-      {
         "time": "11:22",
         "title": "都バスであおり運転疑い 書類送検",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594982?source=rss",
         "publishedAt": "2026-09-11T11:31:52.000Z"
+      },
+      {
+        "time": "21:43",
+        "title": "割烹こめを代表 衛生実態巡り説明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594987?source=rss",
+        "publishedAt": "2026-09-11T12:43:45.000Z"
       },
       {
         "time": "07:48",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T12:26:48.416Z",
+  "updatedAt": "2026-09-11T12:46:40.596Z",
   "items": [
     {
       "time": "21:19",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "「トランプ配当金」共和党内賛否"
     },
     {
-      "time": "17:54",
-      "title": "地獄だった 北へ渡った在日韓国人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594971?source=rss",
-      "publishedAt": "2026-09-11T08:54:41.000Z",
-      "xQuery": "地獄だった 北へ渡った在日韓国人"
-    },
-    {
       "time": "19:00",
       "title": "ソニー生命新たに5千万円詐取判明",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594984?source=rss",
       "publishedAt": "2026-09-11T11:57:42.000Z",
       "xQuery": "中国 日本人ビザ約7.5倍に値上げ"
+    },
+    {
+      "time": "19:26",
+      "title": "くら寿司苦戦 大手3社で業績に差",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594979?source=rss",
+      "publishedAt": "2026-09-11T10:26:48.000Z",
+      "xQuery": "くら寿司苦戦 大手3社で業績に差"
     }
   ]
 };
