@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T06:29:58.985Z",
+  "updatedAt": "2026-09-11T06:52:05.737Z",
   "items": [
     {
       "time": "14:56",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "富士山遭難救助 なぜ有料化難しい"
     },
     {
-      "time": "14:26",
-      "title": "「一生結婚するつもりない」2割超",
+      "time": "15:25",
+      "title": "天安門集会巡り3人実刑判決 香港",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594952?source=rss",
-      "publishedAt": "2026-09-11T05:26:53.000Z",
-      "xQuery": "「一生結婚するつもりない」2割超"
+      "url": "https://news.yahoo.co.jp/pickup/6594955?source=rss",
+      "publishedAt": "2026-09-11T06:25:36.000Z",
+      "xQuery": "天安門集会巡り3人実刑判決 香港"
     }
   ]
 };
