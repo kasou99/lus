@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T22:36:39.889Z",
+  "updatedAt": "2026-09-11T23:14:33.121Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "18:37",
         "title": "工作機械の最新調査2026-2032：市場規模58250百万米ドル、今後動向を予測｜QYResearch",
-        "source": "note.com",
+        "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JZHhpU2IxS3FHWmJBRlZiQXRzbnNMVjJqMWxFendDZ2lGUkF3YmRxNEg1eEJWZWtVTGtQRjJGYjBRQVp3ZWgtTXFCZ3dBcThwd0J4Y3lLbw?oc=5",
         "publishedAt": "2026-09-11T09:37:01.000Z"
       },
@@ -31,11 +31,18 @@
         "publishedAt": "2026-09-11T04:00:00.000Z"
       },
       {
-        "time": "15:46",
-        "title": "スター精密、牧之原新工場で分散工程を集約",
+        "time": "19:56",
+        "title": "内海造船、造船能力増強に111億円投資",
         "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3dnZmZHlDRmZEOFIwZ2o3ZDlJcVY4MXF3M3BKam9UMHJGd2xWRmRHUklxZ2dqLXhCTXprN25TQ3VBUF9iMmpnMw?oc=5",
-        "publishedAt": "2026-09-11T06:46:20.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUVVFWlVaWktOX1ZXdTZOb2FXSnpXbEdwZDdtbGM0SDRLT2txQnVQeV9JOWRldU9LTGRJS2N5eU1UYk1sQ1k0TQ?oc=5",
+        "publishedAt": "2026-09-11T10:56:17.000Z"
+      },
+      {
+        "time": "17:29",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-09-11T08:29:29.000Z"
       },
       {
         "time": "05:00",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-09-11T20:00:00.000Z"
       },
       {
-        "time": "08:06",
-        "title": "AI受注が追い風 台湾機械輸出19カ月連続プラス 通年の輸出額・生産額がそろって過去最高更新へ",
-        "source": "BigGo ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzbUlNX0d6XzVUT21ld21JeFZlaW5xNjl3emw0YzFtRmJCRVJGQ2hHQlctTUo3VThCN3k2WnRSREZnVUl6QnNscVV3LTZaQjE1a05lWHdsaUo5ajlLSkVZTWppLVROTlAwdDRvaWxXTGRoWTZI?oc=5",
-        "publishedAt": "2026-09-10T23:06:00.000Z"
-      },
-      {
-        "time": "19:56",
-        "title": "内海造船、造船能力増強に111億円投資",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUVVFWlVaWktOX1ZXdTZOb2FXSnpXbEdwZDdtbGM0SDRLT2txQnVQeV9JOWRldU9LTGRJS2N5eU1UYk1sQ1k0TQ?oc=5",
-        "publishedAt": "2026-09-11T10:56:17.000Z"
+        "time": "15:21",
+        "title": "製造業の63%が「スキルギャップ」を変革の最大の壁と認識 - ヘイズ調査",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10MGszQnNkRTNQc1BYMjR1aXhaU080akRJMEVkMVp1MDRzb3o2SlJpdTNWNnNmeUxrbkVDUllxd1VKcGVXUHZ1SFBlLVNuVHNDMmxHUExFWXgydzkxTFpjYThjMWZSRmo3WlNJQkczTHU0c2x0cjBDLU9POA?oc=5",
+        "publishedAt": "2026-09-11T06:21:11.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,6 +126,13 @@
         "publishedAt": "2026-09-11T08:29:53.000Z"
       },
       {
+        "time": "08:05",
+        "title": "ガソスタ 10年で1700社超が消滅",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595006?source=rss",
+        "publishedAt": "2026-09-11T23:05:07.000Z"
+      },
+      {
         "time": "22:51",
         "title": "業界初 迷惑客の対応費補償の保険",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594979?source=rss",
         "publishedAt": "2026-09-11T10:26:48.000Z"
-      },
-      {
-        "time": "12:01",
-        "title": "テスラ 無人タクシーを日本初公開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594940?source=rss",
-        "publishedAt": "2026-09-11T03:01:22.000Z"
       }
     ],
     "localHeadlines": [

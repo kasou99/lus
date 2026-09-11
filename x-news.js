@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T22:36:40.730Z",
+  "updatedAt": "2026-09-11T23:14:33.957Z",
   "items": [
     {
       "time": "07:19",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "北朝鮮 日本海に向け飛翔体発射"
     },
     {
-      "time": "22:46",
-      "title": "フーシ派が海峡周辺掌握 原油急騰",
+      "time": "07:46",
+      "title": "消費減税 特例・経過措置で複雑化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594994?source=rss",
-      "publishedAt": "2026-09-11T13:46:57.000Z",
-      "xQuery": "フーシ派が海峡周辺掌握 原油急騰"
-    },
-    {
-      "time": "22:28",
-      "title": "木原氏 岸田氏アンケ巡る発言謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594991?source=rss",
-      "publishedAt": "2026-09-11T13:28:24.000Z",
-      "xQuery": "木原氏 岸田氏アンケ巡る発言謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6595004?source=rss",
+      "publishedAt": "2026-09-11T22:46:39.000Z",
+      "xQuery": "消費減税 特例・経過措置で複雑化"
     },
     {
       "time": "07:20",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594997?source=rss",
       "publishedAt": "2026-09-11T14:27:47.000Z",
       "xQuery": "ケーキ店火災 女性オーナーが死亡"
+    },
+    {
+      "time": "08:05",
+      "title": "ガソスタ 10年で1700社超が消滅",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595006?source=rss",
+      "publishedAt": "2026-09-11T23:05:07.000Z",
+      "xQuery": "ガソスタ 10年で1700社超が消滅"
     }
   ]
 };
