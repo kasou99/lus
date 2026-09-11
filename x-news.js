@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T01:25:42.935Z",
+  "updatedAt": "2026-09-11T01:48:14.621Z",
   "items": [
     {
       "time": "09:43",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日経平均 一時2000円以上値下がり"
     },
     {
+      "time": "10:20",
+      "title": "ChatGPT 一部プラン新規受付停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594928?source=rss",
+      "publishedAt": "2026-09-11T01:20:06.000Z",
+      "xQuery": "ChatGPT 一部プラン新規受付停止"
+    },
+    {
       "time": "09:13",
       "title": "1泊20万円の高野山宿坊も 嘆く声",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594923?source=rss",
       "publishedAt": "2026-09-11T00:13:48.000Z",
       "xQuery": "1泊20万円の高野山宿坊も 嘆く声"
-    },
-    {
-      "time": "07:48",
-      "title": "給食チキンナゲットでアレルギー",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594917?source=rss",
-      "publishedAt": "2026-09-10T22:48:14.000Z",
-      "xQuery": "給食チキンナゲットでアレルギー"
     },
     {
       "time": "08:59",

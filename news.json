@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T01:25:42.033Z",
+  "updatedAt": "2026-09-11T01:48:13.994Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,25 +38,25 @@
         "publishedAt": "2026-09-10T04:30:03.000Z"
       },
       {
+        "time": "04:46",
+        "title": "ウクライナ軍情報局が公表したロシア軍需で使用される60超の外国製工作機械",
+        "source": "Межа. Новини України.",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NUHFXQ0E3QThUUUYzMWNEYWFVcnB4RlhMR1dSdEdsREVCRG4tbnhPVEdlQlBCZmZHNFhUZmh6cXhsS2FISnBmSzJmakZYWHV0cnJjTXFHekVFZHdtdnYtaEtEajNIZWsyU192VHpoVGNnLUU4MnBV?oc=5",
+        "publishedAt": "2026-09-10T19:46:06.000Z"
+      },
+      {
+        "time": "17:00",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-09-10T08:00:15.000Z"
+      },
+      {
         "time": "20:51",
         "title": "水道関係🚰の方とお話しして、大阪市水道130年の歩みと、これから💧について考えてみました。",
-        "source": "選挙ドットコム",
+        "source": "go2senkyo.com",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwdktEcUxmNmpCUU9POWpCWXpMSnhJS1gwbFdISUxDX3pnbHc2REtKWFJaVDdiQlR1LXVuS0pOM01mM3cyOXQ4X1cyN09rdFBNT1JOSjNqU2xyRmctSFhR?oc=5",
         "publishedAt": "2026-09-10T11:51:37.000Z"
-      },
-      {
-        "time": "10:46",
-        "title": "【台湾情報】台湾機械伝動設備、AI・ロボット需要で生産額2桁増／台湾ファシリティエンジニアリングが好調維持の最新動向",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRQkFUTTNYRURTRkVyVEs2YTFfX1dRQzRHWmljV3dzZ2ZnT1JKMjZCNnAtcVBYSzMtNjFNUXdoR1R3Z3lRN3FfRmZvWVBKdGJtZk11bl8xUTduZk4yRzVIeWVqbFJvQVB0dmhB?oc=5",
-        "publishedAt": "2026-09-10T01:46:00.000Z"
-      },
-      {
-        "time": "09:32",
-        "title": "日経平均 一時2000円以上値下がり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594924?source=rss",
-        "publishedAt": "2026-09-11T00:32:12.000Z"
       }
     ],
     "worldHeadlines": [
