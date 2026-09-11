@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T08:24:13.088Z",
+  "updatedAt": "2026-09-11T08:43:27.083Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "08:06",
         "title": "AI受注が追い風 台湾機械輸出19カ月連続プラス 通年の輸出額・生産額がそろって過去最高更新へ",
-        "source": "finance.biggo.jp",
+        "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzbUlNX0d6XzVUT21ld21JeFZlaW5xNjl3emw0YzFtRmJCRVJGQ2hHQlctTUo3VThCN3k2WnRSREZnVUl6QnNscVV3LTZaQjE1a05lWHdsaUo5ajlLSkVZTWppLVROTlAwdDRvaWxXTGRoWTZI?oc=5",
         "publishedAt": "2026-09-10T23:06:00.000Z"
       },
@@ -31,18 +31,11 @@
         "publishedAt": "2026-09-10T18:38:22.000Z"
       },
       {
-        "time": "05:00",
-        "title": "スター精密牧之原工場が完成 世界的な需要拡大に対応",
-        "source": "静岡新聞DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VSG8wOWU1cGl5Qk5QYlBVU215cHl0QURDU2lQRlI0eXdySkYyREJwTjM0TXdhLWdoMk1LZnNRTmc5Y1MwYzV4bVE3UUJWQQ?oc=5",
-        "publishedAt": "2026-09-10T20:00:00.000Z"
-      },
-      {
-        "time": "16:00",
-        "title": "大阪の製造業4社がベトナムで開催される「EMIDASものづくり商談会2026",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TYlVkNzF3cTRHeFFDZnhzaTlKS2lhQ3E3b2cyd2N3V1ZHWFY0bHNRMWtJWkFfRS1FeWdWemtXRTlDSzJ5Nnc0cHdmRVhLMDI0OXhRTVUxeThmMjU4WGxMbDJwdEM0eWVO?oc=5",
-        "publishedAt": "2026-09-11T07:00:25.000Z"
+        "time": "15:21",
+        "title": "製造業の63%が「スキルギャップ」を変革の最大の壁と認識 - ヘイズ調査",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GOXBuTmtQdUFSNUpZbHpYek51VVVRWjhFLXJTLTZlcTAzNlRZSERQcENNVjJBVVFya2tvREpnNlV2VVYzdmZiZmo5eE5wRTZDeVdwdmNpYnhQVkk2OTNqM2ZVajhUWnFBVy1tXzBIRkNiYlNIYTBFa2tvcw?oc=5",
+        "publishedAt": "2026-09-11T06:21:11.000Z"
       },
       {
         "time": "04:46",
@@ -54,9 +47,16 @@
       {
         "time": "20:51",
         "title": "水道関係🚰の方とお話しして、大阪市水道130年の歩みと、これから💧について考えてみました。",
-        "source": "go2senkyo.com",
+        "source": "選挙ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwdktEcUxmNmpCUU9POWpCWXpMSnhJS1gwbFdISUxDX3pnbHc2REtKWFJaVDdiQlR1LXVuS0pOM01mM3cyOXQ4X1cyN09rdFBNT1JOSjNqU2xyRmctSFhR?oc=5",
         "publishedAt": "2026-09-10T11:51:37.000Z"
+      },
+      {
+        "time": "16:00",
+        "title": "大阪の製造業4社がベトナムで開催される「EMIDASものづくり商談会2026",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TYlVkNzF3cTRHeFFDZnhzaTlKS2lhQ3E3b2cyd2N3V1ZHWFY0bHNRMWtJWkFfRS1FeWdWemtXRTlDSzJ5Nnc0cHdmRVhLMDI0OXhRTVUxeThmMjU4WGxMbDJwdEM0eWVO?oc=5",
+        "publishedAt": "2026-09-11T07:00:25.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,11 +75,11 @@
         "publishedAt": "2026-09-11T00:43:31.000Z"
       },
       {
-        "time": "09:08",
-        "title": "イラン終結は選挙後 米大統領主張",
+        "time": "17:34",
+        "title": "「トランプ配当金」共和党内賛否",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594816?source=rss",
-        "publishedAt": "2026-09-10T00:08:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594966?source=rss",
+        "publishedAt": "2026-09-11T08:34:54.000Z"
       },
       {
         "time": "22:47",
@@ -119,6 +119,13 @@
         "publishedAt": "2026-09-11T06:51:54.000Z"
       },
       {
+        "time": "17:29",
+        "title": "九州の応援割「便乗値上げ」警戒",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594968?source=rss",
+        "publishedAt": "2026-09-11T08:29:53.000Z"
+      },
+      {
         "time": "11:10",
         "title": "武田薬品元社長 長谷川閑史氏死去",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594923?source=rss",
         "publishedAt": "2026-09-11T00:13:48.000Z"
-      },
-      {
-        "time": "17:43",
-        "title": "鳥貴族 均一価格410円に値上げへ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594875?source=rss",
-        "publishedAt": "2026-09-10T08:43:17.000Z"
       }
     ],
     "localHeadlines": [

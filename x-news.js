@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T08:24:13.827Z",
+  "updatedAt": "2026-09-11T08:43:27.787Z",
   "items": [
     {
       "time": "14:56",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日銀利上げの公算大 1.25%程度に"
     },
     {
-      "time": "15:51",
-      "title": "浜岡原発 審査申請取り下げで調整",
+      "time": "16:58",
+      "title": "高2死亡 少年4人と盗難トラブルか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594957?source=rss",
-      "publishedAt": "2026-09-11T06:51:54.000Z",
-      "xQuery": "浜岡原発 審査申請取り下げで調整"
+      "url": "https://news.yahoo.co.jp/pickup/6594965?source=rss",
+      "publishedAt": "2026-09-11T07:58:56.000Z",
+      "xQuery": "高2死亡 少年4人と盗難トラブルか"
     },
     {
       "time": "16:17",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "別府ひき逃げなど公的懸賞金 延長"
     },
     {
-      "time": "16:58",
-      "title": "高2死亡 少年4人と盗難トラブルか",
+      "time": "17:29",
+      "title": "九州の応援割「便乗値上げ」警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594965?source=rss",
-      "publishedAt": "2026-09-11T07:58:56.000Z",
-      "xQuery": "高2死亡 少年4人と盗難トラブルか"
+      "url": "https://news.yahoo.co.jp/pickup/6594968?source=rss",
+      "publishedAt": "2026-09-11T08:29:53.000Z",
+      "xQuery": "九州の応援割「便乗値上げ」警戒"
     }
   ]
 };
