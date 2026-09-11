@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T05:38:33.583Z",
+  "updatedAt": "2026-09-11T06:29:58.985Z",
   "items": [
+    {
+      "time": "14:56",
+      "title": "米同時テロ 24年間「封印」の映像",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594953?source=rss",
+      "publishedAt": "2026-09-11T05:56:52.000Z",
+      "xQuery": "米同時テロ 24年間「封印」の映像"
+    },
     {
       "time": "13:35",
       "title": "14日にかけ真夏日地点が増加か",
@@ -8,22 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594949?source=rss",
       "publishedAt": "2026-09-11T04:35:37.000Z",
       "xQuery": "14日にかけ真夏日地点が増加か"
-    },
-    {
-      "time": "12:02",
-      "title": "政府職員らの情報 24万件漏えいか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594942?source=rss",
-      "publishedAt": "2026-09-11T03:02:31.000Z",
-      "xQuery": "政府職員らの情報 24万件漏えいか"
-    },
-    {
-      "time": "12:35",
-      "title": "傷害事件で逮捕 高2死亡に関与か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594945?source=rss",
-      "publishedAt": "2026-09-11T03:35:16.000Z",
-      "xQuery": "傷害事件で逮捕 高2死亡に関与か"
     },
     {
       "time": "14:12",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594936?source=rss",
       "publishedAt": "2026-09-11T04:07:55.000Z",
       "xQuery": "富士山遭難救助 なぜ有料化難しい"
+    },
+    {
+      "time": "14:26",
+      "title": "「一生結婚するつもりない」2割超",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594952?source=rss",
+      "publishedAt": "2026-09-11T05:26:53.000Z",
+      "xQuery": "「一生結婚するつもりない」2割超"
     }
   ]
 };

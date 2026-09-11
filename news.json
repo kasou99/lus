@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T05:38:32.840Z",
+  "updatedAt": "2026-09-11T06:29:58.255Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "03:38",
         "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026 1枚目の写真・画像",
-        "source": "レスポンス（Response.jp）",
+        "source": "s.response.jp",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUbzNLNGZrbXllY2ptT1AyNVZyZHZFMVMzRWdmUGtMSWN1ZUtIenJzWWZ3cHRJWm9keEE3a0V5UFptTTJYM29lTXVLcGduTTB1enUwM0dSZ05laEQwcU92YkpQYlFnbU96ckgyYw?oc=5",
         "publishedAt": "2026-09-10T18:38:22.000Z"
       },
@@ -40,7 +40,7 @@
       {
         "time": "11:00",
         "title": "スター精密が牧之原に新工場 スイス型CNC自動旋盤を生産：ニュース",
-        "source": "中日BIZナビ",
+        "source": "biz.chunichi.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tUEc3cl9RM2hVMTRCSFc1NjZuOWRZRl82ejRPLWFfR2pNZVFaZkN4MFZhQ01rUThJVHRicGljMWcwTUV1X0dmeTJ6cmhfRVJPNEkwSUZXMF93cGE0aGRZ?oc=5",
         "publishedAt": "2026-09-11T02:00:00.000Z"
       },
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "14:56",
+        "title": "米同時テロ 24年間「封印」の映像",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594953?source=rss",
+        "publishedAt": "2026-09-11T05:56:52.000Z"
+      },
       {
         "time": "09:43",
         "title": "米同時テロの遺族 悲しみ死ぬまで",
@@ -82,25 +89,18 @@
         "publishedAt": "2026-09-10T13:47:04.000Z"
       },
       {
+        "time": "15:25",
+        "title": "天安門集会巡り3人実刑判決 香港",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594955?source=rss",
+        "publishedAt": "2026-09-11T06:25:36.000Z"
+      },
+      {
         "time": "14:26",
         "title": "フェリー火災5人死亡87人不明 比",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594855?source=rss",
         "publishedAt": "2026-09-10T05:26:08.000Z"
-      },
-      {
-        "time": "13:46",
-        "title": "党勝利なら77万円支給 トランプ氏",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594850?source=rss",
-        "publishedAt": "2026-09-10T04:46:04.000Z"
-      },
-      {
-        "time": "23:00",
-        "title": "正恩氏後継は兄いても娘 韓国見解",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594905?source=rss",
-        "publishedAt": "2026-09-10T14:00:14.000Z"
       }
     ],
     "economyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
