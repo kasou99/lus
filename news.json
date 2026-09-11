@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T18:21:05.662Z",
+  "updatedAt": "2026-09-11T18:41:07.330Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,11 @@
         "publishedAt": "2026-09-11T04:00:00.000Z"
       },
       {
-        "time": "19:56",
-        "title": "内海造船、造船能力増強に111億円投資",
+        "time": "15:46",
+        "title": "スター精密、牧之原新工場で分散工程を集約",
         "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUVVFWlVaWktOX1ZXdTZOb2FXSnpXbEdwZDdtbGM0SDRLT2txQnVQeV9JOWRldU9LTGRJS2N5eU1UYk1sQ1k0TQ?oc=5",
-        "publishedAt": "2026-09-11T10:56:17.000Z"
-      },
-      {
-        "time": "17:29",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-09-11T08:29:29.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3dnZmZHlDRmZEOFIwZ2o3ZDlJcVY4MXF3M3BKam9UMHJGd2xWRmRHUklxZ2dqLXhCTXprN25TQ3VBUF9iMmpnMw?oc=5",
+        "publishedAt": "2026-09-11T06:46:20.000Z"
       },
       {
         "time": "05:39",
@@ -50,6 +43,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PVjdFNmJmSUMxcXZ0RGwzMF9aNjJqZGNvWXc0TElZYzN4VkRVZUEtTE93emtzOVdiYlNBdVFUdDZmX0xHMVNtWkRCdGxOYVBFYkhyOWlyV3k?oc=5",
         "publishedAt": "2026-09-10T20:00:00.000Z"
+      },
+      {
+        "time": "19:56",
+        "title": "内海造船、造船能力増強に111億円投資",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUVVFWlVaWktOX1ZXdTZOb2FXSnpXbEdwZDdtbGM0SDRLT2txQnVQeV9JOWRldU9LTGRJS2N5eU1UYk1sQ1k0TQ?oc=5",
+        "publishedAt": "2026-09-11T10:56:17.000Z"
       },
       {
         "time": "05:00",
