@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T00:47:11.291Z",
+  "updatedAt": "2026-09-11T01:25:42.033Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xLUJCbU16bHFNQ2doQ3RlSkxIWDFFd2dfWW1XN3FTSVo3Tk50SDFMcy0zaldJVXJZeVAzUjRybHVibUUyMGFyQjNwdXR1Umg2dUoyREJ0ei10azJZbUtBMGtKSmlOc050cTdSMGhDLUVDN2s?oc=5",
         "publishedAt": "2026-09-10T20:14:12.000Z"
-      },
-      {
-        "time": "09:51",
-        "title": "工作機械受注が教えてくれる日本株・世界経済（26 年８月） | 藤代 宏一 | 第一ライフ資産運用経済研究所",
-        "source": "第一ライフ資産運用経済研究所",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zc0lhX3Bqbk1yLWtDcGg2SkRlUEh6aEs4SHNYcDFOQzVXMW5JOEN3UlB2dE9QejA1emtURmIzbW5va3hYbGxiWndWTlozSHk4N1ZoOWotMG0yX00?oc=5",
-        "publishedAt": "2026-09-10T00:51:25.000Z"
       },
       {
         "time": "08:06",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-09-10T04:30:03.000Z"
       },
       {
-        "time": "04:46",
-        "title": "ウクライナ軍情報局が公表したロシア軍需で使用される60超の外国製工作機械",
-        "source": "Межа. Новини України.",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NUHFXQ0E3QThUUUYzMWNEYWFVcnB4RlhMR1dSdEdsREVCRG4tbnhPVEdlQlBCZmZHNFhUZmh6cXhsS2FISnBmSzJmakZYWHV0cnJjTXFHekVFZHdtdnYtaEtEajNIZWsyU192VHpoVGNnLUU4MnBV?oc=5",
-        "publishedAt": "2026-09-10T19:46:06.000Z"
-      },
-      {
         "time": "20:51",
         "title": "水道関係🚰の方とお話しして、大阪市水道130年の歩みと、これから💧について考えてみました。",
         "source": "選挙ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwdktEcUxmNmpCUU9POWpCWXpMSnhJS1gwbFdISUxDX3pnbHc2REtKWFJaVDdiQlR1LXVuS0pOM01mM3cyOXQ4X1cyN09rdFBNT1JOSjNqU2xyRmctSFhR?oc=5",
         "publishedAt": "2026-09-10T11:51:37.000Z"
+      },
+      {
+        "time": "10:46",
+        "title": "【台湾情報】台湾機械伝動設備、AI・ロボット需要で生産額2桁増／台湾ファシリティエンジニアリングが好調維持の最新動向",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRQkFUTTNYRURTRkVyVEs2YTFfX1dRQzRHWmljV3dzZ2ZnT1JKMjZCNnAtcVBYSzMtNjFNUXdoR1R3Z3lRN3FfRmZvWVBKdGJtZk11bl8xUTduZk4yRzVIeWVqbFJvQVB0dmhB?oc=5",
+        "publishedAt": "2026-09-10T01:46:00.000Z"
+      },
+      {
+        "time": "09:32",
+        "title": "日経平均 一時2000円以上値下がり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594924?source=rss",
+        "publishedAt": "2026-09-11T00:32:12.000Z"
       }
     ],
     "worldHeadlines": [

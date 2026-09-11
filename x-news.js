@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T00:47:12.057Z",
+  "updatedAt": "2026-09-11T01:25:42.935Z",
   "items": [
     {
-      "time": "08:08",
-      "title": "維新入閣 馬場氏か藤田氏で調整",
+      "time": "09:43",
+      "title": "米同時テロの遺族 悲しみ死ぬまで",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594918?source=rss",
-      "publishedAt": "2026-09-10T23:08:12.000Z",
-      "xQuery": "維新入閣 馬場氏か藤田氏で調整"
+      "url": "https://news.yahoo.co.jp/pickup/6594925?source=rss",
+      "publishedAt": "2026-09-11T00:43:31.000Z",
+      "xQuery": "米同時テロの遺族 悲しみ死ぬまで"
     },
     {
       "time": "09:32",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "1泊20万円の高野山宿坊も 嘆く声"
     },
     {
-      "time": "07:39",
-      "title": "3月導入のEVバス 早くも運行停止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594915?source=rss",
-      "publishedAt": "2026-09-10T22:39:41.000Z",
-      "xQuery": "3月導入のEVバス 早くも運行停止"
-    },
-    {
       "time": "07:48",
       "title": "給食チキンナゲットでアレルギー",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6594917?source=rss",
       "publishedAt": "2026-09-10T22:48:14.000Z",
       "xQuery": "給食チキンナゲットでアレルギー"
+    },
+    {
+      "time": "08:59",
+      "title": "水星 誕生以降半径10キロ以上縮む",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594922?source=rss",
+      "publishedAt": "2026-09-10T23:59:56.000Z",
+      "xQuery": "水星 誕生以降半径10キロ以上縮む"
     }
   ]
 };
