@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T03:21:08.466Z",
+  "updatedAt": "2026-09-11T03:42:26.893Z",
   "items": [
     {
       "time": "11:43",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "入閣枠狭き門 焦る安倍チルドレン"
     },
     {
-      "time": "11:10",
-      "title": "武田薬品元社長 長谷川閑史氏死去",
+      "time": "12:02",
+      "title": "政府職員らの情報 24万件漏えいか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594930?source=rss",
-      "publishedAt": "2026-09-11T02:10:31.000Z",
-      "xQuery": "武田薬品元社長 長谷川閑史氏死去"
+      "url": "https://news.yahoo.co.jp/pickup/6594942?source=rss",
+      "publishedAt": "2026-09-11T03:02:31.000Z",
+      "xQuery": "政府職員らの情報 24万件漏えいか"
     },
     {
-      "time": "10:20",
-      "title": "ChatGPT 一部プラン新規受付停止",
+      "time": "12:35",
+      "title": "傷害事件で逮捕 高2死亡に関与か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594928?source=rss",
-      "publishedAt": "2026-09-11T01:20:06.000Z",
-      "xQuery": "ChatGPT 一部プラン新規受付停止"
+      "url": "https://news.yahoo.co.jp/pickup/6594945?source=rss",
+      "publishedAt": "2026-09-11T03:35:16.000Z",
+      "xQuery": "傷害事件で逮捕 高2死亡に関与か"
     },
     {
-      "time": "11:18",
-      "title": "社長殺害 被告に拘禁刑25年を求刑",
+      "time": "11:22",
+      "title": "都バスであおり運転疑い 書類送検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594931?source=rss",
-      "publishedAt": "2026-09-11T02:18:15.000Z",
-      "xQuery": "社長殺害 被告に拘禁刑25年を求刑"
+      "url": "https://news.yahoo.co.jp/pickup/6594933?source=rss",
+      "publishedAt": "2026-09-11T02:22:33.000Z",
+      "xQuery": "都バスであおり運転疑い 書類送検"
     }
   ]
 };
