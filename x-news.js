@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T14:18:06.736Z",
+  "updatedAt": "2026-09-11T14:40:19.408Z",
   "items": [
+    {
+      "time": "22:46",
+      "title": "フーシ派が海峡周辺掌握 原油急騰",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594994?source=rss",
+      "publishedAt": "2026-09-11T13:46:57.000Z",
+      "xQuery": "フーシ派が海峡周辺掌握 原油急騰"
+    },
     {
       "time": "21:37",
       "title": "同時テロ25年 ドローンでビル再現",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "木原氏 岸田氏アンケ巡る発言謝罪"
     },
     {
-      "time": "20:57",
-      "title": "中国 日本人ビザ約7.5倍に値上げ",
+      "time": "23:27",
+      "title": "ケーキ店火災 女性オーナーが死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594984?source=rss",
-      "publishedAt": "2026-09-11T11:57:42.000Z",
-      "xQuery": "中国 日本人ビザ約7.5倍に値上げ"
+      "url": "https://news.yahoo.co.jp/pickup/6594997?source=rss",
+      "publishedAt": "2026-09-11T14:27:47.000Z",
+      "xQuery": "ケーキ店火災 女性オーナーが死亡"
     },
     {
-      "time": "19:00",
-      "title": "ソニー生命新たに5千万円詐取判明",
+      "time": "23:16",
+      "title": "海岸に遺体 不明生徒との関連捜査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594977?source=rss",
-      "publishedAt": "2026-09-11T10:00:50.000Z",
-      "xQuery": "ソニー生命新たに5千万円詐取判明"
-    },
-    {
-      "time": "19:26",
-      "title": "くら寿司苦戦 大手3社で業績に差",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594979?source=rss",
-      "publishedAt": "2026-09-11T10:26:48.000Z",
-      "xQuery": "くら寿司苦戦 大手3社で業績に差"
+      "url": "https://news.yahoo.co.jp/pickup/6594996?source=rss",
+      "publishedAt": "2026-09-11T14:16:40.000Z",
+      "xQuery": "海岸に遺体 不明生徒との関連捜査"
     }
   ]
 };
