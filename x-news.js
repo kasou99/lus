@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T09:39:51.372Z",
+  "updatedAt": "2026-09-11T10:18:02.827Z",
   "items": [
-    {
-      "time": "14:56",
-      "title": "米同時テロ 24年間「封印」の映像",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594953?source=rss",
-      "publishedAt": "2026-09-11T05:56:52.000Z",
-      "xQuery": "米同時テロ 24年間「封印」の映像"
-    },
     {
       "time": "16:25",
       "title": "日銀利上げの公算大 1.25%程度に",
@@ -16,6 +8,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594960?source=rss",
       "publishedAt": "2026-09-11T07:25:40.000Z",
       "xQuery": "日銀利上げの公算大 1.25%程度に"
+    },
+    {
+      "time": "16:49",
+      "title": "兵器開発にClaude利用の恐れ阻止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594964?source=rss",
+      "publishedAt": "2026-09-11T07:49:17.000Z",
+      "xQuery": "兵器開発にClaude利用の恐れ阻止"
+    },
+    {
+      "time": "17:54",
+      "title": "地獄だった 北へ渡った在日韓国人",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594971?source=rss",
+      "publishedAt": "2026-09-11T08:54:41.000Z",
+      "xQuery": "地獄だった 北へ渡った在日韓国人"
     },
     {
       "time": "16:58",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高2死亡 少年4人と盗難トラブルか"
     },
     {
-      "time": "16:17",
-      "title": "別府ひき逃げなど公的懸賞金 延長",
+      "time": "18:31",
+      "title": "9月の都心 日照時間が史上最少",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594959?source=rss",
-      "publishedAt": "2026-09-11T07:17:28.000Z",
-      "xQuery": "別府ひき逃げなど公的懸賞金 延長"
-    },
-    {
-      "time": "17:29",
-      "title": "九州の応援割「便乗値上げ」警戒",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594968?source=rss",
-      "publishedAt": "2026-09-11T08:29:53.000Z",
-      "xQuery": "九州の応援割「便乗値上げ」警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6594976?source=rss",
+      "publishedAt": "2026-09-11T09:31:24.000Z",
+      "xQuery": "9月の都心 日照時間が史上最少"
     }
   ]
 };
