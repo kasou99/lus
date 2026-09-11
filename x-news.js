@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T07:19:25.521Z",
+  "updatedAt": "2026-09-11T07:40:34.409Z",
   "items": [
     {
       "time": "14:56",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米同時テロ 24年間「封印」の映像"
     },
     {
-      "time": "13:35",
-      "title": "14日にかけ真夏日地点が増加か",
+      "time": "16:25",
+      "title": "日銀利上げの公算大 1.25%程度に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594949?source=rss",
-      "publishedAt": "2026-09-11T04:35:37.000Z",
-      "xQuery": "14日にかけ真夏日地点が増加か"
-    },
-    {
-      "time": "14:12",
-      "title": "オープンAI 開発ペース緩める検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594950?source=rss",
-      "publishedAt": "2026-09-11T05:12:17.000Z",
-      "xQuery": "オープンAI 開発ペース緩める検討"
+      "url": "https://news.yahoo.co.jp/pickup/6594960?source=rss",
+      "publishedAt": "2026-09-11T07:25:40.000Z",
+      "xQuery": "日銀利上げの公算大 1.25%程度に"
     },
     {
       "time": "15:51",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594957?source=rss",
       "publishedAt": "2026-09-11T06:51:54.000Z",
       "xQuery": "浜岡原発 審査申請取り下げで調整"
+    },
+    {
+      "time": "16:17",
+      "title": "別府ひき逃げなど公的懸賞金 延長",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594959?source=rss",
+      "publishedAt": "2026-09-11T07:17:28.000Z",
+      "xQuery": "別府ひき逃げなど公的懸賞金 延長"
     },
     {
       "time": "15:25",

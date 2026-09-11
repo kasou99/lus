@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-11T07:19:24.626Z",
+  "updatedAt": "2026-09-11T07:40:33.598Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "13:00",
         "title": "ソディックの自動搬送装置が可搬質量43kgに、中型ワークの搬送に対応：工作機械",
-        "source": "monoist.itmedia.co.jp",
+        "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ta0hDajZKc2J6Z1RtVDFVczlEQkFxZmpnRFhIWEhISks2aUxxZ29MR29KX2xKcW0wUzN0TjdSdWdGUHZpUU56YzBLU1cxOGw5SEp2dGh6OHRnR2NyS29FNlpxZ0pUaDVPWk4wZVFaOA?oc=5",
         "publishedAt": "2026-09-11T04:00:00.000Z"
       },
@@ -52,11 +52,11 @@
         "publishedAt": "2026-09-11T06:21:11.000Z"
       },
       {
-        "time": "20:51",
-        "title": "水道関係🚰の方とお話しして、大阪市水道130年の歩みと、これから💧について考えてみました。",
-        "source": "選挙ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwdktEcUxmNmpCUU9POWpCWXpMSnhJS1gwbFdISUxDX3pnbHc2REtKWFJaVDdiQlR1LXVuS0pOM01mM3cyOXQ4X1cyN09rdFBNT1JOSjNqU2xyRmctSFhR?oc=5",
-        "publishedAt": "2026-09-10T11:51:37.000Z"
+        "time": "04:46",
+        "title": "ウクライナ軍情報局が公表したロシア軍需で使用される60超の外国製工作機械",
+        "source": "Межа. Новини України.",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NUHFXQ0E3QThUUUYzMWNEYWFVcnB4RlhMR1dSdEdsREVCRG4tbnhPVEdlQlBCZmZHNFhUZmh6cXhsS2FISnBmSzJmakZYWHV0cnJjTXFHekVFZHdtdnYtaEtEajNIZWsyU192VHpoVGNnLUU4MnBV?oc=5",
+        "publishedAt": "2026-09-10T19:46:06.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "16:25",
+        "title": "日銀利上げの公算大 1.25%程度に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594960?source=rss",
+        "publishedAt": "2026-09-11T07:25:40.000Z"
+      },
+      {
         "time": "15:51",
         "title": "浜岡原発 審査申請取り下げで調整",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594957?source=rss",
         "publishedAt": "2026-09-11T06:51:54.000Z"
-      },
-      {
-        "time": "09:32",
-        "title": "日経平均 一時2000円以上値下がり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594924?source=rss",
-        "publishedAt": "2026-09-11T00:32:12.000Z"
       },
       {
         "time": "11:10",
