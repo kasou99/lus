@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T10:38:41.025Z",
+  "updatedAt": "2026-09-11T11:15:50.386Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-10T18:38:22.000Z"
       },
       {
-        "time": "05:00",
-        "title": "スター精密牧之原工場が完成 総事業費約４０億円 世界的な需要拡大に対応",
-        "source": "静岡新聞DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VSG8wOWU1cGl5Qk5QYlBVU215cHl0QURDU2lQRlI0eXdySkYyREJwTjM0TXdhLWdoMk1LZnNRTmc5Y1MwYzV4bVE3UUJWQQ?oc=5",
-        "publishedAt": "2026-09-10T20:00:00.000Z"
-      },
-      {
         "time": "16:00",
         "title": "大阪の製造業4社がベトナムで開催される「EMIDASものづくり商談会2026",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TYlVkNzF3cTRHeFFDZnhzaTlKS2lhQ3E3b2cyd2N3V1ZHWFY0bHNRMWtJWkFfRS1FeWdWemtXRTlDSzJ5Nnc0cHdmRVhLMDI0OXhRTVUxeThmMjU4WGxMbDJwdEM0eWVO?oc=5",
         "publishedAt": "2026-09-11T07:00:25.000Z"
+      },
+      {
+        "time": "04:46",
+        "title": "ウクライナ軍情報局が公表したロシア軍需で使用される60超の外国製工作機械",
+        "source": "Межа. Новини України.",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NUHFXQ0E3QThUUUYzMWNEYWFVcnB4RlhMR1dSdEdsREVCRG4tbnhPVEdlQlBCZmZHNFhUZmh6cXhsS2FISnBmSzJmakZYWHV0cnJjTXFHekVFZHdtdnYtaEtEajNIZWsyU192VHpoVGNnLUU4MnBV?oc=5",
+        "publishedAt": "2026-09-10T19:46:06.000Z"
       }
     ],
     "worldHeadlines": [

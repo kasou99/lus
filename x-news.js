@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T10:38:41.766Z",
+  "updatedAt": "2026-09-11T11:15:51.132Z",
   "items": [
     {
       "time": "17:34",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ソニー生命新たに5千万円詐取判明"
     },
     {
-      "time": "18:31",
-      "title": "9月の都心 日照時間が史上最少",
+      "time": "19:26",
+      "title": "くら寿司苦戦 大手3社で業績に差",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594976?source=rss",
-      "publishedAt": "2026-09-11T09:31:24.000Z",
-      "xQuery": "9月の都心 日照時間が史上最少"
+      "url": "https://news.yahoo.co.jp/pickup/6594979?source=rss",
+      "publishedAt": "2026-09-11T10:26:48.000Z",
+      "xQuery": "くら寿司苦戦 大手3社で業績に差"
     }
   ]
 };
