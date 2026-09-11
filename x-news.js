@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T07:40:34.409Z",
+  "updatedAt": "2026-09-11T08:24:13.827Z",
   "items": [
     {
       "time": "14:56",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "別府ひき逃げなど公的懸賞金 延長"
     },
     {
-      "time": "15:25",
-      "title": "天安門集会巡り3人実刑判決 香港",
+      "time": "16:58",
+      "title": "高2死亡 少年4人と盗難トラブルか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594955?source=rss",
-      "publishedAt": "2026-09-11T06:25:36.000Z",
-      "xQuery": "天安門集会巡り3人実刑判決 香港"
+      "url": "https://news.yahoo.co.jp/pickup/6594965?source=rss",
+      "publishedAt": "2026-09-11T07:58:56.000Z",
+      "xQuery": "高2死亡 少年4人と盗難トラブルか"
     }
   ]
 };

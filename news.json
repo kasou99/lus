@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T07:40:33.598Z",
+  "updatedAt": "2026-09-11T08:24:13.088Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "08:06",
         "title": "AI受注が追い風 台湾機械輸出19カ月連続プラス 通年の輸出額・生産額がそろって過去最高更新へ",
-        "source": "BigGo ファイナンス",
+        "source": "finance.biggo.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzbUlNX0d6XzVUT21ld21JeFZlaW5xNjl3emw0YzFtRmJCRVJGQ2hHQlctTUo3VThCN3k2WnRSREZnVUl6QnNscVV3LTZaQjE1a05lWHdsaUo5ajlLSkVZTWppLVROTlAwdDRvaWxXTGRoWTZI?oc=5",
         "publishedAt": "2026-09-10T23:06:00.000Z"
       },
@@ -24,6 +24,13 @@
         "publishedAt": "2026-09-10T20:00:00.000Z"
       },
       {
+        "time": "03:38",
+        "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026 1枚目の写真・画像",
+        "source": "レスポンス（Response.jp）",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUbzNLNGZrbXllY2ptT1AyNVZyZHZFMVMzRWdmUGtMSWN1ZUtIenJzWWZ3cHRJWm9keEE3a0V5UFptTTJYM29lTXVLcGduTTB1enUwM0dSZ05laEQwcU92YkpQYlFnbU96ckgyYw?oc=5",
+        "publishedAt": "2026-09-10T18:38:22.000Z"
+      },
+      {
         "time": "05:00",
         "title": "スター精密牧之原工場が完成 世界的な需要拡大に対応",
         "source": "静岡新聞DIGITAL",
@@ -31,25 +38,11 @@
         "publishedAt": "2026-09-10T20:00:00.000Z"
       },
       {
-        "time": "11:00",
-        "title": "スター精密が牧之原に新工場 スイス型CNC自動旋盤を生産：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tUEc3cl9RM2hVMTRCSFc1NjZuOWRZRl82ejRPLWFfR2pNZVFaZkN4MFZhQ01rUThJVHRicGljMWcwTUV1X0dmeTJ6cmhfRVJPNEkwSUZXMF93cGE0aGRZ?oc=5",
-        "publishedAt": "2026-09-11T02:00:00.000Z"
-      },
-      {
-        "time": "18:37",
-        "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTDFhLW5mbDBhdUFuNFdHNnlVeVdZX3JuaV9jSjhzc2F5aDRYXzZ3Tmg4al9feWNHU0E0dWdqbUVlRUt6bUlJNGp0XzM2ODB3ajhHM0VyYnJubV9jaENRNU5ZLW95blFaQjI3VEh3?oc=5",
-        "publishedAt": "2026-09-10T09:37:25.000Z"
-      },
-      {
-        "time": "15:21",
-        "title": "製造業の63%が「スキルギャップ」を変革の最大の壁と認識 - ヘイズ調査",
+        "time": "16:00",
+        "title": "大阪の製造業4社がベトナムで開催される「EMIDASものづくり商談会2026",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GOXBuTmtQdUFSNUpZbHpYek51VVVRWjhFLXJTLTZlcTAzNlRZSERQcENNVjJBVVFya2tvREpnNlV2VVYzdmZiZmo5eE5wRTZDeVdwdmNpYnhQVkk2OTNqM2ZVajhUWnFBVy1tXzBIRkNiYlNIYTBFa2tvcw?oc=5",
-        "publishedAt": "2026-09-11T06:21:11.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TYlVkNzF3cTRHeFFDZnhzaTlKS2lhQ3E3b2cyd2N3V1ZHWFY0bHNRMWtJWkFfRS1FeWdWemtXRTlDSzJ5Nnc0cHdmRVhLMDI0OXhRTVUxeThmMjU4WGxMbDJwdEM0eWVO?oc=5",
+        "publishedAt": "2026-09-11T07:00:25.000Z"
       },
       {
         "time": "04:46",
@@ -57,6 +50,13 @@
         "source": "Межа. Новини України.",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NUHFXQ0E3QThUUUYzMWNEYWFVcnB4RlhMR1dSdEdsREVCRG4tbnhPVEdlQlBCZmZHNFhUZmh6cXhsS2FISnBmSzJmakZYWHV0cnJjTXFHekVFZHdtdnYtaEtEajNIZWsyU192VHpoVGNnLUU4MnBV?oc=5",
         "publishedAt": "2026-09-10T19:46:06.000Z"
+      },
+      {
+        "time": "20:51",
+        "title": "水道関係🚰の方とお話しして、大阪市水道130年の歩みと、これから💧について考えてみました。",
+        "source": "go2senkyo.com",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwdktEcUxmNmpCUU9POWpCWXpMSnhJS1gwbFdISUxDX3pnbHc2REtKWFJaVDdiQlR1LXVuS0pOM01mM3cyOXQ4X1cyN09rdFBNT1JOSjNqU2xyRmctSFhR?oc=5",
+        "publishedAt": "2026-09-10T11:51:37.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "16:58",
+        "title": "高2死亡 少年4人と盗難トラブルか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594965?source=rss",
+        "publishedAt": "2026-09-11T07:58:56.000Z"
+      },
+      {
         "time": "12:35",
         "title": "傷害事件で逮捕 高2死亡に関与か",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594917?source=rss",
         "publishedAt": "2026-09-10T22:48:14.000Z"
-      },
-      {
-        "time": "11:38",
-        "title": "進む働き方改革 教師が感じた変化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594934?source=rss",
-        "publishedAt": "2026-09-11T02:38:14.000Z"
       }
     ],
     "subsidyHeadlines": [
