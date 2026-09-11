@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T16:39:33.359Z",
+  "updatedAt": "2026-09-11T17:15:06.177Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -13,22 +13,15 @@
         "time": "13:00",
         "title": "ソディックの自動搬送装置が可搬質量43kgに、中型ワークの搬送に対応：工作機械",
         "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yMU5mOVFFb2NGaTdXVENyWGo2cDVNd3ktbFl6OWt1RFV5YnUyazFrdkNITlpXbkhseDA4d0lQVUJjb0c4TGFMOWUxTEQ3amtvYnhyWXNhZWE5anRSTjJNY1ptbVlsY2FM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ta0hDajZKc2J6Z1RtVDFVczlEQkFxZmpnRFhIWEhISks2aUxxZ29MR29KX2xKcW0wUzN0TjdSdWdGUHZpUU56YzBLU1cxOGw5SEp2dGh6OHRnR2NyS29FNlpxZ0pUaDVPWk4wZVFaOA?oc=5",
         "publishedAt": "2026-09-11T04:00:00.000Z"
       },
       {
-        "time": "15:46",
-        "title": "スター精密、牧之原新工場で分散工程を集約 - logi-today.com",
-        "source": "logi-today.com",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3dnZmZHlDRmZEOFIwZ2o3ZDlJcVY4MXF3M3BKam9UMHJGd2xWRmRHUklxZ2dqLXhCTXprN25TQ3VBUF9iMmpnMw?oc=5",
-        "publishedAt": "2026-09-11T06:46:20.000Z"
-      },
-      {
-        "time": "05:39",
-        "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTDFhLW5mbDBhdUFuNFdHNnlVeVdZX3JuaV9jSjhzc2F5aDRYXzZ3Tmg4al9feWNHU0E0dWdqbUVlRUt6bUlJNGp0XzM2ODB3ajhHM0VyYnJubV9jaENRNU5ZLW95blFaQjI3VEh3?oc=5",
-        "publishedAt": "2026-09-10T20:39:32.000Z"
+        "time": "19:56",
+        "title": "内海造船、造船能力増強に111億円投資",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUVVFWlVaWktOX1ZXdTZOb2FXSnpXbEdwZDdtbGM0SDRLT2txQnVQeV9JOWRldU9LTGRJS2N5eU1UYk1sQ1k0TQ?oc=5",
+        "publishedAt": "2026-09-11T10:56:17.000Z"
       },
       {
         "time": "08:06",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-09-10T20:00:00.000Z"
       },
       {
-        "time": "19:56",
-        "title": "内海造船、造船能力増強に111億円投資 - logi-today.com",
-        "source": "logi-today.com",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUVVFWlVaWktOX1ZXdTZOb2FXSnpXbEdwZDdtbGM0SDRLT2txQnVQeV9JOWRldU9LTGRJS2N5eU1UYk1sQ1k0TQ?oc=5",
-        "publishedAt": "2026-09-11T10:56:17.000Z"
+        "time": "03:38",
+        "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026 1枚目の写真・画像",
+        "source": "レスポンス（Response.jp）",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUbzNLNGZrbXllY2ptT1AyNVZyZHZFMVMzRWdmUGtMSWN1ZUtIenJzWWZ3cHRJWm9keEE3a0V5UFptTTJYM29lTXVLcGduTTB1enUwM0dSZ05laEQwcU92YkpQYlFnbU96ckgyYw?oc=5",
+        "publishedAt": "2026-09-10T18:38:22.000Z"
       },
       {
         "time": "05:00",
-        "title": "スター精密牧之原工場が完成 総事業費約４０億円 世界的な需要拡大に対応 - news.at-s.com",
-        "source": "news.at-s.com",
+        "title": "スター精密牧之原工場が完成 総事業費約４０億円 世界的な需要拡大に対応",
+        "source": "静岡新聞DIGITAL",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VSG8wOWU1cGl5Qk5QYlBVU215cHl0QURDU2lQRlI0eXdySkYyREJwTjM0TXdhLWdoMk1LZnNRTmc5Y1MwYzV4bVE3UUJWQQ?oc=5",
         "publishedAt": "2026-09-10T20:00:00.000Z"
+      },
+      {
+        "time": "15:21",
+        "title": "製造業の63%が「スキルギャップ」を変革の最大の壁と認識 - ヘイズ調査",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GOXBuTmtQdUFSNUpZbHpYek51VVVRWjhFLXJTLTZlcTAzNlRZSERQcENNVjJBVVFya2tvREpnNlV2VVYzdmZiZmo5eE5wRTZDeVdwdmNpYnhQVkk2OTNqM2ZVajhUWnFBVy1tXzBIRkNiYlNIYTBFa2tvcw?oc=5",
+        "publishedAt": "2026-09-11T06:21:11.000Z"
       }
     ],
     "worldHeadlines": [
