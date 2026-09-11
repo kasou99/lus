@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T10:18:02.827Z",
+  "updatedAt": "2026-09-11T10:38:41.766Z",
   "items": [
     {
-      "time": "16:25",
-      "title": "日銀利上げの公算大 1.25%程度に",
+      "time": "17:34",
+      "title": "「トランプ配当金」共和党内賛否",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594960?source=rss",
-      "publishedAt": "2026-09-11T07:25:40.000Z",
-      "xQuery": "日銀利上げの公算大 1.25%程度に"
+      "url": "https://news.yahoo.co.jp/pickup/6594966?source=rss",
+      "publishedAt": "2026-09-11T08:34:54.000Z",
+      "xQuery": "「トランプ配当金」共和党内賛否"
     },
     {
       "time": "16:49",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "地獄だった 北へ渡った在日韓国人"
     },
     {
-      "time": "16:58",
-      "title": "高2死亡 少年4人と盗難トラブルか",
+      "time": "19:00",
+      "title": "ソニー生命新たに5千万円詐取判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594965?source=rss",
-      "publishedAt": "2026-09-11T07:58:56.000Z",
-      "xQuery": "高2死亡 少年4人と盗難トラブルか"
+      "url": "https://news.yahoo.co.jp/pickup/6594977?source=rss",
+      "publishedAt": "2026-09-11T10:00:50.000Z",
+      "xQuery": "ソニー生命新たに5千万円詐取判明"
     },
     {
       "time": "18:31",
