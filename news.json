@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T16:18:58.487Z",
+  "updatedAt": "2026-09-11T16:39:33.359Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -18,10 +18,17 @@
       },
       {
         "time": "15:46",
-        "title": "スター精密、牧之原新工場で分散工程を集約",
-        "source": "LOGISTICS TODAY",
+        "title": "スター精密、牧之原新工場で分散工程を集約 - logi-today.com",
+        "source": "logi-today.com",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3dnZmZHlDRmZEOFIwZ2o3ZDlJcVY4MXF3M3BKam9UMHJGd2xWRmRHUklxZ2dqLXhCTXprN25TQ3VBUF9iMmpnMw?oc=5",
         "publishedAt": "2026-09-11T06:46:20.000Z"
+      },
+      {
+        "time": "05:39",
+        "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTDFhLW5mbDBhdUFuNFdHNnlVeVdZX3JuaV9jSjhzc2F5aDRYXzZ3Tmg4al9feWNHU0E0dWdqbUVlRUt6bUlJNGp0XzM2ODB3ajhHM0VyYnJubV9jaENRNU5ZLW95blFaQjI3VEh3?oc=5",
+        "publishedAt": "2026-09-10T20:39:32.000Z"
       },
       {
         "time": "08:06",
@@ -38,16 +45,9 @@
         "publishedAt": "2026-09-10T20:00:00.000Z"
       },
       {
-        "time": "03:38",
-        "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026 1枚目の写真・画像",
-        "source": "レスポンス（Response.jp）",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUbzNLNGZrbXllY2ptT1AyNVZyZHZFMVMzRWdmUGtMSWN1ZUtIenJzWWZ3cHRJWm9keEE3a0V5UFptTTJYM29lTXVLcGduTTB1enUwM0dSZ05laEQwcU92YkpQYlFnbU96ckgyYw?oc=5",
-        "publishedAt": "2026-09-10T18:38:22.000Z"
-      },
-      {
         "time": "19:56",
-        "title": "内海造船、造船能力増強に111億円投資",
-        "source": "LOGISTICS TODAY",
+        "title": "内海造船、造船能力増強に111億円投資 - logi-today.com",
+        "source": "logi-today.com",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUVVFWlVaWktOX1ZXdTZOb2FXSnpXbEdwZDdtbGM0SDRLT2txQnVQeV9JOWRldU9LTGRJS2N5eU1UYk1sQ1k0TQ?oc=5",
         "publishedAt": "2026-09-11T10:56:17.000Z"
       },
