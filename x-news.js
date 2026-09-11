@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T05:17:40.769Z",
+  "updatedAt": "2026-09-11T05:38:33.583Z",
   "items": [
     {
-      "time": "11:43",
-      "title": "浜岡原発の審査 申請取り下げ検討",
+      "time": "13:35",
+      "title": "14日にかけ真夏日地点が増加か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594937?source=rss",
-      "publishedAt": "2026-09-11T02:43:07.000Z",
-      "xQuery": "浜岡原発の審査 申請取り下げ検討"
+      "url": "https://news.yahoo.co.jp/pickup/6594949?source=rss",
+      "publishedAt": "2026-09-11T04:35:37.000Z",
+      "xQuery": "14日にかけ真夏日地点が増加か"
     },
     {
       "time": "12:02",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "政府職員らの情報 24万件漏えいか"
     },
     {
-      "time": "13:35",
-      "title": "14日にかけ真夏日地点が増加か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594949?source=rss",
-      "publishedAt": "2026-09-11T04:35:37.000Z",
-      "xQuery": "14日にかけ真夏日地点が増加か"
-    },
-    {
       "time": "12:35",
       "title": "傷害事件で逮捕 高2死亡に関与か",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "傷害事件で逮捕 高2死亡に関与か"
     },
     {
-      "time": "11:22",
-      "title": "都バスであおり運転疑い 書類送検",
+      "time": "14:12",
+      "title": "オープンAI 開発ペース緩める検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594933?source=rss",
-      "publishedAt": "2026-09-11T02:22:33.000Z",
-      "xQuery": "都バスであおり運転疑い 書類送検"
+      "url": "https://news.yahoo.co.jp/pickup/6594950?source=rss",
+      "publishedAt": "2026-09-11T05:12:17.000Z",
+      "xQuery": "オープンAI 開発ペース緩める検討"
+    },
+    {
+      "time": "13:07",
+      "title": "富士山遭難救助 なぜ有料化難しい",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594936?source=rss",
+      "publishedAt": "2026-09-11T04:07:55.000Z",
+      "xQuery": "富士山遭難救助 なぜ有料化難しい"
     }
   ]
 };
