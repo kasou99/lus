@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-11T13:38:18.128Z",
+  "updatedAt": "2026-09-11T14:18:05.803Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "18:37",
         "title": "工作機械の最新調査2026-2032：市場規模58250百万米ドル、今後動向を予測｜QYResearch",
-        "source": "note",
+        "source": "note.com",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JZHhpU2IxS3FHWmJBRlZiQXRzbnNMVjJqMWxFendDZ2lGUkF3YmRxNEg1eEJWZWtVTGtQRjJGYjBRQVp3ZWgtTXFCZ3dBcThwd0J4Y3lLbw?oc=5",
         "publishedAt": "2026-09-11T09:37:01.000Z"
       },
@@ -24,13 +24,6 @@
         "publishedAt": "2026-09-11T10:56:17.000Z"
       },
       {
-        "time": "17:29",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "sanyonews.jp",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-09-11T08:29:29.000Z"
-      },
-      {
         "time": "08:06",
         "title": "AI受注が追い風 台湾機械輸出19カ月連続プラス 通年の輸出額・生産額がそろって過去最高更新へ",
         "source": "BigGo ファイナンス",
@@ -47,7 +40,7 @@
       {
         "time": "03:38",
         "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026 1枚目の写真・画像",
-        "source": "s.response.jp",
+        "source": "レスポンス（Response.jp）",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUbzNLNGZrbXllY2ptT1AyNVZyZHZFMVMzRWdmUGtMSWN1ZUtIenJzWWZ3cHRJWm9keEE3a0V5UFptTTJYM29lTXVLcGduTTB1enUwM0dSZ05laEQwcU92YkpQYlFnbU96ckgyYw?oc=5",
         "publishedAt": "2026-09-10T18:38:22.000Z"
       },
@@ -57,9 +50,23 @@
         "source": "静岡新聞DIGITAL",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VSG8wOWU1cGl5Qk5QYlBVU215cHl0QURDU2lQRlI0eXdySkYyREJwTjM0TXdhLWdoMk1LZnNRTmc5Y1MwYzV4bVE3UUJWQQ?oc=5",
         "publishedAt": "2026-09-10T20:00:00.000Z"
+      },
+      {
+        "time": "15:21",
+        "title": "製造業の63%が「スキルギャップ」を変革の最大の壁と認識 - ヘイズ調査",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GOXBuTmtQdUFSNUpZbHpYek51VVVRWjhFLXJTLTZlcTAzNlRZSERQcENNVjJBVVFya2tvREpnNlV2VVYzdmZiZmo5eE5wRTZDeVdwdmNpYnhQVkk2OTNqM2ZVajhUWnFBVy1tXzBIRkNiYlNIYTBFa2tvcw?oc=5",
+        "publishedAt": "2026-09-11T06:21:11.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "22:46",
+        "title": "フーシ派が海峡周辺掌握 原油急騰",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594994?source=rss",
+        "publishedAt": "2026-09-11T13:46:57.000Z"
+      },
       {
         "time": "21:37",
         "title": "同時テロ25年 ドローンでビル再現",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594903?source=rss",
         "publishedAt": "2026-09-10T13:47:04.000Z"
-      },
-      {
-        "time": "15:25",
-        "title": "天安門集会巡り3人実刑判決 香港",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594955?source=rss",
-        "publishedAt": "2026-09-11T06:25:36.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,13 +110,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594960?source=rss",
         "publishedAt": "2026-09-11T07:25:40.000Z"
-      },
-      {
-        "time": "15:51",
-        "title": "浜岡原発 審査申請取り下げで調整",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594957?source=rss",
-        "publishedAt": "2026-09-11T06:51:54.000Z"
       },
       {
         "time": "19:00",
@@ -131,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594968?source=rss",
         "publishedAt": "2026-09-11T08:29:53.000Z"
+      },
+      {
+        "time": "22:51",
+        "title": "業界初 迷惑客の対応費補償の保険",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594995?source=rss",
+        "publishedAt": "2026-09-11T13:51:59.000Z"
       },
       {
         "time": "19:26",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-09-11T03:35:16.000Z"
       },
       {
+        "time": "23:16",
+        "title": "海岸に遺体 不明生徒との関連捜査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594996?source=rss",
+        "publishedAt": "2026-09-11T14:16:40.000Z"
+      },
+      {
         "time": "11:22",
         "title": "都バスであおり運転疑い 書類送検",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594987?source=rss",
         "publishedAt": "2026-09-11T12:43:45.000Z"
-      },
-      {
-        "time": "07:48",
-        "title": "給食チキンナゲットでアレルギー",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594917?source=rss",
-        "publishedAt": "2026-09-10T22:48:14.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
