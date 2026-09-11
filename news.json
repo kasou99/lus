@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:36:59.275Z",
+  "updatedAt": "2026-09-11T12:26:47.581Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ta0hDajZKc2J6Z1RtVDFVczlEQkFxZmpnRFhIWEhISks2aUxxZ29MR29KX2xKcW0wUzN0TjdSdWdGUHZpUU56YzBLU1cxOGw5SEp2dGh6OHRnR2NyS29FNlpxZ0pUaDVPWk4wZVFaOA?oc=5",
         "publishedAt": "2026-09-11T04:00:00.000Z"
+      },
+      {
+        "time": "19:56",
+        "title": "内海造船、造船能力増強に111億円投資 - logi-today.com",
+        "source": "logi-today.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUVVFWlVaWktOX1ZXdTZOb2FXSnpXbEdwZDdtbGM0SDRLT2txQnVQeV9JOWRldU9LTGRJS2N5eU1UYk1sQ1k0TQ?oc=5",
+        "publishedAt": "2026-09-11T10:56:17.000Z"
       },
       {
         "time": "08:06",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GOXBuTmtQdUFSNUpZbHpYek51VVVRWjhFLXJTLTZlcTAzNlRZSERQcENNVjJBVVFya2tvREpnNlV2VVYzdmZiZmo5eE5wRTZDeVdwdmNpYnhQVkk2OTNqM2ZVajhUWnFBVy1tXzBIRkNiYlNIYTBFa2tvcw?oc=5",
         "publishedAt": "2026-09-11T06:21:11.000Z"
-      },
-      {
-        "time": "04:46",
-        "title": "ウクライナ軍情報局が公表したロシア軍需で使用される60超の外国製工作機械",
-        "source": "Межа. Новини України.",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NUHFXQ0E3QThUUUYzMWNEYWFVcnB4RlhMR1dSdEdsREVCRG4tbnhPVEdlQlBCZmZHNFhUZmh6cXhsS2FISnBmSzJmakZYWHV0cnJjTXFHekVFZHdtdnYtaEtEajNIZWsyU192VHpoVGNnLUU4MnBV?oc=5",
-        "publishedAt": "2026-09-10T19:46:06.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
