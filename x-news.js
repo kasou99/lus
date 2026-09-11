@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T04:21:46.844Z",
+  "updatedAt": "2026-09-11T04:42:19.692Z",
   "items": [
     {
       "time": "11:43",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "都バスであおり運転疑い 書類送検"
     },
     {
-      "time": "12:01",
-      "title": "テスラ 無人タクシーを日本初公開",
+      "time": "13:07",
+      "title": "富士山遭難救助 なぜ有料化難しい",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594940?source=rss",
-      "publishedAt": "2026-09-11T03:01:22.000Z",
-      "xQuery": "テスラ 無人タクシーを日本初公開"
+      "url": "https://news.yahoo.co.jp/pickup/6594936?source=rss",
+      "publishedAt": "2026-09-11T04:07:55.000Z",
+      "xQuery": "富士山遭難救助 なぜ有料化難しい"
     }
   ]
 };
