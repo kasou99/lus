@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T06:52:05.737Z",
+  "updatedAt": "2026-09-11T07:19:25.521Z",
   "items": [
     {
       "time": "14:56",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "オープンAI 開発ペース緩める検討"
     },
     {
-      "time": "13:07",
-      "title": "富士山遭難救助 なぜ有料化難しい",
+      "time": "15:51",
+      "title": "浜岡原発 審査申請取り下げで調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594936?source=rss",
-      "publishedAt": "2026-09-11T04:07:55.000Z",
-      "xQuery": "富士山遭難救助 なぜ有料化難しい"
+      "url": "https://news.yahoo.co.jp/pickup/6594957?source=rss",
+      "publishedAt": "2026-09-11T06:51:54.000Z",
+      "xQuery": "浜岡原発 審査申請取り下げで調整"
     },
     {
       "time": "15:25",
