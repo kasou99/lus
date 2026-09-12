@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T20:15:58.680Z",
+  "updatedAt": "2026-09-12T20:39:26.587Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-09-12T09:25:03.000Z"
       },
       {
-        "time": "06:00",
-        "title": "技能五輪国際大会「全力を」/日立製作所の片野選手「ＣＮＣ旋盤」",
-        "source": "山口新聞 電子版",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41ekJEX0syTTZKMDE2bjJ2TGJRNk9UZWtMZzEyUHRrd2t4Rm8zbkhia3hDdWtiMEJGakFrWW9yNHNVRUhQclhBU2VvN2FBUUNiekhZYXMtTTBhWlk1anhiUHZCMko5WW1neXc?oc=5",
-        "publishedAt": "2026-09-11T21:00:00.000Z"
-      },
-      {
         "time": "01:34",
         "title": "ブラザー工業小池前会長 「課長級の人材育成に協力」：ニュース",
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9taWxfM3Qyemswa0l2UVQ5ODdpZDRKRVp1czRMRFBIRWgzYlVIbDlXbDlabE9vbmxpRlYyLVlpTWZXQzNkYktia1NWeVJlQWZ3ZGRTSFdoTFlSUWEwd0tF?oc=5",
         "publishedAt": "2026-09-12T16:34:27.000Z"
+      },
+      {
+        "time": "06:00",
+        "title": "技能五輪国際大会「全力を」/日立製作所の片野選手「ＣＮＣ旋盤」",
+        "source": "山口新聞 電子版",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41ekJEX0syTTZKMDE2bjJ2TGJRNk9UZWtMZzEyUHRrd2t4Rm8zbkhia3hDdWtiMEJGakFrWW9yNHNVRUhQclhBU2VvN2FBUUNiekhZYXMtTTBhWlk1anhiUHZCMko5WW1neXc?oc=5",
+        "publishedAt": "2026-09-11T21:00:00.000Z"
       },
       {
         "time": "10:03",
