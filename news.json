@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T13:36:58.749Z",
+  "updatedAt": "2026-09-12T14:14:26.320Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,14 +26,14 @@
       {
         "time": "15:31",
         "title": "ブラザー工業小池前会長 「課長級の人材育成に協力」：ニュース",
-        "source": "biz.chunichi.co.jp",
+        "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9taWxfM3Qyemswa0l2UVQ5ODdpZDRKRVp1czRMRFBIRWgzYlVIbDlXbDlabE9vbmxpRlYyLVlpTWZXQzNkYktia1NWeVJlQWZ3ZGRTSFdoTFlSUWEwd0tF?oc=5",
         "publishedAt": "2026-09-12T06:31:28.000Z"
       },
       {
         "time": "04:40",
         "title": "【機械業界の5年後大予測】ファナック、ダイフク、川崎重工、THK…設備投資拡大の追い風だけでない強さの秘訣と本命企業をトップアナリストが解説《再配信》",
-        "source": "ダイヤモンド・オンライン",
+        "source": "diamond.jp",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zdkJtcUZFQzdZZTR2RngtQjh2Mks0YTNjTDBfbVpNTm5pWkNLNEd6bWkwZUM1dUhGWEhiZ2pGdUk3QWdsdUJZcmJEYWLSAU9BVV95cUxQcGx0dnFjWW0xXzFXUlhPc1Y5cnRXbWx3ZUJfMzZRaXhKZk16N1BMSmdsSExCTnl2QUswOEpQQk5TRTJRaGJNa0ZIejlfZEY0?oc=5",
         "publishedAt": "2026-09-11T19:40:00.000Z"
       },
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "23:12",
+        "title": "習氏が訪印 中印関係の改善探る",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595101?source=rss",
+        "publishedAt": "2026-09-12T14:12:43.000Z"
+      },
+      {
         "time": "21:24",
         "title": "台湾に武器売却なら習氏訪米せず",
         "source": "Yahoo!ニュース",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595049?source=rss",
         "publishedAt": "2026-09-12T05:46:06.000Z"
-      },
-      {
-        "time": "09:59",
-        "title": "北の飛翔体は短距離弾道ミサイル",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595024?source=rss",
-        "publishedAt": "2026-09-12T00:59:39.000Z"
       },
       {
         "time": "17:09",
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
