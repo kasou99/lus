@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T00:46:31.668Z",
+  "updatedAt": "2026-09-12T01:23:11.971Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-09-11T06:46:20.000Z"
       },
       {
+        "time": "17:29",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-09-11T08:29:29.000Z"
+      },
+      {
         "time": "05:00",
         "title": "京都市伏見区のクリーンセンター火災、復旧費が建設費の4倍超に 自然災害による「追い打ち」も",
         "source": "京都新聞デジタル",
@@ -50,22 +57,15 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUVVFWlVaWktOX1ZXdTZOb2FXSnpXbEdwZDdtbGM0SDRLT2txQnVQeV9JOWRldU9LTGRJS2N5eU1UYk1sQ1k0TQ?oc=5",
         "publishedAt": "2026-09-11T10:56:17.000Z"
-      },
-      {
-        "time": "15:21",
-        "title": "製造業の63%が「スキルギャップ」を変革の最大の壁と認識 - ヘイズ調査",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10MGszQnNkRTNQc1BYMjR1aXhaU080akRJMEVkMVp1MDRzb3o2SlJpdTNWNnNmeUxrbkVDUllxd1VKcGVXUHZ1SFBlLVNuVHNDMmxHUExFWXgydzkxTFpjYThjMWZSRmo3WlNJQkczTHU0c2x0cjBDLU9POA?oc=5",
-        "publishedAt": "2026-09-11T06:21:11.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "08:41",
-        "title": "北の飛翔体は弾道ミサイル 韓国軍",
+        "time": "09:59",
+        "title": "北の飛翔体は短距離弾道ミサイル",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595014?source=rss",
-        "publishedAt": "2026-09-11T23:41:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595024?source=rss",
+        "publishedAt": "2026-09-12T00:59:39.000Z"
       },
       {
         "time": "09:06",
@@ -126,6 +126,13 @@
         "publishedAt": "2026-09-11T08:29:53.000Z"
       },
       {
+        "time": "09:59",
+        "title": "イオン熊本 専門店に契約解除打診",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595021?source=rss",
+        "publishedAt": "2026-09-12T00:59:18.000Z"
+      },
+      {
         "time": "08:05",
         "title": "ガソスタ 10年で1700社超が消滅",
         "source": "Yahoo!ニュース",
@@ -138,16 +145,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594995?source=rss",
         "publishedAt": "2026-09-11T13:51:59.000Z"
-      },
-      {
-        "time": "19:26",
-        "title": "くら寿司苦戦 大手3社で業績に差",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594979?source=rss",
-        "publishedAt": "2026-09-11T10:26:48.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "10:21",
+        "title": "沖縄県知事選 争点は経済や暮らし",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595026?source=rss",
+        "publishedAt": "2026-09-12T01:21:40.000Z"
+      },
       {
         "time": "23:27",
         "title": "ケーキ店火災 女性オーナーが死亡",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594965?source=rss",
         "publishedAt": "2026-09-11T07:58:56.000Z"
-      },
-      {
-        "time": "23:16",
-        "title": "海岸に遺体 不明生徒との関連捜査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594996?source=rss",
-        "publishedAt": "2026-09-11T14:16:40.000Z"
       },
       {
         "time": "07:20",

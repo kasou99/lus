@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T00:46:32.326Z",
+  "updatedAt": "2026-09-12T01:23:12.960Z",
   "items": [
     {
-      "time": "09:39",
-      "title": "火山情報",
+      "time": "09:52",
+      "title": "十勝岳 噴火警戒レベル3に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6588274?source=rss",
-      "publishedAt": "2026-09-12T00:39:30.000Z",
-      "xQuery": "火山情報"
+      "url": "https://news.yahoo.co.jp/pickup/6595022?source=rss",
+      "publishedAt": "2026-09-12T00:52:04.000Z",
+      "xQuery": "十勝岳 噴火警戒レベル3に"
     },
     {
       "time": "09:33",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595019?source=rss",
       "publishedAt": "2026-09-12T00:33:11.000Z",
       "xQuery": "九州～東海で残暑 熱中症対策を"
+    },
+    {
+      "time": "09:59",
+      "title": "イオン熊本 専門店に契約解除打診",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595021?source=rss",
+      "publishedAt": "2026-09-12T00:59:18.000Z",
+      "xQuery": "イオン熊本 専門店に契約解除打診"
     },
     {
       "time": "09:06",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595017?source=rss",
       "publishedAt": "2026-09-12T00:21:50.000Z",
       "xQuery": "工藤会と対峙 前・北九州市長語る"
-    },
-    {
-      "time": "08:26",
-      "title": "読めない看板 住民ら要望で存続へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595010?source=rss",
-      "publishedAt": "2026-09-11T23:26:16.000Z",
-      "xQuery": "読めない看板 住民ら要望で存続へ"
     }
   ]
 };
