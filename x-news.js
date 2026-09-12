@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T09:16:59.855Z",
+  "updatedAt": "2026-09-12T09:36:42.998Z",
   "items": [
     {
       "time": "16:11",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ヘリで空撮 目隠しの内側なぜ報道"
     },
     {
+      "time": "18:03",
+      "title": "ケーキ店火災 男性は前日も来店",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595075?source=rss",
+      "publishedAt": "2026-09-12T09:03:43.000Z",
+      "xQuery": "ケーキ店火災 男性は前日も来店"
+    },
+    {
       "time": "16:58",
       "title": "「VAIO T」発表 再挑戦する理由",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595069?source=rss",
       "publishedAt": "2026-09-12T07:58:49.000Z",
       "xQuery": "「VAIO T」発表 再挑戦する理由"
-    },
-    {
-      "time": "15:22",
-      "title": "15km先までフェス騒音 気象影響か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595060?source=rss",
-      "publishedAt": "2026-09-12T06:22:14.000Z",
-      "xQuery": "15km先までフェス騒音 気象影響か"
     }
   ]
 };
