@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-12T05:37:24.146Z",
+  "updatedAt": "2026-09-12T06:26:59.383Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "06:00",
-        "title": "技能五輪国際大会「全力を」/日立製作所の片野選手「ＣＮＣ旋盤」 - yama.minato-yamaguchi.co.jp",
-        "source": "yama.minato-yamaguchi.co.jp",
+        "title": "技能五輪国際大会「全力を」/日立製作所の片野選手「ＣＮＣ旋盤」",
+        "source": "山口新聞 電子版",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41ekJEX0syTTZKMDE2bjJ2TGJRNk9UZWtMZzEyUHRrd2t4Rm8zbkhia3hDdWtiMEJGakFrWW9yNHNVRUhQclhBU2VvN2FBUUNiekhZYXMtTTBhWlk1anhiUHZCMko5WW1neXc?oc=5",
         "publishedAt": "2026-09-11T21:00:00.000Z"
       },
@@ -40,26 +40,33 @@
       {
         "time": "11:06",
         "title": "工業用ゴム製品製造の協立パッキングが特別清算 負債総額は4億1千万円 得意先からの単価値下げ要請厳しく、価格転嫁も実現せず業績が低迷 業績の低迷に歯止めがかからず、事業継続が困難に",
-        "source": "topics.smt.docomo.ne.jp",
+        "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVZKZFlDRzJvYTBzajlkOXFLS1BNeGNxeVl3NFJNbU9CYi1CSmEwTFAwVXAzYm1WcW5HaV96Zkp5OW5tQ1RudkZoY3RYaEh0VHk3LWgyLS1TZFMxYnFLWEp1VVE2d0V0R242MnpWMnRqejVyUXZPVzRxeWpwMUdpVDVJY9IBiAFBVV95cUxPV2JpUzVqeGNfakRBSlU0QTZQZ3ViV1RHV190SU1xNlpBa2lrRGkxeVVxdmY4M0haWUtVX1BxbW43OXVzYmRhakc2TkxNd3NkbDVEZUtYZW45Z01wUHVsRXRQQWlPc19hd21aSDRULUgwZnFuUDJWLUVBYnJYV09LU0RYZi0wWDZt?oc=5",
         "publishedAt": "2026-09-12T02:06:00.000Z"
       },
       {
-        "time": "15:21",
-        "title": "製造業の63%が「スキルギャップ」を変革の最大の壁と認識 - ヘイズ調査",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10MGszQnNkRTNQc1BYMjR1aXhaU080akRJMEVkMVp1MDRzb3o2SlJpdTNWNnNmeUxrbkVDUllxd1VKcGVXUHZ1SFBlLVNuVHNDMmxHUExFWXgydzkxTFpjYThjMWZSRmo3WlNJQkczTHU0c2x0cjBDLU9POA?oc=5",
-        "publishedAt": "2026-09-11T06:21:11.000Z"
+        "time": "15:46",
+        "title": "スター精密、牧之原新工場で分散工程を集約",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3dnZmZHlDRmZEOFIwZ2o3ZDlJcVY4MXF3M3BKam9UMHJGd2xWRmRHUklxZ2dqLXhCTXprN25TQ3VBUF9iMmpnMw?oc=5",
+        "publishedAt": "2026-09-11T06:46:20.000Z"
       },
       {
-        "time": "17:11",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-09-11T08:11:21.000Z"
+        "time": "16:00",
+        "title": "大阪の製造業4社がベトナムで開催される「EMIDASものづくり商談会2026",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uNUg2UGp0OWpMV3FZeHZUN09OdGZLalpPUVZvb3VPbVlDU2IxWnBhb3dmSDFQVl9mY2pMZDV2aDItdjRocmhXeFFINEI0UVB5clE2WA?oc=5",
+        "publishedAt": "2026-09-11T07:00:25.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "14:46",
+        "title": "サウジの原油パイプラインが停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595049?source=rss",
+        "publishedAt": "2026-09-12T05:46:06.000Z"
+      },
       {
         "time": "09:59",
         "title": "北の飛翔体は短距離弾道ミサイル",
@@ -94,23 +101,9 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594986?source=rss",
         "publishedAt": "2026-09-11T12:37:51.000Z"
-      },
-      {
-        "time": "17:34",
-        "title": "「トランプ配当金」共和党内賛否",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594966?source=rss",
-        "publishedAt": "2026-09-11T08:34:54.000Z"
       }
     ],
     "economyHeadlines": [
-      {
-        "time": "16:25",
-        "title": "日銀利上げの公算大 1.25%程度に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594960?source=rss",
-        "publishedAt": "2026-09-11T07:25:40.000Z"
-      },
       {
         "time": "09:59",
         "title": "イオン熊本 専門店に契約解除打診",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595006?source=rss",
         "publishedAt": "2026-09-11T23:05:07.000Z"
+      },
+      {
+        "time": "15:06",
+        "title": "日本の新幹線輸出 印で難航の背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595056?source=rss",
+        "publishedAt": "2026-09-12T06:06:56.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-09-11T14:27:47.000Z"
       },
       {
+        "time": "14:51",
+        "title": "逮捕の少年4人 高2事件を口止めか",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595054?source=rss",
+        "publishedAt": "2026-09-12T05:51:51.000Z"
+      },
+      {
         "time": "13:11",
         "title": "6歳男児不明から1週間 捜索続く",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594999?source=rss",
         "publishedAt": "2026-09-11T22:20:09.000Z"
-      },
-      {
-        "time": "14:34",
-        "title": "高知の小学校教員合格 予定の倍",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595051?source=rss",
-        "publishedAt": "2026-09-12T05:34:45.000Z"
       }
     ],
     "subsidyHeadlines": [

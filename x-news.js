@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T05:37:25.018Z",
+  "updatedAt": "2026-09-12T06:26:59.948Z",
   "items": [
     {
       "time": "14:23",
@@ -10,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ランサム被害を復元 警察庁が開発"
     },
     {
-      "time": "11:41",
-      "title": "仮釈放中の性犯罪者にGPS 課題も",
+      "time": "14:46",
+      "title": "サウジの原油パイプラインが停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595032?source=rss",
-      "publishedAt": "2026-09-12T02:41:22.000Z",
-      "xQuery": "仮釈放中の性犯罪者にGPS 課題も"
+      "url": "https://news.yahoo.co.jp/pickup/6595049?source=rss",
+      "publishedAt": "2026-09-12T05:46:06.000Z",
+      "xQuery": "サウジの原油パイプラインが停止"
     },
     {
-      "time": "12:49",
-      "title": "千葉豪雨 冠水から通行止めまで1h",
+      "time": "14:51",
+      "title": "逮捕の少年4人 高2事件を口止めか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595040?source=rss",
-      "publishedAt": "2026-09-12T03:49:49.000Z",
-      "xQuery": "千葉豪雨 冠水から通行止めまで1h"
+      "url": "https://news.yahoo.co.jp/pickup/6595054?source=rss",
+      "publishedAt": "2026-09-12T05:51:51.000Z",
+      "xQuery": "逮捕の少年4人 高2事件を口止めか"
+    },
+    {
+      "time": "14:34",
+      "title": "高知の小学校教員合格 予定の倍",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595051?source=rss",
+      "publishedAt": "2026-09-12T05:34:45.000Z",
+      "xQuery": "高知の小学校教員合格 予定の倍"
     },
     {
       "time": "14:06",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595045?source=rss",
       "publishedAt": "2026-09-12T05:06:40.000Z",
       "xQuery": "韓国で「半導体高校」希望者殺到"
-    },
-    {
-      "time": "13:11",
-      "title": "6歳男児不明から1週間 捜索続く",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595043?source=rss",
-      "publishedAt": "2026-09-12T04:11:46.000Z",
-      "xQuery": "6歳男児不明から1週間 捜索続く"
     }
   ]
 };
