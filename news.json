@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T17:37:15.932Z",
+  "updatedAt": "2026-09-12T18:18:31.163Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,17 +11,10 @@
       },
       {
         "time": "06:00",
-        "title": "技能五輪国際大会「全力を」/日立製作所の片野選手「ＣＮＣ旋盤」 - yama.minato-yamaguchi.co.jp",
-        "source": "yama.minato-yamaguchi.co.jp",
+        "title": "技能五輪国際大会「全力を」/日立製作所の片野選手「ＣＮＣ旋盤」",
+        "source": "山口新聞 電子版",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41ekJEX0syTTZKMDE2bjJ2TGJRNk9UZWtMZzEyUHRrd2t4Rm8zbkhia3hDdWtiMEJGakFrWW9yNHNVRUhQclhBU2VvN2FBUUNiekhZYXMtTTBhWlk1anhiUHZCMko5WW1neXc?oc=5",
         "publishedAt": "2026-09-11T21:00:00.000Z"
-      },
-      {
-        "time": "01:34",
-        "title": "ブラザー工業小池前会長 「課長級の人材育成に協力」：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9taWxfM3Qyemswa0l2UVQ5ODdpZDRKRVp1czRMRFBIRWgzYlVIbDlXbDlabE9vbmxpRlYyLVlpTWZXQzNkYktia1NWeVJlQWZ3ZGRTSFdoTFlSUWEwd0tF?oc=5",
-        "publishedAt": "2026-09-12T16:34:27.000Z"
       },
       {
         "time": "10:03",
@@ -31,9 +24,16 @@
         "publishedAt": "2026-09-12T01:03:18.000Z"
       },
       {
+        "time": "15:31",
+        "title": "ブラザー工業小池前会長 「課長級の人材育成に協力」：ニュース",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9taWxfM3Qyemswa0l2UVQ5ODdpZDRKRVp1czRMRFBIRWgzYlVIbDlXbDlabE9vbmxpRlYyLVlpTWZXQzNkYktia1NWeVJlQWZ3ZGRTSFdoTFlSUWEwd0tF?oc=5",
+        "publishedAt": "2026-09-12T06:31:28.000Z"
+      },
+      {
         "time": "04:40",
         "title": "【機械業界の5年後大予測】ファナック、ダイフク、川崎重工、THK…設備投資拡大の追い風だけでない強さの秘訣と本命企業をトップアナリストが解説《再配信》",
-        "source": "diamond.jp",
+        "source": "ダイヤモンド・オンライン",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zdkJtcUZFQzdZZTR2RngtQjh2Mks0YTNjTDBfbVpNTm5pWkNLNEd6bWkwZUM1dUhGWEhiZ2pGdUk3QWdsdUJZcmJEYWLSAU9BVV95cUxQcGx0dnFjWW0xXzFXUlhPc1Y5cnRXbWx3ZUJfMzZRaXhKZk16N1BMSmdsSExCTnl2QUswOEpQQk5TRTJRaGJNa0ZIejlfZEY0?oc=5",
         "publishedAt": "2026-09-11T19:40:00.000Z"
       },
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
