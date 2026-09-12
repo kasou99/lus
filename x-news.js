@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T02:24:42.253Z",
+  "updatedAt": "2026-09-12T02:42:47.664Z",
   "items": [
     {
-      "time": "09:33",
-      "title": "九州～東海で残暑 熱中症対策を",
+      "time": "10:57",
+      "title": "内閣改造 林芳正総務相が留任意向",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595019?source=rss",
-      "publishedAt": "2026-09-12T00:33:11.000Z",
-      "xQuery": "九州～東海で残暑 熱中症対策を"
+      "url": "https://news.yahoo.co.jp/pickup/6595029?source=rss",
+      "publishedAt": "2026-09-12T01:57:52.000Z",
+      "xQuery": "内閣改造 林芳正総務相が留任意向"
     },
     {
-      "time": "10:21",
-      "title": "沖縄県知事選 争点は経済や暮らし",
+      "time": "10:50",
+      "title": "露に抵抗 地下組織・黒い火花とは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595026?source=rss",
-      "publishedAt": "2026-09-12T01:21:40.000Z",
-      "xQuery": "沖縄県知事選 争点は経済や暮らし"
+      "url": "https://news.yahoo.co.jp/pickup/6595027?source=rss",
+      "publishedAt": "2026-09-12T01:50:16.000Z",
+      "xQuery": "露に抵抗 地下組織・黒い火花とは"
     },
     {
       "time": "09:59",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イオン熊本 専門店に契約解除打診"
     },
     {
-      "time": "09:06",
-      "title": "北方領土の地図修正巡り 露が反発",
+      "time": "10:50",
+      "title": "サーティワン絶好調 売れる理由",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595015?source=rss",
-      "publishedAt": "2026-09-12T00:06:12.000Z",
-      "xQuery": "北方領土の地図修正巡り 露が反発"
+      "url": "https://news.yahoo.co.jp/pickup/6595028?source=rss",
+      "publishedAt": "2026-09-12T01:50:10.000Z",
+      "xQuery": "サーティワン絶好調 売れる理由"
     },
     {
-      "time": "09:21",
-      "title": "工藤会と対峙 前・北九州市長語る",
+      "time": "09:35",
+      "title": "じゃんけん 参加人数の限界は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595017?source=rss",
-      "publishedAt": "2026-09-12T00:21:50.000Z",
-      "xQuery": "工藤会と対峙 前・北九州市長語る"
+      "url": "https://news.yahoo.co.jp/pickup/6595020?source=rss",
+      "publishedAt": "2026-09-12T00:35:50.000Z",
+      "xQuery": "じゃんけん 参加人数の限界は"
     }
   ]
 };

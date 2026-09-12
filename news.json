@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-12T02:24:41.406Z",
+  "updatedAt": "2026-09-12T02:42:46.668Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "06:00",
-        "title": "技能五輪国際大会「全力を」/日立製作所の片野選手「ＣＮＣ旋盤」",
-        "source": "山口新聞 電子版",
+        "title": "技能五輪国際大会「全力を」/日立製作所の片野選手「ＣＮＣ旋盤」 - yama.minato-yamaguchi.co.jp",
+        "source": "yama.minato-yamaguchi.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41ekJEX0syTTZKMDE2bjJ2TGJRNk9UZWtMZzEyUHRrd2t4Rm8zbkhia3hDdWtiMEJGakFrWW9yNHNVRUhQclhBU2VvN2FBUUNiekhZYXMtTTBhWlk1anhiUHZCMko5WW1neXc?oc=5",
         "publishedAt": "2026-09-11T21:00:00.000Z"
       },
@@ -34,15 +34,8 @@
         "time": "13:00",
         "title": "ソディックの自動搬送装置が可搬質量43kgに、中型ワークの搬送に対応：工作機械",
         "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ta0hDajZKc2J6Z1RtVDFVczlEQkFxZmpnRFhIWEhISks2aUxxZ29MR29KX2xKcW0wUzN0TjdSdWdGUHZpUU56YzBLU1cxOGw5SEp2dGh6OHRnR2NyS29FNlpxZ0pUaDVPWk4wZVFaOA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yMU5mOVFFb2NGaTdXVENyWGo2cDVNd3ktbFl6OWt1RFV5YnUyazFrdkNITlpXbkhseDA4d0lQVUJjb0c4TGFMOWUxTEQ3amtvYnhyWXNhZWE5anRSTjJNY1ptbVlsY2FM?oc=5",
         "publishedAt": "2026-09-11T04:00:00.000Z"
-      },
-      {
-        "time": "17:29",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-09-11T08:29:29.000Z"
       },
       {
         "time": "05:00",
@@ -57,6 +50,13 @@
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVZKZFlDRzJvYTBzajlkOXFLS1BNeGNxeVl3NFJNbU9CYi1CSmEwTFAwVXAzYm1WcW5HaV96Zkp5OW5tQ1RudkZoY3RYaEh0VHk3LWgyLS1TZFMxYnFLWEp1VVE2d0V0R242MnpWMnRqejVyUXZPVzRxeWpwMUdpVDVJY9IBiAFBVV95cUxPV2JpUzVqeGNfakRBSlU0QTZQZ3ViV1RHV190SU1xNlpBa2lrRGkxeVVxdmY4M0haWUtVX1BxbW43OXVzYmRhakc2TkxNd3NkbDVEZUtYZW45Z01wUHVsRXRQQWlPc19hd21aSDRULUgwZnFuUDJWLUVBYnJYV09LU0RYZi0wWDZt?oc=5",
         "publishedAt": "2026-09-12T02:06:00.000Z"
+      },
+      {
+        "time": "15:46",
+        "title": "スター精密、牧之原新工場で分散工程を集約",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3dnZmZHlDRmZEOFIwZ2o3ZDlJcVY4MXF3M3BKam9UMHJGd2xWRmRHUklxZ2dqLXhCTXprN25TQ3VBUF9iMmpnMw?oc=5",
+        "publishedAt": "2026-09-11T06:46:20.000Z"
       }
     ],
     "worldHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
