@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T12:23:05.860Z",
+  "updatedAt": "2026-09-12T12:42:06.041Z",
   "items": [
     {
-      "time": "17:10",
-      "title": "秋雨前線が北上 激しい雨の恐れ",
+      "time": "21:24",
+      "title": "台湾に武器売却なら習氏訪米せず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595071?source=rss",
-      "publishedAt": "2026-09-12T08:10:29.000Z",
-      "xQuery": "秋雨前線が北上 激しい雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6595095?source=rss",
+      "publishedAt": "2026-09-12T12:24:57.000Z",
+      "xQuery": "台湾に武器売却なら習氏訪米せず"
     },
     {
       "time": "17:09",
