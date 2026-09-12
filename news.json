@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-12T03:41:13.523Z",
+  "updatedAt": "2026-09-12T04:19:17.950Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "06:00",
-        "title": "技能五輪国際大会「全力を」/日立製作所の片野選手「ＣＮＣ旋盤」 - yama.minato-yamaguchi.co.jp",
-        "source": "yama.minato-yamaguchi.co.jp",
+        "title": "技能五輪国際大会「全力を」/日立製作所の片野選手「ＣＮＣ旋盤」",
+        "source": "山口新聞 電子版",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41ekJEX0syTTZKMDE2bjJ2TGJRNk9UZWtMZzEyUHRrd2t4Rm8zbkhia3hDdWtiMEJGakFrWW9yNHNVRUhQclhBU2VvN2FBUUNiekhZYXMtTTBhWlk1anhiUHZCMko5WW1neXc?oc=5",
         "publishedAt": "2026-09-11T21:00:00.000Z"
       },
@@ -31,25 +31,25 @@
         "publishedAt": "2026-09-11T19:40:00.000Z"
       },
       {
-        "time": "13:00",
-        "title": "ソディックの自動搬送装置が可搬質量43kgに、中型ワークの搬送に対応：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yMU5mOVFFb2NGaTdXVENyWGo2cDVNd3ktbFl6OWt1RFV5YnUyazFrdkNITlpXbkhseDA4d0lQVUJjb0c4TGFMOWUxTEQ3amtvYnhyWXNhZWE5anRSTjJNY1ptbVlsY2FM?oc=5",
-        "publishedAt": "2026-09-11T04:00:00.000Z"
+        "time": "17:29",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-09-11T08:29:29.000Z"
+      },
+      {
+        "time": "11:06",
+        "title": "工業用ゴム製品製造の協立パッキングが特別清算 負債総額は4億1千万円 得意先からの単価値下げ要請厳しく、価格転嫁も実現せず業績が低迷 業績の低迷に歯止めがかからず、事業継続が困難に",
+        "source": "topics.smt.docomo.ne.jp",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVZKZFlDRzJvYTBzajlkOXFLS1BNeGNxeVl3NFJNbU9CYi1CSmEwTFAwVXAzYm1WcW5HaV96Zkp5OW5tQ1RudkZoY3RYaEh0VHk3LWgyLS1TZFMxYnFLWEp1VVE2d0V0R242MnpWMnRqejVyUXZPVzRxeWpwMUdpVDVJY9IBiAFBVV95cUxPV2JpUzVqeGNfakRBSlU0QTZQZ3ViV1RHV190SU1xNlpBa2lrRGkxeVVxdmY4M0haWUtVX1BxbW43OXVzYmRhakc2TkxNd3NkbDVEZUtYZW45Z01wUHVsRXRQQWlPc19hd21aSDRULUgwZnFuUDJWLUVBYnJYV09LU0RYZi0wWDZt?oc=5",
+        "publishedAt": "2026-09-12T02:06:00.000Z"
       },
       {
         "time": "05:00",
-        "title": "京都市伏見区のクリーンセンター火災、復旧費が建設費の4倍超に 自然災害による「追い打ち」も",
-        "source": "京都新聞デジタル",
+        "title": "京都市伏見区のクリーンセンター火災、復旧費が建設費の4倍超に 自然災害による「追い打ち」も - kyoto-np.co.jp",
+        "source": "kyoto-np.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43SWZQNWl4YWhraVRrZlJCWlB1c2RTWGZqdUtxMnVSWUlfZzY5bHJMdkt1YThkU1ZlZHB0b1lPSlVOM3k5VzRtM2JBckFRVzhUQ09FakdPMHI?oc=5",
         "publishedAt": "2026-09-11T20:00:00.000Z"
-      },
-      {
-        "time": "15:46",
-        "title": "スター精密、牧之原新工場で分散工程を集約",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3dnZmZHlDRmZEOFIwZ2o3ZDlJcVY4MXF3M3BKam9UMHJGd2xWRmRHUklxZ2dqLXhCTXprN25TQ3VBUF9iMmpnMw?oc=5",
-        "publishedAt": "2026-09-11T06:46:20.000Z"
       },
       {
         "time": "15:21",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "12:49",
+        "title": "千葉豪雨 冠水から通行止めまで1h",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595040?source=rss",
+        "publishedAt": "2026-09-12T03:49:49.000Z"
+      },
+      {
         "time": "10:21",
         "title": "沖縄県知事選 争点は経済や暮らし",
         "source": "Yahoo!ニュース",
@@ -163,11 +170,11 @@
         "publishedAt": "2026-09-11T14:27:47.000Z"
       },
       {
-        "time": "16:58",
-        "title": "高2死亡 少年4人と盗難トラブルか",
+        "time": "13:11",
+        "title": "6歳男児不明から1週間 捜索続く",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594965?source=rss",
-        "publishedAt": "2026-09-11T07:58:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595043?source=rss",
+        "publishedAt": "2026-09-12T04:11:46.000Z"
       },
       {
         "time": "07:20",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595017?source=rss",
         "publishedAt": "2026-09-12T00:21:50.000Z"
-      },
-      {
-        "time": "21:43",
-        "title": "割烹こめを代表 衛生実態巡り説明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594987?source=rss",
-        "publishedAt": "2026-09-11T12:43:45.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,15 +218,15 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
