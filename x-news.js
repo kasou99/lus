@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T03:20:21.259Z",
+  "updatedAt": "2026-09-12T03:41:14.283Z",
   "items": [
     {
       "time": "10:57",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣改造 林芳正総務相が留任意向"
     },
     {
-      "time": "10:50",
-      "title": "露に抵抗 地下組織・黒い火花とは",
+      "time": "11:41",
+      "title": "仮釈放中の性犯罪者にGPS 課題も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595027?source=rss",
-      "publishedAt": "2026-09-12T01:50:16.000Z",
-      "xQuery": "露に抵抗 地下組織・黒い火花とは"
+      "url": "https://news.yahoo.co.jp/pickup/6595032?source=rss",
+      "publishedAt": "2026-09-12T02:41:22.000Z",
+      "xQuery": "仮釈放中の性犯罪者にGPS 課題も"
     },
     {
       "time": "09:59",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "サーティワン絶好調 売れる理由"
     },
     {
-      "time": "09:35",
-      "title": "じゃんけん 参加人数の限界は",
+      "time": "08:23",
+      "title": "藤井竜王対局 1手1万円熊本に寄付",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595020?source=rss",
-      "publishedAt": "2026-09-12T00:35:50.000Z",
-      "xQuery": "じゃんけん 参加人数の限界は"
+      "url": "https://news.yahoo.co.jp/pickup/6595009?source=rss",
+      "publishedAt": "2026-09-11T23:23:33.000Z",
+      "xQuery": "藤井竜王対局 1手1万円熊本に寄付"
     }
   ]
 };
