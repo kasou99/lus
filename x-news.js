@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T22:14:23.629Z",
+  "updatedAt": "2026-09-12T22:38:51.929Z",
   "items": [
     {
       "time": "22:06",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "陸上の大会で28人搬送 弁当原因か"
     },
     {
-      "time": "19:32",
-      "title": "MUFG 富裕層囲い込み戦略の裏側",
+      "time": "07:35",
+      "title": "AnthropicCEO AI開発の減速訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595083?source=rss",
-      "publishedAt": "2026-09-12T10:32:23.000Z",
-      "xQuery": "MUFG 富裕層囲い込み戦略の裏側"
+      "url": "https://news.yahoo.co.jp/pickup/6595106?source=rss",
+      "publishedAt": "2026-09-12T22:35:27.000Z",
+      "xQuery": "AnthropicCEO AI開発の減速訴え"
     },
     {
-      "time": "21:00",
-      "title": "「時給100円」ブラックインターン",
+      "time": "07:22",
+      "title": "富士山 閉山後でも海外の団体客",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595093?source=rss",
-      "publishedAt": "2026-09-12T12:00:50.000Z",
-      "xQuery": "「時給100円」ブラックインターン"
+      "url": "https://news.yahoo.co.jp/pickup/6595103?source=rss",
+      "publishedAt": "2026-09-12T22:22:41.000Z",
+      "xQuery": "富士山 閉山後でも海外の団体客"
     }
   ]
 };

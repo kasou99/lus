@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T22:14:22.860Z",
+  "updatedAt": "2026-09-12T22:38:50.976Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,6 +163,13 @@
         "publishedAt": "2026-09-12T10:27:29.000Z"
       },
       {
+        "time": "07:22",
+        "title": "富士山 閉山後でも海外の団体客",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595103?source=rss",
+        "publishedAt": "2026-09-12T22:22:41.000Z"
+      },
+      {
         "time": "19:08",
         "title": "大阪市のゴミ処理なぜひっ迫 実態",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595075?source=rss",
         "publishedAt": "2026-09-12T09:03:43.000Z"
-      },
-      {
-        "time": "14:51",
-        "title": "逮捕の少年4人 高2事件を口止めか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595054?source=rss",
-        "publishedAt": "2026-09-12T05:51:51.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
