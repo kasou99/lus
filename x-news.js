@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T08:40:55.912Z",
+  "updatedAt": "2026-09-12T09:16:59.855Z",
   "items": [
     {
       "time": "16:11",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "農家落胆 福井大雨でソバに大打撃"
     },
     {
-      "time": "16:16",
-      "title": "内閣支持率60%超 異例の高さ背景",
+      "time": "15:43",
+      "title": "ゴールは壊滅 地道な暴追で街変化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595065?source=rss",
-      "publishedAt": "2026-09-12T07:16:03.000Z",
-      "xQuery": "内閣支持率60%超 異例の高さ背景"
+      "url": "https://news.yahoo.co.jp/pickup/6595061?source=rss",
+      "publishedAt": "2026-09-12T06:43:18.000Z",
+      "xQuery": "ゴールは壊滅 地道な暴追で街変化"
     },
     {
       "time": "16:50",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ヘリで空撮 目隠しの内側なぜ報道"
     },
     {
-      "time": "14:51",
-      "title": "逮捕の少年4人 高2事件を口止めか",
+      "time": "16:58",
+      "title": "「VAIO T」発表 再挑戦する理由",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595054?source=rss",
-      "publishedAt": "2026-09-12T05:51:51.000Z",
-      "xQuery": "逮捕の少年4人 高2事件を口止めか"
+      "url": "https://news.yahoo.co.jp/pickup/6595069?source=rss",
+      "publishedAt": "2026-09-12T07:58:49.000Z",
+      "xQuery": "「VAIO T」発表 再挑戦する理由"
     },
     {
       "time": "15:22",
