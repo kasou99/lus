@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T22:38:51.929Z",
+  "updatedAt": "2026-09-12T23:13:48.427Z",
   "items": [
     {
-      "time": "22:06",
-      "title": "対米投資第3弾 次世代原発が有力",
+      "time": "07:48",
+      "title": "国対委員長に村井英樹氏 首相意向",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595098?source=rss",
-      "publishedAt": "2026-09-12T13:06:04.000Z",
-      "xQuery": "対米投資第3弾 次世代原発が有力"
+      "url": "https://news.yahoo.co.jp/pickup/6595108?source=rss",
+      "publishedAt": "2026-09-12T22:48:12.000Z",
+      "xQuery": "国対委員長に村井英樹氏 首相意向"
     },
     {
-      "time": "22:09",
-      "title": "米利上げ予想高まる インフレ続く",
+      "time": "07:35",
+      "title": "AnthropicCEO AI開発の減速訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595097?source=rss",
-      "publishedAt": "2026-09-12T13:09:47.000Z",
-      "xQuery": "米利上げ予想高まる インフレ続く"
+      "url": "https://news.yahoo.co.jp/pickup/6595106?source=rss",
+      "publishedAt": "2026-09-12T22:35:27.000Z",
+      "xQuery": "AnthropicCEO AI開発の減速訴え"
     },
     {
       "time": "23:33",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "陸上の大会で28人搬送 弁当原因か"
     },
     {
-      "time": "07:35",
-      "title": "AnthropicCEO AI開発の減速訴え",
+      "time": "07:44",
+      "title": "車にはねられ約7m下に転落 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595106?source=rss",
-      "publishedAt": "2026-09-12T22:35:27.000Z",
-      "xQuery": "AnthropicCEO AI開発の減速訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6595107?source=rss",
+      "publishedAt": "2026-09-12T22:44:41.000Z",
+      "xQuery": "車にはねられ約7m下に転落 死亡"
     },
     {
       "time": "07:22",
