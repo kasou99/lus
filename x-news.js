@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T05:16:20.909Z",
+  "updatedAt": "2026-09-12T05:37:25.018Z",
   "items": [
     {
-      "time": "10:57",
-      "title": "内閣改造 林芳正総務相が留任意向",
+      "time": "14:23",
+      "title": "ランサム被害を復元 警察庁が開発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595029?source=rss",
-      "publishedAt": "2026-09-12T01:57:52.000Z",
-      "xQuery": "内閣改造 林芳正総務相が留任意向"
+      "url": "https://news.yahoo.co.jp/pickup/6595048?source=rss",
+      "publishedAt": "2026-09-12T05:23:02.000Z",
+      "xQuery": "ランサム被害を復元 警察庁が開発"
     },
     {
       "time": "11:41",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉豪雨 冠水から通行止めまで1h"
     },
     {
-      "time": "09:59",
-      "title": "イオン熊本 専門店に契約解除打診",
+      "time": "14:06",
+      "title": "韓国で「半導体高校」希望者殺到",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595021?source=rss",
-      "publishedAt": "2026-09-12T00:59:18.000Z",
-      "xQuery": "イオン熊本 専門店に契約解除打診"
+      "url": "https://news.yahoo.co.jp/pickup/6595045?source=rss",
+      "publishedAt": "2026-09-12T05:06:40.000Z",
+      "xQuery": "韓国で「半導体高校」希望者殺到"
     },
     {
-      "time": "13:01",
-      "title": "長岡花火の懸念 主催側再考せずか",
+      "time": "13:11",
+      "title": "6歳男児不明から1週間 捜索続く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595042?source=rss",
-      "publishedAt": "2026-09-12T04:01:35.000Z",
-      "xQuery": "長岡花火の懸念 主催側再考せずか"
+      "url": "https://news.yahoo.co.jp/pickup/6595043?source=rss",
+      "publishedAt": "2026-09-12T04:11:46.000Z",
+      "xQuery": "6歳男児不明から1週間 捜索続く"
     }
   ]
 };
