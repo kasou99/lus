@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T14:14:27.368Z",
+  "updatedAt": "2026-09-12T14:37:19.328Z",
   "items": [
     {
-      "time": "21:24",
-      "title": "台湾に武器売却なら習氏訪米せず",
+      "time": "22:06",
+      "title": "対米投資第3弾 次世代原発が有力",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595095?source=rss",
-      "publishedAt": "2026-09-12T12:24:57.000Z",
-      "xQuery": "台湾に武器売却なら習氏訪米せず"
+      "url": "https://news.yahoo.co.jp/pickup/6595098?source=rss",
+      "publishedAt": "2026-09-12T13:06:04.000Z",
+      "xQuery": "対米投資第3弾 次世代原発が有力"
     },
     {
-      "time": "18:16",
-      "title": "交付金受領巡り 解体の中道に批判",
+      "time": "23:12",
+      "title": "習氏が訪印 中印関係の改善探る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595076?source=rss",
-      "publishedAt": "2026-09-12T09:16:07.000Z",
-      "xQuery": "交付金受領巡り 解体の中道に批判"
+      "url": "https://news.yahoo.co.jp/pickup/6595101?source=rss",
+      "publishedAt": "2026-09-12T14:12:43.000Z",
+      "xQuery": "習氏が訪印 中印関係の改善探る"
     },
     {
-      "time": "21:18",
-      "title": "陸上の大会で23人搬送 弁当原因か",
+      "time": "23:33",
+      "title": "陸上の大会で28人搬送 弁当原因か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595094?source=rss",
-      "publishedAt": "2026-09-12T12:18:00.000Z",
-      "xQuery": "陸上の大会で23人搬送 弁当原因か"
+      "url": "https://news.yahoo.co.jp/pickup/6595102?source=rss",
+      "publishedAt": "2026-09-12T14:33:23.000Z",
+      "xQuery": "陸上の大会で28人搬送 弁当原因か"
     },
     {
       "time": "19:32",
