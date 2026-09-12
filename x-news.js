@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T01:44:44.758Z",
+  "updatedAt": "2026-09-12T02:24:42.253Z",
   "items": [
-    {
-      "time": "09:52",
-      "title": "十勝岳 噴火警戒レベル3に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595022?source=rss",
-      "publishedAt": "2026-09-12T00:52:04.000Z",
-      "xQuery": "十勝岳 噴火警戒レベル3に"
-    },
     {
       "time": "09:33",
       "title": "九州～東海で残暑 熱中症対策を",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595019?source=rss",
       "publishedAt": "2026-09-12T00:33:11.000Z",
       "xQuery": "九州～東海で残暑 熱中症対策を"
+    },
+    {
+      "time": "10:21",
+      "title": "沖縄県知事選 争点は経済や暮らし",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595026?source=rss",
+      "publishedAt": "2026-09-12T01:21:40.000Z",
+      "xQuery": "沖縄県知事選 争点は経済や暮らし"
     },
     {
       "time": "09:59",

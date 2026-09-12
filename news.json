@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T01:44:43.958Z",
+  "updatedAt": "2026-09-12T02:24:41.406Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "山口新聞 電子版",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41ekJEX0syTTZKMDE2bjJ2TGJRNk9UZWtMZzEyUHRrd2t4Rm8zbkhia3hDdWtiMEJGakFrWW9yNHNVRUhQclhBU2VvN2FBUUNiekhZYXMtTTBhWlk1anhiUHZCMko5WW1neXc?oc=5",
         "publishedAt": "2026-09-11T21:00:00.000Z"
+      },
+      {
+        "time": "10:03",
+        "title": "内海造船、造船能力増強に111億円投資",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUVVFWlVaWktOX1ZXdTZOb2FXSnpXbEdwZDdtbGM0SDRLT2txQnVQeV9JOWRldU9LTGRJS2N5eU1UYk1sQ1k0TQ?oc=5",
+        "publishedAt": "2026-09-12T01:03:18.000Z"
       },
       {
         "time": "18:37",
@@ -24,18 +31,18 @@
         "publishedAt": "2026-09-11T19:40:00.000Z"
       },
       {
-        "time": "15:46",
-        "title": "スター精密、牧之原新工場で分散工程を集約",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3dnZmZHlDRmZEOFIwZ2o3ZDlJcVY4MXF3M3BKam9UMHJGd2xWRmRHUklxZ2dqLXhCTXprN25TQ3VBUF9iMmpnMw?oc=5",
-        "publishedAt": "2026-09-11T06:46:20.000Z"
-      },
-      {
         "time": "13:00",
         "title": "ソディックの自動搬送装置が可搬質量43kgに、中型ワークの搬送に対応：工作機械",
         "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yMU5mOVFFb2NGaTdXVENyWGo2cDVNd3ktbFl6OWt1RFV5YnUyazFrdkNITlpXbkhseDA4d0lQVUJjb0c4TGFMOWUxTEQ3amtvYnhyWXNhZWE5anRSTjJNY1ptbVlsY2FM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ta0hDajZKc2J6Z1RtVDFVczlEQkFxZmpnRFhIWEhISks2aUxxZ29MR29KX2xKcW0wUzN0TjdSdWdGUHZpUU56YzBLU1cxOGw5SEp2dGh6OHRnR2NyS29FNlpxZ0pUaDVPWk4wZVFaOA?oc=5",
         "publishedAt": "2026-09-11T04:00:00.000Z"
+      },
+      {
+        "time": "17:29",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-09-11T08:29:29.000Z"
       },
       {
         "time": "05:00",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-09-11T20:00:00.000Z"
       },
       {
-        "time": "19:56",
-        "title": "内海造船、造船能力増強に111億円投資",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUVVFWlVaWktOX1ZXdTZOb2FXSnpXbEdwZDdtbGM0SDRLT2txQnVQeV9JOWRldU9LTGRJS2N5eU1UYk1sQ1k0TQ?oc=5",
-        "publishedAt": "2026-09-11T10:56:17.000Z"
-      },
-      {
-        "time": "15:21",
-        "title": "製造業の63%が「スキルギャップ」を変革の最大の壁と認識 - ヘイズ調査",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10MGszQnNkRTNQc1BYMjR1aXhaU080akRJMEVkMVp1MDRzb3o2SlJpdTNWNnNmeUxrbkVDUllxd1VKcGVXUHZ1SFBlLVNuVHNDMmxHUExFWXgydzkxTFpjYThjMWZSRmo3WlNJQkczTHU0c2x0cjBDLU9POA?oc=5",
-        "publishedAt": "2026-09-11T06:21:11.000Z"
+        "time": "11:06",
+        "title": "工業用ゴム製品製造の協立パッキングが特別清算 負債総額は4億1千万円 得意先からの単価値下げ要請厳しく、価格転嫁も実現せず業績が低迷 業績の低迷に歯止めがかからず、事業継続が困難に",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVZKZFlDRzJvYTBzajlkOXFLS1BNeGNxeVl3NFJNbU9CYi1CSmEwTFAwVXAzYm1WcW5HaV96Zkp5OW5tQ1RudkZoY3RYaEh0VHk3LWgyLS1TZFMxYnFLWEp1VVE2d0V0R242MnpWMnRqejVyUXZPVzRxeWpwMUdpVDVJY9IBiAFBVV95cUxPV2JpUzVqeGNfakRBSlU0QTZQZ3ViV1RHV190SU1xNlpBa2lrRGkxeVVxdmY4M0haWUtVX1BxbW43OXVzYmRhakc2TkxNd3NkbDVEZUtYZW45Z01wUHVsRXRQQWlPc19hd21aSDRULUgwZnFuUDJWLUVBYnJYV09LU0RYZi0wWDZt?oc=5",
+        "publishedAt": "2026-09-12T02:06:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595024?source=rss",
         "publishedAt": "2026-09-12T00:59:39.000Z"
+      },
+      {
+        "time": "10:50",
+        "title": "露に抵抗 地下組織・黒い火花とは",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595027?source=rss",
+        "publishedAt": "2026-09-12T01:50:16.000Z"
       },
       {
         "time": "09:06",
@@ -89,13 +96,6 @@
         "publishedAt": "2026-09-11T12:37:51.000Z"
       },
       {
-        "time": "14:56",
-        "title": "米同時テロ 24年間「封印」の映像",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594953?source=rss",
-        "publishedAt": "2026-09-11T05:56:52.000Z"
-      },
-      {
         "time": "17:34",
         "title": "「トランプ配当金」共和党内賛否",
         "source": "Yahoo!ニュース",
@@ -112,6 +112,13 @@
         "publishedAt": "2026-09-11T07:25:40.000Z"
       },
       {
+        "time": "09:59",
+        "title": "イオン熊本 専門店に契約解除打診",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595021?source=rss",
+        "publishedAt": "2026-09-12T00:59:18.000Z"
+      },
+      {
         "time": "19:00",
         "title": "ソニー生命新たに5千万円詐取判明",
         "source": "Yahoo!ニュース",
@@ -126,11 +133,11 @@
         "publishedAt": "2026-09-11T08:29:53.000Z"
       },
       {
-        "time": "09:59",
-        "title": "イオン熊本 専門店に契約解除打診",
+        "time": "10:50",
+        "title": "サーティワン絶好調 売れる理由",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595021?source=rss",
-        "publishedAt": "2026-09-12T00:59:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595028?source=rss",
+        "publishedAt": "2026-09-12T01:50:10.000Z"
       },
       {
         "time": "08:05",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595006?source=rss",
         "publishedAt": "2026-09-11T23:05:07.000Z"
-      },
-      {
-        "time": "22:51",
-        "title": "業界初 迷惑客の対応費補償の保険",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594995?source=rss",
-        "publishedAt": "2026-09-11T13:51:59.000Z"
       }
     ],
     "localHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
