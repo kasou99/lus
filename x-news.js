@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T14:37:19.328Z",
+  "updatedAt": "2026-09-12T15:14:13.584Z",
   "items": [
     {
       "time": "22:06",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "対米投資第3弾 次世代原発が有力"
     },
     {
-      "time": "23:12",
-      "title": "習氏が訪印 中印関係の改善探る",
+      "time": "22:09",
+      "title": "米利上げ予想高まる インフレ続く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595101?source=rss",
-      "publishedAt": "2026-09-12T14:12:43.000Z",
-      "xQuery": "習氏が訪印 中印関係の改善探る"
+      "url": "https://news.yahoo.co.jp/pickup/6595097?source=rss",
+      "publishedAt": "2026-09-12T13:09:47.000Z",
+      "xQuery": "米利上げ予想高まる インフレ続く"
     },
     {
       "time": "23:33",
