@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T12:42:06.041Z",
+  "updatedAt": "2026-09-12T13:14:24.569Z",
   "items": [
     {
       "time": "21:24",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台湾に武器売却なら習氏訪米せず"
     },
     {
-      "time": "17:09",
-      "title": "ウ大統領 米は新たな対露制裁を",
+      "time": "18:16",
+      "title": "交付金受領巡り 解体の中道に批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595070?source=rss",
-      "publishedAt": "2026-09-12T08:09:40.000Z",
-      "xQuery": "ウ大統領 米は新たな対露制裁を"
+      "url": "https://news.yahoo.co.jp/pickup/6595076?source=rss",
+      "publishedAt": "2026-09-12T09:16:07.000Z",
+      "xQuery": "交付金受領巡り 解体の中道に批判"
     },
     {
       "time": "21:18",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "陸上の大会で23人搬送 弁当原因か"
     },
     {
-      "time": "19:27",
-      "title": "海水浴場で2人溺れる 19歳が重体",
+      "time": "19:32",
+      "title": "MUFG 富裕層囲い込み戦略の裏側",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595084?source=rss",
-      "publishedAt": "2026-09-12T10:27:29.000Z",
-      "xQuery": "海水浴場で2人溺れる 19歳が重体"
+      "url": "https://news.yahoo.co.jp/pickup/6595083?source=rss",
+      "publishedAt": "2026-09-12T10:32:23.000Z",
+      "xQuery": "MUFG 富裕層囲い込み戦略の裏側"
     },
     {
       "time": "21:00",

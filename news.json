@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T12:42:04.980Z",
+  "updatedAt": "2026-09-12T13:14:23.647Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-12T02:06:00.000Z"
       },
       {
-        "time": "21:00",
-        "title": "「時給100円」ブラックインターン",
+        "time": "22:06",
+        "title": "対米投資第3弾 次世代原発が有力",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595093?source=rss",
-        "publishedAt": "2026-09-12T12:00:50.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595098?source=rss",
+        "publishedAt": "2026-09-12T13:06:04.000Z"
       },
       {
-        "time": "19:32",
-        "title": "MUFG 富裕層囲い込み戦略の裏側",
+        "time": "22:09",
+        "title": "米利上げ予想高まる インフレ続く",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595083?source=rss",
-        "publishedAt": "2026-09-12T10:32:23.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595097?source=rss",
+        "publishedAt": "2026-09-12T13:09:47.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,20 @@
     ],
     "economyHeadlines": [
       {
+        "time": "22:06",
+        "title": "対米投資第3弾 次世代原発が有力",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595098?source=rss",
+        "publishedAt": "2026-09-12T13:06:04.000Z"
+      },
+      {
+        "time": "22:09",
+        "title": "米利上げ予想高まる インフレ続く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595097?source=rss",
+        "publishedAt": "2026-09-12T13:09:47.000Z"
+      },
+      {
         "time": "21:00",
         "title": "「時給100円」ブラックインターン",
         "source": "Yahoo!ニュース",
@@ -131,20 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595069?source=rss",
         "publishedAt": "2026-09-12T07:58:49.000Z"
-      },
-      {
-        "time": "10:50",
-        "title": "サーティワン絶好調 売れる理由",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595028?source=rss",
-        "publishedAt": "2026-09-12T01:50:10.000Z"
-      },
-      {
-        "time": "08:05",
-        "title": "ガソスタ 10年で1700社超が消滅",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595006?source=rss",
-        "publishedAt": "2026-09-11T23:05:07.000Z"
       }
     ],
     "localHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
