@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T23:13:48.427Z",
+  "updatedAt": "2026-09-12T23:37:05.913Z",
   "items": [
     {
       "time": "07:48",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "AnthropicCEO AI開発の減速訴え"
     },
     {
-      "time": "23:33",
-      "title": "陸上の大会で28人搬送 弁当原因か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595102?source=rss",
-      "publishedAt": "2026-09-12T14:33:23.000Z",
-      "xQuery": "陸上の大会で28人搬送 弁当原因か"
-    },
-    {
       "time": "07:44",
       "title": "車にはねられ約7m下に転落 死亡",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595103?source=rss",
       "publishedAt": "2026-09-12T22:22:41.000Z",
       "xQuery": "富士山 閉山後でも海外の団体客"
+    },
+    {
+      "time": "08:13",
+      "title": "赤信号渡る3歳を小2発見 母と保護",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595112?source=rss",
+      "publishedAt": "2026-09-12T23:13:29.000Z",
+      "xQuery": "赤信号渡る3歳を小2発見 母と保護"
     }
   ]
 };
