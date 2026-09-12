@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T11:37:13.359Z",
+  "updatedAt": "2026-09-12T12:23:04.958Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "15:31",
         "title": "ブラザー工業小池前会長 「課長級の人材育成に協力」：ニュース",
-        "source": "biz.chunichi.co.jp",
+        "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9taWxfM3Qyemswa0l2UVQ5ODdpZDRKRVp1czRMRFBIRWgzYlVIbDlXbDlabE9vbmxpRlYyLVlpTWZXQzNkYktia1NWeVJlQWZ3ZGRTSFdoTFlSUWEwd0tF?oc=5",
         "publishedAt": "2026-09-12T06:31:28.000Z"
       },
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-12T02:06:00.000Z"
       },
       {
+        "time": "21:00",
+        "title": "「時給100円」ブラックインターン",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595093?source=rss",
+        "publishedAt": "2026-09-12T12:00:50.000Z"
+      },
+      {
         "time": "19:32",
         "title": "MUFG 富裕層囲い込み戦略の裏側",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595083?source=rss",
         "publishedAt": "2026-09-12T10:32:23.000Z"
-      },
-      {
-        "time": "09:59",
-        "title": "イオン熊本 専門店に契約解除打診",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595021?source=rss",
-        "publishedAt": "2026-09-12T00:59:18.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "21:00",
+        "title": "「時給100円」ブラックインターン",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595093?source=rss",
+        "publishedAt": "2026-09-12T12:00:50.000Z"
+      },
+      {
         "time": "19:32",
         "title": "MUFG 富裕層囲い込み戦略の裏側",
         "source": "Yahoo!ニュース",
@@ -138,22 +145,15 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595006?source=rss",
         "publishedAt": "2026-09-11T23:05:07.000Z"
-      },
-      {
-        "time": "15:06",
-        "title": "日本の新幹線輸出 印で難航の背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595056?source=rss",
-        "publishedAt": "2026-09-12T06:06:56.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "19:18",
-        "title": "陸上競技大会で食中毒か 23人搬送",
+        "time": "21:18",
+        "title": "陸上の大会で23人搬送 弁当原因か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595082?source=rss",
-        "publishedAt": "2026-09-12T10:18:17.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595094?source=rss",
+        "publishedAt": "2026-09-12T12:18:00.000Z"
       },
       {
         "time": "19:27",
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }

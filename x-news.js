@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T11:37:14.426Z",
+  "updatedAt": "2026-09-12T12:23:05.860Z",
   "items": [
     {
       "time": "17:10",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ウ大統領 米は新たな対露制裁を"
     },
     {
-      "time": "19:18",
-      "title": "陸上競技大会で食中毒か 23人搬送",
+      "time": "21:18",
+      "title": "陸上の大会で23人搬送 弁当原因か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595082?source=rss",
-      "publishedAt": "2026-09-12T10:18:17.000Z",
-      "xQuery": "陸上競技大会で食中毒か 23人搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6595094?source=rss",
+      "publishedAt": "2026-09-12T12:18:00.000Z",
+      "xQuery": "陸上の大会で23人搬送 弁当原因か"
     },
     {
       "time": "19:27",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "海水浴場で2人溺れる 19歳が重体"
     },
     {
-      "time": "19:08",
-      "title": "大阪市のゴミ処理なぜひっ迫 実態",
+      "time": "21:00",
+      "title": "「時給100円」ブラックインターン",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595081?source=rss",
-      "publishedAt": "2026-09-12T10:08:35.000Z",
-      "xQuery": "大阪市のゴミ処理なぜひっ迫 実態"
+      "url": "https://news.yahoo.co.jp/pickup/6595093?source=rss",
+      "publishedAt": "2026-09-12T12:00:50.000Z",
+      "xQuery": "「時給100円」ブラックインターン"
     }
   ]
 };
