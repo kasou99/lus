@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T23:37:22.111Z",
+  "updatedAt": "2026-09-12T00:46:31.668Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-09-11T06:46:20.000Z"
       },
       {
-        "time": "17:29",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-09-11T08:29:29.000Z"
-      },
-      {
         "time": "05:00",
         "title": "京都市伏見区のクリーンセンター火災、復旧費が建設費の4倍超に 自然災害による「追い打ち」も",
         "source": "京都新聞デジタル",
@@ -57,15 +50,29 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUVVFWlVaWktOX1ZXdTZOb2FXSnpXbEdwZDdtbGM0SDRLT2txQnVQeV9JOWRldU9LTGRJS2N5eU1UYk1sQ1k0TQ?oc=5",
         "publishedAt": "2026-09-11T10:56:17.000Z"
+      },
+      {
+        "time": "15:21",
+        "title": "製造業の63%が「スキルギャップ」を変革の最大の壁と認識 - ヘイズ調査",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10MGszQnNkRTNQc1BYMjR1aXhaU080akRJMEVkMVp1MDRzb3o2SlJpdTNWNnNmeUxrbkVDUllxd1VKcGVXUHZ1SFBlLVNuVHNDMmxHUExFWXgydzkxTFpjYThjMWZSRmo3WlNJQkczTHU0c2x0cjBDLU9POA?oc=5",
+        "publishedAt": "2026-09-11T06:21:11.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "07:19",
-        "title": "北朝鮮 日本海に向け飛翔体発射",
+        "time": "08:41",
+        "title": "北の飛翔体は弾道ミサイル 韓国軍",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595000?source=rss",
-        "publishedAt": "2026-09-11T22:19:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595014?source=rss",
+        "publishedAt": "2026-09-11T23:41:35.000Z"
+      },
+      {
+        "time": "09:06",
+        "title": "北方領土の地図修正巡り 露が反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595015?source=rss",
+        "publishedAt": "2026-09-12T00:06:12.000Z"
       },
       {
         "time": "22:46",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6594953?source=rss",
         "publishedAt": "2026-09-11T05:56:52.000Z"
-      },
-      {
-        "time": "09:43",
-        "title": "米同時テロの遺族 悲しみ死ぬまで",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594925?source=rss",
-        "publishedAt": "2026-09-11T00:43:31.000Z"
       },
       {
         "time": "17:34",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-11T22:20:09.000Z"
       },
       {
-        "time": "11:22",
-        "title": "都バスであおり運転疑い 書類送検",
+        "time": "09:21",
+        "title": "工藤会と対峙 前・北九州市長語る",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594933?source=rss",
-        "publishedAt": "2026-09-11T02:22:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595017?source=rss",
+        "publishedAt": "2026-09-12T00:21:50.000Z"
       },
       {
-        "time": "20:31",
-        "title": "特定技能の給与天引き 支払い命令",
+        "time": "21:43",
+        "title": "割烹こめを代表 衛生実態巡り説明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594982?source=rss",
-        "publishedAt": "2026-09-11T11:31:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594987?source=rss",
+        "publishedAt": "2026-09-11T12:43:45.000Z"
       }
     ],
     "subsidyHeadlines": [

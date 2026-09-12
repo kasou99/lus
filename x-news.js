@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-11T23:37:22.874Z",
+  "updatedAt": "2026-09-12T00:46:32.326Z",
   "items": [
     {
-      "time": "08:10",
-      "title": "首相 裏金事件関与議員の入閣検討",
+      "time": "09:39",
+      "title": "火山情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595007?source=rss",
-      "publishedAt": "2026-09-11T23:10:28.000Z",
-      "xQuery": "首相 裏金事件関与議員の入閣検討"
+      "url": "https://news.yahoo.co.jp/pickup/6588274?source=rss",
+      "publishedAt": "2026-09-12T00:39:30.000Z",
+      "xQuery": "火山情報"
     },
     {
-      "time": "07:46",
-      "title": "消費減税 特例・経過措置で複雑化",
+      "time": "09:33",
+      "title": "九州～東海で残暑 熱中症対策を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595004?source=rss",
-      "publishedAt": "2026-09-11T22:46:39.000Z",
-      "xQuery": "消費減税 特例・経過措置で複雑化"
+      "url": "https://news.yahoo.co.jp/pickup/6595019?source=rss",
+      "publishedAt": "2026-09-12T00:33:11.000Z",
+      "xQuery": "九州～東海で残暑 熱中症対策を"
     },
     {
-      "time": "07:20",
-      "title": "亀蔵さん死亡火災 知人を書類送検",
+      "time": "09:06",
+      "title": "北方領土の地図修正巡り 露が反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594999?source=rss",
-      "publishedAt": "2026-09-11T22:20:09.000Z",
-      "xQuery": "亀蔵さん死亡火災 知人を書類送検"
+      "url": "https://news.yahoo.co.jp/pickup/6595015?source=rss",
+      "publishedAt": "2026-09-12T00:06:12.000Z",
+      "xQuery": "北方領土の地図修正巡り 露が反発"
     },
     {
-      "time": "23:27",
-      "title": "ケーキ店火災 女性オーナーが死亡",
+      "time": "09:21",
+      "title": "工藤会と対峙 前・北九州市長語る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594997?source=rss",
-      "publishedAt": "2026-09-11T14:27:47.000Z",
-      "xQuery": "ケーキ店火災 女性オーナーが死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6595017?source=rss",
+      "publishedAt": "2026-09-12T00:21:50.000Z",
+      "xQuery": "工藤会と対峙 前・北九州市長語る"
     },
     {
-      "time": "08:05",
-      "title": "ガソスタ 10年で1700社超が消滅",
+      "time": "08:26",
+      "title": "読めない看板 住民ら要望で存続へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595006?source=rss",
-      "publishedAt": "2026-09-11T23:05:07.000Z",
-      "xQuery": "ガソスタ 10年で1700社超が消滅"
+      "url": "https://news.yahoo.co.jp/pickup/6595010?source=rss",
+      "publishedAt": "2026-09-11T23:26:16.000Z",
+      "xQuery": "読めない看板 住民ら要望で存続へ"
     }
   ]
 };
