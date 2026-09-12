@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T06:26:59.383Z",
+  "updatedAt": "2026-09-12T06:47:17.133Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-12T02:06:00.000Z"
       },
       {
-        "time": "15:46",
-        "title": "スター精密、牧之原新工場で分散工程を集約",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3dnZmZHlDRmZEOFIwZ2o3ZDlJcVY4MXF3M3BKam9UMHJGd2xWRmRHUklxZ2dqLXhCTXprN25TQ3VBUF9iMmpnMw?oc=5",
-        "publishedAt": "2026-09-11T06:46:20.000Z"
-      },
-      {
         "time": "16:00",
         "title": "大阪の製造業4社がベトナムで開催される「EMIDASものづくり商談会2026",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uNUg2UGp0OWpMV3FZeHZUN09OdGZLalpPUVZvb3VPbVlDU2IxWnBhb3dmSDFQVl9mY2pMZDV2aDItdjRocmhXeFFINEI0UVB5clE2WA?oc=5",
         "publishedAt": "2026-09-11T07:00:25.000Z"
+      },
+      {
+        "time": "17:11",
+        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
+        "publishedAt": "2026-09-11T08:11:21.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "12:49",
-        "title": "千葉豪雨 冠水から通行止めまで1h",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595040?source=rss",
-        "publishedAt": "2026-09-12T03:49:49.000Z"
-      },
-      {
         "time": "10:21",
         "title": "沖縄県知事選 争点は経済や暮らし",
         "source": "Yahoo!ニュース",
@@ -175,6 +168,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595054?source=rss",
         "publishedAt": "2026-09-12T05:51:51.000Z"
+      },
+      {
+        "time": "15:43",
+        "title": "ゴールは壊滅 地道な暴追で街変化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595061?source=rss",
+        "publishedAt": "2026-09-12T06:43:18.000Z"
       },
       {
         "time": "13:11",

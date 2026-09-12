@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T06:26:59.948Z",
+  "updatedAt": "2026-09-12T06:47:17.986Z",
   "items": [
     {
       "time": "14:23",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高知の小学校教員合格 予定の倍"
     },
     {
-      "time": "14:06",
-      "title": "韓国で「半導体高校」希望者殺到",
+      "time": "13:11",
+      "title": "6歳男児不明から1週間 捜索続く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595045?source=rss",
-      "publishedAt": "2026-09-12T05:06:40.000Z",
-      "xQuery": "韓国で「半導体高校」希望者殺到"
+      "url": "https://news.yahoo.co.jp/pickup/6595043?source=rss",
+      "publishedAt": "2026-09-12T04:11:46.000Z",
+      "xQuery": "6歳男児不明から1週間 捜索続く"
     }
   ]
 };
