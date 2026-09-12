@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T01:23:11.971Z",
+  "updatedAt": "2026-09-12T01:44:43.958Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-09-11T19:40:00.000Z"
       },
       {
-        "time": "13:00",
-        "title": "ソディックの自動搬送装置が可搬質量43kgに、中型ワークの搬送に対応：工作機械",
-        "source": "MONOist",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8ta0hDajZKc2J6Z1RtVDFVczlEQkFxZmpnRFhIWEhISks2aUxxZ29MR29KX2xKcW0wUzN0TjdSdWdGUHZpUU56YzBLU1cxOGw5SEp2dGh6OHRnR2NyS29FNlpxZ0pUaDVPWk4wZVFaOA?oc=5",
-        "publishedAt": "2026-09-11T04:00:00.000Z"
-      },
-      {
         "time": "15:46",
         "title": "スター精密、牧之原新工場で分散工程を集約",
         "source": "LOGISTICS TODAY",
@@ -38,11 +31,11 @@
         "publishedAt": "2026-09-11T06:46:20.000Z"
       },
       {
-        "time": "17:29",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-09-11T08:29:29.000Z"
+        "time": "13:00",
+        "title": "ソディックの自動搬送装置が可搬質量43kgに、中型ワークの搬送に対応：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yMU5mOVFFb2NGaTdXVENyWGo2cDVNd3ktbFl6OWt1RFV5YnUyazFrdkNITlpXbkhseDA4d0lQVUJjb0c4TGFMOWUxTEQ3amtvYnhyWXNhZWE5anRSTjJNY1ptbVlsY2FM?oc=5",
+        "publishedAt": "2026-09-11T04:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -57,6 +50,13 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUVVFWlVaWktOX1ZXdTZOb2FXSnpXbEdwZDdtbGM0SDRLT2txQnVQeV9JOWRldU9LTGRJS2N5eU1UYk1sQ1k0TQ?oc=5",
         "publishedAt": "2026-09-11T10:56:17.000Z"
+      },
+      {
+        "time": "15:21",
+        "title": "製造業の63%が「スキルギャップ」を変革の最大の壁と認識 - ヘイズ調査",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10MGszQnNkRTNQc1BYMjR1aXhaU080akRJMEVkMVp1MDRzb3o2SlJpdTNWNnNmeUxrbkVDUllxd1VKcGVXUHZ1SFBlLVNuVHNDMmxHUExFWXgydzkxTFpjYThjMWZSRmo3WlNJQkczTHU0c2x0cjBDLU9POA?oc=5",
+        "publishedAt": "2026-09-11T06:21:11.000Z"
       }
     ],
     "worldHeadlines": [
