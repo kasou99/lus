@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T06:47:17.986Z",
+  "updatedAt": "2026-09-12T07:16:34.334Z",
   "items": [
     {
       "time": "14:23",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595048?source=rss",
       "publishedAt": "2026-09-12T05:23:02.000Z",
       "xQuery": "ランサム被害を復元 警察庁が開発"
+    },
+    {
+      "time": "15:06",
+      "title": "日本の新幹線輸出 印で難航の背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595056?source=rss",
+      "publishedAt": "2026-09-12T06:06:56.000Z",
+      "xQuery": "日本の新幹線輸出 印で難航の背景"
     },
     {
       "time": "14:46",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595051?source=rss",
       "publishedAt": "2026-09-12T05:34:45.000Z",
       "xQuery": "高知の小学校教員合格 予定の倍"
-    },
-    {
-      "time": "13:11",
-      "title": "6歳男児不明から1週間 捜索続く",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595043?source=rss",
-      "publishedAt": "2026-09-12T04:11:46.000Z",
-      "xQuery": "6歳男児不明から1週間 捜索続く"
     }
   ]
 };
