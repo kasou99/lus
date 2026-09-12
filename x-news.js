@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T04:19:18.647Z",
+  "updatedAt": "2026-09-12T04:40:04.987Z",
   "items": [
     {
       "time": "10:57",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "仮釈放中の性犯罪者にGPS 課題も"
     },
     {
+      "time": "12:49",
+      "title": "千葉豪雨 冠水から通行止めまで1h",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595040?source=rss",
+      "publishedAt": "2026-09-12T03:49:49.000Z",
+      "xQuery": "千葉豪雨 冠水から通行止めまで1h"
+    },
+    {
       "time": "09:59",
       "title": "イオン熊本 専門店に契約解除打診",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595042?source=rss",
       "publishedAt": "2026-09-12T04:01:35.000Z",
       "xQuery": "長岡花火の懸念 主催側再考せずか"
-    },
-    {
-      "time": "10:50",
-      "title": "サーティワン絶好調 売れる理由",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595028?source=rss",
-      "publishedAt": "2026-09-12T01:50:10.000Z",
-      "xQuery": "サーティワン絶好調 売れる理由"
     }
   ]
 };

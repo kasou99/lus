@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T04:19:17.950Z",
+  "updatedAt": "2026-09-12T04:40:04.110Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-09-11T19:40:00.000Z"
       },
       {
-        "time": "17:29",
-        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
-        "publishedAt": "2026-09-11T08:29:29.000Z"
-      },
-      {
         "time": "11:06",
         "title": "工業用ゴム製品製造の協立パッキングが特別清算 負債総額は4億1千万円 得意先からの単価値下げ要請厳しく、価格転嫁も実現せず業績が低迷 業績の低迷に歯止めがかからず、事業継続が困難に",
         "source": "topics.smt.docomo.ne.jp",
@@ -46,10 +39,17 @@
       },
       {
         "time": "05:00",
-        "title": "京都市伏見区のクリーンセンター火災、復旧費が建設費の4倍超に 自然災害による「追い打ち」も - kyoto-np.co.jp",
-        "source": "kyoto-np.co.jp",
+        "title": "京都市伏見区のクリーンセンター火災、復旧費が建設費の4倍超に 自然災害による「追い打ち」も",
+        "source": "京都新聞デジタル",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43SWZQNWl4YWhraVRrZlJCWlB1c2RTWGZqdUtxMnVSWUlfZzY5bHJMdkt1YThkU1ZlZHB0b1lPSlVOM3k5VzRtM2JBckFRVzhUQ09FakdPMHI?oc=5",
         "publishedAt": "2026-09-11T20:00:00.000Z"
+      },
+      {
+        "time": "15:46",
+        "title": "スター精密、牧之原新工場で分散工程を集約",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3dnZmZHlDRmZEOFIwZ2o3ZDlJcVY4MXF3M3BKam9UMHJGd2xWRmRHUklxZ2dqLXhCTXprN25TQ3VBUF9iMmpnMw?oc=5",
+        "publishedAt": "2026-09-11T06:46:20.000Z"
       },
       {
         "time": "15:21",
@@ -218,15 +218,15 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
