@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T09:36:42.998Z",
+  "updatedAt": "2026-09-12T10:15:07.626Z",
   "items": [
     {
-      "time": "16:11",
-      "title": "農家落胆 福井大雨でソバに大打撃",
+      "time": "17:10",
+      "title": "秋雨前線が北上 激しい雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595063?source=rss",
-      "publishedAt": "2026-09-12T07:11:37.000Z",
-      "xQuery": "農家落胆 福井大雨でソバに大打撃"
+      "url": "https://news.yahoo.co.jp/pickup/6595071?source=rss",
+      "publishedAt": "2026-09-12T08:10:29.000Z",
+      "xQuery": "秋雨前線が北上 激しい雨の恐れ"
     },
     {
       "time": "15:43",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店火災 男性は前日も来店"
     },
     {
-      "time": "16:58",
-      "title": "「VAIO T」発表 再挑戦する理由",
+      "time": "19:08",
+      "title": "実業団選手権で騒動 複数人おう吐",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595069?source=rss",
-      "publishedAt": "2026-09-12T07:58:49.000Z",
-      "xQuery": "「VAIO T」発表 再挑戦する理由"
+      "url": "https://news.yahoo.co.jp/pickup/6595080?source=rss",
+      "publishedAt": "2026-09-12T10:08:14.000Z",
+      "xQuery": "実業団選手権で騒動 複数人おう吐"
     }
   ]
 };
