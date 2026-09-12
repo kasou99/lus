@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T07:36:30.650Z",
+  "updatedAt": "2026-09-12T08:20:43.092Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "04:40",
         "title": "【機械業界の5年後大予測】ファナック、ダイフク、川崎重工、THK…設備投資拡大の追い風だけでない強さの秘訣と本命企業をトップアナリストが解説《再配信》",
-        "source": "ダイヤモンド・オンライン",
+        "source": "diamond.jp",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zdkJtcUZFQzdZZTR2RngtQjh2Mks0YTNjTDBfbVpNTm5pWkNLNEd6bWkwZUM1dUhGWEhiZ2pGdUk3QWdsdUJZcmJEYWLSAU9BVV95cUxQcGx0dnFjWW0xXzFXUlhPc1Y5cnRXbWx3ZUJfMzZRaXhKZk16N1BMSmdsSExCTnl2QUswOEpQQk5TRTJRaGJNa0ZIejlfZEY0?oc=5",
         "publishedAt": "2026-09-11T19:40:00.000Z"
       },
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-12T02:06:00.000Z"
       },
       {
-        "time": "17:11",
-        "title": "【ひと・交差点】Ｍ．Ｓ．Ｅ．の松本香織専務 ものづくりに興味持つ入り口に",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcjRzdXdvLXpkWWlXSnBKcXpwaUwtNFRNTVhnaHpUaGZKZzZReWFpX1RNLWhETmpqNWpzMGVPZE5QdFR3RkhSU1FaYnJKSGlEZWc?oc=5",
-        "publishedAt": "2026-09-11T08:11:21.000Z"
-      },
-      {
         "time": "09:59",
         "title": "イオン熊本 専門店に契約解除打診",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595021?source=rss",
         "publishedAt": "2026-09-12T00:59:18.000Z"
+      },
+      {
+        "time": "19:00",
+        "title": "ソニー生命新たに5千万円詐取判明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6594977?source=rss",
+        "publishedAt": "2026-09-11T10:00:50.000Z"
       }
     ],
     "worldHeadlines": [
@@ -75,6 +75,13 @@
         "publishedAt": "2026-09-12T00:59:39.000Z"
       },
       {
+        "time": "17:09",
+        "title": "ウ大統領 米は新たな対露制裁を",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595070?source=rss",
+        "publishedAt": "2026-09-12T08:09:40.000Z"
+      },
+      {
         "time": "10:50",
         "title": "露に抵抗 地下組織・黒い火花とは",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595015?source=rss",
         "publishedAt": "2026-09-12T00:06:12.000Z"
-      },
-      {
-        "time": "22:46",
-        "title": "フーシ派が海峡周辺掌握 原油急騰",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594994?source=rss",
-        "publishedAt": "2026-09-11T13:46:57.000Z"
       },
       {
         "time": "21:37",
@@ -119,11 +119,11 @@
         "publishedAt": "2026-09-11T10:00:50.000Z"
       },
       {
-        "time": "17:29",
-        "title": "九州の応援割「便乗値上げ」警戒",
+        "time": "16:58",
+        "title": "「VAIO T」発表 再挑戦する理由",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594968?source=rss",
-        "publishedAt": "2026-09-11T08:29:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595069?source=rss",
+        "publishedAt": "2026-09-12T07:58:49.000Z"
       },
       {
         "time": "10:50",
@@ -148,6 +148,13 @@
       }
     ],
     "localHeadlines": [
+      {
+        "time": "16:50",
+        "title": "ヘリで空撮 目隠しの内側なぜ報道",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595068?source=rss",
+        "publishedAt": "2026-09-12T07:50:40.000Z"
+      },
       {
         "time": "10:21",
         "title": "沖縄県知事選 争点は経済や暮らし",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595061?source=rss",
         "publishedAt": "2026-09-12T06:43:18.000Z"
-      },
-      {
-        "time": "07:20",
-        "title": "亀蔵さん死亡火災 知人を書類送検",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6594999?source=rss",
-        "publishedAt": "2026-09-11T22:20:09.000Z"
       }
     ],
     "subsidyHeadlines": [

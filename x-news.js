@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T07:36:31.630Z",
+  "updatedAt": "2026-09-12T08:20:43.522Z",
   "items": [
     {
-      "time": "14:23",
-      "title": "ランサム被害を復元 警察庁が開発",
+      "time": "16:11",
+      "title": "農家落胆 福井大雨でソバに大打撃",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595048?source=rss",
-      "publishedAt": "2026-09-12T05:23:02.000Z",
-      "xQuery": "ランサム被害を復元 警察庁が開発"
+      "url": "https://news.yahoo.co.jp/pickup/6595063?source=rss",
+      "publishedAt": "2026-09-12T07:11:37.000Z",
+      "xQuery": "農家落胆 福井大雨でソバに大打撃"
     },
     {
-      "time": "15:06",
-      "title": "日本の新幹線輸出 印で難航の背景",
+      "time": "16:16",
+      "title": "内閣支持率60%超 異例の高さ背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595056?source=rss",
-      "publishedAt": "2026-09-12T06:06:56.000Z",
-      "xQuery": "日本の新幹線輸出 印で難航の背景"
+      "url": "https://news.yahoo.co.jp/pickup/6595065?source=rss",
+      "publishedAt": "2026-09-12T07:16:03.000Z",
+      "xQuery": "内閣支持率60%超 異例の高さ背景"
     },
     {
       "time": "14:46",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "サウジの原油パイプラインが停止"
     },
     {
+      "time": "16:50",
+      "title": "ヘリで空撮 目隠しの内側なぜ報道",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595068?source=rss",
+      "publishedAt": "2026-09-12T07:50:40.000Z",
+      "xQuery": "ヘリで空撮 目隠しの内側なぜ報道"
+    },
+    {
       "time": "14:51",
       "title": "逮捕の少年4人 高2事件を口止めか",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595054?source=rss",
       "publishedAt": "2026-09-12T05:51:51.000Z",
       "xQuery": "逮捕の少年4人 高2事件を口止めか"
-    },
-    {
-      "time": "14:34",
-      "title": "高知の小学校教員合格 予定の倍",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595051?source=rss",
-      "publishedAt": "2026-09-12T05:34:45.000Z",
-      "xQuery": "高知の小学校教員合格 予定の倍"
     }
   ]
 };
