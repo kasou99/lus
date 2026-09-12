@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T08:20:43.522Z",
+  "updatedAt": "2026-09-12T08:40:55.912Z",
   "items": [
     {
       "time": "16:11",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣支持率60%超 異例の高さ背景"
     },
     {
-      "time": "14:46",
-      "title": "サウジの原油パイプラインが停止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595049?source=rss",
-      "publishedAt": "2026-09-12T05:46:06.000Z",
-      "xQuery": "サウジの原油パイプラインが停止"
-    },
-    {
       "time": "16:50",
       "title": "ヘリで空撮 目隠しの内側なぜ報道",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595054?source=rss",
       "publishedAt": "2026-09-12T05:51:51.000Z",
       "xQuery": "逮捕の少年4人 高2事件を口止めか"
+    },
+    {
+      "time": "15:22",
+      "title": "15km先までフェス騒音 気象影響か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595060?source=rss",
+      "publishedAt": "2026-09-12T06:22:14.000Z",
+      "xQuery": "15km先までフェス騒音 気象影響か"
     }
   ]
 };
