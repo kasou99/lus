@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T10:15:07.626Z",
+  "updatedAt": "2026-09-12T10:36:38.099Z",
   "items": [
     {
       "time": "17:10",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ゴールは壊滅 地道な暴追で街変化"
     },
     {
-      "time": "16:50",
-      "title": "ヘリで空撮 目隠しの内側なぜ報道",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595068?source=rss",
-      "publishedAt": "2026-09-12T07:50:40.000Z",
-      "xQuery": "ヘリで空撮 目隠しの内側なぜ報道"
-    },
-    {
       "time": "18:03",
       "title": "ケーキ店火災 男性は前日も来店",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店火災 男性は前日も来店"
     },
     {
-      "time": "19:08",
-      "title": "実業団選手権で騒動 複数人おう吐",
+      "time": "19:18",
+      "title": "陸上競技大会で食中毒か 23人搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595080?source=rss",
-      "publishedAt": "2026-09-12T10:08:14.000Z",
-      "xQuery": "実業団選手権で騒動 複数人おう吐"
+      "url": "https://news.yahoo.co.jp/pickup/6595082?source=rss",
+      "publishedAt": "2026-09-12T10:18:17.000Z",
+      "xQuery": "陸上競技大会で食中毒か 23人搬送"
+    },
+    {
+      "time": "19:08",
+      "title": "大阪市のゴミ処理なぜひっ迫 実態",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595081?source=rss",
+      "publishedAt": "2026-09-12T10:08:35.000Z",
+      "xQuery": "大阪市のゴミ処理なぜひっ迫 実態"
     }
   ]
 };
