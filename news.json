@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-12T10:36:37.546Z",
+  "updatedAt": "2026-09-12T11:13:23.742Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "18:25",
+        "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026",
+        "source": "au Webポータル",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTDFhLW5mbDBhdUFuNFdHNnlVeVdZX3JuaV9jSjhzc2F5aDRYXzZ3Tmg4al9feWNHU0E0dWdqbUVlRUt6bUlJNGp0XzM2ODB3ajhHM0VyYnJubV9jaENRNU5ZLW95blFaQjI3VEh3?oc=5",
+        "publishedAt": "2026-09-12T09:25:03.000Z"
+      },
       {
         "time": "06:00",
         "title": "技能五輪国際大会「全力を」/日立製作所の片野選手「ＣＮＣ旋盤」",
@@ -33,7 +40,7 @@
       {
         "time": "11:06",
         "title": "工業用ゴム製品製造の協立パッキングが特別清算 負債総額は4億1千万円 得意先からの単価値下げ要請厳しく、価格転嫁も実現せず業績が低迷 業績の低迷に歯止めがかからず、事業継続が困難に",
-        "source": "topics.smt.docomo.ne.jp",
+        "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVZKZFlDRzJvYTBzajlkOXFLS1BNeGNxeVl3NFJNbU9CYi1CSmEwTFAwVXAzYm1WcW5HaV96Zkp5OW5tQ1RudkZoY3RYaEh0VHk3LWgyLS1TZFMxYnFLWEp1VVE2d0V0R242MnpWMnRqejVyUXZPVzRxeWpwMUdpVDVJY9IBiAFBVV95cUxPV2JpUzVqeGNfakRBSlU0QTZQZ3ViV1RHV190SU1xNlpBa2lrRGkxeVVxdmY4M0haWUtVX1BxbW43OXVzYmRhakc2TkxNd3NkbDVEZUtYZW45Z01wUHVsRXRQQWlPc19hd21aSDRULUgwZnFuUDJWLUVBYnJYV09LU0RYZi0wWDZt?oc=5",
         "publishedAt": "2026-09-12T02:06:00.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595021?source=rss",
         "publishedAt": "2026-09-12T00:59:18.000Z"
-      },
-      {
-        "time": "16:58",
-        "title": "「VAIO T」発表 再挑戦する理由",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595069?source=rss",
-        "publishedAt": "2026-09-12T07:58:49.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },

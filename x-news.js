@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T10:36:38.099Z",
+  "updatedAt": "2026-09-12T11:13:24.488Z",
   "items": [
     {
       "time": "17:10",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "秋雨前線が北上 激しい雨の恐れ"
     },
     {
-      "time": "15:43",
-      "title": "ゴールは壊滅 地道な暴追で街変化",
+      "time": "17:09",
+      "title": "ウ大統領 米は新たな対露制裁を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595061?source=rss",
-      "publishedAt": "2026-09-12T06:43:18.000Z",
-      "xQuery": "ゴールは壊滅 地道な暴追で街変化"
-    },
-    {
-      "time": "18:03",
-      "title": "ケーキ店火災 男性は前日も来店",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595075?source=rss",
-      "publishedAt": "2026-09-12T09:03:43.000Z",
-      "xQuery": "ケーキ店火災 男性は前日も来店"
+      "url": "https://news.yahoo.co.jp/pickup/6595070?source=rss",
+      "publishedAt": "2026-09-12T08:09:40.000Z",
+      "xQuery": "ウ大統領 米は新たな対露制裁を"
     },
     {
       "time": "19:18",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595082?source=rss",
       "publishedAt": "2026-09-12T10:18:17.000Z",
       "xQuery": "陸上競技大会で食中毒か 23人搬送"
+    },
+    {
+      "time": "19:27",
+      "title": "海水浴場で2人溺れる 19歳が重体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595084?source=rss",
+      "publishedAt": "2026-09-12T10:27:29.000Z",
+      "xQuery": "海水浴場で2人溺れる 19歳が重体"
     },
     {
       "time": "19:08",
