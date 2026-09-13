@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T21:14:19.760Z",
+  "updatedAt": "2026-09-13T21:37:37.710Z",
   "items": [
     {
       "time": "00:10",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "極右AfDが勝利 独全土で抗議デモ"
     },
     {
-      "time": "23:08",
-      "title": "商店街で漏水 近隣店員「大打撃」",
+      "time": "06:12",
+      "title": "事故で車降りた男性 はねられ死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595195?source=rss",
-      "publishedAt": "2026-09-13T14:08:49.000Z",
-      "xQuery": "商店街で漏水 近隣店員「大打撃」"
+      "url": "https://news.yahoo.co.jp/pickup/6595202?source=rss",
+      "publishedAt": "2026-09-13T21:12:37.000Z",
+      "xQuery": "事故で車降りた男性 はねられ死亡"
     },
     {
       "time": "19:14",
