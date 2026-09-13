@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T10:20:51.139Z",
+  "updatedAt": "2026-09-13T10:38:14.703Z",
   "items": [
     {
       "time": "16:39",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車ドア開き衝突 転倒後ひかれ死亡"
     },
     {
-      "time": "17:41",
-      "title": "伐採作業中5m下の谷に転落 死亡",
+      "time": "19:14",
+      "title": "性行為したくない 夫婦で言えぬ訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595169?source=rss",
-      "publishedAt": "2026-09-13T08:41:14.000Z",
-      "xQuery": "伐採作業中5m下の谷に転落 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6595175?source=rss",
+      "publishedAt": "2026-09-13T10:14:55.000Z",
+      "xQuery": "性行為したくない 夫婦で言えぬ訳"
     },
     {
       "time": "18:27",
