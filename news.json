@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T04:40:39.960Z",
+  "updatedAt": "2026-09-13T05:16:29.250Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "18:25",
         "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026",
-        "source": "article.auone.jp",
+        "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTDFhLW5mbDBhdUFuNFdHNnlVeVdZX3JuaV9jSjhzc2F5aDRYXzZ3Tmg4al9feWNHU0E0dWdqbUVlRUt6bUlJNGp0XzM2ODB3ajhHM0VyYnJubV9jaENRNU5ZLW95blFaQjI3VEh3?oc=5",
         "publishedAt": "2026-09-12T09:25:03.000Z"
       },
@@ -89,18 +89,18 @@
         "publishedAt": "2026-09-12T05:46:06.000Z"
       },
       {
+        "time": "14:11",
+        "title": "243人乗る船が消息絶つ ジャワ海",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595145?source=rss",
+        "publishedAt": "2026-09-13T05:11:16.000Z"
+      },
+      {
         "time": "17:09",
         "title": "ウ大統領 米は新たな対露制裁を",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595070?source=rss",
         "publishedAt": "2026-09-12T08:09:40.000Z"
-      },
-      {
-        "time": "10:40",
-        "title": "北アイルランド巡り 米英に火種か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595130?source=rss",
-        "publishedAt": "2026-09-13T01:40:14.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,25 +126,25 @@
         "publishedAt": "2026-09-12T13:09:47.000Z"
       },
       {
-        "time": "21:00",
-        "title": "「時給100円」ブラックインターン",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595093?source=rss",
-        "publishedAt": "2026-09-12T12:00:50.000Z"
-      },
-      {
-        "time": "19:32",
-        "title": "MUFG 富裕層囲い込み戦略の裏側",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595083?source=rss",
-        "publishedAt": "2026-09-12T10:32:23.000Z"
-      },
-      {
         "time": "12:38",
         "title": "純ガソリン車 次々廃止される事情",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595140?source=rss",
         "publishedAt": "2026-09-13T03:38:43.000Z"
+      },
+      {
+        "time": "13:54",
+        "title": "役員が店舗掃除も ASICSの経営",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595143?source=rss",
+        "publishedAt": "2026-09-13T04:54:02.000Z"
+      },
+      {
+        "time": "13:43",
+        "title": "タッチパネル注文 利用者らの本音",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595142?source=rss",
+        "publishedAt": "2026-09-13T04:43:23.000Z"
       }
     ],
     "localHeadlines": [

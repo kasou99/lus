@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T04:40:40.866Z",
+  "updatedAt": "2026-09-13T05:16:30.355Z",
   "items": [
     {
-      "time": "09:49",
-      "title": "相次ぐ災害 無料車貸し出し需要増",
+      "time": "12:54",
+      "title": "千葉豪雨1カ月 相次ぐ大雨に疲弊",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595125?source=rss",
-      "publishedAt": "2026-09-13T00:49:52.000Z",
-      "xQuery": "相次ぐ災害 無料車貸し出し需要増"
+      "url": "https://news.yahoo.co.jp/pickup/6595139?source=rss",
+      "publishedAt": "2026-09-13T03:54:45.000Z",
+      "xQuery": "千葉豪雨1カ月 相次ぐ大雨に疲弊"
     },
     {
       "time": "10:40",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595130?source=rss",
       "publishedAt": "2026-09-13T01:40:14.000Z",
       "xQuery": "北アイルランド巡り 米英に火種か"
-    },
-    {
-      "time": "09:20",
-      "title": "警察を振り切ったバイク転倒 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595121?source=rss",
-      "publishedAt": "2026-09-13T00:20:04.000Z",
-      "xQuery": "警察を振り切ったバイク転倒 死亡"
     },
     {
       "time": "12:38",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595138?source=rss",
       "publishedAt": "2026-09-13T03:26:56.000Z",
       "xQuery": "ラスベガス地下にホームレス 実態"
+    },
+    {
+      "time": "13:54",
+      "title": "役員が店舗掃除も ASICSの経営",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595143?source=rss",
+      "publishedAt": "2026-09-13T04:54:02.000Z",
+      "xQuery": "役員が店舗掃除も ASICSの経営"
     }
   ]
 };
