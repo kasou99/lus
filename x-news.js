@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T02:25:09.496Z",
+  "updatedAt": "2026-09-13T02:43:27.657Z",
   "items": [
+    {
+      "time": "09:49",
+      "title": "相次ぐ災害 無料車貸し出し需要増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595125?source=rss",
+      "publishedAt": "2026-09-13T00:49:52.000Z",
+      "xQuery": "相次ぐ災害 無料車貸し出し需要増"
+    },
     {
       "time": "08:39",
       "title": "総務省 開示請求後に文書削除か",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595131?source=rss",
       "publishedAt": "2026-09-13T01:40:51.000Z",
       "xQuery": "トランプ氏 フーシ派が不介入要請"
-    },
-    {
-      "time": "09:09",
-      "title": "13日 九州-北陸で急な強い雨恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595117?source=rss",
-      "publishedAt": "2026-09-13T00:09:53.000Z",
-      "xQuery": "13日 九州-北陸で急な強い雨恐れ"
     },
     {
       "time": "09:20",
