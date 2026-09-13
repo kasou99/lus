@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T09:41:25.545Z",
+  "updatedAt": "2026-09-13T10:20:51.139Z",
   "items": [
     {
       "time": "16:39",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "景気拡大 企業と家計の「明暗」"
     },
     {
-      "time": "16:43",
-      "title": "ネパール災害 救助まで換気口で息",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595163?source=rss",
-      "publishedAt": "2026-09-13T07:43:01.000Z",
-      "xQuery": "ネパール災害 救助まで換気口で息"
-    },
-    {
       "time": "17:27",
       "title": "車ドア開き衝突 転倒後ひかれ死亡",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595169?source=rss",
       "publishedAt": "2026-09-13T08:41:14.000Z",
       "xQuery": "伐採作業中5m下の谷に転落 死亡"
+    },
+    {
+      "time": "18:27",
+      "title": "わが子が「ドパガキ」に? 対策は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595173?source=rss",
+      "publishedAt": "2026-09-13T09:27:17.000Z",
+      "xQuery": "わが子が「ドパガキ」に? 対策は"
     }
   ]
 };
