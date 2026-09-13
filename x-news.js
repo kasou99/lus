@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T13:37:23.364Z",
+  "updatedAt": "2026-09-13T14:15:14.467Z",
   "items": [
     {
-      "time": "20:43",
-      "title": "古謝氏当確 辺野古容認へ県政転換",
+      "time": "22:56",
+      "title": "知事選で基地重視20%経済49% 共同",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595180?source=rss",
-      "publishedAt": "2026-09-13T11:43:43.000Z",
-      "xQuery": "古謝氏当確 辺野古容認へ県政転換"
+      "url": "https://news.yahoo.co.jp/pickup/6595194?source=rss",
+      "publishedAt": "2026-09-13T13:56:18.000Z",
+      "xQuery": "知事選で基地重視20%経済49% 共同"
     },
     {
       "time": "22:12",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "極右AfDが勝利 独全土で抗議デモ"
     },
     {
-      "time": "19:14",
-      "title": "性行為したくない 夫婦で言えぬ訳",
+      "time": "23:08",
+      "title": "商店街で漏水 近隣店員「大打撃」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595175?source=rss",
-      "publishedAt": "2026-09-13T10:14:55.000Z",
-      "xQuery": "性行為したくない 夫婦で言えぬ訳"
+      "url": "https://news.yahoo.co.jp/pickup/6595195?source=rss",
+      "publishedAt": "2026-09-13T14:08:49.000Z",
+      "xQuery": "商店街で漏水 近隣店員「大打撃」"
     }
   ]
 };

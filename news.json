@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T13:37:22.450Z",
+  "updatedAt": "2026-09-13T14:15:13.294Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-09-13T01:30:00.000Z"
       },
       {
-        "time": "18:17",
+        "time": "18:55",
         "title": "誰もが暮らしやすい社会に 富山ジェンダー平等シンポ",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1cVpxMjgycERoUS1OekxUaElndnIwRy1WTDRsNzAyLXllRlRBX2NBT3JnOExRdDBBU3hLcVFiWXhwU3VfdjZjZFZUeVVJWWFSUVhDbEk5N0lLbDhCR3dES0w5WTZJUjB2X0syS0lNalBaeERZ0gF0QVVfeXFMUDVxWnEyODJwRGhRLU56TFRoSWd2cjBHLVZMNGw3MDIteWVGVEFfY0FPcmc4TFF0MEFTeEtxUWJZeHBTdV92NmNkVlR5VUlZYVJRWENsSTk3SUtsOEJHd0RLTDlZNklSMHZfSzJLSU1qUFp4RFk?oc=5",
-        "publishedAt": "2026-09-13T09:17:30.000Z"
+        "source": "sanyonews.jp",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9paTJNcmlDaUlxM2Y3R0xfMnhPcUtDbnVaSHdFMmZrRjRCaGVDSHlzODVLWlJZSVc3RlhJZUlXODBrb0xaclN0RjRyUHlVWFZHd0Y1cldEQnBFWnhWU0JhZU9jZVdnYzRZUFRON2tGenpyV3c?oc=5",
+        "publishedAt": "2026-09-13T09:55:00.000Z"
       },
       {
         "time": "01:34",
@@ -33,7 +33,7 @@
       {
         "time": "23:42",
         "title": "テレメンタリー2026「絶望の“絆” 〜検証 福岡県議会〜」",
-        "source": "WEBザテレビジョン",
+        "source": "thetv.jp",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94ay00V1l3bEJIYzV4alpXdnEtNnVLS0x0Q2p3WWNaRnZZWjJuNWNfRHdPY00yM1VpUTJqdXJuamtyUUlndlFoX2JCX3ZYLVhq?oc=5",
         "publishedAt": "2026-09-12T14:42:59.000Z"
       },
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "20:07",
-        "title": "沖縄知事選 古謝玄太氏が当選確実",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595179?source=rss",
-        "publishedAt": "2026-09-13T11:07:09.000Z"
-      },
-      {
         "time": "20:43",
         "title": "古謝氏当確 辺野古容認へ県政転換",
         "source": "Yahoo!ニュース",
@@ -163,18 +156,25 @@
         "publishedAt": "2026-09-13T11:43:43.000Z"
       },
       {
-        "time": "20:38",
-        "title": "沖縄県知事選で当確 古謝氏の略歴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595182?source=rss",
-        "publishedAt": "2026-09-13T11:38:29.000Z"
-      },
-      {
         "time": "22:12",
         "title": "落選確実の玉城氏 結果受け止める",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595190?source=rss",
         "publishedAt": "2026-09-13T13:12:06.000Z"
+      },
+      {
+        "time": "22:56",
+        "title": "知事選で基地重視20%経済49% 共同",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595194?source=rss",
+        "publishedAt": "2026-09-13T13:56:18.000Z"
+      },
+      {
+        "time": "23:08",
+        "title": "商店街で漏水 近隣店員「大打撃」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595195?source=rss",
+        "publishedAt": "2026-09-13T14:08:49.000Z"
       },
       {
         "time": "17:27",
