@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T05:37:16.108Z",
+  "updatedAt": "2026-09-13T06:31:49.880Z",
   "items": [
+    {
+      "time": "15:00",
+      "title": "中部電力 社長と会長が辞任見通し",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595151?source=rss",
+      "publishedAt": "2026-09-13T06:00:50.000Z",
+      "xQuery": "中部電力 社長と会長が辞任見通し"
+    },
     {
       "time": "12:54",
       "title": "千葉豪雨1カ月 相次ぐ大雨に疲弊",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "北アイルランド巡り 米英に火種か"
     },
     {
-      "time": "14:11",
-      "title": "243人乗る船が消息絶つ ジャワ海",
+      "time": "15:19",
+      "title": "ジャワ海で船遭難か 120人を捜索",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595145?source=rss",
-      "publishedAt": "2026-09-13T05:11:16.000Z",
-      "xQuery": "243人乗る船が消息絶つ ジャワ海"
+      "url": "https://news.yahoo.co.jp/pickup/6595153?source=rss",
+      "publishedAt": "2026-09-13T06:19:27.000Z",
+      "xQuery": "ジャワ海で船遭難か 120人を捜索"
     },
     {
       "time": "12:38",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595140?source=rss",
       "publishedAt": "2026-09-13T03:38:43.000Z",
       "xQuery": "純ガソリン車 次々廃止される事情"
-    },
-    {
-      "time": "13:54",
-      "title": "役員が店舗掃除も ASICSの経営",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595143?source=rss",
-      "publishedAt": "2026-09-13T04:54:02.000Z",
-      "xQuery": "役員が店舗掃除も ASICSの経営"
     }
   ]
 };
