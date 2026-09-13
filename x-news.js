@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T12:23:43.130Z",
+  "updatedAt": "2026-09-13T12:42:27.861Z",
   "items": [
     {
       "time": "20:43",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日銀の利上げ公算大 家計への影響"
     },
     {
-      "time": "17:27",
-      "title": "車ドア開き衝突 転倒後ひかれ死亡",
+      "time": "21:23",
+      "title": "14日関東暑さ戻る 35℃迫る予想も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595167?source=rss",
-      "publishedAt": "2026-09-13T08:27:24.000Z",
-      "xQuery": "車ドア開き衝突 転倒後ひかれ死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6595185?source=rss",
+      "publishedAt": "2026-09-13T12:23:44.000Z",
+      "xQuery": "14日関東暑さ戻る 35℃迫る予想も"
     },
     {
       "time": "17:56",
