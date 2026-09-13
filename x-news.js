@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T11:37:26.612Z",
+  "updatedAt": "2026-09-13T12:23:43.130Z",
   "items": [
     {
-      "time": "20:07",
-      "title": "沖縄知事選 古謝玄太氏が当選確実",
+      "time": "20:43",
+      "title": "古謝氏当確 辺野古容認へ県政転換",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595179?source=rss",
-      "publishedAt": "2026-09-13T11:07:09.000Z",
-      "xQuery": "沖縄知事選 古謝玄太氏が当選確実"
+      "url": "https://news.yahoo.co.jp/pickup/6595180?source=rss",
+      "publishedAt": "2026-09-13T11:43:43.000Z",
+      "xQuery": "古謝氏当確 辺野古容認へ県政転換"
     },
     {
-      "time": "17:41",
-      "title": "景気拡大 企業と家計の「明暗」",
+      "time": "20:38",
+      "title": "沖縄県知事選で当確 古謝氏の略歴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595168?source=rss",
-      "publishedAt": "2026-09-13T08:41:52.000Z",
-      "xQuery": "景気拡大 企業と家計の「明暗」"
+      "url": "https://news.yahoo.co.jp/pickup/6595182?source=rss",
+      "publishedAt": "2026-09-13T11:38:29.000Z",
+      "xQuery": "沖縄県知事選で当確 古謝氏の略歴"
+    },
+    {
+      "time": "20:12",
+      "title": "日銀の利上げ公算大 家計への影響",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595177?source=rss",
+      "publishedAt": "2026-09-13T11:12:49.000Z",
+      "xQuery": "日銀の利上げ公算大 家計への影響"
     },
     {
       "time": "17:27",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車ドア開き衝突 転倒後ひかれ死亡"
     },
     {
-      "time": "19:14",
-      "title": "性行為したくない 夫婦で言えぬ訳",
+      "time": "17:56",
+      "title": "オープンAIのCEO 年内IPOを否定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595175?source=rss",
-      "publishedAt": "2026-09-13T10:14:55.000Z",
-      "xQuery": "性行為したくない 夫婦で言えぬ訳"
-    },
-    {
-      "time": "18:27",
-      "title": "わが子が「ドパガキ」に? 対策は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595173?source=rss",
-      "publishedAt": "2026-09-13T09:27:17.000Z",
-      "xQuery": "わが子が「ドパガキ」に? 対策は"
+      "url": "https://news.yahoo.co.jp/pickup/6595170?source=rss",
+      "publishedAt": "2026-09-13T08:56:29.000Z",
+      "xQuery": "オープンAIのCEO 年内IPOを否定"
     }
   ]
 };

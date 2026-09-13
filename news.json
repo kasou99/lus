@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T11:37:25.869Z",
+  "updatedAt": "2026-09-13T12:23:42.283Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "10:30",
         "title": "アブソリュート産業用エンコーダの世界市場（2026年～2032年）、市場規模（シングルターン、マルチターン）・分析レポートを発表",
-        "source": "Newscast.jp",
+        "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81NERTU1otQTl5eUdBN19qeW80UlFiSW9PaU9uUEZ3ay1VS3pMMHg5eTh3NEV1Um1YSDhMYWtTYjFONjNOeE9xRUtNTHNNeTg?oc=5",
         "publishedAt": "2026-09-13T01:30:00.000Z"
       },
@@ -20,7 +20,7 @@
         "time": "18:17",
         "title": "誰もが暮らしやすい社会に 富山ジェンダー平等シンポ",
         "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55Ny1mblgzVjF5aEV5VUZ1NzdmcktDTVk3emlRNmV6SmxTY0RGTlVkemphdW1HaGlsV29BNHZIV1YzeWRteUxhRVU4YVQ4YTVxdnVGU0d4UkRCbHVVajNVZlZVMkRmc3JlVmhqSHZWONIBdEFVX3lxTFA1cVpxMjgycERoUS1OekxUaElndnIwRy1WTDRsNzAyLXllRlRBX2NBT3JnOExRdDBBU3hLcVFiWXhwU3VfdjZjZFZUeVVJWWFSUVhDbEk5N0lLbDhCR3dES0w5WTZJUjB2X0syS0lNalBaeERZ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1cVpxMjgycERoUS1OekxUaElndnIwRy1WTDRsNzAyLXllRlRBX2NBT3JnOExRdDBBU3hLcVFiWXhwU3VfdjZjZFZUeVVJWWFSUVhDbEk5N0lLbDhCR3dES0w5WTZJUjB2X0syS0lNalBaeERZ0gF0QVVfeXFMUDVxWnEyODJwRGhRLU56TFRoSWd2cjBHLVZMNGw3MDIteWVGVEFfY0FPcmc4TFF0MEFTeEtxUWJZeHBTdV92NmNkVlR5VUlZYVJRWENsSTk3SUtsOEJHd0RLTDlZNklSMHZfSzJLSU1qUFp4RFk?oc=5",
         "publishedAt": "2026-09-13T09:17:30.000Z"
       },
       {
@@ -156,18 +156,25 @@
         "publishedAt": "2026-09-13T11:07:09.000Z"
       },
       {
+        "time": "20:43",
+        "title": "古謝氏当確 辺野古容認へ県政転換",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595180?source=rss",
+        "publishedAt": "2026-09-13T11:43:43.000Z"
+      },
+      {
+        "time": "20:38",
+        "title": "沖縄県知事選で当確 古謝氏の略歴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595182?source=rss",
+        "publishedAt": "2026-09-13T11:38:29.000Z"
+      },
+      {
         "time": "17:27",
         "title": "車ドア開き衝突 転倒後ひかれ死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595167?source=rss",
         "publishedAt": "2026-09-13T08:27:24.000Z"
-      },
-      {
-        "time": "16:22",
-        "title": "水泳大会中に70代が意識不明 静岡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595160?source=rss",
-        "publishedAt": "2026-09-13T07:22:47.000Z"
       },
       {
         "time": "17:41",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595154?source=rss",
         "publishedAt": "2026-09-13T06:38:52.000Z"
-      },
-      {
-        "time": "09:20",
-        "title": "警察を振り切ったバイク転倒 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595121?source=rss",
-        "publishedAt": "2026-09-13T00:20:04.000Z"
       }
     ],
     "subsidyHeadlines": [
