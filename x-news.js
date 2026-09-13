@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T08:41:15.810Z",
+  "updatedAt": "2026-09-13T09:41:25.545Z",
   "items": [
     {
       "time": "16:39",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "14-15日 北陸と東北は大雨の恐れ"
     },
     {
-      "time": "15:24",
-      "title": "フーシ派 紅海入口要衝を「支配」",
+      "time": "17:41",
+      "title": "景気拡大 企業と家計の「明暗」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595152?source=rss",
-      "publishedAt": "2026-09-13T06:24:48.000Z",
-      "xQuery": "フーシ派 紅海入口要衝を「支配」"
+      "url": "https://news.yahoo.co.jp/pickup/6595168?source=rss",
+      "publishedAt": "2026-09-13T08:41:52.000Z",
+      "xQuery": "景気拡大 企業と家計の「明暗」"
     },
     {
       "time": "16:43",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車ドア開き衝突 転倒後ひかれ死亡"
     },
     {
-      "time": "15:38",
-      "title": "作業中に配送品の下敷き 男性死亡",
+      "time": "17:41",
+      "title": "伐採作業中5m下の谷に転落 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595154?source=rss",
-      "publishedAt": "2026-09-13T06:38:52.000Z",
-      "xQuery": "作業中に配送品の下敷き 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6595169?source=rss",
+      "publishedAt": "2026-09-13T08:41:14.000Z",
+      "xQuery": "伐採作業中5m下の谷に転落 死亡"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T08:41:14.761Z",
+  "updatedAt": "2026-09-13T09:41:24.342Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,16 +12,16 @@
       {
         "time": "10:30",
         "title": "アブソリュート産業用エンコーダの世界市場（2026年～2032年）、市場規模（シングルターン、マルチターン）・分析レポートを発表",
-        "source": "Newscast.jp",
+        "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81NERTU1otQTl5eUdBN19qeW80UlFiSW9PaU9uUEZ3ay1VS3pMMHg5eTh3NEV1Um1YSDhMYWtTYjFONjNOeE9xRUtNTHNNeTg?oc=5",
         "publishedAt": "2026-09-13T01:30:00.000Z"
       },
       {
-        "time": "18:25",
-        "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTDFhLW5mbDBhdUFuNFdHNnlVeVdZX3JuaV9jSjhzc2F5aDRYXzZ3Tmg4al9feWNHU0E0dWdqbUVlRUt6bUlJNGp0XzM2ODB3ajhHM0VyYnJubV9jaENRNU5ZLW95blFaQjI3VEh3?oc=5",
-        "publishedAt": "2026-09-12T09:25:03.000Z"
+        "time": "18:17",
+        "title": "誰もが暮らしやすい社会に 富山ジェンダー平等シンポ",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55Ny1mblgzVjF5aEV5VUZ1NzdmcktDTVk3emlRNmV6SmxTY0RGTlVkemphdW1HaGlsV29BNHZIV1YzeWRteUxhRVU4YVQ4YTVxdnVGU0d4UkRCbHVVajNVZlZVMkRmc3JlVmhqSHZWONIBdEFVX3lxTFA1cVpxMjgycERoUS1OekxUaElndnIwRy1WTDRsNzAyLXllRlRBX2NBT3JnOExRdDBBU3hLcVFiWXhwU3VfdjZjZFZUeVVJWWFSUVhDbEk5N0lLbDhCR3dES0w5WTZJUjB2X0syS0lNalBaeERZ?oc=5",
+        "publishedAt": "2026-09-13T09:17:30.000Z"
       },
       {
         "time": "01:34",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-13T06:00:50.000Z"
       },
       {
-        "time": "09:49",
-        "title": "相次ぐ災害 無料車貸し出し需要増",
+        "time": "17:56",
+        "title": "オープンAIのCEO 年内IPOを否定",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595125?source=rss",
-        "publishedAt": "2026-09-13T00:49:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595170?source=rss",
+        "publishedAt": "2026-09-13T08:56:29.000Z"
       },
       {
-        "time": "22:09",
-        "title": "米利上げ予想高まる インフレ続く",
+        "time": "17:41",
+        "title": "景気拡大 企業と家計の「明暗」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595097?source=rss",
-        "publishedAt": "2026-09-12T13:09:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595168?source=rss",
+        "publishedAt": "2026-09-13T08:41:52.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,18 +112,18 @@
         "publishedAt": "2026-09-13T06:00:50.000Z"
       },
       {
-        "time": "09:49",
-        "title": "相次ぐ災害 無料車貸し出し需要増",
+        "time": "17:56",
+        "title": "オープンAIのCEO 年内IPOを否定",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595125?source=rss",
-        "publishedAt": "2026-09-13T00:49:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595170?source=rss",
+        "publishedAt": "2026-09-13T08:56:29.000Z"
       },
       {
-        "time": "22:09",
-        "title": "米利上げ予想高まる インフレ続く",
+        "time": "17:41",
+        "title": "景気拡大 企業と家計の「明暗」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595097?source=rss",
-        "publishedAt": "2026-09-12T13:09:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595168?source=rss",
+        "publishedAt": "2026-09-13T08:41:52.000Z"
       },
       {
         "time": "12:38",
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "12:54",
-        "title": "千葉豪雨1カ月 相次ぐ大雨に疲弊",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595139?source=rss",
-        "publishedAt": "2026-09-13T03:54:45.000Z"
-      },
-      {
         "time": "17:27",
         "title": "車ドア開き衝突 転倒後ひかれ死亡",
         "source": "Yahoo!ニュース",
@@ -170,6 +163,13 @@
         "publishedAt": "2026-09-13T07:22:47.000Z"
       },
       {
+        "time": "17:41",
+        "title": "伐採作業中5m下の谷に転落 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595169?source=rss",
+        "publishedAt": "2026-09-13T08:41:14.000Z"
+      },
+      {
         "time": "15:38",
         "title": "作業中に配送品の下敷き 男性死亡",
         "source": "Yahoo!ニュース",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-13T06:38:52.000Z"
       },
       {
-        "time": "07:44",
-        "title": "車にはねられ約7m下に転落 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595107?source=rss",
-        "publishedAt": "2026-09-12T22:44:41.000Z"
-      },
-      {
         "time": "09:20",
         "title": "警察を振り切ったバイク転倒 死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595121?source=rss",
         "publishedAt": "2026-09-13T00:20:04.000Z"
+      },
+      {
+        "time": "07:22",
+        "title": "富士山 閉山後でも海外の団体客",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595103?source=rss",
+        "publishedAt": "2026-09-12T22:22:41.000Z"
       }
     ],
     "subsidyHeadlines": [
