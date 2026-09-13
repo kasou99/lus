@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T15:14:31.102Z",
+  "updatedAt": "2026-09-13T15:36:56.593Z",
   "items": [
     {
-      "time": "22:56",
-      "title": "知事選で基地重視20%経済49% 共同",
+      "time": "00:10",
+      "title": "古謝氏当選 辺野古容認へ県政転換",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595194?source=rss",
-      "publishedAt": "2026-09-13T13:56:18.000Z",
-      "xQuery": "知事選で基地重視20%経済49% 共同"
+      "url": "https://news.yahoo.co.jp/pickup/6595199?source=rss",
+      "publishedAt": "2026-09-13T15:10:35.000Z",
+      "xQuery": "古謝氏当選 辺野古容認へ県政転換"
     },
     {
       "time": "23:40",
