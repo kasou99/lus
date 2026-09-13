@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T08:22:19.420Z",
+  "updatedAt": "2026-09-13T08:41:14.761Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-09-13T03:54:45.000Z"
       },
       {
+        "time": "17:27",
+        "title": "車ドア開き衝突 転倒後ひかれ死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595167?source=rss",
+        "publishedAt": "2026-09-13T08:27:24.000Z"
+      },
+      {
         "time": "16:22",
         "title": "水泳大会中に70代が意識不明 静岡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595121?source=rss",
         "publishedAt": "2026-09-13T00:20:04.000Z"
-      },
-      {
-        "time": "07:22",
-        "title": "富士山 閉山後でも海外の団体客",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595103?source=rss",
-        "publishedAt": "2026-09-12T22:22:41.000Z"
       }
     ],
     "subsidyHeadlines": [

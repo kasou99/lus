@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T08:22:20.176Z",
+  "updatedAt": "2026-09-13T08:41:15.810Z",
   "items": [
     {
       "time": "16:39",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "フーシ派 紅海入口要衝を「支配」"
     },
     {
+      "time": "16:43",
+      "title": "ネパール災害 救助まで換気口で息",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595163?source=rss",
+      "publishedAt": "2026-09-13T07:43:01.000Z",
+      "xQuery": "ネパール災害 救助まで換気口で息"
+    },
+    {
+      "time": "17:27",
+      "title": "車ドア開き衝突 転倒後ひかれ死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595167?source=rss",
+      "publishedAt": "2026-09-13T08:27:24.000Z",
+      "xQuery": "車ドア開き衝突 転倒後ひかれ死亡"
+    },
+    {
       "time": "15:38",
       "title": "作業中に配送品の下敷き 男性死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595154?source=rss",
       "publishedAt": "2026-09-13T06:38:52.000Z",
       "xQuery": "作業中に配送品の下敷き 男性死亡"
-    },
-    {
-      "time": "16:22",
-      "title": "水泳大会中に70代が意識不明 静岡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595160?source=rss",
-      "publishedAt": "2026-09-13T07:22:47.000Z",
-      "xQuery": "水泳大会中に70代が意識不明 静岡"
-    },
-    {
-      "time": "14:27",
-      "title": "青潮発生 福井県の湖で魚が大量死",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595147?source=rss",
-      "publishedAt": "2026-09-13T05:27:36.000Z",
-      "xQuery": "青潮発生 福井県の湖で魚が大量死"
     }
   ]
 };
