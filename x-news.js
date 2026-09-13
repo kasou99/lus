@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T06:31:49.880Z",
+  "updatedAt": "2026-09-13T07:17:27.351Z",
   "items": [
     {
       "time": "15:00",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595151?source=rss",
       "publishedAt": "2026-09-13T06:00:50.000Z",
       "xQuery": "中部電力 社長と会長が辞任見通し"
-    },
-    {
-      "time": "12:54",
-      "title": "千葉豪雨1カ月 相次ぐ大雨に疲弊",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595139?source=rss",
-      "publishedAt": "2026-09-13T03:54:45.000Z",
-      "xQuery": "千葉豪雨1カ月 相次ぐ大雨に疲弊"
     },
     {
       "time": "10:40",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595153?source=rss",
       "publishedAt": "2026-09-13T06:19:27.000Z",
       "xQuery": "ジャワ海で船遭難か 120人を捜索"
+    },
+    {
+      "time": "15:38",
+      "title": "作業中に配送品の下敷き 男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595154?source=rss",
+      "publishedAt": "2026-09-13T06:38:52.000Z",
+      "xQuery": "作業中に配送品の下敷き 男性死亡"
     },
     {
       "time": "12:38",

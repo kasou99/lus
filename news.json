@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T06:31:49.172Z",
+  "updatedAt": "2026-09-13T07:17:26.083Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,18 +163,11 @@
         "publishedAt": "2026-09-12T14:33:23.000Z"
       },
       {
-        "time": "14:51",
-        "title": "逮捕の少年4人 高2事件を口止めか",
+        "time": "15:38",
+        "title": "作業中に配送品の下敷き 男性死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595054?source=rss",
-        "publishedAt": "2026-09-12T05:51:51.000Z"
-      },
-      {
-        "time": "18:03",
-        "title": "ケーキ店火災 男性は前日も来店",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595075?source=rss",
-        "publishedAt": "2026-09-12T09:03:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595154?source=rss",
+        "publishedAt": "2026-09-13T06:38:52.000Z"
       },
       {
         "time": "07:44",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595121?source=rss",
         "publishedAt": "2026-09-13T00:20:04.000Z"
+      },
+      {
+        "time": "07:22",
+        "title": "富士山 閉山後でも海外の団体客",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595103?source=rss",
+        "publishedAt": "2026-09-12T22:22:41.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
