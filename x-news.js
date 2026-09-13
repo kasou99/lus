@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T22:36:36.102Z",
+  "updatedAt": "2026-09-13T23:14:24.063Z",
   "items": [
     {
-      "time": "00:10",
-      "title": "古謝氏当選 辺野古容認へ県政転換",
+      "time": "07:52",
+      "title": "沖縄知事選 古謝氏が過去最多得票",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595199?source=rss",
-      "publishedAt": "2026-09-13T15:10:35.000Z",
-      "xQuery": "古謝氏当選 辺野古容認へ県政転換"
-    },
-    {
-      "time": "23:40",
-      "title": "玉城デニー氏 結果受け止める",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595198?source=rss",
-      "publishedAt": "2026-09-13T14:40:56.000Z",
-      "xQuery": "玉城デニー氏 結果受け止める"
+      "url": "https://news.yahoo.co.jp/pickup/6595213?source=rss",
+      "publishedAt": "2026-09-13T22:52:30.000Z",
+      "xQuery": "沖縄知事選 古謝氏が過去最多得票"
     },
     {
       "time": "07:16",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595202?source=rss",
       "publishedAt": "2026-09-13T21:12:37.000Z",
       "xQuery": "事故で車降りた男性 はねられ死亡"
+    },
+    {
+      "time": "07:51",
+      "title": "元裁判官「説諭率100%」のわけ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595212?source=rss",
+      "publishedAt": "2026-09-13T22:51:20.000Z",
+      "xQuery": "元裁判官「説諭率100%」のわけ"
     }
   ]
 };
