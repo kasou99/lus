@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T14:36:41.278Z",
+  "updatedAt": "2026-09-13T15:14:31.102Z",
   "items": [
     {
       "time": "22:56",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "知事選で基地重視20%経済49% 共同"
     },
     {
-      "time": "22:12",
-      "title": "落選確実の玉城氏 結果受け止める",
+      "time": "23:40",
+      "title": "玉城デニー氏 結果受け止める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595190?source=rss",
-      "publishedAt": "2026-09-13T13:12:06.000Z",
-      "xQuery": "落選確実の玉城氏 結果受け止める"
-    },
-    {
-      "time": "20:12",
-      "title": "日銀の利上げ公算大 家計への影響",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595177?source=rss",
-      "publishedAt": "2026-09-13T11:12:49.000Z",
-      "xQuery": "日銀の利上げ公算大 家計への影響"
+      "url": "https://news.yahoo.co.jp/pickup/6595198?source=rss",
+      "publishedAt": "2026-09-13T14:40:56.000Z",
+      "xQuery": "玉城デニー氏 結果受け止める"
     },
     {
       "time": "17:16",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595195?source=rss",
       "publishedAt": "2026-09-13T14:08:49.000Z",
       "xQuery": "商店街で漏水 近隣店員「大打撃」"
+    },
+    {
+      "time": "19:14",
+      "title": "性行為したくない 夫婦で言えぬ訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595175?source=rss",
+      "publishedAt": "2026-09-13T10:14:55.000Z",
+      "xQuery": "性行為したくない 夫婦で言えぬ訳"
     }
   ]
 };
