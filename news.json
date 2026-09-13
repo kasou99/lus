@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T00:54:14.959Z",
+  "updatedAt": "2026-09-13T01:30:56.858Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9taWxfM3Qyemswa0l2UVQ5ODdpZDRKRVp1czRMRFBIRWgzYlVIbDlXbDlabE9vbmxpRlYyLVlpTWZXQzNkYktia1NWeVJlQWZ3ZGRTSFdoTFlSUWEwd0tF?oc=5",
         "publishedAt": "2026-09-12T16:34:27.000Z"
-      },
-      {
-        "time": "10:03",
-        "title": "内海造船、造船能力増強に111億円投資",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wUVVFWlVaWktOX1ZXdTZOb2FXSnpXbEdwZDdtbGM0SDRLT2txQnVQeV9JOWRldU9LTGRJS2N5eU1UYk1sQ1k0TQ?oc=5",
-        "publishedAt": "2026-09-12T01:03:18.000Z"
       },
       {
         "time": "11:03",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595097?source=rss",
         "publishedAt": "2026-09-12T13:09:47.000Z"
+      },
+      {
+        "time": "21:00",
+        "title": "「時給100円」ブラックインターン",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595093?source=rss",
+        "publishedAt": "2026-09-12T12:00:50.000Z"
       }
     ],
     "worldHeadlines": [

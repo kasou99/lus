@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T00:54:15.993Z",
+  "updatedAt": "2026-09-13T01:30:57.810Z",
   "items": [
     {
-      "time": "08:38",
-      "title": "アンダーパス冠水恐れ 148自治体",
+      "time": "08:39",
+      "title": "総務省 開示請求後に文書削除か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595114?source=rss",
-      "publishedAt": "2026-09-12T23:38:42.000Z",
-      "xQuery": "アンダーパス冠水恐れ 148自治体"
+      "url": "https://news.yahoo.co.jp/pickup/6595115?source=rss",
+      "publishedAt": "2026-09-12T23:39:52.000Z",
+      "xQuery": "総務省 開示請求後に文書削除か"
     },
     {
       "time": "09:09",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "警察を振り切ったバイク転倒 死亡"
     },
     {
-      "time": "07:44",
-      "title": "車にはねられ約7m下に転落 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595107?source=rss",
-      "publishedAt": "2026-09-12T22:44:41.000Z",
-      "xQuery": "車にはねられ約7m下に転落 死亡"
-    },
-    {
       "time": "08:13",
       "title": "赤信号渡る3歳を小2発見 母と保護",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595112?source=rss",
       "publishedAt": "2026-09-12T23:13:29.000Z",
       "xQuery": "赤信号渡る3歳を小2発見 母と保護"
+    },
+    {
+      "time": "09:52",
+      "title": "支持広げる「横長バッグ」魅力は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595126?source=rss",
+      "publishedAt": "2026-09-13T00:52:44.000Z",
+      "xQuery": "支持広げる「横長バッグ」魅力は"
     }
   ]
 };
