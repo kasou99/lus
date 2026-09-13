@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T03:21:40.733Z",
+  "updatedAt": "2026-09-13T03:42:34.126Z",
   "items": [
     {
       "time": "09:49",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595125?source=rss",
       "publishedAt": "2026-09-13T00:49:52.000Z",
       "xQuery": "相次ぐ災害 無料車貸し出し需要増"
-    },
-    {
-      "time": "08:39",
-      "title": "総務省 開示請求後に文書削除か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595115?source=rss",
-      "publishedAt": "2026-09-12T23:39:52.000Z",
-      "xQuery": "総務省 開示請求後に文書削除か"
     },
     {
       "time": "10:40",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "警察を振り切ったバイク転倒 死亡"
     },
     {
-      "time": "09:52",
-      "title": "支持広げる「横長バッグ」魅力は",
+      "time": "12:38",
+      "title": "純ガソリン車 次々廃止される事情",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595126?source=rss",
-      "publishedAt": "2026-09-13T00:52:44.000Z",
-      "xQuery": "支持広げる「横長バッグ」魅力は"
+      "url": "https://news.yahoo.co.jp/pickup/6595140?source=rss",
+      "publishedAt": "2026-09-13T03:38:43.000Z",
+      "xQuery": "純ガソリン車 次々廃止される事情"
+    },
+    {
+      "time": "12:26",
+      "title": "ラスベガス地下にホームレス 実態",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595138?source=rss",
+      "publishedAt": "2026-09-13T03:26:56.000Z",
+      "xQuery": "ラスベガス地下にホームレス 実態"
     }
   ]
 };
