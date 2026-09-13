@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T01:30:57.810Z",
+  "updatedAt": "2026-09-13T02:25:09.496Z",
   "items": [
     {
       "time": "08:39",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595115?source=rss",
       "publishedAt": "2026-09-12T23:39:52.000Z",
       "xQuery": "総務省 開示請求後に文書削除か"
+    },
+    {
+      "time": "10:40",
+      "title": "トランプ氏 フーシ派が不介入要請",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595131?source=rss",
+      "publishedAt": "2026-09-13T01:40:51.000Z",
+      "xQuery": "トランプ氏 フーシ派が不介入要請"
     },
     {
       "time": "09:09",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595121?source=rss",
       "publishedAt": "2026-09-13T00:20:04.000Z",
       "xQuery": "警察を振り切ったバイク転倒 死亡"
-    },
-    {
-      "time": "08:13",
-      "title": "赤信号渡る3歳を小2発見 母と保護",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595112?source=rss",
-      "publishedAt": "2026-09-12T23:13:29.000Z",
-      "xQuery": "赤信号渡る3歳を小2発見 母と保護"
     },
     {
       "time": "09:52",

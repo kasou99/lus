@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-13T01:30:56.858Z",
+  "updatedAt": "2026-09-13T02:25:08.537Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "10:30",
+        "title": "アブソリュート産業用エンコーダの世界市場（2026年～2032年）、市場規模（シングルターン、マルチターン）・分析レポートを発表",
+        "source": "Newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81NERTU1otQTl5eUdBN19qeW80UlFiSW9PaU9uUEZ3ay1VS3pMMHg5eTh3NEV1Um1YSDhMYWtTYjFONjNOeE9xRUtNTHNNeTg?oc=5",
+        "publishedAt": "2026-09-13T01:30:00.000Z"
+      },
       {
         "time": "18:25",
         "title": "ジェイテクト、最新マシニングセンタや研削盤など7製品を出展へ…米IMTS2026",
@@ -15,13 +22,6 @@
         "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9taWxfM3Qyemswa0l2UVQ5ODdpZDRKRVp1czRMRFBIRWgzYlVIbDlXbDlabE9vbmxpRlYyLVlpTWZXQzNkYktia1NWeVJlQWZ3ZGRTSFdoTFlSUWEwd0tF?oc=5",
         "publishedAt": "2026-09-12T16:34:27.000Z"
-      },
-      {
-        "time": "11:03",
-        "title": "工業用ゴム製品製造の協立パッキングが特別清算 負債総額は4億1千万円 得意先からの単価値下げ要請厳しく、価格転嫁も実現せず業績が低迷 業績の低迷に歯止めがかからず、事業継続が困難に｜埼玉新聞｜埼玉の最新ニュース・スポーツ・地域の話題",
-        "source": "埼玉新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sVkpnUHp5ekhub1c5eGRmdk84WkVfeno0bHdTUkpiOUhaYjlHRXZRMUhpMEVfbGpYNUNZZXFtQ05xRk00VjJoZDFrWUctOE5OX2ZXcmliaF9XZmhjbGdYTFdqQmVWQ2M4VDZaSFJMaEFWVU0?oc=5",
-        "publishedAt": "2026-09-12T02:03:00.000Z"
       },
       {
         "time": "23:42",
@@ -75,6 +75,13 @@
         "publishedAt": "2026-09-12T12:24:57.000Z"
       },
       {
+        "time": "10:40",
+        "title": "トランプ氏 フーシ派が不介入要請",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595131?source=rss",
+        "publishedAt": "2026-09-13T01:40:51.000Z"
+      },
+      {
         "time": "14:46",
         "title": "サウジの原油パイプラインが停止",
         "source": "Yahoo!ニュース",
@@ -89,18 +96,11 @@
         "publishedAt": "2026-09-12T08:09:40.000Z"
       },
       {
-        "time": "10:50",
-        "title": "露に抵抗 地下組織・黒い火花とは",
+        "time": "10:40",
+        "title": "北アイルランド巡り 米英に火種か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595027?source=rss",
-        "publishedAt": "2026-09-12T01:50:16.000Z"
-      },
-      {
-        "time": "09:06",
-        "title": "北方領土の地図修正巡り 露が反発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595015?source=rss",
-        "publishedAt": "2026-09-12T00:06:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595130?source=rss",
+        "publishedAt": "2026-09-13T01:40:14.000Z"
       }
     ],
     "economyHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
