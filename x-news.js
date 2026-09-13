@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T03:42:34.126Z",
+  "updatedAt": "2026-09-13T04:20:05.983Z",
   "items": [
     {
       "time": "09:49",
@@ -11,11 +11,11 @@ window.LUS_X_NEWS = {
     },
     {
       "time": "10:40",
-      "title": "トランプ氏 フーシ派が不介入要請",
+      "title": "北アイルランド巡り 米英に火種か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595131?source=rss",
-      "publishedAt": "2026-09-13T01:40:51.000Z",
-      "xQuery": "トランプ氏 フーシ派が不介入要請"
+      "url": "https://news.yahoo.co.jp/pickup/6595130?source=rss",
+      "publishedAt": "2026-09-13T01:40:14.000Z",
+      "xQuery": "北アイルランド巡り 米英に火種か"
     },
     {
       "time": "09:20",
