@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T23:14:24.063Z",
+  "updatedAt": "2026-09-13T23:37:00.379Z",
   "items": [
     {
       "time": "07:52",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "維新・中司幹事長の入閣調整"
     },
     {
+      "time": "07:58",
+      "title": "米大統領 軽油高騰巡りウに要求",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595214?source=rss",
+      "publishedAt": "2026-09-13T22:58:51.000Z",
+      "xQuery": "米大統領 軽油高騰巡りウに要求"
+    },
+    {
       "time": "07:16",
       "title": "ケーキ店主の死因 熱傷性ショック",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595202?source=rss",
       "publishedAt": "2026-09-13T21:12:37.000Z",
       "xQuery": "事故で車降りた男性 はねられ死亡"
-    },
-    {
-      "time": "07:51",
-      "title": "元裁判官「説諭率100%」のわけ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595212?source=rss",
-      "publishedAt": "2026-09-13T22:51:20.000Z",
-      "xQuery": "元裁判官「説諭率100%」のわけ"
     }
   ]
 };
