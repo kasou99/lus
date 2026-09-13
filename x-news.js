@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T10:38:14.703Z",
+  "updatedAt": "2026-09-13T11:13:23.979Z",
   "items": [
     {
-      "time": "16:39",
-      "title": "14-15日 北陸と東北は大雨の恐れ",
+      "time": "20:07",
+      "title": "沖縄知事選 古謝玄太氏が当選確実",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595161?source=rss",
-      "publishedAt": "2026-09-13T07:39:08.000Z",
-      "xQuery": "14-15日 北陸と東北は大雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6595179?source=rss",
+      "publishedAt": "2026-09-13T11:07:09.000Z",
+      "xQuery": "沖縄知事選 古謝玄太氏が当選確実"
     },
     {
       "time": "17:41",
