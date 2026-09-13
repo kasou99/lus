@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T12:42:27.861Z",
+  "updatedAt": "2026-09-13T13:14:32.241Z",
   "items": [
     {
       "time": "20:43",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "14日関東暑さ戻る 35℃迫る予想も"
     },
     {
-      "time": "17:56",
-      "title": "オープンAIのCEO 年内IPOを否定",
+      "time": "19:14",
+      "title": "性行為したくない 夫婦で言えぬ訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595170?source=rss",
-      "publishedAt": "2026-09-13T08:56:29.000Z",
-      "xQuery": "オープンAIのCEO 年内IPOを否定"
+      "url": "https://news.yahoo.co.jp/pickup/6595175?source=rss",
+      "publishedAt": "2026-09-13T10:14:55.000Z",
+      "xQuery": "性行為したくない 夫婦で言えぬ訳"
     }
   ]
 };
