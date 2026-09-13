@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T22:15:24.492Z",
+  "updatedAt": "2026-09-13T22:36:36.102Z",
   "items": [
     {
       "time": "00:10",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "玉城デニー氏 結果受け止める"
     },
     {
-      "time": "17:16",
-      "title": "極右AfDが勝利 独全土で抗議デモ",
+      "time": "07:16",
+      "title": "維新・中司幹事長の入閣調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595165?source=rss",
-      "publishedAt": "2026-09-13T08:16:07.000Z",
-      "xQuery": "極右AfDが勝利 独全土で抗議デモ"
+      "url": "https://news.yahoo.co.jp/pickup/6595207?source=rss",
+      "publishedAt": "2026-09-13T22:16:13.000Z",
+      "xQuery": "維新・中司幹事長の入閣調整"
+    },
+    {
+      "time": "07:16",
+      "title": "ケーキ店主の死因 熱傷性ショック",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595208?source=rss",
+      "publishedAt": "2026-09-13T22:16:28.000Z",
+      "xQuery": "ケーキ店主の死因 熱傷性ショック"
     },
     {
       "time": "06:12",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595202?source=rss",
       "publishedAt": "2026-09-13T21:12:37.000Z",
       "xQuery": "事故で車降りた男性 はねられ死亡"
-    },
-    {
-      "time": "19:14",
-      "title": "性行為したくない 夫婦で言えぬ訳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595175?source=rss",
-      "publishedAt": "2026-09-13T10:14:55.000Z",
-      "xQuery": "性行為したくない 夫婦で言えぬ訳"
     }
   ]
 };
