@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-13T07:38:07.979Z",
+  "updatedAt": "2026-09-13T08:22:19.420Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "13:00",
         "title": "スピンドルユニットの世界市場（2026年～2032年）、市場規模（ギア式、ベルト式、ダイレクトドライブ式、電動スピンドルユニット、その他）・分析レポートを発表",
-        "source": "atpress.ne.jp",
+        "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41QjhGZWIwTjdLU053N3NaektfU2kwNUZDQ05jamo3N1Q0UVJ5MGJidEFISXFxXzRnbmZqSnpERUp5SE1TNVRWTEhsTEFvZEE?oc=5",
         "publishedAt": "2026-09-13T04:00:00.000Z"
       },
@@ -68,13 +68,6 @@
         "publishedAt": "2026-09-12T14:12:43.000Z"
       },
       {
-        "time": "21:24",
-        "title": "台湾に武器売却なら習氏訪米せず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595095?source=rss",
-        "publishedAt": "2026-09-12T12:24:57.000Z"
-      },
-      {
         "time": "15:24",
         "title": "フーシ派 紅海入口要衝を「支配」",
         "source": "Yahoo!ニュース",
@@ -89,18 +82,25 @@
         "publishedAt": "2026-09-13T01:40:51.000Z"
       },
       {
+        "time": "17:16",
+        "title": "極右AfDが勝利 独全土で抗議デモ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595165?source=rss",
+        "publishedAt": "2026-09-13T08:16:07.000Z"
+      },
+      {
+        "time": "16:43",
+        "title": "ネパール災害 救助まで換気口で息",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595163?source=rss",
+        "publishedAt": "2026-09-13T07:43:01.000Z"
+      },
+      {
         "time": "15:19",
         "title": "ジャワ海で船遭難か 120人を捜索",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595153?source=rss",
         "publishedAt": "2026-09-13T06:19:27.000Z"
-      },
-      {
-        "time": "17:09",
-        "title": "ウ大統領 米は新たな対露制裁を",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595070?source=rss",
-        "publishedAt": "2026-09-12T08:09:40.000Z"
       }
     ],
     "economyHeadlines": [

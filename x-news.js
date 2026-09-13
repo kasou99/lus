@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T07:38:09.138Z",
+  "updatedAt": "2026-09-13T08:22:20.176Z",
   "items": [
     {
-      "time": "15:00",
-      "title": "中部電力 社長と会長が辞任見通し",
+      "time": "16:39",
+      "title": "14-15日 北陸と東北は大雨の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595151?source=rss",
-      "publishedAt": "2026-09-13T06:00:50.000Z",
-      "xQuery": "中部電力 社長と会長が辞任見通し"
+      "url": "https://news.yahoo.co.jp/pickup/6595161?source=rss",
+      "publishedAt": "2026-09-13T07:39:08.000Z",
+      "xQuery": "14-15日 北陸と東北は大雨の恐れ"
     },
     {
-      "time": "15:19",
-      "title": "ジャワ海で船遭難か 120人を捜索",
+      "time": "15:24",
+      "title": "フーシ派 紅海入口要衝を「支配」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595153?source=rss",
-      "publishedAt": "2026-09-13T06:19:27.000Z",
-      "xQuery": "ジャワ海で船遭難か 120人を捜索"
+      "url": "https://news.yahoo.co.jp/pickup/6595152?source=rss",
+      "publishedAt": "2026-09-13T06:24:48.000Z",
+      "xQuery": "フーシ派 紅海入口要衝を「支配」"
     },
     {
       "time": "15:38",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "作業中に配送品の下敷き 男性死亡"
     },
     {
-      "time": "12:38",
-      "title": "純ガソリン車 次々廃止される事情",
+      "time": "16:22",
+      "title": "水泳大会中に70代が意識不明 静岡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595140?source=rss",
-      "publishedAt": "2026-09-13T03:38:43.000Z",
-      "xQuery": "純ガソリン車 次々廃止される事情"
+      "url": "https://news.yahoo.co.jp/pickup/6595160?source=rss",
+      "publishedAt": "2026-09-13T07:22:47.000Z",
+      "xQuery": "水泳大会中に70代が意識不明 静岡"
     },
     {
-      "time": "13:59",
-      "title": "「夜泣きカフェ」漫画機に開設増",
+      "time": "14:27",
+      "title": "青潮発生 福井県の湖で魚が大量死",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595144?source=rss",
-      "publishedAt": "2026-09-13T04:59:20.000Z",
-      "xQuery": "「夜泣きカフェ」漫画機に開設増"
+      "url": "https://news.yahoo.co.jp/pickup/6595147?source=rss",
+      "publishedAt": "2026-09-13T05:27:36.000Z",
+      "xQuery": "青潮発生 福井県の湖で魚が大量死"
     }
   ]
 };
