@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-12T23:37:05.913Z",
+  "updatedAt": "2026-09-13T00:54:15.993Z",
   "items": [
     {
-      "time": "07:48",
-      "title": "国対委員長に村井英樹氏 首相意向",
+      "time": "08:38",
+      "title": "アンダーパス冠水恐れ 148自治体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595108?source=rss",
-      "publishedAt": "2026-09-12T22:48:12.000Z",
-      "xQuery": "国対委員長に村井英樹氏 首相意向"
+      "url": "https://news.yahoo.co.jp/pickup/6595114?source=rss",
+      "publishedAt": "2026-09-12T23:38:42.000Z",
+      "xQuery": "アンダーパス冠水恐れ 148自治体"
     },
     {
-      "time": "07:35",
-      "title": "AnthropicCEO AI開発の減速訴え",
+      "time": "09:09",
+      "title": "13日 九州-北陸で急な強い雨恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595106?source=rss",
-      "publishedAt": "2026-09-12T22:35:27.000Z",
-      "xQuery": "AnthropicCEO AI開発の減速訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6595117?source=rss",
+      "publishedAt": "2026-09-13T00:09:53.000Z",
+      "xQuery": "13日 九州-北陸で急な強い雨恐れ"
+    },
+    {
+      "time": "09:20",
+      "title": "警察を振り切ったバイク転倒 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595121?source=rss",
+      "publishedAt": "2026-09-13T00:20:04.000Z",
+      "xQuery": "警察を振り切ったバイク転倒 死亡"
     },
     {
       "time": "07:44",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595107?source=rss",
       "publishedAt": "2026-09-12T22:44:41.000Z",
       "xQuery": "車にはねられ約7m下に転落 死亡"
-    },
-    {
-      "time": "07:22",
-      "title": "富士山 閉山後でも海外の団体客",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595103?source=rss",
-      "publishedAt": "2026-09-12T22:22:41.000Z",
-      "xQuery": "富士山 閉山後でも海外の団体客"
     },
     {
       "time": "08:13",
