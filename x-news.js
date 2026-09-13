@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T13:14:32.241Z",
+  "updatedAt": "2026-09-13T13:37:23.364Z",
   "items": [
     {
       "time": "20:43",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "古謝氏当確 辺野古容認へ県政転換"
     },
     {
-      "time": "20:38",
-      "title": "沖縄県知事選で当確 古謝氏の略歴",
+      "time": "22:12",
+      "title": "落選確実の玉城氏 結果受け止める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595182?source=rss",
-      "publishedAt": "2026-09-13T11:38:29.000Z",
-      "xQuery": "沖縄県知事選で当確 古謝氏の略歴"
+      "url": "https://news.yahoo.co.jp/pickup/6595190?source=rss",
+      "publishedAt": "2026-09-13T13:12:06.000Z",
+      "xQuery": "落選確実の玉城氏 結果受け止める"
     },
     {
       "time": "20:12",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日銀の利上げ公算大 家計への影響"
     },
     {
-      "time": "21:23",
-      "title": "14日関東暑さ戻る 35℃迫る予想も",
+      "time": "17:16",
+      "title": "極右AfDが勝利 独全土で抗議デモ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595185?source=rss",
-      "publishedAt": "2026-09-13T12:23:44.000Z",
-      "xQuery": "14日関東暑さ戻る 35℃迫る予想も"
+      "url": "https://news.yahoo.co.jp/pickup/6595165?source=rss",
+      "publishedAt": "2026-09-13T08:16:07.000Z",
+      "xQuery": "極右AfDが勝利 独全土で抗議デモ"
     },
     {
       "time": "19:14",
