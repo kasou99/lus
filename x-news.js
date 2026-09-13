@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T05:16:30.355Z",
+  "updatedAt": "2026-09-13T05:37:16.108Z",
   "items": [
     {
       "time": "12:54",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "北アイルランド巡り 米英に火種か"
     },
     {
+      "time": "14:11",
+      "title": "243人乗る船が消息絶つ ジャワ海",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595145?source=rss",
+      "publishedAt": "2026-09-13T05:11:16.000Z",
+      "xQuery": "243人乗る船が消息絶つ ジャワ海"
+    },
+    {
       "time": "12:38",
       "title": "純ガソリン車 次々廃止される事情",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595140?source=rss",
       "publishedAt": "2026-09-13T03:38:43.000Z",
       "xQuery": "純ガソリン車 次々廃止される事情"
-    },
-    {
-      "time": "12:26",
-      "title": "ラスベガス地下にホームレス 実態",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595138?source=rss",
-      "publishedAt": "2026-09-13T03:26:56.000Z",
-      "xQuery": "ラスベガス地下にホームレス 実態"
     },
     {
       "time": "13:54",
