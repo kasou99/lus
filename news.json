@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T20:36:43.298Z",
+  "updatedAt": "2026-09-13T21:14:18.564Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9paTJNcmlDaUlxM2Y3R0xfMnhPcUtDbnVaSHdFMmZrRjRCaGVDSHlzODVLWlJZSVc3RlhJZUlXODBrb0xaclN0RjRyUHlVWFZHd0Y1cldEQnBFWnhWU0JhZU9jZVdnYzRZUFRON2tGenpyV3c?oc=5",
         "publishedAt": "2026-09-13T09:55:00.000Z"
-      },
-      {
-        "time": "06:00",
-        "title": "【倒産】自動車や搬送機械メーカーが主な得意先...機械部品製造・修理業者が破産手続き開始決定...第二会社を設立し事業を譲渡【帝国データバンク】 | 岡山・香川のニュース | 天気 | RSK山陽放送 (2ページ)",
-        "source": "TBS NEWS DIG",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jZDZ2Q0N1bnJ0eGlyZjZVY2pfaVo5bENfOXJ1SWxZaTF2Z3NqbHVwMmxCZTBHX1poQU95THRPcWhQU2ZzRUVmRG9NSUkzWV9acnJtX19LVDVuYkg2VG9RNE1Jcw?oc=5",
-        "publishedAt": "2026-09-12T21:00:00.000Z"
       },
       {
         "time": "15:00",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595168?source=rss",
         "publishedAt": "2026-09-13T08:41:52.000Z"
+      },
+      {
+        "time": "12:38",
+        "title": "純ガソリン車 次々廃止される事情",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595140?source=rss",
+        "publishedAt": "2026-09-13T03:38:43.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,11 +177,11 @@
         "publishedAt": "2026-09-13T14:08:49.000Z"
       },
       {
-        "time": "17:27",
-        "title": "車ドア開き衝突 転倒後ひかれ死亡",
+        "time": "06:12",
+        "title": "事故で車降りた男性 はねられ死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595167?source=rss",
-        "publishedAt": "2026-09-13T08:27:24.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595202?source=rss",
+        "publishedAt": "2026-09-13T21:12:37.000Z"
       },
       {
         "time": "17:41",
