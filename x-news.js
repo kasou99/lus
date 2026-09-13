@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T07:17:27.351Z",
+  "updatedAt": "2026-09-13T07:38:09.138Z",
   "items": [
     {
       "time": "15:00",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595151?source=rss",
       "publishedAt": "2026-09-13T06:00:50.000Z",
       "xQuery": "中部電力 社長と会長が辞任見通し"
-    },
-    {
-      "time": "10:40",
-      "title": "北アイルランド巡り 米英に火種か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595130?source=rss",
-      "publishedAt": "2026-09-13T01:40:14.000Z",
-      "xQuery": "北アイルランド巡り 米英に火種か"
     },
     {
       "time": "15:19",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595140?source=rss",
       "publishedAt": "2026-09-13T03:38:43.000Z",
       "xQuery": "純ガソリン車 次々廃止される事情"
+    },
+    {
+      "time": "13:59",
+      "title": "「夜泣きカフェ」漫画機に開設増",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595144?source=rss",
+      "publishedAt": "2026-09-13T04:59:20.000Z",
+      "xQuery": "「夜泣きカフェ」漫画機に開設増"
     }
   ]
 };
