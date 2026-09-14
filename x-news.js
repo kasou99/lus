@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T23:14:33.817Z",
+  "updatedAt": "2026-09-14T23:37:53.444Z",
   "items": [
     {
-      "time": "06:59",
-      "title": "維新入閣 内閣府特命担当相で調整",
+      "time": "08:02",
+      "title": "広い範囲で雷雨に注意 15日の天気",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595308?source=rss",
-      "publishedAt": "2026-09-14T21:59:14.000Z",
-      "xQuery": "維新入閣 内閣府特命担当相で調整"
+      "url": "https://news.yahoo.co.jp/pickup/6595317?source=rss",
+      "publishedAt": "2026-09-14T23:02:52.000Z",
+      "xQuery": "広い範囲で雷雨に注意 15日の天気"
     },
     {
       "time": "08:06",
