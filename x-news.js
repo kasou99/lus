@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T11:38:07.831Z",
+  "updatedAt": "2026-09-14T12:27:53.928Z",
   "items": [
     {
       "time": "20:19",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "やまゆり園職員が入所者虐待 認定"
     },
     {
-      "time": "12:36",
-      "title": "ダウン症の子6年の生涯 CMに反響",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595245?source=rss",
-      "publishedAt": "2026-09-14T03:36:35.000Z",
-      "xQuery": "ダウン症の子6年の生涯 CMに反響"
-    },
-    {
       "time": "20:30",
       "title": "38社で1万1610人「国保逃れ」確認",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595292?source=rss",
       "publishedAt": "2026-09-14T11:30:02.000Z",
       "xQuery": "38社で1万1610人「国保逃れ」確認"
+    },
+    {
+      "time": "21:03",
+      "title": "タイ 邦人のビザなし滞在期間短縮",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595293?source=rss",
+      "publishedAt": "2026-09-14T12:03:59.000Z",
+      "xQuery": "タイ 邦人のビザなし滞在期間短縮"
     }
   ]
 };
