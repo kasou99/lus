@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T00:53:50.325Z",
+  "updatedAt": "2026-09-14T01:33:29.009Z",
   "items": [
     {
       "time": "08:46",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉豪雨 車両1万5000台が被害か"
     },
     {
+      "time": "08:17",
+      "title": "日本海側 激しい雨や落雷に注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595217?source=rss",
+      "publishedAt": "2026-09-13T23:17:43.000Z",
+      "xQuery": "日本海側 激しい雨や落雷に注意"
+    },
+    {
       "time": "07:52",
       "title": "沖縄知事選 古謝氏が過去最多得票",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595213?source=rss",
       "publishedAt": "2026-09-13T22:52:30.000Z",
       "xQuery": "沖縄知事選 古謝氏が過去最多得票"
-    },
-    {
-      "time": "07:16",
-      "title": "維新・中司幹事長の入閣調整",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595207?source=rss",
-      "publishedAt": "2026-09-13T22:16:13.000Z",
-      "xQuery": "維新・中司幹事長の入閣調整"
     },
     {
       "time": "09:09",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "NY原油が上昇 供給停滞に懸念"
     },
     {
-      "time": "07:16",
-      "title": "ケーキ店主の死因 熱傷性ショック",
+      "time": "10:20",
+      "title": "工場でガス爆発か 従業員3人けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595208?source=rss",
-      "publishedAt": "2026-09-13T22:16:28.000Z",
-      "xQuery": "ケーキ店主の死因 熱傷性ショック"
+      "url": "https://news.yahoo.co.jp/pickup/6595228?source=rss",
+      "publishedAt": "2026-09-14T01:20:11.000Z",
+      "xQuery": "工場でガス爆発か 従業員3人けが"
     }
   ]
 };
