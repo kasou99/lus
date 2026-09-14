@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T02:48:08.542Z",
+  "updatedAt": "2026-09-14T03:23:56.469Z",
   "items": [
+    {
+      "time": "12:07",
+      "title": "中部電力 データ不正で調査報告書",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595243?source=rss",
+      "publishedAt": "2026-09-14T03:07:05.000Z",
+      "xQuery": "中部電力 データ不正で調査報告書"
+    },
     {
       "time": "11:39",
       "title": "高市首相 沖縄新知事と「連携」",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日本海側 激しい雨や落雷に注意"
     },
     {
-      "time": "11:15",
-      "title": "ネイリスト殺害 起訴内容を認める",
+      "time": "11:54",
+      "title": "少年院に入る子ども増加傾向 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595230?source=rss",
-      "publishedAt": "2026-09-14T02:15:15.000Z",
-      "xQuery": "ネイリスト殺害 起訴内容を認める"
-    },
-    {
-      "time": "10:20",
-      "title": "工場でガス爆発か 従業員3人けが",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595228?source=rss",
-      "publishedAt": "2026-09-14T01:20:11.000Z",
-      "xQuery": "工場でガス爆発か 従業員3人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6595237?source=rss",
+      "publishedAt": "2026-09-14T02:54:47.000Z",
+      "xQuery": "少年院に入る子ども増加傾向 背景"
     },
     {
       "time": "10:19",

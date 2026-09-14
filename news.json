@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-09-14T02:48:07.617Z",
+  "updatedAt": "2026-09-14T03:23:55.679Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "07:26",
-        "title": "7月工作機械５割プラス、歴代3位の記録に - neji-bane.jp",
-        "source": "neji-bane.jp",
+        "title": "7月工作機械５割プラス、歴代3位の記録に",
+        "source": "金属産業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Lbm45TkhYdFVmRkFObnc3TFg2ZmlCbXFQRE1ZWU1pMk5idjZrQXdsUE5tQm1LdjBpaE8zZ1Z1TGV4d0VaR0lzWmpQODRLRTBPMDJQbjZyblo?oc=5",
         "publishedAt": "2026-09-13T22:26:36.000Z"
+      },
+      {
+        "time": "10:26",
+        "title": "マーケット速報",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXBMWVN1alhmM3R2cnljQU4tZ2xiTFBUdi02eFpucUZpQm1rWTlVNmRGWlI2bFg5cWNESlkxb21mVVNjUFVrbWJ0akFwV0FseWhPcm9jb3paanNKQXMxZDdKQWNNUUtRcVhrUk9lMjVuTjBxM09XWUlESGc3R043cm5NNXl4TXMxVGlsZ2JRbEV0Rmtwd2Q1Z29NUjFjOENSMTk2VzRIZ0dxTTk3ekV2bk9jTjhCZmZEYVpr?oc=5",
+        "publishedAt": "2026-09-14T01:26:08.000Z"
       },
       {
         "time": "13:00",
@@ -17,11 +24,25 @@
         "publishedAt": "2026-09-13T04:00:00.000Z"
       },
       {
-        "time": "18:55",
+        "time": "12:03",
+        "title": "精密工具市場は2035年に4002億9000万米ドルへ｜CAGR 5.3％、製造業の高精度化と次世代加工技術が市場成長を加速",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pODRXbkhqYXM2TmtUdXdHV2VfTHViTzVCYlJTdEZxNGxFeHREcm5La1hxbkxBQm4xZnFuN20tOERnd2tBcXNjQnBubFJxRHl4dUppV0xIdl9xbU5FMThEVHN6R2t3TThl?oc=5",
+        "publishedAt": "2026-09-14T03:03:36.000Z"
+      },
+      {
+        "time": "18:17",
         "title": "誰もが暮らしやすい社会に 富山ジェンダー平等シンポ",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9paTJNcmlDaUlxM2Y3R0xfMnhPcUtDbnVaSHdFMmZrRjRCaGVDSHlzODVLWlJZSVc3RlhJZUlXODBrb0xaclN0RjRyUHlVWFZHd0Y1cldEQnBFWnhWU0JhZU9jZVdnYzRZUFRON2tGenpyV3c?oc=5",
-        "publishedAt": "2026-09-13T09:55:00.000Z"
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1cVpxMjgycERoUS1OekxUaElndnIwRy1WTDRsNzAyLXllRlRBX2NBT3JnOExRdDBBU3hLcVFiWXhwU3VfdjZjZFZUeVVJWWFSUVhDbEk5N0lLbDhCR3dES0w5WTZJUjB2X0syS0lNalBaeERZ0gF0QVVfeXFMUDVxWnEyODJwRGhRLU56TFRoSWd2cjBHLVZMNGw3MDIteWVGVEFfY0FPcmc4TFF0MEFTeEtxUWJZeHBTdV92NmNkVlR5VUlZYVJRWENsSTk3SUtsOEJHd0RLTDlZNklSMHZfSzJLSU1qUFp4RFk?oc=5",
+        "publishedAt": "2026-09-13T09:17:30.000Z"
+      },
+      {
+        "time": "12:07",
+        "title": "中部電力 データ不正で調査報告書",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595243?source=rss",
+        "publishedAt": "2026-09-14T03:07:05.000Z"
       },
       {
         "time": "09:09",
@@ -31,32 +52,11 @@
         "publishedAt": "2026-09-14T00:09:21.000Z"
       },
       {
-        "time": "15:00",
-        "title": "中部電力 社長と会長が辞任見通し",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595151?source=rss",
-        "publishedAt": "2026-09-13T06:00:50.000Z"
-      },
-      {
         "time": "20:12",
         "title": "日銀の利上げ公算大 家計への影響",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595177?source=rss",
         "publishedAt": "2026-09-13T11:12:49.000Z"
-      },
-      {
-        "time": "17:56",
-        "title": "オープンAIのCEO 年内IPOを否定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595170?source=rss",
-        "publishedAt": "2026-09-13T08:56:29.000Z"
-      },
-      {
-        "time": "17:41",
-        "title": "景気拡大 企業と家計の「明暗」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595168?source=rss",
-        "publishedAt": "2026-09-13T08:41:52.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "12:07",
+        "title": "中部電力 データ不正で調査報告書",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595243?source=rss",
+        "publishedAt": "2026-09-14T03:07:05.000Z"
+      },
+      {
         "time": "09:09",
         "title": "NY原油が上昇 供給停滞に懸念",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595222?source=rss",
         "publishedAt": "2026-09-14T00:09:21.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "中部電力 社長と会長が辞任見通し",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595151?source=rss",
-        "publishedAt": "2026-09-13T06:00:50.000Z"
       },
       {
         "time": "20:12",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-09-13T08:41:52.000Z"
       },
       {
-        "time": "12:38",
-        "title": "純ガソリン車 次々廃止される事情",
+        "time": "12:22",
+        "title": "中国で「はま寿司」急拡大 背景",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595140?source=rss",
-        "publishedAt": "2026-09-13T03:38:43.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595241?source=rss",
+        "publishedAt": "2026-09-14T03:22:14.000Z"
       }
     ],
     "localHeadlines": [
