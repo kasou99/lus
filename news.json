@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T22:37:37.823Z",
+  "updatedAt": "2026-09-14T23:14:32.765Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -33,23 +33,16 @@
       {
         "time": "18:00",
         "title": "モーターフィードバック用磁気エンコーダの世界市場（2026年～2032年）、市場規模（インクリメンタル磁気エンコーダ、アブソリュート磁気エンコーダ）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MeV9rS2UwbHg2S29QQkxVUXZyNHhmakFvMXo3d3g4d1dITmNBdFV1bTBEcUk4ak9oSGxpckdTdG1tZUlyR3BaXzJxTlFvSkE?oc=5",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UQks1dzFwVFVVWjNJY2pFOGNwUXpBSTV0dDZxY2Voa09SbkFHRkI3TENkQk5PcEMwNVo0ZWtwSVY0OUx5U2pRa2ltUVFlUQ?oc=5",
         "publishedAt": "2026-09-14T09:00:00.000Z"
       },
       {
         "time": "11:27",
         "title": "マーケット速報",
-        "source": "biz.chunichi.co.jp",
+        "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeGtQVkhrYkJwdGpBZzU2S3hJRWRiaGRIaG9wU25lYmF6X0FWZUFQNC1BT19SNlBjNVRVMXladU5aWFQzVWJlZmRKUVIwYmtHak1GYzgwcDY0VFZWUWI0eDhsbnZTSU55RFpta3E3a3V2TEk1aGYzdXNhNF92cm5MMnhRU2ZnSXh5dDNKOHVQbXBLSWFrcUVOSXF0a0ZmUnJidWN4MWs2U05JZ0NkRWJ4RFdMS0QxdHA2Tmtr?oc=5",
         "publishedAt": "2026-09-14T02:27:21.000Z"
-      },
-      {
-        "time": "21:00",
-        "title": "日本のAIデータセンター計画の光と影/日経平均続落・AI関連に売り｜NIKKEI NEWS NEXT",
-        "source": "テレ東BIZ",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ocXE4T0pQdGw4dUswWDFsQnAxaWY3bWQ1ZUlXMDd5SjlfRzVnYkhpaHFQVTNUSzdodHFaa3V4WEF0RGNMVllKanFDd0hCNzNxcXpseFd0TGxLY2RXb3VnanF1Yk02Zw?oc=5",
-        "publishedAt": "2026-09-14T12:00:00.000Z"
       },
       {
         "time": "10:41",
@@ -57,6 +50,13 @@
         "source": "四季報オンライン",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qUEJjV2VrWmtrVmxXcEV1T2tSWWpEazNXcURGcmJLWGN6akJ6UnJ0N0hzVGRqVktKRkMwMzVTWGFPYlFQRjhCOFFGV1dkR1JoRERwV2NQTQ?oc=5",
         "publishedAt": "2026-09-14T01:41:24.000Z"
+      },
+      {
+        "time": "20:18",
+        "title": "日立社員、第68次南極地域観測隊に選任",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xcHBTOGpjQnVDTWxCX1B3N0x5dWxBcnNjbFFRZHMyNE80eHc0bFJQQ0RPZmMxcFctUVlBal9wWlhMMGlTZGVNTVdsSFBYeHpVbTlpdF9oMEFfYUxNRDhsdUxGY3dpejgzUXIzV3pDaU02cDViXzZZQ2RENA?oc=5",
+        "publishedAt": "2026-09-14T11:18:10.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "08:06",
+        "title": "米長期金利一時5%台 インフレ懸念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595318?source=rss",
+        "publishedAt": "2026-09-14T23:06:29.000Z"
+      },
+      {
         "time": "06:23",
         "title": "プルデンシャル 顧客情報漏えい",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595291?source=rss",
         "publishedAt": "2026-09-14T11:19:16.000Z"
-      },
-      {
-        "time": "14:27",
-        "title": "浜岡原発 再稼働の申請取り下げ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595258?source=rss",
-        "publishedAt": "2026-09-14T05:27:50.000Z"
       },
       {
         "time": "21:51",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-09-14T21:09:10.000Z"
       },
       {
+        "time": "07:43",
+        "title": "関越道で3台が関わる事故 2人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595313?source=rss",
+        "publishedAt": "2026-09-14T22:43:01.000Z"
+      },
+      {
         "time": "18:21",
         "title": "玉城氏陣営 SNS中傷巡り告訴準備",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595288?source=rss",
         "publishedAt": "2026-09-14T10:50:13.000Z"
-      },
-      {
-        "time": "20:12",
-        "title": "6歳不明から10日 捜索規模を縮小",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595290?source=rss",
-        "publishedAt": "2026-09-14T11:12:14.000Z"
       },
       {
         "time": "15:23",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T22:37:38.610Z",
+  "updatedAt": "2026-09-14T23:14:33.817Z",
   "items": [
     {
       "time": "06:59",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "維新入閣 内閣府特命担当相で調整"
     },
     {
-      "time": "22:32",
-      "title": "AIの開発ペース「減速」は可能?",
+      "time": "08:06",
+      "title": "米長期金利一時5%台 インフレ懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595300?source=rss",
-      "publishedAt": "2026-09-14T13:32:01.000Z",
-      "xQuery": "AIの開発ペース「減速」は可能?"
+      "url": "https://news.yahoo.co.jp/pickup/6595318?source=rss",
+      "publishedAt": "2026-09-14T23:06:29.000Z",
+      "xQuery": "米長期金利一時5%台 インフレ懸念"
     },
     {
       "time": "06:09",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店火災「腹殴られた」証言"
     },
     {
-      "time": "06:23",
-      "title": "プルデンシャル 顧客情報漏えい",
+      "time": "07:43",
+      "title": "関越道で3台が関わる事故 2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595306?source=rss",
-      "publishedAt": "2026-09-14T21:23:15.000Z",
-      "xQuery": "プルデンシャル 顧客情報漏えい"
+      "url": "https://news.yahoo.co.jp/pickup/6595313?source=rss",
+      "publishedAt": "2026-09-14T22:43:01.000Z",
+      "xQuery": "関越道で3台が関わる事故 2人死亡"
     },
     {
-      "time": "21:51",
-      "title": "光通信 レオパレス21にTOB実施",
+      "time": "07:36",
+      "title": "「カスハラ」市民を提訴へ 大阪市",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595298?source=rss",
-      "publishedAt": "2026-09-14T12:51:42.000Z",
-      "xQuery": "光通信 レオパレス21にTOB実施"
+      "url": "https://news.yahoo.co.jp/pickup/6595312?source=rss",
+      "publishedAt": "2026-09-14T22:36:22.000Z",
+      "xQuery": "「カスハラ」市民を提訴へ 大阪市"
     }
   ]
 };
