@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T07:48:04.162Z",
+  "updatedAt": "2026-09-14T08:28:30.043Z",
   "items": [
     {
-      "time": "14:27",
-      "title": "浜岡原発 再稼働の申請取り下げ",
+      "time": "17:05",
+      "title": "森衆院議長キーウ訪問 連帯表明へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595258?source=rss",
-      "publishedAt": "2026-09-14T05:27:50.000Z",
-      "xQuery": "浜岡原発 再稼働の申請取り下げ"
+      "url": "https://news.yahoo.co.jp/pickup/6595271?source=rss",
+      "publishedAt": "2026-09-14T08:05:55.000Z",
+      "xQuery": "森衆院議長キーウ訪問 連帯表明へ"
     },
     {
       "time": "13:24",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595250?source=rss",
       "publishedAt": "2026-09-14T04:24:20.000Z",
       "xQuery": "東北や北陸 土砂災害や浸水に注意"
-    },
-    {
-      "time": "13:53",
-      "title": "ロマンスカーとコンバインが衝突",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595256?source=rss",
-      "publishedAt": "2026-09-14T04:53:49.000Z",
-      "xQuery": "ロマンスカーとコンバインが衝突"
     },
     {
       "time": "15:23",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595257?source=rss",
       "publishedAt": "2026-09-14T06:00:02.000Z",
       "xQuery": "佐川急便かたる不審電話 見分け方"
+    },
+    {
+      "time": "15:23",
+      "title": "中学生だけでの入店を拒否 違法?",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595260?source=rss",
+      "publishedAt": "2026-09-14T06:23:13.000Z",
+      "xQuery": "中学生だけでの入店を拒否 違法?"
     }
   ]
 };
