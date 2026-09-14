@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T21:37:31.937Z",
+  "updatedAt": "2026-09-14T22:16:24.309Z",
   "items": [
     {
-      "time": "22:41",
-      "title": "高市氏の人事調整 林氏の処遇焦点",
+      "time": "06:59",
+      "title": "維新入閣 内閣府特命担当相で調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595302?source=rss",
-      "publishedAt": "2026-09-14T13:41:47.000Z",
-      "xQuery": "高市氏の人事調整 林氏の処遇焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6595308?source=rss",
+      "publishedAt": "2026-09-14T21:59:14.000Z",
+      "xQuery": "維新入閣 内閣府特命担当相で調整"
     },
     {
       "time": "22:32",
