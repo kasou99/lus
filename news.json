@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-14T19:36:32.818Z",
+  "updatedAt": "2026-09-14T20:17:17.509Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "改革に挑む中部企業 松井機工 少数精鋭、多能工化を推進 全社員で設備保全活動 機械30台全て点検突発故障を大きく削減",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YWkJrdmxRZ3NYd3lUaW1LTm8zR0gxN0pYRXdiQzNRdEFCckVmdFRVUXJuS0tpSXMxQmNBelpiOXVGY3JuS0x6REh0cTF5ajQ2YmswYTNqQmZTUnY2aVM1SDVCNlRyY19RSHJ3Ty1IS1NfN2s?oc=5",
+        "publishedAt": "2026-09-14T20:00:00.000Z"
+      },
       {
         "time": "13:00",
         "title": "中村留が「半導体・光学事業部」発足、ウエハーのエッジ加工装置など展開：工作機械",
@@ -17,18 +24,18 @@
         "publishedAt": "2026-09-14T13:57:07.000Z"
       },
       {
-        "time": "06:09",
-        "title": "7月工作機械５割プラス、歴代3位の記録に",
-        "source": "金属産業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Lbm45TkhYdFVmRkFObnc3TFg2ZmlCbXFQRE1ZWU1pMk5idjZrQXdsUE5tQm1LdjBpaE8zZ1Z1TGV4d0VaR0lzWmpQODRLRTBPMDJQbjZyblo?oc=5",
-        "publishedAt": "2026-09-13T21:09:30.000Z"
-      },
-      {
         "time": "18:00",
         "title": "モーターフィードバック用磁気エンコーダの世界市場（2026年～2032年）、市場規模（インクリメンタル磁気エンコーダ、アブソリュート磁気エンコーダ）・分析レポートを発表",
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MeV9rS2UwbHg2S29QQkxVUXZyNHhmakFvMXo3d3g4d1dITmNBdFV1bTBEcUk4ak9oSGxpckdTdG1tZUlyR3BaXzJxTlFvSkE?oc=5",
         "publishedAt": "2026-09-14T09:00:00.000Z"
+      },
+      {
+        "time": "06:09",
+        "title": "7月工作機械５割プラス、歴代3位の記録に",
+        "source": "金属産業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Lbm45TkhYdFVmRkFObnc3TFg2ZmlCbXFQRE1ZWU1pMk5idjZrQXdsUE5tQm1LdjBpaE8zZ1Z1TGV4d0VaR0lzWmpQODRLRTBPMDJQbjZyblo?oc=5",
+        "publishedAt": "2026-09-13T21:09:30.000Z"
       },
       {
         "time": "20:18",
@@ -50,13 +57,6 @@
         "source": "テレ東BIZ",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ocXE4T0pQdGw4dUswWDFsQnAxaWY3bWQ1ZUlXMDd5SjlfRzVnYkhpaHFQVTNUSzdodHFaa3V4WEF0RGNMVllKanFDd0hCNzNxcXpseFd0TGxLY2RXb3VnanF1Yk02Zw?oc=5",
         "publishedAt": "2026-09-14T12:00:00.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "産業用CNCフライスヘッドの世界市場（2026年～2032年）、市場規模（軽量、重量）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwTjVKUGRuTTdMUU9adjd6RE1YS2VrVkFyZTNXSGZVNGlxbnJPUWMzbXVsZk1KYmRHcDExNGZtQUowak1FN1hZWVl1QnNsQzQ?oc=5",
-        "publishedAt": "2026-09-14T04:00:00.000Z"
       }
     ],
     "worldHeadlines": [
