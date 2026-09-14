@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T07:28:06.678Z",
+  "updatedAt": "2026-09-14T07:48:04.162Z",
   "items": [
     {
       "time": "14:27",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "東北や北陸 土砂災害や浸水に注意"
     },
     {
-      "time": "13:03",
-      "title": "ガソスタ廃業加速 自治体どう支援",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595231?source=rss",
-      "publishedAt": "2026-09-14T04:03:52.000Z",
-      "xQuery": "ガソスタ廃業加速 自治体どう支援"
-    },
-    {
       "time": "13:53",
       "title": "ロマンスカーとコンバインが衝突",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595261?source=rss",
       "publishedAt": "2026-09-14T06:23:48.000Z",
       "xQuery": "閉山中の富士山 ヘリ救助有料化へ"
+    },
+    {
+      "time": "15:00",
+      "title": "佐川急便かたる不審電話 見分け方",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595257?source=rss",
+      "publishedAt": "2026-09-14T06:00:02.000Z",
+      "xQuery": "佐川急便かたる不審電話 見分け方"
     }
   ]
 };

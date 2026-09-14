@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T07:28:05.821Z",
+  "updatedAt": "2026-09-14T07:48:03.268Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,16 +17,16 @@
         "publishedAt": "2026-09-13T22:26:36.000Z"
       },
       {
-        "time": "10:54",
+        "time": "11:27",
         "title": "マーケット速報",
         "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc25uS01fRmlqVVdtUXVVSzZFZ1NPRmRrRWZ2UkNQaEI5VmtBdkVha0RFN3M0T2FlUEIwZUhmTUR1cXJDeXFBaV93YVZJb090cjZoem85WXpRQk5PMmtHd0hBMFVmbFVXWlhZZHhnb0xIMUZWNV9NUEJILXlFVk1LWXdXcVN1bGZVT0FncUVveUt4R0M3Z2Z4X19XRzY2amw2MmJiVjJNUkVKN3FmU3dzeTBPRnpsdC1oUFAw?oc=5",
-        "publishedAt": "2026-09-14T01:54:45.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeGtQVkhrYkJwdGpBZzU2S3hJRWRiaGRIaG9wU25lYmF6X0FWZUFQNC1BT19SNlBjNVRVMXladU5aWFQzVWJlZmRKUVIwYmtHak1GYzgwcDY0VFZWUWI0eDhsbnZTSU55RFpta3E3a3V2TEk1aGYzdXNhNF92cm5MMnhRU2ZnSXh5dDNKOHVQbXBLSWFrcUVOSXF0a0ZmUnJidWN4MWs2U05JZ0NkRWJ4RFdMS0QxdHA2Tmtr?oc=5",
+        "publishedAt": "2026-09-14T02:27:21.000Z"
       },
       {
         "time": "10:41",
         "title": "北川鉄工所がストップ高気配､27年3月期業績･配当予想を増額",
-        "source": "四季報オンライン",
+        "source": "shikiho.toyokeizai.net",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qUEJjV2VrWmtrVmxXcEV1T2tSWWpEazNXcURGcmJLWGN6akJ6UnJ0N0hzVGRqVktKRkMwMzVTWGFPYlFQRjhCOFFGV1dkR1JoRERwV2NQTQ?oc=5",
         "publishedAt": "2026-09-14T01:41:24.000Z"
       },
@@ -46,17 +46,17 @@
       },
       {
         "time": "18:17",
+        "title": "誰もが暮らしやすい社会に - saitama-np.co.jp",
+        "source": "saitama-np.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qNG9GOTZNdThPQ2Y4cjNCa1JJMmV3eUZWT0ZvS2lyZjhiLXR5ZnB1UFgzSVA4Rjh6VDhkQUVwV0JBR2FaSUFkNTMwaHBXMktwSGZXaVM4cVdkallBVWRtaF9mWXIzZw?oc=5",
+        "publishedAt": "2026-09-13T09:17:00.000Z"
+      },
+      {
+        "time": "18:17",
         "title": "誰もが暮らしやすい社会に 富山ジェンダー平等シンポ",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1cVpxMjgycERoUS1OekxUaElndnIwRy1WTDRsNzAyLXllRlRBX2NBT3JnOExRdDBBU3hLcVFiWXhwU3VfdjZjZFZUeVVJWWFSUVhDbEk5N0lLbDhCR3dES0w5WTZJUjB2X0syS0lNalBaeERZ0gF0QVVfeXFMUDVxWnEyODJwRGhRLU56TFRoSWd2cjBHLVZMNGw3MDIteWVGVEFfY0FPcmc4TFF0MEFTeEtxUWJZeHBTdV92NmNkVlR5VUlZYVJRWENsSTk3SUtsOEJHd0RLTDlZNklSMHZfSzJLSU1qUFp4RFk?oc=5",
         "publishedAt": "2026-09-13T09:17:30.000Z"
-      },
-      {
-        "time": "13:30",
-        "title": "溶接ロボットのダウンタイムを極小化「iWNBクラウド」を発売",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlYW13M2tTcW9uMlpxbE5aMmdaR0NHZ0l3Y19Cel9NSUlmdkI0Tkgyb0hpbnpfRlpMRV9fa0xaekNNdGlpN1ItQmpxY0c0WmJUZVR6akoxbEpPMjlmcG1aVVJhTWRULTQxVkVfa3lhaDB0dzVmazVkakpUNA?oc=5",
-        "publishedAt": "2026-09-14T04:30:38.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
