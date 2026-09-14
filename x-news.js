@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T02:28:23.931Z",
+  "updatedAt": "2026-09-14T02:48:08.542Z",
   "items": [
     {
-      "time": "09:42",
-      "title": "沖縄知事選で古謝氏当選 各党反応",
+      "time": "11:39",
+      "title": "高市首相 沖縄新知事と「連携」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595224?source=rss",
-      "publishedAt": "2026-09-14T00:42:34.000Z",
-      "xQuery": "沖縄知事選で古謝氏当選 各党反応"
+      "url": "https://news.yahoo.co.jp/pickup/6595234?source=rss",
+      "publishedAt": "2026-09-14T02:39:36.000Z",
+      "xQuery": "高市首相 沖縄新知事と「連携」"
     },
     {
       "time": "08:17",
