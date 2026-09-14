@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T06:40:20.712Z",
+  "updatedAt": "2026-09-14T07:28:06.678Z",
   "items": [
     {
       "time": "14:27",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "浜岡原発 再稼働の申請取り下げ"
     },
     {
+      "time": "13:24",
+      "title": "東北や北陸 土砂災害や浸水に注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595250?source=rss",
+      "publishedAt": "2026-09-14T04:24:20.000Z",
+      "xQuery": "東北や北陸 土砂災害や浸水に注意"
+    },
+    {
       "time": "13:03",
       "title": "ガソスタ廃業加速 自治体どう支援",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595231?source=rss",
       "publishedAt": "2026-09-14T04:03:52.000Z",
       "xQuery": "ガソスタ廃業加速 自治体どう支援"
-    },
-    {
-      "time": "13:44",
-      "title": "沖縄知事選 得票差に古謝氏驚き",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595254?source=rss",
-      "publishedAt": "2026-09-14T04:44:37.000Z",
-      "xQuery": "沖縄知事選 得票差に古謝氏驚き"
     },
     {
       "time": "13:53",
@@ -35,11 +35,11 @@ window.LUS_X_NEWS = {
     },
     {
       "time": "15:23",
-      "title": "中学生だけでの入店を拒否 違法?",
+      "title": "閉山中の富士山 ヘリ救助有料化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595260?source=rss",
-      "publishedAt": "2026-09-14T06:23:13.000Z",
-      "xQuery": "中学生だけでの入店を拒否 違法?"
+      "url": "https://news.yahoo.co.jp/pickup/6595261?source=rss",
+      "publishedAt": "2026-09-14T06:23:48.000Z",
+      "xQuery": "閉山中の富士山 ヘリ救助有料化へ"
     }
   ]
 };
