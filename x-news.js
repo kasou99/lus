@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-13T23:37:00.379Z",
+  "updatedAt": "2026-09-14T00:53:50.325Z",
   "items": [
+    {
+      "time": "08:46",
+      "title": "千葉豪雨 車両1万5000台が被害か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595220?source=rss",
+      "publishedAt": "2026-09-13T23:46:52.000Z",
+      "xQuery": "千葉豪雨 車両1万5000台が被害か"
+    },
     {
       "time": "07:52",
       "title": "沖縄知事選 古謝氏が過去最多得票",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "維新・中司幹事長の入閣調整"
     },
     {
-      "time": "07:58",
-      "title": "米大統領 軽油高騰巡りウに要求",
+      "time": "09:09",
+      "title": "NY原油が上昇 供給停滞に懸念",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595214?source=rss",
-      "publishedAt": "2026-09-13T22:58:51.000Z",
-      "xQuery": "米大統領 軽油高騰巡りウに要求"
+      "url": "https://news.yahoo.co.jp/pickup/6595222?source=rss",
+      "publishedAt": "2026-09-14T00:09:21.000Z",
+      "xQuery": "NY原油が上昇 供給停滞に懸念"
     },
     {
       "time": "07:16",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595208?source=rss",
       "publishedAt": "2026-09-13T22:16:28.000Z",
       "xQuery": "ケーキ店主の死因 熱傷性ショック"
-    },
-    {
-      "time": "06:12",
-      "title": "事故で車降りた男性 はねられ死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595202?source=rss",
-      "publishedAt": "2026-09-13T21:12:37.000Z",
-      "xQuery": "事故で車降りた男性 はねられ死亡"
     }
   ]
 };
