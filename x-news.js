@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T05:19:11.803Z",
+  "updatedAt": "2026-09-14T05:40:33.030Z",
   "items": [
+    {
+      "time": "14:27",
+      "title": "浜岡原発 再稼働の申請取り下げ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595258?source=rss",
+      "publishedAt": "2026-09-14T05:27:50.000Z",
+      "xQuery": "浜岡原発 再稼働の申請取り下げ"
+    },
     {
       "time": "13:58",
       "title": "中継 データ不正巡り中部電が会見",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595253?source=rss",
       "publishedAt": "2026-09-14T04:58:23.000Z",
       "xQuery": "中継 データ不正巡り中部電が会見"
-    },
-    {
-      "time": "12:08",
-      "title": "交通事故「魔の7歳」巡り識者警鐘",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595242?source=rss",
-      "publishedAt": "2026-09-14T03:08:36.000Z",
-      "xQuery": "交通事故「魔の7歳」巡り識者警鐘"
     },
     {
       "time": "13:44",

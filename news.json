@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T05:19:11.073Z",
+  "updatedAt": "2026-09-14T05:40:32.257Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "金属産業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Lbm45TkhYdFVmRkFObnc3TFg2ZmlCbXFQRE1ZWU1pMk5idjZrQXdsUE5tQm1LdjBpaE8zZ1Z1TGV4d0VaR0lzWmpQODRLRTBPMDJQbjZyblo?oc=5",
         "publishedAt": "2026-09-13T22:26:36.000Z"
+      },
+      {
+        "time": "10:24",
+        "title": "マーケット速報",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdEpOYTNZYmIwWWpzNEpRM0pHYWl1ZW9JYnNobGlPSGtCdzM3bUNjUXhQT1c1TF80eEJRLVBya2ZlNlRjYWRRbllCejhGMWRXYkpaZkk5MTdIdWVybWRRZWJXT2JUeWxRbEVCMHN5b21lYm1xdXpQcTRNd0Jadm83bmhsRWhzWVVKZWFRUmR1eTNkV09kalJwVG9hLUZtVHVKNHdhWk9fLXN1cjBJMFZ6bjJtRGV4YktSZFlJ?oc=5",
+        "publishedAt": "2026-09-14T01:24:36.000Z"
       },
       {
         "time": "10:41",
@@ -40,7 +47,7 @@
       {
         "time": "18:17",
         "title": "誰もが暮らしやすい社会に 富山ジェンダー平等シンポ",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1cVpxMjgycERoUS1OekxUaElndnIwRy1WTDRsNzAyLXllRlRBX2NBT3JnOExRdDBBU3hLcVFiWXhwU3VfdjZjZFZUeVVJWWFSUVhDbEk5N0lLbDhCR3dES0w5WTZJUjB2X0syS0lNalBaeERZ0gF0QVVfeXFMUDVxWnEyODJwRGhRLU56TFRoSWd2cjBHLVZMNGw3MDIteWVGVEFfY0FPcmc4TFF0MEFTeEtxUWJZeHBTdV92NmNkVlR5VUlZYVJRWENsSTk3SUtsOEJHd0RLTDlZNklSMHZfSzJLSU1qUFp4RFk?oc=5",
         "publishedAt": "2026-09-13T09:17:30.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "Hitachi Global",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KaGl6b05nTTg4MlBiN3lpbjVHZ3lGZzVleEQ4VGJZdUYwUUJMM1FTa2MybEE4N0NZRERfdVRpVkQ4eDgwc0hLR0ZBYWRJLWpXVzdGcTFudGRxWHNkWU4wcWtDekRuSG1xTnFpRFlLY2tyMWxrYkxpZ09OVUQ2THM?oc=5",
         "publishedAt": "2026-09-14T04:06:32.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "産業用CNCフライスヘッドの世界市場（2026年～2032年）、市場規模（軽量、重量）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwTjVKUGRuTTdMUU9adjd6RE1YS2VrVkFyZTNXSGZVNGlxbnJPUWMzbXVsZk1KYmRHcDExNGZtQUowak1FN1hZWVl1QnNsQzQ?oc=5",
-        "publishedAt": "2026-09-14T04:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,6 +112,13 @@
         "publishedAt": "2026-09-14T04:58:23.000Z"
       },
       {
+        "time": "14:27",
+        "title": "浜岡原発 再稼働の申請取り下げ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595258?source=rss",
+        "publishedAt": "2026-09-14T05:27:50.000Z"
+      },
+      {
         "time": "12:07",
         "title": "中部電力 データ不正で調査報告書",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595231?source=rss",
         "publishedAt": "2026-09-14T04:03:52.000Z"
-      },
-      {
-        "time": "17:56",
-        "title": "オープンAIのCEO 年内IPOを否定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595170?source=rss",
-        "publishedAt": "2026-09-13T08:56:29.000Z"
       }
     ],
     "localHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
