@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T10:39:04.440Z",
+  "updatedAt": "2026-09-14T11:17:01.590Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,11 @@
         "publishedAt": "2026-09-13T22:26:36.000Z"
       },
       {
-        "time": "11:30",
+        "time": "11:27",
         "title": "マーケット速報",
         "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczlKeVRxcHo1OUZUVk43NlZpM2dVaDNZeGczNnNOM1hjUnFUejNzZEttVEY2aGQ3WFRkRGR4NjFreGItekRUVGk2N0UyLS16c29LNXhIQWQxQkNsekNRMEE5TFZtQ1lJOFJFenNjOHdtRUpZUzR0MDVJQ0YxaHczV2x1aE1JdjhUWHlDUGM4V2x1TkFCNjFkSFg3OEhoTkFvWml6LTNCMW9kQmlqM2VIUnRDOTlpRlN6V2pB?oc=5",
-        "publishedAt": "2026-09-14T02:30:16.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeGtQVkhrYkJwdGpBZzU2S3hJRWRiaGRIaG9wU25lYmF6X0FWZUFQNC1BT19SNlBjNVRVMXladU5aWFQzVWJlZmRKUVIwYmtHak1GYzgwcDY0VFZWUWI0eDhsbnZTSU55RFpta3E3a3V2TEk1aGYzdXNhNF92cm5MMnhRU2ZnSXh5dDNKOHVQbXBLSWFrcUVOSXF0a0ZmUnJidWN4MWs2U05JZ0NkRWJ4RFdMS0QxdHA2Tmtr?oc=5",
+        "publishedAt": "2026-09-14T02:27:21.000Z"
       },
       {
         "time": "10:41",
@@ -40,16 +40,9 @@
       {
         "time": "12:03",
         "title": "精密工具市場は2035年に4002億9000万米ドルへ｜CAGR 5.3％、製造業の高精度化と次世代加工技術が市場成長を加速",
-        "source": "ニコニコニュース",
+        "source": "news.nicovideo.jp",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pODRXbkhqYXM2TmtUdXdHV2VfTHViTzVCYlJTdEZxNGxFeHREcm5La1hxbkxBQm4xZnFuN20tOERnd2tBcXNjQnBubFJxRHl4dUppV0xIdl9xbU5FMThEVHN6R2t3TThl?oc=5",
         "publishedAt": "2026-09-14T03:03:36.000Z"
-      },
-      {
-        "time": "13:30",
-        "title": "溶接ロボットのダウンタイムを極小化「iWNBクラウド」を発売",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55dXhVZ2xIcExaUWdtanZ6M1NUa1NrYjZGWWpOOVduNWZEYVZLVUFhakFtZmdFNDE2dHctcWRzSkFrSHhzY1NpbkFHNE5YYVo4MlJsRVBkUGdzVEczTU45cHZOSmFsTzcteXdtTzJQR1hhdFQyU0IybmJPNA?oc=5",
-        "publishedAt": "2026-09-14T04:30:38.000Z"
       },
       {
         "time": "13:00",
@@ -57,6 +50,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwTjVKUGRuTTdMUU9adjd6RE1YS2VrVkFyZTNXSGZVNGlxbnJPUWMzbXVsZk1KYmRHcDExNGZtQUowak1FN1hZWVl1QnNsQzQ?oc=5",
         "publishedAt": "2026-09-14T04:00:00.000Z"
+      },
+      {
+        "time": "18:42",
+        "title": "土佐町堆肥センターで火災 集電盤など焼く",
+        "source": "kochinews.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5STE90dnM2MXUzY0UzWXVqN3RXU2g5TXJlMWdtMWF6RG1PZUExRGg4dFBrRVRrZmpRZlprdEVmSGplV3NPZW9sWFBSYXBnYi1nWk1sRmktTzFhVmp0aHhF?oc=5",
+        "publishedAt": "2026-09-14T09:42:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "13:44",
-        "title": "沖縄知事選 得票差に古謝氏驚き",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595254?source=rss",
-        "publishedAt": "2026-09-14T04:44:37.000Z"
-      },
-      {
         "time": "18:21",
         "title": "玉城氏陣営 SNS中傷巡り告訴準備",
         "source": "Yahoo!ニュース",
@@ -163,18 +156,25 @@
         "publishedAt": "2026-09-14T09:21:29.000Z"
       },
       {
-        "time": "08:46",
-        "title": "千葉豪雨 車両1万5000台が被害か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595220?source=rss",
-        "publishedAt": "2026-09-13T23:46:52.000Z"
-      },
-      {
         "time": "17:19",
         "title": "イオン爆発 事故調査委が現地調査",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595275?source=rss",
         "publishedAt": "2026-09-14T08:19:32.000Z"
+      },
+      {
+        "time": "19:50",
+        "title": "やまゆり園職員が入所者虐待 認定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595288?source=rss",
+        "publishedAt": "2026-09-14T10:50:13.000Z"
+      },
+      {
+        "time": "20:12",
+        "title": "6歳不明から10日 捜索規模を縮小",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595290?source=rss",
+        "publishedAt": "2026-09-14T11:12:14.000Z"
       },
       {
         "time": "15:23",

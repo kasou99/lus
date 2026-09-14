@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T10:39:05.168Z",
+  "updatedAt": "2026-09-14T11:17:02.374Z",
   "items": [
     {
       "time": "17:19",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595275?source=rss",
       "publishedAt": "2026-09-14T08:19:32.000Z",
       "xQuery": "イオン爆発 事故調査委が現地調査"
-    },
-    {
-      "time": "17:05",
-      "title": "森衆院議長キーウ訪問 連帯表明へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595271?source=rss",
-      "publishedAt": "2026-09-14T08:05:55.000Z",
-      "xQuery": "森衆院議長キーウ訪問 連帯表明へ"
     },
     {
       "time": "16:43",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "玉城氏陣営 SNS中傷巡り告訴準備"
     },
     {
-      "time": "17:41",
-      "title": "楽天モバ「ID未連携で解約」撤回",
+      "time": "19:50",
+      "title": "やまゆり園職員が入所者虐待 認定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595279?source=rss",
-      "publishedAt": "2026-09-14T08:41:55.000Z",
-      "xQuery": "楽天モバ「ID未連携で解約」撤回"
+      "url": "https://news.yahoo.co.jp/pickup/6595288?source=rss",
+      "publishedAt": "2026-09-14T10:50:13.000Z",
+      "xQuery": "やまゆり園職員が入所者虐待 認定"
+    },
+    {
+      "time": "12:36",
+      "title": "ダウン症の子6年の生涯 CMに反響",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595245?source=rss",
+      "publishedAt": "2026-09-14T03:36:35.000Z",
+      "xQuery": "ダウン症の子6年の生涯 CMに反響"
     }
   ]
 };
