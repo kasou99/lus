@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T12:49:31.485Z",
+  "updatedAt": "2026-09-14T13:19:05.246Z",
   "items": [
     {
       "time": "20:19",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中部電の不正 経産相が厳しく批判"
     },
     {
-      "time": "16:57",
-      "title": "25年の災害で学習中断の子1.7億人",
+      "time": "20:12",
+      "title": "6歳不明から10日 捜索規模を縮小",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595274?source=rss",
-      "publishedAt": "2026-09-14T07:57:45.000Z",
-      "xQuery": "25年の災害で学習中断の子1.7億人"
+      "url": "https://news.yahoo.co.jp/pickup/6595290?source=rss",
+      "publishedAt": "2026-09-14T11:12:14.000Z",
+      "xQuery": "6歳不明から10日 捜索規模を縮小"
     },
     {
       "time": "19:50",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "やまゆり園職員が入所者虐待 認定"
     },
     {
-      "time": "20:30",
-      "title": "38社で1万1610人「国保逃れ」確認",
+      "time": "21:51",
+      "title": "光通信 レオパレス21にTOB実施",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595292?source=rss",
-      "publishedAt": "2026-09-14T11:30:02.000Z",
-      "xQuery": "38社で1万1610人「国保逃れ」確認"
+      "url": "https://news.yahoo.co.jp/pickup/6595298?source=rss",
+      "publishedAt": "2026-09-14T12:51:42.000Z",
+      "xQuery": "光通信 レオパレス21にTOB実施"
     },
     {
       "time": "21:03",
