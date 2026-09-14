@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T04:45:08.456Z",
+  "updatedAt": "2026-09-14T05:19:11.803Z",
   "items": [
+    {
+      "time": "13:58",
+      "title": "中継 データ不正巡り中部電が会見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595253?source=rss",
+      "publishedAt": "2026-09-14T04:58:23.000Z",
+      "xQuery": "中継 データ不正巡り中部電が会見"
+    },
     {
       "time": "12:08",
       "title": "交通事故「魔の7歳」巡り識者警鐘",
@@ -10,28 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "交通事故「魔の7歳」巡り識者警鐘"
     },
     {
-      "time": "11:47",
-      "title": "AI巡る懸念 トランプ氏は重視せず",
+      "time": "13:44",
+      "title": "沖縄知事選 得票差に古謝氏驚き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595235?source=rss",
-      "publishedAt": "2026-09-14T02:47:14.000Z",
-      "xQuery": "AI巡る懸念 トランプ氏は重視せず"
-    },
-    {
-      "time": "12:22",
-      "title": "中国で「はま寿司」急拡大 背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595241?source=rss",
-      "publishedAt": "2026-09-14T03:22:14.000Z",
-      "xQuery": "中国で「はま寿司」急拡大 背景"
-    },
-    {
-      "time": "12:46",
-      "title": "ANA機とタラップ車接触 福岡空港",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595248?source=rss",
-      "publishedAt": "2026-09-14T03:46:47.000Z",
-      "xQuery": "ANA機とタラップ車接触 福岡空港"
+      "url": "https://news.yahoo.co.jp/pickup/6595254?source=rss",
+      "publishedAt": "2026-09-14T04:44:37.000Z",
+      "xQuery": "沖縄知事選 得票差に古謝氏驚き"
     },
     {
       "time": "12:36",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595245?source=rss",
       "publishedAt": "2026-09-14T03:36:35.000Z",
       "xQuery": "ダウン症の子6年の生涯 CMに反響"
+    },
+    {
+      "time": "13:53",
+      "title": "ロマンスカーとコンバインが衝突",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595256?source=rss",
+      "publishedAt": "2026-09-14T04:53:49.000Z",
+      "xQuery": "ロマンスカーとコンバインが衝突"
     }
   ]
 };
