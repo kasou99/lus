@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T18:42:37.265Z",
+  "updatedAt": "2026-09-14T19:14:36.514Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,9 +10,16 @@
         "publishedAt": "2026-09-14T04:00:00.000Z"
       },
       {
+        "time": "22:57",
+        "title": "マーケット速報",
+        "source": "中日BIZナビ",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMEctcTRWOTlxNVAxR2pjYnR4ZDNKZlZ0RHB4YUdQbHAwa3ZJTzN3MDRPZTBXWVM4eHY3S2l1cVJHTW9iZ2VnLWYtc3VPT290TzBlSjdtaXRoQi1LLVVqZ0gyZ1pieHk2S1ZsOF9YM25GS21XQ0lwVTdYMURRUGdaR1FQZ0Nrd015XzBGWTJBNVk0eUdlY19EUlRsdnR3QlF6eXZOSDZhSFpoMlF0aUhKUm00MWhuVXFnOFNibU9R?oc=5",
+        "publishedAt": "2026-09-14T13:57:07.000Z"
+      },
+      {
         "time": "06:09",
-        "title": "7月工作機械５割プラス、歴代3位の記録に",
-        "source": "金属産業新聞",
+        "title": "7月工作機械５割プラス、歴代3位の記録に - neji-bane.jp",
+        "source": "neji-bane.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Lbm45TkhYdFVmRkFObnc3TFg2ZmlCbXFQRE1ZWU1pMk5idjZrQXdsUE5tQm1LdjBpaE8zZ1Z1TGV4d0VaR0lzWmpQODRLRTBPMDJQbjZyblo?oc=5",
         "publishedAt": "2026-09-13T21:09:30.000Z"
       },
@@ -24,11 +31,11 @@
         "publishedAt": "2026-09-14T09:00:00.000Z"
       },
       {
-        "time": "11:27",
-        "title": "マーケット速報",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeGtQVkhrYkJwdGpBZzU2S3hJRWRiaGRIaG9wU25lYmF6X0FWZUFQNC1BT19SNlBjNVRVMXladU5aWFQzVWJlZmRKUVIwYmtHak1GYzgwcDY0VFZWUWI0eDhsbnZTSU55RFpta3E3a3V2TEk1aGYzdXNhNF92cm5MMnhRU2ZnSXh5dDNKOHVQbXBLSWFrcUVOSXF0a0ZmUnJidWN4MWs2U05JZ0NkRWJ4RFdMS0QxdHA2Tmtr?oc=5",
-        "publishedAt": "2026-09-14T02:27:21.000Z"
+        "time": "20:18",
+        "title": "日立社員、第68次南極地域観測隊に選任",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xcHBTOGpjQnVDTWxCX1B3N0x5dWxBcnNjbFFRZHMyNE80eHc0bFJQQ0RPZmMxcFctUVlBal9wWlhMMGlTZGVNTVdsSFBYeHpVbTlpdF9oMEFfYUxNRDhsdUxGY3dpejgzUXIzV3pDaU02cDViXzZZQ2RENA?oc=5",
+        "publishedAt": "2026-09-14T11:18:10.000Z"
       },
       {
         "time": "10:41",
@@ -38,16 +45,9 @@
         "publishedAt": "2026-09-14T01:41:24.000Z"
       },
       {
-        "time": "20:18",
-        "title": "日立社員、第68次南極地域観測隊に選任",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xcHBTOGpjQnVDTWxCX1B3N0x5dWxBcnNjbFFRZHMyNE80eHc0bFJQQ0RPZmMxcFctUVlBal9wWlhMMGlTZGVNTVdsSFBYeHpVbTlpdF9oMEFfYUxNRDhsdUxGY3dpejgzUXIzV3pDaU02cDViXzZZQ2RENA?oc=5",
-        "publishedAt": "2026-09-14T11:18:10.000Z"
-      },
-      {
         "time": "21:00",
-        "title": "日本のAIデータセンター計画の光と影/日経平均続落・AI関連に売り｜NIKKEI NEWS NEXT - txbiz.tv-tokyo.co.jp",
-        "source": "txbiz.tv-tokyo.co.jp",
+        "title": "日本のAIデータセンター計画の光と影/日経平均続落・AI関連に売り｜NIKKEI NEWS NEXT",
+        "source": "テレ東BIZ",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ocXE4T0pQdGw4dUswWDFsQnAxaWY3bWQ1ZUlXMDd5SjlfRzVnYkhpaHFQVTNUSzdodHFaa3V4WEF0RGNMVllKanFDd0hCNzNxcXpseFd0TGxLY2RXb3VnanF1Yk02Zw?oc=5",
         "publishedAt": "2026-09-14T12:00:00.000Z"
       },
