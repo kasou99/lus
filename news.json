@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T08:28:29.239Z",
+  "updatedAt": "2026-09-14T08:48:33.901Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,17 +11,17 @@
       },
       {
         "time": "07:26",
-        "title": "7月工作機械５割プラス、歴代3位の記録に - neji-bane.jp",
-        "source": "neji-bane.jp",
+        "title": "7月工作機械５割プラス、歴代3位の記録に",
+        "source": "金属産業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Lbm45TkhYdFVmRkFObnc3TFg2ZmlCbXFQRE1ZWU1pMk5idjZrQXdsUE5tQm1LdjBpaE8zZ1Z1TGV4d0VaR0lzWmpQODRLRTBPMDJQbjZyblo?oc=5",
         "publishedAt": "2026-09-13T22:26:36.000Z"
       },
       {
-        "time": "10:57",
+        "time": "11:27",
         "title": "マーケット速報",
         "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSDNUVkJCVmRGWUw1VTAxTDVzaEJJRG44ZWs2RlV3RVNoX29JeHhfMFB4ZmxLcmNDU1hwT0Y1MEEwT2paU2J1V29nMEYxU1hlMVVDLXRVMkRfdlZPVktuU2doWG0wV1VqcF81Y3VHTlZ5bk5xeFNSSGFwd1JKRFRoTXY1QmtBU2ZRTVA5QkJqYUk4ckRSOEZCcGZ4ZGZWSF9qeE0xbEVERFRVQlBFRmN2dzI1akVWT216MHJr?oc=5",
-        "publishedAt": "2026-09-14T01:57:11.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeGtQVkhrYkJwdGpBZzU2S3hJRWRiaGRIaG9wU25lYmF6X0FWZUFQNC1BT19SNlBjNVRVMXladU5aWFQzVWJlZmRKUVIwYmtHak1GYzgwcDY0VFZWUWI0eDhsbnZTSU55RFpta3E3a3V2TEk1aGYzdXNhNF92cm5MMnhRU2ZnSXh5dDNKOHVQbXBLSWFrcUVOSXF0a0ZmUnJidWN4MWs2U05JZ0NkRWJ4RFdMS0QxdHA2Tmtr?oc=5",
+        "publishedAt": "2026-09-14T02:27:21.000Z"
       },
       {
         "time": "10:41",
@@ -38,13 +38,6 @@
         "publishedAt": "2026-09-14T03:03:36.000Z"
       },
       {
-        "time": "14:15",
-        "title": "日立社員、第68次南極地域観測隊に選任",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YNGljT2M1eUNSbnVlTjBIQ0luTTFxc2xRMzUxNVFLYl9tVExtYXRyNUtqcElkbGRnV0w2TzFrMEpLQXptUUdkWHR4TkVPenJhalVFaFRDV2M5c0VTSjk2OGhLRkE5c1ZoeFZ3Wi1xVThUV2NG?oc=5",
-        "publishedAt": "2026-09-14T05:15:00.000Z"
-      },
-      {
         "time": "18:17",
         "title": "誰もが暮らしやすい社会に",
         "source": "埼玉新聞",
@@ -54,9 +47,16 @@
       {
         "time": "18:17",
         "title": "誰もが暮らしやすい社会に 富山ジェンダー平等シンポ",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1cVpxMjgycERoUS1OekxUaElndnIwRy1WTDRsNzAyLXllRlRBX2NBT3JnOExRdDBBU3hLcVFiWXhwU3VfdjZjZFZUeVVJWWFSUVhDbEk5N0lLbDhCR3dES0w5WTZJUjB2X0syS0lNalBaeERZ0gF0QVVfeXFMUDVxWnEyODJwRGhRLU56TFRoSWd2cjBHLVZMNGw3MDIteWVGVEFfY0FPcmc4TFF0MEFTeEtxUWJZeHBTdV92NmNkVlR5VUlZYVJRWENsSTk3SUtsOEJHd0RLTDlZNklSMHZfSzJLSU1qUFp4RFk?oc=5",
         "publishedAt": "2026-09-13T09:17:30.000Z"
+      },
+      {
+        "time": "13:30",
+        "title": "溶接ロボットのダウンタイムを極小化「iWNBクラウド」を発売",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlYW13M2tTcW9uMlpxbE5aMmdaR0NHZ0l3Y19Cel9NSUlmdkI0Tkgyb0hpbnpfRlpMRV9fa0xaekNNdGlpN1ItQmpxY0c0WmJUZVR6akoxbEpPMjlmcG1aVVJhTWRULTQxVkVfa3lhaDB0dzVmazVkakpUNA?oc=5",
+        "publishedAt": "2026-09-14T04:30:38.000Z"
       }
     ],
     "worldHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }

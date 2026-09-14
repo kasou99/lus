@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T08:28:30.043Z",
+  "updatedAt": "2026-09-14T08:48:35.206Z",
   "items": [
+    {
+      "time": "17:19",
+      "title": "イオン爆発 事故調査委が現地調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595275?source=rss",
+      "publishedAt": "2026-09-14T08:19:32.000Z",
+      "xQuery": "イオン爆発 事故調査委が現地調査"
+    },
     {
       "time": "17:05",
       "title": "森衆院議長キーウ訪問 連帯表明へ",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "森衆院議長キーウ訪問 連帯表明へ"
     },
     {
-      "time": "13:24",
-      "title": "東北や北陸 土砂災害や浸水に注意",
+      "time": "16:43",
+      "title": "新たな台風発生へ 連休に影響恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595250?source=rss",
-      "publishedAt": "2026-09-14T04:24:20.000Z",
-      "xQuery": "東北や北陸 土砂災害や浸水に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6595273?source=rss",
+      "publishedAt": "2026-09-14T07:43:12.000Z",
+      "xQuery": "新たな台風発生へ 連休に影響恐れ"
     },
     {
       "time": "15:23",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595261?source=rss",
       "publishedAt": "2026-09-14T06:23:48.000Z",
       "xQuery": "閉山中の富士山 ヘリ救助有料化へ"
-    },
-    {
-      "time": "15:00",
-      "title": "佐川急便かたる不審電話 見分け方",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595257?source=rss",
-      "publishedAt": "2026-09-14T06:00:02.000Z",
-      "xQuery": "佐川急便かたる不審電話 見分け方"
     },
     {
       "time": "15:23",
