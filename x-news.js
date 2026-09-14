@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T03:45:25.108Z",
+  "updatedAt": "2026-09-14T04:23:00.559Z",
   "items": [
     {
       "time": "12:07",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "高市首相 沖縄新知事と「連携」"
     },
     {
-      "time": "11:54",
-      "title": "少年院に入る子ども増加傾向 背景",
+      "time": "11:47",
+      "title": "AI巡る懸念 トランプ氏は重視せず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595237?source=rss",
-      "publishedAt": "2026-09-14T02:54:47.000Z",
-      "xQuery": "少年院に入る子ども増加傾向 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6595235?source=rss",
+      "publishedAt": "2026-09-14T02:47:14.000Z",
+      "xQuery": "AI巡る懸念 トランプ氏は重視せず"
+    },
+    {
+      "time": "12:46",
+      "title": "ANA機とタラップ車接触 福岡空港",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595248?source=rss",
+      "publishedAt": "2026-09-14T03:46:47.000Z",
+      "xQuery": "ANA機とタラップ車接触 福岡空港"
     },
     {
       "time": "12:36",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595245?source=rss",
       "publishedAt": "2026-09-14T03:36:35.000Z",
       "xQuery": "ダウン症の子6年の生涯 CMに反響"
-    },
-    {
-      "time": "11:55",
-      "title": "とうもろこし「もろ活」SNS話題",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595240?source=rss",
-      "publishedAt": "2026-09-14T02:55:00.000Z",
-      "xQuery": "とうもろこし「もろ活」SNS話題"
     }
   ]
 };

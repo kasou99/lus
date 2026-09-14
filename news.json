@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T03:45:24.255Z",
+  "updatedAt": "2026-09-14T04:22:59.872Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,16 +12,9 @@
       {
         "time": "10:26",
         "title": "マーケット速報",
-        "source": "中日BIZナビ",
+        "source": "biz.chunichi.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXBMWVN1alhmM3R2cnljQU4tZ2xiTFBUdi02eFpucUZpQm1rWTlVNmRGWlI2bFg5cWNESlkxb21mVVNjUFVrbWJ0akFwV0FseWhPcm9jb3paanNKQXMxZDdKQWNNUUtRcVhrUk9lMjVuTjBxM09XWUlESGc3R043cm5NNXl4TXMxVGlsZ2JRbEV0Rmtwd2Q1Z29NUjFjOENSMTk2VzRIZ0dxTTk3ekV2bk9jTjhCZmZEYVpr?oc=5",
         "publishedAt": "2026-09-14T01:26:08.000Z"
-      },
-      {
-        "time": "13:00",
-        "title": "スピンドルユニットの世界市場（2026年～2032年）、市場規模（ギア式、ベルト式、ダイレクトドライブ式、電動スピンドルユニット、その他）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41QjhGZWIwTjdLU053N3NaektfU2kwNUZDQ05jamo3N1Q0UVJ5MGJidEFISXFxXzRnbmZqSnpERUp5SE1TNVRWTEhsTEFvZEE?oc=5",
-        "publishedAt": "2026-09-13T04:00:00.000Z"
       },
       {
         "time": "12:03",
@@ -31,11 +24,25 @@
         "publishedAt": "2026-09-14T03:03:36.000Z"
       },
       {
-        "time": "18:17",
+        "time": "18:55",
         "title": "誰もが暮らしやすい社会に 富山ジェンダー平等シンポ",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1cVpxMjgycERoUS1OekxUaElndnIwRy1WTDRsNzAyLXllRlRBX2NBT3JnOExRdDBBU3hLcVFiWXhwU3VfdjZjZFZUeVVJWWFSUVhDbEk5N0lLbDhCR3dES0w5WTZJUjB2X0syS0lNalBaeERZ0gF0QVVfeXFMUDVxWnEyODJwRGhRLU56TFRoSWd2cjBHLVZMNGw3MDIteWVGVEFfY0FPcmc4TFF0MEFTeEtxUWJZeHBTdV92NmNkVlR5VUlZYVJRWENsSTk3SUtsOEJHd0RLTDlZNklSMHZfSzJLSU1qUFp4RFk?oc=5",
-        "publishedAt": "2026-09-13T09:17:30.000Z"
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9paTJNcmlDaUlxM2Y3R0xfMnhPcUtDbnVaSHdFMmZrRjRCaGVDSHlzODVLWlJZSVc3RlhJZUlXODBrb0xaclN0RjRyUHlVWFZHd0Y1cldEQnBFWnhWU0JhZU9jZVdnYzRZUFRON2tGenpyV3c?oc=5",
+        "publishedAt": "2026-09-13T09:55:00.000Z"
+      },
+      {
+        "time": "13:06",
+        "title": "日立社員、第68次南極地域観測隊に選任：デジタル：日立",
+        "source": "Hitachi Global",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KaGl6b05nTTg4MlBiN3lpbjVHZ3lGZzVleEQ4VGJZdUYwUUJMM1FTa2MybEE4N0NZRERfdVRpVkQ4eDgwc0hLR0ZBYWRJLWpXVzdGcTFudGRxWHNkWU4wcWtDekRuSG1xTnFpRFlLY2tyMWxrYkxpZ09OVUQ2THM?oc=5",
+        "publishedAt": "2026-09-14T04:06:32.000Z"
+      },
+      {
+        "time": "13:00",
+        "title": "産業用CNCフライスヘッドの世界市場（2026年～2032年）、市場規模（軽量、重量）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwTjVKUGRuTTdMUU9adjd6RE1YS2VrVkFyZTNXSGZVNGlxbnJPUWMzbXVsZk1KYmRHcDExNGZtQUowak1FN1hZWVl1QnNsQzQ?oc=5",
+        "publishedAt": "2026-09-14T04:00:00.000Z"
       },
       {
         "time": "12:07",
@@ -43,13 +50,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595243?source=rss",
         "publishedAt": "2026-09-14T03:07:05.000Z"
-      },
-      {
-        "time": "09:09",
-        "title": "NY原油が上昇 供給停滞に懸念",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595222?source=rss",
-        "publishedAt": "2026-09-14T00:09:21.000Z"
       },
       {
         "time": "20:12",
@@ -112,13 +112,6 @@
         "publishedAt": "2026-09-14T03:07:05.000Z"
       },
       {
-        "time": "09:09",
-        "title": "NY原油が上昇 供給停滞に懸念",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595222?source=rss",
-        "publishedAt": "2026-09-14T00:09:21.000Z"
-      },
-      {
         "time": "20:12",
         "title": "日銀の利上げ公算大 家計への影響",
         "source": "Yahoo!ニュース",
@@ -126,18 +119,25 @@
         "publishedAt": "2026-09-13T11:12:49.000Z"
       },
       {
+        "time": "12:46",
+        "title": "ANA機とタラップ車接触 福岡空港",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595248?source=rss",
+        "publishedAt": "2026-09-14T03:46:47.000Z"
+      },
+      {
+        "time": "13:03",
+        "title": "ガソスタ廃業加速 自治体どう支援",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595231?source=rss",
+        "publishedAt": "2026-09-14T04:03:52.000Z"
+      },
+      {
         "time": "17:56",
         "title": "オープンAIのCEO 年内IPOを否定",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595170?source=rss",
         "publishedAt": "2026-09-13T08:56:29.000Z"
-      },
-      {
-        "time": "17:41",
-        "title": "景気拡大 企業と家計の「明暗」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595168?source=rss",
-        "publishedAt": "2026-09-13T08:41:52.000Z"
       },
       {
         "time": "12:22",
