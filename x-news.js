@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T03:23:56.469Z",
+  "updatedAt": "2026-09-14T03:45:25.108Z",
   "items": [
     {
       "time": "12:07",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "高市首相 沖縄新知事と「連携」"
     },
     {
-      "time": "08:17",
-      "title": "日本海側 激しい雨や落雷に注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595217?source=rss",
-      "publishedAt": "2026-09-13T23:17:43.000Z",
-      "xQuery": "日本海側 激しい雨や落雷に注意"
-    },
-    {
       "time": "11:54",
       "title": "少年院に入る子ども増加傾向 背景",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "少年院に入る子ども増加傾向 背景"
     },
     {
-      "time": "10:19",
-      "title": "抗議の退社 AI開発に懸念相次ぐ",
+      "time": "12:36",
+      "title": "ダウン症の子6年の生涯 CMに反響",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595226?source=rss",
-      "publishedAt": "2026-09-14T01:19:50.000Z",
-      "xQuery": "抗議の退社 AI開発に懸念相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6595245?source=rss",
+      "publishedAt": "2026-09-14T03:36:35.000Z",
+      "xQuery": "ダウン症の子6年の生涯 CMに反響"
+    },
+    {
+      "time": "11:55",
+      "title": "とうもろこし「もろ活」SNS話題",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595240?source=rss",
+      "publishedAt": "2026-09-14T02:55:00.000Z",
+      "xQuery": "とうもろこし「もろ活」SNS話題"
     }
   ]
 };
