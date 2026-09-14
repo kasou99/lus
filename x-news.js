@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T13:40:27.684Z",
+  "updatedAt": "2026-09-14T14:20:11.991Z",
   "items": [
     {
-      "time": "20:19",
-      "title": "中部電の不正 経産相が厳しく批判",
+      "time": "22:41",
+      "title": "高市氏の人事調整 林氏の処遇焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595291?source=rss",
-      "publishedAt": "2026-09-14T11:19:16.000Z",
-      "xQuery": "中部電の不正 経産相が厳しく批判"
+      "url": "https://news.yahoo.co.jp/pickup/6595302?source=rss",
+      "publishedAt": "2026-09-14T13:41:47.000Z",
+      "xQuery": "高市氏の人事調整 林氏の処遇焦点"
+    },
+    {
+      "time": "22:32",
+      "title": "AIの開発ペース「減速」は可能?",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595300?source=rss",
+      "publishedAt": "2026-09-14T13:32:01.000Z",
+      "xQuery": "AIの開発ペース「減速」は可能?"
     },
     {
       "time": "20:12",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595290?source=rss",
       "publishedAt": "2026-09-14T11:12:14.000Z",
       "xQuery": "6歳不明から10日 捜索規模を縮小"
-    },
-    {
-      "time": "19:50",
-      "title": "やまゆり園職員が入所者虐待 認定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595288?source=rss",
-      "publishedAt": "2026-09-14T10:50:13.000Z",
-      "xQuery": "やまゆり園職員が入所者虐待 認定"
     },
     {
       "time": "21:51",
