@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T11:17:02.374Z",
+  "updatedAt": "2026-09-14T11:38:07.831Z",
   "items": [
     {
-      "time": "17:19",
-      "title": "イオン爆発 事故調査委が現地調査",
+      "time": "20:19",
+      "title": "中部電の不正 経産相が厳しく批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595275?source=rss",
-      "publishedAt": "2026-09-14T08:19:32.000Z",
-      "xQuery": "イオン爆発 事故調査委が現地調査"
+      "url": "https://news.yahoo.co.jp/pickup/6595291?source=rss",
+      "publishedAt": "2026-09-14T11:19:16.000Z",
+      "xQuery": "中部電の不正 経産相が厳しく批判"
     },
     {
-      "time": "16:43",
-      "title": "新たな台風発生へ 連休に影響恐れ",
+      "time": "16:57",
+      "title": "25年の災害で学習中断の子1.7億人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595273?source=rss",
-      "publishedAt": "2026-09-14T07:43:12.000Z",
-      "xQuery": "新たな台風発生へ 連休に影響恐れ"
-    },
-    {
-      "time": "18:21",
-      "title": "玉城氏陣営 SNS中傷巡り告訴準備",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595280?source=rss",
-      "publishedAt": "2026-09-14T09:21:29.000Z",
-      "xQuery": "玉城氏陣営 SNS中傷巡り告訴準備"
+      "url": "https://news.yahoo.co.jp/pickup/6595274?source=rss",
+      "publishedAt": "2026-09-14T07:57:45.000Z",
+      "xQuery": "25年の災害で学習中断の子1.7億人"
     },
     {
       "time": "19:50",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595245?source=rss",
       "publishedAt": "2026-09-14T03:36:35.000Z",
       "xQuery": "ダウン症の子6年の生涯 CMに反響"
+    },
+    {
+      "time": "20:30",
+      "title": "38社で1万1610人「国保逃れ」確認",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595292?source=rss",
+      "publishedAt": "2026-09-14T11:30:02.000Z",
+      "xQuery": "38社で1万1610人「国保逃れ」確認"
     }
   ]
 };
