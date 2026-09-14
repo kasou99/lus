@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T20:36:41.846Z",
+  "updatedAt": "2026-09-14T21:14:25.785Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-09-14T09:00:00.000Z"
       },
       {
-        "time": "06:09",
-        "title": "7月工作機械５割プラス、歴代3位の記録に",
-        "source": "金属産業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Lbm45TkhYdFVmRkFObnc3TFg2ZmlCbXFQRE1ZWU1pMk5idjZrQXdsUE5tQm1LdjBpaE8zZ1Z1TGV4d0VaR0lzWmpQODRLRTBPMDJQbjZyblo?oc=5",
-        "publishedAt": "2026-09-13T21:09:30.000Z"
-      },
-      {
-        "time": "11:27",
+        "time": "11:30",
         "title": "マーケット速報",
         "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeGtQVkhrYkJwdGpBZzU2S3hJRWRiaGRIaG9wU25lYmF6X0FWZUFQNC1BT19SNlBjNVRVMXladU5aWFQzVWJlZmRKUVIwYmtHak1GYzgwcDY0VFZWUWI0eDhsbnZTSU55RFpta3E3a3V2TEk1aGYzdXNhNF92cm5MMnhRU2ZnSXh5dDNKOHVQbXBLSWFrcUVOSXF0a0ZmUnJidWN4MWs2U05JZ0NkRWJ4RFdMS0QxdHA2Tmtr?oc=5",
-        "publishedAt": "2026-09-14T02:27:21.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczlKeVRxcHo1OUZUVk43NlZpM2dVaDNZeGczNnNOM1hjUnFUejNzZEttVEY2aGQ3WFRkRGR4NjFreGItekRUVGk2N0UyLS16c29LNXhIQWQxQkNsekNRMEE5TFZtQ1lJOFJFenNjOHdtRUpZUzR0MDVJQ0YxaHczV2x1aE1JdjhUWHlDUGM4V2x1TkFCNjFkSFg3OEhoTkFvWml6LTNCMW9kQmlqM2VIUnRDOTlpRlN6V2pB?oc=5",
+        "publishedAt": "2026-09-14T02:30:16.000Z"
+      },
+      {
+        "time": "08:57",
+        "title": "海外大手企業の受注が過去最高を記録し、世界の工作機械業界は新たな上昇局面に入っています。",
+        "source": "Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHhEZ1U4Z3ZCVHRWTWNHX1NIbnRZR3VzVW9yVWs1Q1ZQd0NzRnNucUdfRUg3cjh3RTVQaWF2eTAxNkE1ajlXYk9pSEIyMWtENDVKUmZ1SldVUUZhN0VQQ2V5NnF1RzV3NTlDOFA2VHVLcFdNeWxmSkx4MWlRdTNXbUxzNzBzdDFFeWVlcUlSbVdmakc3SEpjODFIWWFtWFgxMzRVM2tlYS1aVURIeldZ?oc=5",
+        "publishedAt": "2026-09-13T23:57:50.000Z"
       },
       {
         "time": "10:41",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "06:09",
+        "title": "ケーキ店火災「腹殴られた」証言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595305?source=rss",
+        "publishedAt": "2026-09-14T21:09:10.000Z"
+      },
+      {
         "time": "18:21",
         "title": "玉城氏陣営 SNS中傷巡り告訴準備",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595261?source=rss",
         "publishedAt": "2026-09-14T06:23:48.000Z"
-      },
-      {
-        "time": "12:36",
-        "title": "ダウン症の子6年の生涯 CMに反響",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595245?source=rss",
-        "publishedAt": "2026-09-14T03:36:35.000Z"
       }
     ],
     "subsidyHeadlines": [

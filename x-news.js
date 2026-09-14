@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T20:36:42.706Z",
+  "updatedAt": "2026-09-14T21:14:26.526Z",
   "items": [
     {
       "time": "22:41",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "AIの開発ペース「減速」は可能?"
     },
     {
+      "time": "06:09",
+      "title": "ケーキ店火災「腹殴られた」証言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595305?source=rss",
+      "publishedAt": "2026-09-14T21:09:10.000Z",
+      "xQuery": "ケーキ店火災「腹殴られた」証言"
+    },
+    {
       "time": "22:00",
       "title": "辺野古転覆 引率教師語る「胸中」",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595298?source=rss",
       "publishedAt": "2026-09-14T12:51:42.000Z",
       "xQuery": "光通信 レオパレス21にTOB実施"
-    },
-    {
-      "time": "21:03",
-      "title": "タイ 邦人のビザなし滞在期間短縮",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595293?source=rss",
-      "publishedAt": "2026-09-14T12:03:59.000Z",
-      "xQuery": "タイ 邦人のビザなし滞在期間短縮"
     }
   ]
 };
