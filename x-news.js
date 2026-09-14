@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T09:25:11.166Z",
+  "updatedAt": "2026-09-14T09:43:51.633Z",
   "items": [
     {
       "time": "17:19",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "新たな台風発生へ 連休に影響恐れ"
     },
     {
-      "time": "15:23",
-      "title": "閉山中の富士山 ヘリ救助有料化へ",
+      "time": "18:21",
+      "title": "玉城氏陣営 SNS中傷巡り告訴準備",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595261?source=rss",
-      "publishedAt": "2026-09-14T06:23:48.000Z",
-      "xQuery": "閉山中の富士山 ヘリ救助有料化へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595280?source=rss",
+      "publishedAt": "2026-09-14T09:21:29.000Z",
+      "xQuery": "玉城氏陣営 SNS中傷巡り告訴準備"
     },
     {
       "time": "17:41",
