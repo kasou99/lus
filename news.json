@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-14T21:14:25.785Z",
+  "updatedAt": "2026-09-14T21:37:30.819Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "工作機械、米で拠点拡充 製造業回帰、AI・DC向け照準",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ea2I5a3JFZmp4TmRpYUF6N0JGZHZjWWZyZFAyMVJNcWhFbE1zVXU2cUV3azk5bDBuOVpKQWVEaUNvVkNINENZUDR0NFotelV6eXBWM0cySW4?oc=5",
+        "publishedAt": "2026-09-14T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "「六価クロム」使わぬ研削盤 ジェイテクト：地域ニュース",
+        "source": "読売新聞",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kNFlOVGlwZW03dDk0TTNUbjB2cHR3Q2lfUTZtSGFfSE5qS01QbkU0Y3UyWUllR1B2Q1c3cnI4UWpGUy0xOUNFMFNGUEhyQTVvcEFJb0hrV2tPcEE4czlhaDJCeXdwT1lQcUJIZVR4cHI?oc=5",
+        "publishedAt": "2026-09-14T20:00:00.000Z"
+      },
       {
         "time": "05:00",
         "title": "改革に挑む中部企業 松井機工 少数精鋭、多能工化を推進 全社員で設備保全活動 機械30台全て点検突発故障を大きく削減",
@@ -17,18 +31,18 @@
         "publishedAt": "2026-09-14T04:00:00.000Z"
       },
       {
-        "time": "18:00",
-        "title": "モーターフィードバック用磁気エンコーダの世界市場（2026年～2032年）、市場規模（インクリメンタル磁気エンコーダ、アブソリュート磁気エンコーダ）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MeV9rS2UwbHg2S29QQkxVUXZyNHhmakFvMXo3d3g4d1dITmNBdFV1bTBEcUk4ak9oSGxpckdTdG1tZUlyR3BaXzJxTlFvSkE?oc=5",
-        "publishedAt": "2026-09-14T09:00:00.000Z"
+        "time": "22:57",
+        "title": "マーケット速報",
+        "source": "biz.chunichi.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMEctcTRWOTlxNVAxR2pjYnR4ZDNKZlZ0RHB4YUdQbHAwa3ZJTzN3MDRPZTBXWVM4eHY3S2l1cVJHTW9iZ2VnLWYtc3VPT290TzBlSjdtaXRoQi1LLVVqZ0gyZ1pieHk2S1ZsOF9YM25GS21XQ0lwVTdYMURRUGdaR1FQZ0Nrd015XzBGWTJBNVk0eUdlY19EUlRsdnR3QlF6eXZOSDZhSFpoMlF0aUhKUm00MWhuVXFnOFNibU9R?oc=5",
+        "publishedAt": "2026-09-14T13:57:07.000Z"
       },
       {
-        "time": "11:30",
-        "title": "マーケット速報",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczlKeVRxcHo1OUZUVk43NlZpM2dVaDNZeGczNnNOM1hjUnFUejNzZEttVEY2aGQ3WFRkRGR4NjFreGItekRUVGk2N0UyLS16c29LNXhIQWQxQkNsekNRMEE5TFZtQ1lJOFJFenNjOHdtRUpZUzR0MDVJQ0YxaHczV2x1aE1JdjhUWHlDUGM4V2x1TkFCNjFkSFg3OEhoTkFvWml6LTNCMW9kQmlqM2VIUnRDOTlpRlN6V2pB?oc=5",
-        "publishedAt": "2026-09-14T02:30:16.000Z"
+        "time": "18:00",
+        "title": "モーターフィードバック用磁気エンコーダの世界市場（2026年～2032年）、市場規模（インクリメンタル磁気エンコーダ、アブソリュート磁気エンコーダ）・分析レポートを発表",
+        "source": "newscast.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MeV9rS2UwbHg2S29QQkxVUXZyNHhmakFvMXo3d3g4d1dITmNBdFV1bTBEcUk4ak9oSGxpckdTdG1tZUlyR3BaXzJxTlFvSkE?oc=5",
+        "publishedAt": "2026-09-14T09:00:00.000Z"
       },
       {
         "time": "08:57",
@@ -43,20 +57,6 @@
         "source": "四季報オンライン",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qUEJjV2VrWmtrVmxXcEV1T2tSWWpEazNXcURGcmJLWGN6akJ6UnJ0N0hzVGRqVktKRkMwMzVTWGFPYlFQRjhCOFFGV1dkR1JoRERwV2NQTQ?oc=5",
         "publishedAt": "2026-09-14T01:41:24.000Z"
-      },
-      {
-        "time": "20:18",
-        "title": "日立社員、第68次南極地域観測隊に選任",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xcHBTOGpjQnVDTWxCX1B3N0x5dWxBcnNjbFFRZHMyNE80eHc0bFJQQ0RPZmMxcFctUVlBal9wWlhMMGlTZGVNTVdsSFBYeHpVbTlpdF9oMEFfYUxNRDhsdUxGY3dpejgzUXIzV3pDaU02cDViXzZZQ2RENA?oc=5",
-        "publishedAt": "2026-09-14T11:18:10.000Z"
-      },
-      {
-        "time": "21:00",
-        "title": "日本のAIデータセンター計画の光と影/日経平均続落・AI関連に売り｜NIKKEI NEWS NEXT",
-        "source": "テレ東BIZ",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ocXE4T0pQdGw4dUswWDFsQnAxaWY3bWQ1ZUlXMDd5SjlfRzVnYkhpaHFQVTNUSzdodHFaa3V4WEF0RGNMVllKanFDd0hCNzNxcXpseFd0TGxLY2RXb3VnanF1Yk02Zw?oc=5",
-        "publishedAt": "2026-09-14T12:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "06:23",
+        "title": "プルデンシャル 顧客情報漏えい",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595306?source=rss",
+        "publishedAt": "2026-09-14T21:23:15.000Z"
+      },
+      {
         "time": "20:19",
         "title": "中部電の不正 経産相が厳しく批判",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595292?source=rss",
         "publishedAt": "2026-09-14T11:30:02.000Z"
-      },
-      {
-        "time": "12:46",
-        "title": "ANA機とタラップ車接触 福岡空港",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595248?source=rss",
-        "publishedAt": "2026-09-14T03:46:47.000Z"
       },
       {
         "time": "15:00",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T21:14:26.526Z",
+  "updatedAt": "2026-09-14T21:37:31.937Z",
   "items": [
     {
       "time": "22:41",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店火災「腹殴られた」証言"
     },
     {
-      "time": "22:00",
-      "title": "辺野古転覆 引率教師語る「胸中」",
+      "time": "06:23",
+      "title": "プルデンシャル 顧客情報漏えい",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595299?source=rss",
-      "publishedAt": "2026-09-14T13:00:10.000Z",
-      "xQuery": "辺野古転覆 引率教師語る「胸中」"
+      "url": "https://news.yahoo.co.jp/pickup/6595306?source=rss",
+      "publishedAt": "2026-09-14T21:23:15.000Z",
+      "xQuery": "プルデンシャル 顧客情報漏えい"
     },
     {
       "time": "21:51",
