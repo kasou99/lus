@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T08:48:35.206Z",
+  "updatedAt": "2026-09-14T09:25:11.166Z",
   "items": [
     {
       "time": "17:19",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "閉山中の富士山 ヘリ救助有料化へ"
     },
     {
-      "time": "15:23",
-      "title": "中学生だけでの入店を拒否 違法?",
+      "time": "17:41",
+      "title": "楽天モバ「ID未連携で解約」撤回",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595260?source=rss",
-      "publishedAt": "2026-09-14T06:23:13.000Z",
-      "xQuery": "中学生だけでの入店を拒否 違法?"
+      "url": "https://news.yahoo.co.jp/pickup/6595279?source=rss",
+      "publishedAt": "2026-09-14T08:41:55.000Z",
+      "xQuery": "楽天モバ「ID未連携で解約」撤回"
     }
   ]
 };
