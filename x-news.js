@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T05:40:33.030Z",
+  "updatedAt": "2026-09-14T06:40:20.712Z",
   "items": [
     {
       "time": "14:27",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "浜岡原発 再稼働の申請取り下げ"
     },
     {
-      "time": "13:58",
-      "title": "中継 データ不正巡り中部電が会見",
+      "time": "13:03",
+      "title": "ガソスタ廃業加速 自治体どう支援",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595253?source=rss",
-      "publishedAt": "2026-09-14T04:58:23.000Z",
-      "xQuery": "中継 データ不正巡り中部電が会見"
+      "url": "https://news.yahoo.co.jp/pickup/6595231?source=rss",
+      "publishedAt": "2026-09-14T04:03:52.000Z",
+      "xQuery": "ガソスタ廃業加速 自治体どう支援"
     },
     {
       "time": "13:44",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "沖縄知事選 得票差に古謝氏驚き"
     },
     {
-      "time": "12:36",
-      "title": "ダウン症の子6年の生涯 CMに反響",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595245?source=rss",
-      "publishedAt": "2026-09-14T03:36:35.000Z",
-      "xQuery": "ダウン症の子6年の生涯 CMに反響"
-    },
-    {
       "time": "13:53",
       "title": "ロマンスカーとコンバインが衝突",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595256?source=rss",
       "publishedAt": "2026-09-14T04:53:49.000Z",
       "xQuery": "ロマンスカーとコンバインが衝突"
+    },
+    {
+      "time": "15:23",
+      "title": "中学生だけでの入店を拒否 違法?",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595260?source=rss",
+      "publishedAt": "2026-09-14T06:23:13.000Z",
+      "xQuery": "中学生だけでの入店を拒否 違法?"
     }
   ]
 };

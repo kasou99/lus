@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T05:40:32.257Z",
+  "updatedAt": "2026-09-14T06:40:19.696Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-09-13T22:26:36.000Z"
       },
       {
-        "time": "10:24",
+        "time": "10:57",
         "title": "マーケット速報",
         "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdEpOYTNZYmIwWWpzNEpRM0pHYWl1ZW9JYnNobGlPSGtCdzM3bUNjUXhQT1c1TF80eEJRLVBya2ZlNlRjYWRRbllCejhGMWRXYkpaZkk5MTdIdWVybWRRZWJXT2JUeWxRbEVCMHN5b21lYm1xdXpQcTRNd0Jadm83bmhsRWhzWVVKZWFRUmR1eTNkV09kalJwVG9hLUZtVHVKNHdhWk9fLXN1cjBJMFZ6bjJtRGV4YktSZFlJ?oc=5",
-        "publishedAt": "2026-09-14T01:24:36.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSDNUVkJCVmRGWUw1VTAxTDVzaEJJRG44ZWs2RlV3RVNoX29JeHhfMFB4ZmxLcmNDU1hwT0Y1MEEwT2paU2J1V29nMEYxU1hlMVVDLXRVMkRfdlZPVktuU2doWG0wV1VqcF81Y3VHTlZ5bk5xeFNSSGFwd1JKRFRoTXY1QmtBU2ZRTVA5QkJqYUk4ckRSOEZCcGZ4ZGZWSF9qeE0xbEVERFRVQlBFRmN2dzI1akVWT216MHJr?oc=5",
+        "publishedAt": "2026-09-14T01:57:11.000Z"
       },
       {
         "time": "10:41",
@@ -29,6 +29,13 @@
         "source": "四季報オンライン",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qUEJjV2VrWmtrVmxXcEV1T2tSWWpEazNXcURGcmJLWGN6akJ6UnJ0N0hzVGRqVktKRkMwMzVTWGFPYlFQRjhCOFFGV1dkR1JoRERwV2NQTQ?oc=5",
         "publishedAt": "2026-09-14T01:41:24.000Z"
+      },
+      {
+        "time": "14:28",
+        "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
+        "source": "sannichi.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MazlnOWhXaUJhOXpaSklUd1JEQ1g1QXFxQk54b1hITGQ1cWpDYjJvNlFUdEFBTlItdkNzQVUxRE41T0VobWZwcGdHN3RvazdrTXZXZHVMbENtOTdWRFJOVUxjZw?oc=5",
+        "publishedAt": "2026-09-14T05:28:17.000Z"
       },
       {
         "time": "12:03",
@@ -50,13 +57,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1cVpxMjgycERoUS1OekxUaElndnIwRy1WTDRsNzAyLXllRlRBX2NBT3JnOExRdDBBU3hLcVFiWXhwU3VfdjZjZFZUeVVJWWFSUVhDbEk5N0lLbDhCR3dES0w5WTZJUjB2X0syS0lNalBaeERZ0gF0QVVfeXFMUDVxWnEyODJwRGhRLU56TFRoSWd2cjBHLVZMNGw3MDIteWVGVEFfY0FPcmc4TFF0MEFTeEtxUWJZeHBTdV92NmNkVlR5VUlZYVJRWENsSTk3SUtsOEJHd0RLTDlZNklSMHZfSzJLSU1qUFp4RFk?oc=5",
         "publishedAt": "2026-09-13T09:17:30.000Z"
-      },
-      {
-        "time": "13:06",
-        "title": "日立社員、第68次南極地域観測隊に選任：デジタル：日立",
-        "source": "Hitachi Global",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KaGl6b05nTTg4MlBiN3lpbjVHZ3lGZzVleEQ4VGJZdUYwUUJMM1FTa2MybEE4N0NZRERfdVRpVkQ4eDgwc0hLR0ZBYWRJLWpXVzdGcTFudGRxWHNkWU4wcWtDekRuSG1xTnFpRFlLY2tyMWxrYkxpZ09OVUQ2THM?oc=5",
-        "publishedAt": "2026-09-14T04:06:32.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "13:58",
-        "title": "中継 データ不正巡り中部電が会見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595253?source=rss",
-        "publishedAt": "2026-09-14T04:58:23.000Z"
-      },
-      {
         "time": "14:27",
         "title": "浜岡原発 再稼働の申請取り下げ",
         "source": "Yahoo!ニュース",
@@ -126,13 +119,6 @@
         "publishedAt": "2026-09-14T03:07:05.000Z"
       },
       {
-        "time": "20:12",
-        "title": "日銀の利上げ公算大 家計への影響",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595177?source=rss",
-        "publishedAt": "2026-09-13T11:12:49.000Z"
-      },
-      {
         "time": "12:46",
         "title": "ANA機とタラップ車接触 福岡空港",
         "source": "Yahoo!ニュース",
@@ -145,6 +131,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595231?source=rss",
         "publishedAt": "2026-09-14T04:03:52.000Z"
+      },
+      {
+        "time": "15:00",
+        "title": "佐川急便かたる不審電話 見分け方",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595257?source=rss",
+        "publishedAt": "2026-09-14T06:00:02.000Z"
+      },
+      {
+        "time": "15:32",
+        "title": "「パスタ市場」競争さらに活発に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595263?source=rss",
+        "publishedAt": "2026-09-14T06:32:34.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-14T02:15:15.000Z"
       },
       {
+        "time": "15:23",
+        "title": "閉山中の富士山 ヘリ救助有料化へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595261?source=rss",
+        "publishedAt": "2026-09-14T06:23:48.000Z"
+      },
+      {
         "time": "07:16",
         "title": "ケーキ店主の死因 熱傷性ショック",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595208?source=rss",
         "publishedAt": "2026-09-13T22:16:28.000Z"
-      },
-      {
-        "time": "10:20",
-        "title": "工場でガス爆発か 従業員3人けが",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595228?source=rss",
-        "publishedAt": "2026-09-14T01:20:11.000Z"
       }
     ],
     "subsidyHeadlines": [
