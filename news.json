@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T14:41:36.957Z",
+  "updatedAt": "2026-09-14T15:18:27.887Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -40,9 +40,16 @@
       {
         "time": "10:41",
         "title": "北川鉄工所がストップ高気配､27年3月期業績･配当予想を増額",
-        "source": "四季報オンライン",
+        "source": "shikiho.toyokeizai.net",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qUEJjV2VrWmtrVmxXcEV1T2tSWWpEazNXcURGcmJLWGN6akJ6UnJ0N0hzVGRqVktKRkMwMzVTWGFPYlFQRjhCOFFGV1dkR1JoRERwV2NQTQ?oc=5",
         "publishedAt": "2026-09-14T01:41:24.000Z"
+      },
+      {
+        "time": "21:00",
+        "title": "日本のAIデータセンター計画の光と影/日経平均続落・AI関連に売り｜NIKKEI NEWS NEXT",
+        "source": "テレ東BIZ",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ocXE4T0pQdGw4dUswWDFsQnAxaWY3bWQ1ZUlXMDd5SjlfRzVnYkhpaHFQVTNUSzdodHFaa3V4WEF0RGNMVllKanFDd0hCNzNxcXpseFd0TGxLY2RXb3VnanF1Yk02Zw?oc=5",
+        "publishedAt": "2026-09-14T12:00:00.000Z"
       },
       {
         "time": "13:00",
@@ -50,13 +57,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwTjVKUGRuTTdMUU9adjd6RE1YS2VrVkFyZTNXSGZVNGlxbnJPUWMzbXVsZk1KYmRHcDExNGZtQUowak1FN1hZWVl1QnNsQzQ?oc=5",
         "publishedAt": "2026-09-14T04:00:00.000Z"
-      },
-      {
-        "time": "12:03",
-        "title": "精密工具市場は2035年に4002億9000万米ドルへ｜CAGR 5.3％、製造業の高精度化と次世代加工技術が市場成長を加速",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pODRXbkhqYXM2TmtUdXdHV2VfTHViTzVCYlJTdEZxNGxFeHREcm5La1hxbkxBQm4xZnFuN20tOERnd2tBcXNjQnBubFJxRHl4dUppV0xIdl9xbU5FMThEVHN6R2t3TThl?oc=5",
-        "publishedAt": "2026-09-14T03:03:36.000Z"
       }
     ],
     "worldHeadlines": [

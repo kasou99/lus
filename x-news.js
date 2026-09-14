@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T14:41:37.887Z",
+  "updatedAt": "2026-09-14T15:18:28.571Z",
   "items": [
     {
       "time": "22:41",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "AIの開発ペース「減速」は可能?"
     },
     {
-      "time": "20:12",
-      "title": "6歳不明から10日 捜索規模を縮小",
+      "time": "22:00",
+      "title": "辺野古転覆 引率教師語る「胸中」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595290?source=rss",
-      "publishedAt": "2026-09-14T11:12:14.000Z",
-      "xQuery": "6歳不明から10日 捜索規模を縮小"
+      "url": "https://news.yahoo.co.jp/pickup/6595299?source=rss",
+      "publishedAt": "2026-09-14T13:00:10.000Z",
+      "xQuery": "辺野古転覆 引率教師語る「胸中」"
     },
     {
       "time": "21:51",
