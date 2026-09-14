@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T04:23:00.559Z",
+  "updatedAt": "2026-09-14T04:45:08.456Z",
   "items": [
     {
-      "time": "12:07",
-      "title": "中部電力 データ不正で調査報告書",
+      "time": "12:08",
+      "title": "交通事故「魔の7歳」巡り識者警鐘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595243?source=rss",
-      "publishedAt": "2026-09-14T03:07:05.000Z",
-      "xQuery": "中部電力 データ不正で調査報告書"
-    },
-    {
-      "time": "11:39",
-      "title": "高市首相 沖縄新知事と「連携」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595234?source=rss",
-      "publishedAt": "2026-09-14T02:39:36.000Z",
-      "xQuery": "高市首相 沖縄新知事と「連携」"
+      "url": "https://news.yahoo.co.jp/pickup/6595242?source=rss",
+      "publishedAt": "2026-09-14T03:08:36.000Z",
+      "xQuery": "交通事故「魔の7歳」巡り識者警鐘"
     },
     {
       "time": "11:47",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595235?source=rss",
       "publishedAt": "2026-09-14T02:47:14.000Z",
       "xQuery": "AI巡る懸念 トランプ氏は重視せず"
+    },
+    {
+      "time": "12:22",
+      "title": "中国で「はま寿司」急拡大 背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595241?source=rss",
+      "publishedAt": "2026-09-14T03:22:14.000Z",
+      "xQuery": "中国で「はま寿司」急拡大 背景"
     },
     {
       "time": "12:46",

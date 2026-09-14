@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-14T04:22:59.872Z",
+  "updatedAt": "2026-09-14T04:45:07.859Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:00",
+        "title": "中村留が「半導体・光学事業部」発足、ウエハーのエッジ加工装置など展開：工作機械",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EY2lsUmEtc1FRbzFmUkhRWmV5Yldsc0l4bzRFLUdqUWhDMUN1SnFTTTJFMDMxNWhFR25Sb2Q4dmVHbnhDTFhWNnQxM2lId0tseEs3RGJDZmlQQmN1eXBhY1VZLWdFaTZPODlzeHR3RQ?oc=5",
+        "publishedAt": "2026-09-14T04:00:00.000Z"
+      },
       {
         "time": "07:26",
         "title": "7月工作機械５割プラス、歴代3位の記録に",
@@ -12,9 +19,16 @@
       {
         "time": "10:26",
         "title": "マーケット速報",
-        "source": "biz.chunichi.co.jp",
+        "source": "中日BIZナビ",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXBMWVN1alhmM3R2cnljQU4tZ2xiTFBUdi02eFpucUZpQm1rWTlVNmRGWlI2bFg5cWNESlkxb21mVVNjUFVrbWJ0akFwV0FseWhPcm9jb3paanNKQXMxZDdKQWNNUUtRcVhrUk9lMjVuTjBxM09XWUlESGc3R043cm5NNXl4TXMxVGlsZ2JRbEV0Rmtwd2Q1Z29NUjFjOENSMTk2VzRIZ0dxTTk3ekV2bk9jTjhCZmZEYVpr?oc=5",
         "publishedAt": "2026-09-14T01:26:08.000Z"
+      },
+      {
+        "time": "10:41",
+        "title": "北川鉄工所がストップ高気配､27年3月期業績･配当予想を増額",
+        "source": "四季報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qUEJjV2VrWmtrVmxXcEV1T2tSWWpEazNXcURGcmJLWGN6akJ6UnJ0N0hzVGRqVktKRkMwMzVTWGFPYlFQRjhCOFFGV1dkR1JoRERwV2NQTQ?oc=5",
+        "publishedAt": "2026-09-14T01:41:24.000Z"
       },
       {
         "time": "12:03",
@@ -24,11 +38,11 @@
         "publishedAt": "2026-09-14T03:03:36.000Z"
       },
       {
-        "time": "18:55",
+        "time": "18:17",
         "title": "誰もが暮らしやすい社会に 富山ジェンダー平等シンポ",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9paTJNcmlDaUlxM2Y3R0xfMnhPcUtDbnVaSHdFMmZrRjRCaGVDSHlzODVLWlJZSVc3RlhJZUlXODBrb0xaclN0RjRyUHlVWFZHd0Y1cldEQnBFWnhWU0JhZU9jZVdnYzRZUFRON2tGenpyV3c?oc=5",
-        "publishedAt": "2026-09-13T09:55:00.000Z"
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1cVpxMjgycERoUS1OekxUaElndnIwRy1WTDRsNzAyLXllRlRBX2NBT3JnOExRdDBBU3hLcVFiWXhwU3VfdjZjZFZUeVVJWWFSUVhDbEk5N0lLbDhCR3dES0w5WTZJUjB2X0syS0lNalBaeERZ0gF0QVVfeXFMUDVxWnEyODJwRGhRLU56TFRoSWd2cjBHLVZMNGw3MDIteWVGVEFfY0FPcmc4TFF0MEFTeEtxUWJZeHBTdV92NmNkVlR5VUlZYVJRWENsSTk3SUtsOEJHd0RLTDlZNklSMHZfSzJLSU1qUFp4RFk?oc=5",
+        "publishedAt": "2026-09-13T09:17:30.000Z"
       },
       {
         "time": "13:06",
@@ -43,20 +57,6 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwTjVKUGRuTTdMUU9adjd6RE1YS2VrVkFyZTNXSGZVNGlxbnJPUWMzbXVsZk1KYmRHcDExNGZtQUowak1FN1hZWVl1QnNsQzQ?oc=5",
         "publishedAt": "2026-09-14T04:00:00.000Z"
-      },
-      {
-        "time": "12:07",
-        "title": "中部電力 データ不正で調査報告書",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595243?source=rss",
-        "publishedAt": "2026-09-14T03:07:05.000Z"
-      },
-      {
-        "time": "20:12",
-        "title": "日銀の利上げ公算大 家計への影響",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595177?source=rss",
-        "publishedAt": "2026-09-13T11:12:49.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "07:52",
-        "title": "沖縄知事選 古謝氏が過去最多得票",
+        "time": "13:44",
+        "title": "沖縄知事選 得票差に古謝氏驚き",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595213?source=rss",
-        "publishedAt": "2026-09-13T22:52:30.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595254?source=rss",
+        "publishedAt": "2026-09-14T04:44:37.000Z"
       },
       {
         "time": "23:40",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
