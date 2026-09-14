@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T01:33:29.009Z",
+  "updatedAt": "2026-09-14T02:28:23.931Z",
   "items": [
     {
-      "time": "08:46",
-      "title": "千葉豪雨 車両1万5000台が被害か",
+      "time": "09:42",
+      "title": "沖縄知事選で古謝氏当選 各党反応",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595220?source=rss",
-      "publishedAt": "2026-09-13T23:46:52.000Z",
-      "xQuery": "千葉豪雨 車両1万5000台が被害か"
+      "url": "https://news.yahoo.co.jp/pickup/6595224?source=rss",
+      "publishedAt": "2026-09-14T00:42:34.000Z",
+      "xQuery": "沖縄知事選で古謝氏当選 各党反応"
     },
     {
       "time": "08:17",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日本海側 激しい雨や落雷に注意"
     },
     {
-      "time": "07:52",
-      "title": "沖縄知事選 古謝氏が過去最多得票",
+      "time": "11:15",
+      "title": "ネイリスト殺害 起訴内容を認める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595213?source=rss",
-      "publishedAt": "2026-09-13T22:52:30.000Z",
-      "xQuery": "沖縄知事選 古謝氏が過去最多得票"
-    },
-    {
-      "time": "09:09",
-      "title": "NY原油が上昇 供給停滞に懸念",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595222?source=rss",
-      "publishedAt": "2026-09-14T00:09:21.000Z",
-      "xQuery": "NY原油が上昇 供給停滞に懸念"
+      "url": "https://news.yahoo.co.jp/pickup/6595230?source=rss",
+      "publishedAt": "2026-09-14T02:15:15.000Z",
+      "xQuery": "ネイリスト殺害 起訴内容を認める"
     },
     {
       "time": "10:20",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595228?source=rss",
       "publishedAt": "2026-09-14T01:20:11.000Z",
       "xQuery": "工場でガス爆発か 従業員3人けが"
+    },
+    {
+      "time": "10:19",
+      "title": "抗議の退社 AI開発に懸念相次ぐ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595226?source=rss",
+      "publishedAt": "2026-09-14T01:19:50.000Z",
+      "xQuery": "抗議の退社 AI開発に懸念相次ぐ"
     }
   ]
 };
