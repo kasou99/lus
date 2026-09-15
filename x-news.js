@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T11:37:58.337Z",
+  "updatedAt": "2026-09-15T12:26:33.368Z",
   "items": [
     {
-      "time": "18:01",
-      "title": "自民役員人事 高市氏が陣容固める",
+      "time": "20:01",
+      "title": "16日にかけ雨強まる 冠水など注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595392?source=rss",
-      "publishedAt": "2026-09-15T09:01:51.000Z",
-      "xQuery": "自民役員人事 高市氏が陣容固める"
+      "url": "https://news.yahoo.co.jp/pickup/6595403?source=rss",
+      "publishedAt": "2026-09-15T11:01:13.000Z",
+      "xQuery": "16日にかけ雨強まる 冠水など注意"
     },
     {
       "time": "19:10",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "マンションで5歳死亡 転落経緯は"
     },
     {
-      "time": "18:12",
-      "title": "通信途絶えた無人機の一部か 発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595389?source=rss",
-      "publishedAt": "2026-09-15T09:12:02.000Z",
-      "xQuery": "通信途絶えた無人機の一部か 発見"
-    },
-    {
       "time": "20:14",
       "title": "ECMOつなぎ替え忘れの患者 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595405?source=rss",
       "publishedAt": "2026-09-15T11:14:21.000Z",
       "xQuery": "ECMOつなぎ替え忘れの患者 死亡"
+    },
+    {
+      "time": "18:27",
+      "title": "交渉し自宅療養実現 ALS患う58歳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595390?source=rss",
+      "publishedAt": "2026-09-15T09:27:15.000Z",
+      "xQuery": "交渉し自宅療養実現 ALS患う58歳"
     }
   ]
 };

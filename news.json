@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T11:37:57.554Z",
+  "updatedAt": "2026-09-15T12:26:32.312Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-09-15T05:04:53.000Z"
       },
       {
-        "time": "17:02",
-        "title": "生活工具の扱いが始まり、山善 工作機械や住宅設備の専門商社大手【経済トレンド】 (共同通信)",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGdNTjRQelNsNnk2ay1jM3F2NFlfT1BlNTZEU2pmYlUzX2d4cnhtZUJsN1Z4QmZVMnFlN041YU13Vy1CcHNvcXZsZmpISEJuck92SUdlYmFYaWN5Mm5SanUzdkVTOXdrRWlfZV9wandRd1Y4Y1VOX2o0Sy1UazN5eFJqR1BqX3dYT0xCZGdn?oc=5",
-        "publishedAt": "2026-09-15T08:02:39.000Z"
+        "time": "15:46",
+        "title": "配当を増やし続けてきた「連続増配銘柄」5社の名前",
+        "source": "現代ビジネス",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Id2NNb1Z2bjV5emFROHlnXzhucFNERnFoMTlVZVNvNkN5dFZ0Y0FpLUxZSG9TVWJjWGFrZjFVOThqZzZVM3pZRGtzeF9wMnBEcXNsVXFQR0c?oc=5",
+        "publishedAt": "2026-09-15T06:46:25.000Z"
       },
       {
         "time": "05:00",
@@ -112,13 +112,6 @@
         "publishedAt": "2026-09-15T09:38:40.000Z"
       },
       {
-        "time": "08:06",
-        "title": "米長期金利一時5%台 インフレ懸念",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595318?source=rss",
-        "publishedAt": "2026-09-14T23:06:29.000Z"
-      },
-      {
         "time": "14:09",
         "title": "金融庁 ソニー生命に立ち入り検査",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595368?source=rss",
         "publishedAt": "2026-09-15T05:46:55.000Z"
+      },
+      {
+        "time": "11:39",
+        "title": "「ナウル駅」の愛称 一転して継続",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595344?source=rss",
+        "publishedAt": "2026-09-15T02:39:30.000Z"
       }
     ],
     "localHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
