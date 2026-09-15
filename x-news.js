@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T12:26:33.368Z",
+  "updatedAt": "2026-09-15T12:47:39.284Z",
   "items": [
     {
       "time": "20:01",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "マンションで5歳死亡 転落経緯は"
     },
     {
+      "time": "20:50",
+      "title": "ちいかわグッズ騒動 JR東海回答",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595409?source=rss",
+      "publishedAt": "2026-09-15T11:50:30.000Z",
+      "xQuery": "ちいかわグッズ騒動 JR東海回答"
+    },
+    {
       "time": "20:14",
       "title": "ECMOつなぎ替え忘れの患者 死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595405?source=rss",
       "publishedAt": "2026-09-15T11:14:21.000Z",
       "xQuery": "ECMOつなぎ替え忘れの患者 死亡"
-    },
-    {
-      "time": "18:27",
-      "title": "交渉し自宅療養実現 ALS患う58歳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595390?source=rss",
-      "publishedAt": "2026-09-15T09:27:15.000Z",
-      "xQuery": "交渉し自宅療養実現 ALS患う58歳"
     }
   ]
 };
