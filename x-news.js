@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T21:15:13.962Z",
+  "updatedAt": "2026-09-15T21:36:53.260Z",
   "items": [
     {
-      "time": "06:12",
-      "title": "地震情報",
+      "time": "06:18",
+      "title": "熊本県で震度4 津波の心配なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6592719?source=rss",
-      "publishedAt": "2026-09-15T21:12:43.000Z",
-      "xQuery": "地震情報"
+      "url": "https://news.yahoo.co.jp/pickup/6595424?source=rss",
+      "publishedAt": "2026-09-15T21:18:40.000Z",
+      "xQuery": "熊本県で震度4 津波の心配なし"
     },
     {
       "time": "23:33",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595421?source=rss",
       "publishedAt": "2026-09-15T14:33:55.000Z",
       "xQuery": "墜落推定の無人機 空自「任務中」"
-    },
-    {
-      "time": "20:22",
-      "title": "マンションで5歳死亡 転落経緯は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595407?source=rss",
-      "publishedAt": "2026-09-15T11:22:52.000Z",
-      "xQuery": "マンションで5歳死亡 転落経緯は"
     },
     {
       "time": "00:08",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595415?source=rss",
       "publishedAt": "2026-09-15T14:00:40.000Z",
       "xQuery": "森衆院議長 ウの議会で異例の演説"
+    },
+    {
+      "time": "06:11",
+      "title": "金の延べ棒35kg 兵庫県に匿名寄付",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595423?source=rss",
+      "publishedAt": "2026-09-15T21:11:32.000Z",
+      "xQuery": "金の延べ棒35kg 兵庫県に匿名寄付"
     }
   ]
 };
