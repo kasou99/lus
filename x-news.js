@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T04:42:44.190Z",
+  "updatedAt": "2026-09-15T05:18:16.292Z",
   "items": [
     {
       "time": "12:07",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "沖縄知事選 広がっていた対立疲れ"
     },
     {
+      "time": "13:36",
+      "title": "米MS 行動規範で「AIより人間」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595359?source=rss",
+      "publishedAt": "2026-09-15T04:36:49.000Z",
+      "xQuery": "米MS 行動規範で「AIより人間」"
+    },
+    {
       "time": "12:01",
       "title": "シルバーウィーク 台風動向に注意",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595351?source=rss",
       "publishedAt": "2026-09-15T03:01:39.000Z",
       "xQuery": "シルバーウィーク 台風動向に注意"
-    },
-    {
-      "time": "10:46",
-      "title": "「スーパーエルニーニョ」発生",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595335?source=rss",
-      "publishedAt": "2026-09-15T01:46:33.000Z",
-      "xQuery": "「スーパーエルニーニョ」発生"
     },
     {
       "time": "13:04",

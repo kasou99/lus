@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T04:42:43.318Z",
+  "updatedAt": "2026-09-15T05:18:15.530Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTzN2R1lsa0dCampobEhRRy1HdDMxUzdUeURGMEhiV2VoQUp3WEh3Q1BtVDBJek04LU90enBCY2VJQ29ScTV5QUdFS01lVXdiQ29uQVVqTG85Zm9NeE9qSXVsTEg1eDNmOGc?oc=5",
         "publishedAt": "2026-09-15T04:20:31.000Z"
+      },
+      {
+        "time": "14:05",
+        "title": "浜岡原子力発電所 275kV開閉所（放射線管理区域外）における制御盤内での出火（火災）",
+        "source": "chuden.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNTVBlV2lPR05rZXdpUVFWdEphd0U1bDBJTTBjQzFteG5OeFBma0pOaWVXbGJRQzE2UGJYbDhjeHA5WGVZR0tUS1NuSE1kXzVFOW4zRTcyeUl0ajM5bVotV3J6ZmRpYWhCckE?oc=5",
+        "publishedAt": "2026-09-15T05:05:39.000Z"
       },
       {
         "time": "05:00",
@@ -38,13 +45,6 @@
         "publishedAt": "2026-09-14T20:00:00.000Z"
       },
       {
-        "time": "21:00",
-        "title": "株安でも業績は上向き？ ｢工作機械受注｣で見る日本株の行方",
-        "source": "テレ東BIZ",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fOENHZXBxcjhqdEJMMU5iMzh5Q1BXTjhXNWFFaWNJV3hNRmozV3Q0UkpXSHlFX0FmUHp3SWY4N09RdUVpZGZFbFl5dUVRWWM2YkZacWo4dTdKX1RaYW1jbHdUTnRFSkgzU3c?oc=5",
-        "publishedAt": "2026-09-14T12:00:00.000Z"
-      },
-      {
         "time": "12:18",
         "title": "ベッコフオートメーション、EtherCATターミナルの新製品「EDシリーズ」を発売",
         "source": "ASCII.jp",
@@ -52,14 +52,21 @@
         "publishedAt": "2026-09-15T03:18:36.000Z"
       },
       {
-        "time": "11:22",
-        "title": "ブラザー工業小池前会長 「課長級の人材育成に協力」：ニュース",
-        "source": "中日BIZナビ",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9taWxfM3Qyemswa0l2UVQ5ODdpZDRKRVp1czRMRFBIRWgzYlVIbDlXbDlabE9vbmxpRlYyLVlpTWZXQzNkYktia1NWeVJlQWZ3ZGRTSFdoTFlSUWEwd0tF?oc=5",
-        "publishedAt": "2026-09-15T02:22:04.000Z"
+        "time": "21:00",
+        "title": "株安でも業績は上向き？ ｢工作機械受注｣で見る日本株の行方",
+        "source": "テレ東BIZ",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fOENHZXBxcjhqdEJMMU5iMzh5Q1BXTjhXNWFFaWNJV3hNRmozV3Q0UkpXSHlFX0FmUHp3SWY4N09RdUVpZGZFbFl5dUVRWWM2YkZacWo4dTdKX1RaYW1jbHdUTnRFSkgzU3c?oc=5",
+        "publishedAt": "2026-09-14T12:00:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "14:08",
+        "title": "米 対イラン作戦で深刻な弾薬不足",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595363?source=rss",
+        "publishedAt": "2026-09-15T05:08:37.000Z"
+      },
       {
         "time": "07:58",
         "title": "米大統領 軽油高騰巡りウに要求",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595334?source=rss",
         "publishedAt": "2026-09-15T01:23:05.000Z"
-      },
-      {
-        "time": "21:03",
-        "title": "タイ 邦人のビザなし滞在期間短縮",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595293?source=rss",
-        "publishedAt": "2026-09-14T12:03:59.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,18 +119,18 @@
         "publishedAt": "2026-09-15T02:12:17.000Z"
       },
       {
+        "time": "14:09",
+        "title": "金融庁 ソニー生命に立ち入り検査",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595362?source=rss",
+        "publishedAt": "2026-09-15T05:09:46.000Z"
+      },
+      {
         "time": "06:23",
         "title": "プルデンシャル 顧客情報漏えい",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595306?source=rss",
         "publishedAt": "2026-09-14T21:23:15.000Z"
-      },
-      {
-        "time": "20:19",
-        "title": "中部電の不正 経産相が厳しく批判",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595291?source=rss",
-        "publishedAt": "2026-09-14T11:19:16.000Z"
       },
       {
         "time": "21:51",
