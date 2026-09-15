@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-15T13:18:33.847Z",
+  "updatedAt": "2026-09-15T13:40:04.397Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "15:35",
         "title": "浜岡原発で火災 制御盤から、安全に影響なし―中部電",
-        "source": "時事ドットコム",
+        "source": "jiji.com",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96enZZZGxVaUZSMENWRFRtNGp0b0dIUWxQdmQzTjRxMzBBcjBHUkdJa0VnZGE3Qm9OVjcta3BKdlZBaXM5eldyR0xEVDE2b0lSTzUzZ3dqa2k0QnNndHp5ckFjNA?oc=5",
         "publishedAt": "2026-09-15T06:35:00.000Z"
       },
@@ -38,13 +38,6 @@
         "publishedAt": "2026-09-15T05:04:53.000Z"
       },
       {
-        "time": "15:36",
-        "title": "浜岡原発で火災 制御盤から、安全に影響なし 中部電 (時事通信)",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTQ5VklNbllsTGdITzdJTFQxMHdBM3BNcWJOVzJiRHdNRVc4TWpLdXpUTzlUUG1jLS0taTBVdE9nMXdpWU1HTUprNF80cEhrMTJqNjhudWtfX3NrMngxNG5YQTVrUFE5dG1vRGd2bnVxcUJUQ3dBZjVEY2J6ME14eXBiM3NidWxXaGNtS2NB?oc=5",
-        "publishedAt": "2026-09-15T06:36:39.000Z"
-      },
-      {
         "time": "05:00",
         "title": "改革に挑む中部企業 松井機工 少数精鋭、多能工化を推進 全社員で設備保全活動 機械30台全て点検突発故障を大きく削減",
         "source": "中部経済新聞",
@@ -56,6 +49,13 @@
         "title": "「六価クロム」使わぬ研削盤 ジェイテクト：地域ニュース",
         "source": "読売新聞",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kNFlOVGlwZW03dDk0TTNUbjB2cHR3Q2lfUTZtSGFfSE5qS01QbkU0Y3UyWUllR1B2Q1c3cnI4UWpGUy0xOUNFMFNGUEhyQTVvcEFJb0hrV2tPcEE4czlhaDJCeXdwT1lQcUJIZVR4cHI?oc=5",
+        "publishedAt": "2026-09-14T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "DMG森精機、重切削・連続加工を両立 横中ぐりMC発売",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mVzMzQTNxOEwtenkycjZHUk8taUJheXk2TExVRE5RVnYzZEtFSTRmQXRhckZleV9OMUw0ODRQMldGR2VzWTNBZjhRUjJEejNBb0NPcXFqVlE?oc=5",
         "publishedAt": "2026-09-14T20:00:00.000Z"
       }
     ],
@@ -126,6 +126,13 @@
         "publishedAt": "2026-09-14T21:23:15.000Z"
       },
       {
+        "time": "22:18",
+        "title": "日経新聞 広告冊子の料金を水増し",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595414?source=rss",
+        "publishedAt": "2026-09-15T13:18:14.000Z"
+      },
+      {
         "time": "09:24",
         "title": "自動運転タクシー 東京で27年にも",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595368?source=rss",
         "publishedAt": "2026-09-15T05:46:55.000Z"
-      },
-      {
-        "time": "11:39",
-        "title": "「ナウル駅」の愛称 一転して継続",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595344?source=rss",
-        "publishedAt": "2026-09-15T02:39:30.000Z"
       }
     ],
     "localHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
