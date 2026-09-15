@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T03:43:26.036Z",
+  "updatedAt": "2026-09-15T04:21:11.198Z",
   "items": [
     {
       "time": "12:07",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "シルバーウィーク 台風動向に注意"
     },
     {
-      "time": "11:12",
-      "title": "東京メトロ東西線 一部で見合わせ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595340?source=rss",
-      "publishedAt": "2026-09-15T02:12:17.000Z",
-      "xQuery": "東京メトロ東西線 一部で見合わせ"
-    },
-    {
       "time": "10:46",
       "title": "「スーパーエルニーニョ」発生",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595335?source=rss",
       "publishedAt": "2026-09-15T01:46:33.000Z",
       "xQuery": "「スーパーエルニーニョ」発生"
+    },
+    {
+      "time": "13:04",
+      "title": "鉄塔転落死の男性社員が遺書 調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595356?source=rss",
+      "publishedAt": "2026-09-15T04:04:24.000Z",
+      "xQuery": "鉄塔転落死の男性社員が遺書 調査"
     }
   ]
 };
