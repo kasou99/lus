@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-15T21:36:52.142Z",
+  "updatedAt": "2026-09-15T22:16:08.270Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "新社長登場／岡本工作機械製作所・伊藤暁氏 砥粒加工「ゼロゼロ」追求",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiWFVZWXRMUWtKcUkya0hKVktuRjNDRWZ5UWdIMkhqX1AxRlBsbjlKQ3NKZWxIaG9RWW1NVUhwVk5BenpZZE52V1V3cDhLYmYzdFpETXBSeDY?oc=5",
+        "publishedAt": "2026-09-15T20:00:00.000Z"
+      },
       {
         "time": "15:35",
         "title": "浜岡原発で火災 制御盤から、安全に影響なし―中部電：時事ドットコム",
@@ -17,25 +24,18 @@
         "publishedAt": "2026-09-15T01:56:16.000Z"
       },
       {
-        "time": "05:00",
-        "title": "変わる潮目2026 企業のトップに聞く（9）オークマ社長・家城淳氏",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xODhHdXYzZ1ZRdWZDTFc5a3I2c3ZpR1JxTExFV2F3d1lNYmJsNXFEZG5Mb1FwM1NmNjRWdGU4cjlMWUQ1eDQyN2g3SHdPaVk3bzM3WUg5bGU?oc=5",
-        "publishedAt": "2026-09-15T20:00:00.000Z"
-      },
-      {
-        "time": "13:20",
-        "title": "【工作機械・ロボット・搬送機メーカー必見】「CRA/MR適合」だけでは生き残れない！ICS研究所、自動車・航空機・医療サプライチェーンの「2027年の危機」を突破する実務セミナーを10/29・30開催",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTzN2R1lsa0dCampobEhRRy1HdDMxUzdUeURGMEhiV2VoQUp3WEh3Q1BtVDBJek04LU90enBCY2VJQ29ScTV5QUdFS01lVXdiQ29uQVVqTG85Zm9NeE9qSXVsTEg1eDNmOGc?oc=5",
-        "publishedAt": "2026-09-15T04:20:31.000Z"
-      },
-      {
         "time": "15:36",
         "title": "浜岡原発で火災 制御盤から、安全に影響なし 中部電 (時事通信)",
         "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTQ5VklNbllsTGdITzdJTFQxMHdBM3BNcWJOVzJiRHdNRVc4TWpLdXpUTzlUUG1jLS0taTBVdE9nMXdpWU1HTUprNF80cEhrMTJqNjhudWtfX3NrMngxNG5YQTVrUFE5dG1vRGd2bnVxcUJUQ3dBZjVEY2J6ME14eXBiM3NidWxXaGNtS2NB?oc=5",
         "publishedAt": "2026-09-15T06:36:39.000Z"
+      },
+      {
+        "time": "13:20",
+        "title": "【工作機械・ロボット・搬送機メーカー必見】「CRA/MR適合」だけでは生き残れない！ICS研究所、自動車・航空機・医療サプライチェーンの「2027年の危機」を突破する実務セミナーを10/29・30開催",
+        "source": "prtimes.jp",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTzN2R1lsa0dCampobEhRRy1HdDMxUzdUeURGMEhiV2VoQUp3WEh3Q1BtVDBJek04LU90enBCY2VJQ29ScTV5QUdFS01lVXdiQ29uQVVqTG85Zm9NeE9qSXVsTEg1eDNmOGc?oc=5",
+        "publishedAt": "2026-09-15T04:20:31.000Z"
       },
       {
         "time": "14:04",
