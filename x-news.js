@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T01:30:27.168Z",
+  "updatedAt": "2026-09-15T02:25:57.139Z",
   "items": [
     {
       "time": "09:24",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "自動運転タクシー 東京で27年にも"
     },
     {
-      "time": "09:11",
-      "title": "サウジ パイプライン復旧に3～5週",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595326?source=rss",
-      "publishedAt": "2026-09-15T00:11:52.000Z",
-      "xQuery": "サウジ パイプライン復旧に3～5週"
-    },
-    {
       "time": "09:59",
       "title": "宇宙空間に兵器配備 米空軍認める",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "宇宙空間に兵器配備 米空軍認める"
     },
     {
-      "time": "08:53",
-      "title": "刺激求める「ドパガキ」生む背景",
+      "time": "10:46",
+      "title": "「スーパーエルニーニョ」発生",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595323?source=rss",
-      "publishedAt": "2026-09-14T23:53:14.000Z",
-      "xQuery": "刺激求める「ドパガキ」生む背景"
+      "url": "https://news.yahoo.co.jp/pickup/6595335?source=rss",
+      "publishedAt": "2026-09-15T01:46:33.000Z",
+      "xQuery": "「スーパーエルニーニョ」発生"
     },
     {
-      "time": "09:21",
-      "title": "マンジャロで体重激減 恐怖語る",
+      "time": "11:12",
+      "title": "東京メトロ東西線 一部で見合わせ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595330?source=rss",
-      "publishedAt": "2026-09-15T00:21:15.000Z",
-      "xQuery": "マンジャロで体重激減 恐怖語る"
+      "url": "https://news.yahoo.co.jp/pickup/6595340?source=rss",
+      "publishedAt": "2026-09-15T02:12:17.000Z",
+      "xQuery": "東京メトロ東西線 一部で見合わせ"
+    },
+    {
+      "time": "10:23",
+      "title": "3歳から伝統王国を率いた34歳死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595334?source=rss",
+      "publishedAt": "2026-09-15T01:23:05.000Z",
+      "xQuery": "3歳から伝統王国を率いた34歳死去"
     }
   ]
 };

@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-15T01:30:26.424Z",
+  "updatedAt": "2026-09-15T02:25:55.652Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "10:56",
+        "title": "第33回日本国際工作機械見本市（JIMTOF）出展のお知らせ",
+        "source": "amano.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OUzR6XzVvdWNHQllXRi1sRUdFWF9EQWJPX0gweTNUZUVlenloMW55UnJlbkZVWHk4bkdzdmg1YUxuOXpBRDVrM09lOEJHOFVfbEM0OHBtcE9GNzlrWEIxWURISDJrbUE?oc=5",
+        "publishedAt": "2026-09-15T01:56:16.000Z"
+      },
       {
         "time": "05:00",
         "title": "工作機械、米で拠点拡充 製造業回帰、AI・DC向け照準",
@@ -12,7 +19,7 @@
       {
         "time": "05:00",
         "title": "「六価クロム」使わぬ研削盤 ジェイテクト：地域ニュース",
-        "source": "読売新聞",
+        "source": "yomiuri.co.jp",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kNFlOVGlwZW03dDk0TTNUbjB2cHR3Q2lfUTZtSGFfSE5qS01QbkU0Y3UyWUllR1B2Q1c3cnI4UWpGUy0xOUNFMFNGUEhyQTVvcEFJb0hrV2tPcEE4czlhaDJCeXdwT1lQcUJIZVR4cHI?oc=5",
         "publishedAt": "2026-09-14T20:00:00.000Z"
       },
@@ -47,16 +54,9 @@
       {
         "time": "08:33",
         "title": "Universal Robotsが第7世代を発表、手首の先でカメラと電源を直結",
-        "source": "FabScene",
+        "source": "fabscene.com",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmMydE8zUTlTVVRJU3NUbVFhNGRqSERNVTYxZXphMGNTUXluSk8teUhsWmFhVlhLMDBpVnhWNTVEVXhjNnVOV1NrMjVwTExFQzV6WTJJNG9GdUJOT2swMm5XZkpTT2RtUXN4QnBES3c0ODd2VENBMUlOUVFIRXRDbDBnN0lsMGhCVzY5NW5QSzhHUdIBlwFBVV95cUxQUnB2OVhTQU93a3dybW5yOVNYQ01CNlZ6cjRKbDBOeW81SHhCWXR2dHd2R0RCUUl3M2stWGh6dFg3TExHdjA3MUJ6eFBwaE9RYWFBcDFnT1pUMGFTbTBiUUJTdXlCT0lwMy1aR0Q4STlERjVaUzhwcnFsZkNmamNPM1p0VzNfNGV3SEZnR1BoWUhDalhFVWww?oc=5",
         "publishedAt": "2026-09-14T23:33:10.000Z"
-      },
-      {
-        "time": "18:00",
-        "title": "モーターフィードバック用磁気エンコーダの世界市場（2026年～2032年）、市場規模（インクリメンタル磁気エンコーダ、アブソリュート磁気エンコーダ）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UQks1dzFwVFVVWjNJY2pFOGNwUXpBSTV0dDZxY2Voa09SbkFHRkI3TENkQk5PcEMwNVo0ZWtwSVY0OUx5U2pRa2ltUVFlUQ?oc=5",
-        "publishedAt": "2026-09-14T09:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,6 +112,13 @@
         "publishedAt": "2026-09-14T23:06:29.000Z"
       },
       {
+        "time": "11:12",
+        "title": "東京メトロ東西線 一部で見合わせ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595340?source=rss",
+        "publishedAt": "2026-09-15T02:12:17.000Z"
+      },
+      {
         "time": "06:23",
         "title": "プルデンシャル 顧客情報漏えい",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595292?source=rss",
         "publishedAt": "2026-09-14T11:30:02.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "佐川急便かたる不審電話 見分け方",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595257?source=rss",
-        "publishedAt": "2026-09-14T06:00:02.000Z"
       }
     ],
     "localHeadlines": [
