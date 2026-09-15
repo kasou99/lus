@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-14T23:37:53.444Z",
+  "updatedAt": "2026-09-15T00:49:59.231Z",
   "items": [
     {
-      "time": "08:02",
-      "title": "広い範囲で雷雨に注意 15日の天気",
+      "time": "08:25",
+      "title": "マンション浸水 地下設備が弱点に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595317?source=rss",
-      "publishedAt": "2026-09-14T23:02:52.000Z",
-      "xQuery": "広い範囲で雷雨に注意 15日の天気"
+      "url": "https://news.yahoo.co.jp/pickup/6595322?source=rss",
+      "publishedAt": "2026-09-14T23:25:14.000Z",
+      "xQuery": "マンション浸水 地下設備が弱点に"
     },
     {
-      "time": "08:06",
-      "title": "米長期金利一時5%台 インフレ懸念",
+      "time": "09:11",
+      "title": "サウジ パイプライン復旧に3～5週",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595318?source=rss",
-      "publishedAt": "2026-09-14T23:06:29.000Z",
-      "xQuery": "米長期金利一時5%台 インフレ懸念"
+      "url": "https://news.yahoo.co.jp/pickup/6595326?source=rss",
+      "publishedAt": "2026-09-15T00:11:52.000Z",
+      "xQuery": "サウジ パイプライン復旧に3～5週"
     },
     {
-      "time": "06:09",
-      "title": "ケーキ店火災「腹殴られた」証言",
+      "time": "08:59",
+      "title": "6歳男児不明 最後の足取りたどる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595305?source=rss",
-      "publishedAt": "2026-09-14T21:09:10.000Z",
-      "xQuery": "ケーキ店火災「腹殴られた」証言"
+      "url": "https://news.yahoo.co.jp/pickup/6595324?source=rss",
+      "publishedAt": "2026-09-14T23:59:32.000Z",
+      "xQuery": "6歳男児不明 最後の足取りたどる"
     },
     {
-      "time": "07:43",
-      "title": "関越道で3台が関わる事故 2人死亡",
+      "time": "08:53",
+      "title": "刺激求める「ドパガキ」生む背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595313?source=rss",
-      "publishedAt": "2026-09-14T22:43:01.000Z",
-      "xQuery": "関越道で3台が関わる事故 2人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6595323?source=rss",
+      "publishedAt": "2026-09-14T23:53:14.000Z",
+      "xQuery": "刺激求める「ドパガキ」生む背景"
     },
     {
-      "time": "07:36",
-      "title": "「カスハラ」市民を提訴へ 大阪市",
+      "time": "09:21",
+      "title": "マンジャロで体重激減 恐怖語る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595312?source=rss",
-      "publishedAt": "2026-09-14T22:36:22.000Z",
-      "xQuery": "「カスハラ」市民を提訴へ 大阪市"
+      "url": "https://news.yahoo.co.jp/pickup/6595330?source=rss",
+      "publishedAt": "2026-09-15T00:21:15.000Z",
+      "xQuery": "マンジャロで体重激減 恐怖語る"
     }
   ]
 };
