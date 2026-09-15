@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T02:45:17.965Z",
+  "updatedAt": "2026-09-15T03:21:55.809Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-09-14T12:00:00.000Z"
       },
       {
+        "time": "12:18",
+        "title": "ベッコフオートメーション、EtherCATターミナルの新製品「EDシリーズ」を発売",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Yb0FhRGhYUkNfa3NqYmhqT25aZF8zS3d4ZDhIMUNQSHJyZ2U1Ti1SbjRqX2cwbnhoSk1nUFNRblJRMHVrRE1BU0d0dC0tekZObUN1Vg?oc=5",
+        "publishedAt": "2026-09-15T03:18:36.000Z"
+      },
+      {
         "time": "13:00",
         "title": "中村留が「半導体・光学事業部」発足、ウエハーのエッジ加工装置など展開：工作機械",
         "source": "MONOist",
@@ -50,13 +57,6 @@
         "source": "FabScene",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmMydE8zUTlTVVRJU3NUbVFhNGRqSERNVTYxZXphMGNTUXluSk8teUhsWmFhVlhLMDBpVnhWNTVEVXhjNnVOV1NrMjVwTExFQzV6WTJJNG9GdUJOT2swMm5XZkpTT2RtUXN4QnBES3c0ODd2VENBMUlOUVFIRXRDbDBnN0lsMGhCVzY5NW5QSzhHUdIBlwFBVV95cUxQUnB2OVhTQU93a3dybW5yOVNYQ01CNlZ6cjRKbDBOeW81SHhCWXR2dHd2R0RCUUl3M2stWGh6dFg3TExHdjA3MUJ6eFBwaE9RYWFBcDFnT1pUMGFTbTBiUUJTdXlCT0lwMy1aR0Q4STlERjVaUzhwcnFsZkNmamNPM1p0VzNfNGV3SEZnR1BoWUhDalhFVWww?oc=5",
         "publishedAt": "2026-09-14T23:33:10.000Z"
-      },
-      {
-        "time": "18:00",
-        "title": "モーターフィードバック用磁気エンコーダの世界市場（2026年～2032年）、市場規模（インクリメンタル磁気エンコーダ、アブソリュート磁気エンコーダ）・分析レポートを発表",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MeV9rS2UwbHg2S29QQkxVUXZyNHhmakFvMXo3d3g4d1dITmNBdFV1bTBEcUk4ak9oSGxpckdTdG1tZUlyR3BaXzJxTlFvSkE?oc=5",
-        "publishedAt": "2026-09-14T09:00:00.000Z"
       }
     ],
     "worldHeadlines": [

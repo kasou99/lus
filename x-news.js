@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T02:45:18.573Z",
+  "updatedAt": "2026-09-15T03:21:56.585Z",
   "items": [
+    {
+      "time": "12:07",
+      "title": "100歳以上 全国で初の10万人超",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595353?source=rss",
+      "publishedAt": "2026-09-15T03:07:33.000Z",
+      "xQuery": "100歳以上 全国で初の10万人超"
+    },
     {
       "time": "11:26",
       "title": "沖縄知事選 広がっていた対立疲れ",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595343?source=rss",
       "publishedAt": "2026-09-15T02:26:27.000Z",
       "xQuery": "沖縄知事選 広がっていた対立疲れ"
-    },
-    {
-      "time": "09:59",
-      "title": "宇宙空間に兵器配備 米空軍認める",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595333?source=rss",
-      "publishedAt": "2026-09-15T00:59:12.000Z",
-      "xQuery": "宇宙空間に兵器配備 米空軍認める"
     },
     {
       "time": "11:12",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「スーパーエルニーニョ」発生"
     },
     {
-      "time": "11:09",
-      "title": "中村ゆりさん死去 直腸がん症状は",
+      "time": "11:39",
+      "title": "「ナウル駅」の愛称 一転して継続",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595337?source=rss",
-      "publishedAt": "2026-09-15T02:09:29.000Z",
-      "xQuery": "中村ゆりさん死去 直腸がん症状は"
+      "url": "https://news.yahoo.co.jp/pickup/6595344?source=rss",
+      "publishedAt": "2026-09-15T02:39:30.000Z",
+      "xQuery": "「ナウル駅」の愛称 一転して継続"
     }
   ]
 };
