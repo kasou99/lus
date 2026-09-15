@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T05:40:16.865Z",
+  "updatedAt": "2026-09-15T06:31:49.356Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-09-15T01:56:16.000Z"
       },
       {
-        "time": "13:20",
-        "title": "【工作機械・ロボット・搬送機メーカー必見】「CRA/MR適合」だけでは生き残れない！ICS研究所、自動車・航空機・医療サプライチェーンの「2027年の危機」を突破する実務セミナーを10/29・30開催",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTzN2R1lsa0dCampobEhRRy1HdDMxUzdUeURGMEhiV2VoQUp3WEh3Q1BtVDBJek04LU90enBCY2VJQ29ScTV5QUdFS01lVXdiQ29uQVVqTG85Zm9NeE9qSXVsTEg1eDNmOGc?oc=5",
-        "publishedAt": "2026-09-15T04:20:31.000Z"
-      },
-      {
         "time": "14:04",
         "title": "浜岡原子力発電所 275kV開閉所（放射線管理区域外）における制御盤内での出火（火災）",
         "source": "chuden.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNTVBlV2lPR05rZXdpUVFWdEphd0U1bDBJTTBjQzFteG5OeFBma0pOaWVXbGJRQzE2UGJYbDhjeHA5WGVZR0tUS1NuSE1kXzVFOW4zRTcyeUl0ajM5bVotV3J6ZmRpYWhCckE?oc=5",
         "publishedAt": "2026-09-15T05:04:53.000Z"
+      },
+      {
+        "time": "15:22",
+        "title": "プレスリリース：［工作機械・ロボット・搬送機メーカー必見］「CRA/MR適合」だけでは生き残れない！ICS研究所、自動車・航空機・医療サプライチェーンの「2027年の危機」を突破する実務セミナーを10/29・30開催（PR TIMES）",
+        "source": "毎日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KUng1dGFZQ1Ztd1RNak56S2dCRFBwSkEtWkVXWEdzYTdSV1ljRlM0eW9JWTJDcHQyc1A3ZXlycGFpRU8zRU5fWFJXN3hZZ1k2WWFSM1FlS0FZMzJxbG5Dem9IZWJQQXR0?oc=5",
+        "publishedAt": "2026-09-15T06:22:36.000Z"
       },
       {
         "time": "05:00",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-09-14T12:51:42.000Z"
       },
       {
-        "time": "20:30",
-        "title": "38社で1万1610人「国保逃れ」確認",
+        "time": "09:24",
+        "title": "自動運転タクシー 東京で27年にも",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595292?source=rss",
-        "publishedAt": "2026-09-14T11:30:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595329?source=rss",
+        "publishedAt": "2026-09-15T00:24:41.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595366?source=rss",
         "publishedAt": "2026-09-15T05:24:39.000Z"
+      },
+      {
+        "time": "15:13",
+        "title": "マンションから男児転落 意識不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595369?source=rss",
+        "publishedAt": "2026-09-15T06:13:19.000Z"
       },
       {
         "time": "13:04",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595305?source=rss",
         "publishedAt": "2026-09-14T21:09:10.000Z"
-      },
-      {
-        "time": "07:43",
-        "title": "関越道で3台が関わる事故 2人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595313?source=rss",
-        "publishedAt": "2026-09-14T22:43:01.000Z"
       }
     ],
     "subsidyHeadlines": [

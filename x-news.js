@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T05:40:17.503Z",
+  "updatedAt": "2026-09-15T06:31:50.086Z",
   "items": [
     {
       "time": "14:08",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "金融庁 ソニー生命に立ち入り検査"
     },
     {
+      "time": "15:13",
+      "title": "マンションから男児転落 意識不明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595369?source=rss",
+      "publishedAt": "2026-09-15T06:13:19.000Z",
+      "xQuery": "マンションから男児転落 意識不明"
+    },
+    {
       "time": "13:36",
       "title": "米MS 行動規範で「AIより人間」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595359?source=rss",
       "publishedAt": "2026-09-15T04:36:49.000Z",
       "xQuery": "米MS 行動規範で「AIより人間」"
-    },
-    {
-      "time": "12:01",
-      "title": "シルバーウィーク 台風動向に注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595351?source=rss",
-      "publishedAt": "2026-09-15T03:01:39.000Z",
-      "xQuery": "シルバーウィーク 台風動向に注意"
     },
     {
       "time": "14:24",
