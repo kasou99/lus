@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-15T11:16:42.115Z",
+  "updatedAt": "2026-09-15T11:37:57.554Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "15:35",
         "title": "浜岡原発で火災 制御盤から、安全に影響なし―中部電",
-        "source": "jiji.com",
+        "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96enZZZGxVaUZSMENWRFRtNGp0b0dIUWxQdmQzTjRxMzBBcjBHUkdJa0VnZGE3Qm9OVjcta3BKdlZBaXM5eldyR0xEVDE2b0lSTzUzZ3dqa2k0QnNndHp5ckFjNA?oc=5",
         "publishedAt": "2026-09-15T06:35:00.000Z"
       },
@@ -38,6 +38,13 @@
         "publishedAt": "2026-09-15T05:04:53.000Z"
       },
       {
+        "time": "17:02",
+        "title": "生活工具の扱いが始まり、山善 工作機械や住宅設備の専門商社大手【経済トレンド】 (共同通信)",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGdNTjRQelNsNnk2ay1jM3F2NFlfT1BlNTZEU2pmYlUzX2d4cnhtZUJsN1Z4QmZVMnFlN041YU13Vy1CcHNvcXZsZmpISEJuck92SUdlYmFYaWN5Mm5SanUzdkVTOXdrRWlfZV9wandRd1Y4Y1VOX2o0Sy1UazN5eFJqR1BqX3dYT0xCZGdn?oc=5",
+        "publishedAt": "2026-09-15T08:02:39.000Z"
+      },
+      {
         "time": "05:00",
         "title": "改革に挑む中部企業 松井機工 少数精鋭、多能工化を推進 全社員で設備保全活動 機械30台全て点検突発故障を大きく削減",
         "source": "中部経済新聞",
@@ -50,13 +57,6 @@
         "source": "読売新聞",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kNFlOVGlwZW03dDk0TTNUbjB2cHR3Q2lfUTZtSGFfSE5qS01QbkU0Y3UyWUllR1B2Q1c3cnI4UWpGUy0xOUNFMFNGUEhyQTVvcEFJb0hrV2tPcEE4czlhaDJCeXdwT1lQcUJIZVR4cHI?oc=5",
         "publishedAt": "2026-09-14T20:00:00.000Z"
-      },
-      {
-        "time": "17:02",
-        "title": "生活工具の扱いが始まり、山善 工作機械や住宅設備の専門商社大手【経済トレンド】 (共同通信)",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGdNTjRQelNsNnk2ay1jM3F2NFlfT1BlNTZEU2pmYlUzX2d4cnhtZUJsN1Z4QmZVMnFlN041YU13Vy1CcHNvcXZsZmpISEJuck92SUdlYmFYaWN5Mm5SanUzdkVTOXdrRWlfZV9wandRd1Y4Y1VOX2o0Sy1UazN5eFJqR1BqX3dYT0xCZGdn?oc=5",
-        "publishedAt": "2026-09-15T08:02:39.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "20:22",
+        "title": "マンションで5歳死亡 転落経緯は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595407?source=rss",
+        "publishedAt": "2026-09-15T11:22:52.000Z"
+      },
+      {
         "time": "16:46",
         "title": "マンション11階から5歳転落 死亡",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595356?source=rss",
         "publishedAt": "2026-09-15T04:04:24.000Z"
-      },
-      {
-        "time": "18:21",
-        "title": "玉城氏陣営 SNS中傷巡り告訴準備",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595280?source=rss",
-        "publishedAt": "2026-09-14T09:21:29.000Z"
       },
       {
         "time": "11:26",
