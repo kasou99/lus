@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T03:21:56.585Z",
+  "updatedAt": "2026-09-15T03:43:26.036Z",
   "items": [
     {
       "time": "12:07",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "沖縄知事選 広がっていた対立疲れ"
     },
     {
+      "time": "12:01",
+      "title": "シルバーウィーク 台風動向に注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595351?source=rss",
+      "publishedAt": "2026-09-15T03:01:39.000Z",
+      "xQuery": "シルバーウィーク 台風動向に注意"
+    },
+    {
       "time": "11:12",
       "title": "東京メトロ東西線 一部で見合わせ",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595335?source=rss",
       "publishedAt": "2026-09-15T01:46:33.000Z",
       "xQuery": "「スーパーエルニーニョ」発生"
-    },
-    {
-      "time": "11:39",
-      "title": "「ナウル駅」の愛称 一転して継続",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595344?source=rss",
-      "publishedAt": "2026-09-15T02:39:30.000Z",
-      "xQuery": "「ナウル駅」の愛称 一転して継続"
     }
   ]
 };
