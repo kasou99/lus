@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T14:19:07.560Z",
+  "updatedAt": "2026-09-15T14:40:06.183Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-09-15T04:20:31.000Z"
       },
       {
+        "time": "05:00",
+        "title": "工作機械、米で拠点拡充 製造業回帰、AI・DC向け照準",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ea2I5a3JFZmp4TmRpYUF6N0JGZHZjWWZyZFAyMVJNcWhFbE1zVXU2cUV3azk5bDBuOVpKQWVEaUNvVkNINENZUDR0NFotelV6eXBWM0cySW4?oc=5",
+        "publishedAt": "2026-09-14T20:00:00.000Z"
+      },
+      {
         "time": "14:04",
         "title": "浜岡原子力発電所 275kV開閉所（放射線管理区域外）における制御盤内での出火（火災）",
         "source": "chuden.co.jp",
@@ -40,7 +47,7 @@
       {
         "time": "15:36",
         "title": "浜岡原発で火災 制御盤から、安全に影響なし 中部電 (時事通信)",
-        "source": "news.yahoo.co.jp",
+        "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTQ5VklNbllsTGdITzdJTFQxMHdBM3BNcWJOVzJiRHdNRVc4TWpLdXpUTzlUUG1jLS0taTBVdE9nMXdpWU1HTUprNF80cEhrMTJqNjhudWtfX3NrMngxNG5YQTVrUFE5dG1vRGd2bnVxcUJUQ3dBZjVEY2J6ME14eXBiM3NidWxXaGNtS2NB?oc=5",
         "publishedAt": "2026-09-15T06:36:39.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFJSQjFNdkNYeWlpd1BWeEkyVTdsQkJEaGZKZlNKZ1cyTjRXS3JsY0ZaYTVtSmNUdmxkLTFZMmJ1RWdEay11OHRiM2pLYTBRc2ZXbTFzeTk5UGRBSE5sMEVyYWFOVHhaNzYtLS1tY203b1QzdEJNZ2FHelpwUkZITQ?oc=5",
         "publishedAt": "2026-09-15T06:35:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "改革に挑む中部企業 松井機工 少数精鋭、多能工化を推進 全社員で設備保全活動 機械30台全て点検突発故障を大きく削減",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YWkJrdmxRZ3NYd3lUaW1LTm8zR0gxN0pYRXdiQzNRdEFCckVmdFRVUXJuS0tpSXMxQmNBelpiOXVGY3JuS0x6REh0cTF5ajQ2YmswYTNqQmZTUnY2aVM1SDVCNlRyY19RSHJ3Ty1IS1NfN2s?oc=5",
-        "publishedAt": "2026-09-14T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,13 +66,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595363?source=rss",
         "publishedAt": "2026-09-15T05:08:37.000Z"
-      },
-      {
-        "time": "07:58",
-        "title": "米大統領 軽油高騰巡りウに要求",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595214?source=rss",
-        "publishedAt": "2026-09-13T22:58:51.000Z"
       },
       {
         "time": "09:59",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595334?source=rss",
         "publishedAt": "2026-09-15T01:23:05.000Z"
+      },
+      {
+        "time": "23:20",
+        "title": "北朝鮮体育相 アジア大会で訪日へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595417?source=rss",
+        "publishedAt": "2026-09-15T14:20:21.000Z"
       }
     ],
     "economyHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }

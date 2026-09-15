@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T14:19:08.321Z",
+  "updatedAt": "2026-09-15T14:40:06.941Z",
   "items": [
     {
       "time": "20:01",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "空自 大型無人偵察機は墜落と推定"
     },
     {
-      "time": "20:22",
-      "title": "マンションで5歳死亡 転落経緯は",
+      "time": "23:33",
+      "title": "墜落推定の無人機 空自「任務中」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595407?source=rss",
-      "publishedAt": "2026-09-15T11:22:52.000Z",
-      "xQuery": "マンションで5歳死亡 転落経緯は"
+      "url": "https://news.yahoo.co.jp/pickup/6595421?source=rss",
+      "publishedAt": "2026-09-15T14:33:55.000Z",
+      "xQuery": "墜落推定の無人機 空自「任務中」"
+    },
+    {
+      "time": "23:20",
+      "title": "北朝鮮体育相 アジア大会で訪日へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595417?source=rss",
+      "publishedAt": "2026-09-15T14:20:21.000Z",
+      "xQuery": "北朝鮮体育相 アジア大会で訪日へ"
     },
     {
       "time": "23:00",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595415?source=rss",
       "publishedAt": "2026-09-15T14:00:40.000Z",
       "xQuery": "森衆院議長 ウの議会で異例の演説"
-    },
-    {
-      "time": "20:14",
-      "title": "ECMOつなぎ替え忘れの患者 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595405?source=rss",
-      "publishedAt": "2026-09-15T11:14:21.000Z",
-      "xQuery": "ECMOつなぎ替え忘れの患者 死亡"
     }
   ]
 };
