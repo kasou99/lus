@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T12:47:39.284Z",
+  "updatedAt": "2026-09-15T13:18:34.513Z",
   "items": [
     {
       "time": "20:01",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "16日にかけ雨強まる 冠水など注意"
     },
     {
-      "time": "19:10",
-      "title": "新党名は民主改革の会 小川氏方針",
+      "time": "21:43",
+      "title": "空自 大型無人偵察機は墜落と推定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595399?source=rss",
-      "publishedAt": "2026-09-15T10:10:11.000Z",
-      "xQuery": "新党名は民主改革の会 小川氏方針"
+      "url": "https://news.yahoo.co.jp/pickup/6595411?source=rss",
+      "publishedAt": "2026-09-15T12:43:12.000Z",
+      "xQuery": "空自 大型無人偵察機は墜落と推定"
     },
     {
       "time": "20:22",
