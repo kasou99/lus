@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T02:25:57.139Z",
+  "updatedAt": "2026-09-15T02:45:18.573Z",
   "items": [
     {
-      "time": "09:24",
-      "title": "自動運転タクシー 東京で27年にも",
+      "time": "11:26",
+      "title": "沖縄知事選 広がっていた対立疲れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595329?source=rss",
-      "publishedAt": "2026-09-15T00:24:41.000Z",
-      "xQuery": "自動運転タクシー 東京で27年にも"
+      "url": "https://news.yahoo.co.jp/pickup/6595343?source=rss",
+      "publishedAt": "2026-09-15T02:26:27.000Z",
+      "xQuery": "沖縄知事選 広がっていた対立疲れ"
     },
     {
       "time": "09:59",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "宇宙空間に兵器配備 米空軍認める"
     },
     {
-      "time": "10:46",
-      "title": "「スーパーエルニーニョ」発生",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595335?source=rss",
-      "publishedAt": "2026-09-15T01:46:33.000Z",
-      "xQuery": "「スーパーエルニーニョ」発生"
-    },
-    {
       "time": "11:12",
       "title": "東京メトロ東西線 一部で見合わせ",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "東京メトロ東西線 一部で見合わせ"
     },
     {
-      "time": "10:23",
-      "title": "3歳から伝統王国を率いた34歳死去",
+      "time": "10:46",
+      "title": "「スーパーエルニーニョ」発生",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595334?source=rss",
-      "publishedAt": "2026-09-15T01:23:05.000Z",
-      "xQuery": "3歳から伝統王国を率いた34歳死去"
+      "url": "https://news.yahoo.co.jp/pickup/6595335?source=rss",
+      "publishedAt": "2026-09-15T01:46:33.000Z",
+      "xQuery": "「スーパーエルニーニョ」発生"
+    },
+    {
+      "time": "11:09",
+      "title": "中村ゆりさん死去 直腸がん症状は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595337?source=rss",
+      "publishedAt": "2026-09-15T02:09:29.000Z",
+      "xQuery": "中村ゆりさん死去 直腸がん症状は"
     }
   ]
 };
