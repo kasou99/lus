@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T09:43:58.297Z",
+  "updatedAt": "2026-09-15T10:18:15.075Z",
   "items": [
     {
       "time": "18:01",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "自民役員人事 高市氏が陣容固める"
     },
     {
-      "time": "16:30",
-      "title": "食料品消費税1% 大綱を閣議決定",
+      "time": "19:10",
+      "title": "新党名は民主改革の会 小川氏方針",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595376?source=rss",
-      "publishedAt": "2026-09-15T07:30:16.000Z",
-      "xQuery": "食料品消費税1% 大綱を閣議決定"
+      "url": "https://news.yahoo.co.jp/pickup/6595399?source=rss",
+      "publishedAt": "2026-09-15T10:10:11.000Z",
+      "xQuery": "新党名は民主改革の会 小川氏方針"
     },
     {
       "time": "18:12",
