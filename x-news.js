@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T08:45:21.161Z",
+  "updatedAt": "2026-09-15T09:19:49.926Z",
   "items": [
+    {
+      "time": "18:01",
+      "title": "自民役員人事 高市氏が陣容固める",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595392?source=rss",
+      "publishedAt": "2026-09-15T09:01:51.000Z",
+      "xQuery": "自民役員人事 高市氏が陣容固める"
+    },
     {
       "time": "16:30",
       "title": "食料品消費税1% 大綱を閣議決定",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "食料品消費税1% 大綱を閣議決定"
     },
     {
-      "time": "17:05",
-      "title": "自民・石井参院幹事長が交代へ",
+      "time": "18:12",
+      "title": "通信途絶えた無人機の一部か 発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595384?source=rss",
-      "publishedAt": "2026-09-15T08:05:30.000Z",
-      "xQuery": "自民・石井参院幹事長が交代へ"
-    },
-    {
-      "time": "16:10",
-      "title": "空自の無人機が通信途絶 行方不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595374?source=rss",
-      "publishedAt": "2026-09-15T07:10:08.000Z",
-      "xQuery": "空自の無人機が通信途絶 行方不明"
+      "url": "https://news.yahoo.co.jp/pickup/6595389?source=rss",
+      "publishedAt": "2026-09-15T09:12:02.000Z",
+      "xQuery": "通信途絶えた無人機の一部か 発見"
     },
     {
       "time": "16:46",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "マンション11階から5歳転落 死亡"
     },
     {
-      "time": "14:40",
-      "title": "ヘンリー王子夫妻の子 2日で転校",
+      "time": "17:22",
+      "title": "家族全員が結核感染 20代女性語る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595367?source=rss",
-      "publishedAt": "2026-09-15T05:40:54.000Z",
-      "xQuery": "ヘンリー王子夫妻の子 2日で転校"
+      "url": "https://news.yahoo.co.jp/pickup/6595381?source=rss",
+      "publishedAt": "2026-09-15T08:22:14.000Z",
+      "xQuery": "家族全員が結核感染 20代女性語る"
     }
   ]
 };
