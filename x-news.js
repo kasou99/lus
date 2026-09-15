@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T06:31:50.086Z",
+  "updatedAt": "2026-09-15T07:21:11.045Z",
   "items": [
     {
-      "time": "14:08",
-      "title": "米 対イラン作戦で深刻な弾薬不足",
+      "time": "16:10",
+      "title": "空自の無人機が通信途絶 行方不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595363?source=rss",
-      "publishedAt": "2026-09-15T05:08:37.000Z",
-      "xQuery": "米 対イラン作戦で深刻な弾薬不足"
+      "url": "https://news.yahoo.co.jp/pickup/6595374?source=rss",
+      "publishedAt": "2026-09-15T07:10:08.000Z",
+      "xQuery": "空自の無人機が通信途絶 行方不明"
     },
     {
       "time": "14:09",

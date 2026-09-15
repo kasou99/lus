@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T06:31:49.356Z",
+  "updatedAt": "2026-09-15T07:21:10.312Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "15:22",
         "title": "プレスリリース：［工作機械・ロボット・搬送機メーカー必見］「CRA/MR適合」だけでは生き残れない！ICS研究所、自動車・航空機・医療サプライチェーンの「2027年の危機」を突破する実務セミナーを10/29・30開催（PR TIMES）",
-        "source": "毎日新聞",
+        "source": "mainichi.jp",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KUng1dGFZQ1Ztd1RNak56S2dCRFBwSkEtWkVXWEdzYTdSV1ljRlM0eW9JWTJDcHQyc1A3ZXlycGFpRU8zRU5fWFJXN3hZZ1k2WWFSM1FlS0FZMzJxbG5Dem9IZWJQQXR0?oc=5",
         "publishedAt": "2026-09-15T06:22:36.000Z"
       },
@@ -29,6 +29,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ea2I5a3JFZmp4TmRpYUF6N0JGZHZjWWZyZFAyMVJNcWhFbE1zVXU2cUV3azk5bDBuOVpKQWVEaUNvVkNINENZUDR0NFotelV6eXBWM0cySW4?oc=5",
         "publishedAt": "2026-09-14T20:00:00.000Z"
+      },
+      {
+        "time": "15:35",
+        "title": "浜岡原発で火災＝制御盤から、安全に影響なし―中部電",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xanVBUU9uWWFERndYMnNQeWRld0hmR3VxTWJCcWdKXzBLbXhwNTl6VC1kZERkLWxvczR0dXd3T3FKTXlRTkszR01DVHgzWGxUa2RhUTBFbGhhVFh4d2FjV3V6QTlmZWFscHB1UEFNdGtfQkZQbk5GcWtR0gF_QVVfeXFMUFB2MnNHTTNyM2JOVmJ4YmgydHppbFZZYzNobjJoTGxZVVFpdVE5OUhGX0h4VHJfdUFEZUZpcm5HSmFyYWFJSzJBc1RzaDMxQ3JMYy1uZi10eUZPT2xrb0RjSEIyTkp0SjZqUUtfV3VXbGtkT1lHdUs2dXhMaUUwYw?oc=5",
+        "publishedAt": "2026-09-15T06:35:00.000Z"
       },
       {
         "time": "05:00",
@@ -43,13 +50,6 @@
         "source": "中部経済新聞",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YWkJrdmxRZ3NYd3lUaW1LTm8zR0gxN0pYRXdiQzNRdEFCckVmdFRVUXJuS0tpSXMxQmNBelpiOXVGY3JuS0x6REh0cTF5ajQ2YmswYTNqQmZTUnY2aVM1SDVCNlRyY19RSHJ3Ty1IS1NfN2s?oc=5",
         "publishedAt": "2026-09-14T20:00:00.000Z"
-      },
-      {
-        "time": "12:18",
-        "title": "ベッコフオートメーション、EtherCATターミナルの新製品「EDシリーズ」を発売",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Yb0FhRGhYUkNfa3NqYmhqT25aZF8zS3d4ZDhIMUNQSHJyZ2U1Ti1SbjRqX2cwbnhoSk1nUFNRblJRMHVrRE1BU0d0dC0tekZObUN1Vg?oc=5",
-        "publishedAt": "2026-09-15T03:18:36.000Z"
       },
       {
         "time": "21:00",
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "16:10",
+        "title": "長期金利一時3.030% 30年ぶり水準",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595370?source=rss",
+        "publishedAt": "2026-09-15T07:10:42.000Z"
+      },
+      {
         "time": "08:06",
         "title": "米長期金利一時5%台 インフレ懸念",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595318?source=rss",
         "publishedAt": "2026-09-14T23:06:29.000Z"
-      },
-      {
-        "time": "11:12",
-        "title": "東京メトロ東西線 一部で見合わせ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595340?source=rss",
-        "publishedAt": "2026-09-15T02:12:17.000Z"
       },
       {
         "time": "14:09",
