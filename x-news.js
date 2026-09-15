@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T07:21:11.045Z",
+  "updatedAt": "2026-09-15T07:42:14.487Z",
   "items": [
     {
-      "time": "16:10",
-      "title": "空自の無人機が通信途絶 行方不明",
+      "time": "16:30",
+      "title": "食料品消費税1% 大綱を閣議決定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595374?source=rss",
-      "publishedAt": "2026-09-15T07:10:08.000Z",
-      "xQuery": "空自の無人機が通信途絶 行方不明"
+      "url": "https://news.yahoo.co.jp/pickup/6595376?source=rss",
+      "publishedAt": "2026-09-15T07:30:16.000Z",
+      "xQuery": "食料品消費税1% 大綱を閣議決定"
     },
     {
       "time": "14:09",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "金融庁 ソニー生命に立ち入り検査"
     },
     {
-      "time": "15:13",
-      "title": "マンションから男児転落 意識不明",
+      "time": "16:10",
+      "title": "空自の無人機が通信途絶 行方不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595369?source=rss",
-      "publishedAt": "2026-09-15T06:13:19.000Z",
-      "xQuery": "マンションから男児転落 意識不明"
+      "url": "https://news.yahoo.co.jp/pickup/6595374?source=rss",
+      "publishedAt": "2026-09-15T07:10:08.000Z",
+      "xQuery": "空自の無人機が通信途絶 行方不明"
     },
     {
       "time": "13:36",
