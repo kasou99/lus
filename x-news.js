@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T13:40:05.476Z",
+  "updatedAt": "2026-09-15T14:19:08.321Z",
   "items": [
     {
       "time": "20:01",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "マンションで5歳死亡 転落経緯は"
     },
     {
-      "time": "22:18",
-      "title": "日経新聞 広告冊子の料金を水増し",
+      "time": "23:00",
+      "title": "森衆院議長 ウの議会で異例の演説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595414?source=rss",
-      "publishedAt": "2026-09-15T13:18:14.000Z",
-      "xQuery": "日経新聞 広告冊子の料金を水増し"
+      "url": "https://news.yahoo.co.jp/pickup/6595415?source=rss",
+      "publishedAt": "2026-09-15T14:00:40.000Z",
+      "xQuery": "森衆院議長 ウの議会で異例の演説"
     },
     {
-      "time": "20:50",
-      "title": "ちいかわグッズ騒動 JR東海回答",
+      "time": "20:14",
+      "title": "ECMOつなぎ替え忘れの患者 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595409?source=rss",
-      "publishedAt": "2026-09-15T11:50:30.000Z",
-      "xQuery": "ちいかわグッズ騒動 JR東海回答"
+      "url": "https://news.yahoo.co.jp/pickup/6595405?source=rss",
+      "publishedAt": "2026-09-15T11:14:21.000Z",
+      "xQuery": "ECMOつなぎ替え忘れの患者 死亡"
     }
   ]
 };
