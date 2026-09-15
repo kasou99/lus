@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T15:16:45.852Z",
+  "updatedAt": "2026-09-15T15:38:55.299Z",
   "items": [
     {
       "time": "20:01",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "16日にかけ雨強まる 冠水など注意"
     },
     {
-      "time": "21:43",
-      "title": "空自 大型無人偵察機は墜落と推定",
+      "time": "23:33",
+      "title": "墜落推定の無人機 空自「任務中」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595411?source=rss",
-      "publishedAt": "2026-09-15T12:43:12.000Z",
-      "xQuery": "空自 大型無人偵察機は墜落と推定"
+      "url": "https://news.yahoo.co.jp/pickup/6595421?source=rss",
+      "publishedAt": "2026-09-15T14:33:55.000Z",
+      "xQuery": "墜落推定の無人機 空自「任務中」"
+    },
+    {
+      "time": "20:22",
+      "title": "マンションで5歳死亡 転落経緯は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595407?source=rss",
+      "publishedAt": "2026-09-15T11:22:52.000Z",
+      "xQuery": "マンションで5歳死亡 転落経緯は"
     },
     {
       "time": "00:08",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595422?source=rss",
       "publishedAt": "2026-09-15T15:08:36.000Z",
       "xQuery": "福岡県議1人20万円夕食会 県負担"
-    },
-    {
-      "time": "23:20",
-      "title": "北朝鮮体育相 アジア大会で訪日へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595417?source=rss",
-      "publishedAt": "2026-09-15T14:20:21.000Z",
-      "xQuery": "北朝鮮体育相 アジア大会で訪日へ"
     },
     {
       "time": "23:00",
