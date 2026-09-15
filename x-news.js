@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T00:49:59.231Z",
+  "updatedAt": "2026-09-15T01:30:27.168Z",
   "items": [
     {
-      "time": "08:25",
-      "title": "マンション浸水 地下設備が弱点に",
+      "time": "09:24",
+      "title": "自動運転タクシー 東京で27年にも",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595322?source=rss",
-      "publishedAt": "2026-09-14T23:25:14.000Z",
-      "xQuery": "マンション浸水 地下設備が弱点に"
+      "url": "https://news.yahoo.co.jp/pickup/6595329?source=rss",
+      "publishedAt": "2026-09-15T00:24:41.000Z",
+      "xQuery": "自動運転タクシー 東京で27年にも"
     },
     {
       "time": "09:11",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "サウジ パイプライン復旧に3～5週"
     },
     {
-      "time": "08:59",
-      "title": "6歳男児不明 最後の足取りたどる",
+      "time": "09:59",
+      "title": "宇宙空間に兵器配備 米空軍認める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595324?source=rss",
-      "publishedAt": "2026-09-14T23:59:32.000Z",
-      "xQuery": "6歳男児不明 最後の足取りたどる"
+      "url": "https://news.yahoo.co.jp/pickup/6595333?source=rss",
+      "publishedAt": "2026-09-15T00:59:12.000Z",
+      "xQuery": "宇宙空間に兵器配備 米空軍認める"
     },
     {
       "time": "08:53",
