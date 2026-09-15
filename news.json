@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T19:37:29.073Z",
+  "updatedAt": "2026-09-15T20:17:04.029Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "amano.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OUzR6XzVvdWNHQllXRi1sRUdFWF9EQWJPX0gweTNUZUVlenloMW55UnJlbkZVWHk4bkdzdmg1YUxuOXpBRDVrM09lOEJHOFVfbEM0OHBtcE9GNzlrWEIxWURISDJrbUE?oc=5",
         "publishedAt": "2026-09-15T01:56:16.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "変わる潮目2026 企業のトップに聞く（9）オークマ社長・家城淳氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xODhHdXYzZ1ZRdWZDTFc5a3I2c3ZpR1JxTExFV2F3d1lNYmJsNXFEZG5Mb1FwM1NmNjRWdGU4cjlMWUQ1eDQyN2g3SHdPaVk3bzM3WUg5bGU?oc=5",
+        "publishedAt": "2026-09-15T20:00:00.000Z"
       },
       {
         "time": "13:20",
@@ -38,11 +45,11 @@
         "publishedAt": "2026-09-15T05:04:53.000Z"
       },
       {
-        "time": "05:00",
-        "title": "工作機械、米で拠点拡充 製造業回帰、AI・DC向け照準",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ea2I5a3JFZmp4TmRpYUF6N0JGZHZjWWZyZFAyMVJNcWhFbE1zVXU2cUV3azk5bDBuOVpKQWVEaUNvVkNINENZUDR0NFotelV6eXBWM0cySW4?oc=5",
-        "publishedAt": "2026-09-14T20:00:00.000Z"
+        "time": "15:46",
+        "title": "配当を増やし続けてきた「連続増配銘柄」5社の名前",
+        "source": "gendai.media",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Id2NNb1Z2bjV5emFROHlnXzhucFNERnFoMTlVZVNvNkN5dFZ0Y0FpLUxZSG9TVWJjWGFrZjFVOThqZzZVM3pZRGtzeF9wMnBEcXNsVXFQR0c?oc=5",
+        "publishedAt": "2026-09-15T06:46:25.000Z"
       },
       {
         "time": "15:35",
@@ -50,13 +57,6 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFJSQjFNdkNYeWlpd1BWeEkyVTdsQkJEaGZKZlNKZ1cyTjRXS3JsY0ZaYTVtSmNUdmxkLTFZMmJ1RWdEay11OHRiM2pLYTBRc2ZXbTFzeTk5UGRBSE5sMEVyYWFOVHhaNzYtLS1tY203b1QzdEJNZ2FHelpwUkZITQ?oc=5",
         "publishedAt": "2026-09-15T06:35:00.000Z"
-      },
-      {
-        "time": "17:39",
-        "title": "中部電力浜岡原発で火災＝制御盤から、安全に影響なし(時事通信)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT21XLTJhcjJoMWNTenFIV0R2RXlKS1BwRFhidXBQZzZKbkZjNkwxdTNGeElqNkNTeHkzOTU4YlRpT0xxSjI4VzVQeFdxVUlPTDNzcE9ERTlaTmVfNWwzWDlveGYxTVFGRDJDTEZtY1YyNFZZOUhKTThoZDYtQUEwWEtpTDNPVWc?oc=5",
-        "publishedAt": "2026-09-15T08:39:53.000Z"
       }
     ],
     "worldHeadlines": [
