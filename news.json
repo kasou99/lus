@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T23:15:10.142Z",
+  "updatedAt": "2026-09-15T23:36:39.303Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -133,18 +133,18 @@
         "publishedAt": "2026-09-15T13:18:14.000Z"
       },
       {
-        "time": "09:24",
-        "title": "自動運転タクシー 東京で27年にも",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595329?source=rss",
-        "publishedAt": "2026-09-15T00:24:41.000Z"
-      },
-      {
         "time": "14:46",
         "title": "鉄道廃線の代替バス低迷 廃止意向",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595368?source=rss",
         "publishedAt": "2026-09-15T05:46:55.000Z"
+      },
+      {
+        "time": "20:50",
+        "title": "ちいかわグッズ騒動 JR東海回答",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595409?source=rss",
+        "publishedAt": "2026-09-15T11:50:30.000Z"
       }
     ],
     "localHeadlines": [

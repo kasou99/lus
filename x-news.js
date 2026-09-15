@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T23:15:11.416Z",
+  "updatedAt": "2026-09-15T23:36:40.072Z",
   "items": [
     {
       "time": "07:44",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ドコモ 個人情報34万人分無断提供"
     },
     {
-      "time": "00:08",
-      "title": "福岡県議1人20万円夕食会 県負担",
+      "time": "06:11",
+      "title": "金の延べ棒35kg 兵庫県に匿名寄付",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595422?source=rss",
-      "publishedAt": "2026-09-15T15:08:36.000Z",
-      "xQuery": "福岡県議1人20万円夕食会 県負担"
+      "url": "https://news.yahoo.co.jp/pickup/6595423?source=rss",
+      "publishedAt": "2026-09-15T21:11:32.000Z",
+      "xQuery": "金の延べ棒35kg 兵庫県に匿名寄付"
     }
   ]
 };
