@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T22:37:09.356Z",
+  "updatedAt": "2026-09-15T23:15:11.416Z",
   "items": [
+    {
+      "time": "07:44",
+      "title": "東海・関東甲信 警報級大雨の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595434?source=rss",
+      "publishedAt": "2026-09-15T22:44:57.000Z",
+      "xQuery": "東海・関東甲信 警報級大雨の恐れ"
+    },
     {
       "time": "07:19",
       "title": "基準地価 全国平均が5年連続上昇",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "サウジ西岸の港 原油積み込み停止"
     },
     {
+      "time": "07:37",
+      "title": "ドコモ 個人情報34万人分無断提供",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595432?source=rss",
+      "publishedAt": "2026-09-15T22:37:30.000Z",
+      "xQuery": "ドコモ 個人情報34万人分無断提供"
+    },
+    {
       "time": "00:08",
       "title": "福岡県議1人20万円夕食会 県負担",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595422?source=rss",
       "publishedAt": "2026-09-15T15:08:36.000Z",
       "xQuery": "福岡県議1人20万円夕食会 県負担"
-    },
-    {
-      "time": "06:11",
-      "title": "金の延べ棒35kg 兵庫県に匿名寄付",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595423?source=rss",
-      "publishedAt": "2026-09-15T21:11:32.000Z",
-      "xQuery": "金の延べ棒35kg 兵庫県に匿名寄付"
-    },
-    {
-      "time": "07:25",
-      "title": "メルカリ 30thポケカ一時出品禁止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595431?source=rss",
-      "publishedAt": "2026-09-15T22:25:41.000Z",
-      "xQuery": "メルカリ 30thポケカ一時出品禁止"
     }
   ]
 };
