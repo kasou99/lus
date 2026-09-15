@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T22:16:09.249Z",
+  "updatedAt": "2026-09-15T22:37:09.356Z",
   "items": [
     {
-      "time": "06:18",
-      "title": "熊本県で震度4 津波の心配なし",
+      "time": "07:19",
+      "title": "基準地価 全国平均が5年連続上昇",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595424?source=rss",
-      "publishedAt": "2026-09-15T21:18:40.000Z",
-      "xQuery": "熊本県で震度4 津波の心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6595429?source=rss",
+      "publishedAt": "2026-09-15T22:19:30.000Z",
+      "xQuery": "基準地価 全国平均が5年連続上昇"
     },
     {
-      "time": "23:33",
-      "title": "墜落推定の無人機 空自「任務中」",
+      "time": "07:19",
+      "title": "サウジ西岸の港 原油積み込み停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595421?source=rss",
-      "publishedAt": "2026-09-15T14:33:55.000Z",
-      "xQuery": "墜落推定の無人機 空自「任務中」"
+      "url": "https://news.yahoo.co.jp/pickup/6595428?source=rss",
+      "publishedAt": "2026-09-15T22:19:51.000Z",
+      "xQuery": "サウジ西岸の港 原油積み込み停止"
     },
     {
       "time": "00:08",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "福岡県議1人20万円夕食会 県負担"
     },
     {
-      "time": "23:00",
-      "title": "森衆院議長 ウの議会で異例の演説",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595415?source=rss",
-      "publishedAt": "2026-09-15T14:00:40.000Z",
-      "xQuery": "森衆院議長 ウの議会で異例の演説"
-    },
-    {
       "time": "06:11",
       "title": "金の延べ棒35kg 兵庫県に匿名寄付",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595423?source=rss",
       "publishedAt": "2026-09-15T21:11:32.000Z",
       "xQuery": "金の延べ棒35kg 兵庫県に匿名寄付"
+    },
+    {
+      "time": "07:25",
+      "title": "メルカリ 30thポケカ一時出品禁止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595431?source=rss",
+      "publishedAt": "2026-09-15T22:25:41.000Z",
+      "xQuery": "メルカリ 30thポケカ一時出品禁止"
     }
   ]
 };
