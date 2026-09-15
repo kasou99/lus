@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T08:25:57.072Z",
+  "updatedAt": "2026-09-15T08:45:21.161Z",
   "items": [
     {
       "time": "16:30",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "自民・石井参院幹事長が交代へ"
     },
     {
-      "time": "17:09",
-      "title": "長期金利一時3.035% 30年ぶり水準",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595385?source=rss",
-      "publishedAt": "2026-09-15T08:09:27.000Z",
-      "xQuery": "長期金利一時3.035% 30年ぶり水準"
-    },
-    {
       "time": "16:10",
       "title": "空自の無人機が通信途絶 行方不明",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595377?source=rss",
       "publishedAt": "2026-09-15T07:46:18.000Z",
       "xQuery": "マンション11階から5歳転落 死亡"
+    },
+    {
+      "time": "14:40",
+      "title": "ヘンリー王子夫妻の子 2日で転校",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595367?source=rss",
+      "publishedAt": "2026-09-15T05:40:54.000Z",
+      "xQuery": "ヘンリー王子夫妻の子 2日で転校"
     }
   ]
 };

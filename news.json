@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T08:25:56.534Z",
+  "updatedAt": "2026-09-15T08:45:20.436Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "amano.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OUzR6XzVvdWNHQllXRi1sRUdFWF9EQWJPX0gweTNUZUVlenloMW55UnJlbkZVWHk4bkdzdmg1YUxuOXpBRDVrM09lOEJHOFVfbEM0OHBtcE9GNzlrWEIxWURISDJrbUE?oc=5",
         "publishedAt": "2026-09-15T01:56:16.000Z"
+      },
+      {
+        "time": "17:39",
+        "title": "中部電力浜岡原発で火災＝制御盤から、安全に影響なし(時事通信)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT21XLTJhcjJoMWNTenFIV0R2RXlKS1BwRFhidXBQZzZKbkZjNkwxdTNGeElqNkNTeHkzOTU4YlRpT0xxSjI4VzVQeFdxVUlPTDNzcE9ERTlaTmVfNWwzWDlveGYxTVFGRDJDTEZtY1YyNFZZOUhKTThoZDYtQUEwWEtpTDNPVWc?oc=5",
+        "publishedAt": "2026-09-15T08:39:53.000Z"
       },
       {
         "time": "15:22",
@@ -49,13 +56,6 @@
         "title": "「六価クロム」使わぬ研削盤 ジェイテクト：地域ニュース",
         "source": "読売新聞",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kNFlOVGlwZW03dDk0TTNUbjB2cHR3Q2lfUTZtSGFfSE5qS01QbkU0Y3UyWUllR1B2Q1c3cnI4UWpGUy0xOUNFMFNGUEhyQTVvcEFJb0hrV2tPcEE4czlhaDJCeXdwT1lQcUJIZVR4cHI?oc=5",
-        "publishedAt": "2026-09-14T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "DMG森精機、重切削・連続加工を両立 横中ぐりMC発売",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mVzMzQTNxOEwtenkycjZHUk8taUJheXk2TExVRE5RVnYzZEtFSTRmQXRhckZleV9OMUw0ODRQMldGR2VzWTNBZjhRUjJEejNBb0NPcXFqVlE?oc=5",
         "publishedAt": "2026-09-14T20:00:00.000Z"
       }
     ],
