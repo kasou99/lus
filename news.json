@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-15T14:40:06.183Z",
+  "updatedAt": "2026-09-15T15:16:45.170Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "15:35",
         "title": "浜岡原発で火災 制御盤から、安全に影響なし―中部電：時事ドットコム",
-        "source": "時事ドットコム",
+        "source": "jiji.com",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96enZZZGxVaUZSMENWRFRtNGp0b0dIUWxQdmQzTjRxMzBBcjBHUkdJa0VnZGE3Qm9OVjcta3BKdlZBaXM5eldyR0xEVDE2b0lSTzUzZ3dqa2k0QnNndHp5ckFjNA?oc=5",
         "publishedAt": "2026-09-15T06:35:00.000Z"
       },
@@ -17,18 +17,18 @@
         "publishedAt": "2026-09-15T01:56:16.000Z"
       },
       {
-        "time": "17:39",
-        "title": "中部電力浜岡原発で火災＝制御盤から、安全に影響なし(時事通信)",
-        "source": "finance.yahoo.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT21XLTJhcjJoMWNTenFIV0R2RXlKS1BwRFhidXBQZzZKbkZjNkwxdTNGeElqNkNTeHkzOTU4YlRpT0xxSjI4VzVQeFdxVUlPTDNzcE9ERTlaTmVfNWwzWDlveGYxTVFGRDJDTEZtY1YyNFZZOUhKTThoZDYtQUEwWEtpTDNPVWc?oc=5",
-        "publishedAt": "2026-09-15T08:39:53.000Z"
-      },
-      {
         "time": "13:20",
         "title": "【工作機械・ロボット・搬送機メーカー必見】「CRA/MR適合」だけでは生き残れない！ICS研究所、自動車・航空機・医療サプライチェーンの「2027年の危機」を突破する実務セミナーを10/29・30開催",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTzN2R1lsa0dCampobEhRRy1HdDMxUzdUeURGMEhiV2VoQUp3WEh3Q1BtVDBJek04LU90enBCY2VJQ29ScTV5QUdFS01lVXdiQ29uQVVqTG85Zm9NeE9qSXVsTEg1eDNmOGc?oc=5",
         "publishedAt": "2026-09-15T04:20:31.000Z"
+      },
+      {
+        "time": "17:39",
+        "title": "中部電力浜岡原発で火災＝制御盤から、安全に影響なし(時事通信)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT21XLTJhcjJoMWNTenFIV0R2RXlKS1BwRFhidXBQZzZKbkZjNkwxdTNGeElqNkNTeHkzOTU4YlRpT0xxSjI4VzVQeFdxVUlPTDNzcE9ERTlaTmVfNWwzWDlveGYxTVFGRDJDTEZtY1YyNFZZOUhKTThoZDYtQUEwWEtpTDNPVWc?oc=5",
+        "publishedAt": "2026-09-15T08:39:53.000Z"
       },
       {
         "time": "05:00",
@@ -54,7 +54,7 @@
       {
         "time": "15:35",
         "title": "浜岡原発で火災 制御盤から、安全に影響なし―中部電",
-        "source": "時事ドットコム",
+        "source": "jiji.com",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFJSQjFNdkNYeWlpd1BWeEkyVTdsQkJEaGZKZlNKZ1cyTjRXS3JsY0ZaYTVtSmNUdmxkLTFZMmJ1RWdEay11OHRiM2pLYTBRc2ZXbTFzeTk5UGRBSE5sMEVyYWFOVHhaNzYtLS1tY203b1QzdEJNZ2FHelpwUkZITQ?oc=5",
         "publishedAt": "2026-09-15T06:35:00.000Z"
       }
@@ -163,6 +163,13 @@
         "publishedAt": "2026-09-15T07:46:18.000Z"
       },
       {
+        "time": "00:08",
+        "title": "福岡県議1人20万円夕食会 県負担",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595422?source=rss",
+        "publishedAt": "2026-09-15T15:08:36.000Z"
+      },
+      {
         "time": "14:24",
         "title": "12歳タイ少女人身取引 男実刑判決",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595356?source=rss",
         "publishedAt": "2026-09-15T04:04:24.000Z"
-      },
-      {
-        "time": "11:26",
-        "title": "沖縄知事選 広がっていた対立疲れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595343?source=rss",
-        "publishedAt": "2026-09-15T02:26:27.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }

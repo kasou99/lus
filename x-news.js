@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T14:40:06.941Z",
+  "updatedAt": "2026-09-15T15:16:45.852Z",
   "items": [
     {
       "time": "20:01",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "空自 大型無人偵察機は墜落と推定"
     },
     {
-      "time": "23:33",
-      "title": "墜落推定の無人機 空自「任務中」",
+      "time": "00:08",
+      "title": "福岡県議1人20万円夕食会 県負担",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595421?source=rss",
-      "publishedAt": "2026-09-15T14:33:55.000Z",
-      "xQuery": "墜落推定の無人機 空自「任務中」"
+      "url": "https://news.yahoo.co.jp/pickup/6595422?source=rss",
+      "publishedAt": "2026-09-15T15:08:36.000Z",
+      "xQuery": "福岡県議1人20万円夕食会 県負担"
     },
     {
       "time": "23:20",
