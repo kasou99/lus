@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T20:37:51.660Z",
+  "updatedAt": "2026-09-15T21:15:13.962Z",
   "items": [
     {
-      "time": "20:01",
-      "title": "16日にかけ雨強まる 冠水など注意",
+      "time": "06:12",
+      "title": "地震情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595403?source=rss",
-      "publishedAt": "2026-09-15T11:01:13.000Z",
-      "xQuery": "16日にかけ雨強まる 冠水など注意"
+      "url": "https://news.yahoo.co.jp/pickup/6592719?source=rss",
+      "publishedAt": "2026-09-15T21:12:43.000Z",
+      "xQuery": "地震情報"
     },
     {
       "time": "23:33",
