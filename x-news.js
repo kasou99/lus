@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T05:18:16.292Z",
+  "updatedAt": "2026-09-15T05:40:17.503Z",
   "items": [
     {
-      "time": "12:07",
-      "title": "100歳以上 全国で初の10万人超",
+      "time": "14:08",
+      "title": "米 対イラン作戦で深刻な弾薬不足",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595353?source=rss",
-      "publishedAt": "2026-09-15T03:07:33.000Z",
-      "xQuery": "100歳以上 全国で初の10万人超"
+      "url": "https://news.yahoo.co.jp/pickup/6595363?source=rss",
+      "publishedAt": "2026-09-15T05:08:37.000Z",
+      "xQuery": "米 対イラン作戦で深刻な弾薬不足"
     },
     {
-      "time": "11:26",
-      "title": "沖縄知事選 広がっていた対立疲れ",
+      "time": "14:09",
+      "title": "金融庁 ソニー生命に立ち入り検査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595343?source=rss",
-      "publishedAt": "2026-09-15T02:26:27.000Z",
-      "xQuery": "沖縄知事選 広がっていた対立疲れ"
+      "url": "https://news.yahoo.co.jp/pickup/6595362?source=rss",
+      "publishedAt": "2026-09-15T05:09:46.000Z",
+      "xQuery": "金融庁 ソニー生命に立ち入り検査"
     },
     {
       "time": "13:36",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "シルバーウィーク 台風動向に注意"
     },
     {
-      "time": "13:04",
-      "title": "鉄塔転落死の男性社員が遺書 調査",
+      "time": "14:24",
+      "title": "12歳タイ少女人身取引 男実刑判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595356?source=rss",
-      "publishedAt": "2026-09-15T04:04:24.000Z",
-      "xQuery": "鉄塔転落死の男性社員が遺書 調査"
+      "url": "https://news.yahoo.co.jp/pickup/6595366?source=rss",
+      "publishedAt": "2026-09-15T05:24:39.000Z",
+      "xQuery": "12歳タイ少女人身取引 男実刑判決"
     }
   ]
 };

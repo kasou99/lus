@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T05:18:15.530Z",
+  "updatedAt": "2026-09-15T05:40:16.865Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-09-15T04:20:31.000Z"
       },
       {
-        "time": "14:05",
+        "time": "14:04",
         "title": "浜岡原子力発電所 275kV開閉所（放射線管理区域外）における制御盤内での出火（火災）",
         "source": "chuden.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNTVBlV2lPR05rZXdpUVFWdEphd0U1bDBJTTBjQzFteG5OeFBma0pOaWVXbGJRQzE2UGJYbDhjeHA5WGVZR0tUS1NuSE1kXzVFOW4zRTcyeUl0ajM5bVotV3J6ZmRpYWhCckE?oc=5",
-        "publishedAt": "2026-09-15T05:05:39.000Z"
+        "publishedAt": "2026-09-15T05:04:53.000Z"
       },
       {
         "time": "05:00",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:24",
+        "title": "12歳タイ少女人身取引 男実刑判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595366?source=rss",
+        "publishedAt": "2026-09-15T05:24:39.000Z"
+      },
+      {
         "time": "13:04",
         "title": "鉄塔転落死の男性社員が遺書 調査",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595313?source=rss",
         "publishedAt": "2026-09-14T22:43:01.000Z"
-      },
-      {
-        "time": "22:00",
-        "title": "辺野古転覆 引率教師語る「胸中」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595299?source=rss",
-        "publishedAt": "2026-09-14T13:00:10.000Z"
       }
     ],
     "subsidyHeadlines": [
