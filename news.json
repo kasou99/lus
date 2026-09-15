@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T18:42:17.518Z",
+  "updatedAt": "2026-09-15T19:14:36.690Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-09-15T06:36:39.000Z"
       },
       {
-        "time": "05:00",
-        "title": "工作機械、米で拠点拡充 製造業回帰、AI・DC向け照準",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ea2I5a3JFZmp4TmRpYUF6N0JGZHZjWWZyZFAyMVJNcWhFbE1zVXU2cUV3azk5bDBuOVpKQWVEaUNvVkNINENZUDR0NFotelV6eXBWM0cySW4?oc=5",
-        "publishedAt": "2026-09-14T20:00:00.000Z"
-      },
-      {
         "time": "14:04",
         "title": "浜岡原子力発電所 275kV開閉所（放射線管理区域外）における制御盤内での出火（火災）",
         "source": "chuden.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNTVBlV2lPR05rZXdpUVFWdEphd0U1bDBJTTBjQzFteG5OeFBma0pOaWVXbGJRQzE2UGJYbDhjeHA5WGVZR0tUS1NuSE1kXzVFOW4zRTcyeUl0ajM5bVotV3J6ZmRpYWhCckE?oc=5",
         "publishedAt": "2026-09-15T05:04:53.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "工作機械、米で拠点拡充 製造業回帰、AI・DC向け照準",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ea2I5a3JFZmp4TmRpYUF6N0JGZHZjWWZyZFAyMVJNcWhFbE1zVXU2cUV3azk5bDBuOVpKQWVEaUNvVkNINENZUDR0NFotelV6eXBWM0cySW4?oc=5",
+        "publishedAt": "2026-09-14T20:00:00.000Z"
       },
       {
         "time": "15:35",
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
