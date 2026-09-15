@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-15T07:42:13.849Z",
+  "updatedAt": "2026-09-15T08:25:56.534Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:35",
+        "title": "浜岡原発で火災 制御盤から、安全に影響なし―中部電",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96enZZZGxVaUZSMENWRFRtNGp0b0dIUWxQdmQzTjRxMzBBcjBHUkdJa0VnZGE3Qm9OVjcta3BKdlZBaXM5eldyR0xEVDE2b0lSTzUzZ3dqa2k0QnNndHp5ckFjNA?oc=5",
+        "publishedAt": "2026-09-15T06:35:00.000Z"
+      },
       {
         "time": "10:56",
         "title": "第33回日本国際工作機械見本市（JIMTOF）出展のお知らせ",
         "source": "amano.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OUzR6XzVvdWNHQllXRi1sRUdFWF9EQWJPX0gweTNUZUVlenloMW55UnJlbkZVWHk4bkdzdmg1YUxuOXpBRDVrM09lOEJHOFVfbEM0OHBtcE9GNzlrWEIxWURISDJrbUE?oc=5",
         "publishedAt": "2026-09-15T01:56:16.000Z"
-      },
-      {
-        "time": "14:04",
-        "title": "浜岡原子力発電所 275kV開閉所（放射線管理区域外）における制御盤内での出火（火災）",
-        "source": "chuden.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNTVBlV2lPR05rZXdpUVFWdEphd0U1bDBJTTBjQzFteG5OeFBma0pOaWVXbGJRQzE2UGJYbDhjeHA5WGVZR0tUS1NuSE1kXzVFOW4zRTcyeUl0ajM5bVotV3J6ZmRpYWhCckE?oc=5",
-        "publishedAt": "2026-09-15T05:04:53.000Z"
       },
       {
         "time": "15:22",
@@ -24,18 +24,25 @@
         "publishedAt": "2026-09-15T06:22:36.000Z"
       },
       {
-        "time": "05:00",
-        "title": "工作機械、米で拠点拡充 製造業回帰、AI・DC向け照準",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ea2I5a3JFZmp4TmRpYUF6N0JGZHZjWWZyZFAyMVJNcWhFbE1zVXU2cUV3azk5bDBuOVpKQWVEaUNvVkNINENZUDR0NFotelV6eXBWM0cySW4?oc=5",
-        "publishedAt": "2026-09-14T20:00:00.000Z"
+        "time": "14:04",
+        "title": "浜岡原子力発電所 275kV開閉所（放射線管理区域外）における制御盤内での出火（火災）",
+        "source": "chuden.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNTVBlV2lPR05rZXdpUVFWdEphd0U1bDBJTTBjQzFteG5OeFBma0pOaWVXbGJRQzE2UGJYbDhjeHA5WGVZR0tUS1NuSE1kXzVFOW4zRTcyeUl0ajM5bVotV3J6ZmRpYWhCckE?oc=5",
+        "publishedAt": "2026-09-15T05:04:53.000Z"
       },
       {
-        "time": "15:35",
-        "title": "浜岡原発で火災＝制御盤から、安全に影響なし―中部電",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xanVBUU9uWWFERndYMnNQeWRld0hmR3VxTWJCcWdKXzBLbXhwNTl6VC1kZERkLWxvczR0dXd3T3FKTXlRTkszR01DVHgzWGxUa2RhUTBFbGhhVFh4d2FjV3V6QTlmZWFscHB1UEFNdGtfQkZQbk5GcWtR0gF_QVVfeXFMUFB2MnNHTTNyM2JOVmJ4YmgydHppbFZZYzNobjJoTGxZVVFpdVE5OUhGX0h4VHJfdUFEZUZpcm5HSmFyYWFJSzJBc1RzaDMxQ3JMYy1uZi10eUZPT2xrb0RjSEIyTkp0SjZqUUtfV3VXbGtkT1lHdUs2dXhMaUUwYw?oc=5",
-        "publishedAt": "2026-09-15T06:35:00.000Z"
+        "time": "15:46",
+        "title": "配当を増やし続けてきた「連続増配銘柄」5社の名前",
+        "source": "現代ビジネス",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Id2NNb1Z2bjV5emFROHlnXzhucFNERnFoMTlVZVNvNkN5dFZ0Y0FpLUxZSG9TVWJjWGFrZjFVOThqZzZVM3pZRGtzeF9wMnBEcXNsVXFQR0c?oc=5",
+        "publishedAt": "2026-09-15T06:46:25.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "改革に挑む中部企業 松井機工 少数精鋭、多能工化を推進 全社員で設備保全活動 機械30台全て点検突発故障を大きく削減",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YWkJrdmxRZ3NYd3lUaW1LTm8zR0gxN0pYRXdiQzNRdEFCckVmdFRVUXJuS0tpSXMxQmNBelpiOXVGY3JuS0x6REh0cTF5ajQ2YmswYTNqQmZTUnY2aVM1SDVCNlRyY19RSHJ3Ty1IS1NfN2s?oc=5",
+        "publishedAt": "2026-09-14T20:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -46,17 +53,10 @@
       },
       {
         "time": "05:00",
-        "title": "改革に挑む中部企業 松井機工 少数精鋭、多能工化を推進 全社員で設備保全活動 機械30台全て点検突発故障を大きく削減",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YWkJrdmxRZ3NYd3lUaW1LTm8zR0gxN0pYRXdiQzNRdEFCckVmdFRVUXJuS0tpSXMxQmNBelpiOXVGY3JuS0x6REh0cTF5ajQ2YmswYTNqQmZTUnY2aVM1SDVCNlRyY19RSHJ3Ty1IS1NfN2s?oc=5",
+        "title": "DMG森精機、重切削・連続加工を両立 横中ぐりMC発売",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mVzMzQTNxOEwtenkycjZHUk8taUJheXk2TExVRE5RVnYzZEtFSTRmQXRhckZleV9OMUw0ODRQMldGR2VzWTNBZjhRUjJEejNBb0NPcXFqVlE?oc=5",
         "publishedAt": "2026-09-14T20:00:00.000Z"
-      },
-      {
-        "time": "21:00",
-        "title": "株安でも業績は上向き？ ｢工作機械受注｣で見る日本株の行方",
-        "source": "テレ東BIZ",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fOENHZXBxcjhqdEJMMU5iMzh5Q1BXTjhXNWFFaWNJV3hNRmozV3Q0UkpXSHlFX0FmUHp3SWY4N09RdUVpZGZFbFl5dUVRWWM2YkZacWo4dTdKX1RaYW1jbHdUTnRFSkgzU3c?oc=5",
-        "publishedAt": "2026-09-14T12:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "16:10",
-        "title": "長期金利一時3.030% 30年ぶり水準",
+        "time": "17:09",
+        "title": "長期金利一時3.035% 30年ぶり水準",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595370?source=rss",
-        "publishedAt": "2026-09-15T07:10:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595385?source=rss",
+        "publishedAt": "2026-09-15T08:09:27.000Z"
       },
       {
         "time": "08:06",
@@ -133,34 +133,34 @@
         "publishedAt": "2026-09-14T21:23:15.000Z"
       },
       {
-        "time": "21:51",
-        "title": "光通信 レオパレス21にTOB実施",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595298?source=rss",
-        "publishedAt": "2026-09-14T12:51:42.000Z"
-      },
-      {
         "time": "09:24",
         "title": "自動運転タクシー 東京で27年にも",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595329?source=rss",
         "publishedAt": "2026-09-15T00:24:41.000Z"
+      },
+      {
+        "time": "14:46",
+        "title": "鉄道廃線の代替バス低迷 廃止意向",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595368?source=rss",
+        "publishedAt": "2026-09-15T05:46:55.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "16:46",
+        "title": "マンション11階から5歳転落 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595377?source=rss",
+        "publishedAt": "2026-09-15T07:46:18.000Z"
+      },
       {
         "time": "14:24",
         "title": "12歳タイ少女人身取引 男実刑判決",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595366?source=rss",
         "publishedAt": "2026-09-15T05:24:39.000Z"
-      },
-      {
-        "time": "15:13",
-        "title": "マンションから男児転落 意識不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595369?source=rss",
-        "publishedAt": "2026-09-15T06:13:19.000Z"
       },
       {
         "time": "13:04",

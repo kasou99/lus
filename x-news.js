@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T07:42:14.487Z",
+  "updatedAt": "2026-09-15T08:25:57.072Z",
   "items": [
     {
       "time": "16:30",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "食料品消費税1% 大綱を閣議決定"
     },
     {
-      "time": "14:09",
-      "title": "金融庁 ソニー生命に立ち入り検査",
+      "time": "17:05",
+      "title": "自民・石井参院幹事長が交代へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595362?source=rss",
-      "publishedAt": "2026-09-15T05:09:46.000Z",
-      "xQuery": "金融庁 ソニー生命に立ち入り検査"
+      "url": "https://news.yahoo.co.jp/pickup/6595384?source=rss",
+      "publishedAt": "2026-09-15T08:05:30.000Z",
+      "xQuery": "自民・石井参院幹事長が交代へ"
+    },
+    {
+      "time": "17:09",
+      "title": "長期金利一時3.035% 30年ぶり水準",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595385?source=rss",
+      "publishedAt": "2026-09-15T08:09:27.000Z",
+      "xQuery": "長期金利一時3.035% 30年ぶり水準"
     },
     {
       "time": "16:10",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "空自の無人機が通信途絶 行方不明"
     },
     {
-      "time": "13:36",
-      "title": "米MS 行動規範で「AIより人間」",
+      "time": "16:46",
+      "title": "マンション11階から5歳転落 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595359?source=rss",
-      "publishedAt": "2026-09-15T04:36:49.000Z",
-      "xQuery": "米MS 行動規範で「AIより人間」"
-    },
-    {
-      "time": "14:24",
-      "title": "12歳タイ少女人身取引 男実刑判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595366?source=rss",
-      "publishedAt": "2026-09-15T05:24:39.000Z",
-      "xQuery": "12歳タイ少女人身取引 男実刑判決"
+      "url": "https://news.yahoo.co.jp/pickup/6595377?source=rss",
+      "publishedAt": "2026-09-15T07:46:18.000Z",
+      "xQuery": "マンション11階から5歳転落 死亡"
     }
   ]
 };
