@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-15T10:40:00.674Z",
+  "updatedAt": "2026-09-15T11:16:42.115Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "15:35",
         "title": "浜岡原発で火災 制御盤から、安全に影響なし―中部電",
-        "source": "時事ドットコム",
+        "source": "jiji.com",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96enZZZGxVaUZSMENWRFRtNGp0b0dIUWxQdmQzTjRxMzBBcjBHUkdJa0VnZGE3Qm9OVjcta3BKdlZBaXM5eldyR0xEVDE2b0lSTzUzZ3dqa2k0QnNndHp5ckFjNA?oc=5",
         "publishedAt": "2026-09-15T06:35:00.000Z"
       },
@@ -52,11 +52,11 @@
         "publishedAt": "2026-09-14T20:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "DMG森精機、重切削・連続加工を両立 横中ぐりMC発売",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mVzMzQTNxOEwtenkycjZHUk8taUJheXk2TExVRE5RVnYzZEtFSTRmQXRhckZleV9OMUw0ODRQMldGR2VzWTNBZjhRUjJEejNBb0NPcXFqVlE?oc=5",
-        "publishedAt": "2026-09-14T20:00:00.000Z"
+        "time": "17:02",
+        "title": "生活工具の扱いが始まり、山善 工作機械や住宅設備の専門商社大手【経済トレンド】 (共同通信)",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGdNTjRQelNsNnk2ay1jM3F2NFlfT1BlNTZEU2pmYlUzX2d4cnhtZUJsN1Z4QmZVMnFlN041YU13Vy1CcHNvcXZsZmpISEJuck92SUdlYmFYaWN5Mm5SanUzdkVTOXdrRWlfZV9wandRd1Y4Y1VOX2o0Sy1UazN5eFJqR1BqX3dYT0xCZGdn?oc=5",
+        "publishedAt": "2026-09-15T08:02:39.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-09-15T05:24:39.000Z"
       },
       {
+        "time": "20:14",
+        "title": "ECMOつなぎ替え忘れの患者 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595405?source=rss",
+        "publishedAt": "2026-09-15T11:14:21.000Z"
+      },
+      {
         "time": "13:04",
         "title": "鉄塔転落死の男性社員が遺書 調査",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595343?source=rss",
         "publishedAt": "2026-09-15T02:26:27.000Z"
-      },
-      {
-        "time": "06:09",
-        "title": "ケーキ店火災「腹殴られた」証言",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595305?source=rss",
-        "publishedAt": "2026-09-14T21:09:10.000Z"
       }
     ],
     "subsidyHeadlines": [

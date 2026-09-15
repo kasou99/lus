@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T10:40:01.588Z",
+  "updatedAt": "2026-09-15T11:16:43.161Z",
   "items": [
     {
       "time": "18:01",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "通信途絶えた無人機の一部か 発見"
     },
     {
-      "time": "16:46",
-      "title": "マンション11階から5歳転落 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595377?source=rss",
-      "publishedAt": "2026-09-15T07:46:18.000Z",
-      "xQuery": "マンション11階から5歳転落 死亡"
-    },
-    {
       "time": "17:22",
       "title": "家族全員が結核感染 20代女性語る",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595381?source=rss",
       "publishedAt": "2026-09-15T08:22:14.000Z",
       "xQuery": "家族全員が結核感染 20代女性語る"
+    },
+    {
+      "time": "14:46",
+      "title": "鉄道廃線の代替バス低迷 廃止意向",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595368?source=rss",
+      "publishedAt": "2026-09-15T05:46:55.000Z",
+      "xQuery": "鉄道廃線の代替バス低迷 廃止意向"
     }
   ]
 };
