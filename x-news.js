@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T11:16:42.030Z",
+  "updatedAt": "2026-09-16T11:38:38.718Z",
   "items": [
     {
-      "time": "17:39",
-      "title": "男女平等 日本は145カ国中の117位",
+      "time": "20:18",
+      "title": "十勝岳の噴火可能性高まる 調査委",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595505?source=rss",
-      "publishedAt": "2026-09-16T08:39:30.000Z",
-      "xQuery": "男女平等 日本は145カ国中の117位"
+      "url": "https://news.yahoo.co.jp/pickup/6595518?source=rss",
+      "publishedAt": "2026-09-16T11:18:54.000Z",
+      "xQuery": "十勝岳の噴火可能性高まる 調査委"
+    },
+    {
+      "time": "18:11",
+      "title": "エーザイ認知症薬承認 自ら注射可",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595508?source=rss",
+      "publishedAt": "2026-09-16T09:11:18.000Z",
+      "xQuery": "エーザイ認知症薬承認 自ら注射可"
     },
     {
       "time": "18:33",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "10年前に性的暴行疑い 容疑者逮捕"
     },
     {
-      "time": "17:03",
-      "title": "赤い羽根募金 さらに7000万円不明",
+      "time": "17:21",
+      "title": "幼稚園が閉園を突然発表 困惑の声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595501?source=rss",
-      "publishedAt": "2026-09-16T08:03:44.000Z",
-      "xQuery": "赤い羽根募金 さらに7000万円不明"
-    },
-    {
-      "time": "19:32",
-      "title": "NHK 飲酒ガイドライン策定検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595512?source=rss",
-      "publishedAt": "2026-09-16T10:32:22.000Z",
-      "xQuery": "NHK 飲酒ガイドライン策定検討"
+      "url": "https://news.yahoo.co.jp/pickup/6595504?source=rss",
+      "publishedAt": "2026-09-16T08:21:10.000Z",
+      "xQuery": "幼稚園が閉園を突然発表 困惑の声"
     }
   ]
 };
