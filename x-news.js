@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T05:18:08.107Z",
+  "updatedAt": "2026-09-16T05:40:23.722Z",
   "items": [
     {
       "time": "11:43",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東・東海 局地的な雷雨に注意"
     },
     {
-      "time": "11:59",
-      "title": "北朝鮮に50億円賠償命令 韓国地裁",
+      "time": "14:35",
+      "title": "6歳不明 男児の防カメ映像を公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595472?source=rss",
-      "publishedAt": "2026-09-16T02:59:47.000Z",
-      "xQuery": "北朝鮮に50億円賠償命令 韓国地裁"
+      "url": "https://news.yahoo.co.jp/pickup/6595488?source=rss",
+      "publishedAt": "2026-09-16T05:35:23.000Z",
+      "xQuery": "6歳不明 男児の防カメ映像を公開"
     },
     {
       "time": "11:54",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "生徒2人と窃盗未遂疑い 教諭逮捕"
     },
     {
-      "time": "11:36",
-      "title": "元ボクサー薬師寺保栄被告に有罪",
+      "time": "13:38",
+      "title": "産休中の京都・八幡市長 女児出産",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595466?source=rss",
-      "publishedAt": "2026-09-16T02:36:26.000Z",
-      "xQuery": "元ボクサー薬師寺保栄被告に有罪"
+      "url": "https://news.yahoo.co.jp/pickup/6595481?source=rss",
+      "publishedAt": "2026-09-16T04:38:38.000Z",
+      "xQuery": "産休中の京都・八幡市長 女児出産"
     }
   ]
 };

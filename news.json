@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T05:18:06.802Z",
+  "updatedAt": "2026-09-16T05:40:23.102Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -47,7 +47,7 @@
       {
         "time": "15:39",
         "title": "中部電力浜岡原発で火災",
-        "source": "ｄメニューニュース",
+        "source": "topics.smt.docomo.ne.jp",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWG9aU3VRbWNWTHpSZlU1enNmSnZtSmQ1VFhobnFlclVlNlI4ZkRkRmVxeENMNEk3TjJQVDN5ZEpNZTc5Ymxvd2hETlhncTZhWnFOdjJvaWE2ci1ObTBjVktZc3BmSEozVTZLOFFhNUVYalRpMVBZMjVfdmNFWXNlLdIBgAFBVV95cUxOWG9aU3VRbWNWTHpSZlU1enNmSnZtSmQ1VFhobnFlclVlNlI4ZkRkRmVxeENMNEk3TjJQVDN5ZEpNZTc5Ymxvd2hETlhncTZhWnFOdjJvaWE2ci1ObTBjVktZc3BmSEozVTZLOFFhNUVYalRpMVBZMjVfdmNFWXNlLQ?oc=5",
         "publishedAt": "2026-09-15T06:39:00.000Z"
       },
@@ -170,6 +170,13 @@
         "publishedAt": "2026-09-16T03:11:26.000Z"
       },
       {
+        "time": "14:35",
+        "title": "6歳不明 男児の防カメ映像を公開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595488?source=rss",
+        "publishedAt": "2026-09-16T05:35:23.000Z"
+      },
+      {
         "time": "12:12",
         "title": "元カープ選手に薬物譲渡の男 有罪",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595468?source=rss",
         "publishedAt": "2026-09-16T02:54:08.000Z"
-      },
-      {
-        "time": "11:36",
-        "title": "元ボクサー薬師寺保栄被告に有罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595466?source=rss",
-        "publishedAt": "2026-09-16T02:36:26.000Z"
       }
     ],
     "subsidyHeadlines": [
