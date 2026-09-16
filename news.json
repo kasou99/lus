@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T20:17:53.363Z",
+  "updatedAt": "2026-09-16T20:38:54.051Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
         "publishedAt": "2026-09-16T07:00:53.000Z"
+      },
+      {
+        "time": "15:44",
+        "title": "ICS研究所、搬送機などのセキュリティ対策を解説",
+        "source": "LOGISTICS TODAY",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ueUt6b1o2d2h5SmYwQl9pUWpVYUs2X1NJRnFaVkI0WlpHR29pcFdXTVpQa1hZX2lWc3NRdjluZTNYRkVZUHBIbE1R?oc=5",
+        "publishedAt": "2026-09-16T06:44:49.000Z"
       },
       {
         "time": "18:06",
@@ -50,13 +57,6 @@
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PMC1CaE1VSlphZXgzTHI0U19Ld2c3SkpHUm5PLTdpb0ZEZUFvbXNLV28wdWdlSWwxay1vQWc2Z1A0SllqTUwya0pzTERET0s4UTBtYmVYdU1tMVMwYTJpQnFMcEZzdVlrUHV1cEdPY2hHLUFwNWxuWm9vcWR2QdIBfkFVX3lxTE9PMC1CaE1VSlphZXgzTHI0U19Ld2c3SkpHUm5PLTdpb0ZEZUFvbXNLV28wdWdlSWwxay1vQWc2Z1A0SllqTUwya0pzTERET0s4UTBtYmVYdU1tMVMwYTJpQnFMcEZzdVlrUHV1cEdPY2hHLUFwNWxuWm9vcWR2QQ?oc=5",
         "publishedAt": "2026-09-16T11:52:00.000Z"
-      },
-      {
-        "time": "14:52",
-        "title": "ドンタップ省は、カオランバイパスの終点にある交差点に信号機を設置し、改修するために約10億ベトナムドンを費やした。",
-        "source": "Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLXVlMzZpdUpfb1lGbm5Icy1NLVNQWGFpRExKdW9ORnBNU3YweDc0b1BQUUZudDZwVi1hQjdpYk8tMFBpM0JSdnJhUWhBdEJpQ1VfdV9JRWg5REZTaEtXXzdFQzhOMzhEenFaN29DMkY5UlJMdWkzTzJPMVhXa0pOVnBDeTAzSGdZTHFVcFF3RlEwLTg1QjVXNDRhUG1nYlhoVVc1Q0E2YjFScEFqWnpteVFlbGxLRmNFUWc?oc=5",
-        "publishedAt": "2026-09-16T05:52:57.000Z"
       }
     ],
     "worldHeadlines": [
