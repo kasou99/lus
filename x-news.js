@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T21:37:40.817Z",
+  "updatedAt": "2026-09-16T22:15:33.182Z",
   "items": [
     {
       "time": "06:08",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "よど号事件 赤木容疑者が死亡か"
     },
     {
-      "time": "21:51",
-      "title": "フィジー HIV拡大で非常事態宣言",
+      "time": "06:55",
+      "title": "子どものSNS制限 EUが新法提案へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595522?source=rss",
-      "publishedAt": "2026-09-16T12:51:44.000Z",
-      "xQuery": "フィジー HIV拡大で非常事態宣言"
+      "url": "https://news.yahoo.co.jp/pickup/6595537?source=rss",
+      "publishedAt": "2026-09-16T21:55:43.000Z",
+      "xQuery": "子どものSNS制限 EUが新法提案へ"
     }
   ]
 };
