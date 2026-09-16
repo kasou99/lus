@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T03:43:13.398Z",
+  "updatedAt": "2026-09-16T04:21:06.340Z",
   "items": [
-    {
-      "time": "10:53",
-      "title": "自民の新執行部発足 麻生氏ら続投",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595455?source=rss",
-      "publishedAt": "2026-09-16T01:53:08.000Z",
-      "xQuery": "自民の新執行部発足 麻生氏ら続投"
-    },
     {
       "time": "11:43",
       "title": "首相 参院役員の人事権は私にない",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595467?source=rss",
       "publishedAt": "2026-09-16T02:43:54.000Z",
       "xQuery": "首相 参院役員の人事権は私にない"
+    },
+    {
+      "time": "08:47",
+      "title": "印警察 偽アカ巡りGoogle聴取へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595439?source=rss",
+      "publishedAt": "2026-09-15T23:47:18.000Z",
+      "xQuery": "印警察 偽アカ巡りGoogle聴取へ"
     },
     {
       "time": "11:05",
