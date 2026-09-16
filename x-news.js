@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T00:48:40.287Z",
+  "updatedAt": "2026-09-16T01:28:10.761Z",
   "items": [
     {
       "time": "07:44",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東海・関東甲信 警報級大雨の恐れ"
     },
     {
-      "time": "09:25",
-      "title": "陸自個人情報収集 8月も公益通報",
+      "time": "09:32",
+      "title": "ウ大統領 高市氏のキーウ訪問要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595442?source=rss",
-      "publishedAt": "2026-09-16T00:25:07.000Z",
-      "xQuery": "陸自個人情報収集 8月も公益通報"
+      "url": "https://news.yahoo.co.jp/pickup/6595444?source=rss",
+      "publishedAt": "2026-09-16T00:32:37.000Z",
+      "xQuery": "ウ大統領 高市氏のキーウ訪問要請"
     },
     {
       "time": "09:39",
