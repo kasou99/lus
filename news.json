@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T04:21:05.766Z",
+  "updatedAt": "2026-09-16T04:42:30.217Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "15:36",
         "title": "浜岡原発で火災 制御盤から、安全に影響なし 中部電 (時事通信)",
-        "source": "news.yahoo.co.jp",
+        "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTQ5VklNbllsTGdITzdJTFQxMHdBM3BNcWJOVzJiRHdNRVc4TWpLdXpUTzlUUG1jLS0taTBVdE9nMXdpWU1HTUprNF80cEhrMTJqNjhudWtfX3NrMngxNG5YQTVrUFE5dG1vRGd2bnVxcUJUQ3dBZjVEY2J6ME14eXBiM3NidWxXaGNtS2NB?oc=5",
         "publishedAt": "2026-09-15T06:36:39.000Z"
       },
@@ -119,13 +119,6 @@
         "publishedAt": "2026-09-16T02:27:39.000Z"
       },
       {
-        "time": "14:46",
-        "title": "鉄道廃線の代替バス低迷 廃止意向",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595368?source=rss",
-        "publishedAt": "2026-09-15T05:46:55.000Z"
-      },
-      {
         "time": "09:15",
         "title": "神社仏閣の存続危機 生き残り策は",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595438?source=rss",
         "publishedAt": "2026-09-15T23:17:26.000Z"
+      },
+      {
+        "time": "12:57",
+        "title": "マツダ・ロードスター 購入層変化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595480?source=rss",
+        "publishedAt": "2026-09-16T03:57:17.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-09-16T02:54:08.000Z"
       },
       {
-        "time": "09:52",
-        "title": "深谷の自動運転バス 当面運行休止",
+        "time": "11:36",
+        "title": "元ボクサー薬師寺保栄被告に有罪",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595448?source=rss",
-        "publishedAt": "2026-09-16T00:52:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595466?source=rss",
+        "publishedAt": "2026-09-16T02:36:26.000Z"
       }
     ],
     "subsidyHeadlines": [

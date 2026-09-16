@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T04:21:06.340Z",
+  "updatedAt": "2026-09-16T04:42:30.990Z",
   "items": [
     {
       "time": "11:43",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 参院役員の人事権は私にない"
     },
     {
-      "time": "08:47",
-      "title": "印警察 偽アカ巡りGoogle聴取へ",
+      "time": "11:59",
+      "title": "北朝鮮に50億円賠償命令 韓国地裁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595439?source=rss",
-      "publishedAt": "2026-09-15T23:47:18.000Z",
-      "xQuery": "印警察 偽アカ巡りGoogle聴取へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595472?source=rss",
+      "publishedAt": "2026-09-16T02:59:47.000Z",
+      "xQuery": "北朝鮮に50億円賠償命令 韓国地裁"
     },
     {
       "time": "11:05",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風発生へ 連休の本州に影響恐れ"
     },
     {
-      "time": "12:12",
-      "title": "元カープ選手に薬物譲渡の男 有罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595475?source=rss",
-      "publishedAt": "2026-09-16T03:12:51.000Z",
-      "xQuery": "元カープ選手に薬物譲渡の男 有罪"
-    },
-    {
       "time": "11:54",
       "title": "生徒2人と窃盗未遂疑い 教諭逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595468?source=rss",
       "publishedAt": "2026-09-16T02:54:08.000Z",
       "xQuery": "生徒2人と窃盗未遂疑い 教諭逮捕"
+    },
+    {
+      "time": "11:36",
+      "title": "元ボクサー薬師寺保栄被告に有罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595466?source=rss",
+      "publishedAt": "2026-09-16T02:36:26.000Z",
+      "xQuery": "元ボクサー薬師寺保栄被告に有罪"
     }
   ]
 };
