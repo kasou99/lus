@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T09:19:44.807Z",
+  "updatedAt": "2026-09-16T09:40:47.346Z",
   "items": [
     {
-      "time": "16:07",
-      "title": "強制連行遺族 日本6社に賠償請求",
+      "time": "17:39",
+      "title": "男女平等 日本は145カ国中の117位",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595496?source=rss",
-      "publishedAt": "2026-09-16T07:07:05.000Z",
-      "xQuery": "強制連行遺族 日本6社に賠償請求"
+      "url": "https://news.yahoo.co.jp/pickup/6595505?source=rss",
+      "publishedAt": "2026-09-16T08:39:30.000Z",
+      "xQuery": "男女平等 日本は145カ国中の117位"
     },
     {
       "time": "17:06",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "赤い羽根募金 さらに7000万円不明"
     },
     {
+      "time": "18:25",
+      "title": "10年前に性的暴行疑い 容疑者逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595509?source=rss",
+      "publishedAt": "2026-09-16T09:25:26.000Z",
+      "xQuery": "10年前に性的暴行疑い 容疑者逮捕"
+    },
+    {
       "time": "17:16",
       "title": "市立小で集合写真廃止 保護者反発",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595503?source=rss",
       "publishedAt": "2026-09-16T08:16:30.000Z",
       "xQuery": "市立小で集合写真廃止 保護者反発"
-    },
-    {
-      "time": "16:41",
-      "title": "1人20万円夕食会 参加した県議は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595499?source=rss",
-      "publishedAt": "2026-09-16T07:41:05.000Z",
-      "xQuery": "1人20万円夕食会 参加した県議は"
     }
   ]
 };
