@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T23:36:39.303Z",
+  "updatedAt": "2026-09-16T00:48:39.518Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -33,7 +33,7 @@
       {
         "time": "13:20",
         "title": "【工作機械・ロボット・搬送機メーカー必見】「CRA/MR適合」だけでは生き残れない！ICS研究所、自動車・航空機・医療サプライチェーンの「2027年の危機」を突破する実務セミナーを10/29・30開催",
-        "source": "prtimes.jp",
+        "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTzN2R1lsa0dCampobEhRRy1HdDMxUzdUeURGMEhiV2VoQUp3WEh3Q1BtVDBJek04LU90enBCY2VJQ29ScTV5QUdFS01lVXdiQ29uQVVqTG85Zm9NeE9qSXVsTEg1eDNmOGc?oc=5",
         "publishedAt": "2026-09-15T04:20:31.000Z"
       },
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "09:32",
+        "title": "ウ大統領 高市氏のキーウ訪問要請",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595444?source=rss",
+        "publishedAt": "2026-09-16T00:32:37.000Z"
+      },
+      {
         "time": "14:08",
         "title": "米 対イラン作戦で深刻な弾薬不足",
         "source": "Yahoo!ニュース",
@@ -82,11 +89,11 @@
         "publishedAt": "2026-09-15T22:19:51.000Z"
       },
       {
-        "time": "09:11",
-        "title": "サウジ パイプライン復旧に3～5週",
+        "time": "08:47",
+        "title": "印警察 偽アカ巡りGoogle聴取へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595326?source=rss",
-        "publishedAt": "2026-09-15T00:11:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595439?source=rss",
+        "publishedAt": "2026-09-15T23:47:18.000Z"
       },
       {
         "time": "10:23",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595334?source=rss",
         "publishedAt": "2026-09-15T01:23:05.000Z"
-      },
-      {
-        "time": "23:20",
-        "title": "北朝鮮体育相 アジア大会で訪日へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595417?source=rss",
-        "publishedAt": "2026-09-15T14:20:21.000Z"
       }
     ],
     "economyHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-09-15T05:46:55.000Z"
       },
       {
-        "time": "20:50",
-        "title": "ちいかわグッズ騒動 JR東海回答",
+        "time": "09:15",
+        "title": "神社仏閣の存続危機 生き残り策は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595409?source=rss",
-        "publishedAt": "2026-09-15T11:50:30.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595441?source=rss",
+        "publishedAt": "2026-09-16T00:15:19.000Z"
       }
     ],
     "localHeadlines": [

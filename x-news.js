@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-15T23:36:40.072Z",
+  "updatedAt": "2026-09-16T00:48:40.287Z",
   "items": [
     {
       "time": "07:44",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "東海・関東甲信 警報級大雨の恐れ"
     },
     {
-      "time": "07:19",
-      "title": "基準地価 全国平均が5年連続上昇",
+      "time": "09:25",
+      "title": "陸自個人情報収集 8月も公益通報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595429?source=rss",
-      "publishedAt": "2026-09-15T22:19:30.000Z",
-      "xQuery": "基準地価 全国平均が5年連続上昇"
+      "url": "https://news.yahoo.co.jp/pickup/6595442?source=rss",
+      "publishedAt": "2026-09-16T00:25:07.000Z",
+      "xQuery": "陸自個人情報収集 8月も公益通報"
     },
     {
-      "time": "07:19",
-      "title": "サウジ西岸の港 原油積み込み停止",
+      "time": "09:39",
+      "title": "首相「聖域」の参院人事に介入か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595428?source=rss",
-      "publishedAt": "2026-09-15T22:19:51.000Z",
-      "xQuery": "サウジ西岸の港 原油積み込み停止"
+      "url": "https://news.yahoo.co.jp/pickup/6595445?source=rss",
+      "publishedAt": "2026-09-16T00:39:56.000Z",
+      "xQuery": "首相「聖域」の参院人事に介入か"
     },
     {
       "time": "07:37",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ドコモ 個人情報34万人分無断提供"
     },
     {
-      "time": "06:11",
-      "title": "金の延べ棒35kg 兵庫県に匿名寄付",
+      "time": "08:17",
+      "title": "めじるしアクセ 販売停止が相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595423?source=rss",
-      "publishedAt": "2026-09-15T21:11:32.000Z",
-      "xQuery": "金の延べ棒35kg 兵庫県に匿名寄付"
+      "url": "https://news.yahoo.co.jp/pickup/6595438?source=rss",
+      "publishedAt": "2026-09-15T23:17:26.000Z",
+      "xQuery": "めじるしアクセ 販売停止が相次ぐ"
     }
   ]
 };
