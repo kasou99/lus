@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T01:28:10.761Z",
+  "updatedAt": "2026-09-16T01:50:46.357Z",
   "items": [
     {
       "time": "07:44",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ウ大統領 高市氏のキーウ訪問要請"
     },
     {
-      "time": "09:39",
-      "title": "首相「聖域」の参院人事に介入か",
+      "time": "10:11",
+      "title": "空自無人機は墜落断定 16日も捜索",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595445?source=rss",
-      "publishedAt": "2026-09-16T00:39:56.000Z",
-      "xQuery": "首相「聖域」の参院人事に介入か"
+      "url": "https://news.yahoo.co.jp/pickup/6595449?source=rss",
+      "publishedAt": "2026-09-16T01:11:12.000Z",
+      "xQuery": "空自無人機は墜落断定 16日も捜索"
     },
     {
-      "time": "07:37",
-      "title": "ドコモ 個人情報34万人分無断提供",
+      "time": "09:15",
+      "title": "神社仏閣の存続危機 生き残り策は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595432?source=rss",
-      "publishedAt": "2026-09-15T22:37:30.000Z",
-      "xQuery": "ドコモ 個人情報34万人分無断提供"
+      "url": "https://news.yahoo.co.jp/pickup/6595441?source=rss",
+      "publishedAt": "2026-09-16T00:15:19.000Z",
+      "xQuery": "神社仏閣の存続危機 生き残り策は"
     },
     {
-      "time": "08:17",
-      "title": "めじるしアクセ 販売停止が相次ぐ",
+      "time": "09:52",
+      "title": "深谷の自動運転バス 当面運行休止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595438?source=rss",
-      "publishedAt": "2026-09-15T23:17:26.000Z",
-      "xQuery": "めじるしアクセ 販売停止が相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6595448?source=rss",
+      "publishedAt": "2026-09-16T00:52:19.000Z",
+      "xQuery": "深谷の自動運転バス 当面運行休止"
     }
   ]
 };
