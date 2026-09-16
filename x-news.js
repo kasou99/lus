@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T13:39:34.606Z",
+  "updatedAt": "2026-09-16T14:18:59.261Z",
   "items": [
     {
-      "time": "20:18",
-      "title": "十勝岳の噴火可能性高まる 調査委",
+      "time": "22:38",
+      "title": "台風25号発生 発達しながら北上へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595518?source=rss",
-      "publishedAt": "2026-09-16T11:18:54.000Z",
-      "xQuery": "十勝岳の噴火可能性高まる 調査委"
+      "url": "https://news.yahoo.co.jp/pickup/6595529?source=rss",
+      "publishedAt": "2026-09-16T13:38:24.000Z",
+      "xQuery": "台風25号発生 発達しながら北上へ"
+    },
+    {
+      "time": "21:58",
+      "title": "3カ月ごと利上げ? やや期待先行",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595525?source=rss",
+      "publishedAt": "2026-09-16T12:58:09.000Z",
+      "xQuery": "3カ月ごと利上げ? やや期待先行"
     },
     {
       "time": "21:10",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "よど号事件 赤木容疑者が死亡か"
     },
     {
-      "time": "21:13",
-      "title": "メルカリ株大幅安 1カ月で3割下落",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595521?source=rss",
-      "publishedAt": "2026-09-16T12:13:23.000Z",
-      "xQuery": "メルカリ株大幅安 1カ月で3割下落"
-    },
-    {
-      "time": "20:18",
-      "title": "大阪の学校でスプレー噴射相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595517?source=rss",
-      "publishedAt": "2026-09-16T11:18:19.000Z",
-      "xQuery": "大阪の学校でスプレー噴射相次ぐ"
-    },
-    {
       "time": "21:51",
       "title": "フィジー HIV拡大で非常事態宣言",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595522?source=rss",
       "publishedAt": "2026-09-16T12:51:44.000Z",
       "xQuery": "フィジー HIV拡大で非常事態宣言"
+    },
+    {
+      "time": "21:13",
+      "title": "メルカリ株大幅安 1カ月で3割下落",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595521?source=rss",
+      "publishedAt": "2026-09-16T12:13:23.000Z",
+      "xQuery": "メルカリ株大幅安 1カ月で3割下落"
     }
   ]
 };
