@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T11:38:38.718Z",
+  "updatedAt": "2026-09-16T12:27:39.807Z",
   "items": [
+    {
+      "time": "21:05",
+      "title": "熱帯低気圧の進路予想 連休影響は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595519?source=rss",
+      "publishedAt": "2026-09-16T12:05:34.000Z",
+      "xQuery": "熱帯低気圧の進路予想 連休影響は"
+    },
     {
       "time": "20:18",
       "title": "十勝岳の噴火可能性高まる 調査委",
@@ -8,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595518?source=rss",
       "publishedAt": "2026-09-16T11:18:54.000Z",
       "xQuery": "十勝岳の噴火可能性高まる 調査委"
+    },
+    {
+      "time": "21:10",
+      "title": "よど号事件 赤木容疑者が死亡か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595520?source=rss",
+      "publishedAt": "2026-09-16T12:10:11.000Z",
+      "xQuery": "よど号事件 赤木容疑者が死亡か"
     },
     {
       "time": "18:11",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "エーザイ認知症薬承認 自ら注射可"
     },
     {
-      "time": "18:33",
-      "title": "辺野古転覆 運航団体が謝罪声明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595510?source=rss",
-      "publishedAt": "2026-09-16T09:33:17.000Z",
-      "xQuery": "辺野古転覆 運航団体が謝罪声明"
-    },
-    {
       "time": "18:25",
       "title": "10年前に性的暴行疑い 容疑者逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595509?source=rss",
       "publishedAt": "2026-09-16T09:25:26.000Z",
       "xQuery": "10年前に性的暴行疑い 容疑者逮捕"
-    },
-    {
-      "time": "17:21",
-      "title": "幼稚園が閉園を突然発表 困惑の声",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595504?source=rss",
-      "publishedAt": "2026-09-16T08:21:10.000Z",
-      "xQuery": "幼稚園が閉園を突然発表 困惑の声"
     }
   ]
 };
