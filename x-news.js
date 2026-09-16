@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T03:21:42.232Z",
+  "updatedAt": "2026-09-16T03:43:13.398Z",
   "items": [
     {
       "time": "10:53",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "元カープ選手に薬物譲渡の男 有罪"
     },
     {
-      "time": "11:42",
-      "title": "生徒が高校で催涙スプレー噴射か",
+      "time": "11:54",
+      "title": "生徒2人と窃盗未遂疑い 教諭逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595470?source=rss",
-      "publishedAt": "2026-09-16T02:42:45.000Z",
-      "xQuery": "生徒が高校で催涙スプレー噴射か"
+      "url": "https://news.yahoo.co.jp/pickup/6595468?source=rss",
+      "publishedAt": "2026-09-16T02:54:08.000Z",
+      "xQuery": "生徒2人と窃盗未遂疑い 教諭逮捕"
     }
   ]
 };
