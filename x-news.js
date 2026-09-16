@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T05:40:23.722Z",
+  "updatedAt": "2026-09-16T06:31:23.058Z",
   "items": [
-    {
-      "time": "11:43",
-      "title": "首相 参院役員の人事権は私にない",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595467?source=rss",
-      "publishedAt": "2026-09-16T02:43:54.000Z",
-      "xQuery": "首相 参院役員の人事権は私にない"
-    },
     {
       "time": "12:32",
       "title": "関東・東海 局地的な雷雨に注意",
@@ -18,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "関東・東海 局地的な雷雨に注意"
     },
     {
+      "time": "14:40",
+      "title": "米LAでテレビ局ヘリ墜落 3人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595490?source=rss",
+      "publishedAt": "2026-09-16T05:40:08.000Z",
+      "xQuery": "米LAでテレビ局ヘリ墜落 3人死亡"
+    },
+    {
+      "time": "14:44",
+      "title": "催涙スプレーを噴霧疑い 生徒逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595491?source=rss",
+      "publishedAt": "2026-09-16T05:44:05.000Z",
+      "xQuery": "催涙スプレーを噴霧疑い 生徒逮捕"
+    },
+    {
       "time": "14:35",
       "title": "6歳不明 男児の防カメ映像を公開",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595488?source=rss",
       "publishedAt": "2026-09-16T05:35:23.000Z",
       "xQuery": "6歳不明 男児の防カメ映像を公開"
-    },
-    {
-      "time": "11:54",
-      "title": "生徒2人と窃盗未遂疑い 教諭逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595468?source=rss",
-      "publishedAt": "2026-09-16T02:54:08.000Z",
-      "xQuery": "生徒2人と窃盗未遂疑い 教諭逮捕"
     },
     {
       "time": "13:38",

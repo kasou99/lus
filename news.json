@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T05:40:23.102Z",
+  "updatedAt": "2026-09-16T06:31:22.008Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -47,7 +47,7 @@
       {
         "time": "15:39",
         "title": "中部電力浜岡原発で火災",
-        "source": "topics.smt.docomo.ne.jp",
+        "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWG9aU3VRbWNWTHpSZlU1enNmSnZtSmQ1VFhobnFlclVlNlI4ZkRkRmVxeENMNEk3TjJQVDN5ZEpNZTc5Ymxvd2hETlhncTZhWnFOdjJvaWE2ci1ObTBjVktZc3BmSEozVTZLOFFhNUVYalRpMVBZMjVfdmNFWXNlLdIBgAFBVV95cUxOWG9aU3VRbWNWTHpSZlU1enNmSnZtSmQ1VFhobnFlclVlNlI4ZkRkRmVxeENMNEk3TjJQVDN5ZEpNZTc5Ymxvd2hETlhncTZhWnFOdjJvaWE2ci1ObTBjVktZc3BmSEozVTZLOFFhNUVYalRpMVBZMjVfdmNFWXNlLQ?oc=5",
         "publishedAt": "2026-09-15T06:39:00.000Z"
       },
@@ -75,13 +75,6 @@
         "publishedAt": "2026-09-16T00:32:37.000Z"
       },
       {
-        "time": "14:08",
-        "title": "米 対イラン作戦で深刻な弾薬不足",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595363?source=rss",
-        "publishedAt": "2026-09-15T05:08:37.000Z"
-      },
-      {
         "time": "13:52",
         "title": "フーシ派「紅海封鎖」長期化懸念",
         "source": "Yahoo!ニュース",
@@ -94,6 +87,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595428?source=rss",
         "publishedAt": "2026-09-15T22:19:51.000Z"
+      },
+      {
+        "time": "14:40",
+        "title": "米LAでテレビ局ヘリ墜落 3人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595490?source=rss",
+        "publishedAt": "2026-09-16T05:40:08.000Z"
       },
       {
         "time": "08:47",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "11:42",
-        "title": "生徒が高校で催涙スプレー噴射か",
+        "time": "14:44",
+        "title": "催涙スプレーを噴霧疑い 生徒逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595470?source=rss",
-        "publishedAt": "2026-09-16T02:42:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595491?source=rss",
+        "publishedAt": "2026-09-16T05:44:05.000Z"
       },
       {
         "time": "00:08",
