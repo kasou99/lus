@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T17:14:58.015Z",
+  "updatedAt": "2026-09-16T17:37:33.556Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "05:00",
         "title": "新社長登場／岡本工作機械製作所・伊藤暁氏 砥粒加工「ゼロゼロ」追求",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiWFVZWXRMUWtKcUkya0hKVktuRjNDRWZ5UWdIMkhqX1AxRlBsbjlKQ3NKZWxIaG9RWW1NVUhwVk5BenpZZE52V1V3cDhLYmYzdFpETXBSeDY?oc=5",
         "publishedAt": "2026-09-15T20:00:00.000Z"
       },
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-16T05:52:57.000Z"
       },
       {
-        "time": "12:00",
-        "title": "カマメシ、調達可否や代替品まで可視化 設備予備部品",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KalVub21PcTZVbUpGUW41a1d5MTVqS2xEV3huMkVKOVl2TGdyMHk0Z2dFb2xYb0lacldtTjNWV3hfbXhhOGFQMzVfUGxiX1lNZEFtSGQ3V0E?oc=5",
-        "publishedAt": "2026-09-16T03:00:00.000Z"
+        "time": "14:45",
+        "title": "【9月16日から3日間限定・全編無料公開】新刊『フィジカルAIの正体』9月25日発売",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uWEpqb1Rydk1NaWdpODBvQmdyQ2xVXzlQTldtOGVwZGFraWMyTHh3ZDhDTWdIcnBsZ2gwNm5ZQ053X3JkRWU3SU1adkJaVUtRUlkzbWpsYVpqT2pGUENncEdQSE9RTjhT?oc=5",
+        "publishedAt": "2026-09-16T05:45:22.000Z"
       },
       {
-        "time": "11:56",
-        "title": "ＣＧＳＨＤ Research Memo（3）：主力事業は「CAD/CAMシステム等」だが「金型製造」も手掛ける（2）",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTFaazdzc3BObnN3aklaMVAzRVlVTkV5V3l1M09EUDZPX05wYWI0cnRud3Y1VHNkcm41eDZiaFJTWlBsZk9xZk1jeXdrMFZneERWV25WOU82NHRIUEVqenVzaC1zRjIwSVQ4S2xfb1A4UjVfaDExNElPSDJMRmxKOXJIZ3ZzM0V2am5Vd1NndUbSAYwBQVVfeXFMT3pZUHEtZWduSldqQlJ3UVdROVdRQzRVdFdRaWVaODlmVnhSZlhIbUhHd3dFZ2VNd1JpRmpqVVY1enIwVDRqcVFTVndfaWh2MHRGVGIwLTN4QURsQWZMN0hlem9rZ25uekh0LWtsSlpnZElKZTJtS3ZyMkhJTWNXWkF6VEFvdE5CazR4T2g?oc=5",
-        "publishedAt": "2026-09-16T02:56:16.000Z"
+        "time": "12:00",
+        "title": "カマメシ、調達可否や代替品まで可視化 設備予備部品",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KalVub21PcTZVbUpGUW41a1d5MTVqS2xEV3huMkVKOVl2TGdyMHk0Z2dFb2xYb0lacldtTjNWV3hfbXhhOGFQMzVfUGxiX1lNZEFtSGQ3V0E?oc=5",
+        "publishedAt": "2026-09-16T03:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }
