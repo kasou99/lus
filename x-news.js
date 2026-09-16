@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T04:42:30.990Z",
+  "updatedAt": "2026-09-16T05:18:08.107Z",
   "items": [
     {
       "time": "11:43",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 参院役員の人事権は私にない"
     },
     {
+      "time": "12:32",
+      "title": "関東・東海 局地的な雷雨に注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595477?source=rss",
+      "publishedAt": "2026-09-16T03:32:35.000Z",
+      "xQuery": "関東・東海 局地的な雷雨に注意"
+    },
+    {
       "time": "11:59",
       "title": "北朝鮮に50億円賠償命令 韓国地裁",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595472?source=rss",
       "publishedAt": "2026-09-16T02:59:47.000Z",
       "xQuery": "北朝鮮に50億円賠償命令 韓国地裁"
-    },
-    {
-      "time": "11:05",
-      "title": "台風発生へ 連休の本州に影響恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595457?source=rss",
-      "publishedAt": "2026-09-16T02:05:22.000Z",
-      "xQuery": "台風発生へ 連休の本州に影響恐れ"
     },
     {
       "time": "11:54",

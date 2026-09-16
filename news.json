@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T04:42:30.217Z",
+  "updatedAt": "2026-09-16T05:18:06.802Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-09-15T06:36:39.000Z"
       },
       {
-        "time": "14:04",
-        "title": "浜岡原子力発電所 275kV開閉所（放射線管理区域外）における制御盤内での出火（火災）",
-        "source": "chuden.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNTVBlV2lPR05rZXdpUVFWdEphd0U1bDBJTTBjQzFteG5OeFBma0pOaWVXbGJRQzE2UGJYbDhjeHA5WGVZR0tUS1NuSE1kXzVFOW4zRTcyeUl0ajM5bVotV3J6ZmRpYWhCckE?oc=5",
-        "publishedAt": "2026-09-15T05:04:53.000Z"
-      },
-      {
         "time": "15:46",
         "title": "配当を増やし続けてきた「連続増配銘柄」5社の名前",
         "source": "現代ビジネス",
@@ -54,9 +47,16 @@
       {
         "time": "15:39",
         "title": "中部電力浜岡原発で火災",
-        "source": "topics.smt.docomo.ne.jp",
+        "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWG9aU3VRbWNWTHpSZlU1enNmSnZtSmQ1VFhobnFlclVlNlI4ZkRkRmVxeENMNEk3TjJQVDN5ZEpNZTc5Ymxvd2hETlhncTZhWnFOdjJvaWE2ci1ObTBjVktZc3BmSEozVTZLOFFhNUVYalRpMVBZMjVfdmNFWXNlLdIBgAFBVV95cUxOWG9aU3VRbWNWTHpSZlU1enNmSnZtSmQ1VFhobnFlclVlNlI4ZkRkRmVxeENMNEk3TjJQVDN5ZEpNZTc5Ymxvd2hETlhncTZhWnFOdjJvaWE2ci1ObTBjVktZc3BmSEozVTZLOFFhNUVYalRpMVBZMjVfdmNFWXNlLQ?oc=5",
         "publishedAt": "2026-09-15T06:39:00.000Z"
+      },
+      {
+        "time": "11:30",
+        "title": "金属ダイヤフラム式フレキシブルカップリングの世界市場（2026年～2032年）、市場規模（シングルダイアフラム型、ダブルダイアフラム型、その他）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GaE9CbGZrbVpjR0JUXzhRdF91dWhGZzFkTm1Fa0FFZlVtOEExcFUyQ1lEZkNENWNDZUwxY29IVVdRMTFNeWRDVVBReU1pXzA?oc=5",
+        "publishedAt": "2026-09-16T02:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-09-15T05:08:37.000Z"
       },
       {
+        "time": "13:52",
+        "title": "フーシ派「紅海封鎖」長期化懸念",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595461?source=rss",
+        "publishedAt": "2026-09-16T04:52:34.000Z"
+      },
+      {
         "time": "07:19",
         "title": "サウジ西岸の港 原油積み込み停止",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595439?source=rss",
         "publishedAt": "2026-09-15T23:47:18.000Z"
-      },
-      {
-        "time": "10:23",
-        "title": "3歳から伝統王国を率いた34歳死去",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595334?source=rss",
-        "publishedAt": "2026-09-15T01:23:05.000Z"
       }
     ],
     "economyHeadlines": [
@@ -117,13 +117,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595460?source=rss",
         "publishedAt": "2026-09-16T02:27:39.000Z"
-      },
-      {
-        "time": "09:15",
-        "title": "神社仏閣の存続危機 生き残り策は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595441?source=rss",
-        "publishedAt": "2026-09-16T00:15:19.000Z"
       },
       {
         "time": "20:50",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595480?source=rss",
         "publishedAt": "2026-09-16T03:57:17.000Z"
+      },
+      {
+        "time": "11:38",
+        "title": "素朴ローカルフード 若者注目の訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595464?source=rss",
+        "publishedAt": "2026-09-16T02:38:27.000Z"
       }
     ],
     "localHeadlines": [
