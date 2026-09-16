@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T08:45:17.288Z",
+  "updatedAt": "2026-09-16T09:19:44.807Z",
   "items": [
     {
       "time": "16:07",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "強制連行遺族 日本6社に賠償請求"
     },
     {
-      "time": "15:32",
-      "title": "立憲系の新党は「民主改革の会」",
+      "time": "17:06",
+      "title": "愛媛の射殺事件 男に懲役30年求刑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595494?source=rss",
-      "publishedAt": "2026-09-16T06:32:52.000Z",
-      "xQuery": "立憲系の新党は「民主改革の会」"
-    },
-    {
-      "time": "15:40",
-      "title": "ガソリン補助金 過去最高の51円",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595495?source=rss",
-      "publishedAt": "2026-09-16T06:40:10.000Z",
-      "xQuery": "ガソリン補助金 過去最高の51円"
+      "url": "https://news.yahoo.co.jp/pickup/6595500?source=rss",
+      "publishedAt": "2026-09-16T08:06:38.000Z",
+      "xQuery": "愛媛の射殺事件 男に懲役30年求刑"
     },
     {
       "time": "17:03",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595503?source=rss",
       "publishedAt": "2026-09-16T08:16:30.000Z",
       "xQuery": "市立小で集合写真廃止 保護者反発"
+    },
+    {
+      "time": "16:41",
+      "title": "1人20万円夕食会 参加した県議は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595499?source=rss",
+      "publishedAt": "2026-09-16T07:41:05.000Z",
+      "xQuery": "1人20万円夕食会 参加した県議は"
     }
   ]
 };
