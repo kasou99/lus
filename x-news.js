@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T14:40:04.527Z",
+  "updatedAt": "2026-09-16T15:16:44.180Z",
   "items": [
     {
       "time": "22:38",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "フィジー HIV拡大で非常事態宣言"
     },
     {
-      "time": "21:13",
-      "title": "メルカリ株大幅安 1カ月で3割下落",
+      "time": "00:05",
+      "title": "呪術廻戦コラボ巡り不正 牛角謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595521?source=rss",
-      "publishedAt": "2026-09-16T12:13:23.000Z",
-      "xQuery": "メルカリ株大幅安 1カ月で3割下落"
+      "url": "https://news.yahoo.co.jp/pickup/6595532?source=rss",
+      "publishedAt": "2026-09-16T15:05:57.000Z",
+      "xQuery": "呪術廻戦コラボ巡り不正 牛角謝罪"
     }
   ]
 };
