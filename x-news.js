@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T22:15:33.182Z",
+  "updatedAt": "2026-09-16T22:37:16.287Z",
   "items": [
     {
       "time": "06:08",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風25号 21日ごろに関東最接近か"
     },
     {
-      "time": "21:10",
-      "title": "よど号事件 赤木容疑者が死亡か",
+      "time": "07:19",
+      "title": "戦後最長の景気拡大か 実感乏しく",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595520?source=rss",
-      "publishedAt": "2026-09-16T12:10:11.000Z",
-      "xQuery": "よど号事件 赤木容疑者が死亡か"
+      "url": "https://news.yahoo.co.jp/pickup/6595539?source=rss",
+      "publishedAt": "2026-09-16T22:19:58.000Z",
+      "xQuery": "戦後最長の景気拡大か 実感乏しく"
     },
     {
       "time": "06:55",

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-16T22:15:32.355Z",
+  "updatedAt": "2026-09-16T22:37:15.583Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:00",
         "title": "日本工作機械工業会、シカゴでJIMTOFアピール IMTSで会見",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IRHZVY25hak51ZzlFelZqRzBPdGgtaUdfM1BrN3dMQjhGZFZVV0VsNGRTbkJBUTFaNE1rUnZHTWpMUDJTUXhpTzNhUlVsazExaE1mdFd0U2Q?oc=5",
         "publishedAt": "2026-09-16T20:00:00.000Z"
       },
@@ -19,16 +19,9 @@
       {
         "time": "05:00",
         "title": "工作機械、米で自動化ニーズ狙う 日本勢が提案加速",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxRE5uR0N0dHFMWlE0VW5jNnoxbW53dS14MXUwSC1HQWQtMVU5Qm5qNS11bkJCYmcwZEE4TWY1eXdZQ2ZjWVEyaHJCdlFieUxoNGE0WFZ1cjQ?oc=5",
         "publishedAt": "2026-09-16T20:00:00.000Z"
-      },
-      {
-        "time": "16:00",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-09-16T07:00:53.000Z"
       },
       {
         "time": "18:06",
@@ -57,6 +50,13 @@
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLXVlMzZpdUpfb1lGbm5Icy1NLVNQWGFpRExKdW9ORnBNU3YweDc0b1BQUUZudDZwVi1hQjdpYk8tMFBpM0JSdnJhUWhBdEJpQ1VfdV9JRWg5REZTaEtXXzdFQzhOMzhEenFaN29DMkY5UlJMdWkzTzJPMVhXa0pOVnBDeTAzSGdZTHFVcFF3RlEwLTg1QjVXNDRhUG1nYlhoVVc1Q0E2YjFScEFqWnpteVFlbGxLRmNFUWc?oc=5",
         "publishedAt": "2026-09-16T05:52:57.000Z"
+      },
+      {
+        "time": "14:45",
+        "title": "【9月16日から3日間限定・全編無料公開】新刊『フィジカルAIの正体』9月25日発売",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uWEpqb1Rydk1NaWdpODBvQmdyQ2xVXzlQTldtOGVwZGFraWMyTHh3ZDhDTWdIcnBsZ2gwNm5ZQ053X3JkRWU3SU1adkJaVUtRUlkzbWpsYVpqT2pGUENncEdQSE9RTjhT?oc=5",
+        "publishedAt": "2026-09-16T05:45:22.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,18 +89,18 @@
         "publishedAt": "2026-09-16T04:52:34.000Z"
       },
       {
-        "time": "07:19",
-        "title": "サウジ西岸の港 原油積み込み停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595428?source=rss",
-        "publishedAt": "2026-09-15T22:19:51.000Z"
-      },
-      {
         "time": "14:40",
         "title": "米LAでテレビ局ヘリ墜落 3人死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595490?source=rss",
         "publishedAt": "2026-09-16T05:40:08.000Z"
+      },
+      {
+        "time": "21:51",
+        "title": "フィジー HIV拡大で非常事態宣言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595522?source=rss",
+        "publishedAt": "2026-09-16T12:51:44.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,6 +110,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595533?source=rss",
         "publishedAt": "2026-09-16T21:08:22.000Z"
+      },
+      {
+        "time": "07:19",
+        "title": "戦後最長の景気拡大か 実感乏しく",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595539?source=rss",
+        "publishedAt": "2026-09-16T22:19:58.000Z"
       },
       {
         "time": "15:40",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595506?source=rss",
         "publishedAt": "2026-09-16T08:34:20.000Z"
-      },
-      {
-        "time": "11:27",
-        "title": "神戸・淡路島 ミシュランの対象に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595460?source=rss",
-        "publishedAt": "2026-09-16T02:27:39.000Z"
       }
     ],
     "localHeadlines": [
