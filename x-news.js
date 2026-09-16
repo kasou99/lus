@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T12:49:22.298Z",
+  "updatedAt": "2026-09-16T13:17:09.497Z",
   "items": [
     {
       "time": "21:05",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "よど号事件 赤木容疑者が死亡か"
     },
     {
-      "time": "18:11",
-      "title": "エーザイ認知症薬承認 自ら注射可",
+      "time": "20:18",
+      "title": "大阪の学校でスプレー噴射相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595508?source=rss",
-      "publishedAt": "2026-09-16T09:11:18.000Z",
-      "xQuery": "エーザイ認知症薬承認 自ら注射可"
+      "url": "https://news.yahoo.co.jp/pickup/6595517?source=rss",
+      "publishedAt": "2026-09-16T11:18:19.000Z",
+      "xQuery": "大阪の学校でスプレー噴射相次ぐ"
     },
     {
-      "time": "18:25",
-      "title": "10年前に性的暴行疑い 容疑者逮捕",
+      "time": "21:13",
+      "title": "メルカリ株大幅安 1カ月で3割下落",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595509?source=rss",
-      "publishedAt": "2026-09-16T09:25:26.000Z",
-      "xQuery": "10年前に性的暴行疑い 容疑者逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6595521?source=rss",
+      "publishedAt": "2026-09-16T12:13:23.000Z",
+      "xQuery": "メルカリ株大幅安 1カ月で3割下落"
     }
   ]
 };
