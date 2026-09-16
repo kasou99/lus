@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T07:21:10.200Z",
+  "updatedAt": "2026-09-16T07:41:50.206Z",
   "items": [
+    {
+      "time": "16:07",
+      "title": "強制連行遺族 日本6社に賠償請求",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595496?source=rss",
+      "publishedAt": "2026-09-16T07:07:05.000Z",
+      "xQuery": "強制連行遺族 日本6社に賠償請求"
+    },
     {
       "time": "15:32",
       "title": "立憲系の新党は「民主改革の会」",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595494?source=rss",
       "publishedAt": "2026-09-16T06:32:52.000Z",
       "xQuery": "立憲系の新党は「民主改革の会」"
-    },
-    {
-      "time": "14:40",
-      "title": "米LAでテレビ局ヘリ墜落 3人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595490?source=rss",
-      "publishedAt": "2026-09-16T05:40:08.000Z",
-      "xQuery": "米LAでテレビ局ヘリ墜落 3人死亡"
     },
     {
       "time": "15:40",

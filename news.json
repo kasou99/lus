@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T07:21:09.383Z",
+  "updatedAt": "2026-09-16T07:41:49.409Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,13 +112,6 @@
         "publishedAt": "2026-09-16T06:40:10.000Z"
       },
       {
-        "time": "07:19",
-        "title": "基準地価 全国平均が5年連続上昇",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595429?source=rss",
-        "publishedAt": "2026-09-15T22:19:30.000Z"
-      },
-      {
         "time": "11:27",
         "title": "神戸・淡路島 ミシュランの対象に",
         "source": "Yahoo!ニュース",
@@ -131,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595438?source=rss",
         "publishedAt": "2026-09-15T23:17:26.000Z"
+      },
+      {
+        "time": "16:32",
+        "title": "ランクル 国内初ハイブリッド設定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595497?source=rss",
+        "publishedAt": "2026-09-16T07:32:03.000Z"
       },
       {
         "time": "12:57",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
