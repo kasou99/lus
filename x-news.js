@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T02:44:23.138Z",
+  "updatedAt": "2026-09-16T03:21:42.232Z",
   "items": [
     {
       "time": "10:53",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "自民の新執行部発足 麻生氏ら続投"
     },
     {
-      "time": "09:32",
-      "title": "ウ大統領 高市氏のキーウ訪問要請",
+      "time": "11:43",
+      "title": "首相 参院役員の人事権は私にない",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595444?source=rss",
-      "publishedAt": "2026-09-16T00:32:37.000Z",
-      "xQuery": "ウ大統領 高市氏のキーウ訪問要請"
+      "url": "https://news.yahoo.co.jp/pickup/6595467?source=rss",
+      "publishedAt": "2026-09-16T02:43:54.000Z",
+      "xQuery": "首相 参院役員の人事権は私にない"
     },
     {
       "time": "11:05",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風発生へ 連休の本州に影響恐れ"
     },
     {
-      "time": "07:37",
-      "title": "ドコモ 個人情報34万人分無断提供",
+      "time": "12:12",
+      "title": "元カープ選手に薬物譲渡の男 有罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595432?source=rss",
-      "publishedAt": "2026-09-15T22:37:30.000Z",
-      "xQuery": "ドコモ 個人情報34万人分無断提供"
+      "url": "https://news.yahoo.co.jp/pickup/6595475?source=rss",
+      "publishedAt": "2026-09-16T03:12:51.000Z",
+      "xQuery": "元カープ選手に薬物譲渡の男 有罪"
     },
     {
-      "time": "11:36",
-      "title": "元ボクサー薬師寺保栄被告に有罪",
+      "time": "11:42",
+      "title": "生徒が高校で催涙スプレー噴射か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595466?source=rss",
-      "publishedAt": "2026-09-16T02:36:26.000Z",
-      "xQuery": "元ボクサー薬師寺保栄被告に有罪"
+      "url": "https://news.yahoo.co.jp/pickup/6595470?source=rss",
+      "publishedAt": "2026-09-16T02:42:45.000Z",
+      "xQuery": "生徒が高校で催涙スプレー噴射か"
     }
   ]
 };
