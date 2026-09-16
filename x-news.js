@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T21:16:22.517Z",
+  "updatedAt": "2026-09-16T21:37:40.817Z",
   "items": [
     {
       "time": "06:08",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米FRB 3年2カ月ぶり利上げ決定"
     },
     {
-      "time": "22:38",
-      "title": "台風25号発生 発達しながら北上へ",
+      "time": "06:21",
+      "title": "党役員と閣僚人事 首相の狙いは",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595529?source=rss",
-      "publishedAt": "2026-09-16T13:38:24.000Z",
-      "xQuery": "台風25号発生 発達しながら北上へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595534?source=rss",
+      "publishedAt": "2026-09-16T21:21:19.000Z",
+      "xQuery": "党役員と閣僚人事 首相の狙いは"
+    },
+    {
+      "time": "06:28",
+      "title": "台風25号 21日ごろに関東最接近か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595535?source=rss",
+      "publishedAt": "2026-09-16T21:28:50.000Z",
+      "xQuery": "台風25号 21日ごろに関東最接近か"
     },
     {
       "time": "21:10",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595522?source=rss",
       "publishedAt": "2026-09-16T12:51:44.000Z",
       "xQuery": "フィジー HIV拡大で非常事態宣言"
-    },
-    {
-      "time": "00:05",
-      "title": "呪術廻戦コラボ巡り不正 牛角謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595532?source=rss",
-      "publishedAt": "2026-09-16T15:05:57.000Z",
-      "xQuery": "呪術廻戦コラボ巡り不正 牛角謝罪"
     }
   ]
 };
