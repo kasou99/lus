@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T06:31:23.058Z",
+  "updatedAt": "2026-09-16T07:21:10.200Z",
   "items": [
     {
-      "time": "12:32",
-      "title": "関東・東海 局地的な雷雨に注意",
+      "time": "15:32",
+      "title": "立憲系の新党は「民主改革の会」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595477?source=rss",
-      "publishedAt": "2026-09-16T03:32:35.000Z",
-      "xQuery": "関東・東海 局地的な雷雨に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6595494?source=rss",
+      "publishedAt": "2026-09-16T06:32:52.000Z",
+      "xQuery": "立憲系の新党は「民主改革の会」"
     },
     {
       "time": "14:40",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595490?source=rss",
       "publishedAt": "2026-09-16T05:40:08.000Z",
       "xQuery": "米LAでテレビ局ヘリ墜落 3人死亡"
+    },
+    {
+      "time": "15:40",
+      "title": "ガソリン補助金 過去最高の51円",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595495?source=rss",
+      "publishedAt": "2026-09-16T06:40:10.000Z",
+      "xQuery": "ガソリン補助金 過去最高の51円"
     },
     {
       "time": "14:44",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595488?source=rss",
       "publishedAt": "2026-09-16T05:35:23.000Z",
       "xQuery": "6歳不明 男児の防カメ映像を公開"
-    },
-    {
-      "time": "13:38",
-      "title": "産休中の京都・八幡市長 女児出産",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595481?source=rss",
-      "publishedAt": "2026-09-16T04:38:38.000Z",
-      "xQuery": "産休中の京都・八幡市長 女児出産"
     }
   ]
 };
