@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T20:38:54.959Z",
+  "updatedAt": "2026-09-16T21:16:22.517Z",
   "items": [
+    {
+      "time": "06:08",
+      "title": "米FRB 3年2カ月ぶり利上げ決定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595533?source=rss",
+      "publishedAt": "2026-09-16T21:08:22.000Z",
+      "xQuery": "米FRB 3年2カ月ぶり利上げ決定"
+    },
     {
       "time": "22:38",
       "title": "台風25号発生 発達しながら北上へ",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595529?source=rss",
       "publishedAt": "2026-09-16T13:38:24.000Z",
       "xQuery": "台風25号発生 発達しながら北上へ"
-    },
-    {
-      "time": "21:58",
-      "title": "3カ月ごと利上げ? やや期待先行",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595525?source=rss",
-      "publishedAt": "2026-09-16T12:58:09.000Z",
-      "xQuery": "3カ月ごと利上げ? やや期待先行"
     },
     {
       "time": "21:10",
