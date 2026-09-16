@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:25:10.393Z",
+  "updatedAt": "2026-09-16T08:45:16.435Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,6 +112,13 @@
         "publishedAt": "2026-09-16T06:40:10.000Z"
       },
       {
+        "time": "17:34",
+        "title": "ドクターイエローを保存へ JR西",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595506?source=rss",
+        "publishedAt": "2026-09-16T08:34:20.000Z"
+      },
+      {
         "time": "11:27",
         "title": "神戸・淡路島 ミシュランの対象に",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595480?source=rss",
         "publishedAt": "2026-09-16T03:57:17.000Z"
-      },
-      {
-        "time": "11:38",
-        "title": "素朴ローカルフード 若者注目の訳",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595464?source=rss",
-        "publishedAt": "2026-09-16T02:38:27.000Z"
       }
     ],
     "localHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },

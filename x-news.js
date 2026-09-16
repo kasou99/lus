@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T08:25:11.463Z",
+  "updatedAt": "2026-09-16T08:45:17.288Z",
   "items": [
     {
       "time": "16:07",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "赤い羽根募金 さらに7000万円不明"
     },
     {
-      "time": "16:41",
-      "title": "1人20万円夕食会 参加した県議は",
+      "time": "17:16",
+      "title": "市立小で集合写真廃止 保護者反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595499?source=rss",
-      "publishedAt": "2026-09-16T07:41:05.000Z",
-      "xQuery": "1人20万円夕食会 参加した県議は"
+      "url": "https://news.yahoo.co.jp/pickup/6595503?source=rss",
+      "publishedAt": "2026-09-16T08:16:30.000Z",
+      "xQuery": "市立小で集合写真廃止 保護者反発"
     }
   ]
 };
