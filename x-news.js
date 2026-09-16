@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T10:39:28.530Z",
+  "updatedAt": "2026-09-16T11:16:42.030Z",
   "items": [
     {
       "time": "17:39",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595505?source=rss",
       "publishedAt": "2026-09-16T08:39:30.000Z",
       "xQuery": "男女平等 日本は145カ国中の117位"
-    },
-    {
-      "time": "17:06",
-      "title": "愛媛の射殺事件 男に懲役30年求刑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595500?source=rss",
-      "publishedAt": "2026-09-16T08:06:38.000Z",
-      "xQuery": "愛媛の射殺事件 男に懲役30年求刑"
     },
     {
       "time": "18:33",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595501?source=rss",
       "publishedAt": "2026-09-16T08:03:44.000Z",
       "xQuery": "赤い羽根募金 さらに7000万円不明"
+    },
+    {
+      "time": "19:32",
+      "title": "NHK 飲酒ガイドライン策定検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595512?source=rss",
+      "publishedAt": "2026-09-16T10:32:22.000Z",
+      "xQuery": "NHK 飲酒ガイドライン策定検討"
     }
   ]
 };
