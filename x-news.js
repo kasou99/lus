@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T01:50:46.357Z",
+  "updatedAt": "2026-09-16T02:24:56.378Z",
   "items": [
     {
-      "time": "07:44",
-      "title": "東海・関東甲信 警報級大雨の恐れ",
+      "time": "10:53",
+      "title": "自民の新執行部発足 麻生氏ら続投",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595434?source=rss",
-      "publishedAt": "2026-09-15T22:44:57.000Z",
-      "xQuery": "東海・関東甲信 警報級大雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6595455?source=rss",
+      "publishedAt": "2026-09-16T01:53:08.000Z",
+      "xQuery": "自民の新執行部発足 麻生氏ら続投"
     },
     {
       "time": "09:32",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ウ大統領 高市氏のキーウ訪問要請"
     },
     {
+      "time": "11:05",
+      "title": "台風発生へ 連休の本州に影響恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595457?source=rss",
+      "publishedAt": "2026-09-16T02:05:22.000Z",
+      "xQuery": "台風発生へ 連休の本州に影響恐れ"
+    },
+    {
       "time": "10:11",
       "title": "空自無人機は墜落断定 16日も捜索",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595449?source=rss",
       "publishedAt": "2026-09-16T01:11:12.000Z",
       "xQuery": "空自無人機は墜落断定 16日も捜索"
-    },
-    {
-      "time": "09:15",
-      "title": "神社仏閣の存続危機 生き残り策は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595441?source=rss",
-      "publishedAt": "2026-09-16T00:15:19.000Z",
-      "xQuery": "神社仏閣の存続危機 生き残り策は"
     },
     {
       "time": "09:52",
