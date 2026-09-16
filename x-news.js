@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T22:37:16.287Z",
+  "updatedAt": "2026-09-16T23:15:04.757Z",
   "items": [
     {
       "time": "06:08",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米FRB 3年2カ月ぶり利上げ決定"
     },
     {
-      "time": "06:21",
-      "title": "党役員と閣僚人事 首相の狙いは",
+      "time": "07:47",
+      "title": "内閣改造 赤沢氏と城内氏が続投へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595534?source=rss",
-      "publishedAt": "2026-09-16T21:21:19.000Z",
-      "xQuery": "党役員と閣僚人事 首相の狙いは"
+      "url": "https://news.yahoo.co.jp/pickup/6595541?source=rss",
+      "publishedAt": "2026-09-16T22:47:49.000Z",
+      "xQuery": "内閣改造 赤沢氏と城内氏が続投へ"
     },
     {
       "time": "06:28",
