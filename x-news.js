@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T07:41:50.206Z",
+  "updatedAt": "2026-09-16T08:25:11.463Z",
   "items": [
     {
       "time": "16:07",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ガソリン補助金 過去最高の51円"
     },
     {
-      "time": "14:44",
-      "title": "催涙スプレーを噴霧疑い 生徒逮捕",
+      "time": "17:03",
+      "title": "赤い羽根募金 さらに7000万円不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595491?source=rss",
-      "publishedAt": "2026-09-16T05:44:05.000Z",
-      "xQuery": "催涙スプレーを噴霧疑い 生徒逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6595501?source=rss",
+      "publishedAt": "2026-09-16T08:03:44.000Z",
+      "xQuery": "赤い羽根募金 さらに7000万円不明"
     },
     {
-      "time": "14:35",
-      "title": "6歳不明 男児の防カメ映像を公開",
+      "time": "16:41",
+      "title": "1人20万円夕食会 参加した県議は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595488?source=rss",
-      "publishedAt": "2026-09-16T05:35:23.000Z",
-      "xQuery": "6歳不明 男児の防カメ映像を公開"
+      "url": "https://news.yahoo.co.jp/pickup/6595499?source=rss",
+      "publishedAt": "2026-09-16T07:41:05.000Z",
+      "xQuery": "1人20万円夕食会 参加した県議は"
     }
   ]
 };
