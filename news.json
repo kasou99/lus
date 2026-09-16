@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T16:40:09.155Z",
+  "updatedAt": "2026-09-16T17:14:58.015Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,23 +12,9 @@
       {
         "time": "05:00",
         "title": "新社長登場／岡本工作機械製作所・伊藤暁氏 砥粒加工「ゼロゼロ」追求",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiWFVZWXRMUWtKcUkya0hKVktuRjNDRWZ5UWdIMkhqX1AxRlBsbjlKQ3NKZWxIaG9RWW1NVUhwVk5BenpZZE52V1V3cDhLYmYzdFpETXBSeDY?oc=5",
         "publishedAt": "2026-09-15T20:00:00.000Z"
-      },
-      {
-        "time": "16:00",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-09-16T07:00:53.000Z"
-      },
-      {
-        "time": "15:44",
-        "title": "ICS研究所、搬送機などのセキュリティ対策を解説",
-        "source": "LOGISTICS TODAY",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ueUt6b1o2d2h5SmYwQl9pUWpVYUs2X1NJRnFaVkI0WlpHR29pcFdXTVpQa1hZX2lWc3NRdjluZTNYRkVZUHBIbE1R?oc=5",
-        "publishedAt": "2026-09-16T06:44:49.000Z"
       },
       {
         "time": "18:06",
@@ -47,7 +33,7 @@
       {
         "time": "20:52",
         "title": "陸自ヘリが消火活動＝国外初、森林火災で―インドネシア",
-        "source": "topics.smt.docomo.ne.jp",
+        "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PMC1CaE1VSlphZXgzTHI0U19Ld2c3SkpHUm5PLTdpb0ZEZUFvbXNLV28wdWdlSWwxay1vQWc2Z1A0SllqTUwya0pzTERET0s4UTBtYmVYdU1tMVMwYTJpQnFMcEZzdVlrUHV1cEdPY2hHLUFwNWxuWm9vcWR2QdIBfkFVX3lxTE9PMC1CaE1VSlphZXgzTHI0U19Ld2c3SkpHUm5PLTdpb0ZEZUFvbXNLV28wdWdlSWwxay1vQWc2Z1A0SllqTUwya0pzTERET0s4UTBtYmVYdU1tMVMwYTJpQnFMcEZzdVlrUHV1cEdPY2hHLUFwNWxuWm9vcWR2QQ?oc=5",
         "publishedAt": "2026-09-16T11:52:00.000Z"
       },
@@ -57,6 +43,20 @@
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLXVlMzZpdUpfb1lGbm5Icy1NLVNQWGFpRExKdW9ORnBNU3YweDc0b1BQUUZudDZwVi1hQjdpYk8tMFBpM0JSdnJhUWhBdEJpQ1VfdV9JRWg5REZTaEtXXzdFQzhOMzhEenFaN29DMkY5UlJMdWkzTzJPMVhXa0pOVnBDeTAzSGdZTHFVcFF3RlEwLTg1QjVXNDRhUG1nYlhoVVc1Q0E2YjFScEFqWnpteVFlbGxLRmNFUWc?oc=5",
         "publishedAt": "2026-09-16T05:52:57.000Z"
+      },
+      {
+        "time": "12:00",
+        "title": "カマメシ、調達可否や代替品まで可視化 設備予備部品",
+        "source": "nikkan.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KalVub21PcTZVbUpGUW41a1d5MTVqS2xEV3huMkVKOVl2TGdyMHk0Z2dFb2xYb0lacldtTjNWV3hfbXhhOGFQMzVfUGxiX1lNZEFtSGQ3V0E?oc=5",
+        "publishedAt": "2026-09-16T03:00:00.000Z"
+      },
+      {
+        "time": "11:56",
+        "title": "ＣＧＳＨＤ Research Memo（3）：主力事業は「CAD/CAMシステム等」だが「金型製造」も手掛ける（2）",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTFaazdzc3BObnN3aklaMVAzRVlVTkV5V3l1M09EUDZPX05wYWI0cnRud3Y1VHNkcm41eDZiaFJTWlBsZk9xZk1jeXdrMFZneERWV25WOU82NHRIUEVqenVzaC1zRjIwSVQ4S2xfb1A4UjVfaDExNElPSDJMRmxKOXJIZ3ZzM0V2am5Vd1NndUbSAYwBQVVfeXFMT3pZUHEtZWduSldqQlJ3UVdROVdRQzRVdFdRaWVaODlmVnhSZlhIbUhHd3dFZ2VNd1JpRmpqVVY1enIwVDRqcVFTVndfaWh2MHRGVGIwLTN4QURsQWZMN0hlem9rZ25uekh0LWtsSlpnZElKZTJtS3ZyMkhJTWNXWkF6VEFvdE5CazR4T2g?oc=5",
+        "publishedAt": "2026-09-16T02:56:16.000Z"
       }
     ],
     "worldHeadlines": [
