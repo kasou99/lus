@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T10:18:56.780Z",
+  "updatedAt": "2026-09-16T10:39:27.685Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,9 +10,16 @@
         "publishedAt": "2026-09-15T20:00:00.000Z"
       },
       {
+        "time": "16:00",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "sanyonews.jp",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-09-16T07:00:53.000Z"
+      },
+      {
         "time": "18:06",
         "title": "【10/15開催】\"危険\" \"異変\" を見逃さない！製造現場のDXを加速するAI活用ウェビナー設備の異常予兆検知から外観検査・欠陥検出まで ～映像データ・センサーデータの活用/導入事例をご紹介",
-        "source": "ascii.jp",
+        "source": "ASCII.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GbGdpcGtYclYyaHN1cW9XX0JfS0MzUlFYYjhBdjJzT09rNXphQ0JIcEMwWU5DbzFuV2JmNnVFdWUtSU5BRkMzUjM4bG9EVTVMQUdHZw?oc=5",
         "publishedAt": "2026-09-16T09:06:18.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KalVub21PcTZVbUpGUW41a1d5MTVqS2xEV3huMkVKOVl2TGdyMHk0Z2dFb2xYb0lacldtTjNWV3hfbXhhOGFQMzVfUGxiX1lNZEFtSGQ3V0E?oc=5",
         "publishedAt": "2026-09-16T03:00:00.000Z"
-      },
-      {
-        "time": "20:00",
-        "title": "中部電力浜岡原発で火災（時事通信）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13WEFNN3ctcVo3ZDVoQWs3RFNVbHdWRnl6d01NU3lMZ0s5WkxvcVJHb19PWWNVN0N5ckxGU1RVazBsU0FZdk0tby1yb19uQllzcFlaNEVOODNldGI3Y3B3LXdDeDJvcEJLc1RVcXpES0d2NEFDSmpaWkxta0ptYnc?oc=5",
-        "publishedAt": "2026-09-15T11:00:47.000Z"
       }
     ],
     "worldHeadlines": [

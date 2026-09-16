@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T10:18:57.535Z",
+  "updatedAt": "2026-09-16T10:39:28.530Z",
   "items": [
     {
       "time": "17:39",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "愛媛の射殺事件 男に懲役30年求刑"
     },
     {
-      "time": "17:03",
-      "title": "赤い羽根募金 さらに7000万円不明",
+      "time": "18:33",
+      "title": "辺野古転覆 運航団体が謝罪声明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595501?source=rss",
-      "publishedAt": "2026-09-16T08:03:44.000Z",
-      "xQuery": "赤い羽根募金 さらに7000万円不明"
+      "url": "https://news.yahoo.co.jp/pickup/6595510?source=rss",
+      "publishedAt": "2026-09-16T09:33:17.000Z",
+      "xQuery": "辺野古転覆 運航団体が謝罪声明"
     },
     {
       "time": "18:25",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "10年前に性的暴行疑い 容疑者逮捕"
     },
     {
-      "time": "17:16",
-      "title": "市立小で集合写真廃止 保護者反発",
+      "time": "17:03",
+      "title": "赤い羽根募金 さらに7000万円不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595503?source=rss",
-      "publishedAt": "2026-09-16T08:16:30.000Z",
-      "xQuery": "市立小で集合写真廃止 保護者反発"
+      "url": "https://news.yahoo.co.jp/pickup/6595501?source=rss",
+      "publishedAt": "2026-09-16T08:03:44.000Z",
+      "xQuery": "赤い羽根募金 さらに7000万円不明"
     }
   ]
 };
