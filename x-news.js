@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-16T23:36:43.208Z",
+  "updatedAt": "2026-09-17T00:48:43.629Z",
   "items": [
-    {
-      "time": "06:08",
-      "title": "米FRB 3年2カ月ぶり利上げ決定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595533?source=rss",
-      "publishedAt": "2026-09-16T21:08:22.000Z",
-      "xQuery": "米FRB 3年2カ月ぶり利上げ決定"
-    },
     {
       "time": "07:47",
       "title": "内閣改造 赤沢氏と城内氏が続投へ",
@@ -18,28 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣改造 赤沢氏と城内氏が続投へ"
     },
     {
-      "time": "06:28",
-      "title": "台風25号 21日ごろに関東最接近か",
+      "time": "08:48",
+      "title": "ガザで損壊建物が倒壊 20人超死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595535?source=rss",
-      "publishedAt": "2026-09-16T21:28:50.000Z",
-      "xQuery": "台風25号 21日ごろに関東最接近か"
+      "url": "https://news.yahoo.co.jp/pickup/6595549?source=rss",
+      "publishedAt": "2026-09-16T23:48:30.000Z",
+      "xQuery": "ガザで損壊建物が倒壊 20人超死亡"
     },
     {
-      "time": "07:19",
-      "title": "戦後最長の景気拡大か 実感乏しく",
+      "time": "08:36",
+      "title": "トランプ氏 FRBに迅速利下げ要求",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595539?source=rss",
-      "publishedAt": "2026-09-16T22:19:58.000Z",
-      "xQuery": "戦後最長の景気拡大か 実感乏しく"
+      "url": "https://news.yahoo.co.jp/pickup/6595545?source=rss",
+      "publishedAt": "2026-09-16T23:36:45.000Z",
+      "xQuery": "トランプ氏 FRBに迅速利下げ要求"
     },
     {
-      "time": "06:55",
-      "title": "子どものSNS制限 EUが新法提案へ",
+      "time": "08:52",
+      "title": "「AI著作物」巡り裁判 識者が警鐘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595537?source=rss",
-      "publishedAt": "2026-09-16T21:55:43.000Z",
-      "xQuery": "子どものSNS制限 EUが新法提案へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595548?source=rss",
+      "publishedAt": "2026-09-16T23:52:32.000Z",
+      "xQuery": "「AI著作物」巡り裁判 識者が警鐘"
+    },
+    {
+      "time": "07:24",
+      "title": "酒離れ進む韓国 日本酒ブームの訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595540?source=rss",
+      "publishedAt": "2026-09-16T22:24:17.000Z",
+      "xQuery": "酒離れ進む韓国 日本酒ブームの訳"
     }
   ]
 };
