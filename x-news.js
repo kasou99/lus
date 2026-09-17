@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T08:44:37.730Z",
+  "updatedAt": "2026-09-17T09:20:28.927Z",
   "items": [
     {
       "time": "16:56",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "個人金融資産 過去最高の2519兆円"
     },
     {
-      "time": "17:14",
-      "title": "スーパーで従業員刺される 男逮捕",
+      "time": "18:06",
+      "title": "スーパー従業員刺され死亡 男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595603?source=rss",
-      "publishedAt": "2026-09-17T08:14:05.000Z",
-      "xQuery": "スーパーで従業員刺される 男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6595607?source=rss",
+      "publishedAt": "2026-09-17T09:06:56.000Z",
+      "xQuery": "スーパー従業員刺され死亡 男逮捕"
     },
     {
       "time": "17:13",
