@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T19:37:19.459Z",
+  "updatedAt": "2026-09-17T20:18:11.536Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,23 +19,9 @@
       {
         "time": "13:00",
         "title": "オムロンの技術資産を活用した高難度加工対応のファイバーレーザー：工作機械",
-        "source": "monoist.itmedia.co.jp",
+        "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfeVcteTlWdUpVWUZjVXJhUUpsVm9heFhTNDd5VjhldVFFeTZaYVEwb25fbkw2bkZIQzh0SDFQNUlJMTFtUFNrY0YycUtYakFqMWlwU2FucnZTRVU0dUhYek5JMFVjV2c5Z2p0b2RKQQ?oc=5",
         "publishedAt": "2026-09-17T04:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "日本工作機械工業会、シカゴでJIMTOFアピール IMTSで会見",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IRHZVY25hak51ZzlFelZqRzBPdGgtaUdfM1BrN3dMQjhGZFZVV0VsNGRTbkJBUTFaNE1rUnZHTWpMUDJTUXhpTzNhUlVsazExaE1mdFd0U2Q?oc=5",
-        "publishedAt": "2026-09-16T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "電気工事業の セイクン 本社工場を建て替え 制御盤の生産能力３倍へ メッセナゴヤ２０２６",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5RXpMalJJMjNRN3JEcVNQajBramRzQ0UyZXRRek5xeV8wMlZRTENQRUxYXzM2ZUFBTTUtSFRxMEpESlBBR0s2Y2dTSnFkRHNPcDRJZVQwM3lOV1NmUnRld0pkVl9CRW1MUEQzV21fM0hNNkk?oc=5",
-        "publishedAt": "2026-09-16T20:00:00.000Z"
       },
       {
         "time": "08:00",
@@ -47,16 +33,30 @@
       {
         "time": "15:14",
         "title": "株式会社ミロクリエ、モノづくりフェア2026で新オプション「ミロクルAIメーター読み取り」を初公開",
-        "source": "ニュースメディアVOIX",
+        "source": "voix.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xc3pEQ0p1R2NZbTVUc2prU0JGMi1OSmRnX1diU1p0WWRLWUVjYWlNaEhTcUxGRVB4blNzNXpvV0hfVkt6LUxtQU1sOEZ5bTBINWJvMWFicDFXME9tQ3NDMjRIM3doV2dMU1JFVHBjb1JLZw?oc=5",
         "publishedAt": "2026-09-17T06:14:50.000Z"
       },
       {
-        "time": "16:22",
-        "title": "【10/15開催】\"危険\" \"異変\" を見逃さない！製造現場のDXを加速するAI活用ウェビナー設備の異常予兆検知から外観検査・欠陥検出まで 〜映像データ・センサーデータの活用/導入事例をご紹介〜",
+        "time": "16:42",
+        "title": "2026年9月17日 深層断面 ニュース",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zR0pIMWpRb3lLdEhhZHVqNlpiWXcwQmRGNUNvWDZXckxlZEd2cUNLUEZtemw5NENWYU53VlJsZF9UTGhkenJ3Q1V4WV9ENEFzOGVPbw?oc=5",
+        "publishedAt": "2026-09-17T07:42:17.000Z"
+      },
+      {
+        "time": "03:06",
+        "title": "貿澤電子、BannerのRSio安全I/Oモジュールを販売開始 単一モジュールで192台の診断デバイスに対応",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81NnR4c3VHN3p3Z0N2Z1VJODllRlR0TWJ2OUhFa19UZGNUd2JYNndHNmFDRGVUOGdnVl80ekRkeFdmWmtmb3AxU3F5akdHbkprT3BSOFRWRHFMTDgybHk0SVhGbTJNM200VURfeUE0bURaQTI0?oc=5",
+        "publishedAt": "2026-09-17T18:06:00.000Z"
+      },
+      {
+        "time": "09:30",
+        "title": "人が足りない工場はどう変わる？ ファナック・JFEスチールら20社が登壇し、AI・自動化を語る",
         "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DcnJfZ21fclo1LTV4TjNLQmVRd3A4VWUtTlZCRXdCOThzRXBIUHZQb2RLc2stRUpRbUo0TV9xVU5HRnNNSkVfN3VmUkxjOHc?oc=5",
-        "publishedAt": "2026-09-17T07:22:48.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IaFpLb0lTUW10M3BnSGdBc3JrRjdFN3NkZlZmNkJUQkE2RC1mU0pvSTFTZ0tNRzBLRHJUVzg4OFpnQndIcE1IaHZJbDlVUQ?oc=5",
+        "publishedAt": "2026-09-17T00:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -222,13 +222,6 @@
         "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
-      },
-      {
-        "time": "16:00",
-        "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
-        "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ]
   }
