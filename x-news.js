@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T13:39:31.131Z",
+  "updatedAt": "2026-09-17T14:20:04.557Z",
   "items": [
     {
-      "time": "22:03",
-      "title": "高市首相の閣僚指示書 全容が判明",
+      "time": "23:10",
+      "title": "第2次改造内閣 林芳正氏なぜ閣外",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595632?source=rss",
-      "publishedAt": "2026-09-17T13:03:09.000Z",
-      "xQuery": "高市首相の閣僚指示書 全容が判明"
+      "url": "https://news.yahoo.co.jp/pickup/6595637?source=rss",
+      "publishedAt": "2026-09-17T14:10:12.000Z",
+      "xQuery": "第2次改造内閣 林芳正氏なぜ閣外"
     },
     {
-      "time": "19:16",
-      "title": "北朝鮮体育相が来日 閣僚8年ぶり",
+      "time": "22:42",
+      "title": "スウェーデン政権交代へ 首相辞意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595616?source=rss",
-      "publishedAt": "2026-09-17T10:16:35.000Z",
-      "xQuery": "北朝鮮体育相が来日 閣僚8年ぶり"
+      "url": "https://news.yahoo.co.jp/pickup/6595636?source=rss",
+      "publishedAt": "2026-09-17T13:42:30.000Z",
+      "xQuery": "スウェーデン政権交代へ 首相辞意"
     },
     {
       "time": "20:30",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "店で従業員刺され死亡 元夫を逮捕"
     },
     {
-      "time": "19:38",
-      "title": "好調な「つるとんたん」なぜ売却",
+      "time": "22:46",
+      "title": "福岡で3つの第三者委 費用2.2億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595619?source=rss",
-      "publishedAt": "2026-09-17T10:38:03.000Z",
-      "xQuery": "好調な「つるとんたん」なぜ売却"
+      "url": "https://news.yahoo.co.jp/pickup/6595635?source=rss",
+      "publishedAt": "2026-09-17T13:46:58.000Z",
+      "xQuery": "福岡で3つの第三者委 費用2.2億円"
     },
     {
-      "time": "21:42",
-      "title": "ツタンカーメン墓 奥に別の王墓か",
+      "time": "22:50",
+      "title": "遺失物の高級腕時計 警察が誤売却",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595631?source=rss",
-      "publishedAt": "2026-09-17T12:42:14.000Z",
-      "xQuery": "ツタンカーメン墓 奥に別の王墓か"
+      "url": "https://news.yahoo.co.jp/pickup/6595638?source=rss",
+      "publishedAt": "2026-09-17T13:50:27.000Z",
+      "xQuery": "遺失物の高級腕時計 警察が誤売却"
     }
   ]
 };
