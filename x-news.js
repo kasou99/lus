@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T14:40:27.734Z",
+  "updatedAt": "2026-09-17T15:18:02.117Z",
   "items": [
     {
       "time": "23:10",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "第2次改造内閣 林芳正氏なぜ閣外"
     },
     {
-      "time": "22:46",
-      "title": "福岡で3つの第三者委 費用2.2億円",
+      "time": "23:18",
+      "title": "大型の台風25号 離れた所も注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595635?source=rss",
-      "publishedAt": "2026-09-17T13:46:58.000Z",
-      "xQuery": "福岡で3つの第三者委 費用2.2億円"
+      "url": "https://news.yahoo.co.jp/pickup/6595639?source=rss",
+      "publishedAt": "2026-09-17T14:18:58.000Z",
+      "xQuery": "大型の台風25号 離れた所も注意"
     },
     {
-      "time": "20:30",
-      "title": "店で従業員刺され死亡 元夫を逮捕",
+      "time": "23:51",
+      "title": "中国企業に営業秘密流出疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595627?source=rss",
-      "publishedAt": "2026-09-17T11:30:19.000Z",
-      "xQuery": "店で従業員刺され死亡 元夫を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6595640?source=rss",
+      "publishedAt": "2026-09-17T14:51:52.000Z",
+      "xQuery": "中国企業に営業秘密流出疑い 逮捕"
     },
     {
-      "time": "22:50",
-      "title": "遺失物の高級腕時計 警察が誤売却",
+      "time": "20:26",
+      "title": "SBI 「因縁」超えライブドア買収",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595638?source=rss",
-      "publishedAt": "2026-09-17T13:50:27.000Z",
-      "xQuery": "遺失物の高級腕時計 警察が誤売却"
+      "url": "https://news.yahoo.co.jp/pickup/6595625?source=rss",
+      "publishedAt": "2026-09-17T11:26:35.000Z",
+      "xQuery": "SBI 「因縁」超えライブドア買収"
     },
     {
       "time": "18:54",
