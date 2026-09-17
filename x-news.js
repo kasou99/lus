@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T01:52:08.428Z",
+  "updatedAt": "2026-09-17T02:25:09.226Z",
   "items": [
     {
-      "time": "07:47",
-      "title": "内閣改造 赤沢氏と城内氏が続投へ",
+      "time": "11:01",
+      "title": "台風接近 気圧低下による頭痛注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595541?source=rss",
-      "publishedAt": "2026-09-16T22:47:49.000Z",
-      "xQuery": "内閣改造 赤沢氏と城内氏が続投へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595561?source=rss",
+      "publishedAt": "2026-09-17T02:01:38.000Z",
+      "xQuery": "台風接近 気圧低下による頭痛注意"
     },
     {
       "time": "08:48",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ガザで損壊建物が倒壊 20人超死亡"
     },
     {
-      "time": "08:36",
-      "title": "トランプ氏 FRBに迅速利下げ要求",
+      "time": "09:37",
+      "title": "教員の大学奨学金 返還免除検討へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595545?source=rss",
-      "publishedAt": "2026-09-16T23:36:45.000Z",
-      "xQuery": "トランプ氏 FRBに迅速利下げ要求"
+      "url": "https://news.yahoo.co.jp/pickup/6595554?source=rss",
+      "publishedAt": "2026-09-17T00:37:19.000Z",
+      "xQuery": "教員の大学奨学金 返還免除検討へ"
     },
     {
       "time": "09:56",
