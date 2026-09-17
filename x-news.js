@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T14:20:04.557Z",
+  "updatedAt": "2026-09-17T14:40:27.734Z",
   "items": [
     {
       "time": "23:10",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "第2次改造内閣 林芳正氏なぜ閣外"
     },
     {
-      "time": "22:42",
-      "title": "スウェーデン政権交代へ 首相辞意",
+      "time": "22:46",
+      "title": "福岡で3つの第三者委 費用2.2億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595636?source=rss",
-      "publishedAt": "2026-09-17T13:42:30.000Z",
-      "xQuery": "スウェーデン政権交代へ 首相辞意"
+      "url": "https://news.yahoo.co.jp/pickup/6595635?source=rss",
+      "publishedAt": "2026-09-17T13:46:58.000Z",
+      "xQuery": "福岡で3つの第三者委 費用2.2億円"
     },
     {
       "time": "20:30",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "店で従業員刺され死亡 元夫を逮捕"
     },
     {
-      "time": "22:46",
-      "title": "福岡で3つの第三者委 費用2.2億円",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595635?source=rss",
-      "publishedAt": "2026-09-17T13:46:58.000Z",
-      "xQuery": "福岡で3つの第三者委 費用2.2億円"
-    },
-    {
       "time": "22:50",
       "title": "遺失物の高級腕時計 警察が誤売却",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595638?source=rss",
       "publishedAt": "2026-09-17T13:50:27.000Z",
       "xQuery": "遺失物の高級腕時計 警察が誤売却"
+    },
+    {
+      "time": "18:54",
+      "title": "四国初の「マリオット」開業へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595615?source=rss",
+      "publishedAt": "2026-09-17T09:54:23.000Z",
+      "xQuery": "四国初の「マリオット」開業へ"
     }
   ]
 };
