@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T02:44:32.116Z",
+  "updatedAt": "2026-09-17T03:21:53.084Z",
   "items": [
-    {
-      "time": "11:37",
-      "title": "自民・渡辺孝一衆院議員が死去",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595568?source=rss",
-      "publishedAt": "2026-09-17T02:37:34.000Z",
-      "xQuery": "自民・渡辺孝一衆院議員が死去"
-    },
     {
       "time": "11:01",
       "title": "台風接近 気圧低下による頭痛注意",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "教員の大学奨学金 返還免除検討へ"
     },
     {
+      "time": "11:37",
+      "title": "自民・渡辺孝一衆院議員が死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595568?source=rss",
+      "publishedAt": "2026-09-17T02:37:34.000Z",
+      "xQuery": "自民・渡辺孝一衆院議員が死去"
+    },
+    {
+      "time": "11:55",
+      "title": "工場から爆発音と通報 ガスにおい",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595570?source=rss",
+      "publishedAt": "2026-09-17T02:55:36.000Z",
+      "xQuery": "工場から爆発音と通報 ガスにおい"
+    },
+    {
       "time": "10:33",
       "title": "列車でモバイル電池発火 乗客搬送",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595559?source=rss",
       "publishedAt": "2026-09-17T01:33:24.000Z",
       "xQuery": "列車でモバイル電池発火 乗客搬送"
-    },
-    {
-      "time": "11:24",
-      "title": "スケボー青木勇貴斗選手 書類送検",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595563?source=rss",
-      "publishedAt": "2026-09-17T02:24:01.000Z",
-      "xQuery": "スケボー青木勇貴斗選手 書類送検"
     }
   ]
 };
