@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T07:42:07.115Z",
+  "updatedAt": "2026-09-17T08:26:04.690Z",
   "items": [
     {
-      "time": "14:01",
-      "title": "高市改造内閣 閣僚名簿を発表",
+      "time": "16:56",
+      "title": "内閣支持44%で過去最低更新 時事",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595582?source=rss",
-      "publishedAt": "2026-09-17T05:01:30.000Z",
-      "xQuery": "高市改造内閣 閣僚名簿を発表"
+      "url": "https://news.yahoo.co.jp/pickup/6595598?source=rss",
+      "publishedAt": "2026-09-17T07:56:54.000Z",
+      "xQuery": "内閣支持44%で過去最低更新 時事"
     },
     {
-      "time": "14:59",
-      "title": "ネパール土石流 行方不明6150人に",
+      "time": "15:23",
+      "title": "個人金融資産 過去最高の2519兆円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595586?source=rss",
-      "publishedAt": "2026-09-17T05:59:38.000Z",
-      "xQuery": "ネパール土石流 行方不明6150人に"
+      "url": "https://news.yahoo.co.jp/pickup/6595589?source=rss",
+      "publishedAt": "2026-09-17T06:23:21.000Z",
+      "xQuery": "個人金融資産 過去最高の2519兆円"
     },
     {
-      "time": "13:57",
-      "title": "東京・北区で2人刺される 逮捕",
+      "time": "17:14",
+      "title": "スーパーで従業員刺される 男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595580?source=rss",
-      "publishedAt": "2026-09-17T04:57:04.000Z",
-      "xQuery": "東京・北区で2人刺される 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6595603?source=rss",
+      "publishedAt": "2026-09-17T08:14:05.000Z",
+      "xQuery": "スーパーで従業員刺される 男逮捕"
+    },
+    {
+      "time": "17:13",
+      "title": "島根県沖 北朝鮮の船沈没4人不明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595602?source=rss",
+      "publishedAt": "2026-09-17T08:13:06.000Z",
+      "xQuery": "島根県沖 北朝鮮の船沈没4人不明"
     },
     {
       "time": "16:05",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595591?source=rss",
       "publishedAt": "2026-09-17T07:05:01.000Z",
       "xQuery": "水戸女性殺害 動機は「リセット」"
-    },
-    {
-      "time": "15:00",
-      "title": "高圧ガス容器の再検査工場で爆発",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595587?source=rss",
-      "publishedAt": "2026-09-17T06:00:35.000Z",
-      "xQuery": "高圧ガス容器の再検査工場で爆発"
     }
   ]
 };
