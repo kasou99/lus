@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T04:21:07.933Z",
+  "updatedAt": "2026-09-17T04:42:44.456Z",
   "items": [
     {
       "time": "11:01",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "自民・渡辺孝一衆院議員が死去"
     },
     {
-      "time": "12:16",
-      "title": "ケーキ店死傷 ガソリン成分を検出",
+      "time": "12:47",
+      "title": "地方で産業用地が不足 背景は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595572?source=rss",
-      "publishedAt": "2026-09-17T03:16:47.000Z",
-      "xQuery": "ケーキ店死傷 ガソリン成分を検出"
+      "url": "https://news.yahoo.co.jp/pickup/6595576?source=rss",
+      "publishedAt": "2026-09-17T03:47:32.000Z",
+      "xQuery": "地方で産業用地が不足 背景は"
     },
     {
       "time": "12:40",

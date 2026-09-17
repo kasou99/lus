@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T04:21:07.189Z",
+  "updatedAt": "2026-09-17T04:42:43.531Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,15 +11,15 @@
       },
       {
         "time": "05:00",
-        "title": "深層断面／シカゴで国際製造技術展 国内工作機械、加工自動化・工程集約を提案",
+        "title": "日本工作機械工業会、シカゴでJIMTOFアピール IMTSで会見",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mU2ZNYTVDdFlBUWl1ckpfeWN2aVBSWm5fR3hMQjNSWXhVZUxaQkJOa2JkdFB4SWhqQmg3SmVFQnRnRHpxdWJJdkNjS2ZuTUxLZWZBSGRSc2w?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IRHZVY25hak51ZzlFelZqRzBPdGgtaUdfM1BrN3dMQjhGZFZVV0VsNGRTbkJBUTFaNE1rUnZHTWpMUDJTUXhpTzNhUlVsazExaE1mdFd0U2Q?oc=5",
         "publishedAt": "2026-09-16T20:00:00.000Z"
       },
       {
         "time": "19:32",
         "title": "AIとGraphDBで設備管理を効率化 日立ソリューションズの設備保全DX：メンテナンス・レジリエンス2026（1/3 ページ）",
-        "source": "built.itmedia.co.jp",
+        "source": "ITmedia",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3d0UxOV9fRk1IZ3hwejdVcERHUWN0Rnp4OXpsbEE1cWhtczhsVlpBNVZnaVBqTjdyc0JTUjVPMFRLTGdKSGpZOEYzUjlKV1ptR2hQTGF4UU00LUlIR3l6elFUaFA0aUxacTlLYw?oc=5",
         "publishedAt": "2026-09-16T10:32:00.000Z"
       },
@@ -38,11 +38,11 @@
         "publishedAt": "2026-09-17T01:00:26.000Z"
       },
       {
-        "time": "05:00",
-        "title": "日本工作機械工業会、シカゴでJIMTOFアピール IMTSで会見",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IRHZVY25hak51ZzlFelZqRzBPdGgtaUdfM1BrN3dMQjhGZFZVV0VsNGRTbkJBUTFaNE1rUnZHTWpMUDJTUXhpTzNhUlVsazExaE1mdFd0U2Q?oc=5",
-        "publishedAt": "2026-09-16T20:00:00.000Z"
+        "time": "16:00",
+        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
+        "publishedAt": "2026-09-16T07:00:53.000Z"
       },
       {
         "time": "18:06",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-09-16T09:06:18.000Z"
       },
       {
-        "time": "09:33",
-        "title": "人が足りない工場はどう変わる？ ファナック・JFEスチールら20社が登壇し、AI・自動化を語る",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13REV6WXFMSnplWjJYaTFIU19PcDJncUM1Ukxock11SnJrS2E1NjdTVnJoOHg4VG1OdGdfVHhNV2dBYkN4QXhBWVJ6NGNpR2NFQTE4NDQ3RzlMVElPNWlqcFpfSEVKNkJCZkRiVWRLaUs1c09Zeko2TlJ2OA?oc=5",
-        "publishedAt": "2026-09-17T00:33:18.000Z"
+        "time": "05:00",
+        "title": "シヤチハタなど、個人情報守り本人証明 なりすまし対策",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43V0pYOGZaaGl2cU5RdHB5bVRpbmhweFJqaEt0UF9pVEV2aEVrMUI3TGVBdWlVOTVZYnZMQlJmSnFOYmhGbU84dWFZeldqWnhFb3pwTW43TXU?oc=5",
+        "publishedAt": "2026-09-16T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
