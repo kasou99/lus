@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T05:18:33.676Z",
+  "updatedAt": "2026-09-17T05:40:05.045Z",
   "items": [
     {
       "time": "14:01",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「入閣氷河期」自民中堅は不満"
     },
     {
-      "time": "11:37",
-      "title": "自民・渡辺孝一衆院議員が死去",
+      "time": "14:20",
+      "title": "空自F15緊急着陸 油圧系不具合か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595568?source=rss",
-      "publishedAt": "2026-09-17T02:37:34.000Z",
-      "xQuery": "自民・渡辺孝一衆院議員が死去"
+      "url": "https://news.yahoo.co.jp/pickup/6595583?source=rss",
+      "publishedAt": "2026-09-17T05:20:05.000Z",
+      "xQuery": "空自F15緊急着陸 油圧系不具合か"
     },
     {
       "time": "13:57",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・北区で2人刺される 逮捕"
     },
     {
-      "time": "11:24",
-      "title": "スケボー青木勇貴斗選手 書類送検",
+      "time": "13:09",
+      "title": "金の延べ棒寄付 すぐに使えない訳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595563?source=rss",
-      "publishedAt": "2026-09-17T02:24:01.000Z",
-      "xQuery": "スケボー青木勇貴斗選手 書類送検"
+      "url": "https://news.yahoo.co.jp/pickup/6595573?source=rss",
+      "publishedAt": "2026-09-17T04:09:21.000Z",
+      "xQuery": "金の延べ棒寄付 すぐに使えない訳"
     }
   ]
 };
