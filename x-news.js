@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T13:17:39.986Z",
+  "updatedAt": "2026-09-17T13:39:31.131Z",
   "items": [
     {
       "time": "22:03",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高市首相の閣僚指示書 全容が判明"
     },
     {
-      "time": "18:33",
-      "title": "細野豪志氏「宿命」 復興相に就任",
+      "time": "19:16",
+      "title": "北朝鮮体育相が来日 閣僚8年ぶり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595613?source=rss",
-      "publishedAt": "2026-09-17T09:33:40.000Z",
-      "xQuery": "細野豪志氏「宿命」 復興相に就任"
+      "url": "https://news.yahoo.co.jp/pickup/6595616?source=rss",
+      "publishedAt": "2026-09-17T10:16:35.000Z",
+      "xQuery": "北朝鮮体育相が来日 閣僚8年ぶり"
     },
     {
       "time": "20:30",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "店で従業員刺され死亡 元夫を逮捕"
     },
     {
-      "time": "19:55",
-      "title": "インフルエンザ 注意報を都が発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595622?source=rss",
-      "publishedAt": "2026-09-17T10:55:51.000Z",
-      "xQuery": "インフルエンザ 注意報を都が発表"
-    },
-    {
       "time": "19:38",
       "title": "好調な「つるとんたん」なぜ売却",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595619?source=rss",
       "publishedAt": "2026-09-17T10:38:03.000Z",
       "xQuery": "好調な「つるとんたん」なぜ売却"
+    },
+    {
+      "time": "21:42",
+      "title": "ツタンカーメン墓 奥に別の王墓か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595631?source=rss",
+      "publishedAt": "2026-09-17T12:42:14.000Z",
+      "xQuery": "ツタンカーメン墓 奥に別の王墓か"
     }
   ]
 };
