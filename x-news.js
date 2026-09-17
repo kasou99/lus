@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T21:36:30.474Z",
+  "updatedAt": "2026-09-17T22:15:48.503Z",
   "items": [
-    {
-      "time": "23:10",
-      "title": "第2次改造内閣 林芳正氏なぜ閣外",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595637?source=rss",
-      "publishedAt": "2026-09-17T14:10:12.000Z",
-      "xQuery": "第2次改造内閣 林芳正氏なぜ閣外"
-    },
     {
       "time": "23:18",
       "title": "大型の台風25号 離れた所も注意",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595639?source=rss",
       "publishedAt": "2026-09-17T14:18:58.000Z",
       "xQuery": "大型の台風25号 離れた所も注意"
+    },
+    {
+      "time": "06:48",
+      "title": "九州新幹線 52日ぶり全線運転",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595645?source=rss",
+      "publishedAt": "2026-09-17T21:48:34.000Z",
+      "xQuery": "九州新幹線 52日ぶり全線運転"
     },
     {
       "time": "23:51",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中国企業に営業秘密流出疑い 逮捕"
     },
     {
+      "time": "06:37",
+      "title": "東京都 ポイ捨て禁止条例を検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595644?source=rss",
+      "publishedAt": "2026-09-17T21:37:39.000Z",
+      "xQuery": "東京都 ポイ捨て禁止条例を検討"
+    },
+    {
       "time": "20:26",
       "title": "SBI 「因縁」超えライブドア買収",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595625?source=rss",
       "publishedAt": "2026-09-17T11:26:35.000Z",
       "xQuery": "SBI 「因縁」超えライブドア買収"
-    },
-    {
-      "time": "18:54",
-      "title": "四国初の「マリオット」開業へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595615?source=rss",
-      "publishedAt": "2026-09-17T09:54:23.000Z",
-      "xQuery": "四国初の「マリオット」開業へ"
     }
   ]
 };

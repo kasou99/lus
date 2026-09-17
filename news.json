@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T21:36:29.729Z",
+  "updatedAt": "2026-09-17T22:15:47.664Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "13:00",
         "title": "オムロンの技術資産を活用した高難度加工対応のファイバーレーザー：工作機械",
-        "source": "MONOist",
+        "source": "monoist.itmedia.co.jp",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfeVcteTlWdUpVWUZjVXJhUUpsVm9heFhTNDd5VjhldVFFeTZaYVEwb25fbkw2bkZIQzh0SDFQNUlJMTFtUFNrY0YycUtYakFqMWlwU2FucnZTRVU0dUhYek5JMFVjV2c5Z2p0b2RKQQ?oc=5",
         "publishedAt": "2026-09-17T04:00:00.000Z"
       },
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "06:08",
-        "title": "米FRB 3年2カ月ぶり利上げ決定",
+        "time": "06:48",
+        "title": "九州新幹線 52日ぶり全線運転",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595533?source=rss",
-        "publishedAt": "2026-09-16T21:08:22.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595645?source=rss",
+        "publishedAt": "2026-09-17T21:48:34.000Z"
       },
       {
         "time": "15:23",
@@ -126,6 +126,13 @@
         "publishedAt": "2026-09-17T11:26:35.000Z"
       },
       {
+        "time": "06:59",
+        "title": "日産 新型スカイライン12月発表へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595646?source=rss",
+        "publishedAt": "2026-09-17T21:59:43.000Z"
+      },
+      {
         "time": "18:54",
         "title": "四国初の「マリオット」開業へ",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595599?source=rss",
         "publishedAt": "2026-09-17T07:53:26.000Z"
-      },
-      {
-        "time": "19:38",
-        "title": "好調な「つるとんたん」なぜ売却",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595619?source=rss",
-        "publishedAt": "2026-09-17T10:38:03.000Z"
       }
     ],
     "localHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-09-17T02:24:01.000Z"
       },
       {
-        "time": "19:32",
-        "title": "北朝鮮船が曳航の船沈没 島根県沖",
+        "time": "13:57",
+        "title": "東京・北区で2人刺される 逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595620?source=rss",
-        "publishedAt": "2026-09-17T10:32:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595580?source=rss",
+        "publishedAt": "2026-09-17T04:57:04.000Z"
       }
     ],
     "subsidyHeadlines": [
