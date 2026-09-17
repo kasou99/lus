@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T04:42:44.456Z",
+  "updatedAt": "2026-09-17T05:18:33.676Z",
   "items": [
     {
-      "time": "11:01",
-      "title": "台風接近 気圧低下による頭痛注意",
+      "time": "14:01",
+      "title": "高市改造内閣 閣僚名簿を発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595561?source=rss",
-      "publishedAt": "2026-09-17T02:01:38.000Z",
-      "xQuery": "台風接近 気圧低下による頭痛注意"
+      "url": "https://news.yahoo.co.jp/pickup/6595582?source=rss",
+      "publishedAt": "2026-09-17T05:01:30.000Z",
+      "xQuery": "高市改造内閣 閣僚名簿を発表"
     },
     {
       "time": "12:24",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "自民・渡辺孝一衆院議員が死去"
     },
     {
-      "time": "12:47",
-      "title": "地方で産業用地が不足 背景は",
+      "time": "13:57",
+      "title": "東京・北区で2人刺される 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595576?source=rss",
-      "publishedAt": "2026-09-17T03:47:32.000Z",
-      "xQuery": "地方で産業用地が不足 背景は"
+      "url": "https://news.yahoo.co.jp/pickup/6595580?source=rss",
+      "publishedAt": "2026-09-17T04:57:04.000Z",
+      "xQuery": "東京・北区で2人刺される 逮捕"
     },
     {
-      "time": "12:40",
-      "title": "「隠れ教育費」が年々増 実態は",
+      "time": "11:24",
+      "title": "スケボー青木勇貴斗選手 書類送検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595575?source=rss",
-      "publishedAt": "2026-09-17T03:40:55.000Z",
-      "xQuery": "「隠れ教育費」が年々増 実態は"
+      "url": "https://news.yahoo.co.jp/pickup/6595563?source=rss",
+      "publishedAt": "2026-09-17T02:24:01.000Z",
+      "xQuery": "スケボー青木勇貴斗選手 書類送検"
     }
   ]
 };
