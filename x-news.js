@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T05:40:05.045Z",
+  "updatedAt": "2026-09-17T06:31:59.650Z",
   "items": [
     {
       "time": "14:01",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "高市改造内閣 閣僚名簿を発表"
     },
     {
-      "time": "12:24",
-      "title": "「入閣氷河期」自民中堅は不満",
+      "time": "14:59",
+      "title": "ネパール土石流 行方不明6150人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595571?source=rss",
-      "publishedAt": "2026-09-17T03:24:05.000Z",
-      "xQuery": "「入閣氷河期」自民中堅は不満"
+      "url": "https://news.yahoo.co.jp/pickup/6595586?source=rss",
+      "publishedAt": "2026-09-17T05:59:38.000Z",
+      "xQuery": "ネパール土石流 行方不明6150人に"
     },
     {
-      "time": "14:20",
-      "title": "空自F15緊急着陸 油圧系不具合か",
+      "time": "14:36",
+      "title": "豪 留学のビザで子など同伴認めず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595583?source=rss",
-      "publishedAt": "2026-09-17T05:20:05.000Z",
-      "xQuery": "空自F15緊急着陸 油圧系不具合か"
+      "url": "https://news.yahoo.co.jp/pickup/6595585?source=rss",
+      "publishedAt": "2026-09-17T05:36:49.000Z",
+      "xQuery": "豪 留学のビザで子など同伴認めず"
     },
     {
       "time": "13:57",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・北区で2人刺される 逮捕"
     },
     {
-      "time": "13:09",
-      "title": "金の延べ棒寄付 すぐに使えない訳",
+      "time": "15:00",
+      "title": "高圧ガス容器の再検査工場で爆発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595573?source=rss",
-      "publishedAt": "2026-09-17T04:09:21.000Z",
-      "xQuery": "金の延べ棒寄付 すぐに使えない訳"
+      "url": "https://news.yahoo.co.jp/pickup/6595587?source=rss",
+      "publishedAt": "2026-09-17T06:00:35.000Z",
+      "xQuery": "高圧ガス容器の再検査工場で爆発"
     }
   ]
 };
