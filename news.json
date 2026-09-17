@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T03:21:51.850Z",
+  "updatedAt": "2026-09-17T03:43:34.551Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "19:32",
         "title": "AIとGraphDBで設備管理を効率化 日立ソリューションズの設備保全DX：メンテナンス・レジリエンス2026（1/3 ページ）",
-        "source": "ITmedia",
+        "source": "built.itmedia.co.jp",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3d0UxOV9fRk1IZ3hwejdVcERHUWN0Rnp4OXpsbEE1cWhtczhsVlpBNVZnaVBqTjdyc0JTUjVPMFRLTGdKSGpZOEYzUjlKV1ptR2hQTGF4UU00LUlIR3l6elFUaFA0aUxacTlLYw?oc=5",
         "publishedAt": "2026-09-16T10:32:00.000Z"
       },
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-16T20:00:00.000Z"
       },
       {
-        "time": "16:00",
-        "title": "電線の端材でストラップ制作 Ｍ．Ｓ．Ｅ．が商品化",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TOThSZjN5eER3TlU3MHo0RE9lLXdpRFVod2Mtams1bFZvcjBKQnpvSFYxMjJPYm5HZVd5RlhtcHlTN3R2OGdVLUs5THBCQVVCWEE?oc=5",
-        "publishedAt": "2026-09-16T07:00:53.000Z"
-      },
-      {
         "time": "18:06",
         "title": "【10/15開催】\"危険\" \"異変\" を見逃さない！製造現場のDXを加速するAI活用ウェビナー設備の異常予兆検知から外観検査・欠陥検出まで ～映像データ・センサーデータの活用/導入事例をご紹介",
         "source": "ASCII.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GbGdpcGtYclYyaHN1cW9XX0JfS0MzUlFYYjhBdjJzT09rNXphQ0JIcEMwWU5DbzFuV2JmNnVFdWUtSU5BRkMzUjM4bG9EVTVMQUdHZw?oc=5",
         "publishedAt": "2026-09-16T09:06:18.000Z"
+      },
+      {
+        "time": "09:33",
+        "title": "人が足りない工場はどう変わる？ ファナック・JFEスチールら20社が登壇し、AI・自動化を語る",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13REV6WXFMSnplWjJYaTFIU19PcDJncUM1Ukxock11SnJrS2E1NjdTVnJoOHg4VG1OdGdfVHhNV2dBYkN4QXhBWVJ6NGNpR2NFQTE4NDQ3RzlMVElPNWlqcFpfSEVKNkJCZkRiVWRLaUs1c09Zeko2TlJ2OA?oc=5",
+        "publishedAt": "2026-09-17T00:33:18.000Z"
       }
     ],
     "worldHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T03:21:53.084Z",
+  "updatedAt": "2026-09-17T03:43:35.996Z",
   "items": [
     {
       "time": "11:01",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風接近 気圧低下による頭痛注意"
     },
     {
-      "time": "09:37",
-      "title": "教員の大学奨学金 返還免除検討へ",
+      "time": "12:24",
+      "title": "「入閣氷河期」自民中堅は不満",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595554?source=rss",
-      "publishedAt": "2026-09-17T00:37:19.000Z",
-      "xQuery": "教員の大学奨学金 返還免除検討へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595571?source=rss",
+      "publishedAt": "2026-09-17T03:24:05.000Z",
+      "xQuery": "「入閣氷河期」自民中堅は不満"
     },
     {
       "time": "11:37",
