@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T07:22:49.368Z",
+  "updatedAt": "2026-09-17T07:42:06.590Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-09-16T20:00:00.000Z"
       },
       {
+        "time": "16:20",
+        "title": "【10/15開催】\"危険\" \"異変\" を見逃さない！製造現場のDXを加速するAI活用ウェビナー設備の異常予兆検知から外観検査・欠陥検出まで 〜映像データ・センサーデータの活用/導入事例をご紹介〜",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DcnJfZ21fclo1LTV4TjNLQmVRd3A4VWUtTlZCRXdCOThzRXBIUHZQb2RLc2stRUpRbUo0TV9xVU5HRnNNSkVfN3VmUkxjOHc?oc=5",
+        "publishedAt": "2026-09-17T07:20:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "電気工事業の セイクン 本社工場を建て替え 制御盤の生産能力３倍へ メッセナゴヤ２０２６",
         "source": "中部経済新聞",
@@ -40,7 +47,7 @@
       {
         "time": "15:14",
         "title": "株式会社ミロクリエ、モノづくりフェア2026で新オプション「ミロクルAIメーター読み取り」を初公開",
-        "source": "ニュースメディアVOIX",
+        "source": "voix.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xc3pEQ0p1R2NZbTVUc2prU0JGMi1OSmRnX1diU1p0WWRLWUVjYWlNaEhTcUxGRVB4blNzNXpvV0hfVkt6LUxtQU1sOEZ5bTBINWJvMWFicDFXME9tQ3NDMjRIM3doV2dMU1JFVHBjb1JLZw?oc=5",
         "publishedAt": "2026-09-17T06:14:50.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "ITmedia",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3d0UxOV9fRk1IZ3hwejdVcERHUWN0Rnp4OXpsbEE1cWhtczhsVlpBNVZnaVBqTjdyc0JTUjVPMFRLTGdKSGpZOEYzUjlKV1ptR2hQTGF4UU00LUlIR3l6elFUaFA0aUxacTlLYw?oc=5",
         "publishedAt": "2026-09-16T10:32:00.000Z"
-      },
-      {
-        "time": "18:06",
-        "title": "【10/15開催】\"危険\" \"異変\" を見逃さない！製造現場のDXを加速するAI活用ウェビナー設備の異常予兆検知から外観検査・欠陥検出まで ～映像データ・センサーデータの活用/導入事例をご紹介",
-        "source": "ASCII.jp",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GbGdpcGtYclYyaHN1cW9XX0JfS0MzUlFYYjhBdjJzT09rNXphQ0JIcEMwWU5DbzFuV2JmNnVFdWUtSU5BRkMzUjM4bG9EVTVMQUdHZw?oc=5",
-        "publishedAt": "2026-09-16T09:06:18.000Z"
       }
     ],
     "worldHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-09-16T09:25:26.000Z"
       },
       {
-        "time": "14:29",
-        "title": "すぐに本貸さない図書館 なぜ計画",
+        "time": "16:22",
+        "title": "中学校でクマスプレー 10数人搬送",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595584?source=rss",
-        "publishedAt": "2026-09-17T05:29:02.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595595?source=rss",
+        "publishedAt": "2026-09-17T07:22:30.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },

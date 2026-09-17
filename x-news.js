@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T07:22:49.954Z",
+  "updatedAt": "2026-09-17T07:42:07.115Z",
   "items": [
     {
       "time": "14:01",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ネパール土石流 行方不明6150人に"
     },
     {
-      "time": "14:36",
-      "title": "豪 留学のビザで子など同伴認めず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595585?source=rss",
-      "publishedAt": "2026-09-17T05:36:49.000Z",
-      "xQuery": "豪 留学のビザで子など同伴認めず"
-    },
-    {
       "time": "13:57",
       "title": "東京・北区で2人刺される 逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595580?source=rss",
       "publishedAt": "2026-09-17T04:57:04.000Z",
       "xQuery": "東京・北区で2人刺される 逮捕"
+    },
+    {
+      "time": "16:05",
+      "title": "水戸女性殺害 動機は「リセット」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595591?source=rss",
+      "publishedAt": "2026-09-17T07:05:01.000Z",
+      "xQuery": "水戸女性殺害 動機は「リセット」"
     },
     {
       "time": "15:00",
