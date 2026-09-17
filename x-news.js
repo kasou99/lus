@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T01:28:47.698Z",
+  "updatedAt": "2026-09-17T01:52:08.428Z",
   "items": [
     {
       "time": "07:47",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「高市流」人事 党内から不満の声"
     },
     {
-      "time": "09:55",
-      "title": "元店長自死 遺族がかっぱ寿司提訴",
+      "time": "10:33",
+      "title": "列車でモバイル電池発火 乗客搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595557?source=rss",
-      "publishedAt": "2026-09-17T00:55:02.000Z",
-      "xQuery": "元店長自死 遺族がかっぱ寿司提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6595559?source=rss",
+      "publishedAt": "2026-09-17T01:33:24.000Z",
+      "xQuery": "列車でモバイル電池発火 乗客搬送"
     }
   ]
 };
