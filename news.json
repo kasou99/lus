@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T09:41:49.209Z",
+  "updatedAt": "2026-09-17T10:18:19.950Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -33,14 +33,14 @@
       {
         "time": "10:00",
         "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
-        "source": "news.nicovideo.jp",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YMHplc2JlVzFtVHRucnhwSkRhbUJUWHhGWVd2NU5vOTRiLWRQdk43YUpYN1FObWlhcTdkM1hJcFJnWjNoM3Mxb2s2TG1qME5UWXJfbmZ1YnFlSEhaRkpXNTlMYUh1TGlCWGVDVDNLWVdnSkQyWWc?oc=5",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wM1NVMzVWQjR3czZwRmFrOHB5U2pPMFctbkZXMzJ1LVFPTHV5QzFpVjhiLWhXQWQzMnF6ZURtX3RKY3NDX2U5aGRWQWVBeXU4Rms3cHVwbkNhTWFkMENzWTFPTi02eWNNR2JmRnU5cU9tZXJMZG9KcElSWQ?oc=5",
         "publishedAt": "2026-09-17T01:00:26.000Z"
       },
       {
         "time": "15:14",
         "title": "株式会社ミロクリエ、モノづくりフェア2026で新オプション「ミロクルAIメーター読み取り」を初公開",
-        "source": "voix.jp",
+        "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xc3pEQ0p1R2NZbTVUc2prU0JGMi1OSmRnX1diU1p0WWRLWUVjYWlNaEhTcUxGRVB4blNzNXpvV0hfVkt6LUxtQU1sOEZ5bTBINWJvMWFicDFXME9tQ3NDMjRIM3doV2dMU1JFVHBjb1JLZw?oc=5",
         "publishedAt": "2026-09-17T06:14:50.000Z"
       },
@@ -54,7 +54,7 @@
       {
         "time": "23:30",
         "title": "【10/15開催】\"危険\" \"異変\" を見逃さない！製造現場のDXを加速するAI活用ウェビナー設備の異常予兆検知から外観検査・欠陥検出まで ～映像データ・センサーデータの活用/導入事例をご紹介～",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KdlZQOGFNOVhXenoxQkc5d19fOVF3OHp5ODhNdmMzX3Z6YjB6S3N1RjY3LU10U3h5ZDlOTk1DTy1VY0JFRjhWU0hpR2RwV3Qwelhidw?oc=5",
         "publishedAt": "2026-09-16T14:30:44.000Z"
       }
@@ -73,13 +73,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595496?source=rss",
         "publishedAt": "2026-09-16T07:07:05.000Z"
-      },
-      {
-        "time": "13:52",
-        "title": "フーシ派「紅海封鎖」長期化懸念",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595461?source=rss",
-        "publishedAt": "2026-09-16T04:52:34.000Z"
       },
       {
         "time": "08:48",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595585?source=rss",
         "publishedAt": "2026-09-17T05:36:49.000Z"
+      },
+      {
+        "time": "21:51",
+        "title": "フィジー HIV拡大で非常事態宣言",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595522?source=rss",
+        "publishedAt": "2026-09-16T12:51:44.000Z"
       }
     ],
     "economyHeadlines": [
@@ -117,6 +117,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595589?source=rss",
         "publishedAt": "2026-09-17T06:23:21.000Z"
+      },
+      {
+        "time": "18:54",
+        "title": "四国初の「マリオット」開業へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595615?source=rss",
+        "publishedAt": "2026-09-17T09:54:23.000Z"
       },
       {
         "time": "16:53",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595601?source=rss",
         "publishedAt": "2026-09-17T08:03:47.000Z"
-      },
-      {
-        "time": "17:34",
-        "title": "ドクターイエローを保存へ JR西",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595506?source=rss",
-        "publishedAt": "2026-09-16T08:34:20.000Z"
       }
     ],
     "localHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }

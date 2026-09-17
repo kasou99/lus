@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T09:41:49.961Z",
+  "updatedAt": "2026-09-17T10:18:20.692Z",
   "items": [
     {
-      "time": "18:26",
-      "title": "中継 内閣改造巡り高市首相が会見",
+      "time": "19:14",
+      "title": "内閣改造 高市首相「実行力重視」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595600?source=rss",
-      "publishedAt": "2026-09-17T09:26:36.000Z",
-      "xQuery": "中継 内閣改造巡り高市首相が会見"
+      "url": "https://news.yahoo.co.jp/pickup/6595618?source=rss",
+      "publishedAt": "2026-09-17T10:14:50.000Z",
+      "xQuery": "内閣改造 高市首相「実行力重視」"
     },
     {
-      "time": "15:23",
-      "title": "個人金融資産 過去最高の2519兆円",
+      "time": "16:18",
+      "title": "台風影響 関東は21日ごろ大雨恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595589?source=rss",
-      "publishedAt": "2026-09-17T06:23:21.000Z",
-      "xQuery": "個人金融資産 過去最高の2519兆円"
+      "url": "https://news.yahoo.co.jp/pickup/6595594?source=rss",
+      "publishedAt": "2026-09-17T07:18:24.000Z",
+      "xQuery": "台風影響 関東は21日ごろ大雨恐れ"
     },
     {
       "time": "18:06",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スーパー従業員刺され死亡 男逮捕"
     },
     {
-      "time": "16:05",
-      "title": "水戸女性殺害 動機は「リセット」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595591?source=rss",
-      "publishedAt": "2026-09-17T07:05:01.000Z",
-      "xQuery": "水戸女性殺害 動機は「リセット」"
-    },
-    {
       "time": "16:53",
       "title": "サンマルクHDがつるとんたん買収",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595599?source=rss",
       "publishedAt": "2026-09-17T07:53:26.000Z",
       "xQuery": "サンマルクHDがつるとんたん買収"
+    },
+    {
+      "time": "17:03",
+      "title": "TDS新規ショー決定 100億円投資",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595601?source=rss",
+      "publishedAt": "2026-09-17T08:03:47.000Z",
+      "xQuery": "TDS新規ショー決定 100億円投資"
     }
   ]
 };
