@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T10:40:15.480Z",
+  "updatedAt": "2026-09-17T11:16:33.786Z",
   "items": [
     {
       "time": "19:14",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣改造 高市首相「実行力重視」"
     },
     {
-      "time": "16:18",
-      "title": "台風影響 関東は21日ごろ大雨恐れ",
+      "time": "19:55",
+      "title": "インフルエンザ 注意報を都が発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595594?source=rss",
-      "publishedAt": "2026-09-17T07:18:24.000Z",
-      "xQuery": "台風影響 関東は21日ごろ大雨恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6595622?source=rss",
+      "publishedAt": "2026-09-17T10:55:51.000Z",
+      "xQuery": "インフルエンザ 注意報を都が発表"
     },
     {
       "time": "18:33",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "スーパー従業員刺され死亡 男逮捕"
     },
     {
-      "time": "19:32",
-      "title": "北朝鮮船が曳航の船沈没 島根県沖",
+      "time": "19:38",
+      "title": "好調な「つるとんたん」なぜ売却",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595620?source=rss",
-      "publishedAt": "2026-09-17T10:32:10.000Z",
-      "xQuery": "北朝鮮船が曳航の船沈没 島根県沖"
+      "url": "https://news.yahoo.co.jp/pickup/6595619?source=rss",
+      "publishedAt": "2026-09-17T10:38:03.000Z",
+      "xQuery": "好調な「つるとんたん」なぜ売却"
     }
   ]
 };
