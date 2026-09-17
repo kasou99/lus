@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T10:18:20.692Z",
+  "updatedAt": "2026-09-17T10:40:15.480Z",
   "items": [
     {
       "time": "19:14",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "台風影響 関東は21日ごろ大雨恐れ"
     },
     {
+      "time": "18:33",
+      "title": "細野豪志氏「宿命」 復興相に就任",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595613?source=rss",
+      "publishedAt": "2026-09-17T09:33:40.000Z",
+      "xQuery": "細野豪志氏「宿命」 復興相に就任"
+    },
+    {
       "time": "18:06",
       "title": "スーパー従業員刺され死亡 男逮捕",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "スーパー従業員刺され死亡 男逮捕"
     },
     {
-      "time": "16:53",
-      "title": "サンマルクHDがつるとんたん買収",
+      "time": "19:32",
+      "title": "北朝鮮船が曳航の船沈没 島根県沖",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595599?source=rss",
-      "publishedAt": "2026-09-17T07:53:26.000Z",
-      "xQuery": "サンマルクHDがつるとんたん買収"
-    },
-    {
-      "time": "17:03",
-      "title": "TDS新規ショー決定 100億円投資",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595601?source=rss",
-      "publishedAt": "2026-09-17T08:03:47.000Z",
-      "xQuery": "TDS新規ショー決定 100億円投資"
+      "url": "https://news.yahoo.co.jp/pickup/6595620?source=rss",
+      "publishedAt": "2026-09-17T10:32:10.000Z",
+      "xQuery": "北朝鮮船が曳航の船沈没 島根県沖"
     }
   ]
 };
