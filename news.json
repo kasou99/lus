@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T02:25:08.495Z",
+  "updatedAt": "2026-09-17T02:44:31.333Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-16T08:03:44.000Z"
       },
       {
+        "time": "11:24",
+        "title": "スケボー青木勇貴斗選手 書類送検",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595563?source=rss",
+        "publishedAt": "2026-09-17T02:24:01.000Z"
+      },
+      {
         "time": "18:25",
         "title": "10年前に性的暴行疑い 容疑者逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595509?source=rss",
         "publishedAt": "2026-09-16T09:25:26.000Z"
-      },
-      {
-        "time": "10:33",
-        "title": "列車でモバイル電池発火 乗客搬送",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595559?source=rss",
-        "publishedAt": "2026-09-17T01:33:24.000Z"
       }
     ],
     "subsidyHeadlines": [

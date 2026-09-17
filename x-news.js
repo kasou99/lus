@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T02:25:09.226Z",
+  "updatedAt": "2026-09-17T02:44:32.116Z",
   "items": [
+    {
+      "time": "11:37",
+      "title": "自民・渡辺孝一衆院議員が死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595568?source=rss",
+      "publishedAt": "2026-09-17T02:37:34.000Z",
+      "xQuery": "自民・渡辺孝一衆院議員が死去"
+    },
     {
       "time": "11:01",
       "title": "台風接近 気圧低下による頭痛注意",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595561?source=rss",
       "publishedAt": "2026-09-17T02:01:38.000Z",
       "xQuery": "台風接近 気圧低下による頭痛注意"
-    },
-    {
-      "time": "08:48",
-      "title": "ガザで損壊建物が倒壊 20人超死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595549?source=rss",
-      "publishedAt": "2026-09-16T23:48:30.000Z",
-      "xQuery": "ガザで損壊建物が倒壊 20人超死亡"
     },
     {
       "time": "09:37",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "教員の大学奨学金 返還免除検討へ"
     },
     {
-      "time": "09:56",
-      "title": "「高市流」人事 党内から不満の声",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595556?source=rss",
-      "publishedAt": "2026-09-17T00:56:03.000Z",
-      "xQuery": "「高市流」人事 党内から不満の声"
-    },
-    {
       "time": "10:33",
       "title": "列車でモバイル電池発火 乗客搬送",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595559?source=rss",
       "publishedAt": "2026-09-17T01:33:24.000Z",
       "xQuery": "列車でモバイル電池発火 乗客搬送"
+    },
+    {
+      "time": "11:24",
+      "title": "スケボー青木勇貴斗選手 書類送検",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595563?source=rss",
+      "publishedAt": "2026-09-17T02:24:01.000Z",
+      "xQuery": "スケボー青木勇貴斗選手 書類送検"
     }
   ]
 };
