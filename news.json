@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T22:36:41.191Z",
+  "updatedAt": "2026-09-17T23:14:00.951Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,27 +24,6 @@
         "publishedAt": "2026-09-17T04:00:00.000Z"
       },
       {
-        "time": "16:42",
-        "title": "2026年9月17日 深層断面 ニュース",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zR0pIMWpRb3lLdEhhZHVqNlpiWXcwQmRGNUNvWDZXckxlZEd2cUNLUEZtemw5NENWYU53VlJsZF9UTGhkenJ3Q1V4WV9ENEFzOGVPbw?oc=5",
-        "publishedAt": "2026-09-17T07:42:17.000Z"
-      },
-      {
-        "time": "08:00",
-        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsN1Iyc3pEV1E2ZlU4cmtRTWJTajJjRGpScFVHLU04VGdaZWdLOXg0TWZ3RW9xT0RDWE1MaFZPN1hMMU81dFFQQ2VIWUsyNFhMZ3VGZFpvUjlobVNPeHhLZWczcG96N0Y3NXdLMWh4T1hCdw?oc=5",
-        "publishedAt": "2026-09-16T23:00:00.000Z"
-      },
-      {
-        "time": "15:14",
-        "title": "株式会社ミロクリエ、モノづくりフェア2026で新オプション「ミロクルAIメーター読み取り」を初公開",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xc3pEQ0p1R2NZbTVUc2prU0JGMi1OSmRnX1diU1p0WWRLWUVjYWlNaEhTcUxGRVB4blNzNXpvV0hfVkt6LUxtQU1sOEZ5bTBINWJvMWFicDFXME9tQ3NDMjRIM3doV2dMU1JFVHBjb1JLZw?oc=5",
-        "publishedAt": "2026-09-17T06:14:50.000Z"
-      },
-      {
         "time": "03:06",
         "title": "貿澤電子、BannerのRSio安全I/Oモジュールを販売開始 単一モジュールで192台の診断デバイスに対応",
         "source": "BigGo ファイナンス",
@@ -52,11 +31,32 @@
         "publishedAt": "2026-09-17T18:06:00.000Z"
       },
       {
-        "time": "09:30",
-        "title": "人が足りない工場はどう変わる？ ファナック・JFEスチールら20社が登壇し、AI・自動化を語る",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IaFpLb0lTUW10M3BnSGdBc3JrRjdFN3NkZlZmNkJUQkE2RC1mU0pvSTFTZ0tNRzBLRHJUVzg4OFpnQndIcE1IaHZJbDlVUQ?oc=5",
-        "publishedAt": "2026-09-17T00:30:00.000Z"
+        "time": "16:42",
+        "title": "2026年9月17日 深層断面 ニュース",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zR0pIMWpRb3lLdEhhZHVqNlpiWXcwQmRGNUNvWDZXckxlZEd2cUNLUEZtemw5NENWYU53VlJsZF9UTGhkenJ3Q1V4WV9ENEFzOGVPbw?oc=5",
+        "publishedAt": "2026-09-17T07:42:17.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YMHplc2JlVzFtVHRucnhwSkRhbUJUWHhGWVd2NU5vOTRiLWRQdk43YUpYN1FObWlhcTdkM1hJcFJnWjNoM3Mxb2s2TG1qME5UWXJfbmZ1YnFlSEhaRkpXNTlMYUh1TGlCWGVDVDNLWVdnSkQyWWc?oc=5",
+        "publishedAt": "2026-09-17T01:00:26.000Z"
+      },
+      {
+        "time": "03:28",
+        "title": "家具製造分野におけるベトナム・ポーランド間のサプライチェーンの構築。",
+        "source": "vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnp6ZGZTU2VRR1VHQ3pGZ2E0NVRqYVZlZWZMTUQ4UVNSYXBaZVhDTjhFN3dxV2hNaFpTeTRfMlBYODNBOTFCQUl1TkZmQU1ScWpHSWdfTVdPblJUZkdDV0ZJamh1VGFqMWUxUDh6cDY1dDdfSHpadF9PZldxZ211UGlrVWNjYlF1RG9UZUpvck9idGxTd3RSR0R4b05peFc5RkwtZHRWSGhWdw?oc=5",
+        "publishedAt": "2026-09-17T18:28:21.000Z"
+      },
+      {
+        "time": "15:14",
+        "title": "株式会社ミロクリエ、モノづくりフェア2026で新オプション「ミロクルAIメーター読み取り」を初公開",
+        "source": "ニュースメディアVOIX",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xc3pEQ0p1R2NZbTVUc2prU0JGMi1OSmRnX1diU1p0WWRLWUVjYWlNaEhTcUxGRVB4blNzNXpvV0hfVkt6LUxtQU1sOEZ5bTBINWJvMWFicDFXME9tQ3NDMjRIM3doV2dMU1JFVHBjb1JLZw?oc=5",
+        "publishedAt": "2026-09-17T06:14:50.000Z"
       }
     ],
     "worldHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-09-17T02:24:01.000Z"
       },
       {
-        "time": "13:57",
-        "title": "東京・北区で2人刺される 逮捕",
+        "time": "06:37",
+        "title": "東京都 ポイ捨て禁止条例を検討",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595580?source=rss",
-        "publishedAt": "2026-09-17T04:57:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595644?source=rss",
+        "publishedAt": "2026-09-17T21:37:39.000Z"
       }
     ],
     "subsidyHeadlines": [
