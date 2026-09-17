@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T23:14:01.717Z",
+  "updatedAt": "2026-09-17T23:37:27.416Z",
   "items": [
     {
       "time": "08:00",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "九州新幹線 52日ぶり全線運転"
     },
     {
+      "time": "08:08",
+      "title": "台風25号 接近前から大雨の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595654?source=rss",
+      "publishedAt": "2026-09-17T23:08:38.000Z",
+      "xQuery": "台風25号 接近前から大雨の恐れ"
+    },
+    {
+      "time": "08:20",
+      "title": "ケーキ店死傷 店主らと口論か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595657?source=rss",
+      "publishedAt": "2026-09-17T23:20:35.000Z",
+      "xQuery": "ケーキ店死傷 店主らと口論か"
+    },
+    {
       "time": "06:59",
       "title": "日産 新型スカイライン12月発表へ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595646?source=rss",
       "publishedAt": "2026-09-17T21:59:43.000Z",
       "xQuery": "日産 新型スカイライン12月発表へ"
-    },
-    {
-      "time": "07:47",
-      "title": "目を疑った 練馬区にキツネの姿",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595652?source=rss",
-      "publishedAt": "2026-09-17T22:47:49.000Z",
-      "xQuery": "目を疑った 練馬区にキツネの姿"
-    },
-    {
-      "time": "07:25",
-      "title": "カビが一斉に繁殖 雨続く秋に注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595648?source=rss",
-      "publishedAt": "2026-09-17T22:25:10.000Z",
-      "xQuery": "カビが一斉に繁殖 雨続く秋に注意"
     }
   ]
 };
