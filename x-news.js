@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T11:38:11.653Z",
+  "updatedAt": "2026-09-17T12:27:11.833Z",
   "items": [
     {
       "time": "19:14",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595618?source=rss",
       "publishedAt": "2026-09-17T10:14:50.000Z",
       "xQuery": "内閣改造 高市首相「実行力重視」"
-    },
-    {
-      "time": "19:55",
-      "title": "インフルエンザ 注意報を都が発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595622?source=rss",
-      "publishedAt": "2026-09-17T10:55:51.000Z",
-      "xQuery": "インフルエンザ 注意報を都が発表"
     },
     {
       "time": "18:33",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595627?source=rss",
       "publishedAt": "2026-09-17T11:30:19.000Z",
       "xQuery": "店で従業員刺され死亡 元夫を逮捕"
+    },
+    {
+      "time": "19:55",
+      "title": "インフルエンザ 注意報を都が発表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595622?source=rss",
+      "publishedAt": "2026-09-17T10:55:51.000Z",
+      "xQuery": "インフルエンザ 注意報を都が発表"
     },
     {
       "time": "19:38",
