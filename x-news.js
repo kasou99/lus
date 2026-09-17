@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T09:20:28.927Z",
+  "updatedAt": "2026-09-17T09:41:49.961Z",
   "items": [
     {
-      "time": "16:56",
-      "title": "内閣支持44%で過去最低更新 時事",
+      "time": "18:26",
+      "title": "中継 内閣改造巡り高市首相が会見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595598?source=rss",
-      "publishedAt": "2026-09-17T07:56:54.000Z",
-      "xQuery": "内閣支持44%で過去最低更新 時事"
+      "url": "https://news.yahoo.co.jp/pickup/6595600?source=rss",
+      "publishedAt": "2026-09-17T09:26:36.000Z",
+      "xQuery": "中継 内閣改造巡り高市首相が会見"
     },
     {
       "time": "15:23",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スーパー従業員刺され死亡 男逮捕"
     },
     {
-      "time": "17:13",
-      "title": "島根県沖 北朝鮮の船沈没4人不明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595602?source=rss",
-      "publishedAt": "2026-09-17T08:13:06.000Z",
-      "xQuery": "島根県沖 北朝鮮の船沈没4人不明"
-    },
-    {
       "time": "16:05",
       "title": "水戸女性殺害 動機は「リセット」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595591?source=rss",
       "publishedAt": "2026-09-17T07:05:01.000Z",
       "xQuery": "水戸女性殺害 動機は「リセット」"
+    },
+    {
+      "time": "16:53",
+      "title": "サンマルクHDがつるとんたん買収",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595599?source=rss",
+      "publishedAt": "2026-09-17T07:53:26.000Z",
+      "xQuery": "サンマルクHDがつるとんたん買収"
     }
   ]
 };
