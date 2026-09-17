@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T11:16:33.117Z",
+  "updatedAt": "2026-09-17T11:38:10.742Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -34,7 +34,7 @@
         "time": "10:00",
         "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wM1NVMzVWQjR3czZwRmFrOHB5U2pPMFctbkZXMzJ1LVFPTHV5QzFpVjhiLWhXQWQzMnF6ZURtX3RKY3NDX2U5aGRWQWVBeXU4Rms3cHVwbkNhTWFkMENzWTFPTi02eWNNR2JmRnU5cU9tZXJMZG9KcElSWQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YMHplc2JlVzFtVHRucnhwSkRhbUJUWHhGWVd2NU5vOTRiLWRQdk43YUpYN1FObWlhcTdkM1hJcFJnWjNoM3Mxb2s2TG1qME5UWXJfbmZ1YnFlSEhaRkpXNTlMYUh1TGlCWGVDVDNLWVdnSkQyWWc?oc=5",
         "publishedAt": "2026-09-17T01:00:26.000Z"
       },
       {
@@ -68,13 +68,6 @@
         "publishedAt": "2026-09-16T23:36:45.000Z"
       },
       {
-        "time": "16:07",
-        "title": "強制連行遺族 日本6社に賠償請求",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595496?source=rss",
-        "publishedAt": "2026-09-16T07:07:05.000Z"
-      },
-      {
         "time": "08:48",
         "title": "ガザで損壊建物が倒壊 20人超死亡",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595522?source=rss",
         "publishedAt": "2026-09-16T12:51:44.000Z"
+      },
+      {
+        "time": "19:16",
+        "title": "北朝鮮体育相が来日 閣僚8年ぶり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595616?source=rss",
+        "publishedAt": "2026-09-17T10:16:35.000Z"
       }
     ],
     "economyHeadlines": [
@@ -117,6 +117,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595589?source=rss",
         "publishedAt": "2026-09-17T06:23:21.000Z"
+      },
+      {
+        "time": "20:26",
+        "title": "SBI 「因縁」超えライブドア買収",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595625?source=rss",
+        "publishedAt": "2026-09-17T11:26:35.000Z"
       },
       {
         "time": "18:54",
@@ -138,22 +145,15 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595619?source=rss",
         "publishedAt": "2026-09-17T10:38:03.000Z"
-      },
-      {
-        "time": "00:05",
-        "title": "呪術廻戦コラボ巡り不正 牛角謝罪",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595532?source=rss",
-        "publishedAt": "2026-09-16T15:05:57.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "18:06",
-        "title": "スーパー従業員刺され死亡 男逮捕",
+        "time": "20:30",
+        "title": "店で従業員刺され死亡 元夫を逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595607?source=rss",
-        "publishedAt": "2026-09-17T09:06:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595627?source=rss",
+        "publishedAt": "2026-09-17T11:30:19.000Z"
       },
       {
         "time": "16:05",

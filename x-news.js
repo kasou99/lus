@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T11:16:33.786Z",
+  "updatedAt": "2026-09-17T11:38:11.653Z",
   "items": [
     {
       "time": "19:14",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "細野豪志氏「宿命」 復興相に就任"
     },
     {
-      "time": "18:06",
-      "title": "スーパー従業員刺され死亡 男逮捕",
+      "time": "20:30",
+      "title": "店で従業員刺され死亡 元夫を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595607?source=rss",
-      "publishedAt": "2026-09-17T09:06:56.000Z",
-      "xQuery": "スーパー従業員刺され死亡 男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6595627?source=rss",
+      "publishedAt": "2026-09-17T11:30:19.000Z",
+      "xQuery": "店で従業員刺され死亡 元夫を逮捕"
     },
     {
       "time": "19:38",
