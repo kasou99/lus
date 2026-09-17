@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T00:48:43.629Z",
+  "updatedAt": "2026-09-17T01:28:47.698Z",
   "items": [
     {
       "time": "07:47",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 FRBに迅速利下げ要求"
     },
     {
-      "time": "08:52",
-      "title": "「AI著作物」巡り裁判 識者が警鐘",
+      "time": "09:56",
+      "title": "「高市流」人事 党内から不満の声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595548?source=rss",
-      "publishedAt": "2026-09-16T23:52:32.000Z",
-      "xQuery": "「AI著作物」巡り裁判 識者が警鐘"
+      "url": "https://news.yahoo.co.jp/pickup/6595556?source=rss",
+      "publishedAt": "2026-09-17T00:56:03.000Z",
+      "xQuery": "「高市流」人事 党内から不満の声"
     },
     {
-      "time": "07:24",
-      "title": "酒離れ進む韓国 日本酒ブームの訳",
+      "time": "09:55",
+      "title": "元店長自死 遺族がかっぱ寿司提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595540?source=rss",
-      "publishedAt": "2026-09-16T22:24:17.000Z",
-      "xQuery": "酒離れ進む韓国 日本酒ブームの訳"
+      "url": "https://news.yahoo.co.jp/pickup/6595557?source=rss",
+      "publishedAt": "2026-09-17T00:55:02.000Z",
+      "xQuery": "元店長自死 遺族がかっぱ寿司提訴"
     }
   ]
 };

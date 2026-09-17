@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T00:48:42.222Z",
+  "updatedAt": "2026-09-17T01:28:47.013Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,13 +17,6 @@
         "publishedAt": "2026-09-16T10:32:00.000Z"
       },
       {
-        "time": "08:00",
-        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81VE9iZUd1b1UtWHVrU01yVm5hRHVTNThBWjlibHBHNXJQTzdrcDlCYUFnUDJocTBuQ21mdG5sYnV4NW1OOExjNy1zckhINFMxemlwd3VOSVBKQVpYVVdVSGZueWtjVUxZcXc?oc=5",
-        "publishedAt": "2026-09-16T23:00:01.000Z"
-      },
-      {
         "time": "05:00",
         "title": "電気工事業の セイクン 本社工場を建て替え 制御盤の生産能力３倍へ メッセナゴヤ２０２６",
         "source": "中部経済新聞",
@@ -31,11 +24,11 @@
         "publishedAt": "2026-09-16T20:00:00.000Z"
       },
       {
-        "time": "09:33",
-        "title": "人が足りない工場はどう変わる？ ファナック・JFEスチールら20社が登壇し、AI・自動化を語る",
+        "time": "10:00",
+        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13REV6WXFMSnplWjJYaTFIU19PcDJncUM1Ukxock11SnJrS2E1NjdTVnJoOHg4VG1OdGdfVHhNV2dBYkN4QXhBWVJ6NGNpR2NFQTE4NDQ3RzlMVElPNWlqcFpfSEVKNkJCZkRiVWRLaUs1c09Zeko2TlJ2OA?oc=5",
-        "publishedAt": "2026-09-17T00:33:18.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wM1NVMzVWQjR3czZwRmFrOHB5U2pPMFctbkZXMzJ1LVFPTHV5QzFpVjhiLWhXQWQzMnF6ZURtX3RKY3NDX2U5aGRWQWVBeXU4Rms3cHVwbkNhTWFkMENzWTFPTi02eWNNR2JmRnU5cU9tZXJMZG9KcElSWQ?oc=5",
+        "publishedAt": "2026-09-17T01:00:26.000Z"
       },
       {
         "time": "05:00",
@@ -57,6 +50,13 @@
         "source": "LOGISTICS TODAY",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ueUt6b1o2d2h5SmYwQl9pUWpVYUs2X1NJRnFaVkI0WlpHR29pcFdXTVpQa1hZX2lWc3NRdjluZTNYRkVZUHBIbE1R?oc=5",
         "publishedAt": "2026-09-16T06:44:49.000Z"
+      },
+      {
+        "time": "18:06",
+        "title": "【10/15開催】\"危険\" \"異変\" を見逃さない！製造現場のDXを加速するAI活用ウェビナー設備の異常予兆検知から外観検査・欠陥検出まで ～映像データ・センサーデータの活用/導入事例をご紹介",
+        "source": "ASCII.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GbGdpcGtYclYyaHN1cW9XX0JfS0MzUlFYYjhBdjJzT09rNXphQ0JIcEMwWU5DbzFuV2JmNnVFdWUtSU5BRkMzUjM4bG9EVTVMQUdHZw?oc=5",
+        "publishedAt": "2026-09-16T09:06:18.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "09:55",
+        "title": "元店長自死 遺族がかっぱ寿司提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595557?source=rss",
+        "publishedAt": "2026-09-17T00:55:02.000Z"
+      },
+      {
         "time": "18:33",
         "title": "辺野古転覆 運航団体が謝罪声明",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595509?source=rss",
         "publishedAt": "2026-09-16T09:25:26.000Z"
-      },
-      {
-        "time": "20:18",
-        "title": "大阪の学校でスプレー噴射相次ぐ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595517?source=rss",
-        "publishedAt": "2026-09-16T11:18:19.000Z"
       },
       {
         "time": "23:09",
