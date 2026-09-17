@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T12:49:01.962Z",
+  "updatedAt": "2026-09-17T13:17:39.986Z",
   "items": [
     {
-      "time": "19:14",
-      "title": "内閣改造 高市首相「実行力重視」",
+      "time": "22:03",
+      "title": "高市首相の閣僚指示書 全容が判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595618?source=rss",
-      "publishedAt": "2026-09-17T10:14:50.000Z",
-      "xQuery": "内閣改造 高市首相「実行力重視」"
+      "url": "https://news.yahoo.co.jp/pickup/6595632?source=rss",
+      "publishedAt": "2026-09-17T13:03:09.000Z",
+      "xQuery": "高市首相の閣僚指示書 全容が判明"
     },
     {
       "time": "18:33",
