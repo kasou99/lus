@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T04:20:31.167Z",
+  "updatedAt": "2026-09-18T04:42:11.500Z",
   "items": [
     {
       "time": "12:03",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "台風が関東接近へ 道路冠水の恐れ"
     },
     {
-      "time": "09:54",
-      "title": "ヘンリー王子 帰国後初の公の場",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595667?source=rss",
-      "publishedAt": "2026-09-18T00:54:19.000Z",
-      "xQuery": "ヘンリー王子 帰国後初の公の場"
-    },
-    {
       "time": "12:37",
       "title": "転落死 会社の回答書に遺族落胆",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595676?source=rss",
       "publishedAt": "2026-09-18T02:42:49.000Z",
       "xQuery": "大阪駅前の突起物 フェンス設置へ"
+    },
+    {
+      "time": "13:26",
+      "title": "老舗菓子店にも倒産の波 背景は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595686?source=rss",
+      "publishedAt": "2026-09-18T04:26:25.000Z",
+      "xQuery": "老舗菓子店にも倒産の波 背景は"
     }
   ]
 };

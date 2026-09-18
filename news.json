@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T04:20:29.957Z",
+  "updatedAt": "2026-09-18T04:42:10.604Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-09-17T06:14:50.000Z"
       },
       {
-        "time": "16:42",
-        "title": "2026年9月17日 深層断面 ニュース",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zR0pIMWpRb3lLdEhhZHVqNlpiWXcwQmRGNUNvWDZXckxlZEd2cUNLUEZtemw5NENWYU53VlJsZF9UTGhkenJ3Q1V4WV9ENEFzOGVPbw?oc=5",
-        "publishedAt": "2026-09-17T07:42:17.000Z"
+        "time": "09:18",
+        "title": "製造業の採用を、AI・RPAで変える。Sei San Sei、製造業特化型AI採用代行サービス「RPaaS」を本格展開",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sSjNWV2Y5VlJ1Q0w4NjF0LUFiU3NYb3VtV3FPUUpqOEhkMXBXbGhHMTdxRjhfcWxpYUtjNnFqakF4cmh6d00tX1NTcHNIbW9ydUVkUkktbTdnTVJ5akpPVkFOV1BDOTJHdDVCWUhKaVRVT2UxMDIyUHlSQQ?oc=5",
+        "publishedAt": "2026-09-18T00:18:33.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,6 +112,13 @@
         "publishedAt": "2026-09-18T03:03:28.000Z"
       },
       {
+        "time": "06:48",
+        "title": "九州新幹線 52日ぶり全線運転",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595645?source=rss",
+        "publishedAt": "2026-09-17T21:48:34.000Z"
+      },
+      {
         "time": "20:26",
         "title": "SBI 「因縁」超えライブドア買収",
         "source": "Yahoo!ニュース",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595615?source=rss",
         "publishedAt": "2026-09-17T09:54:23.000Z"
-      },
-      {
-        "time": "09:27",
-        "title": "ポプラ社 インドに現地法人設立へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595664?source=rss",
-        "publishedAt": "2026-09-18T00:27:41.000Z"
       },
       {
         "time": "19:38",
