@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-17T23:37:27.416Z",
+  "updatedAt": "2026-09-18T00:48:29.289Z",
   "items": [
     {
       "time": "08:00",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595651?source=rss",
       "publishedAt": "2026-09-17T23:00:45.000Z",
       "xQuery": "改造内閣 非主流派結集のリスクも"
-    },
-    {
-      "time": "06:48",
-      "title": "九州新幹線 52日ぶり全線運転",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595645?source=rss",
-      "publishedAt": "2026-09-17T21:48:34.000Z",
-      "xQuery": "九州新幹線 52日ぶり全線運転"
     },
     {
       "time": "08:08",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店死傷 店主らと口論か"
     },
     {
-      "time": "06:59",
-      "title": "日産 新型スカイライン12月発表へ",
+      "time": "09:27",
+      "title": "ポプラ社 インドに現地法人設立へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595646?source=rss",
-      "publishedAt": "2026-09-17T21:59:43.000Z",
-      "xQuery": "日産 新型スカイライン12月発表へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595664?source=rss",
+      "publishedAt": "2026-09-18T00:27:41.000Z",
+      "xQuery": "ポプラ社 インドに現地法人設立へ"
+    },
+    {
+      "time": "07:47",
+      "title": "目を疑った 練馬区にキツネの姿",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595652?source=rss",
+      "publishedAt": "2026-09-17T22:47:49.000Z",
+      "xQuery": "目を疑った 練馬区にキツネの姿"
     }
   ]
 };
