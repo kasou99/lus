@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T23:15:27.519Z",
+  "updatedAt": "2026-09-18T23:36:36.292Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-09-18T19:00:16.000Z"
       },
       {
+        "time": "11:30",
+        "title": "かわでん(6648) 27/3期1Qは営業減益も通期増益の期初計画を据え置き",
+        "source": "moneyworld.jp",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsNWN4MkpoclBjYXdBenVUU19MTDBVVDFuYTByMC03MXJtd1lTX1RMZEFpRjRvTWFSRHVTczg3LVRoME5uREU1eUZpOEZWUzZtcElqUFJB?oc=5",
+        "publishedAt": "2026-09-18T02:30:00.000Z"
+      },
+      {
         "time": "19:20",
         "title": "ロシアのSu-34、Su-35、Su-57戦闘機はすべて、一つの弱点を抱えている。",
         "source": "Vietnam.vn",
@@ -36,13 +43,6 @@
         "source": "valuepress",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OZXJXbzlVaEJBMXdNZXpSdFJwLVJSMGlrYld1U3g4U1dKcGZaWC02M01kUlItNjlXUU1jWEdERTQ2a0ZZcHBZRktlQkFOUU4xdExFdHNFSWZLUWM?oc=5",
         "publishedAt": "2026-09-18T01:00:00.000Z"
-      },
-      {
-        "time": "08:22",
-        "title": "美浜原発３号機、また運転停止＝今度は配管水漏れ―関電",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NTUU2N2NkOVdRME5QaUtlZ2xQSnB6SjdHSGh1U1FxWnJTRlNRc0FuZmhhRlA1bE1CNENZTHRuQ0hKT2djM3BJNklianBMTmozMEdrRkMyMnl5eHZQTmtueVpsVktRaDRGbmJ0ejc5YVlEbWxtSDR6UjB6QWNPUUXSAX9BVV95cUxOTU1FNjdjZDlXUTBOUGlLZWdsUEpweko3R0hodVNRcVpyU0ZTUXNBbmZoYUZQNWxNQjRDWUx0bkNISk9nYzNwSTZJYmpwTE5qMzBHa0ZDMjJ5eXh2UE5rbnlabFZLUWg0Rm5idHo3OWFZRG1sbUg0elIwekFjT1FF?oc=5",
-        "publishedAt": "2026-09-17T23:22:00.000Z"
       },
       {
         "time": "15:11",
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595766?source=rss",
         "publishedAt": "2026-09-18T23:10:01.000Z"
+      },
+      {
+        "time": "08:30",
+        "title": "米 グリーンランド安保で「合意」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595770?source=rss",
+        "publishedAt": "2026-09-18T23:30:16.000Z"
       },
       {
         "time": "07:37",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595727?source=rss",
         "publishedAt": "2026-09-18T09:51:26.000Z"
-      },
-      {
-        "time": "11:25",
-        "title": "中国 8月の若者失業率は最悪水準",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595675?source=rss",
-        "publishedAt": "2026-09-18T02:25:32.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:33",
+        "title": "異例 副課長級の元職員が副市長に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595771?source=rss",
+        "publishedAt": "2026-09-18T23:33:12.000Z"
+      },
+      {
         "time": "07:19",
         "title": "こども園で複数園児に虐待 新潟市",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595737?source=rss",
         "publishedAt": "2026-09-18T12:10:16.000Z"
-      },
-      {
-        "time": "18:13",
-        "title": "ヘルメットさせず子死亡 親の後悔",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595723?source=rss",
-        "publishedAt": "2026-09-18T09:13:50.000Z"
       }
     ],
     "subsidyHeadlines": [

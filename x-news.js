@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T23:15:29.943Z",
+  "updatedAt": "2026-09-18T23:36:36.879Z",
   "items": [
     {
       "time": "07:13",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 21日夕方〜夜に関東最接近か"
     },
     {
-      "time": "07:36",
-      "title": "皇室の養子縁組 成立時の儀式検討",
+      "time": "08:30",
+      "title": "米 グリーンランド安保で「合意」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595761?source=rss",
-      "publishedAt": "2026-09-18T22:36:30.000Z",
-      "xQuery": "皇室の養子縁組 成立時の儀式検討"
+      "url": "https://news.yahoo.co.jp/pickup/6595770?source=rss",
+      "publishedAt": "2026-09-18T23:30:16.000Z",
+      "xQuery": "米 グリーンランド安保で「合意」"
     },
     {
       "time": "07:15",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "円急騰 政府日銀が円買い介入準備"
     },
     {
-      "time": "07:45",
-      "title": "住宅ローン 大手行・地銀に存在感",
+      "time": "07:37",
+      "title": "露下院選 帰還兵180人超が立候補",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595762?source=rss",
-      "publishedAt": "2026-09-18T22:45:54.000Z",
-      "xQuery": "住宅ローン 大手行・地銀に存在感"
+      "url": "https://news.yahoo.co.jp/pickup/6595760?source=rss",
+      "publishedAt": "2026-09-18T22:37:35.000Z",
+      "xQuery": "露下院選 帰還兵180人超が立候補"
     },
     {
-      "time": "07:58",
-      "title": "中国でタケノコ違法加工 当局押収",
+      "time": "07:24",
+      "title": "ダイアナ元妃の復讐ドレス 出品へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595764?source=rss",
-      "publishedAt": "2026-09-18T22:58:08.000Z",
-      "xQuery": "中国でタケノコ違法加工 当局押収"
+      "url": "https://news.yahoo.co.jp/pickup/6595758?source=rss",
+      "publishedAt": "2026-09-18T22:24:26.000Z",
+      "xQuery": "ダイアナ元妃の復讐ドレス 出品へ"
     }
   ]
 };
