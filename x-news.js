@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T14:39:29.142Z",
+  "updatedAt": "2026-09-18T15:16:48.315Z",
   "items": [
     {
-      "time": "22:29",
-      "title": "立憲系結集頓挫 泉氏ら入党見送り",
+      "time": "21:50",
+      "title": "コメ価格2年ぶり2000円台 懸念も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595746?source=rss",
-      "publishedAt": "2026-09-18T13:29:40.000Z",
-      "xQuery": "立憲系結集頓挫 泉氏ら入党見送り"
+      "url": "https://news.yahoo.co.jp/pickup/6595741?source=rss",
+      "publishedAt": "2026-09-18T12:50:41.000Z",
+      "xQuery": "コメ価格2年ぶり2000円台 懸念も"
     },
     {
       "time": "22:43",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "日販 Anthropicに書籍大量販売か"
     },
     {
-      "time": "15:37",
-      "title": "ジャガイモ輸入解禁加速を 米要請",
+      "time": "22:53",
+      "title": "中道への交付金「納得」11% 読売",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595701?source=rss",
-      "publishedAt": "2026-09-18T06:37:04.000Z",
-      "xQuery": "ジャガイモ輸入解禁加速を 米要請"
+      "url": "https://news.yahoo.co.jp/pickup/6595749?source=rss",
+      "publishedAt": "2026-09-18T13:53:11.000Z",
+      "xQuery": "中道への交付金「納得」11% 読売"
     },
     {
-      "time": "18:13",
-      "title": "ヘルメットさせず子死亡 親の後悔",
+      "time": "23:43",
+      "title": "新米1トンパックの下敷きに 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595723?source=rss",
-      "publishedAt": "2026-09-18T09:13:50.000Z",
-      "xQuery": "ヘルメットさせず子死亡 親の後悔"
+      "url": "https://news.yahoo.co.jp/pickup/6595753?source=rss",
+      "publishedAt": "2026-09-18T14:43:06.000Z",
+      "xQuery": "新米1トンパックの下敷きに 死亡"
     },
     {
-      "time": "18:00",
-      "title": "今年は暖冬予想 エルニーニョ続く",
+      "time": "21:10",
+      "title": "交番で夫殺され 崩れた幸せな日々",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595720?source=rss",
-      "publishedAt": "2026-09-18T09:00:23.000Z",
-      "xQuery": "今年は暖冬予想 エルニーニョ続く"
+      "url": "https://news.yahoo.co.jp/pickup/6595737?source=rss",
+      "publishedAt": "2026-09-18T12:10:16.000Z",
+      "xQuery": "交番で夫殺され 崩れた幸せな日々"
     }
   ]
 };
