@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T08:23:51.886Z",
+  "updatedAt": "2026-09-18T08:43:41.080Z",
   "items": [
     {
       "time": "15:09",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595699?source=rss",
       "publishedAt": "2026-09-18T06:09:27.000Z",
       "xQuery": "台風 関東は20-21日大雨など恐れ"
+    },
+    {
+      "time": "17:22",
+      "title": "日銀総裁 会見で利上げペース言及",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595713?source=rss",
+      "publishedAt": "2026-09-18T08:22:23.000Z",
+      "xQuery": "日銀総裁 会見で利上げペース言及"
     },
     {
       "time": "16:48",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595707?source=rss",
       "publishedAt": "2026-09-18T07:20:09.000Z",
       "xQuery": "核ごみ調査 常陸大宮市が判断保留"
-    },
-    {
-      "time": "14:42",
-      "title": "無人の車が園児に衝突 5人搬送",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595698?source=rss",
-      "publishedAt": "2026-09-18T05:42:06.000Z",
-      "xQuery": "無人の車が園児に衝突 5人搬送"
     }
   ]
 };
