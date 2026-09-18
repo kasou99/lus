@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T07:41:04.180Z",
+  "updatedAt": "2026-09-18T08:23:51.886Z",
   "items": [
     {
-      "time": "15:28",
-      "title": "中継・日銀総裁会見 利上げ決定",
+      "time": "15:09",
+      "title": "台風 関東は20-21日大雨など恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595700?source=rss",
-      "publishedAt": "2026-09-18T06:28:43.000Z",
-      "xQuery": "中継・日銀総裁会見 利上げ決定"
+      "url": "https://news.yahoo.co.jp/pickup/6595699?source=rss",
+      "publishedAt": "2026-09-18T06:09:27.000Z",
+      "xQuery": "台風 関東は20-21日大雨など恐れ"
     },
     {
-      "time": "14:08",
-      "title": "首相 米大統領と来週会談で調整",
+      "time": "16:48",
+      "title": "利上げ決定後 一時1ドル157円台",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595694?source=rss",
-      "publishedAt": "2026-09-18T05:08:16.000Z",
-      "xQuery": "首相 米大統領と来週会談で調整"
+      "url": "https://news.yahoo.co.jp/pickup/6595705?source=rss",
+      "publishedAt": "2026-09-18T07:48:52.000Z",
+      "xQuery": "利上げ決定後 一時1ドル157円台"
+    },
+    {
+      "time": "16:53",
+      "title": "副大臣に今井絵理子氏ら 名簿発表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595712?source=rss",
+      "publishedAt": "2026-09-18T07:53:50.000Z",
+      "xQuery": "副大臣に今井絵理子氏ら 名簿発表"
     },
     {
       "time": "16:20",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595707?source=rss",
       "publishedAt": "2026-09-18T07:20:09.000Z",
       "xQuery": "核ごみ調査 常陸大宮市が判断保留"
-    },
-    {
-      "time": "14:33",
-      "title": "23年の八重洲鉄骨落下 計算ミスか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595696?source=rss",
-      "publishedAt": "2026-09-18T05:33:27.000Z",
-      "xQuery": "23年の八重洲鉄骨落下 計算ミスか"
     },
     {
       "time": "14:42",
