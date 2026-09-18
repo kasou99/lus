@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T09:40:05.459Z",
+  "updatedAt": "2026-09-18T10:17:46.512Z",
   "items": [
     {
-      "time": "15:09",
-      "title": "台風 関東は20-21日大雨など恐れ",
+      "time": "18:58",
+      "title": "茨城・神栖市長 当選無効巡り上告",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595699?source=rss",
-      "publishedAt": "2026-09-18T06:09:27.000Z",
-      "xQuery": "台風 関東は20-21日大雨など恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6595726?source=rss",
+      "publishedAt": "2026-09-18T09:58:02.000Z",
+      "xQuery": "茨城・神栖市長 当選無効巡り上告"
+    },
+    {
+      "time": "16:36",
+      "title": "北サイバー攻撃 世界で17億円被害",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595710?source=rss",
+      "publishedAt": "2026-09-18T07:36:28.000Z",
+      "xQuery": "北サイバー攻撃 世界で17億円被害"
     },
     {
       "time": "17:22",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "副大臣に今井絵理子氏ら 名簿発表"
     },
     {
-      "time": "18:03",
-      "title": "クリアアサヒをビールに転換 発表",
+      "time": "18:13",
+      "title": "ヘルメットさせず子死亡 親の後悔",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595715?source=rss",
-      "publishedAt": "2026-09-18T09:03:47.000Z",
-      "xQuery": "クリアアサヒをビールに転換 発表"
-    },
-    {
-      "time": "16:47",
-      "title": "おかきの播磨屋本店 廃業の方針",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595709?source=rss",
-      "publishedAt": "2026-09-18T07:47:32.000Z",
-      "xQuery": "おかきの播磨屋本店 廃業の方針"
+      "url": "https://news.yahoo.co.jp/pickup/6595723?source=rss",
+      "publishedAt": "2026-09-18T09:13:50.000Z",
+      "xQuery": "ヘルメットさせず子死亡 親の後悔"
     }
   ]
 };
