@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T10:38:58.599Z",
+  "updatedAt": "2026-09-18T11:15:17.911Z",
   "items": [
     {
       "time": "18:58",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "茨城・神栖市長 当選無効巡り上告"
     },
     {
-      "time": "16:36",
-      "title": "北サイバー攻撃 世界で17億円被害",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595710?source=rss",
-      "publishedAt": "2026-09-18T07:36:28.000Z",
-      "xQuery": "北サイバー攻撃 世界で17億円被害"
-    },
-    {
       "time": "17:22",
       "title": "日銀総裁 会見で利上げペース言及",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595713?source=rss",
       "publishedAt": "2026-09-18T08:22:23.000Z",
       "xQuery": "日銀総裁 会見で利上げペース言及"
+    },
+    {
+      "time": "16:36",
+      "title": "北サイバー攻撃 世界で17億円被害",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595710?source=rss",
+      "publishedAt": "2026-09-18T07:36:28.000Z",
+      "xQuery": "北サイバー攻撃 世界で17億円被害"
     },
     {
       "time": "18:13",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ヘルメットさせず子死亡 親の後悔"
     },
     {
-      "time": "18:40",
-      "title": "南三陸の遺骨 震災前に火葬と判明",
+      "time": "19:13",
+      "title": "スタバ ラテなどの定番商品値上げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595724?source=rss",
-      "publishedAt": "2026-09-18T09:40:29.000Z",
-      "xQuery": "南三陸の遺骨 震災前に火葬と判明"
+      "url": "https://news.yahoo.co.jp/pickup/6595729?source=rss",
+      "publishedAt": "2026-09-18T10:13:27.000Z",
+      "xQuery": "スタバ ラテなどの定番商品値上げ"
     }
   ]
 };
