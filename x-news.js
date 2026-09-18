@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T22:36:48.842Z",
+  "updatedAt": "2026-09-18T23:15:29.943Z",
   "items": [
     {
       "time": "07:13",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 21日夕方〜夜に関東最接近か"
     },
     {
-      "time": "22:43",
-      "title": "日販 Anthropicに書籍大量販売か",
+      "time": "07:36",
+      "title": "皇室の養子縁組 成立時の儀式検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595748?source=rss",
-      "publishedAt": "2026-09-18T13:43:22.000Z",
-      "xQuery": "日販 Anthropicに書籍大量販売か"
+      "url": "https://news.yahoo.co.jp/pickup/6595761?source=rss",
+      "publishedAt": "2026-09-18T22:36:30.000Z",
+      "xQuery": "皇室の養子縁組 成立時の儀式検討"
     },
     {
       "time": "07:15",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "円急騰 政府日銀が円買い介入準備"
     },
     {
-      "time": "07:19",
-      "title": "こども園で複数園児に虐待 新潟市",
+      "time": "07:45",
+      "title": "住宅ローン 大手行・地銀に存在感",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595756?source=rss",
-      "publishedAt": "2026-09-18T22:19:43.000Z",
-      "xQuery": "こども園で複数園児に虐待 新潟市"
+      "url": "https://news.yahoo.co.jp/pickup/6595762?source=rss",
+      "publishedAt": "2026-09-18T22:45:54.000Z",
+      "xQuery": "住宅ローン 大手行・地銀に存在感"
     },
     {
-      "time": "07:31",
-      "title": "富士急 27年夏に新大型コースター",
+      "time": "07:58",
+      "title": "中国でタケノコ違法加工 当局押収",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595759?source=rss",
-      "publishedAt": "2026-09-18T22:31:23.000Z",
-      "xQuery": "富士急 27年夏に新大型コースター"
+      "url": "https://news.yahoo.co.jp/pickup/6595764?source=rss",
+      "publishedAt": "2026-09-18T22:58:08.000Z",
+      "xQuery": "中国でタケノコ違法加工 当局押収"
     }
   ]
 };
