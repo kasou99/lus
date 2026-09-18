@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T01:50:13.602Z",
+  "updatedAt": "2026-09-18T02:26:15.486Z",
   "items": [
     {
       "time": "10:37",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "英国王 AI企業幹部らに懸念示す"
     },
     {
-      "time": "10:26",
-      "title": "連休は気圧乱高下 めまいなど注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595670?source=rss",
-      "publishedAt": "2026-09-18T01:26:13.000Z",
-      "xQuery": "連休は気圧乱高下 めまいなど注意"
-    },
-    {
       "time": "08:20",
       "title": "ケーキ店死傷 店主らと口論か",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595669?source=rss",
       "publishedAt": "2026-09-18T01:08:59.000Z",
       "xQuery": "生活道路で死亡ひき逃げ疑い 逮捕"
+    },
+    {
+      "time": "11:00",
+      "title": "3億円宝くじが未換金 11月3日時効",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595673?source=rss",
+      "publishedAt": "2026-09-18T02:00:47.000Z",
+      "xQuery": "3億円宝くじが未換金 11月3日時効"
     }
   ]
 };
