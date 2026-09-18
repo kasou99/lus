@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T12:46:58.045Z",
+  "updatedAt": "2026-09-18T13:16:26.670Z",
   "items": [
     {
-      "time": "18:58",
-      "title": "茨城・神栖市長 当選無効巡り上告",
+      "time": "21:46",
+      "title": "台風 東海ｰ東北は大雨など警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595726?source=rss",
-      "publishedAt": "2026-09-18T09:58:02.000Z",
-      "xQuery": "茨城・神栖市長 当選無効巡り上告"
+      "url": "https://news.yahoo.co.jp/pickup/6595740?source=rss",
+      "publishedAt": "2026-09-18T12:46:32.000Z",
+      "xQuery": "台風 東海ｰ東北は大雨など警戒を"
     },
     {
       "time": "19:41",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「小さな森の家」CMで不当表示"
     },
     {
+      "time": "18:51",
+      "title": "女性の殺害相次ぐ南ア 9人目遺体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595727?source=rss",
+      "publishedAt": "2026-09-18T09:51:26.000Z",
+      "xQuery": "女性の殺害相次ぐ南ア 9人目遺体"
+    },
+    {
       "time": "21:10",
       "title": "交番で夫殺され 崩れた幸せな日々",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595737?source=rss",
       "publishedAt": "2026-09-18T12:10:16.000Z",
       "xQuery": "交番で夫殺され 崩れた幸せな日々"
-    },
-    {
-      "time": "19:47",
-      "title": "連休前にインフル流行拡大 注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595733?source=rss",
-      "publishedAt": "2026-09-18T10:47:58.000Z",
-      "xQuery": "連休前にインフル流行拡大 注意"
     }
   ]
 };
