@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T02:44:54.923Z",
+  "updatedAt": "2026-09-18T03:21:23.994Z",
   "items": [
     {
-      "time": "10:37",
-      "title": "米中接近を懸念 試される高市外交",
+      "time": "12:03",
+      "title": "日銀 政策金利を1.25%に引き上げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595672?source=rss",
-      "publishedAt": "2026-09-18T01:37:57.000Z",
-      "xQuery": "米中接近を懸念 試される高市外交"
+      "url": "https://news.yahoo.co.jp/pickup/6595682?source=rss",
+      "publishedAt": "2026-09-18T03:03:28.000Z",
+      "xQuery": "日銀 政策金利を1.25%に引き上げ"
     },
     {
       "time": "08:22",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "生活道路で死亡ひき逃げ疑い 逮捕"
     },
     {
-      "time": "11:25",
-      "title": "中国 8月の若者失業率は最悪水準",
+      "time": "11:42",
+      "title": "大阪駅前の突起物 フェンス設置へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595675?source=rss",
-      "publishedAt": "2026-09-18T02:25:32.000Z",
-      "xQuery": "中国 8月の若者失業率は最悪水準"
+      "url": "https://news.yahoo.co.jp/pickup/6595676?source=rss",
+      "publishedAt": "2026-09-18T02:42:49.000Z",
+      "xQuery": "大阪駅前の突起物 フェンス設置へ"
     },
     {
-      "time": "06:59",
-      "title": "日産 新型スカイライン12月発表へ",
+      "time": "11:00",
+      "title": "3億円宝くじが未換金 11月3日時効",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595646?source=rss",
-      "publishedAt": "2026-09-17T21:59:43.000Z",
-      "xQuery": "日産 新型スカイライン12月発表へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595673?source=rss",
+      "publishedAt": "2026-09-18T02:00:47.000Z",
+      "xQuery": "3億円宝くじが未換金 11月3日時効"
     }
   ]
 };

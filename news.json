@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T02:44:54.046Z",
+  "updatedAt": "2026-09-18T03:21:23.271Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "12:03",
+        "title": "日銀 政策金利を1.25%に引き上げ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595682?source=rss",
+        "publishedAt": "2026-09-18T03:03:28.000Z"
+      },
+      {
         "time": "06:48",
         "title": "九州新幹線 52日ぶり全線運転",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595664?source=rss",
         "publishedAt": "2026-09-18T00:27:41.000Z"
-      },
-      {
-        "time": "09:51",
-        "title": "東京ばな奈 35周年で工場取材解禁",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595668?source=rss",
-        "publishedAt": "2026-09-18T00:51:44.000Z"
       }
     ],
     "localHeadlines": [
