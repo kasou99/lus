@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T03:21:23.994Z",
+  "updatedAt": "2026-09-18T03:43:01.591Z",
   "items": [
     {
       "time": "12:03",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日銀 政策金利を1.25%に引き上げ"
     },
     {
-      "time": "08:22",
-      "title": "英国王 AI企業幹部らに懸念示す",
+      "time": "12:21",
+      "title": "台風が関東接近へ 道路冠水の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595656?source=rss",
-      "publishedAt": "2026-09-17T23:22:09.000Z",
-      "xQuery": "英国王 AI企業幹部らに懸念示す"
+      "url": "https://news.yahoo.co.jp/pickup/6595683?source=rss",
+      "publishedAt": "2026-09-18T03:21:39.000Z",
+      "xQuery": "台風が関東接近へ 道路冠水の恐れ"
+    },
+    {
+      "time": "11:21",
+      "title": "南アフリカ 正・副大統領が休養",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595674?source=rss",
+      "publishedAt": "2026-09-18T02:21:22.000Z",
+      "xQuery": "南アフリカ 正・副大統領が休養"
     },
     {
       "time": "10:08",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595676?source=rss",
       "publishedAt": "2026-09-18T02:42:49.000Z",
       "xQuery": "大阪駅前の突起物 フェンス設置へ"
-    },
-    {
-      "time": "11:00",
-      "title": "3億円宝くじが未換金 11月3日時効",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595673?source=rss",
-      "publishedAt": "2026-09-18T02:00:47.000Z",
-      "xQuery": "3億円宝くじが未換金 11月3日時効"
     }
   ]
 };
