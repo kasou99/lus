@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T11:15:17.911Z",
+  "updatedAt": "2026-09-18T11:37:17.186Z",
   "items": [
     {
       "time": "18:58",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595726?source=rss",
       "publishedAt": "2026-09-18T09:58:02.000Z",
       "xQuery": "茨城・神栖市長 当選無効巡り上告"
-    },
-    {
-      "time": "17:22",
-      "title": "日銀総裁 会見で利上げペース言及",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595713?source=rss",
-      "publishedAt": "2026-09-18T08:22:23.000Z",
-      "xQuery": "日銀総裁 会見で利上げペース言及"
     },
     {
       "time": "16:36",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595729?source=rss",
       "publishedAt": "2026-09-18T10:13:27.000Z",
       "xQuery": "スタバ ラテなどの定番商品値上げ"
+    },
+    {
+      "time": "19:19",
+      "title": "iPhone18Pro 修理代に最大15万円",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595730?source=rss",
+      "publishedAt": "2026-09-18T10:19:49.000Z",
+      "xQuery": "iPhone18Pro 修理代に最大15万円"
     }
   ]
 };
