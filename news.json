@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T11:37:16.399Z",
+  "updatedAt": "2026-09-18T12:25:37.414Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-09-17T22:36:44.000Z"
       },
       {
-        "time": "06:00",
-        "title": "基幹のものづくり 海外取材陣にＰＲ 浜松市",
-        "source": "静岡新聞DIGITAL",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CeEUxVVNjY0NaSEYxVzdfbXhwaVpqRU80VGZILTRUT1Rvc0RjMjd5NzU1WHVoakY2M0s5NjN0SXh6X2RrcnpENzVGTEtoUQ?oc=5",
-        "publishedAt": "2026-09-17T21:00:00.000Z"
+        "time": "04:00",
+        "title": "潤滑ユニット「NSK K1-L(TM)」を搭載したローラガイドの販売を開始",
+        "source": "news.nicovideo.jp",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96YklPS3Q4aDV4WTlRa1Q1Um9pUDhMWEFRam1qVnlDLUhPd2k3VlZEb1c3X2stWTdmYXFObXl4YzE4R0dkejZRdHdXbXIyR0tMUmlmWDQ5dWxwVFVleFBtRXJuRFRVODJtdEp1Zi1SZG9FRWlKUzFKN2VMMA?oc=5",
+        "publishedAt": "2026-09-17T19:00:34.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,18 +119,18 @@
         "publishedAt": "2026-09-18T07:48:52.000Z"
       },
       {
-        "time": "12:03",
-        "title": "日銀 政策金利を1.25%に引き上げ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595682?source=rss",
-        "publishedAt": "2026-09-18T03:03:28.000Z"
-      },
-      {
         "time": "19:41",
         "title": "日銀利上げ 金利との付き合い方は",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595732?source=rss",
         "publishedAt": "2026-09-18T10:41:42.000Z"
+      },
+      {
+        "time": "21:09",
+        "title": "「小さな森の家」CMで不当表示",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595736?source=rss",
+        "publishedAt": "2026-09-18T12:09:16.000Z"
       },
       {
         "time": "19:13",
@@ -163,11 +163,11 @@
         "publishedAt": "2026-09-17T23:20:35.000Z"
       },
       {
-        "time": "10:08",
-        "title": "生活道路で死亡ひき逃げ疑い 逮捕",
+        "time": "21:10",
+        "title": "交番で夫殺され 崩れた幸せな日々",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595669?source=rss",
-        "publishedAt": "2026-09-18T01:08:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595737?source=rss",
+        "publishedAt": "2026-09-18T12:10:16.000Z"
       },
       {
         "time": "18:13",

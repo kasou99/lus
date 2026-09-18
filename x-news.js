@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T11:37:17.186Z",
+  "updatedAt": "2026-09-18T12:25:38.356Z",
   "items": [
     {
       "time": "18:58",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "茨城・神栖市長 当選無効巡り上告"
     },
     {
-      "time": "16:36",
-      "title": "北サイバー攻撃 世界で17億円被害",
+      "time": "19:41",
+      "title": "日銀利上げ 金利との付き合い方は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595710?source=rss",
-      "publishedAt": "2026-09-18T07:36:28.000Z",
-      "xQuery": "北サイバー攻撃 世界で17億円被害"
+      "url": "https://news.yahoo.co.jp/pickup/6595732?source=rss",
+      "publishedAt": "2026-09-18T10:41:42.000Z",
+      "xQuery": "日銀利上げ 金利との付き合い方は"
+    },
+    {
+      "time": "21:09",
+      "title": "「小さな森の家」CMで不当表示",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595736?source=rss",
+      "publishedAt": "2026-09-18T12:09:16.000Z",
+      "xQuery": "「小さな森の家」CMで不当表示"
     },
     {
       "time": "18:13",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ヘルメットさせず子死亡 親の後悔"
     },
     {
-      "time": "19:13",
-      "title": "スタバ ラテなどの定番商品値上げ",
+      "time": "19:47",
+      "title": "連休前にインフル流行拡大 注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595729?source=rss",
-      "publishedAt": "2026-09-18T10:13:27.000Z",
-      "xQuery": "スタバ ラテなどの定番商品値上げ"
-    },
-    {
-      "time": "19:19",
-      "title": "iPhone18Pro 修理代に最大15万円",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595730?source=rss",
-      "publishedAt": "2026-09-18T10:19:49.000Z",
-      "xQuery": "iPhone18Pro 修理代に最大15万円"
+      "url": "https://news.yahoo.co.jp/pickup/6595733?source=rss",
+      "publishedAt": "2026-09-18T10:47:58.000Z",
+      "xQuery": "連休前にインフル流行拡大 注意"
     }
   ]
 };
