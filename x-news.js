@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T04:42:11.500Z",
+  "updatedAt": "2026-09-18T05:17:21.134Z",
   "items": [
     {
-      "time": "12:03",
-      "title": "日銀 政策金利を1.25%に引き上げ",
+      "time": "14:08",
+      "title": "首相 米大統領と来週会談で調整",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595682?source=rss",
-      "publishedAt": "2026-09-18T03:03:28.000Z",
-      "xQuery": "日銀 政策金利を1.25%に引き上げ"
+      "url": "https://news.yahoo.co.jp/pickup/6595694?source=rss",
+      "publishedAt": "2026-09-18T05:08:16.000Z",
+      "xQuery": "首相 米大統領と来週会談で調整"
     },
     {
       "time": "12:21",

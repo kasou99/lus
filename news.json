@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-18T04:42:10.604Z",
+  "updatedAt": "2026-09-18T05:17:20.195Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "13:43",
-        "title": "「JIMTOF2026（第33回 日本国際工作機械見本市）」に出展",
-        "source": "Sumitomo Electric",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13NHZHQkZtbFZhN0ZFVlN4VFkyeUFLa0pFc2JiSlBWNjc2ZXNpdmwzbGJVQTM1QXdReXRibVUyd2luT3VnamYzT1VOb1N6UVIxMGg4SlM5MDM1cjkydTN4VG53?oc=5",
-        "publishedAt": "2026-09-17T04:43:29.000Z"
+        "time": "11:03",
+        "title": "鈴木一之の市場交差点 ― 経済と社会、変化が交わる地点から考える 「工作機械受注の拡大」",
+        "source": "三菱UFJ eスマート証券",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjSElEV1N2NDVtLXJuOE5KM0tjaHBYb0gyVmpqa3B4eVQzQXlfb0ZMUFppMXZLeHF4bFI5MW95dkpfVlJHOFdIS1JZdml1VU1QS3k2dg?oc=5",
+        "publishedAt": "2026-09-18T02:03:31.000Z"
       },
       {
         "time": "05:00",
@@ -22,6 +22,13 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81NnR4c3VHN3p3Z0N2Z1VJODllRlR0TWJ2OUhFa19UZGNUd2JYNndHNmFDRGVUOGdnVl80ekRkeFdmWmtmb3AxU3F5akdHbkprT3BSOFRWRHFMTDgybHk0SVhGbTJNM200VURfeUE0bURaQTI0?oc=5",
         "publishedAt": "2026-09-17T18:06:00.000Z"
+      },
+      {
+        "time": "07:36",
+        "title": "ヒーハイスト、２７年３月期は大幅増収・黒字転換・復配予想、直動機器の需要回復が牽引、ヒューマノイドロボット関連も注目 - kabu-ir.com",
+        "source": "kabu-ir.com",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zcTkwMnRRTUdNUjhORkdTLVBCdE45MlU0ZE1MNG5qNUkyTDdIVEl5WHVDZUxkNDVseWRBMm5Ocld0SGl2SFBOUS1QeEJZenJDb1V0bg?oc=5",
+        "publishedAt": "2026-09-17T22:36:44.000Z"
       },
       {
         "time": "04:00",
@@ -50,13 +57,6 @@
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xc3pEQ0p1R2NZbTVUc2prU0JGMi1OSmRnX1diU1p0WWRLWUVjYWlNaEhTcUxGRVB4blNzNXpvV0hfVkt6LUxtQU1sOEZ5bTBINWJvMWFicDFXME9tQ3NDMjRIM3doV2dMU1JFVHBjb1JLZw?oc=5",
         "publishedAt": "2026-09-17T06:14:50.000Z"
-      },
-      {
-        "time": "09:18",
-        "title": "製造業の採用を、AI・RPAで変える。Sei San Sei、製造業特化型AI採用代行サービス「RPaaS」を本格展開",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sSjNWV2Y5VlJ1Q0w4NjF0LUFiU3NYb3VtV3FPUUpqOEhkMXBXbGhHMTdxRjhfcWxpYUtjNnFqakF4cmh6d00tX1NTcHNIbW9ydUVkUkktbTdnTVJ5akpPVkFOV1BDOTJHdDVCWUhKaVRVT2UxMDIyUHlSQQ?oc=5",
-        "publishedAt": "2026-09-18T00:18:33.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-09-17T21:48:34.000Z"
       },
       {
+        "time": "14:12",
+        "title": "ガソリン補助金が拡大 代償は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595695?source=rss",
+        "publishedAt": "2026-09-18T05:12:27.000Z"
+      },
+      {
         "time": "20:26",
         "title": "SBI 「因縁」超えライブドア買収",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595615?source=rss",
         "publishedAt": "2026-09-17T09:54:23.000Z"
-      },
-      {
-        "time": "19:38",
-        "title": "好調な「つるとんたん」なぜ売却",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595619?source=rss",
-        "publishedAt": "2026-09-17T10:38:03.000Z"
       }
     ],
     "localHeadlines": [
