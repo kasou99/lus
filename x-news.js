@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T21:36:44.545Z",
+  "updatedAt": "2026-09-18T22:15:37.680Z",
   "items": [
+    {
+      "time": "07:13",
+      "title": "台風 21日夕方〜夜に関東最接近か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595755?source=rss",
+      "publishedAt": "2026-09-18T22:13:30.000Z",
+      "xQuery": "台風 21日夕方〜夜に関東最接近か"
+    },
     {
       "time": "21:50",
       "title": "コメ価格2年ぶり2000円台 懸念も",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595748?source=rss",
       "publishedAt": "2026-09-18T13:43:22.000Z",
       "xQuery": "日販 Anthropicに書籍大量販売か"
-    },
-    {
-      "time": "22:53",
-      "title": "中道への交付金「納得」11% 読売",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595749?source=rss",
-      "publishedAt": "2026-09-18T13:53:11.000Z",
-      "xQuery": "中道への交付金「納得」11% 読売"
     },
     {
       "time": "23:43",
