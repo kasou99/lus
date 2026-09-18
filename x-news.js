@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T13:16:26.670Z",
+  "updatedAt": "2026-09-18T13:38:15.585Z",
   "items": [
     {
       "time": "21:46",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日銀利上げ 金利との付き合い方は"
     },
     {
+      "time": "22:25",
+      "title": "プルデンシャル フルコミ制変更へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595747?source=rss",
+      "publishedAt": "2026-09-18T13:25:47.000Z",
+      "xQuery": "プルデンシャル フルコミ制変更へ"
+    },
+    {
       "time": "21:09",
       "title": "「小さな森の家」CMで不当表示",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595736?source=rss",
       "publishedAt": "2026-09-18T12:09:16.000Z",
       "xQuery": "「小さな森の家」CMで不当表示"
-    },
-    {
-      "time": "18:51",
-      "title": "女性の殺害相次ぐ南ア 9人目遺体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595727?source=rss",
-      "publishedAt": "2026-09-18T09:51:26.000Z",
-      "xQuery": "女性の殺害相次ぐ南ア 9人目遺体"
     },
     {
       "time": "21:10",
