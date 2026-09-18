@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T07:20:23.144Z",
+  "updatedAt": "2026-09-18T07:41:04.180Z",
   "items": [
     {
       "time": "15:28",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 米大統領と来週会談で調整"
     },
     {
-      "time": "14:12",
-      "title": "ガソリン補助金が拡大 代償は",
+      "time": "16:20",
+      "title": "核ごみ調査 常陸大宮市が判断保留",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595695?source=rss",
-      "publishedAt": "2026-09-18T05:12:27.000Z",
-      "xQuery": "ガソリン補助金が拡大 代償は"
+      "url": "https://news.yahoo.co.jp/pickup/6595707?source=rss",
+      "publishedAt": "2026-09-18T07:20:09.000Z",
+      "xQuery": "核ごみ調査 常陸大宮市が判断保留"
     },
     {
       "time": "14:33",
