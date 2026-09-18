@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T09:19:14.139Z",
+  "updatedAt": "2026-09-18T09:40:05.459Z",
   "items": [
     {
       "time": "15:09",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "日銀総裁 会見で利上げペース言及"
     },
     {
-      "time": "16:48",
-      "title": "利上げ決定後 一時1ドル157円台",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595705?source=rss",
-      "publishedAt": "2026-09-18T07:48:52.000Z",
-      "xQuery": "利上げ決定後 一時1ドル157円台"
-    },
-    {
       "time": "16:53",
       "title": "副大臣に今井絵理子氏ら 名簿発表",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "副大臣に今井絵理子氏ら 名簿発表"
     },
     {
-      "time": "17:52",
-      "title": "国立美術館6施設 入館料2～3倍に",
+      "time": "18:03",
+      "title": "クリアアサヒをビールに転換 発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595717?source=rss",
-      "publishedAt": "2026-09-18T08:52:36.000Z",
-      "xQuery": "国立美術館6施設 入館料2～3倍に"
+      "url": "https://news.yahoo.co.jp/pickup/6595715?source=rss",
+      "publishedAt": "2026-09-18T09:03:47.000Z",
+      "xQuery": "クリアアサヒをビールに転換 発表"
+    },
+    {
+      "time": "16:47",
+      "title": "おかきの播磨屋本店 廃業の方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595709?source=rss",
+      "publishedAt": "2026-09-18T07:47:32.000Z",
+      "xQuery": "おかきの播磨屋本店 廃業の方針"
     }
   ]
 };
