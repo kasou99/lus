@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T05:39:17.255Z",
+  "updatedAt": "2026-09-18T06:30:31.265Z",
   "items": [
     {
       "time": "14:08",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "23年の八重洲鉄骨落下 計算ミスか"
     },
     {
-      "time": "11:42",
-      "title": "大阪駅前の突起物 フェンス設置へ",
+      "time": "14:42",
+      "title": "無人の車が園児に衝突 5人搬送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595676?source=rss",
-      "publishedAt": "2026-09-18T02:42:49.000Z",
-      "xQuery": "大阪駅前の突起物 フェンス設置へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595698?source=rss",
+      "publishedAt": "2026-09-18T05:42:06.000Z",
+      "xQuery": "無人の車が園児に衝突 5人搬送"
     }
   ]
 };
