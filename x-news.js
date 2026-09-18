@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T22:15:37.680Z",
+  "updatedAt": "2026-09-18T22:36:48.842Z",
   "items": [
     {
       "time": "07:13",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 21日夕方〜夜に関東最接近か"
     },
     {
-      "time": "21:50",
-      "title": "コメ価格2年ぶり2000円台 懸念も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595741?source=rss",
-      "publishedAt": "2026-09-18T12:50:41.000Z",
-      "xQuery": "コメ価格2年ぶり2000円台 懸念も"
-    },
-    {
       "time": "22:43",
       "title": "日販 Anthropicに書籍大量販売か",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "日販 Anthropicに書籍大量販売か"
     },
     {
-      "time": "23:43",
-      "title": "新米1トンパックの下敷きに 死亡",
+      "time": "07:15",
+      "title": "円急騰 政府日銀が円買い介入準備",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595753?source=rss",
-      "publishedAt": "2026-09-18T14:43:06.000Z",
-      "xQuery": "新米1トンパックの下敷きに 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6595754?source=rss",
+      "publishedAt": "2026-09-18T22:15:45.000Z",
+      "xQuery": "円急騰 政府日銀が円買い介入準備"
     },
     {
-      "time": "21:10",
-      "title": "交番で夫殺され 崩れた幸せな日々",
+      "time": "07:19",
+      "title": "こども園で複数園児に虐待 新潟市",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595737?source=rss",
-      "publishedAt": "2026-09-18T12:10:16.000Z",
-      "xQuery": "交番で夫殺され 崩れた幸せな日々"
+      "url": "https://news.yahoo.co.jp/pickup/6595756?source=rss",
+      "publishedAt": "2026-09-18T22:19:43.000Z",
+      "xQuery": "こども園で複数園児に虐待 新潟市"
+    },
+    {
+      "time": "07:31",
+      "title": "富士急 27年夏に新大型コースター",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595759?source=rss",
+      "publishedAt": "2026-09-18T22:31:23.000Z",
+      "xQuery": "富士急 27年夏に新大型コースター"
     }
   ]
 };
