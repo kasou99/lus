@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T10:17:46.512Z",
+  "updatedAt": "2026-09-18T10:38:58.599Z",
   "items": [
     {
       "time": "18:58",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日銀総裁 会見で利上げペース言及"
     },
     {
-      "time": "16:53",
-      "title": "副大臣に今井絵理子氏ら 名簿発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595712?source=rss",
-      "publishedAt": "2026-09-18T07:53:50.000Z",
-      "xQuery": "副大臣に今井絵理子氏ら 名簿発表"
-    },
-    {
       "time": "18:13",
       "title": "ヘルメットさせず子死亡 親の後悔",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595723?source=rss",
       "publishedAt": "2026-09-18T09:13:50.000Z",
       "xQuery": "ヘルメットさせず子死亡 親の後悔"
+    },
+    {
+      "time": "18:40",
+      "title": "南三陸の遺骨 震災前に火葬と判明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595724?source=rss",
+      "publishedAt": "2026-09-18T09:40:29.000Z",
+      "xQuery": "南三陸の遺骨 震災前に火葬と判明"
     }
   ]
 };
