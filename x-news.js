@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T12:25:38.356Z",
+  "updatedAt": "2026-09-18T12:46:58.045Z",
   "items": [
     {
       "time": "18:58",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「小さな森の家」CMで不当表示"
     },
     {
-      "time": "18:13",
-      "title": "ヘルメットさせず子死亡 親の後悔",
+      "time": "21:10",
+      "title": "交番で夫殺され 崩れた幸せな日々",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595723?source=rss",
-      "publishedAt": "2026-09-18T09:13:50.000Z",
-      "xQuery": "ヘルメットさせず子死亡 親の後悔"
+      "url": "https://news.yahoo.co.jp/pickup/6595737?source=rss",
+      "publishedAt": "2026-09-18T12:10:16.000Z",
+      "xQuery": "交番で夫殺され 崩れた幸せな日々"
     },
     {
       "time": "19:47",
