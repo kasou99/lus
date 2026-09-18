@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T01:27:53.276Z",
+  "updatedAt": "2026-09-18T01:50:13.602Z",
   "items": [
     {
-      "time": "08:00",
-      "title": "改造内閣 非主流派結集のリスクも",
+      "time": "10:37",
+      "title": "米中接近を懸念 試される高市外交",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595651?source=rss",
-      "publishedAt": "2026-09-17T23:00:45.000Z",
-      "xQuery": "改造内閣 非主流派結集のリスクも"
+      "url": "https://news.yahoo.co.jp/pickup/6595672?source=rss",
+      "publishedAt": "2026-09-18T01:37:57.000Z",
+      "xQuery": "米中接近を懸念 試される高市外交"
     },
     {
       "time": "08:22",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595656?source=rss",
       "publishedAt": "2026-09-17T23:22:09.000Z",
       "xQuery": "英国王 AI企業幹部らに懸念示す"
+    },
+    {
+      "time": "10:26",
+      "title": "連休は気圧乱高下 めまいなど注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595670?source=rss",
+      "publishedAt": "2026-09-18T01:26:13.000Z",
+      "xQuery": "連休は気圧乱高下 めまいなど注意"
     },
     {
       "time": "08:20",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595669?source=rss",
       "publishedAt": "2026-09-18T01:08:59.000Z",
       "xQuery": "生活道路で死亡ひき逃げ疑い 逮捕"
-    },
-    {
-      "time": "09:51",
-      "title": "東京ばな奈 35周年で工場取材解禁",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595668?source=rss",
-      "publishedAt": "2026-09-18T00:51:44.000Z",
-      "xQuery": "東京ばな奈 35周年で工場取材解禁"
     }
   ]
 };

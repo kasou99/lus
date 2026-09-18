@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T01:27:52.371Z",
+  "updatedAt": "2026-09-18T01:50:12.854Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "MONOist",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfeVcteTlWdUpVWUZjVXJhUUpsVm9heFhTNDd5VjhldVFFeTZaYVEwb25fbkw2bkZIQzh0SDFQNUlJMTFtUFNrY0YycUtYakFqMWlwU2FucnZTRVU0dUhYek5JMFVjV2c5Z2p0b2RKQQ?oc=5",
         "publishedAt": "2026-09-17T04:00:00.000Z"
-      },
-      {
-        "time": "10:31",
-        "title": "設備保全クラウド「ミロクルカルテ」、新オプション「ミロクルAIメーター読み取り（α版）」をモノづくりフェア2026で初公開",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWY2xSdGtWVS1mWng3c2o3NDVra1E0eVBOZWNldlNxaTNDVWNEVXNNTnVIM1BUaFVSWm9DcGcwRFNrclc3anZJSjBweGNoczJ5UEE?oc=5",
-        "publishedAt": "2026-09-17T01:31:00.000Z"
       },
       {
         "time": "03:06",
@@ -57,6 +50,13 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96YklPS3Q4aDV4WTlRa1Q1Um9pUDhMWEFRam1qVnlDLUhPd2k3VlZEb1c3X2stWTdmYXFObXl4YzE4R0dkejZRdHdXbXIyR0tMUmlmWDQ5dWxwVFVleFBtRXJuRFRVODJtdEp1Zi1SZG9FRWlKUzFKN2VMMA?oc=5",
         "publishedAt": "2026-09-17T19:00:34.000Z"
+      },
+      {
+        "time": "03:28",
+        "title": "家具製造分野におけるベトナム・ポーランド間のサプライチェーンの構築。",
+        "source": "Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnp6ZGZTU2VRR1VHQ3pGZ2E0NVRqYVZlZWZMTUQ4UVNSYXBaZVhDTjhFN3dxV2hNaFpTeTRfMlBYODNBOTFCQUl1TkZmQU1ScWpHSWdfTVdPblJUZkdDV0ZJamh1VGFqMWUxUDh6cDY1dDdfSHpadF9PZldxZ211UGlrVWNjYlF1RG9UZUpvck9idGxTd3RSR0R4b05peFc5RkwtZHRWSGhWdw?oc=5",
+        "publishedAt": "2026-09-17T18:28:21.000Z"
       }
     ],
     "worldHeadlines": [
@@ -222,6 +222,13 @@
         "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
+      },
+      {
+        "time": "16:00",
+        "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
+        "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ]
   }
