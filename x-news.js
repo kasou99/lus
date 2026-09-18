@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T05:17:21.134Z",
+  "updatedAt": "2026-09-18T05:39:17.255Z",
   "items": [
     {
       "time": "14:08",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 米大統領と来週会談で調整"
     },
     {
-      "time": "12:21",
-      "title": "台風が関東接近へ 道路冠水の恐れ",
+      "time": "14:12",
+      "title": "ガソリン補助金が拡大 代償は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595683?source=rss",
-      "publishedAt": "2026-09-18T03:21:39.000Z",
-      "xQuery": "台風が関東接近へ 道路冠水の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6595695?source=rss",
+      "publishedAt": "2026-09-18T05:12:27.000Z",
+      "xQuery": "ガソリン補助金が拡大 代償は"
     },
     {
       "time": "12:37",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "転落死 会社の回答書に遺族落胆"
     },
     {
+      "time": "14:33",
+      "title": "23年の八重洲鉄骨落下 計算ミスか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595696?source=rss",
+      "publishedAt": "2026-09-18T05:33:27.000Z",
+      "xQuery": "23年の八重洲鉄骨落下 計算ミスか"
+    },
+    {
       "time": "11:42",
       "title": "大阪駅前の突起物 フェンス設置へ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595676?source=rss",
       "publishedAt": "2026-09-18T02:42:49.000Z",
       "xQuery": "大阪駅前の突起物 フェンス設置へ"
-    },
-    {
-      "time": "13:26",
-      "title": "老舗菓子店にも倒産の波 背景は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595686?source=rss",
-      "publishedAt": "2026-09-18T04:26:25.000Z",
-      "xQuery": "老舗菓子店にも倒産の波 背景は"
     }
   ]
 };
