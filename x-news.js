@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T06:30:31.265Z",
+  "updatedAt": "2026-09-18T07:20:23.144Z",
   "items": [
+    {
+      "time": "15:28",
+      "title": "中継・日銀総裁会見 利上げ決定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595700?source=rss",
+      "publishedAt": "2026-09-18T06:28:43.000Z",
+      "xQuery": "中継・日銀総裁会見 利上げ決定"
+    },
     {
       "time": "14:08",
       "title": "首相 米大統領と来週会談で調整",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595695?source=rss",
       "publishedAt": "2026-09-18T05:12:27.000Z",
       "xQuery": "ガソリン補助金が拡大 代償は"
-    },
-    {
-      "time": "12:37",
-      "title": "転落死 会社の回答書に遺族落胆",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595688?source=rss",
-      "publishedAt": "2026-09-18T03:37:36.000Z",
-      "xQuery": "転落死 会社の回答書に遺族落胆"
     },
     {
       "time": "14:33",

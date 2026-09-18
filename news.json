@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T06:30:30.372Z",
+  "updatedAt": "2026-09-18T07:20:22.168Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,25 +31,25 @@
         "publishedAt": "2026-09-17T19:00:34.000Z"
       },
       {
+        "time": "18:24",
+        "title": "【ローラガイド】日本精工、潤滑ユニット「NSK K1-L」搭載タイプを2026年10月に発売",
+        "source": "ctiweb.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNcFVEN0NDd1lGSHExckg5aE1NTkdBN0ZGRWIxVmNoZGd6SFBjX0hfM2dmOWp3bnZqZEpuY0pVWHJLTWtxLWluS3JieDFveS15cFpUSE9RcHJmMU9Md0c4OWJCX1EyTThjU1h4T3ZyNW03Z3ZhbVBhblZQdDFoZVJqZFhPQnpPRWlxUE9FSE9xb2FPNXJrRW5fSzBnRlpGLV9fMnNHTWl5NWp0NnJucGNVaHBjNk00UzM2Z05UcnI1TU5PUUh6aG9reFNzeW55a3o5dm5YVnFPRVNNQUZsT1pSWjVHWjdGaTJDRUJLdHg1Y3FmM3lwV1RrRW83TDdrZUU5aXhGbGh6WVJBYzJGdDFyRDJvMC1KTXBQV0ZTLXJWcXNHb2lxMlB2dDUwV2ZCSTgzTENpSjhZRlhITWkyQTVNcDJ2bjdVcmpsSzZIMGo3YnZhZmto?oc=5",
+        "publishedAt": "2026-09-17T09:24:14.000Z"
+      },
+      {
         "time": "03:28",
         "title": "家具製造分野におけるベトナム・ポーランド間のサプライチェーンの構築。",
-        "source": "vietnam.vn",
+        "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnp6ZGZTU2VRR1VHQ3pGZ2E0NVRqYVZlZWZMTUQ4UVNSYXBaZVhDTjhFN3dxV2hNaFpTeTRfMlBYODNBOTFCQUl1TkZmQU1ScWpHSWdfTVdPblJUZkdDV0ZJamh1VGFqMWUxUDh6cDY1dDdfSHpadF9PZldxZ211UGlrVWNjYlF1RG9UZUpvck9idGxTd3RSR0R4b05peFc5RkwtZHRWSGhWdw?oc=5",
         "publishedAt": "2026-09-17T18:28:21.000Z"
       },
       {
         "time": "17:00",
         "title": "【10月15日開催】\"危険\" \"異変\" を見逃さない！ 製造現場のDXを加速するAI活用ウェビナー 設備の異常予兆検知から外観検査・欠陥検出まで 〜映像データ・センサーデータの活用/導入事例をご紹介〜",
-        "source": "ドリームニュース",
+        "source": "dreamnews.jp",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xMnNoblRFc01KNGNGYkZhV3BOaUwwZmZRUl9pakJLVk91WVhHZWh0NXdrd3VnTUYxNlQtaUhfay1HTGd3OTh6dGs3bmFfdXlrWTNZ?oc=5",
         "publishedAt": "2026-09-17T08:00:00.000Z"
-      },
-      {
-        "time": "09:18",
-        "title": "製造業の採用を、AI・RPAで変える。Sei San Sei、製造業特化型AI採用代行サービス「RPaaS」を本格展開",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sSjNWV2Y5VlJ1Q0w4NjF0LUFiU3NYb3VtV3FPUUpqOEhkMXBXbGhHMTdxRjhfcWxpYUtjNnFqakF4cmh6d00tX1NTcHNIbW9ydUVkUkktbTdnTVJ5akpPVkFOV1BDOTJHdDVCWUhKaVRVT2UxMDIyUHlSQQ?oc=5",
-        "publishedAt": "2026-09-18T00:18:33.000Z"
       },
       {
         "time": "16:42",
@@ -68,6 +68,13 @@
         "publishedAt": "2026-09-17T23:36:24.000Z"
       },
       {
+        "time": "15:37",
+        "title": "ジャガイモ輸入解禁加速を 米要請",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595701?source=rss",
+        "publishedAt": "2026-09-18T06:37:04.000Z"
+      },
+      {
         "time": "22:42",
         "title": "スウェーデン政権交代へ 首相辞意",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595675?source=rss",
         "publishedAt": "2026-09-18T02:25:32.000Z"
-      },
-      {
-        "time": "14:36",
-        "title": "豪 留学のビザで子など同伴認めず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595585?source=rss",
-        "publishedAt": "2026-09-17T05:36:49.000Z"
       },
       {
         "time": "09:54",
