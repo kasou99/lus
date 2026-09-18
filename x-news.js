@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T08:43:41.080Z",
+  "updatedAt": "2026-09-18T09:19:14.139Z",
   "items": [
     {
       "time": "15:09",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "副大臣に今井絵理子氏ら 名簿発表"
     },
     {
-      "time": "16:20",
-      "title": "核ごみ調査 常陸大宮市が判断保留",
+      "time": "17:52",
+      "title": "国立美術館6施設 入館料2～3倍に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595707?source=rss",
-      "publishedAt": "2026-09-18T07:20:09.000Z",
-      "xQuery": "核ごみ調査 常陸大宮市が判断保留"
+      "url": "https://news.yahoo.co.jp/pickup/6595717?source=rss",
+      "publishedAt": "2026-09-18T08:52:36.000Z",
+      "xQuery": "国立美術館6施設 入館料2～3倍に"
     }
   ]
 };
