@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T02:26:15.486Z",
+  "updatedAt": "2026-09-18T02:44:54.923Z",
   "items": [
     {
       "time": "10:37",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "英国王 AI企業幹部らに懸念示す"
     },
     {
-      "time": "08:20",
-      "title": "ケーキ店死傷 店主らと口論か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595657?source=rss",
-      "publishedAt": "2026-09-17T23:20:35.000Z",
-      "xQuery": "ケーキ店死傷 店主らと口論か"
-    },
-    {
       "time": "10:08",
       "title": "生活道路で死亡ひき逃げ疑い 逮捕",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "生活道路で死亡ひき逃げ疑い 逮捕"
     },
     {
-      "time": "11:00",
-      "title": "3億円宝くじが未換金 11月3日時効",
+      "time": "11:25",
+      "title": "中国 8月の若者失業率は最悪水準",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595673?source=rss",
-      "publishedAt": "2026-09-18T02:00:47.000Z",
-      "xQuery": "3億円宝くじが未換金 11月3日時効"
+      "url": "https://news.yahoo.co.jp/pickup/6595675?source=rss",
+      "publishedAt": "2026-09-18T02:25:32.000Z",
+      "xQuery": "中国 8月の若者失業率は最悪水準"
+    },
+    {
+      "time": "06:59",
+      "title": "日産 新型スカイライン12月発表へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595646?source=rss",
+      "publishedAt": "2026-09-17T21:59:43.000Z",
+      "xQuery": "日産 新型スカイライン12月発表へ"
     }
   ]
 };
