@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T14:17:38.830Z",
+  "updatedAt": "2026-09-18T14:39:29.142Z",
   "items": [
     {
       "time": "22:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ジャガイモ輸入解禁加速を 米要請"
     },
     {
+      "time": "18:13",
+      "title": "ヘルメットさせず子死亡 親の後悔",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595723?source=rss",
+      "publishedAt": "2026-09-18T09:13:50.000Z",
+      "xQuery": "ヘルメットさせず子死亡 親の後悔"
+    },
+    {
       "time": "18:00",
       "title": "今年は暖冬予想 エルニーニョ続く",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595720?source=rss",
       "publishedAt": "2026-09-18T09:00:23.000Z",
       "xQuery": "今年は暖冬予想 エルニーニョ続く"
-    },
-    {
-      "time": "21:10",
-      "title": "交番で夫殺され 崩れた幸せな日々",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595737?source=rss",
-      "publishedAt": "2026-09-18T12:10:16.000Z",
-      "xQuery": "交番で夫殺され 崩れた幸せな日々"
     }
   ]
 };

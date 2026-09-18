@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T14:17:38.121Z",
+  "updatedAt": "2026-09-18T14:39:28.057Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-09-18T09:58:02.000Z"
       },
       {
+        "time": "23:31",
+        "title": "知床沈没 復元動画が裁判証拠に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595752?source=rss",
+        "publishedAt": "2026-09-18T14:31:48.000Z"
+      },
+      {
         "time": "08:20",
         "title": "ケーキ店死傷 店主らと口論か",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595724?source=rss",
         "publishedAt": "2026-09-18T09:40:29.000Z"
-      },
-      {
-        "time": "14:33",
-        "title": "23年の八重洲鉄骨落下 計算ミスか",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595696?source=rss",
-        "publishedAt": "2026-09-18T05:33:27.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       },
