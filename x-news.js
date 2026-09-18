@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T03:43:01.591Z",
+  "updatedAt": "2026-09-18T04:20:31.167Z",
   "items": [
     {
       "time": "12:03",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風が関東接近へ 道路冠水の恐れ"
     },
     {
-      "time": "11:21",
-      "title": "南アフリカ 正・副大統領が休養",
+      "time": "09:54",
+      "title": "ヘンリー王子 帰国後初の公の場",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595674?source=rss",
-      "publishedAt": "2026-09-18T02:21:22.000Z",
-      "xQuery": "南アフリカ 正・副大統領が休養"
+      "url": "https://news.yahoo.co.jp/pickup/6595667?source=rss",
+      "publishedAt": "2026-09-18T00:54:19.000Z",
+      "xQuery": "ヘンリー王子 帰国後初の公の場"
     },
     {
-      "time": "10:08",
-      "title": "生活道路で死亡ひき逃げ疑い 逮捕",
+      "time": "12:37",
+      "title": "転落死 会社の回答書に遺族落胆",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595669?source=rss",
-      "publishedAt": "2026-09-18T01:08:59.000Z",
-      "xQuery": "生活道路で死亡ひき逃げ疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6595688?source=rss",
+      "publishedAt": "2026-09-18T03:37:36.000Z",
+      "xQuery": "転落死 会社の回答書に遺族落胆"
     },
     {
       "time": "11:42",
