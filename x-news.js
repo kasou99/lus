@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T13:38:15.585Z",
+  "updatedAt": "2026-09-18T14:17:38.830Z",
   "items": [
     {
-      "time": "21:46",
-      "title": "台風 東海ｰ東北は大雨など警戒を",
+      "time": "22:29",
+      "title": "立憲系結集頓挫 泉氏ら入党見送り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595740?source=rss",
-      "publishedAt": "2026-09-18T12:46:32.000Z",
-      "xQuery": "台風 東海ｰ東北は大雨など警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6595746?source=rss",
+      "publishedAt": "2026-09-18T13:29:40.000Z",
+      "xQuery": "立憲系結集頓挫 泉氏ら入党見送り"
     },
     {
-      "time": "19:41",
-      "title": "日銀利上げ 金利との付き合い方は",
+      "time": "22:43",
+      "title": "日販 Anthropicに書籍大量販売か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595732?source=rss",
-      "publishedAt": "2026-09-18T10:41:42.000Z",
-      "xQuery": "日銀利上げ 金利との付き合い方は"
+      "url": "https://news.yahoo.co.jp/pickup/6595748?source=rss",
+      "publishedAt": "2026-09-18T13:43:22.000Z",
+      "xQuery": "日販 Anthropicに書籍大量販売か"
     },
     {
-      "time": "22:25",
-      "title": "プルデンシャル フルコミ制変更へ",
+      "time": "15:37",
+      "title": "ジャガイモ輸入解禁加速を 米要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595747?source=rss",
-      "publishedAt": "2026-09-18T13:25:47.000Z",
-      "xQuery": "プルデンシャル フルコミ制変更へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595701?source=rss",
+      "publishedAt": "2026-09-18T06:37:04.000Z",
+      "xQuery": "ジャガイモ輸入解禁加速を 米要請"
     },
     {
-      "time": "21:09",
-      "title": "「小さな森の家」CMで不当表示",
+      "time": "18:00",
+      "title": "今年は暖冬予想 エルニーニョ続く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595736?source=rss",
-      "publishedAt": "2026-09-18T12:09:16.000Z",
-      "xQuery": "「小さな森の家」CMで不当表示"
+      "url": "https://news.yahoo.co.jp/pickup/6595720?source=rss",
+      "publishedAt": "2026-09-18T09:00:23.000Z",
+      "xQuery": "今年は暖冬予想 エルニーニョ続く"
     },
     {
       "time": "21:10",
