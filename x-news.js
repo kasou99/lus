@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T00:48:29.289Z",
+  "updatedAt": "2026-09-18T01:27:53.276Z",
   "items": [
     {
       "time": "08:00",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "改造内閣 非主流派結集のリスクも"
     },
     {
-      "time": "08:08",
-      "title": "台風25号 接近前から大雨の恐れ",
+      "time": "08:22",
+      "title": "英国王 AI企業幹部らに懸念示す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595654?source=rss",
-      "publishedAt": "2026-09-17T23:08:38.000Z",
-      "xQuery": "台風25号 接近前から大雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6595656?source=rss",
+      "publishedAt": "2026-09-17T23:22:09.000Z",
+      "xQuery": "英国王 AI企業幹部らに懸念示す"
     },
     {
       "time": "08:20",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ケーキ店死傷 店主らと口論か"
     },
     {
-      "time": "09:27",
-      "title": "ポプラ社 インドに現地法人設立へ",
+      "time": "10:08",
+      "title": "生活道路で死亡ひき逃げ疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595664?source=rss",
-      "publishedAt": "2026-09-18T00:27:41.000Z",
-      "xQuery": "ポプラ社 インドに現地法人設立へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595669?source=rss",
+      "publishedAt": "2026-09-18T01:08:59.000Z",
+      "xQuery": "生活道路で死亡ひき逃げ疑い 逮捕"
     },
     {
-      "time": "07:47",
-      "title": "目を疑った 練馬区にキツネの姿",
+      "time": "09:51",
+      "title": "東京ばな奈 35周年で工場取材解禁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595652?source=rss",
-      "publishedAt": "2026-09-17T22:47:49.000Z",
-      "xQuery": "目を疑った 練馬区にキツネの姿"
+      "url": "https://news.yahoo.co.jp/pickup/6595668?source=rss",
+      "publishedAt": "2026-09-18T00:51:44.000Z",
+      "xQuery": "東京ばな奈 35周年で工場取材解禁"
     }
   ]
 };
