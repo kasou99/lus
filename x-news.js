@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T09:17:13.247Z",
+  "updatedAt": "2026-09-19T09:37:22.806Z",
   "items": [
     {
       "time": "17:35",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "衰弱死の16歳少女 訴え続けた無実"
     },
     {
-      "time": "16:59",
-      "title": "県委託撮影ドローン 市役所に衝突",
+      "time": "18:18",
+      "title": "Geminiが他社システムに侵入",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595820?source=rss",
-      "publishedAt": "2026-09-19T07:59:12.000Z",
-      "xQuery": "県委託撮影ドローン 市役所に衝突"
+      "url": "https://news.yahoo.co.jp/pickup/6595827?source=rss",
+      "publishedAt": "2026-09-19T09:18:46.000Z",
+      "xQuery": "Geminiが他社システムに侵入"
     }
   ]
 };
