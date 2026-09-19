@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-19T13:36:41.085Z",
+  "updatedAt": "2026-09-19T14:15:11.082Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "04:00",
         "title": "製造業向け専門情報メディア「CNC自動旋盤ナビ」を英語化 ― 日本の精密加工技術情報を海外へ発信",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14V2JVbXIyS2tpY28tVXhQZVZ4SFNicmlSdElFLVN0TzZKZXI3NEFpN0x1bElveDdxQ2JSNDA0WEJXc1FvSkhvTFRqVmh6dExTZFh0dg?oc=5",
         "publishedAt": "2026-09-18T19:00:16.000Z"
       },
@@ -68,13 +68,6 @@
         "publishedAt": "2026-09-19T04:42:39.000Z"
       },
       {
-        "time": "08:10",
-        "title": "習氏訪米 異例の経済代表団同行へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595766?source=rss",
-        "publishedAt": "2026-09-18T23:10:01.000Z"
-      },
-      {
         "time": "10:12",
         "title": "グリーンランド安保 協定署名へ",
         "source": "Yahoo!ニュース",
@@ -87,6 +80,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595808?source=rss",
         "publishedAt": "2026-09-19T06:20:49.000Z"
+      },
+      {
+        "time": "22:46",
+        "title": "詐欺拠点か マレーシアで邦人拘束",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595851?source=rss",
+        "publishedAt": "2026-09-19T13:46:37.000Z"
       },
       {
         "time": "07:37",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       }
