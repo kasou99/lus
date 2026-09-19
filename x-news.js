@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T02:42:47.931Z",
+  "updatedAt": "2026-09-19T03:20:28.725Z",
   "items": [
     {
-      "time": "09:58",
-      "title": "台風25号 21日に関東に最接近か",
+      "time": "12:05",
+      "title": "台風25号 強い勢力で21日に接近か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595783?source=rss",
-      "publishedAt": "2026-09-19T00:58:49.000Z",
-      "xQuery": "台風25号 21日に関東に最接近か"
+      "url": "https://news.yahoo.co.jp/pickup/6595789?source=rss",
+      "publishedAt": "2026-09-19T03:05:38.000Z",
+      "xQuery": "台風25号 強い勢力で21日に接近か"
     },
     {
       "time": "08:10",
