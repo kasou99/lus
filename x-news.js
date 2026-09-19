@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T11:13:28.636Z",
+  "updatedAt": "2026-09-19T11:37:06.071Z",
   "items": [
     {
       "time": "20:11",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中田ボタンさん死去 肺がんで闘病"
     },
     {
-      "time": "17:29",
-      "title": "外務省テロ訓練 衣装への批判続く",
+      "time": "19:43",
+      "title": "台風 21日～22日に関東など接近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595821?source=rss",
-      "publishedAt": "2026-09-19T08:29:17.000Z",
-      "xQuery": "外務省テロ訓練 衣装への批判続く"
-    },
-    {
-      "time": "16:40",
-      "title": "Anthropic アクセンチュアと提携",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595818?source=rss",
-      "publishedAt": "2026-09-19T07:40:31.000Z",
-      "xQuery": "Anthropic アクセンチュアと提携"
+      "url": "https://news.yahoo.co.jp/pickup/6595834?source=rss",
+      "publishedAt": "2026-09-19T10:43:12.000Z",
+      "xQuery": "台風 21日～22日に関東など接近"
     },
     {
       "time": "17:45",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595817?source=rss",
       "publishedAt": "2026-09-19T08:11:13.000Z",
       "xQuery": "衰弱死の16歳少女 訴え続けた無実"
+    },
+    {
+      "time": "17:29",
+      "title": "外務省テロ訓練 衣装への批判続く",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595821?source=rss",
+      "publishedAt": "2026-09-19T08:29:17.000Z",
+      "xQuery": "外務省テロ訓練 衣装への批判続く"
     }
   ]
 };
