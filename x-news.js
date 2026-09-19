@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-18T23:36:36.879Z",
+  "updatedAt": "2026-09-19T00:47:02.283Z",
   "items": [
     {
       "time": "07:13",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 21日夕方〜夜に関東最接近か"
     },
     {
-      "time": "08:30",
-      "title": "米 グリーンランド安保で「合意」",
+      "time": "09:09",
+      "title": "内閣支持率が59%に上昇 読売調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595770?source=rss",
-      "publishedAt": "2026-09-18T23:30:16.000Z",
-      "xQuery": "米 グリーンランド安保で「合意」"
+      "url": "https://news.yahoo.co.jp/pickup/6595776?source=rss",
+      "publishedAt": "2026-09-19T00:09:47.000Z",
+      "xQuery": "内閣支持率が59%に上昇 読売調査"
+    },
+    {
+      "time": "09:05",
+      "title": "グリーンランド防衛 協定署名へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595777?source=rss",
+      "publishedAt": "2026-09-19T00:05:57.000Z",
+      "xQuery": "グリーンランド防衛 協定署名へ"
     },
     {
       "time": "07:15",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "円急騰 政府日銀が円買い介入準備"
     },
     {
-      "time": "07:37",
-      "title": "露下院選 帰還兵180人超が立候補",
+      "time": "09:22",
+      "title": "露 金獅子賞監督を「スパイ」指定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595760?source=rss",
-      "publishedAt": "2026-09-18T22:37:35.000Z",
-      "xQuery": "露下院選 帰還兵180人超が立候補"
-    },
-    {
-      "time": "07:24",
-      "title": "ダイアナ元妃の復讐ドレス 出品へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595758?source=rss",
-      "publishedAt": "2026-09-18T22:24:26.000Z",
-      "xQuery": "ダイアナ元妃の復讐ドレス 出品へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595778?source=rss",
+      "publishedAt": "2026-09-19T00:22:00.000Z",
+      "xQuery": "露 金獅子賞監督を「スパイ」指定"
     }
   ]
 };
