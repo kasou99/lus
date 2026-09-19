@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T07:37:43.066Z",
+  "updatedAt": "2026-09-19T08:21:20.276Z",
   "items": [
     {
       "time": "15:28",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595810?source=rss",
       "publishedAt": "2026-09-19T06:28:06.000Z",
       "xQuery": "台風 太平洋側で道路への影響予想"
-    },
-    {
-      "time": "13:42",
-      "title": "対露制裁法が成立 トランプ氏署名",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595796?source=rss",
-      "publishedAt": "2026-09-19T04:42:39.000Z",
-      "xQuery": "対露制裁法が成立 トランプ氏署名"
     },
     {
       "time": "15:20",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595813?source=rss",
       "publishedAt": "2026-09-19T07:02:46.000Z",
       "xQuery": "競技用車いすに車追突 選手が重体"
+    },
+    {
+      "time": "16:59",
+      "title": "県委託撮影ドローン 市役所に衝突",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595820?source=rss",
+      "publishedAt": "2026-09-19T07:59:12.000Z",
+      "xQuery": "県委託撮影ドローン 市役所に衝突"
     }
   ]
 };
