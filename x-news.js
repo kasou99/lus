@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T08:21:20.276Z",
+  "updatedAt": "2026-09-19T08:41:06.171Z",
   "items": [
     {
       "time": "15:28",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "AIで誤情報 米軍に一時緊張走る"
     },
     {
-      "time": "14:01",
-      "title": "OpenAI 安保理でAI安全策説明へ",
+      "time": "17:11",
+      "title": "衰弱死の16歳少女 訴え続けた無実",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595800?source=rss",
-      "publishedAt": "2026-09-19T05:01:46.000Z",
-      "xQuery": "OpenAI 安保理でAI安全策説明へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595817?source=rss",
+      "publishedAt": "2026-09-19T08:11:13.000Z",
+      "xQuery": "衰弱死の16歳少女 訴え続けた無実"
     },
     {
       "time": "16:02",

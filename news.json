@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T08:21:19.497Z",
+  "updatedAt": "2026-09-19T08:41:05.409Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "17:35",
+        "title": "千葉豪雨 半壊の9割支援金対象外",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595823?source=rss",
+        "publishedAt": "2026-09-19T08:35:00.000Z"
+      },
+      {
         "time": "12:28",
         "title": "大雨の宮崎県で土砂崩れ 女性死亡",
         "source": "Yahoo!ニュース",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595813?source=rss",
         "publishedAt": "2026-09-19T07:02:46.000Z"
-      },
-      {
-        "time": "11:54",
-        "title": "酷暑の中で体育 娘死亡し父が提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595788?source=rss",
-        "publishedAt": "2026-09-19T02:54:03.000Z"
       },
       {
         "time": "16:59",
@@ -222,6 +222,13 @@
         "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
+      },
+      {
+        "time": "16:00",
+        "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
+        "source": "news.infoseek.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
+        "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ]
   }
