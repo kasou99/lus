@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T02:24:05.958Z",
+  "updatedAt": "2026-09-19T02:42:47.931Z",
   "items": [
     {
       "time": "09:58",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "散弾銃3丁など盗まれる 警察捜査"
     },
     {
+      "time": "09:05",
+      "title": "弁当店の倒産急増 過去最多見通し",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595773?source=rss",
+      "publishedAt": "2026-09-19T00:05:35.000Z",
+      "xQuery": "弁当店の倒産急増 過去最多見通し"
+    },
+    {
       "time": "10:29",
       "title": "八重洲口前再開発 残ったビル2棟",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595786?source=rss",
       "publishedAt": "2026-09-19T01:29:10.000Z",
       "xQuery": "八重洲口前再開発 残ったビル2棟"
-    },
-    {
-      "time": "09:53",
-      "title": "車道真ん中に2歳児 保護した男性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595781?source=rss",
-      "publishedAt": "2026-09-19T00:53:36.000Z",
-      "xQuery": "車道真ん中に2歳児 保護した男性"
     }
   ]
 };
