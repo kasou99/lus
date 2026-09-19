@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T22:36:50.451Z",
+  "updatedAt": "2026-09-19T23:13:46.304Z",
   "items": [
     {
       "time": "07:17",
@@ -10,6 +10,22 @@ window.LUS_X_NEWS = {
       "xQuery": "大型で強い台風 21日に関東最接近"
     },
     {
+      "time": "07:43",
+      "title": "最高裁調査官の報告書 見つかる",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595860?source=rss",
+      "publishedAt": "2026-09-19T22:43:23.000Z",
+      "xQuery": "最高裁調査官の報告書 見つかる"
+    },
+    {
+      "time": "07:36",
+      "title": "フーシ派 サウジ首都攻撃と主張",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595859?source=rss",
+      "publishedAt": "2026-09-19T22:36:45.000Z",
+      "xQuery": "フーシ派 サウジ首都攻撃と主張"
+    },
+    {
       "time": "22:46",
       "title": "詐欺拠点か マレーシアで邦人拘束",
       "source": "Yahoo!ニュース",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "詐欺拠点か マレーシアで邦人拘束"
     },
     {
-      "time": "20:52",
-      "title": "「人工視細胞」を開発 遺伝研など",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595841?source=rss",
-      "publishedAt": "2026-09-19T11:52:44.000Z",
-      "xQuery": "「人工視細胞」を開発 遺伝研など"
-    },
-    {
       "time": "23:00",
       "title": "生後7日で命の危機 手術受けた娘",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595852?source=rss",
       "publishedAt": "2026-09-19T14:00:20.000Z",
       "xQuery": "生後7日で命の危機 手術受けた娘"
-    },
-    {
-      "time": "21:10",
-      "title": "クジラ漂着 台風接近で撤去見送り",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595843?source=rss",
-      "publishedAt": "2026-09-19T12:10:11.000Z",
-      "xQuery": "クジラ漂着 台風接近で撤去見送り"
     }
   ]
 };
