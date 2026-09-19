@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T07:17:31.124Z",
+  "updatedAt": "2026-09-19T07:37:43.066Z",
   "items": [
     {
       "time": "15:28",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "対露制裁法が成立 トランプ氏署名"
     },
     {
+      "time": "15:20",
+      "title": "AIで誤情報 米軍に一時緊張走る",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595808?source=rss",
+      "publishedAt": "2026-09-19T06:20:49.000Z",
+      "xQuery": "AIで誤情報 米軍に一時緊張走る"
+    },
+    {
       "time": "14:01",
       "title": "OpenAI 安保理でAI安全策説明へ",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595813?source=rss",
       "publishedAt": "2026-09-19T07:02:46.000Z",
       "xQuery": "競技用車いすに車追突 選手が重体"
-    },
-    {
-      "time": "12:22",
-      "title": "timelesz猪俣周杜容疑者を逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595790?source=rss",
-      "publishedAt": "2026-09-19T03:22:18.000Z",
-      "xQuery": "timelesz猪俣周杜容疑者を逮捕"
     }
   ]
 };
