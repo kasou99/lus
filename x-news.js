@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T05:37:44.790Z",
+  "updatedAt": "2026-09-19T06:27:43.644Z",
   "items": [
     {
-      "time": "12:05",
-      "title": "台風25号 強い勢力で21日に接近か",
+      "time": "13:42",
+      "title": "対露制裁法が成立 トランプ氏署名",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595789?source=rss",
-      "publishedAt": "2026-09-19T03:05:38.000Z",
-      "xQuery": "台風25号 強い勢力で21日に接近か"
+      "url": "https://news.yahoo.co.jp/pickup/6595796?source=rss",
+      "publishedAt": "2026-09-19T04:42:39.000Z",
+      "xQuery": "対露制裁法が成立 トランプ氏署名"
     },
     {
-      "time": "10:41",
-      "title": "障害者雇用ビジネス巡り労災認定",
+      "time": "14:01",
+      "title": "OpenAI 安保理でAI安全策説明へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595787?source=rss",
-      "publishedAt": "2026-09-19T01:41:11.000Z",
-      "xQuery": "障害者雇用ビジネス巡り労災認定"
+      "url": "https://news.yahoo.co.jp/pickup/6595800?source=rss",
+      "publishedAt": "2026-09-19T05:01:46.000Z",
+      "xQuery": "OpenAI 安保理でAI安全策説明へ"
     },
     {
       "time": "13:29",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "呼吸器材外れる ダイビング客死亡"
     },
     {
-      "time": "12:22",
-      "title": "timelesz猪俣周杜容疑者を逮捕",
+      "time": "14:24",
+      "title": "恐竜の化石がなぜ北極に 気候解明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595790?source=rss",
-      "publishedAt": "2026-09-19T03:22:18.000Z",
-      "xQuery": "timelesz猪俣周杜容疑者を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6595804?source=rss",
+      "publishedAt": "2026-09-19T05:24:22.000Z",
+      "xQuery": "恐竜の化石がなぜ北極に 気候解明"
     }
   ]
 };
