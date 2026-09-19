@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T13:15:32.843Z",
+  "updatedAt": "2026-09-19T13:36:42.051Z",
   "items": [
     {
       "time": "19:43",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "コメ価格が急落 生産者に危機感"
     },
     {
+      "time": "20:52",
+      "title": "「人工視細胞」を開発 遺伝研など",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595841?source=rss",
+      "publishedAt": "2026-09-19T11:52:44.000Z",
+      "xQuery": "「人工視細胞」を開発 遺伝研など"
+    },
+    {
       "time": "20:32",
       "title": "作業員4人死亡 複数のミス連鎖か",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595846?source=rss",
       "publishedAt": "2026-09-19T12:52:03.000Z",
       "xQuery": "10代巡査が拳銃自殺図ったか 重体"
-    },
-    {
-      "time": "21:15",
-      "title": "猪俣容疑者 口論になりパニックに",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595844?source=rss",
-      "publishedAt": "2026-09-19T12:15:02.000Z",
-      "xQuery": "猪俣容疑者 口論になりパニックに"
     }
   ]
 };
