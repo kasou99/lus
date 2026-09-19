@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T04:19:33.803Z",
+  "updatedAt": "2026-09-19T04:40:47.335Z",
   "items": [
     {
       "time": "12:05",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大雨の宮崎県で土砂崩れ 女性死亡"
     },
     {
-      "time": "08:10",
-      "title": "習氏訪米 異例の経済代表団同行へ",
+      "time": "13:29",
+      "title": "エホバ 他人の血の輸血一部解禁へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595766?source=rss",
-      "publishedAt": "2026-09-18T23:10:01.000Z",
-      "xQuery": "習氏訪米 異例の経済代表団同行へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595795?source=rss",
+      "publishedAt": "2026-09-19T04:29:39.000Z",
+      "xQuery": "エホバ 他人の血の輸血一部解禁へ"
     },
     {
       "time": "13:07",
