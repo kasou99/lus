@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T03:20:27.666Z",
+  "updatedAt": "2026-09-19T03:41:46.889Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "12:28",
+        "title": "大雨の宮崎県で土砂崩れ 女性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595792?source=rss",
+        "publishedAt": "2026-09-19T03:28:21.000Z"
+      },
+      {
+        "time": "12:22",
+        "title": "timelesz猪俣周杜容疑者を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595790?source=rss",
+        "publishedAt": "2026-09-19T03:22:18.000Z"
+      },
+      {
         "time": "09:53",
         "title": "車道真ん中に2歳児 保護した男性",
         "source": "Yahoo!ニュース",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-09-19T00:41:39.000Z"
       },
       {
-        "time": "23:31",
-        "title": "知床沈没 復元動画が裁判証拠に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595752?source=rss",
-        "publishedAt": "2026-09-18T14:31:48.000Z"
-      },
-      {
         "time": "23:43",
         "title": "新米1トンパックの下敷きに 死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595753?source=rss",
         "publishedAt": "2026-09-18T14:43:06.000Z"
-      },
-      {
-        "time": "11:54",
-        "title": "酷暑の中で体育 娘死亡し父が提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595788?source=rss",
-        "publishedAt": "2026-09-19T02:54:03.000Z"
       }
     ],
     "subsidyHeadlines": [

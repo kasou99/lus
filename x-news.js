@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T03:20:28.725Z",
+  "updatedAt": "2026-09-19T03:41:47.658Z",
   "items": [
     {
       "time": "12:05",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "習氏訪米 異例の経済代表団同行へ"
     },
     {
-      "time": "10:12",
-      "title": "散弾銃3丁など盗まれる 警察捜査",
+      "time": "12:22",
+      "title": "timelesz猪俣周杜容疑者を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595784?source=rss",
-      "publishedAt": "2026-09-19T01:12:48.000Z",
-      "xQuery": "散弾銃3丁など盗まれる 警察捜査"
+      "url": "https://news.yahoo.co.jp/pickup/6595790?source=rss",
+      "publishedAt": "2026-09-19T03:22:18.000Z",
+      "xQuery": "timelesz猪俣周杜容疑者を逮捕"
+    },
+    {
+      "time": "11:54",
+      "title": "酷暑の中で体育 娘死亡し父が提訴",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595788?source=rss",
+      "publishedAt": "2026-09-19T02:54:03.000Z",
+      "xQuery": "酷暑の中で体育 娘死亡し父が提訴"
     },
     {
       "time": "09:05",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595773?source=rss",
       "publishedAt": "2026-09-19T00:05:35.000Z",
       "xQuery": "弁当店の倒産急増 過去最多見通し"
-    },
-    {
-      "time": "10:29",
-      "title": "八重洲口前再開発 残ったビル2棟",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595786?source=rss",
-      "publishedAt": "2026-09-19T01:29:10.000Z",
-      "xQuery": "八重洲口前再開発 残ったビル2棟"
     }
   ]
 };
