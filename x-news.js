@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T10:15:26.422Z",
+  "updatedAt": "2026-09-19T10:36:29.227Z",
   "items": [
     {
-      "time": "17:35",
-      "title": "千葉豪雨 半壊の9割支援金対象外",
+      "time": "17:29",
+      "title": "外務省テロ訓練 衣装への批判続く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595823?source=rss",
-      "publishedAt": "2026-09-19T08:35:00.000Z",
-      "xQuery": "千葉豪雨 半壊の9割支援金対象外"
+      "url": "https://news.yahoo.co.jp/pickup/6595821?source=rss",
+      "publishedAt": "2026-09-19T08:29:17.000Z",
+      "xQuery": "外務省テロ訓練 衣装への批判続く"
     },
     {
-      "time": "17:42",
-      "title": "台風25号 暴風や大雨の警戒期間は",
+      "time": "16:40",
+      "title": "Anthropic アクセンチュアと提携",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595825?source=rss",
-      "publishedAt": "2026-09-19T08:42:05.000Z",
-      "xQuery": "台風25号 暴風や大雨の警戒期間は"
+      "url": "https://news.yahoo.co.jp/pickup/6595818?source=rss",
+      "publishedAt": "2026-09-19T07:40:31.000Z",
+      "xQuery": "Anthropic アクセンチュアと提携"
     },
     {
       "time": "17:45",
