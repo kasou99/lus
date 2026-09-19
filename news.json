@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T01:25:38.477Z",
+  "updatedAt": "2026-09-19T01:47:59.959Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-18T06:11:47.000Z"
       },
       {
+        "time": "10:41",
+        "title": "障害者雇用ビジネス巡り労災認定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595787?source=rss",
+        "publishedAt": "2026-09-19T01:41:11.000Z"
+      },
+      {
         "time": "07:45",
         "title": "住宅ローン 大手行・地銀に存在感",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595762?source=rss",
         "publishedAt": "2026-09-18T22:45:54.000Z"
-      },
-      {
-        "time": "07:15",
-        "title": "円急騰 政府日銀が円買い介入準備",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595754?source=rss",
-        "publishedAt": "2026-09-18T22:15:45.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "10:41",
+        "title": "障害者雇用ビジネス巡り労災認定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595787?source=rss",
+        "publishedAt": "2026-09-19T01:41:11.000Z"
+      },
+      {
         "time": "07:45",
         "title": "住宅ローン 大手行・地銀に存在感",
         "source": "Yahoo!ニュース",
@@ -133,18 +140,11 @@
         "publishedAt": "2026-09-18T12:50:41.000Z"
       },
       {
-        "time": "09:05",
-        "title": "弁当店の倒産急増 過去最多見通し",
+        "time": "10:29",
+        "title": "八重洲口前再開発 残ったビル2棟",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595773?source=rss",
-        "publishedAt": "2026-09-19T00:05:35.000Z"
-      },
-      {
-        "time": "22:25",
-        "title": "プルデンシャル フルコミ制変更へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595747?source=rss",
-        "publishedAt": "2026-09-18T13:25:47.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595786?source=rss",
+        "publishedAt": "2026-09-19T01:29:10.000Z"
       }
     ],
     "localHeadlines": [

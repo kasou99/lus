@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T01:25:39.072Z",
+  "updatedAt": "2026-09-19T01:48:01.291Z",
   "items": [
     {
       "time": "09:58",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風25号 21日に関東に最接近か"
     },
     {
+      "time": "08:10",
+      "title": "習氏訪米 異例の経済代表団同行へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595766?source=rss",
+      "publishedAt": "2026-09-18T23:10:01.000Z",
+      "xQuery": "習氏訪米 異例の経済代表団同行へ"
+    },
+    {
       "time": "08:39",
       "title": "日米首脳会談 22日に米NYで開催",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595772?source=rss",
       "publishedAt": "2026-09-18T23:39:04.000Z",
       "xQuery": "日米首脳会談 22日に米NYで開催"
-    },
-    {
-      "time": "09:41",
-      "title": "患者に劇薬の鎮静剤無断投与 解雇",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595779?source=rss",
-      "publishedAt": "2026-09-19T00:41:39.000Z",
-      "xQuery": "患者に劇薬の鎮静剤無断投与 解雇"
     },
     {
       "time": "10:12",
