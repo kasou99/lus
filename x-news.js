@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T22:15:02.515Z",
+  "updatedAt": "2026-09-19T22:36:50.451Z",
   "items": [
     {
-      "time": "23:14",
-      "title": "大型の台風25号「強い」勢力に",
+      "time": "07:17",
+      "title": "大型で強い台風 21日に関東最接近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595854?source=rss",
-      "publishedAt": "2026-09-19T14:14:50.000Z",
-      "xQuery": "大型の台風25号「強い」勢力に"
+      "url": "https://news.yahoo.co.jp/pickup/6595856?source=rss",
+      "publishedAt": "2026-09-19T22:17:16.000Z",
+      "xQuery": "大型で強い台風 21日に関東最接近"
     },
     {
       "time": "22:46",
