@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T10:36:29.227Z",
+  "updatedAt": "2026-09-19T11:13:28.636Z",
   "items": [
+    {
+      "time": "20:11",
+      "title": "中田ボタンさん死去 肺がんで闘病",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595838?source=rss",
+      "publishedAt": "2026-09-19T11:11:06.000Z",
+      "xQuery": "中田ボタンさん死去 肺がんで闘病"
+    },
     {
       "time": "17:29",
       "title": "外務省テロ訓練 衣装への批判続く",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595817?source=rss",
       "publishedAt": "2026-09-19T08:11:13.000Z",
       "xQuery": "衰弱死の16歳少女 訴え続けた無実"
-    },
-    {
-      "time": "18:18",
-      "title": "Geminiが他社システムに侵入",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595827?source=rss",
-      "publishedAt": "2026-09-19T09:18:46.000Z",
-      "xQuery": "Geminiが他社システムに侵入"
     }
   ]
 };
