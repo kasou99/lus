@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T12:42:50.117Z",
+  "updatedAt": "2026-09-19T13:15:32.843Z",
   "items": [
     {
       "time": "19:43",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "作業員4人死亡 複数のミス連鎖か"
     },
     {
-      "time": "19:33",
-      "title": "元参議院議員 星川保松さん死去",
+      "time": "21:52",
+      "title": "10代巡査が拳銃自殺図ったか 重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595832?source=rss",
-      "publishedAt": "2026-09-19T10:33:03.000Z",
-      "xQuery": "元参議院議員 星川保松さん死去"
+      "url": "https://news.yahoo.co.jp/pickup/6595846?source=rss",
+      "publishedAt": "2026-09-19T12:52:03.000Z",
+      "xQuery": "10代巡査が拳銃自殺図ったか 重体"
     },
     {
-      "time": "20:37",
-      "title": "初甲子園 福山高への寄付6000万円",
+      "time": "21:15",
+      "title": "猪俣容疑者 口論になりパニックに",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595840?source=rss",
-      "publishedAt": "2026-09-19T11:37:50.000Z",
-      "xQuery": "初甲子園 福山高への寄付6000万円"
+      "url": "https://news.yahoo.co.jp/pickup/6595844?source=rss",
+      "publishedAt": "2026-09-19T12:15:02.000Z",
+      "xQuery": "猪俣容疑者 口論になりパニックに"
     }
   ]
 };
