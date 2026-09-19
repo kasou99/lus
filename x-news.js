@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T11:37:06.071Z",
+  "updatedAt": "2026-09-19T12:23:41.910Z",
   "items": [
-    {
-      "time": "20:11",
-      "title": "中田ボタンさん死去 肺がんで闘病",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595838?source=rss",
-      "publishedAt": "2026-09-19T11:11:06.000Z",
-      "xQuery": "中田ボタンさん死去 肺がんで闘病"
-    },
     {
       "time": "19:43",
       "title": "台風 21日～22日に関東など接近",
@@ -18,28 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 21日～22日に関東など接近"
     },
     {
-      "time": "17:45",
-      "title": "連休のイベント中止続出 台風影響",
+      "time": "18:31",
+      "title": "コメ価格が急落 生産者に危機感",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595824?source=rss",
-      "publishedAt": "2026-09-19T08:45:28.000Z",
-      "xQuery": "連休のイベント中止続出 台風影響"
+      "url": "https://news.yahoo.co.jp/pickup/6595828?source=rss",
+      "publishedAt": "2026-09-19T09:31:50.000Z",
+      "xQuery": "コメ価格が急落 生産者に危機感"
     },
     {
-      "time": "17:11",
-      "title": "衰弱死の16歳少女 訴え続けた無実",
+      "time": "20:32",
+      "title": "作業員4人死亡 複数のミス連鎖か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595817?source=rss",
-      "publishedAt": "2026-09-19T08:11:13.000Z",
-      "xQuery": "衰弱死の16歳少女 訴え続けた無実"
+      "url": "https://news.yahoo.co.jp/pickup/6595837?source=rss",
+      "publishedAt": "2026-09-19T11:32:38.000Z",
+      "xQuery": "作業員4人死亡 複数のミス連鎖か"
     },
     {
-      "time": "17:29",
-      "title": "外務省テロ訓練 衣装への批判続く",
+      "time": "19:33",
+      "title": "元参議院議員 星川保松さん死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595821?source=rss",
-      "publishedAt": "2026-09-19T08:29:17.000Z",
-      "xQuery": "外務省テロ訓練 衣装への批判続く"
+      "url": "https://news.yahoo.co.jp/pickup/6595832?source=rss",
+      "publishedAt": "2026-09-19T10:33:03.000Z",
+      "xQuery": "元参議院議員 星川保松さん死去"
+    },
+    {
+      "time": "20:37",
+      "title": "初甲子園 福山高への寄付6000万円",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595840?source=rss",
+      "publishedAt": "2026-09-19T11:37:50.000Z",
+      "xQuery": "初甲子園 福山高への寄付6000万円"
     }
   ]
 };
