@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T14:15:11.794Z",
+  "updatedAt": "2026-09-19T14:36:31.997Z",
   "items": [
     {
-      "time": "19:43",
-      "title": "台風 21日～22日に関東など接近",
+      "time": "23:14",
+      "title": "大型の台風25号「強い」勢力に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595834?source=rss",
-      "publishedAt": "2026-09-19T10:43:12.000Z",
-      "xQuery": "台風 21日～22日に関東など接近"
-    },
-    {
-      "time": "18:31",
-      "title": "コメ価格が急落 生産者に危機感",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595828?source=rss",
-      "publishedAt": "2026-09-19T09:31:50.000Z",
-      "xQuery": "コメ価格が急落 生産者に危機感"
+      "url": "https://news.yahoo.co.jp/pickup/6595854?source=rss",
+      "publishedAt": "2026-09-19T14:14:50.000Z",
+      "xQuery": "大型の台風25号「強い」勢力に"
     },
     {
       "time": "20:52",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "「人工視細胞」を開発 遺伝研など"
     },
     {
-      "time": "20:32",
-      "title": "作業員4人死亡 複数のミス連鎖か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595837?source=rss",
-      "publishedAt": "2026-09-19T11:32:38.000Z",
-      "xQuery": "作業員4人死亡 複数のミス連鎖か"
-    },
-    {
       "time": "21:52",
       "title": "10代巡査が拳銃自殺図ったか 重体",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595846?source=rss",
       "publishedAt": "2026-09-19T12:52:03.000Z",
       "xQuery": "10代巡査が拳銃自殺図ったか 重体"
+    },
+    {
+      "time": "23:00",
+      "title": "生後7日で命の危機 手術受けた娘",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595852?source=rss",
+      "publishedAt": "2026-09-19T14:00:20.000Z",
+      "xQuery": "生後7日で命の危機 手術受けた娘"
+    },
+    {
+      "time": "21:10",
+      "title": "クジラ漂着 台風接近で撤去見送り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595843?source=rss",
+      "publishedAt": "2026-09-19T12:10:11.000Z",
+      "xQuery": "クジラ漂着 台風接近で撤去見送り"
     }
   ]
 };
