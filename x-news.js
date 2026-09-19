@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T06:27:43.644Z",
+  "updatedAt": "2026-09-19T06:48:43.747Z",
   "items": [
+    {
+      "time": "15:28",
+      "title": "台風 太平洋側で道路への影響予想",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595810?source=rss",
+      "publishedAt": "2026-09-19T06:28:06.000Z",
+      "xQuery": "台風 太平洋側で道路への影響予想"
+    },
     {
       "time": "13:42",
       "title": "対露制裁法が成立 トランプ氏署名",
@@ -18,14 +26,6 @@ window.LUS_X_NEWS = {
       "xQuery": "OpenAI 安保理でAI安全策説明へ"
     },
     {
-      "time": "13:29",
-      "title": "エホバ 他人の血の輸血一部解禁へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595795?source=rss",
-      "publishedAt": "2026-09-19T04:29:39.000Z",
-      "xQuery": "エホバ 他人の血の輸血一部解禁へ"
-    },
-    {
       "time": "13:07",
       "title": "呼吸器材外れる ダイビング客死亡",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "呼吸器材外れる ダイビング客死亡"
     },
     {
-      "time": "14:24",
-      "title": "恐竜の化石がなぜ北極に 気候解明",
+      "time": "12:22",
+      "title": "timelesz猪俣周杜容疑者を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595804?source=rss",
-      "publishedAt": "2026-09-19T05:24:22.000Z",
-      "xQuery": "恐竜の化石がなぜ北極に 気候解明"
+      "url": "https://news.yahoo.co.jp/pickup/6595790?source=rss",
+      "publishedAt": "2026-09-19T03:22:18.000Z",
+      "xQuery": "timelesz猪俣周杜容疑者を逮捕"
     }
   ]
 };
