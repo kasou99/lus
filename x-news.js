@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T06:48:43.747Z",
+  "updatedAt": "2026-09-19T07:17:31.124Z",
   "items": [
     {
       "time": "15:28",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "OpenAI 安保理でAI安全策説明へ"
     },
     {
-      "time": "13:07",
-      "title": "呼吸器材外れる ダイビング客死亡",
+      "time": "16:02",
+      "title": "競技用車いすに車追突 選手が重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595794?source=rss",
-      "publishedAt": "2026-09-19T04:07:53.000Z",
-      "xQuery": "呼吸器材外れる ダイビング客死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6595813?source=rss",
+      "publishedAt": "2026-09-19T07:02:46.000Z",
+      "xQuery": "競技用車いすに車追突 選手が重体"
     },
     {
       "time": "12:22",

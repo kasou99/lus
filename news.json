@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T06:48:42.923Z",
+  "updatedAt": "2026-09-19T07:17:30.344Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,11 +156,11 @@
         "publishedAt": "2026-09-19T03:28:21.000Z"
       },
       {
-        "time": "12:22",
-        "title": "timelesz猪俣周杜容疑者を逮捕",
+        "time": "10:12",
+        "title": "散弾銃3丁など盗まれる 警察捜査",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595790?source=rss",
-        "publishedAt": "2026-09-19T03:22:18.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595784?source=rss",
+        "publishedAt": "2026-09-19T01:12:48.000Z"
       },
       {
         "time": "13:07",
@@ -170,18 +170,11 @@
         "publishedAt": "2026-09-19T04:07:53.000Z"
       },
       {
-        "time": "10:12",
-        "title": "散弾銃3丁など盗まれる 警察捜査",
+        "time": "16:02",
+        "title": "競技用車いすに車追突 選手が重体",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595784?source=rss",
-        "publishedAt": "2026-09-19T01:12:48.000Z"
-      },
-      {
-        "time": "09:41",
-        "title": "患者に劇薬の鎮静剤無断投与 解雇",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595779?source=rss",
-        "publishedAt": "2026-09-19T00:41:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595813?source=rss",
+        "publishedAt": "2026-09-19T07:02:46.000Z"
       },
       {
         "time": "11:54",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595788?source=rss",
         "publishedAt": "2026-09-19T02:54:03.000Z"
+      },
+      {
+        "time": "09:41",
+        "title": "患者に劇薬の鎮静剤無断投与 解雇",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595779?source=rss",
+        "publishedAt": "2026-09-19T00:41:39.000Z"
       }
     ],
     "subsidyHeadlines": [
