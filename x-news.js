@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T14:36:31.997Z",
+  "updatedAt": "2026-09-19T15:14:13.911Z",
   "items": [
     {
       "time": "23:14",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "大型の台風25号「強い」勢力に"
     },
     {
+      "time": "22:46",
+      "title": "詐欺拠点か マレーシアで邦人拘束",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595851?source=rss",
+      "publishedAt": "2026-09-19T13:46:37.000Z",
+      "xQuery": "詐欺拠点か マレーシアで邦人拘束"
+    },
+    {
       "time": "20:52",
       "title": "「人工視細胞」を開発 遺伝研など",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595841?source=rss",
       "publishedAt": "2026-09-19T11:52:44.000Z",
       "xQuery": "「人工視細胞」を開発 遺伝研など"
-    },
-    {
-      "time": "21:52",
-      "title": "10代巡査が拳銃自殺図ったか 重体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595846?source=rss",
-      "publishedAt": "2026-09-19T12:52:03.000Z",
-      "xQuery": "10代巡査が拳銃自殺図ったか 重体"
     },
     {
       "time": "23:00",
