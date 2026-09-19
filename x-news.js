@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T03:41:47.658Z",
+  "updatedAt": "2026-09-19T04:19:33.803Z",
   "items": [
     {
       "time": "12:05",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "台風25号 強い勢力で21日に接近か"
     },
     {
+      "time": "12:28",
+      "title": "大雨の宮崎県で土砂崩れ 女性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595792?source=rss",
+      "publishedAt": "2026-09-19T03:28:21.000Z",
+      "xQuery": "大雨の宮崎県で土砂崩れ 女性死亡"
+    },
+    {
       "time": "08:10",
       "title": "習氏訪米 異例の経済代表団同行へ",
       "source": "Yahoo!ニュース",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "習氏訪米 異例の経済代表団同行へ"
     },
     {
-      "time": "12:22",
-      "title": "timelesz猪俣周杜容疑者を逮捕",
+      "time": "13:07",
+      "title": "呼吸器材外れる ダイビング客死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595790?source=rss",
-      "publishedAt": "2026-09-19T03:22:18.000Z",
-      "xQuery": "timelesz猪俣周杜容疑者を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6595794?source=rss",
+      "publishedAt": "2026-09-19T04:07:53.000Z",
+      "xQuery": "呼吸器材外れる ダイビング客死亡"
     },
     {
       "time": "11:54",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595788?source=rss",
       "publishedAt": "2026-09-19T02:54:03.000Z",
       "xQuery": "酷暑の中で体育 娘死亡し父が提訴"
-    },
-    {
-      "time": "09:05",
-      "title": "弁当店の倒産急増 過去最多見通し",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595773?source=rss",
-      "publishedAt": "2026-09-19T00:05:35.000Z",
-      "xQuery": "弁当店の倒産急増 過去最多見通し"
     }
   ]
 };
