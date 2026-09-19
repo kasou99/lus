@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T08:41:05.409Z",
+  "updatedAt": "2026-09-19T09:17:12.099Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "Vietnam.vn",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSF95Z2swbnBnaFBQUWRNeTZIX2FUcmk5ZnJWamFBa0dONWpORzhfckpSRG00U0s2ZDNEYXlRUEIycnR3VEUtdlQzQklzOHhKLW9KVTBmamhJNHNpbGRZZ0x3TVpjdTV6dVZYOThfRDV0N2dYdThaaTF3ck1HSWUwQ0tEdDZoZXFkVEVSMk5lbThKUjg?oc=5",
         "publishedAt": "2026-09-18T10:20:23.000Z"
+      },
+      {
+        "time": "17:45",
+        "title": "連休のイベント中止続出 台風影響",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595824?source=rss",
+        "publishedAt": "2026-09-19T08:45:28.000Z"
       },
       {
         "time": "10:41",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595741?source=rss",
         "publishedAt": "2026-09-18T12:50:41.000Z"
-      },
-      {
-        "time": "10:29",
-        "title": "八重洲口前再開発 残ったビル2棟",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595786?source=rss",
-        "publishedAt": "2026-09-19T01:29:10.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "17:45",
+        "title": "連休のイベント中止続出 台風影響",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595824?source=rss",
+        "publishedAt": "2026-09-19T08:45:28.000Z"
+      },
+      {
         "time": "10:41",
         "title": "障害者雇用ビジネス巡り労災認定",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595741?source=rss",
         "publishedAt": "2026-09-18T12:50:41.000Z"
-      },
-      {
-        "time": "10:29",
-        "title": "八重洲口前再開発 残ったビル2棟",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595786?source=rss",
-        "publishedAt": "2026-09-19T01:29:10.000Z"
       }
     ],
     "localHeadlines": [
@@ -226,7 +226,7 @@
       {
         "time": "16:00",
         "title": "大規模な設備投資に頼らず、食品工場のムダを現場から改善する株式会社HAKADORIを設立",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hZW0zbEtFYXI2Y1BzMkJIekpVMjBpcS04dDdrclhUeUVNdTBZakktbl9yZ1Y2Mmo1UUR2T04xblpjcDc2eDBQTjhiRjBVNDZWYlRNcHM5MGxoN2tSdm0zNmpWMGcyeUV1ZG1sSTVPNmY0dw?oc=5",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       }

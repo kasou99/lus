@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T08:41:06.171Z",
+  "updatedAt": "2026-09-19T09:17:13.247Z",
   "items": [
     {
-      "time": "15:28",
-      "title": "台風 太平洋側で道路への影響予想",
+      "time": "17:35",
+      "title": "千葉豪雨 半壊の9割支援金対象外",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595810?source=rss",
-      "publishedAt": "2026-09-19T06:28:06.000Z",
-      "xQuery": "台風 太平洋側で道路への影響予想"
+      "url": "https://news.yahoo.co.jp/pickup/6595823?source=rss",
+      "publishedAt": "2026-09-19T08:35:00.000Z",
+      "xQuery": "千葉豪雨 半壊の9割支援金対象外"
     },
     {
-      "time": "15:20",
-      "title": "AIで誤情報 米軍に一時緊張走る",
+      "time": "17:42",
+      "title": "台風25号 暴風や大雨の警戒期間は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595808?source=rss",
-      "publishedAt": "2026-09-19T06:20:49.000Z",
-      "xQuery": "AIで誤情報 米軍に一時緊張走る"
+      "url": "https://news.yahoo.co.jp/pickup/6595825?source=rss",
+      "publishedAt": "2026-09-19T08:42:05.000Z",
+      "xQuery": "台風25号 暴風や大雨の警戒期間は"
+    },
+    {
+      "time": "17:45",
+      "title": "連休のイベント中止続出 台風影響",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595824?source=rss",
+      "publishedAt": "2026-09-19T08:45:28.000Z",
+      "xQuery": "連休のイベント中止続出 台風影響"
     },
     {
       "time": "17:11",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595817?source=rss",
       "publishedAt": "2026-09-19T08:11:13.000Z",
       "xQuery": "衰弱死の16歳少女 訴え続けた無実"
-    },
-    {
-      "time": "16:02",
-      "title": "競技用車いすに車追突 選手が重体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595813?source=rss",
-      "publishedAt": "2026-09-19T07:02:46.000Z",
-      "xQuery": "競技用車いすに車追突 選手が重体"
     },
     {
       "time": "16:59",
