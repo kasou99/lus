@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T00:47:02.283Z",
+  "updatedAt": "2026-09-19T01:25:39.072Z",
   "items": [
     {
-      "time": "07:13",
-      "title": "台風 21日夕方〜夜に関東最接近か",
+      "time": "09:58",
+      "title": "台風25号 21日に関東に最接近か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595755?source=rss",
-      "publishedAt": "2026-09-18T22:13:30.000Z",
-      "xQuery": "台風 21日夕方〜夜に関東最接近か"
+      "url": "https://news.yahoo.co.jp/pickup/6595783?source=rss",
+      "publishedAt": "2026-09-19T00:58:49.000Z",
+      "xQuery": "台風25号 21日に関東に最接近か"
     },
     {
-      "time": "09:09",
-      "title": "内閣支持率が59%に上昇 読売調査",
+      "time": "08:39",
+      "title": "日米首脳会談 22日に米NYで開催",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595776?source=rss",
-      "publishedAt": "2026-09-19T00:09:47.000Z",
-      "xQuery": "内閣支持率が59%に上昇 読売調査"
+      "url": "https://news.yahoo.co.jp/pickup/6595772?source=rss",
+      "publishedAt": "2026-09-18T23:39:04.000Z",
+      "xQuery": "日米首脳会談 22日に米NYで開催"
     },
     {
-      "time": "09:05",
-      "title": "グリーンランド防衛 協定署名へ",
+      "time": "09:41",
+      "title": "患者に劇薬の鎮静剤無断投与 解雇",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595777?source=rss",
-      "publishedAt": "2026-09-19T00:05:57.000Z",
-      "xQuery": "グリーンランド防衛 協定署名へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595779?source=rss",
+      "publishedAt": "2026-09-19T00:41:39.000Z",
+      "xQuery": "患者に劇薬の鎮静剤無断投与 解雇"
     },
     {
-      "time": "07:15",
-      "title": "円急騰 政府日銀が円買い介入準備",
+      "time": "10:12",
+      "title": "散弾銃3丁など盗まれる 警察捜査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595754?source=rss",
-      "publishedAt": "2026-09-18T22:15:45.000Z",
-      "xQuery": "円急騰 政府日銀が円買い介入準備"
+      "url": "https://news.yahoo.co.jp/pickup/6595784?source=rss",
+      "publishedAt": "2026-09-19T01:12:48.000Z",
+      "xQuery": "散弾銃3丁など盗まれる 警察捜査"
     },
     {
-      "time": "09:22",
-      "title": "露 金獅子賞監督を「スパイ」指定",
+      "time": "09:53",
+      "title": "車道真ん中に2歳児 保護した男性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595778?source=rss",
-      "publishedAt": "2026-09-19T00:22:00.000Z",
-      "xQuery": "露 金獅子賞監督を「スパイ」指定"
+      "url": "https://news.yahoo.co.jp/pickup/6595781?source=rss",
+      "publishedAt": "2026-09-19T00:53:36.000Z",
+      "xQuery": "車道真ん中に2歳児 保護した男性"
     }
   ]
 };
