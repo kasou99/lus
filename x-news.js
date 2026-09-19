@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T05:16:19.407Z",
+  "updatedAt": "2026-09-19T05:37:44.790Z",
   "items": [
     {
       "time": "12:05",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "呼吸器材外れる ダイビング客死亡"
     },
     {
-      "time": "11:54",
-      "title": "酷暑の中で体育 娘死亡し父が提訴",
+      "time": "12:22",
+      "title": "timelesz猪俣周杜容疑者を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595788?source=rss",
-      "publishedAt": "2026-09-19T02:54:03.000Z",
-      "xQuery": "酷暑の中で体育 娘死亡し父が提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6595790?source=rss",
+      "publishedAt": "2026-09-19T03:22:18.000Z",
+      "xQuery": "timelesz猪俣周杜容疑者を逮捕"
     }
   ]
 };
