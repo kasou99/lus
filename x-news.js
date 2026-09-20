@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T14:36:37.384Z",
+  "updatedAt": "2026-09-20T15:14:41.064Z",
   "items": [
     {
-      "time": "22:44",
-      "title": "台風 地域ごとの雨風強まる時間は",
+      "time": "23:52",
+      "title": "関東南部など線状降水帯発生恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595966?source=rss",
-      "publishedAt": "2026-09-20T13:44:31.000Z",
-      "xQuery": "台風 地域ごとの雨風強まる時間は"
+      "url": "https://news.yahoo.co.jp/pickup/6595970?source=rss",
+      "publishedAt": "2026-09-20T14:52:14.000Z",
+      "xQuery": "関東南部など線状降水帯発生恐れ"
     },
     {
-      "time": "22:32",
-      "title": "北の体育相に日本側接触 返答なし",
+      "time": "17:46",
+      "title": "65歳以上の割合が29.6% 最高更新",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595963?source=rss",
-      "publishedAt": "2026-09-20T13:32:41.000Z",
-      "xQuery": "北の体育相に日本側接触 返答なし"
+      "url": "https://news.yahoo.co.jp/pickup/6595928?source=rss",
+      "publishedAt": "2026-09-20T08:46:28.000Z",
+      "xQuery": "65歳以上の割合が29.6% 最高更新"
     },
     {
       "time": "22:09",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "インドネシアの島 奴隷制の実態"
     },
     {
-      "time": "22:14",
-      "title": "男児重体の事故 酒の影響と容疑者",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595959?source=rss",
-      "publishedAt": "2026-09-20T13:14:09.000Z",
-      "xQuery": "男児重体の事故 酒の影響と容疑者"
-    },
-    {
       "time": "23:02",
       "title": "眼鏡を拾おうと川に入る 16歳死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595969?source=rss",
       "publishedAt": "2026-09-20T14:02:06.000Z",
       "xQuery": "眼鏡を拾おうと川に入る 16歳死亡"
+    },
+    {
+      "time": "21:07",
+      "title": "大会中に単独事故 公道ラリー中止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595954?source=rss",
+      "publishedAt": "2026-09-20T12:07:41.000Z",
+      "xQuery": "大会中に単独事故 公道ラリー中止"
     }
   ]
 };
