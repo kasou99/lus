@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T11:37:08.470Z",
+  "updatedAt": "2026-09-20T12:23:43.254Z",
   "items": [
     {
       "time": "19:13",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "全身やけどで90代死亡 近くに仏壇"
     },
     {
-      "time": "17:37",
-      "title": "駅エスカレーター複数転倒2人けが",
+      "time": "21:07",
+      "title": "大会中に単独事故 公道ラリー中止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595926?source=rss",
-      "publishedAt": "2026-09-20T08:37:26.000Z",
-      "xQuery": "駅エスカレーター複数転倒2人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6595954?source=rss",
+      "publishedAt": "2026-09-20T12:07:41.000Z",
+      "xQuery": "大会中に単独事故 公道ラリー中止"
     }
   ]
 };
