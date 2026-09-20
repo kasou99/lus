@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T12:23:43.254Z",
+  "updatedAt": "2026-09-20T12:43:18.416Z",
   "items": [
     {
       "time": "19:13",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 21日午後が雨風のピーク"
     },
     {
-      "time": "17:42",
-      "title": "墜落の空自無人偵察機 一部回収",
+      "time": "20:35",
+      "title": "小野寺五典氏 自民税調会長を続投",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595925?source=rss",
-      "publishedAt": "2026-09-20T08:42:06.000Z",
-      "xQuery": "墜落の空自無人偵察機 一部回収"
+      "url": "https://news.yahoo.co.jp/pickup/6595949?source=rss",
+      "publishedAt": "2026-09-20T11:35:14.000Z",
+      "xQuery": "小野寺五典氏 自民税調会長を続投"
     },
     {
       "time": "19:31",
