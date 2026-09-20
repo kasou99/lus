@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T00:54:13.208Z",
+  "updatedAt": "2026-09-20T01:31:28.779Z",
   "items": [
     {
-      "time": "07:17",
-      "title": "大型で強い台風 21日に関東最接近",
+      "time": "10:29",
+      "title": "関東と東海 今夜道路冠水の恐れも",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595856?source=rss",
-      "publishedAt": "2026-09-19T22:17:16.000Z",
-      "xQuery": "大型で強い台風 21日に関東最接近"
+      "url": "https://news.yahoo.co.jp/pickup/6595884?source=rss",
+      "publishedAt": "2026-09-20T01:29:51.000Z",
+      "xQuery": "関東と東海 今夜道路冠水の恐れも"
     },
     {
-      "time": "08:07",
-      "title": "トランプ氏「AIフォース創設」",
+      "time": "08:17",
+      "title": "犬猫の保護依頼増 飼い主が高齢化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595864?source=rss",
-      "publishedAt": "2026-09-19T23:07:43.000Z",
-      "xQuery": "トランプ氏「AIフォース創設」"
+      "url": "https://news.yahoo.co.jp/pickup/6595865?source=rss",
+      "publishedAt": "2026-09-19T23:17:48.000Z",
+      "xQuery": "犬猫の保護依頼増 飼い主が高齢化"
     },
     {
       "time": "08:27",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "6歳行方不明 現場の警察官の執念"
     },
     {
-      "time": "08:34",
-      "title": "漁船に一時クマ乗り込む 船員無事",
+      "time": "08:54",
+      "title": "今年11カ所で花火大会中止 物価高",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595868?source=rss",
-      "publishedAt": "2026-09-19T23:34:10.000Z",
-      "xQuery": "漁船に一時クマ乗り込む 船員無事"
+      "url": "https://news.yahoo.co.jp/pickup/6595871?source=rss",
+      "publishedAt": "2026-09-19T23:54:27.000Z",
+      "xQuery": "今年11カ所で花火大会中止 物価高"
     },
     {
-      "time": "08:17",
-      "title": "東京のゲンジボタル7割「よそ者」",
+      "time": "09:18",
+      "title": "4年でケアマネ300人以上減 新潟県",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595867?source=rss",
-      "publishedAt": "2026-09-19T23:17:42.000Z",
-      "xQuery": "東京のゲンジボタル7割「よそ者」"
+      "url": "https://news.yahoo.co.jp/pickup/6595874?source=rss",
+      "publishedAt": "2026-09-20T00:18:30.000Z",
+      "xQuery": "4年でケアマネ300人以上減 新潟県"
     }
   ]
 };
