@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-09-20T13:15:02.455Z",
+  "updatedAt": "2026-09-20T13:36:29.308Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "15:07",
-        "title": "画像・写真 | DAIGO＆北川景子、週1で作る料理を明かす「ある程度作っておいて冷蔵しておけば」…子どもたちの好みも 1枚目",
-        "source": "オリコンニュース",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uVUhXTE1iYWozTkZkeHhaWmFSLXB4WW12ck1sbW5jVExQWVRrcGluUUxNUmxRMWxHMVhEUkZ4c2lCWXNsU2M4NWFDRDgtSjV0SFpJY2dwMTYzdw?oc=5",
-        "publishedAt": "2026-09-20T06:07:00.000Z"
-      },
       {
         "time": "12:42",
         "title": "パンを留める“アレ”が『キン肉マン』グッズ化。理由は「ロビンマスクのひさしにしか見えなくなった」から",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595885?source=rss",
         "publishedAt": "2026-09-20T01:50:31.000Z"
+      },
+      {
+        "time": "08:54",
+        "title": "今年11カ所で花火大会中止 物価高",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595871?source=rss",
+        "publishedAt": "2026-09-19T23:54:27.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-20T10:31:10.000Z"
       },
       {
+        "time": "22:14",
+        "title": "男児重体の事故 酒の影響と容疑者",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595959?source=rss",
+        "publishedAt": "2026-09-20T13:14:09.000Z"
+      },
+      {
         "time": "17:37",
         "title": "駅エスカレーター複数転倒2人けが",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595926?source=rss",
         "publishedAt": "2026-09-20T08:37:26.000Z"
-      },
-      {
-        "time": "16:48",
-        "title": "タクシーがバイクと衝突 男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595919?source=rss",
-        "publishedAt": "2026-09-20T07:48:02.000Z"
       }
     ],
     "subsidyHeadlines": [
