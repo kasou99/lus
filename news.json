@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T23:37:47.807Z",
+  "updatedAt": "2026-09-20T00:54:12.307Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-18T22:45:54.000Z"
       },
       {
-        "time": "07:57",
-        "title": "バフェット氏 投資会社の会長退任",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595763?source=rss",
-        "publishedAt": "2026-09-18T22:57:55.000Z"
-      },
-      {
         "time": "10:29",
         "title": "八重洲口前再開発 残ったビル2棟",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595786?source=rss",
         "publishedAt": "2026-09-19T01:29:10.000Z"
+      },
+      {
+        "time": "08:54",
+        "title": "今年11カ所で花火大会中止 物価高",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595871?source=rss",
+        "publishedAt": "2026-09-19T23:54:27.000Z"
       }
     ],
     "worldHeadlines": [
@@ -96,11 +96,11 @@
         "publishedAt": "2026-09-19T13:46:37.000Z"
       },
       {
-        "time": "07:37",
-        "title": "露下院選 帰還兵180人超が立候補",
+        "time": "09:22",
+        "title": "ホワイトハウス CNN記者証を没収",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595760?source=rss",
-        "publishedAt": "2026-09-18T22:37:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595876?source=rss",
+        "publishedAt": "2026-09-20T00:22:22.000Z"
       }
     ],
     "economyHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-09-18T22:45:54.000Z"
       },
       {
-        "time": "07:57",
-        "title": "バフェット氏 投資会社の会長退任",
+        "time": "10:29",
+        "title": "八重洲口前再開発 残ったビル2棟",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595763?source=rss",
-        "publishedAt": "2026-09-18T22:57:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595786?source=rss",
+        "publishedAt": "2026-09-19T01:29:10.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,13 +154,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595823?source=rss",
         "publishedAt": "2026-09-19T08:35:00.000Z"
-      },
-      {
-        "time": "20:32",
-        "title": "作業員4人死亡 複数のミス連鎖か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595837?source=rss",
-        "publishedAt": "2026-09-19T11:32:38.000Z"
       },
       {
         "time": "21:52",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595870?source=rss",
         "publishedAt": "2026-09-19T23:27:02.000Z"
+      },
+      {
+        "time": "20:32",
+        "title": "作業員4人死亡 複数のミス連鎖か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595837?source=rss",
+        "publishedAt": "2026-09-19T11:32:38.000Z"
       },
       {
         "time": "08:34",

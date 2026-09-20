@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-19T23:37:48.544Z",
+  "updatedAt": "2026-09-20T00:54:13.208Z",
   "items": [
     {
       "time": "07:17",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大型で強い台風 21日に関東最接近"
     },
     {
-      "time": "07:43",
-      "title": "最高裁調査官の報告書 見つかる",
+      "time": "08:07",
+      "title": "トランプ氏「AIフォース創設」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595860?source=rss",
-      "publishedAt": "2026-09-19T22:43:23.000Z",
-      "xQuery": "最高裁調査官の報告書 見つかる"
-    },
-    {
-      "time": "07:36",
-      "title": "フーシ派 サウジ首都攻撃と主張",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595859?source=rss",
-      "publishedAt": "2026-09-19T22:36:45.000Z",
-      "xQuery": "フーシ派 サウジ首都攻撃と主張"
+      "url": "https://news.yahoo.co.jp/pickup/6595864?source=rss",
+      "publishedAt": "2026-09-19T23:07:43.000Z",
+      "xQuery": "トランプ氏「AIフォース創設」"
     },
     {
       "time": "08:27",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "6歳行方不明 現場の警察官の執念"
     },
     {
-      "time": "21:10",
-      "title": "クジラ漂着 台風接近で撤去見送り",
+      "time": "08:34",
+      "title": "漁船に一時クマ乗り込む 船員無事",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595843?source=rss",
-      "publishedAt": "2026-09-19T12:10:11.000Z",
-      "xQuery": "クジラ漂着 台風接近で撤去見送り"
+      "url": "https://news.yahoo.co.jp/pickup/6595868?source=rss",
+      "publishedAt": "2026-09-19T23:34:10.000Z",
+      "xQuery": "漁船に一時クマ乗り込む 船員無事"
+    },
+    {
+      "time": "08:17",
+      "title": "東京のゲンジボタル7割「よそ者」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595867?source=rss",
+      "publishedAt": "2026-09-19T23:17:42.000Z",
+      "xQuery": "東京のゲンジボタル7割「よそ者」"
     }
   ]
 };
