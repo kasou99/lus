@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T03:43:13.942Z",
+  "updatedAt": "2026-09-20T04:20:14.116Z",
   "items": [
     {
       "time": "10:29",
@@ -10,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "関東と東海 今夜道路冠水の恐れも"
     },
     {
-      "time": "09:22",
-      "title": "ホワイトハウス CNN記者証を没収",
+      "time": "13:02",
+      "title": "沖縄知事選受け 自衛隊南西シフト",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595876?source=rss",
-      "publishedAt": "2026-09-20T00:22:22.000Z",
-      "xQuery": "ホワイトハウス CNN記者証を没収"
+      "url": "https://news.yahoo.co.jp/pickup/6595893?source=rss",
+      "publishedAt": "2026-09-20T04:02:49.000Z",
+      "xQuery": "沖縄知事選受け 自衛隊南西シフト"
+    },
+    {
+      "time": "13:07",
+      "title": "「娘の死で商売」豪雨後の中傷",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595891?source=rss",
+      "publishedAt": "2026-09-20T04:07:25.000Z",
+      "xQuery": "「娘の死で商売」豪雨後の中傷"
+    },
+    {
+      "time": "12:45",
+      "title": "移動距離5m 短い避難訓練の狙い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595890?source=rss",
+      "publishedAt": "2026-09-20T03:45:23.000Z",
+      "xQuery": "移動距離5m 短い避難訓練の狙い"
     },
     {
       "time": "11:17",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595886?source=rss",
       "publishedAt": "2026-09-20T02:17:00.000Z",
       "xQuery": "高2死亡 殺人疑いで少年4人再逮捕"
-    },
-    {
-      "time": "11:27",
-      "title": "横断歩道で77歳はねられ死亡 茨城",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595888?source=rss",
-      "publishedAt": "2026-09-20T02:27:55.000Z",
-      "xQuery": "横断歩道で77歳はねられ死亡 茨城"
-    },
-    {
-      "time": "10:50",
-      "title": "iPhone Duo経費にできる?注意点",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595885?source=rss",
-      "publishedAt": "2026-09-20T01:50:31.000Z",
-      "xQuery": "iPhone Duo経費にできる?注意点"
     }
   ]
 };
