@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T10:36:39.919Z",
+  "updatedAt": "2026-09-20T11:13:41.110Z",
   "items": [
     {
       "time": "19:13",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "北再びミサイル発射 EEZ外落下か"
     },
     {
-      "time": "17:02",
-      "title": "東国原氏を書類送検 名誉毀損疑い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595922?source=rss",
-      "publishedAt": "2026-09-20T08:02:45.000Z",
-      "xQuery": "東国原氏を書類送検 名誉毀損疑い"
-    },
-    {
       "time": "19:31",
       "title": "眼鏡を拾おうと川に入る 男性死亡",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595926?source=rss",
       "publishedAt": "2026-09-20T08:37:26.000Z",
       "xQuery": "駅エスカレーター複数転倒2人けが"
+    },
+    {
+      "time": "18:28",
+      "title": "道徳的問い AI反論で3割判断覆す",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595935?source=rss",
+      "publishedAt": "2026-09-20T09:28:27.000Z",
+      "xQuery": "道徳的問い AI反論で3割判断覆す"
     }
   ]
 };

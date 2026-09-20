@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-20T10:36:38.836Z",
+  "updatedAt": "2026-09-20T11:13:40.163Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:07",
+        "title": "画像・写真 | DAIGO＆北川景子、週1で作る料理を明かす「ある程度作っておいて冷蔵しておけば」…子どもたちの好みも 1枚目",
+        "source": "オリコンニュース",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uVUhXTE1iYWozTkZkeHhaWmFSLXB4WW12ck1sbW5jVExQWVRrcGluUUxNUmxRMWxHMVhEUkZ4c2lCWXNsU2M4NWFDRDgtSjV0SFpJY2dwMTYzdw?oc=5",
+        "publishedAt": "2026-09-20T06:07:00.000Z"
+      },
       {
         "time": "12:42",
         "title": "パンを留める“アレ”が『キン肉マン』グッズ化。理由は「ロビンマスクのひさしにしか見えなくなった」から",
@@ -12,7 +19,7 @@
       {
         "time": "05:23",
         "title": "儲かるのはメーカーだけじゃない。IDEC（6652）のような制御機器を工場現場へ流し込む立花エレテック（8159）、FA復活をまるごと取りにいく地味すぎる勝ち組｜日本個別株デューデリジェンスセンター",
-        "source": "note.com",
+        "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MVGMwdGY4TkhSQjNHdFVMTEkyY013OHRUSUlabHZQbTJGU3NHRjY3eWxGaHdiQ3pIZ1BRZWxrR2ZHaGRJT25aTlY3NUlkYVBJTEcwOTA0VnE1LW8?oc=5",
         "publishedAt": "2026-09-19T20:23:44.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595885?source=rss",
         "publishedAt": "2026-09-20T01:50:31.000Z"
-      },
-      {
-        "time": "08:54",
-        "title": "今年11カ所で花火大会中止 物価高",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595871?source=rss",
-        "publishedAt": "2026-09-19T23:54:27.000Z"
       }
     ],
     "worldHeadlines": [
