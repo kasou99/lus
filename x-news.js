@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T01:31:28.779Z",
+  "updatedAt": "2026-09-20T02:25:42.590Z",
   "items": [
     {
       "time": "10:29",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "関東と東海 今夜道路冠水の恐れも"
     },
     {
-      "time": "08:17",
-      "title": "犬猫の保護依頼増 飼い主が高齢化",
+      "time": "09:22",
+      "title": "ホワイトハウス CNN記者証を没収",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595865?source=rss",
-      "publishedAt": "2026-09-19T23:17:48.000Z",
-      "xQuery": "犬猫の保護依頼増 飼い主が高齢化"
+      "url": "https://news.yahoo.co.jp/pickup/6595876?source=rss",
+      "publishedAt": "2026-09-20T00:22:22.000Z",
+      "xQuery": "ホワイトハウス CNN記者証を没収"
+    },
+    {
+      "time": "11:17",
+      "title": "高2死亡 殺人疑いで少年4人再逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595886?source=rss",
+      "publishedAt": "2026-09-20T02:17:00.000Z",
+      "xQuery": "高2死亡 殺人疑いで少年4人再逮捕"
     },
     {
       "time": "08:27",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595870?source=rss",
       "publishedAt": "2026-09-19T23:27:02.000Z",
       "xQuery": "6歳行方不明 現場の警察官の執念"
-    },
-    {
-      "time": "08:54",
-      "title": "今年11カ所で花火大会中止 物価高",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595871?source=rss",
-      "publishedAt": "2026-09-19T23:54:27.000Z",
-      "xQuery": "今年11カ所で花火大会中止 物価高"
     },
     {
       "time": "09:18",
