@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T22:15:05.333Z",
+  "updatedAt": "2026-09-20T22:36:45.887Z",
   "items": [
     {
       "time": "07:07",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "眼鏡を拾おうと川に入る 16歳死亡"
     },
     {
-      "time": "21:07",
-      "title": "大会中に単独事故 公道ラリー中止",
+      "time": "22:05",
+      "title": "妊娠中にがん発覚 母になり旅立つ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595954?source=rss",
-      "publishedAt": "2026-09-20T12:07:41.000Z",
-      "xQuery": "大会中に単独事故 公道ラリー中止"
+      "url": "https://news.yahoo.co.jp/pickup/6595961?source=rss",
+      "publishedAt": "2026-09-20T13:05:26.000Z",
+      "xQuery": "妊娠中にがん発覚 母になり旅立つ"
     }
   ]
 };
