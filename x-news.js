@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T08:41:43.565Z",
+  "updatedAt": "2026-09-20T09:17:17.922Z",
   "items": [
+    {
+      "time": "18:14",
+      "title": "北朝鮮再びミサイル発射し落下か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595934?source=rss",
+      "publishedAt": "2026-09-20T09:14:53.000Z",
+      "xQuery": "北朝鮮再びミサイル発射し落下か"
+    },
     {
       "time": "16:28",
       "title": "台風 21日昼-夜遅くに関東最接近",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東国原氏を書類送検 名誉毀損疑い"
     },
     {
-      "time": "16:48",
-      "title": "タクシーがバイクと衝突 男性死亡",
+      "time": "17:37",
+      "title": "駅エスカレーター複数転倒2人けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595919?source=rss",
-      "publishedAt": "2026-09-20T07:48:02.000Z",
-      "xQuery": "タクシーがバイクと衝突 男性死亡"
-    },
-    {
-      "time": "14:59",
-      "title": "自転車がひき逃げ 80代女性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595909?source=rss",
-      "publishedAt": "2026-09-20T05:59:09.000Z",
-      "xQuery": "自転車がひき逃げ 80代女性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6595926?source=rss",
+      "publishedAt": "2026-09-20T08:37:26.000Z",
+      "xQuery": "駅エスカレーター複数転倒2人けが"
     }
   ]
 };
