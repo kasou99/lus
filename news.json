@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T08:22:15.864Z",
+  "updatedAt": "2026-09-20T08:41:42.631Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "05:23",
         "title": "儲かるのはメーカーだけじゃない。IDEC（6652）のような制御機器を工場現場へ流し込む立花エレテック（8159）、FA復活をまるごと取りにいく地味すぎる勝ち組｜日本個別株デューデリジェンスセンター",
-        "source": "note.com",
+        "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MVGMwdGY4TkhSQjNHdFVMTEkyY013OHRUSUlabHZQbTJGU3NHRjY3eWxGaHdiQ3pIZ1BRZWxrR2ZHaGRJT25aTlY3NUlkYVBJTEcwOTA0VnE1LW8?oc=5",
         "publishedAt": "2026-09-19T20:23:44.000Z"
       },
@@ -163,6 +163,20 @@
         "publishedAt": "2026-09-20T02:17:00.000Z"
       },
       {
+        "time": "17:37",
+        "title": "駅エスカレーター複数転倒2人けが",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595926?source=rss",
+        "publishedAt": "2026-09-20T08:37:26.000Z"
+      },
+      {
+        "time": "08:34",
+        "title": "漁船に一時クマ乗り込む 船員無事",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595868?source=rss",
+        "publishedAt": "2026-09-19T23:34:10.000Z"
+      },
+      {
         "time": "16:48",
         "title": "タクシーがバイクと衝突 男性死亡",
         "source": "Yahoo!ニュース",
@@ -175,20 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595909?source=rss",
         "publishedAt": "2026-09-20T05:59:09.000Z"
-      },
-      {
-        "time": "17:02",
-        "title": "東国原氏を書類送検 名誉毀損疑い",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595922?source=rss",
-        "publishedAt": "2026-09-20T08:02:45.000Z"
-      },
-      {
-        "time": "08:27",
-        "title": "6歳行方不明 現場の警察官の執念",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595870?source=rss",
-        "publishedAt": "2026-09-19T23:27:02.000Z"
       }
     ],
     "subsidyHeadlines": [
