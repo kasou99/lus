@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T22:36:45.311Z",
+  "updatedAt": "2026-09-20T23:15:26.431Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-09-20T06:02:14.000Z"
       },
       {
+        "time": "08:05",
+        "title": "渋谷で若者離れ? 人流データ分析",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595978?source=rss",
+        "publishedAt": "2026-09-20T23:05:01.000Z"
+      },
+      {
         "time": "22:57",
         "title": "油揚げの包装に職人名を記載 狙い",
         "source": "Yahoo!ニュース",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595955?source=rss",
         "publishedAt": "2026-09-20T12:29:34.000Z"
-      },
-      {
-        "time": "10:50",
-        "title": "iPhone Duo経費にできる?注意点",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595885?source=rss",
-        "publishedAt": "2026-09-20T01:50:31.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-09-20T06:02:14.000Z"
       },
       {
+        "time": "08:05",
+        "title": "渋谷で若者離れ? 人流データ分析",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595978?source=rss",
+        "publishedAt": "2026-09-20T23:05:01.000Z"
+      },
+      {
         "time": "22:57",
         "title": "油揚げの包装に職人名を記載 狙い",
         "source": "Yahoo!ニュース",
@@ -138,29 +145,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595885?source=rss",
         "publishedAt": "2026-09-20T01:50:31.000Z"
-      },
-      {
-        "time": "13:35",
-        "title": "タイパ無視 ひたすら石を磨く90分",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595897?source=rss",
-        "publishedAt": "2026-09-20T04:35:30.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "08:10",
+        "title": "豪雨で同級生失い 自衛官志す17歳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595979?source=rss",
+        "publishedAt": "2026-09-20T23:10:31.000Z"
+      },
       {
         "time": "13:07",
         "title": "「娘の死で商売」豪雨後の中傷",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595891?source=rss",
         "publishedAt": "2026-09-20T04:07:25.000Z"
-      },
-      {
-        "time": "11:17",
-        "title": "高2死亡 殺人疑いで少年4人再逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595886?source=rss",
-        "publishedAt": "2026-09-20T02:17:00.000Z"
       },
       {
         "time": "20:31",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-09-20T13:14:09.000Z"
       },
       {
-        "time": "17:37",
-        "title": "駅エスカレーター複数転倒2人けが",
+        "time": "08:01",
+        "title": "子どもを追い込む指導 悩む教員",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595926?source=rss",
-        "publishedAt": "2026-09-20T08:37:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595977?source=rss",
+        "publishedAt": "2026-09-20T23:01:55.000Z"
       }
     ],
     "subsidyHeadlines": [

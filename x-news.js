@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T22:36:45.887Z",
+  "updatedAt": "2026-09-20T23:15:27.282Z",
   "items": [
     {
       "time": "07:07",
@@ -10,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "台風21日午後に関東最接近 警戒を"
     },
     {
-      "time": "17:46",
-      "title": "65歳以上の割合が29.6% 最高更新",
+      "time": "07:35",
+      "title": "首相が国連初演説へ ICC言及焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595928?source=rss",
-      "publishedAt": "2026-09-20T08:46:28.000Z",
-      "xQuery": "65歳以上の割合が29.6% 最高更新"
+      "url": "https://news.yahoo.co.jp/pickup/6595975?source=rss",
+      "publishedAt": "2026-09-20T22:35:28.000Z",
+      "xQuery": "首相が国連初演説へ ICC言及焦点"
     },
     {
-      "time": "22:09",
-      "title": "インドネシアの島 奴隷制の実態",
+      "time": "08:01",
+      "title": "子どもを追い込む指導 悩む教員",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595960?source=rss",
-      "publishedAt": "2026-09-20T13:09:01.000Z",
-      "xQuery": "インドネシアの島 奴隷制の実態"
+      "url": "https://news.yahoo.co.jp/pickup/6595977?source=rss",
+      "publishedAt": "2026-09-20T23:01:55.000Z",
+      "xQuery": "子どもを追い込む指導 悩む教員"
+    },
+    {
+      "time": "08:05",
+      "title": "渋谷で若者離れ? 人流データ分析",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595978?source=rss",
+      "publishedAt": "2026-09-20T23:05:01.000Z",
+      "xQuery": "渋谷で若者離れ? 人流データ分析"
     },
     {
       "time": "23:02",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595969?source=rss",
       "publishedAt": "2026-09-20T14:02:06.000Z",
       "xQuery": "眼鏡を拾おうと川に入る 16歳死亡"
-    },
-    {
-      "time": "22:05",
-      "title": "妊娠中にがん発覚 母になり旅立つ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595961?source=rss",
-      "publishedAt": "2026-09-20T13:05:26.000Z",
-      "xQuery": "妊娠中にがん発覚 母になり旅立つ"
     }
   ]
 };
