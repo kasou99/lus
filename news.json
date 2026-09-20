@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T03:21:45.957Z",
+  "updatedAt": "2026-09-20T03:43:12.803Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "note.com",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MVGMwdGY4TkhSQjNHdFVMTEkyY013OHRUSUlabHZQbTJGU3NHRjY3eWxGaHdiQ3pIZ1BRZWxrR2ZHaGRJT25aTlY3NUlkYVBJTEcwOTA0VnE1LW8?oc=5",
         "publishedAt": "2026-09-19T20:23:44.000Z"
+      },
+      {
+        "time": "13:01",
+        "title": "セラミックスピンドルベアリング市場2035年予測：半導体・工作機械需要が成長を牽引 - ニュースと統計",
+        "source": "IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNVNQQlhPNFFtNW5XZXhnZEpJQWJTMmZPMXpfZk4zMEk1NnVfYmc5Qlh1bndKa1dhdkFyTVdQbUtZenkyWVN2MzlOd3F4M3JwSkVXOFJfdFpYQWJjRzR3bTMxTk1aWHVoak5EdnNVSWJiS1pPbTNZcFdBYkhQWFY3cnNkWTVlanlMRDk5cFJmTWZpZlBSdXBnWkl3d08xUHFTV1R2YVpoOGxkUXdCemhlU0NxWHk2S0pCaUR0ZDNQbTVORXFBY2VCNmY2UUlaVWRZMGc?oc=5",
+        "publishedAt": "2026-09-19T04:01:18.000Z"
       },
       {
         "time": "18:31",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595871?source=rss",
         "publishedAt": "2026-09-19T23:54:27.000Z"
-      },
-      {
-        "time": "09:05",
-        "title": "弁当店の倒産急増 過去最多見通し",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595773?source=rss",
-        "publishedAt": "2026-09-19T00:05:35.000Z"
       }
     ],
     "worldHeadlines": [
