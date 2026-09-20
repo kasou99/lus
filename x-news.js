@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T06:49:23.803Z",
+  "updatedAt": "2026-09-20T07:18:15.682Z",
   "items": [
     {
       "time": "15:46",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風が21日関東接近 氾濫など警戒"
     },
     {
-      "time": "13:07",
-      "title": "「娘の死で商売」豪雨後の中傷",
+      "time": "15:30",
+      "title": "台風影響 21日のイベ中止相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595891?source=rss",
-      "publishedAt": "2026-09-20T04:07:25.000Z",
-      "xQuery": "「娘の死で商売」豪雨後の中傷"
+      "url": "https://news.yahoo.co.jp/pickup/6595913?source=rss",
+      "publishedAt": "2026-09-20T06:30:00.000Z",
+      "xQuery": "台風影響 21日のイベ中止相次ぐ"
     },
     {
       "time": "14:37",
