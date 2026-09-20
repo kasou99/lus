@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T02:25:42.590Z",
+  "updatedAt": "2026-09-20T02:44:51.536Z",
   "items": [
     {
       "time": "10:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "高2死亡 殺人疑いで少年4人再逮捕"
     },
     {
-      "time": "08:27",
-      "title": "6歳行方不明 現場の警察官の執念",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595870?source=rss",
-      "publishedAt": "2026-09-19T23:27:02.000Z",
-      "xQuery": "6歳行方不明 現場の警察官の執念"
-    },
-    {
       "time": "09:18",
       "title": "4年でケアマネ300人以上減 新潟県",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595874?source=rss",
       "publishedAt": "2026-09-20T00:18:30.000Z",
       "xQuery": "4年でケアマネ300人以上減 新潟県"
+    },
+    {
+      "time": "10:50",
+      "title": "iPhone Duo経費にできる?注意点",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595885?source=rss",
+      "publishedAt": "2026-09-20T01:50:31.000Z",
+      "xQuery": "iPhone Duo経費にできる?注意点"
     }
   ]
 };
