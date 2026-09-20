@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-20T12:43:17.652Z",
+  "updatedAt": "2026-09-20T13:15:02.455Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:07",
+        "title": "画像・写真 | DAIGO＆北川景子、週1で作る料理を明かす「ある程度作っておいて冷蔵しておけば」…子どもたちの好みも 1枚目",
+        "source": "オリコンニュース",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uVUhXTE1iYWozTkZkeHhaWmFSLXB4WW12ck1sbW5jVExQWVRrcGluUUxNUmxRMWxHMVhEUkZ4c2lCWXNsU2M4NWFDRDgtSjV0SFpJY2dwMTYzdw?oc=5",
+        "publishedAt": "2026-09-20T06:07:00.000Z"
+      },
       {
         "time": "12:42",
         "title": "パンを留める“アレ”が『キン肉マン』グッズ化。理由は「ロビンマスクのひさしにしか見えなくなった」から",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595885?source=rss",
         "publishedAt": "2026-09-20T01:50:31.000Z"
-      },
-      {
-        "time": "08:54",
-        "title": "今年11カ所で花火大会中止 物価高",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595871?source=rss",
-        "publishedAt": "2026-09-19T23:54:27.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,13 +73,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595910?source=rss",
         "publishedAt": "2026-09-20T06:17:03.000Z"
-      },
-      {
-        "time": "13:42",
-        "title": "対露制裁法が成立 トランプ氏署名",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595796?source=rss",
-        "publishedAt": "2026-09-19T04:42:39.000Z"
       },
       {
         "time": "15:20",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595851?source=rss",
         "publishedAt": "2026-09-19T13:46:37.000Z"
+      },
+      {
+        "time": "09:22",
+        "title": "ホワイトハウス CNN記者証を没収",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595876?source=rss",
+        "publishedAt": "2026-09-20T00:22:22.000Z"
       }
     ],
     "economyHeadlines": [

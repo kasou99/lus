@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T12:43:18.416Z",
+  "updatedAt": "2026-09-20T13:15:03.221Z",
   "items": [
     {
       "time": "19:13",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "小野寺五典氏 自民税調会長を続投"
     },
     {
+      "time": "21:52",
+      "title": "米大統領 なぜAIの名称変更を提案",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595957?source=rss",
+      "publishedAt": "2026-09-20T12:52:27.000Z",
+      "xQuery": "米大統領 なぜAIの名称変更を提案"
+    },
+    {
       "time": "19:31",
       "title": "眼鏡を拾おうと川に入る 男性死亡",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "眼鏡を拾おうと川に入る 男性死亡"
     },
     {
-      "time": "20:31",
-      "title": "全身やけどで90代死亡 近くに仏壇",
+      "time": "22:05",
+      "title": "妊娠中にがん発覚 母になり旅立つ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595948?source=rss",
-      "publishedAt": "2026-09-20T11:31:12.000Z",
-      "xQuery": "全身やけどで90代死亡 近くに仏壇"
-    },
-    {
-      "time": "21:07",
-      "title": "大会中に単独事故 公道ラリー中止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595954?source=rss",
-      "publishedAt": "2026-09-20T12:07:41.000Z",
-      "xQuery": "大会中に単独事故 公道ラリー中止"
+      "url": "https://news.yahoo.co.jp/pickup/6595961?source=rss",
+      "publishedAt": "2026-09-20T13:05:26.000Z",
+      "xQuery": "妊娠中にがん発覚 母になり旅立つ"
     }
   ]
 };
