@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T09:37:36.548Z",
+  "updatedAt": "2026-09-20T10:15:26.842Z",
   "items": [
     {
-      "time": "18:14",
-      "title": "北朝鮮再びミサイル発射し落下か",
+      "time": "18:44",
+      "title": "北再びミサイル発射 EEZ外落下か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595934?source=rss",
-      "publishedAt": "2026-09-20T09:14:53.000Z",
-      "xQuery": "北朝鮮再びミサイル発射し落下か"
+      "url": "https://news.yahoo.co.jp/pickup/6595937?source=rss",
+      "publishedAt": "2026-09-20T09:44:29.000Z",
+      "xQuery": "北再びミサイル発射 EEZ外落下か"
     },
     {
-      "time": "16:28",
-      "title": "台風 21日昼-夜遅くに関東最接近",
+      "time": "19:13",
+      "title": "台風 21日午後が雨風のピーク",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595918?source=rss",
-      "publishedAt": "2026-09-20T07:28:24.000Z",
-      "xQuery": "台風 21日昼-夜遅くに関東最接近"
+      "url": "https://news.yahoo.co.jp/pickup/6595939?source=rss",
+      "publishedAt": "2026-09-20T10:13:29.000Z",
+      "xQuery": "台風 21日午後が雨風のピーク"
     },
     {
       "time": "15:17",
