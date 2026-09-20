@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T10:15:26.842Z",
+  "updatedAt": "2026-09-20T10:36:39.919Z",
   "items": [
-    {
-      "time": "18:44",
-      "title": "北再びミサイル発射 EEZ外落下か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595937?source=rss",
-      "publishedAt": "2026-09-20T09:44:29.000Z",
-      "xQuery": "北再びミサイル発射 EEZ外落下か"
-    },
     {
       "time": "19:13",
       "title": "台風 21日午後が雨風のピーク",
@@ -18,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 21日午後が雨風のピーク"
     },
     {
-      "time": "15:17",
-      "title": "ウクライナ 日本に首脳会談要請",
+      "time": "18:44",
+      "title": "北再びミサイル発射 EEZ外落下か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595910?source=rss",
-      "publishedAt": "2026-09-20T06:17:03.000Z",
-      "xQuery": "ウクライナ 日本に首脳会談要請"
+      "url": "https://news.yahoo.co.jp/pickup/6595937?source=rss",
+      "publishedAt": "2026-09-20T09:44:29.000Z",
+      "xQuery": "北再びミサイル発射 EEZ外落下か"
     },
     {
       "time": "17:02",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595922?source=rss",
       "publishedAt": "2026-09-20T08:02:45.000Z",
       "xQuery": "東国原氏を書類送検 名誉毀損疑い"
+    },
+    {
+      "time": "19:31",
+      "title": "眼鏡を拾おうと川に入る 男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595942?source=rss",
+      "publishedAt": "2026-09-20T10:31:10.000Z",
+      "xQuery": "眼鏡を拾おうと川に入る 男性死亡"
     },
     {
       "time": "17:37",

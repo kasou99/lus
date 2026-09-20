@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T10:15:25.736Z",
+  "updatedAt": "2026-09-20T10:36:38.836Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,18 +163,18 @@
         "publishedAt": "2026-09-20T02:17:00.000Z"
       },
       {
+        "time": "19:31",
+        "title": "眼鏡を拾おうと川に入る 男性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595942?source=rss",
+        "publishedAt": "2026-09-20T10:31:10.000Z"
+      },
+      {
         "time": "17:37",
         "title": "駅エスカレーター複数転倒2人けが",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595926?source=rss",
         "publishedAt": "2026-09-20T08:37:26.000Z"
-      },
-      {
-        "time": "08:34",
-        "title": "漁船に一時クマ乗り込む 船員無事",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595868?source=rss",
-        "publishedAt": "2026-09-19T23:34:10.000Z"
       },
       {
         "time": "16:48",
