@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T06:27:48.216Z",
+  "updatedAt": "2026-09-20T06:49:23.803Z",
   "items": [
     {
-      "time": "15:16",
-      "title": "北朝鮮のミサイルはすでに落下か",
+      "time": "15:46",
+      "title": "北朝鮮のミサイルEEZ外に落下か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595912?source=rss",
-      "publishedAt": "2026-09-20T06:16:33.000Z",
-      "xQuery": "北朝鮮のミサイルはすでに落下か"
+      "url": "https://news.yahoo.co.jp/pickup/6595915?source=rss",
+      "publishedAt": "2026-09-20T06:46:30.000Z",
+      "xQuery": "北朝鮮のミサイルEEZ外に落下か"
     },
     {
       "time": "14:37",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "台風が21日関東接近 氾濫など警戒"
     },
     {
-      "time": "14:37",
-      "title": "岡田克也氏 新党への参加を明言",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595906?source=rss",
-      "publishedAt": "2026-09-20T05:37:09.000Z",
-      "xQuery": "岡田克也氏 新党への参加を明言"
-    },
-    {
       "time": "13:07",
       "title": "「娘の死で商売」豪雨後の中傷",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「娘の死で商売」豪雨後の中傷"
     },
     {
-      "time": "13:06",
-      "title": "車とバイクが事故 歩道の3歳重体",
+      "time": "14:37",
+      "title": "岡田克也氏 新党への参加を明言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595894?source=rss",
-      "publishedAt": "2026-09-20T04:06:55.000Z",
-      "xQuery": "車とバイクが事故 歩道の3歳重体"
+      "url": "https://news.yahoo.co.jp/pickup/6595906?source=rss",
+      "publishedAt": "2026-09-20T05:37:09.000Z",
+      "xQuery": "岡田克也氏 新党への参加を明言"
+    },
+    {
+      "time": "14:59",
+      "title": "自転車がひき逃げ 80代女性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595909?source=rss",
+      "publishedAt": "2026-09-20T05:59:09.000Z",
+      "xQuery": "自転車がひき逃げ 80代女性死亡"
     }
   ]
 };

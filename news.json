@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T06:27:47.577Z",
+  "updatedAt": "2026-09-20T06:49:23.052Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "05:23",
         "title": "儲かるのはメーカーだけじゃない。IDEC（6652）のような制御機器を工場現場へ流し込む立花エレテック（8159）、FA復活をまるごと取りにいく地味すぎる勝ち組｜日本個別株デューデリジェンスセンター",
-        "source": "note.com",
+        "source": "note",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MVGMwdGY4TkhSQjNHdFVMTEkyY013OHRUSUlabHZQbTJGU3NHRjY3eWxGaHdiQ3pIZ1BRZWxrR2ZHaGRJT25aTlY3NUlkYVBJTEcwOTA0VnE1LW8?oc=5",
         "publishedAt": "2026-09-19T20:23:44.000Z"
       },
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "15:16",
-        "title": "北朝鮮のミサイルはすでに落下か",
+        "time": "15:46",
+        "title": "北朝鮮のミサイルEEZ外に落下か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595912?source=rss",
-        "publishedAt": "2026-09-20T06:16:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595915?source=rss",
+        "publishedAt": "2026-09-20T06:46:30.000Z"
       },
       {
         "time": "15:17",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "13:07",
+        "title": "「娘の死で商売」豪雨後の中傷",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595891?source=rss",
+        "publishedAt": "2026-09-20T04:07:25.000Z"
+      },
+      {
         "time": "12:45",
         "title": "移動距離5m 短い避難訓練の狙い",
         "source": "Yahoo!ニュース",
@@ -170,11 +177,11 @@
         "publishedAt": "2026-09-20T05:59:09.000Z"
       },
       {
-        "time": "13:07",
-        "title": "「娘の死で商売」豪雨後の中傷",
+        "time": "15:40",
+        "title": "車とバイクが事故 歩道の男児重体",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595891?source=rss",
-        "publishedAt": "2026-09-20T04:07:25.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6595916?source=rss",
+        "publishedAt": "2026-09-20T06:40:37.000Z"
       },
       {
         "time": "08:27",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595870?source=rss",
         "publishedAt": "2026-09-19T23:27:02.000Z"
-      },
-      {
-        "time": "13:06",
-        "title": "車とバイクが事故 歩道の3歳重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595894?source=rss",
-        "publishedAt": "2026-09-20T04:06:55.000Z"
       }
     ],
     "subsidyHeadlines": [
