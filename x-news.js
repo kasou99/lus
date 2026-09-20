@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T07:38:26.277Z",
+  "updatedAt": "2026-09-20T08:22:16.402Z",
   "items": [
-    {
-      "time": "15:46",
-      "title": "北朝鮮のミサイルEEZ外に落下か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595915?source=rss",
-      "publishedAt": "2026-09-20T06:46:30.000Z",
-      "xQuery": "北朝鮮のミサイルEEZ外に落下か"
-    },
     {
       "time": "16:28",
       "title": "台風 21日昼-夜遅くに関東最接近",
@@ -18,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 21日昼-夜遅くに関東最接近"
     },
     {
-      "time": "15:30",
-      "title": "台風影響 21日のイベ中止相次ぐ",
+      "time": "15:17",
+      "title": "ウクライナ 日本に首脳会談要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595913?source=rss",
-      "publishedAt": "2026-09-20T06:30:00.000Z",
-      "xQuery": "台風影響 21日のイベ中止相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6595910?source=rss",
+      "publishedAt": "2026-09-20T06:17:03.000Z",
+      "xQuery": "ウクライナ 日本に首脳会談要請"
     },
     {
-      "time": "14:37",
-      "title": "岡田克也氏 新党への参加を明言",
+      "time": "17:02",
+      "title": "東国原氏を書類送検 名誉毀損疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595906?source=rss",
-      "publishedAt": "2026-09-20T05:37:09.000Z",
-      "xQuery": "岡田克也氏 新党への参加を明言"
+      "url": "https://news.yahoo.co.jp/pickup/6595922?source=rss",
+      "publishedAt": "2026-09-20T08:02:45.000Z",
+      "xQuery": "東国原氏を書類送検 名誉毀損疑い"
+    },
+    {
+      "time": "16:48",
+      "title": "タクシーがバイクと衝突 男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595919?source=rss",
+      "publishedAt": "2026-09-20T07:48:02.000Z",
+      "xQuery": "タクシーがバイクと衝突 男性死亡"
     },
     {
       "time": "14:59",
