@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T07:18:15.682Z",
+  "updatedAt": "2026-09-20T07:38:26.277Z",
   "items": [
     {
       "time": "15:46",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "北朝鮮のミサイルEEZ外に落下か"
     },
     {
-      "time": "14:37",
-      "title": "台風が21日関東接近 氾濫など警戒",
+      "time": "16:28",
+      "title": "台風 21日昼-夜遅くに関東最接近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595904?source=rss",
-      "publishedAt": "2026-09-20T05:37:28.000Z",
-      "xQuery": "台風が21日関東接近 氾濫など警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6595918?source=rss",
+      "publishedAt": "2026-09-20T07:28:24.000Z",
+      "xQuery": "台風 21日昼-夜遅くに関東最接近"
     },
     {
       "time": "15:30",
