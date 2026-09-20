@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T02:44:51.536Z",
+  "updatedAt": "2026-09-20T03:21:47.084Z",
   "items": [
     {
       "time": "10:29",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高2死亡 殺人疑いで少年4人再逮捕"
     },
     {
-      "time": "09:18",
-      "title": "4年でケアマネ300人以上減 新潟県",
+      "time": "11:27",
+      "title": "横断歩道で77歳はねられ死亡 茨城",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595874?source=rss",
-      "publishedAt": "2026-09-20T00:18:30.000Z",
-      "xQuery": "4年でケアマネ300人以上減 新潟県"
+      "url": "https://news.yahoo.co.jp/pickup/6595888?source=rss",
+      "publishedAt": "2026-09-20T02:27:55.000Z",
+      "xQuery": "横断歩道で77歳はねられ死亡 茨城"
     },
     {
       "time": "10:50",
