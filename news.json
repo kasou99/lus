@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T20:16:22.264Z",
+  "updatedAt": "2026-09-20T20:37:07.797Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,13 +15,6 @@
         "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sMVRObHg2Mi1xV2J3SDRPTEpnY0tQTnVJX3MzR04xR19Kb3kta0Yydk9PbzJSeXVGSVFyLUhaNllUZWxfbER4ZlhkaEdHdmsxUGFfNzRFeFdlUUxWNHFEYUdlWlpMaGfSAWdBVV95cUxNbDFUTmx4NjItcVdid0g0T0xKZ2NLUE51SV9zM0dOMUdfSm95LWtGMnZPT28yUnl1RklRci1IWjZZVGVsX2xEeGZYZGhHR3ZrMVBhXzc0RXhXZVFMVjRxRGFHZVpaTGhn?oc=5",
         "publishedAt": "2026-09-20T03:42:01.000Z"
-      },
-      {
-        "time": "05:23",
-        "title": "儲かるのはメーカーだけじゃない。IDEC（6652）のような制御機器を工場現場へ流し込む立花エレテック（8159）、FA復活をまるごと取りにいく地味すぎる勝ち組｜日本個別株デューデリジェンスセンター",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MVGMwdGY4TkhSQjNHdFVMTEkyY013OHRUSUlabHZQbTJGU3NHRjY3eWxGaHdiQ3pIZ1BRZWxrR2ZHaGRJT25aTlY3NUlkYVBJTEcwOTA0VnE1LW8?oc=5",
-        "publishedAt": "2026-09-19T20:23:44.000Z"
       },
       {
         "time": "13:18",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595885?source=rss",
         "publishedAt": "2026-09-20T01:50:31.000Z"
+      },
+      {
+        "time": "13:35",
+        "title": "タイパ無視 ひたすら石を磨く90分",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595897?source=rss",
+        "publishedAt": "2026-09-20T04:35:30.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       }
