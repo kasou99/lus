@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T13:36:30.060Z",
+  "updatedAt": "2026-09-20T14:14:56.651Z",
   "items": [
     {
-      "time": "19:13",
-      "title": "台風 21日午後が雨風のピーク",
+      "time": "22:44",
+      "title": "台風 地域ごとの雨風強まる時間は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595939?source=rss",
-      "publishedAt": "2026-09-20T10:13:29.000Z",
-      "xQuery": "台風 21日午後が雨風のピーク"
+      "url": "https://news.yahoo.co.jp/pickup/6595966?source=rss",
+      "publishedAt": "2026-09-20T13:44:31.000Z",
+      "xQuery": "台風 地域ごとの雨風強まる時間は"
     },
     {
-      "time": "20:35",
-      "title": "小野寺五典氏 自民税調会長を続投",
+      "time": "22:32",
+      "title": "北の体育相に日本側接触 返答なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595949?source=rss",
-      "publishedAt": "2026-09-20T11:35:14.000Z",
-      "xQuery": "小野寺五典氏 自民税調会長を続投"
-    },
-    {
-      "time": "21:52",
-      "title": "米大統領 なぜAIの名称変更を提案",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595957?source=rss",
-      "publishedAt": "2026-09-20T12:52:27.000Z",
-      "xQuery": "米大統領 なぜAIの名称変更を提案"
+      "url": "https://news.yahoo.co.jp/pickup/6595963?source=rss",
+      "publishedAt": "2026-09-20T13:32:41.000Z",
+      "xQuery": "北の体育相に日本側接触 返答なし"
     },
     {
       "time": "22:09",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "インドネシアの島 奴隷制の実態"
     },
     {
-      "time": "19:31",
-      "title": "眼鏡を拾おうと川に入る 男性死亡",
+      "time": "22:14",
+      "title": "男児重体の事故 酒の影響と容疑者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595942?source=rss",
-      "publishedAt": "2026-09-20T10:31:10.000Z",
-      "xQuery": "眼鏡を拾おうと川に入る 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6595959?source=rss",
+      "publishedAt": "2026-09-20T13:14:09.000Z",
+      "xQuery": "男児重体の事故 酒の影響と容疑者"
+    },
+    {
+      "time": "23:02",
+      "title": "眼鏡を拾おうと川に入る 16歳死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595969?source=rss",
+      "publishedAt": "2026-09-20T14:02:06.000Z",
+      "xQuery": "眼鏡を拾おうと川に入る 16歳死亡"
     }
   ]
 };
