@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T21:36:54.804Z",
+  "updatedAt": "2026-09-20T22:15:05.333Z",
   "items": [
     {
-      "time": "23:52",
-      "title": "関東南部など線状降水帯発生恐れ",
+      "time": "07:07",
+      "title": "台風21日午後に関東最接近 警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595970?source=rss",
-      "publishedAt": "2026-09-20T14:52:14.000Z",
-      "xQuery": "関東南部など線状降水帯発生恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6595971?source=rss",
+      "publishedAt": "2026-09-20T22:07:13.000Z",
+      "xQuery": "台風21日午後に関東最接近 警戒を"
     },
     {
       "time": "17:46",
