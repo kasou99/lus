@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T04:20:14.116Z",
+  "updatedAt": "2026-09-20T04:41:36.999Z",
   "items": [
     {
       "time": "10:29",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "沖縄知事選受け 自衛隊南西シフト"
     },
     {
+      "time": "13:18",
+      "title": "JR 21日一部で始発から見合わせ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595898?source=rss",
+      "publishedAt": "2026-09-20T04:18:35.000Z",
+      "xQuery": "JR 21日一部で始発から見合わせ"
+    },
+    {
       "time": "13:07",
       "title": "「娘の死で商売」豪雨後の中傷",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595890?source=rss",
       "publishedAt": "2026-09-20T03:45:23.000Z",
       "xQuery": "移動距離5m 短い避難訓練の狙い"
-    },
-    {
-      "time": "11:17",
-      "title": "高2死亡 殺人疑いで少年4人再逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595886?source=rss",
-      "publishedAt": "2026-09-20T02:17:00.000Z",
-      "xQuery": "高2死亡 殺人疑いで少年4人再逮捕"
     }
   ]
 };
