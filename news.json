@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T11:13:40.163Z",
+  "updatedAt": "2026-09-20T11:37:07.797Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "12:42",
         "title": "パンを留める“アレ”が『キン肉マン』グッズ化。理由は「ロビンマスクのひさしにしか見えなくなった」から",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sMVRObHg2Mi1xV2J3SDRPTEpnY0tQTnVJX3MzR04xR19Kb3kta0Yydk9PbzJSeXVGSVFyLUhaNllUZWxfbER4ZlhkaEdHdmsxUGFfNzRFeFdlUUxWNHFEYUdlWlpMaGfSAWdBVV95cUxNbDFUTmx4NjItcVdid0g0T0xKZ2NLUE51SV9zM0dOMUdfSm95LWtGMnZPT28yUnl1RklRci1IWjZZVGVsX2xEeGZYZGhHR3ZrMVBhXzc0RXhXZVFMVjRxRGFHZVpaTGhn?oc=5",
         "publishedAt": "2026-09-20T03:42:01.000Z"
       },
@@ -82,13 +82,6 @@
         "publishedAt": "2026-09-19T04:42:39.000Z"
       },
       {
-        "time": "10:12",
-        "title": "グリーンランド安保 協定署名へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595785?source=rss",
-        "publishedAt": "2026-09-19T01:12:11.000Z"
-      },
-      {
         "time": "15:20",
         "title": "AIで誤情報 米軍に一時緊張走る",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595859?source=rss",
         "publishedAt": "2026-09-19T22:36:45.000Z"
+      },
+      {
+        "time": "22:46",
+        "title": "詐欺拠点か マレーシアで邦人拘束",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595851?source=rss",
+        "publishedAt": "2026-09-19T13:46:37.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-09-20T02:17:00.000Z"
       },
       {
+        "time": "20:31",
+        "title": "全身やけどで90代死亡 近くに仏壇",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595948?source=rss",
+        "publishedAt": "2026-09-20T11:31:12.000Z"
+      },
+      {
         "time": "19:31",
         "title": "眼鏡を拾おうと川に入る 男性死亡",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595919?source=rss",
         "publishedAt": "2026-09-20T07:48:02.000Z"
-      },
-      {
-        "time": "14:59",
-        "title": "自転車がひき逃げ 80代女性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595909?source=rss",
-        "publishedAt": "2026-09-20T05:59:09.000Z"
       }
     ],
     "subsidyHeadlines": [

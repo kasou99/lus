@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T11:13:41.110Z",
+  "updatedAt": "2026-09-20T11:37:08.470Z",
   "items": [
     {
       "time": "19:13",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 21日午後が雨風のピーク"
     },
     {
-      "time": "18:44",
-      "title": "北再びミサイル発射 EEZ外落下か",
+      "time": "17:42",
+      "title": "墜落の空自無人偵察機 一部回収",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595937?source=rss",
-      "publishedAt": "2026-09-20T09:44:29.000Z",
-      "xQuery": "北再びミサイル発射 EEZ外落下か"
+      "url": "https://news.yahoo.co.jp/pickup/6595925?source=rss",
+      "publishedAt": "2026-09-20T08:42:06.000Z",
+      "xQuery": "墜落の空自無人偵察機 一部回収"
     },
     {
       "time": "19:31",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "眼鏡を拾おうと川に入る 男性死亡"
     },
     {
+      "time": "20:31",
+      "title": "全身やけどで90代死亡 近くに仏壇",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595948?source=rss",
+      "publishedAt": "2026-09-20T11:31:12.000Z",
+      "xQuery": "全身やけどで90代死亡 近くに仏壇"
+    },
+    {
       "time": "17:37",
       "title": "駅エスカレーター複数転倒2人けが",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595926?source=rss",
       "publishedAt": "2026-09-20T08:37:26.000Z",
       "xQuery": "駅エスカレーター複数転倒2人けが"
-    },
-    {
-      "time": "18:28",
-      "title": "道徳的問い AI反論で3割判断覆す",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595935?source=rss",
-      "publishedAt": "2026-09-20T09:28:27.000Z",
-      "xQuery": "道徳的問い AI反論で3割判断覆す"
     }
   ]
 };
