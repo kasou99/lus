@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-09-21T09:25:50.112Z",
+  "updatedAt": "2026-09-21T09:44:44.973Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "不変と革新 長寿経営に向けて／テヅカ “狭くて深い” 関係を顧客と築く",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DVGRCWnFGM3FDQ3NEUGsyZTI5UXJNaThOeVpPbjJNWXZHS1JzVjdSdEhEZlZIbnd4LWJIRGdCYWF6Tk1aRE9reVpnUHcyWThhM24tV3pyakU?oc=5",
+        "publishedAt": "2026-09-20T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "モビリティショー｢ビズ｣､200社超が出展 10月開催",
+        "source": "nikkei.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeTlZX2NnV0tlT2duMW5VNHJpVTJZblRGRXZjeGQxV0UxVGpBNENpOWRDYlhYS3B3MkY0WENaX2gtYzM2c3k2SG9kUjJBMy1tY281RDg3eWRvNW82Z3QxMm54U0pGaXdoWGgxZlNwY0xqY1NUbkVHX3FqM2FyaV94RlJXUG55RXI2WHYwMXFwTzhpZW1IX3hUMC1kVXFGVDdUVXUyNQ?oc=5",
+        "publishedAt": "2026-09-20T20:00:00.000Z"
+      },
+      {
+        "time": "08:54",
+        "title": "産総研「製造AX拠点」始動｜DMG森精機とコマツが工場データを開放へ",
+        "source": "innovatopia.jp",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FRnAxd1gwNmhXM01GcHBzay1KUENKdmljR0lNaWFXVklRdzlRcjM3R2dMS3g3M1BuaEkyWHNBLWVqdU9yMmRGci1GWWlmc21QMkhN?oc=5",
+        "publishedAt": "2026-09-20T23:54:25.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "インタビュー／JAXAエンジニア・後藤大亮氏 ベンチャー・キャピタリストの小松伸多佳氏 米スペースＸ・マスク氏参考に",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PemRjZHpYbi1TOVE5Z0pqYmhrRTFIcUU4S1FsMHZsenJkTnV1ZVF5dDl4TkJldllDbEJCVDdfVEk4SUoxRk1FTF9EbHNlWDVQYmNkdm9keHU?oc=5",
+        "publishedAt": "2026-09-20T20:00:00.000Z"
+      },
+      {
+        "time": "17:14",
+        "title": "豊和工業（6203） 小銃メーカーがドローン参戦｜AI株式ニュース",
+        "source": "t.co",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB3cG1iSW9MNmQyQzVIOG8xLW5SeUNYVWJESXhYelNEUFJSMmFsRmllRUxzUnh6X2VmMnJZ?oc=5",
+        "publishedAt": "2026-09-21T08:14:08.000Z"
+      },
       {
         "time": "13:26",
         "title": "全国の鉄道・フライト 最新情報",
@@ -22,41 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595978?source=rss",
         "publishedAt": "2026-09-20T23:05:01.000Z"
-      },
-      {
-        "time": "21:29",
-        "title": "消えゆく銭湯 地域差の要因は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595955?source=rss",
-        "publishedAt": "2026-09-20T12:29:34.000Z"
-      },
-      {
-        "time": "13:35",
-        "title": "タイパ無視 ひたすら石を磨く90分",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595897?source=rss",
-        "publishedAt": "2026-09-20T04:35:30.000Z"
-      },
-      {
-        "time": "17:17",
-        "title": "ベーグル店「VIVANT」別パン人気",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596040?source=rss",
-        "publishedAt": "2026-09-21T08:17:36.000Z"
-      },
-      {
-        "time": "14:34",
-        "title": "香取慎吾ブランド コラボ巡り声明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595905?source=rss",
-        "publishedAt": "2026-09-20T05:34:33.000Z"
-      },
-      {
-        "time": "14:19",
-        "title": "食事も「キャンセル」若者の実態",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596013?source=rss",
-        "publishedAt": "2026-09-21T05:19:58.000Z"
       }
     ],
     "worldHeadlines": [
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-09-02T07:00:00.000Z"
       }
     ]
   }
