@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T07:50:20.268Z",
+  "updatedAt": "2026-09-21T08:28:14.326Z",
   "items": [
     {
       "time": "13:44",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "横須賀で土砂崩れ 1人生き埋めか"
     },
     {
-      "time": "14:40",
-      "title": "事故に巻き込まれ 3歳男児が死亡",
+      "time": "16:26",
+      "title": "琵琶湖で男性3人が行方不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596020?source=rss",
-      "publishedAt": "2026-09-21T05:40:21.000Z",
-      "xQuery": "事故に巻き込まれ 3歳男児が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6596033?source=rss",
+      "publishedAt": "2026-09-21T07:26:09.000Z",
+      "xQuery": "琵琶湖で男性3人が行方不明"
     }
   ]
 };
