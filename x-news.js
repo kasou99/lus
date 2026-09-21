@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T15:16:54.858Z",
+  "updatedAt": "2026-09-21T15:38:17.565Z",
   "items": [
     {
       "time": "23:14",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596081?source=rss",
       "publishedAt": "2026-09-21T14:14:43.000Z",
       "xQuery": "大島町 土砂災害危険警報に切替"
+    },
+    {
+      "time": "00:19",
+      "title": "三浦半島 土砂崩れ相次ぎ1人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596085?source=rss",
+      "publishedAt": "2026-09-21T15:19:58.000Z",
+      "xQuery": "三浦半島 土砂崩れ相次ぎ1人死亡"
     },
     {
       "time": "22:52",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596080?source=rss",
       "publishedAt": "2026-09-21T14:25:11.000Z",
       "xQuery": "高滝ダム緊急放流 見合わせる方向"
-    },
-    {
-      "time": "22:53",
-      "title": "東京・目黒区の住宅街 擁壁崩れる",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596076?source=rss",
-      "publishedAt": "2026-09-21T13:53:04.000Z",
-      "xQuery": "東京・目黒区の住宅街 擁壁崩れる"
     }
   ]
 };
