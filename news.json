@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T08:28:13.269Z",
+  "updatedAt": "2026-09-21T08:48:34.510Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "17:29",
+        "title": "千葉・君津市の小糸川 氾濫か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596041?source=rss",
+        "publishedAt": "2026-09-21T08:29:06.000Z"
+      },
+      {
         "time": "14:00",
         "title": "台風が関東に接近 現地のSNS投稿",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595998?source=rss",
         "publishedAt": "2026-09-21T02:37:30.000Z"
-      },
-      {
-        "time": "16:26",
-        "title": "琵琶湖で男性3人が行方不明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596033?source=rss",
-        "publishedAt": "2026-09-21T07:26:09.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T08:28:14.326Z",
+  "updatedAt": "2026-09-21T08:48:35.267Z",
   "items": [
     {
       "time": "13:44",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・大島町に土砂災害特別警報"
     },
     {
-      "time": "15:43",
-      "title": "気象庁「22日明け方まで警戒を」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596025?source=rss",
-      "publishedAt": "2026-09-21T06:43:25.000Z",
-      "xQuery": "気象庁「22日明け方まで警戒を」"
-    },
-    {
       "time": "14:08",
       "title": "台風25号 今後の見通しや最新情報",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596016?source=rss",
       "publishedAt": "2026-09-21T05:08:33.000Z",
       "xQuery": "台風25号 今後の見通しや最新情報"
+    },
+    {
+      "time": "17:29",
+      "title": "千葉・君津市の小糸川 氾濫か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596041?source=rss",
+      "publishedAt": "2026-09-21T08:29:06.000Z",
+      "xQuery": "千葉・君津市の小糸川 氾濫か"
     },
     {
       "time": "16:13",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "横須賀で土砂崩れ 1人生き埋めか"
     },
     {
-      "time": "16:26",
-      "title": "琵琶湖で男性3人が行方不明",
+      "time": "14:19",
+      "title": "食事も「キャンセル」若者の実態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596033?source=rss",
-      "publishedAt": "2026-09-21T07:26:09.000Z",
-      "xQuery": "琵琶湖で男性3人が行方不明"
+      "url": "https://news.yahoo.co.jp/pickup/6596013?source=rss",
+      "publishedAt": "2026-09-21T05:19:58.000Z",
+      "xQuery": "食事も「キャンセル」若者の実態"
     }
   ]
 };
