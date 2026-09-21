@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T04:46:26.545Z",
+  "updatedAt": "2026-09-21T05:19:33.271Z",
   "items": [
-    {
-      "time": "13:38",
-      "title": "中継 特別警報を受け気象庁が会見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596010?source=rss",
-      "publishedAt": "2026-09-21T04:38:11.000Z",
-      "xQuery": "中継 特別警報を受け気象庁が会見"
-    },
     {
       "time": "13:44",
       "title": "東京・大島町に土砂災害特別警報",
@@ -18,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・大島町に土砂災害特別警報"
     },
     {
-      "time": "13:27",
-      "title": "台風が関東・東海に接近 SNS投稿",
+      "time": "14:08",
+      "title": "台風25号 今後の見通しや最新情報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596009?source=rss",
-      "publishedAt": "2026-09-21T04:27:38.000Z",
-      "xQuery": "台風が関東・東海に接近 SNS投稿"
+      "url": "https://news.yahoo.co.jp/pickup/6596016?source=rss",
+      "publishedAt": "2026-09-21T05:08:33.000Z",
+      "xQuery": "台風25号 今後の見通しや最新情報"
+    },
+    {
+      "time": "14:00",
+      "title": "台風が関東に接近 現地のSNS投稿",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596015?source=rss",
+      "publishedAt": "2026-09-21T05:00:14.000Z",
+      "xQuery": "台風が関東に接近 現地のSNS投稿"
+    },
+    {
+      "time": "13:44",
+      "title": "神奈川県東部 線状降水帯発生恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596011?source=rss",
+      "publishedAt": "2026-09-21T04:44:29.000Z",
+      "xQuery": "神奈川県東部 線状降水帯発生恐れ"
     },
     {
       "time": "13:26",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6594476?source=rss",
       "publishedAt": "2026-09-21T04:26:51.000Z",
       "xQuery": "全国の鉄道・フライト 最新情報"
-    },
-    {
-      "time": "12:28",
-      "title": "事故で意識不明の男児が死亡 福岡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596004?source=rss",
-      "publishedAt": "2026-09-21T03:28:34.000Z",
-      "xQuery": "事故で意識不明の男児が死亡 福岡"
     }
   ]
 };
