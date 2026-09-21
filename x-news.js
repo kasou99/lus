@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T14:41:37.761Z",
+  "updatedAt": "2026-09-21T15:16:54.858Z",
   "items": [
     {
       "time": "23:14",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "大島町 土砂災害危険警報に切替"
     },
     {
-      "time": "19:02",
-      "title": "台風 最新情報や避難のポイント",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596048?source=rss",
-      "publishedAt": "2026-09-21T10:02:36.000Z",
-      "xQuery": "台風 最新情報や避難のポイント"
-    },
-    {
       "time": "22:52",
       "title": "台風が連休直撃 観光客からため息",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風が連休直撃 観光客からため息"
     },
     {
-      "time": "21:14",
-      "title": "8月に続き「またか」千葉で嘆き",
+      "time": "23:44",
+      "title": "神奈川県 自衛隊に災害派遣要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596061?source=rss",
-      "publishedAt": "2026-09-21T12:14:38.000Z",
-      "xQuery": "8月に続き「またか」千葉で嘆き"
+      "url": "https://news.yahoo.co.jp/pickup/6596083?source=rss",
+      "publishedAt": "2026-09-21T14:44:31.000Z",
+      "xQuery": "神奈川県 自衛隊に災害派遣要請"
+    },
+    {
+      "time": "23:25",
+      "title": "高滝ダム緊急放流 見合わせる方向",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596080?source=rss",
+      "publishedAt": "2026-09-21T14:25:11.000Z",
+      "xQuery": "高滝ダム緊急放流 見合わせる方向"
     },
     {
       "time": "22:53",
