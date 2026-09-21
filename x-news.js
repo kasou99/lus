@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T06:41:13.162Z",
+  "updatedAt": "2026-09-21T07:29:43.261Z",
   "items": [
     {
       "time": "13:44",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "東京・大島町に土砂災害特別警報"
     },
     {
+      "time": "15:43",
+      "title": "気象庁「22日明け方まで警戒を」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596025?source=rss",
+      "publishedAt": "2026-09-21T06:43:25.000Z",
+      "xQuery": "気象庁「22日明け方まで警戒を」"
+    },
+    {
       "time": "14:08",
       "title": "台風25号 今後の見通しや最新情報",
       "source": "Yahoo!ニュース",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風25号 今後の見通しや最新情報"
     },
     {
-      "time": "14:00",
-      "title": "台風が関東に接近 現地のSNS投稿",
+      "time": "16:13",
+      "title": "横須賀で土砂崩れ 1人生き埋めか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596015?source=rss",
-      "publishedAt": "2026-09-21T05:00:14.000Z",
-      "xQuery": "台風が関東に接近 現地のSNS投稿"
-    },
-    {
-      "time": "13:44",
-      "title": "神奈川県東部 線状降水帯発生恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596011?source=rss",
-      "publishedAt": "2026-09-21T04:44:29.000Z",
-      "xQuery": "神奈川県東部 線状降水帯発生恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6596029?source=rss",
+      "publishedAt": "2026-09-21T07:13:42.000Z",
+      "xQuery": "横須賀で土砂崩れ 1人生き埋めか"
     },
     {
       "time": "14:40",
