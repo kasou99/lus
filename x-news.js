@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T13:18:27.394Z",
+  "updatedAt": "2026-09-21T13:40:22.615Z",
   "items": [
     {
       "time": "19:02",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596048?source=rss",
       "publishedAt": "2026-09-21T10:02:36.000Z",
       "xQuery": "台風 最新情報や避難のポイント"
+    },
+    {
+      "time": "22:16",
+      "title": "千葉・市原市の高滝ダム 緊急放流",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596070?source=rss",
+      "publishedAt": "2026-09-21T13:16:37.000Z",
+      "xQuery": "千葉・市原市の高滝ダム 緊急放流"
     },
     {
       "time": "22:09",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596061?source=rss",
       "publishedAt": "2026-09-21T12:14:38.000Z",
       "xQuery": "8月に続き「またか」千葉で嘆き"
-    },
-    {
-      "time": "20:35",
-      "title": "千葉県を中心に停電発生 最新状況",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596059?source=rss",
-      "publishedAt": "2026-09-21T11:35:24.000Z",
-      "xQuery": "千葉県を中心に停電発生 最新状況"
     },
     {
       "time": "21:51",
