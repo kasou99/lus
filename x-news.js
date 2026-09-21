@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-20T23:37:38.258Z",
+  "updatedAt": "2026-09-21T00:53:19.564Z",
   "items": [
     {
-      "time": "07:07",
-      "title": "台風21日午後に関東最接近 警戒を",
+      "time": "09:24",
+      "title": "台風 太平洋側は大雨や暴風に警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595971?source=rss",
-      "publishedAt": "2026-09-20T22:07:13.000Z",
-      "xQuery": "台風21日午後に関東最接近 警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6595987?source=rss",
+      "publishedAt": "2026-09-21T00:24:21.000Z",
+      "xQuery": "台風 太平洋側は大雨や暴風に警戒"
     },
     {
-      "time": "07:35",
-      "title": "首相が国連初演説へ ICC言及焦点",
+      "time": "08:50",
+      "title": "千葉市で道路冠水 車水没の被害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595975?source=rss",
-      "publishedAt": "2026-09-20T22:35:28.000Z",
-      "xQuery": "首相が国連初演説へ ICC言及焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6595984?source=rss",
+      "publishedAt": "2026-09-20T23:50:03.000Z",
+      "xQuery": "千葉市で道路冠水 車水没の被害"
     },
     {
-      "time": "08:01",
-      "title": "子どもを追い込む指導 悩む教員",
+      "time": "08:29",
+      "title": "中東エネ巡る支援 首相が表明へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595977?source=rss",
-      "publishedAt": "2026-09-20T23:01:55.000Z",
-      "xQuery": "子どもを追い込む指導 悩む教員"
+      "url": "https://news.yahoo.co.jp/pickup/6595981?source=rss",
+      "publishedAt": "2026-09-20T23:29:56.000Z",
+      "xQuery": "中東エネ巡る支援 首相が表明へ"
+    },
+    {
+      "time": "08:15",
+      "title": "イラン 戦闘終結へ米に7条件伝達",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595980?source=rss",
+      "publishedAt": "2026-09-20T23:15:39.000Z",
+      "xQuery": "イラン 戦闘終結へ米に7条件伝達"
     },
     {
       "time": "08:05",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595978?source=rss",
       "publishedAt": "2026-09-20T23:05:01.000Z",
       "xQuery": "渋谷で若者離れ? 人流データ分析"
-    },
-    {
-      "time": "23:02",
-      "title": "眼鏡を拾おうと川に入る 16歳死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595969?source=rss",
-      "publishedAt": "2026-09-20T14:02:06.000Z",
-      "xQuery": "眼鏡を拾おうと川に入る 16歳死亡"
     }
   ]
 };
