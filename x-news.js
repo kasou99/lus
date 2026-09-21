@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T02:28:53.810Z",
+  "updatedAt": "2026-09-21T02:49:14.551Z",
   "items": [
     {
-      "time": "09:24",
-      "title": "台風 太平洋側は大雨や暴風に警戒",
+      "time": "11:35",
+      "title": "台風が関東接近 雨量増加に警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595987?source=rss",
-      "publishedAt": "2026-09-21T00:24:21.000Z",
-      "xQuery": "台風 太平洋側は大雨や暴風に警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6595997?source=rss",
+      "publishedAt": "2026-09-21T02:35:48.000Z",
+      "xQuery": "台風が関東接近 雨量増加に警戒を"
     },
     {
-      "time": "10:27",
-      "title": "台風25号 空の便にも大きな影響",
+      "time": "08:10",
+      "title": "豪雨で同級生失い 自衛官志す17歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595992?source=rss",
-      "publishedAt": "2026-09-21T01:27:12.000Z",
-      "xQuery": "台風25号 空の便にも大きな影響"
+      "url": "https://news.yahoo.co.jp/pickup/6595979?source=rss",
+      "publishedAt": "2026-09-20T23:10:31.000Z",
+      "xQuery": "豪雨で同級生失い 自衛官志す17歳"
     },
     {
       "time": "09:05",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "独州議会選 極右政党が再び勝利"
     },
     {
-      "time": "09:53",
-      "title": "富士山頂の混雑で転倒懸念 検証へ",
+      "time": "11:37",
+      "title": "東名で車がスリップか 運転手死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595990?source=rss",
-      "publishedAt": "2026-09-21T00:53:00.000Z",
-      "xQuery": "富士山頂の混雑で転倒懸念 検証へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595998?source=rss",
+      "publishedAt": "2026-09-21T02:37:30.000Z",
+      "xQuery": "東名で車がスリップか 運転手死亡"
     },
     {
       "time": "09:57",
