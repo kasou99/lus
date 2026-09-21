@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T09:44:44.973Z",
+  "updatedAt": "2026-09-21T10:19:30.823Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "08:54",
         "title": "産総研「製造AX拠点」始動｜DMG森精機とコマツが工場データを開放へ",
-        "source": "innovatopia.jp",
+        "source": "innovaTopia",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FRnAxd1gwNmhXM01GcHBzay1KUENKdmljR0lNaWFXVklRdzlRcjM3R2dMS3g3M1BuaEkyWHNBLWVqdU9yMmRGci1GWWlmc21QMkhN?oc=5",
         "publishedAt": "2026-09-20T23:54:25.000Z"
       },
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "19:03",
+        "title": "復旧作業中土砂崩れ 川に男性転落",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596049?source=rss",
+        "publishedAt": "2026-09-21T10:03:11.000Z"
+      },
+      {
         "time": "17:29",
         "title": "千葉・君津市の小糸川 氾濫か",
         "source": "Yahoo!ニュース",
@@ -177,18 +184,11 @@
         "publishedAt": "2026-09-21T08:58:33.000Z"
       },
       {
-        "time": "08:50",
-        "title": "千葉市で道路冠水 車水没の被害",
+        "time": "19:14",
+        "title": "琵琶湖で2人発見し救助 容体不明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595984?source=rss",
-        "publishedAt": "2026-09-20T23:50:03.000Z"
-      },
-      {
-        "time": "11:37",
-        "title": "東名で車がスリップか 運転手死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595998?source=rss",
-        "publishedAt": "2026-09-21T02:37:30.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596050?source=rss",
+        "publishedAt": "2026-09-21T10:14:06.000Z"
       }
     ],
     "subsidyHeadlines": [

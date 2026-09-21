@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T09:44:45.706Z",
+  "updatedAt": "2026-09-21T10:19:31.554Z",
   "items": [
     {
       "time": "18:04",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風が関東最接近 夜にかけピーク"
     },
     {
-      "time": "14:08",
-      "title": "台風25号 今後の見通しや最新情報",
+      "time": "19:02",
+      "title": "台風 最新情報や避難のポイント",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596016?source=rss",
-      "publishedAt": "2026-09-21T05:08:33.000Z",
-      "xQuery": "台風25号 今後の見通しや最新情報"
-    },
-    {
-      "time": "17:29",
-      "title": "千葉・君津市の小糸川 氾濫か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596041?source=rss",
-      "publishedAt": "2026-09-21T08:29:06.000Z",
-      "xQuery": "千葉・君津市の小糸川 氾濫か"
+      "url": "https://news.yahoo.co.jp/pickup/6596048?source=rss",
+      "publishedAt": "2026-09-21T10:02:36.000Z",
+      "xQuery": "台風 最新情報や避難のポイント"
     },
     {
       "time": "17:58",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "鎌倉で道路が川のように 車水没も"
     },
     {
-      "time": "14:19",
-      "title": "食事も「キャンセル」若者の実態",
+      "time": "19:03",
+      "title": "復旧作業中土砂崩れ 川に男性転落",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596013?source=rss",
-      "publishedAt": "2026-09-21T05:19:58.000Z",
-      "xQuery": "食事も「キャンセル」若者の実態"
+      "url": "https://news.yahoo.co.jp/pickup/6596049?source=rss",
+      "publishedAt": "2026-09-21T10:03:11.000Z",
+      "xQuery": "復旧作業中土砂崩れ 川に男性転落"
+    },
+    {
+      "time": "17:17",
+      "title": "ベーグル店「VIVANT」別パン人気",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596040?source=rss",
+      "publishedAt": "2026-09-21T08:17:36.000Z",
+      "xQuery": "ベーグル店「VIVANT」別パン人気"
     }
   ]
 };
