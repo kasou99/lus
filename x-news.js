@@ -1,29 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T04:23:15.803Z",
+  "updatedAt": "2026-09-21T04:46:26.545Z",
   "items": [
     {
-      "time": "13:19",
-      "title": "命守って 東京・大島町に特別警報",
+      "time": "13:38",
+      "title": "中継 特別警報を受け気象庁が会見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596008?source=rss",
-      "publishedAt": "2026-09-21T04:19:31.000Z",
-      "xQuery": "命守って 東京・大島町に特別警報"
+      "url": "https://news.yahoo.co.jp/pickup/6596010?source=rss",
+      "publishedAt": "2026-09-21T04:38:11.000Z",
+      "xQuery": "中継 特別警報を受け気象庁が会見"
     },
     {
-      "time": "13:07",
-      "title": "東京・大島町に特別警報 最新情報",
+      "time": "13:44",
+      "title": "東京・大島町に土砂災害特別警報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596007?source=rss",
-      "publishedAt": "2026-09-21T04:07:36.000Z",
-      "xQuery": "東京・大島町に特別警報 最新情報"
+      "url": "https://news.yahoo.co.jp/pickup/6596012?source=rss",
+      "publishedAt": "2026-09-21T04:44:03.000Z",
+      "xQuery": "東京・大島町に土砂災害特別警報"
     },
     {
-      "time": "11:35",
-      "title": "台風が関東接近 雨量増加に警戒を",
+      "time": "13:27",
+      "title": "台風が関東・東海に接近 SNS投稿",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595997?source=rss",
-      "publishedAt": "2026-09-21T02:35:48.000Z",
-      "xQuery": "台風が関東接近 雨量増加に警戒を"
+      "url": "https://news.yahoo.co.jp/pickup/6596009?source=rss",
+      "publishedAt": "2026-09-21T04:27:38.000Z",
+      "xQuery": "台風が関東・東海に接近 SNS投稿"
+    },
+    {
+      "time": "13:26",
+      "title": "全国の鉄道・フライト 最新情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6594476?source=rss",
+      "publishedAt": "2026-09-21T04:26:51.000Z",
+      "xQuery": "全国の鉄道・フライト 最新情報"
     },
     {
       "time": "12:28",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596004?source=rss",
       "publishedAt": "2026-09-21T03:28:34.000Z",
       "xQuery": "事故で意識不明の男児が死亡 福岡"
-    },
-    {
-      "time": "11:37",
-      "title": "東名で車がスリップか 運転手死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595998?source=rss",
-      "publishedAt": "2026-09-21T02:37:30.000Z",
-      "xQuery": "東名で車がスリップか 運転手死亡"
     }
   ]
 };

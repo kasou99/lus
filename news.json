@@ -1,34 +1,13 @@
 {
-  "updatedAt": "2026-09-21T04:23:14.911Z",
+  "updatedAt": "2026-09-21T04:46:19.772Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:00",
-        "title": "主張／製造業強くする「仕組み」を コダマコーポレーション社長・小玉博幸",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXUlRqM2daSDR3UEFmNHF4clBOTFRLLTZaTXVaYUtidktXTGZUeHVwQjJJOUhOOXIwT1FvdU5uZUVUN0oza1BXZGFIbk85SnViRFpnSkZodTE?oc=5",
-        "publishedAt": "2026-09-20T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "モビリティショー｢ビズ｣､200社超が出展 10月開催",
-        "source": "nikkei.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeTlZX2NnV0tlT2duMW5VNHJpVTJZblRGRXZjeGQxV0UxVGpBNENpOWRDYlhYS3B3MkY0WENaX2gtYzM2c3k2SG9kUjJBMy1tY281RDg3eWRvNW82Z3QxMm54U0pGaXdoWGgxZlNwY0xqY1NUbkVHX3FqM2FyaV94RlJXUG55RXI2WHYwMXFwTzhpZW1IX3hUMC1kVXFGVDdUVXUyNQ?oc=5",
-        "publishedAt": "2026-09-20T20:00:00.000Z"
-      },
-      {
-        "time": "08:54",
-        "title": "産総研「製造AX拠点」始動｜DMG森精機とコマツが工場データを開放へ",
-        "source": "innovaTopia",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FRnAxd1gwNmhXM01GcHBzay1KUENKdmljR0lNaWFXVklRdzlRcjM3R2dMS3g3M1BuaEkyWHNBLWVqdU9yMmRGci1GWWlmc21QMkhN?oc=5",
-        "publishedAt": "2026-09-20T23:54:25.000Z"
-      },
-      {
-        "time": "10:27",
-        "title": "台風25号 空の便にも大きな影響",
+        "time": "13:26",
+        "title": "全国の鉄道・フライト 最新情報",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595992?source=rss",
-        "publishedAt": "2026-09-21T01:27:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594476?source=rss",
+        "publishedAt": "2026-09-21T04:26:51.000Z"
       },
       {
         "time": "15:02",
@@ -57,6 +36,27 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595955?source=rss",
         "publishedAt": "2026-09-20T12:29:34.000Z"
+      },
+      {
+        "time": "10:50",
+        "title": "iPhone Duo経費にできる?注意点",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595885?source=rss",
+        "publishedAt": "2026-09-20T01:50:31.000Z"
+      },
+      {
+        "time": "13:35",
+        "title": "タイパ無視 ひたすら石を磨く90分",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595897?source=rss",
+        "publishedAt": "2026-09-20T04:35:30.000Z"
+      },
+      {
+        "time": "14:34",
+        "title": "香取慎吾ブランド コラボ巡り声明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595905?source=rss",
+        "publishedAt": "2026-09-20T05:34:33.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "10:27",
-        "title": "台風25号 空の便にも大きな影響",
+        "time": "13:26",
+        "title": "全国の鉄道・フライト 最新情報",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595992?source=rss",
-        "publishedAt": "2026-09-21T01:27:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6594476?source=rss",
+        "publishedAt": "2026-09-21T04:26:51.000Z"
       },
       {
         "time": "15:02",
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "13:27",
+        "title": "台風が関東・東海に接近 SNS投稿",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596009?source=rss",
+        "publishedAt": "2026-09-21T04:27:38.000Z"
+      },
+      {
+        "time": "13:44",
+        "title": "神奈川県東部 線状降水帯発生恐れ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596011?source=rss",
+        "publishedAt": "2026-09-21T04:44:29.000Z"
+      },
+      {
         "time": "08:50",
         "title": "千葉市で道路冠水 車水没の被害",
         "source": "Yahoo!ニュース",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-09-20T23:10:31.000Z"
       },
       {
-        "time": "23:02",
-        "title": "眼鏡を拾おうと川に入る 16歳死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595969?source=rss",
-        "publishedAt": "2026-09-20T14:02:06.000Z"
-      },
-      {
         "time": "12:28",
         "title": "事故で意識不明の男児が死亡 福岡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596004?source=rss",
         "publishedAt": "2026-09-21T03:28:34.000Z"
-      },
-      {
-        "time": "08:01",
-        "title": "子どもを追い込む指導 悩む教員",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595977?source=rss",
-        "publishedAt": "2026-09-20T23:01:55.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -215,13 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-09-02T07:00:00.000Z"
       }
     ]
   }
