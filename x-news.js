@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T00:53:19.564Z",
+  "updatedAt": "2026-09-21T01:33:48.401Z",
   "items": [
     {
       "time": "09:24",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 太平洋側は大雨や暴風に警戒"
     },
     {
-      "time": "08:50",
-      "title": "千葉市で道路冠水 車水没の被害",
+      "time": "10:27",
+      "title": "台風25号 空の便にも大きな影響",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595984?source=rss",
-      "publishedAt": "2026-09-20T23:50:03.000Z",
-      "xQuery": "千葉市で道路冠水 車水没の被害"
+      "url": "https://news.yahoo.co.jp/pickup/6595992?source=rss",
+      "publishedAt": "2026-09-21T01:27:12.000Z",
+      "xQuery": "台風25号 空の便にも大きな影響"
     },
     {
-      "time": "08:29",
-      "title": "中東エネ巡る支援 首相が表明へ",
+      "time": "09:53",
+      "title": "富士山頂の混雑で転倒懸念 検証へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595981?source=rss",
-      "publishedAt": "2026-09-20T23:29:56.000Z",
-      "xQuery": "中東エネ巡る支援 首相が表明へ"
+      "url": "https://news.yahoo.co.jp/pickup/6595990?source=rss",
+      "publishedAt": "2026-09-21T00:53:00.000Z",
+      "xQuery": "富士山頂の混雑で転倒懸念 検証へ"
     },
     {
-      "time": "08:15",
-      "title": "イラン 戦闘終結へ米に7条件伝達",
+      "time": "09:32",
+      "title": "改造内閣「革命的人事」の舞台裏",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595980?source=rss",
-      "publishedAt": "2026-09-20T23:15:39.000Z",
-      "xQuery": "イラン 戦闘終結へ米に7条件伝達"
+      "url": "https://news.yahoo.co.jp/pickup/6595988?source=rss",
+      "publishedAt": "2026-09-21T00:32:23.000Z",
+      "xQuery": "改造内閣「革命的人事」の舞台裏"
     },
     {
-      "time": "08:05",
-      "title": "渋谷で若者離れ? 人流データ分析",
+      "time": "09:57",
+      "title": "中高年男性の耳毛 なぜ太く伸びる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595978?source=rss",
-      "publishedAt": "2026-09-20T23:05:01.000Z",
-      "xQuery": "渋谷で若者離れ? 人流データ分析"
+      "url": "https://news.yahoo.co.jp/pickup/6595989?source=rss",
+      "publishedAt": "2026-09-21T00:57:17.000Z",
+      "xQuery": "中高年男性の耳毛 なぜ太く伸びる"
     }
   ]
 };
