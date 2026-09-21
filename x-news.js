@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T10:19:31.554Z",
+  "updatedAt": "2026-09-21T10:39:56.852Z",
   "items": [
     {
       "time": "18:04",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "復旧作業中土砂崩れ 川に男性転落"
     },
     {
-      "time": "17:17",
-      "title": "ベーグル店「VIVANT」別パン人気",
+      "time": "19:14",
+      "title": "琵琶湖で2人発見し救助 容体不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596040?source=rss",
-      "publishedAt": "2026-09-21T08:17:36.000Z",
-      "xQuery": "ベーグル店「VIVANT」別パン人気"
+      "url": "https://news.yahoo.co.jp/pickup/6596050?source=rss",
+      "publishedAt": "2026-09-21T10:14:06.000Z",
+      "xQuery": "琵琶湖で2人発見し救助 容体不明"
     }
   ]
 };
