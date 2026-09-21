@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T03:23:54.611Z",
+  "updatedAt": "2026-09-21T03:45:56.376Z",
   "items": [
     {
       "time": "11:35",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米 ICCへの「広範な制裁」準備か"
     },
     {
-      "time": "09:05",
-      "title": "独州議会選 極右政党が再び勝利",
+      "time": "12:28",
+      "title": "事故で意識不明の男児が死亡 福岡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595985?source=rss",
-      "publishedAt": "2026-09-21T00:05:01.000Z",
-      "xQuery": "独州議会選 極右政党が再び勝利"
+      "url": "https://news.yahoo.co.jp/pickup/6596004?source=rss",
+      "publishedAt": "2026-09-21T03:28:34.000Z",
+      "xQuery": "事故で意識不明の男児が死亡 福岡"
     },
     {
       "time": "11:37",

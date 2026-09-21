@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T03:23:50.952Z",
+  "updatedAt": "2026-09-21T03:45:55.800Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "innovaTopia",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FRnAxd1gwNmhXM01GcHBzay1KUENKdmljR0lNaWFXVklRdzlRcjM3R2dMS3g3M1BuaEkyWHNBLWVqdU9yMmRGci1GWWlmc21QMkhN?oc=5",
         "publishedAt": "2026-09-20T23:54:25.000Z"
-      },
-      {
-        "time": "12:42",
-        "title": "パンを留める“アレ”が『キン肉マン』グッズ化。理由は「ロビンマスクのひさしにしか見えなくなった」から",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sMVRObHg2Mi1xV2J3SDRPTEpnY0tQTnVJX3MzR04xR19Kb3kta0Yydk9PbzJSeXVGSVFyLUhaNllUZWxfbER4ZlhkaEdHdmsxUGFfNzRFeFdlUUxWNHFEYUdlWlpMaGfSAWdBVV95cUxNbDFUTmx4NjItcVdid0g0T0xKZ2NLUE51SV9zM0dOMUdfSm95LWtGMnZPT28yUnl1RklRci1IWjZZVGVsX2xEeGZYZGhHR3ZrMVBhXzc0RXhXZVFMVjRxRGFHZVpaTGhn?oc=5",
-        "publishedAt": "2026-09-20T03:42:01.000Z"
       },
       {
         "time": "10:27",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595967?source=rss",
         "publishedAt": "2026-09-20T13:57:15.000Z"
+      },
+      {
+        "time": "21:29",
+        "title": "消えゆく銭湯 地域差の要因は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595955?source=rss",
+        "publishedAt": "2026-09-20T12:29:34.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,11 +177,11 @@
         "publishedAt": "2026-09-20T14:02:06.000Z"
       },
       {
-        "time": "22:14",
-        "title": "男児重体の事故 酒の影響と容疑者",
+        "time": "12:28",
+        "title": "事故で意識不明の男児が死亡 福岡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595959?source=rss",
-        "publishedAt": "2026-09-20T13:14:09.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596004?source=rss",
+        "publishedAt": "2026-09-21T03:28:34.000Z"
       },
       {
         "time": "08:01",
