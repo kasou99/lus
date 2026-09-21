@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T02:49:13.966Z",
+  "updatedAt": "2026-09-21T03:23:50.952Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -170,13 +170,6 @@
         "publishedAt": "2026-09-20T23:10:31.000Z"
       },
       {
-        "time": "20:31",
-        "title": "全身やけどで90代死亡 近くに仏壇",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595948?source=rss",
-        "publishedAt": "2026-09-20T11:31:12.000Z"
-      },
-      {
         "time": "23:02",
         "title": "眼鏡を拾おうと川に入る 16歳死亡",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595959?source=rss",
         "publishedAt": "2026-09-20T13:14:09.000Z"
+      },
+      {
+        "time": "08:01",
+        "title": "子どもを追い込む指導 悩む教員",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595977?source=rss",
+        "publishedAt": "2026-09-20T23:01:55.000Z"
       }
     ],
     "subsidyHeadlines": [

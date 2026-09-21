@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T02:49:14.551Z",
+  "updatedAt": "2026-09-21T03:23:54.611Z",
   "items": [
     {
       "time": "11:35",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風が関東接近 雨量増加に警戒を"
     },
     {
-      "time": "08:10",
-      "title": "豪雨で同級生失い 自衛官志す17歳",
+      "time": "11:12",
+      "title": "米 ICCへの「広範な制裁」準備か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595979?source=rss",
-      "publishedAt": "2026-09-20T23:10:31.000Z",
-      "xQuery": "豪雨で同級生失い 自衛官志す17歳"
+      "url": "https://news.yahoo.co.jp/pickup/6595994?source=rss",
+      "publishedAt": "2026-09-21T02:12:28.000Z",
+      "xQuery": "米 ICCへの「広範な制裁」準備か"
     },
     {
       "time": "09:05",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東名で車がスリップか 運転手死亡"
     },
     {
-      "time": "09:57",
-      "title": "中高年男性の耳毛 なぜ太く伸びる",
+      "time": "08:10",
+      "title": "豪雨で同級生失い 自衛官志す17歳",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595989?source=rss",
-      "publishedAt": "2026-09-21T00:57:17.000Z",
-      "xQuery": "中高年男性の耳毛 なぜ太く伸びる"
+      "url": "https://news.yahoo.co.jp/pickup/6595979?source=rss",
+      "publishedAt": "2026-09-20T23:10:31.000Z",
+      "xQuery": "豪雨で同級生失い 自衛官志す17歳"
     }
   ]
 };
