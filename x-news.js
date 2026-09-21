@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T08:48:35.267Z",
+  "updatedAt": "2026-09-21T09:25:59.665Z",
   "items": [
     {
-      "time": "13:44",
-      "title": "東京・大島町に土砂災害特別警報",
+      "time": "18:04",
+      "title": "台風が関東最接近 夜にかけピーク",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596012?source=rss",
-      "publishedAt": "2026-09-21T04:44:03.000Z",
-      "xQuery": "東京・大島町に土砂災害特別警報"
+      "url": "https://news.yahoo.co.jp/pickup/6596044?source=rss",
+      "publishedAt": "2026-09-21T09:04:01.000Z",
+      "xQuery": "台風が関東最接近 夜にかけピーク"
     },
     {
       "time": "14:08",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉・君津市の小糸川 氾濫か"
     },
     {
-      "time": "16:13",
-      "title": "横須賀で土砂崩れ 1人生き埋めか",
+      "time": "17:58",
+      "title": "鎌倉で道路が川のように 車水没も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596029?source=rss",
-      "publishedAt": "2026-09-21T07:13:42.000Z",
-      "xQuery": "横須賀で土砂崩れ 1人生き埋めか"
+      "url": "https://news.yahoo.co.jp/pickup/6596043?source=rss",
+      "publishedAt": "2026-09-21T08:58:33.000Z",
+      "xQuery": "鎌倉で道路が川のように 車水没も"
     },
     {
       "time": "14:19",
