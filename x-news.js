@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T11:16:56.779Z",
+  "updatedAt": "2026-09-21T11:38:51.820Z",
   "items": [
     {
       "time": "18:04",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "鎌倉で道路が川のように 車水没も"
     },
     {
-      "time": "19:14",
-      "title": "琵琶湖で2人発見し救助 容体不明",
+      "time": "20:01",
+      "title": "国民・玉木氏がウ訪問 野党党首初",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596050?source=rss",
-      "publishedAt": "2026-09-21T10:14:06.000Z",
-      "xQuery": "琵琶湖で2人発見し救助 容体不明"
+      "url": "https://news.yahoo.co.jp/pickup/6596057?source=rss",
+      "publishedAt": "2026-09-21T11:01:59.000Z",
+      "xQuery": "国民・玉木氏がウ訪問 野党党首初"
     }
   ]
 };
