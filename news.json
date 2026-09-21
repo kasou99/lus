@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-21T19:37:22.783Z",
+  "updatedAt": "2026-09-21T20:17:18.565Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:00",
-        "title": "不変と革新 長寿経営に向けて／テヅカ “狭くて深い” 関係を顧客と築く",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DVGRCWnFGM3FDQ3NEUGsyZTI5UXJNaThOeVpPbjJNWXZHS1JzVjdSdEhEZlZIbnd4LWJIRGdCYWF6Tk1aRE9reVpnUHcyWThhM24tV3pyakU?oc=5",
-        "publishedAt": "2026-09-20T20:00:00.000Z"
+        "title": "中部のエンゲージメント戦略 （１４１） 〝誇り〟再確認する機会に ＦＵＪＩ 家族を職場へ招待 プラネタリウム貸し切り応募多数に手応え",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HYkRMZ0lEVjVTNXJHaWppdWZOWWR1MUxIWUNMcE4wZXdnUXlzN1ExVWl3Q0RtcFZza3FUU1IzUkYtUEFNWmNMSHF2V3pIZnJQSTQtZURxMlNlVFpqclEtQk80LUlfTnhjbGhJRENpZGNmTGM?oc=5",
+        "publishedAt": "2026-09-21T20:00:00.000Z"
       },
       {
         "time": "17:52",
@@ -17,25 +17,11 @@
         "publishedAt": "2026-09-21T08:52:54.000Z"
       },
       {
-        "time": "05:00",
-        "title": "モビリティショー｢ビズ｣､200社超が出展 10月開催",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeTlZX2NnV0tlT2duMW5VNHJpVTJZblRGRXZjeGQxV0UxVGpBNENpOWRDYlhYS3B3MkY0WENaX2gtYzM2c3k2SG9kUjJBMy1tY281RDg3eWRvNW82Z3QxMm54U0pGaXdoWGgxZlNwY0xqY1NUbkVHX3FqM2FyaV94RlJXUG55RXI2WHYwMXFwTzhpZW1IX3hUMC1kVXFGVDdUVXUyNQ?oc=5",
-        "publishedAt": "2026-09-20T20:00:00.000Z"
-      },
-      {
         "time": "08:54",
         "title": "産総研「製造AX拠点」始動｜DMG森精機とコマツが工場データを開放へ",
-        "source": "innovatopia.jp",
+        "source": "innovaTopia",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FRnAxd1gwNmhXM01GcHBzay1KUENKdmljR0lNaWFXVklRdzlRcjM3R2dMS3g3M1BuaEkyWHNBLWVqdU9yMmRGci1GWWlmc21QMkhN?oc=5",
         "publishedAt": "2026-09-20T23:54:25.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "リコー、厚木に新棟 28年度上期以降、インクヘッド生産2倍超",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tRFBfajVQT0d6WXdlUzVQd1BaZFJLTmlRNzI3cFJBME5YTkVNNjdhSmV5aWIxcTVWM25VRjBHZFFsVnNyaE5RVm8tUk5qcjdXa1M2TWQyTjA?oc=5",
-        "publishedAt": "2026-09-20T20:00:00.000Z"
       },
       {
         "time": "17:14",
@@ -57,6 +43,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596066?source=rss",
         "publishedAt": "2026-09-21T12:47:53.000Z"
+      },
+      {
+        "time": "15:02",
+        "title": "損保ジャパン 望まない転勤廃止へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595907?source=rss",
+        "publishedAt": "2026-09-20T06:02:14.000Z"
+      },
+      {
+        "time": "08:05",
+        "title": "渋谷で若者離れ? 人流データ分析",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6595978?source=rss",
+        "publishedAt": "2026-09-20T23:05:01.000Z"
       }
     ],
     "worldHeadlines": [
