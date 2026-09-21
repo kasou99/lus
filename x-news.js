@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T03:45:56.376Z",
+  "updatedAt": "2026-09-21T04:23:15.803Z",
   "items": [
+    {
+      "time": "13:19",
+      "title": "命守って 東京・大島町に特別警報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596008?source=rss",
+      "publishedAt": "2026-09-21T04:19:31.000Z",
+      "xQuery": "命守って 東京・大島町に特別警報"
+    },
+    {
+      "time": "13:07",
+      "title": "東京・大島町に特別警報 最新情報",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596007?source=rss",
+      "publishedAt": "2026-09-21T04:07:36.000Z",
+      "xQuery": "東京・大島町に特別警報 最新情報"
+    },
     {
       "time": "11:35",
       "title": "台風が関東接近 雨量増加に警戒を",
@@ -8,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595997?source=rss",
       "publishedAt": "2026-09-21T02:35:48.000Z",
       "xQuery": "台風が関東接近 雨量増加に警戒を"
-    },
-    {
-      "time": "11:12",
-      "title": "米 ICCへの「広範な制裁」準備か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595994?source=rss",
-      "publishedAt": "2026-09-21T02:12:28.000Z",
-      "xQuery": "米 ICCへの「広範な制裁」準備か"
     },
     {
       "time": "12:28",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6595998?source=rss",
       "publishedAt": "2026-09-21T02:37:30.000Z",
       "xQuery": "東名で車がスリップか 運転手死亡"
-    },
-    {
-      "time": "08:10",
-      "title": "豪雨で同級生失い 自衛官志す17歳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595979?source=rss",
-      "publishedAt": "2026-09-20T23:10:31.000Z",
-      "xQuery": "豪雨で同級生失い 自衛官志す17歳"
     }
   ]
 };
