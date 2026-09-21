@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T10:39:56.852Z",
+  "updatedAt": "2026-09-21T11:16:56.779Z",
   "items": [
     {
       "time": "18:04",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 最新情報や避難のポイント"
     },
     {
+      "time": "19:47",
+      "title": "神奈川で土砂崩れ相次ぐ 2人不明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596052?source=rss",
+      "publishedAt": "2026-09-21T10:47:52.000Z",
+      "xQuery": "神奈川で土砂崩れ相次ぐ 2人不明"
+    },
+    {
       "time": "17:58",
       "title": "鎌倉で道路が川のように 車水没も",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596043?source=rss",
       "publishedAt": "2026-09-21T08:58:33.000Z",
       "xQuery": "鎌倉で道路が川のように 車水没も"
-    },
-    {
-      "time": "19:03",
-      "title": "復旧作業中土砂崩れ 川に男性転落",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596049?source=rss",
-      "publishedAt": "2026-09-21T10:03:11.000Z",
-      "xQuery": "復旧作業中土砂崩れ 川に男性転落"
     },
     {
       "time": "19:14",
