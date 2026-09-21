@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T05:41:43.493Z",
+  "updatedAt": "2026-09-21T06:41:13.162Z",
   "items": [
     {
       "time": "13:44",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "神奈川県東部 線状降水帯発生恐れ"
     },
     {
-      "time": "12:28",
-      "title": "事故で意識不明の男児が死亡 福岡",
+      "time": "14:40",
+      "title": "事故に巻き込まれ 3歳男児が死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596004?source=rss",
-      "publishedAt": "2026-09-21T03:28:34.000Z",
-      "xQuery": "事故で意識不明の男児が死亡 福岡"
+      "url": "https://news.yahoo.co.jp/pickup/6596020?source=rss",
+      "publishedAt": "2026-09-21T05:40:21.000Z",
+      "xQuery": "事故に巻き込まれ 3歳男児が死亡"
     }
   ]
 };
