@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T11:38:51.820Z",
+  "updatedAt": "2026-09-21T12:26:14.823Z",
   "items": [
     {
       "time": "18:04",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 最新情報や避難のポイント"
     },
     {
-      "time": "19:47",
-      "title": "神奈川で土砂崩れ相次ぐ 2人不明",
+      "time": "20:46",
+      "title": "復旧作業中に土砂崩れ 男性重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596052?source=rss",
-      "publishedAt": "2026-09-21T10:47:52.000Z",
-      "xQuery": "神奈川で土砂崩れ相次ぐ 2人不明"
+      "url": "https://news.yahoo.co.jp/pickup/6596060?source=rss",
+      "publishedAt": "2026-09-21T11:46:13.000Z",
+      "xQuery": "復旧作業中に土砂崩れ 男性重体"
     },
     {
-      "time": "17:58",
-      "title": "鎌倉で道路が川のように 車水没も",
+      "time": "21:14",
+      "title": "8月に続き「またか」千葉で嘆き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596043?source=rss",
-      "publishedAt": "2026-09-21T08:58:33.000Z",
-      "xQuery": "鎌倉で道路が川のように 車水没も"
+      "url": "https://news.yahoo.co.jp/pickup/6596061?source=rss",
+      "publishedAt": "2026-09-21T12:14:38.000Z",
+      "xQuery": "8月に続き「またか」千葉で嘆き"
     },
     {
-      "time": "20:01",
-      "title": "国民・玉木氏がウ訪問 野党党首初",
+      "time": "20:35",
+      "title": "千葉県を中心に停電発生 最新状況",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596057?source=rss",
-      "publishedAt": "2026-09-21T11:01:59.000Z",
-      "xQuery": "国民・玉木氏がウ訪問 野党党首初"
+      "url": "https://news.yahoo.co.jp/pickup/6596059?source=rss",
+      "publishedAt": "2026-09-21T11:35:24.000Z",
+      "xQuery": "千葉県を中心に停電発生 最新状況"
     }
   ]
 };
