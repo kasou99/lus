@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T01:33:48.401Z",
+  "updatedAt": "2026-09-21T02:28:53.810Z",
   "items": [
     {
       "time": "09:24",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風25号 空の便にも大きな影響"
     },
     {
+      "time": "09:05",
+      "title": "独州議会選 極右政党が再び勝利",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6595985?source=rss",
+      "publishedAt": "2026-09-21T00:05:01.000Z",
+      "xQuery": "独州議会選 極右政党が再び勝利"
+    },
+    {
       "time": "09:53",
       "title": "富士山頂の混雑で転倒懸念 検証へ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6595990?source=rss",
       "publishedAt": "2026-09-21T00:53:00.000Z",
       "xQuery": "富士山頂の混雑で転倒懸念 検証へ"
-    },
-    {
-      "time": "09:32",
-      "title": "改造内閣「革命的人事」の舞台裏",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6595988?source=rss",
-      "publishedAt": "2026-09-21T00:32:23.000Z",
-      "xQuery": "改造内閣「革命的人事」の舞台裏"
     },
     {
       "time": "09:57",
