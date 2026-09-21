@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-21T13:40:21.839Z",
+  "updatedAt": "2026-09-21T14:20:35.015Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:00",
         "title": "不変と革新 長寿経営に向けて／テヅカ “狭くて深い” 関係を顧客と築く",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DVGRCWnFGM3FDQ3NEUGsyZTI5UXJNaThOeVpPbjJNWXZHS1JzVjdSdEhEZlZIbnd4LWJIRGdCYWF6Tk1aRE9reVpnUHcyWThhM24tV3pyakU?oc=5",
         "publishedAt": "2026-09-20T20:00:00.000Z"
       },
@@ -26,7 +26,7 @@
       {
         "time": "05:00",
         "title": "インタビュー／JAXAエンジニア・後藤大亮氏 ベンチャー・キャピタリストの小松伸多佳氏 米スペースＸ・マスク氏参考に",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PemRjZHpYbi1TOVE5Z0pqYmhrRTFIcUU4S1FsMHZsenJkTnV1ZVF5dDl4TkJldllDbEJCVDdfVEk4SUoxRk1FTF9EbHNlWDVQYmNkdm9keHU?oc=5",
         "publishedAt": "2026-09-20T20:00:00.000Z"
       },
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "23:16",
+        "title": "CNN 記者証没収で米政権を提訴へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596072?source=rss",
+        "publishedAt": "2026-09-21T14:16:56.000Z"
+      },
+      {
         "time": "21:51",
         "title": "中国 軍制服組トップら2人を処分",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595985?source=rss",
         "publishedAt": "2026-09-21T00:05:01.000Z"
-      },
-      {
-        "time": "11:12",
-        "title": "米 ICCへの「広範な制裁」準備か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595994?source=rss",
-        "publishedAt": "2026-09-21T02:12:28.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-09-21T13:09:29.000Z"
       },
       {
-        "time": "22:16",
-        "title": "千葉・市原市の高滝ダム 緊急放流",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596070?source=rss",
-        "publishedAt": "2026-09-21T13:16:37.000Z"
-      },
-      {
         "time": "17:29",
         "title": "千葉・君津市の小糸川 氾濫か",
         "source": "Yahoo!ニュース",
@@ -170,18 +163,25 @@
         "publishedAt": "2026-09-21T08:29:06.000Z"
       },
       {
-        "time": "14:00",
-        "title": "台風が関東に接近 現地のSNS投稿",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596015?source=rss",
-        "publishedAt": "2026-09-21T05:00:14.000Z"
-      },
-      {
         "time": "21:14",
         "title": "8月に続き「またか」千葉で嘆き",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596061?source=rss",
         "publishedAt": "2026-09-21T12:14:38.000Z"
+      },
+      {
+        "time": "22:53",
+        "title": "東京・目黒区の住宅街 擁壁崩れる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596076?source=rss",
+        "publishedAt": "2026-09-21T13:53:04.000Z"
+      },
+      {
+        "time": "14:00",
+        "title": "台風が関東に接近 現地のSNS投稿",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596015?source=rss",
+        "publishedAt": "2026-09-21T05:00:14.000Z"
       },
       {
         "time": "17:58",

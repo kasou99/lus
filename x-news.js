@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T13:40:22.615Z",
+  "updatedAt": "2026-09-21T14:20:35.743Z",
   "items": [
+    {
+      "time": "23:14",
+      "title": "大島町 土砂災害危険警報に切替",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596081?source=rss",
+      "publishedAt": "2026-09-21T14:14:43.000Z",
+      "xQuery": "大島町 土砂災害危険警報に切替"
+    },
     {
       "time": "19:02",
       "title": "台風 最新情報や避難のポイント",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 最新情報や避難のポイント"
     },
     {
-      "time": "22:16",
-      "title": "千葉・市原市の高滝ダム 緊急放流",
+      "time": "22:52",
+      "title": "台風が連休直撃 観光客からため息",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596070?source=rss",
-      "publishedAt": "2026-09-21T13:16:37.000Z",
-      "xQuery": "千葉・市原市の高滝ダム 緊急放流"
-    },
-    {
-      "time": "22:09",
-      "title": "神奈川3人生き埋めか 千葉1人重体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596069?source=rss",
-      "publishedAt": "2026-09-21T13:09:29.000Z",
-      "xQuery": "神奈川3人生き埋めか 千葉1人重体"
+      "url": "https://news.yahoo.co.jp/pickup/6596075?source=rss",
+      "publishedAt": "2026-09-21T13:52:51.000Z",
+      "xQuery": "台風が連休直撃 観光客からため息"
     },
     {
       "time": "21:14",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "8月に続き「またか」千葉で嘆き"
     },
     {
-      "time": "21:51",
-      "title": "中国 軍制服組トップら2人を処分",
+      "time": "22:53",
+      "title": "東京・目黒区の住宅街 擁壁崩れる",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596064?source=rss",
-      "publishedAt": "2026-09-21T12:51:54.000Z",
-      "xQuery": "中国 軍制服組トップら2人を処分"
+      "url": "https://news.yahoo.co.jp/pickup/6596076?source=rss",
+      "publishedAt": "2026-09-21T13:53:04.000Z",
+      "xQuery": "東京・目黒区の住宅街 擁壁崩れる"
     }
   ]
 };
