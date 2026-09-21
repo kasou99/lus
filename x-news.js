@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T05:19:33.271Z",
+  "updatedAt": "2026-09-21T05:41:43.493Z",
   "items": [
     {
       "time": "13:44",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "神奈川県東部 線状降水帯発生恐れ"
     },
     {
-      "time": "13:26",
-      "title": "全国の鉄道・フライト 最新情報",
+      "time": "12:28",
+      "title": "事故で意識不明の男児が死亡 福岡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6594476?source=rss",
-      "publishedAt": "2026-09-21T04:26:51.000Z",
-      "xQuery": "全国の鉄道・フライト 最新情報"
+      "url": "https://news.yahoo.co.jp/pickup/6596004?source=rss",
+      "publishedAt": "2026-09-21T03:28:34.000Z",
+      "xQuery": "事故で意識不明の男児が死亡 福岡"
     }
   ]
 };
