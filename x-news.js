@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T22:16:37.731Z",
+  "updatedAt": "2026-09-21T22:38:07.185Z",
   "items": [
     {
       "time": "23:14",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "三浦半島 土砂崩れ相次ぎ1人死亡"
     },
     {
-      "time": "22:52",
-      "title": "台風が連休直撃 観光客からため息",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596075?source=rss",
-      "publishedAt": "2026-09-21T13:52:51.000Z",
-      "xQuery": "台風が連休直撃 観光客からため息"
-    },
-    {
-      "time": "23:44",
-      "title": "神奈川県 自衛隊に災害派遣要請",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596083?source=rss",
-      "publishedAt": "2026-09-21T14:44:31.000Z",
-      "xQuery": "神奈川県 自衛隊に災害派遣要請"
-    },
-    {
       "time": "23:25",
       "title": "高滝ダム緊急放流 見合わせる方向",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596080?source=rss",
       "publishedAt": "2026-09-21T14:25:11.000Z",
       "xQuery": "高滝ダム緊急放流 見合わせる方向"
+    },
+    {
+      "time": "22:53",
+      "title": "東京・目黒区の住宅街 擁壁崩れる",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596076?source=rss",
+      "publishedAt": "2026-09-21T13:53:04.000Z",
+      "xQuery": "東京・目黒区の住宅街 擁壁崩れる"
+    },
+    {
+      "time": "23:33",
+      "title": "22歳死亡 発見時豚が覆いかぶさる",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596082?source=rss",
+      "publishedAt": "2026-09-21T14:33:22.000Z",
+      "xQuery": "22歳死亡 発見時豚が覆いかぶさる"
     }
   ]
 };
