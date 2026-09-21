@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T22:38:07.185Z",
+  "updatedAt": "2026-09-21T23:37:31.862Z",
   "items": [
     {
-      "time": "23:14",
-      "title": "大島町 土砂災害危険警報に切替",
+      "time": "07:36",
+      "title": "台風の爪痕残る 川や崖など注意を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596081?source=rss",
-      "publishedAt": "2026-09-21T14:14:43.000Z",
-      "xQuery": "大島町 土砂災害危険警報に切替"
+      "url": "https://news.yahoo.co.jp/pickup/6596089?source=rss",
+      "publishedAt": "2026-09-21T22:36:09.000Z",
+      "xQuery": "台風の爪痕残る 川や崖など注意を"
     },
     {
-      "time": "00:19",
-      "title": "三浦半島 土砂崩れ相次ぎ1人死亡",
+      "time": "07:46",
+      "title": "台風被害 土砂崩れ相次ぎ2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596085?source=rss",
-      "publishedAt": "2026-09-21T15:19:58.000Z",
-      "xQuery": "三浦半島 土砂崩れ相次ぎ1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6596092?source=rss",
+      "publishedAt": "2026-09-21T22:46:14.000Z",
+      "xQuery": "台風被害 土砂崩れ相次ぎ2人死亡"
     },
     {
-      "time": "23:25",
-      "title": "高滝ダム緊急放流 見合わせる方向",
+      "time": "07:42",
+      "title": "コロナ自宅待機1年半で自死 労災",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596080?source=rss",
-      "publishedAt": "2026-09-21T14:25:11.000Z",
-      "xQuery": "高滝ダム緊急放流 見合わせる方向"
+      "url": "https://news.yahoo.co.jp/pickup/6596090?source=rss",
+      "publishedAt": "2026-09-21T22:42:04.000Z",
+      "xQuery": "コロナ自宅待機1年半で自死 労災"
     },
     {
-      "time": "22:53",
-      "title": "東京・目黒区の住宅街 擁壁崩れる",
+      "time": "08:09",
+      "title": "12時間ほど琵琶湖漂流 男性を救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596076?source=rss",
-      "publishedAt": "2026-09-21T13:53:04.000Z",
-      "xQuery": "東京・目黒区の住宅街 擁壁崩れる"
+      "url": "https://news.yahoo.co.jp/pickup/6596095?source=rss",
+      "publishedAt": "2026-09-21T23:09:05.000Z",
+      "xQuery": "12時間ほど琵琶湖漂流 男性を救助"
     },
     {
       "time": "23:33",
