@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-21T21:36:42.254Z",
+  "updatedAt": "2026-09-21T22:16:36.702Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "NTTデータとミンカブが提携 金融機関向け支援を強化",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DWndaWTZwSlZtS1ZXdjNYX1pmaUo5cUNFNWtKbUJUQXpITXFQd0lYbDBRcWJINWNodFFwT1pLVFhseVNITGlyY1NlVnFHcXBXUWhhNlZnSXRQaFM5T3QyU0JkSXJyX1J4Y3owaENNSGtKd2pLRzZ4UDJNUQ?oc=5",
+        "publishedAt": "2026-09-21T20:00:00.000Z"
+      },
       {
         "time": "05:00",
         "title": "中部のエンゲージメント戦略 （１４１） 〝誇り〟再確認する機会に ＦＵＪＩ 家族を職場へ招待 プラネタリウム貸し切り応募多数に手応え",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6595907?source=rss",
         "publishedAt": "2026-09-20T06:02:14.000Z"
-      },
-      {
-        "time": "08:05",
-        "title": "渋谷で若者離れ? 人流データ分析",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595978?source=rss",
-        "publishedAt": "2026-09-20T23:05:01.000Z"
       }
     ],
     "worldHeadlines": [
