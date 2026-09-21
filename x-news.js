@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T12:46:00.416Z",
+  "updatedAt": "2026-09-21T13:18:27.394Z",
   "items": [
-    {
-      "time": "18:04",
-      "title": "台風が関東最接近 夜にかけピーク",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596044?source=rss",
-      "publishedAt": "2026-09-21T09:04:01.000Z",
-      "xQuery": "台風が関東最接近 夜にかけピーク"
-    },
     {
       "time": "19:02",
       "title": "台風 最新情報や避難のポイント",
@@ -18,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 最新情報や避難のポイント"
     },
     {
-      "time": "20:46",
-      "title": "復旧作業中に土砂崩れ 男性重体",
+      "time": "22:09",
+      "title": "神奈川3人生き埋めか 千葉1人重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596060?source=rss",
-      "publishedAt": "2026-09-21T11:46:13.000Z",
-      "xQuery": "復旧作業中に土砂崩れ 男性重体"
+      "url": "https://news.yahoo.co.jp/pickup/6596069?source=rss",
+      "publishedAt": "2026-09-21T13:09:29.000Z",
+      "xQuery": "神奈川3人生き埋めか 千葉1人重体"
     },
     {
       "time": "21:14",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596059?source=rss",
       "publishedAt": "2026-09-21T11:35:24.000Z",
       "xQuery": "千葉県を中心に停電発生 最新状況"
+    },
+    {
+      "time": "21:51",
+      "title": "中国 軍制服組トップら2人を処分",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596064?source=rss",
+      "publishedAt": "2026-09-21T12:51:54.000Z",
+      "xQuery": "中国 軍制服組トップら2人を処分"
     }
   ]
 };
