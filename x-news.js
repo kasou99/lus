@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T02:25:54.605Z",
+  "updatedAt": "2026-09-22T02:45:16.867Z",
   "items": [
     {
       "time": "10:01",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風被害 新たに1人の死亡確認"
     },
     {
-      "time": "09:48",
-      "title": "家借りられない高齢者も 背景は",
+      "time": "11:30",
+      "title": "女性が腹部刺され死亡 男を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596107?source=rss",
-      "publishedAt": "2026-09-22T00:48:01.000Z",
-      "xQuery": "家借りられない高齢者も 背景は"
+      "url": "https://news.yahoo.co.jp/pickup/6596117?source=rss",
+      "publishedAt": "2026-09-22T02:30:30.000Z",
+      "xQuery": "女性が腹部刺され死亡 男を逮捕"
     },
     {
-      "time": "09:17",
-      "title": "うるう秒10月に廃止 自転速まり",
+      "time": "10:13",
+      "title": "露攻撃 ウ首都でマック品切れ続出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596102?source=rss",
-      "publishedAt": "2026-09-22T00:17:50.000Z",
-      "xQuery": "うるう秒10月に廃止 自転速まり"
+      "url": "https://news.yahoo.co.jp/pickup/6596111?source=rss",
+      "publishedAt": "2026-09-22T01:13:24.000Z",
+      "xQuery": "露攻撃 ウ首都でマック品切れ続出"
     }
   ]
 };
