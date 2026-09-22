@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T22:15:26.790Z",
+  "updatedAt": "2026-09-22T22:37:08.096Z",
   "items": [
     {
-      "time": "07:11",
-      "title": "米大統領 国連でICC脱退呼びかけ",
+      "time": "07:15",
+      "title": "日米 経済安保で連携の方針一致",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596198?source=rss",
-      "publishedAt": "2026-09-22T22:11:22.000Z",
-      "xQuery": "米大統領 国連でICC脱退呼びかけ"
+      "url": "https://news.yahoo.co.jp/pickup/6596200?source=rss",
+      "publishedAt": "2026-09-22T22:15:54.000Z",
+      "xQuery": "日米 経済安保で連携の方針一致"
     },
     {
       "time": "21:24",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "今年3度目の大雨被害 千葉に爪痕"
     },
     {
-      "time": "21:38",
-      "title": "AI搭載の人型ロボ 防衛活用研究へ",
+      "time": "07:11",
+      "title": "米大統領 国連でICC脱退呼びかけ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596184?source=rss",
-      "publishedAt": "2026-09-22T12:38:00.000Z",
-      "xQuery": "AI搭載の人型ロボ 防衛活用研究へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596198?source=rss",
+      "publishedAt": "2026-09-22T22:11:22.000Z",
+      "xQuery": "米大統領 国連でICC脱退呼びかけ"
     },
     {
-      "time": "23:21",
-      "title": "琵琶湖で3人捜しに出た男性 死亡",
+      "time": "07:30",
+      "title": "AIは「SI」に改称 米大統領宣言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596193?source=rss",
-      "publishedAt": "2026-09-22T14:21:28.000Z",
-      "xQuery": "琵琶湖で3人捜しに出た男性 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6596201?source=rss",
+      "publishedAt": "2026-09-22T22:30:01.000Z",
+      "xQuery": "AIは「SI」に改称 米大統領宣言"
     },
     {
-      "time": "21:18",
-      "title": "SUPに2人乗りし落ちたか 1人死亡",
+      "time": "23:01",
+      "title": "地方のキャバクラ 経営「四重苦」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596181?source=rss",
-      "publishedAt": "2026-09-22T12:18:12.000Z",
-      "xQuery": "SUPに2人乗りし落ちたか 1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6596192?source=rss",
+      "publishedAt": "2026-09-22T14:01:34.000Z",
+      "xQuery": "地方のキャバクラ 経営「四重苦」"
     }
   ]
 };
