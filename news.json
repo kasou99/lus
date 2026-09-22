@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T13:40:21.770Z",
+  "updatedAt": "2026-09-22T14:18:42.390Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EX0s3SEU5RnRqSWlUR0duMURwbXRGR3VveWFvYndQWnlwUkRKWkpvVmxxZW5OaDZVZU1ldHZKeTdfYXZ5WjluTEZwSzlxUkJ3b3ZBTTB5d3Q?oc=5",
         "publishedAt": "2026-09-21T20:00:00.000Z"
-      },
-      {
-        "time": "12:17",
-        "title": "CNCツールマガジン市場分析レポート：2026年1310百万米ドル規模、成長率7.4%推移｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VS1h6X0tuX1VsMVJJUjJVekhmZ1lOQ0p2d0ZqQ2c5NW1hYTVqQ1VOUkZ0U0RZaTZwNWxKUmlDV01mQjRZVXd5MGRYMVR6UEJFYi1DVTJsUQ?oc=5",
-        "publishedAt": "2026-09-22T03:17:03.000Z"
       },
       {
         "time": "15:25",
@@ -38,13 +31,6 @@
         "publishedAt": "2026-09-21T20:00:00.000Z"
       },
       {
-        "time": "12:09",
-        "title": "成田空港で一夜 最大4000人足止め",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596123?source=rss",
-        "publishedAt": "2026-09-22T03:09:24.000Z"
-      },
-      {
         "time": "11:07",
         "title": "赤潮で魚153万匹死ぬ 被害37億円",
         "source": "Yahoo!ニュース",
@@ -57,6 +43,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596106?source=rss",
         "publishedAt": "2026-09-22T00:28:43.000Z"
+      },
+      {
+        "time": "18:07",
+        "title": "東南アジア食品市場 日本の勝機は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596162?source=rss",
+        "publishedAt": "2026-09-22T09:07:39.000Z"
+      },
+      {
+        "time": "17:30",
+        "title": "パラマウント WBD買収へ前進",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596158?source=rss",
+        "publishedAt": "2026-09-22T08:30:29.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,28 +89,21 @@
         "publishedAt": "2026-09-22T01:13:24.000Z"
       },
       {
-        "time": "17:29",
-        "title": "G7外相 フーシ派の攻撃強く非難",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596159?source=rss",
-        "publishedAt": "2026-09-22T08:29:59.000Z"
-      },
-      {
         "time": "22:33",
         "title": "サウジのパイプライン 稼働再開",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596177?source=rss",
         "publishedAt": "2026-09-22T13:33:42.000Z"
+      },
+      {
+        "time": "22:47",
+        "title": "インドネシア 緊急地震速報整備へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596190?source=rss",
+        "publishedAt": "2026-09-22T13:47:41.000Z"
       }
     ],
     "economyHeadlines": [
-      {
-        "time": "12:09",
-        "title": "成田空港で一夜 最大4000人足止め",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596123?source=rss",
-        "publishedAt": "2026-09-22T03:09:24.000Z"
-      },
       {
         "time": "11:07",
         "title": "赤潮で魚153万匹死ぬ 被害37億円",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596066?source=rss",
         "publishedAt": "2026-09-21T12:47:53.000Z"
+      },
+      {
+        "time": "11:45",
+        "title": "修繕費計5億円超 観光施設閉園へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596120?source=rss",
+        "publishedAt": "2026-09-22T02:45:08.000Z"
       }
     ],
     "localHeadlines": [

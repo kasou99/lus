@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T13:40:22.928Z",
+  "updatedAt": "2026-09-22T14:18:46.020Z",
   "items": [
     {
       "time": "21:24",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "AI搭載の人型ロボ 防衛活用研究へ"
     },
     {
-      "time": "19:54",
-      "title": "事故巻き添えで3歳死亡 両親心境",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596173?source=rss",
-      "publishedAt": "2026-09-22T10:54:20.000Z",
-      "xQuery": "事故巻き添えで3歳死亡 両親心境"
-    },
-    {
       "time": "21:18",
       "title": "SUPに2人乗りし落ちたか 1人死亡",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "SUPに2人乗りし落ちたか 1人死亡"
     },
     {
-      "time": "22:13",
-      "title": "元暴力団員 諦めなかった慶大受験",
+      "time": "22:47",
+      "title": "インドネシア 緊急地震速報整備へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596188?source=rss",
-      "publishedAt": "2026-09-22T13:13:42.000Z",
-      "xQuery": "元暴力団員 諦めなかった慶大受験"
+      "url": "https://news.yahoo.co.jp/pickup/6596190?source=rss",
+      "publishedAt": "2026-09-22T13:47:41.000Z",
+      "xQuery": "インドネシア 緊急地震速報整備へ"
+    },
+    {
+      "time": "23:01",
+      "title": "地方のキャバクラ 経営「四重苦」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596192?source=rss",
+      "publishedAt": "2026-09-22T14:01:34.000Z",
+      "xQuery": "地方のキャバクラ 経営「四重苦」"
     }
   ]
 };
