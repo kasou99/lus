@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T14:42:00.863Z",
+  "updatedAt": "2026-09-22T15:17:42.120Z",
   "items": [
     {
       "time": "21:24",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "AI搭載の人型ロボ 防衛活用研究へ"
     },
     {
-      "time": "23:22",
-      "title": "維新が大阪で苦戦 問われる存在感",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596194?source=rss",
-      "publishedAt": "2026-09-22T14:22:57.000Z",
-      "xQuery": "維新が大阪で苦戦 問われる存在感"
-    },
-    {
       "time": "23:21",
       "title": "琵琶湖で3人捜しに出た男性 死亡",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596181?source=rss",
       "publishedAt": "2026-09-22T12:18:12.000Z",
       "xQuery": "SUPに2人乗りし落ちたか 1人死亡"
+    },
+    {
+      "time": "16:28",
+      "title": "配偶者と性行為つらい 向き合い方",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596150?source=rss",
+      "publishedAt": "2026-09-22T07:28:35.000Z",
+      "xQuery": "配偶者と性行為つらい 向き合い方"
     }
   ]
 };
