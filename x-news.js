@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T11:16:33.357Z",
+  "updatedAt": "2026-09-22T11:38:24.057Z",
   "items": [
     {
       "time": "19:21",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 千葉・神奈川で死者計6人に"
     },
     {
-      "time": "16:11",
-      "title": "日米 中国を念頭に連携強化確認へ",
+      "time": "17:29",
+      "title": "G7外相 フーシ派の攻撃強く非難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596148?source=rss",
-      "publishedAt": "2026-09-22T07:11:25.000Z",
-      "xQuery": "日米 中国を念頭に連携強化確認へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596159?source=rss",
+      "publishedAt": "2026-09-22T08:29:59.000Z",
+      "xQuery": "G7外相 フーシ派の攻撃強く非難"
     },
     {
       "time": "19:54",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "博士号授与されず 学生が大学提訴"
     },
     {
-      "time": "16:28",
-      "title": "配偶者と性行為つらい 向き合い方",
+      "time": "18:53",
+      "title": "3歳娘が白血病に 闘う姿から教え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596150?source=rss",
-      "publishedAt": "2026-09-22T07:28:35.000Z",
-      "xQuery": "配偶者と性行為つらい 向き合い方"
+      "url": "https://news.yahoo.co.jp/pickup/6596168?source=rss",
+      "publishedAt": "2026-09-22T09:53:00.000Z",
+      "xQuery": "3歳娘が白血病に 闘う姿から教え"
     }
   ]
 };
