@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T13:18:06.742Z",
+  "updatedAt": "2026-09-22T13:40:22.928Z",
   "items": [
     {
       "time": "21:24",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "SUPに2人乗りし落ちたか 1人死亡"
     },
     {
-      "time": "21:01",
-      "title": "AIで鉄道運行支援 日立が本格展開",
+      "time": "22:13",
+      "title": "元暴力団員 諦めなかった慶大受験",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596176?source=rss",
-      "publishedAt": "2026-09-22T12:01:07.000Z",
-      "xQuery": "AIで鉄道運行支援 日立が本格展開"
+      "url": "https://news.yahoo.co.jp/pickup/6596188?source=rss",
+      "publishedAt": "2026-09-22T13:13:42.000Z",
+      "xQuery": "元暴力団員 諦めなかった慶大受験"
     }
   ]
 };
