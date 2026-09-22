@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-09-22T20:38:39.612Z",
+  "updatedAt": "2026-09-22T21:14:42.006Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "00:18",
         "title": "NTTデータとミンカブが提携 金融機関向け支援を強化",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ONzNmQ29aR3VnY2R5WWtKek5uZ0F0eHZDaWpSYWRQVW85ckhHOUlhSmdiSzd5Y3lQc3llOWljcVBMdXhNcFhVMm9aaE5OOWRPdW1KWkxPYmY?oc=5",
         "publishedAt": "2026-09-22T15:18:37.000Z"
+      },
+      {
+        "time": "12:17",
+        "title": "CNCツールマガジン市場分析レポート：2026年1310百万米ドル規模、成長率7.4%推移｜QYResearch",
+        "source": "note",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VS1h6X0tuX1VsMVJJUjJVekhmZ1lOQ0p2d0ZqQ2c5NW1hYTVqQ1VOUkZ0U0RZaTZwNWxKUmlDV01mQjRZVXd5MGRYMVR6UEJFYi1DVTJsUQ?oc=5",
+        "publishedAt": "2026-09-22T03:17:03.000Z"
       },
       {
         "time": "15:25",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596158?source=rss",
         "publishedAt": "2026-09-22T08:30:29.000Z"
-      },
-      {
-        "time": "21:47",
-        "title": "NHK 戸別訪問営業の外部委託再開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596066?source=rss",
-        "publishedAt": "2026-09-21T12:47:53.000Z"
       }
     ],
     "worldHeadlines": [
