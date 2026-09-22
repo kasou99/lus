@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T11:38:24.057Z",
+  "updatedAt": "2026-09-22T12:26:21.206Z",
   "items": [
     {
-      "time": "19:21",
-      "title": "台風 千葉・神奈川で死者計6人に",
+      "time": "21:06",
+      "title": "台風 千葉・神奈川で死者計7人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596171?source=rss",
-      "publishedAt": "2026-09-22T10:21:50.000Z",
-      "xQuery": "台風 千葉・神奈川で死者計6人に"
+      "url": "https://news.yahoo.co.jp/pickup/6596179?source=rss",
+      "publishedAt": "2026-09-22T12:06:15.000Z",
+      "xQuery": "台風 千葉・神奈川で死者計7人に"
     },
     {
       "time": "17:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "事故巻き添えで3歳死亡 両親心境"
     },
     {
+      "time": "21:01",
+      "title": "AIで鉄道運行支援 日立が本格展開",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596176?source=rss",
+      "publishedAt": "2026-09-22T12:01:07.000Z",
+      "xQuery": "AIで鉄道運行支援 日立が本格展開"
+    },
+    {
       "time": "18:01",
       "title": "博士号授与されず 学生が大学提訴",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596164?source=rss",
       "publishedAt": "2026-09-22T09:01:09.000Z",
       "xQuery": "博士号授与されず 学生が大学提訴"
-    },
-    {
-      "time": "18:53",
-      "title": "3歳娘が白血病に 闘う姿から教え",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596168?source=rss",
-      "publishedAt": "2026-09-22T09:53:00.000Z",
-      "xQuery": "3歳娘が白血病に 闘う姿から教え"
     }
   ]
 };

@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-22T11:38:23.380Z",
+  "updatedAt": "2026-09-22T12:26:19.803Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:00",
-        "title": "ロボットと働く／東京都豊島区、自律ロボ巡回 障がい者見守り",
+        "time": "07:04",
+        "title": "NTTデータとミンカブが提携 金融機関向け支援を強化",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EX0s3SEU5RnRqSWlUR0duMURwbXRGR3VveWFvYndQWnlwUkRKWkpvVmxxZW5OaDZVZU1ldHZKeTdfYXZ5WjluTEZwSzlxUkJ3b3ZBTTB5d3Q?oc=5",
-        "publishedAt": "2026-09-21T20:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ONzNmQ29aR3VnY2R5WWtKek5uZ0F0eHZDaWpSYWRQVW85ckhHOUlhSmdiSzd5Y3lQc3llOWljcVBMdXhNcFhVMm9aaE5OOWRPdW1KWkxPYmY?oc=5",
+        "publishedAt": "2026-09-21T22:04:21.000Z"
       },
       {
         "time": "15:25",
         "title": "韓国のSNTホールディングス、SMEC経営陣に29日面談を提案…財務・ガバナンス協議へ",
-        "source": "finance.biggo.jp",
+        "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wenhtRkRsdld3NERwMjlxcDRCMlNOTUVKZTFlbUJEUm5wUjUtVnhRWUI3eDUtLTVxYVF5bnQtaWlDUzZZOTY0VGUtNjNNd1REc3ZjZUJvaDdNTGRlQzlYYWM1eHJGZnVyNzhPVjUyUnZUb1ot?oc=5",
         "publishedAt": "2026-09-22T06:25:00.000Z"
       },
@@ -25,9 +25,9 @@
       },
       {
         "time": "05:00",
-        "title": "NTTデータとミンカブが提携 金融機関向け支援を強化",
+        "title": "ロボットと働く／東京都豊島区、自律ロボ巡回 障がい者見守り",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DWndaWTZwSlZtS1ZXdjNYX1pmaUo5cUNFNWtKbUJUQXpITXFQd0lYbDBRcWJINWNodFFwT1pLVFhseVNITGlyY1NlVnFHcXBXUWhhNlZnSXRQaFM5T3QyU0JkSXJyX1J4Y3owaENNSGtKd2pLRzZ4UDJNUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EX0s3SEU5RnRqSWlUR0duMURwbXRGR3VveWFvYndQWnlwUkRKWkpvVmxxZW5OaDZVZU1ldHZKeTdfYXZ5WjluTEZwSzlxUkJ3b3ZBTTB5d3Q?oc=5",
         "publishedAt": "2026-09-21T20:00:00.000Z"
       },
       {
@@ -149,11 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "19:21",
-        "title": "台風 千葉・神奈川で死者計6人に",
+        "time": "21:06",
+        "title": "台風 千葉・神奈川で死者計7人に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596171?source=rss",
-        "publishedAt": "2026-09-22T10:21:50.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596179?source=rss",
+        "publishedAt": "2026-09-22T12:06:15.000Z"
+      },
+      {
+        "time": "21:24",
+        "title": "今年3度目の大雨被害 千葉に爪痕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596183?source=rss",
+        "publishedAt": "2026-09-22T12:24:25.000Z"
       },
       {
         "time": "16:10",
@@ -175,13 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596173?source=rss",
         "publishedAt": "2026-09-22T10:54:20.000Z"
-      },
-      {
-        "time": "16:56",
-        "title": "琵琶湖に遺体 3人を捜索の知人か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596151?source=rss",
-        "publishedAt": "2026-09-22T07:56:31.000Z"
       },
       {
         "time": "11:30",
