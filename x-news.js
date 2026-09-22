@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T01:49:20.417Z",
+  "updatedAt": "2026-09-22T02:25:54.605Z",
   "items": [
     {
       "time": "10:01",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風一過 関東など急な暑さに注意"
     },
     {
-      "time": "10:13",
-      "title": "千葉県 22日朝も5万軒近く停電",
+      "time": "11:06",
+      "title": "台風による大雨 千葉県の被害状況",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596110?source=rss",
-      "publishedAt": "2026-09-22T01:13:58.000Z",
-      "xQuery": "千葉県 22日朝も5万軒近く停電"
+      "url": "https://news.yahoo.co.jp/pickup/6596116?source=rss",
+      "publishedAt": "2026-09-22T02:06:44.000Z",
+      "xQuery": "台風による大雨 千葉県の被害状況"
     },
     {
       "time": "10:20",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風被害 新たに1人の死亡確認"
     },
     {
-      "time": "08:39",
-      "title": "重要資源代替の研究力強化へ 政府",
+      "time": "09:48",
+      "title": "家借りられない高齢者も 背景は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596100?source=rss",
-      "publishedAt": "2026-09-21T23:39:39.000Z",
-      "xQuery": "重要資源代替の研究力強化へ 政府"
+      "url": "https://news.yahoo.co.jp/pickup/6596107?source=rss",
+      "publishedAt": "2026-09-22T00:48:01.000Z",
+      "xQuery": "家借りられない高齢者も 背景は"
     },
     {
-      "time": "08:10",
-      "title": "婚活サイトに599人分情報 県謝罪",
+      "time": "09:17",
+      "title": "うるう秒10月に廃止 自転速まり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596094?source=rss",
-      "publishedAt": "2026-09-21T23:10:12.000Z",
-      "xQuery": "婚活サイトに599人分情報 県謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6596102?source=rss",
+      "publishedAt": "2026-09-22T00:17:50.000Z",
+      "xQuery": "うるう秒10月に廃止 自転速まり"
     }
   ]
 };
