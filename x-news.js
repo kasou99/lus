@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T23:14:50.211Z",
+  "updatedAt": "2026-09-22T23:37:12.660Z",
   "items": [
     {
       "time": "07:15",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "新たな台風発生へ 27日沖縄の南に"
     },
     {
-      "time": "07:11",
-      "title": "米大統領 国連でICC脱退呼びかけ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596198?source=rss",
-      "publishedAt": "2026-09-22T22:11:22.000Z",
-      "xQuery": "米大統領 国連でICC脱退呼びかけ"
-    },
-    {
       "time": "07:30",
       "title": "AIは「SI」に改称 米大統領宣言",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596201?source=rss",
       "publishedAt": "2026-09-22T22:30:01.000Z",
       "xQuery": "AIは「SI」に改称 米大統領宣言"
+    },
+    {
+      "time": "08:06",
+      "title": "退職代行サービス 1年で2割停止か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596208?source=rss",
+      "publishedAt": "2026-09-22T23:06:23.000Z",
+      "xQuery": "退職代行サービス 1年で2割停止か"
     },
     {
       "time": "07:47",
