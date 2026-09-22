@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T07:42:02.874Z",
+  "updatedAt": "2026-09-22T08:25:06.879Z",
   "items": [
     {
       "time": "14:25",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "土砂崩れ 高齢者施設の180人孤立"
     },
     {
-      "time": "11:45",
-      "title": "修繕費計5億円超 観光施設閉園へ",
+      "time": "16:56",
+      "title": "琵琶湖に遺体 3人を捜索の知人か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596120?source=rss",
-      "publishedAt": "2026-09-22T02:45:08.000Z",
-      "xQuery": "修繕費計5億円超 観光施設閉園へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596151?source=rss",
+      "publishedAt": "2026-09-22T07:56:31.000Z",
+      "xQuery": "琵琶湖に遺体 3人を捜索の知人か"
+    },
+    {
+      "time": "16:41",
+      "title": "自転車にはねられ女性死亡 男逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596152?source=rss",
+      "publishedAt": "2026-09-22T07:41:45.000Z",
+      "xQuery": "自転車にはねられ女性死亡 男逮捕"
     },
     {
       "time": "15:26",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596144?source=rss",
       "publishedAt": "2026-09-22T06:26:15.000Z",
       "xQuery": "古書店に大量注文 AI学習目的か"
-    },
-    {
-      "time": "15:12",
-      "title": "「キューアグ」注目 なぜ衝動発生",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596141?source=rss",
-      "publishedAt": "2026-09-22T06:12:28.000Z",
-      "xQuery": "「キューアグ」注目 なぜ衝動発生"
     }
   ]
 };
