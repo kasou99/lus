@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T14:18:46.020Z",
+  "updatedAt": "2026-09-22T14:42:00.863Z",
   "items": [
     {
       "time": "21:24",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "AI搭載の人型ロボ 防衛活用研究へ"
     },
     {
+      "time": "23:22",
+      "title": "維新が大阪で苦戦 問われる存在感",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596194?source=rss",
+      "publishedAt": "2026-09-22T14:22:57.000Z",
+      "xQuery": "維新が大阪で苦戦 問われる存在感"
+    },
+    {
+      "time": "23:21",
+      "title": "琵琶湖で3人捜しに出た男性 死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596193?source=rss",
+      "publishedAt": "2026-09-22T14:21:28.000Z",
+      "xQuery": "琵琶湖で3人捜しに出た男性 死亡"
+    },
+    {
       "time": "21:18",
       "title": "SUPに2人乗りし落ちたか 1人死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596181?source=rss",
       "publishedAt": "2026-09-22T12:18:12.000Z",
       "xQuery": "SUPに2人乗りし落ちたか 1人死亡"
-    },
-    {
-      "time": "22:47",
-      "title": "インドネシア 緊急地震速報整備へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596190?source=rss",
-      "publishedAt": "2026-09-22T13:47:41.000Z",
-      "xQuery": "インドネシア 緊急地震速報整備へ"
-    },
-    {
-      "time": "23:01",
-      "title": "地方のキャバクラ 経営「四重苦」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596192?source=rss",
-      "publishedAt": "2026-09-22T14:01:34.000Z",
-      "xQuery": "地方のキャバクラ 経営「四重苦」"
     }
   ]
 };
