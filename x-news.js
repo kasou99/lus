@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T08:25:06.879Z",
+  "updatedAt": "2026-09-22T08:44:57.031Z",
   "items": [
     {
-      "time": "14:25",
-      "title": "冠水の佐倉市 帰宅できず住民落胆",
+      "time": "17:21",
+      "title": "水害後 片付け・復旧作業の注意点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596136?source=rss",
-      "publishedAt": "2026-09-22T05:25:48.000Z",
-      "xQuery": "冠水の佐倉市 帰宅できず住民落胆"
+      "url": "https://news.yahoo.co.jp/pickup/6596156?source=rss",
+      "publishedAt": "2026-09-22T08:21:34.000Z",
+      "xQuery": "水害後 片付け・復旧作業の注意点"
     },
     {
       "time": "16:10",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596149?source=rss",
       "publishedAt": "2026-09-22T07:10:19.000Z",
       "xQuery": "土砂崩れ 高齢者施設の180人孤立"
+    },
+    {
+      "time": "17:38",
+      "title": "台風で停電 ろうそくで民家全焼",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596160?source=rss",
+      "publishedAt": "2026-09-22T08:38:55.000Z",
+      "xQuery": "台風で停電 ろうそくで民家全焼"
     },
     {
       "time": "16:56",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596152?source=rss",
       "publishedAt": "2026-09-22T07:41:45.000Z",
       "xQuery": "自転車にはねられ女性死亡 男逮捕"
-    },
-    {
-      "time": "15:26",
-      "title": "古書店に大量注文 AI学習目的か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596144?source=rss",
-      "publishedAt": "2026-09-22T06:26:15.000Z",
-      "xQuery": "古書店に大量注文 AI学習目的か"
     }
   ]
 };
