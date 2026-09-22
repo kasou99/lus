@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T07:21:15.413Z",
+  "updatedAt": "2026-09-22T07:42:02.874Z",
   "items": [
     {
       "time": "14:25",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "土砂崩れ 高齢者施設の180人孤立"
     },
     {
-      "time": "15:13",
-      "title": "3歳死亡事故「前日夜と当日飲酒」",
+      "time": "11:45",
+      "title": "修繕費計5億円超 観光施設閉園へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596142?source=rss",
-      "publishedAt": "2026-09-22T06:13:46.000Z",
-      "xQuery": "3歳死亡事故「前日夜と当日飲酒」"
+      "url": "https://news.yahoo.co.jp/pickup/6596120?source=rss",
+      "publishedAt": "2026-09-22T02:45:08.000Z",
+      "xQuery": "修繕費計5億円超 観光施設閉園へ"
     },
     {
       "time": "15:26",
