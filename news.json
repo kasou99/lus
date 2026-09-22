@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T06:31:03.171Z",
+  "updatedAt": "2026-09-22T07:21:14.285Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZNTdnOWx3dGRodU5GZmlXd3hRN3lSbkpGVG5lVXVvV1VLYV8xbmtETl9nREdGQ2N4NjRSMXl0SzhDWE5uaXBnZW9TS2VsZmM5MWRrdi1WQWI?oc=5",
         "publishedAt": "2026-09-21T20:00:00.000Z"
+      },
+      {
+        "time": "15:25",
+        "title": "韓国のSNTホールディングス、SMEC経営陣に29日面談を提案…財務・ガバナンス協議へ",
+        "source": "BigGo ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wenhtRkRsdld3NERwMjlxcDRCMlNOTUVKZTFlbUJEUm5wUjUtVnhRWUI3eDUtLTVxYVF5bnQtaWlDUzZZOTY0VGUtNjNNd1REc3ZjZUJvaDdNTGRlQzlYYWM1eHJGZnVyNzhPVjUyUnZUb1ot?oc=5",
+        "publishedAt": "2026-09-22T06:25:00.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596115?source=rss",
         "publishedAt": "2026-09-22T02:07:13.000Z"
-      },
-      {
-        "time": "09:28",
-        "title": "作れば赤字 米価下落で農家窮地",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596106?source=rss",
-        "publishedAt": "2026-09-22T00:28:43.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "16:10",
+        "title": "土砂崩れ 高齢者施設の180人孤立",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596149?source=rss",
+        "publishedAt": "2026-09-22T07:10:19.000Z"
+      },
+      {
         "time": "14:25",
         "title": "冠水の佐倉市 帰宅できず住民落胆",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596142?source=rss",
         "publishedAt": "2026-09-22T06:13:46.000Z"
-      },
-      {
-        "time": "08:09",
-        "title": "12時間ほど琵琶湖漂流 男性を救助",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596095?source=rss",
-        "publishedAt": "2026-09-21T23:09:05.000Z"
       }
     ],
     "subsidyHeadlines": [

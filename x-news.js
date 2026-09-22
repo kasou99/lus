@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T06:31:04.313Z",
+  "updatedAt": "2026-09-22T07:21:15.413Z",
   "items": [
     {
       "time": "14:25",
@@ -10,28 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "冠水の佐倉市 帰宅できず住民落胆"
     },
     {
-      "time": "14:55",
-      "title": "「解党」の中道に交付金満額 批判",
+      "time": "16:10",
+      "title": "土砂崩れ 高齢者施設の180人孤立",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596140?source=rss",
-      "publishedAt": "2026-09-22T05:55:37.000Z",
-      "xQuery": "「解党」の中道に交付金満額 批判"
-    },
-    {
-      "time": "14:44",
-      "title": "トランプ氏支持率32% 過去最低",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596138?source=rss",
-      "publishedAt": "2026-09-22T05:44:18.000Z",
-      "xQuery": "トランプ氏支持率32% 過去最低"
-    },
-    {
-      "time": "14:02",
-      "title": "リトアニア 露が攻撃なら反撃する",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596133?source=rss",
-      "publishedAt": "2026-09-22T05:02:12.000Z",
-      "xQuery": "リトアニア 露が攻撃なら反撃する"
+      "url": "https://news.yahoo.co.jp/pickup/6596149?source=rss",
+      "publishedAt": "2026-09-22T07:10:19.000Z",
+      "xQuery": "土砂崩れ 高齢者施設の180人孤立"
     },
     {
       "time": "15:13",
@@ -40,6 +24,22 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596142?source=rss",
       "publishedAt": "2026-09-22T06:13:46.000Z",
       "xQuery": "3歳死亡事故「前日夜と当日飲酒」"
+    },
+    {
+      "time": "15:26",
+      "title": "古書店に大量注文 AI学習目的か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596144?source=rss",
+      "publishedAt": "2026-09-22T06:26:15.000Z",
+      "xQuery": "古書店に大量注文 AI学習目的か"
+    },
+    {
+      "time": "15:12",
+      "title": "「キューアグ」注目 なぜ衝動発生",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596141?source=rss",
+      "publishedAt": "2026-09-22T06:12:28.000Z",
+      "xQuery": "「キューアグ」注目 なぜ衝動発生"
     }
   ]
 };
