@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T22:37:08.096Z",
+  "updatedAt": "2026-09-22T23:14:50.211Z",
   "items": [
     {
       "time": "07:15",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日米 経済安保で連携の方針一致"
     },
     {
-      "time": "21:24",
-      "title": "今年3度目の大雨被害 千葉に爪痕",
+      "time": "07:30",
+      "title": "新たな台風発生へ 27日沖縄の南に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596183?source=rss",
-      "publishedAt": "2026-09-22T12:24:25.000Z",
-      "xQuery": "今年3度目の大雨被害 千葉に爪痕"
+      "url": "https://news.yahoo.co.jp/pickup/6596202?source=rss",
+      "publishedAt": "2026-09-22T22:30:11.000Z",
+      "xQuery": "新たな台風発生へ 27日沖縄の南に"
     },
     {
       "time": "07:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "AIは「SI」に改称 米大統領宣言"
     },
     {
-      "time": "23:01",
-      "title": "地方のキャバクラ 経営「四重苦」",
+      "time": "07:47",
+      "title": "キツネが玄関先にモグラ置く なぜ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596192?source=rss",
-      "publishedAt": "2026-09-22T14:01:34.000Z",
-      "xQuery": "地方のキャバクラ 経営「四重苦」"
+      "url": "https://news.yahoo.co.jp/pickup/6596204?source=rss",
+      "publishedAt": "2026-09-22T22:47:54.000Z",
+      "xQuery": "キツネが玄関先にモグラ置く なぜ"
     }
   ]
 };

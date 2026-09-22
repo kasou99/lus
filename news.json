@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T22:37:07.328Z",
+  "updatedAt": "2026-09-22T23:14:49.463Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-22T08:30:29.000Z"
       },
       {
-        "time": "21:47",
-        "title": "NHK 戸別訪問営業の外部委託再開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596066?source=rss",
-        "publishedAt": "2026-09-21T12:47:53.000Z"
-      },
-      {
         "time": "11:45",
         "title": "修繕費計5億円超 観光施設閉園へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596120?source=rss",
         "publishedAt": "2026-09-22T02:45:08.000Z"
+      },
+      {
+        "time": "08:06",
+        "title": "退職代行サービス 1年で2割停止か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596208?source=rss",
+        "publishedAt": "2026-09-22T23:06:23.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596198?source=rss",
         "publishedAt": "2026-09-22T22:11:22.000Z"
+      },
+      {
+        "time": "07:47",
+        "title": "米大統領 質問したCNN記者を威圧",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596205?source=rss",
+        "publishedAt": "2026-09-22T22:47:17.000Z"
       },
       {
         "time": "14:44",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596177?source=rss",
         "publishedAt": "2026-09-22T13:33:42.000Z"
-      },
-      {
-        "time": "22:47",
-        "title": "インドネシア 緊急地震速報整備へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596190?source=rss",
-        "publishedAt": "2026-09-22T13:47:41.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-09-22T08:30:29.000Z"
       },
       {
-        "time": "21:47",
-        "title": "NHK 戸別訪問営業の外部委託再開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596066?source=rss",
-        "publishedAt": "2026-09-21T12:47:53.000Z"
-      },
-      {
         "time": "11:45",
         "title": "修繕費計5億円超 観光施設閉園へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596120?source=rss",
         "publishedAt": "2026-09-22T02:45:08.000Z"
+      },
+      {
+        "time": "08:06",
+        "title": "退職代行サービス 1年で2割停止か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596208?source=rss",
+        "publishedAt": "2026-09-22T23:06:23.000Z"
       }
     ],
     "localHeadlines": [
