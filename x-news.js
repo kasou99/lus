@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T12:26:21.206Z",
+  "updatedAt": "2026-09-22T12:47:43.360Z",
   "items": [
     {
       "time": "21:06",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "事故巻き添えで3歳死亡 両親心境"
     },
     {
+      "time": "21:18",
+      "title": "SUPに2人乗りし落ちたか 1人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596181?source=rss",
+      "publishedAt": "2026-09-22T12:18:12.000Z",
+      "xQuery": "SUPに2人乗りし落ちたか 1人死亡"
+    },
+    {
       "time": "21:01",
       "title": "AIで鉄道運行支援 日立が本格展開",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596176?source=rss",
       "publishedAt": "2026-09-22T12:01:07.000Z",
       "xQuery": "AIで鉄道運行支援 日立が本格展開"
-    },
-    {
-      "time": "18:01",
-      "title": "博士号授与されず 学生が大学提訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596164?source=rss",
-      "publishedAt": "2026-09-22T09:01:09.000Z",
-      "xQuery": "博士号授与されず 学生が大学提訴"
     }
   ]
 };
