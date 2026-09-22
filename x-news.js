@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T10:40:24.345Z",
+  "updatedAt": "2026-09-22T11:16:33.357Z",
   "items": [
     {
       "time": "19:21",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日米 中国を念頭に連携強化確認へ"
     },
     {
-      "time": "16:56",
-      "title": "琵琶湖に遺体 3人を捜索の知人か",
+      "time": "19:54",
+      "title": "事故巻き添えで3歳死亡 両親心境",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596151?source=rss",
-      "publishedAt": "2026-09-22T07:56:31.000Z",
-      "xQuery": "琵琶湖に遺体 3人を捜索の知人か"
+      "url": "https://news.yahoo.co.jp/pickup/6596173?source=rss",
+      "publishedAt": "2026-09-22T10:54:20.000Z",
+      "xQuery": "事故巻き添えで3歳死亡 両親心境"
     },
     {
       "time": "18:01",
