@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T03:43:35.703Z",
+  "updatedAt": "2026-09-22T04:20:54.628Z",
   "items": [
     {
       "time": "12:15",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "成田空港で一夜 最大4000人足止め"
     },
     {
+      "time": "08:35",
+      "title": "豪雨2年 土砂から亡き母の携帯",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596099?source=rss",
+      "publishedAt": "2026-09-21T23:35:52.000Z",
+      "xQuery": "豪雨2年 土砂から亡き母の携帯"
+    },
+    {
       "time": "11:30",
       "title": "女性が腹部刺され死亡 男を逮捕",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "女性が腹部刺され死亡 男を逮捕"
     },
     {
-      "time": "10:13",
-      "title": "露攻撃 ウ首都でマック品切れ続出",
+      "time": "12:41",
+      "title": "90歳のマッチョに聞く 健康の秘訣",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596111?source=rss",
-      "publishedAt": "2026-09-22T01:13:24.000Z",
-      "xQuery": "露攻撃 ウ首都でマック品切れ続出"
-    },
-    {
-      "time": "10:25",
-      "title": "カプセルトイなぜ大人が熱狂 背景",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596108?source=rss",
-      "publishedAt": "2026-09-22T01:25:00.000Z",
-      "xQuery": "カプセルトイなぜ大人が熱狂 背景"
+      "url": "https://news.yahoo.co.jp/pickup/6596127?source=rss",
+      "publishedAt": "2026-09-22T03:41:29.000Z",
+      "xQuery": "90歳のマッチョに聞く 健康の秘訣"
     }
   ]
 };
