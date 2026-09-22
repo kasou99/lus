@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T21:37:59.816Z",
+  "updatedAt": "2026-09-22T22:15:26.056Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "07:11",
+        "title": "米大統領 国連でICC脱退呼びかけ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596198?source=rss",
+        "publishedAt": "2026-09-22T22:11:22.000Z"
+      },
+      {
         "time": "14:44",
         "title": "トランプ氏支持率32% 過去最低",
         "source": "Yahoo!ニュース",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596133?source=rss",
         "publishedAt": "2026-09-22T05:02:12.000Z"
-      },
-      {
-        "time": "08:41",
-        "title": "露与党 下院で過去最多議席獲得へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596101?source=rss",
-        "publishedAt": "2026-09-21T23:41:13.000Z"
       },
       {
         "time": "10:13",

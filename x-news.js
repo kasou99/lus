@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T21:38:02.075Z",
+  "updatedAt": "2026-09-22T22:15:26.790Z",
   "items": [
+    {
+      "time": "07:11",
+      "title": "米大統領 国連でICC脱退呼びかけ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596198?source=rss",
+      "publishedAt": "2026-09-22T22:11:22.000Z",
+      "xQuery": "米大統領 国連でICC脱退呼びかけ"
+    },
     {
       "time": "21:24",
       "title": "今年3度目の大雨被害 千葉に爪痕",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596181?source=rss",
       "publishedAt": "2026-09-22T12:18:12.000Z",
       "xQuery": "SUPに2人乗りし落ちたか 1人死亡"
-    },
-    {
-      "time": "16:28",
-      "title": "配偶者と性行為つらい 向き合い方",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596150?source=rss",
-      "publishedAt": "2026-09-22T07:28:35.000Z",
-      "xQuery": "配偶者と性行為つらい 向き合い方"
     }
   ]
 };
