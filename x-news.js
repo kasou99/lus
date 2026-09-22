@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T05:40:22.291Z",
+  "updatedAt": "2026-09-22T06:31:04.313Z",
   "items": [
     {
       "time": "14:25",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "冠水の佐倉市 帰宅できず住民落胆"
     },
     {
-      "time": "13:11",
-      "title": "OpenAI 米主導の安全構築を提言",
+      "time": "14:55",
+      "title": "「解党」の中道に交付金満額 批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596129?source=rss",
-      "publishedAt": "2026-09-22T04:11:54.000Z",
-      "xQuery": "OpenAI 米主導の安全構築を提言"
+      "url": "https://news.yahoo.co.jp/pickup/6596140?source=rss",
+      "publishedAt": "2026-09-22T05:55:37.000Z",
+      "xQuery": "「解党」の中道に交付金満額 批判"
+    },
+    {
+      "time": "14:44",
+      "title": "トランプ氏支持率32% 過去最低",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596138?source=rss",
+      "publishedAt": "2026-09-22T05:44:18.000Z",
+      "xQuery": "トランプ氏支持率32% 過去最低"
     },
     {
       "time": "14:02",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "リトアニア 露が攻撃なら反撃する"
     },
     {
-      "time": "11:07",
-      "title": "赤潮で魚153万匹死ぬ 被害37億円",
+      "time": "15:13",
+      "title": "3歳死亡事故「前日夜と当日飲酒」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596115?source=rss",
-      "publishedAt": "2026-09-22T02:07:13.000Z",
-      "xQuery": "赤潮で魚153万匹死ぬ 被害37億円"
-    },
-    {
-      "time": "12:39",
-      "title": "横断歩道 赤、青、緑で事故対策",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596126?source=rss",
-      "publishedAt": "2026-09-22T03:39:08.000Z",
-      "xQuery": "横断歩道 赤、青、緑で事故対策"
+      "url": "https://news.yahoo.co.jp/pickup/6596142?source=rss",
+      "publishedAt": "2026-09-22T06:13:46.000Z",
+      "xQuery": "3歳死亡事故「前日夜と当日飲酒」"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T05:40:21.288Z",
+  "updatedAt": "2026-09-22T06:31:03.171Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "14:44",
+        "title": "トランプ氏支持率32% 過去最低",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596138?source=rss",
+        "publishedAt": "2026-09-22T05:44:18.000Z"
+      },
+      {
         "time": "23:58",
         "title": "CNNなど 記者証没収で米政権提訴",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596111?source=rss",
         "publishedAt": "2026-09-22T01:13:24.000Z"
-      },
-      {
-        "time": "21:51",
-        "title": "中国 軍制服組トップら2人を処分",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596064?source=rss",
-        "publishedAt": "2026-09-21T12:51:54.000Z"
       }
     ],
     "economyHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-21T23:35:52.000Z"
       },
       {
+        "time": "15:13",
+        "title": "3歳死亡事故「前日夜と当日飲酒」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596142?source=rss",
+        "publishedAt": "2026-09-22T06:13:46.000Z"
+      },
+      {
         "time": "08:09",
         "title": "12時間ほど琵琶湖漂流 男性を救助",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596095?source=rss",
         "publishedAt": "2026-09-21T23:09:05.000Z"
-      },
-      {
-        "time": "23:33",
-        "title": "22歳死亡 発見時豚が覆いかぶさる",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596082?source=rss",
-        "publishedAt": "2026-09-21T14:33:22.000Z"
       }
     ],
     "subsidyHeadlines": [
