@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T09:39:52.451Z",
+  "updatedAt": "2026-09-22T10:19:09.324Z",
   "items": [
     {
       "time": "17:21",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "水害後 片付け・復旧作業の注意点"
     },
     {
-      "time": "16:10",
-      "title": "土砂崩れ 高齢者施設の180人孤立",
+      "time": "16:11",
+      "title": "日米 中国を念頭に連携強化確認へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596149?source=rss",
-      "publishedAt": "2026-09-22T07:10:19.000Z",
-      "xQuery": "土砂崩れ 高齢者施設の180人孤立"
-    },
-    {
-      "time": "17:38",
-      "title": "台風で停電 ろうそくで民家全焼",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596160?source=rss",
-      "publishedAt": "2026-09-22T08:38:55.000Z",
-      "xQuery": "台風で停電 ろうそくで民家全焼"
+      "url": "https://news.yahoo.co.jp/pickup/6596148?source=rss",
+      "publishedAt": "2026-09-22T07:11:25.000Z",
+      "xQuery": "日米 中国を念頭に連携強化確認へ"
     },
     {
       "time": "16:56",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "琵琶湖に遺体 3人を捜索の知人か"
     },
     {
-      "time": "16:41",
-      "title": "自転車にはねられ女性死亡 男逮捕",
+      "time": "18:01",
+      "title": "博士号授与されず 学生が大学提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596152?source=rss",
-      "publishedAt": "2026-09-22T07:41:45.000Z",
-      "xQuery": "自転車にはねられ女性死亡 男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6596164?source=rss",
+      "publishedAt": "2026-09-22T09:01:09.000Z",
+      "xQuery": "博士号授与されず 学生が大学提訴"
+    },
+    {
+      "time": "18:07",
+      "title": "東南アジア食品市場 日本の勝機は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596162?source=rss",
+      "publishedAt": "2026-09-22T09:07:39.000Z",
+      "xQuery": "東南アジア食品市場 日本の勝機は"
     }
   ]
 };
