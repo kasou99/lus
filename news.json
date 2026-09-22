@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-22T19:37:23.799Z",
+  "updatedAt": "2026-09-22T20:16:31.604Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:00",
-        "title": "ロボットと働く／東京都豊島区、自律ロボ巡回 障がい者見守り",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EX0s3SEU5RnRqSWlUR0duMURwbXRGR3VveWFvYndQWnlwUkRKWkpvVmxxZW5OaDZVZU1ldHZKeTdfYXZ5WjluTEZwSzlxUkJ3b3ZBTTB5d3Q?oc=5",
-        "publishedAt": "2026-09-21T20:00:00.000Z"
+        "time": "00:18",
+        "title": "NTTデータとミンカブが提携 金融機関向け支援を強化",
+        "source": "nikkan.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ONzNmQ29aR3VnY2R5WWtKek5uZ0F0eHZDaWpSYWRQVW85ckhHOUlhSmdiSzd5Y3lQc3llOWljcVBMdXhNcFhVMm9aaE5OOWRPdW1KWkxPYmY?oc=5",
+        "publishedAt": "2026-09-22T15:18:37.000Z"
       },
       {
         "time": "15:25",
@@ -15,20 +15,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wenhtRkRsdld3NERwMjlxcDRCMlNOTUVKZTFlbUJEUm5wUjUtVnhRWUI3eDUtLTVxYVF5bnQtaWlDUzZZOTY0VGUtNjNNd1REc3ZjZUJvaDdNTGRlQzlYYWM1eHJGZnVyNzhPVjUyUnZUb1ot?oc=5",
         "publishedAt": "2026-09-22T06:25:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "中部のエンゲージメント戦略 （１４１） 〝誇り〟再確認する機会に ＦＵＪＩ 家族を職場へ招待 プラネタリウム貸し切り応募多数に手応え",
-        "source": "中部経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HYkRMZ0lEVjVTNXJHaWppdWZOWWR1MUxIWUNMcE4wZXdnUXlzN1ExVWl3Q0RtcFZza3FUU1IzUkYtUEFNWmNMSHF2V3pIZnJQSTQtZURxMlNlVFpqclEtQk80LUlfTnhjbGhJRENpZGNmTGM?oc=5",
-        "publishedAt": "2026-09-21T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "NTTデータとミンカブが提携 金融機関向け支援を強化",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DWndaWTZwSlZtS1ZXdjNYX1pmaUo5cUNFNWtKbUJUQXpITXFQd0lYbDBRcWJINWNodFFwT1pLVFhseVNITGlyY1NlVnFHcXBXUWhhNlZnSXRQaFM5T3QyU0JkSXJyX1J4Y3owaENNSGtKd2pLRzZ4UDJNUQ?oc=5",
-        "publishedAt": "2026-09-21T20:00:00.000Z"
       },
       {
         "time": "13:13",
@@ -57,6 +43,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596162?source=rss",
         "publishedAt": "2026-09-22T09:07:39.000Z"
+      },
+      {
+        "time": "17:30",
+        "title": "パラマウント WBD買収へ前進",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596158?source=rss",
+        "publishedAt": "2026-09-22T08:30:29.000Z"
+      },
+      {
+        "time": "21:47",
+        "title": "NHK 戸別訪問営業の外部委託再開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596066?source=rss",
+        "publishedAt": "2026-09-21T12:47:53.000Z"
       }
     ],
     "worldHeadlines": [
