@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-21T23:37:31.862Z",
+  "updatedAt": "2026-09-22T00:48:52.464Z",
   "items": [
     {
       "time": "07:36",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風の爪痕残る 川や崖など注意を"
     },
     {
-      "time": "07:46",
-      "title": "台風被害 土砂崩れ相次ぎ2人死亡",
+      "time": "08:39",
+      "title": "重要資源代替の研究力強化へ 政府",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596092?source=rss",
-      "publishedAt": "2026-09-21T22:46:14.000Z",
-      "xQuery": "台風被害 土砂崩れ相次ぎ2人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6596100?source=rss",
+      "publishedAt": "2026-09-21T23:39:39.000Z",
+      "xQuery": "重要資源代替の研究力強化へ 政府"
+    },
+    {
+      "time": "07:43",
+      "title": "副首都 6道府県6政令市「意欲」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596091?source=rss",
+      "publishedAt": "2026-09-21T22:43:34.000Z",
+      "xQuery": "副首都 6道府県6政令市「意欲」"
     },
     {
       "time": "07:42",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "コロナ自宅待機1年半で自死 労災"
     },
     {
-      "time": "08:09",
-      "title": "12時間ほど琵琶湖漂流 男性を救助",
+      "time": "08:10",
+      "title": "婚活サイトに599人分情報 県謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596095?source=rss",
-      "publishedAt": "2026-09-21T23:09:05.000Z",
-      "xQuery": "12時間ほど琵琶湖漂流 男性を救助"
-    },
-    {
-      "time": "23:33",
-      "title": "22歳死亡 発見時豚が覆いかぶさる",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596082?source=rss",
-      "publishedAt": "2026-09-21T14:33:22.000Z",
-      "xQuery": "22歳死亡 発見時豚が覆いかぶさる"
+      "url": "https://news.yahoo.co.jp/pickup/6596094?source=rss",
+      "publishedAt": "2026-09-21T23:10:12.000Z",
+      "xQuery": "婚活サイトに599人分情報 県謝罪"
     }
   ]
 };

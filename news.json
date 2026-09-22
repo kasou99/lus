@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T23:37:31.103Z",
+  "updatedAt": "2026-09-22T00:48:51.841Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-09-21T08:52:54.000Z"
       },
       {
-        "time": "08:54",
-        "title": "産総研「製造AX拠点」始動｜DMG森精機とコマツが工場データを開放へ",
-        "source": "innovaTopia",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FRnAxd1gwNmhXM01GcHBzay1KUENKdmljR0lNaWFXVklRdzlRcjM3R2dMS3g3M1BuaEkyWHNBLWVqdU9yMmRGci1GWWlmc21QMkhN?oc=5",
-        "publishedAt": "2026-09-20T23:54:25.000Z"
-      },
-      {
         "time": "17:14",
         "title": "豊和工業（6203） 小銃メーカーがドローン参戦｜AI株式ニュース",
         "source": "t.co",
@@ -45,6 +38,13 @@
         "publishedAt": "2026-09-21T04:26:51.000Z"
       },
       {
+        "time": "09:28",
+        "title": "作れば赤字 米価下落で農家窮地",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596106?source=rss",
+        "publishedAt": "2026-09-22T00:28:43.000Z"
+      },
+      {
         "time": "21:47",
         "title": "NHK 戸別訪問営業の外部委託再開",
         "source": "Yahoo!ニュース",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-09-21T12:47:53.000Z"
       },
       {
-        "time": "15:02",
-        "title": "損保ジャパン 望まない転勤廃止へ",
+        "time": "07:42",
+        "title": "コロナ自宅待機1年半で自死 労災",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595907?source=rss",
-        "publishedAt": "2026-09-20T06:02:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596090?source=rss",
+        "publishedAt": "2026-09-21T22:42:04.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596084?source=rss",
         "publishedAt": "2026-09-21T14:58:02.000Z"
+      },
+      {
+        "time": "08:41",
+        "title": "露与党 下院で過去最多議席獲得へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596101?source=rss",
+        "publishedAt": "2026-09-21T23:41:13.000Z"
       },
       {
         "time": "21:51",
@@ -89,13 +96,6 @@
         "publishedAt": "2026-09-20T23:15:39.000Z"
       },
       {
-        "time": "15:17",
-        "title": "ウクライナ 日本に首脳会談要請",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595910?source=rss",
-        "publishedAt": "2026-09-20T06:17:03.000Z"
-      },
-      {
         "time": "09:05",
         "title": "独州議会選 極右政党が再び勝利",
         "source": "Yahoo!ニュース",
@@ -112,18 +112,18 @@
         "publishedAt": "2026-09-21T04:26:51.000Z"
       },
       {
+        "time": "09:28",
+        "title": "作れば赤字 米価下落で農家窮地",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596106?source=rss",
+        "publishedAt": "2026-09-22T00:28:43.000Z"
+      },
+      {
         "time": "21:47",
         "title": "NHK 戸別訪問営業の外部委託再開",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596066?source=rss",
         "publishedAt": "2026-09-21T12:47:53.000Z"
-      },
-      {
-        "time": "15:02",
-        "title": "損保ジャパン 望まない転勤廃止へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595907?source=rss",
-        "publishedAt": "2026-09-20T06:02:14.000Z"
       },
       {
         "time": "07:42",
