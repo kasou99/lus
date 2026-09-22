@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T15:38:14.032Z",
+  "updatedAt": "2026-09-22T16:19:19.254Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "05:00",
         "title": "ロボットと働く／東京都豊島区、自律ロボ巡回 障がい者見守り",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EX0s3SEU5RnRqSWlUR0duMURwbXRGR3VveWFvYndQWnlwUkRKWkpvVmxxZW5OaDZVZU1ldHZKeTdfYXZ5WjluTEZwSzlxUkJ3b3ZBTTB5d3Q?oc=5",
         "publishedAt": "2026-09-21T20:00:00.000Z"
       },
@@ -26,9 +26,16 @@
       {
         "time": "05:00",
         "title": "NTTデータとミンカブが提携 金融機関向け支援を強化",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DWndaWTZwSlZtS1ZXdjNYX1pmaUo5cUNFNWtKbUJUQXpITXFQd0lYbDBRcWJINWNodFFwT1pLVFhseVNITGlyY1NlVnFHcXBXUWhhNlZnSXRQaFM5T3QyU0JkSXJyX1J4Y3owaENNSGtKd2pLRzZ4UDJNUQ?oc=5",
         "publishedAt": "2026-09-21T20:00:00.000Z"
+      },
+      {
+        "time": "13:13",
+        "title": "NintendoのZelda特別版でGamer Hutが厳格な転売対策を行い全体の1%未満にあたる不当注文を取り消す",
+        "source": "Mix Vale",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQzFiMjlvajctTWJma05XTWpvMUYzMzJ6QnBvQ3NFRThGcTFPZ1diUHNDTUFPdDM3dlh0X2lNdjhZWklxalRMam9nM1RLNDh2SGt0OFhQeVZmQi1vVXRWWHhLQm15WERwUUVsZzhFSGgtRFhTOHVWcGxSQzdCby1ncFRtbFpHQ2FNbVlvS0swM2taRHY3cnpmTlN1cUEwQXZDVFVJZUJpRGowTGxPWHZCcHh1V0hwR1REWWlXSEFUbVRNdlhlc1lj0gHHAUFVX3lxTFBDMWIyOW9qNy1NYmZrTldNam8xRjMzMnpCcG9Dc0VFOEZxMU9nV2JQc0NNQU90Mzd2WHRfaU12OFlaSXFqVExqb2czVEs0OHZIa3Q4WFB5VmZCLW9VdFZYeEtCbXlYRHBRRWxnOEVIaC1EWFM4dVZwbFJDN0JvLWdwVG1sWkdDYU1tWW9LSzAza1pEdjdyemZOU3VxQTBBdkNUVUllQmlEajBMbE9YdkJweHVXSHBHVERZaVdIQVRtVE12WGVzWWM?oc=5",
+        "publishedAt": "2026-09-22T04:13:46.000Z"
       },
       {
         "time": "11:07",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596162?source=rss",
         "publishedAt": "2026-09-22T09:07:39.000Z"
-      },
-      {
-        "time": "17:30",
-        "title": "パラマウント WBD買収へ前進",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596158?source=rss",
-        "publishedAt": "2026-09-22T08:30:29.000Z"
       }
     ],
     "worldHeadlines": [
