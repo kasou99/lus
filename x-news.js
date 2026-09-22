@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T05:18:18.202Z",
+  "updatedAt": "2026-09-22T05:40:22.291Z",
   "items": [
     {
-      "time": "12:15",
-      "title": "台風で土砂崩れ4人死亡 6人が不明",
+      "time": "14:25",
+      "title": "冠水の佐倉市 帰宅できず住民落胆",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596125?source=rss",
-      "publishedAt": "2026-09-22T03:15:32.000Z",
-      "xQuery": "台風で土砂崩れ4人死亡 6人が不明"
+      "url": "https://news.yahoo.co.jp/pickup/6596136?source=rss",
+      "publishedAt": "2026-09-22T05:25:48.000Z",
+      "xQuery": "冠水の佐倉市 帰宅できず住民落胆"
+    },
+    {
+      "time": "13:11",
+      "title": "OpenAI 米主導の安全構築を提言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596129?source=rss",
+      "publishedAt": "2026-09-22T04:11:54.000Z",
+      "xQuery": "OpenAI 米主導の安全構築を提言"
     },
     {
       "time": "14:02",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "リトアニア 露が攻撃なら反撃する"
     },
     {
-      "time": "08:35",
-      "title": "豪雨2年 土砂から亡き母の携帯",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596099?source=rss",
-      "publishedAt": "2026-09-21T23:35:52.000Z",
-      "xQuery": "豪雨2年 土砂から亡き母の携帯"
-    },
-    {
-      "time": "11:30",
-      "title": "女性が腹部刺され死亡 男を逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596117?source=rss",
-      "publishedAt": "2026-09-22T02:30:30.000Z",
-      "xQuery": "女性が腹部刺され死亡 男を逮捕"
-    },
-    {
       "time": "11:07",
       "title": "赤潮で魚153万匹死ぬ 被害37億円",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596115?source=rss",
       "publishedAt": "2026-09-22T02:07:13.000Z",
       "xQuery": "赤潮で魚153万匹死ぬ 被害37億円"
+    },
+    {
+      "time": "12:39",
+      "title": "横断歩道 赤、青、緑で事故対策",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596126?source=rss",
+      "publishedAt": "2026-09-22T03:39:08.000Z",
+      "xQuery": "横断歩道 赤、青、緑で事故対策"
     }
   ]
 };

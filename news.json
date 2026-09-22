@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T05:18:17.375Z",
+  "updatedAt": "2026-09-22T05:40:21.288Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "11:06",
-        "title": "台風による大雨 千葉県の被害状況",
+        "time": "14:25",
+        "title": "冠水の佐倉市 帰宅できず住民落胆",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596116?source=rss",
-        "publishedAt": "2026-09-22T02:06:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596136?source=rss",
+        "publishedAt": "2026-09-22T05:25:48.000Z"
       },
       {
         "time": "12:15",
