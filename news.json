@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T03:22:06.765Z",
+  "updatedAt": "2026-09-22T03:43:34.663Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,20 +163,6 @@
         "publishedAt": "2026-09-22T03:15:32.000Z"
       },
       {
-        "time": "23:44",
-        "title": "神奈川県 自衛隊に災害派遣要請",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596083?source=rss",
-        "publishedAt": "2026-09-21T14:44:31.000Z"
-      },
-      {
-        "time": "10:13",
-        "title": "千葉県 22日朝も5万軒近く停電",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596110?source=rss",
-        "publishedAt": "2026-09-22T01:13:58.000Z"
-      },
-      {
         "time": "11:30",
         "title": "女性が腹部刺され死亡 男を逮捕",
         "source": "Yahoo!ニュース",
@@ -189,6 +175,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596099?source=rss",
         "publishedAt": "2026-09-21T23:35:52.000Z"
+      },
+      {
+        "time": "08:09",
+        "title": "12時間ほど琵琶湖漂流 男性を救助",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596095?source=rss",
+        "publishedAt": "2026-09-21T23:09:05.000Z"
+      },
+      {
+        "time": "23:33",
+        "title": "22歳死亡 発見時豚が覆いかぶさる",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596082?source=rss",
+        "publishedAt": "2026-09-21T14:33:22.000Z"
       }
     ],
     "subsidyHeadlines": [
