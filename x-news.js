@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T01:28:11.016Z",
+  "updatedAt": "2026-09-22T01:49:20.417Z",
   "items": [
     {
       "time": "10:01",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風一過 関東など急な暑さに注意"
     },
     {
-      "time": "10:20",
-      "title": "台風被害 新たに1人の死亡確認",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596112?source=rss",
-      "publishedAt": "2026-09-22T01:20:00.000Z",
-      "xQuery": "台風被害 新たに1人の死亡確認"
-    },
-    {
       "time": "10:13",
       "title": "千葉県 22日朝も5万軒近く停電",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596110?source=rss",
       "publishedAt": "2026-09-22T01:13:58.000Z",
       "xQuery": "千葉県 22日朝も5万軒近く停電"
+    },
+    {
+      "time": "10:20",
+      "title": "台風被害 新たに1人の死亡確認",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596112?source=rss",
+      "publishedAt": "2026-09-22T01:20:00.000Z",
+      "xQuery": "台風被害 新たに1人の死亡確認"
     },
     {
       "time": "08:39",
