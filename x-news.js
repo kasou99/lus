@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T04:42:41.141Z",
+  "updatedAt": "2026-09-22T05:18:18.202Z",
   "items": [
     {
       "time": "12:15",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風で土砂崩れ4人死亡 6人が不明"
     },
     {
-      "time": "12:09",
-      "title": "成田空港で一夜 最大4000人足止め",
+      "time": "14:02",
+      "title": "リトアニア 露が攻撃なら反撃する",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596123?source=rss",
-      "publishedAt": "2026-09-22T03:09:24.000Z",
-      "xQuery": "成田空港で一夜 最大4000人足止め"
+      "url": "https://news.yahoo.co.jp/pickup/6596133?source=rss",
+      "publishedAt": "2026-09-22T05:02:12.000Z",
+      "xQuery": "リトアニア 露が攻撃なら反撃する"
     },
     {
       "time": "08:35",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "女性が腹部刺され死亡 男を逮捕"
     },
     {
-      "time": "12:41",
-      "title": "90歳のマッチョに聞く 健康の秘訣",
+      "time": "11:07",
+      "title": "赤潮で魚153万匹死ぬ 被害37億円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596127?source=rss",
-      "publishedAt": "2026-09-22T03:41:29.000Z",
-      "xQuery": "90歳のマッチョに聞く 健康の秘訣"
+      "url": "https://news.yahoo.co.jp/pickup/6596115?source=rss",
+      "publishedAt": "2026-09-22T02:07:13.000Z",
+      "xQuery": "赤潮で魚153万匹死ぬ 被害37億円"
     }
   ]
 };

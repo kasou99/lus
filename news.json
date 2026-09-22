@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T04:42:40.299Z",
+  "updatedAt": "2026-09-22T05:18:17.375Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-09-21T20:00:00.000Z"
       },
       {
-        "time": "17:14",
-        "title": "豊和工業（6203） 小銃メーカーがドローン参戦｜AI株式ニュース",
-        "source": "t.co",
-        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB3cG1iSW9MNmQyQzVIOG8xLW5SeUNYVWJESXhYelNEUFJSMmFsRmllRUxzUnh6X2VmMnJZ?oc=5",
-        "publishedAt": "2026-09-21T08:14:08.000Z"
-      },
-      {
         "time": "12:09",
         "title": "成田空港で一夜 最大4000人足止め",
         "source": "Yahoo!ニュース",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596115?source=rss",
         "publishedAt": "2026-09-22T02:07:13.000Z"
+      },
+      {
+        "time": "09:28",
+        "title": "作れば赤字 米価下落で農家窮地",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596106?source=rss",
+        "publishedAt": "2026-09-22T00:28:43.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,25 @@
         "publishedAt": "2026-09-21T14:58:02.000Z"
       },
       {
+        "time": "14:02",
+        "title": "リトアニア 露が攻撃なら反撃する",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596133?source=rss",
+        "publishedAt": "2026-09-22T05:02:12.000Z"
+      },
+      {
         "time": "08:41",
         "title": "露与党 下院で過去最多議席獲得へ",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596101?source=rss",
         "publishedAt": "2026-09-21T23:41:13.000Z"
+      },
+      {
+        "time": "14:13",
+        "title": "露下院選が終了 節目を越え今後は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596135?source=rss",
+        "publishedAt": "2026-09-22T05:13:04.000Z"
       },
       {
         "time": "10:13",
@@ -87,20 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596064?source=rss",
         "publishedAt": "2026-09-21T12:51:54.000Z"
-      },
-      {
-        "time": "17:00",
-        "title": "韓国兵が負傷 非武装地帯に地雷か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596037?source=rss",
-        "publishedAt": "2026-09-21T08:00:46.000Z"
-      },
-      {
-        "time": "09:05",
-        "title": "独州議会選 極右政党が再び勝利",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595985?source=rss",
-        "publishedAt": "2026-09-21T00:05:01.000Z"
       }
     ],
     "economyHeadlines": [
