@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T10:19:09.324Z",
+  "updatedAt": "2026-09-22T10:40:24.345Z",
   "items": [
     {
-      "time": "17:21",
-      "title": "水害後 片付け・復旧作業の注意点",
+      "time": "19:21",
+      "title": "台風 千葉・神奈川で死者計6人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596156?source=rss",
-      "publishedAt": "2026-09-22T08:21:34.000Z",
-      "xQuery": "水害後 片付け・復旧作業の注意点"
+      "url": "https://news.yahoo.co.jp/pickup/6596171?source=rss",
+      "publishedAt": "2026-09-22T10:21:50.000Z",
+      "xQuery": "台風 千葉・神奈川で死者計6人に"
     },
     {
       "time": "16:11",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "博士号授与されず 学生が大学提訴"
     },
     {
-      "time": "18:07",
-      "title": "東南アジア食品市場 日本の勝機は",
+      "time": "16:28",
+      "title": "配偶者と性行為つらい 向き合い方",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596162?source=rss",
-      "publishedAt": "2026-09-22T09:07:39.000Z",
-      "xQuery": "東南アジア食品市場 日本の勝機は"
+      "url": "https://news.yahoo.co.jp/pickup/6596150?source=rss",
+      "publishedAt": "2026-09-22T07:28:35.000Z",
+      "xQuery": "配偶者と性行為つらい 向き合い方"
     }
   ]
 };
