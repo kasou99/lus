@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T02:45:16.867Z",
+  "updatedAt": "2026-09-22T03:22:07.698Z",
   "items": [
     {
-      "time": "10:01",
-      "title": "台風一過 関東など急な暑さに注意",
+      "time": "12:15",
+      "title": "台風で土砂崩れ4人死亡 6人が不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596109?source=rss",
-      "publishedAt": "2026-09-22T01:01:37.000Z",
-      "xQuery": "台風一過 関東など急な暑さに注意"
+      "url": "https://news.yahoo.co.jp/pickup/6596125?source=rss",
+      "publishedAt": "2026-09-22T03:15:32.000Z",
+      "xQuery": "台風で土砂崩れ4人死亡 6人が不明"
     },
     {
-      "time": "11:06",
-      "title": "台風による大雨 千葉県の被害状況",
+      "time": "12:09",
+      "title": "成田空港で一夜 最大4000人足止め",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596116?source=rss",
-      "publishedAt": "2026-09-22T02:06:44.000Z",
-      "xQuery": "台風による大雨 千葉県の被害状況"
-    },
-    {
-      "time": "10:20",
-      "title": "台風被害 新たに1人の死亡確認",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596112?source=rss",
-      "publishedAt": "2026-09-22T01:20:00.000Z",
-      "xQuery": "台風被害 新たに1人の死亡確認"
+      "url": "https://news.yahoo.co.jp/pickup/6596123?source=rss",
+      "publishedAt": "2026-09-22T03:09:24.000Z",
+      "xQuery": "成田空港で一夜 最大4000人足止め"
     },
     {
       "time": "11:30",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596111?source=rss",
       "publishedAt": "2026-09-22T01:13:24.000Z",
       "xQuery": "露攻撃 ウ首都でマック品切れ続出"
+    },
+    {
+      "time": "10:25",
+      "title": "カプセルトイなぜ大人が熱狂 背景",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596108?source=rss",
+      "publishedAt": "2026-09-22T01:25:00.000Z",
+      "xQuery": "カプセルトイなぜ大人が熱狂 背景"
     }
   ]
 };

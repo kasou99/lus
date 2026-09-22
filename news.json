@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T02:45:15.527Z",
+  "updatedAt": "2026-09-22T03:22:06.765Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-21T08:14:08.000Z"
       },
       {
+        "time": "12:09",
+        "title": "成田空港で一夜 最大4000人足止め",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596123?source=rss",
+        "publishedAt": "2026-09-22T03:09:24.000Z"
+      },
+      {
         "time": "11:07",
         "title": "赤潮で魚153万匹死ぬ 被害37億円",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596115?source=rss",
         "publishedAt": "2026-09-22T02:07:13.000Z"
-      },
-      {
-        "time": "09:28",
-        "title": "作れば赤字 米価下落で農家窮地",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596106?source=rss",
-        "publishedAt": "2026-09-22T00:28:43.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "12:09",
+        "title": "成田空港で一夜 最大4000人足止め",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596123?source=rss",
+        "publishedAt": "2026-09-22T03:09:24.000Z"
+      },
+      {
         "time": "11:07",
         "title": "赤潮で魚153万匹死ぬ 被害37億円",
         "source": "Yahoo!ニュース",
@@ -133,18 +140,11 @@
         "publishedAt": "2026-09-21T22:42:04.000Z"
       },
       {
-        "time": "09:48",
-        "title": "家借りられない高齢者も 背景は",
+        "time": "11:45",
+        "title": "修繕費計5億円超 観光施設閉園へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596107?source=rss",
-        "publishedAt": "2026-09-22T00:48:01.000Z"
-      },
-      {
-        "time": "14:19",
-        "title": "食事も「キャンセル」若者の実態",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596013?source=rss",
-        "publishedAt": "2026-09-21T05:19:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596120?source=rss",
+        "publishedAt": "2026-09-22T02:45:08.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-09-22T02:06:44.000Z"
       },
       {
-        "time": "10:20",
-        "title": "台風被害 新たに1人の死亡確認",
+        "time": "12:15",
+        "title": "台風で土砂崩れ4人死亡 6人が不明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596112?source=rss",
-        "publishedAt": "2026-09-22T01:20:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596125?source=rss",
+        "publishedAt": "2026-09-22T03:15:32.000Z"
       },
       {
         "time": "23:44",
