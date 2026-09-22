@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T12:47:43.360Z",
+  "updatedAt": "2026-09-22T13:18:06.742Z",
   "items": [
     {
-      "time": "21:06",
-      "title": "台風 千葉・神奈川で死者計7人に",
+      "time": "21:24",
+      "title": "今年3度目の大雨被害 千葉に爪痕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596179?source=rss",
-      "publishedAt": "2026-09-22T12:06:15.000Z",
-      "xQuery": "台風 千葉・神奈川で死者計7人に"
+      "url": "https://news.yahoo.co.jp/pickup/6596183?source=rss",
+      "publishedAt": "2026-09-22T12:24:25.000Z",
+      "xQuery": "今年3度目の大雨被害 千葉に爪痕"
     },
     {
-      "time": "17:29",
-      "title": "G7外相 フーシ派の攻撃強く非難",
+      "time": "21:38",
+      "title": "AI搭載の人型ロボ 防衛活用研究へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596159?source=rss",
-      "publishedAt": "2026-09-22T08:29:59.000Z",
-      "xQuery": "G7外相 フーシ派の攻撃強く非難"
+      "url": "https://news.yahoo.co.jp/pickup/6596184?source=rss",
+      "publishedAt": "2026-09-22T12:38:00.000Z",
+      "xQuery": "AI搭載の人型ロボ 防衛活用研究へ"
     },
     {
       "time": "19:54",

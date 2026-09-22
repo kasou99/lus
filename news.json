@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T12:47:42.327Z",
+  "updatedAt": "2026-09-22T13:18:05.921Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -163,13 +163,6 @@
         "publishedAt": "2026-09-22T12:24:25.000Z"
       },
       {
-        "time": "16:10",
-        "title": "土砂崩れ 高齢者施設の180人孤立",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596149?source=rss",
-        "publishedAt": "2026-09-22T07:10:19.000Z"
-      },
-      {
         "time": "17:38",
         "title": "台風で停電 ろうそくで民家全焼",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596117?source=rss",
         "publishedAt": "2026-09-22T02:30:30.000Z"
+      },
+      {
+        "time": "21:18",
+        "title": "SUPに2人乗りし落ちたか 1人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596181?source=rss",
+        "publishedAt": "2026-09-22T12:18:12.000Z"
       }
     ],
     "subsidyHeadlines": [
