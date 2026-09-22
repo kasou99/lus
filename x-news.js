@@ -1,13 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T00:48:52.464Z",
+  "updatedAt": "2026-09-22T01:28:11.016Z",
   "items": [
     {
-      "time": "07:36",
-      "title": "台風の爪痕残る 川や崖など注意を",
+      "time": "10:01",
+      "title": "台風一過 関東など急な暑さに注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596089?source=rss",
-      "publishedAt": "2026-09-21T22:36:09.000Z",
-      "xQuery": "台風の爪痕残る 川や崖など注意を"
+      "url": "https://news.yahoo.co.jp/pickup/6596109?source=rss",
+      "publishedAt": "2026-09-22T01:01:37.000Z",
+      "xQuery": "台風一過 関東など急な暑さに注意"
+    },
+    {
+      "time": "10:20",
+      "title": "台風被害 新たに1人の死亡確認",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596112?source=rss",
+      "publishedAt": "2026-09-22T01:20:00.000Z",
+      "xQuery": "台風被害 新たに1人の死亡確認"
+    },
+    {
+      "time": "10:13",
+      "title": "千葉県 22日朝も5万軒近く停電",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596110?source=rss",
+      "publishedAt": "2026-09-22T01:13:58.000Z",
+      "xQuery": "千葉県 22日朝も5万軒近く停電"
     },
     {
       "time": "08:39",
@@ -16,22 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596100?source=rss",
       "publishedAt": "2026-09-21T23:39:39.000Z",
       "xQuery": "重要資源代替の研究力強化へ 政府"
-    },
-    {
-      "time": "07:43",
-      "title": "副首都 6道府県6政令市「意欲」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596091?source=rss",
-      "publishedAt": "2026-09-21T22:43:34.000Z",
-      "xQuery": "副首都 6道府県6政令市「意欲」"
-    },
-    {
-      "time": "07:42",
-      "title": "コロナ自宅待機1年半で自死 労災",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596090?source=rss",
-      "publishedAt": "2026-09-21T22:42:04.000Z",
-      "xQuery": "コロナ自宅待機1年半で自死 労災"
     },
     {
       "time": "08:10",

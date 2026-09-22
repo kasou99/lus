@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T00:48:51.841Z",
+  "updatedAt": "2026-09-22T01:28:09.301Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,6 +75,13 @@
         "publishedAt": "2026-09-21T23:41:13.000Z"
       },
       {
+        "time": "10:13",
+        "title": "露攻撃 ウ首都でマック品切れ続出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596111?source=rss",
+        "publishedAt": "2026-09-22T01:13:24.000Z"
+      },
+      {
         "time": "21:51",
         "title": "中国 軍制服組トップら2人を処分",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596037?source=rss",
         "publishedAt": "2026-09-21T08:00:46.000Z"
-      },
-      {
-        "time": "08:15",
-        "title": "イラン 戦闘終結へ米に7条件伝達",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595980?source=rss",
-        "publishedAt": "2026-09-20T23:15:39.000Z"
       },
       {
         "time": "09:05",
@@ -133,27 +133,27 @@
         "publishedAt": "2026-09-21T22:42:04.000Z"
       },
       {
-        "time": "08:05",
-        "title": "渋谷で若者離れ? 人流データ分析",
+        "time": "09:48",
+        "title": "家借りられない高齢者も 背景は",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595978?source=rss",
-        "publishedAt": "2026-09-20T23:05:01.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596107?source=rss",
+        "publishedAt": "2026-09-22T00:48:01.000Z"
       },
       {
-        "time": "21:29",
-        "title": "消えゆく銭湯 地域差の要因は",
+        "time": "14:19",
+        "title": "食事も「キャンセル」若者の実態",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6595955?source=rss",
-        "publishedAt": "2026-09-20T12:29:34.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596013?source=rss",
+        "publishedAt": "2026-09-21T05:19:58.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "07:46",
-        "title": "台風被害 土砂崩れ相次ぎ2人死亡",
+        "time": "10:20",
+        "title": "台風被害 新たに1人の死亡確認",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596092?source=rss",
-        "publishedAt": "2026-09-21T22:46:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596112?source=rss",
+        "publishedAt": "2026-09-22T01:20:00.000Z"
       },
       {
         "time": "23:44",
@@ -161,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596083?source=rss",
         "publishedAt": "2026-09-21T14:44:31.000Z"
+      },
+      {
+        "time": "10:13",
+        "title": "千葉県 22日朝も5万軒近く停電",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596110?source=rss",
+        "publishedAt": "2026-09-22T01:13:58.000Z"
       },
       {
         "time": "21:14",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596099?source=rss",
         "publishedAt": "2026-09-21T23:35:52.000Z"
-      },
-      {
-        "time": "08:09",
-        "title": "12時間ほど琵琶湖漂流 男性を救助",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596095?source=rss",
-        "publishedAt": "2026-09-21T23:09:05.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       }
