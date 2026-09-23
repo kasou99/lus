@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T08:24:58.525Z",
+  "updatedAt": "2026-09-23T08:45:12.058Z",
   "items": [
     {
       "time": "16:04",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "印旛沼で堤防決壊 復旧時期は未定"
     },
     {
+      "time": "17:43",
+      "title": "行方不明の6歳か 身元不明の遺体",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596272?source=rss",
+      "publishedAt": "2026-09-23T08:43:15.000Z",
+      "xQuery": "行方不明の6歳か 身元不明の遺体"
+    },
+    {
       "time": "16:10",
       "title": "マスク氏 習主席は偉大な指導者",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596259?source=rss",
       "publishedAt": "2026-09-23T07:10:09.000Z",
       "xQuery": "マスク氏 習主席は偉大な指導者"
-    },
-    {
-      "time": "16:33",
-      "title": "漁船と衝突 ボート乗船の男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596261?source=rss",
-      "publishedAt": "2026-09-23T07:33:10.000Z",
-      "xQuery": "漁船と衝突 ボート乗船の男性死亡"
     }
   ]
 };
