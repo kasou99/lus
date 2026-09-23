@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T19:37:37.650Z",
+  "updatedAt": "2026-09-23T20:18:21.374Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "08:03",
         "title": "Google傘下Intrinsicがロボット基盤を公開、工作機械の部品交換まで試せる",
-        "source": "XenoSpectrum",
+        "source": "xenospectrum.com",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFeFI5LXdmNGZ2NTBvVmUyMWllTmVfdUR6ZFVUTW9hakt5YjdNYnc5MVRjTmtudVc5VVRVNU5zaEFJcDRwM25nQjJ5b1daZTl0RXJIQkNqaXdEaC1GaHhFSnpXbWJsMnRfVU82eEM0dDRCcW5KZVBXem90YTk?oc=5",
         "publishedAt": "2026-09-22T23:03:50.000Z"
       },
@@ -31,13 +31,6 @@
         "publishedAt": "2026-09-23T03:30:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "介護製品・サービス差別化 AI・先端技術活用進む",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiYmdxNFZ1dUdDYmdpNE1CczhaSGVDVU16b3dJNVBsYkNsQll6UUxDeldQMkN0S0trV1JJbEFkbkVOclNjRzNOWHBqNG80el9aT09GaHk1d2I?oc=5",
-        "publishedAt": "2026-09-22T20:00:00.000Z"
-      },
-      {
         "time": "06:55",
         "title": "東女大・熊丸うた子さんがミスユニバーシティグランプリ「任期を責任持って全う」涙で決意",
         "source": "日刊スポーツ",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-09-22T21:55:00.000Z"
       },
       {
-        "time": "08:31",
-        "title": "EnhansとGS Caltex、製造現場の暗黙知をAI化する政府事業に採択",
-        "source": "digitaltoday.co.kr",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeGxyTTBsN21zWWJFUVFNcWpXRjFpdFMyaWRza0JsNDJNTDJ1TjRrNFhUaVRvQ0JEdGNPakFBeTlTQ0NEd2NLT1p6VXdaWUYwVGpMM0xpR2xiS3VCR2JUaUg3MkQ5ODdyTHlBSG9NR3k3N0tjWC1QX1I4Z1JoWFB6eDNJTW5ILTMyV3B0S191MHlUWm91Mk5QblB3X3NnUWdPbXZOeEJOQWU3X1hvWlJ3NnIxU2NQNzlOaUt2Rk9VMVU1ckNMZTk1MkhnbVB2WEpjOWEtRUVPbkJ6TzlzSjdzWTByVQ?oc=5",
-        "publishedAt": "2026-09-22T23:31:15.000Z"
-      },
-      {
         "time": "23:59",
         "title": "ANA機が空港に緊急着陸 乗客脱出",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596316?source=rss",
         "publishedAt": "2026-09-23T14:59:25.000Z"
+      },
+      {
+        "time": "22:52",
+        "title": "金利上昇 住宅の駆け込み購入も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596308?source=rss",
+        "publishedAt": "2026-09-23T13:52:32.000Z"
+      },
+      {
+        "time": "08:20",
+        "title": "とび職に逆風 倒産過去最多ペース",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596209?source=rss",
+        "publishedAt": "2026-09-22T23:20:05.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       }
