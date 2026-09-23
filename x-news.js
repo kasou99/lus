@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T13:17:29.337Z",
+  "updatedAt": "2026-09-23T13:39:48.281Z",
   "items": [
     {
       "time": "21:25",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "中国 高市首相の国連演説巡り反発"
     },
     {
-      "time": "20:50",
-      "title": "堤防決壊 老舗養魚場が壊滅的被害",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596297?source=rss",
-      "publishedAt": "2026-09-23T11:50:52.000Z",
-      "xQuery": "堤防決壊 老舗養魚場が壊滅的被害"
-    },
-    {
       "time": "21:59",
       "title": "新宿のビルで火災発生 3人負傷",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596296?source=rss",
       "publishedAt": "2026-09-23T11:55:12.000Z",
       "xQuery": "不明の6歳か 遺体は離島で発見"
+    },
+    {
+      "time": "22:18",
+      "title": "「スクイーズ」から有害物質 韓国",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596305?source=rss",
+      "publishedAt": "2026-09-23T13:18:51.000Z",
+      "xQuery": "「スクイーズ」から有害物質 韓国"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T13:17:28.582Z",
+  "updatedAt": "2026-09-23T13:39:47.525Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,13 +75,6 @@
         "publishedAt": "2026-09-22T22:47:17.000Z"
       },
       {
-        "time": "14:44",
-        "title": "トランプ氏支持率32% 過去最低",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596138?source=rss",
-        "publishedAt": "2026-09-22T05:44:18.000Z"
-      },
-      {
         "time": "12:13",
         "title": "イスラエル 動画で国連各国やゆ",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596259?source=rss",
         "publishedAt": "2026-09-23T07:10:09.000Z"
+      },
+      {
+        "time": "22:33",
+        "title": "サウジのパイプライン 稼働再開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596177?source=rss",
+        "publishedAt": "2026-09-22T13:33:42.000Z"
       }
     ],
     "economyHeadlines": [
