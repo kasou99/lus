@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T17:37:24.436Z",
+  "updatedAt": "2026-09-23T18:22:56.899Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-09-23T11:09:39.000Z"
       },
       {
-        "time": "05:00",
-        "title": "介護製品・サービス差別化 AI・先端技術活用進む",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiYmdxNFZ1dUdDYmdpNE1CczhaSGVDVU16b3dJNVBsYkNsQll6UUxDeldQMkN0S0trV1JJbEFkbkVOclNjRzNOWHBqNG80el9aT09GaHk1d2I?oc=5",
-        "publishedAt": "2026-09-22T20:00:00.000Z"
-      },
-      {
         "time": "12:30",
         "title": "油圧サーボコントローラの世界市場（2026年～2032年）、市場規模（電気油圧サーボコントローラ、サーボ比例弁コントローラ、全油圧式サーボコントローラ、デジタルサーボコントローラ）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FYTdHOVMzQmUydHZQZ09wanZybnZyN1lqc05Wem1STFV2am9IMFpJZk1DQS1ZbjU4UnBpR3NBQkg4UWJXRmNQdXpoVzhfS2M?oc=5",
         "publishedAt": "2026-09-23T03:30:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "介護製品・サービス差別化 AI・先端技術活用進む",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiYmdxNFZ1dUdDYmdpNE1CczhaSGVDVU16b3dJNVBsYkNsQll6UUxDeldQMkN0S0trV1JJbEFkbkVOclNjRzNOWHBqNG80el9aT09GaHk1d2I?oc=5",
+        "publishedAt": "2026-09-22T20:00:00.000Z"
       },
       {
         "time": "06:55",
