@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T13:39:48.281Z",
+  "updatedAt": "2026-09-23T14:19:08.048Z",
   "items": [
     {
       "time": "21:25",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中国 高市首相の国連演説巡り反発"
     },
     {
-      "time": "21:59",
-      "title": "新宿のビルで火災発生 3人負傷",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596304?source=rss",
-      "publishedAt": "2026-09-23T12:59:21.000Z",
-      "xQuery": "新宿のビルで火災発生 3人負傷"
-    },
-    {
       "time": "20:55",
       "title": "不明の6歳か 遺体は離島で発見",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596296?source=rss",
       "publishedAt": "2026-09-23T11:55:12.000Z",
       "xQuery": "不明の6歳か 遺体は離島で発見"
+    },
+    {
+      "time": "22:52",
+      "title": "金利上昇 住宅の駆け込み購入も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596308?source=rss",
+      "publishedAt": "2026-09-23T13:52:32.000Z",
+      "xQuery": "金利上昇 住宅の駆け込み購入も"
     },
     {
       "time": "22:18",

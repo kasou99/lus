@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T13:39:47.525Z",
+  "updatedAt": "2026-09-23T14:19:06.845Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -33,7 +33,7 @@
       {
         "time": "12:30",
         "title": "油圧サーボコントローラの世界市場（2026年～2032年）、市場規模（電気油圧サーボコントローラ、サーボ比例弁コントローラ、全油圧式サーボコントローラ、デジタルサーボコントローラ）・分析レポートを発表",
-        "source": "アットプレス",
+        "source": "atpress.ne.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FYTdHOVMzQmUydHZQZ09wanZybnZyN1lqc05Wem1STFV2am9IMFpJZk1DQS1ZbjU4UnBpR3NBQkg4UWJXRmNQdXpoVzhfS2M?oc=5",
         "publishedAt": "2026-09-23T03:30:00.000Z"
       },
@@ -45,11 +45,11 @@
         "publishedAt": "2026-09-22T23:31:15.000Z"
       },
       {
-        "time": "12:32",
-        "title": "5連休最終日 Uターンで交通混雑",
+        "time": "22:52",
+        "title": "金利上昇 住宅の駆け込み購入も",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596238?source=rss",
-        "publishedAt": "2026-09-23T03:32:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596308?source=rss",
+        "publishedAt": "2026-09-23T13:52:32.000Z"
       },
       {
         "time": "08:20",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "12:32",
-        "title": "5連休最終日 Uターンで交通混雑",
+        "time": "22:52",
+        "title": "金利上昇 住宅の駆け込み購入も",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596238?source=rss",
-        "publishedAt": "2026-09-23T03:32:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596308?source=rss",
+        "publishedAt": "2026-09-23T13:52:32.000Z"
       },
       {
         "time": "08:20",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-09-23T10:19:14.000Z"
       },
       {
+        "time": "23:16",
+        "title": "印旛沼 排水追い付かず堤防決壊か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596313?source=rss",
+        "publishedAt": "2026-09-23T14:16:20.000Z"
+      },
+      {
         "time": "16:55",
         "title": "印旛沼で堤防決壊 復旧時期は未定",
         "source": "Yahoo!ニュース",
@@ -170,13 +177,6 @@
         "publishedAt": "2026-09-23T11:50:52.000Z"
       },
       {
-        "time": "17:43",
-        "title": "行方不明の6歳か 身元不明の遺体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596272?source=rss",
-        "publishedAt": "2026-09-23T08:43:15.000Z"
-      },
-      {
         "time": "20:55",
         "title": "不明の6歳か 遺体は離島で発見",
         "source": "Yahoo!ニュース",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-09-23T11:55:12.000Z"
       },
       {
-        "time": "21:59",
-        "title": "新宿のビルで火災発生 3人負傷",
+        "time": "19:03",
+        "title": "収賄の疑い JR貨物社員を逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596304?source=rss",
-        "publishedAt": "2026-09-23T12:59:21.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596282?source=rss",
+        "publishedAt": "2026-09-23T10:03:51.000Z"
       }
     ],
     "subsidyHeadlines": [
