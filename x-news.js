@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-22T23:37:12.660Z",
+  "updatedAt": "2026-09-23T00:46:50.277Z",
   "items": [
     {
-      "time": "07:15",
-      "title": "日米 経済安保で連携の方針一致",
+      "time": "09:43",
+      "title": "台風25号の死者9人に 4人行方不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596200?source=rss",
-      "publishedAt": "2026-09-22T22:15:54.000Z",
-      "xQuery": "日米 経済安保で連携の方針一致"
+      "url": "https://news.yahoo.co.jp/pickup/6596221?source=rss",
+      "publishedAt": "2026-09-23T00:43:06.000Z",
+      "xQuery": "台風25号の死者9人に 4人行方不明"
     },
     {
       "time": "07:30",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "AIは「SI」に改称 米大統領宣言"
     },
     {
-      "time": "08:06",
-      "title": "退職代行サービス 1年で2割停止か",
+      "time": "08:20",
+      "title": "とび職に逆風 倒産過去最多ペース",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596208?source=rss",
-      "publishedAt": "2026-09-22T23:06:23.000Z",
-      "xQuery": "退職代行サービス 1年で2割停止か"
+      "url": "https://news.yahoo.co.jp/pickup/6596209?source=rss",
+      "publishedAt": "2026-09-22T23:20:05.000Z",
+      "xQuery": "とび職に逆風 倒産過去最多ペース"
     },
     {
-      "time": "07:47",
-      "title": "キツネが玄関先にモグラ置く なぜ",
+      "time": "09:05",
+      "title": "クジラが千葉漂着 爆発の危険性も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596204?source=rss",
-      "publishedAt": "2026-09-22T22:47:54.000Z",
-      "xQuery": "キツネが玄関先にモグラ置く なぜ"
+      "url": "https://news.yahoo.co.jp/pickup/6596217?source=rss",
+      "publishedAt": "2026-09-23T00:05:33.000Z",
+      "xQuery": "クジラが千葉漂着 爆発の危険性も"
     }
   ]
 };
