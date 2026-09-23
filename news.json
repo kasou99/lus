@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T10:40:26.513Z",
+  "updatedAt": "2026-09-23T11:16:44.209Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,9 +12,16 @@
       {
         "time": "08:03",
         "title": "Google傘下Intrinsicがロボット基盤を公開、工作機械の部品交換まで試せる",
-        "source": "xenospectrum.com",
+        "source": "XenoSpectrum",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFeFI5LXdmNGZ2NTBvVmUyMWllTmVfdUR6ZFVUTW9hakt5YjdNYnc5MVRjTmtudVc5VVRVNU5zaEFJcDRwM25nQjJ5b1daZTl0RXJIQkNqaXdEaC1GaHhFSnpXbWJsMnRfVU82eEM0dDRCcW5KZVBXem90YTk?oc=5",
         "publishedAt": "2026-09-22T23:03:50.000Z"
+      },
+      {
+        "time": "20:09",
+        "title": "申し渡されたテキストは日本語に翻訳します。CNC自動旋盤市場の包括的調査：規模、シ",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UOV83cHBGUEhwNlJpOHU2UVBGczMtZFF5dGlPWVFfdzVITUs1Y3lCLU9MSndsVFVfUjBEU0c1c0FzeFlxUk5BeGp3?oc=5",
+        "publishedAt": "2026-09-23T11:09:39.000Z"
       },
       {
         "time": "05:00",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596209?source=rss",
         "publishedAt": "2026-09-22T23:20:05.000Z"
-      },
-      {
-        "time": "18:07",
-        "title": "東南アジア食品市場 日本の勝機は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596162?source=rss",
-        "publishedAt": "2026-09-22T09:07:39.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,18 +119,18 @@
         "publishedAt": "2026-09-22T23:20:05.000Z"
       },
       {
-        "time": "18:07",
-        "title": "東南アジア食品市場 日本の勝機は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596162?source=rss",
-        "publishedAt": "2026-09-22T09:07:39.000Z"
-      },
-      {
         "time": "08:06",
         "title": "退職代行サービス 1年で2割停止か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596208?source=rss",
         "publishedAt": "2026-09-22T23:06:23.000Z"
+      },
+      {
+        "time": "20:08",
+        "title": "社員寮や社宅が増加 企業の期待は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596288?source=rss",
+        "publishedAt": "2026-09-23T11:08:17.000Z"
       },
       {
         "time": "16:56",
