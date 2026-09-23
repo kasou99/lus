@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T21:16:16.035Z",
+  "updatedAt": "2026-09-23T21:36:53.385Z",
   "items": [
     {
       "time": "21:25",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "印旛沼 排水追い付かず堤防決壊か"
     },
     {
+      "time": "06:30",
+      "title": "千葉の停電 復旧の見通し立たず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596319?source=rss",
+      "publishedAt": "2026-09-23T21:30:17.000Z",
+      "xQuery": "千葉の停電 復旧の見通し立たず"
+    },
+    {
       "time": "23:59",
       "title": "ANA機が空港に緊急着陸 乗客脱出",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596296?source=rss",
       "publishedAt": "2026-09-23T11:55:12.000Z",
       "xQuery": "不明の6歳か 遺体は離島で発見"
-    },
-    {
-      "time": "22:52",
-      "title": "金利上昇 住宅の駆け込み購入も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596308?source=rss",
-      "publishedAt": "2026-09-23T13:52:32.000Z",
-      "xQuery": "金利上昇 住宅の駆け込み購入も"
     }
   ]
 };

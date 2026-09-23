@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T21:16:14.924Z",
+  "updatedAt": "2026-09-23T21:36:52.696Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-09-22T21:55:00.000Z"
       },
       {
+        "time": "06:22",
+        "title": "ANA機脱出 重大インシデント認定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596318?source=rss",
+        "publishedAt": "2026-09-23T21:22:06.000Z"
+      },
+      {
         "time": "23:59",
         "title": "ANA機が空港に緊急着陸 乗客脱出",
         "source": "Yahoo!ニュース",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596308?source=rss",
         "publishedAt": "2026-09-23T13:52:32.000Z"
-      },
-      {
-        "time": "08:20",
-        "title": "とび職に逆風 倒産過去最多ペース",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596209?source=rss",
-        "publishedAt": "2026-09-22T23:20:05.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "06:22",
+        "title": "ANA機脱出 重大インシデント認定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596318?source=rss",
+        "publishedAt": "2026-09-23T21:22:06.000Z"
+      },
+      {
         "time": "23:59",
         "title": "ANA機が空港に緊急着陸 乗客脱出",
         "source": "Yahoo!ニュース",
@@ -124,13 +131,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596209?source=rss",
         "publishedAt": "2026-09-22T23:20:05.000Z"
-      },
-      {
-        "time": "08:06",
-        "title": "退職代行サービス 1年で2割停止か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596208?source=rss",
-        "publishedAt": "2026-09-22T23:06:23.000Z"
       },
       {
         "time": "20:08",
@@ -156,18 +156,18 @@
         "publishedAt": "2026-09-23T10:19:14.000Z"
       },
       {
+        "time": "06:30",
+        "title": "千葉の停電 復旧の見通し立たず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596319?source=rss",
+        "publishedAt": "2026-09-23T21:30:17.000Z"
+      },
+      {
         "time": "23:16",
         "title": "印旛沼 排水追い付かず堤防決壊か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596313?source=rss",
         "publishedAt": "2026-09-23T14:16:20.000Z"
-      },
-      {
-        "time": "16:55",
-        "title": "印旛沼で堤防決壊 復旧時期は未定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596264?source=rss",
-        "publishedAt": "2026-09-23T07:55:55.000Z"
       },
       {
         "time": "20:50",
