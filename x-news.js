@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T09:19:54.661Z",
+  "updatedAt": "2026-09-23T09:41:31.226Z",
   "items": [
     {
       "time": "18:10",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 米大統領との会談成果を強調"
     },
     {
-      "time": "16:06",
-      "title": "非正規拡大は国の責任?識者見解",
+      "time": "16:55",
+      "title": "印旛沼で堤防決壊 復旧時期は未定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596257?source=rss",
-      "publishedAt": "2026-09-23T07:06:09.000Z",
-      "xQuery": "非正規拡大は国の責任?識者見解"
-    },
-    {
-      "time": "16:10",
-      "title": "マスク氏 習主席は偉大な指導者",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596259?source=rss",
-      "publishedAt": "2026-09-23T07:10:09.000Z",
-      "xQuery": "マスク氏 習主席は偉大な指導者"
+      "url": "https://news.yahoo.co.jp/pickup/6596264?source=rss",
+      "publishedAt": "2026-09-23T07:55:55.000Z",
+      "xQuery": "印旛沼で堤防決壊 復旧時期は未定"
     },
     {
       "time": "17:43",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596275?source=rss",
       "publishedAt": "2026-09-23T08:52:47.000Z",
       "xQuery": "JCOMで障害 復旧の見通し立たず"
+    },
+    {
+      "time": "16:06",
+      "title": "非正規拡大は国の責任?識者見解",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596257?source=rss",
+      "publishedAt": "2026-09-23T07:06:09.000Z",
+      "xQuery": "非正規拡大は国の責任?識者見解"
     }
   ]
 };
