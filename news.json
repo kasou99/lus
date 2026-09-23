@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T11:38:33.634Z",
+  "updatedAt": "2026-09-23T12:27:18.529Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-09-22T20:00:00.000Z"
       },
       {
-        "time": "08:31",
-        "title": "EnhansとGS Caltex、製造現場の暗黙知をAI化する政府事業に採択",
-        "source": "디지털투데이",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeGxyTTBsN21zWWJFUVFNcWpXRjFpdFMyaWRza0JsNDJNTDJ1TjRrNFhUaVRvQ0JEdGNPakFBeTlTQ0NEd2NLT1p6VXdaWUYwVGpMM0xpR2xiS3VCR2JUaUg3MkQ5ODdyTHlBSG9NR3k3N0tjWC1QX1I4Z1JoWFB6eDNJTW5ILTMyV3B0S191MHlUWm91Mk5QblB3X3NnUWdPbXZOeEJOQWU3X1hvWlJ3NnIxU2NQNzlOaUt2Rk9VMVU1ckNMZTk1MkhnbVB2WEpjOWEtRUVPbkJ6TzlzSjdzWTByVQ?oc=5",
-        "publishedAt": "2026-09-22T23:31:15.000Z"
-      },
-      {
         "time": "12:30",
         "title": "油圧サーボコントローラの世界市場（2026年～2032年）、市場規模（電気油圧サーボコントローラ、サーボ比例弁コントローラ、全油圧式サーボコントローラ、デジタルサーボコントローラ）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FYTdHOVMzQmUydHZQZ09wanZybnZyN1lqc05Wem1STFV2am9IMFpJZk1DQS1ZbjU4UnBpR3NBQkg4UWJXRmNQdXpoVzhfS2M?oc=5",
         "publishedAt": "2026-09-23T03:30:00.000Z"
+      },
+      {
+        "time": "08:31",
+        "title": "EnhansとGS Caltex、製造現場の暗黙知をAI化する政府事業に採択",
+        "source": "디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeGxyTTBsN21zWWJFUVFNcWpXRjFpdFMyaWRza0JsNDJNTDJ1TjRrNFhUaVRvQ0JEdGNPakFBeTlTQ0NEd2NLT1p6VXdaWUYwVGpMM0xpR2xiS3VCR2JUaUg3MkQ5ODdyTHlBSG9NR3k3N0tjWC1QX1I4Z1JoWFB6eDNJTW5ILTMyV3B0S191MHlUWm91Mk5QblB3X3NnUWdPbXZOeEJOQWU3X1hvWlJ3NnIxU2NQNzlOaUt2Rk9VMVU1ckNMZTk1MkhnbVB2WEpjOWEtRUVPbkJ6TzlzSjdzWTByVQ?oc=5",
+        "publishedAt": "2026-09-22T23:31:15.000Z"
       },
       {
         "time": "12:32",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-09-23T07:56:23.000Z"
       },
       {
-        "time": "16:19",
-        "title": "ミスドが中国に再進出 勝算は",
+        "time": "21:12",
+        "title": "維持費高騰 減る「ご当地遊園地」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596260?source=rss",
-        "publishedAt": "2026-09-23T07:19:15.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596298?source=rss",
+        "publishedAt": "2026-09-23T12:12:22.000Z"
       }
     ],
     "localHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-09-23T10:19:14.000Z"
       },
       {
-        "time": "20:32",
-        "title": "台風で養魚場浸水 被害10億円にも",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596291?source=rss",
-        "publishedAt": "2026-09-23T11:32:52.000Z"
-      },
-      {
         "time": "16:55",
         "title": "印旛沼で堤防決壊 復旧時期は未定",
         "source": "Yahoo!ニュース",
@@ -170,11 +163,11 @@
         "publishedAt": "2026-09-23T07:55:55.000Z"
       },
       {
-        "time": "13:19",
-        "title": "「疲れた」1カ月余りで店3度被災",
+        "time": "20:50",
+        "title": "堤防決壊 老舗養魚場が壊滅的被害",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596243?source=rss",
-        "publishedAt": "2026-09-23T04:19:23.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596297?source=rss",
+        "publishedAt": "2026-09-23T11:50:52.000Z"
       },
       {
         "time": "17:43",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596272?source=rss",
         "publishedAt": "2026-09-23T08:43:15.000Z"
+      },
+      {
+        "time": "20:55",
+        "title": "不明の6歳か 遺体は離島で発見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596296?source=rss",
+        "publishedAt": "2026-09-23T11:55:12.000Z"
       },
       {
         "time": "19:03",

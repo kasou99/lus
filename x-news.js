@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T11:38:36.873Z",
+  "updatedAt": "2026-09-23T12:27:19.255Z",
   "items": [
     {
       "time": "19:19",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 米大統領との会談成果を強調"
     },
     {
-      "time": "17:43",
-      "title": "行方不明の6歳か 身元不明の遺体",
+      "time": "20:50",
+      "title": "堤防決壊 老舗養魚場が壊滅的被害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596272?source=rss",
-      "publishedAt": "2026-09-23T08:43:15.000Z",
-      "xQuery": "行方不明の6歳か 身元不明の遺体"
+      "url": "https://news.yahoo.co.jp/pickup/6596297?source=rss",
+      "publishedAt": "2026-09-23T11:50:52.000Z",
+      "xQuery": "堤防決壊 老舗養魚場が壊滅的被害"
     },
     {
-      "time": "19:03",
-      "title": "収賄の疑い JR貨物社員を逮捕",
+      "time": "20:55",
+      "title": "不明の6歳か 遺体は離島で発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596282?source=rss",
-      "publishedAt": "2026-09-23T10:03:51.000Z",
-      "xQuery": "収賄の疑い JR貨物社員を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6596296?source=rss",
+      "publishedAt": "2026-09-23T11:55:12.000Z",
+      "xQuery": "不明の6歳か 遺体は離島で発見"
     },
     {
-      "time": "20:08",
-      "title": "社員寮や社宅が増加 企業の期待は",
+      "time": "20:37",
+      "title": "神戸市 会議の委員発言を無断修正",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596288?source=rss",
-      "publishedAt": "2026-09-23T11:08:17.000Z",
-      "xQuery": "社員寮や社宅が増加 企業の期待は"
+      "url": "https://news.yahoo.co.jp/pickup/6596294?source=rss",
+      "publishedAt": "2026-09-23T11:37:31.000Z",
+      "xQuery": "神戸市 会議の委員発言を無断修正"
     }
   ]
 };
