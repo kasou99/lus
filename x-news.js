@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T07:43:17.304Z",
+  "updatedAt": "2026-09-23T08:24:58.525Z",
   "items": [
     {
       "time": "16:04",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "イスラエル 動画で国連各国やゆ"
     },
     {
+      "time": "16:55",
+      "title": "印旛沼で堤防決壊 復旧時期は未定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596264?source=rss",
+      "publishedAt": "2026-09-23T07:55:55.000Z",
+      "xQuery": "印旛沼で堤防決壊 復旧時期は未定"
+    },
+    {
       "time": "16:10",
       "title": "マスク氏 習主席は偉大な指導者",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596261?source=rss",
       "publishedAt": "2026-09-23T07:33:10.000Z",
       "xQuery": "漁船と衝突 ボート乗船の男性死亡"
-    },
-    {
-      "time": "15:30",
-      "title": "インフル拡大「長引く雨」一因か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596256?source=rss",
-      "publishedAt": "2026-09-23T06:30:11.000Z",
-      "xQuery": "インフル拡大「長引く雨」一因か"
     }
   ]
 };
