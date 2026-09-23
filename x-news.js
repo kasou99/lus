@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T01:28:08.409Z",
+  "updatedAt": "2026-09-23T01:48:51.611Z",
   "items": [
     {
       "time": "09:43",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "高市首相が国連演説 ICCに言及"
     },
     {
-      "time": "07:30",
-      "title": "AIは「SI」に改称 米大統領宣言",
+      "time": "07:47",
+      "title": "米大統領 質問したCNN記者を威圧",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596201?source=rss",
-      "publishedAt": "2026-09-22T22:30:01.000Z",
-      "xQuery": "AIは「SI」に改称 米大統領宣言"
+      "url": "https://news.yahoo.co.jp/pickup/6596205?source=rss",
+      "publishedAt": "2026-09-22T22:47:17.000Z",
+      "xQuery": "米大統領 質問したCNN記者を威圧"
     },
     {
       "time": "08:20",
