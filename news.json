@@ -1,35 +1,7 @@
 {
-  "updatedAt": "2026-09-23T06:31:58.609Z",
+  "updatedAt": "2026-09-23T07:22:05.655Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "08:03",
-        "title": "Google傘下Intrinsicがロボット基盤を公開、工作機械の部品交換まで試せる",
-        "source": "XenoSpectrum",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFeFI5LXdmNGZ2NTBvVmUyMWllTmVfdUR6ZFVUTW9hakt5YjdNYnc5MVRjTmtudVc5VVRVNU5zaEFJcDRwM25nQjJ5b1daZTl0RXJIQkNqaXdEaC1GaHhFSnpXbWJsMnRfVU82eEM0dDRCcW5KZVBXem90YTk?oc=5",
-        "publishedAt": "2026-09-22T23:03:50.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "多様性を育む／キヤノン 女性活躍・男性育休 着々と",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PT0FqcjFhZDdRd0p5TzVpYWF3blY1UHM3U3NjYWhPQmVDN2ZoV0lOeVFCWlFZYU1IUHhyNnNCZTl0dVp6RzlfRWZMajByNDhEVWRpenR1MXU?oc=5",
-        "publishedAt": "2026-09-22T20:00:00.000Z"
-      },
-      {
-        "time": "12:30",
-        "title": "油圧サーボコントローラの世界市場（2026年～2032年）、市場規模（電気油圧サーボコントローラ、サーボ比例弁コントローラ、全油圧式サーボコントローラ、デジタルサーボコントローラ）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FYTdHOVMzQmUydHZQZ09wanZybnZyN1lqc05Wem1STFV2am9IMFpJZk1DQS1ZbjU4UnBpR3NBQkg4UWJXRmNQdXpoVzhfS2M?oc=5",
-        "publishedAt": "2026-09-23T03:30:00.000Z"
-      },
-      {
-        "time": "08:31",
-        "title": "EnhansとGS Caltex、製造現場の暗黙知をAI化する政府事業に採択",
-        "source": "디지털투데이",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeGxyTTBsN21zWWJFUVFNcWpXRjFpdFMyaWRza0JsNDJNTDJ1TjRrNFhUaVRvQ0JEdGNPakFBeTlTQ0NEd2NLT1p6VXdaWUYwVGpMM0xpR2xiS3VCR2JUaUg3MkQ5ODdyTHlBSG9NR3k3N0tjWC1QX1I4Z1JoWFB6eDNJTW5ILTMyV3B0S191MHlUWm91Mk5QblB3X3NnUWdPbXZOeEJOQWU3X1hvWlJ3NnIxU2NQNzlOaUt2Rk9VMVU1ckNMZTk1MkhnbVB2WEpjOWEtRUVPbkJ6TzlzSjdzWTByVQ?oc=5",
-        "publishedAt": "2026-09-22T23:31:15.000Z"
-      },
       {
         "time": "12:32",
         "title": "5連休最終日 Uターンで交通混雑",
@@ -57,6 +29,34 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596158?source=rss",
         "publishedAt": "2026-09-22T08:30:29.000Z"
+      },
+      {
+        "time": "08:06",
+        "title": "退職代行サービス 1年で2割停止か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596208?source=rss",
+        "publishedAt": "2026-09-22T23:06:23.000Z"
+      },
+      {
+        "time": "16:19",
+        "title": "ミスドが中国に再進出 勝算は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596260?source=rss",
+        "publishedAt": "2026-09-23T07:19:15.000Z"
+      },
+      {
+        "time": "10:43",
+        "title": "進化系おにぎり専門店 売れる訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596228?source=rss",
+        "publishedAt": "2026-09-23T01:43:47.000Z"
+      },
+      {
+        "time": "23:01",
+        "title": "地方のキャバクラ 経営「四重苦」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596192?source=rss",
+        "publishedAt": "2026-09-22T14:01:34.000Z"
       }
     ],
     "worldHeadlines": [
@@ -89,11 +89,11 @@
         "publishedAt": "2026-09-23T03:13:36.000Z"
       },
       {
-        "time": "14:02",
-        "title": "リトアニア 露が攻撃なら反撃する",
+        "time": "16:10",
+        "title": "マスク氏 習主席は偉大な指導者",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596133?source=rss",
-        "publishedAt": "2026-09-22T05:02:12.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596259?source=rss",
+        "publishedAt": "2026-09-23T07:10:09.000Z"
       },
       {
         "time": "22:33",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-09-22T08:30:29.000Z"
       },
       {
-        "time": "11:45",
-        "title": "修繕費計5億円超 観光施設閉園へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596120?source=rss",
-        "publishedAt": "2026-09-22T02:45:08.000Z"
-      },
-      {
         "time": "08:06",
         "title": "退職代行サービス 1年で2割停止か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596208?source=rss",
         "publishedAt": "2026-09-22T23:06:23.000Z"
+      },
+      {
+        "time": "16:19",
+        "title": "ミスドが中国に再進出 勝算は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596260?source=rss",
+        "publishedAt": "2026-09-23T07:19:15.000Z"
       }
     ],
     "localHeadlines": [
@@ -215,13 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-09-02T07:00:00.000Z"
       }
     ]
   }
