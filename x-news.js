@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T07:22:14.267Z",
+  "updatedAt": "2026-09-23T07:43:17.304Z",
   "items": [
     {
       "time": "16:04",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イスラエル 動画で国連各国やゆ"
     },
     {
-      "time": "13:53",
-      "title": "JCOMで障害 ネット利用できず",
+      "time": "16:10",
+      "title": "マスク氏 習主席は偉大な指導者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596246?source=rss",
-      "publishedAt": "2026-09-23T04:53:24.000Z",
-      "xQuery": "JCOMで障害 ネット利用できず"
+      "url": "https://news.yahoo.co.jp/pickup/6596259?source=rss",
+      "publishedAt": "2026-09-23T07:10:09.000Z",
+      "xQuery": "マスク氏 習主席は偉大な指導者"
+    },
+    {
+      "time": "16:33",
+      "title": "漁船と衝突 ボート乗船の男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596261?source=rss",
+      "publishedAt": "2026-09-23T07:33:10.000Z",
+      "xQuery": "漁船と衝突 ボート乗船の男性死亡"
     },
     {
       "time": "15:30",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596256?source=rss",
       "publishedAt": "2026-09-23T06:30:11.000Z",
       "xQuery": "インフル拡大「長引く雨」一因か"
-    },
-    {
-      "time": "15:23",
-      "title": "6歳行方不明 手がかり見つからず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596254?source=rss",
-      "publishedAt": "2026-09-23T06:23:03.000Z",
-      "xQuery": "6歳行方不明 手がかり見つからず"
     }
   ]
 };
