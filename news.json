@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T04:21:39.327Z",
+  "updatedAt": "2026-09-23T04:43:04.482Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-09-22T23:03:50.000Z"
       },
       {
-        "time": "12:30",
-        "title": "油圧サーボコントローラの世界市場（2026年～2032年）、市場規模（電気油圧サーボコントローラ、サーボ比例弁コントローラ、全油圧式サーボコントローラ、デジタルサーボコントローラ）・分析レポートを発表",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FYTdHOVMzQmUydHZQZ09wanZybnZyN1lqc05Wem1STFV2am9IMFpJZk1DQS1ZbjU4UnBpR3NBQkg4UWJXRmNQdXpoVzhfS2M?oc=5",
-        "publishedAt": "2026-09-23T03:30:00.000Z"
-      },
-      {
         "time": "05:00",
         "title": "多様性を育む／キヤノン 女性活躍・男性育休 着々と",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PT0FqcjFhZDdRd0p5TzVpYWF3blY1UHM3U3NjYWhPQmVDN2ZoV0lOeVFCWlFZYU1IUHhyNnNCZTl0dVp6RzlfRWZMajByNDhEVWRpenR1MXU?oc=5",
         "publishedAt": "2026-09-22T20:00:00.000Z"
+      },
+      {
+        "time": "12:30",
+        "title": "油圧サーボコントローラの世界市場（2026年～2032年）、市場規模（電気油圧サーボコントローラ、サーボ比例弁コントローラ、全油圧式サーボコントローラ、デジタルサーボコントローラ）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FYTdHOVMzQmUydHZQZ09wanZybnZyN1lqc05Wem1STFV2am9IMFpJZk1DQS1ZbjU4UnBpR3NBQkg4UWJXRmNQdXpoVzhfS2M?oc=5",
+        "publishedAt": "2026-09-23T03:30:00.000Z"
       },
       {
         "time": "08:31",
@@ -163,6 +163,13 @@
         "publishedAt": "2026-09-23T00:43:06.000Z"
       },
       {
+        "time": "13:39",
+        "title": "無人の軽トラ動き男性下敷き 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596244?source=rss",
+        "publishedAt": "2026-09-23T04:39:02.000Z"
+      },
+      {
         "time": "09:05",
         "title": "クジラが千葉漂着 爆発の危険性も",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596193?source=rss",
         "publishedAt": "2026-09-22T14:21:28.000Z"
-      },
-      {
-        "time": "21:18",
-        "title": "SUPに2人乗りし落ちたか 1人死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596181?source=rss",
-        "publishedAt": "2026-09-22T12:18:12.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T04:21:39.760Z",
+  "updatedAt": "2026-09-23T04:43:05.586Z",
   "items": [
     {
       "time": "10:38",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "5連休最終日 Uターンで交通混雑"
     },
     {
-      "time": "07:47",
-      "title": "米大統領 質問したCNN記者を威圧",
+      "time": "13:19",
+      "title": "「疲れた」1カ月余りで店3度被災",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596205?source=rss",
-      "publishedAt": "2026-09-22T22:47:17.000Z",
-      "xQuery": "米大統領 質問したCNN記者を威圧"
+      "url": "https://news.yahoo.co.jp/pickup/6596243?source=rss",
+      "publishedAt": "2026-09-23T04:19:23.000Z",
+      "xQuery": "「疲れた」1カ月余りで店3度被災"
     },
     {
       "time": "12:08",
