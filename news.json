@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T12:27:18.529Z",
+  "updatedAt": "2026-09-23T12:49:04.206Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -89,18 +89,18 @@
         "publishedAt": "2026-09-23T03:13:36.000Z"
       },
       {
+        "time": "21:27",
+        "title": "中国 高市首相の国連演説巡り反発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596301?source=rss",
+        "publishedAt": "2026-09-23T12:27:12.000Z"
+      },
+      {
         "time": "16:10",
         "title": "マスク氏 習主席は偉大な指導者",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596259?source=rss",
         "publishedAt": "2026-09-23T07:10:09.000Z"
-      },
-      {
-        "time": "22:33",
-        "title": "サウジのパイプライン 稼働再開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596177?source=rss",
-        "publishedAt": "2026-09-22T13:33:42.000Z"
       }
     ],
     "economyHeadlines": [

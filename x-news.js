@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T12:27:19.255Z",
+  "updatedAt": "2026-09-23T12:49:05.089Z",
   "items": [
+    {
+      "time": "21:25",
+      "title": "日米首脳会談の目的は達成? 解説",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596299?source=rss",
+      "publishedAt": "2026-09-23T12:25:13.000Z",
+      "xQuery": "日米首脳会談の目的は達成? 解説"
+    },
     {
       "time": "19:19",
       "title": "台風 千葉・神奈川で計10人死亡",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596286?source=rss",
       "publishedAt": "2026-09-23T10:19:14.000Z",
       "xQuery": "台風 千葉・神奈川で計10人死亡"
-    },
-    {
-      "time": "18:10",
-      "title": "首相 米大統領との会談成果を強調",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596276?source=rss",
-      "publishedAt": "2026-09-23T09:10:38.000Z",
-      "xQuery": "首相 米大統領との会談成果を強調"
     },
     {
       "time": "20:50",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "堤防決壊 老舗養魚場が壊滅的被害"
     },
     {
+      "time": "21:27",
+      "title": "中国 高市首相の国連演説巡り反発",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596301?source=rss",
+      "publishedAt": "2026-09-23T12:27:12.000Z",
+      "xQuery": "中国 高市首相の国連演説巡り反発"
+    },
+    {
       "time": "20:55",
       "title": "不明の6歳か 遺体は離島で発見",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596296?source=rss",
       "publishedAt": "2026-09-23T11:55:12.000Z",
       "xQuery": "不明の6歳か 遺体は離島で発見"
-    },
-    {
-      "time": "20:37",
-      "title": "神戸市 会議の委員発言を無断修正",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596294?source=rss",
-      "publishedAt": "2026-09-23T11:37:31.000Z",
-      "xQuery": "神戸市 会議の委員発言を無断修正"
     }
   ]
 };
