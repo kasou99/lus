@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T08:45:12.058Z",
+  "updatedAt": "2026-09-23T09:19:54.661Z",
   "items": [
     {
-      "time": "16:04",
-      "title": "週末は広く雨予報 土砂災害に注意",
+      "time": "18:10",
+      "title": "首相 米大統領との会談成果を強調",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596258?source=rss",
-      "publishedAt": "2026-09-23T07:04:06.000Z",
-      "xQuery": "週末は広く雨予報 土砂災害に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6596276?source=rss",
+      "publishedAt": "2026-09-23T09:10:38.000Z",
+      "xQuery": "首相 米大統領との会談成果を強調"
     },
     {
-      "time": "12:13",
-      "title": "イスラエル 動画で国連各国やゆ",
+      "time": "16:06",
+      "title": "非正規拡大は国の責任?識者見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596236?source=rss",
-      "publishedAt": "2026-09-23T03:13:36.000Z",
-      "xQuery": "イスラエル 動画で国連各国やゆ"
+      "url": "https://news.yahoo.co.jp/pickup/6596257?source=rss",
+      "publishedAt": "2026-09-23T07:06:09.000Z",
+      "xQuery": "非正規拡大は国の責任?識者見解"
     },
     {
-      "time": "16:55",
-      "title": "印旛沼で堤防決壊 復旧時期は未定",
+      "time": "16:10",
+      "title": "マスク氏 習主席は偉大な指導者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596264?source=rss",
-      "publishedAt": "2026-09-23T07:55:55.000Z",
-      "xQuery": "印旛沼で堤防決壊 復旧時期は未定"
+      "url": "https://news.yahoo.co.jp/pickup/6596259?source=rss",
+      "publishedAt": "2026-09-23T07:10:09.000Z",
+      "xQuery": "マスク氏 習主席は偉大な指導者"
     },
     {
       "time": "17:43",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "行方不明の6歳か 身元不明の遺体"
     },
     {
-      "time": "16:10",
-      "title": "マスク氏 習主席は偉大な指導者",
+      "time": "17:52",
+      "title": "JCOMで障害 復旧の見通し立たず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596259?source=rss",
-      "publishedAt": "2026-09-23T07:10:09.000Z",
-      "xQuery": "マスク氏 習主席は偉大な指導者"
+      "url": "https://news.yahoo.co.jp/pickup/6596275?source=rss",
+      "publishedAt": "2026-09-23T08:52:47.000Z",
+      "xQuery": "JCOMで障害 復旧の見通し立たず"
     }
   ]
 };
