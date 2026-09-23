@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T14:41:33.002Z",
+  "updatedAt": "2026-09-23T15:17:31.098Z",
   "items": [
     {
       "time": "21:25",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "日米首脳会談の目的は達成? 解説"
     },
     {
-      "time": "21:27",
-      "title": "中国 高市首相の国連演説巡り反発",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596301?source=rss",
-      "publishedAt": "2026-09-23T12:27:12.000Z",
-      "xQuery": "中国 高市首相の国連演説巡り反発"
-    },
-    {
       "time": "23:16",
       "title": "印旛沼 排水追い付かず堤防決壊か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596313?source=rss",
       "publishedAt": "2026-09-23T14:16:20.000Z",
       "xQuery": "印旛沼 排水追い付かず堤防決壊か"
+    },
+    {
+      "time": "23:59",
+      "title": "ANA機が空港に緊急着陸 乗客脱出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596316?source=rss",
+      "publishedAt": "2026-09-23T14:59:25.000Z",
+      "xQuery": "ANA機が空港に緊急着陸 乗客脱出"
     },
     {
       "time": "20:55",

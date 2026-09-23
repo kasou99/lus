@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T14:41:32.087Z",
+  "updatedAt": "2026-09-23T15:17:30.236Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -33,7 +33,7 @@
       {
         "time": "12:30",
         "title": "油圧サーボコントローラの世界市場（2026年～2032年）、市場規模（電気油圧サーボコントローラ、サーボ比例弁コントローラ、全油圧式サーボコントローラ、デジタルサーボコントローラ）・分析レポートを発表",
-        "source": "atpress.ne.jp",
+        "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FYTdHOVMzQmUydHZQZ09wanZybnZyN1lqc05Wem1STFV2am9IMFpJZk1DQS1ZbjU4UnBpR3NBQkg4UWJXRmNQdXpoVzhfS2M?oc=5",
         "publishedAt": "2026-09-23T03:30:00.000Z"
       },
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-22T23:31:15.000Z"
       },
       {
+        "time": "23:59",
+        "title": "ANA機が空港に緊急着陸 乗客脱出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596316?source=rss",
+        "publishedAt": "2026-09-23T14:59:25.000Z"
+      },
+      {
         "time": "22:52",
         "title": "金利上昇 住宅の駆け込み購入も",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596308?source=rss",
         "publishedAt": "2026-09-23T13:52:32.000Z"
-      },
-      {
-        "time": "08:20",
-        "title": "とび職に逆風 倒産過去最多ペース",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596209?source=rss",
-        "publishedAt": "2026-09-22T23:20:05.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596205?source=rss",
         "publishedAt": "2026-09-22T22:47:17.000Z"
+      },
+      {
+        "time": "12:13",
+        "title": "イスラエル 動画で国連各国やゆ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596236?source=rss",
+        "publishedAt": "2026-09-23T03:13:36.000Z"
       },
       {
         "time": "21:27",
@@ -94,16 +101,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596177?source=rss",
         "publishedAt": "2026-09-22T13:33:42.000Z"
-      },
-      {
-        "time": "22:47",
-        "title": "インドネシア 緊急地震速報整備へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596190?source=rss",
-        "publishedAt": "2026-09-22T13:47:41.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "23:59",
+        "title": "ANA機が空港に緊急着陸 乗客脱出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596316?source=rss",
+        "publishedAt": "2026-09-23T14:59:25.000Z"
+      },
       {
         "time": "22:52",
         "title": "金利上昇 住宅の駆け込み購入も",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596263?source=rss",
         "publishedAt": "2026-09-23T07:56:23.000Z"
-      },
-      {
-        "time": "21:12",
-        "title": "維持費高騰 減る「ご当地遊園地」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596298?source=rss",
-        "publishedAt": "2026-09-23T12:12:22.000Z"
       }
     ],
     "localHeadlines": [
