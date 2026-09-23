@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T14:19:08.048Z",
+  "updatedAt": "2026-09-23T14:41:33.002Z",
   "items": [
     {
       "time": "21:25",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "中国 高市首相の国連演説巡り反発"
     },
     {
+      "time": "23:16",
+      "title": "印旛沼 排水追い付かず堤防決壊か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596313?source=rss",
+      "publishedAt": "2026-09-23T14:16:20.000Z",
+      "xQuery": "印旛沼 排水追い付かず堤防決壊か"
+    },
+    {
       "time": "20:55",
       "title": "不明の6歳か 遺体は離島で発見",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596308?source=rss",
       "publishedAt": "2026-09-23T13:52:32.000Z",
       "xQuery": "金利上昇 住宅の駆け込み購入も"
-    },
-    {
-      "time": "22:18",
-      "title": "「スクイーズ」から有害物質 韓国",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596305?source=rss",
-      "publishedAt": "2026-09-23T13:18:51.000Z",
-      "xQuery": "「スクイーズ」から有害物質 韓国"
     }
   ]
 };

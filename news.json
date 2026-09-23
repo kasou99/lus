@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T14:19:06.845Z",
+  "updatedAt": "2026-09-23T14:41:32.087Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -75,13 +75,6 @@
         "publishedAt": "2026-09-22T22:47:17.000Z"
       },
       {
-        "time": "12:13",
-        "title": "イスラエル 動画で国連各国やゆ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596236?source=rss",
-        "publishedAt": "2026-09-23T03:13:36.000Z"
-      },
-      {
         "time": "21:27",
         "title": "中国 高市首相の国連演説巡り反発",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596177?source=rss",
         "publishedAt": "2026-09-22T13:33:42.000Z"
+      },
+      {
+        "time": "22:47",
+        "title": "インドネシア 緊急地震速報整備へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596190?source=rss",
+        "publishedAt": "2026-09-22T13:47:41.000Z"
       }
     ],
     "economyHeadlines": [
