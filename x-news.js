@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T09:41:31.226Z",
+  "updatedAt": "2026-09-23T10:18:24.782Z",
   "items": [
     {
       "time": "18:10",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "行方不明の6歳か 身元不明の遺体"
     },
     {
+      "time": "19:03",
+      "title": "収賄の疑い JR貨物社員を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596282?source=rss",
+      "publishedAt": "2026-09-23T10:03:51.000Z",
+      "xQuery": "収賄の疑い JR貨物社員を逮捕"
+    },
+    {
       "time": "17:52",
       "title": "JCOMで障害 復旧の見通し立たず",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596275?source=rss",
       "publishedAt": "2026-09-23T08:52:47.000Z",
       "xQuery": "JCOMで障害 復旧の見通し立たず"
-    },
-    {
-      "time": "16:06",
-      "title": "非正規拡大は国の責任?識者見解",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596257?source=rss",
-      "publishedAt": "2026-09-23T07:06:09.000Z",
-      "xQuery": "非正規拡大は国の責任?識者見解"
     }
   ]
 };
