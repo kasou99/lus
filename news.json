@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T03:44:05.053Z",
+  "updatedAt": "2026-09-23T04:21:39.327Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "XenoSpectrum",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFeFI5LXdmNGZ2NTBvVmUyMWllTmVfdUR6ZFVUTW9hakt5YjdNYnc5MVRjTmtudVc5VVRVNU5zaEFJcDRwM25nQjJ5b1daZTl0RXJIQkNqaXdEaC1GaHhFSnpXbWJsMnRfVU82eEM0dDRCcW5KZVBXem90YTk?oc=5",
         "publishedAt": "2026-09-22T23:03:50.000Z"
+      },
+      {
+        "time": "12:30",
+        "title": "油圧サーボコントローラの世界市場（2026年～2032年）、市場規模（電気油圧サーボコントローラ、サーボ比例弁コントローラ、全油圧式サーボコントローラ、デジタルサーボコントローラ）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FYTdHOVMzQmUydHZQZ09wanZybnZyN1lqc05Wem1STFV2am9IMFpJZk1DQS1ZbjU4UnBpR3NBQkg4UWJXRmNQdXpoVzhfS2M?oc=5",
+        "publishedAt": "2026-09-23T03:30:00.000Z"
       },
       {
         "time": "05:00",
@@ -29,13 +36,6 @@
         "source": "BigGo ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wenhtRkRsdld3NERwMjlxcDRCMlNOTUVKZTFlbUJEUm5wUjUtVnhRWUI3eDUtLTVxYVF5bnQtaWlDUzZZOTY0VGUtNjNNd1REc3ZjZUJvaDdNTGRlQzlYYWM1eHJGZnVyNzhPVjUyUnZUb1ot?oc=5",
         "publishedAt": "2026-09-22T06:25:00.000Z"
-      },
-      {
-        "time": "13:13",
-        "title": "NintendoのZelda特別版でGamer Hutが厳格な転売対策を行い全体の1%未満にあたる不当注文を取り消す",
-        "source": "Mix Vale",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQzFiMjlvajctTWJma05XTWpvMUYzMzJ6QnBvQ3NFRThGcTFPZ1diUHNDTUFPdDM3dlh0X2lNdjhZWklxalRMam9nM1RLNDh2SGt0OFhQeVZmQi1vVXRWWHhLQm15WERwUUVsZzhFSGgtRFhTOHVWcGxSQzdCby1ncFRtbFpHQ2FNbVlvS0swM2taRHY3cnpmTlN1cUEwQXZDVFVJZUJpRGowTGxPWHZCcHh1V0hwR1REWWlXSEFUbVRNdlhlc1lj0gHHAUFVX3lxTFBDMWIyOW9qNy1NYmZrTldNam8xRjMzMnpCcG9Dc0VFOEZxMU9nV2JQc0NNQU90Mzd2WHRfaU12OFlaSXFqVExqb2czVEs0OHZIa3Q4WFB5VmZCLW9VdFZYeEtCbXlYRHBRRWxnOEVIaC1EWFM4dVZwbFJDN0JvLWdwVG1sWkdDYU1tWW9LSzAza1pEdjdyemZOU3VxQTBBdkNUVUllQmlEajBMbE9YdkJweHVXSHBHVERZaVdIQVRtVE12WGVzWWM?oc=5",
-        "publishedAt": "2026-09-22T04:13:46.000Z"
       },
       {
         "time": "12:32",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "13:19",
+        "title": "「疲れた」1カ月余りで店3度被災",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596243?source=rss",
+        "publishedAt": "2026-09-23T04:19:23.000Z"
+      },
+      {
         "time": "09:43",
         "title": "台風25号の死者9人に 4人行方不明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596221?source=rss",
         "publishedAt": "2026-09-23T00:43:06.000Z"
-      },
-      {
-        "time": "21:24",
-        "title": "今年3度目の大雨被害 千葉に爪痕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596183?source=rss",
-        "publishedAt": "2026-09-22T12:24:25.000Z"
       },
       {
         "time": "09:05",

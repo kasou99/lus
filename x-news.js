@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T03:44:05.670Z",
+  "updatedAt": "2026-09-23T04:21:39.760Z",
   "items": [
     {
       "time": "10:38",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "関東は24日朝まで雨 土砂災害注意"
     },
     {
+      "time": "12:32",
+      "title": "5連休最終日 Uターンで交通混雑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596238?source=rss",
+      "publishedAt": "2026-09-23T03:32:07.000Z",
+      "xQuery": "5連休最終日 Uターンで交通混雑"
+    },
+    {
       "time": "07:47",
       "title": "米大統領 質問したCNN記者を威圧",
       "source": "Yahoo!ニュース",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 質問したCNN記者を威圧"
     },
     {
-      "time": "07:30",
-      "title": "AIは「SI」に改称 米大統領宣言",
+      "time": "12:08",
+      "title": "エルニーニョで雨 チリ砂漠に花畑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596201?source=rss",
-      "publishedAt": "2026-09-22T22:30:01.000Z",
-      "xQuery": "AIは「SI」に改称 米大統領宣言"
-    },
-    {
-      "time": "08:20",
-      "title": "とび職に逆風 倒産過去最多ペース",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596209?source=rss",
-      "publishedAt": "2026-09-22T23:20:05.000Z",
-      "xQuery": "とび職に逆風 倒産過去最多ペース"
+      "url": "https://news.yahoo.co.jp/pickup/6596235?source=rss",
+      "publishedAt": "2026-09-23T03:08:20.000Z",
+      "xQuery": "エルニーニョで雨 チリ砂漠に花畑"
     },
     {
       "time": "08:23",
