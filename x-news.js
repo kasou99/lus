@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T05:17:51.811Z",
+  "updatedAt": "2026-09-23T05:40:20.169Z",
   "items": [
-    {
-      "time": "10:38",
-      "title": "関東は24日朝まで雨 土砂災害注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596227?source=rss",
-      "publishedAt": "2026-09-23T01:38:39.000Z",
-      "xQuery": "関東は24日朝まで雨 土砂災害注意"
-    },
     {
       "time": "12:32",
       "title": "5連休最終日 Uターンで交通混雑",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596238?source=rss",
       "publishedAt": "2026-09-23T03:32:07.000Z",
       "xQuery": "5連休最終日 Uターンで交通混雑"
+    },
+    {
+      "time": "12:59",
+      "title": "首相 ゼレンスキー大統領と初会談",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596241?source=rss",
+      "publishedAt": "2026-09-23T03:59:54.000Z",
+      "xQuery": "首相 ゼレンスキー大統領と初会談"
     },
     {
       "time": "13:19",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "JCOMで障害 ネット利用できず"
     },
     {
-      "time": "12:08",
-      "title": "エルニーニョで雨 チリ砂漠に花畑",
+      "time": "13:39",
+      "title": "無人の軽トラ動き男性下敷き 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596235?source=rss",
-      "publishedAt": "2026-09-23T03:08:20.000Z",
-      "xQuery": "エルニーニョで雨 チリ砂漠に花畑"
+      "url": "https://news.yahoo.co.jp/pickup/6596244?source=rss",
+      "publishedAt": "2026-09-23T04:39:02.000Z",
+      "xQuery": "無人の軽トラ動き男性下敷き 死亡"
     }
   ]
 };
