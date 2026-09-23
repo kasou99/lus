@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T22:37:09.444Z",
+  "updatedAt": "2026-09-23T23:13:43.431Z",
   "items": [
     {
       "time": "07:26",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風26号発生 26日には沖縄の南へ"
     },
     {
-      "time": "23:16",
-      "title": "印旛沼 排水追い付かず堤防決壊か",
+      "time": "08:05",
+      "title": "会社役員刺され重体 従業員ら逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596313?source=rss",
-      "publishedAt": "2026-09-23T14:16:20.000Z",
-      "xQuery": "印旛沼 排水追い付かず堤防決壊か"
+      "url": "https://news.yahoo.co.jp/pickup/6596326?source=rss",
+      "publishedAt": "2026-09-23T23:05:02.000Z",
+      "xQuery": "会社役員刺され重体 従業員ら逮捕"
     },
     {
-      "time": "06:30",
-      "title": "千葉の停電 復旧の見通し立たず",
+      "time": "07:22",
+      "title": "10年超不明の当時10歳未満 42人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596319?source=rss",
-      "publishedAt": "2026-09-23T21:30:17.000Z",
-      "xQuery": "千葉の停電 復旧の見通し立たず"
+      "url": "https://news.yahoo.co.jp/pickup/6596322?source=rss",
+      "publishedAt": "2026-09-23T22:22:14.000Z",
+      "xQuery": "10年超不明の当時10歳未満 42人"
     }
   ]
 };
