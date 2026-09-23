@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T01:48:51.611Z",
+  "updatedAt": "2026-09-23T02:26:13.442Z",
   "items": [
     {
       "time": "09:43",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596221?source=rss",
       "publishedAt": "2026-09-23T00:43:06.000Z",
       "xQuery": "台風25号の死者9人に 4人行方不明"
-    },
-    {
-      "time": "09:27",
-      "title": "高市首相が国連演説 ICCに言及",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596219?source=rss",
-      "publishedAt": "2026-09-23T00:27:58.000Z",
-      "xQuery": "高市首相が国連演説 ICCに言及"
     },
     {
       "time": "07:47",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596217?source=rss",
       "publishedAt": "2026-09-23T00:05:33.000Z",
       "xQuery": "クジラが千葉漂着 爆発の危険性も"
+    },
+    {
+      "time": "10:43",
+      "title": "進化系おにぎり専門店 売れる訳",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596228?source=rss",
+      "publishedAt": "2026-09-23T01:43:47.000Z",
+      "xQuery": "進化系おにぎり専門店 売れる訳"
     }
   ]
 };
