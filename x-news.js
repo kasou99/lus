@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T12:49:05.089Z",
+  "updatedAt": "2026-09-23T13:17:29.337Z",
   "items": [
     {
       "time": "21:25",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日米首脳会談の目的は達成? 解説"
     },
     {
-      "time": "19:19",
-      "title": "台風 千葉・神奈川で計10人死亡",
+      "time": "21:27",
+      "title": "中国 高市首相の国連演説巡り反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596286?source=rss",
-      "publishedAt": "2026-09-23T10:19:14.000Z",
-      "xQuery": "台風 千葉・神奈川で計10人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6596301?source=rss",
+      "publishedAt": "2026-09-23T12:27:12.000Z",
+      "xQuery": "中国 高市首相の国連演説巡り反発"
     },
     {
       "time": "20:50",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "堤防決壊 老舗養魚場が壊滅的被害"
     },
     {
-      "time": "21:27",
-      "title": "中国 高市首相の国連演説巡り反発",
+      "time": "21:59",
+      "title": "新宿のビルで火災発生 3人負傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596301?source=rss",
-      "publishedAt": "2026-09-23T12:27:12.000Z",
-      "xQuery": "中国 高市首相の国連演説巡り反発"
+      "url": "https://news.yahoo.co.jp/pickup/6596304?source=rss",
+      "publishedAt": "2026-09-23T12:59:21.000Z",
+      "xQuery": "新宿のビルで火災発生 3人負傷"
     },
     {
       "time": "20:55",
