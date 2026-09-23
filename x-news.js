@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T10:18:24.782Z",
+  "updatedAt": "2026-09-23T10:40:27.280Z",
   "items": [
+    {
+      "time": "19:19",
+      "title": "台風 千葉・神奈川で計10人死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596286?source=rss",
+      "publishedAt": "2026-09-23T10:19:14.000Z",
+      "xQuery": "台風 千葉・神奈川で計10人死亡"
+    },
     {
       "time": "18:10",
       "title": "首相 米大統領との会談成果を強調",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596276?source=rss",
       "publishedAt": "2026-09-23T09:10:38.000Z",
       "xQuery": "首相 米大統領との会談成果を強調"
-    },
-    {
-      "time": "16:55",
-      "title": "印旛沼で堤防決壊 復旧時期は未定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596264?source=rss",
-      "publishedAt": "2026-09-23T07:55:55.000Z",
-      "xQuery": "印旛沼で堤防決壊 復旧時期は未定"
     },
     {
       "time": "17:43",
