@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T04:43:05.586Z",
+  "updatedAt": "2026-09-23T05:17:51.811Z",
   "items": [
     {
       "time": "10:38",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「疲れた」1カ月余りで店3度被災"
     },
     {
+      "time": "13:53",
+      "title": "JCOMで障害 ネット利用できず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596246?source=rss",
+      "publishedAt": "2026-09-23T04:53:24.000Z",
+      "xQuery": "JCOMで障害 ネット利用できず"
+    },
+    {
       "time": "12:08",
       "title": "エルニーニョで雨 チリ砂漠に花畑",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596235?source=rss",
       "publishedAt": "2026-09-23T03:08:20.000Z",
       "xQuery": "エルニーニョで雨 チリ砂漠に花畑"
-    },
-    {
-      "time": "08:23",
-      "title": "波紋 大食い動画の収益停止相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596210?source=rss",
-      "publishedAt": "2026-09-22T23:23:24.000Z",
-      "xQuery": "波紋 大食い動画の収益停止相次ぐ"
     }
   ]
 };
