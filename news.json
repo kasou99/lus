@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T21:36:52.696Z",
+  "updatedAt": "2026-09-23T22:16:14.214Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-09-23T03:30:00.000Z"
       },
       {
-        "time": "06:55",
-        "title": "東女大・熊丸うた子さんがミスユニバーシティグランプリ「任期を責任持って全う」涙で決意",
-        "source": "日刊スポーツ",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWl9iaEczSGxUNlBqS3N2YS1UZXZBZTMzalF2azRPVm9NN0REYXQ2X3JVcmJLMFYyT3lPLWN3TmNnSUF4dEQ3aVVrNTZ2VE9ETUJHdHZhQjdPOV9sY2U4a0dVdHJXUUViYWkyaE5jaVlxbnhWbnJEeVhBWkZmTE13MWIyV0Q5WEpleFdzd19yb2E3VTJsWlE?oc=5",
-        "publishedAt": "2026-09-22T21:55:00.000Z"
-      },
-      {
         "time": "06:22",
         "title": "ANA機脱出 重大インシデント認定",
         "source": "Yahoo!ニュース",
@@ -57,9 +50,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596308?source=rss",
         "publishedAt": "2026-09-23T13:52:32.000Z"
+      },
+      {
+        "time": "08:20",
+        "title": "とび職に逆風 倒産過去最多ペース",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596209?source=rss",
+        "publishedAt": "2026-09-22T23:20:05.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "06:38",
+        "title": "露側 プーチン氏のG20出席検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596320?source=rss",
+        "publishedAt": "2026-09-23T21:38:40.000Z"
+      },
       {
         "time": "07:11",
         "title": "米大統領 国連でICC脱退呼びかけ",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596259?source=rss",
         "publishedAt": "2026-09-23T07:10:09.000Z"
-      },
-      {
-        "time": "22:33",
-        "title": "サウジのパイプライン 稼働再開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596177?source=rss",
-        "publishedAt": "2026-09-22T13:33:42.000Z"
       }
     ],
     "economyHeadlines": [

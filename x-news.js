@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T21:36:53.385Z",
+  "updatedAt": "2026-09-23T22:16:15.199Z",
   "items": [
     {
-      "time": "21:25",
-      "title": "日米首脳会談の目的は達成? 解説",
+      "time": "06:38",
+      "title": "露側 プーチン氏のG20出席検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596299?source=rss",
-      "publishedAt": "2026-09-23T12:25:13.000Z",
-      "xQuery": "日米首脳会談の目的は達成? 解説"
+      "url": "https://news.yahoo.co.jp/pickup/6596320?source=rss",
+      "publishedAt": "2026-09-23T21:38:40.000Z",
+      "xQuery": "露側 プーチン氏のG20出席検討"
     },
     {
       "time": "23:16",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉の停電 復旧の見通し立たず"
     },
     {
-      "time": "23:59",
-      "title": "ANA機が空港に緊急着陸 乗客脱出",
+      "time": "06:58",
+      "title": "台風26号発生 26日には沖縄の南へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596316?source=rss",
-      "publishedAt": "2026-09-23T14:59:25.000Z",
-      "xQuery": "ANA機が空港に緊急着陸 乗客脱出"
+      "url": "https://news.yahoo.co.jp/pickup/6596321?source=rss",
+      "publishedAt": "2026-09-23T21:58:17.000Z",
+      "xQuery": "台風26号発生 26日には沖縄の南へ"
     },
     {
-      "time": "20:55",
-      "title": "不明の6歳か 遺体は離島で発見",
+      "time": "06:22",
+      "title": "ANA機脱出 重大インシデント認定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596296?source=rss",
-      "publishedAt": "2026-09-23T11:55:12.000Z",
-      "xQuery": "不明の6歳か 遺体は離島で発見"
+      "url": "https://news.yahoo.co.jp/pickup/6596318?source=rss",
+      "publishedAt": "2026-09-23T21:22:06.000Z",
+      "xQuery": "ANA機脱出 重大インシデント認定"
     }
   ]
 };
