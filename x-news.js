@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T00:46:50.277Z",
+  "updatedAt": "2026-09-23T01:28:08.409Z",
   "items": [
     {
       "time": "09:43",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風25号の死者9人に 4人行方不明"
     },
     {
-      "time": "07:30",
-      "title": "新たな台風発生へ 27日沖縄の南に",
+      "time": "09:27",
+      "title": "高市首相が国連演説 ICCに言及",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596202?source=rss",
-      "publishedAt": "2026-09-22T22:30:11.000Z",
-      "xQuery": "新たな台風発生へ 27日沖縄の南に"
+      "url": "https://news.yahoo.co.jp/pickup/6596219?source=rss",
+      "publishedAt": "2026-09-23T00:27:58.000Z",
+      "xQuery": "高市首相が国連演説 ICCに言及"
     },
     {
       "time": "07:30",

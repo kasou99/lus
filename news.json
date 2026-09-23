@@ -1,27 +1,20 @@
 {
-  "updatedAt": "2026-09-23T00:46:49.685Z",
+  "updatedAt": "2026-09-23T01:28:07.655Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "08:03",
         "title": "Google傘下Intrinsicがロボット基盤を公開、工作機械の部品交換まで試せる",
-        "source": "xenospectrum.com",
+        "source": "XenoSpectrum",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFeFI5LXdmNGZ2NTBvVmUyMWllTmVfdUR6ZFVUTW9hakt5YjdNYnc5MVRjTmtudVc5VVRVNU5zaEFJcDRwM25nQjJ5b1daZTl0RXJIQkNqaXdEaC1GaHhFSnpXbWJsMnRfVU82eEM0dDRCcW5KZVBXem90YTk?oc=5",
         "publishedAt": "2026-09-22T23:03:50.000Z"
       },
       {
         "time": "05:00",
         "title": "企業庁、消費減税対応を補助 スマートレジ導入など 事前着手制度適用",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4bmVpNjZMV2xFWnU1ZmY0dFZ5SWprbVFnTDdWSGdpdGJPZEZobXdBak9ZYTFROGlPSnZHUC0yMlhqVlFfZlhzU1ZtTkdkVHpuTGJuN19KcWZDNEtDSnpHQjZPUVZiWHBLMWF5V1hRbE44V0lidmFqeWZNQQ?oc=5",
         "publishedAt": "2026-09-22T20:00:00.000Z"
-      },
-      {
-        "time": "12:17",
-        "title": "CNCツールマガジン市場分析レポート：2026年1310百万米ドル規模、成長率7.4%推移｜QYResearch",
-        "source": "note",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VS1h6X0tuX1VsMVJJUjJVekhmZ1lOQ0p2d0ZqQ2c5NW1hYTVqQ1VOUkZ0U0RZaTZwNWxKUmlDV01mQjRZVXd5MGRYMVR6UEJFYi1DVTJsUQ?oc=5",
-        "publishedAt": "2026-09-22T03:17:03.000Z"
       },
       {
         "time": "08:31",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596115?source=rss",
         "publishedAt": "2026-09-22T02:07:13.000Z"
+      },
+      {
+        "time": "18:07",
+        "title": "東南アジア食品市場 日本の勝機は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596162?source=rss",
+        "publishedAt": "2026-09-22T09:07:39.000Z"
       }
     ],
     "worldHeadlines": [
