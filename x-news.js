@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T22:16:15.199Z",
+  "updatedAt": "2026-09-23T22:37:09.444Z",
   "items": [
+    {
+      "time": "07:26",
+      "title": "習氏が米到着 トランプ氏が出迎え",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596324?source=rss",
+      "publishedAt": "2026-09-23T22:26:32.000Z",
+      "xQuery": "習氏が米到着 トランプ氏が出迎え"
+    },
     {
       "time": "06:38",
       "title": "露側 プーチン氏のG20出席検討",
@@ -8,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596320?source=rss",
       "publishedAt": "2026-09-23T21:38:40.000Z",
       "xQuery": "露側 プーチン氏のG20出席検討"
+    },
+    {
+      "time": "06:58",
+      "title": "台風26号発生 26日には沖縄の南へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596321?source=rss",
+      "publishedAt": "2026-09-23T21:58:17.000Z",
+      "xQuery": "台風26号発生 26日には沖縄の南へ"
     },
     {
       "time": "23:16",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596319?source=rss",
       "publishedAt": "2026-09-23T21:30:17.000Z",
       "xQuery": "千葉の停電 復旧の見通し立たず"
-    },
-    {
-      "time": "06:58",
-      "title": "台風26号発生 26日には沖縄の南へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596321?source=rss",
-      "publishedAt": "2026-09-23T21:58:17.000Z",
-      "xQuery": "台風26号発生 26日には沖縄の南へ"
-    },
-    {
-      "time": "06:22",
-      "title": "ANA機脱出 重大インシデント認定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596318?source=rss",
-      "publishedAt": "2026-09-23T21:22:06.000Z",
-      "xQuery": "ANA機脱出 重大インシデント認定"
     }
   ]
 };
