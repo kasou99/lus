@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T03:22:28.334Z",
+  "updatedAt": "2026-09-23T03:44:05.053Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,18 +38,18 @@
         "publishedAt": "2026-09-22T04:13:46.000Z"
       },
       {
+        "time": "12:32",
+        "title": "5連休最終日 Uターンで交通混雑",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596238?source=rss",
+        "publishedAt": "2026-09-23T03:32:07.000Z"
+      },
+      {
         "time": "08:20",
         "title": "とび職に逆風 倒産過去最多ペース",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596209?source=rss",
         "publishedAt": "2026-09-22T23:20:05.000Z"
-      },
-      {
-        "time": "11:07",
-        "title": "赤潮で魚153万匹死ぬ 被害37億円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596115?source=rss",
-        "publishedAt": "2026-09-22T02:07:13.000Z"
       },
       {
         "time": "18:07",
@@ -105,18 +105,18 @@
     ],
     "economyHeadlines": [
       {
+        "time": "12:32",
+        "title": "5連休最終日 Uターンで交通混雑",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596238?source=rss",
+        "publishedAt": "2026-09-23T03:32:07.000Z"
+      },
+      {
         "time": "08:20",
         "title": "とび職に逆風 倒産過去最多ペース",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596209?source=rss",
         "publishedAt": "2026-09-22T23:20:05.000Z"
-      },
-      {
-        "time": "11:07",
-        "title": "赤潮で魚153万匹死ぬ 被害37億円",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596115?source=rss",
-        "publishedAt": "2026-09-22T02:07:13.000Z"
       },
       {
         "time": "18:07",

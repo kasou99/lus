@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T03:22:29.190Z",
+  "updatedAt": "2026-09-23T03:44:05.670Z",
   "items": [
     {
       "time": "10:38",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "とび職に逆風 倒産過去最多ペース"
     },
     {
-      "time": "11:34",
-      "title": "光学迷彩を開発 SF漫画きっかけ",
+      "time": "08:23",
+      "title": "波紋 大食い動画の収益停止相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596231?source=rss",
-      "publishedAt": "2026-09-23T02:34:51.000Z",
-      "xQuery": "光学迷彩を開発 SF漫画きっかけ"
+      "url": "https://news.yahoo.co.jp/pickup/6596210?source=rss",
+      "publishedAt": "2026-09-22T23:23:24.000Z",
+      "xQuery": "波紋 大食い動画の収益停止相次ぐ"
     }
   ]
 };
