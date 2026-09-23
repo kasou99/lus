@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T02:45:30.461Z",
+  "updatedAt": "2026-09-23T03:22:28.334Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,16 +11,9 @@
       },
       {
         "time": "05:00",
-        "title": "介護製品・サービス差別化 AI・先端技術活用進む",
+        "title": "多様性を育む／キヤノン 女性活躍・男性育休 着々と",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiYmdxNFZ1dUdDYmdpNE1CczhaSGVDVU16b3dJNVBsYkNsQll6UUxDeldQMkN0S0trV1JJbEFkbkVOclNjRzNOWHBqNG80el9aT09GaHk1d2I?oc=5",
-        "publishedAt": "2026-09-22T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "企業庁、消費減税対応を補助 スマートレジ導入など 事前着手制度適用",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4bmVpNjZMV2xFWnU1ZmY0dFZ5SWprbVFnTDdWSGdpdGJPZEZobXdBak9ZYTFROGlPSnZHUC0yMlhqVlFfZlhzU1ZtTkdkVHpuTGJuN19KcWZDNEtDSnpHQjZPUVZiWHBLMWF5V1hRbE44V0lidmFqeWZNQQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PT0FqcjFhZDdRd0p5TzVpYWF3blY1UHM3U3NjYWhPQmVDN2ZoV0lOeVFCWlFZYU1IUHhyNnNCZTl0dVp6RzlfRWZMajByNDhEVWRpenR1MXU?oc=5",
         "publishedAt": "2026-09-22T20:00:00.000Z"
       },
       {
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596115?source=rss",
         "publishedAt": "2026-09-22T02:07:13.000Z"
+      },
+      {
+        "time": "18:07",
+        "title": "東南アジア食品市場 日本の勝機は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596162?source=rss",
+        "publishedAt": "2026-09-22T09:07:39.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,18 +82,18 @@
         "publishedAt": "2026-09-22T05:44:18.000Z"
       },
       {
+        "time": "12:13",
+        "title": "イスラエル 動画で国連各国やゆ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596236?source=rss",
+        "publishedAt": "2026-09-23T03:13:36.000Z"
+      },
+      {
         "time": "14:02",
         "title": "リトアニア 露が攻撃なら反撃する",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596133?source=rss",
         "publishedAt": "2026-09-22T05:02:12.000Z"
-      },
-      {
-        "time": "10:13",
-        "title": "露攻撃 ウ首都でマック品切れ続出",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596111?source=rss",
-        "publishedAt": "2026-09-22T01:13:24.000Z"
       },
       {
         "time": "22:33",

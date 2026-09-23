@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T02:45:31.155Z",
+  "updatedAt": "2026-09-23T03:22:29.190Z",
   "items": [
     {
-      "time": "09:43",
-      "title": "台風25号の死者9人に 4人行方不明",
+      "time": "10:38",
+      "title": "関東は24日朝まで雨 土砂災害注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596221?source=rss",
-      "publishedAt": "2026-09-23T00:43:06.000Z",
-      "xQuery": "台風25号の死者9人に 4人行方不明"
+      "url": "https://news.yahoo.co.jp/pickup/6596227?source=rss",
+      "publishedAt": "2026-09-23T01:38:39.000Z",
+      "xQuery": "関東は24日朝まで雨 土砂災害注意"
     },
     {
       "time": "07:47",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 質問したCNN記者を威圧"
     },
     {
+      "time": "07:30",
+      "title": "AIは「SI」に改称 米大統領宣言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596201?source=rss",
+      "publishedAt": "2026-09-22T22:30:01.000Z",
+      "xQuery": "AIは「SI」に改称 米大統領宣言"
+    },
+    {
       "time": "08:20",
       "title": "とび職に逆風 倒産過去最多ペース",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "とび職に逆風 倒産過去最多ペース"
     },
     {
-      "time": "09:05",
-      "title": "クジラが千葉漂着 爆発の危険性も",
+      "time": "11:34",
+      "title": "光学迷彩を開発 SF漫画きっかけ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596217?source=rss",
-      "publishedAt": "2026-09-23T00:05:33.000Z",
-      "xQuery": "クジラが千葉漂着 爆発の危険性も"
-    },
-    {
-      "time": "10:43",
-      "title": "進化系おにぎり専門店 売れる訳",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596228?source=rss",
-      "publishedAt": "2026-09-23T01:43:47.000Z",
-      "xQuery": "進化系おにぎり専門店 売れる訳"
+      "url": "https://news.yahoo.co.jp/pickup/6596231?source=rss",
+      "publishedAt": "2026-09-23T02:34:51.000Z",
+      "xQuery": "光学迷彩を開発 SF漫画きっかけ"
     }
   ]
 };
