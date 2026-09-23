@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T11:16:45.255Z",
+  "updatedAt": "2026-09-23T11:38:36.873Z",
   "items": [
     {
       "time": "19:19",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "収賄の疑い JR貨物社員を逮捕"
     },
     {
-      "time": "17:52",
-      "title": "JCOMで障害 復旧の見通し立たず",
+      "time": "20:08",
+      "title": "社員寮や社宅が増加 企業の期待は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596275?source=rss",
-      "publishedAt": "2026-09-23T08:52:47.000Z",
-      "xQuery": "JCOMで障害 復旧の見通し立たず"
+      "url": "https://news.yahoo.co.jp/pickup/6596288?source=rss",
+      "publishedAt": "2026-09-23T11:08:17.000Z",
+      "xQuery": "社員寮や社宅が増加 企業の期待は"
     }
   ]
 };
