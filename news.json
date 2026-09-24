@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T13:17:11.052Z",
+  "updatedAt": "2026-09-24T13:41:20.051Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -39,6 +39,13 @@
       },
       {
         "time": "10:48",
+        "title": "【台湾情報】台湾半導体産業、2026年生産額は前年比40.9%増の9兆台湾元超えの予測＜ワイズリサーチ・最新レポート＞",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83LWxVUUJRTHZhSHFQN1BmM3Axa1N3ZTJLOE9LbUdJU1hNeGVtWERMSzBuWHlaUmhkMlJyNlIteXlIcXVMaXBnOC0xOXBrcEJraGRKR0JsenllZjZKQ3FPbGFlcEMzVFd1N09uOFZuSG5kdw?oc=5",
+        "publishedAt": "2026-09-24T01:48:00.000Z"
+      },
+      {
+        "time": "10:48",
         "title": "日本通運、インターフェックス大阪2026に共同出展…医薬品物流ソリューション紹介へ",
         "source": "au Webポータル",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tQVJmRkMzUWJXbWJtOWFyMjExbUFhcDRwYUdMM20xZm42U3ZveElDcFFWYkRDNUt1emU4RDNiM29ORV9GdE1mUnlPYkhvSmRPZzNyUGlRTU53Mk9ZakVzWVdIWk9PbUR5Zm4yLUl3?oc=5",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RVWF1aDFRbTRRamtlMi1EVklXN1FtQUdtXzhOXzc1N3VURnB2YzY3TnFmcXdyOWs0bUVrUjFqQTQxLVNnTlRVcEZQeUpMWVpoSXFBbU5aSUlraVZvRHczQm13WnZIRVc3?oc=5",
         "publishedAt": "2026-09-24T00:03:19.000Z"
-      },
-      {
-        "time": "17:04",
-        "title": "中小事業者のレジ改修補助へ 政府",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596379?source=rss",
-        "publishedAt": "2026-09-24T08:04:43.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       }

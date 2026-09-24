@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T13:17:12.513Z",
+  "updatedAt": "2026-09-24T13:41:20.624Z",
   "items": [
     {
       "time": "18:40",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "週末は関東各地で雨の予報 注意"
     },
     {
-      "time": "18:52",
-      "title": "台風25号 死者11人行方不明3人に",
+      "time": "20:01",
+      "title": "取材許可巡る米政権措置 差し止め",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596396?source=rss",
-      "publishedAt": "2026-09-24T09:52:18.000Z",
-      "xQuery": "台風25号 死者11人行方不明3人に"
+      "url": "https://news.yahoo.co.jp/pickup/6596403?source=rss",
+      "publishedAt": "2026-09-24T11:01:05.000Z",
+      "xQuery": "取材許可巡る米政権措置 差し止め"
     },
     {
       "time": "21:42",
