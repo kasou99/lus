@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T01:52:09.283Z",
+  "updatedAt": "2026-09-24T02:25:25.443Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "四季報オンライン",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iVGhGN0RiaDNaR3RqZ0hyY0xPM2xJQnVRam0zSHFPajA2alRYN0VETTVHYV93XzFPcDRhV19SUEpPMlk4RHpkZ0hGUGZBXzQtLTFQNE9nVQ?oc=5",
         "publishedAt": "2026-09-23T09:30:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "東京バージョンアップ（37）東京を支える産業集積",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43NldlZWs0eVNXNW9rMUVEYnBiSlpuRkpFR0lwcmlNeWtSZ0U4UmVlOGs1X0R3OXluanZyYkVsQnFvdGRpOEI0RTRnS1N5M2dCejlPNjF3aGE?oc=5",
+        "publishedAt": "2026-09-23T20:00:00.000Z"
       },
       {
         "time": "20:09",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596318?source=rss",
         "publishedAt": "2026-09-23T21:22:06.000Z"
-      },
-      {
-        "time": "09:24",
-        "title": "ANA機脱出 乗客「ガタガタ音」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596330?source=rss",
-        "publishedAt": "2026-09-24T00:24:33.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-23T21:30:17.000Z"
       },
       {
+        "time": "11:11",
+        "title": "ネイリスト殺害 男に拘禁21年求刑",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596340?source=rss",
+        "publishedAt": "2026-09-24T02:11:51.000Z"
+      },
+      {
         "time": "08:05",
         "title": "会社役員刺され重体 従業員ら逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596326?source=rss",
         "publishedAt": "2026-09-23T23:05:02.000Z"
-      },
-      {
-        "time": "20:55",
-        "title": "不明の6歳か 遺体は離島で発見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596296?source=rss",
-        "publishedAt": "2026-09-23T11:55:12.000Z"
       }
     ],
     "subsidyHeadlines": [
