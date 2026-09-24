@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T11:16:32.976Z",
+  "updatedAt": "2026-09-24T11:39:04.286Z",
   "items": [
     {
       "time": "17:04",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中小事業者のレジ改修補助へ 政府"
     },
     {
-      "time": "18:15",
-      "title": "防災庁 もし熊本地震前にあったら",
+      "time": "18:52",
+      "title": "台風25号 死者11人行方不明3人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596373?source=rss",
-      "publishedAt": "2026-09-24T09:15:18.000Z",
-      "xQuery": "防災庁 もし熊本地震前にあったら"
+      "url": "https://news.yahoo.co.jp/pickup/6596396?source=rss",
+      "publishedAt": "2026-09-24T09:52:18.000Z",
+      "xQuery": "台風25号 死者11人行方不明3人に"
     },
     {
       "time": "18:00",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "印旛沼近く ウナギ5万匹流される"
     },
     {
-      "time": "14:49",
-      "title": "ジャングリア親会社 173億円赤字",
+      "time": "20:29",
+      "title": "米#MeToo巡る性犯罪 禁錮15年",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596367?source=rss",
-      "publishedAt": "2026-09-24T05:49:43.000Z",
-      "xQuery": "ジャングリア親会社 173億円赤字"
+      "url": "https://news.yahoo.co.jp/pickup/6596406?source=rss",
+      "publishedAt": "2026-09-24T11:29:43.000Z",
+      "xQuery": "米#MeToo巡る性犯罪 禁錮15年"
     }
   ]
 };
