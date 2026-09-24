@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T10:40:37.711Z",
+  "updatedAt": "2026-09-24T11:16:32.226Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "10:48",
         "title": "日本通運、インターフェックス大阪2026に共同出展…医薬品物流ソリューション紹介へ",
-        "source": "au Webポータル",
+        "source": "article.auone.jp",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tQVJmRkMzUWJXbWJtOWFyMjExbUFhcDRwYUdMM20xZm42U3ZveElDcFFWYkRDNUt1emU4RDNiM29ORV9GdE1mUnlPYkhvSmRPZzNyUGlRTU53Mk9ZakVzWVdIWk9PbUR5Zm4yLUl3?oc=5",
         "publishedAt": "2026-09-24T01:48:00.000Z"
       },
@@ -36,13 +36,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RVWF1aDFRbTRRamtlMi1EVklXN1FtQUdtXzhOXzc1N3VURnB2YzY3TnFmcXdyOWs0bUVrUjFqQTQxLVNnTlRVcEZQeUpMWVpoSXFBbU5aSUlraVZvRHczQm13WnZIRVc3?oc=5",
         "publishedAt": "2026-09-24T00:03:19.000Z"
-      },
-      {
-        "time": "20:09",
-        "title": "申し渡されたテキストは日本語に翻訳します。CNC自動旋盤市場の包括的調査：規模、シ",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UOV83cHBGUEhwNlJpOHU2UVBGczMtZFF5dGlPWVFfdzVITUs1Y3lCLU9MSndsVFVfUjBEU0c1c0FzeFlxUk5BeGp3?oc=5",
-        "publishedAt": "2026-09-23T11:09:39.000Z"
       },
       {
         "time": "17:04",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596356?source=rss",
         "publishedAt": "2026-09-24T04:20:49.000Z"
+      },
+      {
+        "time": "12:58",
+        "title": "千葉県内 約1万7000軒で停電続く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596355?source=rss",
+        "publishedAt": "2026-09-24T03:58:36.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596332?source=rss",
         "publishedAt": "2026-09-24T00:36:01.000Z"
+      },
+      {
+        "time": "20:01",
+        "title": "取材許可巡る米政権措置 差し止め",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596403?source=rss",
+        "publishedAt": "2026-09-24T11:01:05.000Z"
       },
       {
         "time": "06:38",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596301?source=rss",
         "publishedAt": "2026-09-23T12:27:12.000Z"
-      },
-      {
-        "time": "08:27",
-        "title": "イラン首都でUFO飛行? SNS拡散",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596328?source=rss",
-        "publishedAt": "2026-09-23T23:27:07.000Z"
       }
     ],
     "economyHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-09-23T21:22:06.000Z"
       },
       {
+        "time": "11:48",
+        "title": "東京都の中古マンション 価格下落",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596346?source=rss",
+        "publishedAt": "2026-09-24T02:48:51.000Z"
+      },
+      {
         "time": "14:49",
         "title": "ジャングリア親会社 173億円赤字",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596367?source=rss",
         "publishedAt": "2026-09-24T05:49:43.000Z"
-      },
-      {
-        "time": "17:22",
-        "title": "「こどもNISA」競争に熱 証券各社",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596381?source=rss",
-        "publishedAt": "2026-09-24T08:22:45.000Z"
       }
     ],
     "localHeadlines": [

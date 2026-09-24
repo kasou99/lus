@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T10:40:38.723Z",
+  "updatedAt": "2026-09-24T11:16:32.976Z",
   "items": [
     {
-      "time": "18:36",
-      "title": "新党・民主改革の会 18人が入党へ",
+      "time": "17:04",
+      "title": "中小事業者のレジ改修補助へ 政府",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596393?source=rss",
-      "publishedAt": "2026-09-24T09:36:33.000Z",
-      "xQuery": "新党・民主改革の会 18人が入党へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596379?source=rss",
+      "publishedAt": "2026-09-24T08:04:43.000Z",
+      "xQuery": "中小事業者のレジ改修補助へ 政府"
     },
     {
       "time": "18:15",
