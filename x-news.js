@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T05:18:16.970Z",
+  "updatedAt": "2026-09-24T05:41:05.040Z",
   "items": [
     {
       "time": "12:30",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596352?source=rss",
       "publishedAt": "2026-09-24T03:30:05.000Z",
       "xQuery": "印旛沼周辺 水が引かず住民不安"
-    },
-    {
-      "time": "12:58",
-      "title": "千葉県内 約1万7000軒で停電続く",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596355?source=rss",
-      "publishedAt": "2026-09-24T03:58:36.000Z",
-      "xQuery": "千葉県内 約1万7000軒で停電続く"
     },
     {
       "time": "13:20",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596353?source=rss",
       "publishedAt": "2026-09-24T03:34:08.000Z",
       "xQuery": "37年前不明の子に失踪宣告 母手紙"
+    },
+    {
+      "time": "14:16",
+      "title": "中学生10人に追われ観念 男を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596363?source=rss",
+      "publishedAt": "2026-09-24T05:16:59.000Z",
+      "xQuery": "中学生10人に追われ観念 男を逮捕"
     },
     {
       "time": "11:48",
