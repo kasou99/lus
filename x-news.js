@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T09:41:52.813Z",
+  "updatedAt": "2026-09-24T10:18:36.026Z",
   "items": [
     {
       "time": "18:36",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "防災庁 もし熊本地震前にあったら"
     },
     {
-      "time": "17:22",
-      "title": "「こどもNISA」競争に熱 証券各社",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596381?source=rss",
-      "publishedAt": "2026-09-24T08:22:45.000Z",
-      "xQuery": "「こどもNISA」競争に熱 証券各社"
-    },
-    {
       "time": "18:04",
       "title": "印旛沼近く ウナギ5万匹流される",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596386?source=rss",
       "publishedAt": "2026-09-24T08:50:42.000Z",
       "xQuery": "第二神明で10台絡む事故 1人重傷"
+    },
+    {
+      "time": "14:49",
+      "title": "ジャングリア親会社 173億円赤字",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596367?source=rss",
+      "publishedAt": "2026-09-24T05:49:43.000Z",
+      "xQuery": "ジャングリア親会社 173億円赤字"
     }
   ]
 };
