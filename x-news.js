@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T02:25:26.180Z",
+  "updatedAt": "2026-09-24T02:45:41.025Z",
   "items": [
+    {
+      "time": "11:39",
+      "title": "長期金利一時3.055% 米債券安で",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596347?source=rss",
+      "publishedAt": "2026-09-24T02:39:24.000Z",
+      "xQuery": "長期金利一時3.055% 米債券安で"
+    },
     {
       "time": "09:36",
       "title": "米中の貿易休戦 2カ月延長で合意",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米中の貿易休戦 2カ月延長で合意"
     },
     {
-      "time": "07:36",
-      "title": "台風影響 内房線の復旧に3カ月超",
+      "time": "09:32",
+      "title": "印旛沼「いつ決壊したのか」不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596323?source=rss",
-      "publishedAt": "2026-09-23T22:36:22.000Z",
-      "xQuery": "台風影響 内房線の復旧に3カ月超"
+      "url": "https://news.yahoo.co.jp/pickup/6596333?source=rss",
+      "publishedAt": "2026-09-24T00:32:52.000Z",
+      "xQuery": "印旛沼「いつ決壊したのか」不明"
     },
     {
       "time": "09:24",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596330?source=rss",
       "publishedAt": "2026-09-24T00:24:33.000Z",
       "xQuery": "ANA機脱出 乗客「ガタガタ音」"
-    },
-    {
-      "time": "11:11",
-      "title": "ネイリスト殺害 男に拘禁21年求刑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596340?source=rss",
-      "publishedAt": "2026-09-24T02:11:51.000Z",
-      "xQuery": "ネイリスト殺害 男に拘禁21年求刑"
     },
     {
       "time": "10:59",

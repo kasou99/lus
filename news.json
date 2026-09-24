@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T02:25:25.443Z",
+  "updatedAt": "2026-09-24T02:45:40.463Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-09-23T03:30:00.000Z"
       },
       {
+        "time": "11:39",
+        "title": "長期金利一時3.055% 米債券安で",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596347?source=rss",
+        "publishedAt": "2026-09-24T02:39:24.000Z"
+      },
+      {
         "time": "09:27",
         "title": "FRB 中間選挙直前に追加利上げか",
         "source": "Yahoo!ニュース",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596323?source=rss",
         "publishedAt": "2026-09-23T22:36:22.000Z"
-      },
-      {
-        "time": "06:22",
-        "title": "ANA機脱出 重大インシデント認定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596318?source=rss",
-        "publishedAt": "2026-09-23T21:22:06.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "11:39",
+        "title": "長期金利一時3.055% 米債券安で",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596347?source=rss",
+        "publishedAt": "2026-09-24T02:39:24.000Z"
+      },
+      {
         "time": "09:27",
         "title": "FRB 中間選挙直前に追加利上げか",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596308?source=rss",
         "publishedAt": "2026-09-23T13:52:32.000Z"
-      },
-      {
-        "time": "20:08",
-        "title": "社員寮や社宅が増加 企業の期待は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596288?source=rss",
-        "publishedAt": "2026-09-23T11:08:17.000Z"
       }
     ],
     "localHeadlines": [
