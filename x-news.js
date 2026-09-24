@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T04:21:43.735Z",
+  "updatedAt": "2026-09-24T04:43:07.977Z",
   "items": [
     {
       "time": "12:30",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "千葉県内 約1万7000軒で停電続く"
     },
     {
-      "time": "12:02",
-      "title": "ウ 北朝鮮兵2人を韓国に引き渡し",
+      "time": "13:20",
+      "title": "円安進行 レートチェック効果相殺",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596348?source=rss",
-      "publishedAt": "2026-09-24T03:02:46.000Z",
-      "xQuery": "ウ 北朝鮮兵2人を韓国に引き渡し"
+      "url": "https://news.yahoo.co.jp/pickup/6596356?source=rss",
+      "publishedAt": "2026-09-24T04:20:49.000Z",
+      "xQuery": "円安進行 レートチェック効果相殺"
     },
     {
       "time": "11:48",
