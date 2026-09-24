@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-23T23:38:18.204Z",
+  "updatedAt": "2026-09-24T00:48:16.189Z",
   "items": [
+    {
+      "time": "08:44",
+      "title": "台風25号被害 死者10人不明4人に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596329?source=rss",
+      "publishedAt": "2026-09-23T23:44:01.000Z",
+      "xQuery": "台風25号被害 死者10人不明4人に"
+    },
     {
       "time": "07:26",
       "title": "習氏が米到着 トランプ氏が出迎え",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "習氏が米到着 トランプ氏が出迎え"
     },
     {
-      "time": "06:38",
-      "title": "露側 プーチン氏のG20出席検討",
+      "time": "09:32",
+      "title": "印旛沼「いつ決壊したのか」不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596320?source=rss",
-      "publishedAt": "2026-09-23T21:38:40.000Z",
-      "xQuery": "露側 プーチン氏のG20出席検討"
-    },
-    {
-      "time": "06:58",
-      "title": "台風26号発生 26日には沖縄の南へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596321?source=rss",
-      "publishedAt": "2026-09-23T21:58:17.000Z",
-      "xQuery": "台風26号発生 26日には沖縄の南へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596333?source=rss",
+      "publishedAt": "2026-09-24T00:32:52.000Z",
+      "xQuery": "印旛沼「いつ決壊したのか」不明"
     },
     {
       "time": "08:05",
