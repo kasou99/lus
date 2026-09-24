@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T04:43:07.977Z",
+  "updatedAt": "2026-09-24T05:18:16.970Z",
   "items": [
     {
       "time": "12:30",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "円安進行 レートチェック効果相殺"
     },
     {
+      "time": "12:34",
+      "title": "37年前不明の子に失踪宣告 母手紙",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596353?source=rss",
+      "publishedAt": "2026-09-24T03:34:08.000Z",
+      "xQuery": "37年前不明の子に失踪宣告 母手紙"
+    },
+    {
       "time": "11:48",
       "title": "東京都の中古マンション 価格下落",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596346?source=rss",
       "publishedAt": "2026-09-24T02:48:51.000Z",
       "xQuery": "東京都の中古マンション 価格下落"
-    },
-    {
-      "time": "12:36",
-      "title": "漂着の巨大クジラ 撤去めど立たず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596354?source=rss",
-      "publishedAt": "2026-09-24T03:36:30.000Z",
-      "xQuery": "漂着の巨大クジラ 撤去めど立たず"
     }
   ]
 };
