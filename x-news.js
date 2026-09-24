@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T07:42:47.683Z",
+  "updatedAt": "2026-09-24T08:26:03.232Z",
   "items": [
     {
-      "time": "14:14",
-      "title": "トランプ氏が習氏を出迎え 思惑は",
+      "time": "15:42",
+      "title": "台風26号 週明けに沖縄接近の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596362?source=rss",
-      "publishedAt": "2026-09-24T05:14:19.000Z",
-      "xQuery": "トランプ氏が習氏を出迎え 思惑は"
+      "url": "https://news.yahoo.co.jp/pickup/6596371?source=rss",
+      "publishedAt": "2026-09-24T06:42:44.000Z",
+      "xQuery": "台風26号 週明けに沖縄接近の恐れ"
     },
     {
       "time": "16:01",
