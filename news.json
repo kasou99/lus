@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T03:43:53.215Z",
+  "updatedAt": "2026-09-24T04:21:42.964Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-09-24T00:03:19.000Z"
       },
       {
+        "time": "12:58",
+        "title": "千葉県内 約1万7000軒で停電続く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596355?source=rss",
+        "publishedAt": "2026-09-24T03:58:36.000Z"
+      },
+      {
         "time": "06:22",
         "title": "ANA機脱出 重大インシデント認定",
         "source": "Yahoo!ニュース",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596347?source=rss",
         "publishedAt": "2026-09-24T02:39:24.000Z"
-      },
-      {
-        "time": "11:48",
-        "title": "東京都の中古マンション 価格下落",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596346?source=rss",
-        "publishedAt": "2026-09-24T02:48:51.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "12:58",
+        "title": "千葉県内 約1万7000軒で停電続く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596355?source=rss",
+        "publishedAt": "2026-09-24T03:58:36.000Z"
+      },
+      {
         "time": "06:22",
         "title": "ANA機脱出 重大インシデント認定",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596331?source=rss",
         "publishedAt": "2026-09-24T00:27:07.000Z"
-      },
-      {
-        "time": "07:36",
-        "title": "台風影響 内房線の復旧に3カ月超",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596323?source=rss",
-        "publishedAt": "2026-09-23T22:36:22.000Z"
       }
     ],
     "localHeadlines": [

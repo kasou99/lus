@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T03:43:54.006Z",
+  "updatedAt": "2026-09-24T04:21:43.735Z",
   "items": [
     {
       "time": "12:30",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "印旛沼周辺 水が引かず住民不安"
     },
     {
-      "time": "09:27",
-      "title": "FRB 中間選挙直前に追加利上げか",
+      "time": "12:58",
+      "title": "千葉県内 約1万7000軒で停電続く",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596331?source=rss",
-      "publishedAt": "2026-09-24T00:27:07.000Z",
-      "xQuery": "FRB 中間選挙直前に追加利上げか"
+      "url": "https://news.yahoo.co.jp/pickup/6596355?source=rss",
+      "publishedAt": "2026-09-24T03:58:36.000Z",
+      "xQuery": "千葉県内 約1万7000軒で停電続く"
     },
     {
       "time": "12:02",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東京都の中古マンション 価格下落"
     },
     {
-      "time": "10:59",
-      "title": "ススキ絶景に長い車列 住民悲鳴",
+      "time": "12:36",
+      "title": "漂着の巨大クジラ 撤去めど立たず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596339?source=rss",
-      "publishedAt": "2026-09-24T01:59:53.000Z",
-      "xQuery": "ススキ絶景に長い車列 住民悲鳴"
+      "url": "https://news.yahoo.co.jp/pickup/6596354?source=rss",
+      "publishedAt": "2026-09-24T03:36:30.000Z",
+      "xQuery": "漂着の巨大クジラ 撤去めど立たず"
     }
   ]
 };
