@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T09:20:29.570Z",
+  "updatedAt": "2026-09-24T09:41:51.921Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,25 +10,18 @@
         "publishedAt": "2026-09-24T02:10:02.000Z"
       },
       {
-        "time": "05:00",
-        "title": "東京バージョンアップ（37）東京を支える産業集積",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43NldlZWs0eVNXNW9rMUVEYnBiSlpuRkpFR0lwcmlNeWtSZ0U4UmVlOGs1X0R3OXluanZyYkVsQnFvdGRpOEI0RTRnS1N5M2dCejlPNjF3aGE?oc=5",
-        "publishedAt": "2026-09-23T20:00:00.000Z"
-      },
-      {
-        "time": "18:30",
-        "title": "受注は14カ月連続増！AI･半導体で沸く工作機械関連5銘柄",
-        "source": "四季報オンライン",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iVGhGN0RiaDNaR3RqZ0hyY0xPM2xJQnVRam0zSHFPajA2alRYN0VETTVHYV93XzFPcDRhV19SUEpPMlk4RHpkZ0hGUGZBXzQtLTFQNE9nVQ?oc=5",
-        "publishedAt": "2026-09-23T09:30:00.000Z"
-      },
-      {
         "time": "13:28",
         "title": "日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング",
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYYXN0WVlObFpjVU1kSjJMaEZZRGNNQnZBTWZLZEpWZ1dUNXBrZGdGNk96ZmdlNjJYbS1YRVhhNEpETmg5WEZvX0VrVUlpUjA?oc=5",
         "publishedAt": "2026-09-24T04:28:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "東京バージョンアップ（37）東京を支える産業集積",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43NldlZWs0eVNXNW9rMUVEYnBiSlpuRkpFR0lwcmlNeWtSZ0U4UmVlOGs1X0R3OXluanZyYkVsQnFvdGRpOEI0RTRnS1N5M2dCejlPNjF3aGE?oc=5",
+        "publishedAt": "2026-09-23T20:00:00.000Z"
       },
       {
         "time": "10:48",
@@ -40,7 +33,7 @@
       {
         "time": "09:03",
         "title": "垂直高所作業車（VPL）業界動向：2026年の市場規模は2335百万米ドル見込み",
-        "source": "ニコニコニュース",
+        "source": "news.nicovideo.jp",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RVWF1aDFRbTRRamtlMi1EVklXN1FtQUdtXzhOXzc1N3VURnB2YzY3TnFmcXdyOWs0bUVrUjFqQTQxLVNnTlRVcEZQeUpMWVpoSXFBbU5aSUlraVZvRHczQm13WnZIRVc3?oc=5",
         "publishedAt": "2026-09-24T00:03:19.000Z"
       },
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596379?source=rss",
         "publishedAt": "2026-09-24T08:04:43.000Z"
+      },
+      {
+        "time": "13:20",
+        "title": "円安進行 レートチェック効果相殺",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596356?source=rss",
+        "publishedAt": "2026-09-24T04:20:49.000Z"
       }
     ],
     "worldHeadlines": [

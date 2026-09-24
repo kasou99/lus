@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T09:20:30.481Z",
+  "updatedAt": "2026-09-24T09:41:52.813Z",
   "items": [
     {
-      "time": "15:42",
-      "title": "台風26号 週明けに沖縄接近の恐れ",
+      "time": "18:36",
+      "title": "新党・民主改革の会 18人が入党へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596371?source=rss",
-      "publishedAt": "2026-09-24T06:42:44.000Z",
-      "xQuery": "台風26号 週明けに沖縄接近の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6596393?source=rss",
+      "publishedAt": "2026-09-24T09:36:33.000Z",
+      "xQuery": "新党・民主改革の会 18人が入党へ"
+    },
+    {
+      "time": "18:15",
+      "title": "防災庁 もし熊本地震前にあったら",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596373?source=rss",
+      "publishedAt": "2026-09-24T09:15:18.000Z",
+      "xQuery": "防災庁 もし熊本地震前にあったら"
     },
     {
       "time": "17:22",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596389?source=rss",
       "publishedAt": "2026-09-24T09:04:35.000Z",
       "xQuery": "印旛沼近く ウナギ5万匹流される"
-    },
-    {
-      "time": "14:50",
-      "title": "鉄塔転落死 遺族が会社に要望書",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596366?source=rss",
-      "publishedAt": "2026-09-24T05:50:06.000Z",
-      "xQuery": "鉄塔転落死 遺族が会社に要望書"
     },
     {
       "time": "17:50",
