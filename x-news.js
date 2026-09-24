@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T22:37:14.722Z",
+  "updatedAt": "2026-09-24T23:15:35.234Z",
   "items": [
     {
       "time": "06:52",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "北海道で今季全国初 氷点下を観測"
     },
     {
-      "time": "06:07",
-      "title": "パンダ2頭近く米へ到着 習氏発表",
+      "time": "07:50",
+      "title": "返礼品の越前がに違法表示 福井",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596428?source=rss",
-      "publishedAt": "2026-09-24T21:07:05.000Z",
-      "xQuery": "パンダ2頭近く米へ到着 習氏発表"
+      "url": "https://news.yahoo.co.jp/pickup/6596438?source=rss",
+      "publishedAt": "2026-09-24T22:50:23.000Z",
+      "xQuery": "返礼品の越前がに違法表示 福井"
     },
     {
-      "time": "21:42",
-      "title": "崖崩落で死亡 夫が過去に対応要求",
+      "time": "07:33",
+      "title": "米住宅ローン金利7%超 30年固定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596413?source=rss",
-      "publishedAt": "2026-09-24T12:42:39.000Z",
-      "xQuery": "崖崩落で死亡 夫が過去に対応要求"
+      "url": "https://news.yahoo.co.jp/pickup/6596435?source=rss",
+      "publishedAt": "2026-09-24T22:33:21.000Z",
+      "xQuery": "米住宅ローン金利7%超 30年固定"
     }
   ]
 };

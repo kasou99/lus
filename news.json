@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T22:37:13.965Z",
+  "updatedAt": "2026-09-24T23:15:34.477Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -33,7 +33,7 @@
       {
         "time": "13:28",
         "title": "日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング",
-        "source": "Newscast.jp",
+        "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYYXN0WVlObFpjVU1kSjJMaEZZRGNNQnZBTWZLZEpWZ1dUNXBrZGdGNk96ZmdlNjJYbS1YRVhhNEpETmg5WEZvX0VrVUlpUjA?oc=5",
         "publishedAt": "2026-09-24T04:28:00.000Z"
       },
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-24T10:45:22.000Z"
       },
       {
-        "time": "00:00",
-        "title": "テスラの野望、日本揺さぶる 「レベル3」工場という起死回生",
-        "source": "日経ビジネス電子版",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vZHBFVlBnTDV3YUpldldzc2U1VTA2NlB6US11V0xwV3RZeDFNc1Jlb3ZtQnJsOVRPT25mZk9oRF9tQVFwZm1SVXo1MWx4bW5uTlFhOEtQS1BWR3BJNUtlZ19vTTI?oc=5",
-        "publishedAt": "2026-09-24T15:00:00.000Z"
-      },
-      {
         "time": "20:37",
         "title": "日本CNC切断機市場は2026年から2033年にかけて年間平均成長率（CAGR）4.80",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PajNsYUJSNVQzdnVmLUVYenREdF9ZYUVSY0pmRWF6dFNMbXdzSG5mbG9WQU14T19CNGVPdEJmdmU2NjJHWFNlTzJR?oc=5",
         "publishedAt": "2026-09-24T11:37:26.000Z"
+      },
+      {
+        "time": "09:03",
+        "title": "垂直高所作業車（VPL）業界動向：2026年の市場規模は2335百万米ドル見込み",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RVWF1aDFRbTRRamtlMi1EVklXN1FtQUdtXzhOXzc1N3VURnB2YzY3TnFmcXdyOWs0bUVrUjFqQTQxLVNnTlRVcEZQeUpMWVpoSXFBbU5aSUlraVZvRHczQm13WnZIRVc3?oc=5",
+        "publishedAt": "2026-09-24T00:03:19.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-09-24T14:41:20.000Z"
       },
       {
-        "time": "17:04",
-        "title": "中小事業者のレジ改修補助へ 政府",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596379?source=rss",
-        "publishedAt": "2026-09-24T08:04:43.000Z"
-      },
-      {
         "time": "13:20",
         "title": "円安進行 レートチェック効果相殺",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596367?source=rss",
         "publishedAt": "2026-09-24T05:49:43.000Z"
+      },
+      {
+        "time": "08:09",
+        "title": "意図せず資金移動 楽天証券不具合",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596439?source=rss",
+        "publishedAt": "2026-09-24T23:09:30.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-24T14:29:36.000Z"
       },
       {
+        "time": "07:50",
+        "title": "返礼品の越前がに違法表示 福井",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596438?source=rss",
+        "publishedAt": "2026-09-24T22:50:23.000Z"
+      },
+      {
         "time": "14:16",
         "title": "中学生10人に追われ観念 男を逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596363?source=rss",
         "publishedAt": "2026-09-24T05:16:59.000Z"
-      },
-      {
-        "time": "18:00",
-        "title": "匿名投稿で攻撃 林泰輔県議が釈明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596390?source=rss",
-        "publishedAt": "2026-09-24T09:00:21.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       }
