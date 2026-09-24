@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T21:36:38.735Z",
+  "updatedAt": "2026-09-24T22:16:36.616Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "14:14",
-        "title": "トランプ氏が習氏を出迎え 思惑は",
+        "time": "06:36",
+        "title": "習氏 米に台湾独立への反対求める",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596362?source=rss",
-        "publishedAt": "2026-09-24T05:14:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596431?source=rss",
+        "publishedAt": "2026-09-24T21:36:38.000Z"
       },
       {
         "time": "09:36",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-24T14:29:36.000Z"
       },
       {
-        "time": "08:05",
-        "title": "会社役員刺され重体 従業員ら逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596326?source=rss",
-        "publishedAt": "2026-09-23T23:05:02.000Z"
-      },
-      {
         "time": "14:16",
         "title": "中学生10人に追われ観念 男を逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596363?source=rss",
         "publishedAt": "2026-09-24T05:16:59.000Z"
+      },
+      {
+        "time": "18:00",
+        "title": "匿名投稿で攻撃 林泰輔県議が釈明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596390?source=rss",
+        "publishedAt": "2026-09-24T09:00:21.000Z"
       }
     ],
     "subsidyHeadlines": [

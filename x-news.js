@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T21:36:39.330Z",
+  "updatedAt": "2026-09-24T22:16:37.371Z",
   "items": [
+    {
+      "time": "06:52",
+      "title": "台風26号 強い勢力で沖縄に接近へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596432?source=rss",
+      "publishedAt": "2026-09-24T21:52:57.000Z",
+      "xQuery": "台風26号 強い勢力で沖縄に接近へ"
+    },
     {
       "time": "06:27",
       "title": "米イラン 段階的な戦闘終結⁠模索",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米イラン 段階的な戦闘終結⁠模索"
     },
     {
-      "time": "23:29",
-      "title": "飯塚事件 3回目の再審請求へ",
+      "time": "06:36",
+      "title": "習氏 米に台湾独立への反対求める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596425?source=rss",
-      "publishedAt": "2026-09-24T14:29:36.000Z",
-      "xQuery": "飯塚事件 3回目の再審請求へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596431?source=rss",
+      "publishedAt": "2026-09-24T21:36:38.000Z",
+      "xQuery": "習氏 米に台湾独立への反対求める"
     },
     {
       "time": "06:07",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596413?source=rss",
       "publishedAt": "2026-09-24T12:42:39.000Z",
       "xQuery": "崖崩落で死亡 夫が過去に対応要求"
-    },
-    {
-      "time": "23:41",
-      "title": "小林製薬 株式の非公開化を検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596426?source=rss",
-      "publishedAt": "2026-09-24T14:41:20.000Z",
-      "xQuery": "小林製薬 株式の非公開化を検討"
     }
   ]
 };
