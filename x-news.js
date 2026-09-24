@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T12:49:57.006Z",
+  "updatedAt": "2026-09-24T13:17:12.513Z",
   "items": [
     {
       "time": "18:40",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "養魚場浸水 金魚など10万匹全滅か"
     },
     {
-      "time": "20:50",
-      "title": "獣医師ミスで犬に障害 和解が成立",
+      "time": "21:52",
+      "title": "誤情報で民放批判 維新藤田氏謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596408?source=rss",
-      "publishedAt": "2026-09-24T11:50:51.000Z",
-      "xQuery": "獣医師ミスで犬に障害 和解が成立"
+      "url": "https://news.yahoo.co.jp/pickup/6596414?source=rss",
+      "publishedAt": "2026-09-24T12:52:49.000Z",
+      "xQuery": "誤情報で民放批判 維新藤田氏謝罪"
     }
   ]
 };
