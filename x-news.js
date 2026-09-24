@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T02:45:41.025Z",
+  "updatedAt": "2026-09-24T03:21:25.537Z",
   "items": [
     {
       "time": "11:39",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596347?source=rss",
       "publishedAt": "2026-09-24T02:39:24.000Z",
       "xQuery": "長期金利一時3.055% 米債券安で"
-    },
-    {
-      "time": "09:36",
-      "title": "米中の貿易休戦 2カ月延長で合意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596332?source=rss",
-      "publishedAt": "2026-09-24T00:36:01.000Z",
-      "xQuery": "米中の貿易休戦 2カ月延長で合意"
     },
     {
       "time": "09:32",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596330?source=rss",
       "publishedAt": "2026-09-24T00:24:33.000Z",
       "xQuery": "ANA機脱出 乗客「ガタガタ音」"
+    },
+    {
+      "time": "11:48",
+      "title": "東京都の中古マンション 価格下落",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596346?source=rss",
+      "publishedAt": "2026-09-24T02:48:51.000Z",
+      "xQuery": "東京都の中古マンション 価格下落"
     },
     {
       "time": "10:59",
