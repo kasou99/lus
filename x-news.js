@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T06:31:35.837Z",
+  "updatedAt": "2026-09-24T07:22:16.833Z",
   "items": [
     {
       "time": "14:14",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏が習氏を出迎え 思惑は"
     },
     {
-      "time": "13:20",
-      "title": "円安進行 レートチェック効果相殺",
+      "time": "16:01",
+      "title": "太陽光発電施設で発火 印旛沼付近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596356?source=rss",
-      "publishedAt": "2026-09-24T04:20:49.000Z",
-      "xQuery": "円安進行 レートチェック効果相殺"
+      "url": "https://news.yahoo.co.jp/pickup/6596372?source=rss",
+      "publishedAt": "2026-09-24T07:01:20.000Z",
+      "xQuery": "太陽光発電施設で発火 印旛沼付近"
+    },
+    {
+      "time": "14:50",
+      "title": "鉄塔転落死 遺族が会社に要望書",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596366?source=rss",
+      "publishedAt": "2026-09-24T05:50:06.000Z",
+      "xQuery": "鉄塔転落死 遺族が会社に要望書"
     },
     {
       "time": "14:16",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596367?source=rss",
       "publishedAt": "2026-09-24T05:49:43.000Z",
       "xQuery": "ジャングリア親会社 173億円赤字"
-    },
-    {
-      "time": "13:36",
-      "title": "イオンが送風機自主回収 発火恐れ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596359?source=rss",
-      "publishedAt": "2026-09-24T04:36:27.000Z",
-      "xQuery": "イオンが送風機自主回収 発火恐れ"
     }
   ]
 };
