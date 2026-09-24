@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T08:26:03.232Z",
+  "updatedAt": "2026-09-24T08:46:27.557Z",
   "items": [
     {
       "time": "15:42",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "鉄塔転落死 遺族が会社に要望書"
     },
     {
-      "time": "14:16",
-      "title": "中学生10人に追われ観念 男を逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596363?source=rss",
-      "publishedAt": "2026-09-24T05:16:59.000Z",
-      "xQuery": "中学生10人に追われ観念 男を逮捕"
-    },
-    {
       "time": "14:49",
       "title": "ジャングリア親会社 173億円赤字",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596367?source=rss",
       "publishedAt": "2026-09-24T05:49:43.000Z",
       "xQuery": "ジャングリア親会社 173億円赤字"
+    },
+    {
+      "time": "17:22",
+      "title": "「こどもNISA」競争に熱 証券各社",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596381?source=rss",
+      "publishedAt": "2026-09-24T08:22:45.000Z",
+      "xQuery": "「こどもNISA」競争に熱 証券各社"
     }
   ]
 };
