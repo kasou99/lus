@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T22:16:37.371Z",
+  "updatedAt": "2026-09-24T22:37:14.722Z",
   "items": [
     {
       "time": "06:52",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風26号 強い勢力で沖縄に接近へ"
     },
     {
-      "time": "06:27",
-      "title": "米イラン 段階的な戦闘終結⁠模索",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596430?source=rss",
-      "publishedAt": "2026-09-24T21:27:02.000Z",
-      "xQuery": "米イラン 段階的な戦闘終結⁠模索"
-    },
-    {
       "time": "06:36",
       "title": "習氏 米に台湾独立への反対求める",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596431?source=rss",
       "publishedAt": "2026-09-24T21:36:38.000Z",
       "xQuery": "習氏 米に台湾独立への反対求める"
+    },
+    {
+      "time": "07:11",
+      "title": "北海道で今季全国初 氷点下を観測",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596433?source=rss",
+      "publishedAt": "2026-09-24T22:11:47.000Z",
+      "xQuery": "北海道で今季全国初 氷点下を観測"
     },
     {
       "time": "06:07",
