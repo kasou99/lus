@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T05:41:04.399Z",
+  "updatedAt": "2026-09-24T06:31:35.015Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,16 +26,9 @@
       {
         "time": "05:00",
         "title": "東京バージョンアップ（37）東京を支える産業集積",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43NldlZWs0eVNXNW9rMUVEYnBiSlpuRkpFR0lwcmlNeWtSZ0U4UmVlOGs1X0R3OXluanZyYkVsQnFvdGRpOEI0RTRnS1N5M2dCejlPNjF3aGE?oc=5",
         "publishedAt": "2026-09-23T20:00:00.000Z"
-      },
-      {
-        "time": "09:03",
-        "title": "垂直高所作業車（VPL）業界動向：2026年の市場規模は2335百万米ドル見込み",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RVWF1aDFRbTRRamtlMi1EVklXN1FtQUdtXzhOXzc1N3VURnB2YzY3TnFmcXdyOWs0bUVrUjFqQTQxLVNnTlRVcEZQeUpMWVpoSXFBbU5aSUlraVZvRHczQm13WnZIRVc3?oc=5",
-        "publishedAt": "2026-09-24T00:03:19.000Z"
       },
       {
         "time": "20:09",
@@ -43,6 +36,13 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UOV83cHBGUEhwNlJpOHU2UVBGczMtZFF5dGlPWVFfdzVITUs1Y3lCLU9MSndsVFVfUjBEU0c1c0FzeFlxUk5BeGp3?oc=5",
         "publishedAt": "2026-09-23T11:09:39.000Z"
+      },
+      {
+        "time": "09:03",
+        "title": "垂直高所作業車（VPL）業界動向：2026年の市場規模は2335百万米ドル見込み",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RVWF1aDFRbTRRamtlMi1EVklXN1FtQUdtXzhOXzc1N3VURnB2YzY3TnFmcXdyOWs0bUVrUjFqQTQxLVNnTlRVcEZQeUpMWVpoSXFBbU5aSUlraVZvRHczQm13WnZIRVc3?oc=5",
+        "publishedAt": "2026-09-24T00:03:19.000Z"
       },
       {
         "time": "13:20",
@@ -163,11 +163,11 @@
         "publishedAt": "2026-09-24T03:30:05.000Z"
       },
       {
-        "time": "09:32",
-        "title": "印旛沼「いつ決壊したのか」不明",
+        "time": "14:50",
+        "title": "鉄塔転落死 遺族が会社に要望書",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596333?source=rss",
-        "publishedAt": "2026-09-24T00:32:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596366?source=rss",
+        "publishedAt": "2026-09-24T05:50:06.000Z"
       },
       {
         "time": "12:34",

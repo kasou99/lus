@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T05:41:05.040Z",
+  "updatedAt": "2026-09-24T06:31:35.837Z",
   "items": [
     {
-      "time": "12:30",
-      "title": "印旛沼周辺 水が引かず住民不安",
+      "time": "14:14",
+      "title": "トランプ氏が習氏を出迎え 思惑は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596352?source=rss",
-      "publishedAt": "2026-09-24T03:30:05.000Z",
-      "xQuery": "印旛沼周辺 水が引かず住民不安"
+      "url": "https://news.yahoo.co.jp/pickup/6596362?source=rss",
+      "publishedAt": "2026-09-24T05:14:19.000Z",
+      "xQuery": "トランプ氏が習氏を出迎え 思惑は"
     },
     {
       "time": "13:20",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "円安進行 レートチェック効果相殺"
     },
     {
-      "time": "12:34",
-      "title": "37年前不明の子に失踪宣告 母手紙",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596353?source=rss",
-      "publishedAt": "2026-09-24T03:34:08.000Z",
-      "xQuery": "37年前不明の子に失踪宣告 母手紙"
-    },
-    {
       "time": "14:16",
       "title": "中学生10人に追われ観念 男を逮捕",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中学生10人に追われ観念 男を逮捕"
     },
     {
-      "time": "11:48",
-      "title": "東京都の中古マンション 価格下落",
+      "time": "14:49",
+      "title": "ジャングリア親会社 173億円赤字",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596346?source=rss",
-      "publishedAt": "2026-09-24T02:48:51.000Z",
-      "xQuery": "東京都の中古マンション 価格下落"
+      "url": "https://news.yahoo.co.jp/pickup/6596367?source=rss",
+      "publishedAt": "2026-09-24T05:49:43.000Z",
+      "xQuery": "ジャングリア親会社 173億円赤字"
+    },
+    {
+      "time": "13:36",
+      "title": "イオンが送風機自主回収 発火恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596359?source=rss",
+      "publishedAt": "2026-09-24T04:36:27.000Z",
+      "xQuery": "イオンが送風機自主回収 発火恐れ"
     }
   ]
 };
