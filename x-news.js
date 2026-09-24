@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T00:48:16.189Z",
+  "updatedAt": "2026-09-24T01:28:34.708Z",
   "items": [
     {
-      "time": "08:44",
-      "title": "台風25号被害 死者10人不明4人に",
+      "time": "09:36",
+      "title": "米中の貿易休戦 2カ月延長で合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596329?source=rss",
-      "publishedAt": "2026-09-23T23:44:01.000Z",
-      "xQuery": "台風25号被害 死者10人不明4人に"
+      "url": "https://news.yahoo.co.jp/pickup/6596332?source=rss",
+      "publishedAt": "2026-09-24T00:36:01.000Z",
+      "xQuery": "米中の貿易休戦 2カ月延長で合意"
     },
     {
-      "time": "07:26",
-      "title": "習氏が米到着 トランプ氏が出迎え",
+      "time": "07:36",
+      "title": "台風影響 内房線の復旧に3カ月超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596324?source=rss",
-      "publishedAt": "2026-09-23T22:26:32.000Z",
-      "xQuery": "習氏が米到着 トランプ氏が出迎え"
+      "url": "https://news.yahoo.co.jp/pickup/6596323?source=rss",
+      "publishedAt": "2026-09-23T22:36:22.000Z",
+      "xQuery": "台風影響 内房線の復旧に3カ月超"
     },
     {
       "time": "09:32",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "会社役員刺され重体 従業員ら逮捕"
     },
     {
-      "time": "07:22",
-      "title": "10年超不明の当時10歳未満 42人",
+      "time": "09:24",
+      "title": "ANA機脱出 乗客「ガタガタ音」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596322?source=rss",
-      "publishedAt": "2026-09-23T22:22:14.000Z",
-      "xQuery": "10年超不明の当時10歳未満 42人"
+      "url": "https://news.yahoo.co.jp/pickup/6596330?source=rss",
+      "publishedAt": "2026-09-24T00:24:33.000Z",
+      "xQuery": "ANA機脱出 乗客「ガタガタ音」"
     }
   ]
 };
