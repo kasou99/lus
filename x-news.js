@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T14:42:47.921Z",
+  "updatedAt": "2026-09-24T15:18:11.812Z",
   "items": [
     {
       "time": "21:54",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "週末は関東各地で雨の予報 注意"
     },
     {
-      "time": "20:01",
-      "title": "取材許可巡る米政権措置 差し止め",
+      "time": "23:29",
+      "title": "飯塚事件 3回目の再審請求へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596403?source=rss",
-      "publishedAt": "2026-09-24T11:01:05.000Z",
-      "xQuery": "取材許可巡る米政権措置 差し止め"
+      "url": "https://news.yahoo.co.jp/pickup/6596425?source=rss",
+      "publishedAt": "2026-09-24T14:29:36.000Z",
+      "xQuery": "飯塚事件 3回目の再審請求へ"
     },
     {
       "time": "21:42",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "崖崩落で死亡 夫が過去に対応要求"
     },
     {
-      "time": "21:52",
-      "title": "誤情報で民放批判 維新藤田氏謝罪",
+      "time": "23:41",
+      "title": "小林製薬 株式の非公開化を検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596414?source=rss",
-      "publishedAt": "2026-09-24T12:52:49.000Z",
-      "xQuery": "誤情報で民放批判 維新藤田氏謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6596426?source=rss",
+      "publishedAt": "2026-09-24T14:41:20.000Z",
+      "xQuery": "小林製薬 株式の非公開化を検討"
     }
   ]
 };

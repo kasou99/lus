@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-24T14:42:47.206Z",
+  "updatedAt": "2026-09-24T15:18:10.793Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "00:00",
+        "title": "テスラの野望、日本揺さぶる 「レベル3」工場という起死回生",
+        "source": "business.nikkei.com",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vZHBFVlBnTDV3YUpldldzc2U1VTA2NlB6US11V0xwV3RZeDFNc1Jlb3ZtQnJsOVRPT25mZk9oRF9tQVFwZm1SVXo1MWx4bW5uTlFhOEtQS1BWR3BJNUtlZ19vTTI?oc=5",
+        "publishedAt": "2026-09-24T15:00:00.000Z"
+      },
       {
         "time": "11:10",
         "title": "船井総研あがたFAS、無料セミナー「商社・卸業(機械要素部品・工作機械・機械工具・包装資材)向けM&A戦略セミナー」を2026年11月5日に東京で開催。M&Aを重ねた譲受企業の戦略と社員の体験談を公開",
@@ -26,7 +33,7 @@
       {
         "time": "19:45",
         "title": "ジェイテクト、グループ会社 ジェイテクトグラインディングツール、円筒研削加工用ビトリファイドCBNホイール「削楽Air」新開発",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BTm4wOVBCbE1zdTRBakJPNFlseFc4eU5mSmF5eEFfbzdVZ05tNmV6b1dUdk5sZXhidUcwTTlTUGEzaTNtdmdDVml4NDNUYVpOXzN5YXV3c1FIYjRCZ2s1emRiUExXTkJWQktiX2ExUzhIdXB6OV9hb0hQNA?oc=5",
         "publishedAt": "2026-09-24T10:45:22.000Z"
       },
@@ -38,25 +45,18 @@
         "publishedAt": "2026-09-24T11:37:26.000Z"
       },
       {
+        "time": "00:00",
+        "title": "PwCでは「1000人育成」プログラムも フィジカルAI「FDE」に引く手あまた",
+        "source": "business.nikkei.com",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjSWtXVmZDaGVadVV0S0hTYjhBNWdraHpTRWtmSUlQbVZyZ3RmVnVUUHU3NG50dFFaX3dtOVQ3ZVJWQXNiUDVtYm5nc0oxYmhZSGZibzZUcVVid3FtdjU2U1BMT0k?oc=5",
+        "publishedAt": "2026-09-24T15:00:00.000Z"
+      },
+      {
         "time": "10:48",
         "title": "【台湾情報】台湾半導体産業、2026年生産額は前年比40.9%増の9兆台湾元超えの予測＜ワイズリサーチ・最新レポート＞",
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83LWxVUUJRTHZhSHFQN1BmM3Axa1N3ZTJLOE9LbUdJU1hNeGVtWERMSzBuWHlaUmhkMlJyNlIteXlIcXVMaXBnOC0xOXBrcEJraGRKR0JsenllZjZKQ3FPbGFlcEMzVFd1N09uOFZuSG5kdw?oc=5",
         "publishedAt": "2026-09-24T01:48:00.000Z"
-      },
-      {
-        "time": "10:48",
-        "title": "日本通運、インターフェックス大阪2026に共同出展…医薬品物流ソリューション紹介へ",
-        "source": "au Webポータル",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tQVJmRkMzUWJXbWJtOWFyMjExbUFhcDRwYUdMM20xZm42U3ZveElDcFFWYkRDNUt1emU4RDNiM29ORV9GdE1mUnlPYkhvSmRPZzNyUGlRTU53Mk9ZakVzWVdIWk9PbUR5Zm4yLUl3?oc=5",
-        "publishedAt": "2026-09-24T01:48:00.000Z"
-      },
-      {
-        "time": "09:03",
-        "title": "垂直高所作業車（VPL）業界動向：2026年の市場規模は2335百万米ドル見込み",
-        "source": "news.nicovideo.jp",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RVWF1aDFRbTRRamtlMi1EVklXN1FtQUdtXzhOXzc1N3VURnB2YzY3TnFmcXdyOWs0bUVrUjFqQTQxLVNnTlRVcEZQeUpMWVpoSXFBbU5aSUlraVZvRHczQm13WnZIRVc3?oc=5",
-        "publishedAt": "2026-09-24T00:03:19.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       }
