@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T21:16:33.446Z",
+  "updatedAt": "2026-09-24T21:36:39.330Z",
   "items": [
+    {
+      "time": "06:27",
+      "title": "米イラン 段階的な戦闘終結⁠模索",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596430?source=rss",
+      "publishedAt": "2026-09-24T21:27:02.000Z",
+      "xQuery": "米イラン 段階的な戦闘終結⁠模索"
+    },
     {
       "time": "23:29",
       "title": "飯塚事件 3回目の再審請求へ",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596425?source=rss",
       "publishedAt": "2026-09-24T14:29:36.000Z",
       "xQuery": "飯塚事件 3回目の再審請求へ"
-    },
-    {
-      "time": "21:54",
-      "title": "政府 米中首脳会談の動向を注視",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596412?source=rss",
-      "publishedAt": "2026-09-24T12:54:41.000Z",
-      "xQuery": "政府 米中首脳会談の動向を注視"
     },
     {
       "time": "06:07",
