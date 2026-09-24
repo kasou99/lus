@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T08:46:27.557Z",
+  "updatedAt": "2026-09-24T09:20:30.481Z",
   "items": [
     {
       "time": "15:42",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風26号 週明けに沖縄接近の恐れ"
     },
     {
-      "time": "16:01",
-      "title": "太陽光発電施設で発火 印旛沼付近",
+      "time": "17:22",
+      "title": "「こどもNISA」競争に熱 証券各社",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596372?source=rss",
-      "publishedAt": "2026-09-24T07:01:20.000Z",
-      "xQuery": "太陽光発電施設で発火 印旛沼付近"
+      "url": "https://news.yahoo.co.jp/pickup/6596381?source=rss",
+      "publishedAt": "2026-09-24T08:22:45.000Z",
+      "xQuery": "「こどもNISA」競争に熱 証券各社"
+    },
+    {
+      "time": "18:04",
+      "title": "印旛沼近く ウナギ5万匹流される",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596389?source=rss",
+      "publishedAt": "2026-09-24T09:04:35.000Z",
+      "xQuery": "印旛沼近く ウナギ5万匹流される"
     },
     {
       "time": "14:50",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "鉄塔転落死 遺族が会社に要望書"
     },
     {
-      "time": "14:49",
-      "title": "ジャングリア親会社 173億円赤字",
+      "time": "17:50",
+      "title": "第二神明で10台絡む事故 1人重傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596367?source=rss",
-      "publishedAt": "2026-09-24T05:49:43.000Z",
-      "xQuery": "ジャングリア親会社 173億円赤字"
-    },
-    {
-      "time": "17:22",
-      "title": "「こどもNISA」競争に熱 証券各社",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596381?source=rss",
-      "publishedAt": "2026-09-24T08:22:45.000Z",
-      "xQuery": "「こどもNISA」競争に熱 証券各社"
+      "url": "https://news.yahoo.co.jp/pickup/6596386?source=rss",
+      "publishedAt": "2026-09-24T08:50:42.000Z",
+      "xQuery": "第二神明で10台絡む事故 1人重傷"
     }
   ]
 };
