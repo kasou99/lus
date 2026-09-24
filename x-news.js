@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T03:21:25.537Z",
+  "updatedAt": "2026-09-24T03:43:54.006Z",
   "items": [
     {
-      "time": "11:39",
-      "title": "長期金利一時3.055% 米債券安で",
+      "time": "12:30",
+      "title": "印旛沼周辺 水が引かず住民不安",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596347?source=rss",
-      "publishedAt": "2026-09-24T02:39:24.000Z",
-      "xQuery": "長期金利一時3.055% 米債券安で"
+      "url": "https://news.yahoo.co.jp/pickup/6596352?source=rss",
+      "publishedAt": "2026-09-24T03:30:05.000Z",
+      "xQuery": "印旛沼周辺 水が引かず住民不安"
     },
     {
-      "time": "09:32",
-      "title": "印旛沼「いつ決壊したのか」不明",
+      "time": "09:27",
+      "title": "FRB 中間選挙直前に追加利上げか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596333?source=rss",
-      "publishedAt": "2026-09-24T00:32:52.000Z",
-      "xQuery": "印旛沼「いつ決壊したのか」不明"
+      "url": "https://news.yahoo.co.jp/pickup/6596331?source=rss",
+      "publishedAt": "2026-09-24T00:27:07.000Z",
+      "xQuery": "FRB 中間選挙直前に追加利上げか"
     },
     {
-      "time": "09:24",
-      "title": "ANA機脱出 乗客「ガタガタ音」",
+      "time": "12:02",
+      "title": "ウ 北朝鮮兵2人を韓国に引き渡し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596330?source=rss",
-      "publishedAt": "2026-09-24T00:24:33.000Z",
-      "xQuery": "ANA機脱出 乗客「ガタガタ音」"
+      "url": "https://news.yahoo.co.jp/pickup/6596348?source=rss",
+      "publishedAt": "2026-09-24T03:02:46.000Z",
+      "xQuery": "ウ 北朝鮮兵2人を韓国に引き渡し"
     },
     {
       "time": "11:48",

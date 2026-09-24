@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T03:21:24.952Z",
+  "updatedAt": "2026-09-24T03:43:53.215Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-09-24T00:03:19.000Z"
       },
       {
-        "time": "12:30",
-        "title": "油圧サーボコントローラの世界市場（2026年～2032年）、市場規模（電気油圧サーボコントローラ、サーボ比例弁コントローラ、全油圧式サーボコントローラ、デジタルサーボコントローラ）・分析レポートを発表",
-        "source": "atpress.ne.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FYTdHOVMzQmUydHZQZ09wanZybnZyN1lqc05Wem1STFV2am9IMFpJZk1DQS1ZbjU4UnBpR3NBQkg4UWJXRmNQdXpoVzhfS2M?oc=5",
-        "publishedAt": "2026-09-23T03:30:00.000Z"
-      },
-      {
         "time": "06:22",
         "title": "ANA機脱出 重大インシデント認定",
         "source": "Yahoo!ニュース",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596347?source=rss",
         "publishedAt": "2026-09-24T02:39:24.000Z"
+      },
+      {
+        "time": "11:48",
+        "title": "東京都の中古マンション 価格下落",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596346?source=rss",
+        "publishedAt": "2026-09-24T02:48:51.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-09-23T23:44:01.000Z"
       },
       {
+        "time": "12:30",
+        "title": "印旛沼周辺 水が引かず住民不安",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596352?source=rss",
+        "publishedAt": "2026-09-24T03:30:05.000Z"
+      },
+      {
         "time": "09:32",
         "title": "印旛沼「いつ決壊したのか」不明",
         "source": "Yahoo!ニュース",
@@ -163,25 +170,11 @@
         "publishedAt": "2026-09-24T00:32:52.000Z"
       },
       {
-        "time": "20:50",
-        "title": "堤防決壊 老舗養魚場が壊滅的被害",
+        "time": "12:34",
+        "title": "37年前不明の子に失踪宣告 母手紙",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596297?source=rss",
-        "publishedAt": "2026-09-23T11:50:52.000Z"
-      },
-      {
-        "time": "06:30",
-        "title": "千葉の停電 復旧の見通し立たず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596319?source=rss",
-        "publishedAt": "2026-09-23T21:30:17.000Z"
-      },
-      {
-        "time": "11:11",
-        "title": "ネイリスト殺害 男に拘禁21年求刑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596340?source=rss",
-        "publishedAt": "2026-09-24T02:11:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596353?source=rss",
+        "publishedAt": "2026-09-24T03:34:08.000Z"
       },
       {
         "time": "08:05",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596326?source=rss",
         "publishedAt": "2026-09-23T23:05:02.000Z"
+      },
+      {
+        "time": "20:55",
+        "title": "不明の6歳か 遺体は離島で発見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596296?source=rss",
+        "publishedAt": "2026-09-23T11:55:12.000Z"
       }
     ],
     "subsidyHeadlines": [
