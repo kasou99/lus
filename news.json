@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T14:19:38.552Z",
+  "updatedAt": "2026-09-24T14:42:47.206Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "19:45",
         "title": "ジェイテクト、グループ会社 ジェイテクトグラインディングツール、円筒研削加工用ビトリファイドCBNホイール「削楽Air」新開発",
-        "source": "ニコニコニュース",
+        "source": "news.nicovideo.jp",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BTm4wOVBCbE1zdTRBakJPNFlseFc4eU5mSmF5eEFfbzdVZ05tNmV6b1dUdk5sZXhidUcwTTlTUGEzaTNtdmdDVml4NDNUYVpOXzN5YXV3c1FIYjRCZ2s1emRiUExXTkJWQktiX2ExUzhIdXB6OV9hb0hQNA?oc=5",
         "publishedAt": "2026-09-24T10:45:22.000Z"
       },
@@ -54,7 +54,7 @@
       {
         "time": "09:03",
         "title": "垂直高所作業車（VPL）業界動向：2026年の市場規模は2335百万米ドル見込み",
-        "source": "ニコニコニュース",
+        "source": "news.nicovideo.jp",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RVWF1aDFRbTRRamtlMi1EVklXN1FtQUdtXzhOXzc1N3VURnB2YzY3TnFmcXdyOWs0bUVrUjFqQTQxLVNnTlRVcEZQeUpMWVpoSXFBbU5aSUlraVZvRHczQm13WnZIRVc3?oc=5",
         "publishedAt": "2026-09-24T00:03:19.000Z"
       }
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "23:41",
+        "title": "小林製薬 株式の非公開化を検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596426?source=rss",
+        "publishedAt": "2026-09-24T14:41:20.000Z"
+      },
+      {
         "time": "17:04",
         "title": "中小事業者のレジ改修補助へ 政府",
         "source": "Yahoo!ニュース",
@@ -117,13 +124,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596356?source=rss",
         "publishedAt": "2026-09-24T04:20:49.000Z"
-      },
-      {
-        "time": "12:58",
-        "title": "千葉県内 約1万7000軒で停電続く",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596355?source=rss",
-        "publishedAt": "2026-09-24T03:58:36.000Z"
       },
       {
         "time": "06:22",
@@ -170,11 +170,11 @@
         "publishedAt": "2026-09-24T12:01:25.000Z"
       },
       {
-        "time": "17:50",
-        "title": "第二神明で10台絡む事故 1人重傷",
+        "time": "23:29",
+        "title": "飯塚事件 3回目の再審請求へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596386?source=rss",
-        "publishedAt": "2026-09-24T08:50:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596425?source=rss",
+        "publishedAt": "2026-09-24T14:29:36.000Z"
       },
       {
         "time": "08:05",
