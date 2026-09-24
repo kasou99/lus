@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T11:39:04.286Z",
+  "updatedAt": "2026-09-24T12:28:00.726Z",
   "items": [
     {
       "time": "17:04",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "台風25号 死者11人行方不明3人に"
     },
     {
+      "time": "21:01",
+      "title": "養魚場浸水 金魚など10万匹全滅か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596409?source=rss",
+      "publishedAt": "2026-09-24T12:01:25.000Z",
+      "xQuery": "養魚場浸水 金魚など10万匹全滅か"
+    },
+    {
       "time": "18:00",
       "title": "匿名投稿で攻撃 林泰輔県議が釈明",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "匿名投稿で攻撃 林泰輔県議が釈明"
     },
     {
-      "time": "18:04",
-      "title": "印旛沼近く ウナギ5万匹流される",
+      "time": "20:50",
+      "title": "獣医師ミスで犬に障害 和解が成立",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596389?source=rss",
-      "publishedAt": "2026-09-24T09:04:35.000Z",
-      "xQuery": "印旛沼近く ウナギ5万匹流される"
-    },
-    {
-      "time": "20:29",
-      "title": "米#MeToo巡る性犯罪 禁錮15年",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596406?source=rss",
-      "publishedAt": "2026-09-24T11:29:43.000Z",
-      "xQuery": "米#MeToo巡る性犯罪 禁錮15年"
+      "url": "https://news.yahoo.co.jp/pickup/6596408?source=rss",
+      "publishedAt": "2026-09-24T11:50:51.000Z",
+      "xQuery": "獣医師ミスで犬に障害 和解が成立"
     }
   ]
 };
