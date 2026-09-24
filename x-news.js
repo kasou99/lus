@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T23:15:35.234Z",
+  "updatedAt": "2026-09-24T23:37:04.970Z",
   "items": [
     {
       "time": "06:52",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "習氏 米に台湾独立への反対求める"
     },
     {
-      "time": "07:11",
-      "title": "北海道で今季全国初 氷点下を観測",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596433?source=rss",
-      "publishedAt": "2026-09-24T22:11:47.000Z",
-      "xQuery": "北海道で今季全国初 氷点下を観測"
-    },
-    {
       "time": "07:50",
       "title": "返礼品の越前がに違法表示 福井",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596435?source=rss",
       "publishedAt": "2026-09-24T22:33:21.000Z",
       "xQuery": "米住宅ローン金利7%超 30年固定"
+    },
+    {
+      "time": "07:57",
+      "title": "ファミマ「バイト改革」なぜ今",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596440?source=rss",
+      "publishedAt": "2026-09-24T22:57:39.000Z",
+      "xQuery": "ファミマ「バイト改革」なぜ今"
     }
   ]
 };
