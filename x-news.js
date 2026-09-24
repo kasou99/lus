@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T20:41:14.267Z",
+  "updatedAt": "2026-09-24T21:16:33.446Z",
   "items": [
+    {
+      "time": "23:29",
+      "title": "飯塚事件 3回目の再審請求へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596425?source=rss",
+      "publishedAt": "2026-09-24T14:29:36.000Z",
+      "xQuery": "飯塚事件 3回目の再審請求へ"
+    },
     {
       "time": "21:54",
       "title": "政府 米中首脳会談の動向を注視",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "政府 米中首脳会談の動向を注視"
     },
     {
-      "time": "18:40",
-      "title": "週末は関東各地で雨の予報 注意",
+      "time": "06:07",
+      "title": "パンダ2頭近く米へ到着 習氏発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596394?source=rss",
-      "publishedAt": "2026-09-24T09:40:17.000Z",
-      "xQuery": "週末は関東各地で雨の予報 注意"
-    },
-    {
-      "time": "23:29",
-      "title": "飯塚事件 3回目の再審請求へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596425?source=rss",
-      "publishedAt": "2026-09-24T14:29:36.000Z",
-      "xQuery": "飯塚事件 3回目の再審請求へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596428?source=rss",
+      "publishedAt": "2026-09-24T21:07:05.000Z",
+      "xQuery": "パンダ2頭近く米へ到着 習氏発表"
     },
     {
       "time": "21:42",
