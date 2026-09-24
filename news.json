@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T16:41:11.918Z",
+  "updatedAt": "2026-09-24T17:16:29.438Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,18 @@
         "publishedAt": "2026-09-24T02:10:02.000Z"
       },
       {
-        "time": "05:00",
-        "title": "東京バージョンアップ（37）東京を支える産業集積",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43NldlZWs0eVNXNW9rMUVEYnBiSlpuRkpFR0lwcmlNeWtSZ0U4UmVlOGs1X0R3OXluanZyYkVsQnFvdGRpOEI0RTRnS1N5M2dCejlPNjF3aGE?oc=5",
-        "publishedAt": "2026-09-23T20:00:00.000Z"
-      },
-      {
         "time": "13:28",
         "title": "日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング",
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYYXN0WVlObFpjVU1kSjJMaEZZRGNNQnZBTWZLZEpWZ1dUNXBrZGdGNk96ZmdlNjJYbS1YRVhhNEpETmg5WEZvX0VrVUlpUjA?oc=5",
         "publishedAt": "2026-09-24T04:28:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "東京バージョンアップ（37）東京を支える産業集積",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43NldlZWs0eVNXNW9rMUVEYnBiSlpuRkpFR0lwcmlNeWtSZ0U4UmVlOGs1X0R3OXluanZyYkVsQnFvdGRpOEI0RTRnS1N5M2dCejlPNjF3aGE?oc=5",
+        "publishedAt": "2026-09-23T20:00:00.000Z"
       },
       {
         "time": "19:45",
