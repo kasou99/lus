@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T12:28:00.726Z",
+  "updatedAt": "2026-09-24T12:49:57.006Z",
   "items": [
     {
-      "time": "17:04",
-      "title": "中小事業者のレジ改修補助へ 政府",
+      "time": "18:40",
+      "title": "週末は関東各地で雨の予報 注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596379?source=rss",
-      "publishedAt": "2026-09-24T08:04:43.000Z",
-      "xQuery": "中小事業者のレジ改修補助へ 政府"
+      "url": "https://news.yahoo.co.jp/pickup/6596394?source=rss",
+      "publishedAt": "2026-09-24T09:40:17.000Z",
+      "xQuery": "週末は関東各地で雨の予報 注意"
     },
     {
       "time": "18:52",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風25号 死者11人行方不明3人に"
     },
     {
+      "time": "21:42",
+      "title": "崖崩落で死亡 夫が過去に対応要求",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596413?source=rss",
+      "publishedAt": "2026-09-24T12:42:39.000Z",
+      "xQuery": "崖崩落で死亡 夫が過去に対応要求"
+    },
+    {
       "time": "21:01",
       "title": "養魚場浸水 金魚など10万匹全滅か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596409?source=rss",
       "publishedAt": "2026-09-24T12:01:25.000Z",
       "xQuery": "養魚場浸水 金魚など10万匹全滅か"
-    },
-    {
-      "time": "18:00",
-      "title": "匿名投稿で攻撃 林泰輔県議が釈明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596390?source=rss",
-      "publishedAt": "2026-09-24T09:00:21.000Z",
-      "xQuery": "匿名投稿で攻撃 林泰輔県議が釈明"
     },
     {
       "time": "20:50",

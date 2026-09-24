@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T12:27:59.672Z",
+  "updatedAt": "2026-09-24T12:49:56.136Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,13 +10,6 @@
         "publishedAt": "2026-09-24T02:10:02.000Z"
       },
       {
-        "time": "19:45",
-        "title": "ジェイテクト、グループ会社 ジェイテクトグラインディングツール、円筒研削加工用ビトリファイドCBNホイール「削楽Air」新開発",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BTm4wOVBCbE1zdTRBakJPNFlseFc4eU5mSmF5eEFfbzdVZ05tNmV6b1dUdk5sZXhidUcwTTlTUGEzaTNtdmdDVml4NDNUYVpOXzN5YXV3c1FIYjRCZ2s1emRiUExXTkJWQktiX2ExUzhIdXB6OV9hb0hQNA?oc=5",
-        "publishedAt": "2026-09-24T10:45:22.000Z"
-      },
-      {
         "time": "05:00",
         "title": "東京バージョンアップ（37）東京を支える産業集積",
         "source": "日刊工業新聞",
@@ -24,9 +17,16 @@
         "publishedAt": "2026-09-23T20:00:00.000Z"
       },
       {
+        "time": "19:45",
+        "title": "ジェイテクト、グループ会社 ジェイテクトグラインディングツール、円筒研削加工用ビトリファイドCBNホイール「削楽Air」新開発",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BTm4wOVBCbE1zdTRBakJPNFlseFc4eU5mSmF5eEFfbzdVZ05tNmV6b1dUdk5sZXhidUcwTTlTUGEzaTNtdmdDVml4NDNUYVpOXzN5YXV3c1FIYjRCZ2s1emRiUExXTkJWQktiX2ExUzhIdXB6OV9hb0hQNA?oc=5",
+        "publishedAt": "2026-09-24T10:45:22.000Z"
+      },
+      {
         "time": "13:28",
         "title": "日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング",
-        "source": "Newscast.jp",
+        "source": "newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYYXN0WVlObFpjVU1kSjJMaEZZRGNNQnZBTWZLZEpWZ1dUNXBrZGdGNk96ZmdlNjJYbS1YRVhhNEpETmg5WEZvX0VrVUlpUjA?oc=5",
         "publishedAt": "2026-09-24T04:28:00.000Z"
       },
@@ -39,8 +39,15 @@
       },
       {
         "time": "10:48",
+        "title": "【台湾情報】台湾半導体産業、2026年生産額は前年比40.9%増の9兆台湾元超えの予測＜ワイズリサーチ・最新レポート＞",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83LWxVUUJRTHZhSHFQN1BmM3Axa1N3ZTJLOE9LbUdJU1hNeGVtWERMSzBuWHlaUmhkMlJyNlIteXlIcXVMaXBnOC0xOXBrcEJraGRKR0JsenllZjZKQ3FPbGFlcEMzVFd1N09uOFZuSG5kdw?oc=5",
+        "publishedAt": "2026-09-24T01:48:00.000Z"
+      },
+      {
+        "time": "10:48",
         "title": "日本通運、インターフェックス大阪2026に共同出展…医薬品物流ソリューション紹介へ",
-        "source": "au Webポータル",
+        "source": "article.auone.jp",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tQVJmRkMzUWJXbWJtOWFyMjExbUFhcDRwYUdMM20xZm42U3ZveElDcFFWYkRDNUt1emU4RDNiM29ORV9GdE1mUnlPYkhvSmRPZzNyUGlRTU53Mk9ZakVzWVdIWk9PbUR5Zm4yLUl3?oc=5",
         "publishedAt": "2026-09-24T01:48:00.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RVWF1aDFRbTRRamtlMi1EVklXN1FtQUdtXzhOXzc1N3VURnB2YzY3TnFmcXdyOWs0bUVrUjFqQTQxLVNnTlRVcEZQeUpMWVpoSXFBbU5aSUlraVZvRHczQm13WnZIRVc3?oc=5",
         "publishedAt": "2026-09-24T00:03:19.000Z"
-      },
-      {
-        "time": "17:04",
-        "title": "中小事業者のレジ改修補助へ 政府",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596379?source=rss",
-        "publishedAt": "2026-09-24T08:04:43.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-09-24T09:52:18.000Z"
       },
       {
+        "time": "21:42",
+        "title": "崖崩落で死亡 夫が過去に対応要求",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596413?source=rss",
+        "publishedAt": "2026-09-24T12:42:39.000Z"
+      },
+      {
         "time": "21:01",
         "title": "養魚場浸水 金魚など10万匹全滅か",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596363?source=rss",
         "publishedAt": "2026-09-24T05:16:59.000Z"
-      },
-      {
-        "time": "18:00",
-        "title": "匿名投稿で攻撃 林泰輔県議が釈明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596390?source=rss",
-        "publishedAt": "2026-09-24T09:00:21.000Z"
       }
     ],
     "subsidyHeadlines": [
