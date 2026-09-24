@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T10:18:36.026Z",
+  "updatedAt": "2026-09-24T10:40:38.723Z",
   "items": [
     {
       "time": "18:36",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "防災庁 もし熊本地震前にあったら"
     },
     {
+      "time": "18:00",
+      "title": "匿名投稿で攻撃 林泰輔県議が釈明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596390?source=rss",
+      "publishedAt": "2026-09-24T09:00:21.000Z",
+      "xQuery": "匿名投稿で攻撃 林泰輔県議が釈明"
+    },
+    {
       "time": "18:04",
       "title": "印旛沼近く ウナギ5万匹流される",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596389?source=rss",
       "publishedAt": "2026-09-24T09:04:35.000Z",
       "xQuery": "印旛沼近く ウナギ5万匹流される"
-    },
-    {
-      "time": "17:50",
-      "title": "第二神明で10台絡む事故 1人重傷",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596386?source=rss",
-      "publishedAt": "2026-09-24T08:50:42.000Z",
-      "xQuery": "第二神明で10台絡む事故 1人重傷"
     },
     {
       "time": "14:49",

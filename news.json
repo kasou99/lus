@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T10:18:35.143Z",
+  "updatedAt": "2026-09-24T10:40:37.711Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-09-24T02:10:02.000Z"
       },
       {
-        "time": "05:00",
-        "title": "東京バージョンアップ（37）東京を支える産業集積",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43NldlZWs0eVNXNW9rMUVEYnBiSlpuRkpFR0lwcmlNeWtSZ0U4UmVlOGs1X0R3OXluanZyYkVsQnFvdGRpOEI0RTRnS1N5M2dCejlPNjF3aGE?oc=5",
-        "publishedAt": "2026-09-23T20:00:00.000Z"
-      },
-      {
         "time": "13:28",
         "title": "日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング",
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYYXN0WVlObFpjVU1kSjJMaEZZRGNNQnZBTWZLZEpWZ1dUNXBrZGdGNk96ZmdlNjJYbS1YRVhhNEpETmg5WEZvX0VrVUlpUjA?oc=5",
         "publishedAt": "2026-09-24T04:28:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "東京バージョンアップ（37）東京を支える産業集積",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43NldlZWs0eVNXNW9rMUVEYnBiSlpuRkpFR0lwcmlNeWtSZ0U4UmVlOGs1X0R3OXluanZyYkVsQnFvdGRpOEI0RTRnS1N5M2dCejlPNjF3aGE?oc=5",
+        "publishedAt": "2026-09-23T20:00:00.000Z"
       },
       {
         "time": "10:48",
@@ -133,18 +133,18 @@
         "publishedAt": "2026-09-23T21:22:06.000Z"
       },
       {
-        "time": "11:48",
-        "title": "東京都の中古マンション 価格下落",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596346?source=rss",
-        "publishedAt": "2026-09-24T02:48:51.000Z"
-      },
-      {
         "time": "14:49",
         "title": "ジャングリア親会社 173億円赤字",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596367?source=rss",
         "publishedAt": "2026-09-24T05:49:43.000Z"
+      },
+      {
+        "time": "17:22",
+        "title": "「こどもNISA」競争に熱 証券各社",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596381?source=rss",
+        "publishedAt": "2026-09-24T08:22:45.000Z"
       }
     ],
     "localHeadlines": [
