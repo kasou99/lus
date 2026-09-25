@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T03:20:30.345Z",
+  "updatedAt": "2026-09-25T03:44:00.344Z",
   "items": [
+    {
+      "time": "11:49",
+      "title": "トランプ氏が円安けん制 会談で",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596467?source=rss",
+      "publishedAt": "2026-09-25T02:49:28.000Z",
+      "xQuery": "トランプ氏が円安けん制 会談で"
+    },
     {
       "time": "11:13",
       "title": "長期金利一時3.115% 30年ぶり水準",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "両陛下 29日に熊本地震被災地訪問"
     },
     {
-      "time": "11:49",
-      "title": "トランプ氏が円安けん制 会談で",
+      "time": "12:13",
+      "title": "車と衝突 自転車の男子高校生重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596467?source=rss",
-      "publishedAt": "2026-09-25T02:49:28.000Z",
-      "xQuery": "トランプ氏が円安けん制 会談で"
+      "url": "https://news.yahoo.co.jp/pickup/6596471?source=rss",
+      "publishedAt": "2026-09-25T03:13:36.000Z",
+      "xQuery": "車と衝突 自転車の男子高校生重体"
     },
     {
-      "time": "11:20",
-      "title": "ネタニヤフ氏が国連演説 各国退席",
+      "time": "11:11",
+      "title": "スタバ 北米で250店舗を閉鎖へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596464?source=rss",
-      "publishedAt": "2026-09-25T02:20:38.000Z",
-      "xQuery": "ネタニヤフ氏が国連演説 各国退席"
-    },
-    {
-      "time": "10:04",
-      "title": "全東信破産 カード会社が支払いへ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596454?source=rss",
-      "publishedAt": "2026-09-25T01:04:50.000Z",
-      "xQuery": "全東信破産 カード会社が支払いへ"
+      "url": "https://news.yahoo.co.jp/pickup/6596460?source=rss",
+      "publishedAt": "2026-09-25T02:11:25.000Z",
+      "xQuery": "スタバ 北米で250店舗を閉鎖へ"
     }
   ]
 };
