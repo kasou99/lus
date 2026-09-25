@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T07:43:00.375Z",
+  "updatedAt": "2026-09-25T08:25:56.516Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,20 @@
         "publishedAt": "2026-09-24T23:20:44.000Z"
       },
       {
+        "time": "11:11",
+        "title": "工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション - chiba-tv.com",
+        "source": "chiba-tv.com",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12eDRNekExcU5saERJcTItcUdFbTZBbHZ1N0Jodk5wNTlHNUw5S0U3ajBfZGh0TV84NVJQTHZGb1NveG1IYk96MGdtdGR1MGhOYjhLeVV3T3NSRXNwbXJxanR5WTc?oc=5",
+        "publishedAt": "2026-09-25T02:11:58.000Z"
+      },
+      {
+        "time": "16:46",
+        "title": "ボールねじ駆動により省エネと高速動作を両立した油圧発生装置「電動ハイドロブースタ」を新開発",
+        "source": "jiji.com",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VdkxHOUxJRHhBRUtraEpFM0xzRzVucnd3UUhOSUZ6SVh1NWJrMTF6MTdTY2pJcHZGckNWN1JPNDQ3R0w3ZVdrVzlEb1A4U3A4clpXY05DbEdqYXVJcW9DS19xclJmU1hnQ1Nv?oc=5",
+        "publishedAt": "2026-09-25T07:46:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "車部品の加工にヒト型ロボ YUASA､中小売り込みへ実証",
         "source": "日本経済新聞",
@@ -39,24 +53,10 @@
       },
       {
         "time": "05:00",
-        "title": "三菱UFJFG、デジタル銀が免許取得 リテール事業拡充",
+        "title": "青山財産ネットワークス、新卒増員DXで短期育成",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiektXN0N3ZjdXaGpOT29rSGV5cEdaaUM3cF84V0hqTzVIaGpLc09oVjBqdTFycGM5YkFPbm0waEp4d2R3OEZEbHI5cjFxWWtSWjF2UkRQUTA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBd2VTLVBpcmVRd3VmTzlsUWpxM3N5YTZocHBQRG45Sk5yX0ticncxd2hhSV94alA0QXVZOGpqb3BpQUpLc0MwZm5HeXNVSnRPSHBEV2gzeWQ?oc=5",
         "publishedAt": "2026-09-24T20:00:00.000Z"
-      },
-      {
-        "time": "12:13",
-        "title": "協和機工、Fluke製品の国内向けカタログサイトを開設",
-        "source": "イザ！",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ORTlEd2FQUHNXbVUyMjUwTWZSSkswUFE1LW5ubU9tMlduMXFlUEFQSUFSUzl1dnV3UFZKNzYwNlZvVWlHbFk2YXczYVEwU1JVU3NCTDVFRkpWTTFCT3VjT3BTVFdzWHNIbFNIYkxmUGtpd1pyU3BuX3BR?oc=5",
-        "publishedAt": "2026-09-25T03:13:24.000Z"
-      },
-      {
-        "time": "05:05",
-        "title": "日本電気制御盤上位10社ランキング",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZQTc1NnBEei1sYmRucEpINFVELUJMV0pIYk5JRWlsQWNybTdkRFZFeU12WFFoSWRwZ0poTHE4dVkwRUdjdWFhRUpB?oc=5",
-        "publishedAt": "2026-09-24T20:05:52.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-09-25T04:19:30.000Z"
       },
       {
-        "time": "11:13",
-        "title": "長期金利一時3.115% 30年ぶり水準",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596462?source=rss",
-        "publishedAt": "2026-09-25T02:13:35.000Z"
-      },
-      {
         "time": "11:49",
         "title": "トランプ氏が円安けん制 会談で",
         "source": "Yahoo!ニュース",
@@ -131,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596435?source=rss",
         "publishedAt": "2026-09-24T22:33:21.000Z"
+      },
+      {
+        "time": "17:05",
+        "title": "姫路独協大 徳洲会に経営権譲渡へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596507?source=rss",
+        "publishedAt": "2026-09-25T08:05:35.000Z"
       },
       {
         "time": "10:04",
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "21:42",
-        "title": "崖崩落で死亡 夫が過去に対応要求",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596413?source=rss",
-        "publishedAt": "2026-09-24T12:42:39.000Z"
-      },
-      {
         "time": "13:34",
         "title": "印旛沼の決壊堤防 緊急復旧に着手",
         "source": "Yahoo!ニュース",
@@ -170,6 +163,20 @@
         "publishedAt": "2026-09-25T07:30:17.000Z"
       },
       {
+        "time": "16:47",
+        "title": "「timelesz」の猪俣周杜さん釈放",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596502?source=rss",
+        "publishedAt": "2026-09-25T07:47:58.000Z"
+      },
+      {
+        "time": "17:09",
+        "title": "元力士が不明の高齢者を保護 担ぐ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596503?source=rss",
+        "publishedAt": "2026-09-25T08:09:22.000Z"
+      },
+      {
         "time": "12:13",
         "title": "車と衝突 自転車の男子高校生重体",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596474?source=rss",
         "publishedAt": "2026-09-25T03:54:19.000Z"
-      },
-      {
-        "time": "16:40",
-        "title": "線路にガソリン携行缶を放置 捜査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596493?source=rss",
-        "publishedAt": "2026-09-25T07:40:17.000Z"
       }
     ],
     "subsidyHeadlines": [

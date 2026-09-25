@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T07:43:01.119Z",
+  "updatedAt": "2026-09-25T08:25:57.137Z",
   "items": [
     {
       "time": "16:31",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "台風25号 激甚災害に指定の見通し"
     },
     {
-      "time": "14:44",
-      "title": "米大統領 第2次大戦絡め異例発言",
+      "time": "16:50",
+      "title": "線路内に携行缶 列車が上を通過",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596484?source=rss",
-      "publishedAt": "2026-09-25T05:44:40.000Z",
-      "xQuery": "米大統領 第2次大戦絡め異例発言"
+      "url": "https://news.yahoo.co.jp/pickup/6596505?source=rss",
+      "publishedAt": "2026-09-25T07:50:39.000Z",
+      "xQuery": "線路内に携行缶 列車が上を通過"
     },
     {
-      "time": "12:22",
-      "title": "蘭首相 ICCへの米「攻撃」を批判",
+      "time": "17:09",
+      "title": "元力士が不明の高齢者を保護 担ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596469?source=rss",
-      "publishedAt": "2026-09-25T03:22:08.000Z",
-      "xQuery": "蘭首相 ICCへの米「攻撃」を批判"
+      "url": "https://news.yahoo.co.jp/pickup/6596503?source=rss",
+      "publishedAt": "2026-09-25T08:09:22.000Z",
+      "xQuery": "元力士が不明の高齢者を保護 担ぐ"
     },
     {
-      "time": "16:30",
-      "title": "群馬の住宅で女性死亡 男が逃走",
+      "time": "17:05",
+      "title": "ahamo「大盛りオプション」終了へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596497?source=rss",
-      "publishedAt": "2026-09-25T07:30:17.000Z",
-      "xQuery": "群馬の住宅で女性死亡 男が逃走"
+      "url": "https://news.yahoo.co.jp/pickup/6596506?source=rss",
+      "publishedAt": "2026-09-25T08:05:50.000Z",
+      "xQuery": "ahamo「大盛りオプション」終了へ"
     }
   ]
 };
