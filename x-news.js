@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T01:27:58.241Z",
+  "updatedAt": "2026-09-25T01:49:20.979Z",
   "items": [
     {
       "time": "09:00",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "全東信破産 カード会社が支払いへ"
     },
     {
-      "time": "08:27",
-      "title": "スマホで撮影され合鍵複製 防衛策",
+      "time": "09:33",
+      "title": "ストーカー 紛失防止タグ悪用急増",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596443?source=rss",
-      "publishedAt": "2026-09-24T23:27:01.000Z",
-      "xQuery": "スマホで撮影され合鍵複製 防衛策"
+      "url": "https://news.yahoo.co.jp/pickup/6596450?source=rss",
+      "publishedAt": "2026-09-25T00:33:39.000Z",
+      "xQuery": "ストーカー 紛失防止タグ悪用急増"
     }
   ]
 };
