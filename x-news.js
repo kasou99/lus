@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T22:16:38.490Z",
+  "updatedAt": "2026-09-25T22:38:23.288Z",
   "items": [
     {
       "time": "23:54",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "台風25号 死者12人行方不明3人に"
     },
     {
+      "time": "07:20",
+      "title": "米中首脳 年内あと2回会談に意欲",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596562?source=rss",
+      "publishedAt": "2026-09-25T22:20:17.000Z",
+      "xQuery": "米中首脳 年内あと2回会談に意欲"
+    },
+    {
       "time": "23:12",
       "title": "泉健太氏 2人で衆院会派を結成へ",
       "source": "Yahoo!ニュース",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "泉健太氏 2人で衆院会派を結成へ"
     },
     {
-      "time": "23:05",
-      "title": "ローマ教皇 仏に核軍縮の主導促す",
+      "time": "07:20",
+      "title": "群馬女性死亡 娘の元夫を公開手配",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596551?source=rss",
-      "publishedAt": "2026-09-25T14:05:41.000Z",
-      "xQuery": "ローマ教皇 仏に核軍縮の主導促す"
+      "url": "https://news.yahoo.co.jp/pickup/6596563?source=rss",
+      "publishedAt": "2026-09-25T22:20:14.000Z",
+      "xQuery": "群馬女性死亡 娘の元夫を公開手配"
     },
     {
-      "time": "22:34",
-      "title": "群馬で女性死亡 逃亡男性は知人か",
+      "time": "07:22",
+      "title": "関越道で作業員2人はねられ死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596549?source=rss",
-      "publishedAt": "2026-09-25T13:34:44.000Z",
-      "xQuery": "群馬で女性死亡 逃亡男性は知人か"
-    },
-    {
-      "time": "22:02",
-      "title": "ジャングリア 追加融資などを要請",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596547?source=rss",
-      "publishedAt": "2026-09-25T13:02:42.000Z",
-      "xQuery": "ジャングリア 追加融資などを要請"
+      "url": "https://news.yahoo.co.jp/pickup/6596564?source=rss",
+      "publishedAt": "2026-09-25T22:22:20.000Z",
+      "xQuery": "関越道で作業員2人はねられ死亡"
     }
   ]
 };

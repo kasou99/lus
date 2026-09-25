@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T22:16:37.469Z",
+  "updatedAt": "2026-09-25T22:38:22.570Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,6 +24,13 @@
         "publishedAt": "2026-09-25T20:25:17.000Z"
       },
       {
+        "time": "14:01",
+        "title": "工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション - hokkaido-np.co.jp",
+        "source": "hokkaido-np.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX21BTm5DbV9UcWduTUNPTloya0NIbHhFY3FCaGNHbUg3cnp3X2ljdlExQjJSNnFUQzFOem16N3JzdVpQdEV0My1QeUlRZmhIXy1TNTJxTFFGbE1uQTctN2hwV1hWZ0JSaERCNWx6Wnh1RTJtTG5ibjZYOFN4d2VxdWlacWk3clVL?oc=5",
+        "publishedAt": "2026-09-25T05:01:34.000Z"
+      },
+      {
         "time": "11:00",
         "title": "写真：工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション",
         "source": "沖縄タイムス社",
@@ -36,13 +43,6 @@
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PQk9FSmVfcW1zbjVtY0Rsak02em13OTVNZEFwelJWc0VHWWVvQTl3Y0tZdW04MklBRXJPWmhDamlNa3dTM2pnaGh3?oc=5",
         "publishedAt": "2026-09-24T23:20:44.000Z"
-      },
-      {
-        "time": "10:01",
-        "title": "ソディック、JIMTOF2026に出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDRVJ4UEVjaktUSjRuWUo1Q1ZTMTRRNUt3NEtXdjFjSjdIMk4xejBSMlRVTTVRb1FEM09fQ1NoUE0zdjRBbk93YmNwQklGVm1lOUExUmoyOEREZEFVY3NCbUttZVo3U0kxQkE?oc=5",
-        "publishedAt": "2026-09-25T01:01:12.000Z"
       },
       {
         "time": "19:38",
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "07:20",
+        "title": "米中首脳 年内あと2回会談に意欲",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596562?source=rss",
+        "publishedAt": "2026-09-25T22:20:17.000Z"
+      },
+      {
         "time": "06:36",
         "title": "習氏 米に台湾独立への反対求める",
         "source": "Yahoo!ニュース",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596484?source=rss",
         "publishedAt": "2026-09-25T05:44:40.000Z"
-      },
-      {
-        "time": "06:27",
-        "title": "米イラン 段階的な戦闘終結⁠模索",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596430?source=rss",
-        "publishedAt": "2026-09-24T21:27:02.000Z"
       },
       {
         "time": "11:20",
@@ -163,18 +163,18 @@
         "publishedAt": "2026-09-25T09:12:19.000Z"
       },
       {
-        "time": "20:19",
-        "title": "亀岡偉民・元衆院議員に有罪判決",
+        "time": "07:20",
+        "title": "群馬女性死亡 娘の元夫を公開手配",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596534?source=rss",
-        "publishedAt": "2026-09-25T11:19:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596563?source=rss",
+        "publishedAt": "2026-09-25T22:20:14.000Z"
       },
       {
-        "time": "22:34",
-        "title": "群馬で女性死亡 逃亡男性は知人か",
+        "time": "07:22",
+        "title": "関越道で作業員2人はねられ死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596549?source=rss",
-        "publishedAt": "2026-09-25T13:34:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596564?source=rss",
+        "publishedAt": "2026-09-25T22:22:20.000Z"
       },
       {
         "time": "18:39",
