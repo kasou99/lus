@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T21:38:10.384Z",
+  "updatedAt": "2026-09-25T22:16:37.469Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,13 +24,6 @@
         "publishedAt": "2026-09-25T20:25:17.000Z"
       },
       {
-        "time": "14:01",
-        "title": "工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション - hokkaido-np.co.jp",
-        "source": "hokkaido-np.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX21BTm5DbV9UcWduTUNPTloya0NIbHhFY3FCaGNHbUg3cnp3X2ljdlExQjJSNnFUQzFOem16N3JzdVpQdEV0My1QeUlRZmhIXy1TNTJxTFFGbE1uQTctN2hwV1hWZ0JSaERCNWx6Wnh1RTJtTG5ibjZYOFN4d2VxdWlacWk3clVL?oc=5",
-        "publishedAt": "2026-09-25T05:01:34.000Z"
-      },
-      {
         "time": "11:00",
         "title": "写真：工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション",
         "source": "沖縄タイムス社",
@@ -43,6 +36,13 @@
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PQk9FSmVfcW1zbjVtY0Rsak02em13OTVNZEFwelJWc0VHWWVvQTl3Y0tZdW04MklBRXJPWmhDamlNa3dTM2pnaGh3?oc=5",
         "publishedAt": "2026-09-24T23:20:44.000Z"
+      },
+      {
+        "time": "10:01",
+        "title": "ソディック、JIMTOF2026に出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDRVJ4UEVjaktUSjRuWUo1Q1ZTMTRRNUt3NEtXdjFjSjdIMk4xejBSMlRVTTVRb1FEM09fQ1NoUE0zdjRBbk93YmNwQklGVm1lOUExUmoyOEREZEFVY3NCbUttZVo3U0kxQkE?oc=5",
+        "publishedAt": "2026-09-25T01:01:12.000Z"
       },
       {
         "time": "19:38",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       }
