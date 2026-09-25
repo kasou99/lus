@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T02:24:40.307Z",
+  "updatedAt": "2026-09-25T02:44:07.153Z",
   "items": [
     {
       "time": "11:13",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "長期金利一時3.115% 30年ぶり水準"
     },
     {
-      "time": "09:50",
-      "title": "旧敵国条項 日中に新たな火種か",
+      "time": "11:01",
+      "title": "両陛下 29日に熊本地震被災地訪問",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596453?source=rss",
-      "publishedAt": "2026-09-25T00:50:14.000Z",
-      "xQuery": "旧敵国条項 日中に新たな火種か"
+      "url": "https://news.yahoo.co.jp/pickup/6596459?source=rss",
+      "publishedAt": "2026-09-25T02:01:10.000Z",
+      "xQuery": "両陛下 29日に熊本地震被災地訪問"
     },
     {
       "time": "11:20",
