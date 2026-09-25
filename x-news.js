@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T14:41:59.523Z",
+  "updatedAt": "2026-09-25T15:19:11.706Z",
   "items": [
     {
-      "time": "22:12",
-      "title": "墜落の無人機か 一部を海中で発見",
+      "time": "23:54",
+      "title": "台風25号 死者12人行方不明3人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596548?source=rss",
-      "publishedAt": "2026-09-25T13:12:06.000Z",
-      "xQuery": "墜落の無人機か 一部を海中で発見"
+      "url": "https://news.yahoo.co.jp/pickup/6596559?source=rss",
+      "publishedAt": "2026-09-25T14:54:48.000Z",
+      "xQuery": "台風25号 死者12人行方不明3人に"
     },
     {
       "time": "23:12",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596552?source=rss",
       "publishedAt": "2026-09-25T14:12:07.000Z",
       "xQuery": "泉健太氏 2人で衆院会派を結成へ"
+    },
+    {
+      "time": "23:05",
+      "title": "ローマ教皇 仏に核軍縮の主導促す",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596551?source=rss",
+      "publishedAt": "2026-09-25T14:05:41.000Z",
+      "xQuery": "ローマ教皇 仏に核軍縮の主導促す"
     },
     {
       "time": "22:34",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596547?source=rss",
       "publishedAt": "2026-09-25T13:02:42.000Z",
       "xQuery": "ジャングリア 追加融資などを要請"
-    },
-    {
-      "time": "22:42",
-      "title": "ラジオNIKKEI第2 今週末短波休止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596550?source=rss",
-      "publishedAt": "2026-09-25T13:42:44.000Z",
-      "xQuery": "ラジオNIKKEI第2 今週末短波休止"
     }
   ]
 };

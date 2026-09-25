@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T14:41:58.637Z",
+  "updatedAt": "2026-09-25T15:19:10.874Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "23:54",
+        "title": "台風25号 死者12人行方不明3人に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596559?source=rss",
+        "publishedAt": "2026-09-25T14:54:48.000Z"
+      },
+      {
         "time": "18:12",
         "title": "印旛沼の応急復旧 1週間程度めど",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596541?source=rss",
         "publishedAt": "2026-09-25T12:06:53.000Z"
-      },
-      {
-        "time": "23:37",
-        "title": "カープ矢野・前川選手を書類送検",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596557?source=rss",
-        "publishedAt": "2026-09-25T14:37:11.000Z"
       }
     ],
     "subsidyHeadlines": [
