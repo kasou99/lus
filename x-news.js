@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T22:38:23.288Z",
+  "updatedAt": "2026-09-25T23:15:32.675Z",
   "items": [
     {
-      "time": "23:54",
-      "title": "台風25号 死者12人行方不明3人に",
+      "time": "07:41",
+      "title": "関東 昼頃にかけ激しい雨降る所も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596559?source=rss",
-      "publishedAt": "2026-09-25T14:54:48.000Z",
-      "xQuery": "台風25号 死者12人行方不明3人に"
+      "url": "https://news.yahoo.co.jp/pickup/6596566?source=rss",
+      "publishedAt": "2026-09-25T22:41:50.000Z",
+      "xQuery": "関東 昼頃にかけ激しい雨降る所も"
     },
     {
       "time": "07:20",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596562?source=rss",
       "publishedAt": "2026-09-25T22:20:17.000Z",
       "xQuery": "米中首脳 年内あと2回会談に意欲"
-    },
-    {
-      "time": "23:12",
-      "title": "泉健太氏 2人で衆院会派を結成へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596552?source=rss",
-      "publishedAt": "2026-09-25T14:12:07.000Z",
-      "xQuery": "泉健太氏 2人で衆院会派を結成へ"
     },
     {
       "time": "07:20",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596564?source=rss",
       "publishedAt": "2026-09-25T22:22:20.000Z",
       "xQuery": "関越道で作業員2人はねられ死亡"
+    },
+    {
+      "time": "22:02",
+      "title": "ジャングリア 追加融資などを要請",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596547?source=rss",
+      "publishedAt": "2026-09-25T13:02:42.000Z",
+      "xQuery": "ジャングリア 追加融資などを要請"
     }
   ]
 };
