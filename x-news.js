@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T08:25:57.137Z",
+  "updatedAt": "2026-09-25T08:46:10.821Z",
   "items": [
     {
       "time": "16:31",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "台風25号 激甚災害に指定の見通し"
     },
     {
-      "time": "16:50",
-      "title": "線路内に携行缶 列車が上を通過",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596505?source=rss",
-      "publishedAt": "2026-09-25T07:50:39.000Z",
-      "xQuery": "線路内に携行缶 列車が上を通過"
-    },
-    {
       "time": "17:09",
       "title": "元力士が不明の高齢者を保護 担ぐ",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596506?source=rss",
       "publishedAt": "2026-09-25T08:05:50.000Z",
       "xQuery": "ahamo「大盛りオプション」終了へ"
+    },
+    {
+      "time": "17:18",
+      "title": "チーバくん県外活動休止 広報回答",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596510?source=rss",
+      "publishedAt": "2026-09-25T08:18:10.000Z",
+      "xQuery": "チーバくん県外活動休止 広報回答"
     }
   ]
 };
