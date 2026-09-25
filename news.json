@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T15:39:30.384Z",
+  "updatedAt": "2026-09-25T16:20:47.837Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-09-25T01:01:12.000Z"
       },
       {
-        "time": "05:00",
-        "title": "車部品の加工にヒト型ロボ YUASA､中小売り込みへ実証",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUTdQN3ZQSG9BWlJfMXJONmg5V3lMRTNoaUVWZzVSTTQ3bzd2UjdUTGlmaTRBektsdHVNSkxua3VZbm9VM3FmRkk4RFRWTkdWVVRRLTFzUmZ4ZmhJaGNCd1ZSN3ViYndiZUFXSzVmSlVlV2xkclNDdWl0Z25VYlE?oc=5",
-        "publishedAt": "2026-09-24T20:00:00.000Z"
-      },
-      {
         "time": "13:15",
         "title": "【小杉取締役に聞く】成長市場を加工技術の足元から支えるユキワ精工 - | 製造現場ドットコム",
         "source": "| 製造現場ドットコム",
@@ -57,6 +50,13 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZQTc1NnBEei1sYmRucEpINFVELUJMV0pIYk5JRWlsQWNybTdkRFZFeU12WFFoSWRwZ0poTHE4dVkwRUdjdWFhRUpB?oc=5",
         "publishedAt": "2026-09-24T20:05:52.000Z"
+      },
+      {
+        "time": "15:20",
+        "title": "腐食管理による保全コスト削減 第１回 大気腐食モニタリングによる腐食速度評価 –",
+        "source": "電気新聞ウェブサイト",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yY3psTE8wSzFieWxHUmxidDBPb0xiY180cm9yYnpkcWZBeThXcjdBWGdlY29rdTctbTQ0TFdLd3ZLajVQUWtMUmhyS1hZUlk?oc=5",
+        "publishedAt": "2026-09-25T06:20:46.000Z"
       }
     ],
     "worldHeadlines": [
