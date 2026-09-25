@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T13:40:04.453Z",
+  "updatedAt": "2026-09-25T14:19:45.529Z",
   "items": [
     {
       "time": "22:12",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "群馬で女性死亡 逃亡男性は知人か"
     },
     {
-      "time": "21:23",
-      "title": "小3-中3授業 国算など3～4%削減へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596543?source=rss",
-      "publishedAt": "2026-09-25T12:23:08.000Z",
-      "xQuery": "小3-中3授業 国算など3～4%削減へ"
-    },
-    {
       "time": "22:02",
       "title": "ジャングリア 追加融資などを要請",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596547?source=rss",
       "publishedAt": "2026-09-25T13:02:42.000Z",
       "xQuery": "ジャングリア 追加融資などを要請"
+    },
+    {
+      "time": "22:42",
+      "title": "ラジオNIKKEI第2 今週末短波休止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596550?source=rss",
+      "publishedAt": "2026-09-25T13:42:44.000Z",
+      "xQuery": "ラジオNIKKEI第2 今週末短波休止"
     }
   ]
 };

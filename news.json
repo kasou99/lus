@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T13:40:03.333Z",
+  "updatedAt": "2026-09-25T14:19:44.659Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,9 +38,16 @@
         "publishedAt": "2026-09-25T01:01:12.000Z"
       },
       {
+        "time": "21:15",
+        "title": "協和機工、Fluke製品の国内向けカタログサイトを開設",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rNHk1ck9VQWE1RmNPS3BYSGtWdEdtdUl5NjJaUG16aTVpNldGMkItU2Nzem5mUnRjYlFLSUpnMGNEQ0FDM3RvdVlwSUtsRG5TSFRockI0VWZ2Z0hBaEcwMzB5OVN0MjVyalhqdlFCTEdndEVVME5JMDNjNA?oc=5",
+        "publishedAt": "2026-09-25T12:15:55.000Z"
+      },
+      {
         "time": "05:00",
         "title": "車部品の加工にヒト型ロボ YUASA､中小売り込みへ実証",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUTdQN3ZQSG9BWlJfMXJONmg5V3lMRTNoaUVWZzVSTTQ3bzd2UjdUTGlmaTRBektsdHVNSkxua3VZbm9VM3FmRkk4RFRWTkdWVVRRLTFzUmZ4ZmhJaGNCd1ZSN3ViYndiZUFXSzVmSlVlV2xkclNDdWl0Z25VYlE?oc=5",
         "publishedAt": "2026-09-24T20:00:00.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51MG9mX2d5TC1IQVhtNDIxWVQ1RkVYLXhXUksxamVCNGhsVjA3bUtOX2lEUU1Ud2x4OXBnT2d1STdkdDQtS1pzWVdR?oc=5",
         "publishedAt": "2026-09-25T04:15:44.000Z"
-      },
-      {
-        "time": "05:05",
-        "title": "日本電気制御盤上位10社ランキング",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZQTc1NnBEei1sYmRucEpINFVELUJMV0pIYk5JRWlsQWNybTdkRFZFeU12WFFoSWRwZ0poTHE4dVkwRUdjdWFhRUpB?oc=5",
-        "publishedAt": "2026-09-24T20:05:52.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,13 +66,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596431?source=rss",
         "publishedAt": "2026-09-24T21:36:38.000Z"
-      },
-      {
-        "time": "09:00",
-        "title": "米中首脳 ワインで友好ムード演出",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596444?source=rss",
-        "publishedAt": "2026-09-25T00:00:19.000Z"
       },
       {
         "time": "14:44",
@@ -101,16 +94,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596453?source=rss",
         "publishedAt": "2026-09-25T00:50:14.000Z"
+      },
+      {
+        "time": "12:22",
+        "title": "蘭首相 ICCへの米「攻撃」を批判",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596469?source=rss",
+        "publishedAt": "2026-09-25T03:22:08.000Z"
       }
     ],
     "economyHeadlines": [
-      {
-        "time": "11:49",
-        "title": "トランプ氏が円安けん制 会談で",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596467?source=rss",
-        "publishedAt": "2026-09-25T02:49:28.000Z"
-      },
       {
         "time": "17:05",
         "title": "姫路独協大 徳洲会に経営権譲渡へ",
@@ -124,6 +117,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596547?source=rss",
         "publishedAt": "2026-09-25T13:02:42.000Z"
+      },
+      {
+        "time": "22:42",
+        "title": "ラジオNIKKEI第2 今週末短波休止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596550?source=rss",
+        "publishedAt": "2026-09-25T13:42:44.000Z"
       },
       {
         "time": "10:04",
@@ -177,11 +177,11 @@
         "publishedAt": "2026-09-25T09:39:55.000Z"
       },
       {
-        "time": "17:58",
-        "title": "行方不明から10年 娘の帰り待つ父",
+        "time": "23:00",
+        "title": "広島カープ・矢野選手を書類送検",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596513?source=rss",
-        "publishedAt": "2026-09-25T08:58:56.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596555?source=rss",
+        "publishedAt": "2026-09-25T14:00:52.000Z"
       },
       {
         "time": "21:06",
