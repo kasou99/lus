@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T05:41:20.747Z",
+  "updatedAt": "2026-09-25T06:31:47.360Z",
   "items": [
-    {
-      "time": "11:49",
-      "title": "トランプ氏が円安けん制 会談で",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596467?source=rss",
-      "publishedAt": "2026-09-25T02:49:28.000Z",
-      "xQuery": "トランプ氏が円安けん制 会談で"
-    },
     {
       "time": "12:41",
       "title": "10/2頃まで 雨の日多くなる予想",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "印旛沼の決壊堤防 緊急復旧に着手"
     },
     {
+      "time": "14:44",
+      "title": "米大統領 第2次大戦絡め異例発言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596484?source=rss",
+      "publishedAt": "2026-09-25T05:44:40.000Z",
+      "xQuery": "米大統領 第2次大戦絡め異例発言"
+    },
+    {
+      "time": "12:22",
+      "title": "蘭首相 ICCへの米「攻撃」を批判",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596469?source=rss",
+      "publishedAt": "2026-09-25T03:22:08.000Z",
+      "xQuery": "蘭首相 ICCへの米「攻撃」を批判"
+    },
+    {
       "time": "12:54",
       "title": "配達先で少女にわいせつ疑い 逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596474?source=rss",
       "publishedAt": "2026-09-25T03:54:19.000Z",
       "xQuery": "配達先で少女にわいせつ疑い 逮捕"
-    },
-    {
-      "time": "13:55",
-      "title": "熱帯性ウミガメ 米加州海岸で産卵",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596480?source=rss",
-      "publishedAt": "2026-09-25T04:55:09.000Z",
-      "xQuery": "熱帯性ウミガメ 米加州海岸で産卵"
     }
   ]
 };
