@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-25T20:15:48.140Z",
+  "updatedAt": "2026-09-25T20:39:26.744Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "17:04",
         "title": "工作機械受注が好調 ― 過去最高ペースを維持",
-        "source": "マシニスト出版",
+        "source": "machinist.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zYUdxa3NGRk80WTg4dFYyRTdmTmhWQUZWSGtaLXN5Z052R1BuT2pTUi1vRlBUdVduZkRGRFRMWmxsWm16ZnlabUp0cDlkOFFqRy1GRw?oc=5",
         "publishedAt": "2026-09-25T08:04:51.000Z"
       },
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-25T01:01:12.000Z"
       },
       {
-        "time": "11:11",
-        "title": "工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション - chiba-tv.com",
-        "source": "chiba-tv.com",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12eDRNekExcU5saERJcTItcUdFbTZBbHZ1N0Jodk5wNTlHNUw5S0U3ajBfZGh0TV84NVJQTHZGb1NveG1IYk96MGdtdGR1MGhOYjhLeVV3T3NSRXNwbXJxanR5WTc?oc=5",
-        "publishedAt": "2026-09-25T02:11:58.000Z"
-      },
-      {
         "time": "13:15",
         "title": "【小杉取締役に聞く】成長市場を加工技術の足元から支えるユキワ精工 - | 製造現場ドットコム",
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51MG9mX2d5TC1IQVhtNDIxWVQ1RkVYLXhXUksxamVCNGhsVjA3bUtOX2lEUU1Ud2x4OXBnT2d1STdkdDQtS1pzWVdR?oc=5",
         "publishedAt": "2026-09-25T04:15:44.000Z"
+      },
+      {
+        "time": "15:20",
+        "title": "腐食管理による保全コスト削減 第１回 大気腐食モニタリングによる腐食速度評価 –",
+        "source": "電気新聞ウェブサイト",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yY3psTE8wSzFieWxHUmxidDBPb0xiY180cm9yYnpkcWZBeThXcjdBWGdlY29rdTctbTQ0TFdLd3ZLajVQUWtMUmhyS1hZUlk?oc=5",
+        "publishedAt": "2026-09-25T06:20:46.000Z"
       }
     ],
     "worldHeadlines": [
