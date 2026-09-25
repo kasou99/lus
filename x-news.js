@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T06:31:47.360Z",
+  "updatedAt": "2026-09-25T07:22:20.203Z",
   "items": [
     {
-      "time": "12:41",
-      "title": "10/2頃まで 雨の日多くなる予想",
+      "time": "15:28",
+      "title": "台風25号 激甚災害に指定の見通し",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596473?source=rss",
-      "publishedAt": "2026-09-25T03:41:21.000Z",
-      "xQuery": "10/2頃まで 雨の日多くなる予想"
+      "url": "https://news.yahoo.co.jp/pickup/6596487?source=rss",
+      "publishedAt": "2026-09-25T06:28:00.000Z",
+      "xQuery": "台風25号 激甚災害に指定の見通し"
     },
     {
       "time": "13:34",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "蘭首相 ICCへの米「攻撃」を批判"
     },
     {
-      "time": "12:54",
-      "title": "配達先で少女にわいせつ疑い 逮捕",
+      "time": "15:28",
+      "title": "群馬の住宅で女性死亡 男が逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596474?source=rss",
-      "publishedAt": "2026-09-25T03:54:19.000Z",
-      "xQuery": "配達先で少女にわいせつ疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6596486?source=rss",
+      "publishedAt": "2026-09-25T06:28:29.000Z",
+      "xQuery": "群馬の住宅で女性死亡 男が逃走"
     }
   ]
 };

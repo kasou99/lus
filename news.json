@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T06:31:46.199Z",
+  "updatedAt": "2026-09-25T07:22:18.939Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-09-25T02:00:00.000Z"
       },
       {
-        "time": "12:29",
-        "title": "工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション - hokkaido-np.co.jp",
-        "source": "hokkaido-np.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMDBGclZHRTdUakFSNWFZWTVBLWJwRE5PR3RZUHNGM2x5VXNDRnFWMlowcU9ybkNRcXUweURWNU11Rk1QVTUyN0xJOTNDbWgyWXozbDIxQy12WUFDNHRHWDdaTlVZbU5YbExRdlU2cE5ZdWFCM1FFajZfRHFvd29jX3BjblQ4VEg2?oc=5",
-        "publishedAt": "2026-09-25T03:29:12.000Z"
-      },
-      {
         "time": "11:00",
         "title": "写真：工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション",
         "source": "沖縄タイムス社",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tN2xMZ0NyVkdheXNUMHRfdVNaQ1FmVXZRRkx4dkQxdjlxY2FZYXNaN2RvdWRvQkVfWE44SC1obXYtSGZJMWZxdXFRcjVHdV9Ta09UMzllVW9vd1g4S1lzR25LVjBWQQ?oc=5",
         "publishedAt": "2026-09-25T02:00:00.000Z"
+      },
+      {
+        "time": "10:01",
+        "title": "ソディック、JIMTOF2026に出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDRVJ4UEVjaktUSjRuWUo1Q1ZTMTRRNUt3NEtXdjFjSjdIMk4xejBSMlRVTTVRb1FEM09fQ1NoUE0zdjRBbk93YmNwQklGVm1lOUExUmoyOEREZEFVY3NCbUttZVo3U0kxQkE?oc=5",
+        "publishedAt": "2026-09-25T01:01:12.000Z"
       },
       {
         "time": "08:20",
@@ -31,13 +31,6 @@
         "publishedAt": "2026-09-24T23:20:44.000Z"
       },
       {
-        "time": "10:00",
-        "title": "組み込み型インテリジェント駆動モーターの世界市場（2026年～2032年）、市場規模（ステッピングモーター、サーボモーター、コアレスモーター、フレームレストルクモーター）...",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XelZhdW1pMUUtb3NBQm85ZmZNTnFmV3V1RWpxZDhDMXJlOUFNcUFZdUhFQnI5SHJUNmlvWXlKNTlTR3JINnVWQWN5RmI1QzA?oc=5",
-        "publishedAt": "2026-09-25T01:00:00.000Z"
-      },
-      {
         "time": "05:00",
         "title": "車部品の加工にヒト型ロボ YUASA､中小売り込みへ実証",
         "source": "日本経済新聞",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-09-24T20:00:00.000Z"
       },
       {
-        "time": "14:21",
-        "title": "ソディック、JIMTOF2026に出展",
-        "source": "news.nicovideo.jp",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oVDdWWU04R0tULXhBQlE1LUozeFZhQTNTeXJDdkE4TWxJZ25TdkRCSVB4aVpTVndwdkc4MDItbjVRZ05jTFJpQWVKNExvNmZwUkphMDlPdlBxdnB3R1dDUmo4QWRLUmdCbmxnUmpDYjI1bVB3VmxVR1c5SQ?oc=5",
-        "publishedAt": "2026-09-25T05:21:32.000Z"
-      },
-      {
         "time": "05:00",
         "title": "三菱UFJFG、デジタル銀が免許取得 リテール事業拡充",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiektXN0N3ZjdXaGpOT29rSGV5cEdaaUM3cF84V0hqTzVIaGpLc09oVjBqdTFycGM5YkFPbm0waEp4d2R3OEZEbHI5cjFxWWtSWjF2UkRQUTA?oc=5",
         "publishedAt": "2026-09-24T20:00:00.000Z"
+      },
+      {
+        "time": "12:13",
+        "title": "協和機工、Fluke製品の国内向けカタログサイトを開設",
+        "source": "イザ！",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ORTlEd2FQUHNXbVUyMjUwTWZSSkswUFE1LW5ubU9tMlduMXFlUEFQSUFSUzl1dnV3UFZKNzYwNlZvVWlHbFk2YXczYVEwU1JVU3NCTDVFRkpWTTFCT3VjT3BTVFdzWHNIbFNIYkxmUGtpd1pyU3BuX3BR?oc=5",
+        "publishedAt": "2026-09-25T03:13:24.000Z"
+      },
+      {
+        "time": "13:15",
+        "title": "【小杉取締役に聞く】成長市場を加工技術の足元から支えるユキワ精工 - | 製造現場ドットコム",
+        "source": "| 製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51MG9mX2d5TC1IQVhtNDIxWVQ1RkVYLXhXUksxamVCNGhsVjA3bUtOX2lEUU1Ud2x4OXBnT2d1STdkdDQtS1pzWVdR?oc=5",
+        "publishedAt": "2026-09-25T04:15:44.000Z"
       }
     ],
     "worldHeadlines": [
