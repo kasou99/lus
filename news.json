@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-09-25T13:17:32.838Z",
+  "updatedAt": "2026-09-25T13:40:03.333Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "17:04",
-        "title": "工作機械受注が好調 ― 過去最高ペースを維持",
-        "source": "マシニスト出版",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zYUdxa3NGRk80WTg4dFYyRTdmTmhWQUZWSGtaLXN5Z052R1BuT2pTUi1vRlBUdVduZkRGRFRMWmxsWm16ZnlabUp0cDlkOFFqRy1GRw?oc=5",
-        "publishedAt": "2026-09-25T08:04:51.000Z"
-      },
       {
         "time": "11:00",
         "title": "工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション",
@@ -57,6 +50,13 @@
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51MG9mX2d5TC1IQVhtNDIxWVQ1RkVYLXhXUksxamVCNGhsVjA3bUtOX2lEUU1Ud2x4OXBnT2d1STdkdDQtS1pzWVdR?oc=5",
         "publishedAt": "2026-09-25T04:15:44.000Z"
+      },
+      {
+        "time": "05:05",
+        "title": "日本電気制御盤上位10社ランキング",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZQTc1NnBEei1sYmRucEpINFVELUJMV0pIYk5JRWlsQWNybTdkRFZFeU12WFFoSWRwZ0poTHE4dVkwRUdjdWFhRUpB?oc=5",
+        "publishedAt": "2026-09-24T20:05:52.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-09-25T11:19:10.000Z"
       },
       {
+        "time": "22:34",
+        "title": "群馬で女性死亡 逃亡男性は知人か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596549?source=rss",
+        "publishedAt": "2026-09-25T13:34:44.000Z"
+      },
+      {
         "time": "18:39",
         "title": "離島に子の遺体 事件性疑う傷なし",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596525?source=rss",
         "publishedAt": "2026-09-25T09:39:55.000Z"
-      },
-      {
-        "time": "16:30",
-        "title": "群馬の住宅で女性死亡 男が逃走",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596497?source=rss",
-        "publishedAt": "2026-09-25T07:30:17.000Z"
       },
       {
         "time": "17:58",

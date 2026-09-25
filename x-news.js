@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T13:17:34.014Z",
+  "updatedAt": "2026-09-25T13:40:04.453Z",
   "items": [
     {
       "time": "22:12",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "亀岡偉民・元衆院議員に有罪判決"
     },
     {
-      "time": "19:36",
-      "title": "26日 関東は警報級大雨の恐れ",
+      "time": "22:34",
+      "title": "群馬で女性死亡 逃亡男性は知人か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596530?source=rss",
-      "publishedAt": "2026-09-25T10:36:09.000Z",
-      "xQuery": "26日 関東は警報級大雨の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6596549?source=rss",
+      "publishedAt": "2026-09-25T13:34:44.000Z",
+      "xQuery": "群馬で女性死亡 逃亡男性は知人か"
     },
     {
       "time": "21:23",
