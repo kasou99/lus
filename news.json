@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T03:43:59.706Z",
+  "updatedAt": "2026-09-25T04:21:45.135Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-09-24T23:20:44.000Z"
       },
       {
+        "time": "10:01",
+        "title": "ソディック、JIMTOF2026に出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDRVJ4UEVjaktUSjRuWUo1Q1ZTMTRRNUt3NEtXdjFjSjdIMk4xejBSMlRVTTVRb1FEM09fQ1NoUE0zdjRBbk93YmNwQklGVm1lOUExUmoyOEREZEFVY3NCbUttZVo3U0kxQkE?oc=5",
+        "publishedAt": "2026-09-25T01:01:12.000Z"
+      },
+      {
         "time": "10:00",
         "title": "組み込み型インテリジェント駆動モーターの世界市場（2026年～2032年）、市場規模（ステッピングモーター、サーボモーター、コアレスモーター、フレームレストルクモーター）...",
         "source": "アットプレス",
@@ -24,23 +31,16 @@
         "publishedAt": "2026-09-25T01:00:00.000Z"
       },
       {
-        "time": "11:46",
-        "title": "ソディック、JIMTOF2026に出展：時事ドットコム",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNZG5nS3JMRExGR2RfLTJ5eXJSYk0tRDFkWHMwdmtBbkl2ZWFnNHF0VVR1eXpTYnJqN0FQdnVEYmlrZjRLNlpMOXpyT2Uzd2VhRjE3RlhNLW9XR1FhRlIxSldDVGVWQkQxOC1N?oc=5",
-        "publishedAt": "2026-09-25T02:46:00.000Z"
-      },
-      {
         "time": "05:00",
         "title": "車部品の加工にヒト型ロボ YUASA､中小売り込みへ実証",
-        "source": "nikkei.com",
+        "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUTdQN3ZQSG9BWlJfMXJONmg5V3lMRTNoaUVWZzVSTTQ3bzd2UjdUTGlmaTRBektsdHVNSkxua3VZbm9VM3FmRkk4RFRWTkdWVVRRLTFzUmZ4ZmhJaGNCd1ZSN3ViYndiZUFXSzVmSlVlV2xkclNDdWl0Z25VYlE?oc=5",
         "publishedAt": "2026-09-24T20:00:00.000Z"
       },
       {
         "time": "05:00",
         "title": "三菱UFJFG、デジタル銀が免許取得 リテール事業拡充",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiektXN0N3ZjdXaGpOT29rSGV5cEdaaUM3cF84V0hqTzVIaGpLc09oVjBqdTFycGM5YkFPbm0waEp4d2R3OEZEbHI5cjFxWWtSWjF2UkRQUTA?oc=5",
         "publishedAt": "2026-09-24T20:00:00.000Z"
       },
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "13:19",
+        "title": "中部電 浜岡の再稼働申請取り下げ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596476?source=rss",
+        "publishedAt": "2026-09-25T04:19:30.000Z"
+      },
+      {
         "time": "11:13",
         "title": "長期金利一時3.115% 30年ぶり水準",
         "source": "Yahoo!ニュース",
@@ -133,13 +140,6 @@
         "publishedAt": "2026-09-25T01:04:50.000Z"
       },
       {
-        "time": "14:49",
-        "title": "ジャングリア親会社 173億円赤字",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596367?source=rss",
-        "publishedAt": "2026-09-24T05:49:43.000Z"
-      },
-      {
         "time": "08:09",
         "title": "意図せず資金移動 楽天証券不具合",
         "source": "Yahoo!ニュース",
@@ -156,6 +156,13 @@
         "publishedAt": "2026-09-24T09:52:18.000Z"
       },
       {
+        "time": "21:42",
+        "title": "崖崩落で死亡 夫が過去に対応要求",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596413?source=rss",
+        "publishedAt": "2026-09-24T12:42:39.000Z"
+      },
+      {
         "time": "12:13",
         "title": "車と衝突 自転車の男子高校生重体",
         "source": "Yahoo!ニュース",
@@ -163,11 +170,11 @@
         "publishedAt": "2026-09-25T03:13:36.000Z"
       },
       {
-        "time": "21:42",
-        "title": "崖崩落で死亡 夫が過去に対応要求",
+        "time": "12:54",
+        "title": "配達先で少女にわいせつ疑い 逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596413?source=rss",
-        "publishedAt": "2026-09-24T12:42:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596474?source=rss",
+        "publishedAt": "2026-09-25T03:54:19.000Z"
       },
       {
         "time": "23:29",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596438?source=rss",
         "publishedAt": "2026-09-24T22:50:23.000Z"
-      },
-      {
-        "time": "14:16",
-        "title": "中学生10人に追われ観念 男を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596363?source=rss",
-        "publishedAt": "2026-09-24T05:16:59.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T03:44:00.344Z",
+  "updatedAt": "2026-09-25T04:21:45.975Z",
   "items": [
     {
       "time": "11:49",
@@ -10,20 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏が円安けん制 会談で"
     },
     {
-      "time": "11:13",
-      "title": "長期金利一時3.115% 30年ぶり水準",
+      "time": "13:19",
+      "title": "中部電 浜岡の再稼働申請取り下げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596462?source=rss",
-      "publishedAt": "2026-09-25T02:13:35.000Z",
-      "xQuery": "長期金利一時3.115% 30年ぶり水準"
+      "url": "https://news.yahoo.co.jp/pickup/6596476?source=rss",
+      "publishedAt": "2026-09-25T04:19:30.000Z",
+      "xQuery": "中部電 浜岡の再稼働申請取り下げ"
     },
     {
-      "time": "11:01",
-      "title": "両陛下 29日に熊本地震被災地訪問",
+      "time": "12:41",
+      "title": "10/2頃まで 雨の日多くなる予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596459?source=rss",
-      "publishedAt": "2026-09-25T02:01:10.000Z",
-      "xQuery": "両陛下 29日に熊本地震被災地訪問"
+      "url": "https://news.yahoo.co.jp/pickup/6596473?source=rss",
+      "publishedAt": "2026-09-25T03:41:21.000Z",
+      "xQuery": "10/2頃まで 雨の日多くなる予想"
+    },
+    {
+      "time": "12:54",
+      "title": "配達先で少女にわいせつ疑い 逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596474?source=rss",
+      "publishedAt": "2026-09-25T03:54:19.000Z",
+      "xQuery": "配達先で少女にわいせつ疑い 逮捕"
     },
     {
       "time": "12:13",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596471?source=rss",
       "publishedAt": "2026-09-25T03:13:36.000Z",
       "xQuery": "車と衝突 自転車の男子高校生重体"
-    },
-    {
-      "time": "11:11",
-      "title": "スタバ 北米で250店舗を閉鎖へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596460?source=rss",
-      "publishedAt": "2026-09-25T02:11:25.000Z",
-      "xQuery": "スタバ 北米で250店舗を閉鎖へ"
     }
   ]
 };
