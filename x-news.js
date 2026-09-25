@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T10:40:33.619Z",
+  "updatedAt": "2026-09-25T11:16:39.417Z",
   "items": [
     {
       "time": "18:12",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "行方不明から10年 娘の帰り待つ父"
     },
     {
+      "time": "19:36",
+      "title": "26日 関東は警報級大雨の恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596530?source=rss",
+      "publishedAt": "2026-09-25T10:36:09.000Z",
+      "xQuery": "26日 関東は警報級大雨の恐れ"
+    },
+    {
       "time": "18:39",
       "title": "離島に子の遺体 事件性疑う傷なし",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "離島に子の遺体 事件性疑う傷なし"
     },
     {
-      "time": "17:05",
-      "title": "ahamo「大盛りオプション」終了へ",
+      "time": "20:08",
+      "title": "ドンキ 10月からPBビール値下げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596506?source=rss",
-      "publishedAt": "2026-09-25T08:05:50.000Z",
-      "xQuery": "ahamo「大盛りオプション」終了へ"
-    },
-    {
-      "time": "19:09",
-      "title": "ボンカレーなど値上げへ 大塚食品",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596528?source=rss",
-      "publishedAt": "2026-09-25T10:09:00.000Z",
-      "xQuery": "ボンカレーなど値上げへ 大塚食品"
+      "url": "https://news.yahoo.co.jp/pickup/6596532?source=rss",
+      "publishedAt": "2026-09-25T11:08:52.000Z",
+      "xQuery": "ドンキ 10月からPBビール値下げ"
     }
   ]
 };
