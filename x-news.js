@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T04:44:16.131Z",
+  "updatedAt": "2026-09-25T05:18:25.002Z",
   "items": [
     {
       "time": "11:49",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596467?source=rss",
       "publishedAt": "2026-09-25T02:49:28.000Z",
       "xQuery": "トランプ氏が円安けん制 会談で"
-    },
-    {
-      "time": "13:19",
-      "title": "中部電 浜岡の再稼働申請取り下げ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596476?source=rss",
-      "publishedAt": "2026-09-25T04:19:30.000Z",
-      "xQuery": "中部電 浜岡の再稼働申請取り下げ"
     },
     {
       "time": "12:41",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596474?source=rss",
       "publishedAt": "2026-09-25T03:54:19.000Z",
       "xQuery": "配達先で少女にわいせつ疑い 逮捕"
+    },
+    {
+      "time": "13:55",
+      "title": "熱帯性ウミガメ 米加州海岸で産卵",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596480?source=rss",
+      "publishedAt": "2026-09-25T04:55:09.000Z",
+      "xQuery": "熱帯性ウミガメ 米加州海岸で産卵"
     }
   ]
 };

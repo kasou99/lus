@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T04:44:15.444Z",
+  "updatedAt": "2026-09-25T05:18:24.463Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-09-25T01:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "車部品の加工にヒト型ロボ YUASA､中小売り込みへ実証",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUTdQN3ZQSG9BWlJfMXJONmg5V3lMRTNoaUVWZzVSTTQ3bzd2UjdUTGlmaTRBektsdHVNSkxua3VZbm9VM3FmRkk4RFRWTkdWVVRRLTFzUmZ4ZmhJaGNCd1ZSN3ViYndiZUFXSzVmSlVlV2xkclNDdWl0Z25VYlE?oc=5",
-        "publishedAt": "2026-09-24T20:00:00.000Z"
-      },
-      {
         "time": "11:45",
         "title": "ソディック、JIMTOF2026に出展｜Infoseekニュース",
         "source": "Infoseek",
@@ -46,8 +39,15 @@
       },
       {
         "time": "05:00",
+        "title": "車部品の加工にヒト型ロボ YUASA､中小売り込みへ実証",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUTdQN3ZQSG9BWlJfMXJONmg5V3lMRTNoaUVWZzVSTTQ3bzd2UjdUTGlmaTRBektsdHVNSkxua3VZbm9VM3FmRkk4RFRWTkdWVVRRLTFzUmZ4ZmhJaGNCd1ZSN3ViYndiZUFXSzVmSlVlV2xkclNDdWl0Z25VYlE?oc=5",
+        "publishedAt": "2026-09-24T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
         "title": "三菱UFJFG、デジタル銀が免許取得 リテール事業拡充",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiektXN0N3ZjdXaGpOT29rSGV5cEdaaUM3cF84V0hqTzVIaGpLc09oVjBqdTFycGM5YkFPbm0waEp4d2R3OEZEbHI5cjFxWWtSWjF2UkRQUTA?oc=5",
         "publishedAt": "2026-09-24T20:00:00.000Z"
       },
