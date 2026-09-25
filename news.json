@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T11:16:38.673Z",
+  "updatedAt": "2026-09-25T11:39:27.467Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-09-25T09:12:19.000Z"
       },
       {
+        "time": "20:19",
+        "title": "亀岡偉民・元衆院議員に有罪判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596534?source=rss",
+        "publishedAt": "2026-09-25T11:19:10.000Z"
+      },
+      {
         "time": "18:39",
         "title": "離島に子の遺体 事件性疑う傷なし",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596502?source=rss",
         "publishedAt": "2026-09-25T07:47:58.000Z"
-      },
-      {
-        "time": "17:09",
-        "title": "元力士が不明の高齢者を保護 担ぐ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596503?source=rss",
-        "publishedAt": "2026-09-25T08:09:22.000Z"
       }
     ],
     "subsidyHeadlines": [
