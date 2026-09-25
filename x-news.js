@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T08:46:10.821Z",
+  "updatedAt": "2026-09-25T09:20:25.557Z",
   "items": [
     {
       "time": "16:31",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "18歳未満選挙運動 一律禁止は違憲"
     },
     {
-      "time": "15:28",
-      "title": "台風25号 激甚災害に指定の見通し",
+      "time": "16:40",
+      "title": "JR九州27年度にも新金融サービス",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596487?source=rss",
-      "publishedAt": "2026-09-25T06:28:00.000Z",
-      "xQuery": "台風25号 激甚災害に指定の見通し"
+      "url": "https://news.yahoo.co.jp/pickup/6596500?source=rss",
+      "publishedAt": "2026-09-25T07:40:48.000Z",
+      "xQuery": "JR九州27年度にも新金融サービス"
     },
     {
-      "time": "17:09",
-      "title": "元力士が不明の高齢者を保護 担ぐ",
+      "time": "17:05",
+      "title": "姫路独協大 徳洲会に経営権譲渡へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596503?source=rss",
-      "publishedAt": "2026-09-25T08:09:22.000Z",
-      "xQuery": "元力士が不明の高齢者を保護 担ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6596507?source=rss",
+      "publishedAt": "2026-09-25T08:05:35.000Z",
+      "xQuery": "姫路独協大 徳洲会に経営権譲渡へ"
     },
     {
       "time": "17:05",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ahamo「大盛りオプション」終了へ"
     },
     {
-      "time": "17:18",
-      "title": "チーバくん県外活動休止 広報回答",
+      "time": "17:40",
+      "title": "市販ナビ ストラーダ生産終了へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596510?source=rss",
-      "publishedAt": "2026-09-25T08:18:10.000Z",
-      "xQuery": "チーバくん県外活動休止 広報回答"
+      "url": "https://news.yahoo.co.jp/pickup/6596512?source=rss",
+      "publishedAt": "2026-09-25T08:40:26.000Z",
+      "xQuery": "市販ナビ ストラーダ生産終了へ"
     }
   ]
 };
