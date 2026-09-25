@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T05:18:24.463Z",
+  "updatedAt": "2026-09-25T05:41:19.598Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-09-25T01:00:00.000Z"
       },
       {
-        "time": "11:45",
-        "title": "ソディック、JIMTOF2026に出展｜Infoseekニュース",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yYWRmR3d6VUd3V1ZMNGI0YW41RmRqcS1panlWSmJTQ3YxV2s2NE9tcnBHX2R1ZFZ0WHo2TndGTHF2VFlFbzlfdFpUdWFZMWcxMXVSaUZOV2VUaWlCRFhVQ1ZTNEtaM0VWUHh3VjkxMExrQQ?oc=5",
-        "publishedAt": "2026-09-25T02:45:36.000Z"
-      },
-      {
         "time": "05:00",
         "title": "車部品の加工にヒト型ロボ YUASA､中小売り込みへ実証",
         "source": "日本経済新聞",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-09-24T20:00:00.000Z"
       },
       {
+        "time": "14:21",
+        "title": "ソディック、JIMTOF2026に出展",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oVDdWWU04R0tULXhBQlE1LUozeFZhQTNTeXJDdkE4TWxJZ25TdkRCSVB4aVpTVndwdkc4MDItbjVRZ05jTFJpQWVKNExvNmZwUkphMDlPdlBxdnB3R1dDUmo4QWRLUmdCbmxnUmpDYjI1bVB3VmxVR1c5SQ?oc=5",
+        "publishedAt": "2026-09-25T05:21:32.000Z"
+      },
+      {
         "time": "05:00",
         "title": "三菱UFJFG、デジタル銀が免許取得 リテール事業拡充",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiektXN0N3ZjdXaGpOT29rSGV5cEdaaUM3cF84V0hqTzVIaGpLc09oVjBqdTFycGM5YkFPbm0waEp4d2R3OEZEbHI5cjFxWWtSWjF2UkRQUTA?oc=5",
         "publishedAt": "2026-09-24T20:00:00.000Z"
       },
       {
-        "time": "05:05",
-        "title": "日本電気制御盤上位10社ランキング",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZQTc1NnBEei1sYmRucEpINFVELUJMV0pIYk5JRWlsQWNybTdkRFZFeU12WFFoSWRwZ0poTHE4dVkwRUdjdWFhRUpB?oc=5",
-        "publishedAt": "2026-09-24T20:05:52.000Z"
+        "time": "13:15",
+        "title": "【小杉取締役に聞く】成長市場を加工技術の足元から支えるユキワ精工 - | 製造現場ドットコム",
+        "source": "| 製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51MG9mX2d5TC1IQVhtNDIxWVQ1RkVYLXhXUksxamVCNGhsVjA3bUtOX2lEUU1Ud2x4OXBnT2d1STdkdDQtS1pzWVdR?oc=5",
+        "publishedAt": "2026-09-25T04:15:44.000Z"
       }
     ],
     "worldHeadlines": [
