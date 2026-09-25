@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T00:48:03.662Z",
+  "updatedAt": "2026-09-25T01:27:58.241Z",
   "items": [
     {
       "time": "09:00",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "米中首脳 ワインで友好ムード演出"
     },
     {
-      "time": "08:09",
-      "title": "意図せず資金移動 楽天証券不具合",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596439?source=rss",
-      "publishedAt": "2026-09-24T23:09:30.000Z",
-      "xQuery": "意図せず資金移動 楽天証券不具合"
-    },
-    {
       "time": "08:58",
       "title": "ICC脱退呼びかけ呼応 ナウルだけ",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ICC脱退呼びかけ呼応 ナウルだけ"
     },
     {
+      "time": "09:50",
+      "title": "旧敵国条項 日中に新たな火種か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596453?source=rss",
+      "publishedAt": "2026-09-25T00:50:14.000Z",
+      "xQuery": "旧敵国条項 日中に新たな火種か"
+    },
+    {
+      "time": "10:04",
+      "title": "全東信破産 カード会社が支払いへ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596454?source=rss",
+      "publishedAt": "2026-09-25T01:04:50.000Z",
+      "xQuery": "全東信破産 カード会社が支払いへ"
+    },
+    {
       "time": "08:27",
       "title": "スマホで撮影され合鍵複製 防衛策",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596443?source=rss",
       "publishedAt": "2026-09-24T23:27:01.000Z",
       "xQuery": "スマホで撮影され合鍵複製 防衛策"
-    },
-    {
-      "time": "07:57",
-      "title": "ファミマ「バイト改革」なぜ今",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596440?source=rss",
-      "publishedAt": "2026-09-24T22:57:39.000Z",
-      "xQuery": "ファミマ「バイト改革」なぜ今"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T00:48:02.799Z",
+  "updatedAt": "2026-09-25T01:27:57.353Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,20 @@
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PQk9FSmVfcW1zbjVtY0Rsak02em13OTVNZEFwelJWc0VHWWVvQTl3Y0tZdW04MklBRXJPWmhDamlNa3dTM2pnaGh3?oc=5",
         "publishedAt": "2026-09-24T23:20:44.000Z"
+      },
+      {
+        "time": "10:01",
+        "title": "ソディック、JIMTOF2026に出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDRVJ4UEVjaktUSjRuWUo1Q1ZTMTRRNUt3NEtXdjFjSjdIMk4xejBSMlRVTTVRb1FEM09fQ1NoUE0zdjRBbk93YmNwQklGVm1lOUExUmoyOEREZEFVY3NCbUttZVo3U0kxQkE?oc=5",
+        "publishedAt": "2026-09-25T01:01:12.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "組み込み型インテリジェント駆動モーターの世界市場（2026年～2032年）、市場規模（ステッピングモーター、サーボモーター、コアレスモーター、フレームレストルクモーター）...",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XelZhdW1pMUUtb3NBQm85ZmZNTnFmV3V1RWpxZDhDMXJlOUFNcUFZdUhFQnI5SHJUNmlvWXlKNTlTR3JINnVWQWN5RmI1QzA?oc=5",
+        "publishedAt": "2026-09-25T01:00:00.000Z"
       },
       {
         "time": "05:00",
@@ -40,23 +54,9 @@
       {
         "time": "11:10",
         "title": "船井総研あがたFAS、無料セミナー「商社・卸業(機械要素部品・工作機械・機械工具・包装資材)向けM&A戦略セミナー」を2026年11月5日に東京で開催。M&Aを重ねた譲受企業の戦略と社員の体験談を公開",
-        "source": "prtimes.jp",
+        "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40Z0VoXzFra2I2dVBPNkVQUWsxdEtaZGY3dmdNLVM0VW80d3pITktNM1paSTJHc0RrNnJJQWVkejg3YUFJOHNiU2gtQWFOT2hEd1hvTDMwUzdZX2JEdExZMnF3Vl9pbjY2Mnc?oc=5",
         "publishedAt": "2026-09-24T02:10:02.000Z"
-      },
-      {
-        "time": "13:28",
-        "title": "日本市場におけるフレームレストルクモーターの市場規模：売上規模・シェア・主要事業者別ランキング",
-        "source": "Newscast.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYYXN0WVlObFpjVU1kSjJMaEZZRGNNQnZBTWZLZEpWZ1dUNXBrZGdGNk96ZmdlNjJYbS1YRVhhNEpETmg5WEZvX0VrVUlpUjA?oc=5",
-        "publishedAt": "2026-09-24T04:28:00.000Z"
-      },
-      {
-        "time": "19:45",
-        "title": "ジェイテクト、グループ会社 ジェイテクトグラインディングツール、円筒研削加工用ビトリファイドCBNホイール「削楽Air」新開発",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DUTNxVzJDRFhibDVKMnBpNWFScW9nNk54RXE5aHRmR0hmLW9SS2YyNG9IUHdPR2I2THktSkZwUlVCbC1HYWJaYk1NUVE5dlFoX0ZSUw?oc=5",
-        "publishedAt": "2026-09-24T10:45:22.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-09-25T00:00:19.000Z"
       },
       {
+        "time": "09:50",
+        "title": "旧敵国条項 日中に新たな火種か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596453?source=rss",
+        "publishedAt": "2026-09-25T00:50:14.000Z"
+      },
+      {
         "time": "06:27",
         "title": "米イラン 段階的な戦闘終結⁠模索",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596446?source=rss",
         "publishedAt": "2026-09-24T23:58:18.000Z"
-      },
-      {
-        "time": "09:43",
-        "title": "排除3社 ホワイトハウス入構可に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596452?source=rss",
-        "publishedAt": "2026-09-25T00:43:56.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,11 +119,11 @@
         "publishedAt": "2026-09-24T22:33:21.000Z"
       },
       {
-        "time": "11:48",
-        "title": "東京都の中古マンション 価格下落",
+        "time": "10:04",
+        "title": "全東信破産 カード会社が支払いへ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596346?source=rss",
-        "publishedAt": "2026-09-24T02:48:51.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596454?source=rss",
+        "publishedAt": "2026-09-25T01:04:50.000Z"
       },
       {
         "time": "14:49",
@@ -140,11 +140,11 @@
         "publishedAt": "2026-09-24T23:09:30.000Z"
       },
       {
-        "time": "09:30",
-        "title": "ご当地駅メロ 首都圏で廃止続く訳",
+        "time": "10:13",
+        "title": "日高屋と幸楽苑 成長を続ける理由",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596451?source=rss",
-        "publishedAt": "2026-09-25T00:30:04.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596455?source=rss",
+        "publishedAt": "2026-09-25T01:13:59.000Z"
       }
     ],
     "localHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       }
