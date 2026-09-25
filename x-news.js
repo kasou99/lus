@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T04:21:45.975Z",
+  "updatedAt": "2026-09-25T04:44:16.131Z",
   "items": [
     {
       "time": "11:49",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "10/2頃まで 雨の日多くなる予想"
     },
     {
+      "time": "13:34",
+      "title": "印旛沼の決壊堤防 緊急復旧に着手",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596477?source=rss",
+      "publishedAt": "2026-09-25T04:34:55.000Z",
+      "xQuery": "印旛沼の決壊堤防 緊急復旧に着手"
+    },
+    {
       "time": "12:54",
       "title": "配達先で少女にわいせつ疑い 逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596474?source=rss",
       "publishedAt": "2026-09-25T03:54:19.000Z",
       "xQuery": "配達先で少女にわいせつ疑い 逮捕"
-    },
-    {
-      "time": "12:13",
-      "title": "車と衝突 自転車の男子高校生重体",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596471?source=rss",
-      "publishedAt": "2026-09-25T03:13:36.000Z",
-      "xQuery": "車と衝突 自転車の男子高校生重体"
     }
   ]
 };

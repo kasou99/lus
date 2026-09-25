@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T04:21:45.135Z",
+  "updatedAt": "2026-09-25T04:44:15.444Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,18 +10,18 @@
         "publishedAt": "2026-09-25T02:00:00.000Z"
       },
       {
+        "time": "11:00",
+        "title": "写真：工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション",
+        "source": "沖縄タイムス社",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tN2xMZ0NyVkdheXNUMHRfdVNaQ1FmVXZRRkx4dkQxdjlxY2FZYXNaN2RvdWRvQkVfWE44SC1obXYtSGZJMWZxdXFRcjVHdV9Ta09UMzllVW9vd1g4S1lzR25LVjBWQQ?oc=5",
+        "publishedAt": "2026-09-25T02:00:00.000Z"
+      },
+      {
         "time": "08:20",
         "title": "DMG MORI Precision Boring 高剛性・高速の横中ぐりマシニングセンタ「PBN 200 | 1250」を発売 ～主軸出力80 kW、早送り速度25 m/minで重切削と高効率な連続加工を両立 - | 製造現場ドットコム",
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PQk9FSmVfcW1zbjVtY0Rsak02em13OTVNZEFwelJWc0VHWWVvQTl3Y0tZdW04MklBRXJPWmhDamlNa3dTM2pnaGh3?oc=5",
         "publishedAt": "2026-09-24T23:20:44.000Z"
-      },
-      {
-        "time": "10:01",
-        "title": "ソディック、JIMTOF2026に出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDRVJ4UEVjaktUSjRuWUo1Q1ZTMTRRNUt3NEtXdjFjSjdIMk4xejBSMlRVTTVRb1FEM09fQ1NoUE0zdjRBbk93YmNwQklGVm1lOUExUmoyOEREZEFVY3NCbUttZVo3U0kxQkE?oc=5",
-        "publishedAt": "2026-09-25T01:01:12.000Z"
       },
       {
         "time": "10:00",
@@ -38,9 +38,16 @@
         "publishedAt": "2026-09-24T20:00:00.000Z"
       },
       {
+        "time": "11:45",
+        "title": "ソディック、JIMTOF2026に出展｜Infoseekニュース",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yYWRmR3d6VUd3V1ZMNGI0YW41RmRqcS1panlWSmJTQ3YxV2s2NE9tcnBHX2R1ZFZ0WHo2TndGTHF2VFlFbzlfdFpUdWFZMWcxMXVSaUZOV2VUaWlCRFhVQ1ZTNEtaM0VWUHh3VjkxMExrQQ?oc=5",
+        "publishedAt": "2026-09-25T02:45:36.000Z"
+      },
+      {
         "time": "05:00",
         "title": "三菱UFJFG、デジタル銀が免許取得 リテール事業拡充",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiektXN0N3ZjdXaGpOT29rSGV5cEdaaUM3cF84V0hqTzVIaGpLc09oVjBqdTFycGM5YkFPbm0waEp4d2R3OEZEbHI5cjFxWWtSWjF2UkRQUTA?oc=5",
         "publishedAt": "2026-09-24T20:00:00.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZQTc1NnBEei1sYmRucEpINFVELUJMV0pIYk5JRWlsQWNybTdkRFZFeU12WFFoSWRwZ0poTHE4dVkwRUdjdWFhRUpB?oc=5",
         "publishedAt": "2026-09-24T20:05:52.000Z"
-      },
-      {
-        "time": "08:20",
-        "title": "【小杉取締役に聞く】成長市場を加工技術の足元から支えるユキワ精工 - | 製造現場ドットコム",
-        "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51MG9mX2d5TC1IQVhtNDIxWVQ1RkVYLXhXUksxamVCNGhsVjA3bUtOX2lEUU1Ud2x4OXBnT2d1STdkdDQtS1pzWVdR?oc=5",
-        "publishedAt": "2026-09-24T23:20:54.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-09-24T12:42:39.000Z"
       },
       {
+        "time": "13:34",
+        "title": "印旛沼の決壊堤防 緊急復旧に着手",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596477?source=rss",
+        "publishedAt": "2026-09-25T04:34:55.000Z"
+      },
+      {
         "time": "12:13",
         "title": "車と衝突 自転車の男子高校生重体",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596425?source=rss",
         "publishedAt": "2026-09-24T14:29:36.000Z"
-      },
-      {
-        "time": "07:50",
-        "title": "返礼品の越前がに違法表示 福井",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596438?source=rss",
-        "publishedAt": "2026-09-24T22:50:23.000Z"
       }
     ],
     "subsidyHeadlines": [
