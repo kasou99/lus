@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T14:19:44.659Z",
+  "updatedAt": "2026-09-25T14:41:58.637Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,16 +38,9 @@
         "publishedAt": "2026-09-25T01:01:12.000Z"
       },
       {
-        "time": "21:15",
-        "title": "協和機工、Fluke製品の国内向けカタログサイトを開設",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rNHk1ck9VQWE1RmNPS3BYSGtWdEdtdUl5NjJaUG16aTVpNldGMkItU2Nzem5mUnRjYlFLSUpnMGNEQ0FDM3RvdVlwSUtsRG5TSFRockI0VWZ2Z0hBaEcwMzB5OVN0MjVyalhqdlFCTEdndEVVME5JMDNjNA?oc=5",
-        "publishedAt": "2026-09-25T12:15:55.000Z"
-      },
-      {
         "time": "05:00",
         "title": "車部品の加工にヒト型ロボ YUASA､中小売り込みへ実証",
-        "source": "nikkei.com",
+        "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUTdQN3ZQSG9BWlJfMXJONmg5V3lMRTNoaUVWZzVSTTQ3bzd2UjdUTGlmaTRBektsdHVNSkxua3VZbm9VM3FmRkk4RFRWTkdWVVRRLTFzUmZ4ZmhJaGNCd1ZSN3ViYndiZUFXSzVmSlVlV2xkclNDdWl0Z25VYlE?oc=5",
         "publishedAt": "2026-09-24T20:00:00.000Z"
       },
@@ -57,6 +50,13 @@
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51MG9mX2d5TC1IQVhtNDIxWVQ1RkVYLXhXUksxamVCNGhsVjA3bUtOX2lEUU1Ud2x4OXBnT2d1STdkdDQtS1pzWVdR?oc=5",
         "publishedAt": "2026-09-25T04:15:44.000Z"
+      },
+      {
+        "time": "05:05",
+        "title": "日本電気制御盤上位10社ランキング",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZQTc1NnBEei1sYmRucEpINFVELUJMV0pIYk5JRWlsQWNybTdkRFZFeU12WFFoSWRwZ0poTHE4dVkwRUdjdWFhRUpB?oc=5",
+        "publishedAt": "2026-09-24T20:05:52.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-25T09:39:55.000Z"
       },
       {
-        "time": "23:00",
-        "title": "広島カープ・矢野選手を書類送検",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596555?source=rss",
-        "publishedAt": "2026-09-25T14:00:52.000Z"
-      },
-      {
         "time": "21:06",
         "title": "timelesz猪俣さん釈放 処分保留",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596541?source=rss",
         "publishedAt": "2026-09-25T12:06:53.000Z"
+      },
+      {
+        "time": "23:37",
+        "title": "カープ矢野・前川選手を書類送検",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596557?source=rss",
+        "publishedAt": "2026-09-25T14:37:11.000Z"
       }
     ],
     "subsidyHeadlines": [

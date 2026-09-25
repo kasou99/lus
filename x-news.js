@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T14:19:45.529Z",
+  "updatedAt": "2026-09-25T14:41:59.523Z",
   "items": [
     {
       "time": "22:12",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "墜落の無人機か 一部を海中で発見"
     },
     {
-      "time": "20:19",
-      "title": "亀岡偉民・元衆院議員に有罪判決",
+      "time": "23:12",
+      "title": "泉健太氏 2人で衆院会派を結成へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596534?source=rss",
-      "publishedAt": "2026-09-25T11:19:10.000Z",
-      "xQuery": "亀岡偉民・元衆院議員に有罪判決"
+      "url": "https://news.yahoo.co.jp/pickup/6596552?source=rss",
+      "publishedAt": "2026-09-25T14:12:07.000Z",
+      "xQuery": "泉健太氏 2人で衆院会派を結成へ"
     },
     {
       "time": "22:34",
