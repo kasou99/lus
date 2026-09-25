@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T12:49:30.077Z",
+  "updatedAt": "2026-09-25T13:17:34.014Z",
   "items": [
     {
-      "time": "18:12",
-      "title": "印旛沼の応急復旧 1週間程度めど",
+      "time": "22:12",
+      "title": "墜落の無人機か 一部を海中で発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596520?source=rss",
-      "publishedAt": "2026-09-25T09:12:19.000Z",
-      "xQuery": "印旛沼の応急復旧 1週間程度めど"
+      "url": "https://news.yahoo.co.jp/pickup/6596548?source=rss",
+      "publishedAt": "2026-09-25T13:12:06.000Z",
+      "xQuery": "墜落の無人機か 一部を海中で発見"
     },
     {
       "time": "20:19",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "26日 関東は警報級大雨の恐れ"
     },
     {
-      "time": "18:39",
-      "title": "離島に子の遺体 事件性疑う傷なし",
+      "time": "21:23",
+      "title": "小3-中3授業 国算など3～4%削減へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596525?source=rss",
-      "publishedAt": "2026-09-25T09:39:55.000Z",
-      "xQuery": "離島に子の遺体 事件性疑う傷なし"
+      "url": "https://news.yahoo.co.jp/pickup/6596543?source=rss",
+      "publishedAt": "2026-09-25T12:23:08.000Z",
+      "xQuery": "小3-中3授業 国算など3～4%削減へ"
     },
     {
-      "time": "20:08",
-      "title": "ドンキ 10月からPBビール値下げ",
+      "time": "22:02",
+      "title": "ジャングリア 追加融資などを要請",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596532?source=rss",
-      "publishedAt": "2026-09-25T11:08:52.000Z",
-      "xQuery": "ドンキ 10月からPBビール値下げ"
+      "url": "https://news.yahoo.co.jp/pickup/6596547?source=rss",
+      "publishedAt": "2026-09-25T13:02:42.000Z",
+      "xQuery": "ジャングリア 追加融資などを要請"
     }
   ]
 };

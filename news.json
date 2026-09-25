@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T12:49:29.579Z",
+  "updatedAt": "2026-09-25T13:17:32.838Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,13 +105,6 @@
     ],
     "economyHeadlines": [
       {
-        "time": "13:19",
-        "title": "中部電 浜岡の再稼働申請取り下げ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596476?source=rss",
-        "publishedAt": "2026-09-25T04:19:30.000Z"
-      },
-      {
         "time": "11:49",
         "title": "トランプ氏が円安けん制 会談で",
         "source": "Yahoo!ニュース",
@@ -124,6 +117,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596507?source=rss",
         "publishedAt": "2026-09-25T08:05:35.000Z"
+      },
+      {
+        "time": "22:02",
+        "title": "ジャングリア 追加融資などを要請",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596547?source=rss",
+        "publishedAt": "2026-09-25T13:02:42.000Z"
       },
       {
         "time": "10:04",
