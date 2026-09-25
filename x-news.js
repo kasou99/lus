@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T11:39:28.226Z",
+  "updatedAt": "2026-09-25T12:27:29.146Z",
   "items": [
     {
       "time": "18:12",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "印旛沼の応急復旧 1週間程度めど"
     },
     {
-      "time": "17:58",
-      "title": "行方不明から10年 娘の帰り待つ父",
+      "time": "20:19",
+      "title": "亀岡偉民・元衆院議員に有罪判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596513?source=rss",
-      "publishedAt": "2026-09-25T08:58:56.000Z",
-      "xQuery": "行方不明から10年 娘の帰り待つ父"
+      "url": "https://news.yahoo.co.jp/pickup/6596534?source=rss",
+      "publishedAt": "2026-09-25T11:19:10.000Z",
+      "xQuery": "亀岡偉民・元衆院議員に有罪判決"
     },
     {
       "time": "19:36",
