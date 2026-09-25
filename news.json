@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-25T01:49:20.117Z",
+  "updatedAt": "2026-09-25T02:24:39.614Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "11:00",
+        "title": "工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション",
+        "source": "共同通信PRワイヤー",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ldVFPNUs0dUxuaWdKeEZ1TXFGVEF5VVJfWFFUaXRKV1FWS1Zic3hncTh5aVJvOEs5dzVnc0lzSFEzV19adU5Qc29jMWJFRmNscDFrTEdPOW9rRUU?oc=5",
+        "publishedAt": "2026-09-25T02:00:00.000Z"
+      },
       {
         "time": "08:20",
         "title": "DMG MORI Precision Boring 高剛性・高速の横中ぐりマシニングセンタ「PBN 200 | 1250」を発売 ～主軸出力80 kW、早送り速度25 m/minで重切削と高効率な連続加工を両立 - | 製造現場ドットコム",
@@ -12,7 +19,7 @@
       {
         "time": "10:01",
         "title": "ソディック、JIMTOF2026に出展",
-        "source": "prtimes.jp",
+        "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDRVJ4UEVjaktUSjRuWUo1Q1ZTMTRRNUt3NEtXdjFjSjdIMk4xejBSMlRVTTVRb1FEM09fQ1NoUE0zdjRBbk93YmNwQklGVm1lOUExUmoyOEREZEFVY3NCbUttZVo3U0kxQkE?oc=5",
         "publishedAt": "2026-09-25T01:01:12.000Z"
       },
@@ -26,15 +33,15 @@
       {
         "time": "05:00",
         "title": "車部品の加工にヒト型ロボ YUASA､中小売り込みへ実証",
-        "source": "nikkei.com",
+        "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUTdQN3ZQSG9BWlJfMXJONmg5V3lMRTNoaUVWZzVSTTQ3bzd2UjdUTGlmaTRBektsdHVNSkxua3VZbm9VM3FmRkk4RFRWTkdWVVRRLTFzUmZ4ZmhJaGNCd1ZSN3ViYndiZUFXSzVmSlVlV2xkclNDdWl0Z25VYlE?oc=5",
         "publishedAt": "2026-09-24T20:00:00.000Z"
       },
       {
         "time": "05:00",
-        "title": "伊で宇宙産業会議開幕 服・食・衛星模型など展示 IEG主催、100社超参加",
+        "title": "三菱UFJFG、デジタル銀が免許取得 リテール事業拡充",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iSVZpNXlDRjN1NWJYOWhvVTFqTkZzanJvVmZhVlVUdTVnalE5Z1BFWVRtdWNleWFfUjRmZWFmQUZ0OENsN2trMWVQYlZsODctcWtUTXFsQXkweW1BY0JwUWFYWlZlb0lETEctek1mNExhVVZscnZYNlNiNA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiektXN0N3ZjdXaGpOT29rSGV5cEdaaUM3cF84V0hqTzVIaGpLc09oVjBqdTFycGM5YkFPbm0waEp4d2R3OEZEbHI5cjFxWWtSWjF2UkRQUTA?oc=5",
         "publishedAt": "2026-09-24T20:00:00.000Z"
       },
       {
@@ -50,13 +57,6 @@
         "source": "| 製造現場ドットコム",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51MG9mX2d5TC1IQVhtNDIxWVQ1RkVYLXhXUksxamVCNGhsVjA3bUtOX2lEUU1Ud2x4OXBnT2d1STdkdDQtS1pzWVdR?oc=5",
         "publishedAt": "2026-09-24T23:20:54.000Z"
-      },
-      {
-        "time": "11:10",
-        "title": "船井総研あがたFAS、無料セミナー「商社・卸業(機械要素部品・工作機械・機械工具・包装資材)向けM&A戦略セミナー」を2026年11月5日に東京で開催。M&Aを重ねた譲受企業の戦略と社員の体験談を公開",
-        "source": "prtimes.jp",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40Z0VoXzFra2I2dVBPNkVQUWsxdEtaZGY3dmdNLVM0VW80d3pITktNM1paSTJHc0RrNnJJQWVkejg3YUFJOHNiU2gtQWFOT2hEd1hvTDMwUzdZX2JEdExZMnF3Vl9pbjY2Mnc?oc=5",
-        "publishedAt": "2026-09-24T02:10:02.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,18 @@
         "publishedAt": "2026-09-24T21:36:38.000Z"
       },
       {
-        "time": "06:07",
-        "title": "パンダ2頭近く米へ到着 習氏発表",
+        "time": "06:27",
+        "title": "米イラン 段階的な戦闘終結⁠模索",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596428?source=rss",
-        "publishedAt": "2026-09-24T21:07:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596430?source=rss",
+        "publishedAt": "2026-09-24T21:27:02.000Z"
+      },
+      {
+        "time": "11:20",
+        "title": "ネタニヤフ氏が国連演説 各国退席",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596464?source=rss",
+        "publishedAt": "2026-09-25T02:20:38.000Z"
       },
       {
         "time": "09:00",
@@ -89,13 +96,6 @@
         "publishedAt": "2026-09-25T00:50:14.000Z"
       },
       {
-        "time": "06:27",
-        "title": "米イラン 段階的な戦闘終結⁠模索",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596430?source=rss",
-        "publishedAt": "2026-09-24T21:27:02.000Z"
-      },
-      {
         "time": "08:58",
         "title": "ICC脱退呼びかけ呼応 ナウルだけ",
         "source": "Yahoo!ニュース",
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "23:41",
-        "title": "小林製薬 株式の非公開化を検討",
+        "time": "11:13",
+        "title": "長期金利一時3.115% 30年ぶり水準",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596426?source=rss",
-        "publishedAt": "2026-09-24T14:41:20.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596462?source=rss",
+        "publishedAt": "2026-09-25T02:13:35.000Z"
       },
       {
         "time": "07:33",

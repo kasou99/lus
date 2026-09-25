@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T01:49:20.979Z",
+  "updatedAt": "2026-09-25T02:24:40.307Z",
   "items": [
     {
-      "time": "09:00",
-      "title": "米中首脳 ワインで友好ムード演出",
+      "time": "11:13",
+      "title": "長期金利一時3.115% 30年ぶり水準",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596444?source=rss",
-      "publishedAt": "2026-09-25T00:00:19.000Z",
-      "xQuery": "米中首脳 ワインで友好ムード演出"
-    },
-    {
-      "time": "08:58",
-      "title": "ICC脱退呼びかけ呼応 ナウルだけ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596446?source=rss",
-      "publishedAt": "2026-09-24T23:58:18.000Z",
-      "xQuery": "ICC脱退呼びかけ呼応 ナウルだけ"
+      "url": "https://news.yahoo.co.jp/pickup/6596462?source=rss",
+      "publishedAt": "2026-09-25T02:13:35.000Z",
+      "xQuery": "長期金利一時3.115% 30年ぶり水準"
     },
     {
       "time": "09:50",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596453?source=rss",
       "publishedAt": "2026-09-25T00:50:14.000Z",
       "xQuery": "旧敵国条項 日中に新たな火種か"
+    },
+    {
+      "time": "11:20",
+      "title": "ネタニヤフ氏が国連演説 各国退席",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596464?source=rss",
+      "publishedAt": "2026-09-25T02:20:38.000Z",
+      "xQuery": "ネタニヤフ氏が国連演説 各国退席"
     },
     {
       "time": "10:04",
