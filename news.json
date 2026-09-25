@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-25T09:41:47.546Z",
+  "updatedAt": "2026-09-25T10:18:26.598Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "17:04",
         "title": "工作機械受注が好調 ― 過去最高ペースを維持",
-        "source": "machinist.co.jp",
+        "source": "マシニスト出版",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zYUdxa3NGRk80WTg4dFYyRTdmTmhWQUZWSGtaLXN5Z052R1BuT2pTUi1vRlBUdVduZkRGRFRMWmxsWm16ZnlabUp0cDlkOFFqRy1GRw?oc=5",
         "publishedAt": "2026-09-25T08:04:51.000Z"
       },
       {
         "time": "11:00",
         "title": "工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション",
-        "source": "kyodonewsprwire.jp",
+        "source": "共同通信PRワイヤー",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ldVFPNUs0dUxuaWdKeEZ1TXFGVEF5VVJfWFFUaXRKV1FWS1Zic3hncTh5aVJvOEs5dzVnc0lzSFEzV19adU5Qc29jMWJFRmNscDFrTEdPOW9rRUU?oc=5",
         "publishedAt": "2026-09-25T02:00:00.000Z"
       },
@@ -38,13 +38,6 @@
         "publishedAt": "2026-09-25T01:01:12.000Z"
       },
       {
-        "time": "11:11",
-        "title": "工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション - chiba-tv.com",
-        "source": "chiba-tv.com",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12eDRNekExcU5saERJcTItcUdFbTZBbHZ1N0Jodk5wNTlHNUw5S0U3ajBfZGh0TV84NVJQTHZGb1NveG1IYk96MGdtdGR1MGhOYjhLeVV3T3NSRXNwbXJxanR5WTc?oc=5",
-        "publishedAt": "2026-09-25T02:11:58.000Z"
-      },
-      {
         "time": "05:00",
         "title": "車部品の加工にヒト型ロボ YUASA､中小売り込みへ実証",
         "source": "日本経済新聞",
@@ -57,6 +50,13 @@
         "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBd2VTLVBpcmVRd3VmTzlsUWpxM3N5YTZocHBQRG45Sk5yX0ticncxd2hhSV94alA0QXVZOGpqb3BpQUpLc0MwZm5HeXNVSnRPSHBEV2gzeWQ?oc=5",
         "publishedAt": "2026-09-24T20:00:00.000Z"
+      },
+      {
+        "time": "05:05",
+        "title": "日本電気制御盤上位10社ランキング",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZQTc1NnBEei1sYmRucEpINFVELUJMV0pIYk5JRWlsQWNybTdkRFZFeU12WFFoSWRwZ0poTHE4dVkwRUdjdWFhRUpB?oc=5",
+        "publishedAt": "2026-09-24T20:05:52.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,13 +119,6 @@
         "publishedAt": "2026-09-25T02:49:28.000Z"
       },
       {
-        "time": "07:33",
-        "title": "米住宅ローン金利7%超 30年固定",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596435?source=rss",
-        "publishedAt": "2026-09-24T22:33:21.000Z"
-      },
-      {
         "time": "17:05",
         "title": "姫路独協大 徳洲会に経営権譲渡へ",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596500?source=rss",
         "publishedAt": "2026-09-25T07:40:48.000Z"
+      },
+      {
+        "time": "17:40",
+        "title": "市販ナビ ストラーダ生産終了へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596512?source=rss",
+        "publishedAt": "2026-09-25T08:40:26.000Z"
       }
     ],
     "localHeadlines": [

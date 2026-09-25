@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T09:41:48.254Z",
+  "updatedAt": "2026-09-25T10:18:27.792Z",
   "items": [
     {
-      "time": "16:31",
-      "title": "18歳未満選挙運動 一律禁止は違憲",
+      "time": "18:12",
+      "title": "印旛沼の応急復旧 1週間程度めど",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596498?source=rss",
-      "publishedAt": "2026-09-25T07:31:05.000Z",
-      "xQuery": "18歳未満選挙運動 一律禁止は違憲"
+      "url": "https://news.yahoo.co.jp/pickup/6596520?source=rss",
+      "publishedAt": "2026-09-25T09:12:19.000Z",
+      "xQuery": "印旛沼の応急復旧 1週間程度めど"
     },
     {
-      "time": "16:40",
-      "title": "JR九州27年度にも新金融サービス",
+      "time": "17:58",
+      "title": "行方不明から10年 娘の帰り待つ父",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596500?source=rss",
-      "publishedAt": "2026-09-25T07:40:48.000Z",
-      "xQuery": "JR九州27年度にも新金融サービス"
+      "url": "https://news.yahoo.co.jp/pickup/6596513?source=rss",
+      "publishedAt": "2026-09-25T08:58:56.000Z",
+      "xQuery": "行方不明から10年 娘の帰り待つ父"
     },
     {
-      "time": "17:05",
-      "title": "姫路独協大 徳洲会に経営権譲渡へ",
+      "time": "18:39",
+      "title": "離島に子の遺体 事件性疑う傷なし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596507?source=rss",
-      "publishedAt": "2026-09-25T08:05:35.000Z",
-      "xQuery": "姫路独協大 徳洲会に経営権譲渡へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596525?source=rss",
+      "publishedAt": "2026-09-25T09:39:55.000Z",
+      "xQuery": "離島に子の遺体 事件性疑う傷なし"
     },
     {
       "time": "17:05",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ahamo「大盛りオプション」終了へ"
     },
     {
-      "time": "17:40",
-      "title": "市販ナビ ストラーダ生産終了へ",
+      "time": "18:43",
+      "title": "公安調査庁 初の公式キャラ誕生",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596512?source=rss",
-      "publishedAt": "2026-09-25T08:40:26.000Z",
-      "xQuery": "市販ナビ ストラーダ生産終了へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596526?source=rss",
+      "publishedAt": "2026-09-25T09:43:30.000Z",
+      "xQuery": "公安調査庁 初の公式キャラ誕生"
     }
   ]
 };
