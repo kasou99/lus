@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T23:15:32.675Z",
+  "updatedAt": "2026-09-25T23:37:25.543Z",
   "items": [
     {
       "time": "07:41",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関越道で作業員2人はねられ死亡"
     },
     {
-      "time": "22:02",
-      "title": "ジャングリア 追加融資などを要請",
+      "time": "08:25",
+      "title": "印旛沼決壊 ウナギ「全滅だろう」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596547?source=rss",
-      "publishedAt": "2026-09-25T13:02:42.000Z",
-      "xQuery": "ジャングリア 追加融資などを要請"
+      "url": "https://news.yahoo.co.jp/pickup/6596567?source=rss",
+      "publishedAt": "2026-09-25T23:25:28.000Z",
+      "xQuery": "印旛沼決壊 ウナギ「全滅だろう」"
     }
   ]
 };
