@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T10:18:27.792Z",
+  "updatedAt": "2026-09-25T10:40:33.619Z",
   "items": [
     {
       "time": "18:12",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ahamo「大盛りオプション」終了へ"
     },
     {
-      "time": "18:43",
-      "title": "公安調査庁 初の公式キャラ誕生",
+      "time": "19:09",
+      "title": "ボンカレーなど値上げへ 大塚食品",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596526?source=rss",
-      "publishedAt": "2026-09-25T09:43:30.000Z",
-      "xQuery": "公安調査庁 初の公式キャラ誕生"
+      "url": "https://news.yahoo.co.jp/pickup/6596528?source=rss",
+      "publishedAt": "2026-09-25T10:09:00.000Z",
+      "xQuery": "ボンカレーなど値上げへ 大塚食品"
     }
   ]
 };

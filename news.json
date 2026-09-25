@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T10:18:26.598Z",
+  "updatedAt": "2026-09-25T10:40:32.547Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,25 @@
         "publishedAt": "2026-09-25T02:00:00.000Z"
       },
       {
+        "time": "14:01",
+        "title": "工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション - hokkaido-np.co.jp",
+        "source": "hokkaido-np.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX21BTm5DbV9UcWduTUNPTloya0NIbHhFY3FCaGNHbUg3cnp3X2ljdlExQjJSNnFUQzFOem16N3JzdVpQdEV0My1QeUlRZmhIXy1TNTJxTFFGbE1uQTctN2hwV1hWZ0JSaERCNWx6Wnh1RTJtTG5ibjZYOFN4d2VxdWlacWk3clVL?oc=5",
+        "publishedAt": "2026-09-25T05:01:34.000Z"
+      },
+      {
         "time": "11:00",
         "title": "写真：工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション",
         "source": "沖縄タイムス社",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tN2xMZ0NyVkdheXNUMHRfdVNaQ1FmVXZRRkx4dkQxdjlxY2FZYXNaN2RvdWRvQkVfWE44SC1obXYtSGZJMWZxdXFRcjVHdV9Ta09UMzllVW9vd1g4S1lzR25LVjBWQQ?oc=5",
         "publishedAt": "2026-09-25T02:00:00.000Z"
+      },
+      {
+        "time": "19:38",
+        "title": "日本の電気制御パネル市場規模と動向",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PdnpOaXFEcHZ6bmpNTExSN2hxcE1ENVpkNkROaTRrRktrV0tweEZlWmo5aTAxblNXdVlkLWNYYlRLQWs4WVBtX2hR?oc=5",
+        "publishedAt": "2026-09-25T10:38:58.000Z"
       },
       {
         "time": "08:20",
@@ -43,20 +57,6 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUTdQN3ZQSG9BWlJfMXJONmg5V3lMRTNoaUVWZzVSTTQ3bzd2UjdUTGlmaTRBektsdHVNSkxua3VZbm9VM3FmRkk4RFRWTkdWVVRRLTFzUmZ4ZmhJaGNCd1ZSN3ViYndiZUFXSzVmSlVlV2xkclNDdWl0Z25VYlE?oc=5",
         "publishedAt": "2026-09-24T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "青山財産ネットワークス、新卒増員DXで短期育成",
-        "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBd2VTLVBpcmVRd3VmTzlsUWpxM3N5YTZocHBQRG45Sk5yX0ticncxd2hhSV94alA0QXVZOGpqb3BpQUpLc0MwZm5HeXNVSnRPSHBEV2gzeWQ?oc=5",
-        "publishedAt": "2026-09-24T20:00:00.000Z"
-      },
-      {
-        "time": "05:05",
-        "title": "日本電気制御盤上位10社ランキング",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZQTc1NnBEei1sYmRucEpINFVELUJMV0pIYk5JRWlsQWNybTdkRFZFeU12WFFoSWRwZ0poTHE4dVkwRUdjdWFhRUpB?oc=5",
-        "publishedAt": "2026-09-24T20:05:52.000Z"
       }
     ],
     "worldHeadlines": [
