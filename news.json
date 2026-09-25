@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T19:14:07.577Z",
+  "updatedAt": "2026-09-25T19:37:23.797Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "共同通信PRワイヤー",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ldVFPNUs0dUxuaWdKeEZ1TXFGVEF5VVJfWFFUaXRKV1FWS1Zic3hncTh5aVJvOEs5dzVnc0lzSFEzV19adU5Qc29jMWJFRmNscDFrTEdPOW9rRUU?oc=5",
         "publishedAt": "2026-09-25T02:00:00.000Z"
-      },
-      {
-        "time": "14:01",
-        "title": "工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション - hokkaido-np.co.jp",
-        "source": "hokkaido-np.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX21BTm5DbV9UcWduTUNPTloya0NIbHhFY3FCaGNHbUg3cnp3X2ljdlExQjJSNnFUQzFOem16N3JzdVpQdEV0My1QeUlRZmhIXy1TNTJxTFFGbE1uQTctN2hwV1hWZ0JSaERCNWx6Wnh1RTJtTG5ibjZYOFN4d2VxdWlacWk3clVL?oc=5",
-        "publishedAt": "2026-09-25T05:01:34.000Z"
       },
       {
         "time": "11:00",
@@ -57,6 +50,13 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZQTc1NnBEei1sYmRucEpINFVELUJMV0pIYk5JRWlsQWNybTdkRFZFeU12WFFoSWRwZ0poTHE4dVkwRUdjdWFhRUpB?oc=5",
         "publishedAt": "2026-09-24T20:05:52.000Z"
+      },
+      {
+        "time": "12:08",
+        "title": "【油圧発生装置】日本精工、ボールねじ駆動により省エネと高速動作を両立した「電動ハイドロブースタ」開発",
+        "source": "ctiweb.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPTlI3aW5YOUxMamNYRThxUElrdDVPTE1kS0J3YVJRTVRFNmd2QzRmVlBqWUR5NWNRSHA5Y2h1aUpDdzFGc1NPbzRRUno1UGNTMUYxQm1IVU5KVjRXSHlBZHN5R3VmX3B1Sk9yMlB5d2lxdWxVUEo4YklrakFval81Q1M5TExkXzFRT0VjWVdzTFVWNFJCYXYyS2Y0eFhSWVA2UUFTX2FWai12YlFmTXhHOGhSaE11ZDF4QlFCUEk1SEVESl9zTXB4SFVXR0NXbFExQVdIZnBwbkdvcXhwT2tNdWxqVEVDZ0REVjdWQVJKcFRrbzlxdXZ2UG5fMXlTMHNyb0hqY0RIazR6Z3g3WkVZVFo2WjVqd0xYNm1sdW5BSVpNRlNFMFVzQ2R6N0xIVDhleFRhTzFta0ZJcGUwVDRnMWlDY2lMV2tRY3pWU2ZkTlNDVGFzbnc?oc=5",
+        "publishedAt": "2026-09-25T03:08:11.000Z"
       }
     ],
     "worldHeadlines": [
