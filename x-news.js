@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T02:44:07.153Z",
+  "updatedAt": "2026-09-25T03:20:30.345Z",
   "items": [
     {
       "time": "11:13",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "両陛下 29日に熊本地震被災地訪問"
     },
     {
+      "time": "11:49",
+      "title": "トランプ氏が円安けん制 会談で",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596467?source=rss",
+      "publishedAt": "2026-09-25T02:49:28.000Z",
+      "xQuery": "トランプ氏が円安けん制 会談で"
+    },
+    {
       "time": "11:20",
       "title": "ネタニヤフ氏が国連演説 各国退席",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596454?source=rss",
       "publishedAt": "2026-09-25T01:04:50.000Z",
       "xQuery": "全東信破産 カード会社が支払いへ"
-    },
-    {
-      "time": "09:33",
-      "title": "ストーカー 紛失防止タグ悪用急増",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596450?source=rss",
-      "publishedAt": "2026-09-25T00:33:39.000Z",
-      "xQuery": "ストーカー 紛失防止タグ悪用急増"
     }
   ]
 };

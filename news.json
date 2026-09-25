@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-25T02:44:06.345Z",
+  "updatedAt": "2026-09-25T03:20:29.502Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "11:00",
         "title": "工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション",
-        "source": "kyodonewsprwire.jp",
+        "source": "共同通信PRワイヤー",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ldVFPNUs0dUxuaWdKeEZ1TXFGVEF5VVJfWFFUaXRKV1FWS1Zic3hncTh5aVJvOEs5dzVnc0lzSFEzV19adU5Qc29jMWJFRmNscDFrTEdPOW9rRUU?oc=5",
         "publishedAt": "2026-09-25T02:00:00.000Z"
       },
@@ -17,13 +17,6 @@
         "publishedAt": "2026-09-24T23:20:44.000Z"
       },
       {
-        "time": "10:01",
-        "title": "ソディック、JIMTOF2026に出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDRVJ4UEVjaktUSjRuWUo1Q1ZTMTRRNUt3NEtXdjFjSjdIMk4xejBSMlRVTTVRb1FEM09fQ1NoUE0zdjRBbk93YmNwQklGVm1lOUExUmoyOEREZEFVY3NCbUttZVo3U0kxQkE?oc=5",
-        "publishedAt": "2026-09-25T01:01:12.000Z"
-      },
-      {
         "time": "10:00",
         "title": "組み込み型インテリジェント駆動モーターの世界市場（2026年～2032年）、市場規模（ステッピングモーター、サーボモーター、コアレスモーター、フレームレストルクモーター）...",
         "source": "アットプレス",
@@ -31,9 +24,16 @@
         "publishedAt": "2026-09-25T01:00:00.000Z"
       },
       {
+        "time": "11:46",
+        "title": "ソディック、JIMTOF2026に出展：時事ドットコム",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNZG5nS3JMRExGR2RfLTJ5eXJSYk0tRDFkWHMwdmtBbkl2ZWFnNHF0VVR1eXpTYnJqN0FQdnVEYmlrZjRLNlpMOXpyT2Uzd2VhRjE3RlhNLW9XR1FhRlIxSldDVGVWQkQxOC1N?oc=5",
+        "publishedAt": "2026-09-25T02:46:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "車部品の加工にヒト型ロボ YUASA､中小売り込みへ実証",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUTdQN3ZQSG9BWlJfMXJONmg5V3lMRTNoaUVWZzVSTTQ3bzd2UjdUTGlmaTRBektsdHVNSkxua3VZbm9VM3FmRkk4RFRWTkdWVVRRLTFzUmZ4ZmhJaGNCd1ZSN3ViYndiZUFXSzVmSlVlV2xkclNDdWl0Z25VYlE?oc=5",
         "publishedAt": "2026-09-24T20:00:00.000Z"
       },
@@ -112,6 +112,13 @@
         "publishedAt": "2026-09-25T02:13:35.000Z"
       },
       {
+        "time": "11:49",
+        "title": "トランプ氏が円安けん制 会談で",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596467?source=rss",
+        "publishedAt": "2026-09-25T02:49:28.000Z"
+      },
+      {
         "time": "07:33",
         "title": "米住宅ローン金利7%超 30年固定",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596439?source=rss",
         "publishedAt": "2026-09-24T23:09:30.000Z"
-      },
-      {
-        "time": "10:13",
-        "title": "日高屋と幸楽苑 成長を続ける理由",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596455?source=rss",
-        "publishedAt": "2026-09-25T01:13:59.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,6 +154,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596396?source=rss",
         "publishedAt": "2026-09-24T09:52:18.000Z"
+      },
+      {
+        "time": "12:13",
+        "title": "車と衝突 自転車の男子高校生重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596471?source=rss",
+        "publishedAt": "2026-09-25T03:13:36.000Z"
       },
       {
         "time": "21:42",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596363?source=rss",
         "publishedAt": "2026-09-24T05:16:59.000Z"
-      },
-      {
-        "time": "18:00",
-        "title": "匿名投稿で攻撃 林泰輔県議が釈明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596390?source=rss",
-        "publishedAt": "2026-09-24T09:00:21.000Z"
       }
     ],
     "subsidyHeadlines": [
