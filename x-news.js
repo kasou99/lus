@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T07:22:20.203Z",
+  "updatedAt": "2026-09-25T07:43:01.119Z",
   "items": [
+    {
+      "time": "16:31",
+      "title": "18歳未満選挙運動 一律禁止は違憲",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596498?source=rss",
+      "publishedAt": "2026-09-25T07:31:05.000Z",
+      "xQuery": "18歳未満選挙運動 一律禁止は違憲"
+    },
     {
       "time": "15:28",
       "title": "台風25号 激甚災害に指定の見通し",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596487?source=rss",
       "publishedAt": "2026-09-25T06:28:00.000Z",
       "xQuery": "台風25号 激甚災害に指定の見通し"
-    },
-    {
-      "time": "13:34",
-      "title": "印旛沼の決壊堤防 緊急復旧に着手",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596477?source=rss",
-      "publishedAt": "2026-09-25T04:34:55.000Z",
-      "xQuery": "印旛沼の決壊堤防 緊急復旧に着手"
     },
     {
       "time": "14:44",
@@ -34,11 +34,11 @@ window.LUS_X_NEWS = {
       "xQuery": "蘭首相 ICCへの米「攻撃」を批判"
     },
     {
-      "time": "15:28",
+      "time": "16:30",
       "title": "群馬の住宅で女性死亡 男が逃走",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596486?source=rss",
-      "publishedAt": "2026-09-25T06:28:29.000Z",
+      "url": "https://news.yahoo.co.jp/pickup/6596497?source=rss",
+      "publishedAt": "2026-09-25T07:30:17.000Z",
       "xQuery": "群馬の住宅で女性死亡 男が逃走"
     }
   ]
