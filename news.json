@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T21:15:58.345Z",
+  "updatedAt": "2026-09-25T21:38:10.384Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -15,6 +15,13 @@
         "source": "共同通信PRワイヤー",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ldVFPNUs0dUxuaWdKeEZ1TXFGVEF5VVJfWFFUaXRKV1FWS1Zic3hncTh5aVJvOEs5dzVnc0lzSFEzV19adU5Qc29jMWJFRmNscDFrTEdPOW9rRUU?oc=5",
         "publishedAt": "2026-09-25T02:00:00.000Z"
+      },
+      {
+        "time": "05:25",
+        "title": "日本電気制御盤世界シェアランキング",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PMXNvME5xazZGTTUzX3pySVFqX0RrVDE0d3ExY182Y0RRb2dSTlpiejFhMFVHT190VzZnclc5cV9zOUxkQ2JMXzZ3?oc=5",
+        "publishedAt": "2026-09-25T20:25:17.000Z"
       },
       {
         "time": "14:01",
@@ -43,13 +50,6 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PdnpOaXFEcHZ6bmpNTExSN2hxcE1ENVpkNkROaTRrRktrV0tweEZlWmo5aTAxblNXdVlkLWNYYlRLQWs4WVBtX2hR?oc=5",
         "publishedAt": "2026-09-25T10:38:58.000Z"
-      },
-      {
-        "time": "10:01",
-        "title": "ソディック、JIMTOF2026に出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDRVJ4UEVjaktUSjRuWUo1Q1ZTMTRRNUt3NEtXdjFjSjdIMk4xejBSMlRVTTVRb1FEM09fQ1NoUE0zdjRBbk93YmNwQklGVm1lOUExUmoyOEREZEFVY3NCbUttZVo3U0kxQkE?oc=5",
-        "publishedAt": "2026-09-25T01:01:12.000Z"
       },
       {
         "time": "13:15",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       }
