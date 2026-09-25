@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T23:37:04.175Z",
+  "updatedAt": "2026-09-25T00:48:02.799Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -40,16 +40,9 @@
       {
         "time": "11:10",
         "title": "船井総研あがたFAS、無料セミナー「商社・卸業(機械要素部品・工作機械・機械工具・包装資材)向けM&A戦略セミナー」を2026年11月5日に東京で開催。M&Aを重ねた譲受企業の戦略と社員の体験談を公開",
-        "source": "PR TIMES",
+        "source": "prtimes.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40Z0VoXzFra2I2dVBPNkVQUWsxdEtaZGY3dmdNLVM0VW80d3pITktNM1paSTJHc0RrNnJJQWVkejg3YUFJOHNiU2gtQWFOT2hEd1hvTDMwUzdZX2JEdExZMnF3Vl9pbjY2Mnc?oc=5",
         "publishedAt": "2026-09-24T02:10:02.000Z"
-      },
-      {
-        "time": "19:45",
-        "title": "ジェイテクト、グループ会社 ジェイテクトグラインディングツール、円筒研削加工用ビトリファイドCBNホイール「削楽Air」新開発",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BTm4wOVBCbE1zdTRBakJPNFlseFc4eU5mSmF5eEFfbzdVZ05tNmV6b1dUdk5sZXhidUcwTTlTUGEzaTNtdmdDVml4NDNUYVpOXzN5YXV3c1FIYjRCZ2s1emRiUExXTkJWQktiX2ExUzhIdXB6OV9hb0hQNA?oc=5",
-        "publishedAt": "2026-09-24T10:45:22.000Z"
       },
       {
         "time": "13:28",
@@ -57,6 +50,13 @@
         "source": "Newscast.jp",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYYXN0WVlObFpjVU1kSjJMaEZZRGNNQnZBTWZLZEpWZ1dUNXBrZGdGNk96ZmdlNjJYbS1YRVhhNEpETmg5WEZvX0VrVUlpUjA?oc=5",
         "publishedAt": "2026-09-24T04:28:00.000Z"
+      },
+      {
+        "time": "19:45",
+        "title": "ジェイテクト、グループ会社 ジェイテクトグラインディングツール、円筒研削加工用ビトリファイドCBNホイール「削楽Air」新開発",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DUTNxVzJDRFhibDVKMnBpNWFScW9nNk54RXE5aHRmR0hmLW9SS2YyNG9IUHdPR2I2THktSkZwUlVCbC1HYWJaYk1NUVE5dlFoX0ZSUw?oc=5",
+        "publishedAt": "2026-09-24T10:45:22.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,18 +68,18 @@
         "publishedAt": "2026-09-24T21:36:38.000Z"
       },
       {
-        "time": "09:36",
-        "title": "米中の貿易休戦 2カ月延長で合意",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596332?source=rss",
-        "publishedAt": "2026-09-24T00:36:01.000Z"
-      },
-      {
         "time": "06:07",
         "title": "パンダ2頭近く米へ到着 習氏発表",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596428?source=rss",
         "publishedAt": "2026-09-24T21:07:05.000Z"
+      },
+      {
+        "time": "09:00",
+        "title": "米中首脳 ワインで友好ムード演出",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596444?source=rss",
+        "publishedAt": "2026-09-25T00:00:19.000Z"
       },
       {
         "time": "06:27",
@@ -89,18 +89,18 @@
         "publishedAt": "2026-09-24T21:27:02.000Z"
       },
       {
-        "time": "20:01",
-        "title": "取材許可巡る米政権措置 差し止め",
+        "time": "08:58",
+        "title": "ICC脱退呼びかけ呼応 ナウルだけ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596403?source=rss",
-        "publishedAt": "2026-09-24T11:01:05.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596446?source=rss",
+        "publishedAt": "2026-09-24T23:58:18.000Z"
       },
       {
-        "time": "12:02",
-        "title": "ウ 北朝鮮兵2人を韓国に引き渡し",
+        "time": "09:43",
+        "title": "排除3社 ホワイトハウス入構可に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596348?source=rss",
-        "publishedAt": "2026-09-24T03:02:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596452?source=rss",
+        "publishedAt": "2026-09-25T00:43:56.000Z"
       }
     ],
     "economyHeadlines": [
@@ -110,13 +110,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596426?source=rss",
         "publishedAt": "2026-09-24T14:41:20.000Z"
-      },
-      {
-        "time": "13:20",
-        "title": "円安進行 レートチェック効果相殺",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596356?source=rss",
-        "publishedAt": "2026-09-24T04:20:49.000Z"
       },
       {
         "time": "07:33",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596439?source=rss",
         "publishedAt": "2026-09-24T23:09:30.000Z"
+      },
+      {
+        "time": "09:30",
+        "title": "ご当地駅メロ 首都圏で廃止続く訳",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596451?source=rss",
+        "publishedAt": "2026-09-25T00:30:04.000Z"
       }
     ],
     "localHeadlines": [
@@ -161,13 +161,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596413?source=rss",
         "publishedAt": "2026-09-24T12:42:39.000Z"
-      },
-      {
-        "time": "21:01",
-        "title": "養魚場浸水 金魚など10万匹全滅か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596409?source=rss",
-        "publishedAt": "2026-09-24T12:01:25.000Z"
       },
       {
         "time": "23:29",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596363?source=rss",
         "publishedAt": "2026-09-24T05:16:59.000Z"
+      },
+      {
+        "time": "18:00",
+        "title": "匿名投稿で攻撃 林泰輔県議が釈明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596390?source=rss",
+        "publishedAt": "2026-09-24T09:00:21.000Z"
       }
     ],
     "subsidyHeadlines": [

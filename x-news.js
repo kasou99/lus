@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-24T23:37:04.970Z",
+  "updatedAt": "2026-09-25T00:48:03.662Z",
   "items": [
     {
-      "time": "06:52",
-      "title": "台風26号 強い勢力で沖縄に接近へ",
+      "time": "09:00",
+      "title": "米中首脳 ワインで友好ムード演出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596432?source=rss",
-      "publishedAt": "2026-09-24T21:52:57.000Z",
-      "xQuery": "台風26号 強い勢力で沖縄に接近へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596444?source=rss",
+      "publishedAt": "2026-09-25T00:00:19.000Z",
+      "xQuery": "米中首脳 ワインで友好ムード演出"
     },
     {
-      "time": "06:36",
-      "title": "習氏 米に台湾独立への反対求める",
+      "time": "08:09",
+      "title": "意図せず資金移動 楽天証券不具合",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596431?source=rss",
-      "publishedAt": "2026-09-24T21:36:38.000Z",
-      "xQuery": "習氏 米に台湾独立への反対求める"
+      "url": "https://news.yahoo.co.jp/pickup/6596439?source=rss",
+      "publishedAt": "2026-09-24T23:09:30.000Z",
+      "xQuery": "意図せず資金移動 楽天証券不具合"
     },
     {
-      "time": "07:50",
-      "title": "返礼品の越前がに違法表示 福井",
+      "time": "08:58",
+      "title": "ICC脱退呼びかけ呼応 ナウルだけ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596438?source=rss",
-      "publishedAt": "2026-09-24T22:50:23.000Z",
-      "xQuery": "返礼品の越前がに違法表示 福井"
+      "url": "https://news.yahoo.co.jp/pickup/6596446?source=rss",
+      "publishedAt": "2026-09-24T23:58:18.000Z",
+      "xQuery": "ICC脱退呼びかけ呼応 ナウルだけ"
     },
     {
-      "time": "07:33",
-      "title": "米住宅ローン金利7%超 30年固定",
+      "time": "08:27",
+      "title": "スマホで撮影され合鍵複製 防衛策",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596435?source=rss",
-      "publishedAt": "2026-09-24T22:33:21.000Z",
-      "xQuery": "米住宅ローン金利7%超 30年固定"
+      "url": "https://news.yahoo.co.jp/pickup/6596443?source=rss",
+      "publishedAt": "2026-09-24T23:27:01.000Z",
+      "xQuery": "スマホで撮影され合鍵複製 防衛策"
     },
     {
       "time": "07:57",
