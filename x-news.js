@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T02:43:42.582Z",
+  "updatedAt": "2026-09-26T03:20:28.458Z",
   "items": [
+    {
+      "time": "12:00",
+      "title": "台風が沖縄へ接近 影響長期化恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596591?source=rss",
+      "publishedAt": "2026-09-26T03:00:22.000Z",
+      "xQuery": "台風が沖縄へ接近 影響長期化恐れ"
+    },
     {
       "time": "11:33",
       "title": "米中首脳会談 日本政府は分析急ぐ",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596589?source=rss",
       "publishedAt": "2026-09-26T02:33:47.000Z",
       "xQuery": "米中首脳会談 日本政府は分析急ぐ"
-    },
-    {
-      "time": "08:56",
-      "title": "ネパール土石流 捜索打ち切り検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596572?source=rss",
-      "publishedAt": "2026-09-25T23:56:36.000Z",
-      "xQuery": "ネパール土石流 捜索打ち切り検討"
     },
     {
       "time": "10:06",
