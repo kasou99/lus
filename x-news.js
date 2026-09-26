@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T22:37:28.818Z",
+  "updatedAt": "2026-09-26T23:15:10.495Z",
   "items": [
     {
       "time": "07:27",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "九州4県に「線状降水帯」直前予測"
     },
     {
-      "time": "22:45",
-      "title": "首相 米と電話会談で「連携確認」",
+      "time": "07:35",
+      "title": "米大統領 海峡巡るイラン提案拒否",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596665?source=rss",
-      "publishedAt": "2026-09-26T13:45:00.000Z",
-      "xQuery": "首相 米と電話会談で「連携確認」"
+      "url": "https://news.yahoo.co.jp/pickup/6596675?source=rss",
+      "publishedAt": "2026-09-26T22:35:03.000Z",
+      "xQuery": "米大統領 海峡巡るイラン提案拒否"
     },
     {
       "time": "22:59",
