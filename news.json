@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T19:37:15.011Z",
+  "updatedAt": "2026-09-26T20:16:14.714Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uT0FhdFRxdWpQVXhEamRkRl9vc1hJS2FEZ1gxX1N6UVNSX3RPZ2lmZFlRcGdpTjdScWduUUZpeGVoUU03WGx6M1dR?oc=5",
         "publishedAt": "2026-09-26T15:30:13.000Z"
+      },
+      {
+        "time": "03:25",
+        "title": "(株)ヤマザキ【6147】：株価・株式情報（夜間PTS含む）",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91SDlfVDdiZGgyRHZXUENrNXh3a0EzTGRJWDBfXzBPdUFyOHA2clVMbzY2R1VxM3d1R0lvY3lXN2s5RVJzQzd2WHp6LVpwQkp2UUE?oc=5",
+        "publishedAt": "2026-09-26T18:25:45.000Z"
       },
       {
         "time": "19:07",
@@ -31,13 +38,6 @@
         "publishedAt": "2026-09-26T09:56:36.000Z"
       },
       {
-        "time": "05:25",
-        "title": "日本電気制御盤世界シェアランキング",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PMXNvME5xazZGTTUzX3pySVFqX0RrVDE0d3ExY182Y0RRb2dSTlpiejFhMFVHT190VzZnclc5cV9zOUxkQ2JMXzZ3?oc=5",
-        "publishedAt": "2026-09-25T20:25:17.000Z"
-      },
-      {
         "time": "22:05",
         "title": "申し訳ありませんが、翻訳するテキストが提供されていません。翻訳してほしいテキストを日本語",
         "source": "pando.life",
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-26T13:05:56.000Z"
       },
       {
+        "time": "05:25",
+        "title": "日本電気制御盤世界シェアランキング",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PMXNvME5xazZGTTUzX3pySVFqX0RrVDE0d3ExY182Y0RRb2dSTlpiejFhMFVHT190VzZnclc5cV9zOUxkQ2JMXzZ3?oc=5",
+        "publishedAt": "2026-09-25T20:25:17.000Z"
+      },
+      {
         "time": "00:18",
         "title": "日本の日本産業エレクトロニクスパッケージング市場2026年版",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MTE1rWHlNSVZaT2p2ejFXYkRIZXEwdkVBbTc2ZjNrWU0xd2gzOEctWFpUdS00WGJsSFByNldRSGlPV096RTliZWh3?oc=5",
         "publishedAt": "2026-09-26T15:18:35.000Z"
-      },
-      {
-        "time": "16:25",
-        "title": "コメ下落「大盛り」値下げの動き",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596619?source=rss",
-        "publishedAt": "2026-09-26T07:25:45.000Z"
       }
     ],
     "worldHeadlines": [
