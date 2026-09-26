@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T14:16:03.091Z",
+  "updatedAt": "2026-09-26T14:38:11.436Z",
   "items": [
     {
       "time": "22:45",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 米と電話会談で「連携確認」"
     },
     {
-      "time": "22:05",
-      "title": "中国 尖閣沖EEZで3-7月集中調査",
+      "time": "21:31",
+      "title": "合同結婚 在韓女性債権申し立てへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596658?source=rss",
-      "publishedAt": "2026-09-26T13:05:58.000Z",
-      "xQuery": "中国 尖閣沖EEZで3-7月集中調査"
+      "url": "https://news.yahoo.co.jp/pickup/6596652?source=rss",
+      "publishedAt": "2026-09-26T12:31:14.000Z",
+      "xQuery": "合同結婚 在韓女性債権申し立てへ"
     },
     {
       "time": "19:41",
