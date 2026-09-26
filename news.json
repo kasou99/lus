@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T10:37:17.929Z",
+  "updatedAt": "2026-09-26T11:14:11.671Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,21 +45,35 @@
         "publishedAt": "2026-09-26T09:56:36.000Z"
       },
       {
-        "time": "19:38",
-        "title": "日本の電気制御パネル市場規模と動向",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PdnpOaXFEcHZ6bmpNTExSN2hxcE1ENVpkNkROaTRrRktrV0tweEZlWmo5aTAxblNXdVlkLWNYYlRLQWs4WVBtX2hR?oc=5",
-        "publishedAt": "2026-09-25T10:38:58.000Z"
-      },
-      {
         "time": "03:17",
         "title": "日本のエンベデッド FPGA市場2026年版",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5rMTRCcEh3VVE1bl9DT1ZMTmxVZTR5TXF0NFc4cWdRRktEZVFDQTFJUFMwVTdaUmoyN2RqU0J6TjRNMlg1WFFWMEdB?oc=5",
         "publishedAt": "2026-09-25T18:17:09.000Z"
+      },
+      {
+        "time": "16:25",
+        "title": "コメ下落「大盛り」値下げの動き",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596619?source=rss",
+        "publishedAt": "2026-09-26T07:25:45.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "19:41",
+        "title": "米中300億ドル規模関税引き下げへ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596642?source=rss",
+        "publishedAt": "2026-09-26T10:41:21.000Z"
+      },
+      {
+        "time": "16:20",
+        "title": "AIを「SI」と呼称 米中が合意",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596617?source=rss",
+        "publishedAt": "2026-09-26T07:20:28.000Z"
+      },
       {
         "time": "13:37",
         "title": "習氏厚遇「やり過ぎ」米議員批判",
@@ -75,13 +89,6 @@
         "publishedAt": "2026-09-25T22:20:17.000Z"
       },
       {
-        "time": "16:20",
-        "title": "AIを「SI」と呼称 米中が合意",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596617?source=rss",
-        "publishedAt": "2026-09-26T07:20:28.000Z"
-      },
-      {
         "time": "08:56",
         "title": "ネパール土石流 捜索打ち切り検討",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596484?source=rss",
         "publishedAt": "2026-09-25T05:44:40.000Z"
-      },
-      {
-        "time": "11:20",
-        "title": "ネタニヤフ氏が国連演説 各国退席",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596464?source=rss",
-        "publishedAt": "2026-09-25T02:20:38.000Z"
       }
     ],
     "economyHeadlines": [

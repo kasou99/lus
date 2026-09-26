@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T10:37:18.667Z",
+  "updatedAt": "2026-09-26T11:14:12.393Z",
   "items": [
     {
       "time": "17:15",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣支持は微増 改造の効果限定的"
     },
     {
-      "time": "18:29",
-      "title": "「思い出」を救う活動 被災者は涙",
+      "time": "18:20",
+      "title": "AI調達巡る政府決定 米高裁が支持",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596636?source=rss",
-      "publishedAt": "2026-09-26T09:29:10.000Z",
-      "xQuery": "「思い出」を救う活動 被災者は涙"
+      "url": "https://news.yahoo.co.jp/pickup/6596633?source=rss",
+      "publishedAt": "2026-09-26T09:20:14.000Z",
+      "xQuery": "AI調達巡る政府決定 米高裁が支持"
     },
     {
-      "time": "16:25",
-      "title": "コメ下落「大盛り」値下げの動き",
+      "time": "11:58",
+      "title": "「外国人窃盗」の偽情報 SNS拡散",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596619?source=rss",
-      "publishedAt": "2026-09-26T07:25:45.000Z",
-      "xQuery": "コメ下落「大盛り」値下げの動き"
+      "url": "https://news.yahoo.co.jp/pickup/6596592?source=rss",
+      "publishedAt": "2026-09-26T02:58:55.000Z",
+      "xQuery": "「外国人窃盗」の偽情報 SNS拡散"
     },
     {
       "time": "18:54",
