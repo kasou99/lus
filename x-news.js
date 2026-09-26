@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T11:14:12.393Z",
+  "updatedAt": "2026-09-26T11:36:49.482Z",
   "items": [
     {
       "time": "17:15",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "AI調達巡る政府決定 米高裁が支持"
     },
     {
-      "time": "11:58",
-      "title": "「外国人窃盗」の偽情報 SNS拡散",
+      "time": "20:18",
+      "title": "6歳未満男児に脳死判定 臓器提供",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596592?source=rss",
-      "publishedAt": "2026-09-26T02:58:55.000Z",
-      "xQuery": "「外国人窃盗」の偽情報 SNS拡散"
+      "url": "https://news.yahoo.co.jp/pickup/6596645?source=rss",
+      "publishedAt": "2026-09-26T11:18:52.000Z",
+      "xQuery": "6歳未満男児に脳死判定 臓器提供"
     },
     {
       "time": "18:54",

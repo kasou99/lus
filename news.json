@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T11:14:11.671Z",
+  "updatedAt": "2026-09-26T11:36:48.350Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -126,6 +126,13 @@
         "publishedAt": "2026-09-25T23:40:16.000Z"
       },
       {
+        "time": "20:33",
+        "title": "「超エルニーニョ」経済的損失は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596649?source=rss",
+        "publishedAt": "2026-09-26T11:33:30.000Z"
+      },
+      {
         "time": "17:05",
         "title": "姫路独協大 徳洲会に経営権譲渡へ",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596547?source=rss",
         "publishedAt": "2026-09-25T13:02:42.000Z"
-      },
-      {
-        "time": "16:46",
-        "title": "ダイナム クレーンゲームに手応え",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596621?source=rss",
-        "publishedAt": "2026-09-26T07:46:45.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-26T04:21:41.000Z"
       },
       {
-        "time": "14:19",
-        "title": "名古屋テレビ塔で火災 30人が避難",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596605?source=rss",
-        "publishedAt": "2026-09-26T05:19:19.000Z"
-      },
-      {
         "time": "10:06",
         "title": "6階から娘2人落とした疑い 父逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596580?source=rss",
         "publishedAt": "2026-09-26T01:06:33.000Z"
+      },
+      {
+        "time": "15:19",
+        "title": "6階から女児落とされ 警官ら救う",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596610?source=rss",
+        "publishedAt": "2026-09-26T06:19:16.000Z"
       }
     ],
     "subsidyHeadlines": [
