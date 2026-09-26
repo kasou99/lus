@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T05:16:45.477Z",
+  "updatedAt": "2026-09-26T05:39:06.545Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,18 +17,11 @@
         "publishedAt": "2026-09-25T20:25:17.000Z"
       },
       {
-        "time": "21:15",
-        "title": "協和機工、Fluke製品の国内向けカタログサイトを開設",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rNHk1ck9VQWE1RmNPS3BYSGtWdEdtdUl5NjJaUG16aTVpNldGMkItU2Nzem5mUnRjYlFLSUpnMGNEQ0FDM3RvdVlwSUtsRG5TSFRockI0VWZ2Z0hBaEcwMzB5OVN0MjVyalhqdlFCTEdndEVVME5JMDNjNA?oc=5",
-        "publishedAt": "2026-09-25T12:15:55.000Z"
-      },
-      {
-        "time": "18:15",
+        "time": "00:48",
         "title": "ボールねじ駆動により省エネと高速動作を両立した油圧発生装置「電動ハイドロブースタ」を新開発",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YN0xaUnAtVDR3Vk9aTTRDVjJZUDBSbi1fN21RX3FfaGtvSHV0NG81M0hzbTdCNFdTbFN3YmNIdnJzdWpYT3J0clByblBld2gyOEdXTHNBdkRFLVBvajBqUUJoYmJaNXl2dDl4V2twZlgyZw?oc=5",
-        "publishedAt": "2026-09-25T09:15:24.000Z"
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLOTB4RzdDREdfOUY0RVA3TmpKd0VKN0s5eHdlZFhRenNGVmZoQzVqb3VVcllhaHF0MGE0eVdyNHFjOVVSanBnRzNVSm5NanRaZE1wNEZTX0N0Um1LeUE4d1pEUnZUZFpJM1JjYUtQY0d3d05SaktWLUVxTQ?oc=5",
+        "publishedAt": "2026-09-25T15:48:17.000Z"
       },
       {
         "time": "19:38",
@@ -38,11 +31,11 @@
         "publishedAt": "2026-09-25T10:38:58.000Z"
       },
       {
-        "time": "14:21",
-        "title": "ソディック、JIMTOF2026に出展",
+        "time": "21:15",
+        "title": "協和機工、Fluke製品の国内向けカタログサイトを開設",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oVDdWWU04R0tULXhBQlE1LUozeFZhQTNTeXJDdkE4TWxJZ25TdkRCSVB4aVpTVndwdkc4MDItbjVRZ05jTFJpQWVKNExvNmZwUkphMDlPdlBxdnB3R1dDUmo4QWRLUmdCbmxnUmpDYjI1bVB3VmxVR1c5SQ?oc=5",
-        "publishedAt": "2026-09-25T05:21:32.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rNHk1ck9VQWE1RmNPS3BYSGtWdEdtdUl5NjJaUG16aTVpNldGMkItU2Nzem5mUnRjYlFLSUpnMGNEQ0FDM3RvdVlwSUtsRG5TSFRockI0VWZ2Z0hBaEcwMzB5OVN0MjVyalhqdlFCTEdndEVVME5JMDNjNA?oc=5",
+        "publishedAt": "2026-09-25T12:15:55.000Z"
       },
       {
         "time": "15:20",
@@ -57,6 +50,13 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZVmlIUW9takVHRnhXdmdBaEtvT2JSck83dGdmTXlSY3BOYjRTMWF0WTFiQUhEWDVFM2hrdmpyd1NYSHhxVzFqLWNB?oc=5",
         "publishedAt": "2026-09-25T10:03:57.000Z"
+      },
+      {
+        "time": "03:17",
+        "title": "日本のエンベデッド FPGA市場2026年版",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5rMTRCcEh3VVE1bl9DT1ZMTmxVZTR5TXF0NFc4cWdRRktEZVFDQTFJUFMwVTdaUmoyN2RqU0J6TjRNMlg1WFFWMEdB?oc=5",
+        "publishedAt": "2026-09-25T18:17:09.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-09-26T04:21:41.000Z"
       },
       {
+        "time": "14:19",
+        "title": "名古屋テレビ塔で火災 30人が避難",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596605?source=rss",
+        "publishedAt": "2026-09-26T05:19:19.000Z"
+      },
+      {
         "time": "07:20",
         "title": "群馬女性死亡 娘の元夫を公開手配",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596580?source=rss",
         "publishedAt": "2026-09-26T01:06:33.000Z"
-      },
-      {
-        "time": "07:22",
-        "title": "関越道で作業員2人はねられ死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596564?source=rss",
-        "publishedAt": "2026-09-25T22:22:20.000Z"
       }
     ],
     "subsidyHeadlines": [

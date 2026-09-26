@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T05:16:46.154Z",
+  "updatedAt": "2026-09-26T05:39:07.380Z",
   "items": [
     {
       "time": "12:00",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ふるさと納税10月規制強化 影響は"
     },
     {
-      "time": "13:18",
-      "title": "死亡女性の娘 元夫巡り警察に相談",
+      "time": "14:19",
+      "title": "名古屋テレビ塔で火災 30人が避難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596597?source=rss",
-      "publishedAt": "2026-09-26T04:18:52.000Z",
-      "xQuery": "死亡女性の娘 元夫巡り警察に相談"
+      "url": "https://news.yahoo.co.jp/pickup/6596605?source=rss",
+      "publishedAt": "2026-09-26T05:19:19.000Z",
+      "xQuery": "名古屋テレビ塔で火災 30人が避難"
     }
   ]
 };
