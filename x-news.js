@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T12:44:11.839Z",
+  "updatedAt": "2026-09-26T13:14:55.946Z",
   "items": [
+    {
+      "time": "22:05",
+      "title": "中国 尖閣沖EEZで3-7月集中調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596658?source=rss",
+      "publishedAt": "2026-09-26T13:05:58.000Z",
+      "xQuery": "中国 尖閣沖EEZで3-7月集中調査"
+    },
     {
       "time": "16:16",
       "title": "未成年選挙運動巡る判決 識者見解",
@@ -18,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「超エルニーニョ」経済的損失は"
     },
     {
-      "time": "20:18",
-      "title": "6歳未満男児に脳死判定 臓器提供",
+      "time": "21:42",
+      "title": "がん社内公表の役員 自ら平社員に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596645?source=rss",
-      "publishedAt": "2026-09-26T11:18:52.000Z",
-      "xQuery": "6歳未満男児に脳死判定 臓器提供"
-    },
-    {
-      "time": "20:25",
-      "title": "実験中事故で後遺症 産総研を提訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596646?source=rss",
-      "publishedAt": "2026-09-26T11:25:00.000Z",
-      "xQuery": "実験中事故で後遺症 産総研を提訴"
+      "url": "https://news.yahoo.co.jp/pickup/6596655?source=rss",
+      "publishedAt": "2026-09-26T12:42:56.000Z",
+      "xQuery": "がん社内公表の役員 自ら平社員に"
     },
     {
       "time": "20:52",
