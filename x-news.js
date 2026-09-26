@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-25T23:37:25.543Z",
+  "updatedAt": "2026-09-26T00:48:14.260Z",
   "items": [
     {
       "time": "07:41",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東 昼頃にかけ激しい雨降る所も"
     },
     {
-      "time": "07:20",
-      "title": "米中首脳 年内あと2回会談に意欲",
+      "time": "08:40",
+      "title": "外国人の起業 制度厳格化で急減",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596562?source=rss",
-      "publishedAt": "2026-09-25T22:20:17.000Z",
-      "xQuery": "米中首脳 年内あと2回会談に意欲"
+      "url": "https://news.yahoo.co.jp/pickup/6596569?source=rss",
+      "publishedAt": "2026-09-25T23:40:16.000Z",
+      "xQuery": "外国人の起業 制度厳格化で急減"
     },
     {
       "time": "07:20",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "群馬女性死亡 娘の元夫を公開手配"
     },
     {
-      "time": "07:22",
-      "title": "関越道で作業員2人はねられ死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596564?source=rss",
-      "publishedAt": "2026-09-25T22:22:20.000Z",
-      "xQuery": "関越道で作業員2人はねられ死亡"
-    },
-    {
       "time": "08:25",
       "title": "印旛沼決壊 ウナギ「全滅だろう」",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596567?source=rss",
       "publishedAt": "2026-09-25T23:25:28.000Z",
       "xQuery": "印旛沼決壊 ウナギ「全滅だろう」"
+    },
+    {
+      "time": "09:17",
+      "title": "川におむつ大量投棄疑い 書類送検",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596574?source=rss",
+      "publishedAt": "2026-09-26T00:17:47.000Z",
+      "xQuery": "川におむつ大量投棄疑い 書類送検"
     }
   ]
 };
