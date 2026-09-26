@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T13:36:57.650Z",
+  "updatedAt": "2026-09-26T14:16:03.091Z",
   "items": [
+    {
+      "time": "22:45",
+      "title": "首相 米と電話会談で「連携確認」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596665?source=rss",
+      "publishedAt": "2026-09-26T13:45:00.000Z",
+      "xQuery": "首相 米と電話会談で「連携確認」"
+    },
     {
       "time": "22:05",
       "title": "中国 尖閣沖EEZで3-7月集中調査",
@@ -18,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米中300億ドル規模関税引き下げへ"
     },
     {
-      "time": "22:08",
-      "title": "娘投げ落とし疑い 警察突入と同時",
+      "time": "22:59",
+      "title": "群馬殺人 事件前日に娘へ避難指導",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596659?source=rss",
-      "publishedAt": "2026-09-26T13:08:53.000Z",
-      "xQuery": "娘投げ落とし疑い 警察突入と同時"
+      "url": "https://news.yahoo.co.jp/pickup/6596664?source=rss",
+      "publishedAt": "2026-09-26T13:59:09.000Z",
+      "xQuery": "群馬殺人 事件前日に娘へ避難指導"
     },
     {
       "time": "21:42",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596655?source=rss",
       "publishedAt": "2026-09-26T12:42:56.000Z",
       "xQuery": "がん社内公表の役員 自ら平社員に"
-    },
-    {
-      "time": "22:22",
-      "title": "川増水で3日間岸に戻れずか 救助",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596661?source=rss",
-      "publishedAt": "2026-09-26T13:22:44.000Z",
-      "xQuery": "川増水で3日間岸に戻れずか 救助"
     }
   ]
 };
