@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-26T15:15:31.326Z",
+  "updatedAt": "2026-09-26T15:38:26.363Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "00:30",
+        "title": "日本サーボモータードライブ市場の主要10社まとめ",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uT0FhdFRxdWpQVXhEamRkRl9vc1hJS2FEZ1gxX1N6UVNSX3RPZ2lmZFlRcGdpTjdScWduUUZpeGVoUU03WGx6M1dR?oc=5",
+        "publishedAt": "2026-09-26T15:30:13.000Z"
+      },
       {
         "time": "19:07",
         "title": "電気制御盤市場の革命：規模、シェア、そして新たなトレンド（2026年～2033年）",
@@ -10,18 +17,18 @@
         "publishedAt": "2026-09-26T10:07:06.000Z"
       },
       {
-        "time": "18:22",
-        "title": "日本の非接触エンコーダー市場規模と動向",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BaGlQaUxlSlNjX2Y1TkxXSktVVk5TWDhOV0Nha19IZ2RvV0txcDRxYWlzcndOMVhwOU1zemZBRm80VWxPQS14cnJR?oc=5",
-        "publishedAt": "2026-09-26T09:22:34.000Z"
-      },
-      {
         "time": "00:48",
         "title": "ボールねじ駆動により省エネと高速動作を両立した油圧発生装置「電動ハイドロブースタ」を新開発",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLOTB4RzdDREdfOUY0RVA3TmpKd0VKN0s5eHdlZFhRenNGVmZoQzVqb3VVcllhaHF0MGE0eVdyNHFjOVVSanBnRzNVSm5NanRaZE1wNEZTX0N0Um1LeUE4d1pEUnZUZFpJM1JjYUtQY0d3d05SaktWLUVxTQ?oc=5",
         "publishedAt": "2026-09-25T15:48:17.000Z"
+      },
+      {
+        "time": "18:22",
+        "title": "日本の非接触エンコーダー市場規模と動向",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BaGlQaUxlSlNjX2Y1TkxXSktVVk5TWDhOV0Nha19IZ2RvV0txcDRxYWlzcndOMVhwOU1zemZBRm80VWxPQS14cnJR?oc=5",
+        "publishedAt": "2026-09-26T09:22:34.000Z"
       },
       {
         "time": "05:25",
@@ -50,13 +57,6 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5rMTRCcEh3VVE1bl9DT1ZMTmxVZTR5TXF0NFc4cWdRRktEZVFDQTFJUFMwVTdaUmoyN2RqU0J6TjRNMlg1WFFWMEdB?oc=5",
         "publishedAt": "2026-09-25T18:17:09.000Z"
-      },
-      {
-        "time": "16:25",
-        "title": "コメ下落「大盛り」値下げの動き",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596619?source=rss",
-        "publishedAt": "2026-09-26T07:25:45.000Z"
       }
     ],
     "worldHeadlines": [
