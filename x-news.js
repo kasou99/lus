@@ -1,29 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T09:38:30.433Z",
+  "updatedAt": "2026-09-26T10:15:53.935Z",
   "items": [
     {
-      "time": "17:07",
-      "title": "関東 10月はじめにかけ雨多い予想",
+      "time": "17:15",
+      "title": "内閣支持は微増 改造の効果限定的",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596625?source=rss",
-      "publishedAt": "2026-09-26T08:07:34.000Z",
-      "xQuery": "関東 10月はじめにかけ雨多い予想"
-    },
-    {
-      "time": "17:56",
-      "title": "群馬の女性 死因は出血性ショック",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596632?source=rss",
-      "publishedAt": "2026-09-26T08:56:49.000Z",
-      "xQuery": "群馬の女性 死因は出血性ショック"
-    },
-    {
-      "time": "16:20",
-      "title": "AIを「SI」と呼称 米中が合意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596617?source=rss",
-      "publishedAt": "2026-09-26T07:20:28.000Z",
-      "xQuery": "AIを「SI」と呼称 米中が合意"
+      "url": "https://news.yahoo.co.jp/pickup/6596626?source=rss",
+      "publishedAt": "2026-09-26T08:15:59.000Z",
+      "xQuery": "内閣支持は微増 改造の効果限定的"
     },
     {
       "time": "16:25",
@@ -34,12 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "コメ下落「大盛り」値下げの動き"
     },
     {
-      "time": "17:43",
-      "title": "ぐんまちゃん 米2局でアニメ放送",
+      "time": "16:20",
+      "title": "AIを「SI」と呼称 米中が合意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596631?source=rss",
-      "publishedAt": "2026-09-26T08:43:22.000Z",
-      "xQuery": "ぐんまちゃん 米2局でアニメ放送"
+      "url": "https://news.yahoo.co.jp/pickup/6596617?source=rss",
+      "publishedAt": "2026-09-26T07:20:28.000Z",
+      "xQuery": "AIを「SI」と呼称 米中が合意"
+    },
+    {
+      "time": "18:54",
+      "title": "10月値上げラッシュ 家計負担重く",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596639?source=rss",
+      "publishedAt": "2026-09-26T09:54:34.000Z",
+      "xQuery": "10月値上げラッシュ 家計負担重く"
+    },
+    {
+      "time": "17:56",
+      "title": "群馬の女性 死因は出血性ショック",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596632?source=rss",
+      "publishedAt": "2026-09-26T08:56:49.000Z",
+      "xQuery": "群馬の女性 死因は出血性ショック"
     }
   ]
 };
