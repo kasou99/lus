@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T14:38:11.436Z",
+  "updatedAt": "2026-09-26T15:15:32.145Z",
   "items": [
     {
       "time": "22:45",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "合同結婚 在韓女性債権申し立てへ"
     },
     {
-      "time": "19:41",
-      "title": "米中300億ドル規模関税引き下げへ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596642?source=rss",
-      "publishedAt": "2026-09-26T10:41:21.000Z",
-      "xQuery": "米中300億ドル規模関税引き下げへ"
-    },
-    {
       "time": "22:59",
       "title": "群馬殺人 事件前日に娘へ避難指導",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596664?source=rss",
       "publishedAt": "2026-09-26T13:59:09.000Z",
       "xQuery": "群馬殺人 事件前日に娘へ避難指導"
+    },
+    {
+      "time": "23:03",
+      "title": "トキエア再延期 県からの融資返済",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596667?source=rss",
+      "publishedAt": "2026-09-26T14:03:46.000Z",
+      "xQuery": "トキエア再延期 県からの融資返済"
     },
     {
       "time": "21:42",
