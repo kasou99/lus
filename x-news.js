@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T04:19:59.901Z",
+  "updatedAt": "2026-09-26T04:42:20.879Z",
   "items": [
     {
       "time": "12:00",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "台風が沖縄へ接近 影響長期化恐れ"
     },
     {
-      "time": "11:33",
-      "title": "米中首脳会談 日本政府は分析急ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596589?source=rss",
-      "publishedAt": "2026-09-26T02:33:47.000Z",
-      "xQuery": "米中首脳会談 日本政府は分析急ぐ"
-    },
-    {
       "time": "10:32",
       "title": "OpenAI意図せぬ外部接続「数十」",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "OpenAI意図せぬ外部接続「数十」"
     },
     {
+      "time": "13:18",
+      "title": "死亡女性の娘 元夫巡り警察に相談",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596597?source=rss",
+      "publishedAt": "2026-09-26T04:18:52.000Z",
+      "xQuery": "死亡女性の娘 元夫巡り警察に相談"
+    },
+    {
+      "time": "13:21",
+      "title": "野球部員乗せたバス事故 8人搬送",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596601?source=rss",
+      "publishedAt": "2026-09-26T04:21:41.000Z",
+      "xQuery": "野球部員乗せたバス事故 8人搬送"
+    },
+    {
       "time": "10:06",
       "title": "6階から娘2人落とした疑い 父逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596580?source=rss",
       "publishedAt": "2026-09-26T01:06:33.000Z",
       "xQuery": "6階から娘2人落とした疑い 父逮捕"
-    },
-    {
-      "time": "09:17",
-      "title": "川におむつ大量投棄疑い 書類送検",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596574?source=rss",
-      "publishedAt": "2026-09-26T00:17:47.000Z",
-      "xQuery": "川におむつ大量投棄疑い 書類送検"
     }
   ]
 };

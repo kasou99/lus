@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T04:19:59.110Z",
+  "updatedAt": "2026-09-26T04:42:20.138Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "08:56",
-        "title": "ネパール土石流 捜索打ち切り検討",
+        "time": "13:37",
+        "title": "習氏厚遇「やり過ぎ」米議員批判",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596572?source=rss",
-        "publishedAt": "2026-09-25T23:56:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596603?source=rss",
+        "publishedAt": "2026-09-26T04:37:52.000Z"
       },
       {
         "time": "07:20",
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596562?source=rss",
         "publishedAt": "2026-09-25T22:20:17.000Z"
+      },
+      {
+        "time": "08:56",
+        "title": "ネパール土石流 捜索打ち切り検討",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596572?source=rss",
+        "publishedAt": "2026-09-25T23:56:36.000Z"
       },
       {
         "time": "14:44",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596464?source=rss",
         "publishedAt": "2026-09-25T02:20:38.000Z"
-      },
-      {
-        "time": "09:50",
-        "title": "旧敵国条項 日中に新たな火種か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596453?source=rss",
-        "publishedAt": "2026-09-25T00:50:14.000Z"
       },
       {
         "time": "12:22",
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "23:54",
-        "title": "台風25号 死者12人行方不明3人に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596559?source=rss",
-        "publishedAt": "2026-09-25T14:54:48.000Z"
-      },
-      {
         "time": "08:25",
         "title": "印旛沼決壊 ウナギ「全滅だろう」",
         "source": "Yahoo!ニュース",
@@ -163,11 +156,25 @@
         "publishedAt": "2026-09-25T23:25:28.000Z"
       },
       {
+        "time": "13:21",
+        "title": "野球部員乗せたバス事故 8人搬送",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596601?source=rss",
+        "publishedAt": "2026-09-26T04:21:41.000Z"
+      },
+      {
         "time": "07:20",
         "title": "群馬女性死亡 娘の元夫を公開手配",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596563?source=rss",
         "publishedAt": "2026-09-25T22:20:14.000Z"
+      },
+      {
+        "time": "13:18",
+        "title": "死亡女性の娘 元夫巡り警察に相談",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596597?source=rss",
+        "publishedAt": "2026-09-26T04:18:52.000Z"
       },
       {
         "time": "10:06",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596564?source=rss",
         "publishedAt": "2026-09-25T22:22:20.000Z"
-      },
-      {
-        "time": "09:17",
-        "title": "川におむつ大量投棄疑い 書類送検",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596574?source=rss",
-        "publishedAt": "2026-09-26T00:17:47.000Z"
       }
     ],
     "subsidyHeadlines": [
