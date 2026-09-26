@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T11:36:49.482Z",
+  "updatedAt": "2026-09-26T12:23:54.188Z",
   "items": [
     {
       "time": "17:15",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣支持は微増 改造の効果限定的"
     },
     {
-      "time": "18:20",
-      "title": "AI調達巡る政府決定 米高裁が支持",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596633?source=rss",
-      "publishedAt": "2026-09-26T09:20:14.000Z",
-      "xQuery": "AI調達巡る政府決定 米高裁が支持"
-    },
-    {
       "time": "20:18",
       "title": "6歳未満男児に脳死判定 臓器提供",
       "source": "Yahoo!ニュース",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "6歳未満男児に脳死判定 臓器提供"
     },
     {
-      "time": "18:54",
-      "title": "10月値上げラッシュ 家計負担重く",
+      "time": "20:25",
+      "title": "実験中事故で後遺症 産総研を提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596639?source=rss",
-      "publishedAt": "2026-09-26T09:54:34.000Z",
-      "xQuery": "10月値上げラッシュ 家計負担重く"
+      "url": "https://news.yahoo.co.jp/pickup/6596646?source=rss",
+      "publishedAt": "2026-09-26T11:25:00.000Z",
+      "xQuery": "実験中事故で後遺症 産総研を提訴"
     },
     {
-      "time": "19:14",
-      "title": "福岡の寺院が二重価格導入 効果は",
+      "time": "20:33",
+      "title": "「超エルニーニョ」経済的損失は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596640?source=rss",
-      "publishedAt": "2026-09-26T10:14:12.000Z",
-      "xQuery": "福岡の寺院が二重価格導入 効果は"
+      "url": "https://news.yahoo.co.jp/pickup/6596649?source=rss",
+      "publishedAt": "2026-09-26T11:33:30.000Z",
+      "xQuery": "「超エルニーニョ」経済的損失は"
+    },
+    {
+      "time": "20:52",
+      "title": "定期船が廃止 夫婦2人だけ住む島",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596650?source=rss",
+      "publishedAt": "2026-09-26T11:52:09.000Z",
+      "xQuery": "定期船が廃止 夫婦2人だけ住む島"
     }
   ]
 };

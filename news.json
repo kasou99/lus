@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T11:36:48.350Z",
+  "updatedAt": "2026-09-26T12:23:53.460Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "00:48",
         "title": "ボールねじ駆動により省エネと高速動作を両立した油圧発生装置「電動ハイドロブースタ」を新開発",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLOTB4RzdDREdfOUY0RVA3TmpKd0VKN0s5eHdlZFhRenNGVmZoQzVqb3VVcllhaHF0MGE0eVdyNHFjOVVSanBnRzNVSm5NanRaZE1wNEZTX0N0Um1LeUE4d1pEUnZUZFpJM1JjYUtQY0d3d05SaktWLUVxTQ?oc=5",
         "publishedAt": "2026-09-25T15:48:17.000Z"
       },
@@ -29,13 +29,6 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PMXNvME5xazZGTTUzX3pySVFqX0RrVDE0d3ExY182Y0RRb2dSTlpiejFhMFVHT190VzZnclc5cV9zOUxkQ2JMXzZ3?oc=5",
         "publishedAt": "2026-09-25T20:25:17.000Z"
-      },
-      {
-        "time": "21:15",
-        "title": "協和機工、Fluke製品の国内向けカタログサイトを開設",
-        "source": "news.nicovideo.jp",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rNHk1ck9VQWE1RmNPS3BYSGtWdEdtdUl5NjJaUG16aTVpNldGMkItU2Nzem5mUnRjYlFLSUpnMGNEQ0FDM3RvdVlwSUtsRG5TSFRockI0VWZ2Z0hBaEcwMzB5OVN0MjVyalhqdlFCTEdndEVVME5JMDNjNA?oc=5",
-        "publishedAt": "2026-09-25T12:15:55.000Z"
       },
       {
         "time": "18:56",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596619?source=rss",
         "publishedAt": "2026-09-26T07:25:45.000Z"
+      },
+      {
+        "time": "18:54",
+        "title": "10月値上げラッシュ 家計負担重く",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596639?source=rss",
+        "publishedAt": "2026-09-26T09:54:34.000Z"
       }
     ],
     "worldHeadlines": [
