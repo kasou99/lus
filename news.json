@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T00:48:13.290Z",
+  "updatedAt": "2026-09-26T01:26:45.232Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-09-25T04:15:44.000Z"
       },
       {
-        "time": "11:11",
-        "title": "工作機械向けイノベーション：スピンドルから周辺機器までを網羅するソリューション - chiba-tv.com",
-        "source": "chiba-tv.com",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12eDRNekExcU5saERJcTItcUdFbTZBbHZ1N0Jodk5wNTlHNUw5S0U3ajBfZGh0TV84NVJQTHZGb1NveG1IYk96MGdtdGR1MGhOYjhLeVV3T3NSRXNwbXJxanR5WTc?oc=5",
-        "publishedAt": "2026-09-25T02:11:58.000Z"
-      },
-      {
         "time": "19:38",
         "title": "日本の電気制御パネル市場規模と動向",
         "source": "pando.life",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-09-25T10:38:58.000Z"
       },
       {
-        "time": "10:01",
-        "title": "ソディック、JIMTOF2026に出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDRVJ4UEVjaktUSjRuWUo1Q1ZTMTRRNUt3NEtXdjFjSjdIMk4xejBSMlRVTTVRb1FEM09fQ1NoUE0zdjRBbk93YmNwQklGVm1lOUExUmoyOEREZEFVY3NCbUttZVo3U0kxQkE?oc=5",
-        "publishedAt": "2026-09-25T01:01:12.000Z"
+        "time": "12:08",
+        "title": "【油圧発生装置】日本精工、ボールねじ駆動により省エネと高速動作を両立した「電動ハイドロブースタ」開発",
+        "source": "ctiweb.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPTlI3aW5YOUxMamNYRThxUElrdDVPTE1kS0J3YVJRTVRFNmd2QzRmVlBqWUR5NWNRSHA5Y2h1aUpDdzFGc1NPbzRRUno1UGNTMUYxQm1IVU5KVjRXSHlBZHN5R3VmX3B1Sk9yMlB5d2lxdWxVUEo4YklrakFval81Q1M5TExkXzFRT0VjWVdzTFVWNFJCYXYyS2Y0eFhSWVA2UUFTX2FWai12YlFmTXhHOGhSaE11ZDF4QlFCUEk1SEVESl9zTXB4SFVXR0NXbFExQVdIZnBwbkdvcXhwT2tNdWxqVEVDZ0REVjdWQVJKcFRrbzlxdXZ2UG5fMXlTMHNyb0hqY0RIazR6Z3g3WkVZVFo2WjVqd0xYNm1sdW5BSVpNRlNFMFVzQ2R6N0xIVDhleFRhTzFta0ZJcGUwVDRnMWlDY2lMV2tRY3pWU2ZkTlNDVGFzbnc?oc=5",
+        "publishedAt": "2026-09-25T03:08:11.000Z"
+      },
+      {
+        "time": "15:20",
+        "title": "腐食管理による保全コスト削減 第１回 大気腐食モニタリングによる腐食速度評価 –",
+        "source": "電気新聞ウェブサイト",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yY3psTE8wSzFieWxHUmxidDBPb0xiY180cm9yYnpkcWZBeThXcjdBWGdlY29rdTctbTQ0TFdLd3ZLajVQUWtMUmhyS1hZUlk?oc=5",
+        "publishedAt": "2026-09-25T06:20:46.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,13 +156,6 @@
         "publishedAt": "2026-09-25T14:54:48.000Z"
       },
       {
-        "time": "18:12",
-        "title": "印旛沼の応急復旧 1週間程度めど",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596520?source=rss",
-        "publishedAt": "2026-09-25T09:12:19.000Z"
-      },
-      {
         "time": "08:25",
         "title": "印旛沼決壊 ウナギ「全滅だろう」",
         "source": "Yahoo!ニュース",
@@ -175,6 +168,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596563?source=rss",
         "publishedAt": "2026-09-25T22:20:14.000Z"
+      },
+      {
+        "time": "10:06",
+        "title": "6階から娘2人落とした疑い 父逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596580?source=rss",
+        "publishedAt": "2026-09-26T01:06:33.000Z"
       },
       {
         "time": "07:22",
