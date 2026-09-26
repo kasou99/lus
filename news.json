@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T15:38:26.363Z",
+  "updatedAt": "2026-09-26T16:18:13.889Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,25 +17,11 @@
         "publishedAt": "2026-09-26T10:07:06.000Z"
       },
       {
-        "time": "00:48",
-        "title": "ボールねじ駆動により省エネと高速動作を両立した油圧発生装置「電動ハイドロブースタ」を新開発",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLOTB4RzdDREdfOUY0RVA3TmpKd0VKN0s5eHdlZFhRenNGVmZoQzVqb3VVcllhaHF0MGE0eVdyNHFjOVVSanBnRzNVSm5NanRaZE1wNEZTX0N0Um1LeUE4d1pEUnZUZFpJM1JjYUtQY0d3d05SaktWLUVxTQ?oc=5",
-        "publishedAt": "2026-09-25T15:48:17.000Z"
-      },
-      {
         "time": "18:22",
         "title": "日本の非接触エンコーダー市場規模と動向",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BaGlQaUxlSlNjX2Y1TkxXSktVVk5TWDhOV0Nha19IZ2RvV0txcDRxYWlzcndOMVhwOU1zemZBRm80VWxPQS14cnJR?oc=5",
         "publishedAt": "2026-09-26T09:22:34.000Z"
-      },
-      {
-        "time": "05:25",
-        "title": "日本電気制御盤世界シェアランキング",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PMXNvME5xazZGTTUzX3pySVFqX0RrVDE0d3ExY182Y0RRb2dSTlpiejFhMFVHT190VzZnclc5cV9zOUxkQ2JMXzZ3?oc=5",
-        "publishedAt": "2026-09-25T20:25:17.000Z"
       },
       {
         "time": "18:56",
@@ -45,11 +31,25 @@
         "publishedAt": "2026-09-26T09:56:36.000Z"
       },
       {
+        "time": "05:25",
+        "title": "日本電気制御盤世界シェアランキング",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PMXNvME5xazZGTTUzX3pySVFqX0RrVDE0d3ExY182Y0RRb2dSTlpiejFhMFVHT190VzZnclc5cV9zOUxkQ2JMXzZ3?oc=5",
+        "publishedAt": "2026-09-25T20:25:17.000Z"
+      },
+      {
         "time": "22:05",
         "title": "申し訳ありませんが、翻訳するテキストが提供されていません。翻訳してほしいテキストを日本語",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0wVGpGYjc1cGtsZnN1WHJvZi1jZnY2aTc3LVlvVlpSTlgwTlZiMDgxaW9yM3hKMV9PcEVfY1BKeE0tZVpZT1BiSWtR?oc=5",
         "publishedAt": "2026-09-26T13:05:56.000Z"
+      },
+      {
+        "time": "00:18",
+        "title": "日本の日本産業エレクトロニクスパッケージング市場2026年版",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MTE1rWHlNSVZaT2p2ejFXYkRIZXEwdkVBbTc2ZjNrWU0xd2gzOEctWFpUdS00WGJsSFByNldRSGlPV096RTliZWh3?oc=5",
+        "publishedAt": "2026-09-26T15:18:35.000Z"
       },
       {
         "time": "03:17",
