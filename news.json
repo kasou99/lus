@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T23:15:09.356Z",
+  "updatedAt": "2026-09-26T23:36:43.132Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "06:40",
         "title": "「AIは当面、電動工具として正しく使うべき」 サントリービバレッジ＆フードの木村穣介社長が見解（食品新聞）",
-        "source": "news.yahoo.co.jp",
+        "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KQ1YtaEdjcjhhaHNTRkpNeVYtR2tNQTNCNlF0WkFkUk1lNEpFaWQxWFJ5bkl5YWplRzJYaFZyNkRITS1iOEZiTDlnOWZrWFdXb0pjM0xLdS1iRVdiTjRudUxDclZZcVFzaWtvaWFBNWpGdVF4UVlhbVhOVzBCaUE?oc=5",
         "publishedAt": "2026-09-26T21:40:35.000Z"
       },
@@ -26,7 +26,7 @@
       {
         "time": "03:25",
         "title": "(株)ヤマザキ【6147】：株価・株式情報（夜間PTS含む）",
-        "source": "Yahoo!ファイナンス",
+        "source": "finance.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91SDlfVDdiZGgyRHZXUENrNXh3a0EzTGRJWDBfXzBPdUFyOHA2clVMbzY2R1VxM3d1R0lvY3lXN2s5RVJzQzd2WHp6LVpwQkp2UUE?oc=5",
         "publishedAt": "2026-09-26T18:25:45.000Z"
       },
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "08:28",
+        "title": "露外相 日本の常任理入りに反対",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596678?source=rss",
+        "publishedAt": "2026-09-26T23:28:39.000Z"
+      },
+      {
         "time": "07:35",
         "title": "米大統領 海峡巡るイラン提案拒否",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596603?source=rss",
         "publishedAt": "2026-09-26T04:37:52.000Z"
-      },
-      {
-        "time": "07:20",
-        "title": "米中首脳 年内あと2回会談に意欲",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596562?source=rss",
-        "publishedAt": "2026-09-25T22:20:17.000Z"
       }
     ],
     "economyHeadlines": [
