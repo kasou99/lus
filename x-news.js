@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T06:28:55.265Z",
+  "updatedAt": "2026-09-26T06:51:40.877Z",
   "items": [
     {
       "time": "15:23",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "「名代」茂木氏 首脳外交を補完"
     },
     {
-      "time": "13:37",
-      "title": "習氏厚遇「やり過ぎ」米議員批判",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596603?source=rss",
-      "publishedAt": "2026-09-26T04:37:52.000Z",
-      "xQuery": "習氏厚遇「やり過ぎ」米議員批判"
-    },
-    {
       "time": "15:19",
       "title": "6階から女児落とされ 警官ら救う",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596605?source=rss",
       "publishedAt": "2026-09-26T05:19:19.000Z",
       "xQuery": "名古屋テレビ塔で火災 30人が避難"
+    },
+    {
+      "time": "13:21",
+      "title": "野球部員乗せたバス事故 8人搬送",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596601?source=rss",
+      "publishedAt": "2026-09-26T04:21:41.000Z",
+      "xQuery": "野球部員乗せたバス事故 8人搬送"
     }
   ]
 };
