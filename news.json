@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T08:42:47.186Z",
+  "updatedAt": "2026-09-26T09:17:27.587Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "17:56",
+        "title": "群馬の女性 死因は出血性ショック",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596632?source=rss",
+        "publishedAt": "2026-09-26T08:56:49.000Z"
+      },
+      {
+        "time": "13:18",
+        "title": "死亡女性の娘 元夫巡り警察に相談",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596597?source=rss",
+        "publishedAt": "2026-09-26T04:18:52.000Z"
+      },
+      {
         "time": "08:25",
         "title": "印旛沼決壊 ウナギ「全滅だろう」",
         "source": "Yahoo!ニュース",
@@ -168,20 +182,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596605?source=rss",
         "publishedAt": "2026-09-26T05:19:19.000Z"
-      },
-      {
-        "time": "07:20",
-        "title": "群馬女性死亡 娘の元夫を公開手配",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596563?source=rss",
-        "publishedAt": "2026-09-25T22:20:14.000Z"
-      },
-      {
-        "time": "13:18",
-        "title": "死亡女性の娘 元夫巡り警察に相談",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596597?source=rss",
-        "publishedAt": "2026-09-26T04:18:52.000Z"
       },
       {
         "time": "10:06",

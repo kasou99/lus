@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T08:42:48.020Z",
+  "updatedAt": "2026-09-26T09:17:28.372Z",
   "items": [
     {
       "time": "17:07",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "関東 10月はじめにかけ雨多い予想"
     },
     {
-      "time": "15:53",
-      "title": "ロンドン地盤沈下 識者が悪化警告",
+      "time": "17:56",
+      "title": "群馬の女性 死因は出血性ショック",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596613?source=rss",
-      "publishedAt": "2026-09-26T06:53:25.000Z",
-      "xQuery": "ロンドン地盤沈下 識者が悪化警告"
+      "url": "https://news.yahoo.co.jp/pickup/6596632?source=rss",
+      "publishedAt": "2026-09-26T08:56:49.000Z",
+      "xQuery": "群馬の女性 死因は出血性ショック"
     },
     {
       "time": "16:20",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "6階から女児落とされ 警官ら救う"
     },
     {
-      "time": "16:51",
-      "title": "スマホ料金 低価格ブランドは攻勢",
+      "time": "17:43",
+      "title": "ぐんまちゃん 米2局でアニメ放送",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596622?source=rss",
-      "publishedAt": "2026-09-26T07:51:42.000Z",
-      "xQuery": "スマホ料金 低価格ブランドは攻勢"
+      "url": "https://news.yahoo.co.jp/pickup/6596631?source=rss",
+      "publishedAt": "2026-09-26T08:43:22.000Z",
+      "xQuery": "ぐんまちゃん 米2局でアニメ放送"
     }
   ]
 };
