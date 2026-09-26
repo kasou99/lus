@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T22:15:05.952Z",
+  "updatedAt": "2026-09-26T22:37:27.946Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "07:35",
+        "title": "米大統領 海峡巡るイラン提案拒否",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596675?source=rss",
+        "publishedAt": "2026-09-26T22:35:03.000Z"
+      },
+      {
         "time": "22:05",
         "title": "中国 尖閣沖EEZで3-7月集中調査",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596562?source=rss",
         "publishedAt": "2026-09-25T22:20:17.000Z"
-      },
-      {
-        "time": "08:56",
-        "title": "ネパール土石流 捜索打ち切り検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596572?source=rss",
-        "publishedAt": "2026-09-25T23:56:36.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-09-26T13:59:09.000Z"
       },
       {
-        "time": "17:56",
-        "title": "群馬の女性 死因は出血性ショック",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596632?source=rss",
-        "publishedAt": "2026-09-26T08:56:49.000Z"
-      },
-      {
         "time": "13:21",
         "title": "野球部員乗せたバス事故 8人搬送",
         "source": "Yahoo!ニュース",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596610?source=rss",
         "publishedAt": "2026-09-26T06:19:16.000Z"
+      },
+      {
+        "time": "07:22",
+        "title": "プロバスケ選手逮捕 わいせつ疑い",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596673?source=rss",
+        "publishedAt": "2026-09-26T22:22:06.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       }
