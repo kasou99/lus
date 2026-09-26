@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T06:51:40.877Z",
+  "updatedAt": "2026-09-26T07:17:44.619Z",
   "items": [
     {
       "time": "15:23",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "名古屋テレビ塔で火災 30人が避難"
     },
     {
-      "time": "13:21",
-      "title": "野球部員乗せたバス事故 8人搬送",
+      "time": "14:40",
+      "title": "新潟の廃止油田 止まらぬ石油流出",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596601?source=rss",
-      "publishedAt": "2026-09-26T04:21:41.000Z",
-      "xQuery": "野球部員乗せたバス事故 8人搬送"
+      "url": "https://news.yahoo.co.jp/pickup/6596606?source=rss",
+      "publishedAt": "2026-09-26T05:40:51.000Z",
+      "xQuery": "新潟の廃止油田 止まらぬ石油流出"
     }
   ]
 };
