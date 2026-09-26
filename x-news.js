@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T05:39:07.380Z",
+  "updatedAt": "2026-09-26T06:28:55.265Z",
   "items": [
     {
-      "time": "12:00",
-      "title": "台風が沖縄へ接近 影響長期化恐れ",
+      "time": "15:23",
+      "title": "憲法改正巡り 注目される自民布陣",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596591?source=rss",
-      "publishedAt": "2026-09-26T03:00:22.000Z",
-      "xQuery": "台風が沖縄へ接近 影響長期化恐れ"
-    },
-    {
-      "time": "13:48",
-      "title": "長射程ミサイル 日米演習に投入へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596596?source=rss",
-      "publishedAt": "2026-09-26T04:48:23.000Z",
-      "xQuery": "長射程ミサイル 日米演習に投入へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596611?source=rss",
+      "publishedAt": "2026-09-26T06:23:22.000Z",
+      "xQuery": "憲法改正巡り 注目される自民布陣"
     },
     {
       "time": "11:36",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「名代」茂木氏 首脳外交を補完"
     },
     {
-      "time": "14:06",
-      "title": "ふるさと納税10月規制強化 影響は",
+      "time": "13:37",
+      "title": "習氏厚遇「やり過ぎ」米議員批判",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596604?source=rss",
-      "publishedAt": "2026-09-26T05:06:55.000Z",
-      "xQuery": "ふるさと納税10月規制強化 影響は"
+      "url": "https://news.yahoo.co.jp/pickup/6596603?source=rss",
+      "publishedAt": "2026-09-26T04:37:52.000Z",
+      "xQuery": "習氏厚遇「やり過ぎ」米議員批判"
+    },
+    {
+      "time": "15:19",
+      "title": "6階から女児落とされ 警官ら救う",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596610?source=rss",
+      "publishedAt": "2026-09-26T06:19:16.000Z",
+      "xQuery": "6階から女児落とされ 警官ら救う"
     },
     {
       "time": "14:19",
