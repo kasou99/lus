@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T12:23:54.188Z",
+  "updatedAt": "2026-09-26T12:44:11.839Z",
   "items": [
     {
-      "time": "17:15",
-      "title": "内閣支持は微増 改造の効果限定的",
+      "time": "16:16",
+      "title": "未成年選挙運動巡る判決 識者見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596626?source=rss",
-      "publishedAt": "2026-09-26T08:15:59.000Z",
-      "xQuery": "内閣支持は微増 改造の効果限定的"
+      "url": "https://news.yahoo.co.jp/pickup/6596616?source=rss",
+      "publishedAt": "2026-09-26T07:16:18.000Z",
+      "xQuery": "未成年選挙運動巡る判決 識者見解"
+    },
+    {
+      "time": "20:33",
+      "title": "「超エルニーニョ」経済的損失は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596649?source=rss",
+      "publishedAt": "2026-09-26T11:33:30.000Z",
+      "xQuery": "「超エルニーニョ」経済的損失は"
     },
     {
       "time": "20:18",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596646?source=rss",
       "publishedAt": "2026-09-26T11:25:00.000Z",
       "xQuery": "実験中事故で後遺症 産総研を提訴"
-    },
-    {
-      "time": "20:33",
-      "title": "「超エルニーニョ」経済的損失は",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596649?source=rss",
-      "publishedAt": "2026-09-26T11:33:30.000Z",
-      "xQuery": "「超エルニーニョ」経済的損失は"
     },
     {
       "time": "20:52",
