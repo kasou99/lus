@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T04:42:20.879Z",
+  "updatedAt": "2026-09-26T05:16:46.154Z",
   "items": [
     {
       "time": "12:00",
@@ -10,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "台風が沖縄へ接近 影響長期化恐れ"
     },
     {
-      "time": "10:32",
-      "title": "OpenAI意図せぬ外部接続「数十」",
+      "time": "13:48",
+      "title": "長射程ミサイル 日米演習に投入へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596583?source=rss",
-      "publishedAt": "2026-09-26T01:32:40.000Z",
-      "xQuery": "OpenAI意図せぬ外部接続「数十」"
+      "url": "https://news.yahoo.co.jp/pickup/6596596?source=rss",
+      "publishedAt": "2026-09-26T04:48:23.000Z",
+      "xQuery": "長射程ミサイル 日米演習に投入へ"
+    },
+    {
+      "time": "11:36",
+      "title": "「名代」茂木氏 首脳外交を補完",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596590?source=rss",
+      "publishedAt": "2026-09-26T02:36:42.000Z",
+      "xQuery": "「名代」茂木氏 首脳外交を補完"
+    },
+    {
+      "time": "14:06",
+      "title": "ふるさと納税10月規制強化 影響は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596604?source=rss",
+      "publishedAt": "2026-09-26T05:06:55.000Z",
+      "xQuery": "ふるさと納税10月規制強化 影響は"
     },
     {
       "time": "13:18",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596597?source=rss",
       "publishedAt": "2026-09-26T04:18:52.000Z",
       "xQuery": "死亡女性の娘 元夫巡り警察に相談"
-    },
-    {
-      "time": "13:21",
-      "title": "野球部員乗せたバス事故 8人搬送",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596601?source=rss",
-      "publishedAt": "2026-09-26T04:21:41.000Z",
-      "xQuery": "野球部員乗せたバス事故 8人搬送"
-    },
-    {
-      "time": "10:06",
-      "title": "6階から娘2人落とした疑い 父逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596580?source=rss",
-      "publishedAt": "2026-09-26T01:06:33.000Z",
-      "xQuery": "6階から娘2人落とした疑い 父逮捕"
     }
   ]
 };
