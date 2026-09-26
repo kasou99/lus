@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T20:16:14.714Z",
+  "updatedAt": "2026-09-26T20:38:15.000Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-26T13:05:56.000Z"
       },
       {
-        "time": "05:25",
-        "title": "日本電気制御盤世界シェアランキング",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PMXNvME5xazZGTTUzX3pySVFqX0RrVDE0d3ExY182Y0RRb2dSTlpiejFhMFVHT190VzZnclc5cV9zOUxkQ2JMXzZ3?oc=5",
-        "publishedAt": "2026-09-25T20:25:17.000Z"
-      },
-      {
         "time": "00:18",
         "title": "日本の日本産業エレクトロニクスパッケージング市場2026年版",
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MTE1rWHlNSVZaT2p2ejFXYkRIZXEwdkVBbTc2ZjNrWU0xd2gzOEctWFpUdS00WGJsSFByNldRSGlPV096RTliZWh3?oc=5",
         "publishedAt": "2026-09-26T15:18:35.000Z"
+      },
+      {
+        "time": "16:25",
+        "title": "コメ下落「大盛り」値下げの動き",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596619?source=rss",
+        "publishedAt": "2026-09-26T07:25:45.000Z"
       }
     ],
     "worldHeadlines": [
