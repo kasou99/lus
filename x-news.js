@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T13:14:55.946Z",
+  "updatedAt": "2026-09-26T13:36:57.650Z",
   "items": [
     {
       "time": "22:05",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中国 尖閣沖EEZで3-7月集中調査"
     },
     {
-      "time": "16:16",
-      "title": "未成年選挙運動巡る判決 識者見解",
+      "time": "19:41",
+      "title": "米中300億ドル規模関税引き下げへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596616?source=rss",
-      "publishedAt": "2026-09-26T07:16:18.000Z",
-      "xQuery": "未成年選挙運動巡る判決 識者見解"
+      "url": "https://news.yahoo.co.jp/pickup/6596642?source=rss",
+      "publishedAt": "2026-09-26T10:41:21.000Z",
+      "xQuery": "米中300億ドル規模関税引き下げへ"
     },
     {
-      "time": "20:33",
-      "title": "「超エルニーニョ」経済的損失は",
+      "time": "22:08",
+      "title": "娘投げ落とし疑い 警察突入と同時",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596649?source=rss",
-      "publishedAt": "2026-09-26T11:33:30.000Z",
-      "xQuery": "「超エルニーニョ」経済的損失は"
+      "url": "https://news.yahoo.co.jp/pickup/6596659?source=rss",
+      "publishedAt": "2026-09-26T13:08:53.000Z",
+      "xQuery": "娘投げ落とし疑い 警察突入と同時"
     },
     {
       "time": "21:42",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "がん社内公表の役員 自ら平社員に"
     },
     {
-      "time": "20:52",
-      "title": "定期船が廃止 夫婦2人だけ住む島",
+      "time": "22:22",
+      "title": "川増水で3日間岸に戻れずか 救助",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596650?source=rss",
-      "publishedAt": "2026-09-26T11:52:09.000Z",
-      "xQuery": "定期船が廃止 夫婦2人だけ住む島"
+      "url": "https://news.yahoo.co.jp/pickup/6596661?source=rss",
+      "publishedAt": "2026-09-26T13:22:44.000Z",
+      "xQuery": "川増水で3日間岸に戻れずか 救助"
     }
   ]
 };
