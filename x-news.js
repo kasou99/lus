@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T08:23:04.029Z",
+  "updatedAt": "2026-09-26T08:42:48.020Z",
   "items": [
     {
-      "time": "15:23",
-      "title": "憲法改正巡り 注目される自民布陣",
+      "time": "17:07",
+      "title": "関東 10月はじめにかけ雨多い予想",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596611?source=rss",
-      "publishedAt": "2026-09-26T06:23:22.000Z",
-      "xQuery": "憲法改正巡り 注目される自民布陣"
+      "url": "https://news.yahoo.co.jp/pickup/6596625?source=rss",
+      "publishedAt": "2026-09-26T08:07:34.000Z",
+      "xQuery": "関東 10月はじめにかけ雨多い予想"
     },
     {
       "time": "15:53",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "6階から女児落とされ 警官ら救う"
     },
     {
-      "time": "16:46",
-      "title": "ダイナム クレーンゲームに手応え",
+      "time": "16:51",
+      "title": "スマホ料金 低価格ブランドは攻勢",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596621?source=rss",
-      "publishedAt": "2026-09-26T07:46:45.000Z",
-      "xQuery": "ダイナム クレーンゲームに手応え"
+      "url": "https://news.yahoo.co.jp/pickup/6596622?source=rss",
+      "publishedAt": "2026-09-26T07:51:42.000Z",
+      "xQuery": "スマホ料金 低価格ブランドは攻勢"
     }
   ]
 };
