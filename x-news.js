@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T02:23:48.137Z",
+  "updatedAt": "2026-09-26T02:43:42.582Z",
   "items": [
     {
-      "time": "10:39",
-      "title": "熊本県で震度4 津波の心配なし",
+      "time": "11:33",
+      "title": "米中首脳会談 日本政府は分析急ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596586?source=rss",
-      "publishedAt": "2026-09-26T01:39:15.000Z",
-      "xQuery": "熊本県で震度4 津波の心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6596589?source=rss",
+      "publishedAt": "2026-09-26T02:33:47.000Z",
+      "xQuery": "米中首脳会談 日本政府は分析急ぐ"
     },
     {
-      "time": "07:41",
-      "title": "関東 昼頃にかけ激しい雨降る所も",
+      "time": "08:56",
+      "title": "ネパール土石流 捜索打ち切り検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596566?source=rss",
-      "publishedAt": "2026-09-25T22:41:50.000Z",
-      "xQuery": "関東 昼頃にかけ激しい雨降る所も"
+      "url": "https://news.yahoo.co.jp/pickup/6596572?source=rss",
+      "publishedAt": "2026-09-25T23:56:36.000Z",
+      "xQuery": "ネパール土石流 捜索打ち切り検討"
     },
     {
       "time": "10:06",
