@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T07:39:15.774Z",
+  "updatedAt": "2026-09-26T08:23:04.029Z",
   "items": [
     {
       "time": "15:23",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "6階から女児落とされ 警官ら救う"
     },
     {
-      "time": "14:40",
-      "title": "新潟の廃止油田 止まらぬ石油流出",
+      "time": "16:46",
+      "title": "ダイナム クレーンゲームに手応え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596606?source=rss",
-      "publishedAt": "2026-09-26T05:40:51.000Z",
-      "xQuery": "新潟の廃止油田 止まらぬ石油流出"
+      "url": "https://news.yahoo.co.jp/pickup/6596621?source=rss",
+      "publishedAt": "2026-09-26T07:46:45.000Z",
+      "xQuery": "ダイナム クレーンゲームに手応え"
     }
   ]
 };
