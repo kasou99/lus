@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T07:17:44.619Z",
+  "updatedAt": "2026-09-26T07:39:15.774Z",
   "items": [
     {
       "time": "15:23",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "憲法改正巡り 注目される自民布陣"
     },
     {
-      "time": "11:36",
-      "title": "「名代」茂木氏 首脳外交を補完",
+      "time": "15:53",
+      "title": "ロンドン地盤沈下 識者が悪化警告",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596590?source=rss",
-      "publishedAt": "2026-09-26T02:36:42.000Z",
-      "xQuery": "「名代」茂木氏 首脳外交を補完"
+      "url": "https://news.yahoo.co.jp/pickup/6596613?source=rss",
+      "publishedAt": "2026-09-26T06:53:25.000Z",
+      "xQuery": "ロンドン地盤沈下 識者が悪化警告"
+    },
+    {
+      "time": "16:20",
+      "title": "AIを「SI」と呼称 米中が合意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596617?source=rss",
+      "publishedAt": "2026-09-26T07:20:28.000Z",
+      "xQuery": "AIを「SI」と呼称 米中が合意"
     },
     {
       "time": "15:19",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596610?source=rss",
       "publishedAt": "2026-09-26T06:19:16.000Z",
       "xQuery": "6階から女児落とされ 警官ら救う"
-    },
-    {
-      "time": "14:19",
-      "title": "名古屋テレビ塔で火災 30人が避難",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596605?source=rss",
-      "publishedAt": "2026-09-26T05:19:19.000Z",
-      "xQuery": "名古屋テレビ塔で火災 30人が避難"
     },
     {
       "time": "14:40",
