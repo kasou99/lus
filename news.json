@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T01:26:45.232Z",
+  "updatedAt": "2026-09-26T01:49:14.881Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-09-25T02:00:00.000Z"
       },
       {
-        "time": "13:15",
-        "title": "【小杉取締役に聞く】成長市場を加工技術の足元から支えるユキワ精工 - | 製造現場ドットコム",
-        "source": "| 製造現場ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51MG9mX2d5TC1IQVhtNDIxWVQ1RkVYLXhXUksxamVCNGhsVjA3bUtOX2lEUU1Ud2x4OXBnT2d1STdkdDQtS1pzWVdR?oc=5",
-        "publishedAt": "2026-09-25T04:15:44.000Z"
-      },
-      {
         "time": "19:38",
         "title": "日本の電気制御パネル市場規模と動向",
         "source": "pando.life",
@@ -57,6 +50,13 @@
         "source": "電気新聞ウェブサイト",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yY3psTE8wSzFieWxHUmxidDBPb0xiY180cm9yYnpkcWZBeThXcjdBWGdlY29rdTctbTQ0TFdLd3ZLajVQUWtMUmhyS1hZUlk?oc=5",
         "publishedAt": "2026-09-25T06:20:46.000Z"
+      },
+      {
+        "time": "13:15",
+        "title": "【小杉取締役に聞く】成長市場を加工技術の足元から支えるユキワ精工 - | 製造現場ドットコム",
+        "source": "| 製造現場ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51MG9mX2d5TC1IQVhtNDIxWVQ1RkVYLXhXUksxamVCNGhsVjA3bUtOX2lEUU1Ud2x4OXBnT2d1STdkdDQtS1pzWVdR?oc=5",
+        "publishedAt": "2026-09-25T04:15:44.000Z"
       }
     ],
     "worldHeadlines": [
