@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T09:17:28.372Z",
+  "updatedAt": "2026-09-26T09:38:30.433Z",
   "items": [
     {
       "time": "17:07",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "AIを「SI」と呼称 米中が合意"
     },
     {
-      "time": "15:19",
-      "title": "6階から女児落とされ 警官ら救う",
+      "time": "16:25",
+      "title": "コメ下落「大盛り」値下げの動き",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596610?source=rss",
-      "publishedAt": "2026-09-26T06:19:16.000Z",
-      "xQuery": "6階から女児落とされ 警官ら救う"
+      "url": "https://news.yahoo.co.jp/pickup/6596619?source=rss",
+      "publishedAt": "2026-09-26T07:25:45.000Z",
+      "xQuery": "コメ下落「大盛り」値下げの動き"
     },
     {
       "time": "17:43",

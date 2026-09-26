@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-26T09:17:27.587Z",
+  "updatedAt": "2026-09-26T09:38:29.698Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:25",
-        "title": "日本電気制御盤世界シェアランキング",
+        "time": "18:22",
+        "title": "日本の非接触エンコーダー市場規模と動向",
         "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PMXNvME5xazZGTTUzX3pySVFqX0RrVDE0d3ExY182Y0RRb2dSTlpiejFhMFVHT190VzZnclc5cV9zOUxkQ2JMXzZ3?oc=5",
-        "publishedAt": "2026-09-25T20:25:17.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BaGlQaUxlSlNjX2Y1TkxXSktVVk5TWDhOV0Nha19IZ2RvV0txcDRxYWlzcndOMVhwOU1zemZBRm80VWxPQS14cnJR?oc=5",
+        "publishedAt": "2026-09-26T09:22:34.000Z"
       },
       {
         "time": "00:48",
@@ -17,11 +17,11 @@
         "publishedAt": "2026-09-25T15:48:17.000Z"
       },
       {
-        "time": "19:38",
-        "title": "日本の電気制御パネル市場規模と動向",
+        "time": "05:25",
+        "title": "日本電気制御盤世界シェアランキング",
         "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PdnpOaXFEcHZ6bmpNTExSN2hxcE1ENVpkNkROaTRrRktrV0tweEZlWmo5aTAxblNXdVlkLWNYYlRLQWs4WVBtX2hR?oc=5",
-        "publishedAt": "2026-09-25T10:38:58.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PMXNvME5xazZGTTUzX3pySVFqX0RrVDE0d3ExY182Y0RRb2dSTlpiejFhMFVHT190VzZnclc5cV9zOUxkQ2JMXzZ3?oc=5",
+        "publishedAt": "2026-09-25T20:25:17.000Z"
       },
       {
         "time": "21:15",
@@ -29,6 +29,13 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rNHk1ck9VQWE1RmNPS3BYSGtWdEdtdUl5NjJaUG16aTVpNldGMkItU2Nzem5mUnRjYlFLSUpnMGNEQ0FDM3RvdVlwSUtsRG5TSFRockI0VWZ2Z0hBaEcwMzB5OVN0MjVyalhqdlFCTEdndEVVME5JMDNjNA?oc=5",
         "publishedAt": "2026-09-25T12:15:55.000Z"
+      },
+      {
+        "time": "19:38",
+        "title": "日本の電気制御パネル市場規模と動向",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PdnpOaXFEcHZ6bmpNTExSN2hxcE1ENVpkNkROaTRrRktrV0tweEZlWmo5aTAxblNXdVlkLWNYYlRLQWs4WVBtX2hR?oc=5",
+        "publishedAt": "2026-09-25T10:38:58.000Z"
       },
       {
         "time": "03:17",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596619?source=rss",
         "publishedAt": "2026-09-26T07:25:45.000Z"
-      },
-      {
-        "time": "08:40",
-        "title": "外国人の起業 制度厳格化で急減",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596569?source=rss",
-        "publishedAt": "2026-09-25T23:40:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "18:29",
+        "title": "「思い出」を救う活動 被災者は涙",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596636?source=rss",
+        "publishedAt": "2026-09-26T09:29:10.000Z"
+      },
+      {
         "time": "17:56",
         "title": "群馬の女性 死因は出血性ショック",
         "source": "Yahoo!ニュース",
@@ -161,13 +168,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596597?source=rss",
         "publishedAt": "2026-09-26T04:18:52.000Z"
-      },
-      {
-        "time": "08:25",
-        "title": "印旛沼決壊 ウナギ「全滅だろう」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596567?source=rss",
-        "publishedAt": "2026-09-25T23:25:28.000Z"
       },
       {
         "time": "13:21",
