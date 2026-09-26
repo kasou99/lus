@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T03:20:28.458Z",
+  "updatedAt": "2026-09-26T03:43:29.642Z",
   "items": [
     {
       "time": "12:00",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "米中首脳会談 日本政府は分析急ぐ"
     },
     {
+      "time": "10:32",
+      "title": "OpenAI意図せぬ外部接続「数十」",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596583?source=rss",
+      "publishedAt": "2026-09-26T01:32:40.000Z",
+      "xQuery": "OpenAI意図せぬ外部接続「数十」"
+    },
+    {
       "time": "10:06",
       "title": "6階から娘2人落とした疑い 父逮捕",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596574?source=rss",
       "publishedAt": "2026-09-26T00:17:47.000Z",
       "xQuery": "川におむつ大量投棄疑い 書類送検"
-    },
-    {
-      "time": "09:19",
-      "title": "深海7000mに「クジラの墓場」なぜ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596575?source=rss",
-      "publishedAt": "2026-09-26T00:19:25.000Z",
-      "xQuery": "深海7000mに「クジラの墓場」なぜ"
     }
   ]
 };
