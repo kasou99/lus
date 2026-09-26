@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T10:15:53.935Z",
+  "updatedAt": "2026-09-26T10:37:18.667Z",
   "items": [
     {
       "time": "17:15",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣支持は微増 改造の効果限定的"
     },
     {
+      "time": "18:29",
+      "title": "「思い出」を救う活動 被災者は涙",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596636?source=rss",
+      "publishedAt": "2026-09-26T09:29:10.000Z",
+      "xQuery": "「思い出」を救う活動 被災者は涙"
+    },
+    {
       "time": "16:25",
       "title": "コメ下落「大盛り」値下げの動き",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596619?source=rss",
       "publishedAt": "2026-09-26T07:25:45.000Z",
       "xQuery": "コメ下落「大盛り」値下げの動き"
-    },
-    {
-      "time": "16:20",
-      "title": "AIを「SI」と呼称 米中が合意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596617?source=rss",
-      "publishedAt": "2026-09-26T07:20:28.000Z",
-      "xQuery": "AIを「SI」と呼称 米中が合意"
     },
     {
       "time": "18:54",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "10月値上げラッシュ 家計負担重く"
     },
     {
-      "time": "17:56",
-      "title": "群馬の女性 死因は出血性ショック",
+      "time": "19:14",
+      "title": "福岡の寺院が二重価格導入 効果は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596632?source=rss",
-      "publishedAt": "2026-09-26T08:56:49.000Z",
-      "xQuery": "群馬の女性 死因は出血性ショック"
+      "url": "https://news.yahoo.co.jp/pickup/6596640?source=rss",
+      "publishedAt": "2026-09-26T10:14:12.000Z",
+      "xQuery": "福岡の寺院が二重価格導入 効果は"
     }
   ]
 };
