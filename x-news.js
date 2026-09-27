@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T23:15:58.903Z",
+  "updatedAt": "2026-09-27T23:37:10.105Z",
   "items": [
     {
       "time": "06:32",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "熊本地震2カ月 井戸の復旧進まず"
     },
     {
-      "time": "07:30",
-      "title": "横浜市長選 山中前市長が立候補へ",
+      "time": "08:17",
+      "title": "辞職の山中氏 横浜市長選に出馬へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596793?source=rss",
-      "publishedAt": "2026-09-27T22:30:16.000Z",
-      "xQuery": "横浜市長選 山中前市長が立候補へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596798?source=rss",
+      "publishedAt": "2026-09-27T23:17:20.000Z",
+      "xQuery": "辞職の山中氏 横浜市長選に出馬へ"
     },
     {
-      "time": "06:44",
-      "title": "群馬殺害 男は事件当時と違う服装",
+      "time": "08:12",
+      "title": "ユニクロ好調も国内の店舗減 なぜ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596790?source=rss",
-      "publishedAt": "2026-09-27T21:44:14.000Z",
-      "xQuery": "群馬殺害 男は事件当時と違う服装"
+      "url": "https://news.yahoo.co.jp/pickup/6596796?source=rss",
+      "publishedAt": "2026-09-27T23:12:07.000Z",
+      "xQuery": "ユニクロ好調も国内の店舗減 なぜ"
     }
   ]
 };

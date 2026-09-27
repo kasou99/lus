@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-09-27T23:15:49.534Z",
+  "updatedAt": "2026-09-27T23:37:09.106Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "新社長登場／エンシュウ・松山智彦氏 半導体・医療関連を開拓",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKYkVITzI1OGFramphT2R0Y243U1lURlNxcENhTFlOZFRfZXNqYU5sNHFJckIycHpaYzgzV2dhdFJMRFhTTVhaNkJJYmVaUjkzWFI4bHphWTk?oc=5",
+        "publishedAt": "2026-09-27T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "令和 事業を紡ぐ （６） 東海エレクトロニクス社長 大倉 慎氏（おおくら・しん 世の中の課題解決提案へ 電子部品など供給チームワークに磨き",
+        "source": "ｄメニューニュース",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWE9IaHNyanBsVVpBanRXQWh5dVFXUjNJNjBDM3JzMUNLbzNzYUJjVlFVSW5WTjZQbHJ3RVA2eC1PZVItNi10NFhkUDdIT0JOb0d0THBjczM2R1Z5TU5ISldxSU03MERjY2Q2b0s3S1NONXk1eVYyX3VoeWRpX0NZbTBRcGF6YW11N3JEbG1tVTVwYVXSAZMBQVVfeXFMTVhPSGhzcmpwbFVaQWp0V0FoeXVRV1IzSTYwQzNyczFDS28zc2FCY1ZRVUluVk42UGxyd0VQNngtT2VSLTYtdDRYZFA3SE9CTm9HdExwY3MzNkdWeU1OSEpXcUlNNzBEY2NkNm9LN0tTTjV5NXlWMl91aHlkaV9DWW0wUXBhemFtdTdyRGxtbVU1cGFV?oc=5",
+        "publishedAt": "2026-09-27T20:00:00.000Z"
+      },
+      {
+        "time": "09:30",
+        "title": "「ものづくり展示会ナビ」、製造業の展示会出展に関するアンケート調査を開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80M1VrUV9SMGUtVUFmZnNmcjBydFBDWm02OFFwdnBLelUzSnJTQmdDUjk4dTgtbVFabFUyNzA2bDhmQjlwMG9hZ040aEo0UnNrRnFHS3gzZFJNTVpyaGtYbzhyUEpjTk9T?oc=5",
+        "publishedAt": "2026-09-27T00:30:29.000Z"
+      },
       {
         "time": "15:00",
         "title": "台風25号被害 千葉の観光地に爪痕",
@@ -36,27 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596691?source=rss",
         "publishedAt": "2026-09-27T01:54:05.000Z"
-      },
-      {
-        "time": "14:19",
-        "title": "刀・森岡代表巡る評価 識者見解",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596710?source=rss",
-        "publishedAt": "2026-09-27T05:19:23.000Z"
-      },
-      {
-        "time": "08:12",
-        "title": "ユニクロ好調も国内の店舗減 なぜ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596796?source=rss",
-        "publishedAt": "2026-09-27T23:12:07.000Z"
-      },
-      {
-        "time": "11:36",
-        "title": "「回転ずしバス」試行錯誤100回超",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596695?source=rss",
-        "publishedAt": "2026-09-27T02:36:25.000Z"
       }
     ],
     "worldHeadlines": [
@@ -156,11 +156,11 @@
         "publishedAt": "2026-09-27T22:17:44.000Z"
       },
       {
-        "time": "07:30",
-        "title": "横浜市長選 山中前市長が立候補へ",
+        "time": "08:17",
+        "title": "辞職の山中氏 横浜市長選に出馬へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596793?source=rss",
-        "publishedAt": "2026-09-27T22:30:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596798?source=rss",
+        "publishedAt": "2026-09-27T23:17:20.000Z"
       },
       {
         "time": "06:44",
@@ -215,6 +215,13 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
+      },
+      {
+        "time": "16:00",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
+        "publishedAt": "2026-09-02T07:00:00.000Z"
       }
     ]
   }
