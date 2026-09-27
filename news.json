@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T12:25:26.324Z",
+  "updatedAt": "2026-09-27T12:46:24.160Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "09:30",
         "title": "「ものづくり展示会ナビ」、製造業の展示会出展に関するアンケート調査を開始",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80M1VrUV9SMGUtVUFmZnNmcjBydFBDWm02OFFwdnBLelUzSnJTQmdDUjk4dTgtbVFabFUyNzA2bDhmQjlwMG9hZ040aEo0UnNrRnFHS3gzZFJNTVpyaGtYbzhyUEpjTk9T?oc=5",
         "publishedAt": "2026-09-27T00:30:29.000Z"
       },
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "21:44",
+        "title": "スイス中立厳格化 国民投票で否決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596771?source=rss",
+        "publishedAt": "2026-09-27T12:44:06.000Z"
+      },
+      {
         "time": "08:28",
         "title": "露外相 日本の常任理入りに反対",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596684?source=rss",
         "publishedAt": "2026-09-27T00:36:46.000Z"
-      },
-      {
-        "time": "14:17",
-        "title": "中国のパンダ2頭 アメリカへ出発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596711?source=rss",
-        "publishedAt": "2026-09-27T05:17:16.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,13 +163,6 @@
         "publishedAt": "2026-09-27T08:53:29.000Z"
       },
       {
-        "time": "17:31",
-        "title": "自民福岡県連 新会長に古賀篤氏",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596741?source=rss",
-        "publishedAt": "2026-09-27T08:31:32.000Z"
-      },
-      {
         "time": "21:16",
         "title": "刺されたか 横浜で流血の男性死亡",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596762?source=rss",
         "publishedAt": "2026-09-27T11:16:24.000Z"
+      },
+      {
+        "time": "21:43",
+        "title": "雪崩事故巡り スキーヤー書類送検",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596772?source=rss",
+        "publishedAt": "2026-09-27T12:43:07.000Z"
       },
       {
         "time": "19:11",
