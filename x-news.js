@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T08:23:14.371Z",
+  "updatedAt": "2026-09-27T08:43:20.881Z",
   "items": [
     {
       "time": "15:30",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "日本語能力試験 応募増で運営困難"
     },
     {
-      "time": "15:43",
-      "title": "声優業界 AI無断模倣の被害深刻",
+      "time": "17:07",
+      "title": "構想外の藤浪 来季NPBプレー希望",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596724?source=rss",
-      "publishedAt": "2026-09-27T06:43:02.000Z",
-      "xQuery": "声優業界 AI無断模倣の被害深刻"
+      "url": "https://news.yahoo.co.jp/pickup/6596737?source=rss",
+      "publishedAt": "2026-09-27T08:07:53.000Z",
+      "xQuery": "構想外の藤浪 来季NPBプレー希望"
     }
   ]
 };
