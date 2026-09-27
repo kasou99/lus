@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T07:20:01.833Z",
+  "updatedAt": "2026-09-27T07:41:05.449Z",
   "items": [
     {
       "time": "15:00",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "群馬殺人事件 公開手配の男を逮捕"
     },
     {
-      "time": "14:19",
-      "title": "刀・森岡代表巡る評価 識者見解",
+      "time": "16:18",
+      "title": "国と攻防30年 ビール系飲料の税率",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596710?source=rss",
-      "publishedAt": "2026-09-27T05:19:23.000Z",
-      "xQuery": "刀・森岡代表巡る評価 識者見解"
+      "url": "https://news.yahoo.co.jp/pickup/6596729?source=rss",
+      "publishedAt": "2026-09-27T07:18:35.000Z",
+      "xQuery": "国と攻防30年 ビール系飲料の税率"
     },
     {
       "time": "16:16",
