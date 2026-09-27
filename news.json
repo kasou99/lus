@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T09:18:30.155Z",
+  "updatedAt": "2026-09-27T09:40:09.315Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-09-26T10:07:06.000Z"
       },
       {
-        "time": "18:22",
-        "title": "日本の非接触エンコーダー市場規模と動向",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BaGlQaUxlSlNjX2Y1TkxXSktVVk5TWDhOV0Nha19IZ2RvV0txcDRxYWlzcndOMVhwOU1zemZBRm80VWxPQS14cnJR?oc=5",
-        "publishedAt": "2026-09-26T09:22:34.000Z"
-      },
-      {
         "time": "18:56",
         "title": "成長戦略の整合：転削工具市場レポート、2026年から2033年にかけての予測CAGR",
         "source": "pando.life",
@@ -57,6 +50,13 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0wVGpGYjc1cGtsZnN1WHJvZi1jZnY2aTc3LVlvVlpSTlgwTlZiMDgxaW9yM3hKMV9PcEVfY1BKeE0tZVpZT1BiSWtR?oc=5",
         "publishedAt": "2026-09-26T13:05:56.000Z"
+      },
+      {
+        "time": "00:18",
+        "title": "日本の日本産業エレクトロニクスパッケージング市場2026年版",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MTE1rWHlNSVZaT2p2ejFXYkRIZXEwdkVBbTc2ZjNrWU0xd2gzOEctWFpUdS00WGJsSFByNldRSGlPV096RTliZWh3?oc=5",
+        "publishedAt": "2026-09-26T15:18:35.000Z"
       }
     ],
     "worldHeadlines": [
