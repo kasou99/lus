@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T05:17:27.619Z",
+  "updatedAt": "2026-09-27T05:40:16.202Z",
   "items": [
     {
       "time": "13:18",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 28日にかけ沖縄・奄美に接近"
     },
     {
-      "time": "09:36",
-      "title": "バンコク豪雨 全域を災害地域指定",
+      "time": "13:11",
+      "title": "御嶽山噴火 遺族ら備え必要性訴え",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596684?source=rss",
-      "publishedAt": "2026-09-27T00:36:46.000Z",
-      "xQuery": "バンコク豪雨 全域を災害地域指定"
+      "url": "https://news.yahoo.co.jp/pickup/6596702?source=rss",
+      "publishedAt": "2026-09-27T04:11:39.000Z",
+      "xQuery": "御嶽山噴火 遺族ら備え必要性訴え"
     },
     {
       "time": "13:38",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "岩屋前外相らが訪中 関係改善探る"
     },
     {
-      "time": "10:54",
-      "title": "混雑率177%も増発できず 3つの壁",
+      "time": "14:19",
+      "title": "刀・森岡代表巡る評価 識者見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596691?source=rss",
-      "publishedAt": "2026-09-27T01:54:05.000Z",
-      "xQuery": "混雑率177%も増発できず 3つの壁"
+      "url": "https://news.yahoo.co.jp/pickup/6596710?source=rss",
+      "publishedAt": "2026-09-27T05:19:23.000Z",
+      "xQuery": "刀・森岡代表巡る評価 識者見解"
     },
     {
-      "time": "12:05",
-      "title": "エアコンで肌トラブル 温度差注意",
+      "time": "14:25",
+      "title": "親が子の「代理婚活」中国で盛ん",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596697?source=rss",
-      "publishedAt": "2026-09-27T03:05:50.000Z",
-      "xQuery": "エアコンで肌トラブル 温度差注意"
+      "url": "https://news.yahoo.co.jp/pickup/6596714?source=rss",
+      "publishedAt": "2026-09-27T05:25:16.000Z",
+      "xQuery": "親が子の「代理婚活」中国で盛ん"
     }
   ]
 };
