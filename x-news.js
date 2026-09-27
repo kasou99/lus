@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T04:43:47.743Z",
+  "updatedAt": "2026-09-27T05:17:27.619Z",
   "items": [
     {
       "time": "13:18",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 28日にかけ沖縄・奄美に接近"
     },
     {
-      "time": "09:50",
-      "title": "米大統領機 CNN記者らの搭乗禁止",
+      "time": "09:36",
+      "title": "バンコク豪雨 全域を災害地域指定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596685?source=rss",
-      "publishedAt": "2026-09-27T00:50:55.000Z",
-      "xQuery": "米大統領機 CNN記者らの搭乗禁止"
+      "url": "https://news.yahoo.co.jp/pickup/6596684?source=rss",
+      "publishedAt": "2026-09-27T00:36:46.000Z",
+      "xQuery": "バンコク豪雨 全域を災害地域指定"
     },
     {
-      "time": "13:02",
-      "title": "家計影響も 10月から変わる暮らし",
+      "time": "13:38",
+      "title": "岩屋前外相らが訪中 関係改善探る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596703?source=rss",
-      "publishedAt": "2026-09-27T04:02:05.000Z",
-      "xQuery": "家計影響も 10月から変わる暮らし"
+      "url": "https://news.yahoo.co.jp/pickup/6596706?source=rss",
+      "publishedAt": "2026-09-27T04:38:03.000Z",
+      "xQuery": "岩屋前外相らが訪中 関係改善探る"
     },
     {
       "time": "10:54",
