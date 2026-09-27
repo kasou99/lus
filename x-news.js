@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T08:43:20.881Z",
+  "updatedAt": "2026-09-27T09:18:31.083Z",
   "items": [
     {
       "time": "15:30",
@@ -10,6 +10,22 @@ window.LUS_X_NEWS = {
       "xQuery": "台風25号の土砂崩れ現場 1人死亡"
     },
     {
+      "time": "17:31",
+      "title": "自民福岡県連 新会長に古賀篤氏",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596741?source=rss",
+      "publishedAt": "2026-09-27T08:31:32.000Z",
+      "xQuery": "自民福岡県連 新会長に古賀篤氏"
+    },
+    {
+      "time": "17:53",
+      "title": "公開手配の男逮捕 靴下で逃走か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596745?source=rss",
+      "publishedAt": "2026-09-27T08:53:29.000Z",
+      "xQuery": "公開手配の男逮捕 靴下で逃走か"
+    },
+    {
       "time": "14:34",
       "title": "東京メトロ メアド5.9万件漏洩か",
       "source": "Yahoo!ニュース",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東京メトロ メアド5.9万件漏洩か"
     },
     {
-      "time": "14:47",
-      "title": "群馬殺人事件 公開手配の男を逮捕",
+      "time": "16:50",
+      "title": "住宅街の不発弾撤去 住民避難も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596718?source=rss",
-      "publishedAt": "2026-09-27T05:47:02.000Z",
-      "xQuery": "群馬殺人事件 公開手配の男を逮捕"
-    },
-    {
-      "time": "17:10",
-      "title": "日本語能力試験 応募増で運営困難",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596738?source=rss",
-      "publishedAt": "2026-09-27T08:10:46.000Z",
-      "xQuery": "日本語能力試験 応募増で運営困難"
-    },
-    {
-      "time": "17:07",
-      "title": "構想外の藤浪 来季NPBプレー希望",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596737?source=rss",
-      "publishedAt": "2026-09-27T08:07:53.000Z",
-      "xQuery": "構想外の藤浪 来季NPBプレー希望"
+      "url": "https://news.yahoo.co.jp/pickup/6596734?source=rss",
+      "publishedAt": "2026-09-27T07:50:55.000Z",
+      "xQuery": "住宅街の不発弾撤去 住民避難も"
     }
   ]
 };
