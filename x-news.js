@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T13:15:47.478Z",
+  "updatedAt": "2026-09-27T13:37:24.427Z",
   "items": [
     {
-      "time": "18:56",
-      "title": "台風 非常に強い勢力で沖縄接近へ",
+      "time": "20:05",
+      "title": "熊本地震2カ月 避難所に1500人超",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596755?source=rss",
-      "publishedAt": "2026-09-27T09:56:53.000Z",
-      "xQuery": "台風 非常に強い勢力で沖縄接近へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596761?source=rss",
+      "publishedAt": "2026-09-27T11:05:45.000Z",
+      "xQuery": "熊本地震2カ月 避難所に1500人超"
     },
     {
-      "time": "17:50",
-      "title": "ドクターヘリ 運用見直しに懸念も",
+      "time": "19:43",
+      "title": "内閣支持率45%に上昇 毎日調査",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596744?source=rss",
-      "publishedAt": "2026-09-27T08:50:23.000Z",
-      "xQuery": "ドクターヘリ 運用見直しに懸念も"
+      "url": "https://news.yahoo.co.jp/pickup/6596760?source=rss",
+      "publishedAt": "2026-09-27T10:43:46.000Z",
+      "xQuery": "内閣支持率45%に上昇 毎日調査"
     },
     {
       "time": "21:16",
