@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T01:35:44.003Z",
+  "updatedAt": "2026-09-27T02:28:53.670Z",
   "items": [
     {
       "time": "10:09",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596688?source=rss",
       "publishedAt": "2026-09-27T01:09:30.000Z",
       "xQuery": "福岡・熊本 線状降水帯発生の恐れ"
+    },
+    {
+      "time": "10:20",
+      "title": "「政治とカネ」再燃 自民に警戒感",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596689?source=rss",
+      "publishedAt": "2026-09-27T01:20:24.000Z",
+      "xQuery": "「政治とカネ」再燃 自民に警戒感"
     },
     {
       "time": "09:21",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "露外相 日本の常任理入りに反対"
     },
     {
-      "time": "07:22",
-      "title": "プロバスケ選手逮捕 わいせつ疑い",
+      "time": "08:57",
+      "title": "光通信衛星を数百基整備 NEC計画",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596673?source=rss",
-      "publishedAt": "2026-09-26T22:22:06.000Z",
-      "xQuery": "プロバスケ選手逮捕 わいせつ疑い"
-    },
-    {
-      "time": "09:50",
-      "title": "タクシー会社の機転で 受け子逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596686?source=rss",
-      "publishedAt": "2026-09-27T00:50:19.000Z",
-      "xQuery": "タクシー会社の機転で 受け子逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6596681?source=rss",
+      "publishedAt": "2026-09-26T23:57:55.000Z",
+      "xQuery": "光通信衛星を数百基整備 NEC計画"
     }
   ]
 };
