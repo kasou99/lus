@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T00:56:25.267Z",
+  "updatedAt": "2026-09-27T01:35:44.003Z",
   "items": [
     {
-      "time": "07:27",
-      "title": "九州4県に「線状降水帯」直前予測",
+      "time": "10:09",
+      "title": "福岡・熊本 線状降水帯発生の恐れ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596674?source=rss",
-      "publishedAt": "2026-09-26T22:27:38.000Z",
-      "xQuery": "九州4県に「線状降水帯」直前予測"
-    },
-    {
-      "time": "07:35",
-      "title": "米大統領 海峡巡るイラン提案拒否",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596675?source=rss",
-      "publishedAt": "2026-09-26T22:35:03.000Z",
-      "xQuery": "米大統領 海峡巡るイラン提案拒否"
+      "url": "https://news.yahoo.co.jp/pickup/6596688?source=rss",
+      "publishedAt": "2026-09-27T01:09:30.000Z",
+      "xQuery": "福岡・熊本 線状降水帯発生の恐れ"
     },
     {
       "time": "09:21",
@@ -26,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "飲酒事故で子失い2年 判決に怒り"
     },
     {
+      "time": "08:28",
+      "title": "露外相 日本の常任理入りに反対",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596678?source=rss",
+      "publishedAt": "2026-09-26T23:28:39.000Z",
+      "xQuery": "露外相 日本の常任理入りに反対"
+    },
+    {
       "time": "07:22",
       "title": "プロバスケ選手逮捕 わいせつ疑い",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "プロバスケ選手逮捕 わいせつ疑い"
     },
     {
-      "time": "08:32",
-      "title": "代替コーヒー 背景に2050年問題",
+      "time": "09:50",
+      "title": "タクシー会社の機転で 受け子逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596680?source=rss",
-      "publishedAt": "2026-09-26T23:32:43.000Z",
-      "xQuery": "代替コーヒー 背景に2050年問題"
+      "url": "https://news.yahoo.co.jp/pickup/6596686?source=rss",
+      "publishedAt": "2026-09-27T00:50:19.000Z",
+      "xQuery": "タクシー会社の機転で 受け子逮捕"
     }
   ]
 };
