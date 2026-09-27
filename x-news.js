@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T10:16:56.751Z",
+  "updatedAt": "2026-09-27T10:38:15.329Z",
   "items": [
     {
-      "time": "15:30",
-      "title": "台風25号の土砂崩れ現場 1人死亡",
+      "time": "18:56",
+      "title": "台風 非常に強い勢力で沖縄接近へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596725?source=rss",
-      "publishedAt": "2026-09-27T06:30:58.000Z",
-      "xQuery": "台風25号の土砂崩れ現場 1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6596755?source=rss",
+      "publishedAt": "2026-09-27T09:56:53.000Z",
+      "xQuery": "台風 非常に強い勢力で沖縄接近へ"
     },
     {
       "time": "17:31",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "公開手配の男逮捕 靴下で逃走か"
     },
     {
+      "time": "19:11",
+      "title": "水門ごみ回収中に転落か 男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596757?source=rss",
+      "publishedAt": "2026-09-27T10:11:45.000Z",
+      "xQuery": "水門ごみ回収中に転落か 男性死亡"
+    },
+    {
       "time": "17:10",
       "title": "日本語能力試験 応募増で運営困難",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596738?source=rss",
       "publishedAt": "2026-09-27T08:10:46.000Z",
       "xQuery": "日本語能力試験 応募増で運営困難"
-    },
-    {
-      "time": "18:33",
-      "title": "アトピー症状の差 免疫細胞影響か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596751?source=rss",
-      "publishedAt": "2026-09-27T09:33:03.000Z",
-      "xQuery": "アトピー症状の差 免疫細胞影響か"
     }
   ]
 };
