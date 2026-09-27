@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T07:41:05.449Z",
+  "updatedAt": "2026-09-27T08:23:14.371Z",
   "items": [
     {
-      "time": "15:00",
-      "title": "台風25号被害 千葉の観光地に爪痕",
+      "time": "15:30",
+      "title": "台風25号の土砂崩れ現場 1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596719?source=rss",
-      "publishedAt": "2026-09-27T06:00:56.000Z",
-      "xQuery": "台風25号被害 千葉の観光地に爪痕"
+      "url": "https://news.yahoo.co.jp/pickup/6596725?source=rss",
+      "publishedAt": "2026-09-27T06:30:58.000Z",
+      "xQuery": "台風25号の土砂崩れ現場 1人死亡"
     },
     {
-      "time": "13:11",
-      "title": "御嶽山噴火 遺族ら備え必要性訴え",
+      "time": "14:34",
+      "title": "東京メトロ メアド5.9万件漏洩か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596702?source=rss",
-      "publishedAt": "2026-09-27T04:11:39.000Z",
-      "xQuery": "御嶽山噴火 遺族ら備え必要性訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6596712?source=rss",
+      "publishedAt": "2026-09-27T05:34:11.000Z",
+      "xQuery": "東京メトロ メアド5.9万件漏洩か"
     },
     {
       "time": "14:47",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "群馬殺人事件 公開手配の男を逮捕"
     },
     {
-      "time": "16:18",
-      "title": "国と攻防30年 ビール系飲料の税率",
+      "time": "17:10",
+      "title": "日本語能力試験 応募増で運営困難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596729?source=rss",
-      "publishedAt": "2026-09-27T07:18:35.000Z",
-      "xQuery": "国と攻防30年 ビール系飲料の税率"
+      "url": "https://news.yahoo.co.jp/pickup/6596738?source=rss",
+      "publishedAt": "2026-09-27T08:10:46.000Z",
+      "xQuery": "日本語能力試験 応募増で運営困難"
     },
     {
-      "time": "16:16",
-      "title": "スパイの子 女子児童が浴びた罵声",
+      "time": "15:43",
+      "title": "声優業界 AI無断模倣の被害深刻",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596732?source=rss",
-      "publishedAt": "2026-09-27T07:16:57.000Z",
-      "xQuery": "スパイの子 女子児童が浴びた罵声"
+      "url": "https://news.yahoo.co.jp/pickup/6596724?source=rss",
+      "publishedAt": "2026-09-27T06:43:02.000Z",
+      "xQuery": "声優業界 AI無断模倣の被害深刻"
     }
   ]
 };

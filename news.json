@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T07:41:04.475Z",
+  "updatedAt": "2026-09-27T08:23:13.577Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -170,6 +170,13 @@
         "publishedAt": "2026-09-27T04:11:39.000Z"
       },
       {
+        "time": "16:50",
+        "title": "住宅街の不発弾撤去 住民避難も",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596734?source=rss",
+        "publishedAt": "2026-09-27T07:50:55.000Z"
+      },
+      {
         "time": "09:21",
         "title": "飲酒事故で子失い2年 判決に怒り",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596659?source=rss",
         "publishedAt": "2026-09-26T13:08:53.000Z"
-      },
-      {
-        "time": "15:19",
-        "title": "6階から女児落とされ 警官ら救う",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596610?source=rss",
-        "publishedAt": "2026-09-26T06:19:16.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       }
