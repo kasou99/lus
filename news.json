@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T21:37:28.695Z",
+  "updatedAt": "2026-09-27T22:15:53.018Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -7,6 +7,13 @@
         "title": "新社長登場／エンシュウ・松山智彦氏 半導体・医療関連を開拓",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKYkVITzI1OGFramphT2R0Y243U1lURlNxcENhTFlOZFRfZXNqYU5sNHFJckIycHpaYzgzV2dhdFJMRFhTTVhaNkJJYmVaUjkzWFI4bHphWTk?oc=5",
+        "publishedAt": "2026-09-27T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "令和 事業を紡ぐ （６） 東海エレクトロニクス社長 大倉 慎氏（おおくら・しん 世の中の課題解決提案へ 電子部品など供給チームワークに磨き",
+        "source": "topics.smt.docomo.ne.jp",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWE9IaHNyanBsVVpBanRXQWh5dVFXUjNJNjBDM3JzMUNLbzNzYUJjVlFVSW5WTjZQbHJ3RVA2eC1PZVItNi10NFhkUDdIT0JOb0d0THBjczM2R1Z5TU5ISldxSU03MERjY2Q2b0s3S1NONXk1eVYyX3VoeWRpX0NZbTBRcGF6YW11N3JEbG1tVTVwYVXSAZMBQVVfeXFMTVhPSGhzcmpwbFVaQWp0V0FoeXVRV1IzSTYwQzNyczFDS28zc2FCY1ZRVUluVk42UGxyd0VQNngtT2VSLTYtdDRYZFA3SE9CTm9HdExwY3MzNkdWeU1OSEpXcUlNNzBEY2NkNm9LN0tTTjV5NXlWMl91aHlkaV9DWW0wUXBhemFtdTdyRGxtbVU1cGFV?oc=5",
         "publishedAt": "2026-09-27T20:00:00.000Z"
       },
       {
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596691?source=rss",
         "publishedAt": "2026-09-27T01:54:05.000Z"
-      },
-      {
-        "time": "14:19",
-        "title": "刀・森岡代表巡る評価 識者見解",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596710?source=rss",
-        "publishedAt": "2026-09-27T05:19:23.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "06:44",
+        "title": "群馬殺害 男は事件当時と違う服装",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596790?source=rss",
+        "publishedAt": "2026-09-27T21:44:14.000Z"
+      },
+      {
         "time": "20:05",
         "title": "熊本地震2カ月 避難所に1500人超",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596761?source=rss",
         "publishedAt": "2026-09-27T11:05:45.000Z"
-      },
-      {
-        "time": "17:53",
-        "title": "公開手配の男逮捕 靴下で逃走か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596745?source=rss",
-        "publishedAt": "2026-09-27T08:53:29.000Z"
       },
       {
         "time": "21:16",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T21:37:29.308Z",
+  "updatedAt": "2026-09-27T22:15:53.986Z",
   "items": [
     {
       "time": "06:32",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣支持率45%に上昇 毎日調査"
     },
     {
+      "time": "06:44",
+      "title": "群馬殺害 男は事件当時と違う服装",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596790?source=rss",
+      "publishedAt": "2026-09-27T21:44:14.000Z",
+      "xQuery": "群馬殺害 男は事件当時と違う服装"
+    },
+    {
       "time": "21:21",
       "title": "原発事故時の拠点病院BCP策定4割",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596769?source=rss",
       "publishedAt": "2026-09-27T12:16:17.000Z",
       "xQuery": "刺されたか 横浜で流血の男性死亡"
-    },
-    {
-      "time": "21:56",
-      "title": "34歳脳梗塞 若くて介護保険使えず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596773?source=rss",
-      "publishedAt": "2026-09-27T12:56:18.000Z",
-      "xQuery": "34歳脳梗塞 若くて介護保険使えず"
     }
   ]
 };
