@@ -1,14 +1,7 @@
 {
-  "updatedAt": "2026-09-27T13:37:22.684Z",
+  "updatedAt": "2026-09-27T14:15:52.977Z",
   "groups": {
     "machineHeadlines": [
-      {
-        "time": "08:12",
-        "title": "協和機工、Fluke製品の国内向けカタログサイトを開設",
-        "source": "山陽新聞",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvVmV0MENoRlU5eTlPRGlncnFRamN0VVhnZElIZFRDSWRMVEpURlhscWJOQ0JpLXFEZ0RNR2M1LTRUYXdSSlZjX3JoelpyRFYwdjd4UFVPUENfZkFuN19zSW8wQ2xXU2p4?oc=5",
-        "publishedAt": "2026-09-26T23:12:28.000Z"
-      },
       {
         "time": "00:30",
         "title": "日本サーボモータードライブ市場の主要10社まとめ",
@@ -19,7 +12,7 @@
       {
         "time": "06:36",
         "title": "「AIは当面、電動工具として正しく使うべき」 サントリービバレッジ＆フードの木村穣介社長が見解（食品新聞）",
-        "source": "Yahoo!ニュース",
+        "source": "news.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KQ1YtaEdjcjhhaHNTRkpNeVYtR2tNQTNCNlF0WkFkUk1lNEpFaWQxWFJ5bkl5YWplRzJYaFZyNkRITS1iOEZiTDlnOWZrWFdXb0pjM0xLdS1iRVdiTjRudUxDclZZcVFzaWtvaWFBNWpGdVF4UVlhbVhOVzBCaUE?oc=5",
         "publishedAt": "2026-09-26T21:36:31.000Z"
       },
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596754?source=rss",
         "publishedAt": "2026-09-27T10:04:24.000Z"
+      },
+      {
+        "time": "16:18",
+        "title": "国と攻防30年 ビール系飲料の税率",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596729?source=rss",
+        "publishedAt": "2026-09-27T07:18:35.000Z"
       }
     ],
     "worldHeadlines": [

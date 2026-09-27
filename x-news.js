@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T13:37:24.427Z",
+  "updatedAt": "2026-09-27T14:15:53.710Z",
   "items": [
-    {
-      "time": "20:05",
-      "title": "熊本地震2カ月 避難所に1500人超",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596761?source=rss",
-      "publishedAt": "2026-09-27T11:05:45.000Z",
-      "xQuery": "熊本地震2カ月 避難所に1500人超"
-    },
     {
       "time": "19:43",
       "title": "内閣支持率45%に上昇 毎日調査",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596760?source=rss",
       "publishedAt": "2026-09-27T10:43:46.000Z",
       "xQuery": "内閣支持率45%に上昇 毎日調査"
+    },
+    {
+      "time": "20:05",
+      "title": "熊本地震2カ月 避難所に1500人超",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596761?source=rss",
+      "publishedAt": "2026-09-27T11:05:45.000Z",
+      "xQuery": "熊本地震2カ月 避難所に1500人超"
     },
     {
       "time": "21:16",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "雪崩事故巡り スキーヤー書類送検"
     },
     {
-      "time": "20:50",
-      "title": "役所の固定電話廃止 香川・坂出市",
+      "time": "21:56",
+      "title": "34歳脳梗塞 若くて介護保険使えず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596766?source=rss",
-      "publishedAt": "2026-09-27T11:50:30.000Z",
-      "xQuery": "役所の固定電話廃止 香川・坂出市"
+      "url": "https://news.yahoo.co.jp/pickup/6596773?source=rss",
+      "publishedAt": "2026-09-27T12:56:18.000Z",
+      "xQuery": "34歳脳梗塞 若くて介護保険使えず"
     }
   ]
 };
