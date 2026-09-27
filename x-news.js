@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T12:46:24.790Z",
+  "updatedAt": "2026-09-27T13:15:47.478Z",
   "items": [
     {
       "time": "18:56",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "刺されたか 横浜で流血の男性死亡"
     },
     {
-      "time": "20:16",
-      "title": "スラップ訴訟 身銭切り戦った男性",
+      "time": "21:43",
+      "title": "雪崩事故巡り スキーヤー書類送検",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596762?source=rss",
-      "publishedAt": "2026-09-27T11:16:24.000Z",
-      "xQuery": "スラップ訴訟 身銭切り戦った男性"
+      "url": "https://news.yahoo.co.jp/pickup/6596772?source=rss",
+      "publishedAt": "2026-09-27T12:43:07.000Z",
+      "xQuery": "雪崩事故巡り スキーヤー書類送検"
     },
     {
       "time": "20:50",
