@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T14:15:53.710Z",
+  "updatedAt": "2026-09-27T14:37:58.318Z",
   "items": [
     {
       "time": "19:43",
@@ -10,28 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣支持率45%に上昇 毎日調査"
     },
     {
-      "time": "20:05",
-      "title": "熊本地震2カ月 避難所に1500人超",
+      "time": "21:44",
+      "title": "スイス中立厳格化 国民投票で否決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596761?source=rss",
-      "publishedAt": "2026-09-27T11:05:45.000Z",
-      "xQuery": "熊本地震2カ月 避難所に1500人超"
+      "url": "https://news.yahoo.co.jp/pickup/6596771?source=rss",
+      "publishedAt": "2026-09-27T12:44:06.000Z",
+      "xQuery": "スイス中立厳格化 国民投票で否決"
     },
     {
-      "time": "21:16",
-      "title": "刺されたか 横浜で流血の男性死亡",
+      "time": "21:21",
+      "title": "原発事故時の拠点病院BCP策定4割",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596769?source=rss",
-      "publishedAt": "2026-09-27T12:16:17.000Z",
-      "xQuery": "刺されたか 横浜で流血の男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6596768?source=rss",
+      "publishedAt": "2026-09-27T12:21:59.000Z",
+      "xQuery": "原発事故時の拠点病院BCP策定4割"
     },
     {
-      "time": "21:43",
-      "title": "雪崩事故巡り スキーヤー書類送検",
+      "time": "21:59",
+      "title": "印旛沼の決壊 堤防側にも要因か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596772?source=rss",
-      "publishedAt": "2026-09-27T12:43:07.000Z",
-      "xQuery": "雪崩事故巡り スキーヤー書類送検"
+      "url": "https://news.yahoo.co.jp/pickup/6596774?source=rss",
+      "publishedAt": "2026-09-27T12:59:45.000Z",
+      "xQuery": "印旛沼の決壊 堤防側にも要因か"
     },
     {
       "time": "21:56",
