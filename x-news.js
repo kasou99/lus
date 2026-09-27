@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T22:38:42.109Z",
+  "updatedAt": "2026-09-27T23:15:58.903Z",
   "items": [
     {
       "time": "06:32",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風接近 沖縄奄美は高波強風続く"
     },
     {
-      "time": "19:43",
-      "title": "内閣支持率45%に上昇 毎日調査",
+      "time": "08:14",
+      "title": "裏金議員を要職「問題」61% 毎日",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596760?source=rss",
-      "publishedAt": "2026-09-27T10:43:46.000Z",
-      "xQuery": "内閣支持率45%に上昇 毎日調査"
+      "url": "https://news.yahoo.co.jp/pickup/6596797?source=rss",
+      "publishedAt": "2026-09-27T23:14:07.000Z",
+      "xQuery": "裏金議員を要職「問題」61% 毎日"
     },
     {
       "time": "07:17",
