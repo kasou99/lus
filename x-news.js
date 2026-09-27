@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T04:21:22.289Z",
+  "updatedAt": "2026-09-27T04:43:47.743Z",
   "items": [
     {
       "time": "13:18",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "家計影響も 10月から変わる暮らし"
     },
     {
-      "time": "12:14",
-      "title": "群馬殺害 手配の男名義の車を押収",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596699?source=rss",
-      "publishedAt": "2026-09-27T03:14:13.000Z",
-      "xQuery": "群馬殺害 手配の男名義の車を押収"
-    },
-    {
       "time": "10:54",
       "title": "混雑率177%も増発できず 3つの壁",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596691?source=rss",
       "publishedAt": "2026-09-27T01:54:05.000Z",
       "xQuery": "混雑率177%も増発できず 3つの壁"
+    },
+    {
+      "time": "12:05",
+      "title": "エアコンで肌トラブル 温度差注意",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596697?source=rss",
+      "publishedAt": "2026-09-27T03:05:50.000Z",
+      "xQuery": "エアコンで肌トラブル 温度差注意"
     }
   ]
 };
