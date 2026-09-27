@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T03:45:33.955Z",
+  "updatedAt": "2026-09-27T04:21:22.289Z",
   "items": [
     {
-      "time": "10:09",
-      "title": "福岡・熊本 線状降水帯発生の恐れ",
+      "time": "13:18",
+      "title": "台風 28日にかけ沖縄・奄美に接近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596688?source=rss",
-      "publishedAt": "2026-09-27T01:09:30.000Z",
-      "xQuery": "福岡・熊本 線状降水帯発生の恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6596704?source=rss",
+      "publishedAt": "2026-09-27T04:18:02.000Z",
+      "xQuery": "台風 28日にかけ沖縄・奄美に接近"
     },
     {
-      "time": "10:20",
-      "title": "「政治とカネ」再燃 自民に警戒感",
+      "time": "09:50",
+      "title": "米大統領機 CNN記者らの搭乗禁止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596689?source=rss",
-      "publishedAt": "2026-09-27T01:20:24.000Z",
-      "xQuery": "「政治とカネ」再燃 自民に警戒感"
+      "url": "https://news.yahoo.co.jp/pickup/6596685?source=rss",
+      "publishedAt": "2026-09-27T00:50:55.000Z",
+      "xQuery": "米大統領機 CNN記者らの搭乗禁止"
     },
     {
-      "time": "11:16",
-      "title": "家計に影響も 10月からどう変わる",
+      "time": "13:02",
+      "title": "家計影響も 10月から変わる暮らし",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596694?source=rss",
-      "publishedAt": "2026-09-27T02:16:26.000Z",
-      "xQuery": "家計に影響も 10月からどう変わる"
+      "url": "https://news.yahoo.co.jp/pickup/6596703?source=rss",
+      "publishedAt": "2026-09-27T04:02:05.000Z",
+      "xQuery": "家計影響も 10月から変わる暮らし"
     },
     {
       "time": "12:14",

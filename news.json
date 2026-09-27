@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T03:45:33.062Z",
+  "updatedAt": "2026-09-27T04:21:21.388Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -40,7 +40,7 @@
       {
         "time": "03:25",
         "title": "(株)ヤマザキ【6147】：株価・株式情報（夜間PTS含む）",
-        "source": "finance.yahoo.co.jp",
+        "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91SDlfVDdiZGgyRHZXUENrNXh3a0EzTGRJWDBfXzBPdUFyOHA2clVMbzY2R1VxM3d1R0lvY3lXN2s5RVJzQzd2WHp6LVpwQkp2UUE?oc=5",
         "publishedAt": "2026-09-26T18:25:45.000Z"
       },
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "11:16",
-        "title": "家計に影響も 10月からどう変わる",
+        "time": "13:02",
+        "title": "家計影響も 10月から変わる暮らし",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596694?source=rss",
-        "publishedAt": "2026-09-27T02:16:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596703?source=rss",
+        "publishedAt": "2026-09-27T04:02:05.000Z"
       },
       {
         "time": "16:25",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "13:11",
+        "title": "御嶽山噴火 遺族ら備え必要性訴え",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596702?source=rss",
+        "publishedAt": "2026-09-27T04:11:39.000Z"
+      },
+      {
         "time": "12:14",
         "title": "群馬殺害 手配の男名義の車を押収",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596673?source=rss",
         "publishedAt": "2026-09-26T22:22:06.000Z"
-      },
-      {
-        "time": "09:50",
-        "title": "タクシー会社の機転で 受け子逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596686?source=rss",
-        "publishedAt": "2026-09-27T00:50:19.000Z"
       }
     ],
     "subsidyHeadlines": [
