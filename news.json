@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-27T19:37:03.707Z",
+  "updatedAt": "2026-09-27T20:17:11.022Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "新社長登場／エンシュウ・松山智彦氏 半導体・医療関連を開拓",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKYkVITzI1OGFramphT2R0Y243U1lURlNxcENhTFlOZFRfZXNqYU5sNHFJckIycHpaYzgzV2dhdFJMRFhTTVhaNkJJYmVaUjkzWFI4bHphWTk?oc=5",
+        "publishedAt": "2026-09-27T20:00:00.000Z"
+      },
       {
         "time": "06:36",
         "title": "「AIは当面、電動工具として正しく使うべき」 サントリービバレッジ＆フードの木村穣介社長が見解（食品新聞）",
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596691?source=rss",
         "publishedAt": "2026-09-27T01:54:05.000Z"
-      },
-      {
-        "time": "14:19",
-        "title": "刀・森岡代表巡る評価 識者見解",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596710?source=rss",
-        "publishedAt": "2026-09-27T05:19:23.000Z"
       }
     ],
     "worldHeadlines": [
