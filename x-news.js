@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T11:37:15.940Z",
+  "updatedAt": "2026-09-27T12:25:27.375Z",
   "items": [
     {
       "time": "18:56",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "スラップ訴訟 身銭切り戦った男性"
     },
     {
-      "time": "18:40",
-      "title": "アジア大会関係者 漂流の男性救助",
+      "time": "20:50",
+      "title": "役所の固定電話廃止 香川・坂出市",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596753?source=rss",
-      "publishedAt": "2026-09-27T09:40:13.000Z",
-      "xQuery": "アジア大会関係者 漂流の男性救助"
+      "url": "https://news.yahoo.co.jp/pickup/6596766?source=rss",
+      "publishedAt": "2026-09-27T11:50:30.000Z",
+      "xQuery": "役所の固定電話廃止 香川・坂出市"
     }
   ]
 };

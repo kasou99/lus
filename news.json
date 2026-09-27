@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T11:37:15.208Z",
+  "updatedAt": "2026-09-27T12:25:26.324Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "09:30",
         "title": "「ものづくり展示会ナビ」、製造業の展示会出展に関するアンケート調査を開始",
-        "source": "ニコニコニュース",
+        "source": "news.nicovideo.jp",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80M1VrUV9SMGUtVUFmZnNmcjBydFBDWm02OFFwdnBLelUzSnJTQmdDUjk4dTgtbVFabFUyNzA2bDhmQjlwMG9hZ040aEo0UnNrRnFHS3gzZFJNTVpyaGtYbzhyUEpjTk9T?oc=5",
         "publishedAt": "2026-09-27T00:30:29.000Z"
       },
@@ -163,18 +163,18 @@
         "publishedAt": "2026-09-27T08:53:29.000Z"
       },
       {
-        "time": "14:47",
-        "title": "群馬殺人事件 公開手配の男を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596718?source=rss",
-        "publishedAt": "2026-09-27T05:47:02.000Z"
-      },
-      {
         "time": "17:31",
         "title": "自民福岡県連 新会長に古賀篤氏",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596741?source=rss",
         "publishedAt": "2026-09-27T08:31:32.000Z"
+      },
+      {
+        "time": "21:16",
+        "title": "刺されたか 横浜で流血の男性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596769?source=rss",
+        "publishedAt": "2026-09-27T12:16:17.000Z"
       },
       {
         "time": "20:16",
