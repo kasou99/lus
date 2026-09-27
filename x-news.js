@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T21:15:37.433Z",
+  "updatedAt": "2026-09-27T21:37:29.308Z",
   "items": [
+    {
+      "time": "06:32",
+      "title": "台風接近 沖縄奄美は高波強風続く",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596789?source=rss",
+      "publishedAt": "2026-09-27T21:32:49.000Z",
+      "xQuery": "台風接近 沖縄奄美は高波強風続く"
+    },
     {
       "time": "19:43",
       "title": "内閣支持率45%に上昇 毎日調査",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596760?source=rss",
       "publishedAt": "2026-09-27T10:43:46.000Z",
       "xQuery": "内閣支持率45%に上昇 毎日調査"
-    },
-    {
-      "time": "21:44",
-      "title": "スイス中立厳格化 国民投票で否決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596771?source=rss",
-      "publishedAt": "2026-09-27T12:44:06.000Z",
-      "xQuery": "スイス中立厳格化 国民投票で否決"
     },
     {
       "time": "21:21",
