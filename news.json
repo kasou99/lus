@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T02:28:52.699Z",
+  "updatedAt": "2026-09-27T02:49:55.756Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,11 @@
         "publishedAt": "2026-09-26T21:40:35.000Z"
       },
       {
-        "time": "09:30",
+        "time": "09:45",
         "title": "「ものづくり展示会ナビ」、製造業の展示会出展に関するアンケート調査を開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WU0FaSWxvZUhEdUlkenhRSGExWDUwTmxzLWNVekg4VHMyNmJSYXZ1Y1pNaDBVNWVrb2F2a3ljeUx0SHJuOERIZ2tBV3dPY1VLVHpELVU5R3BTZXJXZGNHVi1hY0lVTlN0Z0JjR0JFcnFNZ1UzcF9wVDQxSQ?oc=5",
-        "publishedAt": "2026-09-27T00:30:29.000Z"
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OQUhRcUdSMWxOUUJNc3ZSMk01UVRHcWRTTVM4X0RkdDFZazlGV3RKczlFWVBRMl9sWUwwUFppUnlDTUw3dHdvbzR2ZUp1T0VLZ3NLV045bk1JUnBKVjlLM0lydjZiTTB6RzJfdm9heVVuUQ?oc=5",
+        "publishedAt": "2026-09-27T00:45:21.000Z"
       },
       {
         "time": "19:07",
@@ -119,13 +119,6 @@
         "publishedAt": "2026-09-26T07:25:45.000Z"
       },
       {
-        "time": "08:40",
-        "title": "外国人の起業 制度厳格化で急減",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596569?source=rss",
-        "publishedAt": "2026-09-25T23:40:16.000Z"
-      },
-      {
         "time": "23:03",
         "title": "トキエア再延期 県からの融資返済",
         "source": "Yahoo!ニュース",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596691?source=rss",
         "publishedAt": "2026-09-27T01:54:05.000Z"
+      },
+      {
+        "time": "08:32",
+        "title": "代替コーヒー 背景に2050年問題",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596680?source=rss",
+        "publishedAt": "2026-09-26T23:32:43.000Z"
       }
     ],
     "localHeadlines": [
