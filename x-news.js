@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T05:40:16.202Z",
+  "updatedAt": "2026-09-27T06:30:49.506Z",
   "items": [
     {
-      "time": "13:18",
-      "title": "台風 28日にかけ沖縄・奄美に接近",
+      "time": "15:00",
+      "title": "台風25号被害 千葉の観光地に爪痕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596704?source=rss",
-      "publishedAt": "2026-09-27T04:18:02.000Z",
-      "xQuery": "台風 28日にかけ沖縄・奄美に接近"
+      "url": "https://news.yahoo.co.jp/pickup/6596719?source=rss",
+      "publishedAt": "2026-09-27T06:00:56.000Z",
+      "xQuery": "台風25号被害 千葉の観光地に爪痕"
     },
     {
       "time": "13:11",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596702?source=rss",
       "publishedAt": "2026-09-27T04:11:39.000Z",
       "xQuery": "御嶽山噴火 遺族ら備え必要性訴え"
+    },
+    {
+      "time": "14:47",
+      "title": "群馬殺人事件 公開手配の男を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596718?source=rss",
+      "publishedAt": "2026-09-27T05:47:02.000Z",
+      "xQuery": "群馬殺人事件 公開手配の男を逮捕"
     },
     {
       "time": "13:38",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596710?source=rss",
       "publishedAt": "2026-09-27T05:19:23.000Z",
       "xQuery": "刀・森岡代表巡る評価 識者見解"
-    },
-    {
-      "time": "14:25",
-      "title": "親が子の「代理婚活」中国で盛ん",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596714?source=rss",
-      "publishedAt": "2026-09-27T05:25:16.000Z",
-      "xQuery": "親が子の「代理婚活」中国で盛ん"
     }
   ]
 };
