@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T11:14:51.509Z",
+  "updatedAt": "2026-09-27T11:37:15.940Z",
   "items": [
     {
       "time": "18:56",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 非常に強い勢力で沖縄接近へ"
     },
     {
-      "time": "17:31",
-      "title": "自民福岡県連 新会長に古賀篤氏",
+      "time": "17:50",
+      "title": "ドクターヘリ 運用見直しに懸念も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596741?source=rss",
-      "publishedAt": "2026-09-27T08:31:32.000Z",
-      "xQuery": "自民福岡県連 新会長に古賀篤氏"
-    },
-    {
-      "time": "17:53",
-      "title": "公開手配の男逮捕 靴下で逃走か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596745?source=rss",
-      "publishedAt": "2026-09-27T08:53:29.000Z",
-      "xQuery": "公開手配の男逮捕 靴下で逃走か"
+      "url": "https://news.yahoo.co.jp/pickup/6596744?source=rss",
+      "publishedAt": "2026-09-27T08:50:23.000Z",
+      "xQuery": "ドクターヘリ 運用見直しに懸念も"
     },
     {
       "time": "19:11",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "水門ごみ回収中に転落か 男性死亡"
     },
     {
-      "time": "18:33",
-      "title": "アトピー症状の差 免疫細胞影響か",
+      "time": "20:16",
+      "title": "スラップ訴訟 身銭切り戦った男性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596751?source=rss",
-      "publishedAt": "2026-09-27T09:33:03.000Z",
-      "xQuery": "アトピー症状の差 免疫細胞影響か"
+      "url": "https://news.yahoo.co.jp/pickup/6596762?source=rss",
+      "publishedAt": "2026-09-27T11:16:24.000Z",
+      "xQuery": "スラップ訴訟 身銭切り戦った男性"
+    },
+    {
+      "time": "18:40",
+      "title": "アジア大会関係者 漂流の男性救助",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596753?source=rss",
+      "publishedAt": "2026-09-27T09:40:13.000Z",
+      "xQuery": "アジア大会関係者 漂流の男性救助"
     }
   ]
 };
