@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T14:37:58.318Z",
+  "updatedAt": "2026-09-27T15:15:54.697Z",
   "items": [
     {
       "time": "19:43",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "原発事故時の拠点病院BCP策定4割"
     },
     {
-      "time": "21:59",
-      "title": "印旛沼の決壊 堤防側にも要因か",
+      "time": "21:16",
+      "title": "刺されたか 横浜で流血の男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596774?source=rss",
-      "publishedAt": "2026-09-27T12:59:45.000Z",
-      "xQuery": "印旛沼の決壊 堤防側にも要因か"
+      "url": "https://news.yahoo.co.jp/pickup/6596769?source=rss",
+      "publishedAt": "2026-09-27T12:16:17.000Z",
+      "xQuery": "刺されたか 横浜で流血の男性死亡"
     },
     {
       "time": "21:56",
