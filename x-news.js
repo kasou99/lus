@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T02:49:56.474Z",
+  "updatedAt": "2026-09-27T03:22:35.027Z",
   "items": [
     {
       "time": "10:09",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "「政治とカネ」再燃 自民に警戒感"
     },
     {
-      "time": "09:21",
-      "title": "飲酒事故で子失い2年 判決に怒り",
+      "time": "12:14",
+      "title": "群馬殺害 手配の男名義の車を押収",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596683?source=rss",
-      "publishedAt": "2026-09-27T00:21:27.000Z",
-      "xQuery": "飲酒事故で子失い2年 判決に怒り"
+      "url": "https://news.yahoo.co.jp/pickup/6596699?source=rss",
+      "publishedAt": "2026-09-27T03:14:13.000Z",
+      "xQuery": "群馬殺害 手配の男名義の車を押収"
     },
     {
-      "time": "08:28",
-      "title": "露外相 日本の常任理入りに反対",
+      "time": "10:54",
+      "title": "混雑率177%も増発できず 3つの壁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596678?source=rss",
-      "publishedAt": "2026-09-26T23:28:39.000Z",
-      "xQuery": "露外相 日本の常任理入りに反対"
+      "url": "https://news.yahoo.co.jp/pickup/6596691?source=rss",
+      "publishedAt": "2026-09-27T01:54:05.000Z",
+      "xQuery": "混雑率177%も増発できず 3つの壁"
     },
     {
-      "time": "08:57",
-      "title": "光通信衛星を数百基整備 NEC計画",
+      "time": "08:32",
+      "title": "代替コーヒー 背景に2050年問題",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596681?source=rss",
-      "publishedAt": "2026-09-26T23:57:55.000Z",
-      "xQuery": "光通信衛星を数百基整備 NEC計画"
+      "url": "https://news.yahoo.co.jp/pickup/6596680?source=rss",
+      "publishedAt": "2026-09-26T23:32:43.000Z",
+      "xQuery": "代替コーヒー 背景に2050年問題"
     }
   ]
 };
