@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T22:15:53.986Z",
+  "updatedAt": "2026-09-27T22:38:42.109Z",
   "items": [
     {
       "time": "06:32",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "内閣支持率45%に上昇 毎日調査"
     },
     {
+      "time": "07:17",
+      "title": "熊本地震2カ月 井戸の復旧進まず",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596792?source=rss",
+      "publishedAt": "2026-09-27T22:17:44.000Z",
+      "xQuery": "熊本地震2カ月 井戸の復旧進まず"
+    },
+    {
+      "time": "07:30",
+      "title": "横浜市長選 山中前市長が立候補へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596793?source=rss",
+      "publishedAt": "2026-09-27T22:30:16.000Z",
+      "xQuery": "横浜市長選 山中前市長が立候補へ"
+    },
+    {
       "time": "06:44",
       "title": "群馬殺害 男は事件当時と違う服装",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596790?source=rss",
       "publishedAt": "2026-09-27T21:44:14.000Z",
       "xQuery": "群馬殺害 男は事件当時と違う服装"
-    },
-    {
-      "time": "21:21",
-      "title": "原発事故時の拠点病院BCP策定4割",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596768?source=rss",
-      "publishedAt": "2026-09-27T12:21:59.000Z",
-      "xQuery": "原発事故時の拠点病院BCP策定4割"
-    },
-    {
-      "time": "21:16",
-      "title": "刺されたか 横浜で流血の男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596769?source=rss",
-      "publishedAt": "2026-09-27T12:16:17.000Z",
-      "xQuery": "刺されたか 横浜で流血の男性死亡"
     }
   ]
 };
