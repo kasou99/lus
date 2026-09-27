@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-26T23:36:43.132Z",
+  "updatedAt": "2026-09-27T00:56:24.295Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "08:12",
+        "title": "協和機工、Fluke製品の国内向けカタログサイトを開設",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvVmV0MENoRlU5eTlPRGlncnFRamN0VVhnZElIZFRDSWRMVEpURlhscWJOQ0JpLXFEZ0RNR2M1LTRUYXdSSlZjX3JoelpyRFYwdjd4UFVPUENfZkFuN19zSW8wQ2xXU2p4?oc=5",
+        "publishedAt": "2026-09-26T23:12:28.000Z"
+      },
       {
         "time": "00:30",
         "title": "日本サーボモータードライブ市場の主要10社まとめ",
@@ -12,9 +19,16 @@
       {
         "time": "06:40",
         "title": "「AIは当面、電動工具として正しく使うべき」 サントリービバレッジ＆フードの木村穣介社長が見解（食品新聞）",
-        "source": "Yahoo!ニュース",
+        "source": "news.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KQ1YtaEdjcjhhaHNTRkpNeVYtR2tNQTNCNlF0WkFkUk1lNEpFaWQxWFJ5bkl5YWplRzJYaFZyNkRITS1iOEZiTDlnOWZrWFdXb0pjM0xLdS1iRVdiTjRudUxDclZZcVFzaWtvaWFBNWpGdVF4UVlhbVhOVzBCaUE?oc=5",
         "publishedAt": "2026-09-26T21:40:35.000Z"
+      },
+      {
+        "time": "09:30",
+        "title": "「ものづくり展示会ナビ」、製造業の展示会出展に関するアンケート調査を開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WU0FaSWxvZUhEdUlkenhRSGExWDUwTmxzLWNVekg4VHMyNmJSYXZ1Y1pNaDBVNWVrb2F2a3ljeUx0SHJuOERIZ2tBV3dPY1VLVHpELVU5R3BTZXJXZGNHVi1hY0lVTlN0Z0JjR0JFcnFNZ1UzcF9wVDQxSQ?oc=5",
+        "publishedAt": "2026-09-27T00:30:29.000Z"
       },
       {
         "time": "19:07",
@@ -26,7 +40,7 @@
       {
         "time": "03:25",
         "title": "(株)ヤマザキ【6147】：株価・株式情報（夜間PTS含む）",
-        "source": "finance.yahoo.co.jp",
+        "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91SDlfVDdiZGgyRHZXUENrNXh3a0EzTGRJWDBfXzBPdUFyOHA2clVMbzY2R1VxM3d1R0lvY3lXN2s5RVJzQzd2WHp6LVpwQkp2UUE?oc=5",
         "publishedAt": "2026-09-26T18:25:45.000Z"
       },
@@ -43,20 +57,6 @@
         "source": "pando.life",
         "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OSUdFa19MSkhZaUZzQ3FPbVNjV0FQRWJOd1BlRXV4djR2NDdNS01LenpKR0ZKTnctZHIyZG9Xc1JsSUdRWTdUeGx3?oc=5",
         "publishedAt": "2026-09-26T09:56:36.000Z"
-      },
-      {
-        "time": "22:05",
-        "title": "申し訳ありませんが、翻訳するテキストが提供されていません。翻訳してほしいテキストを日本語",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0wVGpGYjc1cGtsZnN1WHJvZi1jZnY2aTc3LVlvVlpSTlgwTlZiMDgxaW9yM3hKMV9PcEVfY1BKeE0tZVpZT1BiSWtR?oc=5",
-        "publishedAt": "2026-09-26T13:05:56.000Z"
-      },
-      {
-        "time": "00:18",
-        "title": "日本の日本産業エレクトロニクスパッケージング市場2026年版",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MTE1rWHlNSVZaT2p2ejFXYkRIZXEwdkVBbTc2ZjNrWU0xd2gzOEctWFpUdS00WGJsSFByNldRSGlPV096RTliZWh3?oc=5",
-        "publishedAt": "2026-09-26T15:18:35.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,13 +82,6 @@
         "publishedAt": "2026-09-26T13:05:58.000Z"
       },
       {
-        "time": "19:41",
-        "title": "米中300億ドル規模関税引き下げへ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596642?source=rss",
-        "publishedAt": "2026-09-26T10:41:21.000Z"
-      },
-      {
         "time": "16:20",
         "title": "AIを「SI」と呼称 米中が合意",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596603?source=rss",
         "publishedAt": "2026-09-26T04:37:52.000Z"
+      },
+      {
+        "time": "09:50",
+        "title": "米大統領機 CNN記者らの搭乗禁止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596685?source=rss",
+        "publishedAt": "2026-09-27T00:50:55.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "18:29",
-        "title": "「思い出」を救う活動 被災者は涙",
+        "time": "09:21",
+        "title": "飲酒事故で子失い2年 判決に怒り",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596636?source=rss",
-        "publishedAt": "2026-09-26T09:29:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596683?source=rss",
+        "publishedAt": "2026-09-27T00:21:27.000Z"
       },
       {
         "time": "22:59",
@@ -161,13 +161,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596664?source=rss",
         "publishedAt": "2026-09-26T13:59:09.000Z"
-      },
-      {
-        "time": "13:21",
-        "title": "野球部員乗せたバス事故 8人搬送",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596601?source=rss",
-        "publishedAt": "2026-09-26T04:21:41.000Z"
       },
       {
         "time": "22:08",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596673?source=rss",
         "publishedAt": "2026-09-26T22:22:06.000Z"
+      },
+      {
+        "time": "09:50",
+        "title": "タクシー会社の機転で 受け子逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596686?source=rss",
+        "publishedAt": "2026-09-27T00:50:19.000Z"
       }
     ],
     "subsidyHeadlines": [

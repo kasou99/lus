@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-26T23:36:43.793Z",
+  "updatedAt": "2026-09-27T00:56:25.267Z",
   "items": [
     {
       "time": "07:27",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "米大統領 海峡巡るイラン提案拒否"
     },
     {
-      "time": "22:59",
-      "title": "群馬殺人 事件前日に娘へ避難指導",
+      "time": "09:21",
+      "title": "飲酒事故で子失い2年 判決に怒り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596664?source=rss",
-      "publishedAt": "2026-09-26T13:59:09.000Z",
-      "xQuery": "群馬殺人 事件前日に娘へ避難指導"
-    },
-    {
-      "time": "23:03",
-      "title": "トキエア再延期 県からの融資返済",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596667?source=rss",
-      "publishedAt": "2026-09-26T14:03:46.000Z",
-      "xQuery": "トキエア再延期 県からの融資返済"
+      "url": "https://news.yahoo.co.jp/pickup/6596683?source=rss",
+      "publishedAt": "2026-09-27T00:21:27.000Z",
+      "xQuery": "飲酒事故で子失い2年 判決に怒り"
     },
     {
       "time": "07:22",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596673?source=rss",
       "publishedAt": "2026-09-26T22:22:06.000Z",
       "xQuery": "プロバスケ選手逮捕 わいせつ疑い"
+    },
+    {
+      "time": "08:32",
+      "title": "代替コーヒー 背景に2050年問題",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596680?source=rss",
+      "publishedAt": "2026-09-26T23:32:43.000Z",
+      "xQuery": "代替コーヒー 背景に2050年問題"
     }
   ]
 };
