@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T09:40:10.283Z",
+  "updatedAt": "2026-09-27T10:16:56.751Z",
   "items": [
     {
       "time": "15:30",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "公開手配の男逮捕 靴下で逃走か"
     },
     {
-      "time": "14:34",
-      "title": "東京メトロ メアド5.9万件漏洩か",
+      "time": "17:10",
+      "title": "日本語能力試験 応募増で運営困難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596712?source=rss",
-      "publishedAt": "2026-09-27T05:34:11.000Z",
-      "xQuery": "東京メトロ メアド5.9万件漏洩か"
+      "url": "https://news.yahoo.co.jp/pickup/6596738?source=rss",
+      "publishedAt": "2026-09-27T08:10:46.000Z",
+      "xQuery": "日本語能力試験 応募増で運営困難"
     },
     {
-      "time": "16:50",
-      "title": "住宅街の不発弾撤去 住民避難も",
+      "time": "18:33",
+      "title": "アトピー症状の差 免疫細胞影響か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596734?source=rss",
-      "publishedAt": "2026-09-27T07:50:55.000Z",
-      "xQuery": "住宅街の不発弾撤去 住民避難も"
+      "url": "https://news.yahoo.co.jp/pickup/6596751?source=rss",
+      "publishedAt": "2026-09-27T09:33:03.000Z",
+      "xQuery": "アトピー症状の差 免疫細胞影響か"
     }
   ]
 };
