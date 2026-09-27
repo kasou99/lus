@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T06:30:49.506Z",
+  "updatedAt": "2026-09-27T07:20:01.833Z",
   "items": [
     {
       "time": "15:00",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "群馬殺人事件 公開手配の男を逮捕"
     },
     {
-      "time": "13:38",
-      "title": "岩屋前外相らが訪中 関係改善探る",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596706?source=rss",
-      "publishedAt": "2026-09-27T04:38:03.000Z",
-      "xQuery": "岩屋前外相らが訪中 関係改善探る"
-    },
-    {
       "time": "14:19",
       "title": "刀・森岡代表巡る評価 識者見解",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596710?source=rss",
       "publishedAt": "2026-09-27T05:19:23.000Z",
       "xQuery": "刀・森岡代表巡る評価 識者見解"
+    },
+    {
+      "time": "16:16",
+      "title": "スパイの子 女子児童が浴びた罵声",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596732?source=rss",
+      "publishedAt": "2026-09-27T07:16:57.000Z",
+      "xQuery": "スパイの子 女子児童が浴びた罵声"
     }
   ]
 };
