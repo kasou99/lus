@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T06:44:30.630Z",
+  "updatedAt": "2026-09-28T07:37:03.933Z",
   "items": [
     {
       "time": "14:59",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ニデック 大規模な減損処理を検討"
     },
     {
-      "time": "13:33",
-      "title": "ウ侵攻「黒海海運」の麻痺深刻化",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596826?source=rss",
-      "publishedAt": "2026-09-28T04:33:22.000Z",
-      "xQuery": "ウ侵攻「黒海海運」の麻痺深刻化"
-    },
-    {
       "time": "15:00",
       "title": "台湾 第2次大戦の中国認識に反発",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台湾 第2次大戦の中国認識に反発"
     },
     {
-      "time": "09:30",
-      "title": "都心の鉄道高架下 有効活用で注目",
+      "time": "15:42",
+      "title": "韓国がウに謝罪要求 捕虜移送巡り",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596805?source=rss",
-      "publishedAt": "2026-09-28T00:30:03.000Z",
-      "xQuery": "都心の鉄道高架下 有効活用で注目"
+      "url": "https://news.yahoo.co.jp/pickup/6596844?source=rss",
+      "publishedAt": "2026-09-28T06:42:10.000Z",
+      "xQuery": "韓国がウに謝罪要求 捕虜移送巡り"
+    },
+    {
+      "time": "16:08",
+      "title": "イリエワニを無許可飼育疑い 逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596849?source=rss",
+      "publishedAt": "2026-09-28T07:08:34.000Z",
+      "xQuery": "イリエワニを無許可飼育疑い 逮捕"
     },
     {
       "time": "14:18",
