@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T02:34:02.555Z",
+  "updatedAt": "2026-09-28T03:26:22.216Z",
   "items": [
     {
-      "time": "09:16",
-      "title": "災害時デマ対策 自治体が広域連携",
+      "time": "11:43",
+      "title": "東海-関東沿岸部は激しい雨 警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596803?source=rss",
-      "publishedAt": "2026-09-28T00:16:30.000Z",
-      "xQuery": "災害時デマ対策 自治体が広域連携"
-    },
-    {
-      "time": "09:04",
-      "title": "東証IPO最少ペース 1-8月に22社",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596802?source=rss",
-      "publishedAt": "2026-09-28T00:04:40.000Z",
-      "xQuery": "東証IPO最少ペース 1-8月に22社"
+      "url": "https://news.yahoo.co.jp/pickup/6596822?source=rss",
+      "publishedAt": "2026-09-28T02:43:51.000Z",
+      "xQuery": "東海-関東沿岸部は激しい雨 警戒"
     },
     {
       "time": "10:21",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596820?source=rss",
       "publishedAt": "2026-09-28T02:31:05.000Z",
       "xQuery": "台風で最愛の妻死亡 結婚して2年"
+    },
+    {
+      "time": "12:11",
+      "title": "パパ活面接称し性的暴行疑い 逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596824?source=rss",
+      "publishedAt": "2026-09-28T03:11:57.000Z",
+      "xQuery": "パパ活面接称し性的暴行疑い 逮捕"
     },
     {
       "time": "10:34",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T02:34:01.446Z",
+  "updatedAt": "2026-09-28T03:26:20.547Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hRG1mc3JDS1pudWloOVR6dVhIMGJJZ0oxdnI1aUtlQnoxcXBvX2w3cXVLMEVuaXhtdUNhSkhhT213ZXVjR01wV3pTRW10Ny1kNFJLMFNITDdKdC1BQmxBWXRnd19Dek1TaFE?oc=5",
         "publishedAt": "2026-09-28T02:10:02.000Z"
+      },
+      {
+        "time": "11:31",
+        "title": "オムロン、制御盤を不要にする「盤レス化」製品群を強化",
+        "source": "ニュースメディアVOIX",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WR3JVLTAtbWFLdFNWdmxFZzBBSW1pdnpleE1rWVhsM3ZuZ2VLUUdlOWpGTnNvTTZLSGxmcFpHcEtDSTFDOHRMVTcxS1p1a1NKMzQ0?oc=5",
+        "publishedAt": "2026-09-28T02:31:56.000Z"
       },
       {
         "time": "05:00",
@@ -19,7 +26,7 @@
       {
         "time": "09:03",
         "title": "世界のCNCツールマガジン市場規模、2026年1310百万米ドルから2032年2011百万米ドルへ拡大",
-        "source": "ニコニコニュース",
+        "source": "news.nicovideo.jp",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ycFpQbDhWNFVSQVA3QmRaMlRxUnFqQVlwYXhWbEJnZ2c1NHdBTHpiYlMyOGRNMUtSTHJRTmpSVmptY2lpVTlWUW92ckdpclBlRjAzQWRFb1pOUV83RF84NG1mVExFeno2VTNId1VZNURNRUU?oc=5",
         "publishedAt": "2026-09-28T00:03:27.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596703?source=rss",
         "publishedAt": "2026-09-27T04:02:05.000Z"
-      },
-      {
-        "time": "09:04",
-        "title": "東証IPO最少ペース 1-8月に22社",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596802?source=rss",
-        "publishedAt": "2026-09-28T00:04:40.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "07:17",
-        "title": "熊本地震2カ月 井戸の復旧進まず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596792?source=rss",
-        "publishedAt": "2026-09-27T22:17:44.000Z"
-      },
-      {
         "time": "08:17",
         "title": "辞職の山中氏 横浜市長選に出馬へ",
         "source": "Yahoo!ニュース",
@@ -170,13 +163,6 @@
         "publishedAt": "2026-09-28T01:21:04.000Z"
       },
       {
-        "time": "21:16",
-        "title": "刺されたか 横浜で流血の男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596769?source=rss",
-        "publishedAt": "2026-09-27T12:16:17.000Z"
-      },
-      {
         "time": "11:31",
         "title": "台風で最愛の妻死亡 結婚して2年",
         "source": "Yahoo!ニュース",
@@ -184,11 +170,25 @@
         "publishedAt": "2026-09-28T02:31:05.000Z"
       },
       {
+        "time": "12:11",
+        "title": "パパ活面接称し性的暴行疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596824?source=rss",
+        "publishedAt": "2026-09-28T03:11:57.000Z"
+      },
+      {
         "time": "10:34",
         "title": "車衝突し田に横転 運転の男性死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596812?source=rss",
         "publishedAt": "2026-09-28T01:34:22.000Z"
+      },
+      {
+        "time": "11:49",
+        "title": "人生返せ 30年物流支えた女性の詩",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596821?source=rss",
+        "publishedAt": "2026-09-28T02:49:49.000Z"
       }
     ],
     "subsidyHeadlines": [
