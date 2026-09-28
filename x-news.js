@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T13:45:06.065Z",
+  "updatedAt": "2026-09-28T14:21:12.908Z",
   "items": [
     {
       "time": "21:32",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "八王子市でクマ緊急銃猟 都内で初"
     },
     {
-      "time": "20:32",
-      "title": "車と歩行者絡む事故 1人心肺停止",
+      "time": "22:47",
+      "title": "東大総長に藤垣裕子教授 初の女性",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596880?source=rss",
-      "publishedAt": "2026-09-28T11:32:38.000Z",
-      "xQuery": "車と歩行者絡む事故 1人心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6596892?source=rss",
+      "publishedAt": "2026-09-28T13:47:04.000Z",
+      "xQuery": "東大総長に藤垣裕子教授 初の女性"
     },
     {
       "time": "22:37",
