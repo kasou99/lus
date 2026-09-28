@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T22:17:44.187Z",
+  "updatedAt": "2026-09-28T22:38:21.674Z",
   "items": [
     {
       "time": "06:48",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596907?source=rss",
       "publishedAt": "2026-09-28T21:48:17.000Z",
       "xQuery": "都心で34日連続雨 最長記録を更新"
-    },
-    {
-      "time": "21:32",
-      "title": "衆院選制度見直し 10月末めど結論",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596884?source=rss",
-      "publishedAt": "2026-09-28T12:32:28.000Z",
-      "xQuery": "衆院選制度見直し 10月末めど結論"
     },
     {
       "time": "06:41",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596899?source=rss",
       "publishedAt": "2026-09-28T15:37:22.000Z",
       "xQuery": "車が停車中の車に追突 女性が死亡"
+    },
+    {
+      "time": "07:21",
+      "title": "楽モバ 携帯「独り立ち」へ正念場",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596909?source=rss",
+      "publishedAt": "2026-09-28T22:21:18.000Z",
+      "xQuery": "楽モバ 携帯「独り立ち」へ正念場"
     }
   ]
 };
