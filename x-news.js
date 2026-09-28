@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T05:44:28.958Z",
+  "updatedAt": "2026-09-28T06:44:30.630Z",
   "items": [
     {
-      "time": "11:43",
-      "title": "東海-関東沿岸部は激しい雨 警戒",
+      "time": "14:59",
+      "title": "ニデック 大規模な減損処理を検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596822?source=rss",
-      "publishedAt": "2026-09-28T02:43:51.000Z",
-      "xQuery": "東海-関東沿岸部は激しい雨 警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6596842?source=rss",
+      "publishedAt": "2026-09-28T05:59:33.000Z",
+      "xQuery": "ニデック 大規模な減損処理を検討"
     },
     {
       "time": "13:33",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "ウ侵攻「黒海海運」の麻痺深刻化"
     },
     {
-      "time": "13:25",
-      "title": "東京で33日連続の雨観測 最長タイ",
+      "time": "15:00",
+      "title": "台湾 第2次大戦の中国認識に反発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596833?source=rss",
-      "publishedAt": "2026-09-28T04:25:48.000Z",
-      "xQuery": "東京で33日連続の雨観測 最長タイ"
+      "url": "https://news.yahoo.co.jp/pickup/6596841?source=rss",
+      "publishedAt": "2026-09-28T06:00:20.000Z",
+      "xQuery": "台湾 第2次大戦の中国認識に反発"
     },
     {
-      "time": "10:58",
-      "title": "英基地付近でテロ準備疑い 逮捕",
+      "time": "09:30",
+      "title": "都心の鉄道高架下 有効活用で注目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596814?source=rss",
-      "publishedAt": "2026-09-28T01:58:46.000Z",
-      "xQuery": "英基地付近でテロ準備疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6596805?source=rss",
+      "publishedAt": "2026-09-28T00:30:03.000Z",
+      "xQuery": "都心の鉄道高架下 有効活用で注目"
     },
     {
-      "time": "12:11",
-      "title": "パパ活面接称し性的暴行疑い 逮捕",
+      "time": "14:18",
+      "title": "サル山異変 1:33の「超メス社会」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596824?source=rss",
-      "publishedAt": "2026-09-28T03:11:57.000Z",
-      "xQuery": "パパ活面接称し性的暴行疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6596840?source=rss",
+      "publishedAt": "2026-09-28T05:18:48.000Z",
+      "xQuery": "サル山異変 1:33の「超メス社会」"
     }
   ]
 };
