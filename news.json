@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-28T20:41:36.604Z",
+  "updatedAt": "2026-09-28T21:16:51.773Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "06:02",
+        "title": "「工作機械＋ロボット」が至る所に、欧州製造業向けの最新ソリューション／AMB2026フォトリポート",
+        "source": "robot digest",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4waUNwVFlIdHZLVWJid3hOUGgxa0QwU0VVV192d2pnVFVTNVV4LUZsaGhqN25pSDhQWExYdzV4WTVRTzJuaGRyWC1ZQ0w3Y1BLOXVHLWJ2WUlFeXZ6SExTa2pBUHlwWlFFRTVj?oc=5",
+        "publishedAt": "2026-09-28T21:02:15.000Z"
+      },
+      {
+        "time": "05:53",
+        "title": "メトレック産業 鋳物材リサイクルで参画 工作機械水平循環スキーム 協力会社と連携強化",
+        "source": "japanmetal.com",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WYVNNMDZ1SThid1c1U0V3SnM2c3NVQkZSTGVzRWtWMFZRZmdGQmRzQ1FFU2Z2QVdSYXFkOWQwQWJVSzJnTk9VMHhaaktkb1lpZ2VITmZ1UjF3ZVNDcVFMc2VR?oc=5",
+        "publishedAt": "2026-09-28T20:53:00.000Z"
+      },
       {
         "time": "05:00",
         "title": "AIZ、V溝加工機を刷新 サーボモーターで精度向上",
@@ -43,20 +57,6 @@
         "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhMDAzajg1blBEcW5uYTJGYXRfdmxjTFJtLUQxZUhYOEs4YlFyLW95Tm5XRHJBZTdkUnFIMGhuUjRGMjZybUJUTjUxdzhjSHdXcHc?oc=5",
         "publishedAt": "2026-09-28T04:17:25.000Z"
-      },
-      {
-        "time": "23:40",
-        "title": "オムロン、制御盤の常識を変える「盤レス化ソリューション」を強化",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hdmhRc0E2M1VBc3o3R2plOHB3Q1o4VzViQzR2YWZpLUNJNHM5NGNKVTREV0h1UEl3SVFGNk5YT3g5VG5ncFBETnJJZ0txVG1qajRKLTcwSHpoa1dOc243TFZwaUNQNnROdjVvbk1UQ1dHZw?oc=5",
-        "publishedAt": "2026-09-28T14:40:02.000Z"
-      },
-      {
-        "time": "03:00",
-        "title": "JIMTOF2026 (第33回日本国際工作機械見本市) 野球日本代表監督 井口 資仁 氏によるトークショーが追加決定",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJN1k4MEl3OXgyRlVyeFczSy1Fa09PYkxkMm11YlNrQmtmenNmcDh1dkJsRy14WW1xdUdlaE9pNHZTcEQ1UXo1bzE0cWc2cF83cjV0QXJsYUZzRUpLZ2tiR3MtcmFhR0tfUmhTRWN5VDljVXJKNDRnOGduYw?oc=5",
-        "publishedAt": "2026-09-28T18:00:45.000Z"
       }
     ],
     "worldHeadlines": [
