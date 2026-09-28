@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T10:20:51.331Z",
+  "updatedAt": "2026-09-28T10:43:10.233Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,11 +31,11 @@
         "publishedAt": "2026-09-28T09:56:14.000Z"
       },
       {
-        "time": "17:45",
+        "time": "17:46",
         "title": "ジェイテクトグループ、JIMTOF2026（第33回日本国際工作機械見本市）に出展",
         "source": "jiji.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZNWpHdTV5Mm1wUW43MTR2bW1hR1ZvbEJVUFFmQktVS3pVX2ZXRVJvcDJRZUluVmZTM1BQUUswWF9Ka21lNDlib0V1N1ZYcnhLeDhHY1JQZkdnNGRadUFTazROX3RyLWZCYmZv?oc=5",
-        "publishedAt": "2026-09-28T08:45:00.000Z"
+        "publishedAt": "2026-09-28T08:46:00.000Z"
       },
       {
         "time": "11:10",
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "13:47",
-        "title": "千葉で遺体発見 台風で不明男性か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596835?source=rss",
-        "publishedAt": "2026-09-28T04:47:03.000Z"
-      },
-      {
         "time": "11:31",
         "title": "台風で最愛の妻死亡 結婚して2年",
         "source": "Yahoo!ニュース",
@@ -182,6 +175,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596798?source=rss",
         "publishedAt": "2026-09-27T23:17:20.000Z"
+      },
+      {
+        "time": "19:26",
+        "title": "ゴーカート2歳死亡事故 無罪主張",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596877?source=rss",
+        "publishedAt": "2026-09-28T10:26:49.000Z"
       },
       {
         "time": "17:31",

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T10:20:51.957Z",
+  "updatedAt": "2026-09-28T10:43:11.091Z",
   "items": [
     {
       "time": "18:20",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "遺体は不明の6歳男児 両親が心境"
     },
     {
+      "time": "19:26",
+      "title": "ゴーカート2歳死亡事故 無罪主張",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596877?source=rss",
+      "publishedAt": "2026-09-28T10:26:49.000Z",
+      "xQuery": "ゴーカート2歳死亡事故 無罪主張"
+    },
+    {
       "time": "18:57",
       "title": "「iDeCo貧乏」 NISAより注意必要",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596876?source=rss",
       "publishedAt": "2026-09-28T09:57:56.000Z",
       "xQuery": "「iDeCo貧乏」 NISAより注意必要"
-    },
-    {
-      "time": "19:01",
-      "title": "AIキャラチャット 依存どう防ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596870?source=rss",
-      "publishedAt": "2026-09-28T10:01:23.000Z",
-      "xQuery": "AIキャラチャット 依存どう防ぐ"
     }
   ]
 };
