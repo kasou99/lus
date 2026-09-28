@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T01:39:09.291Z",
+  "updatedAt": "2026-09-28T02:34:02.555Z",
   "items": [
     {
-      "time": "10:10",
-      "title": "倉本聰氏死去「北の国から」脚本",
+      "time": "09:16",
+      "title": "災害時デマ対策 自治体が広域連携",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596811?source=rss",
-      "publishedAt": "2026-09-28T01:10:34.000Z",
-      "xQuery": "倉本聰氏死去「北の国から」脚本"
+      "url": "https://news.yahoo.co.jp/pickup/6596803?source=rss",
+      "publishedAt": "2026-09-28T00:16:30.000Z",
+      "xQuery": "災害時デマ対策 自治体が広域連携"
     },
     {
       "time": "09:04",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "東証IPO最少ペース 1-8月に22社"
     },
     {
-      "time": "08:14",
-      "title": "裏金議員を要職「問題」61% 毎日",
+      "time": "10:21",
+      "title": "群馬殺害 男が事前に包丁準備か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596797?source=rss",
-      "publishedAt": "2026-09-27T23:14:07.000Z",
-      "xQuery": "裏金議員を要職「問題」61% 毎日"
+      "url": "https://news.yahoo.co.jp/pickup/6596809?source=rss",
+      "publishedAt": "2026-09-28T01:21:04.000Z",
+      "xQuery": "群馬殺害 男が事前に包丁準備か"
     },
     {
-      "time": "09:44",
-      "title": "野球観戦中に心肺停止 救った6人",
+      "time": "11:31",
+      "title": "台風で最愛の妻死亡 結婚して2年",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596807?source=rss",
-      "publishedAt": "2026-09-28T00:44:16.000Z",
-      "xQuery": "野球観戦中に心肺停止 救った6人"
+      "url": "https://news.yahoo.co.jp/pickup/6596820?source=rss",
+      "publishedAt": "2026-09-28T02:31:05.000Z",
+      "xQuery": "台風で最愛の妻死亡 結婚して2年"
     },
     {
-      "time": "08:12",
-      "title": "ユニクロ好調も国内の店舗減 なぜ",
+      "time": "10:34",
+      "title": "車衝突し田に横転 運転の男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596796?source=rss",
-      "publishedAt": "2026-09-27T23:12:07.000Z",
-      "xQuery": "ユニクロ好調も国内の店舗減 なぜ"
+      "url": "https://news.yahoo.co.jp/pickup/6596812?source=rss",
+      "publishedAt": "2026-09-28T01:34:22.000Z",
+      "xQuery": "車衝突し田に横転 運転の男性死亡"
     }
   ]
 };

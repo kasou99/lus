@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-28T01:39:08.520Z",
+  "updatedAt": "2026-09-28T02:34:01.446Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "09:03",
-        "title": "世界のCNCツールマガジン市場規模、2026年1310百万米ドルから2032年2011百万米ドルへ拡大",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ycFpQbDhWNFVSQVA3QmRaMlRxUnFqQVlwYXhWbEJnZ2c1NHdBTHpiYlMyOGRNMUtSTHJRTmpSVmptY2lpVTlWUW92ckdpclBlRjAzQWRFb1pOUV83RF84NG1mVExFeno2VTNId1VZNURNRUU?oc=5",
-        "publishedAt": "2026-09-28T00:03:27.000Z"
+        "time": "11:10",
+        "title": "オムロン、制御盤の常識を変える「盤レス化ソリューション」を強化",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hRG1mc3JDS1pudWloOVR6dVhIMGJJZ0oxdnI1aUtlQnoxcXBvX2w3cXVLMEVuaXhtdUNhSkhhT213ZXVjR01wV3pTRW10Ny1kNFJLMFNITDdKdC1BQmxBWXRnd19Dek1TaFE?oc=5",
+        "publishedAt": "2026-09-28T02:10:02.000Z"
       },
       {
         "time": "05:00",
@@ -15,6 +15,13 @@
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKYkVITzI1OGFramphT2R0Y243U1lURlNxcENhTFlOZFRfZXNqYU5sNHFJckIycHpaYzgzV2dhdFJMRFhTTVhaNkJJYmVaUjkzWFI4bHphWTk?oc=5",
         "publishedAt": "2026-09-27T20:00:00.000Z"
+      },
+      {
+        "time": "09:03",
+        "title": "世界のCNCツールマガジン市場規模、2026年1310百万米ドルから2032年2011百万米ドルへ拡大",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ycFpQbDhWNFVSQVA3QmRaMlRxUnFqQVlwYXhWbEJnZ2c1NHdBTHpiYlMyOGRNMUtSTHJRTmpSVmptY2lpVTlWUW92ckdpclBlRjAzQWRFb1pOUV83RF84NG1mVExFeno2VTNId1VZNURNRUU?oc=5",
+        "publishedAt": "2026-09-28T00:03:27.000Z"
       },
       {
         "time": "08:42",
@@ -50,16 +57,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596802?source=rss",
         "publishedAt": "2026-09-28T00:04:40.000Z"
-      },
-      {
-        "time": "19:04",
-        "title": "長雨で作物が根腐れ 絶句する農家",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596754?source=rss",
-        "publishedAt": "2026-09-27T10:04:24.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "10:58",
+        "title": "英基地付近でテロ準備疑い 逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596814?source=rss",
+        "publishedAt": "2026-09-28T01:58:46.000Z"
+      },
       {
         "time": "21:44",
         "title": "スイス中立厳格化 国民投票で否決",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596675?source=rss",
         "publishedAt": "2026-09-26T22:35:03.000Z"
-      },
-      {
-        "time": "22:05",
-        "title": "中国 尖閣沖EEZで3-7月集中調査",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596658?source=rss",
-        "publishedAt": "2026-09-26T13:05:58.000Z"
       },
       {
         "time": "09:50",
@@ -170,18 +170,18 @@
         "publishedAt": "2026-09-28T01:21:04.000Z"
       },
       {
-        "time": "06:44",
-        "title": "群馬殺害 男は事件当時と違う服装",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596790?source=rss",
-        "publishedAt": "2026-09-27T21:44:14.000Z"
-      },
-      {
         "time": "21:16",
         "title": "刺されたか 横浜で流血の男性死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596769?source=rss",
         "publishedAt": "2026-09-27T12:16:17.000Z"
+      },
+      {
+        "time": "11:31",
+        "title": "台風で最愛の妻死亡 結婚して2年",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596820?source=rss",
+        "publishedAt": "2026-09-28T02:31:05.000Z"
       },
       {
         "time": "10:34",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-02T07:00:00.000Z"
       }
