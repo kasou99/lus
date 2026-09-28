@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T21:16:52.563Z",
+  "updatedAt": "2026-09-28T21:38:38.290Z",
   "items": [
     {
       "time": "04:52",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "衆院選制度見直し 10月末めど結論"
     },
     {
+      "time": "06:16",
+      "title": "中国 首相の「台湾発言」是正要求",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596903?source=rss",
+      "publishedAt": "2026-09-28T21:16:09.000Z",
+      "xQuery": "中国 首相の「台湾発言」是正要求"
+    },
+    {
       "time": "23:09",
       "title": "生命維持治療終了の新指針 4学会",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596895?source=rss",
       "publishedAt": "2026-09-28T14:09:29.000Z",
       "xQuery": "生命維持治療終了の新指針 4学会"
-    },
-    {
-      "time": "22:16",
-      "title": "八王子市でクマ緊急銃猟 都内で初",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596889?source=rss",
-      "publishedAt": "2026-09-28T13:16:40.000Z",
-      "xQuery": "八王子市でクマ緊急銃猟 都内で初"
     },
     {
       "time": "00:37",
