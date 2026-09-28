@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T09:51:12.462Z",
+  "updatedAt": "2026-09-28T10:20:51.957Z",
   "items": [
     {
-      "time": "16:29",
-      "title": "大規模修繕で談合 38社に排除命令",
+      "time": "18:20",
+      "title": "台風26号 1日に関東接近のおそれ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596852?source=rss",
-      "publishedAt": "2026-09-28T07:29:13.000Z",
-      "xQuery": "大規模修繕で談合 38社に排除命令"
+      "url": "https://news.yahoo.co.jp/pickup/6596872?source=rss",
+      "publishedAt": "2026-09-28T09:20:55.000Z",
+      "xQuery": "台風26号 1日に関東接近のおそれ"
     },
     {
       "time": "16:41",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "米中関税 対象品で大幅引き下げへ"
     },
     {
-      "time": "17:26",
-      "title": "海岸遺体 不明の6歳男児と判明",
+      "time": "18:48",
+      "title": "遺体は不明の6歳男児 両親が心境",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596861?source=rss",
-      "publishedAt": "2026-09-28T08:26:40.000Z",
-      "xQuery": "海岸遺体 不明の6歳男児と判明"
+      "url": "https://news.yahoo.co.jp/pickup/6596875?source=rss",
+      "publishedAt": "2026-09-28T09:48:25.000Z",
+      "xQuery": "遺体は不明の6歳男児 両親が心境"
     },
     {
-      "time": "16:31",
-      "title": "タイムズカー約660万件情報漏えい",
+      "time": "18:57",
+      "title": "「iDeCo貧乏」 NISAより注意必要",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596854?source=rss",
-      "publishedAt": "2026-09-28T07:31:37.000Z",
-      "xQuery": "タイムズカー約660万件情報漏えい"
+      "url": "https://news.yahoo.co.jp/pickup/6596876?source=rss",
+      "publishedAt": "2026-09-28T09:57:56.000Z",
+      "xQuery": "「iDeCo貧乏」 NISAより注意必要"
     },
     {
-      "time": "18:41",
-      "title": "拠出枠拡大「iDeCo貧乏」に注意",
+      "time": "19:01",
+      "title": "AIキャラチャット 依存どう防ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596869?source=rss",
-      "publishedAt": "2026-09-28T09:41:40.000Z",
-      "xQuery": "拠出枠拡大「iDeCo貧乏」に注意"
+      "url": "https://news.yahoo.co.jp/pickup/6596870?source=rss",
+      "publishedAt": "2026-09-28T10:01:23.000Z",
+      "xQuery": "AIキャラチャット 依存どう防ぐ"
     }
   ]
 };

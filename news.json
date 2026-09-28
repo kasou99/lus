@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:51:11.838Z",
+  "updatedAt": "2026-09-28T10:20:51.331Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "株探",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhMDAzajg1blBEcW5uYTJGYXRfdmxjTFJtLUQxZUhYOEs4YlFyLW95Tm5XRHJBZTdkUnFIMGhuUjRGMjZybUJUTjUxdzhjSHdXcHc?oc=5",
         "publishedAt": "2026-09-28T04:17:25.000Z"
+      },
+      {
+        "time": "18:56",
+        "title": "設計工数を最大50％削減、オムロンが工場の「制御盤レス化」を本格展開",
+        "source": "マイナビニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jOHRyNVlPTElaNkVEZXd1a1plR2pRWkVIMnNJNGJZakxoU09xOFNtUUxfcFNwWnhxYlFrZ1VFRHBDUEh2OHFnZ3pLTkZfeTlSanFVc0hMa0FFalpLazZtejFIV015blcy?oc=5",
+        "publishedAt": "2026-09-28T09:56:14.000Z"
       },
       {
         "time": "17:45",
@@ -50,13 +57,6 @@
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WR3JVLTAtbWFLdFNWdmxFZzBBSW1pdnpleE1rWVhsM3ZuZ2VLUUdlOWpGTnNvTTZLSGxmcFpHcEtDSTFDOHRMVTcxS1p1a1NKMzQ0?oc=5",
         "publishedAt": "2026-09-28T02:31:56.000Z"
-      },
-      {
-        "time": "09:03",
-        "title": "世界のCNCツールマガジン市場規模、2026年1310百万米ドルから2032年2011百万米ドルへ拡大",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ycFpQbDhWNFVSQVA3QmRaMlRxUnFqQVlwYXhWbEJnZ2c1NHdBTHpiYlMyOGRNMUtSTHJRTmpSVmptY2lpVTlWUW92ckdpclBlRjAzQWRFb1pOUV83RF84NG1mVExFeno2VTNId1VZNURNRUU?oc=5",
-        "publishedAt": "2026-09-28T00:03:27.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-09-28T04:57:23.000Z"
       },
       {
+        "time": "18:57",
+        "title": "「iDeCo貧乏」 NISAより注意必要",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596876?source=rss",
+        "publishedAt": "2026-09-28T09:57:56.000Z"
+      },
+      {
         "time": "12:53",
         "title": "ボジョレ例年より1カ月早く日本に",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596830?source=rss",
         "publishedAt": "2026-09-28T03:53:20.000Z"
-      },
-      {
-        "time": "18:41",
-        "title": "拠出枠拡大「iDeCo貧乏」に注意",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596869?source=rss",
-        "publishedAt": "2026-09-28T09:41:40.000Z"
       }
     ],
     "localHeadlines": [
