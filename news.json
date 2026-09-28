@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-28T19:39:00.322Z",
+  "updatedAt": "2026-09-28T20:18:01.216Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "AIZ、V溝加工機を刷新 サーボモーターで精度向上",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XZ0VETXc0OFpEYWhvbFNVcjg0WTJ3WDlpa21RRWMtUk1WTDlhY0FTN1dMdDFLaHhkMnpCd2Jab1R0NlNvTjYyVjVrRl81LU1IMlRuZW9QWFA?oc=5",
+        "publishedAt": "2026-09-28T20:00:00.000Z"
+      },
       {
         "time": "18:28",
         "title": "オムロン、工場の制御盤を小型化 設計工数3〜5割削減で人手不足対応",
@@ -50,13 +57,6 @@
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJN1k4MEl3OXgyRlVyeFczSy1Fa09PYkxkMm11YlNrQmtmenNmcDh1dkJsRy14WW1xdUdlaE9pNHZTcEQ1UXo1bzE0cWc2cF83cjV0QXJsYUZzRUpLZ2tiR3MtcmFhR0tfUmhTRWN5VDljVXJKNDRnOGduYw?oc=5",
         "publishedAt": "2026-09-28T18:00:45.000Z"
-      },
-      {
-        "time": "21:27",
-        "title": "電気制御盤市場の規模に関する詳細な分析、および2026年から2033年にかけての年平均成",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZSV8xOTZYS1IzdVV0R00wTmVWbVM0RHhnazFWZGpOcmFzS01RVkc5S0lQUW9CWEhEQWIwejcwU2hXbmNOU0JFYUl3?oc=5",
-        "publishedAt": "2026-09-28T12:27:13.000Z"
       }
     ],
     "worldHeadlines": [

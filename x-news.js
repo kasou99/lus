@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T19:39:01.060Z",
+  "updatedAt": "2026-09-28T20:18:01.903Z",
   "items": [
+    {
+      "time": "04:52",
+      "title": "茨城・埼玉で震度4 津波心配なし",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596900?source=rss",
+      "publishedAt": "2026-09-28T19:52:20.000Z",
+      "xQuery": "茨城・埼玉で震度4 津波心配なし"
+    },
     {
       "time": "21:32",
       "title": "衆院選制度見直し 10月末めど結論",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596899?source=rss",
       "publishedAt": "2026-09-28T15:37:22.000Z",
       "xQuery": "車が停車中の車に追突 女性が死亡"
-    },
-    {
-      "time": "20:10",
-      "title": "天皇陛下のスマホで撮影 写真公開",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596879?source=rss",
-      "publishedAt": "2026-09-28T11:10:35.000Z",
-      "xQuery": "天皇陛下のスマホで撮影 写真公開"
     }
   ]
 };
