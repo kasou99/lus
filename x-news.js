@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T12:31:34.686Z",
+  "updatedAt": "2026-09-28T13:21:25.441Z",
   "items": [
     {
-      "time": "18:20",
-      "title": "台風26号 1日に関東接近のおそれ",
+      "time": "21:32",
+      "title": "衆院選制度見直し 10月末めど結論",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596872?source=rss",
-      "publishedAt": "2026-09-28T09:20:55.000Z",
-      "xQuery": "台風26号 1日に関東接近のおそれ"
+      "url": "https://news.yahoo.co.jp/pickup/6596884?source=rss",
+      "publishedAt": "2026-09-28T12:32:28.000Z",
+      "xQuery": "衆院選制度見直し 10月末めど結論"
     },
     {
-      "time": "19:56",
-      "title": "談合対象マンション名 なぜ公表",
+      "time": "16:54",
+      "title": "立憲代表 民主改革の会と合流視野",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596878?source=rss",
-      "publishedAt": "2026-09-28T10:56:02.000Z",
-      "xQuery": "談合対象マンション名 なぜ公表"
+      "url": "https://news.yahoo.co.jp/pickup/6596856?source=rss",
+      "publishedAt": "2026-09-28T07:54:36.000Z",
+      "xQuery": "立憲代表 民主改革の会と合流視野"
     },
     {
-      "time": "20:10",
-      "title": "天皇陛下のスマホで撮影 写真公開",
+      "time": "22:16",
+      "title": "八王子市でクマ緊急銃猟 都内で初",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596879?source=rss",
-      "publishedAt": "2026-09-28T11:10:35.000Z",
-      "xQuery": "天皇陛下のスマホで撮影 写真公開"
+      "url": "https://news.yahoo.co.jp/pickup/6596889?source=rss",
+      "publishedAt": "2026-09-28T13:16:40.000Z",
+      "xQuery": "八王子市でクマ緊急銃猟 都内で初"
     },
     {
       "time": "20:32",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車と歩行者絡む事故 1人心肺停止"
     },
     {
-      "time": "18:57",
-      "title": "「iDeCo貧乏」 NISAより注意必要",
+      "time": "21:14",
+      "title": "「大地讃頌」作曲 佐藤眞さん死去",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596876?source=rss",
-      "publishedAt": "2026-09-28T09:57:56.000Z",
-      "xQuery": "「iDeCo貧乏」 NISAより注意必要"
+      "url": "https://news.yahoo.co.jp/pickup/6596883?source=rss",
+      "publishedAt": "2026-09-28T12:14:21.000Z",
+      "xQuery": "「大地讃頌」作曲 佐藤眞さん死去"
     }
   ]
 };

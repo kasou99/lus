@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-28T12:31:33.874Z",
+  "updatedAt": "2026-09-28T13:21:24.707Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "18:28",
+        "title": "オムロン、工場の制御盤を小型化 設計工数3〜5割削減で人手不足対応",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HWHdyS3FFdFV5WmdxREphSmJrRi03OWlmbGt2U3dxZ1RWdE1GSDVHd1lqXzVWZk9RdDIyb1hDRXR3OElTRllZYTY0OFJ4eWFsbUhVZ0RFN3A3UTFKLTlhRkVURWpQdkVLVTNtYw?oc=5",
+        "publishedAt": "2026-09-28T09:28:25.000Z"
+      },
       {
         "time": "17:53",
         "title": "横浜伸銅、複合NC旋盤を導入 工程を一本化（日刊産業新聞）",
@@ -10,11 +17,11 @@
         "publishedAt": "2026-09-28T08:53:13.000Z"
       },
       {
-        "time": "18:28",
-        "title": "オムロン、工場の制御盤を小型化 設計工数3〜5割削減で人手不足対応",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HWHdyS3FFdFV5WmdxREphSmJrRi03OWlmbGt2U3dxZ1RWdE1GSDVHd1lqXzVWZk9RdDIyb1hDRXR3OElTRllZYTY0OFJ4eWFsbUhVZ0RFN3A3UTFKLTlhRkVURWpQdkVLVTNtYw?oc=5",
-        "publishedAt": "2026-09-28T09:28:25.000Z"
+        "time": "18:56",
+        "title": "設計工数を最大50％削減、オムロンが工場の「制御盤レス化」を本格展開 | TECH+（テックプラス）",
+        "source": "マイナビニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jOHRyNVlPTElaNkVEZXd1a1plR2pRWkVIMnNJNGJZakxoU09xOFNtUUxfcFNwWnhxYlFrZ1VFRHBDUEh2OHFnZ3pLTkZfeTlSanFVc0hMa0FFalpLazZtejFIV015blcy?oc=5",
+        "publishedAt": "2026-09-28T09:56:14.000Z"
       },
       {
         "time": "13:17",
@@ -24,25 +31,11 @@
         "publishedAt": "2026-09-28T04:17:25.000Z"
       },
       {
-        "time": "18:56",
-        "title": "設計工数を最大50％削減、オムロンが工場の「制御盤レス化」を本格展開",
-        "source": "マイナビニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jOHRyNVlPTElaNkVEZXd1a1plR2pRWkVIMnNJNGJZakxoU09xOFNtUUxfcFNwWnhxYlFrZ1VFRHBDUEh2OHFnZ3pLTkZfeTlSanFVc0hMa0FFalpLazZtejFIV015blcy?oc=5",
-        "publishedAt": "2026-09-28T09:56:14.000Z"
-      },
-      {
-        "time": "17:46",
+        "time": "17:08",
         "title": "ジェイテクトグループ、JIMTOF2026（第33回日本国際工作機械見本市）に出展",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZNWpHdTV5Mm1wUW43MTR2bW1hR1ZvbEJVUFFmQktVS3pVX2ZXRVJvcDJRZUluVmZTM1BQUUswWF9Ka21lNDlib0V1N1ZYcnhLeDhHY1JQZkdnNGRadUFTazROX3RyLWZCYmZv?oc=5",
-        "publishedAt": "2026-09-28T08:46:00.000Z"
-      },
-      {
-        "time": "11:10",
-        "title": "オムロン、制御盤の常識を変える「盤レス化ソリューション」を強化",
         "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hRG1mc3JDS1pudWloOVR6dVhIMGJJZ0oxdnI1aUtlQnoxcXBvX2w3cXVLMEVuaXhtdUNhSkhhT213ZXVjR01wV3pTRW10Ny1kNFJLMFNITDdKdC1BQmxBWXRnd19Dek1TaFE?oc=5",
-        "publishedAt": "2026-09-28T02:10:02.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3Vk8tMGs2NkZLMWIxRUFhRWJhaktkblNYUFZqcndKcjU4R25SZ0wtMFpWUmhjZmlibWxQWXpWc2lLck1rY1dCOWFveV95VURYY3JyMXZMSFhJV1VCQXpINVoySE9rQ3QydFE?oc=5",
+        "publishedAt": "2026-09-28T08:08:00.000Z"
       },
       {
         "time": "21:27",
@@ -57,6 +50,13 @@
         "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EczRvZnpKNVV0cTJ6UnZ0R25DN0E4SVd0aEJ5WkkyQnRFdk0zb3dCaTV5cFpPYzNGNkZzeTdwOXJmZmEzTVZtSGo3WUxTOHFiRXc?oc=5",
         "publishedAt": "2026-09-28T08:17:50.000Z"
+      },
+      {
+        "time": "17:24",
+        "title": "JIMTOF2026 (第33回日本国際工作機械見本市) 野球日本代表監督 井口 資仁 氏によるトークショーが追加決定",
+        "source": "イザ！",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4VHcxclZsQV8yb0d6azc3dHJkXzZ4eHpQcE41M0ZvUGpxNjBXb2dxZ0lHZUJadVZuelBBU3VjLVFIcUFsZFJLc1JGM05HY2EyLWMxbFRsNFBQa0RXVlJQT1hFbkMxb055MUJrQWZqUHo4TlRhblBNWVFR?oc=5",
+        "publishedAt": "2026-09-28T08:24:41.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-27T23:17:20.000Z"
       },
       {
+        "time": "22:16",
+        "title": "八王子市でクマ緊急銃猟 都内で初",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596889?source=rss",
+        "publishedAt": "2026-09-28T13:16:40.000Z"
+      },
+      {
         "time": "19:26",
         "title": "ゴーカート2歳死亡事故 無罪主張",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596877?source=rss",
         "publishedAt": "2026-09-28T10:26:49.000Z"
-      },
-      {
-        "time": "20:32",
-        "title": "車と歩行者絡む事故 1人心肺停止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596880?source=rss",
-        "publishedAt": "2026-09-28T11:32:38.000Z"
       }
     ],
     "subsidyHeadlines": [
