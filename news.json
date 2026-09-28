@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T04:24:04.549Z",
+  "updatedAt": "2026-09-28T04:48:37.931Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "11:31",
         "title": "オムロン、制御盤を不要にする「盤レス化」製品群を強化",
-        "source": "voix.jp",
+        "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WR3JVLTAtbWFLdFNWdmxFZzBBSW1pdnpleE1rWVhsM3ZuZ2VLUUdlOWpGTnNvTTZLSGxmcFpHcEtDSTFDOHRMVTcxS1p1a1NKMzQ0?oc=5",
         "publishedAt": "2026-09-28T02:31:56.000Z"
       },
@@ -34,7 +34,7 @@
         "time": "09:03",
         "title": "世界のCNCツールマガジン市場規模、2026年1310百万米ドルから2032年2011百万米ドルへ拡大",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ycFpQbDhWNFVSQVA3QmRaMlRxUnFqQVlwYXhWbEJnZ2c1NHdBTHpiYlMyOGRNMUtSTHJRTmpSVmptY2lpVTlWUW92ckdpclBlRjAzQWRFb1pOUV83RF84NG1mVExFeno2VTNId1VZNURNRUU?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MbDVmNVlqVllwUkNvb1ZZZVNzNmpUeVpLVzlVcGcyMjBFamRwLWtyX2FHTTJXbjVENTJ3UERCTjd1WTlCcDkzaW9XTmhOdzRYUldPaQ?oc=5",
         "publishedAt": "2026-09-28T00:03:27.000Z"
       },
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "13:33",
+        "title": "ウ侵攻「黒海海運」の麻痺深刻化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596826?source=rss",
+        "publishedAt": "2026-09-28T04:33:22.000Z"
+      },
+      {
         "time": "10:58",
         "title": "英基地付近でテロ準備疑い 逮捕",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596678?source=rss",
         "publishedAt": "2026-09-26T23:28:39.000Z"
-      },
-      {
-        "time": "07:35",
-        "title": "米大統領 海峡巡るイラン提案拒否",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596675?source=rss",
-        "publishedAt": "2026-09-26T22:35:03.000Z"
       },
       {
         "time": "09:50",
@@ -126,6 +126,13 @@
         "publishedAt": "2026-09-27T10:04:24.000Z"
       },
       {
+        "time": "13:38",
+        "title": "ビール減税へ 酒税一本化の行方は",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596825?source=rss",
+        "publishedAt": "2026-09-28T04:38:16.000Z"
+      },
+      {
         "time": "12:53",
         "title": "ボジョレ例年より1カ月早く日本に",
         "source": "Yahoo!ニュース",
@@ -138,22 +145,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596805?source=rss",
         "publishedAt": "2026-09-28T00:30:03.000Z"
-      },
-      {
-        "time": "16:18",
-        "title": "国と攻防30年 ビール系飲料の税率",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596729?source=rss",
-        "publishedAt": "2026-09-27T07:18:35.000Z"
       }
     ],
     "localHeadlines": [
       {
-        "time": "12:33",
-        "title": "千葉の川に遺体 台風で不明男性か",
+        "time": "13:25",
+        "title": "東京で33日連続の雨観測 最長タイ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596828?source=rss",
-        "publishedAt": "2026-09-28T03:33:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596833?source=rss",
+        "publishedAt": "2026-09-28T04:25:48.000Z"
+      },
+      {
+        "time": "13:47",
+        "title": "千葉で遺体発見 台風で不明男性か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596835?source=rss",
+        "publishedAt": "2026-09-28T04:47:03.000Z"
       },
       {
         "time": "11:31",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596824?source=rss",
         "publishedAt": "2026-09-28T03:11:57.000Z"
-      },
-      {
-        "time": "10:34",
-        "title": "車衝突し田に横転 運転の男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596812?source=rss",
-        "publishedAt": "2026-09-28T01:34:22.000Z"
       }
     ],
     "subsidyHeadlines": [

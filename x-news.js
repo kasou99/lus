@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T04:24:05.677Z",
+  "updatedAt": "2026-09-28T04:48:38.686Z",
   "items": [
     {
       "time": "11:43",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東海-関東沿岸部は激しい雨 警戒"
     },
     {
-      "time": "10:21",
-      "title": "群馬殺害 男が事前に包丁準備か",
+      "time": "13:25",
+      "title": "東京で33日連続の雨観測 最長タイ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596809?source=rss",
-      "publishedAt": "2026-09-28T01:21:04.000Z",
-      "xQuery": "群馬殺害 男が事前に包丁準備か"
+      "url": "https://news.yahoo.co.jp/pickup/6596833?source=rss",
+      "publishedAt": "2026-09-28T04:25:48.000Z",
+      "xQuery": "東京で33日連続の雨観測 最長タイ"
     },
     {
       "time": "11:31",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風で最愛の妻死亡 結婚して2年"
     },
     {
-      "time": "12:33",
-      "title": "千葉の川に遺体 台風で不明男性か",
+      "time": "13:47",
+      "title": "千葉で遺体発見 台風で不明男性か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596828?source=rss",
-      "publishedAt": "2026-09-28T03:33:52.000Z",
-      "xQuery": "千葉の川に遺体 台風で不明男性か"
+      "url": "https://news.yahoo.co.jp/pickup/6596835?source=rss",
+      "publishedAt": "2026-09-28T04:47:03.000Z",
+      "xQuery": "千葉で遺体発見 台風で不明男性か"
     },
     {
       "time": "12:11",
