@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T13:21:25.441Z",
+  "updatedAt": "2026-09-28T13:45:06.065Z",
   "items": [
     {
       "time": "21:32",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "車と歩行者絡む事故 1人心肺停止"
     },
     {
-      "time": "21:14",
-      "title": "「大地讃頌」作曲 佐藤眞さん死去",
+      "time": "22:37",
+      "title": "くら寿司 不正転売の再発防止説明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596883?source=rss",
-      "publishedAt": "2026-09-28T12:14:21.000Z",
-      "xQuery": "「大地讃頌」作曲 佐藤眞さん死去"
+      "url": "https://news.yahoo.co.jp/pickup/6596891?source=rss",
+      "publishedAt": "2026-09-28T13:37:16.000Z",
+      "xQuery": "くら寿司 不正転売の再発防止説明"
     }
   ]
 };
