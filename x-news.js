@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T14:45:24.712Z",
+  "updatedAt": "2026-09-28T15:19:04.338Z",
   "items": [
     {
       "time": "21:32",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "八王子市でクマ緊急銃猟 都内で初"
     },
     {
+      "time": "20:10",
+      "title": "天皇陛下のスマホで撮影 写真公開",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596879?source=rss",
+      "publishedAt": "2026-09-28T11:10:35.000Z",
+      "xQuery": "天皇陛下のスマホで撮影 写真公開"
+    },
+    {
       "time": "22:47",
       "title": "東大総長に藤垣裕子教授 初の女性",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596892?source=rss",
       "publishedAt": "2026-09-28T13:47:04.000Z",
       "xQuery": "東大総長に藤垣裕子教授 初の女性"
-    },
-    {
-      "time": "22:37",
-      "title": "くら寿司 不正転売の再発防止説明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596891?source=rss",
-      "publishedAt": "2026-09-28T13:37:16.000Z",
-      "xQuery": "くら寿司 不正転売の再発防止説明"
     }
   ]
 };
