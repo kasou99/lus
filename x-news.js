@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T00:56:10.448Z",
+  "updatedAt": "2026-09-28T01:39:09.291Z",
   "items": [
+    {
+      "time": "10:10",
+      "title": "倉本聰氏死去「北の国から」脚本",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596811?source=rss",
+      "publishedAt": "2026-09-28T01:10:34.000Z",
+      "xQuery": "倉本聰氏死去「北の国から」脚本"
+    },
     {
       "time": "09:04",
       "title": "東証IPO最少ペース 1-8月に22社",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596807?source=rss",
       "publishedAt": "2026-09-28T00:44:16.000Z",
       "xQuery": "野球観戦中に心肺停止 救った6人"
-    },
-    {
-      "time": "07:44",
-      "title": "治安維持向けロボの開発進む 中国",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596794?source=rss",
-      "publishedAt": "2026-09-27T22:44:04.000Z",
-      "xQuery": "治安維持向けロボの開発進む 中国"
     },
     {
       "time": "08:12",
