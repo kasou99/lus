@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T03:26:22.216Z",
+  "updatedAt": "2026-09-28T03:50:30.580Z",
   "items": [
     {
       "time": "11:43",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風で最愛の妻死亡 結婚して2年"
     },
     {
+      "time": "12:33",
+      "title": "千葉の川に遺体 台風で不明男性か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596828?source=rss",
+      "publishedAt": "2026-09-28T03:33:52.000Z",
+      "xQuery": "千葉の川に遺体 台風で不明男性か"
+    },
+    {
       "time": "12:11",
       "title": "パパ活面接称し性的暴行疑い 逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596824?source=rss",
       "publishedAt": "2026-09-28T03:11:57.000Z",
       "xQuery": "パパ活面接称し性的暴行疑い 逮捕"
-    },
-    {
-      "time": "10:34",
-      "title": "車衝突し田に横転 運転の男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596812?source=rss",
-      "publishedAt": "2026-09-28T01:34:22.000Z",
-      "xQuery": "車衝突し田に横転 運転の男性死亡"
     }
   ]
 };
