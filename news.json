@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T19:14:45.511Z",
+  "updatedAt": "2026-09-28T19:39:00.322Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,18 +24,18 @@
         "publishedAt": "2026-09-28T09:56:14.000Z"
       },
       {
-        "time": "13:17",
-        "title": "岡本工作機械製作所：1Q半導体関連装置の受注大幅増、PBR0.7倍台・配当利回り3%超え",
-        "source": "株探",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhMDAzajg1blBEcW5uYTJGYXRfdmxjTFJtLUQxZUhYOEs4YlFyLW95Tm5XRHJBZTdkUnFIMGhuUjRGMjZybUJUTjUxdzhjSHdXcHc?oc=5",
-        "publishedAt": "2026-09-28T04:17:25.000Z"
-      },
-      {
         "time": "17:08",
         "title": "ジェイテクトグループ、JIMTOF2026（第33回日本国際工作機械見本市）に出展",
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3Vk8tMGs2NkZLMWIxRUFhRWJhaktkblNYUFZqcndKcjU4R25SZ0wtMFpWUmhjZmlibWxQWXpWc2lLck1rY1dCOWFveV95VURYY3JyMXZMSFhJV1VCQXpINVoySE9rQ3QydFE?oc=5",
         "publishedAt": "2026-09-28T08:08:00.000Z"
+      },
+      {
+        "time": "13:17",
+        "title": "岡本工作機械製作所：1Q半導体関連装置の受注大幅増、PBR0.7倍台・配当利回り3%超え",
+        "source": "株探",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhMDAzajg1blBEcW5uYTJGYXRfdmxjTFJtLUQxZUhYOEs4YlFyLW95Tm5XRHJBZTdkUnFIMGhuUjRGMjZybUJUTjUxdzhjSHdXcHc?oc=5",
+        "publishedAt": "2026-09-28T04:17:25.000Z"
       },
       {
         "time": "23:40",
