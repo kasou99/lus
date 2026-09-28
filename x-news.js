@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T14:21:12.908Z",
+  "updatedAt": "2026-09-28T14:45:24.712Z",
   "items": [
     {
       "time": "21:32",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "衆院選制度見直し 10月末めど結論"
     },
     {
-      "time": "16:54",
-      "title": "立憲代表 民主改革の会と合流視野",
+      "time": "23:09",
+      "title": "生命維持治療終了の新指針 4学会",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596856?source=rss",
-      "publishedAt": "2026-09-28T07:54:36.000Z",
-      "xQuery": "立憲代表 民主改革の会と合流視野"
+      "url": "https://news.yahoo.co.jp/pickup/6596895?source=rss",
+      "publishedAt": "2026-09-28T14:09:29.000Z",
+      "xQuery": "生命維持治療終了の新指針 4学会"
     },
     {
       "time": "22:16",
