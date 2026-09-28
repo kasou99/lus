@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T22:38:21.674Z",
+  "updatedAt": "2026-09-28T23:16:57.342Z",
   "items": [
     {
-      "time": "06:48",
-      "title": "都心で34日連続雨 最長記録を更新",
+      "time": "07:47",
+      "title": "台風26号接近へ 関東への影響注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596907?source=rss",
-      "publishedAt": "2026-09-28T21:48:17.000Z",
-      "xQuery": "都心で34日連続雨 最長記録を更新"
+      "url": "https://news.yahoo.co.jp/pickup/6596912?source=rss",
+      "publishedAt": "2026-09-28T22:47:10.000Z",
+      "xQuery": "台風26号接近へ 関東への影響注意"
     },
     {
       "time": "06:41",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "中国 首相の「台湾発言」是正要求"
     },
     {
-      "time": "00:37",
-      "title": "車が停車中の車に追突 女性が死亡",
+      "time": "08:01",
+      "title": "トラックと衝突し炎上 車に3遺体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596899?source=rss",
-      "publishedAt": "2026-09-28T15:37:22.000Z",
-      "xQuery": "車が停車中の車に追突 女性が死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6596913?source=rss",
+      "publishedAt": "2026-09-28T23:01:02.000Z",
+      "xQuery": "トラックと衝突し炎上 車に3遺体"
     },
     {
-      "time": "07:21",
-      "title": "楽モバ 携帯「独り立ち」へ正念場",
+      "time": "07:29",
+      "title": "中野でも事件「窃盗ツーリズム」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596909?source=rss",
-      "publishedAt": "2026-09-28T22:21:18.000Z",
-      "xQuery": "楽モバ 携帯「独り立ち」へ正念場"
+      "url": "https://news.yahoo.co.jp/pickup/6596910?source=rss",
+      "publishedAt": "2026-09-28T22:29:33.000Z",
+      "xQuery": "中野でも事件「窃盗ツーリズム」"
     }
   ]
 };
