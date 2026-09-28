@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T07:37:03.933Z",
+  "updatedAt": "2026-09-28T08:33:10.854Z",
   "items": [
     {
-      "time": "14:59",
-      "title": "ニデック 大規模な減損処理を検討",
+      "time": "16:29",
+      "title": "大規模修繕で談合 38社に排除命令",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596842?source=rss",
-      "publishedAt": "2026-09-28T05:59:33.000Z",
-      "xQuery": "ニデック 大規模な減損処理を検討"
-    },
-    {
-      "time": "15:00",
-      "title": "台湾 第2次大戦の中国認識に反発",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596841?source=rss",
-      "publishedAt": "2026-09-28T06:00:20.000Z",
-      "xQuery": "台湾 第2次大戦の中国認識に反発"
+      "url": "https://news.yahoo.co.jp/pickup/6596852?source=rss",
+      "publishedAt": "2026-09-28T07:29:13.000Z",
+      "xQuery": "大規模修繕で談合 38社に排除命令"
     },
     {
       "time": "15:42",
@@ -26,20 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "韓国がウに謝罪要求 捕虜移送巡り"
     },
     {
+      "time": "17:26",
+      "title": "海岸遺体 不明の6歳男児と判明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596861?source=rss",
+      "publishedAt": "2026-09-28T08:26:40.000Z",
+      "xQuery": "海岸遺体 不明の6歳男児と判明"
+    },
+    {
+      "time": "16:31",
+      "title": "タイムズカー約660万件情報漏えい",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596854?source=rss",
+      "publishedAt": "2026-09-28T07:31:37.000Z",
+      "xQuery": "タイムズカー約660万件情報漏えい"
+    },
+    {
       "time": "16:08",
       "title": "イリエワニを無許可飼育疑い 逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596849?source=rss",
       "publishedAt": "2026-09-28T07:08:34.000Z",
       "xQuery": "イリエワニを無許可飼育疑い 逮捕"
-    },
-    {
-      "time": "14:18",
-      "title": "サル山異変 1:33の「超メス社会」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596840?source=rss",
-      "publishedAt": "2026-09-28T05:18:48.000Z",
-      "xQuery": "サル山異変 1:33の「超メス社会」"
     }
   ]
 };
