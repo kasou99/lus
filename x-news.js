@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T10:43:11.091Z",
+  "updatedAt": "2026-09-28T11:17:43.109Z",
   "items": [
     {
       "time": "18:20",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風26号 1日に関東接近のおそれ"
     },
     {
-      "time": "16:41",
-      "title": "米中関税 対象品で大幅引き下げへ",
+      "time": "19:56",
+      "title": "談合対象マンション名 なぜ公表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596855?source=rss",
-      "publishedAt": "2026-09-28T07:41:29.000Z",
-      "xQuery": "米中関税 対象品で大幅引き下げへ"
+      "url": "https://news.yahoo.co.jp/pickup/6596878?source=rss",
+      "publishedAt": "2026-09-28T10:56:02.000Z",
+      "xQuery": "談合対象マンション名 なぜ公表"
     },
     {
       "time": "18:48",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ゴーカート2歳死亡事故 無罪主張"
     },
     {
-      "time": "18:57",
-      "title": "「iDeCo貧乏」 NISAより注意必要",
+      "time": "20:10",
+      "title": "天皇陛下のスマホで撮影 写真公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596876?source=rss",
-      "publishedAt": "2026-09-28T09:57:56.000Z",
-      "xQuery": "「iDeCo貧乏」 NISAより注意必要"
+      "url": "https://news.yahoo.co.jp/pickup/6596879?source=rss",
+      "publishedAt": "2026-09-28T11:10:35.000Z",
+      "xQuery": "天皇陛下のスマホで撮影 写真公開"
     }
   ]
 };
