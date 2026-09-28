@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T11:41:32.282Z",
+  "updatedAt": "2026-09-28T12:31:34.686Z",
   "items": [
     {
       "time": "18:20",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "談合対象マンション名 なぜ公表"
     },
     {
-      "time": "18:48",
-      "title": "遺体は不明の6歳男児 両親が心境",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596875?source=rss",
-      "publishedAt": "2026-09-28T09:48:25.000Z",
-      "xQuery": "遺体は不明の6歳男児 両親が心境"
-    },
-    {
-      "time": "19:26",
-      "title": "ゴーカート2歳死亡事故 無罪主張",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596877?source=rss",
-      "publishedAt": "2026-09-28T10:26:49.000Z",
-      "xQuery": "ゴーカート2歳死亡事故 無罪主張"
-    },
-    {
       "time": "20:10",
       "title": "天皇陛下のスマホで撮影 写真公開",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596879?source=rss",
       "publishedAt": "2026-09-28T11:10:35.000Z",
       "xQuery": "天皇陛下のスマホで撮影 写真公開"
+    },
+    {
+      "time": "20:32",
+      "title": "車と歩行者絡む事故 1人心肺停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596880?source=rss",
+      "publishedAt": "2026-09-28T11:32:38.000Z",
+      "xQuery": "車と歩行者絡む事故 1人心肺停止"
+    },
+    {
+      "time": "18:57",
+      "title": "「iDeCo貧乏」 NISAより注意必要",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596876?source=rss",
+      "publishedAt": "2026-09-28T09:57:56.000Z",
+      "xQuery": "「iDeCo貧乏」 NISAより注意必要"
     }
   ]
 };
