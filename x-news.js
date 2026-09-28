@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T05:20:50.890Z",
+  "updatedAt": "2026-09-28T05:44:28.958Z",
   "items": [
     {
       "time": "11:43",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "東海-関東沿岸部は激しい雨 警戒"
     },
     {
+      "time": "13:33",
+      "title": "ウ侵攻「黒海海運」の麻痺深刻化",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596826?source=rss",
+      "publishedAt": "2026-09-28T04:33:22.000Z",
+      "xQuery": "ウ侵攻「黒海海運」の麻痺深刻化"
+    },
+    {
       "time": "13:25",
       "title": "東京で33日連続の雨観測 最長タイ",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596833?source=rss",
       "publishedAt": "2026-09-28T04:25:48.000Z",
       "xQuery": "東京で33日連続の雨観測 最長タイ"
-    },
-    {
-      "time": "11:31",
-      "title": "台風で最愛の妻死亡 結婚して2年",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596820?source=rss",
-      "publishedAt": "2026-09-28T02:31:05.000Z",
-      "xQuery": "台風で最愛の妻死亡 結婚して2年"
     },
     {
       "time": "10:58",
