@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T04:48:38.686Z",
+  "updatedAt": "2026-09-28T05:20:50.890Z",
   "items": [
     {
       "time": "11:43",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風で最愛の妻死亡 結婚して2年"
     },
     {
-      "time": "13:47",
-      "title": "千葉で遺体発見 台風で不明男性か",
+      "time": "10:58",
+      "title": "英基地付近でテロ準備疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596835?source=rss",
-      "publishedAt": "2026-09-28T04:47:03.000Z",
-      "xQuery": "千葉で遺体発見 台風で不明男性か"
+      "url": "https://news.yahoo.co.jp/pickup/6596814?source=rss",
+      "publishedAt": "2026-09-28T01:58:46.000Z",
+      "xQuery": "英基地付近でテロ準備疑い 逮捕"
     },
     {
       "time": "12:11",
