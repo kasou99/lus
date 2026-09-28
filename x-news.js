@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T08:33:10.854Z",
+  "updatedAt": "2026-09-28T09:29:40.096Z",
   "items": [
     {
       "time": "16:29",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大規模修繕で談合 38社に排除命令"
     },
     {
-      "time": "15:42",
-      "title": "韓国がウに謝罪要求 捕虜移送巡り",
+      "time": "16:41",
+      "title": "米中関税 対象品で大幅引き下げへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596844?source=rss",
-      "publishedAt": "2026-09-28T06:42:10.000Z",
-      "xQuery": "韓国がウに謝罪要求 捕虜移送巡り"
+      "url": "https://news.yahoo.co.jp/pickup/6596855?source=rss",
+      "publishedAt": "2026-09-28T07:41:29.000Z",
+      "xQuery": "米中関税 対象品で大幅引き下げへ"
     },
     {
       "time": "17:26",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "タイムズカー約660万件情報漏えい"
     },
     {
-      "time": "16:08",
-      "title": "イリエワニを無許可飼育疑い 逮捕",
+      "time": "17:49",
+      "title": "ミスドが上海出店 100人以上が列",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596849?source=rss",
-      "publishedAt": "2026-09-28T07:08:34.000Z",
-      "xQuery": "イリエワニを無許可飼育疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6596863?source=rss",
+      "publishedAt": "2026-09-28T08:49:44.000Z",
+      "xQuery": "ミスドが上海出店 100人以上が列"
     }
   ]
 };
