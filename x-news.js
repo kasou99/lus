@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T21:38:38.290Z",
+  "updatedAt": "2026-09-28T22:17:44.187Z",
   "items": [
     {
-      "time": "04:52",
-      "title": "茨城・埼玉で震度4 津波心配なし",
+      "time": "06:48",
+      "title": "都心で34日連続雨 最長記録を更新",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596900?source=rss",
-      "publishedAt": "2026-09-28T19:52:20.000Z",
-      "xQuery": "茨城・埼玉で震度4 津波心配なし"
+      "url": "https://news.yahoo.co.jp/pickup/6596907?source=rss",
+      "publishedAt": "2026-09-28T21:48:17.000Z",
+      "xQuery": "都心で34日連続雨 最長記録を更新"
     },
     {
       "time": "21:32",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "衆院選制度見直し 10月末めど結論"
     },
     {
+      "time": "06:41",
+      "title": "マンション修繕談合 コンサル謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596906?source=rss",
+      "publishedAt": "2026-09-28T21:41:02.000Z",
+      "xQuery": "マンション修繕談合 コンサル謝罪"
+    },
+    {
       "time": "06:16",
       "title": "中国 首相の「台湾発言」是正要求",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596903?source=rss",
       "publishedAt": "2026-09-28T21:16:09.000Z",
       "xQuery": "中国 首相の「台湾発言」是正要求"
-    },
-    {
-      "time": "23:09",
-      "title": "生命維持治療終了の新指針 4学会",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596895?source=rss",
-      "publishedAt": "2026-09-28T14:09:29.000Z",
-      "xQuery": "生命維持治療終了の新指針 4学会"
     },
     {
       "time": "00:37",
