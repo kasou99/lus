@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T09:29:40.096Z",
+  "updatedAt": "2026-09-28T09:51:12.462Z",
   "items": [
     {
       "time": "16:29",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "タイムズカー約660万件情報漏えい"
     },
     {
-      "time": "17:49",
-      "title": "ミスドが上海出店 100人以上が列",
+      "time": "18:41",
+      "title": "拠出枠拡大「iDeCo貧乏」に注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596863?source=rss",
-      "publishedAt": "2026-09-28T08:49:44.000Z",
-      "xQuery": "ミスドが上海出店 100人以上が列"
+      "url": "https://news.yahoo.co.jp/pickup/6596869?source=rss",
+      "publishedAt": "2026-09-28T09:41:40.000Z",
+      "xQuery": "拠出枠拡大「iDeCo貧乏」に注意"
     }
   ]
 };
