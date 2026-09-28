@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-27T23:37:10.105Z",
+  "updatedAt": "2026-09-28T00:56:10.448Z",
   "items": [
     {
-      "time": "06:32",
-      "title": "台風接近 沖縄奄美は高波強風続く",
+      "time": "09:04",
+      "title": "東証IPO最少ペース 1-8月に22社",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596789?source=rss",
-      "publishedAt": "2026-09-27T21:32:49.000Z",
-      "xQuery": "台風接近 沖縄奄美は高波強風続く"
+      "url": "https://news.yahoo.co.jp/pickup/6596802?source=rss",
+      "publishedAt": "2026-09-28T00:04:40.000Z",
+      "xQuery": "東証IPO最少ペース 1-8月に22社"
     },
     {
       "time": "08:14",
@@ -18,20 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "裏金議員を要職「問題」61% 毎日"
     },
     {
-      "time": "07:17",
-      "title": "熊本地震2カ月 井戸の復旧進まず",
+      "time": "09:44",
+      "title": "野球観戦中に心肺停止 救った6人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596792?source=rss",
-      "publishedAt": "2026-09-27T22:17:44.000Z",
-      "xQuery": "熊本地震2カ月 井戸の復旧進まず"
+      "url": "https://news.yahoo.co.jp/pickup/6596807?source=rss",
+      "publishedAt": "2026-09-28T00:44:16.000Z",
+      "xQuery": "野球観戦中に心肺停止 救った6人"
     },
     {
-      "time": "08:17",
-      "title": "辞職の山中氏 横浜市長選に出馬へ",
+      "time": "07:44",
+      "title": "治安維持向けロボの開発進む 中国",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596798?source=rss",
-      "publishedAt": "2026-09-27T23:17:20.000Z",
-      "xQuery": "辞職の山中氏 横浜市長選に出馬へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596794?source=rss",
+      "publishedAt": "2026-09-27T22:44:04.000Z",
+      "xQuery": "治安維持向けロボの開発進む 中国"
     },
     {
       "time": "08:12",
