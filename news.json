@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T15:43:01.353Z",
+  "updatedAt": "2026-09-28T16:22:13.658Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,16 +19,9 @@
       {
         "time": "18:56",
         "title": "設計工数を最大50％削減、オムロンが工場の「制御盤レス化」を本格展開 | TECH+（テックプラス）",
-        "source": "news.mynavi.jp",
+        "source": "マイナビニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jOHRyNVlPTElaNkVEZXd1a1plR2pRWkVIMnNJNGJZakxoU09xOFNtUUxfcFNwWnhxYlFrZ1VFRHBDUEh2OHFnZ3pLTkZfeTlSanFVc0hMa0FFalpLazZtejFIV015blcy?oc=5",
         "publishedAt": "2026-09-28T09:56:14.000Z"
-      },
-      {
-        "time": "13:17",
-        "title": "岡本工作機械製作所：1Q半導体関連装置の受注大幅増、PBR0.7倍台・配当利回り3%超え",
-        "source": "株探",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhMDAzajg1blBEcW5uYTJGYXRfdmxjTFJtLUQxZUhYOEs4YlFyLW95Tm5XRHJBZTdkUnFIMGhuUjRGMjZybUJUTjUxdzhjSHdXcHc?oc=5",
-        "publishedAt": "2026-09-28T04:17:25.000Z"
       },
       {
         "time": "17:08",
@@ -36,6 +29,13 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3Vk8tMGs2NkZLMWIxRUFhRWJhaktkblNYUFZqcndKcjU4R25SZ0wtMFpWUmhjZmlibWxQWXpWc2lLck1rY1dCOWFveV95VURYY3JyMXZMSFhJV1VCQXpINVoySE9rQ3QydFE?oc=5",
         "publishedAt": "2026-09-28T08:08:00.000Z"
+      },
+      {
+        "time": "13:17",
+        "title": "岡本工作機械製作所：1Q半導体関連装置の受注大幅増、PBR0.7倍台・配当利回り3%超え",
+        "source": "株探",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhMDAzajg1blBEcW5uYTJGYXRfdmxjTFJtLUQxZUhYOEs4YlFyLW95Tm5XRHJBZTdkUnFIMGhuUjRGMjZybUJUTjUxdzhjSHdXcHc?oc=5",
+        "publishedAt": "2026-09-28T04:17:25.000Z"
       },
       {
         "time": "23:40",
@@ -54,7 +54,7 @@
       {
         "time": "17:17",
         "title": "江口電機が新工場建設に着手 好調続く制御盤の生産能力倍増へ",
-        "source": "sanyonews.jp",
+        "source": "山陽新聞",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EczRvZnpKNVV0cTJ6UnZ0R25DN0E4SVd0aEJ5WkkyQnRFdk0zb3dCaTV5cFpPYzNGNkZzeTdwOXJmZmEzTVZtSGo3WUxTOHFiRXc?oc=5",
         "publishedAt": "2026-09-28T08:17:50.000Z"
       }
