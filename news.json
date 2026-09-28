@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-28T03:50:29.794Z",
+  "updatedAt": "2026-09-28T04:24:04.549Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "13:17",
+        "title": "岡本工作機械製作所：1Q半導体関連装置の受注大幅増、PBR0.7倍台・配当利回り3%超え(フィスコ)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbFNFakV1U01Qd1VVUmVLOWhoc0NaQ1hScHVoNnIxVFVCQkZMdDE1SS1EOGtUTEtMTEJObjUta0VMYW0tR3BHSFlGREp3QVY1VFlzd3A0VHgzZnlfamJSblp1SEltaVFkSERFNFA0YVpQMVl5bExLSFR6RHFvSldqLVZNLWRNNm8?oc=5",
+        "publishedAt": "2026-09-28T04:17:25.000Z"
+      },
       {
         "time": "11:10",
         "title": "オムロン、制御盤の常識を変える「盤レス化ソリューション」を強化",
@@ -10,25 +17,18 @@
         "publishedAt": "2026-09-28T02:10:02.000Z"
       },
       {
+        "time": "13:00",
+        "title": "PLCに接続するだけ、フエストのAI予兆保全は他社製エアシリンダーもOK：産業オープンネット展2026",
+        "source": "MONOist",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CbXFGeGc0QXFELXMxUHJna1JLYTFLSlE2SHRjLVJZc2tabEVaN1Y4STg1MTBvV25xVkt4cC1IbXgySnhEeGNJd2h4eVVUbVhqSUdTaHJpRE5pWm1ycjNUUE1mUC1nTGt6ZUpHZnphNA?oc=5",
+        "publishedAt": "2026-09-28T04:00:00.000Z"
+      },
+      {
         "time": "11:31",
         "title": "オムロン、制御盤を不要にする「盤レス化」製品群を強化",
-        "source": "ニュースメディアVOIX",
+        "source": "voix.jp",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WR3JVLTAtbWFLdFNWdmxFZzBBSW1pdnpleE1rWVhsM3ZuZ2VLUUdlOWpGTnNvTTZLSGxmcFpHcEtDSTFDOHRMVTcxS1p1a1NKMzQ0?oc=5",
         "publishedAt": "2026-09-28T02:31:56.000Z"
-      },
-      {
-        "time": "12:33",
-        "title": "オムロン－反発 「盤レス化ソリューション」を強化(トレーダーズ・ウェブ)",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWtXaU16NlkwWFo3S0N0ZjgzTEd4VUIzTDk2VklZU2ZUNXBPOHB3M3hxLWZUZUI0NnFJQ1Z2Ml9IM3BEd3ZfM2F4TXh0QXdCS21DWXc3dVUxNXlyeXp3aVQ5TmFZS1dRLUtvZDRiN1VJanpwZWdXRFc1dmdqSE9fSjJCRUNVb1E?oc=5",
-        "publishedAt": "2026-09-28T03:33:01.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "新社長登場／エンシュウ・松山智彦氏 半導体・医療関連を開拓",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKYkVITzI1OGFramphT2R0Y243U1lURlNxcENhTFlOZFRfZXNqYU5sNHFJckIycHpaYzgzV2dhdFJMRFhTTVhaNkJJYmVaUjkzWFI4bHphWTk?oc=5",
-        "publishedAt": "2026-09-27T20:00:00.000Z"
       },
       {
         "time": "09:03",
@@ -38,25 +38,25 @@
         "publishedAt": "2026-09-28T00:03:27.000Z"
       },
       {
+        "time": "05:00",
+        "title": "新社長登場／エンシュウ・松山智彦氏 半導体・医療関連を開拓",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKYkVITzI1OGFramphT2R0Y243U1lURlNxcENhTFlOZFRfZXNqYU5sNHFJckIycHpaYzgzV2dhdFJMRFhTTVhaNkJJYmVaUjkzWFI4bHphWTk?oc=5",
+        "publishedAt": "2026-09-27T20:00:00.000Z"
+      },
+      {
+        "time": "12:33",
+        "title": "オムロン－反発 「盤レス化ソリューション」を強化(トレーダーズ・ウェブ)",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWtXaU16NlkwWFo3S0N0ZjgzTEd4VUIzTDk2VklZU2ZUNXBPOHB3M3hxLWZUZUI0NnFJQ1Z2Ml9IM3BEd3ZfM2F4TXh0QXdCS21DWXc3dVUxNXlyeXp3aVQ5TmFZS1dRLUtvZDRiN1VJanpwZWdXRFc1dmdqSE9fSjJCRUNVb1E?oc=5",
+        "publishedAt": "2026-09-28T03:33:01.000Z"
+      },
+      {
         "time": "08:42",
         "title": "海軍工廠造兵部地下 壕基地内の戦争遺跡 迷路のような地下空間〈横須賀市・三浦市〉",
         "source": "ｄメニューニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CVlVYT3lmYmxkYW0yTFoyTjFxdkNoWTRaYmd6MzFQTWdyRFRHWXFiT2k4V1pVcE1ERDdtNWZLUFpSa1MxaFU0bXVnQnJLUjhjRkJlSzkyUnp6TU1fYkhrbkFVTVhscmNlYmNWNzlfWC12QTU1VjlxRWJpWdIBgAFBVV95cUxPUTdnR0xTNUlSRDExckMzcERNdDM4N241bnN6ZjR1RFRuZ2V5b1djbFZfU3FLNnJXUzVhdXNaVDNyVlFaTGVTTFpmN2xCYW9aNE1RUEg1MTdYZFN1aVNzX3hVa1UwY0ZfaWN0QUh4ZnNSVGlhWFg5TGlrUHl0dWpPMA?oc=5",
         "publishedAt": "2026-09-27T23:42:56.000Z"
-      },
-      {
-        "time": "12:30",
-        "title": "【10月21日開催】50年以上のものづくり経験から考える、 製造業DX Webセミナー",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51YzN3ZUtBRVdwRVkzYXBncl96akVXWE9DRXNUX2dsLVF3RHF1VWwydkJOeUNYbmFLZk5qTkJVX2owdWsxUTRpazkzQk9JdWZ3aHpkalRxVzNzSHFaQmVwYVNaUVVsTF9ySU9QX0twM2ZUTk13QWotVFhxYw?oc=5",
-        "publishedAt": "2026-09-28T03:30:40.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "令和 事業を紡ぐ （６） 東海エレクトロニクス社長 大倉 慎氏（おおくら・しん 世の中の課題解決提案へ 電子部品など供給チームワークに磨き",
-        "source": "ｄメニューニュース",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWUc4Qldtczhta1V0a1A4RGllWUlBRzlScDNaUnBBMU1BbFdYa1R3SEdxYzFtV2dYUE1SYXBwY3RsNGQ5a2g5d0dYQVVhaHN1VlFVVHJZT1VXQ3ZZODdHUUVaaTNCUEtGUFczdHZpN1Q1M0g1RGxDeVpEbmxyQlBaMDFiQWNadzhsTU1XeG130gGTAUFVX3lxTE1YT0hoc3JqcGxVWkFqdFdBaHl1UVdSM0k2MEMzcnMxQ0tvM3NhQmNWUVVJblZONlBscndFUDZ4LU9lUi02LXQ0WGRQN0hPQk5vR3RMcGNzMzZHVnlNTkhKV3FJTTcwRGNjZDZvSzdLU041eTV5VjJfdWh5ZGlfQ1ltMFFwYXphbXU3ckRsbW1VNXBhVQ?oc=5",
-        "publishedAt": "2026-09-27T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,13 +112,6 @@
         "publishedAt": "2026-09-27T06:00:56.000Z"
       },
       {
-        "time": "13:02",
-        "title": "家計影響も 10月から変わる暮らし",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596703?source=rss",
-        "publishedAt": "2026-09-27T04:02:05.000Z"
-      },
-      {
         "time": "09:04",
         "title": "東証IPO最少ペース 1-8月に22社",
         "source": "Yahoo!ニュース",
@@ -131,6 +124,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596754?source=rss",
         "publishedAt": "2026-09-27T10:04:24.000Z"
+      },
+      {
+        "time": "12:53",
+        "title": "ボジョレ例年より1カ月早く日本に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596830?source=rss",
+        "publishedAt": "2026-09-28T03:53:20.000Z"
       },
       {
         "time": "09:30",
