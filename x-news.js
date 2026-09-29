@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T02:47:44.640Z",
+  "updatedAt": "2026-09-29T03:23:11.723Z",
   "items": [
     {
       "time": "10:51",
@@ -10,12 +10,28 @@ window.LUS_X_NEWS = {
       "xQuery": "台風26号 30日から伊豆諸島接近へ"
     },
     {
-      "time": "09:04",
-      "title": "イラン 間接協議で米側へ要求伝達",
+      "time": "11:39",
+      "title": "臨時国会を10月5日召集 政府伝達",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596919?source=rss",
-      "publishedAt": "2026-09-29T00:04:07.000Z",
-      "xQuery": "イラン 間接協議で米側へ要求伝達"
+      "url": "https://news.yahoo.co.jp/pickup/6596937?source=rss",
+      "publishedAt": "2026-09-29T02:39:49.000Z",
+      "xQuery": "臨時国会を10月5日召集 政府伝達"
+    },
+    {
+      "time": "11:53",
+      "title": "ネット中傷 賠償額の見直しを検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596938?source=rss",
+      "publishedAt": "2026-09-29T02:53:08.000Z",
+      "xQuery": "ネット中傷 賠償額の見直しを検討"
+    },
+    {
+      "time": "11:23",
+      "title": "オープンAI 新モデル公開取りやめ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596933?source=rss",
+      "publishedAt": "2026-09-29T02:23:11.000Z",
+      "xQuery": "オープンAI 新モデル公開取りやめ"
     },
     {
       "time": "11:17",
@@ -24,22 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596932?source=rss",
       "publishedAt": "2026-09-29T02:17:06.000Z",
       "xQuery": "内田受刑者の公判に乱入 有罪判決"
-    },
-    {
-      "time": "10:33",
-      "title": "匿流に住宅情報流した疑い 男逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596927?source=rss",
-      "publishedAt": "2026-09-29T01:33:21.000Z",
-      "xQuery": "匿流に住宅情報流した疑い 男逮捕"
-    },
-    {
-      "time": "08:27",
-      "title": "タイムズカー情報漏えい 識者警鐘",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596915?source=rss",
-      "publishedAt": "2026-09-28T23:27:13.000Z",
-      "xQuery": "タイムズカー情報漏えい 識者警鐘"
     }
   ]
 };
