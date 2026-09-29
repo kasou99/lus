@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T07:46:54.683Z",
+  "updatedAt": "2026-09-29T08:26:24.830Z",
   "items": [
     {
-      "time": "14:04",
-      "title": "海峡再開巡るイラン案 米拒否なぜ",
+      "time": "16:57",
+      "title": "民間の平均給与 過去最高487万円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596945?source=rss",
-      "publishedAt": "2026-09-29T05:04:42.000Z",
-      "xQuery": "海峡再開巡るイラン案 米拒否なぜ"
+      "url": "https://news.yahoo.co.jp/pickup/6596963?source=rss",
+      "publishedAt": "2026-09-29T07:57:18.000Z",
+      "xQuery": "民間の平均給与 過去最高487万円"
     },
     {
-      "time": "15:41",
-      "title": "母子死傷 現場近くで別の包丁発見",
+      "time": "16:37",
+      "title": "10月の電気ガス 全国的に値上がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596957?source=rss",
-      "publishedAt": "2026-09-29T06:41:12.000Z",
-      "xQuery": "母子死傷 現場近くで別の包丁発見"
+      "url": "https://news.yahoo.co.jp/pickup/6596960?source=rss",
+      "publishedAt": "2026-09-29T07:37:45.000Z",
+      "xQuery": "10月の電気ガス 全国的に値上がり"
     },
     {
-      "time": "14:03",
-      "title": "大雨相次ぐ千葉 高まるバス需要",
+      "time": "16:46",
+      "title": "iPS細胞の心筋シート 初の実用化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596952?source=rss",
-      "publishedAt": "2026-09-29T05:03:52.000Z",
-      "xQuery": "大雨相次ぐ千葉 高まるバス需要"
-    },
-    {
-      "time": "15:01",
-      "title": "遺体なき傷害致死 懲役12年を求刑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596955?source=rss",
-      "publishedAt": "2026-09-29T06:01:42.000Z",
-      "xQuery": "遺体なき傷害致死 懲役12年を求刑"
+      "url": "https://news.yahoo.co.jp/pickup/6596962?source=rss",
+      "publishedAt": "2026-09-29T07:46:28.000Z",
+      "xQuery": "iPS細胞の心筋シート 初の実用化"
     },
     {
       "time": "16:23",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596959?source=rss",
       "publishedAt": "2026-09-29T07:23:00.000Z",
       "xQuery": "総務省 富山市職員を県警に告発"
+    },
+    {
+      "time": "16:08",
+      "title": "赤い羽根 募金箱設置見送り相次ぐ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596958?source=rss",
+      "publishedAt": "2026-09-29T07:08:31.000Z",
+      "xQuery": "赤い羽根 募金箱設置見送り相次ぐ"
     }
   ]
 };
