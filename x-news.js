@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T22:40:02.022Z",
+  "updatedAt": "2026-09-29T23:16:39.377Z",
   "items": [
     {
-      "time": "18:12",
-      "title": "30日も関東は雨続く 台風の進路は",
+      "time": "08:10",
+      "title": "台風 あす八丈島など直撃見込み",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596973?source=rss",
-      "publishedAt": "2026-09-29T09:12:33.000Z",
-      "xQuery": "30日も関東は雨続く 台風の進路は"
+      "url": "https://news.yahoo.co.jp/pickup/6597015?source=rss",
+      "publishedAt": "2026-09-29T23:10:32.000Z",
+      "xQuery": "台風 あす八丈島など直撃見込み"
     },
     {
-      "time": "23:44",
-      "title": "修繕談合で再発防止を要請 国交省",
+      "time": "07:34",
+      "title": "トランプ氏 AI監督委設置を検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597000?source=rss",
-      "publishedAt": "2026-09-29T14:44:40.000Z",
-      "xQuery": "修繕談合で再発防止を要請 国交省"
-    },
-    {
-      "time": "06:34",
-      "title": "北大 教授会の組織的アカハラ認定",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597002?source=rss",
-      "publishedAt": "2026-09-29T21:34:22.000Z",
-      "xQuery": "北大 教授会の組織的アカハラ認定"
+      "url": "https://news.yahoo.co.jp/pickup/6597010?source=rss",
+      "publishedAt": "2026-09-29T22:34:21.000Z",
+      "xQuery": "トランプ氏 AI監督委設置を検討"
     },
     {
       "time": "06:58",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597007?source=rss",
       "publishedAt": "2026-09-29T22:26:59.000Z",
       "xQuery": "熱中症で娘倒れ寝たきり 父の訴え"
+    },
+    {
+      "time": "06:43",
+      "title": "ノジマ バイト大学生2人を店長に",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597003?source=rss",
+      "publishedAt": "2026-09-29T21:43:47.000Z",
+      "xQuery": "ノジマ バイト大学生2人を店長に"
     }
   ]
 };
