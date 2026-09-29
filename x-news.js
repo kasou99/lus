@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T14:18:10.613Z",
+  "updatedAt": "2026-09-29T14:43:40.336Z",
   "items": [
     {
       "time": "18:12",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ドンキ トイザらス日本事業買収へ"
     },
     {
-      "time": "22:14",
-      "title": "免許証など流出160万件 パーク24",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596992?source=rss",
-      "publishedAt": "2026-09-29T13:14:08.000Z",
-      "xQuery": "免許証など流出160万件 パーク24"
-    },
-    {
       "time": "20:16",
       "title": "日本から返還のパンダ 中国で公開",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596984?source=rss",
       "publishedAt": "2026-09-29T11:16:07.000Z",
       "xQuery": "日本から返還のパンダ 中国で公開"
+    },
+    {
+      "time": "23:14",
+      "title": "出向の朝日新聞社員逮捕 傷害容疑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596998?source=rss",
+      "publishedAt": "2026-09-29T14:14:32.000Z",
+      "xQuery": "出向の朝日新聞社員逮捕 傷害容疑"
     }
   ]
 };
