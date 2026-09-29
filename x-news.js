@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T22:17:50.124Z",
+  "updatedAt": "2026-09-29T22:40:02.022Z",
   "items": [
     {
       "time": "18:12",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "修繕談合で再発防止を要請 国交省"
     },
     {
-      "time": "22:41",
-      "title": "ドンキ トイザらス日本事業買収へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596995?source=rss",
-      "publishedAt": "2026-09-29T13:41:00.000Z",
-      "xQuery": "ドンキ トイザらス日本事業買収へ"
-    },
-    {
       "time": "06:34",
       "title": "北大 教授会の組織的アカハラ認定",
       "source": "Yahoo!ニュース",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597005?source=rss",
       "publishedAt": "2026-09-29T21:58:58.000Z",
       "xQuery": "道路でクマが車に複数回突進 破損"
+    },
+    {
+      "time": "07:26",
+      "title": "熱中症で娘倒れ寝たきり 父の訴え",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597007?source=rss",
+      "publishedAt": "2026-09-29T22:26:59.000Z",
+      "xQuery": "熱中症で娘倒れ寝たきり 父の訴え"
     }
   ]
 };
