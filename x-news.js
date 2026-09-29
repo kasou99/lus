@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T05:43:15.250Z",
+  "updatedAt": "2026-09-29T06:32:58.844Z",
   "items": [
     {
-      "time": "11:53",
-      "title": "ネット中傷 賠償額の見直しを検討",
+      "time": "14:04",
+      "title": "海峡再開巡るイラン案 米拒否なぜ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596938?source=rss",
-      "publishedAt": "2026-09-29T02:53:08.000Z",
-      "xQuery": "ネット中傷 賠償額の見直しを検討"
-    },
-    {
-      "time": "10:50",
-      "title": "医療ロボ導入に7割賛意 厚労白書",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596930?source=rss",
-      "publishedAt": "2026-09-29T01:50:48.000Z",
-      "xQuery": "医療ロボ導入に7割賛意 厚労白書"
+      "url": "https://news.yahoo.co.jp/pickup/6596945?source=rss",
+      "publishedAt": "2026-09-29T05:04:42.000Z",
+      "xQuery": "海峡再開巡るイラン案 米拒否なぜ"
     },
     {
       "time": "14:03",
@@ -26,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "大雨相次ぐ千葉 高まるバス需要"
     },
     {
+      "time": "15:01",
+      "title": "遺体なき傷害致死 懲役12年を求刑",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596955?source=rss",
+      "publishedAt": "2026-09-29T06:01:42.000Z",
+      "xQuery": "遺体なき傷害致死 懲役12年を求刑"
+    },
+    {
       "time": "12:24",
       "title": "部活バス事故 顧問のみ運転常態化",
       "source": "Yahoo!ニュース",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "部活バス事故 顧問のみ運転常態化"
     },
     {
-      "time": "11:10",
-      "title": "中学の合唱コンなぜ続く 識者語る",
+      "time": "14:39",
+      "title": "ANA「SFC」新制度 一部見直しへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596926?source=rss",
-      "publishedAt": "2026-09-29T02:10:32.000Z",
-      "xQuery": "中学の合唱コンなぜ続く 識者語る"
+      "url": "https://news.yahoo.co.jp/pickup/6596954?source=rss",
+      "publishedAt": "2026-09-29T05:39:29.000Z",
+      "xQuery": "ANA「SFC」新制度 一部見直しへ"
     }
   ]
 };
