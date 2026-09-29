@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T09:21:24.857Z",
+  "updatedAt": "2026-09-29T09:45:00.091Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,8 +11,8 @@
       },
       {
         "time": "07:04",
-        "title": "「工作機械＋ロボット」が至る所に、欧州製造業向けの最新ソリューション／AMB2026フォトリポート",
-        "source": "robot digest",
+        "title": "「工作機械＋ロボット」が至る所に、欧州製造業向けの最新ソリューション／AMB2026フォトリポート - robot-digest.com",
+        "source": "robot-digest.com",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4waUNwVFlIdHZLVWJid3hOUGgxa0QwU0VVV192d2pnVFVTNVV4LUZsaGhqN25pSDhQWExYdzV4WTVRTzJuaGRyWC1ZQ0w3Y1BLOXVHLWJ2WUlFeXZ6SExTa2pBUHlwWlFFRTVj?oc=5",
         "publishedAt": "2026-09-28T22:04:05.000Z"
       },
@@ -22,6 +22,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fanN6OUFlTEFNUDZTaWNRaW5vNUlPUEZnTEhLTldoTnBSOUxxWl9xSHBveE9SRnBaRXN0OE0xOU94ZnVvTnFQU1dSYmJGQQ?oc=5",
         "publishedAt": "2026-09-29T07:21:00.000Z"
+      },
+      {
+        "time": "13:56",
+        "title": "【Press Release】冨士ダイスとダイジェット工業、JIMTOF2026で初のコラボ企画を実施",
+        "source": "prtimes.jp",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1Ykk1ajlYaHhVU0lSUl9IVF9TWEVsNnI5UlQycmlwZkg1M09DMktjbzkyTldJWUozM1p0LVJUTDk2SjNZQm9sbkltZWQzZWlGdnF0SDloWDd5c3l3elk0MTNkSEFmYXQyb0E?oc=5",
+        "publishedAt": "2026-09-29T04:56:13.000Z"
       },
       {
         "time": "06:10",
@@ -38,25 +45,18 @@
         "publishedAt": "2026-09-28T21:43:33.000Z"
       },
       {
+        "time": "23:40",
+        "title": "オムロン、制御盤の常識を変える「盤レス化ソリューション」を強化",
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hMi1PdURtejd6T1NnSk96bVRxa2RLY00xeWtYTURMZlh3Y2ZQZGhvcHNuT2F6WlhZT0dIcEp1bHhDaUNZMTIyWElPVFM0bWtyMHNTemduUzZzTWNoUkJyLVVucGIwNEwzc1Y4?oc=5",
+        "publishedAt": "2026-09-28T14:40:00.000Z"
+      },
+      {
         "time": "05:00",
         "title": "ジェイテクト、JIMTOFに研削盤 4年ぶり新製品",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuYkZfQ3Azbk5qVDM5LVRtaHMxV0VyM1dUclBpRjh1a3BmNkMtTlZwSDNVSGsybFg0S3hNMjVHNEZ6Q19VY2I5ZWpnYjZuUW91eVVOMTJZcUs?oc=5",
         "publishedAt": "2026-09-28T20:00:00.000Z"
-      },
-      {
-        "time": "18:28",
-        "title": "オムロン、工場の制御盤を小型化 設計工数3〜5割削減で人手不足対応",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HWHdyS3FFdFV5WmdxREphSmJrRi03OWlmbGt2U3dxZ1RWdE1GSDVHd1lqXzVWZk9RdDIyb1hDRXR3OElTRllZYTY0OFJ4eWFsbUhVZ0RFN3A3UTFKLTlhRkVURWpQdkVLVTNtYw?oc=5",
-        "publishedAt": "2026-09-28T09:28:25.000Z"
-      },
-      {
-        "time": "18:56",
-        "title": "設計工数を最大50％削減、オムロンが工場の「制御盤レス化」を本格展開 | TECH+（テックプラス）",
-        "source": "マイナビニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jOHRyNVlPTElaNkVEZXd1a1plR2pRWkVIMnNJNGJZakxoU09xOFNtUUxfcFNwWnhxYlFrZ1VFRHBDUEh2OHFnZ3pLTkZfeTlSanFVc0hMa0FFalpLazZtejFIV015blcy?oc=5",
-        "publishedAt": "2026-09-28T09:56:14.000Z"
       }
     ],
     "worldHeadlines": [
