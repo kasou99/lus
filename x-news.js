@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T06:32:58.844Z",
+  "updatedAt": "2026-09-29T07:25:32.466Z",
   "items": [
     {
       "time": "14:04",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "遺体なき傷害致死 懲役12年を求刑"
     },
     {
-      "time": "12:24",
-      "title": "部活バス事故 顧問のみ運転常態化",
+      "time": "15:41",
+      "title": "母子死傷 現場近くで別の包丁発見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596941?source=rss",
-      "publishedAt": "2026-09-29T03:24:06.000Z",
-      "xQuery": "部活バス事故 顧問のみ運転常態化"
+      "url": "https://news.yahoo.co.jp/pickup/6596957?source=rss",
+      "publishedAt": "2026-09-29T06:41:12.000Z",
+      "xQuery": "母子死傷 現場近くで別の包丁発見"
     },
     {
-      "time": "14:39",
-      "title": "ANA「SFC」新制度 一部見直しへ",
+      "time": "16:08",
+      "title": "赤い羽根 募金箱設置見送り相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596954?source=rss",
-      "publishedAt": "2026-09-29T05:39:29.000Z",
-      "xQuery": "ANA「SFC」新制度 一部見直しへ"
+      "url": "https://news.yahoo.co.jp/pickup/6596958?source=rss",
+      "publishedAt": "2026-09-29T07:08:31.000Z",
+      "xQuery": "赤い羽根 募金箱設置見送り相次ぐ"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T06:32:57.999Z",
+  "updatedAt": "2026-09-29T07:25:31.754Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "18:28",
         "title": "オムロン、工場の制御盤を小型化 設計工数3〜5割削減で人手不足対応",
-        "source": "nikkei.com",
+        "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HWHdyS3FFdFV5WmdxREphSmJrRi03OWlmbGt2U3dxZ1RWdE1GSDVHd1lqXzVWZk9RdDIyb1hDRXR3OElTRllZYTY0OFJ4eWFsbUhVZ0RFN3A3UTFKLTlhRkVURWpQdkVLVTNtYw?oc=5",
         "publishedAt": "2026-09-28T09:28:25.000Z"
       },
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "14:03",
-        "title": "大雨相次ぐ千葉 高まるバス需要",
+        "time": "15:41",
+        "title": "母子死傷 現場近くで別の包丁発見",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596952?source=rss",
-        "publishedAt": "2026-09-29T05:03:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596957?source=rss",
+        "publishedAt": "2026-09-29T06:41:12.000Z"
       },
       {
-        "time": "11:17",
-        "title": "内田受刑者の公判に乱入 有罪判決",
+        "time": "16:08",
+        "title": "赤い羽根 募金箱設置見送り相次ぐ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596932?source=rss",
-        "publishedAt": "2026-09-29T02:17:06.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596958?source=rss",
+        "publishedAt": "2026-09-29T07:08:31.000Z"
       },
       {
         "time": "15:01",
@@ -170,25 +170,25 @@
         "publishedAt": "2026-09-29T06:01:42.000Z"
       },
       {
+        "time": "11:17",
+        "title": "内田受刑者の公判に乱入 有罪判決",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596932?source=rss",
+        "publishedAt": "2026-09-29T02:17:06.000Z"
+      },
+      {
+        "time": "16:23",
+        "title": "総務省 富山市職員を県警に告発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596959?source=rss",
+        "publishedAt": "2026-09-29T07:23:00.000Z"
+      },
+      {
         "time": "10:33",
         "title": "匿流に住宅情報流した疑い 男逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596927?source=rss",
         "publishedAt": "2026-09-29T01:33:21.000Z"
-      },
-      {
-        "time": "08:01",
-        "title": "トラックと衝突し炎上 車に3遺体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596913?source=rss",
-        "publishedAt": "2026-09-28T23:01:02.000Z"
-      },
-      {
-        "time": "12:24",
-        "title": "部活バス事故 顧問のみ運転常態化",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596941?source=rss",
-        "publishedAt": "2026-09-29T03:24:06.000Z"
       }
     ],
     "subsidyHeadlines": [
