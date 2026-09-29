@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T08:26:24.830Z",
+  "updatedAt": "2026-09-29T08:48:35.394Z",
   "items": [
     {
       "time": "16:57",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596963?source=rss",
       "publishedAt": "2026-09-29T07:57:18.000Z",
       "xQuery": "民間の平均給与 過去最高487万円"
+    },
+    {
+      "time": "17:26",
+      "title": "アンソロ社 AIの人類存亡危機警告",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596968?source=rss",
+      "publishedAt": "2026-09-29T08:26:24.000Z",
+      "xQuery": "アンソロ社 AIの人類存亡危機警告"
     },
     {
       "time": "16:37",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596959?source=rss",
       "publishedAt": "2026-09-29T07:23:00.000Z",
       "xQuery": "総務省 富山市職員を県警に告発"
-    },
-    {
-      "time": "16:08",
-      "title": "赤い羽根 募金箱設置見送り相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596958?source=rss",
-      "publishedAt": "2026-09-29T07:08:31.000Z",
-      "xQuery": "赤い羽根 募金箱設置見送り相次ぐ"
     }
   ]
 };
