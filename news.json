@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T07:25:31.754Z",
+  "updatedAt": "2026-09-29T07:46:53.844Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "18:56",
         "title": "設計工数を最大50％削減、オムロンが工場の「制御盤レス化」を本格展開 | TECH+（テックプラス）",
-        "source": "マイナビニュース",
+        "source": "news.mynavi.jp",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jOHRyNVlPTElaNkVEZXd1a1plR2pRWkVIMnNJNGJZakxoU09xOFNtUUxfcFNwWnhxYlFrZ1VFRHBDUEh2OHFnZ3pLTkZfeTlSanFVc0hMa0FFalpLazZtejFIV015blcy?oc=5",
         "publishedAt": "2026-09-28T09:56:14.000Z"
       },
@@ -47,7 +47,7 @@
       {
         "time": "23:40",
         "title": "オムロン、制御盤の常識を変える「盤レス化ソリューション」を強化",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hdmhRc0E2M1VBc3o3R2plOHB3Q1o4VzViQzR2YWZpLUNJNHM5NGNKVTREV0h1UEl3SVFGNk5YT3g5VG5ncFBETnJJZ0txVG1qajRKLTcwSHpoa1dOc243TFZwaUNQNnROdjVvbk1UQ1dHZw?oc=5",
         "publishedAt": "2026-09-28T14:40:02.000Z"
       },
@@ -112,18 +112,18 @@
         "publishedAt": "2026-09-28T21:41:02.000Z"
       },
       {
-        "time": "16:29",
-        "title": "大規模修繕で談合 38社に排除命令",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596852?source=rss",
-        "publishedAt": "2026-09-28T07:29:13.000Z"
-      },
-      {
         "time": "19:56",
         "title": "談合対象マンション名 なぜ公表",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596878?source=rss",
         "publishedAt": "2026-09-28T10:56:02.000Z"
+      },
+      {
+        "time": "16:37",
+        "title": "10月の電気ガス 全国的に値上がり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596960?source=rss",
+        "publishedAt": "2026-09-29T07:37:45.000Z"
       },
       {
         "time": "14:39",

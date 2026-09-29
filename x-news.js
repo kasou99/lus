@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T07:25:32.466Z",
+  "updatedAt": "2026-09-29T07:46:54.683Z",
   "items": [
     {
       "time": "14:04",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596945?source=rss",
       "publishedAt": "2026-09-29T05:04:42.000Z",
       "xQuery": "海峡再開巡るイラン案 米拒否なぜ"
+    },
+    {
+      "time": "15:41",
+      "title": "母子死傷 現場近くで別の包丁発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596957?source=rss",
+      "publishedAt": "2026-09-29T06:41:12.000Z",
+      "xQuery": "母子死傷 現場近くで別の包丁発見"
     },
     {
       "time": "14:03",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "遺体なき傷害致死 懲役12年を求刑"
     },
     {
-      "time": "15:41",
-      "title": "母子死傷 現場近くで別の包丁発見",
+      "time": "16:23",
+      "title": "総務省 富山市職員を県警に告発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596957?source=rss",
-      "publishedAt": "2026-09-29T06:41:12.000Z",
-      "xQuery": "母子死傷 現場近くで別の包丁発見"
-    },
-    {
-      "time": "16:08",
-      "title": "赤い羽根 募金箱設置見送り相次ぐ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596958?source=rss",
-      "publishedAt": "2026-09-29T07:08:31.000Z",
-      "xQuery": "赤い羽根 募金箱設置見送り相次ぐ"
+      "url": "https://news.yahoo.co.jp/pickup/6596959?source=rss",
+      "publishedAt": "2026-09-29T07:23:00.000Z",
+      "xQuery": "総務省 富山市職員を県警に告発"
     }
   ]
 };
