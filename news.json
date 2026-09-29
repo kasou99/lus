@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:41:06.523Z",
+  "updatedAt": "2026-09-29T18:24:04.495Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,6 +31,13 @@
         "publishedAt": "2026-09-29T07:21:00.000Z"
       },
       {
+        "time": "16:26",
+        "title": "【探訪ザ・カンパニー】オーザック（福山市）安全支えるワイヤ金具",
+        "source": "山陽新聞",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2YnlPN09iTUcyOGNldkhrT1k5RzQ5M0pLNkE3NkV1YzJxUDFPam9xOTV6dFZva2ZrNHNxNkZIOGYxMXN6R1JyUHFIMXZIamRMT2c?oc=5",
+        "publishedAt": "2026-09-29T07:26:36.000Z"
+      },
+      {
         "time": "13:56",
         "title": "【Press Release】冨士ダイスとダイジェット工業、JIMTOF2026で初のコラボ企画を実施",
         "source": "PR TIMES",
@@ -43,13 +50,6 @@
         "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkbzgwS004bERrVkxweFk3R0ZCbXRETUZhYjFZUWs1UHN5OVVtNUZwbE5qaDNnN3RCVW80MXlSRFI4SU9SRmRGM0RXX0Q5UHFGNm9vSnJidnJKQ0lONzhTbmduMGxtbnozcHJBYXpHN05ZQQ?oc=5",
         "publishedAt": "2026-09-29T14:15:34.000Z"
-      },
-      {
-        "time": "06:10",
-        "title": "省エネ・高速動作…日本精工が投入、ボールネジ技術を活用した油圧発生装置の機能",
-        "source": "ニュースイッチ by 日刊工業新聞社",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9Mamk5RmU0ZDJ1Y3lvY0pHQzMxYm5YeUFJY0k1ZVZIVHE3TzJrc3oyWE81SG5KWnY3RVczRnlsdHp4Zw?oc=5",
-        "publishedAt": "2026-09-28T21:10:56.000Z"
       },
       {
         "time": "21:18",
