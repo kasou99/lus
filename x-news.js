@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T11:17:19.866Z",
+  "updatedAt": "2026-09-29T11:40:43.817Z",
   "items": [
     {
-      "time": "18:59",
-      "title": "ニデック岸田社長が辞任 不正巡り",
+      "time": "19:45",
+      "title": "日本の総人口2.5%減 1億2297万人",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596980?source=rss",
-      "publishedAt": "2026-09-29T09:59:59.000Z",
-      "xQuery": "ニデック岸田社長が辞任 不正巡り"
+      "url": "https://news.yahoo.co.jp/pickup/6596981?source=rss",
+      "publishedAt": "2026-09-29T10:45:35.000Z",
+      "xQuery": "日本の総人口2.5%減 1億2297万人"
     },
     {
       "time": "19:04",
@@ -16,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596979?source=rss",
       "publishedAt": "2026-09-29T10:04:21.000Z",
       "xQuery": "教職員7万人の性犯歴確認へ 東京"
+    },
+    {
+      "time": "19:49",
+      "title": "鳥取の海岸遺体 不明高校生と判明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596983?source=rss",
+      "publishedAt": "2026-09-29T10:49:15.000Z",
+      "xQuery": "鳥取の海岸遺体 不明高校生と判明"
     },
     {
       "time": "19:02",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596966?source=rss",
       "publishedAt": "2026-09-29T08:23:29.000Z",
       "xQuery": "グーグル Gemini「Gems」終了へ"
-    },
-    {
-      "time": "17:07",
-      "title": "免許証画像の流出 3つのリスク",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596965?source=rss",
-      "publishedAt": "2026-09-29T08:07:58.000Z",
-      "xQuery": "免許証画像の流出 3つのリスク"
     }
   ]
 };

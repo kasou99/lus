@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-29T11:17:19.075Z",
+  "updatedAt": "2026-09-29T11:40:43.083Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "11:28",
         "title": "メトレック産業 鋳物材リサイクルで参画 工作機械水平循環スキーム 協力会社と連携強化（日刊産業新聞）",
-        "source": "news.yahoo.co.jp",
+        "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KS3h5MFMzUjgybkNXVU5GSkJCUGs1dTZJdlA1aVM2R2VDU29HZVZjZlQ3cVdKWU9qT2Exa3VVYlJ3V3Jsb1BtY2tPYmtibFNiWEx4RUZleGt2cW5fMEJoa2hqNzF0N043ZkFFTkxCalVEZHczYWpSWk5sVFVEb2s?oc=5",
         "publishedAt": "2026-09-29T02:28:47.000Z"
       },
@@ -82,6 +82,13 @@
         "publishedAt": "2026-09-28T07:41:29.000Z"
       },
       {
+        "time": "20:16",
+        "title": "日本から返還のパンダ 中国で公開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596984?source=rss",
+        "publishedAt": "2026-09-29T11:16:07.000Z"
+      },
+      {
         "time": "13:33",
         "title": "ウ侵攻「黒海海運」の麻痺深刻化",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596844?source=rss",
         "publishedAt": "2026-09-28T06:42:10.000Z"
-      },
-      {
-        "time": "15:00",
-        "title": "台湾 第2次大戦の中国認識に反発",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596841?source=rss",
-        "publishedAt": "2026-09-28T06:00:20.000Z"
       }
     ],
     "economyHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-09-29T10:49:15.000Z"
       },
       {
+        "time": "20:35",
+        "title": "くじ引きで落選の市議候補 当選へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596986?source=rss",
+        "publishedAt": "2026-09-29T11:35:20.000Z"
+      },
+      {
         "time": "16:08",
         "title": "赤い羽根 募金箱設置見送り相次ぐ",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596955?source=rss",
         "publishedAt": "2026-09-29T06:01:42.000Z"
-      },
-      {
-        "time": "11:17",
-        "title": "内田受刑者の公判に乱入 有罪判決",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596932?source=rss",
-        "publishedAt": "2026-09-29T02:17:06.000Z"
       }
     ],
     "subsidyHeadlines": [
