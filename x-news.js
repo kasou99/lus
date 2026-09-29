@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T21:17:21.705Z",
+  "updatedAt": "2026-09-29T21:40:14.005Z",
   "items": [
     {
       "time": "18:12",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ドンキ トイザらス日本事業買収へ"
     },
     {
+      "time": "06:34",
+      "title": "北大 教授会の組織的アカハラ認定",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597002?source=rss",
+      "publishedAt": "2026-09-29T21:34:22.000Z",
+      "xQuery": "北大 教授会の組織的アカハラ認定"
+    },
+    {
       "time": "23:12",
       "title": "千葉支援 都営バスと運転手を派遣",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6596996?source=rss",
       "publishedAt": "2026-09-29T14:12:51.000Z",
       "xQuery": "千葉支援 都営バスと運転手を派遣"
-    },
-    {
-      "time": "23:14",
-      "title": "出向の朝日新聞社員逮捕 傷害容疑",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596998?source=rss",
-      "publishedAt": "2026-09-29T14:14:32.000Z",
-      "xQuery": "出向の朝日新聞社員逮捕 傷害容疑"
     }
   ]
 };
