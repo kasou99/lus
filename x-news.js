@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T21:40:14.005Z",
+  "updatedAt": "2026-09-29T22:17:50.124Z",
   "items": [
     {
       "time": "18:12",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "北大 教授会の組織的アカハラ認定"
     },
     {
-      "time": "23:12",
-      "title": "千葉支援 都営バスと運転手を派遣",
+      "time": "06:58",
+      "title": "道路でクマが車に複数回突進 破損",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596996?source=rss",
-      "publishedAt": "2026-09-29T14:12:51.000Z",
-      "xQuery": "千葉支援 都営バスと運転手を派遣"
+      "url": "https://news.yahoo.co.jp/pickup/6597005?source=rss",
+      "publishedAt": "2026-09-29T21:58:58.000Z",
+      "xQuery": "道路でクマが車に複数回突進 破損"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T21:40:09.734Z",
+  "updatedAt": "2026-09-29T22:17:49.322Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -11,15 +11,15 @@
       },
       {
         "time": "17:32",
-        "title": "オムロン、「制御盤レス化」のソリューション強化 製造業の生産変革を後押し",
-        "source": "電波新聞デジタル",
+        "title": "オムロン、「制御盤レス化」のソリューション強化 製造業の生産変革を後押し - dempa-digital.com",
+        "source": "dempa-digital.com",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wdndJUDRKQVlZTUpIX1BnSWxhX2t3bG1keGVySktpcEp2Qkk2cDhBRi1uQjNtS0hBc3R2TkFPd0t3MXVwTktHTWdRT1pIeGtDX1E?oc=5",
         "publishedAt": "2026-09-29T08:32:04.000Z"
       },
       {
         "time": "11:28",
         "title": "メトレック産業 鋳物材リサイクルで参画 工作機械水平循環スキーム 協力会社と連携強化（日刊産業新聞）",
-        "source": "news.yahoo.co.jp",
+        "source": "Yahoo!ニュース",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KS3h5MFMzUjgybkNXVU5GSkJCUGs1dTZJdlA1aVM2R2VDU29HZVZjZlQ3cVdKWU9qT2Exa3VVYlJ3V3Jsb1BtY2tPYmtibFNiWEx4RUZleGt2cW5fMEJoa2hqNzF0N043ZkFFTkxCalVEZHczYWpSWk5sVFVEb2s?oc=5",
         "publishedAt": "2026-09-29T02:28:47.000Z"
       },
@@ -31,11 +31,11 @@
         "publishedAt": "2026-09-29T20:00:00.000Z"
       },
       {
-        "time": "07:04",
-        "title": "「工作機械＋ロボット」が至る所に、欧州製造業向けの最新ソリューション／AMB2026フォトリポート",
-        "source": "robot digest",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4waUNwVFlIdHZLVWJid3hOUGgxa0QwU0VVV192d2pnVFVTNVV4LUZsaGhqN25pSDhQWExYdzV4WTVRTzJuaGRyWC1ZQ0w3Y1BLOXVHLWJ2WUlFeXZ6SExTa2pBUHlwWlFFRTVj?oc=5",
-        "publishedAt": "2026-09-28T22:04:05.000Z"
+        "time": "05:00",
+        "title": "100億企業への成長痛 中堅・中小アンケート（上）人材定着、喫緊の課題",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56WGFzTVMwcEFlWDJwNkNEWVFCTUJnLWZPenpYaDVLSFgySlBIekZxMzFtNldaWnFlOU1fYXhuOFdsY3NKaWdKdkFJeUxuN2ZsY1VHSEs2emY?oc=5",
+        "publishedAt": "2026-09-29T20:00:00.000Z"
       },
       {
         "time": "16:21",
@@ -119,11 +119,18 @@
         "publishedAt": "2026-09-29T09:59:59.000Z"
       },
       {
-        "time": "19:02",
-        "title": "伊藤園 株主優待制度を廃止",
+        "time": "07:14",
+        "title": "東京メトロ東西線 一部見合わせ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596978?source=rss",
-        "publishedAt": "2026-09-29T10:02:58.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597006?source=rss",
+        "publishedAt": "2026-09-29T22:14:48.000Z"
+      },
+      {
+        "time": "16:37",
+        "title": "10月の電気ガス 全国的に値上がり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596960?source=rss",
+        "publishedAt": "2026-09-29T07:37:45.000Z"
       },
       {
         "time": "16:57",
@@ -133,18 +140,11 @@
         "publishedAt": "2026-09-29T07:57:18.000Z"
       },
       {
-        "time": "20:03",
-        "title": "ミスド上海は成功するか 識者見解",
+        "time": "19:02",
+        "title": "伊藤園 株主優待制度を廃止",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596971?source=rss",
-        "publishedAt": "2026-09-29T11:03:37.000Z"
-      },
-      {
-        "time": "16:37",
-        "title": "10月の電気ガス 全国的に値上がり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596960?source=rss",
-        "publishedAt": "2026-09-29T07:37:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6596978?source=rss",
+        "publishedAt": "2026-09-29T10:02:58.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-09-29T10:49:15.000Z"
       },
       {
+        "time": "06:58",
+        "title": "道路でクマが車に複数回突進 破損",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597005?source=rss",
+        "publishedAt": "2026-09-29T21:58:58.000Z"
+      },
+      {
         "time": "20:35",
         "title": "くじ引きで落選の市議候補 当選へ",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596998?source=rss",
         "publishedAt": "2026-09-29T14:14:32.000Z"
-      },
-      {
-        "time": "23:12",
-        "title": "千葉支援 都営バスと運転手を派遣",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596996?source=rss",
-        "publishedAt": "2026-09-29T14:12:51.000Z"
       }
     ],
     "subsidyHeadlines": [
