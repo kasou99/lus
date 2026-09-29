@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T09:45:00.697Z",
+  "updatedAt": "2026-09-29T10:19:05.283Z",
   "items": [
+    {
+      "time": "18:59",
+      "title": "ニデック岸田社長が辞任 不正巡り",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596980?source=rss",
+      "publishedAt": "2026-09-29T09:59:59.000Z",
+      "xQuery": "ニデック岸田社長が辞任 不正巡り"
+    },
     {
       "time": "17:57",
       "title": "茂木氏 旧敵国条項巡り中国けん制",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "茂木氏 旧敵国条項巡り中国けん制"
     },
     {
-      "time": "16:57",
-      "title": "民間の平均給与 過去最高487万円",
+      "time": "19:04",
+      "title": "教職員7万人の性犯歴確認へ 東京",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596963?source=rss",
-      "publishedAt": "2026-09-29T07:57:18.000Z",
-      "xQuery": "民間の平均給与 過去最高487万円"
+      "url": "https://news.yahoo.co.jp/pickup/6596979?source=rss",
+      "publishedAt": "2026-09-29T10:04:21.000Z",
+      "xQuery": "教職員7万人の性犯歴確認へ 東京"
     },
     {
       "time": "17:26",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "アンソロ社 AIの人類存亡危機警告"
     },
     {
-      "time": "16:46",
-      "title": "iPS細胞の心筋シート 初の実用化",
+      "time": "17:23",
+      "title": "グーグル Gemini「Gems」終了へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596962?source=rss",
-      "publishedAt": "2026-09-29T07:46:28.000Z",
-      "xQuery": "iPS細胞の心筋シート 初の実用化"
-    },
-    {
-      "time": "16:23",
-      "title": "総務省 富山市職員を県警に告発",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596959?source=rss",
-      "publishedAt": "2026-09-29T07:23:00.000Z",
-      "xQuery": "総務省 富山市職員を県警に告発"
+      "url": "https://news.yahoo.co.jp/pickup/6596966?source=rss",
+      "publishedAt": "2026-09-29T08:23:29.000Z",
+      "xQuery": "グーグル Gemini「Gems」終了へ"
     }
   ]
 };
