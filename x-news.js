@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T11:40:43.817Z",
+  "updatedAt": "2026-09-29T12:30:08.105Z",
   "items": [
+    {
+      "time": "18:12",
+      "title": "30日も関東は雨続く 台風の進路は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596973?source=rss",
+      "publishedAt": "2026-09-29T09:12:33.000Z",
+      "xQuery": "30日も関東は雨続く 台風の進路は"
+    },
     {
       "time": "19:45",
       "title": "日本の総人口2.5%減 1億2297万人",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596981?source=rss",
       "publishedAt": "2026-09-29T10:45:35.000Z",
       "xQuery": "日本の総人口2.5%減 1億2297万人"
-    },
-    {
-      "time": "19:04",
-      "title": "教職員7万人の性犯歴確認へ 東京",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596979?source=rss",
-      "publishedAt": "2026-09-29T10:04:21.000Z",
-      "xQuery": "教職員7万人の性犯歴確認へ 東京"
     },
     {
       "time": "19:49",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "伊藤園 株主優待制度を廃止"
     },
     {
-      "time": "17:23",
-      "title": "グーグル Gemini「Gems」終了へ",
+      "time": "20:35",
+      "title": "くじ引きで落選の市議候補 当選へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596966?source=rss",
-      "publishedAt": "2026-09-29T08:23:29.000Z",
-      "xQuery": "グーグル Gemini「Gems」終了へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596986?source=rss",
+      "publishedAt": "2026-09-29T11:35:20.000Z",
+      "xQuery": "くじ引きで落選の市議候補 当選へ"
     }
   ]
 };
