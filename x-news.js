@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T10:43:33.139Z",
+  "updatedAt": "2026-09-29T11:17:19.866Z",
   "items": [
     {
       "time": "18:59",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "ニデック岸田社長が辞任 不正巡り"
     },
     {
-      "time": "17:57",
-      "title": "茂木氏 旧敵国条項巡り中国けん制",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596972?source=rss",
-      "publishedAt": "2026-09-29T08:57:23.000Z",
-      "xQuery": "茂木氏 旧敵国条項巡り中国けん制"
-    },
-    {
       "time": "19:04",
       "title": "教職員7万人の性犯歴確認へ 東京",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "教職員7万人の性犯歴確認へ 東京"
     },
     {
-      "time": "17:26",
-      "title": "アンソロ社 AIの人類存亡危機警告",
+      "time": "19:02",
+      "title": "伊藤園 株主優待制度を廃止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596968?source=rss",
-      "publishedAt": "2026-09-29T08:26:24.000Z",
-      "xQuery": "アンソロ社 AIの人類存亡危機警告"
+      "url": "https://news.yahoo.co.jp/pickup/6596978?source=rss",
+      "publishedAt": "2026-09-29T10:02:58.000Z",
+      "xQuery": "伊藤園 株主優待制度を廃止"
     },
     {
       "time": "17:23",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596966?source=rss",
       "publishedAt": "2026-09-29T08:23:29.000Z",
       "xQuery": "グーグル Gemini「Gems」終了へ"
+    },
+    {
+      "time": "17:07",
+      "title": "免許証画像の流出 3つのリスク",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596965?source=rss",
+      "publishedAt": "2026-09-29T08:07:58.000Z",
+      "xQuery": "免許証画像の流出 3つのリスク"
     }
   ]
 };
