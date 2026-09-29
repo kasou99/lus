@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T03:23:11.723Z",
+  "updatedAt": "2026-09-29T03:46:21.985Z",
   "items": [
     {
-      "time": "10:51",
-      "title": "台風26号 30日から伊豆諸島接近へ",
+      "time": "11:53",
+      "title": "ネット中傷 賠償額の見直しを検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596929?source=rss",
-      "publishedAt": "2026-09-29T01:51:00.000Z",
-      "xQuery": "台風26号 30日から伊豆諸島接近へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596938?source=rss",
+      "publishedAt": "2026-09-29T02:53:08.000Z",
+      "xQuery": "ネット中傷 賠償額の見直しを検討"
     },
     {
       "time": "11:39",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "臨時国会を10月5日召集 政府伝達"
     },
     {
-      "time": "11:53",
-      "title": "ネット中傷 賠償額の見直しを検討",
+      "time": "09:37",
+      "title": "中国「テクノロジー観光」に注力",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596938?source=rss",
-      "publishedAt": "2026-09-29T02:53:08.000Z",
-      "xQuery": "ネット中傷 賠償額の見直しを検討"
+      "url": "https://news.yahoo.co.jp/pickup/6596921?source=rss",
+      "publishedAt": "2026-09-29T00:37:05.000Z",
+      "xQuery": "中国「テクノロジー観光」に注力"
     },
     {
       "time": "11:23",
