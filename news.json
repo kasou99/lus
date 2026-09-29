@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T13:22:35.552Z",
+  "updatedAt": "2026-09-29T13:45:07.239Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "22:41",
+        "title": "ドンキ トイザらス日本事業買収へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596995?source=rss",
+        "publishedAt": "2026-09-29T13:41:00.000Z"
+      },
+      {
         "time": "18:59",
         "title": "ニデック岸田社長が辞任 不正巡り",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596960?source=rss",
         "publishedAt": "2026-09-29T07:37:45.000Z"
-      },
-      {
-        "time": "14:39",
-        "title": "ANA「SFC」新制度 一部見直しへ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596954?source=rss",
-        "publishedAt": "2026-09-29T05:39:29.000Z"
       }
     ],
     "localHeadlines": [
@@ -154,13 +154,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596979?source=rss",
         "publishedAt": "2026-09-29T10:04:21.000Z"
-      },
-      {
-        "time": "15:41",
-        "title": "母子死傷 現場近くで別の包丁発見",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596957?source=rss",
-        "publishedAt": "2026-09-29T06:41:12.000Z"
       },
       {
         "time": "19:49",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596955?source=rss",
         "publishedAt": "2026-09-29T06:01:42.000Z"
+      },
+      {
+        "time": "16:23",
+        "title": "総務省 富山市職員を県警に告発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596959?source=rss",
+        "publishedAt": "2026-09-29T07:23:00.000Z"
       }
     ],
     "subsidyHeadlines": [

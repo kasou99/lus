@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T13:22:36.485Z",
+  "updatedAt": "2026-09-29T13:45:08.320Z",
   "items": [
     {
       "time": "18:12",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "鳥取の海岸遺体 不明高校生と判明"
     },
     {
-      "time": "19:02",
-      "title": "伊藤園 株主優待制度を廃止",
+      "time": "22:41",
+      "title": "ドンキ トイザらス日本事業買収へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596978?source=rss",
-      "publishedAt": "2026-09-29T10:02:58.000Z",
-      "xQuery": "伊藤園 株主優待制度を廃止"
+      "url": "https://news.yahoo.co.jp/pickup/6596995?source=rss",
+      "publishedAt": "2026-09-29T13:41:00.000Z",
+      "xQuery": "ドンキ トイザらス日本事業買収へ"
     },
     {
-      "time": "20:35",
-      "title": "くじ引きで落選の市議候補 当選へ",
+      "time": "22:14",
+      "title": "免許証など流出160万件 パーク24",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596986?source=rss",
-      "publishedAt": "2026-09-29T11:35:20.000Z",
-      "xQuery": "くじ引きで落選の市議候補 当選へ"
+      "url": "https://news.yahoo.co.jp/pickup/6596992?source=rss",
+      "publishedAt": "2026-09-29T13:14:08.000Z",
+      "xQuery": "免許証など流出160万件 パーク24"
     },
     {
-      "time": "20:52",
-      "title": "イープラス 個人情報1463件漏えい",
+      "time": "20:16",
+      "title": "日本から返還のパンダ 中国で公開",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596987?source=rss",
-      "publishedAt": "2026-09-29T11:52:41.000Z",
-      "xQuery": "イープラス 個人情報1463件漏えい"
+      "url": "https://news.yahoo.co.jp/pickup/6596984?source=rss",
+      "publishedAt": "2026-09-29T11:16:07.000Z",
+      "xQuery": "日本から返還のパンダ 中国で公開"
     }
   ]
 };
