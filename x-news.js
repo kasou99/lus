@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T04:45:07.961Z",
+  "updatedAt": "2026-09-29T05:19:25.254Z",
   "items": [
     {
       "time": "11:53",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "医療ロボ導入に7割賛意 厚労白書"
     },
     {
-      "time": "11:17",
-      "title": "内田受刑者の公判に乱入 有罪判決",
+      "time": "14:03",
+      "title": "大雨相次ぐ千葉 高まるバス需要",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596932?source=rss",
-      "publishedAt": "2026-09-29T02:17:06.000Z",
-      "xQuery": "内田受刑者の公判に乱入 有罪判決"
+      "url": "https://news.yahoo.co.jp/pickup/6596952?source=rss",
+      "publishedAt": "2026-09-29T05:03:52.000Z",
+      "xQuery": "大雨相次ぐ千葉 高まるバス需要"
     },
     {
       "time": "12:24",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "部活バス事故 顧問のみ運転常態化"
     },
     {
-      "time": "11:53",
-      "title": "セコマ 57万件の個人情報漏えいか",
+      "time": "11:10",
+      "title": "中学の合唱コンなぜ続く 識者語る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596936?source=rss",
-      "publishedAt": "2026-09-29T02:53:35.000Z",
-      "xQuery": "セコマ 57万件の個人情報漏えいか"
+      "url": "https://news.yahoo.co.jp/pickup/6596926?source=rss",
+      "publishedAt": "2026-09-29T02:10:32.000Z",
+      "xQuery": "中学の合唱コンなぜ続く 識者語る"
     }
   ]
 };
