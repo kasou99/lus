@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T08:48:35.394Z",
+  "updatedAt": "2026-09-29T09:21:26.061Z",
   "items": [
+    {
+      "time": "17:57",
+      "title": "茂木氏 旧敵国条項巡り中国けん制",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596972?source=rss",
+      "publishedAt": "2026-09-29T08:57:23.000Z",
+      "xQuery": "茂木氏 旧敵国条項巡り中国けん制"
+    },
     {
       "time": "16:57",
       "title": "民間の平均給与 過去最高487万円",
@@ -16,14 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596968?source=rss",
       "publishedAt": "2026-09-29T08:26:24.000Z",
       "xQuery": "アンソロ社 AIの人類存亡危機警告"
-    },
-    {
-      "time": "16:37",
-      "title": "10月の電気ガス 全国的に値上がり",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596960?source=rss",
-      "publishedAt": "2026-09-29T07:37:45.000Z",
-      "xQuery": "10月の電気ガス 全国的に値上がり"
     },
     {
       "time": "16:46",

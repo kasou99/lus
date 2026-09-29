@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T08:48:34.248Z",
+  "updatedAt": "2026-09-29T09:21:24.857Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-09-28T21:43:33.000Z"
       },
       {
+        "time": "05:00",
+        "title": "ジェイテクト、JIMTOFに研削盤 4年ぶり新製品",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuYkZfQ3Azbk5qVDM5LVRtaHMxV0VyM1dUclBpRjh1a3BmNkMtTlZwSDNVSGsybFg0S3hNMjVHNEZ6Q19VY2I5ZWpnYjZuUW91eVVOMTJZcUs?oc=5",
+        "publishedAt": "2026-09-28T20:00:00.000Z"
+      },
+      {
         "time": "18:28",
         "title": "オムロン、工場の制御盤を小型化 設計工数3〜5割削減で人手不足対応",
         "source": "日本経済新聞",
@@ -50,13 +57,6 @@
         "source": "マイナビニュース",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jOHRyNVlPTElaNkVEZXd1a1plR2pRWkVIMnNJNGJZakxoU09xOFNtUUxfcFNwWnhxYlFrZ1VFRHBDUEh2OHFnZ3pLTkZfeTlSanFVc0hMa0FFalpLazZtejFIV015blcy?oc=5",
         "publishedAt": "2026-09-28T09:56:14.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ジェイテクト、JIMTOFに研削盤 4年ぶり新製品",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuYkZfQ3Azbk5qVDM5LVRtaHMxV0VyM1dUclBpRjh1a3BmNkMtTlZwSDNVSGsybFg0S3hNMjVHNEZ6Q19VY2I5ZWpnYjZuUW91eVVOMTJZcUs?oc=5",
-        "publishedAt": "2026-09-28T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
