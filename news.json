@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-29T19:39:35.447Z",
+  "updatedAt": "2026-09-29T20:20:20.284Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "05:00",
+        "title": "工場設備保全のM2X、東京海上HD系と資本業務提携 中小に販路拡大",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QSXdEeTJ6OXpZOXJmV3lxWjNFdnUwam83YzVyRFctSVFpN2Zoc1Bjb1lNOTFnclFjbU8wRmNHY1BNV3Z4UHZyaXl5U0lzaHhULW1pMnh4dmpuWW4zZVdSdExBYXFURWh3NExMcw?oc=5",
+        "publishedAt": "2026-09-29T20:00:00.000Z"
+      },
+      {
+        "time": "17:32",
+        "title": "オムロン、「制御盤レス化」のソリューション強化 製造業の生産変革を後押し",
+        "source": "電波新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wdndJUDRKQVlZTUpIX1BnSWxhX2t3bG1keGVySktpcEp2Qkk2cDhBRi1uQjNtS0hBc3R2TkFPd0t3MXVwTktHTWdRT1pIeGtDX1E?oc=5",
+        "publishedAt": "2026-09-29T08:32:04.000Z"
+      },
       {
         "time": "11:28",
         "title": "メトレック産業 鋳物材リサイクルで参画 工作機械水平循環スキーム 協力会社と連携強化（日刊産業新聞）",
@@ -10,18 +24,18 @@
         "publishedAt": "2026-09-29T02:28:47.000Z"
       },
       {
-        "time": "17:32",
-        "title": "オムロン、「制御盤レス化」のソリューション強化 製造業の生産変革を後押し - dempa-digital.com",
-        "source": "dempa-digital.com",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wdndJUDRKQVlZTUpIX1BnSWxhX2t3bG1keGVySktpcEp2Qkk2cDhBRi1uQjNtS0hBc3R2TkFPd0t3MXVwTktHTWdRT1pIeGtDX1E?oc=5",
-        "publishedAt": "2026-09-29T08:32:04.000Z"
-      },
-      {
         "time": "07:04",
         "title": "「工作機械＋ロボット」が至る所に、欧州製造業向けの最新ソリューション／AMB2026フォトリポート",
         "source": "robot digest",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4waUNwVFlIdHZLVWJid3hOUGgxa0QwU0VVV192d2pnVFVTNVV4LUZsaGhqN25pSDhQWExYdzV4WTVRTzJuaGRyWC1ZQ0w3Y1BLOXVHLWJ2WUlFeXZ6SExTa2pBUHlwWlFFRTVj?oc=5",
         "publishedAt": "2026-09-28T22:04:05.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "石川の機械各社、半導体に照準 工作機械の研削や織機の技術活用",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RNEZIaDlHVUk4b1NtZ0llYnJiUWVuWmttdXhaZ0ZkVE1kSFNiWE1aN0MwdW5Ea0V4UnF4eWpxeTlyN3NmMUxMQTRVdUgzQzRRUnV0N3BkeXJlWHVueUp2WERuc2lHTmd1ckFrMQ?oc=5",
+        "publishedAt": "2026-09-29T20:00:00.000Z"
       },
       {
         "time": "16:21",
@@ -43,20 +57,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1Ykk1ajlYaHhVU0lSUl9IVF9TWEVsNnI5UlQycmlwZkg1M09DMktjbzkyTldJWUozM1p0LVJUTDk2SjNZQm9sbkltZWQzZWlGdnF0SDloWDd5c3l3elk0MTNkSEFmYXQyb0E?oc=5",
         "publishedAt": "2026-09-29T04:56:13.000Z"
-      },
-      {
-        "time": "21:18",
-        "title": "電気制御パネル市場トップ10企業",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9iRnNZcDZKVHcxRkFjUmNaNzV5MU8yZjl0NjBINklzYl9hdzREQzBYMlBtbFA1ZTV4TzZ5R1lwVWxVZEpmS0ZVOGZB?oc=5",
-        "publishedAt": "2026-09-29T12:18:27.000Z"
-      },
-      {
-        "time": "06:10",
-        "title": "省エネ・高速動作…日本精工が投入、ボールネジ技術を活用した油圧発生装置の機能",
-        "source": "newswitch.jp",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9Mamk5RmU0ZDJ1Y3lvY0pHQzMxYm5YeUFJY0k1ZVZIVHE3TzJrc3oyWE81SG5KWnY3RVczRnlsdHp4Zw?oc=5",
-        "publishedAt": "2026-09-28T21:10:56.000Z"
       }
     ],
     "worldHeadlines": [
