@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T01:33:23.418Z",
+  "updatedAt": "2026-09-29T02:26:56.241Z",
   "items": [
     {
-      "time": "07:47",
-      "title": "台風26号接近へ 関東への影響注意",
+      "time": "10:51",
+      "title": "台風26号 30日から伊豆諸島接近へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596912?source=rss",
-      "publishedAt": "2026-09-28T22:47:10.000Z",
-      "xQuery": "台風26号接近へ 関東への影響注意"
+      "url": "https://news.yahoo.co.jp/pickup/6596929?source=rss",
+      "publishedAt": "2026-09-29T01:51:00.000Z",
+      "xQuery": "台風26号 30日から伊豆諸島接近へ"
     },
     {
       "time": "09:04",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "イラン 間接協議で米側へ要求伝達"
     },
     {
-      "time": "08:01",
-      "title": "トラックと衝突し炎上 車に3遺体",
+      "time": "11:17",
+      "title": "内田受刑者の公判に乱入 有罪判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596913?source=rss",
-      "publishedAt": "2026-09-28T23:01:02.000Z",
-      "xQuery": "トラックと衝突し炎上 車に3遺体"
+      "url": "https://news.yahoo.co.jp/pickup/6596932?source=rss",
+      "publishedAt": "2026-09-29T02:17:06.000Z",
+      "xQuery": "内田受刑者の公判に乱入 有罪判決"
+    },
+    {
+      "time": "10:33",
+      "title": "匿流に住宅情報流した疑い 男逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596927?source=rss",
+      "publishedAt": "2026-09-29T01:33:21.000Z",
+      "xQuery": "匿流に住宅情報流した疑い 男逮捕"
     },
     {
       "time": "08:27",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596915?source=rss",
       "publishedAt": "2026-09-28T23:27:13.000Z",
       "xQuery": "タイムズカー情報漏えい 識者警鐘"
-    },
-    {
-      "time": "08:49",
-      "title": "スターシップ 地球周回軌道に到達",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596917?source=rss",
-      "publishedAt": "2026-09-28T23:49:23.000Z",
-      "xQuery": "スターシップ 地球周回軌道に到達"
     }
   ]
 };
