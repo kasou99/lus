@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T12:55:11.781Z",
+  "updatedAt": "2026-09-29T13:22:36.485Z",
   "items": [
     {
       "time": "18:12",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596973?source=rss",
       "publishedAt": "2026-09-29T09:12:33.000Z",
       "xQuery": "30日も関東は雨続く 台風の進路は"
-    },
-    {
-      "time": "19:45",
-      "title": "日本の総人口2.5%減 1億2297万人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596981?source=rss",
-      "publishedAt": "2026-09-29T10:45:35.000Z",
-      "xQuery": "日本の総人口2.5%減 1億2297万人"
     },
     {
       "time": "19:49",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6596986?source=rss",
       "publishedAt": "2026-09-29T11:35:20.000Z",
       "xQuery": "くじ引きで落選の市議候補 当選へ"
+    },
+    {
+      "time": "20:52",
+      "title": "イープラス 個人情報1463件漏えい",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596987?source=rss",
+      "publishedAt": "2026-09-29T11:52:41.000Z",
+      "xQuery": "イープラス 個人情報1463件漏えい"
     }
   ]
 };
