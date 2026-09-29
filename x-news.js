@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T14:43:40.336Z",
+  "updatedAt": "2026-09-29T15:18:42.914Z",
   "items": [
     {
       "time": "18:12",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "30日も関東は雨続く 台風の進路は"
     },
     {
-      "time": "19:49",
-      "title": "鳥取の海岸遺体 不明高校生と判明",
+      "time": "23:44",
+      "title": "修繕談合で再発防止を要請 国交省",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596983?source=rss",
-      "publishedAt": "2026-09-29T10:49:15.000Z",
-      "xQuery": "鳥取の海岸遺体 不明高校生と判明"
+      "url": "https://news.yahoo.co.jp/pickup/6597000?source=rss",
+      "publishedAt": "2026-09-29T14:44:40.000Z",
+      "xQuery": "修繕談合で再発防止を要請 国交省"
     },
     {
       "time": "22:41",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ドンキ トイザらス日本事業買収へ"
     },
     {
-      "time": "20:16",
-      "title": "日本から返還のパンダ 中国で公開",
+      "time": "23:12",
+      "title": "千葉支援 都営バスと運転手を派遣",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596984?source=rss",
-      "publishedAt": "2026-09-29T11:16:07.000Z",
-      "xQuery": "日本から返還のパンダ 中国で公開"
+      "url": "https://news.yahoo.co.jp/pickup/6596996?source=rss",
+      "publishedAt": "2026-09-29T14:12:51.000Z",
+      "xQuery": "千葉支援 都営バスと運転手を派遣"
     },
     {
       "time": "23:14",
