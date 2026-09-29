@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-28T23:39:18.910Z",
+  "updatedAt": "2026-09-29T00:52:51.850Z",
   "items": [
     {
       "time": "07:47",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風26号接近へ 関東への影響注意"
     },
     {
-      "time": "06:41",
-      "title": "マンション修繕談合 コンサル謝罪",
+      "time": "09:04",
+      "title": "イラン 間接協議で米側へ要求伝達",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596906?source=rss",
-      "publishedAt": "2026-09-28T21:41:02.000Z",
-      "xQuery": "マンション修繕談合 コンサル謝罪"
-    },
-    {
-      "time": "06:16",
-      "title": "中国 首相の「台湾発言」是正要求",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596903?source=rss",
-      "publishedAt": "2026-09-28T21:16:09.000Z",
-      "xQuery": "中国 首相の「台湾発言」是正要求"
+      "url": "https://news.yahoo.co.jp/pickup/6596919?source=rss",
+      "publishedAt": "2026-09-29T00:04:07.000Z",
+      "xQuery": "イラン 間接協議で米側へ要求伝達"
     },
     {
       "time": "08:01",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "トラックと衝突し炎上 車に3遺体"
     },
     {
-      "time": "07:29",
-      "title": "中野でも事件「窃盗ツーリズム」",
+      "time": "08:27",
+      "title": "タイムズカー情報漏えい 識者警鐘",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6596910?source=rss",
-      "publishedAt": "2026-09-28T22:29:33.000Z",
-      "xQuery": "中野でも事件「窃盗ツーリズム」"
+      "url": "https://news.yahoo.co.jp/pickup/6596915?source=rss",
+      "publishedAt": "2026-09-28T23:27:13.000Z",
+      "xQuery": "タイムズカー情報漏えい 識者警鐘"
+    },
+    {
+      "time": "08:49",
+      "title": "スターシップ 地球周回軌道に到達",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6596917?source=rss",
+      "publishedAt": "2026-09-28T23:49:23.000Z",
+      "xQuery": "スターシップ 地球周回軌道に到達"
     }
   ]
 };
