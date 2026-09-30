@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T08:49:36.275Z",
+  "updatedAt": "2026-09-30T09:20:31.964Z",
   "items": [
-    {
-      "time": "16:17",
-      "title": "核ごみ文献調査 常陸大宮市が容認",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597074?source=rss",
-      "publishedAt": "2026-09-30T07:17:54.000Z",
-      "xQuery": "核ごみ文献調査 常陸大宮市が容認"
-    },
     {
       "time": "16:21",
       "title": "両陛下 八代市で被災者をお見舞い",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597073?source=rss",
       "publishedAt": "2026-09-30T07:21:44.000Z",
       "xQuery": "両陛下 八代市で被災者をお見舞い"
+    },
+    {
+      "time": "13:32",
+      "title": "ウ侵攻 通信インフラの防御策焦点",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597051?source=rss",
+      "publishedAt": "2026-09-30T04:32:47.000Z",
+      "xQuery": "ウ侵攻 通信インフラの防御策焦点"
     },
     {
       "time": "17:17",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "妻の遺体切断し遺棄疑い 医師逮捕"
     },
     {
-      "time": "15:31",
-      "title": "神戸の発砲事件で男逮捕 1人死亡",
+      "time": "17:05",
+      "title": "ニデック25年度決算 5646億円赤字",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597068?source=rss",
-      "publishedAt": "2026-09-30T06:31:23.000Z",
-      "xQuery": "神戸の発砲事件で男逮捕 1人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6597077?source=rss",
+      "publishedAt": "2026-09-30T08:05:15.000Z",
+      "xQuery": "ニデック25年度決算 5646億円赤字"
     }
   ]
 };
