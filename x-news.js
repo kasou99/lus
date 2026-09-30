@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T22:18:33.138Z",
+  "updatedAt": "2026-09-30T22:41:20.195Z",
   "items": [
     {
       "time": "06:42",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風が関東接近へ 千葉は大雨恐れ"
     },
     {
-      "time": "22:02",
-      "title": "米軍 IS巡るイラクでの任務を終了",
+      "time": "07:33",
+      "title": "高性能AI普及へ 年内に行動計画",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597112?source=rss",
-      "publishedAt": "2026-09-30T13:02:02.000Z",
-      "xQuery": "米軍 IS巡るイラクでの任務を終了"
+      "url": "https://news.yahoo.co.jp/pickup/6597128?source=rss",
+      "publishedAt": "2026-09-30T22:33:31.000Z",
+      "xQuery": "高性能AI普及へ 年内に行動計画"
     },
     {
-      "time": "06:06",
-      "title": "イスラエル行き便で機長刺される",
+      "time": "07:17",
+      "title": "テルアビブ便 副操縦士が機長刺す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597120?source=rss",
-      "publishedAt": "2026-09-30T21:06:58.000Z",
-      "xQuery": "イスラエル行き便で機長刺される"
+      "url": "https://news.yahoo.co.jp/pickup/6597126?source=rss",
+      "publishedAt": "2026-09-30T22:17:08.000Z",
+      "xQuery": "テルアビブ便 副操縦士が機長刺す"
     },
     {
       "time": "00:02",
