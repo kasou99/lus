@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T14:21:09.212Z",
+  "updatedAt": "2026-09-30T14:45:23.769Z",
   "items": [
     {
       "time": "22:02",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "明治大 アラスカ先住民の遺骨返還"
     },
     {
-      "time": "22:43",
-      "title": "ネイリスト殺害 納得できないと夫",
+      "time": "22:51",
+      "title": "立憲が党本部フロア縮小へ 財政難",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597113?source=rss",
-      "publishedAt": "2026-09-30T13:43:32.000Z",
-      "xQuery": "ネイリスト殺害 納得できないと夫"
+      "url": "https://news.yahoo.co.jp/pickup/6597116?source=rss",
+      "publishedAt": "2026-09-30T13:51:16.000Z",
+      "xQuery": "立憲が党本部フロア縮小へ 財政難"
     },
     {
       "time": "18:05",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "8.2億円相当の暗号資産 詐欺被害"
     },
     {
-      "time": "21:47",
-      "title": "西武渋谷店が閉店 入り口は大混雑",
+      "time": "20:29",
+      "title": "セコマ個人情報漏えい 第三者閲覧",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597110?source=rss",
-      "publishedAt": "2026-09-30T12:47:34.000Z",
-      "xQuery": "西武渋谷店が閉店 入り口は大混雑"
+      "url": "https://news.yahoo.co.jp/pickup/6597106?source=rss",
+      "publishedAt": "2026-09-30T11:29:51.000Z",
+      "xQuery": "セコマ個人情報漏えい 第三者閲覧"
     }
   ]
 };
