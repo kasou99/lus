@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T06:33:05.405Z",
+  "updatedAt": "2026-09-30T07:26:12.039Z",
   "items": [
+    {
+      "time": "16:17",
+      "title": "核ごみ文献調査 常陸大宮市が容認",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597074?source=rss",
+      "publishedAt": "2026-09-30T07:17:54.000Z",
+      "xQuery": "核ごみ文献調査 常陸大宮市が容認"
+    },
+    {
+      "time": "15:12",
+      "title": "台風26号 あす千葉に雨雲の可能性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597064?source=rss",
+      "publishedAt": "2026-09-30T06:12:22.000Z",
+      "xQuery": "台風26号 あす千葉に雨雲の可能性"
+    },
     {
       "time": "14:58",
       "title": "沖縄知事 辺野古対策課の廃止表明",
@@ -10,20 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "沖縄知事 辺野古対策課の廃止表明"
     },
     {
-      "time": "12:05",
-      "title": "AI名称「SI」に 米大統領令に署名",
+      "time": "15:31",
+      "title": "神戸の発砲事件で男逮捕 1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597046?source=rss",
-      "publishedAt": "2026-09-30T03:05:56.000Z",
-      "xQuery": "AI名称「SI」に 米大統領令に署名"
-    },
-    {
-      "time": "14:29",
-      "title": "神戸2カ所で発砲事件 1人心肺停止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597061?source=rss",
-      "publishedAt": "2026-09-30T05:29:31.000Z",
-      "xQuery": "神戸2カ所で発砲事件 1人心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6597068?source=rss",
+      "publishedAt": "2026-09-30T06:31:23.000Z",
+      "xQuery": "神戸の発砲事件で男逮捕 1人死亡"
     },
     {
       "time": "13:48",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597058?source=rss",
       "publishedAt": "2026-09-30T04:48:54.000Z",
       "xQuery": "東武事故 責任者が現場指揮せず"
-    },
-    {
-      "time": "13:38",
-      "title": "生成AI動画巡り 声優の請求棄却",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597056?source=rss",
-      "publishedAt": "2026-09-30T04:38:19.000Z",
-      "xQuery": "生成AI動画巡り 声優の請求棄却"
     }
   ]
 };
