@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T07:48:40.971Z",
+  "updatedAt": "2026-09-30T08:26:37.080Z",
   "items": [
     {
       "time": "16:17",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "核ごみ文献調査 常陸大宮市が容認"
     },
     {
-      "time": "15:12",
-      "title": "台風26号 あす千葉に雨雲の可能性",
+      "time": "16:21",
+      "title": "両陛下 八代市で被災者をお見舞い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597064?source=rss",
-      "publishedAt": "2026-09-30T06:12:22.000Z",
-      "xQuery": "台風26号 あす千葉に雨雲の可能性"
-    },
-    {
-      "time": "14:58",
-      "title": "沖縄知事 辺野古対策課の廃止表明",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597062?source=rss",
-      "publishedAt": "2026-09-30T05:58:39.000Z",
-      "xQuery": "沖縄知事 辺野古対策課の廃止表明"
+      "url": "https://news.yahoo.co.jp/pickup/6597073?source=rss",
+      "publishedAt": "2026-09-30T07:21:44.000Z",
+      "xQuery": "両陛下 八代市で被災者をお見舞い"
     },
     {
       "time": "15:31",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597068?source=rss",
       "publishedAt": "2026-09-30T06:31:23.000Z",
       "xQuery": "神戸の発砲事件で男逮捕 1人死亡"
+    },
+    {
+      "time": "17:05",
+      "title": "ニデック25年度決算 5646億円赤字",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597077?source=rss",
+      "publishedAt": "2026-09-30T08:05:15.000Z",
+      "xQuery": "ニデック25年度決算 5646億円赤字"
     },
     {
       "time": "15:44",

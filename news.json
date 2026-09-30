@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T07:48:40.206Z",
+  "updatedAt": "2026-09-30T08:26:36.215Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,6 +22,13 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiS3BoaXM2QTR6SldvaFRKYVRIaTQ2Yy1kcTZDS1JHWHVuZEFpNkVEbzdCMDk2TkZjemFCRllmMnQwREgtRFFwblRjSkItMFBtNGhFQWt1Y2xiYmVnNnczT0traUZBc1hjWEE?oc=5",
         "publishedAt": "2026-09-30T05:16:22.000Z"
+      },
+      {
+        "time": "17:00",
+        "title": "８月の工作機械受注 64％増 北米アジア伸び歴代2位",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HT19zVnd3QndUNl9raEJOTGc0OHdTaWlUQjJQSmJ3V2NDOGt1cHdtVXFRQzZMYWQtdnZ6aG0ycHhqd0R3S2JZenlRb1k2ZTFmdWxtYlhyYzE?oc=5",
+        "publishedAt": "2026-09-30T08:00:00.000Z"
       },
       {
         "time": "09:19",
@@ -47,16 +54,9 @@
       {
         "time": "11:15",
         "title": "道路インフラの点検から工場・プラントの設備保全へ。日東建設、非破壊検査技術を新たな市場へ紹介",
-        "source": "Excite エキサイト",
+        "source": "excite.co.jp",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HVF9CdEhhNGh6N3hZWlFKenJZZFQ2aFJiS3dsUEZTc2g4aXk4a3ktX1JBYkZHYU5OeUVHMHlNaVRxQ2dTUkN2LXJPYWhiMGg1Vm56Z2owQ1ozcTJWRlRpcjUxQzVqbGpUVmZILXFVUUFvS1U?oc=5",
         "publishedAt": "2026-09-30T02:15:00.000Z"
-      },
-      {
-        "time": "10:04",
-        "title": "株式会社M2Xと東京海上ホールディングスが結ぶ設備保全DXの新たな提携の意義",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9teV82RG1XQzEteVhoOGdfQlpDeGgzQVNPMFN4YTVKcTVYZFRDRlFrZEs4NlJrTW5PdGdYS29EelNXb3RvYVFfdEVtazdkX3RoeGtiSjI3SXRqbklqLWJ3dnZMajY0MXZ1Wnc?oc=5",
-        "publishedAt": "2026-09-30T01:04:03.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,11 +119,18 @@
         "publishedAt": "2026-09-30T00:58:52.000Z"
       },
       {
-        "time": "11:26",
-        "title": "ニデック 子会社の売却を検討",
+        "time": "17:05",
+        "title": "ニデック25年度決算 5646億円赤字",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597036?source=rss",
-        "publishedAt": "2026-09-30T02:26:26.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597077?source=rss",
+        "publishedAt": "2026-09-30T08:05:15.000Z"
+      },
+      {
+        "time": "17:18",
+        "title": "ビル火災報知機 大雨で誤作動多発",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597080?source=rss",
+        "publishedAt": "2026-09-30T08:18:11.000Z"
       },
       {
         "time": "08:38",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597019?source=rss",
         "publishedAt": "2026-09-29T23:38:14.000Z"
-      },
-      {
-        "time": "11:23",
-        "title": "西武渋谷店きょう閉店 開店前に列",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597037?source=rss",
-        "publishedAt": "2026-09-30T02:23:26.000Z"
       },
       {
         "time": "06:43",
