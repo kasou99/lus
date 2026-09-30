@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T08:26:37.080Z",
+  "updatedAt": "2026-09-30T08:49:36.275Z",
   "items": [
     {
       "time": "16:17",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "両陛下 八代市で被災者をお見舞い"
     },
     {
+      "time": "17:17",
+      "title": "声は「人格の象徴」初の司法判断",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597082?source=rss",
+      "publishedAt": "2026-09-30T08:17:18.000Z",
+      "xQuery": "声は「人格の象徴」初の司法判断"
+    },
+    {
+      "time": "17:35",
+      "title": "妻の遺体切断し遺棄疑い 医師逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597086?source=rss",
+      "publishedAt": "2026-09-30T08:35:41.000Z",
+      "xQuery": "妻の遺体切断し遺棄疑い 医師逮捕"
+    },
+    {
       "time": "15:31",
       "title": "神戸の発砲事件で男逮捕 1人死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597068?source=rss",
       "publishedAt": "2026-09-30T06:31:23.000Z",
       "xQuery": "神戸の発砲事件で男逮捕 1人死亡"
-    },
-    {
-      "time": "17:05",
-      "title": "ニデック25年度決算 5646億円赤字",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597077?source=rss",
-      "publishedAt": "2026-09-30T08:05:15.000Z",
-      "xQuery": "ニデック25年度決算 5646億円赤字"
-    },
-    {
-      "time": "15:44",
-      "title": "ネイリスト殺害 男に拘禁20年判決",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597069?source=rss",
-      "publishedAt": "2026-09-30T06:44:09.000Z",
-      "xQuery": "ネイリスト殺害 男に拘禁20年判決"
     }
   ]
 };
