@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-09-30T05:43:31.622Z",
+  "updatedAt": "2026-09-30T06:33:03.666Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "15:00",
+        "title": "8月の工作機械受注65%増 AI関連・航空宇宙が好調",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzWVBnUWRXR0NZQmZoakFUNmVwVWtHamRQTnpEYzlZZ1JtcnNweDNPMWJCZUQxeE0zczVOODRRMHRfeVNFMHBoRHhpbzZ0V0NuVjFhOElObjBhdXpodEw1QVZmVEg2NVFOWE92Zw?oc=5",
+        "publishedAt": "2026-09-30T06:00:00.000Z"
+      },
       {
         "time": "11:36",
         "title": "＜新製品＞精密マシニングセンタ「VM-450A(5)」を販売開始 - shibaura-machine.co.jp",
@@ -10,11 +17,11 @@
         "publishedAt": "2026-09-30T02:36:52.000Z"
       },
       {
-        "time": "07:30",
-        "title": "設備保全DXのM2X、東京海上ホールディングスと資本業務提携",
+        "time": "14:16",
+        "title": "安全と安定稼働を、設備の記録で支える ― AI設備保全システム『EMLink』、商業施設・ホテル・レジャー施設の予防保全をクラウドで一元化",
         "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4Z3cybjFHOGJRazhrUGtBR0wzaEZuWGwycFBpc3o1VktnNG5IaXdiWUxDS3hMaE5OXy16TzhKaTV1b0Fya2poTWNKX0F5dF9CckpqNUQxeWNZa1piT2MtR0pQdEU4dHFDaEE?oc=5",
-        "publishedAt": "2026-09-29T22:30:02.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiS3BoaXM2QTR6SldvaFRKYVRIaTQ2Yy1kcTZDS1JHWHVuZEFpNkVEbzdCMDk2TkZjemFCRllmMnQwREgtRFFwblRjSkItMFBtNGhFQWt1Y2xiYmVnNnczT0traUZBc1hjWEE?oc=5",
+        "publishedAt": "2026-09-30T05:16:22.000Z"
       },
       {
         "time": "09:19",
@@ -22,13 +29,6 @@
         "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LLVpzMFl2YnFWYS10V1pyaGxRdTZLZVJlUGJUUzJjeTd0MnA3YlpDWEx3NXdiUFhFNGp1QUE0WWdNMklsNklTREpkcm1FbGdXd1E?oc=5",
         "publishedAt": "2026-09-30T00:19:48.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "石川の機械各社、半導体に照準 工作機械の研削や織機の技術活用",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RNEZIaDlHVUk4b1NtZ0llYnJiUWVuWmttdXhaZ0ZkVE1kSFNiWE1aN0MwdW5Ea0V4UnF4eWpxeTlyN3NmMUxMQTRVdUgzQzRRUnV0N3BkeXJlWHVueUp2WERuc2lHTmd1ckFrMQ?oc=5",
-        "publishedAt": "2026-09-29T20:00:00.000Z"
       },
       {
         "time": "11:33",
@@ -45,11 +45,11 @@
         "publishedAt": "2026-09-30T03:15:17.000Z"
       },
       {
-        "time": "14:16",
-        "title": "安全と安定稼働を、設備の記録で支える ― AI設備保全システム『EMLink』、商業施設・ホテル・レジャー施設の予防保全をクラウドで一元化",
+        "time": "07:30",
+        "title": "設備保全DXのM2X、東京海上ホールディングスと資本業務提携",
         "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiS3BoaXM2QTR6SldvaFRKYVRIaTQ2Yy1kcTZDS1JHWHVuZEFpNkVEbzdCMDk2TkZjemFCRllmMnQwREgtRFFwblRjSkItMFBtNGhFQWt1Y2xiYmVnNnczT0traUZBc1hjWEE?oc=5",
-        "publishedAt": "2026-09-30T05:16:22.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4Z3cybjFHOGJRazhrUGtBR0wzaEZuWGwycFBpc3o1VktnNG5IaXdiWUxDS3hMaE5OXy16TzhKaTV1b0Fya2poTWNKX0F5dF9CckpqNUQxeWNZa1piT2MtR0pQdEU4dHFDaEE?oc=5",
+        "publishedAt": "2026-09-29T22:30:02.000Z"
       },
       {
         "time": "10:04",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
-        "time": "10:18",
-        "title": "常陸大宮市 核ごみ調査巡り会見へ",
+        "time": "15:31",
+        "title": "神戸の発砲事件で男逮捕 1人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597031?source=rss",
-        "publishedAt": "2026-09-30T01:18:28.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597068?source=rss",
+        "publishedAt": "2026-09-30T06:31:23.000Z"
       },
       {
-        "time": "14:29",
-        "title": "神戸2カ所で発砲事件 1人心肺停止",
+        "time": "14:58",
+        "title": "沖縄知事 辺野古対策課の廃止表明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597061?source=rss",
-        "publishedAt": "2026-09-30T05:29:31.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597062?source=rss",
+        "publishedAt": "2026-09-30T05:58:39.000Z"
       },
       {
         "time": "11:29",

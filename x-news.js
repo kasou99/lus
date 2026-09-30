@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T05:43:32.358Z",
+  "updatedAt": "2026-09-30T06:33:05.405Z",
   "items": [
     {
-      "time": "12:32",
-      "title": "公明 新代表に岡本三成氏就任へ",
+      "time": "14:58",
+      "title": "沖縄知事 辺野古対策課の廃止表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597050?source=rss",
-      "publishedAt": "2026-09-30T03:32:01.000Z",
-      "xQuery": "公明 新代表に岡本三成氏就任へ"
+      "url": "https://news.yahoo.co.jp/pickup/6597062?source=rss",
+      "publishedAt": "2026-09-30T05:58:39.000Z",
+      "xQuery": "沖縄知事 辺野古対策課の廃止表明"
     },
     {
-      "time": "13:55",
-      "title": "モロッコ初の女性首相 組閣へ",
+      "time": "12:05",
+      "title": "AI名称「SI」に 米大統領令に署名",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597059?source=rss",
-      "publishedAt": "2026-09-30T04:55:37.000Z",
-      "xQuery": "モロッコ初の女性首相 組閣へ"
+      "url": "https://news.yahoo.co.jp/pickup/6597046?source=rss",
+      "publishedAt": "2026-09-30T03:05:56.000Z",
+      "xQuery": "AI名称「SI」に 米大統領令に署名"
     },
     {
       "time": "14:29",
