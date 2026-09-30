@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T23:17:16.685Z",
+  "updatedAt": "2026-09-30T23:39:33.626Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -10,11 +10,11 @@
         "publishedAt": "2026-09-30T20:00:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "工作機械受注、8月64％増 北米アジア伸び歴代2位",
+        "time": "17:00",
+        "title": "８月の工作機械受注 64％増 北米アジア伸び歴代2位",
         "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2NjFPTjZOLVV0MzNGME41QmZjbnJmZ0wwM3ZBSWlSejg0NXRFVUliYVdOd25FUGFIV05iV2RtUnNDYjZZdk92aTY5TGJvR3l2dnY1aEh4R0o?oc=5",
-        "publishedAt": "2026-09-30T20:00:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HT19zVnd3QndUNl9raEJOTGc0OHdTaWlUQjJQSmJ3V2NDOGt1cHdtVXFRQzZMYWQtdnZ6aG0ycHhqd0R3S2JZenlRb1k2ZTFmdWxtYlhyYzE?oc=5",
+        "publishedAt": "2026-09-30T08:00:00.000Z"
       },
       {
         "time": "14:16",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-09-30T09:28:33.000Z"
       },
       {
-        "time": "17:00",
-        "title": "８月の工作機械受注 64％増 北米アジア伸び歴代2位",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HT19zVnd3QndUNl9raEJOTGc0OHdTaWlUQjJQSmJ3V2NDOGt1cHdtVXFRQzZMYWQtdnZ6aG0ycHhqd0R3S2JZenlRb1k2ZTFmdWxtYlhyYzE?oc=5",
-        "publishedAt": "2026-09-30T08:00:00.000Z"
+        "time": "18:15",
+        "title": "【制御盤、まだ手配線ですか？】ものづくり ワールド［大阪］に初出展",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44bzRwTGtHX2x6QTg3S1Y4dTNMOVVEcXBfLWw2clJncFp4MzIwazBmWnlOdjNzSGVEM0d3S3pJaGVEV2RzS3otelF2a0ZIaEhWaXo1bXNWektCVFlkSmtRY3FQS3llWmI0NWNDT0thMW81S1U?oc=5",
+        "publishedAt": "2026-09-30T09:15:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -119,6 +119,13 @@
         "publishedAt": "2026-09-30T08:05:15.000Z"
       },
       {
+        "time": "08:21",
+        "title": "トヨタ 祝日勤務の業界慣行見直し",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597133?source=rss",
+        "publishedAt": "2026-09-30T23:21:00.000Z"
+      },
+      {
         "time": "11:59",
         "title": "飲食料品値上げ 10月は3153品目",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597080?source=rss",
         "publishedAt": "2026-09-30T08:18:11.000Z"
-      },
-      {
-        "time": "21:47",
-        "title": "西武渋谷店が閉店 入り口は大混雑",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597110?source=rss",
-        "publishedAt": "2026-09-30T12:47:34.000Z"
       }
     ],
     "localHeadlines": [

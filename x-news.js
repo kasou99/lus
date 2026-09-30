@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T23:17:17.562Z",
+  "updatedAt": "2026-09-30T23:39:34.908Z",
   "items": [
     {
       "time": "07:43",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "高性能AI普及へ 年内に行動計画"
     },
     {
+      "time": "08:21",
+      "title": "トヨタ 祝日勤務の業界慣行見直し",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597133?source=rss",
+      "publishedAt": "2026-09-30T23:21:00.000Z",
+      "xQuery": "トヨタ 祝日勤務の業界慣行見直し"
+    },
+    {
       "time": "07:17",
       "title": "テルアビブ便 副操縦士が機長刺す",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597126?source=rss",
       "publishedAt": "2026-09-30T22:17:08.000Z",
       "xQuery": "テルアビブ便 副操縦士が機長刺す"
-    },
-    {
-      "time": "00:02",
-      "title": "神戸発砲事件 死亡男性は会社役員",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597119?source=rss",
-      "publishedAt": "2026-09-30T15:02:19.000Z",
-      "xQuery": "神戸発砲事件 死亡男性は会社役員"
     }
   ]
 };
