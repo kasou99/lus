@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T20:41:25.363Z",
+  "updatedAt": "2026-09-30T21:17:28.448Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -33,7 +33,7 @@
       {
         "time": "11:33",
         "title": "クラウド型設備保全管理システム「M2X」を提供する株式会社M2Xと保険持株会社の東京海上ホールディングス株式会社が資本業務提携を締結",
-        "source": "startuplog.com",
+        "source": "STARTUP LOG",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01QXhvWVc1MFhNQUFlck1PYjlqYlNacENSSEx6cFRsclUxN1M1M0VIaUdYNzZkMzRtN1VzUUJrZFhFaVBkS0lTYjlGeWJGTzg?oc=5",
         "publishedAt": "2026-09-30T02:33:00.000Z"
       },
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "06:06",
+        "title": "イスラエル行き便で機長刺される",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597120?source=rss",
+        "publishedAt": "2026-09-30T21:06:58.000Z"
+      },
       {
         "time": "22:02",
         "title": "米軍 IS巡るイラクでの任務を終了",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597025?source=rss",
         "publishedAt": "2026-09-30T00:41:55.000Z"
-      },
-      {
-        "time": "20:16",
-        "title": "日本から返還のパンダ 中国で公開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596984?source=rss",
-        "publishedAt": "2026-09-29T11:16:07.000Z"
       }
     ],
     "economyHeadlines": [

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T20:41:26.549Z",
+  "updatedAt": "2026-09-30T21:17:29.137Z",
   "items": [
     {
       "time": "22:02",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "明治大 アラスカ先住民の遺骨返還"
     },
     {
+      "time": "06:06",
+      "title": "イスラエル行き便で機長刺される",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597120?source=rss",
+      "publishedAt": "2026-09-30T21:06:58.000Z",
+      "xQuery": "イスラエル行き便で機長刺される"
+    },
+    {
       "time": "00:02",
       "title": "神戸発砲事件 死亡男性は会社役員",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597092?source=rss",
       "publishedAt": "2026-09-30T14:37:27.000Z",
       "xQuery": "世界大学ランキング 東北大に注目"
-    },
-    {
-      "time": "23:05",
-      "title": "映画オデュッセイアの天候を考察",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597117?source=rss",
-      "publishedAt": "2026-09-30T14:05:46.000Z",
-      "xQuery": "映画オデュッセイアの天候を考察"
     }
   ]
 };
