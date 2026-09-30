@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T07:26:12.039Z",
+  "updatedAt": "2026-09-30T07:48:40.971Z",
   "items": [
     {
       "time": "16:17",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "神戸の発砲事件で男逮捕 1人死亡"
     },
     {
-      "time": "13:48",
-      "title": "東武事故 責任者が現場指揮せず",
+      "time": "15:44",
+      "title": "ネイリスト殺害 男に拘禁20年判決",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597058?source=rss",
-      "publishedAt": "2026-09-30T04:48:54.000Z",
-      "xQuery": "東武事故 責任者が現場指揮せず"
+      "url": "https://news.yahoo.co.jp/pickup/6597069?source=rss",
+      "publishedAt": "2026-09-30T06:44:09.000Z",
+      "xQuery": "ネイリスト殺害 男に拘禁20年判決"
     }
   ]
 };
