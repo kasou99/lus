@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T03:23:50.545Z",
+  "updatedAt": "2026-09-30T03:46:56.701Z",
   "items": [
     {
       "time": "11:59",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "小4死亡ひき逃げ17年 時効まで3年"
     },
     {
-      "time": "11:34",
-      "title": "世界大学ランク 東大27位に下落",
+      "time": "11:19",
+      "title": "5連休は何してた? 若者に聞いた",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597040?source=rss",
-      "publishedAt": "2026-09-30T02:34:48.000Z",
-      "xQuery": "世界大学ランク 東大27位に下落"
+      "url": "https://news.yahoo.co.jp/pickup/6597038?source=rss",
+      "publishedAt": "2026-09-30T02:19:14.000Z",
+      "xQuery": "5連休は何してた? 若者に聞いた"
     }
   ]
 };

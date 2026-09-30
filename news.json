@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T03:23:49.270Z",
+  "updatedAt": "2026-09-30T03:46:56.128Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "shibaura-machine.co.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BYS1zT2ZOREtuUW9PZm8wVEVMWk5GSEh3aHdwYUlwUjRvQktkYW9IREtkS3pzM2pjLWNoenRyRUx0X2hYdVVFRWpCaTN3N1UyV1ZNbENnVTBBQXVzVE53U3FCSXpWdXVSaXJJQndUbzRaWEFo?oc=5",
         "publishedAt": "2026-09-30T02:36:52.000Z"
+      },
+      {
+        "time": "09:19",
+        "title": "(株)岡本工作機械製作所【6125】：株価・株式情報（夜間PTS含む）",
+        "source": "finance.yahoo.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LLVpzMFl2YnFWYS10V1pyaGxRdTZLZVJlUGJUUzJjeTd0MnA3YlpDWEx3NXdiUFhFNGp1QUE0WWdNMklsNklTREpkcm1FbGdXd1E?oc=5",
+        "publishedAt": "2026-09-30T00:19:48.000Z"
       },
       {
         "time": "05:00",
@@ -31,16 +38,16 @@
         "publishedAt": "2026-09-30T02:33:00.000Z"
       },
       {
-        "time": "12:12",
+        "time": "12:15",
         "title": "道路インフラの点検から工場・プラントの設備保全へ。日東建設、非破壊検査技術を新たな市場へ紹介",
-        "source": "愛媛新聞",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5neWo3cVV1WFBoWXdMczFqLWx3aDNIWVdieWhYdVcxQ3pNTllrekVlaGRiS3prZ3V6dHhsZGJiUmZiX1RsSWM2NElhR3kwLXRoV1p3T0NFR0xhODMz?oc=5",
-        "publishedAt": "2026-09-30T03:12:35.000Z"
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iRWJaeHViV3RZa1ZGMGhtcDlJUk50ckpaT3NqcWw1MTJGbncydnZiNGQyc3ZaRWxaOEtpQUpycFhkRUl3ZmJEdmZSQ3BwQjBrZklCSkZZc0pLT0o5eXV1OHpDUlVZVXg3?oc=5",
+        "publishedAt": "2026-09-30T03:15:17.000Z"
       },
       {
         "time": "10:04",
         "title": "株式会社M2Xと東京海上ホールディングスが結ぶ設備保全DXの新たな提携の意義",
-        "source": "voix.jp",
+        "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jUk8zZkF4Mjh0RE5UbnBPVmZ0OHRYNmlvbTJHWFFPZGZuTjhuOWs2Vlk5SjJHNTM0SUt5WHJ0akR5SUFBcnJLTkYzM3l5aHhMT0pLQ3hJSXdQYmxjdVk2YVBGeE5XWFZSZVNqdA?oc=5",
         "publishedAt": "2026-09-30T01:04:03.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "shibaura-machine.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56SldCLVhiZ0daTXJadXhUVkRWeW5zWXhqUl9wYlBnWUZPV01zMzZMSlFVX3o2Yi0xc3I0UTJmME16ZkVhYzBUaU9RM1h6ckZhbWdkS0tEdzBRS1U0R0t2RDZ0NHVSQkNDNjY5cnBHMWhKdw?oc=5",
         "publishedAt": "2026-09-30T02:36:53.000Z"
-      },
-      {
-        "time": "17:32",
-        "title": "オムロン、「制御盤レス化」のソリューション強化 製造業の生産変革を後押し",
-        "source": "電波新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wdndJUDRKQVlZTUpIX1BnSWxhX2t3bG1keGVySktpcEp2Qkk2cDhBRi1uQjNtS0hBc3R2TkFPd0t3MXVwTktHTWdRT1pIeGtDX1E?oc=5",
-        "publishedAt": "2026-09-29T08:32:04.000Z"
       }
     ],
     "worldHeadlines": [
