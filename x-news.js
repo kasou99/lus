@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T09:20:31.964Z",
+  "updatedAt": "2026-09-30T09:45:19.414Z",
   "items": [
     {
-      "time": "16:21",
-      "title": "両陛下 八代市で被災者をお見舞い",
+      "time": "17:18",
+      "title": "ビル火災報知機 大雨で誤作動多発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597073?source=rss",
-      "publishedAt": "2026-09-30T07:21:44.000Z",
-      "xQuery": "両陛下 八代市で被災者をお見舞い"
+      "url": "https://news.yahoo.co.jp/pickup/6597080?source=rss",
+      "publishedAt": "2026-09-30T08:18:11.000Z",
+      "xQuery": "ビル火災報知機 大雨で誤作動多発"
     },
     {
       "time": "13:32",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "妻の遺体切断し遺棄疑い 医師逮捕"
     },
     {
-      "time": "17:05",
-      "title": "ニデック25年度決算 5646億円赤字",
+      "time": "18:00",
+      "title": "匿流の窃盗G指示役か 元力士逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597077?source=rss",
-      "publishedAt": "2026-09-30T08:05:15.000Z",
-      "xQuery": "ニデック25年度決算 5646億円赤字"
+      "url": "https://news.yahoo.co.jp/pickup/6597088?source=rss",
+      "publishedAt": "2026-09-30T09:00:53.000Z",
+      "xQuery": "匿流の窃盗G指示役か 元力士逮捕"
     }
   ]
 };
