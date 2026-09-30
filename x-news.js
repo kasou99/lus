@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T11:40:27.141Z",
+  "updatedAt": "2026-09-30T12:32:34.218Z",
   "items": [
     {
       "time": "19:49",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "麻生氏 土地3カ所の資産報告せず"
     },
     {
-      "time": "17:35",
-      "title": "妻の遺体切断し遺棄疑い 医師逮捕",
+      "time": "18:05",
+      "title": "8.2億円相当の暗号資産 詐欺被害",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597086?source=rss",
-      "publishedAt": "2026-09-30T08:35:41.000Z",
-      "xQuery": "妻の遺体切断し遺棄疑い 医師逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6597089?source=rss",
+      "publishedAt": "2026-09-30T09:05:12.000Z",
+      "xQuery": "8.2億円相当の暗号資産 詐欺被害"
     },
     {
-      "time": "18:00",
-      "title": "匿流の窃盗G指示役か 元力士逮捕",
+      "time": "17:07",
+      "title": "ゾウの「マック」死ぬ 王子動物園",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597088?source=rss",
-      "publishedAt": "2026-09-30T09:00:53.000Z",
-      "xQuery": "匿流の窃盗G指示役か 元力士逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6597079?source=rss",
+      "publishedAt": "2026-09-30T08:07:43.000Z",
+      "xQuery": "ゾウの「マック」死ぬ 王子動物園"
     }
   ]
 };
