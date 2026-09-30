@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T10:19:31.142Z",
+  "updatedAt": "2026-09-30T10:43:57.998Z",
   "items": [
     {
       "time": "17:18",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ビル火災報知機 大雨で誤作動多発"
     },
     {
-      "time": "13:32",
-      "title": "ウ侵攻 通信インフラの防御策焦点",
+      "time": "18:48",
+      "title": "25年度の介護費用 高齢化で最大に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597051?source=rss",
-      "publishedAt": "2026-09-30T04:32:47.000Z",
-      "xQuery": "ウ侵攻 通信インフラの防御策焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6597098?source=rss",
+      "publishedAt": "2026-09-30T09:48:54.000Z",
+      "xQuery": "25年度の介護費用 高齢化で最大に"
     },
     {
       "time": "17:17",
