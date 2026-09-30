@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T04:45:42.750Z",
+  "updatedAt": "2026-09-30T05:19:30.958Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -40,14 +40,14 @@
       {
         "time": "12:15",
         "title": "道路インフラの点検から工場・プラントの設備保全へ。日東建設、非破壊検査技術を新たな市場へ紹介",
-        "source": "ニコニコニュース",
+        "source": "news.nicovideo.jp",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iRWJaeHViV3RZa1ZGMGhtcDlJUk50ckpaT3NqcWw1MTJGbncydnZiNGQyc3ZaRWxaOEtpQUpycFhkRUl3ZmJEdmZSQ3BwQjBrZklCSkZZc0pLT0o5eXV1OHpDUlVZVXg3?oc=5",
         "publishedAt": "2026-09-30T03:15:17.000Z"
       },
       {
         "time": "10:04",
         "title": "株式会社M2Xと東京海上ホールディングスが結ぶ設備保全DXの新たな提携の意義",
-        "source": "ニュースメディアVOIX",
+        "source": "voix.jp",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jUk8zZkF4Mjh0RE5UbnBPVmZ0OHRYNmlvbTJHWFFPZGZuTjhuOWs2Vlk5SjJHNTM0SUt5WHJ0akR5SUFBcnJLTkYzM3l5aHhMT0pLQ3hJSXdQYmxjdVk2YVBGeE5XWFZSZVNqdA?oc=5",
         "publishedAt": "2026-09-30T01:04:03.000Z"
       },
@@ -82,13 +82,6 @@
         "publishedAt": "2026-09-30T03:05:56.000Z"
       },
       {
-        "time": "07:34",
-        "title": "トランプ氏 AI監督委設置を検討",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597010?source=rss",
-        "publishedAt": "2026-09-29T22:34:21.000Z"
-      },
-      {
         "time": "08:54",
         "title": "北朝鮮 地雷爆発は韓国の自作自演",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597025?source=rss",
         "publishedAt": "2026-09-30T00:41:55.000Z"
+      },
+      {
+        "time": "20:16",
+        "title": "日本から返還のパンダ 中国で公開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6596984?source=rss",
+        "publishedAt": "2026-09-29T11:16:07.000Z"
       }
     ],
     "economyHeadlines": [
@@ -156,6 +156,13 @@
         "publishedAt": "2026-09-30T01:18:28.000Z"
       },
       {
+        "time": "13:48",
+        "title": "東武事故 責任者が現場指揮せず",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597058?source=rss",
+        "publishedAt": "2026-09-30T04:48:54.000Z"
+      },
+      {
         "time": "11:29",
         "title": "アパートで20代女性死亡 男を確保",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597055?source=rss",
         "publishedAt": "2026-09-30T04:43:55.000Z"
-      },
-      {
-        "time": "19:04",
-        "title": "教職員7万人の性犯歴確認へ 東京",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596979?source=rss",
-        "publishedAt": "2026-09-29T10:04:21.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -215,13 +215,6 @@
         "title": "中小企業省力化投資補助金の公募・採択情報を確認",
         "source": "中小機構",
         "url": "https://seisansei.smrj.go.jp/subsidy_info/laborsaving_subsidy.html"
-      },
-      {
-        "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
-        "publishedAt": "2026-09-02T07:00:00.000Z"
       }
     ]
   }

@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T04:45:43.489Z",
+  "updatedAt": "2026-09-30T05:19:31.611Z",
   "items": [
     {
       "time": "12:32",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "公明 新代表に岡本三成氏就任へ"
     },
     {
-      "time": "11:59",
-      "title": "飲食料品値上げ 10月は3153品目",
+      "time": "13:55",
+      "title": "モロッコ初の女性首相 組閣へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597045?source=rss",
-      "publishedAt": "2026-09-30T02:59:15.000Z",
-      "xQuery": "飲食料品値上げ 10月は3153品目"
+      "url": "https://news.yahoo.co.jp/pickup/6597059?source=rss",
+      "publishedAt": "2026-09-30T04:55:37.000Z",
+      "xQuery": "モロッコ初の女性首相 組閣へ"
     },
     {
-      "time": "11:29",
-      "title": "アパートで20代女性死亡 男を確保",
+      "time": "13:48",
+      "title": "東武事故 責任者が現場指揮せず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597039?source=rss",
-      "publishedAt": "2026-09-30T02:29:33.000Z",
-      "xQuery": "アパートで20代女性死亡 男を確保"
+      "url": "https://news.yahoo.co.jp/pickup/6597058?source=rss",
+      "publishedAt": "2026-09-30T04:48:54.000Z",
+      "xQuery": "東武事故 責任者が現場指揮せず"
     },
     {
-      "time": "11:23",
-      "title": "西武渋谷店きょう閉店 開店前に列",
+      "time": "13:38",
+      "title": "生成AI動画巡り 声優の請求棄却",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597037?source=rss",
-      "publishedAt": "2026-09-30T02:23:26.000Z",
-      "xQuery": "西武渋谷店きょう閉店 開店前に列"
+      "url": "https://news.yahoo.co.jp/pickup/6597056?source=rss",
+      "publishedAt": "2026-09-30T04:38:19.000Z",
+      "xQuery": "生成AI動画巡り 声優の請求棄却"
     },
     {
-      "time": "12:53",
-      "title": "アジア大会でトラブル 市長が謝罪",
+      "time": "13:43",
+      "title": "動画 クマが車に突然体当たり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597052?source=rss",
-      "publishedAt": "2026-09-30T03:53:09.000Z",
-      "xQuery": "アジア大会でトラブル 市長が謝罪"
+      "url": "https://news.yahoo.co.jp/pickup/6597055?source=rss",
+      "publishedAt": "2026-09-30T04:43:55.000Z",
+      "xQuery": "動画 クマが車に突然体当たり"
     }
   ]
 };
