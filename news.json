@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T12:32:32.868Z",
+  "updatedAt": "2026-09-30T13:21:00.957Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "15:00",
         "title": "8月の工作機械受注65%増 AI関連・航空宇宙が好調",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzWVBnUWRXR0NZQmZoakFUNmVwVWtHamRQTnpEYzlZZ1JtcnNweDNPMWJCZUQxeE0zczVOODRRMHRfeVNFMHBoRHhpbzZ0V0NuVjFhOElObjBhdXpodEw1QVZmVEg2NVFOWE92Zw?oc=5",
         "publishedAt": "2026-09-30T06:00:00.000Z"
       },
@@ -40,7 +40,7 @@
       {
         "time": "18:28",
         "title": "株式会社設備保全総合研究所のEMLinkで実現する設備記録のクラウド管理と予防保全の新しい形",
-        "source": "voix.jp",
+        "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUc0Yl83aUxZWnl5LUw4NWxndXVJSl9WQXZHcHoxMkp0bHJhT1dWYU9FNzU1ZDBwYVNQcVV0ajV0NkQ4c1RDWHAzeWM5NzlLSUlRd1JrOVNUSE5ad1JsZ2xVWTNEeGswTkc2eE1OemZKaEpJeGtqcUtOOTNxSnd2eGZTMVk?oc=5",
         "publishedAt": "2026-09-30T09:28:33.000Z"
       },
@@ -52,20 +52,20 @@
         "publishedAt": "2026-09-30T05:16:22.000Z"
       },
       {
-        "time": "17:46",
-        "title": "jungwon.seo@mk.co.kr",
-        "source": "매일경제",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TdFQ0R3g3NFZPa2RpVEh3WHlFZURVckZGWFVJem5FMWJqQlRMc1paZ3FPc3pLc0l3cVdBbUZmQkxMVy1hVncwTWFxX3BRZw?oc=5",
-        "publishedAt": "2026-09-30T08:46:32.000Z"
+        "time": "12:15",
+        "title": "道路インフラの点検から工場・プラントの設備保全へ。日東建設、非破壊検査技術を新たな市場へ紹介",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iRWJaeHViV3RZa1ZGMGhtcDlJUk50ckpaT3NqcWw1MTJGbncydnZiNGQyc3ZaRWxaOEtpQUpycFhkRUl3ZmJEdmZSQ3BwQjBrZklCSkZZc0pLT0o5eXV1OHpDUlVZVXg3?oc=5",
+        "publishedAt": "2026-09-30T03:15:17.000Z"
       }
     ],
     "worldHeadlines": [
       {
-        "time": "14:04",
-        "title": "海峡再開巡るイラン案 米拒否なぜ",
+        "time": "22:02",
+        "title": "米軍 IS巡るイラクでの任務を終了",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596945?source=rss",
-        "publishedAt": "2026-09-29T05:04:42.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597112?source=rss",
+        "publishedAt": "2026-09-30T13:02:02.000Z"
       },
       {
         "time": "13:32",
@@ -133,11 +133,11 @@
         "publishedAt": "2026-09-30T08:18:11.000Z"
       },
       {
-        "time": "08:38",
-        "title": "早朝の高速バス乗り場に行列 千葉",
+        "time": "21:47",
+        "title": "西武渋谷店が閉店 入り口は大混雑",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597019?source=rss",
-        "publishedAt": "2026-09-29T23:38:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597110?source=rss",
+        "publishedAt": "2026-09-30T12:47:34.000Z"
       },
       {
         "time": "06:43",

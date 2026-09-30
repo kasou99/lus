@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T12:32:34.218Z",
+  "updatedAt": "2026-09-30T13:21:01.735Z",
   "items": [
     {
-      "time": "19:49",
-      "title": "台風 30日夜から伊豆諸島に接近へ",
+      "time": "22:02",
+      "title": "米軍 IS巡るイラクでの任務を終了",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597104?source=rss",
-      "publishedAt": "2026-09-30T10:49:32.000Z",
-      "xQuery": "台風 30日夜から伊豆諸島に接近へ"
+      "url": "https://news.yahoo.co.jp/pickup/6597112?source=rss",
+      "publishedAt": "2026-09-30T13:02:02.000Z",
+      "xQuery": "米軍 IS巡るイラクでの任務を終了"
     },
     {
-      "time": "18:48",
-      "title": "25年度の介護費用 高齢化で最大に",
+      "time": "18:17",
+      "title": "明治大 アラスカ先住民の遺骨返還",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597098?source=rss",
-      "publishedAt": "2026-09-30T09:48:54.000Z",
-      "xQuery": "25年度の介護費用 高齢化で最大に"
+      "url": "https://news.yahoo.co.jp/pickup/6597095?source=rss",
+      "publishedAt": "2026-09-30T09:17:24.000Z",
+      "xQuery": "明治大 アラスカ先住民の遺骨返還"
     },
     {
       "time": "20:14",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "8.2億円相当の暗号資産 詐欺被害"
     },
     {
-      "time": "17:07",
-      "title": "ゾウの「マック」死ぬ 王子動物園",
+      "time": "21:47",
+      "title": "西武渋谷店が閉店 入り口は大混雑",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597079?source=rss",
-      "publishedAt": "2026-09-30T08:07:43.000Z",
-      "xQuery": "ゾウの「マック」死ぬ 王子動物園"
+      "url": "https://news.yahoo.co.jp/pickup/6597110?source=rss",
+      "publishedAt": "2026-09-30T12:47:34.000Z",
+      "xQuery": "西武渋谷店が閉店 入り口は大混雑"
     }
   ]
 };
