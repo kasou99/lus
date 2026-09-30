@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T21:41:46.416Z",
+  "updatedAt": "2026-09-30T22:18:33.138Z",
   "items": [
+    {
+      "time": "06:42",
+      "title": "台風が関東接近へ 千葉は大雨恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597124?source=rss",
+      "publishedAt": "2026-09-30T21:42:46.000Z",
+      "xQuery": "台風が関東接近へ 千葉は大雨恐れ"
+    },
     {
       "time": "22:02",
       "title": "米軍 IS巡るイラクでの任務を終了",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597112?source=rss",
       "publishedAt": "2026-09-30T13:02:02.000Z",
       "xQuery": "米軍 IS巡るイラクでの任務を終了"
-    },
-    {
-      "time": "18:17",
-      "title": "明治大 アラスカ先住民の遺骨返還",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597095?source=rss",
-      "publishedAt": "2026-09-30T09:17:24.000Z",
-      "xQuery": "明治大 アラスカ先住民の遺骨返還"
     },
     {
       "time": "06:06",
