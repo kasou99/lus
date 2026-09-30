@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T02:29:46.767Z",
+  "updatedAt": "2026-09-30T02:51:59.930Z",
   "items": [
     {
       "time": "10:18",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "習近平政権 岩屋前外相を厚遇"
     },
     {
-      "time": "09:13",
-      "title": "仏各地の高校で抗議デモ 逮捕者も",
+      "time": "11:29",
+      "title": "アパートで20代女性死亡 男を確保",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597022?source=rss",
-      "publishedAt": "2026-09-30T00:13:22.000Z",
-      "xQuery": "仏各地の高校で抗議デモ 逮捕者も"
+      "url": "https://news.yahoo.co.jp/pickup/6597039?source=rss",
+      "publishedAt": "2026-09-30T02:29:33.000Z",
+      "xQuery": "アパートで20代女性死亡 男を確保"
     },
     {
-      "time": "11:07",
-      "title": "集合住宅で女性死亡 首に切り傷",
+      "time": "11:34",
+      "title": "世界大学ランク 東大27位に下落",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597034?source=rss",
-      "publishedAt": "2026-09-30T02:07:36.000Z",
-      "xQuery": "集合住宅で女性死亡 首に切り傷"
+      "url": "https://news.yahoo.co.jp/pickup/6597040?source=rss",
+      "publishedAt": "2026-09-30T02:34:48.000Z",
+      "xQuery": "世界大学ランク 東大27位に下落"
     }
   ]
 };
