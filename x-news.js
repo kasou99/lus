@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T01:36:19.379Z",
+  "updatedAt": "2026-09-30T02:29:46.767Z",
   "items": [
     {
-      "time": "08:25",
-      "title": "中国念頭 鉄鋼う回輸出監視強化へ",
+      "time": "10:18",
+      "title": "常陸大宮市 核ごみ調査巡り会見へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597017?source=rss",
-      "publishedAt": "2026-09-29T23:25:22.000Z",
-      "xQuery": "中国念頭 鉄鋼う回輸出監視強化へ"
+      "url": "https://news.yahoo.co.jp/pickup/6597031?source=rss",
+      "publishedAt": "2026-09-30T01:18:28.000Z",
+      "xQuery": "常陸大宮市 核ごみ調査巡り会見へ"
+    },
+    {
+      "time": "09:51",
+      "title": "入管窓口 駆け込み申請で混乱",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597027?source=rss",
+      "publishedAt": "2026-09-30T00:51:07.000Z",
+      "xQuery": "入管窓口 駆け込み申請で混乱"
     },
     {
       "time": "09:41",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "習近平政権 岩屋前外相を厚遇"
     },
     {
-      "time": "08:54",
-      "title": "北朝鮮 地雷爆発は韓国の自作自演",
+      "time": "09:13",
+      "title": "仏各地の高校で抗議デモ 逮捕者も",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597020?source=rss",
-      "publishedAt": "2026-09-29T23:54:35.000Z",
-      "xQuery": "北朝鮮 地雷爆発は韓国の自作自演"
+      "url": "https://news.yahoo.co.jp/pickup/6597022?source=rss",
+      "publishedAt": "2026-09-30T00:13:22.000Z",
+      "xQuery": "仏各地の高校で抗議デモ 逮捕者も"
     },
     {
-      "time": "08:38",
-      "title": "早朝の高速バス乗り場に行列 千葉",
+      "time": "11:07",
+      "title": "集合住宅で女性死亡 首に切り傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597019?source=rss",
-      "publishedAt": "2026-09-29T23:38:14.000Z",
-      "xQuery": "早朝の高速バス乗り場に行列 千葉"
-    },
-    {
-      "time": "07:26",
-      "title": "熱中症で娘倒れ寝たきり 父の訴え",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597007?source=rss",
-      "publishedAt": "2026-09-29T22:26:59.000Z",
-      "xQuery": "熱中症で娘倒れ寝たきり 父の訴え"
+      "url": "https://news.yahoo.co.jp/pickup/6597034?source=rss",
+      "publishedAt": "2026-09-30T02:07:36.000Z",
+      "xQuery": "集合住宅で女性死亡 首に切り傷"
     }
   ]
 };
