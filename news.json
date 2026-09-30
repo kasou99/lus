@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T21:17:28.448Z",
+  "updatedAt": "2026-09-30T21:41:45.507Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "05:00",
         "title": "工作機械受注、8月64％増 北米アジア伸び歴代2位",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2NjFPTjZOLVV0MzNGME41QmZjbnJmZ0wwM3ZBSWlSejg0NXRFVUliYVdOd25FUGFIV05iV2RtUnNDYjZZdk92aTY5TGJvR3l2dnY1aEh4R0o?oc=5",
         "publishedAt": "2026-09-30T20:00:00.000Z"
       },
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-30T06:00:00.000Z"
       },
       {
-        "time": "17:00",
-        "title": "８月の工作機械受注 64％増 北米アジア伸び歴代2位",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HT19zVnd3QndUNl9raEJOTGc0OHdTaWlUQjJQSmJ3V2NDOGt1cHdtVXFRQzZMYWQtdnZ6aG0ycHhqd0R3S2JZenlRb1k2ZTFmdWxtYlhyYzE?oc=5",
-        "publishedAt": "2026-09-30T08:00:00.000Z"
-      },
-      {
         "time": "18:28",
         "title": "株式会社設備保全総合研究所のEMLinkで実現する設備記録のクラウド管理と予防保全の新しい形",
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUc0Yl83aUxZWnl5LUw4NWxndXVJSl9WQXZHcHoxMkp0bHJhT1dWYU9FNzU1ZDBwYVNQcVV0ajV0NkQ4c1RDWHAzeWM5NzlLSUlRd1JrOVNUSE5ad1JsZ2xVWTNEeGswTkc2eE1OemZKaEpJeGtqcUtOOTNxSnd2eGZTMVk?oc=5",
         "publishedAt": "2026-09-30T09:28:33.000Z"
+      },
+      {
+        "time": "17:00",
+        "title": "８月の工作機械受注 64％増 北米アジア伸び歴代2位",
+        "source": "nikkan.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HT19zVnd3QndUNl9raEJOTGc0OHdTaWlUQjJQSmJ3V2NDOGt1cHdtVXFRQzZMYWQtdnZ6aG0ycHhqd0R3S2JZenlRb1k2ZTFmdWxtYlhyYzE?oc=5",
+        "publishedAt": "2026-09-30T08:00:00.000Z"
       }
     ],
     "worldHeadlines": [
