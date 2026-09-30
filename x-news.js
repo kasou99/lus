@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T13:43:00.524Z",
+  "updatedAt": "2026-09-30T14:21:09.212Z",
   "items": [
     {
       "time": "22:02",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "明治大 アラスカ先住民の遺骨返還"
     },
     {
-      "time": "20:14",
-      "title": "麻生氏 土地3カ所の資産報告せず",
+      "time": "22:43",
+      "title": "ネイリスト殺害 納得できないと夫",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597105?source=rss",
-      "publishedAt": "2026-09-30T11:14:59.000Z",
-      "xQuery": "麻生氏 土地3カ所の資産報告せず"
+      "url": "https://news.yahoo.co.jp/pickup/6597113?source=rss",
+      "publishedAt": "2026-09-30T13:43:32.000Z",
+      "xQuery": "ネイリスト殺害 納得できないと夫"
     },
     {
       "time": "18:05",
