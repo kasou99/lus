@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T11:16:20.836Z",
+  "updatedAt": "2026-09-30T11:40:27.141Z",
   "items": [
     {
       "time": "19:49",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "25年度の介護費用 高齢化で最大に"
     },
     {
-      "time": "17:17",
-      "title": "声は「人格の象徴」初の司法判断",
+      "time": "20:14",
+      "title": "麻生氏 土地3カ所の資産報告せず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597082?source=rss",
-      "publishedAt": "2026-09-30T08:17:18.000Z",
-      "xQuery": "声は「人格の象徴」初の司法判断"
+      "url": "https://news.yahoo.co.jp/pickup/6597105?source=rss",
+      "publishedAt": "2026-09-30T11:14:59.000Z",
+      "xQuery": "麻生氏 土地3カ所の資産報告せず"
     },
     {
       "time": "17:35",
