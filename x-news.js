@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T10:43:57.998Z",
+  "updatedAt": "2026-09-30T11:16:20.836Z",
   "items": [
     {
-      "time": "17:18",
-      "title": "ビル火災報知機 大雨で誤作動多発",
+      "time": "19:49",
+      "title": "台風 30日夜から伊豆諸島に接近へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597080?source=rss",
-      "publishedAt": "2026-09-30T08:18:11.000Z",
-      "xQuery": "ビル火災報知機 大雨で誤作動多発"
+      "url": "https://news.yahoo.co.jp/pickup/6597104?source=rss",
+      "publishedAt": "2026-09-30T10:49:32.000Z",
+      "xQuery": "台風 30日夜から伊豆諸島に接近へ"
     },
     {
       "time": "18:48",
