@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T14:45:23.769Z",
+  "updatedAt": "2026-09-30T15:19:36.848Z",
   "items": [
     {
       "time": "22:02",
@@ -18,28 +18,28 @@ window.LUS_X_NEWS = {
       "xQuery": "明治大 アラスカ先住民の遺骨返還"
     },
     {
-      "time": "22:51",
-      "title": "立憲が党本部フロア縮小へ 財政難",
+      "time": "00:02",
+      "title": "神戸発砲事件 死亡男性は会社役員",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597116?source=rss",
-      "publishedAt": "2026-09-30T13:51:16.000Z",
-      "xQuery": "立憲が党本部フロア縮小へ 財政難"
+      "url": "https://news.yahoo.co.jp/pickup/6597119?source=rss",
+      "publishedAt": "2026-09-30T15:02:19.000Z",
+      "xQuery": "神戸発砲事件 死亡男性は会社役員"
     },
     {
-      "time": "18:05",
-      "title": "8.2億円相当の暗号資産 詐欺被害",
+      "time": "23:37",
+      "title": "世界大学ランキング 東北大に注目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597089?source=rss",
-      "publishedAt": "2026-09-30T09:05:12.000Z",
-      "xQuery": "8.2億円相当の暗号資産 詐欺被害"
+      "url": "https://news.yahoo.co.jp/pickup/6597092?source=rss",
+      "publishedAt": "2026-09-30T14:37:27.000Z",
+      "xQuery": "世界大学ランキング 東北大に注目"
     },
     {
-      "time": "20:29",
-      "title": "セコマ個人情報漏えい 第三者閲覧",
+      "time": "23:05",
+      "title": "映画オデュッセイアの天候を考察",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597106?source=rss",
-      "publishedAt": "2026-09-30T11:29:51.000Z",
-      "xQuery": "セコマ個人情報漏えい 第三者閲覧"
+      "url": "https://news.yahoo.co.jp/pickup/6597117?source=rss",
+      "publishedAt": "2026-09-30T14:05:46.000Z",
+      "xQuery": "映画オデュッセイアの天候を考察"
     }
   ]
 };
