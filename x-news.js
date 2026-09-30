@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T05:19:31.611Z",
+  "updatedAt": "2026-09-30T05:43:32.358Z",
   "items": [
     {
       "time": "12:32",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "モロッコ初の女性首相 組閣へ"
     },
     {
+      "time": "14:29",
+      "title": "神戸2カ所で発砲事件 1人心肺停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597061?source=rss",
+      "publishedAt": "2026-09-30T05:29:31.000Z",
+      "xQuery": "神戸2カ所で発砲事件 1人心肺停止"
+    },
+    {
       "time": "13:48",
       "title": "東武事故 責任者が現場指揮せず",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597056?source=rss",
       "publishedAt": "2026-09-30T04:38:19.000Z",
       "xQuery": "生成AI動画巡り 声優の請求棄却"
-    },
-    {
-      "time": "13:43",
-      "title": "動画 クマが車に突然体当たり",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597055?source=rss",
-      "publishedAt": "2026-09-30T04:43:55.000Z",
-      "xQuery": "動画 クマが車に突然体当たり"
     }
   ]
 };
