@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T03:46:56.701Z",
+  "updatedAt": "2026-09-30T04:22:54.476Z",
   "items": [
+    {
+      "time": "12:32",
+      "title": "公明 新代表に岡本三成氏就任へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597050?source=rss",
+      "publishedAt": "2026-09-30T03:32:01.000Z",
+      "xQuery": "公明 新代表に岡本三成氏就任へ"
+    },
     {
       "time": "11:59",
       "title": "飲食料品値上げ 10月は3153品目",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597045?source=rss",
       "publishedAt": "2026-09-30T02:59:15.000Z",
       "xQuery": "飲食料品値上げ 10月は3153品目"
-    },
-    {
-      "time": "11:26",
-      "title": "ニデック 子会社の売却を検討",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597036?source=rss",
-      "publishedAt": "2026-09-30T02:26:26.000Z",
-      "xQuery": "ニデック 子会社の売却を検討"
     },
     {
       "time": "11:29",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "アパートで20代女性死亡 男を確保"
     },
     {
-      "time": "12:21",
-      "title": "小4死亡ひき逃げ17年 時効まで3年",
+      "time": "11:23",
+      "title": "西武渋谷店きょう閉店 開店前に列",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597049?source=rss",
-      "publishedAt": "2026-09-30T03:21:47.000Z",
-      "xQuery": "小4死亡ひき逃げ17年 時効まで3年"
+      "url": "https://news.yahoo.co.jp/pickup/6597037?source=rss",
+      "publishedAt": "2026-09-30T02:23:26.000Z",
+      "xQuery": "西武渋谷店きょう閉店 開店前に列"
     },
     {
-      "time": "11:19",
-      "title": "5連休は何してた? 若者に聞いた",
+      "time": "12:53",
+      "title": "アジア大会でトラブル 市長が謝罪",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597038?source=rss",
-      "publishedAt": "2026-09-30T02:19:14.000Z",
-      "xQuery": "5連休は何してた? 若者に聞いた"
+      "url": "https://news.yahoo.co.jp/pickup/6597052?source=rss",
+      "publishedAt": "2026-09-30T03:53:09.000Z",
+      "xQuery": "アジア大会でトラブル 市長が謝罪"
     }
   ]
 };

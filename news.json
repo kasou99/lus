@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T03:46:56.128Z",
+  "updatedAt": "2026-09-30T04:22:53.220Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "shibaura-machine.co.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BYS1zT2ZOREtuUW9PZm8wVEVMWk5GSEh3aHdwYUlwUjRvQktkYW9IREtkS3pzM2pjLWNoenRyRUx0X2hYdVVFRWpCaTN3N1UyV1ZNbENnVTBBQXVzVE53U3FCSXpWdXVSaXJJQndUbzRaWEFo?oc=5",
         "publishedAt": "2026-09-30T02:36:52.000Z"
-      },
-      {
-        "time": "09:19",
-        "title": "(株)岡本工作機械製作所【6125】：株価・株式情報（夜間PTS含む）",
-        "source": "finance.yahoo.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LLVpzMFl2YnFWYS10V1pyaGxRdTZLZVJlUGJUUzJjeTd0MnA3YlpDWEx3NXdiUFhFNGp1QUE0WWdNMklsNklTREpkcm1FbGdXd1E?oc=5",
-        "publishedAt": "2026-09-30T00:19:48.000Z"
       },
       {
         "time": "05:00",
@@ -26,7 +19,7 @@
       {
         "time": "07:30",
         "title": "設備保全DXのM2X、東京海上ホールディングスと資本業務提携 | 株式会社M2Xのプレスリリース",
-        "source": "prtimes.jp",
+        "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4Z3cybjFHOGJRazhrUGtBR0wzaEZuWGwycFBpc3o1VktnNG5IaXdiWUxDS3hMaE5OXy16TzhKaTV1b0Fya2poTWNKX0F5dF9CckpqNUQxeWNZa1piT2MtR0pQdEU4dHFDaEE?oc=5",
         "publishedAt": "2026-09-29T22:30:02.000Z"
       },
@@ -47,7 +40,7 @@
       {
         "time": "10:04",
         "title": "株式会社M2Xと東京海上ホールディングスが結ぶ設備保全DXの新たな提携の意義",
-        "source": "ニュースメディアVOIX",
+        "source": "voix.jp",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jUk8zZkF4Mjh0RE5UbnBPVmZ0OHRYNmlvbTJHWFFPZGZuTjhuOWs2Vlk5SjJHNTM0SUt5WHJ0akR5SUFBcnJLTkYzM3l5aHhMT0pLQ3hJSXdQYmxjdVk2YVBGeE5XWFZSZVNqdA?oc=5",
         "publishedAt": "2026-09-30T01:04:03.000Z"
       },
@@ -57,6 +50,13 @@
         "source": "shibaura-machine.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56SldCLVhiZ0daTXJadXhUVkRWeW5zWXhqUl9wYlBnWUZPV01zMzZMSlFVX3o2Yi0xc3I0UTJmME16ZkVhYzBUaU9RM1h6ckZhbWdkS0tEdzBRS1U0R0t2RDZ0NHVSQkNDNjY5cnBHMWhKdw?oc=5",
         "publishedAt": "2026-09-30T02:36:53.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "工場設備保全のM2X、東京海上HD系と資本業務提携 中小に販路拡大",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QSXdEeTJ6OXpZOXJmV3lxWjNFdnUwam83YzVyRFctSVFpN2Zoc1Bjb1lNOTFnclFjbU8wRmNHY1BNV3Z4UHZyaXl5U0lzaHhULW1pMnh4dmpuWW4zZVdSdExBYXFURWh3NExMcw?oc=5",
+        "publishedAt": "2026-09-29T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-09-29T21:34:22.000Z"
       },
       {
+        "time": "12:53",
+        "title": "アジア大会でトラブル 市長が謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597052?source=rss",
+        "publishedAt": "2026-09-30T03:53:09.000Z"
+      },
+      {
         "time": "19:04",
         "title": "教職員7万人の性犯歴確認へ 東京",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597049?source=rss",
         "publishedAt": "2026-09-30T03:21:47.000Z"
-      },
-      {
-        "time": "06:58",
-        "title": "道路でクマが車に複数回突進 破損",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597005?source=rss",
-        "publishedAt": "2026-09-29T21:58:58.000Z"
       }
     ],
     "subsidyHeadlines": [
