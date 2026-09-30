@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T22:41:20.195Z",
+  "updatedAt": "2026-09-30T23:17:17.562Z",
   "items": [
+    {
+      "time": "07:43",
+      "title": "ニデック極まる混乱 再生不透明",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597129?source=rss",
+      "publishedAt": "2026-09-30T22:43:59.000Z",
+      "xQuery": "ニデック極まる混乱 再生不透明"
+    },
     {
       "time": "06:42",
       "title": "台風が関東接近へ 千葉は大雨恐れ",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597119?source=rss",
       "publishedAt": "2026-09-30T15:02:19.000Z",
       "xQuery": "神戸発砲事件 死亡男性は会社役員"
-    },
-    {
-      "time": "23:37",
-      "title": "世界大学ランキング 東北大に注目",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597092?source=rss",
-      "publishedAt": "2026-09-30T14:37:27.000Z",
-      "xQuery": "世界大学ランキング 東北大に注目"
     }
   ]
 };

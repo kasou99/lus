@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T22:41:18.982Z",
+  "updatedAt": "2026-09-30T23:17:16.685Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -105,6 +105,20 @@
     ],
     "economyHeadlines": [
       {
+        "time": "07:43",
+        "title": "ニデック極まる混乱 再生不透明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597129?source=rss",
+        "publishedAt": "2026-09-30T22:43:59.000Z"
+      },
+      {
+        "time": "17:05",
+        "title": "ニデック25年度決算 5646億円赤字",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597077?source=rss",
+        "publishedAt": "2026-09-30T08:05:15.000Z"
+      },
+      {
         "time": "11:59",
         "title": "飲食料品値上げ 10月は3153品目",
         "source": "Yahoo!ニュース",
@@ -119,13 +133,6 @@
         "publishedAt": "2026-09-30T00:58:52.000Z"
       },
       {
-        "time": "17:05",
-        "title": "ニデック25年度決算 5646億円赤字",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597077?source=rss",
-        "publishedAt": "2026-09-30T08:05:15.000Z"
-      },
-      {
         "time": "17:18",
         "title": "ビル火災報知機 大雨で誤作動多発",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597110?source=rss",
         "publishedAt": "2026-09-30T12:47:34.000Z"
-      },
-      {
-        "time": "06:43",
-        "title": "ノジマ バイト大学生2人を店長に",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597003?source=rss",
-        "publishedAt": "2026-09-29T21:43:47.000Z"
       }
     ],
     "localHeadlines": [
