@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T02:51:58.873Z",
+  "updatedAt": "2026-09-30T03:23:49.270Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,13 +8,6 @@
         "source": "shibaura-machine.co.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BYS1zT2ZOREtuUW9PZm8wVEVMWk5GSEh3aHdwYUlwUjRvQktkYW9IREtkS3pzM2pjLWNoenRyRUx0X2hYdVVFRWpCaTN3N1UyV1ZNbENnVTBBQXVzVE53U3FCSXpWdXVSaXJJQndUbzRaWEFo?oc=5",
         "publishedAt": "2026-09-30T02:36:52.000Z"
-      },
-      {
-        "time": "09:19",
-        "title": "(株)岡本工作機械製作所【6125】：株価・株式情報（夜間PTS含む）",
-        "source": "finance.yahoo.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LLVpzMFl2YnFWYS10V1pyaGxRdTZLZVJlUGJUUzJjeTd0MnA3YlpDWEx3NXdiUFhFNGp1QUE0WWdNMklsNklTREpkcm1FbGdXd1E?oc=5",
-        "publishedAt": "2026-09-30T00:19:48.000Z"
       },
       {
         "time": "05:00",
@@ -26,7 +19,7 @@
       {
         "time": "07:30",
         "title": "設備保全DXのM2X、東京海上ホールディングスと資本業務提携 | 株式会社M2Xのプレスリリース",
-        "source": "PR TIMES",
+        "source": "prtimes.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4Z3cybjFHOGJRazhrUGtBR0wzaEZuWGwycFBpc3o1VktnNG5IaXdiWUxDS3hMaE5OXy16TzhKaTV1b0Fya2poTWNKX0F5dF9CckpqNUQxeWNZa1piT2MtR0pQdEU4dHFDaEE?oc=5",
         "publishedAt": "2026-09-29T22:30:02.000Z"
       },
@@ -38,25 +31,32 @@
         "publishedAt": "2026-09-30T02:33:00.000Z"
       },
       {
-        "time": "11:15",
+        "time": "12:12",
         "title": "道路インフラの点検から工場・プラントの設備保全へ。日東建設、非破壊検査技術を新たな市場へ紹介",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HVF9CdEhhNGh6N3hZWlFKenJZZFQ2aFJiS3dsUEZTc2g4aXk4a3ktX1JBYkZHYU5OeUVHMHlNaVRxQ2dTUkN2LXJPYWhiMGg1Vm56Z2owQ1ozcTJWRlRpcjUxQzVqbGpUVmZILXFVUUFvS1U?oc=5",
-        "publishedAt": "2026-09-30T02:15:00.000Z"
+        "source": "愛媛新聞",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5neWo3cVV1WFBoWXdMczFqLWx3aDNIWVdieWhYdVcxQ3pNTllrekVlaGRiS3prZ3V6dHhsZGJiUmZiX1RsSWM2NElhR3kwLXRoV1p3T0NFR0xhODMz?oc=5",
+        "publishedAt": "2026-09-30T03:12:35.000Z"
       },
       {
         "time": "10:04",
         "title": "株式会社M2Xと東京海上ホールディングスが結ぶ設備保全DXの新たな提携の意義",
-        "source": "ニュースメディアVOIX",
+        "source": "voix.jp",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jUk8zZkF4Mjh0RE5UbnBPVmZ0OHRYNmlvbTJHWFFPZGZuTjhuOWs2Vlk5SjJHNTM0SUt5WHJ0akR5SUFBcnJLTkYzM3l5aHhMT0pLQ3hJSXdQYmxjdVk2YVBGeE5XWFZSZVNqdA?oc=5",
         "publishedAt": "2026-09-30T01:04:03.000Z"
       },
       {
-        "time": "05:00",
-        "title": "工場設備保全のM2X、東京海上HD系と資本業務提携 中小に販路拡大",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QSXdEeTJ6OXpZOXJmV3lxWjNFdnUwam83YzVyRFctSVFpN2Zoc1Bjb1lNOTFnclFjbU8wRmNHY1BNV3Z4UHZyaXl5U0lzaHhULW1pMnh4dmpuWW4zZVdSdExBYXFURWh3NExMcw?oc=5",
-        "publishedAt": "2026-09-29T20:00:00.000Z"
+        "time": "11:36",
+        "title": "技能レスから「人の技能に依存しない高精度加工」へ 〜超大物から超精密加工技術に至るまで、DX・システムエンジニアリングを駆使したトータルソリューションを展示〜（JIMTOF2026） - shibaura-machine.co.jp",
+        "source": "shibaura-machine.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56SldCLVhiZ0daTXJadXhUVkRWeW5zWXhqUl9wYlBnWUZPV01zMzZMSlFVX3o2Yi0xc3I0UTJmME16ZkVhYzBUaU9RM1h6ckZhbWdkS0tEdzBRS1U0R0t2RDZ0NHVSQkNDNjY5cnBHMWhKdw?oc=5",
+        "publishedAt": "2026-09-30T02:36:53.000Z"
+      },
+      {
+        "time": "17:32",
+        "title": "オムロン、「制御盤レス化」のソリューション強化 製造業の生産変革を後押し",
+        "source": "電波新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wdndJUDRKQVlZTUpIX1BnSWxhX2t3bG1keGVySktpcEp2Qkk2cDhBRi1uQjNtS0hBc3R2TkFPd0t3MXVwTktHTWdRT1pIeGtDX1E?oc=5",
+        "publishedAt": "2026-09-29T08:32:04.000Z"
       }
     ],
     "worldHeadlines": [
@@ -68,11 +68,11 @@
         "publishedAt": "2026-09-29T05:04:42.000Z"
       },
       {
-        "time": "09:04",
-        "title": "イラン 間接協議で米側へ要求伝達",
+        "time": "12:05",
+        "title": "AI名称「SI」に 米大統領令に署名",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596919?source=rss",
-        "publishedAt": "2026-09-29T00:04:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597046?source=rss",
+        "publishedAt": "2026-09-30T03:05:56.000Z"
       },
       {
         "time": "07:34",
@@ -105,18 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "08:25",
-        "title": "中国念頭 鉄鋼う回輸出監視強化へ",
+        "time": "11:59",
+        "title": "飲食料品値上げ 10月は3153品目",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597017?source=rss",
-        "publishedAt": "2026-09-29T23:25:22.000Z"
-      },
-      {
-        "time": "22:41",
-        "title": "ドンキ トイザらス日本事業買収へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596995?source=rss",
-        "publishedAt": "2026-09-29T13:41:00.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597045?source=rss",
+        "publishedAt": "2026-09-30T02:59:15.000Z"
       },
       {
         "time": "09:58",
@@ -145,6 +138,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597037?source=rss",
         "publishedAt": "2026-09-30T02:23:26.000Z"
+      },
+      {
+        "time": "06:43",
+        "title": "ノジマ バイト大学生2人を店長に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597003?source=rss",
+        "publishedAt": "2026-09-29T21:43:47.000Z"
       }
     ],
     "localHeadlines": [
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-29T10:04:21.000Z"
       },
       {
+        "time": "12:21",
+        "title": "小4死亡ひき逃げ17年 時効まで3年",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597049?source=rss",
+        "publishedAt": "2026-09-30T03:21:47.000Z"
+      },
+      {
         "time": "06:58",
         "title": "道路でクマが車に複数回突進 破損",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597005?source=rss",
         "publishedAt": "2026-09-29T21:58:58.000Z"
-      },
-      {
-        "time": "20:35",
-        "title": "くじ引きで落選の市議候補 当選へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596986?source=rss",
-        "publishedAt": "2026-09-29T11:35:20.000Z"
       }
     ],
     "subsidyHeadlines": [

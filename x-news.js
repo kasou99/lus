@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T02:51:59.930Z",
+  "updatedAt": "2026-09-30T03:23:50.545Z",
   "items": [
     {
-      "time": "10:18",
-      "title": "常陸大宮市 核ごみ調査巡り会見へ",
+      "time": "11:59",
+      "title": "飲食料品値上げ 10月は3153品目",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597031?source=rss",
-      "publishedAt": "2026-09-30T01:18:28.000Z",
-      "xQuery": "常陸大宮市 核ごみ調査巡り会見へ"
+      "url": "https://news.yahoo.co.jp/pickup/6597045?source=rss",
+      "publishedAt": "2026-09-30T02:59:15.000Z",
+      "xQuery": "飲食料品値上げ 10月は3153品目"
     },
     {
-      "time": "09:51",
-      "title": "入管窓口 駆け込み申請で混乱",
+      "time": "11:26",
+      "title": "ニデック 子会社の売却を検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597027?source=rss",
-      "publishedAt": "2026-09-30T00:51:07.000Z",
-      "xQuery": "入管窓口 駆け込み申請で混乱"
-    },
-    {
-      "time": "09:41",
-      "title": "習近平政権 岩屋前外相を厚遇",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597025?source=rss",
-      "publishedAt": "2026-09-30T00:41:55.000Z",
-      "xQuery": "習近平政権 岩屋前外相を厚遇"
+      "url": "https://news.yahoo.co.jp/pickup/6597036?source=rss",
+      "publishedAt": "2026-09-30T02:26:26.000Z",
+      "xQuery": "ニデック 子会社の売却を検討"
     },
     {
       "time": "11:29",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597039?source=rss",
       "publishedAt": "2026-09-30T02:29:33.000Z",
       "xQuery": "アパートで20代女性死亡 男を確保"
+    },
+    {
+      "time": "12:21",
+      "title": "小4死亡ひき逃げ17年 時効まで3年",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597049?source=rss",
+      "publishedAt": "2026-09-30T03:21:47.000Z",
+      "xQuery": "小4死亡ひき逃げ17年 時効まで3年"
     },
     {
       "time": "11:34",
