@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-29T23:37:54.490Z",
+  "updatedAt": "2026-09-30T00:54:32.780Z",
   "items": [
     {
       "time": "08:10",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 あす八丈島など直撃見込み"
     },
     {
-      "time": "07:34",
-      "title": "トランプ氏 AI監督委設置を検討",
+      "time": "08:25",
+      "title": "中国念頭 鉄鋼う回輸出監視強化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597010?source=rss",
-      "publishedAt": "2026-09-29T22:34:21.000Z",
-      "xQuery": "トランプ氏 AI監督委設置を検討"
+      "url": "https://news.yahoo.co.jp/pickup/6597017?source=rss",
+      "publishedAt": "2026-09-29T23:25:22.000Z",
+      "xQuery": "中国念頭 鉄鋼う回輸出監視強化へ"
+    },
+    {
+      "time": "08:54",
+      "title": "北朝鮮 地雷爆発は韓国の自作自演",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597020?source=rss",
+      "publishedAt": "2026-09-29T23:54:35.000Z",
+      "xQuery": "北朝鮮 地雷爆発は韓国の自作自演"
     },
     {
       "time": "06:58",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "道路でクマが車に複数回突進 破損"
     },
     {
-      "time": "07:26",
-      "title": "熱中症で娘倒れ寝たきり 父の訴え",
+      "time": "08:38",
+      "title": "早朝の高速バス乗り場に行列 千葉",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597007?source=rss",
-      "publishedAt": "2026-09-29T22:26:59.000Z",
-      "xQuery": "熱中症で娘倒れ寝たきり 父の訴え"
-    },
-    {
-      "time": "06:43",
-      "title": "ノジマ バイト大学生2人を店長に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597003?source=rss",
-      "publishedAt": "2026-09-29T21:43:47.000Z",
-      "xQuery": "ノジマ バイト大学生2人を店長に"
+      "url": "https://news.yahoo.co.jp/pickup/6597019?source=rss",
+      "publishedAt": "2026-09-29T23:38:14.000Z",
+      "xQuery": "早朝の高速バス乗り場に行列 千葉"
     }
   ]
 };

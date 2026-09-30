@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T23:37:53.631Z",
+  "updatedAt": "2026-09-30T00:54:31.413Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,18 +31,18 @@
         "publishedAt": "2026-09-29T20:00:00.000Z"
       },
       {
-        "time": "11:28",
-        "title": "メトレック産業 鋳物材リサイクルで参画 工作機械水平循環スキーム 協力会社と連携強化（日刊産業新聞）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KS3h5MFMzUjgybkNXVU5GSkJCUGs1dTZJdlA1aVM2R2VDU29HZVZjZlQ3cVdKWU9qT2Exa3VVYlJ3V3Jsb1BtY2tPYmtibFNiWEx4RUZleGt2cW5fMEJoa2hqNzF0N043ZkFFTkxCalVEZHczYWpSWk5sVFVEb2s?oc=5",
-        "publishedAt": "2026-09-29T02:28:47.000Z"
-      },
-      {
         "time": "05:00",
         "title": "100億企業への成長痛 中堅・中小アンケート（上）人材定着、喫緊の課題",
         "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56WGFzTVMwcEFlWDJwNkNEWVFCTUJnLWZPenpYaDVLSFgySlBIekZxMzFtNldaWnFlOU1fYXhuOFdsY3NKaWdKdkFJeUxuN2ZsY1VHSEs2emY?oc=5",
         "publishedAt": "2026-09-29T20:00:00.000Z"
+      },
+      {
+        "time": "11:28",
+        "title": "メトレック産業 鋳物材リサイクルで参画 工作機械水平循環スキーム 協力会社と連携強化（日刊産業新聞）",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KS3h5MFMzUjgybkNXVU5GSkJCUGs1dTZJdlA1aVM2R2VDU29HZVZjZlQ3cVdKWU9qT2Exa3VVYlJ3V3Jsb1BtY2tPYmtibFNiWEx4RUZleGt2cW5fMEJoa2hqNzF0N043ZkFFTkxCalVEZHczYWpSWk5sVFVEb2s?oc=5",
+        "publishedAt": "2026-09-29T02:28:47.000Z"
       },
       {
         "time": "16:21",
@@ -75,13 +75,6 @@
         "publishedAt": "2026-09-29T00:04:07.000Z"
       },
       {
-        "time": "16:41",
-        "title": "米中関税 対象品で大幅引き下げへ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596855?source=rss",
-        "publishedAt": "2026-09-28T07:41:29.000Z"
-      },
-      {
         "time": "07:34",
         "title": "トランプ氏 AI監督委設置を検討",
         "source": "Yahoo!ニュース",
@@ -89,18 +82,25 @@
         "publishedAt": "2026-09-29T22:34:21.000Z"
       },
       {
+        "time": "08:54",
+        "title": "北朝鮮 地雷爆発は韓国の自作自演",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597020?source=rss",
+        "publishedAt": "2026-09-29T23:54:35.000Z"
+      },
+      {
+        "time": "09:41",
+        "title": "習近平政権 岩屋前外相を厚遇",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597025?source=rss",
+        "publishedAt": "2026-09-30T00:41:55.000Z"
+      },
+      {
         "time": "20:16",
         "title": "日本から返還のパンダ 中国で公開",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6596984?source=rss",
         "publishedAt": "2026-09-29T11:16:07.000Z"
-      },
-      {
-        "time": "15:42",
-        "title": "韓国がウに謝罪要求 捕虜移送巡り",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596844?source=rss",
-        "publishedAt": "2026-09-28T06:42:10.000Z"
       }
     ],
     "economyHeadlines": [
@@ -119,11 +119,11 @@
         "publishedAt": "2026-09-29T13:41:00.000Z"
       },
       {
-        "time": "18:59",
-        "title": "ニデック岸田社長が辞任 不正巡り",
+        "time": "08:38",
+        "title": "早朝の高速バス乗り場に行列 千葉",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6596980?source=rss",
-        "publishedAt": "2026-09-29T09:59:59.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597019?source=rss",
+        "publishedAt": "2026-09-29T23:38:14.000Z"
       },
       {
         "time": "16:57",
