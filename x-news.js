@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T09:22:44.909Z",
+  "updatedAt": "2026-10-01T09:45:05.284Z",
   "items": [
     {
       "time": "16:00",
@@ -8,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597174?source=rss",
       "publishedAt": "2026-10-01T07:00:01.000Z",
       "xQuery": "中継 ニデック新社長らが記者会見"
+    },
+    {
+      "time": "17:50",
+      "title": "フラット35 金利3.830%で過去最高",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597190?source=rss",
+      "publishedAt": "2026-10-01T08:50:31.000Z",
+      "xQuery": "フラット35 金利3.830%で過去最高"
     },
     {
       "time": "17:45",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597181?source=rss",
       "publishedAt": "2026-10-01T07:58:11.000Z",
       "xQuery": "交差点で事故 歩行者5人が重軽傷"
-    },
-    {
-      "time": "17:50",
-      "title": "フラット35 金利3.830%で過去最高",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597190?source=rss",
-      "publishedAt": "2026-10-01T08:50:31.000Z",
-      "xQuery": "フラット35 金利3.830%で過去最高"
     },
     {
       "time": "17:30",

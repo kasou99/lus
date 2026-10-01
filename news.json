@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T09:22:44.305Z",
+  "updatedAt": "2026-10-01T09:45:04.403Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-01T06:04:14.000Z"
       },
       {
-        "time": "18:28",
-        "title": "株式会社設備保全総合研究所のEMLinkで実現する設備記録のクラウド管理と予防保全の新しい形",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUc0Yl83aUxZWnl5LUw4NWxndXVJSl9WQXZHcHoxMkp0bHJhT1dWYU9FNzU1ZDBwYVNQcVV0ajV0NkQ4c1RDWHAzeWM5NzlLSUlRd1JrOVNUSE5ad1JsZ2xVWTNEeGswTkc2eE1OemZKaEpJeGtqcUtOOTNxSnd2eGZTMVk?oc=5",
-        "publishedAt": "2026-09-30T09:28:33.000Z"
-      },
-      {
         "time": "22:45",
         "title": "日本メカケミカルが「JIMTOF2026」に出展！錆取り実演など工業用化学製品を展示",
         "source": "Infoseek",
@@ -57,6 +50,13 @@
         "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wZTItcUNDZ2lPQzBMTHNjcmtCc3RLVkRIUF9NSWxjeFRBWXVRRjVqY2tHRjV6dWVFMVVJZUpmRThMRUhpXzNPbGtwRExma0xERVpidm9pMUFuc2dRSDJoNDNZUmJBZDk4YjVBT19kdXREWHlsR0NneFFjR05Oa0E?oc=5",
         "publishedAt": "2026-09-30T20:00:00.000Z"
+      },
+      {
+        "time": "13:03",
+        "title": "ロングストローク式並列グリッパーの世界市場2026年、グローバル市場規模（2爪並列グリッパー、3爪並列グリッパー）・分",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oVV9zYjhic1FlZE1TZGp2Vmo2MTVTZEVsUGd2RW5LV21DXzVUTkVTaFhSdUg1QV9zWEhfMTFoV0kyVFY5MjYwbHVCXzZST3U4dVlVQV9RVnc0cWxQbVlWVmE2aERxeGZf?oc=5",
+        "publishedAt": "2026-10-01T04:03:15.000Z"
       }
     ],
     "worldHeadlines": [
