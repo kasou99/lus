@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T03:29:12.233Z",
+  "updatedAt": "2026-10-01T03:51:59.264Z",
   "items": [
+    {
+      "time": "12:45",
+      "title": "自民生稲・朝日氏 公選法違反疑い",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597159?source=rss",
+      "publishedAt": "2026-10-01T03:45:39.000Z",
+      "xQuery": "自民生稲・朝日氏 公選法違反疑い"
+    },
+    {
+      "time": "11:14",
+      "title": "国防長官 米軍将官20%削減と発表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597146?source=rss",
+      "publishedAt": "2026-10-01T02:14:11.000Z",
+      "xQuery": "国防長官 米軍将官20%削減と発表"
+    },
     {
       "time": "11:19",
       "title": "台風27号が発生 来週にかけ北上か",
@@ -8,22 +24,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597147?source=rss",
       "publishedAt": "2026-10-01T02:19:19.000Z",
       "xQuery": "台風27号が発生 来週にかけ北上か"
-    },
-    {
-      "time": "10:35",
-      "title": "核ごみ調査受け入れ 人口減決め手",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597143?source=rss",
-      "publishedAt": "2026-10-01T01:35:34.000Z",
-      "xQuery": "核ごみ調査受け入れ 人口減決め手"
-    },
-    {
-      "time": "09:48",
-      "title": "大企業製造業 景況感6期連続改善",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597141?source=rss",
-      "publishedAt": "2026-10-01T00:48:29.000Z",
-      "xQuery": "大企業製造業 景況感6期連続改善"
     },
     {
       "time": "11:45",
