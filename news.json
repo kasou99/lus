@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T07:26:55.268Z",
+  "updatedAt": "2026-10-01T07:47:54.845Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -156,6 +156,13 @@
         "publishedAt": "2026-10-01T01:35:34.000Z"
       },
       {
+        "time": "16:38",
+        "title": "人口水増し指示 富山市幹部ら否定",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597178?source=rss",
+        "publishedAt": "2026-10-01T07:38:18.000Z"
+      },
+      {
         "time": "00:02",
         "title": "神戸発砲事件 死亡男性は会社役員",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597155?source=rss",
         "publishedAt": "2026-10-01T03:00:17.000Z"
-      },
-      {
-        "time": "12:19",
-        "title": "少女にわいせつ動画指示疑い 逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597156?source=rss",
-        "publishedAt": "2026-10-01T03:19:55.000Z"
       }
     ],
     "subsidyHeadlines": [

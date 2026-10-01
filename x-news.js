@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T07:26:56.088Z",
+  "updatedAt": "2026-10-01T07:47:55.649Z",
   "items": [
     {
       "time": "16:00",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "アクアラインで多重事故 2人死亡"
     },
     {
-      "time": "13:00",
-      "title": "病院でチューブ誤挿入 意識不明",
+      "time": "16:38",
+      "title": "人口水増し指示 富山市幹部ら否定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597160?source=rss",
-      "publishedAt": "2026-10-01T04:00:03.000Z",
-      "xQuery": "病院でチューブ誤挿入 意識不明"
+      "url": "https://news.yahoo.co.jp/pickup/6597178?source=rss",
+      "publishedAt": "2026-10-01T07:38:18.000Z",
+      "xQuery": "人口水増し指示 富山市幹部ら否定"
     },
     {
       "time": "14:39",
