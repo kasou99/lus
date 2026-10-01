@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T14:20:39.193Z",
+  "updatedAt": "2026-10-01T14:44:22.896Z",
   "items": [
-    {
-      "time": "20:54",
-      "title": "青森秋田岩手の3銀行 統合協議へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597211?source=rss",
-      "publishedAt": "2026-10-01T11:54:52.000Z",
-      "xQuery": "青森秋田岩手の3銀行 統合協議へ"
-    },
     {
       "time": "20:19",
       "title": "統一地方選 4月11・25日投票へ",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597206?source=rss",
       "publishedAt": "2026-10-01T11:19:26.000Z",
       "xQuery": "統一地方選 4月11・25日投票へ"
+    },
+    {
+      "time": "19:02",
+      "title": "ビール類の税率一本化 競争激化へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597199?source=rss",
+      "publishedAt": "2026-10-01T10:02:01.000Z",
+      "xQuery": "ビール類の税率一本化 競争激化へ"
     },
     {
       "time": "20:37",
