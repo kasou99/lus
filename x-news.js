@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T09:45:05.284Z",
+  "updatedAt": "2026-10-01T10:19:18.355Z",
   "items": [
     {
-      "time": "16:00",
-      "title": "中継 ニデック新社長らが記者会見",
+      "time": "18:44",
+      "title": "ニデック 上場維持できるかが焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597174?source=rss",
-      "publishedAt": "2026-10-01T07:00:01.000Z",
-      "xQuery": "中継 ニデック新社長らが記者会見"
+      "url": "https://news.yahoo.co.jp/pickup/6597183?source=rss",
+      "publishedAt": "2026-10-01T09:44:22.000Z",
+      "xQuery": "ニデック 上場維持できるかが焦点"
     },
     {
       "time": "17:50",
