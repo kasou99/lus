@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T02:55:55.189Z",
+  "updatedAt": "2026-10-01T03:29:12.233Z",
   "items": [
     {
       "time": "11:19",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "アクアラインで4台事故 1人死亡"
     },
     {
-      "time": "09:31",
-      "title": "飼い犬発見し車外へ はねられ重体",
+      "time": "11:50",
+      "title": "米誌「次世代の100人」に八幡市長",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597137?source=rss",
-      "publishedAt": "2026-10-01T00:31:21.000Z",
-      "xQuery": "飼い犬発見し車外へ はねられ重体"
+      "url": "https://news.yahoo.co.jp/pickup/6597153?source=rss",
+      "publishedAt": "2026-10-01T02:50:47.000Z",
+      "xQuery": "米誌「次世代の100人」に八幡市長"
     }
   ]
 };

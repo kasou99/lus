@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T02:55:54.263Z",
+  "updatedAt": "2026-10-01T03:29:11.520Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "05:00",
         "title": "車向け工作機械受注､8月は44%増 老朽機更新で大型案件",
-        "source": "nikkei.com",
+        "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XZ0FOTjhxMG9pZlI0NmVQSVNUb3FLRnoySTZ5QzQxb0dSdkRnNVo3ZkFtSGJzN19DbFgtX1hoYUxEWDVvYjBlMTE3dEYzbHJMSTFObGwtZktxVFQyaEZ6by1abkhOY3RZWGFFNlp0VndodG92YnAzc014SlQzMUk?oc=5",
         "publishedAt": "2026-09-30T20:00:00.000Z"
       },
@@ -33,7 +33,7 @@
       {
         "time": "15:00",
         "title": "8月の工作機械受注65%増 AI関連・航空宇宙が好調",
-        "source": "nikkei.com",
+        "source": "日本経済新聞",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzWVBnUWRXR0NZQmZoakFUNmVwVWtHamRQTnpEYzlZZ1JtcnNweDNPMWJCZUQxeE0zczVOODRRMHRfeVNFMHBoRHhpbzZ0V0NuVjFhOElObjBhdXpodEw1QVZmVEg2NVFOWE92Zw?oc=5",
         "publishedAt": "2026-09-30T06:00:00.000Z"
       },
@@ -47,16 +47,16 @@
       {
         "time": "18:15",
         "title": "【制御盤、まだ手配線ですか？】ものづくり ワールド［大阪］に初出展",
-        "source": "Excite エキサイト",
+        "source": "excite.co.jp",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44bzRwTGtHX2x6QTg3S1Y4dTNMOVVEcXBfLWw2clJncFp4MzIwazBmWnlOdjNzSGVEM0d3S3pJaGVEV2RzS3otelF2a0ZIaEhWaXo1bXNWektCVFlkSmtRY3FQS3llWmI0NWNDT0thMW81S1U?oc=5",
         "publishedAt": "2026-09-30T09:15:00.000Z"
       },
       {
-        "time": "17:46",
-        "title": "jungwon.seo@mk.co.kr",
-        "source": "매일경제",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TdFQ0R3g3NFZPa2RpVEh3WHlFZURVckZGWFVJem5FMWJqQlRMc1paZ3FPc3pLc0l3cVdBbUZmQkxMVy1hVncwTWFxX3BRZw?oc=5",
-        "publishedAt": "2026-09-30T08:46:32.000Z"
+        "time": "12:29",
+        "title": "道路インフラの点検から工場・プラントの設備保全へ。日東建設、非破壊検査技術を新たな市場へ紹介",
+        "source": "東大阪経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WdnEyYm1yTk1rVjNHZHhuT2xqN0tKbERySFFzLTlaNk1xSW5IZVl4NmE2X3dVRVdUZkw0NllRTDJrUF9Jcnp5eTg0UEMtNXJXeFp1eE1IX01tY28?oc=5",
+        "publishedAt": "2026-09-30T03:29:38.000Z"
       }
     ],
     "worldHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-09-30T23:21:00.000Z"
       },
       {
-        "time": "17:18",
-        "title": "ビル火災報知機 大雨で誤作動多発",
+        "time": "12:19",
+        "title": "ラーメン店の倒産 再び増加傾向に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597080?source=rss",
-        "publishedAt": "2026-09-30T08:18:11.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597158?source=rss",
+        "publishedAt": "2026-10-01T03:19:58.000Z"
       }
     ],
     "localHeadlines": [
@@ -170,11 +170,11 @@
         "publishedAt": "2026-10-01T02:45:16.000Z"
       },
       {
-        "time": "14:58",
-        "title": "沖縄知事 辺野古対策課の廃止表明",
+        "time": "12:00",
+        "title": "11カ月の娘の首絞めた疑い 父逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597062?source=rss",
-        "publishedAt": "2026-09-30T05:58:39.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597155?source=rss",
+        "publishedAt": "2026-10-01T03:00:17.000Z"
       },
       {
         "time": "17:35",
