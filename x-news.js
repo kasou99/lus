@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T05:19:27.676Z",
+  "updatedAt": "2026-10-01T05:43:21.884Z",
   "items": [
     {
       "time": "12:45",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "京都・二条城 二重価格を導入へ"
     },
     {
-      "time": "11:45",
-      "title": "アクアラインで4台事故 1人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597152?source=rss",
-      "publishedAt": "2026-10-01T02:45:16.000Z",
-      "xQuery": "アクアラインで4台事故 1人死亡"
-    },
-    {
       "time": "13:00",
       "title": "病院でチューブ誤挿入 意識不明",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597160?source=rss",
       "publishedAt": "2026-10-01T04:00:03.000Z",
       "xQuery": "病院でチューブ誤挿入 意識不明"
+    },
+    {
+      "time": "14:39",
+      "title": "「ヴァンビ」 白井容疑者を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597167?source=rss",
+      "publishedAt": "2026-10-01T05:39:27.000Z",
+      "xQuery": "「ヴァンビ」 白井容疑者を逮捕"
     }
   ]
 };

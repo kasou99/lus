@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T05:19:27.012Z",
+  "updatedAt": "2026-10-01T05:43:21.110Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,6 +38,13 @@
         "publishedAt": "2026-09-30T06:00:00.000Z"
       },
       {
+        "time": "13:03",
+        "title": "ロングストローク式並列グリッパーの世界市場2026年、グローバル市場規模（2爪並列グリッパー、3爪並列グリッパー）・分",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oVV9zYjhic1FlZE1TZGp2Vmo2MTVTZEVsUGd2RW5LV21DXzVUTkVTaFhSdUg1QV9zWEhfMTFoV0kyVFY5MjYwbHVCXzZST3U4dVlVQV9RVnc0cWxQbVlWVmE2aERxeGZf?oc=5",
+        "publishedAt": "2026-10-01T04:03:15.000Z"
+      },
+      {
         "time": "18:28",
         "title": "株式会社設備保全総合研究所のEMLinkで実現する設備記録のクラウド管理と予防保全の新しい形",
         "source": "ニュースメディアVOIX",
@@ -50,13 +57,6 @@
         "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Sa2VmLWU1NmMxNXYxUjVIbmJvbjR5Rmp6ZC04eldTZUJjUUtPRHVJSy1WaHpqR1VQYWxfVWRBck9yYWE0czRfaXFSOTBYM2U0alQ1cGp1bWEtZ0RHWnNySEJNY1RCaV9RNEE?oc=5",
         "publishedAt": "2026-09-30T06:20:02.000Z"
-      },
-      {
-        "time": "17:46",
-        "title": "jungwon.seo@mk.co.kr",
-        "source": "mk.co.kr",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TdFQ0R3g3NFZPa2RpVEh3WHlFZURVckZGWFVJem5FMWJqQlRMc1paZ3FPc3pLc0l3cVdBbUZmQkxMVy1hVncwTWFxX3BRZw?oc=5",
-        "publishedAt": "2026-09-30T08:46:32.000Z"
       }
     ],
     "worldHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-10-01T03:00:17.000Z"
       },
       {
-        "time": "17:35",
-        "title": "妻の遺体切断し遺棄疑い 医師逮捕",
+        "time": "12:19",
+        "title": "少女にわいせつ動画指示疑い 逮捕",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597086?source=rss",
-        "publishedAt": "2026-09-30T08:35:41.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597156?source=rss",
+        "publishedAt": "2026-10-01T03:19:55.000Z"
       }
     ],
     "subsidyHeadlines": [
