@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T06:33:44.345Z",
+  "updatedAt": "2026-10-01T07:26:56.088Z",
   "items": [
+    {
+      "time": "16:00",
+      "title": "中継 ニデック新社長らが記者会見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597174?source=rss",
+      "publishedAt": "2026-10-01T07:00:01.000Z",
+      "xQuery": "中継 ニデック新社長らが記者会見"
+    },
     {
       "time": "14:20",
       "title": "食料品の消費減税法案 概要判明",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597165?source=rss",
       "publishedAt": "2026-10-01T05:20:06.000Z",
       "xQuery": "食料品の消費減税法案 概要判明"
-    },
-    {
-      "time": "14:57",
-      "title": "日経平均 一時2100円超値上がり",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597168?source=rss",
-      "publishedAt": "2026-10-01T05:57:11.000Z",
-      "xQuery": "日経平均 一時2100円超値上がり"
     },
     {
       "time": "15:22",

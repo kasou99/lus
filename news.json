@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T06:33:43.762Z",
+  "updatedAt": "2026-10-01T07:26:55.268Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-09-30T09:28:33.000Z"
       },
       {
-        "time": "05:00",
-        "title": "台湾経済部、JIMTOFで台湾11社ツアー",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aM0RRbmJxbHRMN0xsU2xpR19XcTVTR2dUeWpKZjJNd2pva1F0dnVubjI5eUdweXlyeEdmNGIyeENxa0VhcEZsSlpweFZWalBXMG5vS0NGdDRKY3ZPWkVSczdsVGZMeTNiQjFnSU5TUQ?oc=5",
-        "publishedAt": "2026-09-30T20:00:00.000Z"
-      },
-      {
         "time": "17:46",
         "title": "jungwon.seo@mk.co.kr",
         "source": "매일경제",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TdFQ0R3g3NFZPa2RpVEh3WHlFZURVckZGWFVJem5FMWJqQlRMc1paZ3FPc3pLc0l3cVdBbUZmQkxMVy1hVncwTWFxX3BRZw?oc=5",
         "publishedAt": "2026-09-30T08:46:32.000Z"
+      },
+      {
+        "time": "13:03",
+        "title": "ロングストローク式並列グリッパーの世界市場2026年、グローバル市場規模（2爪並列グリッパー、3爪並列グリッパー）・分",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oVV9zYjhic1FlZE1TZGp2Vmo2MTVTZEVsUGd2RW5LV21DXzVUTkVTaFhSdUg1QV9zWEhfMTFoV0kyVFY5MjYwbHVCXzZST3U4dVlVQV9RVnc0cWxQbVlWVmE2aERxeGZf?oc=5",
+        "publishedAt": "2026-10-01T04:03:15.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,11 +105,11 @@
     ],
     "economyHeadlines": [
       {
-        "time": "14:57",
-        "title": "日経平均 一時2100円超値上がり",
+        "time": "16:00",
+        "title": "中継 ニデック新社長らが記者会見",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597168?source=rss",
-        "publishedAt": "2026-10-01T05:57:11.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597174?source=rss",
+        "publishedAt": "2026-10-01T07:00:01.000Z"
       },
       {
         "time": "09:48",
