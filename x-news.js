@@ -1,6 +1,22 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T02:04:07.554Z",
+  "updatedAt": "2026-10-01T02:55:55.189Z",
   "items": [
+    {
+      "time": "11:19",
+      "title": "台風27号が発生 来週にかけ北上か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597147?source=rss",
+      "publishedAt": "2026-10-01T02:19:19.000Z",
+      "xQuery": "台風27号が発生 来週にかけ北上か"
+    },
+    {
+      "time": "10:35",
+      "title": "核ごみ調査受け入れ 人口減決め手",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597143?source=rss",
+      "publishedAt": "2026-10-01T01:35:34.000Z",
+      "xQuery": "核ごみ調査受け入れ 人口減決め手"
+    },
     {
       "time": "09:48",
       "title": "大企業製造業 景況感6期連続改善",
@@ -10,28 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "大企業製造業 景況感6期連続改善"
     },
     {
-      "time": "08:38",
-      "title": "首相の所信表明演説 原案が判明",
+      "time": "11:45",
+      "title": "アクアラインで4台事故 1人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597134?source=rss",
-      "publishedAt": "2026-09-30T23:38:27.000Z",
-      "xQuery": "首相の所信表明演説 原案が判明"
-    },
-    {
-      "time": "09:33",
-      "title": "テルアビブ便 乗客らが襲撃者制圧",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597138?source=rss",
-      "publishedAt": "2026-10-01T00:33:56.000Z",
-      "xQuery": "テルアビブ便 乗客らが襲撃者制圧"
-    },
-    {
-      "time": "08:21",
-      "title": "トヨタ 祝日勤務の業界慣行見直し",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597133?source=rss",
-      "publishedAt": "2026-09-30T23:21:00.000Z",
-      "xQuery": "トヨタ 祝日勤務の業界慣行見直し"
+      "url": "https://news.yahoo.co.jp/pickup/6597152?source=rss",
+      "publishedAt": "2026-10-01T02:45:16.000Z",
+      "xQuery": "アクアラインで4台事故 1人死亡"
     },
     {
       "time": "09:31",

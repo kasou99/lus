@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T02:04:06.290Z",
+  "updatedAt": "2026-10-01T02:55:54.263Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,25 +24,11 @@
         "publishedAt": "2026-09-30T08:00:00.000Z"
       },
       {
-        "time": "11:36",
-        "title": "＜新製品＞精密マシニングセンタ「VM-450A(5)」を販売開始 - shibaura-machine.co.jp",
-        "source": "shibaura-machine.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BYS1zT2ZOREtuUW9PZm8wVEVMWk5GSEh3aHdwYUlwUjRvQktkYW9IREtkS3pzM2pjLWNoenRyRUx0X2hYdVVFRWpCaTN3N1UyV1ZNbENnVTBBQXVzVE53U3FCSXpWdXVSaXJJQndUbzRaWEFo?oc=5",
-        "publishedAt": "2026-09-30T02:36:52.000Z"
-      },
-      {
         "time": "17:45",
         "title": "安全と安定稼働を、設備の記録で支える ― AI設備保全システム『EMLink』、商業施設・ホテル・レジャー施設の予防保全をクラウドで一元化",
-        "source": "news.infoseek.co.jp",
+        "source": "Infoseek",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MUHdjY25QeFB4V3NtRE45VkJsZVhsX3ROMnVWSnI3NnNYU3Y5WkNLN0ltenBXZmlxVVNuSElCM1lrUHdTTTFSa3Z0ZHdHc3h3M0xzZFM5V01DeEx5RmdRN05xVjVqOVVIMUFfa0xTT0lYQQ?oc=5",
         "publishedAt": "2026-09-30T08:45:25.000Z"
-      },
-      {
-        "time": "11:33",
-        "title": "クラウド型設備保全管理システム「M2X」を提供する株式会社M2Xと保険持株会社の東京海上ホールディングス株式会社が資本業務提携を締結",
-        "source": "STARTUP LOG",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01QXhvWVc1MFhNQUFlck1PYjlqYlNacENSSEx6cFRsclUxN1M1M0VIaUdYNzZkMzRtN1VzUUJrZFhFaVBkS0lTYjlGeWJGTzg?oc=5",
-        "publishedAt": "2026-09-30T02:33:00.000Z"
       },
       {
         "time": "15:00",
@@ -57,6 +43,20 @@
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUc0Yl83aUxZWnl5LUw4NWxndXVJSl9WQXZHcHoxMkp0bHJhT1dWYU9FNzU1ZDBwYVNQcVV0ajV0NkQ4c1RDWHAzeWM5NzlLSUlRd1JrOVNUSE5ad1JsZ2xVWTNEeGswTkc2eE1OemZKaEpJeGtqcUtOOTNxSnd2eGZTMVk?oc=5",
         "publishedAt": "2026-09-30T09:28:33.000Z"
+      },
+      {
+        "time": "18:15",
+        "title": "【制御盤、まだ手配線ですか？】ものづくり ワールド［大阪］に初出展",
+        "source": "Excite エキサイト",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44bzRwTGtHX2x6QTg3S1Y4dTNMOVVEcXBfLWw2clJncFp4MzIwazBmWnlOdjNzSGVEM0d3S3pJaGVEV2RzS3otelF2a0ZIaEhWaXo1bXNWektCVFlkSmtRY3FQS3llWmI0NWNDT0thMW81S1U?oc=5",
+        "publishedAt": "2026-09-30T09:15:00.000Z"
+      },
+      {
+        "time": "17:46",
+        "title": "jungwon.seo@mk.co.kr",
+        "source": "매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TdFQ0R3g3NFZPa2RpVEh3WHlFZURVckZGWFVJem5FMWJqQlRMc1paZ3FPc3pLc0l3cVdBbUZmQkxMVy1hVncwTWFxX3BRZw?oc=5",
+        "publishedAt": "2026-09-30T08:46:32.000Z"
       }
     ],
     "worldHeadlines": [
@@ -73,6 +73,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597138?source=rss",
         "publishedAt": "2026-10-01T00:33:56.000Z"
+      },
+      {
+        "time": "11:14",
+        "title": "国防長官 米軍将官20%削減と発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597146?source=rss",
+        "publishedAt": "2026-10-01T02:14:11.000Z"
       },
       {
         "time": "22:02",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597046?source=rss",
         "publishedAt": "2026-09-30T03:05:56.000Z"
-      },
-      {
-        "time": "09:41",
-        "title": "習近平政権 岩屋前外相を厚遇",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597025?source=rss",
-        "publishedAt": "2026-09-30T00:41:55.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-09-30T15:02:19.000Z"
       },
       {
+        "time": "11:45",
+        "title": "アクアラインで4台事故 1人死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597152?source=rss",
+        "publishedAt": "2026-10-01T02:45:16.000Z"
+      },
+      {
         "time": "14:58",
         "title": "沖縄知事 辺野古対策課の廃止表明",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597113?source=rss",
         "publishedAt": "2026-09-30T13:43:32.000Z"
-      },
-      {
-        "time": "09:31",
-        "title": "飼い犬発見し車外へ はねられ重体",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597137?source=rss",
-        "publishedAt": "2026-10-01T00:31:21.000Z"
       }
     ],
     "subsidyHeadlines": [
