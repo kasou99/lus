@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T13:44:08.067Z",
+  "updatedAt": "2026-10-01T14:20:39.193Z",
   "items": [
     {
       "time": "20:54",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "無許可でモスク建設 市が撤去命令"
     },
     {
-      "time": "20:31",
-      "title": "滋賀の工場で爆発 男性の遺体発見",
+      "time": "23:02",
+      "title": "「果樹カメムシ類」巡り警報 静岡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597208?source=rss",
-      "publishedAt": "2026-10-01T11:31:37.000Z",
-      "xQuery": "滋賀の工場で爆発 男性の遺体発見"
+      "url": "https://news.yahoo.co.jp/pickup/6597217?source=rss",
+      "publishedAt": "2026-10-01T14:02:02.000Z",
+      "xQuery": "「果樹カメムシ類」巡り警報 静岡"
     },
     {
       "time": "21:24",
