@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T22:39:48.751Z",
+  "updatedAt": "2026-10-01T23:15:39.021Z",
   "items": [
     {
       "time": "07:11",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風27号 4日～小笠原近海北上か"
     },
     {
-      "time": "23:55",
-      "title": "男性が首刺される 隣人の男を逮捕",
+      "time": "07:50",
+      "title": "男性切りつけられる 隣人の男逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597221?source=rss",
-      "publishedAt": "2026-10-01T14:55:44.000Z",
-      "xQuery": "男性が首刺される 隣人の男を逮捕"
-    },
-    {
-      "time": "20:37",
-      "title": "無許可でモスク建設 市が撤去命令",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597207?source=rss",
-      "publishedAt": "2026-10-01T11:37:03.000Z",
-      "xQuery": "無許可でモスク建設 市が撤去命令"
+      "url": "https://news.yahoo.co.jp/pickup/6597232?source=rss",
+      "publishedAt": "2026-10-01T22:50:47.000Z",
+      "xQuery": "男性切りつけられる 隣人の男逮捕"
     },
     {
       "time": "07:00",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597226?source=rss",
       "publishedAt": "2026-10-01T22:00:25.000Z",
       "xQuery": "米死刑囚への刑執行が「失敗」"
+    },
+    {
+      "time": "07:39",
+      "title": "ブルーカラー人気 背景に人手不足",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597230?source=rss",
+      "publishedAt": "2026-10-01T22:39:17.000Z",
+      "xQuery": "ブルーカラー人気 背景に人手不足"
     }
   ]
 };
