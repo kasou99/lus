@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T03:51:58.181Z",
+  "updatedAt": "2026-10-01T04:22:42.187Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -47,7 +47,7 @@
       {
         "time": "17:46",
         "title": "jungwon.seo@mk.co.kr",
-        "source": "매일경제",
+        "source": "mk.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TdFQ0R3g3NFZPa2RpVEh3WHlFZURVckZGWFVJem5FMWJqQlRMc1paZ3FPc3pLc0l3cVdBbUZmQkxMVy1hVncwTWFxX3BRZw?oc=5",
         "publishedAt": "2026-09-30T08:46:32.000Z"
       },
@@ -170,6 +170,13 @@
         "publishedAt": "2026-10-01T02:45:16.000Z"
       },
       {
+        "time": "13:00",
+        "title": "病院でチューブ誤挿入 意識不明",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597160?source=rss",
+        "publishedAt": "2026-10-01T04:00:03.000Z"
+      },
+      {
         "time": "12:00",
         "title": "11カ月の娘の首絞めた疑い 父逮捕",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597086?source=rss",
         "publishedAt": "2026-09-30T08:35:41.000Z"
-      },
-      {
-        "time": "22:43",
-        "title": "ネイリスト殺害 納得できないと夫",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597113?source=rss",
-        "publishedAt": "2026-09-30T13:43:32.000Z"
       }
     ],
     "subsidyHeadlines": [

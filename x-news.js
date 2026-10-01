@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T03:51:59.264Z",
+  "updatedAt": "2026-10-01T04:22:43.005Z",
   "items": [
     {
       "time": "12:45",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "アクアラインで4台事故 1人死亡"
     },
     {
-      "time": "11:50",
-      "title": "米誌「次世代の100人」に八幡市長",
+      "time": "13:00",
+      "title": "病院でチューブ誤挿入 意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597153?source=rss",
-      "publishedAt": "2026-10-01T02:50:47.000Z",
-      "xQuery": "米誌「次世代の100人」に八幡市長"
+      "url": "https://news.yahoo.co.jp/pickup/6597160?source=rss",
+      "publishedAt": "2026-10-01T04:00:03.000Z",
+      "xQuery": "病院でチューブ誤挿入 意識不明"
     }
   ]
 };
