@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T08:50:27.000Z",
+  "updatedAt": "2026-10-01T09:22:44.909Z",
   "items": [
     {
       "time": "16:00",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "中継 ニデック新社長らが記者会見"
     },
     {
-      "time": "14:20",
-      "title": "食料品の消費減税法案 概要判明",
+      "time": "17:45",
+      "title": "9月降水量 東日本で統計史上最多",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597165?source=rss",
-      "publishedAt": "2026-10-01T05:20:06.000Z",
-      "xQuery": "食料品の消費減税法案 概要判明"
-    },
-    {
-      "time": "15:22",
-      "title": "アクアラインで多重事故 2人死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597171?source=rss",
-      "publishedAt": "2026-10-01T06:22:08.000Z",
-      "xQuery": "アクアラインで多重事故 2人死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6597188?source=rss",
+      "publishedAt": "2026-10-01T08:45:27.000Z",
+      "xQuery": "9月降水量 東日本で統計史上最多"
     },
     {
       "time": "16:58",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597181?source=rss",
       "publishedAt": "2026-10-01T07:58:11.000Z",
       "xQuery": "交差点で事故 歩行者5人が重軽傷"
+    },
+    {
+      "time": "17:50",
+      "title": "フラット35 金利3.830%で過去最高",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597190?source=rss",
+      "publishedAt": "2026-10-01T08:50:31.000Z",
+      "xQuery": "フラット35 金利3.830%で過去最高"
     },
     {
       "time": "17:30",

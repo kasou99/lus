@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T08:50:23.710Z",
+  "updatedAt": "2026-10-01T09:22:44.305Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -52,11 +52,11 @@
         "publishedAt": "2026-09-30T13:45:24.000Z"
       },
       {
-        "time": "13:03",
-        "title": "ロングストローク式並列グリッパーの世界市場2026年、グローバル市場規模（2爪並列グリッパー、3爪並列グリッパー）・分",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oVV9zYjhic1FlZE1TZGp2Vmo2MTVTZEVsUGd2RW5LV21DXzVUTkVTaFhSdUg1QV9zWEhfMTFoV0kyVFY5MjYwbHVCXzZST3U4dVlVQV9RVnc0cWxQbVlWVmE2aERxeGZf?oc=5",
-        "publishedAt": "2026-10-01T04:03:15.000Z"
+        "time": "05:00",
+        "title": "10月の統計の発表予定や記事は「統計カレンダー」から",
+        "source": "日本経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wZTItcUNDZ2lPQzBMTHNjcmtCc3RLVkRIUF9NSWxjeFRBWXVRRjVqY2tHRjV6dWVFMVVJZUpmRThMRUhpXzNPbGtwRExma0xERVpidm9pMUFuc2dRSDJoNDNZUmJBZDk4YjVBT19kdXREWHlsR0NneFFjR05Oa0E?oc=5",
+        "publishedAt": "2026-09-30T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,11 +112,18 @@
         "publishedAt": "2026-10-01T07:00:01.000Z"
       },
       {
-        "time": "09:48",
-        "title": "大企業製造業 景況感6期連続改善",
+        "time": "17:50",
+        "title": "フラット35 金利3.830%で過去最高",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597141?source=rss",
-        "publishedAt": "2026-10-01T00:48:29.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597190?source=rss",
+        "publishedAt": "2026-10-01T08:50:31.000Z"
+      },
+      {
+        "time": "17:55",
+        "title": "ドンキ運営 トイザらス事業を取得",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597192?source=rss",
+        "publishedAt": "2026-10-01T08:55:24.000Z"
       },
       {
         "time": "08:21",
@@ -131,13 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597164?source=rss",
         "publishedAt": "2026-10-01T04:54:08.000Z"
-      },
-      {
-        "time": "07:43",
-        "title": "ニデック極まる混乱 再生不透明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597129?source=rss",
-        "publishedAt": "2026-09-30T22:43:59.000Z"
       },
       {
         "time": "09:53",
