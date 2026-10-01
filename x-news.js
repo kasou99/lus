@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T23:15:39.021Z",
+  "updatedAt": "2026-10-01T23:38:54.388Z",
   "items": [
     {
       "time": "07:11",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トランプ氏 習氏へ日中対話促す"
     },
     {
-      "time": "06:57",
-      "title": "台風27号 4日～小笠原近海北上か",
+      "time": "07:40",
+      "title": "JR内房線の不通 学校現場に混乱",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597225?source=rss",
-      "publishedAt": "2026-10-01T21:57:13.000Z",
-      "xQuery": "台風27号 4日～小笠原近海北上か"
+      "url": "https://news.yahoo.co.jp/pickup/6597231?source=rss",
+      "publishedAt": "2026-10-01T22:40:45.000Z",
+      "xQuery": "JR内房線の不通 学校現場に混乱"
     },
     {
       "time": "07:50",
