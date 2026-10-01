@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T20:42:51.021Z",
+  "updatedAt": "2026-10-01T21:16:49.432Z",
   "items": [
     {
       "time": "20:19",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "無許可でモスク建設 市が撤去命令"
     },
     {
-      "time": "23:38",
-      "title": "スイス氷河 過去5年で2割消失",
+      "time": "21:24",
+      "title": "マックのドナルド 「ロナルド」に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597220?source=rss",
-      "publishedAt": "2026-10-01T14:38:16.000Z",
-      "xQuery": "スイス氷河 過去5年で2割消失"
+      "url": "https://news.yahoo.co.jp/pickup/6597212?source=rss",
+      "publishedAt": "2026-10-01T12:24:25.000Z",
+      "xQuery": "マックのドナルド 「ロナルド」に"
     }
   ]
 };
