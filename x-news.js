@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T04:46:22.302Z",
+  "updatedAt": "2026-10-01T05:19:27.676Z",
   "items": [
     {
       "time": "12:45",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "国防長官 米軍将官20%削減と発表"
     },
     {
-      "time": "11:19",
-      "title": "台風27号が発生 来週にかけ北上か",
+      "time": "13:54",
+      "title": "京都・二条城 二重価格を導入へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597147?source=rss",
-      "publishedAt": "2026-10-01T02:19:19.000Z",
-      "xQuery": "台風27号が発生 来週にかけ北上か"
+      "url": "https://news.yahoo.co.jp/pickup/6597164?source=rss",
+      "publishedAt": "2026-10-01T04:54:08.000Z",
+      "xQuery": "京都・二条城 二重価格を導入へ"
     },
     {
       "time": "11:45",
