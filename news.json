@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-01T11:40:48.325Z",
+  "updatedAt": "2026-10-01T12:29:35.647Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "09:30",
         "title": "【設備保全DX】第29回 ものづくり ワールド [大阪]に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "prtimes.jp",
+        "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ob1FGSUhXT1BIejMyb292VFNvbTZ1N1NsZ2k4RjhFZGlIQk5MQ1NZUWtSM2xmZlJGbXhBWEJZaWRFOWgyLXF6ZkE1MzlKeWJ2clp3Nnp2RnBZclgtU2F3cVdacGNkRnJuMXc?oc=5",
         "publishedAt": "2026-10-01T00:30:02.000Z"
       },
       {
         "time": "19:00",
-        "title": "【制御盤DXと設計・製造の未来】「EPLAN NETWORK 2026」パネルディスカッション「設計データはどこまでつながるのか― 設計から製造までのデータ活用を考える ―」",
-        "source": "オートメーション新聞WEB",
+        "title": "【制御盤DXと設計・製造の未来】「EPLAN NETWORK 2026」パネルディスカッション「設計データはどこまでつながるのか― 設計から製造までのデータ活用を考える ―」 - automation-news.jp",
+        "source": "automation-news.jp",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DR3JNanJrMk9lSldLQWxDbklWcVN0QnVMVkwyNFlZdm93U1NoRHdWUVBCYmdhZUdQZ0pfRzVOQ0hvZm5lYTJCd1F4NkxRTEdIblcyUTA4cUt2QQ?oc=5",
         "publishedAt": "2026-10-01T10:00:00.000Z"
       },
@@ -32,9 +32,9 @@
       },
       {
         "time": "05:00",
-        "title": "インタビュー／大王製紙取締役常務執行役員紙・板紙事業部長の藤井喜継氏 「原紙＋付加価値」提案",
+        "title": "台湾経済部、JIMTOFで台湾11社ツアー",
         "source": "nikkan.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4NjdzNE1tYkFqMVJsRU5YYURHOTMyQkZiaWpvY3pUbUQxRm9nQUs2Sm90bGtDOS1yd2xlNmg4eUhnem1zZ0lsSHlweGpTQnhEYTFuTkp6dTA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aM0RRbmJxbHRMN0xsU2xpR19XcTVTR2dUeWpKZjJNd2pva1F0dnVubjI5eUdweXlyeEdmNGIyeENxa0VhcEZsSlpweFZWalBXMG5vS0NGdDRKY3ZPWkVSczdsVGZMeTNiQjFnSU5TUQ?oc=5",
         "publishedAt": "2026-09-30T20:00:00.000Z"
       },
       {
@@ -53,9 +53,9 @@
       },
       {
         "time": "05:00",
-        "title": "10月の統計の発表予定や記事は「統計カレンダー」から",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wZTItcUNDZ2lPQzBMTHNjcmtCc3RLVkRIUF9NSWxjeFRBWXVRRjVqY2tHRjV6dWVFMVVJZUpmRThMRUhpXzNPbGtwRExma0xERVpidm9pMUFuc2dRSDJoNDNZUmJBZDk4YjVBT19kdXREWHlsR0NneFFjR05Oa0E?oc=5",
+        "title": "インタビュー／大王製紙取締役常務執行役員紙・板紙事業部長の藤井喜継氏 「原紙＋付加価値」提案",
+        "source": "nikkan.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4NjdzNE1tYkFqMVJsRU5YYURHOTMyQkZiaWpvY3pUbUQxRm9nQUs2Sm90bGtDOS1yd2xlNmg4eUhnem1zZ0lsSHlweGpTQnhEYTFuTkp6dTA?oc=5",
         "publishedAt": "2026-09-30T20:00:00.000Z"
       }
     ],
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "20:54",
+        "title": "青森秋田岩手の3銀行 統合協議へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597211?source=rss",
+        "publishedAt": "2026-10-01T11:54:52.000Z"
+      },
+      {
         "time": "18:44",
         "title": "ニデック 上場維持できるかが焦点",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597133?source=rss",
         "publishedAt": "2026-09-30T23:21:00.000Z"
-      },
-      {
-        "time": "13:54",
-        "title": "京都・二条城 二重価格を導入へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597164?source=rss",
-        "publishedAt": "2026-10-01T04:54:08.000Z"
       }
     ],
     "localHeadlines": [

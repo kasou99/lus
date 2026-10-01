@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T11:40:49.322Z",
+  "updatedAt": "2026-10-01T12:29:36.401Z",
   "items": [
+    {
+      "time": "20:54",
+      "title": "青森秋田岩手の3銀行 統合協議へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597211?source=rss",
+      "publishedAt": "2026-10-01T11:54:52.000Z",
+      "xQuery": "青森秋田岩手の3銀行 統合協議へ"
+    },
     {
       "time": "18:44",
       "title": "ニデック 上場維持できるかが焦点",
@@ -10,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ニデック 上場維持できるかが焦点"
     },
     {
-      "time": "17:50",
-      "title": "フラット35 金利3.830%で過去最高",
+      "time": "20:37",
+      "title": "無許可でモスク建設 市が撤去命令",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597190?source=rss",
-      "publishedAt": "2026-10-01T08:50:31.000Z",
-      "xQuery": "フラット35 金利3.830%で過去最高"
-    },
-    {
-      "time": "20:13",
-      "title": "2日は関東で雨 服装選びにも注意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597204?source=rss",
-      "publishedAt": "2026-10-01T11:13:35.000Z",
-      "xQuery": "2日は関東で雨 服装選びにも注意"
+      "url": "https://news.yahoo.co.jp/pickup/6597207?source=rss",
+      "publishedAt": "2026-10-01T11:37:03.000Z",
+      "xQuery": "無許可でモスク建設 市が撤去命令"
     },
     {
       "time": "20:31",
