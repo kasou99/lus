@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T14:44:22.896Z",
+  "updatedAt": "2026-10-01T15:19:02.523Z",
   "items": [
     {
       "time": "20:19",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "統一地方選 4月11・25日投票へ"
     },
     {
-      "time": "19:02",
-      "title": "ビール類の税率一本化 競争激化へ",
+      "time": "18:08",
+      "title": "早紀江さん 拉致巡り「いらだち」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597199?source=rss",
-      "publishedAt": "2026-10-01T10:02:01.000Z",
-      "xQuery": "ビール類の税率一本化 競争激化へ"
+      "url": "https://news.yahoo.co.jp/pickup/6597193?source=rss",
+      "publishedAt": "2026-10-01T09:08:46.000Z",
+      "xQuery": "早紀江さん 拉致巡り「いらだち」"
+    },
+    {
+      "time": "23:55",
+      "title": "男性が首刺される 隣人の男を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597221?source=rss",
+      "publishedAt": "2026-10-01T14:55:44.000Z",
+      "xQuery": "男性が首刺される 隣人の男を逮捕"
     },
     {
       "time": "20:37",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "無許可でモスク建設 市が撤去命令"
     },
     {
-      "time": "23:02",
-      "title": "「果樹カメムシ類」巡り警報 静岡",
+      "time": "23:38",
+      "title": "スイス氷河 過去5年で2割消失",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597217?source=rss",
-      "publishedAt": "2026-10-01T14:02:02.000Z",
-      "xQuery": "「果樹カメムシ類」巡り警報 静岡"
-    },
-    {
-      "time": "21:24",
-      "title": "マックのドナルド 「ロナルド」に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597212?source=rss",
-      "publishedAt": "2026-10-01T12:24:25.000Z",
-      "xQuery": "マックのドナルド 「ロナルド」に"
+      "url": "https://news.yahoo.co.jp/pickup/6597220?source=rss",
+      "publishedAt": "2026-10-01T14:38:16.000Z",
+      "xQuery": "スイス氷河 過去5年で2割消失"
     }
   ]
 };
