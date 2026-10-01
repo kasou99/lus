@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T12:29:36.401Z",
+  "updatedAt": "2026-10-01T12:54:38.413Z",
   "items": [
     {
       "time": "20:54",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "青森秋田岩手の3銀行 統合協議へ"
     },
     {
-      "time": "18:44",
-      "title": "ニデック 上場維持できるかが焦点",
+      "time": "20:19",
+      "title": "統一地方選 4月11・25日投票へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597183?source=rss",
-      "publishedAt": "2026-10-01T09:44:22.000Z",
-      "xQuery": "ニデック 上場維持できるかが焦点"
+      "url": "https://news.yahoo.co.jp/pickup/6597206?source=rss",
+      "publishedAt": "2026-10-01T11:19:26.000Z",
+      "xQuery": "統一地方選 4月11・25日投票へ"
     },
     {
       "time": "20:37",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "滋賀の工場で爆発 男性の遺体発見"
     },
     {
-      "time": "19:33",
-      "title": "横断歩道で事故 1人死亡4人けが",
+      "time": "21:24",
+      "title": "マックのドナルド 「ロナルド」に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597203?source=rss",
-      "publishedAt": "2026-10-01T10:33:19.000Z",
-      "xQuery": "横断歩道で事故 1人死亡4人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6597212?source=rss",
+      "publishedAt": "2026-10-01T12:24:25.000Z",
+      "xQuery": "マックのドナルド 「ロナルド」に"
     }
   ]
 };
