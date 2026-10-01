@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T08:28:01.731Z",
+  "updatedAt": "2026-10-01T08:50:27.000Z",
   "items": [
     {
       "time": "16:00",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "交差点で事故 歩行者5人が重軽傷"
     },
     {
-      "time": "14:39",
-      "title": "「ヴァンビ」 白井容疑者を逮捕",
+      "time": "17:30",
+      "title": "マック一部バーガー 北海道で休止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597167?source=rss",
-      "publishedAt": "2026-10-01T05:39:27.000Z",
-      "xQuery": "「ヴァンビ」 白井容疑者を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6597187?source=rss",
+      "publishedAt": "2026-10-01T08:30:23.000Z",
+      "xQuery": "マック一部バーガー 北海道で休止"
     }
   ]
 };

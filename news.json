@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T08:28:01.094Z",
+  "updatedAt": "2026-10-01T08:50:23.710Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-09-30T20:00:00.000Z"
       },
       {
-        "time": "17:46",
-        "title": "安全と安定稼働を、設備の記録で支える ― AI設備保全システム『EMLink』、商業施設・ホテル・レジャー施設の予防保全をクラウドで一元化",
-        "source": "時事ドットコム",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IZVJzbGk0b05yQUxDVlRncGhUMnhXaDZKcEtnMnVpRDBjam1YS1RiWkI2NURSTjJTZ1VHMHRBRW1UTEwwRXBmenpRRFpKWHh3UV9VY3BlSnZ2LXhKakxNQmVIX3lTODg4YmpF?oc=5",
-        "publishedAt": "2026-09-30T08:46:00.000Z"
-      },
-      {
         "time": "15:04",
         "title": "日本のIGBT パワーモジュール市場の最新動向",
         "source": "pando.life",
@@ -47,16 +40,23 @@
       {
         "time": "18:28",
         "title": "株式会社設備保全総合研究所のEMLinkで実現する設備記録のクラウド管理と予防保全の新しい形",
-        "source": "voix.jp",
+        "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUc0Yl83aUxZWnl5LUw4NWxndXVJSl9WQXZHcHoxMkp0bHJhT1dWYU9FNzU1ZDBwYVNQcVV0ajV0NkQ4c1RDWHAzeWM5NzlLSUlRd1JrOVNUSE5ad1JsZ2xVWTNEeGswTkc2eE1OemZKaEpJeGtqcUtOOTNxSnd2eGZTMVk?oc=5",
         "publishedAt": "2026-09-30T09:28:33.000Z"
       },
       {
-        "time": "17:46",
-        "title": "jungwon.seo@mk.co.kr",
-        "source": "매일경제",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TdFQ0R3g3NFZPa2RpVEh3WHlFZURVckZGWFVJem5FMWJqQlRMc1paZ3FPc3pLc0l3cVdBbUZmQkxMVy1hVncwTWFxX3BRZw?oc=5",
-        "publishedAt": "2026-09-30T08:46:32.000Z"
+        "time": "22:45",
+        "title": "日本メカケミカルが「JIMTOF2026」に出展！錆取り実演など工業用化学製品を展示",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90S0NuSzF3N0RQcVZuSVZ1MWNINy1waXNuUkh2WWRMclc0T3JYWHIyTWdCY3NfZl9SaWJ5WnY2Vzhic281SGZkMS1UTzExQ2lQNl9XQmtCdmt3QW52SThtX3RUOGpxTk1pdGVXeDZTQU9adw?oc=5",
+        "publishedAt": "2026-09-30T13:45:24.000Z"
+      },
+      {
+        "time": "13:03",
+        "title": "ロングストローク式並列グリッパーの世界市場2026年、グローバル市場規模（2爪並列グリッパー、3爪並列グリッパー）・分",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oVV9zYjhic1FlZE1TZGp2Vmo2MTVTZEVsUGd2RW5LV21DXzVUTkVTaFhSdUg1QV9zWEhfMTFoV0kyVFY5MjYwbHVCXzZST3U4dVlVQV9RVnc0cWxQbVlWVmE2aERxeGZf?oc=5",
+        "publishedAt": "2026-10-01T04:03:15.000Z"
       }
     ],
     "worldHeadlines": [
