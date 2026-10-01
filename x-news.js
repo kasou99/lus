@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T21:41:16.884Z",
+  "updatedAt": "2026-10-01T22:16:38.400Z",
   "items": [
     {
-      "time": "20:19",
-      "title": "統一地方選 4月11・25日投票へ",
+      "time": "07:11",
+      "title": "トランプ氏 習氏へ日中対話促す",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597206?source=rss",
-      "publishedAt": "2026-10-01T11:19:26.000Z",
-      "xQuery": "統一地方選 4月11・25日投票へ"
+      "url": "https://news.yahoo.co.jp/pickup/6597227?source=rss",
+      "publishedAt": "2026-10-01T22:11:42.000Z",
+      "xQuery": "トランプ氏 習氏へ日中対話促す"
     },
     {
-      "time": "18:08",
-      "title": "早紀江さん 拉致巡り「いらだち」",
+      "time": "06:57",
+      "title": "台風27号 4日～小笠原近海北上か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597193?source=rss",
-      "publishedAt": "2026-10-01T09:08:46.000Z",
-      "xQuery": "早紀江さん 拉致巡り「いらだち」"
+      "url": "https://news.yahoo.co.jp/pickup/6597225?source=rss",
+      "publishedAt": "2026-10-01T21:57:13.000Z",
+      "xQuery": "台風27号 4日～小笠原近海北上か"
     },
     {
       "time": "23:55",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "無許可でモスク建設 市が撤去命令"
     },
     {
-      "time": "21:24",
-      "title": "マックのドナルド 「ロナルド」に",
+      "time": "07:00",
+      "title": "米死刑囚への刑執行が「失敗」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597212?source=rss",
-      "publishedAt": "2026-10-01T12:24:25.000Z",
-      "xQuery": "マックのドナルド 「ロナルド」に"
+      "url": "https://news.yahoo.co.jp/pickup/6597226?source=rss",
+      "publishedAt": "2026-10-01T22:00:25.000Z",
+      "xQuery": "米死刑囚への刑執行が「失敗」"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T21:41:15.607Z",
+  "updatedAt": "2026-10-01T22:16:37.716Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DR3JNanJrMk9lSldLQWxDbklWcVN0QnVMVkwyNFlZdm93U1NoRHdWUVBCYmdhZUdQZ0pfRzVOQ0hvZm5lYTJCd1F4NkxRTEdIblcyUTA4cUt2QQ?oc=5",
         "publishedAt": "2026-10-01T10:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "和井田製作所、ナノ台の高精度研磨 レーザー加工機",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qNTFmQ0F6SnRaMlMwcjRfVnRNeHdUakt5dnB5V2NJb3VNWklWa2l5SEMtM3hTMFp6NjBGWkhfUXVDSU14SF9Pck5Ra1pMZTB4WmpxWkhFWEk?oc=5",
+        "publishedAt": "2026-10-01T20:00:00.000Z"
       },
       {
         "time": "09:30",
@@ -38,13 +45,6 @@
         "publishedAt": "2026-10-01T07:41:07.000Z"
       },
       {
-        "time": "07:15",
-        "title": "【制御盤、まだ手配線ですか？】ものづくり ワールド［大阪］に初出展",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PYll5Z1M5UGRJU3hkZ0JaOUJBLXhQTjlTajVuWTVKQWhkUFBXZjVuMGdSLXZ0eWEyTzJoZUI5NklnRFB2azQtdGdPNG4ybThVUWF6R2VFS1NLUjdMYWRROWdNai02b3Zq?oc=5",
-        "publishedAt": "2026-09-30T22:15:26.000Z"
-      },
-      {
         "time": "00:31",
         "title": "精密リニアガイドウェイ市場2035年までの見通し：オートメーションと半導体需要が成長を牽引 - ニュースと統計",
         "source": "IndexBox",
@@ -60,6 +60,13 @@
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:11",
+        "title": "トランプ氏 習氏へ日中対話促す",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597227?source=rss",
+        "publishedAt": "2026-10-01T22:11:42.000Z"
+      },
       {
         "time": "07:17",
         "title": "テルアビブ便 副操縦士が機長刺す",
@@ -89,18 +96,11 @@
         "publishedAt": "2026-09-30T13:02:02.000Z"
       },
       {
-        "time": "13:32",
-        "title": "ウ侵攻 通信インフラの防御策焦点",
+        "time": "11:50",
+        "title": "米誌「次世代の100人」に八幡市長",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597051?source=rss",
-        "publishedAt": "2026-09-30T04:32:47.000Z"
-      },
-      {
-        "time": "13:55",
-        "title": "モロッコ初の女性首相 組閣へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597059?source=rss",
-        "publishedAt": "2026-09-30T04:55:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597153?source=rss",
+        "publishedAt": "2026-10-01T02:50:47.000Z"
       }
     ],
     "economyHeadlines": [
