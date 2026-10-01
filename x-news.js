@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T05:43:21.884Z",
+  "updatedAt": "2026-10-01T06:33:44.345Z",
   "items": [
     {
-      "time": "12:45",
-      "title": "自民生稲・朝日氏 公選法違反疑い",
+      "time": "14:20",
+      "title": "食料品の消費減税法案 概要判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597159?source=rss",
-      "publishedAt": "2026-10-01T03:45:39.000Z",
-      "xQuery": "自民生稲・朝日氏 公選法違反疑い"
+      "url": "https://news.yahoo.co.jp/pickup/6597165?source=rss",
+      "publishedAt": "2026-10-01T05:20:06.000Z",
+      "xQuery": "食料品の消費減税法案 概要判明"
     },
     {
-      "time": "11:14",
-      "title": "国防長官 米軍将官20%削減と発表",
+      "time": "14:57",
+      "title": "日経平均 一時2100円超値上がり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597146?source=rss",
-      "publishedAt": "2026-10-01T02:14:11.000Z",
-      "xQuery": "国防長官 米軍将官20%削減と発表"
+      "url": "https://news.yahoo.co.jp/pickup/6597168?source=rss",
+      "publishedAt": "2026-10-01T05:57:11.000Z",
+      "xQuery": "日経平均 一時2100円超値上がり"
     },
     {
-      "time": "13:54",
-      "title": "京都・二条城 二重価格を導入へ",
+      "time": "15:22",
+      "title": "アクアラインで多重事故 2人死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597164?source=rss",
-      "publishedAt": "2026-10-01T04:54:08.000Z",
-      "xQuery": "京都・二条城 二重価格を導入へ"
+      "url": "https://news.yahoo.co.jp/pickup/6597171?source=rss",
+      "publishedAt": "2026-10-01T06:22:08.000Z",
+      "xQuery": "アクアラインで多重事故 2人死亡"
     },
     {
       "time": "13:00",

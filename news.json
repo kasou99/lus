@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T05:43:21.110Z",
+  "updatedAt": "2026-10-01T06:33:43.762Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,6 +17,13 @@
         "publishedAt": "2026-09-30T20:00:00.000Z"
       },
       {
+        "time": "07:15",
+        "title": "【制御盤、まだ手配線ですか？】ものづくり ワールド［大阪］に初出展",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PYll5Z1M5UGRJU3hkZ0JaOUJBLXhQTjlTajVuWTVKQWhkUFBXZjVuMGdSLXZ0eWEyTzJoZUI5NklnRFB2azQtdGdPNG4ybThVUWF6R2VFS1NLUjdMYWRROWdNai02b3Zq?oc=5",
+        "publishedAt": "2026-09-30T22:15:26.000Z"
+      },
+      {
         "time": "17:00",
         "title": "８月の工作機械受注 64％増 北米アジア伸び歴代2位",
         "source": "日刊工業新聞",
@@ -31,20 +38,6 @@
         "publishedAt": "2026-09-30T08:46:00.000Z"
       },
       {
-        "time": "15:00",
-        "title": "8月の工作機械受注65%増 AI関連・航空宇宙が好調",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzWVBnUWRXR0NZQmZoakFUNmVwVWtHamRQTnpEYzlZZ1JtcnNweDNPMWJCZUQxeE0zczVOODRRMHRfeVNFMHBoRHhpbzZ0V0NuVjFhOElObjBhdXpodEw1QVZmVEg2NVFOWE92Zw?oc=5",
-        "publishedAt": "2026-09-30T06:00:00.000Z"
-      },
-      {
-        "time": "13:03",
-        "title": "ロングストローク式並列グリッパーの世界市場2026年、グローバル市場規模（2爪並列グリッパー、3爪並列グリッパー）・分",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oVV9zYjhic1FlZE1TZGp2Vmo2MTVTZEVsUGd2RW5LV21DXzVUTkVTaFhSdUg1QV9zWEhfMTFoV0kyVFY5MjYwbHVCXzZST3U4dVlVQV9RVnc0cWxQbVlWVmE2aERxeGZf?oc=5",
-        "publishedAt": "2026-10-01T04:03:15.000Z"
-      },
-      {
         "time": "18:28",
         "title": "株式会社設備保全総合研究所のEMLinkで実現する設備記録のクラウド管理と予防保全の新しい形",
         "source": "ニュースメディアVOIX",
@@ -52,11 +45,18 @@
         "publishedAt": "2026-09-30T09:28:33.000Z"
       },
       {
-        "time": "15:20",
-        "title": "【制御盤、まだ手配線ですか？】ものづくり ワールド［大阪］に初出展",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Sa2VmLWU1NmMxNXYxUjVIbmJvbjR5Rmp6ZC04eldTZUJjUUtPRHVJSy1WaHpqR1VQYWxfVWRBck9yYWE0czRfaXFSOTBYM2U0alQ1cGp1bWEtZ0RHWnNySEJNY1RCaV9RNEE?oc=5",
-        "publishedAt": "2026-09-30T06:20:02.000Z"
+        "time": "05:00",
+        "title": "台湾経済部、JIMTOFで台湾11社ツアー",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aM0RRbmJxbHRMN0xsU2xpR19XcTVTR2dUeWpKZjJNd2pva1F0dnVubjI5eUdweXlyeEdmNGIyeENxa0VhcEZsSlpweFZWalBXMG5vS0NGdDRKY3ZPWkVSczdsVGZMeTNiQjFnSU5TUQ?oc=5",
+        "publishedAt": "2026-09-30T20:00:00.000Z"
+      },
+      {
+        "time": "17:46",
+        "title": "jungwon.seo@mk.co.kr",
+        "source": "매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TdFQ0R3g3NFZPa2RpVEh3WHlFZURVckZGWFVJem5FMWJqQlRMc1paZ3FPc3pLc0l3cVdBbUZmQkxMVy1hVncwTWFxX3BRZw?oc=5",
+        "publishedAt": "2026-09-30T08:46:32.000Z"
       }
     ],
     "worldHeadlines": [
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "14:57",
+        "title": "日経平均 一時2100円超値上がり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597168?source=rss",
+        "publishedAt": "2026-10-01T05:57:11.000Z"
+      },
+      {
         "time": "09:48",
         "title": "大企業製造業 景況感6期連続改善",
         "source": "Yahoo!ニュース",
@@ -133,13 +140,6 @@
         "publishedAt": "2026-09-30T22:43:59.000Z"
       },
       {
-        "time": "17:05",
-        "title": "ニデック25年度決算 5646億円赤字",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597077?source=rss",
-        "publishedAt": "2026-09-30T08:05:15.000Z"
-      },
-      {
         "time": "09:53",
         "title": "NTT東西 固定電話の通話料値上げ",
         "source": "Yahoo!ニュース",
@@ -163,11 +163,11 @@
         "publishedAt": "2026-09-30T15:02:19.000Z"
       },
       {
-        "time": "11:45",
-        "title": "アクアラインで4台事故 1人死亡",
+        "time": "15:22",
+        "title": "アクアラインで多重事故 2人死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597152?source=rss",
-        "publishedAt": "2026-10-01T02:45:16.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597171?source=rss",
+        "publishedAt": "2026-10-01T06:22:08.000Z"
       },
       {
         "time": "13:00",
