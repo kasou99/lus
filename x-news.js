@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T10:19:18.355Z",
+  "updatedAt": "2026-10-01T10:42:40.579Z",
   "items": [
     {
       "time": "18:44",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "9月降水量 東日本で統計史上最多"
     },
     {
-      "time": "16:58",
-      "title": "交差点で事故 歩行者5人が重軽傷",
+      "time": "19:33",
+      "title": "横断歩道で事故 1人死亡4人けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597181?source=rss",
-      "publishedAt": "2026-10-01T07:58:11.000Z",
-      "xQuery": "交差点で事故 歩行者5人が重軽傷"
+      "url": "https://news.yahoo.co.jp/pickup/6597203?source=rss",
+      "publishedAt": "2026-10-01T10:33:19.000Z",
+      "xQuery": "横断歩道で事故 1人死亡4人けが"
     },
     {
       "time": "17:30",
