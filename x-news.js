@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T07:47:55.649Z",
+  "updatedAt": "2026-10-01T08:28:01.731Z",
   "items": [
     {
       "time": "16:00",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "アクアラインで多重事故 2人死亡"
     },
     {
-      "time": "16:38",
-      "title": "人口水増し指示 富山市幹部ら否定",
+      "time": "16:58",
+      "title": "交差点で事故 歩行者5人が重軽傷",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597178?source=rss",
-      "publishedAt": "2026-10-01T07:38:18.000Z",
-      "xQuery": "人口水増し指示 富山市幹部ら否定"
+      "url": "https://news.yahoo.co.jp/pickup/6597181?source=rss",
+      "publishedAt": "2026-10-01T07:58:11.000Z",
+      "xQuery": "交差点で事故 歩行者5人が重軽傷"
     },
     {
       "time": "14:39",
