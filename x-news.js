@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T01:01:17.854Z",
+  "updatedAt": "2026-10-01T02:04:07.554Z",
   "items": [
     {
-      "time": "08:44",
-      "title": "農相 地元自治体の予算カット発言",
+      "time": "09:48",
+      "title": "大企業製造業 景況感6期連続改善",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597135?source=rss",
-      "publishedAt": "2026-09-30T23:44:32.000Z",
-      "xQuery": "農相 地元自治体の予算カット発言"
+      "url": "https://news.yahoo.co.jp/pickup/6597141?source=rss",
+      "publishedAt": "2026-10-01T00:48:29.000Z",
+      "xQuery": "大企業製造業 景況感6期連続改善"
     },
     {
       "time": "08:38",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "首相の所信表明演説 原案が判明"
     },
     {
-      "time": "09:53",
-      "title": "NTT東西 固定電話の通話料値上げ",
+      "time": "09:33",
+      "title": "テルアビブ便 乗客らが襲撃者制圧",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597140?source=rss",
-      "publishedAt": "2026-10-01T00:53:03.000Z",
-      "xQuery": "NTT東西 固定電話の通話料値上げ"
+      "url": "https://news.yahoo.co.jp/pickup/6597138?source=rss",
+      "publishedAt": "2026-10-01T00:33:56.000Z",
+      "xQuery": "テルアビブ便 乗客らが襲撃者制圧"
     },
     {
       "time": "08:21",

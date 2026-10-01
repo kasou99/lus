@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T01:01:17.283Z",
+  "updatedAt": "2026-10-01T02:04:06.290Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -33,7 +33,7 @@
       {
         "time": "17:45",
         "title": "安全と安定稼働を、設備の記録で支える ― AI設備保全システム『EMLink』、商業施設・ホテル・レジャー施設の予防保全をクラウドで一元化",
-        "source": "Infoseek",
+        "source": "news.infoseek.co.jp",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MUHdjY25QeFB4V3NtRE45VkJsZVhsX3ROMnVWSnI3NnNYU3Y5WkNLN0ltenBXZmlxVVNuSElCM1lrUHdTTTFSa3Z0ZHdHc3h3M0xzZFM5V01DeEx5RmdRN05xVjVqOVVIMUFfa0xTT0lYQQ?oc=5",
         "publishedAt": "2026-09-30T08:45:25.000Z"
       },
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "10:35",
+        "title": "核ごみ調査受け入れ 人口減決め手",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597143?source=rss",
+        "publishedAt": "2026-10-01T01:35:34.000Z"
+      },
+      {
         "time": "00:02",
         "title": "神戸発砲事件 死亡男性は会社役員",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597137?source=rss",
         "publishedAt": "2026-10-01T00:31:21.000Z"
-      },
-      {
-        "time": "18:00",
-        "title": "匿流の窃盗G指示役か 元力士逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597088?source=rss",
-        "publishedAt": "2026-09-30T09:00:53.000Z"
       }
     ],
     "subsidyHeadlines": [
