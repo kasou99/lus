@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-09-30T23:39:33.626Z",
+  "updatedAt": "2026-10-01T01:01:17.283Z",
   "groups": {
     "machineHeadlines": [
       {
+        "time": "09:30",
+        "title": "【設備保全DX】第29回 ものづくり ワールド [大阪]に次世代設備保全クラウド「M2X」ブースを出展",
+        "source": "PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ob1FGSUhXT1BIejMyb292VFNvbTZ1N1NsZ2k4RjhFZGlIQk5MQ1NZUWtSM2xmZlJGbXhBWEJZaWRFOWgyLXF6ZkE1MzlKeWJ2clp3Nnp2RnBZclgtU2F3cVdacGNkRnJuMXc?oc=5",
+        "publishedAt": "2026-10-01T00:30:02.000Z"
+      },
+      {
         "time": "05:00",
         "title": "車向け工作機械受注､8月は44%増 老朽機更新で大型案件",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XZ0FOTjhxMG9pZlI0NmVQSVNUb3FLRnoySTZ5QzQxb0dSdkRnNVo3ZkFtSGJzN19DbFgtX1hoYUxEWDVvYjBlMTE3dEYzbHJMSTFObGwtZktxVFQyaEZ6by1abkhOY3RZWGFFNlp0VndodG92YnAzc014SlQzMUk?oc=5",
         "publishedAt": "2026-09-30T20:00:00.000Z"
       },
@@ -17,18 +24,18 @@
         "publishedAt": "2026-09-30T08:00:00.000Z"
       },
       {
-        "time": "14:16",
-        "title": "安全と安定稼働を、設備の記録で支える ― AI設備保全システム『EMLink』、商業施設・ホテル・レジャー施設の予防保全をクラウドで一元化",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiS3BoaXM2QTR6SldvaFRKYVRIaTQ2Yy1kcTZDS1JHWHVuZEFpNkVEbzdCMDk2TkZjemFCRllmMnQwREgtRFFwblRjSkItMFBtNGhFQWt1Y2xiYmVnNnczT0traUZBc1hjWEE?oc=5",
-        "publishedAt": "2026-09-30T05:16:22.000Z"
-      },
-      {
         "time": "11:36",
         "title": "＜新製品＞精密マシニングセンタ「VM-450A(5)」を販売開始 - shibaura-machine.co.jp",
         "source": "shibaura-machine.co.jp",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BYS1zT2ZOREtuUW9PZm8wVEVMWk5GSEh3aHdwYUlwUjRvQktkYW9IREtkS3pzM2pjLWNoenRyRUx0X2hYdVVFRWpCaTN3N1UyV1ZNbENnVTBBQXVzVE53U3FCSXpWdXVSaXJJQndUbzRaWEFo?oc=5",
         "publishedAt": "2026-09-30T02:36:52.000Z"
+      },
+      {
+        "time": "17:45",
+        "title": "安全と安定稼働を、設備の記録で支える ― AI設備保全システム『EMLink』、商業施設・ホテル・レジャー施設の予防保全をクラウドで一元化",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MUHdjY25QeFB4V3NtRE45VkJsZVhsX3ROMnVWSnI3NnNYU3Y5WkNLN0ltenBXZmlxVVNuSElCM1lrUHdTTTFSa3Z0ZHdHc3h3M0xzZFM5V01DeEx5RmdRN05xVjVqOVVIMUFfa0xTT0lYQQ?oc=5",
+        "publishedAt": "2026-09-30T08:45:25.000Z"
       },
       {
         "time": "11:33",
@@ -40,7 +47,7 @@
       {
         "time": "15:00",
         "title": "8月の工作機械受注65%増 AI関連・航空宇宙が好調",
-        "source": "日本経済新聞",
+        "source": "nikkei.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzWVBnUWRXR0NZQmZoakFUNmVwVWtHamRQTnpEYzlZZ1JtcnNweDNPMWJCZUQxeE0zczVOODRRMHRfeVNFMHBoRHhpbzZ0V0NuVjFhOElObjBhdXpodEw1QVZmVEg2NVFOWE92Zw?oc=5",
         "publishedAt": "2026-09-30T06:00:00.000Z"
       },
@@ -50,13 +57,6 @@
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUc0Yl83aUxZWnl5LUw4NWxndXVJSl9WQXZHcHoxMkp0bHJhT1dWYU9FNzU1ZDBwYVNQcVV0ajV0NkQ4c1RDWHAzeWM5NzlLSUlRd1JrOVNUSE5ad1JsZ2xVWTNEeGswTkc2eE1OemZKaEpJeGtqcUtOOTNxSnd2eGZTMVk?oc=5",
         "publishedAt": "2026-09-30T09:28:33.000Z"
-      },
-      {
-        "time": "18:15",
-        "title": "【制御盤、まだ手配線ですか？】ものづくり ワールド［大阪］に初出展",
-        "source": "Excite エキサイト",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44bzRwTGtHX2x6QTg3S1Y4dTNMOVVEcXBfLWw2clJncFp4MzIwazBmWnlOdjNzSGVEM0d3S3pJaGVEV2RzS3otelF2a0ZIaEhWaXo1bXNWektCVFlkSmtRY3FQS3llWmI0NWNDT0thMW81S1U?oc=5",
-        "publishedAt": "2026-09-30T09:15:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597126?source=rss",
         "publishedAt": "2026-09-30T22:17:08.000Z"
+      },
+      {
+        "time": "09:33",
+        "title": "テルアビブ便 乗客らが襲撃者制圧",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597138?source=rss",
+        "publishedAt": "2026-10-01T00:33:56.000Z"
       },
       {
         "time": "22:02",
@@ -89,13 +96,6 @@
         "publishedAt": "2026-09-30T03:05:56.000Z"
       },
       {
-        "time": "08:54",
-        "title": "北朝鮮 地雷爆発は韓国の自作自演",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597020?source=rss",
-        "publishedAt": "2026-09-29T23:54:35.000Z"
-      },
-      {
         "time": "09:41",
         "title": "習近平政権 岩屋前外相を厚遇",
         "source": "Yahoo!ニュース",
@@ -104,6 +104,20 @@
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "09:48",
+        "title": "大企業製造業 景況感6期連続改善",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597141?source=rss",
+        "publishedAt": "2026-10-01T00:48:29.000Z"
+      },
+      {
+        "time": "09:53",
+        "title": "NTT東西 固定電話の通話料値上げ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597140?source=rss",
+        "publishedAt": "2026-10-01T00:53:03.000Z"
+      },
       {
         "time": "07:43",
         "title": "ニデック極まる混乱 再生不透明",
@@ -124,20 +138,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597133?source=rss",
         "publishedAt": "2026-09-30T23:21:00.000Z"
-      },
-      {
-        "time": "11:59",
-        "title": "飲食料品値上げ 10月は3153品目",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597045?source=rss",
-        "publishedAt": "2026-09-30T02:59:15.000Z"
-      },
-      {
-        "time": "09:58",
-        "title": "ドンキ「トイザらス」買収へ 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597026?source=rss",
-        "publishedAt": "2026-09-30T00:58:52.000Z"
       },
       {
         "time": "17:18",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-09-30T13:43:32.000Z"
       },
       {
+        "time": "09:31",
+        "title": "飼い犬発見し車外へ はねられ重体",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597137?source=rss",
+        "publishedAt": "2026-10-01T00:31:21.000Z"
+      },
+      {
         "time": "18:00",
         "title": "匿流の窃盗G指示役か 元力士逮捕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597088?source=rss",
         "publishedAt": "2026-09-30T09:00:53.000Z"
-      },
-      {
-        "time": "18:05",
-        "title": "8.2億円相当の暗号資産 詐欺被害",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597089?source=rss",
-        "publishedAt": "2026-09-30T09:05:12.000Z"
       }
     ],
     "subsidyHeadlines": [

@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-09-30T23:39:34.908Z",
+  "updatedAt": "2026-10-01T01:01:17.854Z",
   "items": [
     {
-      "time": "07:43",
-      "title": "ニデック極まる混乱 再生不透明",
+      "time": "08:44",
+      "title": "農相 地元自治体の予算カット発言",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597129?source=rss",
-      "publishedAt": "2026-09-30T22:43:59.000Z",
-      "xQuery": "ニデック極まる混乱 再生不透明"
+      "url": "https://news.yahoo.co.jp/pickup/6597135?source=rss",
+      "publishedAt": "2026-09-30T23:44:32.000Z",
+      "xQuery": "農相 地元自治体の予算カット発言"
     },
     {
-      "time": "06:42",
-      "title": "台風が関東接近へ 千葉は大雨恐れ",
+      "time": "08:38",
+      "title": "首相の所信表明演説 原案が判明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597124?source=rss",
-      "publishedAt": "2026-09-30T21:42:46.000Z",
-      "xQuery": "台風が関東接近へ 千葉は大雨恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6597134?source=rss",
+      "publishedAt": "2026-09-30T23:38:27.000Z",
+      "xQuery": "首相の所信表明演説 原案が判明"
     },
     {
-      "time": "07:33",
-      "title": "高性能AI普及へ 年内に行動計画",
+      "time": "09:53",
+      "title": "NTT東西 固定電話の通話料値上げ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597128?source=rss",
-      "publishedAt": "2026-09-30T22:33:31.000Z",
-      "xQuery": "高性能AI普及へ 年内に行動計画"
+      "url": "https://news.yahoo.co.jp/pickup/6597140?source=rss",
+      "publishedAt": "2026-10-01T00:53:03.000Z",
+      "xQuery": "NTT東西 固定電話の通話料値上げ"
     },
     {
       "time": "08:21",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "トヨタ 祝日勤務の業界慣行見直し"
     },
     {
-      "time": "07:17",
-      "title": "テルアビブ便 副操縦士が機長刺す",
+      "time": "09:31",
+      "title": "飼い犬発見し車外へ はねられ重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597126?source=rss",
-      "publishedAt": "2026-09-30T22:17:08.000Z",
-      "xQuery": "テルアビブ便 副操縦士が機長刺す"
+      "url": "https://news.yahoo.co.jp/pickup/6597137?source=rss",
+      "publishedAt": "2026-10-01T00:31:21.000Z",
+      "xQuery": "飼い犬発見し車外へ はねられ重体"
     }
   ]
 };
