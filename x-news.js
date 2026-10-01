@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T11:16:48.524Z",
+  "updatedAt": "2026-10-01T11:40:49.322Z",
   "items": [
     {
       "time": "18:44",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "フラット35 金利3.830%で過去最高"
     },
     {
-      "time": "17:45",
-      "title": "9月降水量 東日本で統計史上最多",
+      "time": "20:13",
+      "title": "2日は関東で雨 服装選びにも注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597188?source=rss",
-      "publishedAt": "2026-10-01T08:45:27.000Z",
-      "xQuery": "9月降水量 東日本で統計史上最多"
+      "url": "https://news.yahoo.co.jp/pickup/6597204?source=rss",
+      "publishedAt": "2026-10-01T11:13:35.000Z",
+      "xQuery": "2日は関東で雨 服装選びにも注意"
+    },
+    {
+      "time": "20:31",
+      "title": "滋賀の工場で爆発 男性の遺体発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597208?source=rss",
+      "publishedAt": "2026-10-01T11:31:37.000Z",
+      "xQuery": "滋賀の工場で爆発 男性の遺体発見"
     },
     {
       "time": "19:33",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597203?source=rss",
       "publishedAt": "2026-10-01T10:33:19.000Z",
       "xQuery": "横断歩道で事故 1人死亡4人けが"
-    },
-    {
-      "time": "17:30",
-      "title": "マック一部バーガー 北海道で休止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597187?source=rss",
-      "publishedAt": "2026-10-01T08:30:23.000Z",
-      "xQuery": "マック一部バーガー 北海道で休止"
     }
   ]
 };

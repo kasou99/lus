@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-01T11:16:47.630Z",
+  "updatedAt": "2026-10-01T11:40:48.325Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "09:30",
         "title": "【設備保全DX】第29回 ものづくり ワールド [大阪]に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "PR TIMES",
+        "source": "prtimes.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ob1FGSUhXT1BIejMyb292VFNvbTZ1N1NsZ2k4RjhFZGlIQk5MQ1NZUWtSM2xmZlJGbXhBWEJZaWRFOWgyLXF6ZkE1MzlKeWJ2clp3Nnp2RnBZclgtU2F3cVdacGNkRnJuMXc?oc=5",
         "publishedAt": "2026-10-01T00:30:02.000Z"
       },
@@ -33,7 +33,7 @@
       {
         "time": "05:00",
         "title": "インタビュー／大王製紙取締役常務執行役員紙・板紙事業部長の藤井喜継氏 「原紙＋付加価値」提案",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4NjdzNE1tYkFqMVJsRU5YYURHOTMyQkZiaWpvY3pUbUQxRm9nQUs2Sm90bGtDOS1yd2xlNmg4eUhnem1zZ0lsSHlweGpTQnhEYTFuTkp6dTA?oc=5",
         "publishedAt": "2026-09-30T20:00:00.000Z"
       },
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-01T10:33:19.000Z"
       },
       {
+        "time": "20:31",
+        "title": "滋賀の工場で爆発 男性の遺体発見",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597208?source=rss",
+        "publishedAt": "2026-10-01T11:31:37.000Z"
+      },
+      {
         "time": "13:00",
         "title": "病院でチューブ誤挿入 意識不明",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597160?source=rss",
         "publishedAt": "2026-10-01T04:00:03.000Z"
-      },
-      {
-        "time": "12:00",
-        "title": "11カ月の娘の首絞めた疑い 父逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597155?source=rss",
-        "publishedAt": "2026-10-01T03:00:17.000Z"
       }
     ],
     "subsidyHeadlines": [
