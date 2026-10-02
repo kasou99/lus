@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T11:41:17.878Z",
+  "updatedAt": "2026-10-02T12:28:57.833Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -40,7 +40,7 @@
       {
         "time": "09:45",
         "title": "田辺工業(1828) 1Qは大型工事の進捗、施工効率の改善等で増収増益。受注高は2ケタ増加",
-        "source": "QUICK Money World",
+        "source": "moneyworld.jp",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaYk5oUE1xY3FIQzA3V0tYbElHTlNmbHdXd0dCbXJfSnNnaGlyTnZSQ0NPaFJYWmU2NVNwV1hHNnV3X056eUNTT0lzVml6X3BaZXg2LU9B?oc=5",
         "publishedAt": "2026-10-02T00:45:00.000Z"
       },
@@ -54,7 +54,7 @@
       {
         "time": "05:00",
         "title": "金融庁、「オンチェーン金融」で実現策 AI時代にらみ検討",
-        "source": "日刊工業新聞",
+        "source": "nikkan.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45S0s5NHVBZXJvU3d4UzZYVUMzY0pUU2R4RzJNblZYdDJEaldGSjlyRG5DOVRKcmtwV185Ml9BZW8yckRKVF90RE53NW1KUy01Mmo0clpISmc?oc=5",
         "publishedAt": "2026-10-01T20:00:00.000Z"
       }
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "20:46",
+        "title": "東北3地銀 28年4月統合向け協議へ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597317?source=rss",
+        "publishedAt": "2026-10-02T11:46:40.000Z"
+      },
+      {
         "time": "18:49",
         "title": "佐川急便 宅配便平均13%値上げへ",
         "source": "Yahoo!ニュース",
@@ -126,13 +133,6 @@
         "publishedAt": "2026-10-02T08:14:52.000Z"
       },
       {
-        "time": "14:00",
-        "title": "ニデック会見 異例の監査法人同席",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597273?source=rss",
-        "publishedAt": "2026-10-02T05:00:14.000Z"
-      },
-      {
         "time": "20:10",
         "title": "スガキヤが「ドムドム」子会社化",
         "source": "Yahoo!ニュース",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "18:00",
-        "title": "住宅焼け跡から3人の遺体 津市",
+        "time": "20:43",
+        "title": "津市で火災 焼け跡から4人の遺体",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597299?source=rss",
-        "publishedAt": "2026-10-02T09:00:19.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597318?source=rss",
+        "publishedAt": "2026-10-02T11:43:10.000Z"
       },
       {
         "time": "17:23",

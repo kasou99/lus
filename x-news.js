@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T11:41:18.666Z",
+  "updatedAt": "2026-10-02T12:28:58.584Z",
   "items": [
     {
-      "time": "18:18",
-      "title": "簗氏 予算削減発言おおむね認める",
+      "time": "20:43",
+      "title": "津市で火災 焼け跡から4人の遺体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597305?source=rss",
-      "publishedAt": "2026-10-02T09:18:29.000Z",
-      "xQuery": "簗氏 予算削減発言おおむね認める"
+      "url": "https://news.yahoo.co.jp/pickup/6597318?source=rss",
+      "publishedAt": "2026-10-02T11:43:10.000Z",
+      "xQuery": "津市で火災 焼け跡から4人の遺体"
     },
     {
       "time": "17:14",
@@ -16,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597293?source=rss",
       "publishedAt": "2026-10-02T08:14:52.000Z",
       "xQuery": "免許証画像流出 集団訴訟動き進む"
-    },
-    {
-      "time": "18:10",
-      "title": "紀州ドンファンの遺言有効 最高裁",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597303?source=rss",
-      "publishedAt": "2026-10-02T09:10:37.000Z",
-      "xQuery": "紀州ドンファンの遺言有効 最高裁"
     },
     {
       "time": "19:44",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597315?source=rss",
       "publishedAt": "2026-10-02T11:10:40.000Z",
       "xQuery": "スガキヤが「ドムドム」子会社化"
+    },
+    {
+      "time": "12:49",
+      "title": "もう辞めたい「フキハラ」の実態",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597263?source=rss",
+      "publishedAt": "2026-10-02T03:49:11.000Z",
+      "xQuery": "もう辞めたい「フキハラ」の実態"
     }
   ]
 };
