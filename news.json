@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T16:44:02.984Z",
+  "updatedAt": "2026-10-02T17:17:08.831Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,13 +38,6 @@
         "publishedAt": "2026-10-02T02:30:00.000Z"
       },
       {
-        "time": "01:56",
-        "title": "日本CNC切断機市場の主要10社まとめ",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41Q1dTZ2V4eFNGRVp4TnFTaFdDQTBvTENwejlaN01qakc5Ny1BYno3U0tzU0hBV3ZPQi03RE9tSWN5R29zTkFQa3ZB?oc=5",
-        "publishedAt": "2026-10-01T16:56:30.000Z"
-      },
-      {
         "time": "09:45",
         "title": "田辺工業(1828) 1Qは大型工事の進捗、施工効率の改善等で増収増益。受注高は2ケタ増加",
         "source": "QUICK Money World",
@@ -57,6 +50,13 @@
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aUjZuOF9ySUlxZUxubkZCQnE1emNBNFRYRkJRZ25NQTBRc2NXdWxIdjF1MG53Y09oelV2dWFZNm9xRV9HVXFwUHFCbm5ITlk?oc=5",
         "publishedAt": "2026-10-02T06:38:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "金融庁、「オンチェーン金融」で実現策 AI時代にらみ検討",
+        "source": "nikkan.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45S0s5NHVBZXJvU3d4UzZYVUMzY0pUU2R4RzJNblZYdDJEaldGSjlyRG5DOVRKcmtwV185Ml9BZW8yckRKVF90RE53NW1KUy01Mmo0clpISmc?oc=5",
+        "publishedAt": "2026-10-01T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-30T07:00:00.000Z"
       }
