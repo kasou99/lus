@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T02:27:34.055Z",
+  "updatedAt": "2026-10-02T02:49:19.270Z",
   "items": [
     {
       "time": "09:59",
@@ -10,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相 減税は価格反映されると認識"
     },
     {
-      "time": "09:08",
-      "title": "韓国「検察庁」78年の歴史に幕",
+      "time": "08:09",
+      "title": "G20貿易相 過剰生産巡り意見対立",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597240?source=rss",
-      "publishedAt": "2026-10-02T00:08:20.000Z",
-      "xQuery": "韓国「検察庁」78年の歴史に幕"
+      "url": "https://news.yahoo.co.jp/pickup/6597234?source=rss",
+      "publishedAt": "2026-10-01T23:09:20.000Z",
+      "xQuery": "G20貿易相 過剰生産巡り意見対立"
+    },
+    {
+      "time": "11:28",
+      "title": "死刑失敗の米死刑囚重体 救命治療",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597251?source=rss",
+      "publishedAt": "2026-10-02T02:28:33.000Z",
+      "xQuery": "死刑失敗の米死刑囚重体 救命治療"
     },
     {
       "time": "09:37",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597246?source=rss",
       "publishedAt": "2026-10-02T01:00:04.000Z",
       "xQuery": "飲酒事故で3人死亡 運転手を提訴"
-    },
-    {
-      "time": "08:55",
-      "title": "同志社国際高 校外活動を再開へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597239?source=rss",
-      "publishedAt": "2026-10-01T23:55:40.000Z",
-      "xQuery": "同志社国際高 校外活動を再開へ"
     }
   ]
 };
