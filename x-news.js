@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T08:25:49.099Z",
+  "updatedAt": "2026-10-02T08:46:02.721Z",
   "items": [
     {
-      "time": "16:49",
-      "title": "住宅火災 子ども4人が逃げ遅れか",
+      "time": "17:30",
+      "title": "中継 簗農相が報道受け記者会見",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597291?source=rss",
-      "publishedAt": "2026-10-02T07:49:17.000Z",
-      "xQuery": "住宅火災 子ども4人が逃げ遅れか"
+      "url": "https://news.yahoo.co.jp/pickup/6597298?source=rss",
+      "publishedAt": "2026-10-02T08:30:08.000Z",
+      "xQuery": "中継 簗農相が報道受け記者会見"
     },
     {
       "time": "15:53",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「赤い羽根」閣僚らが着用自粛"
     },
     {
-      "time": "15:20",
-      "title": "東海汽船 一部船舶の使用停止処分",
+      "time": "16:49",
+      "title": "住宅火災 子ども4人が逃げ遅れか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597280?source=rss",
-      "publishedAt": "2026-10-02T06:20:42.000Z",
-      "xQuery": "東海汽船 一部船舶の使用停止処分"
+      "url": "https://news.yahoo.co.jp/pickup/6597291?source=rss",
+      "publishedAt": "2026-10-02T07:49:17.000Z",
+      "xQuery": "住宅火災 子ども4人が逃げ遅れか"
     },
     {
       "time": "16:23",
