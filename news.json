@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T10:41:54.891Z",
+  "updatedAt": "2026-10-02T11:17:21.536Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-02T00:45:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "ニュース拡大鏡／製鉄所跡地の開発進む、JFE・川崎市、産業拠点構築",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oUDZqVmZQcld5bDIxYkhaUVdHTFUwY0RTQW5KN3VLb1lRbVZfU25zNDZiSmV3YjVHY00xRXQ0Y0xGb1BFanJPT0JrajFvOF91VlVfdFk5ZVQ?oc=5",
-        "publishedAt": "2026-10-01T20:00:00.000Z"
-      },
-      {
         "time": "15:38",
         "title": "エンコーダ市場：タイプ、技術、信号タイプ別、出力タイプ別、用途、最終用途、流通チャネル別―2026年～2032年の世界市場予測",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aUjZuOF9ySUlxZUxubkZCQnE1emNBNFRYRkJRZ25NQTBRc2NXdWxIdjF1MG53Y09oelV2dWFZNm9xRV9HVXFwUHFCbm5ITlk?oc=5",
         "publishedAt": "2026-10-02T06:38:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "金融庁、「オンチェーン金融」で実現策 AI時代にらみ検討",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45S0s5NHVBZXJvU3d4UzZYVUMzY0pUU2R4RzJNblZYdDJEaldGSjlyRG5DOVRKcmtwV185Ml9BZW8yckRKVF90RE53NW1KUy01Mmo0clpISmc?oc=5",
+        "publishedAt": "2026-10-01T20:00:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -133,18 +133,18 @@
         "publishedAt": "2026-10-02T05:00:14.000Z"
       },
       {
+        "time": "20:10",
+        "title": "スガキヤが「ドムドム」子会社化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597315?source=rss",
+        "publishedAt": "2026-10-02T11:10:40.000Z"
+      },
+      {
         "time": "07:39",
         "title": "ブルーカラー人気 背景に人手不足",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597230?source=rss",
         "publishedAt": "2026-10-01T22:39:17.000Z"
-      },
-      {
-        "time": "12:49",
-        "title": "もう辞めたい「フキハラ」の実態",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597263?source=rss",
-        "publishedAt": "2026-10-02T03:49:11.000Z"
       }
     ],
     "localHeadlines": [
@@ -161,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597295?source=rss",
         "publishedAt": "2026-10-02T08:23:36.000Z"
+      },
+      {
+        "time": "19:44",
+        "title": "山中でシカに襲われたか 男性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597314?source=rss",
+        "publishedAt": "2026-10-02T10:44:15.000Z"
       },
       {
         "time": "19:13",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597282?source=rss",
         "publishedAt": "2026-10-02T06:53:59.000Z"
-      },
-      {
-        "time": "14:15",
-        "title": "焼け跡から遺体 消防隊員も死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597274?source=rss",
-        "publishedAt": "2026-10-02T05:15:34.000Z"
       }
     ],
     "subsidyHeadlines": [

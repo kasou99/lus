@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T10:41:55.618Z",
+  "updatedAt": "2026-10-02T11:17:22.577Z",
   "items": [
     {
       "time": "18:18",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "簗氏 予算削減発言おおむね認める"
     },
     {
-      "time": "18:00",
-      "title": "住宅焼け跡から3人の遺体 津市",
+      "time": "17:14",
+      "title": "免許証画像流出 集団訴訟動き進む",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597299?source=rss",
-      "publishedAt": "2026-10-02T09:00:19.000Z",
-      "xQuery": "住宅焼け跡から3人の遺体 津市"
+      "url": "https://news.yahoo.co.jp/pickup/6597293?source=rss",
+      "publishedAt": "2026-10-02T08:14:52.000Z",
+      "xQuery": "免許証画像流出 集団訴訟動き進む"
     },
     {
       "time": "18:10",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "紀州ドンファンの遺言有効 最高裁"
     },
     {
+      "time": "19:44",
+      "title": "山中でシカに襲われたか 男性死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597314?source=rss",
+      "publishedAt": "2026-10-02T10:44:15.000Z",
+      "xQuery": "山中でシカに襲われたか 男性死亡"
+    },
+    {
       "time": "19:13",
       "title": "鉄材落下し首に刺さる 作業員死亡",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597312?source=rss",
       "publishedAt": "2026-10-02T10:13:11.000Z",
       "xQuery": "鉄材落下し首に刺さる 作業員死亡"
-    },
-    {
-      "time": "12:49",
-      "title": "もう辞めたい「フキハラ」の実態",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597263?source=rss",
-      "publishedAt": "2026-10-02T03:49:11.000Z",
-      "xQuery": "もう辞めたい「フキハラ」の実態"
     }
   ]
 };
