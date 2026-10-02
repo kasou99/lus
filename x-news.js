@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T00:51:42.562Z",
+  "updatedAt": "2026-10-02T01:34:23.827Z",
   "items": [
     {
-      "time": "07:25",
-      "title": "政府 ロシアへの追加制裁を検討",
+      "time": "09:59",
+      "title": "首相 減税は価格反映されると認識",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597229?source=rss",
-      "publishedAt": "2026-10-01T22:25:05.000Z",
-      "xQuery": "政府 ロシアへの追加制裁を検討"
+      "url": "https://news.yahoo.co.jp/pickup/6597247?source=rss",
+      "publishedAt": "2026-10-02T00:59:28.000Z",
+      "xQuery": "首相 減税は価格反映されると認識"
     },
     {
       "time": "09:08",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "韓国「検察庁」78年の歴史に幕"
     },
     {
-      "time": "07:00",
-      "title": "米死刑囚への刑執行が「失敗」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597226?source=rss",
-      "publishedAt": "2026-10-01T22:00:25.000Z",
-      "xQuery": "米死刑囚への刑執行が「失敗」"
-    },
-    {
       "time": "08:58",
       "title": "3歳死亡 2km超にわたり飲酒運転か",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "3歳死亡 2km超にわたり飲酒運転か"
     },
     {
-      "time": "08:38",
-      "title": "各地に毒キノコ「妖精の輪」も",
+      "time": "09:37",
+      "title": "今季初 北海道の旭岳で「初冠雪」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597236?source=rss",
-      "publishedAt": "2026-10-01T23:38:39.000Z",
-      "xQuery": "各地に毒キノコ「妖精の輪」も"
+      "url": "https://news.yahoo.co.jp/pickup/6597243?source=rss",
+      "publishedAt": "2026-10-02T00:37:16.000Z",
+      "xQuery": "今季初 北海道の旭岳で「初冠雪」"
+    },
+    {
+      "time": "07:39",
+      "title": "ブルーカラー人気 背景に人手不足",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597230?source=rss",
+      "publishedAt": "2026-10-01T22:39:17.000Z",
+      "xQuery": "ブルーカラー人気 背景に人手不足"
     }
   ]
 };

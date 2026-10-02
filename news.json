@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-02T00:51:39.499Z",
+  "updatedAt": "2026-10-02T01:34:22.558Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "08:20",
         "title": "太陽光・風力ファームの少人数運営に ― 圏外でも止まらない点検アプリ、AI設備保全システム『EMLink』が刷新",
-        "source": "prtimes.jp",
+        "source": "PR TIMES",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZS3RWXy1fX29RMVRNbzM3SnA0TW5TQXhCTUZNSnlNVU9BUGZfTXJBaV9sQUN6c3o4Y3ZnYmYtNndZZkxRQkRwMzJnQlFpTWc1aFB5ZURMQzZOUE5JRlZCUUp2REp6ek9POGc?oc=5",
         "publishedAt": "2026-10-01T23:20:01.000Z"
       },
       {
         "time": "19:00",
-        "title": "【制御盤DXと設計・製造の未来】「EPLAN NETWORK 2026」パネルディスカッション「設計データはどこまでつながるのか― 設計から製造までのデータ活用を考える ―」 - automation-news.jp",
-        "source": "automation-news.jp",
+        "title": "【制御盤DXと設計・製造の未来】「EPLAN NETWORK 2026」パネルディスカッション「設計データはどこまでつながるのか― 設計から製造までのデータ活用を考える ―」",
+        "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DR3JNanJrMk9lSldLQWxDbklWcVN0QnVMVkwyNFlZdm93U1NoRHdWUVBCYmdhZUdQZ0pfRzVOQ0hvZm5lYTJCd1F4NkxRTEdIblcyUTA4cUt2QQ?oc=5",
         "publishedAt": "2026-10-01T10:00:00.000Z"
       },
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-01T07:41:07.000Z"
       },
       {
-        "time": "07:31",
-        "title": "イスラエル軍需企業 取引中止を求め抗議 幕張メッセで市民有志",
-        "source": "東京新聞",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5U0YySDJiNW1EejJwNU5qZ3pFZTJ5VDA3RGZSOVZOTXBVdklKNVBjTkM5bnFNUnVFTGE2YkNBRW5TcEkwQVhIaWFXYjlaMExXTE5j?oc=5",
-        "publishedAt": "2026-10-01T22:31:12.000Z"
+        "time": "01:56",
+        "title": "日本CNC切断機市場の主要10社まとめ",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41Q1dTZ2V4eFNGRVp4TnFTaFdDQTBvTENwejlaN01qakc5Ny1BYno3U0tzU0hBV3ZPQi03RE9tSWN5R29zTkFQa3ZB?oc=5",
+        "publishedAt": "2026-10-01T16:56:30.000Z"
       }
     ],
     "worldHeadlines": [
@@ -149,13 +149,6 @@
     ],
     "localHeadlines": [
       {
-        "time": "10:35",
-        "title": "核ごみ調査受け入れ 人口減決め手",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597143?source=rss",
-        "publishedAt": "2026-10-01T01:35:34.000Z"
-      },
-      {
         "time": "07:40",
         "title": "JR内房線の不通 学校現場に混乱",
         "source": "Yahoo!ニュース",
@@ -168,6 +161,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597239?source=rss",
         "publishedAt": "2026-10-01T23:55:40.000Z"
+      },
+      {
+        "time": "10:00",
+        "title": "飲酒事故で3人死亡 運転手を提訴",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597246?source=rss",
+        "publishedAt": "2026-10-02T01:00:04.000Z"
       },
       {
         "time": "07:50",
