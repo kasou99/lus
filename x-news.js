@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T03:22:56.890Z",
+  "updatedAt": "2026-10-02T03:46:08.152Z",
   "items": [
     {
       "time": "09:59",
@@ -18,12 +18,20 @@ window.LUS_X_NEWS = {
       "xQuery": "G20貿易相 過剰生産巡り意見対立"
     },
     {
-      "time": "11:56",
-      "title": "東京豊島区で男性刺される 男逃走",
+      "time": "12:28",
+      "title": "火災1人死亡 消防隊員も意識不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597256?source=rss",
-      "publishedAt": "2026-10-02T02:56:38.000Z",
-      "xQuery": "東京豊島区で男性刺される 男逃走"
+      "url": "https://news.yahoo.co.jp/pickup/6597261?source=rss",
+      "publishedAt": "2026-10-02T03:28:05.000Z",
+      "xQuery": "火災1人死亡 消防隊員も意識不明"
+    },
+    {
+      "time": "12:17",
+      "title": "立花孝志氏 被害者として裁判参加",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597258?source=rss",
+      "publishedAt": "2026-10-02T03:17:43.000Z",
+      "xQuery": "立花孝志氏 被害者として裁判参加"
     },
     {
       "time": "11:28",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597251?source=rss",
       "publishedAt": "2026-10-02T02:28:33.000Z",
       "xQuery": "死刑失敗の米死刑囚重体 救命治療"
-    },
-    {
-      "time": "09:37",
-      "title": "今季初 北海道の旭岳で「初冠雪」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597243?source=rss",
-      "publishedAt": "2026-10-02T00:37:16.000Z",
-      "xQuery": "今季初 北海道の旭岳で「初冠雪」"
     }
   ]
 };
