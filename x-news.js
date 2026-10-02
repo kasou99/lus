@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T21:39:57.630Z",
+  "updatedAt": "2026-10-02T22:17:22.746Z",
   "items": [
     {
-      "time": "00:15",
-      "title": "G7 石油備蓄1億バレル協調放出へ",
+      "time": "07:11",
+      "title": "北発射のミサイル EEZ外に落下か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597336?source=rss",
-      "publishedAt": "2026-10-02T15:15:30.000Z",
-      "xQuery": "G7 石油備蓄1億バレル協調放出へ"
+      "url": "https://news.yahoo.co.jp/pickup/6597338?source=rss",
+      "publishedAt": "2026-10-02T22:11:55.000Z",
+      "xQuery": "北発射のミサイル EEZ外に落下か"
     },
     {
       "time": "23:44",

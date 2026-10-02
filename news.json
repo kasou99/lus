@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T21:39:56.672Z",
+  "updatedAt": "2026-10-02T22:17:21.855Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "08:20",
         "title": "太陽光・風力ファームの少人数運営に ― 圏外でも止まらない点検アプリ、AI設備保全システム『EMLink』が刷新",
-        "source": "PR TIMES",
+        "source": "prtimes.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZS3RWXy1fX29RMVRNbzM3SnA0TW5TQXhCTUZNSnlNVU9BUGZfTXJBaV9sQUN6c3o4Y3ZnYmYtNndZZkxRQkRwMzJnQlFpTWc1aFB5ZURMQzZOUE5JRlZCUUp2REp6ek9POGc?oc=5",
         "publishedAt": "2026-10-01T23:20:01.000Z"
       },
@@ -52,14 +52,21 @@
         "publishedAt": "2026-10-01T22:31:12.000Z"
       },
       {
-        "time": "15:45",
-        "title": "NSK、ボールねじ式「電動ハイドロブースタ」新開発…省エネと高速動作を両立",
-        "source": "レスポンス（Response.jp）",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YYml2VXNqMHo0RXpTSlZQQmtMVTd2YzYxdVQ3SFE0d0pPZWJNYjRoVk1fblYxdmdOLUNUOE5aUUVLeXdQYXM1eUVvRlVsU0hfd0t6WW9URGlPQmFISnQ4?oc=5",
-        "publishedAt": "2026-10-02T06:45:03.000Z"
+        "time": "14:45",
+        "title": "ニデック戒田理夫新社長が家電・車載領域にメス、成長より上場維持を優先（2ページ目）",
+        "source": "日経クロステック（xTECH）",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZG9jZktNNnFwNUtOY0pPMTZpeE11Sk95UUVmV3l2RV9HZzZFaGF3X0JZc2Foc1BFaGozX1c3MEtoejJCX1lIUUl3SFJxSEFtWmpaaENPaE5QSkxBc0dPV19ZSVBZVFJTcWo2Nkp1andIcEJWUWNOUXJNSzNaZEdQRzhhb0I2LUdPanpUcDg3NVdsLXhU?oc=5",
+        "publishedAt": "2026-10-02T05:45:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "07:11",
+        "title": "北発射のミサイル EEZ外に落下か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597338?source=rss",
+        "publishedAt": "2026-10-02T22:11:55.000Z"
+      },
       {
         "time": "00:15",
         "title": "G7 石油備蓄1億バレル協調放出へ",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597240?source=rss",
         "publishedAt": "2026-10-02T00:08:20.000Z"
-      },
-      {
-        "time": "23:38",
-        "title": "スイス氷河 過去5年で2割消失",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597220?source=rss",
-        "publishedAt": "2026-10-01T14:38:16.000Z"
       }
     ],
     "economyHeadlines": [
