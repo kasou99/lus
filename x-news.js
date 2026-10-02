@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T14:20:16.194Z",
+  "updatedAt": "2026-10-02T14:44:34.097Z",
   "items": [
     {
       "time": "23:04",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東北3地銀 28年4月統合向け協議へ"
     },
     {
-      "time": "20:20",
-      "title": "日本が対露制裁「影の船団」対象",
+      "time": "23:20",
+      "title": "縦書き文章触れる機会「ない」3割",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597316?source=rss",
-      "publishedAt": "2026-10-02T11:20:28.000Z",
-      "xQuery": "日本が対露制裁「影の船団」対象"
-    },
-    {
-      "time": "18:49",
-      "title": "佐川急便 宅配便平均13%値上げへ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597309?source=rss",
-      "publishedAt": "2026-10-02T09:49:13.000Z",
-      "xQuery": "佐川急便 宅配便平均13%値上げへ"
+      "url": "https://news.yahoo.co.jp/pickup/6597330?source=rss",
+      "publishedAt": "2026-10-02T14:20:38.000Z",
+      "xQuery": "縦書き文章触れる機会「ない」3割"
     },
     {
       "time": "22:54",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597326?source=rss",
       "publishedAt": "2026-10-02T13:54:01.000Z",
       "xQuery": "情報漏えい相次ぐ「異様」と識者"
+    },
+    {
+      "time": "23:38",
+      "title": "童謡など作曲 服部公一さんが死去",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597332?source=rss",
+      "publishedAt": "2026-10-02T14:38:09.000Z",
+      "xQuery": "童謡など作曲 服部公一さんが死去"
     }
   ]
 };
