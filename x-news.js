@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T10:18:46.870Z",
+  "updatedAt": "2026-10-02T10:41:55.618Z",
   "items": [
     {
       "time": "18:18",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "紀州ドンファンの遺言有効 最高裁"
     },
     {
-      "time": "17:11",
-      "title": "クマに腕かまれる 一緒に10m滑落",
+      "time": "19:13",
+      "title": "鉄材落下し首に刺さる 作業員死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597292?source=rss",
-      "publishedAt": "2026-10-02T08:11:21.000Z",
-      "xQuery": "クマに腕かまれる 一緒に10m滑落"
+      "url": "https://news.yahoo.co.jp/pickup/6597312?source=rss",
+      "publishedAt": "2026-10-02T10:13:11.000Z",
+      "xQuery": "鉄材落下し首に刺さる 作業員死亡"
     },
     {
-      "time": "18:40",
-      "title": "新名神事故 原形留めぬ車に遺族涙",
+      "time": "12:49",
+      "title": "もう辞めたい「フキハラ」の実態",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597307?source=rss",
-      "publishedAt": "2026-10-02T09:40:00.000Z",
-      "xQuery": "新名神事故 原形留めぬ車に遺族涙"
+      "url": "https://news.yahoo.co.jp/pickup/6597263?source=rss",
+      "publishedAt": "2026-10-02T03:49:11.000Z",
+      "xQuery": "もう辞めたい「フキハラ」の実態"
     }
   ]
 };
