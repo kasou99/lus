@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T13:43:07.383Z",
+  "updatedAt": "2026-10-02T14:20:16.194Z",
   "items": [
     {
-      "time": "20:43",
-      "title": "津市で火災 焼け跡から4人の遺体",
+      "time": "23:04",
+      "title": "プルデンシャルの処分検討 金融庁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597318?source=rss",
-      "publishedAt": "2026-10-02T11:43:10.000Z",
-      "xQuery": "津市で火災 焼け跡から4人の遺体"
+      "url": "https://news.yahoo.co.jp/pickup/6597329?source=rss",
+      "publishedAt": "2026-10-02T14:04:42.000Z",
+      "xQuery": "プルデンシャルの処分検討 金融庁"
     },
     {
       "time": "20:46",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "佐川急便 宅配便平均13%値上げへ"
     },
     {
-      "time": "20:10",
-      "title": "スガキヤが「ドムドム」子会社化",
+      "time": "22:54",
+      "title": "情報漏えい相次ぐ「異様」と識者",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597315?source=rss",
-      "publishedAt": "2026-10-02T11:10:40.000Z",
-      "xQuery": "スガキヤが「ドムドム」子会社化"
+      "url": "https://news.yahoo.co.jp/pickup/6597326?source=rss",
+      "publishedAt": "2026-10-02T13:54:01.000Z",
+      "xQuery": "情報漏えい相次ぐ「異様」と識者"
     }
   ]
 };

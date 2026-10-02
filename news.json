@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-02T13:43:06.556Z",
+  "updatedAt": "2026-10-02T14:20:15.441Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "12:00",
         "title": "CNC工作機械用消火装置の世界市場2026年、グローバル市場規模（二酸化炭素式、クリーン消火剤式、凝縮エアロゾル式、微細水噴霧式、粉末消火式）・分析レポートを発表",
-        "source": "dreamnews.jp",
+        "source": "ドリームニュース",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41NS1VWjMyWGZKcnl5aFBHQ1VWZXdBX0RDTGIwdmVPTlZnaE9jaVI5c0tscXJPd01IcThTUWNNbFByTGgtbkNNR09FcVpEV3BLdWV3?oc=5",
         "publishedAt": "2026-10-02T03:00:00.000Z"
       },
@@ -26,7 +26,7 @@
       {
         "time": "11:30",
         "title": "NSW、デジタルツインとスマートグラスを活用した取り組みで「精密工学会ものづくり賞」を受賞 ～デジタル技術を活用し、製造現場の設備保全・メンテナンス業務の高度化に貢献～",
-        "source": "dreamnews.jp",
+        "source": "ドリームニュース",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jYnNKa0NXT2cwNjBOeEJfYm1nWjBOYkd2QWVwV25LS0s0RXNsd01ENDJPc0xuUkJtMEEwa1l3TWJfRGswZzZ3alY1N3dLVjYzLWww?oc=5",
         "publishedAt": "2026-10-02T02:30:00.000Z"
       },
@@ -54,7 +54,7 @@
       {
         "time": "05:00",
         "title": "金融庁、「オンチェーン金融」で実現策 AI時代にらみ検討",
-        "source": "nikkan.co.jp",
+        "source": "日刊工業新聞",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45S0s5NHVBZXJvU3d4UzZYVUMzY0pUU2R4RzJNblZYdDJEaldGSjlyRG5DOVRKcmtwV185Ml9BZW8yckRKVF90RE53NW1KUy01Mmo0clpISmc?oc=5",
         "publishedAt": "2026-10-01T20:00:00.000Z"
       }
@@ -105,6 +105,13 @@
     ],
     "economyHeadlines": [
       {
+        "time": "23:04",
+        "title": "プルデンシャルの処分検討 金融庁",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597329?source=rss",
+        "publishedAt": "2026-10-02T14:04:42.000Z"
+      },
+      {
         "time": "20:46",
         "title": "東北3地銀 28年4月統合向け協議へ",
         "source": "Yahoo!ニュース",
@@ -138,13 +145,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597315?source=rss",
         "publishedAt": "2026-10-02T11:10:40.000Z"
-      },
-      {
-        "time": "07:39",
-        "title": "ブルーカラー人気 背景に人手不足",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597230?source=rss",
-        "publishedAt": "2026-10-01T22:39:17.000Z"
       }
     ],
     "localHeadlines": [
