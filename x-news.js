@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T13:19:13.333Z",
+  "updatedAt": "2026-10-02T13:43:07.383Z",
   "items": [
     {
       "time": "20:43",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "津市で火災 焼け跡から4人の遺体"
     },
     {
-      "time": "17:14",
-      "title": "免許証画像流出 集団訴訟動き進む",
+      "time": "20:46",
+      "title": "東北3地銀 28年4月統合向け協議へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597293?source=rss",
-      "publishedAt": "2026-10-02T08:14:52.000Z",
-      "xQuery": "免許証画像流出 集団訴訟動き進む"
+      "url": "https://news.yahoo.co.jp/pickup/6597317?source=rss",
+      "publishedAt": "2026-10-02T11:46:40.000Z",
+      "xQuery": "東北3地銀 28年4月統合向け協議へ"
     },
     {
-      "time": "20:10",
-      "title": "スガキヤが「ドムドム」子会社化",
+      "time": "20:20",
+      "title": "日本が対露制裁「影の船団」対象",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597315?source=rss",
-      "publishedAt": "2026-10-02T11:10:40.000Z",
-      "xQuery": "スガキヤが「ドムドム」子会社化"
+      "url": "https://news.yahoo.co.jp/pickup/6597316?source=rss",
+      "publishedAt": "2026-10-02T11:20:28.000Z",
+      "xQuery": "日本が対露制裁「影の船団」対象"
     },
     {
       "time": "18:49",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "佐川急便 宅配便平均13%値上げへ"
     },
     {
-      "time": "21:10",
-      "title": "久保建英&福原遥 結婚を電撃発表",
+      "time": "20:10",
+      "title": "スガキヤが「ドムドム」子会社化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597319?source=rss",
-      "publishedAt": "2026-10-02T12:10:30.000Z",
-      "xQuery": "久保建英&福原遥 結婚を電撃発表"
+      "url": "https://news.yahoo.co.jp/pickup/6597315?source=rss",
+      "publishedAt": "2026-10-02T11:10:40.000Z",
+      "xQuery": "スガキヤが「ドムドム」子会社化"
     }
   ]
 };
