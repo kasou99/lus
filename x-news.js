@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T23:15:15.203Z",
+  "updatedAt": "2026-10-02T23:38:12.814Z",
   "items": [
     {
       "time": "07:46",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "副首都となる要件 4道府県満たす"
     },
     {
+      "time": "08:18",
+      "title": "人口水増し 市が交付税過剰受領か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597345?source=rss",
+      "publishedAt": "2026-10-02T23:18:32.000Z",
+      "xQuery": "人口水増し 市が交付税過剰受領か"
+    },
+    {
       "time": "07:11",
       "title": "北発射のミサイル EEZ外に落下か",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597338?source=rss",
       "publishedAt": "2026-10-02T22:11:55.000Z",
       "xQuery": "北発射のミサイル EEZ外に落下か"
-    },
-    {
-      "time": "22:54",
-      "title": "情報漏えい相次ぐ「異様」と識者",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597326?source=rss",
-      "publishedAt": "2026-10-02T13:54:01.000Z",
-      "xQuery": "情報漏えい相次ぐ「異様」と識者"
     },
     {
       "time": "00:04",
