@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T22:40:08.066Z",
+  "updatedAt": "2026-10-02T23:15:14.442Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -68,6 +68,13 @@
         "publishedAt": "2026-10-02T22:11:55.000Z"
       },
       {
+        "time": "08:07",
+        "title": "露の新型ドローン イラン製を改良",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597343?source=rss",
+        "publishedAt": "2026-10-02T23:07:53.000Z"
+      },
+      {
         "time": "00:15",
         "title": "G7 石油備蓄1億バレル協調放出へ",
         "source": "Yahoo!ニュース",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597234?source=rss",
         "publishedAt": "2026-10-01T23:09:20.000Z"
-      },
-      {
-        "time": "09:08",
-        "title": "韓国「検察庁」78年の歴史に幕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597240?source=rss",
-        "publishedAt": "2026-10-02T00:08:20.000Z"
       }
     ],
     "economyHeadlines": [

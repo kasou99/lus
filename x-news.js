@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T22:40:09.081Z",
+  "updatedAt": "2026-10-02T23:15:15.203Z",
   "items": [
+    {
+      "time": "07:46",
+      "title": "副首都となる要件 4道府県満たす",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597340?source=rss",
+      "publishedAt": "2026-10-02T22:46:02.000Z",
+      "xQuery": "副首都となる要件 4道府県満たす"
+    },
     {
       "time": "07:11",
       "title": "北発射のミサイル EEZ外に落下か",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597334?source=rss",
       "publishedAt": "2026-10-02T15:04:50.000Z",
       "xQuery": "焼け跡に4遺体 4歳から13歳の子か"
-    },
-    {
-      "time": "23:38",
-      "title": "童謡など作曲 服部公一さんが死去",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597332?source=rss",
-      "publishedAt": "2026-10-02T14:38:09.000Z",
-      "xQuery": "童謡など作曲 服部公一さんが死去"
     },
     {
       "time": "07:31",
