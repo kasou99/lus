@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T04:45:34.704Z",
+  "updatedAt": "2026-10-02T05:19:08.549Z",
   "items": [
     {
       "time": "12:53",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "農相 報道巡り「回答控える」連発"
     },
     {
-      "time": "08:09",
-      "title": "G20貿易相 過剰生産巡り意見対立",
+      "time": "14:00",
+      "title": "ニデック会見 異例の監査法人同席",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597234?source=rss",
-      "publishedAt": "2026-10-01T23:09:20.000Z",
-      "xQuery": "G20貿易相 過剰生産巡り意見対立"
+      "url": "https://news.yahoo.co.jp/pickup/6597273?source=rss",
+      "publishedAt": "2026-10-02T05:00:14.000Z",
+      "xQuery": "ニデック会見 異例の監査法人同席"
     },
     {
-      "time": "13:27",
-      "title": "火災1人死亡 消防隊員は心肺停止",
+      "time": "14:15",
+      "title": "焼け跡から遺体 消防隊員も死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597267?source=rss",
-      "publishedAt": "2026-10-02T04:27:54.000Z",
-      "xQuery": "火災1人死亡 消防隊員は心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6597274?source=rss",
+      "publishedAt": "2026-10-02T05:15:34.000Z",
+      "xQuery": "焼け跡から遺体 消防隊員も死亡"
     },
     {
       "time": "11:28",

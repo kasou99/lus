@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T04:45:34.052Z",
+  "updatedAt": "2026-10-02T05:19:07.803Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -17,11 +17,11 @@
         "publishedAt": "2026-10-02T01:23:11.000Z"
       },
       {
-        "time": "05:00",
-        "title": "ニュース拡大鏡／製鉄所跡地の開発進む、JFE・川崎市、産業拠点構築",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oUDZqVmZQcld5bDIxYkhaUVdHTFUwY0RTQW5KN3VLb1lRbVZfU25zNDZiSmV3YjVHY00xRXQ0Y0xGb1BFanJPT0JrajFvOF91VlVfdFk5ZVQ?oc=5",
-        "publishedAt": "2026-10-01T20:00:00.000Z"
+        "time": "10:44",
+        "title": "株式会社設備保全総合研究所が刷新した点検アプリ『EMLink』がもたらす新しい発電所運営の形",
+        "source": "ニュースメディアVOIX",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UZEx3OHdocGV0cldHalNha1RielVzOTNSSVhEcnhWMUpveEVpREZRcW53MWx2eFV0elJjUVAzVy00Y18tWGtMRU9fSEtPSmNPWmwwT0p6T3U4dE96YUtHVWJSX1YwRldRZ0xhNA?oc=5",
+        "publishedAt": "2026-10-02T01:44:46.000Z"
       },
       {
         "time": "19:00",
@@ -68,6 +68,13 @@
         "publishedAt": "2026-10-01T22:11:42.000Z"
       },
       {
+        "time": "13:56",
+        "title": "露大統領「日本の軍備増強懸念」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597272?source=rss",
+        "publishedAt": "2026-10-02T04:56:35.000Z"
+      },
+      {
         "time": "08:09",
         "title": "G20貿易相 過剰生産巡り意見対立",
         "source": "Yahoo!ニュース",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597240?source=rss",
         "publishedAt": "2026-10-02T00:08:20.000Z"
-      },
-      {
-        "time": "11:14",
-        "title": "国防長官 米軍将官20%削減と発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597146?source=rss",
-        "publishedAt": "2026-10-01T02:14:11.000Z"
       },
       {
         "time": "11:50",
@@ -112,18 +112,18 @@
         "publishedAt": "2026-10-01T22:26:16.000Z"
       },
       {
+        "time": "14:00",
+        "title": "ニデック会見 異例の監査法人同席",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597273?source=rss",
+        "publishedAt": "2026-10-02T05:00:14.000Z"
+      },
+      {
         "time": "09:21",
         "title": "トイザらス立て直し 成否のカギは",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597241?source=rss",
         "publishedAt": "2026-10-02T00:21:05.000Z"
-      },
-      {
-        "time": "20:54",
-        "title": "青森秋田岩手の3銀行 統合協議へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597211?source=rss",
-        "publishedAt": "2026-10-01T11:54:52.000Z"
       },
       {
         "time": "07:39",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "13:27",
-        "title": "火災1人死亡 消防隊員は心肺停止",
+        "time": "14:15",
+        "title": "焼け跡から遺体 消防隊員も死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597267?source=rss",
-        "publishedAt": "2026-10-02T04:27:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597274?source=rss",
+        "publishedAt": "2026-10-02T05:15:34.000Z"
       },
       {
         "time": "11:56",
