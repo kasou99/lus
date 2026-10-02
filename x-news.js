@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T03:46:08.152Z",
+  "updatedAt": "2026-10-02T04:22:07.568Z",
   "items": [
     {
-      "time": "09:59",
-      "title": "首相 減税は価格反映されると認識",
+      "time": "12:53",
+      "title": "農相 報道巡り「回答控える」連発",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597247?source=rss",
-      "publishedAt": "2026-10-02T00:59:28.000Z",
-      "xQuery": "首相 減税は価格反映されると認識"
+      "url": "https://news.yahoo.co.jp/pickup/6597264?source=rss",
+      "publishedAt": "2026-10-02T03:53:09.000Z",
+      "xQuery": "農相 報道巡り「回答控える」連発"
     },
     {
       "time": "08:09",
