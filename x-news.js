@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T09:43:35.319Z",
+  "updatedAt": "2026-10-02T10:18:46.870Z",
   "items": [
     {
       "time": "18:18",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "住宅焼け跡から3人の遺体 津市"
     },
     {
-      "time": "16:39",
-      "title": "「赤い羽根」閣僚らが着用自粛",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597288?source=rss",
-      "publishedAt": "2026-10-02T07:39:05.000Z",
-      "xQuery": "「赤い羽根」閣僚らが着用自粛"
-    },
-    {
       "time": "18:10",
       "title": "紀州ドンファンの遺言有効 最高裁",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "紀州ドンファンの遺言有効 最高裁"
     },
     {
-      "time": "16:23",
-      "title": "鉄骨落下し首に刺さる 作業員重体",
+      "time": "17:11",
+      "title": "クマに腕かまれる 一緒に10m滑落",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597287?source=rss",
-      "publishedAt": "2026-10-02T07:23:57.000Z",
-      "xQuery": "鉄骨落下し首に刺さる 作業員重体"
+      "url": "https://news.yahoo.co.jp/pickup/6597292?source=rss",
+      "publishedAt": "2026-10-02T08:11:21.000Z",
+      "xQuery": "クマに腕かまれる 一緒に10m滑落"
+    },
+    {
+      "time": "18:40",
+      "title": "新名神事故 原形留めぬ車に遺族涙",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597307?source=rss",
+      "publishedAt": "2026-10-02T09:40:00.000Z",
+      "xQuery": "新名神事故 原形留めぬ車に遺族涙"
     }
   ]
 };
