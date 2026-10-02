@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T11:17:21.536Z",
+  "updatedAt": "2026-10-02T11:41:17.878Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -61,6 +61,13 @@
     ],
     "worldHeadlines": [
       {
+        "time": "20:20",
+        "title": "日本が対露制裁「影の船団」対象",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597316?source=rss",
+        "publishedAt": "2026-10-02T11:20:28.000Z"
+      },
+      {
         "time": "07:11",
         "title": "トランプ氏 習氏へ日中対話促す",
         "source": "Yahoo!ニュース",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597240?source=rss",
         "publishedAt": "2026-10-02T00:08:20.000Z"
-      },
-      {
-        "time": "11:50",
-        "title": "米誌「次世代の100人」に八幡市長",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597153?source=rss",
-        "publishedAt": "2026-10-01T02:50:47.000Z"
       },
       {
         "time": "23:38",

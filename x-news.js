@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T11:17:22.577Z",
+  "updatedAt": "2026-10-02T11:41:18.666Z",
   "items": [
     {
       "time": "18:18",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "山中でシカに襲われたか 男性死亡"
     },
     {
-      "time": "19:13",
-      "title": "鉄材落下し首に刺さる 作業員死亡",
+      "time": "20:10",
+      "title": "スガキヤが「ドムドム」子会社化",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597312?source=rss",
-      "publishedAt": "2026-10-02T10:13:11.000Z",
-      "xQuery": "鉄材落下し首に刺さる 作業員死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6597315?source=rss",
+      "publishedAt": "2026-10-02T11:10:40.000Z",
+      "xQuery": "スガキヤが「ドムドム」子会社化"
     }
   ]
 };
