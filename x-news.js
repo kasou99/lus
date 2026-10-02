@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T22:17:22.746Z",
+  "updatedAt": "2026-10-02T22:40:09.081Z",
   "items": [
     {
       "time": "07:11",
@@ -8,14 +8,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597338?source=rss",
       "publishedAt": "2026-10-02T22:11:55.000Z",
       "xQuery": "北発射のミサイル EEZ外に落下か"
-    },
-    {
-      "time": "23:44",
-      "title": "第一ライフG 従業員情報漏えいか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597333?source=rss",
-      "publishedAt": "2026-10-02T14:44:23.000Z",
-      "xQuery": "第一ライフG 従業員情報漏えいか"
     },
     {
       "time": "22:54",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597332?source=rss",
       "publishedAt": "2026-10-02T14:38:09.000Z",
       "xQuery": "童謡など作曲 服部公一さんが死去"
+    },
+    {
+      "time": "07:31",
+      "title": "上司を「さん」呼びが増加 調査",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597339?source=rss",
+      "publishedAt": "2026-10-02T22:31:38.000Z",
+      "xQuery": "上司を「さん」呼びが増加 調査"
     }
   ]
 };
