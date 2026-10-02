@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T02:49:19.270Z",
+  "updatedAt": "2026-10-02T03:22:56.890Z",
   "items": [
     {
       "time": "09:59",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "G20貿易相 過剰生産巡り意見対立"
     },
     {
+      "time": "11:56",
+      "title": "東京豊島区で男性刺される 男逃走",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597256?source=rss",
+      "publishedAt": "2026-10-02T02:56:38.000Z",
+      "xQuery": "東京豊島区で男性刺される 男逃走"
+    },
+    {
       "time": "11:28",
       "title": "死刑失敗の米死刑囚重体 救命治療",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597243?source=rss",
       "publishedAt": "2026-10-02T00:37:16.000Z",
       "xQuery": "今季初 北海道の旭岳で「初冠雪」"
-    },
-    {
-      "time": "10:00",
-      "title": "飲酒事故で3人死亡 運転手を提訴",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597246?source=rss",
-      "publishedAt": "2026-10-02T01:00:04.000Z",
-      "xQuery": "飲酒事故で3人死亡 運転手を提訴"
     }
   ]
 };

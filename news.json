@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-02T02:49:18.518Z",
+  "updatedAt": "2026-10-02T03:22:55.865Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "11:30",
-        "title": "NSW、デジタルツインとスマートグラスを活用した取り組みで「精密工学会ものづくり賞」を受賞 ～デジタル技術を活用し、製造現場の設備保全・メンテナンス業務の高度化に貢献～",
+        "time": "12:00",
+        "title": "CNC工作機械用消火装置の世界市場2026年、グローバル市場規模（二酸化炭素式、クリーン消火剤式、凝縮エアロゾル式、微細水噴霧式、粉末消火式）・分析レポートを発表",
         "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jYnNKa0NXT2cwNjBOeEJfYm1nWjBOYkd2QWVwV25LS0s0RXNsd01ENDJPc0xuUkJtMEEwa1l3TWJfRGswZzZ3alY1N3dLVjYzLWww?oc=5",
-        "publishedAt": "2026-10-02T02:30:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41NS1VWjMyWGZKcnl5aFBHQ1VWZXdBX0RDTGIwdmVPTlZnaE9jaVI5c0tscXJPd01IcThTUWNNbFByTGgtbkNNR09FcVpEV3BLdWV3?oc=5",
+        "publishedAt": "2026-10-02T03:00:00.000Z"
       },
       {
         "time": "10:16",
@@ -15,6 +15,13 @@
         "source": "時事ドットコム",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GWlR5NDdKQ3U2d050anhMLUtaQmxFWTd5TGRBWlRTSTFVaUd4ZjBjOXRVRnMwUExOdG5oY2R1WWZLc2VJalMwOXZZVWZGVXZaOEJPZTNXOUlVc2Rmek9KQjRiWnp6c183ZUxR?oc=5",
         "publishedAt": "2026-10-02T01:16:00.000Z"
+      },
+      {
+        "time": "10:44",
+        "title": "株式会社設備保全総合研究所が刷新した点検アプリ『EMLink』がもたらす新しい発電所運営の形",
+        "source": "ニュースメディアVOIX",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UZEx3OHdocGV0cldHalNha1RielVzOTNSSVhEcnhWMUpveEVpREZRcW53MWx2eFV0elJjUVAzVy00Y18tWGtMRU9fSEtPSmNPWmwwT0p6T3U4dE96YUtHVWJSX1YwRldRZ0xhNA?oc=5",
+        "publishedAt": "2026-10-02T01:44:46.000Z"
       },
       {
         "time": "05:00",
@@ -31,11 +38,11 @@
         "publishedAt": "2026-10-01T10:00:00.000Z"
       },
       {
-        "time": "04:55",
-        "title": "京都市内、精密部品メーカーが破産手続き開始決定 大手メーカーから部品受注、サーフィン用品も",
-        "source": "京都新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfSU1JUzRvNHBodmhKVTlpQW5hRnJmMWlQZ0VzMU9lei1uX19GZ2czUmdPZEN0SG1XNGQ0VWdJb3pUZGppSW9zc2RjYnA2ZXpQbHcxNnVzMTM?oc=5",
-        "publishedAt": "2026-10-01T19:55:00.000Z"
+        "time": "12:03",
+        "title": "NSW、デジタルツインとスマートグラスを活用した取り組みで「精密工学会ものづくり賞」を受賞",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82aHB4UWNFS0l5R01raHRJbm9BdTZ5WS1CRzljUng1ZHpWRldiYzhRNmRkUm1zOTJNSDdXdW83dml5eVViTWhuTEZLSHpjQlVHdUFKWUFuQjdCTVNPemxnalNxcnRZMngwQ0tWM0xKVmJrNW1ILVdjRWQ2cw?oc=5",
+        "publishedAt": "2026-10-02T03:03:29.000Z"
       },
       {
         "time": "22:13",
@@ -43,13 +50,6 @@
         "source": "オリコンニュース",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pVTFwR2ZEdEtyeXR4TERkSndPT1VaNFlJb3JPWms4T29rZzM0el9hcHVveEtUaTFxN1ZhNG5QRXpSdGp0N2NrQ01KZzBPbGZ1TmZOUmdtM2MyeUluc0c0YTREVEY?oc=5",
         "publishedAt": "2026-10-01T13:13:00.000Z"
-      },
-      {
-        "time": "16:21",
-        "title": "【設備保全DX】第29回 ものづくり ワールド [大阪]に次世代設備保全クラウド「M2X」ブースを出展",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aalJsN2p2LWd6M1FpS3ZfTkxtcWJvakt4VzZjWjV2WXF3dlQtcUlSTWpOeWhScFRvU0R5TmxkLXFIRURJakEzV2U0MUZMc0dyU3Vjbg?oc=5",
-        "publishedAt": "2026-10-01T07:21:16.000Z"
       },
       {
         "time": "16:41",
@@ -149,25 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "11:56",
+        "title": "東京豊島区で男性刺される 男逃走",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597256?source=rss",
+        "publishedAt": "2026-10-02T02:56:38.000Z"
+      },
+      {
         "time": "07:40",
         "title": "JR内房線の不通 学校現場に混乱",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597231?source=rss",
         "publishedAt": "2026-10-01T22:40:45.000Z"
-      },
-      {
-        "time": "08:55",
-        "title": "同志社国際高 校外活動を再開へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597239?source=rss",
-        "publishedAt": "2026-10-01T23:55:40.000Z"
-      },
-      {
-        "time": "10:00",
-        "title": "飲酒事故で3人死亡 運転手を提訴",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597246?source=rss",
-        "publishedAt": "2026-10-02T01:00:04.000Z"
       },
       {
         "time": "07:50",
@@ -189,6 +182,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597207?source=rss",
         "publishedAt": "2026-10-01T11:37:03.000Z"
+      },
+      {
+        "time": "12:17",
+        "title": "立花孝志氏 被害者として裁判参加",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597258?source=rss",
+        "publishedAt": "2026-10-02T03:17:43.000Z"
       }
     ],
     "subsidyHeadlines": [
