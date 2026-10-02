@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T14:44:34.097Z",
+  "updatedAt": "2026-10-02T15:18:50.675Z",
   "items": [
     {
-      "time": "23:04",
-      "title": "プルデンシャルの処分検討 金融庁",
+      "time": "00:15",
+      "title": "G7 石油備蓄1億バレル協調放出へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597329?source=rss",
-      "publishedAt": "2026-10-02T14:04:42.000Z",
-      "xQuery": "プルデンシャルの処分検討 金融庁"
+      "url": "https://news.yahoo.co.jp/pickup/6597336?source=rss",
+      "publishedAt": "2026-10-02T15:15:30.000Z",
+      "xQuery": "G7 石油備蓄1億バレル協調放出へ"
     },
     {
-      "time": "20:46",
-      "title": "東北3地銀 28年4月統合向け協議へ",
+      "time": "23:44",
+      "title": "第一ライフG 従業員情報漏えいか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597317?source=rss",
-      "publishedAt": "2026-10-02T11:46:40.000Z",
-      "xQuery": "東北3地銀 28年4月統合向け協議へ"
-    },
-    {
-      "time": "23:20",
-      "title": "縦書き文章触れる機会「ない」3割",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597330?source=rss",
-      "publishedAt": "2026-10-02T14:20:38.000Z",
-      "xQuery": "縦書き文章触れる機会「ない」3割"
+      "url": "https://news.yahoo.co.jp/pickup/6597333?source=rss",
+      "publishedAt": "2026-10-02T14:44:23.000Z",
+      "xQuery": "第一ライフG 従業員情報漏えいか"
     },
     {
       "time": "22:54",
@@ -32,6 +24,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597326?source=rss",
       "publishedAt": "2026-10-02T13:54:01.000Z",
       "xQuery": "情報漏えい相次ぐ「異様」と識者"
+    },
+    {
+      "time": "00:04",
+      "title": "焼け跡に4遺体 4歳から13歳の子か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597334?source=rss",
+      "publishedAt": "2026-10-02T15:04:50.000Z",
+      "xQuery": "焼け跡に4遺体 4歳から13歳の子か"
     },
     {
       "time": "23:38",
