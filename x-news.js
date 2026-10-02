@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-01T23:38:54.388Z",
+  "updatedAt": "2026-10-02T00:51:42.562Z",
   "items": [
     {
-      "time": "07:11",
-      "title": "トランプ氏 習氏へ日中対話促す",
+      "time": "07:25",
+      "title": "政府 ロシアへの追加制裁を検討",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597227?source=rss",
-      "publishedAt": "2026-10-01T22:11:42.000Z",
-      "xQuery": "トランプ氏 習氏へ日中対話促す"
+      "url": "https://news.yahoo.co.jp/pickup/6597229?source=rss",
+      "publishedAt": "2026-10-01T22:25:05.000Z",
+      "xQuery": "政府 ロシアへの追加制裁を検討"
     },
     {
-      "time": "07:40",
-      "title": "JR内房線の不通 学校現場に混乱",
+      "time": "09:08",
+      "title": "韓国「検察庁」78年の歴史に幕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597231?source=rss",
-      "publishedAt": "2026-10-01T22:40:45.000Z",
-      "xQuery": "JR内房線の不通 学校現場に混乱"
-    },
-    {
-      "time": "07:50",
-      "title": "男性切りつけられる 隣人の男逮捕",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597232?source=rss",
-      "publishedAt": "2026-10-01T22:50:47.000Z",
-      "xQuery": "男性切りつけられる 隣人の男逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6597240?source=rss",
+      "publishedAt": "2026-10-02T00:08:20.000Z",
+      "xQuery": "韓国「検察庁」78年の歴史に幕"
     },
     {
       "time": "07:00",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米死刑囚への刑執行が「失敗」"
     },
     {
-      "time": "07:39",
-      "title": "ブルーカラー人気 背景に人手不足",
+      "time": "08:58",
+      "title": "3歳死亡 2km超にわたり飲酒運転か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597230?source=rss",
-      "publishedAt": "2026-10-01T22:39:17.000Z",
-      "xQuery": "ブルーカラー人気 背景に人手不足"
+      "url": "https://news.yahoo.co.jp/pickup/6597238?source=rss",
+      "publishedAt": "2026-10-01T23:58:14.000Z",
+      "xQuery": "3歳死亡 2km超にわたり飲酒運転か"
+    },
+    {
+      "time": "08:38",
+      "title": "各地に毒キノコ「妖精の輪」も",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597236?source=rss",
+      "publishedAt": "2026-10-01T23:38:39.000Z",
+      "xQuery": "各地に毒キノコ「妖精の輪」も"
     }
   ]
 };
