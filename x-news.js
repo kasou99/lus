@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T05:42:55.085Z",
+  "updatedAt": "2026-10-02T06:32:27.774Z",
   "items": [
     {
       "time": "12:53",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "焼け跡から遺体 消防隊員も死亡"
     },
     {
-      "time": "14:37",
-      "title": "喫煙所に車突っ込む 男女5人けが",
+      "time": "15:21",
+      "title": "喫煙所に車突っ込む 男女7人けが",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597276?source=rss",
-      "publishedAt": "2026-10-02T05:37:38.000Z",
-      "xQuery": "喫煙所に車突っ込む 男女5人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6597279?source=rss",
+      "publishedAt": "2026-10-02T06:21:03.000Z",
+      "xQuery": "喫煙所に車突っ込む 男女7人けが"
     },
     {
       "time": "12:49",
