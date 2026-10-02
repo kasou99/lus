@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T12:53:09.855Z",
+  "updatedAt": "2026-10-02T13:19:13.333Z",
   "items": [
     {
       "time": "20:43",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "免許証画像流出 集団訴訟動き進む"
     },
     {
-      "time": "19:44",
-      "title": "山中でシカに襲われたか 男性死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597314?source=rss",
-      "publishedAt": "2026-10-02T10:44:15.000Z",
-      "xQuery": "山中でシカに襲われたか 男性死亡"
-    },
-    {
       "time": "20:10",
       "title": "スガキヤが「ドムドム」子会社化",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "スガキヤが「ドムドム」子会社化"
     },
     {
-      "time": "12:49",
-      "title": "もう辞めたい「フキハラ」の実態",
+      "time": "18:49",
+      "title": "佐川急便 宅配便平均13%値上げへ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597263?source=rss",
-      "publishedAt": "2026-10-02T03:49:11.000Z",
-      "xQuery": "もう辞めたい「フキハラ」の実態"
+      "url": "https://news.yahoo.co.jp/pickup/6597309?source=rss",
+      "publishedAt": "2026-10-02T09:49:13.000Z",
+      "xQuery": "佐川急便 宅配便平均13%値上げへ"
+    },
+    {
+      "time": "21:10",
+      "title": "久保建英&福原遥 結婚を電撃発表",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597319?source=rss",
+      "publishedAt": "2026-10-02T12:10:30.000Z",
+      "xQuery": "久保建英&福原遥 結婚を電撃発表"
     }
   ]
 };
