@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T01:34:23.827Z",
+  "updatedAt": "2026-10-02T02:27:34.055Z",
   "items": [
     {
       "time": "09:59",
@@ -18,14 +18,6 @@ window.LUS_X_NEWS = {
       "xQuery": "韓国「検察庁」78年の歴史に幕"
     },
     {
-      "time": "08:58",
-      "title": "3歳死亡 2km超にわたり飲酒運転か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597238?source=rss",
-      "publishedAt": "2026-10-01T23:58:14.000Z",
-      "xQuery": "3歳死亡 2km超にわたり飲酒運転か"
-    },
-    {
       "time": "09:37",
       "title": "今季初 北海道の旭岳で「初冠雪」",
       "source": "Yahoo!ニュース",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "今季初 北海道の旭岳で「初冠雪」"
     },
     {
-      "time": "07:39",
-      "title": "ブルーカラー人気 背景に人手不足",
+      "time": "10:00",
+      "title": "飲酒事故で3人死亡 運転手を提訴",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597230?source=rss",
-      "publishedAt": "2026-10-01T22:39:17.000Z",
-      "xQuery": "ブルーカラー人気 背景に人手不足"
+      "url": "https://news.yahoo.co.jp/pickup/6597246?source=rss",
+      "publishedAt": "2026-10-02T01:00:04.000Z",
+      "xQuery": "飲酒事故で3人死亡 運転手を提訴"
+    },
+    {
+      "time": "08:55",
+      "title": "同志社国際高 校外活動を再開へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597239?source=rss",
+      "publishedAt": "2026-10-01T23:55:40.000Z",
+      "xQuery": "同志社国際高 校外活動を再開へ"
     }
   ]
 };

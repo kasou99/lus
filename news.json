@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-02T01:34:22.558Z",
+  "updatedAt": "2026-10-02T02:27:32.591Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "08:20",
+        "time": "10:16",
         "title": "太陽光・風力ファームの少人数運営に ― 圏外でも止まらない点検アプリ、AI設備保全システム『EMLink』が刷新",
-        "source": "PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZS3RWXy1fX29RMVRNbzM3SnA0TW5TQXhCTUZNSnlNVU9BUGZfTXJBaV9sQUN6c3o4Y3ZnYmYtNndZZkxRQkRwMzJnQlFpTWc1aFB5ZURMQzZOUE5JRlZCUUp2REp6ek9POGc?oc=5",
-        "publishedAt": "2026-10-01T23:20:01.000Z"
+        "source": "時事ドットコム",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GWlR5NDdKQ3U2d050anhMLUtaQmxFWTd5TGRBWlRTSTFVaUd4ZjBjOXRVRnMwUExOdG5oY2R1WWZLc2VJalMwOXZZVWZGVXZaOEJPZTNXOUlVc2Rmek9KQjRiWnp6c183ZUxR?oc=5",
+        "publishedAt": "2026-10-02T01:16:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "ニュース拡大鏡／製鉄所跡地の開発進む、JFE・川崎市、産業拠点構築",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oUDZqVmZQcld5bDIxYkhaUVdHTFUwY0RTQW5KN3VLb1lRbVZfU25zNDZiSmV3YjVHY00xRXQ0Y0xGb1BFanJPT0JrajFvOF91VlVfdFk5ZVQ?oc=5",
+        "publishedAt": "2026-10-01T20:00:00.000Z"
       },
       {
         "time": "19:00",
@@ -15,13 +22,6 @@
         "source": "オートメーション新聞WEB",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DR3JNanJrMk9lSldLQWxDbklWcVN0QnVMVkwyNFlZdm93U1NoRHdWUVBCYmdhZUdQZ0pfRzVOQ0hvZm5lYTJCd1F4NkxRTEdIblcyUTA4cUt2QQ?oc=5",
         "publishedAt": "2026-10-01T10:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "和井田製作所、ナノ台の高精度研磨 レーザー加工機",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qNTFmQ0F6SnRaMlMwcjRfVnRNeHdUakt5dnB5V2NJb3VNWklWa2l5SEMtM3hTMFp6NjBGWkhfUXVDSU14SF9Pck5Ra1pMZTB4WmpxWkhFWEk?oc=5",
-        "publishedAt": "2026-10-01T20:00:00.000Z"
       },
       {
         "time": "04:55",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-01T07:41:07.000Z"
       },
       {
-        "time": "01:56",
-        "title": "日本CNC切断機市場の主要10社まとめ",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE41Q1dTZ2V4eFNGRVp4TnFTaFdDQTBvTENwejlaN01qakc5Ny1BYno3U0tzU0hBV3ZPQi03RE9tSWN5R29zTkFQa3ZB?oc=5",
-        "publishedAt": "2026-10-01T16:56:30.000Z"
+        "time": "07:31",
+        "title": "イスラエル軍需企業 取引中止を求め抗議 幕張メッセで市民有志",
+        "source": "東京新聞",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5U0YySDJiNW1EejJwNU5qZ3pFZTJ5VDA3RGZSOVZOTXBVdklKNVBjTkM5bnFNUnVFTGE2YkNBRW5TcEkwQVhIaWFXYjlaMExXTE5j?oc=5",
+        "publishedAt": "2026-10-01T22:31:12.000Z"
       }
     ],
     "worldHeadlines": [
@@ -184,11 +184,11 @@
         "publishedAt": "2026-10-01T23:58:14.000Z"
       },
       {
-        "time": "20:31",
-        "title": "滋賀の工場で爆発 男性の遺体発見",
+        "time": "20:37",
+        "title": "無許可でモスク建設 市が撤去命令",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597208?source=rss",
-        "publishedAt": "2026-10-01T11:31:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597207?source=rss",
+        "publishedAt": "2026-10-01T11:37:03.000Z"
       }
     ],
     "subsidyHeadlines": [
