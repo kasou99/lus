@@ -1,21 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T08:46:02.721Z",
+  "updatedAt": "2026-10-02T09:20:28.997Z",
   "items": [
     {
-      "time": "17:30",
-      "title": "中継 簗農相が報道受け記者会見",
+      "time": "17:23",
+      "title": "茨城知事 核ゴミ概要調査同意せず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597298?source=rss",
-      "publishedAt": "2026-10-02T08:30:08.000Z",
-      "xQuery": "中継 簗農相が報道受け記者会見"
+      "url": "https://news.yahoo.co.jp/pickup/6597295?source=rss",
+      "publishedAt": "2026-10-02T08:23:36.000Z",
+      "xQuery": "茨城知事 核ゴミ概要調査同意せず"
     },
     {
-      "time": "15:53",
-      "title": "広島市の松井市長 悪性の脳腫瘍",
+      "time": "18:00",
+      "title": "住宅焼け跡から3人の遺体 津市",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597282?source=rss",
-      "publishedAt": "2026-10-02T06:53:59.000Z",
-      "xQuery": "広島市の松井市長 悪性の脳腫瘍"
+      "url": "https://news.yahoo.co.jp/pickup/6597299?source=rss",
+      "publishedAt": "2026-10-02T09:00:19.000Z",
+      "xQuery": "住宅焼け跡から3人の遺体 津市"
     },
     {
       "time": "16:39",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "「赤い羽根」閣僚らが着用自粛"
     },
     {
-      "time": "16:49",
-      "title": "住宅火災 子ども4人が逃げ遅れか",
+      "time": "18:10",
+      "title": "紀州ドンファンの遺言有効 最高裁",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597291?source=rss",
-      "publishedAt": "2026-10-02T07:49:17.000Z",
-      "xQuery": "住宅火災 子ども4人が逃げ遅れか"
+      "url": "https://news.yahoo.co.jp/pickup/6597303?source=rss",
+      "publishedAt": "2026-10-02T09:10:37.000Z",
+      "xQuery": "紀州ドンファンの遺言有効 最高裁"
     },
     {
       "time": "16:23",
