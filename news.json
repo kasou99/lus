@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T19:40:01.442Z",
+  "updatedAt": "2026-10-02T20:18:12.000Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -31,13 +31,6 @@
         "publishedAt": "2026-10-02T01:44:46.000Z"
       },
       {
-        "time": "11:30",
-        "title": "NSW、デジタルツインとスマートグラスを活用した取り組みで「精密工学会ものづくり賞」を受賞 ～デジタル技術を活用し、製造現場の設備保全・メンテナンス業務の高度化に貢献～",
-        "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jYnNKa0NXT2cwNjBOeEJfYm1nWjBOYkd2QWVwV25LS0s0RXNsd01ENDJPc0xuUkJtMEEwa1l3TWJfRGswZzZ3alY1N3dLVjYzLWww?oc=5",
-        "publishedAt": "2026-10-02T02:30:00.000Z"
-      },
-      {
         "time": "09:45",
         "title": "田辺工業(1828) 1Qは大型工事の進捗、施工効率の改善等で増収増益。受注高は2ケタ増加",
         "source": "QUICK Money World",
@@ -45,18 +38,25 @@
         "publishedAt": "2026-10-02T00:45:00.000Z"
       },
       {
-        "time": "05:00",
-        "title": "金融庁、「オンチェーン金融」で実現策 AI時代にらみ検討",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45S0s5NHVBZXJvU3d4UzZYVUMzY0pUU2R4RzJNblZYdDJEaldGSjlyRG5DOVRKcmtwV185Ml9BZW8yckRKVF90RE53NW1KUy01Mmo0clpISmc?oc=5",
-        "publishedAt": "2026-10-01T20:00:00.000Z"
-      },
-      {
         "time": "15:38",
         "title": "エンコーダ市場：タイプ、技術、信号タイプ別、出力タイプ別、用途、最終用途、流通チャネル別―2026年～2032年の世界市場予測",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aUjZuOF9ySUlxZUxubkZCQnE1emNBNFRYRkJRZ25NQTBRc2NXdWxIdjF1MG53Y09oelV2dWFZNm9xRV9HVXFwUHFCbm5ITlk?oc=5",
         "publishedAt": "2026-10-02T06:38:00.000Z"
+      },
+      {
+        "time": "07:31",
+        "title": "イスラエル軍需企業 取引中止を求め抗議 幕張メッセで市民有志",
+        "source": "東京新聞",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5U0YySDJiNW1EejJwNU5qZ3pFZTJ5VDA3RGZSOVZOTXBVdklKNVBjTkM5bnFNUnVFTGE2YkNBRW5TcEkwQVhIaWFXYjlaMExXTE5j?oc=5",
+        "publishedAt": "2026-10-01T22:31:12.000Z"
+      },
+      {
+        "time": "15:45",
+        "title": "NSK、ボールねじ式「電動ハイドロブースタ」新開発…省エネと高速動作を両立",
+        "source": "レスポンス（Response.jp）",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YYml2VXNqMHo0RXpTSlZQQmtMVTd2YzYxdVQ3SFE0d0pPZWJNYjRoVk1fblYxdmdOLUNUOE5aUUVLeXdQYXM1eUVvRlVsU0hfd0t6WW9URGlPQmFISnQ4?oc=5",
+        "publishedAt": "2026-10-02T06:45:03.000Z"
       }
     ],
     "worldHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-30T07:00:00.000Z"
       }
