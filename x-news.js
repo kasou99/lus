@@ -1,13 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T07:45:35.424Z",
+  "updatedAt": "2026-10-02T08:25:49.099Z",
   "items": [
     {
-      "time": "13:56",
-      "title": "露大統領「日本の軍備増強懸念」",
+      "time": "16:49",
+      "title": "住宅火災 子ども4人が逃げ遅れか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597272?source=rss",
-      "publishedAt": "2026-10-02T04:56:35.000Z",
-      "xQuery": "露大統領「日本の軍備増強懸念」"
+      "url": "https://news.yahoo.co.jp/pickup/6597291?source=rss",
+      "publishedAt": "2026-10-02T07:49:17.000Z",
+      "xQuery": "住宅火災 子ども4人が逃げ遅れか"
+    },
+    {
+      "time": "15:53",
+      "title": "広島市の松井市長 悪性の脳腫瘍",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597282?source=rss",
+      "publishedAt": "2026-10-02T06:53:59.000Z",
+      "xQuery": "広島市の松井市長 悪性の脳腫瘍"
+    },
+    {
+      "time": "16:39",
+      "title": "「赤い羽根」閣僚らが着用自粛",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597288?source=rss",
+      "publishedAt": "2026-10-02T07:39:05.000Z",
+      "xQuery": "「赤い羽根」閣僚らが着用自粛"
     },
     {
       "time": "15:20",
@@ -18,28 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "東海汽船 一部船舶の使用停止処分"
     },
     {
-      "time": "16:27",
-      "title": "津市で住宅火災 4人と連絡取れず",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597283?source=rss",
-      "publishedAt": "2026-10-02T07:27:54.000Z",
-      "xQuery": "津市で住宅火災 4人と連絡取れず"
-    },
-    {
       "time": "16:23",
       "title": "鉄骨落下し首に刺さる 作業員重体",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597287?source=rss",
       "publishedAt": "2026-10-02T07:23:57.000Z",
       "xQuery": "鉄骨落下し首に刺さる 作業員重体"
-    },
-    {
-      "time": "15:53",
-      "title": "広島市の松井市長 悪性の脳腫瘍",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597282?source=rss",
-      "publishedAt": "2026-10-02T06:53:59.000Z",
-      "xQuery": "広島市の松井市長 悪性の脳腫瘍"
     }
   ]
 };

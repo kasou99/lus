@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T07:45:34.810Z",
+  "updatedAt": "2026-10-02T08:25:48.136Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -112,18 +112,18 @@
         "publishedAt": "2026-10-02T06:20:42.000Z"
       },
       {
+        "time": "17:14",
+        "title": "免許証画像流出 集団訴訟動き進む",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597293?source=rss",
+        "publishedAt": "2026-10-02T08:14:52.000Z"
+      },
+      {
         "time": "14:00",
         "title": "ニデック会見 異例の監査法人同席",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597273?source=rss",
         "publishedAt": "2026-10-02T05:00:14.000Z"
-      },
-      {
-        "time": "09:21",
-        "title": "トイザらス立て直し 成否のカギは",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597241?source=rss",
-        "publishedAt": "2026-10-02T00:21:05.000Z"
       },
       {
         "time": "07:39",
@@ -149,11 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "16:27",
-        "title": "津市で住宅火災 4人と連絡取れず",
+        "time": "16:49",
+        "title": "住宅火災 子ども4人が逃げ遅れか",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597283?source=rss",
-        "publishedAt": "2026-10-02T07:27:54.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597291?source=rss",
+        "publishedAt": "2026-10-02T07:49:17.000Z"
       },
       {
         "time": "15:53",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-10-02T02:56:38.000Z"
       },
       {
-        "time": "08:58",
-        "title": "3歳死亡 2km超にわたり飲酒運転か",
+        "time": "17:11",
+        "title": "クマに腕かまれる 一緒に10m滑落",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597238?source=rss",
-        "publishedAt": "2026-10-01T23:58:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597292?source=rss",
+        "publishedAt": "2026-10-02T08:11:21.000Z"
       }
     ],
     "subsidyHeadlines": [
