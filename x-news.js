@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T09:20:28.997Z",
+  "updatedAt": "2026-10-02T09:43:35.319Z",
   "items": [
     {
-      "time": "17:23",
-      "title": "茨城知事 核ゴミ概要調査同意せず",
+      "time": "18:18",
+      "title": "簗氏 予算削減発言おおむね認める",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597295?source=rss",
-      "publishedAt": "2026-10-02T08:23:36.000Z",
-      "xQuery": "茨城知事 核ゴミ概要調査同意せず"
+      "url": "https://news.yahoo.co.jp/pickup/6597305?source=rss",
+      "publishedAt": "2026-10-02T09:18:29.000Z",
+      "xQuery": "簗氏 予算削減発言おおむね認める"
     },
     {
       "time": "18:00",
