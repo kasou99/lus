@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T07:24:29.113Z",
+  "updatedAt": "2026-10-02T07:45:35.424Z",
   "items": [
     {
-      "time": "12:53",
-      "title": "農相 報道巡り「回答控える」連発",
+      "time": "13:56",
+      "title": "露大統領「日本の軍備増強懸念」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597264?source=rss",
-      "publishedAt": "2026-10-02T03:53:09.000Z",
-      "xQuery": "農相 報道巡り「回答控える」連発"
+      "url": "https://news.yahoo.co.jp/pickup/6597272?source=rss",
+      "publishedAt": "2026-10-02T04:56:35.000Z",
+      "xQuery": "露大統領「日本の軍備増強懸念」"
     },
     {
-      "time": "14:00",
-      "title": "ニデック会見 異例の監査法人同席",
+      "time": "15:20",
+      "title": "東海汽船 一部船舶の使用停止処分",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597273?source=rss",
-      "publishedAt": "2026-10-02T05:00:14.000Z",
-      "xQuery": "ニデック会見 異例の監査法人同席"
+      "url": "https://news.yahoo.co.jp/pickup/6597280?source=rss",
+      "publishedAt": "2026-10-02T06:20:42.000Z",
+      "xQuery": "東海汽船 一部船舶の使用停止処分"
     },
     {
-      "time": "14:15",
-      "title": "焼け跡から遺体 消防隊員も死亡",
+      "time": "16:27",
+      "title": "津市で住宅火災 4人と連絡取れず",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597274?source=rss",
-      "publishedAt": "2026-10-02T05:15:34.000Z",
-      "xQuery": "焼け跡から遺体 消防隊員も死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6597283?source=rss",
+      "publishedAt": "2026-10-02T07:27:54.000Z",
+      "xQuery": "津市で住宅火災 4人と連絡取れず"
     },
     {
-      "time": "15:21",
-      "title": "喫煙所に車突っ込む 男女7人けが",
+      "time": "16:23",
+      "title": "鉄骨落下し首に刺さる 作業員重体",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597279?source=rss",
-      "publishedAt": "2026-10-02T06:21:03.000Z",
-      "xQuery": "喫煙所に車突っ込む 男女7人けが"
+      "url": "https://news.yahoo.co.jp/pickup/6597287?source=rss",
+      "publishedAt": "2026-10-02T07:23:57.000Z",
+      "xQuery": "鉄骨落下し首に刺さる 作業員重体"
     },
     {
-      "time": "12:49",
-      "title": "もう辞めたい「フキハラ」の実態",
+      "time": "15:53",
+      "title": "広島市の松井市長 悪性の脳腫瘍",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597263?source=rss",
-      "publishedAt": "2026-10-02T03:49:11.000Z",
-      "xQuery": "もう辞めたい「フキハラ」の実態"
+      "url": "https://news.yahoo.co.jp/pickup/6597282?source=rss",
+      "publishedAt": "2026-10-02T06:53:59.000Z",
+      "xQuery": "広島市の松井市長 悪性の脳腫瘍"
     }
   ]
 };
