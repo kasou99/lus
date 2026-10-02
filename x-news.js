@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T04:22:07.568Z",
+  "updatedAt": "2026-10-02T04:45:34.704Z",
   "items": [
     {
       "time": "12:53",
@@ -18,20 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "G20貿易相 過剰生産巡り意見対立"
     },
     {
-      "time": "12:28",
-      "title": "火災1人死亡 消防隊員も意識不明",
+      "time": "13:27",
+      "title": "火災1人死亡 消防隊員は心肺停止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597261?source=rss",
-      "publishedAt": "2026-10-02T03:28:05.000Z",
-      "xQuery": "火災1人死亡 消防隊員も意識不明"
-    },
-    {
-      "time": "12:17",
-      "title": "立花孝志氏 被害者として裁判参加",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597258?source=rss",
-      "publishedAt": "2026-10-02T03:17:43.000Z",
-      "xQuery": "立花孝志氏 被害者として裁判参加"
+      "url": "https://news.yahoo.co.jp/pickup/6597267?source=rss",
+      "publishedAt": "2026-10-02T04:27:54.000Z",
+      "xQuery": "火災1人死亡 消防隊員は心肺停止"
     },
     {
       "time": "11:28",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597251?source=rss",
       "publishedAt": "2026-10-02T02:28:33.000Z",
       "xQuery": "死刑失敗の米死刑囚重体 救命治療"
+    },
+    {
+      "time": "12:49",
+      "title": "もう辞めたい「フキハラ」の実態",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597263?source=rss",
+      "publishedAt": "2026-10-02T03:49:11.000Z",
+      "xQuery": "もう辞めたい「フキハラ」の実態"
     }
   ]
 };
