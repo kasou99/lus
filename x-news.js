@@ -1,21 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T08:23:40.281Z",
+  "updatedAt": "2026-10-03T08:46:47.149Z",
   "items": [
     {
-      "time": "16:55",
-      "title": "ダイビングの8人行方不明 捜索中",
+      "time": "17:02",
+      "title": "首相の予算委出席減を野党警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597408?source=rss",
-      "publishedAt": "2026-10-03T07:55:07.000Z",
-      "xQuery": "ダイビングの8人行方不明 捜索中"
-    },
-    {
-      "time": "16:10",
-      "title": "富山市捜索 市長「改めておわび」",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597397?source=rss",
-      "publishedAt": "2026-10-03T07:10:14.000Z",
-      "xQuery": "富山市捜索 市長「改めておわび」"
+      "url": "https://news.yahoo.co.jp/pickup/6597404?source=rss",
+      "publishedAt": "2026-10-03T08:02:52.000Z",
+      "xQuery": "首相の予算委出席減を野党警戒"
     },
     {
       "time": "16:15",
@@ -24,6 +16,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597398?source=rss",
       "publishedAt": "2026-10-03T07:15:08.000Z",
       "xQuery": "流産後の休養「足りない」の声"
+    },
+    {
+      "time": "17:27",
+      "title": "ダイビングで不明の客ら8人 発見",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597412?source=rss",
+      "publishedAt": "2026-10-03T08:27:49.000Z",
+      "xQuery": "ダイビングで不明の客ら8人 発見"
     },
     {
       "time": "16:39",
