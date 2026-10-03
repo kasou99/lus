@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T03:32:51.722Z",
+  "updatedAt": "2026-10-03T04:23:03.632Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -13,7 +13,7 @@
         "time": "23:30",
         "title": "太陽光・風力ファームの少人数運営に ― 圏外でも止まらない点検アプリ、AI設備保全システム『EMLink』が刷新",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yQWxFWjZJZktzZGxkaFl5UDUzZEFPUlVUSTRQYS1PMERjek5kOWNubUJ1RmdvdTAySFFNNlRFOTJyYXZqcmhsc0NTdUh1MmZYZlNVTA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40VlNuTGNXQlRjSDhPZUNOY1pqc0lZcW1TOFJDZzZ5RVJHNm1Ea3FPV01XQ0hvVU5NSjE0RUppYnJhVUltR1Z1ckJ2SUpaa1FEMDJwcVBPSU5QdVBwTEZLa0lkZGpkNHBGWlBtSEs4czFlajJfUW8wRzVnRQ?oc=5",
         "publishedAt": "2026-10-02T14:30:26.000Z"
       },
       {
@@ -45,18 +45,18 @@
         "publishedAt": "2026-10-02T05:45:00.000Z"
       },
       {
-        "time": "17:08",
-        "title": "既設の自動ドアを簡単にオートロック化！日本の設置環境に完全適合した、後付け専用のカード・暗証番号リーダー「KJ-100」「KJ-150」を同時リリース",
-        "source": "朝日新聞",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtMktxN0pZR0Q5ZlVGRG1vMUdTYkhrdk9rUXNQQjhEVlR2YVdSZ0JkTHZGR01zRVhsQ1BLUDE0Sk5BNUotUGxsVkNhMjlNMEhBcnVTMXVxaU1uc0k?oc=5",
-        "publishedAt": "2026-10-02T08:08:47.000Z"
-      },
-      {
         "time": "21:13",
         "title": "「車の下にスッと潜り込み、3.4tを軽々」...現代ウィアが育てる新規事業【MK企業リポート】",
         "source": "매일경제",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGQ0x3OGE0ZmxKQm1SZktHdDZta3BjeTFVOTU4Sk1YMlR3UjlEcjFPdnFSdFFwSDVqUlRtbTJmQTlfZ093NmpFQnZNbjU0TXRoQ3o4?oc=5",
         "publishedAt": "2026-10-02T12:13:13.000Z"
+      },
+      {
+        "time": "12:30",
+        "title": "産業用製品比較販売サービス「メトリー」、佐々木希さんを起用した新広告を、東京メトロ全線にて掲出開始",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xaWo5eVY0eEk2RUVucFE2c0s2ZEFBVExyaUdzdWp6VUZTR3prRUFuRXdycklva05NZm56bmN4dmYtbDV3bVA3MkF6dFE4NERvRGhydmRxRGROVVRVZkN6V0g2NHhQUlJRU3B6cVVjR0NkaGdwREFncGZxaw?oc=5",
+        "publishedAt": "2026-10-03T03:30:48.000Z"
       }
     ],
     "worldHeadlines": [
@@ -126,13 +126,6 @@
         "publishedAt": "2026-10-02T09:49:13.000Z"
       },
       {
-        "time": "15:20",
-        "title": "東海汽船 一部船舶の使用停止処分",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597280?source=rss",
-        "publishedAt": "2026-10-02T06:20:42.000Z"
-      },
-      {
         "time": "17:14",
         "title": "免許証画像流出 集団訴訟動き進む",
         "source": "Yahoo!ニュース",
@@ -140,11 +133,18 @@
         "publishedAt": "2026-10-02T08:14:52.000Z"
       },
       {
-        "time": "09:16",
-        "title": "配膳で「横取り」しゃぶ葉対策へ",
+        "time": "13:07",
+        "title": "「こどもNISA」注意点 専門家解説",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597349?source=rss",
-        "publishedAt": "2026-10-03T00:16:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597376?source=rss",
+        "publishedAt": "2026-10-03T04:07:37.000Z"
+      },
+      {
+        "time": "12:46",
+        "title": "マンション販売「ワニの口」とは",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597375?source=rss",
+        "publishedAt": "2026-10-03T03:46:12.000Z"
       }
     ],
     "localHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-10-02T23:18:32.000Z"
       },
       {
+        "time": "12:41",
+        "title": "4人死亡火災 プロパンボンベ破裂",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597373?source=rss",
+        "publishedAt": "2026-10-03T03:41:35.000Z"
+      },
+      {
         "time": "11:43",
         "title": "台風で決壊の印旛沼 応急措置完了",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597367?source=rss",
         "publishedAt": "2026-10-03T02:43:27.000Z"
-      },
-      {
-        "time": "00:04",
-        "title": "焼け跡に4遺体 4歳から13歳の子か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597334?source=rss",
-        "publishedAt": "2026-10-02T15:04:50.000Z"
       },
       {
         "time": "11:03",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-30T07:00:00.000Z"
       }
