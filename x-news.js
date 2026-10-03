@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T02:58:05.790Z",
+  "updatedAt": "2026-10-03T03:32:52.435Z",
   "items": [
     {
       "time": "10:12",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "人口水増し疑惑 富山市役所を捜索"
     },
     {
-      "time": "11:43",
-      "title": "台風で決壊の印旛沼 応急措置完了",
+      "time": "11:08",
+      "title": "仏各地のデモ激化 逮捕者5000人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597367?source=rss",
-      "publishedAt": "2026-10-03T02:43:27.000Z",
-      "xQuery": "台風で決壊の印旛沼 応急措置完了"
-    },
-    {
-      "time": "11:03",
-      "title": "三宮暴走 運転男性は体調急変か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597361?source=rss",
-      "publishedAt": "2026-10-03T02:03:34.000Z",
-      "xQuery": "三宮暴走 運転男性は体調急変か"
+      "url": "https://news.yahoo.co.jp/pickup/6597362?source=rss",
+      "publishedAt": "2026-10-03T02:08:14.000Z",
+      "xQuery": "仏各地のデモ激化 逮捕者5000人に"
     },
     {
       "time": "09:52",
@@ -34,12 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "那覇のホテルに女性遺体 事件か"
     },
     {
-      "time": "10:02",
-      "title": "ABAHOUSE 全顧客の情報漏えいか",
+      "time": "11:03",
+      "title": "三宮暴走 運転男性は体調急変か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597358?source=rss",
-      "publishedAt": "2026-10-03T01:02:09.000Z",
-      "xQuery": "ABAHOUSE 全顧客の情報漏えいか"
+      "url": "https://news.yahoo.co.jp/pickup/6597361?source=rss",
+      "publishedAt": "2026-10-03T02:03:34.000Z",
+      "xQuery": "三宮暴走 運転男性は体調急変か"
+    },
+    {
+      "time": "10:35",
+      "title": "e-Tax 他人の税情報が一時閲覧可",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597360?source=rss",
+      "publishedAt": "2026-10-03T01:35:04.000Z",
+      "xQuery": "e-Tax 他人の税情報が一時閲覧可"
     }
   ]
 };
