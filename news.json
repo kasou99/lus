@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T11:44:47.404Z",
+  "updatedAt": "2026-10-03T13:49:28.658Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -22,13 +22,6 @@
         "source": "ZDNET Japan",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nSS1sa3U0eDVZOGNRWElZUUYxdW1BR2gtU1AzS2xyb2hCY2ZGX3NyWmVoMzl3d1V2Ym1QLTdvdHNRNzZxZnRBa2tHYU9lNTZJMVNJ?oc=5",
         "publishedAt": "2026-10-02T15:31:00.000Z"
-      },
-      {
-        "time": "21:13",
-        "title": "「車の下にスッと潜り込み、3.4tを軽々」...現代ウィアが育てる新規事業【MK企業リポート】",
-        "source": "매일경제",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGQ0x3OGE0ZmxKQm1SZktHdDZta3BjeTFVOTU4Sk1YMlR3UjlEcjFPdnFSdFFwSDVqUlRtbTJmQTlfZ093NmpFQnZNbjU0TXRoQ3o4?oc=5",
-        "publishedAt": "2026-10-02T12:13:13.000Z"
       },
       {
         "time": "12:30",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597415?source=rss",
         "publishedAt": "2026-10-03T09:00:18.000Z"
+      },
+      {
+        "time": "16:15",
+        "title": "和菓子店の倒産 過去最多ペース",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597393?source=rss",
+        "publishedAt": "2026-10-03T07:15:14.000Z"
       }
     ],
     "worldHeadlines": [
@@ -177,11 +177,11 @@
         "publishedAt": "2026-10-03T11:25:45.000Z"
       },
       {
-        "time": "18:53",
-        "title": "台風 千葉・神奈川で死者計15人に",
+        "time": "22:05",
+        "title": "だんじりが横転し7人けが 転落か",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597425?source=rss",
-        "publishedAt": "2026-10-03T09:53:44.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597447?source=rss",
+        "publishedAt": "2026-10-03T13:05:29.000Z"
       },
       {
         "time": "17:52",

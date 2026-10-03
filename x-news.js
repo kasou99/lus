@@ -1,29 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T11:44:48.468Z",
+  "updatedAt": "2026-10-03T13:49:29.421Z",
   "items": [
     {
-      "time": "20:25",
-      "title": "4人死亡火災 隣家の住民ぼうぜん",
+      "time": "20:41",
+      "title": "4人死亡の火災 玄関付近が火元か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597432?source=rss",
-      "publishedAt": "2026-10-03T11:25:45.000Z",
-      "xQuery": "4人死亡火災 隣家の住民ぼうぜん"
+      "url": "https://news.yahoo.co.jp/pickup/6597434?source=rss",
+      "publishedAt": "2026-10-03T11:41:07.000Z",
+      "xQuery": "4人死亡の火災 玄関付近が火元か"
     },
     {
-      "time": "17:03",
-      "title": "米中間選挙 長引く物価高が争点",
+      "time": "21:52",
+      "title": "MacのOSを修正へ AIリスク対策",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597406?source=rss",
-      "publishedAt": "2026-10-03T08:03:25.000Z",
-      "xQuery": "米中間選挙 長引く物価高が争点"
+      "url": "https://news.yahoo.co.jp/pickup/6597441?source=rss",
+      "publishedAt": "2026-10-03T12:52:45.000Z",
+      "xQuery": "MacのOSを修正へ AIリスク対策"
     },
     {
-      "time": "18:53",
-      "title": "台風 千葉・神奈川で死者計15人に",
+      "time": "20:02",
+      "title": "アプリで家事分担を可視化 市実験",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597425?source=rss",
-      "publishedAt": "2026-10-03T09:53:44.000Z",
-      "xQuery": "台風 千葉・神奈川で死者計15人に"
+      "url": "https://news.yahoo.co.jp/pickup/6597431?source=rss",
+      "publishedAt": "2026-10-03T11:02:09.000Z",
+      "xQuery": "アプリで家事分担を可視化 市実験"
     },
     {
       "time": "20:37",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "23階転落 母が「転落しそう」通報"
     },
     {
-      "time": "16:15",
-      "title": "和菓子店の倒産 過去最多ペース",
+      "time": "22:05",
+      "title": "だんじりが横転し7人けが 転落か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597393?source=rss",
-      "publishedAt": "2026-10-03T07:15:14.000Z",
-      "xQuery": "和菓子店の倒産 過去最多ペース"
+      "url": "https://news.yahoo.co.jp/pickup/6597447?source=rss",
+      "publishedAt": "2026-10-03T13:05:29.000Z",
+      "xQuery": "だんじりが横転し7人けが 転落か"
     }
   ]
 };
