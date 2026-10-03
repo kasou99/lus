@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T04:23:04.550Z",
+  "updatedAt": "2026-10-03T04:45:03.730Z",
   "items": [
+    {
+      "time": "13:16",
+      "title": "衆院の定数削減 自民に先送り論",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597377?source=rss",
+      "publishedAt": "2026-10-03T04:16:36.000Z",
+      "xQuery": "衆院の定数削減 自民に先送り論"
+    },
     {
       "time": "10:12",
       "title": "人口水増し疑惑 富山市役所を捜索",
@@ -8,14 +16,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597359?source=rss",
       "publishedAt": "2026-10-03T01:12:21.000Z",
       "xQuery": "人口水増し疑惑 富山市役所を捜索"
-    },
-    {
-      "time": "09:52",
-      "title": "那覇のホテルに女性遺体 事件か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597356?source=rss",
-      "publishedAt": "2026-10-03T00:52:06.000Z",
-      "xQuery": "那覇のホテルに女性遺体 事件か"
     },
     {
       "time": "12:41",
