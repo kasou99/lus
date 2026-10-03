@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T05:46:09.445Z",
+  "updatedAt": "2026-10-03T06:31:30.255Z",
   "items": [
+    {
+      "time": "14:47",
+      "title": "台風 週明け小笠原諸島へ接近恐れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597387?source=rss",
+      "publishedAt": "2026-10-03T05:47:19.000Z",
+      "xQuery": "台風 週明け小笠原諸島へ接近恐れ"
+    },
     {
       "time": "13:16",
       "title": "衆院の定数削減 自民に先送り論",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "衆院の定数削減 自民に先送り論"
     },
     {
-      "time": "12:05",
-      "title": "薬過剰摂取の事故件数 9月が最多",
+      "time": "13:50",
+      "title": "ホテル女性死亡 同行者の行方追う",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597370?source=rss",
-      "publishedAt": "2026-10-03T03:05:39.000Z",
-      "xQuery": "薬過剰摂取の事故件数 9月が最多"
+      "url": "https://news.yahoo.co.jp/pickup/6597383?source=rss",
+      "publishedAt": "2026-10-03T04:50:16.000Z",
+      "xQuery": "ホテル女性死亡 同行者の行方追う"
     },
     {
       "time": "12:41",
@@ -24,14 +32,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597373?source=rss",
       "publishedAt": "2026-10-03T03:41:35.000Z",
       "xQuery": "4人死亡火災 プロパンボンベ破裂"
-    },
-    {
-      "time": "13:50",
-      "title": "ホテル女性死亡 同行者の行方追う",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597383?source=rss",
-      "publishedAt": "2026-10-03T04:50:16.000Z",
-      "xQuery": "ホテル女性死亡 同行者の行方追う"
     },
     {
       "time": "11:32",
