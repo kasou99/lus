@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T04:45:03.730Z",
+  "updatedAt": "2026-10-03T05:17:28.388Z",
   "items": [
     {
       "time": "13:16",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "衆院の定数削減 自民に先送り論"
     },
     {
-      "time": "10:12",
-      "title": "人口水増し疑惑 富山市役所を捜索",
+      "time": "12:05",
+      "title": "薬過剰摂取の事故件数 9月が最多",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597359?source=rss",
-      "publishedAt": "2026-10-03T01:12:21.000Z",
-      "xQuery": "人口水増し疑惑 富山市役所を捜索"
+      "url": "https://news.yahoo.co.jp/pickup/6597370?source=rss",
+      "publishedAt": "2026-10-03T03:05:39.000Z",
+      "xQuery": "薬過剰摂取の事故件数 9月が最多"
     },
     {
       "time": "12:41",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "4人死亡火災 プロパンボンベ破裂"
     },
     {
+      "time": "13:50",
+      "title": "ホテル女性死亡 同行者の行方追う",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597383?source=rss",
+      "publishedAt": "2026-10-03T04:50:16.000Z",
+      "xQuery": "ホテル女性死亡 同行者の行方追う"
+    },
+    {
       "time": "12:13",
       "title": "自殺した父 そっけない言葉が最後",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597371?source=rss",
       "publishedAt": "2026-10-03T03:13:34.000Z",
       "xQuery": "自殺した父 そっけない言葉が最後"
-    },
-    {
-      "time": "12:46",
-      "title": "マンション販売「ワニの口」とは",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597375?source=rss",
-      "publishedAt": "2026-10-03T03:46:12.000Z",
-      "xQuery": "マンション販売「ワニの口」とは"
     }
   ]
 };
