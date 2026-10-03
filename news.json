@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T00:49:09.947Z",
+  "updatedAt": "2026-10-03T01:30:37.215Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -24,11 +24,25 @@
         "publishedAt": "2026-10-02T14:30:26.000Z"
       },
       {
+        "time": "15:38",
+        "title": "エンコーダ市場：タイプ、技術、信号タイプ別、出力タイプ別、用途、最終用途、流通チャネル別―2026年～2032年の世界市場予測",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aUjZuOF9ySUlxZUxubkZCQnE1emNBNFRYRkJRZ25NQTBRc2NXdWxIdjF1MG53Y09oelV2dWFZNm9xRV9HVXFwUHFCbm5ITlk?oc=5",
+        "publishedAt": "2026-10-02T06:38:00.000Z"
+      },
+      {
         "time": "10:44",
         "title": "株式会社設備保全総合研究所が刷新した点検アプリ『EMLink』がもたらす新しい発電所運営の形",
         "source": "ニュースメディアVOIX",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UZEx3OHdocGV0cldHalNha1RielVzOTNSSVhEcnhWMUpveEVpREZRcW53MWx2eFV0elJjUVAzVy00Y18tWGtMRU9fSEtPSmNPWmwwT0p6T3U4dE96YUtHVWJSX1YwRldRZ0xhNA?oc=5",
         "publishedAt": "2026-10-02T01:44:46.000Z"
+      },
+      {
+        "time": "15:45",
+        "title": "NSK、ボールねじ式「電動ハイドロブースタ」新開発…省エネと高速動作を両立",
+        "source": "レスポンス（Response.jp）",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YYml2VXNqMHo0RXpTSlZQQmtMVTd2YzYxdVQ3SFE0d0pPZWJNYjRoVk1fblYxdmdOLUNUOE5aUUVLeXdQYXM1eUVvRlVsU0hfd0t6WW9URGlPQmFISnQ4?oc=5",
+        "publishedAt": "2026-10-02T06:45:03.000Z"
       },
       {
         "time": "11:30",
@@ -38,28 +52,21 @@
         "publishedAt": "2026-10-02T02:30:00.000Z"
       },
       {
-        "time": "15:38",
-        "title": "エンコーダ市場：タイプ、技術、信号タイプ別、出力タイプ別、用途、最終用途、流通チャネル別―2026年～2032年の世界市場予測",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aUjZuOF9ySUlxZUxubkZCQnE1emNBNFRYRkJRZ25NQTBRc2NXdWxIdjF1MG53Y09oelV2dWFZNm9xRV9HVXFwUHFCbm5ITlk?oc=5",
-        "publishedAt": "2026-10-02T06:38:00.000Z"
-      },
-      {
         "time": "14:45",
         "title": "ニデック戒田理夫新社長が家電・車載領域にメス、成長より上場維持を優先（2ページ目）",
         "source": "日経クロステック（xTECH）",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yZFZ0YnBBX09iVjVzN2VJOHBlNDQwTEZLODliYUl2TEVidzhGM25zWDdpcE0tQWxtbHpWLS1OanlyV0dZLTI4UkZqRjhnalljTlBabktCVDZzZzZBdG9yMm5WVTNwUHhsVFdlWA?oc=5",
         "publishedAt": "2026-10-02T05:45:00.000Z"
-      },
-      {
-        "time": "15:45",
-        "title": "NSK、ボールねじ式「電動ハイドロブースタ」新開発…省エネと高速動作を両立",
-        "source": "レスポンス（Response.jp）",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YYml2VXNqMHo0RXpTSlZQQmtMVTd2YzYxdVQ3SFE0d0pPZWJNYjRoVk1fblYxdmdOLUNUOE5aUUVLeXdQYXM1eUVvRlVsU0hfd0t6WW9URGlPQmFISnQ4?oc=5",
-        "publishedAt": "2026-10-02T06:45:03.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "09:52",
+        "title": "トランプ氏自嘲 中間選挙に焦り?",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597354?source=rss",
+        "publishedAt": "2026-10-03T00:52:07.000Z"
+      },
       {
         "time": "07:11",
         "title": "北発射のミサイル EEZ外に落下か",
@@ -87,13 +94,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597272?source=rss",
         "publishedAt": "2026-10-02T04:56:35.000Z"
-      },
-      {
-        "time": "08:09",
-        "title": "G20貿易相 過剰生産巡り意見対立",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597234?source=rss",
-        "publishedAt": "2026-10-01T23:09:20.000Z"
       },
       {
         "time": "09:08",
@@ -149,18 +149,11 @@
     ],
     "localHeadlines": [
       {
-        "time": "00:04",
-        "title": "焼け跡に4遺体 4歳から13歳の子か",
+        "time": "10:12",
+        "title": "人口水増し疑惑 富山市役所を捜索",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597334?source=rss",
-        "publishedAt": "2026-10-02T15:04:50.000Z"
-      },
-      {
-        "time": "17:23",
-        "title": "茨城知事 核ゴミ概要調査同意せず",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597295?source=rss",
-        "publishedAt": "2026-10-02T08:23:36.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597359?source=rss",
+        "publishedAt": "2026-10-03T01:12:21.000Z"
       },
       {
         "time": "08:18",
@@ -170,18 +163,25 @@
         "publishedAt": "2026-10-02T23:18:32.000Z"
       },
       {
+        "time": "00:04",
+        "title": "焼け跡に4遺体 4歳から13歳の子か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597334?source=rss",
+        "publishedAt": "2026-10-02T15:04:50.000Z"
+      },
+      {
+        "time": "09:52",
+        "title": "那覇のホテルに女性遺体 事件か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597356?source=rss",
+        "publishedAt": "2026-10-03T00:52:06.000Z"
+      },
+      {
         "time": "19:44",
         "title": "山中でシカに襲われたか 男性死亡",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597314?source=rss",
         "publishedAt": "2026-10-02T10:44:15.000Z"
-      },
-      {
-        "time": "19:13",
-        "title": "鉄材落下し首に刺さる 作業員死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597312?source=rss",
-        "publishedAt": "2026-10-02T10:13:11.000Z"
       },
       {
         "time": "18:40",
