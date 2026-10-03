@@ -1,29 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T13:49:29.421Z",
+  "updatedAt": "2026-10-03T15:01:11.225Z",
   "items": [
     {
-      "time": "20:41",
-      "title": "4人死亡の火災 玄関付近が火元か",
+      "time": "22:23",
+      "title": "台風27号 小笠原諸島で高波警戒",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597434?source=rss",
-      "publishedAt": "2026-10-03T11:41:07.000Z",
-      "xQuery": "4人死亡の火災 玄関付近が火元か"
+      "url": "https://news.yahoo.co.jp/pickup/6597449?source=rss",
+      "publishedAt": "2026-10-03T13:23:55.000Z",
+      "xQuery": "台風27号 小笠原諸島で高波警戒"
     },
     {
-      "time": "21:52",
-      "title": "MacのOSを修正へ AIリスク対策",
+      "time": "22:35",
+      "title": "米政府のAI 都合の悪い質問を拒否",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597441?source=rss",
-      "publishedAt": "2026-10-03T12:52:45.000Z",
-      "xQuery": "MacのOSを修正へ AIリスク対策"
-    },
-    {
-      "time": "20:02",
-      "title": "アプリで家事分担を可視化 市実験",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597431?source=rss",
-      "publishedAt": "2026-10-03T11:02:09.000Z",
-      "xQuery": "アプリで家事分担を可視化 市実験"
+      "url": "https://news.yahoo.co.jp/pickup/6597451?source=rss",
+      "publishedAt": "2026-10-03T13:35:42.000Z",
+      "xQuery": "米政府のAI 都合の悪い質問を拒否"
     },
     {
       "time": "20:37",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597447?source=rss",
       "publishedAt": "2026-10-03T13:05:29.000Z",
       "xQuery": "だんじりが横転し7人けが 転落か"
+    },
+    {
+      "time": "22:57",
+      "title": "米国産ジャガイモ解禁 前倒し浮上",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597453?source=rss",
+      "publishedAt": "2026-10-03T13:57:57.000Z",
+      "xQuery": "米国産ジャガイモ解禁 前倒し浮上"
     }
   ]
 };

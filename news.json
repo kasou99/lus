@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-10-03T13:49:28.658Z",
+  "updatedAt": "2026-10-03T15:01:10.435Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "14:12",
-        "title": "(株)岡本工作機械製作所【6125】：株価・株式情報（夜間PTS含む）",
-        "source": "Yahoo!ファイナンス",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LLVpzMFl2YnFWYS10V1pyaGxRdTZLZVJlUGJUUzJjeTd0MnA3YlpDWEx3NXdiUFhFNGp1QUE0WWdNMklsNklTREpkcm1FbGdXd1E?oc=5",
-        "publishedAt": "2026-10-03T05:12:25.000Z"
-      },
-      {
-        "time": "23:30",
-        "title": "太陽光・風力ファームの少人数運営に ― 圏外でも止まらない点検アプリ、AI設備保全システム『EMLink』が刷新",
+        "time": "12:30",
+        "title": "産業用製品比較販売サービス「メトリー」、佐々木希さんを起用した新広告を、東京メトロ全線にて掲出開始",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yQWxFWjZJZktzZGxkaFl5UDUzZEFPUlVUSTRQYS1PMERjek5kOWNubUJ1RmdvdTAySFFNNlRFOTJyYXZqcmhsc0NTdUh1MmZYZlNVTA?oc=5",
-        "publishedAt": "2026-10-02T14:30:26.000Z"
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xaWo5eVY0eEk2RUVucFE2c0s2ZEFBVExyaUdzdWp6VUZTR3prRUFuRXdycklva05NZm56bmN4dmYtbDV3bVA3MkF6dFE4NERvRGhydmRxRGROVVRVZkN6V0g2NHhQUlJRU3B6cVVjR0NkaGdwREFncGZxaw?oc=5",
+        "publishedAt": "2026-10-03T03:30:48.000Z"
       },
       {
         "time": "00:31",
@@ -24,25 +17,11 @@
         "publishedAt": "2026-10-02T15:31:00.000Z"
       },
       {
-        "time": "12:30",
-        "title": "産業用製品比較販売サービス「メトリー」、佐々木希さんを起用した新広告を、東京メトロ全線にて掲出開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xaWo5eVY0eEk2RUVucFE2c0s2ZEFBVExyaUdzdWp6VUZTR3prRUFuRXdycklva05NZm56bmN4dmYtbDV3bVA3MkF6dFE4NERvRGhydmRxRGROVVRVZkN6V0g2NHhQUlJRU3B6cVVjR0NkaGdwREFncGZxaw?oc=5",
-        "publishedAt": "2026-10-03T03:30:48.000Z"
-      },
-      {
         "time": "23:04",
         "title": "プルデンシャルの処分検討 金融庁",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597329?source=rss",
         "publishedAt": "2026-10-02T14:04:42.000Z"
-      },
-      {
-        "time": "20:46",
-        "title": "東北3地銀 28年4月統合向け協議へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597317?source=rss",
-        "publishedAt": "2026-10-02T11:46:40.000Z"
       },
       {
         "time": "18:00",
@@ -52,11 +31,32 @@
         "publishedAt": "2026-10-03T09:00:18.000Z"
       },
       {
+        "time": "22:57",
+        "title": "米国産ジャガイモ解禁 前倒し浮上",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597453?source=rss",
+        "publishedAt": "2026-10-03T13:57:57.000Z"
+      },
+      {
         "time": "16:15",
         "title": "和菓子店の倒産 過去最多ペース",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597393?source=rss",
         "publishedAt": "2026-10-03T07:15:14.000Z"
+      },
+      {
+        "time": "13:07",
+        "title": "「こどもNISA」注意点 専門家解説",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597376?source=rss",
+        "publishedAt": "2026-10-03T04:07:37.000Z"
+      },
+      {
+        "time": "12:46",
+        "title": "マンション販売「ワニの口」とは",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597375?source=rss",
+        "publishedAt": "2026-10-03T03:46:12.000Z"
       }
     ],
     "worldHeadlines": [
@@ -112,18 +112,18 @@
         "publishedAt": "2026-10-02T14:04:42.000Z"
       },
       {
-        "time": "20:46",
-        "title": "東北3地銀 28年4月統合向け協議へ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597317?source=rss",
-        "publishedAt": "2026-10-02T11:46:40.000Z"
-      },
-      {
         "time": "18:00",
         "title": "食品消費税1%に賛否 減税効果は",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597415?source=rss",
         "publishedAt": "2026-10-03T09:00:18.000Z"
+      },
+      {
+        "time": "22:57",
+        "title": "米国産ジャガイモ解禁 前倒し浮上",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597453?source=rss",
+        "publishedAt": "2026-10-03T13:57:57.000Z"
       },
       {
         "time": "16:15",
