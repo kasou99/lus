@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T01:30:37.962Z",
+  "updatedAt": "2026-10-03T02:28:27.454Z",
   "items": [
     {
       "time": "10:12",
@@ -10,36 +10,36 @@ window.LUS_X_NEWS = {
       "xQuery": "人口水増し疑惑 富山市役所を捜索"
     },
     {
-      "time": "07:46",
-      "title": "副首都となる要件 4道府県満たす",
+      "time": "11:16",
+      "title": "北ミサイル700km以上飛行 韓国軍",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597340?source=rss",
-      "publishedAt": "2026-10-02T22:46:02.000Z",
-      "xQuery": "副首都となる要件 4道府県満たす"
+      "url": "https://news.yahoo.co.jp/pickup/6597364?source=rss",
+      "publishedAt": "2026-10-03T02:16:45.000Z",
+      "xQuery": "北ミサイル700km以上飛行 韓国軍"
     },
     {
-      "time": "09:35",
-      "title": "行楽日和 東京の雨記録ストップへ",
+      "time": "09:52",
+      "title": "トランプ氏自嘲 中間選挙に焦り?",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597352?source=rss",
-      "publishedAt": "2026-10-03T00:35:46.000Z",
-      "xQuery": "行楽日和 東京の雨記録ストップへ"
+      "url": "https://news.yahoo.co.jp/pickup/6597354?source=rss",
+      "publishedAt": "2026-10-03T00:52:07.000Z",
+      "xQuery": "トランプ氏自嘲 中間選挙に焦り?"
     },
     {
-      "time": "07:31",
-      "title": "上司を「さん」呼びが増加 調査",
+      "time": "11:03",
+      "title": "三宮暴走 運転男性は体調急変か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597339?source=rss",
-      "publishedAt": "2026-10-02T22:31:38.000Z",
-      "xQuery": "上司を「さん」呼びが増加 調査"
+      "url": "https://news.yahoo.co.jp/pickup/6597361?source=rss",
+      "publishedAt": "2026-10-03T02:03:34.000Z",
+      "xQuery": "三宮暴走 運転男性は体調急変か"
     },
     {
-      "time": "10:02",
-      "title": "ABAHOUSE 全顧客の情報漏えいか",
+      "time": "09:52",
+      "title": "那覇のホテルに女性遺体 事件か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597358?source=rss",
-      "publishedAt": "2026-10-03T01:02:09.000Z",
-      "xQuery": "ABAHOUSE 全顧客の情報漏えいか"
+      "url": "https://news.yahoo.co.jp/pickup/6597356?source=rss",
+      "publishedAt": "2026-10-03T00:52:06.000Z",
+      "xQuery": "那覇のホテルに女性遺体 事件か"
     }
   ]
 };

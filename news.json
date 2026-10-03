@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T01:30:37.215Z",
+  "updatedAt": "2026-10-03T02:28:25.924Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -20,7 +20,7 @@
         "time": "23:30",
         "title": "太陽光・風力ファームの少人数運営に ― 圏外でも止まらない点検アプリ、AI設備保全システム『EMLink』が刷新",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40VlNuTGNXQlRjSDhPZUNOY1pqc0lZcW1TOFJDZzZ5RVJHNm1Ea3FPV01XQ0hvVU5NSjE0RUppYnJhVUltR1Z1ckJ2SUpaa1FEMDJwcVBPSU5QdVBwTEZLa0lkZGpkNHBGWlBtSEs4czFlajJfUW8wRzVnRQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yQWxFWjZJZktzZGxkaFl5UDUzZEFPUlVUSTRQYS1PMERjek5kOWNubUJ1RmdvdTAySFFNNlRFOTJyYXZqcmhsc0NTdUh1MmZYZlNVTA?oc=5",
         "publishedAt": "2026-10-02T14:30:26.000Z"
       },
       {
@@ -31,16 +31,9 @@
         "publishedAt": "2026-10-02T06:38:00.000Z"
       },
       {
-        "time": "10:44",
-        "title": "株式会社設備保全総合研究所が刷新した点検アプリ『EMLink』がもたらす新しい発電所運営の形",
-        "source": "ニュースメディアVOIX",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UZEx3OHdocGV0cldHalNha1RielVzOTNSSVhEcnhWMUpveEVpREZRcW53MWx2eFV0elJjUVAzVy00Y18tWGtMRU9fSEtPSmNPWmwwT0p6T3U4dE96YUtHVWJSX1YwRldRZ0xhNA?oc=5",
-        "publishedAt": "2026-10-02T01:44:46.000Z"
-      },
-      {
         "time": "15:45",
         "title": "NSK、ボールねじ式「電動ハイドロブースタ」新開発…省エネと高速動作を両立",
-        "source": "レスポンス（Response.jp）",
+        "source": "response.jp",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YYml2VXNqMHo0RXpTSlZQQmtMVTd2YzYxdVQ3SFE0d0pPZWJNYjRoVk1fblYxdmdOLUNUOE5aUUVLeXdQYXM1eUVvRlVsU0hfd0t6WW9URGlPQmFISnQ4?oc=5",
         "publishedAt": "2026-10-02T06:45:03.000Z"
       },
@@ -57,9 +50,23 @@
         "source": "日経クロステック（xTECH）",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yZFZ0YnBBX09iVjVzN2VJOHBlNDQwTEZLODliYUl2TEVidzhGM25zWDdpcE0tQWxtbHpWLS1OanlyV0dZLTI4UkZqRjhnalljTlBabktCVDZzZzZBdG9yMm5WVTNwUHhsVFdlWA?oc=5",
         "publishedAt": "2026-10-02T05:45:00.000Z"
+      },
+      {
+        "time": "00:31",
+        "title": "三和電気計器、CAT.IV 600V対応の ハンディ型デジタルマルチメータ「CD5003」を発売",
+        "source": "ZDNET Japan",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nSS1sa3U0eDVZOGNRWElZUUYxdW1BR2gtU1AzS2xyb2hCY2ZGX3NyWmVoMzl3d1V2Ym1QLTdvdHNRNzZxZnRBa2tHYU9lNTZJMVNJ?oc=5",
+        "publishedAt": "2026-10-02T15:31:00.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "11:16",
+        "title": "北ミサイル700km以上飛行 韓国軍",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597364?source=rss",
+        "publishedAt": "2026-10-03T02:16:45.000Z"
+      },
       {
         "time": "09:52",
         "title": "トランプ氏自嘲 中間選挙に焦り?",
@@ -68,11 +75,11 @@
         "publishedAt": "2026-10-03T00:52:07.000Z"
       },
       {
-        "time": "07:11",
-        "title": "北発射のミサイル EEZ外に落下か",
+        "time": "11:08",
+        "title": "仏各地のデモ激化 逮捕者5000人に",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597338?source=rss",
-        "publishedAt": "2026-10-02T22:11:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597362?source=rss",
+        "publishedAt": "2026-10-03T02:08:14.000Z"
       },
       {
         "time": "08:07",
@@ -94,13 +101,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597272?source=rss",
         "publishedAt": "2026-10-02T04:56:35.000Z"
-      },
-      {
-        "time": "09:08",
-        "title": "韓国「検察庁」78年の歴史に幕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597240?source=rss",
-        "publishedAt": "2026-10-02T00:08:20.000Z"
       }
     ],
     "economyHeadlines": [
@@ -170,6 +170,13 @@
         "publishedAt": "2026-10-02T15:04:50.000Z"
       },
       {
+        "time": "11:03",
+        "title": "三宮暴走 運転男性は体調急変か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597361?source=rss",
+        "publishedAt": "2026-10-03T02:03:34.000Z"
+      },
+      {
         "time": "09:52",
         "title": "那覇のホテルに女性遺体 事件か",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597314?source=rss",
         "publishedAt": "2026-10-02T10:44:15.000Z"
-      },
-      {
-        "time": "18:40",
-        "title": "新名神事故 原形留めぬ車に遺族涙",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597307?source=rss",
-        "publishedAt": "2026-10-02T09:40:00.000Z"
       }
     ],
     "subsidyHeadlines": [
