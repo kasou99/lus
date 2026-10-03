@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T08:46:47.149Z",
+  "updatedAt": "2026-10-03T09:18:05.334Z",
   "items": [
     {
       "time": "17:02",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "首相の予算委出席減を野党警戒"
     },
     {
-      "time": "16:15",
-      "title": "流産後の休養「足りない」の声",
+      "time": "13:07",
+      "title": "「こどもNISA」注意点 専門家解説",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597398?source=rss",
-      "publishedAt": "2026-10-03T07:15:08.000Z",
-      "xQuery": "流産後の休養「足りない」の声"
+      "url": "https://news.yahoo.co.jp/pickup/6597376?source=rss",
+      "publishedAt": "2026-10-03T04:07:37.000Z",
+      "xQuery": "「こどもNISA」注意点 専門家解説"
     },
     {
-      "time": "17:27",
-      "title": "ダイビングで不明の客ら8人 発見",
+      "time": "17:52",
+      "title": "ダイビング客ら8人救助 意識あり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597412?source=rss",
-      "publishedAt": "2026-10-03T08:27:49.000Z",
-      "xQuery": "ダイビングで不明の客ら8人 発見"
+      "url": "https://news.yahoo.co.jp/pickup/6597418?source=rss",
+      "publishedAt": "2026-10-03T08:52:44.000Z",
+      "xQuery": "ダイビング客ら8人救助 意識あり"
     },
     {
       "time": "16:39",
