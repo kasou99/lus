@@ -1,13 +1,21 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T09:18:05.334Z",
+  "updatedAt": "2026-10-03T09:40:49.460Z",
   "items": [
     {
-      "time": "17:02",
-      "title": "首相の予算委出席減を野党警戒",
+      "time": "17:43",
+      "title": "米大統領2千万人に90ドル給付表明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597404?source=rss",
-      "publishedAt": "2026-10-03T08:02:52.000Z",
-      "xQuery": "首相の予算委出席減を野党警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6597410?source=rss",
+      "publishedAt": "2026-10-03T08:43:10.000Z",
+      "xQuery": "米大統領2千万人に90ドル給付表明"
+    },
+    {
+      "time": "18:00",
+      "title": "食品消費税1%に賛否 減税効果は",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597415?source=rss",
+      "publishedAt": "2026-10-03T09:00:18.000Z",
+      "xQuery": "食品消費税1%に賛否 減税効果は"
     },
     {
       "time": "13:07",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597402?source=rss",
       "publishedAt": "2026-10-03T07:39:55.000Z",
       "xQuery": "都内タワマン23階から子転落 死亡"
-    },
-    {
-      "time": "16:25",
-      "title": "市が毎年更衣室解体 6年で7千万円",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597400?source=rss",
-      "publishedAt": "2026-10-03T07:25:34.000Z",
-      "xQuery": "市が毎年更衣室解体 6年で7千万円"
     }
   ]
 };
