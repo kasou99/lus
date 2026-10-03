@@ -1,20 +1,13 @@
 {
-  "updatedAt": "2026-10-03T15:01:10.435Z",
+  "updatedAt": "2026-10-03T16:50:24.298Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "12:30",
         "title": "産業用製品比較販売サービス「メトリー」、佐々木希さんを起用した新広告を、東京メトロ全線にて掲出開始",
-        "source": "ニコニコニュース",
+        "source": "news.nicovideo.jp",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xaWo5eVY0eEk2RUVucFE2c0s2ZEFBVExyaUdzdWp6VUZTR3prRUFuRXdycklva05NZm56bmN4dmYtbDV3bVA3MkF6dFE4NERvRGhydmRxRGROVVRVZkN6V0g2NHhQUlJRU3B6cVVjR0NkaGdwREFncGZxaw?oc=5",
         "publishedAt": "2026-10-03T03:30:48.000Z"
-      },
-      {
-        "time": "00:31",
-        "title": "三和電気計器、CAT.IV 600V対応の ハンディ型デジタルマルチメータ「CD5003」を発売",
-        "source": "ZDNET Japan",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nSS1sa3U0eDVZOGNRWElZUUYxdW1BR2gtU1AzS2xyb2hCY2ZGX3NyWmVoMzl3d1V2Ym1QLTdvdHNRNzZxZnRBa2tHYU9lNTZJMVNJ?oc=5",
-        "publishedAt": "2026-10-02T15:31:00.000Z"
       },
       {
         "time": "23:04",
@@ -57,6 +50,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597375?source=rss",
         "publishedAt": "2026-10-03T03:46:12.000Z"
+      },
+      {
+        "time": "19:57",
+        "title": "ハラル対応食品 商機見いだす企業",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597429?source=rss",
+        "publishedAt": "2026-10-03T10:57:54.000Z"
       }
     ],
     "worldHeadlines": [
