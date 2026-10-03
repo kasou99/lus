@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T23:38:12.181Z",
+  "updatedAt": "2026-10-03T00:49:09.947Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,7 +19,7 @@
       {
         "time": "23:30",
         "title": "太陽光・風力ファームの少人数運営に ― 圏外でも止まらない点検アプリ、AI設備保全システム『EMLink』が刷新",
-        "source": "news.nicovideo.jp",
+        "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40VlNuTGNXQlRjSDhPZUNOY1pqc0lZcW1TOFJDZzZ5RVJHNm1Ea3FPV01XQ0hvVU5NSjE0RUppYnJhVUltR1Z1ckJ2SUpaa1FEMDJwcVBPSU5QdVBwTEZLa0lkZGpkNHBGWlBtSEs4czFlajJfUW8wRzVnRQ?oc=5",
         "publishedAt": "2026-10-02T14:30:26.000Z"
       },
@@ -38,18 +38,18 @@
         "publishedAt": "2026-10-02T02:30:00.000Z"
       },
       {
-        "time": "09:45",
-        "title": "田辺工業(1828) 1Qは大型工事の進捗、施工効率の改善等で増収増益。受注高は2ケタ増加",
-        "source": "QUICK Money World",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaYk5oUE1xY3FIQzA3V0tYbElHTlNmbHdXd0dCbXJfSnNnaGlyTnZSQ0NPaFJYWmU2NVNwV1hHNnV3X056eUNTT0lzVml6X3BaZXg2LU9B?oc=5",
-        "publishedAt": "2026-10-02T00:45:00.000Z"
-      },
-      {
         "time": "15:38",
         "title": "エンコーダ市場：タイプ、技術、信号タイプ別、出力タイプ別、用途、最終用途、流通チャネル別―2026年～2032年の世界市場予測",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aUjZuOF9ySUlxZUxubkZCQnE1emNBNFRYRkJRZ25NQTBRc2NXdWxIdjF1MG53Y09oelV2dWFZNm9xRV9HVXFwUHFCbm5ITlk?oc=5",
         "publishedAt": "2026-10-02T06:38:00.000Z"
+      },
+      {
+        "time": "14:45",
+        "title": "ニデック戒田理夫新社長が家電・車載領域にメス、成長より上場維持を優先（2ページ目）",
+        "source": "日経クロステック（xTECH）",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yZFZ0YnBBX09iVjVzN2VJOHBlNDQwTEZLODliYUl2TEVidzhGM25zWDdpcE0tQWxtbHpWLS1OanlyV0dZLTI4UkZqRjhnalljTlBabktCVDZzZzZBdG9yMm5WVTNwUHhsVFdlWA?oc=5",
+        "publishedAt": "2026-10-02T05:45:00.000Z"
       },
       {
         "time": "15:45",
@@ -82,13 +82,6 @@
         "publishedAt": "2026-10-02T15:15:30.000Z"
       },
       {
-        "time": "07:11",
-        "title": "トランプ氏 習氏へ日中対話促す",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597227?source=rss",
-        "publishedAt": "2026-10-01T22:11:42.000Z"
-      },
-      {
         "time": "13:56",
         "title": "露大統領「日本の軍備増強懸念」",
         "source": "Yahoo!ニュース",
@@ -101,6 +94,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597234?source=rss",
         "publishedAt": "2026-10-01T23:09:20.000Z"
+      },
+      {
+        "time": "09:08",
+        "title": "韓国「検察庁」78年の歴史に幕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597240?source=rss",
+        "publishedAt": "2026-10-02T00:08:20.000Z"
       }
     ],
     "economyHeadlines": [
@@ -140,11 +140,11 @@
         "publishedAt": "2026-10-02T08:14:52.000Z"
       },
       {
-        "time": "20:10",
-        "title": "スガキヤが「ドムドム」子会社化",
+        "time": "09:16",
+        "title": "配膳で「横取り」しゃぶ葉対策へ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597315?source=rss",
-        "publishedAt": "2026-10-02T11:10:40.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597349?source=rss",
+        "publishedAt": "2026-10-03T00:16:07.000Z"
       }
     ],
     "localHeadlines": [

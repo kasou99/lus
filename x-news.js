@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-02T23:38:12.814Z",
+  "updatedAt": "2026-10-03T00:49:10.456Z",
   "items": [
     {
       "time": "07:46",
@@ -10,6 +10,14 @@ window.LUS_X_NEWS = {
       "xQuery": "副首都となる要件 4道府県満たす"
     },
     {
+      "time": "08:07",
+      "title": "露の新型ドローン イラン製を改良",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597343?source=rss",
+      "publishedAt": "2026-10-02T23:07:53.000Z",
+      "xQuery": "露の新型ドローン イラン製を改良"
+    },
+    {
       "time": "08:18",
       "title": "人口水増し 市が交付税過剰受領か",
       "source": "Yahoo!ニュース",
@@ -18,28 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "人口水増し 市が交付税過剰受領か"
     },
     {
-      "time": "07:11",
-      "title": "北発射のミサイル EEZ外に落下か",
+      "time": "08:39",
+      "title": "予算削減発言 簗農相は辞任否定",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597338?source=rss",
-      "publishedAt": "2026-10-02T22:11:55.000Z",
-      "xQuery": "北発射のミサイル EEZ外に落下か"
+      "url": "https://news.yahoo.co.jp/pickup/6597346?source=rss",
+      "publishedAt": "2026-10-02T23:39:30.000Z",
+      "xQuery": "予算削減発言 簗農相は辞任否定"
     },
     {
-      "time": "00:04",
-      "title": "焼け跡に4遺体 4歳から13歳の子か",
+      "time": "08:41",
+      "title": "機長刺した副操縦士 過去乗務禁止",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597334?source=rss",
-      "publishedAt": "2026-10-02T15:04:50.000Z",
-      "xQuery": "焼け跡に4遺体 4歳から13歳の子か"
-    },
-    {
-      "time": "07:31",
-      "title": "上司を「さん」呼びが増加 調査",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597339?source=rss",
-      "publishedAt": "2026-10-02T22:31:38.000Z",
-      "xQuery": "上司を「さん」呼びが増加 調査"
+      "url": "https://news.yahoo.co.jp/pickup/6597344?source=rss",
+      "publishedAt": "2026-10-02T23:41:32.000Z",
+      "xQuery": "機長刺した副操縦士 過去乗務禁止"
     }
   ]
 };
