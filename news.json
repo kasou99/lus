@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T21:35:01.443Z",
+  "updatedAt": "2026-10-03T22:58:50.792Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -38,11 +38,11 @@
         "publishedAt": "2026-10-03T13:57:57.000Z"
       },
       {
-        "time": "16:15",
-        "title": "和菓子店の倒産 過去最多ペース",
+        "time": "07:35",
+        "title": "サザン関口氏会社5.8億円申告漏れ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597393?source=rss",
-        "publishedAt": "2026-10-03T07:15:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597461?source=rss",
+        "publishedAt": "2026-10-03T22:35:32.000Z"
       },
       {
         "time": "13:07",
@@ -126,11 +126,11 @@
         "publishedAt": "2026-10-03T13:57:57.000Z"
       },
       {
-        "time": "16:15",
-        "title": "和菓子店の倒産 過去最多ペース",
+        "time": "07:35",
+        "title": "サザン関口氏会社5.8億円申告漏れ",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597393?source=rss",
-        "publishedAt": "2026-10-03T07:15:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597461?source=rss",
+        "publishedAt": "2026-10-03T22:35:32.000Z"
       },
       {
         "time": "13:07",
@@ -149,11 +149,32 @@
     ],
     "localHeadlines": [
       {
+        "time": "07:35",
+        "title": "那覇遺体 強殺疑いで米兵を逮捕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597462?source=rss",
+        "publishedAt": "2026-10-03T22:35:39.000Z"
+      },
+      {
         "time": "20:41",
         "title": "4人死亡の火災 玄関付近が火元か",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597434?source=rss",
         "publishedAt": "2026-10-03T11:41:07.000Z"
+      },
+      {
+        "time": "20:25",
+        "title": "4人死亡火災 隣家の住民ぼうぜん",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597432?source=rss",
+        "publishedAt": "2026-10-03T11:25:45.000Z"
+      },
+      {
+        "time": "07:17",
+        "title": "釣り中の9歳が海に転落 心肺停止",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597459?source=rss",
+        "publishedAt": "2026-10-03T22:17:36.000Z"
       },
       {
         "time": "20:37",
@@ -168,27 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597402?source=rss",
         "publishedAt": "2026-10-03T07:39:55.000Z"
-      },
-      {
-        "time": "20:25",
-        "title": "4人死亡火災 隣家の住民ぼうぜん",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597432?source=rss",
-        "publishedAt": "2026-10-03T11:25:45.000Z"
-      },
-      {
-        "time": "22:05",
-        "title": "だんじりが横転し7人けが 転落か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597447?source=rss",
-        "publishedAt": "2026-10-03T13:05:29.000Z"
-      },
-      {
-        "time": "17:52",
-        "title": "ダイビング客ら8人救助 意識あり",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597418?source=rss",
-        "publishedAt": "2026-10-03T08:52:44.000Z"
       }
     ],
     "subsidyHeadlines": [

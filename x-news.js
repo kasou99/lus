@@ -1,21 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T21:35:03.130Z",
+  "updatedAt": "2026-10-03T22:58:51.411Z",
   "items": [
     {
-      "time": "22:23",
-      "title": "台風27号 小笠原諸島で高波警戒",
+      "time": "07:35",
+      "title": "那覇遺体 強殺疑いで米兵を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597449?source=rss",
-      "publishedAt": "2026-10-03T13:23:55.000Z",
-      "xQuery": "台風27号 小笠原諸島で高波警戒"
+      "url": "https://news.yahoo.co.jp/pickup/6597462?source=rss",
+      "publishedAt": "2026-10-03T22:35:39.000Z",
+      "xQuery": "那覇遺体 強殺疑いで米兵を逮捕"
     },
     {
-      "time": "22:35",
-      "title": "米政府のAI 都合の悪い質問を拒否",
+      "time": "07:52",
+      "title": "台風27号 小笠原諸島の近海へ北上",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597451?source=rss",
-      "publishedAt": "2026-10-03T13:35:42.000Z",
-      "xQuery": "米政府のAI 都合の悪い質問を拒否"
+      "url": "https://news.yahoo.co.jp/pickup/6597463?source=rss",
+      "publishedAt": "2026-10-03T22:52:50.000Z",
+      "xQuery": "台風27号 小笠原諸島の近海へ北上"
+    },
+    {
+      "time": "07:17",
+      "title": "釣り中の9歳が海に転落 心肺停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597459?source=rss",
+      "publishedAt": "2026-10-03T22:17:36.000Z",
+      "xQuery": "釣り中の9歳が海に転落 心肺停止"
     },
     {
       "time": "20:37",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597447?source=rss",
       "publishedAt": "2026-10-03T13:05:29.000Z",
       "xQuery": "だんじりが横転し7人けが 転落か"
-    },
-    {
-      "time": "22:57",
-      "title": "米国産ジャガイモ解禁 前倒し浮上",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597453?source=rss",
-      "publishedAt": "2026-10-03T13:57:57.000Z",
-      "xQuery": "米国産ジャガイモ解禁 前倒し浮上"
     }
   ]
 };
