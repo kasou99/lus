@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T05:17:28.388Z",
+  "updatedAt": "2026-10-03T05:46:09.445Z",
   "items": [
     {
       "time": "13:16",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ホテル女性死亡 同行者の行方追う"
     },
     {
-      "time": "12:13",
-      "title": "自殺した父 そっけない言葉が最後",
+      "time": "11:32",
+      "title": "冷凍庫に子を遺棄 苦しみ抱え孤立",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597371?source=rss",
-      "publishedAt": "2026-10-03T03:13:34.000Z",
-      "xQuery": "自殺した父 そっけない言葉が最後"
+      "url": "https://news.yahoo.co.jp/pickup/6597363?source=rss",
+      "publishedAt": "2026-10-03T02:32:14.000Z",
+      "xQuery": "冷凍庫に子を遺棄 苦しみ抱え孤立"
     }
   ]
 };
