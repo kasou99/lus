@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T07:45:04.979Z",
+  "updatedAt": "2026-10-03T08:23:40.281Z",
   "items": [
     {
-      "time": "14:47",
-      "title": "台風 週明け小笠原諸島へ接近恐れ",
+      "time": "16:55",
+      "title": "ダイビングの8人行方不明 捜索中",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597387?source=rss",
-      "publishedAt": "2026-10-03T05:47:19.000Z",
-      "xQuery": "台風 週明け小笠原諸島へ接近恐れ"
+      "url": "https://news.yahoo.co.jp/pickup/6597408?source=rss",
+      "publishedAt": "2026-10-03T07:55:07.000Z",
+      "xQuery": "ダイビングの8人行方不明 捜索中"
     },
     {
       "time": "16:10",
@@ -18,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "富山市捜索 市長「改めておわび」"
     },
     {
-      "time": "15:02",
-      "title": "米殺人犯の死刑失敗 被害者母落胆",
+      "time": "16:15",
+      "title": "流産後の休養「足りない」の声",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597385?source=rss",
-      "publishedAt": "2026-10-03T06:02:54.000Z",
-      "xQuery": "米殺人犯の死刑失敗 被害者母落胆"
+      "url": "https://news.yahoo.co.jp/pickup/6597398?source=rss",
+      "publishedAt": "2026-10-03T07:15:08.000Z",
+      "xQuery": "流産後の休養「足りない」の声"
     },
     {
       "time": "16:39",
