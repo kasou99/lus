@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T22:58:51.411Z",
+  "updatedAt": "2026-10-03T23:55:59.000Z",
   "items": [
     {
-      "time": "07:35",
-      "title": "那覇遺体 強殺疑いで米兵を逮捕",
+      "time": "08:05",
+      "title": "高市早苗氏 自民総裁選出から1年",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597462?source=rss",
-      "publishedAt": "2026-10-03T22:35:39.000Z",
-      "xQuery": "那覇遺体 強殺疑いで米兵を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6597465?source=rss",
+      "publishedAt": "2026-10-03T23:05:33.000Z",
+      "xQuery": "高市早苗氏 自民総裁選出から1年"
     },
     {
       "time": "07:52",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "台風27号 小笠原諸島の近海へ北上"
     },
     {
+      "time": "07:35",
+      "title": "那覇遺体 強殺疑いで米兵を逮捕",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597462?source=rss",
+      "publishedAt": "2026-10-03T22:35:39.000Z",
+      "xQuery": "那覇遺体 強殺疑いで米兵を逮捕"
+    },
+    {
       "time": "07:17",
       "title": "釣り中の9歳が海に転落 心肺停止",
       "source": "Yahoo!ニュース",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "釣り中の9歳が海に転落 心肺停止"
     },
     {
-      "time": "20:37",
-      "title": "23階転落 母が「転落しそう」通報",
+      "time": "08:19",
+      "title": "オフロードバイクで転倒 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597435?source=rss",
-      "publishedAt": "2026-10-03T11:37:54.000Z",
-      "xQuery": "23階転落 母が「転落しそう」通報"
-    },
-    {
-      "time": "22:05",
-      "title": "だんじりが横転し7人けが 転落か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597447?source=rss",
-      "publishedAt": "2026-10-03T13:05:29.000Z",
-      "xQuery": "だんじりが横転し7人けが 転落か"
+      "url": "https://news.yahoo.co.jp/pickup/6597468?source=rss",
+      "publishedAt": "2026-10-03T23:19:30.000Z",
+      "xQuery": "オフロードバイクで転倒 男性死亡"
     }
   ]
 };

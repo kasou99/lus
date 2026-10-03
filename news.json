@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T22:58:50.792Z",
+  "updatedAt": "2026-10-03T23:55:58.011Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -8,6 +8,13 @@
         "source": "静岡新聞DIGITAL",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zVXZFOHAtX291RWVuM1piazJQb05PWGlMQVQxaGE3ZnItVE9qaDdNOFdKWF9tZnJlQ0lkYjk2R1pubjBIRjNuMGZyeGlCQQ?oc=5",
         "publishedAt": "2026-10-03T21:00:00.000Z"
+      },
+      {
+        "time": "08:45",
+        "title": "「AIは当面、電動工具として正しく使うべき」 サントリービバレッジ＆フードの木村穣介社長が見解",
+        "source": "excite.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hN0pOV04xalREX25NQ3hfV2hNRm1XemtGYWRMa2x3Y0ZpWUZHTk1sYUpXcE95bWJfWUpGc1dlNGxYWllzYXhoUmh3blVNT21jNXZTT2JwWXQ3dlRkdm9vLS1uVDdNZE9vWG9LQmlB?oc=5",
+        "publishedAt": "2026-10-03T23:45:00.000Z"
       },
       {
         "time": "12:30",
@@ -50,16 +57,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597376?source=rss",
         "publishedAt": "2026-10-03T04:07:37.000Z"
-      },
-      {
-        "time": "12:46",
-        "title": "マンション販売「ワニの口」とは",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597375?source=rss",
-        "publishedAt": "2026-10-03T03:46:12.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "08:46",
+        "title": "北朝鮮 発射のミサイル「AI導入」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597469?source=rss",
+        "publishedAt": "2026-10-03T23:46:14.000Z"
+      },
+      {
+        "time": "11:16",
+        "title": "北ミサイル700km以上飛行 韓国軍",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597364?source=rss",
+        "publishedAt": "2026-10-03T02:16:45.000Z"
+      },
       {
         "time": "17:03",
         "title": "米中間選挙 長引く物価高が争点",
@@ -82,25 +96,11 @@
         "publishedAt": "2026-10-03T08:43:10.000Z"
       },
       {
-        "time": "11:16",
-        "title": "北ミサイル700km以上飛行 韓国軍",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597364?source=rss",
-        "publishedAt": "2026-10-03T02:16:45.000Z"
-      },
-      {
         "time": "11:08",
         "title": "仏各地のデモ激化 逮捕者5000人に",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597362?source=rss",
         "publishedAt": "2026-10-03T02:08:14.000Z"
-      },
-      {
-        "time": "08:41",
-        "title": "機長刺した副操縦士 過去乗務禁止",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597344?source=rss",
-        "publishedAt": "2026-10-02T23:41:32.000Z"
       }
     ],
     "economyHeadlines": [
@@ -163,18 +163,18 @@
         "publishedAt": "2026-10-03T11:41:07.000Z"
       },
       {
-        "time": "20:25",
-        "title": "4人死亡火災 隣家の住民ぼうぜん",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597432?source=rss",
-        "publishedAt": "2026-10-03T11:25:45.000Z"
-      },
-      {
         "time": "07:17",
         "title": "釣り中の9歳が海に転落 心肺停止",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597459?source=rss",
         "publishedAt": "2026-10-03T22:17:36.000Z"
+      },
+      {
+        "time": "08:19",
+        "title": "オフロードバイクで転倒 男性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597468?source=rss",
+        "publishedAt": "2026-10-03T23:19:30.000Z"
       },
       {
         "time": "20:37",
