@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T02:28:25.924Z",
+  "updatedAt": "2026-10-03T02:58:05.107Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -20,7 +20,7 @@
         "time": "23:30",
         "title": "太陽光・風力ファームの少人数運営に ― 圏外でも止まらない点検アプリ、AI設備保全システム『EMLink』が刷新",
         "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yQWxFWjZJZktzZGxkaFl5UDUzZEFPUlVUSTRQYS1PMERjek5kOWNubUJ1RmdvdTAySFFNNlRFOTJyYXZqcmhsc0NTdUh1MmZYZlNVTA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40VlNuTGNXQlRjSDhPZUNOY1pqc0lZcW1TOFJDZzZ5RVJHNm1Ea3FPV01XQ0hvVU5NSjE0RUppYnJhVUltR1Z1ckJ2SUpaa1FEMDJwcVBPSU5QdVBwTEZLa0lkZGpkNHBGWlBtSEs4czFlajJfUW8wRzVnRQ?oc=5",
         "publishedAt": "2026-10-02T14:30:26.000Z"
       },
       {
@@ -33,16 +33,16 @@
       {
         "time": "15:45",
         "title": "NSK、ボールねじ式「電動ハイドロブースタ」新開発…省エネと高速動作を両立",
-        "source": "response.jp",
+        "source": "レスポンス（Response.jp）",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YYml2VXNqMHo0RXpTSlZQQmtMVTd2YzYxdVQ3SFE0d0pPZWJNYjRoVk1fblYxdmdOLUNUOE5aUUVLeXdQYXM1eUVvRlVsU0hfd0t6WW9URGlPQmFISnQ4?oc=5",
         "publishedAt": "2026-10-02T06:45:03.000Z"
       },
       {
-        "time": "11:30",
-        "title": "NSW、デジタルツインとスマートグラスを活用した取り組みで「精密工学会ものづくり賞」を受賞 ～デジタル技術を活用し、製造現場の設備保全・メンテナンス業務の高度化に貢献～",
-        "source": "ドリームニュース",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jYnNKa0NXT2cwNjBOeEJfYm1nWjBOYkd2QWVwV25LS0s0RXNsd01ENDJPc0xuUkJtMEEwa1l3TWJfRGswZzZ3alY1N3dLVjYzLWww?oc=5",
-        "publishedAt": "2026-10-02T02:30:00.000Z"
+        "time": "00:31",
+        "title": "三和電気計器、CAT.IV 600V対応の ハンディ型デジタルマルチメータ「CD5003」を発売",
+        "source": "japan.zdnet.com",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nSS1sa3U0eDVZOGNRWElZUUYxdW1BR2gtU1AzS2xyb2hCY2ZGX3NyWmVoMzl3d1V2Ym1QLTdvdHNRNzZxZnRBa2tHYU9lNTZJMVNJ?oc=5",
+        "publishedAt": "2026-10-02T15:31:00.000Z"
       },
       {
         "time": "14:45",
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-02T05:45:00.000Z"
       },
       {
-        "time": "00:31",
-        "title": "三和電気計器、CAT.IV 600V対応の ハンディ型デジタルマルチメータ「CD5003」を発売",
-        "source": "ZDNET Japan",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nSS1sa3U0eDVZOGNRWElZUUYxdW1BR2gtU1AzS2xyb2hCY2ZGX3NyWmVoMzl3d1V2Ym1QLTdvdHNRNzZxZnRBa2tHYU9lNTZJMVNJ?oc=5",
-        "publishedAt": "2026-10-02T15:31:00.000Z"
+        "time": "12:03",
+        "title": "NSW、デジタルツインとスマートグラスを活用した取り組みで「精密工学会ものづくり賞」を受賞",
+        "source": "ニコニコニュース",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kc2x0c0FnemM4SF8wb0h3Y3FEX2NKbG5qSEZITjl6YWs2SkU2UlktUXV1ejd1ZW1aTFF1aFRzOVBwVndlcjRuZ0ZrYTVWY1k4dXA2Tw?oc=5",
+        "publishedAt": "2026-10-02T03:03:29.000Z"
       }
     ],
     "worldHeadlines": [
@@ -163,6 +163,13 @@
         "publishedAt": "2026-10-02T23:18:32.000Z"
       },
       {
+        "time": "11:43",
+        "title": "台風で決壊の印旛沼 応急措置完了",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597367?source=rss",
+        "publishedAt": "2026-10-03T02:43:27.000Z"
+      },
+      {
         "time": "00:04",
         "title": "焼け跡に4遺体 4歳から13歳の子か",
         "source": "Yahoo!ニュース",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597356?source=rss",
         "publishedAt": "2026-10-03T00:52:06.000Z"
-      },
-      {
-        "time": "19:44",
-        "title": "山中でシカに襲われたか 男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597314?source=rss",
-        "publishedAt": "2026-10-02T10:44:15.000Z"
       }
     ],
     "subsidyHeadlines": [

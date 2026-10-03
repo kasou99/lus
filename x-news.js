@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T02:28:27.454Z",
+  "updatedAt": "2026-10-03T02:58:05.790Z",
   "items": [
     {
       "time": "10:12",
@@ -10,20 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "人口水増し疑惑 富山市役所を捜索"
     },
     {
-      "time": "11:16",
-      "title": "北ミサイル700km以上飛行 韓国軍",
+      "time": "11:43",
+      "title": "台風で決壊の印旛沼 応急措置完了",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597364?source=rss",
-      "publishedAt": "2026-10-03T02:16:45.000Z",
-      "xQuery": "北ミサイル700km以上飛行 韓国軍"
-    },
-    {
-      "time": "09:52",
-      "title": "トランプ氏自嘲 中間選挙に焦り?",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597354?source=rss",
-      "publishedAt": "2026-10-03T00:52:07.000Z",
-      "xQuery": "トランプ氏自嘲 中間選挙に焦り?"
+      "url": "https://news.yahoo.co.jp/pickup/6597367?source=rss",
+      "publishedAt": "2026-10-03T02:43:27.000Z",
+      "xQuery": "台風で決壊の印旛沼 応急措置完了"
     },
     {
       "time": "11:03",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597356?source=rss",
       "publishedAt": "2026-10-03T00:52:06.000Z",
       "xQuery": "那覇のホテルに女性遺体 事件か"
+    },
+    {
+      "time": "10:02",
+      "title": "ABAHOUSE 全顧客の情報漏えいか",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597358?source=rss",
+      "publishedAt": "2026-10-03T01:02:09.000Z",
+      "xQuery": "ABAHOUSE 全顧客の情報漏えいか"
     }
   ]
 };
