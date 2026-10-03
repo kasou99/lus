@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T10:49:37.224Z",
+  "updatedAt": "2026-10-03T11:44:47.404Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,34 @@
     ],
     "localHeadlines": [
       {
+        "time": "20:41",
+        "title": "4人死亡の火災 玄関付近が火元か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597434?source=rss",
+        "publishedAt": "2026-10-03T11:41:07.000Z"
+      },
+      {
+        "time": "20:37",
+        "title": "23階転落 母が「転落しそう」通報",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597435?source=rss",
+        "publishedAt": "2026-10-03T11:37:54.000Z"
+      },
+      {
+        "time": "16:39",
+        "title": "都内タワマン23階から子転落 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597402?source=rss",
+        "publishedAt": "2026-10-03T07:39:55.000Z"
+      },
+      {
+        "time": "20:25",
+        "title": "4人死亡火災 隣家の住民ぼうぜん",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597432?source=rss",
+        "publishedAt": "2026-10-03T11:25:45.000Z"
+      },
+      {
         "time": "18:53",
         "title": "台風 千葉・神奈川で死者計15人に",
         "source": "Yahoo!ニュース",
@@ -161,34 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597418?source=rss",
         "publishedAt": "2026-10-03T08:52:44.000Z"
-      },
-      {
-        "time": "18:50",
-        "title": "9歳転落 ベランダづたいに移動か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597424?source=rss",
-        "publishedAt": "2026-10-03T09:50:19.000Z"
-      },
-      {
-        "time": "16:39",
-        "title": "都内タワマン23階から子転落 死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597402?source=rss",
-        "publishedAt": "2026-10-03T07:39:55.000Z"
-      },
-      {
-        "time": "16:10",
-        "title": "富山市捜索 市長「改めておわび」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597397?source=rss",
-        "publishedAt": "2026-10-03T07:10:14.000Z"
-      },
-      {
-        "time": "15:38",
-        "title": "悪質な「名古屋ライド」SNS拡散",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597392?source=rss",
-        "publishedAt": "2026-10-03T06:38:53.000Z"
       }
     ],
     "subsidyHeadlines": [

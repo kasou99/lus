@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T10:49:37.942Z",
+  "updatedAt": "2026-10-03T11:44:48.468Z",
   "items": [
     {
-      "time": "17:43",
-      "title": "米大統領2千万人に90ドル給付表明",
+      "time": "20:25",
+      "title": "4人死亡火災 隣家の住民ぼうぜん",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597410?source=rss",
-      "publishedAt": "2026-10-03T08:43:10.000Z",
-      "xQuery": "米大統領2千万人に90ドル給付表明"
+      "url": "https://news.yahoo.co.jp/pickup/6597432?source=rss",
+      "publishedAt": "2026-10-03T11:25:45.000Z",
+      "xQuery": "4人死亡火災 隣家の住民ぼうぜん"
     },
     {
-      "time": "18:00",
-      "title": "食品消費税1%に賛否 減税効果は",
+      "time": "17:03",
+      "title": "米中間選挙 長引く物価高が争点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597415?source=rss",
-      "publishedAt": "2026-10-03T09:00:18.000Z",
-      "xQuery": "食品消費税1%に賛否 減税効果は"
+      "url": "https://news.yahoo.co.jp/pickup/6597406?source=rss",
+      "publishedAt": "2026-10-03T08:03:25.000Z",
+      "xQuery": "米中間選挙 長引く物価高が争点"
     },
     {
-      "time": "13:07",
-      "title": "「こどもNISA」注意点 専門家解説",
+      "time": "18:53",
+      "title": "台風 千葉・神奈川で死者計15人に",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597376?source=rss",
-      "publishedAt": "2026-10-03T04:07:37.000Z",
-      "xQuery": "「こどもNISA」注意点 専門家解説"
+      "url": "https://news.yahoo.co.jp/pickup/6597425?source=rss",
+      "publishedAt": "2026-10-03T09:53:44.000Z",
+      "xQuery": "台風 千葉・神奈川で死者計15人に"
     },
     {
-      "time": "16:39",
-      "title": "都内タワマン23階から子転落 死亡",
+      "time": "20:37",
+      "title": "23階転落 母が「転落しそう」通報",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597402?source=rss",
-      "publishedAt": "2026-10-03T07:39:55.000Z",
-      "xQuery": "都内タワマン23階から子転落 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6597435?source=rss",
+      "publishedAt": "2026-10-03T11:37:54.000Z",
+      "xQuery": "23階転落 母が「転落しそう」通報"
     },
     {
-      "time": "17:52",
-      "title": "ダイビング客ら8人救助 意識あり",
+      "time": "16:15",
+      "title": "和菓子店の倒産 過去最多ペース",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597418?source=rss",
-      "publishedAt": "2026-10-03T08:52:44.000Z",
-      "xQuery": "ダイビング客ら8人救助 意識あり"
+      "url": "https://news.yahoo.co.jp/pickup/6597393?source=rss",
+      "publishedAt": "2026-10-03T07:15:14.000Z",
+      "xQuery": "和菓子店の倒産 過去最多ペース"
     }
   ]
 };
