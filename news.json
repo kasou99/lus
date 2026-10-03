@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T09:40:48.081Z",
+  "updatedAt": "2026-10-03T10:16:16.568Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -96,11 +96,11 @@
         "publishedAt": "2026-10-03T02:08:14.000Z"
       },
       {
-        "time": "08:07",
-        "title": "露の新型ドローン イラン製を改良",
+        "time": "08:41",
+        "title": "機長刺した副操縦士 過去乗務禁止",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597343?source=rss",
-        "publishedAt": "2026-10-02T23:07:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597344?source=rss",
+        "publishedAt": "2026-10-02T23:41:32.000Z"
       }
     ],
     "economyHeadlines": [
@@ -149,11 +149,25 @@
     ],
     "localHeadlines": [
       {
+        "time": "18:53",
+        "title": "台風 千葉・神奈川で死者計15人に",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597425?source=rss",
+        "publishedAt": "2026-10-03T09:53:44.000Z"
+      },
+      {
         "time": "17:52",
         "title": "ダイビング客ら8人救助 意識あり",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597418?source=rss",
         "publishedAt": "2026-10-03T08:52:44.000Z"
+      },
+      {
+        "time": "18:50",
+        "title": "9歳転落 ベランダづたいに移動か",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597424?source=rss",
+        "publishedAt": "2026-10-03T09:50:19.000Z"
       },
       {
         "time": "16:39",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-10-03T07:10:14.000Z"
       },
       {
-        "time": "10:12",
-        "title": "人口水増し疑惑 富山市役所を捜索",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597359?source=rss",
-        "publishedAt": "2026-10-03T01:12:21.000Z"
-      },
-      {
         "time": "15:38",
         "title": "悪質な「名古屋ライド」SNS拡散",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597392?source=rss",
         "publishedAt": "2026-10-03T06:38:53.000Z"
-      },
-      {
-        "time": "11:03",
-        "title": "三宮暴走 運転男性は体調急変か",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597361?source=rss",
-        "publishedAt": "2026-10-03T02:03:34.000Z"
       }
     ],
     "subsidyHeadlines": [
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
-        "source": "hojyokin-portal.jp",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
+        "source": "補助金ポータル",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-30T07:00:00.000Z"
       }

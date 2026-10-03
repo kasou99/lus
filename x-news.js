@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T09:40:49.460Z",
+  "updatedAt": "2026-10-03T10:16:17.322Z",
   "items": [
     {
       "time": "17:43",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "「こどもNISA」注意点 専門家解説"
     },
     {
+      "time": "18:50",
+      "title": "9歳転落 ベランダづたいに移動か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597424?source=rss",
+      "publishedAt": "2026-10-03T09:50:19.000Z",
+      "xQuery": "9歳転落 ベランダづたいに移動か"
+    },
+    {
       "time": "17:52",
       "title": "ダイビング客ら8人救助 意識あり",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597418?source=rss",
       "publishedAt": "2026-10-03T08:52:44.000Z",
       "xQuery": "ダイビング客ら8人救助 意識あり"
-    },
-    {
-      "time": "16:39",
-      "title": "都内タワマン23階から子転落 死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597402?source=rss",
-      "publishedAt": "2026-10-03T07:39:55.000Z",
-      "xQuery": "都内タワマン23階から子転落 死亡"
     }
   ]
 };
