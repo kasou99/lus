@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T07:22:56.351Z",
+  "updatedAt": "2026-10-03T07:45:04.979Z",
   "items": [
     {
       "time": "14:47",
@@ -10,12 +10,12 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 週明け小笠原諸島へ接近恐れ"
     },
     {
-      "time": "13:50",
-      "title": "ホテル女性死亡 同行者の行方追う",
+      "time": "16:10",
+      "title": "富山市捜索 市長「改めておわび」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597383?source=rss",
-      "publishedAt": "2026-10-03T04:50:16.000Z",
-      "xQuery": "ホテル女性死亡 同行者の行方追う"
+      "url": "https://news.yahoo.co.jp/pickup/6597397?source=rss",
+      "publishedAt": "2026-10-03T07:10:14.000Z",
+      "xQuery": "富山市捜索 市長「改めておわび」"
     },
     {
       "time": "15:02",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "米殺人犯の死刑失敗 被害者母落胆"
     },
     {
-      "time": "11:32",
-      "title": "冷凍庫に子を遺棄 苦しみ抱え孤立",
+      "time": "16:39",
+      "title": "都内タワマン23階から子転落 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597363?source=rss",
-      "publishedAt": "2026-10-03T02:32:14.000Z",
-      "xQuery": "冷凍庫に子を遺棄 苦しみ抱え孤立"
+      "url": "https://news.yahoo.co.jp/pickup/6597402?source=rss",
+      "publishedAt": "2026-10-03T07:39:55.000Z",
+      "xQuery": "都内タワマン23階から子転落 死亡"
     },
     {
-      "time": "14:54",
-      "title": "都内のタワマンで子転落 心肺停止",
+      "time": "16:25",
+      "title": "市が毎年更衣室解体 6年で7千万円",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597389?source=rss",
-      "publishedAt": "2026-10-03T05:54:53.000Z",
-      "xQuery": "都内のタワマンで子転落 心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6597400?source=rss",
+      "publishedAt": "2026-10-03T07:25:34.000Z",
+      "xQuery": "市が毎年更衣室解体 6年で7千万円"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T07:22:55.488Z",
+  "updatedAt": "2026-10-03T07:45:04.308Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -119,13 +119,6 @@
         "publishedAt": "2026-10-02T11:46:40.000Z"
       },
       {
-        "time": "18:49",
-        "title": "佐川急便 宅配便平均13%値上げへ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597309?source=rss",
-        "publishedAt": "2026-10-02T09:49:13.000Z"
-      },
-      {
         "time": "16:15",
         "title": "和菓子店の倒産 過去最多ペース",
         "source": "Yahoo!ニュース",
@@ -145,9 +138,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597375?source=rss",
         "publishedAt": "2026-10-03T03:46:12.000Z"
+      },
+      {
+        "time": "16:32",
+        "title": "コンビニ おしゃれ目的に衣料強化",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597399?source=rss",
+        "publishedAt": "2026-10-03T07:32:42.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "16:39",
+        "title": "都内タワマン23階から子転落 死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597402?source=rss",
+        "publishedAt": "2026-10-03T07:39:55.000Z"
+      },
       {
         "time": "16:10",
         "title": "富山市捜索 市長「改めておわび」",
@@ -170,13 +177,6 @@
         "publishedAt": "2026-10-03T06:38:53.000Z"
       },
       {
-        "time": "11:43",
-        "title": "台風で決壊の印旛沼 応急措置完了",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597367?source=rss",
-        "publishedAt": "2026-10-03T02:43:27.000Z"
-      },
-      {
         "time": "11:03",
         "title": "三宮暴走 運転男性は体調急変か",
         "source": "Yahoo!ニュース",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-10-03T02:03:34.000Z"
       },
       {
-        "time": "14:54",
-        "title": "都内のタワマンで子転落 心肺停止",
+        "time": "13:50",
+        "title": "ホテル女性死亡 同行者の行方追う",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597389?source=rss",
-        "publishedAt": "2026-10-03T05:54:53.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597383?source=rss",
+        "publishedAt": "2026-10-03T04:50:16.000Z"
       }
     ],
     "subsidyHeadlines": [
