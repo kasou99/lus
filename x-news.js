@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T06:31:30.255Z",
+  "updatedAt": "2026-10-03T07:22:56.351Z",
   "items": [
     {
       "time": "14:47",
@@ -10,14 +10,6 @@ window.LUS_X_NEWS = {
       "xQuery": "台風 週明け小笠原諸島へ接近恐れ"
     },
     {
-      "time": "13:16",
-      "title": "衆院の定数削減 自民に先送り論",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597377?source=rss",
-      "publishedAt": "2026-10-03T04:16:36.000Z",
-      "xQuery": "衆院の定数削減 自民に先送り論"
-    },
-    {
       "time": "13:50",
       "title": "ホテル女性死亡 同行者の行方追う",
       "source": "Yahoo!ニュース",
@@ -26,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "ホテル女性死亡 同行者の行方追う"
     },
     {
-      "time": "12:41",
-      "title": "4人死亡火災 プロパンボンベ破裂",
+      "time": "15:02",
+      "title": "米殺人犯の死刑失敗 被害者母落胆",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597373?source=rss",
-      "publishedAt": "2026-10-03T03:41:35.000Z",
-      "xQuery": "4人死亡火災 プロパンボンベ破裂"
+      "url": "https://news.yahoo.co.jp/pickup/6597385?source=rss",
+      "publishedAt": "2026-10-03T06:02:54.000Z",
+      "xQuery": "米殺人犯の死刑失敗 被害者母落胆"
     },
     {
       "time": "11:32",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597363?source=rss",
       "publishedAt": "2026-10-03T02:32:14.000Z",
       "xQuery": "冷凍庫に子を遺棄 苦しみ抱え孤立"
+    },
+    {
+      "time": "14:54",
+      "title": "都内のタワマンで子転落 心肺停止",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597389?source=rss",
+      "publishedAt": "2026-10-03T05:54:53.000Z",
+      "xQuery": "都内のタワマンで子転落 心肺停止"
     }
   ]
 };

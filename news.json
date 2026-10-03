@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-03T06:31:29.475Z",
+  "updatedAt": "2026-10-03T07:22:55.488Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "14:12",
+        "title": "(株)岡本工作機械製作所【6125】：株価・株式情報（夜間PTS含む）",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LLVpzMFl2YnFWYS10V1pyaGxRdTZLZVJlUGJUUzJjeTd0MnA3YlpDWEx3NXdiUFhFNGp1QUE0WWdNMklsNklTREpkcm1FbGdXd1E?oc=5",
+        "publishedAt": "2026-10-03T05:12:25.000Z"
+      },
       {
         "time": "23:30",
         "title": "太陽光・風力ファームの少人数運営に ― 圏外でも止まらない点検アプリ、AI設備保全システム『EMLink』が刷新",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yQWxFWjZJZktzZGxkaFl5UDUzZEFPUlVUSTRQYS1PMERjek5kOWNubUJ1RmdvdTAySFFNNlRFOTJyYXZqcmhsc0NTdUh1MmZYZlNVTA?oc=5",
         "publishedAt": "2026-10-02T14:30:26.000Z"
-      },
-      {
-        "time": "15:38",
-        "title": "エンコーダ市場：タイプ、技術、信号タイプ別、出力タイプ別、用途、最終用途、流通チャネル別―2026年～2032年の世界市場予測",
-        "source": "アットプレス",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aUjZuOF9ySUlxZUxubkZCQnE1emNBNFRYRkJRZ25NQTBRc2NXdWxIdjF1MG53Y09oelV2dWFZNm9xRV9HVXFwUHFCbm5ITlk?oc=5",
-        "publishedAt": "2026-10-02T06:38:00.000Z"
       },
       {
         "time": "00:31",
@@ -24,18 +24,18 @@
         "publishedAt": "2026-10-02T15:31:00.000Z"
       },
       {
-        "time": "15:45",
-        "title": "NSK、ボールねじ式「電動ハイドロブースタ」新開発…省エネと高速動作を両立",
-        "source": "レスポンス（Response.jp）",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YYml2VXNqMHo0RXpTSlZQQmtMVTd2YzYxdVQ3SFE0d0pPZWJNYjRoVk1fblYxdmdOLUNUOE5aUUVLeXdQYXM1eUVvRlVsU0hfd0t6WW9URGlPQmFISnQ4?oc=5",
-        "publishedAt": "2026-10-02T06:45:03.000Z"
-      },
-      {
         "time": "21:13",
         "title": "「車の下にスッと潜り込み、3.4tを軽々」...現代ウィアが育てる新規事業【MK企業リポート】",
-        "source": "매일경제",
+        "source": "mk.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGQ0x3OGE0ZmxKQm1SZktHdDZta3BjeTFVOTU4Sk1YMlR3UjlEcjFPdnFSdFFwSDVqUlRtbTJmQTlfZ093NmpFQnZNbjU0TXRoQ3o4?oc=5",
         "publishedAt": "2026-10-02T12:13:13.000Z"
+      },
+      {
+        "time": "17:08",
+        "title": "既設の自動ドアを簡単にオートロック化！日本の設置環境に完全適合した、後付け専用のカード・暗証番号リーダー「KJ-100」「KJ-150」を同時リリース",
+        "source": "朝日新聞",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtMktxN0pZR0Q5ZlVGRG1vMUdTYkhrdk9rUXNQQjhEVlR2YVdSZ0JkTHZGR01zRVhsQ1BLUDE0Sk5BNUotUGxsVkNhMjlNMEhBcnVTMXVxaU1uc0k?oc=5",
+        "publishedAt": "2026-10-02T08:08:47.000Z"
       },
       {
         "time": "12:30",
@@ -126,11 +126,11 @@
         "publishedAt": "2026-10-02T09:49:13.000Z"
       },
       {
-        "time": "17:14",
-        "title": "免許証画像流出 集団訴訟動き進む",
+        "time": "16:15",
+        "title": "和菓子店の倒産 過去最多ペース",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597293?source=rss",
-        "publishedAt": "2026-10-02T08:14:52.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597393?source=rss",
+        "publishedAt": "2026-10-03T07:15:14.000Z"
       },
       {
         "time": "13:07",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "16:10",
+        "title": "富山市捜索 市長「改めておわび」",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597397?source=rss",
+        "publishedAt": "2026-10-03T07:10:14.000Z"
+      },
+      {
         "time": "10:12",
         "title": "人口水増し疑惑 富山市役所を捜索",
         "source": "Yahoo!ニュース",
@@ -156,11 +163,11 @@
         "publishedAt": "2026-10-03T01:12:21.000Z"
       },
       {
-        "time": "12:41",
-        "title": "4人死亡火災 プロパンボンベ破裂",
+        "time": "15:38",
+        "title": "悪質な「名古屋ライド」SNS拡散",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597373?source=rss",
-        "publishedAt": "2026-10-03T03:41:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597392?source=rss",
+        "publishedAt": "2026-10-03T06:38:53.000Z"
       },
       {
         "time": "11:43",
@@ -182,13 +189,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597389?source=rss",
         "publishedAt": "2026-10-03T05:54:53.000Z"
-      },
-      {
-        "time": "13:50",
-        "title": "ホテル女性死亡 同行者の行方追う",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597383?source=rss",
-        "publishedAt": "2026-10-03T04:50:16.000Z"
       }
     ],
     "subsidyHeadlines": [
