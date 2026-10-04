@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-10-04T02:26:39.668Z",
+  "updatedAt": "2026-10-04T03:44:22.374Z",
   "groups": {
     "machineHeadlines": [
       {
         "time": "09:48",
         "title": "広島のトーヨーエイテック、工作機械の新モデル開発",
-        "source": "47news.jp",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxb3RfM05PYUdaNVZINUZkX0J0MFlkUWRwR3BtZm5YSldBV1hxZmFUMlRGWlhSVkcxbWQwRlc1MFVmTGpPQ3p6X0s3bw?oc=5",
+        "source": "中国新聞デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xZFpPNmRTcTZWc2RXTkxkVXd4SmdHLWthS3hROVhqNm5xWGswdVlmZEp4OHlGX09IQ3hiWldzSy1UcWxNZW1NTzNSUVRvZUlBZk9INWpkUTRjZw?oc=5",
         "publishedAt": "2026-10-04T00:48:58.000Z"
+      },
+      {
+        "time": "12:30",
+        "title": "CNCウォームねじ研削盤の世界市場（2026年～2032年）、市場規模（シングルヘッド、マルチヘッド）・分析レポートを発表",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KNHZjZ1Z5a1h2cmFmTVhBNkQ5SnpodUpaNU8yRXZUcEJsQzc5b3VYbmFneDhWRFpoYl9TOGF1ZUNsUTY0V0JXOW5rQW9UcTA?oc=5",
+        "publishedAt": "2026-10-04T03:30:00.000Z"
       },
       {
         "time": "08:45",
@@ -22,13 +29,6 @@
         "source": "静岡新聞DIGITAL",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zVXZFOHAtX291RWVuM1piazJQb05PWGlMQVQxaGE3ZnItVE9qaDdNOFdKWF9tZnJlQ0lkYjk2R1pubjBIRjNuMGZyeGlCQQ?oc=5",
         "publishedAt": "2026-10-03T21:00:00.000Z"
-      },
-      {
-        "time": "12:30",
-        "title": "産業用製品比較販売サービス「メトリー」、佐々木希さんを起用した新広告を、東京メトロ全線にて掲出開始",
-        "source": "ニコニコニュース",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjVGhZRkFJYk4zWlpDLWpJQW83a0RJMXBFZHpfNEExUy16bDJyc2xETUNrbllTTFlLUjNsTDFvcHhvbm1qanFLdGh4RjdnRnppTlFVaHNLTTNqOVpfQUdFSGY4eTBteXE1cFU3RTdzVXN5MGdaNnlYR2Z1WQ?oc=5",
-        "publishedAt": "2026-10-03T03:30:48.000Z"
       },
       {
         "time": "18:00",
@@ -61,11 +61,11 @@
     ],
     "worldHeadlines": [
       {
-        "time": "08:46",
-        "title": "北朝鮮 発射のミサイル「AI導入」",
+        "time": "11:44",
+        "title": "フーシ派 サウジの石油施設を攻撃",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597469?source=rss",
-        "publishedAt": "2026-10-03T23:46:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597490?source=rss",
+        "publishedAt": "2026-10-04T02:44:21.000Z"
       },
       {
         "time": "09:15",
@@ -75,25 +75,11 @@
         "publishedAt": "2026-10-04T00:15:55.000Z"
       },
       {
-        "time": "17:03",
-        "title": "米中間選挙 長引く物価高が争点",
+        "time": "08:46",
+        "title": "北朝鮮 発射のミサイル「AI導入」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597406?source=rss",
-        "publishedAt": "2026-10-03T08:03:25.000Z"
-      },
-      {
-        "time": "09:52",
-        "title": "トランプ氏自嘲 中間選挙に焦り?",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597354?source=rss",
-        "publishedAt": "2026-10-03T00:52:07.000Z"
-      },
-      {
-        "time": "17:43",
-        "title": "米大統領2千万人に90ドル給付表明",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597410?source=rss",
-        "publishedAt": "2026-10-03T08:43:10.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597469?source=rss",
+        "publishedAt": "2026-10-03T23:46:14.000Z"
       },
       {
         "time": "10:24",
@@ -101,6 +87,20 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597480?source=rss",
         "publishedAt": "2026-10-04T01:24:45.000Z"
+      },
+      {
+        "time": "11:33",
+        "title": "クマに襲われ1カ月で16人死亡 露",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597489?source=rss",
+        "publishedAt": "2026-10-04T02:33:13.000Z"
+      },
+      {
+        "time": "17:03",
+        "title": "米中間選挙 長引く物価高が争点",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597406?source=rss",
+        "publishedAt": "2026-10-03T08:03:25.000Z"
       }
     ],
     "economyHeadlines": [
@@ -170,11 +170,11 @@
         "publishedAt": "2026-10-04T01:24:33.000Z"
       },
       {
-        "time": "09:46",
-        "title": "海で9歳重体 救助向かった人不明",
+        "time": "12:07",
+        "title": "9歳海に転落 救助図った男性死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597478?source=rss",
-        "publishedAt": "2026-10-04T00:46:15.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597492?source=rss",
+        "publishedAt": "2026-10-04T03:07:24.000Z"
       },
       {
         "time": "20:37",

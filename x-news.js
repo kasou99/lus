@@ -1,6 +1,14 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-04T02:26:40.631Z",
+  "updatedAt": "2026-10-04T03:44:23.238Z",
   "items": [
+    {
+      "time": "11:44",
+      "title": "フーシ派 サウジの石油施設を攻撃",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597490?source=rss",
+      "publishedAt": "2026-10-04T02:44:21.000Z",
+      "xQuery": "フーシ派 サウジの石油施設を攻撃"
+    },
     {
       "time": "10:24",
       "title": "横浜市長選が告示 7人が立候補",
@@ -10,12 +18,12 @@ window.LUS_X_NEWS = {
       "xQuery": "横浜市長選が告示 7人が立候補"
     },
     {
-      "time": "09:15",
-      "title": "独大統領 反移民の極右台頭に警告",
+      "time": "11:33",
+      "title": "クマに襲われ1カ月で16人死亡 露",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597473?source=rss",
-      "publishedAt": "2026-10-04T00:15:55.000Z",
-      "xQuery": "独大統領 反移民の極右台頭に警告"
+      "url": "https://news.yahoo.co.jp/pickup/6597489?source=rss",
+      "publishedAt": "2026-10-04T02:33:13.000Z",
+      "xQuery": "クマに襲われ1カ月で16人死亡 露"
     },
     {
       "time": "10:24",
@@ -26,20 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "死刑執行失敗 州矯正局長が辞任"
     },
     {
-      "time": "09:51",
-      "title": "「出前一丁」香港で独自進化 背景",
+      "time": "12:07",
+      "title": "9歳海に転落 救助図った男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597479?source=rss",
-      "publishedAt": "2026-10-04T00:51:55.000Z",
-      "xQuery": "「出前一丁」香港で独自進化 背景"
-    },
-    {
-      "time": "10:44",
-      "title": "夫婦の性行為は義務? 法学者見解",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597485?source=rss",
-      "publishedAt": "2026-10-04T01:44:31.000Z",
-      "xQuery": "夫婦の性行為は義務? 法学者見解"
+      "url": "https://news.yahoo.co.jp/pickup/6597492?source=rss",
+      "publishedAt": "2026-10-04T03:07:24.000Z",
+      "xQuery": "9歳海に転落 救助図った男性死亡"
     }
   ]
 };
