@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T21:45:27.707Z",
+  "updatedAt": "2026-10-04T22:16:53.810Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "01:52",
         "title": "(株)岡本工作機械製作所【6125】：株価・株式情報（夜間PTS含む）",
-        "source": "Yahoo!ファイナンス",
+        "source": "finance.yahoo.co.jp",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LLVpzMFl2YnFWYS10V1pyaGxRdTZLZVJlUGJUUzJjeTd0MnA3YlpDWEx3NXdiUFhFNGp1QUE0WWdNMklsNklTREpkcm1FbGdXd1E?oc=5",
         "publishedAt": "2026-10-04T16:52:26.000Z"
       },
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-04T17:07:16.000Z"
       },
       {
-        "time": "06:43",
-        "title": "「ロマンありすぎますね」お天気の蓬莱さん、“月の土地”購入も値段に驚き「安っ!・・・・いのか?!」",
-        "source": "オリコンニュース",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTc3VYUWpBcGU4ZF9yb2xMVGFWXzVXVE9qWjFJVk1CZWZVZ1NrUjllX25OOWRtRUM0dENJaGFKeWhJRW40dTlnaGRwUDI4Q2ZIYlk4SG85ODhmRFFEZktIQ0ZUdERQYUJPUmc?oc=5",
-        "publishedAt": "2026-10-04T21:43:15.000Z"
+        "time": "12:30",
+        "title": "CNCウォームねじ研削盤の世界市場（2026年～2032年）、市場規模（シングルヘッド、マルチヘッド）・分析レポートを発表",
+        "source": "atpress.ne.jp",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KNHZjZ1Z5a1h2cmFmTVhBNkQ5SnpodUpaNU8yRXZUcEJsQzc5b3VYbmFneDhWRFpoYl9TOGF1ZUNsUTY0V0JXOW5rQW9UcTA?oc=5",
+        "publishedAt": "2026-10-04T03:30:00.000Z"
       }
     ],
     "worldHeadlines": [
@@ -66,6 +66,13 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597553?source=rss",
         "publishedAt": "2026-10-04T12:54:18.000Z"
+      },
+      {
+        "time": "06:47",
+        "title": "AI政策司令塔SIフォース 米が創設",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597563?source=rss",
+        "publishedAt": "2026-10-04T21:47:44.000Z"
       },
       {
         "time": "18:54",
@@ -80,13 +87,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597552?source=rss",
         "publishedAt": "2026-10-04T12:34:33.000Z"
-      },
-      {
-        "time": "08:46",
-        "title": "北朝鮮 発射のミサイル「AI導入」",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597469?source=rss",
-        "publishedAt": "2026-10-03T23:46:14.000Z"
       },
       {
         "time": "17:07",

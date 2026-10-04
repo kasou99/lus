@@ -1,14 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-04T21:45:28.921Z",
+  "updatedAt": "2026-10-04T22:16:54.760Z",
   "items": [
-    {
-      "time": "21:34",
-      "title": "露元首相 プーチン氏の過ち語る",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597552?source=rss",
-      "publishedAt": "2026-10-04T12:34:33.000Z",
-      "xQuery": "露元首相 プーチン氏の過ち語る"
-    },
     {
       "time": "23:43",
       "title": "台風被害の千葉 なぜ盛り土崩落",
@@ -16,6 +8,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597557?source=rss",
       "publishedAt": "2026-10-04T14:43:58.000Z",
       "xQuery": "台風被害の千葉 なぜ盛り土崩落"
+    },
+    {
+      "time": "06:47",
+      "title": "AI政策司令塔SIフォース 米が創設",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597563?source=rss",
+      "publishedAt": "2026-10-04T21:47:44.000Z",
+      "xQuery": "AI政策司令塔SIフォース 米が創設"
     },
     {
       "time": "21:54",
