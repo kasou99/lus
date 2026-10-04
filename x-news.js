@@ -1,13 +1,13 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-04T22:16:54.760Z",
+  "updatedAt": "2026-10-04T22:39:12.357Z",
   "items": [
     {
-      "time": "23:43",
-      "title": "台風被害の千葉 なぜ盛り土崩落",
+      "time": "07:18",
+      "title": "臨時国会召集へ 消費減税など焦点",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597557?source=rss",
-      "publishedAt": "2026-10-04T14:43:58.000Z",
-      "xQuery": "台風被害の千葉 なぜ盛り土崩落"
+      "url": "https://news.yahoo.co.jp/pickup/6597564?source=rss",
+      "publishedAt": "2026-10-04T22:18:12.000Z",
+      "xQuery": "臨時国会召集へ 消費減税など焦点"
     },
     {
       "time": "06:47",
