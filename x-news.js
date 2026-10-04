@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-04T01:27:33.742Z",
+  "updatedAt": "2026-10-04T02:26:40.631Z",
   "items": [
     {
-      "time": "09:22",
-      "title": "那覇強殺 逮捕の米兵は容疑否認",
+      "time": "10:24",
+      "title": "横浜市長選が告示 7人が立候補",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597475?source=rss",
-      "publishedAt": "2026-10-04T00:22:35.000Z",
-      "xQuery": "那覇強殺 逮捕の米兵は容疑否認"
+      "url": "https://news.yahoo.co.jp/pickup/6597482?source=rss",
+      "publishedAt": "2026-10-04T01:24:33.000Z",
+      "xQuery": "横浜市長選が告示 7人が立候補"
     },
     {
-      "time": "08:46",
-      "title": "北朝鮮 発射のミサイル「AI導入」",
+      "time": "09:15",
+      "title": "独大統領 反移民の極右台頭に警告",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597469?source=rss",
-      "publishedAt": "2026-10-03T23:46:14.000Z",
-      "xQuery": "北朝鮮 発射のミサイル「AI導入」"
+      "url": "https://news.yahoo.co.jp/pickup/6597473?source=rss",
+      "publishedAt": "2026-10-04T00:15:55.000Z",
+      "xQuery": "独大統領 反移民の極右台頭に警告"
     },
     {
-      "time": "09:46",
-      "title": "海で9歳重体 救助向かった人不明",
+      "time": "10:24",
+      "title": "死刑執行失敗 州矯正局長が辞任",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597478?source=rss",
-      "publishedAt": "2026-10-04T00:46:15.000Z",
-      "xQuery": "海で9歳重体 救助向かった人不明"
+      "url": "https://news.yahoo.co.jp/pickup/6597480?source=rss",
+      "publishedAt": "2026-10-04T01:24:45.000Z",
+      "xQuery": "死刑執行失敗 州矯正局長が辞任"
     },
     {
-      "time": "08:19",
-      "title": "オフロードバイクで転倒 男性死亡",
+      "time": "09:51",
+      "title": "「出前一丁」香港で独自進化 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597468?source=rss",
-      "publishedAt": "2026-10-03T23:19:30.000Z",
-      "xQuery": "オフロードバイクで転倒 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6597479?source=rss",
+      "publishedAt": "2026-10-04T00:51:55.000Z",
+      "xQuery": "「出前一丁」香港で独自進化 背景"
     },
     {
-      "time": "07:35",
-      "title": "サザン関口氏会社5.8億円申告漏れ",
+      "time": "10:44",
+      "title": "夫婦の性行為は義務? 法学者見解",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597461?source=rss",
-      "publishedAt": "2026-10-03T22:35:32.000Z",
-      "xQuery": "サザン関口氏会社5.8億円申告漏れ"
+      "url": "https://news.yahoo.co.jp/pickup/6597485?source=rss",
+      "publishedAt": "2026-10-04T01:44:31.000Z",
+      "xQuery": "夫婦の性行為は義務? 法学者見解"
     }
   ]
 };
