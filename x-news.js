@@ -1,37 +1,37 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-04T03:44:23.238Z",
+  "updatedAt": "2026-10-04T05:41:49.641Z",
   "items": [
     {
-      "time": "11:44",
-      "title": "フーシ派 サウジの石油施設を攻撃",
+      "time": "12:28",
+      "title": "台風27号 東北〜関東でも高波注意",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597490?source=rss",
-      "publishedAt": "2026-10-04T02:44:21.000Z",
-      "xQuery": "フーシ派 サウジの石油施設を攻撃"
+      "url": "https://news.yahoo.co.jp/pickup/6597491?source=rss",
+      "publishedAt": "2026-10-04T03:28:02.000Z",
+      "xQuery": "台風27号 東北〜関東でも高波注意"
     },
     {
-      "time": "10:24",
-      "title": "横浜市長選が告示 7人が立候補",
+      "time": "13:05",
+      "title": "米兵逮捕 外務省が米側に強く抗議",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597482?source=rss",
-      "publishedAt": "2026-10-04T01:24:33.000Z",
-      "xQuery": "横浜市長選が告示 7人が立候補"
+      "url": "https://news.yahoo.co.jp/pickup/6597496?source=rss",
+      "publishedAt": "2026-10-04T04:05:53.000Z",
+      "xQuery": "米兵逮捕 外務省が米側に強く抗議"
     },
     {
-      "time": "11:33",
-      "title": "クマに襲われ1カ月で16人死亡 露",
+      "time": "14:32",
+      "title": "那覇強殺 タトゥーが逮捕手がかり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597489?source=rss",
-      "publishedAt": "2026-10-04T02:33:13.000Z",
-      "xQuery": "クマに襲われ1カ月で16人死亡 露"
+      "url": "https://news.yahoo.co.jp/pickup/6597504?source=rss",
+      "publishedAt": "2026-10-04T05:32:16.000Z",
+      "xQuery": "那覇強殺 タトゥーが逮捕手がかり"
     },
     {
-      "time": "10:24",
-      "title": "死刑執行失敗 州矯正局長が辞任",
+      "time": "13:02",
+      "title": "カーブで車3台絡む事故 男性死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597480?source=rss",
-      "publishedAt": "2026-10-04T01:24:45.000Z",
-      "xQuery": "死刑執行失敗 州矯正局長が辞任"
+      "url": "https://news.yahoo.co.jp/pickup/6597495?source=rss",
+      "publishedAt": "2026-10-04T04:02:11.000Z",
+      "xQuery": "カーブで車3台絡む事故 男性死亡"
     },
     {
       "time": "12:07",

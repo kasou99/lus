@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T03:44:22.374Z",
+  "updatedAt": "2026-10-04T05:41:48.869Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -7,7 +7,7 @@
         "title": "広島のトーヨーエイテック、工作機械の新モデル開発",
         "source": "中国新聞デジタル",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xZFpPNmRTcTZWc2RXTkxkVXd4SmdHLWthS3hROVhqNm5xWGswdVlmZEp4OHlGX09IQ3hiWldzSy1UcWxNZW1NTzNSUVRvZUlBZk9INWpkUTRjZw?oc=5",
-        "publishedAt": "2026-10-04T00:48:58.000Z"
+        "publishedAt": "2026-10-04T00:48:00.000Z"
       },
       {
         "time": "12:30",
@@ -149,18 +149,18 @@
     ],
     "localHeadlines": [
       {
+        "time": "14:32",
+        "title": "那覇強殺 タトゥーが逮捕手がかり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597504?source=rss",
+        "publishedAt": "2026-10-04T05:32:16.000Z"
+      },
+      {
         "time": "09:22",
         "title": "那覇強殺 逮捕の米兵は容疑否認",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597475?source=rss",
         "publishedAt": "2026-10-04T00:22:35.000Z"
-      },
-      {
-        "time": "07:35",
-        "title": "那覇遺体 強殺疑いで米兵を逮捕",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597462?source=rss",
-        "publishedAt": "2026-10-03T22:35:39.000Z"
       },
       {
         "time": "10:24",
@@ -177,18 +177,18 @@
         "publishedAt": "2026-10-04T03:07:24.000Z"
       },
       {
+        "time": "13:02",
+        "title": "カーブで車3台絡む事故 男性死亡",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597495?source=rss",
+        "publishedAt": "2026-10-04T04:02:11.000Z"
+      },
+      {
         "time": "20:37",
         "title": "23階転落 母が「転落しそう」通報",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597435?source=rss",
         "publishedAt": "2026-10-03T11:37:54.000Z"
-      },
-      {
-        "time": "08:19",
-        "title": "オフロードバイクで転倒 男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597468?source=rss",
-        "publishedAt": "2026-10-03T23:19:30.000Z"
       }
     ],
     "subsidyHeadlines": [
