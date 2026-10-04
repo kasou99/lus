@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-04T23:16:06.400Z",
+  "updatedAt": "2026-10-04T23:39:26.580Z",
   "items": [
     {
       "time": "07:18",
@@ -26,12 +26,12 @@ window.LUS_X_NEWS = {
       "xQuery": "個人情報提供 事前報告を義務化へ"
     },
     {
-      "time": "06:11",
-      "title": "知人女性の腹刺した疑い 男を逮捕",
+      "time": "08:19",
+      "title": "那覇強殺 女性の首にひも状の痕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597560?source=rss",
-      "publishedAt": "2026-10-04T21:11:35.000Z",
-      "xQuery": "知人女性の腹刺した疑い 男を逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6597570?source=rss",
+      "publishedAt": "2026-10-04T23:19:52.000Z",
+      "xQuery": "那覇強殺 女性の首にひも状の痕"
     },
     {
       "time": "06:19",

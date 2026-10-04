@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T23:16:05.610Z",
+  "updatedAt": "2026-10-04T23:39:25.639Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -149,6 +149,20 @@
     ],
     "localHeadlines": [
       {
+        "time": "08:19",
+        "title": "那覇強殺 女性の首にひも状の痕",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597570?source=rss",
+        "publishedAt": "2026-10-04T23:19:52.000Z"
+      },
+      {
+        "time": "20:28",
+        "title": "那覇強殺事件 遺族がコメント発表",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597545?source=rss",
+        "publishedAt": "2026-10-04T11:28:09.000Z"
+      },
+      {
         "time": "06:11",
         "title": "知人女性の腹刺した疑い 男を逮捕",
         "source": "Yahoo!ニュース",
@@ -170,25 +184,11 @@
         "publishedAt": "2026-10-04T13:00:47.000Z"
       },
       {
-        "time": "20:28",
-        "title": "那覇強殺事件 遺族がコメント発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597545?source=rss",
-        "publishedAt": "2026-10-04T11:28:09.000Z"
-      },
-      {
         "time": "23:43",
         "title": "台風被害の千葉 なぜ盛り土崩落",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597557?source=rss",
         "publishedAt": "2026-10-04T14:43:58.000Z"
-      },
-      {
-        "time": "16:24",
-        "title": "大阪の2市合併検討へ 副首都視野",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597517?source=rss",
-        "publishedAt": "2026-10-04T07:24:58.000Z"
       }
     ],
     "subsidyHeadlines": [
