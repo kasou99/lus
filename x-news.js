@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-04T14:52:43.104Z",
+  "updatedAt": "2026-10-04T16:33:22.836Z",
   "items": [
     {
       "time": "21:34",
@@ -18,6 +18,14 @@ window.LUS_X_NEWS = {
       "xQuery": "台風被害の千葉 なぜ盛り土崩落"
     },
     {
+      "time": "21:54",
+      "title": "ブラジル大統領選 決選投票の公算",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597553?source=rss",
+      "publishedAt": "2026-10-04T12:54:18.000Z",
+      "xQuery": "ブラジル大統領選 決選投票の公算"
+    },
+    {
       "time": "22:30",
       "title": "遮断器ない踏切 15歳はねられ死亡",
       "source": "Yahoo!ニュース",
@@ -32,14 +40,6 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597547?source=rss",
       "publishedAt": "2026-10-04T11:33:46.000Z",
       "xQuery": "ごみ収集車で頭巻き込まれる 死亡"
-    },
-    {
-      "time": "22:00",
-      "title": "愛知県知事 アジア大会を巡り謝罪",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597554?source=rss",
-      "publishedAt": "2026-10-04T13:00:47.000Z",
-      "xQuery": "愛知県知事 アジア大会を巡り謝罪"
     }
   ]
 };
