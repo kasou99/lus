@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-04T10:39:16.315Z",
+  "updatedAt": "2026-10-04T12:56:20.415Z",
   "items": [
     {
-      "time": "18:54",
-      "title": "独 ウに2400億円相当を追加支援へ",
+      "time": "18:43",
+      "title": "台風27号 太平洋側は高波に警戒を",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597536?source=rss",
-      "publishedAt": "2026-10-04T09:54:00.000Z",
-      "xQuery": "独 ウに2400億円相当を追加支援へ"
+      "url": "https://news.yahoo.co.jp/pickup/6597534?source=rss",
+      "publishedAt": "2026-10-04T09:43:18.000Z",
+      "xQuery": "台風27号 太平洋側は高波に警戒を"
     },
     {
-      "time": "15:32",
-      "title": "副操縦士襲撃 緊迫の状況語る機長",
+      "time": "20:28",
+      "title": "那覇強殺事件 遺族がコメント発表",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597506?source=rss",
-      "publishedAt": "2026-10-04T06:32:44.000Z",
-      "xQuery": "副操縦士襲撃 緊迫の状況語る機長"
+      "url": "https://news.yahoo.co.jp/pickup/6597545?source=rss",
+      "publishedAt": "2026-10-04T11:28:09.000Z",
+      "xQuery": "那覇強殺事件 遺族がコメント発表"
     },
     {
-      "time": "17:42",
-      "title": "那覇強殺 米海兵隊側コメント発表",
+      "time": "21:34",
+      "title": "露元首相 プーチン氏の過ち語る",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597525?source=rss",
-      "publishedAt": "2026-10-04T08:42:42.000Z",
-      "xQuery": "那覇強殺 米海兵隊側コメント発表"
+      "url": "https://news.yahoo.co.jp/pickup/6597552?source=rss",
+      "publishedAt": "2026-10-04T12:34:33.000Z",
+      "xQuery": "露元首相 プーチン氏の過ち語る"
     },
     {
-      "time": "19:23",
-      "title": "日経新聞がサイバー攻撃被害 発表",
+      "time": "19:20",
+      "title": "故意に車を対向車に衝突疑い 逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597542?source=rss",
-      "publishedAt": "2026-10-04T10:23:58.000Z",
-      "xQuery": "日経新聞がサイバー攻撃被害 発表"
+      "url": "https://news.yahoo.co.jp/pickup/6597540?source=rss",
+      "publishedAt": "2026-10-04T10:20:58.000Z",
+      "xQuery": "故意に車を対向車に衝突疑い 逮捕"
     },
     {
-      "time": "17:51",
-      "title": "モトクロスでバイク転倒 男性死亡",
+      "time": "20:33",
+      "title": "ごみ収集車で頭巻き込まれる 死亡",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597528?source=rss",
-      "publishedAt": "2026-10-04T08:51:50.000Z",
-      "xQuery": "モトクロスでバイク転倒 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6597547?source=rss",
+      "publishedAt": "2026-10-04T11:33:46.000Z",
+      "xQuery": "ごみ収集車で頭巻き込まれる 死亡"
     }
   ]
 };
