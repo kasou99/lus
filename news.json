@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-03T23:55:58.011Z",
+  "updatedAt": "2026-10-04T01:27:33.172Z",
   "groups": {
     "machineHeadlines": [
+      {
+        "time": "09:48",
+        "title": "広島のトーヨーエイテック、工作機械の新モデル開発",
+        "source": "47NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxb3RfM05PYUdaNVZINUZkX0J0MFlkUWRwR3BtZm5YSldBV1hxZmFUMlRGWlhSVkcxbWQwRlc1MFVmTGpPQ3p6X0s3bw?oc=5",
+        "publishedAt": "2026-10-04T00:48:58.000Z"
+      },
+      {
+        "time": "08:45",
+        "title": "「AIは当面、電動工具として正しく使うべき」 サントリービバレッジ＆フードの木村穣介社長が見解",
+        "source": "Infoseek",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Vc283Z19EVXZPcllQLXNxZHRvaDQ5ejNJTmF0YlBWVTdSQ3lIUUxLNmNfNWRlblF0ajZmOUVPTzltYURTTnpNYW43NmxRejhqbnl6MzlUNUV2Um5iZVpwajJn?oc=5",
+        "publishedAt": "2026-10-03T23:45:22.000Z"
+      },
       {
         "time": "06:00",
         "title": "外国人材採用で社内活性化 中央区でセミナー 企業の効果紹介－浜松",
@@ -10,25 +24,11 @@
         "publishedAt": "2026-10-03T21:00:00.000Z"
       },
       {
-        "time": "08:45",
-        "title": "「AIは当面、電動工具として正しく使うべき」 サントリービバレッジ＆フードの木村穣介社長が見解",
-        "source": "excite.co.jp",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hN0pOV04xalREX25NQ3hfV2hNRm1XemtGYWRMa2x3Y0ZpWUZHTk1sYUpXcE95bWJfWUpGc1dlNGxYWllzYXhoUmh3blVNT21jNXZTT2JwWXQ3dlRkdm9vLS1uVDdNZE9vWG9LQmlB?oc=5",
-        "publishedAt": "2026-10-03T23:45:00.000Z"
-      },
-      {
         "time": "12:30",
         "title": "産業用製品比較販売サービス「メトリー」、佐々木希さんを起用した新広告を、東京メトロ全線にて掲出開始",
         "source": "ニコニコニュース",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xaWo5eVY0eEk2RUVucFE2c0s2ZEFBVExyaUdzdWp6VUZTR3prRUFuRXdycklva05NZm56bmN4dmYtbDV3bVA3MkF6dFE4NERvRGhydmRxRGROVVRVZkN6V0g2NHhQUlJRU3B6cVVjR0NkaGdwREFncGZxaw?oc=5",
         "publishedAt": "2026-10-03T03:30:48.000Z"
-      },
-      {
-        "time": "23:04",
-        "title": "プルデンシャルの処分検討 金融庁",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597329?source=rss",
-        "publishedAt": "2026-10-02T14:04:42.000Z"
       },
       {
         "time": "18:00",
@@ -68,11 +68,11 @@
         "publishedAt": "2026-10-03T23:46:14.000Z"
       },
       {
-        "time": "11:16",
-        "title": "北ミサイル700km以上飛行 韓国軍",
+        "time": "09:15",
+        "title": "独大統領 反移民の極右台頭に警告",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597364?source=rss",
-        "publishedAt": "2026-10-03T02:16:45.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597473?source=rss",
+        "publishedAt": "2026-10-04T00:15:55.000Z"
       },
       {
         "time": "17:03",
@@ -96,21 +96,14 @@
         "publishedAt": "2026-10-03T08:43:10.000Z"
       },
       {
-        "time": "11:08",
-        "title": "仏各地のデモ激化 逮捕者5000人に",
+        "time": "10:24",
+        "title": "死刑執行失敗 州矯正局長が辞任",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597362?source=rss",
-        "publishedAt": "2026-10-03T02:08:14.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597480?source=rss",
+        "publishedAt": "2026-10-04T01:24:45.000Z"
       }
     ],
     "economyHeadlines": [
-      {
-        "time": "23:04",
-        "title": "プルデンシャルの処分検討 金融庁",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597329?source=rss",
-        "publishedAt": "2026-10-02T14:04:42.000Z"
-      },
       {
         "time": "18:00",
         "title": "食品消費税1%に賛否 減税効果は",
@@ -145,9 +138,23 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597375?source=rss",
         "publishedAt": "2026-10-03T03:46:12.000Z"
+      },
+      {
+        "time": "09:51",
+        "title": "「出前一丁」香港で独自進化 背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597479?source=rss",
+        "publishedAt": "2026-10-04T00:51:55.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "09:22",
+        "title": "那覇強殺 逮捕の米兵は容疑否認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597475?source=rss",
+        "publishedAt": "2026-10-04T00:22:35.000Z"
+      },
       {
         "time": "07:35",
         "title": "那覇遺体 強殺疑いで米兵を逮捕",
@@ -156,25 +163,18 @@
         "publishedAt": "2026-10-03T22:35:39.000Z"
       },
       {
-        "time": "20:41",
-        "title": "4人死亡の火災 玄関付近が火元か",
+        "time": "10:24",
+        "title": "横浜市長選が告示 7人が立候補",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597434?source=rss",
-        "publishedAt": "2026-10-03T11:41:07.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597482?source=rss",
+        "publishedAt": "2026-10-04T01:24:33.000Z"
       },
       {
-        "time": "07:17",
-        "title": "釣り中の9歳が海に転落 心肺停止",
+        "time": "09:46",
+        "title": "海で9歳重体 救助向かった人不明",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597459?source=rss",
-        "publishedAt": "2026-10-03T22:17:36.000Z"
-      },
-      {
-        "time": "08:19",
-        "title": "オフロードバイクで転倒 男性死亡",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597468?source=rss",
-        "publishedAt": "2026-10-03T23:19:30.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597478?source=rss",
+        "publishedAt": "2026-10-04T00:46:15.000Z"
       },
       {
         "time": "20:37",
@@ -184,11 +184,11 @@
         "publishedAt": "2026-10-03T11:37:54.000Z"
       },
       {
-        "time": "16:39",
-        "title": "都内タワマン23階から子転落 死亡",
+        "time": "08:19",
+        "title": "オフロードバイクで転倒 男性死亡",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597402?source=rss",
-        "publishedAt": "2026-10-03T07:39:55.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597468?source=rss",
+        "publishedAt": "2026-10-03T23:19:30.000Z"
       }
     ],
     "subsidyHeadlines": [

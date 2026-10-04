@@ -1,37 +1,29 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-03T23:55:59.000Z",
+  "updatedAt": "2026-10-04T01:27:33.742Z",
   "items": [
     {
-      "time": "08:05",
-      "title": "高市早苗氏 自民総裁選出から1年",
+      "time": "09:22",
+      "title": "那覇強殺 逮捕の米兵は容疑否認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597465?source=rss",
-      "publishedAt": "2026-10-03T23:05:33.000Z",
-      "xQuery": "高市早苗氏 自民総裁選出から1年"
+      "url": "https://news.yahoo.co.jp/pickup/6597475?source=rss",
+      "publishedAt": "2026-10-04T00:22:35.000Z",
+      "xQuery": "那覇強殺 逮捕の米兵は容疑否認"
     },
     {
-      "time": "07:52",
-      "title": "台風27号 小笠原諸島の近海へ北上",
+      "time": "08:46",
+      "title": "北朝鮮 発射のミサイル「AI導入」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597463?source=rss",
-      "publishedAt": "2026-10-03T22:52:50.000Z",
-      "xQuery": "台風27号 小笠原諸島の近海へ北上"
+      "url": "https://news.yahoo.co.jp/pickup/6597469?source=rss",
+      "publishedAt": "2026-10-03T23:46:14.000Z",
+      "xQuery": "北朝鮮 発射のミサイル「AI導入」"
     },
     {
-      "time": "07:35",
-      "title": "那覇遺体 強殺疑いで米兵を逮捕",
+      "time": "09:46",
+      "title": "海で9歳重体 救助向かった人不明",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597462?source=rss",
-      "publishedAt": "2026-10-03T22:35:39.000Z",
-      "xQuery": "那覇遺体 強殺疑いで米兵を逮捕"
-    },
-    {
-      "time": "07:17",
-      "title": "釣り中の9歳が海に転落 心肺停止",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597459?source=rss",
-      "publishedAt": "2026-10-03T22:17:36.000Z",
-      "xQuery": "釣り中の9歳が海に転落 心肺停止"
+      "url": "https://news.yahoo.co.jp/pickup/6597478?source=rss",
+      "publishedAt": "2026-10-04T00:46:15.000Z",
+      "xQuery": "海で9歳重体 救助向かった人不明"
     },
     {
       "time": "08:19",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597468?source=rss",
       "publishedAt": "2026-10-03T23:19:30.000Z",
       "xQuery": "オフロードバイクで転倒 男性死亡"
+    },
+    {
+      "time": "07:35",
+      "title": "サザン関口氏会社5.8億円申告漏れ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597461?source=rss",
+      "publishedAt": "2026-10-03T22:35:32.000Z",
+      "xQuery": "サザン関口氏会社5.8億円申告漏れ"
     }
   ]
 };
