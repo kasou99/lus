@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T22:39:11.011Z",
+  "updatedAt": "2026-10-04T23:16:05.610Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -26,7 +26,7 @@
       {
         "time": "01:52",
         "title": "(株)岡本工作機械製作所【6125】：株価・株式情報（夜間PTS含む）",
-        "source": "finance.yahoo.co.jp",
+        "source": "Yahoo!ファイナンス",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LLVpzMFl2YnFWYS10V1pyaGxRdTZLZVJlUGJUUzJjeTd0MnA3YlpDWEx3NXdiUFhFNGp1QUE0WWdNMklsNklTREpkcm1FbGdXd1E?oc=5",
         "publishedAt": "2026-10-04T16:52:26.000Z"
       },
@@ -54,8 +54,8 @@
       {
         "time": "12:30",
         "title": "CNCウォームねじ研削盤の世界市場（2026年～2032年）、市場規模（シングルヘッド、マルチヘッド）・分析レポートを発表",
-        "source": "atpress.ne.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KNHZjZ1Z5a1h2cmFmTVhBNkQ5SnpodUpaNU8yRXZUcEJsQzc5b3VYbmFneDhWRFpoYl9TOGF1ZUNsUTY0V0JXOW5rQW9UcTA?oc=5",
+        "source": "アットプレス",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wS2o3eV9ZdldBMzBqZzJscHNVSE1JVk1mdEVKUjdScXBtUzBzZlFwOURPSGM1ODdKamJodGEwZktaeTVZakM4Qk50VWgtdw?oc=5",
         "publishedAt": "2026-10-04T03:30:00.000Z"
       }
     ],

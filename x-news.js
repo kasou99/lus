@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-04T22:39:12.357Z",
+  "updatedAt": "2026-10-04T23:16:06.400Z",
   "items": [
     {
       "time": "07:18",
@@ -10,20 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "臨時国会召集へ 消費減税など焦点"
     },
     {
-      "time": "06:47",
-      "title": "AI政策司令塔SIフォース 米が創設",
+      "time": "07:43",
+      "title": "AI自動運航船 自衛隊に導入へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597563?source=rss",
-      "publishedAt": "2026-10-04T21:47:44.000Z",
-      "xQuery": "AI政策司令塔SIフォース 米が創設"
+      "url": "https://news.yahoo.co.jp/pickup/6597567?source=rss",
+      "publishedAt": "2026-10-04T22:43:34.000Z",
+      "xQuery": "AI自動運航船 自衛隊に導入へ"
     },
     {
-      "time": "21:54",
-      "title": "ブラジル大統領選 決選投票の公算",
+      "time": "07:43",
+      "title": "個人情報提供 事前報告を義務化へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597553?source=rss",
-      "publishedAt": "2026-10-04T12:54:18.000Z",
-      "xQuery": "ブラジル大統領選 決選投票の公算"
+      "url": "https://news.yahoo.co.jp/pickup/6597566?source=rss",
+      "publishedAt": "2026-10-04T22:43:34.000Z",
+      "xQuery": "個人情報提供 事前報告を義務化へ"
     },
     {
       "time": "06:11",
