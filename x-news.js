@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-04T20:58:55.485Z",
+  "updatedAt": "2026-10-04T21:28:36.268Z",
   "items": [
     {
       "time": "21:34",
@@ -34,12 +34,12 @@ window.LUS_X_NEWS = {
       "xQuery": "遮断器ない踏切 15歳はねられ死亡"
     },
     {
-      "time": "20:33",
-      "title": "ごみ収集車で頭巻き込まれる 死亡",
+      "time": "06:11",
+      "title": "知人女性の腹刺した疑い 男を逮捕",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597547?source=rss",
-      "publishedAt": "2026-10-04T11:33:46.000Z",
-      "xQuery": "ごみ収集車で頭巻き込まれる 死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6597560?source=rss",
+      "publishedAt": "2026-10-04T21:11:35.000Z",
+      "xQuery": "知人女性の腹刺した疑い 男を逮捕"
     }
   ]
 };
