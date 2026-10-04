@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-04T05:41:49.641Z",
+  "updatedAt": "2026-10-04T08:11:37.696Z",
   "items": [
     {
-      "time": "12:28",
-      "title": "台風27号 東北〜関東でも高波注意",
+      "time": "16:34",
+      "title": "岩屋氏を異例の厚遇 中国側思惑は",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597491?source=rss",
-      "publishedAt": "2026-10-04T03:28:02.000Z",
-      "xQuery": "台風27号 東北〜関東でも高波注意"
+      "url": "https://news.yahoo.co.jp/pickup/6597518?source=rss",
+      "publishedAt": "2026-10-04T07:34:16.000Z",
+      "xQuery": "岩屋氏を異例の厚遇 中国側思惑は"
     },
     {
-      "time": "13:05",
-      "title": "米兵逮捕 外務省が米側に強く抗議",
+      "time": "15:49",
+      "title": "那覇強殺 女性の死因は「窒息」",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597496?source=rss",
-      "publishedAt": "2026-10-04T04:05:53.000Z",
-      "xQuery": "米兵逮捕 外務省が米側に強く抗議"
+      "url": "https://news.yahoo.co.jp/pickup/6597511?source=rss",
+      "publishedAt": "2026-10-04T06:49:20.000Z",
+      "xQuery": "那覇強殺 女性の死因は「窒息」"
     },
     {
-      "time": "14:32",
-      "title": "那覇強殺 タトゥーが逮捕手がかり",
+      "time": "16:24",
+      "title": "大阪の2市合併検討へ 副首都視野",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597504?source=rss",
-      "publishedAt": "2026-10-04T05:32:16.000Z",
-      "xQuery": "那覇強殺 タトゥーが逮捕手がかり"
+      "url": "https://news.yahoo.co.jp/pickup/6597517?source=rss",
+      "publishedAt": "2026-10-04T07:24:58.000Z",
+      "xQuery": "大阪の2市合併検討へ 副首都視野"
     },
     {
-      "time": "13:02",
-      "title": "カーブで車3台絡む事故 男性死亡",
+      "time": "14:52",
+      "title": "片山さつき財務相 事前運動の疑い",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597495?source=rss",
-      "publishedAt": "2026-10-04T04:02:11.000Z",
-      "xQuery": "カーブで車3台絡む事故 男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6597502?source=rss",
+      "publishedAt": "2026-10-04T05:52:09.000Z",
+      "xQuery": "片山さつき財務相 事前運動の疑い"
     },
     {
-      "time": "12:07",
-      "title": "9歳海に転落 救助図った男性死亡",
+      "time": "15:29",
+      "title": "企業は「高専卒」に熱視線か 背景",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597492?source=rss",
-      "publishedAt": "2026-10-04T03:07:24.000Z",
-      "xQuery": "9歳海に転落 救助図った男性死亡"
+      "url": "https://news.yahoo.co.jp/pickup/6597509?source=rss",
+      "publishedAt": "2026-10-04T06:29:46.000Z",
+      "xQuery": "企業は「高専卒」に熱視線か 背景"
     }
   ]
 };

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T05:41:48.869Z",
+  "updatedAt": "2026-10-04T08:11:37.097Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -19,14 +19,14 @@
       {
         "time": "08:45",
         "title": "「AIは当面、電動工具として正しく使うべき」 サントリービバレッジ＆フードの木村穣介社長が見解",
-        "source": "Infoseek",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Vc283Z19EVXZPcllQLXNxZHRvaDQ5ejNJTmF0YlBWVTdSQ3lIUUxLNmNfNWRlblF0ajZmOUVPTzltYURTTnpNYW43NmxRejhqbnl6MzlUNUV2Um5iZVpwajJn?oc=5",
+        "source": "shokuhin.net",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yODh0RWlBdHgzUDJ0OUU4YTJ1UVlBXzB5N0g2dmx3N244Q0hSS3U3VUhXdzdtYXZucEF0LUJMd19jMkpfc1NMSXpKR21na2ZnRk9IcHc4XzZUUFJZeEs4S3hHYWN3d2pXaE11dw?oc=5",
         "publishedAt": "2026-10-03T23:45:22.000Z"
       },
       {
         "time": "06:00",
-        "title": "外国人材採用で社内活性化 中央区でセミナー 企業の効果紹介－浜松",
-        "source": "静岡新聞DIGITAL",
+        "title": "外国人材採用で社内活性化 中央区でセミナー 企業の効果紹介－浜松 - news.at-s.com",
+        "source": "news.at-s.com",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zVXZFOHAtX291RWVuM1piazJQb05PWGlMQVQxaGE3ZnItVE9qaDdNOFdKWF9tZnJlQ0lkYjk2R1pubjBIRjNuMGZyeGlCQQ?oc=5",
         "publishedAt": "2026-10-03T21:00:00.000Z"
       },
@@ -52,11 +52,11 @@
         "publishedAt": "2026-10-03T22:35:32.000Z"
       },
       {
-        "time": "13:07",
-        "title": "「こどもNISA」注意点 専門家解説",
+        "time": "15:29",
+        "title": "企業は「高専卒」に熱視線か 背景",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597376?source=rss",
-        "publishedAt": "2026-10-03T04:07:37.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597509?source=rss",
+        "publishedAt": "2026-10-04T06:29:46.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,25 +82,25 @@
         "publishedAt": "2026-10-03T23:46:14.000Z"
       },
       {
+        "time": "17:07",
+        "title": "米大統領 対立議員の電話番号公開",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597522?source=rss",
+        "publishedAt": "2026-10-04T08:07:45.000Z"
+      },
+      {
+        "time": "15:32",
+        "title": "副操縦士襲撃 緊迫の状況語る機長",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597506?source=rss",
+        "publishedAt": "2026-10-04T06:32:44.000Z"
+      },
+      {
         "time": "10:24",
         "title": "死刑執行失敗 州矯正局長が辞任",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597480?source=rss",
         "publishedAt": "2026-10-04T01:24:45.000Z"
-      },
-      {
-        "time": "11:33",
-        "title": "クマに襲われ1カ月で16人死亡 露",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597489?source=rss",
-        "publishedAt": "2026-10-04T02:33:13.000Z"
-      },
-      {
-        "time": "17:03",
-        "title": "米中間選挙 長引く物価高が争点",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597406?source=rss",
-        "publishedAt": "2026-10-03T08:03:25.000Z"
       }
     ],
     "economyHeadlines": [
@@ -126,18 +126,18 @@
         "publishedAt": "2026-10-03T22:35:32.000Z"
       },
       {
+        "time": "15:29",
+        "title": "企業は「高専卒」に熱視線か 背景",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597509?source=rss",
+        "publishedAt": "2026-10-04T06:29:46.000Z"
+      },
+      {
         "time": "13:07",
         "title": "「こどもNISA」注意点 専門家解説",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597376?source=rss",
         "publishedAt": "2026-10-03T04:07:37.000Z"
-      },
-      {
-        "time": "12:46",
-        "title": "マンション販売「ワニの口」とは",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597375?source=rss",
-        "publishedAt": "2026-10-03T03:46:12.000Z"
       },
       {
         "time": "09:51",
@@ -156,18 +156,18 @@
         "publishedAt": "2026-10-04T05:32:16.000Z"
       },
       {
-        "time": "09:22",
-        "title": "那覇強殺 逮捕の米兵は容疑否認",
+        "time": "15:49",
+        "title": "那覇強殺 女性の死因は「窒息」",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597475?source=rss",
-        "publishedAt": "2026-10-04T00:22:35.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597511?source=rss",
+        "publishedAt": "2026-10-04T06:49:20.000Z"
       },
       {
-        "time": "10:24",
-        "title": "横浜市長選が告示 7人が立候補",
+        "time": "16:24",
+        "title": "大阪の2市合併検討へ 副首都視野",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597482?source=rss",
-        "publishedAt": "2026-10-04T01:24:33.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597517?source=rss",
+        "publishedAt": "2026-10-04T07:24:58.000Z"
       },
       {
         "time": "12:07",
