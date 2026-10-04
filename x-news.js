@@ -1,5 +1,5 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-04T21:28:36.268Z",
+  "updatedAt": "2026-10-04T21:45:28.921Z",
   "items": [
     {
       "time": "21:34",
@@ -26,20 +26,20 @@ window.LUS_X_NEWS = {
       "xQuery": "ブラジル大統領選 決選投票の公算"
     },
     {
-      "time": "22:30",
-      "title": "遮断器ない踏切 15歳はねられ死亡",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597556?source=rss",
-      "publishedAt": "2026-10-04T13:30:39.000Z",
-      "xQuery": "遮断器ない踏切 15歳はねられ死亡"
-    },
-    {
       "time": "06:11",
       "title": "知人女性の腹刺した疑い 男を逮捕",
       "source": "Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/pickup/6597560?source=rss",
       "publishedAt": "2026-10-04T21:11:35.000Z",
       "xQuery": "知人女性の腹刺した疑い 男を逮捕"
+    },
+    {
+      "time": "06:19",
+      "title": "駐車場で親子3人に車衝突 父重傷",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597561?source=rss",
+      "publishedAt": "2026-10-04T21:19:27.000Z",
+      "xQuery": "駐車場で親子3人に車衝突 父重傷"
     }
   ]
 };

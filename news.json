@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T21:28:35.326Z",
+  "updatedAt": "2026-10-04T21:45:27.707Z",
   "groups": {
     "machineHeadlines": [
       {
@@ -12,7 +12,7 @@
       {
         "time": "05:00",
         "title": "萩原エレクトロニクス 設備保全サービス提供へ 製造業のデータ活用支援",
-        "source": "47news.jp",
+        "source": "47NEWS",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJd3dQempFdEdncTRNczJPbTRsZmtXUjVuM1ZYRFd6c0xvNDJaQVNfaUR2WmNzbUtTVHh4S0ZBbUxYcExCMktzVzdpTQ?oc=5",
         "publishedAt": "2026-10-04T20:00:00.000Z"
       },
@@ -31,6 +31,13 @@
         "publishedAt": "2026-10-04T16:52:26.000Z"
       },
       {
+        "time": "05:00",
+        "title": "準大手・中堅ゼネコントップに聞く（3）戸田建設社長・大谷清介氏",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpSk1vTTFfSzNUQ2ZZcXZqRVNpVDZHUy1VMjNmWjhKbUx5NW5UQ21PTFFucGJud2xfd0o1cnQ4YWhLbms1dklCUy1UUGJsaURBNmowMFZHT2o?oc=5",
+        "publishedAt": "2026-10-04T20:00:00.000Z"
+      },
+      {
         "time": "09:48",
         "title": "広島のトーヨーエイテック、工作機械の新モデル開発",
         "source": "中国新聞デジタル",
@@ -45,18 +52,11 @@
         "publishedAt": "2026-10-04T17:07:16.000Z"
       },
       {
-        "time": "12:30",
-        "title": "CNCウォームねじ研削盤の世界市場（2026年～2032年）、市場規模（シングルヘッド、マルチヘッド）・分析レポートを発表",
-        "source": "atpress.ne.jp",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KNHZjZ1Z5a1h2cmFmTVhBNkQ5SnpodUpaNU8yRXZUcEJsQzc5b3VYbmFneDhWRFpoYl9TOGF1ZUNsUTY0V0JXOW5rQW9UcTA?oc=5",
-        "publishedAt": "2026-10-04T03:30:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "リケジョneo（367）リコー 熊谷あやね（くまがい・あやね）さん",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10X1NPZlBGYnJMS3VPSDJNRDdjUTg2RDZOMGpVa3ByamRSbmlla3V5SjctbzZBNHpSWGhuckJhdEFvdm16SVNITGhqT2VKY2hsZ1FzZDV6UjE?oc=5",
-        "publishedAt": "2026-10-04T20:00:00.000Z"
+        "time": "06:43",
+        "title": "「ロマンありすぎますね」お天気の蓬莱さん、“月の土地”購入も値段に驚き「安っ!・・・・いのか?!」",
+        "source": "オリコンニュース",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTc3VYUWpBcGU4ZF9yb2xMVGFWXzVXVE9qWjFJVk1CZWZVZ1NrUjllX25OOWRtRUM0dENJaGFKeWhJRW40dTlnaGRwUDI4Q2ZIYlk4SG85ODhmRFFEZktIQ0ZUdERQYUJPUmc?oc=5",
+        "publishedAt": "2026-10-04T21:43:15.000Z"
       }
     ],
     "worldHeadlines": [
