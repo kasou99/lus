@@ -1,22 +1,6 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-04T12:56:20.415Z",
+  "updatedAt": "2026-10-04T14:52:43.104Z",
   "items": [
-    {
-      "time": "18:43",
-      "title": "台風27号 太平洋側は高波に警戒を",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597534?source=rss",
-      "publishedAt": "2026-10-04T09:43:18.000Z",
-      "xQuery": "台風27号 太平洋側は高波に警戒を"
-    },
-    {
-      "time": "20:28",
-      "title": "那覇強殺事件 遺族がコメント発表",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597545?source=rss",
-      "publishedAt": "2026-10-04T11:28:09.000Z",
-      "xQuery": "那覇強殺事件 遺族がコメント発表"
-    },
     {
       "time": "21:34",
       "title": "露元首相 プーチン氏の過ち語る",
@@ -26,12 +10,20 @@ window.LUS_X_NEWS = {
       "xQuery": "露元首相 プーチン氏の過ち語る"
     },
     {
-      "time": "19:20",
-      "title": "故意に車を対向車に衝突疑い 逮捕",
+      "time": "23:43",
+      "title": "台風被害の千葉 なぜ盛り土崩落",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597540?source=rss",
-      "publishedAt": "2026-10-04T10:20:58.000Z",
-      "xQuery": "故意に車を対向車に衝突疑い 逮捕"
+      "url": "https://news.yahoo.co.jp/pickup/6597557?source=rss",
+      "publishedAt": "2026-10-04T14:43:58.000Z",
+      "xQuery": "台風被害の千葉 なぜ盛り土崩落"
+    },
+    {
+      "time": "22:30",
+      "title": "遮断器ない踏切 15歳はねられ死亡",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597556?source=rss",
+      "publishedAt": "2026-10-04T13:30:39.000Z",
+      "xQuery": "遮断器ない踏切 15歳はねられ死亡"
     },
     {
       "time": "20:33",
@@ -40,6 +32,14 @@ window.LUS_X_NEWS = {
       "url": "https://news.yahoo.co.jp/pickup/6597547?source=rss",
       "publishedAt": "2026-10-04T11:33:46.000Z",
       "xQuery": "ごみ収集車で頭巻き込まれる 死亡"
+    },
+    {
+      "time": "22:00",
+      "title": "愛知県知事 アジア大会を巡り謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/pickup/6597554?source=rss",
+      "publishedAt": "2026-10-04T13:00:47.000Z",
+      "xQuery": "愛知県知事 アジア大会を巡り謝罪"
     }
   ]
 };

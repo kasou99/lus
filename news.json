@@ -1,34 +1,41 @@
 {
-  "updatedAt": "2026-10-04T12:56:19.701Z",
+  "updatedAt": "2026-10-04T14:52:42.379Z",
   "groups": {
     "machineHeadlines": [
       {
+        "time": "20:58",
+        "title": "(株)岡本工作機械製作所【6125】：株価・株式情報（夜間PTS含む）",
+        "source": "Yahoo!ファイナンス",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LLVpzMFl2YnFWYS10V1pyaGxRdTZLZVJlUGJUUzJjeTd0MnA3YlpDWEx3NXdiUFhFNGp1QUE0WWdNMklsNklTREpkcm1FbGdXd1E?oc=5",
+        "publishedAt": "2026-10-04T11:58:29.000Z"
+      },
+      {
+        "time": "09:48",
+        "title": "広島のトーヨーエイテック、工作機械の新モデル開発 - chugoku-np.co.jp",
+        "source": "chugoku-np.co.jp",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xZFpPNmRTcTZWc2RXTkxkVXd4SmdHLWthS3hROVhqNm5xWGswdVlmZEp4OHlGX09IQ3hiWldzSy1UcWxNZW1NTzNSUVRvZUlBZk9INWpkUTRjZw?oc=5",
+        "publishedAt": "2026-10-04T00:48:00.000Z"
+      },
+      {
         "time": "09:48",
         "title": "広島のトーヨーエイテック、工作機械の新モデル開発",
-        "source": "中国新聞デジタル",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xZFpPNmRTcTZWc2RXTkxkVXd4SmdHLWthS3hROVhqNm5xWGswdVlmZEp4OHlGX09IQ3hiWldzSy1UcWxNZW1NTzNSUVRvZUlBZk9INWpkUTRjZw?oc=5",
+        "source": "47NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxb3RfM05PYUdaNVZINUZkX0J0MFlkUWRwR3BtZm5YSldBV1hxZmFUMlRGWlhSVkcxbWQwRlc1MFVmTGpPQ3p6X0s3bw?oc=5",
         "publishedAt": "2026-10-04T00:48:00.000Z"
       },
       {
         "time": "12:30",
         "title": "CNCウォームねじ研削盤の世界市場（2026年～2032年）、市場規模（シングルヘッド、マルチヘッド）・分析レポートを発表",
-        "source": "atpress.ne.jp",
+        "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KNHZjZ1Z5a1h2cmFmTVhBNkQ5SnpodUpaNU8yRXZUcEJsQzc5b3VYbmFneDhWRFpoYl9TOGF1ZUNsUTY0V0JXOW5rQW9UcTA?oc=5",
         "publishedAt": "2026-10-04T03:30:00.000Z"
       },
       {
         "time": "08:45",
         "title": "「AIは当面、電動工具として正しく使うべき」 サントリービバレッジ＆フードの木村穣介社長が見解",
-        "source": "shokuhin.net",
+        "source": "食品新聞 WEB版",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yODh0RWlBdHgzUDJ0OUU4YTJ1UVlBXzB5N0g2dmx3N244Q0hSS3U3VUhXdzdtYXZucEF0LUJMd19jMkpfc1NMSXpKR21na2ZnRk9IcHc4XzZUUFJZeEs4S3hHYWN3d2pXaE11dw?oc=5",
         "publishedAt": "2026-10-03T23:45:22.000Z"
-      },
-      {
-        "time": "12:43",
-        "title": "関連写真 | 三田寛子、義娘・能條愛未の第1子妊娠を祝福“お守り”プレゼントし着物姿で2ショット「ますます仲良しぶりがアップしてます」「姉妹みたいですね」",
-        "source": "オリコンニュース",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1acDVtYkZaeEh3RURGWDc4QlFhMGtpLTgyVTZ0X08zWVpaZWlIbjR0dUlTRUJUbXg1Z0xZN1B4S0J6VFcyV0FfSlBFQS1uUlJBZG5nQk9oaHE2OGNNUHJaZ2JNZG1CbzMtVnc?oc=5",
-        "publishedAt": "2026-10-04T03:43:55.000Z"
       },
       {
         "time": "06:00",
@@ -38,28 +45,28 @@
         "publishedAt": "2026-10-03T21:00:00.000Z"
       },
       {
-        "time": "18:00",
-        "title": "食品消費税1%に賛否 減税効果は",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597415?source=rss",
-        "publishedAt": "2026-10-03T09:00:18.000Z"
+        "time": "12:43",
+        "title": "関連写真 | 三田寛子、義娘・能條愛未の第1子妊娠を祝福“お守り”プレゼントし着物姿で2ショット「ますます仲良しぶりがアップしてます」「姉妹みたいですね」",
+        "source": "オリコンニュース",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1acDVtYkZaeEh3RURGWDc4QlFhMGtpLTgyVTZ0X08zWVpaZWlIbjR0dUlTRUJUbXg1Z0xZN1B4S0J6VFcyV0FfSlBFQS1uUlJBZG5nQk9oaHE2OGNNUHJaZ2JNZG1CbzMtVnc?oc=5",
+        "publishedAt": "2026-10-04T03:43:55.000Z"
       },
       {
-        "time": "22:57",
-        "title": "米国産ジャガイモ解禁 前倒し浮上",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597453?source=rss",
-        "publishedAt": "2026-10-03T13:57:57.000Z"
-      },
-      {
-        "time": "07:35",
-        "title": "サザン関口氏会社5.8億円申告漏れ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597461?source=rss",
-        "publishedAt": "2026-10-03T22:35:32.000Z"
+        "time": "22:06",
+        "title": "非接触式エンコーダ市場分析：最新のマーケティング動向、将来予測、および株主メリット –",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SZ24zX3lsVlBLa1NHTGdad0praU1rYWYta3Q1WDdBV3MzcThmN3NWeWpKaG1mMHVKaTZjMjdNdDBPd3oyWExhRk9n?oc=5",
+        "publishedAt": "2026-10-04T13:06:17.000Z"
       }
     ],
     "worldHeadlines": [
+      {
+        "time": "21:54",
+        "title": "ブラジル大統領選 決選投票の公算",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597553?source=rss",
+        "publishedAt": "2026-10-04T12:54:18.000Z"
+      },
       {
         "time": "18:54",
         "title": "独 ウに2400億円相当を追加支援へ",
@@ -73,13 +80,6 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597552?source=rss",
         "publishedAt": "2026-10-04T12:34:33.000Z"
-      },
-      {
-        "time": "11:44",
-        "title": "フーシ派 サウジの石油施設を攻撃",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597490?source=rss",
-        "publishedAt": "2026-10-04T02:44:21.000Z"
       },
       {
         "time": "08:46",
@@ -149,6 +149,13 @@
     ],
     "localHeadlines": [
       {
+        "time": "22:00",
+        "title": "愛知県知事 アジア大会を巡り謝罪",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597554?source=rss",
+        "publishedAt": "2026-10-04T13:00:47.000Z"
+      },
+      {
         "time": "20:28",
         "title": "那覇強殺事件 遺族がコメント発表",
         "source": "Yahoo!ニュース",
@@ -156,18 +163,11 @@
         "publishedAt": "2026-10-04T11:28:09.000Z"
       },
       {
-        "time": "14:32",
-        "title": "那覇強殺 タトゥーが逮捕手がかり",
+        "time": "23:43",
+        "title": "台風被害の千葉 なぜ盛り土崩落",
         "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597504?source=rss",
-        "publishedAt": "2026-10-04T05:32:16.000Z"
-      },
-      {
-        "time": "19:14",
-        "title": "沖縄 米兵の飲酒運転事件が相次ぐ",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597537?source=rss",
-        "publishedAt": "2026-10-04T10:14:46.000Z"
+        "url": "https://news.yahoo.co.jp/pickup/6597557?source=rss",
+        "publishedAt": "2026-10-04T14:43:58.000Z"
       },
       {
         "time": "19:20",
@@ -218,8 +218,8 @@
       },
       {
         "time": "16:00",
-        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧",
-        "source": "補助金ポータル",
+        "title": "【2026年最新】中小企業向け補助金6制度まとめ｜締切・補助率・上限額一覧 - hojyokin-portal.jp",
+        "source": "hojyokin-portal.jp",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Idm5vYjJtajVIYjhheTZVVTVQTXRXMndVNkRmWnVEZnZyNVRRV3ZncXZhREsxNXBqYXFZSlZmNHhLeHhkbUNRcXljRlJNWVh2ZmZrSXlsVVJsdGI5RGtBdmoxUGx1YlozMUE?oc=5",
         "publishedAt": "2026-09-30T07:00:00.000Z"
       }
