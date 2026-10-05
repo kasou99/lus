@@ -1,45 +1,45 @@
 window.LUS_X_NEWS = {
-  "updatedAt": "2026-10-05T01:42:42.593Z",
+  "updatedAt": "2026-10-05T02:36:48.673Z",
   "items": [
     {
-      "time": "07:55",
-      "title": "DV被害者らの情報漏洩 5年で68件",
+      "time": "10:51",
+      "title": "日経平均が一時7万円台 3カ月ぶり",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597568?source=rss",
-      "publishedAt": "2026-10-04T22:55:43.000Z",
-      "xQuery": "DV被害者らの情報漏洩 5年で68件"
+      "url": "https://news.yahoo.co.jp/pickup/6597585?source=rss",
+      "publishedAt": "2026-10-05T01:51:46.000Z",
+      "xQuery": "日経平均が一時7万円台 3カ月ぶり"
     },
     {
-      "time": "10:02",
-      "title": "米軍 英空軍基地から爆撃機を撤収",
+      "time": "10:49",
+      "title": "イエメン フーシ派へ軍事作戦開始",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597578?source=rss",
-      "publishedAt": "2026-10-05T01:02:51.000Z",
-      "xQuery": "米軍 英空軍基地から爆撃機を撤収"
+      "url": "https://news.yahoo.co.jp/pickup/6597582?source=rss",
+      "publishedAt": "2026-10-05T01:49:08.000Z",
+      "xQuery": "イエメン フーシ派へ軍事作戦開始"
     },
     {
-      "time": "09:34",
-      "title": "マスク氏「スペースXSI」に改称へ",
+      "time": "11:08",
+      "title": "6人死亡放火殺人 起訴内容を否認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597576?source=rss",
-      "publishedAt": "2026-10-05T00:34:16.000Z",
-      "xQuery": "マスク氏「スペースXSI」に改称へ"
+      "url": "https://news.yahoo.co.jp/pickup/6597581?source=rss",
+      "publishedAt": "2026-10-05T02:08:27.000Z",
+      "xQuery": "6人死亡放火殺人 起訴内容を否認"
     },
     {
-      "time": "09:46",
-      "title": "ネイリスト殺害 大晦日の「悲劇」",
+      "time": "10:36",
+      "title": "定置網で男性が見つかる 死亡確認",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597577?source=rss",
-      "publishedAt": "2026-10-05T00:46:10.000Z",
-      "xQuery": "ネイリスト殺害 大晦日の「悲劇」"
+      "url": "https://news.yahoo.co.jp/pickup/6597583?source=rss",
+      "publishedAt": "2026-10-05T01:36:36.000Z",
+      "xQuery": "定置網で男性が見つかる 死亡確認"
     },
     {
-      "time": "08:19",
-      "title": "那覇強殺 女性の首にひも状の痕",
+      "time": "11:05",
+      "title": "フィジカルAIで異業種連携相次ぐ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/pickup/6597570?source=rss",
-      "publishedAt": "2026-10-04T23:19:52.000Z",
-      "xQuery": "那覇強殺 女性の首にひも状の痕"
+      "url": "https://news.yahoo.co.jp/pickup/6597586?source=rss",
+      "publishedAt": "2026-10-05T02:05:18.000Z",
+      "xQuery": "フィジカルAIで異業種連携相次ぐ"
     }
   ]
 };

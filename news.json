@@ -1,40 +1,12 @@
 {
-  "updatedAt": "2026-10-05T01:42:41.663Z",
+  "updatedAt": "2026-10-05T02:36:48.246Z",
   "groups": {
     "machineHeadlines": [
       {
-        "time": "05:35",
-        "title": "萩原エレクトロニクス 設備保全サービス提供へ 製造業のデータ活用支援（中部経済新聞）",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96X3lLX0Ywc09oT01NcG55aFgxSUo3UkhJZXJBS2gzTG1GemN1THdrMTNyaUh4eGtUb0c5SVB4VmNuU3hyN2JZNWxQczNkWjNuS01aekt5dFBMOHBTTkYzaUF1QzJHRFdQWmlXZjFhdkVUZzRLOFhza3dxSFFHNWs?oc=5",
-        "publishedAt": "2026-10-04T20:35:39.000Z"
-      },
-      {
         "time": "05:00",
         "title": "萩原エレクトロニクス 設備保全サービス提供へ 製造業のデータ活用支援",
-        "source": "47NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJd3dQempFdEdncTRNczJPbTRsZmtXUjVuM1ZYRFd6c0xvNDJaQVNfaUR2WmNzbUtTVHh4S0ZBbUxYcExCMktzVzdpTQ?oc=5",
-        "publishedAt": "2026-10-04T20:00:00.000Z"
-      },
-      {
-        "time": "09:26",
-        "title": "日本のサーボモーター・ドライブ市場規模2026年～2033年：技術、展開、収益、最新トレ",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WS3FwMFBBSEZST3FMTGlQTGtwV2F4amg1N2s4Nk5aNURQSFoxRWNBNk00NTBtZ3FlRzl3MVlyTDZfYzdSNlM5eURn?oc=5",
-        "publishedAt": "2026-10-05T00:26:52.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "ADASカメラの焦点ずれ防止 芝浦機械､ゆがまぬ金型加工",
-        "source": "日本経済新聞",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BbGc5bGpoMDhqUVJUbnZFSVFKaWp3OUhabkZNQTVqNnBqZFhsNmhRYnM4eHU1c0RQRnFlMXNENUl2cl9Td3RnVmQ4Q3NCRE91Q1d5LUVqRDhWM1lCMERwaVNBYTZndHFzTTQxTlF0a0tITXNDcEdvSkZFal8zaGs?oc=5",
-        "publishedAt": "2026-10-04T20:00:00.000Z"
-      },
-      {
-        "time": "05:00",
-        "title": "新刊／堀内公博著 『なぜ戦略は正しいのに成果があがらないのか？』",
-        "source": "日刊工業新聞",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ONmswSHMzRFJYX0R4dG9xc3hReU5vQ2lQeld2N3ZtS2F6MDRMNHVEZkpEN3JabWw4RDdTQ0cwWHVwaWxkOGNxVFl2eUhIdTVvZm1ORzZNLThBQUhTT1hCMHM1cUlaaG8wODRuNDl2bDdrTkZWcHllVWFZQQ?oc=5",
+        "source": "中部経済新聞",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Cei16SkpWN0lNWTBzWlBxcVhFZ3VYNzBnYTdndDJDT1dfRlNjQ2RLdXozeDgzTmZVVVNjemFocFZiSTZlTlllVVVqZmRQaFVvWUtSUDljTEEyQXNReU1RVGJjbzVYclpKa0k0ckZfeVFIRFU?oc=5",
         "publishedAt": "2026-10-04T20:00:00.000Z"
       },
       {
@@ -45,18 +17,46 @@
         "publishedAt": "2026-10-04T16:52:26.000Z"
       },
       {
+        "time": "09:26",
+        "title": "日本のサーボモーター・ドライブ市場規模2026年～2033年：技術、展開、収益、最新トレ",
+        "source": "pando.life",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WS3FwMFBBSEZST3FMTGlQTGtwV2F4amg1N2s4Nk5aNURQSFoxRWNBNk00NTBtZ3FlRzl3MVlyTDZfYzdSNlM5eURn?oc=5",
+        "publishedAt": "2026-10-05T00:26:52.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "パナエナジー、EV・DC用電池開発拠点が稼働",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYVy1scVN6Vkk0RXplLUpDNkpnc3FPbUIyWEtkRXYtMXg2OFE3bkQycEIzcXdxbnRjYlB6VnkwZjFjeHNLRTdvVFRWT3k1cFFCN21TQkpQSGk?oc=5",
+        "publishedAt": "2026-10-04T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "新刊／堀内公博著 『なぜ戦略は正しいのに成果があがらないのか？』",
+        "source": "日刊工業新聞",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ONmswSHMzRFJYX0R4dG9xc3hReU5vQ2lQeld2N3ZtS2F6MDRMNHVEZkpEN3JabWw4RDdTQ0cwWHVwaWxkOGNxVFl2eUhIdTVvZm1ORzZNLThBQUhTT1hCMHM1cUlaaG8wODRuNDl2bDdrTkZWcHllVWFZQQ?oc=5",
+        "publishedAt": "2026-10-04T20:00:00.000Z"
+      },
+      {
+        "time": "05:00",
+        "title": "ADASカメラの焦点ずれ防止 芝浦機械､ゆがまぬ金型加工",
+        "source": "nikkei.com",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BbGc5bGpoMDhqUVJUbnZFSVFKaWp3OUhabkZNQTVqNnBqZFhsNmhRYnM4eHU1c0RQRnFlMXNENUl2cl9Td3RnVmQ4Q3NCRE91Q1d5LUVqRDhWM1lCMERwaVNBYTZndHFzTTQxTlF0a0tITXNDcEdvSkZFal8zaGs?oc=5",
+        "publishedAt": "2026-10-04T20:00:00.000Z"
+      },
+      {
+        "time": "10:28",
+        "title": "IDECが上場来高値更新､27年3月期業績予想を上方修正",
+        "source": "四季報オンライン",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZTzBPVlk3T2EzUDdBYVhhWk1XVkxmUEQ4RmlIbE9paDFxNGZROXFGNmdyWVFiVUI2LVZSMGkxYmIzRXdfYms1V2tlUjhqcGR2QlBYZHA5OA?oc=5",
+        "publishedAt": "2026-10-05T01:28:33.000Z"
+      },
+      {
         "time": "12:30",
         "title": "CNCウォームねじ研削盤の世界市場（2026年～2032年）、市場規模（シングルヘッド、マルチヘッド）・分析レポートを発表",
         "source": "アットプレス",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wS2o3eV9ZdldBMzBqZzJscHNVSE1JVk1mdEVKUjdScXBtUzBzZlFwOURPSGM1ODdKamJodGEwZktaeTVZakM4Qk50VWgtdw?oc=5",
         "publishedAt": "2026-10-04T03:30:00.000Z"
-      },
-      {
-        "time": "02:07",
-        "title": "ウルトラ精密加工システム市場に関する指標（規模、成長、シェアなど）は、本市場レポートにお",
-        "source": "pando.life",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tUUdhQmlJQkFXRW9FenQ0Rkd2cU5vdFF0NHhiWG1qRXFGYnc2OFRzOFJNb1hOTjFhN29rcFpaWHAzaVN0c19aMHZn?oc=5",
-        "publishedAt": "2026-10-04T17:07:16.000Z"
       }
     ],
     "worldHeadlines": [
@@ -82,6 +82,13 @@
         "publishedAt": "2026-10-04T21:47:44.000Z"
       },
       {
+        "time": "10:49",
+        "title": "イエメン フーシ派へ軍事作戦開始",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597582?source=rss",
+        "publishedAt": "2026-10-05T01:49:08.000Z"
+      },
+      {
         "time": "18:54",
         "title": "独 ウに2400億円相当を追加支援へ",
         "source": "Yahoo!ニュース",
@@ -94,16 +101,16 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597552?source=rss",
         "publishedAt": "2026-10-04T12:34:33.000Z"
-      },
-      {
-        "time": "17:07",
-        "title": "米大統領 対立議員の電話番号公開",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597522?source=rss",
-        "publishedAt": "2026-10-04T08:07:45.000Z"
       }
     ],
     "economyHeadlines": [
+      {
+        "time": "10:51",
+        "title": "日経平均が一時7万円台 3カ月ぶり",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597585?source=rss",
+        "publishedAt": "2026-10-05T01:51:46.000Z"
+      },
       {
         "time": "18:00",
         "title": "食品消費税1%に賛否 減税効果は",
@@ -112,18 +119,18 @@
         "publishedAt": "2026-10-03T09:00:18.000Z"
       },
       {
-        "time": "22:57",
-        "title": "米国産ジャガイモ解禁 前倒し浮上",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597453?source=rss",
-        "publishedAt": "2026-10-03T13:57:57.000Z"
-      },
-      {
         "time": "08:51",
         "title": "8年で20倍 民泊規制強化と争奪戦",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597572?source=rss",
         "publishedAt": "2026-10-04T23:51:16.000Z"
+      },
+      {
+        "time": "11:05",
+        "title": "フィジカルAIで異業種連携相次ぐ",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597586?source=rss",
+        "publishedAt": "2026-10-05T02:05:18.000Z"
       },
       {
         "time": "07:35",
@@ -138,29 +145,22 @@
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597529?source=rss",
         "publishedAt": "2026-10-04T09:02:05.000Z"
-      },
-      {
-        "time": "15:29",
-        "title": "企業は「高専卒」に熱視線か 背景",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597509?source=rss",
-        "publishedAt": "2026-10-04T06:29:46.000Z"
       }
     ],
     "localHeadlines": [
+      {
+        "time": "11:08",
+        "title": "6人死亡放火殺人 起訴内容を否認",
+        "source": "Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/pickup/6597581?source=rss",
+        "publishedAt": "2026-10-05T02:08:27.000Z"
+      },
       {
         "time": "08:19",
         "title": "那覇強殺 女性の首にひも状の痕",
         "source": "Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/pickup/6597570?source=rss",
         "publishedAt": "2026-10-04T23:19:52.000Z"
-      },
-      {
-        "time": "20:28",
-        "title": "那覇強殺事件 遺族がコメント発表",
-        "source": "Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/pickup/6597545?source=rss",
-        "publishedAt": "2026-10-04T11:28:09.000Z"
       },
       {
         "time": "09:46",
